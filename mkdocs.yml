@@ -1,12 +1,12 @@
 # Project Information
-site_name: Awesome List 
-site_description: Awesome list collection
+site_name: 超赞合集
+site_description: 超赞列表合集
 site_author: chenjiajia
 site_url: https://icopy-site.github.io/asm-cn/
 
 # Repository
-repo_name: 'icopy-site/asm-en'
-repo_url: 'https://github.com/icopy-site/asm-en'
+repo_name: 'icopy-site/asm-cn'
+repo_url: 'https://github.com/icopy-site/asm-cn'
 edit_uri: 'blob/master/docs/'
 
 # Copyright
@@ -217,11 +217,11 @@ nav:
     - Terraform: awesome/awesome-terraform.md
     - Vapor: awesome/awesome-vapor.md
   - 计算机科学:
-    - University Courses: awesome/awesome-courses.md
-    - Data Science: awesome/awesome-datascience.md
+    - 大学课程: awesome/awesome-courses.md
+    - 数据科学: awesome/awesome-datascience.md
     - Data Science_sub: 
       - Tutorials: awesome/awesome-learn-datascience.md
-    - Machine Learning: awesome/awesome-machine-learning.md
+    - 机器学习: awesome/awesome-machine-learning.md
     - Machine Learning_sub: 
       - Tutorials: awesome/Machine-Learning-Tutorials.md
       - ML with Ruby: awesome/machine-learning-with-ruby.md
@@ -234,8 +234,8 @@ nav:
     - Cryptography: awesome/awesome-cryptography.md
     - Cryptography_sub: 
       - Papers: awesome/awesome-crypto-papers.md
-    - Computer Vision: awesome/awesome-computer-vision.md
-    - Deep Learning: awesome/awesome-deep-learning.md
+    - 机器视觉: awesome/awesome-computer-vision.md
+    - 深度学习: awesome/awesome-deep-learning.md
     - Deep Learning_sub: 
       - TensorFlow: awesome/awesome-tensorflow.md
       - Papers: awesome/awesome-deep-learning-papers.md
@@ -262,7 +262,7 @@ nav:
     - Math: awesome/awesome-math.md
     - Recursion Schemes: awesome/awesome-recursion-schemes.md
   - 书籍:
-    - Free Programming Books: awesome/free-programming-books.md
+    - 免费编程书籍: awesome/free-programming-books.md
     - Free Software Testing Books: awesome/awesome-software-quality.md
     - Go Books: awesome/GoBooks.md
     - R Books: awesome/rbooks.md
@@ -338,7 +338,7 @@ nav:
     - FFmpeg: awesome/awesome-ffmpeg.md
   - 学习:
     - CLI Workshoppers: awesome/awesome-workshopper.md
-    - Learn to Program: awesome/learn-to-program.md
+    - 学习编程: awesome/learn-to-program.md
     - Speaking: awesome/awesome-speaking.md
     - Tech Videos: awesome/awesome-tech-videos.md
     - Dive into Machine Learning: awesome/dive-into-machine-learning.md
@@ -364,7 +364,7 @@ nav:
     - Drupal: awesome/awesome-drupal.md
   - 硬件:
     - Robotics: awesome/awesome-robotics.md
-    - Internet of Things: awesome/awesome-iot.md
+    - IOT: awesome/awesome-iot.md
     - Electronics: awesome/awesome-electronics.md
     - Bluetooth Beacons: awesome/awesome-beacon.md
     - Electric Guitar Specifications: awesome/guitarspecs.md
@@ -384,15 +384,15 @@ nav:
     - Programming Interviews: awesome/awesome-interview-questions.md
     - Code Review: awesome/awesome-code-review.md
   - 网络:
-    - Software-Defined Networking: awesome/awesome-sdn.md
-    - Network Analysis: awesome/awesome-network-analysis.md
+    - 软件定义网络: awesome/awesome-sdn.md
+    - 网络分析: awesome/awesome-network-analysis.md
     - PCAPTools: awesome/awesome-pcaptools.md
   - 去中心化:
-    - Bitcoin: awesome/awesome-bitcoin.md
-    - Ripple: awesome/awesome-ripple.md
+    - 比特币: awesome/awesome-bitcoin.md
+    - 波场: awesome/awesome-ripple.md
     - Non-Financial Blockchain: awesome/awesome-non-financial-blockchain.md
     - Mastodon: awesome/awesome-mastodon.md
-    - Ethereum: awesome/Awesome-Ethereum.md
+    - 以太坊: awesome/Awesome-Ethereum.md
   - 杂项:
     - JSON: awesome/awesome-json.md
     - JSON_sub: 
@@ -504,7 +504,7 @@ theme:
   custom_dir: 'mkdocs-material/material'
   static_templates:
     - 404.html
-  language: 'en'
+  language: 'zh'
   palette:
     primary: 'white'
     accent: 'red'
@@ -518,7 +518,7 @@ theme:
 # Customization
 extra:
   search:
-    language: 'en'
+    language: 'jp'
   copyright: 'CC BY-NC-SA 4.0'
 
 extra_javascript:
