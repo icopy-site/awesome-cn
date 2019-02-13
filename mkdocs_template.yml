@@ -1,0 +1,74 @@
+# Project Information
+site_name: Awesome List 
+site_description: Awesome list collection
+site_author: chenjiajia
+site_url: https://icopy-site.github.io/asm-cn/
+
+# Repository
+repo_name: 'icopy-site/asm-cn'
+repo_url: 'https://github.com/icopy-site/asm-cn'
+edit_uri: 'blob/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2019'
+
+# Contents
+nav:
+
+
+# Theme
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  static_templates:
+    - 404.html
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  feature:
+    tabs: false
+# Customization
+extra:
+  search:
+    language: 'jp'
+  copyright: 'CC BY-NC-SA 4.0'
+
+extra_javascript:
+  - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
+  - '_static/js/extra.js'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+
+extra_css:
+  - '_static/css/extra.css'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde

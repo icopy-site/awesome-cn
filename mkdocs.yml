@@ -1,0 +1,556 @@
+# Project Information
+site_name: Awesome List 
+site_description: Awesome list collection
+site_author: chenjiajia
+site_url: https://icopy-site.github.io/asm-cn/
+
+# Repository
+repo_name: 'icopy-site/asm-en'
+repo_url: 'https://github.com/icopy-site/asm-en'
+edit_uri: 'blob/master/docs/'
+
+# Copyright
+copyright: 'Copyright &copy; 2016 - 2019'
+
+# Contents
+nav:
+  - Platforms:
+    - Node.js: awesome/awesome-nodejs.md
+    - Frontend Development: awesome/frontend-dev-bookmarks.md
+    - iOS: awesome/awesome-ios.md
+    - Android: awesome/awesome-android.md
+    - IoT & Hybrid Apps: awesome/awesome-IoT-hybrid.md
+    - Electron: awesome/awesome-electron.md
+    - Cordova: awesome/awesome-cordova.md
+    - React Native: awesome/awesome-react-native.md
+    - Xamarin: awesome/awesome-xamarin.md
+    - Linux: awesome/awesome-linux.md
+    - Linux_sub: 
+      - Containers: awesome/awesome-linux-containers.md
+    - macOS: awesome/awesome-macOS.md
+    - macOS_sub: 
+      - Command-Line: awesome/awesome-macos-command-line.md
+      - Screensavers: awesome/awesome-macos-screensavers.md
+      - Apps: awesome/awesome-mac.md
+      - Open Source Apps: awesome/open-source-mac-os-apps.md
+    - watchOS: awesome/awesome-watchos.md
+    - JVM: awesome/awesome-jvm.md
+    - Salesforce: awesome/awesome-salesforce.md
+    - Amazon Web Services: awesome/awesome-aws.md
+    - Windows: awesome/Awesome.md
+    - IPFS: awesome/awesome-ipfs.md
+    - Fuse: awesome/awesome-fuse.md
+    - Heroku: awesome/awesome-heroku.md
+    - Raspberry Pi: awesome/awesome-raspberry-pi.md
+    - Qt: awesome/awesome-qt.md
+    - WebExtensions: awesome/Awesome-WebExtensions.md
+    - RubyMotion: awesome/awesome-rubymotion.md
+    - Smart TV: awesome/awesome-smart-tv.md
+    - GNOME: awesome/awesome-gnome.md
+    - .NET: awesome/awesome-dotnet.md
+    - .NET_sub: 
+      - Core: awesome/awesome-dotnet-core.md
+    - Amazon Alexa: awesome/awesome-amazon-alexa.md
+    - DigitalOcean: awesome/awesome-digitalocean.md
+    - Flutter: awesome/awesome-flutter.md
+    - Home Assistant: awesome/awesome-home-assistant.md
+  - Programming Languages:
+    - JavaScript: awesome/awesome-javascript.md
+    - JavaScript_sub: 
+      - Promises: awesome/awesome-promises.md
+      - Standard Style: awesome/awesome-standard.md
+      - Must Watch Talks: awesome/js-must-watch.md
+      - Tips: awesome/jstips.md
+      - Network Layer: awesome/awesome-network-js.md
+      - Micro npm Packages: awesome/awesome-micro-npm-packages.md
+      - Mad Science npm Packages: awesome/awesome-mad-science.md
+      - Maintenance Modules: awesome/maintenance-modules.md
+      - npm: awesome/awesome-npm.md
+      - AVA: awesome/awesome-ava.md
+      - ESLint: awesome/awesome-eslint.md
+      - Functional Programming: awesome/awesome-fp-js.md
+      - Observables: awesome/awesome-observables.md
+      - npm scripts: awesome/awesome-npm-scripts.md
+    - Swift: awesome/awesome-swift.md
+    - Swift_sub: 
+      - Education: awesome/Awesome-Swift-Education.md
+      - Playgrounds: awesome/Awesome-Swift-Playgrounds.md
+    - Python: awesome/awesome-python.md
+    - Python_sub: 
+      - Asyncio: awesome/awesome-asyncio.md
+      - Scientific Audio: awesome/awesome-python-scientific-audio.md
+      - CircuitPython: awesome/awesome-circuitpython.md
+    - Rust: awesome/awesome-rust.md
+    - Haskell: awesome/awesome-haskell.md
+    - PureScript: awesome/awesome-purescript.md
+    - Go: awesome/awesome-go.md
+    - Scala: awesome/awesome-scala.md
+    - Ruby: awesome/awesome-ruby.md
+    - Clojure: awesome/awesome-clojure.md
+    - ClojureScript: awesome/awesome-clojurescript.md
+    - Elixir: awesome/awesome-elixir.md
+    - Elm: awesome/awesome-elm.md
+    - Erlang: awesome/awesome-erlang.md
+    - Julia: awesome/Julia.jl.md
+    - Lua: awesome/awesome-lua.md
+    - C: awesome/awesome-c.md
+    - C/C++: awesome/awesome-cpp.md
+    - R: awesome/awesome-R.md
+    - D: awesome/awesome-d.md
+    - Common Lisp: awesome/awesome-cl.md
+    - Perl: awesome/awesome-perl.md
+    - Groovy: awesome/awesome-groovy.md
+    - Dart: awesome/awesome-dart.md
+    - Java: awesome/awesome-java.md
+    - Java_sub: 
+      - RxJava: awesome/awesome-rxjava.md
+    - Kotlin: awesome/awesome-kotlin.md
+    - OCaml: awesome/awesome-ocaml.md
+    - ColdFusion: awesome/awesome-coldfusion.md
+    - Fortran: awesome/awesome-fortran.md
+    - PHP: awesome/awesome-php.md
+    - PHP_sub: 
+      - Composer: awesome/awesome-composer.md
+    - Delphi: awesome/awesome-delphi.md
+    - Assembler: awesome/awesome-asm.md
+    - AutoHotkey: awesome/awesome-AutoHotkey.md
+    - AutoIt: awesome/awesome-AutoIt.md
+    - Crystal: awesome/awesome-crystal.md
+    - Frege: awesome/awesome-frege.md
+    - CMake: awesome/awesome-cmake.md
+    - ActionScript 3: awesome/awesome-actionscript3.md
+    - Eta: awesome/awesome-eta.md
+    - Idris: awesome/awesome-idris.md
+  - Front-End Development:
+    - ES6 Tools: awesome/es6-tools.md
+    - Web Performance Optimization: awesome/awesome-wpo.md
+    - Web Tools: awesome/tools.md
+    - CSS: awesome/awesome-css.md
+    - CSS_sub: 
+      - Critical-Path Tools: awesome/critical-path-css-tools.md
+      - Scalability: awesome/scalable-css-reading-list.md
+      - Must-Watch Talks: awesome/must-watch-css.md
+      - Protips: awesome/css-protips.md
+    - React: awesome/awesome-react.md
+    - React_sub: 
+      - Relay: awesome/awesome-relay.md
+    - Web Components: awesome/webcomponents-the-right-way.md
+    - Polymer: awesome/awesome-polymer.md
+    - Angular: awesome/awesome-angular.md
+    - Backbone: awesome/awesome-backbone.md
+    - HTML5: awesome/awesome-html5.md
+    - SVG: awesome/awesome-svg.md
+    - Canvas: awesome/awesome-canvas.md
+    - KnockoutJS: awesome/awesome-knockout.md
+    - Dojo Toolkit: awesome/awesome-dojo.md
+    - Inspiration: awesome/Inspire.md
+    - Ember: awesome/awesome-ember.md
+    - Android UI: awesome/awesome-android-ui.md
+    - iOS UI: awesome/awesome-ios-ui.md
+    - Meteor: awesome/awesome-meteor.md
+    - BEM: awesome/BEM-resources.md
+    - Flexbox: awesome/awesome-flexbox.md
+    - Web Typography: awesome/typography.md
+    - Web Accessibility: awesome/awesome-a11y.md
+    - Material Design: awesome/awesome-material.md
+    - D3: awesome/awesome-d3.md
+    - Emails: awesome/awesome-emails.md
+    - jQuery: awesome/awesome-jquery.md
+    - jQuery_sub: 
+      - Tips: awesome/jquery-tips-everyone-should-know.md
+    - Web Audio: awesome/awesome-webaudio.md
+    - Offline-First: awesome/offline-first.md
+    - Static Website Services: awesome/awesome-static-website-services.md
+    - Cycle.js: awesome/awesome-cyclejs.md
+    - Text Editing: awesome/awesome-text-editing.md
+    - Motion UI Design: awesome/motion-ui-design.md
+    - Vue.js: awesome/awesome-vue.md
+    - Marionette.js: awesome/awesome-marionette.md
+    - Aurelia: awesome/awesome-aurelia.md
+    - Charting: awesome/awesome-charting.md
+    - Ionic Framework 2: awesome/awesome-ionic.md
+    - Chrome DevTools: awesome/awesome-chrome-devtools.md
+    - PostCSS: awesome/awesome-postcss.md
+    - Draft.js: awesome/awesome-draft-js.md
+    - Service Workers: awesome/awesome-service-workers.md
+    - Progressive Web Apps: awesome/awesome-progressive-web-apps.md
+    - choo: awesome/awesome-choo.md
+    - Redux: awesome/awesome-redux.md
+    - webpack: awesome/awesome-webpack.md
+    - Browserify: awesome/awesome-browserify.md
+    - Sass: awesome/awesome-sass.md
+    - Ant Design: awesome/awesome-ant-design.md
+    - Less: awesome/awesome-less.md
+    - WebGL: awesome/awesome-webgl.md
+    - Preact: awesome/awesome-preact.md
+    - Progressive Enhancement: awesome/progressive-enhancement-resources.md
+    - Next.js: awesome/awesome-nextjs.md
+    - Hyperapp: awesome/awesome-hyperapp.md
+    - lit-html: awesome/awesome-lit-html.md
+    - JAMstack: awesome/awesome-jamstack.md
+    - Mobile Web Development: awesome/awesome-mobile-web-development.md
+  - Back-End Development:
+    - Flask: awesome/awesome-flask.md
+    - Docker: awesome/awesome-docker.md
+    - Vagrant: awesome/awesome-vagrant.md
+    - Pyramid: awesome/awesome-pyramid.md
+    - Play1 Framework: awesome/awesome-play1.md
+    - CakePHP: awesome/awesome-cakephp.md
+    - Symfony: awesome/awesome-symfony.md
+    - Symfony_sub: 
+      - Education: awesome/awesome-symfony-education.md
+    - Laravel: awesome/awesome-laravel.md
+    - Laravel_sub: 
+      - Education: awesome/Awesome-Laravel-Education.md
+    - Rails: awesome/awesome-rails.md
+    - Rails_sub: 
+      - Gems: awesome/awesome-rails-gem.md
+    - Phalcon: awesome/awesome-phalcon.md
+    - Useful `.htaccess` Snippets: awesome/htaccess.md
+    - nginx: awesome/nginx-resources.md
+    - Dropwizard: awesome/awesome-dropwizard.md
+    - Kubernetes: awesome/awesome-kubernetes.md
+    - Lumen: awesome/awesome-lumen.md
+    - Serverless Framework: awesome/awesome-serverless.md
+    - Apache Wicket: awesome/awesome-wicket.md
+    - Vert.x: awesome/vertx-awesome.md
+    - Terraform: awesome/awesome-terraform.md
+    - Vapor: awesome/awesome-vapor.md
+  - Computer Science:
+    - University Courses: awesome/awesome-courses.md
+    - Data Science: awesome/awesome-datascience.md
+    - Data Science_sub: 
+      - Tutorials: awesome/awesome-learn-datascience.md
+    - Machine Learning: awesome/awesome-machine-learning.md
+    - Machine Learning_sub: 
+      - Tutorials: awesome/Machine-Learning-Tutorials.md
+      - ML with Ruby: awesome/machine-learning-with-ruby.md
+      - Core ML Models: awesome/Awesome-CoreML-Models.md
+      - H2O: awesome/awesome-h2o.md
+    - Speech and Natural Language Processing_sub: 
+      - Spanish: awesome/awesome-spanish-nlp.md
+      - NLP with Ruby: awesome/nlp-with-ruby.md
+    - Linguistics: awesome/awesome-linguistics.md
+    - Cryptography: awesome/awesome-cryptography.md
+    - Cryptography_sub: 
+      - Papers: awesome/awesome-crypto-papers.md
+    - Computer Vision: awesome/awesome-computer-vision.md
+    - Deep Learning: awesome/awesome-deep-learning.md
+    - Deep Learning_sub: 
+      - TensorFlow: awesome/awesome-tensorflow.md
+      - Papers: awesome/awesome-deep-learning-papers.md
+      - Education: awesome/awesome-deep-learning-resources.md
+    - Deep Vision: awesome/awesome-deep-vision.md
+    - Open Source Society University: awesome/computer-science.md
+    - Functional Programming: awesome/awesome-functional-programming.md
+    - Static Analysis & Code Quality: awesome/awesome-static-analysis.md
+    - Information Retrieval: awesome/awesome-information-retrieval.md
+  - Big Data:
+    - Big Data: awesome/awesome-bigdata.md
+    - Hadoop: awesome/awesome-hadoop.md
+    - Data Engineering: awesome/awesome-data-engineering.md
+    - Streaming: awesome/awesome-streaming.md
+    - Apache Spark: awesome/awesome-spark.md
+  - Theory:
+    - Papers We Love: awesome/papers-we-love.md
+    - Talks: awesome/awesome-talks.md
+    - Algorithms: awesome/awesome-algorithms.md
+    - Algorithm Visualizations: awesome/algovis.md
+    - Artificial Intelligence: awesome/awesome-artificial-intelligence.md
+    - Search Engine Optimization: awesome/search-engine-optimization.md
+    - Competitive Programming: awesome/awesome-competitive-programming.md
+    - Math: awesome/awesome-math.md
+    - Recursion Schemes: awesome/awesome-recursion-schemes.md
+  - Books:
+    - Free Programming Books: awesome/free-programming-books.md
+    - Free Software Testing Books: awesome/awesome-software-quality.md
+    - Go Books: awesome/GoBooks.md
+    - R Books: awesome/rbooks.md
+    - Mind Expanding Books: awesome/Mind-Expanding-Books.md
+    - Book Authoring: awesome/awesome-book-authoring.md
+    - Elixir Books: awesome/ElixirBooks.md
+  - Editors:
+    - Sublime Text: awesome/sublime-bookmarks.md
+    - Vim: awesome/vim-galore.md
+    - Atom: awesome/awesome-atom.md
+    - Visual Studio Code: awesome/awesome-vscode.md
+  - Gaming:
+    - Game Development: awesome/magictools.md
+    - Game Talks: awesome/awesome-gametalks.md
+    - Godot: awesome/awesome-godot.md
+    - Open Source Games: awesome/games.md
+    - Unity: awesome/awesome-unity.md
+    - Chess: awesome/awesome-chess.md
+    - LÖVE: awesome/awesome-love2d.md
+    - PICO-8: awesome/awesome-PICO-8.md
+    - Game Boy Development: awesome/awesome-gbdev.md
+    - Construct 2: awesome/awesome-construct.md
+    - Gideros: awesome/awesome-gideros.md
+  - Development Environment:
+    - Quick Look Plugins: awesome/quick-look-plugins.md
+    - Dev Env: awesome/awesome-devenv.md
+    - Dotfiles: awesome/awesome-dotfiles.md
+    - Shell: awesome/awesome-shell.md
+    - Fish: awesome/awesome-fish.md
+    - Command-Line Apps: awesome/awesome-cli-apps.md
+    - ZSH Plugins: awesome/awesome-zsh-plugins.md
+    - GitHub: awesome/awesome-github.md
+    - GitHub_sub: 
+      - Browser Extensions: awesome/awesome-browser-extensions-for-github.md
+      - Cheat Sheet: awesome/github-cheat-sheet.md
+    - Git Cheat Sheet & Git Flow: awesome/git-cheat-sheet.md
+    - Git Tips: awesome/tips.md
+    - Git Add-ons: awesome/awesome-git-addons.md
+    - SSH: awesome/awesome-ssh.md
+    - FOSS for Developers: awesome/FOSS-for-Dev.md
+    - Hyper: awesome/awesome-hyper.md
+    - PowerShell: awesome/awesome-powershell.md
+    - Alfred Workflows: awesome/awesome-alfred-workflows.md
+    - Terminals Are Sexy: awesome/terminals-are-sexy.md
+  - Entertainment:
+    - Science Fiction: awesome/awesome-scifi.md
+    - Fantasy: awesome/awesome-fantasy.md
+    - Podcasts: awesome/awesome-geek-podcasts.md
+    - Email Newsletters: awesome/awesome-newsletters.md
+    - IT Quotes: awesome/awesome-it-quotes.md
+  - Databases:
+    - Database: awesome/awesome-db.md
+    - MySQL: awesome/awesome-mysql.md
+    - InfluxDB: awesome/awesome-influxdb.md
+    - Neo4j: awesome/awesome-neo4j.md
+    - MongoDB: awesome/awesome-mongodb.md
+    - RethinkDB: awesome/awesome-rethinkdb.md
+    - TinkerPop: awesome/awesome-tinkerpop.md
+    - PostgreSQL: awesome/awesome-postgres.md
+    - CouchDB: awesome/awesome-couchdb.md
+    - HBase: awesome/awesome-hbase.md
+  - Media:
+    - Creative Commons Media: awesome/creative-commons-media.md
+    - Fonts: awesome/awesome-fonts.md
+    - Codeface: awesome/codeface.md
+    - Stock Resources: awesome/awesome-stock-resources.md
+    - GIF: awesome/awesome-gif.md
+    - Music: awesome/awesome-music.md
+    - Open Source Documents: awesome/awesome-opensource-documents.md
+    - Audio Visualization: awesome/awesome-audio-visualization.md
+    - Broadcasting: awesome/awesome-broadcasting.md
+    - Pixel Art: awesome/awesome-pixel-art.md
+    - FFmpeg: awesome/awesome-ffmpeg.md
+  - Learn:
+    - CLI Workshoppers: awesome/awesome-workshopper.md
+    - Learn to Program: awesome/learn-to-program.md
+    - Speaking: awesome/awesome-speaking.md
+    - Tech Videos: awesome/awesome-tech-videos.md
+    - Dive into Machine Learning: awesome/dive-into-machine-learning.md
+    - Computer History: awesome/awesome-computer-history.md
+    - Programming for Kids: awesome/awesome-programming-for-kids.md
+    - Educational Games: awesome/awesome-eg.md
+    - JavaScript Learning: awesome/awesome-javascript-learning.md
+  - Security:
+    - Application Security: awesome/awesome-appsec.md
+    - Security: awesome/awesome-security.md
+    - CTF: awesome/awesome-ctf.md
+    - Malware Analysis: awesome/awesome-malware-analysis.md
+    - Android Security: awesome/android-security-awesome.md
+    - Hacking: awesome/awesome-hacking.md
+    - Honeypots: awesome/awesome-honeypots.md
+    - Incident Response: awesome/awesome-incident-response.md
+    - Vehicle Security and Car Hacking: awesome/awesome-vehicle-security.md
+    - Web Security: awesome/awesome-web-security.md
+    - Lockpicking: awesome/awesome-lockpicking.md
+    - Umbraco: awesome/awesome-umbraco.md
+    - Refinery CMS: awesome/awesome-refinerycms.md
+    - Wagtail: awesome/awesome-wagtail.md
+    - Drupal: awesome/awesome-drupal.md
+  - Hardware:
+    - Robotics: awesome/awesome-robotics.md
+    - Internet of Things: awesome/awesome-iot.md
+    - Electronics: awesome/awesome-electronics.md
+    - Bluetooth Beacons: awesome/awesome-beacon.md
+    - Electric Guitar Specifications: awesome/guitarspecs.md
+  - Business:
+    - Open Companies: awesome/awesome-open-company.md
+    - Places to Post Your Startup: awesome/PlacesToPostYourStartup.md
+    - OKR Methodology: awesome/awesome-okr.md
+    - Leading and Managing: awesome/awesome-leading-and-managing.md
+    - Indie: awesome/awesome-indie.md
+  - Work:
+    - Slack: awesome/awesome-slack.md
+    - Slack_sub: 
+      - Communities: awesome/awesome-slack.md
+    - Remote Jobs: awesome/awesome-remote-job.md
+    - Productivity: awesome/awesome-productivity.md
+    - Niche Job Boards: awesome/awesome-job-boards.md
+    - Programming Interviews: awesome/awesome-interview-questions.md
+    - Code Review: awesome/awesome-code-review.md
+  - Networking:
+    - Software-Defined Networking: awesome/awesome-sdn.md
+    - Network Analysis: awesome/awesome-network-analysis.md
+    - PCAPTools: awesome/awesome-pcaptools.md
+  - Decentralized Systems:
+    - Bitcoin: awesome/awesome-bitcoin.md
+    - Ripple: awesome/awesome-ripple.md
+    - Non-Financial Blockchain: awesome/awesome-non-financial-blockchain.md
+    - Mastodon: awesome/awesome-mastodon.md
+    - Ethereum: awesome/Awesome-Ethereum.md
+  - Miscellaneous:
+    - JSON: awesome/awesome-json.md
+    - JSON_sub: 
+      - GeoJSON: awesome/awesome-geojson.md
+      - Datasets: awesome/awesome-json-datasets.md
+    - Discounts for Student Developers: awesome/discount-for-student-dev.md
+    - Sysadmin: awesome/awesome-sysadmin.md
+    - Radio: awesome/awesome-radio.md
+    - Awesome: awesome/awesome.md
+    - Analytics: awesome/awesome-analytics.md
+    - REST: awesome/awesome-rest.md
+    - Selenium: awesome/awesome-selenium.md
+    - Appium: awesome/awesome-appium.md
+    - Continuous Integration and Continuous Delivery: awesome/awesome-ciandcd.md
+    - Services Engineering: awesome/services-engineering.md
+    - Free for Developers: awesome/free-for-dev.md
+    - Answers: awesome/awesome-answers.md
+    - Sketch: awesome/awesome-sketch.md
+    - Boilerplate Projects: awesome/awesome-projects-boilerplates.md
+    - Readme: awesome/awesome-readme.md
+    - Tools: awesome/ToolsOfTheTrade.md
+    - Styleguides: awesome/awesome-styleguides.md
+    - Design and Development Guides: awesome/guides.md
+    - Software Engineering Blogs: awesome/engineering-blogs.md
+    - Self Hosted: awesome/awesome-selfhosted.md
+    - FOSS Production Apps: awesome/awesome-foss-apps.md
+    - Gulp: awesome/awesome-gulp.md
+    - AMA: awesome/amas.md
+    - AMA_sub: 
+      - Answers: awesome/awesome-ama-answers.md
+    - Open Source Photography: awesome/awesome-OpenSourcePhotography.md
+    - OpenGL: awesome/awesome-opengl.md
+    - GraphQL: awesome/awesome-graphql.md
+    - Transit: awesome/awesome-transit.md
+    - Research Tools: awesome/awesome-research.md
+    - Data Visualization: awesome/awesome-dataviz.md
+    - Social Media Share Links: awesome/shareable-links.md
+    - Microservices: awesome/awesome-microservices.md
+    - Unicode: awesome/Awesome-Unicode.md
+    - Unicode_sub: 
+      - Code Points: awesome/awesome-codepoints.md
+    - Beginner-Friendly Projects: awesome/awesome-for-beginners.md
+    - Katas: awesome/awesome-katas.md
+    - Tools for Activism: awesome/toolsforactivism.md
+    - Citizen Science: awesome/citizen-science.md
+    - TAP: awesome/awesome-tap.md
+    - MQTT: awesome/awesome-mqtt.md
+    - Hacking Spots: awesome/awesome-hacking-locations.md
+    - For Girls: awesome/awesome4girls.md
+    - Vorpal: awesome/awesome-vorpal.md
+    - Vulkan: awesome/awesome-vulkan.md
+    - LaTeX: awesome/awesome-LaTeX.md
+    - Funny Markov Chains: awesome/awesome-funny-markov.md
+    - Bioinformatics: awesome/Awesome-Bioinformatics.md
+    - Colorful: awesome/Colorful.md
+    - Steam: awesome/awesome-steam.md
+    - Bots: awesome/bots.md
+    - Site Reliability Engineering: awesome/awesome-sre.md
+    - Empathy in Engineering: awesome/empathy-in-engineering.md
+    - DTrace: awesome/awesome-dtrace.md
+    - Userscripts: awesome/awesome-userscripts.md
+    - Pokémon: awesome/awesome-pokemon.md
+    - ChatOps: awesome/awesome-chatops.md
+    - Falsehood: awesome/awesome-falsehood.md
+    - Domain-Driven Design: awesome/awesome-ddd.md
+    - Quantified Self: awesome/awesome-quantified-self.md
+    - SaltStack: awesome/awesome-saltstack.md
+    - Web Design: awesome/awesome-web-design.md
+    - JMeter: awesome/awesome-jmeter.md
+    - Creative Coding: awesome/awesome-creative-coding.md
+    - No-Login Web Apps: awesome/awesome-no-login-web-apps.md
+    - Testing: awesome/awesome-testing.md
+    - Free Software: awesome/awesome-free-software.md
+    - Framer: awesome/awesome-framer.md
+    - Markdown: awesome/awesome-markdown.md
+    - Dev Fun: awesome/awesome-dev-fun.md
+    - Events in the Netherlands: awesome/awesome-netherlands-events.md
+    - Healthcare: awesome/awesome-healthcare.md
+    - Magento 2: awesome/awesome-magento2.md
+    - TikZ: awesome/awesome-tikz.md
+    - Neuroscience: awesome/awesome-neuroscience.md
+    - Ad-Free: awesome/awesome-ad-free.md
+    - Esolangs: awesome/awesome-esolangs.md
+    - Prometheus: awesome/awesome-prometheus.md
+    - Homematic: awesome/awesome-homematic.md
+    - Ledger: awesome/awesome-ledger.md
+    - Uncopyright: awesome/awesome-uncopyright.md
+    - Crypto Currency Tools & Algorithms: awesome/awesome-coins.md
+    - Diversity: awesome/awesome-diversity.md
+    - Open Source Supporters: awesome/awesome-open-source-supporters.md
+    - Design Principles: awesome/awesome-design-principles.md
+    - Visual Regression Testing: awesome/awesome-regression-testing.md
+    - Theravada: awesome/awesome-theravada.md
+    - inspectIT: awesome/awesome-inspectit.md
+    - Open Source Maintainers: awesome/awesome-maintainers.md
+    - Calculators: awesome/awesome-calculators.md
+    - Captcha: awesome/awesome-captcha.md
+    - Jupyter: awesome/awesome-jupyter.md
+    - FIRST Robotics Competition: awesome/awesome-frc.md
+    - Humane Technology: awesome/awesome-humane-tech.md
+    - Speakers: awesome/awesome-speakers.md
+    - Software Patreons: awesome/awesome-software-patreons.md
+    - Parasite: awesome/awesome-parasite.md
+
+
+# Theme
+theme:
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  static_templates:
+    - 404.html
+  language: 'en'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  feature:
+    tabs: false
+# Customization
+extra:
+  search:
+    language: 'en'
+  copyright: 'CC BY-NC-SA 4.0'
+
+extra_javascript:
+  - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
+  - '_static/js/extra.js'
+  - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
+
+extra_css:
+  - '_static/css/extra.css'
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
