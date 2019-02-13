@@ -19,5 +19,4 @@ if [ "$1" != "dry" ]; then
     git config user.email "$EMAIL"
 fi
 
-mkdir site && echo "awesome.icopy.site" > site/CNAME
 mkdocs gh-deploy -v --clean --force --remote-name gh-token;
