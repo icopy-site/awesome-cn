@@ -1,24 +1,11 @@
+<div class="github-widget" data-repo="dylanrees/citizen-science"></div>
 ## Digital Tools for Citizen Science
 
  以下是精选软件和其他资源的精选列表，以帮助那些想要使用科学工具来赋予社区权力和/或实践各种形式的非机构科学的人.  它很大程度上受到了启发 [this repository](https://github.com/drewrwilson/toolsforactivism)  为活动家列出数字工具.  随意分享建议.  如果您将软件添加到列表中，则强烈建议使用免费和开源软件而不是专有软件.
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Contents
 
-  - [Software](#software)
-  - [Educational](#educational)
-  - [Tools and Equipment](#tools-and-equipment)
-  - [Publishing and Doing Research](#publishing-and-doing-research)
-  - [Citizen Science Spaces and Projects](#citizen-science-spaces-and-projects)
-  - [Art and Science Spaces](#art-and-science-spaces)
-  - [Literature](#literature)
-  - [Funding and Support](#funding-and-support)
-  - [Conferences and Events](#conferences-and-events)
-  - [Other Resources](#other-resources)
-  - [Questions and Knowledge Gaps](#questions-and-knowledge-gaps)
-  - [How to contribute to this list](#how-do-I-contribute-to-to-this-list)
-  - [License](#license)
 
 ## Software
 
@@ -73,7 +60,7 @@
  * [OpenTrons](http://opentrons.com/) - 开源液体处理机器人.
  * [OpenPCR](http://openpcr.org/) - 开源PCR热循环仪.
  * [SGD](http://www.yeastgenome.org) - 斯坦福大学的Saccharomyces基因组数据库.
- * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - 用于本地对齐的搜索工具.
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [IORodeo](http://iorodeo.com/) - 出售廉价的开源恒电位仪，色度计和其他一些设备.
  * [BioSurplus](http://www.biosurplus.com/) - 二手生物实验室设备供应商.
  * [DremelFuge](http://www.thingiverse.com/thing:1483) - 生物离心机，采用dremel附件的形式.
@@ -147,7 +134,7 @@
 ### Genetics/Biohacking
 
  * [Genspace](http://genspace.org/) - 位于纽约布鲁克林的最古老，最成功的DIY生物实验室之一.
- * [BioCurious](http://biocurious.org/) - The first biohacking space in the world, located in Sunnyvale, CA
+ * [BioCurious](http://biocurious.org/) - 位于加利福尼亚州桑尼维尔的世界上第一个生物黑客空间
  * [HiveBio](http://hivebio.org/) - 西雅图社区生物实验室.
  * [SynthTechBio Network](http://www.syntechbio.com/) - 拉丁美洲生物黑客的网络.
  * [Four Thieves Vinegar Collective](https://fourthievesvinegar.org/) - 一个致力于DIY制药黑客项目的团队，例如30美元替代600美元的epi-pen.

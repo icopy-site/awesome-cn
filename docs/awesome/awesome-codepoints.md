@@ -1,18 +1,10 @@
+<div class="github-widget" data-repo="Codepoints/awesome-codepoints"></div>
 ## Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一个精选的Unicode字符列表，有趣（和
 可能不是广为人知的特征，或者以某种其他方式令人敬畏.
 
-## Table of Contents
 
-1. [Standalone code points](#standalone-code-points)
-2. [Code points that affect others](#code-points-that-affect-others)
-    1. [Breaking and Gluing other characters](#breaking-and-gluing-other-characters)
-3. [Record holders and extremes](#record-holders-and-extremes)
-4. [For funsies](#for-funsies)
-    1. [Games](#games)
-5. [Contributing](#contributing-your-code-points)
-6. [License](#license)
 
 ## Standalone Code Points
 
@@ -42,7 +34,7 @@
     这导致了各种有趣的行为.
 * [U+FFFD](https://codepoints.net/U+FFFD) 替换字符 - 当a
     字符无法显示（例如，解码错误的UTF-8顺序），
-    此代码点进入违规行为.
+    this code point steps into the breach.
 * [U+1D455](https://codepoints.net/U+1D455)  不见了.  这将是一个斜体
      小“h”.  它没有编码，因为它与普朗克相同
     常数ℎ（[U+210E](https://codepoints.net/U+210E)).
@@ -99,7 +91,7 @@
      代码|  名称|  样品
     --------|-------------------------------------|---------
      U + 1F3FB |  EMOJI MODIFY FITZPATRICK TYPE-1-2 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-1-2.png" alt="" height="20" width="auto"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-1-2-bw.png" alt="" height="20" width="auto">
-    U+1F3FC | EMOJI MODIFIER FITZPATRICK TYPE-3   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3-bw.png" alt="" height="20" width="auto">
+     U + 1F3FC |  EMOJI MODIFY FITZPATRICK TYPE-3 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3-bw.png" alt="" height="20" width="auto">
      U + 1F3FD |  EMOJI MODIFY FITZPATRICK TYPE-4 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4-bw.png" alt="" height="20" width="auto">
      U + 1F3FE |  EMOJI MODIFY FITZPATRICK TYPE-5 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png" alt="" height="20" width="auto">
      U + 1F3FF |  EMOJI MODIFY FITZPATRICK TYPE-6 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png" alt="" height="20" width="auto">   <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png" alt="" height="20" width="auto">

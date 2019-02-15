@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hangtwenty/dive-into-machine-learning"></div>
 ## Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  **嗨，您好！  本指南适合您：**
@@ -49,7 +50,7 @@
 
 ## A Visual Introduction to Machine Learning
 
- 让我们进一步了解机器学习，以及一些常见的想法和关注点.  读 ["A Visual Introduction to Machine Learning, Part 1"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 通过 [Stephanie Yee](https://twitter.com/stephaniejyee) and [Tony Chu](https://twitter.com/tonyhschu/).
+ 让我们进一步了解机器学习，以及一些常见的想法和关注点.  读 ["A Visual Introduction to Machine Learning, Part 1"](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) 通过 [Stephanie Yee](https://twitter.com/stephaniejyee) 和 [Tony Chu](https://twitter.com/tonyhschu/).
 
 [![A Visual Introduction to Machine Learning, Part 1](https://user-images.githubusercontent.com/2420688/29441234-a2028c98-837e-11e7-88f2-1ca5a94684f6.gif)](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 
@@ -131,11 +132,10 @@
 
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
-**[Prof. Andrew Ng's](http://www.andrewng.org/about/) [_Machine Learning_](https://www.coursera.org/learn/machine-learning)  是一个受欢迎和受尊敬的免费在线课程.  我已经看到了它 [recommended](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Cory-Hicks-1) [often.](https://www.coursetalk.com/providers/coursera/courses/machine-learning?page=1&sort=-content_rating#reviews) [And](https://www.quora.com/How-do-I-learn-machine-learning-1/answer/Xavier-Amatriain) [emphatically.](https://www.forbes.com/sites/anthonykosner/2013/12/29/why-is-machine-learning-cs-229-the-most-popular-course-at-stanford/)**
 
- 如果你决定一个宠物项目，你可以随时随地玩，这样你就有办法运用你的知识.  你可以使用其中一个 [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) .  请记住，IPython Notebook是你的朋友.
+It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) .  请记住，IPython Notebook是你的朋友.
 
- 此外，您应该获取一本深入的教科书作为参考.  两个最佳选择是 [_Understanding Machine Learning_ ](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) and _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接上免费下载每本书作为PDF  - 所以抓住它们吧！
+ 此外，您应该获取一本深入的教科书作为参考.  两个最佳选择是 [_Underst和ing Machine Learning_ ](http://www.cs.huji.ac.il/~shais/Underst和ingMachineLearning/copy.html) 和 _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接上免费下载每本书作为PDF  - 所以抓住它们吧！
 
 ### Tips for studying
 
@@ -168,7 +168,7 @@
 
 从支持论坛和与您正在学习的课程相关的聊天开始.
 
-查看 [datascience.stackexchange.com](https://datascience.stackexchange.com/) and [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) 有一些像这样的子评价 [/r/machinelearning](https://www.reddit.com/r/machinelearning).
+查看 [datascience.stackexchange.com](https://datascience.stackexchange.com/) 和 [stats.stackexchange.com – such as the tag, _machine-learning_.](https://stats.stackexchange.com/questions/tagged/machine-learning?sort=frequent&pageSize=15) 有一些像这样的子评价 [/r/machinelearning](https://www.reddit.com/r/machinelearning).
 
 关于Quora还有许多相关的讨论，例如： [What is the difference between Data Analytics, Data Analysis, Data Mining, Data Science, Machine Learning, and Big Data?](http://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1)
 
@@ -187,7 +187,7 @@
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
 	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
-	* [Computational tools](http://pandas.pydata.org/pandas-docs/stable/computation.html) and [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
+	* [Computational tools](http://p和as.pydata.org/p和as-docs/stable/computation.html) 和 [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
 	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
 *以后需要缩放时的书签
@@ -255,7 +255,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 #### Towards Expertise
 
-你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/)  是机器学习比赛的中心.  你可以找到一些 [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning) .  对于较小的练习， [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
+你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.org/)  是机器学习比赛的中心.  你可以找到一些 [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning) .  对于较小的练习， [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
 你还需要**理解.**你应该回顾一下Kaggle比赛获胜者对他们的解决方案所说的话， [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
@@ -379,7 +379,7 @@ Spoiler：你应该尽可能地与UX专家合作！
 
 * 书签 **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) 机器学习库和软件.
 * 书签 [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) Python语言中的库和软件 - 有关机器学习的部分.
-* [TensorFlow](https://www.tensorflow.org/) 一直是 [really big deal.](https://news.ycombinator.com/item?id=10532957)  喜欢你的人会用TensorFlow做一些令人兴奋的事情.  这是一个框架.  框架可以帮助您管理复杂性.  请记住这条经验法则：**“更多数据胜过更聪明的算法”**（Domingos），无论你的工具有多酷.  另请注意，TensorFlow不是同类中唯一的机器学习框架：**[Check this great, detailed comparison of TensorFlow, Torch, and Theano.](https://github.com/zer0n/deepframeworks)** 也可以看看 [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) and  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) .  另请参阅上面的深度学习部分.
+* [TensorFlow](https://www.tensorflow.org/) 一直是 [really big deal.](https://news.ycombinator.com/item?id=10532957)  喜欢你的人会用TensorFlow做一些令人兴奋的事情.  这是一个框架.  框架可以帮助您管理复杂性.  请记住这条经验法则：**“更多数据胜过更聪明的算法”**（Domingos），无论你的工具有多酷.  另请注意，TensorFlow不是同类中唯一的机器学习框架：**[Check this great, detailed comparison of TensorFlow, Torch, 和 Theano.](https://github.com/zer0n/deepframeworks)** 也可以看看 [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) 和  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) .  另请参阅上面的深度学习部分.
     *另外，考虑一下 [Lore](https://github.com/instacart/lore/) .  “Lore是一个python框架，使机器学习[特别是深度学习]对于工程师来说是平易近人的，并且可以为数据科学家维护.” 
 *对于可能不在PyPI，GitHub等上的机器学习库，有 [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/) .  似乎有许多学术图书馆.
 * 书签 [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) Julia语言中的图书馆和软件 - 有关机器学习的部分.

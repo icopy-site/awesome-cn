@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="parro-it/awesome-micro-npm-packages"></div>
 ## Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精心设计的小型Node.js模块列表.
@@ -28,7 +29,7 @@
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - 递归展平数组或数组.
 * [dedupe](https://github.com/seriousManual/dedupe) - 从数组中删除重复项.
 * [array-range](https://github.com/mattdesl/array-range) - 创建具有给定范围的新数组.
-* [arr-diff](https://github.com/jonschlinkert/arr-diff) - 返回一个只包含第一个数组中唯一值的数组，方法是使用严格相等的比例从其他数组中排除所有值.
+* [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array](https://github.com/sindresorhus/filled-array) - 返回填充了指定输入的数组
 * [map-array](https://github.com/parro-it/map-array) - 将对象键和值映射到数组中.
 * [in-array](https://github.com/jonschlinkert/in-array) - 如果数组中存在任何传递的值，则返回true  - 比使用indexOf更快.
@@ -85,7 +86,7 @@
 * [get-value](https://github.com/jonschlinkert/get-value) - 使用属性路径（abc）从对象获取嵌套值.
 * [has-value](https://github.com/jonschlinkert/has-value)   - 如果值存在则返回true，如果为空则返回false.  使用点表示法（`&#39;abc&#39;`）路径使用深层嵌套值.
 * [has-key-deep](https://github.com/ryanaghdam/has-key-deep)   - 深度搜索键的对象.  可以通过提供密钥数组或使用点符号来搜索密钥.
-* [flatkeys](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
+* [flatkeys](https://github.com/ricardobeat/flatkeys) - 使用自定义分隔符将对象键层次结构展平为字符串列表.
 * [flatten-obj](https://github.com/watson/flatten-obj) - 将具有深层嵌套节点的对象文字转换为简单的键/值对象.
 * [is-empty-object](https://github.com/gummesson/is-empty-object) - 检查对象是否为空.
 * [stringify-object](https://github.com/yeoman/stringify-object) - 在没有所有双引号的情况下，将像JSON.stringify这样的对象/数组进行字符串化.

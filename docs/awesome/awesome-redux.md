@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brillout/awesome-redux"></div>
 ## Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
@@ -9,17 +10,6 @@
  
  <br/>
 
-#### Contents
-- [Code Architecture](#code-architecture)
-- [Utilities](#utilities)
-- [Code Style](#code-style)
-- [Dev tools / Inspection tools](#dev-tools--inspection-tools)
-- [React Integration](#react-integration)
-- [Other Integrations](#other-integrations)
-- [Boilerplate](#boilerplate)
-- [Miscellaneous](#miscellaneous)
-- [Learning Material](#learning-material)
-- [Community](#community)
 
 <br/>
 
@@ -62,7 +52,7 @@
 
  - [redux-saga](https://github.com/yelouafi/redux-saga) -  Redux应用程序的替代副作用模型.
  - [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware) -  Redux中间件，用于通过条件乐观更新来解决和拒绝承诺.
- - [redux-effects](https://github.com/redux-effects/redux-effects) - 你编写纯函数，redux-effects处理其余的函数.
+ - [redux-effects](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest.
  - [redux-thunk](https://github.com/gaearon/redux-thunk) -  Redux的Thunk中间件.
  - [redux-connect](https://github.com/makeomatic/redux-connect) - 提供装饰器来解析react-router中的异步道具，对于在React中处理服务器端渲染非常有用.
  - [redux-loop](https://github.com/redux-loop/redux-loop) - 榆树效果的端口和榆树建筑到Redux，允许您通过从减速器返回来自然而纯粹地对您的效果进行排序.
@@ -211,7 +201,7 @@
 
  -  **功能编程 - 超越**
 
-    Well written [article](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) 讨论了在函数式语言中实现的有趣的计算机科学概念以及它们如何应用于JavaScript.
+    写得好 [article](https://medium.com/@chetcorcos/functional-programming-for-javascript-people-1915d8775504) 讨论了在函数式语言中实现的有趣的计算机科学概念以及它们如何应用于JavaScript.
 
  -  ** Monads **
 

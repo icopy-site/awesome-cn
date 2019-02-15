@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="h2oai/awesome-h2o"></div>
 ## Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
@@ -10,15 +11,6 @@
 
 如果您认为H2O也很棒，请⭐ [H2O GitHub repository](https://github.com/h2oai/h2o-3/).
 
-## Contents
-- [Blog Posts & Tutorials](#blog-posts--tutorials)
-- [Books](#books)
-- [Research Papers](#research-papers)
-- [Benchmarks](#benchmarks)
-- [Presentations](#presentations)
-- [Courses](#courses)
-- [Utilities](#utilities)
-- [License](#license)
 
 ## Blog Posts & Tutorials
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) 2018年12月3日

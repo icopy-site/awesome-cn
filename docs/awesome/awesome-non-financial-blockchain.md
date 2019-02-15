@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="machinomy/awesome-non-financial-blockchain"></div>
 ## Awesome Non-Financial Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;策划区块链非金融应用程序的项目列表.
@@ -8,12 +9,7 @@
 
  区块链应用程序的行业由变化最大的行业定义.  例如，已停止的IoT比特币微支付启动 [21](https://21.co) （现在 [Earn.com](https://earn.com) ）可以显着改变物联网和金融部门.  金融业将把现在的做法扩展到一个新的领域.  然而，对于物联网而言，_ business model_将发生重大变化.  这种直觉命令当前的分类.
 
-## Contents
 
-- [Identity Applications](#identity-applications)
-- [Internet of Things Applications](#internet-of-things-applications)
-- [Energy Applications](#energy-applications)
-- [Talks and books](#talks-and-books)
 
 ## Identity Applications
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="HQarroum/awesome-iot"></div>
 ## Awesome IoT
 
 <img src="https://raw.githubusercontent.com/HQarroum/awesome-iot/master/iot-logo.png" align="right" width="100">
@@ -8,23 +9,7 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-## Table of Contents
 
-- [Hardware](#hardware)
-- [Software](#software)
-  - [Operating systems](#operating-systems)
-  - [Programming Languages](#programming-languages)
-  - [Frameworks](#frameworks)
-  - [Middlewares](#middlewares)
-  - [Libraries and Tools](#libraries-and-tools)
-  - [Miscellaneous](#miscellaneous)
-- [Protocols and Networks](#protocols-and-networks)
-- [Technologies](#technologies)
-- [Standards and Alliances](#standards-and-alliances)
-- [Resources](#resources)
-  - [Books](#books)
-  - [Articles](#articles)
-  - [Papers](#papers)
 
 ### Hardware
 
@@ -154,7 +139,6 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
  &gt; EC-GSM-IOT网络试验已经开始，计划于2017年首次推出商用.在所有主要移动设备，芯片组和模块制造商的支持下，EC-GSM-IoT网络将与2G，3G和2G共存4G移动网络.  它还将受益于所有安全和隐私移动网络功能，例如支持用户身份机密性，实体身份验证，机密性，数据完整性和移动设备识别.
 
-#### <img width="50" src="https://intelilight.eu/wp-content/uploads/2017/02/technology_lorawan.png" /> - [LoRaWAN](https://en.wikipedia.org/wiki/LoRaWAN) (LoRa Alliance)
 
  LoRaWAN广域网允许来自和连接对象的低比特率通信，从而参与物联网，机器到机器M2M和智能城市.   -  [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
 
@@ -166,7 +150,6 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
 &gt; NB-IoT是为物联网（IoT）设计的窄带无线电技术，并且是由第三代合作伙伴计划（3GPP）标准化的一系列移动物联网（MIoT）技术之一.
 
-#### <img width="50" src="http://www.silvereco.fr/wp-content/uploads/2015/02/logo510f703a4647f1.jpg" /> - [Sigfox](https://en.wikipedia.org/wiki/Sigfox) (Sigfox)
 
  Sigfox是一家法国公司，它建立无线网络以连接电能表，智能手表和洗衣机等低能耗物体，这些物体需要持续发射并发射少量数据.  其基础设施旨在为所谓的物联网（IoT）做出贡献.   -  [Wikipedia](https://en.wikipedia.org/wiki/Sigfox)
 
@@ -180,7 +163,6 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
 ### Network / Transport layer
 
-#### <img width="50" src="http://www.tonex.com/wp-content/uploads/6lowpan.jpg" /> - [6LowPan](https://en.wikipedia.org/wiki/6LoWPAN) (IETF)
 
  6LoWPAN是IPv6 over Low power Wireless Personal Area Networks的首字母缩写.  6LoWPAN是IETF互联网领域已结束工作组的名称.   -  [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
@@ -194,7 +176,6 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
  &gt; 2014年7月，谷歌公司的Nest Labs宣布与三星，ARM控股，飞思卡尔，Silicon Labs，Big Ass Fans和锁定公司Yale等公司合作，试图通过为产品提供Thread认证，使Thread成为行业标准.  目前使用的其他协议包括ZigBee和Bluetooth Smart.
  线程使用6LoWPAN，后者又使用带有网状通信的IEEE 802.15.4无线协议，ZigBee和其他系统也是如此.  然而，线程是IP可寻址的，具有云访问和AES加密.  它支持网络上的250多个设备.
 
-#### <img width="50" src="http://www.zigbee.org/wp-content/uploads/2017/12/zb_logo-a_color_rgb.png" /> - [ZigBee](https://en.wikipedia.org/wiki/ZigBee) (ZigBee Alliance)
 
  ZigBee是一种基于IEEE 802.15.4的规范，用于一套高级通信协议，用于创建具有小型低功耗数字无线电的个人局域网.   -  [Wikipedia](https://en.wikipedia.org/wiki/ZigBee)
 
@@ -220,7 +201,6 @@ The Datagram Transport Layer Security (DTLS) communications protocol provides co
 
  &gt; DTLS允许基于数据报的应用程序以[由谁？]设计的方式进行通信，以防止窃听，篡改或消息伪造.  DTLS协议基于面向流的传输层安全性（TLS）协议，旨在提供类似的安全保证.
 
-#### <img width="50" src="https://cdn.arstechnica.net/wp-content/uploads/2015/07/2015-07-13_16-46-26.jpg" /> - [Eddystone](https://en.wikipedia.org/wiki/Eddystone_(Google)) (Google)
 
 <i>Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format.</i> <b>Eddystone是Google于2015年7月发布的信标技术配置文件。开源的跨平台软件通过蓝牙低能量信标格式为用户提供位置和接近度数据。</b> <i>-</i> <b> - </b> [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
 
@@ -238,13 +218,11 @@ iBeacon是Apple标准化的协议，于2013年在Apple全球开发者大会上�
 
  &gt; iBeacon使用蓝牙低能量接近感应来传输兼容应用或操作系统拾取的通用唯一标识符.  标识符可用于确定设备的物理位置，跟踪客户或触发设备上基于位置的操作，例如在社交媒体上的登记或推送通知.
 
-#### <img width="50" src="http://blog.thingstud.io/wp-content/uploads/mqttorg.png" /> - [MQTT](http://mqtt.org/) (IBM)
 
  MQTT（以前称为MQ遥测传输）是一种基于发布 - 订阅的“轻量级”消息传递协议，用于在TCP / IP协议之上.  它适用于需要“小代码占用”或网络带宽有限的远程位置的连接.   -  [Wikipedia](https://en.wikipedia.org/wiki/MQTT)
 
  &gt;发布 - 订阅消息传递模式需要消息代理.  代理负责根据消息主题向感兴趣的客户端分发消息.  Cirrus Link Solutions的Andy Stanford-Clark和Arlen Nipper在1999年撰写了该协议的第一个版本.
 
-#### <img width="50" src="https://www.pjon.org/assets/images/PJON-logo-devices.jpg" /> - [PJON](https://raw.githubusercontent.com/gioblu/PJON/)
 
  PJON®（填充抖动操作网络）是一种兼容Arduino的多主机多媒体网络协议.  它提出了一个标准，它被设计为一个框架，并实现了一个完全软件模拟的网络协议栈，可以很容易地在许多架构上交叉编译，如ATtiny，ATmega，ESP8266，ESP32，STM32，Teensy，Raspberry Pi，Linux，Windows x86和Apple机器.  它是快速，易于理解地构建设备网络的有效工具.  访问维基和文档，了解有关PJON标准的更多信息.
 
@@ -272,11 +250,9 @@ iBeacon是Apple标准化的协议，于2013年在Apple全球开发者大会上�
 
 &gt;本节重新组合了一系列与物联网世界密切相关的精彩技术.
 
-### <img width="50" src="http://vectorlogofree.com/wp-content/uploads/2012/12/nfc-logo-vector-400x400.png" /> - [NFC](https://en.wikipedia.org/wiki/Near_field_communication)
 
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
-### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 OPC-UA不仅是工业自动化的协议，也是一种允许工业环境的语义描述和对象建模的技术.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="automata/awesome-jamstack"></div>
 <div align="center">
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
@@ -28,26 +29,7 @@
   <br /><br />
 </div>
 
-## Contents
 
-- [General](#general)
-- [Chats](#chats)
-- [Platforms](#platforms)
-- [JAMstack Sites Showcase](#jamstack-sites-showcase)
-- [Static Site Generators](#static-site-generators)
-- [CMS](#cms)
-- [API](#api)
-  - [Authentication](#authentication)
-  - [Comments](#comments)
-  - [Forms](#forms)
-  - [E-commerce](#e-commerce)
-  - [Search](#search)
-  - [Database](#database)
-  - [Automation](#automation)
-- [Serverless](#serverless)
-- [Videos](#videos)
-- [Tutorials / Articles](#tutorials--articles)
-- [Podcasts](#podcasts)
 
 ---
 
@@ -171,7 +153,7 @@
 ## Videos
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - 马特比尔曼
-- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -  Mathias Biillman.
+- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) - Mathias Biillman.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - 克里斯马克雷.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -  Traversy Media.

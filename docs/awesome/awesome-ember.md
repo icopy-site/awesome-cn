@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="nmec/awesome-ember"></div>
 ## Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Ember.js精选列表.

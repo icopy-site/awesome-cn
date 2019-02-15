@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="kitspace/awesome-electronics"></div>
 ## Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;为电子工程师和业余爱好者准备的精彩资源列表
@@ -8,34 +9,8 @@
 
  此列表适用于网站，服务，软件，工具等：您认为在电子工程领域非常棒的一切.  如果您有任何要添加的内容，请按照说明操作 [https://github.com/kitspace/awesome-electronics/blob/master/contributing.md](https://github.com/kitspace/awesome-electronics/blob/master/contributing.md).
 
-## Contents
 
 <!-- toc -->
-- [Learning](#learning)
-  * [Technical Tutorials](#technical-tutorials)
-  * [Theory and Courses](#theory-and-courses)
-- [Simulators](#simulators)
-- [Gerber Viewers](#gerber-viewers)
-  * [Online](#online)
-  * [Installable](#installable)
-- [Free EDA Packages](#free-eda-packages)
-- [CAD Specific](#cad-specific)
-  * [KiCAD](#kicad)
-  * [Eagle](#eagle)
-- [PCB Batching Services](#pcb-batching-services)
-- [Part Search Engines](#part-search-engines)
-- [Project Sharing Platforms](#project-sharing-platforms)
-- [Inventory Management and Purchasing](#inventory-management-and-purchasing)
-- [Miscellaneous Web Services](#miscellaneous-web-services)
-- [Development Board Retailers](#development-board-retailers)
-- [Blogs](#blogs)
-- [Forums](#forums)
-  * [Discussion](#discussion)
-  * [Help](#help)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
-- [Subscription Kit Services](#subscription-kit-services)
-- [Other Lists](#other-lists)
 
 <!-- tocstop -->
 
@@ -140,7 +115,7 @@
 
 ### Discussion
 - [EEVBlog forum](https://www.eevblog.com/forum/) - 可能是讨论电子工程主题的最大和最活跃的论坛.
-- [/r/electronics](https://www.reddit.com/r/electronics/) 和 [/r/ECE](https://www.reddit.com/r/ECE/) 是EE主题的两个最活跃的子reddits.
+- [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) 是EE主题的两个最活跃的子reddits.
 
 ### Help
  - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) -  Sub-reddit致力于帮助电子主题.
@@ -178,7 +153,7 @@
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 来自中国的廉价电子产品清单，您可以在项目中使用
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - 更全面的所有可用软件工具列表.
-- [intajay/open-electronics](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
+- [intajay/open-electronics](https://github.com/intajay/open-electronics) - 另一个GitHub列表：电子爱好者和硬件黑客的资源
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - 令人敬畏的FPGA资源列表
 - [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) -  GitHub列出的机器人电子产品的资源，项目和产品
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) - 嵌入式编程资源的绝佳列表

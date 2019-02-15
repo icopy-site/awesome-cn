@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="bolshchikov/js-must-watch"></div>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;这是专门针对JavaScript的必备视频列表 
 

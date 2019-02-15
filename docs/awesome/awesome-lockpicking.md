@@ -1,18 +1,11 @@
+<div class="github-widget" data-repo="meitar/awesome-lockpicking"></div>
 ## Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;与锁，保险箱和密钥的安全性和危害相关的精彩指南，工具和其他资源的精选列表.
 
 [Lock picking](https://en.wikipedia.org/wiki/Lock_picking)  是没有钥匙打开锁的艺术，没有损坏或破坏锁或门.  如果您想贡献，我们强烈建议您这样做.  请阅读 [contribution guidelines](https://github.com/meitar/awesome-lockpicking/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-* [Books](#books)
-* [Contests, conferences, and events](#contests-conferences-and-events)
-* [Hobby projects](#hobby-projects)
-* [How-to lockpicking guides](#how-to-lockpicking-guides)
-* [Locksport associations and organizations](#locksport-associations-and-organizations)
-* [Online communities](#online-communities)
-* [Vendors](#vendors)
 
 ## Books
 

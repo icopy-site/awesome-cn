@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="lucasviola/awesome-functional-programming"></div>
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 基于 [Awesome](https://github.com/sindresorhus/awesome/) 项目
@@ -13,18 +14,6 @@
 
  想贡献？  请参阅 [this](https://github.com/lucasviola/awesome-functional-programming/blob/master/contributing.md) 第一.
 
-## Table of Contents
-- [Blog Posts](#blog-posts)
-- [Papers](#papers)
-- [Wikis](#wikis)
-- [Books](#books)
-- [Communities](#communities)
-- [Discussions](#discussions-quora-stack-overflow-reddit-etc)
-- [Videos](#videos)
-- [Lectures](#lectures)
-- [Tools](#tools)
-- [Repos](#repos)
-- [People](#people)
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 

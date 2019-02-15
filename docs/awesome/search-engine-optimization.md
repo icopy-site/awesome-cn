@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="marcobiedermann/search-engine-optimization"></div>
 ## [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -5,32 +6,6 @@
 
 搜索引擎优化（SEO）技巧和技巧的有用清单/集合.
 
-## Table of Contents
-* [URL](#url)
-* [Accessibility](#accessibility)
-* [Meta Information](#meta-information)
-* [Keywords](#keywords)
-* [Content](#content)
-* [Images](#images)
-* [Videos](#videos)
-* [Links](#links)
-* [Mobile](#mobile)
-* [Sitemap](#sitemap)
-* [Social Media](#social-media)
-* [Tools & Services](#tools--services)
-  * [Webmasters](#webmasters)
-  * [Analytics](#analytics)
-  * [Optimization](#optimization)
-  * [Keywords](#keywords-1)
-  * [Links](#links)
-  * [Structured Data](#structured-data)
-  * [Bookmarklets](#bookmarklets)
-  * [Browser Extensions](#browser-extensions)
-  * [Jekyll Plugins](#jekyll-plugins)
-  * [TYPO3 Extensions](#typo3-extensions)
-  * [WordPress Plugins](#wordpress-plugins)
-* [Books](#books)
-* [Courses](#courses)
 
 ## URL
 * **描述性网址：**使用描述性网页网址，该网址应反映您的定位关键字
@@ -45,8 +20,7 @@
 ## Accessibility
 * ** 403：**提供403  - 拒绝访问页面
 * ** 404：**提供404  - 页面未找到页面
-* **[Custom Search](https://developers.google.com/structured-data/slsb-overview)：**使用Google Sitelink搜索框，人们可以更快地联系到您的内容
-* **找不到文件：**避免“404 FILE_NOT_FOUND”错误
+* **File not found:** avoid `404 FILE_NOT_FOUND` errors
  * **布局：**使用`divs`代替`tables`进行布局.  使用`tables`在语义上不正确.
 * **移动网站：**通过`.htaccess`将所有链接重定向到新位置
 * **[Pagination](https://support.google.com/webmasters/answer/1663744)：**为链接实现`rel =“next”`和`rel =“prev”`属性
@@ -62,26 +36,19 @@
 * **[Description](https://www.youtube.com/watch?v=W4gr88oHb-k)：**每个页面都应该有唯一的描述（最多160个字符）
 `<meta name="description" content="">`
 * **标题：**每页应具有唯一的发言名称（60  -  100个字符）
-`<title>Website Title</title>`
+ ` <title>网站标题</title>  `
 
 ## Keywords
-* **内容：**关键字应出现在文章长度的约3％
 * **标题：**关键字应出现在标题中
-* **[Meta Tag](https://www.youtube.com/watch?v=jK7IPbnmvVU) ：**你可以省略` <meta name="keywords" content="">  `
 搜索引擎不使用此元标记
 * **研究：**流量高，竞争较少的关键词排名
 * **单身：**每个页面都应该有一个唯一的目标关键字
 * **标题：**关键字应出现在页面标题中
 * **[URL](https://www.youtube.com/watch?v=rAWFv43qubI)：**关键字应出现在URL名称中
 
-## Content
-* **内容：**内容在SEO中最重要
- * ** Flash：**避免Flash内容和Flash页面.  他们无法通过手机访问，并且排名较低
- * **新鲜度：**新内容很重要.  建议更新页面或定期发布
  * **标题：**结构清晰`H1` -`H6`最大.  70个字符长
 * **长度：**文章应至少300字
 * **强：**使用`strong`标签突出显示您的目标关键字
-* **[Uniqueness](https://www.youtube.com/watch?v=mQZY7EmjbMA)：**不提供重复内容，使用独特的内容类型
 
 ## Images
 * **[Alt tag](https://support.google.com/webmasters/answer/114016)：**添加一个alt-tag这个图像的描述（60  -  70个字符）
@@ -94,12 +61,9 @@
 ## Videos
 * **控件：**添加控件以播放和控制您的视频
 * **嵌入：**允许其他人嵌入您的视频
-* **转录：**使用转录进行索引，可用性和内容
-* **[Unplayable content](https://developers.google.com/webmasters/mobile-sites/mobile-seo/common-mistakes/unplayable-content) ：**避免无法播放的视频内容.  使用HTML5` <video>  `标记而不是Flash
 
 ## Links
 * **反向链接：**只有在您的网站有反向链接时才添加外部链接
-* **内部链接：**添加~3内部链接到您的内容
 * **[Languages](https://moz.com/learn/seo/hreflang-tag)：** hreflang标签告诉Google您在特定页面上使用的语言，因此搜索引擎可以将该结果提供给使用该语言搜索的用户
 `<link rel="alternate" href="example.com/fr/" hreflang="fr-fr" />`
  * **命名：**使用描述性链接名称：“单击此处”或“阅读更多”是错误的链接文本.  更好“阅读更多关于SEO和Web可访问性”
@@ -107,9 +71,7 @@
 * **标题：**将title属性添加到链接
 
 ## Mobile
-* **[AppLinks](http://applinks.org/documentation/)：**链接到您的内容的应用可以使用此元数据深入链接到您的应用
 * **[mobile friendly](https://googlewebmastercentral.blogspot.be/2014/11/helping-users-find-mobile-friendly-pages.html) ：**移动优化网站在搜索结果中标记.  测试 [mobile friendly site](https://www.google.com/webmasters/tools/mobile-friendly/)
-* **[Smart App Banner](https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html)：** Safari具有智能应用横幅功能，可以从网站上提供在App Store上推广应用的标准化方法
 * **[Tap targets](https://developers.google.com/speed/docs/insights/SizeTapTargetsAppropriately)：**可点击链接不应太小
 * **视口：**告诉浏览器如何调整页面的尺寸和缩放以适应设备
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
@@ -118,7 +80,6 @@
 * **[HTML sitemap](https://www.youtube.com/watch?v=hi5DGOu1uA0)：** HTML站点地图允许网站访问者轻松浏览网站
 * **[Image sitemap](https://support.google.com/webmasters/answer/178636)：**增加您的图像可以在图像搜索结果中找到
 * **[Mobile sitemap](https://support.google.com/webmasters/answer/6082207)：**对于功能手机，您可以创建移动站点地图
-* **[Video sitemap](https://support.google.com/webmasters/answer/80471)：**确保搜索引擎了解您网站上的所有视频内容
 * **[XML sitemap](https://support.google.com/webmasters/answer/183668)：**帮助搜索引擎索引您的网页
 
 ## Social Media
@@ -142,8 +103,6 @@
 * **[Google Tag Manager](https://www.google.com/analytics/tag-manager/) ：**了解Google Analytics跟踪代码管理器以及它如何帮助简化您的生活和IT请求的需求.  只需点击几下即可启动新标签.
 
 ### Analytics
-* **[Ahrefs](https://ahrefs.com/) ：**分析网站，跟踪社交媒体，建立反向链接 -  Ahrefs让你了解.  立即尝试我们的营销和SEO工具Site Explorer和Content Explorer！
-* **[BuzzSumo](https://app.buzzsumo.com/research/most-shared)：**找到任何主题或域的最共享内容.
 * **[Followerwonk](https://moz.com/followerwonk)：**分析，生物搜索等工具
 * **[Google Analytics](https://www.google.com/analytics/)：**生成有关网站流量的详细统计信息
 * **[Open Site Explorer](https://moz.com/researchtools/ose/) ：**使用Open Site Explorer识别链接构建机会.  研究反向链接，识别首页，查看社交活动以及分析锚文本.
@@ -168,7 +127,6 @@
 
 ### Links
 * **[OpenLinkProfiler](http://www.openlinkprofiler.org/)：**深入分析最新鲜的反向链接.
-* **[Search Engine Spider Simulator](http://tools.seochat.com/tools/search-spider-simulator)：**此工具通过显示网页内容来模拟搜索引擎，完全与搜索引擎机器人在抓取页面时看到的方式相同：查看最突出或不可访问的页面元素.
 * **[Screaming Frog SEO Spider Tool & Crawler Software](https://www.screamingfrog.co.uk/seo-spider/)：** Screaming Frog SEO Spider是一个小型桌面程序（PC或Mac），它从SEO角度抓取网站的链接，图像，CSS，脚本和应用程序.
 
 ### Structured Data
@@ -186,7 +144,6 @@
 * **[MozBar](https://moz.com/tools/seo-toolbar) ：**来自Moz的SEO工具栏可让您快速访问许多页面上的搜索引擎优化因素，域和页面权限以及快速nofollow切换.  立即下载免费工具栏！
 
 ### Jekyll Plugins
-* **[Jekyll SEO Tag](https://github.com/jekyll/jekyll-seo-tag)：**一个Jekyll插件，用于为搜索引擎和社交网络添加元数据标签，以便更好地索引和显示您网站的内容.
 
 ### TYPO3 Extensions
 * **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics)：**为每页标题标记添加单独的字段，在新模块中添加易于搜索引擎优化的关键字和描述以及灵活的Google Sitemap.
@@ -194,7 +151,6 @@
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/) ：**下载量最多的WordPress插件（下载量近3000万）.  使用All in One SEO Pack自动优化您的搜索引擎网站
-* **[Yoast SEO](https://wordpress.org/plugins/wordpress-seo/)：**改善你的WordPress SEO：写出更好的内容，并使用Yoast SEO插件有一个完全优化的WordPress网站.
 
 ## Books
 * **[Search engine optimization 2016: Learn SEO with smart internet marketing strategies](https://www.amazon.com/Search-Optimization-Internet-Marketing-Strategies/dp/151534567X)：**学习搜索引擎优化策略，以SEO 2016排名在谷歌的顶部
@@ -203,18 +159,16 @@
 * **[SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880)：**关于搜索引擎优化的一步一步的书，从目标开始，浏览页面搜索引擎优化，如页面标签，最后是关闭页面搜索引擎优化，如链接建设和社会提及.
 * **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do)：**您完全更新的搜索引擎优化指南
 * **[SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020) ：**也从关键字开始，涵盖ON PAGE和OFF PAGE SEO.  强调速度的重要性，并有一个很好的附录与SEO资源，词汇表和链接.
-* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do)：**提高Web可见性的基本技术
+* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** essential Techniques for Increasing Web Visibility
 * **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM)：** Google Analytics，网站站长，网站流量，Adwords，每次点击付费，网站推广和搜索引擎优化简介.
 * **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do)：**掌握搜索引擎优化
 * **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) ：**新来的SEO？  需要提高你的知识吗？  搜索引擎优化的初学者指南已被阅读超过300万次，并提供了您获得专业质量搜索引擎优化所需的信息.
-* **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do):** if you want to establish an ongoing SEO program with the goal of increased traffic and search prominence, this practical step-by-step guide will help you understand SEO methodology and then show you how to put those theories into practice.
+* **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do)：**如果您想建立一个持续的SEO计划，目标是增加流量和搜索突出，这个实用的分步指南将帮助您了解SEO方法，然后向您展示如何将这些理论付诸实践.
 
 ## Courses
-* **[Analyzing Your Website to Improve SEO](https://www.lynda.com/Marketing-Small-Business-Marketing-tutorials/Analyzing-Your-Website-Improve-SEO/82409-2.html) ：**逐步完成审查网站内容和标记的过程，以提高其在搜索引擎结果中的排名.  与Lynda.com的Peter Kent合作
 * **[ClickMinded](https://www.clickminded.com/)：** ClickMinded是一个SEO培训课程，面向希望尽快增加有机流量和销售额的创业公司.
 * **[Ecommerce SEO 101 Video Series](https://www.shopify.com/videos/ecommerce-seo-101)：**电子商务SEO 101视频系列与海伦Overland shopify
 * **[Improving SEO Using Accessibility Techniques](https://www.lynda.com/HTML-5-tutorials/Improving-SEO-Using-Accessibility-Techniques/89051-6.html) ：**通过适当的标记和Web标准合规性，使网站更易于访问和搜索引擎友好.  与Lynda.com的Morten Rand-Hendriksen合作
-* **[International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html) ：**通过这些SEO技巧吸引国际访问者访问您的网站.  了解如何确定目标市场并优化您网站的技术方面和内容，以适应世界各国和各种语言.  与Lynda.com的David Booth合作
 * **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction)：**学习搜索引擎优化（SEO）：视频介绍Matt Bailey by video2brain
 * **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics)：**通过video2brain与Matt Bailey一起学习网络分析
 * **[SEO for Beginners](http://seoforbeginners.com/)：**初学者搜索引擎优化：视频指南简介
@@ -223,7 +177,6 @@
 * **[SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers)：**网站设计师的SEO与TutsPlus的Craig Campbell合作
 * **[SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/SEO-Fundamentals/187858-2.html)：Lynda.com与David Booth的SEO基础知识
 * **[SEO Fundamentals](https://www.pluralsight.com/courses/seo-fundamentals)：Pluralsight与保罗威尔逊的SEO基础
-* **[SEO Tools Fundamentals](https://www.lynda.com/Buzzstream-tutorials/SEO-Tools-Fundamentals/368917-2.html) ：**了解当今用于技术优化，内容优化，异地优化和竞争性研究的顶级SEO工具.  与Lynda.com的Brad Batesole合作
 * **[SEO Training Course by Moz](https://www.udemy.com/whiteboard-seo/)：** udemy与Moz的SEO培训课程
 * **[SEO: Keyword Strategy in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Keyword-Strategy-Depth/147030-6.html) ：**了解如何研究关键字，将其应用到您的网站，以及围绕关键字制作广告系列.  通过关键字增加网站流量并更好地了解用户的意图.  与Lynda.com的Matt Bailey合作
 * **[SEO: Link Building in Depth](https://www.lynda.com/Business-Online-Marketing-tutorials/SEO-Link-Building-Depth/95253-6.html) ：**调查链接的解剖结构，链接如何影响页面排名，以及创建出色链接的属性.  与Lynda.com的Peter Kent合作

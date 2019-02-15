@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="SrinivasanTarget/awesome-appium"></div>
 ## Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
@@ -8,20 +9,7 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-## Contents
 
-- [Server](#server)
-- [Clients](#clients)
-- [Inspectors](#inspectors)
-- [Tutorials](#tutorials)
-- [Appium Pro](#become-an-appium-pro)
-- [Blogs](#blogs)
-- [Workshops](#workshops)
-- [Cloud and Docker Solutions](#cloud-and-docker-solutions)
-- [Git Books](#git-books)
-- [Test Frameworks](#test-frameworks)
-- [Community](#community)
-- [Tips](#tips)
 
 ## Server
 - [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) -  Appium是一款开源的跨平台测试自动化工具，适用于本机，混合和移动Web和桌面应用程序，在模拟器（iOS），仿真器（Android）和真实设备（iOS，Android，Windows，Mac）上进行测试.

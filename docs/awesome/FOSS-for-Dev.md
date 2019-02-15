@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tvvocold/FOSS-for-Dev"></div>
 ## FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 面向开发人员的免费和开源软件列表
 
@@ -11,17 +12,6 @@
 [awesome](https://github.com/sindresorhus/awesome) - 一系列SaaS，PaaS和IaaS产品，其中包含对devops和infradev感兴趣的免费层级
 
 
-## Contents
-   * [Source Code Repos](#source-code-repos)
-   * [IDE](#ide)
-   * [Collaboration Tools](#collaboration-tools)
-   * [Code Quality](#code-quality)
-   * [CI / CD](#ci--cd)
-   * [Security and PKI](#security-and-pki)
-   * [Bug trackers](#bug-trackers)
-   * [Project management](#project-management)
-   * [PaaS](#paas)
-   * [ADN(Application Delivery Networking)](#adn)
 
 
 ## Source Code Repos 

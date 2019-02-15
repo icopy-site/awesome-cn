@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="yenchenlin/awesome-watchos"></div>
 <img src="https://raw.githubusercontent.com/yenchenlin1994/awesome-watchos/master/resources/title.png" width="500">
 =========================
 
@@ -7,19 +8,6 @@
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 精选的watchOS框架，库，示例应用程序的精选列表.
-### Contents
-- [Getting Started](#getting-started)
-- [Library and Frameworks](#libraries-and-frameworks)
-- [Design](#design)
-	- [Design Guidelines](#design-guidelines)
-	- [Design Resources](#design-resources)
-- [Tools](#tools)
-- [Sample Apps](#sample-apps)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Twitters](#twitters)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 
 ## Getting Started

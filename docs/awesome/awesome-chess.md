@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hkirat/awesome-chess"></div>
 ## Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 与国际象棋相关的互联网资产的精选列表.
@@ -9,15 +10,6 @@
 
 Content
 ---
- - [Books](#books)
- - [FEN Parsers](#fen-parsers)
- - [Move Validators](#move-validators)
- - [Bots](#bots)
- - [Websites](#websites)
- - [Boards](#boards)
- - [Board Notations](#board-notations)
- - [Pieces](#pieces)
- - [Talks](#talks)
 
 Books
 ---

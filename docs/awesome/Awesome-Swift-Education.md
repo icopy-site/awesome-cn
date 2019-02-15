@@ -1,3 +1,3 @@
-## <img src="http://www.carlosicaza.com/wp-content/uploads/2014/07/Swift-logo.png" width="36"> Awesome-Swift-Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hsavit1/Awesome-Swift-Education.svg?branch=master)](https://travis-ci.org/hsavit1/Awesome-Swift-Education)
+<div class="github-widget" data-repo="hsavit1/Awesome-Swift-Education"></div>
 
-> There is no royal road to Swift. —Euclid
+ &gt;斯威夫特没有皇家之路.  -Euclid

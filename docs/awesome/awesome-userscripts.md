@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brunocvcunha/awesome-userscripts"></div>
 ## Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Awesome Userscripts的精选列表.
@@ -5,19 +6,7 @@ Awesome Userscripts的精选列表.
 用户脚本可以改善您的浏览体验，并通过添加功能，使其更易于使用或消除令人讨厌的位来开辟更多可能性，从而使您访问的网站更加完美.
 
 
-## Contents
 
-- [How to use](#How_to_use)
-- [Scripts](#scripts)
-  - [General](#general)
-  - [GitHub](#github)
-  - [Privacy](#privacy)
-  - [YouTube](#youtube)
-- [Tutorials](#tutorials)
-- [Community](#community)
-- [Additional Catalogues](#additional-catalogues)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 
@@ -82,9 +71,7 @@ Awesome Userscripts的精选列表.
 * [GitHub remove diff signs](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-remove-diff-signs) - 从文件差异中删除差异符号.
 * [GitHub rtl comments](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-rtl-comments) - 在评论中添加从右到左的指标.
 * [GitHub search autocomplete](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-search-autocomplete) - 为所有GitHub添加搜索过滤器自动完成功能.
-* [GitHub sort content](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-sort-content) - 在GitHub上对列表和表进行排序.
 * [GitHub static time](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-static-time) - 将时间转换为您选择的时间格式.
-* [GitHub table of contents](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-table-of-contents) - 显示自述文件和维基页面的TOC窗口.
 * [GitHub title notification](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-title-notification) - 向浏览器选项卡添加通知指示符.
 * [GitHub toggle expanders](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-expanders) - 展开或折叠所有提交标题.
 * [GitHub toggle wiki sidebar](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-toggle-wiki-sidebar) - 切换维基侧边栏视图.

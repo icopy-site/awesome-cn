@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="petk/awesome-dojo"></div>
 ## Awesome Dojo
 
 <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
@@ -14,18 +15,6 @@
 
 ## Index
 
-* [DojoToolkit.org resources and documentation](#dojotoolkitorg-resources-and-documentation)
-* [Tutorials](#tutorials)
-* [Bootstraps and boilerplates](#bootstraps-and-boilerplates)
-* [Packages, libraries and scripts](#packages-libraries-and-scripts)
-* [Serverside integrations](#serverside-integrations)
-* [Testing](#testing)
-* [Applications](#applications)
-* [Themes](#themes)
-* [TypeScript](#typescript)
-* [Community](#community)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing and License](#contributing-and-license)
 
 
 ## DojoToolkit.org resources and documentation
@@ -40,7 +29,6 @@
 * [Dojo Website](https://github.com/dojo/dojo-website) -  Dojo Toolkit 1.x到2.x过渡的网站
 
 
-[Back to top](#awesome-dojo)
 
 
 ## Tutorials
@@ -50,18 +38,16 @@
 * [Dojo the Good parts](https://github.com/DavidSpriggs/Dojo--The-Good-Parts) -  2014年3月10日至13日在棕榈泉举行的ESRI开发者峰会演讲.
 * [Pluralsight's Dojo tutorial](https://www.pluralsight.com/courses/dojo-fundamentals) - 学习Dojo Toolkit的视频教程
 
-[Back to top](#awesome-dojo)
 
 
 ## Bootstraps and boilerplates
 
-* [dboostrap](https://github.com/atoha/dbootstrap) -  Dojo的Bootstrap主题
+* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - 使用Dojo Toolkit进行开发的起始样板
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - 使用Dojo实现Twitter Bootstrap框架
 * [dojo.js](https://github.com/gpedro/dojo.js) - 使用Jasmine和Gulp开始你的道场的简约样板.
 * [dojo-node-boilerplate](https://github.com/kitsonk/dojo-node-boilerplate) - 在NodeJS上使用Dojo Toolkit的快速入门“模板”
 
-[Back to top](#awesome-dojo)
 
 
 ## Packages, libraries and scripts
@@ -99,7 +85,6 @@
 
 
 
-[Back to top](#awesome-dojo)
 
 
 ## Serverside integrations
@@ -123,11 +108,10 @@
     * [Dojos](https://github.com/supnate/dojos) -  NodeJS上的服务器端dojo
     * [Node.js integration](http://dojotoolkit.org/documentation/tutorials/1.10/node/) - 教程如何使用Dojo和Node.js
 * PHP
-    * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo
+    * [Dojo & Composer](https://github.com/zoopcommerce/pixie) - 用于包括Dojo在内的zoop包的自定义Composer安装程序
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - 将Dojo Toolkit与Symfony PHP框架集成
     * [Dojo & Zend PHP framework](https://github.com/superdweebie/DojoModule) - 通过DojoModule将Dojo Toolkit与Zend Framework集成
 
-[Back to top](#awesome-dojo)
 
 
 ## Testing
@@ -137,7 +121,6 @@
 * [Intern Yeoman page objects](https://github.com/glamb/generator-internjs-pageobjects/) -  Yeoman生成器，用于创建单元测试和套件
 * [Intern Yeoman generator](https://github.com/naglalakk/generator-intern) -  Yeoman发电机 - 实习生
 
-[Back to top](#awesome-dojo)
 
 
 ## Applications
@@ -156,7 +139,6 @@
 * [xamiro](https://github.com/xblox/xamiro) - 具有最小依赖性的PHP和JavaScript中的IDE类似文件管理器.
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - 用于物联网和原型设计的全自动化套件.
 
-[Back to top](#awesome-dojo)
 
 
 ## Themes
@@ -165,7 +147,6 @@
 * [Flat Dojo Theme](http://yiweima.github.io/flatdojo/) -  Esri Flat Dijit设计
 * [Semantic Dojo Theme](http://websemantics.github.io/semantic-dojo/) - 一个响应的Dojo主题，利用风格的真棒 [Semantic UI](http://semantic-ui.com/) 框架.
 
-[Back to top](#awesome-dojo)
 
 
 ## TypeScript
@@ -175,7 +156,6 @@
 * [Dojo-TypeScript](https://github.com/schungx/Dojo-TypeScript) - 使用Dojo 1.9 AMD风格的Microsoft TypeScript 0.9.5
 * [Dojo Typings](https://github.com/dojo/typings) -  Dojo 1 TypeScript类型的存储库（包括Dijit和DojoX）
 
-[Back to top](#awesome-dojo)
 
 
 ## Community
@@ -193,7 +173,6 @@
 * [IRC](http://irc.lc/freenode/dojo) - 大型且主动的IRC支持渠道.
 * [Meetup](https://www.meetup.com/topics/dojo/) - 参与本地并查找本地用户组.
 
-[Back to top](#awesome-dojo)
 
 
 ## Other Awesome Lists
@@ -208,7 +187,6 @@
     * [awesome-all](https://github.com/bradoyler/awesome-all) - 很棒的清单
     * [awesome-awesome](https://github.com/erichs/awesome-awesome) - 很棒的清单
 
-[Back to top](#awesome-dojo)
 
 
 ## Contributing and License
@@ -218,5 +196,3 @@
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Peter Kokot](https://github.com/petk) 已放弃对此作品的所有版权及相关或相邻权利.
-
-[Back to top](#awesome-dojo)

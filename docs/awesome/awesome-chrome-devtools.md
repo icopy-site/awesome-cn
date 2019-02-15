@@ -1,18 +1,9 @@
+<div class="github-widget" data-repo="ChromeDevTools/awesome-chrome-devtools"></div>
 ## Awesome chrome-devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; Chrome DevTools生态系统中令人敬畏的工具和资源
 
-## Contents
 
-- [Learning](#learning)
-- [DevTools as an IDE](#devtools-as-an-ide)
-- [DevTools tooling and ecosystem](#devtools-tooling-and-ecosystem)
-- [Chrome DevTools Protocol](#chrome-devtools-protocol)
-- [Protocol Driver Libraries](#protocol-driver-libraries)
-- [Developing with the protocol](#developing-with-the-protocol)
-- [Browser Adapters](#browser-adapters)
-- [Using DevTools frontend with other platforms](#using-devtools-frontend-with-other-platforms)
-- [DevTools Extensions](#devtools-extensions)
 
 ## Learning
 - [Dev Tips](https://umaar.com/dev-tips/) - 作为GIF动画的大量提示.
@@ -63,7 +54,7 @@
 ## Protocol Driver Libraries
 -  JavaScript / Node.js： [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - 协议最常用的JavaScript API
 -  TypeScript / Node.js： [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) -  TypeScript async / await-friendly调试客户端
--  Java： [cdp4j](https://github.com/webfolderio/cdp4j) -  CDP的Java库
+-  Java： [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
 -  Java： [karate](https://intuit.github.io/karate/karate-core/) - 带有Java API的Web服务测试框架，用于使用CDP协议自动化Chrome
 -  Python： [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) -  Google Chrome Dev Protocol的Python包装器
 -  Python： [chromewhip](https://github.com/chuckus/chromewhip) -  Python 3 asyncio驱动程序，用于管理对Google Chrome Devtools端点的并发请求
@@ -116,7 +107,7 @@
 ### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - 有关在Node v6.3 +中使用完整调试和分析支持的指南.
 - [devtool](https://github.com/Jam3/devtool) - 使用Chrome DevTools调试和配置Node.js应用程序（使用Electron）.
-- [buggerJS](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
+- [buggerJS](https://github.com/buggerjs/bugger) - 为节点提供Chrome DevTools绑定.
 
 
 ---

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tmcw/awesome-geojson"></div>
 ## awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 GeoJSON实用程序将使您的生活更轻松.
@@ -71,7 +72,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [tokml](https://github.com/mapbox/tokml)：将GeoJSON转换为KML
 * [topojson](https://github.com/topojson/topojson)：将GeoJSON转换为TopoJSON，从CSV加入数据
 * [wellknown](https://github.com/mapbox/wellknown)：将WKT转换为GeoJSON
-* [esri2open](https://github.com/project-open-data/esri2open) 将专有的Esri格式转换为GeoJSON
+* [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson)：将GTFS传输数据转换为GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform)：将任何大小的geojson流转换为流式CSV，Shapefile或KML等.
 * [supercluster](https://github.com/mapbox/supercluster)：用于浏览器和Node的快速GeoJSON群集库.

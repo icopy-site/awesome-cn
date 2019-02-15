@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mark-rushakoff/awesome-influxdb"></div>
 ## awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 与之相关的精彩项目，库，工具等的精选列表 [InfluxDB](https://www.influxdata.com/).
@@ -19,7 +20,7 @@
 
 * [C#](https://github.com/influxdata/influxdb-csharp) - 用于高效地向InfluxDB发送点的.NET库
 * [Go](https://github.com/influxdata/influxdb/tree/master/client) - 成为InfluxDB的客户端，包含在主要的InfluxDB仓库中
-* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
+* [Java](https://github.com/influxdata/influxdb-java) -  InfluxDB的Java客户端
 * [PHP](https://github.com/influxdata/influxdb-php) -  InfluxDB的PHP客户端
 * [Python](https://github.com/influxdata/influxdb-python) -  InfluxDB的Python客户端
 * [Rails](https://github.com/influxdata/influxdb-rails) -  Ruby on Rails绑定自动将指标写入InfluxDB
@@ -50,7 +51,7 @@
 
 #### Dedicated
 
-主要或唯一目的是将数据提供给InfluxDB的工具.
+Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [accelerometer2influx](https://github.com/CorpGlory/accelerometer2influx) -  Android应用程序，从您的手机加速计获取xyz轴指标，并将数据发送到InfluxDB.
 * [agento](https://github.com/abrander/agento) - 客户端/服务器从Linux主机收集近实时指标

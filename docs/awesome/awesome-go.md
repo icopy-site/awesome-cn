@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="avelino/awesome-go"></div>
 ## Awesome Go
 
 [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome)
@@ -10,95 +11,10 @@
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-### Contents
 
-- [Awesome Go](#awesome-go)
-    - [Audio and Music](#audio-and-music)
-    - [Authentication and OAuth](#authentication-and-oauth)
-    - [Bot Building](#bot-building)
-    - [Command Line](#command-line)
-    - [Configuration](#configuration)
-    - [Continuous Integration](#continuous-integration)
-    - [CSS Preprocessors](#css-preprocessors)
-    - [Data Structures](#data-structures)
-    - [Database](#database)
-    - [Database Drivers](#database-drivers)
-    - [Date and Time](#date-and-time)
-    - [Distributed Systems](#distributed-systems)
-    - [Email](#email)
-    - [Embeddable Scripting Languages](#embeddable-scripting-languages)
-    - [Error Handling](#error-handling)
-    - [Files](#files)
-    - [Financial](#financial)
-    - [Forms](#forms)
-    - [Functional](#functional)
-    - [Game Development](#game-development)
-    - [Generation and Generics](#generation-and-generics)
-    - [Geographic](#geographic)
-    - [Go Compilers](#go-compilers)
-    - [Goroutines](#goroutines)
-    - [GUI](#gui)
-    - [Hardware](#hardware)
-    - [Images](#images)
-    - [IoT](#iot-internet-of-things)
-    - [Job Scheduler](#job-scheduler)
-    - [JSON](#json)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Messaging](#messaging)
-    - [Microsoft Office](#microsoft-office)
-        - [Microsoft Excel](#microsoft-excel)
-    - [Miscellaneous](#miscellaneous)
-        - [Dependency Injection](#dependency-injection)
-        - [Strings](#strings)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Networking](#networking)
-        - [HTTP Clients](#http-clients)
-    - [OpenGL](#opengl)
-    - [ORM](#orm)
-    - [Package Management](#package-management)
-    - [Query Language](#query-language)
-    - [Resource Embedding](#resource-embedding)
-    - [Science and Data Analysis](#science-and-data-analysis)
-    - [Security](#security)
-    - [Serialization](#serialization)
-    - [Template Engines](#template-engines)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [Utilities](#utilities)
-    - [UUID](#uuid)
-    - [Validation](#validation)
-    - [Version Control](#version-control)
-    - [Video](#video)
-    - [Web Frameworks](#web-frameworks)
-        - [Middlewares](#middlewares)
-            - [Actual middlewares](#actual-middlewares)
-            - [Libraries for creating HTTP middlewares](#libraries-for-creating-http-middlewares)
-        - [Routers](#routers)
-    - [Windows](#windows)
-    - [XML](#xml)
 
-- [Tools](#tools)
-    - [Code Analysis](#code-analysis)
-    - [Editor Plugins](#editor-plugins)
-    - [Go Generate Tools](#go-generate-tools)
-    - [Go Tools](#go-tools)
-    - [Software Packages](#software-packages)
-        - [DevOps Tools](#devops-tools)
-        - [Other Software](#other-software)
 
-- [Server Applications](#server-applications)
 
-- [Resources](#resources)
-    - [Benchmarks](#benchmarks)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Gophers](#gophers)
-    - [Meetups](#meetups)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
-        - [Tutorials](#tutorials)
 
 ## Audio and Music
 
@@ -299,7 +215,7 @@
 * [bloom](https://github.com/zhenjl/bloom) -  Go中实现的Bloom过滤器.
 * [bloom](https://github.com/yourbasic/bloom) -  Golang布隆过滤器实现.
 * [boomfilters](https://github.com/tylertreat/BoomFilters) - 用于处理连续，无界流的概率数据结构.
-* [concurrent-writer](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
+* [concurrent-writer](https://github.com/free/concurrent-writer) - 高度并发替换`bufio.Writer`.
 * [conjungo](https://github.com/InVisionApp/conjungo) - 一个小巧，强大且灵活的合并库.
 * [count-min-log](https://github.com/seiflotfy/count-min-log) -  Go实现Count-Min-Log草图：使用近似计数器近似计数（如Count-Min草图，但使用较少的内存）.
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - 布谷鸟过滤器：Go中实现的计数布隆过滤器的一个很好的替代品.
@@ -323,7 +239,6 @@
 * [levenshtein](https://github.com/agext/levenshtein) -  Levenshtein距离和相似性指标，具有可自定义的编辑成本和类似Winkler的共同前缀奖励.
 * [levenshtein](https://github.com/agnivade/levenshtein) - 在Go中计算levenshtein距离的实现.
 * [mafsa](https://github.com/smartystreets/mafsa) - 使用最小完美散列的MA-FSA实现.
-* [merkletree](https://github.com/cbergoon/merkletree) - 实现merkle树，提供对数据结构内容的有效和安全的验证.
 * [mspm](https://github.com/BlackRabbitt/mspm) - 用于信息检索的多字符串模式匹配算法.
 * [pipeline](https://github.com/hyfather/pipeline) - 具有扇入和扇出的管道的实现.
 * [ring](https://github.com/TheTannerRyan/ring) - 实现高性能，线程安全的布隆过滤器.
@@ -378,7 +293,7 @@
 * [go-fixtures](https://github.com/RichardKnop/go-fixtures) - 用于Golang优秀的内置数据库/ sql库的Django风格装置.
 * [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) -  Go包用go-pg / pg帮助编写迁移.
 * [gondolier](https://github.com/emvicom/gondolier) -  Gondolier是一个使用结构自动迁移数据库模式的库.
-* [goose](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
+* [goose](https://github.com/steinbacher/goose)   - 数据库迁移工具.  您可以通过创建增量SQL或Go脚本来管理数据库的演变.
 * [gormigrate](https://github.com/go-gormigrate/gormigrate) -  Gorm ORM的数据库模式迁移帮助程序.
 * [migrate](https://github.com/golang-migrate/migrate)   - 数据库迁移.  CLI和Golang库.
 * [pravasan](https://github.com/pravasan/pravasan) - 简单迁移工具 - 目前用于MySQL，但计划很快支持Postgres，SQLite，MongoDB等.
@@ -437,7 +352,7 @@
 * NoSQL数据库
     * [aerospike-client-go](https://github.com/aerospike/aerospike-client-go) -  Go语言的Aerospike客户端.
     * [arangolite](https://github.com/solher/arangolite) - 为ArangoDB轻型golang驱动程序.
-    * [asc](https://github.com/viant/asc) - 用于Aerospike的数据存储连接.
+    * [asc](https://github.com/viant/asc) - Datastore Connectivity for Aerospike for go.
     * [dynago](https://github.com/underarmour/dynago) -  Dynago是DynamoDB最少的意外客户端原则.
     * [forestdb](https://github.com/couchbase/goforestdb) - 转到ForestDB的绑定.
     * [go-couchbase](https://github.com/couchbase/go-couchbase) -  Go中的Couchbase客户端.
@@ -509,7 +424,7 @@
 * [flowgraph](https://github.com/vectaport/flowgraph) - 基于流程的编程包.
 * [gleam](https://github.com/chrislusf/gleam) - 使用纯Go和Luajit编写的快速且可扩展的分布式map / reduce系统，将Go的高并发性与Luajit的高性能相结合，可以独立运行或分布式运行.
 * [glow](https://github.com/chrislusf/glow) - 易于使用的可扩展分布式大数据处理，Map-Reduce，DAG执行，全部采用纯Go.
-* [go-health](https://github.com/InVisionApp/go-health) - 用于在服务中启用异步依赖项运行状况检查的库.
+* [go-health](https://github.com/InVisionApp/go-health) - Library for enabling asynchronous dependency health checks in your service.
 * [go-jump](https://github.com/dgryski/go-jump) -  Google的“Jump”Consistent Hash功能端口.
 * [go-kit](https://github.com/go-kit/kit) - 微服务工具包，支持服务发现，负载平衡，可插拔传输，请求跟踪等.
 * [gorpc](https://github.com/valyala/gorpc) - 简单，快速和可扩展的RPC库，适用于高负载.
@@ -636,7 +551,7 @@
 * [Ebiten](https://github.com/hajimehoshi/ebiten) -  Go中死的简单2D游戏库.
 * [engo](https://github.com/EngoEngine/engo)   -  Engo是一个用Go编写的开源2D游戏引擎.  它遵循实体 - 组件 - 系统范例.
 * [g3n](https://github.com/g3n/engine) - 去3D游戏引擎.
-* [GarageEngine](https://github.com/vova616/GarageEngine) - 2d game engine written in Go working on OpenGL.
+* [GarageEngine](https://github.com/vova616/GarageEngine) - 使用Go编写的2d游戏引擎在OpenGL上工作.
 * [glop](https://github.com/runningwild/glop) -  Glop（Power Library Of Power）是一个相当简单的跨平台游戏库.
 * [go-astar](https://github.com/beefsack/go-astar) - 实现A \ *路径查找算法.
 * [go-collada](https://github.com/GlenKelley/go-collada) - 使用Collada文件格式的包.
@@ -792,7 +707,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [devices](https://github.com/goiot/devices) - 物联网设备库套件，x / exp / io实验.
 * [eywa](https://github.com/xcodersun/eywa) -  Project Eywa本质上是一个跟踪连接设备的连接管理器.
 * [flogo](https://github.com/tibcosoftware/flogo) -  Project Flogo是物联网边缘应用和集成的开源框架.
-* [gatt](https://github.com/paypal/gatt) -  Gatt是用于构建蓝牙低功耗外设的Go软件包.
+* [gatt](https://github.com/paypal/gatt) - Gatt is a Go package for building Bluetooth Low Energy peripherals.
 * [gobot](https://github.com/hybridgroup/gobot/) -  Gobot是机器人，物理计算和物联网的框架.
 * [huego](https://github.com/amimof/huego) - 适用于Go的广泛的Philips Hue客户端库.
 * [iot](https://github.com/vaelen/iot/) - 物联网是实施Google IoT核心设备的简单框架.
@@ -958,7 +873,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 *使用Microsoft Excel的库.*
 
 * [excelize](https://github.com/360EntSecGroup-Skylar/excelize) - 用于读写Microsoft Excel™（XLSX）文件的Golang库.
-* [go-excel](https://github.com/szyhf/go-excel) - A simple and light reader to read a relate-db-like excel as a table.
+* [go-excel](https://github.com/szyhf/go-excel) - 一个简单而轻便的阅读器，可以像桌子一样读取与数据库类似的Excel.
 * [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) -  Golang绑定libxlsxwriter写XLSX（Microsoft Excel）中的文件.
 * [xlsx](https://github.com/tealeg/xlsx) - 用于简化读取Go程序中最新版Microsoft Excel使用的XML格式的库.
 * [xlsx](https://github.com/plandem/xlsx) - 在Go程序中快速安全地读取/更新现有Microsoft Excel文件的方法.
@@ -1205,7 +1120,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [packr](https://github.com/gobuffalo/packr) - 将静态文件嵌入Go二进制文件的简单方法.
 * [statics](https://github.com/go-playground/statics) - 将静态资源嵌入到单个二进制编译的go文件中+使用http.FileSystem +符号链接.
 * [statik](https://github.com/rakyll/statik) - 将静态文件嵌入Go可执行文件.
-* [templify](https://github.com/wlbr/templify) - 将外部模板文件嵌入到Go代码中以创建单个文件二进制文件.
+* [templify](https://github.com/wlbr/templify) - Embed external template files into Go code to create single file binaries.
 * [vfsgen](https://github.com/shurcooL/vfsgen) - 生成静态实现给定虚拟文件系统的vfsdata.go文件.
 
 ## Science and Data Analysis
@@ -1288,7 +1203,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [consul](https://www.consul.io/) -  Consul是一种服务发现，监控和配置工具.
 * [devd](https://github.com/cortesi/devd) - 面向开发人员的本地Web服务器
 * [discovery](https://github.com/Bilibili/discovery) - 用于弹性中间层负载平衡和故障转移的注册表.
-* [etcd](https://github.com/coreos/etcd) - 用于共享配置和服务发现的高可用密钥值存储.
+* [etcd](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
 * [Fider](https://github.com/getfider/fider) -  Fider是一个收集和整理客户反馈的开放平台.
 * [Flagr](https://github.com/checkr/flagr) -  Flagr是一个开源功能标记和A / B测试服务.
 * [jackal](https://github.com/ortuman/jackal) - 用Go编写的XMPP服务器.
@@ -1306,7 +1221,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [amber](https://github.com/eknkc/amber) -  Amber是Go编程语言的优雅模板引擎.它源自HAML和Jade.
 * [damsel](https://github.com/dskinner/damsel) - 标记语言，通过css选择器提供html概述，可通过pkg html / template等扩展.
 * [ego](https://github.com/benbjohnson/ego)   - 轻量级模板语言，可让您在Go中编写模板.  模板被翻译成Go并编译.
-* [extemplate](https://github.com/dannyvankooten/extemplate) - Tiny wrapper around html/template to allow for easy file-based template inheritance.
+* [extemplate](https://github.com/dannyvankooten/extemplate) - 围绕html /模板的微小包装，以允许轻松的基于文件的模板继承.
 * [fasttemplate](https://github.com/valyala/fasttemplate)   - 简单快速的模板引擎.  替换模板占位符的速度比快10倍 [text/template](http://golang.org/pkg/text/template/).
 * [gofpdf](https://github.com/jung-kurt/gofpdf) -  PDF文档生成器，支持文本，绘图和图像.
 * [hero](https://github.com/shiyanhui/hero) -  Hero是一款方便，快速且功能强大的模板引擎.
@@ -1316,14 +1231,14 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [mustache](https://github.com/hoisie/mustache) - 去实现Mustache模板语言.
 * [pongo2](https://github.com/flosch/pongo2) -  Go的Django式模板引擎.
 * [quicktemplate](https://github.com/valyala/quicktemplate)   - 快速，功能强大且易于使用的模板引擎.  将模板转换为Go代码，然后编译它.
-* [raymond](https://github.com/aymerick/raymond) -  Go中完整的把手实施.
+* [raymond](https://github.com/aymerick/raymond) - Complete handlebars implementation in Go.
 * [Razor](https://github.com/sipin/gorazor) -  Razor视图的Golang引擎.
 * [Soy](https://github.com/robfig/soy) - 关闭Go的关闭模板（又名大豆模板） [official spec](https://developers.google.com/closure/templates/).
-* [velvet](https://github.com/gobuffalo/velvet) -  Go中完整的把手实施.
+* [velvet](https://github.com/gobuffalo/velvet) - Complete handlebars implementation in Go.
 
 ## Testing
 
-*Libraries for testing codebases and generating test data.*
+*用于测试代码库和生成测试数据的库.*
 
 *测试框架
     * [assert](https://github.com/go-playground/assert) - 基本断言库与侧面本机测试一起使用，带有用于自定义断言的构建块.
@@ -1722,7 +1637,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 #### Actual middlewares
 
-* [client-timing](https://github.com/posener/client-timing) - An HTTP client for Server-Timing header.
+* [client-timing](https://github.com/posener/client-timing) -  Server-Timing标头的HTTP客户端.
 * [CORS](https://github.com/rs/cors) - 轻松为您的API添加CORS功能.
 * [formjson](https://github.com/rs/formjson) - 透明地将JSON输入作为标准表单POST处理.
 * [go-server-timing](https://github.com/mitchellh/go-server-timing) - 添加/解析Server-Timing标头.
@@ -1803,7 +1718,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [GoCover.io](http://gocover.io/) -  GoCover.io提供任何golang包作为服务的代码覆盖率.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 自动修复（添加，删除）Go导入的工具.
 * [GolangCI](https://golangci.com/)   -  GolangCI是一个针对GitHub拉取请求的自动Golang代码审查服务.  服务是开源的，开源项目是免费的.
-* [GoLint](https://github.com/golang/lint) - Golint is a linter for Go source code.
+* [GoLint](https://github.com/golang/lint) -  Golint是Go源代码的linter.
 * [Golint online](http://go-lint.appspot.com/) - 在线提示使用golint包在GitHub，Bitbucket和Google Project Hosting上获取源文件.
 * [goreturns](https://sourcegraph.com/github.com/sqs/goreturns) - 添加零值返回语句以匹配func返回类型.
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) -  gosimple是Go源代码的一个linter，专门用于简化代码.
@@ -1901,7 +1816,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [ostent](https://github.com/ostrost/ostent) - 收集并显示系统指标，并可选择中继到Graphite和/或InfluxDB.
 * [Packer](https://github.com/mitchellh/packer) -  Packer是一种从单一来源配置为多个平台创建相同机器映像的工具.
 * [Pewpew](https://github.com/bengadbois/pewpew) - 灵活的HTTP命令行压力测试仪.
-* [Rodent](https://github.com/alouche/rodent) -  Rodent帮助您管理Go版本，项目和跟踪依赖项.
+* [Rodent](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) - 小型实用程序/库，针对大型对象进出Amazon S3的高速传输进行了优化.
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) - 从命令行管理BareMetal服务器（就像使用Docker一样容易）.
 * [sg](https://github.com/ChristopherRabotin/sg) - 对一组HTTP端点（如ab）进行基准测试，可以根据其先前的响应，在每次调用之间使用响应代码和数据，以应对特定的服务器压力.
@@ -2026,7 +1941,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gopher-stickers](https://github.com/tenntenn/gopher-stickers)
 * [gopher-vector](https://github.com/golang-samples/gopher-vector)
 * [gophericons](https://github.com/shalakhin/gophericons)
-* [gopherize.me](https://github.com/matryer/gopherize.me) - 自己动手吧.
+* [gopherize.me](https://github.com/matryer/gopherize.me) - Gopherize yourself.
 * [gophers](https://github.com/ashleymcnamara/gophers) -  Ashley McNamara的Gopher作品.
 * [gophers](https://github.com/egonelbre/gophers) - 免费的地鼠.
 * [gophers](https://github.com/rogeralsing/gophers) - 随机gopher图形.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="janikvonrotz/awesome-powershell"></div>
 ## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
@@ -7,30 +8,7 @@
 PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工具，针对结构化数据（例如JSON，CSV，XML等），REST API和对象模型进行了优化.
 它包括命令行shell和相关的脚本语言.
 
-## Contents
 
-* [API Wrapper](#api-wrapper)
-* [Blogs](#blogs)
-* [Books](#books)
-* [Build Tools](#build-tools)
-* [Code and Package Repositories](#code-and-package-repositories)
-* [Commandline Productivity](#commandline-productivity)
-* [Communities](#communities)
-* [Documentation Helper](#documentation-helper)
-* [Frameworks](#frameworks)
-* [Editors and IDEs](#editors-and-ides)
-* [Module Development Templates](#module-development-templates)
-* [Package Managers](#package-managers)
-* [Parallel Processing](#parallel-processing)
-* [Podcasts](#podcasts)
-* [Security](#security)
-* [Testing](#testing)
-* [Themes](#themes)
-* [Videos](#videos)
-* [Webserver](#webserver)
-* [SharePoint](#sharepoint)
-* [SQL Server](#sql-server)
-* [Misc](#misc)
 
 ## API Wrapper
 

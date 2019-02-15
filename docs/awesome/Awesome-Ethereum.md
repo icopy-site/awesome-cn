@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Tom2718/Awesome-Ethereum"></div>
 <br/>
 <div align="center">
   <img width="250px" src="https://raw.githubusercontent.com/Tom2718/Awesome-Ethereum/master/./project_logo.jpg">
@@ -16,21 +17,7 @@
  拉请求是受欢迎的！  但是，本着分散申请的精神，请确保您提交的产品不是付费应用产品.
 
 
-## Contents
 
-1. [Documentation](#documentation)
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-8. [Wallets](#wallets)
-9. [Blockchain Utilities](#blockchain-utilities)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
 
 
 ## Documentation

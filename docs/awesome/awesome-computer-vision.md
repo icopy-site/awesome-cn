@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jbhuang0604/awesome-computer-vision"></div>
 
 ## Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的精彩计算机视觉资源列表，受到启发 [awesome-php](https://github.com/ziadoz/awesome-php).
@@ -7,18 +8,7 @@
 ## Contributing
 请随时发送给我 [pull requests](https://github.com/jbhuang0604/awesome-computer-vision/pulls) 或发送电子邮件（jbhuang1@illinois.edu）以添加链接.
 
-## Table of Contents
 
- - [Books](#books)
- - [Courses](#courses)
- - [Papers](#papers)
- - [Software](#software)
- - [Datasets](#datasets)
- - [Tutorials and Talks](#tutorials-and-talks)
- - [Resources for students](#resources-for-students)
- - [Blogs](#blogs)
- - [Links](#links)
- - [Songs](#songs)
 
 ## Books
 
@@ -490,7 +480,6 @@ BM3D，KSVD，
 * [Online-boosting Tracking](http://www.vision.ee.ethz.ch/boostingTrackers/)
 * [Spatio-Temporal Context Learning](http://www4.comp.polyu.edu.hk/~cslzhang/STC/STC.htm)
 * [Locality Sensitive Histograms](http://www.shengfenghe.com/visual-tracking-via-locality-sensitive-histograms.html)
-* [Enhanced adaptive coupled-layer LGTracker++](http://www.cv-foundation.org/openaccess/content_iccv_workshops_2013/W03/papers/Xiao_An_Enhanced_Adaptive_2013_ICCV_paper.pdf)
 * [TLD: Tracking - Learning - Detection](http://personal.ee.surrey.ac.uk/Personal/Z.Kalal/tld.html)
 * [CMT: Clustering of Static-Adaptive Correspondences for Deformable Object Tracking](http://www.gnebehay.com/cmt/)
 * [Kernelized Correlation Filters](http://home.isr.uc.pt/~henriques/circulant/)

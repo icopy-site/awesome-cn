@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jonathandion/awesome-emails"></div>
 <h1 align="center">
 	<br>
 	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
@@ -8,22 +9,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;一系列令人敬畏的框架，模板，工具，工作流程等等，以构建更好的电子邮件.
+> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
-### Table of Contents
-- [Frameworks](#frameworks)
-- [Cheatsheets](#cheatsheets)
-- [Templates](#templates)
-- [Tools](#tools)
-- [Services](#services)
-- [Self-Hosted Services](#self-hosted-services)
-- [Workflows](#workflows)
-- [Articles](#articles)
-- [Inspirations](#inspirations)
-- [Statistics](#statistics)
-- [Design](#design)
-- [Testing](#testing)
-- [Learning](#learning)
 
 ## Frameworks
 - [MJML](https://mjml.io)   -  MJML是一种标记语言，旨在减少编写响应式电子邮件的痛苦.  ：火：
@@ -112,7 +99,7 @@ VML和CSS.
 ## Resources
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
 - [Mailchimp](http://mailchimp.com/resources/) - 来自Mailchimp的超级棒的资源
-- [Litmus Resources](https://litmus.com/resources) - Stay up to date with the latest email news and trends with Litmus resources.
+- [Litmus Resources](https://litmus.com/resources) - 通过Litmus资源了解最新的电子邮件新闻和趋势.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) -  Campaign Monitor资源将立即让您成为专家.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) -  MailChimp电子邮件设计参考

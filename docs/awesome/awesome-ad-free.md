@@ -1,33 +1,13 @@
+<div class="github-widget" data-repo="johnjago/awesome-ad-free"></div>
 ## Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 网络上流行服务的无广告替代品的精选列表.
 
- &gt;我是说你应该避免使用广告拦截器吗？  不.但是考虑用肯定支持的行为抵消你的不服从行为.  用你的钱包投票.  在你喜欢的文字背后投入一些钱 - 无论是网站，杂志还是报纸.  “但是这样的网站不会让我付钱.”然后发现新的东西.
+> Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
 
 -Matthew Butterick
 
-## Contents
 
-- [Alternatives](#alternatives)
-  - [Blogs](#blogs)
-  - [Communication](#communication)
-  - [File Sharing](#file-sharing)
-  - [Mobile Apps](#mobile-apps)
-  - [Music](#music)
-  - [Other](#other)
-  - [Publications](#publications)
-  - [Reference](#reference)
-  - [Social](#social)
-  - [Utilities](#utilities)
-  - [Video](#video)
-- [Resources](#resources)
-  - [Ad Blockers](#ad-blockers)
-  - [Articles](#articles)
-  - [Businesses](#businesses)
-  - [Groups](#groups)
-  - [Make Money Without Ads](#make-money-without-ads)
-  - [Talks](#talks)
- - [License](#license)
 
 ## Alternatives
 
@@ -99,7 +79,7 @@
 - [Are.na](https://www.are.na/) - 可视化平台，帮助您思考和组织在线内容.
 - [diaspora*](https://diasp.org/)   - 供稿，喜欢，个人资料和标签;  您可以控制自己的数据.
 - [GNUsocial.no](https://gnusocial.no)   - 允许用户相互连接和共享;  费用由捐款承担.
-- [Libranet](https://libranet.de/) - Popular site running friendica, a federated Facebook-style social network.
+- [Libranet](https://libranet.de/) - 热门网站运行friendica，一个联合的Facebook风格的社交网络.
 - [Lobsters](https://lobste.rs/) - 简单的链接聚合站点，提供downvote所需的解释.
 - [Manyverse](https://www.manyver.se/) - 关闭网格社交网络.
 - [Mastodon](https://mastodon.social) - 与Twitter类似的分散式微博平台.

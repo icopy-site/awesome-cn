@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="KotlinBy/awesome-kotlin"></div>
 <!--
     这是GENERATED文件，
     请阅读CONTRIBUTING.md了解更多信息.
@@ -21,127 +22,17 @@
 [![Awesome Kotlin Badge](https://kotlin.link/awesome-kotlin.svg)](https://github.com/KotlinBy/awesome-kotlin)
 ```
 
-## Table of Contents
 
-### <a name="links-category"></a>[Links](#links)
-* <a name="links-official-links-subcategory"></a>[Official Links](#links-official-links)
-* <a name="links-resources-subcategory"></a>[Resources](#links-resources)
-* <a name="links-books-and-courses-subcategory"></a>[Books and Courses](#links-books-and-courses)
 
-### <a name="libraries-frameworks-category"></a>[Libraries/Frameworks](#libraries-frameworks)
-* <a name="libraries-frameworks-web-subcategory"></a>[Web](#libraries-frameworks-web)
-* <a name="libraries-frameworks-tests-subcategory"></a>[Tests](#libraries-frameworks-tests)
-* <a name="libraries-frameworks-dependency-injection-subcategory"></a>[Dependency Injection](#libraries-frameworks-dependency-injection)
-* <a name="libraries-frameworks-coroutines-subcategory"></a>[Coroutines](#libraries-frameworks-coroutines)
-* <a name="libraries-frameworks-functional-programming-subcategory"></a>[Functional Programming](#libraries-frameworks-functional-programming)
-* <a name="libraries-frameworks-json-subcategory"></a>[JSON](#libraries-frameworks-json)
-* <a name="libraries-frameworks-database-subcategory"></a>[Database](#libraries-frameworks-database)
-* <a name="libraries-frameworks-tools-subcategory"></a>[Tools](#libraries-frameworks-tools)
-* <a name="libraries-frameworks-desktop-subcategory"></a>[Desktop](#libraries-frameworks-desktop)
-* <a name="libraries-frameworks-http-clients-subcategory"></a>[Http Clients](#libraries-frameworks-http-clients)
-* <a name="libraries-frameworks-editors-subcategory"></a>[Editors](#libraries-frameworks-editors)
-* <a name="libraries-frameworks-syntax-highlighters-subcategory"></a>[Syntax Highlighters](#libraries-frameworks-syntax-highlighters)
-* <a name="libraries-frameworks-game-development-subcategory"></a>[Game Development](#libraries-frameworks-game-development)
-* <a name="libraries-frameworks-misc-subcategory"></a>[Misc](#libraries-frameworks-misc)
-* <a name="libraries-frameworks-extensions-subcategory"></a>[Extensions](#libraries-frameworks-extensions)
-* <a name="libraries-frameworks-configuration-subcategory"></a>[Configuration](#libraries-frameworks-configuration)
-* <a name="libraries-frameworks-graphics-subcategory"></a>[Graphics](#libraries-frameworks-graphics)
-* <a name="libraries-frameworks-data-science-subcategory"></a>[Data Science](#libraries-frameworks-data-science)
-* <a name="libraries-frameworks-command-line-interface-subcategory"></a>[Command Line Interface](#libraries-frameworks-command-line-interface)
-* <a name="libraries-frameworks-browsers-subcategory"></a>[Browsers](#libraries-frameworks-browsers)
 
-### <a name="projects-category"></a>[Projects](#projects)
-* <a name="projects-web-subcategory"></a>[Web](#projects-web)
-* <a name="projects-build-tools-subcategory"></a>[Build tools](#projects-build-tools)
-* <a name="projects-misc-subcategory"></a>[Misc](#projects-misc)
-* <a name="projects-desktop-subcategory"></a>[Desktop](#projects-desktop)
-* <a name="projects-examples-subcategory"></a>[Examples](#projects-examples)
-* <a name="projects-idea-plugins-subcategory"></a>[Idea Plugins](#projects-idea-plugins)
 
-### <a name="android-category"></a>[Android](#android)
-* <a name="android-libraries-subcategory"></a>[Libraries](#android-libraries)
-* <a name="android-frameworks-subcategory"></a>[Frameworks](#android-frameworks)
-* <a name="android-projects-subcategory"></a>[Projects](#android-projects)
-* <a name="android-extensions-subcategory"></a>[Extensions](#android-extensions)
-* <a name="android-tools-subcategory"></a>[Tools](#android-tools)
-* <a name="android-tests-subcategory"></a>[Tests](#android-tests)
 
-### <a name="kotlin-javascript-category"></a>[Kotlin JavaScript](#kotlin-javascript)
-* <a name="kotlin-javascript-javascript-subcategory"></a>[JavaScript](#kotlin-javascript-javascript)
-* <a name="kotlin-javascript-frontend-subcategory"></a>[Frontend](#kotlin-javascript-frontend)
-* <a name="kotlin-javascript-game-development-subcategory"></a>[Game Development](#kotlin-javascript-game-development)
-* <a name="kotlin-javascript-build-tools-subcategory"></a>[Build Tools](#kotlin-javascript-build-tools)
-* <a name="kotlin-javascript-integration-subcategory"></a>[Integration](#kotlin-javascript-integration)
 
-### <a name="kotlin-native-category"></a>[Kotlin Native](#kotlin-native)
-* <a name="kotlin-native-projects-subcategory"></a>[Projects](#kotlin-native-projects)
 
-### <a name="kotlin-user-groups-category"></a>[Kotlin User Groups](#kotlin-user-groups)
-* <a name="kotlin-user-groups-europe-subcategory"></a>[Europe](#kotlin-user-groups-europe)
-* <a name="kotlin-user-groups-asia-subcategory"></a>[Asia](#kotlin-user-groups-asia)
-* <a name="kotlin-user-groups-north-america-subcategory"></a>[North America](#kotlin-user-groups-north-america)
-* <a name="kotlin-user-groups-south-america-subcategory"></a>[South America](#kotlin-user-groups-south-america)
-* <a name="kotlin-user-groups-australia-oceania-subcategory"></a>[Australia/Oceania](#kotlin-user-groups-australia-oceania)
-* <a name="kotlin-user-groups-africa-subcategory"></a>[Africa](#kotlin-user-groups-africa)
 
-### <a name="articles-blog-posts-category"></a>[Articles, Blog Posts](#articles-blog-posts)
-* <a name="articles-blog-posts-may-2017-subcategory"></a>[May 2017](#articles-blog-posts-may-2017)
-* <a name="articles-blog-posts-april-2017-subcategory"></a>[April 2017](#articles-blog-posts-april-2017)
-* <a name="articles-blog-posts-march-2017-subcategory"></a>[March 2017](#articles-blog-posts-march-2017)
-* <a name="articles-blog-posts-february-2017-subcategory"></a>[February 2017](#articles-blog-posts-february-2017)
-* <a name="articles-blog-posts-january-2017-subcategory"></a>[January 2017](#articles-blog-posts-january-2017)
-* <a name="articles-blog-posts-december-2016-subcategory"></a>[December 2016](#articles-blog-posts-december-2016)
-* <a name="articles-blog-posts-november-2016-subcategory"></a>[November 2016](#articles-blog-posts-november-2016)
-* <a name="articles-blog-posts-october-2016-subcategory"></a>[October 2016](#articles-blog-posts-october-2016)
-* <a name="articles-blog-posts-september-2016-subcategory"></a>[September 2016](#articles-blog-posts-september-2016)
-* <a name="articles-blog-posts-august-2016-subcategory"></a>[August 2016](#articles-blog-posts-august-2016)
-* <a name="articles-blog-posts-july-2016-subcategory"></a>[July 2016](#articles-blog-posts-july-2016)
-* <a name="articles-blog-posts-june-2016-subcategory"></a>[June 2016](#articles-blog-posts-june-2016)
-* <a name="articles-blog-posts-may-2016-subcategory"></a>[May 2016](#articles-blog-posts-may-2016)
-* <a name="articles-blog-posts-april-2016-subcategory"></a>[April 2016](#articles-blog-posts-april-2016)
-* <a name="articles-blog-posts-march-2016-subcategory"></a>[March 2016](#articles-blog-posts-march-2016)
-* <a name="articles-blog-posts-february-2016-subcategory"></a>[February 2016](#articles-blog-posts-february-2016)
-* <a name="articles-blog-posts-january-2016-subcategory"></a>[January 2016](#articles-blog-posts-january-2016)
-* <a name="articles-blog-posts-december-2015-subcategory"></a>[December 2015](#articles-blog-posts-december-2015)
-* <a name="articles-blog-posts-november-2015-subcategory"></a>[November 2015](#articles-blog-posts-november-2015)
-* <a name="articles-blog-posts-october-2015-subcategory"></a>[October 2015](#articles-blog-posts-october-2015)
-* <a name="articles-blog-posts-september-2015-subcategory"></a>[September 2015](#articles-blog-posts-september-2015)
-* <a name="articles-blog-posts-august-2015-subcategory"></a>[August 2015](#articles-blog-posts-august-2015)
-* <a name="articles-blog-posts-july-2015-subcategory"></a>[July 2015](#articles-blog-posts-july-2015)
-* <a name="articles-blog-posts-june-2015-subcategory"></a>[June 2015](#articles-blog-posts-june-2015)
-* <a name="articles-blog-posts-december-2014-subcategory"></a>[December 2014](#articles-blog-posts-december-2014)
-* <a name="articles-blog-posts-april-2013-subcategory"></a>[April 2013](#articles-blog-posts-april-2013)
-* <a name="articles-blog-posts-february-2013-subcategory"></a>[February 2013](#articles-blog-posts-february-2013)
-* <a name="articles-blog-posts-january-2013-subcategory"></a>[January 2013](#articles-blog-posts-january-2013)
 
-### <a name="videos-category"></a>[Videos](#videos)
-* <a name="videos-march-2018-subcategory"></a>[March 2018](#videos-march-2018)
-* <a name="videos-april-2017-subcategory"></a>[April 2017](#videos-april-2017)
-* <a name="videos-december-2016-subcategory"></a>[December 2016](#videos-december-2016)
-* <a name="videos-november-2016-subcategory"></a>[November 2016](#videos-november-2016)
-* <a name="videos-october-2016-subcategory"></a>[October 2016](#videos-october-2016)
-* <a name="videos-september-2016-subcategory"></a>[September 2016](#videos-september-2016)
-* <a name="videos-august-2016-subcategory"></a>[August 2016](#videos-august-2016)
-* <a name="videos-may-2016-subcategory"></a>[May 2016](#videos-may-2016)
-* <a name="videos-april-2016-subcategory"></a>[April 2016](#videos-april-2016)
-* <a name="videos-march-2016-subcategory"></a>[March 2016](#videos-march-2016)
-* <a name="videos-january-2016-subcategory"></a>[January 2016](#videos-january-2016)
-* <a name="videos-october-2015-subcategory"></a>[October 2015](#videos-october-2015)
-* <a name="videos-august-2015-subcategory"></a>[August 2015](#videos-august-2015)
-* <a name="videos-december-2014-subcategory"></a>[December 2014](#videos-december-2014)
-* <a name="videos-november-2014-subcategory"></a>[November 2014](#videos-november-2014)
-* <a name="videos-september-2014-subcategory"></a>[September 2014](#videos-september-2014)
 
-### <a name="slides-category"></a>[Slides](#slides)
-* <a name="slides-april-2017-subcategory"></a>[April 2017](#slides-april-2017)
-* <a name="slides-november-2016-subcategory"></a>[November 2016](#slides-november-2016)
-* <a name="slides-september-2016-subcategory"></a>[September 2016](#slides-september-2016)
-* <a name="slides-april-2016-subcategory"></a>[April 2016](#slides-april-2016)
-* <a name="slides-may-2015-subcategory"></a>[May 2015](#slides-may-2015)
 
-### <a name="webinars-category"></a>[Webinars](#webinars)
-* <a name="webinars-november-2015-subcategory"></a>[November 2015](#webinars-november-2015)
-* <a name="webinars-september-2015-subcategory"></a>[September 2015](#webinars-september-2015)
 
 ## <a name="links"></a>Links <sup>[Back ⇈](#links-category)</sup>
 ### <a name="links-official-links"></a>Official Links <sup>[Back ⇈](#links-official-links-subcategory)</sup>
@@ -159,7 +50,7 @@
 
 ### <a name="links-resources"></a>Resources <sup>[Back ⇈](#links-resources-subcategory)</sup>
 * [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) - A Podcast on Kotlin and more
+* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) -  Kotlin上的播客等
 * [/r/Kotlin](https://www.reddit.com/r/Kotlin/) 
 * [Stackoverflow Documentation on Kotlin](http://stackoverflow.com/documentation/kotlin/topics) 
 * [Quora Kotlin](https://www.quora.com/topic/Kotlin) 
@@ -184,7 +75,7 @@
 * [Kotlin in Action - Dmitry Jemerov, Svetlana Isakova](https://manning.com/books/kotlin-in-action) 
 * [Kotlin for Android Developers - Antonio Leiva](https://leanpub.com/kotlin-for-android-developers) 
 * [Programming Kotlin - Stephen Samuel, Stefan Bocutiu](https://www.packtpub.com/application-development/programming-kotlin) 
-* [Fundamental Kotlin, First Edition](http://www.fundamental-kotlin.com/) - 从一开始就快速学习Kotlin
+* [Fundamental Kotlin, First Edition](http://www.fundamental-kotlin.com/) - Learn Kotlin quickly from the start
 * [Kotlin for Java Developers](https://teamtreehouse.com/library/kotlin-for-java-developers) -  160分钟的Android课程.
 * [Functional Kotlin](https://www.packtpub.com/application-development/functional-kotlin)   - 从头开始​​学习Kotlin中的函数编程，以及如何将Kotlin中的函数编程应用到像Arrow这样的流行库中的实际项目.  作者：Mario Arias，Rivu Chakraborty
 * [Reactive Programming in Kotlin - Rivu Chakraborty](https://www.packtpub.com/application-development/reactive-programming-kotlin)   - 学习如何使用Kotlin实现Reactive Programming范例，并将它们应用于使用Spring Framework 5.0以及Android应用程序开发的Web编程.  作者：Rivu Chakraborty
@@ -278,7 +169,7 @@
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - 用于Kotlin + Android的Reduxjs的“电池包含”端口
 * [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - 一个用于建模成功或失败操作的结果monad  - 受Elm，Rust和Haskell的启发.
 * [pakoito/Komprehensions](https://github.com/pakoito/Komprehensions) - 对Kotlin和第三方图书馆有所了解.
-* [h0tk3y/kotlin-monads](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
+* [h0tk3y/kotlin-monads](https://github.com/h0tk3y/kotlin-monads) -  Kotlin的Monads
 * [poetix/klenses](https://github.com/poetix/klenses) -  Kotlin的镜头.
 * [reactor/reactor-core](https://github.com/reactor/reactor-core)   -  JVM的非阻塞反应流基础.  自3.1.0.M3以来，本机支持Kotlin.
 * [UrbanCompass/Snail-Kotlin](https://github.com/UrbanCompass/Snail-Kotlin) -  Kotlin的一个可观察框架.
@@ -306,7 +197,7 @@
 * [requery/requery](https://github.com/requery/requery) -  Java / Kotlin / Android的基于SQL的现代查询和持久性.
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - 该库提供了一个流畅的DSL，用于使用弹簧数据规范查询弹簧数据JPA存储库.
 * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) -  PultusORM是sqlite jdbc驱动程序之上的kotlin的sqlite ORM库.
-* [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - 用于aerospike-client-java的RxJava2包装器.
+* [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) - 一个超快速，功能强大且非常简单的ORM android数据库库，可以为您编写数据库代码.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - 用于postgres / mysql的mauricio异步驱动程序的Kotlin / Gradle端口.
 * [shyiko/levelkt](https://github.com/shyiko/levelkt) - 用于Kotlin和/或Java 8+的LevelDB客户端.
@@ -388,7 +279,7 @@
 * [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - 用于可读循环的简单实用程序库.
 * [phxql/aleksa](https://github.com/phxql/aleksa) -  Aleksa是在Kotlin写Alexa Skills的小框架.
 * [TicketmasterMobileStudio/actions-on-google-kotlin](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin)   - 官方Node.js SDK到Kotlin的端口.  完整的所有功能和测试以及几乎相同的API.
-* [cretz/asmble](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
+* [cretz/asmble](https://github.com/cretz/asmble) - 将WebAssembly编译为JVM和其他WASM工具.
 * [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) -  Kotlin的一个很好的解析器组合库
 * [Kotlin/kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - 在Kotlin中使用原子操作的惯用方法.
 * [vjames19/kotlin-futures](https://github.com/vjames19/kotlin-futures) - 扩展函数的集合，使JVM Future，CompletableFuture，ListenableFuture API更具功能性和Kotlin之类.
@@ -430,7 +321,7 @@
 * [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - 未签名的运算符和盒装类型（Ubyte，Uint，Ulong和Ushort），用于未签名的支持.
 * [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) -  g-truck gli port，图像库
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - 非官方的OpenGL SDK
-* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) -  Oculus绑定
+* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) -  OpenVR绑定
 * [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - 打开资产导入库端口
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) -  imgui的jvm端口
@@ -571,7 +462,7 @@
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - 应用程序中任何分析的微小api层.
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
-* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - 将适配器模式和DiffUtil引入Google Maps和MapBox的库.
+* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
 * [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - 简单的android库，呈现动画摩天轮
 * [ehsunshine/colored-time-selector](https://github.com/ehsunshine/colored-time-selector)   - 智能彩色时间选择器.  用户可以通过方便的彩色范围选择器选择空闲时间.
 * [yundom/kache](https://github.com/yundom/kache) - 用Kotlin编写的轻量级缓存库.
@@ -607,7 +498,7 @@
 * [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - 可以使用不同颜色绘制的画布.
 * [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 用于浏览和编辑文件和目录的简单文件管理器.
 * [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 用于查看没有广告的照片和视频的图库.
-* [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 一个简单的文本字段，用于添加无广告的快速笔记.
+* [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 * [ahong222/happy21](https://github.com/ahong222/happy21) - 一个简单的黑杰克游戏与kotlin写
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - 广泛的Kotlin Android Utils系列
 * [inshiro/Kitvei](https://github.com/inshiro/Kitvei) - 适用于Android的免费和开源圣经
@@ -831,7 +722,7 @@
 * [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - 肯尼亚
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/) - 喀麦隆
 * [Ondo Kotlin User Group](https://www.meetup.com/Kotlin-Ondo-User-Group/) - 尼日利亚
-* [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - 布基纳法索
+* [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - Burkina Faso
 * [Rabat Kotlin User Group](https://www.meetup.com/Rabat-Kotlin-User-Group/) - 摩洛哥
 * [Tunisia Kotlin User Group](https://www.facebook.com/groups/1501353116571104) - 突尼斯
 * [Uganda Kotlin User Group](https://www.facebook.com/Uganda-Kotlin-User-Group-613707548753658/) - 乌干达
@@ -931,7 +822,7 @@
 * [Taking Kotlin for a ride](http://kotlin.link/articles/Taking-Kotlin-for-a-ride.html) -  Hadi Tok
 * [A new hope for the JVM: Kotlin](http://kotlin.link/articles/A-new-hope-for-the-JVM-Kotlin.html) - 贾科莫·布雷西亚尼
 * [Swift vs Kotlin for real iOS/Android apps](http://kotlin.link/articles/Swift-vs-Kotlin-for-real-iOS-Android-apps.html) -  Angel G. Olloqui
-* [Functions as Data](http://kotlin.link/articles/Functions-as-Data.html) - Mark Galea
+* [Functions as Data](http://kotlin.link/articles/Functions-as-Data.html) - 马克加莱亚
 * [Kotlin 1.1-M02 is here!](http://kotlin.link/articles/Kotlin-1-1-M02-is-here.html) - 丹尼斯扎尔科夫
 * [DSL builder in Kotlin](http://kotlin.link/articles/DSL-builder-in-Kotlin.html) - PiotrŚlesarew
 * [The Road to Gradle Script Kotlin 1.0](http://kotlin.link/articles/The-Road-to-Gradle-Script-Kotlin-1-0.html) -  Rodrigo B. de Oliveira
@@ -966,7 +857,7 @@
 * [Logging in Kotlin & Android: AnkoLogger vs kotlin-logging](http://kotlin.link/articles/Logging-in-Kotlin-Android-AnkoLogger-vs-kotlin-logging.html) -  osha1
 * [The Next Language You Thought You Didn’t Need](http://kotlin.link/articles/Kotlin-–-The-Next-Language-You-Thought-You-Didn’t-Need.html) -  Jay Dellinger
 * [Kotlin: The Good, The Bad, and The Ugly](http://kotlin.link/articles/Kotlin-The-Good-The-Bad-and-The-Ugly.html) -  AJ Alt
-* [Decision Trees with Kotlin](http://kotlin.link/articles/Decision-Trees-with-Kotlin.html) - Mark Galea
+* [Decision Trees with Kotlin](http://kotlin.link/articles/Decision-Trees-with-Kotlin.html) - 马克加莱亚
 * [Scala vs Kotlin: inline and infix](http://kotlin.link/articles/Scala-vs-Kotlin-inline-and-infix.html) - NicolasFränkel
 * [Improved Pattern Matching in Kotlin](http://kotlin.link/articles/Improved-Pattern-Matching-in-Kotlin.html) - 雅各布齐默尔曼
 * [Getting started with Kotlin in Android development](http://kotlin.link/articles/Getting-started-with-Kotlin-in-Android-development.html) - 德米特里Chyrta

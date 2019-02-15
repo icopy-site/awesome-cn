@@ -1,23 +1,11 @@
+<div class="github-widget" data-repo="johnjago/awesome-theravada"></div>
 ## Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
 
 [Theravada](https://en.wikipedia.org/wiki/Theravada) 是佛教的一个分支，它从巴利佳能（PāliCanon）中汲取教义，这是佛陀教义中最古老的记录之一.
 
-## Contents
 
-- [Academic](#academic)
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Dhamma Talks](#dhamma-talks)
-- [Forums](#forums)
-- [Organizations](#organizations)
-- [Pali](#pali)
-- [Places](#places)
-- [Suttas](#suttas)
-- [Videos](#videos)
-- [License](#license)
 
 ## Academic
 
@@ -146,8 +134,8 @@
 
 - [1983dukkha](https://www.youtube.com/user/1983dukkha/videos) - 来自着名佛教僧侣和尼姑的谈话录音.
 - [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) -  Abhayagiri的现场直播，演讲和活动.
-- [Ajahn Sona](https://www.youtube.com/user/AjahnSona) - 谈论比肯森林佛教寺院院长给出的佛教基本概念.
-- [AjahnBrahmRetreats](https://www.youtube.com/user/AjahnBrahmRetreats) - Recordings of meditation retreats with Ajahn Brahm at Jhana Grove Meditation Retreat Centre.
+- [Ajahn Sona](https://www.youtube.com/user/AjahnSona) - Talks over basic concepts in Buddhism given by the abbot of Birken Forest Buddhist Monastery.
+- [AjahnBrahmRetreats](https://www.youtube.com/user/AjahnBrahmRetreats) - 在Jhana Grove Meditation Retreat Center与Ajahn Brahm录制冥想静修.
 - [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - 在森林修道院的生活.
 - [BSV Dhamma Talks](https://www.youtube.com/user/BSVWeeklyDTEng) - 维多利亚佛教协会向社区提供佛陀的教诲.
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - 来自非宗派佛教组织的同名视频.

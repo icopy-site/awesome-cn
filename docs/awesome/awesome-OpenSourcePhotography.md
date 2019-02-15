@@ -1,34 +1,10 @@
+<div class="github-widget" data-repo="ibaaj/awesome-OpenSourcePhotography"></div>
 ## Awesome-OpenSourcePhotography
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  一系列令人敬畏的免费开源软件和摄影库.  也是视频工具.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 
-- [General](#general)
-- [Camera Firmware Mods](#camera-firmware-mods)
-- [Libraries](#libraries)
-	- [Canon](#canon)
-	- [GoPro](#gopro)
-	- [Sony](#sony)
-- [Utilities](#utilities)
-- [RAW image developers](#raw-image-developers)
-- [HDR Specific Software](#hdr-specific-software)
-- [Panorama Stitching](#panorama-stitching)
-- [Photo Organizers](#photo-organizers)
-- [EXIF Editors](#exif-editors)
-- [Photo Downloaders](#photo-downloaders)
-- [Camera Tetherers](#camera-tetherers)
-- [Monitor Color Correction](#monitor-color-correction)
-- [Alternative Image Viewers](#alternative-image-viewers)
-- [Useful GIMP Mods or Scripts](#useful-gimp-mods-or-scripts)
-- [Communities](#communities)
-- [Resources](#resources)
-- [Video](#video)
-	- [General tools](#general-tools)
-	- [Compositing software](#compositing-software)
-	- [Video Libraries](#video-libraries)
-- [Scripts](#scripts)
-	- [Video to Panorama](#video-to-panorama)
 
 ## General
 
@@ -39,7 +15,7 @@
 
 ## Camera Firmware Mods 
 
-- [CHDK](http://chdk.wikia.com/wiki/CHDK) -  *适用于佳能相机的Canon Hack开发套件.* 
+- [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
 - [Magic Lantern](http://magiclantern.fm/) -  *一项软件增强功能，为佳能DSLR相机提供更多功能.*
 - [Autoexec Hack](https://github.com/KonradIT/autoexechack) -  * GoPro相机的黑客程序汇编.*
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) -  *更改Panasonic相机的视频录制参数.*

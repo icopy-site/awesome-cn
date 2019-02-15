@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="harpribot/awesome-information-retrieval"></div>
 ## Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -8,15 +9,6 @@
 ## Contributing
 请随时发送给我 [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls)  或[email]（mailto：harshal.priyadarshi@utexas.edu）我添加新链接.  我对建议和更正非常开放.  请看看 [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
-## Contents
- - [Books](#books)
- - [Courses](#courses)
- - [Software](#software)
- - [Datasets](#datasets)
- - [Talks](#talks)
- - [Conferences](#conferences)
- - [Blogs](#blogs)
-    - [Interesting Reads](#interesting-reads)
 
 ## Books
 - [Introduction to Information Retrieval](http://www-nlp.stanford.edu/IR-book/)   -  CD Manning，P.Raghavan，H.Schütze.  Cambridge UP，2008.（第一本信息检索入门书）.
@@ -108,7 +100,7 @@
     -  RCV2（Reuter的语料库第2卷） - 包括13种语言的故事（荷兰语，法语，德语，中文，日语，俄语，葡萄牙语，西班牙语，拉丁美洲西班牙语，意大利语，丹麦语，挪威语和瑞典语）.  请注意，故事并不平行.
   -  TRC（汤森路透文本研究收藏） - 这是一个相当新近的语料库，包括1,800,370个新闻报道，涵盖2008-01-01 00:00:03至2009-02-28 23:54:14期间.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - 此数据集包含20000个新闻组消息.取自20个新闻组主题.
-- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) - 此数据集是英文新闻专线文本数据的综合档案，包括标题，日期和文章.
+- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
 - [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - 可根据要求提供过去的新闻专线/纸质数据集（DUC 2001  -  DUC 2007）.
 
 #### External Curation Links
@@ -125,7 +117,7 @@
 - [Knowledge-based Information Retrieval with Wikipedia](https://youtu.be/NFCZuzA4cFc) -  David Wilne（怀卡托大学，2008年）.
 - [Music Information Retrieval Using Locality Sensitive Hashing](https://www.youtube.com/watch?v=SghMq1xBJPI&list=PLdktw5AjQqP2gpQNgHRJaSgEkHiaVLfTi&index=24) -  Steve Tjoa（RackSpace开发人员）[此演讲显示IR不仅仅是文本和图像].
 - [The Functional Web -- The Future of Apps and the Web](https://youtu.be/u6oqr3gMyxk) -  Liron Shapira（Box Tech Talk）.
-- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI) - Doug Imbruce (Techcrunch Disrupt)[Doug Imbruce is the Founder of Qwiki, Inc, a technology startup in New York, NY, acquired by Yahoo! in 2013].
+- [Information Experience - Solution to Information Overload on Web](https://youtu.be/EnvtsbCfiAI)   -  Doug Imbruce（Techcrunch Disrupt）[Doug Imbruce是Qwiki，Inc的创始人，这是纽约州纽约的一家技术创业公司，被雅虎收购！  在2013年].
 - [Internet Privacy](https://youtu.be/tnsyhKHalGs) -  Alma Whitten博士（谷歌布鲁塞尔技术讲座）.
 
 

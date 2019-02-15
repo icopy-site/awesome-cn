@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="thangchung/awesome-dotnet-core"></div>
 ## Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 灵感来自 [awesome](https://github.com/sindresorhus/awesome), [awesome-dotnet](https://github.com/quozd/awesome-dotnet),  [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
@@ -6,67 +7,8 @@
 
 谢谢大家 [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
-## Contents
 
-* [General](#general)
-* [Frameworks, Libraries and Tools](#frameworks-libraries-and-tools)
-  * [API](#api)
-  * [Application Frameworks](#application-frameworks)
-  * [Application Templates](#application-templates)
-  * [Authentication and Authorization](#authentication-and-authorization)
-  * [Blockchain](#blockchain)
-  * [Bot](#bot)
-  * [Build Automation](#build-automation)
-  * [Bundling and Minification](#bundling-and-minification)
-  * [Caching](#caching)
-  * [CMS](#cms)
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
-  * [Compression](#compression)
-  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-  * [Cryptography](#cryptography)
-  * [Database](#database)
-  * [Database Drivers](#database-drivers)
-  * [Database Tools and Utilities](#database-tools-and-utilities)
-  * [Date and Time](#date-and-time)
-  * [Distributed Computing](#distributed-computing)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Exceptions](#exceptions)
-  * [Functional Programming](#functional-programming)
-  * [Graphics](#graphics)
-  * [GUI](#gui)
-  * [IDE](#ide)
-  * [Internationalization](#internationalization)
-  * [IOC](#ioc)
-  * [Logging](#logging)
-  * [Machine Learning and Data Science](#machine-learning-and-data-science)
-  * [Mail](#mail)
-  * [Mathematics](#mathematics)
-  * [Networking](#networking)
-  * [Misc](#misc)
-  * [ORM](#orm)
-  * [Profiling](#profiling)
-  * [Queue and Messaging](#queue-and-messaging)
-  * [Query Builders](#query-builders)
-  * [Scheduler and Job](#scheduler-and-job)
-  * [SDKs](#sdks)
-  * [Security](#security)
-  * [Searching](#searching)
-  * [Serialization](#serialization)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Tools](#tools)
-  * [Web Framework](#web-framework)
-  * [Web Socket](#web-socket)
-  * [Windows Service](#windows-service)
-  * [Workflow](#workflow)
-* [Starter Kits](#starter-kits)
-* [Sample Projects](#sample-projects)
-* [Articles](#articles)
-* [Books](#books)
-* [Cheat Sheets](#cheat-sheets)
-* [Videos](#videos)
-* [Podcasts](#podcasts)
-* [Community](#community)
 
 ## General
 
@@ -164,7 +106,7 @@
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) -  ASP.NET MVC 5和ASP.NET Core的即用型模板，修复了存储库，服务，模型映射以及DI和StyleCop警告.
 * [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - 为ASP.NET Core中的MVC控制器和视图启用功能文件夹.
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio)   -  Webpack，Visual Studio，ASP.NET Core和Angular的模板.  应用程序的客户端和服务器端都在一个ASP.NET Core项目中实现，这使得部署更容易.
-* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju)   -  dotnet新模板，具有很棒的架构风格！  提高生产率，以设计基于六边形，清洁或事件采购架构样式的分层应用程序.  它支持多个数据访问框架（MongoDB，EntityFramework，Dapper或Kafka），并且完全可以测试.
+* [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju) - dotnet new templates with awesome architecture styles! Increases productivity to design layered applications based on Hexagonal, Clean or Event Sourcing architectures styles. It supports multiple data access frameworks (MongoDB, EntityFramework, Dapper or Kafka) and it is completely testable.
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) -  Microsoft ASP.NET核心JavaScript服务.
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 用于构建现代Web应用程序的基于jQuery的HTML5小部件库. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [QuickApp](https://github.com/emonney/QuickApp) - 具有完整登录，用户和角色管理的ASP.NET Core / Angular4启动项目模板.
@@ -209,7 +151,7 @@
 * [CatLight](https://catlight.io)   - 监视项目中的构建和任务的开发人员的状态通知程序.  使用.Net Core和Electron构建.
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - Style your C# console output! [http://colorfulconsole.com](http://colorfulconsole.com).
 * [dotnet-docker](https://github.com/dotnet/dotnet-docker) - 用于使用.NET Core和.NET Core Tools的基本Docker镜像.
-* [Dockerize.NET](https://github.com/brthor/Dockerize.NET) - .NET Cli Tool to package your .NET Core Application into a docker image: 'dotnet dockerize'
+* [Dockerize.NET](https://github.com/brthor/Dockerize.NET) -  .NET Cli工具将.NET核心应用程序打包成docker镜像：&#39;dotnet dockerize&#39;
 * [FlubuCore](https://github.com/flubu-core/flubu.core) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 * [GitInfo](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
 * [GitVersioning](https://github.com/AArnott/Nerdbank.GitVersioning) - 使用单个简单版本.txt文件中的版本标记程序集和NuGet包，并为非官方构建包含git commit ID.
@@ -239,17 +181,13 @@
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) -  ASP.NET应用程序提供常见的博客功能.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry)   - 开源.NET Core CMS和模块化应用程序框架.  代码优先，不引人注目且可扩展.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - 我们正在实时编码流中处理的简单ASP.NET核心wiki.
-* [Lynicon](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) -  ASP.NET Core博客引擎.
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS)   - 开源ASP.NET Core 2.0 CMS.  它目前支持MySQL并计划实现MSSQL，SQLite和PostgreSQL.  此外，它是一个模块化CMS支持主题，皮肤，自定义布局，小部件，多语言（En，BN）.
-* [Orchard Core CMS](https://github.com/OrchardCMS/OrchardCore) - 在模块化和可扩展的应用程序框架之上使用ASP.NET Core构建的开源内容管理系统.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - 用于ASP.NET核心和实体框架核心的轻量级且不显眼的开源CMS.
 * [Platformus](https://github.com/Platformus) - 基于ASP.NET Core 1.0和ExtCore框架的免费，开源和跨平台CMS.
-* [SimpleContent](https://github.com/joeaudette/cloudscribe.SimpleContent) - 用于ASP.NET Core的简单而灵活的内容和博客引擎，可以使用或不使用数据库.
 * [Squidex](https://github.com/Squidex/squidex) - 无头CMS，基于MongoDB，CQRS和事件采购.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core)   - 开源ASP.NET Core 2.x CMS.  它目前支持MS SQL并计划在不久的将来实现MSSQL，SQLite.  它有许多开箱即用的功能，如多语言支持，主题，模板......
 * [Weapsy](https://github.com/Weapsy/Weapsy)   - 基于DDD和CQRS的开源ASP.NET核心CMS.  它支持开箱即用的MSSQL，MySQL，SQLite和PostgreSQL.
-* [Wyam](https://github.com/Wyamio/Wyam) - 模块化静态内容和静态站点生成器.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - 视觉设计，通过拖放建立网站.
 
 ### Code Analysis and Metrics
@@ -316,7 +254,7 @@
   * [neo4j-dotnet-driver](https://github.com/neo4j/neo4j-dotnet-driver) - 用于.NET的Neo4j Bolt驱动程序.
   * [Neo4jClient](https://github.com/Readify/Neo4jClient) -  Neo4j的.NET客户端绑定.
 * [npgsql](https://github.com/npgsql/npgsql) - .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
-* [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
+* [ravendb](https://github.com/ayende/ravendb/tree/v4.0) -  Linq为.NET启用了文档数据库.
 * [RethinkDb.Driver](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
 * [progaudi.tarantool](https://github.com/progaudi/progaudi.tarantool) -  Tarantool NoSql数据库的.NET客户端.
 
@@ -367,7 +305,7 @@
 * [NetMQ.ReactiveExtensions](https://github.com/NetMQ/NetMQ.ReactiveExtensions)   - 使用Reactive Extensions（RX）轻松地在网络上的任何位置发送消息.  传输协议是ZeroMQ.
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#.
 * [reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) 对于.NET.
-* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
+* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - 与Reactive Extensions for .NET集成的MVVM框架，可创建在任何移动或桌面平台上运行的优雅，可测试的用户界面.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) -  [Reactive Extensions](http://reactivex.io) 对于.NET.
 * [Qactive](https://github.com/RxDave/Qactive)   - 反应性可查询可观察框架.  `4.xx或以上`
 * [sodium](https://github.com/SodiumFRP/sodium/tree/master/)   - 功能反应式编程（FRP）库.  `4.xx或以上`
@@ -528,7 +466,7 @@
   * [LINQKit](https://github.com/scottksmith95/LINQKit) -  LINQ to SQL和Entity Framework高级用户的一组免费扩展.
   * [Pomelo.EntityFrameworkCore.MySql](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - 构建在mysql-net / MySqlConnector之上的MySql的实体框架核心提供程序.
 * [Dapper](https://github.com/StackExchange/Dapper) -  .NET的简单对象映射器.
-  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
+  * [Dapper-FluentMap](https://github.com/henkmollema/Dapper-FluentMap) - 使用Dapper时，提供一个简单的API，可以将POCO属性流畅地映射到数据库列.
   * [Dommel](https://github.com/henkmollema/Dommel) -  Dapper的简单CRUD操作.
   * [MicroOrm.Dapper.Repositories](https://github.com/phnx47/MicroOrm.Dapper.Repositories) -  DAPper的CRUD.
 * [Limebean](https://nick-lucas.github.io/LimeBean/)   -  Hybrid-ORM，设计简单易用，不完全隐藏SQL，同时拥有您对ORM所期望的所有好处.  灵感来自RedBeanPHP.
@@ -576,7 +514,7 @@
 * [Coravel](https://github.com/jamesmh/coravel) -  .Net Core与Laravel会面：调度，排队等
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的自动化作业调度程序.
 * [Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
-* [HangfireIO](https://github.com/HangfireIO/Hangfire) - 在ASP.NET应用程序中执行即发即弃，延迟和重复任务的简便方法 [http://hangfire.io](http://hangfire.io).
+* [HangfireIO](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState](https://github.com/prasannavl/LiquidState) - 用于.NET的高效异步和同步状态机.
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于.NET的Crontab.
 * [quartznet](https://github.com/quartznet/quartznet/) -  Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
@@ -618,7 +556,7 @@
 ### Searching
 * [Algolia.Search](https://github.com/algolia/algoliasearch-client-csharp) - 官方Algolia .NET客户端的存储库.
 * [AutoComplete](https://github.com/omerfarukz/autocomplete) - 持久，简单，功能强大且可移植的自动完成库.
-* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) -  NEST和Elasticsearch.NET的存储库，两个官方的弹性搜索.NET客户端.
+* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) -  Elasticsearch .NET API.
 * [SearchExtensions](https://github.com/ninjanye/SearchExtensions) -  IQueryable接口的高级搜索功能，例如实体框架查询.
 * [SimMetrics.Net](https://github.com/StefH/SimMetrics.Net) - 相似度量库，例如从编辑距离（Levenshtein，Gotoh，Jaro等）到其他指标，（例如Soundex，Chapman）
@@ -763,6 +701,7 @@
   * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -  ASP.NET核心多租户Web应用程序基础.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) - 用于运行小型本地开发活动的开源网站.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) - 用ASP.NET Core编写的小俱乐部.
+  * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - 具有单片部署模型的分层应用程序架构.
   * [Entropy](https://github.com/aspnet/Entropy) - 用于新功能和想法的混乱实验游乐场 - 请在此处查看针对各个功能的小型和简单样本.
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - 具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序.
   * [GenVue](https://github.com/herbat73/GenVue) - 一个可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈构建的私有文件

@@ -1,25 +1,10 @@
+<div class="github-widget" data-repo="lucasviola/awesome-tech-videos"></div>
 ## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 *来自youtube，vimeo等的精选科技视频列表，仅仅因为
 我认为这是我们向人们学习的最佳途径之一
 真的知道他们在做什么:)
 
-## Table of Contents
-* [Programming Languages](#programming-languages)
-* [User Experience](#user-experience)
-* [Front-End Development](#front-end-development)
-* [Functional Programming](#functional-programming)
-* [Talks on Papers](#talks-on-papers)
-* [Math](#math)
-* [Compilers](#compilers)
-* [Databases](#databases)
-* [Methodologies](#methodologies)
-* [Architecture](#architecture)
-* [Linux and Free Software](#linux-and-free-software)
-* [Motivation](#motivation)
-* [Diversity](#diversity)
-* [Company Culture](#company-culture)
-* [DevOps](#devops)
 
 ### Programming Languages
 

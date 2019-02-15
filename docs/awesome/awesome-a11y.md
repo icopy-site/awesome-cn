@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="brunopulis/awesome-a11y"></div>
 ## Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
@@ -11,9 +12,7 @@
 &gt;精选的辅助功能工具，文章和资源的精选列表.
 &gt;灵感来自 [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) 和 [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
-**目录**
 
-- [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](https://github.com/brunopulis/awesome-a11y/blob/master/topics/specification.md)
   - [Accessibility Weekly](https://github.com/brunopulis/awesome-a11y/blob/master/topics/newsletter.md)
   - [Articles and Videos](https://github.com/brunopulis/awesome-a11y/blob/master/topics/articles.md)

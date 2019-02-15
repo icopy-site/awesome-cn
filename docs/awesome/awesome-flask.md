@@ -1,38 +1,8 @@
+<div class="github-widget" data-repo="humiaozuzu/awesome-flask"></div>
 ## Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的Flask资源和插件的精选列表
 
-- [Awesome Flask](#awesome-flask)
-  - [Framework](#framework)
-  - [Admin interface](#admin-interface)
-  - [Analytics](#analytics)
-  - [Authentication](#authentication)
-  - [Authorization](#authorization)
-  - [Database](#database)
-  - [Database Migrations](#database-migrations)
-  - [Session](#session)
-  - [Cache](#cache)
-  - [Data Validation](#data-validation)
-  - [Email](#email)
-  - [i18n](#i18n)
-  - [Full-text searching](#full-text-searching)
-  - [Rate Limiting](#rate-limiting)
-  - [Task Queue](#task-queue)
-  - [Exception tracking](#exception-tracking)
-  - [Tracing](#tracing)
-  - [APM](#apm)
-  - [Other SDK](#other-sdk)
-  - [Frontend](#frontend)
-  - [Development (Debugging/Testing/Documentation)](#development-debuggingtestingdocumentation)
-  - [Utils](#utils)
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Courses](#courses)
-  - [Books](#books)
-  - [Slides](#slides)
-  - [Videos](#videos)
-  - [Built with Flask](#built-with-flask)
-  - [Boilerplate](#boilerplate)
 
 ## Framework
 
@@ -85,7 +55,7 @@
 ## Cache
 
 - [Flask-Caching](https://github.com/sh4nks/flask-caching) - 为Flask添加简单的缓存支持
-- [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) -  Heroku上的自动Flask缓存配置
+- [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
 
 ## Data Validation
 
@@ -233,7 +203,7 @@
 - [airflow](https://github.com/apache/incubator-airflow) -  Airflow是一个以编程方式创作，安排和监控数据管道的系统.
 - [timesketch](https://github.com/google/timesketch) - 协作取证时间线分析
 - [changes](https://github.com/dropbox/changes)   - 代码的仪表板.  构建系统.
-- [security_monkey](https://github.com/Netflix/security_monkey) - monitors policy changes and alerts on insecure configurations in an AWS account.
+- [security_monkey](https://github.com/Netflix/security_monkey) - 监控AWS账户中不安全配置的策略更改和警报.
 - [securedrop](https://github.com/freedomofpress/securedrop)- 一个开源举报人提交系统，媒体组织可以使用该系统安全地接收来自匿名来源的文件并与之通信.
 - [sync_engine](https://github.com/nylas/sync-engine) - 具有现代API的IMAP / SMTP同步系统
 - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - 志愿者和运动管理系统

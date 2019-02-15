@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="dypsilon/frontend-dev-bookmarks"></div>
 ## Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **为前端Web开发人员手动策划的资源集合.**

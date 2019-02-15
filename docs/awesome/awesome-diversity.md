@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="folkswhocode/awesome-diversity"></div>
 ## Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  ：sparkles：精选的技术多样性文章，网站和资源的精选列表.  ：闪耀：
@@ -6,15 +7,6 @@
 
 **始终在进行中.**
 
-## Contents
-- [Organizations](#organizations)
-- [Events](#events)
-- [Ally Resources](#ally-resources)
-- [Actionable Resources](#actionable-resources)
-- [Posts](#posts)
-- [Talks](#talks)
-- [Advocates](#advocates)
-- [Books](#books)
 - [Diverse Figures in Tech History](https://github.com/folkswhocode/awesome-diversity/blob/master//FIGURES.md)
 
 ## Organizations
@@ -117,7 +109,7 @@
 - [You Have A Culture Problem. Here's How To Avoid A Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - 作者：Ellen K. Pao.
 
 ## Posts
-Both articles and posts on diversity and inclusiveness in technology.
+关于技术的多样性和包容性的文章和帖子.
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) -  Allyson Kapin.
 - [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - 作者：Karolina Szczur.
@@ -141,7 +133,7 @@ Both articles and posts on diversity and inclusiveness in technology.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - 通过
 将埃文斯和Sinduja Rangarajan.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -  Annalee.
-- [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - 由温迪李.
+- [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - By Wendy Lee.
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - AndréArko.
 - [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) - 由Leniece Flowers Brissett.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - 黛安·鲁比诺.

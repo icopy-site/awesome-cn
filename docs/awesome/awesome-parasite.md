@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ecohealthalliance/awesome-parasite"></div>
 令人敬畏的寄生虫 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 =========
 
@@ -7,11 +8,6 @@
 
 令人敬畏的寄生虫是由 [Anna Willoughby](https://arw36.github.io/) 并与...保持联系 [EcoHealth Alliance](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.ecohealthalliance.org) .  欢迎提供，请阅读 [contributing guidelines](https://github.com/ecohealthalliance/awesome-parasite/blob/master/contributing.md). 
 
-## Contents
-   - [Databases](#databases)
-   - [Reporting Systems](#reporting-systems)
-   - [Taxonomy](#taxonomy)
-   - [Scientific Journals](#scientific-journals)
 - - -
 ## Databases
 

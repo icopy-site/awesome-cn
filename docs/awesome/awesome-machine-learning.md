@@ -1,8 +1,9 @@
+<div class="github-widget" data-repo="josephmisiti/awesome-machine-learning"></div>
 ## Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的机器学习框架，库和软件（按语言）列出的精选列表.  受到&#39;awesome-php`的启发.
 
-如果您想参与此列表（请执行），请发送拉取请求或与我联系 [@josephmisiti](https://twitter.com/josephmisiti).
+If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti).
 此外，如果符合以下情况，则应弃用列出的存储库
 
 *存储库的所有者明确说“不保留此库”.
@@ -18,127 +19,15 @@
 
 *有关免费参加聚会和当地活动的列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
-## Table of Contents
 
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-- [APL](#apl)
-    - [General-Purpose Machine Learning](#apl-general-purpose)
-- [C](#c)
-    - [General-Purpose Machine Learning](#c-general-purpose)
-    - [Computer Vision](#c-cv)
-- [C++](#cpp)
-    - [Computer Vision](#cpp-cv)
-    - [General-Purpose Machine Learning](#cpp-general-purpose)
-    - [Natural Language Processing](#cpp-nlp)
-    - [Speech Recognition](#speech-recognition-1)
-    - [Sequence Analysis](#cpp-sequence)
-    - [Gesture Recognition](#cpp-gestures)
-- [Common Lisp](#common-lisp)
-    - [General-Purpose Machine Learning](#common-lisp-general-purpose)
-- [Clojure](#clojure)
-    - [Natural Language Processing](#clojure-nlp)
-    - [General-Purpose Machine Learning](#clojure-general-purpose)
-    - [Data Analysis / Data Visualization](#clojure-data-analysis)
-- [Crystal](#crystal)
-    - [General-Purpose Machine Learning](#crystal-general-purpose)
-- [Elixir](#elixir)
-    - [General-Purpose Machine Learning](#elixir-general-purpose)
-    - [Natural Language Processing](#elixir-nlp)
-- [Erlang](#erlang)
-    - [General-Purpose Machine Learning](#erlang-general-purpose)
-- [Go](#go)
-    - [Natural Language Processing](#go-nlp)
-    - [General-Purpose Machine Learning](#go-general-purpose)
-    - [Data Analysis / Data Visualization](#go-data-analysis)
-    - [Facial Detection and Recognition](#go-facial-recognition)
-    - [Image Classification](#go-image-classification)
-- [Haskell](#haskell)
-    - [General-Purpose Machine Learning](#haskell-general-purpose)
-- [Java](#java)
-    - [Natural Language Processing](#java-nlp)
-    - [General-Purpose Machine Learning](#java-general-purpose)
-    - [Speech Recognition](#java-speech-recognition)
-    - [Data Analysis / Data Visualization](#java-data-analysis)
-    - [Deep Learning](#java-deep-learning)
-- [Javascript](#javascript)
-    - [Natural Language Processing](#javascript-nlp)
-    - [Data Analysis / Data Visualization](#javascript-data-analysis)
-    - [General-Purpose Machine Learning](#javascript-general-purpose)
-    - [Misc](#javascript-misc)
-    - [Demos and Scripts](#javascript-demos)
-- [Julia](#julia)
-    - [General-Purpose Machine Learning](#julia-general-purpose)
-    - [Natural Language Processing](#julia-nlp)
-    - [Data Analysis / Data Visualization](#julia-data-analysis)
-    - [Misc Stuff / Presentations](#julia-misc)
-- [Lua](#lua)
-    - [General-Purpose Machine Learning](#lua-general-purpose)
-    - [Demos and Scripts](#lua-demos)
-- [Matlab](#matlab)
-    - [Computer Vision](#matlab-cv)
-    - [Natural Language Processing](#matlab-nlp)
-    - [General-Purpose Machine Learning](#matlab-general-purpose)
-    - [Data Analysis / Data Visualization](#matlab-data-analysis)
-- [.NET](#net)
-    - [Computer Vision](#net-cv)
-    - [Natural Language Processing](#net-nlp)
-    - [General-Purpose Machine Learning](#net-general-purpose)
-    - [Data Analysis / Data Visualization](#net-data-analysis)
-- [Objective C](#objectivec)
-    - [General-Purpose Machine Learning](#objectivec-general-purpose)
-- [OCaml](#ocaml)
-    - [General-Purpose Machine Learning](#ocaml-general-purpose)
-- [Perl](#perl)
-    - [Data Analysis / Data Visualization](#perl-data)
-	- [General-Purpose Machine Learning](#perl-ml)
-- [Perl 6](#perl6)
-- [PHP](#php)
-    - [Natural Language Processing](#php-nlp)
-    - [General-Purpose Machine Learning](#php-general-purpose)
-- [Python](#python)
-    - [Computer Vision](#python-cv)
-    - [Natural Language Processing](#python-nlp)
-    - [General-Purpose Machine Learning](#python-general-purpose)
-    - [Data Analysis / Data Visualization](#python-data-analysis)
-    - [Misc Scripts / iPython Notebooks / Codebases](#python-misc)
-    - [Kaggle Competition Source Code](#python-kaggle)
-    - [Neural Networks](#python-neural-networks)
-    - [Reinforcement Learning](#python-reinforcement-learning)
-- [Ruby](#ruby)
-    - [Natural Language Processing](#ruby-nlp)
-    - [General-Purpose Machine Learning](#ruby-general-purpose)
-    - [Data Analysis / Data Visualization](#ruby-data-analysis)
-    - [Misc](#ruby-misc)
-- [Rust](#rust)
-    - [General-Purpose Machine Learning](#rust-general-purpose)
-- [R](#r)
-    - [General-Purpose Machine Learning](#r-general-purpose)
-    - [Data Analysis / Data Visualization](#r-data-analysis)
-- [SAS](#sas)
-    - [General-Purpose Machine Learning](#sas-general-purpose)
-    - [Data Analysis / Data Visualization](#sas-data-analysis)
-    - [Natural Language Processing](#sas-nlp)
-写个脚本把它们爬下来 - [Demos and Scripts](#sas-demos)
-- [Scala](#scala)
-    - [Natural Language Processing](#scala-nlp)
-    - [Data Analysis / Data Visualization](#scala-data-analysis)
-    - [General-Purpose Machine Learning](#scala-general-purpose)
-- [Scheme](#scheme)
-    - [Neural Networks](#scheme-neural-networks)
-- [Swift](#swift)
-    - [General-Purpose Machine Learning](#swift-general-purpose)
-- [TensorFlow](#tensor)
-    - [General-Purpose Machine Learning](#tensor-general-purpose)
 
 ### Tools
 
-- [Neural Networks](#tools-neural-networks)
-- [Misc](#tools-misc)
 
 
-[Credits](#credits)
 
 <!-- /MarkdownTOC -->
 
@@ -207,7 +96,7 @@
 * [Timbl](https://languagemachines.github.io/timbl/)   - 实现若干基于存储器的学习算法的软件包/ C ++库，其中IB1-IG是k-最近邻分类的实现，IGTree是IB1-IG的决策树近似.  常用于NLP.
 * [Vowpal Wabbit (VW)](https://github.com/VowpalWabbit/vowpal_wabbit) - 快速的核心学习系统.
 * [Warp-CTC](https://github.com/baidu-research/warp-ctc) - 在CPU和GPU上快速并行实现连接主义时间分类（CTC）.
-* [XGBoost](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+* [XGBoost](https://github.com/dmlc/xgboost) - 并行优化的通用梯度增强库.
 * [ThunderGBM](https://github.com/Xtra-Computing/thundergbm) -  GPU上GBDT和随机森林的快速库.
 * [ThunderSVM](https://github.com/Xtra-Computing/thundersvm) -  GPU和CPU上的快速SVM库.
 * [LKYDeepNN](https://github.com/mosdeo/LKYDeepNN)   - 仅限标头的C ++ 11神经网络库.  低依赖，原生繁体中文文件.
@@ -259,7 +148,7 @@
 <a name="clojure-nlp"></a>
 #### Natural Language Processing
 
-* [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) - Natural Language Processing in Clojure (opennlp).
+* [Clojure-openNLP](https://github.com/dakrone/clojure-opennlp) -  Clojure中的自然语言处理（opennlp）.
 * [Infections-clj](https://github.com/r0man/inflections-clj) - 用于Clojure和ClojureScript的类似Rails的变形库.
 
 <a name="clojure-general-purpose"></a>
@@ -268,7 +157,7 @@
 * [Touchstone](https://github.com/ptaoussanis/touchstone)   -  Clojure A / B测试库.  ** [已过时] **
 * [Clojush](https://github.com/lspector/Clojush) - 推送编程语言和在Clojure中实现的PushGP遗传编程系统.
 * [Infer](https://github.com/aria42/infer)   -  Clojure中的推理和机器学习.  ** [已过时] **
-* [Clj-ML](https://github.com/antoniogarrote/clj-ml)   - 基于Weka和朋友建立的Clojure机器学习库.  ** [已过时] **
+* [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **[Deprecated]**
 * [DL4CLJ](https://github.com/yetanalytics/dl4clj) -  Deeplearning4j的Clojure包装器.
 * [Encog](https://github.com/jimpil/enclog)   -  Encog（v3）的Clojure包装器（专门用于神经网络的机器学习框架）.  ** [已过时] **
 * [Fungp](https://github.com/vollmerm/fungp)   -  Clojure的遗传编程库.  ** [已过时] **
@@ -283,7 +172,7 @@
 
 * [Incanter](http://incanter.org/) -  Incanter是一个基于Clojure的R-based统计计算和图形平台.
 * [PigPen](https://github.com/Netflix/PigPen) -  Map-Reduce for Clojure.
-* [Envision](https://github.com/clojurewerkz/envision) -  Clojure数据可视化库，基于Statistiker和D3.
+* [Envision](https://github.com/clojurewerkz/envision) - Clojure Data Visualisation library, based on Statistiker and D3.
 
 <a name="crystal"></a>
 ## Crystal
@@ -334,7 +223,7 @@
 <a name="go-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+* [eaopt](https://github.com/MaxHalford/eaopt) - 进化优化库.
 * [Go Learn](https://github.com/sjwhitworth/golearn)   -  Go的机器学习.  ** [已过时] **
 * [go-pr](https://github.com/daviddengcn/go-pr)   -  Go lang中的模式识别包.  ** [已过时] **
 * [go-ml](https://github.com/alonsovidales/go_ml)   - 线性/逻辑回归，神经网络，协同过滤和高斯多变量分布.  ** [已过时] **
@@ -402,7 +291,7 @@
 * [OpenNLP](https://opennlp.apache.org/) - 基于机器学习的工具包，用于处理自然语言文本.
 * [LingPipe](http://alias-i.com/lingpipe/index.html) - 使用计算语言学处理文本的工具包.
 * [ClearTK](https://github.com/ClearTK/cleartk)   -  ClearTK提供了一个用Java开发统计自然语言处理（NLP）组件的框架，它构建在Apache UIMA之上.  ** [已过时] **
-* [Apache cTAKES](https://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
+* [Apache cTAKES](https://ctakes.apache.org/) - 阿帕奇临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)   -  NLP4J项目为自然语言处理提供软件和资源.  该项目始于计算机语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [已过时] **
 * [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的一系列自然语言处理（NLP）核心库，例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
 
@@ -511,7 +400,7 @@
 * [Node-fann](https://github.com/rlidwka/node-fann) -  Node.js的FANN（快速人工神经网络库）绑定** [已弃用] **
 * [Keras.js](https://github.com/transcranial/keras-js) - 在浏览器中运行Keras模型，WebGL 2提供GPU支持.
 * [Kmeans.js](https://github.com/emilbayes/kMeans.js)   - 针对node.js和浏览器的k-means算法的简单Javascript实现.  ** [已过时] **
-* [LDA.js](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
+* [LDA.js](https://github.com/primaryobjects/lda) -  Node.js的LDA主题建模
 * [Learning.js](https://github.com/yandongliu/learningjs) - 逻辑回归/ c4.5决策树的Javascript实现** [已弃用] **
 * [machinelearn.js](https://github.com/machinelearnjs/machinelearnjs) - 用于Web，Node.js和开发人员的机器学习库
 * [mil-tokyo](https://github.com/mil-tokyo) - 几个机器学习库的列表.
@@ -566,7 +455,7 @@
 * [Mixed Models](https://github.com/dmbates/MixedModels.jl) - 用于拟合（统计）混合效应模型的Julia软件包.
 * [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl)   - 在Julia中实现的基本mcmc采样器.  ** [已过时] **
 * [Distances](https://github.com/JuliaStats/Distances.jl) - 用于距离评估的Julia模块.
-* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
+* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - 决策树分类器和回归器.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) - 朱莉娅的神经网络.
 * [MCMC](https://github.com/doobwa/MCMC.jl)   -  Julia的MCMC工具.  ** [已过时] **
 * [Mamba](https://github.com/brian-j-smith/Mamba.jl) - 马尔可夫链蒙特卡洛（MCMC）在朱莉娅进行贝叶斯分析.
@@ -893,7 +782,7 @@ be
 * [Rosetta](https://github.com/columbia-applied-data-science/rosetta) - 文本处理工具和包装（例如Vowpal Wabbit）
 * [BLLIP Parser](https://pypi.org/project/bllipparser/)   - 用于BLLIP自然语言分析器（也称为Charniak-Johnson解析器）的Python绑定.  ** [已过时] **
 * [PyNLPl](https://github.com/proycon/pynlpl)   -  Python自然语言处理库.  适用于Python的通用NLP库.  还包含一些用于解析常见NLP格式的特定模块，最值得注意的是 [FoLiA](https://proycon.github.io/folia/)，还有ARPA语言模型，摩西短语表，GIZA ++对齐.
-* [python-ucto](https://github.com/proycon/python-ucto) -  Python绑定到ucto（一种基于unicode的基于规则的各种语言的标记化器）.
+* [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
 * [python-frog](https://github.com/proycon/python-frog)   -  Python绑定到Frog，一个荷兰语的NLP套件.  （pos标记，lemmatisation，依赖解析，NER）
 * [python-zpar](https://github.com/EducationalTestingService/python-zpar) -  Python绑定 [ZPar](https://github.com/frcchang/zpar)，英语的统计词性标注器，连续性解析器和依赖性解析器.
 * [colibri-core](https://github.com/proycon/colibri-core) -  Python绑定到C ++库，以快速和内存高效的方式提取和使用基本的语言结构，如n-gram和skipgrams.
@@ -992,7 +881,7 @@ be
 * [Xcessiv](https://github.com/reiinakano/xcessiv) - 基于Web的应用程序，用于快速，可扩展和自动化的超参数调整和堆叠集成.
 * [PyTorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络
 * [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch)   - 从头开始​​在Python中实现机器学习模型，重点是透明度.  旨在以无障碍的方式展示ML的螺母和螺栓.
-* [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
+* [Edward](http://edwardlib.org/)   - 用于概率建模，推理和批评的库.  建立在TensorFlow之上.
 * [xRBM](https://github.com/omimo/xRBM) - 限制玻尔兹曼机（RBM）的库及其在Tensorflow中的条件变体.
 * [CatBoost](https://github.com/catboost/catboost)   - 决策树库的通用梯度增强功能，支持开箱即用的分类功能.  它易于安装，文档齐全，支持CPU和GPU（甚至是多GPU）计算.
 * [stacked_generalization](https://github.com/fukatani/stacked_generalization) - 在Python中实现机器学习堆叠技术作为便利库.
@@ -1074,7 +963,7 @@ be
 * [2012-paper-diginorm](https://github.com/dib-lab/2012-paper-diginorm)
 * [A gallery of interesting IPython notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [ipython-notebooks](https://github.com/ogrisel/notebooks)
-* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - 不断更新的数据科学Python笔记本：Spark，Hadoop MapReduce，HDFS，AWS，Kaggle，scikit-learn，matplotlib，pandas，NumPy，SciPy和各种命令行.
+* [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 * [decision-weights](https://github.com/CamDavidsonPilon/decision-weights)
 * [Sarah Palin LDA](https://github.com/Wavelets/sarah-palin-lda) - 主题建模Sarah Palin电子邮件.
 * [Diffusion Segmentation](https://github.com/Wavelets/diffusion-segmentation) - 基于扩散方法的图像分割算法集合.
@@ -1126,7 +1015,7 @@ be
 * [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) -  Kaggle的代码获得了有价值的购物者挑战.
 * [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) -  Kaggle的CIFAR-10比赛代码，使用cuda-convnet.
 * [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - 深度学习变得简单.
-* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle.
+* [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) -  Kaggle加速计生物识别比赛代码.
 * [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - 预测广告中的工作薪水 - 一场Kaggle比赛.
 * [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - 亚马逊访问控制挑战.
 * [kaggle-bestbuy_big](https://github.com/zygmuntz/kaggle-bestbuy_big) -  Kaggle的百思买竞赛代码.
@@ -1171,17 +1060,16 @@ be
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby) ** [已过时] **
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout)   -  JRuby Mahout是一个在JRuby世界中释放Apache Mahout强大功能的宝石.  ** [已过时] **
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - 允许贝叶斯和其他类型分类的通用分类器模块.
-* [rb-libsvm](https://github.com/febeling/rb-libsvm) -  LIBSVM的Ruby语言绑定，LIBSVM是支持向量机的库.
+* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
 * [Scoruby](https://github.com/asafschers/scoruby) - 从PMML文件创建随机森林分类器.
 
 <a name="ruby-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
 * [rsruby](https://github.com/alexgutteridge/rsruby) -  Ruby  -  R桥.
-* [data-visualization-ruby](https://github.com/chrislo/data_visualisation_ruby)   - 使用Ruby进行数据可视化的Ruby Manor演示文稿的源代码和支持内容.  ** [已过时] **
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)   - 用于Ruby的gnuplot包装器，尤其用于将ROC曲线绘制成SVG文件.  ** [已过时] **
 * [plot-rb](https://github.com/zuhao/plotrb)   - 在Vega和D3之上构建Ruby的绘图库.  ** [已过时] **
-* [scruffy](https://github.com/delano/scruffy) - 一个漂亮的Ruby图形工具包.
+* [scruffy](https://github.com/delano/scruffy) - A beautiful graphing toolkit for Ruby.
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean)   - 人类数据管理工具.  ** [已过时] **
 * [Bioruby](https://github.com/bioruby/bioruby)
@@ -1241,7 +1129,7 @@ be
 * [gbm](https://cran.r-project.org/web/packages/gbm/index.html) -  gbm：广义Boosted回归模型.
 * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html) -  glmnet：Lasso和弹性网正则化广义线性模型.
 * [glmpath](https://cran.r-project.org/web/packages/glmpath/index.html) -  glmpath：广义线性模型的L1正则化路径和Cox比例风险模型.
-* [GMMBoost](https://cran.r-project.org/web/packages/GMMBoost/index.html) - GMMBoost: Likelihood-based Boosting for Generalized mixed models. **[Deprecated]**
+* [GMMBoost](https://cran.r-project.org/web/packages/GMMBoost/index.html)   -  GMMBoost：基于似然的推广广义混合模型.  ** [已过时] **
 * [grplasso](https://cran.r-project.org/web/packages/grplasso/index.html) -  grplasso：使用Group Lasso惩罚符合用户指定的模型.
 * [grpreg](https://cran.r-project.org/web/packages/grpreg/index.html) -  grpreg：具有分组协变量的回归模型的正则化路径.
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html) - 大规模快速，并行和分布式机器学习算法的框架 -  Deeplearning，Random forest，GBM，KMeans，PCA，GLM.
@@ -1326,7 +1214,7 @@ be
 #### Natural Language Processing
 
 * [Contextual Analysis](https://www.sas.com/en_us/software/contextual-analysis.html) - 使用GUI向非结构化文本添加结构.
-* [Sentiment Analysis](https://www.sas.com/en_us/software/sentiment-analysis.html) - 使用GUI从文本中提取情绪.
+* [Sentiment Analysis](https://www.sas.com/en_us/software/sentiment-analysis.html) - Extract sentiment from text using a GUI.
 * [Text Miner](https://www.sas.com/en_us/software/text-miner.html) - 使用GUI或代码进行文本挖掘.
 
 <a name="sas-demos"></a>
@@ -1350,6 +1238,7 @@ be
 * [Chalk](https://github.com/scalanlp/chalk)   -  Chalk是一个自然语言处理库.  ** [已过时] **
 * [FACTORIE](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
 * [Montague](https://github.com/Workday/upshot-montague) -  Montague是Scala的语义分析库，具有易于使用的DSL.
+* [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - 基于Apache Spark ML构建的自然语言处理库，为机器学习管道提供简单，高性能和准确的NLP注释，可在分布式环境中轻松扩展.
 
 <a name="scala-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -1416,7 +1305,6 @@ be
 <a name="tensor-general-purpose"></a>
 #### General-Purpose Machine Learning
 * [Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow) - 与TensorFlow相关的所有事项的列表.
-* [Golden TensorFlow](https://golden.com/wiki/TensorFlow) -  TensorFlow上的一页内容，包括学术论文和相关主题的链接.
 
 <a name="tools"></a>
 ## Tools

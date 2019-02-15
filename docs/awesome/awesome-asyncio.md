@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="timofurrer/awesome-asyncio"></div>
 ## Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精心策划的Python异步框架，库，软件和资源列表.
@@ -8,17 +9,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 因此，很难让自己与最精彩的软件包保持同步.
 在这里找到一些*很棒的*包，如果你错过了一个，我们指望你 [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) 提出你的建议.
 
-## Contents
 
-* [Alternative Loops](#alternative-loops)
-* [Database Drivers](#database-drivers)
-* [Message Queues](#message-queues)
-* [Misc](#misc)
-* [Networking](#networking)
-* [Testing](#testing)
-* [Web Frameworks](#web-frameworks)
-* [Talks](#talks)
-* [Writings](#writings)
 
 
 ***

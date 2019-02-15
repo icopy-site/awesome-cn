@@ -1,206 +1,184 @@
+<div class="github-widget" data-repo="agarrharr/awesome-static-website-services"></div>
 ## Awesome Static Website Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of services for static websites.
+&gt;静态网站的策划列表.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-<h1 align="center"><a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">Looking for new maintainers</a></h1>
+<h1 align="center"> <a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">寻找新的维护者</a> </h1>
 
-## Table of Contents
 
-- [Audio](#audio)
-- [Books](#books)
-- [Calendar and Scheduling](#calendar-and-scheduling)
-- [Images](#images)
-- [Maps](#maps)
-- [Presentations](#presentations)
-- [Video](#video)
-- [Code](#code)
-- [Functions as a Service FaaS](#functions-as-a-service)
-- [Community](#community)
-  - [Comments](#comments)
-  - [Forms](#forms)
-  - [Live Chat](#live-chat)
-  - [Newsletters](#newsletters)
-  - [Social Media](#social-media)
-  - [Surveys](#surveys)
-- [E-Commerce](#e-commerce)
-- [Payments](#payments)
-- [Search](#search)
-- [Analytics](#analytics)
-- [Other](#other)
-- [Related Lists](#related-lists)
 
 ---
 
 ## Audio
 
-- [SoundCloud](https://soundcloud.com/) - Audio hosting with an embeddable player. Up to 3 hours of content is free.
-- [Mixcloud](https://www.mixcloud.com/) - Audio hosting with unlimited uploads and an embeddable player.
-- [Spotify](https://www.spotify.com/) - You can embed any song, album, or playlist with a [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
+- [SoundCloud](https://soundcloud.com/)   - 使用嵌入式播放器进行音频托管.  最多3小时的内容是免费的.
+- [Mixcloud](https://www.mixcloud.com/) - 无限上传和可嵌入播放器的音频托管.
+- [Spotify](https://www.spotify.com/) - 您可以使用以下内容嵌入任何歌曲，专辑或播放列表 [Spotify Play Button](https://developer.spotify.com/technologies/widgets/spotify-play-button/).
 
 ## Books
 
-- [Google Books](https://github.com/aharris88/google-bookshelves-widget) - Allows you to display the books in your Google Books Library.
-- [Goodreads API and widgets](https://www.goodreads.com/api) - Allows you to access any of the Goodreads data. Widgets are found on the widgets tab on your [settings page](https://www.goodreads.com/user/edit).
+- [Google Books](https://github.com/aharris88/google-bookshelves-widget) - 允许您在Google图书馆中显示图书.
+- [Goodreads API and widgets](https://www.goodreads.com/api)   - 允许您访问任何Goodreads数据.  窗口小部件位于您的窗口小部件选项卡上 [settings page](https://www.goodreads.com/user/edit).
 
 ## Calendar and Scheduling
 
-- [Google Calendar](http://calendar.google.com/) - Embeddable calendar that you can collaborate with other people.
-- [Booking.js](http://booking.timekit.io/) - Beautiful embeddable booking widget.
-- [zenplanner](http://zenplanner.com/) - Paid - Online scheduling for fitness.
+- [Google Calendar](http://calendar.google.com/) - 可嵌入日历，您可以与其他人协作.
+- [Booking.js](http://booking.timekit.io/) - 美丽的嵌入式预订小部件.
+- [zenplanner](http://zenplanner.com/) - 付费 - 健身的在线安排.
 
 ## Images
 
-- [Flickr](https://www.flickr.com/) - Online photo hosting by Yahoo.
-- [Cloudinary](https://cloudinary.com/) - Image hosting, manipulation and delivery.
+- [Flickr](https://www.flickr.com/) - 雅虎的在线照片托管.
+- [Cloudinary](https://cloudinary.com/) - 图像托管，操作和交付.
 
 ## Maps
 
-- [Google Maps](http://maps.google.com/) - Google maps are easily embeddable.
-- [Mapbox](https://www.mapbox.com/) - Really nice looking embeddable maps.
+- [Google Maps](http://maps.google.com/) - 谷歌地图很容易嵌入.
+- [Mapbox](https://www.mapbox.com/) - 非常好看的可嵌入地图.
 
 ## Presentations
 
-- [Prezi](https://prezi.com/) - Online presentations with really transitions that can zoom and rotate.
-- [Reveal.js](http://lab.hakim.se/reveal-js/) - HTML presentation framework.
-- [Slides.com](http://slides.com/) - A place for creating, presenting and sharing slide decks.
-- [SpeakerDeck](https://speakerdeck.com/) - Upload your slides as a PDF, and get an online, shareable presentation.
+- [Prezi](https://prezi.com/) - 具有可以缩放和旋转的真正过渡的在线演示.
+- [Reveal.js](http://lab.hakim.se/reveal-js/) -  HTML演示框架.
+- [Slides.com](http://slides.com/) - 创建，展示和共享幻灯片的地方.
+- [SpeakerDeck](https://speakerdeck.com/) - 以PDF格式上传幻灯片，并获得在线可共享的演示文稿.
 
 ## Video
 
-- [YouTube](https://www.youtube.com/) - Embeddable videos with unlimited uploads.
-- [Vimeo](https://vimeo.co/) - Paid - Embeddable videos with no ads.
-- [Vevo](http://www.vevo.com/) - Embeddable music videos.
-- [Wistia](http://wistia.com/) - Free plan has a limit of 25 videos.
+- [YouTube](https://www.youtube.com/) - 无限上传的可嵌入视频.
+- [Vimeo](https://vimeo.co/) - 付费 - 没有广告的可嵌入视频.
+- [Vevo](http://www.vevo.com/) - 嵌入音乐视频.
+- [Wistia](http://wistia.com/) - 免费套餐限制为25个视频.
 
 ### Code
 
-- [Codepen](http://codepen.io/) - A playground of embeddable front-end code examples.
-- [JS Bin](http://jsbin.com/) - Embeddable front-end code examples.
-- [JSFiddle](http://jsfiddle.net/) - Embeddable front-end code examples.
-- [highlight.js](https://highlightjs.org/) - Syntax highlighting for the web.
+- [Codepen](http://codepen.io/) - 可嵌入前端代码示例的游乐场.
+- [JS Bin](http://jsbin.com/) - 可嵌入的前端代码示例.
+- [JSFiddle](http://jsfiddle.net/) - 可嵌入的前端代码示例.
+- [highlight.js](https://highlightjs.org/) - 为网络突出显示语法.
 
 ## Functions as a Service
-- [1Backend](https://1backend.com) - Deploy your backend in seconds. Free tier included. Open source.
-- [AWS Lambda](https://aws.amazon.com/lambda/) - AWS Lambda lets you run code without provisioning or managing servers. You pay only for the compute time you consume
-- [Google Cloud Functions](https://cloud.google.com/functions/) - Create single-purpose, stand-alone functions that respond to Cloud events without the need to manage a server or runtime environment
-- [Webtask by Auth0](https://webtask.io/) - Call code on the server with simple HTTP, easier to set up by far than Lambda or Google's
-- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - by Microsoft - same premise as Lambda on the Azure cloud
-- [IronWorkers](https://www.iron.io/platform/ironworker/) - by Iron.io - Run code in a multilanguage containerized environment with unlimited scale and simple pricing
-- [IronFunctions](http://open.iron.io/) - by Iron.io - IronFunctions is an open source serverless computing platform for any cloud - private, public, or hybrid.
-- [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - part of their BlueMix hosting platform, and open source, ties into their Watson AI ecosystem nicely
+- [1Backend](https://1backend.com)   - 在几秒钟内部署后端.  包括免费套餐.  开源.
+- [AWS Lambda](https://aws.amazon.com/lambda/)   -  AWS Lambda允许您在不配置或管理服务器的情况下运行代码.  您只需为您消耗的计算时间付费
+- [Google Cloud Functions](https://cloud.google.com/functions/) - 创建响应云事件的单用途独立功能，而无需管理服务器或运行时环境
+- [Webtask by Auth0](https://webtask.io/) - 使用简单的HTTP在服务器上调用代码，比Lambda或Google更容易设置
+- [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 由Microsoft  - 与Azure云上的Lambda相同的前提
+- [IronWorkers](https://www.iron.io/platform/ironworker/) - 通过Iron.io  - 在多语言集装箱化环境中运行代码，具有无限规模和简单定价
+- [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有，公共或混合云.
+- [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的BlueMix托管平台的一部分，以及开源，很好地与他们的Watson AI生态系统联系在一起
 
 ## Community
 
 ### Comments
 
-- [Staticman](https://github.com/eduardoboucas/staticman) - Staticman is a Node.js application that receives user-generated content and uploads it as data files to a GitHub repository. In practice, this allows you to have dynamic content (e.g. blog post comments) as part of a fully static website, as long as your site automatically deploys on every push to GitHub, as seen on GitHub Pages, Netlify and others.
-- [Disqus](https://disqus.com/) - Easily embeddable comments with nested replies, multiple login methods, and email notifications.
-- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - Embeddable comments for your site by Facebook.
-- [IntenseDebate Comments](http://www.intensedebate.com/) - Embeddable comments with nested replies, multiple login methods, and email notifications.
-- [LiveFyre](http://web.livefyre.com/apps/comments/) - Real-time comments, SEO-optimized, stocked with social features, and beautiful on both desktop and mobile.
-- [Redditjs Embed Widget](http://embed.redditjs.com/) - Embed Reddit comments on your site. If it hasn't been posted, it will show a link to encourage the user to submit.
-- [Muut.com](https://muut.com/) - Embeddable comments, forum and private messaging. A lot of functionality, but really low footprint left on your website.
-- [Gitment](https://github.com/imsun/gitment) - Comment system based on GitHub Issues, which can be used in the frontend without any server-side implementation.
+- [Staticman](https://github.com/eduardoboucas/staticman)   -  Staticman是一个Node.js应用程序，它接收用户生成的内容并将其作为数据文件上传到GitHub存储库.  在实践中，这允许您将动态内容（例如博客帖子评论）作为完全静态网站的一部分，只要您的网站在每次推送到GitHub时自动部署，如GitHub页面，Netlify和其他人所见.
+- [Disqus](https://disqus.com/) - 使用嵌套回复，多种登录方法和电子邮件通知轻松嵌入注释.
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 通过Facebook为您的网站嵌入评论.
+- [IntenseDebate Comments](http://www.intensedebate.com/) - 嵌套回复，多种登录方法和电子邮件通知的可嵌入注释.
+- [LiveFyre](http://web.livefyre.com/apps/comments/) - 实时评论，优化搜索引擎优化，社交功能，以及桌面和移动设备上的美观.
+- [Redditjs Embed Widget](http://embed.redditjs.com/)   - 在您的网站上嵌入Reddit评论.  如果尚未发布，则会显示一个鼓励用户提交的链接.
+- [Muut.com](https://muut.com/)   - 可嵌入的评论，论坛和私人消息.  很多功能，但在您的网站上留下了非常低的占地面积.
+- [Gitment](https://github.com/imsun/gitment) - 基于GitHub问题的评论系统，可以在没有任何服务器端实现的前端中使用.
 
 ### Forms
 
 #### Really Simple Forms
 
-- [Formspree](http://formspree.io/) - Receive emails from a form on your static website.
-- [elFormo](https://www.elformo.com/) - Simple form processing and response retrieval via email.
-- [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
-- [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
-- [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
-- [Brisk Forms](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
-- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
+- [Formspree](http://formspree.io/) - 从静态网站上的表单接收电子邮件.
+- [elFormo](https://www.elformo.com/) - 通过电子邮件简单的表单处理和响应检索.
+- [Flipmail](http://flipmail.co/) - 通过电子邮件简单的表单处理和响应检索.
+- [MailThis](http://mailthis.to/) - 通过带有可选附件的电子邮件简单提交表单.
+- [Simple Form](https://getsimpleform.com/) - 带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
+- [Brisk Forms](https://github.com/stevensona/briskforms) - 免费表单提交服务，您回复的电子邮件，同时保持您的电子邮件地址私密，是开源的.
+- [99 Inbound](https://www.99inbound.com) - 使用电子邮件/ Slack通知和第三方应用程序集成形成端点服务（例如MailChimp）
 
 #### Normal Forms
 
-- [Google Forms](https://www.google.com/forms/about/) - Saves results into Google Sheets and can email you when there is a submission.
-- [FormKeep](https://formkeep.com/) - Paid - View form submissions in a beautiful web interface. It has spam filtering and it integrates with webhooks such as Gmail, Trello, and Basecamp.
-- [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
-- [FormAssembly](http://www.formassembly.com/) - Allows you to build any kind of form that can include complex branching logic and multiple pages.
-- [FormSite](https://www.formsite.com/) - Form buider, with payments, and form management.
-- [FormStack](https://www.formstack.com/) - Forms with A/B testing, partial submission, analytics, and integrations.
-- [Sheetsu](https://sheetsu.com/) - POST and GET your data to Google Spreadsheet.
-- [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
-- [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
-- [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
-- [GitHub Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
-- [Utterences](https://github.com/utterance/utterances) - A lightweight comments widget built on GitHub issues.
-- [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
-- [Pageclip](https://pageclip.co) - A flexible server / backend for HTML forms. View your data in the realtime web interface, or use the API to get CSV and JSON output.
-- [Formester](https://www.formester.com) - Forms and email marketing (lead collection, email campaigns, and newsletters) with integrations.
+- [Google Forms](https://www.google.com/forms/about/) - 将结果保存到Google表格中，并在提交时通过电子邮件发送给您.
+- [FormKeep](https://formkeep.com/)   - 付费 - 在漂亮的网络界面中查看表单提交.  它具有垃圾邮件过滤功能，并与Gmail，Trello和Basecamp等webhook集成.
+- [123 Contact Form](http://www.123contactform.com/)   - 连接到MailChimp，Salesforce和Google Drive等其他在线服务.  它还与支付处理器集成，包括安全性和分析.
+- [FormAssembly](http://www.formassembly.com/) - 允许您构建任何类型的表单，其中包括复杂的分支逻辑和多个页面.
+- [FormSite](https://www.formsite.com/) - 表格buider，付款和表格管理.
+- [FormStack](https://www.formstack.com/) - 具有A / B测试，部分提交，分析和集成的表单.
+- [Sheetsu](https://sheetsu.com/) - 发布并将您的数据导入Google电子表格.
+- [Typeform](http://www.typeform.com/) - 可嵌入的令人敬畏的形式.
+- [Wufoo](http://www.wufoo.com/) - 免费或付费 - 您可以使用表单设计器构建的表单，包括通知，报告和付款.
+- [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - 带有文件上传和验证码的表单.
+- [GitHub Issues](https://help.github.com/articles/about-issues/)   - 这是开发人员获得评论/问题的有趣方式.  看到 [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) 举个例子.
+- [Utterences](https://github.com/utterance/utterances) - 基于GitHub问题构建的轻量级注释小部件.
+- [FormBackend](https://www.formbackend.com)   - 创建表单后端并将HTML表单提交给我们的后端.  在线查看条目并连接到其他服务.  每次提交新条目时都会收到一封电子邮件.
+- [Pageclip](https://pageclip.co)   -  HTML表单的灵活服务器/后端.  在实时Web界面中查看数据，或使用API​​获取CSV和JSON输出.
+- [Formester](https://www.formester.com) - 带有集成的表单和电子邮件营销（主要收集，电子邮件活动和新闻简报）.
 
 #### Provided by the Host
 
-- [Netlify](https://www.netlify.com/docs/form-handling/) - Netlify comes with built-in form handling.
+- [Netlify](https://www.netlify.com/docs/form-handling/) -  Netlify带有内置表单处理功能.
 
 ### Live Chat
 
-- [jivochat](https://www.jivochat.com/) - JivoSite is a professional live chat for websites that was specifically designed to increase your online sales.
-- [LiveChat](https://www.livechatinc.com/) - Live chat on your website.
-- [Olark](https://www.olark.com/) - Live chat on your website. You can also see who's on your website and what they're doing.
-- [SnapEngage](https://snapengage.com/) - Live chat with integrations and custom styles.
-- [tawk.co](https://www.tawk.to/) - Lets you monitor and chat with visitors on your website.
-- [WebsiteAlive](https://www.websitealive.com/) - Live chat for your website & social networks.
-- [Zopim](https://www.zopim.com/) - Live chat with free trial.
+- [jivochat](https://www.jivochat.com/) -  JivoSite是专门为增加在线销售而设计的网站的专业实时聊天.
+- [LiveChat](https://www.livechatinc.com/) - 在您的网站上实时聊天.
+- [Olark](https://www.olark.com/)   - 在您的网站上实时聊天.  您还可以查看您网站上的用户以及他们正在做的事情.
+- [SnapEngage](https://snapengage.com/) - 实时聊天与集成和自定义样式.
+- [tawk.co](https://www.tawk.to/) - 让您监控并与您网站上的访问者聊天.
+- [WebsiteAlive](https://www.websitealive.com/) - 为您的网站和社交网络实时聊天.
+- [Zopim](https://www.zopim.com/) - 免费试用实时聊天.
 
 ### Newsletters
 
-- [MailChimp](http://mailchimp.com/) - Free email marketing. You can pay to add more features.
-- [Constant Contact](http://www.constantcontact.com/) - Email marketing with campaigns, autoresponders, and analytics.
-- [AWeber](http://www.aweber.com/) - Email marketing with campaigns, autoresponders, and analytics.
-- [Campaign Monitor](https://www.campaignmonitor.com/) - Email marketing with campaigns, autoresponders, and analytics.
-- [MailerLite](https://www.mailerlite.com/) - Free email marketing. You can pay for more subscribers.
+- [MailChimp](http://mailchimp.com/)   - 免费电子邮件营销.  您可以付费添加更多功能.
+- [Constant Contact](http://www.constantcontact.com/) - 使用广告系列，自动回复和分析进行电子邮件营销.
+- [AWeber](http://www.aweber.com/) - 使用广告系列，自动回复和分析进行电子邮件营销.
+- [Campaign Monitor](https://www.campaignmonitor.com/) - 使用广告系列，自动回复和分析进行电子邮件营销.
+- [MailerLite](https://www.mailerlite.com/)   - 免费电子邮件营销.  您可以为更多订阅者付费.
 
 ### Social Media
 
-- [Google+](https://developers.google.com/+/web/embedded-post/) - Google+ embedded post.
-- [Pinterest](https://developers.pinterest.com/) - Pin It Button.
-- [Twitter](https://dev.twitter.com/web/embedded-tweets) - Embedded tweets.
-- [Facebook](https://developers.facebook.com/docs/plugins) - Facebook embedded plugins.
-- [ShareThis](http://www.sharethis.com/) - Sharing buttons for multiple social networks.
-- [Kontaktify](https://www.kontaktify.com/) - A contact widget that provides an easy way for visitors to get in touch.
+- [Google+](https://developers.google.com/+/web/embedded-post/) -  Google+嵌入式帖子.
+- [Pinterest](https://developers.pinterest.com/) -  Pin It按钮.
+- [Twitter](https://dev.twitter.com/web/embedded-tweets) - 嵌入式推文.
+- [Facebook](https://developers.facebook.com/docs/plugins) -  Facebook嵌入式插件.
+- [ShareThis](http://www.sharethis.com/) - 分享多个社交网络的按钮.
+- [Kontaktify](https://www.kontaktify.com/) - 联系人小部件，为访问者提供了一种轻松的联系方式.
 
 ### Surveys
 
-- [Google Forms](https://www.google.co.nz/forms/about/) - You can use Google forms for surveys or for forms on your site.
-- [SurveyMonkey](https://www.surveymonkey.com/) - Easy to use and free surveys.
-- [Typeform](http://www.typeform.com/) - Really beautiful forms.
-- [Qualaroo](https://qualaroo.com/) - Embed surveys anywhere on your website that comes up from the bottom right side of the screen.
-- [Insight Stash](https://insightstash.com/) - Fast, Simple survey forms.
+- [Google Forms](https://www.google.co.nz/forms/about/) - 您可以使用Google表单进行调查或网站上的表单.
+- [SurveyMonkey](https://www.surveymonkey.com/) - 易于使用和免费调查.
+- [Typeform](http://www.typeform.com/) - 真漂亮的形式.
+- [Qualaroo](https://qualaroo.com/) - 在网站的任何位置嵌入调查，从屏幕右下方显示.
+- [Insight Stash](https://insightstash.com/) - 快速，简单的调查表格.
 
 ## E-Commerce
 
-- [Ecwid](https://www.ecwid.com/) - Embeddable shopping cart.
-- [FoxyCart](http://www.foxycart.com/) - Add a shopping cart with basic html code.
-- [SnipCart](https://snipcart.com/) - Include a few lines of code for a full online shop.
-- [Gumroad](https://gumroad.com/) - An all-in-one solution to sell your work.
-- [Payhip](https://payhip.com/) - An embeddable way to sell digital downloads & memberships
-- [Moltin](https://moltin.com/) - Add eCommerce functionality to anything.
+- [Ecwid](https://www.ecwid.com/) - 嵌入式购物车.
+- [FoxyCart](http://www.foxycart.com/) - 添加带有基本HTML代码的购物车.
+- [SnipCart](https://snipcart.com/) - 为完整的在线商店添加几行代码.
+- [Gumroad](https://gumroad.com/) - 销售工作的一体化解决方案.
+- [Payhip](https://payhip.com/) - 销售数字下载和会员资格的可嵌入方式
+- [Moltin](https://moltin.com/) - 为任何事物添加电子商务功能.
 
 ## Payments
- - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin Cash.
- - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - Accept payments using various cryptocurrencies.
+ - [MoneyButton](https://www.moneybutton.com/) - 使用比特币现金支付网站付款和捐款.
+ - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - 使用各种加密货币接受付款.
 
 ## Search
 
-- [lunr.js](http://lunrjs.com/) - Simple full-text search in your browser.
-- [Google Custom Search Engine](https://cse.google.com/cse/) - Search your site with a custom Google Search.
-- [Algolia](https://www.algolia.com/) - Hosted Search API that delivers instant and relevant results from the first keystroke.
-- [CloudSh](https://cloudsh.com/) - Powerful search for your website with a few lines of JavaScript.
+- [lunr.js](http://lunrjs.com/) - 在浏览器中进行简单的全文搜索.
+- [Google Custom Search Engine](https://cse.google.com/cse/) - 使用自定义Google搜索搜索您的网站.
+- [Algolia](https://www.algolia.com/) - 托管搜索API，可通过第一次按键提供即时和相关的结果.
+- [CloudSh](https://cloudsh.com/) - 使用几行JavaScript强大搜索您的网站.
 
 ## Analytics
 
-- [Google Analytics](http://www.google.com/analytics/) - Freemium web analytics service offered by Google.
-- [Simple Analytics](https://simpleanalytics.io/) - 💲 - Simple, clean, and friendly analytics.
+- [Google Analytics](http://www.google.com/analytics/) -  Google提供的免费增值网站分析服务.
+- [Simple Analytics](https://simpleanalytics.io/) -   - 简单，干净，友好的分析.
 
 ## Other
 
-- [Sketch Fab](https://sketchfab.com/) - Embeddable 3D content.
+- [Sketch Fab](https://sketchfab.com/) - 嵌入式3D内容.
 
 ## Related Lists
 
@@ -212,4 +190,4 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Adam Garrett-Harris](https://twitter.com/agarrharr) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Adam Garrett-Harris](https://twitter.com/agarrharr) 已放弃对此作品的所有版权及相关或相邻权利.

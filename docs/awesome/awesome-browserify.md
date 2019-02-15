@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="browserify/awesome-browserify"></div>
 <div align="center"><img src="https://raw.githubusercontent.com/browserify/awesome-browserify/master/browserify.png" alt="Browserify!"></div>
 
 ## Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,23 +7,7 @@
 
 请帮助改进此列表 [contributing](https://github.com/browserify/awesome-browserify/blob/master/contributing.md)!
 
-## Contents
 
-- [About](#about)
-- [Official Resources](#official-resources)
-- [Community Resources](#community-resources)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Demos](#demos)
-- [Videos](#videos)
-- [Tools](#tools)
-  - [Development Servers](#development-servers)
-  - [Plugins](#plugins)
-  - [Watchers](#watchers)
-  - [CSS Bundlers](#css-bundlers)
-  - [Transforms](#transforms)
-  - [Node in the Browser](#node-in-the-browser)
-  - [Production Tools](#production-tools)
 
 ## About
 

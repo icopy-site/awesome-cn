@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ellisonleao/magictools"></div>
 <h1 align="center">
     <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>
@@ -15,41 +16,9 @@
 - ：免费： - 免费
 - ：tada： - 开源
 - ：钱包： - 支付
-- ：money_with_wings： - 部分免费
+- :money_with_wings: - Partially Free
 
-## Table of Contents
 
-- [Graphics](#graphics)
-    - [Assets/Placeholders](#assetsplaceholders)
-    - [Spritesheet Tools](#spritesheet-tools)
-    - [Bitmap Compression](#bitmap-compression)
-    - [Texture Tools](#texture-tools)
-    - [Character Generators](#character-generators)
-    - [Tile/Level Editors](#tilelevel-editors)
-    - [Animation](#animation)
-    - [Vector/Image Editor](#vectorimage-editor)
-    - [Modeling](#modeling)
-    - [Terrain Generators](#terrain-generators)
-    - [Voxel Editors](#voxel-editors)
-- [Code](#code)
-  - [Engines and Frameworks](#engines-and-frameworks)
-  - [AI](#ai)
-- [Audio](#audio)
-  - [Collections](#collections)
-  - [Music and Audio Editors](#music-and-audio-editors)
-- [Board Games](#board-games)
-- [Must see](#must-see)
-  - [Blogs and Portals](#blogs-and-portals)
-  - [Books](#books)
-  - [Magazines](#magazines)
-  - [Videos/Podcasts](#videospodcasts)
-  - [Game Jams](#game-jams)
-  - [Project Management](#project-management)
-  - [Complete Game Sources](#complete-game-sources)
-- [Ads](#ads)
-- [Learn](#learn)
-  - [General Game Development](#general-game-development)
-  - [Computer Graphics](#computer-graphics)
 
 
 Graphics
@@ -64,7 +33,7 @@ Graphics
 *：money_with_wings： [CGTextures](http://www.textures.com) - 大量纹理.
 *：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
 * ：自由： [Games-Icons Set](http://game-icons.net/) - 免费图标为您的游戏.
-* ：自由： [Google Poly](https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (Only remixable models are downloadable.)
+* ：自由： [Google Poly](https://poly.google.com/)   - 可搜索的具有可旋转预览的3D模型数据库.  （只能下载可混音的型号.）
 * ：自由： [Iconmonstr](http://iconmonstr.com/) - 您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -  OpenGameArt论坛举办的Liberated Pixel Cup（LPC）的免费图形资产
@@ -74,7 +43,7 @@ Graphics
 *：money_with_wings： [PlainTextures](http://www.plaintextures.com/) - 免费的高分辨率纹理，画笔和照片
 * ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) - 一个免费的2D和3D图形博客.
 * ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式3D模型.
-* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
+* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - 静态和动画图形对象（通常也称为精灵）的集合.
 * ：自由： [StickyPNG](http://www.stickpng.com/) - 免费透明的PNG图像.
 * ：自由： [TextureKing](http://www.textureking.com/) - 免费材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - 在线树生成器.
@@ -128,11 +97,10 @@ Graphics
 * ：钱袋子： [Spine](http://esotericsoftware.com/) -  Spine致力于2D动画，提供高效的工作流程，既可以创建出色的动画，也可以将其集成到游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) - 精灵动画的现代工具.
 *：那么： [DragonBones](http://dragonbones.com) -  Flash的开源2D骨架动画解决方案
-*：那么： [LWF](http://gree.github.io/lwf/)   - 轻量级SWF.  LWF是一个动画引擎，可以播放从HTML5，Unity，Cocos2d-x，iOS UIKit等中的FLASH内容转换的动画数据.
 
 #### Vector/Image Editor
 
-* ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) - 矢量图形编辑器，具有一系列功能，也支持Adobe文件格式
+* ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
 * ：钱袋子： [Affinity Photo](https://affinity.serif.com/de/photo) - 照片和光栅图形编辑器，与Adobe文件格式和Affinity Designer一起使用
 *：money_with_wings： [Aseprite](http://www.aseprite.org/) - 动画精灵编辑器和像素艺术工具.
 *：那么： [Gimp](http://www.gimp.org/)   -  GNU图像处理程序.  它是一个免费分发的软件，用于照片修饰，图像合成和图像创作等任务.
@@ -303,14 +271,12 @@ Code
 *：那么： [Spring](http://springrts.com/) - 功能强大的免费跨平台RTS引擎.
 * ：自由： [SpriteKit](https://developer.apple.com/documentation/spritekit) -  iOS / Mac 2D游戏引擎.
 *：那么： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级和快速2D HTML5渲染和布局引擎.
-*：那么： [Starling](http://gamua.com/starling/) -  GPU驱动的2D Flash API
+*：那么： [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
 *：money_with_wings： [Stencyl](http://www.stencyl.com/) - 游戏创建平台，允许用户为计算机，移动设备和网络创建2D视频游戏.
 *：那么： [Superpowers](https://sparklinlabs.itch.io/superpowers) -  HTML5协作2D / 3D游戏制作
 *：那么： [TIC-80](https://tic.computer/) -  TIC-80是一款用于制作，播放和分享小游戏的梦幻电脑.
 *：那么： [Three.js](http://threejs.org/) -  Javascript 3D库.
-*：那么： [Turbulenz](http://biz.turbulenz.com/developers) -  Turbulenz提供了构建，发布，迭代和货币化高质量游戏的能力，这些游戏与其他游戏不同，具有身临其境的3D效果和实时物理，开辟了前所未有的非凡网络内容的全新世界.
 *：那么： [Twine](http://twinery.org/)   - 可下载或基于浏览器的游戏开发平台，允许用户创建链接的故事路径.  Twine不仅基于文本，还支持音乐，图像和声音效果.  基本文本冒险游戏所需的编码知识非常少.
-*：money_with_wings： [Unity 3D](http://unity3d.com/) - 用于创建2D和3D游戏以及交互式内容的开发引擎.
 * ：自由： [Unreal Engine 4](https://www.unrealengine.com/) - 由Epic Games开发的新游戏引擎技术.
 *：那么： [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎.
 *：那么： [Vassal](http://www.vassalengine.org/)   -  Vassal是一款游戏引擎，用于构建和玩棋盘游戏和纸牌游戏的在线改编.  通过互联网或电子邮件直播.  Vassal在所有平台上运行，是免费的开源软件.
@@ -483,7 +449,7 @@ Ads
 * [AdMob by Google](https://www.google.com.br/admob/) - 谷歌的移动广告和货币化服务.
 * [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
 * [Appodeal](http://www.appodeal.com/) - 针对移动应用的程序化广告中介解决方案.
-* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
+* [ChartBoost](https://www.chartboost.com/) - 货币化，分析平台.
 * [RevMob](https://www.revmobmobileadnetwork.com/) - 货币化和广告解决方案.
 * [Unity Ads](https://unity3d.com/pt/services/ads) -  Unity3D官方广告SDK.
 * [Vungle](https://vungle.com/) - 视频广告服务.

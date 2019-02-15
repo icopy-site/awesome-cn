@@ -1,22 +1,10 @@
+<div class="github-widget" data-repo="nicolesaidy/awesome-web-design"></div>
 ## Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;为数字设计师精心策划的精选资源列表.
 
 **看看我 [website](http://nicolesaidy.com) & [blog](http://blog.nicolesaidy.com). ✨**
 
-## Contents
 
-- [Blog & News](#blog--news)
-- [Inspiration](#inspiration)
-- [Colors](#colors)
-- [Typography](#typography)
-- [Icons](#icons)
-- [Images](#images)
-- [Guidelines](#guidelines)
-- [Design Tools](#design-tools)
-- [Prototype Tools](#prototype-tools)
-- [Tutorials](#tutorials)
-- [Productivity](#productivity)
-- [Slack Teams](#slack-teams)
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com)：设计师最好的策划故事.
@@ -58,7 +46,7 @@
 * [Fontpair](http://fontpair.co)：漂亮的Google字体组合和对.
 * [Type Anything](https://typeanything.io/)：创建出色的字体组合.
 * [Type Scale](http://type-scale.com/)：预览并为项目选择正确的类型比例.
-* [WhatTheFont](https://www.myfonts.com/WhatTheFont/): Seen a font in an image and want to know what it is? WhatTheFont will find the closest match.
+* [WhatTheFont](https://www.myfonts.com/WhatTheFont/) ：看到图像中的字体，想知道它是什么？  WhatTheFont将找到最接近的匹配.
 * [Typewolf](https://www.typewolf.com/)：全面的Web排版信息，字体替代方案的建议以及野外使用的链接.
 * [Typ.io](http://typ.io/)：来自真实网站的排版灵感.
 
@@ -89,7 +77,7 @@
 * [GoodUI](http://www.goodui.org/)：5种方法可以获得更好的用户界面.
 
 ## Design Tools
-* [Sketch](http://sketchapp.com)：适用于Mac的数字设计轻量级程序.
+* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
 * [Figma](http://figma.com)：协作界面设计工具.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html)：原型设计和线框工具.
 * [inVision Studio](https://www.invisionapp.com/studio)：快速原型设计，动画，内置设计系统和协作.

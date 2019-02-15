@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="passy/awesome-purescript"></div>
 ## awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; PureScript的精美库，工具和其他闪亮的东西的精选列表.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="passy/awesome-recursion-schemes"></div>
 ## Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;用于学习和使用递归方案的有用资源的管理.
@@ -5,14 +6,7 @@
 递归方案是简单的可组合组合器，它通过嵌套数据结构自动化遍历和递归过程.
 
 
-## Contents
 
-- [Introductions](#introductions)
-- [Articles](#articles)
-- [Papers](#papers)
-- [Presentations](#presentations)
-- [Podcasts](#podcasts)
-- [Implementations](#implementations)
 
 
 ## Introductions

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ramnes/awesome-mongodb"></div>
 ![Awesome MongoDB](https://raw.githubusercontent.com/ramnes/awesome-mongodb/master/logo.png)
 
 ## Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,47 +7,8 @@
 
 &gt;精选的MongoDB资源，库，工具和应用程序的精选列表
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  随意改善此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  随意改善此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
-## Table of Contents
- - [Resources](#resources)
-   - [Documentation](#documentation)
-   - [Articles](#articles)
-   - [Books](#books)
-   - [Talks](#talks)
-   - [Tutorials](#tutorials)
-   - [More](#more)
- - [Libraries](#libraries)
-   - [C](#c)
-   - [C++](#c-1)
-   - [C#/.NET](#cnet)
-   - [Delphi](#delphi)
-   - [Elixir](#elixir)
-   - [Erlang](#erlang)
-   - [Go](#go)
-   - [Haskell](#haskell)
-   - [Java](#java)
-   - [JavaScript](#javascript)
-   - [Julia](#julia)
-   - [Lisp](#lisp)
-   - [Mathematica](#mathematica)
-   - [Perl](#perl)
-   - [PHP](#php)
-   - [Python](#python)
-   - [R](#r)
-   - [Ruby](#ruby)
-   - [Rust](#rust)
-   - [Scala](#scala)
- - [Tools](#tools)
-   - [Administration](#administration)
-   - [Data](#data)
-   - [Deployment](#deployment)
-   - [Desktop](#desktop)
-   - [Development](#development)
-   - [Monitoring](#monitoring)
-   - [Shell](#shell)
-   - [Web](#web)
- - [Applications](#applications)
 
 ## Resources
 ### Documentation
@@ -93,7 +55,7 @@
 ### C#/.NET ###
  - [mongo-csharp-driver](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-queue-csharp](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue on top of MongoDB
- - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
+ - [MongoDB Messaging](https://github.com/loresoft/MongoDB.Messaging) - 轻量级队列发布/订阅处理库
  - [MongoRepository](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
 
 ### Delphi

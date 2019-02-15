@@ -1,7 +1,7 @@
+<div class="github-widget" data-repo="woop/awesome-quantified-self"></div>
 ## Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://raw.githubusercontent.com/willempienaar/awesome-quantified-self)
 
 
 &gt;精心策划的量化自我资源清单.
@@ -10,13 +10,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
-## Contents
 
-- [Websites and Resources](#websites-and-resources)
-- [Applications and Platforms](#applications-and-platforms)
-- [Devices and Wearables](#devices-and-wearables)
-- [Research and Data Analysis](#research-and-analysis)
-- [Open Source Projects](#open-source-projects)
 
 ## Websites and Resources
 
@@ -33,7 +27,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合，生活日志，量化自我和数字遗产.
 - [Quantified Bob](https://www.quantifiedbob.com/) - 通过实验和个人分析，跟踪一个人对自我知识，改进和优化的追求.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我，生活，日记，教育.
-- [QS on Medium](https://medium.com/@quantifiedself) - Quantified Self posts on Medium.
+- [QS on Medium](https://medium.com/@quantifiedself) - 在媒体上量化自我帖子.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于Venture Beat的量化自我文章.
 - [QS on Wired](https://www.wired.com/tag/quantified-self/) -  Wired.com上的量化自我文章.
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - 关于LiveScience的量化自我文章.
@@ -123,7 +117,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - 跟踪您的日常情绪和活动（Android）.
-- [Daylio](http://daylio.webflow.io/)   - 无需写下一行就可以捕捉你的一天.  高级版可导出数据.  （iOS和Android）.
+- [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
 - [MoodNotes](http://moodnotes.thriveport.com/)   - 用可修改的微笑或皱眉脸捕捉你的感受.  可导出的数据.  （iOS和Apple Watch）.
 - [MoodPanda](http://moodpanda.com/)   - 在线提供最古老的情绪提升者之一.  评价你的心情并分享支持.  可导出的数据.  通过API（Web，iOS，Android）同步和扩展.
 - [MoodJam](http://moodjam.com/)   - 用颜色跟踪你的心情.  （仅限网络）.

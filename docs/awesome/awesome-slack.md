@@ -1,13 +1,14 @@
+<div class="github-widget" data-repo="filipelinhares/awesome-slack"></div>
 ![Awesome Slack](https://raw.githubusercontent.com/filipelinhares/awesome-slack/master/images/logo.jpg)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
 
-A list of communities about web development and design that are powered by [Slack](https://slack.com/).
+有关Web开发和设计的社区列表 [Slack](https://slack.com/).
 
 
 ## What's Slack?
-> Slack is a platform for team communication: everything in one place, instantly searchable, available wherever you go. *- slack.com*
+ &gt; Slack是一个团队沟通的平台：无论你走到哪里，一切都在一个地方，可以立即搜索到.  *  -  slack.com *
 
 ## Development
 - [Ember](https://ember-community-slackin.herokuapp.com/)
@@ -55,9 +56,9 @@ A list of communities about web development and design that are powered by [Slac
 - [Psychedelic Chat](http://psychedelicchat.com/)
 - [LGBTQ in Technology](http://lgbtq.technology/)
 - [#Startup](http://startup.chat)
-- [Safelight](http://safelight.herokuapp.com/) - Photography  
-- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
-- [First Contributors](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) - Help / mentroship for open source contributors
+- [Safelight](http://safelight.herokuapp.com/) - 摄影  
+- [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - 信息安全
+- [First Contributors](https://join.slack.com/t/firstcontributors/shared_invite/enQtMzE1MTYwNzI3ODQ0LTZiMDA2OGI2NTYyNjM1MTFiNTc4YTRhZTg4OWZjMzA0ZWZmY2UxYzVkMzI1ZmVmOWI4ODdkZWQwNTM2NDVmNjY) - 开源贡献者的帮助/ mentroship
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
@@ -69,7 +70,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute
-Your contributions and suggestions are :heart: welcome. Ensure to read the [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) first.
+ 您的贡献和建议是：heart：welcome.  确保阅读 [guidelines](https://github.com/filipelinhares/awesome-slack/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

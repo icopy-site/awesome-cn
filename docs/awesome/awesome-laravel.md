@@ -1,30 +1,11 @@
+<div class="github-widget" data-repo="chiraggude/awesome-laravel"></div>
 ## Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 &gt; Laravel生态系统中精选的书签，包，教程，视频和其他很酷的资源的精选列表.
 
 灵感来自 [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
-## Table of Contents
 
-- [Essentials](#essentials)
-- [Packages](#packages)
-- [Popular Packages](#popular-packages)
-- [Development Setup](#development-setup)
-- [Application Hosting](#application-hosting)
-- [Application Deployment](#application-deployment)
-- [Code Snippets](#code-snippets)
-- [Articles, Tutorials, Blogs, etc.](#articles-tutorials-blogs-etc)
-- [Videos](#videos)
-- [Conferences](#conferences)
-- [Books](#books)
-- [Starter Projects](#starter-projects)
-- [Codebases for Reference](#codebases-for-reference)
-- [Content Management Systems](#content-management-systems)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Jobs](#jobs)
-- [Hosted Development Tools](#hosted-development-tools)
-- [Miscellaneous](#miscellaneous)
 
 ## Essentials
 
@@ -79,7 +60,7 @@
 * [Bouncer](https://github.com/JosephSilber/bouncer) - 角色和权限
 * [Laratrust](https://github.com/santigarcor/laratrust) - 角色，权限和团队
 * [Entrust](https://github.com/Zizaco/entrust) - 基于角色的权限
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) -  API的JSON Web令牌认证
 * [Laravel Permission](https://github.com/spatie/laravel-permission) - 将用户与角色和权限相关联
 * [Defender](https://github.com/artesaos/defender) - 角色和权限
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) -  OAuth 2.0授权服务器和资源服务器
@@ -140,7 +121,6 @@
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - 查看作曲家的强大替代方案.
 * [Secure Headers](https://github.com/BePsvPT/secure-headers) - 向HTTP响应添加与安全性相关的标头
 * [Laravel Nova](https://nova.laravel.com/) -  Nova是Laravel设计精美的管理面板
-* [Laravel Love](https://github.com/cybercog/laravel-love)   - 它让人们表达他们对内容的感受.  对喜欢或不喜欢的雄辩模特做出反应.
 
 ##### Media & Document Management
 
@@ -169,7 +149,7 @@
 * [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - 嵌套集模式实现
 * [ClosureTable](https://github.com/franzose/ClosureTable) - 关闭表模式实现
 * [Eloquence](https://github.com/kirkbushell/eloquence) -  Eloquent型号的额外功能
-* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from an existing database table
+* [iSeed](https://github.com/orangehill/iseed) - 从现有数据库表生成新的种子文件
 * [Laravel OCI8](https://github.com/yajra/laravel-oci8) - 通过OCI8的Oracle DB驱动程序
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - 备份您的应用程序
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) -  Doctrine 2 ORM实施
@@ -361,7 +341,7 @@
 * [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) 泰勒奥特威尔
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) 克里斯托弗皮特和泰勒奥特威尔
-* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) 作者：Jeffrey Way
+* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
 * [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) 亚当沃坦
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) 作者：Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) 作者Chuck Heintzelman
@@ -437,9 +417,8 @@
 * [Voten](https://github.com/voten-co/voten) -  21世纪的实时社交书签
 * [Monica](https://github.com/monicahq/monica) - 个人关系管理系统
 * [Snipe-IT](https://github.com/snipe/snipe-it) -  IT资产/许可证管理系统
-* [Akaunting](https://github.com/akaunting/akaunting) - 面向小型企业和自由职业者的会计软件
+* [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
 
-## Content Management Systems
 
 * [OctoberCMS](https://github.com/octobercms/october)
 * [SleepingOwlAdmin](https://github.com/LaravelRUS/SleepingOwlAdmin)

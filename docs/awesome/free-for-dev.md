@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ripienaar/free-for-dev"></div>
 ## free-for-dev
 开发人员和开源作者现在拥有大量提供免费服务的服务，但为了做出明智的决策，很难找到所有这些服务.
 
@@ -12,44 +13,6 @@
 目录
 =================
 
-   * [Analytics, Events and Statistics](#analytics-events-and-statistics)
-   * [APIs, Data and ML](#apis-data-and-ml)
-   * [Artifact Repos](#artifact-repos)
-   * [Automated Browser Testing](#automated-browser-testing)
-   * [BaaS](#baas)
-   * [CDN and Protection](#cdn-and-protection)
-   * [CI / CD](#ci--cd)
-   * [Code Quality](#code-quality)
-   * [Code Search and Browsing](#code-search-and-browsing)
-   * [Crash and Exception Handling](#crash-and-exception-handling)
-   * [Data Visualization on Maps](#data-visualization-on-maps)
-   * [DBaaS](#dbaas)
-   * [Design and UI](#design-and-ui)
-   * [DNS](#dns)
-   * [Docker Related](#docker-related)
-   * [Email](#email)
-   * [IaaS](#iaas)
-   * [IDE and Code Editing](#ide-and-code-editing)
-   * [International Mobile Number Verification API and SDK](#international-mobile-number-verification-api-and-sdk)
-   * [Issue Tracking and Project Management](#issue-tracking-and-project-management)
-   * [Log Management](#log-management)
-   * [Management Systems](#management-system)
-   * [Miscellaneous](#miscellaneous)
-   * [Monitoring](#monitoring)
-   * [Other Free Resources](#other-free-resources)
-   * [PaaS](#paas)
-   * [Package Build System](#package-build-system)
-   * [Payment / Billing Integration](#payment--billing-integration)
-   * [Search](#search)
-   * [Security and PKI](#security-and-pki)
-   * [Source Code Repos](#source-code-repos)
-   * [Storage and Media Processing](#storage-and-media-processing)
-   * [STUN, WebRTC, Web Socket Servers and Other Routers](#stun-webrtc-web-socket-servers-and-other-routers)
-   * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
-   * [Translation Management](#translation-management)
-   * [Vagrant Related](#vagrant-related)
-   * [Visitor Session Recording](#visitor-session-recording)
-   * [Web Hosting](#web-hosting)
 
 ## Source Code Repos
 
@@ -400,6 +363,7 @@
   * [neocities.org](https://neocities.org) - 静态，1 GB免费存储，200 GB带宽.
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
   * [opeNode.io](https://www.openode.io/) - 开源项目的免费云托管.
+  * [kuber.host](https://kuber.host/) -  Kubernetes主持免费计划
 
 ## DNS
 

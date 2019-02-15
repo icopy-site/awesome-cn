@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="micromata/awesome-javascript-learning"></div>
 ## Awesome JavaScript Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 &gt;一个很棒的列表仅限于最好的JavaScript学习资源
@@ -6,21 +7,10 @@
 
 *请阅读 [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) 在贡献之前.*
 
-## Contents
 
 <!-- Run `npm run toc` to generate the TOC -->
 <!-- toc -->
 
-- [JavaScript References](#javascript-references)
-- [Articles & Tutorials](#articles--tutorials)
-- [Free eBooks](#free-ebooks)
-- [Books](#books)
-- [Blogs](#blogs)
-- [Videos](#videos)
-- [Interactive learning](#interactive-learning)
-- [ES6 and above](#es6-and-above)
-- [DOM related](#dom-related)
-- [Node.js](#nodejs)
 
 <!-- tocstop -->
 

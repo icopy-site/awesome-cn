@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
 ## <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
 
 
@@ -9,23 +10,6 @@
 [![Build Status](https://travis-ci.org/isRuslan/awesome-elm.svg?branch=master)](https://travis-ci.org/isRuslan/awesome-elm)
 
 
-## Table of Contents
-- [Awesome Elm](#awesome-elm)
-    - [Examples](#examples)
-    - [Learn](#learn)
-    - [Articles](#articles)
-    - [Videos](#videos)
-    - [Podcasts](#podcasts)
-    - [Languages](#languages)
-    - [Libraries](#libraries)
-    - [Tools](#tools)
-    - [Editor plugins](#editor-plugins)
-    - [Package managers](#package-managers)
-    - [Boilerplates](#boilerplates)
-    - [Misc](#misc)
-    - [Support](#support)
-    - [Who to follow](#who-to-follow)
-- [More awesome](#more-awesome)
 - <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献指南</a>
 
 
@@ -60,7 +44,6 @@
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - 纯SPA（带路线）探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - 使用官方Hacker-News API使用Elm版本0.18构建的渐进式Web应用程序
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Learn
@@ -81,7 +64,6 @@
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/)   - 语法和功能概述.  榆树页面上 [learnxinyminutes.com](https://learnxinyminutes.com)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - 语言功能的高概述.
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - 使用Maybe类型，使用经过良好评论的代码示例.
-* [Elm Topic on DailyDrip](http://dailydrip.com/topics/elm) - 关于榆树，视频和文字的每日继续教育，每天都有新的内容.
 * [Exercism Elm Track](http://exercism.io/languages/elm) - 收集榆树练习.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个Elm Web App.
@@ -91,13 +73,11 @@
 * [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - 使用Elm构建Web应用程序的两个教程.
 * [Elm FAQ](http://faq.elm-community.org/) - 榆树常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - 关于在Elm中构建应用程序从认证到调用API的教程.
-* [Ninety-nine Problems, Solved in Elm](https://johncrane.gitbooks.io/ninety-nine-elm-problems/content/) - 从九十九个哈斯克尔问题中对榆树的改编.
 * [Elm programming language](https://en.wikibooks.org/wiki/Elm_programming_language) - 简要概述榆树作为编程语言.
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - 初学者到Elm和Data的课程
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - 来自实用程序员的完整书籍，涵盖了基础知识和高级概念.
 * [The Hitchhiker's Guide to Elm](http://azer.bike/journal/elm/) - 初学者友好的指南，用于学习语言和使用它构建应用程序
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Articles
@@ -117,11 +97,9 @@
 * [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - 真实地看待榆树的位置，并不优于其他选择.
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - 瑞典创业公司对榆树发展的一些看法.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
-* [Elm from a Business Perspective](http://www.gizra.com/content/elm-business-perspective/) - 本文从业务角度讨论有关Elm的主题
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
 * [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Videos
@@ -143,7 +121,6 @@
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
 * [Richard Feldman: Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) - 谈论在Elm中建模数据结构的方式，使无效状态不可代表
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Podcasts
@@ -157,14 +134,13 @@
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - 榆树与Richard Feldman和Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - 榆树与Evan Czaplicki和Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - 榆树与Richard Feldman和Evan Czaplicki.
-* [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - 使用Elm，ClojureScript，Om和React进行功能编程.
+* [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - 榆树编程语言.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - 榆树再访.
 * [Elm Town](https://elmtown.github.io/) - 关于榆树社区居民的播客.
 * [Full Stack Radio 44](http://www.fullstackradio.com/44)   - 榆树到底是什么？  在这一集中，乔尔克莱蒙谈到了榆树和函数式编程.
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - 理查德费尔德曼讨论了榆树与React.js的比较
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Languages
@@ -190,7 +166,6 @@
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) -  Elm的综合Bootstrap 4库. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) -  Elm的声明可视化（[Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) 积分）
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Tools
@@ -214,7 +189,6 @@
 * [run-elm](https://github.com/jfairbank/run-elm) - 从命令行运行Elm代码
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Editor plugins
@@ -237,7 +211,6 @@
 * [Elmmet: Emmet for Elm (Visual Studio Code)](https://marketplace.visualstudio.com/items?itemName=necinc.elmmet) -  Emmetio缩写扩展器成为Elm函数的组合，内部有elm-format&#39;er.
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) -  VSCode插件将HTML转换为Elm
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Package managers
@@ -246,7 +219,6 @@
 
 * [elm-package](https://github.com/elm-lang/elm-package) - 用于共享Elm库的命令行工具.
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Boilerplates
@@ -263,7 +235,6 @@
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -  Elm webpack 4启动模板.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - 一个非常非常基本的elm + webpack 4模板.
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Misc
@@ -279,7 +250,6 @@
 * [Ellie](https://ellie-app.com/new) -  ** ** ** ** ** ** ** ** ** ditor
 * [Online REPL](http://elmrepl.cuberoot.in) -  ELM在线REPL
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Support
@@ -291,7 +261,6 @@
 * [IRC](http://webchat.freenode.net/?channels=elm) - 询问有关elm freenode的问题.
 * [Slack](http://elmlang.herokuapp.com/) - 榆树社区.
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## Who to follow
@@ -302,7 +271,6 @@
 --- | --- | --- | --- | ---
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Noah Hall](https://twitter.com/eeue56) | [Elm Weekly](https://twitter.com/elmweekly)
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## More awesome
@@ -315,7 +283,6 @@
 - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">太棒了</a> - <a href="https://github.com/bayandin/awesome-awesomeness" target="_blank">太棒</a>了 [**@bayandin**](https://github.com/bayandin)
 
 
-**[:arrow_up: back to top](#table-of-contents)**
 
 
 ## License

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mmcgrana/services-engineering"></div>
 ## Services Engineering Reading List
 
 服务工程阅读清单，重点关注云
@@ -11,7 +12,6 @@
 * [Making Reliable Distributed Systems in the Presence of Software Errors](http://www.erlang.org/download/armstrong_thesis_2003.pdf) （阿姆斯特朗）
 * [Highly Available Transactions: Virtues and Limitations](http://www.bailis.org/papers/hat-vldb2014.pdf) （Bailis等人）
 * [The Incident Command System](http://www.high-reliability.org/files/The_Incident_Command_System.pdf) （比格利和罗伯茨）
-* [The Chubby Lock Service for Loosely Coupled Distributed Systems](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/chubby-osdi06.pdf) （挖洞）
 * [Bigtable: a Distributed Storage System for Structured Data](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf) （Chang等人）
 * [Spanner: Google’s Globally-Distributed Database](http://research.google.com/archive/spanner-osdi2012.pdf) （Corbett等人）
 * [Dynamo: Amazon’s Highly Available Key-Value Store](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) （DeCandia等人）
@@ -24,11 +24,9 @@
 * [Automatic Management of Partitioned, Replicated Search Services](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.222.1862&rep=rep1&type=pdf) （Leibert等人）
 * [Learning to Embrace Failure](http://best.dtu.dk/SC13/p20-casestudy.pdf) （Limoncelli等人）
 * [Scaling Big Data Mining Infrastructure: The Twitter Experience](http://www.kdd.org/sites/default/files/issues/14-2-2012-12/V14-02-02-Lin.pdf) （林和瑞博）
-* [Dremel: Interactive Analysis of Web-Scale Datasets](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/36632.pdf) （Melnik等人）
 * [Out of the Tar Pit](http://shaffner.us/cs/papers/tarpit.pdf) （莫斯利和马克斯）
 * [The Log-Structured Merge-Tree](http://www.cs.umb.edu/~poneil/lsmtree.pdf) （奥尼尔等人）
 * [In Search of an Understandable Consensus Algorithm](https://ramcloud.stanford.edu/wiki/download/attachments/11370504/raft.pdf) （Ongaro和Ousterhout）
-* [Failure Trends in a Large Disk Drive Population](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/archive/disk_failures.pdf) （Pinheiro等人）
 * [Fallacies of Distributed Computing Explained](http://www.rgoarchitects.com/Files/fallacies.pdf) （Hriotem-Gal的-OSH）
 * [F1 - The Fault-Tolerant Distributed RDBMS Supporting Google’s Ad Business](http://research.google.com/pubs/archive/38125.pdf) （舒特等人）
 * [Dapper, A Large Scale Distributed Systems Tracing Infrastructure](http://research.google.com/pubs/archive/36356.pdf) （Sigelman等人）

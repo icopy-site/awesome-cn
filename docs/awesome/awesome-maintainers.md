@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="nayafia/awesome-maintainers"></div>
 ## Awesome Maintainers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 &gt;关于成为开源维护者的经历的会谈，博客文章和访谈
 

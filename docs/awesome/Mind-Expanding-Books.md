@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
 ## Mind Expanding Books
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -6,26 +7,6 @@
 
 &gt;精选扩展书籍的精选清单.
 
-## Table of Contents
-* [Startups and Business](#startups-and-business)
-* [Philosophy and Psychology](#philosophy-and-psychology)
-* [Autobiographies and Biographies](#autobiographies-and-biographies)
-* [History](#history)
-* [Evolution, Science and Medicine](#science-and-medicine)
-* [Logic and Problem Solving](#logic-and-problem-solving)
-* [Politics](#politics)
-* [Economics](#economics)
-* [Gender](#gender)
-* [Sexuality](#sexuality)
-* [Education](#education)
-* [Writing](#writing)
-* [Theater and Film](#theater-and-film)
-* [Fiction](#fiction)
-* [Health](#health)
-* [Design](#design)
-* [Travel](#travel)
-* [Language](#language)
-* [Nature](#nature)
 
 ## Books
 
@@ -88,7 +69,7 @@
 ## Philosophy And Psychology
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
- |  心灵上的纹身：无限同情的力量|  格雷戈里博伊尔| [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
+| Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
  |  教育与人生的意义  克里希那穆提| [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
  |  男人寻找意义|  Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
  |  用户幻觉：削减意识到大小|  Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
@@ -318,7 +299,7 @@
 |------|--------|------------------|----------------|  
  |  每晚不同：将戏剧放在舞台上并保持新鲜感  迈克阿尔弗雷德斯| [4.69](https://www.goodreads.com/book/show/3493241-different-every-night) | 2008 |  
  |  改善：即兴创作和剧院|  基思约翰斯通| [4.27](https://www.goodreads.com/book/show/306940.Impro) |  |  
- |  演员和目标|  Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
+| The Actor and the Target | Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
  |  眨眼之间：电影编辑的视角|  Walter Murch | [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
  |  导演笔记：导演主席的130个领导课程|  Frank Hauser，Russell Reich | [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
  |  如何停止代理|  哈罗德古斯金| [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
@@ -376,7 +357,7 @@
  |  Candide |  伏尔泰| [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
  |  包法利夫人|  Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
  |  忏悔|  Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
-| Lettres persanes | Montesquieu | [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
+ |  波斯语字母|  孟德斯鸠| [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
  |  主任|  大卫伊格内修斯| [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
 
 ### Fantasy
@@ -394,7 +375,7 @@
  |  最后的愿望 - 佐贺|  Andrzej Sapkowski [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
  |  纳尼亚传奇|  克莱夫斯台普斯刘易斯| [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
  |  城市与城市|  中国Mieville | [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
-| The Broken Empire | Mark Lawrence | [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
+ |  破碎的帝国|  马克劳伦斯| [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
 ### Historical Fiction
  |  名称|  作者|  Goodreads评分|  发布年份|  
@@ -431,7 +412,7 @@
  |  恩德的游戏 - 佐贺|  奥森斯科特卡| [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  
  |  游戏玩家|  Iain M. Banks | [4.26](https://www.goodreads.com/book/show/18630.The_Player_of_Games) | 1997 |  
  |  第五件神圣的事  Starhawk | [4.25](https://www.goodreads.com/book/show/80689.The_Fifth_Sacred_Thing) | 1994 |
-| Hyperion | Dan Simmons | [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
+ |  Hyperion |  丹西蒙斯| [4.21](https://www.goodreads.com/book/show/77566.Hyperion) | 1989 |  
  |  宇宙组学|  Italo Calvino | [4.2](https://www.goodreads.com/book/show/59780.Cosmicomics) | 1965 |
  |  钻石时代|  尼尔斯蒂芬森| [4.19](http://www.goodreads.com/book/show/827.The_Diamond_Age) | 2000 |  
  |  沙丘编年史|  弗兰克赫伯特| [4.19](https://www.goodreads.com/search?q=dune) | 2006 |  

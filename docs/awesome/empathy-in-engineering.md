@@ -1,16 +1,9 @@
+<div class="github-widget" data-repo="KimberlyMunoz/empathy-in-engineering"></div>
 ## Empathy in Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;用于建立和促进更富有同情心的工程文化的精选资源清单
 
-## Contents
 
-- [Words](#words)
-  - [Empathy for your users](#empathy-for-your-users)
-  - [Empathy for your peers](#empathy-for-your-peers)
-  - [Empathy in hiring](#empathy-in-hiring)
-- [JavaScript](#javascript)
-  - [Simulations](#simulations)
-  - [Bookmarklets](#bookmarklets)
 
 
 ## Words

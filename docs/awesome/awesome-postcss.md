@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jdrgomes/awesome-postcss"></div>
 <p align="center">
   <img src="https://rawgit.com/jdrgomes/awesome-postcss/master/media/awesome_postcss.svg" alt="Awesome PostCSS">
 </p>
@@ -9,9 +10,7 @@
 
  ** PostCSS **提供了一个css解析器和一个框架，用于创建可以分析，lint，处理资产，优化，创建回退以及以其他方式转换已解析的css的插件.  PostCSS将css解析为抽象语法树 [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)，传递它通过一系列插件，然后连接回一个字符串.
 
-### Table of Contents
 
-- [Awesome PostCSS](#awesome-postcss)
     - [Articles](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/articles.md)
     - [Community](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/community.md)
     - [Guides](https://github.com/jdrgomes/awesome-postcss/blob/master/topics/guides.md)

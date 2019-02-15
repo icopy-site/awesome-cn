@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="beaconinside/awesome-beacon"></div>
 ## Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的iBeacon和Eddystone蓝牙信标资源，开源项目，库，工具和教程的精选列表.  这个回购是的一部分 [Beacon Developer Hub](http://developers.beaconinside.com) 项目.

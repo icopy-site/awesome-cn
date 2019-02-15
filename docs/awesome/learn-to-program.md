@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="karlhorky/learn-to-program"></div>
 ## Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
@@ -57,7 +58,7 @@
 
 #### [Free Code Camp](https://www.freecodecamp.org/)
  **免费**学习编码并帮助公益组织.  一个开源社区的人，他们学习编码和帮助非营利组织.
-*（HTML，CSS，Javascript，数据库，Git和GitHub，Node.js，React.js，D3.js）*
+*(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费** SQL课程，互动练习和测验\
@@ -144,7 +145,7 @@
 *（各种各样的计算机科学主题，...）*
 
 #### Metacademy [Roadmaps](https://metacademy.org/roadmaps/), [Course Guides](https://metacademy.org/course_guides/)
-**Free** graphs of interconnected topics required to master concepts\
+**掌握概念所需的互联主题的免费**图表
 *（编程，机器学习）*
 
 #### [HackerRank](https://www.hackerrank.com/)

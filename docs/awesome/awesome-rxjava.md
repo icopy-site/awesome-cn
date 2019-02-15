@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="eleventigers/awesome-rxjava"></div>
 ## Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
@@ -12,7 +13,6 @@
 * [RxBinding](https://github.com/JakeWharton/RxBinding) - 来自平台和支持库的Android UI小部件的RxJava绑定API.
 * [rx-preferences](https://github.com/f2prateek/rx-preferences) - 针对Android的反应性“SharedPreferences”.
 * [RxPermissions](https://github.com/tbruyelle/RxPermissions) - 由RxJava支持的Android M运行时权限.
-* [SQLBrite](https://github.com/square/sqlbrite) - 围绕SQLiteOpenHelper和ContentResolver的轻量级包装器，它为查询引入了反应流语义.
 * [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) - 在精彩的RxJava Observable中包装Google Play Service API的小型库，将样板减少到最小.
 * [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) -  Android库监听网络连接状态和使用RxJava Observables改变WiFi信号强度.
 * [ReactiveSensors](https://github.com/pwittchen/ReactiveSensors) - 使用RxJava Observables监控硬件传感器的Android库.

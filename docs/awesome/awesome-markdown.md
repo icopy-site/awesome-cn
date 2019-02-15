@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="BubuAnabelas/awesome-markdown"></div>
 ## Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
@@ -24,27 +25,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 <!--lint disable alphabetize-lists-->
 
-## Contents
 
-- [CMS / Blogs](#cms--blogs)
-- [Libraries](#libraries)
-	- [C](#c)
-	- [Java](#java)
-	- [JavaScript](#javascript)
-	- [Perl](#perl)
-	- [PHP](#php)
-	- [Python](#python)
-	- [Ruby](#ruby)
-- [Tools](#tools)
-	- [Converters](#converters)
-	- [Editors](#editors)
-	- [Linters](#linters)
-	- [Miscellaneous](#miscellaneous)
-	- [Presentations](#presentations)
-- [Services](#services)
-- [Resources](#resources)
-	- [Documentation](#documentation)
-	- [Tutorials](#tutorials)
 
 ---
 

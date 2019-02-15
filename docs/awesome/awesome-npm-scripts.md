@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="RyanZim/awesome-npm-scripts"></div>
 ## Awesome npm scripts [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/RyanZim/awesome-npm-scripts/master/npm-logo.png" align="right" width="150">](https://www.npmjs.com)
@@ -8,25 +9,11 @@
 
  **注意：我目前忙于积极扩展此列表;  因此，我决定将其作为一个 [OPEN Open Source Project](http://openopensource.org) .  为获得重要和有价值贡献的个人提供项目承诺，以便他们认为合适.**
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Articles](#articles)
-- [Videos/Talks](#videostalks)
-- [Task Runners](#task-runners)
-- [File Watchers](#file-watchers)
-- [Dev Servers](#dev-servers)
-- [Cross-platform Utilities](#cross-platform-utilities)
-  - [Utility Packs](#utility-packs)
-- [Other Utilities](#other-utilities)
-- [Miscellaneous](#miscellaneous)
-- [Cross-platform Shell Reference](#cross-platform-shell-reference)
-- [`npm run` Reference](#npm-run-reference)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

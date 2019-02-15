@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="prakhar1989/awesome-courses"></div>
 ## Awesome CS Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -9,16 +10,6 @@ Introduction
 目录
 -----------------
 
-- [Algorithms](#algorithms)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Computer Graphics](#computer-graphics)
-- [CS Theory](#cs-theory)
-- [Introduction to CS](#introduction-to-cs)
-- [Machine Learning](#machine-learning)
-- [Misc](#misc)
-- [Programming Languages / Compilers](#programming-languages--compilers)
-- [Security](#security)
-- [Systems](#systems)
 
 ### Legend
 

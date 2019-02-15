@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="leereilly/games"></div>
 ## Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
 
 以下是可在GitHub上找到的开源游戏和游戏相关项目的列表 - 旧学校文本冒险，教育游戏，8位平台游戏，基于浏览器的游戏，独立游戏，GameJam项目，附加组件/地图/ hacks / plugins用于商业游戏，库，框架，引擎，你可以命名.
@@ -12,40 +13,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 -------
 
-## Table of Contents.
 
-- [Major Companies](#major-companies)
-- [Browser-Based](#user-content-browser-based)
-  - [Boardgame](#user-content-boardgame)
-  - [Arcade](#user-content-arcade)
-  - [FPS](#user-content-fps)
-  - [RPG](#user-content-rpg)
-  - [MMORPG](#user-content-mmorpg)
-  - [Strategy](#user-content-strategy)
-  - [Racing](#user-content-racing)
-  - [Sandbox](#user-content-sandbox)
-  - [Puzzle](#user-content-puzzle)
-  - [Clicker](#user-content-clicker)
-  - [Point and Click](#user-content-point-and-click)
-  - [Others](#user-content-others)
-- [Native](#user-content-native)
-  - [Action](#user-content-action-1)
-  - [Arcade](#user-content-arcade-1)
-  - [FPS](#user-content-fps-1)
-  - [MMORPG](#user-content-mmorpg-1)
-  - [RPG](#user-content-rpg-1)
-  - [Platform](#user-content-platform)
-  - [Puzzle/card/board](#user-content-puzzlecardboard)
-  - [Programming](#user-content-programming)
-  - [Sandbox](#user-content-sandbox-1)
-  - [Strategy](#user-content-strategy-1)
-- [Mobile Games](#user-content-mobile-games)
-  - [Android](#user-content-android)
-  - [IOS](#user-content-ios)
-- [Chat bots](#chat-bots)
-- [Just The Source](#user-content-just-the-source)
-- [Frameworks/Engines/Libraries](#user-content-frameworksengineslibraries)
-- [Maps/Hacks/Plugins/Utilities/All of the Things™](#user-content-mapshackspluginsutilitiesall-of-the-things)
 
 -------
 
@@ -112,7 +80,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [EKG Runner](https://github.com/Myztiq/ekgrunner) -  2013年Global Game Jam在48小时内完成游戏.
 * [Emberwind](https://github.com/operasoftware/Emberwind) - 独立平台游戏Emberwind的HTML5端口.
 * [ExecutiveMan](https://github.com/CamHenlin/ExecutiveMan) -  JavaScript MegaMan克隆.
-* [Flappy Bird](https://github.com/hyspace/flappy) -  html5中的飞扬鸟.
+* [Flappy Bird](https://github.com/hyspace/flappy) - flappy bird in html5.
 * [Fluid Table Tennis](https://github.com/anirudhjoshi/fluid_table_tennis) - 渲染乒乓球比赛，与60 FPS的全彩色实时流体模拟相互作用. [Play it now!](http://anirudhjoshi.github.com/fluid_table_tennis)
 * [FlxInvaders](https://github.com/AdamAtomic/Flx-Invaders) - 非常简单的Flixel游戏，灵感来自台东经典. [Play it now!](http://flixel.org/flxinvaders/)
 * [FlxTeroids](https://github.com/AdamAtomic/FlxTeroids) - 非常简单的Flixel游戏，灵感来自经典的街机射击游戏. [Play it now!](http://www.flixel.org/flxteroids/)
@@ -163,7 +131,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 ## RPG
 
 * [Diablo JS](https://github.com/mitallast/diablo-js) -  html5画布和javascript的等距最小代码风格游戏.  [Play it now!](http://mitallast.github.io/diablo-js/)
-* [Roguish](https://github.com/CamHenlin/Roguish) - 用JavaScript创建的RPG / Rogue游戏.
+* [Roguish](https://github.com/CamHenlin/Roguish) - RPG/Rogue-like game created in JavaScript.
 * [Room for Change](https://github.com/antionio/game-off-2013) - 随机生成的动作RPG.
 
 ## MMORPG
@@ -180,7 +148,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Racing
 
-* [HexGL](https://github.com/BKcore/HexGL) -  Thibaut Despoulain使用HTML5，Javascript和WebGL的未来HTML5赛车游戏. [Play it now!](http://hexgl.bkcore.com/)
+* [HexGL](https://github.com/BKcore/HexGL) - Futuristic HTML5 racing game by Thibaut Despoulain using HTML5, Javascript and WebGL. [Play it now!](http://hexgl.bkcore.com/)
 * [Trigger Rally Online Edition](https://github.com/CodeArtemis/TriggerRally) - 快速街机拉力赛.
 
 ## Sandbox
@@ -241,7 +209,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Point and Click
 
-* [The House](https://github.com/arturkot/the-house-game) – You're in a strange house. Can you find the way out? Is there any? [Play it now!](https://the-house.arturkot.pl/)
+* [The House](https://github.com/arturkot/the-house-game)   - 你在一个陌生的房子里.  你能找到出路吗？  有没有？ [Play it now!](https://the-house.arturkot.pl/)
 
 ## Others
 
@@ -275,7 +243,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Epic Inventor](https://github.com/BlkStormy/epic-inventor) - 独立，横向滚动，动作，RPG.
 * [Falling Time](https://github.com/cxong/FallingTime) - 受Fall Down启发的街机游戏.
 * [Kroniax](https://github.com/AlexAUT/Kroniax) - 侧面基于技能的游戏.
-* [Missile Command](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
+* [Missile Command](https://github.com/chadpaulson/missile-command) -  Lua中的导弹命令克隆与LÖVE.
 * [Mystic Mine](https://github.com/koonsolo/MysticMine) - 采矿车的单人和多人动作游戏.
 * [OpenLieroX](https://github.com/albertz/openlierox) -  Liero克隆，像实时蠕虫，或2D雷神之锤.
 * [OSGG](https://github.com/DusteDdk/Osgg) -  Oldskool重力游戏，非常困难的着陆器游戏在光荣的矢量图形.
@@ -299,7 +267,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Red Eclipse](https://github.com/red-eclipse) - 以跑酷为特色的免费休闲竞技场射击游戏.
 * [Smokin' Guns](https://github.com/smokin-guns/SmokinGuns) - 对“老西部”大气氛的半现实模拟.
 * [Turtle Arena](https://github.com/Turtle-Arena/turtle-arena-code) - 使用留兰香引擎的第三人称动作游戏.
-* [Unvanquished](https://github.com/Unvanquished/Unvanquished) - Fast-paced, futuristic FPS with RTS elements.
+* [Unvanquished](https://github.com/Unvanquished/Unvanquished) - 具有RTS元素的快节奏，未来派FPS.
 * [Warsow](https://github.com/Warsow) - 在未来的卡通世界中快节奏的FPS.
 
 
@@ -345,7 +313,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 
 ## Puzzle/card/board
 
-* [2048-cli](https://github.com/Tiehuis/2048-cli) - CLI version of the game 2048 for your Linux terminal.
+* [2048-cli](https://github.com/Tiehuis/2048-cli) - 适用于Linux终端的游戏2048的CLI版本.
 * [2048-in-terminal](https://github.com/alewmoose/2048-in-terminal) - 游戏2048的CLI版本正确.
 * [Castles of Dr. Creep](https://github.com/segrax/DrCreep) - 克里普博士的城堡
 * [Dominion](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
@@ -486,7 +454,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Atomic Engine](https://github.com/AtomicGameEngine/AtomicGameEngine) - 具有2D和3D渲染，符合标准的JavaScript，GitHub，Windows和Mac编辑器上的完整播放器和编辑器源，可从编辑器部署到Windows，Mac，WebGL，Android和iOS.
 * [Babylon.js](https://github.com/BabylonJS/Babylon.js) - 使用HTML 5和WebGL构建3D游戏的完整JavaScript框架.
 * [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - 跨平台渲染库.
-* [Chilli Works](https://github.com/ChilliWorks/ChilliSource) - 为独立开发者设计的开源，跨平台游戏引擎.
+* [Chilli Works](https://github.com/ChilliWorks/ChilliSource) - An open source, cross-platform game engine designed for indie developers.
 * [Chipmunk Physics](https://github.com/slembcke/Chipmunk-Physics) - 用C编写的简单，轻便，快速和便携的2D刚体物理库.
 * [ChoiceScript](https://github.com/dfabulich/choicescript) - 用于开发基于文本的多选互动小说的语言/引擎
 * [Cocos2d for Android](https://github.com/ZhouWeikuan/cocos2d) - 适用于Android的Cocos2d，基于cocos2d-android-0.82，现在从cocos2d-iphone 0.99.4移植.
@@ -540,7 +508,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Tesseract](https://github.com/lsalzman/tesseract) - 通过使用现代动态渲染技术使地图更有趣，您可以获得有关光照变化的即时反馈，而不仅仅是几何.
 * [three.js](https://github.com/mrdoob/three.js) - 许多浏览器游戏中使用的JavaScript 3D库.
 * [tiled](https://github.com/bjorn/tiled)   -  Tiled是一个通用的瓷砖地图编辑器.  它用于编辑任何基于图块的游戏的地图，无论是RPG，平台游戏还是突破克隆.
-* [Torque 2D](https://github.com/GarageGames/Torque2D) - 来自GarageGames的MIT授权版Torque 2D.
+* [Torque 2D](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 * [Torque 3D](https://github.com/GarageGames/Torque3D) - 来自GarageGames的MIT授权版Torque 3D.
 * [Turbulenz Engine](https://github.com/turbulenz/turbulenz_engine) - 用于构建和分发2D和3D游戏的JavaScript和TypeScript中提供的HTML5游戏引擎和服务器端API.
 * [Urho3D](https://github.com/urho3d/Urho3D)   -  Urho3D是一款免费的轻量级跨平台2D和3D游戏引擎，采用C ++实现，并在MIT许可下发布.  受到OGRE和Horde3D的极大启发.
@@ -554,7 +522,7 @@ Help: [MarkDown Help](https://help.github.com/articles/github-flavored-markdown)
 * [Bfxr](https://github.com/increpare/bfxr)   -  Flash + AIR音效发生器.  基于Sfxr.
 * [Brood War API](https://github.com/bwapi/bwapi) - 与实时战略（RTS）游戏Starcraft：Broodwar交互的C ++框架.
 * [FlxCollisions](https://github.com/gamebytes/FlxCollisions) -  flixel v2.0的简单2d物理+碰撞演示. [Play it now!](http://flixel.org/flxcollisions/)
-* [Gamertag](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
+* [Gamertag](https://github.com/barisbalic/gamertag) - 用于从各种来源检索Xbox Live Gamertag信息的Gem.
 * [Greenworks](https://github.com/greenheartgames/greenworks) - 一个node.js / nw.js插件，允许您将HTML5游戏与Steamworks集成.
 * [Halo::Reach::API](https://github.com/agoragames/halo-reach-api) - 用于与Halo交互的Ruby gem：Reach API.
 * [IodineGBA](https://github.com/taisel/IodineGBA) - 完全用JavaScript编写并由HTML5驱动的GameBoy Advance模拟器.

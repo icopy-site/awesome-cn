@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="AllThingsSmitty/jquery-tips-everyone-should-know"></div>
 ## jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一组简单的技巧，以帮助您的jQuery游戏.
@@ -5,38 +6,12 @@
 &gt;对于其他伟大的名单，请查看 [@sindresorhus](https://github.com/sindresorhus/)的精选清单 [awesome lists](https://github.com/sindresorhus/awesome/).
 
 
-## Table of Contents
 
-* [Tips](#tips)
-* [Support](#support)
-* [Translations](#translations)
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/CONTRIBUTING.md)
 
 
 ## Tips
 
-1. [Use `noConflict()`](#use-noconflict)
-1. [Checking If jQuery Loaded](#checking-if-jquery-loaded)
-1. [Use `.on()` Binding Instead of `.click()`](#use-on-binding-instead-of-click)
-1. [Back to Top Button](#back-to-top-button)
-1. [Preload Images](#preload-images)
-1. [Checking If Images Are Loaded](#checking-if-images-are-loaded)
-1. [Fix Broken Images Automatically](#fix-broken-images-automatically)
-1. [Post a Form with AJAX](#post-a-form-with-ajax)
-1. [Toggle Classes on Hover](#toggle-classes-on-hover)
-1. [Disabling Input Fields](#disabling-input-fields)
-1. [Stop the Loading of Links](#stop-the-loading-of-links)
-1. [Cache jQuery Selectors](#cache-jquery-selectors)
-1. [Toggle Fade/Slide](#toggle-fadeslide)
-1. [Simple Accordion](#simple-accordion)
-1. [Make Two Divs the Same Height](#make-two-divs-the-same-height)
-1. [Open External Links in New Tab/Window](#open-external-links-in-new-tabwindow)
-1. [Find Element By Text](#find-element-by-text)
-1. [Trigger on Visibility Change](#trigger-on-visibility-change)
-1. [AJAX Call Error Handling](#ajax-call-error-handling)
-1. [Chain Plugin Calls](#chain-plugin-calls)
-1. [Sort List Items Alphabetically](#sort-list-items-alphabetically)
-1. [Disable Right-Click](#disable-right-click)
 
 
 ### Use `noConflict()`

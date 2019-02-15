@@ -1,65 +1,35 @@
+<div class="github-widget" data-repo="cristianoliveira/awesome4girls"></div>
 ## awesome4girls [![Travis branch](https://img.shields.io/travis/rust-lang/rust/master.svg?style=flat-square&label=awesomeness)](https://travis-ci.org/cristianoliveira/awesome4girls) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 为科技领域的女性提供精彩的包容性活动/项目/倡议的精选清单.
 
 ----
 
-## Table of Contents
-* [Events/Meetups](#eventsmeetups)
-  * [Clojure](#clojure)
-  * [Go-lang](#go-lang)
-  * [Java](#java)
-  * [Javascript](#javascript)
-  * [PHP](#php)
-  * [Python](#python)
-  * [Ruby](#ruby)
-  * [UX](#ux)
-* [General](#general)
-* [Initiatives/Programs](#initiativesprograms)
-  * [Academy/Camp](#academycamp)
-  * [Chatrooms](#chatrooms)
-  * [Communities/Groups](#communitiesgroups)
-  * [Conferences/Talks](#conferencestalks)
-  * [Linux/OpenSource](#linuxopensource)
-  * [Mentorship](#mentorship)
-* [Organisation toolkits](#organisation-toolkits)
-* [Other Initiatives](#other-initiatives)
-  * [Awards](#awards)
-  * [Content](#content)
-  * [Documentaries/Movies](#documentariesmovies)
-  * [Jobs](#jobs)
-  * [Speakers](#speakers)
-* [Other Lists](#other-lists)
 
 ----
 
 ## Events/Meetups
-([Go to top](#awesome4girls---))
 
   本节包含聚会/事件的所有细节.
 
 ### Clojure
-([Go to top](#awesome4girls---))
 
   - [ClojureBridge](http://www.clojurebridge.org)
 
     ClojureBridge aims to increase diversity within the Clojure community by offering free, beginner-friendly Clojure programming workshops for women.
 
 ### Go-lang
-([Go to top](#awesome4girls---))
 
   - [Women Who Go](http://www.womenwhogo.org/)
 
     We are women in the #golang community (Twitter: https://twitter.com/womenwhogo).
 
 ### Java
-([Go to top](#awesome4girls---))
 
   - [JDuchess](http://www.jduchess.org/)
 
     Duchess is a global organization for women in Java technology, currently with members in over 60 countries. Duchess provides a platform through which women who work with Java can connect with each other and get more involved in the Java community.
 
 ### Javascript
-([Go to top](#awesome4girls---))
 
   - [Js-Girls](http://js-girls.org/)
 
@@ -78,7 +48,6 @@
      我们的目标是为学习编码的女性提供友好的环境，并由经验丰富的女性导师社区提供支持.  Node Girls免费运行1天Node.js研讨会.
 
 ### Python
-([Go to top](#awesome4girls---))
 
   - [Django Girls](https://djangogirls.org/)
 
@@ -89,14 +58,12 @@
     一个国际指导小组，专注于帮助更多女性成为Python开源社区的积极参与者和领导者.
 
 ### PHP
-([Go to top](#awesome4girls---))
 
   - [PHPWomen](https://phpwomen.org/)
 
     我们是一个包容性的全球用户组，在PHP社区中提供支持网络.
 
 ### Ruby
-([Go to top](#awesome4girls---))
 
   - [Rails Bridge](http://www.railsbridge.org/)
 
@@ -111,7 +78,6 @@
     让更多女性进入开源.
 
 ### UX
-([Go to top](#awesome4girls---))
 
   - [Ladies that UX](http://ladiesthatux.com/)
 
@@ -123,7 +89,6 @@
     第一个XX + UX活动于2013年10月在Google总部举行，与会者创建了代表他们自己或他们的UX之旅的“故事卡片”.
 
 ## General
-([Go to top](#awesome4girls---))
 
   - [Ada Lovelace Day](https://findingada.com/)
 
@@ -187,12 +152,10 @@
      Wonder Women Tech的使命是突出，庆祝和教育女性和STEM行业中代表性不足的人.  会议活动和研讨会汇集了变革者，先驱者，创新者，高级别发言人和与会者，为女性和代表性不足的人提供创意，讨论和解决方案，以取得成功和茁壮成长.
 
 ## Initiatives/Programs
-([Go to top](#awesome4girls---))
 
   旨在让女性为科技事业做好准备的举措.
 
 ### Academy/Camp
-([Go to top](#awesome4girls---))
 
   在其活动中拥有任何学院/夏令营的项目.
 
@@ -261,7 +224,6 @@
      我们是一个致力于减少 - 并且我们希望最终消除 - 技术职业中的性别差距的非营利组织.  我们举办研讨会和年度创业夏令营，旨在为中学女生提供各种技术的实践经验，使她们能够与在技术领域取得成功职业的女性互动.
 
 ### Linux/OpenSource
-([Go to top](#awesome4girls---))
 
   开源组织背后的项目.
 
@@ -286,7 +248,6 @@
      Ubuntu女性项目成立于2006年，旨在通过指导和灵感促进女性贡献者和社区参与.  Ubuntu女性团队有许多项目，我们试图在Ubuntu的所有领域提高女性的知名度，我们邀请您提供帮助.
 
 ### Conferences/Talks
-([Go to top](#awesome4girls---))
 
   带来主题的会议.
 
@@ -380,7 +341,6 @@
      Write / Speak / Code的使命是让女性软件开发人员成为思想领袖，会议发言人和开源贡献者.  他们在美国各地举办会议和活动.
 
 ### Communities/Groups
-([Go to top](#awesome4girls---))
 
   在线社区和群组.
 
@@ -401,7 +361,6 @@
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
 
 ### Chatrooms
-([Go to top](#awesome4girls---))
 
   在线聊天室，如松散的团队，gitter，IRC等.
 
@@ -414,7 +373,6 @@
     一个安全，保密的空间，适合从事技术工作的女性互相聊天和互相支持.
 
 ### Mentorship
-([Go to top](#awesome4girls---))
 
   有辅导机会的项目.
 
@@ -443,10 +401,8 @@
      这是第一个全女性黑客空间，这个空间位于伯克利，其目标是探索文化黑客/制造者，并在实践研讨会上了解创业，设计，DIY工艺.  这些讲习班可以针对每个性别的妈妈或孩子们.
 
 ## Other Initiatives
-([Go to top](#awesome4girls---))
 
 ### Awards
-([Go to top](#awesome4girls---))
 
   - [RedHat - Women in Open Source](https://www.redhat.com/en/about/women-in-open-source)
 
@@ -457,7 +413,6 @@
      Ada奖是数字领导学院的一项倡议，该学院是一家总部位于布鲁塞尔的国际非政府组织，其使命是弥合全球性别差距和数字鸿沟.  该奖项旨在表彰技术领域的杰出女孩和女性，以及在欧洲，非洲及其他地区支持她们的组织.
 
 ### Speakers
-([Go to top](#awesome4girls---))
 
   - [CallbackWomen](http://www.callbackwomen.com/)
 
@@ -468,8 +423,6 @@
     鉴于在巴西举办的活动（尤其是技术）上妇女人数仍然很少，因此制作了一份电子表格，以便让这些妇女了解情况并鼓励其他人开始.
     Mulheres Palestrantes是一个项目，保留了一份关于编程，设计，创业和技术相关主题的女性名单，这个项目的诞生源于试图以更直观的方式组织工作表的数据，促进访问，减少重复并促进研究.
 
-### Content
-([Go to top](#awesome4girls---))
 
   - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
@@ -504,7 +457,6 @@
      Womoz博客.  来自女性和Mozilla项目的计划更新和新闻.
 
 ### Documentaries/Movies
-([Go to top](#awesome4girls---))
 
   - [Code Girls](http://www.codegirlmovie.com/)
 
@@ -519,7 +471,6 @@
     纪录片（12分钟：TV-14 DL; 2013年4月1日发布）通过追随智能，创意和开拓性的优秀女孩走向极客的故事介绍了技术世界.
 
 ### Jobs
-([Go to top](#awesome4girls---))
 
   - [Lane by Women 2.0](https://lane.women2.com/)
 
@@ -546,7 +497,6 @@
      WomenHack是一个通过活动，工作和评论为女性提供技术支持的社区，旨在为所有人创造一个更具包容性和多样化的工作环境.  我们的多元化招聘活动针对的是当地社区中一些最有才华的技术女性.
 
 ### Organisation toolkits
-([Go to top](#awesome4girls---))
 
   如果您正在尝试组织自己的活动，这些资源可能会有所帮助.
 
@@ -555,7 +505,6 @@
      Ada Camp曾经是一个致力于提高女性参与开放技术和文化的热门会议，但它不再运行.  但是，他们已经以开源AdaCamp工具包的形式发布了他们所有的指南和资源，供那些想要组织自己的女权主义会议的人使用.
 
 ## Other Lists
-([Go to top](#awesome4girls---))
 
   - [awesome-diversity](https://github.com/folkswhocode/awesome-diversity)
 
@@ -568,6 +517,5 @@
 ----
 
 ## License   [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-([Go to top](#awesome4girls---))
 
 这项工作是根据a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)

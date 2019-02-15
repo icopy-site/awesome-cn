@@ -1,40 +1,16 @@
+<div class="github-widget" data-repo="fasouto/awesome-dataviz"></div>
 ## Awesome dataviz 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
- 精选数据可视化框架，库和软件的精选列表.  灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
+ 精选的**开源**数据可视化框架，库和软件的精选列表.  灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
 
 
-## Contents
-- [Awesome dataviz](#awesome-dataviz)
-	- [JavaScript tools](#javascript-tools)
-		- [Charting libraries](#charting-libraries)
-		- [Charting libraries for graphs](#charting-libraries-for-graphs)
-		- [Maps](#maps)
-		- [d3](#d3)
-		- [React](#react)
-		- [Misc](#misc)
-	- [Android tools](#android-tools)
-	- [C++ tools](#c-tools)
-	- [Excel tools](#excel-tools)
-	- [Golang tools](#golang-tools)
-	- [iOS tools](#ios-tools)
-	- [Python tools](#python-tools)
-	- [R tools](#r-tools)
-	- [Ruby tools](#ruby-tools)
-	- [Markup-based tools](#markup-based-tools)
-	- [Other tools](#other-tools)
-- [Resources](#resources)
-	- [Books](#books)
-	- [Podcasts](#podcasts)
-	- [Twitter accounts](#twitter-accounts)
- 	- [Websites](#websites)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## JavaScript tools
 
 ### Charting libraries
+- [ApexCharts](https://apexcharts.com/) - 现代和互动SVG图表.
 - [Chart.js](http://www.chartjs.org/) - 带有canvas标签的图表.
 - [Chartist.js](http://gionkunz.github.io/chartist-js/) - 具有出色浏览器兼容性的响应式图表.
 - [dc.js](https://github.com/dc-js/dc.js) 是一个多维图表，可以与crossfilter本地工作.
@@ -42,12 +18,11 @@
 - [Dygraphs](http://dygraphs.com/) - 适用于大型数据集的交互式折线图库.
 - [Echarts](https://github.com/ecomfe/echarts) - 高度可定制的交互式图表，可用于大型数据集. [React wrapper](https://github.com/hustcc/echarts-for-react)
 - [Epoch](https://github.com/epochjs/epoch) - 完美的创建实时图表.
-- [Highcharts](https://github.com/highcharts/highcharts) -  Highcharts使开发人员可以轻松地在其网页中设置交互式图表.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - 针对时间序列数据进行了优化.
 - [NVD3](https://github.com/novus/nvd3) - 用d3.js编写的可重用图表库.
 - [Plotly.js](https://github.com/plotly/plotly.js/) - 强大的声明性库，支持20种图表类型.
 - [TechanJS](http://techanjs.org/) - 股票和金融图表.
-- [ApexCharts](https://apexcharts.com/) - 现代和互动SVG图表.
+- [TOAST UI Chart](https://github.com/nhnent/tui.chart) - 支持旧版浏览器的完整库.
 
 ### Charting libraries for graphs
 - [Cola.js](http://marvl.infotech.monash.edu/webcola/)   - 使用基于约束的优化技术创建图表的工具.  适用于d3和svg.js.
@@ -58,6 +33,7 @@
 ### Maps
 - [CARTO](https://github.com/CartoDB/cartodb) -  CARTO是一个开源工具，允许在Web上存储和可视化地理空间数据.
 - [Cesium](https://github.com/AnalyticalGraphicsInc/cesium) -  WebGL 3D地球仪和地图.
+- [Deck.gl](http://deck.gl/) - 用于大型数据集的可视化探索性数据分析的WebGL框架.
 - [DataMaps](https://github.com/markmarkoh/datamaps) - 使用D3.js的交互式SVG地图.
 - [Leaflet](http://leafletjs.com) - 适用于移动设备的交互式地图的JavaScript库.
 - [Mapael](https://github.com/neveldo/jQuery-Mapael) - 基于raphael.js的jQuery插件，用于显示矢量地图.
@@ -67,11 +43,11 @@
 - 见 [Awesome D3](https://github.com/wbkd/awesome-d3)
 
 ### React
+- [BizCharts](https://github.com/alibaba/BizCharts) - 基于G2和React的阿里巴巴数据可视化库. [English docs](https://github.com/alibaba/BizCharts/tree/master/doc_en)
 - [React-vis](https://github.com/uber/react-vis) - 反应组件以构建数据可视化.
 - [Recharts](https://github.com/recharts/recharts) - 用于呈现D3图表的声明性反应组件.
 - [Victory](https://formidable.com/open-source/victory/) - 用于构建交互式数据可视化的可组合组件
 - [nivo](https://github.com/plouc/nivo) - 具有同构能力的React的增压dataviz组件， [demo](http://nivo.rocks).
-- [Number Picture](http://numberpicture.com/build) - 使用React和D3构建动画可视化的低级构建块.
 - [React Svg Textures](https://github.com/finnfiddle/react-svg-textures)   -  Textures.js移植到React.  完全同构.
 - [DevExtreme React Chart](https://devexpress.github.io/devextreme-reactive/react/chart/) - 用于Bootstrap和Material Design的基于插件的高性能React图表.
 
@@ -111,7 +87,7 @@
 - [diagram](https://github.com/tehmaze/diagram) - 使用UTF-8字符的文本模式图
 - [ggplot](https://github.com/yhat/ggpy) - 基于的绘图系统 [R's](#r-tools) GGPLOT2.
 - [glumpy](https://github.com/glumpy/glumpy) -  OpenGL科学可视化库.
-- [holoviews](http://holoviews.org/) - 来自注释数据的复杂和声明性可视化.
+- [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [mayai](http://docs.enthought.com/mayavi/mayavi/) -  Python中的交互式科学数据可视化和3D绘图.
 - [matplotlib](http://matplotlib.org/) -  2D绘图库.
 - [missingno](https://github.com/ResidentMario/missingno) - 提供灵活的数据可视化工具集，可以基于matplotlib快速直观地总结数据集的完整性.
@@ -140,13 +116,13 @@
 - [mermaidjs](https://mermaidjs.github.io/mermaid-live-editor) - 一种简单的降价式脚本语言，用于通过javascript从文本生成图表
 - [viz-js.com](http://viz-js.com/) - 放弃一个黑客 [Graphviz](http://www.graphviz.org/) 在网上
 - [wavedrom.com](http://wavedrom.com/) - 从简单的文本描述中绘制您的时序图或波形
-- [websequencediagrams.com](https://www.websequencediagrams.com/) - 使用简单标记的序列图
 
 ## Other tools
-Tools that are not tied to a particular platform or language.
+与特定平台或语言无关的工具.
 - [Charted](https://github.com/mikesall/charted) - 图表工具，可从任何数据文件生成自动，可共享的图表.
 - [Circos](http://circos.ca) - 以圆形布局显示数据，非常适合探索对象或位置之间的关系. [Mirror on github](https://github.com/node/circos).
 - [Gephi](https://github.com/gephi/gephi) - 用于可视化和操作大型图形的开源平台
+- [Kepler.gl](http://kepler.gl/) - 用于大规模数据集的地理空间分析工具.
 - [Lightning](http://lightning-viz.org/) - 数据可视化服务器，提供基于API的可访问，基于Web的交互式可视化.
 - [RAW](http://rawgraphs.io) - 从CSV或Excel文件创建Web可视化.
 - [Spark](https://github.com/holman/spark)   - 外壳的迷你图.  它有几个 [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).

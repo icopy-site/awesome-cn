@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="joaomilho/awesome-idris"></div>
 
 
 
@@ -9,14 +10,7 @@
 
  Idris是一种具有依赖类型的通用纯函数式编程语言.  依赖类型允许类型以值为基础，这意味着可以在类型中精确指定程序行为的某些方面.  它是通过热切的评估编译的.  它的功能受Haskell和ML的影响.
 
-## Contents
 
-- [Official resources](#official-resources)
-- [Articles](#articles)
-- [Books](#books)
-- [Papers](#papers)
-- [Presentations](#presentations)
-- [Projects](#projects)
 
 ### Official resources
 

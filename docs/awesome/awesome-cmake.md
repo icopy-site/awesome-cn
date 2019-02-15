@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="onqtam/awesome-cmake"></div>
 ## Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
@@ -6,16 +7,7 @@
 
 非常欢迎你的贡献（首先看看 [https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md](https://github.com/onqtam/awesome-cmake/blob/master/CONTRIBUTING.md)).
 
-## Contents
 
-- [Community](#community)
-- [Resources](#resources)
-- [Package Management / Build Systems](#package-management--build-systems)
-- [Modules](#modules)
-- [Utility Scripts](#utility-scripts)
-- [Toolchains](#toolchains)
-- [Examples / Templates](#examples--templates)
-- [Other](#other)
 
 ## Community
 
@@ -59,6 +51,7 @@
 * [Book](https://leanpub.com/effective-cmake) - 有效的CMake：写出更好的CMake的实用建议（尚未完全编写）.
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - 现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)   - 如何做好.  [```[CC0-1.0]```] [CC0-1.0]
+* [Lecture](https://www.youtube.com/watch?v=TsddSCzYiRs) - 更现代的CMake  -  Deniz Bahadir，Meeting C ++ 2018.
 
 ## Package Management / Build Systems
 

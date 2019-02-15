@@ -1,29 +1,9 @@
+<div class="github-widget" data-repo="kakoni/awesome-healthcare"></div>
 ## Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的开源医疗保健软件，库，工具和资源的精选列表.  每个环节都经过审查，以确保项目活跃，并为医疗机构，提供商，开发商，政策专家和/或研究科学家提供价值.
 
-## Contents
 
-- [EHR](#ehr)
-- [Specifications](#specifications)
-- [Prescribing](#prescribing)
-- [Nursing](#nursing)
-- [Imaging](#imaging)
-- [Dental](#dental)
-- [Laboratory](#laboratory)
-- [Libraries](#libraries)
-- [Frameworks](#frameworks)
-- [Applications](#applications)
-- [Personal Health Record](#phr)
-- [Integration](#integration)
-- [Research](#research)
-- [Hardware](#hardware)
-- [Bioinformatics](#bioinformatics)
-- [Data](#data)
-- [Datasets](#datasets)
-- [Enterprise Master Patient Index](#empi)
-- [Machine Learning](#machine-learning)
-- [Compliance](#compliance)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - 医院系统.

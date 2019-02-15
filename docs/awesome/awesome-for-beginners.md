@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="MunGell/awesome-for-beginners"></div>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一系列令人敬畏的初学者友好项目.
@@ -10,25 +11,7 @@
 
 如果您不是程序员，但想贡献，请查看 [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) 名单.
 
-## Table of Contents:
 
-- [.NET](#net)
-- [C](#c)
-- [C++](#c-1)
-- [Clojure](#clojure)
-- [ClojureScript](#clojurescript)
-- [Dart](#dart)
-- [Elixir](#elixir)
-- [Go](#go)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [Julia](#julia)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Rust](#rust)
-- [Scala](#scala)
-- [TypeScript](#typescript)
 
 ## .NET
 
@@ -109,7 +92,7 @@
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  令人敬畏的ESLint规则.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JS / HTML / CSS终端
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
-- [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
+- [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：Up-For-Grabs）_ <br>  一个轻量级JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wanted-easy）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Hoodie Camp是新的和现有的贡献者的空间.
 - [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
@@ -166,7 +149,7 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution)  _（标签：良好的第一贡献）_ <br>  具有交互式TLS功能的拦截HTTP代理，适用于渗透测试人员和软件开发人员
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  免费开放的现代快速电子邮件客户端，具有用户友好的加密和隐私功能
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee)  _（标签：难度/新人）_ <br>  一个统一的命令行界面，用于绘制和修复所有代码，无论您使用何种编程语言.
-- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新人）_ <br>  基于命令行界面的Linux个人助理.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  将Python代码转换为Java字节码的转换器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Python虚拟机的Javascript实现.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python bot，旨在尽可能简单地为人们提供日常任务http://m.me/JARVISon.Messenger

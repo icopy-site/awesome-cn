@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="aleksandar-todorovic/awesome-linux"></div>
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">Linux的</h1>
 
 <p align="center">我们都知道Linux很棒，但这里列出了与Linux生态系统相关的特别棒的东西. </p>
@@ -10,49 +11,7 @@
 
 ---
 
-## Table of Content
 
-* [Distributions](#distributions)
-  * [Beginners](#beginners)
-    * [elementary OS](#elementary-os)
-    * [Fedora](#fedora)
-    * [Linux Mint](#linux-mint)
-    * [Ubuntu](#ubuntu)
-  * [Intermediate](#intermediate)
-    * [CentOS](#centos)
-    * [Debian GNU/Linux](#debian-gnulinux)
-    * [Mageia](#mageia)
-    * [Manjaro](#manjaro)
-    * [openSUSE](#opensuse)
-  * [Advanced](#advanced)
-    * [Arch Linux](#arch-linux)
-  * [Special Purpose](#special-purpose)
-    * [CoreOS](#coreos)
-    * [Kali Linux](#kali-linux)
-    * [Puppy Linux](#puppy-linux)
-    * [Ubuntu Studio](#ubuntu-studio)
-    * [Tails](#tails)
-* [Learning Resources](#learning-resources)
-  * [Books](#books)
-  * [Courses](#courses)
-* [X Desktop Environments](#x-desktop-environments)
-  * [GNOME](#gnome)
-  * [KDE](#kde)
-  * [Xfce](#xfce)
-  * [LXDE](#lxde)
-  * [Other Desktop Environments](#other-desktop-environments)
-* [X Windows Managers](#x-windows-managers)
-* [Applications](#applications)
-  * [GUI-based Applications](#gui-based-applications)
-    * [GNOME-based](#gnome-based)
-    * [Pantheon-based](#pantheon-based)
-    * [KDE-based](#kde-based)
-    * [Not based on any desktop environment](#not-based-on-any-desktop-environment)
-    * [Third-party clients for online services](#third-party-clients-for-online-services)
-    * [Package management and creation tools](#distro-based-package-management-tools)
-  * [Console-based Applications and Tools](#console-based-applications-and-tools)
-* [Useful Websites](#useful-websites)
-* [License](#license)
 
 ## Distributions
 

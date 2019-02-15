@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="numetriclabz/awesome-db"></div>
 太棒了 -  db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =========
 精选的精彩数据库库，资源和闪亮的东西 [Numetric Technologies](https://www.numetriclabz.com/)

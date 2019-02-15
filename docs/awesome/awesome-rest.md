@@ -1,33 +1,8 @@
+<div class="github-widget" data-repo="marmelab/awesome-rest"></div>
 ## Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  关于RESTful API架构，开发，测试和性能的重要资源的协作列表.  随意为这个正在进行的列表做出贡献.
 
-* [Design](#design)
-* [Standards](#standards)
-* [Clients](#clients)
-  * [PHP](#php-clients)
-  * [Client-side JavaScript](#javascript-clients)
-  * [Node.js](#nodejs-clients)
-  * [Ruby](#ruby-clients)
-  * [Go](#go-clients)
-* [Servers](#servers)
-  * [Directly On Top Of A RMDB](#directly-on-top-of-a-rmdb)
-  * [Node.js](#nodejs)
-  * [PHP](#php)
-  * [Symfony2](#symfony2)
-  * [Python](#python)
-  * [Ruby](#ruby)
-  * [Go](#go)
-  * [Java](#java)
-  * [Haskell](#haskell)
-* [Testing](#testing)
-  * [Querying](#querying)
-  * [Mocking](#mocking)
-  * [Public REST APIs To Use In Tests](#public-rest-apis-to-use-in-tests)
-* [Documentation](#documentation)
-* [API Gateway](#api-gateway)
-* [SaaS Tools](#saas-tools)
-* [Miscellaneous](#miscellaneous)
 
 
 
@@ -49,7 +24,7 @@
 ## Standards
 
 * [JSON API](http://jsonapi.org/) - 用于在JSON中构建API的标准.
-* [RAML](http://raml.org/) - Simple and succinct way to describe RESTful API.
+* [RAML](http://raml.org/) - 简单而简洁的方式来描述RESTful API.
 * [JSend](http://labs.omniti.com/labs/jsend) - 简单的规范，规定了如何格式化来自Web服务器的JSON响应的一些规则.
 * [OData](http://www.odata.org/)   - 开放协议，允许创建和使用可查询和可互操作的RESTful API.  相当复杂.
 * [HAL](http://stateless.co/hal_specification.html) - 简单的格式，为您的API中的资源之间的超链接提供一致且简单的方法（请参阅： [HATEOAS](#hateoas)).
@@ -115,7 +90,6 @@
 ### PHP
 
 * [Microrest](https://github.com/marmelab/microrest.php) - 在任何关系数据库之上提供REST API的Micro-web应用程序.
-* [Negotiation](https://github.com/willdurand/Negotiation) - 内容协商库.
 * [Drest](https://github.com/leedavis81/drest) - 用于将Doctrine实体公开为REST资源端点的库.
 * [Restler](https://github.com/Luracast/Restler) - 轻量级框架，将PHP方法公开为RESTful Web API.
 * [HAL](https://github.com/blongden/hal) - 超文本应用程序语言（HAL）构建器库.
@@ -145,7 +119,7 @@
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) -  Flask扩展，用于为使用SQLAlchemy（或Flask-SQLAlchemy）定义的数据库模型生成ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量且快速的API框架.
 * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
-* [restless](http://restless.readthedocs.org/en/latest/) - 基于从TastyPie学到的经验教训的框架无关REST框架.
+* [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) -  REST API构建库（django等）.
 * [Python Eve](http://python-eve.org/)   -  Eve是一个专为人类设计的开源Python REST API框架.  它允许毫不费力地构建和部署高度可定制的，功能齐全的RESTful Web服务.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从它们生成生产就绪API，使RAML文件可执行.

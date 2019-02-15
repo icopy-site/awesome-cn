@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="phillipadsmith/awesome-github"></div>
 ## Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
 
 
@@ -7,18 +8,14 @@
 
 令人敬畏的目前只有几个不同的桶： 
 
-* [Infomation for people who are new to GitHub](#infomation-for-people-who-are-new-to-github)
-* [Resources for those already familiar with GitHub](#resources-for-those-already-familiar-with-github)
-* [Tips, tricks, tools, and add-ons for GitHub power users](#tips-tricks-tools-and-add-ons-for-github-power-users)
-* [Novel uses of GitHub](#novel-uses-of-github)
 
-What is the [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是一系列让** GitHub **成为世界上最令人惊叹的共同创作平台的东西.
+是什么 [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是一系列让** GitHub **成为世界上最令人惊叹的共同创作平台的东西.
 
 它特别关注_GitHub_，而不是关注 [Git](https://git-scm.com/) .  Git确实很棒.  没有Git就没有GitHub.  然而，GitHub已不仅仅是人类大部分开源代码的家园;  它已成为世界上大众合作力量最生动的例子之一.
 
 这就是说，这个清单 -  [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) - 试图记录那些令人敬畏的方面：GitHub已经成为的一切 - 远远超出了今天的Git，以及GitHub八年前开始的地方.
 
-这个清单的灵感来自于 [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) 为了 [2015 Mozilla Festival](https://2015.mozillafestival.org/) .  我后来偶然了解到Mozilla Festival本身正在使用 [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program)   - 审核提案，为曲目和主题分配会话等等.  还有一个例子，说明如何使用GitHub来制作精彩内容.
+The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) 为了 [2015 Mozilla Festival](https://2015.mozillafestival.org/) .  我后来偶然了解到Mozilla Festival本身正在使用 [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program)   - 审核提案，为曲目和主题分配会话等等.  还有一个例子，说明如何使用GitHub来制作精彩内容.
 
 ------
 

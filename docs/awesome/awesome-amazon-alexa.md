@@ -1,30 +1,8 @@
-## Awesome Amazon Alexa [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://user-images.githubusercontent.com/168240/39513123-178f98f4-4da8-11e8-8831-3a90ec5768c6.png" width="100" align="right" alt="Amazon Alexa">](https://developer.amazon.com/alexa)
+<div class="github-widget" data-repo="miguelmota/awesome-amazon-alexa"></div>
 
 &gt;策划的精彩资源列表 [Amazon Alexa](https://developer.amazon.com/alexa) 平台.
 
-## Contents
 
-- [SDKs/Tools](#sdkstools)
-- [NPM Modules](#npm-modules)
-- [Skills](#skills)
-- [Boilerplates](#boilerplates)
-- [Prototyping](#prototyping)
-- [Analytics](#analytics)
-- [Utilities](#utilities)
-- [Monitoring](#monitoring)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
-- [Courses](#videos)
-- [Communities](#communities)
-- [Influencers](#influencers)
-- [Easter Eggs](#easter-eggs)
-- [Fundraising](#fundraising)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## SDKs/Tools
 
@@ -41,7 +19,7 @@
 - [ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit) - 用于开发Amazon Echo ASK技能的极简主义SDK.
 - [alexa-skill-kit](https://github.com/stojanovic/alexa-skill-kit) - 借助AWS Lambda轻松实现Alexa Skill开发的库.
 - [alexa-home](https://github.com/zachfeldman/alexa-home) - 使用Amazon Echo控制家庭！
-- [go-alexa](https://github.com/mikeflynn/go-alexa) - 用于Go开发的Amazon Echo / Alexa工具集合.
+- [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
 - [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - 用于抽象访问Android应用程序的Amazon Alexa服务的库和示例应用程序.
 - [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - 采用Arduino D1 Mini制作的Amazon Alexa + WeMos切换器.
 - [MacLexa](https://github.com/kunal732/MacLexa) - 将亚马逊的Alexa放入Mac系统托盘，使用Alexa语音服务并使用Swift构建.
@@ -226,7 +204,7 @@
 - [How to Publish Your Alexa Skill to all the English-speaking Regions](https://www.youtube.com/watch?v=_Ph6K_-1_mw) - 发布您的Alexa技能.
 - [Dabble Lab](https://www.youtube.com/channel/UCfY-LopSxGekh9LruXLjffg/videos) - 关于为亚马逊Alexa和相关主题构建自定义技能的每周视频.
 - [Building Voice Apps Using Amazon Alexa](https://www.udemy.com/building-voice-apps-using-amazon-alexa/?siteID=Fh5UMknfYAU-NFsHPO_AesnmvLmMUzZEqw&LSNPUBID=Fh5UMknfYAU) - 为Echo和其他支持Alexa的设备构建流畅的语音激活应用程序.
-- [Build for Echo Show](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - Learn to develop multimodal skills for Echo Show.
+- [Build for Echo Show](https://www.youtube.com/playlist?list=PL4iXGvrBx4ZMPOMDYsbHwjZdaByEL2W2y) - 学习为Echo Show开发多模态技能.
 
 ## Courses
 

@@ -1,26 +1,7 @@
+<div class="github-widget" data-repo="expede/awesome-relay"></div>
 ## Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 令人敬畏的资源 [Relay](https://github.com/facebook/relay)，基于 [Awesome](https://github.com/sindresorhus/awesome/) 项目
 
-## Table of Contents
-- [Learning Resources](#learning-resources)
-  - [Documentation](#documentation)
-  - [FAQs](#faqs)
-  - [Tutorials](#tutorials)
-  - [Overviews](#overviews)
-  - [Example Implementations](#example-implementations)
-  - [Lists of Lists](#lists-of-lists)
-- [Ecosystem](#ecosystem)
-  - [Libraries & Packages](#libraries--packages)
-  - [Tooling](#tooling)
-  - [Starter Kits](#starter-kits)
-- [Relay-Specific Server Support](#relay-specific-server-support)
-  - [Go](#go)
-  - [JavaScript](#javascript)
-  - [Python](#python)
-  - [Ruby](#ruby)
-    - [Rails](#rails)
-  - [Scala](#scala)
-- [Testing](#testing)
 
 ## Learning Resources
 ## Documentation

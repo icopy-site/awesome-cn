@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ujjwalkarn/Machine-Learning-Tutorials"></div>
 ## Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   - 此存储库包含主题明确的机器学习和深度学习教程列表，文章和其他资源.  其他很棒的列表可以在这里找到 [list](https://github.com/sindresorhus/awesome).
@@ -9,7 +10,6 @@
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning](https://github.com/ujjwalkarn/DataSciencePython).
 
 
-## Contents
 - [Introduction](#general)
 - [Interview Resources](#interview)
 - [Artificial Intelligence](#ai)

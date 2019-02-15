@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="feross/awesome-mad-science"></div>
 ## Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  令人愉快的npm套餐让你说“哇，不知道那是可能的！”  PR欢迎！

@@ -1,32 +1,8 @@
+<div class="github-widget" data-repo="youngwookim/awesome-hadoop"></div>
 ## Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的Hadoop和Hadoop生态系统资源列表.  灵感来自 [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
 
-- [Awesome Hadoop](#awesome-hadoop)
-	- [Hadoop](#hadoop)
-	- [YARN](#yarn)
-	- [NoSQL](#nosql)
-	- [SQL on Hadoop](#sql-on-hadoop)
-	- [Data Management](#data-management)
-	- [Workflow, Lifecycle and Governance](#workflow-lifecycle-and-governance)
-	- [Data Ingestion and Integration](#data-ingestion-and-integration)
-	- [DSL](#dsl)
-	- [Libraries and Tools](#libraries-and-tools)
-	- [Realtime Data Processing](#realtime-data-processing)
-	- [Distributed Computing and Programming](#distributed-computing-and-programming)
-	- [Packaging, Provisioning and Monitoring](#packaging-provisioning-and-monitoring)
-	- [Monitoring](#monitoring)
-	- [Search](#search)
-	- [Security](#security)
-	- [Benchmark](#benchmark)
-	- [Machine learning and Big Data analytics](#machine-learning-and-big-data-analytics)
-	- [Misc.](#misc)
-- [Resources](#resources)
-	- [Websites](#websites)
-	- [Presentations](#presentations)
-	- [Books](#books)
-	- [Hadoop and Big Data Events](#hadoop-and-big-data-events)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## Hadoop
 
@@ -125,7 +101,6 @@
 * [Elephant Bird](https://github.com/twitter/elephant-bird) -  Twitter收集的LZO和Protocol Buffer相关的Hadoop，Pig，Hive和HBase代码.
 * [Spring for Apache Hadoop](http://projects.spring.io/spring-hadoop/)
 * [hdfs - A native go client for HDFS](https://github.com/colinmarc/hdfs)
-* [Oozie Eclipse Plugin](https://marketplace.eclipse.org/content/oozie-eclipse-plugin) - 用于在Eclipse中编辑Apache Oozie工作流的图形编辑器.
 * [snakebite](https://pypi.python.org/pypi/snakebite/) - 一个纯python HDFS客户端
 * [Apache Parquet](https://parquet.apache.org/) -  Apache Parquet是一种柱状存储格式，可用于Hadoop生态系统中的任何项目，无论选择何种数据处理框架，数据模型或编程语言.
 * [Apache Superset (incubating)](https://superset.incubator.apache.org/) -  Apache Superset（孵化）是一个现代化的企业级商业智能Web应用程序

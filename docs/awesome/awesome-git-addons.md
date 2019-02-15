@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="stevemao/awesome-git-addons"></div>
 ## Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 扩展/增强git CLI的附加组件的精选列表.
@@ -14,50 +15,7 @@ $ git bla
  **注意**：某些命令可能无法开箱即用.  您可能需要运行安装后脚本来添加别名或手动添加它们.
 
 
-## Table of Contents
 
-- [Git Extras](#git-extras)
-- [Git Flow](#gitflow-avh-edition)
-- [Git Up](#git-up)
-- [Hub](#hub)
-- [Git Deploy](#git-deploy)
-- [Git Cal](#git-cal)
-- [Git Hooks](#git-hooks)
-- [Git Imerge](#git-imerge)
-- [Git Issue](#git-issue)
-- [Git Large File Storage](#git-lfs)
-- [Git Now](#git-now)
-- [Git Plus](#git-plus)
-- [Git Test](#git-test)
-- [Legit](#legit)
-- [Git When Merged](#git-when-merged)
-- [Git Playback](#git-playback)
-- [Git Branch Status](#git-branch-status)
-- [Git Open](#git-open)
-- [Git My](#git-my)
-- [Git Ink](#git-ink)
-- [Recursive Blame](#recursive-blame)
-- [Git Fire](#git-fire)
-- [Git Town](#git-town)
-- [Git blame-someone-else](#git-blame-someone-else)
-- [Diff So Fancy](#diff-so-fancy)
-- [Git Stats](#git-stats)
-- [Git Secret](#git-secret)
-- [Git Secrets](#git-secrets)
-- [git-fixup](#git-fixup)
-- [git-recent](#git-recent)
-- [git-interactive-rebase-tool](#git-interactive-rebase-tool)
-- [git-fiddle](#git-fiddle)
-- [git-user](#git-user)
-- [gitsome](#gitsome)
-- [Git Hound](#git-hound)
-- [git-recall](#git-recall)
-- [git-standup](#git-standup)
-- [Commitizen](#commitizen)
-- [git-fresh](#git-fresh)
-- [git-fs](#git-fs)
-- [Git Url](#git-url)
-- [Git Signatures](#git-signatures)
 
 
 ## [git-extras](https://github.com/tj/git-extras)
@@ -196,7 +154,7 @@ $ git delete-tag v0.1.1
 $ git delete-merged-branches
 删除的功能/主题（是c029ab3）.
 删除功能/ live_preview（是a81b002）.
-已删除的功能/仪表板（为923befa）.
+Deleted feature/dashboard (was 923befa).
 ```
 
 ### fresh-branch
@@ -383,7 +341,7 @@ $ git touch index.js
 ```
 $ git obliterate secrets.json
 重写2357a4334051a6d1733037406ab7538255030d0b（1/981）rm&#39;secrets.json&#39;
-Rewrite b5f62b2746c23150917d346bd0c50c467f01eb03 (2/981)rm 'secrets.json'
+重写b5f62b2746c23150917d346bd0c50c467f01eb03（2/981）rm&#39;secrets.json&#39;
 重写3cd94f3395c2701848f6ff626a0a4f883d8a8433（3/981）rm&#39;secrets.json&#39;
 ```
 
@@ -802,7 +760,7 @@ $ git imerge merge 4.0
 
 ```
 $ git imerge rebase 4.0
-The following commits on the to-be-merged branch are merge commits:
+要合并的分支的以下提交是合并提交：
     8e4931ae15971a14897cf347ac50b7d7fe125ac4
     d7c772142ce663a20210db73d9ad17cc8d59e0d6
     856df83c77b33029d2ddfb8eecd08efedeadc027
@@ -1070,7 +1028,7 @@ $ git issue show -c e6a95c9
 ### Pull in remote changes (on the original host)
 
 ```
-$ git issue pull
+$ git问题拉
 remote：计数对象：7，完成.
 remote：压缩对象：100％（6/6），完成.
 remote：总计7（delta 0），重用7（delta 0），pack-reused 0
@@ -1108,7 +1066,7 @@ $ git问题[Tab]
 ```
 $ git issue show [Tab]
 7dfa5b7  - 从编辑器输入的问题
-e6a95c9  - 从命令行输入新问题
+e6a95c9 - New issue entered from the command line
 ```
 
 
@@ -1417,7 +1375,7 @@ $ git墨水
 •移除 - 驱除....................................... 2015-10-21
     - 需要干预驱除功能
     -  uglified时无法正确映射
-    - 需要撤消postCSS映射更改
+    - Need to undo postCSS mapping changes
 •rm-convert_dates-order ................................ 2015-10-22
 •sass-lint ............................................. 2015 -10-14
     - 模块不起作用
@@ -1719,7 +1677,7 @@ cz-cli@2.9.6, cz-conventional-changelog@1.2.0
 
  第1行将被裁剪为100个字符.  所有其他行将在100个字符后换行.
 
-? Select the type of change that you're committing: (Use arrow keys)
+ ？  选择您要提交的更改类型:(使用箭头键）
 ❯壮举：一项新功能
   修复：错误修复
   docs：文档只会更改

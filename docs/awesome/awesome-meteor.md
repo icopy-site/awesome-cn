@@ -1,46 +1,10 @@
+<div class="github-widget" data-repo="Urigo/awesome-meteor"></div>
 ## Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Meteor包，库和软件的精选列表.
 
 可以找到官方的Meteor资源页面 [here](https://www.meteor.com/tools/resources)
 
-- [Awesome Meteor](#awesome-meteor)
-    - [Getting Started](#getting-started)
-    - [Collections](#collections)
-    - [Forms and Templates](#forms-and-templates)
-    - [Users and Authentication](#users-and-authentication)
-    - [REST](#rest)
-    - [Files](#files)
-    - [Routers](#routers)
-    - [Debugging Tools](#debugging-tools)
-    - [Editor Plugins](#editor-plugins)
-    - [Search, sort and paginate](#search-sort-paginate)
-    - [Mobile](#mobile)
-    - [Offline](#offline)
-    - [Testing](#testing)
-    - [SEO](#seo)
-    - [Data Visualization](#data-visualization)
-    - [Analytics](#analytics)
-    - [Cron Jobs](#cron-jobs)
-    - [Payments](#payments)
-    - [Deployment](#deployment)
-    - [Front End Frameworks](#front-end-frameworks)
-    - [Alternative Databases](#alternative-databases)
-    - [Package managers](#package-managers)
-    - [Internationalization](#internationalization)
-    - [Scaffolding](#scaffolding)
-    - [Tooling](#tooling)
-- [Boilerplate](#boilerplate)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Courses](#courses)
-    - [Tutorials](#tutorials)
-    - [Blogs](#blogs)
-    - [Websites](#websites)
-    - [Weekly](#weekly)
-    - [Twitter](#twitter)
-    - [Job Boards](#job-boards)
-- [Contributing](#contributing)
 
 - - -
 

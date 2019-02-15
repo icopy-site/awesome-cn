@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hachiojipm/awesome-perl"></div>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的Perl5框架，库和软件的精选列表.  灵感来自 [awesome-go](https://github.com/avelino/awesome-go).
@@ -13,55 +14,7 @@
 * [Slaven's CPAN in a nutshell](https://github.com/eserte/srezic-misc/blob/master/cpan_in_a_nutshell/cpan_in_a_nutshell.pod)
  *许多Task :: **模块.  （例如Task :: Plack，Task :: BeLike :: <AuthorName>  ...）
 
-### Contents
 
-- [Awesome Perl](#awesome-perl)
-    - [Args](#args)
-    - [Audio](#audio)
-    - [Benchmarks](#benchmarks)
-    - [Caches](#caches)
-    - [Class Builder](#class-builder)
-    - [CLI](#cli)
-    - [Cloud](#cloud)
-    - [Commercial WebServices](#commercial-webservices)
-    - [Container](#container)
-    - [Data Format](#data-format)
-    - [Database](#database)
-    - [Database Drivers](#database-drivers)
-        - [Relational Databases](#relational-databases)
-        - [NoSQL Databases](#nosql-databases)
-    - [Date & Time](#date--time)
-    - [Devices](#devices)
-    - [DevOps](#devops-tools)
-    - [Email](#email)
-    - [Event Loops](#event-loops)
-    - [Exception Handling](#exception-handling)
-    - [File Manipulation](#file-manipulation)
-    - [Form Frameworks](#form-frameworks)
-    - [Images](#images)
-    - [List Manipulation](#list-manipulation)
-    - [Logging](#logging)
-    - [Module Development](#module-development)
-    - [Network](#network)
-    - [ORM](#orm)
-    - [Package Management](#package-management)
-    - [Processes and Threads](#processes-and-threads)
-    - [Profiling](#profiling)
-    - [Protocol](#protocol)
-    - [Queueing](#queueing)
-    - [REST Frameworks](#rest-frameworks)
-    - [Science/Numerics](#sciencenumerics)
-    - [Template Engines](#template-engines)
-    - [Testing](#testing)
-        - [Testing Frameworks](#testing-frameworks)
-        - [Test Double](#test-double)
-        - [Coverage](#coverage)
-    - [Tools](#tools)
-    - [Video](#video)
-    - [Web Frameworks](#web-frameworks)
-        - [Middlewares](#middlewares)
-    - [Web Frameworks-Like](#web-frameworks-like)
-    - [Web Scraping](#web-scraping)
 
 ## Args
 

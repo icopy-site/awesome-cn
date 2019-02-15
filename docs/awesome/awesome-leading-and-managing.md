@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="LappleApple/awesome-leading-and-managing"></div>
 ## Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
@@ -9,7 +10,6 @@
 - “再次感谢您将这一巨大资源整合在一起！” - [Dave Golden](https://twitter.com/xdg)，MongoDB和贡献者
 - “我在过去的几个月里一直在寻找并反复使用这些材料，并将其他许多材料推荐给了材料.所以，谢谢你 - 它以比你想象的更多的方式发挥了真正的作用！:)”-Dave Igoe，来自Slack
 
-## Contents
 - [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
 - [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Prevention and Conflict Resolution](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Prevention-Resolution.md)
@@ -42,11 +42,7 @@
  请通过将他们添加到此列表来分享/宣传您最喜欢的管理和领先资源/ go-to（书籍，文章，Twitter提要，视频等）.  这很容易：回顾我们 [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) 并提出拉取请求（每个项目/条目一个）. 
 
 ## FAQ
-- [Who is this for?](#who-is-this-for)
-- [Why should you read this or trust the authors for advice?](#why-should-you-read-this-or-trust-the-authors-for-advice)
-- [How can I submit a link or ask a question?](#how-can-i-submit-a-link-or-ask-a-question)
 - [How can I get more info on [missing topic]?](#how-can-i-get-more-info-on-missing-topic)
-- [Did you write all this yourself?](#did-you-write-all-this-yourself-creditattribution)
 
 ### Who is this for?
 - 个人贡献者（IC）希望转变为管理角色，但不确定它是否适合他们

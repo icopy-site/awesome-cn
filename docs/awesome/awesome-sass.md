@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Famolus/awesome-sass"></div>
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
 
 ## Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -7,24 +8,6 @@
 - 使用<kbd>命令</kbd> + <kbd>F</kbd>或<kbd>ctrl</kbd> + <kbd>F</kbd>搜索关键字.
 - 欢迎提供，请参阅 [contribution guide](https://github.com/Famolus/awesome-sass/blob/master/contributing.md).
 
-## Contents
-- [About](#about)
-- [Getting Started](#getting-started)
-- [Sass vs SCSS](#sass-vs-scss)
-- [Frameworks](#frameworks)
-- [Libraries and Mixins](#libraries-and-mixins)
-  - [Grid](#grid)
-  - [Media Queries](#media-queries)
-  - [Color](#color)
-  - [Typography](#typography)
-  - [Animation](#animation)
-  - [Miscellaneous](#miscellaneous)
-- [Style Guides](#style-guides)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Books](#books)
-- [Videos](#videos)
-- [Community](#community)
 
 ## About
 [Sass](http://sass-lang.com/)  是CSS的扩展，为基本语言增添了力量和优雅.  它允许您使用变量，嵌套规则，混合，内联导入等，所有这些都使用完全CSS兼容的语法.  Sass有助于保持大型样式表的组织良好，并使小样式表快速启动和运行.

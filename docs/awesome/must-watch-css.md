@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="AllThingsSmitty/must-watch-css"></div>
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" width="200" alt="TV icon">
 </p>

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="analyticalmonk/awesome-neuroscience"></div>
 <!-- ![Awesome Neuroscience](https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png) -->
 <img src="https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png" width="50%">
 
@@ -8,20 +9,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## Contents
 
-- [Programming](#programming)
-  - [Python](#python)
-  - [Matlab](#matlab)
-  - [C++](#c)
-  - [JavaScript](#javascript)
-- [Resources](#resources)
-  - [Ebooks](#ebooks)
-  - [Blogs](#blogs)
-  - [MOOCs](#moocs)
-  - [Communities](#communities)
-  - [Newsletters](#newsletters)
-  - [Miscellaneous](#miscellaneous)
 
 
 ## Programming
@@ -92,6 +80,7 @@ MOOC可以在学院或大学课程上进行图案化，也可以不那么有条�
 
 ### Miscellaneous
 - [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+- [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - 基于神经元的历史计算模型的模拟器.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - 可搜索的计算神经科学模型数据库.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - 可搜索的三种类型神经元特性的数据库：电压门控电导，神经递质受体和神经递质物质.
 - [Neuroscience Mindmap](https://learn-anything.xyz/neuroscience) - 包含策划资源的交互式思维导图，适用于对学习神经科学感兴趣的任何人.

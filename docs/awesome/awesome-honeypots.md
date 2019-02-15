@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="paralax/awesome-honeypots"></div>
 ## Awesome Honeypots [![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选蜜罐的精选列表，以及相关组件等等，分为Web，服务等类别，重点关注免费和开源项目.
@@ -6,14 +7,7 @@
 
 发现更多精彩的列表 [sindresorhus/awesome](https://github.com/sindresorhus/awesome).
 
-## Contents
 
-- [Related Lists](#related-lists)
-- [Honeypots](#honeypots)
-- [Honeyd Tools](#honeyd-tools)
-- [Network and Artifact Analysis](#network-and-artifact-analysis)
-- [Data Tools](#data-tools)
-- [Guides](#guides)
 
 ## Related Lists
 
@@ -76,7 +70,7 @@
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互Python蜜罐.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 低交互蜜罐，用于检测Oracle融合中间件的Oracle WebLogic Server组件中的CVE-2017-10271.
     - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) -  WhiteFace的基于Twisted的蜜罐.
-    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) -  Honeycomb的插件存储库，Cymmetria的蜜罐框架.
     - [honeyntp](https://github.com/fygrave/honeyntp) -  NTP记录器/蜜罐.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 观察相机蜜罐.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) -  FTP蜜罐.
@@ -359,7 +353,7 @@
 -  SIP服务器
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
-- 物联网蜜罐
+- IOT Honeypot
     - [HoneyThing](https://github.com/omererdem/honeything) -  TR-069蜜罐.
     - [Kako](https://github.com/darkarnium/kako) - 许多众所周知和部署的嵌入式设备漏洞的蜜罐.
 

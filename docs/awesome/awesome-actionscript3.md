@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="robinrodricks/awesome-actionscript3"></div>
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
 ## Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,18 +9,7 @@
 
  欢迎捐款.  要添加有用的项目，只需创建一个 [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
-## Contents
 
-* [Development Tools](#development-tools)
-* [Frameworks](#frameworks)
-* [User Interface](#user-interface)
-* [Multimedia](#multimedia)
-* [Database](#database)
-* [File Formats](#file-formats)
-* [Networking](#networking)
-* [Utilities](#utilities)
-* [Runtimes](#runtimes)
-* [AIR Native Extensions](#air-native-extensions)
 	
 
 ## Development Tools
@@ -27,7 +17,6 @@
 
 #### Code Editors
 * [FlashDevelop](http://flashdevelop.org/) - 用于AS3和AIR的Premiere免费和开源IDE，具有代码完成，调试等功能.
-* [Powerflasher FDT](http://fdt.powerflasher.com/) - 基于Eclipse平台构建的商业IDE，用于开发Adobe Flash / AIR内容.
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - 用于在Flex框架上构建应用程序的商业IDE（使用高级调试工具）.
 * [Moonshine IDE](http://moonshine-ide.com/) -  Moonshine是一个免费的开源中量级IDE，使用ActionScript 3构建，适用于ActionScript 3，ApacheFlex®，ApacheFlexJS®和Feathers开发，支持云和桌面.
 * [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - 商业IDE，支持许多不同的语言，包括AS3
@@ -75,7 +64,7 @@
 * [Feathers UI](https://feathersui.com/) -  Starling Framework的用户界面组件（[github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - 使用布局，效果，数据绑定和远程处理框架代替Flex.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - 布局，焦点和键盘管理框架（[site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
-* [Swiz](https://github.com/swiz/swiz-framework) - 使用AS3和Adobe Flex创建RIA的简单微架构.
+* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - 为Web应用程序项目开发的用户界面库，以AS3和MVC模式编写.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - 用于构面浏览的流畅且强大的界面.
 * [Apache Flex®](https://flex.apache.org/)   - ApacheFlex®SDK是流行的Adobe Flex SDK的演变.  ApacheFlex®SDK是一个应用程序开发框架，可轻松为移动设备，Web浏览器和桌面平台构建基于Flash的应用程序.
@@ -102,7 +91,7 @@
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl)   - 用于Neko，HTML5和本地CPP的Away3D.  （[examples](https://github.com/away3d/away3d-examples-openfl)).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) -  Away Physics  -  Away3D FP 11的3D物理库（[examples](https://github.com/away3d/awayphysics-examples-fp11)).
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) -  Alternativa3D GPU加速3D引擎（[examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)).
-* [Flare3D](http://flare3d.com/) - 具有高性能引擎和Level-editor IDE的商业3D平台.
+* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
 * [Zen3D](https://github.com/hgupta9/Zen3D) - 适用于Adobe Flash和AIR（基于GPU）的高性能3D引擎.
 
 #### Animation
@@ -212,7 +201,7 @@
 #### Camera
 
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - 相机检测.
-* [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications.
+* [Fluocam](https://github.com/Fluocode/Fluocam) - 用于Starling应用程序的虚拟摄像头.
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - 来自网络摄像头的无铬视频/音频/静态图像录制.
 * [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - 在Windows / Android / iOS / OSX上录制AIR应用程序的视频.
 
@@ -227,7 +216,7 @@
 * [Inspirit GPUImage](https://github.com/inspirit/GPUImage) - 基于GPU的图像处理框架.
 * [AS3potrace](https://github.com/PowerflasherBR/as3potrace) -  POTrace实现，将位图图像跟踪到矢量.
 * [ATF-Encoder](https://github.com/plepers/ATF-Encoder) - 在纯AS3中编码/解码ATF（Adobe纹理格式）文件.
-* [AS3-klt](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation.
+* [AS3-klt](https://github.com/motemen/as3-klt) -  Kanade-Lucas-Tomasi功能跟踪器实现.
 
 #### Font
 
@@ -413,7 +402,6 @@
 #### XML
 
 * [XMLSerializer](https://github.com/vapesolius/XMLSerializer) - 允许从ActionScript到XML以及从XML到ActionScript的数据序列化的库.
-* [DynamicXMLParser](https://github.com/lmgerhard/DynamicXMLParser) - 动态将xml内容解析为预定义的数据类（actionscript 3）.
 * [Nudge](https://github.com/pluglimited/Nudge) - 将对象序列化/反序列化为XML的框架.
 * [AStream](https://github.com/kokorin/AStream)   - 用AS3编写的XML到Object（反之亦然）映射库.  与XStream兼容.
 
@@ -504,7 +492,7 @@
 #### Artificial Intelligence
 
 * [FiniteStateMachine](https://github.com/pzUH/FiniteStateMachine) - 用于AI bot / agent的有限状态机.
-* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) - n-Gram predictor for AI bot/agent.
+* [N-GramPredictor](https://github.com/pzUH/N-GramPredictor) -  AI bot / agent的n-Gram预测器.
 * [Naive-BayesPredictor](https://github.com/pzUH/Naive-BayesPredictor) -  AI bot / agent的Naive-Bayes预测器.
 * [HierarchicalStateMachine](https://github.com/pzUH/HierarchicalStateMachine) -  AI bot / agent的分层状态机.
 * [Godmode-as3](https://github.com/tconkling/godmode-as3) - 行为树实施（人工智能）.
@@ -531,7 +519,7 @@
 
 #### Data
 
-* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) -  AS3的复杂和高性能集合和迭代器（[website](http://sibirjak.com/osflash/projects/as3commons-collections/)).
+* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 ([website](http://sibirjak.com/osflash/projects/as3commons-collections/)).
 
 #### Geometry
 
@@ -604,7 +592,6 @@
 #### File System ANE
 * [FileChooser](https://github.com/myflashlab/fileChooser-ANE) - 允许用户从设备文件系统中选择文件.
 * [ZipManager](https://github.com/myflashlab/zipManager-ANE) - 在Android和iOS上使用本机进程快速压缩或解压缩大型zip存档.
-* [Spotlight](https://github.com/myflashlab/Spotlight-ANE) - 与iOS 9 Spotlight搜索集成，以索引搜索项和用户生成的内容.
 
 #### Networking ANE
 * [Firebase](https://github.com/myflashlab/Firebase-ANE) - 适用于Android和iOS的Google Firebase API，具有100％相同的ActionScript API.

@@ -1,20 +1,10 @@
+<div class="github-widget" data-repo="onurakpolat/awesome-analytics"></div>
 ## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的分析平台，资源和其他令人敬畏的精选列表.  灵感来自 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata).
 
 欢迎您的反馈和贡献！
 
-- [Awesome Analytics](#awesome-analytics)
-    - [General analytics](#general-analytics)
-    - [Privacy focused analytics](#privacy-focused-analytics)
-    - [Heatmap analytics](#heatmap-analytics)
-    - [Analytics layers](#analytics-layers)
-    - [Mobile analytics](#mobile-analytics)
-    - [App store analytics](#app-store-analytics)
-    - [Attribution tracking](#attribution-tracking)
-    - [Social media analytics](#social-media-analytics)
-    - [Analytics dashboards](#analytics-dashboards)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## General analytics
 
@@ -39,7 +29,6 @@
 * [Snow Plow](https://snowplowanalytics.com/) - 具有大量数据的Web应用程序的分析工具.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - 标准分析工具以及大型组织可以使用的一些工具.
 * [Hitslink.com](https://www.hitslink.com/) - 实时分析，社交媒体流量报告和实时动态分段.
-* [parse.ly](https://www.parse.ly) - 实时网络分析工具，专注于跟踪内容.
 * [Loggr](http://loggr.net/) - 跟踪您的用户事件并监控您的Web应用程序.
 * [Kissmetrics](https://www.kissmetrics.com/) - 实时标准队列分析工具.
 * [Sitemeter](http://sitemeter.com/) - 旧的分析工具.

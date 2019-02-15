@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="dustinspecker/awesome-eslint"></div>
 ## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
@@ -6,19 +7,7 @@
 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
 
-## Contents
 
-- [Configs](#configs)
-- [Parsers](#parsers)
-- [Plugins](#plugins)
-  - [Frameworks and Libraries](#frameworks-and-libraries)
-  - [Misc](#misc)
-  - [Practices](#practices)
-  - [Style](#style)
-- [Preconfigured Tools with ESLint Set up](#preconfigured-tools-with-eslint-set-up)
-- [Tools](#tools)
-- [Developing for ESLint](#developing-for-eslint)
-- [Tutorials](#tutorials)
 
 ## Configs
 

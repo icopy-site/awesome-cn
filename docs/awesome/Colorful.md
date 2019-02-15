@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Siddharth11/Colorful"></div>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Siddharth11/Colorful/master/color-palette.gif" alt="header image">
 </p>
@@ -6,12 +7,6 @@
 __用于选择下一个配色方案的精选资源的精选列表.__
 灵感来自于 __[awesome](https://github.com/sindresorhus/awesome)_ _列表.  请阅读 __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__贡献之前.
 
-## Table of Contents
-- [Tools](#tools)
-  - [Libraries](#libraries)
-  - [Web App](#web-app)
-- [Color Palettes](#color-palettes)
-- [Articles](#articles)
 
 ## Tools
 

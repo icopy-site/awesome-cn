@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ossu/computer-science"></div>
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">开源社会大学</h3>
@@ -16,21 +17,7 @@
   </a>
 </p>
 
-## Contents
 
-- [Summary](#summary)
-- [Curriculum](#curriculum)
-  - [Prerequisites](#prerequisites)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Core CS](#core-cs)
-  - [Advanced CS](#advanced-cs)
-  - [Final project](#final-project)
-  - [Pro CS](#pro-cs)
-- [Code of conduct](#code-of-conduct)
-- [Community](#community)
-  - [How to show your progress](#how-to-show-your-progress)
-  - [Team](#team)
-- [References](#references)
 
 ## Summary
 
@@ -74,7 +61,6 @@ OSSU课程是一门完整的计算机科学教育**，使用在线资料.
 根据您自己的时间和预算决定花多少钱或多少钱;
 只记得你不能购买成功！
 
- **内容政策**.  如果您打算公开展示一些课程作业，则必须仅共享您允许的文件.
 *不要不尊重您在每门课程开始时签署的行为准则*！
 
  **如何贡献**.  请参阅 [CONTRIBUTING](https://github.com/ossu/computer-science/blob/master/CONTRIBUTING.md).
@@ -85,22 +71,6 @@ OSSU课程是一门完整的计算机科学教育**，使用在线资料.
 
 **课程版**：`8.0.0`（见 [CHANGELOG](https://github.com/ossu/computer-science/blob/master/CHANGELOG.md))
 
-- [Prerequisites](#prerequisites)
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced math](#advanced-math)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced applications](#advanced-applications)
-- [Final project](#final-project)
-- [Pro CS](#pro-cs)
 
 ---
 
@@ -148,7 +118,7 @@ OSSU课程是一门完整的计算机科学教育**，使用在线资料.
 `面向对象的设计
 `Java`
 `静态打字`
-`dynamic typing`
+`动态打字`
 `ML-family语言（通过标准ML）`
 `Lisp家族语言（通过Racket）`
 `Ruby`
@@ -180,7 +150,7 @@ OSSU课程是一门完整的计算机科学教育**，使用在线资料.
 `微积分`
 `积分&#39;
 `序列和系列`
-`离散数学`
+`discrete mathematics`
 `基本统计&#39;
 `O-notation`
 `图论

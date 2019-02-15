@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="k4m4/terminals-are-sexy"></div>
 [![Terminals_Are_Sexy_Logo](https://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](https://terminalsare.sexy/)
 
 ## Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,29 +11,7 @@
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
 [![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
 
-## Table of Contents
 
-1. [Shells](#shells)
-    - [Base Shells](#base-shells)
-    - [ZSH](#zsh)
-    - [Bash](#bash)
-    - [Git](#git)
-    - [Fish](#fish)
-1. [Terminal Emulation Applications](#terminal-emulation-applications)
-1. [Package Managers](#package-managers)
-    - [Universal](#universal)
-    - [macOS](#macos)
-    - [Linux](#linux)
-    - [Windows](#windows)
-1. [Text Editors](#text-editors)
-1. [Tools and Plugins](#tools-and-plugins)
-1. [Communication](#communication)
-1. [Other](#other)
-    - [Community](#community)
-    - [Other Sexy Lists](#other-sexy-lists)
-    	- [Awesome](#awesome)
-    	- [Misc](#misc)
-    - [Contributing](#contributing)
 
 - - -
 
@@ -98,14 +77,13 @@
 * [git-sh](https://github.com/rtomayko/git-sh) - 适用于Git工作的自定义Bash环境.
 * [gittify](https://github.com/momeni/gittify) - 彩色Bash提示+自定义Git别名.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 对bash和zsh的意见git提示.
-* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 使用颜色，Git状态和Git分支进行Bash提示.
+* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
 
 ### Fish
 
 * [Fisher](https://github.com/jorgebucaran/fisher) - 鱼壳的包装管理器.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 鱼壳框架.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Terminal Emulation Applications
 
@@ -134,7 +112,6 @@
 * [xterm](https://invisible-island.net/xterm/) -  X Window系统的终端仿真器.
 * [ZOC](https://www.emtec.com/zoc/index.html) - 用于macOS和Windows的SSH / Telnet客户端和终端仿真器.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Package Managers
 
@@ -175,7 +152,6 @@
 * [scoop](https://scoop.sh/) -  Windows的包管理器.
 * [wpkg](https://windowspackager.org/documentation/wpkg) - 适用于Windows的自动软件部署，升级和删除程序.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Text Editors
 
@@ -193,7 +169,6 @@
     * [neovim](https://neovim.io) - 字面意思是vim的未来.
 * [vis](https://github.com/martanne/vis) - 高效的文本编辑器.
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Tools and Plugins
 
@@ -205,7 +180,7 @@
 * [autojump](https://github.com/wting/autojump) - 学习的cd命令
 * [bcal](https://github.com/jarun/bcal) - 存储转换和表达式计算器.
 * [buku](https://github.com/jarun/Buku) - 命令行书签管理器.
-* [byobu](http://byobu.co/) - Byobu is an open source text-based window manager and terminal multiplexer.
+* [byobu](http://byobu.co/) -  Byobu是一个基于文本的开源窗口管理器和终端多路复用器.
 * [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
 * [colorls](https://github.com/athityakumar/colorls) - 美化终端的`ls`命令，使用颜色和字体很棒的图标.
 * [ddgr](https://github.com/jarun/ddgr) - 来自终端的DuckDuckGo.
@@ -254,7 +229,6 @@
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - 从YouTube下载视频
 * [z](https://github.com/rupa/z) - 基于匹配给定正则表达式的历史记录跳转到文件夹的工具
 
-**[⬆ back to top](#table-of-contents)**
 
 ## Communication
 
@@ -269,7 +243,6 @@
 * [Slackadaisical](https://github.com/bkanber/Slackadaisical) -  CLI的简单Slack客户端.
 * [weechat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## Other
@@ -301,7 +274,6 @@
 * [bash-guide](https://github.com/Idnan/bash-guide) - 学习bash的指南.
 * [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - 在一个页面中掌握命令行.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## Contributing

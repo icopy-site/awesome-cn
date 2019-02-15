@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ianstormtaylor/awesome-heroku"></div>
 
 ![](https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/banner.png)
 
@@ -9,28 +10,14 @@
 
 有用的Heroku资源的精选列表.
 
-- [Analytics](#-analytics)
-- [Architecture](#-architecture)
-- [Blogs](#-blogs)
-- [Deployment](#-deployment)
-- [Development](#-development)
-- [Domains](#-domains)
-- [Meta](#-meta)
-- [Postgres](#-postgres)
-- [Scaling](#-scaling)
-- [Security](#-security)
-- [Toolbelt](#-toolbelt)
-- [Goodbye...](#-goodbye)
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/analytics.png" /> Analytics
 
 Heroku的分析......
 
 - `工具` [Metabase](http://www.metabase.com/docs/v0.13.3/operations-guide/running-metabase-on-heroku.html) - 作为可以直接部署到Heroku的应用程序的元数据测试版.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/architecture.png" /> Architecture
 
 如何构建您的Heroku项目......
 
@@ -38,14 +25,12 @@ Heroku的分析......
 - “文章” [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) - 讨论为什么Heroku非常适合为您的项目构建面向服务的体系结构.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/blogs.png" /> Blogs
 
 互联网上经常（或专门）写关于Heroku的博客......
 
 - `博客` [Heroku Blog](https://blog.heroku.com) - 官方Heroku博客.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/deployment.png" /> Deployment
 
 有助于在Heroku上部署的资源......
 
@@ -55,12 +40,10 @@ Heroku的分析......
 - “文章” [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) - 改进运行Heroku流程的方法.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/development.png" /> Development
 
 - “官方” [Managing Multiple Environments for an App](https://devcenter.heroku.com/articles/multiple-environments) - 关于如何考虑管理每个环境的不同部分的良好入门读物.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/domains.png" /> Domains
 
 在Heroku上使用自定义域名的提示...
 
@@ -69,7 +52,6 @@ Heroku的分析......
 - “问题” [How do you host multiple Heroku apps on a single domain?](http://stackoverflow.com/questions/19119164/multiple-heroku-apps-on-a-single-domain) -  StackOverflow问题，对如何从不同路径而不是子域提供多个Heroku应用程序的常见问题做出一些回应.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/general.png" /> General
 
 关于Heroku的许多不同内容的一般资源......
 
@@ -77,7 +59,6 @@ Heroku的分析......
 - `书` [Heroku Cookbook](http://www.amazon.com/Heroku-Cookbook-Mike-Coutermarsh/dp/1782177949) - 逐步配方，以解决在Heroku上管理和扩展实际生产Web应用程序的挑战.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/meta.png" /> Meta
 
 有关公司本身的信息......
 
@@ -87,7 +68,6 @@ Heroku的分析......
 - “说话” [Buildpack Adventure](http://buildpack-adventure.herokuapp.com/) - 关于Heroku的buildpacks的酷炫幻灯片，以及开源社区与他们一起攻击的内容.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/postgres.png" /> Postgres
 
 处理的任何事情 [Heroku Postgres](https://www.heroku.com/postgres)...
 
@@ -95,26 +75,22 @@ Heroku的分析......
 - `插件&#39; [heroku-buildpack-pgbouncer](https://github.com/heroku/heroku-buildpack-pgbouncer) - 允许使用事务池的buildpack [`stunnel`](https://www.stunnel.org/index.html) 和 [`pgbouncer`](https://wiki.postgresql.org/wiki/PgBouncer) 避免达到连接限制.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/redis.png" /> Redis
 
 处理的任何事情 [Heroku Redis](https://elements.heroku.com/addons/heroku-redis)...
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/scaling.png" /> Scaling
 
 帮助您扩展Heroku项目的资源......
 
 - `工具` [HireFire](https://www.hirefire.io/) -  SaaS工具，可根据负载需求自动调整Heroku dynos.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/security.png" /> Security
 
 如何保护您的Heroku应用程序......
 
 - “文章” [Set up CloudFlare's free SSL on Heroku](https://robots.thoughtbot.com/set-up-cloudflare-free-ssl-on-heroku) - 引导您完成通过Cloudflare设置免费SSL的确切步骤.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/toolbelt.png" /> Toolbelt
 
 有用的资源 [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
@@ -123,14 +99,12 @@ Heroku的分析......
 - `插件&#39; [heroku-pg-extras](https://github.com/heroku/heroku-pg-extras)   - 一个工具带插件，为Postgres添加额外有用的插件.  分析缓存命中率，异常值查询，未使用的索引，表大小等等.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/goodbye.png" /> Goodbye...
 
 如果您出于某种原因决定迁移Heroku，请检查一下......
 
 - `工具` [dokku](http://dokku.viewdocs.io/dokku/) - 基于Docker的自托管，Heroku兼容平台.
 
 
-## <img width="21" height="21" src="https://raw.githubusercontent.com/ianstormtaylor/awesome-heroku/master/images/license.png" /> License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

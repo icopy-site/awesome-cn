@@ -1,35 +1,12 @@
+<div class="github-widget" data-repo="shlomi-noach/awesome-mysql"></div>
 ## awesome-mysql
 
 精选的MySQL免费和开源软件，库和资源的精选列表. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  此列表接受并鼓励拉取请求.  看到 [CONTRIBUTING](https://github.com/shlomi-noach/awesome-mysql/blob/master/CONTRIBUTING.md)
 
-### Contents
 
-- [Awesome MySQL](#awesome-mysql)
-    - [Analysis](#analysis)
-    - [Backup](#backup)
-    - [Benchmarking](#benchmarking)
-    - [ChatOps](#chatops)
-    - [Configuration](#configuration)
-    - [Connectors](#connectors)
-    - [Deployment](#deployment)
-    - [Development](#development)
-    - [GUI](#gui)
-    - [HA](#ha)
-    - [Proxy](#proxy)
-    - [Replication](#replication)
-    - [Schema](#schema)
-    - [Security](#security)
-    - [Server](#server)
-    - [Sharding](#sharding)
-    - [Toolkits](#toolkits)
 
-- [Resources](#resources)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Media](#media)
-    - [Newsletters](#newsletters)
 
 
 ## Analysis
@@ -169,7 +146,7 @@
 
 *防止数据库中敏感数据泄露的工具（加密，屏蔽和标记化，蜜罐等）*
 
-- [Acra](https://github.com/cossacklabs/acra) - SQL database protection suite: strong selective encryption, SQL injections prevention, intrusion detection system.
+- [Acra](https://github.com/cossacklabs/acra) -  SQL数据库保护套件：强选择性加密，SQL注入防护，入侵检测系统.
 
 ## Server
 
@@ -192,7 +169,7 @@
 
 *工具包，通用脚本*
 
-- [gh-ost](https://github.com/github/gh-ost/) -  GitHub的MySQL在线模式迁移.
+- [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/siddontang/go-mysql) - 一个纯go库来处理MySQL网络协议和复制.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一组用Python编写的命令行实用程序，用于单独或在复制层次结构中维护和管理MySQL服务器.
 - [openark kit](http://code.openark.org/forge/openark-kit) - 一组解决日常维护任务的实用程序，用Python编写可能很复杂或耗时.

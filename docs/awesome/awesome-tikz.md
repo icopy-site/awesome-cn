@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="xiaohanyu/awesome-tikz"></div>
 很棒的TikZ
 ============
 
@@ -10,15 +11,6 @@
 Contents
 --------
 
--   [Official Links](#official-links)
-    -   [PGF/TikZ](#pgftikz)
-    -   [PGFPlots](#pgfplots)
--   [Books](#books)
--   [Gallery](#gallery)
--   [Tools](#tools)
--   [Libraries](#libraries)
--   [Community](#community)
--   [Videos](#videos)
 
 官方链接
 --------------

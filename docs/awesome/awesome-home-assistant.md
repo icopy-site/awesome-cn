@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="frenck/awesome-home-assistant"></div>
 ## Awesome Home Assistant
 
 <div align="center">
@@ -29,35 +30,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
  预先建立的订单;  订单是为了贡献.  如果你想贡献，
 请阅读 [guide](https://github.com/frenck/awesome-home-assistant/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-- [How to Use](#how-to-use)
-- [Installing](#installing)
-- [Need Help?](#need-help)
-- [Public Configurations](#public-configurations)
-- [Hass.io](#hassio)
-    - [Official Add-ons](#official-add-ons)
-    - [Third Party Add-ons](#third-party-add-ons)
-- [User Interface](#user-interface)
-    - [Themes](#themes)
-    - [Alternative Dashboard](#alternative-dashboards)
-    - [Lovelace UI](#lovelace-ui)
-    - [Custom Lovelace UI Cards](#custom-lovelace-ui-cards)
-- [Custom Components](#custom-components)
-- [DIY](#diy)
-    - [DIY Gateways](#diy-gateways)
-    - [DIY Projects](#diy-projects)
-- [Online Resources](#online-resources)
-    - [Blogs](#blogs)
-    - [YouTube Channels](#youtube-channels)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-- [Uncategorized](#uncategorized)
-- [Alternative Home Automation Software](#alternative-home-automation-software)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
-- [Trademark Legal Notice](#trademark-legal-notice)
-- [License](#license)
 
 ## How to Use
 
@@ -68,7 +41,6 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
 您可以通过以下方式浏览列表：
 
 - 只需按下<kbd>命令/ ctrl</kbd> + <kbd>F</kbd>即可搜索关键字
-- 通过我们 [_Contents list_](#contents)
 - 或者，使用我们网站上的搜索： <https://www.awesome-ha.com>
 
 ## Installing
@@ -78,7 +50,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
  的优点和缺点.  重要的是要知道，没有错，或者就在这里，
 每种技术都安装了** SAME ** Home Assistant.
 
-Home Assistant目前_recommends_ Hass.io方法.
+Home Assistant currently _recommends_ the Hass.io method.
 
 * [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
@@ -164,14 +136,14 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [AirSonos](https://github.com/hassio-addons/addon-airsonos) - 适用于Sonos播放器的AirPlay功能.
 * [Dropbox Sync](https://github.com/danielwelch/hassio-dropbox-sync) - 将备份快照上传到Dropbox.
 * [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
-* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - Monitor and get statistics from your Plex server.
+* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从Plex服务器获取统计信息.
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
 * [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.
 * [ADB](https://github.com/hassio-addons/addon-adb) -  Android Debug Bridge服务器程序.
 * [Glances](https://github.com/hassio-addons/addon-glances) - 用Python编写的跨平台系统监视工具.
 * [Matrix](https://github.com/hassio-addons/addon-matrix) - 安全和分散的通信平台.
-* [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 网络范围的广告和跟踪器阻止DNS服务器与父母控制.
+* [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control.
 * [Traccar](https://github.com/hassio-addons/addon-traccar) -  Traccar是现代GPS跟踪平台.
 * [Home Panel](https://github.com/hassio-addons/addon-home-panel) - 用于控制家庭的触摸兼容网络前端.
 
@@ -261,7 +233,7 @@ _由社区创建的Home Assistant的附加组件._
  _自己做;  而不是购买家庭自动化硬件或解决方案，你
 也可以自己建造它们！_
 
-* [esphomeyaml](https://esphomelib.com/esphomeyaml/) - 使用YAML编程ESP8266 / ESP32板.
+* [ESPHome](https://esphome.io/) - 使用YAML编程ESP8266 / ESP32板.
 * [Magic Cards](https://github.com/maddox/magic-cards) -  RFID扫描卡，您可以编程做任何事情.
 * [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) -  ESP8266板和设备的固件.
 
@@ -312,7 +284,7 @@ _坐下，放松，观察和学习._
 
 _获得灵感，上下班，做早晨的日常活动，或在健身房！
 
-* [Home Assistant Podcast](https://hasspodcast.io) - Biweekly podcast with the latest news and interesting guests.
+* [Home Assistant Podcast](https://hasspodcast.io) - 双周播客，播放最新消息和有趣的客人.
 
 ### Twitter
 

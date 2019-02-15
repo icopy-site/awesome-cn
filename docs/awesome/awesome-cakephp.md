@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="friendsofcake/awesome-cakephp"></div>
 ## Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的CakePHP 3.x **插件，资源和闪亮的东西.
 
@@ -14,59 +15,7 @@
 &gt;插件子部分（而不仅仅是整个插件/ repo），更精细
 &gt;分组，主要关注任务特定功能.
 
-## Table of Contents
 
-- [Plugins](#plugins)
-	- [APM](#apm)
-	- [Asset Management](#asset-management)
-	- [Auditing / Logging](#auditing--logging)
-	- [Authentication and Authorization](#authentication-and-authorization)
-	- [Caching](#caching)
-	- [Code Analysis](#code-analysis)
-	- [Debugging](#debugging)
-	- [Dependency Injection](#dependency-injection)
-	- [E-commerce](#e-commerce)
-	- [Email](#email)
-	- [Environment](#environment)
-	- [Files](#files)
-	- [Filtering and Validation](#filtering-and-validation)
-	- [Geolocation](#geolocation)
-	- [I18n](#i18n)
-	- [Imagery](#imagery)
-	- [Libs](#libs)
-	- [Markup](#markup)
-	- [Migration](#migration)
-	- [Miscellaneous](#miscellaneous)
-	- [Navigation](#navigation)
-	- [NoSQL](#nosql)
-	- [Notifications](#notifications)
-	- [ORM and Datamapping](#orm-and-datamapping)
-	- [PDF](#pdf)
-	- [Queue](#queue)
-	- [REST and API](#rest-and-api)
-	- [Search](#search)
-	- [Security](#security)
-	- [SEO](#seo)
-	- [Skeleton](#skeleton)
-	- [Social](#social)
-	- [Templating](#templating)
-	- [Testing](#testing)
-	- [Third Party APIs](#third-party-apis)
-- [Software](#software)
-	- [Development Environment](#development-environment)
-- [Web Applications](#web-applications)
-	- [CMS and applications built on CakePHP](#cms-and-applications-built-on-cakephp)
-	- [Demo](#demo)
-- [Resources](#resources)
-	- [Help](#help)
-	- [CakePHP Websites](#cakephp-websites)
-	- [CakePHP Books and Articles](#cakephp-books-and-articles)
-	- [CakePHP Videos](#cakephp-videos)
-	- [CakePHP Tutorials](#cakephp-tutorials)
-	- [CakePHP Reading and Listening](#cakephp-reading-and-listening)
-	- [CakePHP Internals Reading](#cakephp-internals-reading)
-- [Conferences](#conferences)
-- [Contributing](#contributing)
 
 ## Plugins
 
@@ -82,7 +31,7 @@
 
 - [AssetCompress plugin](https://github.com/markstory/asset_compress) -  CakePHP的完整资产管理器.
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - 动态和“动态”资产文件.
-- [Less plugin](https://github.com/elboletaire/less-cake-plugin) -  CakePHP的解析器插件较少.
+- [Less plugin](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - 压缩HTML输出.
 
 ## Auditing / Logging
@@ -419,7 +368,7 @@
 - [CakePHP.gitignore](https://github.com/github/gitignore/blob/master/CakePHP.gitignore) -  .gitignore文件提案.
 - [CakePHP Vagrant Setup](https://github.com/cpierce/cakephp-vagrant-setup) - 用于启动多个CakePHP 3.x Vanilla Dev环境的工具.
 - [Docker](https://github.com/stefanvangastel/docker-cakephp) -  Docker容器环境中的CakePHP.
-- [Mixer](https://github.com/CakeDC/mixer) - A plugin to discover and manage CakePHP plugins.
+- [Mixer](https://github.com/CakeDC/mixer) - 一个发现和管理CakePHP插件的插件.
 - [NetBeans plugin](https://github.com/junichi11/cakephp3-netbeans) - 此插件为NetBeans 8.1+中的CakePHP提供支持.
 - [Oven](https://github.com/CakeDC/oven) - 使用1个文件和1个单击设置您喜欢的框架.
 - [PhpStorm plugin](https://github.com/skie/PhpStorm) - 在PhpStorm IDE中对控制台命令的CakePHP自动完成支持.

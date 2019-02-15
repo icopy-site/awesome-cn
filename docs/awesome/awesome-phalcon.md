@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="phalcon/awesome-phalcon"></div>
 ## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -14,48 +15,9 @@
 加入我们吧 [Discord](https://discordapp.com/invite/kRc2N2M) 与其他awesome-phalcon维护者聊天！
 
 
-### Contents
 
-- [Awesome Phalcon](#awesome-phalcon)
-    - [ACL](#acl)
-    - [Application Skeleton](#application-skeleton)
-    - [Authentication & OAuth](#authentication--oauth)
-    - [CMS & Blogs](#cms--blogs)
-    - [Command Line](#command-line)
-    - [Dashboard](#dashboard)
-    - [Debug](#debug)
-    - [DI](#di)
-    - [Docs](#docs)
-    - [Events](#events)
-    - [Forms](#forms)
-    - [i18n](#i18n)
-    - [Integration](#integration)
-    - [Mail](#mail)
-    - [Media](#media)
-    - [Miscellaneous](#miscellaneous)
-    - [Networking](#networking)
-    - [ORM](#orm)
-    - [ODM](#odm)
-    - [Provisioning](#provisioning)
-    - [RESTful](#restful)
-    - [Routing](#routing)
-    - [Scaffolding](#scaffolding)
-    - [Searching](#searching)
-    - [Shopping](#shopping)
-    - [SMS](#sms)
-    - [Talks](#talks)
-    - [Templating](#templating)
-    - [Testing](#testing)
-    - [Validators](#validators)
-    - [Web Tools](#web-tools)
 
-- [Server Applications](#server-applications)
 
-- [Resources](#resources)
-    - [Conferences](#conferences)
-    - [E-Books](#e-books)
-    - [Websites](#websites)
-        - [Tutorials](#tutorials)
 
 ## ACL
 
@@ -82,7 +44,7 @@
 * [Phalcon Jumpstart](https://github.com/nguyenducduy/phalcon-jumpstart) - 使用CRUD代码生成器快速开发Web应用程序
 * [Phalcon Module Skeleton](https://github.com/ovr/phalcon-module-skeleton) -  Phalcon Framework上构建美容应用程序的应用程序模板
 * [phalcon.angular.bootstrap](https://github.com/zhegwood/phalcon.angular.bootstrap) - 用于Angular，Phalcon和Bootstrap的非单页实现的Boilerplate
-* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon Framework + Grunt + Composer + Bower
+* [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) -  Phalcon Framework + Grunt + Composer + Bower
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - 在Phalcon Framework下构建的框架/大型包装器
 * [Vökuró](https://github.com/phalcon/vokuro) -  Phalcon Framework的示例应用程序（Acl，Auth，安全性）
 * [Webird](https://github.com/perchlayer/webird) - 创建Webird是为了将最新的PHP和Node.js创新合并到一个应用程序堆栈中
@@ -100,7 +62,6 @@
 
 ## CMS & Blogs
 
-*内容管理系统和博客.*
 
 * [blog](https://github.com/duythien/blog) - 具有多语言支持的博客项目
 * [giada-www](https://github.com/monocasual/giada-www) - 官方网站 [Giada Loop Machine](https://www.giadamusic.com/)
@@ -197,7 +158,7 @@
 *邮件服务.*
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) -  Phalcon邮件服务
-* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - 通过SwiftMailer for Phalcon Framework的Mailer组件包装器
+* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) -  Phalcon Framework的Mandrill包装器
 * [sendmail](https://github.com/duythien/sendmail) - 使用Phalcon Framework和Swift发送确认电子邮件
 

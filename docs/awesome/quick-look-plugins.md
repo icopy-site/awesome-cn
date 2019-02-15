@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/quick-look-plugins"></div>
 ## Quick Look plugins [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;有用的清单 [Quick Look](http://en.wikipedia.org/wiki/Quick_Look) 开发人员的插件

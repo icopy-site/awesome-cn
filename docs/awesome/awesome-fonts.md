@@ -1,17 +1,9 @@
+<div class="github-widget" data-repo="brabadu/awesome-fonts"></div>
 ## Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的字体和排版资源列表.
 
-## Contents
 
-1. [General](#general)
-1. [Free fonts](#free-fonts)
-1. [Emojis](#emojis)
-1. [Iconic fonts](#iconic-fonts)
-1. [Programming fonts](#programming-fonts)
-1. [JavaScript libs](#javascript-libs)
-1. [GitHub Showcases](#github-showcases)
-1. [Other](#other)
 
 ## General
 * [27 fonts (give or take) that explain your world](https://www.vox.com/2015/2/8/7475667/27-fonts-give-or-take-that-explain-your-world)

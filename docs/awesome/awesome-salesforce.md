@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mailtoharshit/awesome-salesforce"></div>
  
 <img src="https://cdn-images-1.medium.com/max/400/0*btue0hbdFixR5ccW." align="right" width="320" height="400">
 
@@ -25,24 +26,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
    * [Awesome Heroku](https://github.com/mailtoharshit/awesome-heroku)
 
 
-## Table of Contents  
-* [Awesome Salesforce](#awesome-salesforce--)
-  * [Salesforce Developer Free Edition Signup](#salesforce-developer-free-edition-signup)
-  * [Resource to Learn Salesforce Platform](#learning-salesforce-platform)
-  * [IDE](#ide)
-  * [Developer Utilities/Tools for Salesforce](#browser-extensions-for-salesforce)
-  * [Salesforce Browser Extensions](#browser-extensions-for-salesforce)
-  * [Open Source Github Project from Salesforce](#open-source-projects-repositories-from-salesforce)
-  * [Salesforce Lightning Resources](#salesforce-lightning)
-  * [Mobile Development with Salesforce](#mobile-development-with-salesforce)
-    * [Mobile SDK](#mobile-sdk)
-    * [Mobile Packs](#salesforce-mobile-packs-with-javascript-libraries-)
-  * [TroubleShooting and Developers Support](#troubleshooting-and-queries)
-  * [Salesforce Certification Program](#salesforce-certification-program)
-  * [Salesforce University](#salesforce-university)
-  * [Salesforce Technical Blogs](#technical-blogs)
-  * [Contribute to Project Awesome-Salesforce](#contribute)
-  * [How to create pull request and report bug](#bugreport-pullrequest)
 
 
 ### Salesforce Developer Free Edition Signup
@@ -238,7 +221,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 *其他一些解决方案 [awesome-etl list](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lightning
-* [Awesome Lightning](https://github.com/mailtoharshit/awesome-lighting)：Salesforce Lightning Framework的精彩内容
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce)：Salesforce的Awesome Browser Extensions集合
@@ -294,7 +276,7 @@ AngularJS Pack： [Get Started](https://developer.salesforce.com/mobile/getting-
  *引入三项新的Salesforce认证：[ Salesforce Platform App Builder](http://certification.salesforce.com/app-builders), [Salesforce Platform Developer I](http://certification.salesforce.com/platform-developers)，和  [Salesforce Platform Developer II](http://certification.salesforce.com/platform-developers).
 
  *在线Salesforce认证凭证验证 [Click Here](http://certification.salesforce.com/verification)
- * Ready to register for an exam? [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
+ *准备报名参加考试？ [Click here](https://www.webassessor.com/wa.do?page=publicHome&branding=SALESFORCE).
 
 ### Salesforce University
  * [<img src="https://partners.salesforce.com/s/SalesforceUniversity.png?v=1" align="right" width="100">]()[Salesforce University Home](https://partners.salesforce.com/s/SalesforceUniversity.png?v=3)
@@ -312,7 +294,7 @@ AngularJS Pack： [Get Started](https://developer.salesforce.com/mobile/getting-
 * [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - 也称为Enreeco或ForceLogic.Ultra极客科技爱好者雇佣军软件开发人员和Salesforce爱好者. [Read More](http://enree.co/)
 * [Peter Knolle](http://peterknolle.com/)   -  Peter Knolle喜欢使用各种不同的技术.  经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)  
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)-  Force.com MVP＆Architect  - 对S1和Javascript充满热情，由Profession建立建筑师，现在是公司的所有者，专注于salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
-* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 自2008年以来，7个Salesforce证书，MVP和技术架构师在平台上工作 [Read More](http://jitendrazaa.com/)
+* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)  -  Mohit是Codescience.com上的CodeScience.  他以出色的贡献而闻名 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有9x Salesforce认证. 
 * [The Wizard News](https://thewizardnews.com/) - 向导新闻是由Brian Kwong创建的博客，视频和播客的中心位置 - 即Salesforce Wizard.
 

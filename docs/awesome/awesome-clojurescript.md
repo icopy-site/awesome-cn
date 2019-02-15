@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hantuzun/awesome-clojurescript"></div>
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      ALIGN = “右”/&gt;
 
@@ -7,33 +8,8 @@
 
 ---
 
-  - [Books](#books)
-  - [Canvas](#canvas)
-  - [Client/Server Communication](#clientserver-communication)
-  - [Code Analysis](#code-analysis)
-  - [Data Serialization](#data-serialization)
-  - [Data Visualization](#data-visualization)
-  - [Database](#database)
-  - [Development](#development)
-  - [Document Object Model](#document-object-model)
-  - [Documentation](#documentation)
-  - [Graphics](#graphics)
-  - [HTTP Handler](#http-handler)
-  - [Internationalization](#internationalization)
-  - [JavaScript Interoperability](#javascript-interoperability)
-  - [Miscellaneous](#miscellaneous)
-  - [React.js Interface](#reactjs-interface)
-  - [Reactive Programming](#reactive-programming)
-  - [Routing](#routing)
-  - [State Management](#state-management)
-  - [Testing](#testing)
-  - [Validation](#validation)
-  - [Web Framework & Template](#web-framework--template)
-  - [WebSockets](#websockets)
 
 
-- [Contributing](#contributing)
-- [License](#license)
 
 * * *
 

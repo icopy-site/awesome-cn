@@ -1,9 +1,9 @@
+<div class="github-widget" data-repo="addyosmani/critical-path-css-tools"></div>
 关键路径（首屏）CSS工具 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==========================================
 
 &gt;帮助优先处理CSS的工具
 
-### Prioritize above-the-fold content first.
 
 为了获得最佳性能，PageSpeed Insights [recommends](https://developers.google.com/speed/docs/insights/PrioritizeVisibleContent)  将页面的关键（首要）CSS直接内嵌到HTML中.  这消除了额外的往返，并允许浏览器更快地将上述体验绘制到用户的屏幕上.  主要想法是：
 
@@ -42,7 +42,6 @@
 ## Inline sources (styles, scripts)
 
 * [inline-styles](https://github.com/maxogden/inline-styles)   - 由Max Ogden取代` <link>  `标签用内联` <style>` tags + inlines CSS url() calls with data URIs
-* [gulp-inline-source](https://github.com/fmal/gulp-inline-source)   - 由Filip Malinowski取代` <link>  `标签用内联` <style>` tags, and replaces `<script src="https://raw.githubusercontent.com/addyosmani/critical-path-css-tools/master/">` tags with their inline content
 * [inline-critical](https://github.com/bezoerb/inline-critical) - 作者BenZörb，内联关键路径CSS并使用`loadCSS`加载现有样式表
 * [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/)  for Webpack  - 允许在React应用程序中为任何给定页面/屏幕提取关键CSS，并在服务器端呈现（SSR）期间将其内联到HTML中.  看到 [React Starter Kit](https://github.com/kriasoft/react-starter-kit) 举个例子.
 

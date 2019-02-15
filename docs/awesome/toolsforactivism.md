@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="drewrwilson/toolsforactivism"></div>
 ## Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
@@ -6,13 +7,7 @@
 
  以下是一系列精选的激进主义数字工具.  这些是为社会变革进行竞选，组织或沟通的个人，特设团体或正式组织的工具.  其中一些工具是开源项目，需要一些技术知识来设置和托管自己.  有些是您通过浏览器中的网页使用的软件即服务工具.  随意分享建议.
 
-## Table of Contents
 
-  1. [Open Source, host-it-yourself tools](#open-source-host-it-yourself)
-  2. [Software as a service tools](#software-as-a-service)
-  3. [Projects in development](#projects-to-keep-an-eye-on-ie-projects-in-development)
-  4. [How do I contribute to this list?](#how-do-i-contribute-to-this-list)
-  5. [License](#license)
 
 
 ## The List

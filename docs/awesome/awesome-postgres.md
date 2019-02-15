@@ -1,33 +1,15 @@
+<div class="github-widget" data-repo="dhamaniasad/awesome-postgres"></div>
 ## Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
 
-> A curated list of awesome [PostgreSQL](https://www.postgresql.org/) 软件，图书馆，工具和资源，受到启发 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
+&gt;精选的精选列表 [PostgreSQL](https://www.postgresql.org/) 软件，图书馆，工具和资源，受到启发 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
 
 [PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是一个 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
   ：elephant：欢迎捐款.  添加链接 [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) 或创建一个 [issue](https://github.com/dhamaniasad/awesome-postgres/issues)  开始讨论.  请看看 [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
-## Contents
 
-- [High-Availability](#high-availability)
-- [Backups](#backups)
-- [GUI](#gui)
-- [Distributions](#distributions)
-- [CLI](#cli)
-- [Server](#server)
-- [Monitoring](#monitoring)
-- [Extensions](#extensions)
-- [Optimization](#optimization)
-- [Utilities](#utilities)
-- [Language bindings](#language-bindings)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
-- [Articles](#articles)
-- [Newsletters](#newsletters)
-- [PaaS (PostgreSQL as a Service)](#paas-postgresql-as-a-service)
-- [Docker images](#docker-images)
-- [Videos](#videos)
 
 ### High-Availability
 * [BDR](https://github.com/2ndQuadrant/bdr) - 双向复制 -  PostgreSQL的多主机复制系统
@@ -133,7 +115,7 @@
 * [apgdiff](https://www.apgdiff.com/) - 比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库模式更新为新数据库模式.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) -  ERAlchemy从数据库生成实体关系（ER）图.
 * [ldap2pg](https://github.com/dalibo/ldap2pg) - 同步YML和LDAP的角色和权限.
-* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) -  Lanyrd的MySQL到PostgreSQL转换脚本.
+* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
 * [ora2pg](http://ora2pg.darold.net) - 用于将Oracle数据库模式导出到PostgreSQL兼容模式的Perl模块.
 * [pg\_activity](https://github.com/julmon/pg_activity) - 类似于PostgreSQL服务器活动监控的应用程序.
 * [pg-formatter](https://github.com/gajus/pg-formatter) -  PostgreSQL SQL语法美化器（Node.js）.

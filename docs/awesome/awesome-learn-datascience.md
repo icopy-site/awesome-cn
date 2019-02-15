@@ -1,16 +1,11 @@
+<div class="github-widget" data-repo="siboehm/awesome-learn-datascience"></div>
 ## Data Science Tutorials & Resources for Beginners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 *如果您想了解更多有关数据科学但不知道从哪里开始这个列表适合您！*：chart_with_upwards_trend：
 
  不需要以前的知识，但Python和统计基础肯定会派上用场.  这些资源已成功用于我当地数据科学学生组的许多初学者 [ML-KA](http://ml-ka.de/).
 
-## Contents
 
-- [What is Data Science?](#what-is-data-science)
-- [Common Algorithms and Procedures](#common-algorithms-and-procedures)
-- [Data Science using Python](#data-science-using-python)
-- [Data Science Challenges for Beginners](#data-science-challenges-for-beginners)
-- [More advanced resources and lists](#more-advanced-resources-and-lists)
 
 ## What is Data Science?
 

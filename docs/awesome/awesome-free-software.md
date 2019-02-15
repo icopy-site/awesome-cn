@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="johnjago/awesome-free-software"></div>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
@@ -10,43 +11,7 @@
 
 —[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
-## Contents
 
-- [Software](#software)
-  - [Audio](#audio)
-  - [Command Line Tools](#command-line-tools)
-  - [Communication](#communication)
-  - [File Management](#file-management)
-  - [File Sharing](#file-sharing)
-  - [Graphics](#graphics)
-  - [IDEs](#ides)
-  - [Office](#office)
-  - [Operating Systems](#operating-systems)
-  - [Other](#other)
-  - [Payments](#payments)
-  - [Scientific Work](#scientific-work)
-  - [Screencasting](#screencasting)
-  - [Text Editors](#text-editors)
-  - [Utilities](#utilities)
-  - [Video](#video)
-  - [Virtualization](#virtualization)
-  - [Web Applications](#web-applications)
-  - [Web Servers](#web-servers)
-- [Hardware](#hardware)
-  - [Companies](#companies)
-  - [Hardware Resources](#hardware-resources)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Blogs](#blogs)
-  - [Businesses](#businesses)
-  - [Discovery](#discovery)
-  - [Events](#events)
-  - [Licensing](#licensing)
-  - [Organizations](#organizations)
-  - [Other Lists](#other-lists)
-  - [People](#people)
-  - [Talks](#talks)
-- [License](#license)
 
 ## Software
 
@@ -108,7 +73,7 @@
 ### Operating Systems
 
 - [Debian](https://www.debian.org/)   - 最早的类UNIX操作系统之一，致力于将非自由软件保留在其系统之外.  （[DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
-- [Devuan](https://devuan.org/)   - 没有systemd的Debian之叉.  （[Licenses](https://devuan.org/os/source-code))
+- [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/)   -  FSF认可了Debian的衍生产品.  （多个许可证）
 - [LineageOS](https://lineageos.org/)   - 适用于手机和平板电脑的Android发行版以及CyanogenMod的继任者.  （多个许可证）
 
@@ -166,7 +131,7 @@
 - [Etherpad](http://etherpad.org/)   - 实时协作文档编辑.  （[Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/)   - 用于构建和运行在线出版物的Hackable平台.  （[MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/)   - 整个代码生命周期的Git存储库管理器.  （[MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-- [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. (GNU GPLv3)
+- [GNU social](https://gnu.io/social/)   - 用PHP编写的微博服务器.  （GNU GPLv3）
 - [Gogs](https://gogs.io/)   - 轻量级，跨平台，自托管的Git服务.  （[MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Inventaire](https://inventaire.io/welcome)   - 与朋友和社区分享书籍.  （[GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 - [Lobsters](https://lobste.rs/)   - 使用downvote解释链接聚合和讨论.  （[BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))

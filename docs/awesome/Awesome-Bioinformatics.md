@@ -1,48 +1,15 @@
+<div class="github-widget" data-repo="danielecook/Awesome-Bioinformatics"></div>
 令人敬畏的生物信息学 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/danielecook/Awesome-Bioinformatics.svg?branch=master)](https://travis-ci.org/danielecook/Awesome-Bioinformatics)
 ======================
 
  &gt;生物信息学是一个跨学科领域，开发用于理解生物数据的方法和软件工具.   -  [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
- 精选的生物信息学软件，资源和库的精选列表.  主要是基于命令行，免费或开源.  请随意 [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
+A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
 
-**目录**
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-- [Package suites](#package-suites)
-  - [R: Bioconductor](#bioconductor)
-  - [Python: Biopython](#biopython)
-  - [Bioconda](#bioconda)
-- [Data Processing](#data-processing)
-  - [Command Line Utilities](#command-line-utilities)
-- [Next Generation Sequencing](#next-generation-sequencing)
-  - [Pipelines/Pipeline frameworks](#pipelinespipeline-frameworks)
-  - [Sequence Processing](#sequence-processing)
-  - [Sequence Alignment](#sequence-alignment)
-  - [Variant Calling](#variant-calling)
-  - [BAM File Utilities](#bam-file-utilities)
-  - [VCF File Utilities](#vcf-file-utilities)
-  - [GFF BED File Utilities](#gff-bed-file-utilities)
-  - [Variant Simulation](#variant-simulation)
-  - [Variant Filtering / Quality Control](#variant-filtering--quality-control)
-  - [Variant Prediction/Annotation](#variant-predictionannotation)
-  - [Python Modules](#python-modules)
-    - [Data](#data)
-    - [Tools](#tools)
-- [Visualization](#visualization)
-  - [Genome Browsers / Gene diagrams](#genome-browsers--gene-diagrams)
-  - [Circos Related](#circos-related)
-- [Database Access](#database-access)
-- [Resources](#resources)
-  - [Becoming a Bionformatician](#becoming-a-bioinformatician)
-  - [Sequencing](#sequencing)
-  - [RNA-Seq](#rna-seq)
-  - [ChIP-Seq](#chip-seq)
-  - [YouTube Channels and Playlists](#youtube-channels-and-playlists)
-  - [Blogs](#blogs)
-  - [Miscellaneous](#miscellaneous)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -132,7 +99,6 @@ __DNA重新测序___
 ### BAM File Utilities
 
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__  - 用于处理BAM文件的工具集合.
-* __[bam toolbox](https://github.com/AndersenLab/bam-toolbox)_ _MtDNA：核覆盖;  BAM工具箱可以输出MtDNA：核覆盖率，代表线粒体含量.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__  - 自动执行常见的SAM和BAM转换.
 * __[SAMstat](https://github.com/TimoLassmann/samstat)__  - 显示下一代测序的序列统计数据.
 * __[Telseq](https://github.com/zd1/telseq)__  -  Telseq是一种从全基因组序列数据中估计端粒长度的工具.
@@ -192,7 +158,7 @@ __DNA重新测序___
 * __[DNAism](https://github.com/drio/dnaism)__  - 用于DNA数据的基于D3的基于D3的JavaScript库的Horizo​​n chart.
 * __[IGV js](https://www.broadinstitute.org/igv)_ _  - 基于Java的浏览器.  用于基因组数据和注释的快速，高效，可扩展的可视化工具.  处理大 [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)_ _  -  D3基于JavaScript的基因组查看器.  构造SVG.
-* __[JBrowse](https://jbrowse.org)__ - JavaScript genome browser that is highly customizable via plugins and track customizations
+* __[JBrowse](https://jbrowse.org)__  - 通过插件和跟踪自定义高度可定制的JavaScript基因组浏览器
 * __[PHAT](https://github.com/chgibb/PHAT)__  - 指向并单击，跨平台套件，用于分析和可视化下一代测序数据集.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__  - 可用于生成交互式和高度可定制的基于Web的基因组浏览器的JavaScript库.
 * __[scribl](https://github.com/chmille4/Scribl)_ _  - 用于绘制基于画布的基因图的JavaScript库.  该 [Homepage](http://chmille4.github.io/Scribl/) 有例子.
@@ -229,7 +195,6 @@ __DNA重新测序___
 
 * [Next-Generation Sequencing Technologies - Elaine Mardis (2014)](https://youtu.be/6Is3W7JkFp8) [1:34:35]  - 对下一代和第三代测序技术的优秀（技术）概述，以及癌症研究中的一些应用.
 * [Annotated bibliography of \*Seq assays](https://liorpachter.wordpress.com/seq/) - 从转录到转座因子发现的各种测序技术和测定的~100篇论文一览表.
-* [For all you seq... (PDF)](http://www.illumina.com/content/dam/illumina-marketing/documents/applications/ngs-library-prep/ForAllYouSeqMethods.pdf)  （3456x5471） -  Illumina的大量信息图表说明了有多少测序技术有效.  技术包括蛋白质 - 蛋白质相互作用，RNA转录，RNA-蛋白质相互作用，RNA低水平检测，RNA修饰，RNA结构，DNA重排和标记，DNA低水平检测，表观遗传学和DNA-蛋白质相互作用.  参考文献包括.
 
 ### RNA-Seq
 

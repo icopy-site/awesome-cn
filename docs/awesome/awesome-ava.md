@@ -1,17 +1,9 @@
-## Awesome AVA [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://raw.githubusercontent.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
+<div class="github-widget" data-repo="avajs/awesome-ava"></div>
 
 > [AVA](https://ava.li) 是一个最小和未来的JavaScript测试运行器
 
 
-## Contents
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Packages](#packages)
-- [Works with AVA](#works-with-ava)
-- [Tutorials](#tutorials)
-- [Miscellaneous](#miscellaneous)
-- [Support](#support)
 
 
 ## Articles

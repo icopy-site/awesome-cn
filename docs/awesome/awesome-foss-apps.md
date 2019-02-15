@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="johnfaucett/awesome-foss-apps"></div>
 ## Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;按类别组织的精选生产级免费和开源软件的精选列表.
@@ -8,11 +9,6 @@
 
 ## TOC
 
-- [Webapps (frontend only)](#web-apps-frontend-only)
-- [Webapps (fullstack)](#web-apps-fullstack)
-- [Desktop Apps](#desktop-apps)
-- [Mobile Apps](#mobile-apps)
-- [Games](#games)
 
 
 ## Web Apps (frontend only)

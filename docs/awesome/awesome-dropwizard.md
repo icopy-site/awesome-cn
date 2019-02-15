@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="stve/awesome-dropwizard"></div>
 ## Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
 
 [<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
@@ -21,7 +22,6 @@
 
 ## Open Source
 
-* [dropwizard-swagger](https://github.com/smoketurner/dropwizard-swagger) - 提供Swagger UI静态内容并加载Swagger端点.
 * [dropwizard-jaxws](https://github.com/roskart/dropwizard-jaxws) - 使用JAX-WS API支持构建SOAP Web服务和客户端.
 * [dropwizard-redirect-bundle](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - 允许HTTP重定向.
 * [dropwizard-template-config](https://github.com/tkrille/dropwizard-template-config) - 使您能够将config.yaml编写为Freemarker模板.

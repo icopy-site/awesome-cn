@@ -1,162 +1,143 @@
+<div class="github-widget" data-repo="moul/awesome-ssh"></div>
 ## Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of *SSH* [apps](#apps), [libraries](#libraries) and [resources](#resources).
+&gt; * SSH *的精选列表 [apps](#apps), [libraries](#libraries) 和 [resources](#resources).
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) if you want to contribute.
+请阅读 [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
 
-**Check out my [blog](http://manfredtouron.tumblr.com) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
+**看看我 [blog](http://manfredtouron.tumblr.com)  或者说* hi * on [Twitter](https://twitter.com/moul).**
 
-## Table of Contents
 
-- [Apps](#apps)
-  - [`.ssh/config`](#sshconfig)
-  - [Tools using the *SSH* protocol](#tools-using-the-ssh-protocol)
-  - [Servers](#servers)
-  - [Network](#network)
-  - [Multiplexers](#multiplexers)
-  - [SSH Keys / Authentication](#ssh-keys--authentication)
-  - [SSH agent](#ssh-agent)
-  - [Tools](#tools)
-  - [Automation](#automation)
-  - [Web](#web)
-  - [Testing / Honeypots](#testing--honeypots)
-  - [Alternatives to SSH](#alternatives-to-ssh)
-- [Libraries](#libraries)
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Security](#security)
-  - [Documentation](#documentation)
-  - [Community](#community)
 
 ## Apps
 
 ### `.ssh/config`
 
-* [`assh` a.k.a `advanced-ssh-config`](https://github.com/moul/advanced-ssh-config) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars)](https://github.com/moul/advanced-ssh-config) - Transparent wrapper (ProxyCommand) that adds regex, aliases, gateways, includes, dynamic hostnames to *SSH* and `ssh-config`.
-* [storm](https://github.com/emre/storm) [![stars](https://img.shields.io/github/stars/emre/storm.svg?style=social&label=stars)](https://github.com/emre/storm) - Manage your *SSH* like a boss.
-* [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) [![stars](https://img.shields.io/github/stars/gaqzi/ansible-ssh-config.svg?style=social&label=stars)](https://github.com/gaqzi/ansible-ssh-config) - Letting *Ansible* manage `ssh_config`.
-* [ec2ssh](https://github.com/mirakui/ec2ssh) [![stars](https://img.shields.io/github/stars/mirakui/ec2ssh.svg?style=social&label=stars)](https://github.com/mirakui/ec2ssh) - A `ssh_config` manager for *AWS EC2*.
-* [ssh-config](https://github.com/dbrady/ssh-config) [![stars](https://img.shields.io/github/stars/dbrady/ssh-config.svg?style=social&label=stars)](https://github.com/dbrady/ssh-config) - A tool to help manage your `.ssh/config` file.
+* [`assh` a.k.a `advanced-ssh-config`](https://github.com/moul/advanced-ssh-config) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars)]（https://github.com/moul/advanced-ssh-config） - 透明包装器（ProxyCommand），它将正则表达式，别名，网关，包括动态主机名添加到* SSH *和`ssh-config`.
+* [storm](https://github.com/emre/storm) [![stars](https://img.shields.io/github/stars/emre/storm.svg?style=social&label=stars)]（https://github.com/emre/storm） - 像老板一样管理你的* SSH *.
+* [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) [![stars](https://img.shields.io/github/stars/gaqzi/ansible-ssh-config.svg?style=social&label=stars)]（https://github.com/gaqzi/ansible-ssh-config） - 让* Ansible *管理`ssh_config`.
+* [ec2ssh](https://github.com/mirakui/ec2ssh) [![stars](https://img.shields.io/github/stars/mirakui/ec2ssh.svg?style=social&label=stars)]（https://github.com/mirakui/ec2ssh） -  * AWS EC2 *的`ssh_config`管理器.
+* [ssh-config](https://github.com/dbrady/ssh-config) [![stars](https://img.shields.io/github/stars/dbrady/ssh-config.svg?style=social&label=stars)]（https://github.com/dbrady/ssh-config） - 一个帮助管理`.ssh / config`文件的工具.
 
 ### Tools using the *SSH* protocol
 
-* [scp](http://linux.die.net/man/1/scp) - Secure remote file copy utility over *SSH*.
-* [rsync](https://rsync.samba.org) - Fast incremental transfer utility that supports *SSH*.
-* [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) - File transfer protocol over *SSH*.
-* [curl](http://curl.haxx.se) - Command line tool and library to transfer data (support `sftp`).
+* [scp](http://linux.die.net/man/1/scp) - 通过* SSH *安全远程文件复制实用程序.
+* [rsync](https://rsync.samba.org) - 支持* SSH *的快速增量传输实用程序.
+* [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) - 通过* SSH *的文件传输协议.
+* [curl](http://curl.haxx.se) - 命令行工具和库来传输数据（支持`sftp`）.
 
 ### Servers
 
-* [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)](https://github.com/moul/ssh2docker) - *SSH* server to Docker containers.
-* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars)](https://github.com/FiloSottile/whosthere) - A *SSH* server that knows who you are. `$ ssh whoami.filippo.io`.
-* [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)](https://github.com/gliderlabs/sshfront) - Programmable *SSH* frontend.
-* [ssh-chat](https://github.com/shazow/ssh-chat) [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social&label=stars)](https://github.com/shazow/ssh-chat) - Chat over *SSH*.
-* [sshcommand](https://github.com/dokku/sshcommand) [![stars](https://img.shields.io/github/stars/dokku/sshcommand.svg?style=social&label=stars)](https://github.com/dokku/sshcommand) - Turn *SSH* into a thin client specifically for your app.
-* [sshmuxd](https://github.com/joushou/sshmuxd) [![stars](https://img.shields.io/github/stars/joushou/sshmuxd.svg?style=social&label=stars)](https://github.com/joushou/sshmuxd) - `sshmux` frontend.
-* [x84](https://github.com/jquast/x84) [![stars](https://img.shields.io/github/stars/jquast/x84.svg?style=social&label=stars)](https://github.com/jquast/x84) - A *python* `telnet`/`ssh` server for modern *UTF-8* and classic *cp437* network virtual terminals. In spirit of classic software such as *ami/x*, *teleguard*, *renegade*, *iniquity*.
-* [teleport](https://github.com/gravitational/teleport) [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social&label=stars)](https://github.com/gravitational/teleport) - Modern *SSH* server for clusters and teams.
+* [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)]（https://github.com/moul/ssh2docker） -  * SSH *服务器到Docker容器.
+* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere） - 一个知道你是谁的A * SSH *服务器.  `$ ssh whoami.filippo.io`.
+* [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)]（https://github.com/gliderlabs/sshfront） - 可编程* SSH *前端.
+* [ssh-chat](https://github.com/shazow/ssh-chat) [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social&label=stars)]（https://github.com/shazow/ssh-chat） - 聊天* SSH *.
+* [sshcommand](https://github.com/dokku/sshcommand) [![stars](https://img.shields.io/github/stars/dokku/sshcommand.svg?style=social&label=stars)]（https://github.com/dokku/sshcommand） - 将* SSH *转换为专门针对您的应用的瘦客户端.
+* [sshmuxd](https://github.com/joushou/sshmuxd) [![stars](https://img.shields.io/github/stars/joushou/sshmuxd.svg?style=social&label=stars)]（https://github.com/joushou/sshmuxd） - `sshmux`前端.
+* [x84](https://github.com/jquast/x84) [![stars](https://img.shields.io/github/stars/jquast/x84.svg?style=social&label=stars) ]（https://github.com/jquast/x84） - 用于现代* UTF-8 *和经典* cp437 *网络虚拟终端的A * python *`telnet` /`ssh`服务器.  本着* ami / x *，* teleguard *，* renegade *，* iniquity *等经典软件的精神.
+* [teleport](https://github.com/gravitational/teleport) [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social&label=stars)]（https://github.com/gravitational/teleport） - 适用于集群和团队的现代* SSH *服务器.
 
 ### Network
 
-* [Mosh](https://mosh.mit.edu) - The mobile shell.
-* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)](https://github.com/libfuse/sshfs) - Filesystem client based on the *SSH* File Transfer Protocol.
-* [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars)](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost.
-* [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars)](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet.
-* [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars)](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's *VPN*. Forwards over `ssh`. Doesn't require admin. Works with *Linux* and *MacOS*. Supports *DNS tunneling*.
-* [sshttp](https://github.com/stealth/sshttp) [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social&label=stars)](https://github.com/stealth/sshttp) - *SSH*/*HTTP(S)* multiplexer. Run a webserver and a `sshd` on the same port w/o changes.
-* [switcher](https://github.com/jamescun/switcher) [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social&label=stars)](https://github.com/jamescun/switcher) - Run *SSH* and *HTTP(S)* on the same port.
-* [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars)](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (i.e: *SSH* + *HTTPS*).
-* [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars)](https://github.com/aphyr/tund) - *SSH* reverse tunnel daemon.
-* [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn *SSH* session after network interruption.
-* [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars)](https://github.com/aluzzardi/wssh) - *SSH* to WebSockets Bridge.
-* [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars)](https://github.com/vieux/docker-volume-sshfs) - `sshfs` docker volume plugin.
+* [Mosh](https://mosh.mit.edu) - 移动外壳.
+* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)]（https://github.com/libfuse/sshfs） - 基于* SSH *文件传输协议的文件系统客户端.
+* [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars)]（https://github.com/inconshreveable/ngrok） - 对localhost的内省隧道.
+* [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars)]（https://github.com/progrium/localtunnel） - 将本地主机服务器暴露给Internet.
+* [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars) ]（https://github.com/apenwarr/sshuttle） - 透明代理服务器，作为一个穷人的* VPN *.  转发`ssh`.  不需要管理员.  适用于* Linux *和* MacOS *.  支持* DNS隧道*.
+* [sshttp](https://github.com/stealth/sshttp) [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social&label=stars) ]（https://github.com/stealth/sshttp） -  * SSH * / * HTTP（S）*多路复用器.  在没有更改的情况下在同一端口上运行Web服务器和`sshd`.
+* [switcher](https://github.com/jamescun/switcher) [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social&label=stars)]（https://github.com/jamescun/switcher） - 在同一端口上运行* SSH *和* HTTP（S）*.
+* [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars)]（https://github.com/yrutschle/sslh） - 应用协议多路复用器（即：* SSH * + * HTTPS *）.
+* [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars)]（https://github.com/aphyr/tund） -  * SSH *反向隧道守护进程.
+* [autossh](http://www.harding.motd.ca/autossh/) - 网络中断后自动重新生成* SSH *会话.
+* [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars)]（https://github.com/aluzzardi/wssh） -  * SSH *到WebSockets Bridge.
+* [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars)]（https://github.com/vieux/docker-volume-sshfs） - `sshfs` docker volume plugin.
 
 ### Multiplexers
 
-* [tmux](https://tmux.github.io) - Terminal multiplexer.
-* [clusterssh](https://github.com/duncs/clusterssh) [![stars](https://img.shields.io/github/stars/duncs/clusterssh.svg?style=social&label=stars)](https://github.com/duncs/clusterssh) - Cluster admin via *SSH*.
-* [tmux-cssh](https://github.com/dennishafemann/tmux-cssh) [![stars](https://img.shields.io/github/stars/dennishafemann/tmux-cssh.svg?style=social&label=stars)](https://github.com/dennishafemann/tmux-cssh) - `tmux` with a *ClusterSSH*-like behavior.
-* [tm](https://github.com/Ganneff/tm) [![stars](https://img.shields.io/github/stars/Ganneff/tm.svg?style=social&label=stars)](https://github.com/Ganneff/tm) - `tmux` manager / helper.
-* [i2cssh](https://github.com/wouterdebie/i2cssh) [![stars](https://img.shields.io/github/stars/wouterdebie/i2cssh.svg?style=social&label=stars)](https://github.com/wouterdebie/i2cssh) - `csshX` like *SSH* tool for *iTerm2*.
-* [ClusterSSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of `xterm` windows via a single graphical console.
+* [tmux](https://tmux.github.io) - 终端多路复用器.
+* [clusterssh](https://github.com/duncs/clusterssh) [![stars](https://img.shields.io/github/stars/duncs/clusterssh.svg?style=social&label=stars)]（https://github.com/duncs/clusterssh） - 通过* SSH *进行群集管理.
+* [tmux-cssh](https://github.com/dennishafemann/tmux-cssh) [![stars](https://img.shields.io/github/stars/dennishafemann/tmux-cssh.svg?style=social&label=stars)]（https://github.com/dennishafemann/tmux-cssh） - `tmux`，具有类似ClusterSSH *的行为.
+* [tm](https://github.com/Ganneff/tm) [![stars](https://img.shields.io/github/stars/Ganneff/tm.svg?style=social&label=stars)]（https://github.com/Ganneff/tm） - `tmux` manager / helper.
+* [i2cssh](https://github.com/wouterdebie/i2cssh) [![stars](https://img.shields.io/github/stars/wouterdebie/i2cssh.svg?style=social&label=stars)]（https://github.com/wouterdebie/i2cssh） - `csshX`喜欢*用于* iTerm2 *的SSH *工具.
+* [ClusterSSH](http://sourceforge.net/projects/clusterssh/) - 通过单个图形控制台控制多个`xterm`窗口.
 
 ### *SSH* keys / Authentication
 
-* [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars)](https://github.com/authy/authy-ssh) - Easy *two-factor* authentication for *SSH* servers.
-* [github-auth](https://github.com/chrishunt/github-auth) [![stars](https://img.shields.io/github/stars/chrishunt/github-auth.svg?style=social&label=stars)](https://github.com/chrishunt/github-auth) - *SSH* key management for GitHub users.
-* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars)](https://github.com/substack/cipherhub) - Encrypt messages based on *SSH* public keys with easy import from GitHub.
-* [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)) - Guide to setup Slack notifications (can be modified for other services).
-* [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) [![stars](https://img.shields.io/github/stars/benjojo/totp-ssh-fluxer.svg?style=social&label=stars)](https://github.com/benjojo/totp-ssh-fluxer) - A way to make sure your `sshd` port changes every 30 seconds.
-* [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/dolmen/github-keygen) - Easy creation of secure *SSH* configuration for your GitHub account(s).
-* [kr](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
+* [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars)]（https://github.com/authy/authy-ssh） -  * SSH *服务器的简单*双因素*身份验证.
+* [github-auth](https://github.com/chrishunt/github-auth) [![stars](https://img.shields.io/github/stars/chrishunt/github-auth.svg?style=social&label=stars)]（https://github.com/chrishunt/github-auth） -  * GitHub用户的SSH *密钥管理.
+* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars)]（https://github.com/substack/cipherhub） - 基于* SSH *公钥加密消息，轻松从GitHub导入.
+* [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) ([archived version](https://web.archive.org/web/20160505202303/http://www.ryanbrink.com/slack-ssh-session-notifications/)） - 设置Slack通知的指南（可以修改其他服务）.
+* [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) [![stars](https://img.shields.io/github/stars/benjojo/totp-ssh-fluxer.svg?style=social&label=stars)]（https://github.com/benjojo/totp-ssh-fluxer） - 确保你的`sshd`端口每30秒更改一次的方法.
+* [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)]（https://github.com/dolmen/github-keygen） - 轻松为您的GitHub帐户创建安全* SSH *配置.
+* [kr](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)]（https://github.com/KryptCo/kr） - 将访问请求路由到安装了Kryptonite的配对手机的Kr代理.
 
 ### *SSH* agent
 
-* [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars)](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with `ssh`.
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars)](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
-* [sshecret](https://github.com/thcipriani/sshecret) - Automatically create and manage multiple agents for multiple keys.
+* [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars)]（https://github.com/ccontavalli/ssh-ident） - 使用`ssh`的不同代理和不同项目的不同密钥.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars)]（https://github.com/robbyrussell/oh-my-zsh） - `zsh`的`ssh-agent`插件.
+* [sshecret](https://github.com/thcipriani/sshecret) - 自动为多个密钥创建和管理多个代理.
 
 ### Tools
 
-* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars)](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
-* [kyrat](https://github.com/fsquillace/kyrat) [![stars](https://img.shields.io/github/stars/fsquillace/kyrat.svg?style=social&label=stars)](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX.
-* [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault.svg?style=social&label=stars)](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt files using ssh keys
-* [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
-* [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
+* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars)]（https://github.com/Russell91/sshrc） - 当你`ssh`时，带上你的`.bashrc`，`.vimrc`等.
+* [kyrat](https://github.com/fsquillace/kyrat) [![stars](https://img.shields.io/github/stars/fsquillace/kyrat.svg?style=social&label=stars)]（https://github.com/fsquillace/kyrat） -  SSH包装器脚本，可以在Linux和OSX上随身携带dotfiles.
+* [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault.svg?style=social&label=stars)]（https://github.com/ssh-vault/ssh-vault） - 使用ssh密钥加密/解密文件
+* [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)]（https://github.com/vaporup/ssh-tools） - 使用ssh_config检查主机是否可访问
+* [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)]（https://github.com/nopernik/SSHPry2.0） -  Spy＆Control os SSH连接客户端的TTY
 
 ### Automation
 
-* [Ansible](https://github.com/ansible/ansible) [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social&label=stars)](https://github.com/ansible/ansible) - App deployment, configuration management and orchestration over *SSH*.
-* [rtop](https://github.com/rapidloop/rtop) [![stars](https://img.shields.io/github/stars/rapidloop/rtop.svg?style=social&label=stars)](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on *SSH*.
-* [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Wrapper for executing multiple remote shell commands from one command line.
-* [parallel-ssh](https://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
-* [SSH Power Tool](https://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
+* [Ansible](https://github.com/ansible/ansible) [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social&label=stars)]（https://github.com/ansible/ansible） - 通过* SSH *进行应用程序部署，配置管理和编排.
+* [rtop](https://github.com/rapidloop/rtop) [![stars](https://img.shields.io/github/stars/rapidloop/rtop.svg?style=social&label=stars)]（https://github.com/rapidloop/rtop） - 基于* SSH *的交互式远程系统监控工具.
+* [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - 用于从一个命令行执行多个远程shell命令的包装器.
+* [parallel-ssh](https://code.google.com/p/parallel-ssh/) - 提供OpenSSH和相关工具的并行版本.
+* [SSH Power Tool](https://code.google.com/p/sshpt/) - 在不使用预共享密钥的情况下，同时执行命令并将文件上载到多个服务器.
 
 ### Web
 
 * [Secure Shell chrome extension](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en)
-* [GateOne](https://github.com/liftoff/GateOne) [![stars](https://img.shields.io/github/stars/liftoff/GateOne.svg?style=social&label=stars)](https://github.com/liftoff/GateOne) - HTML5-powered terminal emulator and *SSH* client.
-* [KeyBox](https://github.com/skavanagh/KeyBox) [![stars](https://img.shields.io/github/stars/skavanagh/KeyBox.svg?style=social&label=stars)](https://github.com/skavanagh/KeyBox) - Web-based *SSH* console that centrally manages administrative access to systems.
-* [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
+* [GateOne](https://github.com/liftoff/GateOne) [![stars](https://img.shields.io/github/stars/liftoff/GateOne.svg?style=social&label=stars)]（https://github.com/liftoff/GateOne） - 支持HTML5的终端模拟器和* SSH *客户端.
+* [KeyBox](https://github.com/skavanagh/KeyBox) [![stars](https://img.shields.io/github/stars/skavanagh/KeyBox.svg?style=social&label=stars)]（https://github.com/skavanagh/KeyBox） - 基于Web的* SSH *控制台，集中管理对系统的管理访问.
+* [Apache Guacamole](https://guacamole.incubator.apache.org/)   -  Apache Guacamole是一个基于HTML5的无客户端远程桌面网关.  它支持VNC，RDP和SSH等标准协议.
 
 ### Testing / Honeypots
 
-* [ssh-hammer](https://github.com/shazow/ssh-hammer) [![stars](https://img.shields.io/github/stars/shazow/ssh-hammer.svg?style=social&label=stars)](https://github.com/shazow/ssh-hammer) - *SSH* load testing tool.
-* [kippo](https://github.com/desaster/kippo) [![stars](https://img.shields.io/github/stars/desaster/kippo.svg?style=social&label=stars)](https://github.com/desaster/kippo) - *SSH* Honeypot.
-* [cowrie](https://github.com/micheloosterhof/cowrie) [![stars](https://img.shields.io/github/stars/micheloosterhof/cowrie.svg?style=social&label=stars)](https://github.com/micheloosterhof/cowrie) - *SSH* Honeypot (based on kippo).
-* [sshmitm](http://linux.die.net/man/8/sshmitm) - *SSH* monkey-in-the-middle.
-* [ssh-audit](https://github.com/arthepsy/ssh-audit) [![stars](https://img.shields.io/github/stars/arthepsy/ssh-audit.svg?style=social&label=stars)](https://github.com/arthepsy/ssh-audit) - A tool for *SSH* server auditing.
-* [sshesame](https://github.com/jaksi/sshesame) [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social&label=stars)](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
+* [ssh-hammer](https://github.com/shazow/ssh-hammer) [![stars](https://img.shields.io/github/stars/shazow/ssh-hammer.svg?style=social&label=stars)]（https://github.com/shazow/ssh-hammer） -  * SSH *负载测试工具.
+* [kippo](https://github.com/desaster/kippo) [![stars](https://img.shields.io/github/stars/desaster/kippo.svg?style=social&label=stars)]（https://github.com/desaster/kippo） -  * SSH * Honeypot.
+* [cowrie](https://github.com/micheloosterhof/cowrie) [![stars](https://img.shields.io/github/stars/micheloosterhof/cowrie.svg?style=social&label=stars)]（https://github.com/micheloosterhof/cowrie） -  * SSH * Honeypot（基于kippo）.
+* [sshmitm](http://linux.die.net/man/8/sshmitm) -  * SSH *中间的猴子.
+* [ssh-audit](https://github.com/arthepsy/ssh-audit) [![stars](https://img.shields.io/github/stars/arthepsy/ssh-audit.svg?style=social&label=stars)]（https://github.com/arthepsy/ssh-audit） - 用于* SSH *服务器审核的工具.
+* [sshesame](https://github.com/jaksi/sshesame) [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social&label=stars)]（https://github.com/jaksi/sshesame） - 一个假的SSH服务器，允许每个人进入并记录他们的活动.
 
 
 ### Alternatives to *SSH*
 
 * [GoTTY](https://github.com/yudai/gotty) [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=stars)](https://github.com/yudai/gotty) - Share your terminal as web application.
-* [telnet](http://www.telnet.org/htm/faq.htm) - An unencrypted network protocol and an application used to connect to remote computers and issue commands.
-* [rsh](https://en.wikipedia.org/wiki/Remote_Shell) - An unencrypted network protocol and application used to connect to remote computers and issue commands.
+* [telnet](http://www.telnet.org/htm/faq.htm) - 未加密的网络协议和用于连接远程计算机和发出命令的应用程序.
+* [rsh](https://en.wikipedia.org/wiki/Remote_Shell) - 用于连接远程计算机和发出命令的未加密网络协议和应用程序.
 
 ## Libraries
 
-* C/C++
-  * [libssh](https://www.libssh.org) - The *SSH* library.
-  * [substack/libssh](https://github.com/substack/libssh) [![stars](https://img.shields.io/github/stars/substack/libssh.svg?style=social&label=stars)](https://github.com/substack/libssh) - Multiplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side.
+* C / C ++
+  * [libssh](https://www.libssh.org) -  * SSH *库.
+  * [substack/libssh](https://github.com/substack/libssh) [![stars](https://img.shields.io/github/stars/substack/libssh.svg?style=social&label=stars)]（https://github.com/substack/libssh） - 在客户端和服务器端实现SSHv2和SSHv1协议的多平台C库.
 * Golang
-  * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - Built-in *SSH* client and server library.
-  * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)](https://github.com/pkg/sftp) - *SFTP* support for the go.crypto/ssh package.
-  * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars)](https://github.com/shazow/go-sshkit) - Toolkit for building *SSH* servers and clients in Go.
-  * [Socker](https://github.com/cosiner/socker) [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social&label=stars)](https://github.com/cosiner/socker) - Library for Go to simplify the use of *SSH*.
+  * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - 内置* SSH *客户端和服务器库.
+  * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)]（https://github.com/pkg/sftp） -  * SFTP *支持go.crypto / ssh包.
+  * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars)]（https://github.com/shazow/go-sshkit） - 用于在Go中构建* SSH *服务器和客户端的工具包.
+  * [Socker](https://github.com/cosiner/socker) [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social&label=stars)]（https://github.com/cosiner/socker） -  Go库用于简化* SSH *的使用.
 * Java
-  * [jsch](http://www.jcraft.com/jsch/) - Pure *java*, *BSD* licensed, *SSH2* client library.
-* Javascript/Node.js
-  * [ssh2](https://github.com/mscdex/ssh2) [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social&label=stars)](https://github.com/mscdex/ssh2) - *SSH2* client and server modules written in pure *JavaScript* for *node.js*.
+  * [jsch](http://www.jcraft.com/jsch/) - 纯* java *，* BSD *许可，* SSH2 *客户端库.
+* Javascript / Node.js
+  * [ssh2](https://github.com/mscdex/ssh2) [![stars](https://img.shields.io/github/stars/mscdex/ssh2.svg?style=social&label=stars)]（https://github.com/mscdex/ssh2） -  *用纯* JavaScript * for * node.js *编写的SSH2 *客户端和服务器模块.
 * Python
-  * [paramiko](https://github.com/paramiko/paramiko) [![stars](https://img.shields.io/github/stars/paramiko/paramiko.svg?style=social&label=stars)](https://github.com/paramiko/paramiko) - Native *Python* *SSHv2* protocol library.
+  * [paramiko](https://github.com/paramiko/paramiko) [![stars](https://img.shields.io/github/stars/paramiko/paramiko.svg?style=social&label=stars)]（https://github.com/paramiko/paramiko） -  Native * Python * * SSHv2 *协议库.
 * Ruby
-  * [net-ssh](https://github.com/net-ssh/net-ssh) [![stars](https://img.shields.io/github/stars/net-ssh/net-ssh.svg?style=social&label=stars)](https://github.com/net-ssh/net-ssh) - Pure *Ruby* implementation of an *SSH* (protocol 2) client.
+  * [net-ssh](https://github.com/net-ssh/net-ssh) [![stars](https://img.shields.io/github/stars/net-ssh/net-ssh.svg?style=social&label=stars)]（https://github.com/net-ssh/net-ssh） -  * SSH *（协议2）客户端的纯* Ruby *实现.
 
 ## Resources
 
@@ -169,9 +150,9 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 ### Security
 
-* [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
-* [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
-* [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) [![stars](https://img.shields.io/github/stars/BetterCrypto/Applied-Crypto-Hardening.svg?style=social&label=stars)](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - `sshd\_config` for `6.X`
+* [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - 整数溢出`CVE 2016 077 [7-8]`.
+* [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd \ _config`表示`6.7 +`，`5.3`.
+* [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) [![stars](https://img.shields.io/github/stars/BetterCrypto/Applied-Crypto-Hardening.svg?style=social&label=stars)]（https://github.com/BetterCrypto/Applied-Crypto-Hardening） - `sXd \ _config` for`6.X`
 
 ### Documentation
 
@@ -188,4 +169,4 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Manfred Touron](https://github.com/moul) 已放弃对此作品的所有版权及相关或相邻权利.

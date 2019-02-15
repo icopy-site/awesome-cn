@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mezod/awesome-indie"></div>
 ## Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 帮助独立开发者赚钱的资源.
 
@@ -20,20 +21,7 @@
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
-## Contents
 
-- [Communities](#communities)
-- [Newsletters](#newsletters)
-- [Podcasts](#podcasts)
-- [Talks](#talks)
-- [Posts](#posts)
-- [Blogs](#blogs)
-- [Case Studies](#case-studies)
-- [Events](#events)
-- [Books](#books)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Specific Topics](#specific-topics)
 
 ### Communities
 - **[IndieHackers](https://www.indiehackers.com/businesses)**
@@ -110,7 +98,7 @@
 
 - **[Startups for the rest of us](http://www.startupsfortherestofus.com/)**
 
-  Started in 2010 by [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 几乎涵盖了微型企业所需要的一切. [Here](http://www.startupsfortherestofus.com/greatest-hits) 你可以找到他们播客的“精选”选择.
+  由2010年开始 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) 几乎涵盖了微型企业所需要的一切. [Here](http://www.startupsfortherestofus.com/greatest-hits) 你可以找到他们播客的“精选”选择.
 
 - **[Product People](http://www.productpeople.tv/)**
 
@@ -156,7 +144,7 @@
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** [David Heinemeier Hansson](https://twitter.com/dhh)
 
-  引导作为VC资助初创公司的更好选择.
+  Bootstrapping as the better alternative to VC funded startups.
   
 - **[Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ)** [Tyler Tringas](https://twitter.com/tylertringas)
 
@@ -412,7 +400,7 @@
  - “付费广告的效果更好”
  - &#39;我有100个用户，如何成长&#39;
  - &#39;我如何处理支持&#39;
- - 'types of digital products'
+ - “各类数码产品”
  - &#39;法律方面&#39;
  <!-- https://termsfeed.com -->
  - “典型的错误”

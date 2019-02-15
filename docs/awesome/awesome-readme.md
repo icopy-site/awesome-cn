@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="matiassingers/awesome-readme"></div>
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
 
 ## Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -22,7 +23,7 @@
 - [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie)   - 描述项目的作用.  演示截图.  项目标志.  TOC便于导航.  建立徽章.  快速简单的安装和使用部分.  包括示例部分.
 - [karan/joe](https://github.com/karan/joe)   - 项目标志.  清楚地描述项目的作用.  GIF演示.  易于安装和使用部分.
 - [Martinsos/edlib](https://github.com/Martinsos/edlib)   - 信息徽章（构建，版本，出版物）.  简洁描述.  功能列表.  TOC.  截图.  简明的说明以及在项目中构建和包含的示例.  常见的代码示例，可帮助您快速入门.
-- [nhnent/tui.editor](https://github.com/nhnent/tui.editor)   - 项目标志.  使用演示GIF清楚地了解项目功能.  徽章.  TOC便于导航.  在标题前面的五颜六色的象.
+- [nhnent/tui.editor](https://github.com/nhnent/tui.editor) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
 - [node-chat](https://github.com/IgorAntun/node-chat)   - 项目截图.  信息徽章.  清楚的描述.  易于安装/使用说明.  现场演示.
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF)   - 项目标志.  GIF演示.  用法艺术品.  使用代码示例.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis)   - 概述.  所需依赖项列表.  回购中所有文件的完整列表及其功能.  它是如何联系在一起的视觉图形.
@@ -54,7 +55,7 @@
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes) - 自述文件编辑和项目分析/反馈.
 - [Make a README](https://www.makeareadme.com/)   - 编写自述文件的指南.  包含带有实时Markdown渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices) - 从中​​复制粘贴README.md的地方
-- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+- [Standard Readme](https://github.com/RichardLitt/standard-readme)   - 标准的README样式规范.  有一个生成器来帮助创建符合规范的自述文件.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - 简单的模板，以帮助您涵盖所有基础知识.
 
 ## Creating GIFs

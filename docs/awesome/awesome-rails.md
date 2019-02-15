@@ -1,33 +1,12 @@
+<div class="github-widget" data-repo="ekremkaraca/awesome-rails"></div>
 ## AwesomeRails
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 &gt;与Ruby on Rails相关的精彩内容的精选列表（最近的变化受到了启发 [awesome-vue](https://github.com/vuejs/awesome-vue))
 
-## Table of Contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Table of Contents](#table-of-contents)
-- [Resources](#resources)
-	- [Official Resources](#official-resources)
-	- [External Resources](#external-resources)
-	- [Jobs](#jobs)
-	- [Community](#community)
-	- [Apps Made with Rails](#apps-made-with-rails)
-	- [Tutorials](#tutorials)
-		- [July 2017](#july-2017)
-		- [June 2017](#june-2017)
-		- [May 2017](#may-2017)
-		- [March 2017](#march-2017)
-		- [February 2017](#february-2017)
-		- [January 2017](#january-2017)
-		- [October 2016](#october-2016)
-		- [August 2016](#august-2016)
-	- [Other Rails Tools](#other-rails-tools)
-		- [Platforms](#platforms)
-		- [Generators](#generators)
-		- [DevTools](#devtools)
-	- [Notable Awesome Stuffs](#notable-awesome-stuffs)
 
 <!-- /TOC -->
 ## Resources

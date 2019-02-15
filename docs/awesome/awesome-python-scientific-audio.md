@@ -1,31 +1,10 @@
+<div class="github-widget" data-repo="faroit/awesome-python-scientific-audio"></div>
 ## Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/faroit/awesome-python-scientific-audio.svg?branch=master)](https://travis-ci.org/faroit/awesome-python-scientific-audio)
 
 该存储库的目的是创建一个全面的策划列表，其中包含与音频/音乐应用中的科学研究相关的python软件/工具.
 
-## Contents
 
-* [Audio Related Packages](#audio-related-packages)
-    - [Read/Write](#read-write)
-    - [Transformations - General DSP](#transformations---general-dsp)
-    - [Feature extraction](#feature-extraction)
-    - [Speech Processing](#speech-processing)
-    - [Perceptial Models - Auditory Models](#perceptial-models---auditory-models)
-    - [Source Separation](#source-separation)
-    - [Music Information Retrieval](#music-information-retrieval)
-    - [Deep Learning](#deep-learning)
-    - [Symbolic Music - MIDI - Musicology](#symbolic-music---midi---musicology)
-    - [Realtime applications](#realtime-applications)
-    - [Web - Audio](#web-audio)
-    - [Audio related APIs and Datasets](#audio-related-apis-and-datasets)
-    - [Wrappers for Audio Plugins](#wrappers-for-audio-plugins)
-* [Tutorials](#tutorials)
-* [Books](#books)
-* [Scientific Paper](#scientific-papers)
-* [Other Resources](#other-resources)
-* [Related lists](#related-lists)
-* [Contributing](#contributing)
-* [License](#license)
 
 
 ## Audio Related Packages
@@ -119,7 +98,7 @@
 #### Symbolic Music - MIDI - Musicology
 
 * [Music21](http://web.mit.edu/music21/) [:octocat:](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - 计算机辅助音乐学工具包.
-* [Mido](https://mido.readthedocs.io/en/latest/) [:octocat:](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - 实时MIDI包装.
+* [Mido](https://mido.readthedocs.io/en/latest/) [:octocat:](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
 * [mingus](http://bspaans.github.io/python-mingus/)² [:octocat:](https://github.com/bspaans/python-mingus) [:package:](https://pypi.python.org/pypi/mingus/) - 具有MIDI文件和播放支持的高级音乐理论和符号包.
 * [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat:](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - 实用功能，以美观/直观的方式处理MIDI数据.
 

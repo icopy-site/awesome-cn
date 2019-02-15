@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="seancoyne/awesome-coldfusion"></div>
 ## Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的ColdFusion框架，库和软件的精选列表.  灵感来自 [awesome-javascript](https://github.com/sorrycc/awesome-javascript).
@@ -5,19 +6,6 @@
 拉请求非常欢迎.
 
 * [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
-	* [Engines](#engines)
-	* [Application Frameworks](#application-frameworks)
-	* [Testing](#testing)
-	* [Dependency Injection](#dependency-injection)
-	* [Content Management Systems](#cms)
-	* [NoSQL](#nosql)
-	* [REST](#rest)
-	* [Other Libraries](#other-libraries)
-	* [Editors](#editors)
-	* [Tools](#tools)
-	* [References](#references)
-	* [Resources](#resources)
-	* [Documentation](#documentation)
 	
 ----
 
@@ -30,7 +18,6 @@
 
 * [CFWheels](https://cfwheels.org) - 一个受Ruby on Rails启发的开源CFML框架.
 * [ColdBox](http://www.coldbox.org) - 企业ColdFusion MVC开发平台
-* [FarCry](http://www.farcrycore.org) -  FarCry Core是一个Web应用程序框架，可帮助CFML开发人员快速构建量身定制的内容解决方案.
 * [FW/1 - Framework One](https://github.com/framework-one/fw1) - 轻量级，约定优于配置，MVC应用程序框架
 * [ModelGlue](http://model-glue.com)   - 基于MVC的基于CFML的全栈前端控制器.  功能包括脚手架，ORM集成以及许多其他功能
 
@@ -50,8 +37,6 @@
 
 ## CMS
 
-* [CONTENS CMS](http://www.contens.com/) - 专业内容管理
-* [ContentBox](https://github.com/Ortus-Solutions/ContentBox) - 功能强大的模块化内容管理引擎
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura](https://github.com/blueriver/MuraCMS)
 * [Preside CMS](https://github.com/pixl8/Preside-CMS) - 用于Railo语言的开源CMS

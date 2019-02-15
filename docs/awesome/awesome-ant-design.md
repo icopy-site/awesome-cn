@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="websemantics/awesome-ant-design"></div>
 ```
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
@@ -24,22 +25,7 @@
 
 Ant Design是一种中间件设计语言，由Ant Financial的经验技术部门完善，旨在统一中间件项目的用户界面规范，减少设计差异和实现的不必要成本，并释放设计和前端开发资源.
 
-## Contents
 
-- [Resources](#resources)
-- [Articles](#articles)
-- [Tools](#tools)
-- [Related Projects](#related-projects)
-- [Angular](#angular)
-- [Vue.js](#vuejs)
-- [Components](#components)
-- [Applications](#applications)
-- [Frameworks](#frameworks)
-- [Boilerplates](#boilerplates)
-- [Non-JavaScript Libraries](#non-javascript-libraries)
-- [Electron](#electron)
-- [Icons](#icons)
-- [Contributing](#contributing)
 
 ## Resources
 
@@ -110,7 +96,7 @@ Ant Design系列项目.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - 基于antd表的无限滚动组件，支持虚拟滚动和高性能
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - 基于draft-Js和ant设计的开源丰富的反应编辑器.
-- [React Grid](https://github.com/kagawagao/react-grid) ** [已弃用] **  - 基于Ant设计的网格反应UI组件.
+- [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - 高级Ant设计组件.
 - [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - 组合antd表和表单的组件，用于执行数据的搜索，显示和操作作业.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - 基于使用Ant Design构建的json输入的角度递归形式.

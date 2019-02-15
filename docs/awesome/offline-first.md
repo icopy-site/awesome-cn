@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="pazguille/offline-first"></div>
 ## Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 &gt;用于创建脱机优先Web应用程序的有用资源
@@ -8,18 +9,6 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) list thing.
 
-## Table of Contents
-- [W3C Specification](#w3c-specification)
-- [Newsletter](#newsletter)
-- [Posts](#posts)
-- [Presentations](#presentations)
-  - [Videos](#videos)
-  - [Slides](#slides)
-- [Tools](#tools)
-- [Books](#books)
-- [Showcase](#showcase)
-- [Who to Follow](#who-to-follow)
-- [Contributing](#contributing)
 
 ## W3C Specification
 

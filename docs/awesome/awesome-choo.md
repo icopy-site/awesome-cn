@@ -1,19 +1,10 @@
+<div class="github-widget" data-repo="choojs/awesome-choo"></div>
 ## Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
 > [choo](https://choo.io/) 是一个用于创建的“4kb”框架
 &gt;坚固的前端应用程序
 
-## Contents
 
-- [Official resources](#official-resources)
-- [Dependencies](#dependencies)
-- [Demos](#demos)
-- [Community](#community)
-- [Plugins and addons](#plugins-and-addons)
-- [Elements](#elements)
-- [CLI Templates](#cli-templates)
-- [Resources](#resources)
-- [Projects using choo](#projects-using-choo)
 
 ### Official resources
 

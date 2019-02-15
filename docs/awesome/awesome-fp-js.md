@@ -1,24 +1,11 @@
+<div class="github-widget" data-repo="stoeffel/awesome-fp-js"></div>
 ## Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一个很棒的精选列表 [functional programming](https://en.wikipedia.org/wiki/Functional_programming)  JavaScript的代码和学习资源.  作为一种多范式编程语言，JavaScript可以用很多样式编写.  有了这些资源，我们希望帮助您更好地利用JavaScript支持以_functional_方式编写程序.
 
 功能编程是一个 [style of programming](https://wiki.haskell.org/Functional_programming)  将计算模型化为表达式的评估.  将此与命令式编程进行对比，其中程序由在执行时改变全局状态的语句组成.  函数式编程通常避免使用可变状态，而是支持_side-effect free_function和_immutable_ data.  这鼓励编写易于推理的可组合和声明性程序.
 
-##### Table of Contents
 
-* [Libraries](#libraries)
-  * [Data Structures](#data-structures)
-  * [Algebraic Data Types](#algebraic-data-types)
-  * [Lenses](#lenses)
-* [Functional Languages that Compile to JavaScript](#functional-languages-that-compile-to-javascript)
-* [Programming Tools](#programming-tools)
-* [Resources](#resources)
-  * [Books](#books)
-  * [Articles](#articles)
-  * [Videos](#videos)
-  * [Examples and Exercises](#examples-and-exercises)
-* [Community](#community)
-* [Contribution](#contribution)
 
 ## Libraries
 

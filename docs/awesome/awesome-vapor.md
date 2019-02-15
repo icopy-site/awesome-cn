@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Cellane/awesome-vapor"></div>
 ## Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-logo.png" align="right" width="150">](https://vapor.codes)
@@ -9,19 +10,7 @@
 - 使您的开发过程更简单，更愉快的工具;
 - 和更多！
 
-## Contents
 
-- [How to use](#how-to-use)
-- [Libraries](#libraries)
-- [Tools](#tools)
-- [Services](#services)
-- [Education](#education)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Newsletters](#newsletters)
-  - [Videos](#videos)
-- [Open-source Projects](#open-source-projects)
-- [License](#license)
 
 ## How to use
 

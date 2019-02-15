@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="wbinnssmith/awesome-promises"></div>
 <a href="https://promisesaplus.com/">
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
@@ -8,14 +9,7 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  不要与其他令人敬畏的承诺相混淆，例如“我向你保证一百万美元”或“我保证你会保持健康，永远不必再去健身房”.
 
-**目录**
 
-- [Resources, Blogs, and Books](#resources-blogs-and-books)
-- [Promises/A+ Implementations (ES6/ES2015 compatible)](#promisesa-implementations-es6es2015-compatible)
-  - [Strict Implementations](#strict-implementations)
-  - [Implementations with extras](#implementations-with-extras)
-  - [Fallbacks](#fallbacks)
-- [Convenience Utilities](#convenience-utilities)
 
 ## Resources, Blogs, and Books
 

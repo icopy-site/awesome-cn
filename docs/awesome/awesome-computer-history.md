@@ -1,26 +1,11 @@
+<div class="github-widget" data-repo="watson/awesome-computer-history"></div>
 ## Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
 由策展人保存的计算机历史视频，纪录片和相关民间传说的精选列表 [Thomas Watson](https://twitter.com/wa7son) .  灵感来自于 [awesome list thing](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) 受欢迎的.
 
-## Table of Contents
 
-- [Videos](#videos)
-  - [Old recordings](#old-recordings)
-  - [Documentaries](#documentaries)
-  - [Reflective interviews](#reflective-interviews)
-  - [Talks & Lectures](#talks--lectures)
-  - [Movies](#movies)
-  - [Commercials](#commercials)
-- [Audio](#audio)
-  - [Podcasts](#podcasts)
-- [Texts](#texts)
-  - [Folklore](#folklore)
-  - [Announcements and Memos](#announcements-and-memos)
-- [Source Code](#source-code)
-- [Websites](#websites)
-- [License](#license)
 
 ## Videos
 
@@ -53,7 +38,7 @@
 ### Documentaries
 
 - [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) （1984） - 关于1984年黑客大会的纪录片[7.6/10](https://www.imdb.com/title/tt1191116/)</sup>
-- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) （1990） - 与计算机科学家Clifford Stoll合作[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
+- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) （1996） - 个人电脑的历史[8.5/10](https://www.imdb.com/title/tt0115398/)</sup>
 - [The Internet: Behind the Web](https://www.youtube.com/watch?v=M9ebkjWU6Z4) （2000） - 关于从1950年代到21世纪互联网发展的纪录片.
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) （2000） -  Netscape的故事和Mozilla的诞生[7.3/10](https://www.imdb.com/title/tt0499004/)</sup>
@@ -71,7 +56,7 @@
 - [Something Ventured](https://www.imdb.com/title/tt1737747/) （2011年） - 早期风险投资的历史[7.0/10](https://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) （2011） - 记录信息技术时代，由活动和帮助构建和操纵它的人讲述[7.4/10](https://www.imdb.com/title/tt1830538/)</sup>
 - [We Are Legion: The Story of the Hacktivists](https://www.youtube.com/watch?v=ZHl0WI32XkY) （2012年） - 关于自我描述的“黑客行动主义”集体的运作和信仰的纪录片，匿名[7.3/10](https://www.imdb.com/title/tt2177843/)</sup>
-- [Silicon Valley](https://www.pbs.org/video/american-experience-silicon-valley/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[7.9/10](https://www.imdb.com/title/tt2547530/)</sup>
+- [Silicon Valley](https://www.pbs.org/video/american-experience-silicon-valley/) （2013年） - 关于硅谷开始的PBS“美国经验”纪录片[7.9/10](https://www.imdb.com/title/tt2547530/)</sup>
 - [TPB AFK: The Pirate Bay Away From Keyboard](https://www.youtube.com/watch?v=eTOKXCEwo_8) (2013) <sup>[7.6/10](https://www.imdb.com/title/tt2608732/)</sup>
 - [DEFCON: The Documentary](https://www.youtube.com/watch?v=3ctQOmjQyYg) （2013） - 关于最大的黑客大会DEFCON的纪录片[5.8/10](https://www.imdb.com/title/tt3010462/)</sup>
 - [Downloaded](https://www.youtube.com/watch?v=kSZqkn9hT5w) （2013） -  Napster Revolution，一部探索下载革命的纪录片[6.9/10](https://www.imdb.com/title/tt2033981/)</sup>

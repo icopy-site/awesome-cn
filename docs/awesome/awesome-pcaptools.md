@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="caesar0301/awesome-pcaptools"></div>
 Introduction
 ------------
 
@@ -8,53 +9,34 @@ Introduction
 **许可证**：Apache许可证v2.
 
 
-> * [Linux commands](#linuxcmds)
-> * [Traffic Capture](#capture)
-> * [Traffic Analysis/Inspection](#analysis)
-> * [DNS Utilities](#dnstools)
-> * [File Extraction](#fileextraction)
-> * [Related Projects](#others)
 
 
 
 Linux命令<a name="linuxcmds"></a>
 --------------------------------------
 
- * ** Bmon ** :(带宽监视器）是一种类似于nload的工具，它显示系统上所有网络接口的流量负载.  输出还包括图表和包含数据包级别详细信息的部分. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03 /bmon- 640x480.png)
 
  * ** Bwm-ng ** :(下一代带宽监视器）是另一种非常简单的实时网络负载监视器，它报告数据传输进出系统所有可用网络接口的速度摘要.  [截图]（）
 
- * ** CBM ** :(彩色带宽计）一个小小的简单带宽监视器，通过网络接口显示流量.  没有其他选项，只是实时显示和更新流量统计. [Screenshot](http://www.binarytides.com/blog /wp-content/uploads/2014/03/cbm.png)
 
- * ** Collectl **：以类似于dstat的样式报告系统统计信息，和dstat一样，它收集有关各种不同系统资源（如cpu，内存，网络等）的统计信息.这里有一个如何使用它的简单示例报告网络使用/带宽.  [截图]（）
+* **Collectl**: reports system statistics in a style that is similar to dstat, and like dstat it is gathers statistics about various different system resources like cpu, memory, network etc. Over here is a simple example of how to use it to report network usage/bandwidth. [Screenshot]()
 
  * ** Dstat **：是一个多功能工具（用python编写），可以监视不同的系统统计信息并以批处理方式模式报告它们，或者将数据记录到csv或类似文件中.  此示例显示如何使用dstat报告网络带宽[Screenshot]（）
 
  * ** Ifstat **：以批处理方式模式报告网络带宽.  输出的格式很容易使用其他程序或实用程序进行记录和解析.  [截图]（）
 
- * ** Iftop **：测量流经各个套接字连接的数据，它的工作方式与Nload不同.  Iftop使用pcap库捕获进出网络适配器的数据包，然后总结大小和计数以查找正在使用的总带宽.  尽管iftop报告了各个连接使用的带宽，但它无法报告特定套接字连接中涉及的进程名称/ ID.  但是基于pcap库，iftop能够过滤流量并报告过滤器指定的选定主机连接上的带宽使用情况. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/iftop.png)
 
- * ** Iptraf **：是一款交互式彩色IP Lan显示器.  它显示了各个连接以及主机之间流动的数据量. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/iptraf.png)
 
 * ** Jettettop **： [Jnettop](http://jnettop.kubs.info/wiki/) 是一个流量可视化器，它捕获通过其运行的主机的流量，并显示按其使用的带宽排序的流. [Screenshot](http://jnettop.kubs.info/wiki/?binary=internal%3A%2F%2F76195466cc3bca92f8de7b404e240844.gif)
 
- * ** Nethogs **：是一个小型的“网络顶级”工具，它显示了各个进程使用的带宽，并对列表进行排序，将最密集的进程放在首位.  在突然出现带宽峰值的情况下，快速打开nethogs并找到负责任的流程.  Nethogs报告PID，用户和程序的路径. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/nethogs.png)
 
- * ** Netload **：显示当前流量负载的小报告，以及自程序启动以来传输的总字节数.  没有更多的功能.  它是netdiag的一部分. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/netload.png)
 
-* ** Netwatch **：是netdiag工具集的一部分，它也显示本地主机和其他远程主机之间的连接，以及数据在每个连接上传输的速度. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/netwatch.png)
 
- * ** Nload **：是一个命令行工具，允许用户分别监控传入和传出流量.  它还绘制了一个图表来表示相同的，其规模可以调整.  简单易用，不支持多种选择. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/nload.png)
 
- * ** Pktstat **：实时显示所有活动连接，以及通过它们传输数据的速度.  它还显示连接的类型，即tcp或udp，以及有关http请求的详细信息（如果涉及）. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/pktstat.png)
 
- * ** Slurm **：是&#39;还&#39;另一个网络负载监视器，显示设备统计信息和ascii图.  它支持3种不同风格的图形，每种图形都可以使用c，s和l键激活.  功能简单，slurm不会显示有关网络负载的任何进一步细节. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/slurm.png)
 
-* **车速表**：另一个小而简单的工具，它可以通过给定的界面绘制出色和流出的流量图. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/speedometer.png)
 
- * ** Tcptrack **：类似于iftop，并使用pcap库捕获数据包并计算各种统计信息，例如每个连接中使用的带宽.  它还支持可用于监视特定连接的标准pcap过滤器. [Screenshot](http://www.binarytides.com/blog /wp-content/uploads/2014/03/tcptrack.png)
 
- * ** Trafshow **：报告每个连接上的当前活动连接，协议和数据传输速度.  它可以使用pcap类型过滤器过滤掉连接. [Screenshot](http://www.binarytides.com/blog/wp-content/uploads/2014/03/trafshow.png)
 
  * ** Vnstat **：与大多数其他工具略有不同.  它实际上运行后台服务/守护进程，并始终记录数据传输的大小.  接下来，它可用于生成网络使用历史的报告.  [截图]（）
 
@@ -103,11 +85,10 @@ Linux命令<a name="linuxcmds"></a>
 
 * [ECap](https://bitbucket.org/nathanj/ecap/wiki) :(外部捕获）是一个带有Web前端的分布式网络嗅探器.  Ecap是多年前在2005年写的，但tcpdump-workers邮件列表上的一篇文章要求提供类似的应用程序......所以这就是它.  如果有任何兴趣，更新它并再次进行处理会很有趣.
 
-* [EtherApe](http://etherape.sourceforge.net/) ：是以太网模拟的Unix的图形网络监视器.  它具有链路层，IP和TCP模式，以图形方式显示网络活动.  主机和链接的大小随流量而变化.  彩色编码协议显示.  它支持以太网，FDDI，令牌环，ISDN，PPP和SLIP设备.  它可以过滤要显示的流量，并且可以从文件读取流量以及从网络中生存.
+* [EtherApe](http://etherape.sourceforge.net/): is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display. It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
 
 * [HttpSniffer](https://github.com/caesar0301/http-sniffer) ：一种多线程工具，用于从PCAP文件中嗅探TCP流统计信息和嵌入式HTTP标头.  每个携带HTTP的TCP流都以JSON格式导出到文本文件.
 
-* [Ipsumdump](http://www.read.seas.harvard.edu/~kohler/ipsumdump/) ：将TCP / IP转储文件汇总为易于人类和程序可读的自描述ASCII格式.  Ipsumdump可以从网络接口，tcpdump文件和现有的ipsumdump文件中读取数据包.  必要时它将透明地解压缩tcpdump或ipsumdump文件.  它可以随机抽样流量，根据内容过滤流量，匿名化IP地址，并按时间戳对多个转储中的数据包进行排序.  此外，它还可以选择创建包含实际数据包数据的tcpdump文件.  使用CLICK作为插入模块也很方便.
 
 * [ITA](http://ita.ee.lbl.gov/) ：Internet流量存档是一个经过审核的存储库，支持广泛访问Internet网络流量的痕迹，由ACM SIGCOMM赞助.  这些迹线可用于研究网络动态，使用特性和增长模式，以及为跟踪驱动模拟提供基础.  该存档还可用于将原始跟踪数据减少为更易于管理的表单，生成合成跟踪以及分析跟踪的程序.
 
@@ -115,19 +96,19 @@ Linux命令<a name="linuxcmds"></a>
 
 * [Libnet](http://libnet.sourceforge.net/) ：是一组例程，用于帮助构建和处理网络数据包.  它为低级网络数据包整形，处理和注入提供了一个可移植的框架.  Libnet在IP层和链路层提供便携式数据包创建接口，以及一系列补充和补充功能.  使用libnet，可以轻松快速地完成快速简单的数据包组装应用程序.
 
-* [Libnids](http://libnids.sourceforge.net/): designed by Rafal Wojtczuk, is an implementation of an E-component of Network Intrusion Detection System. It emulates the IP stack of Linux 2.0.x. Libnids offers IP defragmentation, TCP stream assembly and TCP port scan detection. The most valuable feature of libnids is reliability. A number of tests were conducted, which proved that libnids predicts behaviour of protected Linux hosts as closely as possible.
+* [Libnids](http://libnids.sourceforge.net/) ：由Rafal Wojtczuk设计，是网络入侵检测系统的电子组件的实现.  它模拟Linux 2.0.x的IP堆栈.  Libnids提供IP碎片整理，TCP流组装和TCP端口扫描检测.  libnids最有价值的特征是可靠性.  进行了大量测试，证明libnids尽可能地预测受保护Linux主机的行为.
 
 * [Multitail](http://www.vanheusden.com/multitail) ：现在有一个colorscheme包含用于监视tcpdump输出.  它还可以过滤，将时间戳转换为时间串等等.
 
-* [Netsniff-ng](https://github.com/caesar0301/awesome-pcaptools/blob/master/www.github.com/borkmann/netsniff-ng)：Netsniff-ng是免费Linux网络实用程序的工具包，如果你愿意的话，它是你日常Linux网络管道的瑞士军刀.
+* [Netsniff-ng](https://github.com/caesar0301/awesome-pcaptools/blob/master/www.github.com/borkmann/netsniff-ng): Netsniff-ng is a toolkit of free Linux networking utilities, a Swiss army knife for your daily Linux network plumbing if you will.
 
 * [NetDude](http://netdude.sourceforge.net/) :( NETwork DUmp数据显示器和编辑器）.  在他们的网页上，“它是一个基于GUI的工具，允许您对tcpdump跟踪文件中的数据包进行详细更改.”
 
 * [Network Expect](http://www.netexpect.org/) ：是一个框架，允许轻松构建可与网络流量交互的工具.  在脚本之后，可以将流量注入到网络中，并且可以基于所接收的网络流量来做出决策并采取行动.  解释语言提供分支和高级控制结构，以指导与网络的交互.  Network Expect使用libpcap进行数据包捕获，使用libwireshark（来自Wireshark项目）进行数据包解析任务.  （GPL，BSD / Linux / OSX）.
 
-* [Ntop](http://www.ntop.org/): Ntop is a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform and on Win32 as well.
+* [Ntop](http://www.ntop.org/) ：Ntop是一个网络流量探测器，显示网络使用情况，类似于流行的顶级Unix命令.  ntop基于libpcap，它以可移植的方式编写，以便在每个Unix平台和Win32上运行.
 
-* [Ntopng](http://www.ntop.org/products/ntop/): Ntopng is the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
+* [Ntopng](http://www.ntop.org/products/ntop/) ：Ntopng是原始ntop的下一代版本，它是一个显示网络使用情况的网络流量探测器，类似于流行的顶级Unix命令.  ntop基于libpcap，它以可移植的方式编写，以便在每个Unix平台，MacOSX和Win32上运行.
 
 * [Pcap2har](https://github.com/andrewf/pcap2har)：使用库dpkt将.pcap网络捕获文件转换为HTTP存档文件的程序.
 
@@ -137,7 +118,6 @@ Linux命令<a name="linuxcmds"></a>
 
 * [pyshark](http://kiminewt.github.io/pyshark/) ：tshark的Python包装器，允许使用wireshark解析器进行python数据包解析.  有很多python数据包解析模块，这一个是不同的，因为它实际上并不解析任何数据包，它只是使用tshark（wireshark命令行实用程序）能力导出XML来使用它的解析.
 
-* [Sanitize](http://ita.ee.lbl.gov/html/contrib/sanitize.html) ：Sanitize是五个Bourne shell脚本的集合，用于通过重新编号主机和剥离数据包内容来减少tcpdump跟踪以解决安全和隐私问题.  每个脚本都将tcpdump跟踪文件作为输入，并生成stdout固定列格式的简化ASCII文件.
 
 * [Scapy](http://www.secdev.org/projects/scapy/) ：Scapy是一个功能强大的交互式数据包操作程序.  它能够伪造或解码大量协议的数据包，通过线路发送，捕获它们，匹配请求和回复等等.  它可以轻松处理大多数经典任务，如扫描，跟踪路由，探测，单元测试，攻击或网络发现（它可以取代hping，85％的nmap，arpspoof，arp-sk，arping，tcpdump，tethereal，p0f等）.  它在许多其他工具无法处理的许多其他特定任务中也表现良好，例如发送无效帧，注入自己的802.11帧，组合技术（VLAN跳跃+ ARP缓存中毒，WEP加密通道上的VOIP解码，等等）. ..）等
 
@@ -147,21 +127,19 @@ Linux命令<a name="linuxcmds"></a>
 
 * [Socket Sentry](http://code.google.com/p/socket-sentry)：Socket Sentry是KDE Plasma的实时网络流量监控器，与iftop和netstat等工具的精神相同.
 
-* [TCP-Reduce](http://ita.ee.lbl.gov/html/contrib/tcp-reduce.html) ：TCP-Reduce是Bourne shell脚本的集合，用于将tcpdump跟踪减少为跟踪中存在的每个TCP连接的一行摘要.  脚本仅查看TCP SYN / FIN / RST数据包.  跟踪中没有SYN数据包的连接（例如跟踪开始时正在进行的连接）将不会出现在摘要中.  被吞没的数据包（那些丢失了一些内容的数据包）被报告给stderr作为bogon并被丢弃.  有时，脚本会因重复序列号的重新传输而被欺骗，并报告错误的巨大连接大小 - 始终检查大型连接（比如说100 MB或更多）的合理性.
 
 * [Tcpdpriv](http://ita.ee.lbl.gov/html/contrib/tcpdpriv.html) ：Tcpdpriv是用于从网络接口上收集的数据包（或从使用-w参数创建的跟踪文件到tcpdump）中删除机密信息（用户数据和地址）的程序.  Tcpdpriv删除TCP和UDP的有效负载，以及其他协议的整个IP有效负载.  它实现了几种地址加扰方法;  顺序编号方法及其变体，以及保留地址前缀的哈希方法.
 
 * [Tcpflow](https://github.com/simsong/tcpflow) ：一种程序，捕获作为TCP连接（流）的一部分传输的数据，并以便于协议分析或调试的方式存储数据.  像&#39;tcpdump&#39;这样的程序显示了在线上看到的数据包的摘要，但通常不会存储实际传输的数据.  相反，tcpflow重建实际数据流并将每个流存储在单独的文件中以供以后分析. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
-* [Tcplook](http://ita.ee.lbl.gov/html/contrib/tracelook.html) ：Tracelook是一个Tcl / TK程序，用于以图形方式查看使用tcpdump的-w参数创建的跟踪文件的内容.  Tracelook应该查看所有协议，但目前只查看TCP连接.  该程序很慢并且使用系统资源很大.
 
-* [Tcpreplay](http://tcpreplay.synfin.net/)：使用libnet重播接口上的pcap文件.
+* [Tcpreplay](http://tcpreplay.synfin.net/): Replays a pcap file on an interface using libnet.
 
 * [Tcpslice](https://github.com/caesar0301/awesome-pcaptools/blob/master/https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/tcpslice.tar.gz) ：Tcpslice是一个工具，用于提取使用tcpdump的-w标志生成的数据包跟踪文件的部分.  它可以组合多个跟踪文件，和/或基于时间提取一个或多个跟踪的部分. [From the tcpdump CVS server](https://github.com/caesar0301/awesome-pcaptools/blob/master/https://github.com/caesar0301/awesome-pcaptools/blob/master/ftp://ftp.ee.lbl.gov/tcpslice.tar.gz).
 
 * [Tcpsplit](http://www.icir.org/mallman/software/tcpsplit/) ：将单个libpcap数据包跟踪分解为若干子跟踪的工具，打破沿TCP连接边界的跟踪，以便TCP连接不会最终分裂为两个子跟踪.  这对于使大型跟踪文件易于进行深入分析以及对跟踪进行子集化以仅在跟踪的一部分上进行分析非常有用.
 
-* [Tcpstat](http://www.frenchfries.net/paul/tcpstat/): Tcpstat reports certain network interface statistics much like vmstat does for system statistics. tcpstat gets its information by either monitoring a specific interface, or by reading previously saved tcpdump data from a file.
+* [Tcpstat](http://www.frenchfries.net/paul/tcpstat/) ：Tcpstat报告某些网络接口统计信息，就像vmstat用于系统统计信息一样.  tcpstat通过监视特定接口或从文件中读取以前保存的tcpdump数据来获取其信息.
 
 * [Tcptrace](http://tcptrace.org/index.html) ：俄亥俄大学Shawn Ostermann编写的一个工具，用于分析TCP转储文件.  它可以将几个流行的数据包捕获程序生成的文件作为输入，包括tcpdump，snoop，etherpeek，HP Net Metrix和WinDump.  tcptrace可以生成几种不同类型的输出，其中包含有关每个连接的信息，例如已用时间，发送和接收的字节和段，重新传输，往返时间，窗口广告，吞吐量等.  它还可以生成许多图表以供进一步分析.
 
@@ -177,7 +155,7 @@ Linux命令<a name="linuxcmds"></a>
 
 * [Xplot](http://www.xplot.org/)：程序xplot是在20世纪80年代后期编写的，用于支持TCP数据包跟踪的分析.
 
-* [yaraPcap](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+* [yaraPcap](https://github.com/kevthehermit/YaraPcap)：使用YARA处理HTTP Pcaps
 
 * [yaraprocessor](https://github.com/MITRECND/yaraprocessor) ：使用yaraprocessor YARA可以针对单个数据包有效负载以及部分或全部有效负载的串联运行.  它最初是为在Chopshop中使用而编写的，但也可以在没有它的情况下使用.
 
@@ -199,7 +177,6 @@ DNS实用程序<a name="dnstools"></a>
 文件提取<a name="fileextraction"></a>
 --------------------------------------------
 
-* [Chaosreader](http://chaosreader.sourceforge.net/) ：一个免费软件工具，用于跟踪TCP / UDP / ...会话并从snoop或tcpdump日志中获取应用程序数据.  这是一种“any-snarf”程序，因为它将从网络流量日志中捕获的数据中获取telnet会话，FTP文件，HTTP传输（HTML，GIF，JPEG，...），SMTP电子邮件...... .  创建一个html索引文件，链接到所有会话详细信息，包括telnet，rlogin，IRC，X11和VNC会话的实时重播程序;  和报告，如图像报告和HTTP GET / POST内容报告.
 
 * [Dsniff](http://www.monkey.org/~dugsong/dsniff/) ：Dsniff是一系列用于网络审计和渗透测试的工具.  dsniff，filesnarf，mailsnarf，msgsnarf，urlsnarf和webspy被动地监视网络以获取有趣的数据（密码，电子邮件，文件等）.  arpspoof，dnsspoof和macof有助于拦截攻击者通常无法获得的网络流量（例如，由于第2层交换）.  sshmitm和webmitm通过利用ad-hoc PKI中的弱绑定，实现针对重定向的SSH和HTTPS会话的活跃的中间人攻击.
 
@@ -219,7 +196,6 @@ DNS实用程序<a name="dnstools"></a>
 
 * [Tcpxtract](http://tcpxtract.sourceforge.net/) ：是一种基于文件签名从网络流量中提取文件的工具.  基于文件类型页眉和页脚（有时称为“雕刻”）提取文件是一种古老的数据恢复技术.
 
-* [Xplico](http://www.xplico.org/about) ：Xplico的目标是从互联网流量中提取捕获包含的应用程序数据.  例如，从pcap文件中，Xplico提取每个电子邮件（POP，IMAP和SMTP协议），所有HTTP内容，每个VoIP呼叫（SIP），FTP，TFTP等.  Xplico不是网络协议分析器.  Xplico是一个开源网络取证分析工具（NFAT）.  Xplico是根据GNU通用公共许可证和一些脚本在Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported（CC BY-NC-SA 3.0）许可下发布的.
 
 
 

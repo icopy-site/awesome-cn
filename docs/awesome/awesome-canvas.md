@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="raphamorim/awesome-canvas"></div>
 ## Awesome Canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,20 +11,9 @@
 
 ## Summary
 
-- [Canvas](#canvas)
-    - [Definition](#definition)
-    - [Examples](#examples)
 
-- [Libraries](#libraries)
 
-- [Resources](#resources)
-    - [Talks](#talks)
-    - [Books](#books)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
-    - [Tutorials](#tutorials)
 
-- [License](#license)
 
 ## Canvas
 
@@ -65,7 +55,7 @@
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)]•使用画布创建星形延时天空的示例.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)]•关于在画布中生成2D树的演示.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)]•简单的三角学可视化.
-* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) •基于块的HTML5视频销毁，最好在基于webkit的浏览器中查看.
+* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)]•刮水器用帆布接受生活.
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)]•一个简单的画布示例，显示了Lorenz atractor
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)]•关于矢量位置和运动的极好例子.
@@ -79,6 +69,7 @@
 
 - [Akihabara](http://www.kesiev.com/akihabara/) 是用于使用Javascript和canvas标签制作基于像素的游戏的HTML5游戏库.
 - [ChemDoodle](http://web.chemdoodle.com/) 是一个开源化学和化学信息学工具包，其中canvas用于解决常见的化学相关任务，以各种不同的方式显示分子.
+- [EaselJS](https://createjs.com/easeljs)  是一个JavaScript库，可以轻松地使用HTML5 Canvas元素.  适用于创建游戏，生成艺术和其他高度图形化的体验.  EaselJS是CreateJS的一部分 -  CreateJS是一个模块化的库和工具，它们可以一起或独立地通过HTML5在开放Web技术上实现丰富的交互式内容.
 - [d3](https://github.com/d3/d3)  （或D3.js）是一个JavaScript库，用于使用Web标准可视化数据.  D3可帮助您使用SVG，Canvas和HTML将数据变为现实.
 - [fabric.js](http://fabricjs.com) 在canvas元素之上提供交互式对象模型
 并且还具有SVG到画布（和画布到SVG）解析器
@@ -97,7 +88,7 @@
 - [Three.js](http://threejs.org/) 是一个javascript库，可以在浏览器中制作WebGL  -  3D，但是你可以 [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
-- [Visualize](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+- [Visualize](https://github.com/filamentgroup/jQuery-Visualize) 是一个JQuery插件，使用HTML canvas元素从表格数据创建图表和图形.
 
 
 ### For other purposes, but still use canvas

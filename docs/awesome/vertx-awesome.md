@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="vert-x3/vertx-awesome"></div>
 ## Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/logo-sm.png" align="right" width="250">](http://vertx.io)
@@ -14,35 +15,7 @@
 
 对于Vert.x版本2检查 [this page](https://github.com/vert-x3/vertx-awesome/blob/master/./vert-x2.md).
 
-## Contents
 
-- [Books](#books)
-- [Build tools](#build-tools)
-- [Web Frameworks](#web-frameworks)
-- [Authentication Authorisation](#authentication-authorisation)
-- [Database Clients](#database-clients)
-- [Integration](#integration)
-- [Middleware](#middleware)
-- [Language Support](#language-support)
-- [Reactive](#reactive)
-- [Sync Thread Non Block](#sync-thread-non-block)
-- [Vert.x Event Bus Clients](#vertx-event-bus-clients)
-- [Cluster Managers](#cluster-managers)
-- [Cloud Support](#cloud-support)
-- [Docker](#docker)
-- [Microservices](#microservices)
-- [Search Engines](#search-engines)
-- [Service Factory](#service-factory)
-- [Config](#config)
-- [Dependency Injection](#dependency-injection)
-- [Testing](#testing)
-- [Development Tools](#development-tools)
-- [Miscellaneous](#miscellaneous)
-- [Distribution](#distribution)
-- [Examples](#examples)
-- [Deployment](#deployment)
-- [Utilities](#utilities)
-- [Front-End](#front-end)
 
 ## Books
 
@@ -57,7 +30,6 @@
 
 ## Web Frameworks
 
-* [Vert.x Web](https://raw.githubusercontent.com/vert-x3/vertx-web)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x全功能Web工具包.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) - 创建JAX-RS [Jersey](https://jersey.java.net/) Vert.x中的资源.
 * [Kovert](https://github.com/kohesive/kovert) -  Kotlin + Vert.x Web的隐形REST框架.
 * [Handlers](https://github.com/spriet2000/vertx-handlers-http) - 为Vert.x打开Web框架.
@@ -73,13 +45,6 @@
 
 ## Authentication Authorisation
 
-* [Vert.x Auth JDBC](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-jdbc)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于JDBC的Vert.x身份验证/授权.
-* [Vert.x Auth JWT](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-jwt)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于JSON Web令牌的Vert.x授权.
-* [Vert.x Auth Shiro](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-shiro)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x AuthN / AuthZ基于 [Apache Shiro](http://shiro.apache.org/).
-* [Vert.x Auth htdigest](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-htdigest)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于Vert.x授权/认证 [Apache htdigest](https://httpd.apache.org/docs/2.4/programs/htdigest.html).
-* [Vert.x Auth Mongo](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-mongo)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于Vert.x授权/认证 [MongoDB](https://www.mongodb.com/).
-* [Vert.x Auth OAuth2](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-oauth2) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于Vert.x授权/认证 [OAuth 2](https://oauth.net/2/).
-* [Vert.x Auth htpasswd](https://raw.githubusercontent.com/vert-x3/vertx-auth/tree/master/vertx-auth-htpasswd) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 基于Vert.x授权/认证 [htpasswd](https://httpd.apache.org/docs/2.4/programs/htpasswd.html).
 
 * [Vert.x-Pac4j](https://github.com/pac4j/vertx-pac4j) - 使用执行Vert.x身份验证/授权 [pac4j](http://www.pac4j.org/).
 
@@ -133,7 +98,7 @@
   * [STOMP](https://raw.githubusercontent.com/vert-x3/vertx-stomp) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Kafka客户端和服务器.
   * [ZeroMQ](https://github.com/dano/vertx-zeromq) -  ZeroMQ事件总线桥.
   * [MQTT Broker](https://github.com/GruppoFilippetti/vertx-mqtt-broker) -  MQTT Broker（MQTT版本3.1.1和3.1兼容）.
-  * [Azure ServiceBus](https://github.com/TextBack/vertx-azure-servicebus) -  Azure [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) 生产者和消费者（完全异步，不使用Microsoft Azure SDK）.
+  * [Azure ServiceBus](https://github.com/TextBack/vertx-azure-servicebus) -  Azure [ServiceBus](https://azure.microsoft.com/en-us/services/service-bus/) producer and consumer (fully async, doesn't use Microsoft Azure SDK).
   * [AMQP 1.0 - Kafka bridge](https://github.com/rhiot/amqp-kafka-bridge) - 使用AMQP 1.0协议向Apache Kafka发送/接收消息的桥接器.
   * [Vert.x Kafka Client](https://raw.githubusercontent.com/vert-x3/vertx-kafka-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Apache Kafka客户端，用于从/向Apache Kafka集群读取和发送消息.
 
@@ -173,14 +138,7 @@
 
 * Vert.x *的编程语言支持
 
-* [Ceylon](https://raw.githubusercontent.com/vert-x3/vertx-lang-ceylon) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 锡兰支持.
-* [Groovy](https://raw.githubusercontent.com/vert-x3/vertx-lang-groovy) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Groovy支持.
-* [Java](https://raw.githubusercontent.com/eclipse/vert.x) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x主存储库（包括Java API）.
-* [JavaScript](https://raw.githubusercontent.com/vert-x3/vertx-lang-js) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  JavaScript支持.
 * [Python](https://github.com/vert-x3/vertx-lang-python) -  Python支持.
-* [Ruby](https://raw.githubusercontent.com/vert-x3/vertx-lang-ruby) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Ruby支持.
-* [Scala](https://raw.githubusercontent.com/vert-x3/vertx-lang-scala) - <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Scala支持.
-* [Kotlin](https://raw.githubusercontent.com/vert-x3/vertx-lang-kotlin) - <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Kotlin支持.
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) -  TypeScript支持.
 * [EcmaScript](https://github.com/reactiverse/es4x) -  EcmaScript&gt; = 6（JavaScript）支持.
 
@@ -190,10 +148,6 @@
 
 ## Reactive
 
-* [Reactive Streams](https://raw.githubusercontent.com/vert-x3/vertx-reactive-streams) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x Reactive Streams.
-* [Vert.x Rx](https://raw.githubusercontent.com/vert-x3/vertx-rx) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x Reactive Extensions.
-* [Vert.x Sync](https://raw.githubusercontent.com/vert-x3/vertx-sync) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x光纤支持.
-* [Kotlin coroutines](https://raw.githubusercontent.com/vert-x3/vertx-lang-kotlin/tree/master/vertx-lang-kotlin-coroutines) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vertx对kotlin协同程序的支持.
 * [vertx-util](https://github.com/cyngn/vertx-util) -  Vert.x的轻量级承诺和锁存器.
 * [QBit](https://github.com/advantageous/qbit)   - 在Vert.x Async Callbacks中轻松运行的异步类型的类似actor的lib.  回调管理.
 * [VxRifa](https://nsforth.github.io/vxrifa) -  Vert.X的实用程序库，允许在通过EventBus进行通信时使用强类型接口.
@@ -224,32 +178,19 @@
 
 * Vert.x集群管理器SPI *的实现
 
-* [Hazelcast Cluster Manager](https://raw.githubusercontent.com/vert-x3/vertx-hazelcast) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Hazelcast集群经理.
-* [Ignite Cluster Manager](https://raw.githubusercontent.com/vert-x3/vertx-ignite) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Ignite集群管理器.
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) -  JGroups集群管理器.
-* [Zookeeper Cluster Manager](https://raw.githubusercontent.com/vert-x3/vertx-zookeeper) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Zookeeper集群管理器.
 * [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - 安 [Atomix](http://atomix.io) 基于Vert.x 3的集群管理器实现.
-* [Infinispan Cluster Manager](https://raw.githubusercontent.com/vert-x3/vertx-infinispan) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Infinispan集群经理.
 * [Consul Cluster Manager](https://github.com/romalev/vertx-consul-cluster-manager) -  Consul集群经理.
 
 ## Cloud Support
 
-* [OpenShift DIY cartridge](https://raw.githubusercontent.com/vert-x3/vertx-openshift-diy-quickstart) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 使用Vert.x的OpenShift DIY盒式磁带.
-* [OpenShift Vert.x cartridge](https://raw.githubusercontent.com/vert-x3/vertx-openshift-cartridge) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 使用Vert.x的OpenShift Vert.x盒式磁带.
 * [S3](https://github.com/hubrick/vertx-s3-client) - 适用于S3的全功能Vert.x客户端.
 
 ## Docker
 
-* [Docker images](https://raw.githubusercontent.com/vert-x3/vertx-stack/tree/master/stack-docker) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x的Docker镜像.
 
 ## Microservices
 
-* [Service Discovery](https://raw.githubusercontent.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery" height="16px"> -  Vert.x服务发现.
-* [Circuit Breaker](https://raw.githubusercontent.com/vert-x3/vertx-circuit-breaker) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Circuit Breaker" height="16px"> -  Vert.x断路器.
-* [Service Discovery - Consul](https://raw.githubusercontent.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Consul" height="16px"> - [Consul](https://www.consul.io/) extension to Vert.x Service Discovery.
-* [Service Discovery - Docker links](https://raw.githubusercontent.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Docker Links" height="16px"> - [Docker](https://www.docker.com/) extension to Vert.x Service Discovery.
-* [Service Discovery - Kubernetes](https://raw.githubusercontent.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Kubernetes" height="16px"> - [Kubernetes](http://kubernetes.io/) extension to Vert.x Service Discovery.
-* [Service Discovery - Redis backend](https://raw.githubusercontent.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) Vert.x服务发现的存储后端.
 * [Vert.x GraphQL Service Discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) 服务发现和查询Vert.x微服务.
 * [HTTP Request Multiplexer - Kalfor](https://github.com/derveloper/kalfor)   - 将多个HTTP GET请求合并到一个POST中.  Facebook的简单替代品 [GraphQL](http://graphql.org/) 和Netflix [Falcor](http://netflix.github.io/falcor/).
 * [Resilience4j](https://github.com/resilience4j/resilience4j)   -  Resilience4j是一个专为Java8和函数式编程而设计的容错库.  Resilience4j提供用于断路，速率限制，Bulkheading，自动重试，响应缓存和度量测量的模块.
@@ -262,9 +203,6 @@
 
 ## Service Factory
 
-* [Service Factory](https://raw.githubusercontent.com/vert-x3/vertx-service-factory) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x服务工厂.
-* [Maven Service Factory](https://raw.githubusercontent.com/vert-x3/vertx-maven-service-factory) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Maven Vert.x服务工厂.
-* [HTTP Service Factory](https://raw.githubusercontent.com/vert-x3/vertx-http-service-factory) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x HTTP服务工厂.
 * [Node.js Service Factory](https://github.com/mellster2012/vertx-nodejs-service-factory) -  Vert.x Node.js服务工厂.
 * [Eclipse SISU Service Factories](https://github.com/cstamas/vertx-sisu) -  Vert.x集成 [Eclipse SISU](https://www.eclipse.org/sisu/) DI容器为`vertx-service-factory`和`vertx-maven-service-factory`提供替代品.
 
@@ -285,16 +223,14 @@
 
 ## Testing
 
-* [Vert.x Unit](https://raw.githubusercontent.com/vert-x3/vertx-unit) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x的异步多语言单元测试.
 
 ## Development Tools
 
-* [Vert.x shell](https://raw.githubusercontent.com/vert-x3/vertx-shell)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 允许从命令行与Vert.x进行交互.
 * [Vert.x health check](https://github.com/vert-x3/vertx-health-check) - 允许Vert.x项目中的远程运行状况检查.
 * [Vert.x Hot](https://github.com/dazraf/vertx-hot) - 用于热部署Maven Vert.x项目的Maven插件.
 * [slush-vertx](https://www.npmjs.com/package/slush-vertx) - 用于不同语言和构建工具的模板驱动的Vert.x项目生成器.
 * [Vert.x for Visual Studio Code](https://github.com/pmlopes/VertxSnippet)   -  Vert.x的Visual Studio代码（多语言）插件.  也可以从 [Marketplace](https://marketplace.visualstudio.com/items?itemName=pmlopes.vertxsnippet).
-* [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) -  Vert.x应用程序的基于浏览器的项目启动器和项目模板.
+* [Vert.x Starter](http://www.jetdrone.xyz/vertx-starter/) - A browser-based project starter and project templates for Vert.x applications.
 * [Vert.x LiveReload](https://github.com/ybonnel/vertx-livereload) -  Vert.x应用程序的简单实时加载服务器.
 
 ## Miscellaneous
@@ -307,14 +243,9 @@
 
 ## Distribution
 
-* [Vert.x Stack](https://raw.githubusercontent.com/vert-x3/vertx-stack) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  Vert.x +认可的模块.
 
 ## Examples
 
-* [Vert.x blueprint - Microservice application](https://raw.githubusercontent.com/sczyh30/vertx-blueprint-microservice) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 正式的Vert.x蓝图，展示了如何构建复杂的微服务应用程序.
-* [Vert.x blueprint - Job Queue](https://raw.githubusercontent.com/sczyh30/vertx-blueprint-job-queue) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 正式的Vert.x蓝图，展示了如何构建分布式作业处理应用程序.
-* [Vert.x blueprint - TODO backend](https://raw.githubusercontent.com/sczyh30/vertx-blueprint-todo-backend) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 官方Vert.x蓝图，展示了如何为TODO应用程序构建后端.
-* [Vert.x examples](https://raw.githubusercontent.com/vert-x3/vertx-examples) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 官方Vert.x示例，包括Web示例，如何使用官方数据库客户端等.
 * [Vert.x feeds](https://github.com/aesteve/vertx-feeds) - 使用Vert.x，Gradle，MongoDB，Redis，Handlebars模板，AngularJS，事件总线和SockJS构建的RSS聚合器示例.
 * [Vert.x Markdown service](https://github.com/aesteve/vertx-markdown-service) - 关于如何使用的示例 [service-proxy](https://github.com/vert-x3/vertx-service-proxy) 与Gradle.
 * [Example using event bus and service proxies to connect vertx and node](https://github.com/advantageous/vertx-node-ec2-eventbus-example) -  wiki描述的分步示例，显示如何使用事件总线和服务代理连接Vert.x和Node.

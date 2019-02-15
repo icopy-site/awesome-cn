@@ -1,6 +1,7 @@
+<div class="github-widget" data-repo="sturobson/BEM-resources"></div>
 ## BEM Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<i>Everyone loves a bit of BEM in their development.</i> <b>在开发过程中，每个人都喜欢BEM。</b> <i>Here&#39;s just the starts of hopefully a large list of resources.</i> <b>这里只是一大堆资源的开头。</b>
+ 在开发过程中，每个人都喜欢BEM.  这里只是一大堆资源的开头.
 
 ## Articles
 

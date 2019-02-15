@@ -1,17 +1,11 @@
+<div class="github-widget" data-repo="bfred-it/Awesome-WebExtensions"></div>
 ## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;精选资源的精选列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
 
  WebExtensions是一个用于开发浏览器加载项的跨浏览器系统.  在很大程度上系统与之兼容 [extension API](https://developer.chrome.com/extensions)  由谷歌Chrome和Opera支持.  为这些浏览器编写的扩展程序在大多数情况下都可以在Firefox或Firefox中运行 [Microsoft Edge](https://developer.microsoft.com/en-us/microsoft-edge/platform/documentation/extensions/) 只是 [a few changes](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Porting_a_Google_Chrome_extension).
 
-## Contents
 
-- [Getting Started](#getting-started)
-- [Community](#community)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [Tools](#tools)
-- [Boilerplates](#boilerplates)
-- [Sample Extensions](#sample-extensions)
 
 ## Getting started
 

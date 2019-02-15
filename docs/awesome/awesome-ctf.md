@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="apsdehal/awesome-ctf"></div>
 ## Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的清单 [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)  （CTF）框架，库，资源，软件和教程.  此列表旨在帮助初学者和经验丰富的CTF玩家在一个地方找到与CTF相关的所有内容.
@@ -13,34 +14,8 @@
  构建ctf中使用的工具集合需要时间并记住它们.  这个回购有助于将所有这些分散的工具保存在一个地方.
 
 
-### Contents
 
-- [Awesome CTF](#awesome-ctf)
-  - [Create](#create)
-    - [Forensics](#forensics)
-    - [Platforms](#platforms)
-    - [Steganography](#steganography)
-    - [Web](#web)
-  - [Solve](#solve)
-    - [Attacks](#attacks)
-    - [Bruteforcers](#bruteforcers)
-    - [Cryptography](#crypto)
-    - [Exploits](#exploits)
-    - [Forensics](#forensics-1)
-    - [Networking](#networking)
-    - [Reversing](#reversing)
-    - [Services](#services)
-    - [Steganography](#steganography-1)
-    - [Web](#web-1)
 
-- [Resources](#resources)
-  - [Operating Systems](#operating-systems)
-  - [Starter Packs](#starter-packs)
-  - [Tutorials](#tutorials)
-  - [Wargames](#wargames)
-  - [Websites](#websites)
-  - [Wikis](#wikis)
-  - [Writeups Collections](#writeups-collections)
 
 ## Create
 

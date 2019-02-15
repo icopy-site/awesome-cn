@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="yrgo/awesome-eg"></div>
 ## Awesome Educational Games [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Educational Games" width="150">](https://en.m.wikipedia.org/wiki/Educational_game)
@@ -8,16 +9,7 @@
 
 > [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) 旨在教人们关于某些主题，扩展概念，加强发展，理解历史事件或文化，或协助他们学习技能 -  [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
 
-#### Contents
 
-- [Art & Design](#art--design)
-- [Articles](#articles)
-- [CSS](#css)
-- [Editors](#editors)
-- [Languages](#languages)
-- [Math & Computer Science](#math--computer-science)
-- [Music](#music)
-- [Programming](#programming)
 
 ## Art & Design
 

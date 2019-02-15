@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="JesseTG/awesome-qt"></div>
 ## Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/JesseTG/awesome-qt/ef9f71a9/qt.svg" align="right" width="100">](https://www.qt.io)
@@ -13,25 +14,7 @@
   - 任何带有OctoCat的列表项：octocat：有一个GitHub仓库或组织;  点击它查看源代码！
 - 使用此列出项目：package：icon具有托管在其他位置的源代码.
 
-## Contents
 
-- [Official Resources](#official-resources)
-- [Communities](#communities)
-  - [Official](#official)
-  - [Unofficial](#unofficial)
-- [Tools](#tools)
-  - [Official Tools](#official-tools)
-  - [Third-Party Tools](#third-party-tools)
-- [Bindings in Other Languages](#bindings-in-other-languages)
-- [Libraries](#libraries)
-  - [Integrations](#integrations)
-  - [New Functionality](#new-functionality)
-- [Software Repositories](#software-repositories)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Software that Uses Qt](#software-that-uses-qt)
-- [Other Relevant Awesome Lists](#other-relevant-awesome-lists)
-- [License](#license)
 
 ## Official Resources
 
@@ -106,7 +89,7 @@
 
 ## Libraries
 
- 本节介绍两种第三方库;  提供自己全新功能的那些（例如小部件，处理特定文件格式），以及提供与现有软件集成的那些（例如脚本语言，REST API的客户端，已建立协议的实现）.
+This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
 
 
 ### Integrations
@@ -217,7 +200,7 @@
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - 以消费者为中心的虚拟化
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator)   - 吃东西吃狗粮的东西.  在上市 [official tools](#official-tools)，但不在这里列出它感觉不对.
 - [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - 用于远程角色扮演游戏的虚拟桌面.
-- [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
+- [RUBE](https://www.iforce2d.net/rube) - 任何使用Box2D物理引擎的游戏的关卡设计工具。
 - [TeamSpeak](https://www.teamspeak.com) - 当游戏玩家希望在不支持游戏的游戏中进行语音聊天时，他们会使用此功能.
 - [Telegram Desktop](https://desktop.telegram.org) [:octocat:](https://github.com/telegramdesktop/tdesktop)   - 保证你的谈话得好，你会提高潜在窃听者的血压.  桌面客户端使用Qt并且是开源的.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled)   - 也许是世界上最受欢迎的tilemap编辑器.  适合游戏中的关卡设计.

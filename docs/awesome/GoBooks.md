@@ -1,10 +1,6 @@
+<div class="github-widget" data-repo="dariubs/GoBooks"></div>
 去书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
-* [Books](#books)
- * [Starter Books](#starter-books)
- * [Advanced Books](#advanced-books)
- * [Web Development](#web-development)
-* [Resources](#resources)
 
 
 **Books**
@@ -73,7 +69,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 Alan AA Donovan和Brian W. Kernighan向您展示如何写清楚
 和惯用去解决现实世界的问题.
 本书不假设Go的先验知识或经验
-任何特定的语言，无论你是否，你都会发现它是可访问
+any specific language, so you'll find it accessible whether you're
 最适合使用JavaScript，Ruby，Python，Java或C ++.
 
 这本书有数百个有趣和实用的例子
@@ -99,7 +95,7 @@ Alan AA Donovan和Brian W. Kernighan向您展示如何写清楚
 
 <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
-Go, commonly referred to as golang, is a programming language initially developed at Google in 2007. This book helps you to get started with Go programming. It describes all the elements of the language and illustrates their use with code examples.
+ Go，通常被称为golang，是一种最初在Google于2007年开发的编程语言.本书可帮助您开始使用Go编程.  它描述了该语言的所有元素，并用代码示例说明了它们的用法.
 
 ### [Go Recipes](http://www.apress.com/us/book/9781484211892)
 
@@ -111,7 +107,6 @@ Go, commonly referred to as golang, is a programming language initially develope
 
 <a href="https://www.packtpub.com/application-development/learning-go-programming"><img src="https://vladimirvivien.github.io/learning-go/front-cover-small-243x300.jpg" width="120px"/></a>
 
- * Learning Go Programming *是一本旨在帮助新手和经验丰富的程序员使用Go编程语言的书.  这本书提炼了语言规范，文档，博客，视频，幻灯片和作者的写作经验.内容精心提供了适当的深度和见解，以帮助您理解语言及其设计.
 
 ### [API Foundations in Go](https://leanpub.com/api-foundations)
 

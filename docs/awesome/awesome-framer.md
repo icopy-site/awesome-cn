@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="podo/awesome-framer"></div>
 ## Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/podo/awesome-framer/master/logo.png" align="right" width="75">](https://framer.com/)
@@ -6,19 +7,7 @@
 
 [Framer](http://framer.com)  是一个创建动画和交互式原型的工具.  它使用现代Web技术（如JavaScript，HTML和CSS）来扩展高级用户的功能，并自动更正，直观的错误消息或应用内文档，以降低初学者的学习曲线.
 
-## Contents
 
-* [General](#general)
-* [Articles](#articles)
-* [Videos](#videos)
-* [Tutorials](#tutorials)
-* [Video Course](#video-courses)
-* [Books](#books)
-* [Examples](#examples)
-* [Modules](#modules)
-* [UI Libraries](#ui-libraries)
-* [Sites](#sites)
-* [Other](#other)
 
 ---
 
@@ -37,7 +26,7 @@
 * [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - 讨论流行设计工具的创建者（包括Framer的Koen Bok）关于原型设计的价值，为设计师设计产品的经验教训以及UX工具的未来.
 
 ## Tutorials
-* [Framer.js Official Basics](http://framerjs.com/learn/basics) - The place to start prototyping with Framer.
+* [Framer.js Official Basics](http://framerjs.com/learn/basics) - 与Framer开始原型设计的地方.
 * [Framer Video Tutorials](https://www.youtube.com/playlist?list=PL9p5auxyrweMB6JVO24jFvW4NZufHacjz) - 直接从Framer团队提供的视频教程.
 * [New to Framer? Just 3 Things to Get You Started](https://medium.com/@designforhuman/new-to-framer-just-3-things-to-get-you-started-47397f27c71e#.uk7q8mqts) -  David Lee的入门指南.
 * [Framer.js for people who think things like Framer.js are weird and hard](https://medium.com/@sean_mateer/framer-js-for-people-who-think-things-like-framer-js-are-weird-and-hard-add2068c8114#.epx95tg0t) -  Sean Mateer让奇怪而艰难的事情看起来很容易.
@@ -86,7 +75,6 @@
 * [tabBarModule](https://github.com/petterheterjag/tabBarModule) - 用于复制iOS选项卡栏的Framer模块.
 * [framer-animation-collections](https://github.com/isaacw/framer-animation-collections) - 用于管理大型动画集的成帧类.
 * [framer.iosnotification](https://github.com/leinerud/framer.iosnotification) - 模仿iOS通知的Framer模块.
-* [Framer-Grid](https://github.com/nilshoenson/Framer-Grid) - 灵活的成帧器模块，可在原型顶部创建网格覆盖，以在设计过程的早期精确对齐内容或进行实验.
 * [shortcuts-for-framer](https://github.com/facebook/shortcuts-for-framer) - 收集有用的功能，使Framer的移动原型设计更容易.
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - 这是一个用于成帧器的模块，它提供了一个包含不同图像占位符服务的库.
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - 基于iOS的Framer可重复使用和可自定义的导航组件.
@@ -104,7 +92,7 @@
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - 无需重新加载，即可在Framer Studio项目的任何图层上测试弹簧动画.
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) -  Framer模块，可快速创建具有两个图像层的翻转卡效果.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) -  Framer模块，可轻松将您的设计输入转换为实际输入.
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - 模块在Framer中创建带有粘滞印章的滚动组件.
+* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer.
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - 用于处理设备方向事件的Framer模块.
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) -  Framer模块使用其新尺寸计算缩放图层的属性.
 * [framer-label](https://github.com/peteschaffner/framer-label) - 标签模块，支持Framer的多行截断.
@@ -116,7 +104,7 @@
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) -  Framer的填充模块.
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - 用于Web SpeechSynthesis的Framer模块.
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - 用于在原型中进行注释的Framer模块.
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
+* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) -  FramerJS的简单控制器，允许您仅使用几行代码在视图之间进行转换.
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) -  Framer模块，可以更轻松地在项目中查找图层.
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - 自定义Framer模块，显示原型中可点击图层的热点.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - 模块和相应的Sketch插件，使得在Framer中使用SVG路径变得微不足道.
@@ -161,7 +149,7 @@
 * [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - 成帧反馈模块使您可以更轻松地使用反馈消息进行原型设计.
 * [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) -  Framer Module将Android的底部导航添加到您的项目中.
 * [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) -  Framer模块，当在桌面浏览器或Framer Studio（但不在设备上）显示时，为手机/平板电脑添加旋转按钮.
-* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - 一个模块，可让您轻松管理键盘输入.
+* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - 用于在设计模式下将设计转换为完全可扩展的代码类的模块，无需单行代码！
 * [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) -  Framer模块，为您的Framer项目提供更好的音频支持.
 * [Framer Status Bar Module](https://github.com/walnuttea/statusBar-module) - 用于初始化Framer应用程序中状态栏的模块.

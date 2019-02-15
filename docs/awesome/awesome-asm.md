@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jaspergould/awesome-asm"></div>
 Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
 

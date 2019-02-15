@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="aleksandar-todorovic/awesome-c"></div>
 ## awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![List Status](https://travis-ci.org/aleksandar-todorovic/awesome-c.svg?branch=master)](https://travis-ci.org/aleksandar-todorovic/awesome-c)
 
  C好东西的精选列表.  此列表仅包含* [free software](https://en.wikipedia.org/wiki/Free_software) 代码和卖家谁不是物质资源的邪恶.
@@ -9,65 +10,7 @@
 Contents
 ========
 
-## Contents ##
 
-- [Build Systems](#build-systems)
-- [Compilers](#compilers)
-- [Compiler libraries](#compiler-libraries)
-- [Compression](#compression)
-- [Crypto](#crypto)
-- [Database](#database)
-- [Deep Learning](#deep-learning)
-- [Documentation Generation](#documentation-generation)
-- [Editors](#editors)
-- [Embedded Systems](#embedded-systems)
-  - [RTOS](#rtos)
-- [Environments](#environments)
-- [Frameworks](#frameworks)
-- [Game Programming](#game-programming)
-  - [Engines](#engines)
-  - [Resources](#resources)
-- [Generic Programming](#generic-programming)
-- [Graphics](#graphics)
-  - [Graphic APIs](#graphic-apis)
-- [Graphical User Interface](#graphical-user-interface)
-- [Hashing](#hashing)
-- [Image Processing](#image-processing)
-- [JSON](#json)
-- [Learning, Reference and Tutorials](#learning-reference-and-tutorials)
-  - [Online](#online)
-      - [Reference](#reference)
-        - [Language Standards](#language-standards)
-      - [Beginner](#beginner)
-      - [Intermediate](#intermediate)
-      - [Advanced](#advanced)
-      - [Self-study courses](#self-study-courses)
-  - [Physical](#physical)
-      - [Reference](#reference-1)
-      - [Beginner](#beginner-1)
-      - [Intermediate](#intermediate-1)
-      - [Advanced](#advanced-1)
-- [Macros](#macros)
-- [Memory Allocators](#memory-allocators)
-- [Multimedia](#multimedia)
-- [Networking and Internet](#networking-and-internet)
-  - [Web Frameworks](#web-frameworks)
-- [Numerical](#numerical)
-- [Parallel Programming](#parallel-programming)
-- [Parsers](#parsers)
-- [Regex](#regex)
-- [Serialization](#serialization)
-- [Source Code Collections](#source-code-collections)
-- [Standard Libraries](#standard-libraries)
-- [String Manipulation](#string-manipulation)
-- [Testing](#testing)
-- [Text Editor Extensions](#text-editor-extensions)
-  - [Atom](#atom)
-  - [Emacs](#emacs)
-  - [Vim](#vim)
-- [Tools](#tools)
-- [Utilities](#utilities)
-- [XML](#xml)
 
 ## Build Systems ##
 
@@ -81,7 +24,6 @@ Contents
 * [Libtool](https://www.gnu.org/software/libtool/)   - 通用库支持脚本.  部分Autotools. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [Meson](http://mesonbuild.com/)   - 极其快速，用户友好的构建系统.  基于忍者. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Premake](https://github.com/premake/premake-core) - 为Visual Studio，Xcode或GNU Make等工具集构建脚本生成器. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [SCons](https://www.scons.org/) - 更简单，更可靠，更快捷的软件构建方式. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Ninja](https://github.com/ninja-build/ninja) - 小巧，简单的构建系统，专注于速度. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Bazel](https://bazel.build/) - 为各种操作系统和目标构建系统. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Buck](https://buckbuild.com/) - 构建由Facebook创建和使用的系统. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
@@ -93,7 +35,7 @@ Contents
 
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的C编译器.  支持C11. [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
 * [CompCert](http://compcert.inria.fr/)   - 完全验证的C编译器.  支持几乎所有的C89. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [GCC](https://gcc.gnu.org/)   - 提供C编译器作为其编译器集的一部分.  支持C11和OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [GCC](https://gcc.gnu.org/) - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [PCC](http://pcc.ludd.ltu.se/)   - 尊敬的C编译器.  支持C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
 * [TCC](https://bellard.org/tcc/)   -  Tiny C编译器;  一个小而快速的C编译器.  支持C99（复杂类型除外）. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Intel SPMD](http://ispc.github.io/) - 编译器用于C语言的变体，用于单个程序，多个数据编程. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
@@ -103,7 +45,7 @@ Contents
 
 用于编译器，解释器和基于低级项目的库.
 
-* [yasm](http://yasm.tortall.net/) - Yasm Modular Assembler Project. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
+* [yasm](http://yasm.tortall.net/) -  Yasm模块化汇编项目. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
 
 ## Compression ##
 
@@ -114,7 +56,6 @@ Contents
 * [lz4](https://lz4.github.io/lz4/) - 快速压缩算法.
 * [snappy](https://github.com/google/snappy) - 快速压缩库（在C ++中实现，与C的本机绑定）.
 * [zstd](http://facebook.github.io/zstd/) - 快速实时压缩算法 [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [brotli](https://github.com/google/brotli) - 基于LZ77，霍夫曼编码和二阶上下文建模的通用无损压缩算法 [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [quicklz](http://www.quicklz.com/index.php) - 快速压缩库. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [pixz](https://github.com/vasi/pixz) -  Pixz（发音为pixie）是`xz`的并行索引版本. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
 
@@ -151,7 +92,7 @@ Contents
 
 * [Cxref](http://www.gedanken.org.uk/software/cxref/) - 以LaTeX，HTML，RTF或SGML生成C程序的文档. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - 适度标记的标记语言，可用于生成一系列格式. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [Doxygen](http://www.doxygen.nl/)   - 用于从注释源生成C文档的事实上的标准工具.  可以生成大范围的格式. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [Doxygen](http://www.doxygen.nl/) - The de-facto standard tool for generating C documentation from annotated sources. Can generate a large range of formats. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [GTK-Doc](https://www.gtk.要么g/gtk-doc/)   - 用于从带注释的源生成C文档的工具.  支持Autotools. [`GNU GPL2.1 (code)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU FDL1.1`](https://www.gnu.要么g/licenses/old-licenses/fdl-1.1.html)
 
 ## Editors ##
@@ -159,7 +100,6 @@ Contents
  这些是特别高级的IDE类编辑器.  如果您想要程序员的文本编辑器，请查看其他地方.  此外，无论你做出什么样的选择，最有可能支持C.
 
 * [Anjuta DevStudio](http://anjuta.org/) -  GNOME IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [Atom](https://atom.io/) - Hackable text editor for the 21st century. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Code::Blocks](http://www.codeblocks.org/) - 可扩展，可配置的IDE支持C. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [CodeLite](https://codelite.org/) - 跨平台IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Eclipse](http://www.eclipse.org/ide/) - 用Java编写的IDE. [`EPL`](https://directory.fsf.org/wiki/License:EPL-1.0)
@@ -193,7 +133,7 @@ Contents
 
 本节包含大型库，可提供数据结构以及您对“现代”标准库所期望的其他内容.
 
-* [APR](http://apr.apache.org/) - Apache Portable Runtime; another library of cross-platform utility functions. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [APR](http://apr.apache.org/)   -  Apache Portable Runtime;  另一个跨平台实用程序函数库. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [C Algorithms](https://fragglet.github.io/c-algorithms/) -  C的通用算法和数据结构的集合 [`ISC`](https://directory.fsf.org/wiki/License:ISC)
 * [CPL](http://www.eso.org/sci/software/cpl/)   - 公共管道图书馆;  一组库，旨在成为一个全面，高效和强大的软件工具包. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [EFL](https://www.enlightenment.org/) - 大量有用的数据结构和功能.
@@ -279,7 +219,6 @@ Contents
 
 * [jwHash](https://github.com/watmough/jwHash) - 快速哈希表实现. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [xxHash](http://cyan4973.github.io/xxHash/) - 极快的非加密哈希算法. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
-* [libcrc](https://github.com/PeterScott/murmur3) - 多平台CRC库. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [murmur](https://github.com/ispc/ispc) - 执行MurMur Hashing的C语言. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 ## Image Processing ##
@@ -291,7 +230,6 @@ Contents
 * [Jansson](http://www.digip.org/jansson/) - 用于编码，解码和操作JSON的C库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [jsmn](https://zserge.com/jsmn.html) - 简约的JSON解析器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [json-c](https://github.com/json-c/json-c/wiki) - 用于使用JSON的库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [parson](https://github.com/kgabis/parson) - 用C编写的轻量级JSON库. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [WJElement](https://github.com/netmail-open/wjelement/wiki) - 高级JSON操作库，支持JSON Schema. [`LGPL, any version`](https://github.com/netmail-open/wjelement/)
 * [YAJL](https://lloyd.github.io/yajl/) -  Fast C JSON流解析器库. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
 
@@ -430,7 +368,6 @@ Contents
 * [libvldmail](https://github.com/dertuxmalwieder/libvldmail) - 友好的电子邮件地址验证库. [`WTFPLv2`](http://www.wtfpl.net/txt/copying/)
 * [lwan](https://lwan.ws/) - 实验性，可扩展，高性能的HTTP服务器. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [mongoose](https://cesanta.com/) - 用于C的嵌入式Web服务器 [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [MQTT-C](https://github.com/LiamBindle/MQTT-C) - 适用于嵌入式系统和PC的便携式MQTT C客户端. [`MIT`](https://raw.githubusercontent.com/LiamBindle/MQTT-C/master/LICENSE)
 * [nanomsg](https://github.com/nanomsg/nanomsg) - 基于C的ZeroMQ实现. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [OpenSSL](https://www.openssl.org/) -  SSL和TLS协议的实现，还包括加密库. [`Dual Licensed under the OpenSSL License and the SSLeay License`](https://www.openssl.org/source/license.html)
 * [oSip](https://www.gnu.org/software/osip/) - 在C中实现SIP，没有其他依赖性. [`GNU LGPLv2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
@@ -440,8 +377,6 @@ Contents
 * [Tox](https://tox.chat/) - 通信平台，旨在成为Skype杀手. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [twitc](https://github.com/sinemetu1/twitc) - 用于与Twitter OAuth API交互的Mini C库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [librg](https://github.com/librg/librg) - 用于构建简单而优雅的跨平台mmo客户端 - 服务器解决方案的库. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [dyad](https://github.com/rxi/dyad) - 异步网络库. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
-* [h2o](https://github.com/h2o/h2o/) - 优化的HTTP / 1，HTTP / 2高性能服务器/库. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ### Web Frameworks ###
 
@@ -454,7 +389,7 @@ Contents
 ## Numerical ##
 
 * [apophenia](http://apophenia.info/) - 统计和科学计算图书馆. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [ATLAS](http://math-atlas.sourceforge.net/) - 自动调谐线性代数软件. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [ATLAS](http://math-atlas.sourceforge.net/) - Automatically Tuned Linear Algebra Software. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [BLAS](http://www.netlib.org/blas/)   - 基本线性代数子程序;  一组提供向量和矩阵运算的例程. [`BLAS license`](http://www.netlib.org/blas/#_licensing)
 * [CDFLIB](https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html)   - 具有例程的库，用于评估各种标准概率分布的累积密度函数.  也可以在给定其他参数的情况下计算CDF的一个参数.  （没有许可证）
 * [cmathl](https://scientificc.github.io/cmathl/)   - 具有各种数学函数和CMake构建支持的Pure-C Math库.  寻求接近符合C89 / C90标准的便携性. [`MIT`](https://github.com/ScientificC/cmathl/blob/master/LICENSE)
@@ -519,7 +454,6 @@ Contents
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - 在C中实施Google协议缓冲区 [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [xdr](https://en.wikipedia.org/wiki/External_Data_Representation)   - 外部数据表示;  数据序列化的标准.
 
-检查还： [JSON](#json), [XML](#xml)
 
 ## Source Code Collections ##
 
@@ -561,7 +495,6 @@ Contents
 * [CUnit](http://cunit.sourceforge.net/) -  C的另一个单元测试框架 [`GNU LGPL2.0`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Cutest](https://github.com/rafael-santiago/cutest) - 用于内存泄漏检测的单元测试库（Linux，freeBSD和Windows）. [`GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [minunit](https://github.com/siu/minunit) -  C的最小单元测试框架 [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [munit](https://nemequ.github.io/munit/) -  C的小型但功能齐全的单元测试框架，没有依赖性. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 * [Unity](http://www.throwtheswitch.org/) -  C的简单单元测试框架 [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 
 ## Text Editor Extensions ##
@@ -569,8 +502,6 @@ Contents
  虽然几乎任何体面的程序员的文本编辑器都支持C，但有一些扩展使它更愉快.  这是按编辑分类的.
 
 ### Atom ###
-* [linter-clang](https://github.com/AtomLinter/linter-clang) -  Atom中的Lint C代码，使用Clang. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
-* [linter-gcc](https://github.com/hebaishi/linter-gcc) -  Atom中的Lint C代码，使用GCC. [`MIT`](https://raw.githubusercontent.com/atom/atom/master/LICENSE.md)
 
 ### Emacs ###
 

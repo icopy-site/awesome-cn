@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mhinz/vim-galore"></div>
 <div align='center'>
   <br /><br /><br />
   <img src='https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/logo-vim-galore.png' alt='vim-galore logo' />
@@ -15,122 +16,28 @@
   <br /><br />
 </div>
 
-### [Intro](#intro-1)
 
-- [What is Vim?](#what-is-vim)
-- [The Vim Philosophy](#the-vim-philosophy)
-- [First steps](#first-steps)
-- [Minimal vimrc](#minimal-vimrc)
-- [What kind of Vim am I running?](#what-kind-of-vim-am-i-running)
-- [Cheatsheets](#cheatsheets)
 
-### [Basics](#basics-1)
 
-- [Buffers, windows, tabs](#buffers-windows-tabs)
-- [Active, loaded, listed, named buffers](#active-loaded-listed-named-buffers)
-- [Argument list](#argument-list)
-- [Mappings](#mappings)
-- [Mapleader](#mapleader)
-- [Registers](#registers)
-- [Ranges](#ranges)
-- [Marks](#marks)
-- [Completion](#completion)
-- [Motions, operators, text objects](#motions-operators-text-objects)
-- [Autocmds](#autocmds)
-- [Changelist, jumplist](#changelist-jumplist)
-- [Undo tree](#undo-tree)
-- [Quickfix and location lists](#quickfix-and-location-lists)
-- [Macros](#macros)
-- [Colorschemes](#colorschemes)
-- [Folding](#folding)
-- [Sessions](#sessions)
-- [Locality](#locality)
 
-### [Usage](#usage-1)
 
-- [Getting help offline](#getting-help-offline)
-- [Getting help offline (alternative)](#getting-help-offline-alternative)
-- [Getting help online](#getting-help-online)
-- [Autocmds in practice](#autocmds-in-practice)
-  - [User events](#user-events)
-  - [Nested autocmds](#nested-autocmds)
-- [Clipboard](#clipboard)
-  - [Clipboard usage (Windows, macOS)](#clipboard-usage-windows-macos)
-  - [Clipboard usage (Linux, BSD, ...)](#clipboard-usage-linux-bsd-)
-- [Restore cursor position when opening file](#restore-cursor-position-when-opening-file)
-- [Temporary files](#temporary-files)
-  - [Backup files](#backup-files)
-  - [Swap files](#swap-files)
-  - [Undo files](#undo-files)
-  - [Viminfo files](#viminfo-files)
-  - [Example configuration for temporary files](#example-configuration-for-temporary-files)
-- [Editing remote files](#editing-remote-files)
-- [Managing plugins](#managing-plugins)
-- [Block insert](#block-insert)
-- [Running external programs and using filters](#running-external-programs-and-using-filters)
-- [Cscope](#cscope)
-- [MatchIt](#matchit)
-- [True colors](#true-colors)
 
-### [Tips](#tips-1)
 
-- [Go to other end of selected text](#go-to-other-end-of-selected-text)
-- [Saner behavior of n and N](#saner-behavior-of-n-and-n)
-- [Saner command-line history](#saner-command-line-history)
-- [Saner CTRL-L](#saner-ctrl-l)
-- [Disable audible and visual bells](#disable-audible-and-visual-bells)
-- [Quickly move current line](#quickly-move-current-line)
-- [Quickly add empty lines](#quickly-add-empty-lines)
-- [Quickly edit your macros](#quickly-edit-your-macros)
-- [Quickly jump to header or source file](#quickly-jump-to-header-or-source-file)
-- [Quickly change font size in GUI](#quickly-change-font-size-in-gui)
-- [Change cursor style dependent on mode](#change-cursor-style-dependent-on-mode)
-- [Don't lose selection when shifting sidewards](#dont-lose-selection-when-shifting-sidewards)
-- [Reload a file on saving](#reload-a-file-on-saving)
-- [Smarter cursorline](#smarter-cursorline)
-- [Faster keyword completion](#faster-keyword-completion)
-- [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
-### [Commands](#commands-1)
 
 - [:global and :vglobal](#global-and-vglobal) - 在所有匹配的行上执行命令.
 - [:normal and :execute](#normal-and-execute) - 脚本梦想团队.
 - [:redir and execute()](#redir-and-execute) - 捕获命令输出.
 
-### [Debugging](#debugging-1)
 
-- [General tips](#general-tips)
-- [Verbosity](#verbosity)
-- [Profiling startup time](#profiling-startup-time)
-- [Profiling at runtime](#profiling-at-runtime)
-- [Debugging Vim scripts](#debugging-vim-scripts)
-- [Debugging syntax files](#debugging-syntax-files)
 
-### [Miscellaneous](#miscellaneous-1)
 
-- [Additional resources](#additional-resources)
-- [Vim distributions](#vim-distributions)
-- [Standard plugins](#standard-plugins)
-- [Map CapsLock to Control](#map-capslock-to-control)
-- [Generating HTML from buffer](#generating-html-from-buffer)
-- [Easter eggs](#easter-eggs)
-- [Why hjkl for navigation?](#why-hjkl-for-navigation)
 
-### [Common problems](#common-problems-1)
 
-- [Editing small files is slow](#editing-small-files-is-slow)
-- [Editing huge files is slow](#editing-huge-files-is-slow)
-- [Bracketed paste (or why do I have to set 'paste' all the time?)](#bracketed-paste-or-why-do-i-have-to-set-paste-all-the-time)
-- [Delays when using escape key in terminal](#delays-when-using-escape-key-in-terminal)
-- [Function search undo](#function-search-undo)
 
-### [Technical quirks](#technical-quirks-1)
 
-- [Newline used for NUL](#newline-used-for-nul)
 
-### [Terminology](#terminology-1)
 
-- [Vim script? Vimscript? VimL?](#vim-script-vimscript-viml)
 
 ### [List of colorschemes](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md#colorschemes-1)
 
@@ -518,7 +425,7 @@ Vim提供以下寄存器：
 用`y`猛拉并用&#39;p` /`P`粘贴，但请记住Vim区分
  字符和线性视觉选择.  见`：h linewise`.
 
-**示例：linewise **
+**Example: linewise**
 
 `yy`（或只是&#39;Y`）猛拉当前行，将光标移动到其他地方，使用
 `p`粘贴在当前行&#39;P`下面以粘贴它.
@@ -818,7 +725,6 @@ customization.
 如果您希望在重新启动Vim后两个列表都保持不变，则需要使用
 viminfo文件和`：h viminfo-&#39;`.
 
-**注**：最新跳转前的位置也保持为a [mark](#marks)
 并且可以通过```````或`&#39;&#39;`跳转到.
 
 Help:
@@ -1014,7 +920,6 @@ q
  主要适用于这些简单的例子.  对于更复杂的自动化，宏
 是炸弹！
 
-另见： [Quickly edit your macros](#quickly-edit-your-macros)
 
 Help:
 
@@ -1061,7 +966,6 @@ Help:
 
 - `：h&#39;termguicolors&#39;`
 - [List of colorschemes](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md#colorschemes-1)
-- [Cosmetic changes to colorschemes](#cosmetic-changes-to-colorschemes)
 
 ## Folding
 
@@ -1158,7 +1062,7 @@ Vim带有一个带有单个文本文件形式的优秀文档
 `$ VIMRUNTIME / doc / helphelp.txt`在新窗口中跳转到`：help`标签
 在该文件中.
 
-A few simple rules:
+一些简单的规则：
 
 - 选项用单引号括起来，例如`：h&#39;textwidth&#39;`
 -  VimL函数以`（）`结尾，例如`：h reverse（）`
@@ -1252,7 +1156,7 @@ something).
     以前访问过的窗口）.  您也可以访问`：h windows.txt`并阅读
    如果你正在寻找窗口处理命令，你的方式通过.
 
-10. Ex命令总是以“：”开头，所以`：h：s`覆盖“：s”命令.
+10. Ex commands always start with ":", so `:h :s` covers the ":s" command.
 
 11. Use CTRL-D after typing a topic and let Vim try to complete to all available
     话题.
@@ -1456,7 +1360,7 @@ Help:
 buffers](http://www.x.org/releases/X11R7.7/doc/xorg-docs/icccm/icccm.html#Peer_to_Peer_Communication_by_Means_of_Cut_Buffers)
 介绍了那种像复制文本一样的_clipboard_工作
  实际上由X持有，所有其他应用程序都可以访问它.  这个
-mechanism still exists in X, but its use is deprecated now and most software
+机制仍然存在于X中，但现在大多数软件都不推荐使用它
 不再使用它了.
 
 现在，数据通过以下方式在应用程序之间传输
@@ -1703,8 +1607,8 @@ ssh&#39;ing到服务器并使用管理员希望你使用的任何东西.
 
 [Pathogen](https://github.com/tpope/vim-pathogen) 是第一个流行的工具
  管理插件.  实际上它只是将_runtimepath_（`：h&#39;rtp&#39;`）调整为
-include all the things put under a certain directory. You have to clone the
-repositories of the plugins there yourself.
+ 包括放在某个目录下的所有内容.  你必须克隆
+那些插件的存储库你自己.
 
 Real插件管理器公开可帮助您安装和更新插件的命令
 来自Vim.
@@ -2469,7 +2373,6 @@ familiar.
 ## Debugging syntax files
 
 语法文件通常是由于错误和/或复杂而导致速度降低的原因
- 常用表达.  如果是`+ profile` [feature](#what-kind-of-vim-am-i-running)
 在编译中，Vim提供了超级有用的`：syntime`命令.
 
 ```vim
@@ -2611,7 +2514,7 @@ publishing.
  |  `：h&#39;sm&#39;` |  `注意：短形式的使用被评为PG.|
  |  `：h 42` |  “生命，宇宙和一切的意义是什么？  道格拉斯亚当斯，唯一一个知道这个问题真正意义的人现在已经死了，不幸的是.  所以现在你可能想知道死亡的含义是什么......`|
  |  `：h UserGettingBored` |  `当用户按下相同的键42次时.  开玩笑！  :-)`|
- |  `：h bar` |  `这不是管道.|
+| `:h bar` | `Ceci n'est pas une pipe.` |
  |  `：h holy-grail` |  “你找到了，亚瑟！”|
  |  `：h map-modes` |  `：nunmap也可以在修道院外使用.|
  |  `：帮助！`|  `E478：不要惊慌！`（故障？当在帮助缓冲区（`buftype = help`）中使用时，这就像`：h help.txt`一样.）|
@@ -2638,7 +2541,7 @@ When [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) 创建
     人们过去有所减缓.  （另见 [Debugging syntax files](#debugging-syntax-files).)
  2. **屏幕重绘**.  某些功能强制所有行重绘.
 
- |  典型的罪魁祸首|  为什么？  |  解？  |
+| Typical culprit | Why? | Solution? |
 |-----------------|------|-----------|
  |  `：设置cursorlines` |  导致所有行重绘.  |  `：设置nocursorline` |
  |  `：set cursorcolumn` |  导致所有行重绘.  |  `：设置nocursorcolumn` |

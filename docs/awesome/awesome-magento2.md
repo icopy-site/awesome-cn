@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="DavidLambauer/awesome-magento2"></div>
 ## Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
 
 <h1 align="center">
@@ -15,15 +16,7 @@
 
 ---
 
-## Contents
 
-- [Tools](#tools)
-- [Extensions](#open-source-extensions)
-- [Themes](#themes)
-- [Blogs](#blogs)
-- [Learning](#learning)
-- [Platforms](#platforms)
-- [Official Resources](#official-resources)
 
 ---
 
@@ -38,7 +31,7 @@
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - 专注于开发过程，工作得很好.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) -  Magento 2的必备Chrome扩展程序 [MageSpecialist](https://github.com/magespecialist).
 - [convertm1m2](https://github.com/unirgy/convertm1m2) - 一个简单的脚本，用于将扩展名从Magento1转换为Magento 2.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - 官方Magento 1到Magento 2迁移工具
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - 通过输入SKU和数量来启用批量订单创建.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - 管理面板中运行crons的概述.
 
@@ -143,7 +136,7 @@
 - [Mobile Detection](https://github.com/EaDesgin/magento2-mobiledetect) - 移动检测更改主题和基于设备类型的重定向 [EaDesign](https://commercehero.io/eadesign).
 - [Menu Editor](https://github.com/SnowdogApps/magento2-menu) - 提供功能强大的菜单编辑器，以取代Magento 2中基于类别的菜单.
 - [PageNotFound](https://github.com/experius/Magento-2-Module-PageNotFound) - 在您的数据库中保存即将发布的404，可以创建重定向.
-- [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed.
+- [EmailCatcher / Logger](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher)   - 保存Magento在您的数据库中发送的所有电子邮件.  添加可以查看的网格.
 - [Custom SMTP](https://github.com/magepal/magento2-gmail-smtp-app) - 配置Magento 2使用Google App，Gmail，Amazon Simple Email Service（SES），Microsoft Office365和其他SMTP服务器发送所有交易电子邮件.
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - 使用bin / magento设置客户密码 [Vinai Kopp](https://github.com/Vinai/).
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - 自动登录Magento 2 admin，veru对于演示非常有用

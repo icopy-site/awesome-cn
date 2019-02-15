@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jakoch/awesome-composer"></div>
 ## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
@@ -45,7 +46,7 @@
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs)   - 提供更新摘要以及指向changelog / releasenote / tag的链接.  更新composer.lock文件时，输出已准备好粘贴到提交消息中.
 - [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - 在Composer运行时合并多个`composer.json`文件.
 - [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) - 添加对在单个存储库中管理多个包的依赖关系的支持或隔离bin依赖关系.
-- [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - 维基媒体作曲家合并插件的观点版本与Bamarni composer-bin-plugin配合使用.
+- [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) - 该插件有助于管理单个存储库中多个包的依赖关系.
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin)   - 使您能够从任何包中为任何包提供补丁.  获取依赖项后，将修补程序应用于顶部.
 - [Composer-Patches](https://github.com/cweagans/composer-patches) - 该插件将补丁从本地或远程文件应用于任何所需的包.
@@ -80,7 +81,7 @@
 ## Tools
 
 - [Composer SemVer Checker](https://semver.mwl.be) - 通过对Packagist托管包进行语义版本检查，使您能够识别对版本解析问题的约束.
-- [Composer-Yaml](https://github.com/igorw/composer-yaml) - This tool converts `composer.yml` to `composer.json`.
+- [Composer-Yaml](https://github.com/igorw/composer-yaml) - 这个工具将`composer.yml`转换为`composer.json`.
 - [Studio](https://github.com/franzliedke/studio)   - 用于开发Composer包的工作台.  它可以替代编辑供应商文件夹中的依赖项或使用 [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) 将依赖项的本地克隆加载到项目中.
 - [OctoLinker Browser Extension](https://github.com/OctoLinker/OctoLinker) - 使您能够在Github上导航Composer / NPM依赖项.
 - [ComposerRequireChecker](https://github.com/maglnet/ComposerRequireChecker) - 用于分析依赖关系并验证包的源中未使用未知导入符号的CLI工具.

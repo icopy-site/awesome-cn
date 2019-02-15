@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="AchoArnold/discount-for-student-dev"></div>
 ## discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 这是软件（SaaS，PaaS，IaaS等）的折扣列表以及恰好是学生的开发人员的其他产品.
 这个清单受到了很大的启发 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
@@ -10,29 +11,6 @@
 目录
 =================
 
-  * [Source Code Repos](#source-code-repos)
-  * [IDE and Code Editing](#ide-and-code-editing)
-  * [Version Control](#version-control)
-  * [Web Hosting](#web-hosting)
-  * [Design and Photo Editing](#design-and-photo-editing)
-  * [SaaS](#saas)
-  * [PaaS](#paas)
-  * [Email](#email)
-  * [CI / CD](#ci--cd)
-  * [Payments](#payments)
-  * [Management Systems](#management-systems)
-  * [Mapping](#maps)
-  * [Localization](#localization)
-  * [Programming Help](#programming-help)
-  * [Domain Name Registers](#domain-name-registers)
-  * [Security](#security)
-  * [Software Modeling Tools](#software-modeling-tools)
-  * [Visual Analytics](#visual-analytics)
-  * [Game Development Tools](#game-development-tools)
-  * [3D Animation and Modeling Software](#3d-animation-and-modeling-software)
-  * [Password Managers](#password-managers)
-  * [Infrastructure Monitoring](#infrastructure-monitoring)
-  * [Software Packs](#software-packs)
 
 
 

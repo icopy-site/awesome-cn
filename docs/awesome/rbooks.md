@@ -1,16 +1,8 @@
+<div class="github-widget" data-repo="RomanTsegelskyi/rbooks"></div>
 R书 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 关于不同方面和应用的精选书籍清单 [R](https://www.r-project.org/)  编程语言和尝试以更加用户友好的方式使[R Books]（）现代化.  灵感来自[GoBooks]（）.
 
-* [R Books](#r-books)
-	* [Beginner Books](#beginner-books)
-	* [Advanced Books](#advanced-books)
-	* [Data Science](#data-science)
-	* [Finance](#finance)
-	* [Machine Learning](#machine-learning)
-	* [R Development](#r-development)
-	* [Reports](#reports)
-	* [Visualization](#visualization)
 
 初学者书籍
 ---

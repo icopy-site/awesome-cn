@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="petk/awesome-jquery"></div>
 ## Awesome jQuery
 
 <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
@@ -11,36 +12,9 @@
 > [jQuery](http://jquery.com/) 是一个快速，小巧，功能丰富 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  图书馆.  它通过易于使用的API在大量浏览器中运行，使得HTML文档遍历和操作，事件处理，动画和Ajax变得更加简单.  通过多功能性和可扩展性的结合，jQuery改变了数百万人编写JavaScript的方式.
 
 
-## Table of contents
 
 <img width="400" src="https://raw.githubusercontent.com/petk/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
 
-* [Resources](#resources)
-    * [Tutorials](#tutorials)
-    * [Books](#books)
-        * [Free Books](#free-books)
-        * [Paid Books](#paid-books)
-    * [Blogs](#blogs)
-    * [Miscellaneous Resources](#miscellaneous-resources)
-* [Plugins](#plugins)
-    * [Animation](#animation)
-    * [Editors](#editors)
-    * [Forms](#forms)
-    * [Images, Maps and Charts](#images-maps-and-charts)
-    * [Menus](#menus)
-    * [Modals and Popups](#modals-and-popups)
-    * [Tables](#tables)
-    * [Time and Date](#time-and-date)
-    * [Translations](#translations)
-    * [Validation](#validation)
-    * [Miscellaneous Plugins](#miscellaneous-plugins)
-* [Mobile](#mobile)
-* [UI](#ui)
-* [Testing](#testing)
-* [Server-side Integrations](#server-side-integrations)
-* [Community](#community)
-* [Looking for more lists like this?](#looking-for-more-lists-like-this)
-* [Contributing and License](#contributing-and-license)
 
 
 ## Resources
@@ -67,7 +41,6 @@
 * [Try jQuery](http://try.jquery.com/) - 学习jQuery的基本构建块.
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - 扩展jQuery的选择器功能.
 
-[Back to top](#awesome-jquery)
 
 
 ### Books
@@ -87,7 +60,6 @@
 * [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks) - 快速掌握jQuery，*由Earle Castledine和Craig Sharkie *.
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) -  Jonathan Chaffer和Karl Swedberg指导的jQuery指南*.
 
-[Back to top](#awesome-jquery)
 
 
 ### Blogs
@@ -99,7 +71,6 @@
 * [Sitepoint](https://www.sitepoint.com/javascript/jquery/) -  Sitepoint的jQuery类别部分，包含有用的文章.
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) -  jQuery标签，有用的jQuery文章和教程相似的博客文章.
 
-[Back to top](#awesome-jquery)
 
 
 ### Miscellaneous Resources
@@ -113,7 +84,6 @@
 * [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 * [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
 
-[Back to top](#awesome-jquery)
 
 
 ## Plugins
@@ -124,7 +94,6 @@
 * [jQuery Rain](http://www.jqueryrain.com/) - 顶级和最佳jQuery插件，教程，酷炫效果，示例，演示.
 * [jQuery Unheap](http://www.unheap.com/) - 一个整洁的jQuery插件库.
 
-[Back to top](#awesome-jquery)
 
 
 ## Animation
@@ -142,7 +111,6 @@
 * [Waves](https://github.com/fians/Waves) - 点击效果灵感来自Google的Material Design.
 * [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - 轻量级，易于使用的jQuery插件，用于动画SVG路径
 
-[Back to top](#awesome-jquery)
 
 
 ### Editors
@@ -150,12 +118,10 @@
 * WYSIWYG编辑.*
 
 * [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - 基于HTML5的jQuery WYSIWYG富文本编辑器.
-* [Hallo](https://github.com/bergie/hallo) - 用于jQuery UI的简单富文本编辑器（contentEditable）.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 一个现代，简单和优雅的WYSIWYG富文本编辑器.
 * [jQuery TE](http://jqueryte.com/) - 轻量级HTML编辑器.
 * [TinyMCE](https://www.tinymce.com/) - 流行的WYSIWYG编辑器，带有jQuery构建和jQuery集成插件.
 
-[Back to top](#awesome-jquery)
 
 
 ### Forms
@@ -174,12 +140,11 @@
 * [Select2](https://github.com/select2/select2) - 选择框，支持搜索，标记，远程数据集，无限滚动.
 * [selectize.js](https://github.com/selectize/selectize.js/)   - 基于jQuery的混合文本框和\ <select\>  框.
 
-[Back to top](#awesome-jquery)
 
 
 ### Images, Maps and Charts
 
-*与图像，图像处理，图库，地图和图表相关的插件.*
+*Plugins related to images, image manipulation, galleries, maps and charts.*
 
 * [AnyChart-jQuery](https://github.com/AnyChart/AnyChart-jQuery) - 使用jQuery轻松使用AnyChart JavaScript图表库的插件.
 * [Arbor](https://github.com/samizdatco/arbor) - 使用Web worker和jQuery的图形可视化库.
@@ -201,7 +166,6 @@
 * [Viewer](https://github.com/fengyuanchen/viewer) - 一个简单的jQuery图像查看插件.
 * [JQuery-linechart](https://github.com/kis/jquery-linechart) - 用于创建折线图的简单轻量级库
 
-[Back to top](#awesome-jquery)
 
 
 ### Menus
@@ -218,7 +182,6 @@
 * [Superfish](https://github.com/joeldbirch/superfish) - 为现有的多级下拉菜单添加可用性增强功能.
 * [Yamm](https://github.com/geedmo/yamm3) -  Bootstrap 3的另一个megamenu.
 
-[Back to top](#awesome-jquery)
 
 
 ### Modals and Popups
@@ -236,9 +199,8 @@
 * [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速，轻便，响应迅速的灯箱插件.
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript的警报的美丽替代品.
 * [tipso](https://github.com/object505/tipso) - 轻量级响应式jQuery Tooltip插件.
-* [vex](https://github.com/hubspot/vex) - 一个高度可配置且易于设计的现代对话库.
+* [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
 
-[Back to top](#awesome-jquery)
 
 
 ### Tables
@@ -261,7 +223,6 @@
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - 一个愚蠢的小而简单的jQuery表分类器插件.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - 将HTML表导出为JSON，XML，CSV，TXT，SQL，Word，Excel，PNG或PDF.
 
-[Back to top](#awesome-jquery)
 
 
 ### Time and Date
@@ -271,7 +232,6 @@
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - 启动/停止/恢复/删除任何HTML元素内的漂亮计时器.
 * [Timeago](https://github.com/rmm5t/jquery-timeago) - 轻松支持自动更新模糊时间戳（例如“4分钟前”）.
 
-[Back to top](#awesome-jquery)
 
 
 ### Translations
@@ -282,7 +242,6 @@
 * [jquery.i18n](https://github.com/wikimedia/jquery.i18n) - 基于jQuery的Javascript国际化库，可轻松实现Web应用程序的国际化
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - 轻松实现静态网站的国际化
 
-[Back to top](#awesome-jquery)
 
 
 ### Validation
@@ -295,7 +254,6 @@
 * [jquery-validation](https://github.com/jquery-validation/jquery-validation) - 对现有表单进行插入验证，同时使各种自定义适合您的应用程序非常简单.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - 验证浏览器中的表单字段.
 
-[Back to top](#awesome-jquery)
 
 
 ### Miscellaneous Plugins
@@ -310,7 +268,6 @@
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/)   - 雅虎！  表情符号JQuery插件.
 * [autoNumberic](https://github.com/autoNumeric/autoNumeric) -  autoNumeric是一个独立的库，为国际号码和货币提供实时的自定义格式.
 
-[Back to top](#awesome-jquery)
 
 
 ## Mobile
@@ -321,7 +278,6 @@
 * [Interdimensional](https://github.com/VodkaBears/Interdimensional) - 在您的网页的移动设备上进行空间滚动.
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - 一个简单的jQuery / Zepto通知库，旨在用于移动应用程序.
 
-[Back to top](#awesome-jquery)
 
 
 ## UI
@@ -330,11 +286,9 @@
 
 * [Dragula](https://github.com/bevacqua/dragula) - 框架无关的拖放库，支持jQuery集成.
 * [jQuery UI](http://jqueryui.com/) - 在jQuery之上构建的一组用户界面交互，效果，小部件和主题.
-* [jQuery Enhanced Splitter](https://github.com/hiltonjanfield/jquery.enhsplitter) - 创建可拖动的内容分割器以模拟框架和单独的内容.
 * [tabulous.js](https://github.com/aarondo/tabulous.js) - 今日网站的标签
 * [X-editable](https://github.com/vitalets/x-editable) - 使用Twitter Bootstrap，jQuery UI或纯jQuery进行就地编辑.
 
-[Back to top](#awesome-jquery)
 
 
 ## Testing
@@ -344,7 +298,6 @@
 * [Qunit](http://qunitjs.com/) - 一个JavaScript单元测试框架，由jQuery，jQuery UI和jQuery移动项目使用.
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - 提供简单且极其灵活的界面，用于模拟或模拟ajax请求和响应.
 
-[Back to top](#awesome-jquery)
 
 
 ## Server-side Integrations
@@ -354,16 +307,15 @@
 * Node.js：
     * [Bower](https://bower.io/) - 针对前端优化的有用的包管理器.
     * [Cheerio](https://github.com/cheeriojs/cheerio) - 专为服务器设计的核心jQuery的快速，灵活和精益实现.
-* PHP:
+* PHP：
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - 教程如何将BowerPHP，Mini-Asset和Robo.li组合到PHP前端资产构建管道中.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) -  jQuery插件，管理从Symfony2集合添加，删除和移动元素.
-* Python:
+* Python：
     * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) -  jQuery打包在一个方便的Django应用程序中，以加快新的应用程序和部署.
 * Ruby：
     * [jquery-rails](https://github.com/rails/jquery-rails) - 一个使用Rails自动使用jQuery的gem.
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - 用于Rails资产管道的jQuery UI.
 
-[Back to top](#awesome-jquery)
 
 
 ## Community
@@ -381,7 +333,6 @@
 * [Meetup](https://www.meetup.com/topics/jquery/) - 参与当地活动.
 * [Twitter](https://twitter.com/jquery) -  Twitter上jQuery团队的官方新闻和更新.
 
-[Back to top](#awesome-jquery)
 
 
 ## Looking for more lists like this?
@@ -399,7 +350,6 @@
 *翻译：
     * [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) -  Awesome jQuery的中文翻译.
 
-[Back to top](#awesome-jquery)
 
 
 ## Contributing and License
@@ -409,5 +359,3 @@
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Peter Kokot](https://github.com/petk) 已放弃对此作品的所有版权及相关或相邻权利.
-
-[Back to top](#awesome-jquery)

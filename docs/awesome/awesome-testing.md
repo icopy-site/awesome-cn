@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="TheJambo/awesome-testing"></div>
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
 ## Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;精选的测试软件，扩展和资源列表
@@ -7,17 +8,7 @@
 
  最后，我确信阅读此列表的每个人都有一件他们想要添加的内容.  请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md)  页面并添加到列表中.  :)
 
-## Contents
 
-- [Software](#software)
-- [Books](#books)
-- [Training](#training)
-- [Blogs](#blogs)
-- [Suggested Awesome Lists](#suggested-awesome-lists)
-- [Others](#Others)
-- [Contributing](#contributing)
-- [Code of Conduct](#code-of-conduct)
-- [License](#license)
 
 
 ## Software

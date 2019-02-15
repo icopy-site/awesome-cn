@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="adafruit/awesome-circuitpython"></div>
 <h1 align="center">
   <img width="400" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
@@ -8,22 +9,7 @@
 
 [CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写干净简单的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
 
-## Contents
 
-- [Guides](#guides)
-- [Community](#community)
-- [Books](#books)
-- [Code](#code)
-- [Frameworks](#frameworks)
-- [Hardware](#hardware)
-- [Newsletter](#newsletter)
-- [In the news](#news)
-- [Art, logos, graphics](#art)
-- [Social media](#social)
-- [Podcasts](#podcasts)
-- [Events](#events)
-- [Swag](#swag)
-- [Contributing](#contributing)
 
 ## Guides
 

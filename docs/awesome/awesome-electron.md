@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-electron"></div>
 ## Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
@@ -11,19 +12,7 @@
 </a>
 
 
-## Contents
 
-- [Apps](#apps)
-- [Boilerplates](#boilerplates)
-- [Tools](#tools)
-- [Components](#components)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Tips](#tips)
 
 
 ## Apps
@@ -53,7 +42,7 @@
 
 - [Git-it](https://github.com/jlord/git-it-electron) - 教你Git和GitHub.
 - [Caprine](https://github.com/sindresorhus/caprine) - 非官方Facebook Messenger应用程序.
-- [Simplenote](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [Simplenote](https://github.com/Automattic/simplenote-electron) - 注意守门员.
 - [nuTorrent](https://github.com/LeeChSien/nuTorrent) -  BitTorrent客户端.
 - [Abricotine](https://github.com/brrd/Abricotine) - 具有内联预览的Markdown编辑器.
 - [Medis](https://github.com/luin/medis) -  Redis数据库管理.
@@ -106,7 +95,7 @@
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的Google Play音乐应用.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) -  Chrome DevTools打包为应用程序.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - 与灯塔会面登记.
-- [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+- [Proton](https://github.com/steventhanna/proton) - 具有实时预览功能的Markdown编辑器.
 - [James](https://github.com/uxebu/james) - 用于查看和拦截浏览器请求的HTTP代理.
 - [DTCP](https://github.com/alchen/DTCP) -  Twitter客户端.
 - [Inbox](https://github.com/fgnass/inbox-app) - 非官方的Google Inbox应用.
@@ -176,7 +165,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - 非官方的Google Inbox应用.
-- [FreeMAN](https://github.com/matthew-matvei/freeman) - 高级用户的文件管理器.
+- [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄计时器.
 - [Pretzel](https://github.com/amiechen/pretzel) - 显示和搜索当前应用的键盘快捷键.
@@ -323,7 +312,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 

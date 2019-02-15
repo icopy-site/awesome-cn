@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="onurakpolat/awesome-bigdata"></div>
 ## Awesome Big Data
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,40 +7,6 @@
 
 欢迎您的贡献！
 
-- [Awesome Big Data](#awesome-bigdata)
-    - [RDBMS](#rdbms)
-    - [Frameworks](#frameworks)
-    - [Distributed Programming](#distributed-programming)
-    - [Distributed Filesystem](#distributed-filesystem)
-    - [Key-Map Data Model](#key-map-data-model)
-    - [Document Data Model](#document-data-model)
-    - [Key-value Data Model](#key-value-data-model)
-    - [Graph Data Model](#graph-data-model)
-    - [NewSQL Databases](#newsql-databases)
-    - [Columnar Databases](#columnar-databases)
-    - [Time-Series Databases](#time-series-databases)
-    - [SQL-like processing](#sql-like-processing)
-    - [Data Ingestion](#data-ingestion)
-    - [Service Programming](#service-programming)
-    - [Scheduling](#scheduling)
-    - [Machine Learning](#machine-learning)
-    - [Benchmarking](#benchmarking)
-    - [Security](#security)
-    - [System Deployment](#system-deployment)
-    - [Applications](#applications)
-    - [Search engine and framework](#search-engine-and-framework)
-    - [MySQL forks and evolutions](#mysql-forks-and-evolutions)
-    - [PostgreSQL forks and evolutions](#postgresql-forks-and-evolutions)
-    - [Memcached forks and evolutions](#memcached-forks-and-evolutions)
-    - [Embedded Databases](#embedded-databases)
-    - [Business Intelligence](#business-intelligence)
-    - [Data Visualization](#data-visualization)
-    - [Internet of things and sensor data](#internet-of-things-and-sensor-data)
-    - [Interesting Readings](#interesting-readings)
-    - [Interesting Papers](#interesting-papers)
-    - [Videos](#videos)
-    - [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
 
 ## RDBMS
 * [MySQL](https://www.mysql.com/) 世界上最流行的开源数据库.
@@ -53,7 +20,7 @@
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)   - 分布式处理和实时分析的平台.  与大数据生态系统中的许多流行技术（Kafka，HDFS，Spark等）集成
 * [Apache Hadoop](http://hadoop.apache.org/)   - 分布式处理框架.  集成MapReduce（并行处理），YARN（作业调度）和HDFS（分布式文件系统）.
 * [Tigon](https://github.com/caskdata/tigon) - 高吞吐量实时流处理框架.
-* [Pachyderm](http://pachyderm.io/) - Pachyderm is a data storage platform built on Docker and Kubernetes to provide reproducible data processing and analysis.
+* [Pachyderm](http://pachyderm.io/) -  Pachyderm是一个基于Docker和Kubernetes构建的数据存储平台，可提供可重复的数据处理和分析.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 可重复和可扩展的机器学习和深度学习的平台.
 
 ## Distributed Programming
@@ -88,7 +55,7 @@
 * [Facebook Corona](https://www.facebook.com/notes/facebook-engineering/under-the-hood-scheduling-mapreduce-jobs-more-efficiently-with-corona/10151142560538920) -  Hadoop增强功能，可消除单点故障.
 * [Facebook Peregrine](http://peregrine_mapreduce.bitbucket.org/) -  Map Reduce框架.
 * [Facebook Scuba](https://www.facebook.com/notes/facebook-engineering/under-the-hood-data-diving-with-scuba/10150599692628920) - 分布式内存数据存储.
-* [Google Dataflow](https://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - create data pipelines to help themæingest, transform and analyze data.
+* [Google Dataflow](https://googledevelopers.blogspot.it/2014/06/cloud-platform-at-google-io-new-big.html) - 创建数据管道以帮助他们提取，转换和分析数据.
 * [Google MapReduce](https://research.google.com/archive/mapreduce.html) -  map reduce框架.
 * [Google MillWheel](https://research.google.com/pubs/pub41378.html) - 容错流处理框架.
 * [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)   - 分布式处理和实时分析的平台.  提供开箱即用的高级分析工具包，如地理空间，时间序列等.
@@ -117,12 +84,9 @@
 * [Ambry](https://github.com/linkedin/ambry) - 分布式对象存储，支持存储数万亿个小的不可变对象以及数十亿个大对象.
 * [Apache HDFS](http://hadoop.apache.org/) - 一种跨多台机器存储大型文件的方法.
 * [Apache Kudu](http://kudu.apache.org/) -  Hadoop的存储层，可以快速分析快速数据.
-* [BeeGFS](https://www.beegfs.io/content/) - 以前的FhGFS，并行分布式文件系统.
 * [Ceph Filesystem](http://ceph.com/ceph-storage/file-system/) - 设计的软件存储平台.
 * [Disco DDFS](http://disco.readthedocs.org/en/latest/howto/ddfs.html) - 分布式文件系统.
 * [Facebook Haystack](https://www.facebook.com/note.php?note_id=76191543919) - 对象存储系统.
-* [Google Colossus](http://static.googleusercontent.com/media/research.google.reverse-proxy.org/en/us/university/relations/facultysummit2010/storage_architecture_and_challenges.pdf) - 分布式文件系统（GFS2）.
-* [Google GFS](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) - 分布式文件系统.
 * [Google Megastore](https://research.google.com/pubs/pub36971.html) - 可扩展，高可用性存储.
 * [GridGain](https://www.gridgain.com/) -  GGFS，兼容Hadoop的内存文件系统.
 * [Lustre file system](http://wiki.lustre.org/) - 高性能的分布式文件系统.
@@ -153,7 +117,7 @@
 
 ## Key Map Data Model
 
- **注意**：业界存在一些术语混淆，两种不同的东西称为“柱状数据库”.  这里列出的一些是围绕“键 - 映射”数据模型构建的分布式持久性数据库：所有数据都有一个（可能是复合的）密钥，键值对的映射与之关联.  在一些系统中，多个这样的值映射可以与密钥相关联，并且这些映射被称为“列族”（其中值映射键被称为“列”）.
+**Note**: There is some term confusion in the industry, and two different things are called "Columnar Databases". Some, listed here, are distributed, persistent databases built around the "key-map" data model: all data has a (possibly composite) key, with which a map of key-value pairs is associated. In some systems, multiple such value maps can be associated with a key, and these maps are referred to as "column families" (with value map keys being referred to as "columns").
 
  另一组也称为“柱状数据库”的技术的特征在于它如何在磁盘或内存中存储数据 - 而不是以传统方式存储数据，其中给定密钥的所有列值彼此相邻存储，“逐行”，这些系统将所有*列*值相互存储.  因此，需要更多的工作来获取给定键的所有列，但是需要更少的工作来获取给定列的所有值.
 
@@ -168,13 +132,12 @@
 * [Apache HBase](http://hbase.apache.org/) - 受BigTable启发的面向列的分布式数据存储区.
 * [Baidu Tera](https://github.com/baidu/tera) - 受BigTable启发的互联网规模数据库.
 * [Facebook HydraBase](https://code.facebook.com/posts/321111638043166/hydrabase-the-evolution-of-hbase-facebook/) -  Facebook制作HBase的演变.
-* [Google BigTable](http://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) - 面向列的分布式数据存储.
 * [Google Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview) - 是一个完全托管的无模式数据库，用于在BigTable上存储非关系数据.
 * [Hypertable](http://www.hypertable.org/) - 受BigTable启发的面向列的分布式数据存储区.
 * [InfiniDB](https://github.com/infinidb/infinidb/) - 通过MySQL接口访问，并使用大规模并行处理来并行化查询.
 * [Tephra](https://github.com/caskdata/tephra) -  HBase的交易.
 * [Twitter Manhattan](https://blog.twitter.com/engineering/en_us/a/2014/manhattan-our-real-time-multi-tenant-distributed-database-for-twitter-scale.html) - 用于Twitter规模的实时，多租户分布式数据库.
-* [ScyllaDB](http://www.scylladb.com/) - 使用C ++编写的面向列的分布式数据存储区，与Apache Cassandra完全兼容.
+* [ScyllaDB](http://www.scylladb.com/) - column-oriented distributed datastore written in C++, totally compatible with Apache Cassandra.
 
 
 ## Key-value Data Model
@@ -256,7 +219,7 @@
 ## NewSQL Databases
 
 * [Actian Ingres](http://www.actian.com/products/operational-databases/) - 商业支持的开源SQL关系数据库管理系统.
-* [ActorDB](https://github.com/biokoda/actordb) - 具有KV存储的可伸缩性的分布式SQL数据库，同时保持关系数据库的查询功能.
+* [ActorDB](https://github.com/biokoda/actordb) - a distributed SQL database with the scalability of a KV store, while keeping the query capabilities of a relational database.
 * [Amazon RedShift](http://aws.amazon.com/redshift/) - 基于PostgreSQL的数据仓库服务.
 * [BayesDB](http://probcomp.csail.mit.edu/bayesdb/index.html) - 面向统计的SQL数据库.
 * [Bedrock](http://bedrockdb.com/) - 在SQLite上构建的简单，模块化，联网和分布式事务层.
@@ -293,7 +256,7 @@
 * [Kairosdb](https://github.com/kairosdb/kairosdb) - 类似于OpenTSDB但允许使用Cassandra.
 * [M3DB](http://m3db.github.io/m3/m3db/) - 分布式时间序列数据库，可用于存储长期保留的实时指标.
 * [Newts](https://opennms.github.io/newts/) - 基于Apache Cassandra的时间序列数据库.
-* [OpenTSDB](http://opentsdb.net) - 在HBase之上的分布式时间序列数据库.
+* [OpenTSDB](http://opentsdb.net) - distributed time series database on top of HBase.
 * [Prometheus](https://prometheus.io/) - 时间序列数据库和服务监控系统.
 * [Beringei](https://github.com/facebookincubator/beringei) -  Facebook的内存时间序列数据库.
 * [TrailDB](http://traildb.io/) - 用于存储和查询一系列事件的有效工具.
@@ -407,7 +370,7 @@
 * [Etsy Conjecture](https://github.com/etsy/Conjecture) - 可扩展的机器学习在烫伤.
 * [GraphLab Create](https://dato.com/products/create/) -  Python中的机器学习平台，具有广泛的ML工具包，数据工程和部署工具.
 * [H2O](https://github.com/h2oai/h2o-3/)   - 使用Hadoop进行统计，机器学习和数学运行时.  R和Python.
-* [Keras](https://github.com/fchollet/keras) - An intuitive neural net API inspired by Torch that runs atop Theano and Tensorflow.
+* [Keras](https://github.com/fchollet/keras) - 受Torch启发的直观神经网络API，在Theano和Tensorflow之上运行.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过在一个分析管道中组合（i）特征工程和机器学习（ii）模型训练和预测（iii）表格填充和通过用户定义（Python）函数的列评估，显着简化数据处理和分析.
 * [Mahout](http://mahout.apache.org/) - 用于Hadoop的Apache支持的机器学习库.
 * [MLbase](http://www.mlbase.org/) - 用于BDAS堆栈的分布式机器学习库.
@@ -427,7 +390,7 @@
 * [Torch](https://github.com/torch) - 由纽约大学和Facebook支持的具有Lua API的深度学习库.
 * [Velox](https://github.com/amplab/velox-modelserver) - 用于提供机器学习预测的系统.
 * [Vowpal Wabbit](https://github.com/JohnLangford/vowpal_wabbit/wiki) - 由微软和雅虎赞助的学习系统！
-* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - suite of machine learning software.
+* [WEKA](http://www.cs.waikato.ac.nz/ml/weka/) - 机器学习软件套件.
 * [BidMach](https://github.com/BIDData/BIDMach) -  CPU和GPU加速的机器学习库.
 
 ## Benchmarking
@@ -473,15 +436,14 @@
 * [Apache Metron](http://metron.apache.org/) - 集成各种开源大数据技术的平台，为安全监控和分析提供集中的工具.
 * [Apache Nutch](http://nutch.apache.org/) - 开源网络爬虫.
 * [Apache OODT](http://oodt.apache.org/) - 为NASA的科学档案捕获，处理和共享数据.
-* [Apache Tika](https://tika.apache.org/) - 内容分析工具包.
 * [Argus](https://github.com/salesforce/Argus) - 时间序列监控和警报平台.
-* [AthenaX](https://github.com/uber/AthenaX) - a streaming analytics platform that enables users to run production-quality, large scale streaming analytics using Structured Query Language (SQL).
+* [AthenaX](https://github.com/uber/AthenaX) - 流分析平台，使用户能够使用结构化查询语言（SQL）运行生产质量的大规模流分析.
 * [Atlas](https://github.com/Netflix/atlas) - 用于管理维度时间序列数据的后端.
 * [Countly](https://count.ly/) - 基于Node.js和MongoDB的开源移动和网络分析平台.
 * [Domino](https://www.dominodatalab.com/) - 运行，扩展，共享和部署模型 - 无需任何基础架构.
 * [Eclipse BIRT](http://www.eclipse.org/birt/) - 基于Eclipse的报告系统.
 * [ElastAert](https://github.com/Yelp/elastalert) -  ElastAlert是一个简单的框架，用于警告ElasticSearch中的数据中的异常，尖峰或其他感兴趣的模式.
-* [Eventhub](https://github.com/Codecademy/EventHub) - 开源事件分析平台.
+* [Eventhub](https://github.com/Codecademy/EventHub) - open source event analytics platform.
 * [Hermes](https://github.com/allegro/hermes) - 构建在Kafka之上的异步消息代理.
 * [HIPI Library](http://hipi.cs.virginia.edu/) - 用于在Hadoop的MapReduce上执行图像处理任务的API.
 * [Hunk](https://www.splunk.com/en_us/download/hunk.html) - 针对Hadoop的Splunk分析.
@@ -513,7 +475,6 @@
 * [Google Percolator](https://research.google.com/pubs/pub36726.html) - 连续索引系统.
 * [TeraGoogle]（） - 大型搜索索引.
 * [HBase Coprocessor](https://blogs.apache.org/hbase/entry/coprocessor_introduction) - 实施Percolator，HBase的一部分.
-* [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - 快速轻松地搜索存储在HBase中的任何内容.
 * [LinkedIn Bobo](http://senseidb.github.io/bobo/) - 是纯粹用Java编写的分面搜索实现，是Apache Lucene的扩展.
 * [LinkedIn Cleo](https://github.com/linkedin/cleo) - 是一个灵活的软件库，用于实现部分，无序和实时预先搜索的快速开发.
 * [LinkedIn Galene](https://engineering.linkedin.com/search/did-you-mean-galene) -  LinkedIn的搜索架构.
@@ -588,7 +549,7 @@
 ## Data Visualization
 
 * [Airpal](https://github.com/airbnb/airpal) -  PrestoDB的Web UI.
-* [AnyChart](http://www.anychart.com) - 快速，简单和灵活的JavaScript（HTML5）图表库，具有纯JS API.
+* [AnyChart](http://www.anychart.com) - fast, simple and flexible JavaScript (HTML5) charting library featuring pure JS API.
 * [Arbor](https://github.com/samizdatco/arbor) - 使用web worker和jQuery的图形可视化库.
 * [Banana](https://github.com/LucidWorks/banana)   - 可视化存储在Solr中的日志和带时间戳的数据.  Kibana港.
 * [Bloomery](https://github.com/ufukomer/bloomery) -  Impala的Web UI.
@@ -612,7 +573,7 @@
 * [Freeboard](https://github.com/Freeboard/freeboard) - 用于物联网和其他网络混搭的笔源实时仪表板构建器.
 * [Gephi](https://github.com/gephi/gephi)   - 屡获殊荣的开源平台，用于可视化和操作大型图形和网络连接.  这就像Photoshop，但对于图表.  适用于Windows和Mac OS X.
 * [Google Charts](https://developers.google.com/chart/) - 简单的图表API.
-* [Grafana](https://grafana.com/) - graphite dashboard frontend, editor and graph composer.
+* [Grafana](https://grafana.com/) - 石墨仪表板前端，编辑器和图形作曲家.
 * [Graphite](http://graphiteapp.org/) - 可扩展的实时图形.
 * [Highcharts](https://www.highcharts.com/) - 简单灵活的图表API.
 * [IPython](http://ipython.org/) - 为交互式计算提供丰富的架构.
@@ -643,7 +604,7 @@
 * [Pubnub](https://www.pubnub.com/) - 数据流网络
 * [ThingWorx](https://www.thingworx.com/) - 智能系统的快速开发和连接
 * [IFTTT](https://ifttt.com/) - 如果这样那么
-* [Evrything](https://evrythng.com/)- Making products smart
+* [Evrything](https://evrythng.com/)- 使产品变得聪明
 * [NetLytics](https://github.com/marty90/netlytics/) - 用于处理Spark网络数据的分析平台.
 
 ## Interesting Readings
@@ -661,15 +622,9 @@
 
 ### 2013 - 2014
 * [2014](http://infolab.stanford.edu/~ullman/mmds/book.pdf) -  **斯坦福**  - 大规模数据集的挖掘.
-* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/03/eurosys13-paper83.pdf) -  ** AMPLab **  -  Presto：使用稀疏矩阵的分布式机器学习和图形处理.
-* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/01/dmx1.pdf) -  ** AMPLab **  -  MLbase：分布式机器学习系统.
-* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/02/shark_sigmod2013.pdf) -  ** AMPLab **  -  Shark：大规模的SQL和Rich Analytics.
-* [2013](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/05/grades-graphx_with_fonts.pdf) -  ** AMPLab **  -  GraphX：Spark上的弹性分布式图形系统.
-* [2013](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/40671.pdf) -  ** Google **  - 实践中的HyperLogLog：一种先进技术基数估算算法的算法工程.
 * [2013](http://research.microsoft.com/pubs/200169/now-vldb.pdf) -  ** Microsoft **  - 云中大数据的可扩展渐进式分析.
 * [2013](http://static.druid.io/docs/druid.pdf) -  ** Metamarkets **  - 德鲁伊：一个实时分析数据存储.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p764-rae.pdf) -  ** Google **  - 在线，F1中的异步架构更改.
-* [2013](http://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/41344.pdf) -  ** Google **  -  F1：可扩展的分布式SQL数据库.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p734-akidau.pdf) -  ** Google **  -  MillWheel：Internet规模的容错流处理.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p767-wiener.pdf) -  ** Facebook **  -  Scuba：在Facebook上潜入数据.
 * [2013](http://db.disi.unitn.eu/pages/VLDBProgram/pdf/industry/p871-curtiss.pdf) -  ** Facebook **  - 独角兽：搜索社交图的系统.
@@ -677,35 +632,22 @@
 
 ### 2011 - 2012
 
-* [2012](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) - **Twitter** - The Unified Logging Infrastructure
+* [2012](http://vldb.org/pvldb/vol5/p1771_georgelee_vldb2012.pdf) -  ** Twitter **  - 统一记录基础设施
 在Twitter上进行数据分析.
-* [2012](https://amplab.cs.berkeley.edu/wp-content/uploads/2013/04/blinkdb_vldb12_demo.pdf) -  ** AMPLab **  - 闪烁和完成：对超大数据的交互式查询.
 * [2012](https://www.usenix.org/system/files/login/articles/zaharia.pdf) -  ** AMPLab **  - 使用Spark快速和交互式分析Hadoop数据.
-* [2012](https://amplab.cs.berkeley.edu/wp-content/uploads/2012/03/mod482-xin1.pdf) -  ** AMPLab **  - 鲨鱼：使用粗粒度分布式内存进行快速数据分析.
 * [2012](https://www.usenix.org/legacy/event/nsdi11/tech/full_papers/Bolosky.pdf) -  ** Microsoft **  -  Paxos复制状态机作为高性能数据存储的基础.
 * [2012](http://research.microsoft.com/pubs/178045/ppaoxs-paper29.pdf) -  **微软**  -  Paxos Made Parallel.
 * [2012](https://arxiv.org/pdf/1203.5485.pdf) -  ** AMPLab **  -  BlinkDB：​​对超大数据的有界错误和有限响应时间的查询.
 * [2012](http://vldb.org/pvldb/vol5/p1436_alexanderhall_vldb2012.pdf) -  ** Google **  - 每次点击鼠标处理一万亿个单元格.
-* [2012](http://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) -  ** Google **  -  Spanner：Google的全球分布式数据库.
-* [2011](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/euro118-ananthanarayanan.pdf) -  ** AMPLab **  -  Scarlett：应对MapReduce集群中的流行内容.
-* [2011](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Mesos-A-Platform-for-Fine-Grained-Resource-Sharing-in-the-Data-Center.pdf) -  ** AMPLab **  -  Mesos：数据中心中细粒度资源共享的平台.
-* [2011](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36971.pdf) -  ** Google **  -  Megastore：为互动服务提供可扩展，高度可用的存储空间.
 
 ### 2001 - 2010
 
 * [2010](https://www.usenix.org/legacy/event/osdi10/tech/full_papers/Beaver.pdf) -  ** Facebook **  - 在Haystack找到一针：Facebook的照片存储.
-* [2010](https://amplab.cs.berkeley.edu/wp-content/uploads/2011/06/Spark-Cluster-Computing-with-Working-Sets.pdf) -  ** AMPLab **  -  Spark：带工作集的集群计算.
 * [2010](http://kowshik.github.io/JPregel/pregel_paper.pdf) -  ** Google **  -  Pregel：用于大规模图形处理的系统.
-* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36726.pdf) -  ** Google **  - 使用分布式交易的大规模增量处理和过滤器和咖啡因的基础知识.
-* [2010](http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf) -  ** Google **  -  Dremel：网络规模数据集的互动分析.
 * [2010](http://leoneu.github.io/) -  ** Yahoo **  -  S4：分布式流计算平台.
-* [2009](http://www.vldb.org/pvldb/2/vldb09-861.pdf) -  HadoopDB：用于分析工作负载的MapReduce和DBMS技术的架构混合体.
+* [2009](http://www.vldb.org/pvldb/2/vldb09-861.pdf) - HadoopDB: An Architectural Hybrid of MapReduce and DBMS Technologies for Analytical Workloads.
 * [2008](http://www.cca08.org/papers/Paper-13-Ariel-Rabkin.pdf) -  ** AMPLab **  -  Chukwa：一个大型监控系统.
 * [2007](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/decandia07dynamo.pdf) -  **亚马逊**  -  Dynamo：亚马逊的高可用键值商店.
-* [2006](http://static.googleusercontent.com/media/research.google.com/en//archive/chubby-osdi06.pdf) -  ** Google **  - 用于松耦合分布式系统的Chubby锁定服务.
-* [2006](http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en//archive/bigtable-osdi06.pdf) -  ** Google **  -  Bigtable：结构化数据的分布式存储系统.
-* [2004](http://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf) -  ** Google **  -  MapReduce：大型集群上的简化数据处理.
-* [2003](http://static.googleusercontent.com/media/research.google.com/en//archive/gfs-sosp2003.pdf) -  ** Google **  -  Google文件系统.
 
 ## Videos
 

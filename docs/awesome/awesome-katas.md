@@ -1,17 +1,10 @@
+<div class="github-widget" data-repo="gamontal/awesome-katas"></div>
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 ## Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;精选的代码katas列表
 
-## Table of Contents
 
-- [Introduction](#introduction)
-- [Dave Thomas's CodeKata](#codekata)
-- [Wonderland Clojure Katas](#wonderland-clojure-katas)
-- [SensioLabs PoleDev Katas](#sensiolabs-poledev-katas)
-- [Gaurav Arora's TDD Katas Collection](#gaurav-aroras-tdd-katas-collection)
-- [Others](#others)
-- [Contribution](#contribution)
 
 ## Introduction
  kata或代码kata被定义为编程练习，有助于通过练习和重复来磨练你的技能.  戴夫托马斯 [@pragdave](https://twitter.com/pragdave) ，开始这个编程运动.  这个项目旨在为您提供我在互联网和Github社区中发现的一些kata练习列表.  这些练习从一般到更复杂的算法和现实生活情况不等，您可以尝试使用首选的编程语言.  请记住，代码katas不是测验或谜题.  您不仅应该尝试“解决”它，而应该按照您正在使用的编程语言的最佳实践找到一个非常好的解决方案.

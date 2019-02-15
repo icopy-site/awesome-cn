@@ -1,10 +1,10 @@
+<div class="github-widget" data-repo="aurelia-contrib/awesome-aurelia"></div>
 <p align="center">
   <a href="https://github.com/behzad888/awesome" target="_blank">
     <img src="https://raw.githubusercontent.com/aurelia-contrib/awesome-aurelia/master/media/aurelia-awesome.png" alt="Awesome Aurelia" />
   </a>
 </p>
 
-## Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
 
 精选的Aurelia图书馆，资源和闪亮的东西的精选列表.
 
@@ -12,7 +12,6 @@
 
 [![npm Version](https://img.shields.io/npm/v/aurelia-framework.svg)](https://www.npmjs.com/package/aurelia-framework)
 
-## Table of Contents
 
 * [Aurelia](#aurelia)
   * [Official Resources](#official-resources)
@@ -183,7 +182,6 @@
 * [aurelia-react-loader](https://github.com/bryanrsmith/aurelia-react-loader) *直接从Aurelia视图加载React组件
 * [aurelia-validatejs](https://github.com/aurelia/validatejs) {official} *使用装饰器和/或流畅的API启用表达式验证.
 * [aurelia-view-pipeline](https://github.com/behzad888/aurelia-view-pipeline) *用于将任何Markdown加载到自定义元素中的插件
-* [aurelia-routed-footer](https://github.com/drivesoftware/aurelia-routed-footer) * An Aurelia plugin which adds the ability to control footer content via the router
 * [aurelia-api](https://github.com/SpoonX/aurelia-api) {ES6 / TS / Webpack} * aurelia-fetch-client的包装器，用于多个端点
 * [aurelia-authentication](https://github.com/SpoonX/aurelia-authentication) {ES6 / TS / Webpack} * aurelia的身份验证插件，支持aurelia-api.
 * [aurelia-orm](https://github.com/SpoonX/aurelia-orm) {ES6 / TS / Webpack} *使用实体并简单地调用您的Rest API.
@@ -216,7 +214,7 @@
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) *基于Aurelia构建的用于桌面业务应用程序的定制UI框架
 * [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) * aurelia标签输入插件
 * [aurelia-formio](https://github.com/formio/aurelia-formio) *动态JSON表单呈现器和表单生成器 -  [See Example](https://formio.github.io/aurelia-formio/)
-* [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * iOS风格的swipeout操作的自定义元素 -  [Demo](https://michaelbull.github.io/aurelia-swipeout/)
+* [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
 * [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) *可调整大小的拆分窗格的自定义元素 -  [Demo](https://michaelbull.github.io/aurelia-split-pane/)
 * [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) *一组与第三方Bootstrap插件桥接的插件 -  [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Slickgrid是性能和定制的最佳javascript数据网格现在可在Aurelia中使用 -  [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
@@ -230,7 +228,6 @@
 * [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) *使用TinyAnimate实现Aurelia基础动画师
 * [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) * Aurelia和TinyMCE的示例应用程序
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) *使用Bootstrap在Aurelio中编写的下一代邮票Web编辑器
-* [aurelia-tabs](https://github.com/Vheissu/aurelia-tabs)  * Aurelia应用程序的无依赖关系选项卡组件.  允许您在内容部分之间切换，支持使用可选数据动态编写视图
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) *使用Flickr匹配TypeScript中使用Aurelia编写的游戏对类型
 * [aurelia-datatable](https://github.com/SpoonX/aurelia-datatable) *基于100％aurelia的数据表组件 [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 

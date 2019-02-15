@@ -1,22 +1,8 @@
+<div class="github-widget" data-repo="melvin0008/awesome-projects-boilerplates"></div>
 ## Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的样板和模板清单，以提高生产力.
 
-- [Awesome Projects Boilerplates](#awesome-projects-boilerplates)
-    - [Android Development](#android-development)
-    - [iOS Development](#ios-development)
-    - [JavaScript](#javascript)
-    - [Hybrid Mobile App Frameworks](#hybrid-mobile-app-frameworks)
-    - [Python](#python)
-    - [PHP](#php)
-    - [Ruby](#ruby)
-    - [.NET](#net)
-    - [Go](#go)
-    - [Browser Webextensions](#browser-webextensions)
-    - [Websites](#websites)
-    - [IDE Templates](#ide-templates)
-    - [GitHub](#github)
-- [Contributing](#contributing)
 
 
 
@@ -51,7 +37,6 @@
 
 - [Yeoman](https://github.com/yeoman)  用于现代webapps的web脚手架工具.  包含许多生成器以开始使用.
 - [Mega Boilerplate](https://github.com/sahat/megaboilerplate) Fullstack样板生成器，支持Node.js，静态站点或Electron应用程序. 
-- [NodeJS](#node-js)
     - [Yeoman Node Generator](https://github.com/yeoman/generator-node) Yeomans节点生成器   
     - [Node Module boilerplate](https://github.com/sindresorhus/node-module-boilerplate) 用于kickstart创建节点模块的Boilerplate
     - [Express Boilerplate](https://github.com/expressjs/generator) Express.js项目的Boilerplate生成器
@@ -59,11 +44,9 @@
     - [Node/Backbone Web App Boilerplate](https://github.com/skaapgif/webapp-boilerplate) 带有Node，Express，MongoDB后端和Backbone Marionette，Jade，Require.js前端的Web应用程序的Boilerplate.
     - [Nodebootstrap](http://nodebootstrap.io/) 具有预先配置的最佳实践的Node / Express.js的不显眼的骨架项目.
     - [Vue-Express-Mongo Boilerplate](https://github.com/icebob/vue-express-mongo-boilerplate) - 具有Express，Mongo和VueJS的完整堆栈JS Web应用程序样板.
-- [AngularJS](#angular-js)
     - [ng-boilerplate](https://github.com/ngbp/ngbp) AngularJS项目的一个固执己见的kickstarter.
     - [Yeoman Angular Generator](https://github.com/yeoman/generator-angular)
     - [Angular Laravel CouchDB](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
-- [ReactJS](#react-js)
     - [React Boilerplate](https://github.com/petehunt/react-boilerplate) 用于创建React npm包的Boilerplate
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) 使用React Router和webpack实现样板
     - [React Transform Boilerplate](https://github.com/gaearon/react-transform-boilerplate) 一个新的Webpack样板，带有热重新加载React组件，以及模块和组件级别的错误处理.
@@ -77,19 +60,14 @@
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) 最小的React-Redux样板，包含所有最佳实践
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) 使用express，react，redux，webpack和react-transform的通用webapp的入门样板
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) 使用3REE堆栈（React，Redux，RethinkDB，Express）+ PostCSS的通用应用程序的Boilerplate
-- [HyperApp](#hyperapp)
-    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate显示如何创建生产就绪的Hyperapp应用程序.
-- [Backbone](#backbone)
+    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Addy Osmani的Backbone Boilerplates.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Backoman的Yeoman发电机.
     - [benm](https://github.com/shorttompkins/benm) 使用Backbone.js，ExpressJS，node.js，MongoDB的Boilerplate Web应用程序.
-- [Jquery](#jquery)
     - [Generator Jquery Boilerplate](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) 用于jQuery Boilerplate的Yeoman Generator.
-- [Polymer](#polymer)
     - [Polymer Starter Kit](https://github.com/PolymerElements/polymer-starter-kit) Polymer 1.0应用程序的起点.
     - [Polymer Seed Element](https://github.com/PolymerElements/seed-element) 一个元素，为您自己的可重复使用的Polymer元素提供起点.
     - [Yeoman Polymer Generator](https://github.com/yeoman/generator-polymer) Yeoman的聚合物发生器
-- [Electron](#electron)
     - [Electron Boilerplate](https://github.com/sindresorhus/electron-boilerplate) 电子节点的锅炉板
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) 用于使用现代技术制作3D应用程序的入门套件
 
@@ -155,7 +133,7 @@
 
 ## Websites
 
-*Boilerplates and templates for Websites*
+*网站的锅炉和模板*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web最受欢迎的前端模板
 - [Meteor boilerplate](https://github.com/Differential/meteor-boilerplate) 流星框架的Boilerplate.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) 谷歌的Web入门套件.

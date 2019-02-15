@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="yissachar/awesome-dart"></div>
 真棒飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
@@ -7,29 +8,8 @@
 
 请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不适合的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ;  你摇滚！
 
-### Contents
 
 *图书馆
-  * [Client Web App Frameworks](#client-web-app-frameworks)
-  * [Server Frameworks](#server-frameworks)
-  * [Game Development](#game-development)
-  * [Animation](#animation)
-  * [Template](#template)
-  * [Database](#database)
-  * [Package Managers](#package-managers)
-  * [Utilities](#utilities)
-  * [Dependency Injection](#dependency-injection)
-  * [Parsers](#parsers)
-  * [Validation](#validation)
-  * [ORM](#orm)
-  * [Image](#image)
-  * [Algorithms](#algorithms)
-  * [Testing](#testing)
-* [Tools](#tools)
-* [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
-* [Tutorials](#tutorials)
-* [Community](#community)
-* [Everything Else](#everything-else)
 
 ----
 
@@ -57,7 +37,6 @@
 ## Game Development
 
 * [Flame](https://github.com/luanpotter/flame#readme) - 极简主义的Flutter游戏引擎
-* [StageXL](http://www.stagexl.org/) -  StageXL提供易于使用且完整的API（基于Flash API），可用于令人印象深刻的2D内容，如游戏和其他丰富的应用程序.
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) -  DartRocket是一个用Dart编写的HTML5游戏框架，它使用StageXL渲染引擎.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) -  pixi.js渲染引擎的一个端口.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - 以HTML5 Canvas为中心的游戏引擎和场景图.
@@ -89,7 +68,7 @@
 * [Archive](https://pub.dartlang.org/packages/archive) - 用于编码和解码各种存档和压缩格式的库.
 * [built_collection](https://github.com/google/built_collection.dart) - 通过构建器模式的不可变集合. 
 * [built_value](https://github.com/google/built_value.dart) - 不可变值类型，枚举类和序列化.
-* [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
+* [Frappe](https://pub.dartlang.org/packages/frappe)   -  Dart的功能反应式编程库.  Frappé扩展了Dart流的功能，并引入了属性/信号等新概念.
 * [Quiver](https://github.com/google/quiver-dart) - 一组实用程序库，可以更轻松，更方便地使用许多库，或者添加其他功能.
 * [route_hierarchical](https://github.com/angular/route.dart) -  Route是Dart的客户端路由库，可帮助构建单页Web应用程序.
 

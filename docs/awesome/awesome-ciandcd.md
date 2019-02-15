@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ciandcd/awesome-ciandcd"></div>
 ## ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **持续集成和持续交付**
@@ -10,33 +11,6 @@
 软件集成  
 devops  
 
-- [ciandcd](#ciandcd)
-- [Theory](#theory)
-- [Build And Release System](#build-and-release-system)
-- [Online Build System](#online-build-system)
-- [Infrastructure](#infrastructure)
-- [dev env](#dev-env)
-- [Source Code Management](#source-code-management)
-- [Code Review](#code-review)
-- [Build](#build)
-- [Static Check](#static-check)
-- [Dynamic Check](#dynamic-check)
-- [Performance Analysis](#performance-analysis)
-- [Coverage](#coverage)
-- [Testing](#testing)
-- [Package](#package)
-- [Deploy](#deploy)
-- [Delivery](#delivery)
-- [Provisioning Tools](#provisioning-tools)
-- [Web Server](#web-server)
-- [Applications And Container](#applications-and-container)
-- [OS And Shell](#os-and-shell)
-- [Database Version Control](#database-version-control)
-- [Useful Sites](#useful-sites)
-- [Conference And Submit](#conference-and-submit)
-- [Books](#books)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contact](#contact)
 
 ## Theory
 持续整合和持续交付的理论  
@@ -139,7 +113,7 @@ devops
 ## Code Review
 代码审查工具  
 * [codecollaborator](http://smartbear.com/product/collaborator/overview/) 协作者帮助开发，测试和管理团队协同工作，以生成高质量的代码  
-* [crucible](https://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
+* [crucible](https://www.atlassian.com/software/crucible/overview)   代码评论=质量代码.  使用Crucible灵活的审核工作流程审核代码，讨论变更，分享知识并识别缺陷.  Subversion，CVS，Perforce等的代码审查变得简单  
 * [reviewboard](https://www.reviewboard.org/)  审查委员会从代码审查中解脱出来，节省您的时间，金钱和理智，使您可以专注于制作出色的软件  
 * [codestriker](http://codestriker.sourceforge.net)   Codestriker是一个开源的Web应用程序，支持在线代码审查.  支持传统的文档审阅，以及审查由SCM（源代码管理）系统生成的差异和简单的unidiff补丁  
 * [getbarkeep](http://getbarkeep.org) 一种快速，有趣的方式来审查代码  
@@ -189,7 +163,7 @@ Software performance analysis tools
 软件测试框架和工具  
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  测试自动化维基页面  
 * [softwareqatest](http://www.softwareqatest.com) FAQ页面  
-* [qaforums](http://www.qaforums.com)  SQA论坛  
+* [qaforums](http://www.qaforums.com)  SQA Forums  
 * [opensourcetesting](http://www.opensourcetesting.org)  开源软件测试工具，新闻和讨论   
 * [selenium](http://www.seleniumhq.org)  Selenium自动化浏览器
 * [Monkey Test It](https://monkeytest.it) 使用CURLable API的免费自动化网站测试程序
@@ -219,7 +193,6 @@ Software performance analysis tools
 * [archiva](http://archiva.apache.org/index.cgi)   Apache Archiva™是一个可扩展的存储库管理软件，可帮助您处理自己的个人或企业范围的构建工件库.  它是构建工具（如Maven，Continuum和ANT）的完美伴侣  
 * [nexus](http://www.sonatype.com/nexus)  使用存储库管理器（也称为组件管理器）可帮助软件开发团队在操作的速度，效率和质量方面实现简单的提升  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet是一个机器包管理器，有点像apt-get，但在构建时考虑到了Windows  
-* [pulp](http://www.pulpproject.org/)  Pulp是一个用于管理内容存储库（例如软件包）并将该内容推送给大量消费者的平台.  
 * [herd](https://github.com/russss/Herd) 基于Twitter的谋杀案的单命令bittorrent分发系统     
 * [murder](https://github.com/lg/murder)  大型服务器使用来自twitter.com的BitTorrent和BitTornado库进行部署  
 

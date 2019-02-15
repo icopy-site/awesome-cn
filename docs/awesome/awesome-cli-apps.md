@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
 <h1 align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
 	<br>
@@ -17,48 +18,10 @@
 
 <h1 align="center"> <a href="https://github.com/agarrharr/awesome-cli-apps/issues/247">寻找新的维护者</a> </h1>
 
-## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**目录** *生成 [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Entertainment](#entertainment)
-  - [Music](#music)
-  - [Social Media](#social-media)
-  - [Video](#video)
-  - [Games](#games)
-- [Development](#development)
-  - [Text Editors](#text-editors)
-  - [Web Development](#web-development)
-  - [Mobile Development](#mobile-development)
-- [Devops](#devops)
-- [Database](#database)
-- [Productivity](#productivity)
-- [Utilities](#utilities)
-  - [macOS](#macos)
-- [Command Line Learning](#command-line-learning)
-- [Data Manipulation](#data-manipulation)
-- [Files and Directories](#files-and-directories)
-  - [File managers](#file-managers)
-  - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
-  - [Files](#files)
-  - [Directory Listing](#directory-listing)
-  - [Directory Navigation](#directory-navigation)
-- [Terminal Utilities](#terminal-utilities)
-- [Version Control](#version-control)
-  - [Git](#git)
-  - [Changelogs](#changelogs)
-- [Images](#images)
-  - [Gif Creation](#gif-creation)
-  - [Image Conversion](#image-conversion)
-- [SVG](#svg)
-- [Text Manipulation](#text-manipulation)
-- [Screensavers](#screensavers)
-- [Graphics](#graphics)
-- [Other](#other)
-- [Other Awesome Lists](#other-awesome-lists)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -126,8 +89,8 @@
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - 检查凉亭上是否有包裹名称.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
-- [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
+- [htconvert](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是上升还是下降.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - 检查npm上是否有可用的包名.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - 获取npm用户的用户信息.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.

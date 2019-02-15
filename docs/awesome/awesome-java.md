@@ -1,82 +1,9 @@
+<div class="github-widget" data-repo="akullpp/awesome-java"></div>
 ## Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选的Java框架，库和软件的精选列表.
 
-## Contents
 
-- [Projects](#projects)
-  - [Bean Mapping](#bean-mapping)
-  - [Build](#build)
-  - [Bytecode Manipulation](#bytecode-manipulation)
-  - [Caching](#caching)
-  - [CLI](#cli)
-  - [Cluster Management](#cluster-management)
-  - [Code Analysis](#code-analysis)
-  - [Code Coverage](#code-coverage)
-  - [Code Generators](#code-generators)
-  - [Compiler-compiler](#compiler-compiler)
-  - [Configuration](#configuration)
-  - [Constraint Satisfaction Problem Solver](#constraint-satisfaction-problem-solver)
-  - [CSV](#csv)
-  - [Data structures](#data-structures)
-  - [Database](#database)
-  - [Date and Time](#date-and-time)
-  - [Dependency Injection](#dependency-injection)
-  - [Development](#development)
-  - [Distributed Applications](#distributed-applications)
-  - [Distributed Transactions](#distributed-transactions)
-  - [Distribution](#distribution)
-  - [Document Processing](#document-processing)
-  - [Formal Verification](#formal-verification)
-  - [Functional Programming](#functional-programming)
-  - [Game Development](#game-development)
-  - [Geospatial](#geospatial)
-  - [GUI](#gui)
-  - [High Performance](#high-performance)
-  - [HTTP Clients](#http-clients)
-  - [Hypermedia Types](#hypermedia-types)
-  - [IDE](#ide)
-  - [Imagery](#imagery)
-  - [JSON Processing](#json-processing)
-  - [JSON](#json)
-  - [JVM and JDK](#jvm-and-jdk)
-  - [Logging](#logging)
-  - [Machine Learning](#machine-learning)
-  - [Messaging](#messaging)
-  - [Microservice](#microservice)
-  - [Miscellaneous](#miscellaneous)
-  - [Monitoring](#monitoring)
-  - [Native](#native)
-  - [Natural Language Processing](#natural-language-processing)
-  - [Networking](#networking)
-  - [ORM](#orm)
-  - [PaaS](#paas)
-  - [PDF](#pdf)
-  - [Performance analysis](#performance-analysis)
-  - [Platform](#platform)
-  - [Processes](#processes)
-  - [Reactive libraries](#reactive-libraries)
-  - [REST Frameworks](#rest-frameworks)
-  - [Science](#science)
-  - [Search](#search)
-  - [Security](#security)
-  - [Serialization](#serialization)
-  - [Server](#server)
-  - [Template Engine](#template-engine)
-  - [Testing](#testing)
-  - [Utility](#utility)
-  - [Version Managers](#version-managers)
-  - [Web Crawling](#web-crawling)
-  - [Web Frameworks](#web-frameworks)
-- [Resources](#resources)
-  - [Awesome Lists](#awesome-lists)
-  - [Communities](#communities)
-  - [Frontends](#frontends)
-  - [Influential Books](#influential-books)
-  - [Podcasts and Screencasts](#podcasts-and-screencasts)
-  - [Twitter](#twitter)
-  - [Websites](#websites)
-- [Contributing](#contributing)
 
 ## Projects
 
@@ -1007,7 +934,6 @@
 
 ### Web Crawling
 
-*分析网站内容的图书馆.*
 
 - [Apache Nutch](https://nutch.apache.org) - 适用于生产环境的高度可扩展，高度可扩展的Web爬虫.
 - [Crawler4j](https://github.com/yasserg/crawler4j) - 简单轻便的网络爬虫.

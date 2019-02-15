@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="veggiemonk/awesome-docker"></div>
 ## Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) [![Say Thanks](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/veggiemonk)
 
 &gt; Docker资源和项目的精选列表
@@ -18,59 +19,9 @@
 
 所有链接都经过监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
 
-## Contents
 
 <!-- TOC -->
 
-- [What is Docker](#what-is-docker)
-- [Where to start](#where-to-start)
-- [Where to start (Windows)](#where-to-start-windows)
-- [Projects](#projects)
-  - [Container Operations](#container-operations)
-    - [Container Composition](#container-composition)
-    - [Deployment and Infrastructure](#deployment-and-infrastructure)
-    - [Monitoring](#monitoring)
-    - [Networking](#networking)
-    - [Orchestration](#orchestration)
-    - [PaaS](#paas)
-    - [Reverse Proxy](#reverse-proxy)
-    - [Security](#security)
-    - [Service Discovery](#service-discovery)
-    - [Volume Management / Data](#volume-management--data)
-    - [User Interface](#user-interface)
-      - [Desktop](#desktop)
-      - [Terminal](#terminal)
-      - [Web](#web)
-  - [Docker Images](#docker-images)
-    - [Base Tools](#base-tools)
-    - [Builder](#builder)
-    - [Dockerfile](#dockerfile)
-    - [Linter](#linter)
-    - [Metadata](#metadata)
-    - [Registry](#registry)
-  - [Development with Docker](#development-with-docker)
-    - [API Client](#api-client)
-    - [CI/CD](#cicd)
-    - [Development Environment](#development-environment)
-    - [Garbage Collection](#garbage-collection)
-    - [Serverless](#serverless)
-    - [Testing](#testing)
-    - [Wrappers](#wrappers)
-  - [Services based on Docker (:heavy_dollar_sign:)](#services-based-on-docker-heavy_dollar_sign)
-    - [CI Services :heavy_dollar_sign:](#ci-services)
-    - [CaaS :heavy_dollar_sign:](#caas)
-    - [Monitoring Services :heavy_dollar_sign:](#monitoring-services)
-- [Useful Resources](#useful-resources)
-  - [Awesome Lists](#awesome-lists)
-  - [Good Tips](#good-tips)
-  - [Raspberry Pi & ARM](#raspberry-pi--arm)
-  - [Security](#security-1)
-  - [Videos](#videos)
-- [Communities and Meetups](#communities-and-meetups)
-  - [Brazilian](#brazilian)
-  - [Chinese](#chinese)
-  - [English](#english)
-  - [Russian](#russian)
 
 <!-- /TOC -->
 
@@ -107,7 +58,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Where to start (Windows)
 
-- [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) Comparing the feature sets and implementations of Docker on Windows and Linux
+- [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker镜像并运行Windows容器
 - [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) 通过 [@kaitoedter](https://twitter.com/kaitoedter)
 - [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - 您将学习如何识别适合集装箱化的.NET Framework应用程序类型，即容器化的“提升 - 移位”方法.
@@ -233,7 +184,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [caprover](https://github.com/caprover/caprover) -  [以前称为CaptainDuckDuck]自动可扩展Web服务器包（自动Docker + nginx） -  Heroku on Steroids
 - [Convox Rack](https://github.com/convox/rack) -  Convox Rack是基于专家基础架构自动化和devops最佳实践构建的开源PaaS.
 - [Dcw](https://github.com/pbertera/dcw) -  Docker-compose SSH包装器：一个非常差的人PaaS，暴露了容器标签中定义的docker-compose和custom-container命令.
-- [Dokku](https://github.com/dokku/dokku) -  Docker驱动的mini-Heroku，可帮助您构建和管理应用程序的生命周期（最初由[@progrium] [progrium]）
+- [Dokku](https://github.com/dokku/dokku) - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (originally by [@progrium][progrium])
 - [Empire](https://github.com/remind101/empire) - 基于Amazon EC2容器服务（ECS）构建的PaaS
 - [Exoframe](https://github.com/exoframejs/exoframe) - 一个自托管工具，允许使用Docker进行简单的单命令部署
 - [Flynn](https://github.com/flynn/flynn) - 下一代开源平台即服务
@@ -326,7 +277,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [goinside](https://github.com/iamsoorena/goinside)   - 轻松进入正在运行的docker容器.  通过 [@iamsoorena](https://github.com/iamsoorena)
 - [MultiDocker](https://github.com/marty90/multidocker) - 创建一个安全的多用户Docker机器，将每个用户隔离到一个独立的容器中.
 - [ns-enter](https://github.com/jpetazzo/nsenter) - 没有更多的ssh，通过[@jpetazzo] [jpetazzo]输入容器的名称空间
-- [Powerline-Docker](https://github.com/adrianmo/powerline-docker) - A Powerline segment for showing the status of Docker containers by [@adrianmo](https://github.com/adrianmo)
+- [Powerline-Docker](https://github.com/adrianmo/powerline-docker) - 用于显示Docker容器状态的电力线段 [@adrianmo](https://github.com/adrianmo)
 - [proco](https://github.com/shiwaforce/poco)   -  Proco将帮助您使用简单的YAML配置文件组织和管理任何复杂的Docker，Docker-Compose，Kubernetes项目，以缩短从查找项目到在本地环境中初始化项目的路线.  通过 [@shiwaforce](https://github.com/shiwaforce)
 - [reg](https://github.com/genuinetools/reg) -  [@genuinetools] [原工具]的Docker注册表v2命令行客户端
 - [scuba](https://github.com/JonathonReinhart/scuba) - 透明地使用Docker容器来封装软件构建环境 [@JonathonReinhart](https://github.com/JonathonReinhart)
@@ -552,7 +503,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - 基于YAML的快速工具，用于验证docker容器.
 - [DockerSpec](https://github.com/zuazo/dockerspec)   - 一个小型的Ruby Gem，可以轻松地针对Dockerfiles或Docker镜像运行RSpec和Serverspec，Infrataster和Capybara测试.  通过 [@zuazo](https://github.com/zuazo)
 - [Dockunit](https://github.com/dockunit/platform)  ：skull： - 基于Docker的集成测试.  基于节点的简单实用程序，用于运行基于Docker的单元测试.  通过 [@dockunit](https://github.com/dockunit)
-  -  [InSpec] [inspec]  -  InSpec是一个基础设施的开源测试框架，具有人机阅读和机器可读语言，用于指定合规性，安全性和策略要求.  通过 [@chef](https://github.com/chef)
+- [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [@chef](https://github.com/chef)
 - [Pumba](https://github.com/alexei-led/pumba)   -  Docker的混沌测试工具.  可以部署在kubernetes和CoreOS集群上.  通过 [@alexei-led](https://github.com/alexei-led)
 
 ### Wrappers

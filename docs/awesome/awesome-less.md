@@ -1,44 +1,15 @@
+<div class="github-widget" data-repo="LucasBassetti/awesome-less"></div>
 ## Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
  &gt;精选的精简版框架，库，样式指南，文章和资源.  主要的想法是每个人都可以在这里做出贡献，因此我们可以将所有关于Less的信息集中在一起并保持最新.
 
-## Contents
-- [About](#about)
-- [Getting Started](#getting-started)
-- [UI/Theme Frameworks and Components](#uitheme-frameworks-and-components)
-- [Libraries and Mixins](#libraries-and-mixins)
-  - [Grid](#grid)
-  - [Media Queries](#media-queries)
-  - [Color](#color)
-  - [Animation](#animation)
-  - [Miscellaneous](#miscellaneous)
-- [Style Guides](#style-guides)
-- [Ports of Less](#ports-of-less)
-  - [Java](#java)
-  - [.Net](#net)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Ruby](#ruby)
-  - [Go](#go)
-- [GUIs, Editors and Plugins](#guis-editors-and-plugins)
-- [Online Less Compilers](#online-less-compilers)
-- [Online Web IDEs/Playgrounds with Less support](#online-web-idesplaygrounds-with-less-support)
-- [Translations](#translations)
-- [Articles](#articles)
-- [Books](#books)
-- [Videos](#videos)
-- [Experiments](#experiments)
-- [Community](#community)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
  Less是一种开源动态样式表语言，可以编译成层叠样式表（CSS）并在客户端或服务器端运行.  由Alexis Sellier设计，Less受Sass影响，并影响了Sass的新“SCSS”语法，后者改编了类似CSS的块格式化语法.  Less提供以下机制：变量，嵌套，混合，运算符和函数;  Less和其他CSS预编译器之间的主要区别在于Less允许通过浏览器通过Less进行实时编译.  字体： [Wikipedia](https://en.wikipedia.org/wiki/Less_(stylesheet_language))
 
-**[Back to top](#contents)**
 
 ## Getting Started
 
@@ -48,7 +19,6 @@
 - [Official Guide](http://lesscss.org/)
 - [Official Repository](https://github.com/less/less.js)
 
-**[Back to top](#contents)**
 
 ## UI/Theme Frameworks and Components
 
@@ -69,7 +39,6 @@
 - [UIkit](https://getuikit.com/) - 用于开发Web界面的轻量级和模块化前端框架.
 - [Wee](https://www.weepower.com/) - 轻量级前端框架，用于逻辑构建复杂，响应迅速的Web项目.
 
-**[Back to top](#contents)**
 
 ## Libraries and Mixins
 
@@ -83,7 +52,6 @@
 - [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - 实施 [Zen Grids](https://github.com/JohnAlbin/zen-grids) 不到.
 - [Order.Less](https://github.com/chromice/order.less) - 基线对齐，列网格和模块化比例.
 
-**[Back to top](#contents)**
 
 ### Media Queries
 
@@ -91,7 +59,6 @@
 - [Media Queries Library](https://github.com/mrmlnc/less-mq) -  Less中的简单媒体查询.
 - [Media Query to Type](https://github.com/himedlooff/media-query-to-type) - 一种用于创建IE特定样式表的方法，该样式表允许Internet Explorer 8及以下版本访问媒体查询的内容.
 
-**[Back to top](#contents)**
 
 ### Color
 
@@ -99,7 +66,6 @@
 - [More-Colors](http://jasonrobb.github.io/More-Colors.less/) - 在浏览器中进行设计时，变量可以更轻松地进行颜色操作.
 - [Open Color](https://github.com/yeun/open-color)   - 开放颜色是UI设计的颜色方案.  提供CSS，SCSS，Less，Stylus，Adobe库，Photoshop / Illustrator样本和草图调色板.
 
-**[Back to top](#contents)**
 
 ### Animation
 
@@ -109,7 +75,6 @@
 - [Hover](http://ianlunn.github.io/Hover/) - 收集CSS3动力悬停动画效果，应用于链接，按钮，徽标，SVG，特色图像等.
 - [Less Burguer](https://github.com/MarkRabey/less-burger) - 港口 [Sass Burger](http://joren.co/sass-burger/) 少.
 
-**[Back to top](#contents)**
 
 ### Miscellaneous
 
@@ -134,14 +99,12 @@
 - [Shape](https://github.com/fahad19/shape.less) - 各种形状的mixin的集合.
 - [TRRtoolbelt](https://github.com/therebelrobot/tRRtoolbelt.less) - 混合和常用操作的功能.
 
-**[Back to top](#contents)**
 
 ## Style Guides
 
 - [Handshake Style Guide](https://github.com/handshake/less-style-guide) - 本指南介绍了一系列最佳实践和编码约定.
 - [WebMD Health Services Style Guide](https://github.com/bitmap/less-styleguide) - 本文档概述了WebMD Health Services的CSS / Less最佳实践.
 
-**[Back to top](#contents)**
 
 ## Ports of Less
 
@@ -154,14 +117,12 @@
 - [Lesscss](https://github.com/houbie/lesscss)   - 使用Rhino，Nasshorn或node.js引擎运行较少;  1.7.0兼容.
 - [Lesscss Gradle Plugin](https://github.com/houbie/lesscss-gradle-plugin) - 基于Less的Gradle插件.
 
-**[Back to top](#contents)**
 
 ### .Net
 
-- [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) - Compiler written in .Net.
-- [Less CSS for .Net](http://www.dotlesscss.org/) - Compiler written in .Net.
+- [BundleTransformer.Less](http://www.nuget.org/packages/BundleTransformer.Less/) - 用.Net编写的编译器.
+- [Less CSS for .Net](http://www.dotlesscss.org/) - 用.Net编写的编译器.
 
-**[Back to top](#contents)**
 
 ### PHP
 
@@ -169,25 +130,21 @@
 - [Lessphp](http://leafo.net/lessphp/) - 用PHP编写的编译器.
 - [Less.php](http://lessphp.gpeasy.com/) -  PHP端口.
 
-**[Back to top](#contents)**
 
 ### Python
 
 - [Pyhton Compiler](https://github.com/lesscpy/lesscpy) - 用Python编写的编译器.
 
-**[Back to top](#contents)**
 
 ### Ruby
 
 - [Ruby Compiler](https://github.com/cowboyd/less.rb) -  Ruby的V8引擎更少.
 
-**[Back to top](#contents)**
 
 ### Go
 
 - [Go Compiler](https://github.com/kib357/less-go) - 在嵌入式Javascript引擎内运行较少.
 
-**[Back to top](#contents)**
 
 ## GUIs, Editors and Plugins
 
@@ -199,7 +156,7 @@
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - 该插件通过提供编辑和编译Less样式表的便捷功能扩展了Eclipse IDE.
 - [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) -  Eclipse插件自动转换文件（Less，SASS，CoffeeScript等）.
 - [Emacs](https://github.com/purcell/less-css-mode) - 支持编译保存的Emacs模式.
-- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - 使用Grunt将较少的文件编译为CSS.
+- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - 使用Grunt的CSS Lint来抓取你的Less文件.
 - [Gulp Less](https://github.com/plus3network/gulp-less) -  Gulp插件.
 - [Hayaky](https://github.com/hayaku/hayaku) -  Hayaku是一系列有用的脚本，旨在快速进行前端Web开发.
@@ -216,7 +173,6 @@
 - [Visual Studio Web Essentials](http://vswebessentials.com/) - 如果您曾经编写CSS，HTML，JavaScript，TypeScript，CoffeeScript或更少，那么您会发现许多有用的功能，使您的开发人员生活更轻松.
 - [Winless](http://lesscss.org/usage/#editors-and-plugins)   -  WinLess最初是Less.app的克隆版，它需要一个功能更完整的方法，并有几个设置.  它还支持从命令行参数开始.
 
-**[Back to top](#contents)**
 
 ## Online Less Compilers
 
@@ -230,7 +186,6 @@
 - [Precess](http://precess.co/) - 实时预处理程序编译器.
 - [Winless](http://winless.org/online-less-compiler)   - 这个在线少编译器可以帮助您学习更少.  您可以浏览下面的示例或尝试自己的Less代码.
 
-**[Back to top](#contents)**
 
 ## Online Web IDEs/Playgrounds with Less support
 
@@ -240,7 +195,6 @@
 - [JS Bin](http://jsbin.com/) -  JS Bin是一个专门用于帮助JavaScript和CSS民间测试代码片段的webapp.
 - [JsFiddle](http://jsfiddle.net/hb2rsm2x/) - 在线网络编辑器.
 
-**[Back to top](#contents)**
 
 ## Translations
 
@@ -255,7 +209,6 @@
 - [Spanish](http://amatellanes.github.io/lesscss.org/)
 - [Vietnamese](http://less.eten.vn/)
 
-**[Back to top](#contents)**
 
 ## Articles
 
@@ -266,7 +219,6 @@
 - [Lets use Less to Create Less CSS not just CSS](https://medium.com/@zamamohammed/lets-use-lessjs-to-create-less-css-not-just-css-2d45d92a62e8#.jsocohrne)
 - [Revisiting Less](https://medium.com/@ddprrt/revisiting-less-50b741bd884#.oyion811m)
 
-**[Back to top](#contents)**
 
 ### Books
 
@@ -274,7 +226,6 @@
 - [Less Web Development Essentials](http://pdf.th7.cn/down/files/1508/Less%20Web%20Development%20Essentials,%202nd%20Edition.pdf)
 - [Learning Less](https://www.packtpub.com/web-development/learning-lessjs)
 
-**[Back to top](#contents)**
 
 ## Videos
 
@@ -283,7 +234,6 @@
 - [Less CSS Tutorials for Beginners](https://www.youtube.com/watch?v=YQYJUeokqOY&list=PL6gx4Cwl9DGCshbAx1JpBtNoKh8iKAAiy)
 - [Less CSS - Tutorials for Beginners](https://www.youtube.com/watch?v=-D5mWO9_vLI&list=PLLa1ZAmCB2zjEZ4QNLDi4173_xIGeV6nC)
 
-**[Back to top](#contents)**
 
 ## Experiments
 
@@ -299,7 +249,6 @@
 - [Triangle / Arrow Mixin](https://codepen.io/eky/pen/AaCwF)
 - [More...](https://codepen.io/tag/less/)
 
-**[Back to top](#contents)**
 
 ## Community
 
@@ -310,18 +259,14 @@
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/less)
 - [Twitter](https://twitter.com/hashtag/lesscss)
 
-**[Back to top](#contents)**
 
 ## Contributing
 
 欢迎您的贡献！ [Click Here to read the guidelines](https://github.com/LucasBassetti/awesome-less/blob/master/CONTRIBUTING.md).
 
-**[Back to top](#contents)**
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Lucas Bassetti](http://lucasbassetti.com.br) 已放弃对此作品的所有版权及相关或相邻权利.
-
-**[Back to top](#contents)**

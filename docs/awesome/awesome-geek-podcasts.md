@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="guipdutra/awesome-geek-podcasts"></div>
 ## NOT BEING ACTIVELY MAINTAINED
 支持travis-ci和自动部署的版本：https：//github.com/ayr-ton/awesome-geek-podcasts
 --
@@ -5,30 +6,12 @@
 
 我们希望收听的精选播客列表.
 
-## Table of Contents
 
 ## Podcasts by language
 
-- [English](#in-english)
-- [Portuguese](#in-portuguese)
-- [Spanish](#in-spanish)
-- [Russian](#in-russian)
-- [Persian](#in-persian)
-- [Swedish](#in-swedish)
-- [French](#in-french)
-- [German](#in-german)
-- [Chinese](#in-chinese)
-- [Polish](#in-polish)
-- [Turkish](#in-turkish)
-- [Finnish](#in-finnish)
-- [Japanese](#in-japanese)
-- [Bahasa Indonesia](#in-bahasa-indonesia)
-- [Dutch](#in-dutch)
 
 ## Other information
 
-- [Tooling](#tooling)
-- [More](#more)
 
 ## In English
 
@@ -45,7 +28,6 @@
 * [Azure Friday](https://channel9.msdn.com/Shows/Azure-Friday)   -  Scott Hanselman与实际工程师坐下来，在他的旅途中构建Azure，以学习如何编程云.  没有营销，没有BS，只有两名工程师和一台短管理的笔记本电脑.
 * [Base.cs](https://www.codenewbie.org/basecs) - 基于Vaidehi Joshi的base.cs博客系列的初级友好计算机科学课程，由CodeNewbie制作.
 * [Beats, Rye & Types](http://beatsryetypes.com/) - 两位老朋友，讨论他们的三个主要观点：音乐，食物和节目.
-* [Between Screens](https://soundcloud.com/between-screens) - 期待找到有关以下主题的内容：Ruby，Rails，Sinatra，Sass，Javascript，设计模式，Jekyll，客户端Web应用程序，Rust，排版，Git，响应式设计，原型设计，Web设计，类型设计等.
 * [Blockchain Insider](https://bi.11fs.com/) - 每周播客专门研究区块链，分类账技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)   -  Boagworld是一个关于数字战略，管理和用户体验的播客.  它提供实用的建议，新闻，工具，审查和与网页设计社区领先人物的访谈.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - 为开发者提供的图书俱乐部播客.
@@ -62,10 +44,8 @@
 * [Coding Blocks](https://www.codingblocks.net/) - 软件和Web编程，安全性，最佳实践，Microsoft .NET等.
 * [Command Line Heroes](https://www.redhat.com/en/command-line-heroes) - 关于从命令行转换技术的人的新播客.
 * [Complete Developer Podcast](https://completedeveloperpodcast.com/)   - 那里有很多关于语言和编码的播客.  我们在Complete Developer Podcast中所做的是覆盖其他生活领域.  例如，我们的第一集是关于与客户，老板以及开发人员与非开发人员进行交互的其他人交谈.
-* [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 * [CppCast](http://cppcast.com/) -  C ++开发人员为C ++开发人员提供的第一个播客.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - 关于视觉和创意应用程序的编程.
-* [CTRL+Click Cast](https://ctrlclickcast.com/)   - 他们“为你检查网络”.  与开发人员和设计人员的访谈，关于设计，代码和内容管理系统.  由Lea Alcantara和Emily Lewis主持.
 * [Curious Minds](https://www.cmpod.net/)   -  Curious Minds是一个关于科学，技术和历史的播客.  每集都会收集各种主题的有趣故事：从物理学和天文学到医学，艺术和科幻小说.
 * [Darknet Diaries](https://darknetdiaries.com)   - 来自黑客或遭受攻击的人的故事.  他们是如何进入的，发生了什么.
 * [Data Skeptic](http://dataskeptic.com/) - 数据Skeptic Podcast采访和讨论与数据科学，统计，机器学习，人工智能等相关的主题.
@@ -75,7 +55,7 @@
 * [Developer On Fire](http://developeronfire.com/) - 播客与成功的软件开发人员，建筑师，测试人员和其他专业人士进行鼓舞人心的访谈，讲述成功，失败，卓越和灵感的故事.
 * [DevelopersHangout](http://www.developershangout.io/)   - 两位开发人员每两周谈论一次他们的雷达中的挑战，文章，新闻，书籍和其他播客.  Laravel，PHP是两个关键主题，以及其他很棒的播客，如上面列出的那些.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) - 由开发人员托管的网络和软件开发人员的播客，您可以在不到10分钟的时间内收听.
-* [Developing Perspective](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/	http://developingperspective.com/) - From development and design to marketing and support, Under the Radar is all about independent app development. It's never longer than 30 minutes.
+* [Developing Perspective](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)   - 从开发和设计到营销和支持，Under the Radar都是关于独立应用开发的.  它永远不会超过30分钟.
 * [Devnology](http://devnology.nl/podcasts)   - 荷兰用户组Devnology的播客.  它主要是英文的.  与有趣的人进行了许多有趣的讨论
 * [DevOps Cafe](http://devopscafe.org/) - 在这次采访驱动的节目中，John Willis和Damon Edwards务实地看待新兴DevOps运动背后的技术，工具和业务发展.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) -  BBC系列探索了Aleks Krotoski提出的数字世界.
@@ -105,7 +85,7 @@
 * [HardcoreHistory](https://www.dancarlin.com/hardcore-history-series/) - 在“硬核历史”中，非常规的丹·卡林采用了他的“火星人”，开箱即用的思维方式并将其应用于过去.
 * [Greater Than Code](https://www.greaterthancode.com/) - because #peoplematter.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/)   - 这是另一个宇宙故事，Petunia与科学家结婚.  哈利进入了具有启蒙理想和实验精神的巫师世界.
-* [HaskellCast](http://www.haskellcast.com/) - 针对在业界工作的Haskell开发人员的播客.
+* [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) -  Science youtubers CGP Gray和Brady Haran讨论从旗帜设计到星球大战的一切.
 * [Houston We Have a Podcast](https://www.nasa.gov/johnson/HWHAP/)   - 美国宇航局官方约翰逊航天中心的播客.  每周主持，其主题一般是关于空间和国际空间站.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) - 在每个节目中，杰克和保罗在网络发展的世界中挑选一个热门话题，并讨论它的各个方面，同时放弃生活，教训和一些相当诚实的事实.
@@ -125,7 +105,7 @@
 * [Mastering Embedded Systems](https://embeddedsuccess.com/podcast/)   - 我已经确定了掌握嵌入式系统的四个主要问题：1.专家不够;  2.设计不合理，故障检测不当;  3.强制性多站点方法失败;  4.管理虚拟团队的错误我会教你克服这些挑战的技术诀窍和工具.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - 关于使用云创建未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)   - 面向Microsoft开发人员的播客.  Jason Young和Carl Schweitzer谈论了最新的开发者新闻，内容涉及Azure云，Windows，Windows Phone，Visual Studio以及使用Microsoft平台的跨平台开发等主题.
-* [New Rustacean](https://newrustacean.com/) - 这是一个关于从头开始学习编程语言Rust的播客.
+* [New Rustacean](https://newrustacean.com/) - This is a podcast about learning the programming language Rust—from scratch.
 * [Nodeup](http://nodeup.com/) -  Node.js播客.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人Manoush Zomorodi与从大名鼎鼎的技术人员到小学教师的所有人谈论技术对我们生活的影响，寻求有助于您思考和生活的聪明选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - 唯一专注于Office 365开发的节目，我们与来自全球各地的专家在Office 365平台上进行编码.
@@ -135,7 +115,7 @@
 * [Partially Derivative](http://partiallyderivative.com/) - 关于数据，Nerdiness和Beer的播客.
 * [PHP Round Table](https://www.phproundtable.com/) -  PHP Roundtable是开发人员的休闲聚会，讨论PHP书呆子关心的主题.
 * [PHP Town Hall](http://phptownhall.com/) - 市政厅是PHP开发人员在PHP社区中提出有关当前事件（或即将发生的事情）的问题的一种方式，每周都有不同的客人.
-* [Podcast.\__init__](https://www.podcastinit.com/) - 关于Python的播客以及使其成为伟大的人.
+* [Podcast.\__init__](https://www.podcastinit.com/) - A podcast about Python and the people who make it great.
 * [Practical AI](https://changelog.com/practicalai) - 使人工智能变得实用，高效，并且每个人都可以访问.
 * [Python Bytes](https://pythonbytes.fm/) -  Python头条新闻直接发送到您的耳塞.
 * [Radiolab](https://www.wnycstudios.org/shows/radiolab)   -  Radiolab是一个关于好奇心的节目.  声音照亮了思想，而科学，哲学和人类经验之间的界限则模糊不清.
@@ -163,7 +143,7 @@
 * [Syntax FM](https://syntax.fm/) - 面向网络开发者的美味点播播客.
 * [Sysadministrivia](https://sysadministrivia.com/) -  Linux，Lagers和Late Nights.
 * [Syscast Podcast](http://podcast.sysca.st/) - 谈论Linux，开源，Web开发和系统管理（DevOps）.
-* [Talking Code](http://www.talkingcode.com/) - 简短的专家访谈，帮助您_decode_开发人员在说什么.
+* [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Kotlin](http://talkingkotlin.com/) -  Kotlin的双月播客以及更多由Hadi Hariri主持的播客.
 * [Talking Machines](http://www.thetalkingmachines.com/) - 通话机器是您进入机器学习世界的窗口.
 * [Talk Python to Me](https://talkpython.fm/) - 每周播客（30分钟），涵盖各种Python主题.
@@ -215,7 +195,7 @@
 * [DevDrops](https://anchor.fm/devdrops) - 您的播客有关软件开发.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 每周一次的网络开发播客，带有一丝幽默感.
 * [DioCast](https://www.diolinux.com.br/search/label/DioCast) -  Linux和自由软件播客.
-* [Elemencast](https://elemencast.github.io) - A proposta é levar ao ouvinte drops de conteúdo diversos a respeito do universo Front-End, NodeJs, Programação Funcional etc.
+* [Elemencast](https://elemencast.github.io) - 建议是向听众提供有关宇宙前端，NodeJ，功能编程等的各种内容.
 * [FooCast](https://foocast.io/) - 简短的播客，讲述一般的发展.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - 四位老师，非常书呆子，乐趣和许多故事.
 * [Hack n' Cast](http://mindbending.org/pt/category/hack-n-cast) - 关于技术和开源/免费软件的播客
@@ -227,14 +207,14 @@
 * [Naruhodo!](https://www.b9.com.br/podcasts/naruhodo/) - 播客有一个建议来解释几个主题，使用科学，哲学，历史和其他来作为答案的基础.
 * [NerdCast](https://jovemnerd.com.br/nerdcast/) - 播放JovemNerd门户网站的播客，讨论的是关于nerdices，理论和rpg的内容
 * [OpenCast](http://tecnologiaaberta.com.br/category/opencast/) - 播客通常涉及开源技术.
-* [OpenDevPodcast](http://www.opendevpodcast.com.br) - Um bate papo descontraído sobre a área de tecnologia da informação
+* [OpenDevPodcast](http://www.opendevpodcast.com.br) - 轻松聊聊信息技术领域
 * [PHP Do Jeito Certo](http://phpdojeitocerto.tumblr.com/) - 面向经验丰富的开发人员和初学者的PHP新闻新闻.
 * [PlayBook](https://astellainvest.com/playbook/) - 企业家和投资者分享他们旅程的历史.
 * [PODebug](http://www.podebug.com/) - 一般的软件和技术的发展，但心情愉快，放松.
 * [PodProgramar](https://podprogramar.com.br/)   - 由女性，开发者提供的播客，专注于节目，新闻和地区故事.  在一个仍然由男性主导的地区，所有人都具有女性化的触感.
 * [Quebradev](http://quebradev.com.br/) - 外围起源的播客和命运返回原点.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - 播放带有rapadura的电影院的播客，今天被认为是巴西流行文化的参考.
-* [Rede Geek](http://www.redegeek.com.br/podcast/) - 播客针对极客观众的各种主题，如技术，科学，历史和其他.
+* [Rede Geek](http://www.redegeek.com.br/podcast/) - Podcast destinado ao público geek sobre diversos assuntos como, tecnologia, ciência, história e outros.
 * [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个以葡萄牙语为目标的Salesforce世界播客，在这里我们聊聊开发，平台管理，Salesforce产品以及Career等主题.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) -  Tecnoblog的播客，关于技术.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - 敏捷，建筑，语言和行动主义.
@@ -298,7 +278,7 @@
 * [Freak Show](https://freakshow.fm/)   - 技术播客，通常每两周发布一次.  主要是Apple，比特币和播客.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - 关于netpolitics的每周播客.
 * [Request for Comments](https://requestforcomments.de/) - 有RFC播客
-* [Working Draft](https://workingdraft.de/) - Weekly news podcast for webdesigners and developers.
+* [Working Draft](https://workingdraft.de/) - 面向网页设计师和开发者的每周新闻播客.
 * [Methodisch inkorrekt](http://minkorrekt.de/) - 对论文的幽默评论4.几乎整整两周发布
 
 ## In Chinese

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="WebCreationClub/awesome-construct"></div>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.construct.net/)
@@ -16,17 +17,7 @@
 </p>
 
 
-## Contents
 
-- [Community](#community)
-- [Games Showcase](#games-showcase)
-- [Hosting](#hosting)
-- [Tools](#tools)
-- [Export](#export)
-- [Plugins/Behaviors/Effects](#pluginsbehaviorseffects)
-- [Tutorials](#tutorials)
-- [E-Books](#e-books)
-- [Useful Links](#useful-links)
 
 ## Community
 - [Discord Server](https://discord.gg/8RJBHbX) - [Scirra Forum Thread](https://www.construct.net/forum/construct-2/general-discussion-17/there-is-a-construct-2-discord-117214).
@@ -43,7 +34,7 @@
 
 ## Hosting
 - [itch.io](http://www.itch.io) - 举办，展示，推广或销售游戏的平台 -  **免费**.
-- [GitHub Pages](http://pages.github.com) - Platform where to host an exported game as a static website - **Free**.
+- [GitHub Pages](http://pages.github.com) - 平台将导出的游戏作为静态网站托管 -  **免费**.
 - [Surge](https://surge.sh/) - 平台将导出的游戏作为静态网站托管 -  **免费/付费**.
 - [Now](https://zeit.co/now) - 平台将导出的游戏作为静态网站，泊坞窗图像或Node.js服务器托管 -  **免费/付费**.
 - [Netlify](https://www.netlify.com/) - 平台将导出的游戏作为静态网站托管 -  **免费/付费**.
@@ -80,7 +71,7 @@
 -  [[Jerementor] Construct 2 Tutorials]（https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists） - 一般教程.
 -  [[Kawaerri] Scirra Construct 2 Tutorial]（https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv） - 一般教程.
 -  [[Gamer Z]  - 教程列表]（https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists） - 一般教程.
--  [[TodaysTuts]构造2  - 行为]（https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK） - 关于行为的教程.
+- [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
 - 让我们制作游戏：[[PONG]]（https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]]（https://www.youtube.com/watch?v=nYULTk2BpKY）[ [Flappy Bird]]（https://www.youtube.com/watch?v=eBccn1qMB_U） - 有关如何制作特定游戏的教程.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - 了解如何创建Brakeout游戏.
 

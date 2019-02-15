@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="iCHAIT/awesome-macOS"></div>
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,46 +7,7 @@
 
  &gt; *标有的项目！[开源软件] [OSS图标]是开源软件并链接到源代码.  标有！[免费软件] [免费软件图标]的项目是免费的（如免费啤酒）.*
 
-## Table of Contents
 
-- [Applications](#applications)
-    - [Audio](#audio)
-    - [Backup](#backup)
-    - [Bookmark Utilities](#bookmark-utilities)
-    - [Chat Clients](#chat-clients)
-    - [Data Recovery](#data-recovery)
-    - [Developers](#developers)
-    - [E-Book Utilities](#e-book-utilities)
-    - [Editors](#editors)
-    - [Email Utilities](#email-utilities)
-    - [Finder](#finder)
-    - [Games](#games)
-    - [Graphics](#graphics)
-    - [Productivity](#productivity)
-    - [Sharing Files](#sharing-files)
-    - [Terminal](#terminal)
-    - [Utilities](#utilities)
-    - [Video](#video)
-    - [Window Management](#window-management)
-    - [Others](#others)
-- [Command Line Utilities](#command-line-utilities)
-- [macOS Utilities](#macos-utilities)
-- [Setup](#setup)
-    - [DevMyMac](#devmymac)
-    - [laptop](#laptop)
-    - [mac-dev-setup](#mac-dev-setup)
-    - [macbook-playbook](#macbook-playbook)
-    - [macOS 10.10 Yosemite](#os-x-1010-yosemite-setup)
-    - [macOS 10.11 El Capitan](#os-x-1011-el-capitan-setup)
-    - [macOS 10.9 Mavericks](#os-x-109-mavericks-setup)
-- [Security](#security)
-- [Miscellaneous](#miscellaneous)
-- [Discussion Forums](#discussion-forums)
-    - [Apple](#apple)
-    - [IRC channels](#irc-channels)
-    - [MacRumors](#macrumors)
-    - [Reddit](#reddit)
-- [Contribute](#contribute)
 
 
 ## Applications
@@ -80,10 +42,10 @@
 - [Cakebrew](https://www.cakebrew.com/)   -  Homebrew GUI应用程序.  [！[开源软件] [OSS图标]]（https://github.com/brunophilipe/Cakebrew）！[免费软件] [免费软件图标]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client)   - 用于测试REST端点的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 - [Dash](https://kapeli.com/dash) -  API文档浏览器和代码片段管理器.
-- [Flawless App](https://flawlessapp.io/) - 用于iOS模拟器内移动应用程序视觉质量检查的macOS工具.
+- [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
 - [Gas Mask](https://github.com/2ndalpha/gasmask)   - 简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)   - 菜单栏上的开源github贡献统计数据.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
-- [GitHub Desktop](https://desktop.github.com/)   - 使用GitHub的GUI.  ！[免费软件] [免费软件图标]
+- [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/)   - 一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
@@ -141,7 +103,7 @@
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - 一个强大的双窗格浏览器替代Finder.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - 额外的quicklook插件列表，可以在Finder中预览更多文件类型.
 - [TotalFinder](http://totalfinder.binaryage.com/) -  Finder的强大替代品.
-- [XtraFinder](https://www.trankynam.com/xtrafinder/)   - 为Finder添加有用的功能.  ！[免费软件] [免费软件图标]
+- [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
 
 
 ### Games
@@ -167,7 +129,7 @@
 - [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能的Photoshop替代品.
 - [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用程序，尤其适用于UI，Web和移动设计.
 - [Sketch Toolbox](http://sketchtoolbox.com/)   -  Sketch的超级简单插件管理器.  [！[开源软件] [OSS图标]]（https://github.com/buzzfeed/Sketch-Toolbox）
-- [xScope](http://xscopeapp.com/) - Tools for measuring, inspecting and testing on-screen graphics and layouts.
+- [xScope](http://xscopeapp.com/) - 用于测量，检查和测试屏幕图形和布局的工具.
 
 
 ### News Readers
@@ -262,7 +224,7 @@
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - 保护您的隐私.
 - [MacDown](http://macdown.uranusjr.com/)   -  Markdown编辑.  [！[开源软件] [OSS图标]]（https://github.com/MacDownApp/macdown）！[免费软件] [免费软件图标]
 - [Mackup](https://github.com/lra/mackup)   - 保持应用程序设置同步.  [！[开源软件] [OSS图标]]（https://github.com/lra/mackup）！[免费软件] [免费软件图标]
-- [MacPass](https://macpass.github.io/) - Password Manager. [![Open-Source Software][OSS Icon]](https://github.com/MacPass/MacPass) ![Freeware][Freeware Icon]
+- [MacPass](https://macpass.github.io/)   - 密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
 - [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/HEAD/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   - 方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)   - 用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
@@ -437,7 +399,6 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 
 请考虑退房 [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) 被包括.
 
-**[⬆ back to top](#table-of-contents)**
 
 
 ## License

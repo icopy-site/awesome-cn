@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="springload/awesome-wagtail"></div>
 令人敬畏的W .. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
@@ -6,38 +7,7 @@
 
 *你可能还喜欢 [Awesome Django](https://gitlab.com/rosarior/awesome-django) 和 [Awesome Python](https://github.com/vinta/awesome-python) .  ：蛇：*
 
-## Contents
 
-- [General resources](#general-resources)
-- [Apps](#apps)
-  - [Blogging/news](#bloggingnews)
-  - [Rich text editor extensions](#rich-text-editor-extensions)
-  - [Widgets](#widgets)
-  - [StreamField](#streamfield)
-  - [Static site generation](#static-site-generation)
-  - [Settings management](#settings-management)
-  - [E-commerce](#e-commerce)
-  - [SEO and SMO](#seo-and-smo)
-  - [Analytics](#analytics)
-  - [Customer experience](#customer-experience)
-  - [Security](#security)
-  - [Media](#media)
-  - [Translations](#translations)
-  - [Forms](#forms)
-  - [Testing](#testing)
-  - [Misc](#misc)
-- [Tools](#tools)
-- [Resources](#resources)
-  - [Getting started](#getting-started)
-  - [Articles](#articles)
-  - [Recipes](#recipes)
-  - [Presentations](#presentations)
-  - [Podcasts](#podcasts)
-  - [Videos](#videos)
-  - [Showcases](#showcases)
-  - [Lists](#lists)
-- [Community](#community)
-- [Open-source sites](#open-source-sites)
 
 ## General resources
 
@@ -46,7 +16,6 @@
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 - [PyPI classifiers for Wagtail](https://pypi.org/pypi?%3Aaction=list_classifiers)
-- [Other resources](#resources)
 
 ## Apps
 
@@ -72,7 +41,7 @@
 
 ### Widgets
 
-- [wagtailgmaps](https://github.com/springload/wagtailgmaps) - Simple Google Maps address formatter for Wagtail fields.
+- [wagtailgmaps](https://github.com/springload/wagtailgmaps) -  Wagtail字段的简单Google地址格式化程序.
 - [Wagtail-Geo-Widget](https://github.com/Frojd/wagtail-geo-widget) -  Wagtail中GeoDjango PointField字段的Google Maps小部件.
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) -  Markdown字段和Wagtail块.
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - 为“ForeignKey”，“ParentalKey”和“ManyToMany”字段自动填充选择器.
@@ -165,7 +134,7 @@
 
 ## Tools
 
-- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - 使用Zurb Foundation 6的Wagtail CMS的Cookiecutter模板.
+- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) -  Wagtail CMS的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) - 一个cookieingter完成wagtail，django布局，vagrant，供应scrips，前端构建系统等等！
 - [Wagtail Boilerplate](https://github.com/Frojd/Wagtail-Boilerplate) - 一个Django / Wagtail cookiecutter，内置支持docker，部署（带有ansible），Reactjs，pytest和S3.

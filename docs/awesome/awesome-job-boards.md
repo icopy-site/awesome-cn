@@ -1,20 +1,9 @@
+<div class="github-widget" data-repo="tramcar/awesome-job-boards"></div>
 ## Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的利基职位委员会的精选列表.
 
-## Table of Contents
 
-- [Big Data](#big-data)
-- [Blockchain](#blockchain)
-- [Customer Support](#customer-support)
-- [Design](#design)
-- [DevOps](#devops)
-- [Gaming](#gaming)
-- [Growth Hacking](#growth-hacking)
-- [InfoSec](#infosec)
-- [Programming](#programming)
-- [Remote](#remote)
-- [Tech](#tech)
 
 ## Big Data
 
@@ -136,7 +125,6 @@
 
 ### Europe
 
-* [Landing.jobs](https://landing.jobs/?utm_source=github&utm_medium=referral&utm_content=whfio&utm_campaign=post)
 * [careerin.tech](https://careerin.tech) - 柏林科技与IT世界的工作板和公司列表
 
 ### United States

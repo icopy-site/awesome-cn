@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="h4cc/awesome-elixir"></div>
 ## Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的Elixir图书馆，资源和闪亮的东西，精选的精选列表 [awesome-php](https://github.com/ziadoz/awesome-php).
 
@@ -5,100 +6,6 @@
 
 有 [other sites with curated lists of elixir packages](#other-awesome-lists) 你可以看看.
 
-- [Awesome Elixir](#awesome-elixir)
-    - [Actors](#actors)
-    - [Algorithms and Data structures](#algorithms-and-data-structures)
-    - [Applications](#applications)
-    - [Artificial Intelligence](#artificial-intelligence)
-    - [Audio and Sounds](#audio-and-sounds)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [Behaviours and Interfaces](#behaviours-and-interfaces)
-    - [Benchmarking](#benchmarking)
-    - [Bittorrent](#bittorrent)
-    - [BSON](#bson)
-    - [Build Tools](#build-tools)
-    - [Caching](#caching)
-    - [Chatting](#chatting)
-    - [Cloud Infrastructure and Management](#cloud-infrastructure-and-management)
-    - [Code Analysis](#code-analysis)
-    - [Command Line Applications](#command-line-applications)
-    - [Configuration](#configuration)
-    - [Cryptography](#cryptography)
-    - [CSV](#csv)
-    - [Date and Time](#date-and-time)
-    - [Debugging](#debugging)
-    - [Deployment](#deployment)
-    - [Documentation](#documentation)
-    - [Domain-specific language](#domain-specific-language)
-    - [ECMAScript](#ecmascript)
-    - [Email](#email)
-    - [Embedded Systems](#embedded-systems)
-    - [Encoding and Compression](#encoding-and-compression)
-    - [Errors and Exception Handling](#errors-and-exception-handling)
-    - [Eventhandling](#eventhandling)
-    - [Examples and funny stuff](#examples-and-funny-stuff)
-    - [Feature Flags and Toggles](#feature-flags-and-toggles)
-    - [Feeds](#feeds)
-    - [Files and Directories](#files-and-directories)
-    - [Formulars](#formulars)
-    - [Framework Components](#framework-components)
-    - [Frameworks](#frameworks)
-    - [Games](#games)
-    - [Geolocation](#geolocation)
-    - [GUI](#gui)
-    - [Hardware](#hardware)
-    - [HTML](#html)
-    - [HTTP](#http)
-    - [Images](#images)
-    - [Instrumenting / Monitoring](#instrumenting--monitoring)
-    - [JSON](#json)
-    - [Languages](#languages)
-    - [Lexical analysis](#lexical-analysis)
-    - [Logging](#logging)
-    - [Macros](#macros)
-    - [Markdown](#markdown)
-    - [Miscellaneous](#miscellaneous)
-    - [Native Implemented Functions](#native-implemented-functions)
-    - [Natural Language Processing (NLP)](#natural-language-processing-nlp)
-    - [Networking](#networking)
-    - [Office](#office)
-    - [ORM and Datamapping](#orm-and-datamapping)
-    - [OTP](#otp)
-    - [Package Management](#package-management)
-    - [PDF](#pdf)
-    - [Protocols](#protocols)
-    - [Queue](#queue)
-    - [Release Management](#release-management)
-    - [REST and API](#rest-and-api)
-    - [Search](#search)
-    - [Security](#security)
-    - [SMS](#sms)
-    - [Static Page Generation](#static-page-generation)
-    - [Statistics](#statistics)
-    - [Templating](#templating)
-    - [Testing](#testing)
-    - [Text and Numbers](#text-and-numbers)
-    - [Third Party APIs](#third-party-apis)
-    - [Translations and Internationalizations](#translations-and-internationalizations)
-    - [Utilities](#utilities)
-    - [Validations](#validations)
-    - [Version Control](#version-control)
-    - [Video](#video)
-    - [XML](#xml)
-    - [YAML](#yaml)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Cheat Sheets](#cheat-sheets)
-    - [Community](#community)
-    - [Editors](#editors)
-    - [Newsletters](#newsletters)
-    - [Other Awesome Lists](#other-awesome-lists)
-    - [Reading](#reading)
-    - [Screencasts](#screencasts)
-    - [Styleguides](#styleguides)
-    - [Websites](#websites)
-- [Contributing](#contributing)
 
 ## Actors
 *与演员等合作的图书馆和工具.*
@@ -207,7 +114,7 @@
 * [medex](https://github.com/xerions/medex) - 体检 - 申请注册健康检查回调并通过HTTP表示其状态.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server) - 用Elixir编写的简单牛仔Web服务器，用于堆叠图像.
 * [n2o](https://github.com/synrc/n2o) -  WebSocket应用服务器.
-* [Nvjorn](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
+* [Nvjorn](https://github.com/tchoutri/Nvjorn) - 使用Poolboy在Elixir中编写的多协议网络服务监视器.
 * [Phoenix Battleship](https://github.com/bigardone/phoenix-battleship) - 使用Elixir，Phoenix Framework，React和Redux构建的Good Old游戏.
 * [Phoenix Toggl](https://github.com/bigardone/phoenix-toggl) - 在Elixir，Phoenix Framework，React和Redux中完成Toggl致敬.
 * [Phoenix Trello](https://github.com/bigardone/phoenix-trello) -  Trello在Elixir，Phoenix Framework，React和Redux中的表现.
@@ -311,13 +218,13 @@
 *与BSON合作的图书馆和实施.*
 
 * [BSONMap](https://github.com/Nebo15/bsoneach) -  Elixir软件包，它将函数应用于BSON文件中的每个文档，并且内存消耗较低.
-* [cyanide](https://github.com/ispirata/cyanide) -  Elixir BSON编码/解码库.
+* [cyanide](https://github.com/ispirata/cyanide) - An Elixir BSON encoding/decoding library.
 
 ## Build Tools
 *项目构建和自动化工具.*
 
 * [active](https://github.com/synrc/active) - 重新编译和重新加载FileSystem更改.
-* [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - 用于编译CoffeeScript文件的Rotor插件.
+* [coffee_rotor](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 * [dismake](https://github.com/jarednorman/dismake) - 混合编译器运行make.
 * [etude](https://github.com/exstruct/etude) -  Erlang / Elixir的并行计算协调编译器.
 * [ExMake](https://github.com/lycus/exmake) - 一个基于Make原则的现代，可编写脚本，基于依赖性的构建工具.
@@ -694,7 +601,7 @@
 * [params](https://github.com/vic/params) - 使用Ecto强制/验证参数结构，类似于Rails的强参数.
 * [passport](https://github.com/opendrops/passport) -  Passport为Phoenix应用程序提供身份验证.
 * [phoenix_ecto](https://github.com/phoenixframework/phoenix_ecto) -  Phoenix和Ecto集成.
-* [phoenix_haml](https://github.com/chrismccord/phoenix_haml) -  Haml的Phoenix模板引擎.
+* [phoenix_haml](https://github.com/chrismccord/phoenix_haml) - Phoenix Template Engine for Haml.
 * [phoenix_html](https://github.com/phoenixframework/phoenix_html) -  Phoenix.HTML函数用于处理HTML字符串和模板.
 * [phoenix_html_sanitizer](https://github.com/elixirstatus/phoenix_html_sanitizer) -  Phoenix的HTML Sanitizer集成.
 * [phoenix_html_simplified_helpers](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - 凤凰html的一些助手（truncate，time_ago_in_words，number_with_delimiter）.
@@ -1061,7 +968,7 @@
 * [FlyingDdns](https://gitlab.com/timopallach/FlyingDdns) - 用elixir编写的dyndns服务器.
 * [mac](https://github.com/ephe-meral/mac) - 可用于查找以十六进制字符串（根据IEEE）给出的MAC供应商.
 * [pool](https://github.com/slogsdon/pool) -  Elixir的插座接收器池.
-* [reagent](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
+* [reagent](https://github.com/meh/reagent) - 试剂是Elixir的插座接收器池.
 * [sockerl](https://github.com/Pouriya-Jahanbakhsh/sockerl) -  Sockerl是一个用于TCP协议的高级Erlang / Elixir套接字库，它提供了快速，实用且易于使用的API，用于实现服务器，客户端和客户端连接池.
 * [socket](https://github.com/meh/elixir-socket) -  Elixir的插座包装.
 * [sshex](https://github.com/rubencaro/sshex) -  Elixir的简单SSH助手.
@@ -1292,10 +1199,8 @@
 * [exsms](https://hex.pm/packages/exsms) - 用于发送交易短信的Elixir库 -  supoprts Sendinblue，mailjet，msg91和textlocal.
 
 ## Static Page Generation
-*用于生成静态网站和内容的工具和库.*
 
 * [blogit](https://github.com/meddle0x53/blogit) - 用于从包含markdown文件的git存储库生成博客的OTP应用程序.
-* [coil](https://github.com/badosu/coil) - Minimalistic static content engine.
 * [glayu](https://github.com/pablomartinezalvarez/glayu) - 适用于中型站点的静态站点生成器.
 * [obelisk](https://github.com/BennyHallett/obelisk) - 静态博客和网站生成器.
 * [serum](https://github.com/Dalgona/Serum) - 一个用Elixir编写的简单静态网站生成器.
@@ -1458,10 +1363,10 @@
 *用于访问第三方API的库.*
 
 * [airbax](https://github.com/adjust/airbax) - 从Elixir到Airbrake的异常跟踪.
-* [airbrake](https://github.com/romul/airbrake-elixir) - An Elixir notifier for the Airbrake.
+* [airbrake](https://github.com/romul/airbrake-elixir) -  Airbrake的Elixir通知程序.
 * [airbrakex](https://github.com/fazibear/airbrakex) - 用于Airbrake服务的Elixir客户.
 * [amazon_product_advertising_client](https://github.com/zachgarwood/elixir-amazon-product-advertising-client) -  Elixir的Amazon Product Advertising API客户端.
-* [apns](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
+* [apns](https://github.com/chvanikoff/apns4ex) - 用于elixir的Apple推送通知服务客户端库.
 * [asanaficator](https://github.com/trenpixster/asanaficator)   - 用于Asana API的简单Elixir包装器.  基于Tentacat.
 * [assembla_api](https://github.com/Assembla/ex_assembla_api) - 为Elixir组装API客户端.
 * [balalaika_bear](https://github.com/ayrat555/balalaika_bear) -  Elixir的简单VK API客户端.
@@ -1506,10 +1411,10 @@
 * [exgravatar](https://github.com/scrogson/exgravatar) - 用于生成Gravatar URL的Elixir模块.
 * [exgrid](https://github.com/bradleyd/exgrid) - 与Sendgrid的API交互.
 * [exjira](https://github.com/mattweldon/exjira) -  Elixir的JIRA客户端库.
-* [exlingr](https://github.com/mtwtkman/exlingr) -  Lingr客户端模块.
+* [exlingr](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [explay](https://github.com/sheharyarn/explay) -  Elixir中的非官方Google Play API.
 * [exstagram](https://github.com/arthurcolle/exstagram) - 适用于Instagram v1 API的Elixir库.
-* [extripe](https://github.com/princemaple/extripe) - 功能完整的Stripe API包装器.
+* [extripe](https://github.com/princemaple/extripe) - Feature complete Stripe API wrapper.
 * [extwitter](https://github.com/parroty/extwitter) -  Elixir的Twitter客户端库.
 * [exurban](https://github.com/oscar-lopez/exurban) -  UrbanAirship API的Elixir包装.
 * [facebook](https://github.com/mweibel/facebook.ex) - 用Elixir编写的Facebook Graph API Wrapper.
@@ -1547,7 +1452,7 @@
 * [pay](https://github.com/era/pay) -  Elixir Lib处理Paypal和其他支付解决方案.
 * [pay_pal](https://github.com/zensavona/paypal) - 用于使用PayPal REST API的Elixir库.
 * [peatio_client](https://github.com/peatio/peatio-client-elixir) -  Elixir的Peatio交换项目兼容API.
-* [pigeon](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.
+* [pigeon](https://github.com/codedge-llc/pigeon) - 符合HTTP2标准的包装器，用于发送iOS和Android推送通知.
 * [pocketex](https://github.com/essenciary/pocketex) -  Pocketex是Pocket Read稍后服务的Elixir客户端 [getpocket.com](https://getpocket.com/).
 * [pusher](https://github.com/edgurgel/pusher) -  Elixir库，用于访问Pusher REST API.
 * [qiita_ex](https://github.com/ma2gedev/qiita_ex) - 针对Elixir的Qiita API v2接口.
@@ -1628,7 +1533,7 @@
 * [jeaux](https://github.com/zbarnes757/jeaux) - 轻松简便的模式验证器.
 * [optimal](https://github.com/albert-io/optimal) - 基于模式的关键字列表选项验证器.
 * [shape](https://github.com/prio/shape) - 基于Prismatic Sc​​heme的Elixir数据验证库.
-* [skooma](https://github.com/bcoop713/skooma) - 用于描述和验证数据结构的简单数据验证库.
+* [skooma](https://github.com/bcoop713/skooma) - Simple data validation library for describing and validating data structures.
 * [uk_postcode](https://github.com/KushalP/uk_postcode) - 英国邮政编码解析和验证库.
 * [vex](https://github.com/CargoSense/vex) -  Elixir的可扩展数据验证库.
 * [voorhees](https://github.com/danmcclain/voorhees) - 用于验证JSON响应的库.

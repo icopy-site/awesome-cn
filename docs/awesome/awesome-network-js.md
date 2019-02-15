@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Kikobeats/awesome-network-js"></div>
 ## Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 &gt;纯JS编写的网络层资源列表.
@@ -17,7 +18,6 @@
 * [ipp-printer](https://github.com/watson/ipp-printer) - 在网络上创建打印机.
 * [peercast](https://github.com/mafintosh/peercast) - 像peerflix一样，但对于Chromecast.
 * [peerflix](https://github.com/mafintosh/peerflix) - 流媒体客户端.
-* [peervisionary](https://github.com/mafintosh/peervisionary) - 通过本地网络传输p2p内容.
 * [peerwiki](https://github.com/mafintosh/peerwiki) - 使用bittorrent浏览所有维基百科.
 * [screencat](https://github.com/maxogden/screencat) -  WebRTC屏幕共享应用程序.
 * [signalhub](https://github.com/mafintosh/signalhub) - 简单的信令服务器，可用于协调与webrtc或其他有趣的东西握手.

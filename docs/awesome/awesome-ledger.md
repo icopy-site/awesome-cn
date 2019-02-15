@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sfischer13/awesome-ledger"></div>
 ## Awesome Ledger [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;有用的资源 [Ledger](http://ledger-cli.org/) 命令行会计系统
@@ -6,20 +7,11 @@
 
 *请阅读 [contribution guidelines](https://github.com/sfischer13/awesome-ledger/blob/master/contributing.md) 在贡献之前.*
 
-## Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Introduction](#introduction)
-- [Background](#background)
-- [Documentation](#documentation)
-- [Editors](#editors)
-- [Tools](#tools)
-- [Social](#social)
-- [Media](#media)
-- [Miscellaneous](#miscellaneous)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

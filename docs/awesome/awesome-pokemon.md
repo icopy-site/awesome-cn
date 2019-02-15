@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tobiasbueschel/awesome-pokemon"></div>
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
     <img alt="Awesome Pokémon" src="https://raw.githubusercontent.com/tobiasbueschel/awesome-pokemon/master/logo.png" width="700">
@@ -24,19 +25,6 @@
 </div>
 
 
-## Contents
-- [Development Projects](#development-projects)
-    - [APIs](#apis)
-    - [Apps](#apps)
-    - [Bots](#bots)
-    - [Miscellaneous](#miscellaneous)
-- [Resources & Others](#resources--others)
-    - [Communities](#communities)
-    - [Official](#official)
-    - [Maps](#maps)
-    - [Tips & Tricks](#tips--tricks)
-    - [Wiki](#wiki)
-    - [Others](#others)
 
 ## Development Projects
 #### APIs

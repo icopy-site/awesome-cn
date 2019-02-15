@@ -1,15 +1,8 @@
+<div class="github-widget" data-repo="svaksha/Julia.jl"></div>
 ## Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) 汇总和策划用于编程的知识资源的decibans [Julia](https://github.com/JuliaLang)，一种通用编程语言，可满足高性能数值分析和计算科学的需求.
 
-+ [INDEX](#index)
-+ [LICENSE](#license)
-   + [ODbL and AGPLv3](#odbl-and-agplv3)
-   + [Mirrors](#mirrors)
-+ [CONTRIBUTE](#contribute)
-   + [Guidelines](#guidelines)
-   + [BugReport-PullRequest](#bugreport-pullrequest)
-   + [Package Status](#package-status)
    
 ----
 

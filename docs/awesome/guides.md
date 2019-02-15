@@ -1,58 +1,15 @@
+<div class="github-widget" data-repo="NARKOZ/guides"></div>
 ## Guides
 
 希望成为优秀程序员的指南.  
 此存储库的目的是收集和分发有用的链接
 网络上的编码风格指南和开发实践.
 
-## Contents
 
-+ [Styling](#styling)
-  + [CSS](#css)
-  + [Sass](#sass)
 
-+ [Markup](#markup)
-  + [HTML](#html)
-  + [XML](#xml)
 
-+ [Programming languages](#programming-languages)
-  + [C](#c)
-  + [C++](#c-1)
-  + [C#](#c-2)
-  + [CoffeeScript](#coffeescript)
-  + [Elixir](#elixir)
-  + [Go](#go)
-  + [JavaScript](#javascript)
-  + [Java](#java)
-  + [Objective-C](#objective-c)
-  + [PHP](#php)
-  + [Perl](#perl)
-  + [Python](#python)
-  + [Ruby](#ruby)
-  + [Scala](#scala)
-  + [Shell](#shell)
-  + [SQL](#sql)
-  + [Swift](#swift)
-  + [Vimscript](#vimscript)
 
-+ [Frameworks](#frameworks)
-  + [AngularJS](#angularjs)
-  + [RSpec](#rspec)
-  + [Ruby on Rails](#rails)
-  + [Vue](#vue)
 
-+ [Other](#other)
-  + [API](#api)
-  + [Bots](#bots)
-  + [Deployment](#deployment)
-  + [Favicon](#favicon)
-  + [iOS](#ios)
-  + [Git](#git)
-  + [JSON](#json)
-  + [Machine Learning](#machine-learning)
-  + [Node.js](#nodejs)
-  + [Security](#security)
-  + [UI](#ui)
-  + [Writing](#writing)
 
 ## Styling
 

@@ -1,36 +1,9 @@
+<div class="github-widget" data-repo="XamSome/awesome-xamarin"></div>
 ## Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 用于Xamarin Android / iOS / Windows / OSX的主观现代/有趣且理想的开源库/工具的精选书签集合
 
 
-## Contents
-- [General](#general)
-- [Architecture](#architecture)
-- [Async](#async)
-- [Charts](#charts)
-- [Cloud](#cloud)
-- [Database](#database)
-- [Fody](#fody)
-- [Framework](#framework)
-- [Game Engine](#game-engine)
-- [IO/Storage](#iostorage)
-- [IOC/DI](#iocdi)
-- [Internationalization](#internationalization)
-- [Layout](#layout)
-- [Media](#media)
-- [MVVM](#mvvm)
-- [Network](#network)
-- [Reactive](#reactive)
-- [Security](#security)
-- [Serialization](#serialization)
-- [TDD/BDD](#tddbdd)
-- [Tools](#tools)
-- [UI](#ui)
-- [Wearable](#wearable)
-- [Xamarin.Forms](#xamarinforms)
-- [XPlat APIs](#xplat-apis)
-- [Other lists](#other-lists)
-- [Websites](#websites)
 
 
 ## General
@@ -38,7 +11,7 @@
 - [AutoMapper ★5,724](https://github.com/AutoMapper/AutoMapper) -  .NET中基于约定的对象 - 对象映射器.
 - [Fluent Validation ★3,570](https://github.com/JeremySkinner/FluentValidation) - 用于构建验证规则的Fluent接口和lambda表达式.
 - [Humanizer ★3,426](https://github.com/Humanizr/Humanizer) - 操纵和显示字符串，枚举，日期，时间，时间跨度，数字和数量.
-- [NodaTime ★970](https://github.com/nodatime/nodatime) - Alternative date and time API for .NET.
+- [NodaTime ★970](https://github.com/nodatime/nodatime) -  .NET的替代日期和时间API.
 - [Polly ★4,666](https://github.com/App-vNext/Polly) - 异常处理策略，例如重试，永远重试，等待和重试或断路器.
 
 
@@ -57,7 +30,7 @@
 
 ## Charts
 
-- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - 创建跨平台（Xamarin，Windows，...）简单图表.
+- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - 在Xamarin Forms中使用MPAndroidChart / iOSCharts绑定支持.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - 用于.NET的跨平台绘图库.
 
@@ -73,12 +46,12 @@
 
 - [Akavache ★1,692](https://github.com/reactiveui/akavache) - 本机应用程序的异步键值存储.
 - [Breeze ★63](https://github.com/Breeze/breeze.sharp) - 面向富客户端应用程序开发人员的数据管理库.
-- [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - 轻量级嵌入式NoSQL数据库.
+- [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - Lightweight embedded NoSQL database.
 - [Lager ★2](https://github.com/ghuntley/Lager) - 使用Akavache作为存储后端的跨平台设置存储.
 - [Massive ★1,708](https://github.com/FransBouma/Massive) - 数据库表的“包装器”，并广泛使用System.Dynamic.
 - [Realm ★690](https://github.com/realm/realm-dotnet) - 直接在手机，平板电脑或可穿戴设备内运行的移动数据库.
 - [Settings ★58](https://github.com/aritchie/settings) -  Xamarin和Windows的跨平台设置插件.
-- [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) - SQLite 3 databases support, PCL, async.
+- [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) -  SQLite 3数据库支持，PCL，异步.
 
 
 ## Fody
@@ -174,7 +147,7 @@
 - [Connectivity ★200](https://github.com/jamesmontemagno/ConnectivityPlugin) - 跨平台网络/连接状态.
 - [CrossDownloadManager ★67](https://github.com/SimonSimCity/Xamarin-CrossDownloadManager) -  Xamarin的跨平台下载管理器.
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) -  Flurl是一个现代的，流畅的，异步的，可测试的，可移植的，充满流行语的URL构建器和HTTP客户端库.
-- [Fusillade ★216](https://github.com/paulcbetts/Fusillade) - 一组HttpMessageHandlers，使您的移动应用程序更高效，响应更快.
+- [Fusillade ★216](https://github.com/reactiveui/Fusillade) - 一组HttpMessageHandlers，使您的移动应用程序更高效，响应更快.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - 使用默认消息传递应用程序拨打电话，发送短信或发送电子邮件.
 - [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - 使用移动优化的库（NSURLSession / OkHttp）加速HTTP请求.
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - 用于阅读NFC标签的Xamarin插件.
@@ -238,6 +211,10 @@
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - 用于Xamarin.Forms，Xamarin.iOS和Xamarin.Android应用程序的丰富的UI组件和文件格式库.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) -  Xamarin.Forms的触摸效果.
 - [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) - 用于Xamarin的Telerik UI提供了更多70个控件，可以从单个代码库为iOS，Android和UWP构建具有专业外观的现代移动应用程序.
+- [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView)   -  _Xamarin.Android_原生展示视图.  易于使用的可自定义的展示案例视图，带有圆形显示动画.
+- [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - 确定/不确定加载视图动画.
+
+
 
 ## Wearable
 

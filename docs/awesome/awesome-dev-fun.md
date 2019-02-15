@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mislavcimpersak/awesome-dev-fun"></div>
 ## Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;有趣的库/包/语言的精选列表，没有真正的目的，但让开发人员轻笑.
@@ -5,25 +6,7 @@
  现在这是一个非常简短的列表，所以请贡献.  读 [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) 并提出拉取请求或只是在Twitter上ping我 [@mislavcimpersak](https://twitter.com/mislavcimpersak) 有一些有趣的东西.
 
 
-## Contents
 
-- [Android](#android)
-- [CSS](#css)
-- [Elixir](#elixir)
-- [Golang](#golang)
-- [Haskell](#haskell)
-- [HTML](#html)
-- [Java](#java)
-- [JavaScript](#javascript)
-- [PHP](#php)
-- [Python](#python)
-- [Ruby](#ruby)
-- [Esoteric languages](#esoteric-languages)
-- [SaaS](#saas)
-- [Browser extensions](#browser-extensions)
-- [CLI](#cli)
-- [DevOps](#devops)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Android

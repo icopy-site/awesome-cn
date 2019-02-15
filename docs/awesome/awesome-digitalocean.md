@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jonleibowitz/awesome-digitalocean"></div>
 ## Awesome DigitalOcean [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/jonleibowitz/awesome-digitalocean/master/media/DO_Logo.png" align="right" width="100">](https://www.digitalocean.com/)
@@ -9,16 +10,7 @@
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
 
-## Contents
 
-- [Community](#community)
-- [Configuration management](#configuration-management)
-- [Developer documentation](#developer-documentation)
-- [Open source projects](#open-source-projects)
-- [Community OSS projects](#community-oss-projects)
-- [Clients](#clients)
-- [Video tutorials](#video-tutorials)
-- [Other](#other)
 
 
 ## Community

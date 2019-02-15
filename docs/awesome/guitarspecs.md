@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="gitfrage/guitarspecs"></div>
 
 ## Electric Guitar Specifications
 
@@ -10,44 +11,14 @@
 
 请阅读 [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) 在贡献之前.
 
-## Table of Contents
 
-- [Sound and Playability Influencing Factors](#sound-and-playability-influencing-factors)
 
-- [Guitar Necks](#guitar-necks)
-  - [Neck Profile](#neck-profile)
-  - [Neck Nut Width and Nut Slot Spacing](#neck-nut-width-and-nut-slot-spacing)
-  - [Neck Heel Width and Mounting](#neck-heel-width-and-mounting)
-  - [Fretboard’s Radius](#fretboards-radius)
-  - [Fret Sizes](#fret-sizes)
-  - [Common Neck Head Shapes](#common-neck-head-shapes)
-  - [Tuner Holes](#tuner-holes)
 
-- [Guitar Bodies](#guitar-bodies)
-    - [Bridge Routing](#bridge-routing)
-        - [Flat Mount Hardtail Routing](#flat-mount-hardtail-routing)
-        - [Tremolo Routing](#tremolo-routing)
-        - [Tune-O-Matic Gibson Style Routing](#tune-o-matic-gibson-style-routing)
-    - [Pickup Routing](#pickup-routing)
 
-- [Hardware](#hardware)
-  - [Tuning Machines](#tuning-machines)
-  - [Bridges](#bridges)
-  - [Knob Styles](#knob-styles)
-  - [More Parts To Complete](#more-parts-to-complete)
 
-- [Electronics](#electronics)
-  - [Pickup Properties](#pickup-properties)
-  - [Electronics Wiring Options](#electronics-wiring-options)
-  - [Potentiometer and Capacitor Values](#potentiometer-and-capacitor-values)
-  - [Volume and Tone Potentiometer Options](#volume-and-tone-potentiometer-options)
-  - [Active Pickups Electronic](#active-pickups-electronics)
 
-- [Strings](#strings)
 
-- [Scale Length](#scale-length)
 
-- [Woods](#woods)
 
 ---------------
 
@@ -93,7 +64,7 @@
  轮廓|  厚度|  Warmoth * |  挡泥板* |  吉布森*      
 ------------|-------------|---------------|---------------------------|--------------
  D |  薄|  向导|  D形|           
- C |  薄/中|  标准薄|  C形（AM标准）|  传统的C.
+C           | thin/medium | Standard Thin | C Shape (AM Std)          | Traditional C
  C |  中|  59回调|  深C |  Round C（1959 LP）             
  U |  厚|  Fatback |  U形（Vintage Tele）| 
  V |  厚|  Boatneck |  在形状（Vintage 52 Tele）|             
@@ -158,7 +129,7 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
  标题|  宽度|  高度|  例
 -------------|---------|-----------| -----------
-Small		 | narrow  | low       | vintage Fender
+ 小|  狭窄|  低|  复古挡泥板
  中|  狭窄|  高|  很多马丁斯
  中型Jumbo |  宽|  低|  很多吉布森人
  Jumbo |  宽|  高|  现代挡泥板
@@ -200,7 +171,7 @@ Small		 | narrow  | low       | vintage Fender
 
      Flat Mount Hardtail：Vintage Tele：标准Tele：Schaller：
      ... oooooo .. .. o ... o ... o ... o .. ... oooooo ..
-     .. o ..... o ..... o ... ... oooooo .. .. o ..... o ..... o .. ... o .... o. ...... o ......
+     ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
 
 
  型号|  E / e |  站点孔Ø|  站点孔dist |  孔|  桥孔Ø|  Bridgehole dist
@@ -218,7 +189,7 @@ Small		 | narrow  | low       | vintage Fender
     “Vintage”：“标准”：
     .. o..o..o..o..o ... o ...... ..... O ....... O .....
 
-Model                  | E/e               | holes     | holes dist.      | holes Ø
+ 型号|  E / e |  孔|  孔dist.  |  孔Ø
 -----------------------|-------------------|-----------|------------------|--------------
  墨西哥Strat |  52,4毫米（2 1/16）|  6 |  52,4毫米（2 1/16）|  3毫米（1/8英寸）
  复古|  566毫米（2 7/32英寸）| 6 | 55.9毫米（2.2英寸）|  3毫米（1/8英寸）
@@ -285,7 +256,6 @@ Model                  | E/e               | holes     | holes dist.      | hole
 
 调音机选项：
 
- - 轴的钻孔直径（见章节 [Tuner Holes](#tuner-holes))
  - 比率 - 围绕轴头1x绕组 - 需要1x旋转.
    较大的比例（1:18&gt; 1:14）允许更精细的调整.
  - 标准锁定与锁定 - 锁定调谐器弦穿过轴孔插入，并通过外部螺钉固定
@@ -332,7 +302,7 @@ Model                  | E/e               | holes     | holes dist.      | hole
 ![electronics](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip3_harness.jpg)
 
 
-Electronics exerts greatest influence on the overall sound of a solid-body electric guitar.
+电子产品对固体电吉他的整体声音影响最大.
 
 > [buildyourguitar.com -  The Secrets of Electric Guitar Pickups by Lemme](http://www.buildyourguitar.com/resources/lemme/index.htm) - “如果您知道共振峰的共振频率和高度，您就知道了大约90％的拾音器传递特性.使用此模型无法描述其他一些效果，但它们的影响不那么重要”.
 
@@ -355,11 +325,10 @@ Electronics exerts greatest influence on the overall sound of a solid-body elect
 ### Pickup Properties
 ![pickup properties](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip5_hambucker.jpg)
 
-- 维度和产品组 - 参见章节  [Puckup Routing](#pickup-routing)
 - 输出：低（复古），中等，高（经常用于爵士乐和蓝调）
 - 接线：1,2,3或4导体（4导体允许最灵活的接线）*
 - 位置：桥，颈，中
-- 被动与主动（主动常用于失真声）
+- Passive vs. Active (Active often used for distortion sound)
 - 直流电阻：指示拾音器的输出量
 - 情商聊天：关于低音，中音和高音的一般概念.
 

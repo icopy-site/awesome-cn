@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="shuaibiyy/awesome-terraform"></div>
 ## Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;策划的资源列表 [HashiCorp's Terraform](https://www.terraform.io/).
@@ -6,21 +7,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
  Terraform使您能够安全，可预测地创建，更改和改进生产基础架构.  它是一个开源工具，可将API编码为声明性配置文件，可在团队成员之间共享，视为代码，编辑，审阅和版本化.
 
-## Contents
 
-* [Official Resources](#official-resources)
-* [Community](#community)
-* [Books](#books)
-* [Tutorials and Blog Posts](#tutorials-and-blog-posts)
-* [Community Modules](#community-modules)
-* [Private Module Registries](#private-module-registries)
-* [Providers](#providers)
-* [Testing](#testing)
-* [Tools](#tools)
-* [Libraries](#libraries)
-* [Terraform Enterprise](#terraform-enterprise)
-* [Talks](#talks)
-* [Editor Plugins](#editor-plugins)
 
 ## Official Resources
 
@@ -73,7 +60,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - 定义EFS文件系统.
 * [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用Jenkins构建Docker镜像，将其保存到ECR仓库，并将其部署到运行Docker堆栈的Elastic Beanstalk.
 * [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成SSH密钥对（公钥/私钥）.
-* [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - Creates PostgreSQL on RDS.
+* [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - 在RDS上创建PostgreSQL.
 * [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - 使用基于CIS Amazon Web Services Foundations的安全基准配置设置您的AWS账户.
 * [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) -  Terraform计划将ssh堡垒部署为AWS上的无状态服务
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - 使用Terraform在AWS ECS上规定Jenkins.
@@ -160,7 +147,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) - 在一些有趣的用例的帮助下，OpenCredo的CTO提供了在现实世界中使用Terraform的广泛视角.
 * [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ)
 * [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - 大规模运行Terraform，拥有数百个AWS账户.
-* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - 将Terraform与内部裸机配置集成.
+* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - Integrating Terraform with an on-premise bare metal provisioning.
 * [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg) -  Terraform提供商如何工作以及如何编写.
 * [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) - 如何以最小的风险仔细地重构Terraform代码.
 * [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs) -  Segment如何使用Terraform.

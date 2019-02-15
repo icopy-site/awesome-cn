@@ -1,30 +1,9 @@
+<div class="github-widget" data-repo="sitepoint-editors/awesome-symfony"></div>
 ## Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 很棒的清单 [Symfony](http://symfony.com) 捆绑包，实用程序和资源.
 
 目录：
 
-* [Administration](#administration)
-* [Assets Management](#assets-management)
-* [Certification](#certification)
-* [Community](#community)
-* [Development](#development)
-* [Distributions](#distributions)
-* [Ecommerce](#ecommerce)
-* [Forms](#forms)
-* [Internationalization](#internationalization)
-* [Miscellaneous](#miscellaneous)
-* [Monitoring](#monitoring)
-* [Payments Management](#payments-management)
-* [Queues](#queues)
-* [Reading](#reading)
-* [Resources](#resources)
-* [Service Container](#service-container)
-* [Storage](#storage)
-* [Template Engine](#template-engine)
-* [Third Party APIs](#third-party-apis)
-* [User Management](#user-management)
-* [Validation](#validation)
-* [Web Services](#web-services)
 
 ## Administration
 
@@ -39,7 +18,7 @@
 * [AsseticInjectorBundle](https://github.com/AppVentus/AsseticInjectorBundle) - 此捆绑包允许您在项目的任何位置自动包含javascripts和样式表.
 * [AsseticMinifierBundle](https://github.com/Djeg/AsseticMinifierBundle) - 用于CSS和JS文件的纯PHP中的资产缩减器.
 * [FkrCssURLRewriteBundle](https://github.com/fkrauthan/FkrCssURLRewriteBundle) - 一个小的资产过滤器，用于修复css文档中的所有URL路径以更正URL.
-* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - Bundle for serving protected files.
+* [IgorwFileServeBundle](https://github.com/igorw/IgorwFileServeBundle) - 捆绑服务受保护的文件.
 * [JmikolaJsAssetsHelperBundle](https://github.com/jmikola/JmikolaJsAssetsHelperBundle) - 将AssetsHelper服务从Symfony2的模板组件公开到JavaScript，允许在客户端生成相对或绝对资产URI.
 * [KachkaevAssetsVersionBundle](https://github.com/kachkaev/KachkaevAssetsVersionBundle) - 自动更新资产版本的过程.
 * [SalvaJshrinkBundle](https://github.com/nibsirahsieu/SalvaJshrinkBundle) - 此捆绑包将jshrink库集成为Assetic过滤器和twig扩展.
@@ -78,10 +57,10 @@
 * [ApiExceptionBundle](https://github.com/M6Web/ApiExceptionBundle) - 异常API包.
 * [AvAjaxBundle](https://github.com/AppVentus/AvAjaxBundle) - 此捆绑包提供了一个简单的结构来运行ajax操作.
 * [BeelabTestBundle](https://github.com/Bee-Lab/BeelabTestBundle) - 此捆绑包仅包含Symfony WebTestCase的固定扩展名.
-* [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - This bundle includes a controller with actions to clear the various caches.
+* [CacheAdministrationBundle](https://github.com/yamiko-ninja/CacheAdministrationBundle) - 此捆绑包包含一个控制器，其中包含清除各种缓存的操作.
 * [ControllerExtraBundle](https://github.com/mmoreram/ControllerExtraBundle) - 一组有用的控制器注释.
 * [DunglasActionBundle](https://github.com/dunglas/DunglasActionBundle) - 基于Action-Domain-Responder模式替换Symfony控制器系统.
-* [http-bundle](https://github.com/iltar/http-bundle) - Provides extra HTTP related functionality.
+* [http-bundle](https://github.com/iltar/http-bundle) - 提供额外的HTTP相关功能.
 * [JMSDebuggingBundle](http://jmsyst.com/bundles/JMSDebuggingBundle) - 提供高级调试工具.
 * [LadybugBundle](https://github.com/raulfraile/LadybugBundle) - 简单和可扩展的PHP Dumper.
 * [LiipCodeBundle](https://github.com/liip/LiipCodeBundle) - 一组Symfony2控制台命令，可帮助开发人员处理识别类，模板，捆绑包，服务等的各种方法.
@@ -89,13 +68,13 @@
 * [ListenersDebugCommandBundle](https://github.com/egulias/ListenersDebugCommandBundle) - 用于调试侦听器的控制台命令.
 * [ParamConverterBundle](https://github.com/jakzal/ParamConverterBundle) - 此捆绑包为Symfony提供了额外的param转换器.
 * [PhpMetricsCollectorBundle](https://github.com/phpmetrics/PhpMetricsCollectorBundle) - 在Symfony2调试工具栏中集成PhpMetrics.
-* [PsyshBundle](https://github.com/theofidry/PsyshBundle) - Provides an enhanced PHP interactive shell loaded with a Symfony context.
+* [PsyshBundle](https://github.com/theofidry/PsyshBundle) - 提供加载了Symfony上下文的增强型PHP交互式shell.
 * [PUGXGeneratorBundle](https://github.com/PUGX/PUGXGeneratorBundle) - 增强SensioGeneratorBundle.
 * [redaktilo-bundle](https://github.com/gnugat/redaktilo-bundle) - 将编辑器集成到Symfony 2中.
 * [SandboxBundle](https://github.com/danrevah/sandbox-bundle) - 在Sandbox环境中覆盖控制器逻辑和响应.
 * [StatsDClientBundle](https://github.com/liuggio/StatsDClientBundle) - 使用随时可用的统计数据轻松监控您的symfony2生产环境.
 * [TagDebugCommandBundle](https://github.com/egulias/TagDebugCommandBundle) - 集成TagDebug库以检查和调试标签.
-* [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - Displays what's in Twig.
+* [TwigReflectionBundle](https://github.com/arnaud-lb/TwigReflectionBundle) - 显示Twig中的内容.
 * [WebfactoryExceptionsBundle](https://github.com/webfactory/exceptions-bundle) - 轻松开发自定义，用户友好的错误页面.
 * [WebProfilerExtraBundle](https://github.com/Elao/WebProfilerExtraBundle) - 在Web Profiler中添加路由，容器，资产和树枝信息.
 * [XhprofBundle](https://github.com/jonaswouters/XhprofBundle) -  XHProf捆绑.
@@ -142,7 +121,6 @@
 * [BazingaJsTranslationBundle](https://github.com/willdurand/BazingaJsTranslationBundle) - 将Symfony2转换消息公开给客户端应用程序的一种非常好的方法.
 * [JMSI18nRoutingBundle](http://jmsyst.com/bundles/JMSI18nRoutingBundle) - 捆绑多语言网站以支持国际路线.
 * [JMSTranslationBundle](http://jmsyst.com/bundles/JMSTranslationBundle) - 轻松翻译您的网站 - 通过基于Web的UI提取消息并进行翻译.
-* [LexikTranslationBundle](https://github.com/lexik/LexikTranslationBundle) - 允许将翻译文件内容导入数据库，并提供GUI来编辑翻译.
 * [LuneticsLocaleBundle](https://github.com/lunetics/LocaleBundle) - 从不同的参数猜测访问者的语言环境.
 * [TimezoneBundle](https://github.com/lunetics/TimezoneBundle) -  Serverside时区检测.
 * [TranslationFormBundle](https://github.com/a2lix/TranslationFormBundle) - 翻译领域，以便于使用可翻译学说扩展.
@@ -162,14 +140,14 @@
 * [BCCMyrrixBundle](https://github.com/michelsalib/BCCMyrrixBundle) -  Myrrix是基于Apache Mahout库的推荐引擎.
 * [BGBarcodeBundle](https://github.com/paterik/BGBarcodeBundle) - 使用我们的条形码生成器基础库进行条形码渲染.
 * [BlogBundle](https://github.com/stfalcon/BlogBundle) - 简单的博客模块.
-* [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - Integrates Bootstrap into Symfony2 by providing templates, Twig extensions, services and commands.
+* [bootstrap-bundle](https://github.com/braincrafted/bootstrap-bundle) - 通过提供模板，Twig扩展，服务和命令，将Bootstrap集成到Symfony2中.
 * [BreadcrumbsBundle](https://github.com/whiteoctober/BreadcrumbsBundle) - 一个小面包屑捆绑.
 * [BrowscapBundle](https://github.com/browscap/BrowscapBundle) - 捆绑以访问browscap信息.
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - 捆绑以在Symfony2中集成cachetool库（从命令行清除acp / opcache）.
 * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - 此捆绑包提供将Request数据转换为Carbon对象的机会.
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - 检查已安装但未在AppKernel捆绑包中激活.
 * [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - 能够备份您的数据库并将其上传到云端.
-* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - Commandline interface in browser.
+* [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - 浏览器中的命令行界面.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - 在Symfony中捆绑集成Guzzle&gt; = 4.0.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - 将thephpleague / csv集成到Symfony中.
 * [DomainParserBundle](https://github.com/EGYG33K/DomainParserBundle) - 将Domain Parser集成到Symfony中.
@@ -198,7 +176,7 @@
 * [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) - 基于Imagine库的图像处理包.
 * [LiipUrlAutoConverterBundle](https://github.com/liip/LiipUrlAutoConverterBundle) - 为带有新过滤器的模板添加一个Twig Extension，用于自动将字符串中的URL和电子邮件转换为html链接.
 * [marshaller-bundle](https://github.com/gnugat/marshaller-bundle) - 从一种格式转换为另一种格式的PHP库.
-* [metrics](https://github.com/beberlei/metrics) - Simple library that abstracts different metrics collectors.
+* [metrics](https://github.com/beberlei/metrics) - 抽象不同指标收集器的简单库.
 * [MhorMediaInfoBundle](https://github.com/mhor/MhorMediaInfoBundle) - 将php-mediainfo库集成到Symfony2全栈框架中.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) -  Mobile_Detect是一个轻量级PHP类，用于检测移动设备（包括平板电脑）.
 * [MobileDetectBundle](https://github.com/suncat2000/MobileDetectBundle) - 用于检测移动设备，管理移动视图和重定向到移动设备和平板电脑版本的捆绑包.
@@ -266,7 +244,7 @@
 
 ## Service Container
 
-* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - 管理存储在数据库中的配置设置，并通过Symfony 2项目中的服务访问它们.
+* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
 * [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - 数据库中商店配置的简单服务，可通过服务和项目中的树枝访问.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - 提供高级依赖注入功能.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - 为服务参数提供自动装配的捆绑包.
@@ -280,7 +258,7 @@
 * [doctrine-routing-bundle](https://github.com/eschmar/doctrine-routing-bundle) - 动态数据库路由.
 * [DoctrineEncryptBundle](https://github.com/vmelnik-ukraine/DoctrineEncryptBundle) -  Bundle允许您创建具有受AES等加密算法保护的字段的doctrine实体.
 * [DoctrineEnumBundle](https://github.com/fre5h/DoctrineEnumBundle) - 为Doctrine2提供MySQL ENUM类型的支持.
-* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - Integrates the Doctrine2 Data Fixtures library.
+* [DoctrineFixturesBundle](https://github.com/doctrine/DoctrineFixturesBundle) - 集成Doctrine2数据夹具库.
 * [DoctrineMigrationsBundle](https://github.com/doctrine/DoctrineMigrationsBundle) - 集成Doctrine2迁移库.
 * [elastica-query-bundle](https://github.com/mapado/elastica-query-bundle) -  ElasticSearch的查询构建器包.
 * [FeedBundle](https://github.com/eko/FeedBundle) - 用于从您的实体构建RSS源的捆绑包.
@@ -300,14 +278,14 @@
 * [CgKintBundle](https://github.com/carlos-granados/CgKintBundle) - 此捆绑包允许您在Twig模板中使用Kint库.
 * [FlashAlertBundle](https://github.com/rasanga/FlashAlertBundle) - 简化处理（添加/显示）Symfony flash消息的方法.
 * [GravatarBundle](https://github.com/henrikbjorn/GravatarBundle) - 简单的gravatar API包装器.
-* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - Provides helpers for time manipulation.
+* [KnpTimeBundle](https://github.com/KnpLabs/KnpTimeBundle) - 为时间操纵提供帮助.
 * [swift-css-inliner-bundle](https://github.com/toretto460/swift-css-inliner-bundle) - 一个提供CSS内联功能的Swiftmailer插件.
 * [TwigCacheBundle](https://github.com/EmanueleMinotto/TwigCacheBundle) - 捆绑asm89 / twig-cache-extension.
 * [TwigExtraBundle](https://github.com/csanquer/TwigExtraBundle) -  Twig Extra Tools Extensions.
 * [TwigInflectionBundle](https://github.com/EmanueleMinotto/TwigInflectionBundle) - 通过Twig扩展名应用变形.
 * [TwigJackBundle](https://github.com/boekkooi/TwigJackBundle) -  Twig的便利附加功能.
 * [TwitalBundle](https://github.com/goetas/twital-bundle) - 构建在Twig之上的属性模板引擎，100％兼容所有twig的功能.
-* [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - Provides some filters.
+* [UcoTwigExtensionsBundle](https://github.com/sgomez/UcoTwigExtensionsBundle) - 提供一些过滤器.
 
 ## Third Party APIs
 
@@ -332,7 +310,7 @@
 
 * [dms-filter-bundle](https://github.com/rdohms/dms-filter-bundle) - 提供FilterService以允许用户使用Annotations在实体中实现输入过滤.
 * [PasswordStrengthBundle](https://github.com/jbafford/PasswordStrengthBundle) - 确保强密码的验证器.
-* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) - A Symfony2 bundle for the VATIN library (validate VAT identification numbers).
+* [vatin-bundle](https://github.com/ddeboer/vatin-bundle) -  VATIN库的Symfony2包（验证增值税识别号）.
 
 ## Web Services
 

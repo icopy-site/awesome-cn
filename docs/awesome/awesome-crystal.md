@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="veelenga/awesome-crystal"></div>
 <p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.png" alt="awesome-crystal"></p>
 
 ## Awesome Crystal
@@ -9,75 +10,15 @@
 
 Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [ANN]]（https://crystal-ann.com）了解更多信息.
 
- 欢迎捐款.  请快速浏览一下 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) first.
+ 欢迎捐款.  请快速浏览一下 [contribution guidelines](https://github.com/veelenga/awesome-crystal/blob/master/.github/CONTRIBUTING.md) 第一.
 
-* [Awesome Crystal](#awesome-crystal)
-  * [Algorithms and Data structures](#algorithms-and-data-structures)
-  * [Api Builders](#api-builders)
-  * [Blockchain](#blockchain)
-  * [C Bindings](#c-bindings)
-  * [Caching](#caching)
-  * [CLI Builders](#cli-builders)
-  * [CLI Utils](#cli-utils)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-  * [Configuration](#configuration)
-  * [Converters](#converters)
-  * [Data Formats](#data-formats)
-  * [Data Generators](#data-generators)
-  * [Database Drivers/Clients](#database-driversclients)
-  * [Database Tools](#database-tools)
-  * [Development Tools](#development-tools)
-  * [Email](#email)
-  * [Environment Management](#environment-management)
-  * [Examples and funny stuff](#examples-and-funny-stuff)
-  * [Feature Flipping](#feature-flipping)
-  * [Framework Components](#framework-components)
-  * [Game Development](#game-development)
-  * [GUI library](#gui-library)
-  * [HTML/XML parsing](#htmlxml-parsing)
-  * [HTTP](#http)
-  * [Image Processing](#image-processing)
-  * [Implementations/Compilers](#implementationscompilers)
-  * [Logging and monitoring](#logging-and-monitoring)
-  * [Machine Learning](#machine-learning)
-  * [Markdown/Text Processors](#markdowntext-processors)
-  * [Misc](#misc)
-  * [Network Protocols](#network-protocols)
-  * [Networking](#networking)
-  * [ORM/ODM Extensions](#ormodm-extensions)
-  * [Package Management](#package-management)
-  * [Processes and Threads](#processes-and-threads)
-  * [Project Generators](#project-generators)
-  * [Queues and Messaging](#queues-and-messaging)
-  * [Routing](#routing)
-  * [Scheduling](#scheduling)
-  * [Science and Data analysis](#science-and-data-analysis)
-  * [Search](#search)
-  * [Serverless Computing](#serverless-computing)
-  * [System](#system)
-  * [Task management](#task-management)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Third-party APIs](#third-party-apis)
-  * [Validation](#validation)
-  * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
-* [Community](#community)
-  * [Unofficial](#unofficial)
-* [Resources](#resources)
-  * [Official Documentation Translations](#official-documentation-translations)
-* [Services and Apps](#services-and-apps)
-* [Tools](#tools)
-  * [DevOps](#devops)
-  * [Editor Plugins](#editor-plugins)
-  * [Shell Plugins](#shell-plugins)
 
 ## Algorithms and Data structures
  * [aho_corasick](https://github.com/chenkovsky/aho_corasick) -  AhoCorasick算法
  * [bisect](https://github.com/spider-gazelle/bisect) - 将值插入已排序的数组中
  * [bitfields](https://github.com/elorest/bitfields)   -  BitFields的Pure Crystal实现.  处理字节的编码/解码.
  * [CrOTP](https://github.com/philnash/crotp) - 用于双因素身份验证的HOTP和TOTP实现
- * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - 晶体序列差异实现
+ * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - 链接列表的实施
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - 纯矢量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) - 通用算法库
@@ -123,7 +64,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) -  libxdo的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
 
 ## Caching
- * [bloom_filter](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
+ * [bloom_filter](https://github.com/crystal-community/bloom_filter) -  Bloom过滤器的实现
  * [bojack](https://github.com/marceloboeira/bojack) - 不可靠的内存中键值存储
  * [cache-hash](https://github.com/samueleaton/cache-hash) - 键/值存储，其中条目在指定的时间间隔后到期
  * [crystal-memcached](https://github.com/comandeo/crystal-memcached) - 实现memcached客户端
@@ -150,7 +91,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [trashman](https://github.com/Groogy/trashman) -  Crystal应用程序的简单内存分析器
 
 ## Configuration
- * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - 加载.env文件
+ * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
  * [envyable](https://github.com/philnash/envyable.cr) - 一个简单的YAML到ENV配置加载器
  * [habitat](https://github.com/luckyframework/habitat) - 为类和模块键入安全配置
  * [totem](https://github.com/icyleaf/totem) - 以JSON，YAML，dotenv格式加载和解析配置
@@ -552,7 +493,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - 免费预订您的水晶之旅
  * [Crystal Mastery](https://crystalmastery.io/) - 用于学习Crystal的截屏视频
  * [crystal-lang.org](https://crystal-lang.org) - 官方语言网站
- * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
+ * [devdocs.io](https://devdocs.io/crystal/) - 具有Crystal支持的API文档浏览器
  * [getgood.at](https://getgood.at/crystal/in-a-day) - 一天学习水晶
  * [Programming Crystal](https://pragprog.com/book/crystal/programming-crystal) -  PragProg书开始你的水晶之旅
 

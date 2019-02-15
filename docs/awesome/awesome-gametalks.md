@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hzoo/awesome-gametalks"></div>
 ## Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU)：Satoru Iwata（任天堂）
@@ -10,13 +11,6 @@
 
 ## If you want just a list of free GDC talks: [GDC](https://github.com/hzoo/awesome-gametalks/blob/master/GDC.md)
 
-### Table of Contents
-- [GDC Talks](#gdc-talks)
-- [TED Talks](#ted-talks)
-- [Other Talks](#other-talks)
-- [Podcasts](#podcasts)
-- [Playlist of Conferences / Lectures](#conferences)
-- [Lists](#lists)
 
 ## GDC Talks
 - [2016] [Overwatch - The Elusive Goal: Play by Sound](https://www.youtube.com/watch?v=zF_jcrTCMsA)：Scott Lawlor，Tomas Neumann（暴雪）
@@ -75,7 +69,7 @@
 
 -  [2015，TED][Physical Therapy Is Boring — Play A Game Instead](http://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead)：Cosmin Mihaiu
 -  [2015，TEDxTokyo] [Play This Game To Come Up With Original ideas](http://www.ted.com/talks/shimpei_takahashi_play_this_game_to_come_up_with_original_ideas)：Shimpei Takahashi 
--  [2013 TEDGlobal] [Massively Multi-Player… Thumb-Wrestling?](http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling)：Jane McGonigal（未来研究所） 
+-  [2013，TEDGlobal] [Massively Multi-Player… Thumb-Wrestling?](http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling)：Jane McGonigal（未来研究所） 
 -  [2012 TEDGlobal] [The Game That Can Give You 10 Extra Years Of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en)：Jane McGonigal 
 -  [2012，TEDxCHUV] [Your Brain On Video Games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)：Daphne Bavelier（日内瓦大学） 
 -  [2012，TEDxPhoenix] [Gaming For Understanding](http://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding)：布兰达罗梅罗（Loot Drop） 

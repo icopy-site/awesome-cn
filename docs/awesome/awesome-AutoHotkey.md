@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ahkscript/awesome-AutoHotkey"></div>
 ## Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩的精选列表 [AutoHotkey](https://autohotkey.com/)  库，库分发，脚本，工具和资源.  受到另一个人的启发 [awesome lists](https://github.com/bayandin/awesome-awesomeness) .  请阅读 [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) 在贡献之前.
@@ -8,57 +9,6 @@
 [![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg)](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
-* [Awesome AutoHotkey](#awesome-autohotkey)
- * [Libraries](#libraries)
-    * [Clipboard](#clipboard)
-    * [Console](#console)
-    * [Data format](#libraries-data-format)
-    * [Data Structures and Algorithms](#libraries-data-structs-algorithms)
-    * [Database](#database)
-    * [Filesystem](#filesystem)
-    * [Graphics](#libraries-graphics)
-    * [GUI](#libraries-gui)
-    * [Hotkeys](#hotkeys)
-    * [Joystick](#joystick)
-    * [Maths](#maths)
-    * [Memory](#memory)
-    * [Networking](#networking)
-    * [Plotting (graphs, bars, charts and etc)](#libraries-plotting)
-    * [System](#libraries-system)
-    * [Text manipulation](#text-manipulation)
-  * [Library Distributions](#library-distributions)
-  * [Scripts](#scripts)
-    * [Clipboard](#scripts-clipboard)
-    * [Filesystem](#scripts-filesystem)
-    * [Graphics](#scripts-graphics)
-    * [GUI](#scripts-gui)
-    * [Maths](#scripts-maths)
-    * [Mouse](#mouse)
-    * [Typing](#typing)
-    * [Window management](#window-management)
-    * [Games](#games)
-  * [Tools](#tools)
-    * [Interpreter](#interpreter)
-    * [Decompilers](#decompilers)
-    * [Debugging](#debugging)
-    * [Integrated Development Environment](#integrated-development-environment)
-    * [GUI WYSIWYG Builders](#gui-wysiwyg-builders)
-    * [Script Recorders and Writers](#script-recorders-and-writers)
-    * [Web Syntax Highlighters](#web-syntax-highlighters)
-    * [Others](#tools-others)
-    * [(Use in) other programming languages](#use-in-other-programming-languages)
-  * [Tutorials](#tutorials)
-    * [Classes](#tutorials-classes)
-    * [COM](#tutorials-com)
-    * [GUI](#tutorials-gui)
-    * [MCode (machine code)](#tutorials-mcode)
-  * [Resources](#resources)
-    * [Documentation](#documentation)
-    * [Books](#books)
-    * [Quick-start guides](#quick-start-guides)
-    * [Websites](#websites)
-  * [Forks](#forks)
-    * [AutoHotkey_H](#autohotkey_h)
 
 <hr/>
 
@@ -101,7 +51,7 @@
 * [AHKv2-GDIP](https://github.com/mmikeww/AHKv2-Gdip) - 更新上述GDI +库，兼容AHK v1.1和AHK v2  - 论坛主题： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
 * [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-)   -  by tic  - 使用gdiplus.dll在库中搜索图像实例的库.  有关MasterFocus的改进版本，请参阅该线程的结尾，或者查看他 [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
 * [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - 作者GeekDude  - 一个旨在简化使用低级GDI函数的类.
-* [Particle System](https://github.com/acorns/Particle-System) - by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
+* [Particle System](https://github.com/acorns/Particle-System)   - 通过tidbit  - 一个简单的类，使用GDI +将粒子添加到GUI或屏幕上.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
 
 ### <a name="libraries-gui"></a>GUI
 
@@ -163,7 +113,6 @@
 * [WinSCP.ahk](https://github.com/lipkau/WinSCP.ahk) - 通过Lipkau  -  Lib允许在AHK中使用WinSCP
 
 ### <a name="libraries-plotting"></a>Plotting (graphs, bars, charts and etc)
-* [BarChart](https://autohotkey.com/board/topic/82959-barchart/)   - 通过Learning One  - 用于制作条形图的库.  下载 [link](https://dl.dropboxusercontent.com/u/171417982/AHK/BarChart/BarChart.zip).
 * [Excel Charts](https://autohotkey.com/board/topic/88438-excel-charts/) - 通过Xx7  - 用于在Excel中创建图形的库，将图形保存为图像并将其显示在GUI中.
 * [XGraph](https://autohotkey.com/boards/viewtopic.php?t=3492) - 通过SKAN  - 用于以图形方式绘制实时数据的函数库.
 * [SVGraph](https://github.com/CapnOdin/SVGraph)   - 由CapnOdin  -  SVGraph为AutoHotkey带来图形和图表.  论坛 [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=23892)
@@ -246,11 +195,10 @@
 * [AutoHotkey](https://autohotkey.com/download/) -  AutoHotkey解释器安装程序和二进制文件.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/)   -  AutoHotkey.dll打开AutoHotkey世界到其他编程和脚本语言.  论坛帖子： [link](https://autohotkey.com/board/topic/39588-autohotkeydll/) .  文档 [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB)   -  Pocket PC / WinCE /智能手机的AutoHotkey.  论坛帖子： [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/) .  文档 [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
-* [IronAHK](https://github.com/polyethene/IronAHK) - 跨平台.NET重写 -  *未完成*.
+* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
 
 ### Debugging
  * [[Class] Console]（https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116） - 此类旨在简化脚本的调试，从简单的文本处理，到输出和记录数据和数组.  GitHub上 [link](https://github.com/AfterLemon/Class_Console).
-* [Print Array](https://autohotkey.com/board/topic/70490-print-array/) - 在GUI中打印数组内容的函数.
 * [Yunit](https://github.com/Uberi/Yunit) - 由Uberi和infogulch  -  AutoHotkey的简单单元测试框架.
 
 ### Decompilers

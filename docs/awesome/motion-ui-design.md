@@ -1,28 +1,9 @@
+<div class="github-widget" data-repo="fliptheweb/motion-ui-design"></div>
 ## Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  什么是运动设计？  这是一个神奇的界面，让用户对UI变化感到满意.
 它是与动作UI设计，UI动画和过渡相关的资源，软件，库，视频和文章的精选集合.
 随意地 [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) （todo里面）拉请求！
 
-## Contents
-- [Resources for inspiration](#resources-for-inspiration)
-	* [Sites](#sites)
-	* [Pinterest boards](#pinterest-boards)
-	* [Processing](#processing-and-other-weird-but-funny-stuff)
-- [Articles](#articles)
-- [Software](#software)
-	* [Video, gif, presentation](#video-gif-presentation)
-	* [Visual programming](#visual-programming)
-	* [HTML, CSS and JavaScript](#html-css-and-javascript)
-- [Helpers](#helpers)
-- [Libraries](#libraries)
-	* [CSS](#css)
-	* [JavaScript](#javascript)
-	* [SVG](#svg)
-- [Web animation performance](#web-animation-performance)
-- [Speeches, presentations, videos](#speeches-presentations-videos)
-- [Newsletters, podcasts, screencasts](#newsletters-podcasts-screencasts)
-- [Guidelines](#guidelines)
-- [Books](#books)
 
 ## Resources for inspiration
 ### Sites
@@ -30,7 +11,7 @@
 * [Codyhouse](http://codyhouse.co/library/) - 互动演示和实验.
 * [Dribbble](http://dribbble.com/shots?list=animated) -  Dribbble上的动画镜头类别.
 * [Codepen](http://codepen.io/) -  HTML / CSS / JS沙箱.
-* [Give ’n’ Go](http://give-n-go.co/) – A curated gallery of Dribbble shots reworked as interactive CodePen pens.
+* [Give ’n’ Go](http://give-n-go.co/) - 经过精心策划的Dribbble镜头库作为交互式CodePen笔重新设计.
 * [capptivate.co](http://capptivate.co/) - 一系列令人敬畏的移动界面.
 * [UYI](http://useyourinterface.com/) - 移动界面的大集合.
 * [Awwwards](http://awwwards.com/websites/animation/) - 网站带动画设计的例子.
@@ -39,7 +20,7 @@
 * [hakim.se](http://hakim.se/) -  @hakimel的实验.
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) - 软件用户界面中的动画.
 * [sixux.com](http://sixux.com/) - 带有令人敬畏的过渡和动画的葡萄藤.
-* [hoverstat.es](http://hoverstat.es/) - 由Animade工作室策划的一系列有趣的网站.
+* [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
 * [appealing.](http://app-ealing.com/) - 移动过渡和动画的集合.
 * [UI Interactions](https://uiinteractions.com/) - 每天都有UI互动为您的灵感.
 * [UI Movement](https://uimovement.com/) - 动画界面和简报.

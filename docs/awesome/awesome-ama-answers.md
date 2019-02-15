@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="stoeffel/awesome-ama-answers"></div>
 ## awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的AMA答案的精选列表

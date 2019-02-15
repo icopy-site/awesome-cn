@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="briatte/awesome-network-analysis"></div>
 ## Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
 
 An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析和可视化网络数据的资源.
@@ -8,51 +9,18 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 &gt;美国政治博客网络 [Adamic and Glance (2004)](https://dl.acm.org/citation.cfm?doid=1134271.1134277) ([preprint](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)).
 
-## Contents
 
 - __[Books](#books)__
-  - [Classics](#classics)
-  - [Dissemination](#dissemination)
-  - [General Overviews](#general-overviews)
-  - [Graph Theory](#graph-theory)
-  - [Method-specific](#method-specific)
-  - [Software-specific](#software-specific)
-  - [Topic-specific](#topic-specific)
 - __[Conferences](#conferences)__
 - __[Courses](#courses)__
 - __[Datasets](#datasets)__
 - __[Journals](#journals)__
 - __[Professional groups](#professional-groups)__
-  - [Research Groups (USA)](#research-groups-usa)
-  - [Research Groups (Other)](#research-groups-other)
 - __[Review Articles](#review-articles)__
-  - [Archeological and Historical Networks](#archeological-and-historical-networks)
-  - [Bibliographic, Citation and Semantic Networks](#bibliographic-citation-and-semantic-networks)
-  - [Biological, Ecological and Disease Networks](#biological-ecological-and-disease-networks)
-  - [Complex Networks](#complex-networks)
-  - [Ethics of Network Analysis](#ethics-of-network-analysis)
-  - [Network Modeling](#network-modeling)
-  - [Network Visualization](#network-visualization)
-  - [Social, Economic and Political Networks](#social-economic-and-political-networks)
 - __[Selected Papers](#selected-papers)__
 - __[Software](#software)__
-  - [Algorithms](#algorithms)
-  - [C / C++](#c--c)
   - [Java](#java)  
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [MATLAB](#matlab)
-  - [Python](#python)
-  - [R](#r)
-  - [Stata](#stata)
-  - [Syntaxes](#syntaxes)
-  - [Tutorials](#tutorials)
 - __[Varia](#varia)__
-  - [Blog Series](#blog-series)
-  - [Fictional Networks](#fictional-networks)
-  - [Network Science](#network-science)
-  - [Small Worlds](#small-worlds)
-  - [Two-Mode Networks](#two-mode-networks)
 - __[Contributing Guidelines](https://github.com/briatte/awesome-network-analysis/blob/master/CONTRIBUTING.md)__
 - __[License](#license)__
 

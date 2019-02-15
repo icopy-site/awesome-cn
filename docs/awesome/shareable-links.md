@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="vinkla/shareable-links"></div>
 ## Shareable Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://cloud.githubusercontent.com/assets/499192/18660063/c6497820-7f0e-11e6-9d3f-c728227516cb.png" align="right" alt="awesome share links" width="280">
@@ -8,35 +9,7 @@
 
  像`shareable-links`？  联系我并说* hi * on [Twitter](https://twitter.com/vinkla)! 
 
-#### Contents
 
-- [Buffer](#buffer)
-- [Delicious](#delicious)
-- [Digg](#digg)
-- [Echo JS](#echo-js)
-- [Email](#email)
-- [Facebook](#facebook)
-- [Flattr](#flattr)
-- [Flipboard](#flipboard)
-- [Google Bookmarks](#google-bookmarks)
-- [Google Plus](#google-plus)
-- [Hacker News](#hacker-news)
-- [Instapaper](#instapaper)
-- [Line](#line)
-- [LinkedIn](#linkedin)
-- [Pinterest](#pinterest)
-- [Pocket](#pocket)
-- [Reddit](#reddit)
-- [Renren](#renren)
-- [Sina Weibo](#sina-weibo)
-- [StumbleUpon](#stumbleupon)
-- [Telegram](#telegram)
-- [Tumblr](#tumblr)
-- [Twitter](#twitter)
-- [Viber](#viber)
-- [Vkontakte](#vkontakte)
-- [WhatsApp](#whatsapp)
-- [Xing](#xing)
 
 ## Buffer
 - 网址：https：//buffer.com/add

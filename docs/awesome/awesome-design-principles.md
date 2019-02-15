@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="robinstickel/awesome-design-principles"></div>
 ## Awesome Design Principles [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精心设计和体验原则的精选清单.
@@ -6,7 +7,6 @@
 
  知道下面没有列出的资源吗？  随意创建一个新 [pull request](https://github.com/robinstickel/awesome-design-principles/pulls)，或打开一个 [issue](https://github.com/robinstickel/awesome-design-principles/issues/new) .  请阅读 [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/CONTRIBUTING.md) 在贡献之前.
 
-### Contents
 - [Principles within bigger Design Systems](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
 - [Articles about Design Principles](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
 - [Other Resources](https://github.com/robinstickel/awesome-design-principles#other-resources)

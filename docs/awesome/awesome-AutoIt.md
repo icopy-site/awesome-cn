@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="J2TeaM/awesome-AutoIt"></div>
 ## Awesome AutoIt
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,46 +10,11 @@
 
 由...制作 [Juno_okyo](https://twitter.com/juno_okyo) .  灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-## Table Of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [Awesome AutoIt](#awesome-autoit-)
-  - [UDF/Libraries](#udflibraries)
-    - [Automation](#automation)
-      - [Browsers](#browsers)
-      - [Microsoft Office](#microsoft-office)
-      - [OpenOffice](#openoffice)
-    - [Databases and web connections](#databases-and-web-connections)
-    - [Data compression](#data-compression)
-    - [Encryption and hash](#encryption-and-hash)
-    - [GUI Additions](#gui-additions)
-    - [Controls](#controls)
-    - [Hardware](#hardware)
-    - [Information gathering](#information-gathering)
-    - [Internet protocol suite](#internet-protocol-suite)
-    - [Maths](#maths)
-    - [Media](#media)
-    - [Graphics and image](#graphics-and-image)
-    - [Players](#players)
-    - [Sound](#sound)
-    - [PDF](#pdf)
-    - [Security](#security)
-    - [Social Media and other Website API](#social-media-and-other-website-api)
-    - [Windows](#windows)
-    - [Misc](#misc)
-  - [Tools](#tools)
-  - [Useful Resources](#useful-resources)
-    - [Documents](#documents)
-    - [Websites](#websites)
-    - [Guides/Tutorials](#guidestutorials)
-    - [Videos](#videos)
-    - [Books](#books)
-    - [Syntax Highlighter](#syntax-highlighter)
-  - [License](#license)
-  - [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -78,7 +44,7 @@
 - [_FF_AutoLogin (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=124330) - 这是FireFox和FF.au3的自动登录功能和登录功能生成器.
 - [_FF_DM (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=92035) -  UDF控制FireFox下载管理器（不是下载窗口）.
 - [_FF_FoxBox (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91650) -  UDF用FF.au3控制Fox！Box（AVM FRITZ！Box的Mozilla Firefox扩展）.
-- [_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665)   -  UDF来控制Screengrab！  （FireFox-AddOn）与FF.au3.
+- [_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665) - UDF to control Screengrab! (FireFox-AddOn) with FF.au3.
 - [_HTML (by Stilgar)](https://www.autoitscript.com/forum/topic/124330-_htmlau3-v101/) - 从任何HTML（XML）源获取信息，无需任何浏览器.
 - [HTMLDocumentEvents (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=166542) - 跟踪IE文档事件.
 - [IEEx (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=167035) - 带有一些Javascript选项的IE扩展库.
@@ -237,7 +203,7 @@
 - [Decimal To fraction (by Malkey)](https://www.autoitscript.com/forum/index.php?showtopic=106551)   - 将任何十进制数转换为分数.  例如：1.2到6/5.
 - [Number base conversion (by james3mg)](https://www.autoitscript.com/forum/index.php?showtopic=81189) - 从小于63（支持小数）的正碱基之间，之间和之间.
 - [NumToWord (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=117156) - 将数字转换为人类可读的字符串.
-- [Polynomials (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=108803) - Functions for using polynomials.
+- [Polynomials (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=108803) - 使用多项式的函数.
 - [Primes (by jennico)](https://www.autoitscript.com/forum/index.php?showtopic=83091) - 许多处理素数生成和计算的函数.
 - [Roman Numerals (by AZJIO)](https://www.autoitscript.com/forum/topic/94770-integer-to-roman-numerals/#entry1043544) - 罗马数字.
 - [Root function (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=98160) - 弄清楚数字的真正根源.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="kyleterry/awesome-radio"></div>
 ## Awesome Radio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精彩无线电资源的精选列表.  受到令人敬畏的启发 -  *.
@@ -30,7 +31,7 @@
 公民频段无线电或CB是一种专用于开放使用的双向无线电频谱
  几乎任何目的的任何人.  在美国和许多其他国家，它
  不需要许可证即可运营.  CB由26.965之间的40个频道组成
-MHz and 27.405 MHz with channel 09 being dedicated to emergencies.
+MHz和27.405 MHz，频道09专门用于紧急情况.
 
 CB在卡车司机和无线电爱好者中更受欢迎，但它的实用性
  并不止于此.  这对于热门卡车运输的长途旅行非常有用
@@ -155,7 +156,7 @@ receivers.
 
 ### Links
 
-*美国无线电中继联盟 -  [ARRL](http://www.arrl.org/)
+* American Radio Relay League - [ARRL](http://www.arrl.org/)
 *澳大利亚无线研究所 [WIA](http://www.wia.org.au/)
 *英国无线电协会 -  [RSGB](http://rsgb.org/)
 *巴基斯坦业余无线电协会 -  [PARS](http://www.pakhams.com/)

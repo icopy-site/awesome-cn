@@ -1,6 +1,6 @@
+<div class="github-widget" data-repo="terkelg/awesome-creative-coding"></div>
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png">](https://raw.githubusercontent.com/terkelg/awesome-creative-coding)
 
 &gt;精心策划的精彩列表 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 资源主要用于初学者/中间体.
 
@@ -14,41 +14,7 @@
 
 ---
 
-## Contents
 
-- [Books](#books)
-- [Online Books](#online-books)
-- [Courses](#courses)
-- [Tools](#tools)
-  - [Frameworks • Libraries • Ecosystems](#frameworks--libraries--ecosystems)
-  - [Visual Programming Languages](#visual-programming-languages)
-  - [Sound Programming Languages](#sound-programming-languages)
-  - [Web Programming • Libraries](#web-programming--libraries)
-  - [Projection Mapping • VJing](#projection-mapping--vjing)
-  - [Online](#online)
-  - [Hardware](#hardware)
-  - [Other](#other)
-- [Learning Resources](#learning-resources)
-  - [Videos](#videos)
-  - [Talks](#talks)
-  - [Articles](#articles)
-    - [Shaders • OpenGL • WebGL](#shaders--opengl--webgl)
-    - [Canvas](#canvas)
-    - [Hardware](#hardware-1)
-    - [Other](#other-1)
-  - [Interactive](#interactive)
-  - [Quick References • Cheat-Sheets](#quick-references--cheatsheets)
-- [Communities](#communities)
-  - [Subreddits](#subreddits)
-  - [Slack](#slack)
-  - [Other](#other-2)
-- [Math](#math)
-- [Machine learning • Computer Vision • Ai](#machine-learning--computer-vision--ai)
-- [Inspiration](#inspiration)
-- [Events](#events)
-- [Schools • Workshops](#schools--workshops)
-- [Blogs • Websites](#blogs--websites)
-- [Related](#related)
 
 ## Books
 
@@ -77,7 +43,7 @@
 - [WebGL Fundamentals](http://webglfundamentals.org/)   -  WebGL从头开始.  没有魔法.
 - [WebGL 2 Fundamentals](http://webgl2fundamentals.org/)   -  WebGL2从头开始.  没有魔法.
 - [Learn OpenGL](https://learnopengl.com/) - 用于学习Modern OpenGL的广泛教程资源.
-- [Scratchapixel 2.0](http://www.scratchapixel.com/) - 从头开始​​学习计算机图形学.
+- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
 - [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - 关于openFrameworks的社区书籍/指南.
 - [OGLdev](http://ogldev.atspace.co.uk/) -  Etay Meiri收集的现代OpenGL教程.
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/) - 专门用于OpenGL 3.3及更高版本教程的站点.
@@ -285,7 +251,7 @@
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - 非常好的介绍基本软件渲染的工作原理.
 - [WebGL Tutorials](http://www.webgltutorials.org/) - 网站上有很好的WebGL教程.
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - 关于如何创建几何对象的初学者介绍.
-- [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
+- [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/)   - 了解如何使用three.js将正弦波添加到圆圈中.  （[oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - 关于WebGL，Three.js和Three.bas的系列教程.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - 通过3D图形管道简要概述不同的坐标系.
 - [WebGL Workshop](http://webgl-workshop.com/) - 简短而有趣的WebGL在线介绍.
@@ -330,7 +296,7 @@
 
 ### Interactive
 
-- [Shader-school](https://github.com/stackgl/shader-school) -  GLSL着色器和图形编程研讨会.
+- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - 着色学校的续集：学习WebGL API.
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - 交互式片段着色器教程.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - 关于光线追踪的Shadertoy教程.
@@ -348,7 +314,7 @@
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) -  Shader词汇表主题.
 - [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) -  OpenGL 3D编程术语表.
 - [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - 快速和可视的帆布备忘单.
-- [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API reference card.
+- [WebGL Cheatsheet](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) -  WebGL 1.0 API参考卡.
 - [Glossary of Computer Graphics](https://en.wikipedia.org/wiki/Glossary_of_computer_graphics) - 与计算机图形有关的术语表.
 - [GLSL Reference Guide](http://www.cs.cmu.edu/afs/cs/academic/class/15462-f10/www/lec_slides/glslref.pdf) -  OpenGL着色语言快速参考指南.
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) -  Anton Gerdelan的数学作弊表，来自他的OpenGL书籍.
@@ -360,7 +326,7 @@
 - [PixelSpirit](http://pixelspiritdeck.com/) - 塔罗牌背面的GLSL库，供学习和参考.
 - [Procedural Patterns And Noises](http://www.neilblevins.com/cg_education/procedural_noise/procedural_noise.html) - 收集程序模式和程序噪音.
 - [Three.js Reference](https://www.udacity.com/wiki/cs291/threejs-reference) - 参考Udacity Interactive 3D Graphics课程.
-- [Visual Noises](https://ramesaliyev.com/visual-noises/) - Visualize noise algorithms in 1D and 2D.
+- [Visual Noises](https://ramesaliyev.com/visual-noises/) - 在1D和2D中可视化噪声算法.
 - [Trigonoparty](https://ramesaliyev.com/trigonoparty/) - 简单的三角学可视化.
 
 
@@ -522,7 +488,7 @@
 - [Magic tools](https://github.com/ellisonleao/magictools) - 策划的游戏开发资源列表，以实现魔术.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - 在GPU上链接光线行进的集合.
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - 公共可用数据集的策划列表，主要是免费资源.
-- [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) -  2013年的策划清单.
+- [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - 用于3D机器学习的资源库.
 
 

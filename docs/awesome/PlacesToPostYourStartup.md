@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mmccaff/PlacesToPostYourStartup"></div>
 [![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Places To Post Your Startup
@@ -7,7 +8,6 @@
 
  单击链接以跳转到相应的部分.  两个部分按字母顺序排列.
 
-[Sub-Reddits](#reddit) | [Websites](#websites) | [License](#license)
 
 ## Reddit
 * / r / AlphaandBetausers  -  https://www.reddit.com/r/alphaandbetausers/
@@ -23,7 +23,6 @@
 * / r / SmallBusiness  -  https://www.reddit.com/r/smallbusiness/
 * / r / Startups  -  http://reddit.com/r/startups
 
-[Back to Top](#places-to-post-your-startup)
 
 ## Websites
 * 10words  -  https://10words.io
@@ -161,12 +160,9 @@
 * YouNoodle  -  https://ww2.younoodle.com/startups/
 *你的故事 -  https://profiles.yourstory.com/
 
-[Back to Top](#places-to-post-your-startup)
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Matt McCaffrey](http://www.mattmccaffrey.com/) 已放弃对此作品的所有版权及相关或相邻权利.
-
-[Back to Top](#places-to-post-your-startup)

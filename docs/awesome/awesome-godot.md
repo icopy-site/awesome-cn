@@ -1,25 +1,11 @@
+<div class="github-widget" data-repo="Calinou/awesome-godot"></div>
 ## Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Godot Engine logo](https://raw.githubusercontent.com/Calinou/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
 
 精选的清单 [free/libre](https://www.gnu.org/philosophy/free-sw.html) 游戏，插件，附加组件和脚本 [Godot](https://godotengine.org).
 
-## Contents
 
-- [Games](#games)
-  - [2D](#2d)
-  - [3D](#3d)
-- [Demos](#demos)
-- [Tutorials](#tutorials)
-  - [Text tutorials](#text-tutorials)
-  - [Video tutorials](#video-tutorials)
-- [Themes](#themes)
-- [Modules](#modules)
-- [Plugins and scripts](#plugins-and-scripts)
-- [GDScript editor support](#gdscript-editor-support)
-- [Godot script editor syntax themes](#godot-script-editor-syntax-themes)
-- [Unofficial Godot builds](#unofficial-godot-builds)
-- [Other](#other)
 
 ## Games
 
@@ -70,7 +56,7 @@
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 允许您连接到服务器并查看联网物理.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - 类似Minecraft的体素地形演示.
-- [voxelgame](https://github.com/Zylann/voxelgame) - Minecraft-like voxel terrain demo, utilising the godot_voxel module.
+- [voxelgame](https://github.com/Zylann/voxelgame) - 使用godot_voxel模块的类似Minecraft的体素地形演示.
 
 ## Tutorials
 
@@ -101,7 +87,7 @@
 
 * Stuff集成到Godot核心（C ++）.*
 
-- [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪音编辑支持.
+- [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对Godot 3的Python支持.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - 使用Godot进行高性能多人游戏的更好的ENet模块.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 用于在Godot Engine中创建体积世界的模块.

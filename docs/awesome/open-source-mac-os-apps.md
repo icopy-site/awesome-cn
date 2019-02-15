@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="serhii-londar/open-source-mac-os-apps"></div>
 <p align="center">
 <img src="https://raw.githubusercontent.com/serhii-londar/open-source-mac-os-apps/master/./icons/icon.png">
 </p>
@@ -36,53 +37,6 @@
 - ！[type_script_icon]  -  TypeScript语言.
 
 
-## Contents
-- [Audio](#audio)
-- [Backup](#backup)
-- [Browser](#browser)
-- [Chat](#chat)
-- [Cryptocurrency](#cryptocurrency)
-- [Database](#database)
-- [Development](#development)
-    - [Git](#git)
-    - [iOS / macOS](#ios--macos)
-    - [JSON Parsing](#json-parsing)
-    - [Web development](#web-development)
-    - [Other](#other)
-- [Downloader](#downloader)
-- [Editors](#editors)
-    - [CSV](#csv)
-    - [JSON](#json)
-    - [Markdown](#markdown)
-    - [TeX](#tex)
-    - [Text](#text)
-- [Extensions](#extensions)
-- [Finder](#finder)
-- [Games](#games)
-- [Graphics](#graphics)
-- [IDE](#ide)
-- [Images](#images)
-- [Keyboard](#keyboard)
-- [Mail](#mail)
-- [Menubar](#menubar)
-- [Music](#music)
-- [News](#news)
-- [Notes](#notes)
-- [Other](#other-1)
-- [Podcast](#podcast)
-- [Productivity](#productivity)
-- [Screensaver](#screensaver)
-- [Security](#security)
-- [Sharing Files](#sharing-files)
-- [Social Networking](#social-networking)
-- [Streaming](#streaming)
-- [System](#system)
-- [Terminal](#terminal)
-- [Utilities](#utilities)
-- [VPN & Proxy](#vpn--proxy)
-- [Video](#video)
-- [Wallpaper](#wallpaper)
-- [Window Management](#window-management)
 
 ## Applications
 
@@ -177,7 +131,7 @@
 - [Streaker](https://raw.githubusercontent.com/jamieweavis/streaker)   -  GitHub贡献条纹跟踪菜单应用程序.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/././build/icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/jamieweavis/streaker/master/screenshots/menubar.png' width="400"/>  </p></details> 
 - [TeamStatus-for-GitHub](https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub)   - 用于跟踪团队内代码审核流程的macOS状态栏应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/marcinreliga/TeamStatus-for-GitHub/master/doc/preview.png' width="400"/>  </p></details> 
 - [Trailer](https://raw.githubusercontent.com/ptsochantaris/trailer)   - 管理GitHub和GitHub企业的拉请求和问题.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='http://ptsochantaris.github.io/trailer/images/ipadscreenshot-820-1.png' width="400"/>  <bt><img src='http://ptsochantaris.github.io/trailer/images/background-2400.png' width="400"/>  </p></details> 
-- [Xit](https://raw.githubusercontent.com/Uncommon/Xit) - Xit is a graphical tool for working with git repositories.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  </p></details> 
+- [Xit](https://raw.githubusercontent.com/Uncommon/Xit)   -  Xit是一个用于处理git存储库的图形工具.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/Uncommon/Xit/master/screenshot.png' width="400"/>  </p></details> 
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)   - 简单的macOS应用程序，用于从JSON生成Swift Object Mapper类.  ！[swift_icon] 
@@ -187,7 +141,7 @@
 #### Other Development
 - [ChefInspector](https://raw.githubusercontent.com/Yasumoto/ChefInspector)   -  Chef的节点和属性查看器！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/Yasumoto/ChefInspector/master/screenshot.png' width="400"/>  </p></details> 
 - [macho-browser](https://github.com/dcsch/macho-browser)   -  macOS Mach-O二进制文件的浏览器.  ！[objective_c_icon] 
-- [vegvisir](https://raw.githubusercontent.com/ant4g0nist/vegvisir)   - 用于** LLDB **调试器的基于浏览器的GUI.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  </p></details> 
+- [vegvisir](https://raw.githubusercontent.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  </p></details> 
 
 #### Web Development
 - [CoreOS VM](https://raw.githubusercontent.com/TheNewNormal/coreos-osx)   -  CoreOS VM是macOS状态栏应用程序，可以轻松控制Mac上的CoreOS VM.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/TheNewNormal/coreos-osx/master/coreos-osx.png' width="400"/>  </p></details> 
@@ -233,8 +187,8 @@
 - [PodsUpdater](https://raw.githubusercontent.com/kizitonwose/PodsUpdater)   -  macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/kizitonwose/PodsUpdater/master/Assets/screenshot_1.png' width="400"/>  </p></details> 
 - [ProfilesManager](https://raw.githubusercontent.com/shaojiankui/ProfilesManager)   - 用于mac的Apple iOS / macOS Provisioning Profiles管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/shaojiankui/ProfilesManager/master/demo.jpg' width="400"/>  </p></details> 
 - [PushNotifications](https://raw.githubusercontent.com/onmyway133/PushNotifications)   - 用于测试iOS和Android上的推送通知的macOS应用程序.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/TeamId.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/iOSToken.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Android.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/ios.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/KeyId.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Key.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/iOSCertificate.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/AndroidServerKey.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/PushNotifications/master/Screenshots/Certificate.png' width="400"/>  </p></details> 
-- [ResignTool](https://raw.githubusercontent.com/InjoyDeng/ResignTool)   - 这是一个macOS应用程序，可以（重新）签署应用程序并将它们捆绑到可以安装在iOS设备上的ipa文件中.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/H8kRoPf.png' width="400"/>  </p></details> 
-- [SmartPush](https://raw.githubusercontent.com/shaojiankui/SmartPush) - iOS Push Notification Debug App.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/shaojiankui/SmartPush/master/demo.png' width="400"/>  </p></details> 
+- [ResignTool](https://raw.githubusercontent.com/InjoyDeng/ResignTool) - This is an app for macOS that can (re)sign apps and bundle them into ipa files that are ready to be installed on an iOS device.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/H8kRoPf.png' width="400"/>  </p></details> 
+- [SmartPush](https://raw.githubusercontent.com/shaojiankui/SmartPush)   -  iOS推送通知调试应用程序.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/shaojiankui/SmartPush/master/demo.png' width="400"/>  </p></details> 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)   - 适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
@@ -315,7 +269,7 @@
 
 ### IDE
 - [Atom](https://github.com/atom/atom)   - 黑客文本编辑器.  ！[javascript_icon] 
-- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon] ![javascript_icon] ![type_script_icon] 
+- [Oni](https://github.com/onivim/oni)   -  Oni是一个现代化的模态编辑代码编辑器，专注于开发人员的工作效率.  ！[javascript_icon]！[javascript_icon]！[type_script_icon] 
 - [Visual Studio Code](https://raw.githubusercontent.com/Microsoft/vscode)   - 由Microsoft开发的代码编辑器.  ！[type_script_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://cloud.githubusercontent.com/assets/11839736/16642200/6624dde0-43bd-11e6-8595-c81885ba0dc2.png' width="400"/>  </p></details> 
 - [ZeroBraneStudio](https://raw.githubusercontent.com/pkulchenko/ZeroBraneStudio)   -  ZeroBrane Studio是一个轻量级的跨平台Lua IDE，具有代码完成，语法高亮，远程调试器，代码分析器，实时编码以及各种Lua引擎的调试支持.  ！[lua_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://studio.zerobrane.com/images/debugging.png' width="400"/>  </p></details> 
 
@@ -336,7 +290,7 @@
 - [Fluor](https://github.com/Pyroh/Fluor)   - 用于macOS的便捷工具，允许您根据活动应用程序切换Fn键的模式.  ！[swift_icon] 
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) -  Karabiner-Elements配置管理器，救援到臃肿的karabiner.json！[clojure_icon] 
 - [Karabiner](https://github.com/tekezo/Karabiner)   -  Karabiner（KeyRemap4MacBook）是一个功能强大的键盘自定义工具.  ！[cpp_icon]！[objective_c_icon] 
-- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later. ![cpp_icon] ![objective_c_icon] 
+- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)   -  Karabiner-Elements是一个功能强大的工具，用于macOS Sierra（10.12）或更高版本的键盘自定义.  ！[cpp_icon]！[objective_c_icon] 
 - [Kawa](https://raw.githubusercontent.com/utatti/kawa)   - 更好的macOS输入源切换器.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://cloud.githubusercontent.com/assets/1013641/9109734/d73505e4-3c72-11e5-9c71-49cdf4a484da.gif' width="400"/>  <bt><img src='https://raw.githubusercontent.com/utatti/kawa/master/resource/png/logo.png' width="400"/>  </p></details> 
 - [Thor](https://raw.githubusercontent.com/gbammc/Thor)   - 尽快切换正确的应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_settings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/gbammc/Thor/master/./screenshot_list.png' width="400"/>  </p></details> 
 
@@ -372,7 +326,7 @@
 - [DeezPlayer](https://github.com/imanel/deezplayer)   - 适用于Windows，Linux和macOS的Deezer Desktop应用程序.  ！[coffee_script_icon] 
 - [SoundCleod](https://raw.githubusercontent.com/salomvary/soundcleod)   - 适用于macOS和Windows的SoundCloud.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/salomvary/soundcleod/master/screenshot.png' width="400"/>  </p></details> 
 - [Spotify-Cli-Mac](https://raw.githubusercontent.com/ersel/spotify-cli-mac)   - 无需离开终端即可控制Spotify.  ：笔记：！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://asciinema.org/a/ejbbvaa8833wq4xn4d2xuc9jx.png' width="400"/>  </p></details> 
-- [YouTube-Music](https://raw.githubusercontent.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-3.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-4.png' width="400"/>  </p></details> 
+- [YouTube-Music](https://raw.githubusercontent.com/steve228uk/YouTube-Music)   -  music.youtube.com的macOS包装器.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-1.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-3.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/steve228uk/YouTube-Music/master/screenshots/screenshot-4.png' width="400"/>  </p></details> 
 - [iTunes Graphs](https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs)   -  macOS app将iTunes资料库可视化为图形.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot2.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/Zac-Garby/iTunes-Graphs/master/screenshot.png' width="400"/>  </p></details> 
 - [lyricsify](https://raw.githubusercontent.com/mamal72/lyricsify-mac)   -  Swift中用于macOS的简单Spotify歌词查看器菜单栏应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/mamal72/lyricsify-mac/master/screenshots/en.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/mamal72/lyricsify-mac/master/screenshots/fa.png' width="400"/>  </p></details> 
 
@@ -429,11 +383,11 @@
 - [Cerebro](https://github.com/KELiON/cerebro)   - 跨平台启动器应用程序.  ！[javascript_icon] 
 - [ClipMenu](https://raw.githubusercontent.com/naotaka/ClipMenu)   -  macOS的剪贴板管理器.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/naotaka/ClipMenu/master/./screenshot.jpg' width="400"/>  </p></details> 
 - [Clocker](https://github.com/n0shake/Clocker)   - 通过时区规划和组织的macOS应用程序.  ！[objective_c_icon] 
-- [ControlPlane](https://github.com/dustinrue/ControlPlane)   - 根据您的位置或您的工作自动执行任务.  ！[objective_c_icon] 
+- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Automate running tasks based on where you are or what you do.  ![objective_c_icon] 
 - [Flycut](https://github.com/TermiT/flycut)   - 为开发人员提供简洁的剪贴板管理器  ！[objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder)   - 在macOS中记录快捷方式，如Alfred.app.  ！[swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple)   - 适用于iOS和macOS的Kiwix，基于Swift构建.  ！[swift_icon] 
-- [Linked Ideas](https://raw.githubusercontent.com/fespinoza/LinkedIdeas)   -  macOS应用程序记下并连接想法.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/uqb1x43.png' width="400"/>  </p></details> 
+- [Linked Ideas](https://raw.githubusercontent.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/uqb1x43.png' width="400"/>  </p></details> 
 - [Maccy](https://raw.githubusercontent.com/p0deje/Maccy)   - 轻量级搜索即用型剪贴板管理器.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://user-images.githubusercontent.com/665846/36135303-8c4f80ae-10b4-11e8-9940-978e228cb6bd.gif' width="400"/>  </p></details> 
 - [Manta](https://github.com/hql287/Manta)   - 灵活的发票桌面应用程序，具有漂亮和可自定义的模板.  ！[javascript_icon] 
 - [PDF Archiver](https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver)   - 用于标记和归档任务的好工具.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif' width="400"/>  </p></details> 
@@ -447,7 +401,7 @@
 - [TrelloApp](https://github.com/jlong/TrelloApp)   - 用Swift编写的Trello.com的非官方包装应用程序.  对于特定于站点的浏览器，这几乎是“Hello World”.  ！[swift_icon] 
 - [Watson](https://raw.githubusercontent.com/TailorDev/Watson)   - 用于时间跟踪的CLI应用程序.  ！[python_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://tailordev.github.io/Watson/img/logo-watson-600px.png' width="400"/>  <bt><img src='https://tailordev.github.io/Watson/img/watson-demo.gif' width="400"/>  </p></details> 
 - [Whale](https://raw.githubusercontent.com/1000ch/whale)   - 非官方的Trello应用程序.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/1000ch/whale/master/demo.png' width="400"/>  </p></details> 
-- [Yomu](https://github.com/sendyhalim/Yomu)   -  macOS的漫画阅读器应用程序.  ！[swift_icon] 
+- [Yomu](https://github.com/sendyhalim/Yomu) - Manga reader app for macOS.  ![swift_icon] 
 - [macOrganizer](https://github.com/shubhambatra3019/macOrganizer)   - 用于组织文件或删除不必要文件的macOS应用程序.  ！[swift_icon] 
 - [status-bar-todo](https://raw.githubusercontent.com/Onix-Systems/osx-status-bar-todo)   - 简单的macOS应用程序，以保持状态栏中的TODO列表.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://cloud.githubusercontent.com/assets/1434418/21689532/52b0c1ba-d379-11e6-882a-b16d4f8fce00.png' width="400"/>  </p></details> 
 - [stretchly](https://github.com/hovancik/stretchly)   - 跨平台电子应用程序，提醒您在使用计算机时休息.  ！[javascript_icon] 
@@ -500,7 +454,7 @@
 - [Overkill](https://github.com/KrauseFx/overkill-for-mac)   - 连接iPhone时停止打开iTunes.  ！[swift_icon] 
 - [ProfileCreator](https://raw.githubusercontent.com/erikberglund/ProfileCreator)   -  macOS应用程序，用于创建标准或自定义配置文件.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/erikberglund/ProfileCreator/master/resources/screenshots/ProfileCreator.png' width="400"/>  </p></details> 
 - [Sloth](https://raw.githubusercontent.com/sveinbjornt/Sloth)   -  Sloth是一个macOS应用程序，它显示系统上所有正在运行的应用程序正在使用的所有打开文件和套接字的列表.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot1.jpg' width="400"/>  <bt><img src='https://raw.githubusercontent.com/sveinbjornt/Sloth/master/resources/sloth_screenshot2.jpg' width="400"/>  </p></details> 
-- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher) - Turbo Boost Switcher is a little application for Mac computers that allows to enable and/or disable the Turbo Boost feature.  ![objective_c_icon] 
+- [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)   -  Turbo Boost Switcher是Mac计算机的一个小应用程序，允许启用和/或禁用Turbo Boost功能.  ！[objective_c_icon] 
 - [VerticalBar](https://raw.githubusercontent.com/DeromirNeves/VerticalBar)   -  macOS应用程序向Dock添加垂直条.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/DeromirNeves/VerticalBar/master/img/screenshot.png' width="400"/>  </p></details> 
 
 ### Terminal
@@ -585,7 +539,7 @@
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)   - 使用Lua强大的macOS桌面自动化功能.  ！[lua_icon]！[objective_c_icon] 
 - [Phoenix](https://raw.githubusercontent.com/kasper/phoenix)   - 使用JavaScript编写脚本的轻量级macOS窗口和应用程序管理器.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/kasper/phoenix/master/assets/screenshot.gif' width="400"/>  </p></details> 
 - [ShiftIt](https://raw.githubusercontent.com/fikovnik/ShiftIt)   - 管理窗口大小和位置.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/artwork/ShiftIt.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/docs/schreenshot-menu.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/fikovnik/ShiftIt/develop/ShiftIt/AccessibilitySettingsMaverick.png' width="400"/>  </p></details> 
-- [Slate](https://github.com/jigish/slate)   - 窗口管理应用程序（替换Divvy / SizeUp / ShiftIt）.  ！[objective_c_icon] 
+- [Slate](https://github.com/jigish/slate) - Window management application (replacement for Divvy/SizeUp/ShiftIt).  ![objective_c_icon] 
 - [Spectacle](https://github.com/eczarny/spectacle)   -  Spectacle允许您在不使用鼠标的情况下整理窗户.  ！[objective_c_icon] 
 - [chunkwm](https://github.com/koekeishiya/chunkwm)   - 使用插件架构的macOS平铺窗口管理器.  ！[cpp_icon] 
 

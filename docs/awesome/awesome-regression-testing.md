@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="mojoaxel/awesome-regression-testing"></div>
 ## Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的视觉回归测试资源列表.
@@ -10,19 +11,7 @@
 
  最后，我确信阅读此列表的每个人都有一件他们想要添加的内容.  请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md)  页面和**随意添加到列表!! **.  如果你认为这是有帮助的**请给一个明星★**.
 
-## Contents
 
-- [General information](#general-information)
-- [Browser automation](#browser-automation)
-- [Tools and frameworks](#tools-and-frameworks)
-- [Online services](#online-services)
-- [Blog posts](#blog-posts)
-- [Slideshows, talks and videos](#slideshows-talks-and-videos)
-- [Deprecated](#deprecated)
-- [Miscellaneous](#Miscellaneous)
-  - [Contributing](#contributing)
-  - [Code of Conduct](#code-of-conduct)
-  - [License](#license)
 
 ## General information
 

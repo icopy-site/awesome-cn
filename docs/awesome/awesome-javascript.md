@@ -1,75 +1,10 @@
+<div class="github-widget" data-repo="sorrycc/awesome-javascript"></div>
 ## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一个很棒的浏览器端集合 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 图书馆，资源和闪亮的东西.
 
-* [Awesome JavaScript](#awesome-javascript)
-  * [Package Managers](#package-managers)
-  * [Loaders](#loaders)
-  * [Bundlers](#bundlers)
-  * [Testing Frameworks](#testing-frameworks)
-  * [QA Tools](#qa-tools)
-  * [MVC Frameworks and Libraries](#mvc-frameworks-and-libraries)
-  * [Node-Powered CMS Frameworks](#node-powered-cms-frameworks)
-  * [Templating Engines](#templating-engines)
-  * [Articles/Posts](#articles-and-posts)
-  * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
-  * [Editors](#editors)
-  * [Documentation](#documentation)
   *实用程序
-    * [Files](#files)
-    * [Functional Programming](#functional-programming)
-    * [Reactive Programming](#reactive-programming)
-    * [Data Structure](#data-structure)
-    * [Date](#date)
-    * [String](#string)
-    * [Number](#number)
-    * [Storage](#storage)
-    * [Color](#color)
-    * [I18n And L10n](#i18n-and-l10n)
-    * [Control Flow](#control-flow)
-    * [Routing](#routing)
-    * [Security](#security)
-    * [Log](#log)
-    * [RegExp](#regexp)
-    * [Media](#media)
-    * [Voice Command](#voice-command)
-    * [API](#api)
-    * [Streaming](#streaming)
-    * [Vision Detection](#vision-detection)
-    * [Browser Detection](#browser-detection)
-    * [Benchmark](#benchmark)
-    * [Machine Learning](#machine-learning)
   *用户界面
-    * [Code Highlighting](#code-highlighting)
-    * [Loading Status](#loading-status)
-    * [Validation](#validation)
-    * [Keyboard Wrappers](#keyboard-wrappers)
-    * [Tours And Guides](#tours-and-guides)
-    * [Notifications](#notifications)
-    * [Sliders](#sliders)
-    * [Range Sliders](#range-sliders)
-    * [Form Widgets](#form-widgets)
-    * [Tips](#tips)
-    * [Modals and Popups](#modals-and-popups)
-    * [Scroll](#scroll)
-    * [Menu](#menu)
-    * [Table/Grid](#tablegrid)
-    * [Frameworks](#frameworks-1)
-    * [Boilerplates](#boilerplates)
-  * [Gesture](#gesture)
-  * [Maps](#maps)
-  * [Typography](#typography)
-  * [Animations](#animations)
-  * [Image processing](#image-processing)
-  * [ES6](#es6)
-  * [SDK](#sdk)
-  * [Misc](#misc)
-  * [Podcasts](#podcasts)
-* [Worth Reading](#worth-reading)
-* [Other Awesome Lists](#other-awesome-lists)
-* [Contributing](#contributing)
 
 ----
 
@@ -80,7 +15,7 @@
 * [npm](https://www.npmjs.com/) -  npm是javascript的包管理器.
 * [Bower](https://github.com/bower/bower) - 网络包管理器.
 * [component](https://github.com/componentjs/component) - 用于构建更好的Web应用程序的客户端包管理
-* [spm](https://github.com/spmjs/spm) - Brand new static package manager.
+* [spm](https://github.com/spmjs/spm) - 全新的静态包管理器.
 * [jam](https://github.com/caolan/jam) - 使用以浏览器为中心且与RequireJS兼容的存储库的包管理器.
 * [jspm](https://github.com/jspm/jspm-cli) - 无摩擦浏览器包管理.
 * [Ender](https://github.com/ender-js/Ender) - 无库图书馆.
@@ -102,7 +37,7 @@
 * [systemjs](https://github.com/systemjs/systemjs) - 符合AMD，CJS和ES6规范的模块加载器.
 * [LodJS](https://github.com/yanhaijing/lodjs) - 基于AMD的模块加载器
 * [ESL](https://github.com/ecomfe/esl) - 首先是模块加载器浏览器，支持懒惰定义和AMD.
-* [modulejs](https://github.com/lrsjng/modulejs) - Lightweight JavaScript module system.
+* [modulejs](https://github.com/lrsjng/modulejs) - 轻量级JavaScript模块系统.
 
 
 ## Bundlers
@@ -208,7 +143,6 @@
 * [KeystoneJS](https://github.com/keystonejs/keystone) - 功能强大的CMS和Web应用程序框架
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - 反应式CMS，实时架构和设计
 * [Ghost](https://github.com/tryghost/Ghost) - 简单，强大的发布平台
-* [Apostrophe](https://github.com/punkave/apostrophe) -  CMS内容编辑和基本服务
 * [We.js](https://github.com/wejs/we/) - 实时应用程序，网站或博客的框架
 * [Hatch.js](https://github.com/inventures/hatchjs) - 具有社交功能的CMS平台.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - 基于Node.js的快速简约CMS.
@@ -315,7 +249,6 @@
 * [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单，美丽的所见即所得编辑器
 * [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标记汤和内联样式生成完全有效的HTML5标记.
-* [raptor-editor](https://github.com/PANmedia/raptor-editor) -  Raptor，HTML5 WYSIWYG内容编辑器！
 * [popline](https://github.com/kenshin54/popline) -  Popline是一个HTML5富文本编辑器工具栏
 
 
@@ -416,7 +349,7 @@
 * [odometer](https://github.com/HubSpot/odometer) - 轻松过渡数字.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - 用于数字，货币和货币格式的轻量级JavaScript库 - 完全可本地化，零依赖性.
 * [money.js](https://github.com/josscrowcroft/money.js) - 一个小的（1kb）javascript货币转换库，用于web和nodeJS.
-* [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
+* [Fraction.js](https://github.com/infusion/Fraction.js) -  JavaScript的有理数字库
 * [Complex.js](https://github.com/infusion/Complex.js) -  JavaScript的复数库
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -  JavaScript的多项式库
 
@@ -442,7 +375,7 @@
 
 * [randomColor](https://github.com/davidmerfield/randomColor) -  JavaScript的颜色生成器.
 * [chroma.js](https://github.com/gka/chroma.js) - 用于各种颜色操作的JavaScript库.
-* [color](https://github.com/Qix-/color) -  JavaScript颜色转换和操作库.
+* [color](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
 * [colors](https://github.com/mrmrs/colors) - 更智能的网络颜色默认值.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - 用于创建随机赏心悦目的颜色和配色方案的JavaScript库.
 * [TinyColor](https://github.com/bgrins/TinyColor) - 快速，小巧的颜色处理和JavaScript转换.
@@ -488,7 +421,7 @@
 * [Conzole](https://github.com/Oaxoa/Conzole) - 使用javascript构建的调试面板，它在页面内显示的面板中包装javascript本机控制台对象方法和功能.
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - 清晰地在任何浏览器中登录控制台.
 * [loglevel](https://github.com/pimterry/loglevel) -  JavaScript的最小轻量级日志记录，添加可靠的日志级别方法来包装任何可用的console.log方法.
-* [minilog](http://mixu.net/minilog/) - 使用Stream-API后端的轻量级客户端和服务器端日志记录
+* [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends
 * [storyboard](http://guigrpa.github.io/storyboard/)   - 通用日志库+ Chrome扩展;  它允许您在一个位置查看由用户操作触发的所有客户端和服务器任务.
 
 ## RegExp
@@ -560,7 +493,6 @@
 * [pace](https://github.com/HubSpot/pace) - 自动为您的网站添加进度条.
 * [topbar](https://github.com/buunguyen/topbar) - 微小而美丽的全站点进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)   - 非常轻量级的进度条.  没有jQuery.
-* [PageLoadingEffects](https://github.com/codrops/PageLoadingEffects) - 使用SVG动画显示新内容的现代方法.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 使用CSS动画的加载指示符集合.
 * [Ladda](https://github.com/hakimel/Ladda) - 带内置加载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 使用CSS动画加载微调器的集合
@@ -716,7 +648,6 @@
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript警报的绝佳替代品.
 * [baguetteBox.js](https://github.com/feimosi/baguetteBox.js) - 使用纯JavaScript编写的简单易用的lightbox脚本.
 * [colorbox](https://github.com/jackmoore/colorbox) - 一个轻量级，可定制的jQuery灯箱插件.
-* [fancyBox](https://github.com/fancyapps/fancyBox) - 一种工具，为您的网页上的图像，html内容和多媒体添加缩放功能提供了一种漂亮而优雅的方式.
 * [swipebox](https://github.com/brutaldesign/swipebox) - 可触摸的jQuery灯箱
 * [jBox](https://github.com/StephanWagner/jBox) -  jBox是一个功能强大且灵活的jQuery插件，可以处理所有弹出窗口，工具提示，通知等.
 
@@ -765,7 +696,7 @@
 
 ## Boilerplates
 
- * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 专业的前端模板，用于构建快速，强大且适应性强的Web应用程序或站点.
+ * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速，现代的移动Web应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) - 一个非常棒的前端框架，让您可以专注于构建您的网站或应用程序，同时保持非常容易使用.
  * [Cerberus](https://github.com/TedGoas/Cerberus)   - 响应式HTML电子邮件的一些简单但可靠的模式.  甚至在Outlook中.
@@ -802,7 +733,7 @@
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的HTML5视频播放器
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement)   -  HTML5 <audio>  要么 <video>  具有Flash和Silverlight垫片的播放器模仿HTML5 MediaElement API，在所有浏览器中实现一致的UI. <http://mediaelementjs.com/>
- * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
+ * [SoundJS](https://github.com/CreateJS/SoundJS)   - 一个可以更轻松地处理网络音频的库.  它为在不同浏览器中播放音频提供了一致的API.
  * [video.js](https://github.com/videojs/video.js) -  Video.js  - 开源HTML5和Flash视频播放器
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级，易于使用的jQuery插件，用于流体宽度视频嵌入.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - 任何网页上的简单声音
@@ -819,7 +750,7 @@
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -  Text Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - 使文本大小响应！
  * [FitText.js](https://github.com/davatron5000/FitText.js) - 用于充气网络类型的jQuery插件
- * [Lettering.js](https://github.com/davatron5000/Lettering.js) - 一个轻量级，易于使用的Javascript <span>“注入器，用于激进的Web排版</span>
+ * [Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript `<span>` injector for radical Web Typography
 
 
 ## Animations

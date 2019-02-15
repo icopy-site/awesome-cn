@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="thibmaek/awesome-raspberry-pi"></div>
 ## Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -9,15 +10,8 @@
 
 此列表是符合的列表，包括工具，项目，图像和资源 [Awesome Manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md)
 
-贡献*非常欢迎*但首先看到 [Contributing](#contributing)
 
-## Contents
 
-- [Models](#models)
-- [OS Images](#os-images)
-- [Tools](#tools)
-- [Projects](#projects)
-- [Resources](#resources)
 
 ## Models
 

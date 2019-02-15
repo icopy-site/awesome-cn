@@ -1,45 +1,7 @@
+<div class="github-widget" data-repo="drobakowski/awesome-erlang"></div>
 ## Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 精选的令人敬畏的Erlang图书馆列表，资源和闪亮的东西 [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
-- [Awesome Erlang](#awesome-Erlang)
-    - [Package Management](#package-management)
-    - [Release Management](#release-management)
-    - [Configuration Management](#configuration-management)
-    - [Codebase Maintenance](#codebase-maintenance)
-    - [Web Frameworks](#web-frameworks)
-    - [Web Framework Components](#web-framework-components)
-    - [HTTP](#http)
-    - [Testing](#testing)
-    - [Logging](#logging)
-    - [Monitoring](#monitoring)
-    - [Deployment](#deployment)
-    - [Distributed Systems](#distributed-systems)
-    - [Code Analysis](#code-analysis)
-    - [Build Tools](#build-tools)
-    - [Geolocation](#geolocation)
-    - [Debugging](#debugging)
-    - [Actors](#actors)
-    - [Date and Time](#date-and-time)
-    - [ORM and Datamapping](#orm-and-datamapping)
-    - [Queue](#queue)
-    - [Authentication](#authentication)
-    - [Text and Numbers](#text-and-numbers)
-    - [REST and API](#rest-and-api)
-    - [Caching](#caching)
-    - [Third Party APIs](#third-party-apis)
-    - [Networking](#networking)
-    - [Internet of Things](#internet-of-things)
-    - [Algorithms and Datastructures](#algorithms-and-datastructures)
-    - [Translations and Internationalizations](#translations-and-internationalizations)
-    - [Miscellaneous](#miscellaneous)
-- [Resources](#resources)
-    - [Websites](#websites)
-    - [Books](#books)
-    - [Web Reading](#web-reading)
-    - [Erlang Reading](#Erlang-reading)
-    - [Screencasts](#screencasts)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Package Management
 *用于包和依赖管理的库和工具.*
@@ -71,7 +33,6 @@
 * [MochiWeb](https://github.com/mochi/mochiweb) - 用于构建轻量级HTTP服务器的Erlang库.
 * [N2O](https://github.com/synrc/n2o) -  WebSocket应用服务器.
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - 在纯Erlang中构建Web应用程序（包括前端）的框架.
-* [Zotonic](https://github.com/zotonic/zotonic) - 高速，实时的Web框架和内容管理系统.
 
 ## Web Framework Components
 *来自Web开发框架的独立组件.*

@@ -1,6 +1,7 @@
+<div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
 ## Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
-A curated list of awesome newsletters.
+精选新闻通讯的精选列表.
 
 灵感来自GitHub上的&#39;awesome- *&#39;趋势.
 
@@ -11,59 +12,6 @@ A curated list of awesome newsletters.
 谢谢大家 [contributors](https://github.com/zudochkin/awesome-newsletters/graphs/contributors).
 
 
-- [Frontend](#frontend)
-  - [General Web Development](#general-web-development)
-  - [JavaScript](#javascript)
-    - [React](#react)
-    - [AngularJS](#angularjs)
-    - [EmberJS](#emberjs)
-    - [VueJS](#vuejs)
-  - [Data Visualization](#data-visualization)
-  - [CSS](#css)
-  - [Design](#design)
-  - [HTML5](#html5)
-  - [SVG](#svg)
-- [Programming](#programming)
-  - [Common Section](#common-section)
-  - [ObjectiveC](#objectivec)
-  - [C#](#c)
-  - [Node.js](#nodejs)
-  - [Swift](#swift)
-  - [Go](#go)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [PHP](#php)
-  - [Python](#python)
-  - [Groovy](#groovy)
-  - [Perl](#perl)
-  - [Elixir](#elixir)
-  - [Clojure](#clojure)
-  - [Haskell](#haskell)
-  - [Elm](#elm)
-  - [Rust](#rust)
-  - [C++](#c)
-  - [Scala](#scala)
-  - [Java](#java)
-  - [Kotlin](#kotlin)
-- [Editors](#editors)
-  - [Vim](#vim)
-- [Databases](#databases)
-  - [PostgreSQL](#postgresql)
-  - [MySQL](#mysql)
-  - [Redis](#redis)
-  - [NoSQL](#nosql)
-- [Backend Development](#backend-development)
-  - [Docker](#docker)
-  - [Devops](#devops)
-  - [Cloud Development](#cloud-development)
-  - [Kubernetes](#kubernetes)
-- [Mobile](#mobile)
-- [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
-- [Technology in General](#technology-in-general)
-- [Business/Finance](#businessfinance)
-- [Awesome news](#awesome-news)
-- [Etc.](#etc)
-- [License](#license)
 
 ## Frontend
 * [Front-end Front](https://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
@@ -82,7 +30,7 @@ A curated list of awesome newsletters.
 * [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次通过电子邮件通讯，为设计人员和开发人员提供有用的提示，技巧和资源.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  一个快速的JavaScript提示，每隔一周发送到您的收件箱.
-* [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
+* [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和网页设计时事通讯，专注于工具.
 * [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) .  一系列令人敬畏的浏览器端JavaScript库，资源和闪亮的东西.
 * [TypeScript Weekly](https://www.typescript-weekly.com/) .  每周最好的TypeScript链接，就在您的框中.
@@ -95,13 +43,11 @@ A curated list of awesome newsletters.
 * [React Digest](https://www.getrevue.co/profile/the-react-digest) .  每周精心挑选最好的React JS资源.
 * [React Digest 2](https://reactdigest.net/) .  5个链接;  Flux，Redux，MobX，React和React Native我们正在观看所有内容，所以注册并获得每周javascript的精彩部分.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) .  关于React和生态系统的每周简报.
-* [React Status](https://react.statuscode.com/) .  每周综述最新的React和React Native链接和教程.
+* [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter) .  每周概述最受欢迎的React新闻，文章和图书馆.
-* [ActReact](https://www.actreact.io) .  在收件箱中每周从社区中的最佳内容学习React.
 * [This Week In React](https://this-week-in-react.org/) .  每周报道React Core和React DOM周围有趣的拉取请求，讨论和RFC.  每个星期五出来.
 
 #### AngularJS
-* [AngularJS Weekly Newsletter](https://www.ng-newsletter.com/) .  网上最佳AngularJS内容的免费每周简报.
 
 #### EmberJS
 * [EmberJS Weekly](http://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
@@ -144,7 +90,6 @@ A curated list of awesome newsletters.
 ### HTML5
 * [FrontEnd Focus](https://frontendfoc.us) .  每周一次的HTML5和Web平台技术综述.  CSS 3，Canvas，WebSockets，WebGL，Native Client等.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/) .  关于HTML5游戏开发的每周简报.
-* [Phaser World](http://phaser.io/community/newsletter) .  每周简报作为所有新内容的摘要 - 游戏发布，教程，视频等 - 在过去一周内添加到Phaser网站.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly) .  每周一次的电子邮件，专注于可缩放矢量图形（SVG），共享教程，工具，实验，会谈和数据.
@@ -153,7 +98,7 @@ A curated list of awesome newsletters.
 ### Common Section
 * [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) .  每周收到业内人士的编程新闻和见解.
 * [Programming Digest](https://programmingdigest.net/) .  5个链接，一篇文章从周一到周五，有关于编程，大数据，架构，开发过程，数据库的最有趣的新闻 - 你的名字.
-* [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
+* [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding) .  每日时事通讯，包含所有编程领域的长篇技术文章.
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/) .  每周最好的iOS开发链接.
@@ -279,7 +224,6 @@ A curated list of awesome newsletters.
 
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/) .  使用云服务，云API和基于云的工具的开发人员的新闻，链接和资源.
-* [Your weekly Azure news fix](http://azureweekly.info/) .  Azure Weekly是本周微软Azure生态系统中的头条新闻的摘要，以及值得阅读的有趣的历史内容.
 * [Serverless Status](https://serverless.email/) .  关于无服务器架构和范例，功能即服务，AWS Lambda等的每周简报.
 * [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) .  此Google Cloud Weekly是本周与Google Cloud生态系统相关的主要新闻，教程，视频和播客的摘要，非常值得一读.
 * [Last Week in AWS](https://lastweekinaws.com/) .  来自亚马逊云生态系统的每周新闻综述.
@@ -328,15 +272,14 @@ A curated list of awesome newsletters.
 *每周免费通讯，包括与域名，开发，货币化，如何指导，提示和技巧，资源，活动等相关的最佳和手工策划链接. [This Week in Domains](http://www.thisweekindomains.com/)
 * [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每周三为您带来一个全新的，鼓舞人心的早晨例程.
 * [wpMail.me](http://wpmail.me/) .  一个免费的WordPress时事通讯，每周一次，收集WordPress的新闻和文章. [Archive](http://wpmail.me/newsletters/).
-* [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly时事通讯为您提供一些反思练习，帮助您适应日常生活.  它以爱和钦佩创造. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
+* [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 * [Better Dev Link](https://betterdev.link) .  每周通讯，收集旨在改善编程知识的链接.  目的不包括读者可以立即从谷歌搜索的链接，如如何做x，y，z，但更多的是关于编程中的问题解决.
 * [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) .  一个特殊的回购，允许在GitHub上用您喜欢的编程语言跟踪趋势项目.  更新以GitHub通知每天或每周发送一次.
 * [HN Mail](https://hnmail.io) .  可定制的每周简报，根据您的兴趣提供黑客新闻故事.
-* [Stratus Update](https://www.manifold.co/stratusupdate) .  每周拍摄快速蒸发和凝结的云原生景观. 
+* [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape. 
 
 ## Etc.
 * [Bitcoin Weekly](http://bitcoinweekly.com/) .  每周综合比特币和加密货币新闻和文章.
-* [Founder Weekly](http://www.founderweekly.com/) .  为企业家提供免费的每周时事通讯，包括最佳策展内容，必须阅读文章，如何指导，提示和技巧，资源，事件等.
 * [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 * [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
 * [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="bnb/awesome-hyper"></div>
 ## Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
@@ -20,15 +21,7 @@
 
 -  /令人敬畏的项目模板 - &gt;
 
-## Contents
 
-- [Packages](#packages)
-  - [Productivity](#productivity)
-  - [Customization](#customization)
-  - [Development](#development)
-  - [Fun](#fun)
-- [Themes](#themes)
-- [Resources](#resources)
 
 ## Packages
 知道另一个Hyper包吗？ [Help add it!](https://github.com/bnb/awesome-hyper/issues/new)
@@ -40,7 +33,7 @@
 [hyperline](https://www.npmjs.com/package/hyperline)   -  Hyper底部的状态行！  | [![npm](https://img.shields.io/npm/dm/hyperline.svg?label=DL)](https://www.npmjs.com/package/hyperline)
 [hypercwd](https://www.npmjs.com/package/hypercwd)   - 使用与当前选项卡相同的目录打开新选项卡.  | [![npm](https://img.shields.io/npm/dm/hypercwd.svg?label=DL)](https://www.npmjs.com/package/hypercwd)
 [hyperterm-visor](https://www.npmjs.com/package/hyperterm-visor)   - 使用全局热键等显示/隐藏您的超级终端.  | [![npm](https://img.shields.io/npm/dm/hyperterm-visor.svg?label=DL)](https://www.npmjs.com/package/hyperterm-visor)
-[hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings)   - 轻松地将超级设置备份和恢复到Github.  | [![npm](https://img.shields.io/npm/dm/hyper-sync-settings.svg?label=DL)](https://www.npmjs.com/package/hyper-sync-settings)
+[hyper-sync-settings](https://www.npmjs.com/package/hyper-sync-settings) - Easy way to backup and restore Hyper settings to Github. | [![npm](https://img.shields.io/npm/dm/hyper-sync-settings.svg?label=DL)](https://www.npmjs.com/package/hyper-sync-settings)
 [hyperterm-summon](https://www.npmjs.com/package/hyperterm-summon)   - 使用系统范围的热键召唤Hyper窗口.  | [![npm](https://img.shields.io/npm/dm/hyperterm-summon.svg?label=DL)](https://www.npmjs.com/package/hyperterm-summon)
 [hyperterm-paste](https://www.npmjs.com/package/hyperterm-paste)   - 贴入终端，安全轻松.  | [![npm](https://img.shields.io/npm/dm/hyperterm-paste.svg?label=DL)](https://www.npmjs.com/package/hyperterm-paste)
 [hyperterm-lastpass](https://www.npmjs.com/package/hyperterm-lastpass)   - 用于在Hyper中自动填充密码的LastPass插件.  | [![npm](https://img.shields.io/npm/dm/hyperterm-lastpass.svg?label=DL)](https://www.npmjs.com/package/hyperterm-lastpass)
@@ -69,7 +62,6 @@
 [hyper-gcp-status-line](https://www.npmjs.com/package/hyper-gcp-status-line)   - 状态行显示本地配置的GCP项目，GCE区域和Kubernetes上下文，以及当前的Google Cloud可用性.  | [![npm](https://img.shields.io/npm/dm/hyper-gcp-status-line.svg?label=DL)](https://www.npmjs.com/package/hyper-gcp-status-line)
 [hyperalfred](https://www.npmjs.com/package/hyperalfred) - 从Alfred 3打开Hyper.| [![npm](https://img.shields.io/npm/dm/hyperalfred.svg?label=DL)](https://www.npmjs.com/package/hyperalfred)
 
-[⬆ Back to top](#contents)
 
 ## Customization
 
@@ -121,7 +113,6 @@
 [hyper-tab-touchbar](https://www.npmjs.com/package/hyper-tab-touchbar)   - 从MacBook Pro Touchbar查看和访问终端选项卡.  支持带有`hyper-folder-icon`的图标.  | [![npm](https://img.shields.io/npm/dm/hyper-tab-touchbar.svg?label=DL)](https://www.npmjs.com/package/hyper-tab-touchbar)
 [hyper-opacity](https://www.npmjs.com/package/hyper-opacity)   - 设置Hyper窗口的不透明度.  | [![npm](https://img.shields.io/npm/dm/hyper-opacity.svg?label=DL)](https://www.npmjs.com/package/hyper-opacity)
 
-[⬆ Back to top](#contents)
 
 ## Development
 
@@ -131,7 +122,6 @@
 [hyperterm-install-devtools](https://www.npmjs.com/package/hyperterm-install-devtools)   - 在Hyper上使用Chrome DevTools扩展程序.  | [![npm](https://img.shields.io/npm/dm/hyperterm-install-devtools.svg?label=DL)](https://www.npmjs.com/package/hyperterm-install-devtools)
 [is-hyper](https://www.npmjs.com/package/is-hyper)   - 检查您的Node.js脚本是否在Hyper中运行.  | [![npm](https://img.shields.io/npm/dm/is-hyper.svg?label=DL)](https://www.npmjs.com/package/is-hyper)
 
-[⬆ Back to top](#contents)
 
 ## Fun
  名称和描述|  下载
@@ -149,7 +139,6 @@
 [hyper-postprocessing](https://www.npmjs.com/package/hyper-postprocessing)   - 将片段着色器添加到Hyper终端.  | [![npm](https://img.shields.io/npm/dm/hyper-postprocessing.svg?label=DL)](https://www.npmjs.com/package/hyper-postprocessing)
 [git-falcon9](https://www.npmjs.com/package/git-falcon9)   - 使用git推送和拉动代码时启动并登陆SpaceX的Falcon火箭！  | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
 
-[⬆ Back to top](#contents)
 
 ## Themes
 
@@ -171,7 +160,7 @@
 [hyper-city-lights](https://www.npmjs.com/package/hyper-city-lights) - 一个基于黑暗主题的黑暗主题 [City Lights](http://citylights.xyz)  句法.  | [![npm](https://img.shields.io/npm/dm/hyper-city-lights.svg?label=DL)](https://www.npmjs.com/package/hyper-city-lights)
 [hyper-clean](https://www.npmjs.com/package/hyper-clean) - 一个干净的主题 [IBM Design colors](https://github.com/IBM-Design/colors). | [![npm](https://img.shields.io/npm/dm/hyper-clean.svg?label=DL)](https://www.npmjs.com/package/hyper-clean)
 [hyper-criollo](https://www.npmjs.com/package/hyper-criollo)   - 主题为蒸汽波色.  | [![npm](https://img.shields.io/npm/dm/hyper-criollo.svg?label=DL)](https://www.npmjs.com/package/hyper-criollo)
-[hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)](https://www.npmjs.com/package/hyper-darkmatter)
+[hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) -  Dark  -  Darkmatter主题为Hyper，灵感来自于 [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)](https://www.npmjs.com/package/hyper-darkmatter)
 [hyper-dracula](https://www.npmjs.com/package/hyper-dracula) - 基于Hyper的黑暗主题 [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dracula.svg?label=DL)](https://www.npmjs.com/package/hyper-dracula)
 [hyper-firewatch](https://www.npmjs.com/package/hyper-firewatch)   - 由Campo Santo的Firewatch视频游戏启发的黑暗Hyper主题.  | [![npm](https://img.shields.io/npm/dm/hyper-firewatch.svg?label=DL)](https://www.npmjs.com/package/hyper-firewatch)
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2)   - 基于Flat主题的Hyper的另一个平面主题.  | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)](https://www.npmjs.com/package/hyper-flat-2)
@@ -221,7 +210,7 @@
 [hyperhue](https://www.npmjs.com/package/hyperhue)   -  Dark / Rainbow  - 一种对飞利浦Hue灯的颜色作出反应的主题.  | [![npm](https://img.shields.io/npm/dm/hyperhue.svg?label=DL)](https://www.npmjs.com/package/hyperhue)
 [hypernasa](https://www.npmjs.com/package/hypernasa)   - 用NASA的每日图片取代终端背景的主题.  | [![npm](https://img.shields.io/npm/dm/hypernasa.svg?label=DL)](https://www.npmjs.com/package/hypernasa)
 [hyperocean](https://www.npmjs.com/package/hyperocean)   - 深海蓝色Hyper主题.  | [![npm](https://img.shields.io/npm/dm/hyperocean.svg?label=DL)](https://www.npmjs.com/package/hyperocean)
-[hyperpanic](https://www.npmjs.com/package/hyperpanic)   - 黑暗 - 一个非常漂亮的主题，接近恐慌主题的颜色.  深蓝色背景与非常明亮的高光颜色.  | [![npm](https://img.shields.io/npm/dm/hyperpanic.svg?label=DL)](https://www.npmjs.com/package/hyperpanic)
+[hyperpanic](https://www.npmjs.com/package/hyperpanic) - Dark - A very pretty theme close to the Panic theme's colors. Dark blue background with very bright highlight colors. | [![npm](https://img.shields.io/npm/dm/hyperpanic.svg?label=DL)](https://www.npmjs.com/package/hyperpanic)
 [hyperpunk](https://www.npmjs.com/package/hyperpunk)   - 超级扩展，使您的终端看起来像Cyber​​punk /科幻.  | [![npm](https://img.shields.io/npm/dm/hyperpunk.svg?label=DL)](https://www.npmjs.com/package/hyperpunk)
 [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark)   - 一个黑暗的主题松散地基于Solarized Dark，修复了通常曝光的黑色，黑色实际上出现在你的终端！  | [![npm](https://img.shields.io/npm/dm/hypersolar-dark.svg?label=DL)](https://www.npmjs.com/package/hypersolar-dark)
 [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous)   - 基于Adventurous Atom主题的冒险时间灵感主题.  | [![npm](https://img.shields.io/npm/dm/hyperterm-adventurous.svg?label=DL)](https://www.npmjs.com/package/hyperterm-adventurous)
@@ -251,7 +240,7 @@
 [hyperterm-monokai](https://www.npmjs.com/package/hyperterm-monokai)   - 黑暗 - 流行的monokai主题的端口.  颜色温暖，放松，令人赏心悦目.  | [![npm](https://img.shields.io/npm/dm/hyperterm-monokai.svg?label=DL)](https://www.npmjs.com/package/hyperterm-monokai)
 [hyperterm-oceanic-next](https://www.npmjs.com/package/hyperterm-oceanic-next)   - 针对ES2015优化的深蓝色主题.  来自 [Oceanic Next](https://github.com/voronianski/oceanic-next-color-scheme). | [![npm](https://img.shields.io/npm/dm/hyperterm-oceanic-next.svg?label=DL)](https://www.npmjs.com/package/hyperterm-oceanic-next)
 [hyperterm-panda](https://www.npmjs.com/package/hyperterm-panda)   - 熊猫语法主题一个极端，黑暗的语法主题 - 超级端口.  | [![npm](https://img.shields.io/npm/dm/hyperterm-panda.svg?label=DL)](https://www.npmjs.com/package/hyperterm-panda)
-[hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - 复古Hyper主题灵感来自于 [cool-retro-term](https://github.com/Swordfish90/cool-retro-term) terminal emulator. | [![npm](https://img.shields.io/npm/dm/hyperterm-retro.svg?label=DL)](https://www.npmjs.com/package/hyperterm-retro)
+[hyperterm-retro](https://www.npmjs.com/package/hyperterm-retro) - 复古Hyper主题灵感来自于 [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)  终端模拟器.  | [![npm](https://img.shields.io/npm/dm/hyperterm-retro.svg?label=DL)](https://www.npmjs.com/package/hyperterm-retro)
 [hyperterm-sourcerer](https://www.npmjs.com/package/hyperterm-sourcerer) - 基于的16位黑暗主题 [xero/sourcerer](https://github.com/xero/sourcerer). | [![npm](https://img.shields.io/npm/dm/hyperterm-sourcerer.svg?label=DL)](https://www.npmjs.com/package/hyperterm-sourcerer)
 [hyperterm-spacegray](https://www.npmjs.com/package/hyperterm-spacegray)   - 受欢迎的Spacegray主题端口，针对终端使用进行了优化.  | [![npm](https://img.shields.io/npm/dm/hyperterm-spacegray.svg?label=DL)](https://www.npmjs.com/package/hyperterm-spacegray)
 [hyperterm-tomorrow-night](https://www.npmjs.com/package/hyperterm-tomorrow-night)   - 黑暗 - 流行的明日之夜主题的端口.  | [![npm](https://img.shields.io/npm/dm/hyperterm-tomorrow-night.svg?label=DL)](https://www.npmjs.com/package/hyperterm-tomorrow-night)
@@ -262,7 +251,6 @@
 
 知道另一个非常棒的主题吗？ [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 
-[⬆ Back to top](#contents)
 
 ## Resources
 * [Official Hyper Website](https://hyper.is/) - 官方Hyper网站.
@@ -271,5 +259,3 @@
 * [Hyper Themes screenshot browser](https://hyperthemes.matthi.coffee) 通过 [@MatthiasWinkelmann](https://github.com/MatthiasWinkelmann) 以可视方式浏览Hyper主题的屏幕截图.
 * [Carbon](https://carbon.now.sh/) 是一个轻松创建基于超级屏幕截图的工具.
 *了解其他超级资源？ [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
-
-[⬆ Back to top](#contents)

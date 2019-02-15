@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="d3viant0ne/awesome-rethinkdb"></div>
 <h3 align="center">
 	<img width="120" src="https://raw.githubusercontent.com/d3viant0ne/awesome-rethinkdb/master/media/rethinkdb.jpg" alt="RethinkDB">
 	<br>
@@ -8,24 +9,6 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  名单.  随意改善此列表 [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
 
-### Table of Contents
- - [Resources](#resources)
-  - [Documentation](#documentation)
-  - [Community](#community)
- - [JavaScript](#javascript-libraries)
- - [Python](#python-libraries)
- - [Ruby](#ruby-libraries)
- - [Java](#java-libraries)
- - [Additional Languages](#additional-languages)
-  - [Community Supported](#community-supported-drivers)
- - [Research and Training](#research-and-training)
-  - [Articles](#articles)
-  - [Talks](#talks)
-  - [RethinkDB Examples](#rethinkdb-examples)
-  - [Community Examples](#community-examples)
- - [Tools](#tools)
-  - [Administration](#administrative-tools)
-  - [Deployment](#deployment)
 
 <br>
  &gt; <h3>  RethinkDB生态系统 </h3>
@@ -79,7 +62,6 @@
 - [RabbitMQ](http://rethinkdb.com/docs/rabbitmq/javascript/) - 将RethinkDB与RabbitMQ集成
  - 维护者：`RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  Python库 </h3>
@@ -103,7 +85,6 @@
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/python/) - 将RethinkDB与RabbitMQ集成
  - 维护者：`RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  Ruby库 </h3>
@@ -127,7 +108,6 @@
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/ruby/) - 将RethinkDB与RabbitMQ集成
  - 维护者：`RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  Java库 </h3>
@@ -152,7 +132,6 @@
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/java/) - 将RethinkDB与RabbitMQ集成
  - 维护者：`RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb) 
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  其他语言 </h3>
@@ -173,7 +152,6 @@
 - [PHP](https://github.com/danielmewes/php-rql) -  RethinkDB查询语言（ReQL）的PHP客户端驱动程序.
 - [Scala](https://github.com/kclay/rethink-scala) -  RethinkDB的Scala驱动程序.
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  研究和培训 </h3>
@@ -224,7 +202,6 @@
 - [3ree](https://github.com/GordyD/3ree) - 使用3REE堆栈编写的示例通用JS应用程序，React + Redux + RethinkDB + Express.
 - [Meteor GraphQL](https://github.com/AdamBrodzinski/Meteor-RethinkDB-GraphQL) - 使用GraphQL的Meteor和RethinkDB示例.
 
-**[Back to top](#table-of-contents)**
 
 <br>
  &gt; <h3>  工具 </h3>

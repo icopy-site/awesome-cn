@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hubtee/awesome-opensource-documents"></div>
 ## Awesome Open Source Documents
 
  这不是免费编程书籍的列表.  这是一个包含开源或开源许可文档，指南和书籍的策划列表，可以在同一许可下读取，使用，修改，翻译，重新分发甚至重写.
@@ -8,53 +9,7 @@
 [TITLE] [repository-url]作者：AUTHOR（[SITE] [site-url]，LICENSE） - 简短说明
 ```
 
-## Table of Contents
 
-* [Subjects](#subjects)
-  * [Computer Science](#computer_science)
-  * [Data Science](#data_science)
-  * [DevOps](#devops)
-  * [Mathematics & Physics](#mathematics)
-  * [Open Source](#open_source)
-  * [Programming](#programming)
-  * [Database](#database)
-  * [World Wide Web](#world_wide_web)
-  * [Writing and Documentation](#writing_and_documentation)
-  * [Journalism and Visualization](#journalism_and_visualization)
-  * [Android Development](#android_development)
-  * [IOS Development](#ios_development)
-  * [etc.](#subject-etc)
-* [Programming Languages](#programming_languages)
-  * [C](#language-c)
-  * [Coffeescript](#coffeescript)
-  * [CSS](#css)
-  * [Fortran](#fortran)
-  * [Ruby](#ruby)
-  * [Clojure](#clojure)
-  * [Erlang](#erlang)
-  * [Elixir](#elixir)
-  * [Forth](#forth)
-  * [Go](#go)
-  * [Haskell](#haskell)
-  * [Javascript](#javascript)
-  * [Lisp](#lisp)
-  * [Objective-c](#objective-c)
-  * [PHP](#php)
-  * [Python](#python)
-  * [Rust](#rust)
-  * [R](#r)
-  * [Scala](#scala)
-* [Tools](#tools)
-  * [Editor](#editor)
-  * [Git](#git)
-  * [Server](#server)
-  * [etc.](#tool-etc)
-* [Library Documentation](#library-docs)
-* [Other Languages](#other_languages)
-  * [Korean](#korean)
-  * [Chinese](#chinese)
-  * [Japanese](#japanese)
-* [License](#license)
 
 <a name='subjects'></a>
 ## Subjects
@@ -66,8 +21,7 @@
 *如何设计程序（[Site] [site-htdp]，cc-nc-nd）
 *计算机程序的结构和解释（[Site] [site-sicp]，cc-sa）
 *编程语言：应用和解释（[Site] [site-plai]，cc-nc-sa）
-*编程语言的实用基础（[Site] [site-pfpl]，cc-nc-nd）
-* [开放数据结构] [repo-ods]（[Site] [site-ods]，cc） - 提供高质量的开放内容数据结构教科书，该教科书在数学上都很严格，并提供完整的实施
+* Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
 *算法等（[Site] [site-algorithm-etc]，cc-nc-sa） - 此页面包含Jeff Erickson在伊利诺伊大学厄巴纳 - 香槟分校教授的各种算法类的讲义和其他课程资料.
 *计算理论导论（[Site] [site-michiel-computation]，cc-sa） - 这是一本关于计算理论本科课程的免费教科书，我们自2002年以来一直在卡尔顿大学任教
 *计算机科学的离散结构：计数，递归和概率（[Site] [site-michiel-structures]，cc-nc-sa） - 这是一本关于计算机科学离散结构本科课程的免费教材自2013年以来一直在卡尔顿大学任教
@@ -80,13 +34,13 @@
 *编程基础：面向对象编程（[Site] [site-funop]，cc-nc-sa） - 本书介绍了一种平衡而灵活的方法，将面向对象原则融入到使用Python的入门课程中
  *计算简介（[Site] [site-introtocom]，cc-nc-sa） - 本书介绍了使用Scheme和Python编程语言进行计算时最重要的思想.  它侧重于如何通过定义程序来描述信息过程，如何分析执行程序所需的成本，以及机械地计算和不能计算的基本限制
  * [自下而上的计算机科学] [repo-csftbu]（[网站] [site-csftbu]，cc-sa） - 自下而上的计算机科学 - 一本免费的在线书籍，旨在从低端教授计算机科学起来.  涵盖的主题包括二进制和二进制逻辑，操作系统内部，工具链基础和系统库基础
-* [使用算法和数据结构解决问题] [repo-psads]​​（[Site] [site-psads]​​，cc-nc-sa） - 使用Python通过算法和数据结构解决问题的示例和工作
+* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
 *数据压缩说明（[网站] [site-dce]，自定义liscense） - 本书面向想要了解数据压缩如何工作或想要编写数据压缩软件的读者.
 
 [site-dce]：http：//mattmahoney.net/dc/dce.html
 [repo-psads]​​：https：//github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
 [site-psads]​​：http：//interactivepython.org/runestone/static/pythonds/index.html
-[repo-csftbu]：https：//github.com/ianw/bottomupcs
+[repo-csftbu]: https://github.com/ianw/bottomupcs
 [site-csftbu]：http：//www.bottomupcs.com/
 [site-introtocom]：http：//www.computingbook.org/
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
@@ -95,7 +49,7 @@
 [site-sicp]：https：//mitpress.mit.edu/sicp/full-text/book/book.html
 [site-htdp]：http：//www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]：https：//www.crypto101.io/
-[repo-crypto-101]：https：//github.com/crypto101/book
+[repo-crypto-101]: https://github.com/crypto101/book
 [repo-littleosbook]：https：//github.com/littleosbook/littleosbook
 [site-littleosbook]：http：//littleosbook.github.io/
 [site-ods]：http：//opendatastructures.org/
@@ -109,13 +63,12 @@
 [site-parallel-machine]：http：//heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]：https：//github.com/sbinet/perfbook
 [site-perfbook]：https：//www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
-[site-high-perfomance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+[site-high-perfomance-computing]：http：//open.umich.edu/education/si/resources/hpc-opentextbook/2009
 [site-nlpwp]：http：//nlpwp.org/book/
 
 <a name='data_science'></a>
 ### Data Science and Statistics
 
-* [LearnDataScience] [repo-leads]（BSD） - 开放内容，用于数据科学中的自主学习
 * [Think Stats] [repo-thinkstats]（[Site] [site-thinkstats]，cc-sa） - 程序员的概率和统计
 *神经网络简介（[网站] [site-abinn]，cc-nc-nd）
 *群众数据挖掘（[PDF] [site-dmftm]，cc）
@@ -168,7 +121,7 @@
 
 [repo-jeff-collision]：https：//github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]：http：//www.jeffreythompson.org/collision-detection/
-[repo-hott-book]: https://github.com/HoTT/HoTT
+[repo-hott-book]：https：//github.com/HoTT/HoTT
 [site-hott-book]：http：//homotopytypetheory.org/
 
 
@@ -236,7 +189,7 @@
 * [代码指南] [repo-code-guide]（[网站] [网站代码指南]，麻省理工学院） - 灵活，耐用，可持续的HTML和CSS标准
 * [HTML最佳实践] [repo-html-best]（cc0） - 用于编写可维护和可伸缩的HTML文档
 * [WebComponents.org] [repo-webcomponents]（[Site] [site-webcomponents]，cc-sa） - 讨论和发展Web组件最佳实践的地方
-* [How to lose weight (in the browser)][repo-browser-diet] ([Site][site-browser-diet], cc-sa, MIT) - The definitive front-end performance guide
+* [如何减肥（在浏览器中）] [repo-browser-diet]（[网站] [网站浏览器节食]，cc-sa，麻省理工学院） - 权威的前端性能指南
 * [北] [repo-north]（[网站] [网站北]，麻省理工学院） - 麻省理工学院设计和开发标准，以协调和指导您的项目.
 * RESTful Web API（[Site] [site-restful-web-apis]，cc-nc-nd） -  Restful Web API是RESTful设计的第一本书长度处理，也是RESTful Web API的前身.
 * DOM Enlightenment（[Site] [site-domenlight]，cc-nc-nd） - 探索JavaScript与现代HTML DOM之间的关系
@@ -270,7 +223,7 @@
 * [写文档] [repo-write-the-docs]（[Site] [site-write-the-docs]，cc） - 一个Sphinx文档和一般事物写作的地方.
 * [Hitchhiker的文档指南！] [repo-thgtd]（[Site] [site-thgtd]，cc-nc-sa） - 本指南旨在提供有关创建文档的建议和最佳实践手册.
 * [CommonMark Spec] [repo-commonmark-spec]（[Site] [site-commonmark-spec]，cc-sa） -  CommonMark是Markdown语法的合理化版本，在C和C中使用规范和BSD许可的参考实现JavaScript的.
-* reStructuredText Markup Specification ([Site][site-rst-spec], Public Domain)
+* reStructuredText标记规范（[Site] [site-rst-spec]，Public Domain）
 * [程序员散文] [repo-prose-prog]（cc-nc-nd） - 一本帮助软件开发人员撰写更好散文的书.
 
 [repo-prose-prog]：https：//github.com/joshuacc/prose-for-programmers
@@ -296,8 +249,8 @@
 [repo-themacg]：https：//github.com/axismaps/thematic-cartography
 [site-themacg]：http：//axismaps.github.io/thematic-cartography/
 [site-d3-101-screencasts]：https：//www.youtube.com/watch？v = ui -gmvJ5n0＆list = PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb
-[repo-d3-101-screencasts]: https://github.com/curran/screencasts/
-[repo-data-design]: https://github.com/infoactive/data-design/
+[repo-d3-101-screencasts]：https：//github.com/curran/screencasts/
+[repo-data-design]：https：//github.com/infoactive/data-design/
 [site-data-design]：https：//infoactive.co/data-design
 [repo-data-science-45min]：https：//github.com/DrSkippy/Data-Science-45min-Intros
 [repo-natureofcode]：https：//github.com/shiffman/The-Nature-of-Code
@@ -356,7 +309,7 @@
 <a name='language-c'></a>
 ### C
 
-* [C风格] [repo-cstyle]（cc-sa） - 我最喜欢的C编程实践
+* [C Style][repo-cstyle] (cc-sa) - My favorite C programming practices
 
 [repo-cstyle]：https：//github.com/mcinglis/c-style
 
@@ -407,7 +360,7 @@
 [site-jekyll]：https：//github.com/jekyll/jekyll/tree/master/site
 [repo-middleman]：https：//github.com/middleman/middleman-guides
 [site-middleman]：https：//middlemanapp.com/
-[repo-ruby-koan]: https://github.com/neo/ruby_koans
+[repo-ruby-koan]：https：//github.com/neo/ruby_koans
 [site-ruby-koan]：https：//github.com/neo/ruby_koans
 [repo-rbp]：https：//github.com/practicingruby/rbp-book
 [site-practising-ruby]：https：//practicingruby.com/about
@@ -496,7 +449,7 @@
 * [角度测试模式] [repo-angular-test-pattern]（MIT） - 测试Angular 1.x应用程序的高质量指南
 * [Airbnb JavaScript风格指南] [repo-airbnb-javascript]（麻省理工学院） - 一种最合理的JavaScript方法
 * [JavaScript Garden] [repo-js-garden]（[Site] [site-js-garden]，麻省理工学院） - 关于JavaScript语言最古怪部分的文档集合
- * [Node.js样式指南] [repo-node-style-guide]（cc-sa） - 用于样式化node.js / JavaScript代码的指南.  叉子并根据您的口味调整
+* [Node.js Style Guide][repo-node-style-guide] (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
  * [Node.js最佳实践] [repo-nodejs-bp]（[Site] [site-nodejs-bp]，MIT） - 这是编写健壮的Node.js代码的最佳实践列表.  它的灵感来自其他行会，如FelixGeisendörfer的节点风格指南以及社区内流行的内容
 * [function qualityGuide（）{] [repo-function-quality]（MIT） - 此样式指南旨在为应用程序的JavaScript代码提供基本规则，使其在团队中的不同开发人员之间具有高可读性和一致性
 * [Node Beginner Book] [repo-node-biginner]（[Site] [site-node-biginner]，cc-nc-sa） -  Node Beginner Book是对Node.js及其他一些内容的全面介绍高级JavaScript主题，如函数式编程
@@ -528,7 +481,7 @@
 [repo-art-of-node]：https：//github.com/maxogden/art-of-node
 [site-understanding-es6]：https：//leanpub.com/understandinges6/read
 [repo-learn-node-win]：https：//github.com/workshopper/learnyounode
-[repo-node-biginner]: https://github.com/manuelkiessling/nodebeginner.org
+[repo-node-biginner]：https：//github.com/manuelkiessling/nodebeginner.org
 [site-node-biginner]：http：//www.nodebeginner.org/
 [repo-function-quality]：https：//github.com/bevacqua/js
 [site-nodejs-bp]：http：//justbuildsomething.com/node-js-best-practices/
@@ -573,7 +526,7 @@
 <a name='php'></a>
 ### PHP
 
-* [PHP：正确的方式] [repo-php-right-way]（[Site] [site-php-right-way]，by-nc-sa） - 一个易于阅读，快速参考的PHP最佳实践，接受的编码标准，以及围绕Web的权威教程的链接
+* [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 [repo-php-right-way]：https：//github.com/codeguy/php-the-right-way
 [site-php-right-way]：http：//www.phptherightway.com/
@@ -765,7 +718,7 @@
 *稳定，自由和有趣：韩国开源开发者的故事（[网站] [site-osdi]，cc-nc-nd）
 
 [site-hanged]：http：//osdi.insightbook.co.kr/
-[repo-emacsbook]：https：//github.com/tsgates/emacsbook
+[repo-emacsbook]: https://github.com/tsgates/emacsbook
 [site-jump-to-python]：https：//wikidocs.net/book/1
 
 <a name='chinese'></a>
@@ -836,7 +789,7 @@
 [site-greentea-press]：http：//www.greenteapress.com/
 [site-wikipedia-book]：https：//en.wikipedia.org/wiki/Category：Wikipedia_books_％28community_books%29
 [repo-python-books]：https：//github.com/revolunet/PythonBooks
-[site-jsbooks]: http://jsbooks.revolunet.com/
+[site-jsbooks]：http：//jsbooks.revolunet.com/
 
 <a name='license'></a>
 ## License

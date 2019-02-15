@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="neueda/awesome-neo4j"></div>
 真棒Neo4j
 ==============
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -16,35 +17,6 @@
 目录
 =================
 
-  * [Basics](#basics)
-  * [Connectors](#connectors)
-    * [Bolt](#bolt)
-    * [REST API](#rest-api)
-      * [Java](#java)
-      * [Ruby](#ruby)
-      * [Python](#python)
-      * [PHP](#php)
-      * [Other](#other)
-  * [Cloud](#cloud)
-  * [Packages](#packages)
-  * [Docker](#docker)
-  * [Full\-text search](#full-text-search)
-  * [Import](#import)
-  * [Benchmarking](#benchmarking)
-  * [Extensions](#extensions)
-  * [Stored Procedures](#stored-procedures)
-  * [Development](#development)
-  * [Editors](#editors)
-  * [Shell](#shell)
-  * [Visualization](#visualization)
-  * [Tools](#tools)
-  * [Resources](#resources)
-    * [Learn](#learn)
-    * [Certification](#certification)
-    * [Bolt](#bolt-1)
-    * [Books](#books)
-    * [Miscellaneous](#miscellaneous)
-  * [License](#license)
 
 由...制作 [gh-md-toc](https://github.com/ekalinin/github-markdown-toc.go)
 
@@ -182,14 +154,14 @@ Neo4j图数据库.
 ## Shell
 
 - [cycli](https://github.com/nicolewhite/cycli) -  Cypher的命令行接口.
-- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) -  neo4j-shell的一堆导入/导出工具.
+- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell.
 
 ## Visualization
 
 - [neoclipse](https://github.com/neo4j-contrib/neoclipse) -  Neoclipse是一个查看，编辑和浏览Neo4j数据库的工具.
 - [Gephi](https://github.com/gephi/gephi) -  Gephi是一个屡获殊荣的开源平台，用于可视化和操作大型图形.
 - [Linkurious](https://linkurio.us/) -  Linkurious通过简单的基于Web的界面帮助搜索和可视化您的图形数据.
-- [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) -  yFiles是一个商业通用图形可视化编程库 [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j). It's also the basis for the [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
+- [yFiles for HTML](https://www.yworks.com/products/yfiles-for-html) -  yFiles是一个商业通用图形可视化编程库 [a demo to visualize your neo4j databases in JavaScript](http://live.yworks.com/demos/#neo4j) .  它也是基础 [free neo4j Graph Explorer app](https://www.yworks.com/neo4j-explorer/).
 
 ## Tools
 

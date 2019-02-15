@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ziadoz/awesome-php"></div>
 ## Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
 
 精选的PHP库，资源和闪亮的东西的精选列表.
@@ -5,84 +6,6 @@
 ## Contributing and Collaborating
 请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
 
-## Table of Contents
-- [Awesome PHP](#awesome-php)
-    - [Composer Repositories](#composer-repositories)
-    - [Dependency Management](#dependency-management)
-    - [Dependency Management Extras](#dependency-management-extras)
-    - [Frameworks](#frameworks)
-    - [Framework Extras](#framework-extras)
-    - [Components](#components)
-    - [Micro Frameworks](#micro-frameworks)
-    - [Micro Framework Extras](#micro-framework-extras)
-    - [Routers](#routers)
-    - [Templating](#templating)
-    - [Static Site Generators](#static-site-generators)
-    - [HTTP](#http)
-    - [Middlewares](#middlewares)
-    - [URL](#url)
-    - [Email](#email)
-    - [Files](#files)
-    - [Streams](#streams)
-    - [Dependency Injection](#dependency-injection)
-    - [Imagery](#imagery)
-    - [Testing](#testing)
-    - [Continuous Integration](#continuous-integration)
-    - [Documentation](#documentation)
-    - [Security](#security)
-    - [Passwords](#passwords)
-    - [Code Analysis](#code-analysis)
-    - [Code Quality](#code-quality)
-    - [Static Analysis](#static-analysis)
-    - [Architectural](#architectural)
-    - [Debugging and Profiling](#debugging-and-profiling)
-    - [Build Tools](#build-tools)
-    - [Task Runners](#task-runners)
-    - [Navigation](#navigation)
-    - [Asset Management](#asset-management)
-    - [Geolocation](#geolocation)
-    - [Date and Time](#date-and-time)
-    - [Event](#event)
-    - [Logging](#logging)
-    - [E-commerce](#e-commerce)
-    - [PDF](#pdf)
-    - [Office](#office)
-    - [Database](#database)
-    - [Migrations](#migrations)
-    - [NoSQL](#nosql)
-    - [Queue](#queue)
-    - [Search](#search)
-    - [Command Line](#command-line)
-    - [Authentication and Authorization](#authentication-and-authorization)
-    - [Markup](#markup)
-    - [Strings](#strings)
-    - [Numbers](#numbers)
-    - [Filtering and Validation](#filtering-and-validation)
-    - [API](#api)
-    - [Caching](#caching)
-    - [Data Structure and Storage](#data-structure-and-storage)
-    - [Notifications](#notifications)
-    - [Deployment](#deployment)
-    - [Internationalisation and Localisation](#internationalisation-and-localisation)
-    - [Third Party APIs](#third-party-apis)
-    - [Extensions](#extensions)
-    - [Miscellaneous](#miscellaneous)
-- [Software](#software)
-    - [PHP Installation](#php-installation)
-    - [Development Environment](#development-environment)
-    - [Virtual Machines](#virtual-machines)
-    - [Text Editors and IDEs](#text-editors-and-ides)
-    - [Web Applications](#web-applications)
-    - [Infrastructure](#infrastructure)
-- [Resources](#resources)
-    - [PHP Websites](#php-websites)
-    - [Other Websites](#other-websites)
-    - [PHP Books](#php-books)
-    - [PHP Videos](#php-videos)
-    - [PHP Podcasts](#php-podcasts)
-    - [PHP Reading](#php-reading)
-    - [PHP Internals Reading](#php-internals-reading)
-- [Contributing](#contributing)
 
 ### Composer Repositories
 *作曲家资料库.*
@@ -130,7 +53,6 @@
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) -  CakePHP的快速应用程序开发（RAD）插件.
 * [Knp RAD Components](http://rad.knplabs.com/) -  Symfony的一组快速应用程序开发（RAD）组件.
-* [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - 用于创建自定义CMS的内容管理框架.
 
 ### Components
 *来自Web开发框架和开发组的独立组件.*
@@ -182,7 +104,6 @@
 * [Tale Jade](https://github.com/Talesoft/tale-jade) -  Jade模板语言的PHP实现.
 
 ### Static Site Generators
-*用于预处理内容以生成网页的工具.*
 
 * [Couscous](http://couscous.io)   - 库斯库斯将Markdown文档变成了漂亮的网站.  这是关于类固醇的GitHub页面.
 * [Sculpin](https://sculpin.io) - 将Markdown和Twig转换为静态HTML的工具.
@@ -225,7 +146,7 @@
 * [Uri](https://github.com/thephpleague/uri) - 另一个URL操作库.
 
 ### Email
-*用于发送和解析电子邮件的库.*
+*Libraries for sending and parsing email.*
 
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 用于在电子邮件模板中内联CSS的库.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 电子邮件回复解析器库.
@@ -313,7 +234,7 @@
 * [Wercker](http://www.wercker.com/) - 持续集成平台.
 
 ### Documentation
-*Libraries for generating project documentation.*
+*用于生成项目文档的库.*
 
 * [APIGen](https://github.com/apigen/apigen) - 另一个API文档生成器.
 * [daux.io](https://github.com/justinwalsh/daux.io) - 使用Markdown文件的文档生成器.
@@ -329,7 +250,7 @@
 * [IniScan](https://github.com/psecio/iniscan) - 扫描PHP INI文件以确保安全性的工具.
 * [Optimus](https://github.com/jenssegers/optimus) - 基于Knuth的乘法散列方法的Id混淆.
 * [PHP Encryption](https://github.com/defuse/php-encryption) - 安全的PHP加密库.
-* [PHP SSH](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
+* [PHP SSH](https://github.com/Herzult/php-ssh) - 面向实验对象的SSH包装器库.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - 纯PHP安全通信库.
 * [random_compat](https://github.com/paragonie/random_compat) -  PHP 5.x支持`random_bytes（）`和`random_int（）`
 * [RandomLib](https://github.com/ircmaxell/RandomLib) - 用于生成随机数和字符串的库.
@@ -377,7 +298,7 @@
 
 * [Exakat](https://github.com/exakat/exakat) -  PHP的静态分析引擎.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具.
-* [phan](https://github.com/phan/phan) - 基于PHP 7+和php-ast扩展的静态分析器.
+* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCompatibility](https://github.com/wimg/PHPCompatibility) -  PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 用于创建可自定义依赖关系图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态度量库.
@@ -593,7 +514,7 @@
 *用于处理标记的库.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - 快速且可扩展的Markdown解析器.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://spec.commonmark.org/).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) -  Markdown解析器，支持完整 [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
 * [Emoji](https://github.com/heyupdate/Emoji) - 将unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将HTML转换为Markdown.
@@ -623,7 +544,7 @@
 *用于处理数字的图书馆.*
 
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - 用于解析，格式化和转换二进制和公制系统中字节单位的库.
-* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  Google电话号码处理库的PHP实现.
+* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - 另一个用于在度量单位之间进行转换的库.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 用于在度量单位之间进行转换的库.
 
@@ -648,7 +569,6 @@
 * [Drest](https://github.com/leedavis81/drest) - 用于将Doctrine实体公开为REST资源端点的库.
 * [HAL](https://github.com/blongden/hal) - 超文本应用程序语言（HAL）构建器库.
 * [Hateoas](https://github.com/willdurand/Hateoas) -  HATEOAS REST Web服务库.
-* [Negotiation](https://github.com/willdurand/Negotiation) - 内容协商库.
 * [Restler](https://github.com/Luracast/Restler) - 一个轻量级框架，用于将PHP方法公开为RESTful Web API.
 * [wsdl2phpgenerator](https://github.com/wsdl2phpgenerator/wsdl2phpgenerator) - 从SOAP WSDL文件生成PHP类的工具.
 
@@ -672,7 +592,7 @@
 * [Fractal](https://github.com/thephpleague/fractal) - 用于将复杂数据结构转换为JSON输出的库.
 * [Ginq](https://github.com/akanehara/ginq) - 另一个基于.NET LINQ的PHP库.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - 将嵌套JSON结构映射到PHP类的库.
-* [Knapsack](https://github.com/DusanKasan/Knapsack) - 受Clojure序列启发的馆藏图书馆.
+* [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
 * [PINQ](https://github.com/TimeToogo/Pinq) - 基于.NET的LINQ（语言集成查询）的PHP库.
 * [Porter](https://github.com/ScriptFUSION/Porter) - 数据导入抽象框架.
 * [Serializer](https://github.com/schmittjoh/serializer) - 用于序列化和反序列化数据的库.
@@ -739,7 +659,6 @@
 * [Pagerfanta](https://github.com/whiteoctober/Pagerfanta) - 一个分页库.
 * [PHP PassBook](https://github.com/eymengunay/php-passbook) - 适用于iOS PassBook的PHP库.
 * [PHP-ML](https://github.com/php-ai/php-ml) -  PHP中的机器学习库.
-* [PHPCR](https://github.com/phpcr/phpcr) -  Java内容存储库（JCR）的PHP端口.
 * [PHPStack](http://dunkels.com/adam/phpstack/) - 用PHP编写的TCP / IP堆栈概念证明.
 * [print_o](https://github.com/koriym/print_o) - 对象图形可视化器.
 * [Procrastinator](https://github.com/lstrojny/Procrastinator) - 用于运行耗时任务的库.
@@ -824,7 +743,7 @@
 * [PHP FIG](https://www.php-fig.org/) -  PHP Framework互操作性组.
 * [PHP Mentoring](https://php-mentoring.org/) - 点对点PHP导师组织.
 * [PHP Package Development Standards](http://php-pds.com) -  PHP的包开发标准.
-* [PHP School](https://www.phpschool.io/) - Open Source Learning for PHP.
+* [PHP School](https://www.phpschool.io/) -  PHP的开源学习.
 * [PHP Security](http://phpsecurity.readthedocs.io/en/latest/index.html) -  PHP安全性指南.
 * [PHP The Right Way](http://www.phptherightway.com/) -  PHP最佳实践快速参考指南.
 * [PHP UG](http://php.ug) - 帮助人们找到最近的PHP用户组（UG）的网站.

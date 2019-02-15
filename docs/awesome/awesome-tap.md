@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome-tap"></div>
 ## Awesome TAP [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
@@ -7,16 +8,7 @@
  *该列表目前非常注重JavaScript.  那只是因为我只熟悉JS世界中的TAP内容.  欢迎任何语言的贡献.*
 
 
-## Contents
 
-- [Reporters](#reporters)
-- [Producers](#producers)
-- [Consumers](#consumers)
-- [Tools](#tools)
-- [Articles](#articles)
-- [Tutorials](#tutorials)
-- [Documentation](#documentation)
-- [Community](#community)
 
 
 ## Reporters

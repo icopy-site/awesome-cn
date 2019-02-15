@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="awkward/awesome-netherlands-events"></div>
 ## Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选活动的精选列表 
@@ -12,12 +13,6 @@
 
 想看到更多的精彩？ [Follow us on Twitter](https://twitter.com/madeawkward).
 
-## Contents
-- [Rotterdam](#rotterdam)
-- [Amsterdam](#amsterdam)
-- [Utrecht](#utrecht)
-- [Everywhere](#everywhere)
-- [Other](#other)
 
 ---
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="willianjusten/awesome-audio-visualization"></div>
 <p align="center">
   <img id="awesome-audio-visualization" src="https://raw.githubusercontent.com/willianjusten/awesome-audio-visualization/master/logo-aav.gif" alt="Logo AAV">
 </p>
@@ -6,23 +7,12 @@
 
  &gt;音乐可视化是电子音乐可视化器和媒体播放器软件中的一项功能，可根据一段音乐生成动画图像.  通常以实时方式生成并呈现图像，并且在播放时与音乐同步.
 
-- [Who made this list?](#authors)
 - [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
 
-- [Books](#books)
-- [Downloads](#downloads)
-- [Experiments](#experiments)
-- [Experiments Codepen](#experiments-on-codepen)
-- [Libraries Audio](#libraries-audio)
-- [Libraries Visualization](#libraries-visualization)
-- [People to Follow](#people-to-follow)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
 
 ## Books
 

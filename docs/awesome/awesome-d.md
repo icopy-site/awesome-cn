@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="zhaopuming/awesome-d"></div>
 ## Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
@@ -8,62 +9,22 @@
   如果您在D中知道一个有趣的lib / app，请通过问题或拉取请求告诉我:-).
   
  
-- [Awesome D](#awesome-d)
 	- 基本信息
-		- [Official Website](#official-website)
-		- [Getting Help](#getting-help)
-		- [People](#people)
-		- [Events](#events)
-		- [Organizations](#organizations)
 	- 文件
-		- [Books](#books)
-		- [Tutorials](#tutorials)
-		- [Blogs](#blogs)
-		- [Articles](#articles)
-		- [API Doc](#api-docs)
 	- 语言相关 
-		- [Package Management](#package-management)
-		- [Compilers](#compilers)
-		- [Build Tools](#build-tools)
-		- [IDE](#ide)
-		- [Lexers, Parsers, Generators](#lexers-parsers-parser-generators)
-		- [Preprocessors](#preprocessors)
 	- 其他语言的编译器
-		- [Javascript](#javascript)
 	-  Common / Utilities
-		- [Containers](#containers)
 	- 网络/网络相关
-		- [Networking](#networking-library)
-		- [Web Frameworks](#web-frameworks)
-		- [Data&Serialization](#data-serialization)
 	- 数据库
-		- [Database clients](#database-clients)
 	- GUI
-		- [GUI Libs](#gui-libs)
 	-  OS
-		- [Operating Systems](#os)
 	- 游戏
-		- [Bindings](#game-bindings)
-		- [Frameworks](#game-frameworks)
-		- [Games](#games)
 	- 视频
-		- [Applications](#video-appilcations)
 	- 图像处理
-		- [Applications](#image-processing)
 	- 科学
-		- [Scientific](#scientific)
 	- 机器学习
-		- [Machine Learning](#machine-learning)
-	- [Parallel computing](#parallel-computing)
 	- 其他
-		- [Text Processing](#text-processing)
-		- [Command Line](#command-line)
-		- [Logging](#logging)
-		- [Configuration](#configuration)
-		- [BlogEngine](#blog-engine)
-		- [Testing](#testing)
 		
-- [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Official Website
@@ -103,7 +64,7 @@
 
 *为D项目做出贡献的组织.*
 
-* [D Programming Language](https://github.com/dlang) - 官方组织，主持DMD，Phobos和其他官方工具和库.
+* [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
 * [LDC Developers](https://github.com/ldc-developers) - 最不发达国家的项目.
 * [DerelictOrg](https://github.com/DerelictOrg)   - 一个GitHub组织，托管所有Derelict绑定，包括OpenGL和其他多媒体/游戏相关的库绑定.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，Free Image，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
 * [DlangScience](https://github.com/DlangScience) -  D的科学图书馆和工具的焦点和第一个停靠点
@@ -158,7 +119,7 @@
 
 ## Package Management
 
-*用于包和依赖管理的库.*
+*Libraries for package and dependency management.*
 
 * [code.dlang.org](http://code.dlang.org/)   - 官方D库存储库.  由配音支持.
 * [dub](https://github.com/dlang/dub) -  D的官方包装和构建管理系统
@@ -170,7 +131,7 @@
 
 * [dmd](https://github.com/dlang/dmd)   -  D编程语言的参考编译器.  稳定，快速构建，非常适合学习和快速原型设计/开发.  目前前端在D中实现，并在dmd，ldc和gdc之间共享，后端在C ++中实现.
 * [ldc](https://github.com/ldc-developers/ldc)   - 基于LLVM的D编译器.  使用DMD前端和LLVM后端.  构建比dmd慢，但生成的代码比DMD更优化.  它支持LLVM的所有目标平台.
-* [gdc](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+* [gdc](https://github.com/D-Programming-GDC/GDC)   -  GNU D编译器.  使用DMD前端和GCC后端.  由于使用GCC，目前针对大多数平台.  在大多数情况下，生成的代码比DMD运行得更快，与LDC相同.  在与官方GCC工具链集成的过程中.
 * [sdc](https://github.com/SDC-Developers/SDC)   - 愚蠢的D编译器.  每天都写在D. Grows Smarter.
 * [dil](https://code.google.com/p/dil/)   -  D编程语言的编译器.  写在D.
 
@@ -286,7 +247,7 @@
 * [scriptlike](https://github.com/Abscissa/scriptlike) - 实用程序库，用于帮助在D中编写类似脚本的程序.
 * [todod](https://github.com/BlackEdder/todod)   -  Todod是一个基于命令行的待办事项列表管理器.  它还支持基于shell的shell交互 [linenoise](https://github.com/antirez/linenoise).
 * [d-colorize](http://code.dlang.org/packages/colorize) - 红宝石图书馆的一个端口 [colorize](https://github.com/fazibear/colorize) .  它添加了一些方法来使用ANSI转义序列更轻松地在控制台上设置颜色，背景颜色和文本效果.
-* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) -  Adam Ruppe的一部分 [arsd](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) -  Adam Ruppe的一部分 [arsd](https://github.com/adamdruppe/arsd) 库支持控制台上的光标和颜色操作.
 * [dexpect](https://github.com/grogancolin/dexpect/)   - 期望框架的AD实施.  方便bash仿真.
 * [Argon](https://github.com/markuslaker/Argon) - 用于命令行参数的处理器，Getopt的替代方法，用D编写. 
 * [argsd](https://github.com/burner/argsd) -  DLang的命令行和配置文件解析器

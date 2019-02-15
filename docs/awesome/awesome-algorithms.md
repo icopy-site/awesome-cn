@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tayllan/awesome-algorithms"></div>
 ## Awesome Algorithms
 
 精心策划的学习和/或练习算法的地方列表.
@@ -5,13 +6,6 @@
 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
-- [Awesome Algorithms](#awesome-algorithms)
-    - [Websites](#websites)
-    - [Online Courses](#online-courses)
-    - [Books](#books)
-    - [Github Libraries](#github-libraries)
-    - [Online Judges](#online-judges)
-    - [Tools](#tools)
 
 ## Websites
 
@@ -30,7 +24,7 @@
 * [Sorting Algorithms](http://www.sorting-algorithms.com/)   - 精美的排序算法动画.  简短的代码和讨论.
 * [Stoimen's web log](http://www.stoimen.com/blog/) - 一些算法很好地解释.
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - 排序声 - “Audibilization”和排序算法的可视化
-* [VisuAlgo](http://visualgo.net) - 通过动画可视化数据结构和算法.
+* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - 当然！！
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - 那么为何不 ？！！
 

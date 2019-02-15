@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="kennethreitz/awesome-coins"></div>
 ## ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)
@@ -43,7 +44,6 @@
     *支持所有加密货币.
 - [CoinMarketCap](https://coinmarketcap.com) - 显示实时仪表板上的所有货币.
 - [CoinScanner.co](https://coinscanner.co/) - 为您提供从1个加密到另一个加密的多条贸易路线.
-- [MoneyHash](https://moneyhash.today) - 将货币市场与NiceHash上的可用散列能力和盈利能力进行比较.
 
 ## ☤ Reading Material
 
@@ -51,10 +51,11 @@
 - [Map of Coins](http://mapofcoins.com) - 探索加密货币的可视化历史，从白皮书到现在.
 - [A massive collection of white papers](http://diyhpl.us/~bryan/papers2/bitcoin/)
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook) （电子书）
+- [Binance Academy](https://www.binance.vision) -  Binance提供的开放教育.
 - [Bitcoin Developer Reference](https://bitcoin.org/en/developer-reference)
 - [Blockchain for humans](https://github.com/anderson-joyle/blockchain-for-humans) - 超简化的区块链解释（在施工中）.
 - [r/CryptoCurrency](https://www.reddit.com/r/CryptoCurrency/) - 关于加密货币和加密资产的官方subreddit.
-- [Golden Cryptocurrency and Blockchain Cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - 关于加密货币和区块链的主题页面集群.
+- [Golden Cryptocurrency and Blockchain Cluster](https://golden.com/wiki/Cluster%3A_Blockchain_%26_cryptocurrency) - 关于加密货币和区块链的主题页面集群.
 - 出版物
     * [Cryptoeconomics](https://medium.com/@cryptoeconomics) / cryptoeconomics.com.au的团队
     * [Minessence](https://vinnylingham.com/) / Vinny Lingham，Civic.com的联合创始人兼首席执行官
@@ -117,6 +118,7 @@
 
 ## ☤ Coin Exchanges
 
+- [Binance](https://www.binance.com) - 交换世界. 
 - [Cryptopia](https://www.cryptopia.co.nz/Register?referrer=kennethreitz) - 所有货币的钱包，与所有货币进行交易.
 - [Shapeshift](https://shapeshift.io/#/coins) - 地球上最快的交流.
 - [Bittrex](https://bittrex.com) - 所有货币的钱包，与所有货币进行交易.

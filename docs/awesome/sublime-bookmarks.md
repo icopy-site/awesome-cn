@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="dreikanter/sublime-bookmarks"></div>
 ## Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/)  是一个跨平台的文本和源代码编辑器，带有Python应用程序编程接口.  其功能可通过插件扩展.  大多数扩展包都有免费软件许可证，并且是社区构建和维护的.   -  [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)

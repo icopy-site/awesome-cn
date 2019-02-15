@@ -1,66 +1,7 @@
+<div class="github-widget" data-repo="fffaraz/awesome-cpp"></div>
 ## Awesome C++ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
  精选的C ++（或C）框架，库，资源和闪亮的东西的精选列表.  受到令人敬畏的......的启发.
 
-- [Awesome C++](#awesome-cpp)
-	- [Standard Libraries](#standard-libraries)
-	- [Frameworks](#frameworks)
-	- [Artificial Intelligence](#artificial-intelligence)
-	- [Asynchronous Event Loop](#asynchronous-event-loop)
-	- [Audio](#audio)
-	- [Biology](#biology)
-	- [BitTorrent](#bittorrent)
-	- [CLI](#cli)
-	- [Compression](#compression)
-	- [Concurrency](#concurrency)
-	- [Containers](#containers)
-	- [Cryptography](#cryptography)
-	- [Database](#database)
-	- [Debug](#debug)
-	- [Game Engine](#game-engine)
-	- [GUI](#gui)
-	- [Graphics](#graphics)
-	- [Image Processing](#image-processing)
-	- [Internationalization](#internationalization)
-	- [Inter-process communication](#inter-process-communication)
-	- [JSON](#json)
-	- [Logging](#logging)
-	- [Machine Learning](#machine-learning)
-	- [Math](#math)
-	- [Memory Allocation](#memory-allocation)
-	- [Multimedia](#multimedia)
-	- [Networking](#networking)
-	- [PDF](#pdf)
-	- [Physics](#physics)
-	- [Regular Expression](#regular-expression)
-	- [Robotics](#robotics)
-	- [Scientific Computing](#scientific-computing)
-	- [Scripting](#scripting)
-	- [Serialization](#serialization)
-	- [Sorting](#sorting)
-	- [Video](#video)
-	- [Virtual Machines](#virtual-machines)
-	- [Web Application Framework](#web-application-framework)
-	- [XML](#xml)
-	- [Miscellaneous](#miscellaneous)
-- [Software](#software)
-	- [Compiler](#compiler)
-	- [Online Compiler](#online-compiler)
-	- [Debugger](#debugger)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Build Systems](#build-systems)
-	- [Static Code Analysis](#static-code-analysis)
-	- [Coding Style Tools](#coding-style-tools)
-- [Resources](#resources)
-	- [API Design](#api-design)
-	- [Articles](#articles)
-	- [Books](#books)
-	- [Coding Style](#coding-style)
-	- [Podcasts](#podcasts)
-	- [Talks](#talks)
-	- [Videos](#videos)
-	- [Websites](#websites)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Standard Libraries
 * C ++标准库 - 包括STL容器，STL Aglorithm，STL功能等*
@@ -109,7 +50,7 @@
 
 ## Artificial Intelligence
 
-* [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU) - A GPU (CUDA) based Artificial Neural Network library. [LGPL]
+* [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)   - 基于GPU（CUDA）的人工神经网络库.  [LGPL]
 * [btsk](https://github.com/aigamedev/btsk)   - 游戏行为树入门套件.  [ZLIB]
 * [Evolving Objects](http://eodev.sourceforge.net/)   - 基于模板的ANSI-C ++进化计算库，可帮助您快速编写自己的随机优化算法.  [LGPL]
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep)   - 在C ++中使用Keras模型的仅头文件库.  [MIT]
@@ -136,7 +77,6 @@
 ## Audio
 *音频，声音，音乐，数字化语音库*
 
-* [FMOD](http://www.fmod.org/)   - 一款易于使用的跨平台音频引擎和音频内容创建工具，适用于游戏.  [免费用于非商业/商业]
 * [KFR](https://www.kfrlib.com/)   - 快速，现代的C ++ DSP框架，FFT，FIR / IIR滤波器，采样率转换.  [GPL /商业]
 * [Maximilian](https://github.com/micknoise/Maximilian)   -  C ++音频和音乐DSP库.  [MIT]
 * [mini_al](https://github.com/dr-soft/mini_al)   - 单文件音频播放和捕获库.  [授予许可]
@@ -173,6 +113,7 @@
  * [Argh!](https://github.com/adishavit/argh)   - 极简主义，无挫折，仅限标题的参数处理程序.  [BSD]
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
+ * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
  * [CLI11](https://github.com/CLIUtils/CLI11)   - 仅用于简单和高级CLI解析的单头或多文件C ++ 11库.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)   - 轻量级C ++命令行选项解析器.  [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)   - 从docstring生成选项解析器的库.  [MIT /升压]
@@ -347,7 +288,7 @@
 * [Cocos2d-x](http://www.cocos2d-x.org/)   - 用于构建2D游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [MIT]
 * [delta3d](http://sourceforge.net/projects/delta3d/)   - 强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)   - 游戏符合现代C ++.  [MIT]
-* [GamePlay](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
+* [GamePlay](https://github.com/gameplay3d/GamePlay)   - 用于创建2D / 3D移动和桌面游戏的跨平台原生C ++游戏框架.  [Apache2的]
 * [Godot](https://github.com/godotengine/godot)   - 功能齐全的开源MIT许可游戏引擎.  [MIT]
 * [Grit](http://www.gritengine.com/)   - 社区项目，为实现开放世界3D游戏构建免费游戏引擎.  [MIT]
 * [KlayGE](https://github.com/gongminmin/KlayGE)   - 一个基于插件的架构的跨平台开源游戏引擎.  [GPL第二] [website](http://www.klayge.org/)
@@ -556,12 +497,12 @@
 * [Boehm GC](https://github.com/ivmai/bdwgc)   -  C和C ++的保守垃圾收集器.  [类似于X11] [website](http://www.hboehm.info/gc/)
 * [Hoard](https://github.com/emeryberger/Hoard)   - 适用于Linux，Windows和Mac的快速，可扩展且内存高效的Malloc.  [GPL，商业] [website](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)   - 通用malloc（3）实现，强调分段避免和可扩展并发支持.  [BSD] [website](http://jemalloc.net/)
+* [memory](https://github.com/foonathan/memory)   -  STL兼容的C ++内存分配器库.  [zlib的]
 
 
 ## Multimedia
 
 * [GStreamer](http://gstreamer.freedesktop.org/)   - 用于构建媒体处理组件图的库.  [LGPL]
-* [libav](https://github.com/libav/libav)   - 用于处理多媒体内容（如音频，视频，字幕和相关元数据）的库和工具的集合.  [LGPL v2.1 +等] [website](https://www.libav.org/)
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)   - 使用开放标准协议（RTP / RTCP，RTSP，SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)   - 方便地统一显示视频和音频文件的最相关技术和标签数据.  [BSD]
@@ -654,7 +595,7 @@
 ## Scientific Computing
 
 * [AMGCL](https://github.com/ddemidov/amgcl)   - 一个只有头文件的C ++库，用于解决具有代数多重网格的大型稀疏线性系统.  [MIT]
-* [FFTW](http://www.fftw.org/) - A C library for computing the DFT in one or more dimensions. [GPL]
+* [FFTW](http://www.fftw.org/)   - 用于在一个或多个维度上计算DFT的AC库.  [GPL]
 * [GSL](http://www.gnu.org/software/gsl/)   -  GNU科学图书馆.  [GPL]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)   - 快速密集和稀疏多维数组DBMS.  [MIT] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos)   - 高性能PDE求解器.  [BSD]
@@ -731,7 +672,7 @@
 * [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)   - 实验性，可扩展，高性能的HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)   - 轻量级，零依赖性框架，以创建高性能的Web服务.  [Apache的2.0] [website](https://oatpp.io/) 
-* [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
+* [Pistache](http://pistache.io/) - Pistache is a C++ REST framework written in pure C++11 with no external dependency. [Apache2]
 * [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)   - 基于C ++和Qt的高速和全栈Web应用程序框架，支持HTTP和WebSocket协议（带O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
 * [Wt](http://www.webtoolkit.eu/wt)   - 用于开发Web应用程序的C ++库.  [GPL /商业]
@@ -822,7 +763,7 @@
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有汇编输出的交互式编译器.
 * [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - 在Linux上在线编译和执行C ++.
 * [Ideone](http://ideone.com/) - 在线编译和调试工具，允许您编译源代码并以60多种编程语言在线执行.
-* [repl.it](https://repl.it) - A powerful yet simple tools and platforms for educators, learners, and developers.
+* [repl.it](https://repl.it) - 面向教育工作者，学习者和开发人员的强大而简单的工具和平台.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang，GCC，MSVC）和几个编辑器.
 * [Rise4Fun](http://webcompiler.cloudapp.net/) - 在线Visual C ++编译器.
 * [Try It Online](https://tio.run/) -  TIO是一系列在线口译员，可以提供一系列实用和娱乐编程语言.
@@ -890,7 +831,7 @@
 ## Static Code Analysis
 *通过代码分析提高质量和减少缺陷的工具清单*
 
-* [Cppcheck](http://cppcheck.sourceforge.net/)   - 用于静态C / C ++代码分析的工具.   -  [source](https://github.com/danmar/cppcheck)
+* [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source](https://github.com/danmar/cppcheck)
 * [CppDepend](https://www.cppdepend.com/) - 通过分析和可视化代码依赖性，定义设计规则，执行影响分析以及比较不同版本的代码，简化管理复杂C / C ++代码库的过程.
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循Google的C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
@@ -898,7 +839,7 @@
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - 用于clang分析的工具包括C和C ++源文件. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer)   - 用于Java，C和Objective-C的静态分析器.  [BSD]
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
-* [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.
+* [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [Linticator](http://linticator.com) -  Eclipse CDT集成Pc- / FlexeLint.
 * [List of tools for static code analysis](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
 
@@ -983,7 +924,7 @@
 * [cplusplus.com](http://www.cplusplus.com/) -  C ++资源网络.
 * [C FAQ](http://c-faq.com/) -  C常见问题解答.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -  C ++常见问题解答.
-* [C++ FQA Lite](http://yosefk.com/c++fqa/) -  C ++经常质疑答案.
+* [C++ FQA Lite](http://yosefk.com/c++fqa/) - C++ frequently questioned answers.
 * [Guru of the Week](http://www.gotw.ca/gotw/) - 由Herb Sutter创建和编写的一系列常规C ++编程问题.
 * [Meeting C++](http://meetingcpp.com/)
 * [C++ Quiz](http://q.viva64.com/) -  C ++测验，您建议在开源项目的代码片段中查找错误.

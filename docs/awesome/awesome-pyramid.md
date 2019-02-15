@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="uralbash/awesome-pyramid"></div>
 ## Awesome Pyramid
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![IRC
@@ -8,43 +9,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
  精彩的Pyramid应用程序，项目和资源的精选列表.  灵感来自和
 基于 [awesome-python](https://github.com/vinta/awesome-python/).
 
-- [Awesome Pyramid](#awesome-pyramid)
-    - [Admin Interface](#admin-interface)
-    - [Asset Management](#asset-management)
-    - [Async](#async)
-    - [Authentication](#authentication)
-    - [Authorization](#authorization)
-    - [Caching & Session](#caching--session)
-    - [Debugging](#debugging)
-    - [Email](#email)
-    - [Forms](#forms)
-    - [Media-Management](#media-management)
-    - [RESTful API](#restful-api)
-    - [Search](#search)
-    - [Security](#security)
-    - [Services](#services)
-    - [Settings](#settings)
-    - [Storage](#storage)
-    - [Task Queue](#task-queue)
-    - [Testing](#testing)
-    - [Translations](#translations)
-    - [Web frontend integration](#web-frontend-integration)
-    - [Workflows](#workflows)
-    - [Other](#other)
-- [Projects](#projects)
-    - [Framework](#framework)
-    - [CMS](#cms)
-    - [Cookiecutters](#cookiecutters)
-    - [e-Commerce](#e-commerce)
-    - [Project Management](#project-management)
-    - [Other](#other)
-- [Resources](#resources)
-    - [Books](#books)
-    - [Websites](#websites)
-    - [Conferences](#conferences)
-    - [Videos](#videos)
-    - [Who uses it?](#who-uses-it)
-- [Contributing](#contributing)
 
 ## Admin interface
 

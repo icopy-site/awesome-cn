@@ -1,10 +1,10 @@
+<div class="github-widget" data-repo="gbdev/awesome-gbdev"></div>
 ## ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)
 
  精彩的Game Boy（Color）开发资源，工具，文档，相关项目和开源ROM的精选列表.  灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-## Contents
 
 - [Introduction](#introduction)
     + [Disambiguation](#disambiguation)
@@ -58,7 +58,7 @@
 &gt;虽然本文档主要关注原始（1989）Game Boy（DMG），但* Game Boy Color *（GBC）和* Super Game Boy *（SGB）是非常相似的系统，几乎没有重要的区别，例如：
 >
 &gt;  - 不同的硬件规格
-&gt;  - 特定的硬件和软件功能
+>- Specific hardware and software features
 &gt;  - 特定寄存器
 &gt;  - 特定的错误和可利用的行为
 >
@@ -122,7 +122,7 @@
 ### Peripherals
 
 - [Dan Docs](https://shonumi.github.io/dandocs.html) - 模糊Game Boy硬件文档.
-- [Edge of Emulation](https://shonumi.github.io/articles.html) ，一系列关于模仿和调查Game Boy配件的文章.  也可作为 [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) 在GBE +模拟器文档中.
+- [Edge of Emulation](https://shonumi.github.io/articles.html) ，一系列关于模仿和调查Game Boy配件的文章.  也可作为 [technical documents](https://github.com/shonumi/gbe-plus/tree/master/src/docs/technical) in the GBE+ emulator documentation.
     * [Mobile Adapter GB](https://shonumi.github.io/articles/art14.html) -  Game Boy Color上的互联网连接和DLC.
     * [The Game Boy Printer](https://shonumi.github.io/articles/art2.html)
     * [Pocket Sonar](https://shonumi.github.io/articles/art13.html) - 内置声纳硬件的蓝色推车.
@@ -171,7 +171,7 @@
 - [Why did I spend 1.5 months creating a Gameboy emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/) - 博客文章.
 - [binjgb rewind](https://binji.github.io/2017/12/31/binjgb-rewind.html) - 实现*倒带*功能.
 - [binjgb on the web](https://binji.github.io/2017/02/26/binjgb-on-the-web-part-1.html) - 将binjgb仿真器移植到Web Assembly. [(Part 2)](https://binji.github.io/2017/02/27/binjgb-on-the-web-part-2.html)
-- [binjgb debugging hangs](https://binji.github.io/2017/05/03/debugging-hangs.html) - 调查仿真怪癖
+- [binjgb debugging hangs](https://binji.github.io/2017/05/03/debugging-hangs.html) - Investigations on emulations quirks
 - [Emulation Accuracy](https://github.com/Gekkio/mooneye-gb/blob/master/docs/accuracy.markdown)
 - [Decoding Gameboy Z80 opcodes](https://gb-archive.github.io/salvage/decoding_gbz80_opcodes/Decoding%20Gamboy%20Z80%20Opcodes.html) - 如何对Game Boy指令进行算法解码，而不是为500多条指令编写一个巨大的switch-case语句.
 - [Porting a GO Game Boy emulator to WebAssembly](https://djhworld.github.io/post/2018/09/21/i-ported-my-gameboy-color-emulator-to-webassembly/)
@@ -183,7 +183,7 @@
 - [Gekkio's test roms](https://gekkio.fi/files/mooneye-gb/latest/)
 - [SameSuite](https://github.com/LIJI32/SameSuite)
 - [GB Accuracy Tests](http://tasvideos.org/EmulatorResources/GBAccuracyTests.html)
-- [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) - Port of Artemio Urbina's 240p Test Suite to the Game Boy.
+- [144p Test Suite](https://github.com/pinobatch/240p-test-mini/tree/master/gameboy) -  Artemio Urbina的端口为游戏男孩的240p测试套件.
 
 ## Software Development
 
@@ -204,7 +204,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 #### Experimental/Proof of Concepts
 
 - [Wiz](https://github.com/wiz-lang/wiz) - 用于在复古控制台平台上编写自制软件的高级汇编语言（Game Boy，NES，Atari 2600等）.
-- [gbforth](https://github.com/ams-hackers/gbforth) - A Forth-based Game Boy development kit.
+- [gbforth](https://github.com/ams-hackers/gbforth) - 基于Forth的Game Boy开发套件.
 - [gbasm](https://github.com/BonsaiDen/gbasm) - 用于Game Boy z80汇编代码的基于JavaScript的编译器.
 - [tniASM](http://www.tni.nl/products/tniasm.html) - 宏组装.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - 用Swift编写的汇编程序.
@@ -356,7 +356,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [superhappyfunbubbletime](https://github.com/l0k1/superhappyfunbubbletime)
 - [minesweepGB](https://github.com/lancekindle/minesweepGB)
 - [Libbet and the Magic Floor](https://github.com/pinobatch/libbet)
-- [waveform-gb](https://github.com/dannye/waveform-gb) - Program visualizing the wave form used by the wave channel. The wave form can be edited freely and playback of the wave is updated immediately.
+- [waveform-gb](https://github.com/dannye/waveform-gb)   - 程序可视化波形通道使用的波形.  可以自由编辑波形，并立即更新波形的播放.
 
 ### C
 

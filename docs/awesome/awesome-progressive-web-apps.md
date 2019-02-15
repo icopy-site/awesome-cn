@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="TalAter/awesome-progressive-web-apps"></div>
 ## Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Progressive Web Apps资源集合.
@@ -9,24 +10,7 @@
 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/TalAter/awesome-progressive-web-apps/blob/master/contributing.md).
 
-## Contents
 
-- [Must Reads](#must-reads)
-- [Learning Resources](#learning-resources)
-- [Browser Support](#browser-support)
-- [Videos](#videos)
-- [Case Studies](#case-studies)
-- [Sample Progressive Web Apps](#sample-progressive-web-apps)
-- [Specific Technologies](#specific-technologies)
-  - [Service Workers](#service-workers)
-  - [CacheStorage API](#cachestorage-api)
-  - [Background Sync](#background-sync)
-  - [Push Notifications](#push-notifications)
-  - [IndexedDB](#indexeddb)
-  - [Installable Web Apps](#installable-web-apps)
-    - [App Icons](#app-icons)
-  - [Web Share APIs](#web-share-apis)
-- [Awesome Performance](#awesome-performance)
 
 ## Must Reads
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="emptymalei/awesome-research"></div>
 ## Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,68 +9,6 @@
 
 ## TOC
 
-* [Be Organized](#be-organized)
-  * [Version Control System](#version-control-system)
-  * [Pomodoro](#pomodoro)
-  * [GTD-Task Manager](#gtd-task-manager)
-* [Cloud Services](#cloud-services)
-  * [Math and Programming](#math-and-programming)
-  * [Plots](#plots)
-  * [Data](#data)
-  * [Colors](#colors)
-* [Publishing and Sharing](#publishing-and-sharing)
-  * [Writing](#writing)
-  * [Hosting](#hosting)
-  * [Blog and CMS](#blog-and-cms)
-  * [Static Site Generator](#static-site-generator)
-* [Note Taking](#note-taking)
-  * [Editors](#editors)
-  * [Markdown](#markdown)
-  * [LaTeX](#latex)
-  * [iPython Notebook](#ipython-notebook)
-  * [Mindmap](#mindmap)
-  * [Concept Map and Diagrams](#concept-map-and-diagrams)
-  * [Keep The Notes](#keep-the-notes)
-* [Presentation Tools](#presentation-tools)
-  * [Online Load and Edit](#online-load-and-edit)
-  * [Use The Source](#use-the-source)
-  * [IPython Notebook](#ipython-notebook)
-  * [LaTeX Beamer](#latex-beamer)
-  * [Mathematica](#mathematica)
-  * [The Power of SVG](#the-power-of-svg)
-  * [Sharing Slides](#sharing-slides)
-* [Programming](#programming)
-  * [Softwares](#softwares)
-  * [Code Editors](#code-editors)
-  * [Scientific Computing](#scientific-computing)
-  * [Coding is Fun](#coding-is-fun)
-* [Academic](#academic)
-  * [Self-plagiarism](#self-plagiarism)
-  * [Investigate Papers](#investigate-papers)
-  * [Get Yourself A Citable Code for Anything](#get-yourself-a-citable-code-for-anything)
-  * [Open Science](#open-science)
-  * [Tips for Researchers](#tips-for-researchers)
-* [Pacifier](#pacifier)
-* [Online Discussions](#online-discussions)
-* [Open Source](#open-source)
-  * [Open Licenses](#open-licenses)
-  * [Use Licenses](#use-licenses)
-  * [Bibliography](#bibliography)
-* [Data Visualization and Graph Making](#data-visualization-and-graph-making)
-  * [Data Visualization](#data-visualization)
-  * [Graph Making](#graph-making)
-* [LaTeX](#latex-1)
-  * [Tips](#tips)
-  * [Symbols](#symbols)
-  * [Graphing](#graphing)
-  * [Fonts](#fonts)
-  * [Templates](#templates)
-  * [References](#references)
-* [MISC](#misc)
-  * [Terminal](#terminal)
-  * [Free Multimedia](#free-multimedia)
-  * [Interesting Journals](#interesting-journals)
-  * [More](#more)
 
 
 ## Be-Organized
@@ -105,7 +44,7 @@
 
 ### Pomodoro
 
-Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) 获得效率和健康.
+Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to gain efficiency and probably health.
 
 
 * [Pomotodo](https://pomotodo.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Chrome`）：todo list和pomodoro timer的混合，跨设备同步和每周报告[免费].
@@ -218,7 +157,7 @@ Nature托管推荐的数据存储库列表 [here](https://www.nature.com/sdata/p
 
 * [Sphinx](http://sphinx-doc.org)：RestructuredText作为源文件，功能强大，灵活，模块化.
 * [Gitbook](https://www.gitbook.com/) ：一个新的但有前途的HTML，pdf和epub工具，包括在线编辑和本地编辑.  像测验和数学这样的插件可以帮助写科学.
-* [Git-scribe](https://github.com/schacon/git-scribe): Good for writing ebooks.
+* [Git-scribe](https://github.com/schacon/git-scribe)：适合写电子书.
 * [Static Site Generator](#static-site-generator)：有关更多信息，请参阅 [Static Site Generator](#static-site-generator).
 
 
@@ -320,7 +259,7 @@ Markdown，reStructuredText和LaTeX是三种选择的语言.
 * [StackEdit](https://stackedit.io/)（`Cloud`）：StackEdit是一个Markdown编辑器，包含许多集成服务，如math（MathJax），Google Drive，Dropbox和GitHub.
 * [Hackmd.io](https://hackmd.io) （`Cloud`）：基本上包含了您对最完整的在线降价编辑器所期望的一切.
 * [CMD markdown](https://www.zybuluo.com/mdeditor) （`Cloud`）：CMD是一个Markdown编辑器，支持数学（MathJax）.  特别之处在于它保留了编辑历史记录.  （中文用户界面.）
-* [Penflip](https://www.penflip.com/)(`Cloud`): Penflip is designed to be a GitHub for writers. It is Markdown-based and git like without math support.
+* [Penflip](https://www.penflip.com/) （`Cloud`）：Penflip被设计成为作家的GitHub.  这是基于Markdown的，没有数学支持就像git一样.
 * [Authorea](https://www.authorea.com/)（`Cloud`）：一个功能更强大的Markdown和LaTeX在线编辑器，可用于制作精美的学术论文.
 * [Dillinger](http://dillinger.io/)（`Cloud`）：Markdown编辑器，但没有数学模式.
 * [Online Kramdown Editor](http://kramdown.herokuapp.com/)（`Cloud`）：没有数学支持的另一个Markdown编辑器.
@@ -417,7 +356,7 @@ Markdown，reStructuredText和LaTeX是三种选择的语言.
 ### Keep The Notes
 
 
- 跟踪笔记的变化总是更好，** git **是一个不错的选择.  因此， [GitHub](http://github.com) 是几乎完美的地方.
+ 跟踪笔记的变化总是更好，** git **是一个不错的选择.  因此， [GitHub](http://github.com) is the almost perfect place.
 
 至于LaTeX， [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) 是一个检查差异的工具.
 
@@ -720,7 +659,6 @@ Julia或Python语言，甚至支持R. [IPython Notebook/Jupyter](https://jupyter
 ### Tips
 
 * [wikibooks - LaTeX](https://en.wikibooks.org/wiki/LaTeX)：一本好的手册.
-* [Notetaking programs listed above](#latex)
 
 
 ### Symbols

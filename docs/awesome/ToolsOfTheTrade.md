@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="cjbarber/ToolsOfTheTrade"></div>
 ## Hacker News Tools of the Trade [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;贸易工具，来自 [Hacker News](https://news.ycombinator.com).
@@ -28,100 +29,13 @@
 
  它出现在GitHub上是有原因的！  请提交拉取请求.
 
-## Supported with ❤️ by [Instabug](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=header)
 
 [![instabug](https://user-images.githubusercontent.com/9888943/46256666-08746700-c4ae-11e8-8c64-406bbbfe2e0f.png)](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=banner)
 
  &gt; Instabug将使您能够轻松收集Beta测试人员和用户的反馈.  SDK将自动附加调试所需的所有详细信息，并更快地修复错误和崩溃.  加入依赖Instabug的世界顶级应用程序，以提高其应用程序质量并加快迭代速度. [learn more.](https://instabug.com/?utm_source=toolsofthetrade&utm_medium=spon&utm_content=learnmore)🚀
 > [![](https://instabug-ga.appspot.com/UA-41982088-6/github/ToolsOfTheTrade?pixel)](https://instabug.com)
 
-## Contents
 
-* [Accounting/Invoicing](#accountinginvoicing)
-* [API Builder](#api-builder)
-* [App Developer Tools](#app-developer-tools)
-* [Application Distribution](#application-distribution)
-* [Application Performance](#application-performance)
-* [AWS Tools](#aws-tools)
-* [Backend-aaS](#backend-aas)
-* [Banking](#banking)
-* [Billing & Payment Processing](#billing--payment-processing)
-* [Browser/Email Testing](#browseremail-testing)
-* [Bug/Issue Tracking](#bugissue-tracking)
-* [Business & Traffic Analytics](#business--traffic-analytics)
-* [Business Cards and Print Material](#business-cards-and-print-material)
-* [Community Tools](#community-tools)
-* [Content Creation/Infographics](#content-creationinfographics)
-* [Continuous Integration/Code Quality](#continuous-integrationcode-quality)
-* [Conversion Optimization & A/B Testing](#conversion-optimization--ab-testing)
-* [CRM/Sales Tools](#crmsales-tools)
-* [Customer Feedback](#customer-feedback)
-* [Customer Support/Help Desks](#customer-supporthelp-desks)
-* [Dashboards](#dashboards)
-* [Data](#data)
-* [Database-aaS](#database-aas)
-* [Database](#database)
-* [Deployment](#deployment)
-* [Design Collaboration](#design-collaboration)
-* [Designers](#designers)
-* [DNS](#dns)
-* [Documentation](#documentation)
-* [Email Collection/Landing Page Apps](#email-collectionlanding-page-apps)
-* [Email Marketing](#email-marketing)
-* [Engineering Metrics](#engineering-metrics)
-* [Error/Exception Handling](#errorexception-handling)
-* [Forms / Surveys](#forms--surveys)
-* [Fundraising / Investor Relations](#fundraising--investor-relations)
-* [Geocoding](#geocoding)
-* [Group Communication/Chat Tools](#group-communicationchat-tools)
-* [Heroku Tools](#heroku-tools)
-* [HR](#hr)
-* [Identity Verification](#identity-verification)
-* [Income Analytics](#income-analytics)
-* [Knowledge Tracking/Wiki](#knowledge-trackingwiki)
-* [Load Testing](#load-testing)
-* [Localization & Internationalization](#localization--internationalization)
-* [Log Monitoring](#log-monitoring)
-* [Naming](#naming)
-* [Notes](#notes)
-* [Offsite Backups](#offsite-backups)
-* [Ops Alerts and Scheduling](#ops-alerts-and-scheduling)
-* [Other APIs](#other-apis)
-* [PaaS](#paas)
-* [Password Management](#password-management)
-* [Payments, Billing & Downloads](#payments-billing--downloads)
-* [Payroll](#payroll)
-* [Personal Machine Backups](#personal-machine-backups)
-* [Personal Productivity](#personal-productivity)
-* [Phone/PBX/SMS](#phonepbxsms)
-* [Planning & Project Management](#planning--project-management)
-* [Presentations / Slides](#presentations--slides)
-* [Privacy Policy, Terms & Conditions, Legal Documents](#privacy-policy-terms--conditions-legal-documents)
-* [Prototyping/Mockups](#prototypingmockups)
-* [Remote Collaboration](#remote-collaboration)
-* [Remote Workers](#remote-workers)
-* [Search](#search)
-* [Security](#security)
-* [SEO Tools](#seo-tools)
-* [Server Monitoring](#server-monitoring)
-* [Shipping](#shipping)
-* [Site Search](#site-search)
-* [Social Media Marketing](#social-media-marketing)
-* [Source Code Hosting](#source-code-hosting)
-* [Sources of Clicks/Ad Platforms](#sources-of-clicksad-platforms)
-* [Space Rental](#space-rental)
-* [Status Blogs/User Alerts](#status-blogsuser-alerts)
-* [Storage](#storage)
-* [System Monitoring](#system-monitoring)
-* [Task Scheduling](#task-scheduling)
-* [Time Tracking](#time-tracking)
-* [Transactional Email](#transactional-email)
-* [User Feedback](#user-feedback)
-* [User Management](#user-management)
-* [User Testing](#user-testing)
-* [Video Hosting](#video-hosting)
-* [VPS](#vps)
-* [WebSockets-aaS](#websockets-aas)
 
 ### Identity Verification
 
@@ -148,7 +62,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket)  |  $ 10 /月 -  $ 200 /月，无限私人代码库|  在云中托管，管理和共享Git和Mercurial存储库.  免费，无限制的私有存储库，最多可供5位开发人员使用，可以灵活地进行扩展和编码，不受任何限制.  |
+| [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket) | $10/mo - $200/mo, Unlimited private code repositories | Host, manage, and share Git and Mercurial repositories in the cloud. Free, unlimited private repositories for up to 5 developers give teams the flexibility to grow and code without restrictions. |
 | [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd)  |  29美元/月 -  180美元/月|  将客户反馈转化为可操作的任务.  通过BugHerd，您可以快速查看项目的进展情况以及每个人的工作内容.  通过任务板，您可以通过简单的拖放操作分配和安排任务，从而使团队成员保持同步.  |
 | [Bugify](https://bugify.com) | [@bugify](https://twitter.com/bugify)  |  $ 59.00 |  自托管问题管理系统.  一次性支付.  用PHP编写.  |
 | [GitHub Issues](https://github.com) | [@GitHub](https://twitter.com/GitHub)  |  7美元/月 -  50美元/月|  一起构建更好的软件.  GitHub是全球最大的代码主机，拥有超过1320万个存储库.  无论大小，每个存储库都带有相同的强大工具.  这些工具对社区开放，用于公共项目，并为私人项目提供安全保障.  |
@@ -174,7 +88,7 @@
 | [Pivotal Tracker](https://www.pivotaltracker.com) | [@pivotaltracker](https://twitter.com/pivotaltracker)  |  7美元/月 -  175美元/月|  更快地构建更好的软件.  将您的项目分解为一口大小的故事，让您的产品更接近业务目标.  使用积分来估计每个故事的相对复杂性，并在积压中对其进行优先排序.  |
 | [Asana](https://asana.com) | [@asana](https://twitter.com/asana)  |  50美元/月 -  800美元/月|  团队合作没有电子邮件  Asana是我们优先考虑项目，保持订单并保持在不断增长的待办事项列表中的首选.
 | [WeekPlan](https://weekplan.net) | [@weekplan](https://twitter.com/weekplan)  |  7美元/月 -  19美元/月  时间管理受到“高效人士的7种习惯”的启发特点：本周目标，周视图和象限矩阵，番茄钟定时器，共享工作空间等等.
-| [Trello](https://trello.com) | [@trello](https://twitter.com/trello) | $5/mo | Organize anything, together Trello is the fastest, easiest way to organize anything, from your day-to-day work, to a favorite side project, to your greatest life plans. |
+| [Trello](https://trello.com) | [@trello](https://twitter.com/trello)  |  5美元/月|  组织任何事情Trello是组织任何事情的最快，最简单的方式，从您的日常工作到最喜欢的项目，再到您最棒的人生计划.  |
 | [Blossom](https://www.blossom.co) | [@blossom_io](https://twitter.com/blossom_io)  |  $ 19 /月 -  $ 149 /月|  敏捷项目管理.  Blossom为团队中的每个成员提供了清晰的概述，了解谁在做什么以及为什么做什么，同时它可以帮助您专注于最重要的事情.  使用Blossom，您可以在一个地方高效地管理整个开发过程，并以简单的方式构建.  Blossom基于看板的原则，这是一种强调迭代交付周期并不断改进团队或组织工作流程的工作方式.  |
 | [Redmine](http://www.redmine.org)  |   -  |   -  |  灵活的项目管理Web应用程序  使用Ruby on Rails框架编写，它是跨平台和跨数据库的.  |
 | [JIRA Agile](https://www.atlassian.com/software/jira/agile) | [@jira](https://twitter.com/JIRA)  |  10美元/月 -  30美元/月|  梦想大，工作聪明，交付快.  @JIRA，@ Conffence，@ Bitbucket等的制造商.  用于规划，协作，编码和支持的软件.  专为团队而设
@@ -314,7 +228,7 @@
 | [Dashing](http://dashing.io)  |   -  |   -  |  Dashing是一个基于Sinatra的框架，可以让您构建漂亮的仪表板.  |
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio) | $5/user/mo - $20/user/mo | Meet Your Business Dashboard. Connect to any data service to bring your key numbers together on one dashboard. Assign your data to visualizations to show the story behind the numbers. Cultivate a data-driven culture by sharing dashboards with everyone on your team. |
 | [Grafana](https://grafana.com) | [@grafana](https://twitter.com/grafana)  |  $ 0  -  $ 90 /月（+ 9 /用户/月）|  适用于所有指标的分析平台.  Grafana允许您查询，可视化，提醒和理解您的指标，无论它们存储在何处.  与您的团队一起创建，探索和共享仪表板，并培养数据驱动的文化.  |
-| [Redash](https://redash.io) | - | Self-hosted or $49/mo - 450/mo | "Redash has support for querying multiple databases, including: Redshift, Google BigQuery, PostgreSQL, MySQL, Graphite, Presto, Google Spreadsheets, Cloudera Impala, Hive and custom scripts." |
+| [Redash](https://redash.io)  |   -  |  自托管或49美元/月 -  450 /月|  “Redash支持查询多个数据库，包括：Redshift，Google BigQuery，PostgreSQL，MySQL，Graphite，Presto，Google Spreadsheets，Cloudera Impala，Hive和自定义脚本.”  |
 | [Cyfe](https://www.cyfe.com) | [@cyfe](https://twitter.com/Cyfe)  |  $ 0  -  $ 29 /月|  Cyfe为您的客户提供一体化的网络仪表板，帮助他们监控和分析分散在其所有在线服务中的数据，如Google Analytics，Salesforce，AdSense，MailChimp，亚马逊，Facebook，WordPress，Twitter等等. -时间.  |
 
 ### Error/Exception Handling
@@ -327,7 +241,7 @@
 | [HoneyBadger](https://www.honeybadger.io) | [@honeybadgerapp](https://twitter.com/honeybadgerapp) | $39/mo - $249/mo | Exception, uptime, and performance monitoring for Ruby. It tells you about errors, downtime and performance issues as they happen. And it gives you the tools you need to fix them ...without burying you in data. Without silly rate limits or per-server fees. |
 | [BugSnag](https://www.bugsnag.com) | [@bugsnag](https://twitter.com/bugsnag)  |  29美元/月 -  249美元/月|  自动，全栈错误监控.  针对Rails，PHP，Node.js，Java和所有其他领先平台的Web应用程序监控.  |
 | [Raygun](https://raygun.com) | [@raygunio](https://twitter.com/raygunio)  |  14美元/月 -  199美元/月|  异常错误跟踪.  您的软件故障会自动发送到Raygun服务并立即开始分析.  Raygun会智能地对您的错误进行分组，以便您处理根本原因，而不是每个错误实例！  |
-| [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake) | $49 - $249/mo | No More Searching Log Files Capture and Track Your Application's Exceptions in 3 Minutes. Airbrake is the leading exception reporting service, currently providing error tracking for 50,000 applications with support for 18 programming languages. |
+| [Airbrake](https://airbrake.io) | [@airbrake](https://twitter.com/airbrake)  |  49美元 -  249美元/月|  不再搜索日志文件在3分钟内捕获并跟踪应用程序的异常.  Airbrake是领先的异常报告服务，目前为50,000个应用程序提供错误跟踪，支持18种编程语言.  |
 | [Rollbar](https://rollbar.com) | [@rollbar](https://twitter.com/rollbar)  |  12美元/月 -  1249美元/月|  控制你的错误.  Rollbar与平台无关，可以接受任何可以说HTTP和JSON的数据.  您可以将我们的官方库用于Ruby，Python，PHP，Node.js，JavaScript，Android，iOS或Flash，或者使用我们的API自行编写.  |
 | [Errorception](https://errorception.com) | [@errorception](https://twitter.com/errorception)  |  5美元/月 -  59美元/月|  无痛的JavaScript错误跟踪.  Errorception是一种简单而轻松的方式来查找JavaScript错误，因为它们出现在用户的浏览器中.  您需要做的就是在页面上插入脚本标记，然后您将开始实时记录错误.  |
 | [Errbit](https://errbit.com)  |   -  |  OSS |  与Airbrake API兼容的开源错误捕获器.  |
@@ -371,7 +285,7 @@
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
 | [Bees with Machine Guns!](https://github.com/newsapps/beeswithmachineguns) | - | - | - |
-| [Flood.io](https://flood.io) | [@flood_io](https://twitter.com/flood_io)  |  免费至$ 399 /月|  JMeter和Gatling负载测试的自动设置和结果摘要/图表.  可以轻松扩展到100K + reqs / min.  |
+| [Flood.io](https://flood.io) | [@flood_io](https://twitter.com/flood_io) | Free to $399/mo | Auto setup and results summaries/graphs of JMeter and Gatling load tests.  Can easily scale to 100K+ reqs/min. |
 | [Neustar Website Load Testing](https://www.neustar.biz/services/web-performance/load-testing) | [@Neustar](https://twitter.com/Neustar) | $80/mo | Tackle performance problems such as bandwidth limitations, error rates exceeding thresholds, server PU limitations and much more. |
 | [Loader.io](https://loader.io)  |   -  |  免费到100.00 $ / mo |  Loader.io是一个免费负载测试服务，允许您通过数千个并发连接对web-apps / apis进行压力测试.  |
 | [Locust.io](https://locust.io) | [@locustio](https://twitter.com/locustio)  |  开源|  用Python编写的自托管负载测试工具，测试本身用Python代码编写
@@ -406,7 +320,7 @@
 | [Enchant](https://www.enchant.com) | [@enchanthq](https://twitter.com/enchanthq)  |  9美元/月|  就像类固醇上的gmail一样！  附魔是一个强大的帮助台，可以帮助您的团队为每一位客户提供卓越的支持.  对于您的客户，它只是电子邮件.  他们永远不会看到票号，也永远不会登录任何东西！  |
 | [Freshdesk](https://freshdesk.com) | [@freshdesk](https://twitter.com/freshdesk)  |  $ 16 /月 -  $ 70 /月|  提供卓越客户支持所需的一切.  Freshdesk让您不会盲目追究问题并控制客户支持问题.  |
 | [UserDeck](https://userdeck.com) | [@user_deck](https://twitter.com/user_deck)  |  $ 0  -  $ 25 /月|  嵌入现有网站的客户支持软件.  |
-| [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly)  |  £0  - £15 /月|  拓展业务并提供世界级的客户支持.  只需几分钟即可设置您的服务台.  与您的其他软件工具集成，利用自动化规则和宏将您的客户支持提升到一个新的水平，变得更专业，更注重客户，并通过Sirportly将您的客户变成狂热的粉丝.  |
+| [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly) | £0 - £15/mo | Grow your business and provide world class customer support. Simply setup your helpdesk in less than a few minutes. Integrate with your other software tools and take advantage of the automated rules and macros to scale your customer support to a new level, become more professional and customer focused and turn your customers into raving fans with Sirportly. |
 | [Olark](https://www.olark.com/) | - | - | - |
 | [SnapEngage](https://snapengage.com/)  |   -  |  每次集成定制定价，或每月81美元|  高度定制的实时聊天集成|
 | [Get Satisfaction!](https://getsatisfaction.com/corp/)  |   -  |   -  |  客户社区提供社交支持，社交营销和客户反馈 - 在线社区软件.  Get Satisfaction是领先的客户互动平台，通过最佳在线客户社区帮助公司与客户和潜在客户建立更好的关系.  |
@@ -425,7 +339,7 @@
 | [Amazon Simple Email Service](https://aws.amazon.com/ses) | [@AWSSupport](https://twitter.com/AWSSupport)  |  每月发送的前62,000封电子邮件$ 0  为企业和开发人员提供灵活，经济，高度可扩展的电子邮件发送和接收平台|
 | [SendGrid](https://sendgrid.com) | [@SendGrid](https://twitter.com/SendGrid)  |  9.95美元/月 -  399.95美元  电邮发送.  简化.  SendGrid每月为各种规模的公司提供数十亿封电子邮件.  选择最适合您的发送量的包，设置您的帐户，让SendGrid处理剩下的事情！  |
 | [CritSend](https://www.critsend.com) | [@critsend](https://twitter.com/critsend)  |  $ 50 /月 -  $ 3000 /月|  开发人员的最佳SMTP中继.  为您的交易和批量电子邮件使用最可靠的基础架构.  设置Critsend只需5分钟，并开始享受快速交付时间和自动可扩展性.  |
-| [Postage](http://postageapp.com) | [@postagebird](https://twitter.com/postagebird)  |  9美元/月 -  399美元/月|  从Web应用程序发送电子邮件的简便方法.  邮资应用程序可在几分钟内帮助设计，发送和分析电子邮件.  |
+| [Postage](http://postageapp.com) | [@postagebird](https://twitter.com/postagebird) | $9/mo - $399/mo | The easier way to send email from web apps. Postage app helps design, send, and analyze emails within minutes. |
 | [Sendwithus](https://www.sendwithus.com) | [@sendwithus](https://twitter.com/send_with_us)  |  免费&#39;黑客&#39;计划1000条消息/ mo |  交易电子邮件A / B测试和滴灌活动|
 | [SparkPost](http://sparkpost.com) | [@SparkPost](https://twitter.com/SparkPost)  |  免费 -  $ 474 /月|  最高性能的电子邮件递送服务 - 无论您的应用程序或网站是否发送数百或数十亿条消息.  |
 
@@ -550,7 +464,6 @@
 | [Anima](https://www.animaapp.com) | [@animaapp](https://twitter.com/animaapp)  |  $ 0  -  $ 39 /月|  Sketch to Code Toolkit.  Anima将网页设计转换为代码.  使Sketch设计具有响应性，交互性和活力，并导出到HTML / JS / CSS.  |
 | [Framer](https://framer.com) | [@framer](https://twitter.com/framer)  |  免费试用 -  12美元/月|  像素完美，响应式设计.  真正的高保真原型.  无缝协作.  Framer为Dropbox，Pinterest，Twitter和其他数千家产品团队提供支持.  |
 
-### Content Creation/Infographics
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
@@ -580,7 +493,7 @@
 | [Bulbs](http://bulbflow.org)  |   -  |   -  |  用于图形数据库的Python持久性框架.  |
 | [Datomic](https://www.datomic.com) | [@datomic_team](https://twitter.com/datomic_team)  |   -  |  完全事务性，云就绪，不可变数据库.  不可变数据意味着强大的一致性与水平读取可伸缩性以及内置缓存相结合.  Datomic是一个分布式数据库，旨在实现在下一代云架构上运行的可扩展，灵活和智能的应用程序.  |
 | [Tinkerpop](http://tinkerpop.apache.org)  |   -  |   -  |  图形空间中的开源软件产品.  |
-| [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo)  |   -  |  基于Web的数据库设计工具.  Vertabelo允许您直观地设计PostgreSQL，MySQL，Oracle，SQL Server，SQLite和IBM DB2的数据库模型.  您可以从SQL，XML或使用逆向工程工具导入现有数据库结构.  设计模型后，您可以为各种ORM生成SQL脚本或即用型代码（Propel，jOOQ，SQLAlchemy或 [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
+| [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo) | - | Web-based tool for database design. Vertabelo allows you to visually design database models for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, and IBM DB2. You can import the existing database structure from SQL, XML, or using reverse engineering tool. After you design a model, you can generate SQL script or ready-to-use code for various ORMs (Propel, jOOQ, SQLAlchemy, or [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
 | [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  $ 0  -  $ 49 |  具有直观GUI工具的现代本机客户端，用于创建，访问，查询和编辑多个数据库：MySQL，PostgreSQL，SQLite，Microsoft SQL Server，Amazon Redshift，MariaDB，CockroachDB，Vertica，Cassandra，Oracle和Redis.  |
 | [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin)  |  免费|  用于数据库版本管理的一体化工具.  它允许您在单击中设置任何版本的本地数据库服务器.  |
 
@@ -639,7 +552,7 @@
 | [PayMill](https://www.paymill.com) | [@Paymill](https://twitter.com/Paymill)  |  0.28€ -  0.25€|  在线支付变得简单.  根据您网站的流量自定义结帐付款
 | [Spreedly](https://www.spreedly.com) | [@spreedly](https://twitter.com/spreedly)  |  150美元/月 -  1500美元/月|  付款作为平台.  Spreedly的主要优势之一是通过跨多个支付网关工作来覆盖大量商家帐户.  作为直接商家，您可以在全球范围内进行交易，但可以根据地理或其他业务规则将资金存入独特的商家帐户.  作为SaaS平台，您可以支持各个客户的独特商家帐户.  付款网关令牌是您向我们指明此特定交易将针对哪个唯一商家帐户的方式.  每个唯一商家帐户=一个唯一的付款网关令牌.  |
 | [WePay](https://go.wepay.com) | [@wepay](https://twitter.com/wepay)  |  2.9％+ 30¢/交易.  |  WePay是第一个提供平台的支付引擎 - 市场，众筹和商业软件/工具 - 一种拥有客户体验的方式，同时仍然保护他们免受100％的欺诈和监管风险.  |
-| [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢/transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier. |
+| [Paddle](https://paddle.com) | [@PaddleHQ](https://twitter.com/PaddleHQ)  |  5％+ 50¢/交易.  |  支付处理和履行，专门用于桌面应用程序和SaaS订阅服务.  为您处理增值税和发票，因此您的会计变得更容易.  |
 | [Fattmerchant](https://fattmerchant.com/) | [@Fattmerchant](https://twitter.com/fattmerchant)  |  0％+互换+ 99美元+ /月|  付款统一.  |  将您的应用程序，网站，软件或硬件与Fattmerchant API集成，以无缝接受所有主要信用卡，ACH付款等等！  适用于面对面和在线交易.  |
 
 ### Banking
@@ -825,7 +738,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [Heroku](https://www.heroku.com) | - | 1000 Free hours/mo for verified accounts | - |
+| [Heroku](https://www.heroku.com)  |   -  |  已验证帐户的1000小时/月|   -  |
 | [Cloud Foundry](https://www.cloudfoundry.org)  |   -  |   -  |  自己托管，或使用多种托管服务之一
 | [Pagodabox](https://pagodabox.io ) | - | - | - |
 | [Clever Cloud](https://www.clever-cloud.com ) | - | - | - |
@@ -1070,7 +983,6 @@
 
 使用此列表的最佳方法是：
 
-- 通过浏览 [contents](#contents)
 - 使用<kbd>命令</kbd> + <kbd>F</kbd>搜索内容
 
 此列表还使用标签来帮助搜索内容：

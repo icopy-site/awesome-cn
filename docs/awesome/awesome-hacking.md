@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="carpedm20/awesome-hacking"></div>
 ## Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精彩黑客的精选列表.  灵感来自 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
@@ -7,39 +8,9 @@
 有关可供下载的免费黑客书籍列表，请转到 [here](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
-## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
-- [System](#system)
-    - [Tutorials](#tutorials)
-    - [Tools](#tools)
-    - [Docker](#docker-images-for-penetration-testing--security)
-    - [General](#general)
-- [Reverse Engineering](#reverse-engineering)
-    - [Tutorials](#tutorials-1)
-    - [Tools](#tools-1)
-    - [General](#general-1)
-- [Web](#web)
-    - [Tools](#tools-2)
-- [Network](#network)
-    - [Tools](#tools-3)
-- [Forensic](#forensic)
-    - [Tools](#tools-4)
-- [Cryptography](#cryptography)
-    - [Tools](#tools-5)
-- [Wargame](#wargame)
-    - [System](#system-1)
-    - [Reverse Engineering](#reverse-engineering-1)
-    - [Web](#web-1)
-    - [Cryptography](#cryptography-1)
-    - [Bug bounty](#bug-bounty)
-- [CTF](#ctf)
-    - [Competition](#competition)
-    - [General](#general-2)
-- [OS](#os)
-    - [Online resources](#online-resources)
-- [ETC](#etc)
 
 <!-- /MarkdownTOC -->
 

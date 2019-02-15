@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="markusschanta/awesome-jupyter"></div>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精彩的精选列表 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开源Web应用程序，允许您创建和共享包含实时代码，方程式，可视化和叙述文本的文档.
@@ -10,20 +11,7 @@
 </h1>
 <br>
 
-## Contents
 
-- [Runtimes/Frontends](#runtimesfrontends)
-- [Collaboration/Education](#collaborationeducation)
-- [Visualization](#visualization)
-- [Rendering/Publishing/Conversion](#renderingpublishingconversion)
-- [JupyterLab Extensions](#jupyterlab-extensions)
-- [Testing](#testing)
-- [Domain-Specific Projects](#domain-specific-projects)
-- [Hosted Notebook Solutions](#hosted-notebook-solutions)
-- [Official Resources and Documentation](#official-resources-and-documentation)
-- [Community Resources](#community-resources)
-- [Articles/Guides/Tutorials](#articlesguidestutorials)
-- [Contributing](#contributing)
 
 ---
 
@@ -51,11 +39,11 @@
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - 通过Edx进行身份验证.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - 创建自动评估练习.
 - [nbgrader](https://github.com/jupyter/nbgrader) - 分配和评分Jupyter笔记本电脑.
-- [nbtutor](https://github.com/lgpage/nbtutor) - 可视化Python代码执行（逐行）.
+- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
 
 ## Visualization
 
-- [Altair](https://github.com/altair-viz/altair) - 基于Python的声明性可视化库 [Vega](http://vega.github.io/vega) and [Vega-Lite](https://github.com/vega/vega-lite).
+- [Altair](https://github.com/altair-viz/altair) - 基于Python的声明性可视化库 [Vega](http://vega.github.io/vega) 和 [Vega-Lite](https://github.com/vega/vega-lite).
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 交互式可视化库，针对现代Web浏览器进行演示.
 - [bqplot](https://github.com/bloomberg/bqplot) - 基于图形的Jupyter交互式绘图框架语法.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) -  Jupyter笔记本电脑的原型网络可视化前端.
@@ -108,6 +96,7 @@
 
 ## Domain-Specific Projects
 
+- [ArcGIS](https://developers.arcgis.com/python/) - 用于处理地图和地理空间数据的库，由Web GIS提供支持.
 - [GenePattern Notebook](http://genepattern-notebook.org) - 将基因组分析与交互式笔记本集成.
 - [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - 探索性地理空间分析的扩展.
 - [lolviz](https://github.com/parrt/lolviz) - 用于列表，列表，词典列表的数据结构可视化工具.

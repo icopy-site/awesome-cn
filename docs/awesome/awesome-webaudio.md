@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="notthetup/awesome-webaudio"></div>
 ﻿# Awesome WebAudio
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -10,18 +11,6 @@
 
 请举一个 [Pull-Request](https://github.com/notthetup/awesome-webaudio/pulls) 在这个列表中添加一个很棒的WebAudio东西.
 
-## Contents
-- [Packages](#packages)
-  - [Frameworks](#frameworks)
-  - [Libraries](#libraries)
-  - [Utilities](#utilities)
-  - [MIDI](#midi)
-  - [Apps](#apps)
-- [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
-  - [Newsletters](#newsletters)
-  - [Community](#community)
 
 ## Packages
 

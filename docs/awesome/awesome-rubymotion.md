@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="motion-open-source/awesome-rubymotion"></div>
 <h1 align="center">
 	<img width="1024" src="https://raw.githubusercontent.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
 	<br>
@@ -13,66 +14,10 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-  - [Apps](#apps)
-    - [Example Android Apps](#example-android-apps)
-    - [Example iOS Apps](#example-ios-apps)
-    - [Example Hybrid (iOS/Andriod) App's](#example-hybrid-iosandriod-apps)
-    - [Example macOS Apps](#example-os-x-apps)
-    - [Example tvOS Apps](#example-tvos-apps)
-    - [Open Source macOS Apps](#open-source-os-x-apps)
-    - [Open Source iOS Apps](#open-source-ios-apps)
-    - [Propriety macOS Apps](#propriety-os-x-apps)
-    - [Propriety iOS Apps](#propriety-ios-apps)
-  - [Developer Tools](#developer-tools)
-  - [Editors & RM](#editors--rm)
-  - [Libraries, Frameworks and Wrappers](#libraries-frameworks-and-wrappers)
-    - [Android](#android)
-    - [Apple API Wrappers](#apple-api-wrappers)
-    - [Authorization](#authorization)
-    - [Data Protocols](#data-protocols)
-    - [Database](#database)
-    - [Debugging & Error Reporting](#debugging--error-reporting)
-    - [Dependencies Management](#dependencies-management)
-    - [Device support](#device-support)
-    - [Encryption](#encryption)
-    - [Frameworks](#frameworks)
-    - [Game Development](#game-development)
-    - [Graphical User Interface](#graphical-user-interface)
-      - [GUI Frameworks](#gui-frameworks)
-      - [Autolayout](#autolayout)
-      - [Input](#input)
-      - [iOS](#ios)
-      - [Forms](#forms)
-      - [Menu's & Toolbars](#menus--toolbars)
-      - [Icons](#icons)
-      - [Hybrid](#hybrid)
-      - [Element Wrappers](#element-wrappers)
-    - [Graphic Libraries](#graphic-libraries)
-    - [Localization](#localization)
-    - [Models & Core Data](#models--core-data)
-    - [Networking](#networking)
-    - [Project Management](#project-management)
-    - [SaaS API Wrappers](#saas-api-wrappers)
-    - [Scheduling](#scheduling)
-    - [Screenshots](#screenshots)
-    - [Software Design Patterns](#software-design-patterns)
-    - [Templates](#templates)
-    - [Testing](#testing)
-    - [Updates](#updates)
-  - [Books](#books)
-  - [Tutorials](#tutorials)
-    - [iOS Tutorials](#ios-tutorials)
-    - [macOS Tutorials](#os-x-tutorials)
-    - [Tutorial Screencasts](#tutorial-screencasts)
-  - [Presentations](#presentations)
-  - [Resources](#resources)
-  - [Thanks](#thanks)
-- [Other Awesome Lists](#other-awesome-lists)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -93,7 +38,7 @@
 
 
 ### Example Hybrid (iOS/Andriod) App's
-[RubyMotion Hybrid Sample](https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (iOS + Android) app.
+[RubyMotion Hybrid Sample](https://github.com/HipByte/rubymotion-hybrid-sample) - 来自RubyMotion混合（iOS + Android）应用程序的HipByte示例.
 
 
 ### Example macOS Apps
@@ -282,7 +227,7 @@
 
 #### Hybrid
 * [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - 材料设计浮动动作按钮.
-* [Motion-awesome](https://github.com/derailed/motion-awesome) - 使用精彩的字体 - 真棒库轻松创建按钮和标签的DSL.
+* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library.
 * [Motion-hybrid](https://github.com/balvig/motion-hybrid) -  RubyMotion框架，可轻松制作以Webview为中心的混合iOS应用程序.
 
 

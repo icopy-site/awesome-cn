@@ -1,26 +1,9 @@
+<div class="github-widget" data-repo="Friz-zy/awesome-linux-containers"></div>
 ## Awesome Linux Containers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Table of Contents
 
-* [Foundations](#foundations)
-* [Specifications](#specifications)
-* [Clouds](#clouds)
-* [Operating Systems](#operating-systems)
-* [Hypervisors](#hypervisors)
-* [Containers](#containers)
-* [Sandboxes](#sandboxes)
-* [Partial Access](#partial-access)
-* [Filesystem](#filesystem)
-* [Dashboard](#dashboard)
-* [Best practices](#best-practices)
-* [Security](#security)
-  - [Tools](#tools)
-  - [Links](#links)
-  - [Levels of security problems](#levels-of-security-problems)
-  - [Technologies for security](#technologies-for-security)
-* [Another Information Sources](#another-information-sources)
 
 ## Foundations
 

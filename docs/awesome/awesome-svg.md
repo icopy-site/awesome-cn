@@ -1,10 +1,10 @@
+<div class="github-widget" data-repo="willianjusten/awesome-svg"></div>
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
  &gt; SVG的精选列表.  主要思想是每个人都可以在这里做出贡献，因此我们可以将所有关于SVG的信息集中在一起并保持最新.
 
-- [Awesome SVG](#awesome-svg)
 	- [Accessible SVG](https://github.com/willianjusten/awesome-svg/blob/master/topics/Accessibility.md)
 	- [Animation](https://github.com/willianjusten/awesome-svg/blob/master/topics/Animation.md)
 	- [Books](https://github.com/willianjusten/awesome-svg/blob/master/topics/Books.md)

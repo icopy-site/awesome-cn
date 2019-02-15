@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="exAspArk/awesome-chatops"></div>
 ## Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一系列令人敬畏的事情 [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).
@@ -7,16 +8,7 @@ ChatOps是一种协作模型，有助于将人员，流程，工具和自动化�
 
 如果您想贡献，请阅读 [CONTRIBUTING.md](https://github.com/exAspArk/awesome-chatops/blob/master/./CONTRIBUTING.md).
 
-## Contents
 
-* [Articles](#articles)
-* [Videos](#videos)
-* [Books](#books)
-* [Events](#events)
-* [Podcasts](#podcasts)
-* [Resources](#resources)
-* [Services](#services)
-* [Frameworks and libraries](#frameworks-and-libraries)
 
 ## Articles
 
@@ -67,44 +59,6 @@ ChatOps是一种协作模型，有助于将人员，流程，工具和自动化�
 
 这些开源项目将帮助您构建机器人，以根据平台自动化您的公司聊天.
 
-* [AIM](#aim)
-* [Campfire](#campfire)
-* [ChatWork](#chatwork)
-* [Dasher](#dasher)
-* [Discord](#discord)
-* [Facebook Messenger](#facebook-messenger)
-* [Fleep](#fleep)
-* [Flowdock](#flowdock)
-* [Gitter](#gitter)
-* [HipChat](#hipchat)
-* [Idobata](#idobata)
-* [iMessage](#imessage)
-* [IRC](#irc)
-* [Jabbr](#jabbr)
-* [Let's chat](#lets-chat)
-* [Lingr](#lingr)
-* [Matrix](#matrix)
-* [Mattermost](#mattermost)
-* [Partychat](#partychat)
-* [QQ](#qq)
-* [Rocket.Chat](#rocketchat)
-* [Skype](#skype)
-* [Skyweb](#skyweb)
-* [Slack](#slack)
-* [Spark](#spark)
-* [Talker](#talker)
-* [Telegram](#telegram)
-* [Tox](#tox)
-* [Twilio](#twilio)
-* [Twitter](#twitter)
-* [Typetalk](#typetalk)
-* [VictorOps](#victorops)
-* [Visual Studio Online](#visual-studio-online)
-* [Vkontakte](#vkontakte)
-* [WeChat](#wechat)
-* [XMPP / Jabber](#xmpp--jabber)
-* [Yammer](#yammer)
-* [Zulip](#zulip)
 
 ### AIM
 

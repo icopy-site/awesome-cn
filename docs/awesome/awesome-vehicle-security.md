@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jaredthecoder/awesome-vehicle-security"></div>
 ## Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -9,40 +10,11 @@
 
 我会尽可能多地得到帮助. [Start contributing!](https://github.com/jaredmichaelsmith/awesome-vehicle-security/blob/master/contributing.md)
 
-Follow me on [Twitter](https://twitter.com/jaredthecoder) 为了更安全的善良.
+跟我来 [Twitter](https://twitter.com/jaredthecoder) 为了更安全的善良.
 
 ---
 
-## Contents
 
-- [Learn](#learn)
-    - [Articles](#articles)
-    - [Presentations](#presentations)
-    - [Books](#books)
-    - [Research Papers](#research-papers)
-    - [Courses](#courses)
-    - [Blogs](#blogs)
-    - [Websites](#websites)
-    - [Newsletters](#newsletters)
-    - [Conferences](#conferences)
-    - [Who to Follow](#who-to-follow)
-    - [Podcasts and Episodes](#podcasts-and-episodes)
-        - [Podcasts](#podcasts)
-        - [Episodes](#episodes)
-    - [Miscellaneous](#miscellaneous)
-- [Projects](#projects)
-- [Hardware](#hardware)
-- [Software](#software)
-  - [Applications](#applications)
-  - [Libraries and Tools](#libraries-and-tools)
-    - [C](#c)
-    - [Python](#python)
-    - [Go](#go)
-    - [JavaScript](#javascript)
-- [Companies and Jobs](#companies-and-jobs)
-    - [Coordinated Disclosure](#coordinated-disclosure)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 ## Learn
 
@@ -57,7 +29,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) 为了更安全的善�
 - [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) - 通过SANS阅览室，Currie的论文分析了智能车辆技术的风险和危险.
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) - 来自Chris Valasek和IOActive的白皮书，当您没有足够的资源时，可以将您的汽车入侵.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) -  Charlie Miller和Chris Valasek免费为所有人发布所有工具，数据，研究笔记和论文
-- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - 克雷格史密斯写了一篇关于使用ELM327蓝牙适配器与Metasploit的HWBrige合作的简短文章
+- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article on working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
 - [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) -  Texas A＆M研究人员开发智能系统原型.
 - [How big data will impact car security in the proximate future: Concerns and solutions](http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/) - 大数据对汽车安全的影响.
 - [Reverse engineering of the Nitro OBD2](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html) -  CAN诊断工具的逆向工程.
@@ -71,7 +43,6 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) 为了更安全的善�
 - [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) -  DEFCON 23演讲克里斯瓦拉塞克和查理米勒讲述他们现在着名的关于远程攻击吉普车并将其停在轨道上的谈话.
 - [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) -  DEFCON 21由Chris Valasek和Charlie Miller谈论汽车网络.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
-- [Ken Munro & Dave Lodge - Hacking the Mitsubishi Outlander & IOT](https://www.youtube.com/watch?v=YLBQdO6a5IQ) - 来自Kenides和Dave的BSides Manchester 2016的谈话 [Pen Test Partners](#who-to-follow)
 - [A Platform base on Visualization for Protecting CAN Bus Security](https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf) -  Syscan360 2016 SH由Jianhao Liu讲话
 - [Gateway Internals of Tesla Motors](https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf) -  Ner Seng和刘玲的Zeronights 2016演讲
 - [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) -  Alan Mond的Bugcrowd LevelUp 2017
@@ -125,7 +96,7 @@ CAN总线信号注入攻击（http://delivery.acm.org/10.1145/3070000/3064816/a1
 - [OpenGarages](http://opengarages.org/index.php/Main_Page) - 提供了解当今现代车辆系统所需的公共访问，文档和工具.
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) -  DEFCON 24的汽车黑客练习.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - 车辆黑客攻击方法课程.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) -  OWASP的项目，以确保物联网，从汽车到医疗设备等.
 - [I Am The Cavalry](https://www.iamthecavalry.org/)   - 全球基层（如志愿者）倡议侧重于安全与人类生命/公共安全问题的交叉，例如汽车.  安全研究人员，OEM，第1层和其他许多人的参与.  发布时间 [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - 对汽车黑客感兴趣并将车辆连接到云端的社区.
 - [Python Security](http://www.pythoncarsecurity.com/) - 浏览和购买具有某些车辆安全功能的python集成汽车的网站.
@@ -145,7 +116,6 @@ CAN总线信号注入攻击（http://delivery.acm.org/10.1145/3070000/3064816/a1
 
 ## Who to Follow
 
-- 克里斯瓦拉塞克：安全负责人 [UberATC](#companies-and-jobs)
     - [Twitter](https://twitter.com/nudehaberdasher)
     - [Website](http://chris.illmatics.com/about.html)
 - 查理米勒：黑客第一部苹果iPhone，现在做汽车安全.
@@ -234,7 +204,7 @@ Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
 
 软件应用程序将帮助您破解您的汽车，调查它的信号，并进行一般性的修补.
 
-- [Wireshark](https://www.wireshark.org/) -  WireShark可用于反转CAN通信.
+- [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - 用于CAN总线诊断和监控的Java应用程序.
 - [UDSim](https://github.com/zombieCraig/UDSim/) -  GUI工具，可以监控CAN总线，并通过观察通信自动学习连接到它的设备.
 - [RomRaider](http://www.romraider.com/) - 用于Subaru发动机控制单元的开源调谐套件，可让您查看和记录数据并调整ECU.

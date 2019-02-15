@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="refinerycms-contrib/awesome-refinerycms"></div>
 ## Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 很棒的集合 [Refinery CMS](http://www.refinerycms.com/) 扩展，资源和闪亮的东西.

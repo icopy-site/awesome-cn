@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="heynickc/awesome-ddd"></div>
 ## Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;域驱动设计（DDD），命令查询责任隔离（CQRS），事件源和事件存储资源的精选列表.
@@ -18,18 +19,7 @@
 
 **[Event Storming](https://ziobrando.blogspot.com/2013/11/introducing-event-storming.html)**是一种快速探索复杂业务领域的研讨会格式.
 
-## Contents
 
-- [Books](#books)
-- [Training Courses](#training-courses)
-- [Video Collections](#video-collections)
-- [Community Resources](#community-resources)
-- [Blogs](#blogs)
-- [Sample Projects](#sample-projects)
-- [Libraries and Frameworks](#libraries-and-frameworks)
-- [Podcasts and Interviews](#podcasts-and-interviews)
-- [Conferences](#conferences)
-- [User Groups](#user-groups)
 
 ## Books
 

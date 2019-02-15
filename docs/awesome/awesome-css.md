@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 [awesome-link]：https：//github.com/sindresorhus/awesome
 [awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]：https：//travis-ci.org/awesome-css-group/awesome-css
@@ -24,38 +25,11 @@
 <!-- Used for the "back to top" links within the document -->
 <div id="contents"></div>
 
-## Table of Contents
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
-- [CSS Working Group](#css-working-group)
-  - [Editor's Draft :black_nib:](#editors-draft-black_nib)
-- [Parser :mag:](#parser-mag)
-- [Preprocessors :pill:](#preprocessors-pill)
-- [Frameworks :art:](#frameworks-art)
-- [Toolkits :wrench:](#toolkits-wrench)
-- [CSS Structure](#css-structure)
-- [Reset and Normalize](#reset-and-normalize)
-- [CSS Development at Large-Scale Websites](#css-development-at-large-scale-websites)
-- [Code Style Guidelines :book:](#code-style-guidelines-book)
-- [Style Guide](#style-guide)
-- [Style Guide Generators :slot_machine:](#style-guide-generators-slot_machine)
-- [Naming conventions & Methodologies :bulb:](#naming-conventions--methodologies-bulb)
-- [CSS in JS](#css-in-js)
-- [CSS Polyfills](#css-polyfills)
-- [Miscellaneous](#miscellaneous)
-- [Podcasts :radio:](#podcasts-radio)
-- [Twitter :satellite:](#twitter-satellite)
-- [Videos :tv:](#videos-tv)
-  - [2016](#2016)
-  - [2015](#2015)
-- [Books :books:](#books-books)
-- [Tutorials :clapper:](#tutorials-clapper)
-- [Maintainers](#maintainers)
-- [Contribute](#contribute)
-- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -110,7 +84,7 @@
 * [Pure.css](http://purecss.io/) - 一组可在每个Web项目中使用的小型响应式CSS模块.
 * [Semantic UI](http://semantic-ui.com/) - 强大的框架，使用人性化的HTML.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - 轻量级，响应迅速且现代的CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) - 一组常用的flexbox实用程序，专注于通过嵌套的flexbox使您的生活更轻松，更快捷.
+* [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
 * [Tachyons](http://tachyons.io/) - 人类功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) - 用于平面设计零技能的假人的CSS框架.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) - 用于快速UI开发的实用程序优先CSS框架.
@@ -274,7 +248,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Shop Talk Show](http://shoptalkshow.com/) - 与Chris Coyier和Dave Rupert一起关于前端网页设计，开发和用户体验的现场播客.
 * [Style Guide Podcast](http://styleguides.io/podcast/index.html) - 由Anna Debenham和Brad Frost主持的一小部分风格指南访谈.
-* [The Big Web Show](http://5by5.tv/bigwebshow/)   - 网络出版，艺术指导，内容策略，排版，网络技术等主题.  重要的是网络.
 * [The Web Ahead](http://5by5.tv/webahead/) - 与世界专家就改变技术和网络未来进行对话.
 * [Non Breaking Space Show](http://goodstuff.fm/nbsp) - 在数字艺术，设计和开发方面寻找最优秀，最聪明，最聪明的创意人才.
 * [The Changelog](https://changelog.com/)   -  Changelog的标语说明了一切：“开源快速移动.  请继续.“这个播客和随附的博客，都是为了让您了解最新的开源技术.
@@ -325,7 +298,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Connor Sears](https://twitter.com/connors) -  GitHub的设计师.
 * [Remy Sharp](https://twitter.com/rem) - 所有关于CSS尺寸单位.
 * [Jonathan Snook](https://twitter.com/snookca)   - 设计师，开发人员，作家，演讲者.  我在网上制作东西.  我写过SMACSS.
-* [Rachel Andrew](https://twitter.com/rachelandrew) - Web Developer, half of @grabaperch CMS, CSS Working Group Invited Expert.
+* [Rachel Andrew](https://twitter.com/rachelandrew) -  Web Developer，一半@grabaperch CMS，CSS工作组邀请专家.
 
 <sub>[⇧ back to top](#contents)</sub>
 

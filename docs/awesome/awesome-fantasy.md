@@ -1,23 +1,13 @@
+<div class="github-widget" data-repo="RichardLitt/awesome-fantasy"></div>
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Fantasy literature worth reading
+&gt;幻想文学值得一读
 
 *灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  对于科幻小说，请参阅 [awesome-scifi](https://github.com/sindresorhus/awesome-scifi).*
 
 *请阅读 [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) 在贡献之前.*
 
-## Contents
 
-- [Novels](#novels)
-  - [Epic Fantasy](#epic-fantasy)
-  - [Standard Fantasy](#standard-fantasy)
-  - [Allegory](#allegory)
-  - [Satire](#satire)
-  - [Horror](#horror)
-  - [Children's Books](#childrens-books)
-- [Comic books](#comic-books)
-- [Movies](#movies)
-- [TV Series](#tv-series)
 
 ## Novels
 
@@ -61,7 +51,7 @@ Books:
 
 #### [Children of Húrin](http://www.goodreads.com/book/show/821431.The_Children_of_H_rin) *by [J.R.R. Tolkien](https://en.wikipedia.org/wiki/J._R._R._Tolkien)* [3.9]
 
- 指环王是一个任务;  霍比特人是一个孩子的故事;  Silmarillion是一个历史.  这是为数不多的小说之一，一个展示折磨个人生活的故事.  这个故事大量借鉴了斯堪的纳维亚的传说，并将都灵作为托尔金创作中最悲惨的故事之一.  这是我最喜欢的所有书籍中的故事，我认为它对中土世界的整体世界有着最先进和美丽的外观.   -  [@RichardLitt](https://github.com/RichardLitt)
+The Lord of the Rings is a quest; the Hobbit a children's tale; the Silmarillion a history. This is one of the few novels, a story that shows the life of a tortured individual. This story borrows heavily from Scandinavian lore, and presents Turin as one of the most tragic of all of Tolkien's creations. It is my favourite story from all of his books, and I think it has the most advanced and beautiful look into the world of Middle Earth as a whole. - [@RichardLitt](https://github.com/RichardLitt)
 
 &gt;“指环王”之前有很多关于中土世界的故事，本书讲述的故事发生在西部灰色避风港之外的伟大国家：Treebeard曾经走过的地方，但是淹没在结束了世界第一时代的大灾难中.
 > 
@@ -73,7 +63,7 @@ Books:
 
 #### [The Deed of Paksenarrion](https://www.goodreads.com/book/show/96281.The_Deed_of_Paksenarrion) *by [Elizabeth Moon](https://en.wikipedia.org/wiki/Elizabeth_Moon)* [4.3]
 
-This omnibus edition of 3 books describes the origin and deeds of a female Paladin named Paksenarrion. The Deed of Paksenarrion contemplates justice, true courage and the forces of good and evil in a way that is refreshing. I don't think I ever really understood the fantasy class of Paladin until reading this either, Elizabeth Moon's depiction will now forever be my etched on my brain as what a Paladin is.
+ 这本3本书的综合版描述了一位名叫Paksenarrion的女性圣骑士的起源和行为.  Paksenarrion的契约以一种令人耳目一新的方式思考正义，真正的勇气以及善恶的力量.  我不认为我曾经真正理解圣骑士的幻想课程，直到读到这个，伊丽莎白月亮的描绘现在将永远是我蚀刻在我的大脑上的圣骑士.
 
  它具有包括矮人和精灵在内的高级幻想的所有常见服饰，但真正突出的是性别平衡和女性角色.  在整本书中，女性受到平等的尊重，而Paksenarrion则培养出一种勇敢，头脑强大，忠诚的品格，这种品质引人入胜，令人信服.   -  [@samueljseay](https://github.com/samueljseay)
 
@@ -360,7 +350,7 @@ Books:
 
  一个非常好的孩子的故事.  我们所知道的定义了现代幻想.   -  [@RichardLitt](https://github.com/RichardLitt)
 
-> In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.
+ &gt;在地上的一个洞里住着一个霍比特人.  不是一个令人讨厌的，肮脏的，潮湿的洞，充满了蠕虫的末端和一种臭味，还没有一个干燥，光秃秃的沙质洞，里面没有东西可以坐下或吃东西：它是一个霍比特洞，那个意味着舒适.
 作为JRR Tolkien自己的孩子写的，霍比特人在1937年首次出版时获得了一致的评论.现在被认为是永恒的经典，这是对霍比特人Bilbo Baggins，巫师甘道夫，咕噜以及壮观的中间世界的介绍.地球上讲述了一个不情愿的英雄，一个强大而危险的戒指，以及残酷的巨龙史矛革历险记.
 
 #### [Jirel of Joiry](https://www.goodreads.com/book/show/941226.Jirel_of_Joiry) (1934) *by [C. L. Moore](https://en.wikipedia.org/wiki/C._L._Moore)* [3.78]
@@ -409,7 +399,7 @@ Books:
 
  我每年至少读过一次这本书.  这个故事讲得很好，很容易接近，有很多宝石，而且是一次很好的旅行.   -  [@RichardLitt](https://github.com/RichardLitt)
 
- &gt;一个十几岁的年轻人从我们的世界被运送到一个包含七层现实的神奇境界.  很快就被魔法变成了一个英雄般成熟的男人，他取名为Able并开始寻找已经许诺给他的剑，他将从龙身上获得一把剑，一把非常特别的剑将帮助他实现成为骑士和真正英雄的人生抱负.  然而，在内部，Able仍然是一个男孩，他必须在各种意义上成长，以生存在与巨人，精灵，巫师和龙相遇时面临的危险和喜悦.  他的冒险将在向导骑士，巫师的第二卷中结束.  通过这个新系列，沃尔夫不仅超越了过去三十年中所有最受欢迎的流派作家，他还接受了上个世纪的传说，这一作品将与JRR Tolkien，ER Eddison，Mervyn的最佳作品相媲美.皮克和TH怀特.  这是一本书 - 和一系列 - 适合各个时代，也许是幻想类型中（或外部）最伟大的作家.
+> A young man in his teens is transported from our world to a magical realm that contains seven levels of reality. Very quickly transformed by magic into a grown man of heroic proportions, he takes the name Able and sets out on a quest to find the sword that has been promised to him, a sword he will get from a dragon, the one very special blade that will help him fulfill his life ambition to become a knight and a true hero. Inside, however, Able remains a boy, and he must grow in every sense to survive the dangers and delights that lie ahead in encounters with giants, elves, wizards, and dragons. His adventure will conclude in the second volume of The Wizard Knight, The Wizard. With this new series, Wolfe not only surpasses all the most popular genre writers of the last three decades, he takes on the legends of the past century, in a work that will be favorably compared with the best of J. R. R. Tolkien, E. R. Eddison, Mervyn Peake, and T. H. White. This is a book---and a series---for the ages, from perhaps the greatest living writer in (or outside) the fantasy genre.
 
 ### Allegory
 
@@ -430,7 +420,7 @@ Books:
 
  这是一本奇怪的，奇怪的书，就像_Phantastes_一样.  乔治·麦克唐纳（George MacDonald）有一份礼物可以写出基本上没有图画的书籍，这些书籍可以通过奇妙的境  但他们从来没有变得无趣.  他们也是很多后来作家的灵感来源，最着名的是CS刘易斯，很容易理解为什么.  值得一读.   -  [@RichardLitt](https://github.com/RichardLitt)
 
-> This book is hard to describe. It is a long wandering fantasy, about a man on a quest. It is very similar to Phantastes in that regard.
+ &gt;这本书很难描述.  这是一个漫长的流浪幻想，关于一个人的追求.  在这方面它与Phantastes非常相似.
 
 #### [Phantastes](http://www.goodreads.com/book/show/174948.Phantastes) *by [George MacDonald](https://en.wikipedia.org/wiki/George_MacDonald)* [4.0]
 
@@ -491,7 +481,7 @@ Books:
 
  如果没有HP Lovecraft，恐怖将不会是现在的样子.  他催生了一个奇怪的外星人和心理威胁的整个子类型;  本书中的一些故事非常好，当我想起它们时，我仍然不寒而栗.  工作大师.   -  [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;来自HP Lovecraft的无与伦比的小说选择，美国恐怖故事大师
+> An unparalleled selection of fiction from H. P. Lovecraft, master of the American horror tale
 >  
  &gt;在他去世很久之后，HP Lovecraft继续以疯狂和宇宙恐怖的令人抓狂的故事吸引读者，他继续感受到他对现代恐怖小说的影响 - 斯蒂芬金，安妮赖斯和克莱夫巴克都承认了他的影响力.  他对美国文学的独特贡献是将坡的传统超自然主义与新兴的科幻小说融合在一起.  Lovecraft的作品最初出现在二十世纪二十年代和三十年代的古怪故事等纸浆杂志中，现在被认为是二十世纪最重要的超自然小说.
 >  
@@ -513,7 +503,7 @@ Books:
 
  一个色彩缤纷，有趣，温暖的承担能够改变过去的后果.  描述这部漫画的最佳词汇令人愉快.   -  [@sunrein](https://github.com/sunrein)
 
- &gt;凯蒂非常好.  她是一位才华横溢的年轻厨师，她经营着一家成功的餐厅，她有很大的计划要开一家更好的餐厅.  然后，一下子，新地点的进展陷入困境，她迷人的前男友突然出现，她与另一名厨师的混蛋变坏了，她最好的女服务员受到严重伤害.  就这样，凯蒂的生活从非常好到不那么好.  她需要的是第二次机会.  毕竟，每个人都应该得到一个 - 但他们并不容易.  幸运的是，对于凯蒂来说，一个神秘的女孩出现在半夜，只是简单地指示一下自己做的事情：
+> Katie’s got it pretty good. She’s a talented young chef, she runs a successful restaurant, and she has big plans to open an even better one. Then, all at once, progress on the new location bogs down, her charming ex-boyfriend pops up, her fling with another chef goes sour, and her best waitress gets badly hurt. And just like that, Katie’s life goes from pretty good to not so much. What she needs is a second chance. Everybody deserves one, after all—but they don’t come easy. Luckily for Katie, a mysterious girl appears in the middle of the night with simple instructions for a do-it-yourself do-over:
 >  
 &gt; 1.写下你的错误
 &gt; 2.摄取一个蘑菇
@@ -534,7 +524,7 @@ Books:
 
 #### [Highlander](http://www.imdb.com/title/tt0091203/) [7.2]
 
-This is an awesomely atrocious film. The only thing that is awesome about it is how amazingly poorly done everything is, and yet how it still is extremely entertaining. A must. - [@RichardLitt](https://github.com/RichardLitt)
+ 这是一部令人敬畏的残酷电影.  关于它的唯一令人敬畏的事情是，一切都是多么令人惊讶地完成，但它仍然是非常有趣的.  必须的.   -  [@RichardLitt](https://github.com/RichardLitt)
 
 &gt;一个不朽的苏格兰剑客必须面对他最后一个不朽的对手，一个残忍的野蛮野蛮人，他们渴望传说中的“奖”.
 
@@ -582,7 +572,7 @@ This is an awesomely atrocious film. The only thing that is awesome about it is 
 
 #### [Avatar: The Last Airbender](http://www.imdb.com/title/tt0417299/) [9.2]
 
-Uhm, the best. It's awesome. Stop what you're doing and go watch it. Now. - [@RichardLitt](https://github.com/RichardLitt)
+ 嗯，最好的.  这很棒.  停止你正在做的事情并去看它.  现在.   -  [@RichardLitt](https://github.com/RichardLitt)
 
 &gt;在一个饱受战争蹂躏的元素魔法世界中，一个小男孩重新唤醒，进行一次危险的神秘探索，以实现他作为阿凡达的命运.
 

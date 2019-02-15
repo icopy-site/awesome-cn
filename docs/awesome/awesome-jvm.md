@@ -1,27 +1,9 @@
+<div class="github-widget" data-repo="deephacks/awesome-jvm"></div>
 ## Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的JVM低级，性能和非框架相关内容的精选列表.
 
-- [Awesome JVM](#awesome-jvm)
-    - [Bytecode](#bytecode)
-    - [Garbage collectors](#garbage-collectors)
-    - [Load tools](#load-tools)
-    - [Languages](#languages)
-    - [Machine Learning](#machine-learning)
-    - [Memory and Concurrency](#memory-and-concurrency)
-    - [Metaprogramming](#metaprogramming)
-    - [Native](#native)
-    - [Network](#network)
-    - [Nix tools](#nix-tools)
-    - [Profilers](#profilers)
-    - [Runtimes](#runtimes)
-    - [Virtual Machines](#virtual-machines)
-- [Resources](#resources)
     - [Communities](#communities)    
-    - [Documentation](#documentation)
-    - [Media](#media)
-    - [People](#people)
-- [Contributing](#contributing)
 
 
 ## Bytecode
@@ -87,7 +69,7 @@
 
 * [Agera](https://github.com/google/agera) -  Google的Android反应式编程.
 * [Agrona](https://github.com/real-logic/Agrona) - 构建高性能应用程序时常见的数据结构和实用程序方法库.
-* [Apache Arrow](http://arrow.apache.org/) - 用于柱状内存分析的高性能跨系统数据层.
+* [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
 * [bloofi](https://github.com/lemire/bloofi) - 多维Bloom过滤器的Java实现
 * [Cap’n Proto](https://capnproto.org/) - 疯狂快速的数据交换格式和基于功能的RPC系统.
 * [caffeine](https://github.com/ben-manes/caffeine) -  Java 8的高性能缓存库.
@@ -112,7 +94,7 @@
 * [hppc](https://github.com/carrotsearch/hppc) - 高性能原始集合.
 * [injector](https://github.com/belliottsmith/injector) - 一个新的Java Executor.
 * [java-concurrent-hash-trie-map](https://github.com/romix/java-concurrent-hash-trie-map) - 来自Scala集合的并发trie哈希映射实现的Java端口.
-* [java-hll](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
+* [java-hll](https://github.com/aggregateknowledge/java-hll) - 用于HyperLogLog算法的Java库.
 * [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) - 库可以非常快速地压缩和解压缩整数数组.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity) - 字符串相似度和距离度量，包括Levenshtein编辑距离和sibbling，Jaro-Winkler，最长公共子序列，余弦相似度等.
 * [JCTools](http://jctools.github.io/JCTools/) -  JDK目前​​缺少并发数据结构.
@@ -148,7 +130,7 @@
 * [Reactor](http://projectreactor.io/) -  JVM for Java，Groovy，Clojure等上的反应性数据应用程序.
 * [RxJava](https://github.com/ReactiveX/RxJava) - 用于使用可观察序列组合异步和基于事件的程序的库.
 * [SmoothieMap](https://github.com/OpenHFT/SmoothieMap) -  java.util.Map impl，最差put延迟比java.util.HashMap小100多倍.
-* [Simple Binary Encoding](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
+* [Simple Binary Encoding](https://github.com/real-logic/simple-binary-encoding) - 高性能消息编解码器.
 * [splitmap](https://github.com/richardstartin/splitmap/) - 并行位图实现.
 * [DataSketches](https://datasketches.github.io/) - 随机流算法的Java软件库.
 * [stormpot](https://github.com/chrisvest/stormpot) -  JVM的快速对象池.
@@ -167,7 +149,7 @@
 
 * [Antlr](http://www.antlr.org/) - 用于读取，处理，执行或翻译结构化文本或二进制文件的分析器生成器.
 * [auto](https://github.com/google/auto) -  Java的源代码生成器集合.
-* [Apache Calcite](http://calcite.apache.org/docs/) - 动态数据管理框架和SQL解析器插件.
+* [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [Checker Framework](http://types.cs.washington.edu/checker-framework/) - 编译器插件，可以发现错误或验证其缺失.
 * [compile-testing](https://github.com/google/compile-testing) -  javac和注释处理器的测试工具.
 * [derive4j](https://github.com/derive4j/derive4j) - 代数数据类型构造函数，模式匹配，态射，光学和类型类.
@@ -238,7 +220,6 @@
 * [ioping](https://github.com/koct9i/ioping) - 简单的磁盘I / 0延迟测量工具.
 * [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - 将类文件反汇编为反映java字节码的代码.
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) -  Java堆分析工具
-* [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - 启动postmortem调试器以分析崩溃的JVM中的核心转储内容.
 * [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - 打印给定进程的配置信息.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - 为给定的Java进程打印线程的堆栈跟踪.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - 监视JVM中的GC和编译器统计信息.
@@ -284,7 +265,7 @@
 * [jHiccup](http://www.azul.com/jhiccup/) -  jHiccup是一个开源工具，旨在测量与应用程序底层Java运行时平台相关的暂停和停顿.
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - 用Java和其他语言编写的针对JVM的微基准测试.
 * [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - 用于比较JMH结果的GUI.
-* [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
+* [JOL](http://openjdk.java.net/projects/code-tools/jol/) - 分析JVM中的实际对象布局方案，占用空间和引用.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - 帮助解决性能瓶颈，确定内存泄漏并了解线程问题.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - 提供本机API以检查状态并控制在JVM中运行的应用程序的执行.
 * [jvmtop](https://github.com/patric-r/jvmtop) - 轻量级控制台应用程序，以最顶级的方式监视机器上运行的jvms.
@@ -332,7 +313,7 @@
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)   - 用于iOS本机开发的C源转换器的开源Java字节码.  设计作为一部分 [Codename One](https://www.codenameone.com/) WORA为移动项目.
 * [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - 提前针对iOS，Mac OSX和Linux的JVM字节码编译器.
 * [Zing](https://www.azul.com/products/zing/) - 唯一可以消除大型堆大小的Java垃圾收集暂停的JVM.
-* [Zulu](https://www.azul.com/products/zulu/) - 唯一经过认证的OpenJDK多平台版本：免费，100％开源Java.
+* [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
 
 ## Resources
 
@@ -388,7 +369,7 @@
 * [How NOT to Measure Latency](https://www.youtube.com/watch?v=lJ8ydIuPFeU) -  Gil Tene.
 * [JVM Language Summit 2015](http://openjdk.java.net/projects/mlvm/jvmlangsummit/) -  2015年JVM语言峰会.
 * [JVM Language Summit 2016](https://www.youtube.com/playlist?list=PLX8CzqL3ArzUY6rQAQTwI_jKvqJxrRrP_) -  2016年JVM语言峰会.
-* [JVM Language Summit 2017](https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n) - JVM Language Summit 2017.
+* [JVM Language Summit 2017](https://www.youtube.com/playlist?list=PLX8CzqL3ArzXJ2EGftrmz4SzS6NRr6p2n) -  2017年JVM语言峰会.
 * [Bits of advice for VM writers](https://www.youtube.com/watch?v=vzzABBxo44g) - 悬崖点击.
 * [Understanding Java garbage collection ...](https://www.youtube.com/watch?v=_e5hujoTkgY) -  Gil Tene.
 * [Faster Object Arrays](https://www.youtube.com/watch?v=bZuPTCaciLU) -  GOTO会议上的Gil Tene.
@@ -429,7 +410,7 @@
 * [Dávid Karnok](http://akarnokd.blogspot.se/) - 关于高级RxJava博客的RxJava提交者.
 * [Doug Lea](http://g.oswego.edu/) -  Java内存模型的作者.
 * [Gil Tene](https://twitter.com/giltene) -  Azul Systems.
-* [Heinz Kabutz](https://twitter.com/heinzkabutz) -  250多位Java专家通讯的作者.
+* [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
 * [Ivan Krylov](https://twitter.com/JohnWings) -  JVM专家.
 * [Jake Wharton](https://twitter.com/JakeWharton) -  Square，谷歌，开源黑客.
 * [John Rose](https://blogs.oracle.com/jrose/) -  HotSpot开发人员.

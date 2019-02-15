@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="paragonie/awesome-appsec"></div>
 ## Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  用于了解应用程序安全性的精选资源列表.  包含书籍，
@@ -18,14 +19,11 @@ have [other community projects](https://paragonie.com/projects) 可能是
 ## Application Security Learning Resources
 
 
-  * [General](#general)
-    * [Articles](#articles)
       * [How to Safely Generate a Random Number](#how-to-safely-generate-a-random-number-2014) (2014)
       * [Salted Password Hashing - Doing it Right](#salted-password-hashing-doing-it-right-2014) (2014)
       * [A good idea with bad usage: /dev/urandom](#a-good-idea-with-bad-usage-devurandom-2014) (2014)
       * [Why Invest in Application Security?](#why-invest-in-application-security-2015) (2015)
       * [Be wary of one-time pads and other crypto unicorns](#be-wary-of-one-time-pads-and-other-crypto-unicorns-2015) (2015)
-    * [Books](#books)
       * [Web Application Hacker's Handbook](https://github.com/paragonie/awesome-appsec/blob/master/#-web-application-hackers-handbook-2011) (2011) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
       * [Cryptography Engineering](https://github.com/paragonie/awesome-appsec/blob/master/#-cryptography-engineering-2010) (2010) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
       * [Securing DevOps](https://github.com/paragonie/awesome-appsec/blob/master/#-securing-devops-2018) (2018) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
@@ -45,64 +43,19 @@ have [other community projects](https://paragonie.com/projects) 可能是
       * [Security Engineering - Second Edition](#security-engineering-second-edition-2008) (2008)
       * [Bulletproof SSL and TLS](https://github.com/paragonie/awesome-appsec/blob/master/#-bulletproof-ssl-and-tls-2014) (2014) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
       * [Holistic Info-Sec for Web Developers (Fascicle 0)](#holistic-info-sec-for-web-developers-fascicle-0-2016) (2016)
-      * [Holistic Info-Sec for Web Developers (Fascicle 1)](#holistic-info-sec-for-web-developers-fascicle-1)
-    * [Classes](#classes)
-      * [Offensive Computer Security (CIS 4930) FSU](#offensive-computer-security-cis-4930-fsu)
-      * [Hack Night](#hack-night)
-    * [Websites](#websites)
-      * [Hack This Site!](#hack-this-site)
-      * [Enigma Group](#enigma-group)
-      * [Web App Sec Quiz](#web-app-sec-quiz)
-      * [SecurePasswords.info](#securepasswords-info)
-      * [Security News Feeds Cheat-Sheet](#security-news-feeds-cheat-sheet)
-      * [Open Security Training](#open-security-training)
-      * [MicroCorruption](#microcorruption)
-      * [The Matasano Crypto Challenges](#the-matasano-crypto-challenges)
-      * [PentesterLab](#pentesterlab)
-      * [Juice Shop](#juice-shop)
-      * [Supercar Showdown](#supercar-showdown)
-      * [OWASP NodeGoat](#owasp-nodegoat)
-      * [Blogs](#blogs)
-        * [Crypto Fails](#crypto-fails)
-        * [NCC Group - Blog](#ncc-group-blog)
-        * [Scott Helme](#scott-helme)
         * [Cossack Labs blog](#cossack-labs-blog-2018) (2018)
-      * [Wiki pages](#wiki-pages)
-        * [OWASP Top Ten Project](#owasp-top-ten-project)
-      * [Tools](#tools)
-        * [Qualys SSL Labs](#qualys-ssl-labs)
-        * [securityheaders.io](#securityheaders-io)
-        * [report-uri.io](#report-uri-io)
-  * [Android](#android)
-    * [Books and ebooks](#books-and-ebooks)
       * [SEI CERT Android Secure Coding Standard](#sei-cert-android-secure-coding-standard-2015) (2015)
-  * [C](#c)
-    * [Books and ebooks](#books-and-ebooks-1)
       * [SEI CERT C Coding Standard](#sei-cert-c-coding-standard-2006) (2006)
       * [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](#defensive-coding-a-guide-to-improving-software-security-by-the-fedora-security-team-2018) (2018)
-  * [C++](#c-1)
-    * [Books and ebooks](#books-and-ebooks-2)
       * [SEI CERT C++ Coding Standard](#sei-cert-c-coding-standard-2006-1) (2006)
-  * [C Sharp](#c-sharp)
-    * [Books and ebooks](#books-and-ebooks-3)
       * [Security Driven .NET](https://github.com/paragonie/awesome-appsec/blob/master/#-security-driven-net-2015) (2015) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
-  * [Go](#go)
-    * [Articles](#articles-1)
       * [Memory Security in Go - cryptolosophy.io](#memory-security-in-go-cryptolosophy-io-2017) (2017)
-  * [Java](#java)
-    * [Books and ebooks](#books-and-ebooks-4)
       * [SEI CERT Java Coding Standard](#sei-cert-java-coding-standard-2007) (2007)
       * [Secure Coding Guidelines for Java SE](#secure-coding-guidelines-for-java-se-2014) (2014)
-  * [Node.js](#node-js)
-    * [Articles](#articles-2)
       * [Node.js Security Checklist - Rising Stack Blog](#node-js-security-checklist-rising-stack-blog-2015) (2015)
-    * [Books and ebooks](#books-and-ebooks-5)
       * [Essential Node.js Security](https://github.com/paragonie/awesome-appsec/blob/master/#-essential-node-js-security-2017) (2017) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
-    * [Training](#training)
       * [Security Training by ^Lift Security](https://github.com/paragonie/awesome-appsec/blob/master/#-security-training-by-lift-security) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
       * [Security Training from BinaryMist](https://github.com/paragonie/awesome-appsec/blob/master/#-security-training-from-binarymist) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
-  * [PHP](#php)
-    * [Articles](#articles-3)
       * [It's All About Time](#its-all-about-time-2014) (2014)
       * [Secure Authentication in PHP with Long-Term Persistence](#secure-authentication-in-php-with-long-term-persistence-2015) (2015)
       * [20 Point List For Preventing Cross-Site Scripting In PHP](#20-point-list-for-preventing-cross-site-scripting-in-php-2013) (2013)
@@ -112,37 +65,11 @@ have [other community projects](https://paragonie.com/projects) 可能是
       * [You Wouldn't Base64 a Password - Cryptography Decoded](#you-wouldnt-base64-a-password-cryptography-decoded-2015) (2015)
       * [A Guide to Secure Data Encryption in PHP Applications](#a-guide-to-secure-data-encryption-in-php-applications-2015) (2015)
       * [The 2018 Guide to Building Secure PHP Software](#the-2018-guide-to-building-secure-php-software-2017) (2017)
-    * [Books and ebooks](#books-and-ebooks-6)
       * [Securing PHP: Core Concepts](https://github.com/paragonie/awesome-appsec/blob/master/#-securing-php-core-concepts) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
-      * [Using Libsodium in PHP Projects](#using-libsodium-in-php-projects)
-    * [Useful libraries](#useful-libraries)
-      * [defuse/php-encryption](#defusephp-encryption)
-      * [ircmaxell/password_compat](#ircmaxellpassword-compat)
-      * [ircmaxell/RandomLib](#ircmaxellrandomlib)
-      * [thephpleague/oauth2-server](#thephpleagueoauth2-server)
-      * [paragonie/random_compat](#paragonierandom-compat)
-      * [psecio/gatekeeper](#pseciogatekeeper)
-      * [openwall/phpass](#openwallphpass)
-    * [Websites](#websites-1)
-      * [websec.io](#websec-io)
-      * [Blogs](#blogs-1)
-        * [Paragon Initiative Enterprises Blog](#paragon-initiative-enterprises-blog)
-        * [ircmaxell's blog](#ircmaxells-blog)
-        * [Pádraic Brady's Blog](#p%C3%A1draic-bradys-blog)
-      * [Mailing lists](#mailing-lists)
-        * [Securing PHP Weekly](#securing-php-weekly)
-  * [Perl](#perl)
-    * [Books and ebooks](#books-and-ebooks-7)
       * [SEI CERT Perl Coding Standard](#sei-cert-perl-coding-standard-2011) (2011)
-  * [Python](#python)
-    * [Books and ebooks](#books-and-ebooks-8)
-      * [Python chapter of Fedora Defensive Coding Guide](#python-chapter-of-fedora-defensive-coding-guide)
       * [Black Hat Python: Python Programming for Hackers and Pentesters](https://github.com/paragonie/awesome-appsec/blob/master/#-black-hat-python-python-programming-for-hackers-and-pentesters) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
       * [Violent Python](https://github.com/paragonie/awesome-appsec/blob/master/#-violent-python) ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png)
-    * [Websites](#websites-2)
       * [OWASP Python Security Wiki](#owasp-python-security-wiki-2014) (2014)
-  * [Ruby](#ruby)
-    * [Books and ebooks](#books-and-ebooks-9)
       * [Secure Ruby Development Guide](#secure-ruby-development-guide-2014) (2014)
 
 
@@ -186,91 +113,76 @@ have [other community projects](https://paragonie.com/projects) 可能是
 
 ## Books
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Web Application Hacker's Handbook](http://mdsec.net/wahh) (2011)
 
 **发布**：2011年9月27日
 
  Web应用程序安全性的精彩介绍;  虽然有点过时了.
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Cryptography Engineering](http://www.amazon.com/Cryptography-Engineering-Principles-Practical-Applications/dp/0470474246) (2010)
 
 **发布**：2010年3月15日
 
 在展示加密设计技巧的同时，培养一种专业的偏执感.
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Securing DevOps](https://www.manning.com/books/securing-devops?a_aid=securingdevops&a_bid=1353bcd8) (2018)
 
 **发布**：2018年3月1日
 
  保护DevOps探索如何应用DevOps和Security技术以使云服务更安全.  这本介绍性书籍回顾了保护Web应用程序及其基础结构所使用的最新实践，并教您如何将安全性直接集成到您的产品中.
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Gray Hat Python: Programming for Hackers and Reverse Engineers](http://www.amazon.com/Gray-Hat-Python-Programming-Engineers/dp/1593271921) (2009)
 
 **发布**：2009年5月3日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities](http://www.amazon.com/The-Software-Security-Assessment-Vulnerabilities/dp/0321444426/) (2006)
 
 **发布**：2006年11月30日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [C Interfaces and Implementations: Techniques for Creating Reusable Software](http://www.amazon.com/Interfaces-Implementations-Techniques-Creating-Reusable/dp/0201498413/) (1996)
 
 **发布**：1996年8月30日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Reversing: Secrets of Reverse Engineering](http://www.amazon.com/Reversing-Secrets-Engineering-Eldad-Eilam/dp/0764574817) (2005)
 
 **发布**：2005年4月15日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [JavaScript: The Good parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742) (2008)
 
 **发布**：2008年5月1日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Windows Internals: Including Windows Server 2008 and Windows Vista, Fifth Edition ](http://www.amazon.com/Windows%C2%AE-Internals-Including-Developer-Reference/dp/0735625301) (2007)
 
 **发布**：2007年6月17日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [The Mac Hacker's Handbook](http://www.amazon.com/The-Hackers-Handbook-Charlie-Miller/dp/0470395362) (2009)
 
 **发布**：2009年3月3日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [The IDA Pro Book: The Unofficial Guide to the World's Most Popular Disassembler](http://www.amazon.com/The-IDA-Pro-Book-Disassembler/dp/1593271786) (2008)
 
 **发布**：2008年8月22日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Internetworking with TCP/IP Vol. II: ANSI C Version: Design, Implementation, and Internals (3rd Edition)](http://www.amazon.com/Internetworking-TCP-Vol-Implementation-Internals/dp/0139738436) (1998)
 
 **发布**：1998年6月25日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Network Algorithmics,: An Interdisciplinary Approach to Designing Fast Networked Devices](http://www.amazon.com/Network-Algorithmics-Interdisciplinary-Designing-Networking/dp/0120884771) (2004)
 
 **发布**：2004年12月29日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Computation Structures (MIT Electrical Engineering and Computer Science)](http://www.amazon.com/Computation-Structures-Electrical-Engineering-Computer/dp/0262231395) (1989)
 
 **发布**：1989年12月13日
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Surreptitious Software: Obfuscation, Watermarking, and Tamperproofing for Software Protection](http://www.amazon.com/Surreptitious-Software-Obfuscation-Watermarking-Tamperproofing/dp/0321549252) (2009)
 
 **发布**：2009年8月3日
 
@@ -288,7 +200,6 @@ have [other community projects](https://paragonie.com/projects) 可能是
 
 
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Bulletproof SSL and TLS](https://www.feistyduck.com/books/bulletproof-ssl-and-tls/) (2014)
 
 **发布**：2014年8月1日
 
@@ -382,7 +293,7 @@ NCC集团的博客，前身为Matasano，iSEC Partners和NGS Secure.
 
 #### [Cossack Labs blog](https://www.cossacklabs.com/blog-archive/) (2018)
 
-**Released**: July 30, 2018
+**发布**：2018年7月30日
 
 加密公司的博客，它提供开源库和工具，并描述了应用程序和基础架构的实用数据安全方法.
 
@@ -428,7 +339,7 @@ Web应用程序中发现的十大最常见和最重要的安全漏洞.
 
 ### [Defensive Coding: A Guide to Improving Software Security by the Fedora Security Team](https://docs.fedoraproject.org/en-US/Fedora_Security_Team/1/html/Defensive_Coding/index.html) (2018)
 
-**Released**: July 30, 2018
+**发布**：2018年7月30日
 
  提供通过安全编码提高软件安全性的指南.  涵盖常见的编程语言和库，并侧重于具体的建议.
 
@@ -446,7 +357,6 @@ Web应用程序中发现的十大最常见和最重要的安全漏洞.
 
 ## Books and ebooks
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Security Driven .NET](http://securitydriven.net/) (2015)
 
 **发布**：2015年7月14日
 
@@ -490,7 +400,6 @@ Web应用程序中发现的十大最常见和最重要的安全漏洞.
 
 ## Books and ebooks
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Essential Node.js Security](https://leanpub.com/nodejssecurity) (2017)
 
 **发布**：2017年7月19日
 
@@ -498,11 +407,9 @@ Web应用程序中发现的十大最常见和最重要的安全漏洞.
 
 ## Training
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Security Training by ^Lift Security](https://liftsecurity.io/training)
 
 向领导该团队的团队学习 [Node Security Project](https://nodesecurity.io)
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Security Training from BinaryMist](https://blog.binarymist.net/presentations-publications/)
 
  我们运行多种类型的info-sec安全培训，涵盖物理，人员，VPS，网络，云，Web应用程序.  大多数内容来自于 [book series](https://leanpub.com/b/holisticinfosecforwebdevelopers)  Kim已经工作了几年.  可以找到更多信息 [here](https://binarymist.io/#services)
 
@@ -568,7 +475,6 @@ Padriac Brady关于构建不易受XSS攻击的软件的建议
 
 ## Books and ebooks
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts)
 
 *保护PHP：核心概念*作为一些最常见安全术语的指南，并在每天PHP中提供它们的一些示例.
 
@@ -600,7 +506,7 @@ Padriac Brady关于构建不易受XSS攻击的软件的建议
 
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
-一个安全的身份验证和授权库，用于实现基于角色的访问控制和Paragon Initiative Enterprises的推荐 [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
+A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
 ### [openwall/phpass](http://www.openwall.com/phpass/)
 
@@ -650,11 +556,9 @@ PádraicBrady是Zend Framework安全专家
 
 列出应避免使用的标准库功能，并引用其他特定于Python的章节.
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Black Hat Python: Python Programming for Hackers and Pentesters](https://www.nostarch.com/blackhatpython)
 
 来自NoStarch出版社的贾斯汀塞茨的黑帽蟒蛇是一本伟大的进攻性安全思想书
 
-### ![nonfree](https://raw.githubusercontent.com/paragonie/awesome-appsec/master/img/nonfree.png) [Violent Python](http://www.amazon.com/Violent-Python-Cookbook-Penetration-Engineers/dp/1597499579)
 
 Violent Python向您展示了如何从对攻击性计算概念的理论理解转变为实际实现.
 

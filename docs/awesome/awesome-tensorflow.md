@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jtoy/awesome-tensorflow"></div>
 ## Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
  精彩的TensorFlow实验，库和项目的精选列表.  受到令人敬畏的机器学习的启发.
@@ -10,18 +11,8 @@
 
 
 
-## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
-- [Tutorials](#github-tutorials)
-- [Models/Projects](#github-projects)
-- [Powered by TensorFlow](#github-powered-by)
-- [Libraries](#libraries)
-- [Videos](#video)
-- [Papers](#papers)
-- [Blog posts](#blogs)
-- [Community](#community)
-- [Books](#books)
 
 <!-- /MarkdownTOC -->
 
@@ -36,7 +27,7 @@
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - 适用于初学者的TensorFlow教程和代码示例
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - 使用Jupyter Notebook用Python编写的TensorFlow教程
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - 从其他TensorFlow示例重新创建代码
-* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) -  TensorFlow在Raspberry Pi上正确编译并运行
+* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - 在TensorFlow中使用LSTM对手机传感器数据进行递归神经网络分类
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - 构建您的第一个TensorFlow Android应用程序
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - 学习在简单数据集上使用seq2seq模型，作为该体系结构提供的大量可能性的介绍
@@ -248,4 +239,4 @@
 ## Credits
 
 *一些python库是剪切和粘贴 [vinta](https://github.com/vinta/awesome-python)
-* The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+*少数参考我发现从哪里拉 [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)

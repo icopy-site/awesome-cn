@@ -1,28 +1,19 @@
+<div class="github-widget" data-repo="jbmoelker/progressive-enhancement-resources"></div>
 ## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  关于渐进增强的全面资源集合.  从概念和策略到特征检测和测试方法.  完成（代码）示例列表.
 
 
-## Contents
 
-* [The Concept](#the-concept)
-* [Strategies](#strategies)
-* [Feature Detection](#feature-detection)
-* [Support Tables](#support-tables)
-* [Testing Methods](#testing-methods)
-* [Examples](#examples)
-* [Related Articles](#related-articles)
 
 
 ## The Concept
 
 [Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement)  意味着在验证目标环境（例如浏览器）能够实现之后逐渐改善用户体验.  从内容开始，确保您保持功能和可访问性.
 
-* [Progressive Enhancement: It's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content)   - 共享内容是网络的核心.  渐进增强功能可确保访问内容.
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - 从增强的概念到丰富用户界面的标准和规则.
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - 以层层叠叠的智能方式应用技术，创造出令人惊叹的体验.
 * [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) -  *关于渐进增强的书*（400多页）.
-* [Adaptive Web Design](http://adaptivewebdesign.info/2nd-edition/) - 预订从内容到设计和互动的渐进增强.
 * [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - 通过示例和演示介绍不同的特征检测技术. 
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - 将网站增强为类似本机的应用程序（渐进式，非混合型）.
 
@@ -31,7 +22,6 @@
 
 您可以通过不同方式应用渐进增强：
 
-* [The Content-out Approach](https://articles.uie.com/progressive_enhancement/) - 提供广泛的内容访问，无需技术限制.
 * [Make the page usable with only HTML](https://www.gov.uk/service-manual/technology/using-progressive-enhancement#make-the-page-usable-with-only-html) - 这为每个设备和浏览器设置基线.
 * [Test Driven Progressive Enhancement](http://alistapart.com/article/testdriven) - 测试功能后，核心功能体验得到增强.
 * [Cut the mustard](http://responsivenews.co.uk/post/18948466399/cutting-the-mustard) - 设置增强功能集合的阈值.
@@ -47,7 +37,7 @@
 
  在尝试增强体验之前，您需要确保环境能够增强.  您可以通过执行功能检测来测试它：
 
-* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)) - Natively test if specific CSS feature is supported using JS method or CSS declaration.
+* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)） - 使用JS方法或CSS声明本地测试是否支持特定的CSS功能.
 * [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) - 检测哪些ES2015功能可用.
 * [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) - 只有当`[requiredFeatures]`求值为true时才渲染SVG元素.
 * [Modernizr](https://modernizr.com/) - 广泛的功能检测套件（支持自定义构建）.
@@ -93,7 +83,6 @@
  通过渐进增强，您可以支持不同环境中的不同体验  这些是测试所有这些变化的一些方法：
 
 * [Open Device Lab](https://opendevicelab.com/) - 让您*在实际设备上手动测试*（免费）.
-* [Text browsers](https://en.wikipedia.org/wiki/Text-based_web_browser)   - 测试您的内容是否可在基线访问的好方法.  尝试 [Lynx](http://lynx.browser.org/) 例如.
 * [Testing in Opera Mini](https://dev.opera.com/articles/making-sites-work-opera-mini/#testing-in-opera-mini)   - 下载应用程序，在桌面上模拟，设置以测试本地网站.  （Opera Mini占全球浏览器使用率的5％以上）
 * [cURL](https://curl.haxx.se/docs/manual.html) - 用于查看页面的预呈现源代码的网页.
 * [Browserling](https://www.browserling.com/) - 允许您在Windows和Android平台上手动测试不同版本浏览器中的网页.
@@ -138,7 +127,6 @@
 
 * [Barba.js](http://barbajs.org/) - 使用事件挂钩，缓存和预取支持添加页面转换.
 * [SmoothState.js](https://github.com/miguel-perez/smoothState.js)   - 使用事件挂钩，缓存和预取支持添加页面转换.  （需要jQuery）.
-* [jquery-pjax](https://github.com/defunkt/jquery-pjax) - 添加页面转换，支持多个容器/内容槽（需要jQuery）.
 * [MoOx/pjax](https://github.com/MoOx/pjax) - 类似于jquery-pjax，但没有jQuery依赖.
 * [Turbolinks](https://github.com/turbolinks/turbolinks)   - 使用事件挂钩和缓存支持添加页面转换.  具有适配器以绑定到iOS和Android上的本机导航控件.
 
@@ -154,6 +142,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Jasper Moelker](https://twitter.com/jbmoelker) 在法律允许的范围内，根据版权法放弃全球范围内对本作品的所有权利，包括所有相关和邻接权利.
+[Jasper Moelker](https://twitter.com/jbmoelker) waives all rights to this work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 您可以复制，修改，分发和执行工作，即使是出于商业目的，也可以不经许可.

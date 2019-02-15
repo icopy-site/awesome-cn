@@ -1,43 +1,10 @@
+<div class="github-widget" data-repo="RichardLitt/awesome-styleguides"></div>
 awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===================
 
 _：clipboard：一个styleguides_列表
 
-## Contents
 
-- [Contributing](#contributing)
-- [How to build a styleguide](#how-to-build-a-styleguide)
-- [Other Styleguide Lists](#other-styleguide-lists)
-- [Styleguides](#styleguides)
-	- [Generic](#generic)
-	- [CSS](#css)
-		- [Sass](#sass)
-	- [C++](#c)
-	- [Shell Script](#shell-script)
-	- [Git](#git)
-	- [HTML](#html)
-	- [Java](#java)
-	- [JavaScript](#javascript)
-		- [AngularJS](#angularjs)
-		- [CoffeeScript](#coffeescript)
-		- [HTTP Design](#http-design)
-		- [JSON](#json)
-		- [jQuery](#jquery)
-		- [Modules](#modules)
-		- [npm](#npm)
-		- [React](#react)
-		- [Riot](#riot)
-	- [Lisp](#lisp)
-	- [Objective-C](#objective-c)
-	- [PHP](#php)
-	- [Python](#python)
-	- [Ruby](#ruby)
-		- [Ruby on Rails](#ruby-on-rails)
-	- [Rust](#rust)
-	- [Swift](#swift)
-- [Non-Code](#non-code)
-	- [Historical](#historical)
-- [License](#license)
 
 
 ## Contributing
@@ -99,7 +66,7 @@ _：clipboard：一个styleguides_列表
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## JavaScript
-* [AirBnB](https://github.com/airbnb/javascript)
+* [Airbnb](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
@@ -149,7 +116,6 @@ _：clipboard：一个styleguides_列表
 * [emacs-lips-style-guide](https://github.com/bbatsov/emacs-lisp-style-guide)
 
 ## Objective-C
-* [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
 * [Futurice iOS Good Practices](https://github.com/futurice/ios-good-practices) -  iOS入门指南和良好做法建议 [@futurice](https://github.com/futurice).
 * [GitHub - Style guide & coding conventions for Swift projects](https://github.com/github/swift-style-guide) @github的Swift风格和约定指南.
 * [GitHub Objective-C Style Guide](https://github.com/github/objective-c-style-guide) -  Objective-C项目的样式指南和编码约定.
@@ -171,7 +137,7 @@ _：clipboard：一个styleguides_列表
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
-* [AirBnB](https://github.com/airbnb/ruby)
+* [Airbnb](https://github.com/airbnb/ruby)
 * [bbatsov](https://github.com/bbatsov/ruby-style-guide)
 * [GitHub](https://github.com/styleguide/ruby) - 基于bbatsov风格指南.
 
@@ -182,6 +148,7 @@ _：clipboard：一个styleguides_列表
 * [aturon](https://aturon.github.io)
 
 ## Swift
+* [Airbnb](https://github.com/airbnb/swift)
 * [GitHub](https://github.com/github/swift-style-guide)
 * [raywenderlich](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc](https://github.com/SlideShareInc/swift-style-guide)

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hackerkid/bots"></div>
 <p align="center">
   <img src="https://raw.githubusercontent.com/hackerkid/bots/master/bots3d.png" />
 </p>
@@ -11,16 +12,6 @@
 目录
 -----------------
 
-- [Platform Documentation](#platform-documentation)
-- [Tools For Building Bots](#tools-for-building-bots)
-- [Tools For Bot Analytics](#tools-for-bot-analytics)
-- [Tools For Bot Conversation Mockups](#tools-for-bot-conversation-mockups)
-- [Libraries](#libraries)
-- [Bot Stores](#bot-stores)
-- [Tutorials](#tutorials)
-- [Communities](#communities)
-- [Developers](#developers)
-- [Testing](#testing)
 
 ## Platform Documentation
 * [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/)

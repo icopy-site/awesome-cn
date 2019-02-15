@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="webpro/awesome-dotfiles"></div>
 ## Awesome dotfiles
 
  精选的dotfiles资源列表.  灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
@@ -113,7 +114,6 @@
 * [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) -  Rob Pike如何产生“隐藏”或“点”文件的想法.
 * [dotfiles.github.io](http://dotfiles.github.io) - 你在GitHub上关于dotfiles的非官方指南.
 * [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - 开始的伟大工作的集中地点 [@mathiasbynens on .macos](https://github.com/mathiasbynens/dotfiles#sensible-macos-defaults).
-* [Filesystem Hierarchy Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard) -  Linux发行版中的目录结构和目录内容.
 * [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html) - [Summary](https://wiki.archlinux.org/index.php/XDG_Base_Directory)
 
 ## Related Lists

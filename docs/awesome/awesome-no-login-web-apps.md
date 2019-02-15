@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="aviaryan/awesome-no-login-web-apps"></div>
 ## Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -18,31 +19,7 @@
  *此处提到的大多数应用程序都提供某种用户帐户功能来保存历史记录和进度.  但如前所述，用户帐户不必使用这些应用程序的主要功能. 
 
 
-## Contents
 
-* [Audio and Video](#audio-and-video)
-* [Business and Finance](#business-and-finance)
-* [Communication](#communication)
-* [Document editors](#document-editors)
-	* [Latex](#latex)
-	* [Markdown](#markdown)
-	* [Others](#doc-eds-others)
-* [Drawing](#drawing)
-* [File Converters](#file-converters)
-* [File Hosting/Sharing](#file-hostingsharing)
-* [Games](#games)
-* [Graphics, Image and Design](#graphics-image-and-design)
-* [Internet Downloaders](#internet-downloaders)
-* [Music, Radio and Podcasts](#music-radio-and-podcasts)
-* [Notepads and Notebooks](#notepads-and-notebooks)
-* [Privacy, Security and Cryptography](#privacy-security-and-cryptography)
-* [Programming Editors and IDEs](#programming-editors-and-ides)
-* [Programming Tools](#programming-tools)
-* [Search Engines](#search-engines)
-* [Study and Education](#study-and-education)
-* [Text based tools](#text-tools)
-* [Utilities (uncategorized)](#utilities)
-* [Miscellaneous](#miscellaneous)
 
 
 ### Audio and Video
@@ -137,7 +114,7 @@
 * [RGhost](http://rgho.st/) - 文件托管服务，Max限制100mb无需登录.
 * [ImgSafe](https://imgsafe.org/) - 图像托管服务与小直接链接.
 * [Clyp](https://clyp.it/) - 无限制的音频共享，丰富的API.
-* [SendVid](https://sendvid.com/) - Video hosting service.
+* [SendVid](https://sendvid.com/) - 视频托管服务.
 * [Archive.org](https://archive.org/) `[帐户]` - 任何类型的无限文件托管，带宽和上传大小没有限制.
 * [imgh](https://imgh.us/)   - 图像托管服务.  支持所有主要格式.  文件大小限制为16mb.
 * [MultCloud](https://www.multcloud.com/home)   - 云服务，用于在多个云服务之间管理，移动，复制和迁移数据.  支持所有主要的云服务.  无需注册，2TB云存储，直接将大文件下载到云端，没有大小限制.
@@ -326,14 +303,13 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [is.gd](https://is.gd/) - 将缩短器与自定义URL和开放API（无令牌）链接起来.
 * [Bitly](https://bitly.com/) - 使用REST API强大的URL缩短器.
 * [Superbetize](http://superbetize.com/) - 分类您的购物清单.
-* [isup.me](http://isup.me/) - 检查网站是否仅供您或其他人使用.
+* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
 * [Dictation.io](https://dictation.io/) - 支持大量语言的在线语音听写软件.
 * [unfurlr](http://unfurlr.com/) - 检查隐藏在缩短链接后面的URL.
 * [followupthen](https://www.followupthen.com/) - 设置电子邮件提醒的最简单方法.
 * [lmgtfy](http://lmgtfy.com/) - 当你的朋友懒得自己使用谷歌时.
 * [IFTTT](https://ifttt.com/)  `[帐号]` - 在您喜欢的在线服务之间建立连接.  例如，如果需要在twitter上发布他们的instagrams作为本机照片，那么IFTTT可以派上用场.
 * [AlarmDJ](https://alarmdj.com) - 在线闹钟，使用MP3文件和YouTube视频作为闹钟.
-* [Edubirdie](https://edubirdie.com/plagiarism-checker) - 在线抄袭检查程序，提供将我们的内容与在线资源进行比较的相似性百分比.
 
 -----
 

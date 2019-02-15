@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="nirgn975/awesome-drupal"></div>
 ## Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
@@ -7,18 +8,7 @@
 你可能还喜欢 [awesome-php](https://github.com/ziadoz/awesome-php).
 
 
-## Contents
 
-- [Tools](#tools)
-- [Modules](#modules)
-- [Documentation](#documentation)
-- [Articles](#articles)
-- [Distributions](#distributions)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Community](#community)
-- [Tips](#tips)
 
 
 ## Tools

@@ -1,16 +1,9 @@
+<div class="github-widget" data-repo="weblancaster/awesome-IoT-hybrid"></div>
 ## Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;缺少的精彩列表 - 精彩的物联网和混合应用程序框架，工具，资源，视频和闪亮的东西的集合.
 
 
-- [IoT](#iot)
-	- [OS](#os)
-	- [Frameworks/Tools](#frameworks-tools)
-	- [Resources/websites/projects](#resources-websites-projects)
-- [Hybrid Desktop](#hybrid-desktop)
-- [Hybrid mobile](#hybrid-mobile)
-	- [Tools/Plugins](#tools-plugins)
-- [Miscellaneous](#miscellaneous)
 
 ## IoT
 - [Tessel](https://tessel.io/)

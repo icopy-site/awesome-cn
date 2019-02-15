@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ipfs/awesome-ipfs"></div>
 ## Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
@@ -8,17 +9,7 @@
 
  _这个列表适用于项目，工具，或者几乎所有与IPFS相关的东西，它们都非常棒** _.  这适用于已经很棒的产品 - 如果你有计划与IPFS有关的很酷的东西，你应该构建它，然后在这里链接它.  如果您对IPFS有一个很棒的想法，那么可以在其中提出一个好的地方 [ipfs/apps](https://github.com/ipfs/apps) 要么 [ipfs/notes](https://github.com/ipfs/notes)._
 
-## Table of Contents
 
-- [Contribute](#contribute-to-this-list)
-- [Apps](#apps)
-- [Articles](#articles)
-- [Datasets](#datasets)
-- [Tools](#tools)
-- [Videos](#videos)
-- [Discussions](#discussions)
-- [Want to hack on IPFS?](#want-to-hack-on-ipfs)
-- [License](#license)
 
 ## Contribute to this list!
 
@@ -28,6 +19,7 @@
 
 ## Apps
 
+- [2read](https://2read.net/) - 将当前选项卡中的文章转换为可读形式，并将其上载到可写节点. [Source](https://github.com/meehow/2read)
 - [3Box](https://3box.io)   - 创建和管理您的以太坊配置文件和您的个人数据.  使用3box-js库将配置文件集成到您的dapp中. [Source](https://github.com/uport-project/3box)
 - [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
 - [a markdown renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [Demo](https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
@@ -86,7 +78,7 @@
 - [Playback](https://mafintosh.github.io/playback/)   -  IPFS播放支持.  这允许将IPFS中的视频投射到Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 使用window.ipfs的~76KB演示聊天应用程序，由IPFS Companion Web扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布.
-- [qri](https://qri.io) - 分布式Web上的数据集创建，协作和发现. [Source](https://github.com/qri-io/qri)
+- [qri](https://qri.io) - 数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request Network](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [TallyLab](https://tallylab.com/) - 本地优先的端到端加密日记应用程序，用于捕获，分析和共享有关任何内容的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -  Temporal是一个易于使用的API和平台，用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
@@ -103,6 +95,7 @@
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
 - 2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
@@ -112,7 +105,6 @@
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 

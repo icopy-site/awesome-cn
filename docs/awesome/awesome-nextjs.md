@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="unicodeveloper/awesome-nextjs"></div>
 ## Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="http://res.cloudinary.com/unicodeveloper/image/upload/v1524776764/next-jslogo.svg" align="right" width="250">](https://raw.githubusercontent.com/zeit/next.js)
@@ -8,15 +9,6 @@
 
 *列表的灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  你可能还喜欢 [awesome-tdd](https://github.com/unicodeveloper/awesome-tdd).*
 
-## Contents
-- [Community](#community)
-- [Essentials](#essentials)
-- [Articles](#articles)
-- [Boilerplates](#boilerplates)
-- [Extensions](#extensions)
-- [Apps](#apps)
-- [Books](#books)
-- [Videos](#videos)
 
 ## Community
 * [Slack](https://zeit.chat)

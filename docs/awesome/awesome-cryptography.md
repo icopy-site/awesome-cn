@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sobolevn/awesome-cryptography"></div>
 ## Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
@@ -10,54 +11,9 @@
 
 密码学资源和链接的精选列表.
 
-## Contents
 
 <!--lint disable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 
-- [Theory](#theory)
-  - [Algorithms](#algorithms)
-    - [Symmetric encryption](#symmetric-encryption)
-    - [Asymmetric encryption](#asymmetric-encryption)
-    - [Hash functions](#hash-functions)
-  - [Articles](#articles)
-  - [Books](#books)
-  - [Courses](#courses)
-  - [Other lists](#other-lists)
-- [Tools](#tools)
-  - [Standalone](#standalone)
-  - [Plugins](#plugins)
-    - [Git](#git)
-- [Frameworks and Libs](#frameworks-and-libs)
-  - [C](#c)
-  - [C#](#c-sharp)
-  - [C++](#cpp)
-  - [Clojure](#clojure)
-  - [Common Lisp](#common-lisp)
-  - [Delphi](#delphi)
-  - [Elixir](#elixir)
-  - [Erlang](#erlang)
-  - [Golang](#go)
-  - [Haskell](#haskell)
-  - [Haxe](#haxe)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Julia](#julia)
-  - [Lua](#lua)
-  - [Objective-C](#objective-c)
-  - [PHP](#php)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Swift](#swift)
-- [Resources](#resources)
-  - [Blogs](#blogs)
-  - [Mailing lists](#mailing-lists)
-  - [Web-tools](#web-tools)
-  - [Web-sites](#web-sites)
-- [Contributing](#contributing)
-- [License](#license)
 
 <!--lint enable no-missing-blank-lines alphabetize-lists list-item-punctuation-->
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="angrykoala/awesome-esolangs"></div>
 ## Awesome Esolangs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <img src="https://raw.githubusercontent.com/angrykoala/awesome-esolangs/master/logo_piet.png" align="right">
@@ -9,11 +10,6 @@
 &gt; *** esolang.org ***
 
 
-## Contents
-* [Languages](#languages)
-* [Resources](#resources)
-* [Articles](#articles)
-* [Community](#community)
 
 
 ## Languages

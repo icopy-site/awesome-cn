@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="dnbard/awesome-knockout"></div>
 ## Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选插件的精选列表 [Knockout framework](http://knockoutjs.com/).
 

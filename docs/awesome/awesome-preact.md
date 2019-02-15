@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ooade/awesome-preact"></div>
 ## Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
@@ -6,19 +7,7 @@
 
 [Preact](https://github.com/developit/preact)  是一个快速的3kb React替代品，具有相同的ES6 API.  组件和虚拟DOM.
 
-## Contents
-- [Community](#community)
-- [Toolkits](#toolkits)
-- [Boilerplates](#boilerplates)
-- [Routing](#routing)
-- [Components](#components)
-- [Libraries](#libraries)
-- [Testing Utils](#testing-utils)
-- [Articles](#articles)
-- [Example Apps](#example-apps)
 - [Real Apps](https://preactjs.com/about/we-are-using)
-- [Related Libraries](#related-libraries)
-- [Tips](#tips)
 
 ### Community
 - [Slack](https://preact-slack.now.sh) （讨论论坛）

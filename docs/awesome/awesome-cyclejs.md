@@ -1,22 +1,8 @@
+<div class="github-widget" data-repo="cyclejs-community/awesome-cyclejs"></div>
 ## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一系列令人敬畏的Cycle.js工具，资源，视频和闪亮的东西.
 
-- [Learn](#learn)
-  - [Documentation](#documentation)
-  - [Tutorials](#tutorials)
-  - [Videos](#videos)
-  - [Slides](#slides)
-  - [Example Applications](#example-applications)
-- [Tools](#tools)
-  - [CLI](#cli)
-- [Libraries](#libraries)
-  - [Drivers](#drivers)
-  - [Boilerplates](#boilerplates)
-  - [Testing](#testing)
-  - [Debugging](#debugging)
-  - [Components](#components)
-- [Community](#community)
 
 ---
 ## Learn

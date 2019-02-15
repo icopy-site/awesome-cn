@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="gdi2290/awesome-angular"></div>
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
     <img src="https://raw.githubusercontent.com/gdi2290/awesome-angular/master/media/awesome-angular2.png" alt="Awesome Angular 2" />
@@ -12,52 +13,6 @@
 [![npm version](https://badge.fury.io/js/angular2.svg)](http://badge.fury.io/js/angular2)
 
 目录：
-* [Angular 2](#angular-2)
-  * [Angular 2 General Resources](#angular-2-general-resources)
-  * [Angular 2 Community](#angular-2-community)
-  * [Angular 2 Server-Side Rendering](#angular-2-server-side-rendering)
-  * [Angular 2 Material Design](#angular-2-material-design)
-  * [Angular 2 Cheatsheet](#angular-2-cheatsheet)
-  * [Angular 2 Tutorials](#angular-2-tutorials)
-  * [Angular 2 Series](#angular-2-series)
-  * [Angular 2 Video Tutorials](#angular-2-video-tutorials)
-  * [Angular 2 Books](#angular-2-books)
-  * [Angular 2 On-Site Training](#angular-2-on-site-training)
-  * [Angular 2 Approach and Explanation](#angular-2-approach-and-explanation)
-  * [Angular 2 Integrations](#angular-2-integrations)
-  * [Angular 2 Components](#angular-2-components)
-  * [Angular 2 Generators](#angular-2-generators)
-  * [Angular 2 TodoMVC](#angular-2-todomvc)
-* [Universal](#universal-angular-2)
-  * [Universal General Resources](#universal-general-resources)
-  * [Seed Projects](#universal-seed-projects)
-* [TypeScript](#angular-2-in-typescript)
-  * [TypeScript General Resources](#typescript-general-resources)
-  * [Angular 2 Online Playground](#typescript-angular-2-online-playground)
-  * [Seed Projects](#typescript-seed-projects)
-* [Dart](#angular-2-in-dart)
-  * [Angular 2 Online Playground](#dart-angular-2-online-playground)
-  * [Seed Projects](#dart-seed-projects)
-* [Babel](#angular-2-in-babel)
-  * [Babel General Resources](#babel-general-resources)
-  * [Angular 2 Online Playground](#babel-angular-2-online-playground)
-  * [Seed Projects](#babel-seed-projects)
-* [ES5](#angular-2-in-es5)
-  * [Angular 2 Online Playground](#es5-angular-2-online-playground)
-  * [Seed Projects](#es5-seed-projects)
-* [Haxe](#angular-2-in-haxe)
-  * [Angular 2 Online Playground](#haxe-angular-2-online-playground)
-  * [Seed Projects](#haxe-seed-projects)
-* [Scala](#angular-2-in-scala)
-  * [Seed Projects](#scala-seed-projects)
-* [Platforms](#platforms)
-  * [Ionic 2](#ionic-2)
-    * [Ionic 2 General Resources](#ionic-2-general-resources)
-  * [NativeScript](#nativescript-in-angular-2)
-    * [NativeScript General Resources](#nativescript-general-resources)
-    * [Seed Projects](#nativescript-seed-projects)
-  * [React Native](#react-native)
-    * [React Native General Resources](#react-native-general-resources)
 
 ### Angular 2
 &gt; Angular是一个用于构建移动和桌面Web应用程序的开发平台.

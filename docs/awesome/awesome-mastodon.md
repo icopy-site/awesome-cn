@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="tleb/awesome-mastodon"></div>
 ## Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
@@ -7,20 +8,7 @@
 
  ** Mastodon是世界上最大的免费，开源，分散的微博网络**.  见 [Official](#official) 和 [Documentation](#documentation) 类别以了解有关网络的更多信息.
 
-## Contents
 
-* [Official](#official)
-* [Documentation](#documentation)
-* [Clients](#clients)
-* [Tools](#tools)
-* [User styles](#user-styles)
-* [User scripts](#user-scripts)
-* [Bots](#bots)
-* [News & magazines bots](#news--magazines-bots)
-* [Associations](#associatons)
-* [Blogs](#blogs)
-* [Libraries](#libraries)
-* [Hosting](#hosting)
 
 ## Official
 
@@ -48,7 +36,6 @@
 * [Pinafore](https://github.com/nolanlawson/pinafore) -  Mastodon的替代Web客户端，专注于速度和简单性.
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) -  Brutaldon是Mastodon的野兽派Web 1.0界面.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) -  Mastodon和Pleroma的替代网络客户端，具有类似Twitter的界面.
-* [Whalebird](https://whalebird.org/en/desktop/contents) - 适用于Mac OS的Mastodon客户端.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) -  Mastodon的极简主义，无JS Web客户端.
 
 ## Tools

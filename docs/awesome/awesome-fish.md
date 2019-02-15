@@ -1,21 +1,11 @@
+<div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 ## Awesome Fish
 
  包，提示，以及惊人的资源的组织列表<a href="https://fishshell.com" title="友好的互动外壳">的鱼贝</a> .  这项工作是捐赠给公共领域 [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
  想贡献？  分叉此存储库，添加您的项目并向我们发送PR.  如果你看到这里的项目没有维护或不合适， [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
 
-## Table of Contents
 
-- [Package Management](#package-management)
-- [Prompts](#prompts)
-- [Utilities](#utilities)
-  - [Environment](#environment)
-  - [Key Bindings](#key-bindings)
-  - [Node.js](#nodejs)
-- [Resources](#resources)
-  - [Articles](#articles)
-  - [Community](#community)
-  - [Learning](#learning)
 
 ## Package Management
 
@@ -39,9 +29,7 @@
 - [jethrokuan/**z**](https://github.com/jethrokuan/z) - 纯鱼 [rupa/z](https://github.com/rupa/z)像目录跳跃
 - [jorgebucaran/**fish-getopts**](https://github.com/jorgebucaran/fish-getopts) -  CLI选项解析器替代 [`argparse`](https://fishshell.com/docs/current/commands.html#argparse) 内置
 - [jorgebucaran/**fish-spark**](https://github.com/jorgebucaran/fish-spark) - 纯鱼火花线发生器
-- [jorgebucaran/**fish-tape**](https://github.com/jorgebucaran/fish-tape) -  TAP生产试验跑步者
 - [rodrigobdz/**fish-apple-touchbar**](https://github.com/rodrigobdz/fish-apple-touchbar) - 在iTerm2中自定义Touch Bar
-- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - 快速而强大的模拟
 
 ### Environment
 
@@ -59,6 +47,11 @@
 - [brigand/**fast-nvm-fish**](https://github.com/brigand/fast-nvm-fish) - 增强 [nvm](https://github.com/creationix/nvm) 包装器针对速度进行了优化
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - 完成丰富，真实 [nvm](https://github.com/creationix/nvm) 包装纸
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - 纯鱼，没有废话的Node.js版本管理器
+
+### Testing
+
+- [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - 基于TAP的测试运行器 
+- [matchai/**fish-mock**](https://github.com/matchai/fish-mock) - 快速而强大的模拟
 
 ## Resources
 

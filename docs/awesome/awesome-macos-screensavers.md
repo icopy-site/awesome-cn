@@ -1,20 +1,11 @@
+<div class="github-widget" data-repo="agarrharr/awesome-macos-screensavers"></div>
 ## Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; macOS屏幕保护程序的精选列表.
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
-## Table of Contents
 
-- [Clocks](#clocks)
-- [iOS (and Apple TV) Inspired](#ios-and-apple-tv-inspired)
-- [Retro](#retro)
-- [Sci-Fi](#sci-fi)
-- [Video Game](#video-game)
-- [Aquarium](#aquarium)
-- [Developer](#developer)
-- [Graphics](#graphics)
-- [Other](#other)
 
 ---
 

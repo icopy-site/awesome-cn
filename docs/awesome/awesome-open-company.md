@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="opencompany/awesome-open-company"></div>
 ## Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一个由社区策划的精彩列表 [open companies](#what-is-an-open-company),
 灵感来自众多 [awesome-x lists](https://github.com/sindresorhus/awesome) 在那里.
@@ -6,15 +7,7 @@
 
  *欢迎对此列表的贡献！  只是 [edit the README.md](https://github.com/opencompany/awesome-open-company/blob/master/../../edit/master/README.md) （本文档）并将更改作为拉取请求发送. [Guidelines](https://github.com/opencompany/awesome-open-company/blob/master/../../wiki/Inclusion+guidelines) 可用.*
 
-## Table of contents
-1. [What is an open company?](#what-is-an-open-company)
 2. **[Companies](#companies)**
-3. [Resources](#resources)
-  1. [Books](#books)
-  2. [Articles](#articles)
-  3. [Videos](#videos)
-4. [Similar lists](#similar-lists)
-5. [License](#license)
 
 ## What is an open company?
 

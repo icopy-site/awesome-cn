@@ -1,42 +1,13 @@
+<div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
 ## Awesome LaTeX [![Awesome][awesome]](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png" align="right" width="100">](https://www.latex-project.org/)
 
 &gt;这是一个精选的东西的精选列表 [(La)TeX typesetting system](https://www.latex-project.org/).
 
-## Contents
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
-- [Contents](#contents)
-- [Distributions](#distributions)
-- [Engines](#engines)
-	- [LaTeX formulas on the web](#latex-formulas-on-the-web)
-- [Editors](#editors)
-	- [LaTeX-focused](#latex-focused)
-	- [General purpose text editors](#general-purpose-text-editors)
-	- [Online editors](#online-editors)
-- [Bibliography tools](#bibliography-tools)
-- [Build Tools](#build-tools)
-- [Misc. Tools](#misc-tools)
-- [LaTeX-compatible GUI tools](#latex-compatible-gui-tools)
-- [Packages](#packages)
-	- [Tables](#tables)
-	- [Graphics](#graphics)
-		- [PSTricks](#pstricks)
-		- [TikZ](#tikz)
-	- [Source Code](#source-code)
-	- [Typography](#typography)
-- [Templates](#templates)
-- [Symbols](#symbols)
-- [Resources](#resources)
-- [Showcases](#showcases)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Blogs](#blogs)
-- [Social media](#social-media)
-- [Meta Awesome-LaTeX](#meta-awesome-latex)
-- [Legend](#legend)
 
 <!-- /TOC -->
 
@@ -63,7 +34,7 @@
 ## Editors
 
 因为用记事本编辑LaTeX代码并不是很棒.
-那里有很多编辑，下面是最棒的编辑.
+There are many editors out there, below are the most awesome editors.
 收集完整的LaTeX编辑器列表 [tex.stackexchange.com](https://tex.stackexchange.com/) 如 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
 
 - [List of popular LaTeX editors](https://tex.stackexchange.com/questions/339/latex-editors-ides) - 社区维护的流行LaTeX编辑器列表，包括屏幕截图和简短描述.
@@ -97,7 +68,7 @@
 
 - [Emacs](https://www.gnu.org/software/emacs/)  [！[Emacs] [awesome]]（https://github.com/emacs-tw/awesome-emacs）！[foss] [foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/)   - 用于LaTeX的Emacs插件，还显示了方程式和数字的预览.  ！[源码] [源码]
-	- [RefTeX](https://www.gnu.org/software/auctex/reftex)   - 用于LaTeX的Emacs插件，增加了对标签，引用和引用的支持.  ！[源码] [源码]
+	- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss][foss]
 
 - [Vim](http://www.vim.org) [！[Vim] [awesome]]（https://github.com/mhinz/vim-galore）！[foss] [foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) [瀑布] [瀑布]
@@ -134,7 +105,7 @@
 
 ## Build Tools
 
-Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
+编译LaTeX文档可能很繁琐，构建工具可帮助您管理编译过程.
 
 - [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo](https://github.com/cereda/arara) ） - 简单的工具，允许您指定在文档中调用哪些工具，并且可以非常轻松地扩展.  ！[源码] [源码]
 - [latexmk](https://www.ctan.org/pkg/latexmk)   - 构建工具，这是许多LaTeX编辑器（LaTeXing，TeXShop，...）常用来构建LaTeX文件.  ！[源码] [源码]
@@ -150,7 +121,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 - [EqualX](http://equalx.sourceforge.net)   - 图形LaTeX公式编辑器.  ！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
 - [ChkTeX](http://baruch.ev-en.org/proj/chktex/)   -  LaTeX文档的Linter / code checker.  ！[源码] [源码]
 - [LaTeXEqEdit](http://latexeqedit.sourceforge.net/index.php)   - 适用于Windows的LaTeX公式编辑器.  ！[Windows] [windows]！[foss] [foss]
-- [Laeqed](https://www.thrysoee.dk/laeqed/) - Crossplatform LaTeX formula to PNG convertor. ![Windows][windows] ![Linux][linux] ![Mac][mac] ![foss][foss]
+- [Laeqed](https://www.thrysoee.dk/laeqed/)   - 将LaTeX配方交叉平台转换为PNG转换器.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
 
 ## LaTeX-compatible GUI tools
 

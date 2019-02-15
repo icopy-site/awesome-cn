@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="owainlewis/awesome-artificial-intelligence"></div>
 ## Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 人工智能（AI）课程，书籍，视频讲座和论文的精选列表.
@@ -6,20 +7,7 @@
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
-## Contents
 
-1. [Courses](#courses)
-2. [Books](#books)
-3. [Programming](#programming)
-4. [Philosophy](#philosophy)
-5. [Free Content](#free-content)
-6. [Code](#code)
-7. [Videos](#videos)
-8. [Learning](#learning)
-9. [Organizations](#organizations)
-10. [Journals](#journals)
-11. [Competitions](#competitions)
-12. [Misc](#misc)
 
 
 ## Courses
@@ -72,14 +60,12 @@
 * [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - 麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何影响犯罪，战争，正义，就业，社会以及我们在近期和远期都能成为人类的感觉.
 
-## Free Content
 
 * [Foundations Of Computational Agents](http://artint.info/html/ArtInt.html) - 本书由剑桥大学出版社出版，2010年
 * [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - 本书追溯了这一主题的历史，从十八世纪（及早期）先驱的早期梦想到今天的AI工程师更成功的工作.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - 本课程提供机器学习和统计模式识别的广泛介绍.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)   - 本书涵盖了人类活动的计算机模拟，如解决问题和理解自然语言;  计算机视觉;  AI工具和技术;  人工智能编程介绍;  符号和神经网络认知模型;  心灵和智慧的本质;  以及人工智能和认知科学的社会影响.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html)   - 马文·明斯基关于我们思想如何运作的开创性工作.  许多符号AI概念都是从这个基础中衍生出来的.
-* [Artificial Intelligence and Molecular Biology](http://www.biosino.org/mirror/www.aaai.org/Press/Books/Hunter/hunter-contents.html) - 目前的数量是为了在当代AI / MB研究中弥合从核苷酸到抽象概念的探索范围.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前人工智能使用的一些教育含义，以帮助解决问题和完成任务.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
@@ -149,7 +135,6 @@
 * [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-* [Computational Intelligence](http://www.blackwellpublishing.com/content/BPL_Images/New_Journal_Samples/coin0824-7935~17~4/C.PDF)
 * [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
 * [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
 * [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)

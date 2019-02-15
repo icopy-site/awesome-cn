@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="myshov/awesome-mobile-web-development"></div>
 ## Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 创建优质移动网络体验所需的一切.
@@ -5,15 +6,7 @@
 <a href="https://github.com/myshov/awesome-mobile-web-development/blob/master/CONTRIBUTING.md">贡献指南</a>
 
 
-## Contents
 
-- [Articles and Documentation](#articles-and-documentation)
-- [Books](#books)
-- [Specifications from W3C for Enhancing Mobile Web Experience](#specifications-from-w3c-for-enhancing-mobile-web-experience)
-- [Talks](#talks)
-- [Performance Auditing Tools](#performance-auditing-tools)
-- [Platform Monitoring](#platform-monitoring)
-- [Other Useful Tools and Libraries](#other-useful-tools-and-libraries)
 
 
 ## Articles and Documentation

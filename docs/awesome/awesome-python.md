@@ -1,105 +1,10 @@
+<div class="github-widget" data-repo="vinta/awesome-python"></div>
 ## Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Python框架，库，软件和资源的精选列表.
 
 灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php).
 
-- [Awesome Python](#awesome-python)
-    - [Admin Panels](#admin-panels)
-    - [Algorithms and Design Patterns](#algorithms-and-design-patterns)
-    - [Anti-spam](#anti-spam)
-    - [Asset Management](#asset-management)
-    - [Audio](#audio)
-    - [Authentication](#authentication)
-    - [Build Tools](#build-tools)
-    - [Built-in Classes Enhancement](#built-in-classes-enhancement)
-    - [Caching](#caching)
-    - [ChatOps Tools](#chatops-tools)
-    - [Cluster Computing](#cluster-computing)
-    - [CMS](#cms)
-    - [Code Analysis](#code-analysis)
-    - [Command-line Tools](#command-line-tools)
-    - [Compatibility](#compatibility)
-    - [Computer Vision](#computer-vision)
-    - [Concurrency and Parallelism](#concurrency-and-parallelism)
-    - [Configuration](#configuration)
-    - [Cryptography](#cryptography)
-    - [Data Analysis](#data-analysis)
-    - [Data Validation](#data-validation)
-    - [Data Visualization](#data-visualization)
-    - [Database Drivers](#database-drivers)
-    - [Database](#database)
-    - [Date and Time](#date-and-time)
-    - [Debugging Tools](#debugging-tools)
-    - [Deep Learning](#deep-learning)
-    - [DevOps Tools](#devops-tools)
-    - [Distribution](#distribution)
-    - [Documentation](#documentation)
-    - [Downloader](#downloader)
-    - [E-commerce](#e-commerce)
-    - [Editor Plugins and IDEs](#editor-plugins-and-ides)
-    - [Email](#email)
-    - [Environment Management](#environment-management)
-    - [Files](#files)
-    - [Foreign Function Interface](#foreign-function-interface)
-    - [Forms](#forms)
-    - [Functional Programming](#functional-programming)
-    - [Game Development](#game-development)
-    - [Geolocation](#geolocation)
-    - [GUI](#gui)
-    - [Hardware](#hardware)
-    - [HTML Manipulation](#html-manipulation)
-    - [HTTP](#http)
-    - [Image Processing](#image-processing)
-    - [Implementations](#implementations)
-    - [Interactive Interpreter](#interactive-interpreter)
-    - [Internationalization](#internationalization)
-    - [Job Scheduler](#job-scheduler)
-    - [Logging](#logging)
-    - [Machine Learning](#machine-learning)
-    - [Miscellaneous](#miscellaneous)
-    - [Natural Language Processing](#natural-language-processing)
-    - [Network Virtualization](#network-virtualization)
-    - [Networking](#networking)
-    - [News Feed](#news-feed)
-    - [ORM](#orm)
-    - [Package Management](#package-management)
-    - [Package Repositories](#package-repositories)
-    - [Permissions](#permissions)
-    - [Processes](#processes)
-    - [Queue](#queue)
-    - [Recommender Systems](#recommender-systems)
-    - [RESTful API](#restful-api)
-    - [Robotics](#robotics)
-    - [RPC Servers](#rpc-servers)
-    - [Science](#science)
-    - [Search](#search)
-    - [Serialization](#serialization)
-    - [Serverless Frameworks](#serverless-frameworks)
-    - [Specific Formats Processing](#specific-formats-processing)
-    - [Static Site Generator](#static-site-generator)
-    - [Tagging](#tagging)
-    - [Template Engine](#template-engine)
-    - [Testing](#testing)
-    - [Text Processing](#text-processing)
-    - [Third-party APIs](#third-party-apis)
-    - [URL Manipulation](#url-manipulation)
-    - [Video](#video)
-    - [Web Content Extracting](#web-content-extracting)
-    - [Web Crawling & Web Scraping](#web-crawling--web-scraping)
-    - [Web Frameworks](#web-frameworks)
-    - [WebSocket](#websocket)
-    - [WSGI Servers](#wsgi-servers)
-- [Services](#services)
-    - [Code Quality](#code-quality)
-    - [Continuous Integration](#continuous-integration)
-- [Resources](#resources)
-    - [Podcasts](#podcasts)
-    - [Twitter](#twitter)
-    - [Websites](#websites)
-    - [Weekly](#weekly)
-- [Other Awesome Lists](#other-awesome-lists)
-- [Contributing](#contributing)
 
 - - -
 
@@ -206,17 +111,13 @@
 
 ## CMS
 
-*内容管理系统.*
 
 * [django-cms](https://www.django-cms.org/en/) - 基于Django的开源企业CMS.
 * [djedi-cms](http://djedi-cms.org/) - 轻量级但功能强大的Django CMS，具有插件，内联编辑和性能.
-* [FeinCMS](http://www.feincms.org/) - 基于Django构建的最先进的内容管理系统之一.
 * [Kotti](http://kotti.pylonsproject.org/) - 基于Pyramid构建的高级Pythonic Web应用程序框架.
-* [Mezzanine](http://mezzanine.jupo.org/) - 功能强大，一致且灵活的内容管理平台.
 * [Opps](http://opps.github.io/opps/) - 基于Django的CMS，适用于杂志，报纸网站和高流量的门户网站.
 * [Plone](https://plone.org/) - 在开源应用服务器Zope之上构建的CMS.
 * [Quokka](http://quokkaproject.org/) - 由Flask和MongoDB提供支持的灵活，可扩展的小型CMS.
-* [Wagtail](https://wagtail.io/) -  Django内容管理系统.
 * [Widgy](https://wid.gy/) - 最后的CMS框架，基于Django.
 
 ## Caching
@@ -229,7 +130,7 @@
 * [django-cacheops](https://github.com/Suor/django-cacheops) - 具有自动粒度事件驱动失效的灵活ORM缓存.
 * [django-viewlet](https://github.com/5monkeys/django-viewlet) - 使用扩展缓存控制渲染模板部件.
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) -  dogpile.cache是​​同一作者制作的Beaker的下一代替代品.
-* [HermesCache](https://pypi.python.org/pypi/HermesCache) - Python caching library with tag-based invalidation and dogpile effect prevention.
+* [HermesCache](https://pypi.python.org/pypi/HermesCache) -  Python缓存库，具有基于标记的失效和防狗效应.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache) -  Django应用程序的缓存框架.
 * [pylibmc](https://github.com/lericson/pylibmc) - 一个Python包装器 [libmemcached](http://libmemcached.org/libMemcached.html) 接口.
 
@@ -265,7 +166,7 @@
 *静态类型跳棋
     * [mypy](http://mypy-lang.org/) - 在编译期间检查变量类型.
     * [Pyre](https://github.com/facebook/pyre-check) - 高性能类型检查.
-* Static Type Annotations Generators
+*静态类型注释生成器
     * [MonkeyType](https://github.com/Instagram/MonkeyType) -  Python系统，通过收集运行时类型生成静态类型注释
 
 ## Command-line Tools
@@ -279,7 +180,7 @@
     * [clint](https://github.com/kennethreitz/clint) -  Python命令行应用程序工具.
     * [docopt](http://docopt.org/) -  Pythonic命令行参数解析器.
     * [Gooey](https://github.com/chriskiehl/Gooey) - 使用一行将命令行程序转换为完整的GUI应用程序.
-    * [Python Fire](https://github.com/google/python-fire) - 用于从绝对任何Python对象创建命令行界面的库.
+    * [Python Fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 用于构建强大的交互式命令行的库.
 *终端渲染
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - 用于创建全屏文本UI的包（从交互式表单到ASCII动画）.
@@ -326,7 +227,7 @@
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - （Python标准库）用于异步执行callables的高级接口.
 * [eventlet](http://eventlet.net/) - 支持WSGI的异步框架.
 * [gevent](http://www.gevent.org/) - 使用的基于协程的Python网络库 [greenlet](https://github.com/python-greenlet/greenlet).
-* [SCOOP](https://github.com/soravux/scoop) -  Python中的可扩展并发操作.
+* [SCOOP](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - 异步代码的魔术装饰器语法.
 * [uvloop](https://github.com/MagicStack/uvloop) - 在libuv上快速实现asyncio事件循环.
 
@@ -342,7 +243,7 @@
 
 ## Cryptography
 
-* [cryptography](https://cryptography.io/en/latest/) - 旨在向Python开发人员公开加密原语和配方的包.
+* [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
 * [Paramiko](http://www.paramiko.org/) -  SSHv2协议的Python（2.6 +，3.3 +）实现，提供客户端和服务器功能.
 * [Passlib](https://passlib.readthedocs.io/en/stable/) - 安全密码存储/散列库，非常高级别.
 * [PyNacl](https://github.com/pyca/pynacl) -  Python绑定到网络和加密（NaCl）库.
@@ -513,13 +414,13 @@
     * [awesome-sphinxdoc](https://github.com/yoloseem/awesome-sphinxdoc)
 * [MkDocs](http://www.mkdocs.org/) -  Markdown友好文档生成器.
 * [pdoc](https://github.com/BurntSushi/pdoc) -  Epydoc替换为自动生成Python库的API文档.
-* [Pycco](https://github.com/pycco-docs/pycco) - The literate-programming-style documentation generator.
+* [Pycco](https://github.com/pycco-docs/pycco) - 文学编程风格的文档生成器.
 
 ## Downloader
 
 *供下载的图书馆.*
 
-* [s3cmd](https://github.com/s3tools/s3cmd) - 用于管理Amazon S3和CloudFront的命令行工具.
+* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
 * [s4cmd](https://github.com/bloomreach/s4cmd) -  Super S3命令行工具，有利于提高性能.
 * [you-get](http://you-get.org/) - 用Python 3编写的YouTube / Youku / Niconico视频下载器.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - 从YouTube下载视频的小型命令行程序.
@@ -640,7 +541,6 @@
 * [PyQt](https://riverbankcomputing.com/software/pyqt/intro) -  Python的绑定 [Qt](https://www.qt.io/) 跨平台应用程序和UI框架，支持Qt v4和Qt v5框架.
 * [PySide](https://wiki.qt.io/PySide) -  Python的绑定 [Qt](http://www.qt.io/) 跨平台应用程序和UI框架，支持Qt v4框架.
 * [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - 用于tkinter，Qt，WxPython和Remi的包装器，为初学者和中级自定义GUI创建统一，易于理解和更类似Python的界面.
-* [pywebview](https://github.com/r0x0r/pywebview/) - 围绕webview组件的轻量级跨平台本机包装器，允许在其自己的本机专用窗口中显示HTML内容.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -  Tkinter是Python的事实上的标准GUI包.
 * [Toga](https://github.com/pybee/toga) -  Python本机OS本机GUI工具包.
 * [urwid](http://urwid.org/) - 用于创建终端GUI应用程序的库，强大支持小部件，事件，丰富的颜色等.
@@ -661,7 +561,7 @@
 
 ## Geolocation
 
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
+*地理编码地址和处理纬度和经度的图书馆.*
 
 * [django-countries](https://github.com/SmileyChris/django-countries) - 一个Django应用程序，提供用于表单的国家选择，标志图标静态文件和模型的国家/地区字段.
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) - 世界一流的地理网络框架.
@@ -721,7 +621,7 @@
 * [pygram](https://github.com/ajkumar25/pygram) - 类似Instagram的图像过滤器.
 * [python-qrcode](https://github.com/lincolnloop/python-qrcode) - 纯Python二维码生成器.
 * [Quads](https://github.com/fogleman/Quads) - 基于四叉树的计算机艺术.
-* [scikit-image](http://scikit-image.org/) - A Python library for (scientific) image processing.
+* [scikit-image](http://scikit-image.org/) - 用于（科学）图像处理的Python库.
 * [thumbor](https://github.com/thumbor/thumbor)   - 智能成像服务.  它支持按需裁剪，重新调整大小和翻转图像.
 * [wand](https://github.com/dahlia/wand) -  Python绑定 [MagickWand](http://www.imagemagick.org/script/magick-wand.php)，ImageMagick的C API.
 
@@ -737,7 +637,7 @@
 * [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the Java virtual machine (JVM).
 * [MicroPython](https://github.com/micropython/micropython) -  MicroPython  - 一种针对微控制器和受限系统的精简高效的Python编程语言实现
 * [Numba](http://numba.pydata.org/) - 针对科学Python的Python JIT编译器到LLVM.
-* [PeachPy](https://github.com/Maratyszcza/PeachPy) - x86-64 assembler embedded in Python. Can be used as inline assembler for Python or as a stand-alone assembler for Windows, Linux, OS X, Native Client and Go.
+* [PeachPy](https://github.com/Maratyszcza/PeachPy)   - 嵌入在Python中的x86-64汇编程序.  可用作Python的内联汇编程序，也可用作Windows，Linux，OS X，Native Client和Go的独立汇编程序.
 * [Pyjion](https://github.com/Microsoft/Pyjion) - 基于CoreCLR的Python JIT.
 * [PyPy](https://bitbucket.org/pypy/pypy)   - 用RPython编写并转换成C语言的Python编程语言的实现.PyPy专注于速度，效率和与原始CPython解释器的兼容性.  解释器使用黑魔法使Python非常快，而无需添加其他类型信息.
 * [PySec](https://github.com/ebranca/owasp-pysec) - 加强版的python，使安全专业人员和开发人员能够更轻松地编写应用程序，使其更能抵御攻击和操纵.
@@ -755,7 +655,7 @@
 
 ## Internationalization
 
-*与i18n合作的图书馆.*
+*Libraries for working with i18n.*
 
 * [Babel](http://babel.pocoo.org/en/latest/) -  Python的国际化库.
 * [PyICU](https://github.com/ovalhub/pyicu) - 用于Unicode C ++库的国际组件的包装器（[ICU](http://site.icu-project.org/)).
@@ -881,7 +781,7 @@
     * [hot-redis](https://github.com/stephenmcd/hot-redis) -  Redis的丰富Python数据类型.
     * [MongoEngine](http://mongoengine.org/) - 用于处理MongoDB的Python Object-Document-Mapper.
     * [PynamoDB](https://github.com/pynamodb/PynamoDB) - 一个Pythonic接口 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-    * [redisco](https://github.com/kiddouk/redisco) -  Redis中保留的简单模型和容器的Python库.
+    * [redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
 * 其他
     * [butterdb](https://github.com/terrible-ideas/butterdb) -  Google Drive电子表格的Python ORM.
     * [dataset](https://github.com/pudo/dataset) - 基于JSON的数据库.
@@ -944,7 +844,7 @@
 * [LightFM](https://github.com/lyst/lightfm) - 许多流行推荐算法的Python实现.
 * [Spotlight](https://github.com/maciejkula/spotlight) - 使用PyTorch的深度推荐器模型.
 * [surprise](http://surpriselib.com) - 用于构建和分析推荐系统的scikit.
-* [TensorRec](https://github.com/jfkirk/tensorrec) -  TensorFlow中的推荐引擎框架.
+* [TensorRec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ## RESTful API
 
@@ -965,7 +865,7 @@
     * [falcon](http://falconframework.org/) - 用于构建云API和Web应用程序后端的高性能框架.
     * [hug](https://github.com/timothycrosley/hug) - 一个Python3框架，用于通过HTTP和命令行干净地公开API，并提供自动文档和验证.
     * [restless](https://github.com/toastdriven/restless) - 基于从Tastypie学到的经验教训的框架无关的REST框架.
-    * [ripozo](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
+    * [ripozo](https://github.com/vertical-knowledge/ripozo) - 快速创建REST / HATEOAS /超媒体API.
     * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
     * [apistar](https://github.com/encode/apistar) - 专为Python 3设计的智能Web API框架.
 
@@ -1074,7 +974,6 @@
 * [Hyde](http://hyde.github.io/) - 基于Jinja2的静态网站生成器.
 * [Lektor](https://www.getlektor.com/) - 易于使用的静态CMS和博客引擎.
 * [Nikola](https://www.getnikola.com/) - 静态网站和博客生成器.
-* [Pelican](https://blog.getpelican.com/)   - 使用Markdown或ReST作为内容，使用Jinja 2作为主题.  支持DVCS，Disqus.  AGPL.
 * [Tinkerer](http://tinkerer.me/) -  Tinkerer是由Sphinx提供支持的博客引​​擎/ .static网站生成器.
 
 ## Tagging
@@ -1137,7 +1036,7 @@
 
 ## Text Processing
 
-*Libraries for parsing and manipulating plain texts.*
+*用于解析和操作纯文本的库.*
 
 * 一般
     * [chardet](https://github.com/chardet/chardet) -  Python 2/3兼容字符编码检测器.
@@ -1212,16 +1111,10 @@
 * [waitress](https://waitress.readthedocs.io/en/latest/) - 多线程，为金字塔提供动力.
 * [Werkzeug](http://werkzeug.pocoo.org/) - 用于Python的WSGI实用程序库，可以为Flask提供支持，并且可以轻松嵌入到您自己的项目中.
 
-## Web Content Extracting
 
-*用于提取网页内容的图书馆.*
 
 * [Haul](https://github.com/vinta/Haul) - 可扩展图像爬虫.
 * [html2text](https://github.com/Alir3z4/html2text) - 将HTML转换为Markdown格式的文本.
-* [lassie](https://github.com/michaelhelmick/lassie) - 人类的Web内容检索.
-* [micawber](https://github.com/coleifer/micawber) - 用于从URL中提取丰富内容的小型库.
-* [newspaper](https://github.com/codelucas/newspaper) -  Python中的新闻提取，文章提取和内容管理.
-* [python-goose](https://github.com/grangier/python-goose) -  HTML内容/文章提取器.
 * [python-readability](https://github.com/buriy/python-readability) -  arc90可读性工具的快速Python端口.
 * [requests-html](https://github.com/kennethreitz/requests-html) - 用于人类的Pythonic HTML解析.
 * [sanitize](https://github.com/Alir3z4/python-sanitize) - 为理解数据的世界带来理智.

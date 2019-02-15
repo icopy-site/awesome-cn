@@ -1,27 +1,9 @@
+<div class="github-widget" data-repo="hothero/awesome-rails-gem"></div>
 ## Awesome Rails Gem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一系列令人敬畏的Ruby Gems for Rails开发.
 
-The goal is to help every Rails developer to build an awesome Rails product/service.
+目标是帮助每个Rails开发人员构建一个非常棒的Rails产品/服务.
 
-* [Rails Gem List](#rails-gem-list)
-  * [User](#user)
-  * [Active Record](#active-record)
-  * [Plugins](#plugins)
-  * [API](#api)
-  * [Email](#email)
-  * [File Uploading](#file-uploading)
-  * [Searching](#searching)
-  * [Scheduled/Recurrence Jobs](#scheduledrecurrence-jobs)
-  * [View Helper](#view-helper)
-  * [Environment Variables](#environment-variables)
-  * [Admin Panel](#admin-panel)
-  * [Logging](#logging)
-  * [Debug](#debug)
-  * [Coding Style](#coding-style)
-  * [Testing](#testing)
-  * [Production](#production)
-  * [Error Logging](#error-logging)
-  * [Database](#database)
 
 ## User
 
@@ -81,8 +63,6 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Spreadsheet](https://github.com/zdavatz/spreadsheet) - 库旨在读写电子表格文档.
 * [Chartkick](https://github.com/ankane/chartkick) -  Chartkick帮助您使用一行Ruby创建漂亮的Javascript图表.
 * [kaminari](https://github.com/amatsuda/kaminari) - 适用于Rails 3和4的基于范围和引擎的，干净，强大，可定制和复杂的分页器.
-* [CKEditor](https://github.com/galetahub/ckeditor)   -  CKEditor是一个WYSIWYG文本编辑器，旨在简化Web内容创建.  它将常用的文字处理功能直接带到您的网页.  使用社区维护编辑器增强您的网站体验. [ckeditor.com](http://ckeditor.com)
-* [HTML::Pipeline](https://github.com/jch/html-pipeline)   -  GitHub HTML处理过滤器和实用程序.  该模块包括一个小框架，用于定义基于DOM的内容过滤器并将其应用于用户提供的内容.
 * [Slack Notifier](https://github.com/stevenosloan/slack-notifier) 是一个发送通知的简单包装器 [Slack](https://slack.com/) 网络挂接.
 * [Rails ERD](https://github.com/voormedia/rails-erd) - 为Rails应用程序生成实体关系图.
 * [Parity](https://github.com/thoughtbot/parity) - 用于Heroku应用程序的开发，登台和生产奇偶校验的Shell命令.
@@ -156,7 +136,6 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [ActiveAdmin](http://activeadmin.info) -  ActiveAdmin是Ruby on Rails应用程序的管理框架.
   - [active_skin](https://github.com/rstgroup/active_skin)：活动管理的平坦皮肤.
 * [RailsAdmin](https://github.com/sferik/rails_admin) -  RailsAdmin是一个Rails引擎，提供易于使用的界面来管理您的数据.
-* [Typus](https://github.com/typus/typus) -  Typus是Ruby on Rails应用程序的控制面板，允许可信用户编辑结构化内容.
 * [administrate](https://github.com/thoughtbot/administrate) - 一个Rails引擎，可以帮助您组建一个超灵活的管理仪表板.
 * [Trestle](https://github.com/TrestleAdmin/trestle) -  Ruby on Rails的现代响应式管理框架
 
@@ -199,7 +178,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) -  Database Cleaner是一套用于在Ruby.Support ActiveRecord，DataMapper，Sequel，MongoMapper，Mongoid，CouchPotato，Ohm和Redis中清理数据库的策略.
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) -  Shoulda-matchers提供了几个用于测试常见Rails功能的匹配器.
 * [ResponseCodeMatchers](https://github.com/r7kamura/response_code_matchers) -  ResponseCodeMatchers提供rspec匹配器以匹配http响应代码.
-* [SimpleCov](https://github.com/colszowka/simplecov) -  SimpleCov是Ruby的代码覆盖率分析工具.
+* [SimpleCov](https://github.com/colszowka/simplecov) - SimpleCov is a code coverage analysis tool for Ruby.
 * [Timecop](https://github.com/travisjeffery/timecop) - 提供“时间旅行”和“时间冻结”功能的宝石，使得测试与时间相关的代码变得简单.
 * [VCR](https://github.com/vcr/vcr) - 记录测试套件的HTTP交互并在将来的测试运行期间重放它们，以进行快速，确定，准确的测试.
 

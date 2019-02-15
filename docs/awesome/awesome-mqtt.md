@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hobbyquaker/awesome-mqtt"></div>
 ## Awesome MQTT
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -6,31 +7,7 @@
 
  MQTT是一种轻量级客户端 - 服务器发布/订阅消息传递协议，针对高延迟或不可靠的网络进行了优化.  该协议是物联网应用，遥测，传感器网络，智能计量，家庭自动化，消息传递和通知服务的理想选择.
 
-## Contents
 
-- [Community Resources](#community-resources)
-- [Broker](#broker)
-- [Tools](#tools)
-- [Clients](#clients)
-- [Scripting](#scripting)
-- [Interfaces](#interfaces)
-    - [Makers](#makers)
-    - [Industry](#industry)
-    - [Telephony, PBX](#telephony-pbx)
-    - [Operating System](#operating-system)
-    - [Monitoring](#monitoring)
-    - [Location Tracking](#location-tracking)
-    - [Logging](#logging)
-    - [Smart Home Hardware Interfaces](#smart-home-hardware-interfaces)
-    - [Smart Home Integration Software](#smart-home-integration-software)
-    - [Lighting](#lighting)
-    - [Home Entertainment](#home-entertainment)
-    - [Smart Metering](#smart-metering)
-    - [Messaging](#messaging)
-    - [Misc](#misc)
-- [Visualization, Dashboards](#visualization-dashboards)
-- [Architecture, Convention](#architecture-convention)
-- [Security, Encryption](#security-encryption)
 
 
 ### Community Resources
@@ -178,7 +155,6 @@
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - 与固定时间间隔发布到MQTT代理的操作系统相关数据.
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - 执行由已发布的MQTT消息触发的shell命令.
 * [mqttpc](https://github.com/hobbyquaker/mqttpc)   - 通过MQTT控制流程.  能够通过MQTT发送信号并将stdout / stderr或管道MQTT有效负载发布到stdin.
-* [mqttwatchdir](https://github.com/jpmens/mqtt-watchdir) - 递归地查看目录以进行修改并将文件内容发布到MQTT代理.
 * [psmqtt](https://github.com/eschava/psmqtt) - 通过MQTT公用事业报告系统健康和状态.
 * [WinThing](https://github.com/msiedlarek/winthing) - 通过MQTT远程控制Windows.
 
@@ -200,7 +176,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -  Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - 订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - 将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
 
@@ -273,7 +249,7 @@
 * [MQTT-DashCast-Docker](https://github.com/mukowman/MQTT-DashCast-Docker) -  MQTT Docker在Chromecast上启动DashCast会话.
 * [mqtt2atlonamatrix](https://github.com/forty2/mqtt2atlonamatrix) - 使用MQTT控制Atlona HDMI矩阵开关.
 * [mqtt2tivoremote](https://github.com/forty2/mqtt2tivoremote) - 通过MQTT智能家居风格界面提供TiVo DVR遥控器.
-* [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt)   -  Onkyo AVR的EISCP网络远程协议与MQTT之间的接口.  使用onkyo-eiscp库.
+* [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
 * [sonos2mqtt](https://github.com/svrooij/sonos2mqtt) -  Sonos和MQTT之间的桥梁.
 * [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - 通过MQTT控制VLC.
 * [xbmc2mqtt](https://github.com/gordonjcp/xbmc-mqtt) - 一个简单的插件，供XBMC监听MQTT代理上的特定主题，并显示弹出消息.
@@ -332,7 +308,6 @@
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) -  Node-RED的仪表板UI.
 * [thingsboard](https://thingsboard.io/) - 物联网项目的设备管理，数据收集，处理和可视化.
 
-可以在下面找到可用于创建可视化/仪表板的其他工具 [Smart Home Integration Software](#smart-home-integration-software)
 
 
 ### Architecture, Convention

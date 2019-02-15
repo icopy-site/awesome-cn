@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="lnishan/awesome-competitive-programming"></div>
 ## Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的“竞争规划”，“算法”和“数据结构”资源的精选列表.
@@ -20,29 +21,8 @@
 &gt;我真的希望更多的人可以从这个列表中受益:)
 
 
-## Table of Contents
 
-* [List of Lists](#list-of-lists)
-* [Syllabuses](#syllabuses)
-* [Tutorial Websites](#tutorial-websites)
-* [Open Courses](#open-courses)
-    * [Open Courses for Algorithms and Data Structures](#open-courses-for-algorithms-and-data-structures)
-* [Books](#books)
-    * [Books for Algorithms](#books-for-algorithms) | [Books for Mathematics](#books-for-mathematics)
-* [Sites for Practice](#sites-for-practice)
-    * [Problem Classifiers](#problem-classifiers) | [Contest Calendars](#contest-calendars)
-* [Camps and Trainings](#camps-and-trainings)
-* [Sites for Questions](#sites-for-questions)
-* [Implementations](#implementations)
-* [Language Specifics](#language-specifics)
-    * [C/C++](#cc) | [Java](#java) | [Miscellaneous](#miscellaneous)
-* [Tools](#tools)
-    * [IDEs](#ides) | [Personal use](#personal-use) | [Contest Preparation](#contest-preparation)
-* [Community](#community)
-    * [Blogs](#blogs) | [Youtube and Livestreams](#youtube-and-livestreams) | [Quora](#quora)
 * [Other Awesome Resources](#other-awesome-resources) 
-    * [Articles](#articles) | [FAQs](#faqs) | [Awesome Lists](#awesome-lists) | [Interview Questions](#interview-questions)
-* [License](#license)
 
 
 ## List of Lists
@@ -317,7 +297,7 @@
 | Makoto Soejima（rng_58）| [rng_58's blog](https://rng-58.blogspot.com) |
  |  Bruce Merry（bmerry）| [Entropy always increases](http://blog.brucemerry.org.za/) |
  |  PrzemysławDębiak（Psyho） [Psyho's blog](http://psyho.gg/) |
- |  Anudeep Nekkanti（anudeep2011）| [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
+| Anudeep Nekkanti (anudeep2011) | [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
  |  vexorian（vexorian）| [vexorian's blog](http://www.vexorian.com/) |
  |  Ashar Fuadi（fushar）| [Fushar's blog](http://fusharblog.com/) |
 | LiJie Chen (WJMZBMR) | [WJMZBMR (Chinese)](http://wjmzbmr.com/) |
@@ -354,7 +334,7 @@
 | --- | --- |
 | [Bill Poucher](https://www.quora.com/profile/Bill-Poucher)  |  执行董事 [ACM-ICPC](https://icpc.baylor.edu) .  贝勒大学CS教授.  | 
 | [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek)  |  组织者 [IPSC](https://ipsc.ksp.sk) 和 [IOI](https://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm 和 CS Education Researcher. Former highly-rated competitive programmer. |
-| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly)  |  创始人 [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com) Lead Software Engineer. Former member of the [Google Code Jam](https://code.google.com/codejam/)  球队.  |
+| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly)  |  创始人 [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com)  首席软件工程师.  前成员 [Google Code Jam](https://code.google.com/codejam/)  球队.  |
 
  |  竞争程序员|  |  |  
 | --- | --- | --- |  

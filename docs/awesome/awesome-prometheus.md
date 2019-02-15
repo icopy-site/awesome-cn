@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="roaldnefs/awesome-prometheus"></div>
 ## Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的普罗米修斯资源，项目和工具的精选列表.
@@ -6,18 +7,7 @@
 
 Prometheus是一个开源系统监控和警报工具包.
 
-## Contents
 
-- [Official resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Podcasts and interviews](#podcasts-and-interviews)
-- [Presentations](#presentations)
-- [Blog posts and opinions](#blog-posts-and-opinions)
-- [Dashboards](#dashboards)
-- [Exporters](#exporters)
-- [Uncategorized](#uncategorized)
 
 ## Official resources
 
@@ -100,6 +90,10 @@ Prometheus是一个开源系统监控和警报工具包.
 - [Node exporter](https://github.com/prometheus/node_exporter) - 节点导出器定期擦除系统统计信息**（官方出口商）**.
 - [Redis exporter](https://github.com/oliver006/redis_exporter) -  Redis导出器定期搜索Redis服务器统计信息.
 - [Elasticsearch Exporter](https://github.com/justwatchcom/elasticsearch_exporter) -  ElasticSearch导出器定期擦除ElasticSearch服务器统计信息.
+
+## Alertmanager
+
+- [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - 令人敬畏的普罗米修斯警报规则清单.
 
 ## Proxies
 

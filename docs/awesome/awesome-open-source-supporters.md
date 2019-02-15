@@ -1,21 +1,11 @@
+<div class="github-widget" data-repo="zachflower/awesome-open-source-supporters"></div>
 ## Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选公司的精选列表，为开源和公共项目免费提供工具和服务.
 
 **注意：虽然有很多公司拥有很好的免费等级（例如Slack），但这个列表专门针对那些对开源社区做出公开承诺的组织.**
 
-## Contents
 
-- [Code Coverage](#code-coverage)
-- [Code Quality](#code-quality)
-- [Continuous Integration](#continuous-integration)
-- [Dependency Management](#dependency-management)
-- [Package Management](#package-management)
-- [Project Management](#project-management)
-- [Monitoring](#monitoring)
-- [Localization](#localization)
-- [Version Control](#version-control)
-- [Miscellaneous](#miscellaneous)
 
 ## Code Coverage
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="hyperapp/awesome-hyperapp"></div>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
 &gt; 1 kB用于构建Web应用程序的JavaScript库.
@@ -6,12 +7,6 @@
 
 <!-- TOC -->
 
-* [Official Resources](#official-resources)
-* [Articles & Tutorials](#articles--tutorials)
-* [Boilerplates](#boilerplates)
-* [Utilities](#utilities)
-* [Testing](#testing)
-* [Other](#other)
 
 <!-- /TOC -->
 

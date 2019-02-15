@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 ## Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的资源集合 [Apache JMeter](http://jmeter.apache.org/) 和相关的资源和闪亮的东西：插件，集成，测试技术，ci，devops等.
 
@@ -5,37 +6,8 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 
 这个名单从此长大 [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) 和个人jmeter相关的链接收集和进一步的灵感来自 [awesome](https://github.com/sindresorhus/awesome) 项目.
 
-## Contents
 
-- [Getting Started](#getting-started)
-- [Tutorials](#tutorials)
 - [Books](#books)    
-- [Trainings & Courses](#trainings--courses)
-- [Best Practices](#best-practices)
-- [Scripting](#scripting)
-- [DSL](#dsl)
-- [Distributions](#distributions)
-- [Plugins](#plugins)
-- [CI](#ci)
-- [Distributed Testing](#distributed-testing)
-- [Cloud Services / SaaS](#cloud-services--saas)
-- [Monitoring](#monitoring)
-- [Results Analysis](#results-analysis)
-- [Results Visualisation](#results-visualisation)
-- [JMeter Performance](#jmeter-performance)
-- [Tips & Tricks](#tips--tricks)
-- [IDE Integration](#ide-integration)
-- [Performance Testing](#performance-testing)
-    - [Streaming Protocols](#streaming-protocols)
-    - [Mobile Apps](#mobile-apps)
-- [Community](#community)
-    - [Blogs](#blogs)
-    - [Forums](#forums)
-    - [News & Updates](#news--updates)
-    - [Twitter](#twitter)
-    - [Q&A](#qa)
-- [Contributing](#contributing)
-- [License](#license)
 
 
 ## Getting Started
@@ -131,7 +103,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
         - 如何使用Maven和Jenkins自动化JMeter测试： [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
         -  JMeter连续性能测试（JMeter + Ant + Jenkins）： [part 1](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part1/), [part 2](http://www.testautomationguru.com/jmeter-continuous-performance-testing-part2/)
         - [Continuous Integration 101: How to Run JMeter with Jenkins](https://www.blazemeter.com/blog/continuous-integration-101-how-run-jmeter-jenkins)
-    - Bamboo
+    - 竹子
         - [How to Run JMeter in a Continuous Integration Environment with Bamboo](https://www.blazemeter.com/blog/how-run-jmeter-continuous-integration-environment-bamboo)
     -  SonarQube
         - [JMeter with Sonar](http://testersinaction.blogspot.com.by/2013/05/v-behaviorurldefaultvmlo_24.html)
@@ -244,7 +216,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ### Blogs
 
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - 关于JMeter和性能测试的BlazeMeter博客.
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -  UBIK INGENIERIE博客.
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - 关于测试自动化的技术博客.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - 关于Apache JMeter的博客和Web应用程序的性能测试.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -  RedLine13博客中的JMeter文章.

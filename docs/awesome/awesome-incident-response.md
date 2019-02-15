@@ -1,32 +1,11 @@
+<div class="github-widget" data-repo="meirwah/awesome-incident-response"></div>
 ## Awesome Incident Response [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;针对安全事件响应的策划工具和资源列表，旨在帮助安全分析师和 [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html) 团队.
 
-数字取证和事件响应（DFIR）团队是负责管理安全事件响应的组织中的一组人员，包括收集事件的证据，补救其影响，以及实施控制以防止事件在未来再次发生.
+Digital Forensics and Incident Response (DFIR) teams are groups of people in an organization responsible for managing the response to a security incident, including gathering evidence of the incident, remediating its effects, and implementing controls to prevent the incident from recurring in the future.
 
-## Contents
 
-- [Adversary Emulation](#adversary-emulation)
-- [All in one tools](#all-in-one-tools)
-- [Books](#books)
-- [Communities](#communities)
-- [Disk Image Creation Tools](#disk-image-creation-tools)
-- [Evidence Collection](#evidence-collection)
-- [Incident Management](#incident-management)
-- [Linux Distributions](#linux-distributions)
-- [Linux Evidence Collection](#linux-evidence-collection)
-- [Log Analysis Tools](#log-analysis-tools)
-- [Memory Analysis Tools](#memory-analysis-tools)
-- [Memory Imaging Tools](#memory-imaging-tools)
-- [OSX Evidence Collection](#osx-evidence-collection)
-- [Other lists](#other-lists)
-- [Other tools](#other-tools)
-- [Playbooks](#playbooks)
-- [Process Dump Tools](#process-dump-tools)
-- [Sandboxing/reversing tools](#sandboxingreversing-tools)
-- [Timeline tools](#timeline-tools)
-- [Videos](#videos)
-- [Windows Evidence Collection](#windows-evidence-collection)
 
 ## IR tools Collection
 
@@ -37,11 +16,11 @@
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)   - 自动战术技术和程序.  手动重新运行复杂序列以进行回归测试，产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队合作达到一个新的水平.
 * [Caldera](https://github.com/mitre/caldera)   - 自动对手仿真系统，可在Windows企业网络中执行折衷后的对抗行为.  它使用计划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预配置对手模型在运营期间生成计划.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - Modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)   - 模块化，菜单驱动，跨平台工具，用于构建可重复，延时，分布式安全事件.  轻松为Blue Team演习和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，干扰和诱饵，以支持和扩展他们的业务.
 * [Metta](https://github.com/uber-common/metta) - 用于对抗模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 轻量级实用程序，用于生成恶意网络流量，并帮助安全团队评估安全控制和网络可见性.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -  RTA提供了一个脚本框架，旨在允许蓝队测试他们针对恶意交易的检测能力，模仿MITRE ATT和CK.
-* [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
+* [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于对手仿真和威胁搜寻的虚拟机.
 
 ### All in one Tools
 
@@ -54,7 +33,7 @@
 * [Envdb](https://github.com/mephux/envdb)   -  Envdb将您的生产，开发，云等环境转变为数据库集群，您可以使用osquery作为基础进行搜索.  它使用（群集）节点代理包装osquery进程，该代理可以与中央位置进行通信.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于Windows的应用程序，提供工作流程自动化，案例管理和安全响应功能.
 * [GRR Rapid Response](https://github.com/google/grr)   - 事件响应框架侧重于远程实时取证.  它由安装在目标系统上的python代理（客户端）和可以管理代理并与代理通信的python服务器基础结构组成.
-* [Kolide Fleet](https://kolide.com/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions.
+* [Kolide Fleet](https://kolide.com/fleet)   - 为安全专家量身定制的最先进的主机监控平台.  利用Facebook经过实战考验的osquery项目，Kolide可以快速回答大问题.
 * [Limacharlie](https://github.com/refractionpoint/limacharlie) - 由一系列小型项目组成的端点安全平台，它们协同工作，为您提供跨平台（Windows，OSX，Linux，Android和iOS）低级环境，用于管理和将其他模块推送到内存中以扩展其功能.
 * [Mozilla Investigator (MIG)](http://mig.mozilla.org/)   - 在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 * [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理流程并促进事件处理程序的实时活动.
@@ -123,7 +102,7 @@
 
 * [Lorg](https://github.com/jensvoid/lorg) - 用于高级HTTPD日志文件安全性分析和取证的工具.
 * [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的CLI实用程序和Python API.
-* [StreamAlert](https://github.com/airbnb/streamalert) - 无服务器的实时日志数据分析框架，能够使用用户定义的逻辑提取自定义数据源并触发警报.
+* [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - 通过聚合事件日志，SysmonSearch使Windows事件日志分析更有效，耗时更少.
 
 ### Memory Analysis Tools
@@ -131,7 +110,7 @@
 * [Evolve](https://github.com/JamesHabben/evolve) -  Volatility Memory取证框架的Web界面.
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - 具有嵌套虚拟机管理程序支持的Windows x64高级内存分析.
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - 计算机内存分析工具.
-* [LiME](https://github.com/504ensicsLabs/LiME) - 可加载内核模块（LKM），允许从基于Linux和Linux的设备（以前称为DMD）中获取易失性内存.
+* [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html)   - 免费内存取证软件，帮助事件响应者在现场记忆中发现邪恶.  Memoryze可以获取和/或分析存储器图像，并且在实时系统上，可以在其分析中包括页面文件.
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html)   -  Memoryze for Mac是Memoryze，但随后是Mac.  但是，功能数量较少.
 * [Rekall](http://www.rekall-forensic.com/) - 用于从易失性存储器（RAM）样本中提取数字伪像的开源工具（和库）.
@@ -143,7 +122,6 @@
 
 ### Memory Imaging Tools
 
-* [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - 微小的免费取证工具，可靠地提取计算机易失性存储器的全部内容 - 即使受到主动反调试或反倾销系统的保护.
 * [Linux Memory Grabber](https://github.com/halpomeranz/lmg/) - 用于转储Linux内存和创建Volatility配置文件的脚本.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/)   - 免费的成像工具，旨在捕获嫌疑人计算机的物理内存.  支持最新版本的Windows.
 * [OSForensics](http://www.osforensics.com/)   - 在32位和64位系统上获取实时内存的工具.  可以完成单个进程的内存空间或物理内存转储的转储.
@@ -175,8 +153,8 @@
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则到多文件YARA扫描Python脚本用于恶意软件动物园和IR.
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - 允许用户在Windows，Linux和OS X上使用YARA扫描IOC的磁盘和内存.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用特制的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
-* [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关MySQL的取证数据.
-* [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
+* [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
+* [Scout2](https://nccgroup.github.io/Scout2/) - 安全工具，可让Amazon Web Services管理员评估其环境的安全状况.
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 用于从云服务获取取证数据的命令行实用程序.
 * [Stenographer](https://github.com/google/stenographer)   - 数据包捕获解决方案，旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包的子集的简单，快速访问.  它可以存储尽可能多的历史记录，管理磁盘使用情况，以及在磁盘限制被触发时删除.  它非常适合在事件发生之前和事件期间捕获流量，而无需明确需要存储所有网络流量.
 * [sqhunter](https://github.com/0x4d31/sqhunter)   - 基于osquery和Salt Open（SaltStack）的威胁猎手，可以发出临时或分布式查询，而无需osquery的tls插件.  sqhunter允许您查询打开的网络套接字并根据威胁情报源进行检查.
@@ -194,7 +172,6 @@
 ### Process Dump Tools
 
 * [Microsoft User Mode Process Dumper](http://www.microsoft.com/en-us/download/details.aspx?id=4060) - 即时转储任何正在运行的Win32处理内存映像.
-* [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - 允许您将进程的内存内容转储到文件而不停止进程的工具.
 
 ### Sandboxing/reversing tools
 
@@ -206,14 +183,13 @@
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - 静态分析框架，自动化从多种不同文件格式中提取关键特征的过程.
 * [Metadefender Cloud](https://www.metadefender.com) - 免费威胁情报平台，提供多扫描，数据清理和文件漏洞评估.
 * [Viper](https://github.com/viper-framework/viper) - 基于Python的二进制分析和管理框架，适用于Cuckoo和YARA.
-* [Virustotal](https://www.virustotal.com) - 免费在线服务，分析文件和URL，以识别由防病毒引擎和网站扫描仪检测到的病毒，蠕虫，特洛伊木马和其他类型的恶意内容.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - 用于日志的开源可视化库和命令行工具（Cuckoo，Procmon，更多内容）.
 
 ### Timeline tools
 
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html)   -  Fire / Mandiant提供的免费工具，它将描绘日志/文本文件，可以突出显示图形上与关键字或短语相对应的区域.  有利于时间排除感染和妥协后做了什么.
 * [Morgue](https://github.com/etsy/morgue) -  Etsy的PHP Web应用程序，用于管理事后管理.
-* [Plaso](https://github.com/log2timeline/plaso) - 用于工具log2timeline的基于Python的后端引擎.
+* [Plaso](https://github.com/log2timeline/plaso) - 用于工具log2timeline的基于Python的后端引擎。
 * [Timesketch](https://github.com/google/timesketch) - 用于协作取证时间线分析的开源工具.
 
 

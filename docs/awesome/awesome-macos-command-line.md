@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="herrbischoff/awesome-macos-command-line"></div>
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-macos-command-line/cab824f0/assets/logo.svg" alt="Awesome macOS Command Line" width="600"></h1>
 
 &gt;特定于OS X的shell命令和工具的精选列表.
@@ -18,107 +19,7 @@
 Patreon：https：//www.patreon.com/herrbischoff
 
 
-## Contents
 
-- [Appearance](#appearance)
-    - [Transparency](#transparency)
-    - [Wallpaper](#wallpaper)
-- [Applications](#applications)
-    - [App Store](#app-store)
-    - [Apple Remote Desktop](#apple-remote-desktop)
-    - [Contacts](#contacts)
-    - [Google](#google)
-    - [iTunes](#itunes)
-    - [Mail](#mail)
-    - [Safari](#safari)
-    - [Sketch](#sketch)
-    - [Skim](#skim)
-    - [Terminal](#terminal)
-    - [TextEdit](#textedit)
-    - [Visual Studio Code](#visual-studio-code)
-- [Backup](#backup)
-    - [Time Machine](#time-machine)
-- [Developer](#developer)
-    - [Vim](#vim)
-    - [Xcode](#xcode)
-- [Dock](#dock)
-- [Documents](#documents)
-- [Files, Disks and Volumes](#files-disks-and-volumes)
-    - [APFS](#apfs)
-    - [Disk Images](#disk-images)
-- [Finder](#finder)
-    - [Desktop](#desktop)
-    - [Files and Folders](#files-and-folders)
-    - [Layout](#layout)
-    - [Metadata Files](#metadata-files)
-    - [Opening Things](#opening-things)
-- [Fonts](#fonts)
-- [Functions](#functions)
-- [Hardware](#hardware)
-    - [Bluetooth](#bluetooth)
-    - [Harddisks](#harddisks)
-    - [Hardware Information](#hardware-information)
-    - [Infrared Receiver](#infrared-receiver)
-    - [Power Management](#power-management)
-- [Input Devices](#input-devices)
-    - [Keyboard](#keyboard)
-- [Launchpad](#launchpad)
-- [Media](#media)
-    - [Audio](#audio)
-    - [Video](#video)
-- [Networking](#networking)
-    - [Bonjour](#bonjour)
-    - [DHCP](#dhcp)
-    - [DNS](#dns)
-    - [Hostname](#hostname)
-    - [Network Preferences](#network-preferences)
-    - [Networking Tools](#networking-tools)
-    - [SSH](#ssh)
-    - [TCP/IP](#tcpip)
-    - [TFTP](#tftp)
-    - [Wi-Fi](#wi-fi)
-- [Package Managers](#package-managers)
-- [Printing](#printing)
-- [Security](#security)
-    - [Application Firewall](#application-firewall)
-    - [Gatekeeper](#gatekeeper)
-    - [Passwords](#passwords)
-    - [Physical Access](#physical-access)
-    - [Wiping Data](#wiping-data)
-- [Search](#search)
-    - [Find](#find)
-    - [Locate](#locate)
-- [System](#system)
-    - [AirDrop](#airdrop)
-    - [AppleScript](#applescript)
-    - [Basics](#basics)
-    - [Clipboard](#clipboard)
-	- [Date and Time](#date-and-time)
-    - [FileVault](#filevault)
-    - [Information/Reports](#informationreports)
-    - [Install OS](#install-os)
-    - [Kernel Extensions](#kernel-extensions)
-    - [LaunchAgents](#launchagents)
-    - [LaunchServices](#launchservices)
-    - [Login Window](#login-window)
-    - [Memory Management](#memory-management)
-    - [Notification Center](#notification-center)
-    - [QuickLook](#quicklook)
-    - [Remote Apple Events](#remote-apple-events)
-    - [Root User](#root-user)
-    - [Safe Mode Boot](#safe-mode-boot)
-    - [Screenshots](#screenshots)
-    - [Software Installation](#software-installation)
-    - [Software Update](#software-update)
-    - [Software Version](#software-version)
-    - [Spotlight](#spotlight)
-    - [System Integrity Protection](#system-integrity-protection)
-- [Terminal](#terminal)
-    - [Alternative Terminals](#alternative-terminals)
-    - [Shells](#shells)
-    - [Terminal Fonts](#terminal-fonts)
-- [Glossary](#glossary)
-    - [Mac OS X, OS X, and macOS Version Information](#mac-os-x-os-x-and-macos-version-information)
 
 
 ## Appearance
@@ -670,7 +571,6 @@ mkdir~ / mnt
 
 ### Disk Images
 
-#### Create Disk Image From Folder Contents
 ```bash
 hdiutil create -volname“Volume Name”-srcfolder / path / to / folder -ov diskimage.dmg
 ```
@@ -732,7 +632,7 @@ hdiutil detach / dev / disk2s1
 killall Finder
 
 ## Disable (Default)
-默认写入com.apple.finder ShowExternalHardDrivesOnDesktop -bool false &amp;&amp; \
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
 
@@ -1361,7 +1261,7 @@ sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Curre
 ```
 运行无线扫描：
 ```bash
-airport -s
+机场-s
 ```
 
 #### Show Current SSID
@@ -1628,7 +1528,6 @@ uptime
  pbpaste |  textutil -convert txt -stdin -stdout -encoding 30 |  pbcopy
 ```
 
-#### Convert Tabs to Spaces for Clipboard Content
 ```bash
  pbpaste |  展开|  pbcopy
 ```
@@ -1638,7 +1537,6 @@ uptime
 pbpaste&gt; whatever.txt
 ```
 
-#### Sort and Strip Duplicate Lines from Clipboard Content
 ```bash
  pbpaste |  排序|  uniq |  pbcopy
 ```

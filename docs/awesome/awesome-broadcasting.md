@@ -1,28 +1,7 @@
+<div class="github-widget" data-repo="ebu/awesome-broadcasting"></div>
 ## Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 为广播公司制作精彩的开源资源的精选列表.
 
-* [Awesome Broadcasting](#awesome-broadcasting)
-  * [Codecs](#codecs)
-  * [Companion Screens](#companion-screens)
-  * [Connected TVs](#connected-tvs)
-  * [Distributed Media Processing](#distributed-media-processing)
-  * [DVB & WiFi](#dvb--wifi)
-  * [Animation, Graphics & Video Playout](#animation-graphics--video-playout)
-  * [Hybrid Radio](#hybrid-radio)
-  * [LiveIP](#liveip)
-  * [Media Players](#media-players)
-  * [Metadata](#metadata)
-  * [Monitoring & Quality Control](#monitoring--quality-control)
-  * [Multimedia content processing](#multimedia-content-processing)
-  * [Network & Storage Testing](#network--storage-testing)
-  * [Radio Production](#radio-production)
-  * [Software-defined radio](#software-defined-radio)
-  * [Subtitling](#subtitling)
-  * [Video Production](#video-production)
-* [Resources](#resources)
-  * [Blogs](#blogs)
-  * [Websites](#websites)
-* [Contributing](#contributing)
 
 <!-- This page is available on http://ebu.io/opensource -->
 ## Codecs
@@ -69,11 +48,12 @@
 * [Blender](https://developer.blender.org/diffusion/) -  3D创建套件，支持3D管道建模，装配，动画，模拟，渲染，合成和运动跟踪，甚至视频编辑和游戏创建.
 * [CasparCG](http://www.casparcg.com/) - 专业的图形和视频播出软件，自2006年以来在24/7广播中得到验证.
 * [i-Score](http://i-score.org/) - 免费的开源中间媒体音序器.
+* [Macadam](https://github.com/Streampunk/macadam) - 用于Blackmagic设备的Node.js绑定，支持使用HTML / CSS创建的键和填充图形（通过 [Electron](https://electronjs.org/)）和SVG（通过 [Sevruga](https://github.com/Streampunk/sevruga)).
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - 基于CasparCG的MCR播放系统.
 
 ## Hybrid Radio
 
-* [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
+* [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - 在node.js中执行RadioDNS解析和服务查找.
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - 管理混合无线电静态服务的平台，如RadioVIS，RadioEPG和Service Follow.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) -  JavaScript中的RadioTag客户端库.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) -  Python中的RadioVIS客户端应用程序.
@@ -112,7 +92,6 @@
 * [EBUCore](https://github.com/ebu/ebucore) -  Github用于维护 [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) -  Python实现AMWA IS-04 NMOS注册和发现规范以及AMWA IS-05 NMOS器件连接管理规范.
 * [jebu-core](https://github.com/mikrosimage/jebu-core)   -  EBUCore XML Schema Java端口.  Java端口 [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU核心元数据集（EBUCore）规范v.1.5，包括新 [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
-* [Ledger](https://github.com/Streampunk/ledger) -  Node.js实现NMOS注册和发现规范.
 * [MAJ API](https://github.com/AMWA-TV/maj) - 用于读写MXF和AAF文件的纯Java库.
 * [NMOS](https://github.com/sony/nmos-cpp) - 用C ++编写的NMOS（网络媒体开放规范）注册表和节点（IS-04，IS-05）.
 * [SDPoker](https://github.com/Streampunk/sdpoker) - 用于测试SMPTE ST2110 SDP文件的CLI工具和库.
@@ -129,18 +108,17 @@
 * [MediaConch](https://mediaarea.net/MediaConch/) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 方便地统一显示视频和音频文件的最相关技术和标签数据.
 * [MXF Inspect](http://www.myriadbits.com/) - 用于显示MXF（Material eXchange Format）文件内部结构的Windows工具.
-* [Photon](https://github.com/Netflix/photon) - 实施SMPTE互操作主模式（IMF）标准.
+* [Photon](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools](https://github.com/bavc/qctools) - 用于视频保存的质量控制工具，用于分析数字化视频文件.
 * [Rotter](https://github.com/njh/rotter) - 记录JACK的传输/音频记录器.
 * [silan](https://github.com/x42/silan) -  Audiofile静音分析仪.
 * [SilentJack](https://github.com/njh/silentjack) - 用于JACK的死气/静音探测器.
-* [Sonic Visualiser](http://www.sonicvisualiser.org/) - 用于查看和分析音乐音频文件内容的应用程序.
 * [VMAF](https://github.com/Netflix/vmaf) - 基于多方法融合的感知视频质量评估.
 * [Wisual](https://github.com/MarcAntoine-Arnaud/wisual) - 视觉质量评估的Web服务，支持PSNR，SSIM，VQM等.
 
-## Multimedia content processing
 
 * [AvTranscoder](https://github.com/avTranscoder/avTranscoder)   - 基于FFmpeg / LibAV库支持各种视频和音频格式，avTranscoder提供高级API，可轻松重新包装或转码媒体.  它还为Java或Python中的任何用法提供绑定.
+* [Beam Coder](https://github.com/Streampunk/beamcoder) -  Node.js与FFmpeg的本地绑定，支持通过promises和stream进行异步处理.
 * [Bento4](https://github.com/axiomatic-systems/Bento4) - 全功能MP4格式和MPEG DASH C ++类库和工具.
 * [Codem-isoboxer](https://github.com/madebyhiro/codem-isoboxer) 一种基于浏览器的小型MPEG-4（ISOBMFF）解析器.
 * [Dynamorse](https://github.com/Streampunk/node-red-contrib-dynamorse-core) -  IT瑞士军刀 -  Node-RED媒体管道构建器，添加专业媒体处理节点.
@@ -154,7 +132,7 @@
 * [L-SMASH](https://github.com/l-smash/l-smash/) - 严格符合规范的ISOBMFF库，具有完整的DASH多路复用支持.
 * [LibAV](https://libav.org/) - 开源音频和视频处理工具.
 * [Libebur128](http://github.com/jiixyj/libebur128) - 实现响度归一化的EBU R 128标准的库.
-* [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - 一组用于分析，可视化和校正响度的应用程序.
+* [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - A set of applications to analyse, visualise and correct the loudness.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - 用于在浏览器（和NodeJS）中处理MP4文件的JavaScript库.
 * [MXFLib](http://sourceforge.net/projects/mxflib) - 用于读取和写入MXF文件的多平台C ++库.
 * [OBS-Studio](https://github.com/jp9000/obs-studio) - 用于直播和屏幕录制的软件.
@@ -223,7 +201,7 @@
 
 * [BBC News Labs](https://github.com/BBC-News-Labs) - 来自BBC新闻实验室的开源项目.
 * [BBC R&D](http://bbc.co.uk/rd)   -  BBC研究与发展.  查看每周笔记.
-* [3D CineCast](http://3dcinecast.blogspot.ch/) - A curation about new media technologies.
+* [3D CineCast](http://3dcinecast.blogspot.ch/) - 关于新媒体技术的策展.
 * [Canal+](http://canalplus.github.io/) -  CANAL +开源社区.
 * [IRT Lab](https://lab.irt.de/) -  IRT博客发布所有数字视听媒体技术的发展和演示.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) -  Netflix博客，专注于技术和技术问题.

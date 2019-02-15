@@ -1,48 +1,9 @@
+<div class="github-widget" data-repo="krispo/awesome-haskell"></div>
 令人敬畏的Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
  令人敬畏的Haskell链接，框架，库和软件的辅助列表.  部分内容 [awesome](https://github.com/sindresorhus/awesome) 项目线.
 
-- [Awesome Haskell](#awesome-haskell)
-    - [_Basics_](#basics)
-    - [Algorithmics](#algorithmics)
-    - [Audio, Music & Sound](#audio-music--sound)
-    - [Category Theory](#category-theory)
-    - [Compilers](#compilers)
-    - [Concurrency & Parallelism](#concurrency--parallelism)
-    - [Configuration](#configuration)
-    - [Cryptography & Hashing](#cryptography--hashing)
-    - [Data Access](#data-access)
-    - [Data Formats](#data-formats)
-    - [Data Science](#data-science)
-    - [Database](#database)
-    - [Development Tools](#development-tools)
-    - [Documentation](#documentation)
-    - [Distributed Computing](#distributed-computing)
-    - [Editors](#editors)
-    - [Extensions](#extensions)
-    - [Games](#games)
-    - [GUI](#gui)
-    - [Graphics](#graphics)
-    - [Network](#network)
-    - [Number Theory](#number-theory)
-    - [Web / Frameworks](#web--frameworks)
-    - [Text Processing](#text-processing)
-    - [Messaging](#messaging)
-    - [Languages](#languages)
-    - [Operating Systems](#operating-systems)
-    - [Platforms](#platforms)
-    - [Programming](#programming)
-    - [Science](#science)
-    - [Streaming Processing](#streaming-processing)
-- [Resources](#resources)
-    - [Websites](#websites)
-    - [Community](#community)
-    - [Tutorials](#tutorials)
-    - [Courses](#courses)
-    - [Conferences](#conferences)
-    - [Packages](#packages)
-- [License](#license)
 
 
 ## _Basics_
@@ -59,7 +20,6 @@
 * [hsenv](https://github.com/Paczesiowa/hsenv/)   - 创建隔离的Haskell环境的工具.  这允许项目使用与当前安装的GHC版本不同的GHC版本.
 * [Stack](https://github.com/commercialhaskell/stack)   - 帮助构建Haskell项目的跨平台工具.  它包括支持创建隔离的Haskell环境以及自动管理项目的依赖关系.
 * [Stackage](https://github.com/fpco/stackage) - “稳定的黑客”工具，用于从Hackage创建一套经过审查的软件包.
-* [The Haskell Platform](https://www.haskell.org/platform/contents.html) - 在Haskell中编程的全面，强大的开发环境.
 
 ## Algorithmics
 
@@ -279,7 +239,6 @@
 * [框架接口]（） - 官方网站资源.
 * [Database and Persistence](https://wiki.haskell.org/Web/Databases_and_Persistence) - 官方网站资源.
 * [Testing and Verification](https://wiki.haskell.org/Web/Testing_and_Verification) - 官方网站资源.
-* [CMS](https://wiki.haskell.org/Web/Content_Management) - 内容管理系统（CMS）的官方网站资源.
 
     ---
 * [Web](http://hackage.haskell.org/packages/#cat:Web) - 框架，库，......的协作Hackage列表

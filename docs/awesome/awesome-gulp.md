@@ -1,6 +1,7 @@
+<div class="github-widget" data-repo="alferov/awesome-gulp"></div>
 ## Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome [gulp](https://github.com/gulpjs/gulp) 资源，插件和样板，以实现更好的开发工作流程自动化.
+&gt;精选的精选列表 [gulp](https://github.com/gulpjs/gulp) 资源，插件和样板，以实现更好的开发工作流程自动化.
 
  _寻找别的东西？  看看其他 [awesome lists](https://github.com/sindresorhus/awesome)._
 
@@ -8,42 +9,7 @@
 
  ：octocat：欢迎所有贡献.  随意贡献（[guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
 
-## Contents
 
-- [Legend](#legend)
-- [Resources](#resources)
-  - [General Resources](#general-resources)
-  - [Official Documentation](#official-documentation)
-  - [Community](#community)
-  - [Tutorials](#tutorials)
-    - [Gulp Tutorials](#gulp-tutorials)
-    - [Gulp 4 Tutorials](#gulp-4-tutorials)
-    - [Gulp with Browserify](#gulp-with-browserify)
-    - [Gulp with Angular](#gulp-with-browserify)
-    - [Gulp with Angular and Browserify](#gulp-with-angular-and-browserify)
-    - [Gulp with Angular and Webpack](#gulp-with-angular-and-webpack)
-    - [Gulp with React and Browserify](#gulp-with-react-and-browserify)
-    - [Gulp with Ember](#gulp-with-ember)
-  - [Miscellaneous Resources](#miscellaneous-resources)
-- [Plugins](#plugins)
-  - [Compilation](#compilation)
-  - [Transpilation](#transpilation)
-  - [Concatenation](#concatenation)
-  - [Minification](#minification)
-  - [Optimization](#optimization)
-  - [Injecting Assets](#injecting-assets)
-  - [Templating](#templating)
-  - [Linting](#linting)
-  - [Live Reload](#live-reload)
-  - [Caching](#caching)
-  - [Flow Control](#flow-control)
-  - [Logging](#logging)
-  - [Testing](#testing)
-  - [Miscellaneous Plugins](#miscellaneous-plugins)
-- [Scaffolding](#scaffolding)
-  - [Boilerplates](#boilerplates)
-  - [Yeoman Generators](#yeoman-generators)
-- [Miscellaneous](#miscellaneous)
 
 ## Legend
 
@@ -295,7 +261,7 @@
 - [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - 用于AngularJS的Yeoman发电机.
 - [generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify)   - 用于React库的Yeoman Generator.  它包括gulp，Browserify，Browsersync和Bootstrap.
 - [generator-node-gulp](https://github.com/youngmountain/generator-node-gulp) -  Node.js模块生成器，包括gulp和Mocha.
-- [generator-gulp-bootstrap](https://github.com/niallobrien/generator-gulp-bootstrap) - 用于Bootstrap，gulp和libsass的Yeoman生成器.
+- [generator-gulp-bootstrap](https://github.com/niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass.
 - [generator-angulpify](https://github.com/jgoux/generator-angulpify) - 涉及AngularJS，gulp和Browserify的Yeoman生成器.
 - [generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - 用于Ionic Projects的Yeoman发电机.
 - [generator-gulp-plugin-boilerplate](https://github.com/sindresorhus/generator-gulp-plugin-boilerplate) - 脚手架出来了 [gulp plugin boilerplate](https://github.com/sindresorhus/gulp-plugin-boilerplate).

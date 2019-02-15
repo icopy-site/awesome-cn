@@ -1,18 +1,9 @@
+<div class="github-widget" data-repo="theimpossibleastronaut/awesome-linguistics"></div>
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 与语言学远程相关的任何内容的精选列表，按字母顺序排序.
 
-- [Programming](#programming)
-    - [Platforms and toolkits](#platforms-and-toolkits)
-    - [Algorithms](#algorithms)
-    - [Data sets](#data-sets)
-- [Resources](#resources)
-    - [On Wikipedia](#on-wikipedia)
-    - [Books](#books)
-        - [Free](#free)
-        - [Non free](#non-free)
-        - [Lists](#lists)
 
 ### Programming
 *用于开发应用程序的库，框架和应用程序.*

@@ -1,49 +1,10 @@
+<div class="github-widget" data-repo="mehcode/awesome-atom"></div>
 ## Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  令人愉快的Atom包和资源的精选列表.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
-## Table of Content
 
-- [Syntax](#syntax)
-- [Lint](#lint)
-- [Build](#build)
-- [Extensions](#extensions)
-  - [Nuclide](#nuclide)
 - [Themes](http://enrmarc.github.io/atom-theme-gallery/)
-- [Collaboration](#collaboration)
-  - [CodeSideStory](#codesidestory)
-- [Uncategorized](#uncategorized)
-  - [Nuclide](#nuclide)
-  - [Advanced Open File](#advanced-open-file)
-  - [Atom Reverser](#atom-reverser)
-  - [Atom Terminal](#atom-terminal)
-  - [Autocomplete module import](#autocomplete-module-import)
-  - [Beautify](#beautify)
-  - [Code Peek](#code-peek)
-  - [Color Picker](#color-picker)
-  - [Copy Paste](#copy-paste)
-  - [CSS Declaration Sorter](#css-declaration-sorter)
-  - [Duplicate Selection](#duplicate-selection)
-  - [Editor Config](#editor-config)
-  - [Emmet](#emmet)
-  - [File Icons](#file-icons)
-  - [Fonts](#fonts)
-  - [Git Time Machine](#git-time-machine)
-  - [html-to-css](#html-to-css)
-  - [iMDone](#imdone)
-  - [Jumpy](#jumpy)
-  - [Merge Conflicts](#merge-conflicts)
-  - [Minimap](#minimap)
-  - [Pigments](#pigments)
-  - [Project Plus](#project-plus)
-  - [Sort lines](#sort-lines)
-  - [Sorter](#sorter)
-  - [Sync Settings](#sync-settings)
-  - [PlatformIO IDE Terminal](#platformio-ide-terminal)
-  - [TernJS](#ternjs)
-  - [Test Navigator](#test-navigator)
-  - [Themer](#themer)
-  - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
 

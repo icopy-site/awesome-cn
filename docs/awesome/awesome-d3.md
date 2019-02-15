@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="wbkd/awesome-d3"></div>
 ## Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 此列表记录有趣 [D3js](http://d3js.org) 库，插件和实用程序.
@@ -32,12 +33,12 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - 来自分层数据的火焰图
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - 漏斗和金字塔图表库
 - [d3-gridding](https://github.com/romsson/d3-gridding) - 使用网格的图表模型
-- [d3-heatmap](https://github.com/tj/d3-heatmap) - 热图
+- [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) -  Horizo​​n图表模块
 - [d3-line](https://github.com/tj/d3-line) - 折线图
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - 动态/静态消息序列图
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - 响应时间表图表
-- [d3-timeseries](https://github.com/mcaule/d3-timeseries) - Time series charting library
+- [d3-timeseries](https://github.com/mcaule/d3-timeseries) - 时间序列图表库
 - [d3-x3dom](https://github.com/jamesleesaunders/d3-x3dom) - 可重复使用的X3DOM图表和数据组件[bubble，bar，surfacearea，scatterplot]
 - [d3fc](https://github.com/d3fc/d3fc) - 交互式图表组件的集合[line，bar，stacked，scatter，candlestick，ohlc]
 - [d3plus](https://github.com/alexandersimoes/d3plus) - 扩展库，可轻松创建可视化[散点图，堆叠图，线条，条形图，饼图，网络图，气泡图，方框图，地图图]

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="Kazhnuz/awesome-gnome"></div>
 ## Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
@@ -8,45 +9,7 @@
 
 &gt;标有！[GNOME Core] [GNOME Core]的项目是由GNOME项目正式维护和分发的应用程序，作为核心应用程序和工具集的一部分.
 
-## Contents  
 
-- [Applications](#applications)
-  - [Productivity](#productivity)
-  - [Internet](#internet)
-  - [Editor](#editor)
-  - [Documents](#documents)
-  - [Multimedia](#multimedia)
-  - [Graphics](#graphics)
-  - [Games](#games)
-  - [Customization](#customization)
-  - [Tools](#tools)
-  - [System](#system)
-  - [Others](#others)
-- [GTK Modules and Systems](#gtk-modules-and-systems)
-- [Extensions](#extensions)
-  - [Menus](#menus)
-  - [Applets](#applets)
-  - [Status Area](#status-area)
-  - [Windows](#windows)
-  - [Docks and Panels](#docks-and-panels)
-  - [Services Integration](#services-integration)
-- [Themes](#themes)
-  - [Adwaita-based](#adwaita-based)
-  - [Material](#material)
-  - [Flat](#flat)
-  - [Metallic](#metallic)
-- [Icons](#icons)
-  - [Material Icons](#material-icons)
-  - [Flat Icons](#flat-icons)
-  - [Homogeneous Icons](#homogeneous-icons)
-  - [Skeumorphic](#skeumorphic)
-  - [Cursors](#cursors)
-- [Community](#community)
-- [Developer Tools](#developer-tools)
-  - [IDE](#ide)
-  - [Libraries and Utility](#libraries-and-utility)
-  - [Examples](#examples)
-  - [Documentation](#documentations)
 
 ---
 
@@ -168,7 +131,7 @@
 ### Status Area
 - [TopIcons Plus](https://extensions.gnome.org/extension/1031/topicons/) -  GNOME状态栏的传统系统.
 - [KStatusNotifiers/AppIndicator Support](https://extensions.gnome.org/extension/615/appindicator-support/) -  GNOME的Appindicator系统.
-- [Argos](https://extensions.gnome.org/extension/1176/argos/) - Turns executables' standard output into panel dropdown menus; fully compatible with BitBar app for macOS. 
+- [Argos](https://extensions.gnome.org/extension/1176/argos/)   - 将可执行文件的标准输出转换为面板下拉菜单;  完全兼容macOS的BitBar应用程序. 
 - [Extend Panel Menu](https://github.com/julio641742/extend-panel-menu) - 将状态菜单分成几个小程序.
 
 ### Windows
@@ -241,7 +204,7 @@
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - 基本操作系统图标的桌面无关版本.
 
 ### Cursors
- - [ComixCursors](https://www.gnome-look.org/p/999996/)   -  X11鼠标主题，带有漫画感.  提供六种颜色和三种颜色（常规，纤细和不透明）.
+ - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - 基于Silm材质的光标主题.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)   - 受macOS启发并基于KDE Breeze的x光标主题.  旨在与La Capitaine图标配对.
 

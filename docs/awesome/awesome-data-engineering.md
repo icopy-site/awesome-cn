@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="igorbarinov/awesome-data-engineering"></div>
 令人敬畏的数据工程
 ==========================
 
@@ -5,19 +6,6 @@
 
 内容清单
 
-1. [Databases](#databases)
-2. [Ingestion](#data-ingestion)
-3. [File System](#file-system)
-4. [Serialization format](#serialization-format)
-5. [Stream Processing](#stream-processing)
-6. [Batch Processing](#batch-processing)
-7. [Charts and Dashboards](#charts-and-dashboards)
-8. [Workflow](#workflow)
-9. [ELK Elastic Logstash Kibana](#elk-elastic-logstash-kibana)
-10. [Docker](#docker)
-11. [Datasets](#datasets)
-12. [Monitoring](#monitoring)
-13. [Community](#community)
 
 ## Databases
 - 关系

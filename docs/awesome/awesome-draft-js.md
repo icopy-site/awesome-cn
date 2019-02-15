@@ -1,8 +1,8 @@
+<div class="github-widget" data-repo="nikgraf/awesome-draft-js"></div>
 ## Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [Draft.js](https://draftjs.org/) 是一个在React中构建富文本编辑器的框架.
 
-**目录**
 
 - [Community](https://github.com/nikgraf/awesome-draft-js#community)
 - [Presentations](https://github.com/nikgraf/awesome-draft-js#presentations)
@@ -87,24 +87,12 @@
 
 ## Common Utilities
 
-* [BackDraft.js](https://github.com/evanc/backdraft-js) - 将rawContentBlock转换为标记字符串的功能.
-* [Draft.js Exporter](https://github.com/rkpasia/draft-js-exporter) - 从Draft.js导出和格式化内容.
-* [Draft.js: Export ContentState to HTML](https://github.com/sstur/draft-js-utils/tree/master/packages/draft-js-export-html) - 将ContentState导出为HTML.
-* [Draft.js: Export ContentState to PDFMake](https://github.com/datagenno/draft-js-export-pdfmake) - 将ContentState导出为PDFMake.
 * [Redraft](https://github.com/lokiuz/redraft) - 使用提供的回调渲染Draft.js convertToRaw的结果，与React配合良好
-* [Draft.js exporter (Ruby)](https://github.com/ignitionworks/draftjs_exporter) - 将Draft.js内容状态导出为HTML.
-* [Draft.js exporter (Python)](https://github.com/springload/draftjs_exporter) - 将Draft.js原始ContentState转换为HTML的库
-* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - 将内容导出为抽象语法树（AST）.
 * [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- 从伴侣draft-js-ast-exporter导入抽象语法树（AST）输出.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draft-js-multidecorators) - 组合多个装饰器.
 * [Draft.js SimpleDecorator](https://github.com/Soreine/draft-js-simpledecorator) - 轻松创建灵活的装饰.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils) -  DraftJS的一组实用功能.
-* [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html) - 用于为DraftJS编辑器内容生成HTML的库.
-* [Draft Convert](https://github.com/HubSpot/draft-convert) - 使用HTML扩展序列化和反序列化Draft.js ContentState.
-* [HTML to DraftJS](https://github.com/jpuri/html-to-draftjs) - 将纯HTML转换为DraftJS编辑器内容.
-* [Draft.js Exporter (Go)](https://github.com/ejilay/draftjs) - 将Draft.js内容状态导出为HTML.
 * [React Native Draft.js Render](https://github.com/globocom/react-native-draftjs-render) -  Draft.js模型的React Native渲染.
-* [Draft.js filters](https://github.com/thibaudcolas/draftjs-filters) - 过滤Draft.js内容以仅保留您允许的格式.
 * [Sticky](https://github.com/nadunindunil/sticky) - 简单的笔记和剪贴板管理桌面应用程序
 
 ## Blog Posts & Articles

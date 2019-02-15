@@ -1,20 +1,8 @@
+<div class="github-widget" data-repo="TalAter/awesome-book-authoring"></div>
 ## Awesome Book Authoring
 一个集合 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）技术书籍作者的资源.
 
-## Table of Contents
 
-- [Must Reads](#must-reads)
-- [Book Proposals](#book-proposals)
-- [Contracts](#contracts)
-- [Royalties, Advances, and Other Money Stuff](#royalties-advances-and-other-money-stuff)
-- [Editors](#editors)
-- [Publishers](#publishers)
-- [Marketing](#marketing)
-- [Misc.](#misc)
-- [List of Publishers](#list-of-publishers)
-- [Self Publishing](#self-publishing)
-- [Writing Workflows and Tooling](#writing-workflows-and-tooling)
-- [Personal Experiences, Post Mortems and Campfire Stories](#personal-experiences-post-mortems-and-campfire-stories)
 
 ## Must Reads
 

@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="arbox/machine-learning-with-ruby"></div>
 <img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
@@ -6,7 +7,6 @@
  [RubyDataScience](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop](https://github.com/arbox/ruby-interoperability)]
 
-## Awesome Machine Learning with Ruby [<img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/ruby.jpg" align="left" width="30px" height="30px" />][ruby]
 
 &gt; Ruby机器学习链接和资源的策划列表
 
@@ -34,33 +34,9 @@ Read [why](#wait-but-why) 这个清单太棒了.
 the word using the `#RubyML` hash tag!
 
 <!-- nodoc -->
-## Contents
 
 <!-- toc -->
 
-- [:sparkles: Tutorials](#sparkles-tutorials)
-- [Machine Learning Libraries](#machine-learning-libraries)
-  * [Frameworks](#frameworks)
-  * [Neural networks](#neural-networks)
-  * [Kernel methods](#kernel-methods)
-  * [Evolutionary algorithms](#evolutionary-algorithms)
-  * [Bayesian methods](#bayesian-methods)
-  * [Decision trees](#decision-trees)
-  * [Clustering](#clustering)
-  * [Linear classifiers](#linear-classifiers)
-  * [Statistical models](#statistical-models)
-- [Applications of machine learning](#applications-of-machine-learning)
-- [Data structures](#data-structures)
-- [Data visualization](#data-visualization)
-- [Articles, Posts, Talks, and Presentations](#articles-posts-talks-and-presentations)
-- [Projects and Code Examples](#projects-and-code-examples)
-- [Heroku buildpacks](#heroku-buildpacks)
-- [Books, Blogs, Channels](#books-blogs-channels)
-- [Community](#community)
-- [Needs your Help!](#needs-your-help)
-- [Related Resources](#related-resources)
-- [Wait but why?](#wait-but-why)
-- [License](#license)
 
 <!-- tocstop -->
 
@@ -103,7 +79,7 @@ the word using the `#RubyML` hash tag!
   <sup>[[dep: GLS](#gls)]</sup>
 - [scoruby](https://github.com/asafschers/scoruby) -
   Ruby评分API [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) （预测模型标记语言）.
-- [rblearn](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
+- [rblearn](https://github.com/himkt/rblearn) - 特征提取和交叉验证库.
 - [data_modeler](https://github.com/giuse/data_modeler) -
    使用机器学习建模数据.  充足的测试覆盖率，快速启动示例，完整的文档.  生产准备就绪1.0.0.
 - [shogun](https://github.com/shogun-toolbox/shogun) - 多功能和成熟

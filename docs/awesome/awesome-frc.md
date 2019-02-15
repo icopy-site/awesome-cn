@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="andrewda/awesome-frc"></div>
 ## Awesome FRC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/andrewda/awesome-frc/master/media/first.svg?sanitize=true" align="right" width="150">](https://www.firstinspires.org/robotics/frc)
@@ -6,23 +7,7 @@
 
 [FRC](https://www.firstinspires.org/robotics/frc)  是一项全球高中机器人竞赛，学生们将在短短六周内竞争建造最好的机器人.  这些工具，资源，社区和学习材料将有助于您的FRC赛季爆炸.
 
-## Contents
 
-- [General](#general)
-- [Programming](#programming)
-- [Vision](#vision)
-- [Scouting](#scouting)
-- [Driving](#driving)
-- [Community](#community)
-- [Repositories](#repositories)
-  - [Java](#java)
-  - [C++](#c)
-  - [C#](#c-1)
-  - [Python](#python)
-  - [CSS](#css)
-  - [Ruby](#ruby)
-- [Videos](#videos)
-- [Miscellaneous](#miscellaneous)
 
 ## General
 

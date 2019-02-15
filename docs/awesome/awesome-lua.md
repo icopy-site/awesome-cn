@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="LewisJEllis/awesome-lua"></div>
 ## Awesome Lua [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的Lua精选清单 [packages](#packages) 和 [resources](#resources).
@@ -6,52 +7,9 @@
 
 
 ## Packages
-- [Implementations, Interpreters, and Bindings](#implementations-interpreters-and-bindings)
-- [Package Managers](#package-managers)
-- [Build Tools and Standalone Makers](#build-tools-and-standalone-makers)
-- [Debugging and Profiling](#debugging-and-profiling)
-- [IDEs and Plugins](#ides-and-plugins)
-- [Utility Belts](#utility-belts)
-- [Game Engines](#game-engines)
-- [Game Development](#game-development)
-- [Logging](#logging)
-- [Web/Networking Platforms](#webnetworking-platforms)
-- [OpenResty](#openresty)
-- [Command-line Utilities](#command-line-utilities)
-- [Concurrency and Multithreading](#concurrency-and-multithreading)
-- [Templating](#templating)
-- [Documentation](#documentation)
-- [Object-oriented Programming](#object-oriented-programming)
-- [File system and OS](#file-system-and-os)
-- [Time and Date](#time-and-date)
-- [Image Manipulation](#image-manipulation)
-- [Digital Signal Processing](#digital-signal-processing)
-- [Hardware and Embedded Systems](###hardware-and-embedded-systems)
-- [Math and Scientific Computing](#math-and-scientific-computing)
-- [Parsing and Serialization](#parsing-and-serialization)
-- [Humanize](#humanize)
-- [Compression](#compression)
-- [Cryptography](#cryptography)
-- [Network](#network)
-- [Data Stores](#data-stores)
-- [Message Brokers](#message-brokers)
-- [Testing](#testing)
-- [Foreign Function Interfaces](#foreign-function-interfaces)
-- [Analysis Tools and ASTs](#analysis-tools-and-asts)
-- [Experimental, etc](#experimental-etc)
-- [Scriptable by Lua](#scriptable-by-lua)
-- [Miscellaneous](#miscellaneous)
 
 
 ## Resources
-- [Community](#community)
-- [References](#references)
-- [Style Guides](#style-guides)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
-- [Talks & Slides](#talks--slides)
-- [Books](#books)
-- [Other Lists](#other-lists)
 
 
 ### Implementations, Interpreters, and Bindings
@@ -260,7 +218,7 @@
   - [LuLPeg](https://github.com/pygy/LuLPeg) - A pure Lua implementation of LPeg v0.12.
   - [LPegLJ](https://github.com/sacek/LPegLJ) -  LPeg v1.0的纯LuaJIT实现.
   - [LPegLabel](https://github.com/sqmedeiros/lpeglabel) -  LPeg的扩展，增加了对标记失败的支持.
-- [lyaml](https://github.com/gvvaughan/lyaml) - 通过绑定到LibYAML进行YAML编码/解码.
+- [lyaml](https://github.com/gvvaughan/lyaml) - YAML encoding/decoding via binding to LibYAML.
 - [lunamark](https://github.com/jgm/lunamark)   - 将Markdown转换为其他文本格式，包括HTML和LaTeX.  使用LPeg进行快速解析.
 - [LXSH](https://github.com/xolox/lua-lxsh) - 用LPeg编写的词法分析器和语法荧光笔的集合.
 - [lua-pb](https://github.com/Neopallium/lua-pb) -  Protocol Buffers实现.
@@ -305,7 +263,7 @@
 
 
 ### Message Brokers
-- [lua-zmq](https://github.com/Neopallium/lua-zmq) - Lua bindings to ZeroMQ.
+- [lua-zmq](https://github.com/Neopallium/lua-zmq) -  Lua绑定到ZeroMQ.
 - [lzmq](https://github.com/zeromq/lzmq) - 更新的Lua绑定到ZeroMQ.
 - [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) - 基于OpenResty cosockets的Kafka客户端驱动程序.
 - [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) - 基于OpenResty cosockets的RabbitMQ客户端库.

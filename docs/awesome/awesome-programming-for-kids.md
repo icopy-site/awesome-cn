@@ -1,10 +1,7 @@
+<div class="github-widget" data-repo="HollyAdele/awesome-programming-for-kids"></div>
 ## Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 用于教孩子编程的精彩资源的精选列表. 
 
-## Contents
-* [Pre-Literate](#pre-literate)
-* [Lower Elementary](#lower-elementary)
-* [Upper Elementary](#upper-elementary)
 
 ## Pre-Literate
 * [The Foos](https://itunes.apple.com/app/id923441570) - 一款有趣的，预先识别的iPad游戏，教授命令，参数，循环和条件的概念. 

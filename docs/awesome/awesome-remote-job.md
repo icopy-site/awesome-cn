@@ -1,10 +1,10 @@
+<div class="github-widget" data-repo="lukasz-madon/awesome-remote-job"></div>
 ## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩的精选列表 [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
 
  *要进行贡献，请单击README.md，然后单击铅笔图标.  进行更改并单击“建议更改文件”按钮以提交拉取请求.  一定要关注 [the contributions guidelines](CONTRIBUTING.md).*
 
-## Table of Contents
 
 <!-- MarkdownTOC depth=4 -->
 
@@ -167,7 +167,7 @@
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - 技术方面的半远程到完全偏远友好公司列表
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteList](https://remotelist.io/) - 有很棒的工作类别过滤器
+  1. [RemoteList](https://remotelist.io/) - Has great job category filters
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
@@ -185,7 +185,7 @@
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)    - 来自多个董事会和雇主网站的汇总，对位置，工作类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程JavaScript作业
-  1. [Remote 4 Me](https://remote4me.com/) - 科技和非技术远程工作的聚合器.
+  1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
   1. [Remote OK](https://remoteok.io/) - 为远程位置刮取许多工作板馈送.
   1. [Remote Only](https://remoteonly.io/) - 从许多工作板汇总的手动策划的工作列表.
   1. [RemotePHP.io](https://remotephp.io) - 来自整个网络的远程PHP作业.
@@ -246,7 +246,7 @@
   1. [Remote Jobs Club](https://remotejobsclub.com) - 每周时事通讯，提供手工策划的远程工作清单
 
 ## Podcasts
-  1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
+  1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人从不同角度攻击位置独立/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) -  Remote Works播客每两周发布一次，主持人Jonathan Sharp讨论围绕远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins采访了人们，他们在思考分布式团队，远程工作以及如何支持快乐，高效，自由放养的员工.
@@ -300,7 +300,7 @@
   1. [CRO Metrics](http://crometrics.com/jobs/) - 数据驱动的过期和增长计划.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java，.Net和DevOps职位.
   1. [Datadog](https://www.datadoghq.com/careers/)   - 易于使用和可扩展的监控系统，适用于现代和动态基础设施.  分布式团队在纽约，波士顿和巴黎设有办事处.  工程师遍布全球.
-  1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+  1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
   1. [Deeson](https://www.deeson.co.uk/careers)   - 英国与欧洲团队合作.  数字代理商，专门从事Drupal，Symfony和Laravel
   1. [Demio](https://demio.com/inside/) - 正常运作的网络研讨会平台.
   1. [DigitalOcean](https://www.digitalocean.com/careers/) - 简单的云托管，专为开发人员而设计
@@ -487,7 +487,7 @@
   1. [IRCCloud](https://www.irccloud.com) - 具有永久存储功能的基于浏览器的IRC客户端.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一个开源语音聊天软件
   1. [Precursor](https://precursorapp.com) - 具有实时协作的简单原型设计和头脑风暴Web应用程序.
-  1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
+  1. [PukkaTeam](https://www.pukkateam.com) - 通过定期自动自拍和一键式视频通话实现真正的团队存在
   1. [Rocket.Chat](https://rocket.chat/) - 终极开源WebChat平台.
   2. [Signal](https://signal.org/) - 加密，安全的聊天和视频通话.
   1. [Skype](https://www.skype.com/) - 视频通话.

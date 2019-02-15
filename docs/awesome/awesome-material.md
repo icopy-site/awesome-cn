@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sachin1092/awesome-material"></div>
 ## Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Google列表 [material design](http://www.google.com/design/spec) 基于图书馆，资源和令人敬畏的东西.

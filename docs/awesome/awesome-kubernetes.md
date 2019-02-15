@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="ramitsurana/awesome-kubernetes"></div>
 Awesome-Kubernetes
 =======================================================================
 
@@ -27,7 +28,7 @@ Awesome-Kubernetes
 
 ## What is Kubernetes? :ship:
 
-&gt; Kubernetes是一个开源系统，用于自动化容器化应用程序的部署，扩展和管理.
+> Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
 它将构成应用程序的容器分组为逻辑单元，以便于管理和发现.
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
@@ -37,7 +38,7 @@ _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 **众所周知，Kubernetes是谷歌系统BORG **的后代
 
-> The first unified container-management system developed at Google was the system we internally call Borg.
+&gt; Google开发的第一个统一容器管理系统是我们内部称为Borg的系统.
 它的构建目的是管理长时间运行的服务和批处理作业，这些服务之前由两个独立的服务处理
  系统：保姆和全球工作队列.  后者的架构对Borg产生了很大的影响，但却受到了关注
  批量工作;  两者都早于Linux控制组.
@@ -59,67 +60,8 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 Menu
 =======================================================================
 
-* [Starting Point](#starting-point)
-* [Installers](#installers)
-* [Main Resources](#main-resources)
-* [Release Notes](#release-notes)
-* [Useful Articles](#useful-articles)
-* [Managed Kubernetes](#managed-kubernetes)
-  * [Cluster Managers](#cluster-manager)
-  * [Developer Platform](#developer-platform)
-  * [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
-  * [Public/Private Cloud](#publicprivate-cloud)
-  * [PaaS](#paas)
-* [Interactive Learning Environments](#interactive-learning-environments)
-* [MOOC Courses / Tutorials](#courses-or-tutorials)
-* [Case Studies](#case-studies)
-* [Persistent Volume Providers](#persistent-volume-providers)
-* [Useful Libraries/Scripts](#developer-libraries-scripts)
-  * [Python](#python)
-  * [Jenkins](#jenkins)
-* [Projects](#projects)
-  * [Related Software](#related-software)
-* [Monitoring Services](#monitoring-services)
-* [Testing](#testing)
-* [Continuous Delivery](#continuous-delivery)
-* [Serverless Implementations](#serverless-implementations)
-* [Operators](#operators)
-* [Custom Schedulers](#custom-schedulers)
-* [Container Support](#container-support)
-* [Database/NoSQL](#database)
-* [Networking](#networking)
-* [Service mesh](#service-mesh)
-* [RPC](#rpc)
-* [Secret generation and management](#secret-generation-and-management)
-* [Web applications](#web-applications)
-* [Desktop applications](#desktop-applications)
-* [Mobile applications](#mobile-applications)
-* [API/CLI adaptors](#apicli-adaptors)
-* [Application deployment orchestration](#application-deployment-orchestration)
-* [Configuration](#configuration)
-* [Security](#security)
-* [Load balancing](#load-balancing)
-* [Developer platform](#developer-platform)
-* [Big Data](#big-data)
-* [Machine Learning](#machine-learning)
-* [Service Discovery](#service-discovery)
-* [Operating System](#operating-system)
-* [YAML/JSON Config](#yamljson-config)
-* [Tuning](#tuning)
-* [Backup and Disaster Recovery](#backup-and-disaster-recovery)
-* [Raspberry Pi](#raspberry-pi)
 * [Books](#books) ：图书：
-* [Slide Presentations](#slide-presentations)
 * [Videos](#videos) ：电视：
-  * [Main Account](#main-account)
-  * [Other Useful videos](#other-useful-videos)
-* [Interesting Twitter Accounts](#interesting-twitter-accounts)
-* [Amazing People](#amazing-people)
-* [Meetup Groups](#meetup-groups)
-* [Connecting with Kubernetes](#connecting-with-kubernetes)
-* [Conferences](#conferences)
-* [Contributing](#contributing)
-* [License](#license)
 
 
 -----------------------------------------------------------------------
@@ -182,6 +124,7 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - 在Windows PC上运行Kubernetes和Docker（Edge Channel）
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - 在MAC（Edge Channel）上本地运行Kubernetes和Docker
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
+* [Linode](https://developers.linode.com/kubernetes/) -  CoreOS  -  Linode
 
 主要资源
 =======================================================================
@@ -216,7 +159,6 @@ Installers
 
 *与报纸，杂志或其他出版物中的其他人一起写的一篇文章*
 
-### [Cloud Providers](#cloud-providers)
 
 - [Kubernetes on AWS](http://coreos.com/kubernetes/docs/latest/kubernetes-on-aws.html) 通过 [CoreOS](https://twitter.com/coreoslinux)
 - [AWS Advent 2014 - CoreOS and Kubernetes on AWS](http://awsadvent.tumblr.com/post/104260597799/aws-advent-2014-coreos-and-kubernetes-on-aws) 通过 [Tim Dsyinger](https://twitter.com/dysinger)
@@ -235,16 +177,13 @@ Installers
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) 通过 [Matt Bruzek](https://twitter.com/mattatcanonical)
 - [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 
-### [Logging](#logging)
 - [Logging - Kafka topic 通过 namespace](http://www.devoperandi.com/logging-kafka-topic-通过-kubernetes-namespace/) 通过 [Michael Ward](https://twitter.com/DevoperandI)
 
-### [Monitoring](#monitoring)
 
 - [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/) 通过 [JM Saponaro](http://github.com/JayJayM)
 - [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
 
-### [Security](#security)
 
 - [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) -  RBAC，TLS，安全政策，网络政策等
 - [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](http://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) 通过 [John Kariuki ](https://twitter.com/_kar_is)
@@ -252,12 +191,10 @@ Installers
 - [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk) 通过 [Peter Benjamin](https://petermbenjamin.github.io/me)
 - [Running Vault and Consul on Kubernetes](https://testdriven.io/running-vault-and-consul-on-kubernetes) 通过 [Michael Herman](https://mherman.org/)
 
-### [Authentication](#authentication)
 
 - [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) 通过 [Michael Ward](https://twitter.com/DevoperandI)
 
-### [Networking](#networking)
 
 - [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) 通过 [Valentin Ouvrard](https://twitter.com/Valentin_NC)
 - [Kubernetes in IPV6-only](http://opsnotice.xyz/kubernetes-ipv6-only/) 通过 [Valentin Ouvrard](https://twitter.com/Valentin_NC)
@@ -265,7 +202,6 @@ Installers
 - [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](http://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
 - [Comparison of Networking Solutions for Kubernetes](http://machinezone.github.io/research/networking-solutions-for-kubernetes/)
 
-### [CI/CD](#ci/cd)
 
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 - [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
@@ -273,11 +209,9 @@ Installers
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 运用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
 
-### [Deep Learning](#deep-learning)
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 
-### [Others](#others)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) 通过 [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) 通过 [Chris Negus](https://twitter.com/linuxcricket)
@@ -321,7 +255,6 @@ Installers
   - [Hasura](https://hasura.io/)
 
 
-  ### [Cluster Managers](#cluster-manager)
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -  AWS，Azure，GCP和OpenStack集群管理器
   - [Kubermatic](http://www.loodse.com/)
@@ -330,7 +263,6 @@ Installers
   - [Telekube](https://gravitational.com/telekube/)
   - [Kqueen](https://github.com/Mirantis/kqueen)
 
-  ### [Developer Platform](#developer-platform)
 
   - [Fabric8](http://fabric8.io) - 具有CD功能的集成开发平台
   - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
@@ -344,7 +276,6 @@ Installers
   - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
 
 
-  ### [Enterprise Kubernetes Products](#enterprise-kubernetes-products)
 
   - [CoreOS Tectonic](http://tectonic.com)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
@@ -353,7 +284,6 @@ Installers
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
 
-  ### [Public/Private Cloud](#publicprivate-cloud)
 
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
    - [AWS EKS](https://aws.amazon.com/eks/) - 亚马逊弹性容器服务
@@ -366,7 +296,6 @@ Installers
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernets
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
 
-  ### [PaaS](#paas)
 
    * Kubernetes平台即服务提供商*
 
@@ -396,12 +325,10 @@ MOOC课程/教程
 
 *可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
 
-  ### [Courses](#coures)
 
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
   - [Introduction to Kubernetes at edX](http://www.edx.org/course/introduction-kubernetes-linuxfoundationx-lfs158x)
 
-  ### [Tutorials](#tutorials)
 
   - [Kubernetes Tutorials by Kubernetes Team](http://kubernetes.io/docs/tutorials/)
   - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
@@ -427,6 +354,7 @@ MOOC课程/教程
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](http://aws.amazon.com)
+* [Linode](https://www.linode.com/blockstorage)
 * [Rook](http://rook.io/)
 * [Glusterfs](http://www.gluster.org/)
 * [OpenStack Cinder](http://wiki.openstack.org/cinder)
@@ -450,6 +378,7 @@ MOOC课程/教程
  * Kubernetes的一些容器存储接口插件列表.  查看 [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) 了解更多信息*
 
 * [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
 * [Ceph](https://github.com/ceph/ceph-csi)
 * [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
 * [DigitalOcean](https://github.com/digitalocean/csi-digitalocean)
@@ -479,11 +408,9 @@ MOOC课程/教程
 
 *执行和良好推荐的一些库和脚本列表*
 
-  ### [Python](#python)
 
    - [Pykube](https://github.com/kelproject/pykube)
 
-  ### [Jenkins](#jenkins)
 
    - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)
 
@@ -509,7 +436,6 @@ Projects
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Archon](https://github.com/kubeup/archon)
-* [Client Libraries](https://github.com/kubernetes/website/blob/master/content/en/docs/reference/using-api/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
 * [Fission Workflows](https://github.com/fission/fission-workflows) - 基于工作流程的无服务器功能组合
@@ -526,6 +452,7 @@ Projects
 
 * [Console](http://github.com/kubernetes/dashboard)
 * [Datadog](http://www.datadoghq.com/)
+* [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - 用于监控和可视化K8指标，日志，应用程序跟踪等的开源解决方案.
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
@@ -587,7 +514,7 @@ Projects
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
-* [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署. 
+* [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
 
 ## Serverless Implementations
 
@@ -807,7 +734,8 @@ Projects
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
+* [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
+* [Contour](https://github.com/heptio/contour) -  Lyft&#39;s Envoy代理的Kubernetes入口控制器
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
 * [Gimbal](https://github.com/heptio/gimbal) - 能够将流量路由到多个Kubernetes和OpenStack集群的平台
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
@@ -868,7 +796,7 @@ Projects
 覆盆子皮
 =======================================================================
 
-*使用Kubernetes和Raspberry Pi的一些令人敬畏的发现和实验.*
+*Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*
 * 查看 [Kubecloud](http://kubecloud.io)
 * [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
 * [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) 通过 [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)

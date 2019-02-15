@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="terryum/awesome-deep-learning-papers"></div>
 ## Awesome - Most Cited Deep Learning Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -44,26 +45,13 @@
 +任何人都可以提供代码来获取前100篇论文作者的统计数据吗？
 
 
-## Contents
 
-* [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
-* [Optimization / Training Techniques](#optimization--training-techniques)
-* [Unsupervised / Generative Models](#unsupervised--generative-models)
-* [Convolutional Network Models](#convolutional-neural-network-models)
-* [Image Segmentation / Object Detection](#image-segmentation--object-detection)
-* [Image / Video / Etc](#image--video--etc)
-* [Natural Language Processing / RNNs](#natural-language-processing--rnns)
-* [Speech / Other Domain](#speech--other-domain)
-* [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-* [More Papers from 2016](#more-papers-from-2016)
 
 *（超过前100名）*
 
 * [New Papers](#new-papers) ：不到6个月
 * [Old Papers](#old-papers) ：2012年之前
 * [HW / SW / Dataset](#hw--sw--dataset) ：技术报告
-* [Book / Survey / Review](#book--survey--review)
-* [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
 * [Appendix: More than Top 100](#appendix-more-than-top-100) ：更多的论文不在列表中
 
 * * *
@@ -251,7 +239,7 @@
 
 
 ### HW / SW / Dataset
-  -  SQUAD：100,000多个机器理解文本问题（2016），Rajpurkar等.  [[PDF]]（https://arxiv.org/pdf/1606.05250.pdf）
+-  SQuAD: 100,000+ Questions for Machine Comprehension of Text (2016), Rajpurkar et al. [[pdf]](https://arxiv.org/pdf/1606.05250.pdf)
   -  OpenAI健身房（2016年），G.Brockman等.  [[PDF]]（https://arxiv.org/pdf/1606.01540）
   -  TensorFlow：异构分布式系统上的大规模机器学习（2016），M.Abadi等.  [[PDF]]（http://arxiv.org/pdf/1603.04467）
 -  Theano：用于快速计算数学表达式的Python框架，R.Al-Rfou等.
@@ -282,7 +270,7 @@
 
 *(Tutorials)*
 -  NIPS 2016教程，长滩[[网页]]（https://nips.cc/Conferences/2016/Schedule?type=Tutorial）
-- ICML 2016 Tutorials, New York City [[web]](http://techtalks.tv/icml/2016/tutorials/)
+-  ICML 2016教程，纽约[[网页]]（http://techtalks.tv/icml/2016/tutorials/）
 -  ICLR 2016视频，圣胡安[[网页]]（http://videolectures.net/iclr2016_san_juan/）
 - 深度学习暑期学校2016，蒙特利尔[[网页]]（http://videolectures.net/deeplearning2016_montreal/）
 -  2016年湾区深度学习学校，斯坦福[[网页]]（https://www.bayareadlschool.org/）

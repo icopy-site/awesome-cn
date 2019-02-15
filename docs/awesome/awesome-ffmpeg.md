@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="transitive-bullshit/awesome-ffmpeg"></div>
 ## Awesome FFmpeg [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [FFmpeg](http://ffmpeg.org) 是一种跨平台的解决方案，用于录制，转换和流式传输音频和视频.
@@ -7,14 +8,7 @@
 </p>
 
 
-## Contents
 
-- [Docs](#docs)
-- [JavaScript](#javascript)
-- [Native](#native)
-- [Mobile](#mobile)
-- [Tutorials](#tutorials)
-- [Community](#community)
 
 
 ## Docs

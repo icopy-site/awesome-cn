@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sindresorhus/awesome"></div>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
@@ -219,7 +220,7 @@
 - [Next.js](awesome/awesome-nextjs.md) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](awesome/awesome-hyperapp.md) - 用于构建Web应用程序的小型JavaScript库.
 - [lit-html](awesome/awesome-lit-html.md) - 用于JavaScript的HTML模板库.
-- [JAMstack](awesome/awesome-jamstack.md) - Modern web development architecture based on client-side JavaScript, reusable APIs, and prebuilt markup.
+- [JAMstack](awesome/awesome-jamstack.md) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - 创造出色的移动网络体验.
 
 
@@ -325,15 +326,15 @@
 
 - [Game Development](awesome/magictools.md)
 - [Game Talks](awesome/awesome-gametalks.md)
-- [Godot](awesome/awesome-godot.md) - 游戏引擎.
+- [Godot](awesome/awesome-godot.md) - Game engine.
 - [Open Source Games](awesome/games.md)
-- [Unity](awesome/awesome-unity.md) - 游戏引擎.
+- [Unity](awesome/awesome-unity.md) - Game engine.
 - [Chess](awesome/awesome-chess.md)
-- [LÖVE](awesome/awesome-love2d.md) - 游戏引擎.
+- [LÖVE](awesome/awesome-love2d.md) - Game engine.
 - [PICO-8](awesome/awesome-PICO-8.md) - 梦幻控制台.
 - [Game Boy Development](awesome/awesome-gbdev.md)
-- [Construct 2](awesome/awesome-construct.md) - 游戏引擎.
-- [Gideros](awesome/awesome-gideros.md) - 游戏引擎.
+- [Construct 2](awesome/awesome-construct.md) - Game engine.
+- [Gideros](awesome/awesome-gideros.md) - Game engine.
 
 
 ## Development Environment
@@ -432,6 +433,7 @@
 - [Wagtail](awesome/awesome-wagtail.md) -  Django CMS专注于灵活性和用户体验.
 - [Textpattern](awesome/awesome-textpattern.md) - 基于PHP的轻量级CMS.
 - [Drupal](awesome/awesome-drupal.md) - 可扩展的基于PHP的CMS.
+- [Craft CMS](awesome/awesome.md) - 内容优先的CMS.
 
 
 ## Hardware

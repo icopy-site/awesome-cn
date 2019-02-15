@@ -1,46 +1,10 @@
+<div class="github-widget" data-repo="victorlaerte/awesome-it-quotes"></div>
 ## Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  这是一份非常棒的IT报价清单.  目的是收集有关IT历史的所有相关报价.
 
-## Contents
 
 
-- [Alan Kay](#alan-kay)
-- [Alan Turing](#alan-turing)
-- [Albert Einstein](#albert-einstein)
-- [Arthur C. Clarke](#arthur-c-clarke)
-- [Bill Gates](#bill-gates)
-- [Bjarne Stroustrup](#bjarne-stroustrup)
-- [Bruce Schneier](#bruce-schneier)
-- [Don DeLillo](#don-delillo)
-- [Don Norman](#don-norman)
-- [Douglas Adams](#douglas-adams)
-- [Edsger Dijkstra](#edsger-dijkstra)
-- [Edward V. Berard](#edward-v-berard)
-- [Elbert Hubbard](#elbert-hubbard)
-- [Elon Musk](#elon-musk)
-- [Grace Hopper](#grace_hopper)
-- [Harold Abelson](#harold-abelson)
-- [Jeff Pesis](#jeff-pesis)
-- [John Cleese](#john-cleese)
-- [Kathy Sierra](#kathy-sierra)
-- [Keith Bostic](#keith-bostic)
-- [Ken Thompson](#ken-thompson)
-- [Larry Wall](#larry-wall)
-- [Linus Torvalds](#linus-torvalds)
-- [Mark Minasi](#mark-minasi)
-- [Martin Fowler](#martin-fowler)
-- [Omar Bradley](#omar-bradley)
-- [Pablo Picasso](#pablo-picasso)
-- [Peter Deutsch](#peter-deutsch)
-- [Peter Wegner](#peter-wegner)
-- [Richard Stallman](#richard-stallman)
-- [Rick Cook](#rick-cook)
-- [Steve Jobs](#steve-jobs)
-- [Steve McConnell](#steve-mcconnell)
-- [Sydney Harris](#sydney-harris)
-- [Tony Hoare](#tony-hoare)
-- [Vidiu Platon](#vidiu-platon)
 
 ## Contribution Guidelines
 

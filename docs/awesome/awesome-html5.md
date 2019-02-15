@@ -1,63 +1,9 @@
+<div class="github-widget" data-repo="diegocard/awesome-html5"></div>
 非常棒的HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
  精选HTML5资源的精选列表.  灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php) 和 [awesome-python](https://github.com/vinta/awesome-python)
 
-## Table of Contents
-- [Articles and standards](#articles-and-standards)
-- [Multimedia capabilities](#multimedia-capabilities)
-  - [Audio](#audio)
-  - [Media capture](#media-capture)
-  - [Picture in Picture](#picture-in-picture)
-  - [Speech synthesis](#speech-synthesis)
-  - [Voice recognition](#voice-recognition)
-  - [Virtual Reality (VR)](#virtual-reality)
-  - [Web animations](#web-animations)
-- [Elements](#elements)
-  - [Canvas](#canvas)
-  - [Head](#head)
-  - [Sectioning](#sectioning)
-  - [Media Elements](#media-elements)
-  - [Forms](#forms)
-  - [Time](#time)
-  - [WebVTT](#webtt)
-  - [HTML Imports](#html-imports)
-- [Development APIs](#development-apis)
-  - [Permissions](#permissions)
-  - [Geolocation](#geolocation)
-  - [Cryptography](#cryptography)
-  - [File](#file)
-  - [Frame timing](#frame-timing)
-  - [requestIdleCallback](#requestidlecallback)
-  - [requestAnimationFrame](#requestanimationframe)
-  - [Web payments](#web-payments)
-- [Semantics](#semantics)
-- [Accessibility](#accessibility)
-- [DOM management](#dom-management)
-  - [Shadow DOM](#shadow-dom)
-  - [Data Binding](#data-binding)
-  - [Web Components](#web-components)
-- [Progressive web apps](#progressive-web-apps)
-  - [Service Workers](#service-workers)
-  - [Offline caching](#offline-caching)
-  - [Push Notifications](#push-notifications)
-- [Client side storage](#client-side-storage)
-- [Performance](#performance)
-- [Mobile](#mobile)
-- [Communications and interoperability](#communications-and-interoperability)
-  - [Web Sockets](#web-sockets)
-  - [WebRTC](#webrtc)
-- [Web Workers](#web-workers)
-- [WebGL](#webgl)
-- [Browser compatibility](#browser-compatibility)
-- [Books](#books)
-- [Game development](#game-development)
-- [Videos and Keynotes](#videos-and-keynotes)
-- [Websites and resources](#websites-and-resources)
-  - [Websites](#websites)
-  - [Weekly news](#weekly-news)
-  - [Twitter](#twitter)
-- [Contributing](#contributing)
 
 ## Articles and standards
 
@@ -254,7 +200,6 @@
 * [Service Worker fundamentals](https://developers.google.com/web/fundamentals/primers/service-workers/)
 * [ServiceWorkies - Learn SWs playing a game](https://serviceworkies.com/)
 * [The Service Worker Cookbook](https://serviceworke.rs/)
-* [Offline content with service workers](https://www.madebymike.com.au/writing/service-workers/)
 * [Making a Service Worker: a case study (Smashing Magazine)](https://www.smashingmagazine.com/2016/02/making-a-service-worker/)
 * [Service workers explained](https://github.com/w3c/ServiceWorker/blob/master/explainer.md)
 * [Service Worker Libraries, Totally Tooling Tips](https://www.youtube.com/watch?v=IIRj8DftkqE)
@@ -372,7 +317,6 @@
 
 ### Websites
 
-* [HTML official reference](https://webplatform.github.io/docs/Main_Page/index.html) （允许协作修改wiki等内容）
 * [HTML5 Rocks](https://www.html5rocks.com/en/) （新闻，教程和更新）
 * [HTML5 Gallery](http://html5gallery.com/) （展示使用HTML5标记和API的网站）
 * [HTML5 development guide from MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML)

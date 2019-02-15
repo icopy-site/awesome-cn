@@ -1,37 +1,18 @@
-## Awesome Humane Tech [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Humane Tech](https://raw.githubusercontent.com/engagingspaces/awesome-humane-tech/master/humane-tech-badge.svg?sanitize=true)](https://github.com/engagingspaces/awesome-humane-tech)
+<div class="github-widget" data-repo="humanetech-community/awesome-humane-tech"></div>
 
-[![The Center for Humane Technology](http://static1.squarespace.com/static/57f92f5bf5e231f7e7aaa0ae/t/5a768ebb652dea12df04d0b9/1517719227886/Social+Share+Logo-v2+-+2018-02-02.jpg?format=1000w)](https://humanetech.com)
+<br/><br/>
 
-## Contents
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/humane-tech-community-overview.png)](https://community.humanetech.com)
 
-- [About this list](#about-this-list)
-- [Community](#community)
-- [Ethics](#ethics)
-- [Security](#security)
-- [Privacy](#privacy)
-- [Tracking](#tracking)
-- [Consent](#consent)
-- [Analytics](#analytics)
-- [Blacklists](#blacklists)
-- [Social networks](#social-networks)
-- [Freedom](#freedom)
-- [Geolocation](#geolocation)
-- [Gamification](#gamification)
-- [Health](#health)
-- [Mindfulness](#mindfulness)
-- [Inclusiveness](#inclusiveness)
-- [Awareness](#awareness)
-- [Censorship](#censorship)
-- [Unmaintained](#unmaintained)
-- [Related awesomeness](#related-awesomeness)
-- [Contributing](#contributing)
-- [License](#license)
+<br/>
+
+
 
 ## About this list
 
- 科技和社交媒体对我们的社会产生了重大影响.  虽然许多创新技术发明正在改善我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem), a world-class team of deeply concerned former tech insiders and CEOs have created [The Center of Humane Technology](https://humanetech.com) .  一个社区和网站，您可以在其中找到解决方案和最佳实践！
+ 科技和社交媒体对我们的社会产生了重大影响.  虽然许多创新技术发明正在改善我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem)一个由特里斯坦哈里斯领导的深受关注的前技术内幕人士组成的世界级团队创造了 [The Center of Humane Technology](https://humanetech.com) .  我们的愿景是：
 
-&gt;扭转数字注意力危机，并根据人类的最佳利益重新调整技术
+&gt; **无处不在的人道技术，刺激人类蓬勃发展，人类蓬勃发展.**
 
  此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
@@ -41,7 +22,9 @@
 
 [![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
-我们邀请您参加我们的会议 [Humane Tech Community Forum](https://community.humanetech.com)  阅读更多关于这些有趣的人文科技科目.  如果您想参与我们的讨论，帮助提供真正的解决方案，那么我们很乐意欢迎您成为我们的新成员之一.  请过来 [**Join :heart: Us**](https://community.humanetech.com/t/who-we-are-what-we-do-and-how-you-can-help-humane-technology-too/2955) 并成为真正的_Hmane人技术活动家！
+我们邀请您参加我们的会议 [Humane Tech Community Forum](https://community.humanetech.com)  阅读更多关于这些有趣的人文科技科目.  如果您想参与我们的讨论，帮助提供真正的解决方案，那么我们很乐意欢迎您成为我们的新成员之一.  我们正在建造**“人文科技金字塔”**，您可以与我们共同建设.
+
+[**Be a Builder :heart: Help Improve Wellbeing, Freedom and Society!**](https://community.humanetech.com/t/3322) 并成为真正的_Hmane人技术活动家！_
 
 ## Ethics
 
@@ -114,7 +97,7 @@
 
 ## Analytics
 
-- [Matomo](http://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/matomo) - The leading open alternative to Google Analytics that gives you full control over your data.
+- [Matomo](http://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/matomo) -  Google Analytics的领先开放替代方案，可让您完全控制数据.
 - [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/usefathom/fathom) - 一种更简单，更专注于隐私的Google Analytics替代方案.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - 与谷歌分析相似的服务器，不会破坏用户的隐私.
 - [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) -  Google测量协议的代理服务和客户端替换其分析脚本.
@@ -166,7 +149,7 @@
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) - 改变您的在线习惯，设定目标，尝试干预，查看进度.
 - [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -  Redshift根据周围环境调整屏幕的色温.
-- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -  Safe Eyes是Linux用户减少和防止重复性劳损（RSI）的工具.
+- [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) - Safe Eyes is a tool for Linux users to reduce and prevent repetitive strain injury (RSI).
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - 应用程序，加强记忆丧失的人与接近他们的人之间的关系.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 用于创建和维护良好习惯的Android应用程序.
 - [If me](http://www.if-me.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ifmeorg/ifme) - 一个精神健康社区，鼓励人们与亲人分享他们的故事.
@@ -195,7 +178,7 @@
 - [Hack the Media](https://github.com/nemild/hack-the-media) - 媒体素养指南，强调我们的媒体资源如何能够给我们一个有缺陷的世界观.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) - 软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - 分析您自己数据的Facebook副本.
-- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - 所有可能的方式，网站可以泄漏HTTP请求.
+- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
 - [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) - 为在线跟踪带来透明度 - 由Cliqz和Ghostery建立.
 - [Awful AI](https://github.com/daviddao/awful-ai) - 一个精选的列表，用于跟踪当前人工智能的可怕用法 - 希望提高认识.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -  Addon可实时显示第一方和第三方网站之间的Web请求.

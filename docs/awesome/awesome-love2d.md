@@ -1,34 +1,7 @@
-## ![Awesome Löve](https://raw.githubusercontent.com/love2d-community/awesome-love2d/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+<div class="github-widget" data-repo="love2d-community/awesome-love2d"></div>
 一个分类的社区驱动的高品质，令人敬畏的集合 [LÖVE](http://love2d.org) 图书馆，项目和资源.
 
-## Table of contents
 
-* [3D](#3d)
-* [AI](#ai)
-* [Animation](#animation)
-* [Camera](#camera)
-* [Development](#development)
-* [Drawing](#drawing)
-* [Entity](#entity)
-* [Helper Libraries](#helper)
-* [Input](#input)
-* [Lighting](#lighting)
-* [Math](#math)
-* [Music](#music)
-* [Networking](#networking)
-* [Object Orientation](#object)
-* [Performance](#performance)
-* [Physics](#physics)
-* [Platforms](#platforms)
-* [Publishing](#publishing)
-* [Serialization](#serialization)
-* [Shaders](#shaders)
-* [Testing](#testing)
-* [Tweening](#tweening)
-* [UI](#ui)
-* [Utilities](#utilities)
-* [Tutorials](#tutorials)
-* [IDEs](#ides)
 
 ## 3D
 *以3D为中心的图书馆*
@@ -53,7 +26,7 @@
 
 * [andross](https://github.com/pfirsich/andross) - 用于2D骨骼/骨骼动画的Lua库，带有Löve后端
 * [anim8](https://github.com/kikito/anim8) - 动画库
-* [chiro](https://github.com/bjornbytes/chiro) - 便利包装 [Spine](http://esotericsoftware.com)
+* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) - LÖVE中Aseprite动画的解析器/渲染器
 * [skeletor](https://github.com/pelevesque/skeletor) -  2D骨骼动画系统
 * [Walt](https://github.com/davisdude/Walt) - 动画库
@@ -158,7 +131,7 @@
 ## Networking
 *网络和在线播放图书馆*
 
-* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)  [IPv6]
+* [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - 旨在使爱好者（TCP，UDP，Enet）易于联网的网络库[IPv6]
 * [LoverNet](https://github.com/josefnpat/LoverNet) - 利用bitser和enet的网络库[IPv4]
 * [NoobHub](https://github.com/Overtorment/NoobHub) -  OpenSource多人游戏和网络消息传递[IPv6]
 * [Sock.lua](https://github.com/camchenry/sock.lua) - 用于LÖVE游戏的Lua网络库[IPv4]
@@ -290,7 +263,6 @@
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - 关于在LÖVE游戏中使用Tiled创建的地图的文章
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - 关于如何通过nooowaay进行突破克隆的完整教程
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - 使用LÖVE（Snake，Sokoban，Tetris等）制作简单游戏的教程
-* [How to LÖVE](http://sheepolution.com/learn/book/contents) - 一本由Sheepolution从头开始教授LÖVE的书
 * [Introduction to Game Development](https://cs50.harvard.edu/games/2019/spring/) - 哈佛大学CS50扩展（2018年春季）
 
 ## IDEs

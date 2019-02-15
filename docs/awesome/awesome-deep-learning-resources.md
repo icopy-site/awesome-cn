@@ -1,29 +1,11 @@
+<div class="github-widget" data-repo="guillaume-chevalier/awesome-deep-learning-resources"></div>
 ## [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  这是我最喜欢的深度学习资源的粗略列表.  我学习如何进行深度学习对我有用，我用它来重新讨论主题或参考.
 一世 （[Guillaume Chevalier](https://github.com/guillaume-chevalier)）已经建立了这个列表并仔细检查了这里列出的所有内容.
 
 
-## Contents
 
-- [Trends](#trends)
-- [Online classes](#online-classes)
-- [Books](#books)
-- [Posts and Articles](#posts-and-articles)
-- [Practical resources](#practical-resources)
-  - [Librairies and Implementations](#librairies-and-implementations)
-  - [Some Datasets](#some-datasets)
-- [Other Math Theory](#other-math-theory)
-  - [Gradient Descent Algorithms and optimization](#gradient-descent-algorithms-and-optimization)
-  - [Complex Numbers & Digital Signal Processing](#complex-numbers-and-digital-signal-processing)
-- [Papers](#papers)
-  - [Recurrent Neural Networks](#recurrent-neural-networks)
-  - [Convolutional Neural Networks](#convolutional-neural-networks)
-  - [Attention Mechanisms](#attention-mechanisms)
-  - [Other](#other)
-- [YouTube and Videos](#youtube)
-- [Misc. Hubs and Links](#misc-hubs-and-links)
-- [License](#license)
 
 <a name="trends" />
 
@@ -62,7 +44,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4)   - 通勤时听音频版很好听.  本书激励人们对思维进行逆向工程，并思考如何编写AI代码.
 - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - 本书涵盖了神经网络和深度学习背后的许多核心概念.
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - 在本书的中途，它包含了关于如何思考实际深度学习的令人满意的数学内容.
-- [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - 这里列出的一些书与深度学习的关联性较小，但仍然与此列表有某种关联.
+- [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=100&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - 这里列出的一些书与深度学习的关联性较小，但仍然与此列表有某种关联.
 
 <a name="posts-and-articles" />
 

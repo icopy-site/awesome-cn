@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="johnjago/awesome-uncopyright"></div>
 ## Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="155">](http://questioncopyright.org/)
@@ -6,21 +7,7 @@
 
  公共领域的作品没有版权限制.  这可能是知识产权到期或被没收的结果.  就后者而言，作者使用* uncopyright *这一术语来描述他们放弃版权的行为.
 
-## Contents
 
-- [Art](#art)
-- [Articles](#articles)
-- [Blogs](#blogs)
-- [Books](#books)
-- [Essays](#essays)
-- [Images](#images)
-- [Licenses](#licenses)
-- [Organizations](#organizations)
-- [Related](#related)
-- [Resources](#resources)
-- [Software](#software)
-- [Talks](#talks)
-- [License](#license)
 
 ## Art
 

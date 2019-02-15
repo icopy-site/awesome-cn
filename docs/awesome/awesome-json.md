@@ -1,39 +1,9 @@
+<div class="github-widget" data-repo="burningtree/awesome-json"></div>
 ## Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的JSON库和资源的精选列表.
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 名单.
 
-* [Awesome JSON](#awesome-json)
-  * [Applications](#applications)
-  * [Binary Serialization](#binary-serialization)
-  * [Browser Extensions](#browser-extensions)
-  * [Command-line tools](#command-line-tools)
-  * [Databases](#databases)
-  * [Datasets](#datasets)
-  * [Data modeling](#data-modeling)
-  * [Data generation](#data-generation)
-  * [Differencing](#differencing)
-  * [Format Extensions](#format-extensions)
-  * [Frontend components](#frontend-components)
-  * [Libraries](#libraries)
-  * [Linters](#linters)
-  * [Online tools](#online-tools)
-  * [Schema Specifications](#schema-specifications)
-  * [Services](#services)
-  * [Supersets](#supersets)
-  * [Related formats](#related-formats)
-  * [Resources](#resources)
-  * [Templates](#templates)
-  * [Testing](#testing)
-  * [Text Editor Plugins](#text-editor-plugins)
-  * [Transformations](#transformations)
-  * [Tutorials](#tutorials)
-  * [Queries](#queries)
-  * [JSON Schema Frontend components](#json-schema-frontend-components)
-  * [JSON Schema Tools](#json-schema-tools)
-  * [JSON Schema Resources](#json-schema-resources)
-  * [JSON Schema Validators](#json-schema-validators)
-  * [Contribute](#contribute)
 
 ## Applications
 ** OS X **
@@ -128,7 +98,7 @@
 * [JSON API](https://jsonapi.org/) - 构建API的标准.
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - 读/写超媒体类型，旨在支持管理和查询简单集合.
 * [hal-json](http://stateless.co/hal_specification.html) - 用于表达JSON或XML中的超链接的一组约定.
-* [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
+* [JSON Activity Streams](http://activitystrea.ms/) - 用于在网络上联合社交活动的格式.
 * [JSON-stat](https://github.com/jsonstat/jsonstat) - 用于数据传播的简单轻量级格式.
 * [/contribute.json](https://www.contributejson.org/) - 跨项目更容易访问开源贡献信息.
 * [JSON Table Schema](https://frictionlessdata.io/docs/json-table-schema/) - 表格数据的简单模式
@@ -253,7 +223,7 @@
 
 ## Services
 * [ipinfo.io](https://ipinfo.io) -  JSON IP和GeoIP REST API.
-* [JSONProxy](https://github.com/afeld/jsonp) - 简单的HTTP代理，支持对任何JSON API的跨域请求.
+* [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - 适用于您的网络或移动应用的简单商店.
 * [Telize](http://www.telize.com/) -  JSON IP和GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - 一个简单的JSON存储平台.

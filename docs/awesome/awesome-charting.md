@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="zingchart/awesome-charting"></div>
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
@@ -7,12 +8,6 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/zingchart/awesome-charting.svg?branch=master)](https://travis-ci.org/zingchart/awesome-charting)
 
-**目录**
-*  [Commercial Libraries](#commercial-libraries)
-*  [Free and Open Source Libraries](#free-and-open-source-libraries)
-*  [Free Libraries](#free-libraries)
-*  [Framework-Specific Libraries](#framework-specific-libraries)
-*  [Data Visualization Resources](#data-visualization-resources)
 
 ## Commercial Libraries
 * [amCharts](https://www.amcharts.com/)   - 传统图表，股票和地图的三个库.  拥有手绘风格主题选项.

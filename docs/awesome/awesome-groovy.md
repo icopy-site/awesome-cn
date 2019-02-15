@@ -1,29 +1,10 @@
+<div class="github-widget" data-repo="kdabir/awesome-groovy"></div>
 令人敬畏的Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
  精选groovy库，框架和资源的精选列表.  受到许多其他令人敬畏的*存储库的启发.  这个很棒的收藏品也可用 [Groovy.ZEEF.com](https://groovy.zeef.com/kunal.dabir).
 
 
-- [Awesome Groovy](#awesome-groovy)
-    - [Build Tools, Setup and CI](#build-tools-setup-and-ci)
-    - [Concurrency](#concurrency)
-    - [Database](#database)
-    - [Desktop App Frameworks](#rich-applications)
-    - [HTTP](#http)
-    - [IDE and Editor Support](#ide-and-editor-support)
-    - [Testing](#testing)
-    - [Code analysis](#code-analysis)
-    - [Web Frameworks](#web-frameworks)
-    - [Transpilers](#transpilers)
-    - [Static Web](#static-web)
-    - [Language Utilities](#language-utilities)
-    - [File System Utilities](#file-system-utilities)
-    - [File Format DSL](#file-format-dsl)
-    - [Scripting Tools](#scripting-tools)
-    - [Rule Engines](#rule-engines)
-- [Resources](#resources)
-- [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Build tools, setup and CI
 * [Gradle](https://www.gradle.org/) -  JVM的强大构建系统
@@ -35,7 +16,6 @@
 
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) -  Java平台最智能的IDE
-* [Groovy Grails Tool Suite](https://marketplace.eclipse.org/content/groovygrails-tool-suite-ggts-eclipse) - 基于Eclipse的IDE，针对开发，调试和执行Groovy和Grails应用程序进行了优化
 * [Groovy Web Console](http://groovyconsole.appspot.com) - 在线Groovy控制台
 * [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) -  LightTable支持
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - 从Sublime Text运行groovy脚本

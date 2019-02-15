@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="quozd/awesome-dotnet"></div>
 ## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -18,105 +19,7 @@
 
 在法律允许的范围内， [Vitali Fokin](https://github.com/quozd) 已放弃对此作品的所有版权及相关或相邻权利.
 
-## Table of Contents
 
-* [Awesome DotNet](#awesome-dotnet)
-  * [Algorithms and Data Structures](#algorithms-and-data-structures)
-  * [API](#api)
-  * [Application Frameworks](#application-frameworks)
-  * [Application Templates](#application-templates)
-  * [Artificial Intelligence](#artificial-intelligence)
-  * [Assembly Manipulation](#assembly-manipulation)
-  * [Assets](#assets)
-  * [Authentication and Authorization](#authentication-and-authorization)
-  * [Books](#books)
-  * [Build Automation](#build-automation)
-  * [Business Intelligence and Reporting](#business-intelligence)
-  * [Caching](#caching)
-  * [CLI](#cli)
-  * [CLR](#clr)
-  * [CMS](#cms)
-  * [Code Analysis and Metrics](#code-analysis-and-metrics)
-  * [Code Snippets](#code-snippets)
-  * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
-  * [Compression](#compression)
-  * [Continuous Integration](#continuous-integration)
-  * [Cryptography](#cryptography)
-  * [Database](#database)
-  * [Database Drivers](#database-drivers)
-  * [DateTime](#datetime)
-  * [Decompilation](#decompilation)
-  * [Deployment](#deployment)
-  * [DirectX](#directx)
-  * [Distributed Computing](#distributed-computing)
-  * [DLR](#dlr)
-  * [Documentation](#documentation)
-  * [E-Commerce and Payments](#e-commerce-and-payments)
-  * [Environment Management](#environment-management)
-  * [ETL](#etl)
-  * [Event aggregator and messenger](#event-aggregator-and-messenger)
-  * [Exceptions](#exceptions)
-  * [Extensions librairies](#extensions)
-  * [Functional programming](#functional-programming)
-  * [Game](#game)
-  * [GIS](#gis)
-  * [Git Tools](#git-tools)
-  * [Graphics](#graphics)
-  * [GUI](#gui)
-  * [HTML and CSS](#html-and-css)
-  * [HTTP](#http)
-  * [IDE](#ide)
-  * [Image Processing](#image-processing)
-  * [Install Tools](#install-tools)
-  * [Internationalization](#internationalization)
-  * [Interoperability](#interoperability)
-  * [IoC](#ioc)
-  * [JavaScript Engines](#javascript-engines)
-  * [Logging](#logging)
-  * [Mail](#mail)
-  * [Machine Learning and Data Science](#machine-learning-and-data-science)
-  * [Markdown Processors](#markdown-processors)
-  * [Mathematics](#mathematics)
-  * [Media](#media)
-  * [Metrics](#metrics)
-  * [Micro Framework](#micro-framework)
-  * [Minification](#minification)
-  * [Misc](#misc)
-  * [MVVM](#mvvm)
-  * [Object to object mapping](#object-to-object-mapping)
-  * [Office](#office)
-  * [ORM](#orm)
-  * [Package Management](#package-management)
-  * [PDF](#pdf)
-  * [Profiler](#profiler)
-  * [Protocols](#protocols)
-  * [Push Notifications](#push-notifications)
-  * [Query Builders](#query-builders)
-  * [Queue](#queue)
-  * [Reactive Programming](#reactive-programming)
-  * [Scheduling](#scheduling)
-  * [SDK and API Clients](#sdk-and-api-clients)
-  * [Search](#search)
-  * [Serialization](#serialization)
-  * [SMS and Phone Calls](#sms-and-phone-calls)
-  * [State machines](#state-machines)
-  * [Static Site Generators](#static-site-generators)
-  * [Style Guide](#style-guide)
-  * [Template Engine](#template-engine)
-  * [Testing](#testing)
-  * [Tools](#tools)
-  * [Trading](#trading)
-  * [UI Automation](#ui-automation)
-  * [Visual Studio Plugins](#visual-studio-plugins)
-  * [Web Browsers](#web-browsers)
-  * [Web Frameworks](#web-frameworks)
-  * [Web Servers](#web-servers)
-  * [WebSocket](#websocket)
-  * [Windows Services](#windows-services)
-  * [WPF](#wpf)
-  * [Parser Library](#parser-library)
-* [Other Lists](#other-lists)
-* [Resources](#resources)
 
 ## Algorithms and Data structures
 
@@ -127,7 +30,7 @@
 
 * [Telegram.Bot](https://github.com/TelegramBots/Telegram.Bot) -  .NET客户端 [Telegram Bot API](https://core.telegram.org/bots/api)
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在.NET和Mono上构建基于HTTP的服务的轻量级，低仪式框架
-* [ASP.NET Web API](https://www.asp.net/web-api) - Framework that makes it easy to build HTTP services that reach a broad range of clients, including browsers and mobile devices
+* [ASP.NET Web API](https://www.asp.net/web-api) - 框架，可以轻松构建HTTP服务，覆盖广泛的客户端，包括浏览器和移动设备
 * [Breeze](http://breeze.github.io/doc-net/) - API framework enabling rich data access by using the OData 3 protocol. Client libraries available for JavaScript and C#.
 * [Mobius: C# API for Spark](https://github.com/Microsoft/Mobius) - Mobius adds C# language binding to Apache Spark, enabling the implementation of Spark driver code and data processing operations in C#.
 * [ServiceStack](https://github.com/ServiceStack/ServiceStack) - 为所有人提供周到的架构，令人难以置信的快速，令人愉快的网络服务
@@ -161,7 +64,7 @@
 * [Serene](https://github.com/volkanceylan/Serenity)   -  Serenity是一个ASP.NET MVC应用程序平台，旨在通过基于服务的体系结构简化和缩短以数据为中心的业务应用程序的开发.  Serene是构建Serenity应用程序的入门模板.
 * [Side-Waffle](https://github.com/LigerShark/side-waffle) - 用于Web和桌面开发的大量有用模板.
 * [Template10](https://github.com/Windows-XAML/Template10) - 具有设计模式的Windows 10模板.
-* [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) -  Vue启动应用程序模板，在后端使用ASP.NET Core API分层体系结构和基于JWT的身份验证
+* [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) - Vue startup application template that uses ASP.NET Core API layered architecture at the back-end and JWT based authentication
 
 ## Artificial Intelligence
 * [AIMLBot (Program#)](http://aimlbot.sourceforge.net/) - A small, fast, standards-compliant yet easily customizable implementation of an AIML (Artificial Intelligence Markup Language) based chatter bot in C#.
@@ -241,7 +144,7 @@
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - 适用于.NET Core和.NET Framework 4.5+的可组合CLI参数解析器.
 * [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - 适用于.NET的终端UI工具包.
-* [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
+* [Power Args](https://github.com/adamabdelhamed/PowerArgs)   -  PowerArgs将命令行参数转换为易于编程的.NET对象.  它还提供了大量可选功能，例如参数验证，自动生成的使用，选项卡完成以及充足的可扩展性
 * [ReadLine](https://github.com/tonerdo/readline) - 用于.NET / .NET Core的GNU-Readline库.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，利用对象树来执行命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
@@ -253,11 +156,9 @@
 ## CMS
 
 * [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - 专注于用户体验和适应性的Web CMS
-* [mojoPortal ](https://github.com/i7media/mojoportal) - MojoPortal is an extensible, cross database, mobile friendly, web content management system (CMS) and web application framework written in C# ASP.NET
 * [N2CMS](https://github.com/n2cms/n2cms) - 开源，轻量级，代码优先的CMS，能够无缝集成到任何MVC项目中.
 * [Orchard ](https://github.com/OrchardCMS/Orchard) - 免费，开源，以社区为中心的项目，旨在在ASP.NET平台上提供应用程序和可重用组件
 * [Piranha CMS](https://github.com/PiranhaCMS/Piranha)   -  Piranha是一个有趣，快速和轻量级的.NET框架，用于开发基于cms的Web应用程序.  它基于ASP.NET MVC和Web页面，与Visual Studio和WebMatrix完全兼容.  http://piranhacms.org
-* [Umbraco](https://github.com/umbraco/Umbraco-CMS) -  Umbraco是一个基于ASP.NET平台构建的免费开源内容管理系统
 * [BetterCMS](http://www.bettercms.com) - 面向开发人员和发布者的开源.NET直观用户界面
 * [DotNetNuke](https://www.dnnsoftware.com/community/download)   -  DNN平台是我们免费的开源Web CMS，是每个专业DNN解决方案的基础.  全球有超过750,000家组织建立了由DNN平台提供支持的网站.
 * [BlogEngine.NET](https://github.com/rxtur/BlogEngine.NET) - 简单但功能齐全的ASP.NET博客
@@ -383,7 +284,7 @@
 * [Akka.net](https://github.com/akkadotnet/akka.net)   -  Akka.NET是流行的Java / Scala框架Akka to .NET的一个端口.  这是一个社区驱动的端口，与制作原始Java / Scala版本的Typesafe无关.
 * [Zebus](https://github.com/Abc-Arbitrage/Zebus)   -  Zebus是一种轻量级，高度通用的点对点服务总线，基于CQRS原则构建.  它允许应用程序以快速简便的方式相互通信.  大部分复杂性都隐藏在库中，您可以专注于编写对您而言重要的代码，而不是调试消息代码.  任何分布式应用程序的基础.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org)  组件和拓扑.  为分布式和容错事件流处理提供高级抽象.
-* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插入基础块.
+* [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - Pluggable foundation blocks for building distributed apps.
 * [MBrace](https://github.com/mbraceproject) - 云的集成数据脚本
 * [protoactor-dotnet](https://github.com/AsynkronIT/protoactor-dotnet) -  Proto Actor  -  Golang和C的超快分发演员#
 
@@ -399,7 +300,6 @@
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - 无缝地向Web API项目添加Swagger.
 * [F# Formatting](http://fsprojects.github.io/FSharp.Formatting/) - Tools for documenting F# and C# projects from F# script files, Markdown documents and inline XML or Markdown comments
 * [DocFX](https://github.com/dotnet/docfx) - 用于构建和发布.NET项目的API文档的工具
-* [DocNet](https://github.com/FransBouma/DocNet) - 友好的静态文档生成器，使用markdown文件构建内容.
 
 ## E-Commerce and Payments
 
@@ -408,7 +308,7 @@
 * [ServiceStack.Stripe](https://github.com/ServiceStack/Stripe) - 为stripe.com REST API键入.NET客户端
 * [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET) - 免费的ASP.NET MVC电子商务购物车解决方案https://www.smartstore.com/en/net
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) -  Stripe.net是https://stripe.com/的全功能.NET API
-* [Virto Commerce](https://github.com/VirtoCommerce/vc-platform) - Virto Commerce is the second generation release and is the only enterprise level e-commerce product fully available under Open Source license. Virto Commerce is based on .NET 4.5 with extensive use of MVC, IoC, EF, Azure, AngularJS and many other cutting edge technologies. It can be deployed in Microsoft Cloud (Azure), Amazon Web Services (AWS) and on-premise. https://virtocommerce.com
+* [Virto Commerce](https://github.com/VirtoCommerce/vc-platform)   -  Virto Commerce是第二代版本，是唯一一款在开源许可下完全可用的企业级电子商务产品.  Virto Commerce基于.NET 4.5，广泛使用MVC，IoC，EF，Azure，AngularJS和许多其他尖端技术.  它可以部署在Microsoft Cloud（Azure），Amazon Web Services（AWS）和内部部署中.  https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce)   - 基于.NET Core构建的超级简单电子商务系统.  使用简单，易于定制.  感谢.NET Core，您可以在Windows，Linux上运行SimplCommerce.  使用各种RDBMS：Microsoft SQL Server，PostgreSQL，MySQL
 [GrandNode](https://github.com/grandnode/grandnode)   -  GrandNode是一款功能强大的跨平台电子商务解决方案，专为要求最苛刻的用户而开发.  您可以在任何系统上运行它 -  Linux，Windows，Mac.  GrandNode支持Docker，因此您可以使用Docker for Linux容器安装它.  可扩展的电子商务解决方案，可以在任何公司中独立于公司规模或行业进行调整. 
 
@@ -458,7 +358,7 @@
  * [SharpMap](https://github.com/SharpMap) 易于使用的映射库，可用于Web和桌面应用程序
  * [OsmSharp](http://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - 从Entity Framework Spatial Data或Well-Known Text（WKT）输入创建GeoJSON的库.
- * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) -  .Net库用于GeoJSON类型和相应的Json.Net（de）序列化程序
+ * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
  * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - 轻松解析或转换坐标格式并计算基于位置的太阳/月球信息.
 
 ## Git Tools
@@ -540,7 +440,7 @@
 
 * [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - An extensible, cross platform IDE written in C# for Embedded C/C++, .NET Core, Avalonia and Typescript
 * [SharpDevelop](https://github.com/icsharpcode/SharpDevelop) - 适用于.NET编程语言的免费IDE
-* [MonoDevelop](https://github.com/mono/monodevelop) -  MonoDevelop是一个跨平台的IDE，主要针对Mono / .NET开发人员
+* [MonoDevelop](https://github.com/mono/monodevelop) - MonoDevelop is a cross-platform IDE mostly aimed at Mono/.NET developers
 * [Visual Studio Express](https://visualstudio.microsoft.com/vs/express/) -  Visual Studio for .NET编程的免费轻量级版本.
 * [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/) - 功能齐全的IDE
 * [Waf DotNetPad](http://jbe2277.github.io/dotnetpad/) - A simple and fast code editor that makes fun program with C# or Visual Basic.
@@ -554,7 +454,7 @@
 
 * [ImageResizer](https://imageresizing.net/)   - 向图像URL添加命令以获得更改的版本（以毫秒为单位）.  实时调整图像大小，编辑等.
 * [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - 开源.NET库，可即时操作图像.
-* [ImageSharp](https://github.com/SixLabors/ImageSharp) - Fully managed cross-platform library for processing of image files.
+* [ImageSharp](https://github.com/SixLabors/ImageSharp) - 完全托管的跨平台库，用于处理图像文件.
 * [DynamicImage](http://dynamicimage.apphb.com/) - 用于ASP.NET的高性能开源图像处理库.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - 从图像文件中提取Exif，IPTC，XMP，ICC和其他元数据.
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) -  OpenCV库的跨平台.NET包装器.
@@ -893,7 +793,6 @@
 * [FsBlog](https://github.com/fsprojects/FsBlog/) - 使用F识别博客，静态网站生成#
 * [Pretzel](https://github.com/Code52/pretzel) -  .NET平台的站点生成工具（以及一些）
 * [Sandra.Snow](https://github.com/Sandra/Sandra.Snow) -  Jekyll启发的.NET静态站点生成
-* [Wyam](https://wyam.io/) - 简单易用，高度模块化，极易配置的静态内容生成器
 
 ## Style Guide
 
@@ -949,7 +848,7 @@
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理Visual Studio的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)   - 用于原型设计或作为CRUD后端的假REST API.  无需定义类型，使用动态类型.  数据存储在单个JSON文件中.  具有身份验证，WebSocket通知，异步长时间运行操作，错误/延迟的随机生成以及实验性GraphQL支持.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell`选项卡完成 [dotnet CLI](https://github.com/dotnet/cli)
-* [SmartCode](https://github.com/Smart-Kit/SmartCode)   -  SmartCode = IDataSource  - &gt; IBuildTask  - &gt; IOutput =&gt; Build Everything !!!  （包括[**代码生成器**]）
+* [SmartCode](https://github.com/Smart-Kit/SmartCode) - SmartCode = IDataSource -> IBuildTask -> IOutput => Build Everything!!! (Including [**Code generator**])
 * [NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - 用于管理网络和解决网络问题的强大工具！
 
 ## Trading
@@ -990,7 +889,7 @@
 * [Coalesce](https://coalesce.intellitect.com/) -  Coalesce是一个用于快速开发ASP.NET Core Web应用程序的框架.
 * [FubuMVC](https://github.com/DarthFubuMVC/fubumvc) - 用于.NET的前端控制器样式MVC框架
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在.NET和Mono上构建基于HTTP的服务的轻量级，低仪式框架
-* [IISNode](https://github.com/tjanczuk/iisnode) - Host Node.js applications in IIS
+* [IISNode](https://github.com/tjanczuk/iisnode) -  IIS中的主机Node.js应用程序
 * [Suave.IO](https://suave.io/) - Framework/library/web server that makes you cry tears of joy after finishing your project ahead-of-time when you look at the beautiful code you've written in F#.
 * [DotVVM](https://github.com/riganti/dotvvm) -  MVVM框架，适用于不喜欢编写JavaScript的人，具有OWIN和ASP.NET Core支持以及Visual Studio 2015和2017的免费扩展.
 * [Giraffe](https://github.com/giraffe-fsharp/Giraffe) - Functional (F#) ASP.NET Core micro framework for building rich web applications
@@ -1020,7 +919,7 @@
 ## WPF
 
 * [Data Grid Extensions](https://github.com/tom-englert/DataGridExtensions) -  WPF DataGrid控件的模块化扩展，如过滤，其他列事件，扩展的星型列行为等......
-* [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - A rich collection of controls, components and utilities for creating WPF applications
+* [Extended WPF Toolkit™](https://github.com/xceedsoftware/wpftoolkit) - 用于创建WPF应用程序的丰富控件，组件和实用程序集合
 * [WPF](https://github.com/dotnet/wpf) - WPF is a .NET Core UI framework for building Windows desktop applications.
 
 ## Parser Library

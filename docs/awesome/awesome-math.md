@@ -1,64 +1,11 @@
+<div class="github-widget" data-repo="rossant/awesome-math"></div>
 ## Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩数学资源的精选列表.
 
-## Contents
 
 <!-- START_TOC -->
 
-* [Contents](#contents)
-* [General Resources](#general-resources)
-    * [Learning Platforms](#learning-platforms)
-    * [Learn to Learn](#learn-to-learn)
-    * [Tools](#tools)
-    * [Questions and Answers](#questions-and-answers)
-    * [Encyclopedia](#encyclopedia)
-    * [Books](#books)
-    * [Blogs](#blogs)
-    * [Misc](#misc)
-* [Lecture Notes](#lecture-notes)
-    * [Foundations of Mathematics](#foundations-of-mathematics)
-        * [Set Theory](#set-theory)
-        * [Logic](#logic)
-        * [Category Theory](#category-theory)
-        * [Homotopy Type Theory](#homotopy-type-theory)
-        * [Surreal Numbers](#surreal-numbers)
-    * [Number Theory](#number-theory)
-        * [Algebraic Number Theory](#algebraic-number-theory)
-        * [Analytic Number Theory](#analytic-number-theory)
-    * [Algebra](#algebra)
-        * [Abstract Algebra](#abstract-algebra)
-        * [Group Theory](#group-theory)
-        * [Linear Algebra](#linear-algebra)
-        * [Ring Theory](#ring-theory)
-        * [Galois Theory](#galois-theory)
-        * [Lie Algebras](#lie-algebras)
-    * [Combinatorics](#combinatorics)
-        * [Graph Theory](#graph-theory)
-    * [Geometry and Topology](#geometry-and-topology)
-        * [Differential Geometry](#differential-geometry)
-        * [Algebraic Geometry](#algebraic-geometry)
-        * [Topology](#topology)
-        * [Algebraic Topology](#algebraic-topology)
-    * [Analysis](#analysis)
-        * [Real Analysis](#real-analysis)
-        * [Harmonic Analysis](#harmonic-analysis)
-        * [Complex Analysis](#complex-analysis)
-        * [Functional Analysis](#functional-analysis)
-        * [Measure Theory](#measure-theory)
-        * [Ordinary Differential Equations](#ordinary-differential-equations)
-        * [Partial Differential Equations](#partial-differential-equations)
-    * [Probability and Statistics](#probability-and-statistics)
-        * [Probability Theory](#probability-theory)
-        * [Statistics](#statistics)
-        * [Statistical Learning](#statistical-learning)
-        * [Stochastic processes](#stochastic-processes)
-    * [Numerical Analysis](#numerical-analysis)
-    * [Signal processing](#signal-processing)
-    * [Mathematics for Computer Science](#mathematics-for-computer-science)
-    * [Mathematical Biology](#mathematical-biology)
-    * [Mathematical Physics](#mathematical-physics)
-* [License](#license)
 
 <!-- END_TOC -->
 
@@ -165,7 +112,7 @@
 ### Surreal Numbers
 
 * [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) -  DE Knuth
-* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - 格雷琴格林
+* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
 * [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) -  Philip Ehrlich
 
@@ -450,7 +397,7 @@ Shlomo Sternberg
 
 * [Introduction to Numerical Analysis](http://www.math.umd.edu/~dlevy/books/na.pdf) -  Doron Levy（马里兰大学）
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) -  Douglas N. Arnold（明尼苏达大学）
-* [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) - L. Ridgway Scott
+* [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) -  L. Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) -  JM McDonough（肯塔基大学）
 * [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) - 阿尔弗雷德施密特，Arsen Narimanyan
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -  Douglas Wilhelm Harder

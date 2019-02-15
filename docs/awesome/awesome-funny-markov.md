@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sublimino/awesome-funny-markov"></div>
 ## Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一本精心策划的令人愉悦的马尔可夫链输出列表，灵感源自 [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
@@ -7,14 +8,7 @@
  寻找有关马尔可夫链的更多信息？  尝试 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
 
 
-## Table of Contents
 
-- [Web and Tech](#web-and-tech)
-- [Twitter](#twitter)
-- [Media](#media)
-- [Tools](#tools)
-- [A history of funny Markov chains](#a-history-of-funny-markov-chains)
-- [Sober applications](#sober-applications)
 
 
 ## Web and Tech

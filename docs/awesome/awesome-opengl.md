@@ -1,20 +1,10 @@
+<div class="github-widget" data-repo="eug/awesome-opengl"></div>
 ## awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
 精选的OpenGL库，调试器和资源的精选列表.
 
-## Contents
 
-* [Articles](#articles)
-* [Books](#books)
-* [Debug](#debug)
-* [GLSL Editors](#glsl-editors)
-* [Libraries](#libraries)
-* [Profile Loaders](#profile-loaders)
-* [References](#references)
-* [Talks](#talks)
-* [Videos](#videos)
-* [Websites](#websites)
 
 
 ## Articles
@@ -122,7 +112,7 @@
 * OpenGL视频教程*
 
 * [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - 关于现代OpenGL和Qt的理解教程.
-* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - Video tutorials (step-by-step) about OpenGL and game development.
+* [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - 关于OpenGL和游戏开发的视频教程（循序渐进）.
 * [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - 关于计算机图形的热门会议.
 * [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) -  C ++中的OpenGL简介
 * [thebennybox](https://www.youtube.com/user/thebennybox/playlists) - 关于OpenGL和游戏开发的视频教程.
@@ -149,7 +139,7 @@
 
 *类似的精彩列表*
 * [awesome](https://github.com/sindresorhus/awesome) - 精选列表的精选列表.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选计算机视觉资源的精选列表.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - 精选WebGL库，资源等的精选列表.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - 精选的Vulkan项目和生态系统的精选列表.
 * [gamedev](https://github.com/ellisonleao/magictools) - 关于游戏开发的精彩列表.

@@ -1,16 +1,9 @@
+<div class="github-widget" data-repo="xen0l/awesome-dtrace"></div>
 ## Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的DTrace书籍，文章，视频，工具和资源的精选列表.
 
-## Contents
 
-- [Learn](#learn)
-- [Articles](#articles)
-- [Videos](#videos)
-- [Software](#software)
-- [Tools](#tools)
-- [Community](#community)
-- [Contributing](#contributing)
 
 - - -
 

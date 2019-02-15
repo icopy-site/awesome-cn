@@ -1,27 +1,24 @@
+<div class="github-widget" data-repo="diessica/awesome-sketch"></div>
 ## awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
+> [**Sketch 3**](http://bohemiancoding.com/sketch/)  在设计界已经变得非常流行.  你知道多少钱？
 
-A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
+为设计师，开发人员或两者都制作精彩的Sketch视频，文章，插件等的精选列表.
 
-Found something cool? Please, **[contribute](https://github.com/diessica/awesome-sketch/blob/master/contributing.md)**!
+ 发现很酷的东西？  请， **[contribute](https://github.com/diessica/awesome-sketch/blob/master/contributing.md)**!
 
 --
 
-* [Videos](#videos) :movie_camera:
-* [Guides](#guides) :blue_book:
-* [Articles](#articles) :newspaper:
-  * [Tips and Tricks](#tips-and-tricks)
-  * [Tutorials](#tutorials)
-* [Community](#community) :sunglasses:
-* [Plugins](#plugins) :electric_plug:
-* [Templates & UI Kits](#templates--ui-kits) :scissors:
-* [Services](#services)
-* [Other](#other)
+* [Videos](#videos) ：movie_camera：
+* [Guides](#guides) ：blue_book：
+* [Articles](#articles) ：报纸：
+* [Community](#community) ：墨镜：
+* [Plugins](#plugins) ：电插头：
+* [Templates & UI Kits](#templates--ui-kits) ：剪刀：
 
 ## Videos
 ###### Tutorial-only
-- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)** (25 *awesome* lessons for beginners)
+- **[Sketch 3 Tutorials](https://www.youtube.com/playlist?list=PLLnpHn493BHE6UIsdKYlS5zu-ZYvx22CS)**（25 *真棒*初学者课程）
 - [Exploring Sketch plugins](https://www.youtube.com/playlist?list=PLLnpHn493BHHUZe9bihv37Z6CyXBTyb-9)
 - [LearnSketch channel](https://www.youtube.com/user/learnsketch/videos)
 
@@ -31,7 +28,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Sketch 3 for iOS App Design Step by Step](https://www.youtube.com/watch?v=6SyFaRNVuUA)
 
 ###### General screencasts
-- [SketchCasts](http://www.sketchcasts.net/) *(paid mostly)*
+- [SketchCasts](http://www.sketchcasts.net/) *（主要是付费）*
 
 ## Guides
 - [A Guide to Sketch](https://readymag.com/u91593485/guidetosketch/)
@@ -56,16 +53,16 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Typography in Sketch 3: Linked Text Styles](https://medium.com/@ericajaclyn/typography-in-sketch-3-linked-text-styles-9946a32af688)
 
 ## Community
-- [TeamSketch](http://teamsketch.io/), a community for Sketch designers powered by Slack
+- [TeamSketch](http://teamsketch.io/)，一个由Slack提供支持的Sketch设计师社区
 - [Google+ group](https://plus.google.com/communities/105292892811319179094)
 - [Facebook group](https://www.facebook.com/groups/sketchformac/)
 - [on Reddit](http://www.reddit.com/r/sketchapp)
-- [SketchTalk](http://sketchtalk.io/), unofficial forum
+- [SketchTalk](http://sketchtalk.io/)，非官方论坛
 - [Sketch Hunt](http://sketchhunt.com/)
-- [Designer News](https://www.designernews.co/) *(people talk a lot about Sketch there!)*
+- [Designer News](https://www.designernews.co/) *（人们在那里谈论很多关于草图！）*
 
 ## Plugins
-> A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
+&gt;像插件管理器一样 [Sketchpacks](https://sketchpacks.com) 强烈推荐.
 
 ###### Must-have :heart:
 - [Content Generator](https://github.com/timuric/Content-generator-sketch-plugin)
@@ -78,7 +75,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools](https://github.com/webpatch/Handy-Tools/)
-- [Easier.cc](http://easier.cc/) (Files up to 5 MB)
+- [Easier.cc](http://easier.cc/) （文件最大5 MB）
 - [User Flow](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency](https://github.com/x-raizor/Efficiency)
@@ -88,37 +85,36 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Sketch Plugin Directory](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
-- Websites related to resources (see [Other](#other) section).
-- In the [Sketch community](#community)
+- 与资源相关的网站（见 [Other](#other) 部分）.
 
 ## Templates & UI Kits
-- [Responsive Web Design Template](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-- [Sketch iOS Templates](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Responsive Web Design Template](https://github.com/lu和ro/sketch-responsive-design-template)，一个模板 [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) 和 [Bootstrap UI Kit](http://bootstrapuikit.com/) 作为快速网页设计的符号.
+- [Sketch iOS Templates](https://github.com/nvk/sketch-ios)，许多iOS模板的集合.
+- [Teracy Wireframe Kit](https://github.com/teracyhq/wireframe) ，旨在帮助加快您的线框图过程.  包括用于Web，移动设备和其他设备的基本UI元素.
 
 ## Services
-- [Zeplin](https://zeplin.io) – design, prototyping and collaboration
-- [Marvel](https://marvelapp.com) - design, prototyping and collaboration
-- [Avocode](https://avocode.com) – get CSS, export assets, measure and handpick colors.
-- Invision Inspect – it gives developers access to measurements, colors, and assets from a designer’s prototype
+- [Zeplin](https://zeplin.io)- 设计，原型设计和协作
+- [Marvel](https://marvelapp.com) - 设计，原型设计和协作
+- [Avocode](https://avocode.com) - 获取CSS，导出资产，测量和精选颜色.
+-  Invision Inspect  - 它使开发人员能够从设计师的原型中访问测量，颜色和资产
 - [Sympli](https://sympli.io)
-- [Abstract](https://www.goabstract.com/) - Version control and collaboration for Sketch files.
+- [Abstract](https://www.goabstract.com/) -  Sketch文件的版本控制和协作.
 
 
 ## Other
-- (Newsletter) [Sketch official newsletter](https://bohemian.curated.co/)
-- (Newsletter) [Sketch tricks](http://sketchtricks.com/)
-- (Resources) [SketchApp Resources](http://www.sketchappsources.com/)
-- (Resources) [SketchLand](http://sketch.land)
-- (Resources) [SketchResources](http://sketchresources.com/)
-- (Resources) [Sketchapp TV](http://sketchapp.tv/)
-- (Resources) [Sketch Repo](http://sketchrepo.com/)
+- （时事通讯） [Sketch official newsletter](https://bohemian.curated.co/)
+- （时事通讯） [Sketch tricks](http://sketchtricks.com/)
+- （资源） [SketchApp Resources](http://www.sketchappsources.com/)
+- （资源） [SketchLand](http://sketch.land)
+- （资源） [SketchResources](http://sketchresources.com/)
+- （资源） [Sketchapp TV](http://sketchapp.tv/)
+- （资源） [Sketch Repo](http://sketchrepo.com/)
 - [SketchApp Rocks](http://sketchapp.rocks/)
-- [SketchTips](http://www.sketchtips.info/), a blog about Sketch
+- [SketchTips](http://www.sketchtips.info/)，一个关于Sketch的博客
 - [sketch-tricks on Medium](https://medium.com/sketch-tricks)
 
 ## Keep up to date!
-Sketch has got a **fast-growing community**. Joining them (*see [Community](#community) section ↑*), following their [blog](http://bohemiancoding.tumblr.com/) and subscribing to their [newsletter](https://bohemian.curated.co/) are the best ways to keep up to date so far.
+ Sketch有一个**快速增长的社区**.  加入他们（*见 [Community](#community) 部分↑*），遵循他们 [blog](http://bohemiancoding.tumblr.com/) 并订阅他们 [newsletter](https://bohemian.curated.co/) 是目前为止保持最新状态的最佳方式.
 
 ---
 
@@ -126,4 +122,4 @@ Sketch has got a **fast-growing community**. Joining them (*see [Community](#com
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Diéssica Gurskas](http://diessi.ca) 已放弃对此作品的所有版权及相关或相邻权利.

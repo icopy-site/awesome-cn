@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="sjfricke/awesome-webgl"></div>
 ## Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/sjfricke/awesome-webgl/master/webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
@@ -14,30 +15,12 @@ WebGL元素可以与其他HTML元素混合，并与页面的其他部分或页�
 WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执行的着色器代码
 处理单元（GPU）.
 
-## Contents
-* [WebGL](#webgl)
-* [WebGL 2](#webgl-2)
-* [WebVR](#webvr)
-* [Libraries](#libraries)
-* [Community](#community)
 
 ## WebGL
 
 &gt;所有与WebGL有关的事情
 
 ### WebGL sub-categories
-* [Articles](#articles)
-* [Blog Series](#blog-series)
-* [Books](#books)
-* [Bug Reporting](#bug-reporting)
-* [GLSL Editors](#glsl-editors)
-* [References](#references)
-* [Talks](#talks)
-* [Tools/Debugging](#toolsdebugging)
-  * [Chrome Specific Tools/Debugger](#chrome-specific-toolsdebugger)
-  * [Firefox Specific Tools/Debugger](#firefox-specific-toolsdebugger)
-* [Tutorials](#tutorials)
-* [Videos](#videos)
 
 ### Articles
 
@@ -74,7 +57,6 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Chrome Bug Report](https://bugs.chromium.org/p/chromium/issues/list) -  Chrome相关的错误
 * [Khronos Github Issue Page](https://github.com/KhronosGroup/WebGL/issues) - 规范或一致性相关的错误
 * [Mozilla BugZilla](https://bugzilla.mozilla.org) -  Firefox相关的错误
-* [WebKit Bugzilla](https://bugs.webkit.org/enter_bug.cgi?assigned_to=cmarrin%40apple.com&attachurl=&blocked=&bug_file_loc=http%3A%2F%2F&bug_severity=Normal&bug_status=NEW&comment=&component=WebGL&contenttypeentry=&contenttypemethod=autodetect&contenttypeselection=text%2Fplain&data=&dependson=&description=&flag_type-1=X&flag_type-3=X&form_name=enter_bug&keywords=&maketemplate=Remember%20values%20as%20bookmarkable%20template&op_sys=Mac%20OS%20X%2010.5&priority=P2&product=WebKit&rep_platform=PC&short_desc=&version=528%2B%20%28Nightly%20build%29) -  Safari相关的错误
 
 ### GLSL Editors
 
@@ -129,7 +111,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 #### Chrome Specific Tools/Debugger
 
 * [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) -  Chrome DevTools扩展程序，可帮助您在浏览器中实时编辑着色器.
-* [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
+* [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - 轻松探索WebGL和WebGL2场景并排除故障.
 * [Webgl Insight](https://github.com/3Dparallax/insight) -  Chrome扩展WebGL调试工具包，提供多种功能.
 
 #### Firefox Specific Tools/Debugger
@@ -168,10 +150,6 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 &gt;一般来说，与WebGL有关的任何内容都可以在 [WebGL](#WebGL) 部分
 
 ### WebGL 2 sub-categories
-* [Articles](#articles-1)
-* [References](#references-1)
-* [Tutorials](#tutorials-1)
-* [Videos](#videos-1)
 
 ### Articles
 
@@ -213,10 +191,6 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 ### WebVR sub-categories
 
-* [Articles](#articles-2)
-* [Blog Series](#blog-series-1)
-* [Platforms](#platforms)
-* [References](#references-2)
 
 ### Articles
 
@@ -264,7 +238,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - 非常小的低级WebGL库，提供了提供高性能体验的基本要素.
 
 ### Maps and Visualizations
-* [Cesium](https://cesiumjs.org/) - 用于世界级3D地球仪和地图的开源库.
+* [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 * [Deck.gl](http://deck.gl/) -  React的WebGL覆盖套件，提供一组高性能的数据可视化覆盖.
 * [Luma.gl](https://luma.gl/) - 基于WebGL2的动力框架，用于GPU驱动的数据可视化和计算.
 * [xeogl](http://xeogl.org/) -  WebGL上的数据驱动3D可视化引擎.

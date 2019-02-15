@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="rayokota/awesome-hbase"></div>
 ## Awesome HBase [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/rayokota/awesome-hbase/c197f415/hbase_logo_with_orca-2.png" align="right" width="150">](http://hbase.apache.org/)
@@ -6,30 +7,8 @@
 
 [HBase](http://hbase.apache.org) 是一个分布式，可扩展的大数据存储.
 
-## Contents
 
-- [Projects](#projects)
-    - [Clients](#clients)
-    - [Cloud](#cloud)
-    - [Frameworks](#frameworks)
-        - [Datasets](#datasets)
-        - [Document](#document)
-        - [Entity/JPA](#entityjpa)
-        - [Geospatial](#geospatial)
-        - [Graph](#graph)
-        - [SQL/OLAP](#sqlolap)
-        - [Time Series](#time-series)
-    - [Infrastructure](#infrastructure)
-        - [Secondary Indices](#secondary-indices)
-        - [Transactions](#transactions)
-    - [Integrations](#integrations)
-    - [Tools](#tools)
-    - [Miscellaneous](#miscellaneous)
 
-- [Resources](#resources)
-    - [Books](#books)
-    - [Papers](#papers)
-    - [Community](#community)
 
     
 ## Projects
@@ -97,7 +76,6 @@
 #### Secondary Indices
 
 * [hindex](https://github.com/Huawei-Hadoop/hindex) -  HBase的二级索引.
-* [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - 快速轻松地搜索存储在HBase中的内容.
 
 #### Transactions
 
@@ -161,7 +139,6 @@
 
 ### Papers
 
-* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf) -  HBase的灵感来源.
 * [Apache Hadoop Goes Realtime at Facebook](https://pdfs.semanticscholar.org/865a/215390cd49af9e4941e03107120e631dcaa0.pdf) -  Facebook如何将HBase部署到生产中.
 
 ### Community

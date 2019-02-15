@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="jondot/awesome-devenv"></div>
 ## Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的工具，资源和工作流提示的精选列表，提供了一个很棒的开发环境.
@@ -17,32 +18,11 @@
 非常感谢大家 [contributor list](https://github.com/jondot/awesome-devenv/graphs/contributors) :)
 
 
-## Content
 
 _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * NIX / LIN`_进行标记
 
 
 
-- [Admins](#admins)
-- [Benchmarking](#benchmarking)
-- [Data](#data)
-- [Diagnostics](#diagnostics)
-- [Desktop](#desktop)
-- [Dotfiles](#dotfiles)
-- [Editors](#editors)
-  - [Atom](#atom)
-  - [Sublime Text](#sublime-text-3)
-  - [Vim](#vim)
-  - [IntelliJ](#intellij)
-- [Git](#git)
-- [Misc](#misc)
-- [Notifications](#notifications)
-- [Orchestration](#orchestration)
-- [Presentation](#presentation)
-- [Shell](#shell)
-- [Text](#text)
-- [Terminal](#terminal)
-- [Workflow](#workflow)
 
 
 ## Admins

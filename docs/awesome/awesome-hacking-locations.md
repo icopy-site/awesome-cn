@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="daviddias/awesome-hacking-locations"></div>
 令人敬畏的黑客地点 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
@@ -5,109 +6,6 @@
 
 ## Index
 
-- [Awesome Hacking Spots](#awesome-hacking-spots-)
-  - [Index](#index)
-  - [Contribute 🌟](#contribute-)
-  - [Template](#template)
-  - [Hackerspaces](#hackerspaces)
-  - [CoWorking](#coworking)
-- [Austria 🇦🇹](#austria-)
-  - [Vienna](#vienna)
-- [Belgium 🇧🇪](#belgium-)
-  - [Brussels](#brussels)
-- [Brazil 🇧🇷](#brazil-)
-  - [Rio de Janeiro](#rio-de-janeiro)
-- [Bulgaria 🇧🇬](#bulgaria-)
-  - [Sofia](#sofia)
-- [Cameroon 🇨🇲](#cameroon-)
-  - [Buea](#buea)
-- [Canada 🇨🇦](#canada-)
-  - [Hamilton](#hamilton)
-  - [Montréal](#montreal)
-- [Denmark 🇩🇰](#denmark-)
-  - [Copenhagen](#copenhagen)
-- [France 🇫🇷](#france-)
-  - [Paris](#paris)
-- [Germany 🇩🇪](#germany-)
-  - [Berlin](#berlin)
-  - [Dresden](#dresden)
-  - [Hamburg](#hamburg)
-  - [Jena](#jena)
-  - [Munich](#munich)
-- [Hong Kong 🇭🇰](#hong-kong-)
-- [India 🇮🇳](#india-)
-  - [Hyderabad](#hyderabad)
-- [Italy 🇮🇹](#italy-)
-  - [Rome](#rome)
-- [Japan 🇯🇵](#japan-)
-  - [Nagoya](#nagoya)
-  - [Tokyo](#tokyo)
-- [Lithuania 🇱🇹](#lithuania-)
-  - [Vilnius](#vilnius)
-- [Netherlands 🇳🇱](#netherlands-)
-  - [Amsterdam](#amsterdam)
-  - [Delft](#delft)
-- [Norway 🇳🇴](#norway-)
-  - [Stavanger](#stavanger)
-  - [Tromsø](#tromsø)
-  - [Ålesund](#ålesund)
-- [Poland 🇵🇱](#poland-)
-  - [Krakow](#krakow)
-  - [Gliwice](#gliwice)
-- [Portugal 🇵🇹](#portugal-)
-  - [Aveiro](#aveiro)
-  - [Braga](#braga)
-  - [Lisbon](#lisbon)
-  - [Porto](#porto)
-  - [Viana do Castelo](#viana-do-castelo)
-- [Singapore 🇸🇬](#singapore-)
-  - [Outram Park](#outram-park)
-- [Slovenia 🇸🇮](#slovenia-)
-- [South Korea 🇰🇷](#south-korea-)
-  - [Seoul](#seoul)
-- [Spain 🇪🇸](#spain-)
-  - [Barcelona](#barcelona)
-  - [Oviedo](#oviedo)
-- [Sweden 🇸🇪](#sweden-)
-  - [Stockholm](#stockholm)
-  - [Uppsala](#uppsala)
-- [Switzerland 🇨🇭](#switzerland-)
-  - [Zurich](#zurich)
-- [Turkey 🇹🇷](#turkey-)
-  - [Istanbul](#istanbul)
-- [United Kingdom 🇬🇧](#united-kingdom-)
-  - [Scotland](#scotland)
-    - [Edinburgh](#edinburgh)
-- [United States 🇺🇸](#united-states-)
-  - [Arizona <a id="arizona"></a>](#arizona)
-  - [California <a id="california"></a>](#california-)
-    - [Los Angeles, CA <a id="los-angeles-ca"></a>](#los-angeles-ca-)
-    - [San Diego, CA <a id="san-diego-ca"></a>](#san-diego-ca-)
-    - [Mountain View, CA <a id="mountain-view-ca"></a>](#mountain-view-ca-)
-    - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
-    - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
-    - [San Francisco, CA](#san-francisco-ca)
-    - [San Jose, CA](#san-jose-ca)
-    - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
-  - [Illinois](#illinois)
-    - [Chicago, IL <a id="chicago-il"></a>](#chicago-il-)
-  - [Maryland](#maryland)
-    - [Baltimore, MD <a id="baltimore-md"></a>](#baltimore-md-)
-  - [Massachusetts <a id="massachusetts"></a>](#massachusetts-)
-    - [Boston, MA <a id="boston-ma"></a>](#boston-ma-)
-    - [Cambridge, MA <a id="cambridge-ma"></a>](#cambridge-ma-)
-    - [Somerville, MA <a id="somerville-ma"></a>](#somerville-ma-)
-  - [South Carolina <a id="south-carolina"></a>](#south-carolina-)
-    - [Columbia, SC <a id="columbia-sc"></a>](#columbia-sc-)
-  - [Texas](#Texas)
-    - [Austin, TX](#austin-tx)
-  - [New York <a id="new-york"></a>](#new-york-)
-    - [New York, NY <a id="new-york-ny"></a>](#new-york-ny-)
-  - [Virginia <a id="virginia"></a>](#virginia-)
-    - [Richmond, VA <a id="richmond-va"></a>](#richmond-va-)
-  - [Washington <a id="washington"></a>](#washington-)
-    - [Bellevue, WA <a id="bellevue-wa"></a>](#bellevue-wa-)
-    - [Seattle, WA <a id="seattle-wa"></a>](#seattle-wa-)
 
 ## Contribute 🌟
 
@@ -848,7 +746,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
 #### Mercado Negro
 
- &gt;旧房子;  复古;  对夜猫子黑客有好处，只是想完成一些事情
+> Old refurnished house; vintage; good for night owl hackers that just wanted to get something done
 
 Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
 
@@ -974,7 +872,7 @@ Wifi pw：`ilovenicolau`
 
 #### Ler Devagar
 
- &gt;神奇的图书馆与古董收藏的书籍.  务必在一楼品尝&#39;bolo da marta&#39;.
+> Fantastic library with a vintage collection of books. Make sure to taste 'bolo da marta' on the first floor.
 
 网页：http：//www.lerdevagar.com/
 
@@ -1046,7 +944,7 @@ Wifi pw：`葡萄牙语`
 
 #### Quatro ao Rato
 
- &gt;在城市中心环境优美的好地方.  午餐时一定要吃素食.  提前开放.
+> Nice place with nice environment in the middle of city. Always has a vegetarian alternative for lunch. Opens early.
 
 网页：https：//pt-pt.facebook.com/quatroaorato/
 
@@ -1329,7 +1227,7 @@ Webpage: http://espaijoliu.tumblr.com/
 
 ## Sweden 🇸🇪
 
-> In general, you can go to any Wayne's Coffee or Espresso House to get wifi and a power point. Wayne's Coffee wifi is usually a bit spotty compared with the Espresso Houses that I tried, and Espresso House often caters for laptop users with power points under chairs or near tables.
+ &gt;一般来说，你可以去任何Wayne&#39;s Coffee或Espresso House获得无线网络和电源点.  与我尝试的Espresso House相比，Wayne的咖啡wifi通常有点不稳定，Espresso House经常为笔记本电脑用户提供椅子或桌子附近的电源点.
 
 ## Stockholm
 
@@ -1574,7 +1472,7 @@ Webpage: http://espaijoliu.tumblr.com/
 
  &gt;如果你是“过度咖啡”，你可以尝试这个伟大的啤酒厂与许多精酿啤酒.  非常适合工作（USB端口，工作人员甚至可以借用电缆进行充电等）.  晚上很安静.
 
-Webpage: https://blackhammerbrewing.com
+网页：https：//blackhammerbrewing.com
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------

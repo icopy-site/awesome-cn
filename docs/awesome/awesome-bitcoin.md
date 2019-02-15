@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="igorbarinov/awesome-bitcoin"></div>
 令人敬畏的比特币
 ===============
 为软件开发人员提供的比特币服务和工具的精选列表
@@ -5,20 +6,6 @@
 
 内容清单
 
-- [Utilities](#utilities)
-- [Blockchain API and Web service](#blockchain-api-and-web-services)
-- [Wallets API](#wallets-api)
-- [Opensource wallets](#open-source-wallets)
-- [Blockchain Explorers](#blockchain-explorers)
-- [C++ Libraries](#c-libraries)
-- [JavaScript Libraries](#javascript-libraries)
-- [PHP Libraries](#php-libraries)
-- [Ruby Libraries](#ruby-libraries)
-- [Python Libraries](#python-libraries)
-- [Java Libraries](#java-libraries)
-- [Playgrounds](#playgrounds)
-- [Read](#read)
-- [Course](#course)
 
 
 ## Utilities

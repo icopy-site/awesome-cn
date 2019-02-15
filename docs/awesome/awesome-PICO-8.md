@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="felipebueno/awesome-PICO-8"></div>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -9,20 +10,7 @@
 
   PICO-8是一个幻想控制台，用于制作，分享和玩小游戏和其他计算机程序.  当你打开它时，机器会用一个shell来打招呼，以便输入一个子集 [Lua](https://www.lua.org/) 命令并提供简单的内置工具来创建自己的墨盒.
 
-## Contents
 
-- [Community](#community)
-- [Resources](#resources)
-- [Tutorials](#tutorials)
-- [Tools](#tools)
-- [Text Editors Language Support](#text-editors-language-support)
-- [Hacks](#hacks---undocumented-pico-8-features)
-- [Articles & Posts](#articles--posts)
-- [Podcasts](#podcasts)
-- [Talks](#talks)
-- [Clones](#clones)
-- [Contributing](#i-want-to-contribute)
-- [License](#license)
 
 ## Community
 

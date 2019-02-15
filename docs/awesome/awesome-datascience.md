@@ -1,29 +1,10 @@
+<div class="github-widget" data-repo="bulutyazilim/awesome-datascience"></div>
 ## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 *开源数据科学知识库，用于学习和应用解决现实世界的问题.*
 
-### Table of contents
 
-* [Motivation](#motivation)
-* [Infographic](#infographic)
-* [What is Data Science?](#what-is-data-science)
-* [Colleges](#colleges)
-* [MOOC's](#moocs)
-* [Data Sets ](#data-sets)
-* [Bloggers](#bloggers)
-* [Podcasts](#podcasts)
-* [Books](#books)
-* [Facebook Accounts](#facebook-accounts)
-* [Twitter Accounts ](#twitter-accounts )
-* [YouTube Videos & Channels](#youtube-videos--channels)
-* [Toolboxes - Environment](#toolboxes---environment)
-* [Journals, Publications and Magazines](#journals-publications-and-magazines)
-* [Presentations](#presentations)
-* [Data Science Competitions](#competitions)
-* [Comics](#comics)
-* [Tutorials](#tutorials)
-* [Other Awesome Lists](#other-awesome-lists)
 
 
 ## Motivation
@@ -191,7 +172,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Quora Data Science](https://www.quora.com/Data-Science) - 来自专家的数据科学问题和答案
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
 - [Data Science Report](http://datasciencereport.com/) MDS，Inc.帮助建立数据科学，高级分析，大数据架构和高性能软件工程领域的职业生涯
-- [Louis Dorard](http://www.louisdorard.com/blog/) a technology guy with a penchant for the web and for data, big and small
+- [Louis Dorard](http://www.louisdorard.com/blog/) 一个喜欢网络和数据的技术人员，无论大小
 - [Machine Learning Mastery](http://machinelearningmastery.com/)  关于帮助专业程序员自信地应用机器学习算法来解决复杂问题.
 - [Daniel Forsyth](http://www.danielforsyth.me/) - 个人博客
 - [Data Science Weekly](https://www.datascienceweekly.org/) - 每周新闻博客
@@ -327,7 +308,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [deeplearning4j](https://twitter.com/deeplearning4j) -
 - [DJ Patil](https://twitter.com/dpatil) - 白宫数据主管，VP @ RelateIQ.
 - [Domino Data Lab](https://twitter.com/DominoDataLab)
-- [Drew Conway](https://twitter.com/drewconway) - 数据书呆子，黑客，冲突学生.
+- [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
 - [Emilio Ferrara](https://twitter.com/jabawack) - #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
 - [Greg Reda](https://twitter.com/gjreda) 关于数据和熊猫工作@ _GrubHub_
@@ -338,13 +319,13 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [John Myles White](https://twitter.com/johnmyleswhite)  Facebook和Julia开发人员的科学家.  用于网站优化的黑客机器学习和强盗算法的作者.  推文仅反映我的观点.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - 首席数据科学家@微软数据科学团队
 - [Julia Evans](https://twitter.com/b0rk) - 黑客 - 熊猫 - 数据分析
-- [Kenneth Cukier](https://twitter.com/kncukier) - 经济学人的数据编辑和大数据的合着者（http://big-data-book.com）.
+- [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) -  https://meetup.com/San-Diego-R-Users-Group/的组织者
 - [Kevin Markham](https://twitter.com/justmarkham) - 数据科学讲师，以及创始人 [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees)   - 交互式数据可视化和工具.  数据flaneur.
 - [Kirk Borne](https://twitter.com/KirkDBorne) -  DataScientist, PhD Astrophysicist, Top #BigData Influencer.
 - [Linda Regber](https://twitter.com/LindaRegber) - 数据故事讲述者，可视化.
-- [Luis Rei](https://twitter.com/lmrei) - PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science.
+- [Luis Rei](https://twitter.com/lmrei)  - 博士生.  编程，移动，Web.  人工智能，智能机器人机器学习，数据挖掘，自然语言处理，数据科学.
 - [Mark Stevenson](https://twitter.com/Agent_Analytics)   -  Salt的数据分析招聘专员（@SaltJobs）|  分析 - 洞察力 - 大数据 - 数据科学
 - [Matt Harrison](https://twitter.com/__mharrison__)   - 关于全栈Python的观点，作者，教练，目前正在玩数据科学家.  偶尔的父亲，丈夫，ult | goalt-imate，有机园艺.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - 挖掘社交网络.
@@ -371,7 +352,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Vamshi Ambati](https://twitter.com/vambati) - Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: https://allthingsds.wordpress.com )
 - [Wes McKinney](https://twitter.com/wesmckinn) -  Pandas（Python数据分析库）.
 - [WileyEd](https://twitter.com/WileyEd) - Senior Manager - @Seagate Big Data Analytics | @McKinsey Alum | #BigData + #Analytics Evangelist | #Hadoop, #Cloud, #Digital, & #R Enthusiast
-- [WNYC Data News Team](https://twitter.com/datanews) - The data news crew at @WNYC. Practicing data-driven journalism, making it visual and showing our work.
+- [WNYC Data News Team](https://twitter.com/datanews)   -  @WNYC的数据新闻工作人员.  实践数据驱动的新闻，使其成为可视化并展示我们的工作.
  @SkymindIO对JVM的开源深度学习.  与Hadoop，Spark集成.  分布式GPU / CPU |  http://nd4j.org |  https://www.skymind.ai/
 
 ## Youtube Videos & Channels
@@ -462,7 +443,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [jqplot](http://www.jqplot.com/)
  * [Matplotlib](http://matplotlib.org/)
  * [nvd3](http://nvd3.org/)
- * [Opendata-tools](http://opendata-tools.org/en/visualization/) - 开源数据可视化工具列表
+ * [Opendata-tools](http://opendata-tools.org/en/visualization/) - list of open source data visualization tools
  * [Openrefine](http://openrefine.org/)
  * [plot.ly](https://plot.ly/)
  * [raw](http://rawgraphs.io)

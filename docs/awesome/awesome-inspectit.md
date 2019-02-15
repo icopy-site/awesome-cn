@@ -1,3 +1,4 @@
+<div class="github-widget" data-repo="inspectit-labs/awesome-inspectit"></div>
 ## Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的inspectIT文档和资源的精选列表.
@@ -6,14 +7,7 @@
 
 inspectIT是一个用于分析Java（EE）应用程序的开源APM（应用程序性能管理）工具.
 
-## Contents
 
-- [Official Resources](#official-resources)
-- [Tutorials](#tutorials)
-- [Videos](#videos)
-- [Blog Posts](#blog-posts)
-- [Profiles And Sensor Configurations](#profiles-and-sensor-configurations)
-- [Uncategorized](#uncategorized)
 
 ## Official Resources
 

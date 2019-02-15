@@ -1,27 +1,11 @@
+<div class="github-widget" data-repo="web-padawan/awesome-lit-html"></div>
 ## Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;精选的lit-html资源的精选列表.
 
 [lit-html](https://lit-html.polymer-project.org) - 一个高效，富有表现力，可扩展的HTML模板库，适用于JavaScript.
 
-## Contents
 
-- [General resources](#general-resources)
-- [Community](#community)
-- [Overview](#overview)
-- [Implementations](#implementations)
-  - [Renderers](#renderers)
-  - [LitElement Extensions](#litelement-extensions)
-- [Components](#components)
-- [Starter Templates](#starter-templates)
-- [IDE Plugins](#ide-plugins)
-- [Tools](#tools)
-- [Examples](#examples)
-- [Videos](#videos)
-- [Podcasts](#podcasts)
-- [Blogs](#blogs)
-- [Inspired Solutions](#inspired-solutions)
-- [Other awesome resources](#other-awesome-resources)
 
 ## General resources
 

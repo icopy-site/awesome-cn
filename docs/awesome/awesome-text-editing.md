@@ -1,7 +1,7 @@
+<div class="github-widget" data-repo="dok/awesome-text-editing"></div>
 ## Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Web的文本编辑库，服务和资源的精选集合.
 
-## Rich-text editors using contenteditable
 * [Slate](https://github.com/ianstormtaylor/slate) - 基于React和Immutable构建的富文本编辑器
 * [Trix](https://github.com/basecamp/trix) -  Basecamp的富文本编辑器
 * [CKEditor](http://ckeditor.com/) - 从2003年开始.具有iframe和内联样式的富文本编辑功能
@@ -18,12 +18,10 @@ Web的文本编辑库，服务和资源的精选集合.
 * [Froala](https://www.froala.com/wysiwyg-editor) - 简单易用的富文本编辑器，支持移动设备，大量示例，高性能和内联编辑
 * [Redactor](http://imperavi.com/redactor/) - 高级，干净，流畅，Redactor富文本编辑器提供出色的沉浸式用户体验
 * [Ritzy](https://github.com/ritzyed/ritzy) - 基于Web的协作富文本编辑器
-* [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - 基于开源浏览器的html5启用富文本编辑器
 * [WYMeditor](http://www.wymeditor.org/) - 专注于语义标记的开源XHTML编辑器
 * [Dijit Editor](http://dojotoolkit.org/) - 基于Dojo的富文本编辑器组件
 * [YUI Rich Text Editor](http://yui.github.io/yui2/)   - 雅虎！  富文本编辑器组件
 * [KindEditor](https://github.com/kindsoft/kindeditor) - 开源HTML编辑器
-* [Hallo](https://github.com/bergie/hallo) - 用于jQuery UI的简单富文本编辑器（contentEditable）
 * [markitup](http://markitup.jaysalvat.com/home/) - 通用标记jQuery编辑器
 * [openwysiwyg](http://www.openwebware.com/) - 免费的跨浏览器WYSIWYG编辑器
 * [tejQuery](http://jqueryte.com/) - 轻量级（19.5 KB）和非常有用的HTML编辑器
@@ -46,7 +44,6 @@ Web的文本编辑库，服务和资源的精选集合.
 * [markdown-js](https://github.com/evilstreak/markdown-js) - 用于javascript的Markdown解析器
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) -  PageDown是Stack Overflow和Stack Exchange网络其余部分使用的JavaScript Markdown预览器
 
-## Heuristic for contenteditable rich-text editors
 
 编辑应该：
 *保持稳定
