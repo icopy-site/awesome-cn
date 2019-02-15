@@ -524,6 +524,8 @@ extra:
 extra_javascript:
   - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
   - '_static/js/extra.js'
+  - 'https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js'
+  - 'https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js'
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 
 extra_css:
