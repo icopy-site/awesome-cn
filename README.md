@@ -9,6 +9,6 @@
 
 特别感谢 ctf-wiki 作者 ,项目配置直接照搬的这个项目
 
-
+### 英文原版地址: [asmen.icopy.site](http://asmen.icopy.site) 
 
 ![show case](showcase.jpg)
