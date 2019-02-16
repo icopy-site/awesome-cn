@@ -102,7 +102,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) - 有用的WebGL开发人员工具，旨在用作ES6模块.
 * [Spector.js](https://spector.babylonjs.com/) - 用于探索和排除WebGL场景故障的不可知JavaScript框架.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - 受gDEBugger和PIX启发的工具，目的是使高级WebGL应用程序的开发更容易.
-* [WebGl Playground](http://jessevdk.github.io/webgl-play/)   - 编辑器允许您以方便的方式同时处理JavaScript代码和GLSL顶点/片段着色器（如果有的话）.  所有内容都按照您的意愿进行组织，格式化和突出显示.
+* [WebGl Playground](http://jessevdk.github.io/webgl-play/)   - 编辑器允许您以方便的方式同时处理JavaScript代码和GLSL顶点/片段着色器（如果有的话）.  一切都按照您的意愿进行组织，格式化和突出显示.
 * [WebGL Report](http://webglreport.com/?v=1) - 查看浏览器支持WebGL的详细信息.
 * [WebGL Support Stats](http://webglstats.com/) - 交互式仪表板，显示在不同浏览器和设备中对WebGL功能的支持.
 * [WebGL Texture Tester](http://toji.github.io/texture-tester/) - 尝试加载WebGL支持的每种纹理格式之一，旨在快速显示浏览器/设备支持的格式.

@@ -51,7 +51,7 @@
 
 所有支持的板都可以在最新版本中找到 -  [GitHub](https://github.com/adafruit/circuitpython/releases) .  如果您的主板支持CircuitPython，请执行拉取请求以添加它.
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Express，Adafruit羽毛M4 Express，Adafruit羽毛nRF52840 Express，Adafruit GEMMA M0，Adafruit Grand Central M4 Express，包括SAMD51，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0，Adafruit ItsyBitsy M4，Adafruit METRO M0 Express，Adafruit Metro M4，Adafruit NeoTrellis M4，Adafruit Trinket M0.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Express，Adafruit羽毛M4 Express，Adafruit羽毛nRF52840 Express，Adafruit GEMMA M0，Adafruit Grand Central M4 Express，包括SAMD51，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0，Adafruit ItsyBitsy M4，Adafruit METRO M0 Express，Adafruit Metro M4，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal.
 - [Arduino](https://www.arduino.cc/) -  Arduino MKR 1300，Arduino MKR ZERO，Arduino ZERO.
 - [Electronic Cats](https://electroniccats.com/) -  CatWAN USB Stick，Meow Meow.
 - [MakerDiary](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/) -  nRF52840 Micro Dev Kit USB Dongle.
@@ -72,6 +72,7 @@
 
 ## News
 
+- [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - 方法eZine：设计趋势和万物转换功能Python硬件，第35页 -  [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) -  CircuitPython通过专题文章和项目在HackSpace杂志上进行了封面.
 - [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - 社区呼吁在2019年的CircuitPython中获得所需和需要的东西.
 - [CircuitPython in 2018](https://blog.adafruit.com/2018/01/29/circuitpython-in-2018/) - 一篇讨论CircuitPython 2018版未来发展方向的文章.

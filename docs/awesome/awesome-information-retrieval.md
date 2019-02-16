@@ -28,7 +28,7 @@
 - [CS 371R: Information Retrieval and Web Search](https://www.cs.utexas.edu/~mooney/ir-course/) -  Raymond J. Mooney（德克萨斯大学奥斯汀分校）.
 - [CS 172: Introduction to Information Retrieval](http://www.cs.ucr.edu/~vagelis/classes/CS172/) -  Vagelis Hristidis（加州大学河滨分校）.
 - [SIMS 240: Principles of Information Retrieval](http://www2.sims.berkeley.edu/academics/courses/is240/s06/) -  Ray R. Larson（加州大学伯克利分校）.
-- [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - 杰米·卡伦（CMU）.
+- [11-442 / 11-642: Search Engines](http://boston.lti.cs.cmu.edu/classes/11-642/) - 杰米卡兰（CMU）.
 - [600.466: Information Retrieval and Web Agents](http://www.cs.jhu.edu/%7Eyarowsky/cs466.html) -  David Yarowsky（约翰霍普金斯大学）.
 - [CS 435: Information Retrieval, Discovery, and Delivery](http://www.cs.princeton.edu/courses/archive/spring06/cos435/) -  Andrea LaPaugh（普林斯顿大学）.
 - [Information Retrieval and Data Mining](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/teaching/winter-semester-201516/information-retrieval-and-data-mining/)   - 博士  Jilles Vreeken，博士.  博士  Gerhard Weikum（MPI）.

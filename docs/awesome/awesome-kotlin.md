@@ -197,7 +197,7 @@
 * [requery/requery](https://github.com/requery/requery) -  Java / Kotlin / Android的基于SQL的现代查询和持久性.
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - 该库提供了一个流畅的DSL，用于使用弹簧数据规范查询弹簧数据JPA存储库.
 * [s4kibs4mi/PultusORM](https://github.com/s4kibs4mi/PultusORM) -  PultusORM是sqlite jdbc驱动程序之上的kotlin的sqlite ORM库.
-* [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
+* [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - 用于aerospike-client-java的RxJava2包装器.
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) - 一个超快速，功能强大且非常简单的ORM android数据库库，可以为您编写数据库代码.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - 用于postgres / mysql的mauricio异步驱动程序的Kotlin / Gradle端口.
 * [shyiko/levelkt](https://github.com/shyiko/levelkt) - 用于Kotlin和/或Java 8+的LevelDB客户端.
@@ -213,7 +213,7 @@
 * [Vorlonsoft/GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle Script插件，用于将Gradle Android / Kotlin / Java Artifacts上传到Maven存储库（JCenter，Maven Central，...）.
 * [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - 用于Kotlin的脚本工具.
 * [kohesive/keplin](https://github.com/kohesive/keplin) - 安全的Kotlin脚本和二进制lambda脚本.
-* [shyiko/ktlint](https://github.com/shyiko/ktlint) -  Kotlin linter.
+* [shyiko/ktlint](https://github.com/shyiko/ktlint) - Kotlin linter.
 * [jtransc/jtransc](https://github.com/jtransc/jtransc) - 在Kotlin中创建的JVM AOT编译器.
 * [arturbosch/detekt](https://github.com/arturbosch/detekt) -  Kotlin的静态代码分析.
 * [cypressious/KotlinW](https://github.com/cypressious/KotlinW) -  Kotlin编译器的一个小包装器，可用于执行.kts脚本.
@@ -224,7 +224,7 @@
 * [edvin/tornadofx](https://github.com/edvin/tornadofx) -  Kotlin的轻量级JavaFX框架/
 
 ### <a name="libraries-frameworks-http-clients"></a>Http Clients <sup>[Back ⇈](#libraries-frameworks-http-clients-subcategory)</sup>
-* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) -  Kotlin / Android最简单的HTTP网络库.
+* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
 * [jkcclemens/khttp](https://github.com/jkcclemens/khttp) -  Kotlin HTTP请求库.
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) - 基于多平台协程的HTTP客户端.
 * [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - 基于Kotlin DSL的HTTP客户端.
@@ -321,7 +321,7 @@
 * [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) - 未签名的运算符和盒装类型（Ubyte，Uint，Ulong和Ushort），用于未签名的支持.
 * [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) -  g-truck gli port，图像库
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - 非官方的OpenGL SDK
-* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) - Oculus binding
+* [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) -  Oculus绑定
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) -  OpenVR绑定
 * [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - 打开资产导入库端口
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) -  imgui的jvm端口
@@ -462,7 +462,7 @@
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - 应用程序中任何分析的微小api层.
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
-* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - A library that brings the adapter pattern and DiffUtil to Google Maps and MapBox.
+* [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - 将适配器模式和DiffUtil引入Google Maps和MapBox的库.
 * [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - 简单的android库，呈现动画摩天轮
 * [ehsunshine/colored-time-selector](https://github.com/ehsunshine/colored-time-selector)   - 智能彩色时间选择器.  用户可以通过方便的彩色范围选择器选择空闲时间.
 * [yundom/kache](https://github.com/yundom/kache) - 用Kotlin编写的轻量级缓存库.
@@ -473,12 +473,14 @@
 * [adrielcafe/AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) - 此lib实现了Android应用程序中最常用的CoroutineScope.
 * [WindSekirun/RxSocialLogin](https://github.com/WindSekirun/RxSocialLogin) - 此Android库是一个库，可为由RxJava2，Kotlin和Firebase身份验证提供支持的15个平台提供社交登录. 
 * [bakhtiyork/gradients](https://github.com/bakhtiyork/gradients) - 精选渐变的精选集合
+* [hpost/RxBrainwaves](https://github.com/hpost/rx-brainwaves) - 用于NeuroSky MindWave耳机的RxJava包装器.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - 使用MVP架构的kotlin上的android开发框架.
 * [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core)   - 制作Android应用程序的完整框架.  基于Anko和Kotson.
 * [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) - 开源跨平台移动开发框架，使用Kotlin和Java为iOS（iPhone / iPad），Android，Windows等提供一次性写入本地开发
 * [Rasalexman/Flair](https://github.com/Rasalexman/Flair)   - 基于MVC模式的强大的Android架构框架，没有片段和活动与事件系统，查看backstack和简单的生命周期.  清洁架构
+* [hpost/kommon-mvi](https://github.com/hpost/kommon-mvi) - 模型视图的最小框架Intent启发了用Kotlin编写的Android应用程序.
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
 * [antoniolg/Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) -  Android的展示音乐应用程序，完全使用Kotlin语言编写.
@@ -645,7 +647,7 @@
 * [Pune Kotlin User Group](https://www.facebook.com/groups/punekotlin) - 印度
 * [Saudi Arabia Kotlin User Group](https://www.facebook.com/KotlinArabia) - 沙特阿拉伯
 * [Shanghai, KotlinThree](http://kotlinthree.github.io/) - 中国
-* [Singapore Kotlin User Group](https://www.meetup.com/Singapore-Kotlin-User-group/) - 新加坡
+* [Singapore Kotlin User Group](https://www.meetup.com/Singapore-Kotlin-User-group/) - Singapore
 * [Sri Lanka Kotlin User Group](https://www.facebook.com/KotlinSrilanka/) - 斯里兰卡
 * [Syria Kotlin User Group](https://www.facebook.com/KotlinSyria/) - 叙利亚
 * [Sultanpur KNIT Kotlin User Group](https://www.facebook.com/KotlinKnit/) - 印度
@@ -701,7 +703,7 @@
 ### <a name="kotlin-user-groups-australia-oceania"></a>Australia/Oceania <sup>[Back ⇈](#kotlin-user-groups-australia-oceania-subcategory)</sup>
 * [Brisbane Kotlin User Group](https://www.meetup.com/Brisbane-Kotlin-User-Group/) - 澳大利亚
 * [Sydney Kotlin User Group](https://sydkotlin.space/) - 澳大利亚
-* [Wellington Kotlin User Group](https://www.meetup.com/Wellington-kt/) - 新西兰
+* [Wellington Kotlin User Group](https://www.meetup.com/Wellington-kt/) - New Zealand
 
 ### <a name="kotlin-user-groups-africa"></a>Africa <sup>[Back ⇈](#kotlin-user-groups-africa-subcategory)</sup>
 * [Abidjan Kotlin User Group](https://www.facebook.com/groups/778398068995641/) - 象牙海岸
@@ -722,7 +724,7 @@
 * [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - 肯尼亚
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/) - 喀麦隆
 * [Ondo Kotlin User Group](https://www.meetup.com/Kotlin-Ondo-User-Group/) - 尼日利亚
-* [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - Burkina Faso
+* [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - 布基纳法索
 * [Rabat Kotlin User Group](https://www.meetup.com/Rabat-Kotlin-User-Group/) - 摩洛哥
 * [Tunisia Kotlin User Group](https://www.facebook.com/groups/1501353116571104) - 突尼斯
 * [Uganda Kotlin User Group](https://www.facebook.com/Uganda-Kotlin-User-Group-613707548753658/) - 乌干达

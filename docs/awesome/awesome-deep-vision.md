@@ -26,7 +26,7 @@
 （来自Alex Krizhevsky，Ilya Sutskever，Geoffrey E. Hinton，ImageNet分类与深度卷积神经网络，NIPS，2012年.）
 *微软（深度学习） [[Paper](http://arxiv.org/pdf/1512.03385v1.pdf)][[Slide](http://image-net.org/challenges/talks/ilsvrc2015_deep_residual_learning_kaiminghe.pdf)]
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition, arXiv:1512.03385.
-*微软（必要/重量初始化）[[纸张]]（http://arxiv.org/pdf/1502.01852）
+* Microsoft（PReLu /权重初始化）[[论文]]（http://arxiv.org/pdf/1502.01852）
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification, arXiv:1502.01852.
 *批量标准化[[论文]]（http://arxiv.org/pdf/1502.03167）
   * Sergey Ioffe，Christian Szegedy，批量标准化：通过减少内部协变量转换来加速深度网络训练，arXiv：1502.03167.

@@ -252,7 +252,7 @@
 - [FoxIt Reader (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=75832) -  AU3中的PDF阅读器.
 - [MPDF (by taietel)](https://www.autoitscript.com/forum/index.php?showtopic=118827) - 从您的应用程序创建PDF.
 - [PDFCreator (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=42776) -  PDFCreator的自动化允许您创建和操作PDF文件.
-- [PDFCreator (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=170550) - 带有工作EVENTs Handler的PDFFreator v1.xx的UDF.
+- [PDFCreator (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=170550) - 带有工作EVENTs Handler的PDF文件的UDF for PDFCreator v1.xx.
 - [_StringToPDF (by Tam0r)](https://www.autoitscript.com/forum/index.php?showtopic=32261) - 将字符串写入PDF文件并指定字体大小，类型等.
 
 ### Security

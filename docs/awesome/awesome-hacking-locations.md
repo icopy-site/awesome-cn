@@ -503,7 +503,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2)  |  周一至周二：上午8点至晚上10点，周三至周四：上午8点至凌晨1点，周五：上午8点至凌晨2点，周六：上午9点至凌晨2点，周日：上午9点至凌晨12点
+✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2)  |  周一至周二：上午8点 - 晚上10点，周三至周四：上午8点 - 凌晨1点，至周五：上午8点 - 凌晨2点，星期六：上午9时 - 凌晨2点，周日：上午9时 - 中午12点
 
 #### Open Source Cafe
 

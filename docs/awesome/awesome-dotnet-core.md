@@ -7,6 +7,8 @@
 
 谢谢大家 [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
+看看我 [blog](https://medium.com/@thangchung) 或者打招呼 [Twitter](https://twitter.com/thangchung)!
+
 
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
 
@@ -24,13 +26,13 @@
 ### API
 
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
-* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - 将服务API版本添加到ASP.NET Web API，使用ASP.NET Web API的OData和ASP.NET Core的库集.
+* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) -  ASP.NET核心速率限制中间件.
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - 使用Kestrel和Consul的API冷凝器/反向代理，包括轻量级的consul库.
 * [Flurl](https://github.com/tmenier/Flurl) - 适用于.NET的Fluent URL构建器和可测试的HTTP [https://flurl.io](https://flurl.io).
 * GraphQL
   * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - 一个旨在将Dapper和graphql-dotnet项目集成在一起的库，其中包括易用性和性能作为主要关注点.
-  * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) - ASP.NET Core MiddleWare to create a GraphQL end-point.
+  * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) -  ASP.NET Core MiddleWare创建GraphQL端点.
   * [graphql-convention](https://github.com/graphql-dotnet/conventions) - 此库是顶部的补充层，允许您使用现有属性获取器和方法作为字段解析器自动将.NET类包装到GraphQL模式定义中
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - 用于ASP.NET Core的GraphiQL中间件.
   * [graphql-dotnetcore](https://github.com/mkmarek/graphql-dotnetcore) - 基于.NET Framework的.NET [https://github.com/graphql/graphql-js](https://github.com/graphql/graphql-js).
@@ -44,7 +46,8 @@
 * [LightNode](https://github.com/neuecc/LightNode) - 基于OWIN构建的Micro RPC / REST Framework [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [NetCoreStack.Proxy](https://github.com/NetCoreStack/Proxy) - 适用于.NET Standard 2.0的类型安全的分布式REST库（NetCoreStack Flying Proxy）
 * [NSwag](https://github.com/RSuter/NSwag) - 用于.NET，Web API和TypeScript的Swagger / OpenAPI工具链. [http://NSwag.org](http://NSwag.org).
-* [OData](https://github.com/OData/WebApi/tree/feature/netcore) - 开放数据协议（OData）支持创建基于HTTP的数据服务，这些服务允许使用统一资源标识符（URI）识别并在抽象数据模型中定义的资源，由Web客户端使用简单的HTTP消息进行发布和编辑.
+* [OData](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
+* [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 * [refit](https://github.com/paulcbetts/refit) - 适用于Xamarin和.NET的自动类型安全REST库.
 * [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
 * [RestEase](https://github.com/canton7/RestEase) - 易于使用的类型安全REST API客户端库，简单且可自定义.
@@ -195,7 +198,7 @@
 *代码分析
   * [DevSkim](https://github.com/Microsoft/DevSkim) - 一组IDE插件和规则，提供安全“linting”功能.
   * [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials) - 重构Visual Studio的Essentials.
-  * [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) -  .NET编译器平台（“Roslyn”）分析器.
+  * [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
   * [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - 使用.NET编译器平台的StyleCop规则.
 *指标
   * [AppMetrics](https://github.com/alhardy/AppMetrics) -  App Metrics是一个开源和跨平台的.NET库，用于记录和报告应用程序中的指标并报告其健康状况.
@@ -232,7 +235,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
@@ -305,10 +308,10 @@
 * [NetMQ.ReactiveExtensions](https://github.com/NetMQ/NetMQ.ReactiveExtensions)   - 使用Reactive Extensions（RX）轻松地在网络上的任何位置发送消息.  传输协议是ZeroMQ.
 * [Optional](https://github.com/nlkl/Optional) - A robust option type for C#.
 * [reactive-streams-dotnet](https://github.com/reactive-streams/reactive-streams-dotnet) - [Reactive Streams](http://www.reactive-streams.org/) 对于.NET.
-* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - 与Reactive Extensions for .NET集成的MVVM框架，可创建在任何移动或桌面平台上运行的优雅，可测试的用户界面.
+* [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) -  [Reactive Extensions](http://reactivex.io) 对于.NET.
 * [Qactive](https://github.com/RxDave/Qactive)   - 反应性可查询可观察框架.  `4.xx或以上`
-* [sodium](https://github.com/SodiumFRP/sodium/tree/master/)   - 功能反应式编程（FRP）库.  `4.xx或以上`
+* [sodium](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
 
 ### Graphics
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) -  GLFW的.NET绑定.
@@ -454,7 +457,7 @@
 
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - 用于.NET的轻量级高性能对象/关系映射（ORM）库.
-* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - 熟悉以前版本EF的开发人员经验，包括LINQ，POCO和Code First支持.
+* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
   * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - 用于插入更新删除读取（CRUD）操作的EntityFrameworkCore批量批量扩展
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)   - 实体框架实用程序|  批量操作|  批量删除|  批量更新|  查询缓存|  查询过滤器|  查询未来|  查询包括|  审计.
   * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - 触发EF的事件.
@@ -504,17 +507,17 @@
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - 用于通过RabbitMq进行通信的现代.NET框架.
 * [Rebus](https://github.com/rebus-org/Rebus) -  .NET的简单和精简服务总线实现.
 * [Restbus](http://restbus.org) -  RabbitMq的消息传递库.
-* [Tossit](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+* [Tossit](https://github.com/turgayozgur/tossit)   - 用于分布式作业/工作逻辑的简单易用的库.  内置RabbitMQ实现处理的分布式消息.
 
 ### Reporting
-* [FastReport](https://github.com/FastReports/FastReport) - The open source report generator for .NET Core 2.x/.Net Framework 4.x. FastReport can be used in MVC, Web API applications.
+* [FastReport](https://github.com/FastReports/FastReport)   -  .NET Core 2.x / .Net Framework 4.x的开源报告生成器.  FastReport可用于MVC，Web API应用程序.
 
 ### Scheduler and Job
 * [Chroniton.NetCore](https://github.com/leosperry/Chroniton) - 轻量级健壮的库，用于在计划上运行任务（作业）.
 * [Coravel](https://github.com/jamesmh/coravel) -  .Net Core与Laravel会面：调度，排队等
 * [FluentScheduler](https://github.com/fluentscheduler/FluentScheduler) - 具有流畅界面的自动化作业调度程序.
 * [Gofer.NET](https://github.com/brthor/Gofer.NET) - Easy C# API for Distributed Background Tasks/Jobs for .NET Core. Inspired by celery for python.
-* [HangfireIO](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
+* [HangfireIO](https://github.com/HangfireIO/Hangfire) - 在ASP.NET应用程序中执行即发即弃，延迟和重复任务的简便方法 [http://hangfire.io](http://hangfire.io).
 * [LiquidState](https://github.com/prasannavl/LiquidState) - 用于.NET的高效异步和同步状态机.
 * [NCrontab](https://github.com/atifaziz/NCrontab) - 用于.NET的Crontab.
 * [quartznet](https://github.com/quartznet/quartznet/) -  Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
@@ -556,7 +559,7 @@
 ### Searching
 * [Algolia.Search](https://github.com/algolia/algoliasearch-client-csharp) - 官方Algolia .NET客户端的存储库.
 * [AutoComplete](https://github.com/omerfarukz/autocomplete) - 持久，简单，功能强大且可移植的自动完成库.
-* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) - Repository for both NEST and Elasticsearch.NET, the two official elasticsearch .NET clients.
+* [Elasticsearch.Net & NEST](https://github.com/elastic/elasticsearch-net) -  NEST和Elasticsearch.NET的存储库，两个官方的弹性搜索.NET客户端.
 * [ElasticsearchCRUD](https://github.com/damienbod/ElasticsearchCRUD) -  Elasticsearch .NET API.
 * [SearchExtensions](https://github.com/ninjanye/SearchExtensions) -  IQueryable接口的高级搜索功能，例如实体框架查询.
 * [SimMetrics.Net](https://github.com/StefH/SimMetrics.Net) - 相似度量库，例如从编辑距离（Levenshtein，Gotoh，Jaro等）到其他指标，（例如Soundex，Chapman）

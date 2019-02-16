@@ -6,7 +6,7 @@
 [![Backers on Open Collective](https://opencollective.com/awesome-mac/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/awesome-mac/sponsors/badge.svg)](#sponsors)
 
 现在我们变得非常大，与最初的想法不同.
- 收集各种类别的高级软件.  随意**明星**和**叉**.
+Collect premium software in various categories. Feel free to **star** and **fork**.
 
 有什么意见，建议吗？ [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) .  我们喜欢PRs :)请在打开之前查看贡献指南.  跟着 [awesome](https://github.com/sindresorhus/awesome) 名单.
 
@@ -127,7 +127,7 @@
   * [IntelliJ IDEA](https://www.jetbrains.com/idea/)   - 适用于JVM语言的强大IDE.  （**学生免费**）
   * [PyCharm](https://www.jetbrains.com/pycharm/) - 功能强大的Python IDE，具有专业版和社区版.
   * [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
-  * [WebStorm](http://www.jetbrains.com/webstorm/)   -  JetBrains最智能的JavaScript IDE.  **免费**为学生，检查 [here](https://www.jetbrains.com/student/) 了解更多信息.
+  * [WebStorm](http://www.jetbrains.com/webstorm/) - The smartest JavaScript IDE by JetBrains. **FREE** for Students, check [here](https://www.jetbrains.com/student/) 了解更多信息.
 * [Haskell for Mac](http://haskellformac.com)   -  Haskell的现代开发环境.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/haskell-development-platform/id841285201）
 * [NetBeans IDE](https://netbeans.org/)   - 免费和开源IDE，主要用于Java开发，但支持许多其他语言和框架.  [！[开源软件] [OSS图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
 * [Visual Studio Code](https://code.visualstudio.com/) - 微软的免费和开源编辑器，TypeScript友好， [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
@@ -228,6 +228,7 @@
 * [spaceship](https://github.com/denysdovhan/spaceship-prompt)   - 宇航员的Zsh提示.  [！[开源软件] [OSS图标]]（https://github.com/denysdovhan/spaceship-prompt）！[免费软件] [免费软件图标]
 * [Terminus](https://github.com/Eugeny/terminus)   - 免费终端工具，使用TypeScript构建，深受Hyper的启发.  [！[开源软件] [OSS图标]]（https://github.com/Eugeny/terminus）！[免费软件] [免费软件图标]
 * [Termius](https://www.termius.com/)   - 免费的终端工具，可与Windows平台上的xshell相媲美.  ！[免费软件] [免费软件图标]
+* [TextQL](https://github.com/dinedal/textql)   - 对CSV或TSV等结构化文本执行SQL.  [！[开源软件] [OSS图标]]（https://github.com/dinedal/textql）！[免费软件] [免费软件图标]
 * [tmux](https://github.com/tmux/tmux)   - “终端多路复用器”，它允许从单个终端访问和控制多个终端（或窗口）.  tmux旨在成为GNU屏幕等程序的简单，现代，BSD许可的替代方案.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
 * [trash](https://github.com/sindresorhus/trash)   - 将文件和目录移动到废纸篓.  ！[开源软件] [OSS图标]
 * [Upterm](https://github.com/railsware/upterm)   -  Upterm（以前的Black Screen）是终端世界中的IDE.  严格来说，它既是终端仿真器，也是基于Electron的交互式shell.  ！[开源软件] [OSS图标]
@@ -238,7 +239,7 @@
 * [AppJS](http://appjs.com/)   - 轻量级JavaScript UI库，用于创建与本机应用程序类似的移动Web应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/appjs/appjs）
 * [create-dmg](https://github.com/sindresorhus/create-dmg)   - 在几秒钟内为您的macOS应用程序创建一个好看的DMG.  [！[开源软件] [OSS图标]]（https://github.com/sindresorhus/create-dmg）！[免费软件] [免费软件图标]
 * [Electrino](https://github.com/pojala/electrino)   - 使用系统自己的Web浏览器引擎构建基于Web技术的应用程序的桌面运行时.  [！[开源软件] [OSS图标]]（https://github.com/pojala/electrino）！[免费软件] [免费软件图标]
-* [Electron](http://electron.atom.io)   - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/electron/electron）
+* [Electron](http://electron.atom.io) - Build cross platform desktop application with JavaScript, HTML and CSS. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/electron/electron)
 * [ionic](http://ionicframework.com/)   - 使用Angular和开放式Web技术构建令人惊叹的原生和渐进式Web应用程序.  一个应用程序运行在一切.  [！[开源软件] [OSS图标]]（https://github.com/driftyco/ionic）！[免费软件] [免费软件图标]
 * [MacGap](http://macgapproject.github.io/)   - 为OS X集成提供轻量级JavaScript API，例如显示本机通知或将数据写入文件.  [！[开源软件] [OSS图标]]（https://github.com/MacGapProject）！[免费软件] [免费软件图标]
 * [nw.js](http://nwjs.io)   - 使用HTML和JavaScript构建桌面应用程序.  它允许您直接从DOM调用所有`Node.js`模块，并启用一种使用所有Web技术编写应用程序的新方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nwjs/nw.js）
@@ -360,7 +361,7 @@
 * [MockFlow](https://www.mockflow.com) - 用于网页设计和可用性测试的在线原型设计套件.
 * [Mockplus](http://www.mockplus.com) - 原型更​​快，更智能，更容易.
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 适用于Mac，iPhone和iPad的绘图和图形设计.
-* [Origami Studio](http://origami.design/) -  Tool for designing modern interfaces, built and used by designers at Facebook.
+* [Origami Studio](http://origami.design/) - 设计现代界面的工具，由Facebook设计师构建和使用.
 * [pencil](http://pencil.evolus.vn/)   - 用于制作图表和GUI原型的免费开源工具.  [！[开源软件] [OSS图标]]（https://github.com/evolus/pencil）！[免费软件] [免费软件图标]
 * [ProtoPie](https://www.protopie.io/) - 创建最先进的原型，就像Pie一样简单.
 * [Scapple](http://www.literatureandlatte.com/scapple.php) - 实用的思维导图软件，具有免费的白板式布局.
@@ -453,7 +454,7 @@
 
 #### File Sharing
 
-* [Cyberduck](https://cyberduck.io) - Free FTP, SFTP, WebDAV, S3, Backblaze B2, Azure and OpenStack Swift browser. ![Freeware][Freeware Icon]
+* [Cyberduck](https://cyberduck.io)   - 免费FTP，SFTP，WebDAV，S3，Backblaze B2，Azure和OpenStack Swift浏览器.  ！[免费软件] [免费软件图标]
 * [Flow](http://fivedetails.com/flow/) - 屡获殊荣，美观，快速，可靠的FTP + SFTP客户端.
 * [Fu](https://github.com/klesh/fu)   - 将图像/文件上传到远程服务器以换取文件共享的URL.  [！[开源软件] [OSS图标]]（https://github.com/klesh/fu）
 * [Transmit](https://panic.com/transmit/) - 高度灵活和直观的FTP客户端，支持SFTP，S3和iDisk / WebDAV.
@@ -744,7 +745,7 @@
 
 * [AnyDesk](https://anydesk.com) - 提供跨多台计算机的远程访问.
 * [RealVNC](https://www.realvnc.com) - 用于跨桌面和移动远程访问的原始和最佳软件.
-* [TeamViewer](https://www.teamviewer.com/en) - Proprietary computer software package for remote control, desktop sharing, online meetings, web conferencing and file transfer between computers. ![Freeware][Freeware Icon]
+* [TeamViewer](https://www.teamviewer.com/en)   - 专有的计算机软件包，用于远程控制，桌面共享，在线会议，Web会议和计算机之间的文件传输.  ！[免费软件] [免费软件图标]
 
 ## QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 

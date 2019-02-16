@@ -197,7 +197,7 @@
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) -  Appropedia上维护的大型列表.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - 所有开放硬件的资源，包括设计和法律考虑因素.
  * [Biocanvas](http://biocanvas.net/) - 作为艺术的生物图像的集合.
- * [The Powercube](https://www.powercube.net/) - 社区组织者的一些文献和研讨会，用于理解权力和动员.
+ * [The Powercube](https://www.powercube.net/) - 社区组织者的一些文学和研讨会，用于理解权力和动员.
  * [Detroit Future City: A Field Guide to Working with Lots](https://dfc-lots.com/resources/) - 来自底特律的都市农业指南.
  
 ## Questions and Knowledge Gaps

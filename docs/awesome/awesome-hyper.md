@@ -184,7 +184,7 @@
 [hyper-one-light](https://www.npmjs.com/package/hyper-one-light) - 光 - 一个非常可爱的主题，基于的额外光背景 [Atom One Light](https://github.com/atom/one-light-syntax)  调色板.  | [![npm](https://img.shields.io/npm/dm/hyper-one-light.svg?label=DL)](https://www.npmjs.com/package/hyper-one-light)
 [hyper-papercolor](https://www.npmjs.com/package/hyper-papercolor) - [PaperColor](https://github.com/NLKNguyen/papercolor-theme)  Hyper的主题.  | [![npm](https://img.shields.io/npm/dm/hyper-papercolor.svg?label=DL)](https://www.npmjs.com/package/hyper-papercolor)
 [hyper-peacock](https://www.npmjs.com/package/hyper-peacock)   -  Hyper的孔雀主题.  | [![npm](https://img.shields.io/npm/dm/hyper-peacock.svg?label=DL)](https://www.npmjs.com/package/hyper-peacock)
-[hyper-pokemon](https://www.npmjs.com/package/hyper-pokemon)   - 为您的Hyper终端提供精美的，量身定制的神奇宝贝主题.  | [![npm](https://img.shields.io/npm/dm/hyper-pokemon.svg?label=DL)](https://www.npmjs.com/package/hyper-pokemon)
+[hyper-pokemon](https://www.npmjs.com/package/hyper-pokemon)   - 为您的超级终端提供精彩的，量身定制的神奇宝贝主题.  | [![npm](https://img.shields.io/npm/dm/hyper-pokemon.svg?label=DL)](https://www.npmjs.com/package/hyper-pokemon)
 [hyper-polarbear](https://www.npmjs.com/package/hyper-polarbear)   -  Hyper的漂亮白色主题.  | [![npm](https://img.shields.io/npm/dm/hyper-polarbear.svg?label=DL)](https://www.npmjs.com/package/hyper-polarbear)
 [hyper-ramda](https://www.npmjs.com/package/hyper-ramda)   - 主题灵感来自RamdaJS REPL.  | [![npm](https://img.shields.io/npm/dm/hyper-ramda.svg?label=DL)](https://www.npmjs.com/package/hyper-ramda)
 [hyper-relaxed](https://www.npmjs.com/package/hyper-relaxed)   - 一个让人更轻松地看待事物的主题.  | [![npm](https://img.shields.io/npm/dm/hyper-relaxed.svg?label=DL)](https://www.npmjs.com/package/hyper-relaxed)

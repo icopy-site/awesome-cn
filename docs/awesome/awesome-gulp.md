@@ -208,7 +208,7 @@
 - [gulp-mocha](https://github.com/sindresorhus/gulp-mocha) - 跑 [Mocha](https://github.com/mochajs/mocha) 试验.
 - [gulp-jasmine](https://github.com/sindresorhus/gulp-jasmine) - 跑 [Jasmine 2](https://github.com/jasmine/jasmine) Node.js中的测试
 - [gulp-protractor](https://github.com/mllrsohn/gulp-protractor) -  Gulp包装纸 [Protractor](https://github.com/angular/protractor) 试验.
-- [gulp-coverage](https://github.com/dylanb/gulp-coverage) -  Node.js的覆盖率报告，独立于测试运行器.
+- [gulp-coverage](https://github.com/dylanb/gulp-coverage) -  Node.js的覆盖率报告，独立于测试运行者.
 - [gulp-karma](https://github.com/karma-runner/gulp-karma) - 用于吞咽的Karma测试运行器.
 - [gulp-ava](https://github.com/sindresorhus/gulp-ava)- 跑 [AVA](https://github.com/sindresorhus/ava) 吞咽测试.
 

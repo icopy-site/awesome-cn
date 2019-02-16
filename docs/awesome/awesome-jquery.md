@@ -195,7 +195,7 @@
 * [jBox](https://github.com/StephanWagner/jBox) - 功能强大且灵活的插件，可以处理所有模态窗口，工具提示和通知.
 * [jQuery Modal](https://github.com/kylefox/jquery-modal) - 显示模态窗口的简单轻量级方法.
 * [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 响应式和可访问的模态窗口和工具提示.
-* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面顶部叠加图像的JavaScript库.
+* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面上叠加图像的JavaScript库.
 * [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速，轻便，响应迅速的灯箱插件.
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript的警报的美丽替代品.
 * [tipso](https://github.com/object505/tipso) - 轻量级响应式jQuery Tooltip插件.

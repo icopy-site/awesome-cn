@@ -2393,7 +2393,7 @@
 ### Segmented Control
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) -  UISegmentedControl和UISwitch易于使用，可定制的替代品.
 * [LUNSegmentedControl](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - 可定制的分段控制与交互式动画.
-* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控件.
+* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控制.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - 用Swift编写的iOS自定义UISegmentedControl替代品.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)   - 具有自定义外观和交互式动画的分段控件.  用Swift 3.0编写.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) -  UISegmentedControl的直接替代品，模仿Google Currents和其他各种Google产品中使用的分段控件的风格.

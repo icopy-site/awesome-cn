@@ -382,7 +382,7 @@ Spoiler：你应该尽可能地与UX专家合作！
 * [TensorFlow](https://www.tensorflow.org/) 一直是 [really big deal.](https://news.ycombinator.com/item?id=10532957)  喜欢你的人会用TensorFlow做一些令人兴奋的事情.  这是一个框架.  框架可以帮助您管理复杂性.  请记住这条经验法则：**“更多数据胜过更聪明的算法”**（Domingos），无论你的工具有多酷.  另请注意，TensorFlow不是同类中唯一的机器学习框架：**[Check this great, detailed comparison of TensorFlow, Torch, 和 Theano.](https://github.com/zer0n/deepframeworks)** 也可以看看 [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) 和  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) .  另请参阅上面的深度学习部分.
     *另外，考虑一下 [Lore](https://github.com/instacart/lore/) .  “Lore是一个python框架，使机器学习[特别是深度学习]对于工程师来说是平易近人的，并且可以为数据科学家维护.” 
 *对于可能不在PyPI，GitHub等上的机器学习库，有 [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/) .  似乎有许多学术图书馆.
-* 书签 [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) Julia语言中的图书馆和软件 - 有关机器学习的部分.
+* 书签 [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) 朱莉娅语言中的图书馆和软件 - 有关机器学习的部分.
 * [CreativeAI.net](http://www.creativeai.net/) .  好吧不完全是_libraries_，但这通常很有趣，值得订阅...警告，很容易被吸进:)
 
 ----

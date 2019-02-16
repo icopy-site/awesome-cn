@@ -145,7 +145,7 @@
 
 **专业：**多媒体创作
 
- &gt; Ubuntu Studio是Ubuntu的变种，针对GNU / Linux音频，视频和图形爱好者以及专业人士.  该发行版提供了一系列可用于创建多媒体的开源应用程序.
+ &gt; Ubuntu Studio是Ubuntu的变种，针对GNU / Linux音频，视频和图形爱好者以及专业人士.  该发行版提供了一系列可用于多媒体创建的开源应用程序.
 
 #### [Tails](https://tails.boum.org/index.en.html)
 
@@ -354,7 +354,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 #### [Compute Freely](http://computefreely.org/)
 
- &gt;一个友好的开始免费和开源软件和Linux好奇的地方.
+ &gt;一个友好的地方开始免费和开源软件和Linux好奇.
 
 #### [AlternativeTo](http://alternativeto.net)
 

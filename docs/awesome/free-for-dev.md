@@ -50,6 +50,7 @@
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
+  * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
 
 ## Artifact Repos
 
@@ -83,7 +84,7 @@
   * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
   * [cnverg.com](https://www.cnverg.com/)   - 实时共享可视化工作区，白板，GitHub集成.  免费5 GB，5个空格和5个合作者，没有GitHub回购
   * [flock.com](https://flock.com)   - 团队沟通的更快捷方式.  免费无限消息，频道，用户，应用和集成
-  * [Igloo](https://www.igloosoftware.com/) - 用于共享文档，博客和日历等的内部门户.最多可供10位用户免费使用.
+  * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
   * [riot.im](https://about.riot.im/)   - 基于Matrix构建的分散式通信工具.  群聊，直接消息传递，加密文件传输，语音和视频聊天，以及与其他服务的轻松集成.
   * [Microsoft Teams](https://products.office.com/en-us/microsoft-teams/free)   -  Microsoft Teams是一个基于聊天的数字中心，通过一次体验将对话，内容和应用集中在一个地方.  最多可容纳300名用户.
 
@@ -95,7 +96,7 @@
   * [codeclimate.com](https://codeclimate.com/) - 自动代码审查，免费开源
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
   * [coveralls.io](https://coveralls.io/) - 显示免费的开源测试覆盖率报告
-  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - 连续检测平台，免费开源
+  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [codecov.io](https://codecov.io/) - 代码覆盖工具（SaaS），开源免费
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) -  PHP / Symfony项目的代码质量，开源免费
   * [codacy.com](https://codacy.com/) - 针对开源软件免费提供PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查
@@ -227,7 +228,7 @@
   * [skylight.io](https://www.skylight.io/) - 免费获得前100,000个请求（仅限Rails）
   * [appdynamics.com](https://www.appdynamics.com/) -  24小时免费指标，应用程序性能管理代理仅限于一个Java，一个.NET，一个PHP和一个Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/)   - 监控cron工作.  1个免费窃听（监视器），如果您推荐其他人注册，则更多
-  * [librato.com](https://www.librato.com/) — Free up to 100 metrics at 60 seconds resolution
+  * [librato.com](https://www.librato.com/) - 以60秒的分辨率免费提供100个指标
   * [freeboard.io](https://freeboard.io/)   - 免费公共项目.  您的物联网（IoT）项目的仪表板
   * [loader.io](https://loader.io/) - 具有限制的免费负载测试工具
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) - 性能监控API，检查Ping，DNS等
@@ -597,5 +598,5 @@
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) - 面向开发人员的免费开源软件中心
-  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
+  * [getawesomeness](https://getawesomeness.herokuapp.com) - 从GitHub中获取所有令人惊叹的精彩内容......一定要看
   * [education.github.com](https://education.github.com/pack)   - 为学生提供免费服务.  需要注册

@@ -457,7 +457,7 @@ remote：总计3507（delta 1），重用0（delta 0），pack-reused 3502
 解决增量：100％（1986/1986），完成.
 来自github.com:tj/git-extras
  *分支主控 - &gt; FETCH_HEAD
-添加了dir&#39;git-merge-repo.E95m0gj&#39;
+添加&#39;dir-merge-repo.E95m0gj&#39;
 没有保存的本地更改
 ```
 

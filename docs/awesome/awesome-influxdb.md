@@ -181,7 +181,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 ## Queries
 
-* [dbal-influxdb](https://github.com/corley/dbal-influxdb) -  InfluxDB的DBAL教义
+* [dbal-influxdb](https://github.com/corley/dbal-influxdb) - 关于InfluxDB学说的DBAL
 * [Influxdb::Arel](https://github.com/undr/influxdb-arel)   -  Influxdb :: Arel是InfluxDB方言的SQL AST管理器.  它简化了复杂SQL查询的生成
 * [influxer](https://github.com/palkan/influxer) -  InfluxDB ActiveRecord风格
 

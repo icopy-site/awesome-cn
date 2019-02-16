@@ -115,6 +115,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Gzip](https://crystal-lang.org/api/Gzip.html) -  gzip格式的读者和作者（Crystal stdlib）
  * [INI](https://crystal-lang.org/api/INI.html) - 这个解析器文件（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) - 解析和生成JSON文档（Crystal stdlib）
+ * [JSON tools](https://github.com/impatienttraveller/json-tools) -  JSON补丁和指针RFC的实现
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) -  MaxMindDB阅读器
  * [toml.cr](https://github.com/crystal-community/toml.cr) -  TOML解析器
  * [XML](https://crystal-lang.org/api/XML.html) - 解析和生成XML文档（Crystal stdlib）
@@ -169,7 +170,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [rcm.cr](https://github.com/maiha/rcm.cr) -  Redis群集管理器
 
 ## Examples and funny stuff
- * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - 特隆蛇 [battlesnake](https://www.battlesnake.io/) 竞争
+ * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - Tron snake for [battlesnake](https://www.battlesnake.io/) 竞争
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - 控制台二十一点
  * [breakout.cr](https://github.com/petoem/breakout.cr) - 使用crsfml编写的突破游戏
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - 查克诺里斯的圣洁语录
@@ -430,6 +431,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - 模拟水晶库
  * [Spec](https://crystal-lang.org/api/Spec.html) -  spec框架（Crystal stdlib）
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)   - 使用`Time.now`进行模拟的库.  灵感来自于 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)   - 页面对象库.  灵感来自Ruby [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - 用于存根“HTTP :: Client”请求的库
 
 ## Third-party APIs

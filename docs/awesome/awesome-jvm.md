@@ -80,7 +80,7 @@
 * [colfer](https://github.com/pascaldekloe/colfer) - 二进制序列化格式和类生成器.
 * [commons-math](http://commons.apache.org/proper/commons-math) - 轻量级，独立的数学和统计组件库.
 * [CuckooFilter4J](https://github.com/MGunlogson/CuckooFilter4J) -  Bloom过滤器替换近似集合成员资格查询.
-* [cyclops](https://github.com/aol/cyclops) - 用于RxJava，Reactor，FunctionalJava，Guava和Javascript的集成模块.
+* [cyclops](https://github.com/aol/cyclops) - 用于RxJava，Reactor，FunctionalJava，Guava和Javaslang的集成模块.
 * [Eclipse Collections](https://github.com/eclipse/eclipse-collections) -  Java的集合框架.
 * [externalsortinginjava](https://github.com/lemire/externalsortinginjava) - 使用多核和外部存储器算法对非常大的文件进行排序.
 * [failsafe](https://github.com/jhalterman/failsafe) - 用于处理故障的轻量级零依赖库.

@@ -30,7 +30,7 @@
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/)：Frank Lantz（纽约大学游戏中心）
 - [2014] [Interpreting Feedback and Maintaining Your Vision](http://www.gdcvault.com/play/1020495/)：Andy Nguyen（Pocketwatch Games）
 - [2014] [Why Is Gone Home a Game?](http://www.gdcvault.com/play/1020376/)：Steve Gaynor（The Fullbright Company）
-- [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/)布伦达·罗梅罗（加州大学圣克鲁斯分校）
+- [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/)布伦达罗梅罗（加州大学圣克鲁兹分校）
 - [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410)：詹姆斯克劳福德（Twinbeard Studios）
 - [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://www.gdcvault.com/play/1020583/)：大卫罗森（Wolfire Games）
 -  [2014，欧洲] [Super Time Force: Solving the Time Travel Paradox](http://gdcvault.com/play/1020766/)：Kenneth Yeung（Capy Games）
@@ -70,13 +70,13 @@
 -  [2015，TED][Physical Therapy Is Boring — Play A Game Instead](http://www.ted.com/talks/cosmin_mihaiu_physical_therapy_is_boring_play_a_game_instead)：Cosmin Mihaiu
 -  [2015，TEDxTokyo] [Play This Game To Come Up With Original ideas](http://www.ted.com/talks/shimpei_takahashi_play_this_game_to_come_up_with_original_ideas)：Shimpei Takahashi 
 -  [2013，TEDGlobal] [Massively Multi-Player… Thumb-Wrestling?](http://www.ted.com/talks/jane_mcgonigal_massively_multi_player_thumb_wrestling)：Jane McGonigal（未来研究所） 
--  [2012 TEDGlobal] [The Game That Can Give You 10 Extra Years Of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en)：Jane McGonigal 
+-  [2012，TEDGlobal] [The Game That Can Give You 10 Extra Years Of Life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life?language=en)：Jane McGonigal 
 -  [2012，TEDxCHUV] [Your Brain On Video Games](http://www.ted.com/talks/daphne_bavelier_your_brain_on_video_games)：Daphne Bavelier（日内瓦大学） 
 -  [2012，TEDxPhoenix] [Gaming For Understanding](http://www.ted.com/talks/brenda_brathwaite_gaming_for_understanding)：布兰达罗梅罗（Loot Drop） 
 -  [2011，TEDxKids @ Brussels] [How Games Make Kids Smarter: ](http://www.ted.com/talks/gabe_zichermann_how_games_make_kids_smarter)Gabe Zichermann（作者） 
--  [2010 TEDGlobal] [7 Ways Games Reward The Brain](http://www.ted.com/talks/tom_chatfield_7_ways_games_reward_the_brain)：汤姆查特菲尔德  
+-  [2010，TEDGlobal] [7 Ways Games Reward The Brain](http://www.ted.com/talks/tom_chatfield_7_ways_games_reward_the_brain)：汤姆查特菲尔德  
 -  [2010，TEDxBoston] [The Game Layer On Top Of The World](http://www.ted.com/talks/seth_priebatsch_the_game_layer_on_top_of_the_world)：Seth Priebatsch  
--  [2010 TEDGlobal] [Meet Milo, The Virtual Boy](http://www.ted.com/talks/peter_molyneux_demos_milo_the_virtual_boy)：Peter Molyneux  
+-  [2010，TEDGlobal] [Meet Milo, The Virtual Boy](http://www.ted.com/talks/peter_molyneux_demos_milo_the_virtual_boy)：Peter Molyneux  
 -  [2010，TED] [Gaming Can Make A Better World](http://www.ted.com/talks/jane_mcgonigal_gaming_can_make_a_better_world?language=en)：Jane McGonigal（未来研究所） 
 -  [2009，EG] [The Art of Puzzles](http://www.ted.com/talks/scott_kim_takes_apart_the_art_of_puzzles) Scott Kim（发现杂志） 
 -  [2009，严肃游戏] [Play is More than Just Fun](http://www.ted.com/talks/stuart_brown_says_play_is_more_than_fun_it_s_vital)：Stuart Brown（国家戏剧学院） 
@@ -126,7 +126,7 @@
 ## Conferences
 
 -  [2014，DICE Europe] [2014 D.I.C.E Europe](https://www.youtube.com/playlist?list=PLLx_Nt-I7ViqrulUPyfVQQf1xiu7Fj0b1) 
--  [2014 DICE] [2014 D.I.C.E. Summit](https://www.youtube.com/playlist?list=PLLx_Nt-I7Vio9PferYNMlxZoMjD_Yzk3d) 
+-  [2014，SAYS] [2014 D.I.C.E. Summit](https://www.youtube.com/playlist?list=PLLx_Nt-I7Vio9PferYNMlxZoMjD_Yzk3d) 
 -  [2014年，Steam Dev Days] [Steam Dev Days](https://www.youtube.com/playlist?list=PLckFgM6dUP2hc4iy-IdKFtqR9TeZWMPjm) 
 -  [2014年，未知世界的死后事件] [Game Development Micro-Talks](https://www.youtube.com/playlist?list=PLWuf3ThLEyAgy-V9EtFo_LA-96_lrGTKf) 
 -  [2014眼连接] [Oculus Connect: Developer Sessions](https://www.youtube.com/playlist?list=PLL2xVXGs1SP5CVE6X3GMSroO2cfHxzeCz) 

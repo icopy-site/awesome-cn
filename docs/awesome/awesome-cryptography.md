@@ -280,7 +280,7 @@ algorithm.
 - [bcrypt](https://github.com/pyca/bcrypt) - 为您的软件和服务器提供现代密码哈希.
 - [charm](https://github.com/JHUISI/charm) - 快速原型化密码系统的框架.
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - 用于数字签名的量子抗性非对称密钥生成工具.
-- [cryptography](https://cryptography.io/en/latest/) -  Python库，用于公开加密配方和基元.
+- [cryptography](https://cryptography.io/en/latest/) -  Python库，它公开了加密配方和基元.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - 加密算法和应用程序的纯python实现.
 - [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
 - [paramiko](http://www.paramiko.org/) -  SSHv2协议的Python实现，提供客户端和服务器功能.
