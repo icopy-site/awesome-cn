@@ -61,7 +61,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[Galaxy](https://usegalaxy.org/)_ _  - 一个流行的开源，基于Web的数据密集型生物医学研究平台.  具有多种功能，从数据分析到工作流管理再到可视化工具.
 * __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__  - 与GATK本身一起工作的流水线系统以及其他高通量序列分析软件.
 * __[Nextflow](https://www.nextflow.io)__  - 以UNIX管道概念为模型的流畅DSL，简化了以可移植方式编写并行和可扩展管道的过程.
-* __[R-Peridot](http://www.bioinformatics-brazil.org/r-peridot/)__  - 使用直观的GUI进行差异表达式分析的可定制管道.
+* __[R-Peridot](http://www.bioinformatics-brazil.org/r-peridot/)__  - 使用直观的GUI实现差异表达式分析的可自定义管道.
 * __[Ruffus](http://www.ruffus.org.uk)__  - 用于科学和生物信息学的python的计算管道库.
 * __[SeqWare](https://seqware.github.io/)__  - 基于Hadoop Oozie的工作流系统专注于云环境中的基因组数据分析.
 * __[Snakemake](https://bitbucket.org/snakemake/snakemake/wiki/Home)__  -  Python中的工作流管理系统，旨在通过提供快速，舒适的执行环境来降低创建工作流的复杂性.

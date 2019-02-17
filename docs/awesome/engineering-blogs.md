@@ -508,7 +508,7 @@
 *每日JS https://medium.com/dailyjs
 *每日技术视频http://dailytechvideo.com/
 * Dan Luu https://danluu.com/
-*丹尼尔Doubrovkine（分贝）.Http://code.dblock.org/
+* Daniel Doubrovkin（分贝）.http：//code.dblock.org/
 * Daniel Schmidt https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
 * Dave Beazley http://www.dabeaz.com/blog.html

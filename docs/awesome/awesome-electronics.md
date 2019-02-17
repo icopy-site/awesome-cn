@@ -126,7 +126,7 @@
 ## Podcasts
  - [The Amp Hour](https://theamphour.com/) - 与Chris Gammel和Dave Jones（EEVBlog）进行关于电子产品的袖口聊天，经常与客人聊聊
  - [Embedded FM](https://www.embedded.fm/) -  Christopher和Elecia White讨论嵌入式系统开发等等，经常与客人讨论.
- - [Sparkgap Podcast](http://thesparkgap.net) - 每一集都包含一个特定的EE主题，有时还会与访客联系.
+ - [Sparkgap Podcast](http://thesparkgap.net) - 每一集都包含一个特定的EE主题，有时还有客人.
  - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，来自MacroFab的Parker和Stephen讨论EE主题和行业新闻
  - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - 涵盖从机械到电气的一般工程主题.
 
@@ -151,7 +151,7 @@
 
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 来自中国的廉价电子产品清单，您可以在项目中使用
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 您可以在项目中使用的中国廉价电子产品清单
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - 更全面的所有可用软件工具列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - 另一个GitHub列表：电子爱好者和硬件黑客的资源
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - 令人敬畏的FPGA资源列表

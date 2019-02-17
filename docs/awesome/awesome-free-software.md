@@ -150,7 +150,7 @@
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)   - 安全，高效，可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/)   - 针对速度关键环境进行了优化，同时保持标准兼容，安全和灵活.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/)   - 针对速度关键环境进行了优化，同时保持符合标准，安全和灵活.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)   -  HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware

@@ -80,7 +80,7 @@
 - [diaspora*](https://diasp.org/)   - 供稿，喜欢，个人资料和标签;  您可以控制自己的数据.
 - [GNUsocial.no](https://gnusocial.no)   - 允许用户相互连接和共享;  费用由捐款承担.
 - [Libranet](https://libranet.de/) - 热门网站运行friendica，一个联合的Facebook风格的社交网络.
-- [Lobsters](https://lobste.rs/) - 简单的链接聚合站点，提供downvote所需的解释.
+- [Lobsters](https://lobste.rs/) - 简单的链接聚合站点，包含downvote所需的解释.
 - [Manyverse](https://www.manyver.se/) - 关闭网格社交网络.
 - [Mastodon](https://mastodon.social) - 与Twitter类似的分散式微博平台.
 - [PixelFed](https://pixelfed.social/) - 基本上没有广告，跟踪器或修改时间表的Instagram.

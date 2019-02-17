@@ -737,7 +737,7 @@
 [repo-backbonejs-note]：https：//github.com/the5fire/backbonejs-learning-note
 [repo-adcct]：https：//github.com/forhappy/Cplusplus-Concurrency-In-Practice
 [site-7days-node]：http：//nqdeng.github.io/7-days-nodejs/
-[回购7天节点]：https://github.com/nqdeng/7-days-nodejs
+[repo-7days-node]：https：//github.com/nqdeng/7-days-nodejs
 [回购内建web应用程序-golang]：https://github.com/astaxie/build-web-application-with-golang
 [site-jstutorial]：http：//javascript.ruanyifeng.com
 [repo-jstutorial]：https：//github.com/ruanyf/jstutorial/
@@ -748,7 +748,7 @@
 ## Japanese
 
 * [Android开发培训课程] [repo-and-training]（[网站] [网站和培训]，Apache 2.0） - 用于Android应用开发的培训课程存储库
-* [Hatena的教科书] [回购Hatena的书（CC-NC-SA） -  Hatena的课本训练
+* [Hatena教科书] [repo-hatena-book]（cc-nc-sa） -  Hatena培训教材
 
 [repo-hatena-book]：https：//github.com/hatena/Hatena-Textbook
 [repo-and-training]：https：//github.com/mixi-inc/AndroidTraining

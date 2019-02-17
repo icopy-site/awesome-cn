@@ -58,7 +58,7 @@
 
 #### Miscellaneous
 - [alfred-pokedex](https://github.com/vutran/alfred-pokedex) -  Alfred 3工作流程，用于查找有关神奇宝贝的信息.
-- [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - 为您的Hyper终端提供精美的，量身定制的神奇宝贝主题.
+- [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - 为您的超级终端提供精彩的，量身定制的神奇宝贝主题.
 - [Pokemon-Go-Controller](https://github.com/kahopoon/Pokemon-Go-Controller) - 安全地或在不可用区域玩神奇宝贝GO.
 - [pokecrystal](https://github.com/pret/pokecrystal) - 拆卸神奇宝贝水晶.
 - [x-pokemon](https://github.com/passy/x-pokemon) - 一个显示神奇宝贝的网络组件.

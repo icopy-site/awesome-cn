@@ -3,7 +3,7 @@
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
 
-以下是所有令人敬畏的项目，应用程序，研究，教程，课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供了许多监督和无监督的机器学习算法，如广义线性模型，梯度推进的机器（包括XGBoost），随机森林，深层神经网络（深学习），堆积合奏，朴素贝叶斯，Cox比例风险，K-手段并行实现，PCA，Word2Vec，以及全自动机器学习算法（AutoML）.
+以下是所有令人敬畏的项目，应用程序，研究，教程，课程和书籍的精选列表 [H2O](https://github.com/h2oai/h2o-3) ，一个开源的分布式机器学习平台.  H2O提供许多有监督和无监督机器学习算法的并行实现，例如广义线性模型，梯度增强机器（包括XGBoost），随机森林，深度神经网络（深度学习），堆积集合，朴素贝叶斯，Cox比例风险，K均值，PCA，Word2Vec，以及全自动机器学习算法（AutoML）.
 
 [H2O.ai](http://www.h2o.ai/about/) 产生很多 [tutorials](https://github.com/h2oai/h2o-tutorials), [blog posts](http://blog.h2o.ai/), [presentations](https://github.com/h2oai/h2o-meetups) 和 [videos](https://www.youtube.com/user/0xdata) 关于H2O，但下面的列表由更大的H2O用户社区产生的令人敬畏的内容组成.
 
@@ -16,6 +16,7 @@
 - [Anomaly Detection With Isolation Forests Using H2O](https://dzone.com/articles/anomaly-detection-with-isolation-forests-using-h2o-1) 2018年12月3日
 - [Predicting residential property prices in Bratislava using recipes - H2O Machine learning](https://www.michal-kapusta.com/post/2018-11-02-predicting-residential-property-prices-in-bratislava-using-recipes-h2o-machine-learning-part-ii/) 2018年11月25日
 - [Inspecting Decision Trees in H2O](https://dzone.com/articles/inspecting-decision-trees-in-h2o) 2018年11月7日
+- [Gentle Introduction to AutoML from H2O.ai](https://medium.com/analytics-vidhya/gentle-introduction-to-automl-from-h2o-ai-a42b393b4ba2) 2018年9月13日
 - [Machine Learning With H2O — Hands-On Guide for Data Scientists](https://dzone.com/articles/machine-learning-with-h2o-hands-on-guide-for-data) Jun 27, 2018
 - [Using machine learning with LIME to understand employee churn](http://www.business-science.io/business/2018/06/25/lime-local-feature-interpretation.html) 2018年6月25日
 - [Analytics at Scale: h2o, Apache Spark and R on AWS EMR](https://redoakstrategic.com/h2oaws/) 2018年6月21日

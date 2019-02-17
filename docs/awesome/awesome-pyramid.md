@@ -315,7 +315,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
   提供了一个简单的框架来集成代码与模板和资源.
 * [waitress](https://github.com/Pylons/waitress) - 女服务员应该是一个
   生产质量纯的Python WSGI服务器，具有非常可接受的性能.
-  它除了存在于Python标准库中的依赖之外没有依赖关系.
+  它除了存在于Python标准库中的依赖项之外没有依赖项.
 * [pyramid_handlers](https://github.com/Pylons/pyramid_handlers) - 类似
   金字塔的挂架式“控制器”.
 * [pyramid_rpc](https://github.com/Pylons/pyramid_rpc) -  RPC服务加载项

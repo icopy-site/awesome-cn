@@ -106,7 +106,7 @@
 *一般Lua库在gamedev中有用，但不是Gideros特有的*
 
 - [lume](https://github.com/rxi/lume) - 丰富的功能集合，可用于游戏开发.
-- [inspect](https://github.com/kikito/inspect.lua) - 以可读的方式将表格轻松漂亮地打印到控制台.
+- [inspect](https://github.com/kikito/inspect.lua) - 以可读的方式轻松漂亮地将表格打印到控制台.
 - [jumper](http://yonaba.github.io/Jumper/) -  Lua的超快速网格寻路.
 - [bump](https://github.com/kikito/bump.lua) - 使用轴对齐边界框进行碰撞检测的简单，灵活和快速库.
 - [Bresenham](https://github.com/rm-code/Bresenham) -  Bresenham的线算法，在Lua中实现.

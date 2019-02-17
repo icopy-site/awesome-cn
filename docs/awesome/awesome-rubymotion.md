@@ -193,7 +193,7 @@
 
 #### Input
 * [MIMInputToolbar](https://github.com/FluffyJack/MIMInputToolbar) - 输入UITextFields和UITextViews的附件视图.
-* [Motion-Wiretap](https://github.com/colinta/motion-wiretap)   - 用于KVO的包装，手势，UIControl事件和触发器.  好的，它在RubyMotion中几乎是ReactiveCocoa.
+* [Motion-Wiretap](https://github.com/colinta/motion-wiretap)   - 用于KVO的包装，手势，UIControl事件和触发器.  好的，在RubyMotion中它几乎是ReactiveCocoa.
 
 
 #### iOS

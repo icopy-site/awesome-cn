@@ -28,7 +28,7 @@ Awesome-Kubernetes
 
 ## What is Kubernetes? :ship:
 
-> Kubernetes is an open-source system for automating deployment, scaling, and management of containerized applications.
+&gt; Kubernetes是一个开源系统，用于自动化容器化应用程序的部署，扩展和管理.
 它将构成应用程序的容器分组为逻辑单元，以便于管理和发现.
 
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
@@ -51,7 +51,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
 ## Roadmap
 
-很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
+The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015软件包发布.查看发布专栏了解更多信息.
 
 -----------------------------------------------------------------------
@@ -60,8 +60,6 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 Menu
 =======================================================================
 
-* [Books](#books) ：图书：
-* [Videos](#videos) ：电视：
 
 
 -----------------------------------------------------------------------
@@ -313,7 +311,7 @@ Installers
 互动学习环境
 =======================================================================
 
-*使用交互式环境学习Kubernetes，无需下载或配置*
+*Learn Kubernetes using an interactive environment without requiring downloads or configuration*
 
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
@@ -515,6 +513,7 @@ Projects
 * [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
 * [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
+* [Buildkite](https://github.com/buildkite/charts) - 精益CI / CD云托管控制平面与您的基础架构上的代理.
 
 ## Serverless Implementations
 
@@ -796,7 +795,7 @@ Projects
 覆盆子皮
 =======================================================================
 
-*Some of the awesome findings and experiments on using Kubernetes with Raspberry Pi.*
+*使用Kubernetes和Raspberry Pi的一些令人敬畏的发现和实验.*
 * 查看 [Kubecloud](http://kubecloud.io)
 * [Setting up a Kubernetes on ARM cluster](http://kubecloud.io/kubernetes-on-arm-cluster/)
 * [Setup Kubernetes on a Raspberry Pi Cluster easily the official way!](https://blog.hypriot.com/post/setup-kubernetes-raspberry-pi-cluster/) 通过 [Mathias Renner and Lucas Käldström](https://blog.hypriot.com/crew/)

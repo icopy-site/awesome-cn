@@ -245,7 +245,7 @@ AngularJS Pack： [Get Started](https://developer.salesforce.com/mobile/getting-
 
 
 ## Troubleshooting and queries
- * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  ：丰富多样的电路板可用于讨论几乎任何有关平台的内容.  找到正确的板[这里].
+ * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  ：丰富多样的电路板可供讨论几乎所有关于平台的内容.  找到正确的板[这里].
  * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce)：使用正确的标签（如apex，visualforce和salesforce）发布您的问题，以获得快速响应.
  * [StackExchange](http://salesforce.stackexchange.com/) ：Salesforce Stack Exchange是Salesforce管理员，实施专家，开发人员和中间任何人的问答网站.  它是100％免费的，无需注册.

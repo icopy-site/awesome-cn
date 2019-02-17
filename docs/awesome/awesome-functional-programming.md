@@ -5,7 +5,7 @@
 
 ## What is this about?
 
-在过去的十年中，函数式编程由于它已经获得了新的发现
+在过去的十年中，函数式编程因其具有新的功能而获得了新的功能
 有些人会说，声明性特征对并行计算非常有效
 并用于整个用途 [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
 

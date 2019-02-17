@@ -44,7 +44,6 @@
   1. [30 Tips for Successful Communication as a Remote Worker](http://www.hanselman.com/blog/30TipsForSuccessfulCommunicationAsARemoteWorker.aspx)
   1. [Acceptance of Telecommuting Project Management Grows](http://www.amanet.org/training/articles/Acceptance-of-Telecommuting-Project-Management-Grows.aspx?pcode=XCRP)
   1. [Andreessen-Incubated Teleport Aims To Make Location Irrelevant For Mobile Workers](https://techcrunch.com/2014/05/19/teleport/)
-  1. [Becoming a contractor programmer in the UK](https://github.com/tadast/switching-to-contracting-uk/tree/formationsfactory)
   1. [Bosses without borders: Essential tools for managing remote workers](http://www.pcworld.com/article/2045737/bosses-without-borders-essential-tools-for-managing-remote-workers.html)
   1. [Communication for Distributed Teams](https://www.lullabot.com/articles/communication-for-distributed-teams)
   1. [Datadog Engineering: 9 ways to make working remote work for you](http://engineering.datadoghq.com/9-ways-to-make-working-remote-work-for-you/)
@@ -94,7 +93,7 @@
   1. [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
   1. [What is a Distributed Company?](https://www.lullabot.com/articles/what-is-a-distributed-company)
   1. [Who Needs an Office? How to Go 100 Percent Remote.](https://www.entrepreneur.com/article/242708)
-  1. [Why I work remotely ( hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc?gi=39b26e8f40a1)
+  1. [Why I work remotely (hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity/)
   1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
   1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
   1. [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
@@ -167,7 +166,6 @@
   1. [remote-jobs](https://github.com/jessicard/remote-jobs) - 技术方面的半远程到完全偏远友好公司列表
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
-  1. [RemoteList](https://remotelist.io/) - Has great job category filters
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
@@ -198,7 +196,6 @@
 ## Housing
   1. [Agora space](http://www.agora-space.com) - 在中国上海的联合和收集空间
   1. [bedndesk](http://www.bedndesk.com) -  Coworking＆coliving空间在西班牙马略卡岛
-  1. [Blackbox](http://blackbox.vc) - 在硅谷收集空间
   1. [Common](https://www.hicommon.com/) - 在纽约的殖民地
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - 在西班牙特内里费岛的coliving＆coworking空间
   1. [Hive Arena](http://hivearena.com/) - 韩国首尔的接待和合作空间
@@ -220,7 +217,7 @@
 ## Relocation Incentives
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)   - 从您的州所得税中扣除每年学生贷款支出的金额.  州外居民必须在2015年之后获得学士学位或副学士学位才能获得资格.
   1. [Tulsa Remote](https://tulsaremote.com/) - 从塔尔萨获得10,000美元现金.
-  1. [Vermont Remote Worker Grant Program](https://legislature.vermont.gov/assets/Documents/2018/Docs/BILLS/S-0094/S-0094%20As%20Passed%20by%20Both%20House%20and%20Senate%20Unofficial.pdf)   - 每年最多可获得5,000美元的佛蒙特州工作.  每个人的计划有效期不得超过10,000美元.
+  1. [Vermont Remote Worker Grant Program](https://www.thinkvermont.com/relocate/)   - 每年最多可获得5,000美元的佛蒙特州工作.  每个人的计划有效期不得超过10,000美元.
 
 ## Interviewing
   1. [andreis/interview](https://github.com/andreis/interview) - 您在编码面试中所需的一切
@@ -240,8 +237,7 @@
   1. [Remote Jobs Direct](https://remotejobsdirect.com/) - 每周通讯，涵盖各种远程工作和相关新闻.
   1. [Remote Report](http://remote.report) - 每周提供的最佳远程，支持为重点和非技术性工作的集合
   1. [Remoteur](http://www.remoteur.com) - 欧洲的远程工作每两周发送到您的收件箱
-  1. [Remotive - productive remote workers](http://remotive.io/) - 每周向10,000多名远程工作人员发送关于远程提示和工作的简报
-  1. [Working Nomads](http://workingnomads.co/) - 职位
+  1. [Remotive - productive remote workers](http://remotive.io/) - 向10,000多名远程工作人员发送关于远程提示和工作的每周简报
   1. [Yonder Newsletter](https://yonder.io/newsletter) - 每日远程工作提示，链接，文章和Yonder播客
   1. [Remote Jobs Club](https://remotejobsclub.com) - 每周时事通讯，提供手工策划的远程工作清单
 
@@ -300,7 +296,7 @@
   1. [CRO Metrics](http://crometrics.com/jobs/) - 数据驱动的过期和增长计划.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java，.Net和DevOps职位.
   1. [Datadog](https://www.datadoghq.com/careers/)   - 易于使用和可扩展的监控系统，适用于现代和动态基础设施.  分布式团队在纽约，波士顿和巴黎设有办事处.  工程师遍布全球.
-  1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
+  1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
   1. [Deeson](https://www.deeson.co.uk/careers)   - 英国与欧洲团队合作.  数字代理商，专门从事Drupal，Symfony和Laravel
   1. [Demio](https://demio.com/inside/) - 正常运作的网络研讨会平台.
   1. [DigitalOcean](https://www.digitalocean.com/careers/) - 简单的云托管，专为开发人员而设计
@@ -316,7 +312,7 @@
   1. [Envato](https://envato.com/careers)   -  ThemeForest和其他在线市场的制造商.  MySQL，Ruby，Rails，Javascript.  总部位于澳大利亚墨尔本的分布式团队.
   1. [Etsy](https://www.etsy.com/careers)   - 艺术家市场.  MySQL，Memcache，PHP.  在都柏林，巴黎，旧金山，纽约，伦敦和墨尔本的办事处.
   1. [Eyeo](https://eyeo.com/en/jobs/)   -  AdBlock Plus制造商.  总部设在德国科隆.
-  1. [Findify](https://findify.io/careers/)   - 电子商务搜索由机器学习和大数据提供支持.  团队分布在整个欧洲.
+  1. [Findify](https://findify.io/)   - 电子商务搜索由机器学习和大数据提供支持.  团队分布在整个欧洲.
   1. [Fog Creek](http://www.fogcreek.com/careers/)   - 总部位于纽约的软件公司.  错误跟踪和源代码控制工具的制造商.  工作日必须重叠纽约下午（格林尼治标准时间1700  -  2200）
   1. [General Assembly](https://generalassemb.ly/careers) - 技术，商业和设计的物理和在线教育.
   1. [Ghost](https://ghost.org/about/#careers) - 出版平台.
@@ -406,7 +402,7 @@
   1. [Sangoma](http://www.sangoma.com)   - 在现场和基于云的情况下提供全球可扩展的IP语音电话系统的可靠领导者.  C，PHP，Python，JavaScript，Linux，FreePBX，VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
   1. [ServiceNow](http://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote)   - 企业云计算，以提高服务水平，激励员工，并改变企业的运作方式.  在光速下工作.
-  1. [ShakaCode](http://www.shakacode.com/about/index.html#work-with-us) - 全球网络开发软件咨询和产品公司.
+  1. [ShakaCode](http://www.shakacode.com/about/index.html#work-with-us) - A global web development software consultancy and product company.
   1. [Signal](https://www.signal.org/workworkwork/) - 这些人做得很棒 [Signal app](https://www.signal.org) .  仅限美国.
   1. [Simple](https://www.simple.com/careers)
   1. [Skyscrapers](http://skyscrapers.eu/jobs/)   - 云托管服务和管理.  与多个云提供商合作（AWS，Digital Ocean，Linode，...）.  100％遥控.
@@ -448,7 +444,7 @@
   1. [X-Team](https://x-team.com/join/)   - 与非凡的开发人员一起开展令人难以置信的网络和移动项目.  释放你的潜力.  从任何地方.  我们是X-Team.
   1. [You Need a Budget](https://www.youneedabudget.com/jobs/) - 银行同步，目标和债务管理.
   1. [YourSports](https://www.yoursports.com/jobs) - 您最喜欢的球队的社交网络.
-  1. [Zamphyr](https://zamphyr.com/posao/)   - 学习计算机科学的学校2.0.  远程优先，100％JavaScript主要是Meteor.
+  1. [Zamphyr](https://zamphyr.com/)   - 学习计算机科学的学校2.0.  远程优先，100％JavaScript主要是Meteor.
   1. [Zapier](https://zapier.com/about/)
   1. [ZipRecruiter](https://www.ziprecruiter.com/careers) -  Perl / Catalyst商店，拥有一些最好的Perl开发人员远程工作.
 

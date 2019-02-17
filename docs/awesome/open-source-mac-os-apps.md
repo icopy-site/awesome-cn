@@ -141,7 +141,7 @@
 #### Other Development
 - [ChefInspector](https://raw.githubusercontent.com/Yasumoto/ChefInspector)   -  Chef的节点和属性查看器！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/Yasumoto/ChefInspector/master/screenshot.png' width="400"/>  </p></details> 
 - [macho-browser](https://github.com/dcsch/macho-browser)   -  macOS Mach-O二进制文件的浏览器.  ！[objective_c_icon] 
-- [vegvisir](https://raw.githubusercontent.com/ant4g0nist/vegvisir) - Browser based GUI for **LLDB** Debugger.  ![javascript_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  </p></details> 
+- [vegvisir](https://raw.githubusercontent.com/ant4g0nist/vegvisir)   - 用于** LLDB **调试器的基于浏览器的GUI.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/sections.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/blank.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/auto_suggest.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/help.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/strings.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/target_create.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/ant4g0nist/vegvisir/master/Screenshots/funcs_imported.png' width="400"/>  </p></details> 
 
 #### Web Development
 - [CoreOS VM](https://raw.githubusercontent.com/TheNewNormal/coreos-osx)   -  CoreOS VM是macOS状态栏应用程序，可以轻松控制Mac上的CoreOS VM.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/TheNewNormal/coreos-osx/master/coreos-osx.png' width="400"/>  </p></details> 
@@ -278,6 +278,7 @@
 - [Crunch](https://github.com/chrissimpkins/Crunch)   - 疯狂（慢慢但邪恶的好）PNG图像优化.  ！[python_icon] 
 - [Freehand](https://raw.githubusercontent.com/wddwycc/Freehand)   - 用于快速草图的macOS状态栏应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/wddwycc/Freehand/master/_images/demo.png' width="400"/>  </p></details> 
 - [Gimp](https://github.com/GNOME/gimp)   -  Gimp是GNU Image Manipulation Program.  ！[c_icon] 
+- [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  ！[swift_icon] 
 - [ImageAlpha](https://raw.githubusercontent.com/kornelski/ImageAlpha)   - 用于pngquant，pngnq和posterizer的Mac GUI.  ！[objective_c_icon]！[python_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://pngmini.com/screenshot-1.3.png' width="400"/>  </p></details> 
 - [Imagine](https://github.com/meowtec/Imagine)   -  Imagine是一款用于压缩PNG和JPEG的桌面应用程序，具有现代友好的UI.  ！[type_script_icon] 
 - [Katana](https://github.com/bluegill/katana)   -  Katana是一个简单的macOS截图工具，位于您的菜单栏中.  ！[javascript_icon]！[css_icon] 
@@ -318,7 +319,7 @@
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons)   - 小菜单栏实用程序，可让您使用第三方鼠标的侧面按钮在各种应用程序中导航.  ！[objective_c_icon]！[c_icon] 
 - [Shifty](https://raw.githubusercontent.com/thompsonate/Shifty)   -  macOS菜单栏应用程序，让您更好地控制夜班.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/thompsonate/Shifty/master/docs/en/images/prefs-general-screenshot-shadow.png' width="400"/>  </p></details> 
 - [gSwitch](https://github.com/CodySchrank/gSwitch)   -  macOS状态栏应用程序，允许控制双gpu macbooks上的GPU.  ！[swift_icon] 
-- [iGlance](https://github.com/Moneypulation/iGlance)   - 状态栏的macOS系统监视器（CPU，内存，网络，风扇和电池）.  ！[swift_icon] 
+- [iGlance](https://github.com/iglance/iGlance)   - 状态栏的macOS系统监视器（CPU，内存，网络，风扇和电池）.  ！[swift_icon] 
 
 ### Music
 - [Carol](https://github.com/AnaghSharma/Carol)   - 一个最小和美丽的歌词应用程序，保留在macOS的菜单栏中.  ！[c_sharp_icon] 
@@ -388,7 +389,7 @@
 - [KeyHolder](https://github.com/Clipy/KeyHolder)   - 在macOS中记录快捷方式，如Alfred.app.  ！[swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple)   - 适用于iOS和macOS的Kiwix，基于Swift构建.  ！[swift_icon] 
 - [Linked Ideas](https://raw.githubusercontent.com/fespinoza/LinkedIdeas) - macOS application to write down and connect ideas.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://i.imgur.com/uqb1x43.png' width="400"/>  </p></details> 
-- [Maccy](https://raw.githubusercontent.com/p0deje/Maccy)   - 轻量级搜索即用型剪贴板管理器.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://user-images.githubusercontent.com/665846/36135303-8c4f80ae-10b4-11e8-9940-978e228cb6bd.gif' width="400"/>  </p></details> 
+- [Maccy](https://raw.githubusercontent.com/p0deje/Maccy) - Lightweight search-as-you-type clipboard manager.  ![swift_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://user-images.githubusercontent.com/665846/36135303-8c4f80ae-10b4-11e8-9940-978e228cb6bd.gif' width="400"/>  </p></details> 
 - [Manta](https://github.com/hql287/Manta)   - 灵活的发票桌面应用程序，具有漂亮和可自定义的模板.  ！[javascript_icon] 
 - [PDF Archiver](https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver)   - 用于标记和归档任务的好工具.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/PDF-Archiver/PDF-Archiver/master/assets/example.gif' width="400"/>  </p></details> 
 - [Paperless Desktop](https://raw.githubusercontent.com/thomasbrueggemann/paperless-desktop)   - 使用无纸化API管理文档扫描的桌面应用程序.  ！[javascript_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/F5GNK4X.png' width="400"/>  <bt><img src='http://i.imgur.com/FrgAptE.png' width="400"/>  </p></details> 

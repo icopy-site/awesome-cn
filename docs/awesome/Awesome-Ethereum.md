@@ -42,7 +42,7 @@
 
 使用以太坊的分步指南.
 
-- [CryptoZombies](https://cryptozombies.io/) - 学习通过建立自己的游戏来编码以太坊DApps.
+- [CryptoZombies](https://cryptozombies.io/) - 学习通过构建自己的游戏来编码以太坊DApps.
 - [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - 使用Truffle，testrpc和Solidity在以太坊上建立智能合约.
 - [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - 智能合约教程，重点是在代码之前建立理解.
 - [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 关于如何编写DApps的10部分教程.
@@ -130,6 +130,11 @@
   - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) -  zk-SNARKS简介和智能合约的实施.
   - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) -  zk-SNARKS的技术说明.
   - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) -  zk-SNARKS的技术说明.
+  - [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - 使用zk-SNARKs的简短实用介绍.
+- 令牌绑定曲线（TBC） - 数学上合理的价格 - 供应关系曲线.
+  - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - 使用代码全面介绍TBC.
+  - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - 通过不可替代的代币和策展市场探索知识产权的普遍分配.
+  - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - 交互式绑定曲线webapp.
 
 
 ## Books
@@ -159,7 +164,7 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) first.
 灵感来自 [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License

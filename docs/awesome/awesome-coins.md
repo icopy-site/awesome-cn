@@ -197,7 +197,7 @@
 - &#39;Pascal&#39;（** PASC **）
 - `X11Gost`（SIBCOin / ** SIB **）
 - `Sia`（** SC **）
-- `Blake2`s（NevaCoin，Some Coin，Verge，TajCoin）
+- `Blake2`s（NevaCoin，一个硬币，那一刹，TajCoin）
 - “臭鼬”（Signatum Coin / ** SIGT **）
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)

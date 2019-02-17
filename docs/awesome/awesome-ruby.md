@@ -847,7 +847,7 @@
 * [Backburner](https://github.com/nesquena/backburner) -  Backburner是一个beanstalkd驱动的作业队列，可以处理大量的作业.
 * [Bunny](https://github.com/ruby-amqp/bunny) -  Bunny是RabbitMQ（3.3+）的流行，易于使用，维护良好的Ruby客户端.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - 数据库支持异步优先级队列.
-* [Gush](https://github.com/chaps-io/gush) - 仅使用Redis和Sidekiq的复杂工作流程的并行运行器.
+* [Gush](https://github.com/chaps-io/gush) - 仅使用Redis和Sidekiq的复杂工作流程的并行运行程序.
 * [Karafka](https://github.com/karafka/karafka) - 用于简化基于Ruby应用程序开发的Apache Kafka（分布式流平台）的框架.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - 用于RabbitMQ的惯用，快速且维护良好的JRuby客户端.
 * [Resque](https://github.com/resque/resque) -  Redis支持的Ruby库，用于创建后台作业.

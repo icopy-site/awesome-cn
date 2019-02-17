@@ -117,7 +117,6 @@ Rust代码和资源的精选列表.
 * [mmstick/systemd-manager](https://github.com/mmstick/systemd-manager) - 使用GTK-rs用Rust编写的systemd服务管理器.
 * [pop-os/debrep](https://github.com/pop-os/debrepbuild) - 用于构建和管理APT仓库的APT存储库工具
 * [pop-os/popsicle](https://github.com/pop-os/popsicle) -  GTK3和CLI实用程序，用于并行闪存多个USB设备
-* [pop-os/pop-recovery](https://github.com/pop-os/pop-recovery) — Utility for updating the recovery partition on a Pop!\_OS install.
 * [pop-os/system76-power](https://github.com/pop-os/system76-power/) - 使用CLI工具的Linux电源管理守护程序（DBus接口）.
 * [sharkdp/fd](https://github.com/sharkdp/fd) - 一种简单，快速且用户友好的替代品. [![Build Status](https://api.travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
 
@@ -257,7 +256,7 @@ Rust代码和资源的精选列表.
   * [sfackler/rust-jni-sys](https://raw.githubusercontent.com/sfackler/rust-jni-sys) [[jni-sys](https://crates.io/crates/jni-sys)]  - 与jni.h对应的Rust定义 [<img src="https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master">](https://travis-ci.org/sfackler/rust-jni-sys)
 * Lua
   * [jcmoyer/rust-lua53](https://raw.githubusercontent.com/jcmoyer/rust-lua53) -  Lua 5.3 Rust的绑定 [<img src="https://api.travis-ci.org/jcmoyer/rust-lua53.svg?branch=master">](https://travis-ci.org/jcmoyer/rust-lua53)
-  * [kballard/rust-lua](https://raw.githubusercontent.com/kballard/rust-lua) - 安全Rust绑定到Lua 5.1 [<img src="https://api.travis-ci.org/kballard/rust-lua.svg">](https://travis-ci.org/kballard/rust-lua)
+  * [kballard/rust-lua](https://raw.githubusercontent.com/lilyball/rust-lua) - 安全Rust绑定到Lua 5.1 [<img src="https://api.travis-ci.org/lilyball/rust-lua.svg">](https://travis-ci.org/lilyball/rust-lua)
   * [tickbh/td_rlua](https://raw.githubusercontent.com/tickbh/td_rlua) - 适用于Rust的零成本高级lua 5.3包装 [<img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master">](https://travis-ci.org/tickbh/td_rlua)
   * [tomaka/hlua](https://raw.githubusercontent.com/tomaka/hlua) - 与Lua接口的Rust库 [<img src="https://api.travis-ci.org/tomaka/hlua.svg?branch=master">](https://travis-ci.org/tomaka/hlua)
 * mruby
@@ -295,7 +294,7 @@ Rust代码和资源的精选列表.
     * [rust-mode](https://github.com/rust-lang/rust-mode) -  Rust Major Mode
     * [flycheck-rust](https://github.com/flycheck/flycheck-rust) -  Rust支持 [Flycheck](https://github.com/flycheck/flycheck)
     * [emacs-racer](https://github.com/racer-rust/emacs-racer) - 自动完成（另见 [company](https://company-mode.github.io) 和 [auto-complete](https://github.com/auto-complete/auto-complete))
-    * [lsp-rust](https://github.com/emacs-lsp/lsp-rust) - 添加rls支持 [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+    * [lsp-rust](https://github.com/emacs-lsp/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
   * [gitpod.io](https://gitpod.io) - 基于Rust语言服务器的完整Rust支持的在线IDE
   * [gnome-builder](https://wiki.gnome.org/Apps/Builder) 自版本3.22.2起，对生锈和货物的原生支持
   * [Kakoune](http://kakoune.org/)
@@ -437,7 +436,7 @@ Rust代码和资源的精选列表.
   * [TeXitoi/structopt](https://raw.githubusercontent.com/TeXitoi/structopt) [[structopt](https://crates.io/crates/structopt)]  - 通过定义结构来解析命令行参数 [<img src="https://api.travis-ci.org/TeXitoi/structopt.svg?branch=master">](https://travis-ci.org/TeXitoi/structopt)
   * [killercup/quicli](https://raw.githubusercontent.com/killercup/quicli) [[quicli](https://crates.io/crates/quicli)]  - 在Rust中快速构建很酷的CLI应用程序 [<img src="https://api.travis-ci.org/killercup/quicli.svg">](https://travis-ci.org/killercup/quicli)
 *以人为本的设计
-  * [rust-clique/human-panic](https://raw.githubusercontent.com/rust-clique/human-panic) [[human-panic](https://crates.io/crates/human-panic)]  - 人类的恐慌信息 [<img src="https://api.travis-ci.org/rust-clique/human-panic.svg">](https://travis-ci.org/rust-clique/human-panic)
+  * [rust-cli/human-panic](https://raw.githubusercontent.com/rust-cli/human-panic) [[human-panic](https://crates.io/crates/human-panic)]  - 人类的恐慌信息 [<img src="https://api.travis-ci.org/rust-cli/human-panic.svg">](https://travis-ci.org/rust-cli/human-panic)
 *行编辑器
   * [srijs/rust-copperline](https://github.com/srijs/rust-copperline) [[copperline](https://crates.io/crates/copperline)]  -  pure-Rust命令行编辑库
   * [MovingtoMars/liner](https://raw.githubusercontent.com/MovingtoMars/liner) [[liner](https://crates.io/crates/liner)]  - 提供类似readline功能的库 [<img src="https://api.travis-ci.org/MovingtoMars/liner.svg">](https://travis-ci.org/MovingtoMars/liner)
@@ -539,6 +538,8 @@ Rust代码和资源的精选列表.
 [[database](https://crates.io/keywords/database)]
 
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
+  * [ArangoDB](https://argangodb.com/)
+     * [Rincon](https://github.com/innoave/rincon) -  Rust的ArangoDB（NoSQL和Graph商店）驱动程序
   * [Cassandra](http://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://raw.githubusercontent.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)]  - 用Rust编写的本机客户端 [<img src="https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master">](https://travis-ci.org/AlexPikalov/cdrs)
     * [Metaswitch/cassandra-rs](https://raw.githubusercontent.com/Metaswitch/cassandra-rs) - 绑定到DataStax C / C ++客户端 [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
@@ -569,6 +570,8 @@ Rust代码和资源的精选列表.
     * [zitsen/unqlite.rs](https://raw.githubusercontent.com/zitsen/unqlite.rs) -  UnQLite绑定 [<img src="https://api.travis-ci.org/zitsen/unqlite.rs.svg?branch=master">](https://travis-ci.org/zitsen/unqlite.rs)
   * [ZooKeeper](https://zookeeper.apache.org/)
     * [bonifaido/rust-zookeeper](https://raw.githubusercontent.com/bonifaido/rust-zookeeper) [[zookeeper](https://crates.io/crates/zookeeper)]  -  Apache ZooKeeper的客户端库. [<img src="https://api.travis-ci.org/bonifaido/rust-zookeeper.svg?branch=master">](https://travis-ci.org/bonifaido/rust-zookeeper)
+  * [PickleDB](https://pythonhosted.org/pickleDB/)
+    * [seladb/pickledb-rs](https://raw.githubusercontent.com/seladb/pickledb-rs) - 一个轻量级和简单的键值存储，受Python的PickleDB的启发. [<img src="https://api.travis-ci.org/seladb/pickledb-rs.svg?branch=master">](https://travis-ci.org/seladb/pickledb-rs)
 * SQL [[sql](https://crates.io/keywords/sql)]
   * Microsoft SQL
     * [steffengy/tiberius](https://raw.githubusercontent.com/steffengy/tiberius) — [<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
@@ -783,10 +786,10 @@ Rust代码和资源的精选列表.
   * [dcampbell24/iup-rust](https://raw.githubusercontent.com/dcampbell24/iup-rust) -  IUP绑定 [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) - 基于IUP构建的简单UI框架 [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
 * [libui](https://github.com/andlabs/libui)
-  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) -  libui绑定 [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs) .  被遗弃的项目.  最新的分支是 [LeoTindall/libui-rs](https://raw.githubusercontent.com/LeoTindall/libui-rs).
+  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) -  libui绑定 [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs) .  被遗弃的项目.  最新的分支是 [NoraCodes/libui-rs](https://raw.githubusercontent.com/NoraCodes/libui-rs).
 * [Nuklear](https://github.com/vurtun/nuklear)
   * [nuklear-rust](https://raw.githubusercontent.com/snuk182/nuklear-rust) -  Nuklear的Rust绑定 [<img src="https://api.travis-ci.org/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
-* [Qt](http://doc.qt.io)
+* [Qt](https://doc.qt.io)
   * [cyndis/qmlrs](https://raw.githubusercontent.com/cyndis/qmlrs) -  QtQuick绑定 [<img src="https://api.travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
   * [kitech/qt.rs](https://raw.githubusercontent.com/kitech/qt.rs) -  Qt5绑定 [<img src="https://api.travis-ci.org/kitech/qt.rs.svg?branch=master">](https://travis-ci.org/kitech/qt.rs)
   * [Rust Qt Binding Generator](https://phabricator.kde.org/source/rust-qt-binding-generator/) - 由KDE托管的绑定生成器.
@@ -991,7 +994,7 @@ Rust代码和资源的精选列表.
 ### Peripherals
 
 * 串行端口
-  * [Susurrus/serialport-rs](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)]  - 提供对串行端口的访问的跨平台库
+  * [Susurrus/serialport-rs](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)] — A cross-platform library that provides access to a serial port
 
 ## Resources
 
@@ -1010,7 +1013,7 @@ Rust代码和资源的精选列表.
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - 一组简单的示例，演示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) - 一个视频系列 [Carol Nichols](https://github.com/carols10cents) 和 [Jake Goulding](https://github.com/shepmaster) （付费）
   * [rust-learning](https://github.com/ctjhoa/rust-learning) - 学习Rust的有用资源的集合
-  * [Rustlings](https://github.com/rustlings/rustlings) - 小练习让你习惯阅读和编写Rust代码
+  * [Rustlings](https://github.com/rust-lang/rustlings) - 小练习让你习惯阅读和编写Rust代码
   * [stdx](https://github.com/brson/stdx) - 首先学习这些板条箱作为标准的扩展
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
   * [Build a language VM](https://blog.subnetzero.io/post/building-language-vm-part-00/)

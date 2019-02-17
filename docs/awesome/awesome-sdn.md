@@ -134,7 +134,7 @@ SONiC
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r](https://github.com/jesnault/bgp4r)   -  BGP4R是一个ruby库，可以创建和操作BGP消息.  在BGP4R中，所有众所周知的BGP构造都在类中定义.
 - [gobgp](https://github.com/osrg/gobgp) -  GoBGP是一个开源的BGP实现，从头开始设计用于现代环境，并用现代编程语言Go编程语言实现.
-- [yabgp](https://github.com/smartbgp/yabgp)   -  YABGP是BGP协议的另一个Python实现.  它可用于与各种路由器（包括真实的Cisco / HuaWei / Juniper路由器和一些路由器模拟器，如GNS3）建立BGP连接，并接收/解析BGP消息以供将来分析.
+- [yabgp](https://github.com/smartbgp/yabgp)   -  YABGP是BGP协议的另一个Python实现.  它可以用来建立与各类路由器的BGP连接（包括实时思科/华为/ Juniper路由器和路由器的某些模拟器像GNS3）和接收/解析BGP消息，供日后分析.
 
 ## Misc
 

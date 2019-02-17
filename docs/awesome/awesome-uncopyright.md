@@ -55,7 +55,7 @@
 
 - [Cost of Freedom](http://costoffreedom.cc/) - 关于自由文化的梦想.
 - [LibriVox](https://librivox.org/) - 志愿者阅读的有声读物.
-- [Project Gutenberg](https://www.gutenberg.org/) - 数以千计的电子书版权已经以各种格式过期.
+- [Project Gutenberg](https://www.gutenberg.org/) - 成千上万的电子书版权已经以各种格式过期.
 - [Standard Ebooks](https://standardebooks.org/) - 数以百计的经典，精美的格式和排版.
 
 ## Essays

@@ -67,7 +67,7 @@
 * [Cool Mic](https://coolmic.net/) -  Android音频直播Icecast源客户端应用.
 * [DarkIce](http://www.darkice.org/) - 从音频接口（例如声卡）录制音频的实时音频流，对其进行编码并将其发送到流媒体服务器.
 * [Icecast](http://icecast.org/) - 支持Ogg（Vorbis和Theora），Opus，WebM和MP3流的流媒体（音频/视频）服务器.
-* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）的IP音频贡献.
+* [Kamailio](http://www.kamailio.org/) - 开放SIP服务器，通常用于使用SIP（EBU ACIP）的IP音频贡献.
 * [OpenOB](https://jamesharrison.github.io/openob/) - 基于Opus的无线电贡献链接和演播室 - 发射机链接的开放式外部广播项目.
 * [PJSIP](http://www.pjsip.org/)   - 开源多媒体库，实现SIP，SDP，RTP，STUN，TURN和ICE.  用于某些贡献设备（双重许可）.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - 用于从Linux广播实时音频的简单工具集.
