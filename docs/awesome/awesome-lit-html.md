@@ -101,6 +101,7 @@
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
 与lit-html创作者Justin Fagnani合作的一集.
+- [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -  Justin Fagnani作为嘉宾的另一集.
 
 ## Blogs
 

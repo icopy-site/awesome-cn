@@ -89,7 +89,7 @@
 
 #### Kubernetes
 - [kubernetes/examples](https://github.com/kubernetes/examples/tree/master/staging/selenium) - 在Kubernetes集群上部署Selenium Hub和节点的示例
-- [Moon](https://github.com/aerokube/moon) - 使用Kubernetes启动浏览器的商业闭源Selenium实施企业Selenium实现
+- [Moon](https://github.com/aerokube/moon) - 使用Kubernetes启动浏览器的商业闭源企业Selenium实现
 
 ### Driver
 
@@ -131,7 +131,7 @@
 
 ### Selenium Grid
 
-- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 一个框架，提供除基本Selenium Grid之外的其他功能，如视频录制.
 - [SeLion](https://github.com/paypal/SeLion) - 用于运行Selenium测试的（Java）框架，具有超出基本Selenium Grid功能的其他功能，尤其是稳定性改进等.
 - [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) -  Selenium Grid的一组扩展，提供其他功能，如远程运行Sikuli测试/自动化，在网格节点上上传/下载文件.
 
@@ -157,7 +157,7 @@
 
 ### Blogs
 
-- [Official Selenium Blog](https://seleniumhq.wordpress.com/) -  SeleniumHQ的官方博客.
+- [Official Selenium Blog](https://seleniumhq.wordpress.com/) - The official blog by SeleniumHQ.
 - [Elemental Selenium](http://elementalselenium.com/) - 关于如何像专业人士一样使用Selenium的免费每周一次的电子邮件.
 - [Assert Selenium](http://www.assertselenium.com/) -  Selenium Automation以正确的方式 - 仅限Selenium的博客.
 - [SauceLabs Blog](https://saucelabs.com/blog) - 由SauceLabs策划的博客
