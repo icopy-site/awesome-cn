@@ -1,559 +1,558 @@
 # Project Information
-site_name：很棒的列表 
-site_description：很棒的列表集合
+site_name: 超赞合集
+site_description: 超赞列表合集
 site_author: chenjiajia
-site_url：https：//icopy-site.github.io/asm-en/
+site_url: https://icopy-site.github.io/asm-cn/
 
 # Repository
-repo_name：&#39;icopy-site / asm-en&#39;
-repo_url：&#39;https://github.com/icopy-site/asm-en&#39;
-edit_uri：&#39;blob / master / docs /&#39;
+repo_name: 'icopy-site/asm-cn'
+repo_url: 'https://github.com/icopy-site/asm-cn'
+edit_uri: 'blob/master/docs/'
 
 # Copyright
-版权：&#39;版权所有©2016  -  2019&#39;
+copyright: 'Copyright &copy; 2016 - 2019'
 
 # Contents
 nav:
-  - 平台：
-    -  Node.js：awesome / awesome-nodejs.md
-    - 前端开发：awesome / frontend-dev-bookmarks.md
-    -  iOS：awesome / awesome-ios.md
-    -  Android：awesome / awesome-android.md
-    - 物联网和混合应用程序：awesome / awesome-IoT-hybrid.md
-    - 电子：awesome / awesome-electron.md
-    -  Cordova：awesome / awesome-cordova.md
-    -  React Native：awesome / awesome-react-native.md
-    -  Xamarin：awesome / awesome-xamarin.md
-    -  Linux：awesome / awesome-linux.md
-    - Linux_sub: 
-      - 容器：awesome / awesome-linux-containers.md
-    -  macOS：awesome / awesome-macOS.md
-    -  macOS_sub： 
-      - 命令行：awesome / awesome-macos-command-line.md
-      - 屏保：awesome / awesome-macos-screensavers.md
-      - 应用程序：awesome / awesome-mac.md
-      - 开源应用程序：awesome / open-source-mac-os-apps.md
-    -  watchOS：awesome / awesome-watchos.md
-    -  JVM：awesome / awesome-jvm.md
-    -  Salesforce：awesome / awesome-salesforce.md
-    - 亚马逊网络服务：awesome / awesome-aws.md
-    -  Windows：awesome / Awesome-Windows-awesome.md
-    -  IPFS：awesome / awesome-ipfs.md
-    - 保险丝：awesome / awesome-fuse.md
-    -  Heroku：awesome / awesome-heroku.md
-    -  Raspberry Pi：awesome / awesome-raspberry-pi.md
-    -  Qt：awesome / awesome-qt.md
-    -  WebExtensions：awesome / Awesome-WebExtensions.md
-    -  RubyMotion：awesome / awesome-rubymotion.md
-    - 智能电视：真棒/ awesome-smart-tv.md
-    -  GNOME：awesome / awesome-gnome.md
-    -  .NET：awesome / awesome-dotnet.md
-    -  .NET_sub： 
-      - 核心：awesome / awesome-dotnet-core.md
-    - 亚马逊Alexa：awesome / awesome-amazon-alexa.md
-    -  DigitalOcean：awesome / awesome-digitalocean.md
-    -  Flutter：awesome / awesome-flutter.md
-    - 家庭助理：awesome / awesome-home-assistant.md
-  - 编程语言：
-    -  JavaScript：awesome / awesome-javascript.md
-    -  JavaScript_sub： 
-      - 承诺：awesome / awesome-promises.md
-      - 标准风格：awesome / awesome-standard.md
-      - 必须观看会谈：awesome / js-must-watch.md
-      - 提示：awesome / jstips.md
-      - 网络层：awesome / awesome-network-js.md
-      - 微npm包：awesome / awesome-micro-npm-packages.md
-      -  Mad Science npm包：awesome / awesome-mad-science.md
-      - 维护模块：awesome / maintenance-modules.md
-      -  npm：awesome / awesome-npm.md
-      -  AVA：awesome / awesome-ava.md
-      -  ESLint：awesome / awesome-eslint.md
-      - 功能编程：awesome / awesome-fp-js.md
-      -  Observables：awesome / awesome-observables.md
-      -  npm脚本：awesome / awesome-npm-scripts.md
-    -  Swift：awesome / awesome-swift.md
-    -  Swift_sub： 
-      - 教育：awesome / Awesome-Swift-Education.md
-      - 游乐场：棒极了/很棒--Swift-Playgrounds.md
-    -  Python：awesome / awesome-python.md
-    -  Python_sub： 
-      -  Asyncio：awesome / awesome-asyncio.md
-      - 科学音频：awesome / awesome-python-scientific-audio.md
-      -  CircuitPython：awesome / awesome-circuitpython.md
-    -  Rust：awesome / awesome-rust.md
-    -  Haskell：awesome / awesome-haskell.md
-    -  PureScript：awesome / awesome-purescript.md
-    -  Go：awesome / awesome-go.md
-    -  Scala：awesome / awesome-scala.md
-    -  Ruby：awesome / awesome-ruby.md
-    -  Clojure：awesome / awesome-clojure.md
-    -  ClojureScript：awesome / awesome-clojurescript.md
-    -  Elixir：awesome / awesome-elixir.md
-    - 榆树：棒极了/ awesome-elm.md
-    -  Erlang：awesome / awesome-erlang.md
-    - 朱莉娅：太棒了/ Julia.jl.md
-    -  Lua：awesome / awesome-lua.md
-    -  C：awesome / awesome-c.md
-    -  C / C ++：awesome / awesome-cpp.md
-    -  R：awesome / awesome-R.md
-    -  D：awesome / awesome-d.md
-    -  Common Lisp：awesome / awesome-cl.md
-    -  Perl：awesome / awesome-perl.md
-    -  Groovy：awesome / awesome-groovy.md
-    -  Dart：awesome / awesome-dart.md
-    -  Java：awesome / awesome-java.md
-    -  Java_sub： 
-      -  RxJava：awesome / awesome-rxjava.md
-    -  Kotlin：awesome / awesome-kotlin.md
-    -  OCaml：awesome / awesome-ocaml.md
-    -  ColdFusion：awesome / awesome-coldfusion.md
-    -  Fortran：awesome / awesome-fortran.md
-    -  PHP：awesome / awesome-php.md
-    -  PHP_sub： 
-      - 作曲家：awesome / awesome-composer.md
-    -  Delphi：awesome / awesome-delphi.md
-    - 汇编程序：awesome / awesome-asm.md
-    -  AutoHotkey：awesome / awesome-AutoHotkey.md
-    -  AutoIt：awesome / awesome-AutoIt.md
-    -  Crystal：awesome / awesome-crystal.md
-    - 弗雷格：棒极了/ awesome-frege.md
-    -  CMake：awesome / awesome-cmake.md
-    -  ActionScript 3：awesome / awesome-actionscript3.md
-    - 并且：很棒/很棒 - 和.md
-    -  Idris：awesome / awesome-idris.md
-    -  Ada / SPARK：awesome / awesome-ada.md
-  - 前端开发：
-    -  ES6工具：awesome / es6-tools.md
-    -  Web性能优化：awesome / awesome-wpo.md
-    -  Web工具：awesome / tools.md
-    -  CSS：awesome / awesome-css.md
-    -  CSS_sub： 
-      - 关键路径工具：awesome / critical-path-css-tools.md
-      - 可扩展性：awesome / scalable-css-reading-list.md
-      -  Must-Watch Talks：awesome / must-watch-css.md
-      -  Protips：awesome / css-protips.md
-    -  React：awesome / awesome-react.md
-    -  React_sub： 
-      - 接力：awesome / awesome-relay.md
-    -  Web组件：awesome / webcomponents-the-right-way.md
-    - 聚合物：awesome / awesome-polymer.md
-    -  Angular：awesome / awesome-angular.md
-    -  Backbone：awesome / awesome-backbone.md
-    -  HTML5：awesome / awesome-html5.md
-    -  SVG：awesome / awesome-svg.md
-    -  Canvas：awesome / awesome-canvas.md
-    -  KnockoutJS：awesome / awesome-knockout.md
-    -  Dojo Toolkit：awesome / awesome-dojo.md
-    - 灵感：太棒了/ Inspire.md
-    -  Ember：awesome / awesome-ember.md
-    -  Android UI：awesome / awesome-android-ui.md
-    -  iOS UI：awesome / awesome-ios-ui.md
-    - 流星：真棒/ awesome-meteor.md
-    - 好的：太棒了/ BEM-resources.md
-    -  Flexbox：awesome / awesome-flexbox.md
-    -  Web排版：awesome / typography.md
-    -  Web辅助功能：awesome / awesome-a11y.md
-    - 材料设计：awesome / awesome-material.md
-    -  D3：awesome / awesome-d3.md
-    - 电子邮件：awesome / awesome-emails.md
-    -  jQuery：awesome / awesome-jquery.md
-    -  jQuery_sub： 
-      - 提示：awesome / jquery-tips-everyone-should-know.md
-    - 网络音频：awesome / awesome-webaudio.md
-    - 离线优先：awesome / offline-first.md
-    - 静态网站服务：awesome / awesome-static-website-services.md
-    -  Cycle.js：awesome / awesome-cyclejs.md
-    - 文本编辑：awesome / awesome-text-editing.md
-    -  Motion UI Design：awesome / motion-ui-design.md
-    -  Vue.js：awesome / awesome-vue.md
-    -  Marionette.js：awesome / awesome-marionette.md
-    -  Aurelia：awesome / awesome-aurelia.md
-    - 图表：awesome / awesome-charting.md
-    -  Ionic Framework 2：awesome / awesome-ionic.md
-    -  Chrome DevTools：awesome / awesome-chrome-devtools.md
-    -  PostCSS：awesome / awesome-postcss.md
-    -  Draft.js：awesome / awesome-draft-js.md
-    - 服务工作者：awesome / awesome-service-workers.md
-    - 渐进式网络应用程序：awesome / awesome-progressive-web-apps.md
-    -  choo：awesome / awesome-choo.md
-    -  Redux：awesome / awesome-redux.md
-    -  webpack：awesome / awesome-webpack.md
-    -  Browserify：awesome / awesome-browserify.md
-    -  Sass：awesome / awesome-sass.md
-    -  Ant设计：awesome / awesome-ant-design.md
-    - 减：真棒/ awesome-less.md
-    -  WebGL：awesome / awesome-webgl.md
-    -  Preact：awesome / awesome-preact.md
-    - 渐进增强：awesome / progressive-enhancement-resources.md
-    -  Next.js：awesome / awesome-nextjs.md
-    -  Hyperapp：awesome / awesome-hyperapp.md
-    -  lit-html：awesome / awesome-lit-html.md
-    -  JAMstack：awesome / awesome-jamstack.md
-    - 移动网络开发：awesome / awesome-mobile-web-development.md
-  - 后端开发：
-    -  Flask：awesome / awesome-flask.md
-    -  Docker：awesome / awesome-docker.md
-    -  Vagrant：awesome / awesome-vagrant.md
-    - 金字塔：awesome / awesome-pyramid.md
-    -  Play1 Framework：awesome / awesome-play1.md
-    -  CakePHP：awesome / awesome-cakephp.md
-    -  Symfony：awesome / awesome-symfony.md
-    -  Symfony_sub： 
-      - 教育：awesome / awesome-symfony-education.md
-    -  Laravel：awesome / awesome-laravel.md
-    -  Laravel_sub： 
-      - 教育：awesome / Awesome-Laravel-Education.md
-    -  Rails：awesome / awesome-rails.md
-    -  Rails_sub： 
-      -  Gems：awesome / awesome-rails-gem.md
-    -  Phalcon：awesome / awesome-phalcon.md
-    - 有用的`.htaccess`片段：awesome / htaccess.md
-    -  nginx：awesome / nginx-resources.md
-    -  Dropwizard：awesome / awesome-dropwizard.md
-    -  Kubernetes：awesome / awesome-kubernetes.md
-    -  Lumen：太棒了/太棒了-lumen.md
-    - 无服务器框架：awesome / awesome-serverless.md
-    -  Apache Wicket：awesome / awesome-wicket.md
-    -  Vert.x：awesome / vertx-awesome.md
-    -  Terraform：awesome / awesome-terraform.md
-    -  Vapor：awesome / awesome-vapor.md
-  - 计算机科学：
-    - 大学课程：awesome / awesome-courses.md
-    - 数据科学：awesome / awesome-datascience.md
-    -  Data Science_sub： 
-      - 教程：awesome / awesome-learn-datascience.md
-    - 机器学习：awesome / awesome-machine-learning.md
-    -  Machine Learning_sub： 
-      - 教程：awesome / Machine-Learning-Tutorials.md
-      -  ML with Ruby：awesome / machine-learning-with-ruby.md
-      - 核心ML模型：awesome / Awesome-CoreML-Models.md
-      -  H2O：awesome / awesome-h2o.md
-    - 语音和自然语言处理子句： 
-      - 西班牙语：awesome / awesome-spanish-nlp.md
-      - 使用Ruby的NLP：awesome / nlp-with-ruby.md
-    - Linguistics: awesome/awesome-linguistics.md
-    - 密码学：awesome / awesome-cryptography.md
-    -  Cryptography_sub： 
-      - 论文：awesome / awesome-crypto-papers.md
-    - 计算机视觉：awesome / awesome-computer-vision.md
-    - 深度学习：awesome / awesome-deep-learning.md
-    -  Deep Learning_sub： 
-      -  TensorFlow：awesome / awesome-tensorflow.md
-      - 论文：awesome / awesome-deep-learning-papers.md
-      - 教育：awesome / awesome-deep-learning-resources.md
-    -  Deep Vision：awesome / awesome-deep-vision.md
-    - 开源社会大学：awesome / computer-science.md
-    - 功能编程：awesome / awesome-functional-programming.md
-    - 静态分析和代码质量：awesome / awesome-static-analysis.md
-    - 信息检索：awesome / awesome-information-retrieval.md
-  - 大数据：
-    - 大数据：awesome / awesome-bigdata.md
-    -  Hadoop：awesome / awesome-hadoop.md
-    - 数据工程：awesome / awesome-data-engineering.md
-    - 流媒体：awesome / awesome-streaming.md
-    -  Apache Spark：awesome / awesome-spark.md
-  - 理论：
-    - 我们喜欢的论文：awesome / papers-we-love.md
-    - 会谈：真棒/ awesome-talks.md
-    - 算法：awesome / awesome-algorithms.md
-    - 算法可视化：awesome / algovis.md
-    - 人工智能：awesome / awesome-artificial-intelligence.md
-    - 搜索引擎优化：awesome / search-engine-optimization.md
-    - 竞争性编程：awesome / awesome-competitive-programming.md
-    - 数学：awesome / awesome-math.md
-    - 递归方案：awesome / awesome-recursion-schemes.md
-  - 书籍：
-    - 免费编程书籍：awesome / free-programming-books.md
-    - 免费软件测试书籍：awesome / awesome-software-quality.md
-    -  Go Books：awesome / GoBooks.md
-    -  R Books：awesome / rbooks.md
-    -  Mind Expanding Books：awesome / Mind-Expanding-Books.md
-    - 书籍创作：awesome / awesome-book-authoring.md
-    -  Elixir Books：awesome / ElixirBooks.md
-  - 编辑：
-    -  Sublime Text：awesome / sublime-bookmarks.md
-    -  Vim：awesome / vim-galore.md
-    -  Atom：awesome / awesome-atom.md
-    -  Visual Studio代码：awesome / awesome-vscode.md
-  - 游戏：
-    - Game Development: awesome/magictools.md
-    -  Game Talks：awesome / awesome-gametalks.md
-    - 戈多：太棒了/太棒了 - 很多
-    - 开源游戏：awesome / games.md
-    -  Unity：awesome / awesome-unity.md
-    - 国际象棋：真棒/ awesome-chess.md
-    - LÖVE：awesome / awesome-love2d.md
-    -  PICO-8：awesome / awesome-PICO-8.md
-    -  Game Boy Development：awesome / awesome-gbdev.md
-    - 构造2：awesome / awesome-construct.md
-    -  Gideros：awesome / awesome-gideros.md
-  - 开发环境：
-    - 快速查看插件：awesome / quick-look-plugins.md
-    -  Dev Env：awesome / awesome-devenv.md
-    -  Dotfiles：awesome / awesome-dotfiles.md
-    -  Shell：awesome / awesome-shell.md
-    - 鱼：棒极了/ awesome-fish.md
-    - 命令行应用程序：awesome / awesome-cli-apps.md
-    -  ZSH插件：awesome / awesome-zsh-plugins.md
-    -  GitHub：awesome / awesome-github.md
-    -  GitHub_sub： 
-      - 浏览器扩展：awesome / awesome-browser-extensions-for-github.md
-      - 备忘单：awesome / github-cheat-sheet.md
-    -  Git Cheat Sheet＆Git Flow：awesome / git-cheat-sheet.md
-    -  Git Tips：awesome / tips.md
-    -  Git附加组件：awesome / awesome-git-addons.md
-    -  SSH：awesome / awesome-ssh.md
-    -  FOSS for Developers：awesome / FOSS-for-Dev.md
-    -  Hyper：awesome / awesome-hyper.md
-    -  PowerShell：awesome / awesome-powershell.md
-    -  Alfred Workflows：awesome / awesome-alfred-workflows.md
-    - 终端很性感：很棒/者terminal-are-sexy.md
-  - 娱乐：
-    - 科幻小说：awesome / awesome-scifi.md
-    - 幻想：真棒/ awesome-fantasy.md
-    - 播客：awesome / awesome-geek-podcasts.md
-    - 电子邮件简报：awesome / awesome-newsletters.md
-    -  IT行情：awesome / awesome-it-quotes.md
-  - 数据库：
-    - 数据库：awesome / awesome-db.md
-    -  MySQL：awesome / awesome-mysql.md
-    -  InfluxDB：awesome / awesome-influxdb.md
-    -  Neo4j：awesome / awesome-neo4j.md
-    -  MongoDB：awesome / awesome-mongodb.md
-    -  RethinkDB：​​awesome / awesome-rethinkdb.md
-    -  TinkerPop：awesome / awesome-tinkerpop.md
-    -  PostgreSQL：awesome / awesome-postgres.md
-    -  CouchDB：awesome / awesome-couchdb.md
-    -  HBase：awesome / awesome-hbase.md
-  - 媒体：
-    -  Creative Commons Media：awesome / creative-commons-media.md
-    - 字体：awesome / awesome-fonts.md
-    -  Codeface：awesome / codeface.md
-    - 库存资源：awesome / awesome-stock-resources.md
-    -  GIF：awesome / awesome-gif.md
-    - 音乐：awesome / awesome-music.md
-    - 开源文档：awesome / awesome-opensource-documents.md
-    - 音频可视化：awesome / awesome-audio-visualization.md
-    - 广播：awesome / awesome-broadcasting.md
-    -  Pixel Art：awesome / awesome-pixel-art.md
-    -  FFmpeg：awesome / awesome-ffmpeg.md
-  - 学习：
-    -  CLI Workshoppers：awesome / awesome-workshopper.md
-    - 学习编程：awesome / learn-to-program.md
-    - 说：awesome / awesome-speaking.md
-    -  Tech Videos：awesome / awesome-tech-videos.md
-    - 深入了解机器学习：awesome / dive-into-machine-learning.md
-    - 计算机历史：awesome / awesome-computer-history.md
-    - 为孩子们编程：awesome / awesome-programming-for-kids.md
-    - 教育游戏：awesome / awesome-eg.md
-    -  JavaScript学习：awesome / awesome-javascript-learning.md
-  - 安全：
-    - 应用程序安全性：awesome / awesome-appsec.md
-    - 安全：awesome / awesome-security.md
-    -  CTF：awesome / awesome-ctf.md
-    - 恶意软件分析：awesome / awesome-malware-analysis.md
-    -  Android安全：awesome / android-security-awesome.md
-    - 黑客：真棒/ awesome-hacking.md
-    - 蜜罐：awesome / awesome-honeypots.md
-    - 事件响应：awesome / awesome-incident-response.md
-    - 车辆安全和汽车黑客：awesome / awesome-vehicle-security.md
-    - 网络安全：awesome / awesome-web-security.md
-    - 开锁：awesome / awesome-lockpicking.md
-    -  Umbraco：awesome / awesome-umbraco.md
-    - 炼油厂CMS：awesome / awesome-refinerycms.md
-    -  Wagtail：awesome / awesome-wagtail.md
-    -  Drupal：awesome / awesome-drupal.md
-    -  Craft CMS：awesome / craftcms-awesome.md
-  - 硬件：
-    - 机器人：awesome / awesome-robotics.md
-    - 物联网：awesome / awesome-iot.md
-    - 电子产品：awesome / awesome-electronics.md
-    - 蓝牙信标：awesome / awesome-beacon.md
-    - 电吉他规格：awesome / guitarspecs.md
-  - 业务：
-    - 开放公司：awesome / awesome-open-company.md
-    - 发布你的启动的地方：awesome / PlacesToPostYourStartup.md
-    -  OKR Methodology：awesome / awesome-okr.md
-    - 领导和管理：awesome / awesome-leading-and-managing.md
-    - 独立：真棒/ awesome-indie.md
-  - 工作：
-    -  Slack：awesome / awesome-slack.md
-    -  Slack_sub： 
-      - 社区：awesome / awesome-slack.md
-    - 远程工作：awesome / awesome-remote-job.md
-    - 生产力：awesome / awesome-productivity.md
-    -  Niche Job Boards：awesome / awesome-job-boards.md
-    - 编程访谈：awesome / awesome-interview-questions.md
-    - 代码审查：awesome / awesome-code-review.md
-  - 联网：
-    - 软件定义网络：awesome / awesome-sdn.md
-    - 网络分析：awesome / awesome-network-analysis.md
-    -  PCAPTools：awesome / awesome-pcaptools.md
-  - 分散系统：
-    - 比特币：awesome / awesome-bitcoin.md
-    -  Ripple：awesome / awesome-ripple.md
-    - 非金融区块链：awesome / awesome-non-financial-blockchain.md
-    -  Mastodon：awesome / awesome-mastodon.md
-    - 以太坊：太棒了/很棒-Ethereum.md
-  - 杂项：
-    -  JSON：awesome / awesome-json.md
-    -  JSON_sub： 
-      -  GeoJSON：awesome / awesome-geojson.md
-      - 数据集：awesome / awesome-json-datasets.md
-    - 学生开发者折扣：awesome / discount-for-student-dev.md
-    - 系统管理员：awesome / awesome-sysadmin.md
-    -  Radio：awesome / awesome-radio.md
-    - 太棒了：太棒了/ sindresorhus-awesome.md
-    -  Analytics：awesome / awesome-analytics.md
-    -  REST：awesome / awesome-rest.md
-    -  Selenium：awesome / awesome-selenium.md
-    -  APPI：真棒/ awesome-appium.md
-    - 持续集成和持续交付：awesome / awesome-ciandcd.md
-    - 服务工程：awesome / services-engineering.md
-    - 免费开发人员：awesome / free-for-dev.md
-    - 答案：awesome / awesome-answers.md
-    - 草图：awesome / awesome-sketch.md
-    -  Boilerplate项目：awesome / awesome-projects-boilerplates.md
-    - 自述：awesome / awesome-readme.md
-    - 工具：awesome / ToolsOfTheTrade.md
-    - 设计和开发指南：awesome / guides.md
-    - 软件工程博客：awesome / engineering-blogs.md
-    - 自托管：awesome / awesome-selfhosted.md
-    -  FOSS生产应用程序：awesome / awesome-foss-apps.md
-    -  Gulp：awesome / awesome-gulp.md
-    -  AMA：awesome / amas.md
-    -  AMA_sub： 
-      - 答案：awesome / awesome-ama-answers.md
-    - 开源摄影：awesome / awesome-OpenSourcePhotography.md
-    -  OpenGL：awesome / awesome-opengl.md
-    -  GraphQL：awesome / awesome-graphql.md
-    -  Transit：awesome / awesome-transit.md
-    - 研究工具：awesome / awesome-research.md
-    - 数据可视化：awesome / awesome-dataviz.md
-    - 社交媒体分享链接：awesome / shareable-links.md
-    - 微服务：awesome / awesome-microservices.md
-    -  Unicode：awesome / Awesome-Unicode.md
-    -  Unicode_sub： 
-      - 代码点：awesome / awesome-codepoints.md
-    - 初学友好项目：awesome / awesome-for-beginners.md
-    -  Katas：awesome / awesome-katas.md
-    - 活动工具：awesome / toolsforactivism.md
-    -  Citizen Science：awesome / citizen-science.md
-    -  TAP：awesome / awesome-tap.md
-    -  MQTT：awesome / awesome-mqtt.md
-    -  Hacking Spots：awesome / awesome-hacking-locations.md
-    - 对于女孩：真棒/ awesome4girls.md
-    -  Vorpal：awesome / awesome-vorpal.md
+  - 平台:
+    - Node.js: awesome/awesome-nodejs.md
+    - 前端开发: awesome/frontend-dev-bookmarks.md
+    - iOS: awesome/awesome-ios.md
+    - Android: awesome/awesome-android.md
+    - IoT & Hybrid Apps: awesome/awesome-IoT-hybrid.md
+    - Electron: awesome/awesome-electron.md
+    - Cordova: awesome/awesome-cordova.md
+    - React Native: awesome/awesome-react-native.md
+    - Xamarin: awesome/awesome-xamarin.md
+    - Linux: awesome/awesome-linux.md
+    - Linux内容: 
+      - Containers: awesome/awesome-linux-containers.md
+    - macOS: awesome/awesome-macOS.md
+    - macOS内容: 
+      - 命令行: awesome/awesome-macos-command-line.md
+      - 屏保: awesome/awesome-macos-screensavers.md
+      - 应用: awesome/awesome-mac.md
+      - 开源应用: awesome/open-source-mac-os-apps.md
+    - watchOS: awesome/awesome-watchos.md
+    - JVM: awesome/awesome-jvm.md
+    - Salesforce: awesome/awesome-salesforce.md
+    - Amazon Web Services: awesome/awesome-aws.md
+    - Windows: awesome/Awesome.md
+    - IPFS: awesome/awesome-ipfs.md
+    - Fuse: awesome/awesome-fuse.md
+    - Heroku: awesome/awesome-heroku.md
+    - Raspberry Pi: awesome/awesome-raspberry-pi.md
+    - Qt: awesome/awesome-qt.md
+    - WebExtensions: awesome/Awesome-WebExtensions.md
+    - RubyMotion: awesome/awesome-rubymotion.md
+    - Smart TV: awesome/awesome-smart-tv.md
+    - GNOME: awesome/awesome-gnome.md
+    - .NET: awesome/awesome-dotnet.md
+    - .NET内容: 
+      - Core: awesome/awesome-dotnet-core.md
+    - Amazon Alexa: awesome/awesome-amazon-alexa.md
+    - DigitalOcean: awesome/awesome-digitalocean.md
+    - Flutter: awesome/awesome-flutter.md
+    - Home Assistant: awesome/awesome-home-assistant.md
+  - 编程语言:
+    - JavaScript: awesome/awesome-javascript.md
+    - JavaScript内容: 
+      - Promises: awesome/awesome-promises.md
+      - Standard Style: awesome/awesome-standard.md
+      - 必看讲座: awesome/js-must-watch.md
+      - Tips: awesome/jstips.md
+      - 网络层: awesome/awesome-network-js.md
+      - Micro npm Packages: awesome/awesome-micro-npm-packages.md
+      - Mad Science npm Packages: awesome/awesome-mad-science.md
+      - Maintenance Modules: awesome/maintenance-modules.md
+      - npm: awesome/awesome-npm.md
+      - AVA: awesome/awesome-ava.md
+      - ESLint: awesome/awesome-eslint.md
+      - Functional Programming: awesome/awesome-fp-js.md
+      - Observables: awesome/awesome-observables.md
+      - npm scripts: awesome/awesome-npm-scripts.md
+    - Swift: awesome/awesome-swift.md
+    - Swift内容: 
+      - 教育: awesome/Awesome-Swift-Education.md
+      - 练习: awesome/Awesome-Swift-Playgrounds.md
+    - Python: awesome/awesome-python.md
+    - Python内容: 
+      - Asyncio: awesome/awesome-asyncio.md
+      - Scientific Audio: awesome/awesome-python-scientific-audio.md
+      - CircuitPython: awesome/awesome-circuitpython.md
+    - Rust: awesome/awesome-rust.md
+    - Haskell: awesome/awesome-haskell.md
+    - PureScript: awesome/awesome-purescript.md
+    - Go: awesome/awesome-go.md
+    - Scala: awesome/awesome-scala.md
+    - Ruby: awesome/awesome-ruby.md
+    - Clojure: awesome/awesome-clojure.md
+    - ClojureScript: awesome/awesome-clojurescript.md
+    - Elixir: awesome/awesome-elixir.md
+    - Elm: awesome/awesome-elm.md
+    - Erlang: awesome/awesome-erlang.md
+    - Julia: awesome/Julia.jl.md
+    - Lua: awesome/awesome-lua.md
+    - C: awesome/awesome-c.md
+    - C/C++: awesome/awesome-cpp.md
+    - R: awesome/awesome-R.md
+    - D: awesome/awesome-d.md
+    - Common Lisp: awesome/awesome-cl.md
+    - Perl: awesome/awesome-perl.md
+    - Groovy: awesome/awesome-groovy.md
+    - Dart: awesome/awesome-dart.md
+    - Java: awesome/awesome-java.md
+    - Java内容: 
+      - RxJava: awesome/awesome-rxjava.md
+    - Kotlin: awesome/awesome-kotlin.md
+    - OCaml: awesome/awesome-ocaml.md
+    - ColdFusion: awesome/awesome-coldfusion.md
+    - Fortran: awesome/awesome-fortran.md
+    - PHP: awesome/awesome-php.md
+    - PHP内容: 
+      - Composer: awesome/awesome-composer.md
+    - Delphi: awesome/awesome-delphi.md
+    - Assembler: awesome/awesome-asm.md
+    - AutoHotkey: awesome/awesome-AutoHotkey.md
+    - AutoIt: awesome/awesome-AutoIt.md
+    - Crystal: awesome/awesome-crystal.md
+    - Frege: awesome/awesome-frege.md
+    - CMake: awesome/awesome-cmake.md
+    - ActionScript 3: awesome/awesome-actionscript3.md
+    - Eta: awesome/awesome-eta.md
+    - Idris: awesome/awesome-idris.md
+  - 前端:
+    - ES6 Tools: awesome/es6-tools.md
+    - Web性能优化: awesome/awesome-wpo.md
+    - Web Tools: awesome/tools.md
+    - CSS: awesome/awesome-css.md
+    - CSS内容: 
+      - Critical-Path Tools: awesome/critical-path-css-tools.md
+      - Scalability: awesome/scalable-css-reading-list.md
+      - 必看讲座: awesome/must-watch-css.md
+      - Protips: awesome/css-protips.md
+    - React: awesome/awesome-react.md
+    - React内容: 
+      - Relay: awesome/awesome-relay.md
+    - Web Components: awesome/webcomponents-the-right-way.md
+    - Polymer: awesome/awesome-polymer.md
+    - Angular: awesome/awesome-angular.md
+    - Backbone: awesome/awesome-backbone.md
+    - HTML5: awesome/awesome-html5.md
+    - SVG: awesome/awesome-svg.md
+    - Canvas: awesome/awesome-canvas.md
+    - KnockoutJS: awesome/awesome-knockout.md
+    - Dojo Toolkit: awesome/awesome-dojo.md
+    - Inspiration: awesome/Inspire.md
+    - Ember: awesome/awesome-ember.md
+    - Android UI: awesome/awesome-android-ui.md
+    - iOS UI: awesome/awesome-ios-ui.md
+    - Meteor: awesome/awesome-meteor.md
+    - BEM: awesome/BEM-resources.md
+    - Flexbox: awesome/awesome-flexbox.md
+    - Web Typography: awesome/typography.md
+    - Web Accessibility: awesome/awesome-a11y.md
+    - Material Design: awesome/awesome-material.md
+    - D3: awesome/awesome-d3.md
+    - Emails: awesome/awesome-emails.md
+    - jQuery: awesome/awesome-jquery.md
+    - jQuery内容: 
+      - Tips: awesome/jquery-tips-everyone-should-know.md
+    - Web Audio: awesome/awesome-webaudio.md
+    - 离线优先: awesome/offline-first.md
+    - 静态网站服务: awesome/awesome-static-website-services.md
+    - Cycle.js: awesome/awesome-cyclejs.md
+    - Text Editing: awesome/awesome-text-editing.md
+    - Motion UI Design: awesome/motion-ui-design.md
+    - Vue.js: awesome/awesome-vue.md
+    - Marionette.js: awesome/awesome-marionette.md
+    - Aurelia: awesome/awesome-aurelia.md
+    - Charting: awesome/awesome-charting.md
+    - Ionic Framework 2: awesome/awesome-ionic.md
+    - Chrome DevTools: awesome/awesome-chrome-devtools.md
+    - PostCSS: awesome/awesome-postcss.md
+    - Draft.js: awesome/awesome-draft-js.md
+    - Service Workers: awesome/awesome-service-workers.md
+    - Progressive Web Apps: awesome/awesome-progressive-web-apps.md
+    - choo: awesome/awesome-choo.md
+    - Redux: awesome/awesome-redux.md
+    - webpack: awesome/awesome-webpack.md
+    - Browserify: awesome/awesome-browserify.md
+    - Sass: awesome/awesome-sass.md
+    - Ant Design: awesome/awesome-ant-design.md
+    - Less: awesome/awesome-less.md
+    - WebGL: awesome/awesome-webgl.md
+    - Preact: awesome/awesome-preact.md
+    - Progressive Enhancement: awesome/progressive-enhancement-resources.md
+    - Next.js: awesome/awesome-nextjs.md
+    - Hyperapp: awesome/awesome-hyperapp.md
+    - lit-html: awesome/awesome-lit-html.md
+    - JAMstack: awesome/awesome-jamstack.md
+    - 移动端web开发: awesome/awesome-mobile-web-development.md
+  - 后端:
+    - Flask: awesome/awesome-flask.md
+    - Docker: awesome/awesome-docker.md
+    - Vagrant: awesome/awesome-vagrant.md
+    - Pyramid: awesome/awesome-pyramid.md
+    - Play1 Framework: awesome/awesome-play1.md
+    - CakePHP: awesome/awesome-cakephp.md
+    - Symfony: awesome/awesome-symfony.md
+    - Symfony内容: 
+      - Education: awesome/awesome-symfony-education.md
+    - Laravel: awesome/awesome-laravel.md
+    - Laravel内容: 
+      - 教育: awesome/Awesome-Laravel-Education.md
+    - Rails: awesome/awesome-rails.md
+    - Rails内容: 
+      - Gems: awesome/awesome-rails-gem.md
+    - Phalcon: awesome/awesome-phalcon.md
+    - 有用的 `.htaccess`片段: awesome/htaccess.md
+    - nginx: awesome/nginx-resources.md
+    - Dropwizard: awesome/awesome-dropwizard.md
+    - Kubernetes: awesome/awesome-kubernetes.md
+    - Lumen: awesome/awesome-lumen.md
+    - Serverless框架: awesome/awesome-serverless.md
+    - Apache Wicket: awesome/awesome-wicket.md
+    - Vert.x: awesome/vertx-awesome.md
+    - Terraform: awesome/awesome-terraform.md
+    - Vapor: awesome/awesome-vapor.md
+  - 计算机科学:
+    - 大学课程: awesome/awesome-courses.md
+    - 数据科学: awesome/awesome-datascience.md
+    - 数据科学内容:
+      - 教程: awesome/awesome-learn-datascience.md
+    - 机器学习: awesome/awesome-machine-learning.md
+    - 机器学习内容:
+      - 教程: awesome/Machine-Learning-Tutorials.md
+      - Ruby机器学习: awesome/machine-learning-with-ruby.md
+      - Core ML Models: awesome/Awesome-CoreML-Models.md
+      - H2O: awesome/awesome-h2o.md
+    - 语音与子软语言处理内容:
+      - 西班牙语: awesome/awesome-spanish-nlp.md
+      - NLP with Ruby: awesome/nlp-with-ruby.md
+    - 语言学: awesome/awesome-linguistics.md
+    - 加密: awesome/awesome-cryptography.md
+    - 加密内容:
+      - 论文: awesome/awesome-crypto-papers.md
+    - 机器视觉: awesome/awesome-computer-vision.md
+    - 深度学习: awesome/awesome-deep-learning.md
+    - 深度学习内容:
+      - TensorFlow: awesome/awesome-tensorflow.md
+      - 论文: awesome/awesome-deep-learning-papers.md
+      - 教育: awesome/awesome-deep-learning-resources.md
+    - 深度视觉: awesome/awesome-deep-vision.md
+    - 开放的社会大学: awesome/computer-science.md
+    - 函数式变成: awesome/awesome-functional-programming.md
+    - 静态分析和代码质量: awesome/awesome-static-analysis.md
+    - 信息检索: awesome/awesome-information-retrieval.md
+  - 大数据:
+    - 大数据: awesome/awesome-bigdata.md
+    - Hadoop: awesome/awesome-hadoop.md
+    - 数据工程: awesome/awesome-data-engineering.md
+    - Streaming: awesome/awesome-streaming.md
+    - Apache Spark: awesome/awesome-spark.md
+  - 理论:
+    - 论文精选: awesome/papers-we-love.md
+    - 演讲: awesome/awesome-talks.md
+    - 算法: awesome/awesome-algorithms.md
+    - 算法可视化: awesome/algovis.md
+    - 人工智能: awesome/awesome-artificial-intelligence.md
+    - SEO: awesome/search-engine-optimization.md
+    - 编程竞赛: awesome/awesome-competitive-programming.md
+    - 数学: awesome/awesome-math.md
+    - 递归: awesome/awesome-recursion-schemes.md
+  - 书籍:
+    - 免费编程书籍: awesome/free-programming-books.md
+    - 免费软件测试书籍: awesome/awesome-software-quality.md
+    - Go 书籍: awesome/GoBooks.md
+    - R 书籍: awesome/rbooks.md
+    - 思维扩展类书籍: awesome/Mind-Expanding-Books.md
+    - 书籍作者: awesome/awesome-book-authoring.md
+    - Elixir 书籍: awesome/ElixirBooks.md
+  - 编辑器:
+    - Sublime Text: awesome/sublime-bookmarks.md
+    - Vim: awesome/vim-galore.md
+    - Atom: awesome/awesome-atom.md
+    - Visual Studio Code: awesome/awesome-vscode.md
+  - 游戏:
+    - 游戏开发: awesome/magictools.md
+    - 游戏演讲: awesome/awesome-gametalks.md
+    - Godot: awesome/awesome-godot.md
+    - 开源游戏: awesome/games.md
+    - Unity: awesome/awesome-unity.md
+    - Chess: awesome/awesome-chess.md
+    - LÖVE: awesome/awesome-love2d.md
+    - PICO-8: awesome/awesome-PICO-8.md
+    - Game Boy Development: awesome/awesome-gbdev.md
+    - Construct 2: awesome/awesome-construct.md
+    - Gideros: awesome/awesome-gideros.md
+  - 运维:
+    - Quick Look Plugins: awesome/quick-look-plugins.md
+    - Dev Env: awesome/awesome-devenv.md
+    - Dotfiles: awesome/awesome-dotfiles.md
+    - Shell: awesome/awesome-shell.md
+    - Fish: awesome/awesome-fish.md
+    - 命令行应用: awesome/awesome-cli-apps.md
+    - ZSH 插件: awesome/awesome-zsh-plugins.md
+    - GitHub: awesome/awesome-github.md
+    - GitHub内容: 
+      - 浏览器插件: awesome/awesome-browser-extensions-for-github.md
+      - Cheat Sheet: awesome/github-cheat-sheet.md
+    - Git Cheat Sheet & Git Flow: awesome/git-cheat-sheet.md
+    - Git Tips: awesome/tips.md
+    - Git Add-ons: awesome/awesome-git-addons.md
+    - SSH: awesome/awesome-ssh.md
+    - FOSS for Developers: awesome/FOSS-for-Dev.md
+    - Hyper: awesome/awesome-hyper.md
+    - PowerShell: awesome/awesome-powershell.md
+    - Alfred Workflows: awesome/awesome-alfred-workflows.md
+    - Terminals Are Sexy: awesome/terminals-are-sexy.md
+  - 娱乐:
+    - Science Fiction: awesome/awesome-scifi.md
+    - Fantasy: awesome/awesome-fantasy.md
+    - Podcasts: awesome/awesome-geek-podcasts.md
+    - Email Newsletters: awesome/awesome-newsletters.md
+    - IT Quotes: awesome/awesome-it-quotes.md
+  - 数据库:
+    - Database: awesome/awesome-db.md
+    - MySQL: awesome/awesome-mysql.md
+    - InfluxDB: awesome/awesome-influxdb.md
+    - Neo4j: awesome/awesome-neo4j.md
+    - MongoDB: awesome/awesome-mongodb.md
+    - RethinkDB: awesome/awesome-rethinkdb.md
+    - TinkerPop: awesome/awesome-tinkerpop.md
+    - PostgreSQL: awesome/awesome-postgres.md
+    - CouchDB: awesome/awesome-couchdb.md
+    - HBase: awesome/awesome-hbase.md
+  - 媒体:
+    - Creative Commons Media: awesome/creative-commons-media.md
+    - Fonts: awesome/awesome-fonts.md
+    - Codeface: awesome/codeface.md
+    - Stock Resources: awesome/awesome-stock-resources.md
+    - GIF: awesome/awesome-gif.md
+    - 音乐: awesome/awesome-music.md
+    - 开源文档: awesome/awesome-opensource-documents.md
+    - Audio Visualization: awesome/awesome-audio-visualization.md
+    - Broadcasting: awesome/awesome-broadcasting.md
+    - Pixel Art: awesome/awesome-pixel-art.md
+    - FFmpeg: awesome/awesome-ffmpeg.md
+  - 学习:
+    - CLI Workshoppers: awesome/awesome-workshopper.md
+    - 学习编程: awesome/learn-to-program.md
+    - 演讲: awesome/awesome-speaking.md
+    - 科技视频: awesome/awesome-tech-videos.md
+    - 深入机器学习: awesome/dive-into-machine-learning.md
+    - 计算机历史: awesome/awesome-computer-history.md
+    - 少儿编程: awesome/awesome-programming-for-kids.md
+    - 教育游戏: awesome/awesome-eg.md
+    - 学习JavaScript: awesome/awesome-javascript-learning.md
+  - 安全:
+    - 应用安全: awesome/awesome-appsec.md
+    - 安全: awesome/awesome-security.md
+    - 夺旗赛: awesome/awesome-ctf.md
+    - 恶意软件分析: awesome/awesome-malware-analysis.md
+    - Android安全: awesome/android-security-awesome.md
+    - Hacking: awesome/awesome-hacking.md
+    - Honeypots: awesome/awesome-honeypots.md
+    - Incident Response: awesome/awesome-incident-response.md
+    - Vehicle Security and Car Hacking: awesome/awesome-vehicle-security.md
+    - Web安全: awesome/awesome-web-security.md
+    - Lockpicking: awesome/awesome-lockpicking.md
+    - Umbraco: awesome/awesome-umbraco.md
+    - Refinery CMS: awesome/awesome-refinerycms.md
+    - Wagtail: awesome/awesome-wagtail.md
+    - Drupal: awesome/awesome-drupal.md
+  - 硬件:
+    - Robotics: awesome/awesome-robotics.md
+    - IOT: awesome/awesome-iot.md
+    - Electronics: awesome/awesome-electronics.md
+    - Bluetooth Beacons: awesome/awesome-beacon.md
+    - Electric Guitar Specifications: awesome/guitarspecs.md
+  - 商业:
+    - Open Companies: awesome/awesome-open-company.md
+    - Places to Post Your Startup: awesome/PlacesToPostYourStartup.md
+    - OKR Methodology: awesome/awesome-okr.md
+    - Leading and Managing: awesome/awesome-leading-and-managing.md
+    - Indie: awesome/awesome-indie.md
+  - 工作:
+    - Slack: awesome/awesome-slack.md
+    - Slack内容: 
+      - 社区: awesome/awesome-slack.md
+    - 远程工作: awesome/awesome-remote-job.md
+    - 生产力: awesome/awesome-productivity.md
+    - Niche Job Boards: awesome/awesome-job-boards.md
+    - 面试: awesome/awesome-interview-questions.md
+    - Code Review: awesome/awesome-code-review.md
+  - 网络:
+    - 软件定义网络: awesome/awesome-sdn.md
+    - 网络分析: awesome/awesome-network-analysis.md
+    - PCAPTools: awesome/awesome-pcaptools.md
+  - 去中心化:
+    - 比特币: awesome/awesome-bitcoin.md
+    - 波场: awesome/awesome-ripple.md
+    - Non-Financial Blockchain: awesome/awesome-non-financial-blockchain.md
+    - Mastodon: awesome/awesome-mastodon.md
+    - 以太坊: awesome/Awesome-Ethereum.md
+  - 杂项:
+    - JSON: awesome/awesome-json.md
+    - JSON内容: 
+      - GeoJSON: awesome/awesome-geojson.md
+      - Datasets: awesome/awesome-json-datasets.md
+    - 学生开发者优惠: awesome/discount-for-student-dev.md
+    - Sysadmin: awesome/awesome-sysadmin.md
+    - Radio: awesome/awesome-radio.md
+    - Awesome: awesome/awesome.md
+    - Analytics: awesome/awesome-analytics.md
+    - REST: awesome/awesome-rest.md
+    - Selenium: awesome/awesome-selenium.md
+    - Appium: awesome/awesome-appium.md
+    - 持续集成与交付: awesome/awesome-ciandcd.md
+    - Services Engineering: awesome/services-engineering.md
+    - 开发者免费: awesome/free-for-dev.md
+    - Answers: awesome/awesome-answers.md
+    - Sketch: awesome/awesome-sketch.md
+    - 脚手架: awesome/awesome-projects-boilerplates.md
+    - Readme: awesome/awesome-readme.md
+    - Tools: awesome/ToolsOfTheTrade.md
+    - Styleguides: awesome/awesome-styleguides.md
+    - 设计与开发指南: awesome/guides.md
+    - 工程师博客: awesome/engineering-blogs.md
+    - Self Hosted: awesome/awesome-selfhosted.md
+    - FOSS Production Apps: awesome/awesome-foss-apps.md
+    - Gulp: awesome/awesome-gulp.md
+    - AMA: awesome/amas.md
+    - AMA内容: 
+      - Answers: awesome/awesome-ama-answers.md
+    - 开源图片: awesome/awesome-OpenSourcePhotography.md
+    - OpenGL: awesome/awesome-opengl.md
+    - GraphQL: awesome/awesome-graphql.md
+    - Transit: awesome/awesome-transit.md
+    - 研究工具: awesome/awesome-research.md
+    - 数据可视化: awesome/awesome-dataviz.md
+    - 社交媒体分享链接: awesome/shareable-links.md
+    - 微服务: awesome/awesome-microservices.md
+    - Unicode: awesome/Awesome-Unicode.md
+    - Unicode内容: 
+      - Code Points: awesome/awesome-codepoints.md
+    - 新手友好项目: awesome/awesome-for-beginners.md
+    - Katas: awesome/awesome-katas.md
+    - Tools for Activism: awesome/toolsforactivism.md
+    - Citizen Science: awesome/citizen-science.md
+    - TAP: awesome/awesome-tap.md
+    - MQTT: awesome/awesome-mqtt.md
+    - Hacking Spots: awesome/awesome-hacking-locations.md
+    - 女性开发者专属: awesome/awesome4girls.md
+    - Vorpal: awesome/awesome-vorpal.md
     - Vulkan: awesome/awesome-vulkan.md
-    -  LaTeX：awesome / awesome-LaTeX.md
-    - 有趣的马尔可夫链：真棒/ awesome-funny-markov.md
-    -  Bioinformatics：awesome / Awesome-Bioinformatics.md
-    - 炫彩：真棒/ Colorful.md
-    -  Steam：awesome / awesome-steam.md
-    -  Bots：awesome / bots.md
-    - 现场可靠性工程：awesome / awesome-sre.md
-    - 工程中的移情：awesome / empathy-in-engineering.md
-    -  DTrace：awesome / awesome-dtrace.md
-    -  userscripts：awesome / awesome-userscripts.md
-    - 神奇宝贝：awesome / awesome-pokemon.md
-    -  ChatOps：awesome / awesome-chatops.md
-    -  Falsehood：awesome / awesome-falsehood.md
-    - 领域驱动设计：awesome / awesome-ddd.md
-    - 量化自我：awesome / awesome-quantified-self.md
-    -  SaltStack：awesome / awesome-saltstack.md
-    - 网页设计：awesome / awesome-web-design.md
-    -  JMeter：awesome / awesome-jmeter.md
-    -  Creative Coding：awesome / awesome-creative-coding.md
-    - 无登录网络应用程序：awesome / awesome-no-login-web-apps.md
-    - 测试：awesome / awesome-testing.md
-    - 免费软件：awesome / awesome-free-software.md
-    -  Framer：awesome / awesome-framer.md
-    -  Markdown：awesome / awesome-markdown.md
-    -  Dev Fun：awesome / awesome-dev-fun.md
-    - 荷兰的活动：awesome / awesome-netherlands-events.md
-    - 医疗保健：awesome / awesome-healthcare.md
-    -  Magento 2：awesome / awesome-magento2.md
-    -  TikZ：awesome / awesome-tikz.md
-    - 神经科学：awesome / awesome-neuroscience.md
-    -  Ad-Free：awesome / awesome-ad-free.md
-    -  Esolangs：awesome / awesome-esolangs.md
-    -  Prometheus：awesome / awesome-prometheus.md
-    -  Homematic：awesome / awesome-homematic.md
-    -  Ledger：awesome / awesome-ledger.md
-    -  Uncopyright：awesome / awesome-uncopyright.md
-    - 加密货币工具和算法：awesome / awesome-coins.md
-    - 多样性：awesome / awesome-diversity.md
-    - 开源支持者：awesome / awesome-open-source-supporters.md
-    - 设计原则：awesome / awesome-design-principles.md
-    - 视觉回归测试：awesome / awesome-regression-testing.md
-    -  Theravada：awesome / awesome-theravada.md
-    -  inspectIT：awesome / awesome-inspectit.md
-    - 开源维护者：awesome / awesome-maintainers.md
-    - 计算器：awesome / awesome-calculators.md
-    -  Captcha：awesome / awesome-captcha.md
-    -  Jupyter：awesome / awesome-jupyter.md
-    -  FIRST机器人竞赛：awesome / awesome-frc.md
-    -  Humane Technology：awesome / awesome-humane-tech.md
-    - 演讲者：awesome / awesome-speakers.md
-    - 软件Patreons：awesome / awesome-software-patreons.md
-    - 寄生虫：awesome / awesome-parasite.md
+    - LaTeX: awesome/awesome-LaTeX.md
+    - Funny Markov Chains: awesome/awesome-funny-markov.md
+    - Bioinformatics: awesome/Awesome-Bioinformatics.md
+    - Colorful: awesome/Colorful.md
+    - Steam: awesome/awesome-steam.md
+    - Bots: awesome/bots.md
+    - Site Reliability Engineering: awesome/awesome-sre.md
+    - Empathy in Engineering: awesome/empathy-in-engineering.md
+    - DTrace: awesome/awesome-dtrace.md
+    - Userscripts: awesome/awesome-userscripts.md
+    - Pokémon: awesome/awesome-pokemon.md
+    - ChatOps: awesome/awesome-chatops.md
+    - Falsehood: awesome/awesome-falsehood.md
+    - 领域驱动设计: awesome/awesome-ddd.md
+    - Quantified Self: awesome/awesome-quantified-self.md
+    - SaltStack: awesome/awesome-saltstack.md
+    - Web设计: awesome/awesome-web-design.md
+    - JMeter: awesome/awesome-jmeter.md
+    - 创造性编程: awesome/awesome-creative-coding.md
+    - 无需登录web应用: awesome/awesome-no-login-web-apps.md
+    - 测试: awesome/awesome-testing.md
+    - 免费软件: awesome/awesome-free-software.md
+    - Framer: awesome/awesome-framer.md
+    - Markdown: awesome/awesome-markdown.md
+    - Dev Fun: awesome/awesome-dev-fun.md
+    - Events in the Netherlands: awesome/awesome-netherlands-events.md
+    - Healthcare: awesome/awesome-healthcare.md
+    - Magento 2: awesome/awesome-magento2.md
+    - TikZ: awesome/awesome-tikz.md
+    - Neuroscience: awesome/awesome-neuroscience.md
+    - Ad-Free: awesome/awesome-ad-free.md
+    - Esolangs: awesome/awesome-esolangs.md
+    - Prometheus: awesome/awesome-prometheus.md
+    - Homematic: awesome/awesome-homematic.md
+    - Ledger: awesome/awesome-ledger.md
+    - 放弃版权: awesome/awesome-uncopyright.md
+    - 加密货币工具与算法: awesome/awesome-coins.md
+    - Diversity: awesome/awesome-diversity.md
+    - 开源支持者: awesome/awesome-open-source-supporters.md
+    - 设计原则: awesome/awesome-design-principles.md
+    - Visual Regression Testing: awesome/awesome-regression-testing.md
+    - Theravada: awesome/awesome-theravada.md
+    - inspectIT: awesome/awesome-inspectit.md
+    - 开源项目维护者: awesome/awesome-maintainers.md
+    - Calculators: awesome/awesome-calculators.md
+    - Captcha: awesome/awesome-captcha.md
+    - Jupyter: awesome/awesome-jupyter.md
+    - FIRST Robotics Competition: awesome/awesome-frc.md
+    - Humane Technology: awesome/awesome-humane-tech.md
+    - Speakers: awesome/awesome-speakers.md
+    - Software Patreons: awesome/awesome-software-patreons.md
+    - Parasite: awesome/awesome-parasite.md
 
 
 # Theme
 theme:
-  name：null
-  custom_dir：&#39;mkdocs-material / material&#39;
-  static_templates：
-    -  404.html
-  语言：&#39;en&#39;
-  调色板：
-    小学：&#39;白&#39;
-    口音：&#39;红色&#39;
-  商标：
-    图标：&#39;school&#39;
-  分别是：
-    文字：&#39;Fair Sans&#39;
-    代码：&#39;Fira Mono&#39;
-  特征：
-    tabs：false
+  name: null
+  custom_dir: 'mkdocs-material/material'
+  static_templates:
+    - 404.html
+  language: 'zh'
+  palette:
+    primary: 'white'
+    accent: 'red'
+  logo:
+    icon: 'school'
+  font:
+    text: 'Fira Sans'
+    code: 'Fira Mono'
+  feature:
+    tabs: false
 # Customization
 extra:
-  搜索：
-    语言：&#39;en&#39;
-  版权所有：&#39;CC BY-NC-SA 4.0&#39;
+  search:
+    language: 'jp'
+  copyright: 'CC BY-NC-SA 4.0'
 
 extra_javascript:
   - 'https://cdnjs.loli.net/ajax/libs/pangu/3.3.0/pangu.min.js'
-  - &#39;_static / js / extra.js&#39;
+  - '_static/js/extra.js'
   - 'https://cdn.staticfile.org/jquery/3.3.1/jquery.min.js'
   - 'https://cdn.staticfile.org/github-repo-widget/e23d85ab8f/jquery.githubRepoWidget.min.js'
   - 'https://cdnjs.loli.net/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML'
 
 extra_css:
-  - &#39;_static / css / extra.css&#39;
+  - '_static/css/extra.css'
 
 # Extensions
 markdown_extensions:
-  - 告诫
-  -  codehilite：
-      guess_lang：false
-  -  def_list
-  - 脚注
-  - 元
-  -  toc：
-      永久链接：是
-  -  pymdownx.arithmatex
-  -  pymdownx.caret
-  -  pymdownx.critic
-  -  pymdownx.details
+  - admonition
+  - codehilite:
+      guess_lang: false
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator：!! python / name：pymdownx.emoji.to_svg
-  -  pymdownx.inlinehilite
-  -  pymdownx.keys
-  -  pymdownx.magiclink
-  -  pymdownx.mark
-  -  pymdownx.smartsymbols
-  -  pymdownx.superfences
-  -  pymdownx.tasklist：
-      custom_checkbox：true
-  -  pymdownx
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
