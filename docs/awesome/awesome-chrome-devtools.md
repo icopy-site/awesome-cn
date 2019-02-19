@@ -54,11 +54,12 @@
 ## Protocol Driver Libraries
 -  JavaScript / Node.js： [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - 协议最常用的JavaScript API
 -  TypeScript / Node.js： [chrome-debugging-client](https://github.com/krisselden/chrome-debugging-client) -  TypeScript async / await-friendly调试客户端
--  Java： [cdp4j](https://github.com/webfolderio/cdp4j) - Java library for CDP
+-  Java： [cdp4j](https://github.com/webfolderio/cdp4j) -  CDP的Java库
 -  Java： [karate](https://intuit.github.io/karate/karate-core/) - 带有Java API的Web服务测试框架，用于使用CDP协议自动化Chrome
 -  Python： [PyChromeDevTools](https://github.com/marty90/PyChromeDevTools) -  Google Chrome Dev Protocol的Python包装器
 -  Python： [chromewhip](https://github.com/chuckus/chromewhip) -  Python 3 asyncio驱动程序，用于管理对Google Chrome Devtools端点的并发请求
 -  Python： [pychrome](https://github.com/fate0/pychrome) -  Google Chrome开发协议的Python包
+-  Rust： [Rust Headless Chrome](https://github.com/atroche/rust-headless-chrome/) -  Rust中Puppeteer的实现
 - 走： [chromedp](https://github.com/chromedp/chromedp) - 使用Go中的Chrome DevTools协议驱动浏览器的高级操作和任务
 - 走： [cdp](https://github.com/mafredri/cdp) - 协议的Golang库
 - 走： [gcd](https://github.com/wirepair/gcd) -  Go中的另一个客户端库
@@ -66,7 +67,7 @@
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)   - 协议包装器生成器，可以通过编辑手柄模板进行自定义.  包括.Net核心模板.
 -  Ruby： [ChromeRemote](https://github.com/cavalle/chrome_remote/) -  Ruby中Chrome DevTools协议的客户端实现
 - 科特林： [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) -  Kotlin中的反应式（rxjava 2.x）低级客户端库
--  Clojure： [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools)   - 协议的Clojure库.  CDP包装器API是自动生成的，并将在CDP协议更改时更新.
+- Clojure: [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools)   - 协议的Clojure库.  CDP包装器API是自动生成的，并将在CDP协议更改时更新.
 -  PHP： [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - 协议的PHP客户端库.
 
 ## Developing with the protocol

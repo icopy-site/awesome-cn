@@ -154,6 +154,7 @@
 - [ActionScript 3](awesome/awesome-actionscript3.md) - 面向Adobe AIR的面向对象语言.
 - [Eta](awesome/awesome-eta.md) -  JVM的函数编程语言.
 - [Idris](awesome/awesome-idris.md) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
+- [Ada/SPARK](awesome/awesome-ada.md) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要. 
 
 
 ## Front-End Development
@@ -219,7 +220,7 @@
 - [Progressive Enhancement](awesome/progressive-enhancement-resources.md)
 - [Next.js](awesome/awesome-nextjs.md) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](awesome/awesome-hyperapp.md) - 用于构建Web应用程序的小型JavaScript库.
-- [lit-html](awesome/awesome-lit-html.md) - 用于JavaScript的HTML模板库.
+- [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
 - [JAMstack](awesome/awesome-jamstack.md) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - 创造出色的移动网络体验.
 
@@ -326,15 +327,15 @@
 
 - [Game Development](awesome/magictools.md)
 - [Game Talks](awesome/awesome-gametalks.md)
-- [Godot](awesome/awesome-godot.md) - Game engine.
+- [Godot](awesome/awesome-godot.md) - 游戏引擎.
 - [Open Source Games](awesome/games.md)
-- [Unity](awesome/awesome-unity.md) - Game engine.
+- [Unity](awesome/awesome-unity.md) - 游戏引擎.
 - [Chess](awesome/awesome-chess.md)
-- [LÖVE](awesome/awesome-love2d.md) - Game engine.
+- [LÖVE](awesome/awesome-love2d.md) - 游戏引擎.
 - [PICO-8](awesome/awesome-PICO-8.md) - 梦幻控制台.
 - [Game Boy Development](awesome/awesome-gbdev.md)
-- [Construct 2](awesome/awesome-construct.md) - Game engine.
-- [Gideros](awesome/awesome-gideros.md) - Game engine.
+- [Construct 2](awesome/awesome-construct.md) - 游戏引擎.
+- [Gideros](awesome/awesome-gideros.md) - 游戏引擎.
 
 
 ## Development Environment
@@ -500,7 +501,6 @@
 - [Boilerplate Projects](awesome/awesome-projects-boilerplates.md)
 - [Readme](awesome/awesome-readme.md)
 - [Tools](awesome/ToolsOfTheTrade.md)
-- [Styleguides](awesome/awesome-styleguides.md)
 - [Design and Development Guides](awesome/guides.md)
 - [Software Engineering Blogs](awesome/engineering-blogs.md)
 - [Self Hosted](awesome/awesome-selfhosted.md)

@@ -43,7 +43,8 @@
 
 ## Research Papers
 
-- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs.](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
+- [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B. Auffenberg，Khurshid R. Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C. Miller，Karandeep Singh.  （2018）
+- [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergius Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
 - [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  Jacob W. Kamminga，Helena C. Bisby，Duc V. Le，Nirvana Meratnia，Paul JM Havinga.  （2017）

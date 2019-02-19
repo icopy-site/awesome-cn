@@ -52,6 +52,7 @@
 - [turf](https://github.com/Turfjs/turf) - 模块化地理空间处理和分析引擎.
 - [webcat](https://github.com/mafintosh/webcat) - 使用WebRTC使用您的GitHub私钥/公钥进行身份验证的网络上的p2p管道.
 - [NodeOS](https://github.com/NodeOS/NodeOS) - 第一个由npm驱动的操作系统.
+- [YodaOS](https://github.com/yodaos-project/yodaos) -  AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) - 机器学习框架.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 图论（aka网络）建模和分析.
 - [Kadence](https://kadence.github.io/) -  Kademlia分布式哈希表.
@@ -83,7 +84,7 @@
 - [Standard](https://github.com/feross/standard) -  JavaScript标准风格 - 一种统治它们的风格.
 - [ESLint](http://eslint.org) - 适用于JavaScript的可插入linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取GitHub用户的当前本地时间.
-- [David](https://github.com/alanshaw/david) - 当你的包npm依赖项过期时告诉你.
+- [David](https://github.com/alanshaw/david) - 告诉你什么时候你的包npm依赖项已经过时了.
 - [http-server](https://github.com/indexzero/http-server) - 简单的零配置命令行HTTP服务器.
 - [Live Server](https://github.com/tapio/live-server) - 开发具有livereload功能的HTTP服务器.
 - [bcat](https://github.com/kessler/node-bcat) - 管道命令输出到Web浏览器.

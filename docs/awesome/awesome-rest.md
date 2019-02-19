@@ -171,7 +171,7 @@
 
 ### Mocking
 
-* [RequestBin](http://requestb.in/) - 检查和调试客户端或第三方API发送的webhook请求.
+* [RequestBin](https://requestbin.com/) - 检查和调试客户端或第三方API发送的webhook请求.
 * [httpbin](http://httpbin.org) -  HTTP请求和响应服务 - 用于HTTP的a / k / Swiss Army Knife.
 * [FakeRest](https://github.com/marmelab/FakeRest) - 修补XMLHttpRequest伪造REST API客户端.
 * [json-server](https://github.com/typicode/json-server) - 使用快速原型设计从夹具文件提供REST API.

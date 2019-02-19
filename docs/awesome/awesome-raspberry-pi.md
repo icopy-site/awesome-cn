@@ -87,7 +87,6 @@
 - [PiShrink](https://github.com/Drewsif/PiShrink/) -  Bash脚本自动缩小pi图像，然后在启动时将其调整为SD卡的最大大小.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 用于将Raspberry Pi设置为OpenVPN服务器的Shell脚本.
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)   - 用于创建raspberrypi.org Raspbian图像的工具.  这可以用于创建自己的自定义图像，并安装特定的包等.
-- [PiVPN](http://www.pivpn.io/) - 为您的Raspberry Pi提供简单，灵活和可管理的OpenVPN服务器单线安装.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 设置Pi Zero以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) - 简单的应用程序/存储库，将Raspberry Pi的wlan0接口桥接到通过以太网（eth0）插入的设备.
 - [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - 使用wifi设置生成wpa_supplicant.conf文件的简单工具

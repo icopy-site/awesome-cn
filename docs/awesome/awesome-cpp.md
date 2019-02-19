@@ -164,7 +164,7 @@
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
 * [C++React](https://github.com/schlangster/cpp.react)   -  C ++ 11的反应式编程库.  [促进]
 * [Intel Parallel STL](https://github.com/intel/parallelstl)   - 用于C ++ 11及更高版本的英特尔®C++ 17 STL实现.  [Apache2的]
-* [Intel TBB](https://www.threadingbuildingblocks.org/)   - 英特尔®线程构建模块.  [Apache2的]
+* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)   - 基于OpenCL的GPU加速SPH流体模拟库.  [MIT]
@@ -174,7 +174,7 @@
 * [moderngpu](https://github.com/moderngpu/moderngpu)   -  moderngpu是GPU上通用计算的生产力库.  它是为CUDA编写的仅标头C ++库.  该库的独特价值在于其加速原语，用于解决不规则并行问题.  [FreeBSD和版权所有，Sean Baxter]
 * [NCCL](https://github.com/NVIDIA/nccl)   - 用于集体多GPU通信的优化原语.  [BSD]
 * [OpenCL](https://www.khronos.org/opencl/) - 异构系统并行编程的开放标准.
-* [OpenMP](http://openmp.org/) - The OpenMP API.
+* [OpenMP](http://openmp.org/) -  OpenMP API.
 * [RaftLib](http://raftlib.io/) -  RaftLib C ++库，通过C ++类似iostream的运算符进行流/数据流并发[Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)   - 用于C ++的快速单生产者，单用户无锁无队列.  [BSD]
 * [Thrust](http://thrust.github.io/)   - 一个类似于C ++标准模板库（STL）的并行算法库.  [Apache2的]
@@ -519,6 +519,7 @@
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)   -  C ++ REST SDK（以前称为Casablanca）.  [Apache2的]
 * [Restbed](https://github.com/corvusoft/restbed)   -  C ++ 11异步RESTful框架.  [AGPL]
 * [c-ares](https://github.com/c-ares/c-ares)   - 用于异步DNS请求的AC库.  [MIT]
+* [cpp-httplib](https://github.com/yhirose/cpp-httplib)   - 单个文件C ++ 11仅限标头的HTTP / HTTPS服务器库.  [MIT]
 * [cpp-netlib](http://cpp-netlib.org/)   - 用于高级网络编程的开源库集合.  [促进]
 * [cpr](https://github.com/whoshuu/cpr)   - 具有简单但功能强大的接口的现代C ++ HTTP请求库.  以Python请求模块为模型.  [MIT] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp](https://github.com/JosephP91/curlcpp)   - 用于CURL（libcurl）的面向对象的C ++包装器.  [MIT]

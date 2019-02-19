@@ -24,6 +24,7 @@ Rust代码和资源的精选列表.
 * [Pijul](https://pijul.org) - 基于补丁的分布式版本控制系统
 * [Sandstorm Collections App](https://github.com/sandstorm-io/collections-app)
 * [Servo](https://github.com/servo/servo) - 原型Web浏览器引擎
+* [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - 用锈写的interative组装shell.
 
 ### Audio
 
@@ -231,6 +232,8 @@ Rust代码和资源的精选列表.
   * [japaric/xargo](https://raw.githubusercontent.com/japaric/xargo) - 轻松地将Rust程序交叉编译为自定义裸机目标，如ARM Cortex-M [<img src="https://api.travis-ci.org/japaric/xargo.svg?branch=master">](https://travis-ci.org/japaric/xargo)
 * Raspberry Pi
   * [Ogeon/rust-on-raspberry-pi](https://github.com/Ogeon/rust-on-raspberry-pi) - 有关如何为Raspberry Pi交叉编译Rust项目的说明.
+* Arduino
+  * [avr-rust/ruduino](https://github.com/avr-rust/ruduino) ^`^ t Arduino Uno的可重用组件.
 
 ### FFI
 
@@ -260,7 +263,7 @@ Rust代码和资源的精选列表.
   * [tickbh/td_rlua](https://raw.githubusercontent.com/tickbh/td_rlua) - 适用于Rust的零成本高级lua 5.3包装 [<img src="https://api.travis-ci.org/tickbh/td_rlua.svg?branch=master">](https://travis-ci.org/tickbh/td_rlua)
   * [tomaka/hlua](https://raw.githubusercontent.com/tomaka/hlua) - 与Lua接口的Rust库 [<img src="https://api.travis-ci.org/tomaka/hlua.svg?branch=master">](https://travis-ci.org/tomaka/hlua)
 * mruby
-  * [anima-engine/mrusty](https://raw.githubusercontent.com/anima-engine/mrusty) -  Rust的mruby安全绑定 [<img src="https://api.travis-ci.org/anima-engine/mrusty.svg?branch=master">](https://travis-ci.org/anima-engine/mrusty)
+  * [anima-engine/mrusty](https://raw.githubusercontent.com/anima-engine/mrusty) — mruby safe bindings for Rust [<img src="https://api.travis-ci.org/anima-engine/mrusty.svg?branch=master">](https://travis-ci.org/anima-engine/mrusty)
 * Node.js
   * [neon-bindings/neon](https://raw.githubusercontent.com/neon-bindings/neon) - 使用Node.js中的Rust [<img src="https://api.travis-ci.org/neon-bindings/neon.svg?branch=master">](https://travis-ci.org/neon-bindings/neon)
 *目标-C
@@ -294,7 +297,7 @@ Rust代码和资源的精选列表.
     * [rust-mode](https://github.com/rust-lang/rust-mode) -  Rust Major Mode
     * [flycheck-rust](https://github.com/flycheck/flycheck-rust) -  Rust支持 [Flycheck](https://github.com/flycheck/flycheck)
     * [emacs-racer](https://github.com/racer-rust/emacs-racer) - 自动完成（另见 [company](https://company-mode.github.io) 和 [auto-complete](https://github.com/auto-complete/auto-complete))
-    * [lsp-rust](https://github.com/emacs-lsp/lsp-rust) — Add rls support to [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
+    * [lsp-rust](https://github.com/emacs-lsp/lsp-rust) - 添加rls支持 [lsp-mode](https://github.com/emacs-lsp/lsp-mode)
   * [gitpod.io](https://gitpod.io) - 基于Rust语言服务器的完整Rust支持的在线IDE
   * [gnome-builder](https://wiki.gnome.org/Apps/Builder) 自版本3.22.2起，对生锈和货物的原生支持
   * [Kakoune](http://kakoune.org/)
@@ -303,7 +306,7 @@ Rust代码和资源的精选列表.
     * [drrb/rust-netbeans](https://github.com/drrb/rust-netbeans)
   * [IntelliJ](https://www.jetbrains.com/idea/)
     * [intellij-rust/intellij-rust](https://raw.githubusercontent.com/intellij-rust/intellij-rust) — [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
-    * [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) — basic Toml support
+    * [intellij-rust/intellij-toml](https://github.com/intellij-rust/intellij-toml) - 基本的Toml支持
   * [Ride](https://raw.githubusercontent.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
   * [SolidOak](https://github.com/oakes/SolidOak) - 一个简单的Rust IDE，基于GTK +和 [Neovim](https://github.com/neovim/neovim)
   * [Sublime Text](https://www.sublimetext.com/)
@@ -316,6 +319,7 @@ Rust代码和资源的精选列表.
 	* [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) — [LSP](https://microsoft.github.io/language-server-protocol/)  客户.  在Rust中实现并支持rls开箱即用.
   * 视觉工作室
     * [PistonDevelopers/VisualRust](https://raw.githubusercontent.com/PistonDevelopers/VisualRust) -  Rust的Visual Studio扩展 [<img src="https://api.travis-ci.org/PistonDevelopers/VisualRust.svg?branch=master">](https://travis-ci.org/PistonDevelopers/VisualRust)
+    * [dgriffen/rls-vs2017](https://raw.githubusercontent.com/dgriffen/rls-vs2017) -  Visual Studio 2017 Preview的Rust支持 [<img src="https://ci.appveyor.com/api/projects/status/d2lxlincwninhsng?svg=true">](https://ci.appveyor.com/project/dgriffen/rls-vs2017)
   * [Visual Studio Code](https://code.visualstudio.com/)
     * [rust-lang/rls-vscode](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust) - 对Visual Studio Code的Rust支持
     * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) -  LLDB扩展
@@ -657,7 +661,7 @@ Rust代码和资源的精选列表.
 *有
   * [mandrean/har-rs](https://github.com/mandrean/har-rs) -  HTTP存档格式（HAR）序列化和反序列化库 [![Build Status](https://api.travis-ci.org/mandrean/har-rs.svg?branch=master)](https://travis-ci.org/mandrean/har-rs)
 * HTML
-  * [servo/html5ever](https://raw.githubusercontent.com/servo/html5ever) - 高性能的浏览器级HTML5解析器 [<img src="https://api.travis-ci.org/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
+  * [servo/html5ever](https://raw.githubusercontent.com/servo/html5ever) — High-performance browser-grade HTML5 parser [<img src="https://api.travis-ci.org/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
   * [veddan/rust-htmlescape](https://raw.githubusercontent.com/veddan/rust-htmlescape) - 编码/解码HTML实体 [<img src="https://api.travis-ci.org/veddan/rust-htmlescape.svg?branch=master">](https://travis-ci.org/veddan/rust-htmlescape)
 * JSON
   * [pikkr/pikkr](https://github.com/pikkr/pikkr) [[pikkr](https://crates.io/crates/pikkr)]  -  JSON解析器直接获取值而不在Rust中执行标记化
@@ -786,7 +790,7 @@ Rust代码和资源的精选列表.
   * [dcampbell24/iup-rust](https://raw.githubusercontent.com/dcampbell24/iup-rust) -  IUP绑定 [<img src="https://api.travis-ci.org/dcampbell24/iup-rust.svg?branch=master">](https://travis-ci.org/dcampbell24/iup-rust)
   * [Kiss-ui](https://github.com/KISS-UI/kiss-ui) - 基于IUP构建的简单UI框架 [![Build Status](https://api.travis-ci.org/cybergeek94/kiss-ui.svg?branch=master)](https://travis-ci.org/cybergeek94/kiss-ui)
 * [libui](https://github.com/andlabs/libui)
-  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) -  libui绑定 [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs) .  被遗弃的项目.  最新的分支是 [NoraCodes/libui-rs](https://raw.githubusercontent.com/NoraCodes/libui-rs).
+  * [pcwalton/libui-rs](https://raw.githubusercontent.com/pcwalton/libui-rs) — libui bindings [<img src="https://api.travis-ci.org/pcwalton/libui-rs.svg?branch=master">](https://travis-ci.org/pcwalton/libui-rs) .  被遗弃的项目.  最新的分支是 [NoraCodes/libui-rs](https://raw.githubusercontent.com/NoraCodes/libui-rs).
 * [Nuklear](https://github.com/vurtun/nuklear)
   * [nuklear-rust](https://raw.githubusercontent.com/snuk182/nuklear-rust) -  Nuklear的Rust绑定 [<img src="https://api.travis-ci.org/snuk182/nuklear-rust.svg?branch=master">](https://travis-ci.org/snuk182/nuklear-rust)
 * [Qt](https://doc.qt.io)
@@ -994,7 +998,7 @@ Rust代码和资源的精选列表.
 ### Peripherals
 
 * 串行端口
-  * [Susurrus/serialport-rs](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)] — A cross-platform library that provides access to a serial port
+  * [Susurrus/serialport-rs](https://github.com/Susurrus/serialport-rs) [[serialport](https://docs.rs/serialport/3.0.0/serialport/)]  - 提供对串行端口的访问的跨平台库
 
 ## Resources
 

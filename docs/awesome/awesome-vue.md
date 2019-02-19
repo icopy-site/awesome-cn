@@ -496,7 +496,7 @@
 - [Coypu](https://github.com/bkzl/coypu) - 类似文本编辑的每周计划
 - [core-server](https://github.com/skyhark-projects/core-server) - 具有集成API系统和多种高级功能的高度可扩展的VueJs框架.
 - [discord-logo](https://github.com/NNTin/discord-logo)   - 基于SVG的Vue.js动画不和谐徽标生成器.  （[Github Page](https://nntin.github.io/discord-logo/))
-- [node-vue-template](https://github.com/mubaidr/node-vue-template) - 使用Node.js（API）和Vue.js（SPA）构建完整应用程序的初始模板，其中包含一些包含的包和配置，以帮助快速启动开发.
+- [node-vue-template](https://github.com/mubaidr/node-vue-template) - 使用Node.js（API）和Vue.js（SPA）构建完整应用程序的入门模板，其中包含一些包含的包和配置，以帮助您快速开始开发.
 - [vue-storefront](https://github.com/DivanteLtd/vue-storefront)   -  Vue.js店面 - 电子商务的PWA.  100％离线，平台无关，无头，支持Magento2.
 - [fd-vue](https://github.com/freedomotic/fd-vue-webapp) - 物联网框架的Vue.js客户端
 - [wildfire](https://github.com/cheng-kang/wildfire) - 其他评论插件的替代品.
@@ -540,7 +540,7 @@
 - [eth-vue](https://github.com/DOkwufulueze/eth-vue)  Truffle Box，提供快速构建具有Vue.js身份验证功能的Ethereum dApp所需的一切，包括可轻松部署到Ropsten Network的配置.  它也是启用Gravatar的.
 - [Nippon-color](https://github.com/ssshooter/nippon-color)  灵感来自nipponcolors dot com.  这是一个使用vue-cli 3的日本色PWA版本.
 - [Saleina CMS](https://github.com/saleina/SaleinaCMS) 使用git作为后端使用vue构建的静态站点内容管理系统.
-- [Vuido](https://github.com/mimecorg/vuido)  用于创建本机桌面应用程序的框架.  它可以在Windows，OS X和Linux上运行，使用本机GUI组件.
+- [Vuido](https://github.com/mimecorg/vuido)  用于创建本机桌面应用程序的框架.  它可以使用本机GUI组件在Windows，OS X和Linux上运行.
 - [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube视频/音频/字幕下载器+切割器
 - [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) 查看+ Pug + Stylus样板   
 - [Crypto News](https://github.com/Bartozzz/crypto-news) 允许您转换加密货币，查看每个ICO的最新新闻和汇率 - 来自一个地方的加密货币世界的所有数据.
@@ -1191,7 +1191,7 @@
  - [vue-goodshare](https://github.com/koddr/vue-goodshare)   - 具有漂亮按钮设计的社交分享的Vue.js组件.  简单的安装，广泛的文档，开发人员支持，SEO友好，干净的代码，没有脚本跟踪页面上的用户活动，高速.  使用Vue.js 2.x.
  - [vue-socialmedia-share](https://github.com/mbj36/vue-socialmedia-share) -  Vue.js组件，用于与Vue 2.X共享社交网络的链接
  - [vue-picture-sharesheet](https://github.com/Onatcer/vue-picture-sharesheet) -  Vue Picture Sharesheet Component受到Apple新闻室图像分享表的启发
- - [vue-twiiter](https://github.com/chiaweilee/vue-twitter) - 用于嵌入twitter小部件的Vue.js组件（例如时间轴，按钮）
+ - [vue-twitter](https://github.com/chiaweilee/vue-twitter) - 用于嵌入twitter小部件的Vue.js组件（例如时间轴，按钮）
 
 ### QR Code
 
@@ -2235,7 +2235,7 @@
  - [vue-2-crumbs](https://github.com/Suruat/vue-2-crumbs)   -  Vue.js 2框架的Breadcrumbs插件，允许在路由元对象中选择父路由而不需要子路由.  还允许使用动态数据.
  - [vue-pesdk](https://github.com/imgly/pesdk-wrapper-vuejs) Vue.js PhotoEditorSDK的包装器
  - [vue-resolve](https://github.com/javisperez/vue-resolve)
- 在进入/呈现该路线的组件之前解析路线数据.
+ 在输入/呈现该路线的组件之前解析路线数据.
 
 ### Miscellaneous
 - [vue-container](https://github.com/dealloc/vuec) -  Vue 2的简单依赖注入库.

@@ -21,6 +21,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) -  PowerShell模块，用于简单的Slack集成.
 - [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) - 一个模块，用于在powershell中使用Atlassian的Confluence进行交互（通过使用API​​）.
 - [JiraPS](https://atlassianps.org/module/JiraPS/) - 用于与PowerShell中的Atlassian的Jira交互的模块（通过使用API​​）.
+- [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) - 用于Telegram API的PowerShell模块
 
 ## Blogs
 
@@ -93,7 +94,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) -  Atom的PowerShell语言支持.
 
 ## Module Development Templates
-- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
+- [Plaster](https://github.com/PowerShell/Plaster) -  Plaster是一个用PowerShell编写的基于模板的文件和项目生成器.
 - [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - 使用此模块的低入口门槛和随意的便利性，在2分钟内开始使用模块模板.
 
 ## Frameworks
@@ -108,7 +109,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [PowershellGet](https://github.com/powershell/powershellget)   -  PowerShellGet是PowerShell的软件包管理器.  套餐可用 [PowerShellGallery](https://www.PowerShellGallery.com).
 - [PsGet](http://psget.net/) - 用于从中央目录，本地文件或Web安装模块的命令集.
 - [Chocolatey](https://chocolatey.org/)   -  Windows的包管理器.  在Windows上管理软件的理智方式.
-- [GitLab](https://github.com/akamac/GitLabProvider) - 使用GitLab服务器作为包提供程序.
+- [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 
 ## Parallel Processing
 

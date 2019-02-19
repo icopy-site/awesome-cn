@@ -35,7 +35,10 @@
 - [OCamlgraph](https://github.com/backtracking/ocamlgraph) -  OCaml的通用图库.
 - [ods](https://github.com/owainlewis/ods) -  OCaml的大量数据结构和算法.
 - [combine](https://github.com/backtracking/combine)   - 用于组合学的OCaml库 <https://www.lri.fr/~filliatr/combine/>  .
-- [Decompress](https://github.com/mirage/decompress) -  Zlib的纯OCaml实现
+- [Decompress](https://github.com/mirage/decompress) -  Zlib的纯OCaml实现.
+- [Ke](https://github.com/mirage/ke) - 在OCaml中快速实现队列（FIFO）.
+- [Duff](https://github.com/mirage/duff) - 由P. MacDonald在OCaml中实施Rabin的指纹和delta压缩（与...相同） [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+
 
 ## Application Libraries
 
@@ -69,7 +72,7 @@
 - [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)   - 在更多OCaml中，John Whitington使用OCaml进行了函数式编程的蜿蜒之旅，介绍了各种语言特性并描述了一些经典算法.  本书以一个处理PDF文件生成的大型工作示例结束.  每章都有问题以及有效的答案和提示.
 - [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  作者：Allen Downey和Nicholas Monje  - 如何像计算机一样思考科学家是一本基于OCaml语言的入门编程教科书.  它是Allen Downey对Think Python的修改版本.  它适用于新手编程，也适合那些了解某些编程但希望学习面向函数范式编程的人，或者那些只想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 作者：J.Whitington  - 来自Very Beginning的OCaml将吸引新的程序员和有经验的程序员，他们渴望探索OCaml等功能语言.
-- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  作者：Richard Bird  - 它总结了函数编程领域的30个硬算法问题.  虽然它适用于Haskell，但算法问题非常有趣，并且尝试在OCaml中解决它们也有助于思考函数式编程.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
+- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here](https://github.com/MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) 由Y. Minsky，A.Madhavapeddy和J. Hickey撰写 - 为群众提供功能性编程.
 - [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) 由X. Leroy和D.Rémy撰写 - 介绍Unix系统编程，重点介绍进程之间的通信.
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) - 本书描述了OCaml语言及其强大类型系统背后的理论基础.
@@ -120,7 +123,7 @@
   - [Sedlex](https://github.com/ocaml-community/sedlex) 是一个现代的，编码不可知的（读取：支持Unicode的）词法分析器生成器（基于ppx的后继者） [ulex](http://www.cduce.org/download.html#side).)
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir/) --Menhir是OCaml的LR（1）解析器生成器.
     - 见 [ocaml-parsing](https://github.com/smolkaj/ocaml-parsing) 有关使用Menhir和Sedlex生成有用解析器的更清晰示例，
-    - ... and [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个简洁的项目，为您的语法生成可读的LaTeX，HTML或纯文本EBNF风格的文档.
+    -  ......和 [Obelisk](https://github.com/Lelio-Brun/Obelisk)，一个简洁的项目，为您的语法生成可读的LaTeX，HTML或纯文本EBNF风格的文档.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) -  OCaml的lex和yacc实现.
   - [Angstrom](https://github.com/inhabitedtype/angstrom) - 用于速度和内存效率的分析器组合器
 -  **文章**：
@@ -197,6 +200,7 @@
   - [tuareg](https://github.com/ocaml/tuareg) -  Emacs的OCaml模式，可以在Emacs中运行顶层和调试器.
   - [merlin-eldoc](https://github.com/Khady/merlin-eldoc) -  Emacs包通过eldoc提供merlin的功能.
   - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml) - 提供OCaml语言支持的扩展 [VSCode](https://github.com/microsoft/vscode)
+  - [OCaml Debugger](https://github.com/hackwaly/ocamlearlybird) - 为OCaml调试器提供的扩展 [VSCode](https://github.com/microsoft/vscode)
   - [Sublime better ocaml](https://github.com/whitequark/sublime-better-ocaml) -  Sublime Text更好的OCaml模式.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
   - [ocp-index](http://www.typerex.org/ocp-index.html)   - 轻松访问已安装的OCaml库的接口信息.  提供独立的工具，如`ocp-browser`和`ocp-grep`.
@@ -278,7 +282,7 @@
 ## Logging
 
 - [dolog](https://github.com/UnixJunkie/dolog) - 一个愚蠢的OCaml记录器.
-- [Volt](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [Volt](https://github.com/codinuum/volt) -  Bolt OCaml测井工具的变体.
 - [Logs](http://erratique.ch/software/logs) -  Logs为OCaml提供日志记录基础结构.
 
 
@@ -485,7 +489,7 @@
     模块（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
   - [tyxml](http://ocsigen.org/tyxml) - 库构建有效（根据W3C规范）Html和Svg树.
-  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)   -  Js_of_ocaml是对Javascript的OCaml字节码的编译器.  它使得在Web浏览器中运行Ocaml程序成为可能.
+  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - 从js_of_ocaml项目轻松导入和导出CommonJS模块.
   - [BuckleScript](https://github.com/bloomberg/bucklescript)   -  BuckleScript是OCaml的后端，用于生成可调试的Javascript.  它使OCaml能够以无缝方式集成Javascript平台.
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) -  RFC3986 URI解析库.

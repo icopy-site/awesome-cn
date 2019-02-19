@@ -26,7 +26,7 @@
 ### API
 
 * [autorest](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
-* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
+* [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning) - 将服务API版本添加到ASP.NET Web API，使用ASP.NET Web API的OData和ASP.NET Core的库集.
 * [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) -  ASP.NET核心速率限制中间件.
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - 使用Kestrel和Consul的API冷凝器/反向代理，包括轻量级的consul库.
 * [Flurl](https://github.com/tmenier/Flurl) - 适用于.NET的Fluent URL构建器和可测试的HTTP [https://flurl.io](https://flurl.io).
@@ -46,7 +46,7 @@
 * [LightNode](https://github.com/neuecc/LightNode) - 基于OWIN构建的Micro RPC / REST Framework [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [NetCoreStack.Proxy](https://github.com/NetCoreStack/Proxy) - 适用于.NET Standard 2.0的类型安全的分布式REST库（NetCoreStack Flying Proxy）
 * [NSwag](https://github.com/RSuter/NSwag) - 用于.NET，Web API和TypeScript的Swagger / OpenAPI工具链. [http://NSwag.org](http://NSwag.org).
-* [OData](https://github.com/OData/WebApi/tree/feature/netcore) - The Open Data Protocol (OData) enables the creation of HTTP-based data services, which allow resources identified using Uniform Resource Identifiers (URIs) and defined in an abstract data model, to be published and edited by Web clients using simple HTTP messages.
+* [OData](https://github.com/OData/WebApi/tree/feature/netcore) - 开放数据协议（OData）支持创建基于HTTP的数据服务，这些服务允许使用统一资源标识符（URI）识别并在抽象数据模型中定义的资源，由Web客户端使用简单的HTTP消息进行发布和编辑.
 * [OpenAPI Generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (e.g. C#, TypeScript, etc), server stubs (ASP.NET Core, NancyFx, etc), documentation and configuration automatically given an OpenAPI Spec (v2, v3).
 * [refit](https://github.com/paulcbetts/refit) - 适用于Xamarin和.NET的自动类型安全REST库.
 * [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
@@ -84,7 +84,7 @@
 * [ExtCore](https://github.com/ExtCore) - 基于ASP.NET Core 1.0创建模块化和可扩展Web应用程序的免费，开源和跨平台框​​架.
 * [Finbuckle.MultiTenant](https://github.com/Finbuckle/Finbuckle.MultiTenant)   -  Finbuckle.MultiTenant是一个.NET标准库，用于为ASP.NET 2.0+设计的多租户支持.  它提供租户解析，每租户应用配置和每租户数据隔离的功能.
 * [fission](https://github.com/fission/fission) -  Kubernetes的快速无服务器功能.
-* [grpc](https://github.com/grpc/grpc/tree/master/src/csharp)   - 远程过程调用（RPC）为构建分布式应用程序和服务提供了有用的抽象.  此存储库中的库提供了gRPC协议的具体实现，通过HTTP / 2分层.  这些库使用受支持语言的任意组合实现客户端和服务器之间的通信.
+* [grpc](https://github.com/grpc/grpc/tree/master/src/csharp)   - 远程过程调用（RPC）为构建分布式应用程序和服务提供了有用的抽象.  此存储库中的库提供了gRPC协议的具体实现，通过HTTP / 2分层.  这些库使用支持的语言的任意组合实现客户端和服务器之间的通信.
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - 使用基于SSL的JSON-RPC的.NET安全通信堆栈.
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - 适用于.NET，.NET Core和Unity的基于gRPC的HTTP / 2 RPC流式处理框架.
 * [MassTransit](https://github.com/MassTransit/MassTransit) -  .NET分布式应用程序框架. 
@@ -198,9 +198,9 @@
 *代码分析
   * [DevSkim](https://github.com/Microsoft/DevSkim) - 一组IDE插件和规则，提供安全“linting”功能.
   * [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials) - 重构Visual Studio的Essentials.
-  * [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) - .NET Compiler Platform ("Roslyn") Analyzers.
+  * [roslyn-analyzers](https://github.com/dotnet/roslyn-analyzers) -  .NET编译器平台（“Roslyn”）分析器.
   * [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - 使用.NET编译器平台的StyleCop规则.
-*指标
+* Metrics
   * [AppMetrics](https://github.com/alhardy/AppMetrics) -  App Metrics是一个开源和跨平台的.NET库，用于记录和报告应用程序中的指标并报告其健康状况.
   * [Audit.NET](https://github.com/thepirat000/Audit.NET) - 审核.NET对象更改的小框架.
   * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - 强大的.NET库，用于基准测试.
@@ -235,7 +235,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
@@ -311,15 +311,15 @@
 * [ReactiveUI](https://github.com/reactiveui/ReactiveUI) - A MVVM framework that integrates with the Reactive Extensions for .NET to create elegant, testable User Interfaces that run on any mobile or desktop platform.
 * [Rx.NET](https://github.com/Reactive-Extensions/Rx.NET) -  [Reactive Extensions](http://reactivex.io) 对于.NET.
 * [Qactive](https://github.com/RxDave/Qactive)   - 反应性可查询可观察框架.  `4.xx或以上`
-* [sodium](https://github.com/SodiumFRP/sodium/tree/master/) - Functional Reactive Programming (FRP) Library. `4.x.x or above`
+* [sodium](https://github.com/SodiumFRP/sodium/tree/master/)   - 功能反应式编程（FRP）库.  `4.xx或以上`
 
 ### Graphics
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) -  GLFW的.NET绑定.
-* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) -  System.Drawing周围的流畅包装，用于处理图像文件 [http://imageprocessor.org](http://imageprocessor.org) .  `4.5.x或以上`
+* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files [http://imageprocessor.org](http://imageprocessor.org) .  `4.5.x或以上`
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Cross-platform library for processing of image files written in C#.
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp)：用于libvlc的.NET / Mono绑定，libvlc是为VideoLAN制作的VLC应用程序提供动力的多媒体框架.
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) -  ImageMagick的.NET库.
-* [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - 适用于.NET的MagicScaler高性能，高质量图像处理管道
+* [MagicScaler](https://github.com/saucecontrol/PhotoSauce) - MagicScaler high-performance, high-quality image processing pipeline for .NET
 * [QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation.
 * [SharpBgfx](https://github.com/MikePopoloski/SharpBgfx) - C# bindings for the bgfx graphics library.
 * [Structure.Sketching](https://github.com/JaCraig/Structure.Sketching) - 用于支持.NET Core的.NET应用程序的图像处理库.
@@ -411,7 +411,7 @@
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) -  Microsoft ASP.NET服务器端支持和jQuery DataTables的帮助程序.
 * [DinkToPdf](https://github.com/rdvojmoc/DinkToPdf) - C# .NET Core wrapper for wkhtmltopdf library that uses Webkit engine to convert HTML pages to PDF.
 * [dotnet-env](https://github.com/tonerdo/dotnet-env) - 用于从.env文件加载环境变量的.NET库.
-* [DotNet.Glob](https://github.com/dazinator/DotNet.Glob)   - 用于.NET / .NETStandard应用程序的快速通配库.  优于正则表达式.
+* [DotNet.Glob](https://github.com/dazinator/DotNet.Glob) - A fast globbing library for .NET / .NETStandard applications. Outperforms Regex.
 * [Dotnet outdated](https://github.com/jerriep/dotnet-outdated) - 一个.NET Core全局工具，用于在项目中显示过时的NuGet包.
 * [Dotnet Script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
 * [Dotnet Serve](https://github.com/natemcmaster/dotnet-serve) - 用于.NET Core CLI的简单命令行HTTP服务器.
@@ -457,7 +457,7 @@
 
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - 用于.NET的轻量级高性能对象/关系映射（ORM）库.
-* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
+* [Entity Framework Core](https://github.com/aspnet/EntityFramework) - 熟悉以前版本EF的开发人员经验，包括LINQ，POCO和Code First支持.
   * [EFCore.BulkExtensions](https://github.com/borisdj/EFCore.BulkExtensions) - 用于插入更新删除读取（CRUD）操作的EntityFrameworkCore批量批量扩展
   * [EntityFramework-Plus](https://github.com/zzzprojects/EntityFramework-Plus)   - 实体框架实用程序|  批量操作|  批量删除|  批量更新|  查询缓存|  查询过滤器|  查询未来|  查询包括|  审计.
   * [EntityFramework.Triggers](https://github.com/NickStrupat/EntityFramework.Triggers) - 触发EF的事件.
@@ -502,7 +502,7 @@
 * [MicroBus](https://github.com/Lavinski/Enexure.MicroBus) -  .NET中简单的进程中介.
 * [MQTTnet](https://github.com/chkr1011/MQTTnet) -  MQTTnet是一个用于基于MQTT的通信的高性能.NET库.
 * [netmq](https://github.com/zeromq/netmq) - 100% native C# implementation of ZeroMQ for .NET.
-* [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS)   - 用于DDD，CQRS和事件源的.NET核心库，具有Azure Service Bus集成.  Command和Event存储支持的数据库提供程序包括：DocumentDB，MongoDB，SQL Server，MySQL，PostgreSQL和SQLite.
+* [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS) - .NET Core library for DDD, CQRS and Event Sourcing with Azure Service Bus integration. Supported database providers for the Command and the Event stores are: DocumentDB, MongoDB, SQL Server, MySQL, PostgreSQL and SQLite.
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) -  RabbitMQ .NET客户端 [https://www.rabbitmq.com](https://www.rabbitmq.com).
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - 用于通过RabbitMq进行通信的现代.NET框架.
 * [Rebus](https://github.com/rebus-org/Rebus) -  .NET的简单和精简服务总线实现.
@@ -637,6 +637,7 @@
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用适用于GitHub的OctoLinker浏览器扩展，有效地浏览`projects.json`文件.
 * [posh-dotnet](https://github.com/bergmeister/posh-dotnet) - `PowerShell`选项卡完成 [dotnet CLI](https://github.com/dotnet/cli).
 * [Rin](https://github.com/mayuki/Rin)   -  ASP.NET Core的请求/响应Inspector中间件.  像Glimpse.
+* [scoop](https://github.com/lukesampson/scoop) -  Windows的命令行安装程序.
 * [SerilogAnalyzer](https://github.com/Suchiman/SerilogAnalyzer)   - 使用Serilog日志库对基于Roslyn的代码进行分析.  检查常见错误和使用问题.
 * [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
 * [ShareX](https://github.com/ShareX/ShareX)   - 免费和开源程序，可让您捕获或记录屏幕的任何区域，只需按一下键即可共享.  它还允许将图像，文本或其他类型的文件上传到80多个支持的目的地，您可以从中选择. [https://getsharex.com](https://getsharex.com)
