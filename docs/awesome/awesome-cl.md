@@ -94,7 +94,7 @@ Cryptocurrencies
 * [emotiq](https://github.com/emotiq/emotiq)   - 采用创新的自然语言方法实现智能合约的下一代区块链.  [MIT] [200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)   - 解析文件中包含的区块链，并将其部分数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)   - 该程序为您提供在10分钟，24小时，31天，90天和1年内生成POS或POW块的概率，以及可预期的奖励.  Qt中的GUI  [GPL3] [2].  不在Quicklisp.
-* [peercoin-vote](https://github.com/glv2/peercoin-vote)   - 基于区块链数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp.
+* [peercoin-vote](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (addresses and balances). [GPL3][2]. Not in Quicklisp.
 
 Database
 ========
@@ -103,7 +103,7 @@ ORMs
 ----
 
 *：明星： [clsql](http://www.cliki.net/CLSQL)   - 具有Common Lisp接口的SQL数据库.  [LLGPL] [8].
-*  [mito](https://github.com/fukamachi/mito) - 具有迁移，关系和PostgreSQL支持的Common Lisp的ORM [LLGPL] [8]. [mitho-auth](https://github.com/fukamachi/mito-auth), a mixin class for use authorization; [mito-attachment](https://github.com/fukamachi/mito-attachment)，一个用于RDBMS之外的文件管理的mixin类.
+*  [mito](https://github.com/fukamachi/mito) - 具有迁移，关系和PostgreSQL支持的Common Lisp的ORM [LLGPL] [8]. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个使用授权的混合类; [mito-attachment](https://github.com/fukamachi/mito-attachment)，一个用于RDBMS之外的文件管理的mixin类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)   -  Common Lisp的数据库独立接口.  [LLGPL] [8].
 * [crane](https://github.com/eudoxia0/crane)   - 另一个ORM.  [外籍] [14].
 * [datafly](https://github.com/fukamachi/datafly)   - 轻量级数据库库.  [3条款BSD] [15].
@@ -137,7 +137,7 @@ Wrappers
 Tools
 -----
 
-* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* [pgloader](https://github.com/dimitri/pgloader)   -  PostgreSQL的数据加载工具.  [PostgreSQL许可证] [205].
 
 
 数据结构
@@ -303,6 +303,7 @@ YAML
    一个可移植的库，用于检索函数的参数列表.  [艺术许可2.0] [51].
 * [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似setf的宏.
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].
+* [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
 
 
 CLOS扩展
@@ -661,7 +662,7 @@ Others
 * [maxima](http://maxima.sourceforge.net/)   - 计算机代数系统.  在Quicklisp上不可用.  [GNU GPL3] [2].
 * [lisp-matrix](https://github.com/blindglobe/lisp-matrix)   - 矩阵包.  [FreeBSD的] [39].
 * [3-matrices](https://shinmera.github.io/3d-matrices) - 图书馆实施
-  常见的矩阵计算，重点是2x2,3x3和4x4
+  common matrix calculations, with an emphasis on 2x2,3x3, and 4x4
    矩阵常用于图形中.  它提供了一些数字
    功能也是如此，但那些不是焦点.  图书馆是
   大大优化，所以它不是漂亮
@@ -767,7 +768,7 @@ Scripting
 * [SLIMV](https://github.com/kovisoft/slimv)   -  Vim的高级Lisp交互模式;  Vim中Common Lisp的完整环境.  未指定许可证.
 * [Vlime](https://github.com/l04m33/vlime)   -  VLIME：Vim加上Lisp是最邪恶的.  Vim（和Neovim）的Common Lisp开发环境.  [MIT] [200].
 * [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) - A Quicklisp frontend for Neovim.
-* [Slimv_box](https://github.com/justin2004/slimv_box) - 在Docker容器中使用slimv.
+* [Slimv_box](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
 
 
 ## Eclipse ##
@@ -951,6 +952,12 @@ Markdown
 
 * [3bmd](https://github.com/3b/3bmd)   - 降价 - &gt; HTML转换器.  [MY] [200].
 
+PDF
+---
+
+* [cl-typesetting](https://github.com/mbattyani/cl-typesetting) 和 [cl-pdf](https://github.com/mbattyani/cl-pdf)   - 用于生成PDF文件的跨平台Common Lisp库.  [FreeBSD的] [39].
+* [cl-pslib](http://quickdocs.org/cl-pslib/) - 围绕着一个（薄）包装纸 [pslib](http://pslib.sourceforge.net/)  用于生成PostScript文件的库.  也 [cl-pslib-barcode](http://quickdocs.org/cl-pslib-barcode/) .  [LLGPL] [8].
+
 Plotting
 --------
 
@@ -991,7 +998,7 @@ XML
 ===
 
 * [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
- * [丰满] [71]  - 一个宽松的XML解析器.  [艺术许可2.0] [51].
+ * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].
 * [xmls](http://quickdocs.org/xmls/)   - 一个小而简单，无需验证的XML解析器.  [3条款BSD] [15].

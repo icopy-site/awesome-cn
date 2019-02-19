@@ -22,7 +22,7 @@
 - [Serverless Weekly](https://serverless.email) - 关于无服务器架构和范例的每周简报.
 - [Serverless working group](https://github.com/cncf/wg-serverless) -  CNCF无服务器工作组.
 - [Serverless Summit](http://inserverless.com) - 关于无服务器技术/计算的会议.
-- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - 无服务器框架插件的目录.
+- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [OpenEvents](https://openevents.io) - 以通用方式描述事件数据的规范.
 - [The power of serverless](https://thepowerofserverless.info) - 概述为什么无服务器是一个很好的选择 - 特别是对于前端开发人员.
 
@@ -92,12 +92,13 @@
 - [Serverless Central](https://github.com/zotoio/serverless-central) - 样品Lambda monorepo.
 - [Tipe](https://tipe.io) - 下一代无服务器CMS.
 - [Spiderless](https://github.com/slashbit/spider-less) - 使用Lambda，API网关，DynamoDB和SNS构建的网络蜘蛛/刮刀/网站更改检测器.
+- [PriceTrack](https://github.com/duyetdev/pricetrack)   - 用于电子商务价格跟踪的API /网站.  内置Firebase功能和Firebase托管功能.
 
 ## Related projects
 
 - [FaaS boilerplates](https://github.com/hasura/cloud-functions-boilerplates) - 与Hasura GraphQL Engine的事件触发器配合使用的FaaS产品的Boilerplates.
 - [CloudCompose](https://cloudcompose.io) - 用于无服务器功能和工作流程的开放社区市场.
-- [Mutton](https://github.com/hmngwy/mutton) - A Python shim library for better AWS Lambda handlers.
+- [Mutton](https://github.com/hmngwy/mutton) - 用于更好的AWS Lambda处理程序的Python填充程序库.
 - [Begin](https://begin.com) - 使用数据库，会话和完整的CI / CD创建AWS无服务器应用程序，API和站点.
 - [Operiant](https://operiant.com) - 将事件流连接到操作.
 - [TriggerMesh](https://triggermesh.com) - 具有事件触发器库的无服务器云，以实现混合云和工作负载可移植性.

@@ -336,7 +336,7 @@ AWS Repos：
 * [cloudreach / scepter]：fire :: fire :: fire：]（https://github.com/cloudreach/sceptre） - 用于自动化CloudFormation的CLI工具.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - 用于创建描述的Python库.
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - 管理堆栈.
-* [envato/stack_master :fire:](https://github.com/envato/stack_master) - 用于管理CloudFormation堆栈的CLI工具.
+* [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - 用于管理CloudFormation堆栈的CLI工具.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - 用于堆栈管理的CLI.
 * [sparkleformation/sparkle_formation :fire:](https://github.com/sparkleformation/sparkle_formation) - 用于模板创建的Ruby DSL.
 * [Stelligent/cfn_nag :fire::fire:](https://github.com/stelligent/cfn_nag) -  CloudFormation模板的Linting工具

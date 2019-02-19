@@ -154,6 +154,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - 面向Adobe AIR的面向对象语言.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -  JVM的函数编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要. 
 
 
 ## Front-End Development
@@ -219,7 +220,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
-- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
+- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 
@@ -326,15 +327,15 @@
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
-- [Godot](https://github.com/Calinou/awesome-godot#readme) - Game engine.
+- [Godot](https://github.com/Calinou/awesome-godot#readme) - 游戏引擎.
 - [Open Source Games](https://github.com/leereilly/games#readme)
-- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - Game engine.
+- [Unity](https://github.com/RyanNielson/awesome-unity#readme) - 游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
-- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - Game engine.
+- [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - 游戏引擎.
 - [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - 梦幻控制台.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
-- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - Game engine.
-- [Gideros](https://github.com/stetso/awesome-gideros#readme) - Game engine.
+- [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
+- [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 
 
 ## Development Environment
@@ -364,7 +365,7 @@
 
 - [Science Fiction](https://github.com/sindresorhus/awesome-scifi#readme) - 科幻.
 - [Fantasy](https://github.com/RichardLitt/awesome-fantasy#readme)
-- [Podcasts](https://github.com/guipdutra/awesome-geek-podcasts#readme)
+- [Podcasts](https://github.com/ayr-ton/awesome-geek-podcasts#readme)
 - [Email Newsletters](https://github.com/zudochkin/awesome-newsletters#readme)
 - [IT Quotes](https://github.com/victorlaerte/awesome-it-quotes#readme)
 
@@ -500,7 +501,6 @@
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
 - [Tools](https://github.com/cjbarber/ToolsOfTheTrade#readme)
-- [Styleguides](https://github.com/RichardLitt/awesome-styleguides#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)

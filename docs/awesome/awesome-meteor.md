@@ -40,7 +40,7 @@
 
 *模板助手*
 
-* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) -  UI组件和帮助程序，可以轻松创建具有自动插入和更新事件的基本表单，以及自动反应验证.
+* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) -  Meteor包：替换已定义的模板，从其他模板继承帮助程序和事件.
 * [kadira:blaze-layout](https://github.com/kadirahq/blaze-layout) -  Blaze布局管理器（适用于Meteor FlowRouter）
 * [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - 流星的高性能无限滚动视图
@@ -75,7 +75,7 @@
 * [meteor-up](https://github.com/arunoda/meteor-up) - 流星部署.
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - 在Meteor上使用collection2和简单模式进行自动数据库迁移
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) -  Meteor的简单迁移系统
-* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
+* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - 即使在DDP连接生效之前渲染您的应用程序
 * [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - 快速渲染的活动分支
 * [meteorhacks:cluster](https://github.com/meteorhacks/cluster) -  Meteor的集群解决方案，具有负载平衡和服务发现功能
 * [yogiben:admin](https://github.com/yogiben/meteor-admin) - 完整的管理仪表板解决方案
@@ -155,6 +155,7 @@
 * [AnyChart-Meteor](https://github.com/AnyChart/AnyChart-Meteor) - 该软件包提供了一种在Meteor中使用AnyChart JavaScript图表组件的简单方法.
 * [aldeed:tabular](https://github.com/aldeed/meteor-tabular) - 用于大型或小型数据集的反应性数据表.
 * [luixal:blaze-paginated-custom-list](https://github.com/luixal/meteor-blaze-paginated-custom-list) - 反应和分页项目列表.
+* [luixal:meteor-apexcharts](https://github.com/luixal/meteor-apexcharts) - 为Meteor打包的Reactive ApexCharts库.
 
 ## Analytics
 
@@ -213,6 +214,7 @@
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - 使用Meteor开发的开源商务平台
 * [Crowducate Platform](https://github.com/Crowducate/crowducate-platform) - 开源教育平台由流星提供支持
 * [Orion CMS](http://orionjs.org/)
+* [Rocket.Chat](https://rocket.chat/)
 
 ## Front End Frameworks
 

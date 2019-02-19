@@ -37,6 +37,7 @@
 - [Atom](https://github.com/atom/atom) - 代码编辑器.
 - [Visual Studio Code](https://github.com/Microsoft/vscode) - 跨平台IDE.
 - [Brave](https://github.com/brave/browser-laptop) - 以隐私为中心的网络浏览器.
+- [Wexond](https://github.com/sential/wexond) - 具有材料UI和扩展API的Web浏览器.
 
 ###### Other
 
@@ -75,7 +76,7 @@
 - [Markn](https://github.com/minodisk/markn) -  Markdown查看器.
 - [Shiba](https://github.com/rhysd/Shiba) - 带有linting的实时降价预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 您的菜单栏中的YouTube音乐播放器.
-- [TimoFM](https://github.com/sapjax/TimoFM) -  DoubanFM音乐播放器.
+- [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
 - [Tèsèvè](https://teseve.github.io) - 静态网络服务器.
 - [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的DevDocs.io应用程序.
@@ -121,7 +122,7 @@
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - 追踪你的时间.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - 专业的出版平台.
 - [Mattermost](https://github.com/mattermost/desktop) -  Mattermost客户.
-- [PupaFM](https://github.com/xwartz/PupaFM) -  DoubanFM音乐播放器.
+- [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - 非官方媒体应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - 图像查看器.
 - [Crypter](https://github.com/HR/Crypter) - 安全加密客户端.
@@ -153,7 +154,6 @@
 - [Cerebro](https://github.com/KELiON/cerebro) - 具有内联预览的启动器.
 - [Desktop Dimmer](https://github.com/sidneys/desktop-dimmer) - 控制任何显示器的亮度.
 - [LosslessCut](https://github.com/mifi/lossless-cut) - 无损视频修剪和切割.
-- [Wexond](https://github.com/sential/wexond) - 具有材料UI和扩展API的Web浏览器.
 - [Buka](https://github.com/oguzhaninan/Buka) - 电子书管理.
 - [Insomnia](https://github.com/getinsomnia/insomnia) - 创建和管理HTTP请求.
 - [Tusk](https://github.com/champloohq/tusk) - 非官方的Evernote应用程序.
@@ -165,13 +165,15 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - 非官方的Google Inbox应用.
-- [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
+- [FreeMAN](https://github.com/matthew-matvei/freeman) - 高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄计时器.
 - [Pretzel](https://github.com/amiechen/pretzel) - 显示和搜索当前应用的键盘快捷键.
 - [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的Visualizer.
 - [Ao](https://github.com/klauscfhq/ao) - 非官方的Microsoft To-Do应用程序.
 - [Etcher](https://github.com/resin-io/etcher) -  Flash OS映像到SD卡和USB驱动器.
+- [Noty](https://github.com/fabiospampinato/noty) - 在单个窗口中自动保存便签，支持多个音符.
+- [Notable](https://github.com/fabiospampinato/notable) - 基于Markdown的笔记记录.
 
 ### Closed Source
 
@@ -288,7 +290,7 @@
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - 为窗户添加活力（模糊）.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - “关于此应用程序”窗口.
 - [elemon](https://github.com/manidlou/elemon) - 在开发过程中实时重新加载您的应用.
-- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - 检查字符串是否是有效的加速器.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - 在浏览器窗口中查看PDF文件.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - 路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - 读取和写入用户设置到磁盘.
@@ -302,6 +304,7 @@
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -  Chromium的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行Electron.
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成电子API和角度.
 
 ### Using Electron
 
@@ -312,7 +315,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 
@@ -352,6 +355,7 @@
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -  Realm用Electron重写了他们的数据库浏览器应用程序，以获得跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作和发布Electron应用程序到Mac App Store的旅程的5部分系列.
 - [Building a file explorer with Electron, Quasar, and Vue](https://medium.com/quasar-framework/building-an-electron-file-explorer-with-quasar-and-vue-7bf94f1bbf6) - 专注于设计和代码决策以及电子安全性.
+- [Using Google Analytics to gather usage statistics in Electron](https://kilianvalkhof.com/2018/apps/using-google-analytics-to-gather-usage-statistics-in-electron/) - 如何收集匿名用户统计信息.
 
 
 ## Books

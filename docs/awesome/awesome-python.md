@@ -146,9 +146,10 @@
 
 * [PySpark](https://pypi.python.org/pypi/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
 * [dask](https://dask.pydata.org/en/latest/) - 用于分析计算的灵活并行计算库.
-* [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 这是Python.
+* [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
 * [luigi](https://github.com/spotify/luigi) - 一个模块，可帮助您构建批处理作业的复杂管道.
 * [mrjob](https://github.com/Yelp/mrjob) - 在Hadoop或Amazon Web Services上运行MapReduce作业.
+* [Ray](https://github.com/ray-project/ray/) - 用于并行和分布式Python的系统，它统一了机器学习生态系统.
 * [streamparse](https://github.com/Parsely/streamparse) - 通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
 
 ## Code Analysis
@@ -227,7 +228,7 @@
 * [multiprocessing](https://docs.python.org/3/library/multiprocessing.html) - （Python标准库）用于异步执行callables的高级接口.
 * [eventlet](http://eventlet.net/) - 支持WSGI的异步框架.
 * [gevent](http://www.gevent.org/) - 使用的基于协程的Python网络库 [greenlet](https://github.com/python-greenlet/greenlet).
-* [SCOOP](https://github.com/soravux/scoop) - Scalable Concurrent Operations in Python.
+* [SCOOP](https://github.com/soravux/scoop) -  Python中的可扩展并发操作.
 * [Tomorrow](https://github.com/madisonmay/Tomorrow) - 异步代码的魔术装饰器语法.
 * [uvloop](https://github.com/MagicStack/uvloop) - 在libuv上快速实现asyncio事件循环.
 
@@ -243,7 +244,7 @@
 
 ## Cryptography
 
-* [cryptography](https://cryptography.io/en/latest/) - A package designed to expose cryptographic primitives and recipes to Python developers.
+* [cryptography](https://cryptography.io/en/latest/) - 旨在向Python开发人员公开加密原语和配方的包.
 * [Paramiko](http://www.paramiko.org/) -  SSHv2协议的Python（2.6 +，3.3 +）实现，提供客户端和服务器功能.
 * [Passlib](https://passlib.readthedocs.io/en/stable/) - 安全密码存储/散列库，非常高级别.
 * [PyNacl](https://github.com/pyca/pynacl) -  Python绑定到网络和加密（NaCl）库.
@@ -479,7 +480,7 @@
 
 *用于Python版本和环境管理的库.*
 
-* [Pipenv](https://github.com/kennethreitz/pipenv) -  Pipfile，Pip和Virtualenv的神圣婚姻.
+* [Pipenv](https://github.com/kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
 * [p](https://github.com/qw3rtman/p) - 死简单的交互式Python版本管理.
 * [pyenv](https://github.com/pyenv/pyenv) - 简单的Python版本管理.
 * [venv](https://docs.python.org/3/library/venv.html) - （Python 3.3+中的Python标准库）创建轻量级虚拟环境.
@@ -525,7 +526,7 @@
 * [CyToolz](https://github.com/pytoolz/cytoolz/) -  Toolz的Cython实现：高性能功能实用程序.
 * [fn.py](https://github.com/kachayev/fn.py) -  Python中的函数编程：实现缺少的功能以享受FP.
 * [funcy](https://github.com/Suor/funcy) - 一个奇特而实用的功能工具.
-* [Toolz](https://github.com/pytoolz/toolz) - 迭代器，函数和字典的函数实用程序的集合.
+* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
 
 ## GUI
 

@@ -5,7 +5,7 @@
 &gt;灵感来自 [@sindresorhus](https://github.com/sindresorhus)&#39;[awesome] [sindresorhus]并通过这些改进**[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
 
 如果您想贡献，请先阅读[CONTRIBUTING.md] [贡献].
-它包含许多提示和指导，以帮助保持组织有序.
+It contains a lot of tips and guidelines to help keep things organized.
 只需单击[README.md] [editreadme]即可提交[pull request] [editreadme].
  如果此列表未完成，您可以[贡献] [editreadme]来完成此操作.  这是一个很棒的视频教程，可以学习如何操作 [contribute on Github](https://egghead.io/lessons/javascript-identifying-how-to-contribute-to-an-open-source-project-on-github)
 
@@ -93,7 +93,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [bocker](https://github.com/p8952/bocker) （1）：头骨： -  Docker在100行bash中实现 [p8952](https://github.com/p8952)
 - [box](https://github.com/box-builder/box) - 使用mruby DSL构建Dockerfile映像，包括展平和图层处理
 - [Capitan](https://github.com/byrnedo/capitan) - 可组合的docker业务流程，增加了脚本支持 [@byrnedo](https://github.com/byrnedo).
-- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过Docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
+- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过以下方式从docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
 - [Composerize](https://github.com/magicmark/composerize) - 将docker run命令转换为docker-compose文件
 - [crowdr](https://github.com/polonskiy/crowdr) - 用于管理多个Docker容器的工具（`docker-compose`替代） [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - 将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)
@@ -165,9 +165,9 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Flow Swarm Listener](https://github.com/vfarcic/docker-flow-swarm-listener)   -  Docker Flow Swarm Listener项目是监听Docker Swarm事件并在发生更改时发送请求.  由[@vfarcic] [vfarcic]
 - [gantryd](https://github.com/DevTable/gantryd) ：skull： - 一个框架，用于轻松管理跨机器的基于docker的组件 [@DevTable](https://github.com/DevTable)
 - [Haven](https://github.com/codeabovelab/haven-platform)   -  Haven是一个简化的容器管理平台，集成了容器，应用程序，集群，映像和注册表管理.  通过 [@codeabovelab](https://github.com/codeabovelab)
-- [Helios](https://github.com/spotify/helios) - 通过[@spotify] [spotify]在整个服务器队列中部署和管理容器的简单平台
+- [Helios](https://github.com/spotify/helios) ：skull： - 通过[@spotify] [spotify]在整个服务器队列中部署和管理容器的简单平台
 - [Kontena](https://github.com/kontena/kontena) - 群众应用容器 [website](https://www.kontena.io/)
-- [Kubernetes](https://github.com/kubernetes/kubernetes) -  Google的Docker容器的开源编排系统
+- [Kubernetes](https://github.com/kubernetes/kubernetes) - Open source orchestration system for Docker containers by Google
 - [ManageIQ](https://github.com/ManageIQ/manageiq)   - 发现，优化和控制您的混合IT.  通过 [ManageIQ](https://github.com/ManageIQ)
 - [Mantl](https://github.com/mantl/mantl) -  Mantl是一个快速部署全球分布式服务的现代平台
 - [Marathon](https://github.com/mesosphere/marathon)   -  Marathon是一款基于Mesos的私人PaaS.  它会自动处理硬件或软件故障，并确保应用程序“始终开启”
@@ -192,7 +192,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 -  [OpenShift] [openshift]  - 基于[Kubernetes] [kubernetes]构建的开源PaaS，针对Dockerized应用程序开发和部署进行了优化 [Red Hat](https://www.redhat.com/en)
 - [Tsuru](https://github.com/tsuru/tsuru) -  Tsuru是一个可扩展的开源平台即服务软件
 - [Workflow](https://github.com/deis/workflow) -  Kubernetes的开源PaaS [Deis](https://github.com/deis) .  以前是Deis v1.
-- [ZEIT Now](https://github.com/zeit/now-cli) :heavy_dollar_sign: - A universal serverless single-command deploy for Node.js applications or any application with a Dockerfile.
+- [ZEIT Now](https://github.com/zeit/now-cli) ：heavy_dollar_sign： -  Node.js应用程序或具有Dockerfile的任何应用程序的通用无服务器单命令部署.
 
 ### Reverse Proxy
 
@@ -237,7 +237,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)   -  Blockbridge插件是一个卷插件，可以访问一组可扩展的基于容器的持久存储选项.  它支持单主机和多主机Docker环境，其功能包括租户隔离，自动配置，加密，安全删除，快照和QoS.  通过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)   - 一个开源的Docker卷驱动程序，可以在任何地方快照，备份和恢复Docker卷.  由[@rancher] [牧场主]
-- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为OS X上通过Docker Machine创建的现有boot2docker框激活NFS.
+- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison)  使用Unison进行快速双向文件夹同步的docker卷容器.  创建作为OS X上缓慢boot2docker卷的替代方法 [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/CWSpear/local-persist) 为本地卷指定一个挂载点（通过`docker volume create`创建），这样文件将始终保持不变，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) -  Docker容器中的S3兼容对象存储服务器
@@ -313,7 +313,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [amicontained](https://github.com/genuinetools/amicontained)   - 容器内省工具.  找出正在使用的容器运行时以及[@genuinetools] [genuinetools]提供的功能
 - [autodock](https://github.com/prologic/autodock) -  Docker Automation的守护进程 [@prologic](https://github.com/prologic)
-- [Chaperone](https://github.com/garywiz/chaperone) - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by [@garywiz](https://github.com/garywiz)
+- [Chaperone](https://github.com/garywiz/chaperone)   - 为docker容器设计的单个PID1进程.  用户管理，日志管理，启动，僵尸收获，都在一个小包装中.  通过 [@garywiz](https://github.com/garywiz)
 -  [CoreOS] [coreos]  - 用于大规模服务器部署的Linux
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 通过[@GoogleContainerTools] [googlecontainertools]减去语言的码头图像，减去操作系统
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - 一个超级小型Docker基础图像_（5MB）_使用Alpine Linux by [@gliderlabs] [gliderlabs]
@@ -349,7 +349,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [kaniko](https://github.com/GoogleContainerTools/kaniko)   - 在Kubernetes建立容器图像.  通过[@GoogleContainerTools] [googlecontainertools]
 - [makisu](https://github.com/uber/makisu)   - 优步为Mesos和Kubernetes提供快速灵活的无特权图像构建器，支持分布式缓存.  通过 [@uber](https://github.com/uber)
 - [MicroBadger](https://microbadger.com) - 分析图像的内容并添加元数据标签
-- [packer](https://www.packer.io/docs/builders/docker.html) - Hashicorp tool to build machine images including docker image integrated with configuration management tools like chef, puppet, ansible
+- [packer](https://www.packer.io/docs/builders/docker.html) -  Hashicorp工具，用于构建机器映像，包括与配置管理工具（如chef，puppet，ansible）集成的docker映像
 - [portainer](https://github.com/duedil-ltd/portainer) - 用于构建Docker镜像的Apache Mesos框架 [@duedil-ltd](https://github.com/duedil-ltd)
 - [runlike](https://github.com/lavie/runlike) - 通过运行容器生成`docker run`命令和选项 [@lavie](https://github.com/lavie)
 - [SkinnyWhale](https://github.com/djosephsen/skinnywhale) ：头骨： -  Skinnywhale帮助你制作更小的（如兆字节）Docker容器.

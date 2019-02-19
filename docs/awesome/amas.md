@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="sindresorhus/amas"></div>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →问我什么
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
 #### Ask these people anything!
 
@@ -61,7 +61,7 @@
 - [JD Ballard](https://github.com/Qix-/ama)   - 爱达荷州人，Chalk合作者，阳光烧伤我们.  喜欢假设，不喜欢蜜蜂.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - 充满激情的全栈开发人员，黑客入侵 [ArchLinux](https://www.archlinux.org/) .  完美主义者.  革命家.  创始人 [@RegexHQ](https://github.com/regexhq)，核心成员 [@JSTransformers](https://github.com/jstransformers) 和部分 [@dwylhq](https://twitter.com/dwylhq).
 - [Mohamad Jahani](https://github.com/mamal72/ama)   - 来自伊朗的软件开发人员，主要从事网络后端，\ n * nix服务器，电子设备和您可以想象的最酷的东西！  知识瘾君子，全天候阅读和工作.
-- [Justin Miller](https://github.com/incanus/ama) -  Mapbox的移动领导，以前的Code Sorcery Workshop（Pukka / Meerkat），摄影师，旅行者.
+- [Justin Miller](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama)   -  Coder＆Rabbi（尽管很少在同一时间！）;  Grovo工程实践经理;  组织者，ShorePHP和NYPHP;  会议发言人;  导师.
 - [Graham Daniels](https://github.com/greydnls/ama) - 高级软件工程师 [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 - [Jeff Carouth](https://github.com/jcarouth/ama) - 领导平台工程师 [Liftopia](http://www.liftopia.com)，共同主持人 [Loosely Coupled Podcast](http://looselycoupled.info)，导师和会议发言人.
@@ -76,7 +76,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - 用户界面领导 [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners) .  产品和工具的建造者.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - 工程师 [Mapbox](https://www.mapbox.com/)，的创造者 [Leaflet](http://leafletjs.com/) 和一堆 [other open source libraries](https://github.com/mourner/projects) .  构建交互式地图的未来.
 - [Claudio Procida](https://github.com/claudiopro/ama)   - 全栈Web开发人员，导师，传播者和演讲者.  对绘画和摄影充满热情.
-- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+- [Zeno Rocha](https://github.com/zenorocha/ama) - 开发者倡导者 [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt](https://github.com/kahlil/ama) -  JavaScript开发人员，组织KarlsruheJS，共同主持人 [Descriptive Podcast](http://descriptive.audio) 和 [Reactive Podcast](http://reactive.audio)，歌手.
 - [Vadim Demedes](https://github.com/vdemedes/ama) -  Node.js上瘾.
 - [Raymond Clanan](https://github.com/rclanan/ama) - 自由职业者全栈开发者 [Utopian Concept LLC](http://utopianconcept.com/).
@@ -92,7 +92,7 @@
 - [Camilo Nova](https://github.com/camilonova/ama) - 哥伦比亚的全栈软件开发人员.
 - [Jon Moss](https://github.com/maclover7/ama)   -  Rails开发人员.  平均青少年.  Ruby on Rails问题小组的成员.
 - [Seth Alexander](https://github.com/itzsaga/ama) - 免费Code Camper，Burgeoning Dev，所有JavaScript.
-- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/)，作者 [Esprima](https://github.com/jquery/esprima) 和 [PhantomJS](http://phantomjs.org).
+- [Ariya Hidayat](https://github.com/ariya/ama) - 工程副总裁 [Shape Security](https://shapesecurity.com/)，作者 [Esprima](https://github.com/jquery/esprima) 和 [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama)   -  VoIP开发人员，IPv6和安全宣传员，DevOps的支持者.  目前在 [Sangoma](https://www.sangoma.com).
 - [Amit Merchant](https://github.com/amitmerchant1990/ama) - 使用JavaScript，PHP和Java的全栈开发人员.
 - [William Oliveira](https://github.com/woliveiras/ama) - 前端开发人员（巴西人）使用JavaScript，Angular，Stylus，Gulp，Git等.阅读更多关于我的信息 [my blog](http://woliveiras.com.br).
@@ -158,6 +158,7 @@
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 - [Emanuele Bartolesi](https://github.com/kasuken/ama)   - 全栈Web开发人员.  道德黑客.  初学者铁人三项运动员.
 - [Brad Garropy](https://github.com/bradgarropy/ama) -  Python DevOps at [Dell](https://www.delltechnologies.com) 白天，威士忌和JavaScript之夜.
+- [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
 
 #### Ask these organizations anything!
 
@@ -170,6 +171,7 @@
 - [HackCU](https://github.com/HackCU/ama) - 科罗拉多大学的一个大学黑客马拉松，为学生提供免费的双年度活动，让他们学习编码或推动他们的技能建设.
 - [Ansible Taiwan](https://github.com/ansible-tw/ama) - 帮助台湾的Ansible用户提出任何问题.
 - [IIIT Vadodara](https://github.com/iiitv/aua) - 由大学生维护的开源组织.
+- [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - 爱 [making](https://nikitavoloboev.xyz/projects/) 和 [sharing](https://wiki.nikitavoloboev.xyz/sharing)  的东西.  建造 [Learn Anything](https://learn-anything.xyz), [Enpicom](https://www.enpicom.com) 和 [tools](https://wiki.nikitavoloboev.xyz/sharing/my-github).
 
 
 ---

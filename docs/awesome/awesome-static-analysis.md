@@ -81,6 +81,7 @@
 * [CBMC](http://www.cprover.org/cbmc/) - 用于C程序的有界模型检查器，用户定义的断言，标准断言，若干覆盖度量分析
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - 铿锵静态分析
 * [CMetrics](https://github.com/MetricsGrimoire/CMetrics) - 测量C文件的大小和复杂性
+* [Codecheker](https://github.com/Ericsson/codechecker) - 使用Web GUI对C / C ++代码进行静态分析
 * [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) ：copyright： - 高级，完整的程序，深入的​​路径，C和C ++的静态分析，具有易于理解的解释和代码以及路径可视化.
 * [Corrode](https://github.com/jameysharp/corrode)   - 从C到Rust的半自动翻译.  可以通过显示Rust编译器警告和错误来揭示原始实现中的错误.
 * [cppcheck](https://github.com/danmar/cppcheck) -  C / C ++代码的静态分析
@@ -227,7 +228,7 @@
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
 * [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
-* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码的清洁和一致性.
+* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码清洁和一致.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.
@@ -270,7 +271,7 @@
 * [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) - 查找已弃用（Symfony）代码的用法
 * [deptrac](https://github.com/sensiolabs-de/deptrac) - 实施软件层之间依赖关系的规则.
 * [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) - 检测PHP代码中的设计模式
-* [EasyCodingSt和ard](https://github.com/Symplify/EasyCodingSt和ard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+* [EasyCodingSt和ard](https://github.com/Symplify/EasyCodingSt和ard) - 结合 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 和 [PHP-CS-Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
 * [exakat](https://github.com/exakat/exakat) -  PHP的自动代码审查引擎
 * [GrumPHP](https://github.com/phpro/grumphp) - 检查每次提交的代码
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 一组使用图论的静态分析和重构工具
@@ -331,7 +332,7 @@
 * [PyT - Python Taint](https://github.com/python-security/pyt) - 用于检测Python Web应用程序中的安全漏洞的静态分析工具.
 * [radon](https://github.com/rubik/radon) - 一个Python工具，用于计算源代码中的各种指标
 * [vulture](https://github.com/jendrikseipp/vulture) - 在Python代码中查找未使用的类，函数和变量
-* [xenon](https://github.com/rubik/xenon) - 使用监控代码复杂性 [`radon`](https://github.com/rubik/radon)
+* [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
 
@@ -342,7 +343,7 @@
 
 ## R
 
-* [lintr](https://github.com/jimhester/lintr) ：copyright： -  R的静态代码分析
+* [lintr](https://github.com/jimhester/lintr) -  R的静态代码分析
 
 ## RPG
 

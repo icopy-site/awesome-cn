@@ -21,6 +21,7 @@
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - 将Preact与create-react-app一起使用而不弹出.
 - [Preact CLI PostCSS](https://github.com/SaraVieira/preact-cli-postcss) - 它删除了Preact CLI上的默认postcss配置，因此您可以使用postcss.config.js.
 - [Create Preact App](https://github.com/just-boris/create-preact-app) - 创建没有构建配置的Preact应用程序.
+- [Storybook Preact](https://github.com/storybooks/storybook/tree/next/app/preact) -  Preact的故事书是Preact组件的UI开发环境.
 
 ### Boilerplates
 - [Official Boilerplate](https://github.com/developit/preact-boilerplate) - 由Webpack提供支持的Ready-to-rock Preact启动项目.

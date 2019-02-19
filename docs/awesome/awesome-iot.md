@@ -61,7 +61,7 @@
 #### Frameworks
 
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) -  AllJoyn是一个开源软件框架，使设备和应用程序可以轻松地相互发现和通信.
- - [Apple HomeKit](https://developer.apple.com/homekit/) -  HomeKit是用于与用户家中的连接附件进行通信和控制的框架.
+ - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
  - [Astarte](https://github.com/astarte-platform/astarte)   -  Astarte是一个用Elixir编写的开源IoT平台.  它是一个交钥匙解决方案，包含将设备机群连接到一组远程应用程序所需的一切.  它可以执行数据建模，自动数据缩减，实时事件，并为您提供在现代物联网平台中可能期望的任何功能.  目前，使用提供的SDK即可支持Linux和ESP32设备.
  - [Blynk](http://www.blynk.cc)   -  Blynk是一个为连接的东西创建iOS和Android应用程序的平台.  只需拖放小部件（就在智能手机上），您就可以轻松地为所有项目构建图形界面.  支持以太网，WiFi，蓝牙，GSM / GPRS，USB /串行连接，支持Arduino，Raspberry，ARM mbed，Particle，RedBear等各种原型平台.
  - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
@@ -78,6 +78,7 @@
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源IoT网关 - 使用OPC-UA和MQTT协议将连接到传统和第三方系统的设备与Thingsboard IoT平台集成.
  - [Pimatic](https://pimatic.org/)   -  Pimatic是一个在node.js上运行的家庭自动化框架.  它为家庭控制和自动化任务提供了一个通用的可扩展平台.
  - [IOTA](https://iota.org/)   - 用于物联网的开源分布式分类账协议.  使用有向无环图（DAG）而不是区块链.
+ - [MyController](https://github.com/mycontroller-org/mycontroller)   - 开源控制器.  MyController.org是家庭，办公室或任何地方的物联网自动化控制器.
 
 #### Middlewares
 
@@ -166,7 +167,7 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
  6LoWPAN是IPv6 over Low power Wireless Personal Area Networks的首字母缩写.  6LoWPAN是IETF互联网领域已结束工作组的名称.   -  [Wikipedia](https://en.wikipedia.org/wiki/6LoWPAN)
 
-> The 6LoWPAN concept originated from the idea that "the Internet Protocol could and should be applied even to the smallest devices,"and that low-power devices with limited processing capabilities should be able to participate in the Internet of Things.
+&gt; 6LoWPAN概念源于“互联网协议可以并且应该应用于最小的设备”的想法，并且具有有限处理能力的低功耗设备应该能够参与物联网.
  6LoWPAN组定义了封装和报头压缩机制，允许通过基于IEEE 802.15.4的网络发送和接收IPv6数据包.  IPv4和IPv6是用于局域网，城域网和诸如因特网的广域网的数据传输的工作.  同样，IEEE 802.15.4设备在无线域中提供感测通信能力.  然而，两个网络的固有性质是不同的.
 
 #### <img width="50" src="https://www.digi.com/getattachment/resources/standards-and-technologies/thread-networking-protocol/thread-logo.png" /> - [Thread](http://threadgroup.org/) (Thread Group)

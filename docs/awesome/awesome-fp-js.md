@@ -13,7 +13,7 @@
 * [Ramda Adjunct](https://github.com/char0n/ramda-adjunct) 是Ramda的社区维护扩展.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) 是一组仅由Ramda函数组成的实用程序无点函数.
 * [Rambda](https://github.com/selfrefactor/rambda) - 在10kB以下更快的替代Ramda.
-* [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
+* [Folktale](http://folktale.origamitower.com/) - 用于JavaScript函数编程的标准库.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - 一个实例 [Lodash](https://github.com/lodash/lodash) 将其方法包装起来，以生成不可变的，自动curried，iteratee-first，data-last方法.
 * [functional.js](http://functionaljs.com) - 轻量级功能JavaScript库，便于currying和无点/默认编程.
 * [101](https://github.com/tjmehta/101) - 一个现代的模块化JavaScript实用程序库，可以很好地与vanilla JavaScript方法配合使用.
@@ -45,6 +45,7 @@
 * [pareto-js](https://github.com/concretesolutions/pareto.js/) - 用于JavaScript的极小，直观且快速的功能实用程序库
 * [fpEs](https://github.com/TeaEntityLab/fpEs/) - 一个小型库提供简单的基本FP和模式匹配/ sumtype和MonadIO / Rx＆可选的Javascript用法
 * [Creed](http://blog.briancavalier.com/creed/) - 具有高级功能的复杂和功能强大的异步：协程，承诺，ES2015迭代，幻想 - 土地.
+* [TGrid](https://github.com/samchon/tgrid) - 网格计算框架，网络和线程扩展 [TSTL](https://github.com/samchon/tstl)，支持RFC（远程函数调用）.
 
 ### Data Structures
 
@@ -82,14 +83,14 @@ Write performant functional code by using the right data structures for the task
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds)   -  Haskell包的端口Data.Aviary.Birds.  一切都满足您的组合需求.
 * [crocks](https://github.com/evilsoft/crocks) - 一系列流行的代数数据类型，其主要目标是策划并提供每种类型之间的通用接口，以及实现所需的所有辅助功能.
 * [kudo-js](https://github.com/blitzritz/kudojs) - 一个小实用程序库，带有一组代数数据类型和辅助函数，可帮助您在Javascript函数编程风格中编写代码
-* [purify](https://github.com/gigobyte/purify) - 针对ADT的TypeScript功能编程库
+* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先，自以为是，功能强大的语言，旨在与JavaScript引擎100％兼容
 
 ### Lenses
 
 * [lenses](https://github.com/DrBoolean/lenses) - 可组合 [kmett](https://github.com/ekmett/lens) 风格镜片.
 * [optics](https://github.com/flunc/optics) -  Profunctor光学器件（透镜，棱镜，iso）.
-* [ramda-lens](https://github.com/ramda/ramda-lens) – :ram: :mag_right: Lens library built on Ramda.
+* [ramda-lens](https://github.com/ramda/ramda-lens) - ：ram :: mag_right：在Ramda上构建的镜头库.
 * [fantasy-lenses](https://github.com/fantasyland/fantasy-lenses)   - 可组合，不可变的getter和setter.  （Profunctor镜头WIP）
 * [nanoscope](https://github.com/5outh/nanoscope) - 镜头支持.
 * [partial.lenses](https://github.com/calmm-js/partial.lenses) - 部分镜头是一个全面的，高性能的JavaScript光学库.
@@ -157,6 +158,7 @@ Write performant functional code by using the right data structures for the task
 * [Anonymous Recursion in JavaScript](https://dev.to/simov/anonymous-recursion-in-javascript) - 关于在JavaScript中实现匿名递归的简短易懂的文章.
 * [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/) - 逐步说明如何在javascript中编写函数.
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f) - 学习函数式编程概念的实用代码示例，如纯函数，不变性，一等实体和高阶函数
+* [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - 在Javascript，Maybe＆Either中介绍2个简单的monad.
 
 ### Videos
 
@@ -198,7 +200,7 @@ Write performant functional code by using the right data structures for the task
 
 ## Contribution
 
- ：明星：欢迎提出建议和PR！  ：星：
+:star: Suggestions and PRs are welcome! :star:
 
 请阅读 [contribution guidelines](https://github.com/stoeffel/awesome-fp-js/blob/master/./contributing.md) 开始.
 
