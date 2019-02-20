@@ -26,7 +26,6 @@
 * [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell]  - 基于Storm的精确一次语义的分布式流处理.
 * [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java]  - 使用交互式prototying shell SOL（Stream Operator Language）进行简单优雅的流处理
 * [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C ++]  - 在Apache Mesos之上用C ++构建的分布式流处理框架，专为需要灵活性和控制的高性能数据处理作业而设计.
-* [StreamBox](https://engineering.purdue.edu/~xzl/xsel/p/streambox/) - 一个现代流处理引擎，可以处理无序流数据，并以低延迟实现高吞吐量.
 * [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python]  - 超快速弹性数据处理引擎.  大数据或快速数据 - 无需大惊小怪，无需Java.
 * [SABER](https://github.com/lsds/Saber) [Java / C]  - 基于窗口的混合CPU / GPU流处理引擎.
 * [Onyx](https://github.com/onyx-platform/onyx) [Clojure]  - 分布式，无主，高性能，容错数据处理.
@@ -41,7 +40,7 @@
 * [monix](https://github.com/monix/monix) [Scala]  - 用于组合异步和基于事件的程序的高性能Scala / Scala.js库.
 * [Benthos](https://github.com/Jeffail/benthos) [Go]  -  Benthos是一种高性能且有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作，转换和过滤
 * [Bistro Streams](https://github.com/asavinov/bistro) [Java]  - 一个轻量级流处理库，用于流分析，通过从根本上改变处理方式（流）数据，列存储为数据库做了什么.
-* [Streamline](https://github.com/hortonworks/streamline) [Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
+* [Streamline](https://github.com/hortonworks/streamline)  [Java]  -  Hortonworks的Stream Analytics Framework，旨在作为Storm等现有流媒体解决方案的包装器.  旨在允许用户拖放流组件以专注于业务逻辑.
 * [StreamAlert](https://github.com/airbnb/streamalert) [Python]  -  Airbnb的实时数据分析和警报.
 
 ### Streaming Application
@@ -59,7 +58,7 @@
 * [coast](https://github.com/bkirwi/coast) [Scala]  - 一种在Samza之上构建DAG并提供完全一次语义的DSL.
 * [Apache Beam](https://github.com/apache/beam) [Java]  - 统一模型和一组特定于语言的SDK，用于定义和执行数据处理工作流，以及数据提取和集成流程，支持企业集成模式（EIP）和域特定语言（DSL），由Google开源.
 * [Esper](https://github.com/espertechinc/esper) [Java]  - 用于复杂事件处理（CEP）和事件序列分析的组件.
-* [Streamparse](https://github.com/Parsely/streamparse) [Python]  - 允许您通过Apache Storm针对实时数据流运行Python代码.
+* [Streamparse](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
 
 ### Data Pipeline
 
