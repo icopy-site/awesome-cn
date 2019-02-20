@@ -58,7 +58,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Where to start (Windows)
 
-- [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
+- [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker镜像并运行Windows容器
 - [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) 通过 [@kaitoedter](https://twitter.com/kaitoedter)
 - [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - 您将学习如何识别适合集装箱化的.NET Framework应用程序类型，即容器化的“提升 - 移位”方法.
@@ -93,7 +93,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [bocker](https://github.com/p8952/bocker) （1）：头骨： -  Docker在100行bash中实现 [p8952](https://github.com/p8952)
 - [box](https://github.com/box-builder/box) - 使用mruby DSL构建Dockerfile映像，包括展平和图层处理
 - [Capitan](https://github.com/byrnedo/capitan) - 可组合的docker业务流程，增加了脚本支持 [@byrnedo](https://github.com/byrnedo).
-- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过以下方式从docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
+- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过Docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
 - [Composerize](https://github.com/magicmark/composerize) - 将docker run命令转换为docker-compose文件
 - [crowdr](https://github.com/polonskiy/crowdr) - 用于管理多个Docker容器的工具（`docker-compose`替代） [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - 将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)

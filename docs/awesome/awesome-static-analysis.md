@@ -92,6 +92,7 @@
 * [flawfinder](http://www.dwheeler.com/flawfinder/) - 发现可能存在的安全漏洞
 * [flint++](http://l2program.co.uk/category/flint) -  flint的跨平台，零依赖端口，在Facebook开发和使用的C ++的lint程序.
 * [Frama-C](http://frama-c.com/) - 用于C代码的声音和可扩展静态分析器
+* [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright： - 嵌入式软件的企业级静态分析.  支持MISRA，CERT和AUTOSAR编码标准.
 * [IKOS](https://github.com/nasa-sw-vnv/ikos) - 基于LLVM的C / C ++代码的声音静态分析器
 * [include-gardener](https://github.com/feddischson/include_gardener) - a static analyzer for C/C++/Obj-C to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
 * [oclint](http://oclint.org/) -  C / C ++代码的静态分析
@@ -228,7 +229,7 @@
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
 * [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
-* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码清洁和一致.
+* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码的清洁和一致性.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.
@@ -289,7 +290,7 @@
 * [php7cc](https://github.com/sstalle/php7cc) -  PHP 7兼容性检查器
 * [php7mar](https://github.com/Alexia/php7mar) - 帮助开发人员快速将代码移植到PHP 7
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 检测违反一组定义的编码标准
-* [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) - 查找非内置扩展的使用情况
+* [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) - Finds usage of non-built-in extensions
 * [phpcf](http://wapmorgan.github.io/PhpCodeFixer/) - 查找已弃用的PHP功能的使用
 * [phpcpd](https://github.com/sebastianbergmann/phpcpd) -  PHP代码的复制/粘贴检测器.
 * [phpdcd](https://github.com/sebastianbergmann/phpdcd) - 用于PHP代码的死代码检测器（DCD）.
@@ -305,9 +306,9 @@
 * [phpsa](https://github.com/ovr/phpsa) -  PHP的静态分析工具.
 * [PHPStan](https://github.com/phpstan/phpstan) -  PHP静态分析工具 - 发现代码中的错误而不运行它！
 * [Progpilot](https://github.com/designsecurity/progpilot) - 用于安全目的的静态分析工具
-* [Psalm](https://getpsalm.org/) - Static analysis tool for finding type errors in PHP applications
+* [Psalm](https://getpsalm.org/) - 用于在PHP应用程序中查找类型错误的静态分析工具
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - 可视化指标和源代码
-* [RIPS](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
+* [RIPS](https://github.com/ripsscanner/rips) - 用于PHP脚本漏洞的静态源代码分析器
 * [Tuli](https://github.com/ircmaxell/Tuli) - 静态分析引擎
 * [twig-lint](https://github.com/asm89/twig-lint) -  twig-lint是你的twig文件的lint工具.
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - 用于检测和纠正PHP（4.0或更高版本）Web应用程序中的输入验证漏洞的工具，并通过组合静态分析和数据挖掘来预测误报.
@@ -325,7 +326,7 @@
 * [py-find-injection](https://github.com/uber/py-find-injection) - 在Python代码中查找SQL注入漏洞
 * [pycodestyle](https://github.com/PyCQA/pycodestyle) - （以前称为“pep8”）根据PEP 8中的一些样式约定检查Python代码
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - 检查是否符合Python文档字符串约定
-* [pyflakes](https://github.com/pyflakes/pyflakes/) - 检查Python源文件是否有错误
+* [pyflakes](https://github.com/pyflakes/pyflakes/) - check Python source files for errors
 * [pylint](https://github.com/PyCQA/pylint)   - 查找编程错误，帮助强制执行编码标准并嗅探某些代码异味.  它还包括`pyreverse`（一个UML图生成器）和`symilar`（一个相似性检查器）.
 * [pyre-check](https://github.com/facebook/pyre-check) - 适用于大型Python代码库的快速，可扩展的类型检查器
 * [pyroma](https://github.com/regebro/pyroma) - 评估Python项目符合Python打包生态系统最佳实践的程度，并列出可以改进的问题
@@ -343,11 +344,14 @@
 
 ## R
 
+* [cyclocomp](https://github.com/MangoTheCat/cyclocomp) - 量化R函数/表达式的圈复杂度.
+* [goodpractice](http://mangothecat.github.io/goodpractice/) - 分析R包的源代码并提供最佳实践建议.
 * [lintr](https://github.com/jimhester/lintr) -  R的静态代码分析
+* [styler](https://styler.r-lib.org/) -  R源代码文件的格式化和R代码的漂亮打印.
 
 ## RPG
 
-* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) ：copyright： -  RPG III和RPG IV版本的静态代码分析（包括自由格式）
+* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) :copyright: - Static Code Analysis for RPG III and RPG IV versions (including free-form)
 
 ## Ruby
 
@@ -491,7 +495,7 @@
 
 ## Config Files
 
-* [dotenv-linter](https://github.com/wemake-services/dotenv-linter) -  Linting dotenv文件就像一个魅力.
+* [dotenv-linter](https://github.com/wemake-services/dotenv-linter) - Linting dotenv files like a charm.
 * [gixy](https://github.com/yandex/gixy)   - 分析Nginx配置的工具.  主要目标是防止错误配置并自动进行缺陷检测.
 
 ## Configuration Management
@@ -500,7 +504,7 @@
 * [cfn-lint](https://github.com/awslabs/cfn-python-lint) -  AWS Labs CloudFormation linter.
 * [cfn_nag](https://github.com/stelligent/cfn_nag) -  AWS CloudFormation模板的linter.
 * [cookstyle](https://docs.chef.io/cookstyle.html) -  Cookstyle是一款基于RuboCop Ruby linting工具的linting工具，适用于Chef cookbook
-* [foodcritic](http://www.foodcritic.io/) - A lint tool that checks Chef cookbooks for common problems.
+* [foodcritic](http://www.foodcritic.io/) - 一个lint工具，可检查Chef cookbook中的常见问题.
 * [Puppet Lint](https://github.com/rodjek/puppet-lint) - 检查您的Puppet清单是否符合样式指南.
 * [tflint](https://github.com/wata727/tflint) - 用于检测“terraform plan”无法检测到的错误的Terraform linter.
 

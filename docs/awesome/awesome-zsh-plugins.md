@@ -745,6 +745,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [bunnyruni](https://github.com/jopcode/oh-my-zsh-bunnyruni-theme) - 简洁，干净，美丽的主题.
 * [bureau](https://github.com/isqua/bureau)   - 一个清晰，信息丰富的双线提示.  包括针对大型存储库优化的git状态.
 * [candy-light](https://github.com/NicolaiRuckel/oh-my-zsh-candy-light) - 糖果主题的轻型版本.
+* [cayun](https://github.com/comeacrossyun/ys-cayun.zsh-theme) - 在提示符中显示活动的Python版本和`git`装饰.
 * [chaotic-beef](https://github.com/ARtoriouSs/chaotic-beef-zsh-theme)   -  Oh-My-Zsh的一个小巧而美丽的主题，没有任何多余的东西.  包括`git`状态装饰.
 * [charged](https://github.com/robwierzbowski/charged-zsh-theme) - 为ZSH优化的ZSH提示 [solarized](https://github.com/altercation/solarized) 黑暗的终端主题.
 * [cherry](https://github.com/feddamisch/zsh-theme-cherry) - 在正确的提示中使用`git`状态装饰的酷主题.

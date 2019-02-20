@@ -5,7 +5,7 @@
 
 精选的不需要身份验证的JSON数据集的精选列表.
 
-&gt; *月份链接：* [Foreign Exchange Rates](https://exchangeratesapi.io/)
+&gt; *月份链接：* [Open Source Licenses approved by the OSI on ZingGrid](https://github.com/jdorfman/awesome-json-datasets/blob/master/ https://app.zingsoft.com/demos/create/8KZ22YOL)
 
 _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
 

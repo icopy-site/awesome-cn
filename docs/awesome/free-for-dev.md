@@ -51,6 +51,9 @@
   * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
+  * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
+  * [IP2Location](https://www.ip2location.com)   - 免费IP地理定位服务.  LITE数据库可免费下载.  在服务器中导入数据库并执行本地查询以确定城市，坐标和ISP信息.
+  * [FraudLabs Pro](https://www.fraudlabspro.com)   - 筛选信用卡付款欺诈的订单交易.  此REST API将根据订单的输入参数检测所有可能的欺诈特征.  Free Micro计划每月有500笔交易.
 
 ## Artifact Repos
 
@@ -96,7 +99,7 @@
   * [codeclimate.com](https://codeclimate.com/) - 自动代码审查，免费开源
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
   * [coveralls.io](https://coveralls.io/) - 显示免费的开源测试覆盖率报告
-  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
+  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - 连续检测平台，免费开源
   * [codecov.io](https://codecov.io/) - 代码覆盖工具（SaaS），开源免费
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) -  PHP / Symfony项目的代码质量，开源免费
   * [codacy.com](https://codacy.com/) - 针对开源软件免费提供PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查
@@ -109,7 +112,7 @@
   * [gtmetrix.com](https://gtmetrix.com/) - 优化网站的报告和全面建议
   * [browserling.com](https://www.browserling.com/) - 实时交互式跨浏览器测试，在Vista下以1024 x 768分辨率在MS IE 9上免费使用3分钟
   * [shields.io](https://shields.io) - 开源项目的质量元数据标记
-  * [beanstalkapp.com](https://beanstalkapp.com/) - 编写，审查和部署代码的完整工作流程，1个用户的免费帐户和1个100 MB存储库
+  * [beanstalkapp.com](https://beanstalkapp.com/) - 完整的编写，审查和部署代码的工作流程），1个用户的免费帐户和1个100 MB存储库
   * [testanywhere.co](https://testanywhere.co/) - 持续自动测试网站或网络应用程序，并在早期阶段捕获错误，每月免费1,000次测试
   * [blamewarrior.com](https://blamewarrior.com/) - 自动为新拉取请求分配审阅者的工具，并跟踪开源的免费审查流程统计
   * [gerrithub.io](https://review.gerrithub.io/) - 免费为GitHub存储库提供Gerrit代码审查
@@ -120,7 +123,7 @@
 ## Code Search and Browsing
 
   * [codota.com](https://www.codota.com/)   -  Codota通过提供从世界上所有代码中学到的见解，帮助开发人员更快地创建更好的软件.  插件可用.
-  * [libraries.io](https://libraries.io/) - 针对32个不同包管理器的搜索和依赖关系更新通知，免费提供开源
+  * [libraries.io](https://libraries.io/) — Search and dependency update notifications for 32 different package managers, free for open source
   * [sourcegraph.com](https://sourcegraph.com/) -  Java，Go，Python，Node.js等，代码搜索/交叉引用，开源免费
   * [searchcode.com](https://searchcode.com/) - 全面的基于文本的代码搜索，免费开源
 
@@ -307,7 +310,7 @@
   * [wedeploy.com](https://wedeploy.com/)   -  WeDeploy为您提供预定义的服务，可以加快您的开发过程.  免费计划：1 GB传输，1 GB内存，1个CPU，512 MB存储，2个服务实例，2个项目
   * [cloud.google.com](https://cloud.google.com/appengine/) -  Google App Engine提供28个小时/天免费，1 GB NoSQL数据库等
   * [engineyard.com](https://www.engineyard.com/) -  Engine Yard提供500个免费小时
-  * [azure.microsoft.com](https://azure.microsoft.com/) — MS Azure gives USD 200 worth of free usage for a trial
+  * [azure.microsoft.com](https://azure.microsoft.com/) -  MS Azure为试用提供价值200美元的免费使用
   * [appharbor.com](https://appharbor.com/) - 提供1名免费工作人员的.Net PaaS
   * [heroku.com](https://www.heroku.com/) - 在云端托管您的应用，免费提供单一流程应用
   * [firebase.google.com](https://firebase.google.com) - 构建实时应用程序，免费计划有100个最大连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
@@ -317,7 +320,7 @@
   * [mendix.com](https://www.mendix.com/) - 企业快速应用程序开发，无限数量的免费沙箱环境，支持10个用户，100 MB文件和100 MB数据库存储
   * [pythonanywhere.com](https://www.pythonanywhere.com/)   - 云Python应用托管.  初学者帐户是免费的，1个Python web应用程序位于your-username.pythonanywhere.com域，512 MB私有文件存储，一个MySQL数据库
   * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限，但没有资源限制
-  * [zeit.co/now](https://zeit.co/now) — Managed platform for Node.js, static sites and Docker deployments. Limited to 3 concurrent instances, 1 GB storage and 1 GB bandwidth for OSS projects (source files are exposed on a public URL)
+  * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
@@ -326,7 +329,7 @@
 
   * [blockspring.com](https://www.blockspring.com/)   - 云功能.  每月免费运行500万次
   * [postgress.com](https://www.progress.com/kinvey)   - 移动后端，入门计划具有无限的请求/秒，具有1 GB的数据存储.  企业应用支持
-  * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000/month, and 1000 data objects in table.
+  * [backendless.com](https://backendless.com/) - 移动和Web Baas，免费提供1 GB文件存储，推送通知50000 /月，表中有1000个数据对象.
    * [hasura.io](https://www.hasura.io/) - 用于单节点群集快速，免费构建和部署应用后端的平台.
   * [pusher.com](https://pusher.com/beams/)   -  2000个月活跃用户的免费无限推送通知.  适用于iOS和Android设备的单一API.
   * [layer.com](https://layer.com/) - 用于通信的全栈构建块
@@ -351,11 +354,11 @@
 ## Web Hosting
 
   * [pages.github.com](https://pages.github.com/) - 直接从GitHub存储库托管静态站点
-  * [sourceforge.net](https://sourceforge.net/) - 免费查找，创建和发布开源软件
+  * [sourceforge.net](https://sourceforge.net/) — Find, Create and Publish Open Source software for free
   * [devport.co](http://devport.co/) - 将GitHub项目，应用程序和网站转变为个人开发者组合
   * [netlify.com](https://www.netlify.com/) - 构建，部署和托管静态站点或应用程序，免费提供100 GB数据和100 GB /月带宽
   * [sanity.io](https://www.sanity.io/)   - 使用React构建的可定制MIT许可编辑器的结构化内容的托管后端.  无限的项目.  每个项目免费提供3个用户，2个数据集，500k API CDN请求，5GB资产
-  * [pantheon.io](https://pantheon.io/) — Drupal and WordPress hosting, automated DevOps and scalable infrastructure. Free for developers and agencies
+  * [pantheon.io](https://pantheon.io/)   -  Drupal和WordPress托管，自动化DevOps和可扩展的基础架构.  开发人员和代理商免费
   * [acquia.com](https://www.acquia.com/)   - 托管Drupal网站.  开发人员免费套餐.  免费开发工具（如Acquia Dev Desktop）也可用
   * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
@@ -445,7 +448,7 @@
    * [vivifyscrum.com](https://vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [overv.io](https://overv.io/) - 为喜欢GitHub的团队提供敏捷的项目管理
-   * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
+   * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
    * [contriber.com](https://contriber.com/) - 可定制的项目管理平台，免费入门计划，5个工作区
    * [planitpoker.com](https://planitpoker.com/) - 免费在线策划扑克（估算工具）
    * [ubertesters.com](https://ubertesters.com/) - 测试平台，集成和众筹，2个项目，5个成员
@@ -484,7 +487,7 @@
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
   * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
-  * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
+  * [resizeappicon.com](https://resizeappicon.com/) — A simple service to resize and manage your app icons
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
@@ -505,12 +508,12 @@
    * [giscloud.com](https://giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
    * [osmnames](https://osmnames.org/) - 地理编码，搜索结果按相关维基百科页面的流行度排名
-   * [tilehosting](https://www.tilehosting.com/) — Vector maps, map services and SDKs for map visualisation. Free vector tiles with weekly update and four map styles.
+   * [tilehosting](https://www.tilehosting.com/)   - 用于地图可视化的矢量地图，地图服务和SDK.  免费矢量瓷砖每周更新和四种地图样式.
    * [here](https://developer.here.com/)   - 用于地图和位置感知应用的API和SDK.  每月250k笔交易免费.
 
 ## Package Build System
 
-   * [build.opensuse.org](https://build.opensuse.org/) - 多个发行版的包构建服务（SUSE，EL，Fedora，Debian等）
+   * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) - 针对Fedora和EL的基于模拟的RPM构建服务
    * [help.launchpad.net](https://help.launchpad.net/Packaging) -  Ubuntu和Debian构建服务
 

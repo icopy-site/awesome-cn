@@ -72,6 +72,7 @@
 
 ## News
 
+- [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230)  作者：Liz Clark  -  Apress.  CircuitPython（MicroPython的一个分支，从头开始设计为初学者友好.）这允许最终用户使用Python作为他们的电子硬件项目，类似于他们可能已经使用Arduino IDE的C / C ++.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - 方法eZine：设计趋势和万物转换功能Python硬件，第35页 -  [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) -  CircuitPython通过专题文章和项目在HackSpace杂志上进行了封面.
 - [CircuitPython in 2019](https://blog.adafruit.com/2018/12/17/what-do-you-want-from-circuitpython-in-2019-circuitpython2019-circuitpython/) - 社区呼吁在2019年的CircuitPython中获得所需和需要的东西.
