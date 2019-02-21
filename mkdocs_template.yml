@@ -24,8 +24,8 @@ theme:
     - 404.html
   language: 'zh'
   palette:
-    primary: 'white'
-    accent: 'red'
+    primary: 'indigo'
+    accent: 'indigo'
   logo:
     icon: 'school'
   font:
