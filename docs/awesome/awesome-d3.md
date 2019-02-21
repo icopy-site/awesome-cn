@@ -25,6 +25,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3.chart.sankey](https://github.com/q-m/d3.chart.sankey) - 可重复使用的D3 Sankey图
 - [d3-bar](https://github.com/tj/d3-bar) - 条形图
 - [d3-beeswarm](https://github.com/Kcnarf/d3-beeswarm) - 插件，计算一个beeswarm安排
+- [d3-boxplot](https://github.com/akngs/d3-boxplot) -  d3js box plot插件
 - [d3-bumps-chart](https://github.com/johnwalley/d3-bumps-chart) - 用于可视化颠簸图表的插件
 - [d3-circle](https://github.com/tj/d3-circle) - 圆圈图[圆环]
 - [d3-dag](https://github.com/erikbrinkman/d3-dag) - 用于可视化定向acylic图的布局算法

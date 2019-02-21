@@ -18,7 +18,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bisect](https://github.com/spider-gazelle/bisect) - 将值插入已排序的数组中
  * [bitfields](https://github.com/elorest/bitfields)   -  BitFields的Pure Crystal实现.  处理字节的编码/解码.
  * [CrOTP](https://github.com/philnash/crotp) - 用于双因素身份验证的HOTP和TOTP实现
- * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - A Crystal sequence differencing implementation
+ * [crystal-diff](https://github.com/MakeNowJust/crystal-diff) - 晶体序列差异实现
  * [crystal-linked-list](https://github.com/abvdasker/crystal-linked-list) - 链接列表的实施
  * [crystaledge](https://github.com/unn4m3d/crystaledge) - 纯矢量数学库
  * [crystalg](https://github.com/TobiasGSmollett/crystalg) - 通用算法库
@@ -57,7 +57,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [pledge.cr](https://github.com/chris-huxtable/pledge.cr) -  OpenBSD的承诺（2）的绑定
  * [posix](https://github.com/ysbaddaden/posix) -  POSIX / C绑定
  * [soundfile](https://github.com/mjago/soundfile) - 绑定 [libsndfile](http://www.mega-nerd.com/libsndfile/) 图书馆
- * [ssh2.cr](https://github.com/datanoise/ssh2.cr) -  libssh2库的绑定
+ * [ssh2.cr](https://github.com/spider-gazelle/ssh2.cr) -  libssh2库的绑定
  * [syslog.cr](https://github.com/chris-huxtable/syslog.cr) - `syslog`的绑定
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - 绑定和扩展库 [termbox](https://github.com/nsf/termbox) （终端UI库）
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) -  X11绑定
@@ -91,7 +91,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [trashman](https://github.com/Groogy/trashman) -  Crystal应用程序的简单内存分析器
 
 ## Configuration
- * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
+ * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) - 加载.env文件
  * [envyable](https://github.com/philnash/envyable.cr) - 一个简单的YAML到ENV配置加载器
  * [habitat](https://github.com/luckyframework/habitat) - 为类和模块键入安全配置
  * [totem](https://github.com/icyleaf/totem) - 以JSON，YAML，dotenv格式加载和解析配置
@@ -182,7 +182,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) -  Crystal MySQL CRUD示例
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -  GOF模式的例子
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - 用Crystal编写的本机Ruby扩展
- * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实现
+ * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
  * [exercism-crystal](https://github.com/exercism/crystal) - 运动练习
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - 从头开始​​的Crystal MySQL示例应用程序
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
@@ -215,7 +215,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) -  Ruby MIME类型库的一个端口
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供商OAuth2身份验证（受omniauth启发）
  * [praetorian](https://github.com/ilanusse/praetorian) - 受Pundit启发的极简授权库
- * [request_id](https://github.com/SuperPaintman/request-id) - 用于生成/获取Crystal服务器的唯一请求ID的中间件
+ * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time](https://github.com/SuperPaintman/response-time) -  Crystal服务器的响应时间（纯http服务器，kemal等）
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - 易于测试凯末尔
 
@@ -246,6 +246,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [halite](https://github.com/icyleaf/halite) - 带有可链接REST API的Crystal HTTP请求，内置会话和记录器
  * [helmet](https://github.com/EvanHahn/crystal-helmet) - 设置与安全相关的HTTP标头
  * [http-multiserver.cr](https://github.com/vladfaust/http-multiserver.cr) - 通过路由安装多个服务器（也称为URL映射）
+ * [http-params-serializable](https://github.com/vladfaust/http-params-serializable) -  HTTP params（de）序列化，适用于URL查询和URL编码形式
  * [http-protection](https://github.com/rogeriozambon/http-protection) - 防止典型的网络攻击
  * [http2](https://github.com/ysbaddaden/http2) -  HTTP / 2协议实现
  * [HTTP::Client](https://crystal-lang.org/api/HTTP/Client.html) -  HTTP客户端（Crystal stdlib）
@@ -339,11 +340,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) -  ORM专门针对PostgreSQL，但具有高级功能
- * [core](https://github.com/vladfaust/core) - 纯净，透明和高效的ORM
  * [crecto](https://github.com/Crecto/crecto) - 数据库包装器，基于Ecto
  * [granite](https://github.com/amberframework/granite) -  Postgres，Mysql，Sqlite的ORM
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询可链接构建器和迁移系统实现Active Record模式
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -  Redis的Object-hash映射库
+ * [onyx-sql](https://github.com/onyxframework/sql) - 与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询构建器
  * [record](https://github.com/luckyframework/record) - 键入安全查询，保存和更新
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - 以TSV格式从Redis导入和导出数据
  * [stal-crystal](https://github.com/soveran/stal-crystal) - 为Redis设置代数求解器
@@ -394,7 +395,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [hermes](https://github.com/imdrasil/hermes.cr) -  ElastiSearch的Data Mapper模式实现
  * [query-builder](https://github.com/izniburak/query-builder) -  Sql Query Builder库
  * [query.cr](https://github.com/waterlink/query.cr) - 查询抽象
- * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的stretcher gem
+ * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的担架宝石
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - 模板使水晶成为OpenFaaS中的一等公民
@@ -469,7 +470,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [kemal](https://github.com/kemalcr/kemal)   -  Lightning Fast，超级简单的Web框架.  灵感来自Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - 一个WebSocket优先的面向对象框架（基于Kemal）
  * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，花更多时间在代码上而不是调试和编写测试
- * [prism](https://github.com/vladfaust/prism) - 带有键入参数的Lightspeed Web框架
+ * [onyx-rest](https://github.com/onyxframework/rest) -  REST API框架，具有类型安全的参数和独立的业务和渲染层，基于 [onyx-http](https://github.com/onyxframework/http)
  * [raze](https://github.com/samueleaton/raze) - 模块化，轻型Web框架
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - 一个专注于速度和可扩展性的Rails esque Web框架
 

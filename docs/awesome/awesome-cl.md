@@ -94,7 +94,7 @@ Cryptocurrencies
 * [emotiq](https://github.com/emotiq/emotiq)   - 采用创新的自然语言方法实现智能合约的下一代区块链.  [MIT] [200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)   - 解析文件中包含的区块链，并将其部分数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)   - 该程序为您提供在10分钟，24小时，31天，90天和1年内生成POS或POW块的概率，以及可预期的奖励.  Qt中的GUI  [GPL3] [2].  不在Quicklisp.
-* [peercoin-vote](https://github.com/glv2/peercoin-vote) -  A voting system based on data from the blockchain (addresses and balances). [GPL3][2]. Not in Quicklisp.
+* [peercoin-vote](https://github.com/glv2/peercoin-vote)   - 基于区块链数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp.
 
 Database
 ========
@@ -150,6 +150,7 @@ Tools
 * [genhash](https://github.com/pnathan/genhash)   - 使用泛型方法API的哈希表实现.  公共区域.
 * [cl-ctrie](https://github.com/danlentz/cl-ctrie) -
  无锁，并发，键/值索引，具有高效的内存映射持久性和快速瞬态存储模型.  [MIT] [200].
+* [cl-data-structures](https://github.com/sirherrbatka/cl-data-structures)   - 可移植的数据结构和算法集合（主要是序列和序列，具有一些统计功能）.  [BSD] [15].
 
 并了解更多 [Quickdocs](http://quickdocs.org/search?q=data+structure).
 
@@ -225,7 +226,7 @@ GUI
 *  [Qtools](https://github.com/Shinmera/qtools/)   - 基于CommonQt的Qt工具包.  [艺术许可2.0] [51]此外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件），用 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：明星： [CommonQt](https://github.com/commonqt/commonqt)   - 通过QtSmoke对Qt4进行Common Lisp绑定.  [FreeBSD的] [39].
 * [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
-* [nodgui](https://notabug.org/cage/nodgui)   - 基于Ltk的Tk工具包的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
+* [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL][8].
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)   - 绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)   -  GTK + 2的绑定.  [LLGPL] [8].
 * [ceramic](https://ceramic.github.io/)   - 使用Electron的桌面Web应用程序.  [外籍] [14].
@@ -301,7 +302,7 @@ YAML
 * [clamp](https://github.com/malisper/Clamp)   -  Arc语言对Common Lisp的简洁和简洁.  [艺术许可2.0] [51].
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
    一个可移植的库，用于检索函数的参数列表.  [艺术许可2.0] [51].
-* [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似setf的宏.
+* [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
 
@@ -340,7 +341,7 @@ Lambda shorthands
 ------------------------------------
 
 * [cl-prolog2](https://github.com/guicho271828/cl-prolog2)   -  Common Lisp的ISO Prolog实现的通用接口.  [MIT] [200].
-* [Screamer](https://github.com/nikodemus/screamer) - augment Common
+* [Screamer](https://github.com/nikodemus/screamer) - 增加共同点
   Lisp几乎具有Prolog和.的所有功能
   约束逻辑编程
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
@@ -415,7 +416,7 @@ Beginner
 Intermediate
 ------------
 
-* [ANSI Common Lisp](http://www.paulgraham.com/acl.html)   - 通过练习全面，实用地覆盖整个语言.  由于[一些警告] [20]，不推荐作为入门文本.
+* [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats][20].
 * [Common Lisp Recipes](http://weitz.de/cl-recipes/)   -  ** Common Lisp Recipes **是一系列问题解决方案，也是您在Common Lisp中编写实际应用程序时可能遇到的问题的答案.  2015年出版.
 
 Advanced
@@ -515,7 +516,7 @@ Web框架
 * [hh-web](https://github.com/hargettp/hh-web)   - 构建现代Web应用程序的框架.  [外籍] [14].
 * [ningle](https://github.com/fukamachi/ningle)   - 超级微型Web框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，一个扩展的和noob友好的ningle（更容易处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)   -  Web应用程序环境和框架.  [艺术许可2.0] [51].
-* [Lucerne](https://github.com/eudoxia0/lucerne)   - 基于Flack构建的基于Clack的最小Web框架.  [MIT] [200].
+* [Lucerne](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200].
 * [Snooze](https://github.com/joaotavora/snooze)   - 一个基于Clack构建的RESTful Web框架，其中路由只是函数，HTTP条件只是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)   - 用于编写REST Web API的库.  功能验证包括模式，日志记录，缓存，权限或身份验证注释，Swagger文档等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)   - 基于窗口小部件的框架，内置ajax更新机制，“解决JavaScript问题”.  [LLGPL] [8].
@@ -554,7 +555,7 @@ HTML生成器和模板
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
 * [clip](https://shinmera.github.io/clip)   -  HTML模板处理器，其中模板以HTML编写.  [艺术许可2.0] [51].
 
-URI动作
+URI handling
 ------------
 
 * [quri](https://github.com/fukamachi/quri) - 另一个URI库
@@ -662,7 +663,7 @@ Others
 * [maxima](http://maxima.sourceforge.net/)   - 计算机代数系统.  在Quicklisp上不可用.  [GNU GPL3] [2].
 * [lisp-matrix](https://github.com/blindglobe/lisp-matrix)   - 矩阵包.  [FreeBSD的] [39].
 * [3-matrices](https://shinmera.github.io/3d-matrices) - 图书馆实施
-  common matrix calculations, with an emphasis on 2x2,3x3, and 4x4
+  常见的矩阵计算，重点是2x2,3x3和4x4
    矩阵常用于图形中.  它提供了一些数字
    功能也是如此，但那些不是焦点.  图书馆是
   大大优化，所以它不是漂亮
@@ -768,7 +769,7 @@ Scripting
 * [SLIMV](https://github.com/kovisoft/slimv)   -  Vim的高级Lisp交互模式;  Vim中Common Lisp的完整环境.  未指定许可证.
 * [Vlime](https://github.com/l04m33/vlime)   -  VLIME：Vim加上Lisp是最邪恶的.  Vim（和Neovim）的Common Lisp开发环境.  [MIT] [200].
 * [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) - A Quicklisp frontend for Neovim.
-* [Slimv_box](https://github.com/justin2004/slimv_box) - slimv in a Docker container.
+* [Slimv_box](https://github.com/justin2004/slimv_box) - 在Docker容器中使用slimv.
 
 
 ## Eclipse ##
@@ -783,7 +784,7 @@ Scripting
 ## Atom ##
 
 * [ATOM-SLIME](https://atom.io/packages/atom-slime) 允许你
-  interactively develop Common Lisp code, helping turn Atom into a
+  交互式开发Common Lisp代码，帮助将Atom变成一个
    全功能的Lisp IDE.  [MIT] [200].
 
 ## Sublime Text ##
@@ -794,6 +795,7 @@ Scripting
 ## Notebooks ##
 
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) -  Jupyter笔记本的Common Lisp内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
+* [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)   -  Jupyter的Common Lisp内核以及用于构建Jupyter内核的库，基于Robert Dodier的Maxima-Jupyter，它基于Frederic Peschanski的cl-jupyter.  [MIT] [200].
 * [Darkmatter](https://github.com/tamamu/darkmatter) - 一个
    笔记本式的Common Lisp环境.  [MIT] [200].
 
@@ -998,7 +1000,7 @@ XML
 ===
 
 * [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
- * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
+ * [丰满] [71]  - 一个宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].
 * [xmls](http://quickdocs.org/xmls/)   - 一个小而简单，无需验证的XML解析器.  [3条款BSD] [15].

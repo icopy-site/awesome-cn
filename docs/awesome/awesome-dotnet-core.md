@@ -160,7 +160,7 @@
 * [GitVersioning](https://github.com/AArnott/Nerdbank.GitVersioning) - 使用单个简单版本.txt文件中的版本标记程序集和NuGet包，并为非官方构建包含git commit ID.
 * [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - 去.NET Core Runtime的包装器.
 * [Image2Docker](https://github.com/docker/communitytools-image2docker-win) -  PowerShell模块，可将现有Windows应用程序工作负载移植到Docker.
-* [LocalAppVeyor](https://github.com/joaope/LocalAppVeyor) - 在本地运行AppVeyor版本.
+* [LocalAppVeyor](https://github.com/joaope/LocalAppVeyor) 栩permanent在当地运行你的AppV striped.
 * [msbuild](https://github.com/Microsoft/msbuild) -  Microsoft Build Engine是用于构建应用程序的平台.
 * [Nuke](https://github.com/nuke-build/nuke) - 跨平台构建自动化系统.
 * [Opserver](https://github.com/opserver/Opserver) -  Stack Exchange的监控系统.
@@ -235,7 +235,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
@@ -702,7 +702,7 @@
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - 一个研讨会，用于浏览ASP.NET核心授权中的各个新部分
   * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 发布了12月Connect 2016大会，这是一套针对企业用户和消费者（自行车骑手）的一套复杂的互通应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
-  * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -  ASP.NET核心多租户Web应用程序基础.
+  * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -  ASP.NET腐败多租户Web应用程序基础.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) - 用于运行小型本地开发活动的开源网站.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) - 用ASP.NET Core编写的小俱乐部.
   * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - 具有单片部署模型的分层应用程序架构.
@@ -788,9 +788,10 @@
 
 ## Community
 * [.NET Foundation](http://forums.dotnetfoundation.org)
+* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
 * [ASP.NET](https://forums.asp.net)
 * [Channel9](https://channel9.msdn.com)
-* [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects)
+* [Awesome .NET open source & community resources](https://discoverdot.net)
 * [Slack](http://tattoocoder.com/aspnet-slack-sign-up)
 * [BuiltWithDot.Net](https://builtwithdot.net)
 * 堆栈溢出

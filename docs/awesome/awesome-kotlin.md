@@ -50,7 +50,7 @@
 
 ### <a name="links-resources"></a>Resources <sup>[Back ⇈](#links-resources-subcategory)</sup>
 * [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) -  Kotlin上的播客等
+* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) - A Podcast on Kotlin and more
 * [/r/Kotlin](https://www.reddit.com/r/Kotlin/) 
 * [Stackoverflow Documentation on Kotlin](http://stackoverflow.com/documentation/kotlin/topics) 
 * [Quora Kotlin](https://www.quora.com/topic/Kotlin) 
@@ -224,10 +224,11 @@
 * [edvin/tornadofx](https://github.com/edvin/tornadofx) -  Kotlin的轻量级JavaFX框架/
 
 ### <a name="libraries-frameworks-http-clients"></a>Http Clients <sup>[Back ⇈](#libraries-frameworks-http-clients-subcategory)</sup>
-* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) - The easiest HTTP networking library for Kotlin/Android.
+* [kittinunf/Fuel](https://github.com/kittinunf/Fuel) -  Kotlin / Android最简单的HTTP网络库.
 * [jkcclemens/khttp](https://github.com/jkcclemens/khttp) -  Kotlin HTTP请求库.
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) - 基于多平台协程的HTTP客户端.
 * [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - 基于Kotlin DSL的HTTP客户端.
+* [CuriousNikhil/Asynkio](https://github.com/CuriousNikhil/AsynKio) - 在Kotlin中轻松编写异步网络/ IO调用.
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) -  IntelliJ IDEA社区版
@@ -703,7 +704,7 @@
 ### <a name="kotlin-user-groups-australia-oceania"></a>Australia/Oceania <sup>[Back ⇈](#kotlin-user-groups-australia-oceania-subcategory)</sup>
 * [Brisbane Kotlin User Group](https://www.meetup.com/Brisbane-Kotlin-User-Group/) - 澳大利亚
 * [Sydney Kotlin User Group](https://sydkotlin.space/) - 澳大利亚
-* [Wellington Kotlin User Group](https://www.meetup.com/Wellington-kt/) - New Zealand
+* [Wellington Kotlin User Group](https://www.meetup.com/Wellington-kt/) - 新西兰
 
 ### <a name="kotlin-user-groups-africa"></a>Africa <sup>[Back ⇈](#kotlin-user-groups-africa-subcategory)</sup>
 * [Abidjan Kotlin User Group](https://www.facebook.com/groups/778398068995641/) - 象牙海岸
@@ -820,7 +821,7 @@
 * [More Kotlin Extension Fun](http://kotlin.link/articles/More-Kotlin-Extension-Fun.html) - 邓肯麦格雷戈
 * [PultusORM : Sqlite ORM for Kotlin](http://kotlin.link/articles/PultusORM-Sqlite-ORM-for-Kotlin.html) -  Sakib Sami
 * [Experimenting with “mutation testing” and Kotlin](http://kotlin.link/articles/Experimenting-with-mutation-testing-and-Kotlin.html) - 伊恩克拉克
-* [Extension functions for more consistent APIs](http://kotlin.link/articles/Extension-functions-for-more-consistent-APIs.html) - NicolasFränkel
+* [Extension functions for more consistent APIs](http://kotlin.link/articles/Extension-functions-for-more-consistent-APIs.html) striped  -  N ！lasF穷 ！泪
 * [Taking Kotlin for a ride](http://kotlin.link/articles/Taking-Kotlin-for-a-ride.html) -  Hadi Tok
 * [A new hope for the JVM: Kotlin](http://kotlin.link/articles/A-new-hope-for-the-JVM-Kotlin.html) - 贾科莫·布雷西亚尼
 * [Swift vs Kotlin for real iOS/Android apps](http://kotlin.link/articles/Swift-vs-Kotlin-for-real-iOS-Android-apps.html) -  Angel G. Olloqui
@@ -831,9 +832,9 @@
 * [Composing functions in Kotlin with extensions and operators](http://kotlin.link/articles/Composing-functions-in-Kotlin-with-extensions-and-operators.html) -  Daniele Conti
 * [Kotlin: How to Make Your Java Code Base Cleaner and More Readable](http://kotlin.link/articles/Kotlin-How-to-Make-Your-Java-Code-Base-Cleaner-and-More-Readable.html) - 肯尼斯福特
 * [Kotlin for Data Science](http://kotlin.link/articles/Kotlin-for-Data-Science.html) - 托马斯·尼尔德
-* [A Whirlwind Tour of the Kotlin Type Hierarchy](http://kotlin.link/articles/A-Whirlwind-Tour-of-the-Kotlin-Type-Hierarchy.html) -  Nat Pryce
+* [A Whirlwind Tour of the Kotlin Type Hierarchy](http://kotlin.link/articles/A-Whirlwind-Tour-of-the-Kotlin-Type-Hierarchy.html) - Nat Pryce
 * [Zero boilerplate delegation in Kotlin](http://kotlin.link/articles/Zero-boilerplate-delegation-in-Kotlin.html) - PiotrŚlesarew
-* [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) - NicolasFränkel
+* [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) striped  -  N ！lasF穷 ！泪
 
 ### <a name="articles-blog-posts-september-2016"></a>September 2016 <sup>[Back ⇈](#articles-blog-posts-september-2016-subcategory)</sup>
 * [Kotlin census: call to action](http://kotlin.link/articles/Kotlin-census-call-to-action.html) - 罗曼贝洛夫
@@ -860,7 +861,7 @@
 * [The Next Language You Thought You Didn’t Need](http://kotlin.link/articles/Kotlin-–-The-Next-Language-You-Thought-You-Didn’t-Need.html) -  Jay Dellinger
 * [Kotlin: The Good, The Bad, and The Ugly](http://kotlin.link/articles/Kotlin-The-Good-The-Bad-and-The-Ugly.html) -  AJ Alt
 * [Decision Trees with Kotlin](http://kotlin.link/articles/Decision-Trees-with-Kotlin.html) - 马克加莱亚
-* [Scala vs Kotlin: inline and infix](http://kotlin.link/articles/Scala-vs-Kotlin-inline-and-infix.html) - NicolasFränkel
+* [Scala vs Kotlin: inline and infix](http://kotlin.link/articles/Scala-vs-Kotlin-inline-and-infix.html) striped  -  N ！lasF穷 ！泪
 * [Improved Pattern Matching in Kotlin](http://kotlin.link/articles/Improved-Pattern-Matching-in-Kotlin.html) - 雅各布齐默尔曼
 * [Getting started with Kotlin in Android development](http://kotlin.link/articles/Getting-started-with-Kotlin-in-Android-development.html) - 德米特里Chyrta
 * [Kotlin: val does not mean immutable, it just means readonly, yeah](http://kotlin.link/articles/Kotlin-val-does-not-mean-immutable-it-just-means-readonly-yeah.html) -  Artem Zinnatullin
@@ -871,9 +872,9 @@
 ### <a name="articles-blog-posts-july-2016"></a>July 2016 <sup>[Back ⇈](#articles-blog-posts-july-2016-subcategory)</sup>
 * [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - 康斯坦丁·谢苗诺夫
 * [Never say final: mocking Kotlin classes in unit tests](http://kotlin.link/articles/Never-say-final-mocking-Kotlin-classes-in-unit-tests.html) - 丹尼普瑞斯勒
-* [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
+* [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) striped  -  N ！lasF穷 ！泪
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫
-* [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) - NicolasFränkel
+* [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) striped  -  N ！lasF穷 ！泪
 * [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) - PrzemekDąbrowski
 * [JUnit 5 with Spring Boot (plus Kotlin)](http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) -  Mike Plummer
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) -  Artem Zinnatullin
@@ -1016,7 +1017,7 @@
 
 ### <a name="articles-blog-posts-december-2015"></a>December 2015 <sup>[Back ⇈](#articles-blog-posts-december-2015-subcategory)</sup>
 * [Kotlin for Java Developers: 10 Features You Will Love About Kotlin](http://kotlin.link/articles/Kotlin-for-Java-Developers-10-Features-You-Will-Love-About-Kotlin.html) - 彼得·索默霍夫
-* [Early Impressions of Kotlin](http://kotlin.link/articles/Early-Impressions-of-Kotlin.html) -  Nat Pryce
+* [Early Impressions of Kotlin](http://kotlin.link/articles/Early-Impressions-of-Kotlin.html) - Nat Pryce
 
 ### <a name="articles-blog-posts-november-2015"></a>November 2015 <sup>[Back ⇈](#articles-blog-posts-november-2015-subcategory)</sup>
 * [Setting up Kotlin with Android and tests](http://kotlin.link/articles/Setting-up-Kotlin-with-Android-and-tests.html) - 劳拉·科格勒

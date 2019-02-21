@@ -78,7 +78,7 @@
 ### Node.js
 
 * [node-restify](https://github.com/restify/node-restify) - 框架专门用于REST API.
-* [Sails.js](http://sailsjs.org/) -  Node.js Web框架嵌入命令以自动生成REST API.
+* [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
 * [mers](https://github.com/jspears/mers) - 快速服务将Mongoose finders暴露为RESTful API.
 * [Baucis](https://github.com/wprl/baucis) - 基于Mongoose实体构建可扩展的REST API.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -  JavaScript的同构资源引擎.
@@ -102,10 +102,10 @@
 
 * [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - 使用Symfony2框架构建最先进的REST API的完整指南.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) -  REST API的捆绑处理视图，路由，错误处理等.
-* [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - 使用约定优于配置，基于Doctrine实体构建REST API.
+* [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 * [lakion/Lionframe](http://lakion.com/lionframe) - 在几个社区库之间进行混合以简化API开发.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - 整合 [Hateoas](https://github.com/willdurand/Hateoas) 库成为Symfony2应用程序.
-* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
+* [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - 从Symfony2应用程序开始，预先配置所有REST友好的捆绑包.
 * [NgAdminGeneratorBundle](https://github.com/marmelab/NgAdminGeneratorBundle) - 基于`stanlemon / rest-bundle`的Boostrap ng-admin配置.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - 构建遵循Hydra / JSON-LD规范的REST API.
 * [API Platform](https://github.com/api-platform/api-platform) - 专门用于创建超媒体REST API的Symfony版本.
@@ -119,7 +119,7 @@
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) -  Flask扩展，用于为使用SQLAlchemy（或Flask-SQLAlchemy）定义的数据库模型生成ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量且快速的API框架.
 * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
-* [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
+* [restless](http://restless.readthedocs.org/en/latest/) - 基于从TastyPie学到的经验教训的框架无关REST框架.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) -  REST API构建库（django等）.
 * [Python Eve](http://python-eve.org/)   -  Eve是一个专为人类设计的开源Python REST API框架.  它允许毫不费力地构建和部署高度可定制的，功能齐全的RESTful Web服务.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从它们生成生产就绪API，使RAML文件可执行.
@@ -202,6 +202,7 @@
 * [Tyk API Gateway](https://github.com/TykTechnologies/tyk) - 带有分析日志记录的轻量级API网关，用Go编写.
 * [API Umbrella](https://github.com/NREL/api-umbrella) - 使用Lua编写的用于公开Web服务的API管理平台，具有Web界面和分析功能.
 * [WSO2 API Management](https://github.com/wso2/product-apim) - 具有轻量级网关和API生命周期管理的API管理工具，用Java编写.
+* [Express Gateway](https://github.com/ExpressGateway/express-gateway) - 基于ExpressJS（Node.js）构建的微服务API网关.
 
 ## SaaS Tools
 

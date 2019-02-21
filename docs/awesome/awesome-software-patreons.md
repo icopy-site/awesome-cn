@@ -39,7 +39,6 @@ _Projects以开源许可证发布._
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - 联合社交网络服务器.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - 用于安全，分散通信的开放网络.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - 绘图应用程序. 
-- [Monkey 2](https://www.patreon.com/monkey2) -  Monkey 2编程语言. 
 - [MuseScore](https://www.patreon.com/musescore) - 乐谱软件.
 - [Neovim](https://salt.bountysource.com/teams/neovim) -  Vim-fork专注于可扩展性和可用性.
 - [OctoPrint](https://www.patreon.com/foosel) -  3D打印机的Web界面.
@@ -50,7 +49,6 @@ _Projects以开源许可证发布._
 - [OpenFL](https://www.patreon.com/openfl) - 跨平台应用程序框架. 
 - [OpenShot](https://www.patreon.com/openshot) - 视频编辑.
 - [Paperwork](https://www.patreon.com/openpaper) - 个人文件经理.
-- [Parinfer](https://www.patreon.com/shaunlebron) -  Clojure编辑器插件.
 - [Perkeep](https://opencollective.com/perkeep) - 个人存储系统.
 - [PHPStan](https://www.patreon.com/phpstan) -  PHP静态分析器.
 - [PHPUnit](https://www.patreon.com/s_bergmann) -  PHPUnit和相关项目.
@@ -107,7 +105,6 @@ _Games和游戏相关的项目._
 
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于Windows的Xbox模拟器.
-- [Dark Flame](https://www.patreon.com/BorishDugdum) -  2D动作RPG. 
 - [Libretro Team](https://www.patreon.com/libretro) -  Libretto，RetroArch和Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - 游戏发射器和平台.
 - [Rpcs3](https://www.patreon.com/Nekotekina) -  PS3模拟器.
@@ -132,7 +129,6 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Eevee](https://www.patreon.com/eevee) - 游戏，应用程序和文章.
 - [Egoist](https://www.patreon.com/egoist/overview) - 各种JavaScript库和工具.
 - [Eric S. Raymond](https://www.patreon.com/esr) -  Nethack，GPSd，“大教堂和市集”的作者.
-- [Ethan Lee](https://www.patreon.com/flibitijibibo) -  XNA保存工具和Linux / macOS游戏.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) - 致力于PyDev和相关项目.
 - [Ferros](https://www.patreon.com/feross) -  WebTorrent，StandardJS和其他JavaScript项目.
 - [Franck Nijhof](https://www.patreon.com/frenck) - 创建Home Assistant附加组件并帮助完成主项目.
@@ -144,6 +140,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -  FreeCAD贡献者和Debian打包者.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) -  Inkscape贡献者.
 - [Mathias Buus](https://www.patreon.com/mafintosh) - 各种JavaScript模块.
+- [Max Howell](https://www.patreon.com/mxcl) -  Homebrew的创建者，PromiseKit的维护者以及Apple平台的众多其他项目.
 - [Nate Graham](https://liberapay.com/ngraham) -  KDE撰稿人.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) -  Sony DualShock控制器和其他的Windows驱动程序. 
 - [Nils Maier](https://www.patreon.com/nmaier)   - 全部下载！  Firefox和Chrome扩展程序.
@@ -199,18 +196,12 @@ _文章，视频，播客等......
 
 - [CPP Cast](https://www.patreon.com/CppCast) - 面向C ++开发人员的播客.
 - [Destination Linux](https://www.patreon.com/destinationlinux) -  Linux讨论和新闻相关的播客.
-- [Fatal Error](https://www.patreon.com/fatalerror) - 编程.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) -  Linux和新闻.
 - [More Than Just Code](https://www.patreon.com/mtjc) - 面向iOS开发人员的播客.
 - [Software Defined Talk](https://www.patreon.com/sdt) - 企业软件. 
 - [The Debug Log](https://www.patreon.com/thedebuglog) - 游戏开发. 
 - [The Development Hell Podcast](https://www.patreon.com/devhell) - 网络编程. 
-- [The Elixir Fountain](https://www.patreon.com/elixirfountain) -  Elixir新闻. 
 - [This Week in Linux](https://www.patreon.com/tuxdigital) -  Linux新闻播客，每集的主题比其他播客多2-3倍.
-
-### Newsletters
-
-- [iOS Goodies](https://www.patreon.com/iosgoodies) -  iOS简报. 
 
 
 ## Open Source Art
