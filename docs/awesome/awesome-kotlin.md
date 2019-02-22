@@ -50,7 +50,7 @@
 
 ### <a name="links-resources"></a>Resources <sup>[Back ⇈](#links-resources-subcategory)</sup>
 * [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) - A Podcast on Kotlin and more
+* [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) -  Kotlin上的播客等
 * [/r/Kotlin](https://www.reddit.com/r/Kotlin/) 
 * [Stackoverflow Documentation on Kotlin](http://stackoverflow.com/documentation/kotlin/topics) 
 * [Quora Kotlin](https://www.quora.com/topic/Kotlin) 
@@ -121,6 +121,7 @@
 * [SeunAdelekan/Kanary](https://github.com/SeunAdelekan/Kanary) -  Kotlin的微网框架
 * [ExpediaDotCom/graphql-kotlin](https://github.com/ExpediaDotCom/graphql-kotlin) -  Kotlin的仅代码GraphQL模式生成
 * [zhudyos/duic](https://github.com/zhudyos/duic) Distributed configuration center（分布式配置中心）:new:
+* [skrapeit/skrape.it](https://docs.skrape.it/docs) HTML测试和Web抓取库提供直观的DSL接收和提取或检查标记（具有额外功能的jSoup包装DSL）：new：
 
 ### <a name="libraries-frameworks-tests"></a>Tests <sup>[Back ⇈](#libraries-frameworks-tests-subcategory)</sup>
 * [JetBrains/spek](https://github.com/jetbrains/spek) -  Kotlin的规范框架.
@@ -213,7 +214,7 @@
 * [Vorlonsoft/GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle Script插件，用于将Gradle Android / Kotlin / Java Artifacts上传到Maven存储库（JCenter，Maven Central，...）.
 * [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - 用于Kotlin的脚本工具.
 * [kohesive/keplin](https://github.com/kohesive/keplin) - 安全的Kotlin脚本和二进制lambda脚本.
-* [shyiko/ktlint](https://github.com/shyiko/ktlint) - Kotlin linter.
+* [shyiko/ktlint](https://github.com/shyiko/ktlint) -  Kotlin linter.
 * [jtransc/jtransc](https://github.com/jtransc/jtransc) - 在Kotlin中创建的JVM AOT编译器.
 * [arturbosch/detekt](https://github.com/arturbosch/detekt) -  Kotlin的静态代码分析.
 * [cypressious/KotlinW](https://github.com/cypressious/KotlinW) -  Kotlin编译器的一个小包装器，可用于执行.kts脚本.
@@ -456,7 +457,7 @@
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 用于创建没有任何XML的Material Design导航抽屉的DSL.
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) -  Android库，提供更简单的方式来实现模块化.
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
-* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) -  Android上的RecyclerView的通用适配器，可以轻松地将异构项添加到列表中.
+* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
 * [calintat/alps](https://github.com/calintat/alps) - 用于首选项的Android库，包括属性委托和用于定义首选项的自定义DSL.
 * [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - 用于更轻松，更快速的Kotlin编程的Android实用程序.
 * [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - 用于数据绑定+ Kotlin + RxJava的功能构造
@@ -475,6 +476,7 @@
 * [WindSekirun/RxSocialLogin](https://github.com/WindSekirun/RxSocialLogin) - 此Android库是一个库，可为由RxJava2，Kotlin和Firebase身份验证提供支持的15个平台提供社交登录. 
 * [bakhtiyork/gradients](https://github.com/bakhtiyork/gradients) - 精选渐变的精选集合
 * [hpost/RxBrainwaves](https://github.com/hpost/rx-brainwaves) - 用于NeuroSky MindWave耳机的RxJava包装器.
+* [adrielcafe/KrumbsView](https://github.com/adrielcafe/KrumbsView) -  Android的终极面包屑视图！
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - 使用MVP架构的kotlin上的android开发框架.
@@ -537,7 +539,7 @@
 * [pixijs/pixi-native](https://github.com/pixijs/pixi-native) - 该项目的目的是提供一个适用于所有设备的快速轻量级2D库.
 * [shafirov/klogging](https://github.com/shafirov/klogging) -  Kotlin伐木，js和jvm.
 * [stangls/kotlin-js-jquery](https://github.com/stangls/kotlin-js-jquery) - 在Kotlin中编写客户端Web应用程序的小框架.
-* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) -  Kotlin全栈应用示例.
+* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
 * [danfma/kodando](https://github.com/danfma/kodando) -  Kotlin JS绑定和库.
 * [kengorab/kotlin-javascript-boilerplate](https://github.com/kengorab/kotlin-javascript-boilerplate) - 用于将Kotlin编译为Javascript的极端准系统样板项目.
 * [markaren/three.kt](https://github.com/markaren/three.kt) - 用于three.js JavaScript 3D库的Kotlin包装器
@@ -648,7 +650,7 @@
 * [Pune Kotlin User Group](https://www.facebook.com/groups/punekotlin) - 印度
 * [Saudi Arabia Kotlin User Group](https://www.facebook.com/KotlinArabia) - 沙特阿拉伯
 * [Shanghai, KotlinThree](http://kotlinthree.github.io/) - 中国
-* [Singapore Kotlin User Group](https://www.meetup.com/Singapore-Kotlin-User-group/) - Singapore
+* [Singapore Kotlin User Group](https://www.meetup.com/Singapore-Kotlin-User-group/) - 新加坡
 * [Sri Lanka Kotlin User Group](https://www.facebook.com/KotlinSrilanka/) - 斯里兰卡
 * [Syria Kotlin User Group](https://www.facebook.com/KotlinSyria/) - 叙利亚
 * [Sultanpur KNIT Kotlin User Group](https://www.facebook.com/KotlinKnit/) - 印度
@@ -722,7 +724,7 @@
 * [Lagos Kotlin User Group](https://www.meetup.com/Lagos-Kotlin-Meetup/) - 尼日利亚
 * [Lome Kotlin User Group](https://www.facebook.com/groups/1825278611119862/) - 多哥
 * [Minya Kotlin User Group](https://www.facebook.com/kotlinminya/) - 埃及
-* [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - 肯尼亚
+* [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - Kenya
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/) - 喀麦隆
 * [Ondo Kotlin User Group](https://www.meetup.com/Kotlin-Ondo-User-Group/) - 尼日利亚
 * [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - 布基纳法索
@@ -832,7 +834,7 @@
 * [Composing functions in Kotlin with extensions and operators](http://kotlin.link/articles/Composing-functions-in-Kotlin-with-extensions-and-operators.html) -  Daniele Conti
 * [Kotlin: How to Make Your Java Code Base Cleaner and More Readable](http://kotlin.link/articles/Kotlin-How-to-Make-Your-Java-Code-Base-Cleaner-and-More-Readable.html) - 肯尼斯福特
 * [Kotlin for Data Science](http://kotlin.link/articles/Kotlin-for-Data-Science.html) - 托马斯·尼尔德
-* [A Whirlwind Tour of the Kotlin Type Hierarchy](http://kotlin.link/articles/A-Whirlwind-Tour-of-the-Kotlin-Type-Hierarchy.html) - Nat Pryce
+* [A Whirlwind Tour of the Kotlin Type Hierarchy](http://kotlin.link/articles/A-Whirlwind-Tour-of-the-Kotlin-Type-Hierarchy.html) -  Nat Pryce
 * [Zero boilerplate delegation in Kotlin](http://kotlin.link/articles/Zero-boilerplate-delegation-in-Kotlin.html) - PiotrŚlesarew
 * [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) striped  -  N ！lasF穷 ！泪
 
@@ -1017,7 +1019,7 @@
 
 ### <a name="articles-blog-posts-december-2015"></a>December 2015 <sup>[Back ⇈](#articles-blog-posts-december-2015-subcategory)</sup>
 * [Kotlin for Java Developers: 10 Features You Will Love About Kotlin](http://kotlin.link/articles/Kotlin-for-Java-Developers-10-Features-You-Will-Love-About-Kotlin.html) - 彼得·索默霍夫
-* [Early Impressions of Kotlin](http://kotlin.link/articles/Early-Impressions-of-Kotlin.html) - Nat Pryce
+* [Early Impressions of Kotlin](http://kotlin.link/articles/Early-Impressions-of-Kotlin.html) -  Nat Pryce
 
 ### <a name="articles-blog-posts-november-2015"></a>November 2015 <sup>[Back ⇈](#articles-blog-posts-november-2015-subcategory)</sup>
 * [Setting up Kotlin with Android and tests](http://kotlin.link/articles/Setting-up-Kotlin-with-Android-and-tests.html) - 劳拉·科格勒
@@ -1073,7 +1075,7 @@
 * [Kotlin: Будущие изменения и текущие мифы](http://kotlin.link/articles/Kotlin-Будущие-изменения-и-текущие-мифы.html) -  Faces中的Android
 
 ### <a name="videos-november-2016"></a>November 2016 <sup>[Back ⇈](#videos-november-2016-subcategory)</sup>
-* [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - 安东凯克斯
+* [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - Anton Keks
 * [10 Kotlin Tricks in 10(ish) Minutes](http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - 杰克沃顿
 * [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) -  JetBrains
 * [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -  Nevin Chen

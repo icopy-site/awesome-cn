@@ -192,6 +192,7 @@ Installers
 
 - [Kubernetes Authentication plugins and kubeconfig](http://www.dasblinkenlichten.com/kubernetes-authentication-plugins-and-kubeconfig/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Kubernetes Authentication - OpenID Connect](http://www.devoperandi.com/kubernetes-authentication-openid-connect/) 通过 [Michael Ward](https://twitter.com/DevoperandI)
+- [Kubernetes authentication via GitHub OAuth and Dex](https://medium.com/preply-engineering/k8s-auth-a81f59d4dff6) 通过 [Amet Umerov](https://github.com/Amet13)
 
 
 - [Enable IPv6 on Kubernetes with Project Calico](https://www.projectcalico.org/enable-ipv6-on-kubernetes-with-project-calico/) 通过 [Valentin Ouvrard](https://twitter.com/Valentin_NC)

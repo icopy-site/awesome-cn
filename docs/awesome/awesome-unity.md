@@ -75,6 +75,10 @@
 * [UniRx](https://github.com/neuecc/UniRx)   -  UniRx（Unity的Reactive Extensions）是.NET Reactive Extensions的重新实现.  Rx在没有异步/等待的情况下治愈了“异步蓝调”.
 * [UnityToolbag](https://github.com/nickgravelyn/unitytoolbag) - 收集Unity 5.0的各种开源脚本和帮助程序.
 
+## Video
+
+* [Vimeo Unity SDK](https://github.com/vimeo/vimeo-unity-sdk) - 轻松将Vimeo视频流式传输到Unity或录制并发布到Vimeo.
+
 ## Visual Scripting
 
 

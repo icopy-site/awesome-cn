@@ -295,6 +295,7 @@
 *学校测试： [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
 * [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) -  Kulyamin Victor
 * [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - 谢尔盖安德列夫
+* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) - 该课程基于官方培训计划“认证软件测试员基础水平”ISTQB，旨在为认证考试做准备
 
 #### Формальная верификация ПО
 

@@ -18,13 +18,14 @@
 * [Front End Newsletter](http://frontendnewsletter.com/) .  最佳前端相关新闻，文章，项目等的免费每周时事通讯.  JavaScript，React，Angular，Ember，Polymer，Meteor，RxJS，Elm等. [Archive](http://frontendnewsletter.com/issues).
 * [Dev Tips](https://umaar.com/dev-tips/) .  每周都会在收件箱中以gif的形式提供开发人员提示.
 * [Friday Front-end](https://zendev.com/friday-frontend.html) .  每周五15篇精彩的前端文章，教程和公告.  CSS / SCSS，JavaScript和其他很棒的东西. [Archive](https://zendev.com/category/friday-frontend.html)
+* [Unreadit/Frontend](https://unread.it/n/frontend/) .  最好的前端开发新闻源自最好的subreddits.
+
 
 ### General Web Development
 * [Weekend Reading](https://tinyletter.com/assaf) .  关于Web开发，设计和启动生活的每周电子邮件.
 * [Web Development Reading List](https://wdrl.info) .  本通讯分享了Web开发的最新文章.
 * [Fullweb Weekly](http://fullweb.io/) .  针对fullstack Web开发人员的每周简报.  它每周向您发送有关Web前端和后端，devops和用户体验的前5个链接.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周简报，讨论围绕网络平台的有趣和热门话题.
-* [Versioning](https://versioning.substack.com) .  通过每日电子邮件随时了解所有Web开发和设计的最新信息.
 
 ### JavaScript
 * [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
@@ -43,14 +44,14 @@
 * [React Digest](https://www.getrevue.co/profile/the-react-digest) .  每周精心挑选最好的React JS资源.
 * [React Digest 2](https://reactdigest.net/) .  5个链接;  Flux，Redux，MobX，React和React Native我们正在观看所有内容，所以注册并获得每周javascript的精彩部分.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) .  关于React和生态系统的每周简报.
-* [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
+* [React Status](https://react.statuscode.com/) .  每周综述最新的React和React Native链接和教程.
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter) .  每周概述最受欢迎的React新闻，文章和图书馆.
 * [This Week In React](https://this-week-in-react.org/) .  每周报道React Core和React DOM周围有趣的拉取请求，讨论和RFC.  每个星期五出来.
 
 #### AngularJS
 
 #### EmberJS
-* [EmberJS Weekly](http://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
+* [EmberJS Weekly](https://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
 
 #### VueJS
 * [Vue.js Newsletter](https://news.vuejs.org) .  每周一次精心挑选的Vue.js新闻.
@@ -128,7 +129,7 @@
 
 ### Ruby
 * [Ruby Weekly](https://rubyweekly.com/) .  每日一次的免费电子邮件汇总Ruby新闻和文章.
-* [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
+* [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多内容，每周五发送到您的收件箱.
 * [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 * [Green Ruby News](http://greenruby.org/) .  关于红宝石，javascript，webdev，devops的每周新鲜链接的馈送，每周日由mose，xenor和tysliu收集.
@@ -218,12 +219,11 @@
 * [Cron.Weekly](https://www.cronweekly.com) .  每周日发布的每周简报，包含针对Linux系统管理员量身定制的新闻和工具.
 * [MicroServices Weekly](http://www.microservicesweekly.com/) .  每周免费获得微服务架构和基于容器的虚拟化新闻和来自社区的文章.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) .  精选的SysAdmin工具，软件和资源的精选列表.
-* [Monitoring Weekly](https://weekly.monitoring.love/) .  Monitoring Weekly可将最新的监控新闻，文章和工具直接发送到您的收件箱.
+* [Monitoring Weekly](https://monitoring.love/) .  Monitoring Weekly可将最新的监控新闻，文章和工具直接发送到您的收件箱.
 * [SRE Weekly](http://sreweekly.com/) .  SRE Weekly是一份简报，专门介绍与尽可能保持网站或服务保持一致的所有相关内容.
 * [Web Operations Weekly](https://webopsweekly.com/) .  关于Web操作，基础设施，性能和工具的每周简报，从浏览器到金属.
 
 ### Cloud Development
-* [Cloud Development Weekly](http://clouddevweekly.co/) .  使用云服务，云API和基于云的工具的开发人员的新闻，链接和资源.
 * [Serverless Status](https://serverless.email/) .  关于无服务器架构和范例，功能即服务，AWS Lambda等的每周简报.
 * [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) .  此Google Cloud Weekly是本周与Google Cloud生态系统相关的主要新闻，教程，视频和播客的摘要，非常值得一读.
 * [Last Week in AWS](https://lastweekinaws.com/) .  来自亚马逊云生态系统的每周新闻综述.
@@ -235,14 +235,14 @@
 
 ## Mobile
 * [Mobile Web Weekly](https://mobiledevweekly.com/) .  每周综合介绍影响面向移动Web的Web开发人员的版本，文章和链接.
-* [Android Weekly](https://androidweekly.net/) 免费通讯，帮助您保持最新的Android开发.
+* [Android Weekly](https://androidweekly.net/) Free newsletter that helps you to stay cutting-edge with your Android Development.
 * [Awesome Android Newsletter](https://android.libhunt.com/newsletter) .  精选的Android软件包和资源的精选列表.
 * [Weekly Xamarin](http://weeklyxamarin.com) .  Xamarin开发.
 * [Flutter Weekly](https://flutterweekly.net/) .  由颤动的粉丝播出的每周简报.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 * [Data Science Weekly Newsletter](https://www.datascienceweekly.org/) .  每周免费通讯，内容包括与数据科学相关的策划新闻，文章和工作.
-* [Data Eng Weekly](https://dataengweekly.com) .  您的每周数据工程新闻（以前的Hadoop Weekly）. [Archive](https://dataengweekly.com/archive.html).
+* [Data Eng Weekly](https://dataengweekly.com). Your weekly Data Engineering news (Formerly Hadoop Weekly). [Archive](https://dataengweekly.com/archive.html).
 * [Data Elixir](https://dataelixir.com/) .  每周一次的关于网络上最佳数据科学新闻和资源的新闻通讯. [Archive](https://dataelixir.com/newsletters/).
 * [Artificial Intelligence Weekly](http://aiweekly.co/) .  每周收集有关人工智能和机器学习的最佳新闻和资源.
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml) .  每周AI和深度学习时事通讯.
@@ -252,13 +252,13 @@
 
 ## Technology in General
 * [TLDR](https://www.tldrnewsletter.com/) .  TLDR是每日策划的时事通讯，包含技术中最有趣故事的链接和摘要.
-* [Barista.io](https://www.barista.io/) .  通过每日电子邮件收集来自网络的众包文章，了解当今最受欢迎的科技新闻.
+* [Barista.io](https://www.barista.io/). Stay on top of today's most popular Tech news with a daily e-mail of crowd-curated articles from across the Web.
 * [DevCraft](https://devcraftweekly.com/) .  关于软件工程的艺术，工艺和生活方式的每周简报.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links) .  每个工作日有4个关于（主要是研究导向）技术的简短链接.
 * [The Morning Paper](https://blog.acolyer.org/) .  每个工作日早晨，由Adrian Colyer选择的来自CS世界的有趣/有影响力/重要的论文.
 
 ## Business/Finance
-* [Finimize](http://insider.finimize.com/) .  在3分钟内了解今天的财经新闻.  免费.
+* [Finimize](https://insider.finimize.com/) .  在3分钟内了解今天的财经新闻.  免费.
 * [The Pricing Newsletter](https://taprun.com/newsletter/) .  问答，课程和新闻文章，以帮助初创公司和企业主了解如何实施定价策略.
 * [FBA monthly](https://fbamonthly.com/) .  FBA每月是关于亚马逊业务的本月最重要的新闻文章和博客文章的全面总结.  只有实际的新闻，解决方案，策略，卖家到卖家的提示等等. 
 
@@ -272,14 +272,13 @@
 *每周免费通讯，包括与域名，开发，货币化，如何指导，提示和技巧，资源，活动等相关的最佳和手工策划链接. [This Week in Domains](http://www.thisweekindomains.com/)
 * [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每周三为您带来一个全新的，鼓舞人心的早晨例程.
 * [wpMail.me](http://wpmail.me/) .  一个免费的WordPress时事通讯，每周一次，收集WordPress的新闻和文章. [Archive](http://wpmail.me/newsletters/).
-* [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
+* [Handwritten newsletter](http://www.thnkclrly.com/newsletter/) .  Think Clearly时事通讯为您提供一些反思练习，帮助您适应日常生活.  它以爱和钦佩创造. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 * [Better Dev Link](https://betterdev.link) .  每周通讯，收集旨在改善编程知识的链接.  目的不包括读者可以立即从谷歌搜索的链接，如如何做x，y，z，但更多的是关于编程中的问题解决.
 * [GitHub Trending Repos](https://github.com/vitalets/github-trending-repos) .  一个特殊的回购，允许在GitHub上用您喜欢的编程语言跟踪趋势项目.  更新以GitHub通知每天或每周发送一次.
 * [HN Mail](https://hnmail.io) .  可定制的每周简报，根据您的兴趣提供黑客新闻故事.
-* [Stratus Update](https://www.manifold.co/stratusupdate). A weekly take on the rapidly evaporating-and-condensing cloud native landscape. 
+* [Stratus Update](https://www.manifold.co/stratusupdate) .  每周拍摄快速蒸发和凝结的云原生景观. 
 
-## Etc.
-* [Bitcoin Weekly](http://bitcoinweekly.com/) .  每周综合比特币和加密货币新闻和文章.
+## Miscellaneous
 * [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 * [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
 * [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.
@@ -299,6 +298,8 @@
 * [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 * [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.
 * [Crypto Weekly](https://cryptoweekly.co/) .  每周向您的收件箱发送的最佳加密货币新闻和见解.
+* [Unreadit/Tech](https://unread.it/n/tech/) .  来自Reddit最佳帖子的技术爱好者的硬件和软件新闻.
+* [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) .  关于创业，增长，投资和创业公司的前沿新闻来自最好的Reddit帖子.
 
 
 ## License

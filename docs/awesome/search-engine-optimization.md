@@ -20,7 +20,7 @@
 ## Accessibility
 * ** 403：**提供403  - 拒绝访问页面
 * ** 404：**提供404  - 页面未找到页面
-* **File not found:** avoid `404 FILE_NOT_FOUND` errors
+* **找不到文件：**避免“404 FILE_NOT_FOUND”错误
  * **布局：**使用`divs`代替`tables`进行布局.  使用`tables`在语义上不正确.
 * **移动网站：**通过`.htaccess`将所有链接重定向到新位置
 * **[Pagination](https://support.google.com/webmasters/answer/1663744)：**为链接实现`rel =“next”`和`rel =“prev”`属性
@@ -42,7 +42,7 @@
 * **标题：**关键字应出现在标题中
 搜索引擎不使用此元标记
 * **研究：**流量高，竞争较少的关键词排名
-* **单身：**每个页面都应该有一个唯一的目标关键字
+* **Single:** every page should have a single unique targeted keyword
 * **标题：**关键字应出现在页面标题中
 * **[URL](https://www.youtube.com/watch?v=rAWFv43qubI)：**关键字应出现在URL名称中
 
@@ -85,11 +85,6 @@
 ## Social Media
 *作者信息
 * **[Facebook](https://developers.facebook.com/docs/sharing/best-practices)：**分享网站和移动应用程序的最佳实践
-* **[Google+ Authorship](https://www.youtube.com/watch?v=FgFb6Y-UJUI)：**将Google+作者身份信息添加到您的信息页
- ` <link rel="author" href="https://plus.google.com/u/0/[GOOGLE+ ID]">  `或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=author">Google+个人资料</a> &#39;或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=me">Google+个人资料</a> &#39;或
-&#39; <a href="https://plus.google.com/u/0/[GOOGLE+ ID]" rel=publisher">Google+个人资料</a> &#39;
 * **[OpenGraph](http://ogp.me/)：** Open Graph协议使任何网页都成为社交图中的丰富对象.
 * **[Social Profiles](https://developers.google.com/webmasters/structured-data/customize/social-profiles)：**将社交个人资料添加到您的Google搜索结果中
 * **社交分享：**为您的网站提供分享选项
@@ -131,7 +126,6 @@
 
 ### Structured Data
 * **[Facebook Debugger](https://developers.facebook.com/tools/debug)：**输入您要抓取的网址，以查看该网页的标记如何显示在Facebook上
-* **[Google+ Snippet Creator](https://developers.google.com/+/web/snippet/)：**自定义在共享页面时将在社交媒体上看到的片段
 * **[Pinterest](https://developers.pinterest.com/rich_pins/validator/)：**验证您的Rich Pins并申请将它们放到Pinterest上
 * **[Structured Data Testing Tool](https://developers.google.com/structured-data/testing-tool/)：**粘贴在您的丰富网页摘要或网址中进行测试
 * **[Twitter card validator](https://cards-dev.twitter.com/validator)：**输入带有要验证的元标记的页面的URL
@@ -159,7 +153,7 @@
 * **[SEO Fitness Workbook](https://www.amazon.com/SEO-Fitness-Workbook-2016-Optimization/dp/1518748880)：**关于搜索引擎优化的一步一步的书，从目标开始，浏览页面搜索引擎优化，如页面标签，最后是关闭页面搜索引擎优化，如链接建设和社会提及.
 * **[SEO For Dummies, 6th Edition](http://shop.oreilly.com/product/9781119129554.do)：**您完全更新的搜索引擎优化指南
 * **[SEO Step-by-Step - The Complete Beginner's Guide to Getting Traffic from Google](https://www.amazon.com/SEO-Step-Step-Complete-Beginners/dp/1497415020) ：**也从关键字开始，涵盖ON PAGE和OFF PAGE SEO.  强调速度的重要性，并有一个很好的附录与SEO资源，词汇表和链接.
-* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do):** essential Techniques for Increasing Web Visibility
+* **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do)：**提高Web可见性的基本技术
 * **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM)：** Google Analytics，网站站长，网站流量，Adwords，每次点击付费，网站推广和搜索引擎优化简介.
 * **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do)：**掌握搜索引擎优化
 * **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) ：**新来的SEO？  需要提高你的知识吗？  搜索引擎优化的初学者指南已被阅读超过300万次，并提供了您获得专业质量搜索引擎优化所需的信息.

@@ -102,6 +102,7 @@
 * [Impala](https://www.cloudera.com/documentation/enterprise/latest/topics/impala_hbase.html) -  Impala支持查询HBase表.
 * [Kafka](https://github.com/apache/hbase-connectors/tree/master/kafka) -  HBase Kafka代理.
 * [Pig](https://github.com/apache/pig/tree/trunk/src/org/apache/pig/backend/hadoop/hbase) - 猪HBase集成.
+* [Pulsar](http://pulsar.apache.org/docs/en/io-hbase/) - 用于Pulsar的HBase连接器.
 * [Spark](https://github.com/hortonworks-spark/shc) -  Spark-HBase连接器.
 * [Spring for Apache Hadoop](https://projects.spring.io/spring-hadoop/) -  Spring-Hadoop集成，包括HBase支持.
 * [Storm](https://github.com/apache/storm/tree/master/external/storm-hbase) -  HBase的Storm / Trident集成.

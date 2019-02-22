@@ -220,7 +220,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
-- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - HTML templating library for JavaScript.
+- [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 
@@ -571,7 +571,7 @@
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创建更好，更一致的设计和体验.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - 上座部佛教传统的教诲.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - 开源Java应用程序性能管理工具.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - 成为开源维护者的经验.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - 每个平台的计算器.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - 一种用于计算的质询 - 响应测试，用于确定用户是否为人.
@@ -581,6 +581,7 @@
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
+- [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.
 
 
 ## License

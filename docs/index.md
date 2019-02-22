@@ -220,7 +220,7 @@
 - [Progressive Enhancement](awesome/progressive-enhancement-resources.md)
 - [Next.js](awesome/awesome-nextjs.md) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](awesome/awesome-hyperapp.md) - 用于构建Web应用程序的小型JavaScript库.
-- [lit-html](awesome/awesome-lit-html.md) - HTML templating library for JavaScript.
+- [lit-html](awesome/awesome-lit-html.md) - 用于JavaScript的HTML模板库.
 - [JAMstack](awesome/awesome-jamstack.md) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](awesome/awesome-mobile-web-development.md) - 创造出色的移动网络体验.
 
@@ -571,7 +571,7 @@
 - [Design Principles](awesome/awesome-design-principles.md) - 创建更好，更一致的设计和体验.
 - [Visual Regression Testing](awesome/awesome-regression-testing.md) - 确保更改不会破坏功能或样式.
 - [Theravada](awesome/awesome-theravada.md) - 上座部佛教传统的教诲.
-- [inspectIT](awesome/awesome-inspectit.md) - 开源Java应用程序性能管理工具.
+- [inspectIT](awesome/awesome-inspectit.md) - Open source Java app performance management tool.
 - [Open Source Maintainers](awesome/awesome-maintainers.md) - 成为开源维护者的经验.
 - [Calculators](awesome/awesome-calculators.md) - 每个平台的计算器.
 - [Captcha](awesome/awesome-captcha.md) - 一种用于计算的质询 - 响应测试，用于确定用户是否为人.
@@ -581,6 +581,7 @@
 - [Speakers](awesome/awesome-speakers.md) - 编程和设计界的会议和聚会发言人.
 - [Software Patreons](awesome/awesome-software-patreons.md) - 为个人程序员提供资金或开发开源项目.
 - [Parasite](awesome/awesome-parasite.md) - 寄生虫和宿主 - 病原体相互作用.
+- [Food](awesome/awesome-food.md) -  GitHub上与食品有关的项目.
 
 
 ## License

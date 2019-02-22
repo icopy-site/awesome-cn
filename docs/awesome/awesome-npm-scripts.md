@@ -26,7 +26,7 @@
 
 ## Videos/Talks
 
-- [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - 由Kate Hudson在2015年的Nordic.js上讲话
+- [Advanced front-end automation with npm scripts](https://www.youtube.com/watch?v=0RYETb9YVrk) - 由Kate Hudson在2015年的Nordic.js上讲话.
 - [How to create a build system with npm scripts](http://www.penta-code.com/how-to-create-a-build-system-with-npm-scripts/) - 关于设置前端构建系统的视频教程系列.
 
 ## Task Runners
@@ -56,7 +56,7 @@
 - [rimraf](https://github.com/isaacs/rimraf)   - 删除文件或目录;  比如`rm -rf`.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 更安全的文件和文件夹删除.
 - [mkdirp](https://github.com/substack/node-mkdirp)   - 创建目录，根据需要创建父目录;  比如`mkdir -p`.
-- [cpr](https://github.com/davglass/cpr) -  Nodejs的`cp -r`
+- [cpr](https://github.com/davglass/cpr) -  Node.js的`cp -r`
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 文件/目录复制/重命名.
 - [copyfiles](https://github.com/calvinmetcalf/copyfiles) - 将文件列表复制到目录中.
 - [sync-files](https://github.com/byteclubfr/node-sync-files) - `rsync`-like目录与watch模式同步.
@@ -77,7 +77,7 @@
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的gzip大小.
 - [opn-cli](https://github.com/sindresorhus/opn-cli) - 使用用户的首选应用程序打开网站，文件，可执行文件等.
 - [headr](https://github.com/heldr/headr) - 将标题/横幅信息添加到文件中.
-- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - 在命令行上获取主要的凉亭文件
+- [Bower files CLI](https://github.com/thompsonemerson/bower-files-cli) - 在命令行上获取主要的凉亭文件.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - 当npm脚本失败时发送本机桌面通知.
 
 ## Miscellaneous
@@ -93,11 +93,11 @@
 
 在Unix和Windows上运行相同的shell操作符和命令的快速参考.
 
-  - `&amp;&amp;`按顺序运行命令.  如果命令失败，则脚本退出.
-  - `|`将一个命令的stdout输入到下一个命令的stdin中.  （`do-something |别的东西`）
-  - `&gt;`将命令的stdout写入文件.  （`do-something&gt; file`）
-- `<` sends the contents of a file to a command's stdin. (`command < file`)
-  - `cd <dir>  `将当前工作目录更改为` <dir>  `.  请注意，`cd`单独打印Windows上的当前工作目录，但将工作目录更改为\ * nix上的`~`.
+  - 使用`&amp;&amp;`按顺序运行命令.  如果命令失败，则脚本退出.
+  - 使用`|`将一个命令的stdout传递给下一个命令的stdin.  （`do-something |别的东西`）
+  - 使用`&gt;`将命令的stdout写入文件.  （`do-something&gt; file`）
+  - 使用`&lt;`将文件内容发送到命令的stdin.  （`command &lt;file`）
+  - 使用`cd <dir>  `将当前工作目录更改为` <dir>  `.  请注意，`cd`单独打印Windows上的当前工作目录，但将工作目录更改为\ * nix上的`~`.
 
 ## `npm run` Reference
 
