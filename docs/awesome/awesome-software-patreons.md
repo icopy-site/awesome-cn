@@ -124,6 +124,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - 使用Go编程语言的工具.
+- [Dragan Djuric](https://www.patreon.com/draganrocks) -  Uncomplicate的创建者，一系列用于AI，ML和GPU高性能计算的Clojure库.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) - 摇摆，wlroots，sr.ht，scdoc，aerc等等.
 - [Duduf](https://www.patreon.com/duduf) - 用于动画和电影制作的工具. 
 - [Eevee](https://www.patreon.com/eevee) - 游戏，应用程序和文章.

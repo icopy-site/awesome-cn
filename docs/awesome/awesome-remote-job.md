@@ -190,7 +190,7 @@
   1. [Remote Python](https://www.remotepython.com/) - 专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - 为远程职位发布抓取多个职位空缺.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-  1. [Work Remotely](https://workremotely.io/) - 为远程位置爬行并策划许多作业板馈送
+  1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
   1. [Workaline](https://workaline.com/)   - 远程作业聚合器.  以前叫阿尔弗雷德.
 
 ## Housing
@@ -237,7 +237,7 @@
   1. [Remote Jobs Direct](https://remotejobsdirect.com/) - 每周通讯，涵盖各种远程工作和相关新闻.
   1. [Remote Report](http://remote.report) - 每周提供的最佳远程，支持为重点和非技术性工作的集合
   1. [Remoteur](http://www.remoteur.com) - 欧洲的远程工作每两周发送到您的收件箱
-  1. [Remotive - productive remote workers](http://remotive.io/) - 向10,000多名远程工作人员发送关于远程提示和工作的每周简报
+  1. [Remotive - productive remote workers](http://remotive.io/) - 每周向10,000多名远程工作人员发送关于远程提示和工作的简报
   1. [Yonder Newsletter](https://yonder.io/newsletter) - 每日远程工作提示，链接，文章和Yonder播客
   1. [Remote Jobs Club](https://remotejobsclub.com) - 每周时事通讯，提供手工策划的远程工作清单
 
@@ -296,7 +296,7 @@
   1. [CRO Metrics](http://crometrics.com/jobs/) - 数据驱动的过期和增长计划.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java，.Net和DevOps职位.
   1. [Datadog](https://www.datadoghq.com/careers/)   - 易于使用和可扩展的监控系统，适用于现代和动态基础设施.  分布式团队在纽约，波士顿和巴黎设有办事处.  工程师遍布全球.
-  1. [DataStax](http://www.datastax.com/company/careers) - Consulting based on Apache Cassandra.
+  1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
   1. [Deeson](https://www.deeson.co.uk/careers)   - 英国与欧洲团队合作.  数字代理商，专门从事Drupal，Symfony和Laravel
   1. [Demio](https://demio.com/inside/) - 正常运作的网络研讨会平台.
   1. [DigitalOcean](https://www.digitalocean.com/careers/) - 简单的云托管，专为开发人员而设计
@@ -402,7 +402,8 @@
   1. [Sangoma](http://www.sangoma.com)   - 在现场和基于云的情况下提供全球可扩展的IP语音电话系统的可靠领导者.  C，PHP，Python，JavaScript，Linux，FreePBX，VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
   1. [ServiceNow](http://jobs.jobvite.com/servicenow/search?c=&l=&r=&t=&q=remote)   - 企业云计算，以提高服务水平，激励员工，并改变企业的运作方式.  在光速下工作.
-  1. [ShakaCode](http://www.shakacode.com/about/index.html#work-with-us) - A global web development software consultancy and product company.
+  1. [ShakaCode](http://www.shakacode.com/about/index.html#work-with-us) - 全球网络开发软件咨询和产品公司.
+  1. [Shogun](https://getshogun.com/team)   - 构建和优化电子商务登陆页面.  Ruby / Rails，Go，JavaScript，React.  100％遥控.
   1. [Signal](https://www.signal.org/workworkwork/) - 这些人做得很棒 [Signal app](https://www.signal.org) .  仅限美国.
   1. [Simple](https://www.simple.com/careers)
   1. [Skyscrapers](http://skyscrapers.eu/jobs/)   - 云托管服务和管理.  与多个云提供商合作（AWS，Digital Ocean，Linode，...）.  100％遥控.

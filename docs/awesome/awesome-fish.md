@@ -35,6 +35,7 @@
 
 - [danhper/**fish-ssh-agent**](https://github.com/danhper/fish-ssh-agent) - 用于启动ssh代理的实用程序功能
 - [edc/**bass**](https://github.com/edc/bass) - 使bash实用程序可用于鱼类
+- [jorgebucaran/**fish-bax**](https://github.com/jorgebucaran/fish-bax) - 运行bash实用程序，重放鱼类中的环境变化，而不会让您感觉舒适
 
 ### Key Bindings
 

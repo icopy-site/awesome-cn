@@ -76,7 +76,7 @@
 - [Markn](https://github.com/minodisk/markn) -  Markdown查看器.
 - [Shiba](https://github.com/rhysd/Shiba) - 带有linting的实时降价预览.
 - [Yays](https://github.com/Bahlaouane-Hamza/Yays) - 您的菜单栏中的YouTube音乐播放器.
-- [TimoFM](https://github.com/sapjax/TimoFM) - DoubanFM music player.
+- [TimoFM](https://github.com/sapjax/TimoFM) -  DoubanFM音乐播放器.
 - [Monu](https://github.com/maxogden/monu) - 过程监控.
 - [Tèsèvè](https://teseve.github.io) - 静态网络服务器.
 - [DevDocs](https://github.com/egoist/devdocs-app) - 非官方的DevDocs.io应用程序.
@@ -122,7 +122,7 @@
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - 追踪你的时间.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - 专业的出版平台.
 - [Mattermost](https://github.com/mattermost/desktop) -  Mattermost客户.
-- [PupaFM](https://github.com/xwartz/PupaFM) - DoubanFM music player.
+- [PupaFM](https://github.com/xwartz/PupaFM) -  DoubanFM音乐播放器.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - 非官方媒体应用程序.
 - [Lightgallery](https://github.com/sachinchoolur/lightgallery-desktop) - 图像查看器.
 - [Crypter](https://github.com/HR/Crypter) - 安全加密客户端.
@@ -165,7 +165,7 @@
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
 - [Inboxer](https://github.com/denysdovhan/inboxer) - 非官方的Google Inbox应用.
-- [FreeMAN](https://github.com/matthew-matvei/freeman) - 高级用户的文件管理器.
+- [FreeMAN](https://github.com/matthew-matvei/freeman) - File manager for power users.
 - [Mark Text](https://github.com/marktext/marktext) - 实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) - 番茄计时器.
 - [Pretzel](https://github.com/amiechen/pretzel) - 显示和搜索当前应用的键盘快捷键.
@@ -273,7 +273,7 @@
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用ChromeDriver测试电子应用程序.
@@ -290,14 +290,13 @@
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - 为窗户添加活力（模糊）.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - “关于此应用程序”窗口.
 - [elemon](https://github.com/manidlou/elemon) - 在开发过程中实时重新加载您的应用.
-- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - 检查字符串是否是有效的加速器.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - 在浏览器窗口中查看PDF文件.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - 路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - 读取和写入用户设置到磁盘.
 - [got](https://github.com/sindresorhus/got) - 简化的HTTP请求.
 - [electron-unhandled](https://github.com/sindresorhus/electron-unhandled) - 捕获未处理的错误并承诺拒绝.
 - [electron-process-manager](https://github.com/getstation/electron-process-manager) - 流程管理器UI（如Chrome的任务管理器）.
-- [ipc-flux](https://github.com/harryparkdotio/ipc-flux) - 跨流程的类似流程的状态和行动管理.
 - [electron-util](https://github.com/sindresorhus/electron-util) - 用于开发应用程序和模块的实用工具.
 - [electron-reloader](https://github.com/sindresorhus/electron-reloader) - 开发过程中的简单自动重新加载.
 - [electron-serve](https://github.com/sindresorhus/electron-serve) - 静态文件服务（用于路由，如`react-router`）.

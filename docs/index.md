@@ -6,31 +6,9 @@
 	<p>
 		<a href="https://www.patreon.com/sindresorhus">我的开源工作得到了社区的支持</a>
 	</p>
-	<p>
-		<sup>特别感谢：</sup>
-		<br>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
-		</a>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
-		</a>
-	</p>
 	<br>
 	<br>
 </div>
-
-<!--
-<p align="center">
-	 ✨推出<a href="https://awesomeweekly.co">令人敬畏的每周</a>时事通讯！  ✨
-	<b>在<a href="https://www.producthunt.com/posts/awesome-weekly">产品搜索</a>上投票</b>
-</p>
-
-<br>
--->
 
 <p align="center">
 	<a href="awesome.md">什么是一个很棒的清单？</a>
@@ -39,6 +17,12 @@
 	<a href="https://twitter.com/awesome__re">推特</a>
 	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">贴纸和T恤</a>
 </p>
+
+<br>
+
+<div align="center">
+	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter帐户</a> ，了解新增列表的更新.</b>
+</div>
 
 <br>
 
@@ -89,6 +73,8 @@
 - [DigitalOcean](awesome/awesome-digitalocean.md) - 为开发人员设计的云计算平台.
 - [Flutter](awesome/awesome-flutter.md) -  Google的移动SDK，用于使用Dart编写的单一代码库构建原生iOS和Android应用程序.
 - [Home Assistant](awesome/awesome-home-assistant.md) - 开源家庭自动化，将本地控制和隐私放在第一位.
+- [IBM Cloud](awesome/awesome-ibmcloud.md) - 面向开发人员和公司的云平台.
+- [Firebase](awesome/awesome-firebase.md) - 基于Google Cloud Platform构建的应用开发平台.
 
 
 ## Programming Languages
@@ -154,7 +140,7 @@
 - [ActionScript 3](awesome/awesome-actionscript3.md) - 面向Adobe AIR的面向对象语言.
 - [Eta](awesome/awesome-eta.md) -  JVM的函数编程语言.
 - [Idris](awesome/awesome-idris.md) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](awesome/awesome-ada.md) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要. 
+- [Ada/SPARK](awesome/awesome-ada.md) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要.
 
 
 ## Front-End Development
@@ -479,6 +465,7 @@
 - [Non-Financial Blockchain](awesome/awesome-non-financial-blockchain.md) - 非金融区块链应用程序.
 - [Mastodon](awesome/awesome-mastodon.md) - 开源分散式微博网络.
 - [Ethereum](awesome/Awesome-Ethereum.md) - 智能合约开发的分布式计算平台.
+- [Blockchain AI](awesome/awesome-blockchain-ai.md) - 用于人工智能和机器学习的区块链项目.
 
 ## Miscellaneous
 
@@ -571,7 +558,7 @@
 - [Design Principles](awesome/awesome-design-principles.md) - 创建更好，更一致的设计和体验.
 - [Visual Regression Testing](awesome/awesome-regression-testing.md) - 确保更改不会破坏功能或样式.
 - [Theravada](awesome/awesome-theravada.md) - 上座部佛教传统的教诲.
-- [inspectIT](awesome/awesome-inspectit.md) - Open source Java app performance management tool.
+- [inspectIT](awesome/awesome-inspectit.md) - 开源Java应用程序性能管理工具.
 - [Open Source Maintainers](awesome/awesome-maintainers.md) - 成为开源维护者的经验.
 - [Calculators](awesome/awesome-calculators.md) - 每个平台的计算器.
 - [Captcha](awesome/awesome-captcha.md) - 一种用于计算的质询 - 响应测试，用于确定用户是否为人.
@@ -580,8 +567,15 @@
 - [Humane Technology](awesome/awesome-humane-tech.md) - 有助于改善社会的开源项目.
 - [Speakers](awesome/awesome-speakers.md) - 编程和设计界的会议和聚会发言人.
 - [Software Patreons](awesome/awesome-software-patreons.md) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](awesome/awesome-parasite.md) - 寄生虫和宿主 - 病原体相互作用.
+- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
 - [Food](awesome/awesome-food.md) -  GitHub上与食品有关的项目.
+- [Mental Health](awesome/awesome-mental-health.md) - 软件行业的心理健康意识和自我保健.
+- [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - 开始接受比特币.
+
+
+## Related
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - 搜索Awesome数据集.
 
 
 ## License

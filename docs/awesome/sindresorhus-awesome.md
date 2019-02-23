@@ -6,31 +6,9 @@
 	<p>
 		<a href="https://www.patreon.com/sindresorhus">我的开源工作得到了社区的支持</a>
 	</p>
-	<p>
-		<sup>特别感谢：</sup>
-		<br>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
-		</a>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
-		</a>
-	</p>
 	<br>
 	<br>
 </div>
-
-<!--
-<p align="center">
-	 ✨推出<a href="https://awesomeweekly.co">令人敬畏的每周</a>时事通讯！  ✨
-	<b>在<a href="https://www.producthunt.com/posts/awesome-weekly">产品搜索</a>上投票</b>
-</p>
-
-<br>
--->
 
 <p align="center">
 	<a href="awesome.md">什么是一个很棒的清单？</a>
@@ -39,6 +17,12 @@
 	<a href="https://twitter.com/awesome__re">推特</a>
 	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">贴纸和T恤</a>
 </p>
+
+<br>
+
+<div align="center">
+	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter帐户</a> ，了解新增列表的更新.</b>
+</div>
 
 <br>
 
@@ -89,6 +73,8 @@
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - 为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -  Google的移动SDK，用于使用Dart编写的单一代码库构建原生iOS和Android应用程序.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 开源家庭自动化，将本地控制和隐私放在第一位.
+- [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
+- [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于Google Cloud Platform构建的应用开发平台.
 
 
 ## Programming Languages
@@ -154,7 +140,7 @@
 - [ActionScript 3](https://github.com/robinrodricks/awesome-actionscript3#readme) - 面向Adobe AIR的面向对象语言.
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -  JVM的函数编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
-- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要. 
+- [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要.
 
 
 ## Front-End Development
@@ -479,6 +465,7 @@
 - [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - 非金融区块链应用程序.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源分散式微博网络.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - 智能合约开发的分布式计算平台.
+- [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 用于人工智能和机器学习的区块链项目.
 
 ## Miscellaneous
 
@@ -571,7 +558,7 @@
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创建更好，更一致的设计和体验.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - 上座部佛教传统的教诲.
-- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - Open source Java app performance management tool.
+- [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - 开源Java应用程序性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - 成为开源维护者的经验.
 - [Calculators](https://github.com/xxczaki/awesome-calculators#readme) - 每个平台的计算器.
 - [Captcha](https://github.com/ZYSzys/awesome-captcha#readme) - 一种用于计算的质询 - 响应测试，用于确定用户是否为人.
@@ -580,8 +567,15 @@
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
 - [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.
+- [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
+- [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - 开始接受比特币.
+
+
+## Related
+
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - 搜索Awesome数据集.
 
 
 ## License

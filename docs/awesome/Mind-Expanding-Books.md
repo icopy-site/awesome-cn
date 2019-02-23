@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
 ## Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
+
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hackerkid)
 
@@ -9,6 +10,8 @@
 
 
 ## Books
+
+ 我刚刚在https://books.zulipchat.com上为图书爱好者创建了一个在线社区.  现在加入成为创始成员！
 
 ## Startups and Business
  |  名称|  作者|  Goodreads评分|  发布年份|  
@@ -130,7 +133,7 @@
  |  社会契约|  Jean-Jacques Rousseau，Maurice Cranston | [3.75](https://www.goodreads.com/book/show/12651.The_Social_Contract) |  |  
  |  伦理大脑：我们道德困境的科学|  Michael S. Gazzaniga | [3.70](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) | 2006 |  
  |  为什么聪明人会如此愚蠢  Robert J Sternberg | [3.68](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) | 2003 |  
- |  独自一人：为什么我们期望更多来自技术而不是每个人更少  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
+ |  独自一人：为什么我们期望更多来自技术而更少来自其他人  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
  |  如何赢得每一个争论：使用和滥用逻辑|  Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
  |  Rapt：注意力和聚焦生活：Winifred Gallagher |  Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
  |  小谈的美术：如何开始对话，坚持下去，建立网络技能 - 并留下积极的印象  Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
@@ -270,7 +273,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  黎明时代的性别：现代的史前起源  Christopher Ryan，Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
- |  道德贱人：无限性可能性指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
+ |  道德贱人：无限性可能性的指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
  |  性神话|  Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |  
 
 ## Education

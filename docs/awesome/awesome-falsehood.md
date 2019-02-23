@@ -110,6 +110,7 @@ it.
 -  [ISO-8601，YYYY，yyyy，为什么你的年份可能会如此 
 错误]（https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/） - 
 字符串格式化日期很难.
+- [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有关日期和时间（特别是UTC）的边缘情况，您可能没有想到.
 
 
 ## Emails
@@ -145,7 +146,7 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 关于性别，命名和关系.
 -  [虚假程序员相信
 家庭]（https://shkspr.mobi/blog/2017/03/falsehoods-programmers-believe-about-families/） - 
-You can't really define a family with strict rules.
+你无法真正定义一个有严格规则的家庭.
 -  [周围的个人姓名
 世界]（https://www.w3.org/International/questions/qa-personal-names） - 怎么做
 人们的名字在世界各地都有所不同，对这个问题有什么影响
@@ -177,6 +178,7 @@ be.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 关于您在国际化时需要记住的事项的视频
 code.
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 字符编码不一定令人困惑，但它有助于拥有一套基本的知识
 
 
 ## Multimedia
@@ -233,6 +235,7 @@ code.
 - [`address`](https://github.com/Boostport/address) - 去图书馆验证
 并使用Google的数据集格式化地址.
 
+
 ## Science
 
 -  [关于制度的虚假]
@@ -242,7 +245,7 @@ code.
 
 ## Society
 
--  [关于政治问题的虚假]
+- [Falsehoods About Political
 任命]（https://twitter.com/oliver_dw/status/737930439575404544） - 
 设计选举制度有其自己的技巧.
 -  [关于女性的虚假]
@@ -295,7 +298,7 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 ## Contributing
 
  欢迎您的贡献！  请看一下[贡献
-指南]（https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md）首先.
+guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md) first.
 
 
 ## Good Candidates
@@ -305,7 +308,7 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 
 ### *Falsehood* Articles
 
-Articles following the *falsehood* scheme are prime candidates for inclusion in
+遵循* falsehood *计划的文章是纳入的主要候选人
 这个很棒的清单.
 
 这些文章首先假设开发人员有一个天真，简单的假设

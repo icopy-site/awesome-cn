@@ -54,7 +54,7 @@
 - [lllcho/CAPTCHA-breaking](https://github.com/lllcho/CAPTCHA-breaking) - 打破验证码.
 - [ecthros/uncaptcha](https://github.com/ecthros/uncaptcha) - 以85％的准确率击败Google的音频reCaptcha.
 - [dessant/buster](https://github.com/dessant/buster) - 用于人类和怪物的Captcha求解器扩展.
-
+- [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer)   - 基于CNN5 / DenseNet + BLSTM / LSTM + CTC实现验证码识别.  仅用于训练模型.
 
 ### Chinese
 - [burness/chinese_hand_write_rec](https://github.com/burness/tensorflow-101/tree/master/chinese_hand_write_rec/src) - 手写中文识别.
