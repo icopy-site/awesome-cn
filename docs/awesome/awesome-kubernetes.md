@@ -51,7 +51,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
 ## Roadmap
 
-The awesome-kubernetes will now soon be available in the form of different releases and package bundles, It means that you can
+很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015软件包发布.查看发布专栏了解更多信息.
 
 -----------------------------------------------------------------------
@@ -74,7 +74,7 @@ Menu
 * [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) 通过 [Laura Frank](https://twitter.com/rhein_wein)
-* [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) 通过 [Rajdeep Dua](https://twitter.com/rajdeepdua)
+* [Kubernetes入门]  -  http://containertutorials.com/get_started_kubernetes/index.html [Rajdeep Dua](https://twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) 通过 [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes 通过 Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) 通过 [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -104,12 +104,10 @@ Installers
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - 不可知的骨头 - 不可知云
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) -  CoreOS  - 不可知云
 * [Kube-aws](https://github.com/coreos/kube-aws) -  CoreOS  -  AWS
-* [Kismatic](https://github.com/apprenda/kismatic) -  CentOS  -  Cloud Agnostic
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
 * [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
 * [sealos](https://github.com/fanux/sealos) -  HA安装程序的简单安装程序
-* [Archon](https://github.com/kubeup/archon) - 不可知的骨头 - 不可知云
 * [KubeNow](https://github.com/kubenow/KubeNow) -  Ubuntu  -  Cloud Agnostic
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - 不可知的骨头 - 不可知云
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd`操作系统 - 不可知云
@@ -218,7 +216,7 @@ Installers
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) 作者：Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) 通过 [Sebastien Goasguen](https://twitter.com/sebgoa)
-* [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) 通过 [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
+* [使用Kubernetes进行Nginx服务器部署]  -  http://containertutorials.com/get_started_kubernetes/k8s_example.html by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
@@ -243,6 +241,7 @@ Installers
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
+* [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
 
 管理Kubernets
 =======================================================================
@@ -255,11 +254,11 @@ Installers
 
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
-  - [Gardener](https://github.com/gardener/gardener) -  AWS，Azure，GCP和OpenStack集群管理器
+  - [Gardener](https://github.com/gardener/gardener) - 阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
   - [Kubermatic](http://www.loodse.com/)
   - [Rancher](https://rancher.com/)
   - [PKS](https://pivotal.io/platform/pivotal-container-service) -  Pivotal，VMWare和Google的集群管理器
-  - [Telekube](https://gravitational.com/telekube/)
+  - [Gravity](https://gravitational.com/gravity) - 以前的Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
 
 
@@ -276,28 +275,27 @@ Installers
 
 
 
-  - [CoreOS Tectonic](http://tectonic.com)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](http://www.loodse.com/)
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
+  - [Docker EE](https://www.docker.com/enterprise-edition) -  Docker Enterprise Edition 2.0
 
 
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
    - [AWS EKS](https://aws.amazon.com/eks/) - 亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -  Azure Kubernetes服务
-   - [Vsphere](http://www.vmware.com/products/vsphere.html) -  VMWare VSphere
+   - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
    - [Rackspace](https://www.rackspace.com/en-in) -  Rackspace
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -  Kubernetes的阿里巴巴云容器服务
    - [IKS](https://www.ibm.com/cloud/container-service) -  IBM Cloud Kubernetes服务
-   - [Docker EE](https://www.docker.com/enterprise-edition) -  Docker Enterprise Edition 2.0
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernets
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
 
 
    * Kubernetes平台即服务提供商*
 
+  - [KubeSail](https://kubesail.com) - 尝试Kubernetes的简单，免费的方式
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
@@ -312,14 +310,14 @@ Installers
 互动学习环境
 =======================================================================
 
-*Learn Kubernetes using an interactive environment without requiring downloads or configuration*
+*使用交互式环境学习Kubernetes，无需下载或配置*
 
 * [Katacoda](http://www.katacoda.com/courses/kubernetes)
 * [Play with Kubernetes](http://labs.play-with-k8s.com/)
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Magic Sandbox](https://magicsandbox.com/)
 
-MOOC课程/教程
+MOOC Courses / Tutorials
 =======================================================================
 
 *可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
@@ -430,11 +428,9 @@ Projects
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - 一个K8S附加组件，用于直接在集群工作节点上创建和管理容器映像的缓存
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Kubefwd](https://github.com/txn2/kubefwd) - 批量端口转发Kubernetes服务，用于本地开发.
-* [KubeSpray](https://github.com/kubespray)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
-* [Archon](https://github.com/kubeup/archon)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
 * [Fission Workflows](https://github.com/fission/fission-workflows) - 基于工作流程的无服务器功能组合
@@ -462,7 +458,7 @@ Projects
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
 * [Netsil](https://github.com/netsil/manifests)
-* [New Relic](https://newrelic.com/platform/kubernetes) -  Kubernetes监控和可视化服务.  
+* [New Relic](https://newrelic.com/platform/kubernetes) -  Kubernetes监控和可视化服务.
 * [Outcold Solutions](https://www.outcoldsolutions.com) - 监控Splunk Enterprise和Splunk Cloud中的Kubernetes，OpenShift和Docker（指标和日志转发）
 * [Prometheus](http://prometheus.io)
 * [Sysdig Monitoring](https://www.sysdig.com/)
@@ -557,7 +553,7 @@ Projects
 
 * [Scheduler](https://github.com/kelseyhightower/scheduler) - 基于成本的调度程序
 * [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler)
-* [ksched](https://github.com/coreos/ksched) - 基于实验流程的调度程序
+* [ksched](https://github.com/coreos/ksched) - Experimental flow based scheduler
 * [escheduler](https://github.com/agonzalezro/escheduler) - 写在长生不老药
 * [bashScheduler](https://github.com/rothgar/bashScheduler) - 用bash写
 
@@ -612,14 +608,15 @@ Projects
 * [AWS VPC CNI](https://github.com/aws/amazon-vpc-cni-k8s) - 使用弹性网络接口的网络插件
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - 支持负载均衡和分布式防火墙的CNI插件.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
+* [Cisco ACI](https://www.cisco.com/c/en/us/td/docs/switches/datacenter/aci/apic/sw/kb/b_Kubernetes_Integration_with_ACI.html) -  Cisco支持ACI结构的CNI插件
 
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
-* [Amalgam8](http://github.com/amalgam8) - 获得者 [Istio](http://istio.io/)
+* [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Conduit](http://conduit.io/)
+* [Consul](https://www.consul.io/docs/platform/k8s/index.html)
 
 ## RPC
 
@@ -774,6 +771,7 @@ Projects
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
+* [Talos](https://github.com/autonomy/talos)
 
 ## YAML/JSON Config
 

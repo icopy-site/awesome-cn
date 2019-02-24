@@ -16,7 +16,7 @@
 
 ## Tutorials and Video Courses
 
-* [KnpUniversity - Symfony Course Track](https://knpuniversity.com/tracks/symfony)
+* [SymfonyCasts - Learn Symfony 4](https://symfonycasts.com/tracks/symfony)
     *视频+文章.  简单明了，有实例.
 * [Working with Symfony 2](https://code.tutsplus.com/series/working-with-symfony-2--cms-636)
    *初学者的短视频系列
@@ -26,7 +26,7 @@
 
 ## Series for begginers
 
-* [Joyful Development with Symfony 3](https://knpuniversity.com/screencast/symfony) [2016] KnpUniversity
+* [Joyful Development with Symfony 3](https://symfonycasts.com/tracks/symfony3) [2016]由SymfonyCasts提供
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [在捷克语]
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) [2018]
 
@@ -39,14 +39,14 @@
 
 * [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) 作者：Benjamin Eberlei [2013]
 * [Re-thinking Event Listeners](http://mmoreram.com/blog/2015/08/20/re-thinking-event-listeners/) [2015]
-* [Journey to the Center of Symfony: HttpKernel Request-Response](https://knpuniversity.com/screencast/symfony-journey) 由KnpUniversity提供[2015]
+* [Journey to the Center of Symfony: HttpKernel Request-Response](https://symfonycasts.com/screencast/symfony-journey) 作者：SymfonyCasts [2015]
 
 
 ## Security
 
 * [Symfony Security, Roles vs. Voters](https://stovepipe.systems/post/symfony-security-roles-vs-voters) [2015]
 * [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
-* [The new Voter Class](https://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] KnpUniversity
+* [The new Voter Class](https://symfonycasts.com/screencast/new-in-symfony3/voter) [2016]由SymfonyCasts提供
 
 
 ## Forms

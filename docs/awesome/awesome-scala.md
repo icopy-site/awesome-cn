@@ -32,6 +32,7 @@
 * [Memcontinuationed ★ 51 ⧗ 245](https://github.com/Atry/memcontinuationed) -  Scala的Memcached客户端.
 * [Morpheus ★ 104 ⧗ 0](https://github.com/outworkers/morpheus) - 用于MySQL / Postgres的反应型安全Scala驱动程序.
 * [neo4akka ★ 6 ⧗ 117](https://github.com/outr/neo4akka) - 使用Akka HTTP的Neo4j Scala客户端，具有编译时查询插值，案例类支持，真正的非阻塞IO等等.
+* [neotypes ★ 22 ⧗ 2](https://github.com/neotypes/neotypes) -  neo4j的纯功能驱动程序.
 * **[Phantom ★ 903 ⧗ 5](https://github.com/outworkers/phantom)**  -  Apache Cassandra的反应型Scala驱动程序.
 * **[PostgreSQL and MySQL async ★ 983 ⧗ 0](https://github.com/mauricio/postgresql-async)**  - 在Scala中与PostgreSQL和MySQL通信的异步数据库驱动程序.
 * [Pulsar4s ★ 15](https://github.com/sksamuel/pulsar4s) -  Apache Pulsar的Scala客户端.
@@ -53,10 +54,9 @@
 * **[Slick ★ 1795 ⧗ 0](https://github.com/slick/slick)**  -  Scala的现代数据库查询和访问库.
 * [Sorm ★ 239 ⧗ 2](https://github.com/sorm/sorm) - 功能无样板的Scala ORM.
 * [Squeryl ★ 484 ⧗ 1](https://github.com/squeryl/squeryl) - 用于与数据库通信的Scala DSL，具有最小的冗长和最大类型安全性.
-* [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) - 在Akka IO和Akka Streams之上构建的用于Scala的Reactive MongoDB驱动程序.
 * [Sangria](https://sangria-graphql.org/) -  Scala GraphQL实现
 * [Scruid ★ 48](https://github.com/ing-bank/scruid) -  Scruid（Scala + Druid）是一个开源库，允许您在Scala中轻松编写德鲁伊查询.
-* [neotypes ★ 22 ⧗ 2](https://github.com/neotypes/neotypes) -  neo4j的纯功能驱动程序.
+* [Tepkin ★ 86 ⧗ 251](https://github.com/fehmicansaglam/tepkin) - 在Akka IO和Akka Streams之上构建的用于Scala的Reactive MongoDB驱动程序.
 
 ## Messaging
 
@@ -96,8 +96,8 @@
 * **[Binding.scala ★ 935 ⧗ 0](https://github.com/ThoughtWorksInc/Binding.scala) **  - 反应式网络框架.  它使您能够使用本机XML文字语法来创建反应式DOM节点，这些节点能够在数据源发生更改时自动更改.
 * [Korolev](http://github.com/fomkin/korolev/) - 在服务器端运行的现代单页应用程序
 * [Udash](http://udash.io/)   - 基于Scala.js的Web框架，支持属性绑定，前端路由，i18n等等.  它还提供基于WebSockets的强类型客户端&lt; - &gt;服务器RPC系统.
-* [Widok](https://widok.github.io/) -  JVM和Scala.js的反应式Web框架
 * [Vert.x Web](http://vertx.io/docs/vertx-web/scala/) - 用于构建反应式Web应用程序的工具包
+* [Widok](https://widok.github.io/) -  JVM和Scala.js的反应式Web框架
 
 ## Data Binding and Validation
 
@@ -148,23 +148,22 @@
 
 * [cornichon ★ 109 ⧗ 3](https://github.com/agourlay/cornichon) - 用于测试HTTP JSON API的Scala DSL.
 * [Gatling](http://gatling.io) - 基于异步Scala-Akka-Netty的Stress Tool.
-* **[ScalaCheck ★ 1196 ⧗ 6](https://github.com/rickynils/scalacheck)**  -  Scala基于属性的测试.
 * [Minitest](https://github.com/monix/minitest) - 一个专注于简单性的测试框架.
+* **[ScalaCheck ★ 1196 ⧗ 6](https://github.com/rickynils/scalacheck)**  -  Scala基于属性的测试.
 * [ScalaMeter](https://scalameter.github.io/) - 性能和内存占用测量，回归测试.
 * [ScalaMock](http://scalamock.org) -  Scala本机模拟框架
 * [scalaprops ★ 171 ⧗ 5](https://github.com/scalaprops/scalaprops) - 另一个基于属性的Scala测试库
 * **[ScalaTest ★ 532 ⧗ 5](https://github.com/scalatest/scalatest)**  -  Scala和Java开发人员的测试工具.
 * [Scalive ★ 187 ⧗ 20](https://github.com/xitrum-framework/scalive)   - 将Scala REPL连接到正在运行的JVM进程，无需事先进行任何设置;  该库用于检查生产模式下的系统.
 * **[Specs2 ★ 570 ⧗ 1](https://github.com/etorreborre/specs2)**  -  Scala的软件规范.
+* [Stryker4s ★ 21](https://github.com/stryker-mutator/stryker4s) - 使用突变测试测试您的测试.
 * [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) -  Scala的小型便携式测试库.
 * [testcontainers-scala ★ 52 ⧗ 2](https://github.com/testcontainers/testcontainers-scala) - 用于在Scala中进行测试的Docker容器.
-* [Stryker4s ★ 21](https://github.com/stryker-mutator/stryker4s) - 使用突变测试测试您的测试.
 
 ## JSON
 
 *与json一起工作的图书馆.*
 
-* [uJson](http://www.lihaoyi.com/upickle/#uJson) - 快速，灵活，直观的Scala JSON
 * [argonaut](http://argonaut.io/) -  Scala中的纯功能JSON.
 * **[circe ★ 824 ⧗ 2](https://github.com/travisbrown/circe)**  - 基于Argonaut的JSON库，取决于Cats
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -  Json的scala diff / patch库
@@ -181,6 +180,7 @@
 * [scalajack ★ 81 ⧗ 35](https://github.com/gzoller/ScalaJack)   - 快速简单的JSON序列化，支持可选的MongoDB.  在引擎盖下使用杰克逊.
 * **[spray-json ★ 606 ⧗ 2](https://github.com/spray/spray-json)**  -  Scala中轻量级，干净且高效的JSON实现.
 * [sbt-json](https://github.com/battermann/sbt-json) -  sbt插件，它生成Scala案例类，以便轻松，静态地键入和隐式访问JSON文档
+* [uJson](http://www.lihaoyi.com/upickle/#uJson) - 快速，灵活，直观的Scala JSON
 
 ## YAML
 
@@ -192,9 +192,9 @@
 
 *使用CSV工作的图书馆.*
 
+* [fm-flatfile ★ 1 ⧗ 1](https://github.com/frugalmechanic/fm-flatfile) - 非常灵活的平面文件（CSV，TSV，Excel等）Scala读卡器.
 * [kantan.csv ★ 143 ⧗ 24](https://github.com/nrinaudo/kantan.csv) - 具有多个后端的Scala的CSV处理库.
 * [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - 用于Scala的CSV读/写器.
-* [fm-flatfile ★ 1 ⧗ 1](https://github.com/frugalmechanic/fm-flatfile) - 非常灵活的平面文件（CSV，TSV，Excel等）Scala读卡器.
 
 
 ## Serialization
@@ -205,12 +205,12 @@
 * [Chill ★ 378 ⧗ 4](https://github.com/twitter/chill) -  Kryo序列化库的扩展，以简化Hadoop和Storm等系统的配置.
 * [msgpack ★ 75 ⧗ 57](https://github.com/msgpack/msgpack-scala) - 高效的二进制序列化库.
 * **[Pickling ★ 808 ⧗ 0](https://github.com/scala/pickling)**  - 快速，可定制，无样板的酸洗支持.
+* [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 * [ScalaBuff ★ 218 ⧗ 1](https://github.com/SandroGrzicic/ScalaBuff) -  Scala协议缓冲区（protobuf）编译器
 * **[ScalaPB ★ 705 ⧗ 51](https://scalapb.github.io/)**  - 协议缓冲区和对Scala的gRPC支持
 * [scodec ★ 474 ⧗ 10](https://github.com/scodec/scodec) - 用于处理二进制数据的组合器库.
 * [Scrooge](http://twitter.github.io/scrooge/) - 用于Scala的Apache Thrift代码生成器.
 * [validation ★ 177 ⧗ 3](https://github.com/jto/validation) - Advanced validation & serialization for JSON, HTML form data, etc, with no reflection at runtime.
-* [µPickle](http://lihaoyi.github.io/upickle/) - A lightweight serialization library for Scala that works in ScalaJS, allowing transfer of structured data between the JVM and JavaScript.
 
 ## Science and Data Analysis
 
@@ -222,6 +222,7 @@
 * **[Breeze ★ 2028 ⧗ 0](https://github.com/scalanlp/breeze)**  -  Breeze是Scala的数字处​​理库.
 * [Chalk ★ 231 ⧗ 6](https://github.com/scalanlp/chalk) -  Chalk是一个自然语言处理库.
 * [Clustering4Ever ★ 50](https://github.com/Clustering4Ever/Clustering4Ever) Scala和Spark API可以对您可以生成的任何矢量化进行基准测试和分析聚类算法
+* [doddle-model](https://github.com/picnicml/doddle-model)   - 基于Breeze构建的内存机器学习库.  它提供了不可变对象，并通过类似scikit-learn的API公开其功能.
 * [FACTORIE ★ 486 ⧗ 7](https://github.com/factorie/factorie) - 用于可部署概率建模的工具包，在Scala中作为软件库实现.
 * [Figaro ★ 461 ⧗ 0](https://github.com/p2t2/figaro) -  Figaro是一种概率编程语言，支持非常丰富的概率模型的开发.
 * [Libra ★ 142](https://github.com/to-ithaca/libra)   - 天秤座是一个基于无形，尖顶和单一操作的维度分析库.  它包含对所有数字类型的SI单位的开箱即用支持.
@@ -238,7 +239,6 @@
 * [Rings ★ 3 ⧗ 0](https://github.com/PoslavskySV/rings)   - 多项式环的有效库.  交换代数，多项式GCD，多项式因式分解和其他sci事物在一个非常高的速度.
 * [Saddle ★ 428 ⧗ 2](https://github.com/saddle/saddle) -  Pandas至斯卡拉的极简主义港口
 * [Smile](http://haifengl.github.io/smile/)   - 统计机器智能和学习引擎.  微笑是一种快速而全面的机器学习系统.
-* [doddle-model](https://github.com/picnicml/doddle-model)   - 基于Breeze构建的内存机器学习库.  它提供了不可变对象，并通过类似scikit-learn的API公开其功能.
 * **[Spark Notebook ★ 1896 ⧗ 0](https://github.com/andypetrella/spark-notebook)**  - 可扩展且稳定的Scala和Spark专注笔记本弥补了JVM和数据科学家之间的差距（包括可扩展，类型安全和反应图表）.
 * **[Spire ★ 1152 ⧗ 3](https://github.com/non/spire)**  - 强大的新数字类型和Scala的数字抽象.
 * [Squants ★ 388 ⧗ 1](https://github.com/garyKeorkunian/squants) - 用于数量，度量单位和维度分析的Scala API.
@@ -284,17 +284,17 @@
 *事件流，信号，可观察量等*
 
 * **[fs2 ★ 1323 ⧗ 340](https://github.com/functional-streams-for-scala/fs2)**  -  Scala的组合式流式I / O库
+* [Iteratee ★ 158](https://github.com/travisbrown/iteratee) - 猫的Iteratees
 * **[Monix ★ 1432 ⧗ 164](https://github.com/monix/monix) **  -  Scala标准库的扩展，用于多线程原语和功能反应式编程.  Scala.js兼容.
 * [Reactive Collections ★ 2 ⧗ 165](https://github.com/storm-enroute/reactors) - 将事件流和信号与称为反应容器的专用集合合并的库，并使用隔离和通道表达并发性.
 * **[RxScala ★ 824 ⧗ 0](https:65]529//github.com/ReactiveX/RxScala)**  -  Scala的Reactive Extensions  - 一个使用可观察序列组合异步和基于事件的程序的库
+* [REScala](http://www.rescala-lang.com/)   -  REScala是一个用于JVM和Web上的功能性反应式编程的库.  它为事件流转换和信号组合提供了丰富的API，具有托管一致的最新状态和最小的语法开销.
+* [Reactor-Scala-Extensions](https://github.com/reactor/reactor-scala-extensions) -  Scala扩展 [Project Reactor](http://projectreactor.io)
 * [scala.frp ★ 22 ⧗ 101](https://github.com/dylemma/scala.frp) -  Scala的功能反应式编程（事件流）.
 * **[Scala.Rx ★ 898 ⧗ 4](https://github.com/lihaoyi/scala.rx) **  -  Scala中功能反应编程的实验库（反应变量）.  Scala.js兼容.
 * [Scalaz ZIO ★ 529](https://github.com/scalaz/scalaz-zio) - 一个类型安全的可组合库，用于Scala中的异步和并发编程
-* [Iteratee ★ 158](https://github.com/travisbrown/iteratee) - 猫的Iteratees
 * [SynapseGrid ★ 109 ⧗ 1](https://github.com/Primetalk/SynapseGrid)   - 用于构建反应式实时不可变数据流系统的FRP框架.  它实现了一种基于Petri网运行和组织事件驱动系统的原始方式.  拓扑可以视为.dot图.  该库与Akka兼容，可以与其他演员无缝沟通.
 * [Vert.x](http://vertx.io/)   - 用于JVM的多语言反应式应用程序平台，旨在替代node.js.  它的并发模型类似于actor.  它支持 [Scala](http://vertx.io/docs/vertx-core/scala/)，Clojure，Java，Javascript，Ruby，Groovy和Python.
-* [REScala](http://www.rescala-lang.com/)   -  REScala是一个用于JVM和Web上的功能性反应式编程的库.  它为事件流转换和信号组合提供了丰富的API，具有托管一致的最新状态和最小的语法开销.
-* [Reactor-Scala-Extensions](https://github.com/reactor/reactor-scala-extensions) -  Scala扩展 [Project Reactor](http://projectreactor.io)
 
 ## Modularization and Dependency Injection
 
@@ -328,12 +328,12 @@
 
 *扩展扩展.*
 
-* [Squid ★ 88 ⧗ 9](https://github.com/epfldata/squid) - 类型安全的元编程框架，带有类型，卫生的准引号.
 * [Ammonite-Ops](http://lihaoyi.github.io/Ammonite/#Ammonite-Ops) - 在Scala中安全，简单，文件系统操作与在Bash shell中一样方便.
 * **[better-files ★ 824 ⧗ 0](https://github.com/pathikrit/better-files) **  - 简单，安全和直观的Scala I / O.  better-files是一个围绕Java NIO的无依赖实用的瘦Scala包装器.
 * **[Cassovary ★ 881 ⧗ 0](https://github.com/twitter/cassovary)**  -  Scala库，从头开始设计用于节省空间，处理具有数十亿节点和边缘的图形.
 * **[cats ★ 1697 ⧗ 0](https://github.com/typelevel/cats)**  - 用于功能编程的轻量级，模块化和可扩展库.
 * [Chimney ★ 92 ⧗ 5](https://github.com/scalalandio/chimney) - 用于无样板数据转换的Scala库.
+* [chronoscala ★ 38 ⧗ 0](https://github.com/opt-tech/chronoscala) - 用于Java Date / Time API的Scala包装器.
 * [Each ★ 146 ⧗ 0](https://github.com/ThoughtWorksInc/each) - 将原生命令式语法转换为的宏库 [Scalaz](https://github.com/scalaz/scalaz)的一元表达.
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) - 可扩展效果是monad变换器的替代方案，用于以功能方式计算效果.
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
@@ -349,13 +349,13 @@
 * [LogStage ★ 13 ⧗ 0](https://github.com/pshirshov/izumi-r2) - 采用[SLF4J]集成的Scala零成本结构记录器.
 * **[Monocle ★ 757 ⧗ 0](https://github.com/julien-truffaut/Monocle)**  - 用于纯函数操作不可变对象的光学/镜头库.
 * **[n-scala ★ 662 ⧗ 3](https://github.com/nscala-time/nscala-time)**  -  Joda Time的Scala包装.
-* [chronoscala ★ 38 ⧗ 0](https://github.com/opt-tech/chronoscala) - 用于Java Date / Time API的Scala包装器.
 * [Persist-Logging ★ 33 ⧗ 48](https://github.com/nestorpersist/logging) -  Scala的综合日志库.
 * [Quicklens ★ 245 ⧗ 0](https://github.com/adamw/quicklens) - 使用优雅的API修改深层嵌套的案例类字段
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)） - 用于常见日常编程任务（I / O，JSON，i18n等）的库集合
 * [Records for Scala ★ 125 ⧗ 55](https://github.com/scala-records/scala-records) - 基于结构细化类型和宏的Scala标记记录.
 * [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) - 具有编译和运行时检查的简单细化类型
 * [Resolvable ★ 0 ⧗ 94](https://github.com/stanch/resolvable) - 一个库，用于优化从多个格式的多个端点获取不可变数据结构.
+* [Squid ★ 88 ⧗ 9](https://github.com/epfldata/squid) - 类型安全的元编程框架，带有类型，卫生的准引号.
 * **[Scala Async ★ 778 ⧗ 0](https://github.com/scala/async)**  -  Scala的异步编程工具.
 * [Scala Graph](http://www.scala-graph.org/) - 具有基本图形功能的Scala库，可无缝地融入Scala标准集合库.
 * [scala.meta](http://scalameta.org/) -  Scala元编程工具包的洁净室实现.
@@ -484,10 +484,10 @@
 * **[sbteclipse ★ 632 ⧗ 0](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
 * [scala-clippy ★ 211 ⧗ 5](https://github.com/softwaremill/scala-clippy) -  Scala编译器错误的良好建议和着色
 * [ScalaKata2 ★ 79 ⧗ 0](https://github.com/MasseGuillaume/ScalaKata2) -  Scala游乐场和文档工具.
-* [tut ★ 364 ⧗ 2](https://github.com/tpolecat/tut) - 使用类型检查示例编写文档的工具.
-* [xsbt-web-plugin ★ 334 ⧗ 1](https://github.com/earldouglas/xsbt-web-plugin) - 在Scala中构建企业J2EE Web应用程序.
 * [sbt-hepek ★ 5 ⧗ 0](https://github.com/sake92/sbt-hepek) - 使用Scala代码创建静态网站（将`object`渲染为文件！）.
 * [splain ★ 234 ⧗ 0](https://github.com/tek/splain) -  Scala更好的隐式错误.
+* [tut ★ 364 ⧗ 2](https://github.com/tpolecat/tut) - 使用类型检查示例编写文档的工具.
+* [xsbt-web-plugin ★ 334 ⧗ 1](https://github.com/earldouglas/xsbt-web-plugin) - 在Scala中构建企业J2EE Web应用程序.
 
 ## XML / HTML
 
@@ -504,67 +504,67 @@
 *学习Scala的好书，博客和其他资源*
 
 ### Community Members' Blogs
-* http://degoes.net/articles/
-* https://github.com/lemastero/scala_typeclassopedia
-* http://blog.higher-order.com/
-* https://pchiusano.github.io/
-* http://www.warski.org/blog/
-* http://www.lihaoyi.com/
-* https://blog.bruchez.name/search/label/scala
-* http://eed3si9n.com/category/tags/scala
-* http://danielwestheide.com/scala/neophytes.html
-* http://ktoso.github.io/scala-types-of-types/
-* https://kubuszok.com/tags/#scala
-* http://appliedscala.com/
-* http://debasishg.blogspot.com/
-* http://blog.tmorris.net/tags/Scala/index.html
-* https://www.beyondthelines.net/
-* https://alvinalexander.com/fpbook
-* https://naildrivin5.com/scalatour/
-* https://manuel.bernhardt.io/blog/
-* https://janzhou.org/scala/
-* http://torre.me.uk/docs/scala/
-* http://www.rabbitonweb.com/
-* http://scalaprof.blogspot.com/
 * http://aperiodic.net/phil/scala/s-99/
+* http://appliedscala.com/
+* http://blog.higher-order.com/
+* http://blog.tmorris.net/tags/Scala/index.html
+* http://danielwestheide.com/scala/neophytes.html
+* http://debasishg.blogspot.com/
+* http://degoes.net/articles/
+* http://eed3si9n.com/category/tags/scala
+* http://ktoso.github.io/scala-types-of-types/
 * http://scalacookbook.com/
+* http://scalaprof.blogspot.com/
+* http://torre.me.uk/docs/scala/
+* http://www.lihaoyi.com/
+* http://www.rabbitonweb.com/
+* http://www.warski.org/blog/
+* https://alvinalexander.com/fpbook
+* https://blog.bruchez.name/search/label/scala
+* https://github.com/lemastero/scala_typeclassopedia
+* https://janzhou.org/scala/
+* https://kubuszok.com/tags/#scala
+* https://manuel.bernhardt.io/blog/
+* https://naildrivin5.com/scalatour/
+* https://pchiusano.github.io/
+* https://www.beyondthelines.net/
 
 ### Company Blogs
 * [Functional Works / Learn](https://functional.works-hub.com/learn/) - 功能性工作维护的优质资源
-* https://blog.softwaremill.com/tagged/scala
 * http://allaboutscala.com/
-* https://www.codacy.com/blog/
-* https://medium.com/disney-streaming/tagged/thisweekinscala
-* https://blog.knoldus.com/tag/scala/
 * http://enear.github.io/
+* https://blog.knoldus.com/tag/scala/
 * https://blog.scalac.io/tags/Scala/
+* https://blog.softwaremill.com/tagged/scala
+* https://medium.com/disney-streaming/tagged/thisweekinscala
+* https://www.codacy.com/blog/
 * [Scala Times](https://scalatimes.com/) - 关于斯卡拉的每周简报
 
 
 
 ### Misc.
-* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)**  - 使用中文编写的示例Scala库使用的回购
 * [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - 对一些核心语言概念的一口大小的介绍.
+* [CA Art](https://github.com/makingthematrix/ca_art) - 一个旨在通过细胞自动机实验来学习中级Scala的小项目
+* **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)**  - 使用中文编写的示例Scala库使用的回购
 * [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - 没有
-* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
+*资源来自 [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
+* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - 社区驱动的Scala练习.
+* [Essential Scala](https://underscore.io/books/essential-scala/) - 没有
 * [Functional Programming in Scala](https://www.coursera.org/specializations/scala)   - 由Martin Odersky等人创建的Coursera Specialization（5门课程）.  在洛桑联邦理工学院（瑞士联邦理工学院洛桑分校）.
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - 没有
+* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) -  Scala的教程驱动介绍
+* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) -  Dmytro Mitin的视频课程
+* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - 涵盖类型类，仿函数，应用程序，monad，monad变换器，免费monad
+* [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)
 * [Reactive Programming with Scala and Akka](http://www.foxebook.net/reactive-programming-with-scala-and-akka/) - 使用反应式编程的概念来构建在多个节点上运行的分布式系统
 * [Scala Collections Cookbook](http://colobu.com/ScalaCollectionsCookbook/)   -  Scala收藏介绍.  用中文写的.
 * [Scala Exercises](http://scala-exercises.47deg.com/)   - 将流行的Scala Koans引入网络.  提供数百种可解决的练习，分为42个类别，涵盖Scala语言的基础知识.
-* [Exercism - Scala Exercises](http://exercism.io/languages/scala/exercises) - 社区驱动的Scala练习.
 * [Scala With Cats](https://underscore.io/books/scala-with-cats/) - 使用现代函数式编程技术学习系统架构和设计 [Cats](https://typelevel.org/cats/)
 * [Scala in Depth](https://www.manning.com/books/scala-in-depth) - 没有
 * [Scala school](https://twitter.github.io/scala_school/) -  Scala学校最初是在Twitter上发布的一系列讲座，旨在帮助经验丰富的工程师成为高效的Scala程序员.
-* [Essential Scala](https://underscore.io/books/essential-scala/) - 没有
 * [Scalera Blog](http://www.scalera.es)   - 关于Scala语言及其环境的博客（howto&#39;s，良好实践，技巧......）.  每周用西班牙语和英语写的帖子
-*资源来自 [Dr. Mark Lewis](http://www.cs.trinity.edu/~mlewis/) >> [Website](http://www.programmingusingscala.net/) | [Youtube Playlists](https://www.youtube.com/user/DrMarkCLewis/playlists)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - 没有
-* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - 没有
-* [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - 涵盖类型类，仿函数，应用程序，monad，monad变换器，免费monad
-* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) -  Scala的教程驱动介绍
-* [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) -  Dmytro Mitin的视频课程
 * [Scala for the Impatient 2nd Edition](https://horstmann.com/scala/) - 通过简短易懂的解释来涵盖大多数Scala功能.
-* [CA Art](https://github.com/makingthematrix/ca_art) - 一个旨在通过细胞自动机实验来学习中级Scala的小项目
+* [The Type Astronaut's Guide to Shapeless](https://underscore.io/books/shapeless-guide/) - 没有
 
 ## JavaScript
 
@@ -588,13 +588,14 @@
 
 ## Tools
 
-* [Mill](http://www.lihaoyi.com/mill/) - 更好的Scala构建工具
-* [Scalafix](https://github.com/scalacenter/scalafix) - 重构和linting工具
 * [Codacy](https://www.codacy.com/) -  Scala的自动代码审查
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - 极快的字符串格式
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - 生成超快字符串插值器的Scala宏
 * **[Gitbucket ★ 6296 ⧗ 0](https://github.com/gitbucket/gitbucket)**  - 由Scala提供支持的易于安装的GitHub克隆
+* [Giter8](http://www.foundweekends.org/giter8/) 命令行工具，用于从Github上发布的模板生成文件和目录
+* [Mill](http://www.lihaoyi.com/mill/) - 更好的Scala构建工具
 * [pos ★ 13](https://github.com/JohnReedLOL/pos) - 打印调试工具，scala-trace-debug的后继者
+* [Scalafix](https://github.com/scalacenter/scalafix) - 重构和linting工具
 * [sbt](http://www.scala-sbt.org/) ([repo](https://github.com/sbt/sbt)） -  Scala的交互式构建工具
 * [Scala @LibHunt](https://scala.libhunt.com) - 首选的Scala工具箱.
 * [scala-trace-debug ★ 111  ⧗ 14](https://github.com/JohnReedLOL/scala-trace-debug) - 多线程打印调试工具
@@ -605,7 +606,6 @@
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)） -  Scala库的搜索引擎
 * [Scoverage](https://github.com/scoverage) -  Scala代码覆盖率工具
 * **[Wartremover ★ 662 ⧗ 1](https://github.com/puffnfresh/wartremover)**  -  Wartremover灵活的Scala代码linting工具
-* [Giter8](http://www.foundweekends.org/giter8/) 命令行工具，用于从Github上发布的模板生成文件和目录
 
 ## Geospatial
 

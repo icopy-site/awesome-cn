@@ -17,7 +17,7 @@
 ## Honeypots
 
 - 数据库蜜罐
-    - [Delilah](https://github.com/Novetta/delilah) - 用Python编写的Elasticsearch Honeypot.
+    - [Delilah](https://github.com/SecurityTW/delilah) - 用Python编写的Elasticsearch Honeypot（最初来自Novetta）.
     - [ESPot](https://github.com/mycert/ESPot) - 用NodeJS编写的Elasticsearch蜜罐，捕获每次利用CVE-2014-3120的尝试.
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - 简单的Elasticsearch蜜罐.
     - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - 简单的Mysql蜜罐项目.
@@ -37,7 +37,7 @@
     - [Nodepot](https://github.com/schmalle/Nodepot) -  NodeJS Web应用程序蜜罐.
     - [Servletpot](https://github.com/schmalle/servletpot) -  Web应用程序Honeypot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - 用于PHP，Perl和Python应用程序的模块化Web应用程序防火墙/高交互蜜罐.
-    - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) - Struts Apache 2 based honeypot as well as a detection module for Apache 2 servers.
+    - [StrutsHoneypot](https://github.com/Cymmetria/StrutsHoneypot) -  Struts基于Apache 2的蜜罐以及Apache 2服务器的检测模块.
     - [WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap) - 旨在创建欺骗性网页，以欺骗和重定向攻击者远离真实网站.
     - [basic-auth-pot (bap)](https://github.com/bjeborn/basic-auth-pot) -  HTTP基本身份验证蜜罐.
     - [bwpot](https://github.com/graneed/bwpot) - 易碎的Web应用程序honeyPot.
@@ -115,7 +115,6 @@
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) -  Python脚本，将下载存储为Kippo SSH蜜罐数据库中的URL的所有恶意文件.
 
 - 分布式传感器部署
-    - [Active Defense Harbinger Distribution (ADHD)](https://sourceforge.net/projects/adhd/) - 基于Ubuntu LTS的GNU / Linux发行版，附带许多旨在预先安装和配置主动防御的工具.
     - [Modern Honey Network](https://github.com/threatstream/mhn) - 多snort和蜜罐传感器管理，使用VM网络，小型SNORT安装，隐身dionaeas和集中式服务器进行管理.
 
 - 网络分析工具
@@ -140,7 +139,6 @@
 
 - 用于USB传播恶意软件的蜜罐
     - [Ghost-usb](https://github.com/honeynet/ghost-usb-honeypot) - 通过USB存储设备传播的恶意软件的蜜罐.
-    - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/) -  USB棒上的低交互蜜罐.
 
 - 数据采集
     - [Kippo2MySQL](https://bruteforcelab.com/kippo2mysql) - 从Kippo基于文本的日志文件中提取一些非常基本的统计信息，并将它们插入MySQL数据库中.
@@ -200,7 +198,7 @@
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - 简单的低交互端口监控蜜罐.
     - [telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - 用于捕获僵尸网络二进制文件的Python telnet蜜罐.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - 用于跟踪Mirai僵尸网络的Telnet蜜罐.
-    - [vnclowpot](https://github.com/magisterquis/vnclowpot) - 低交互VNC蜜罐.
+    - [vnclowpot](https://github.com/magisterquis/vnclowpot) - Low interaction VNC honeypot.
 
 
 -  IDS签名生成
@@ -266,7 +264,7 @@
     - [HonSSH](https://github.com/tnich/honssh) - 记录客户端和服务器之间的所有SSH通信.
     - [HUDINX](https://github.com/Cryptix720/HUDINX) - 微型交互SSH蜜罐，用Python编写，用于记录暴力攻击，最重要的是，攻击者执行的整个shell交互.
     - [Kippo](https://github.com/desaster/kippo) - 中等交互SSH蜜罐.
-    - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
+    - [Kippo_JunOS](https://github.com/gregcmartin/Kippo_JunOS) -  Kippo配置为后门屏幕.
     - [Kojoney2](https://github.com/madirish/kojoney2) - 使用Python编写的低交互式SSH蜜罐，基于Kojoney的Jose Antonio Coret.
     - [Kojoney](http://kojoney.sourceforge.net/) - 基于Python的低交互蜜罐，模拟使用Twisted Conch实现的SSH服务器.
     - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - 分析SSH蜜罐日志.
@@ -298,7 +296,7 @@
 - 一台pcap分析仪
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
 
-- 网络流量重定向器
+- Network traffic redirector
     - [Honeywall](https://projects.honeynet.org/honeywall/)
 
 - 具有混合内容的蜜罐分布
@@ -354,7 +352,7 @@
 -  SIP服务器
     - [Artemnesia VoIP](http://artemisa.sourceforge.net)
 
-- IOT Honeypot
+- 物联网蜜罐
     - [HoneyThing](https://github.com/omererdem/honeything) -  TR-069蜜罐.
     - [Kako](https://github.com/darkarnium/kako) - 许多众所周知和部署的嵌入式设备漏洞的蜜罐.
 
@@ -401,7 +399,6 @@
     - [Hybrid Analysis](https://www.hybrid-analysis.com) - 由Payload Security提供支持的免费恶意软件分析服务，可使用独特的混合分析技术检测和分析未知威胁.
     - [Joebox Cloud](https://jbxcloud.joesecurity.org/login) - 分析Windows，Android和Mac OS X上的恶意文件（包括PE，PDF，DOC，PPT，XLS，APK，URL和MachO）的可疑活动行为.
     - [VirusTotal](https://www.virustotal.com/) - 分析可疑文件和URL以检测恶意软件类型，并自动与安全社区共享.
-    - [detux.org](https://detux.org) - 多平台Linux Sandbox.
     - [malwr.com](https://malwr.com/) - 免费的恶意软件分析服务和社区.
 
 ## Data Tools
@@ -409,7 +406,7 @@
 - 前端
     - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - 前网到Dionaea低交互蜜罐.
     - [Django-kippo](https://github.com/jedie/django-kippo) - 用于kippo SSH Honeypot的Django应用程序.
-    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - 全功能脚本，可以显示来自Shockpot蜜罐的统计数据. 
+    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - Full featured script to visualize statistics from a Shockpot honeypot. 
     - [Tango](https://github.com/aplura/Tango) - 与Splunk的蜜罐情报.
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 全功能脚本，可以显示Wordpot蜜罐中的统计信息.
     - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - 用于显示蜜罐警报的简化UI.

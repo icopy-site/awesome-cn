@@ -67,6 +67,7 @@
 * [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn) -  MQTT-PWN打算成为物联网经纪人渗透测试和安全评估业务的一站式服务.
 * [mqtt-shell](https://github.com/pidster-dot-org/mqtt-shell) -  MQTT的简单交互式shell.
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/)   - 基于Java的MQTT前端.  支持脚本.
+* [mqtt_tree](https://github.com/poggenpower/mqtt_tree)   - 显示可扩展树中的所有主题，如果您有许多客户发布，则有助于获得概述.  （python，tkinter）
 * [mqtt-utils](https://github.com/dsell/mqtt-utils) -  MQTT实用程序的集合.
 * [mqtt-wall](https://github.com/bastlirna/mqtt-wall) - 仅订阅基于Web的客户端 - 如MQTT的Twitter墙.
 * [mqtt-wildcard](https://github.com/hobbyquaker/mqtt-wildcard) -  Node.js模块，用于将MQTT主题与通配符进行匹配.
@@ -176,7 +177,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -  Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - 订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - 将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
 
@@ -249,7 +250,7 @@
 * [MQTT-DashCast-Docker](https://github.com/mukowman/MQTT-DashCast-Docker) -  MQTT Docker在Chromecast上启动DashCast会话.
 * [mqtt2atlonamatrix](https://github.com/forty2/mqtt2atlonamatrix) - 使用MQTT控制Atlona HDMI矩阵开关.
 * [mqtt2tivoremote](https://github.com/forty2/mqtt2tivoremote) - 通过MQTT智能家居风格界面提供TiVo DVR遥控器.
-* [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
+* [onkyo2mqtt](https://github.com/owagner/onkyo2mqtt)   -  Onkyo AVR的EISCP网络远程协议与MQTT之间的接口.  使用onkyo-eiscp库.
 * [sonos2mqtt](https://github.com/svrooij/sonos2mqtt) -  Sonos和MQTT之间的桥梁.
 * [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - 通过MQTT控制VLC.
 * [xbmc2mqtt](https://github.com/gordonjcp/xbmc-mqtt) - 一个简单的插件，供XBMC监听MQTT代理上的特定主题，并显示弹出消息.

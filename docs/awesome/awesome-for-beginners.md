@@ -50,7 +50,7 @@
 ## Go
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
-- [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
+- [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/starter)  _（标签：首发）_ <br>  Kubernetes包装经理
@@ -64,6 +64,7 @@
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  桌面应用程序从SWING转移到JavaFX.  专注于代码质量：使用代码质量工具，如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  允许用户将图片从Android手机/平板电脑上传到Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费wiki软件平台，其设计强调可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  没有编码的API Automation，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins友好.
 
 ## JavaScript
 
@@ -133,9 +134,9 @@
 ## PHP
 
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie)  _（标签：新手）_ <br>  用PHP编写的MySQL管理界面.
-- [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
+- [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：求助）_ <br>  Matomo是领先的Free / Libre开放式分析平台.
-- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  为GitHub组织增压！
+- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 
 ## Python
@@ -149,7 +150,7 @@
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution)  _（标签：良好的第一贡献）_ <br>  具有交互式TLS功能的拦截HTTP代理，适用于渗透测试人员和软件开发人员
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  免费开放的现代快速电子邮件客户端，具有用户友好的加密和隐私功能
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee)  _（标签：难度/新人）_ <br>  一个统一的命令行界面，用于绘制和修复所有代码，无论您使用何种编程语言.
-- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新人）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  将Python代码转换为Java字节码的转换器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Python虚拟机的Javascript实现.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python bot，旨在尽可能简单地为人们提供日常任务http://m.me/JARVISon.Messenger
