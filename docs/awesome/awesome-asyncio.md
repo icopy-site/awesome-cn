@@ -58,6 +58,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [peewee-async](https://github.com/05bit/peewee-async) - 基于ORM的实现 [peewee](https://github.com/coleifer/peewee) 和aiopg.
 * [GINO](https://github.com/fantix/gino) - 是一个基于的轻量级异步Python ORM [SQLAlchemy](https://www.sqlalchemy.org/) 核心，有 [asyncpg](https://github.com/MagicStack/asyncpg) 方言.
 * [Tortoise ORM](https://github.com/tortoise/tortoise-orm) - 具有类似Django API的原生多后端ORM和简单的关系管理.
+* [Databases](https://github.com/encode/databases) -  SQLAlchemy核心的异步数据库访问，支持PostgreSQL，MySQL和SQLite.
 
 ## Networking
 
@@ -73,7 +74,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [aiomock](https://github.com/nhumrich/aiomock/) - 支持异步方法的python模拟库.
 * [asynctest](https://github.com/Martiusweb/asynctest/)   - 增强标准单元测试包，并提供测试功能.  asyncio库
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) -  Pytest支持asyncio.
-* [aresponses](https://github.com/CircleUp/aresponses)   -  Asyncio http嘲笑.  类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests)
+* [aresponses](https://github.com/CircleUp/aresponses)  学 -  huync video腐vehicle.  类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests)
 * [aioresponses](https://github.com/pnuckowski/aioresponses) - 用于Python aiohttp包中的模拟/伪造Web请求的助手.
 
 ## Alternative Loops
@@ -81,7 +82,6 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 *替代asyncio循环实现.*
 
 * [uvloop](https://github.com/MagicStack/uvloop) - 在libuv上快速实现asyncio事件循环.
-* [curio](https://github.com/dabeaz/curio) - 协程并发库.
 
 ## Misc
 
@@ -103,6 +103,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [Asynchronous Python](https://hackernoon.com/asynchronous-python-45df84b82434) - 使用Python简介异步编程.
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - 从基本示例到URL提取的简单介绍异步编程.
 * [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - 使用python-aiohttp发出100万个请求.
+* [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) -  WSGI的精神继承者，旨在提供异步功能的Python Web服务器，框架和应用程序之间的标准接口.
 
 ## Talks
 
@@ -110,3 +111,15 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 
 * [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) -  PyCon Brasil 2015主题演讲（David Beazley）.
 * [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) -  8部分代码演练（Philip Guo）.
+* [Async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8&t=132s) -  EuroPython 2016（Yury Selivanov）.
+* [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) -  PyOhio 2016主题演讲（David Beazley）.
+* [Asynchronous Python for the Complete Beginner](https://www.youtube.com/watch?v=iG6fr81xHKA) | [slides](https://speakerdeck.com/pycon2017/miguel-grinberg-asynchronous-python-for-the-complete-beginner) -  PyCon 2017（Miguel Grinberg）.
+
+## Alternatives to asyncio
+
+Python中异步编程的替代方法，其中一些尝试支持与`asyncio`的某些兼容性，其他方法根本不兼容. 
+
+* [curio](https://github.com/dabeaz/curio) - 协程并发库.
+  * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - 基本古玩 - &gt; asyncio coroutine bridge
+* [trio](https://github.com/python-trio/trio) - 人类和蛇人的Pythonic异步I / O.
+  * [trio-asyncio](https://github.com/python-trio/trio-asyncio) - 在Trio之上重新实现asyncio mainloop

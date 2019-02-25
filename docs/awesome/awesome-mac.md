@@ -17,7 +17,7 @@
 ！[开源软件] [OSS图标]表示**开源**，点击打开**开源**回购; \
 ![Freeware][Freeware Icon] means **free** to use, or **free** personal license;\
 ！[App Store] [app-store Icon]意味着** App store **超链接; \
-![Awesome List][awesome-list Icon] means hyperlink to a corresponding **Awesome list** for the item;
+！[Awesome List] [awesome-list Icon]意味着指向该项目的相应** Awesome list **的超链接;
 
  **适用于macOS的Mac应用程序**.  适用于Mac的最新稳定版本的安装程序可以 [downloaded here](https://github.com/jaywcjlove/amac/releases).
 
@@ -120,7 +120,7 @@
 * [Deco IDE](https://www.decoide.org)   - 构建React Native应用程序的最佳IDE.  [！[开源软件] [OSS图标]]（https://github.com/decosoftware/deco-ide）！[免费软件] [免费软件图标]
 * [Eclipse](https://www.eclipse.org)   - 流行的开源IDE，主要用于Java，但支持各种语言和平台的插件.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Espresso](http://espressoapp.com/)   -  Mac的网页编辑器又回来了.  对于那些制作令人愉快，创新和快速网站的人.
-* [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/)   - 管理已安装的JetBrains工具，下载新工具并打开最近的项目.  ！[免费软件] [免费软件图标]
+* [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/) - Manage installed JetBrains tools, download new ones and open recent projects. ![Freeware][Freeware Icon]
   * [AppCode](https://www.jetbrains.com/objc/) - 用于iOS / macOS开发的智能IDE
   * [CLion](https://www.jetbrains.com/clion/)   - 强大的C和C ++ IDE.  （**学生免费**）
   * [DataGrip](http://www.jetbrains.com/datagrip/)   - 用于数据库和SQL的跨平台IDE.  **免费**为学生，检查 [here](https://www.jetbrains.com/student/) 了解更多信息.
@@ -140,7 +140,7 @@
 
 * [BetterRename](http://www.publicspace.net/BetterRename/)   - 市场上功能最强大，最完整的Mac文件重命名应用程序.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/better-rename-9/id414209656）
 * [Beyond Compare](http://www.scootersoftware.com/)   - 使用简单，功能强大的命令比较文件和文件夹，这些命令专注于您感兴趣的差异，并忽略您不感兴趣的差异.  ！[免费软件] [免费软件图标]
-* [Cacher](https://www.cacher.io/) - Cloud-based, team-enabled code snippet manager with Gist sync, VSCode/Atom/Sublime packages and Mac/Windows/Linux/Web clients.
+* [Cacher](https://www.cacher.io/) - 基于云的团队支持代码片段管理器，具有Gist同步，VSCode / Atom / Sublime软件包和Mac / Windows / Linux / Web客户端.
 * [canSnippet](https://www.cansnippet.com/) - 功能强大的代码段管理工具，可在整个操作系统中运行，始终可通过简单的键盘快捷方式访问.
 * [CodeKit](https://codekitapp.com/) -  Web开发工具，可以自动编译Less，Sass，CoffeeScript，TypeScript，Jade和JavaScript，自动刷新浏览器等等.
 * [Dash](https://kapeli.com/dash) - 令人敬畏的API文档浏览器和代码段管理器.
@@ -247,7 +247,7 @@
 * [MacGap](http://macgapproject.github.io/)   - 为OS X集成提供轻量级JavaScript API，例如显示本机通知或将数据写入文件.  [！[开源软件] [OSS图标]]（https://github.com/MacGapProject）！[免费软件] [免费软件图标]
 * [nw.js](http://nwjs.io)   - 使用HTML和JavaScript构建桌面应用程序.  它允许您直接从DOM调用所有`Node.js`模块，并启用一种使用所有Web技术编写应用程序的新方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nwjs/nw.js）
 * [Qt](https://www.qt.io) - 跨平台应用程序框架.
-* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native)   - 使用React Native构建Ubuntu桌面应用程序.  [！[开源软件] [OSS图标]]（https://github.com/CanonicalLtd/react-native）！[免费软件] [免费软件图标]
+* [React Native for Ubuntu](https://github.com/CanonicalLtd/react-native) - Build Ubuntu desktop apps using React Native. [![Open-Source Software][OSS Icon]](https://github.com/CanonicalLtd/react-native) ![Freeware][Freeware Icon]
 * [React Native macOS](https://github.com/ptmt/react-native-desktop)   - 使用React Native和Cocoa构建OS X桌面应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/ptmt/react-native-desktop）
 * [react-desktop](http://reactdesktop.js.org)   - 为macOS Sierra实现UI组件.  [！[开源软件] [OSS图标]]（https://github.com/gabrielbull/react-desktop）！[免费软件] [免费软件图标]
 * [ReactXP](https://microsoft.github.io/reactxp/)   - 微软官方制作，支持平台Web，iOS，Android和Windows UWP仍然是一项持续的工作.  [！[开源软件] [OSS图标]]（https://github.com/microsoft/reactxp）！[免费软件] [免费软件图标]
@@ -263,7 +263,7 @@
 * [GitKraken](https://www.gitkraken.com/) - 适用于Windows，Mac和Linux的最流行的Git GUI.
 * [GitX-dev](https://rowanj.github.io/gitx/) - 叉子 [Pieter's](https://github.com/pieter/gitx)  适用于OS X的优秀git GUI.包括分支/标签侧边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 * [Hub](https://hub.github.com/)   -  Git的命令行包装器，让你在GitHub上更好.  [！[开源软件] [OSS图标]]（https://github.com/github/hub）！[免费软件] [免费软件图标]
-* [OhMyStar](https://ohmystarapp.com/)  管理，探索和分享您的Github Stars的美妙而有效的方式.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
+* [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292)
 * [SmartGit](http://www.syntevo.com/smartgit/) - 支持Git客户端.
 * [SourceTree](https://www.sourcetreeapp.com/)   - 适用于Windows或Mac的免费Git和Mercurial客户端.  ！[免费软件] [免费软件图标]
 * [Sublime Merge](https://www.sublimemerge.com/) - 来自Sublime Text制造商的Git客户端.
@@ -335,7 +335,7 @@
 * [Paintbrush](http://paintbrush.sourceforge.net/)   - 位图图像编辑器.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/paintbrush/files/）！[免费软件] [免费软件图标]
 * [Pixel Perfect](http://pixelperfect-app.com/)   - 在实现上叠加设计图像并使其像素完美的工具.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pixel-perfect/id916097243）！[免费软件] [免费软件图标]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 适用于Mac的全功能图像编辑器.
-* [Principle](http://principleformac.com/) -  Application for designing animated and interactive user interfaces.
+* [Principle](http://principleformac.com/) - 用于设计动画和交互式用户界面的应用程序.
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers)  - 轻松将屏幕导出为分层PSD文件.  [！[开源软件] [OSS图标]]（https://github.com/duyquoc/ScreenToLayers）！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https： //itunes.apple.com/app/screentolayers/id1077317077）
 * [Sculptris](http://pixologic.com/sculptris/#)   -  3D雕刻软件.  ！[免费软件] [免费软件图标]
 * [Sketch](http://www.sketchapp.com/) - 专业的数字设计为mac.
@@ -451,7 +451,7 @@
 * [Nylas Mail](https://nylas.com/nylas-mail/)   - 基于现代网络构建的可扩展桌面邮件应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nylas/nylas-mail）！[免费软件] [免费软件图标]
 * [Polymail](https://polymail.io/)   - 简单，美观和强大的电子邮件客户端.  ！[免费软件] [免费软件图标]
 * [Postbox](https://www.postbox-inc.com) - 功能强大，简单而美观的电子邮件客户端，需要支付许可证费用.
-* [Spark](https://sparkmailapp.com/)   - 快速电子邮件客户端  parties for permanent Mac OS dan！.[我们的[质]
+* [Spark](https://sparkmailapp.com/)   - 快速电子邮件客户端  适用于Mac OS和iOS.！[免费软件] [免费软件图标]
 * [ThunderBird](https://www.mozilla.org/en-US/thunderbird/)   - 使电子邮件更容易的软件.  ！[免费软件] [免费软件图标]
 
 #### File Sharing
@@ -467,7 +467,7 @@
 * [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 适用于大多数情况的全面而专业的数据恢复工具
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 世界上最先进的Mac修复和恢复工具.
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 用于恢复磁盘上数据的强大工具，即使其分区已格式化，损坏或删除也是如此.
-* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 强大的文件恢复工具，时间机器恢复，加密磁盘恢复等等.
+* [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - Powerful tool for file recovery, Time machine recovery, Encrypted Disk recovery and much more.
 
 ## Audio and Video Tools
 
@@ -557,7 +557,7 @@
 
 * [BlockBlock](https://objective-see.com/products/blockblock.html)   - 我：“只要持续安装任何东西，请提醒我.”  BlockBlock：“你懂了”
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - 简单的实用程序，它将扫描您的计算机以查找易受dylib劫持或被劫持的应用程序.
-* [Encrypto](https://macpaw.com/encrypto) - Free encryption tool for encrypting files and folders
+* [Encrypto](https://macpaw.com/encrypto) - 用于加密文件和文件夹的免费加密工具
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看OS内核中加载的所有模块.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - 查看Mac上持续安装的内容.
 * [LinkLiar](http://halo.github.io/LinkLiar)   - 用于macOS的链路层MAC欺骗GUI.  [！[开源软件] [OSS图标]]（https://github.com/halo/LinkLiar）！[免费软件] [免费软件图标]
@@ -644,6 +644,7 @@
 * [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
 * [Things](https://culturedcode.com/things/)   - 令人愉快且易于使用的任务管理器.  （**屡获殊荣的App **）
 * [Todoist](https://todoist.com/mac)   - 跨平台待办事项列表应用程序.  ！[免费软件] [免费软件图标]
+* [TickTick](https://ticktick.com/)   - 简单有效的待办事项列表和任务管理器，可帮助您组织生活的各个方面.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id966085870）
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 完成工作的最简单方法.
 
 #### Productivity

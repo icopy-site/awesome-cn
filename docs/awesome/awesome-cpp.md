@@ -37,7 +37,7 @@
 * [Loki](http://loki-lib.sourceforge.net/)   - 一个C ++设计库，包含常见设计模式和习语的灵活实现.  [MIT]
 * [MiLi](https://bitbucket.org/fudepan/mili/)   - 最小的标头C ++库.  [促进]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks)   - 用于C ++创意编码的跨平台开源工具包.  [MIT] [website](http://www.openframeworks.cc/)
-* [Qt](https://www.qt.io/download-open-source/)  ：zap： - 跨平台的应用程序和UI框架.  [GPL / LGPL /商业]
+* [Qt](https://www.qt.io/download-open-source/) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Commercial]
 * [Reason](http://code.google.com/p/reason/)   - 一个跨平台框架，旨在为需要C ++性能和强度的开发人员提供Java，.Net或Python的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)   - 一组OO框架，具有以非常有效的方式处理和分析大量数据所需的所有功能.  在CERN使用.  [LGPL]
 * [STLport](http://www.stlport.org/)   -  STL的示例性版本.  [自由]
@@ -388,7 +388,7 @@
 
 * [Apache Thrift](https://thrift.apache.org/) - Efficient cross-language IPC/RPC, works between C++, Java, Python, PHP, C#, and many more other languages. Originally developed by Facebook. [Apache2]
 * [Cap'n Proto](http://kentonv.github.io/capnproto/)   - 快速数据交换格式和基于功能的RPC系统.  [MIT]
-* [gRPC](https://github.com/grpc/grpc) - A high performance, open source, general-purpose RPC framework. [BSD] [website](http://www.grpc.io/)
+* [gRPC](https://github.com/grpc/grpc)   - 高性能，开源，通用的RPC框架.  [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)   - 用于C ++服务器和客户端的JSON-RPC框架.  [MIT]
 * [nanomsg](https://github.com/nanomsg/nanomsg)   - 几种“可扩展性协议”的简单高性能实现.  [MIT] [website](http://nanomsg.org/)
@@ -580,6 +580,7 @@
 
 * [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)   -  C ++正则表达式变得简单.  [MIT]
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions)   - 编译时间PCRE（几乎）兼容的正则表达式匹配器.  [MIT]
+* [Oniguruma](https://github.com/kkos/oniguruma)   - 一个现代而灵活的正则表达式库，支持各种字符编码.  [BSD]
 * [PCRE](http://pcre.org/)   - 受Perl中正则表达式功能启发的正则表达式C库.  [BSD]
 * [RE2](https://github.com/google/re2)   - 使用自动机理论通过有限状态机进行正则表达式的软件库.  [BSD -3-第]
 * [SLRE](https://github.com/cesanta/slre)   - 用于C / C ++的超轻型Regexp引擎.  [在GPLv2 /商业]

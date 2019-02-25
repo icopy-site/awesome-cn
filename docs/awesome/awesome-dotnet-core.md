@@ -160,7 +160,7 @@
 * [GitVersioning](https://github.com/AArnott/Nerdbank.GitVersioning) - 使用单个简单版本.txt文件中的版本标记程序集和NuGet包，并为非官方构建包含git commit ID.
 * [go-dotnet](https://github.com/matiasinsaurralde/go-dotnet) - 去.NET Core Runtime的包装器.
 * [Image2Docker](https://github.com/docker/communitytools-image2docker-win) -  PowerShell模块，可将现有Windows应用程序工作负载移植到Docker.
-* [LocalAppVeyor](https://github.com/joaope/LocalAppVeyor) 栩permanent在当地运行你的AppV striped.
+* [LocalAppVeyor](https://github.com/joaope/LocalAppVeyor) - 在本地运行AppVeyor版本.
 * [msbuild](https://github.com/Microsoft/msbuild) -  Microsoft Build Engine是用于构建应用程序的平台.
 * [Nuke](https://github.com/nuke-build/nuke) - 跨平台构建自动化系统.
 * [Opserver](https://github.com/opserver/Opserver) -  Stack Exchange的监控系统.
@@ -235,7 +235,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
@@ -348,7 +348,7 @@
 * [AutoDI](https://github.com/Keboo/AutoDI) - 使用IL编织的超快编译时依赖注入.
 * [Autofac](https://github.com/autofac/Autofac) - 上瘾的.NET IoC容器.
 * [Castle.Windsor](https://github.com/castleproject/Windsor) Castle Windsor是适用于.NET的最佳品牌，成熟的Inversion of Control容器.
-* [DryIoc](https://github.com/dadhi/DryIoc) - 快速，小巧，功能齐全的IoC Container for .NET.
+* [DryIoc](https://github.com/dadhi/DryIoc) - Fast, small, full-featured IoC Container for .NET.
 * [Grace](https://github.com/ipjohnson/Grace) -  Grace是一款功能丰富的依赖注入容器，其设计考虑了易用性和性能.
 * [Inyector](https://github.com/davidrevoledo/Inyector) -  AspNetCore的依赖注入自动化 
 * [LightInject](https://github.com/seesharper/LightInject) - 超轻量级IoC容器 [http://www.lightinject.net](http://www.lightinject.net).
@@ -368,7 +368,7 @@
 * [serilog](https://github.com/serilog/serilog) - 具有完全结构化事件的简单.NET日志记录.
   * [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - 用于ASP.NET Core 2+的Serilog集成.
   * [Serilog.Exceptions](https://github.com/RehanSaeed/Serilog.Exceptions) -  Serilog.Exceptions是一个附加组件 [Serilog](https://serilog.net/) 记录异常详细信息和Exception.ToString（）中未输出的自定义属性.
-  * [Serilog.Settings.Configuration](https://github.com/serilog/serilog-settings-configuration) - A Serilog configuration provider that reads from Microsoft.Extensions.Configuration.
+  * [Serilog.Settings.Configuration](https://github.com/serilog/serilog-settings-configuration) - 从Microsoft.Extensions.Configuration读取的Serilog配置提供程序.
 * [SEQ](https://getseq.net) -  Seq通过HTTP收集数据，而您的应用程序使用适用于您平台的最佳可用结构化日志API.
 
 ### Machine Learning and Data Science
@@ -455,6 +455,11 @@
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - 用于.NET Core的HttpListener（NETStandard）.
 * [Networker](https://github.com/MarkioE/Networker) - 一个简单易用的.NET TCP和UDP网络库，旨在实现灵活，可扩展和快速.
 
+### Office
+* [EPPlus](https://github.com/JanKallman/EPPlus) - 使用.NET创建高级Excel电子表格.
+* [npoi](https://github.com/tonyqus/npoi)   - 可以读取/写入未安装Microsoft Office的Office格式的.NET库.  没有COM +，没有互操作.
+* [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) -  Open XML SDK提供了使用Office Word，Excel和PowerPoint文档的工具.
+
 ### ORM
 * [Chloe](https://github.com/shuxinqin/Chloe) - 用于.NET的轻量级高性能对象/关系映射（ORM）库.
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - 熟悉以前版本EF的开发人员经验，包括LINQ，POCO和Code First支持.
@@ -538,7 +543,6 @@
 * [Manatee.Trello](https://github.com/gregsdennis/Manatee.Trello) - A fully object-oriented .Net wrapper for Trello's RESTful API written in C#.
 * [Microphone](https://github.com/rogeralsing/Microphone) - 使用Consul或ETCD集群的Web Api或NancyFx运行自托管REST服务的轻量级框架.
 * [octokit.net](https://github.com/octokit/octokit.net) - 用于.NET的GitHub API客户端库.
-* [Open-XML-SDK](https://github.com/OfficeDev/Open-XML-SDK) -  Open XML SDK提供了使用Office Word，Excel和PowerPoint文档的工具.
 * [PreStorm](https://github.com/jshirota/PreStorm) -  ArcGIS Server的并行REST客户端.
 * [SendGrid-csharp](https://github.com/sendgrid/sendgrid-csharp) - C# client library for using the full SendGrid API.
 * [statsd-csharp-client](https://github.com/Pereingo/statsd-csharp-client) - .NET Standard compatible C# client to interface with Etsy's excellent [statsd](https://github.com/etsy/statsd) 服务器.
@@ -702,7 +706,7 @@
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - 一个研讨会，用于浏览ASP.NET核心授权中的各个新部分
   * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 发布了12月Connect 2016大会，这是一套针对企业用户和消费者（自行车骑手）的一套复杂的互通应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
-  * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -  ASP.NET腐败多租户Web应用程序基础.
+  * [cloudscribe](https://github.com/cloudscribe/cloudscribe) -  ASP.NET核心多租户Web应用程序基础.
   * [CoreCodeCamp](https://github.com/shawnwildermuth/CoreCodeCamp) - 用于运行小型本地开发活动的开源网站.
   * [DotNetClub](https://github.com/scheshan/DotNetClub) - 用ASP.NET Core编写的小俱乐部.
   * [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - 具有单片部署模型的分层应用程序架构.

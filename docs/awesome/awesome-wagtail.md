@@ -102,7 +102,7 @@
 
 ### Translations
 
-- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - 包含集成的mixin模型的简单应用程序 [django-modeltranslation](https://github.com/deschler/django-modeltranslation) 进入Wagtail面板系统.
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - 包含集成的mixin模型的简单应用程序 [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - 用于支持多语言网站的Wagtail插件.
 
 ### Forms
@@ -117,6 +117,7 @@
 - [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) - 帮助您在Wagtail网站上查找损坏链接的工具.
 - [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) - 在Wagtail开发时帮助实现可访问性的插件.
 - [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) - 工厂男孩班Wagtail.
+- [Wagtail Foliage](https://github.com/harrislapiroff/wagtail-foliage) - 以Wagtail以编程方式构建页面树的实用程序.
 
 ### Misc
 
@@ -131,10 +132,13 @@
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - 使用实际的URL配置和django视图扩展Wagtail页面.
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - 在Wagtail实例之间导入/导出页面.
 - [Wagtail Tag Manager](https://github.com/jberghoef/wagtail-tag-manager) -  Wagtail插件，允许更容易和GDPR兼容的脚本和标签管理.
+- [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) - 使用Django缓存中间件的Wagtail的简单页面缓存.
+- [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - 应用程序自动添加GraphQL支持到Wagtail网站.
+- [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -  Mixin支持管理面板中的拖放排序.
 
 ## Tools
 
-- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - A Cookiecutter template for Wagtail CMS using Zurb Foundation 6.
+- [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - 使用Zurb Foundation 6的Wagtail CMS的Cookiecutter模板.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) -  Wagtail CMS的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) - 一个cookieingter完成wagtail，django布局，vagrant，供应scrips，前端构建系统等等！
 - [Wagtail Boilerplate](https://github.com/Frojd/Wagtail-Boilerplate) - 一个Django / Wagtail cookiecutter，内置支持docker，部署（带有ansible），Reactjs，pytest和S3.
@@ -159,6 +163,8 @@
 - [Setting Up Foundation Sass With Wagtail](https://vix.digital/insights/setting-foundation-sass-wagtail/)
 - [Upgrading to Wagtail 2.0](https://wagtail.io/blog/upgrading-to-wagtail-2/) -  Wagtail 2.0是我们迄今为止最大的发布之一.
 - [Getting started with Draftail extensions](https://thib.me/getting-started-with-draftail-extensions)   - 你想为Draftail写扩展吗？  这是一个很好的起点.
+- [Amplify a Wagtail/Django site](https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html) - 为加速移动页面（AMP）准备Wagtail网站.
+- [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
 
 ### Recipes
 
@@ -170,7 +176,7 @@
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 汤姆戴森 - 汤姆将解释为什么他的机构决定建立一个新的CMS，分享在运行一个不断增长的开源项目中学到的经验教训，并概述Wagtail的版本2及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 来自Springload开发团队的Josh，Jordi和Rich  - 介绍Wagtail的介绍会，展示它所提供的主要功能.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall  - 布拉德弗罗斯特的原子设计原则正在掀起我们风暴设计网络的方式.  我将解释Wagtail是什么，如何将它与原子设计原则一起使用，以及您可能遇到的一些障碍以及如何提供帮助的建议.
-- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) 作者：Adam Brenecki  - 本演讲探讨了每个CMS的不同方法，优点和缺点，以及它们对您作为开发人员和内容编辑者的意义.
+- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) by Adam Brenecki – This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) 作者：Mikalai Radchuk  - 这个讲座是对俄语Wagtail的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 作者：Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 作者：Daniele Procida.
@@ -196,18 +202,19 @@
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 作者：Rajeev J Sebastian.
 - [Wagtail Space easter egg team demo – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2057s) 由拉尔斯. [Code](https://github.com/specialunderwear/haunted-wagtail).
 - [Wagtail Space 2019 – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=2278s) 作者：Maarten Kling.
-- [ Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆戴森
-- [ What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Lacey Williams Henschel.
-- [ Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 作者：Ryan Sullivan.
-- [ Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Lisa Adams和Codie Roelf.
-- [ Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 作者：哈里斯拉普罗夫.
-- [ Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 作者：Zarina Mustapha
-- [ Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) by Ryan Verner.
-- [ Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Daniele Procida.
-- [ Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 迈克尔哈里森.
-- [ Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Dawn Wages.
-- [ Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Andy Chosak.
-- [ Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
+- [Wagtail in 2018 – Wagtail Space US 2018](https://www.youtube.com/watch?v=ICKYMO0YoFI&index=2&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 汤姆戴森
+- [What the Wagtail Docs Don't Tell You – Wagtail Space US 2018](https://www.youtube.com/watch?v=PCkxBNXWM64&index=3&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Lacey Williams Henschel.
+- [Django Logging for Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=kkztl9ORUKQ&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=4) 作者：Ryan Sullivan.
+- [Scaling Wagtail for 100 Million Girls – Wagtail Space US 2018](https://www.youtube.com/watch?v=AiOJAKE0M0I&index=5&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Lisa Adams和Codie Roelf.
+- [Using Wagtail to Fight for Press Freedom – Wagtail Space US 2018](https://www.youtube.com/watch?v=FYqbqsa04T8&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=6) 作者：哈里斯拉普罗夫.
+- [Choosing Wagtail for Columbia University – Wagtail Space US 2018](https://www.youtube.com/watch?v=OiZScRcluCo&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=7) 作者：Zarina Mustapha
+- [Running a Multi-Site Newsroom in Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=lMCjInjAz-M&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV&index=8) 作者：Ryan Verner.
+- [Wagtail in the Cloud – Wagtail Space US 2018](https://www.youtube.com/watch?v=N1MeTEPRmJA&index=9&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Daniele Procida.
+- [Beheading Wagtail: Wagtail as a Headless CMS – Wagtail Space US 2018](https://www.youtube.com/watch?v=HZT14u6WwdY&index=10&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 迈克尔哈里森.
+- [Learning Wagtail – Wagtail Space US 2018](https://www.youtube.com/watch?v=C-tXt5fLj_s&index=11&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Dawn Wages.
+- [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Andy Chosak.
+- [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
+- [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) 作者：Igor Mosyagin
 
 ### Podcasts
 

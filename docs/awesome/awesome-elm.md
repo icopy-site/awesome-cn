@@ -54,7 +54,7 @@
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) -  Manning出版社为榆树初学者提供的深入介绍.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - 调试器，可让您及时前进和后退.
 * [Architecture Tutorial](https://github.com/evancz/elm-architecture-tutorial) - 如何创建可与您的应用程序很好地扩展的模块化Elm代码.
-* [Start app](https://github.com/evancz/start-app) - 制作应用程序，启动它.
+* [Start app](http://package.elm-lang.org/packages/evancz/start-app/latest) - 制作应用程序，启动它.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - 了解如何使用Elm构建反应式Web应用程序.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - 榆树教程，详尽的例子和描述.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - 了解如何为Elm创建本机JavaScript模块.
@@ -67,7 +67,7 @@
 * [Exercism Elm Track](http://exercism.io/languages/elm) - 收集榆树练习.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个Elm Web App.
-* [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - 关于榆树的五部分教程.
+* [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - 练习学习榆树的练习.
 * [Beginning Elm](http://elmprogramming.com/) - 温和地介绍Elm编程语言.
 * [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - 使用Elm构建Web应用程序的两个教程.
@@ -77,6 +77,7 @@
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - 初学者到Elm和Data的课程
 * [Programming Elm](https://pragprog.com/book/jfelm/programming-elm) - 来自实用程序员的完整书籍，涵盖了基础知识和高级概念.
 * [The Hitchhiker's Guide to Elm](http://azer.bike/journal/elm/) - 初学者友好的指南，用于学习语言和使用它构建应用程序
+* [Practical Elm for a Busy Developer](https://korban.net/elm/book) - 关于开发Elm应用程序的实际方面的非初学者书籍.
 
 
 
@@ -134,7 +135,7 @@
 * [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - 榆树与Richard Feldman和Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - 榆树与Evan Czaplicki和Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - 榆树与Richard Feldman和Evan Czaplicki.
-* [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - Functional Programming with Elm, ClojureScript, Om, and React.
+* [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - 使用Elm，ClojureScript，Om和React进行功能编程.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - 榆树编程语言.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - 榆树再访.
 * [Elm Town](https://elmtown.github.io/) - 关于榆树社区居民的播客.
@@ -143,28 +144,33 @@
 
 
 
-## Languages
+## Beyond the DOM
 
 * [QML](https://doc.qt.io/qt-5/qmlapplications.html) 您可以使用.js文件为所有平台创建本机桌面和电话应用程序，并使用GPU加速并轻松编写动画代码.
+* [iOS](https://github.com/pzp1997/elm-ios) 将Elm 0.18用于本机iOS应用程序的POC
+* [elmish-wasm](https://github.com/Chadtech/elmish-wasm) 用于编译elm到Web Assembly的POC
+* [elm-serverless](https://github.com/ktonon/elm-serverless) 使用无服务器框架在云功能上运行Elm 0.18
+
 
 
 ## Libraries
 
 *有用的助手来构建应用程序.*
 
-* [core](https://github.com/elm-lang/core) - 榆木核心图书馆.
-* [html](https://github.com/elm-lang/html) - 基于“虚拟DOM”的概念，在Elm中使用HTML.
-* [elm-test](https://github.com/elm-community/elm-test) -  Elm的单元测试框架.
+* [core](https://github.com/elm/core) - 榆木核心图书馆.
+* [html](https://github.com/elm/html) - 基于“虚拟DOM”的概念，在Elm中使用HTML.
+* [elm-test](https://github.com/elm-explorations/test) -  Elm的单元测试框架.
 * [elm-router](https://github.com/TheSeamau5/elm-router) - 在Elm轻松路由.
-* [http](https://github.com/elm-lang/http) - 在Elm中发出HTTP请求.
+* [http](https://github.com/elm/http) - 在Elm中发出HTTP请求.
 * [elm-http-builder](https://github.com/lukewestby/elm-http-builder) - 与低级别的elm-http相比，更自然地构建和处理JSON请求.
 * [elm-console](https://github.com/laszlopandy/elm-console) - 用于读取和写入Node中控制台的Elm库.
 * [lazy](https://github.com/elm-lang/lazy) - 榆树的懒惰评价.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - 榆树的UI库.
 * [elm-mdl](https://github.com/debois/elm-mdl)   -  Elm中的Material Design组件库.  同 [demo](https://debois.github.io/elm-mdl/).
-* [elmfire](https://github.com/ThomasWeiser/elmfire)   - 使用Firebase作为后端.  对于更高级别的API： [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
+* [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) -  Elm的综合Bootstrap 4库. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) -  Elm的声明可视化（[Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) 积分）
+* [style-elements](https://github.com/mdgriffith/style-elements) - 一种生成Web UI的新方法，可以更轻松地处理布局和样式. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
 
 
 
@@ -187,7 +193,8 @@
 * [elm-instant](https://atom.io/packages/elm-instant)   -  atom包从编辑器中尝试你的榆树代码.  提供可视REPL和预览窗格.
 * [elm-analyse](https://github.com/stil4m/elm-analyse) - 用于Elm编程语言的Linter.
 * [run-elm](https://github.com/jfairbank/run-elm) - 从命令行运行Elm代码
-* [type-o-rama](https://github.com/stereobooster/type-o-rama) - JS type systems interportability.
+* [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
+* [Dependabot](https://dependabot.com) - 自动更新elm-package.json的PR.
 
 
 
@@ -249,6 +256,7 @@
 * [runelm.io](https://runelm.io) - 共享和运行Elm代码的地方.
 * [Ellie](https://ellie-app.com/new) -  ** ** ** ** ** ** ** ** ** ditor
 * [Online REPL](http://elmrepl.cuberoot.in) -  ELM在线REPL
+* [Elm on Alpine](https://github.com/wunsh/docker-alpine-elm)   - 构建在Alpine之上的Elm语言的完整Docker图像.  一个简单的方法从榆树开始.  除了Docker之外没有任何系统范围的依赖项.
 
 
 

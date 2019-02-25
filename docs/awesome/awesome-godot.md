@@ -51,7 +51,7 @@
 - [FPS Test](https://github.com/Calinou/fps-test)   - 单人FPS测试.  物理工作，但没有敌人，没有适当的射击.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) -  HTTP 1.0文件服务器.
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -  RPG演示（Godot 3.0）.
-- [OpenRPG](https://github.com/GDquest/godot-open-rpg) -  JRPG风格的游戏演示和模板（Godot 3.1）.
+- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 使用tilemap演示寻路的演示项目.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 允许您连接到服务器并查看联网物理.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
@@ -87,7 +87,7 @@
 
 * Stuff集成到Godot核心（C ++）.*
 
-- [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) with a visual noise editing support.
+- [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪音编辑支持.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对Godot 3的Python支持.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - 使用Godot进行高性能多人游戏的更好的ENet模块.
 - [godot-voxel](https://github.com/Zylann/godot_voxel) - 用于在Godot Engine中创建体积世界的模块.
@@ -105,15 +105,12 @@
 
 *脚本，让你做新的东西，或增强戈多功能.*
 
-- [Add Primitives](https://github.com/TheHX/add_primitives) - 轻松添加圆柱体，球体，立方体.
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - 从中​​导入打包的地图集的插件 [TexturePacker](https://www.code和web.com/texturepacker), [Attila](https://github.com/r-lyeh-archived/attila) 和 [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - 允许使用RPG Maker的Autotile格式自动进行2D平铺.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -  Camera2D的屏幕抖动效果.
-- [Create Tileset](https://github.com/vinod8990/godot_plugins) - 基于图集图像生成戈多图块集的插件.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
 - [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳（Robert Penner）缓和方程式的一个端口.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架.
-- [Example Model Importer](https://github.com/TheHX/godot_examples) - 导入具有反向法线的模型的脚本（概念证明）.
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
 - [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.
@@ -123,19 +120,15 @@
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - 处理大量草，叶和其他植被的插件.
 - [gterm](https://github.com/TeddyDD/gterm) -  GUI控件，绘制类似于\ * nix终端仿真器的东西.
 - [GUT](https://github.com/bitwes/Gut) - 在GDScript中编写单元测试的实用程序.
-- [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - 将高度图制作成地形.
-- [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - 允许您使用浏览器轻松集成OpenClipArt资源.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
-- [Resolution Switcher](https://github.com/vinod8990/godot_plugins) - 轻松切换分辨率，进行测试.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 戈多的滚动背景节点.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 一个可以定制的对话系统和编辑器，非常适合故事驱动的游戏.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - 简单的游戏手柄支持GNU / Linux和Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).
-- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - 从中​​导入切片贴图的插件 [Tiled](https://www.mapeditor.org/) 为戈多2.1.
+- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - 从Tiled for Godot 2.1导入tilemaps的插件.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - 构建tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建风格的瓷砖组.
-- [Simple Adventure API](https://github.com/Biarity/godot-adventure-api) - 使用简单的API创建冒险/ VN / IF游戏（前驱 [this](https://github.com/Biarity/Godot-Adventure-Framework)).
 
 ## GDScript editor support
 

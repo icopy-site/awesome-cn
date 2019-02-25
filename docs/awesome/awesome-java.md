@@ -183,13 +183,14 @@
 
 ### Data Structures
 
-*高效和具体的数据结构.*
+*Efficient and specific data structures.*
 
 - [Apache Avro](https://avro.apache.org) - 具有动态类型，未标记数据和缺少手动分配ID的数据交换格式.
 - [Apache Orc](https://orc.apache.org) - 基于Hadoop的工作负载的快速高效的列式存储格式.
 - [Apache Parquet](https://parquet.apache.org) - 基于Google关于Dremel的论文中的汇编算法的列式存储格式.
 - [Apache Thrift](https://thrift.apache.org) - 源自Facebook的数据交换格式.
 - [Big Queue](https://github.com/bulldog2011/bigqueue) - 基于内存映射文件的大型，快速且持久的队列.
+- [Hyper MinHash](https://github.com/LiveRamp/HyperMinHash-java) - 用于计算loglog空间中的并集，交集和集基数的概率数据结构. 
 - [Persistent Collection](https://pcollections.org) -  Java Collections Framework的持久且不可变的模拟.
 - [Protobuf](https://github.com/google/protobuf) - 谷歌的数据交换格式.
 - [SBE](https://github.com/real-logic/simple-binary-encoding) - 简单的二进制编码，是最快的消息格式之一.
@@ -215,6 +216,7 @@
 - [Governator](https://github.com/Netflix/governator) - 增强Google Guice的扩展程序和实用程序.
 - [Guice](https://github.com/google/guice) - 完善Dagger的轻量级和自以为是的框架.
 - [HK2](https://javaee.github.io/hk2) - 轻量级和动态依赖注入框架.
+- [JayWire](https://github.com/vanillasource/jaywire) - 轻量级依赖注入框架.
 
 ### Development
 
@@ -235,7 +237,7 @@
 *用于编写分布式和容错应用程序的库和框架.*
 
 - [Apache Geode](https://geode.apache.org) - 内存数据管理系统，提供可靠的异步事件通知和有保证的消息传递.
-- [Apache Storm](https://storm.apache.org) - Realtime computation system.
+- [Apache Storm](https://storm.apache.org) - 实时计算系统.
 - [Apache ZooKeeper](https://zookeeper.apache.org) - 具有分布式配置，同步和大型分布式系统命名注册表的协调服务.
 - [Atomix](http://atomix.io/) - 容错分布式协调框架.
 - [Axon Framework](http://www.axonframework.org) - 用于创建CQRS应用程序的框架.
@@ -265,7 +267,7 @@
   -  [Bintray！[c]]（https://bintray.com） - 处理发布的二进制文件的版本控制.  与Maven或Gradle兼容，提供免费的开源软件计划以及多个商业计划.
 - [Boxfuse](https://boxfuse.com) - 使用不可变基础架构的原则将JVM应用程序部署到AWS.
 - [Capsule](http://www.capsule.io)   - 简单而强大的打包和部署.  类固醇上的胖JAR，或支持JVM优化容器的“Docker for Java”.
-- [Central Repository](https://search.maven.org) - Largest binary component repository available as a free service to the open-source community. Default used by Apache Maven, and available in all other build tools.
+- [Central Repository](https://search.maven.org)   - 最大的二进制组件存储库，可作为开源社区的免费服务.  默认情况下由Apache Maven使用，并且可在所有其他构建工具中使用.
 -  [Cloudsmith！[c]]（https://cloudsmith.io） - 完全托管的包管理SaaS，支持Maven / Gradle / SBT.
 - [IzPack](http://izpack.org) - 用于跨平台部署的安装创作工具.
 - [JitPack](https://jitpack.io)   -  GitHub易于使用的软件包存储库.  按需构建Maven / Gradle项目并发布即用型软件包.
@@ -332,7 +334,7 @@
 
 ### GUI
 
-*库创建现代图形用户界面.*
+*Libraries to create modern graphical user interfaces.*
 
 - [JavaFX](https://www.oracle.com/technetwork/java/javase/overview/javafx-overview-2158620.html) -  Swing的继任者.
 - [Scene Builder](https://gluonhq.com/open-source/scene-builder) -  JavaFX应用程序的可视化布局工具.
@@ -507,6 +509,7 @@
 - [Modernizer](https://github.com/andrewgaul/modernizer-maven-plugin) - 检测旧Java API的使用.
 - [Multi-OS Engine](https://software.intel.com/en-us/multi-os-engine) - 开发本地移动（iOS，Android等）应用程序的开源跨平台引擎.
 - [OpenRefine](http://openrefine.org) - 处理凌乱数据的工具：清理，转换，使用Web服务扩展它并将其链接到数据库.
+- [PipelinR](https://github.com/sizovs/pipelinr) - 用于在管道中使用处理程序和命令的小型实用程序库. 
 - [Polyglot for Maven](https://github.com/takari/polyglot-maven) -  Maven 3.3.1+的扩展，允许用XML以外的方言编写POM模型.
 - [Smooks](https://github.com/smooks/smooks) - 用于构建处理数据的应用程序的可扩展框架，这意味着绑定，转换，消息处理和丰富.
 - [Togglz](https://www.togglz.org) -  Feature Toggles模式的实现.
@@ -536,7 +539,7 @@
 - [Failsafe Actuator](https://github.com/zalando-incubator/failsafe-actuator) - 在Spring-Boot环境中开箱即用监控故障安全断路器.
 - [Glowroot](https://glowroot.org) - 开源Java APM.
 - [inspectIT](http://www.inspectit.rocks)   - 通过可以即时更改的挂钩捕获详细的运行时信息.  它支持通过OpenTracing API跟踪多个系统，并可以将数据与最终用户监控相关联.
-  -  [Instrumental！[c]]（https://instrumentalapp.com） - 实时Java应用程序性能监控.  具有免费开发账户的商业服务.
+- [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
 - [JavaMelody](https://github.com/javamelody/javamelody) - 绩效监测和分析.
 - [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) -  Jaeger客户.
 - [jmxtrans](https://github.com/jmxtrans/jmxtrans)   - 连接到多个JVM并通过JMX查询它们的属性.  它的查询语言基于JSON，允许非Java程序员访问JVM属性.  支持不同的输出写入，包括Graphite，Ganglia和StatsD.
@@ -755,6 +758,7 @@
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化的库（主要是Swing）并与节点边图交互.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算，可视化和数字信号分析的库.
 - [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供通用的二维内存高效表格数据结构，称为DataFrame，以便为JVM上的科学计算实现高效的内存分析.
+- [Orson-Charts](https://github.com/jfree/orson-charts) - 生成各种3D图表，可以使用Swing和JavaFX显示或导出为PDF，SVG，PNG和JPEG.
 - [Tablesaw](https://github.com/lwhite1/tablesaw) - 包括数据框架，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)   - 用于绘制数据的轻量级库.  可以使用许多可自定义的图表类型.
 
@@ -780,7 +784,7 @@
 - [Kalium](https://github.com/abstractj/kalium) - 绑定网络和密码（NaCl）库.
 - [Keycloak](https://keycloak.jboss.org) - 用于浏览器应用程序和RESTful Web服务的集成SSO和IDM.
 - [Keyczar](https://github.com/google/keyczar) - 易于使用，安全的加密框架，带有密钥版本.
-- [Keywhiz](https://github.com/square/keywhiz) - System for distributing and managing secrets.
+- [Keywhiz](https://github.com/square/keywhiz) - 分发和管理秘密的系统.
 - [Nbvcxz](https://github.com/GoSimpleLLC/nbvcxz) - 高级密码强度估计.
 - [OACC](http://oaccframework.org) - 提供基于权限的授权服务.
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
@@ -852,7 +856,7 @@
 
 - [Beanmother](https://github.com/keepcosmos/beanmother) - 从YAML灯具设置bean.
 - [Fixture Factory](https://github.com/six2six/fixture-factory) - 从模板生成假对象.
-- [JFairy](https://github.com/Codearte/jfairy) - Fake data generator.
+- [JFairy](https://github.com/Codearte/jfairy) - 假数据生成器.
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) -  JUnit测试运行器和用于以伪随机方式运行JUnit测试的插件.
 - [Java Faker](https://github.com/DiUS/java-faker) -  Ruby的虚假数据生成器的端口.
 
@@ -873,7 +877,7 @@
 
 *提供自定义匹配器的库.*
 
-- [AssertJ](https://joel-costigliola.github.io/assertj) - 流畅的断言，提高可读性.
+- [AssertJ](https://joel-costigliola.github.io/assertj) - Fluent assertions that improve readability.
 - [JSONAssert](http://jsonassert.skyscreamer.org) - 简化测试JSON字符串.
 - [Truth](https://github.com/google/truth) - 谷歌的断言和主张框架.
 
@@ -958,7 +962,7 @@
 - [PrimeFaces](https://primefaces.org) - 具有免费和商业/支持版本以及前端组件的JSF框架.
 - [Ratpack](https://ratpack.io) - 一组库，可以促进快速，高效，可演化和经过良好测试的HTTP应用程序.
 - [Takes](https://github.com/yegor256/takes) - 基于真实面向对象编程和不变性概念构建的意见Web框架.
-- [Vaadin](https://vaadin.com/home)   - 基于GWT构建的事件驱动框架.  在客户端使用带有Ajax的服务器端体系结构.
+- [Vaadin Flow](https://vaadin.com/flow)   - 使用标准Web组件的事件驱动框架.  在客户端使用Ajax的服务器端架构.
 
 ## Resources
 
@@ -1061,7 +1065,7 @@
 - [JavaWorld](https://www.javaworld.com)
 - [JAXenter](https://jaxenter.com)
 - [RebelLabs](https://zeroturnaround.com/rebellabs)
-- [The Takipi Blog](http://blog.takipi.com)
+- [OverOps Blog](https://blog.overops.com)
 - [TheServerSide.com](http://www.theserverside.com)
 - [Vanilla Java](https://vanilla-java.github.io)
 - [Voxxed](https://www.voxxed.com)

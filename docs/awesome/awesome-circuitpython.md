@@ -15,7 +15,7 @@
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -  CircuitPython和社区概述.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习CircuitPython的基本功能.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - 关于CircuitPython的Adafruit学习指南.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) -  CircuitPython和MicroPython的指南.
 
 ## Community
@@ -37,7 +37,7 @@
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
 - [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) -  CircuitPython可用的功能和文档列表.
-- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - 使用CircuitPython特定于Circuit Playground Express的功能和文档.
+- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) -  GitHub上CircuitPython的源代码.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过130个库可用.
 - [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) -  Raspberry Pi和其他兼容的单板Linux计算机上的CircuitPython库.
@@ -110,11 +110,17 @@
 
 ## Events
 
+- [PyCon 2019 conference](https://us.pycon.org/2019/about/)   -  2019年5月1日至9日，俄亥俄州克利夫兰市.  Digi-Key和Adafruit已合作参加PyCon 2019，因此每位与会者（约4,000人）将获得特别版Circuit Circuit Ground Express，正在运行... CircuitPython.
+
+这项工作是为了让人们聚集在一起，将硬件上的Python用于大多数人.
+
+这只是我们与Digi-Key合作以继续为所有开发人员提供支持的众多努力之一，在微控制器上使用Python  -  [Adafruit](https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/) & [planning doc](https://docs.google.com/document/d/1E36RHKZ57mnb8Ks3hEB1TmPv88w9sXep2_BD0im-Qvk/edit).
+
+ 还发生了什么？  CircuitPython团队将运行几个Open Spaces会话（就像去年一样），展示了如何在Digi-Key / Adafruit PyCon特别版Circuit Playground Express上使用CircuitPython.  我们还有额外的插件可供使用：电位器，NeoPixel带和伺服器.  该团队将在几天内运行CircuitPython Sprint，以处理CircuitPython库和CircuitPython核心代码.  BYOMUSB“带上你自己的Micro USB”线，我们将在短跑/会话期间借用一些，以及一些USB C适配器，也是一个好主意！
+
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) -  CircuitPython的Discord聊天空间，会议通常是周一东部时间下午2点.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - 每周一次的Adafruit Show-and-tell计划经常会展示与CircuitPython相关的项目.
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - 关于电子产品的最长的Youtube现场直播节目，每周在“Python on hardware segment”期间有关CircuitPython的信息.
-- [PyCon 2019 conference](https://us.pycon.org/2019/about/) -  2019年5月1日至9日，俄亥俄州克利夫兰市.
-- [PyCascades 2019](https://2019.pycascades.com/)   -  2019年2月23日至24日，西雅图.  WA. 
 
 ## Swag
  - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) -  CircuitPython发布的第4版海报，以北欧为特色.

@@ -406,7 +406,7 @@
 * [go-sunrise](https://github.com/nathan-osman/go-sunrise) - 计算给定位置的日出和日落时间.
 * [goweek](https://github.com/grsmv/goweek) - 用于在golang中使用周实体的库.
 * [iso8601](https://github.com/relvacode/iso8601) - 无需正则表达式即可高效地解析ISO8601日期时间.
-* [Kair](https://github.com/GuilhermeCaruso/Kair) - 日期和时间 -  Golang格式库.
+* [kair](https://github.com/GuilhermeCaruso/kair) - 日期和时间 -  Golang格式库.
 * [now](https://github.com/jinzhu/now) - 现在是golang的时间工具包.
 * [NullTime](https://github.com/kirillDanshin/nulltime) -  Nullable`time.Time`.
 * [strftime](https://github.com/awoodbeck/strftime) - 兼容C99的strftime格式化程序.
