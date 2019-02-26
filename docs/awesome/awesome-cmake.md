@@ -51,7 +51,7 @@
 * [Book](https://leanpub.com/effective-cmake) - 有效的CMake：写出更好的CMake的实用建议（尚未完全编写）.
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - 现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)   - 如何做好.  [```[CC0-1.0]```] [CC0-1.0]
-* [Lecture](https://www.youtube.com/watch?v=TsddSCzYiRs) - 更现代的CMake  -  Deniz Bahadir，Meeting C ++ 2018.
+* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的CMake  -  Deniz Bahadir，Meeting C ++ 2018.
 
 ## Package Management / Build Systems
 

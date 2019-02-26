@@ -15,7 +15,7 @@ _awesome_ Common Lisp库的精选列表.
  另有说明.  标有星号的那些：如此广泛而且
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
- 这样.  用a表示的库是我们喜欢和想要的库
+such. Libraries denoted with a 👍 are the ones we like and want to
  在Awesome-cl列表中宣传.  他们证明了他们可以解决的问题
 比社区标准更好的问题，但他们不是
  广泛的，或不被认为是稳定的.  例如，我们更喜欢
@@ -569,7 +569,7 @@ Javascript
 
 *：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
-* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
+* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天起就设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
 * [Wuwei](https://github.com/mtravers/wuwei/)   - 用于构建基于Ajax的Web页面的工具包.  [MIT] [200].
 * [SmackJack](https://github.com/aarvid/SmackJack)   - 使用parenscript生成javascript和hunchentoot（现在）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端parenscript函数.  [MIT] [200].
@@ -634,14 +634,13 @@ Monitoring
 * [avatar-api](https://github.com/eudoxia0/avatar-api)   - 从Google+，Gravatar和其他人那里获取头像.  [外籍] [14].
 * [chirp](https://github.com/Shinmera/chirp)   - 一个Twitter客户端库.  [艺术许可2.0] [51].
 * [tooter](https://github.com/Shinmera/tooter)   - 为Mastodon实现完整v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
-* [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
+* [cl-irc](https://www.common-lisp.net/project/cl-irc/)   -  IRC客户端库.  [外籍] [14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)   -  MediaWiki api的包装器.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)   -  OpenID的实现.  [LLGPL] [8].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)   - 与Pushover的Common Lisp绑定.  [MIT] [200].
 * [humbler](https://github.com/Shinmera/humbler)   -  Tumblr API接口.  [艺术许可2.0] [51].
-
-也可以看看 [multiposter](https://github.com/Shinmera/multiposter) 至
-同时发布到多个服务.
+*[multiposter](https://github.com/Shinmera/multiposter) - 同时发布到多个服务.
+* [stripe-client](https://github.com/ruricolist/cl-stripe-client)   -  Stripe支付系统的客户.  [MIT] [200].
 
 Others
 ------
@@ -893,7 +892,7 @@ CSV
 * [sphinxcontrib-cldomain](https://github.com/russell/sphinxcontrib-cldomain) -
    扩展Sphinx以涵盖Common Lisp.  使用构建文档
    Python项目与sphinx一样容易.  [GPL3] [2]
-* [Codex](https://github.com/CommonDoc/codex) - 一个美丽
+* [Codex](https://github.com/CommonDoc/codex) - A beautiful
    Common Lisp的文档系统.  [MIT] [200].
 * [Staple](https://github.com/Shinmera/staple) - 生成的工具
    使用HTML模板的文档页面.  使用现有
@@ -946,7 +945,7 @@ Logging
 
 致第三方：
 
-* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
+* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - 一个Common Lisp结构化记录器 [Fluentd](https://www.fluentd.org/).
 
 
 Markdown

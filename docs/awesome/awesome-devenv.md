@@ -88,7 +88,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [highlight-selected](https://github.com/richrace/highlight-selected) - 双击一个单词以在整个打开的文件中突出显示它.
 * [minimap](https://github.com/atom-minimap/minimap) - 完整源代码的图形化地图（预览）.
 * [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) -  Atom git-diff软件包的小地图绑定.
-* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - 高亮选择包的小地图绑定.
+* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
 * [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - 轻松访问所有项目并使用项目特定设置和选项进行管理.
 * [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) - 在Atom树视图中显示Git存储库状态.
 * [atom-pigments](https://github.com/abe33/atom-pigments) - 用于在项目和文件中显示颜色的Atom包.
@@ -179,7 +179,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) - 使用zsh和zgen进行设置的快速入门
 
 ## Text
-*Tools for working with text files - search, replace, processing*
+*处理文本文件的工具 - 搜索，替换，处理*
 
 * [ack](https://github.com/petdance/ack2) - 基于Perl
   优于grep的工具.
@@ -214,6 +214,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [guard](https://github.com/guard/guard) -  FS手表工具，拥有庞大的插件生态系统
 * [LiveReload](http://livereload.com/) -  FS监视器和预处理器作为`/ OSX /`和`/ WIN /`的桌面应用程序，具有互补的浏览器扩展
   * [guard-livereload](https://github.com/guard/guard-livereload) -  Guard插件与LiveReload的浏览器扩展兼容
+  * [simplehttp](https://github.com/snwfdhmp/simplehttp) 通过http开始提供本地目录的最快速最简单的方法.
 * [watchman](https://github.com/facebook/watchman) -  Facebook更好
   `watch`  - 注意它作为一项服务.
 * [Zappr](https://github.com/zalando/zappr) - 通过启用/禁用拉取请求批准检查，构建GitHub集成以增强项目工作流程.

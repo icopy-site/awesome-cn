@@ -17,7 +17,7 @@
 
 ## Admin interface
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) -  Flask的简单且可扩展的管理界面框架
+- [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
 
 ## Analytics
 
@@ -55,7 +55,7 @@
 ## Cache
 
 - [Flask-Caching](https://github.com/sh4nks/flask-caching) - 为Flask添加简单的缓存支持
-- [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) - Automatic Flask cache configuration on Heroku
+- [flask-heroku-cacheify](https://github.com/rdegges/flask-heroku-cacheify) -  Heroku上的自动Flask缓存配置
 
 ## Data Validation
 
@@ -126,6 +126,7 @@
 - [pytest-flask](https://github.com/pytest-dev/pytest-flask) - 一组测试Flask应用程序的pytest灯具
 - [Flask-MonitoringDashboard](https://github.com/flask-dashboard/Flask-MonitoringDashboard) - 自动监控Flask / Python Web服务的不断发展的性能.
 - [nplusone](https://github.com/jmcarp/nplusone#flask-sqlalchemy) - 使用Flask和SQLAlchemy自动检测n + 1个查询
+- [connexion](https://github.com/zalando/connexion) -  Swagger / OpenAPI在Flask之上的第一个Python框架，具有自动端点验证和OAuth2支持.
 
 ## Utils
 

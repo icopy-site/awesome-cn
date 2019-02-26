@@ -291,6 +291,7 @@
 * [GamePlay](https://github.com/gameplay3d/GamePlay)   - 用于创建2D / 3D移动和桌面游戏的跨平台原生C ++游戏框架.  [Apache2的]
 * [Godot](https://github.com/godotengine/godot)   - 功能齐全的开源MIT许可游戏引擎.  [MIT]
 * [Grit](http://www.gritengine.com/)   - 社区项目，为实现开放世界3D游戏构建免费游戏引擎.  [MIT]
+* [Halley](https://github.com/amzeratul/halley)   - 一个用C ++ 14编写的轻量级游戏引擎，带有“真正的”实体组件系统.  [Apache 2.0]
 * [KlayGE](https://github.com/gongminmin/KlayGE)   - 一个基于插件的架构的跨平台开源游戏引擎.  [GPL第二] [website](http://www.klayge.org/)
 * [OpenXRay](https://github.com/OpenXRay/xray-16)   -  STALKER游戏系列中使用的社区修改的X射线引擎.  [修改BSD /非商业]
 * [Oxygine](http://oxygine.org/)   - 跨平台的2D C ++游戏引擎.  [MIT]
@@ -530,7 +531,7 @@
 * [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
 * [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
 * [libjingle](https://code.google.com/p/libjingle/)   - 谷歌谈话语音和P2P互操作性库.  [BSD]
-* [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
+* [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/) - GNU libmicrohttpd is a small C library that is supposed to make it easy to run an HTTP server as part of another application. [LGPL v2.1+]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic)   - 从Chromium的QUIC实现中提取的QUIC协议库.  [BSD]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)   - 轻量级纯C WebSocket实现，提供客户端和服务器库.  [LGPL2.1 +静态链接例外] [website](https://libwebsockets.org/)
@@ -684,7 +685,7 @@
  * XML是废话.  真.  没有任何借口.  XML对于解析人类来说是令人讨厌的，甚至对于计算机也是一种解析的灾难.  没有理由存在那种可怕的废话.   -  Linus Torvalds *
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)   - 属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件.  [促进]
-* [Expat](http://www.libexpat.org/) - An XML parser library written in C. [MIT]
+* [Expat](http://www.libexpat.org/) - 用C编写的XML解析器库.[MIT]
 * [Libxml2](http://xmlsoft.org/)   -  Gnome的XML C解析器和工具包.  [MIT]
 * [libxml++](http://libxmlplusplus.sourceforge.net/)   - 用于C ++的XML解析器.  [LGPL2]
 * [Mini-XML](https://github.com/michaelrsweet/mxml) - 用ANSI C编写的小型XML解析库.[LGPL2 with exceptions]

@@ -11,7 +11,7 @@
                                                                     ____/  |     \_____
       ╭───╮╭───╮  ╭──────╮   ╭──╮      ╭──╮ ╭───╮╭────╮  ╭───╮╭───╮      __/\____/      \_
      /    ││    \ │      │   │   \    / ╭─╯/ ╭──╯╰╮  ╭╯ /    ││    \          |            \
-    （╮╮╭╭╭╭╭╭╭╭╭╭╭╭╭││/ /
+    │的││││││_ \ /╰─（\─╮│││╭──╯││_ / \ __ / \“_
     │││││╰─╯╯─╯│D││╭─╯\___│││││││││/ / __
     │  _  ││  │  │  │  │     │     ││   ╰─╮/  \ │ │  │ │  ╰─ ││  │  │       \        \_\_________\
     │  │  ││  │  │  │  │     │     ││     │\    │╭╯  ╰╮│     ││  │  │        \          \     \
@@ -140,6 +140,7 @@ Ant Design系列项目.
 - [Ng-Alain](https://github.com/cipchk/ng-alain) - 基于Ant Design的Angular Admin UI（使用ng-zorro-antd）.
 - [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - 带有打字稿，反应，mobx，antd和webpack的初学者模板.
 - [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - 具有SEO，PWA，SSR，Skeleton，占位符等的可插拔样板，作为其众多功能中的一部分.
+- [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - 在create-react-app中使用antd而不弹出
 
 ## Non-JavaScript Libraries
 

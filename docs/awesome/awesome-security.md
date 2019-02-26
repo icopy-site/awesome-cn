@@ -88,6 +88,7 @@
 - [Prelude](https://www.prelude-siem.org/)   -  Prelude是一个通用的“安全信息和事件管理”（SIEM）系统.  Prelude收集，规范化，分类，汇总，关联和报告所有与安全相关的事件，而不受产生此类事件的产品品牌或许可证的影响;  序曲是“无代理人”.
 - [OSSIM](https://www.alienvault.com/open-threat-exchange/projects) -  OSSIM提供安全专业人员从SIEM产品中获得的所有功能 - 事件收集，规范化和关联.
 - [FIR](https://github.com/certsocietegenerale/FIR) - 快速事件响应，一个网络安全事件管理平台.
+- [LogESP](https://github.com/dogoncouch/LogESP) - 开源SIEM（安全信息和事件管理系统）.
 
 ### VPN
 

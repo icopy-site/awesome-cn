@@ -43,7 +43,7 @@
   * [dominodatalab.com](https://www.dominodatalab.com) - 支持Python，R，Spark，Hadoop，Matlab等的数据科学
   * [havenondemand.com](https://www.havenondemand.com) - 用于机器学习的API
   * [restlet.com](https://restlet.com/products/apispark/) -  APISpark可通过直观的浏览器界面在几分钟内使任何API，应用程序或数据所有者成为API提供商
-  * [scrapinghub.com](https://scrapinghub.com)   - 使用可视界面和插件进行数据抓取.  免费计划包括在共享服务器上无限制地抓取
+  * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
@@ -367,7 +367,7 @@
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
   * [opeNode.io](https://www.openode.io/) - 开源项目的免费云托管.
   * [kuber.host](https://kuber.host/) -  Kubernetes主持免费计划
-  * [cloudno.de](https://cloudno.de/) -  Node.js apss的免费云托管.
+  * [cloudno.de](https://cloudno.de/) -  Node.js应用程序的免费云托管.
 
 ## DNS
 
@@ -489,7 +489,7 @@
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
-  * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
+  * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
@@ -512,7 +512,7 @@
 
 ## Package Build System
 
-   * [build.opensuse.org](https://build.opensuse.org/) - 多个发行版的包构建服务（SUSE，EL，Fedora，Debian等）
+   * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) - 针对Fedora和EL的基于模拟的RPM构建服务
    * [help.launchpad.net](https://help.launchpad.net/Packaging) -  Ubuntu和Debian构建服务
 
@@ -586,7 +586,7 @@
 ## Miscellaneous
   * [apichangelog.com](https://www.apichangelog.com/) - 订阅每次API文档更新时都会收到通知（Facebook，Twitter，Google，...）
   * [docsapp.io](https://www.docsapp.io/) - 为开源免费发布文档的最简单方法
-  * [fullcontact.com](https://fullcontact.com/developer/pricing/) — Help your users know more about their contacts by adding social profile into your app. 500 free Person API matches/month
+  * [fullcontact.com](https://fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
   * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制
   * [screenshotlayer.com](https://screenshotlayer.com/)   - 捕获任何网站的高度可定制的快照.  每月免费100次快照

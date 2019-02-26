@@ -221,6 +221,7 @@
 * [JBMC](http://www.cprover.org/jbmc/) -  Java（字节码）的有界模型检查器，验证用户定义的断言，标准断言，几个覆盖度量分析
 * [NullAway](https://github.com/uber/NullAway)   - 具有低构建时开销的基于类型的空指针检查器;  一个 [Error Prone](http://errorprone.info/) 插入
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - 检查已知的，公开披露的漏洞的依赖关系.
+* [qulice](https://www.qulice.com/) - 结合了一些（预先配置的）静态分析工具（checkstyle，PMD，Findbugs，......）.
 * [Soot](https://sable.github.io/soot/) - 用于分析和转换Java和Android应用程序的框架.
 * [Spoon](https://github.com/INRIA/spoon)   - 库为Java编写自己的静态分析和架构规则检查器.  可以集成在Maven和Gradle中.
 * [SpotBugs](https://spotbugs.github.io/)   -  SpotBugs是FindBugs的继任者.  用于静态分析的工具，用于查找Java代码中的错误.

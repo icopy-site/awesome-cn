@@ -85,6 +85,7 @@ Write performant functional code by using the right data structures for the task
 * [kudo-js](https://github.com/blitzritz/kudojs) - 一个小实用程序库，带有一组代数数据类型和辅助函数，可帮助您在Javascript函数编程风格中编写代码
 * [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先，自以为是，功能强大的语言，旨在与JavaScript引擎100％兼容
+* [Pratica](https://github.com/rametta/pratica) - 小型，简单，易用的FP数据类型，适用于需要快速发送可靠代码的实用且高效的开发人员.
 
 ### Lenses
 

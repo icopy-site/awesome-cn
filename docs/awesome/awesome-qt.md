@@ -58,7 +58,7 @@
   - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - 如果您只是设计接口并让其他人将它们连接到逻辑，则GUI设计器可作为单独的应用程序使用.
   - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - 就此而言，文档查看器也是如此.
 - [Qt Visual Studio Add-in](https://doc.qt.io/archives/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - 如果您更喜欢坚持使用Visual Studio，这个加载项可以让您这样做.
-- [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist)   -  Qt提供出色的国际化/本地化支持，这个工具对它负有很大的责任.  使用特殊宏在代码中编写可翻译字符串，此工具将为您汇总所有字符串，以便您或您的翻译人员可以扩大您的软件的受众群体.
+- [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
 - [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework)   - 似乎没有人谈论这个问题，但Qt还提供了一种为应用程序编写安装程序的方法.  不支持创建macOS磁盘映像，应用程序包或Linux软件包，因此在考虑项目的分发时请注意这一点.
   - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - 为Qt项目生成macOS应用程序包.
 - [qmake](https://doc.qt.io/qt-5/qmake-manual.html) [:octocat:](https://github.com/qt/qtbase/tree/dev/qmake) - 为Qt设计的捆绑构建系统，但它可用于非Qt项目.
@@ -89,7 +89,7 @@
 
 ## Libraries
 
-This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
+ 本节介绍两种第三方库;  提供自己全新功能的那些（例如小部件，处理特定文件格式），以及提供与现有软件集成的那些（例如脚本语言，REST API的客户端，已建立协议的实现）.
 
 
 ### Integrations
@@ -116,13 +116,14 @@ This section describes two kinds of third-party libraries; those that provide th
 - [cutelyst](http://cutelyst.org) [:octocat:](https://github.com/cutelyst/cutelyst) - 从Perl的Catalyst框架中获取一些想法的Web框架.
 - [DiceParser](https://github.com/Rolisteam/DiceParser) [:octocat:](https://github.com/Rolisteam/DiceParser) -  Dice Roller框架基于自己的语法. 
 - [DOtherSide](https://github.com/filcuc/DOtherSide) [:octocat:](https://github.com/filcuc/DOtherSide) - 在C中绑定QML，主要设计为*其他*语言的API以支持QML.
+- [Felgo](https://felgo.com)   - 跨平台的游戏引擎和应用程序框架，严重依赖于QML.  有很多工具和资源，甚至可能值得拥有自己的列表.
 - [glraw](https://github.com/cginternals/glraw) [:octocat:](https://github.com/cginternals/glraw)   - 将图像从任何Qt支持的格式转换为OpenGL格式纹理.  用于加速图形应用程序中的纹理加载.
 - [grantlee](https://github.com/steveire/grantlee) [:octocat:](https://github.com/steveire/grantlee) -  Django启发的文本模板.
-- [injeqt](https://github.com/vogel/injeqt) [:octocat:](https://github.com/vogel/injeqt) - Dependency injection for Qt.
+- [injeqt](https://github.com/vogel/injeqt) [:octocat:](https://github.com/vogel/injeqt) -  Qt的依赖注入.
 - [KDE Frameworks](https://api.kde.org/frameworks) [:octocat:](https://github.com/KDE) [:package:](https://quickgit.kde.org)   - 针对KDE的度量标准库，但其中许多库也可用于常规Qt应用程序.  跨平台，大部分.
 - [Marble](https://marble.kde.org) [:package:](https://cgit.kde.org/marble.git) - 虚拟地球和地图，可以单独使用或嵌入其他应用程序中.
 - [qgexedit2](https://github.com/Simsys/qhexedit2) [:octocat:](https://github.com/Simsys/qhexedit2) - 在您的应用程序中嵌入十六进制编辑器.
-- [qml-material](https://github.com/papyros/qml-material) [:octocat:](https://github.com/papyros/qml-material) - Material Design implemented in QML.
+- [qml-material](https://github.com/papyros/qml-material) [:octocat:](https://github.com/papyros/qml-material) - 用QML实现的Material Design.
 - [QNodeView](https://github.com/gwihlidal/QNodeView) [:octocat:](https://github.com/gwihlidal/QNodeView) - 小部件，允许您在图形中创建和编辑节点，类似于虚幻引擎，物质设计器或PureData提供的类型.
 - [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) [:octocat:](https://github.com/alex-spataru/QSimpleUpdater) - 让您的应用程序自行更新.
 - [qt-maybe](https://github.com/robertknight/qt-maybe) [:octocat:](https://github.com/robertknight/qt-maybe) - 类型理论的粉丝将享受这些总和和可选类型.
@@ -137,7 +138,6 @@ This section describes two kinds of third-party libraries; those that provide th
 - [qtwebserver](https://github.com/cybercatalyst/qtwebserver) [:octocat:](https://github.com/cybercatalyst/qtwebserver) - 如果由于某种原因需要在Qt中编写Web应用程序服务器，这将对您有所帮助.
 - [QtXlsx](http://qtxlsx.debao.me) [:octocat:](https://github.com/dbzhang800/QtXlsxWriter) - 以Microsoft Excel格式读写电子表格.
 - [Qwt](http://qwt.sourceforge.net) [:package:](https://sourceforge.net/projects/qwt) - 为科学和技术应用设计的Qt小部件.
-- [V-Play](https://v-play.net)   - 严重依赖QML的跨平台2D游戏引擎和应用程序框架.  有很多工具和资源，甚至可能值得拥有自己的列表.
 - [verdigris](https://github.com/woboq/verdigris) [:octocat:](https://github.com/woboq/verdigris) - 使用`moc`编写Qt应用程序*而不使用*的实验库.
 
 ## Software Repositories
@@ -200,7 +200,7 @@ This section describes two kinds of third-party libraries; those that provide th
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - 以消费者为中心的虚拟化
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator)   - 吃东西吃狗粮的东西.  在上市 [official tools](#official-tools)，但不在这里列出它感觉不对.
 - [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - 用于远程角色扮演游戏的虚拟桌面.
-- [RUBE](https://www.iforce2d.net/rube) - 任何使用Box2D物理引擎的游戏的关卡设计工具。
+- [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 - [TeamSpeak](https://www.teamspeak.com) - 当游戏玩家希望在不支持游戏的游戏中进行语音聊天时，他们会使用此功能.
 - [Telegram Desktop](https://desktop.telegram.org) [:octocat:](https://github.com/telegramdesktop/tdesktop)   - 保证你的谈话得好，你会提高潜在窃听者的血压.  桌面客户端使用Qt并且是开源的.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled)   - 也许是世界上最受欢迎的tilemap编辑器.  适合游戏中的关卡设计.
@@ -209,7 +209,7 @@ This section describes two kinds of third-party libraries; those that provide th
 - [Vuo](https://vuo.org) [:octocat:](https://github.com/vuo/vuo) - 用于交互式媒体的实时可视化编程语言.
 - [Wireshark](https://www.wireshark.org) [:package:](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree)   - 那里最流行的数据包嗅探器.  你*将*用于善而不是邪恶，对吧？
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - 编程语言，符号计算器和工程师最好的朋友.
-- [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - 世嘉土星模拟器.
+- [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
 
 还有一个官方陈列室 [here](https://showroom.qt.io)，让开发人员提交自己的Qt驱动的应用程序进行显示.
 

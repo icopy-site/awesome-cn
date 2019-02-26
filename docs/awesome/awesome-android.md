@@ -34,7 +34,7 @@
 
 ### Charts
 
-- [AChartEngine](https://github.com/ddanny/achartengine) - Charting Engine.
+- [AChartEngine](https://github.com/ddanny/achartengine) - 图表引擎.
 - [EazeGraph](https://github.com/blackfizz/EazeGraph) - 图表和图表库.
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 具有良好运动功能的图表库.
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - 图表和图形库，支持缩放，滚动和动画.
@@ -95,7 +95,7 @@
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于Android项目的灵活，易用，一体化应用程序介绍库.
 - [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与API 8+兼容的Material Design Calendar
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
-- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
+- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠listview项目的内容时提供了一个奇特的动画.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - 图标和颜色的祝酒词.
@@ -179,7 +179,7 @@
 - [ijkplayer](https://github.com/Bilibili/ijkplayer) - 基于FFmpeg n3.2的Android / iOS视频播放器，支持MediaCodec，VideoToolbox.
 - [Exoplayer](https://github.com/google/ExoPlayer) -  ExoPlayer是适用于Android的应用级媒体播放器，允许在本地和通过互联网播放音频和视频.
    支持HTTP上的动态自适应流（DASH），SmoothStreaming和Common Encryption等功能
-- [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [VideoPlayView](https://github.com/MarcinMoskala/VideoPlayView) - 自定义Android视图，包括视频播放器，播放/停止，加载器和占位符图像.
 
 #### Camera
 
@@ -359,6 +359,7 @@
 - [ZXing Android-Integration](https://github.com/zxing/zxing) - 通过Intent与条形码扫描仪集成.
 - [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) -  Android上的Java 8 Lambdas！
 - [RxJava](https://github.com/ReactiveX/RxJava)-  RxJava  -  JVM的Reactive Extensions  - 一个库，用于使用Java VM的可观察序列组合异步和基于事件的程序.
+- [RxAndroid](https://github.com/ReactiveX/RxAndroid) - 添加最少的RxJava绑定，以便轻松编写反应式Android Java代码.
 - [RxBinding](https://github.com/JakeWharton/RxBinding)-  RxBinding  - 来自平台和支持库的Android UI小部件的RxJava绑定API.
 - [Caffeine](https://github.com/percolate/caffeine) - 一组实用程序类，有助于加快Android开发速度.
 - [AboutLibraries](https://github.com/mikepenz/AboutLibraries) - 自动生成“关于此应用程序”部分，其中包含已使用库的列表.
@@ -367,7 +368,7 @@
 - [Typography](https://github.com/workarounds/typography) - 一个Android库，可以在视图中轻松使用自定义字体.
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) -  Android中的自定义字体是一种不错的方式.
 - [transai](https://github.com/Jintin/transai) - 命令行工具可帮助您管理本地化字符串文件.
-- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - 它从网址进行预览，抓取所有信息，如标题，相关文本和图像.
+- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey](https://github.com/nisrulz/sensey) - 快速检测手势.
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - 自动暂停视频的自定义视频视图是用户不看设备屏幕！
 - [Flexbox Layout](https://github.com/google/flexbox-layout) -  FlexboxLayout是一个将CSS Flexible Box Layout Module的类似功能引入Android的库.
