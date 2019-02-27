@@ -237,6 +237,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ### News & Updates
 
 - [JMeter @ Linkedin](https://www.linkedin.com/topic/jmeter)
+- [JMeter @ Reddit](https://www.reddit.com/r/jmeter)
 
 ### Twitter
 

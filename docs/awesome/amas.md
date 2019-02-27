@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="sindresorhus/amas"></div>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →问我什么
 
 #### Ask these people anything!
 
@@ -76,7 +76,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - 用户界面领导 [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners) .  产品和工具的建造者.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - 工程师 [Mapbox](https://www.mapbox.com/)，的创造者 [Leaflet](http://leafletjs.com/) 和一堆 [other open source libraries](https://github.com/mourner/projects) .  构建交互式地图的未来.
 - [Claudio Procida](https://github.com/claudiopro/ama)   - 全栈Web开发人员，导师，传播者和演讲者.  对绘画和摄影充满热情.
-- [Zeno Rocha](https://github.com/zenorocha/ama) - 开发者倡导者 [Liferay](http://www.liferay.com/).
+- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt](https://github.com/kahlil/ama) -  JavaScript开发人员，组织KarlsruheJS，共同主持人 [Descriptive Podcast](http://descriptive.audio) 和 [Reactive Podcast](http://reactive.audio)，歌手.
 - [Vadim Demedes](https://github.com/vdemedes/ama) -  Node.js上瘾.
 - [Raymond Clanan](https://github.com/rclanan/ama) - 自由职业者全栈开发者 [Utopian Concept LLC](http://utopianconcept.com/).
@@ -84,7 +84,7 @@
 - [Hong Liu](https://github.com/honglio/ama) -  Freelance全栈Web开发人员和创始人 [PresentBook](http://www.niukj.com).
 - [Arnaud Benard](https://github.com/arnaudbenard/ama) - 自由职业JS开发人员和数字游牧民族.
 - [Anthony Ramella](https://github.com/tonyynot/ama)   - 我在5个月内从零开始聘请网络开发人员.  一世 [blog](http://anthonyramella.com) 关于我学习代码和作为初级开发人员工作的经历.
-- [Diki Andriansyah](https://github.com/dikiaap/ama)   -  Freelance全栈开发人员.  Laravel上瘾者.
+- [Diki Ananta](https://github.com/dikiaap/ama) - 与Laravel合作的自由撰写的全栈开发人员.
 - [Steel Brain](https://github.com/steelbrain/ama) -  Rebel™，也是Node.js，PHP和HackLang开发人员.
 - [CJ Patoilo](https://github.com/cjpatoilo/ama) - 前端工程师，JavaScript传播者， [DEV IO](https://github.com/deviofoundation) 联合创始人.
 - [Armagan Amcalar](https://github.com/dashersw/ama) - 软件工程主管 [unu GmbH](http://unumotors.com) .  软件架构师，企业家，会议发言人，导师，电子工程师，吉他爱好者，歌手.

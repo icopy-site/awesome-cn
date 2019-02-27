@@ -235,6 +235,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - 对MXNet c_predict_api进行绑定，以使用预先训练的模型进行推理.
 * [neat](https://github.com/jinyeom/neat)   - 即插即用，并行Go框架，用于增强拓扑（NEAT）的NeuroEvolution.  ** [已过时] **
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - 用于机器学习模型的开源Go转换器.
+* [therfoo](https://github.com/therfoo/therfoo) -  Go的嵌入式深度学习库.
 
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -1174,7 +1175,7 @@ be
 * [RSNNS](https://cran.r-project.org/web/packages/RSNNS/index.html) -  RSNNS：使用斯图加特神经网络模拟器（SNNS）的R中的神经网络.
 * [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) - 跟踪：R /设置界面.
 * [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) -  RXshrink：通过广义脊或最小角回归的最大似然收缩.
-* [sda](https://cran.r-project.org/web/packages/sda/index.html)   -  sda：收缩判别分析和CAT得分变量选择.  ** [已过时] **
+* [sda](https://cran.r-project.org/web/packages/sda/index.html)   -  sda：收缩判别分析和CAT分数变量选择.  ** [已过时] **
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) - 多算法集成学习包.
 * [svmpath](https://cran.r-project.org/web/packages/svmpath/index.html)   -  svmpath：svmpath：SVM Path算法.  ** [已过时] **
 * [tgp](https://cran.r-project.org/web/packages/tgp/index.html)   -  tgp：贝叶斯treed高斯过程模型.  ** [已过时] **

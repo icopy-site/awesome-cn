@@ -118,7 +118,7 @@ html {
 }
 ```
 
-当然，您可以使用`.nav li + li`，但使用`：not（）`意图非常明确，CSS选择器按照人类描述它的方式定义边界.
+这里，CSS选择器定义边界，就像人类描述它一样.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
