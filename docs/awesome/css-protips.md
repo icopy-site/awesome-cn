@@ -578,7 +578,7 @@ textarea {
 
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 * [正體中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-TW)
-* [Deutsche](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
+* [Deutsch](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/de-DE)
 * [Español](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/es-ES)
 * [Français](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/fr-FR)
 * [ગુજરાતી](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/gu-IND)

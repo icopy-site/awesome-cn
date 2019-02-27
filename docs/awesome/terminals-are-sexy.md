@@ -77,7 +77,7 @@
 * [git-sh](https://github.com/rtomayko/git-sh) - 适用于Git工作的自定义Bash环境.
 * [gittify](https://github.com/momeni/gittify) - 彩色Bash提示+自定义Git别名.
 * [oh-my-git](https://github.com/arialdomartini/oh-my-git) - 对bash和zsh的意见git提示.
-* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
+* [sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - 使用颜色，Git状态和Git分支进行Bash提示.
 
 ### Fish
 
@@ -159,7 +159,7 @@
 
 * [emacs](https://www.gnu.org/software/emacs/) - 具有命令行和图形用户界面的跨平台文本编辑器.
     * [spacemacs](http://spacemacs.org) - 社区驱动的emacs分发.
-* [jed](https://www.jedsoft.org/jed/) - 适用于Unix，VMS，MSDOS，OS / 2，BeOS，QNX和win9X / NT平台的免费文本编辑器.
+* [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [micro](https://github.com/zyedidia/micro) - 现代直观的基于终端的文本编辑器.
 * [nano](https://www.nano-editor.org/) - 使用命令行界面的类Unix计算系统或操作环境的文本编辑器.
@@ -228,6 +228,7 @@
 * [wttr.in](https://github.com/chubin/wttr.in) - 检查天气的正确方法.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) - 从YouTube下载视频
 * [z](https://github.com/rupa/z) - 基于匹配给定正则表达式的历史记录跳转到文件夹的工具
+* [z.lua](https://github.com/skywind3000/z.lua) - 一个新的CD命令，通过学习您的习惯，帮助您更快地导航.
 
 
 ## Communication

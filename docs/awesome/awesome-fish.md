@@ -49,6 +49,10 @@
 - [FabioAntunes/**fish-nvm**](https://github.com/FabioAntunes/fish-nvm) - 完成丰富，真实 [nvm](https://github.com/creationix/nvm) 包装纸
 - [jorgebucaran/**fish-nvm**](https://github.com/jorgebucaran/fish-nvm) - 纯鱼，没有废话的Node.js版本管理器
 
+### Python
+
+- [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) -  Ian Bicking的virtualenv的鱼壳包装纸
+
 ### Testing
 
 - [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - 基于TAP的测试运行器 

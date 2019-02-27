@@ -4,7 +4,11 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://www.patreon.com/sindresorhus">我的开源工作得到了社区的支持</a>
+		<sup>我的开源工作得到了社区的支持</sup>
+		<br>
+		<a href="https://www.patreon.com/sindresorhus">
+			<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+		</a>
 	</p>
 	<br>
 	<br>
@@ -94,6 +98,7 @@
 	- [Functional Programming](https://github.com/stoeffel/awesome-fp-js#readme)
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - 任务选手.
+	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - 您可以在30秒内理解的代码段.
 - [Swift](https://github.com/matteocrippa/awesome-swift#readme)
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
@@ -141,6 +146,7 @@
 - [Eta](https://github.com/sfischer13/awesome-eta#readme) -  JVM的函数编程语言.
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要.
+- [Q#](https://github.com/ebraminio/awesome-qsharp#readme) - 用于表达量子算法的特定于域的编程语言.
 
 
 ## Front-End Development
@@ -251,6 +257,7 @@
 - [Speech and Natural Language Processing](https://github.com/edobashira/speech-language-processing#readme)
 	- [Spanish](https://github.com/dav009/awesome-spanish-nlp#readme)
 	- [NLP with Ruby](https://github.com/arbox/nlp-with-ruby#readme)
+	- [Question Answering](https://github.com/seriousmac/awesome-qa#readme) - 用机器以自然语言提问和回答的科学.
 - [Linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics#readme)
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 非密码学家使用密码学的理论基础.
@@ -312,6 +319,7 @@
 ## Gaming
 
 - [Game Development](https://github.com/ellisonleao/magictools#readme)
+- [Game Networking](https://github.com/MFatihMAR/Awesome-Game-Networking#readme) - 多人在线游戏的网络编程.
 - [Game Talks](https://github.com/hzoo/awesome-gametalks#readme)
 - [Godot](https://github.com/Calinou/awesome-godot#readme) - 游戏引擎.
 - [Open Source Games](https://github.com/leereilly/games#readme)
@@ -322,6 +330,7 @@
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
+- [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙盒视频游戏.
 
 
 ## Development Environment
@@ -369,6 +378,7 @@
 - [PostgreSQL](https://github.com/dhamaniasad/awesome-postgres#readme) - 对象关系数据库.
 - [CouchDB](https://github.com/quangv/awesome-couchdb#readme) - 面向文档的NoSQL数据库.
 - [HBase](https://github.com/rayokota/awesome-hbase#readme) - 分布式，可扩展的大数据存储.
+- [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - 有关使用非关系型，分布式，开源和水平可伸缩数据库的帮助.
 
 
 ## Media
@@ -397,6 +407,7 @@
 - [Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids#readme)
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - 在比赛中学习.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
+- [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于CSS  - 语言和模块.
 
 
 ## Security
@@ -566,9 +577,10 @@
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - 国际高中机器人锦标赛.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
-- [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
+- [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - 开始接受比特币.
 

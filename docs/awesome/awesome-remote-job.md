@@ -25,6 +25,7 @@
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
+  - [HR] (#hr)
   - [Communication](#communication)
   - [Project Management](#project-management)
   - [Others](#others)
@@ -183,7 +184,7 @@
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)    - 来自多个董事会和雇主网站的汇总，对位置，工作类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程JavaScript作业
-  1. [Remote 4 Me](https://remote4me.com/) - An aggregator for remote jobs in tech and non-tech.
+  1. [Remote 4 Me](https://remote4me.com/) - 科技和非技术远程工作的聚合器.
   1. [Remote OK](https://remoteok.io/) - 为远程位置刮取许多工作板馈送.
   1. [Remote Only](https://remoteonly.io/) - 从许多工作板汇总的手动策划的工作列表.
   1. [RemotePHP.io](https://remotephp.io) - 来自整个网络的远程PHP作业.
@@ -299,7 +300,7 @@
   1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
   1. [Deeson](https://www.deeson.co.uk/careers)   - 英国与欧洲团队合作.  数字代理商，专门从事Drupal，Symfony和Laravel
   1. [Demio](https://demio.com/inside/) - 正常运作的网络研讨会平台.
-  1. [DigitalOcean](https://www.digitalocean.com/careers/) - 简单的云托管，专为开发人员而设计
+  1. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
   1. [Discourse](https://www.discourse.org/team) - 为您的社区进行文明讨论.
   1. [DNSimple](https://dnsimple.com) - 小型100％远程和全球分布的团队致力于使域管理成为事后的想法.
   1. [Doist](https://doist.com/jobs/) - 自2007年以来重新定义生产力.
@@ -347,7 +348,7 @@
   1. [Keepsafe](https://www.getkeepsafe.com) - 移动优先隐私产品，让全世界都可以轻松选择隐私.
   1. [Khan Academy](https://www.khanacademy.org/careers)   -  EdTech.  非营利性专注于K-12 STEM.  Less，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
   1. [Knack](https://www.knack.com/jobs) - 简单的在线数据库.
-  1. [LaterPay](https://www.laterpay.net/)   - （微）支付启动器.  德国慕尼黑.  Python，JavaScript，AWS.
+  1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) - 位于佛罗里达州德尔雷比奇的创业工作室.
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) - 云监控.
   1. [Linaro](https://www.linaro.org/careers/) -  ARM上的OpenSource Engineering.
@@ -472,6 +473,10 @@
  1. [9punto5](http://www.9punto5.cl) - 拉丁美洲的远程工作会议.
 
 ## Tools
+
+#### HR
+  1. [Remoteteam.com](https://www.remoteteam.com) - 自动化的工资单，休假，人力资源工具和远程公司的合规性.
+  
 #### Communication
   1. [Appear.in](https://appear.in) - 基于浏览器，无插件的群组视频通话.
   1. [Bluejeans](https://bluejeans.com/) 视频会议应用程序，非常适合大型团体和直播

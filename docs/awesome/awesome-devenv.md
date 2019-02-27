@@ -28,6 +28,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 ## Admins
 *管理数据库，权限等的工具*
 
+* [hss](https://github.com/snwfdhmp/hss) - 再也不要输入烦人的ssh命令.
 * [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - 用于mongo的原生OSx客户端
 * [Robomongo](http://robomongo.org/) -  MongoDB的跨平台管理员
 
@@ -171,6 +172,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - 可用的zsh插件列表 [zgen](https://github.com/tarjoilija/zgen) 和别 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) 兼容的zsh框架
 * [fish-shell](https://github.com/fish-shell/fish-shell) - 用户友好的命令行shell
+* [hss](https://github.com/snwfdhmp/hss) - 再也不要输入烦人的ssh命令.
 * [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - 受到oh-my-zsh启发的鱼壳配置管理框架.
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - 用于管理zsh配置的社区驱动框架.
 * [zgen](https://github.com/tarjoilija/zgen) - 更快的框架，用于管理zsh配置，向后兼容oh-my-zsh插件
@@ -196,6 +198,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 到`/ home / Users / yourself / projects`.
 * [fasd](https://github.com/clvv/fasd) 命令行生产力助推器，提供对文件和目录的快速访问.
 * [homebrew](http://brew.sh) - 使用单个命令在“OS X”系统上轻松安装开源软件包.
+* [hss](https://github.com/snwfdhmp/hss) - 再也不要输入烦人的ssh命令.
 * [httpie](http://httpie.org/) 命令行HTTP客户端，用户友好的cURL替换.
 * [iTerm2](http://www.iterm2.com/) - 一个伟大的终端替换`/ OSX /`
 * [jq](https://stedolan.github.io/jq/) - 轻量级且灵活的命令行JSON处理器

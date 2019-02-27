@@ -78,7 +78,7 @@
 
 ## C/C++
 
-* [CBMC](http://www.cprover.org/cbmc/) - 用于C程序的有界模型检查器，用户定义的断言，标准断言，若干覆盖度量分析
+* [CBMC](http://www.cprover.org/cbmc/) - bounded model-checker for C programs, user-defined assertions, standard assertions, several coverage metric analyses
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - 铿锵静态分析
 * [CMetrics](https://github.com/MetricsGrimoire/CMetrics) - 测量C文件的大小和复杂性
 * [Codecheker](https://github.com/Ericsson/codechecker) - 使用Web GUI对C / C ++代码进行静态分析
@@ -215,6 +215,7 @@
 * [Error-prone](https://github.com/google/error-prone) - 将常见的Java错误作为编译时错误捕获
 * [fb-contrib](https://github.com/mebigfatguy/fb-contrib) -  FindBugs的插件，带有额外的bug探测器
 * [Find Security Bugs](https://find-sec-bugs.github.io/) - 用于Java Web应用程序安全审核的IDE / SonarQube插件.
+* [google-java-format](https://github.com/google/google-java-format) -  Google Style Reformat
 * [Hopper](https://github.com/cuplv/hopper) - 用scala编写的静态分析工具，用于在JVM上运行的语言
 * [HuntBugs](https://github.com/amaembo/huntbugs) - 基于Procyon Compiler Tools的字节码静态分析器工具旨在取代FindBugs.
 * [JArchitect](https://www.jarchitect.com) ：copyright： - 测量，查询和可视化您的代码，避免意外问题，技术债务和复杂性.
@@ -286,7 +287,7 @@
 * [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) - 用于PHP的静态代码分析器.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 重构帮助者
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - 根据语义版本控制建议下一个版本
-* [PHP-Parser](https://github.com/nikic/PHP-Parser) - 用PHP编写的PHP解析器
+* [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [PHP-Token-Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) - 模拟PHP内部反射的库
 * [php7cc](https://github.com/sstalle/php7cc) -  PHP 7兼容性检查器
 * [php7mar](https://github.com/Alexia/php7mar) - 帮助开发人员快速将代码移植到PHP 7
@@ -327,14 +328,14 @@
 * [py-find-injection](https://github.com/uber/py-find-injection) - 在Python代码中查找SQL注入漏洞
 * [pycodestyle](https://github.com/PyCQA/pycodestyle) - （以前称为“pep8”）根据PEP 8中的一些样式约定检查Python代码
 * [pydocstyle](https://github.com/PyCQA/pydocstyle) - 检查是否符合Python文档字符串约定
-* [pyflakes](https://github.com/pyflakes/pyflakes/) - check Python source files for errors
+* [pyflakes](https://github.com/pyflakes/pyflakes/) - 检查Python源文件是否有错误
 * [pylint](https://github.com/PyCQA/pylint)   - 查找编程错误，帮助强制执行编码标准并嗅探某些代码异味.  它还包括`pyreverse`（一个UML图生成器）和`symilar`（一个相似性检查器）.
 * [pyre-check](https://github.com/facebook/pyre-check) - 适用于大型Python代码库的快速，可扩展的类型检查器
 * [pyroma](https://github.com/regebro/pyroma) - 评估Python项目符合Python打包生态系统最佳实践的程度，并列出可以改进的问题
 * [PyT - Python Taint](https://github.com/python-security/pyt) - 用于检测Python Web应用程序中的安全漏洞的静态分析工具.
 * [radon](https://github.com/rubik/radon) - 一个Python工具，用于计算源代码中的各种指标
 * [vulture](https://github.com/jendrikseipp/vulture) - 在Python代码中查找未使用的类，函数和变量
-* [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon`](https://github.com/rubik/radon)
+* [xenon](https://github.com/rubik/xenon) - 使用监控代码复杂性 [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
 
@@ -550,11 +551,12 @@
 
 ## Makefiles
 
-* [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) -  FreeBSD和DragonFlyBSD端口目录的验证程序
+* [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) -  FreeBSD和DragonFlyBSD端口目录的验证程序.
 
 ## Markdown
 
-* [mdl](https://github.com/mivok/markdownlint) - 检查降价文件和标志样式问题的工具.
+* [markdownlint](https://github.com/DavidAnson/markdownlint) - 用于Markdown / CommonMark文件的基于Node.js的样式检查器和lint工具.
+* [mdl](https://github.com/mivok/markdownlint) - 检查Markdown文件和标记样式问题的工具.
 
 ## Mobile
 

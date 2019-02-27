@@ -137,6 +137,7 @@
 - [Atom](https://atom.io/packages/lang-gdscript) - 语法高亮显示.
 - [Geany](https://github.com/haimat/GDScript-Geany) - 语法高亮显示.
 - [Gedit](https://github.com/haimat/GDScript-gedit) - 语法高亮显示.
+- [Kakoune](https://github.com/Skytrias/gdscript-kak) - 语法高亮显示.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - 语法高亮显示.
 - [Vim](https://github.com/calviken/vim-gdscript3)   - 语法高亮，自动完成和linting.  还支持Godot着色器语言.
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - 具有丰富的功能，使您的编程体验尽可能舒适.

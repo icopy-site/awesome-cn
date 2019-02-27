@@ -34,8 +34,9 @@
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - 加速页面加载的技术概述.
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - 有关创建可访问移动UI的建议列表.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - 交互媒体功能概述.
-- [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - 一篇关于网站功耗的有趣论文.
+- [Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/TR/WCAG21/) - 广泛的建议，使Web内容更容易访问.
 - [Web Fundamentals](https://developers.google.com/web/fundamentals/) -  Google关于创建良好移动网络体验的指南.
+- [Who Killed My Battery](https://mobisocial.stanford.edu/papers/boneh-www2012.pdf) - 一篇关于网站功耗的有趣论文.
 
 
 ## Books

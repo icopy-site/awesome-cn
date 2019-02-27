@@ -14,6 +14,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Introduction to Terraform](https://www.terraform.io/intro/)
 * [Terraform Documentation](https://www.terraform.io/docs/)
 * [Hashicorp Terraform Blog](https://www.hashicorp.com/blog/category/terraform)
+* [Terraform learn](https://learn.hashicorp.com/terraform/)
 
 ## Community
 
@@ -33,22 +34,44 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Tutorials and Blog Posts
 
+### Beginner Guides
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - 来自“Terraform：Up＆Running”作者的系列博客文章，引导读者从Terraform开始到在现实世界中使用它.
 * [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/blog/2016/02/10/bootstrapping-docker-with-terraform.html) - 使用Terraform在ECS上部署dockerized应用程序的演练.
+* [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 配置EC2实例.
+
+### Writing Custom Providers
+
+* [Creating custom terraform providers](https://medium.com/@jozmo/creating-custom-terraform-providers-341311823fa2) - 创建自定义提供程序的指南.
+* [Writing Custom Providers](https://www.terraform.io/docs/extend/writing-custom-providers.html) - 创建自定义提供程序的官方文档.
+* [Writing a Terraform provider](http://blog.jfabre.net/2017/01/22/writing-terraform-provider/) - 创建自定义提供程序的指南.
+
+### How-To
+
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/blog/terraform-discourse.html) - 显示Terraform如何在一个命令中在DigitalOcean上创建正在运行的Discourse实例.
 * [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - 说明如何将Terraform整合到微服务部署管道中.
-* [Getting Started with Kitchen-Terraform](https://newcontext-oss.github.io/kitchen-terraform/getting_started.html)
-* [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - 说明如何使用远程状态在Terraform配置之间共享数据.
+* [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) -  1Password如何从CloudFormation迁移到Terraform.
+* [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用OpenStack Terraform提供程序部署Web服务器是多么容易.
+* [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保基础架构的零停机时间.
+
+### Multi-Environment Configuration
+
 * [Terraform Design Patterns: the Terrafile](http://bensnape.com/2016/01/14/terraform-design-patterns-the-terrafile/) - 使用Terrafile在Terraform项目中管理Terraform模块及其版本
 * [Terraform, VPC, and why you want a tfstate file per env](https://charity.wtf/2016/03/30/terraform-vpc-and-why-you-want-a-tfstate-file-per-env/) - 在具有多种环境的大型项目中使用Terraform的一些问题以及如何避免它们.
-* [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - 使用Terraform提供示例AWS架构的演示说明.
-* [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) -  1Password如何从CloudFormation迁移到Terraform.
+* [Using Pipelines to Manage Environments with Infrastructure as Code](https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5) - 解释构建管道的不同方法，以处理从一个环境到下一个环境的基础设施变化.
+
+### Azure
+
+* [Learning HashiCorp Terraform](https://www.g10s.io/hashicorp-terraform/) -  Azure指南.
+* [New Terraform Azure Automation Resources](https://bgelens.nl/terraform-automation-resources/) -  Azure自动化.
+* [Terraforming Azure PaaS](https://devkimchi.com/2019/01/21/terraforming-azure-paas/) - 在Azure上部署PaaS资源.
+
+### Miscellaneous
+
+* [Sharing data between Terraform configurations](https://jamesmckay.net/2016/09/sharing-data-between-terraform-configurations/) - 说明如何使用远程状态在Terraform配置之间共享数据.
 * [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - 显示由Terraform提供支持的基础设施的幕后故障 [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) 在 [Segment](https://segment.com/).
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
-* [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用OpenStack Terraform提供程序部署Web服务器是多么容易.
 * [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - 在野外使用Terraform的一些来之不易的经验，以及一些操作智慧.
-* [Using Pipelines to Manage Environments with Infrastructure as Code](https://medium.com/@kief/https-medium-com-kief-using-pipelines-to-manage-environments-with-infrastructure-as-code-b37285a1cbf5) - 解释构建管道的不同方法，以处理从一个环境到下一个环境的基础设施变化.
-* [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 初学者教程，重点是使用Terraform配置EC2实例.
+* [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - 使用Terraform提供示例AWS架构的演示说明.
 
 ## Community Modules
 
@@ -77,21 +100,28 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - 使用Terraform查找Ubuntu AMI的简便方法.
 * [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - 在AWS上创建VPC资源.
 * [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - 仅在AWS中提供VPC（无子网）.
+* [terraform-azurerm-aks](https://github.com/kjanshair/terraform-azurerm-aks) - 在Azure上创建AKS resoutces.
+* [terraform-azurerm-redis](https://github.com/rahulkhengare/terraform-azurerm-redis) - 在Azure上创建Redis.
+* [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - 在Azure上创建MySql数据库.
+* [terraform-azurerm-sqlserver](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - 在Azure上创建SQl服务器数据库.
+* [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - 在Azure VM实例上安装IIS服务器.
 
 ## Private Module Registries
 
 * [anthology](https://github.com/erikvanbrakel/anthology) - 私人Terraform注册管理机构实施，作为官方注册机构的替代方案.
 * [citizen](https://github.com/outsideris/citizen) - 私人Terraform模块注册表
-* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) -  Terraform注册管理机构协议的简单实现.
+* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - 简单实现Terraform注册管理机构协议.
 
 ## Providers
 
-* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud的Terraform插件
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) -  Azure云的Terraform提供商.
+* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud的Terraform插件.
+* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -  Terraform提供商管理healthchecks.io资源.
+* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Terraform提供商管理您的设置 [Keycloak](https://www.keycloak.org/) identity provider server.
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - 用于linode的Terraform插件
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -  Terraform提供商管理pingdom资源.
+* [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - 适用于AWS，Azure，GCP的Devops自动化平台.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) -  Terraform提供商管理uptimerobot资源.
-* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -  Terraform提供商管理healthchecks.io资源.
-
 
 ## Testing
 
@@ -147,7 +177,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) - 在一些有趣的用例的帮助下，OpenCredo的CTO提供了在现实世界中使用Terraform的广泛视角.
 * [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ)
 * [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - 大规模运行Terraform，拥有数百个AWS账户.
-* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - Integrating Terraform with an on-premise bare metal provisioning.
+* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - 将Terraform与内部裸机配置集成.
 * [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg) -  Terraform提供商如何工作以及如何编写.
 * [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) - 如何以最小的风险仔细地重构Terraform代码.
 * [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs) -  Segment如何使用Terraform.
@@ -155,6 +185,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - 重点关注开发模式以及如何有效地构建Terraform代码.
 * [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - 使用Terraform配置混合云基础架构.
 * [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)   -  Yevgeniy Brikman谈论如何编写Terraform代码，使其可重用，可组合和可测试.  演讲重点介绍Terraform模块，同时也简要明了地解释了Terraform要解决的问题以及Terraform基础知识的简短演示（约39分钟，2017年10月）
+* [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用Terraform代码创建Google Compute Instance的示例.
+* [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - 使用Kitchen-Terraform测试创建Google Compute的Terraform代码的示例.
+* [Setup Continuous Integration for a Terraform module](https://www.youtube.com/watch?v=vuJ6bjYKUcA) - 使用CI和Kitchen-Terraform测试，标记和发布创建Google Compute Instance的Terraform模块的示例.
+* [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 了解如何通过本演练为Terraform提供商做出贡献或创建自己的提供商.
+* [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) - 在这次演讲中，Paul将介绍一个terraform提供者的创建.
+* [Using Terraform for blue-green deployments on Triton](https://www.joyent.com/blog/video-blue-green-deploys-terraform) - 使用蓝绿色和Terraform的演示视频.
+
 
 ## Editor Plugins
 

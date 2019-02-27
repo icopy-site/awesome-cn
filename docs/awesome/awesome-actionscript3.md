@@ -5,7 +5,7 @@
 
 &gt; ActionScript 3和Adobe AIR的精选库和组件的精选列表.
 
-[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) 提供一组API来构建跨平台的桌面/移动应用程序和游戏. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript)  是AIR的编程语言.  默认情况下包含强大的本机功能，如文件系统，SQLite，传感器.  要添加缺少的功能，您可以构建以本机语言编码的ANE（Air Native Extensions）（例如，用于Windows的VC ++，用于Android的Java，用于iOS的Swift / Objective-C）.  要使用GPU渲染图形构建移动应用/游戏，请使用 [Starling](https://gamua.com/starling/) 框架和可选 [Feathers UI](https://feathersui.com/) .  Adobe AIR在移动游戏领域非常受欢迎.
+[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) 提供一组API来构建跨平台的桌面/移动应用程序和游戏. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript)  是AIR的编程语言.  默认情况下包含强大的本机功能，如文件系统，SQLite，传感器.  要添加缺少的功能，您可以构建以本机语言编码的ANE（Air Native Extensions）（例如，用于Windows的VC ++，用于Android的Java，用于iOS的Swift / Objective-C）.  要使用GPU渲染图形构建移动应用/游戏，请使用 [Starling](https://gamua.com/starling/) 框架和可选 [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
 
  欢迎捐款.  要添加有用的项目，只需创建一个 [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
@@ -19,7 +19,8 @@
 * [FlashDevelop](http://flashdevelop.org/) - 用于AS3和AIR的Premiere免费和开源IDE，具有代码完成，调试等功能.
 * [Adobe Flash Builder](https://www.adobe.com/products/flash-builder.html) - 用于在Flex框架上构建应用程序的商业IDE（使用高级调试工具）.
 * [Moonshine IDE](http://moonshine-ide.com/) -  Moonshine是一个免费的开源中量级IDE，使用ActionScript 3构建，适用于ActionScript 3，ApacheFlex®，ApacheFlexJS®和Feathers开发，支持云和桌面.
-* [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - 商业IDE，支持许多不同的语言，包括AS3
+* [IntelliJ IDEA](https://www.jetbrains.com/help/idea/building-actionscript-and-flex-applications.html) - 商业IDE，支持许多不同的语言，包括AS3.
+* [Visual Studio Code](https://as3mxml.com/)   -  Visual Studio Code的AS3和MXML语言扩展.  在Windows，macOS和Linux上运行.
 
 #### Live Debuggers
 * [Adobe Scout](https://www.adobe.com/products/scout.html) -  AIR应用程序和游戏的高级可视化分析和调试工具（支持Stage3D）.
@@ -63,7 +64,7 @@
 * [Starling](https://gamua.com/starling/)   - 基于Stage3D构建的高性能2D图形引擎.  API与Flash API相同.  （[github](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) -  Starling Framework的用户界面组件（[github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - 使用布局，效果，数据绑定和远程处理框架代替Flex.
-* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - 布局，焦点和键盘管理框架（[site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
+* [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - 布局，焦点和键盘管理框架.
 * [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - 为Web应用程序项目开发的用户界面库，以AS3和MVC模式编写.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - 用于构面浏览的流畅且强大的界面.
@@ -91,7 +92,7 @@
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl)   - 用于Neko，HTML5和本地CPP的Away3D.  （[examples](https://github.com/away3d/away3d-examples-openfl)).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) -  Away Physics  -  Away3D FP 11的3D物理库（[examples](https://github.com/away3d/awayphysics-examples-fp11)).
 * [Alternativa3D](https://github.com/AlternativaPlatform/Alternativa3D) -  Alternativa3D GPU加速3D引擎（[examples](https://github.com/AlternativaPlatform/Alternativa3DExamples)).
-* [Flare3D](http://flare3d.com/) - Commercial 3D platform with high-performance engine and Level-editor IDE.
+* [Flare3D](http://flare3d.com/) - 具有高性能引擎和Level-editor IDE的商业3D平台.
 * [Zen3D](https://github.com/hgupta9/Zen3D) - 适用于Adobe Flash和AIR（基于GPU）的高性能3D引擎.
 
 #### Animation
@@ -130,13 +131,13 @@
 #### UI Components
 
 * [MinimalComps](https://github.com/minimalcomps/minimalcomps) - 适用于Flash的最小ActionScript 3.0 UI组件.
-* [Extended-MinimalComps](https://github.com/turbosqel/Extended-MinimalComps) - 升级了数据绑定，相对大小调整，ASML构建器等.
 * [MadComponents](https://github.com/danfreeman/MadComponents) - 适用于AS3 / AIR的流行移动UI框架.
 * [AsWing](https://github.com/dreamsxin/AsWing) - 开源Flash ActionScript GUI框架.
 * [GPUI](https://github.com/inspirit/GPUI) - 基于Stage3D（GPU）的微小GUI库.
 * [Falcon](https://github.com/HendrixString/Falcon) - 针对Feathers的响应/灵活移动ui控件.
 * [Flex-maps](https://github.com/igorcosta/flex-maps) -  Apache Flex中地图的最终解决方案.
 * [FlexBook](https://github.com/blvz/FlexBook) -  Flex的Awesome Page Flip组件.
+* [Flex-Android-Material-Skins](https://github.com/quick6black/flex-Android-Material-Skins) - 适用于Flex Mobile组件的Android Material Design外观.
 
 #### Starling Components
 
@@ -161,7 +162,6 @@
 
 #### Multi Touch
 
-* [AS3TouchLib](https://github.com/turbosqel/AS3TouchLib) - 触摸库，用于从其他设备读取CCV TCP / FlashXML数据，TUIO UDP / TCP或TouchEvent.
 * [TUIO Client](https://github.com/lagerkoller/tuio-as3) - 多点触控硬件的通用框架，支持TUIO / FLC和TUIO / TCP（[web](http://www.tuio.org/?flash)).
 * [Gestouch](https://github.com/fljot/Gestouch) - 多点触控手势识别库，用于构建更好的自然用户界面.
 * [Gestures.IO](https://github.com/GesturesIO/gesturesio-as3) - 简化您创建基于手势的自然交互的方式.
@@ -187,7 +187,6 @@
 
 #### Data Visualization
 
-* [Degrafa](https://github.com/lancejpollard/degrafa) -  Flex的强大声明性图形框架.
 * [Axiis](https://github.com/hgupta9/AxiisCharts) - 数据可视化框架，包括直线，条形，楔形，柱形，聚类，面积，史密斯和树形图.
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - 折线图，面积图，条形图，饼图，散点图.
 * [Flare](https://github.com/prefuse/Flare) - 图表和图形，支持数据管理，可视编码，动画和交互技术.
@@ -201,7 +200,7 @@
 #### Camera
 
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - 相机检测.
-* [Fluocam](https://github.com/Fluocode/Fluocam) - 用于Starling应用程序的虚拟摄像头.
+* [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications.
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - 来自网络摄像头的无铬视频/音频/静态图像录制.
 * [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - 在Windows / Android / iOS / OSX上录制AIR应用程序的视频.
 
@@ -307,7 +306,7 @@
 #### Archives
 
 * [FZip](https://github.com/claus/fzip) - 用于加载，修改和创建标准ZIP存档的成熟库.
-* [ASZip](https://code.google.com/archive/p/aszip/)   - 从AS3生成ZIP存档.  （[post](http://www.bytearray.org/?p=105)).
+* [ASZip](https://code.google.com/archive/p/aszip/) - 从AS3生成ZIP存档.
 * [Untar-Worker](https://github.com/mesmotronic/as3-worker-untar) - 使用AS3 Workers（后台线程）进行TAR提取.
 
 #### 3D Formats
@@ -377,7 +376,7 @@
 
 #### PDF
 
-* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - 客户端PDF生成（[docs](http://alivepdf.bytearray.org/), [github](https://github.com/riadvice/alivepdf)).
+* [AlivePDF](https://code.google.com/archive/p/alivepdf/) - 客户端PDF生成（[github](https://github.com/riadvice/alivepdf)).
 * [PurePDF](https://github.com/sephiroth74/purePDF) - 完整的PDF库，Java iText的端口.
 * [HalcyonPDF](https://github.com/systemed/halcyon_pdf) -  OpenStreetMap PDF渲染器.
 * [PDFCase](https://github.com/dickclaus/pdfcase) -  PDF库.
@@ -451,7 +450,6 @@
 
 * [P2Plocal](https://github.com/palkan/as3_p2plocal) - 本地RTMFP连接.
 * [Android-Flash-P2P](https://github.com/beautifycode/Android-Flash-P2P) -  Client.swf与具有AIR的Android设备之间的P2P通信.
-* [GogduNet](https://github.com/Siyania/GogduNet) - 用于TCP和UDP和P2P的通信库.
 * [NetGrouper](https://github.com/walpolea/NetGrouper) - 用于NetGroup和RTMFP多播功能的包装器，可通过本地网络或Adobe Cirrus创建快速P2P多人游戏.
 * [HydraP2P](https://github.com/devboy/HydraP2P) - 简化Flash Player 10.1中引入的对等API.
 * [GroupP2P](https://github.com/oohazard/GroupP2P) - 基于P2P的网络组.
@@ -468,7 +466,7 @@
 * [AMFsocket](https://github.com/chadrem/amf_socket) - 用于高性能网络通信的双向RPC库.
 * [Sockpuppet](https://github.com/rjungemann/sockpuppet) - 使用AMF完成Ruby / ActionScript套接字客户端/服务器.
 * [Socket.io-flash](https://github.com/sinnus/socket.io-flash) - 与Socket.IO v.0.8 +服务器的通信.
-* [ws-flash-client](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (uses Adobe Flash where native WebSocket is not available).
+* [ws-flash-client](https://github.com/youurayy/ws-flash-client) - 可靠的简约WebSocket客户端（使用本地WebSocket不可用的Adobe Flash）.
 
 #### Protocols
 
@@ -504,7 +502,6 @@
 
 * [EasyAS-Worker](https://github.com/myflashlab/easyAS-Worker) -  AIR Workers的简化包装器.
 * [Worker-from-class](https://github.com/bortsen/worker-from-class) - 从类定义创建Worker.
-* [AS3Futures](https://github.com/brianheylin/AS3Futures) - 简化了一系列异步函数调用.
 
 #### Crypto
 
@@ -517,10 +514,10 @@
 * [XXTEA-AS3](https://github.com/xxtea/xxtea-as3) - 用于ActionScript 3的XXTEA加密算法库.
 * [Gibberish-AES](https://github.com/NordMike/gibberish-aes-as3) - 完全符合OpenSSL标准的ActionScript 3库，用于AES加密.
 
-#### Data
+#### Data	
 
-* [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) - Sophisticated and high-performance collections & iterators for AS3 ([website](http://sibirjak.com/osflash/projects/as3commons-collections/)).
-
+ * [AS3Commons Collections](https://github.com/AS3Commons/as3commons-collections) -  AS3的复杂和高性能集合和迭代器.
+ 
 #### Geometry
 
 * [AS3geometry](https://github.com/alecmce/as3geometry) - 基元，多边形，交叉点等
@@ -562,7 +559,7 @@
 * [JS](https://github.com/theturtle32/RhinoAS3) -  RhinoJS，Mozilla的Rhino JavaScript口译员.
 * [Simple JS](https://github.com/sixsided/Simplified-JavaScript-Interpreter) - 基于AS3的Javascript解释器.
 * [MIL](https://github.com/ser1zw/MIL) - 使用ActionScript编写的MIL语言VM和解释器.
-* [TALES](https://github.com/oaubert/tales4as) -  ActionScript的TALES解释器.
+* [TALES](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
 * [Scheme](https://github.com/hrundik/fScheme) -  ActionScript中的Scheme解释器.
 * [Lisp](https://github.com/rzubek/as_lisp) - 用ActionScript编写的Lisp方言，带有编译器和字节码解释器.
 * [Lisp Compiler](https://github.com/aemoncannon/las3r) -  AVM2的lisp编译器.

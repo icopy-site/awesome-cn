@@ -31,6 +31,7 @@ Rust代码和资源的精选列表.
 
 ### Cryptocurrencies
 
+* [Bitcoin Satoshi's Vision](https://github.com/brentongunning/rust-sv) - 用于处理比特币SV的Rust库.
 * [nearprotocol/nearcore](https://github.com/nearprotocol/nearcore) - 针对低端移动设备的分散式智能合约平台.
 * [Grin](https://github.com/mimblewimble/grin/) -  MimbleWimble协议的演变
 * [Substrate](https://github.com/paritytech/substrate) - 用Rust编写的通用模块化区块链模板
@@ -134,7 +135,7 @@ Rust代码和资源的精选列表.
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) -  A Have I Pwned（HIBP）命令行实用工具，可让您轻松检查受损帐户和密码.
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) - 使用灵活模式远程连接Amazon S3文件的命令行工具.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) - 用于收集有关Amazon S3存储桶的元数据的命令行工具.
-* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，可以帮助您管理您的工作站，让您远离屏幕，当您不在OPENCV的其他地方时锁定您的屏幕！
+* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，通过将您与屏幕隔开来帮助您管理工作站，当您不在OPENCV的其他地方时锁定屏幕！
 
 ### Video
 
@@ -542,13 +543,15 @@ Rust代码和资源的精选列表.
 [[database](https://crates.io/keywords/database)]
 
 * NoSQL [[nosql](https://crates.io/keywords/nosql)]
-  * [ArangoDB](https://argangodb.com/)
+
+  * [ArangoDB](https://www.arangodb.com)
      * [Rincon](https://github.com/innoave/rincon) -  Rust的ArangoDB（NoSQL和Graph商店）驱动程序
   * [Cassandra](http://cassandra.apache.org) [[cassandra](https://crates.io/keywords/cassandra), [cql](https://crates.io/keywords/cql)]
     * [AlexPikalov/cdrs](https://raw.githubusercontent.com/AlexPikalov/cdrs) [[cdrs](https://crates.io/crates/cdrs)]  - 用Rust编写的本机客户端 [<img src="https://api.travis-ci.org/AlexPikalov/cdrs.svg?branch=master">](https://travis-ci.org/AlexPikalov/cdrs)
     * [Metaswitch/cassandra-rs](https://raw.githubusercontent.com/Metaswitch/cassandra-rs) - 绑定到DataStax C / C ++客户端 [<img src="https://api.travis-ci.org/Metaswitch/cassandra-rs.svg?branch=master">](https://travis-ci.org/Metaswitch/cassandra-rs)
   * CouchDB [[couchdb](https://crates.io/keywords/couchdb)]
     * [chill-rs/chill](https://raw.githubusercontent.com/chill-rs/chill) [[couchdb](https://crates.io/crates/chill)]  -  CouchDB REST API的Rust客户端 [<img src="https://api.travis-ci.org/chill-rs/chill.svg?branch=master">](https://travis-ci.org/chill-rs/chill)
+    * [Sofa](https://github.com/YellowInnovation/sofa) -  CouchDB HTTP REST API的接口，用于稳定生锈
   * Elasticsearch [[elasticsearch](https://crates.io/keywords/elasticsearch)]
     * [benashford/rs-es](https://raw.githubusercontent.com/benashford/rs-es) [[rs-es](https://crates.io/crates/rs-es)]  - 一个Rust客户端 [Elastic](https://www.elastic.co/) REST API [<img src="https://api.travis-ci.org/benashford/rs-es.svg?branch=master">](https://travis-ci.org/benashford/rs-es)
     * [elastic-rs/elastic-reqwest](https://raw.githubusercontent.com/elastic-rs/elastic-reqwest) [[elastic_reqwest](https://crates.io/crates/elastic_reqwest)]  - 基于Reqwest的Elasticsearch API的轻量级实现 [<img src="https://api.travis-ci.org/elastic-rs/elastic-reqwest.svg">](https://travis-ci.org/elastic-rs/elastic-reqwest)
@@ -661,7 +664,7 @@ Rust代码和资源的精选列表.
 *有
   * [mandrean/har-rs](https://github.com/mandrean/har-rs) -  HTTP存档格式（HAR）序列化和反序列化库 [![Build Status](https://api.travis-ci.org/mandrean/har-rs.svg?branch=master)](https://travis-ci.org/mandrean/har-rs)
 * HTML
-  * [servo/html5ever](https://raw.githubusercontent.com/servo/html5ever) — High-performance browser-grade HTML5 parser [<img src="https://api.travis-ci.org/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
+  * [servo/html5ever](https://raw.githubusercontent.com/servo/html5ever) - 高性能的浏览器级HTML5解析器 [<img src="https://api.travis-ci.org/servo/html5ever.svg?branch=master">](https://travis-ci.org/servo/html5ever)
   * [veddan/rust-htmlescape](https://raw.githubusercontent.com/veddan/rust-htmlescape) - 编码/解码HTML实体 [<img src="https://api.travis-ci.org/veddan/rust-htmlescape.svg?branch=master">](https://travis-ci.org/veddan/rust-htmlescape)
 * JSON
   * [pikkr/pikkr](https://github.com/pikkr/pikkr) [[pikkr](https://crates.io/crates/pikkr)]  -  JSON解析器直接获取值而不在Rust中执行标记化
@@ -824,7 +827,7 @@ Rust代码和资源的精选列表.
 
 *可爱
   * [mattgathu/cute](https://github.com/mattgathu/cute) -  Rust中Python-esque列表推导的宏. [![Build Status](https://api.travis-ci.org/mattgathu/cute.svg?branch=master)](https://travis-ci.org/tensorflow/rust)
-*哈多
+* HADO
   * [ludat/hado-rs](https://github.com/ludat/hado-rs) - 写一个类似haskell的表达式，没有太多的仪式
 
 ### Markup language

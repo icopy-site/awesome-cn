@@ -1,10 +1,13 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
 ## Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+[<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/jmeter-logo.svg?sanitize=true" align="right" width="260">](http://jmeter.apache.org/)
+
 精选的资源集合 [Apache JMeter](http://jmeter.apache.org/) 和相关的资源和闪亮的东西：插件，集成，测试技术，ci，devops等.
 
 The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程序，旨在加载测试功能行为和测量性能.
 
-这个名单从此长大 [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) 和个人jmeter相关的链接收集和进一步的灵感来自 [awesome](https://github.com/sindresorhus/awesome) 项目.
+这个名单从此长大 [my answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和个人jmeter相关的链接收集和进一步的灵感来自 [awesome](https://github.com/sindresorhus/awesome) 项目.
 
 
 - [Books](#books)    
@@ -244,7 +247,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ### Q&A
 
 - [JMeter @ Stack Overflow](http://stackoverflow.com/questions/tagged/jmeter)
-- [Russian-language chat of JMeter enthusiasts](http://is.gd/jmeterchat)
+- [Skype chat of JMeter enthusiasts](http://is.gd/jmeterchat) *（俄语）*
 -  JMeter @ grid： [![Have questions\issues\problems, join the chat at https://gitter.im/aliesbelik/jmeter-chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aliesbelik/jmeter-chat)
 - [JMeter Slack workspace](http://jmeterusers.slack.com/)
 
@@ -252,7 +255,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ## Contributing
 
 欢迎捐款！
-请看看 [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/CONTRIBUTING.md) 第一.
+请看看 [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) 第一.
 
 ## License
 

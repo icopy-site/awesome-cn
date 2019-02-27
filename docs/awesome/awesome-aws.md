@@ -531,7 +531,7 @@ AWS Repos：
 社区回购：
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - 用于部署容器化应用程序修订版的命令行工具.
-* [Stelligent/mu :fire::fire:](https://github.com/stelligent/mu) - 命令行工具，通过CodeBuild和CodePipeline简化ECS部署.
+* [Stelligent/mu :fire::fire::fire:](https://github.com/stelligent/mu) - 命令行工具，通过CodeBuild和CodePipeline简化ECS部署.
 
 ### Elastic File System
 

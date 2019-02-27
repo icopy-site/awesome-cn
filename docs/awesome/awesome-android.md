@@ -40,7 +40,7 @@
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - 图表和图形库，支持缩放，滚动和动画.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 支持按手势缩放和拖动的Android图表和图形库.
 - [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - 绘制创意统计弧图.
-- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - 数据可视化库，交互式图表.
+- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
 
 ### Cloud Services
 
@@ -95,7 +95,7 @@
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于Android项目的灵活，易用，一体化应用程序介绍库.
 - [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与API 8+兼容的Material Design Calendar
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
-- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
+- [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠listview项目的内容时提供了一个奇特的动画.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - 图标和颜色的祝酒词.
@@ -216,7 +216,6 @@
 - [node-android](https://github.com/InstantWebP2P/node-android) - 在Android上运行Node.js.
 - [HappyDns](https://github.com/qiniu/happy-dns-android)   - 一个Dns库，用户可以使用自定义DNS服务器，dnspod httpdns.  仅支持A记录.
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于在Android Instrumentation测试中模拟API响应的HTTP Web服务器.
-- [Packetzoom](https://www.packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) - 用于优化HTTP请求的SDK和用于网络的免费分析服务.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 一个完整的快速Android网络库，也支持HTTP / 2.
 
 ### Logger
@@ -287,7 +286,7 @@
 - [Secure Preference Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager)   - 安卓Preference Manager for android.  它使用各种加密来保护应用程序的共享首选项.
 - [LeakCanary](https://github.com/square/leakcanary) - 发生内存泄漏.
 - [Drekkar](https://github.com/coshx/drekkar) - 用于WebView和JS的Android事件总线.
-- [Androl4b](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
+- [Androl4b](https://github.com/sh4hin/Androl4b) - 用于评估Android应用程序的虚拟机.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) -  Android库，可帮助您将MVP以及被动视图和演示模型模式合并到您的应用中.
 - [Gota](https://github.com/alhazmy13/Gota) - 简化Android权限.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) - 以超级简单的方式获取设备信息.
@@ -296,7 +295,7 @@
 - [Validator](https://github.com/anderscheow/Validator) - 一个实用程序类，用于验证TextInputLayout中的文本.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - 用于处理软键盘可见性更改事件的DSL.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - 用于Android的秒表库，可以轻松地在应用程序中启动，暂停，显示和维护多个秒表.
-- [Reactor](https://github.com/arshanaqdi/reactor) -  Reactor是一款快速安全的Android键值库.
+- [Reactor](https://github.com/naqqdi/reactor) -  Reactor是一款快速安全的Android键值库.
  
 ### Debugging Tools
 
@@ -368,17 +367,18 @@
 - [Typography](https://github.com/workarounds/typography) - 一个Android库，可以在视图中轻松使用自定义字体.
 - [Calligraphy](https://github.com/chrisjenx/Calligraphy) -  Android中的自定义字体是一种不错的方式.
 - [transai](https://github.com/Jintin/transai) - 命令行工具可帮助您管理本地化字符串文件.
-- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
+- [Android-Link-Preview](https://github.com/LeonardoCardoso/Android-Link-Preview) - 它从网址进行预览，抓取所有信息，如标题，相关文本和图像.
 - [Sensey](https://github.com/nisrulz/sensey) - 快速检测手势.
 - [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) - 自动暂停视频的自定义视频视图是用户不看设备屏幕！
 - [Flexbox Layout](https://github.com/google/flexbox-layout) -  FlexboxLayout是一个将CSS Flexible Box Layout Module的类似功能引入Android的库.
 - [Agile Boiler Plate](https://github.com/xresco/Android-Agile-Boiler-Plate) - 锅炉板基于MVP架构，它完全基于使用Dagger2的依赖注入设计模式.
 - [Gradle buildSrcVersions](https://github.com/jmfayard/buildSrcVersions) - 用于简化依赖关系管理的kotlin dsl
+- [Teller](https://github.com/levibostian/Teller-Android/)   -  Teller有助于下载，保存和读取应用程序的缓存数据.  保持用户的数据新鲜，并删除那些恼人的加载屏幕！
 
 ## Resources
 
 - [Programming Community Curated Resources for Learning Android Development](https://hackr.io/tutorials/learn-android-development) - 由编程社区提交并投票的Android教程和课程.
-- [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) -  Lars Vogel非常好的教程.
+- [Vogella Tutorials](https://www.vogella.com/tutorials/android.html) -  Lars Vogel非常好的教程.
 - [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) 谷歌Android设计团队的视频系列.
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - 它是Android Design in Action系列的技术对应物.
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 来自Googler Chet Hasae和其他人的一系列文章回答了最常见的问题：“在开发Android应用程序时要记住哪些重要规则？”.
@@ -387,7 +387,7 @@
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - 在真实设备图稿中包装应用程序截图.
-- [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
+- [Android UI design resources](https://androiduiux.com/free-design-resources/) - 通过UI / UX中的Google Developer Expert为您提供各种设计资源.
 - [Pencil Project](https://pencil.evolus.vn/) - 开源原型设计软件.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) -  Derek Banas的视频教程.
 - [android-blogs](https://github.com/vbauer/android-blogs) - 列出有关Android的博客.
@@ -402,7 +402,7 @@
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -  Android架构蓝图项目演示了帮助解决或避免常见安卓问题的策略.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  是Android开发人员播客，Donn Felker和Kaushik Gopal谈论如何构建优秀的软件并成为更好的Android开发人员.
+- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)  是Android开发人员的播客.  该展览由Android工程团队的开发人员主持，涵盖Android程序员感兴趣的主题，并与Google Android团队的工程师进行深入讨论和采访.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们与来自Android社区的人进行一口大小的对话.
 - [Android Intelligence](https://plus.google.com/collection/ATg6b) 与来自Android世界的有趣人士进行深入访谈.
@@ -444,7 +444,7 @@
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) -  Android上的Groovy简介.
 - [Groovy Language Support for Android](https://github.com/groovy/groovy-android-gradle-plugin) - 用于Android编译Groovy的Gradle插件.
-- [SwissKnife](https://github.com/Arasthel/SwissKnife) - 一个多用途Groovy库，包含使用注释的Android视图注入和线程.
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) - 由JetBrains在Kotlin编写的Android for Android.
@@ -457,7 +457,7 @@
 - [Koin](https://insert-koin.io/) -  Kotlin的轻量级依赖注入框架
 
 ### Flutter
-- [Flutter](https://flutter.io/) -  Google的移动应用SDK，可在极快的时间内为Android和iOS提供高质量的原生界面.
+- [Flutter](https://flutter.dev/) -  Google的移动应用SDK，可在极快的时间内为Android和iOS提供高质量的原生界面.
 
 ## Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 一系列令人敬畏的Android教程，视频和性能优化工具.

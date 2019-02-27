@@ -249,7 +249,6 @@
 - 蜜罐
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
     - [IMHoneypot](https://github.com/mushorg/imhoneypot)
-    - [Single-honeypot](https://sourceforge.net/projects/single-honeypot/)
 
 -  PDF文件检查员
     - [peepdf](https://github.com/jesparza/peepdf) - 功能强大的Python工具，用于分析PDF文档.

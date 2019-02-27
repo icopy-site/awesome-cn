@@ -239,7 +239,7 @@ the word using the `#RubyML` hash tag!
   -  _Ruby圆桌会议：Ruby_中的机器学习 [RubyThursday](https://rubythursday.com/)
     <sup>[[video](https://www.youtube.com/watch?v=ScIFARN0jCo)]</sup>
 - 2016
-  - 使用Ruby_的_Practical Machine Learning [Jordan Hudgens](https://twitter.com/jordanhudgens)
+  - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
   -  _Deep Learning：Ruby Developers的简介_ [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
@@ -274,6 +274,8 @@ the word using the `#RubyML` hash tag!
           [code](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   - 使用Ruby_ by的_Recommender系统 [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
+  - 使用Ruby检测面部：FFT in a Nutshell_ by [Marc Berszick]（）
+    <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
   - 使用Ruby学习_Machine，第一部分由 [Vasily Vasinov](https://twitter.com/vasinov)
     <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>

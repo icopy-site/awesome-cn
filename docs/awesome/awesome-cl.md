@@ -239,6 +239,8 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 * [cl-webkit](https://github.com/joachifm/cl-webkit)   - 与WebKitGTK +的绑定.  还为应用程序添加了Web浏览功能，充分利用了WebKit浏览引擎的强大功能.  [MIT] [200].
 * [ftw](https://github.com/fjames86/ftw)   -  Win32 GUI库.  [MIT] [200].
 * [cl-xul](https://github.com/mmontone/cl-xul)   -  Mozilla XUL绑定.  [外籍] [14].
+* [eql, eql5, eql5-android](https://gitlab.com/eql)   - 嵌入在ECL中的嵌入式Qt4和Qt5 Lisp嵌入在Qt中.  EQL5端口到Android平台.  [MIT] [200].
+
 
 Implementations
 ===============
@@ -569,7 +571,7 @@ Javascript
 
 *：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
-* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天起就设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
+* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
 * [Wuwei](https://github.com/mtravers/wuwei/)   - 用于构建基于Ajax的Web页面的工具包.  [MIT] [200].
 * [SmackJack](https://github.com/aarvid/SmackJack)   - 使用parenscript生成javascript和hunchentoot（现在）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端parenscript函数.  [MIT] [200].

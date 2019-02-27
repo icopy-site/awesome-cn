@@ -4,7 +4,11 @@
 	<br>
 	<br>
 	<p>
-		<a href="https://www.patreon.com/sindresorhus">我的开源工作得到了社区的支持</a>
+		<sup>我的开源工作得到了社区的支持</sup>
+		<br>
+		<a href="https://www.patreon.com/sindresorhus">
+			<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+		</a>
 	</p>
 	<br>
 	<br>
@@ -94,6 +98,7 @@
 	- [Functional Programming](awesome/awesome-fp-js.md)
 	- [Observables](awesome/awesome-observables.md)
 	- [npm scripts](awesome/awesome-npm-scripts.md) - 任务选手.
+	- [30 Seconds of Code](awesome/30-seconds-of-code.md) - 您可以在30秒内理解的代码段.
 - [Swift](awesome/awesome-swift.md)
 	- [Education](awesome/Awesome-Swift-Education.md)
 	- [Playgrounds](awesome/Awesome-Swift-Playgrounds.md)
@@ -141,6 +146,7 @@
 - [Eta](awesome/awesome-eta.md) -  JVM的函数编程语言.
 - [Idris](awesome/awesome-idris.md) - 具有受Haskell和ML影响的依赖类型的通用纯函数式编程语言.
 - [Ada/SPARK](awesome/awesome-ada.md) - 为大型，长期存在的应用程序设计的现代编程语言，其中可靠性和效率至关重要.
+- [Q#](awesome/awesome-qsharp.md) - 用于表达量子算法的特定于域的编程语言.
 
 
 ## Front-End Development
@@ -251,6 +257,7 @@
 - [Speech and Natural Language Processing](awesome/speech-language-processing.md)
 	- [Spanish](awesome/awesome-spanish-nlp.md)
 	- [NLP with Ruby](awesome/nlp-with-ruby.md)
+	- [Question Answering](awesome/awesome-qa.md) - 用机器以自然语言提问和回答的科学.
 - [Linguistics](awesome/awesome-linguistics.md)
 - [Cryptography](awesome/awesome-cryptography.md)
 	- [Papers](awesome/awesome-crypto-papers.md) - 非密码学家使用密码学的理论基础.
@@ -312,6 +319,7 @@
 ## Gaming
 
 - [Game Development](awesome/magictools.md)
+- [Game Networking](awesome/Awesome-Game-Networking.md) - 多人在线游戏的网络编程.
 - [Game Talks](awesome/awesome-gametalks.md)
 - [Godot](awesome/awesome-godot.md) - 游戏引擎.
 - [Open Source Games](awesome/games.md)
@@ -322,6 +330,7 @@
 - [Game Boy Development](awesome/awesome-gbdev.md)
 - [Construct 2](awesome/awesome-construct.md) - 游戏引擎.
 - [Gideros](awesome/awesome-gideros.md) - 游戏引擎.
+- [Minecraft](awesome/awesome-minecraft.md) - 沙盒视频游戏.
 
 
 ## Development Environment
@@ -369,6 +378,7 @@
 - [PostgreSQL](awesome/awesome-postgres.md) - 对象关系数据库.
 - [CouchDB](awesome/awesome-couchdb.md) - 面向文档的NoSQL数据库.
 - [HBase](awesome/awesome-hbase.md) - 分布式，可扩展的大数据存储.
+- [NoSQL Guides](awesome/awesome-nosql-guides.md) - 有关使用非关系型，分布式，开源和水平可伸缩数据库的帮助.
 
 
 ## Media
@@ -397,6 +407,7 @@
 - [Programming for Kids](awesome/awesome-programming-for-kids.md)
 - [Educational Games](awesome/awesome-eg.md) - 在比赛中学习.
 - [JavaScript Learning](awesome/awesome-javascript-learning.md)
+- [CSS Learning](awesome/awesome-css-learning.md) - 主要是关于CSS  - 语言和模块.
 
 
 ## Security
@@ -566,9 +577,10 @@
 - [FIRST Robotics Competition](awesome/awesome-frc.md) - 国际高中机器人锦标赛.
 - [Humane Technology](awesome/awesome-humane-tech.md) - 有助于改善社会的开源项目.
 - [Speakers](awesome/awesome-speakers.md) - 编程和设计界的会议和聚会发言人.
+- [Board Games](awesome/awesome-board-games.md) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](awesome/awesome-software-patreons.md) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
-- [Food](awesome/awesome-food.md) -  GitHub上与食品有关的项目.
+- [Parasite](awesome/awesome-parasite.md) - 寄生虫和宿主 - 病原体相互作用.
+- [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
 - [Mental Health](awesome/awesome-mental-health.md) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - 开始接受比特币.
 
