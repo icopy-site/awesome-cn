@@ -41,6 +41,7 @@
 - [Polish developers](http://slackin.devstyle.pl/)
 - [Spanish-speaking developer communities list](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
 - [Ruby Turkey Community](https://rubytr.herokuapp.com/)
+- [Rochester NY USA Developers (RocDev)](https://rocdev.org/)
 
 ## Design
 - [Sketch](http://teamsketch.io/)

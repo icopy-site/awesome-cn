@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="felipebueno/awesome-PICO-8"></div>
+<div class="github-widget" data-repo="pico-8/awesome-PICO-8"></div>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -125,7 +125,7 @@
 
  大！  ：笑脸：
 
-请阅读 [contribution guidelines](https://github.com/felipebueno/awesome-PICO-8/blob/master/CONTRIBUTING.md) 第一.
+请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 
@@ -133,4 +133,4 @@
 
 在法律允许的范围内， [Felipe Bueno](https://twitter.com/felipebueno) 已放弃对此作品的所有版权及相关或相邻权利.
 
-See [https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE](https://github.com/felipebueno/awesome-PICO-8/blob/master/LICENSE) 欲获得更多信息.
+See [https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE](https://github.com/pico-8/awesome-PICO-8/blob/master/LICENSE) 欲获得更多信息.

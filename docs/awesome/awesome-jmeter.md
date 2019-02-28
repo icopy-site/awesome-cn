@@ -1,13 +1,14 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
-## Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome JMeter 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/jmeter-logo.svg?sanitize=true" align="right" width="260">](http://jmeter.apache.org/)
 
-精选的资源集合 [Apache JMeter](http://jmeter.apache.org/) 和相关的资源和闪亮的东西：插件，集成，测试技术，ci，devops等.
+&gt;策划的资源集合 [Apache JMeter](http://jmeter.apache.org/) 和相关的资源和闪亮的东西：插件，集成，测试技术，devops实践等.
 
 The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程序，旨在加载测试功能行为和测量性能.
 
-这个名单从此长大 [my answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和个人jmeter相关的链接收集和进一步的灵感来自 [awesome](https://github.com/sindresorhus/awesome) 项目.
+这个名单从此长大 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和个人JMeter相关的链接收藏，得到了进一步的灵感 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
 
 - [Books](#books)    
@@ -42,7 +43,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ## Books
 
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.by/books/about/Apache_JMeter.html?id=nX8oKIEvUcYC) 作者：Emily H. Halili（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)） - 为您的网站自动化测试和性能测量的实用初学者指南.
-- [Performance Testing with JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)） - 使用Apache JMeter测试Web应用程序的指南，以及实用的动手实例.
+- [Performance Testing with JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)) - Guide to test web applications using Apache JMeter with practical, hands-on examples.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.by/books?id=BedDDwAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook)） -  70个富有洞察力和实用的配方，帮助成功使用Apache JMeter.
@@ -219,7 +220,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ### Blogs
 
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter) - 关于JMeter和性能测试的BlazeMeter博客.
-- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) - UBIK INGENIERIE blog.
+- [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -  UBIK INGENIERIE博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) - 关于测试自动化的技术博客.
 - [JMeter Tips](http://jmeter-tips.blogspot.com/) - 关于Apache JMeter的博客和Web应用程序的性能测试.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -  RedLine13博客中的JMeter文章.
@@ -255,9 +256,9 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 
 ## Contributing
 
-欢迎捐款！
+欢迎捐款！ <br />
 请看看 [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) 第一.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可协议授权</a> .

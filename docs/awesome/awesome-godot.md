@@ -13,7 +13,7 @@
 
 ### 2D
 
-- [Blipshift](https://github.com/wardsky/blipshift) - 简单的自上而下移动平台游戏.
+- [Blipshift](https://github.com/GaidamakUA/blipshift) - 简单的自上而下移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) - 一个简单的突破克隆.
 - [Bombs](https://github.com/randyyaj/Bombs)   - 简单的手机游戏.  你需要触摸炸弹来化解它们.
 - [Breakable](https://github.com/didier-v/breakable)   - 类似突破的游戏.  与Godot 3.0兼容.
@@ -51,7 +51,7 @@
 - [FPS Test](https://github.com/Calinou/fps-test)   - 单人FPS测试.  物理工作，但没有敌人，没有适当的射击.
 - [HTTP Server](https://github.com/KOBUGE-Games/godot-httpd) -  HTTP 1.0文件服务器.
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -  RPG演示（Godot 3.0）.
-- [OpenRPG](https://github.com/GDquest/godot-open-rpg) - JRPG-style game demo and template (Godot 3.1).
+- [OpenRPG](https://github.com/GDquest/godot-open-rpg) -  JRPG风格的游戏演示和模板（Godot 3.1）.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 使用tilemap演示寻路的演示项目.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 允许您连接到服务器并查看联网物理.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
@@ -122,7 +122,7 @@
 - [GUT](https://github.com/bitwes/Gut) - 在GDScript中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 戈多的滚动背景节点.
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 一个可以定制的对话系统和编辑器，非常适合故事驱动的游戏.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - 简单的游戏手柄支持GNU / Linux和Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).

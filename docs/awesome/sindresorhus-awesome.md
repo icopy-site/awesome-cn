@@ -159,6 +159,7 @@
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
 	- [Protips](https://github.com/AllThingsSmitty/css-protips#readme)
+	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - 应用程序框架.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - 构建数据驱动的React应用程序的框架.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
@@ -242,6 +243,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建，更改和版本化基础架构的工具.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) -  Swift中的服务器端开发.
+- [Dash](https://github.com/Acrotrend/awesome-dash#readme) -  Python Web应用程序框架.
 
 
 ## Computer Science
@@ -326,7 +328,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) - 游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) - 游戏引擎.
-- [PICO-8](https://github.com/felipebueno/awesome-PICO-8#readme) - 梦幻控制台.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) - 梦幻控制台.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.

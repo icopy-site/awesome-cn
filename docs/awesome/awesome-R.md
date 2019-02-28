@@ -89,10 +89,10 @@
 * [Radiant](https://radiant-rstats.github.io/docs) - 基于Shiny的独立于平台的基于浏览器的界面，用于R中的业务分析.
 * [Vim-R](https://github.com/vim-scripts/Vim-R-plugin) -  R的Vim插件
 * [Nvim-R](https://github.com/jalvesaq/Nvim-R) -  R的Neovim插件
-* [JASP](https://jasp-stats.org/) - 一个完整的贝叶斯和Frequentist方法包，这是SPSS用户所熟悉的.
+* [Jamovi](https://www.jamovi.org/) 和 [JASP](https://jasp-stats.org/) - Desktop software for both Bayesian 和 Frequentist methods, using a UI familiar to SPSS users.
 * [Bio7](http://www.bio7.org/) -  IDE包含用于生态建模的模型创建，科学图像分析和统计分析的工具.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - 适用于Visual Studio的R工具.
-* [rtichoke](https://github.com/randy3k/rtichoke) - 具有语法高亮功能的现代R控制台.
+* [radian](https://github.com/randy3k/radian) （原名rtichoke） - 具有语法高亮功能的现代R控制台.
 * [RKWard](https://rkward.kde.org/) -  R的可扩展IDE / GUI
 
 ## Syntax
@@ -151,7 +151,7 @@
 * [dygraphs](https://github.com/rstudio/dygraphs) - 在R中绘制时间序列数据.
 * [Leaflet](http://rstudio.github.io/leaflet/) - 最流行的JavaScript库交互式地图之一.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - 可以轻松创建D3散点图，折线图和直方图.
-* [networkD3](http://christophergandrud.github.io/networkD3/) - 来自R的D3 JavaScript网络图
+* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
 * [scatterD3](https://github.com/juba/scatterD3) - 带D3的交互式散点图.
 * [rbokeh](http://hafen.github.io/rbokeh/) -  R接口 [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs](https://github.com/bwlewis/rthreejs) - 交互式3D散点图和地球仪.
@@ -183,7 +183,7 @@
 * [shinyjs](https://github.com/daattali/shinyjs) - 在几秒钟内轻松改善您的Shiny应用程序中的用户交互和用户体验.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) -  R的常规网络（HTTP / FTP / ...）客户端界面
 * [curl](https://github.com/jeroen/curl) - 适用于R的现代灵活的Web客户端
-* [httpuv](https://github.com/rstudio/httpuv) - HTTP and WebSocket server library.
+* [httpuv](https://github.com/rstudio/httpuv) -  HTTP和WebSocket服务器库.
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - 用于在R中解析和生成XML的工具.
 * [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) -  R的HTTP API
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - 通过R访问Facebook API.
@@ -251,6 +251,7 @@
 ## Machine Learning
 *使R更聪明的包裹.*
 
+* [anomalize](https://github.com/business-science/anomalize) - 使用Twitter的AnomalyDetection方法进行整齐的异常检测.
 * [ahaz](http://cran.r-project.org/web/packages/ahaz/index.html) - 半参数加性危险回归的正则化.
 * [arules](http://cran.r-project.org/web/packages/arules/index.html) - 挖掘关联规则和频繁项目集
 * [bigrf](http://cran.r-project.org/web/packages/bigrf/index.html) - 大随机森林：分类和回归森林
@@ -297,6 +298,7 @@ covariates
 * [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) -  kernlab：基于内核的机器学习实验室
 * [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - 分类和可视化
 * [kohonen](http://cran.r-project.org/web/packages/kohonen/) - 有监督和无监督的自组织地图.
+* [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - 用于最佳子集选择的快速算法
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) - 最小角度回归，套索和前进阶段
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) -  L1约束估计又名&#39;套索&#39;
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - 基于Liblinear C / C ++库的线性预测模型
@@ -364,7 +366,7 @@ Data
 * [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - 基于C libstemmer UTF-8库的Snowball词干分析器.
 * [quanteda](https://github.com/kbenoit/quanteda) - 用于文本数据定量分析的R函数.
 * [Topic Models Resources](https://github.com/trinker/topicmodels_learning) - 主题模型学习和R相关资源.
-* [MonkeyLearn](https://github.com/masalmon/monkeylearn) - 🐒 R package for text analysis with Monkeylearn 🐒.
+* [MonkeyLearn](https://github.com/masalmon/monkeylearn) - 使用Monkeylearn进行文本分析的R包.
 * [tidytext](http://tidytextmining.com/index.html) - 将Hadley Wickham的整洁原则应用于文本挖掘.
 * [utf8](https://github.com/patperry/r-utf8) - 操作和打印UTF-8文本，修复R的UTF-8处理中的多个错误.
 
@@ -454,7 +456,7 @@ Data
 * [lineprof](https://github.com/hadley/lineprof) - 在R中可视化行分析结果
 * [packrat](https://github.com/rstudio/packrat) - 使您的R项目更加孤立，便携和可重复.
 * [installr](https://github.com/talgalili/installr/) - 从R内部安装软件的功能（适用于Windows）.
-* [import](https://github.com/smbache/import/) -  R的导入机制
+* [import](https://github.com/smbache/import/) - An import mechanism for R.
 * [modules](https://github.com/klmr/modules) -  R的替代（Python风格）模块系统
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) -  RStudio插件列表.
 * [drat](https://github.com/eddelbuettel/drat) - 在GitHub或其他repos上创建和使用R存储库.
@@ -510,7 +512,7 @@ Data
 * [Quick-R](http://www.statmethods.net/) - 一个很好的快速参考.
 * [Advanced R <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://adv-r.had.co.nz/) -  Advanced R书籍的在线版本.
 * [Efficient R Programming](https://csgillespie.github.io/efficientR/) -  O&#39;Reilly书籍的在线主页：高效R编程.
-* [CRAN Task Views](http://cran.r-project.org/web/views/) - Task Views for CRAN packages.
+* [CRAN Task Views](http://cran.r-project.org/web/views/) -  CRAN包的任务视图.
 * [The R Programming Wikibook](https://en.wikibooks.org/wiki/R_Programming) -  R的协作手册
 * [R-users](https://www.r-users.com/) -  R用户（以及希望雇用他们的人）的工作板
 * [R Cookbook](http://www.cookbook-r.com/) - 一个支持问题的面向问题的网站 [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
@@ -531,7 +533,7 @@ Data
 * [R Packages](http://r-pkgs.had.co.nz/) - 关于编写R包的书（纸质和网站格式）.
 * [R in Action](http://www.manning.com/kabacoff2/) - 本书面向所有级别的用户，包括初级，中级和高级R，从“探索R数据结构”到运行回归和进行因子分析.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles)   -  Springer的这一系列廉价且专注的书籍出版了针对从业者的短篇书籍.  书籍可以讨论在特定主题领域中使用R，例如贝叶斯网络，ggplot2和Rcpp.
-* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - 为熟悉SAS或SPSS的用户提供的优质资源.
+* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - 关于R的非常好的介绍性文本，也涵盖了一些高级主题.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/)   -  *统计学习要素的简化和“运作”版本*.  其作者提供的免费软拷贝.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - 帕特里克·伯恩斯（Patrick Burns）深入了解了R的细节及其怪癖！

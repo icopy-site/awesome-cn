@@ -630,4 +630,5 @@
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - 针对UMAnalytics SDK（iOS和Android）的ANE.
 * [Localytics](https://github.com/randori/ANE-Localytics) - 针对移动Adobe AIR应用程序（iOS和Android）的Localytics分析.
 * [Testflight](https://github.com/jlopez/ane-testflight) -  Apple TestFlight ANE.
+* [HockeyApp](https://github.com/airext/hockeyapp) - 针对Hockeyapp测试和分发平台的ANE.
 * [Chartboost](https://github.com/ChartBoost/air) - 带有编译脚本的Chartboost SDK的ANE.

@@ -92,6 +92,7 @@
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - 使用承诺时的最佳做法.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的ESLint规则.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
+- [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - 针对ESLint的特定于交换机案例的linting规则.
 - [this](https://github.com/matijs/eslint-plugin-this) - 写纯函数，不要&#39;this`.
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在代码库结束生产之前检测XSS问题.
 
