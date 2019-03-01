@@ -118,7 +118,7 @@ html {
 }
 ```
 
-这里，CSS选择器定义边界，就像人类描述它一样.
+在这里，CSS选择器被读取为人类将描述它.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/LkymvO)
 
@@ -206,7 +206,7 @@ html,
 
 ### Comma-Separated Lists
 
-使列表项看起来像一个真实的逗号分隔列表：
+Make list items look like a real, comma-separated list:
 
 ```css
 ul&gt; li：not（：last-child）:: after {

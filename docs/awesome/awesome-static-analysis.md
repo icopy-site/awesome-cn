@@ -270,7 +270,7 @@
 
 ## PHP
 
-* [dephpend](https://github.com/mihaeu/dephpend) - 依赖性分析工具
+* [dephpend](https://github.com/mihaeu/dephpend) - Dependency analysis tool
 * [deprecation-detector](https://github.com/sensiolabs-de/deprecation-detector) - 查找已弃用（Symfony）代码的用法
 * [deptrac](https://github.com/sensiolabs-de/deptrac) - 实施软件层之间依赖关系的规则.
 * [DesignPatternDetector](https://github.com/Halleck45/DesignPatternDetector) - 检测PHP代码中的设计模式
@@ -292,7 +292,7 @@
 * [php7cc](https://github.com/sstalle/php7cc) -  PHP 7兼容性检查器
 * [php7mar](https://github.com/Alexia/php7mar) - 帮助开发人员快速将代码移植到PHP 7
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 检测违反一组定义的编码标准
-* [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) - Finds usage of non-built-in extensions
+* [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) - 查找非内置扩展的使用情况
 * [phpcf](http://wapmorgan.github.io/PhpCodeFixer/) - 查找已弃用的PHP功能的使用
 * [phpcpd](https://github.com/sebastianbergmann/phpcpd) -  PHP代码的复制/粘贴检测器.
 * [phpdcd](https://github.com/sebastianbergmann/phpdcd) - 用于PHP代码的死代码检测器（DCD）.
@@ -353,7 +353,7 @@
 
 ## RPG
 
-* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) :copyright: - Static Code Analysis for RPG III and RPG IV versions (including free-form)
+* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) ：copyright： -  RPG III和RPG IV版本的静态代码分析（包括自由格式）
 
 ## Ruby
 
@@ -417,7 +417,7 @@
 ## TypeScript
 
 * [Codelyzer](https://github.com/mgechev/codelyzer) - 一组用于Angular 2 TypeScript项目的静态代码分析的tslint规则.
-* [TSLint](https://github.com/palantir/tslint) -  TypeScript语言的可扩展linter.
+* [TSLint](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
 * [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) - 一套受Clean Code手册启发的TSLint规则.
 * [tslint-microsoft-contrib](https://github.com/Microsoft/tslint-microsoft-contrib) - 一组用于Microsoft维护的TypeScript项目的静态代码分析的tslint规则.
 
@@ -588,6 +588,7 @@
 
 ## Writing
 
+* [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码
 * [languagetool](https://github.com/languagetool-org/languagetool)   -  25种语言的风格和语法检查.  它发现了一个简单的拼写检查程序无法检测到的许多错误.
 * [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复常见拼写错误的快速工具，源代码中的拼写错误
 * [proselint](https://github.com/amperser/proselint/) - 英语散文的点缀，专注于写作风格而不是语法.

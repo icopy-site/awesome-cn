@@ -13,6 +13,7 @@
 ## Open Source Projects
 _Projects以开源许可证发布._
 
+- [Akira](https://www.patreon.com/akiraux) - 用于UI和UX设计的Linux应用程序.
 - [Albert launcher](https://www.patreon.com/albertlauncher) - 用C ++ / Qt编写的键盘启动器.
 - [ApexCharts](https://www.patreon.com/junedchhipa) -  JavaScript图表库.
 - [Armory](https://armory3d.org/fund) -  Blender的3D游戏引擎.
@@ -34,12 +35,15 @@ _Projects以开源许可证发布._
 - [iTerm2](https://www.patreon.com/gnachman) -  macOS终端更换. 
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) -  D＆D桌面角色扮演游戏战斗追踪器. 
 - [Kismet](https://www.patreon.com/kismetwireless) -  Kismet无线工具.
+- [Latte Dock](https://liberapay.com/latte-dock) - 等离子桌面的替换底座.
 - [LibrePCB](https://www.patreon.com/librepcb) - 开发印刷电路板的软件. 
 - [Machine Labs](https://www.patreon.com/machinelabs) - 机器学习平台.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - 联合社交网络服务器.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - 用于安全，分散通信的开放网络.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - 绘图应用程序. 
+- [MissKey](https://www.patreon.com/syuilo) - 联邦微博平台.
 - [MuseScore](https://www.patreon.com/musescore) - 乐谱软件.
+- [NativeScript-Vue](https://www.patreon.com/rigor789) -  NativeScript和Vue的原生移动应用程序.
 - [Neovim](https://salt.bountysource.com/teams/neovim) -  Vim-fork专注于可扩展性和可用性.
 - [OctoPrint](https://www.patreon.com/foosel) -  3D打印机的Web界面.
 - [OfBorg](https://www.patreon.com/ofborg) - 用于测试NixOS的工具.
@@ -52,6 +56,7 @@ _Projects以开源许可证发布._
 - [Perkeep](https://opencollective.com/perkeep) - 个人存储系统.
 - [PHPStan](https://www.patreon.com/phpstan) -  PHP静态分析器.
 - [PHPUnit](https://www.patreon.com/s_bergmann) -  PHPUnit和相关项目.
+- [PixelFed](https://www.patreon.com/dansup), [#2](https://opencollective.com/pixelfed), [#3](https://liberapay.com/pixelfed) - 由ActivityPub协议提供支持的联合映像共享.
 - [PlantUML](https://www.patreon.com/plantuml) -  UML图创建软件.
 - [postActiv](https://www.patreon.com/postActiv) - 微博平台. 
 - [Project Lombok](https://www.patreon.com/lombok) -  Java编辑器插件.
@@ -137,6 +142,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Joey Hess](https://www.patreon.com/joeyh) -  git-annex，keysafe，其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -  Bootstrap JavaScript开发人员和各种插件和项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - 各种C ++库，工具，文章.
+- [Kevin Cozens](https://www.patreon.com/KevinCozens) -  GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
 - [Kozec](https://www.patreon.com/kozec) -  Syncthing-GTK和SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -  FreeCAD贡献者和Debian打包者.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) -  Inkscape贡献者.
@@ -147,6 +153,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Nils Maier](https://www.patreon.com/nmaier)   - 全部下载！  Firefox和Chrome扩展程序.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -  Debian打包器.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -  Objective-See的所有者，各种macOS安全工具和文章.
+- [Philip Guo](https://www.patreon.com/pgbovine) -  Python Tutor和pgbovine.net（文章/播客/视频博客）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) - 各种Rust库.
 - [Reini Urban](https://www.patreon.com/rurban) - 维护和开发软件，如cperl，parrot，许多perl5模块，safeclib和libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - 开源工具和游戏.
@@ -163,7 +170,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -  PulseAudio声音服务器贡献者. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - 使用Inkscape矢量图形编辑器.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) -  Flarum撰稿人.
-- [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - Gaming related projects. 
+- [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) - 游戏相关项目. 
 - [Timothée Giet](https://www.patreon.com/animtim) -  GCompris贡献者.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) -  FreeCAD贡献者.
 - [Øyvind Kolås](https://www.patreon.com/pippin) - 图形编辑器GIMP中使用的babl和GEGL库的首席开发人员.
@@ -177,6 +184,7 @@ _文章，视频，播客等......
 - [Chris Bradfield](https://www.patreon.com/kidscancode) - 为孩子们编程教程. 
 - [DistroWatch](https://www.patreon.com/distrowatch) -  Linux / BSD的评论和教程.
 - [Fluent C++](https://www.patreon.com/fluentcpp) -  C ++文章.
+- [Kyle Simpson](https://www.patreon.com/getify)   - “你不懂JS”系列丛书的作者.  做文章，播客和OSS贡献.
 - [Meeting C++](https://www.patreon.com/meetingcpp) -  C ++文章.
 - [Modernes C++](https://www.patreon.com/rainer_grimm) -  C ++文章.
 - [Modocache](https://www.patreon.com/modocache) -  LLVM / Swift相关文章. 

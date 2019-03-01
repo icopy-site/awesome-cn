@@ -180,7 +180,7 @@
 
 * [JGroups Cluster Manager](https://github.com/vert-x3/vertx-jgroups) -  JGroups集群管理器.
 * [Atomix Cluster Manager](https://github.com/atomix/atomix-vertx) - 安 [Atomix](http://atomix.io) 基于Vert.x 3的集群管理器实现.
-* [Consul Cluster Manager](https://github.com/romalev/vertx-consul-cluster-manager) -  Consul集群经理.
+* [Consul Cluster Manager](https://github.com/reactiverse/consul-cluster-manager) -  Consul集群经理.
 
 ## Cloud Support
 

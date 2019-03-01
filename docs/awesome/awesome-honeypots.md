@@ -41,7 +41,8 @@
     - [WebTrap](https://github.com/IllusiveNetworks-Labs/WebTrap) - 旨在创建欺骗性网页，以欺骗和重定向攻击者远离真实网站.
     - [basic-auth-pot (bap)](https://github.com/bjeborn/basic-auth-pot) -  HTTP基本身份验证蜜罐.
     - [bwpot](https://github.com/graneed/bwpot) - 易碎的Web应用程序honeyPot.
-    - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - 假Django管理员登录屏幕通知管理员未经授权的访问尝试. 
+    - [django-admin-honeypot](https://github.com/dmpayton/django-admin-honeypot) - 假Django管理员登录屏幕通知管理员未经授权的访问尝试.
+    - [drupo](https://github.com/d1str0/drupot) -  Drupal Honeypot.
     - [honeyhttpd](https://github.com/bocajspear1/honeyhttpd) - 基于Python的Web服务器honeypot构建器.
     - [phpmyadmin_honeypot](https://github.com/gfoss/phpmyadmin_honeypot) - 简单有效的phpMyAdmin honeypot.
     - [shockpot](https://github.com/threatstream/shockpot) - 用于检测Shell Shock漏洞尝试的WebApp Honeypot.

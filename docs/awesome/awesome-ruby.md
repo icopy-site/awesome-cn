@@ -281,7 +281,7 @@
 ## Dashboards
 
 * [Blazer](https://github.com/ankane/blazer)   - 仅使用SQL的简单数据查看器.  输出到表格，图表和地图.
-* [Smashing](https://smashing.github.io/)   -  Smashing是一个基于Sinatra的框架，可以让您构建漂亮的仪表板.  该项目是Dashing框架的精神继承者.
+* [Smashing](https://smashing.github.io/) - Smashing is a Sinatra based framework that lets you build beautiful dashboards. This project is the maintained spiritual successor to the Dashing framework.
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) -  Rails非常漂亮的仪表板框架.
 
 ## Data Processing and ETL
@@ -362,7 +362,7 @@
 
 ## DevOps Tools
 
-* [Backup](https://github.com/backup/backup) - Provides an elegant DSL in Ruby for performing backups on UNIX-like systems.
+* [Backup](https://github.com/backup/backup) - 在Ruby中提供优雅的DSL，以便在类UNIX系统上执行备份.
 * [Blender](https://github.com/PagerDuty/blender) - 具有可插拔驱动程序和主机发现的模块化系统编排框架.
 * [BOSH](https://github.com/cloudfoundry/bosh) -  Cloud Foundry BOSH是一个开源工具链，用于大规模分布式服务的发布工程，部署和生命周期管理.
 * [Capistrano](http://capistranorb.com) - 用Ruby编写的远程服务器自动化和部署工具.
@@ -495,7 +495,7 @@
 * [PaperClip](https://github.com/thoughtbot/paperclip)   -  ActiveRecord的简易文件附件管理.  截至2018年5月14日已弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - 安全上传文件.
 * [Refile](https://github.com/refile/refile) - 用于Ruby应用程序的现代文件上传库，Refile是CarrierWave的原始作者尝试修复CarrierWave中的设计错误和过度工程.
-* [Shrine](https://github.com/janko-m/shrine) - 用于在Ruby中处理文件上载的工具包.
+* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
 
 ## File System
 
@@ -571,7 +571,7 @@
 * [Http Client](https://github.com/nahi/httpclient) - 在Ruby中提供类似libwww-perl（LWP）的功能.
 * [HTTP](https://github.com/httprb/http) -  HTTP Gem：用于发出HTTP请求的简单Ruby DSL.
 * [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - 承认易用性 [http](https://github.com/httprb/http) gem API（本身受python请求库启发），旨在重用相同的外观，扩展它为http gem不支持的用例.
-* [httparty](https://github.com/jnunemaker/httparty) - 再次使http变得有趣！
+* [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
 * [Http-2](https://github.com/igrigorik/http-2) -  HTTP / 2协议的纯Ruby实现
 * [Patron](https://github.com/toland/patron) -  Patron是一个基于libcurl的Ruby HTTP客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) -  Ruby的简单HTTP和REST客户端，受微框架语法的启发，用于指定操作.
@@ -581,7 +581,7 @@
 
 ## Image Processing
 
-* [MiniMagick](https://github.com/minimagick/minimagick) - A ruby wrapper for ImageMagick or GraphicsMagick command line.
+* [MiniMagick](https://github.com/minimagick/minimagick) -  ImageMagick或GraphicsMagick命令行的ruby包装器.
 * [Phasion](https://github.com/westonplatter/phashion) - 围绕pHash的Ruby包装器，用于检测重复多媒体文件的感知哈希库.
 * [PSD.rb](https://github.com/layervault/psd.rb) - 轻松地在Ruby中解析Photoshop文件.
 * [RMagick](https://github.com/rmagick/rmagick) -  RMagick是Ruby和ImageMagick之间的接口.
@@ -713,7 +713,7 @@
 * [MongoModel](https://github.com/spohlenz/mongomodel) - 用于与MongoDB数据库连接的Ruby ODM.
 * [Neo4j.rb](http://neo4jrb.io) - 一个Neo4j OGM（Object-Graph-Mapper），用于Ruby on Rails和Rack框架，受ActiveRecord的启发.
 * [NoBrainer](https://github.com/nviennot/nobrainer/) - 用于Ruby的RethinkDB ORM
-* [Ohm](https://github.com/soveran/ohm) - Object-hash mapping library for Redis.
+* [Ohm](https://github.com/soveran/ohm) -  Redis的Object-hash映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) - 使用Data Mapper模式的Ruby对象的持久性gem.
 * [Redis-Objects](https://github.com/nateware/redis-objects) -  Redis Objects通过redis gem上的薄层将Redis数据类型映射到Ruby对象，为Redis提供Rubyish接口.
 * [ROM](https://github.com/rom-rb/rom) -  Ruby Object Mapper（ROM）是一个实验性的Ruby库，其目标是提供强大的对象映射功能，而不会限制数据存储的全部功能.
@@ -753,7 +753,7 @@
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)   - 与acts_as_commentable类似;  但是，利用awesome_nested_set提供线程注释.
   * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - 允许任何ActiveRecord模型遵循任何其他模型.
   * [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - 用于Rails的活动记录信誉系统.
-  * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) -  ActiveRecord的标记插件，允许沿动态上下文自定义标记.
+  * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
   * [Acts As Votable](https://github.com/ryanto/acts_as_votable) - 允许任何ActiveRecord模型投票，如/不喜欢，upvote / downvote等.
   * [Merit](https://github.com/merit-gem/merit) - 以ActiveRecord或Mongoid的徽章，点数和排名的形式向Rails应用添加声誉行为.
   * [PublicActivity](https://github.com/chaps-io/public_activity) - 为Rails 3和4中的ActiveRecord，Mongoid 3和MongoMapper模型提供简单的活动跟踪.类似于Github的公共活动.
@@ -877,7 +877,7 @@
 ## RSS
 
 * [Feed normalizer](https://github.com/aasmith/feed-normalizer) - 用于Atom和RSS解析器的可扩展Ruby包装器.
-* [Feedjira](https://github.com/feedjira/feedjira) - A feed fetching and parsing library.
+* [Feedjira](https://github.com/feedjira/feedjira) - 提取和解析库.
 * [feedparser](https://github.com/feedparser/feedparser) -  feed解析器和规范化器（Atom，RSS，JSON等）库.
 * [Ratom](https://github.com/seangeo/ratom) - 一个基于libxml的快速Ruby Atom库.
 * [Simple rss](https://github.com/cardmagic/simple-rss) - 简单，灵活，可扩展，自由的RSS和Atom阅读器.
@@ -886,12 +886,14 @@
 ## Serverless
 
 * [FaaStRuby](https://faastruby.io) - 适用于Ruby和Crystal开发人员的无服务器软件开发平台.
+* [Jets](https://github.com/tongueroo/jets) -  Ruby Serverless Framework，可轻松创建和部署无服务器微服务，并无缝粘合AWS服务.
 
 ## Scheduling
 
 * [minicron](https://github.com/jamesrwhite/minicron) - 管理和监控cron作业的系统.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - 基于Resque构建的轻量级作业调度系统.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) -  Ruby的作业调度程序（at，cron，in和every jobs）.
+* [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) -  Sidekiq的日程安排附件.
 * [Whenever](https://github.com/javan/whenever) - 一个Ruby gem，为编写和部署cron作业提供了清晰的语法.
 
 ## Scientific

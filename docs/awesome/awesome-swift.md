@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  947 |  2019年2月27日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  948 |  2019年2月28日
 
 
 
@@ -426,7 +426,7 @@
 
 * [MySQL Swift](https://github.com/novi/mysql-swift) ：企鹅： -  MySQL客户端库.
 * [Perfect-MySQL](https://github.com/PerfectlySoft/Perfect-MySQL) :penguin: - A stand-alone wrapper around the MySQL client library, enabling access to MySQL servers.
-* [Perfect-PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) :penguin: - A stand-alone wrapper around the libpq client library, enabling access to PostgreSQL servers.
+* [Perfect-PostgreSQL](https://github.com/PerfectlySoft/Perfect-PostgreSQL) ：penguin： - 围绕libpq客户端库的独立包装器，允许访问PostgreSQL服务器.
 
 #### SQLite
  *您是否有兴趣使用SQLite存储您的应用数据？  这是一些有趣的资源.* [back to top](#readme) 
@@ -507,7 +507,7 @@
 ### Embedded Systems
 *在RaspberryPi，BeagleBone，CHIP和其他主板上构建您的嵌入式Linux项目.* [back to top](#readme) 
 
-* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) :penguin: - Interact with Linux GPIO/SPI/PWM on ARM.
+* [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) ：企鹅： - 与ARM上的Linux GPIO / SPI / PWM交互.
 
 #### Peripherals
 *与特定的外围设备交互.* [back to top](#readme) 
@@ -583,7 +583,7 @@
 * [DBPathRecognizer](https://github.com/didierbrun/DBPathRecognizer) - 字母的db路径识别器.
 * [PeekPop](https://github.com/marmelroy/PeekPop) - 向后兼容的Peek和Pop的框架.
 * [ShowTime](https://github.com/KaneCheshire/ShowTime) - 只需一行代码即可展示您的iOS水龙头和手势以进行演示和视频.
-* [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) - UIGestureRecognizers in Xcode Playgrounds.
+* [SwiftyGestureRecognition](https://github.com/b3ll/SwiftyGestureRecognition) -  Xcode Playgrounds中的UIGestureRecognizers.
 * [SwipyCell](https://github.com/moritzsternemann/SwipyCell) -  UITableViewCell实现滑动以触发操作（从邮箱应用程序中获知）.
 
 ### Hardware
@@ -687,9 +687,9 @@
  *您想创建自己的自定义键盘吗？  这里有一些有趣的资源* [back to top](#readme) 
 
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)   - 一种优雅的解决方案，可在键盘显示时保持任何UIView可见.  不需要UIScrollView.
-* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无代码插入式通用库允许防止键盘滑动问题并覆盖UITextField / UITextView.
+* [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView.
 * [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 无代码管理器通过点击iOS视图来隐藏键盘.
-* [Typist](https://github.com/totocaster/Typist) - 适用于iOS应用程序的小型UIKit键盘管理器 - 可帮助管理键盘的屏幕状态和行为，而无需通知中心.
+* [Typist](https://github.com/totocaster/Typist) - Small, drop-in UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center.
 
 ### Kit
 *使用简化API进行编码的库* [back to top](#readme) 
@@ -1057,7 +1057,7 @@
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - 一个UINavigationController子类，支持带隐藏或显示的pop交互式UINavigationBar.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 一个插入式通用库可帮助您管理导航栏样式，并在不同导航栏样式之间平滑过渡动画，同时为所有方向推送或弹出视图控制器.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 一个UITextView子类，它添加了对多行占位符的支持.
-* [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重复使用的UI开发，如制作乐高积木.
+* [LeeGo](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - 带液体动画的Spinner装载机组件.
 * [Macaw](https://github.com/exyte/macaw) - 功能强大且易于使用的矢量图形库，支持SVG.
@@ -1119,6 +1119,7 @@
 * [Hokusai](https://github.com/ytakzk/Hokusai) - 一个凉爽的弹性活动表库.
 * [Kamagari](https://github.com/tasanobu/Kamagari) - 简单的UIAlertController构建器类.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - 适用于iOS的漂亮警报控制器.
+* [Loaf](https://github.com/schmidyy/Loaf) - 简单的iOS Toast框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在iOS中显示高度可自定义的应用通知横幅的最简单方法.
 * [PMAlertController](https://github.com/pmusolino/PMAlertController) -  PMAlertController是UIAlertController的优秀和可定制的替代品.
 * [PopupDialog](https://github.com/orderella/PopupDialog)   - 一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
@@ -1203,7 +1204,7 @@
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - 适用于iOS的小故障UILabel.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) -  UILabel子类（de）增加UILabel中的数字.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类，它可以更新自己，使以前的格式更容易.
-* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel.
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
 * [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
@@ -1248,7 +1249,7 @@
 [back to top](#readme) 
 
 * [Caishen](https://github.com/prolificinteractive/Caishen) - 适用于iOS的支付卡UI和验证器.
-* [iCard](https://github.com/eliakorkmaz/iCard) - 使用SnapKit DSL的银行卡生成器.
+* [iCard](https://github.com/eliakorkmaz/iCard) - 使用SnapKit DSL的银行卡生成器。
 * [MFCard](https://github.com/MobileFirstInc/MFCard) - 在iOS App中轻松集成信用卡付款.
 
 #### Permissions
@@ -1275,7 +1276,7 @@
 #### Tab
 [back to top](#readme) 
 
-* [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - 自适应标签栏.
+* [Adaptive Tab Bar](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar](https://github.com/Ramotion/animated-tab-bar) -  RAMAnimatedTabBarController是一个用于向标签栏项添加动画的模块.
 * [ColorMatchTabs](https://github.com/Yalantis/ColorMatchTabs) - 显示标签的有趣方式.
 * [DTPagerController](https://github.com/tungvoduc/DTPagerController) - 容器视图控制器，用于在水平滚动视图中显示一组ViewControllers.

@@ -78,7 +78,7 @@
 ## Integrated Development Environments
 *综合发展环境*
 
-* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 适用于R的强大而高效的用户界面.适用于Windows，Mac和Linux.
+* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
 * [Emacs + ESS](http://ess.r-project.org/) -  Emacs Speaks Statistics是emacs文本编辑器的附加软件包.
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) -  Sublime Text 2/3的附加软件包.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) -  TextMate 1/2的附加软件包.
@@ -151,7 +151,7 @@
 * [dygraphs](https://github.com/rstudio/dygraphs) - 在R中绘制时间序列数据.
 * [Leaflet](http://rstudio.github.io/leaflet/) - 最流行的JavaScript库交互式地图之一.
 * [MetricsGraphics](http://hrbrmstr.github.io/metricsgraphics/) - 可以轻松创建D3散点图，折线图和直方图.
-* [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
+* [networkD3](http://christophergandrud.github.io/networkD3/) - 来自R的D3 JavaScript网络图
 * [scatterD3](https://github.com/juba/scatterD3) - 带D3的交互式散点图.
 * [rbokeh](http://hafen.github.io/rbokeh/) -  R接口 [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs](https://github.com/bwlewis/rthreejs) - 交互式3D散点图和地球仪.
@@ -238,12 +238,13 @@
 * [RMariaDB](https://github.com/rstats-db/RMariaDB) -  MariaDB的R接口（旧的RMySQL包的替代品）
 * [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) -  MySQL数据库的R接口.
 * [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - 基于OCI的Oracle数据库接口
+* [RPostgres](https://github.com/r-dbi/RPostgres) - 与postgres数据库的DBI兼容接口.
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) -  PostgreSQL数据库系统的R接口.
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) -  R的SQLite接口
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - 通过JDBC接口提供对数据库的访问.
 * [rmongodb](https://github.com/mongosoup/rmongodb) -  MongoDB的R驱动程序.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) -  Redis客户端为R.
-* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - 直接接口（不是Java）到Apache Cassanda的最基本功能.
+* [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - 直接接口（不是Java）到Apache Cassandra的最基本功能.
 * [RHive](https://github.com/nexr/RHive) -  R扩展通过Apache Hive促进分布式计算.
 * [RNeo4j](https://github.com/nicolewhite/Rneo4j) -  Neo4j图形数据库驱动程序.
 * [rpostgis](https://github.com/mablab/rpostgis) - 到PostGIS数据库的R接口并在R中获取空间对象
@@ -280,7 +281,7 @@ Friedman
 * [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - 使用ARIMA，ETS，STLM，TBATS和神经网络模型进行时间序列预测
 * [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - 来自“预测”包的ARIMA，ETS，STLM，TBATS和神经网络模型的自动集合和交叉验证
 * [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - 基于子集搜索或特征排名方法的特征选择框架.
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - 用于分类和回归任务的基于模糊规则的系统
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
 * [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - 基于可能性的广义线性和加性模型
 boosting
 * [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) -  GAMLSS的推进方法
@@ -313,7 +314,7 @@ models
 * [pamr](http://cran.r-project.org/web/packages/pamr/index.html) -  Pam：微阵列的预测分析
 * [party](http://cran.r-project.org/web/packages/party/index.html) - 递归派系实验室
 * [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - 递归派系工具包
-* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) -  L1（套索和融合套索）和L2（脊）惩罚估计
+* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - L1 (lasso and fused lasso) and L2 (ridge) penalized estimation
 在GLM和Cox模型中
 * [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - 使用Fisher线性判别式进行惩罚分类
 * [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - 使用惩罚函数的特征选择SVM
@@ -375,7 +376,7 @@ Data
 
 * [coda](http://cran.r-project.org/web/packages/coda/index.html) -  MCMC的输出分析和诊断.
 * [mcmc](http://cran.r-project.org/web/packages/mcmc/index.html) - 马尔可夫链蒙特卡洛.
-* [MCMCpack](http://mcmcpack.berkeley.edu/) - Markov chain Monte Carlo (MCMC) Package.
+* [MCMCpack](http://mcmcpack.berkeley.edu/) - 马尔可夫链蒙特卡洛（MCMC）套餐.
 * [R2WinBUGS](http://cran.r-project.org/web/packages/R2WinBUGS/index.html) - 从R / S-PLUS运行WinBUGS和OpenBUGS.
 * [BRugs](http://cran.r-project.org/web/packages/BRugs/index.html) -  OpenBUGS MCMC软件的R接口.
 * [rjags](http://cran.r-project.org/web/packages/rjags/index.html) -  JAGS MCMC库的R接口.
@@ -439,7 +440,7 @@ Data
 * [sf](https://cran.r-project.org/web/packages/sf/index.html) - 改进的空间数据类和方法.
 * [sp](https://edzer.github.io/sp/) - 空间数据的类和方法.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - 几何引擎接口 - 开源
-* [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - 地理空间数据抽象库的绑定
+* [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - 用于读取和处理空间对象的工具
 * [gstat](https://github.com/edzer/gstat) - 空间和时空地质统计建模，预测和模拟.
 * [spacetime](https://github.com/edzer/spacetime) - 用于时空数据的R类和方法.
@@ -456,7 +457,7 @@ Data
 * [lineprof](https://github.com/hadley/lineprof) - 在R中可视化行分析结果
 * [packrat](https://github.com/rstudio/packrat) - 使您的R项目更加孤立，便携和可重复.
 * [installr](https://github.com/talgalili/installr/) - 从R内部安装软件的功能（适用于Windows）.
-* [import](https://github.com/smbache/import/) - An import mechanism for R.
+* [import](https://github.com/smbache/import/) -  R的导入机制
 * [modules](https://github.com/klmr/modules) -  R的替代（Python风格）模块系统
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) -  RStudio插件列表.
 * [drat](https://github.com/eddelbuettel/drat) - 在GitHub或其他repos上创建和使用R存储库.
@@ -517,7 +518,7 @@ Data
 * [R-users](https://www.r-users.com/) -  R用户（以及希望雇用他们的人）的工作板
 * [R Cookbook](http://www.cookbook-r.com/) - 一个支持问题的面向问题的网站 [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) -  R入门的快速课程
-* [RDocumentation](https://www.rdocumentation.org/) - 使用RDocumentation搜索所有CRAN，Bioconductor，Github软件包及其存档.
+* [RDocumentation](https://www.rdocumentation.org/) - 使用RDocumentation搜索所有CRAN，Bioconductor，GitHub软件包及其存档.
 
 ## Books
 
@@ -533,7 +534,7 @@ Data
 * [R Packages](http://r-pkgs.had.co.nz/) - 关于编写R包的书（纸质和网站格式）.
 * [R in Action](http://www.manning.com/kabacoff2/) - 本书面向所有级别的用户，包括初级，中级和高级R，从“探索R数据结构”到运行回归和进行因子分析.
 * [Use R!](http://www.springer.com/series/6991?detailsPage=titles)   -  Springer的这一系列廉价且专注的书籍出版了针对从业者的短篇书籍.  书籍可以讨论在特定主题领域中使用R，例如贝叶斯网络，ggplot2和Rcpp.
-* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - An excelllent resource for users already familiar with SAS or SPSS.
+* [R for SAS and SPSS users](http://r4stats.com/books/free-version/) - 为熟悉SAS或SPSS的用户提供的优秀资源.
 * [An Introduction to R](https://cran.r-project.org/doc/manuals/R-intro.pdf) - 关于R的非常好的介绍性文本，也涵盖了一些高级主题.
 * [Introduction to Statistical Learning with Application in R](http://www-bcf.usc.edu/~gareth/ISL/)   -  *统计学习要素的简化和“运作”版本*.  其作者提供的免费软拷贝.
 * [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) - 帕特里克·伯恩斯（Patrick Burns）深入了解了R的细节及其怪癖！

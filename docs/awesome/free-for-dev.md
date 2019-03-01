@@ -45,7 +45,7 @@
   * [restlet.com](https://restlet.com/products/apispark/) -  APISpark可通过直观的浏览器界面在几分钟内使任何API，应用程序或数据所有者成为API提供商
   * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
-  * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
+  * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
@@ -512,13 +512,12 @@
 
 ## Package Build System
 
-   * [build.opensuse.org](https://build.opensuse.org/) — Package build service for multiple distros (SUSE, EL, Fedora, Debian etc.)
+   * [build.opensuse.org](https://build.opensuse.org/) - 多个发行版的包构建服务（SUSE，EL，Fedora，Debian等）
    * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) - 针对Fedora和EL的基于模拟的RPM构建服务
    * [help.launchpad.net](https://help.launchpad.net/Packaging) -  Ubuntu和Debian构建服务
 
 ## IDE and Code Editing
 
-   * [codeanywhere.com](https://codeanywhere.com/)   - 浏览器和移动应用程序中的完整IDE.  访问FTP，SFTP，Dropbox，Google Drive，GitHub和BitBucket.  具有终端访问权限的托管虚拟机.  共享功能，如共享链接，实时编辑，权限和版本跟踪（免费套餐包括256MB RAM，2GB HDD，1个远程连接，不总是在机器上）
    * [codenvy.com](https://codenvy.com/) -  IDE和浏览器中的自动化开发人员工作区，协作，Git / SVN集成，在可定制的基于Docker的运行程序中构建和运行您的应用程序（免费套餐包括：3 GB RAM，同时运行多台计算机的能力），预集成部署到Google Apps
    * [visualstudio.com](https://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，基于Linux的容器通过功能齐全的基于Web的终端，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费套餐包括1GB RAM和每个容器10GB存储，5个容器插槽）

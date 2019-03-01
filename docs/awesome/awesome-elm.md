@@ -43,6 +43,7 @@
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - 使用Elm和HTML5 Drag＆Drop API构建的看板（trello-like）
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - 纯SPA（带路线）探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - 使用官方Hacker-News API使用Elm版本0.18构建的渐进式Web应用程序
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)   - 在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com)  展示如何建立一个“选择你自己的冒险”（故事）游戏;  适合初学者.  **榆树v.0.19 **
 
 
 
@@ -67,7 +68,7 @@
 * [Exercism Elm Track](http://exercism.io/languages/elm) - 收集榆树练习.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个Elm Web App.
-* [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
+* [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - 关于榆树的五部分教程.
 * [Elm Koans](https://github.com/robertjlooby/elm-koans) - 练习学习榆树的练习.
 * [Beginning Elm](http://elmprogramming.com/) - 温和地介绍Elm编程语言.
 * [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - 使用Elm构建Web应用程序的两个教程.
@@ -121,6 +122,7 @@
 * [Aaron VonderHaar: Codevember 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - 榆树直播视频示例.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
 * [Richard Feldman: Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) - 谈论在Elm中建模数据结构的方式，使无效状态不可代表
+* [Dillon Kearns: Types Without Borders](https://www.youtube.com/watch?v=memIRXFSNkU) -  elm-conf 2018使用GraphQL等外部模式讨论端到端的类型安全性.
 
 
 
@@ -167,10 +169,11 @@
 * [lazy](https://github.com/elm-lang/lazy) - 榆树的懒惰评价.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - 榆树的UI库.
 * [elm-mdl](https://github.com/debois/elm-mdl)   -  Elm中的Material Design组件库.  同 [demo](https://debois.github.io/elm-mdl/).
-* [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
+* [elmfire](https://github.com/ThomasWeiser/elmfire)   - 使用Firebase作为后端.  对于更高级别的API： [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) -  Elm的综合Bootstrap 4库. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) -  Elm的声明可视化（[Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) 积分）
 * [style-elements](https://github.com/mdgriffith/style-elements) - 一种生成Web UI的新方法，可以更轻松地处理布局和样式. [Guide](https://mdgriffith.gitbooks.io/style-elements/).
+* [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - 生成代码，为GraphQL API构建有保证的正确，类型安全的API请求.
 
 
 
@@ -203,7 +206,7 @@
 *在代码编辑器中支持Elm的工具.*
 
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) -  Atom编辑器的Elm代码linter.
-* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - 榆树为Atom提供的片段.
+* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
 * [atom-language-elm](https://atom.io/packages/language-elm) -  Atom编辑器的语法高亮和自动完成.
 * [elmjutsu](https://atom.io/packages/elmjutsu) -  Atom编辑器的自动完成，定义，查找用法，重命名符号等.
 * [atom-elm-navigator](https://atom.io/packages/elm-navigator) - 侧面板，可帮助导航到项目中的任何功能，类型定义或端口.
@@ -267,7 +270,7 @@
 * [Discourse](https://discourse.elm-lang.org/) - 榆树话语实例（官方论坛）.
 * [Reddit](https://www.reddit.com/r/elm) - 在reddit上的榆树板.
 * [IRC](http://webchat.freenode.net/?channels=elm) - 询问有关elm freenode的问题.
-* [Slack](http://elmlang.herokuapp.com/) - 榆树社区.
+* [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
 
 
 
