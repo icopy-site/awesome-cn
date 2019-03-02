@@ -22,6 +22,7 @@
 
 * [Anorm ★ 135](https://github.com/playframework/anorm) - 简单的SQL数据访问.
 * [Casbah](http://mongodb.github.io/casbah/) ([repo](https://github.com/mongodb/casbah)） -  MongoDB的官方支持Scala驱动程序
+* [Clickhouse-scala-client](https://github.com/crobox/clickhouse-scala-client) -  Clickhouse的反应客户端
 * [CouchDB-Scala ★ 59 ⧗ 21](https://github.com/beloglazov/couchdb-scala) -  CouchDB的纯功能Scala客户端
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)**  -  Scala的纯功能JDBC层.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)**  -  Elasticsearch的scala DSL /被动客户端
@@ -264,7 +265,7 @@
 * [Spark](http://spark.apache.org/)   - 闪电快速集群计算 - 迭代算法（内存缓存）比Hadoop快100倍，单通MapReduce作业比Hadoop快10倍.  与支持YARN的Hadoop集群兼容，可以在Mesos上运行，也可以在独立模式下运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) - 一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) - 基于Spark Streaming的实时聚合.
-* [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) - Spark package to "plug" holes in data using SQL based rules
+* [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -  Spark包使用基于SQL的规则“插入”数据中的漏洞
 * **[Summingbird ★ 1841 ⧗ 1](https://github.com/twitter/summingbird)**  - 作为软件抽象的“lambda体系结构”的实现 - 用于Hadoop和Storm的单一API.
 * [Vegas](https://github.com/vegas-viz/Vegas) -  Scala + Spark缺少MatPlotLib
 
@@ -346,7 +347,7 @@
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)   - 一个迷你Scala实用程序库.  兼容功能编程初学者.  具有验证，monad变换器，HLists，Union类型.
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) - 用于定义不同Id类型的公共接口的库.
 * [Lamma ★ 70 ⧗ 8](https://github.com/maxcellent/lamma) - 用于生成日期和计划的Scala日期库.
-* [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) - 大型堆外数组（&gt; 2GB）和mmap文件.
+* [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
 * [Log4s](http://www.log4s.org/) - 快速，Scala友好的日志记录绑定 [SLF4J](http://slf4j.org/) .  使用宏来获得极致性能.
 * [LogStage ★ 13 ⧗ 0](https://github.com/pshirshov/izumi-r2) - 采用[SLF4J]集成的Scala零成本结构记录器.
 * **[Monocle ★ 757 ⧗ 0](https://github.com/julien-truffaut/Monocle)**  - 用于纯函数操作不可变对象的光学/镜头库.
@@ -385,7 +386,7 @@
 * [media4s ★ 5 ⧗ 3](https://github.com/outr/media4s) - 围绕ffmpeg，ffprobe，ImageMagick以及与媒体相关的其他工具的Scala命令行包装器.
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - 一个可提高程序性能的Scala编译器插件 -  [see the project web site](http://scala-miniboxing.org) - 减少盒子
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) -  Scala开源量化交易平台
-* [Ostinato ★ 27 ⧗ 7](https://github.com/marianogappa/ostinato) - A chess library that runs on the server (Scala) and on the browser (ScalaJS)
+* [Ostinato ★ 27 ⧗ 7](https://github.com/marianogappa/ostinato) - 在服务器（Scala）和浏览器（ScalaJS）上运行的国际象棋库
 * [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - 简化包装器以在Scala中创建PDF.
 * [Play Swagger ★ 174 ⧗ 3](https://github.com/iheartradio/play-swagger) - 自动为Play REST API创建Swagger文档
 * [powerscala ★ 11 ⧗ 80](https://github.com/outr/powerscala) - 强大的框架，在Scala语言之上提供许多有用的实用程序和功能.
@@ -435,7 +436,7 @@
 
 * [Banana-RDF ★ 207 ⧗ 26](https://github.com/banana-rdf/banana-rdf)   - 针对RDF和关联数据技术的Scala友好抽象.  支持Jena，Sesame和原生Scala.
 * [rdfp ★ 4 ⧗ 50](https://github.com/jannvck/rdfp) -  Scala中的RDF流处理框架
-* [Scowl ★ 16 ⧗ 36](https://github.com/phenoscape/scowl) -  Scala DSL允许声明性方法使用OWL API编写OWL表达式和公理.
+* [Scowl ★ 16 ⧗ 36](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
 
 ## Metrics and Monitoring
 

@@ -98,6 +98,7 @@
 * [mqtt-client](https://github.com/centamiv/mqtt-client) - 实现MQTT客户端的Polymer Web组件（使用Paho mqttws31.js）.
 * [mqtt-elements](https://github.com/mqttjs/mqtt-elements) - 用于MQTT的聚合物元素.
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) -  Rust的MQTT协议库.
+* [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - 用于监控MQTT主题统计信息的订户客户端
 * [mqtt-wrapper](https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper) - 包含其他元素并将它们链接到MQTT主题的Polymer Element.
 * [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) -  Dart mqtt客户端.
 * [MQTT.js](https://github.com/mqttjs) -  Node.js的MQTT客户端.

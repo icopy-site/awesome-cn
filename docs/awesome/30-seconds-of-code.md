@@ -1901,9 +1901,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-      arr.splice（arr.indexOf（val），1）;
-      return acc.concat(val);
-    }, [])
+        arr.splice（arr.indexOf（val），1）;
+        return acc.concat(val);
+      }, [])
     : [];
 ```
 
@@ -4955,8 +4955,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -6208,11 +6208,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-        const val = obj [current];
-        acc [f（current）] =
+          const val = obj [current];
+          acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-        返回acc;
-      }, {})
+          返回acc;
+        }, {})
       ：obj;
 ```
 
@@ -6284,9 +6284,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if（acc！== undefined）return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if（acc！== undefined）return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>

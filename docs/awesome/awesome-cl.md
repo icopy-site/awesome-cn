@@ -225,8 +225,8 @@ GUI
 
 *  [Qtools](https://github.com/Shinmera/qtools/)   - 基于CommonQt的Qt工具包.  [艺术许可2.0] [51]此外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件），用 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：明星： [CommonQt](https://github.com/commonqt/commonqt)   - 通过QtSmoke对Qt4进行Common Lisp绑定.  [FreeBSD的] [39].
-* [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
-* [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL][8].
+*：明星： [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
+* [nodgui](https://notabug.org/cage/nodgui)   - 基于Ltk的Tk工具包的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)   - 绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)   -  GTK + 2的绑定.  [LLGPL] [8].
 * [ceramic](https://ceramic.github.io/)   - 使用Electron的桌面Web应用程序.  [外籍] [14].
@@ -304,7 +304,7 @@ YAML
 * [clamp](https://github.com/malisper/Clamp)   -  Arc语言对Common Lisp的简洁和简洁.  [艺术许可2.0] [51].
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
    一个可移植的库，用于检索函数的参数列表.  [艺术许可2.0] [51].
-* [modf](https://github.com/smithzvk/modf) - a setf-like macro for functional programming.
+* [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似setf的宏.
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
 
@@ -418,7 +418,7 @@ Beginner
 Intermediate
 ------------
 
-* [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats][20].
+* [ANSI Common Lisp](http://www.paulgraham.com/acl.html)   - 通过练习全面，实用地覆盖整个语言.  由于[一些警告] [20]，不推荐作为入门文本.
 * [Common Lisp Recipes](http://weitz.de/cl-recipes/)   -  ** Common Lisp Recipes **是一系列问题解决方案，也是您在Common Lisp中编写实际应用程序时可能遇到的问题的答案.  2015年出版.
 
 Advanced
@@ -441,6 +441,8 @@ Community
 ===============
 
  *：star：[Quicklisp] [16]  - 包含许多库的库管理器，具有简单的依赖性管理.  [外籍] [14].
+* [Ultralisp](http://ultralisp.org/)   -  Quicklisp发行版，每5分钟更新一次，只需单击一下即可添加项目.  [BSD] [15].
+* [Quicksys](https://lisp.com.br/quicksys/)   - 从多个Quicklisp发行版安装系统.  [MIT] [200].
 * [Roswell](https://github.com/roswell/roswell)   -  Lisp实现安装程序，脚本启动程序等.  [MIT] [200].
 * [qlot](https://github.com/fukamachi/qlot)   - 项目本地库安装程序，类似于Bundler或Carton.  [外籍] [14].
 * [Quickutil](https://github.com/tarballs-are-good/quickutil)   - 一个实用程序管理器，类似于Quicklisp，但适用于小型实用程序而不是整个库.  [3条款BSD] [15].
@@ -518,7 +520,7 @@ Web框架
 * [hh-web](https://github.com/hargettp/hh-web)   - 构建现代Web应用程序的框架.  [外籍] [14].
 * [ningle](https://github.com/fukamachi/ningle)   - 超级微型Web框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，一个扩展的和noob友好的ningle（更容易处理查询参数）.  [MIT] [200].
 * [radiance](https://github.com/Shirakumo/radiance)   -  Web应用程序环境和框架.  [艺术许可2.0] [51].
-* [Lucerne](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200].
+* [Lucerne](https://github.com/eudoxia0/lucerne)   - 基于Flack构建的基于Clack的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)   - 一个基于Clack构建的RESTful Web框架，其中路由只是函数，HTTP条件只是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)   - 用于编写REST Web API的库.  功能验证包括模式，日志记录，缓存，权限或身份验证注释，Swagger文档等.[MIT] [200].
 * [Weblocks](https://github.com/40ants/weblocks)   - 基于窗口小部件的框架，内置ajax更新机制，“解决JavaScript问题”.  [LLGPL] [8].
@@ -614,7 +616,8 @@ Deployment
   使用SBCL或CCL和最新版本的Common Lisp项目的Docker镜像
   ASDF，Qlot和Roswell.
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)   - 基于CentOS或RHEL7的Source-to-Image构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有最新的SBCL和Quicklisp安装，SLIME或SLY集成，并允许通过环境变量进行自定义.  [AGPL] [89]
-* [deploy](https://shinmera.github.io/deploy)   - 用于Lisp应用程序二进制部署的工具包，以及对外部共享库的额外支持.  [艺术许可2.0] [51].
+* [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [Artistic License 2.0][51].
+* [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)   - 使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 
 Monitoring
 ----------
@@ -832,7 +835,7 @@ Tools
 单元测试
 ============
 
-*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Prove](https://github.com/fukamachi/prove) - 又一个单元测试框架[Expat] [14].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
@@ -847,7 +850,7 @@ Tools
    库将测试覆盖率发布到Coveralls.  看到
   [continuous-integration on lisp-lang.org](http://lisp-lang.org/learn/continuous-integration)
   和
-  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD的] [39].
+  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
 
 
 Utilities
@@ -985,7 +988,7 @@ Other
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
-* [mixalot](https://github.com/ahefner/mixalot)   - 松散耦合的音频库集合.  未指定许可证.
+* [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)   - 以生产力为重点，可扩展/可编程的Web浏览器.  [3条款BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)   - 用于创建压缩数据的库.  [FreeBSD的] [39].
@@ -1022,7 +1025,7 @@ Contributing
   他们自己的部分.
 - 根据我们的经验和状态做一些策展
    图书馆的文件.  我们*不*目标列出每个现有
-  CL库（请参阅Quickdocs或Cliki），也不列出每一个
+  CL库（参见Quickdocs或Cliki），也不列出每一个
   “流行”图书馆（参见Quicklisp统计数据）.
 - 因此，我们最喜欢的库标有（`1F44D`
    unicode字符）.  另见标志中的解释

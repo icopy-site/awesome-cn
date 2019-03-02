@@ -1,12 +1,15 @@
 <div class="github-widget" data-repo="ripienaar/free-for-dev"></div>
-## free-for-dev
+## free-for.dev
+
 开发人员和开源作者现在拥有大量提供免费服务的服务，但为了做出明智的决策，很难找到所有这些服务.
 
 这是一个软件列表（SaaS，PaaS，IaaS等）和其他为开发人员提供免费层的产品.
 
  此特定列表的范围仅限于基础结构开发人员（系统管理员，DevOps从业者等）可能会发现有用的内容.  我们喜欢那里的所有免费服务，但最好保持主题.  有时候这是一条灰线，所以这有点自以为是;  如果我不接受你的贡献，不要被冒犯.
 
- 您可以通过发送Pull Requests来添加更多服务.  一旦我在这个README文件中有了一组很好的链接，我将研究一个更好的信息和链接布局（对此也有所帮助）.
+此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
+
+你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  要使服务符合条件，它必须提供免费套餐而不仅仅是免费试用.  如果Free Tier是时间段，则必须至少一年.
 
@@ -43,9 +46,9 @@
   * [dominodatalab.com](https://www.dominodatalab.com) - 支持Python，R，Spark，Hadoop，Matlab等的数据科学
   * [havenondemand.com](https://www.havenondemand.com) - 用于机器学习的API
   * [restlet.com](https://restlet.com/products/apispark/) -  APISpark可通过直观的浏览器界面在几分钟内使任何API，应用程序或数据所有者成为API提供商
-  * [scrapinghub.com](https://scrapinghub.com) — Data scraping with visual interface and plugins. Free plan includes unlimited scraping on a shared server
+  * [scrapinghub.com](https://scrapinghub.com)   - 使用可视界面和插件进行数据抓取.  免费计划包括在共享服务器上无限制地抓取
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
-  * [Diggernaut](https://www.diggernaut.com/) — Cloud based web scraping and data extraction platform for turning any website to the dataset or to work with it as with an API. Free plan includes 5K page requests monthly.
+  * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
@@ -264,7 +267,7 @@
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
   * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
-  * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
+  * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
@@ -326,7 +329,7 @@
 ## BaaS
 
   * [blockspring.com](https://www.blockspring.com/)   - 云功能.  每月免费运行500万次
-  * [postgress.com](https://www.progress.com/kinvey)   - 移动后端，入门计划具有无限的请求/秒，具有1 GB的数据存储.  企业应用支持
+  * [progress.com](https://www.progress.com/kinvey)   - 移动后端，入门计划具有无限的请求/秒，具有1 GB的数据存储.  企业应用支持
   * [backendless.com](https://backendless.com/) - 移动和Web Baas，免费提供1 GB文件存储，推送通知50000 /月，表中有1000个数据对象.
   * [hasura.io](https://www.hasura.io/) - 用于单节点群集快速，免费构建和部署应用后端的平台.
   * [pusher.com](https://pusher.com/beams)   -  2000个月活跃用户的免费无限推送通知.  适用于iOS和Android设备的单一API.
@@ -346,7 +349,7 @@
   * [simperium.com](https://simperium.com/)   - 即时自动地移动数据，多平台，无限制地发送和存储结构化数据，最多  每月2,500名用户
   * [pushcrew.com](https://pushcrew.com/)   - 推送通知服务.  最多2000个订阅者的无限通知
   * [streamdata.io](https://streamdata.io/)   - 将任何REST API转换为事件驱动的流API.  免费计划多达100万条消息和10个并发连接
-  * [posthook.io](https://posthook.io/)   - 作业调度服务.  允许您安排特定时间的请求.  500个预定请求/月免费.
+  * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
   * [paraio.com](https://paraio.com)   - 具有灵活身份验证，全文搜索和缓存的后端服务API.  免费提供1个应用程序，1GB应用程序数据.
 
 ## Web Hosting
@@ -406,7 +409,7 @@
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - 可以使用电子表格，3个电子表格和200行查询的数据库
      自由
-   * [FaunaDB](https://fauna.com/) — FaunaDB is a distributed, multi-model, ACID-compliant, and globally scalable database, free tier gives 5 GB
+   * [FaunaDB](https://fauna.com/) -  FaunaDB是一个分布式，多模型，符合ACID标准且可全局扩展的数据库，免费套餐提供5 GB
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
@@ -572,7 +575,7 @@
 
 ## Docker Related
 
-  * [Docker Hub](https://hub.docker.com) - 一个免费的私有存储库和无限的公共存储库来构建和存储Docker镜像
+  * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) - 使用无限制的免费公共存储库构建和存储容器映像
   * [canister.io](https://canister.io/) - 为开发人员提供20个免费私有存储库，30个免费私有存储库，供团队构建和存储Docker镜像
   * [Whales](https://github.com/Gueils/whales) - 免费自动停靠应用程序的工具.

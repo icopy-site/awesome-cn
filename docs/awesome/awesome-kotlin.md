@@ -325,7 +325,7 @@
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - 非官方的OpenGL SDK
 * [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) -  Oculus绑定
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) -  OpenVR绑定
-* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - 打开资产导入库端口
+* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) -  imgui的jvm端口
 * [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - 子弹口
 * [GlimpseFramework/glimpse-framework](https://github.com/GlimpseFramework/glimpse-framework) -  OpenGL变得简单.
@@ -418,6 +418,7 @@
 * [gyulavoros/kotlin-todomvc](https://github.com/gyulavoros/kotlin-todomvc) -  Kotlin TodoMVC  - 全栈Kotlin应用程序演示
 * [mkraynov/todomvc-react-kotlin](https://github.com/mkraynov/todomvc-react-kotlin) -  React Kotlin TodoMVC  - 基于create-react-kotlin-app和todomvc-react的示例
 * [IvanMwiruki/30-seconds-of-kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) - 只使用stdlib即可快速理解的有用Kotlin片段.
+* [xurxodev/integration-testing-kotlin-multiplatform-kata](https://github.com/xurxodev/integration-testing-kotlin-multiplatform-kata) - 使用Ktor和Ktor Client Mock学习如何在Kotlin多平台中使用存根HTTP的完整练习.
 
 ### <a name="projects-idea-plugins"></a>Idea Plugins <sup>[Back ⇈](#projects-idea-plugins-subcategory)</sup>
 * [Vektah/CodeGlance](https://github.com/Vektah/CodeGlance) - 用于显示类似于Sublime中的代码迷你地图的Intelij IDEA插件.
@@ -446,7 +447,7 @@
 * [grandstaish/paperparcel](https://github.com/grandstaish/paperparcel) - 专为在Android上使用Kotlin数据类而编写的Boilerplate reduction库.
 * [andre-artus/AnvilKotlin](https://github.com/andre-artus/AnvilKotlin) - 灵感来自React的Android最小UI库.
 * [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - 使用委托属性在Kotlin中为Android轻松实现的轻量级SharedPreferences库.
-* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter)   - 不要再次编写RecyclerView适配器.  甚至不是ViewHolder！.
+* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
 * [denisidoro/krouter](https://github.com/denisidoro/krouter) - 轻量级Android活动路由器.
 * [metalabdesign/AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - 基于Kotlin 1.1中引入的协同程序构建的Android的async / await.
 * [jupf/staticlog](https://github.com/jupf/staticlog) -  StaticLog  -  Kotlin，Java和Android的超轻量级静态日志.
@@ -457,7 +458,7 @@
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 用于创建没有任何XML的Material Design导航抽屉的DSL.
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) -  Android库，提供更简单的方式来实现模块化.
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
-* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) - A generalized adapter for RecyclerView on Android which makes it easy to add heterogeneous items to a list.
+* [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) -  Android上的RecyclerView的通用适配器，可以轻松地将异构项添加到列表中.
 * [calintat/alps](https://github.com/calintat/alps) - 用于首选项的Android库，包括属性委托和用于定义首选项的自定义DSL.
 * [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - 用于更轻松，更快速的Kotlin编程的Android实用程序.
 * [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - 用于数据绑定+ Kotlin + RxJava的功能构造
@@ -495,7 +496,7 @@
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - 显示今天历史上发生的事情的应用程序.
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 * [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中Java，Groovy，Scala，Kotlin的比较.
-* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - 适用于Android的免费和开源漫画阅读器.
+* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - 一个用Kotlin编写的简单的android Twitter客户端
 * [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 适用于Android 4.0+的Material Design准备和功能丰富的Twitter应用程序
 * [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 包含活动，可自定义小部件和无广告的简单日历.
@@ -539,7 +540,7 @@
 * [pixijs/pixi-native](https://github.com/pixijs/pixi-native) - 该项目的目的是提供一个适用于所有设备的快速轻量级2D库.
 * [shafirov/klogging](https://github.com/shafirov/klogging) -  Kotlin伐木，js和jvm.
 * [stangls/kotlin-js-jquery](https://github.com/stangls/kotlin-js-jquery) - 在Kotlin中编写客户端Web应用程序的小框架.
-* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) -  Kotlin全栈应用示例.
 * [danfma/kodando](https://github.com/danfma/kodando) -  Kotlin JS绑定和库.
 * [kengorab/kotlin-javascript-boilerplate](https://github.com/kengorab/kotlin-javascript-boilerplate) - 用于将Kotlin编译为Javascript的极端准系统样板项目.
 * [markaren/three.kt](https://github.com/markaren/three.kt) - 用于three.js JavaScript 3D库的Kotlin包装器
@@ -724,7 +725,7 @@
 * [Lagos Kotlin User Group](https://www.meetup.com/Lagos-Kotlin-Meetup/) - 尼日利亚
 * [Lome Kotlin User Group](https://www.facebook.com/groups/1825278611119862/) - 多哥
 * [Minya Kotlin User Group](https://www.facebook.com/kotlinminya/) - 埃及
-* [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - Kenya
+* [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - 肯尼亚
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/) - 喀麦隆
 * [Ondo Kotlin User Group](https://www.meetup.com/Kotlin-Ondo-User-Group/) - 尼日利亚
 * [Ouagadougou Kotlin User Group](https://www.facebook.com/groups/649651491892414/) - 布基纳法索
@@ -823,7 +824,7 @@
 * [More Kotlin Extension Fun](http://kotlin.link/articles/More-Kotlin-Extension-Fun.html) - 邓肯麦格雷戈
 * [PultusORM : Sqlite ORM for Kotlin](http://kotlin.link/articles/PultusORM-Sqlite-ORM-for-Kotlin.html) -  Sakib Sami
 * [Experimenting with “mutation testing” and Kotlin](http://kotlin.link/articles/Experimenting-with-mutation-testing-and-Kotlin.html) - 伊恩克拉克
-* [Extension functions for more consistent APIs](http://kotlin.link/articles/Extension-functions-for-more-consistent-APIs.html) striped  -  N ！lasF穷 ！泪
+* [Extension functions for more consistent APIs](http://kotlin.link/articles/Extension-functions-for-more-consistent-APIs.html) - NicolasFränkel
 * [Taking Kotlin for a ride](http://kotlin.link/articles/Taking-Kotlin-for-a-ride.html) -  Hadi Tok
 * [A new hope for the JVM: Kotlin](http://kotlin.link/articles/A-new-hope-for-the-JVM-Kotlin.html) - 贾科莫·布雷西亚尼
 * [Swift vs Kotlin for real iOS/Android apps](http://kotlin.link/articles/Swift-vs-Kotlin-for-real-iOS-Android-apps.html) -  Angel G. Olloqui
@@ -836,7 +837,7 @@
 * [Kotlin for Data Science](http://kotlin.link/articles/Kotlin-for-Data-Science.html) - 托马斯·尼尔德
 * [A Whirlwind Tour of the Kotlin Type Hierarchy](http://kotlin.link/articles/A-Whirlwind-Tour-of-the-Kotlin-Type-Hierarchy.html) -  Nat Pryce
 * [Zero boilerplate delegation in Kotlin](http://kotlin.link/articles/Zero-boilerplate-delegation-in-Kotlin.html) - PiotrŚlesarew
-* [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) striped  -  N ！lasF穷 ！泪
+* [Easy DSL design with Kotlin](http://kotlin.link/articles/Easy-DSL-design-with-Kotlin.html) - NicolasFränkel
 
 ### <a name="articles-blog-posts-september-2016"></a>September 2016 <sup>[Back ⇈](#articles-blog-posts-september-2016-subcategory)</sup>
 * [Kotlin census: call to action](http://kotlin.link/articles/Kotlin-census-call-to-action.html) - 罗曼贝洛夫
@@ -863,7 +864,7 @@
 * [The Next Language You Thought You Didn’t Need](http://kotlin.link/articles/Kotlin-–-The-Next-Language-You-Thought-You-Didn’t-Need.html) -  Jay Dellinger
 * [Kotlin: The Good, The Bad, and The Ugly](http://kotlin.link/articles/Kotlin-The-Good-The-Bad-and-The-Ugly.html) -  AJ Alt
 * [Decision Trees with Kotlin](http://kotlin.link/articles/Decision-Trees-with-Kotlin.html) - 马克加莱亚
-* [Scala vs Kotlin: inline and infix](http://kotlin.link/articles/Scala-vs-Kotlin-inline-and-infix.html) striped  -  N ！lasF穷 ！泪
+* [Scala vs Kotlin: inline and infix](http://kotlin.link/articles/Scala-vs-Kotlin-inline-and-infix.html) - NicolasFränkel
 * [Improved Pattern Matching in Kotlin](http://kotlin.link/articles/Improved-Pattern-Matching-in-Kotlin.html) - 雅各布齐默尔曼
 * [Getting started with Kotlin in Android development](http://kotlin.link/articles/Getting-started-with-Kotlin-in-Android-development.html) - 德米特里Chyrta
 * [Kotlin: val does not mean immutable, it just means readonly, yeah](http://kotlin.link/articles/Kotlin-val-does-not-mean-immutable-it-just-means-readonly-yeah.html) -  Artem Zinnatullin
@@ -874,9 +875,9 @@
 ### <a name="articles-blog-posts-july-2016"></a>July 2016 <sup>[Back ⇈](#articles-blog-posts-july-2016-subcategory)</sup>
 * [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - 康斯坦丁·谢苗诺夫
 * [Never say final: mocking Kotlin classes in unit tests](http://kotlin.link/articles/Never-say-final-mocking-Kotlin-classes-in-unit-tests.html) - 丹尼普瑞斯勒
-* [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) striped  -  N ！lasF穷 ！泪
+* [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫
-* [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) striped  -  N ！lasF穷 ！泪
+* [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) - NicolasFränkel
 * [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) - PrzemekDąbrowski
 * [JUnit 5 with Spring Boot (plus Kotlin)](http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) -  Mike Plummer
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) -  Artem Zinnatullin
@@ -1070,12 +1071,12 @@
 ### <a name="videos-december-2016"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
 * [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) -  Haim Yadid
 * [Functional Programming in Kotlin with funKTionale (Video)](http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - 马里奥阿里亚斯
-* [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) -  Francisco Estevez
+* [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) - Francisco Estevez
 * [Costruiamo un treno in Kotlin](http://kotlin.link/articles/Costruiamo-un-treno-in-Kotlin.html) -  Francesco Vasco
 * [Kotlin: Будущие изменения и текущие мифы](http://kotlin.link/articles/Kotlin-Будущие-изменения-и-текущие-мифы.html) -  Faces中的Android
 
 ### <a name="videos-november-2016"></a>November 2016 <sup>[Back ⇈](#videos-november-2016-subcategory)</sup>
-* [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - Anton Keks
+* [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - 安东凯克斯
 * [10 Kotlin Tricks in 10(ish) Minutes](http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - 杰克沃顿
 * [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) -  JetBrains
 * [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -  Nevin Chen

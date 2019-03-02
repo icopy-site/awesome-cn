@@ -52,6 +52,7 @@
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - 现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)   - 如何做好.  [```[CC0-1.0]```] [CC0-1.0]
 * [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的CMake  -  Deniz Bahadir，Meeting C ++ 2018.
+* [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)   - 修改默认的CMake构建类型/标志，工具链和补丁 - 哦，我的！   - 克里斯蒂安亚当.
 
 ## Package Management / Build Systems
 
@@ -63,7 +64,7 @@
 * [fips](https://github.com/floooh/fips)   - 用于分布式多平台C / C ++项目的高级构建系统/依赖关系管理.  [```[MIT]```] [MIT]
 * [Ninja](https://github.com/ninja-build/ninja)   - 在两个主要方面构建与其他系统不同的系统：它旨在使其输入文件由更高级别的构建系统（如CMake）生成，并且旨在尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)   - 获取和构建C ++开源库的工具.  在内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
-* [pmm](https://github.com/vector-of-bool/pmm)   -  PMM是CMake的一个模块，用于管理包管理器.  [```[MIT]```] [MIT]
+* [pmm](https://github.com/vector-of-bool/pmm) - PMM is a module for CMake that manages... package managers. [```[MIT]```][MIT]
 
 ## Modules
 
@@ -85,7 +86,7 @@
 
 ## Utility Scripts
 
- 它们提供了广泛的功能 - 从处理编译器标志到使用工具.  有些还包含模块.
+ 它们提供了广泛的功能 - 从处理编译器标志到使用工具.  enhanced还包含一些模块Never.
 
 * [cotire](https://github.com/sakra/cotire)   -  Cotire（编译时缩减器）是一个CMake模块，它通过完全自动化技术作为预编译头和C和C ++的统一构建来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)   - 用于管理编译器/链接器标志，收集源，预编译头，统一构建等.  [```[MIT]```] [MIT]
@@ -135,7 +136,7 @@
 * [CMakeTemplates](https://github.com/OutOfOrder/CMakeTemplates)   - 我用于每个游戏端口的初始CMake模板集.  ```[NO LICENSE]```
 * [minimal_cmake_example](https://github.com/krux02/minimal_cmake_example)   - 最小CMake示例，涵盖依赖关系和打包.  [```[CC0-1.0]```] [CC0-1.0]
 * [cmake-example](https://github.com/bast/cmake-example)   - 演示各种CMake功能的示例项目.  [```[BSD3]```] [BSD3子句]
-* [cmake-examples](https://github.com/ttroy50/cmake-examples) - Useful CMake examples in a tutorial format. [```[MIT]```][MIT]
+* [cmake-examples](https://github.com/ttroy50/cmake-examples)   - 教程格式中有用的CMake示例.  [```[MIT]```] [MIT]
 * [cmake-templates](https://github.com/district10/cmake-templates)   - 一些CMake模板.  Qt，Boost，OpenCV，C ++ 11等等[```[MIT]```[MIT]
 * [CppProjectTemplate](https://github.com/Barthelemy/CppProjectTemplate)   - 使用CMake，boost和Doxygen的基础但有效的C ++项目.  [```[MIT]```] [MIT]
 * [mini-cmake-qt](https://github.com/euler0/mini-cmake-qt)   -  Qt 5项目的最小CMake模板.  [```[LICENSE]```]（https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE）
