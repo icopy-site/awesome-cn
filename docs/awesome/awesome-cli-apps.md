@@ -72,7 +72,7 @@
 
 - [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
 - [boilr](https://github.com/tmrts/boilr) - 无依赖关系的CLI，用于从样板模板创建项目.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从cookiecutters（项目模板）创建项目.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
 - [dockly](https://github.com/lirantal/dockly) - 用于管理Docker容器的交互式CLI.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [legit](https://github.com/captainsafia/legit) - 从许多开源许可证中进行选择以生成LICENSE文件或向文件添加许可证头.
@@ -92,9 +92,9 @@
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
 - [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是上升还是下降.
-- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
+- [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - 检查npm上是否有可用的包名.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - 获取npm用户的用户信息.
-- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
+- [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从CSS中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到Web.
@@ -138,27 +138,39 @@
 - [bitly-client](https://github.com/specious/bitly-client) - 使用此命令行实用程序创建和管理Bitly短链接.
 - [doing](https://github.com/ttscoff/doing/) - 一个命令行工具，用于跟踪您正在做的事情并跟踪您已完成的工作.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频覆盖和多显示器支持的ffmpeg截屏视频.
-- [idea](https://github.com/IonicaBizau/idea) - 轻量级的CLI工具和模块，可以快速，轻松地将想法保存在安全的地方.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 上传图片到imgur.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote的控制台客户端.
-- [ledger](http://ledger-cli.org) - 强大的复式会计系统，可从UNIX命令行访问.
 - [meetup-cli](https://github.com/specious/meetup-cli) -  Meetup.com命令行界面.
 - [The Mutt E-Mail Client](http://www.mutt.org/) - 邮件客户端.
 - [Taskwarrior](http://taskwarrior.org) - 免费和开源软件，从您的命令行管理您的TODO列表.
-- [Timetrap](https://github.com/samg/timetrap) - 简单的命令行timetracker.
 - [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具.
 - [ipt](https://github.com/drselump14/ipt) - 关键跟踪器的命令行界面.
 - [g3l](https://github.com/svtek/g3l) -  Git很简单，github cli很容易，但是在w0rld中g3l最简单的git cli！
 - [uber-cli](https://github.com/jaebradley/uber-cli) - 优步，触手可及.
-- [moro](https://github.com/omidfi/moro) - 使用单个命令的时间跟踪器.
 - [Buku](https://github.com/jarun/Buku) - 强大的命令行书签管理器.
 - [googler](https://github.com/jarun/googler) - 来自终端的Google搜索，Google Site Search，Google新闻.
 - [calcurse](http://calcurse.org/) - 计算，命令行的日历和计划应用程序.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
 - [papis](http://github.com/alejandrogallo/papis) - 功能强大且可扩展的文档和参考书目管理器.
+- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
+
+### Time Tracking
+
+- [Timetrap](https://github.com/samg/timetrap) - 简单的命令行timetracker.
+- [moro](https://github.com/omidfi/moro) - 使用单个命令的时间跟踪器.
+
+### Note Taking and Lists
+
+- [idea](https://github.com/IonicaBizau/idea) - 轻量级的CLI工具和模块，可以快速，轻松地将想法保存在安全的地方.
+- [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote的控制台客户端.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) -  UNIX终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - 一个简单的Python应用程序，可让您通过命令行访问Simplenote帐户.
+
+### Finance
+
+- [ledger](http://ledger-cli.org) - 强大的复式会计系统，可从UNIX命令行访问.
+- [moeda](https://github.com/thompsonemerson/moeda) - 使用CLI进行外汇汇率和货币兑换.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
+- [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
 
 ## Utilities
 
@@ -175,7 +187,6 @@
 - [mklicense](https://github.com/cezaraugusto/mklicense)   - 使用自定义信息轻松创建自定义LICENSE文件.  忙碌的人和初学者友好.
 - [share-cli](https://github.com/marionebl/share-cli) - 从命令行快速与本地网络共享文件.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - 快速与您的命令行共享文件.
-- [moeda](https://github.com/thompsonemerson/moeda) - 使用CLI进行外汇汇率和货币兑换.
 - [wego](https://github.com/schachmat/wego) - 在浏览器或控制台中获取天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器 - 控制台中的整个世界！
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中快速观看窗口，无需关闭或打开另一个全屏窗口.
@@ -183,7 +194,9 @@
 - [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
 - [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
-- [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
+- [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
+- [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
+- [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
 
 ### macOS
 
@@ -195,6 +208,20 @@
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ id / etc.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置MacOS安全设置.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) - 轻松创建已安装软件包，dotfiles等的轻量级文档.
+
+### Terminal Utilities
+
+- [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露在世界各地，以便于测试和共享.
+- [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
+- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
+- [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
+- [seashells.io](https://seashells.io/) - 从命令行程序实时管道输出到Web.
+- [teleconsole](https://www.teleconsole.com/) - 在几秒钟内共享您的UNIX终端.
+- [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
+- [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
+- [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
 
 ## Command Line Learning
 
@@ -208,10 +235,9 @@
 - [Wat](https://github.com/dthree/wat) - 即时，中央，社区建立的文档.
 - [teachcode](https://github.com/madlabsinc/teachcode) - 通过引入最早的编码课程来开发和提高学生编程技能的工具.
 
-
 ## Data Manipulation
 
-- [jq](https://github.com/stedolan/jq) - 命令行JSON处理器 [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/).
+- [jq](https://github.com/stedolan/jq) - 命令行JSON处理器.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于攻击JSON和Javascript的命令行实用程序带.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 用于处理具有功能管道的数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - 用于查询和更新YAML文件的简单CLI.
@@ -220,7 +246,7 @@
 
 ## Files and Directories
 
-### File managers
+### File Managers
 
 - [ranger](https://github.com/ranger/ranger) - 具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - 功能丰富的可视文件管理器.
@@ -232,7 +258,6 @@
 
 - [trash-cli](https://github.com/sindresorhus/trash-cli) - 将文件和目录移动到废纸篓.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
-- [trashss](https://github.com/sotojuan/trashss) - （仅限）桌面上的垃圾截图.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.
 - [rename-cli](https://github.com/jhotmann/node-rename-cli) - 一种跨平台工具，用于快速重命名文件，尤其是一次更多文件.
@@ -244,6 +269,8 @@
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)   - 从JSON中删除评论.  允许您在JSON文件中使用注释！
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) - 带翅膀的猫（1）克隆.
+- [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
 
 ### Directory Listing
 
@@ -252,7 +279,7 @@
 
 ### Directory Navigation
 
-- [autojump](https://github.com/wting/autojump) - 学习的cd命令 - 轻松地从命令行导航目录 -  [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki).
+- [autojump](https://github.com/wting/autojump) - 学习的cd命令 - 轻松地从命令行导航目录.
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对autojump，z和v的启发的文件和目录的快速访问.
 - [pm](https://github.com/Angelmmiguel/pm) - 在shell上切换到项目的简便方法.
 - [z](https://github.com/rupa/z) -  z是新的j，哟.
@@ -261,21 +288,6 @@
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
 - [fz](https://github.com/changyuheng/fz) -  z的无缝模糊选项卡完成.
 - [goto](https://github.com/iridakos/goto) - 具有自动完成功能的shell的目录别名.
-
-## Terminal Utilities
-
-- [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露在世界各地，以便于测试和共享.
-- [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
-- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
-- [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
-- [seashells.io](https://seashells.io/) - 从命令行程序实时管道输出到Web.
-- [teleconsole](https://www.teleconsole.com/) - 在几秒钟内共享您的UNIX终端.
-- [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
-- [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
-- [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
 
 ## Version Control
 

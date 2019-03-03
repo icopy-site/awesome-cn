@@ -68,7 +68,7 @@
 * [graphql-request](https://github.com/prismagraphql/graphql-request) - 用于节点和浏览器的最小GraphQL客户端.
 * [FetchQL](https://github.com/gucheen/FetchQL) - 使用Fetch的简单GraphQL查询客户端.
 * [urql](https://github.com/FormidableLabs/urql) -  React的简单缓存GraphQL客户端.
-* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)   - 用于将GraphQL添加到React的轻量级实用程序.  组件.  包括简单缓存并使用GET请求，这些请求还可以通过服务工作者缓存.
+* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
 * [Lokka](https://github.com/kadirahq/lokka) -  GraphQL的简单JavaScript客户端，您可以在任何地方使用它.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - 通过Redux与Graphql通信的库.
 * [Grafoo](https://github.com/grafoojs/grafoo) - 一个小型但完全成熟的基于缓存的GraphQL客户端
@@ -81,7 +81,7 @@
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) -  CodeMirror的GraphQL模式和帮助程序.
-* [graphql-schema](https://github.com/devknoll/graphql-schema) - 使用流畅/可链接的界面创建GraphQL模式.
+* [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -  GraphQL的Sequelize助手.
 * [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize) - 使用Sequelize ORM的GraphQL-Tools的OO样式的模式定义函数和模式解析器函数
 * [graphql-tools-types](https://github.com/rse/graphql-tools-types) - 用于GraphQL-Tools的自定义GraphQL类型（Void，Int，Float，String，Date，UUID，JSON）
@@ -105,8 +105,8 @@
 * [gql-tools](https://github.com/almilo/gql-tools) - 带有CLI的工具库，用于模式生成和操作.
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date)   - 与GraphQL.js一起使用的GraphQL日期标量类型.  此标量表示ISO 8601格式YYYY-MM-DD的日期.
 * [graphql-compose](https://github.com/nodkz/graphql-compose) - 工具，允许您通过插件从不同的数据源构建灵活的graphql架构.
-* [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - 使用连接，SQL或其他方式创建GraphQL API.
-* [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
+* [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
+* [Join Monster](https://github.com/acarl005/join-monster) - 用于批量数据提取的GraphQL-to-SQL查询执行层.
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [GRelDAL](https://gql-dal.github.io/greldal/) - 一个简单的微框架，用于关系数据存储和GraphQL API之间的双向映射.
@@ -121,7 +121,7 @@
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - 使用没有GraphQL服务器的中继.
 * [relay-sink](https://github.com/acdlite/relay-sink) - 使用Relay在React组件之外获取和存储数据.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - 为Relay重新组合助手.
-* [Graylay](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
+* [Graylay](https://github.com/larsbs/graysql#Graylay) -  GraysQL扩展，用于创建与中继兼容的模式.
 * [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - 用于Relay的网络层，具有查询批处理和中间件支持（urlThunk，retryThunk，auth，defer等）.
 * [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - 对Relay的订阅支持.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - 一个示例网站，从各种api获取数据，并使用Relay和GraphQL将数据提供给React组件！
@@ -166,7 +166,7 @@
 * [django-graphiql](https://github.com/graphql-python/django-graphiql) - 将GraphiQL轻松集成到Django项目中.
 * [flask-graphql](https://github.com/graphql-python/flask-graphql) - 为Flask应用程序添加GraphQL支持.
 * [python-graphql-client](https://github.com/graphcool/python-graphql-client) - 用于Python 2.7+的简单GraphQL客户端
-* [python-graphjoiner](https://github.com/healx/python-graphjoiner) - 使用连接，SQL或其他方式创建GraphQL API.
+* [python-graphjoiner](https://github.com/healx/python-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
 * [graphene-django](https://github.com/graphql-python/graphene-django) - 用于石墨烯的Django集成.
 * [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - 来自flask-jwt-extended的Flask认证库.
 
@@ -200,7 +200,7 @@
 * [graphql-go](https://github.com/graph-gophers/graphql-go) - 专注于易用性的GraphQL服务器（https://github.com/neelance/graphql-go）.
 * [GQLGen](https://github.com/99designs/gqlgen) - 去生成基于graphql的服务器库.
 * [machinebox/graphql](https://github.com/machinebox/graphql) -  Go的简单低级GraphQL客户端
-* [graphql-relay-go](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
+* [graphql-relay-go](https://github.com/graphql-go/relay) -  Go / Golang库，用于帮助构建支持反应中继的服务器.
 * [graphql](https://github.com/tmc/graphql) -  Go的GraphQL解析器和服务器.
 * [c-graphqlparser](https://github.com/tecbot/c-graphqlparser) - 用于解析GraphQL的libgraphqlparser C库的可用版本.
 * [tallstreet-graphql](https://github.com/tallstreet/graphql) - 利用libgraphqlparser的Go的GraphQL解析器和服务器
@@ -247,6 +247,7 @@
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL) -  Postgres的GraphQL.
 * [sql-to-graphql](https://github.com/rexxars/sql-to-graphql) - 根据您的SQL数据库结构生成GraphQL API.
 * [PostGraphQL](https://github.com/calebmer/postgraphql) - 通过PostgreSQL模式的反射创建的GraphQL模式.
+* [Hasura](https://github.com/hasura/graphql-engine)   -  Hasura通过PostgreSQL提供Instant Realtime GraphQL API.  也适用于现有数据库.
 
 <a name="lib-lua" />
 

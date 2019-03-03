@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
-## Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)  ![147 playgrounds](https://img.shields.io/badge/Playgrounds:-147-orange.svg) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20more%20than%20150%20Awesome%20Swift%20Playgrounds&url=https://github.com/uraimo/Awesome-Swift-Playgrounds&via=uraimo)
+## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![146 playgrounds](https://img.shields.io/badge/Playgrounds:-146-orange.svg)
 
 &gt;精选Swift游乐场的精选列表.
 
@@ -165,7 +165,6 @@
 * [UIStackView Playground](https://github.com/dasdom/UIStackViewPlayground) - 使用UIStackViews的有趣例子.
 * [Bezier Path Playgrounds](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - 一些更好地了解UIBezierPaths的游乐场.
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) - 运动场以UIKit视图交互式实验.
-* [Checkmark Button](https://github.com/BilalReffas/CheckmarkButton) - Animated check mark button.
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) - 使用几乎所有UIDynamic行为的多个游乐场.
 * [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground)  - 使用WWDC16 ASCII纹理绘制徽标或任何文本.  
 * [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - 用于生成动画GIF的Swift游乐场.
@@ -234,7 +233,7 @@
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - 带RxSwift示例的游乐场.
 
 ## Playground Sets
-*关于各种主题的游乐场集*
+*Sets of playgrounds about various topics*
 
 * [Public Extensions](https://github.com/Jasdev/Public-Extension) - 一组有用的扩展 [@PublicExtension](https://twitter.com/publicextension). 
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - 丰富有趣的游乐场，为了娱乐和利润. 

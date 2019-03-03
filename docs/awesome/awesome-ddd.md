@@ -48,7 +48,7 @@
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -  DDD模式和定义的摘要.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - 领域驱动设计快速简化，快速阅读的DDD基础知识摘要和介绍.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) - 在这个由三部分组成的系列中，Vaughn Vernon介绍了一些常见的设计缺陷，讨论了各种聚合建模选择的优缺点，并提供了指导聚合建模的经验法则.
-- [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - Describes three strategies for getting started with DDD when you have a big commitment to legacy systems.
+- [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - 描述了对遗留系统做出巨大贡献时开始使用DDD的三种策略.
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - 了解Living Documentation如何在项目的各个方面为您提供帮助，从业务目标到业务领域知识，架构和设计，流程和部署，即使您讨厌编写文档.
 - [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - 介绍如何开发基于微服务的应用程序并使用容器管理它们. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) -  68页长的免费电子书，关于DDD，CQRS和事件采购是什么，以及它们如何相互适应.
@@ -74,7 +74,7 @@
 
 - [DDD Europe](https://dddeurope.com) - 记录在DDD Europe发表的谈话.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - 搜索DDD返回Greg Young，Alberto Brandolini和Dan North等人的各种演讲.
-- [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) - A YouTube collection of talks given by Alberto Brandolini on Event Storming.
+- [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) -  Alberto Brandolini在Event Storming上发表的YouTube演讲集.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) -  Greg Young提供的各种演讲的YouTube收藏.
 - [Explore DDD videos](https://www.youtube.com/channel/UCcpKGt6MVvz7dISXLlMGmag) - 记录探索DDD会议上的讲座.
 - [KanDDDinsky](https://www.youtube.com/channel/UCJCpnslPdb_Dl8DKokXC3HA) -  KanDDDinsky提供的YouTube会谈集.
@@ -137,21 +137,22 @@
 
 ### .NET (C#/F#)
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - 使用GetEventStore，CommonDomain，NServiceBus，Entity Framework，SQL Server，SignalR的域驱动设计，CQRS和事件源示例.
-- [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - 基于事件的Micro ERP. 
+- [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - An event based Micro ERP. 
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - 具有完整.NET Framework的ASP.NET Core上的ContosoUniversity.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
-- [EmailMaker](https://github.com/xhafan/emailmaker) - Email marketing ASP.NET Core MVC and ASP.NET MVC demo app demonstrating [CoreDdd](https://github.com/xhafan/coreddd) 用法
+- [EmailMaker](https://github.com/xhafan/emailmaker) - 电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) -  eShop fullstack示例，包含目录，购物篮，结帐和订单有限的上下文
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - 具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d)   - 用于棋子游戏的域驱动设计示例.  有两个文件：带有一系列设计的临时文件和最终版本.
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) -  Mark Nijhof陪同的示例项目 [CQRS](https://leanpub.com/cqrs) 书.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-- [Lokad IDDD Sample](https://github.com/Lokad/lokad-iddd-sample) - 这是一个.NET示例项目，附带Vaughn Vernon的书中的事件采购材料：实现域驱动设计.
+- [Lokad IDDD Sample](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) -  CQRS Journey的示例代码.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) （.Net Core Preview 2） - 一个N层架构示例项目.
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) -  Adaptive Consulting的Reactive Trader Cloud.
+- [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - 使用Clean Architecture的原始SQL和DDD的.NET Core REST API CQRS实现.
 - [Scritchy](https://github.com/ToJans/Scritchy) - 没有管道的CQRS， [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
 - [SimpleCQRS](https://github.com/gregoryyoung/m-r) -  Greg Young的“最简单的事情”CQRS与事件采购项目.
@@ -166,7 +167,7 @@
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - 在Scala-Akka中实施CQRS和事件采购模式的演示项目.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) -  DDD-CQRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模.
-- [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) -  Java代码的事件源和CQRS实现的简化（内存中）示例（为银行域用例建模）.
+- [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -  Java中的事件源和CQRS的实用应用，具有对常见相关问题的良好参考，例如事件排序和幂等性.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - 带有Command Query Responsibility Segregation的示例事件源应用程序
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - 这些是Vaughn Vernon出版的“实现领域驱动设计”一书中的有限上下文示例.
@@ -188,6 +189,7 @@
 - [Cirqus](https://github.com/d60/Cirqus) -  d60事件采购+ CQRS框架.
 - [CoreDdd](https://github.com/xhafan/coreddd) - 一组开源.NET库，帮助DDD和CQRS，具有NHibernate持久性
 - [CQRS on Azure](https://github.com/MerrionComputing/CQRSAzure) Windows Azure上的CQRS.
+- [Dolittle](https://dolittle.com)   - 使用Dolittle构建更好的应用程序.  一个面向DDD的事件源微服务平台，具有开发人员的工作效率和简单的前端和中心.
 - [EventFlow](https://github.com/eventflow/EventFlow) -  Async /等待.NET的第一个CQRS + ES和DDD框架http://geteventflow.net/.
 - [Its.Cqrs](https://github.com/jonsequitur/Its.Cqrs) - 用于CQRS和事件采购的一组库，具有域驱动设计风格.
 - [MassTransit](https://github.com/MassTransit/MassTransit) -  .NET分布式应用程序框架.

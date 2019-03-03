@@ -231,7 +231,7 @@
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
 * [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
-* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码的清洁和一致性.
+* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码清洁和一致.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.
@@ -516,6 +516,7 @@
 * [CSS Stats](https://github.com/cssstats/cssstats) - 样式表上可能有趣的统计数据
 * [CSScomb](https://github.com/csscomb/csscomb.js)   -  CSS的编码风格格式化程序.  支持自己的配置，使样式表美观且一致
 * [CSSLint](https://github.com/CSSLint/csslint) - 进行基本语法检查并发现有问题的模式或效率低下的迹象
+* [GraphMyCSS.com](https://graphmycss.com) -  CSS特异性图生成器
 * [Parker](https://github.com/katiefenn/parker) - 样式表分析工具
 * [Project Wallace CSS Analyzer](https://github.com/projectwallace/css-analyzer) -  CSS的分析，部分 [Project Wallace](https://www.projectwallace.com)
 * [sass-lint](https://github.com/sasstools/sass-lint) - 用于sass和scss语法的仅限节点的Sass linter.
@@ -588,6 +589,7 @@
 
 ## Writing
 
+* [After the Deadline](https://afterthedeadline.com/) ：警告： - 拼写，风格和语法检查
 * [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码
 * [languagetool](https://github.com/languagetool-org/languagetool)   -  25种语言的风格和语法检查.  它发现了一个简单的拼写检查程序无法检测到的许多错误.
 * [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复常见拼写错误的快速工具，源代码中的拼写错误

@@ -8,7 +8,7 @@
   
   如果您在D中知道一个有趣的lib / app，请通过问题或拉取请求告诉我:-).
   
- 
+
 	- 基本信息
 	- 文件
 	- 语言相关 
@@ -73,7 +73,7 @@
 * [EMSI](https://github.com/economicmodeling)   - 以D为主要语言的职业建筑公司.  托管他们的开源项目.
 * [infognition](http://www.infognition.com/company.html)   -  Infognition是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术.  他们提供了几个用D语言编写的开源视频相关应用程序和工具 [bitbucket](https://bitbucket.org/infognition/) .  他们也在搬运他们的主要产品 - [Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -  D的数字图书馆开发团队
-* [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org) .  开源的大部分代码库都是其中的一部分 [tsunami](https://github.com/sociomantic-tsunami) 组织.
+* [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) 组织.
 
 ## Books
 * D相关书籍.*你可以找到另一本书的清单 [Books](http://wiki.dlang.org/Books) D维基页面.
@@ -196,7 +196,7 @@
 *完整的堆栈Web框架.*
 * [Hunt](http://www.huntframework.com/)   -  Hunt是一个高级D编程语言Web框架，鼓励快速开发和清洁，实用的设计.  它使您可以快速轻松地构建高性能Web应用程序.
 * [vibe.d](http://vibed.org/) - 用D编写的异步I / O Web框架，用D编写.
-* [arsd](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
+* [arsd](https://github.com/adamdruppe/arsd) -  Adam D. Ruppe的网络框架.
 * [cmsed](https://github.com/rikkimax/Cmsed) - 用作Vibe的Vibe组件库.
 * [Diamond](https://diamondmvc.org/) - 基于vibe.d的全栈Web框架，针对小型和大型项目，针对企业开发和高性能Web解决方案.
 
@@ -309,6 +309,7 @@
 * [DSFML](https://github.com/Jebbs/DSFML)   - 以对D有意义的方式对SFML进行静态绑定 <http://dsfml.com/>  .
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) -  Dle binding / wrapper到Allegro 5，一个现代游戏编程库.
 * [Voxelman](https://github.com/MrSmith33/voxelman) - 用D语言编写的基于插件的客户端 - 服务器体素游戏引擎
+* [PolyplexEngine](https://github.com/PolyplexEngine/libpp) -  libpp是一个用D编写的XNA框架.
 
 ## Games
 

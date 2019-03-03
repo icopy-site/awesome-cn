@@ -29,65 +29,37 @@
 * [python-patterns](https://github.com/faif/python-patterns) -  Python中的一组设计模式.
 * [sortedcontainers](http://www.grantjenks.com/docs/sortedcontainers/) -  SortedList，SortedDict和SortedSet类型的快速，纯Python实现.
 
-## Anti-spam
-
-*反垃圾邮件的图书馆.*
-
-* [django-simple-captcha](https://github.com/mbi/django-simple-captcha) - 一个简单且高度可定制的Django应用程序，可将验证码图像添加到任何Django表单中.
-* [django-simple-spam-blocker](https://github.com/moqada/django-simple-spam-blocker) -  Django的简单垃圾邮件拦截器.
-
-## Asset Management
-
-*用于管理，压缩和缩小网站资产的工具.*
-
-* [django-compressor](https://github.com/django-compressor/django-compressor) - 将链接和内联JavaScript或CSS压缩到单个缓存文件中.
-* [django-pipeline](https://github.com/jazzband/django-pipeline) -  Django的资产包装库.
-* [django-storages](https://github.com/jschneier/django-storages) -  Django的自定义存储后端集合.
-* [fanstatic](http://www.fanstatic.org/en/latest/) - 作为Python包，包，优化和提供静态文件依赖性.
-* [fileconveyor](http://wimleers.com/fileconveyor) - 用于检测文件并将文件同步到CDN，S3和FTP的守护程序.
-* [flask-assets](https://github.com/miracle2k/flask-assets) - 帮助您将webassets集成到Flask应用程序中.
-* [jinja-assets-compressor](https://github.com/jaysonsantos/jinja-assets-compressor) -  Jinja扩展程序，用于编译和压缩您的资产.
-* [webassets](https://github.com/miracle2k/webassets) - 捆绑，优化和管理静态资源的唯一缓存清除URL.
-
 ## Audio
 
-*用于操纵音频的库.*
+*用于处理音频及其元数据的库.*
 
-* [audiolazy](https://github.com/danilobellini/audiolazy) - 用于Python的表达式数字信号处理（DSP）包.
-* [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
-* [beets](http://beets.io/) - 音乐图书馆经理和 [MusicBrainz](https://musicbrainz.org/) 标签.
-* [dejavu](https://github.com/worldveil/dejavu) - 音频指纹识别和识别.
-* [django-elastic-transcoder](https://github.com/StreetVoice/django-elastic-transcoder) -  Django + [Amazon Elastic Transcoder](https://aws.amazon.com/elastictranscoder/).
-* [eyeD3](http://eyed3.nicfit.net/) - 用于处理音频文件的工具，特别是包含ID3元数据的MP3文件.
-* [id3reader](https://nedbatchelder.com/code/modules/id3reader.py) - 用于读取MP3元数据的Python模块.
-* [m3u8](https://github.com/globocom/m3u8) - 用于解析m3u8文件的模块.
-* [mingus](http://bspaans.github.io/python-mingus/) - 具有MIDI文件和播放支持的高级音乐理论和乐谱包.
-* [mutagen](https://github.com/quodlibet/mutagen) - 用于处理音频元数据的Python模块.
-* [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) -  Python音频分析库：特征提取，分类，分割和应用
-* [pydub](https://github.com/jiaaro/pydub) - 使用简单易用的高级界面处理音频.
-* [pyechonest](https://github.com/echonest/pyechonest) -  Python的客户端 [Echo Nest](http://static.echonest.com/enspex/) API.
-* [talkbox](http://scikits.appspot.com/talkbox) - 用于语音/信号处理的Python库.
-* [TimeSide](https://github.com/Parisson/TimeSide) - 开放式网络音频处理框架.
-* [tinytag](https://github.com/devsnd/tinytag) - 用于读取MP3，OGG，FLAC和Wave文件的音乐元数据的库.
+*音频
+    * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
+    * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹识别和识别.
+    * [mingus](http://bspaans.github.io/python-mingus/) - 具有MIDI文件和播放支持的高级音乐理论和乐谱包.
+    * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) -  Python音频分析库：特征提取，分类，分割和应用
+    * [pydub](https://github.com/jiaaro/pydub) - 使用简单易用的高级界面处理音频.
+    * [TimeSide](https://github.com/Parisson/TimeSide) - 开放式网络音频处理框架.
+*元数据
+    * [beets](https://github.com/beetbox/beets) - 音乐图书馆经理和 [MusicBrainz](https://musicbrainz.org/) 标签.
+    * [eyeD3](https://github.com/nicfit/eyeD3) - 用于处理音频文件的工具，特别是包含ID3元数据的MP3文件.
+    * [mutagen](https://github.com/quodlibet/mutagen) - 用于处理音频元数据的Python模块.
+    * [tinytag](https://github.com/devsnd/tinytag) - 用于读取MP3，OGG，FLAC和Wave文件的音乐元数据的库.
 
 ## Authentication
 
 *用于实施认证计划的图书馆.*
 
 * OAuth
-    * [Authomatic](https://github.com/authomatic/authomatic) - 简单但功能强大的框架无关的身份验证/授权客户端.
+    * [authlib](https://github.com/lepture/authlib) -  JavaScript对象签名和加密草案实现.
     * [django-allauth](https://github.com/pennersr/django-allauth) -  Django的身份验证应用程序“正常工作”.
     * [django-oauth-toolkit](https://github.com/evonove/django-oauth-toolkit) - 为Django的OAuth 2好东西.
-    * [Flask-OAuthlib](https://github.com/lepture/flask-oauthlib) -  OAuth 1.0 / a，2.0实现Flask的客户端和提供程序.
     * [OAuthLib](https://github.com/idan/oauthlib) -  OAuth请求签名逻辑的通用且全面的实现.
     * [python-oauth2](https://github.com/joestump/python-oauth2) - 一个经过全面测试的抽象界面，用于创建OAuth客户端和服务器.
     * [python-social-auth](https://github.com/omab/python-social-auth) - 易于设置的社交认证机制.
-    * [rauth](https://github.com/litl/rauth) -  OAuth 1.0 / a，2.0和Ofly的Python库.
-    * [sanction](https://github.com/demianbrecht/sanction) - 一个简单的OAuth2客户端实现.
 * 其他
-    * [jose](https://github.com/demonware/jose) -  JavaScript对象签名和加密草案实现.
     * [PyJWT](https://github.com/jpadilla/pyjwt) -  JSON Web Token草案01的实现.
-    * [python-jws](https://github.com/brianloveswords/python-jws) - 实施JSON Web签名草案02.
+    * [python-jose](https://github.com/mpdavis/python-jose/) -  Python中的JOSE实现.
     * [python-jwt](https://github.com/davedoesdev/python-jwt) - 用于生成和验证JSON Web令牌的模块.
 
 ## Build Tools
@@ -113,12 +85,9 @@
 
 
 * [django-cms](https://www.django-cms.org/en/) - 基于Django的开源企业CMS.
-* [djedi-cms](http://djedi-cms.org/) - 轻量级但功能强大的Django CMS，具有插件，内联编辑和性能.
-* [Kotti](http://kotti.pylonsproject.org/) - 基于Pyramid构建的高级Pythonic Web应用程序框架.
-* [Opps](http://opps.github.io/opps/) - 基于Django的CMS，适用于杂志，报纸网站和高流量的门户网站.
+* [Kotti](https://github.com/Kotti/Kotti) - 基于Pyramid构建的高级Pythonic Web应用程序框架.
 * [Plone](https://plone.org/) - 在开源应用服务器Zope之上构建的CMS.
-* [Quokka](http://quokkaproject.org/) - 由Flask和MongoDB提供支持的灵活，可扩展的小型CMS.
-* [Widgy](https://wid.gy/) - 最后的CMS框架，基于Django.
+* [Quokka](https://github.com/rochacbruno/quokka) - 由Flask和MongoDB提供支持的灵活，可扩展的小型CMS.
 
 ## Caching
 
@@ -128,7 +97,6 @@
 * [DiskCache](http://www.grantjenks.com/docs/diskcache/) -  SQLite和文件支持的缓存后端，其查找速度比memcached和redis快.
 * [django-cache-machine](https://github.com/django-cache-machine/django-cache-machine) -  Django模型的自动缓存和失效.
 * [django-cacheops](https://github.com/Suor/django-cacheops) - 具有自动粒度事件驱动失效的灵活ORM缓存.
-* [django-viewlet](https://github.com/5monkeys/django-viewlet) - 使用扩展缓存控制渲染模板部件.
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) -  dogpile.cache是​​同一作者制作的Beaker的下一代替代品.
 * [HermesCache](https://pypi.python.org/pypi/HermesCache) -  Python缓存库，具有基于标记的失效和防狗效应.
 * [johnny-cache](https://github.com/jmoiron/johnny-cache) -  Django应用程序的缓存框架.
@@ -146,7 +114,7 @@
 
 * [PySpark](https://pypi.python.org/pypi/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
 * [dask](https://dask.pydata.org/en/latest/) - 用于分析计算的灵活并行计算库.
-* [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) to Python.
+* [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 这是Python.
 * [luigi](https://github.com/spotify/luigi) - 一个模块，可帮助您构建批处理作业的复杂管道.
 * [mrjob](https://github.com/Yelp/mrjob) - 在Hadoop或Amazon Web Services上运行MapReduce作业.
 * [Ray](https://github.com/ray-project/ray/) - 用于并行和分布式Python的系统，它统一了机器学习生态系统.
@@ -181,7 +149,7 @@
     * [clint](https://github.com/kennethreitz/clint) -  Python命令行应用程序工具.
     * [docopt](http://docopt.org/) -  Pythonic命令行参数解析器.
     * [Gooey](https://github.com/chriskiehl/Gooey) - 使用一行将命令行程序转换为完整的GUI应用程序.
-    * [Python Fire](https://github.com/google/python-fire) - A library for creating command line interfaces from absolutely any Python object.
+    * [Python Fire](https://github.com/google/python-fire) - 用于从绝对任何Python对象创建命令行界面的库.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 用于构建强大的交互式命令行的库.
 *终端渲染
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - 用于创建全屏文本UI的包（从交互式表单到ASCII动画）.
@@ -342,7 +310,7 @@
 
 *用于调试代码的库.*
 
-*类似pdb的调试器
+* pdb-like Debugger
     * [ipdb](https://pypi.python.org/pypi/ipdb) - 启用IPython [pdb](https://docs.python.org/3/library/pdb.html).
     * [pdb++](https://pypi.python.org/pypi/pdbpp/) -  pdb的另一个替代品.
     * [pudb](https://pypi.python.org/pypi/pudb) - 基于控制台的全屏Python调试器.
@@ -421,7 +389,7 @@
 
 *供下载的图书馆.*
 
-* [s3cmd](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+* [s3cmd](https://github.com/s3tools/s3cmd) - 用于管理Amazon S3和CloudFront的命令行工具.
 * [s4cmd](https://github.com/bloomreach/s4cmd) -  Super S3命令行工具，有利于提高性能.
 * [you-get](http://you-get.org/) - 用Python 3编写的YouTube / Youku / Niconico视频下载器.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - 从YouTube下载视频的小型命令行程序.
@@ -480,8 +448,7 @@
 
 *用于Python版本和环境管理的库.*
 
-* [Pipenv](https://github.com/kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
-* [p](https://github.com/qw3rtman/p) - 死简单的交互式Python版本管理.
+* [Pipenv](https://github.com/kennethreitz/pipenv) -  Pipfile，Pip和Virtualenv的神圣婚姻.
 * [pyenv](https://github.com/pyenv/pyenv) - 简单的Python版本管理.
 * [venv](https://docs.python.org/3/library/venv.html) - （Python 3.3+中的Python标准库）创建轻量级虚拟环境.
 * [virtualenv](https://pypi.python.org/pypi/virtualenv) - 创建独立Python环境的工具.
@@ -520,13 +487,13 @@
 
 ## Functional Programming
 
-*使用Python进行功能编程.*
+*Functional Programming with Python.*
 
 * [Coconut](http://coconut-lang.org/) -  Coconut是Python的一种变体，专为简单，优雅，Pythonic功能编程而构建.
 * [CyToolz](https://github.com/pytoolz/cytoolz/) -  Toolz的Cython实现：高性能功能实用程序.
 * [fn.py](https://github.com/kachayev/fn.py) -  Python中的函数编程：实现缺少的功能以享受FP.
 * [funcy](https://github.com/Suor/funcy) - 一个奇特而实用的功能工具.
-* [Toolz](https://github.com/pytoolz/toolz) - A collection of functional utilities for iterators, functions, and dictionaries.
+* [Toolz](https://github.com/pytoolz/toolz) - 迭代器，函数和字典的函数实用程序的集合.
 
 ## GUI
 
@@ -656,7 +623,7 @@
 
 ## Internationalization
 
-*Libraries for working with i18n.*
+*与i18n合作的图书馆.*
 
 * [Babel](http://babel.pocoo.org/en/latest/) -  Python的国际化库.
 * [PyICU](https://github.com/ovalhub/pyicu) - 用于Unicode C ++库的国际组件的包装器（[ICU](http://site.icu-project.org/)).
@@ -712,7 +679,7 @@
 
 *有用的库或工具不适合上述类别.*
 
-* [blinker](https://github.com/jek/blinker) - 一个快速的Python进程中信号/事件调度系统.
+* [blinker](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 * [itsdangerous](https://github.com/pallets/itsdangerous) - 将可信数据传递给不受信任的环境的各种帮助程序.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) - 一个简单但灵活的Python插件系统.
 * [Pychievements](https://github.com/PacketPerception/pychievements) - 用于创建和跟踪成就的框架.
@@ -729,7 +696,7 @@
 * [Pattern](http://www.clips.ua.ac.be/pattern) - 用于Python的Web挖掘模块.
 * [polyglot](https://github.com/aboSamoor/polyglot) - 支持数百种语言的自然语言管道.
 * [SnowNLP](https://github.com/isnowfy/snownlp) - 用于处理中文文本的库.
-* [spaCy](https://spacy.io/) -  Python和Cython中用于工业强度自然语言处理的库.
+* [spaCy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
 * [TextBlob](https://github.com/sloria/TextBlob) - 提供一致的API，以便潜入常见的NLP任务.
 * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - 一个工具包，可以快速深入学习研究的NLP原型.
 * [StanfordNLP](https://github.com/stanfordnlp/stanfordnlp) - 斯坦福NLP集团的官方Python库，支持50多种语言
@@ -782,7 +749,7 @@
     * [hot-redis](https://github.com/stephenmcd/hot-redis) -  Redis的丰富Python数据类型.
     * [MongoEngine](http://mongoengine.org/) - 用于处理MongoDB的Python Object-Document-Mapper.
     * [PynamoDB](https://github.com/pynamodb/PynamoDB) - 一个Pythonic接口 [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-    * [redisco](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
+    * [redisco](https://github.com/kiddouk/redisco) -  Redis中保留的简单模型和容器的Python库.
 * 其他
     * [butterdb](https://github.com/terrible-ideas/butterdb) -  Google Drive电子表格的Python ORM.
     * [dataset](https://github.com/pudo/dataset) - 基于JSON的数据库.
@@ -845,7 +812,7 @@
 * [LightFM](https://github.com/lyst/lightfm) - 许多流行推荐算法的Python实现.
 * [Spotlight](https://github.com/maciejkula/spotlight) - 使用PyTorch的深度推荐器模型.
 * [surprise](http://surpriselib.com) - 用于构建和分析推荐系统的scikit.
-* [TensorRec](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
+* [TensorRec](https://github.com/jfkirk/tensorrec) -  TensorFlow中的推荐引擎框架.
 
 ## RESTful API
 
@@ -863,12 +830,12 @@
 *金字塔
     * [cornice](https://github.com/Cornices/cornice) - 金字塔的RESTful框架.
 *框架不可知
+    * [apistar](https://github.com/encode/apistar) - 专为Python 3设计的智能Web API框架.
     * [falcon](http://falconframework.org/) - 用于构建云API和Web应用程序后端的高性能框架.
     * [hug](https://github.com/timothycrosley/hug) - 一个Python3框架，用于通过HTTP和命令行干净地公开API，并提供自动文档和验证.
     * [restless](https://github.com/toastdriven/restless) - 基于从Tastypie学到的经验教训的框架无关的REST框架.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) - 快速创建REST / HATEOAS /超媒体API.
     * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
-    * [apistar](https://github.com/encode/apistar) - 专为Python 3设计的智能Web API框架.
 
 ## Robotics
 
@@ -890,7 +857,7 @@
 *科学计算图书馆.*
 
 * [astropy](http://www.astropy.org/) - 用于天文学的社区Python库.
-* [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - 为全自动高通量测序分析提供最佳实践管道.
+* [bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen) - Providing best-practice pipelines for fully automated high throughput sequencing analysis.
 * [bccb](https://github.com/chapmanb/bcbb) - 收集与生物分析有关的有用代码.
 * [Biopython](http://biopython.org/wiki/Main_Page) -  Biopython是一套免费提供的生物计算工具.
 * [cclib](http://cclib.github.io/) - 用于解析和解释计算化学包结果的库.
@@ -1076,10 +1043,10 @@
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) -  Django的WordPress模型和视图.
 * [facebook-sdk](https://github.com/mobolic/facebook-sdk) -  Facebook平台Python SDK.
 * [facepy](https://github.com/jgorset/facepy) -  Facepy使得与Facebook的Graph API交互变得非常容易
-* [gmail](https://github.com/charlierguo/gmail) -  Gmail的Pythonic界面.
+* [gmail](https://github.com/charlierguo/gmail) - A Pythonic interface for Gmail.
 * [google-api-python-client](https://github.com/google/google-api-python-client) - 适用于Python的Google API客户端库.
 * [gspread](https://github.com/burnash/gspread) -  Google Spreadsheets Python API.
-* [twython](https://github.com/ryanmcgrath/twython) -  Twitter API的Python包装器.
+* [twython](https://github.com/ryanmcgrath/twython) - A Python wrapper for the Twitter API.
 
 ## URL Manipulation
 
@@ -1111,6 +1078,18 @@
 * [uWSGI](https://uwsgi-docs.readthedocs.io/en/latest/) - 一个项目旨在开发一个用于构建托管服务的完整堆栈，用C语言编写.
 * [waitress](https://waitress.readthedocs.io/en/latest/) - 多线程，为金字塔提供动力.
 * [Werkzeug](http://werkzeug.pocoo.org/) - 用于Python的WSGI实用程序库，可以为Flask提供支持，并且可以轻松嵌入到您自己的项目中.
+
+## Web Asset Management
+
+*用于管理，压缩和缩小网站资产的工具.*
+
+* [django-compressor](https://github.com/django-compressor/django-compressor) - 将链接和内联JavaScript或CSS压缩到单个缓存文件中.
+* [django-pipeline](https://github.com/jazzband/django-pipeline) -  Django的资产包装库.
+* [django-storages](https://github.com/jschneier/django-storages) -  Django的自定义存储后端集合.
+* [fanstatic](http://www.fanstatic.org/en/latest/) - 作为Python包，包，优化和提供静态文件依赖性.
+* [fileconveyor](http://wimleers.com/fileconveyor) - 用于检测文件并将文件同步到CDN，S3和FTP的守护程序.
+* [flask-assets](https://github.com/miracle2k/flask-assets) - 帮助您将webassets集成到Flask应用程序中.
+* [webassets](https://github.com/miracle2k/webassets) - 捆绑，优化和管理静态资源的唯一缓存清除URL.
 
 
 
@@ -1148,8 +1127,8 @@
 * [Pyramid](https://pylonsproject.org/) - 一个小巧，快速，脚踏实地的开源Python Web框架.
     * [awesome-pyramid](https://github.com/uralbash/awesome-pyramid)
 * [Sanic](https://github.com/channelcat/sanic) - 写得快速的Web服务器.
-* [Tornado](http://www.tornadoweb.org/en/latest/) -  Web框架和异步网络库.
 * [Vibora](https://vibora.io/) - 受Flask启发的快速，高效和异步Web框架.
+* [Tornado](http://www.tornadoweb.org/en/latest/) -  Web框架和异步网络库.
 
 ## WebSocket
 

@@ -47,7 +47,7 @@
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) 作者：Yaser Abu-Mostafa（2012-2014）
 3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) 汤姆米切尔（2011年春季）
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) 作者：Geoffrey Hinton在Coursera（2012）
-3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 来自舍布鲁克大学的Hugo Larochelle（2013年）
+3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 从舍布鲁克大学雨果拉罗歇尔（2013）
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) 由CILVR lab @ NYU（2014）
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) 作者：Dan Klein和Pieter Abbeel（2013）
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 作者：Patrick Henry Winston（2010）
@@ -338,7 +338,7 @@
 37. [Densely Sampled View Spheres](http://ls7-www.cs.uni-dortmund.de/~peters/pages/research/modeladaptsys/modeladaptsys_vba_rov.html)   - 密集采样的视图球体 - 两个玩具对象的视图球体的上半部分，每个有2500个图像.  （格式：tiff）
 38. [Computer Science VII (Graphical Systems)](http://ls7-www.cs.uni-dortmund.de/)
 40. [Digital Embryos](https://web-beta.archive.org/web/20011216051535/vision.psych.umn.edu/www/kersten-lab/demos/digitalembryo.html)   - 数字胚胎是可用于开发和测试物体识别系统的新物体.  它们具有有机外观.  （格式：可根据要求提供各种格式）
-41. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/www/kersten-lab/kersten-lab.html) 
+41. [Univerity of Minnesota Vision Lab](http://vision.psych.umn.edu/users/kersten//kersten-lab/kersten-lab.html) 
 42. [El Salvador Atlas of Gastrointestinal VideoEndoscopy](http://www.gastrointestinalatlas.com)   - 从胃肠视频内窥镜检查中获得的研究图像和视频.  （格式：jpg，mpg，gif）
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm)   - 数据库包含1002个面部图像，显示不同年龄的科目.  （格式：jpg）
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/)   -  FVC2000是第一个国际指纹验证算法竞赛.  四个指纹数据库构成了FVC2000基准测试（总共3520个指纹）.
@@ -540,7 +540,7 @@
 
 -----
 ### Contributing
- 有什么想法，你觉得很棒，适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+ 有什么想法，你觉得很棒，并且适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
 
 -----
 ## License
