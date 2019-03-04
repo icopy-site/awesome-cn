@@ -42,7 +42,7 @@
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote)   - 这是关于在不离开终端的情况下听音乐.  仅限macOS.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
-- [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端收听SomaFM.
+- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - 控制台工具，下载，设置IDv3标签并添加到您的iTunes（如果您使用macOS）您的SoundCloud喜欢方便的方式.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - 由ncmpc启发的基于ncurses的音乐播放器守护进程客户端.
@@ -52,7 +52,7 @@
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
-- [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端 - （[original](http://www.floodgap.com/software/ttytter/)).
+- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
 - [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
@@ -72,13 +72,14 @@
 
 - [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
 - [boilr](https://github.com/tmrts/boilr) - 无依赖关系的CLI，用于从样板模板创建项目.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - Creates projects from cookiecutters (project templates).
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从cookiecutters（项目模板）创建项目.
 - [dockly](https://github.com/lirantal/dockly) - 用于管理Docker容器的交互式CLI.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [legit](https://github.com/captainsafia/legit) - 从许多开源许可证中进行选择以生成LICENSE文件或向文件添加许可证头.
 - [rebound](https://github.com/shobrook/rebound) - 当您遇到编译器错误时，立即在终端中获取Stack Overflow结果.
 - [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman生成器的CLI脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
+- [release-it](https://github.com/webpro/release-it)   - 自动发布Git存储库和/或npm软件包.  更改日志生成，GitHub / GitLab版本等.
 
 ### Text Editors
 
@@ -111,6 +112,7 @@
 - [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到Amazon S3的简单方便的方法.
 - [reachable](https://github.com/italolelis/reachable) -  Reachable是一个CLI工具，用于检查域是否已启动.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 从CLI开始通过HTTP提供本地目录的最简单直接的方法.
+- [shell2http](https://github.com/msoap/shell2http)   - 用于执行shell命令的HTTP服务器.  专为开发，原型设计或远程控制而设计.
 
 ### Mobile Development
 
@@ -118,7 +120,7 @@
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动画面生成器
 - [deviceframe](https://github.com/c0bra/deviceframe) - 将设备框架放在您的移动/网络/渐进式应用屏幕截图周围.
 
-## Devops
+### Devops
 
 - [aws-cli](https://github.com/aws/aws-cli) -  Amazon Web Services的通用命令行界面.
 - [azure-cli](https://github.com/Azure/azure-cli) -  Azure的命令行工具.
@@ -141,7 +143,6 @@
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 上传图片到imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) -  Meetup.com命令行界面.
 - [The Mutt E-Mail Client](http://www.mutt.org/) - 邮件客户端.
-- [Taskwarrior](http://taskwarrior.org) - 免费和开源软件，从您的命令行管理您的TODO列表.
 - [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具.
 - [ipt](https://github.com/drselump14/ipt) - 关键跟踪器的命令行界面.
 - [g3l](https://github.com/svtek/g3l) -  Git很简单，github cli很容易，但是在w0rld中g3l最简单的git cli！
@@ -161,6 +162,7 @@
 
 - [idea](https://github.com/IonicaBizau/idea) - 轻量级的CLI工具和模块，可以快速，轻松地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote的控制台客户端.
+- [Taskwarrior](http://taskwarrior.org) - 免费和开源软件，从您的命令行管理您的TODO列表.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) -  UNIX终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - 一个简单的Python应用程序，可让您通过命令行访问Simplenote帐户.
@@ -194,9 +196,10 @@
 - [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
 - [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
-- [pass](https://www.passwordstore.org) - Pass, the standard unix password manager: simple, secure, powerful.
+- [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
 
 ### macOS
 
@@ -243,6 +246,7 @@
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - 用于查询和更新YAML文件的简单CLI.
 - [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
 - [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
+- [q](http://harelba.github.io/q/) - 一个命令行工具，允许在CSV / TSV（以及任何其他表格文本文件）上执行类似SQL的查询.
 
 ## Files and Directories
 
@@ -270,7 +274,6 @@
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) - 带翅膀的猫（1）克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
 
 ### Directory Listing
 
@@ -283,11 +286,16 @@
 - [fasd](https://github.com/clvv/fasd) - 命令行生产力助推器，提供对autojump，z和v的启发的文件和目录的快速访问.
 - [pm](https://github.com/Angelmmiguel/pm) - 在shell上切换到项目的简便方法.
 - [z](https://github.com/rupa/z) -  z是新的j，哟.
-- [happyfinder](https://github.com/hugows/hf) - （另一个）命令行的模糊文件查找器.
 - [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker会为您提供一个很好的UI来选择您感兴趣的文件.
-- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
 - [fz](https://github.com/changyuheng/fz) -  z的无缝模糊选项卡完成.
 - [goto](https://github.com/iridakos/goto) - 具有自动完成功能的shell的目录别名.
+
+### Search
+
+- [happyfinder](https://github.com/hugows/hf) - （另一个）命令行的模糊文件查找器.
+- [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
+- [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可以与任何列表一起使用：文件/目录，命令历史，进程，主机名，书签，git提交等.
 
 ## Version Control
 
@@ -318,7 +326,7 @@
 ### Gif Creation
 
 - [gifgen](https://github.com/lukechilds/gifgen) - 简单的高品质GIF编码.
-- [gifsicle](https://github.com/kohler/gifsicle) - 创建，操作和优化GIF图像和动画.
+- [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [ttygif](https://github.com/icholy/ttygif) - 将终端录音转换为GIF动画.
 - [ttygif](https://github.com/sugyan/ttygif) -  ttyrec到gif.
 - [ttystudio](https://github.com/chjj/ttystudio) - 终端到GIF记录器减去头痛.
@@ -330,7 +338,7 @@
 - [imgp](https://github.com/jarun/imgp) - 快速批量图像缩放器和旋转器.
 - [korkut](https://github.com/oguzhaninan/korkut) - 在命令行进行快速简单的图像处理.
 
-## SVG
+### SVG
 
 - [SVGO](https://github.com/svg/svgo) -  SVG Optimizer是一个基于Nodejs的工具，用于优化SVG矢量图形文件.
 
@@ -371,7 +379,7 @@
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用Levenshtein距离算法测量两个弦之间的差异.
 - [maybe](https://github.com/p-e-w/maybe) - 在决定是否真的希望它发生之前，先看一下程序的作用.
 - [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
-- [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
+- [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.

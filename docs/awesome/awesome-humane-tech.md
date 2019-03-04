@@ -87,6 +87,7 @@
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) - 用于创建具有良好默认值的Firefox配置文件的工具.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - 无需跟踪，隐私尊重的元搜索引擎，可以自我托管.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - 适用于Android的基于DNS的主机拦截器（以及轻量级广告拦截器）.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - 浏览器扩展程序会在标签关闭后立即删除Cookie，除非网站列入白名单.
 
 ## Consent
 
@@ -178,8 +179,8 @@
 - [Hack the Media](https://github.com/nemild/hack-the-media) - 媒体素养指南，强调我们的媒体资源如何能够给我们一个有缺陷的世界观.
 - [Hack an Engineer](https://www.nemil.com/musings/hack-an-engineer.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/nemild/hack-the-media/master/software-engineers-media-guide.md) - 软件工程师的媒体素养指南.
 - [Facebook Data Analyzer](https://github.com/Lackoftactics/facebook_data_analyzer) - 分析您自己数据的Facebook副本.
-- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests.
-- [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) - 为在线跟踪带来透明度 - 由Cliqz和Ghostery建立.
+- [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - 所有可能的方式，网站可以泄漏HTTP请求.
+- [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) - Bringing Transparency to online tracking - built by Cliqz and Ghostery.
 - [Awful AI](https://github.com/daviddao/awful-ai) - 一个精选的列表，用于跟踪当前人工智能的可怕用法 - 希望提高认识.
 - [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -  Addon可实时显示第一方和第三方网站之间的Web请求.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) - 普林斯顿网络透明度和问责制项目，一个隐私测量框架.

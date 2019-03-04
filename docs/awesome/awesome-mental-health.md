@@ -23,7 +23,7 @@
 
 * [Moodpath](https://www.moodpath.de/en/) - 基于应用程序的交互式筛查，旨在识别抑郁症的症状.
 * [Pacifica](https://www.thinkpacifica.com/)   - 与支持性社区一起应对压力，焦虑和抑郁的日常工具.  基于认知行为疗法和正念冥想.
-* [Quirk](https://getquirk.app/) - 适用于iOS的开源移动认知行为疗法（CBT）应用程序
+* [Quirk](https://getquirk.app/) - 适用于iOS的开源移动认知行为疗法（CBT）应用程序.
 
 ## Articles
 
@@ -45,7 +45,7 @@
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) -  BJ Keeton.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - 布兰登格雷戈里.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) -  Michael Scott Hertzberg.
-* [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - 通过梅尔韦海军陆战队nazlıgül，穆拉特·耶尔马兹，运输古籁，梅特·阿里了望罗里·奥康纳和保罗V.克拉克.
+* [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - 由Merve Denizci Nazligul，Murat Yilmaz，Ulas Gulec，Mert Ali Gozcu，Rory V. O&#39;Connor和Paul Clarke.
 * [Perfectionism, Anxiety And Learning To Be Kind To Yourself](https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704) - 作者：Jo Franchetti.
 * [Programmer Imposter Syndrome: 6 Ways To Get Over Yours](https://www.codingdojo.com/blog/programmer-imposter-syndrome) - 作者：Ethan Urie.
 * [Recovering From Burnout](https://kierantie.com/burnout) - 由Kieran Tie.
@@ -91,7 +91,9 @@
 * [Compassionate Coding](https://compassionatecoding.com) -  Compassionate Coding结合了敏捷软件开发的有效实践，注重移情和最新的积极组织心理.
 * [Everybody Has A Brain](http://everybodyhasabrain.com/) - 每个人都有一个大脑就是围绕个人心理健康创造对话机会.
 * [Hack Mental Health](https://www.hackmentalhealth.care) - 心理健康与技术的交集.
+* [IfMe](https://www.if-me.org) - 社区提供心理健康体验，鼓励人们与可信赖的盟友分享他们的个人故事.
 * [InfoSanity](https://www.infosanity.org) - 黑客社区的心理健康.
+* [Mental Health Hackers](https://mentalhealthhackers.org/) - 旨在为可能易患相关心理健康问题的人提供支持服务的组织，如焦虑，抑郁，社交孤立，饮食失调等.
 * [Mental Health Knowledge Base](https://mentalhealth-kb.net/) - 基于GitHub的项目和网站，鼓励对心理健康的各种观点.
 * [MHPrompt](http://mhprompt.org) - 让我们开始讨论科技中的心理健康问题.
 * [OSMI](https://osmihelp.org) -  Open Sourcing Mental Illness是一家非营利性公司，致力于提高意识，教育和提供资源，以支持技术和开源社区的心理健康.
@@ -129,7 +131,7 @@
 * [Living With Bipolar Disorder As A Software Engineer - AnxietyTech 2018](https://www.youtube.com/watch?v=Jv9HdGwulE0) -  Jenna Quindica.
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - 马克·莱顿.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) -  Eloise Macdonald-Meyer.
-* [Modern Mindfulness](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - 乔·贝尔
+* [Modern Mindfulness - Hey! 2016](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - 乔·贝尔
 * [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - 四月文塞尔.
 * [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - 由Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - 由Gitte Klitgaard撰写.

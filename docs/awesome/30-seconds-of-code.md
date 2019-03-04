@@ -189,7 +189,7 @@ const firstTwoMax = ary（Math.max，2）;
 
  给定一个键和一组参数，在给定上下文时调用它们.  主要用于组合物.
 
-Use a closure to call a stored key with stored arguments.
+使用闭包来调用存储的参数的存储键.
 
 ```js
 const call =（key，https：//github.com/30-seconds/30-seconds-of-code/blob/master/...args）=&gt; context =&gt; context[key](https://github.com/30-seconds/30-seconds-of-code/blob/master/...args);
@@ -541,7 +541,7 @@ const arrayToCSV =（arr，delimiter =&#39;，&#39;）=&gt;
 
 ```js
  arrayToCSV（[[&#39;a&#39;，&#39;b&#39;]，[&#39;c&#39;，&#39;d&#39;]]）;  //&#39;“a”，“b”\ n“c”，“d”&#39;
-arrayToCSV([['a', 'b'], ['c', 'd']], ';'); // '"a";"b"\n"c";"d"'
+ arrayToCSV（[[&#39;a&#39;，&#39;b&#39;]，[&#39;c&#39;，&#39;d&#39;]]，&#39;;&#39;）;  //&#39;“a”;“b”\ n“c”;“d”&#39;
 ```
 
 </details>
@@ -616,7 +616,7 @@ const chunk =（arr，size）=&gt;
 
 ### compact
 
-从数组中删除falsey值.
+Removes falsey values from an array.
 
 使用`Array.prototype.filter（）`来过滤掉虚假值（`false`，`null`，`0`，````，`undefined`和`NaN`）.
 
@@ -1098,7 +1098,7 @@ const head = arr =&gt; arr [0];
 如果`val`永远不会发生，则返回`[]`.
 
 使用`Array.prototype.reduce（）`循环元素并存储匹配元素的索引.
-Return the array of indices.
+返回索引数组.
 
 ```js
 const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el === val？[... acc，i]：acc），[]）;
@@ -1248,7 +1248,7 @@ const initializeNDArray =（val，... args）=&gt;
 
 ```js
  initializeNDArray（1,3）;  // [1,1,1]
- initializeNDArray（5,2,2,2）;  // [[[5,5]，[5,5]]，[[5,5]，[5,5]]]
+initializeNDArray(5, 2, 2, 2); // [[[5,5],[5,5]],[[5,5],[5,5]]]
 ```
 
 </details>
@@ -1284,7 +1284,7 @@ const intersection =（a，b）=&gt; {
 通过将`fn`应用于`b`中的所有元素来创建`Set`，然后在`a`上使用`Array.prototype.filter（）`来仅保留元素，当`fn`时，它生成`b`中包含的值适用于他们.
 
 ```js
-const intersectionBy =（a，b，fn）=&gt; {
+const intersectionBy = (a, b, fn) => {
   const s = new Set（b.map（fn））;
   return a.filter（x =&gt; s.has（fn（x）））;
 };
@@ -1698,7 +1698,7 @@ const pull =（arr，... args）=&gt; {
 
 使用`Array.prototype.filter（）`和`Array.prototype.includes（）`来提取不需要的值.
 使用`Array.prototype.length = 0`来改变传入的数组，方法是将它的长度重置为零，并使用`Array.prototype.push（）`重新填充它，只使用拉取的值.
-Use `Array.prototype.push()` to keep track of pulled values
+使用`Array.prototype.push（）`来跟踪拉出的值
 
 ```js
 const pullAtIndex =（arr，pullArr）=&gt; {
@@ -1728,7 +1728,7 @@ const pullAtIndex =（arr，pullArr）=&gt; {
 
 使用`Array.prototype.filter（）`和`Array.prototype.includes（）`来提取不需要的值.
 使用`Array.prototype.length = 0`来改变传入的数组，方法是将它的长度重置为零，并使用`Array.prototype.push（）`重新填充它，只使用拉取的值.
-Use `Array.prototype.push()` to keep track of pulled values
+使用`Array.prototype.push（）`来跟踪拉出的值
 
 ```js
 const pullAtValue =（arr，pullArr）=&gt; {
@@ -1831,7 +1831,7 @@ const date = [
 
 ```js
 const reduceSuccessive =（arr，fn，acc）=&gt;
-  arr.reduce（（res，val，i，arr）=&gt;（res.push（fn（res.slice（-1）[0]，val，i，arr）），res），[acc]）;
+  arr.reduce((res, val, i, arr) => (res.push(fn(res.slice(-1)[0], val, i, arr)), res), [acc]);
 ```
 
 <details>
@@ -1901,9 +1901,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-        arr.splice（arr.indexOf（val），1）;
-        return acc.concat(val);
-      }, [])
+      arr.splice（arr.indexOf（val），1）;
+      return acc.concat（val）;
+    }, [])
     : [];
 ```
 
@@ -1943,7 +1943,7 @@ const sample = arr =&gt; arr [Math.floor（Math.random（）* arr.length）];
 从`array`获取唯一键的`n`随机元素，直到`array`的大小.
 
 使用the来洗牌阵列 [Fisher-Yates algorithm](https://github.com/30-seconds/30-seconds-of-code#shuffle).
-Use `Array.prototype.slice()` to get the first `n` elements.
+使用`Array.prototype.slice（）`来获取第一个`n`元素.
 省略第二个参数，`n`从数组中只获取一个随机元素.
 
 ```js
@@ -2055,7 +2055,7 @@ const similarity =（arr，values）=&gt; arr.filter（v =&gt; values.includes�
 
 ```js
 const sortedIndex =（arr，n）=&gt; {
-  const isDescending = arr[0] > arr[arr.length - 1];
+  const isDescending = arr [0]&gt; arr [arr.length  -  1];
   const index = arr.findIndex（el =&gt;（isDescending？n&gt; = el：n &lt;= el））;
    返回索引=== -1？  arr.length：index;
 };
@@ -2107,7 +2107,7 @@ const sortedIndexBy =（arr，n，fn）=&gt; {
 
 ```js
 const sortedLastIndex =（arr，n）=&gt; {
-  const isDescending = arr[0] > arr[arr.length - 1];
+  const isDescending = arr [0]&gt; arr [arr.length  -  1];
   const index = arr.reverse（）.findIndex（el =&gt;（isDescending？n &lt;= el：n&gt; = el））;
    返回索引=== -1？  0：arr.length  -  index;
 };
@@ -2814,7 +2814,7 @@ const bottomVisible =（）=&gt;
 
 
 
-⚠️ **NOTICE:** The same functionality can be easily implemented by using the new asynchronous Clipboard API, which is still experimental but should be used in the future instead of this snippet. Find out more about it [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
+ ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，该API仍然是实验性的，但将来应该使用而不是此片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
 
 将字符串复制到剪贴板. 
 仅在用户操作的结果下工作（即在`click`事件监听器内）.
@@ -3903,7 +3903,7 @@ const isBeforeDate =（dateA，dateB）=&gt; dateA &lt;dateB;
 <summary>Examples</summary>
 
 ```js
-isBeforeDate(new Date(2010, 10, 20), new Date(2010, 10, 21)); // true
+ isBeforeDate（新日期（2010年，10,20），新日期（2010年，10年，21日））;  //真
 ```
 
 </details>
@@ -4303,7 +4303,7 @@ document.querySelector('#someElement').innerHTML = 'Hello';
 使用spread（`...`）运算符为函数提供任意数量的参数.
 
 ```js
-const delay = (fn, wait, ...args) => setTimeout(fn, wait, ...args);
+const delay =（fn，wait，... args）=&gt; setTimeout（fn，wait，... args）;
 ```
 
 <details>
@@ -4326,7 +4326,7 @@ delay(
 
 记录函数的名称.
 
-使用`console.debug（）`和传递方法的`name`属性将方法的名称记录到控制台的`debug`通道.
+Use `console.debug()` and the `name` property of the passed method to log the method's name to the `debug` channel of the console.
 
 ```js
 const functionName = fn =&gt;（console.debug（fn.name），fn）;
@@ -4570,7 +4570,7 @@ const throttle =（fn，wait）=&gt; {
   return function（）{
     const context = this，
       args = arguments;
-    if (!inThrottle) {
+    if（！inThrottle）{
       fn.apply（context，args）;
       lastTime = Date.now（）;
       inThrottle = true;
@@ -4651,7 +4651,7 @@ const uncurry =（fn，n = 1）=&gt;（... args）=&gt; {
 <summary>Examples</summary>
 
 ```js
-const add = x =&gt; y =&gt; z =&gt; x + y + z;
+const add = x => y => z => x + y + z;
 const uncurriedAdd = uncurry（add，3）;
  uncurriedAdd（1,2,3）;  // 6
 ```
@@ -4868,7 +4868,7 @@ const digitize = n =&gt; [...`$ {n}`].map（i =&gt; parseInt（i））;
 <summary>Examples</summary>
 
 ```js
- 数字化（123）;  // [1,2,3]
+digitize(123); // [1, 2, 3]
 ```
 
 </details>
@@ -4955,8 +4955,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -5254,7 +5254,7 @@ const luhnCheck = num =&gt; {
 
 ```js
 const mapNumRange =（num，inMin，inMax，outMin，outMax）=&gt;
-  （（num  -  inMin）*（outMax  -  outMin））/（inMax  -  inMin）+ outMin;
+  （（A  -  INMIN）*（OUTMAX  -  OUTMIN））/（INMAX  -  INMIN）+ OUTMIN;
 ```
 
 <details>
@@ -5281,7 +5281,7 @@ const maxBy =（arr，fn）=&gt; Math.max（... arr.map（typeof fn ===&#39;func
 <summary>Examples</summary>
 
 ```js
- maxBy（[{N：4}，{N：2}，{N：8}，{N：6}] 0 =&gt;上）;  // 8
+ maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 8
  maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 8
 ```
 
@@ -5340,7 +5340,7 @@ const midpoint =（[x1，y1]，[x2，y2]）=&gt; [（x1 + x2）/ 2，（y1 + y2�
 
 使用提供的函数将每个元素映射到值后，返回数组的最小值.
 
-使用`Array.prototype.map（）`将每个元素映射到`fn`，`Math.min（）`返回的值以获得最大值.
+使用`Array.prototype.map（）`将每个元素映射到`fn`，`Math.min（）`返回的值，以获得最小值.
 
 ```js
 const minBy =（arr，fn）=&gt; Math.min（... arr.map（typeof fn ===&#39;function&#39;？fn：val =&gt; val [fn]））;
@@ -5629,7 +5629,7 @@ o =&gt; on）; // 20（n：4}，{n：2}，{n：
 
 返回从“start”到“end”（包括两者）的所有数字的幂的总和.
 
-Use `Array.prototype.fill()` to create an array of all the numbers in the target range, `Array.prototype.map()` and the exponent operator (`**`) to raise them to `power` and `Array.prototype.reduce()` to add them together.
+使用`Array.prototype.fill（）`创建一个包含目标范围内所有数字的数组，`Array.prototype.map（）`和指数运算符（`**`）将它们提升为`power`和`Array.prototype.reduce（）`将它们加在一起.
 省略第二个参数`power`，使用默认幂&#39;2`.
 省略第三个参数`start`，使用默认的起始值`1`.
 
@@ -5947,7 +5947,7 @@ const fs = require（&#39;fs&#39;）;
 
 检查当前环境是否正常 [Travis CI](https://travis-ci.org/).
 
-检查当前环境是否具有`TRAVIS`和`CI`环境变量（[reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
+Checks if the current environment has the `TRAVIS` and `CI` environment variables ([reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
 
 ```js
 const isTravisCI =（）=&gt;&#39;process TR中的&#39;TRAVIS&#39;和process.env中的&#39;CI&#39;;
@@ -6208,11 +6208,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-          const val = obj [current];
-          acc [f（current）] =
+        const val = obj [current];
+        acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-          返回acc;
-        }, {})
+        返回acc;
+      }, {})
       ：obj;
 ```
 
@@ -6284,9 +6284,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if（acc！== undefined）return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if（acc！== undefined）return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -6411,7 +6411,7 @@ const flattenObject =（obj，prefix =&#39;&#39;）=&gt;
   Object.keys（obj）.reduce（（acc，k）=&gt; {
      const pre = prefix.length？  前缀+&#39;.&#39;  ：&#39;&#39;;
     if（typeof obj [k] ===&#39;object&#39;）Object.assign（acc，flattenObject（obj [k]，pre + k））;
-    else acc[pre + k] = obj[k];
+    否则acc [pre + k] = obj [k];
     返回acc;
   }, {});
 ```
@@ -6754,7 +6754,7 @@ const nest =（items，id = null，link =&#39;parent_id&#39;）=&gt;
 //一个顶级评论
 const comments = [
   {id：1，parent_id：null}，
-  {id：2，parent_id：1}，
+  { id: 2, parent_id: 1 },
   {id：3，parent_id：1}，
   {id：4，parent_id：2}，
   {id：5，parent_id：4}
@@ -6995,7 +6995,7 @@ const a = {x：true，y：1};
 const size = val =&gt;
   Array.isArray（VAL）
      ？  val.length
-    ：val &amp;&amp; typeof val ===&#39;object&#39;
+    : val && typeof val === 'object'
        ？  val.size ||  val.length ||  Object.keys（VAL）.长度
       ：typeof val ===&#39;string&#39;
          ？  新的Blob（[val]）.尺寸
@@ -7007,7 +7007,7 @@ const size = val =&gt;
 
 ```js
  大小（[1,2,3,4,5]）;  // 5
- 大小（ &#39;尺寸&#39;）;  // 4
+size('size'); // 4
  大小（{1：1，2：2，3：3}）;  // 3
 ```
 
@@ -7091,7 +7091,7 @@ const unflattenObject = obj =&gt;
 <summary>Examples</summary>
 
 ```js
- unflattenObject（{&#39;abc&#39;：1，d：1}）;  // {a：{b：{c：1}}，d：1}
+unflattenObject({ 'a.b.c': 1, d: 1 }); // { a: { b: { c: 1 } }, d: 1 }
 ```
 
 </details>
@@ -7254,7 +7254,7 @@ const CSVToJSON =（data，delimiter =&#39;，&#39;）=&gt; {
 对字符串的第一个字母进行去除资本化.
 
 使用数组解构和`String.toLowerCase（）`去掉第一个字母，`... rest`以获得第一个字母后的字符数组，然后使用`Array.prototype.join（&#39;&#39;）`使其再次成为字符串.
-省略`upperRest`参数以保持字符串的其余部分不变，或将其设置为`true`以转换为大写.
+Omit the `upperRest` parameter to keep the rest of the string intact, or set it to `true` to convert to uppercase.
 
 ```js
 const decapitalize =（[first，... rest]，upperRest = false）=&gt;
@@ -7935,7 +7935,7 @@ const URLJoin =（... args）=&gt;
 
 将给定的字符串转换为单词数组.
 
- 使用带有提供模式的`String.prototype.split（）`（默认为非alpha作为regexp）转换为字符串数组.  使用`Array.prototype.filter（）`删除任何空字符串.
+Use `String.prototype.split()` with a supplied pattern (defaults to non-alpha as a regexp) to convert to an array of strings. Use `Array.prototype.filter()` to remove any empty strings.
 省略第二个参数以使用默认的regexp.
 
 ```js
@@ -8194,7 +8194,7 @@ isObject([1, 2, 3, 4]); // true
 
 ### isObjectLike
 
-检查值是否类似于对象.
+Checks if a value is object-like.
 
 检查提供的值是否为“null”且其“typeof”是否等于“object”.
 
@@ -8254,7 +8254,7 @@ const isPrimitive = val =&gt; Object（val）！== val;
  isPrimitive（50）;  //真
  isPrimitive（ &#39;你好！&#39;）;  //真
  isPrimitive（假）;  //真
-isPrimitive(Symbol()); // true
+ isPrimitive（符号（））;  //真
  isPrimitive（[]）;  //假
 ```
 
@@ -8591,7 +8591,7 @@ httpGet(
   “userId”：1，
   “id”：1，
   “标题”：“提供或拒绝盲目，欢迎找到选项”
-  "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto"
+  “身体”：“它需要\ nsuscipit遵循\ nreprehenderit不适可能是这种情况发生的事情的整个\ nnostrum轻易接受的是，他们都非常”
 }
 */
 ```
@@ -8667,7 +8667,7 @@ httpPost(
 如果它们都不是“未定义”，则假定当前环境是浏览器.
 
 ```js
-const isBrowser =（）=&gt;！[typeof window，typeof document] .includes（&#39;undefined&#39;）;
+const isBrowser = () => ![typeof window, typeof document].includes('undefined');
 ```
 
 <details>
@@ -8755,7 +8755,7 @@ const last = nthArg（-1）;
 const parseCookie = str =&gt;
   海峡
     .分裂（&#39;;&#39;）
-    .map(v => v.split('='))
+    .map（v =&gt; v.split（&#39;=&#39;））
     .reduce（（acc，v）=&gt; {
       acc [decodeURIComponent（v [0] .trim（））] = decodeURIComponent（v [1] .trim（））;
       返回acc;

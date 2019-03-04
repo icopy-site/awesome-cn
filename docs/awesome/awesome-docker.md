@@ -381,6 +381,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Linter
 
+- [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - 一种监视码头图像大小的工具.
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  Dockerfiles的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - 一个节点模块，用于分析Dockerfile并查找常见的陷阱，错误并帮助实施最佳实践 [@replicatedhq](https://github.com/replicatedhq)
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：构造： -  [@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
@@ -477,7 +478,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [footloose](https://github.com/weaveworks/footloose) - 旋转容器，看起来像虚拟机 - 通过 [@dlespiau](https://github.com/dlespiau)
 - [forward2docker](https://github.com/bsideup/forward2docker) ：skull： - 用于将端口从localhost自动转发到在boot2docker VM中运行的Docker容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
 - [Lando](https://github.com/lando/lando)   -  Lando适用于希望快速指定并轻松实现开发项目所需的服务和工具的开发人员.  通过 [Tandem](https://thinktandem.io/)
-- [Vagga](https://github.com/tailhook/vagga)   -  Vagga是一种没有守护进程的集装箱工具.  它是一个完全用户空间容器引擎，受Vagrant和Docker的启发，专门用于开发环境 [@tailhook](https://github.com/tailhook/)
+- [Vagga](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
 
 ### Garbage Collection
 
@@ -670,7 +671,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [containsx]：https：//github.com/ContainX
 [coreos]：https：//github.com/coreos
 [cncf]：https：//www.cncf.io
-[distribution]: https://github.com/docker/distribution
+[发行]：https：//github.com/docker/distribution
 [docker-for-windows]: https://docs.docker.com/docker-for-windows/
 [docker]：https：//github.com/docker
 [editreadme]：https：//github.com/veggiemonk/awesome-docker/edit/master/README.md

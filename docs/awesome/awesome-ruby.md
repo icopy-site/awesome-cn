@@ -400,7 +400,7 @@
 * [grape-swagger](https://github.com/ruby-grape/grape-swagger) - 将符合Swagger标准的文档添加到Grape API.
 * [Hanna](https://github.com/rdoc/hanna-nouveau) -  RDoc格式化程序，简洁，美观，易于浏览.
 * [Hologram](https://github.com/trulia/hologram)   - 基于降价的风格指南文档系统.  它可以解析CSS中的注释，并帮助您将它们转换为漂亮的样式指南.
-* [Inch](https://github.com/rrrene/inch) -  Inch是基于YARD的Ruby代码的文档测量和评估工具.
+* [Inch](https://github.com/rrrene/inch) - Inch is a documentation measurement and evalutation tool for Ruby code, based on YARD.
 * [RDoc](https://github.com/ruby/rdoc) -  RDoc为Ruby项目生成HTML和命令行文档.
 * [rspec_api_documentation](https://github.com/zipmark/rspec_api_documentation) - 从RSpec自动生成API文档.
 * [YARD](http://yardoc.org) -  YARD使用户能够生成一致，可用的文档，可以非常轻松地导出为多种格式.
@@ -532,7 +532,7 @@
 ## Git Tools
 
 * [ginatra](https://github.com/NARKOZ/ginatra) -  Git存储库的Web前端.
-* [git-auto-bisect](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
+* [git-auto-bisect](https://github.com/grosser/git-autobisect) - 找到破坏主人的提交.
 * [git_reflow](https://github.com/reenhanced/gitreflow) - 敏捷团队的自动化质量控制工作流程.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - 挖掘git责备历史.
 * [git-up](https://github.com/aanand/git-up) - 获取并重新绑定所有本地跟踪的远程分支.
@@ -629,7 +629,7 @@
 * [Scrolls](https://github.com/asenchi/scrolls) - 简单的日志记录
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - 用于Ruby的可扩展的下一代企业日志记录.
 * [Syslogger](https://github.com/crohr/syslogger) - 标准Logger Ruby库的替代品，它记录到syslog而不是日志文件.
-* [Yell](https://github.com/rudionrails/yell) - 您的可扩展日志库.
+* [Yell](https://github.com/rudionrails/yell) - Your Extensible Logging Library.
 
 ## Machine Learning
 
@@ -850,7 +850,7 @@
 * [Backburner](https://github.com/nesquena/backburner) -  Backburner是一个beanstalkd驱动的作业队列，可以处理大量的作业.
 * [Bunny](https://github.com/ruby-amqp/bunny) -  Bunny是RabbitMQ（3.3+）的流行，易于使用，维护良好的Ruby客户端.
 * [Delayed::Job](https://github.com/collectiveidea/delayed_job) - 数据库支持异步优先级队列.
-* [Gush](https://github.com/chaps-io/gush) - 仅使用Redis和Sidekiq的复杂工作流程的并行运行程序.
+* [Gush](https://github.com/chaps-io/gush) - 仅使用Redis和Sidekiq的复杂工作流程的并行运行器.
 * [Karafka](https://github.com/karafka/karafka) - 用于简化基于Ruby应用程序开发的Apache Kafka（分布式流平台）的框架.
 * [March Hare](https://github.com/ruby-amqp/march_hare) - 用于RabbitMQ的惯用，快速且维护良好的JRuby客户端.
 * [Resque](https://github.com/resque/resque) -  Redis支持的Ruby库，用于创建后台作业.
@@ -898,17 +898,18 @@
 
 ## Scientific
 
-* 人工智能
-  * [AI4R](https://github.com/sergiofierens/ai4r) - 涵盖多个人工智能领域的算法.
-  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - 用于与FANN（快速人工神经网络）连接的Ruby库.
 *绑定
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) -  Ruby的OpenCV包装器.
+  * [PyCall](https://github.com/mrkn/pycall.rb) - 从Ruby语言调用Python函数.
 *分类器
   * [classifier-reborn](https://github.com/jekyll/classifier-reborn) - 分类器的活动分支，以及允许贝叶斯和其他类型分类的通用模块.
   * [stuff-classifier](https://github.com/alexandru/stuff-classifier) - 用于将文本分类为多个类别的库.
 *数据分析/结构
   * [daru](https://github.com/v0dro/daru) - 用于在纯Ruby中存储，分析，操作和可视化数据的库.
   * [Rgl](https://github.com/monora/rgl) - 图形数据结构和算法的框架.
+*机器学习
+  * [AI4R](https://github.com/sergiofierens/ai4r) - 涵盖多个人工智能领域的算法.
+  * [ruby-fann](https://github.com/tangledpath/ruby-fann) - 用于与FANN（快速人工神经网络）连接的Ruby库.
 *数值阵列
   * [NMatrix](https://github.com/sciruby/nmatrix) -  Ruby的快速数值线性代数库.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - 用于Ruby的N维数值数组.
@@ -920,7 +921,6 @@
   * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
   * [integration](https://github.com/sciruby/integration) - 数值积分方法，基于Beng的原创作品.
   * [minimization](https://github.com/sciruby/minimization) - 纯Ruby上的最小化算法.
-  * [publisci](https://github.com/sciruby/publisci) - 用于将科学结果发布到语义Web的工具包.
   * [plotrb](https://github.com/sciruby/plotrb) - 在Vega和D3之上构建Ruby的绘图库.
   * [rb-gsl](https://github.com/SciRuby/rb-gsl) -  GNU Scientific库的ruby接口，支持NMatrix.
 *具体
@@ -975,7 +975,7 @@
 * [Mailboxer](https://github.com/mailboxer/mailboxer) -  Rails应用程序的私人消息系统.
 * [Mastodon](https://github.com/Gargron/mastodon) -  GNU社交兼容的微博服务器.
 * [Social Shares](https://github.com/Timrael/social_shares) - 一个宝石，用于检查社交网络中共享网址的次数.
-* [Thredded](https://thredded.org) - Rails 4.2+ forums/messageboards engine. Its goal is to be as simple and feature rich as possible.
+* [Thredded](https://thredded.org)   -  Rails 4.2+论坛/留言板引擎.  它的目标是尽可能简单和丰富.
 
 ## Spreadsheets and Documents
 

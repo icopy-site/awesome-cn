@@ -79,6 +79,7 @@
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 开源家庭自动化，将本地控制和隐私放在第一位.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于Google Cloud Platform构建的应用开发平台.
+- [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套软件库和工具，可帮助您构建机器人应用程序.
 
 
 ## Programming Languages
@@ -479,6 +480,7 @@
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) - 开源分散式微博网络.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - 智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 用于人工智能和机器学习的区块链项目.
+- [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的分散式操作系统.
 
 ## Miscellaneous
 
@@ -581,10 +583,13 @@
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
-- [Food](https://github.com/jzarca01/awesome-food#readme) - Food-related projects on GitHub.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+- [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - 开始接受比特币.
+- [Scientific Computing](https://github.com/nschloe/awesome-scientific-computing#readme) - 使用计算机解决复杂的科学问题.
+- [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
+- [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
 
 
 ## Related

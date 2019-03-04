@@ -65,6 +65,9 @@ true.
 -  [虚假关于
 经济学]（http://exple.tive.org/blarg/2016/09/22/falsehoods-programmers-believe-about-economics/） - 
 经济学不简单或理性.
+-  [虚假关于
+汽车]（https://github.com/driveto/falsehoods-about-cars） - 
+甚至像定义汽车这样常见的东西也充满了陷阱.
 -  [CLDR货币
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 由于起义，入侵，新的，货币有效日期范围重叠
@@ -138,9 +141,9 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 -  [虚假关于
 姓名]（https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/） - 
 开始这一切的文章.
--  [虚假关于
-性别]（https://gist.github.com/garbados/f82604ea639e0e47bf44） - 性别是其中的一部分
-人的身份和自己的微妙之处.
+- 关于性别的虚假： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) &
+[#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -
+性别是人类身份的一部分，并有其自身的微妙之处.
 - [Gay Marriage: The Database Engineering Perspective](https://qntm.org/gay) -
 如何在解决大部分谎言的同时将婚姻存储在数据库中
 关于性别，命名和关系.
@@ -149,7 +152,7 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 你无法真正定义一个有严格规则的家庭.
 -  [周围的个人姓名
 世界]（https://www.w3.org/International/questions/qa-personal-names） - 怎么做
-人们的名字在世界各地都有所不同，对这个问题有什么影响
+people's names differ around the world, and what are the implications for the
 Web?
 - [XKCD #327: Exploits of a
 妈妈]（https://xkcd.com/327/） - 搞笑如何实施虚假
@@ -219,6 +222,9 @@ code.
 -  [虚假关于
 地址]（https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/） - 
 涵盖街道，邮政编码，建筑物，城市和国家.
+-  [虚假关于
+住所]（https://twitter.com/samphippen/status/813896916534784004） - 
+它不仅涉及地址本身，还涉及人与其居住地之间的关系.
 -  [尽管没有姓名，但仍然发出了一封信
 地址]（https://twitter.com/loriskumo/status/735851511331356672） - 终极
 关于邮政地址的谎言：你不需要一个.
@@ -239,13 +245,13 @@ code.
 ## Science
 
 -  [关于制度的虚假]
-测量]（https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html） - 
+Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) -
 使用测量系统并在它们之间进行转换.
 
 
 ## Society
 
-- [Falsehoods About Political
+-  [关于政治问题的虚假]
 任命]（https://twitter.com/oliver_dw/status/737930439575404544） - 
 设计选举制度有其自己的技巧.
 -  [关于女性的虚假]
@@ -298,7 +304,7 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 ## Contributing
 
  欢迎您的贡献！  请看一下[贡献
-guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md) first.
+指南]（https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md）首先.
 
 
 ## Good Candidates

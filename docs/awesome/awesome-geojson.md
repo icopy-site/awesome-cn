@@ -68,7 +68,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [ogr2ogr](http://www.gdal.org/ogr2ogr.html)：将任何东西都转换成什么
   * [fiona](https://github.com/toblerity/fiona)：在ogr上面的漂亮的python接口
 * [shp2json](https://github.com/substack/shp2json)：将shapefile zip存档转换为流式GeoJSON
-* [togeojson](https://github.com/mapbox/togeojson)：将GPX和KML转换为geojson
+* [togeojson](https://github.com/tmcw/togeojson)：将GPX和KML转换为geojson
 * [tokml](https://github.com/mapbox/tokml)：将GeoJSON转换为KML
 * [topojson](https://github.com/topojson/topojson)：将GeoJSON转换为TopoJSON，从CSV加入数据
 * [wellknown](https://github.com/mapbox/wellknown)：将WKT转换为GeoJSON

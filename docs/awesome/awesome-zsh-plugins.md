@@ -57,7 +57,7 @@ ZSH框架，插件，教程和主题的集合，灵感来自各种精彩的列�
 
 ### [dotzsh](https://github.com/dotphiles/dotzsh)
 
- ** Dotzsh **力求与平台和版本无关.  在较旧版本的ZSH下运行时，某些功能可能会丢失，但它应该干净地降级并允许您在不同操作系统的多台计算机上使用相同的设置而不会出现问题.
+**Dotzsh** strives to be platform and version independent. Some functionality may be lost when running under older versions of ZSH, but it should degrade cleanly and allow you to use the same setup on multiple machines of differing OSes without problems.
 
 ### [fresh](https://github.com/freshshell/fresh)
 
@@ -248,6 +248,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts) - Print random baseball related "fun facts" in your shell. Depends on `fortune` and `cowsay` being installed.
 * [basex](https://github.com/dirkk/zsh-basex) - 添加几个 [BaseX](http://basex.org/) 简化用法的别名.
 * [bash](https://github.com/chrissicool/zsh-bash)   - 使ZSH更兼容Bash.  它重新定义了source命令，使其更像`bash`.  它还可以实现`bash`完成.
+* [bash-quote](https://github.com/jtprog/bash-quote) - 从Bash.im获取随机报价.
 * [battery_state](https://github.com/Jactry/zsh_battery_state) - 在右键提示中显示电池状态.
 * [bd](https://github.com/Tarrasch/zsh-bd) - 跳回特定目录，不做`cd ../../ ..`.
 * [bepoptimist](https://github.com/sheoak/zsh-bepoptimist) - 为法语重新映射ZSH vi-mode [bépo keyboard](http://bepo.fr/wiki/Accueil).
@@ -372,6 +373,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [gumsible](https://github.com/Lowess/gumsible-oh-my-zsh-plugin) - 包装插件 [Molecule](https://molecule.readthedocs.io/en/latest/index.html).
 * [gvm (dgnest)](https://github.com/dgnest/zsh-gvm-plugin) -  ZSH的gvm（Go版本管理器）插件.
 * [gvm (yerinle)](https://github.com/yerinle/zsh-gvm) - Provides autocompletion for `gvm` (Groovy enVironment Manager).
+* [hab](https://github.com/alexdesousa/hab) - 如果在更改为新目录时找到，则自动加载在文件`.envrc`中定义的OS环境变量.
 * [hacker-quotes](https://github.com/oldratlee/hacker-quotes) - 打开终端时随机输出黑客报价.
 * [hadoop-plugin](https://github.com/valek/zsh-hadoop-plugin) - 为hadoop函数添加一些便利别名.
 * [hanami](https://github.com/davydovanton/hanami-zsh) -  ZSH插件 [hanami](http://hanamirb.org) 项目.
@@ -432,7 +434,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [maven-plugin](https://github.com/KyleChamberlin/zsh_maven_plugin) -  oh-my-zsh maven插件的一个分支.
 * [mercurial](https://github.com/hcgraf/zsh-mercurial) - 从oh-my-zsh中提取，这样你就可以在没有oh-my-zsh的情况下使用它.
 * [mfunc](https://github.com/hlohm/mfunc)   - 允许您即时定义持久性功能，而无需将其添加到配置文件中.  在删除它们之前，这些功能将永久可用.
-* [mode-switch.CLI](https://github.com/Gyumeijie/mode-switch.CLI) - 用于在正常模式和vi模式之间切换命令行的ZSH插件.
+* [mode-switch.CLI](https://github.com/Gyumeijie/mode-switch.CLI) - A ZSH plugin for switching command line between normal mode and vi mode.
 * [monorepo-plugin](https://github.com/zilongqiu/monorepo-zsh-plugin) - 用于monorepo管理的ZSH插件.
 * [morpho](https://github.com/psprint/zsh-morpho) - 使用纯ZSH编写的终端屏幕保护程序，以及屏幕保护程序框架.
 * [msf](https://github.com/sathish09/zsh_plugins/tree/master/msf) -  Metasploit处理程序插件，可轻松启动处理程序.
@@ -525,7 +527,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [sudo](https://github.com/hcgraf/zsh-sudo)   - 来自oh-my-zsh的`sudo`插件，被提取为独立的.  在emacs-mode或vi-command模式下按* ESC-ESC *，在当前/上一个命令之前切换`sudo`.
 * [suffix-alias](https://github.com/srijanshetty/zsh-suffix-alias) - 使用ZSH的后缀别名直接打开shell中的文件.
 * [symfony](https://github.com/voronkovich/symfony.plugin.zsh) -  Symfony 2和3的ZSH插件.
-* [syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - ZSH syntax highlighting with dircolors in realtime.
+* [syntax-highlighting-filetypes](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - 使用dircolors实时突出显示ZSH语法.
 * [syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)   - 为您的ZSH添加语法突出显示.  确保加载此_before_ zsh-users / zsh-history-substring-search，否则它们都会中断.
 * [sys-diver](https://github.com/ToruIwashita/sys-diver-zsh) - 用于目录更改或编辑器启动的ZSH插件，仅使用widgits进行键操作而无需键入命令.
 * [sysadmin-util](https://github.com/skx/sysadmin-util) -  Steve Kemp为系统管理员提供的工具脚本集.
@@ -670,21 +672,21 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [pipenv (owenstranathan)](https://github.com/owenstranathan/pipenv.zsh)   - 如果该目录中有Pipfile，则在进入目录时自动激活** pipenv **.  包括`pipenv`完成.
 * [pks-autocomplete](https://github.com/tybritten/pks-zsh-autocomplete-plugin) - 添加Pivotal的完成 [PKS CLI](https://network.pivotal.io/products/pivotal-container-service)
 * [racket completion](https://github.com/racket/shell-completion) - 完成 [Racket](http://racket-lang.org).
-* [rake-completion.zshplugin](https://github.com/unixorn/rake-completion.zshplugin) - 为rakefile目标添加快速选项卡完成.
+* [rake-completion](https://github.com/unixorn/rake-completion.zshplugin) - 为rakefile目标添加快速选项卡完成.
 * [rancher-zsh-completion](https://github.com/go/rancher-zsh-completion) - 为Rancher CLI添加完成.
 * [razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - 提供自动完成功能 [Razor](https://github.com/puppetlabs/Razor).
 * [rustup](https://github.com/pkulev/zsh-rustup-completion) -  Rustup的标签完成.
 * [sfdx-autocomplete](https://github.com/jayree/sfdx-autocomplete-plugin) -  sfdx的自动完成插件.
 * [spring-boot-plugin](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - 添加自动填充功能 [spring-boot](http://projects.spring.io/spring-boot/) 命令.
-* [ssh-agent](https://github.com/bobsoppe/zsh-ssh-agent) - 管理`ssh-agent`.
-* [ssh-agent](https://github.com/hkupty/ssh-agent) - 自动启动`ssh-agent`以设置和加载`ssh`连接所需的凭据.
+* [ssh-agent (bobsoppe)](https://github.com/bobsoppe/zsh-ssh-agent) - 管理`ssh-agent`.
+* [ssh-agent (hkupty)](https://github.com/hkupty/ssh-agent) - 自动启动`ssh-agent`以设置和加载`ssh`连接所需的凭据.
 * [ssh](https://github.com/zpm-zsh/ssh) - 为`ssh`添加主机完成.
 * [surf](https://github.com/beardcoder/surf.plugin.zsh) - 添加冲浪的完成.
 * [test-kitchen-zsh-plugin](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - 添加完成 [Test Kitchen](https://kitchen.ci/).
 * [tmux pane words](https://gist.github.com/blueyed/6856354) - 用于完成您的单词的键绑定 [tmux](https://tmux.github.io) 面包.
 * [tugboat](https://github.com/DimitriSteyaert/Zsh-tugboat) - 添加自动完成功能 [tugboat](https://github.com/petems/tugboat) 命令.
 * [umake](https://github.com/zlsun/umake) -  Ubuntu umake的Tab完成.
-* [vert.x-omz-plugin](https://github.com/davidafsilva/vert.x-omz-plugin) - 提供自动完成功能 [vertx](https://vertx.io/) 命令.
+* [vert.x](https://github.com/davidafsilva/vert.x-omz-plugin) - 提供自动完成功能 [vertx](https://vertx.io/) 命令.
 * [yarn](https://github.com/g-plane/zsh-yarn-autocompletions) - 纱线自动完成.
 
 ## Themes
@@ -1040,7 +1042,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [vira](https://github.com/FernandoTorres/omz-vira) - 更新bira主题，显示`vim` bindkey -v状态.
 * [wade](https://github.com/wadehammes/wade.zsh-theme) - 流行的ZSH主题的混搭 [Agnoster](https://gist.github.com/agnoster/3712874) 和 [Fishy](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/fishy.zsh-theme)，有一些视觉调整.
 * [wang-iterm](https://github.com/0532/wang-iterm-zsh) - 基于0532主题.
-* [webicons](https://github.com/Jmclerck/webicons.zsh-theme) - Includes `git` status, node and yarn versions in prompt.
+* [webicons](https://github.com/Jmclerck/webicons.zsh-theme) - 在提示符中包含`git`状态，节点和纱线版本.
 * [wild-cherry](https://github.com/mashaal/wild-cherry) -  ZSH，iTerm 2，Sublime，Atom和Mou的童话灵感主题.
 * [work-line](https://github.com/afnizarnur/work-line) - 主题与漂亮的表情符号.
 * [wynwyn](https://github.com/thaffenden/wynwyn.zsh-theme)   - 一个主题，旨在向您展示您需要的信息.  `wynwyn`从默认主题`avit`和优秀的主题中获取灵感 [Spaceship prompt](https://github.com/denysdovhan/spaceship-prompt).

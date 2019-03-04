@@ -79,6 +79,7 @@
 - [Home Assistant](awesome/awesome-home-assistant.md) - 开源家庭自动化，将本地控制和隐私放在第一位.
 - [IBM Cloud](awesome/awesome-ibmcloud.md) - 面向开发人员和公司的云平台.
 - [Firebase](awesome/awesome-firebase.md) - 基于Google Cloud Platform构建的应用开发平台.
+- [Robot Operating System 2.0](awesome/awesome-ros2.md) - 一套软件库和工具，可帮助您构建机器人应用程序.
 
 
 ## Programming Languages
@@ -479,6 +480,7 @@
 - [Mastodon](awesome/awesome-mastodon.md) - 开源分散式微博网络.
 - [Ethereum](awesome/Awesome-Ethereum.md) - 智能合约开发的分布式计算平台.
 - [Blockchain AI](awesome/awesome-blockchain-ai.md) - 用于人工智能和机器学习的区块链项目.
+- [EOSIO](awesome/awesome-eosio.md) - 支持工业规模应用程序的分散式操作系统.
 
 ## Miscellaneous
 
@@ -581,10 +583,13 @@
 - [Speakers](awesome/awesome-speakers.md) - 编程和设计界的会议和聚会发言人.
 - [Board Games](awesome/awesome-board-games.md) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](awesome/awesome-software-patreons.md) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](awesome/awesome-parasite.md) - 寄生虫和宿主 - 病原体相互作用.
-- [Food](awesome/awesome-food.md) - Food-related projects on GitHub.
+- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
+- [Food](awesome/awesome-food.md) -  GitHub上与食品有关的项目.
 - [Mental Health](awesome/awesome-mental-health.md) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - 开始接受比特币.
+- [Scientific Computing](awesome/awesome-scientific-computing.md) - 使用计算机解决复杂的科学问题.
+- [Amazon Sellers](awesome/awesome-amazon-seller.md)
+- [Agriculture](awesome/awesome-agriculture.md) - 用于农业和园艺的开源技术.
 
 
 ## Related

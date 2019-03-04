@@ -2,14 +2,12 @@
 
 ## Electric Guitar Specifications
 
+
 这是一个用于组装固体电吉他的“自上而下的检查表”.
-它可以帮助您构建具有特定声音和可播放性特征的吉他.
+ 它可以帮助您构建具有特定声音和可播放性特征的吉他.  请阅读 [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) 在贡献之前. [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 ![Electric Guitar Specifications](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/Sound-and-Playability.jpg)
 
-![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
-
-请阅读 [licence and the contribution guidelines](https://github.com/gitfrage/guitarspecs/blob/master/contributing.md) 在贡献之前.
 
 
 
@@ -64,7 +62,7 @@
  轮廓|  厚度|  Warmoth * |  挡泥板* |  吉布森*      
 ------------|-------------|---------------|---------------------------|--------------
  D |  薄|  向导|  D形|           
-C           | thin/medium | Standard Thin | C Shape (AM Std)          | Traditional C
+ C |  薄/中|  标准薄|  C形（AM标准）|  传统的C.
  C |  中|  59回调|  深C |  Round C（1959 LP）             
  U |  厚|  Fatback |  U形（Vintage Tele）| 
  V |  厚|  Boatneck |  在形状（Vintage 52 Tele）|             
@@ -129,7 +127,7 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
  标题|  宽度|  高度|  例
 -------------|---------|-----------| -----------
- 小|  狭窄|  低|  复古挡泥板
+Small		 | narrow  | low       | vintage Fender
  中|  狭窄|  高|  很多马丁斯
  中型Jumbo |  宽|  低|  很多吉布森人
  Jumbo |  宽|  高|  现代挡泥板
@@ -169,24 +167,25 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
 #### Flat Mount Hardtail Routing
 
-     Flat Mount Hardtail：Vintage Tele：标准Tele：Schaller：
-     ... oooooo .. .. o ... o ... o ... o .. ... oooooo ..
-     ..o.....o.....o..      ...o.o.o.o.o.o...   ..o.....o.....o..   ...o....o....o...
+         “Strat”“Tele”“Tele”“Schaller”
+    复古与标准复古标准
+    ... oooooo .. .. o ... o ... o ... o .. ... oooooo ..
+    .. o ..... o ..... o ... ... oooooo .. .. o ..... o ..... o .. ... o .... o. ...... o ......
 
 
  型号|  E / e |  站点孔Ø|  站点孔dist |  孔|  桥孔Ø|  Bridgehole dist
 --------------------|------------------|-------------------|------------------|---------|----------------|-------------
- 复古策略|  57毫米（2 1/4英寸）| 3.18毫米（0.125英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  21毫米（.827“）
- 复古狭窄的战略|  54毫米（2 1/8英寸）| 4.78毫米（0.188英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  21毫米（.827“）
- 标准策略|  52.83毫米（2.08英寸）| 3.18毫米（0.125英寸）|  11.3毫米（.446“）| 3 | 3毫米（1/8”）|  22.6毫米（.89“）
- 老式电话|  54毫米（2 1/8英寸）| 3.18毫米（0.125英寸）|  10.9毫米（.429“）| 4 | 3毫米（1/8”）|  21.6毫米（.85“）
- 标准远程|  54毫米（2 1/8英寸）| 3.18毫米（0.125英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  32.4毫米（1.267英寸）
+ Strat Vintage |  57毫米（2 1/4英寸）| 3.18毫米（0.125英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  21毫米（.827“）
+ Strat Vintage Narrow |  54毫米（2 1/8英寸）| 4.78毫米（0.188英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  21毫米（.827“）
+ Strat标准|  52.83毫米（2.08英寸）| 3.18毫米（0.125英寸）|  11.3毫米（.446“）| 3 | 3毫米（1/8”）|  22.6毫米（.89“）
+ Tele Vintage |  54毫米（2 1/8英寸）| 3.18毫米（0.125英寸）|  10.9毫米（.429“）| 4 | 3毫米（1/8”）|  21.6毫米（.85“）
+ 远程标准|  54毫米（2 1/8英寸）| 3.18毫米（0.125英寸）|  10.5毫米（0.413英寸）| 3 | 3毫米（1/8“）|  32.4毫米（1.267英寸）
  Schaller 47X |  51毫米 -  55.5毫米|   -  |   -  |  3 |  3.18毫米（0.125“）|  - 
 
 
 #### Tremolo Routing
 
-    “Vintage”：“标准”：
+         复古标准
     .. o..o..o..o..o ... o ...... ..... O ....... O .....
 
  型号|  E / e |  孔|  孔dist.  |  孔Ø
@@ -202,12 +201,12 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
 #### Tune-O-Matic Gibson Style Routing
 
-    Tune-O-Matic：TOM“穿过身体”：
-    行人天桥.......... o ......
-    Steg .... o ............ .... oooooo ..
-    侧支架..o .......... o ... ..o ............ o ..
+                  Tune-O-Matic TOM“串穿身体”
+    尾巴.......... o ......
+    尾部o ooooo o ..
+    桥...... o .......... o ...... .. o ............ o ..
 
- 型号|  E / e |  桥|  尾件|  tailpiece top |  尾翼底部|  Ø
+ 型号|  E / e |  桥|  尾部|  尾部上衣|  尾部底部|  Ø
 ------------|------------|--------------|-------------------|-------------------|-------------------|------
  调-O-Matic的|  约  52毫米* |  74毫米（2.91英寸）|约82毫米* | 38毫米（1.49英寸）|  41毫米（1.61英寸）|约11毫米（0.44英寸）
 
@@ -226,39 +225,28 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
   
 ### Pickup Routing
 
- 说明|  大道.  长度/宽度/深度*
---------------|------------------------------------
- 单线圈Strat |  mm（“）
- Humbucker |  mm（“）
- 宽Humbucker ** |  mm（“）
- Mini Humbucker |  mm（“）
- Tele Neck |  mm（“）
- Tele Bridge |  mm（“）
- P90 |  mm（“）
- 口红管|  mm（“）
- Jazzmaster |  mm（“）
+ 说明|  宽度/宽度/深度* |  皮卡框架设计
+--------------|---------------| --------------
+ 单线圈Strat |   -  |
+ Humbucker |   -  |  扁平，弯曲，高（桥），低（颈部）
+ 宽Humbucker ** |   -  |  扁平，弯曲，高（桥），低（颈部）
+ Mini Humbucker |   -  | 
+ Tele Neck |   -  |
+ Tele Bridge |   -  |
+ P90 |   -  |
+ 口红管|   -  |
+ Jazzmaster |   -  |
 
-*精确的规格可在制造商的网站上找到.
+*精确的规格可以在制造商的网站上找到，如：
+> [bareknucklepickups.co.uk](https://www.bareknucklepickups.co.uk/support#dimensions) - 尺寸
 
-**宽Humbucker（与Seymourduncans“Trembucker”或Dimarzios“F-spaced Hambucker”相同，可用于标准“Humbucker Routing”具有更大刺痛距离的吉他
-
-&gt; Seymourduncan.com说：
-&gt;“快速简便地告诉您需要的是从高弦线的中间到低弦线的中间，直接在拾音器上测量.如果距离大于2英寸或50毫米，请选择Trembucker如果它小于2英寸或50毫米，那就选择一个双线圈拾音器.“
+ **宽Humbucker（与Seymourduncans“Trembucker”或Dimarzios“F-spaced Hambucker”相同）可用于标准“Humbucker Routing”具有较大刺痛距离的吉他.  从高弦的中间到低弦的中间测量，直接在拾音器上方.  如果距离大于2英寸或50毫米，请选择宽双线圈.
 
 
 ----------
 
 ## Hardware
 ![hardware](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip12_hardware.jpg)
-
-### Tuning Machines
-![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
-
-调音机选项：
-
- - 比率 - 围绕轴头1x绕组 - 需要1x旋转.
-   较大的比例（1:18&gt; 1:14）允许更精细的调整.
- - 标准锁定与锁定 - 锁定调谐器弦穿过轴孔插入，并通过外部螺钉固定
 
 ### Bridges
 ![bridge](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip11_bridge.jpg)
@@ -271,11 +259,19 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 >  [ABM](https://abm-guitarpartsshop.com/From-a-solid-Block-to-a-Bridge:_:206.html) - 表示贝尔黄铜和钢铁塑造吉他声音的特征，而铝在音调的转移中基本上是中性的.     
 >  [TonePros](http://www.tonepros.com/bridge-and-tailpiece-sets/)  - 桥梁和尾翼套件.     
 
+### Tuning Machines
+![tuning machine head](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip10_tuning-machine-head.jpg)
+
+调音机选项：
+ - 配置：3L + 3R，6-in-Line
+ - 比率 - 围绕轴头1x绕组 - 需要1x旋转.
+   较大的比例（1:18&gt; 1:14）允许更精细的调整.
+ - 标准锁定与锁定 - 锁定调谐器弦穿过轴孔插入，并通过外部螺钉固定
+ 
 ### Knob Styles
 ![knob](https://raw.githubusercontent.com/gitfrage/guitarspecs/master/./images/clip13_knob.jpg)
 
 旋钮有3种常见的风格：
-
  - 钟声
  - 速度
  - 圆顶
@@ -292,7 +288,6 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
  -  String Ferrules（如果你使用“穿过身体的绳子”而不是桥梁）
  -  String Retainers
  - 表带固定器
-
 
 对于每个螺钉，必须预先钻孔到钻芯直径（不是外径）
 
@@ -328,7 +323,7 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 - 输出：低（复古），中等，高（经常用于爵士乐和蓝调）
 - 接线：1,2,3或4导体（4导体允许最灵活的接线）*
 - 位置：桥，颈，中
-- Passive vs. Active (Active often used for distortion sound)
+- 被动与主动（主动常用于失真声）
 - 直流电阻：指示拾音器的输出量
 - 情商聊天：关于低音，中音和高音的一般概念.
 
@@ -372,7 +367,6 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
 >- [seymourduncan](http://www.seymourduncan.com/wiring-diagrams)
 >- [dimarzio](http://www.dimarzio.com/support/wiring-diagrams)
->- [bareknucklepickups](https://bareknucklepickups.co.uk/main/schematics.php)
 >- [amplifiedparts](https://www.amplifiedparts.com/tech-corner/electric-guitar-wiring-diagrams)
 
 ### Potentiometer and Capacitor Values
@@ -412,7 +406,7 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
  Active Electronics试图降低屏蔽电缆和放大器输入阻抗的可靠性.  然而，这需要动力来运作，这是它最大的缺点.
 
-> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) - 用于将吉他电子设备与屏蔽电缆上的声音影响分离.    
+> [Custom Buffers (german)](http://www.guitar-letter.de/Angebot/BufferUndAmps/Impedanzwandler.htm) -  used  to decouple the guitar electronics from the sound influencing effects on the shielded cable.    
 > [Seymour Duncan BMP-1Standard Blackout Modular Preamp](http://www.seymourduncan.com/accessory/blackouts-preamp-short-shaft) - 使任何拾取活动.     
 > [EMG PA2 Preamp/Booster](http://www.emgpickups.com/pa2.html)  - 迷你开关，0-20dB增强.    
 
@@ -428,7 +422,7 @@ Strat脖子的脚后跟有一个圆形底座，Tele脖子的脚跟底部有一�
 
 大多数制造商使用以下命名约定来描述字符串集的张力：
 
- 名称|  &#39;e&#39;网站约.  |  &#39;E&#39;网站约.
+Name   	  | 'e' site approx. | 'E' site approx.
 ------------|--------------- | --------
  超轻|  .008 |  .039
  光|  .009 |  0.042
