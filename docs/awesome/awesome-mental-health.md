@@ -44,6 +44,7 @@
 * [It's Time To Talk About Mental Illness In Indie Development](https://www.engadget.com/2018/04/04/mental-illness-indie-take-this-kate-edwards-mike-wilson) - 杰西卡康迪特.
 * [Mental Self Care For Software Developers And Web Designers](https://www.elegantthemes.com/blog/editorial/mental-self-care-for-software-developers-and-web-designers) -  BJ Keeton.
 * [Mental Illness In The Web Industry](https://alistapart.com/article/mental-illness-in-the-web-industry) - 布兰登格雷戈里.
+* [My Mental Health Toolbelt](https://medium.com/@taylorotwell/my-mental-health-toolbelt-9b9fdd4ae149) - 泰勒奥特威尔.
 * [On Dealing With Anxiety And Depression As A Developer](https://dev.to/moimikey/on-dealing-with-anxiety-and-depression-as-a-developer-2ac4) -  Michael Scott Hertzberg.
 * [Overcoming Public Speaking Anxiety Of Software Engineers Using Virtual Reality Exposure Therapy](https://www.researchgate.net/publication/319064487_Overcoming_Public_Speaking_Anxiety_of_Software_Engineers_Using_Virtual_Reality_Exposure_Therapy) - 由Merve Denizci Nazligul，Murat Yilmaz，Ulas Gulec，Mert Ali Gozcu，Rory V. O&#39;Connor和Paul Clarke.
 * [Perfectionism, Anxiety And Learning To Be Kind To Yourself](https://medium.com/samsung-internet-dev/perfectionism-anxiety-and-learning-to-be-kind-to-yourself-e3c23710704) - 作者：Jo Franchetti.

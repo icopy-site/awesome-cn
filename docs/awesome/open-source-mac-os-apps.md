@@ -250,11 +250,11 @@
 - [Dolphin](https://github.com/dolphin-emu/dolphin)   - 适用于任天堂GameCube和Wii游戏的强大模拟器.  ！[cpp_icon] 
 - [OpenEmu](https://raw.githubusercontent.com/OpenEmu/OpenEmu)   - 针对macOS的复古视频游戏模拟.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='http://openemu.org/img/intro-md.png' width="400"/>  </p></details> 
 - [OpenRCT2](https://raw.githubusercontent.com/OpenRCT2/OpenRCT2)   - 重新实施RollerCoaster Tycoon 2.！[cpp_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://camo.githubusercontent.com/888d993a9716208446bd0d5a762977d6b7993058/68747470733a2f2f692e696d6775722e636f6d2f6537434b3553632e706e67' width="400"/>  </p></details> 
-- [Screentendo](https://raw.githubusercontent.com/AaronRandall/Screentendo)   - 将您的屏幕变成可玩的马里奥级别.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/AaronRandall/Screentendo/master/Screentendo/Screentendo.gif' width="400"/>  </p></details> 
+- [Screentendo](https://raw.githubusercontent.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.  ![objective_c_icon]  <details> <summary> Screenshots </summary> <p float="left">  <bt><img src='https://raw.githubusercontent.com/AaronRandall/Screentendo/master/Screentendo/Screentendo.gif' width="400"/>  </p></details> 
 - [Stockfish](https://github.com/daylen/stockfish-mac)   - 美丽，强大的象棋应用程序.  ！[cpp_icon]！[objective_c_icon] 
 
 ### Graphics
-- [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux). ![cpp_icon] ![c_icon] 
+- [Aseprite](https://github.com/aseprite/aseprite)   - 动画精灵编辑器和像素艺术工具（Windows，macOS，Linux）.  ！[cpp_icon]！[c_icon] 
 - [CaptuocrToy](https://raw.githubusercontent.com/gragrance/CaptuocrToy)   - 通过在线ocr apis捕获屏幕截图和识别文本的工具.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/gragrance/CaptuocrToy/master/screenshot.gif' width="400"/>  </p></details> 
 - [GifCapture](https://raw.githubusercontent.com/onmyway133/GifCapture)   - 用于macOS的Gif捕获应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/gifcapture.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g1.gif' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/Icon.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g2.gif' width="400"/>  <bt><img src='https://raw.githubusercontent.com/onmyway133/GifCapture/master/Images/g3.gif' width="400"/>  </p></details> 
 - [Gifcurry](https://raw.githubusercontent.com/lettier/gifcurry)   - 视频到GIF制造商，具有图形界面，可以裁剪，添加文本，搜索和修剪.  ！[haskell_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/KFZyEqq.png' width="400"/>  <bt><img src='https://i.imgur.com/ByyCNuk.gif' width="400"/>  </p></details> 
@@ -310,7 +310,7 @@
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)   - 用Swift编写的macOS简单菜单栏天气应用程序.  ！[swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu)   - 简单（裸骨）macOS菜单额外应用显示预设.  ！[swift_icon] 
 - [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  ！[swift_icon] 
-- [MenuMeters](https://github.com/yujitach/MenuMeters)   - 用于macOS的CPU，内存，磁盘和网络监视工具.  ！[objective_c_icon] 
+- [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.   ![objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness)   -  macOS app改变菜单栏上的屏幕亮度.  ！[javascript_icon] 
 - [Night Shift Control](https://raw.githubusercontent.com/isaiasmatewos/night-shift-control)   - 夜班控制是一个简单的macOS菜单栏应用程序，用于控制夜班.  它的目的是带来夜班失踪的f.lux功能，例如禁用某些应用的夜班.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/isaiasmatewos/night-shift-control/master/screenshot.png' width="400"/>  </p></details> 
 - [PSIBar](https://github.com/nikhilsh/PSIBar)   - 快速入侵PSI macOS状态栏应用程序.  ！[swift_icon] 
@@ -369,7 +369,7 @@
 - [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver)   - 在Swift的开发和发布期间方便的日志记录.  ！[swift_icon] 
 - [Unused](https://github.com/jeffhodnett/Unused)   - 用于检查Xcode项目未使用资源的Mac应用程序.  ！[objective_c_icon] 
 - [Vagrant Manager](https://raw.githubusercontent.com/lanayotech/vagrant-manager)   - 使用Vagrant Manager for macOS在一个地方管理您的流浪汉机器.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/1NTsz6S.gif' width="400"/>  </p></details> 
-- [macGist](https://github.com/Bunn/macGist) - Simple app to send pasteboard items to GitHub's Gist.  ![swift_icon] 
+- [macGist](https://github.com/Bunn/macGist)   - 简单的应用程序将粘贴板项目发送到GitHub的Gist.  ！[swift_icon] 
 - [syncthing-macosx](https://raw.githubusercontent.com/syncthing/syncthing-macos)   -  Frugal nativemacOS macOS Syncthing应用程序包.  ！[objective_c_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://user-images.githubusercontent.com/1050166/48157165-35970f00-e2cf-11e8-8009-10bfbf7fbce2.png' width="400"/>  </p></details> 
 
 ### Podcast
@@ -509,6 +509,7 @@
 ### Video
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX)   - 用于macOS的Acid Cam v2扭曲视频以创造艺术.  ！[cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents)   -  macOS的非官方Apple Events应用程序.  ！[objective_c_icon] 
+- [Conferences.digital](https://raw.githubusercontent.com/zagahr/Conferences.digital)   - 在Mac上免费观看您最喜爱的开发者大会上最新最好的视频的最佳方式.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://raw.githubusercontent.com/zagahr/Conferences.digital/master/.github/screenshot.png' width="400"/>  </p></details> 
 - [Datamosh](https://raw.githubusercontent.com/roecrew/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://media.giphy.com/media/13bMkBsTQ7mh32/giphy.gif' width="400"/>  </p></details> 
 - [Face Data](https://raw.githubusercontent.com/xiaohk/FaceData)   - 用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] <details><summary>  截图 </summary><p float="left"><bt><img src='https://i.imgur.com/FEVY2Pu.png' width="400"/>  <bt><img src='https://raw.githubusercontent.com/xiaohk/FaceData/master/./result.gif' width="400"/>  </p></details> 
 - [Gifted](https://github.com/vdel26/gifted)   - 快速轻松地将任何短视频转换为动画GIF.  ！[objective_c_icon] 

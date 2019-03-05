@@ -17,12 +17,6 @@
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/fliqlo.png)](http://fliqlo.com/)
 
-### Padbury Clock
-
-&gt;一个非常简单的时钟屏幕保护程序.
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/padburyClock.png)](http://padbury.me/clock/)
-
 ### Today
 
 &gt;时间或日期与On Kawara的“今日系列”画作类似.
@@ -72,6 +66,12 @@ Free
 &gt;显示与当前时间对应的纯色.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/colorClockSaver.png)](https://github.com/edwardloveall/colorclocksaver)
+
+### ScreenMazer
+
+&gt;连续构建然后解决迷宫，同时显示当前时间.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
 ## iOS (and Apple TV) Inspired
 
@@ -188,6 +188,14 @@ Donationware
 精简版（免费）和完整版（3美元）
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
+### October 30
+
+&gt;从2018年的iPad活动中平滑地更改371 Apple徽标.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Other
 

@@ -590,6 +590,7 @@
 - [Scientific Computing](awesome/awesome-scientific-computing.md) - 使用计算机解决复杂的科学问题.
 - [Amazon Sellers](awesome/awesome-amazon-seller.md)
 - [Agriculture](awesome/awesome-agriculture.md) - 用于农业和园艺的开源技术.
+- [Plotters](awesome/awesome-plotters.md) - 计算机控制的绘图机和其他视觉艺术机器人.
 
 
 ## Related

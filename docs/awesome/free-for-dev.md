@@ -242,9 +242,10 @@
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
   * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
-  * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
+  * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
+  * [paessler.com](https://www.paessler.com/)   - 强大的基础架构和网络监控解决方案，包括警报，强大的可视化功能和基本报告.  最多可释放100个传感器.
 
 ## Crash and Exception Handling
 
@@ -267,12 +268,12 @@
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
   * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
-  * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
+  * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
   * [mailjet.com](https://www.mailjet.com/) - 每月6,000封电子邮件免费
-  * [sendinblue.com](https://www.sendinblue.com/) - 每月9,000封电子邮件免费
+  * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) - 用于开发的虚假SMTP服务器，包含1个收件箱的免费计划，50条消息，没有团队成员，2封电子邮件/秒，没有转发规则
   * [zoho.com](https://www.zoho.com/mail/) - 最多25个用户的免费电子邮件管理和协作
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
@@ -349,7 +350,7 @@
   * [simperium.com](https://simperium.com/)   - 即时自动地移动数据，多平台，无限制地发送和存储结构化数据，最多  每月2,500名用户
   * [pushcrew.com](https://pushcrew.com/)   - 推送通知服务.  最多2000个订阅者的无限通知
   * [streamdata.io](https://streamdata.io/)   - 将任何REST API转换为事件驱动的流API.  免费计划多达100万条消息和10个并发连接
-  * [posthook.io](https://posthook.io/) — Job Scheduling Service. Allows you to schedule requests for specific times. 500 scheduled requests/month free.
+  * [posthook.io](https://posthook.io/)   - 作业调度服务.  允许您安排特定时间的请求.  500个预定请求/月免费.
   * [paraio.com](https://paraio.com)   - 具有灵活身份验证，全文搜索和缓存的后端服务API.  免费提供1个应用程序，1GB应用程序数据.
 
 ## Web Hosting
@@ -492,7 +493,7 @@
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
-  * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
+  * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
@@ -532,7 +533,7 @@
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
    * [jetbrains.com](https://jetbrains.com/products.html)   - 生产力工具，IDE和部署工具.  学生，教师，开源和用户组的免费许可
    * [codepen.io](https://codepen.io/) -  CodePen是网络前端的游乐场
-   * [repl.it](https://repl.it/) - 用于各种程序语言的云编码环境
+   * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
    * [codesandbox.io](https://codesandbox.io/) -  React，Vue，Angular，Preact等在线游乐场
    * [stackblitz.com](https://stackblitz.com/) - 用于Angular和React的在线VS Code IDE
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持

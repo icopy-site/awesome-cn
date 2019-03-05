@@ -42,7 +42,7 @@
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote)   - 这是关于在不离开终端的情况下听音乐.  仅限macOS.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
-- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端收听SomaFM.
 - [nehm](https://github.com/bogem/nehm) - 控制台工具，下载，设置IDv3标签并添加到您的iTunes（如果您使用macOS）您的SoundCloud喜欢方便的方式.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) - 由ncmpc启发的基于ncurses的音乐播放器守护进程客户端.
@@ -52,30 +52,31 @@
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
-- [TTYtter](https://github.com/oysttyer/oysttyer) - Twitter client- ([original](http://www.floodgap.com/software/ttytter/)).
+- [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端 - （[original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
 - [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
 
 ### Video
 
-- [youtube-dl](http://rg3.github.io/youtube-dl/)   - 一个小型命令行程序，用于从YouTube.com和更多网站下载视频.  您可以使用`brew install youtube-dl`进行安装.
+- [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
 - [streamlink](https://github.com/streamlink/streamlink)   - 一种命令行实用程序，可将来自各种服务的视频流传输到视频播放器（如VLC）中.  Streamlink的主要目的是允许用户避免错误和CPU重闪存插件，但仍然能够享受各种流内容.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 命令行Youtube播放器.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
 
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
 - [boilr](https://github.com/tmrts/boilr) - 无依赖关系的CLI，用于从样板模板创建项目.
+- [cgasm](https://github.com/bnagy/cgasm)   - 提供x86组装文档的工具.  它发音为“SeekAzzem”.
 - [cookiecutter](https://github.com/audreyr/cookiecutter) - 从cookiecutters（项目模板）创建项目.
 - [dockly](https://github.com/lirantal/dockly) - 用于管理Docker容器的交互式CLI.
-- [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [legit](https://github.com/captainsafia/legit) - 从许多开源许可证中进行选择以生成LICENSE文件或向文件添加许可证头.
+- [mklicense](https://github.com/cezaraugusto/mklicense)   - 使用自定义信息轻松创建自定义LICENSE文件.  忙碌的人和初学者友好.
 - [rebound](https://github.com/shobrook/rebound) - 当您遇到编译器错误时，立即在终端中获取Stack Overflow结果.
 - [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman生成器的CLI脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
@@ -93,6 +94,7 @@
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
 - [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是上升还是下降.
+- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - 检查npm上是否有可用的包名.
 - [npm-user-cli](https://github.com/sindresorhus/npm-user-cli) - 获取npm用户的用户信息.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
@@ -183,13 +185,14 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面墙纸.
 - [yank](https://github.com/mptre/yank) -  Yank终端输出到剪贴板.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
+- [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [s](https://github.com/zquestz/s)   - 在终端中打开网络搜索.  支持多个搜索提供程序.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上搜索，下载和安装任何Google字体.
 - [aria2](https://github.com/tatsuhiro-t/aria2)   - 轻量级多协议和多源，跨平台下载实用程序.  它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink.
-- [mklicense](https://github.com/cezaraugusto/mklicense)   - 使用自定义信息轻松创建自定义LICENSE文件.  忙碌的人和初学者友好.
 - [share-cli](https://github.com/marionebl/share-cli) - 从命令行快速与本地网络共享文件.
 - [remote-share-cli](https://github.com/marionebl/remote-share-cli) - 快速与您的命令行共享文件.
 - [wego](https://github.com/schachmat/wego) - 在浏览器或控制台中获取天气.
+- [weather-cli](https://github.com/riyadhalnur/weather-cli) - 从您的航站楼查看您所在城市的天气情况.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器 - 控制台中的整个世界！
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中快速观看窗口，无需关闭或打开另一个全屏窗口.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从终端中的各个新闻媒体获取新闻标题.
@@ -200,9 +203,12 @@
 - [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
+- [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
+- [Ultimate Plumber](https://github.com/akavel/up) -  Ultimate Plumber是一个用于编写Linux管道的工具，具有即时实时预览功能. 
 
 ### macOS
 
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - 获取应用程序（macOS）的路径.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - 从包名称（macOS）获取包标识符：Safari→com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - 从包标识符（macOS）获取包名称：com.apple.Safari→Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - 安全地强制创建符号链接.
@@ -232,7 +238,6 @@
 - [explainshell](http://www.explainshell.com/) - 键入命令行代码段以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) - 通过命令行即时编码答案.
 - [how2](https://github.com/santinic/how2) - 找到在unix bash命令行上执行操作的最简单方法（如何实现howdoi的Nodejs）.
-- [shortcutfoo](https://www.shortcutfoo.com/) - 学习VIM，Emacs，git，bash等的快捷方式.
 - [The Fuck](https://github.com/nvbn/thefuck) - 华丽的应用程序，纠正您以前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) - 简化和社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) - 即时，中央，社区建立的文档.
@@ -247,6 +252,7 @@
 - [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
 - [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
 - [q](http://harelba.github.io/q/) - 一个命令行工具，允许在CSV / TSV（以及任何其他表格文本文件）上执行类似SQL的查询.
+- [yq](https://github.com/kislyuk/yq) - 命令行YAML处理器（使用与jq相同的语法）.
 
 ## Files and Directories
 
@@ -296,6 +302,7 @@
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
 - [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可以与任何列表一起使用：文件/目录，命令历史，进程，主机名，书签，git提交等.
+- [fselect](https://github.com/jhspetersson/fselect) - 使用类似SQL的查询查找文件.
 
 ## Version Control
 
@@ -326,7 +333,7 @@
 ### Gif Creation
 
 - [gifgen](https://github.com/lukechilds/gifgen) - 简单的高品质GIF编码.
-- [gifsicle](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
+- [gifsicle](https://github.com/kohler/gifsicle) - 创建，操作和优化GIF图像和动画.
 - [ttygif](https://github.com/icholy/ttygif) - 将终端录音转换为GIF动画.
 - [ttygif](https://github.com/sugyan/ttygif) -  ttyrec到gif.
 - [ttystudio](https://github.com/chjj/ttystudio) - 终端到GIF记录器减去头痛.
@@ -342,15 +349,16 @@
 
 - [SVGO](https://github.com/svg/svgo) -  SVG Optimizer是一个基于Nodejs的工具，用于优化SVG矢量图形文件.
 
-
 ## Text Manipulation
 
 - [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)   - 解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli等工具操作的JSON.
+- [figlet](http://www.figlet.org/) - 使用ASCII字符创建大文本.
 
 ## Screensavers
 
 - [cmatrix](https://github.com/Treri/cmatrix) - 显示滚动的“矩阵”屏幕 - （[original](http://www.asty.org/cmatrix/)).
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 显示在屏幕上增长的随机管道.
+- [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
 
 ## Graphics
@@ -359,20 +367,24 @@
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 - [JackPaper](https://github.com/jackel27/jackpaper) - 从unplash.com中提取随机/查询的图像并应用于桌面壁纸.
 
+## Just for Fun
+
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的说话牛（和其他动物）.
+- [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
+- [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
+- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
+- [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
+
 ## Other
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - 获取应用程序（macOS）的路径.
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp)   - ：book：Bible.JS CLI客户端.  通过命令行阅读圣经.
 - [birthday](https://github.com/IonicaBizau/birthday) - 知道朋友的生日快到了.
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 您可以 [install with homebrew](http://brewformulas.org/Cowsay).
-- [cgasm](https://github.com/bnagy/cgasm)   - 提供x86组装文档的工具.  它发音为“SeekAzzem”.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - 检测代码缩进.
 - [emoj](https://github.com/sindresorhus/emoj) - 在命令行中从文本中查找相关的表情符号.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
-- [fortune](http://brewformulas.org/Fortune) - 显示随机的财富.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
 - [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获得可用的端口.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的gzip大小.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)   - 哈希变得简单.  获取文本或标准输入的哈希值.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有Chrome标签，以提高性能，减少电池使用量并节省内存.
@@ -381,7 +393,6 @@
 - [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
 - [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
-- [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的speedtest-net包装器.
 - [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽的命令行界面.
@@ -389,17 +400,12 @@
 - [SpeedRead](https://github.com/sunsations/speed_read) - 一个简单的基于终端的开源Spritz-like.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我&#39;爱&#39;独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - 将匹配的双引号转换为单引号：我“爱”独角兽→我爱&#39;独角兽.
-- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - 用于Python中GDB的模块化可视化界面.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - 从您的航站楼查看您所在城市的天气情况.
 - [hget](https://github.com/bevacqua/hget) - 从终端以纯文本格式呈现网站.
-- [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - 一个Node.js CLI应用程序，显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) - 卡路里和体重跟踪器.
 - [trino](https://github.com/eneserdogan/trino) -  Trino CLI允许快速轻松地翻译在命令行中输入的单词和短语.
 - [alex](https://github.com/wooorm/alex) - 通过捕捉许多可能的违法行为，通过检查不敏感，不体谅的写作来增强文本.
-- [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
-- [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.

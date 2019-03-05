@@ -60,7 +60,7 @@
 - [js-git](https://github.com/creationix/js-git) -  Git的JavaScript实现.
 - [skale](https://github.com/skale-me/skale-engine) - 高性能分布式数据处理引擎.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - 纯JS Excel电子表格阅读器和编写器.
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) -  Git的纯JavaScript实现.
 
 
 ### Command-line apps
@@ -84,7 +84,7 @@
 - [Standard](https://github.com/feross/standard) -  JavaScript标准风格 - 一种统治它们的风格.
 - [ESLint](http://eslint.org) - 适用于JavaScript的可插入linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取GitHub用户的当前本地时间.
-- [David](https://github.com/alanshaw/david) - 告诉你什么时候你的包npm依赖项已经过时了.
+- [David](https://github.com/alanshaw/david) - 当你的包npm依赖项过期时告诉你.
 - [http-server](https://github.com/indexzero/http-server) - 简单的零配置命令行HTTP服务器.
 - [Live Server](https://github.com/tapio/live-server) - 开发具有livereload功能的HTTP服务器.
 - [bcat](https://github.com/kessler/node-bcat) - 管道命令输出到Web浏览器.
@@ -164,7 +164,7 @@
 - [debug](https://github.com/visionmedia/debug) - 微小的调试实用程序.
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) -  Node.js正在运行，但你不知道为什么？
 - [njsTrace](https://github.com/valyouw/njstrace) - 检测并跟踪代码，查看所有函数调用，参数，返回值以及每个函数所花费的时间.
-- [vstream](https://github.com/joyent/node-vstream) - 可检测的流混合来检查流的管道.
+- [vstream](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman](https://github.com/watson/stackman) - 使用代码摘录和其他好东西增强错误堆栈跟踪.
 - [locus](https://github.com/alidavut/locus) - 在运行时启动可以访问所有变量的REPL.
 - [0x](https://github.com/davidmarkclements/0x) -  Flamegraph分析.
@@ -199,7 +199,7 @@
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建框.
 - [terminal-link](https://github.com/sindresorhus/terminal-link) - 在终端中创建可点击的链接.
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
-- [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+- [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的可视宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 将字符串截断为终端中的特定宽度.
 - [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该过程.
 - [blessed](https://github.com/chjj/blessed) - 像Curses一样的库.
@@ -232,7 +232,6 @@
 ### Build tools
 
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速，零配置Web应用程序捆绑器.
-- [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
 - [rollup](https://github.com/rollup/rollup) - 下一代ES2015模块捆绑器.
 - [gulp](http://gulpjs.com) - 流式和快速构建系统，有利于代码优化配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速，可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
@@ -269,7 +268,7 @@
 - [Hapi](http://hapijs.com) - 构建应用程序和服务的框架.
 - [Koa](http://koajs.com) - 由Express背后的团队设计的框架，旨在成为Web应用程序和API的更小，更具表现力和更强大的基础.
 - [Express](http://expressjs.com) -  Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
-- [Feathers](http://feathersjs.com) - 以Express的精神建立的微服务框架.
+- [Feathers](http://feathersjs.com) - Microservice framework built in the spirit of Express.
 - [LoopBack](http://loopback.io) - 强大的框架，用于创建REST API并轻松连接到后端数据源.
 - [Meteor](https://www.meteor.com)   - 一个超简单，数据库无处不在的数据线上纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
 - [Restify](http://restify.com) - 使您能够构建正确的REST Web服务.
@@ -293,7 +292,7 @@
 
 - [documentation.js](https://github.com/documentationjs/documentation) -  API文档生成器，支持ES2015 +和流程注释.
 - [ESDoc](https://github.com/esdoc/esdoc) - 针对ES2015的文档生成器，附加测试代码和测量文档覆盖率.
-- [Docco](http://jashkenas.github.io/docco/) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
+- [Docco](http://jashkenas.github.io/docco/) - 文档生成器，生成HTML文档，显示与代码混合的注释.
 - [JSDoc](http://usejsdoc.org) -  API文档生成器，类似于JavaDoc或PHPDoc.
 
 
@@ -326,7 +325,7 @@
 - 承诺
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - 承诺图书馆，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) -  Promisify回调式函数.
-	- [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
+	- [delay](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 使用expire和prefetch记忆承诺返回函数.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
@@ -336,7 +335,7 @@
 	- [RxJS](https://github.com/ReactiveX/RxJS) - 反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - 将Observable转换为Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
-- Streams
+- 流
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
 - 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
@@ -469,7 +468,7 @@
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
-- [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility.
+- [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
 - [Stylecow](https://github.com/stylecow/stylecow)   - 解析，操作和转换现代CSS，使其与所有浏览器兼容.  插件可扩展.
@@ -646,12 +645,12 @@
 - [node-linux](https://github.com/coreybutler/node-linux) - 将脚本作为本机系统服务运行并登录到syslog.
 - [node-windows](https://github.com/coreybutler/node-windows) - 将脚本作为本机Windows服务运行并登录到事件查看器.
 - [supervisor](https://github.com/petruisfan/node-supervisor) - 当脚本崩溃时重新启动脚本，或者在`* .js`文件发生更改时重新启动脚本.
-- [Phusion Passenger](https://github.com/phusion/passenger) - 友好的流程管理器，直接集成到Nginx.
+- [Phusion Passenger](https://github.com/phusion/passenger) - Friendly process manager that integrates directly into Nginx.
 
 
 ### Automation
 
-- [robotjs](https://github.com/octalmage/robotjs) - 桌面自动化：控制鼠标，键盘和阅读屏幕.
+- [robotjs](https://github.com/octalmage/robotjs) - Desktop Automation: control the mouse, keyboard and read the screen.
 
 
 ### AST

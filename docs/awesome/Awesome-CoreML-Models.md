@@ -13,7 +13,7 @@
 
 自iOS 11以来，Apple发布了Core ML框架，以帮助开发人员将机器学习模型集成到应用程序中. [The official documentation](https://developer.apple.com/documentation/coreml)
 
- 我们以Core ML格式提供了最大的机器学习模型集合，以帮助iOS，macOS，tvOS和watchOS开发人员尝试机器学习技术.  我们创建了一个具有更好的模型可视化的网站 [CoreML.Store](https://coreml.store)，正在研究更多先进的功能.
+我们以Core ML格式提供了最大的机器学习模型集合，以帮助iOS，macOS，tvOS和watchOS开发人员尝试机器学习技术.
 
 如果您已经转换了Core ML型号，请随时提交 [pull request](https://github.com/likedan/Awesome-CoreML-Models/compare).
 

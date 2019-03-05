@@ -52,6 +52,7 @@
 * [RestClient.Net](https://github.com/MelbourneDeveloper/RestClient.Net) - Cross Platform REST Client for all C# platforms
 * [RestEase](https://github.com/canton7/RestEase) - 易于使用的类型安全REST API客户端库，简单且可自定义.
 * [RestLess](https://github.com/letsar/RestLess) -  .Net Standard的自动类型安全无反射REST API客户端库.
+* [Restier](https://github.com/OData/RESTier) -  RESTier是一个RESTful API开发框架，用于在.NET平台上构建基于OData V4的标准RESTful服务.
 * [Restsharp](https://github.com/restsharp/RestSharp) - 用于.NET的简单REST和HTTP API客户端
 * [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - 无缝地为WebApi项目添加了一个招摇.
   * [MicroElements.Swashbuckle.FluentValidation](https://github.com/micro-elements/MicroElements.Swashbuckle.FluentValidation) - 添加FluentValidation规则以招摇.
@@ -72,7 +73,7 @@
 * [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - 用于.NET的ETL框架（用于CSV，Flat，Xml，JSON，键值格式文件的分析器/写入器）.
 * [CQRSlite](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
 * [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) -  DataAccess Toolbox包含使用工作单元和存储库模式在ASP.NET Core和Entity Framework Core 1.0中进行数据访问的基类.
-* [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) -  .NET Core库，用于将程序集作为插件加载.
+* [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
 * [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)   -  DotnetSpider，一个类似于WebMagic和Scrapy的.NET标准网络爬行库.  它是.NET的轻量级，高效且快速的高级Web爬行和抓取框架.
 * [DotNetty](https://github.com/Azure/DotNetty) -  netty端口，事件驱动的异步网络应用程序框架.
 * [dotvvm](https://github.com/riganti/dotvvm) - 用于Web Apps的开源MVVM框架.
@@ -107,7 +108,7 @@
 * [aspnet-core-react-template](https://github.com/bradymholt/aspnet-core-react-template) -  ASP.NET Core 2.0 / React SPA模板应用程序.
 * [AspNetCoreSpa](https://github.com/asadsahi/AspNetCoreSpa) - 具有Angular CLI全功能应用程序的Asp.Net Core 2+和Angular 6 SPA.
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) -  ASP.NET MVC 5和ASP.NET Core的即用型模板，修复了存储库，服务，模型映射以及DI和StyleCop警告.
-* [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - 为ASP.NET Core中的MVC控制器和视图启用功能文件夹.
+* [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio)   -  Webpack，Visual Studio，ASP.NET Core和Angular的模板.  应用程序的客户端和服务器端都在一个ASP.NET Core项目中实现，这使得部署更容易.
 * [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju) - dotnet new templates with awesome architecture styles! Increases productivity to design layered applications based on Hexagonal, Clean or Event Sourcing architectures styles. It supports multiple data access frameworks (MongoDB, EntityFramework, Dapper or Kafka) and it is completely testable.
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) -  Microsoft ASP.NET核心JavaScript服务.
@@ -191,7 +192,7 @@
 * [Platformus](https://github.com/Platformus) - 基于ASP.NET Core 1.0和ExtCore框架的免费，开源和跨平台CMS.
 * [Squidex](https://github.com/Squidex/squidex) - 无头CMS，基于MongoDB，CQRS和事件采购.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core)   - 开源ASP.NET Core 2.x CMS.  它目前支持MS SQL并计划在不久的将来实现MSSQL，SQLite.  它有许多开箱即用的功能，如多语言支持，主题，模板......
-* [Weapsy](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+* [Weapsy](https://github.com/Weapsy/Weapsy)   - 基于DDD和CQRS的开源ASP.NET核心CMS.  它支持开箱即用的MSSQL，MySQL，SQLite和PostgreSQL.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - 视觉设计，通过拖放建立网站.
 
 ### Code Analysis and Metrics
@@ -236,7 +237,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
@@ -317,7 +318,7 @@
 
 ### Graphics
 * [GLFWDotNet](https://github.com/smack0007/GLFWDotNet) -  GLFW的.NET绑定.
-* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - A fluent wrapper around System.Drawing for the processing of image files [http://imageprocessor.org](http://imageprocessor.org) .  `4.5.x或以上`
+* [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) -  System.Drawing周围的流畅包装，用于处理图像文件 [http://imageprocessor.org](http://imageprocessor.org) .  `4.5.x或以上`
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - Cross-platform library for processing of image files written in C#.
 * [LibVLCSharp](https://github.com/videolan/libvlcsharp)：用于libvlc的.NET / Mono绑定，libvlc是为VideoLAN制作的VLC应用程序提供动力的多媒体框架.
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) -  ImageMagick的.NET库.
@@ -363,7 +364,7 @@
 * [dnxcore-logging-logstash](https://github.com/jvandevelde/dnxcore-logging-logstash) - 使用UDP和Redis传输的.NET Core应用程序的Logstash日志记录扩展.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - 无异常的.NET客户端
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - 流畅的日志记录API，可用于在整个应用程序中记录消息.
-* [LibLog](https://github.com/damianh/LibLog) - 单个文件，您可以通过nuget复制/粘贴或安装到您的库/框架/应用程序中，以提供日志记录抽象.
+* [LibLog](https://github.com/damianh/LibLog) - Single file for you to either copy/paste or install via nuget, into your library/ framework/ application to provide a logging abstraction.
 * [log4net](https://github.com/apache/logging-log4net) -  log4net是Microsoft®.NET运行时的优秀Apache log4j™框架的一个端口.
 * [NLog](https://github.com/NLog/NLog) - 高级.NET，Silverlight和Xamarin日志记录.
 * [Q42.Logging.ApplicationInsights](https://github.com/Q42/Q42.Logging.ApplicationInsights) - 在ASP.NET Core日志记录中构建日志appender，以将所有日志发送到Application Insights.
@@ -484,7 +485,7 @@
 * [nhibernate-core](https://github.com/nhibernate/nhibernate-core) -  NHibernate对象关系映射器.
 * [NEventStore](https://github.com/NEventStore/NEventStore)   - 使用事件源作为存储机制时，持久性库用于抽象不同的存储实现.  该库的开发特别关注DDD / CQRS应用程序.
 * [NPoco](https://github.com/schotime/NPoco)   - 简单的microORM，将查询结果映射到POCO对象.  项目基于Schotime的PetaPoco分公司.
-* [NReco.Data](https://github.com/nreco/data) - 用于SQL命令生成，CRUD操作和简单POCO映射的轻量级提供程序独立DAL.
+* [NReco.Data](https://github.com/nreco/data) - Lightweight provider-independent DAL for SQL commands generation, CRUD operations and simple POCO mapping.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 对于你的POCO来说，这是一个很小的ORM东西.
 * [querybuilder](https://github.com/sqlkata/querybuilder) - SqlKata Query Builder is a powerful Sql Query Builder written in C#.
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻便，简单，快速的基于会议的POCO ORM.
@@ -551,12 +552,12 @@
 * [tweetinvi](https://github.com/linvi/tweetinvi) - Intuitive .NET C# library to access the Twitter REST and STREAM API.
 
 ### Security
-* [aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - Middleware for adding security headers to an ASP.NET Core application.
+* [aspnetcore-security-headers](https://github.com/juunas11/aspnetcore-security-headers) - 用于向ASP.NET Core应用程序添加安全标头的中间件.
 * [HtmlSanitizer](https://github.com/mganss/HtmlSanitizer) - 清除HTML以避免XSS攻击.
 * [jose-jwt](https://github.com/dvsekhvalnov/jose-jwt) - 用于处理JOSE对象的库（JWT，JWA，JWS和相关）.
 * [Jwt.Net](https://github.com/jwt-dotnet/jwt) -  Jwt.Net，一种用于.NET的JWT（JSON Web Token）实现.
 * [JWT Simple Server](https://github.com/Xabaril/JWTSimpleServer) - 用于ASP.NET Core的轻量级动态jwt服务器.
-* [NWebsec](https://github.com/NWebsec/NWebsec) -  ASP.NET的安全库 [https://www.nwebsec.com](https://www.nwebsec.com).
+* [NWebsec](https://github.com/NWebsec/NWebsec) -  ASP.NET的安全库 [http://www.nwebsec.com](http://www.nwebsec.com).
 * [reCAPTCHA](https://github.com/PaulMiami/reCAPTCHA) - 用于ASP.NET Core的reCAPTCHA 2.0.
 * [roslyn-security-guard](https://github.com/dotnet-security-guard/roslyn-security-guard) -  Roslyn分析器，旨在帮助.NET应用程序进行安全审计.
 * [OwaspHeaders](https://github.com/GaProgMan/OwaspHeaders.Core) -  .NET Core中间件，用于注入Owasp推荐的HTTP标头，以提高安全性.
@@ -626,7 +627,7 @@
 * [xUnit.net](https://github.com/xunit/xunit) - 面向.NET Framework的免费，开源，以社区为中心的单元测试工具.
 
 ### Tools
-* [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) -  .NET Core和.NET Framework的命令行解析和实用程序.
+* [CommandLineUtils](https://github.com/natemcmaster/CommandLineUtils) - Command line parsing and utilities for .NET Core and .NET Framework.
 * [docfx](https://github.com/dotnet/docfx) - 用于构建和发布.NET项目的API文档的工具 [http://dotnet.github.io/docfx](http://dotnet.github.io/docfx)
 * [dotnetfiddle](https://dotnetfiddle.net) -  .NET沙箱，供开发人员快速尝试代码和共享代码段.
 * [dotnet-tools](https://github.com/natemcmaster/dotnet-tools) -  .NET Core命令行（dotnet CLI）的工具扩展列表.
@@ -721,7 +722,7 @@
   * [MegaMine](https://github.com/Nootus/MegaMine) - 开源挖掘解决方案，帮助矿工提取黄金，石英，花岗岩等.该解决方案使用ASP.NET Core和AngularJS以微服务方式利用多个轻量级组件构建.
   * [minicompiler](https://github.com/ealsur/minicompiler) - 缩小，捆绑和编译样本.
   * [MusicStore](https://github.com/aspnet/MusicStore) - 使用MVC和Entity Framework的示例MusicStore应用程序.
-  * [myFeed](https://github.com/worldbeater/myFeed) - ReactiveUI app sample built for Universal Windows Platform. Demonstrates usage of the MVVM pattern and Dependency Injection using PropertyChanged.Fody, DryIoc and Reactive Extensions.
+  * [myFeed](https://github.com/worldbeater/myFeed)   - 为通用Windows平台构建的ReactiveUI应用程序示例.  使用PropertyChanged.Fody，DryIoc和Reactive Extensions演示MVVM模式和依赖注入的用法.
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) - 带有.NET Core Preview 2的NLayerAppV3 N层架构.
   * [NorthwindTraders](https://github.com/JasonGT/NorthwindTraders) -  Northwind Traders是使用ASP.NET Core和Entity Framework Core构建的示例应用程序.
   * [Orchard Core - Modular and Multi-tenant applications](https://github.com/OrchardCMS/OrchardCore.Samples) - 使用Orchard Core Framework创建模块化和多租户应用程序.

@@ -154,7 +154,7 @@ $ git delete-tag v0.1.1
 $ git delete-merged-branches
 删除的功能/主题（是c029ab3）.
 删除功能/ live_preview（是a81b002）.
-Deleted feature/dashboard (was 923befa).
+已删除的功能/仪表板（为923befa）.
 ```
 
 ### fresh-branch
@@ -197,7 +197,7 @@ $ git移植开发
 通过“递归”策略进行合并.
   package.json |  2 +  - 
  1个文件已更改，1个插入（+），1个删除（ - ）
-Deleted branch development (was 64b3563).
+删除分支开发（64b3563）.
 ```
 
 ### alias
@@ -265,7 +265,7 @@ $ git发布0.1.0
 ...释放0.1.0
 关于分支发展
 您的分支机构与“原产地/开发”保持同步.
-无需提交，工作目录清理
+nothing to commit, working directory clean
 总计0（delta 0），重用0（delta 0）
 要https://github.com/tj/git-extras.git
    9fde751..e62edfa master  - &gt; master
@@ -556,7 +556,7 @@ $ Git的克隆福利
 
 ```
 $ git remote add rtomayko
-&gt; git remote add rtomayko git：//github.com/rtomayko/CURRENT_REPO.git
+> git remote add rtomayko git://github.com/rtomayko/CURRENT_REPO.git
 
 $ git remote add -p rtomayko
 &gt; git remote add rtomayko git@github.com:rtomayko/ CURRENT_REPO.git
@@ -689,7 +689,7 @@ $ git比较重构
 
 ```
 $ git submodule添加wycats / bundler vendor / bundler
-&gt; git submodule添加git：//github.com/wycats/bundler.git vendor / bundler
+> git submodule add git://github.com/wycats/bundler.git vendor/bundler
 ```
 
 ### ci-status
@@ -1066,7 +1066,7 @@ $ git问题[Tab]
 ```
 $ git issue show [Tab]
 7dfa5b7  - 从编辑器输入的问题
-e6a95c9 - New issue entered from the command line
+e6a95c9  - 从命令行输入新问题
 ```
 
 
@@ -1259,7 +1259,7 @@ Fast-forward
 在分支大师
 您的分支通过1次提交超过“origin / master”.
   （使用“git push”发布您的本地提交）
-无需提交，工作目录清理
+nothing to commit, working directory clean
 丢弃的藏匿@ {0}（7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f）
 ```
 
@@ -1375,7 +1375,7 @@ $ git墨水
 •移除 - 驱除....................................... 2015-10-21
     - 需要干预驱除功能
     -  uglified时无法正确映射
-    - Need to undo postCSS mapping changes
+    - 需要撤消postCSS映射更改
 •rm-convert_dates-order ................................ 2015-10-22
 •sass-lint ............................................. 2015 -10-14
     - 模块不起作用
@@ -1423,13 +1423,28 @@ $ git recursive-blame version package.json
 ```
 
 
+## [hyper-blame](https://commondatastorage.googleapis.com/chrome-infra-docs/flat/depot_tools/docs/html/git-hyper-blame.html)
+
+
+```
+$ git hyper-blame -i 3ddda43c ipsum.txt
+c6eb3bfa（LOREM 2014年8月11日23时15分57秒0000 1）Lorem存有胡萝卜，明尼阿波利斯
+134200d1（LOREM 2014年4月10日八时54分46秒+0000 2 *）ADIPISCING客户，你做那种TEMPOR
+a34a1d0d（2014年4月11日11时25分04秒+0000非常3a）和活力，劳动和肥胖
+ 134200d1（LOREM 2014年4月10日八时54分46秒0000 4 *）功能.  多年来VENIAM，“是谁？
+c6eb3bfa（LOREM 2014年8月11日23时15分57秒+0000 5）Nostrud例行学区LABORIS
+0f0d17bd（ATM 2014年6月2日11时31分48秒+0000 6 *）除非在它aliquipis优势.
+```
+
+
+
 ## [git-fire](https://github.com/qw3rtman/git-fire)
 
 ```
 $ git fire
 切换到新的分支&#39;fire-master-maochenyan@gmail.com-1451379915&#39;
 在分支fire-master-maochenyan@gmail.com-1451379915
-无需提交，工作目录清理
+nothing to commit, working directory clean
 计数对象：2，完成.
  写入对象：100％（2/2），168字节|  0字节/秒，完成.
 总计2（delta 0），重复使用0（delta 0）
@@ -1570,7 +1585,7 @@ git-fiddle
 
 在* interactive * rebase期间编辑提交元信息.
 
-`git-fiddle（1）&#39;是一个围绕`git-rebase（1）&#39;的轻量级包装器
+`git-fiddle(1)' is a lightweight wrapper around `git-rebase(1)' that
 用它的* author * date，作者名称来注释每个提交
  作为提交消息.  然后将应用对这些中的任何一个的更改
 在git-rebase序列中使用&#39;exec&#39;脚本.
@@ -1684,7 +1699,7 @@ cz-cli@2.9.6, cz-conventional-changelog@1.2.0
   style：不影响代码含义的更改（空格，格式，缺少半
 - 等等）
   重构：代码更改既不修复错误也不添加功能
-  perf：改进性能的代码更改
+  perf:     A code change that improves performance
   测试：添加缺失测试或更正现有测试
 ```
 

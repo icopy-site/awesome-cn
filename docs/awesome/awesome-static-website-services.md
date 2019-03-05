@@ -3,7 +3,7 @@
 
 &gt;静态网站的策划列表.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 <h1 align="center"> <a href="https://github.com/agarrharr/awesome-static-website-services/issues/65">寻找新的维护者</a> </h1>
 
@@ -124,7 +124,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东�
 - [SnapEngage](https://snapengage.com/) - 实时聊天与集成和自定义样式.
 - [tawk.co](https://www.tawk.to/) - 让您监控并与您网站上的访问者聊天.
 - [WebsiteAlive](https://www.websitealive.com/) - 为您的网站和社交网络实时聊天.
-- [Zopim](https://www.zopim.com/) - 免费试用实时聊天.
+- [Zopim](https://www.zopim.com/) - Live chat with free trial.
 
 ### Newsletters
 
@@ -161,7 +161,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) 列出的东�
 - [Moltin](https://moltin.com/) - 为任何事物添加电子商务功能.
 
 ## Payments
- - [MoneyButton](https://www.moneybutton.com/) - 使用比特币现金支付网站付款和捐款.
+ - [MoneyButton](https://www.moneybutton.com/) - 使用比特币（Satoshi的愿景）进行网站支付和捐赠.
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - 使用各种加密货币接受付款.
 
 ## Search

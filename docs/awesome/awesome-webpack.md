@@ -94,13 +94,12 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
 - [Style Loader](https://github.com/webpack/style-loader) ：用于Webpack的样式加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [PostCSS Loader](https://github.com/postcss/postcss-loader) ：用于Webpack的PostCSS加载程序.   -  * Maintainer *：`PostCSS Team` [！[Github] [githubicon]]（https://github.com/postcss)[！[Twitter] [twittericon]]（https://twitter.com/PostCSS）
-- [CSS Loader](https://github.com/webpack/css-loader): CSS loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [CSS Loader](https://github.com/webpack/css-loader) ：Webpack的CSS加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [SASS Loader](https://github.com/jtangelder/sass-loader) ：Webpack的SASS加载程序.   -  *维护者*：`Jorik Tangelder` [！[Github] [githubicon]]（https://github.com/jtangelder）[！[Twitter] [twittericon]]（https://twitter.com/jorikdelaporik）
 - [Less Loader](https://github.com/webpack/less-loader) ：较少的Webpack加载程序模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [Stylus Loader](https://github.com/shama/stylus-loader) ：webpack的手写笔加载器.   -  *维护者*：`Kyle Robinson Young` [！[Github] [githubicon]]（https://github.com/shama）[！[Twitter] [twittericon]]（https://twitter.com/shamakry ）
+- [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 - [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader) ：Webpack的同构CSS样式加载器.   -  * Maintainer *：`Kriasoft Team` [！[Github] [githubicon]]（https://github.com/kriasoft）[！[Twitter] [twittericon]]（https://twitter.com/kriasoft）
-- [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin): 
-轻量级CSS提取插件 -  * Maintainer *：`Webpack Contrib` [！[Github] [githubicon]]（https://github.com/webpack-contrib）
+- [Minify CSS-in-JS Loader](https://github.com/zaaack/minify-cssinjs-loader) ：基于RegExp的Webpack中缩小CSS-in-JS加载器，不需要babel.   -  *维护者*：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
 
 #### Language & Framework
 
@@ -109,7 +108,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Coffee Loader](https://github.com/webpack/coffee-loader) ：用于Webpack的咖啡加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader) ：在Webpack包中加载Bootstrap样式.   -  * Maintainer *：`ShakaCode Team` [！[Github] [githubicon]]（https://github.com/shakacode）[！[Twitter] [twittericon]]（https://twitter.com/shakacode）
 - [PostHTML Loader](https://github.com/posthtml/posthtml-loader) ：用于Webpack的PostHTML加载器.   -  * Maintainer *：`PostHTML Team` [！[Github] [githubicon]]（https://github.com/posthtml)[！[Twitter] [twittericon]]（https://twitter.com/PostHTML）
-- [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader): Webpack loader for the Elm programming language. -- *Maintainer*: `Richard Feldman` [![Github][githubicon]](https://github.com/rtfeldman) [![Twitter][twittericon]](https://twitter.com/rtfeldman)
+- [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader) ：用于Elm编程语言的Webpack加载器.   -  *维护者*：`Richard Feldman` [！[Github] [githubicon]]（https://github.com/rtfeldman）[！[Twitter] [twittericon]]（https://twitter.com/rtfeldman）
 - [Fengari Loader](https://github.com/fengari-lua/fengari-loader/)：使用运行Lua代码 [Fengari](https://fengari.io) .   -  *维护者*：`Daurnimator` [！[Github] [githubicon]]（https://github.com/daurnimator）[！[Twitter] [twittericon]]（https://twitter.com/daurnimator）
 
 #### Utility
@@ -182,6 +181,10 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) - 在运行时控制动态加载资源的`publicPath`  -  * Maintainer *：`Andrew Goldis` [！[Github] [githubicon]]（https://github.com/agoldis）
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier)   - 显示构建错误和警告的操作系统级别通知.   -  *维护者*：`Rocco Cataldo` [！[Github] [githubicon]]（https://github.com/roccoc）
 - [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 开发Chrome扩展时热重新加载 -  *维护者*：`Rubens PG Cavalcante` [！[Github] [githubicon]]（https://github.com/rubenspgcavalcante）[！[Twitter] [twittericon]]（https： //twitter.com/rubenspgc）
+- [Htmls Webpack Plugin](https://github.com/zaaack/htmls-webpack-plugin) ：用于webpack的简单快速的多htmls生成插件.   -  *维护者*：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
+- [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
+轻量级CSS提取插件 -  * Maintainer *：`Webpack Contrib` [！[Github] [githubicon]]（https://github.com/webpack-contrib）
+
 
 
 ### Webpack Tools
@@ -189,7 +192,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware) ：用于争用实时捆绑包的中间件.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) ：提供webpack应用程序.  更新浏览器.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Webpack Merge](https://github.com/survivejs/webpack-merge)   - 为Webpack设计的合并.   -  *维护者*：`JuhoVepsäläinen`[！[Github] [githubicon]]（https://github.com/bebraw）[！[Twitter] [twittericon]]（https://twitter.com/bebraw）
-- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin)   - 使用Webpack自动安装和保存deps.   -  *维护者*：`Eric Clemmons` [！[Github] [githubicon]]（https://github.com/ericclemmons）[！[Twitter] [twittericon]]（https://twitter.com/ericclemmons）
+- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
 - [Webpack Validator](https://github.com/js-dxtools/webpack-validator)   - 使用Joi验证您的webpack配置.   -  *维护者*：`js-dxtools Team` [！[Github] [githubicon]]（https://github.com/js-dxtools）
 - [Webpack Config Utils](https://github.com/kentcdodds/webpack-config-utils)   -  Util.  使您的webpack配置更容易阅读.   -  * Maintainer *：`Ken​​t C. Dodds` [！[Github] [githubicon]]（https://github.com/kentcdodds）[！[Twitter] [twittericon]]（https://twitter.com/ kentcdodds）
 - [Angular2 Webpack Toolkit](https://github.com/AngularClass/webpack-toolkit) -  Angular 2的Webpack工具和帮助器. -  * Maintainer *：`AngularClass` [！[Github] [githubicon]]（https://github.com/AngularClass）[！[Twitter] [twittericon]]（https： //twitter.com/AngularClass）
@@ -229,7 +232,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 ### Videos
 
   -  Naomi A. Jacobs通过BuzzJS 2.0 2017 |  2月27日至2017年 -  [Webpack: It's Not Magic](https://www.youtube.com/watch?v=_QEM9kdV-b0)
-  - 杰克富兰克林在HalfStack2016 |  18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
+- Jack Franklin at HalfStack2016 | 18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
   -  Emil Oberg通过YouTube |  2016年11月4日 -  [Introduction to Webpack 2, what is it?](https://www.youtube.com/watch?v=C_ZtQClrVYw)
   -  Emil Oberg通过YouTube |  2016年11月4日 -  [Webpack 2 - A full tutorial](https://www.youtube.com/watch?v=eWmkBNBTbMM)
   -  Sean Larkin NEJS Conf |  16-Sep-16 | [Webpack: Core Concepts](https://www.youtube.com/watch?v=AZPYL30ozCY&feature=youtu.be)
@@ -285,7 +288,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Frontend Boilerplate](https://github.com/tj/frontend-boilerplate) - 一个大多不应该存在的东西的样板 [TJ Holowaychuk](https://github.com/tj).
 - [ReactGo](https://github.com/reactGo/reactGo) - 来自的全栈通用Redux的一站式解决方案 [Ken Ding](https://github.com/choonkending).
 - [React Native Calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - 使用相同代码的移动，桌面和网站应用程序 [Benoit Vallon](https://github.com/benoitvallon).
-- [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - 与Cordova的React的TodoMVC示例 [Yuval Saraf](https://github.com/unimonkiez).
+- [React Cordova Boilerplate](https://github.com/unimonkiez/react-cordova-boilerplate) - TodoMVC example for React with Cordova from [Yuval Saraf](https://github.com/unimonkiez).
 - [React Universally](https://github.com/ctrlplusb/react-universally) - 入门套件为您提供生产就绪通用反应应用的最低要求.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - 针对dev和prod优化的全功能样板应用程序，包括PRPL [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - 使用带有压缩的Express的Styled Components [Erik Engi](https://github.com/kireerik).
@@ -294,8 +297,8 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) 播客
 - [Webpack interview questions](https://github.com/styopdev/webpack-interview-questions) - 采访答案的问题.
-- [Visual config tool for webpack](https://webpack.jakoblind.no) - A visual tool for creating webpack configs in your browser
+- [Visual config tool for webpack](https://webpack.jakoblind.no) - 用于在浏览器中创建webpack配置的可视化工具
 
 
 [twittericon]：https：//rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
-[githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
+[githubicon]：https：//rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
