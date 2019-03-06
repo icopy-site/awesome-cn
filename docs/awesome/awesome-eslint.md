@@ -34,20 +34,15 @@
 ### Frameworks and Libraries
 
 - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) -  Linting规则坚持 [John Papa's Angular Styleguide](https://github.com/johnpapa/angular-styleguide).
-- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -  AVA的Linting规则.
 - [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) -  Backbone的Linting规则.
-- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - 柴的Linting规则.
 - [Ember](https://github.com/netguru/eslint-plugin-ember) -  Ember的Linting规则.
 - [GraphQL](https://github.com/apollostack/eslint-plugin-graphql) - 根据模式检查GraphQL查询字符串.
 - [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) -  hapi的Linting规则.
-- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
-- [Jest](https://github.com/jest-community/eslint-plugin-jest) -  Is的Linting规则.
 - [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) -  JSDoc评论的Linting规则.
 - [Lodash](https://github.com/wix/eslint-plugin-lodash) -  Lodash特定的linting规则.
 - [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) -  Lodash / fp特定的linting规则.
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -  Lodash模板/下划线模板的插件.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - 流星特定的linting规则.
-- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -  Mongodb原生Node.js驱动程序linting规则.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) -  Ramda特定的linting规则.
 - [React](https://github.com/yannickcr/eslint-plugin-react) -  React和JSX的Linting规则.
@@ -99,6 +94,13 @@
 - [filenames](https://github.com/selaux/eslint-plugin-filenames) - 确保JavaScript文件的文件名一致.
 - [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) - 易于自动修复的导入排序.
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - 针对ESLint的特定于交换机案例的linting规则.
+
+### Testing Tools
+- [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -  AVA的Linting规则.
+- [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - 柴的Linting规则.
+- [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
+- [Jest](https://github.com/jest-community/eslint-plugin-jest) -  Is的Linting规则.
+- [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
 
 ## Preconfigured Tools with ESLint Set up
 

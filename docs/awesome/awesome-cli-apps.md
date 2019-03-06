@@ -59,14 +59,14 @@
 
 ### Video
 
-- [youtube-dl](http://rg3.github.io/youtube-dl/) - a small command-line program to download videos from YouTube.com and a few more sites. You can install with `brew install youtube-dl`.
+- [youtube-dl](http://rg3.github.io/youtube-dl/)   - 一个小型命令行程序，用于从YouTube.com和更多网站下载视频.  您可以使用`brew install youtube-dl`进行安装.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
 - [streamlink](https://github.com/streamlink/streamlink)   - 一种命令行实用程序，可将来自各种服务的视频流传输到视频播放器（如VLC）中.  Streamlink的主要目的是允许用户避免错误和CPU重闪存插件，但仍然能够享受各种流内容.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 命令行Youtube播放器.
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
 
 ## Development
 
@@ -171,7 +171,7 @@
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - 强大的复式会计系统，可从UNIX命令行访问.
+- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [moeda](https://github.com/thompsonemerson/moeda) - 使用CLI进行外汇汇率和货币兑换.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
 - [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
@@ -280,6 +280,7 @@
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) - 带翅膀的猫（1）克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
+- [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
 
 ### Directory Listing
 
@@ -295,6 +296,7 @@
 - [PathPicker](https://github.com/facebook/pathpicker/) - 解析命令的输出后，PathPicker会为您提供一个很好的UI来选择您感兴趣的文件.
 - [fz](https://github.com/changyuheng/fz) -  z的无缝模糊选项卡完成.
 - [goto](https://github.com/iridakos/goto) - 具有自动完成功能的shell的目录别名.
+- [z.lua](https://github.com/skywind3000/z.lua) - 一个新的CD命令，通过学习您的习惯，帮助您更快地导航.
 
 ### Search
 
@@ -369,7 +371,7 @@
 
 ## Just for Fun
 
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的说话牛（和其他动物）.
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.

@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  950 |  2019年3月2日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  951 |  2019年3月5日
 
 
 
@@ -247,7 +247,7 @@
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) - 使用Spotify API进行身份验证.
 
 ### Bots
-* Libs构建机器人* [back to top](#readme) 
+*Libs to build bot* [back to top](#readme) 
 
 * [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) ：企鹅： - 非官方SDK.
 * [Telegrammer](https://github.com/givip/Telegrammer)  ：企鹅： -  Telegram Bots开发人员的开源框架.  它建立在Apple / SwiftNIO之上，有助于展示出色的性能.
@@ -260,6 +260,7 @@
 * [Cachyr](https://github.com/YR/Cachyr) - 适用于iOS，macOS和tvOS的小型键值数据缓存.
 * [Carlos](https://github.com/spring-media/Carlos) - 简单但灵活的缓存.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - 如果您想让您的应用在离线时仍然有效.
+* [MemoryCache](https://github.com/yysskk/MemoryCache) - 类型安全的内存缓存.
 
 ### Chart
 [back to top](#readme) 
@@ -303,7 +304,7 @@
 * [Commander](https://github.com/kylef/Commander) ：企鹅： - 编写漂亮的命令行界面.
 * [CommandLine](https://github.com/jatoben/CommandLine) ：penguin： - 用于创建命令行界面的库.
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin： -  readline的零依赖替换.
-* [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
+* [Progress.swift](https://github.com/jkandzi/Progress.swift) ：企鹅： - 在命令行中添加漂亮的进度条.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin： - 一个可用于开发CLI的强大框架.
 * [Swiftline](https://github.com/nsomar/Swiftline) - 一组帮助您创建命令行应用程序的工具.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) ：penguin： - 用于生成文本表的轻量级库.
@@ -463,7 +464,7 @@
 * [Chronology](https://github.com/davedelong/Chronology) - 建立一个更好的日期/时间库.
 * [DateHelper](https://github.com/melvitax/DateHelper) - 简单的约会帮手.
 * [Datez](https://github.com/SwiftKitz/Datez) - 用于处理`NSDate`，`NSCalendar`，`NSDateComponents`和`NSTimeInterval`的库.
-* [Datify](https://github.com/hemangshah/Datify) - 易于约会的日期功能.
+* [Datify](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 * [NVDate](https://github.com/novalagung/nvdate) - 日期扩展库.
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - 轻松的NSDate管理.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - 时间和日历操作库.
@@ -595,7 +596,7 @@
 
 
 #### Bluetooth
-*Wrappers around CoreBluetooth* [back to top](#readme) 
+* CoreBluetooth周围的包装* [back to top](#readme) 
 
 * [BlueCap](https://github.com/troystribling/BlueCap) -  CoreBluetooth周围的包装等等.
 * [Bluejay](https://github.com/steamclock/bluejay) - 构建可靠蓝牙LE应用程序的简单框架.
@@ -1022,7 +1023,7 @@
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - 用于创建控制器的有用组件，旨在管理任何计算参数.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
-* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 生成并管理屏幕底部显示的上下文卡.
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格UI组件的集合.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
@@ -1058,7 +1059,7 @@
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - 一个UINavigationController子类，支持带隐藏或显示的pop交互式UINavigationBar.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 一个插入式通用库可帮助您管理导航栏样式，并在不同导航栏样式之间平滑过渡动画，同时为所有方向推送或弹出视图控制器.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 一个UITextView子类，它添加了对多行占位符的支持.
-* [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重用的UI开发，如制作乐高积木.
+* [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重复使用的UI开发，如制作乐高积木.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - 带液体动画的Spinner装载机组件.
 * [Macaw](https://github.com/exyte/macaw) - 功能强大且易于使用的矢量图形库，支持SVG.
@@ -1202,7 +1203,7 @@
 * [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) - 一个漂亮的渐变动画标签，可以轻松为任何视图添加闪烁效果.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 具有变形动画的简单倒计时UILabel，以及一些有用的功能.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - 包含内置标题/标签的文本输入控件，这样您就不必为每个字段添加单独的标题.
-* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - 适用于iOS的小故障UILabel.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) -  UILabel子类（de）增加UILabel中的数字.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类，它可以更新自己，使以前的格式更容易.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
@@ -1388,11 +1389,11 @@
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - 实现x-callback-url（跨应用程序通信）.
 * [Closures](https://github.com/vhesener/Closures) -  UIKit和Foundation的Swifty闭包.
 * [Curry](https://github.com/thoughtbot/Curry) - 功能currying.
-* [DeepDiff](https://github.com/onmyway133/DeepDiff) - Fast diff library.
-* [Delegated](https://github.com/dreymonde/Delegated) - 没有内存泄漏的基于闭包的委派.
+* [DeepDiff](https://github.com/onmyway133/DeepDiff) - 快速差异库.
+* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 快速灵活的O（n）差异算法框架.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
-* [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
+* [Dollar](https://github.com/ankurp/Dollar) - 类似于Javascript中的Lo-Dash或Underscore.
 * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - 适用于iOS的以太坊钱包工具包 - 您可以在没有服务器和区块链知识的情况下实施以太坊钱包.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - 标准类型和类应该如何工作.
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ：企鹅： - 功能强大且易于使用的查询生成器.
@@ -1433,7 +1434,7 @@
 * [Vaccine](https://github.com/zenangst/Vaccine) - 让您的应用免受重新编译 - 死亡.
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - 一个微框架，用于封装闭包中的[弱自我]和保护语句.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能.
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - 展示您真棒的新应用功能.
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - 标准库，基础和UIKit的微实用程序和扩展的集合.
 

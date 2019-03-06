@@ -596,6 +596,7 @@
 ## Related
 
 - [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - 搜索Awesome数据集.
+- [Awesome Search](https://awesomelists.top) - 快速搜索真棒列表.
 
 
 ## License

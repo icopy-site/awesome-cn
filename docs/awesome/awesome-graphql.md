@@ -63,23 +63,25 @@
 
 #### Clients
 * [relay](https://github.com/facebook/relay) -  Relay是一个用于构建数据驱动的React应用程序的JavaScript框架.
-* [Apollo Client](https://github.com/apollographql/apollo-client)   - 一个记录良好的GraphQL客户端.  有React和Angular绑定.
+* [Apollo Client](https://github.com/apollographql/apollo-client) - 适用于每个UI框架和GraphQL服务器的功能齐全的生产就绪缓存GraphQL客户端.
 * [aws-amplify](https://github.com/aws-amplify/amplify-js) - 由Amazon开发的用于缓存，分析等的客户端库，其中包括一种获取GraphQL查询的方法.
 * [graphql-request](https://github.com/prismagraphql/graphql-request) - 用于节点和浏览器的最小GraphQL客户端.
 * [FetchQL](https://github.com/gucheen/FetchQL) - 使用Fetch的简单GraphQL查询客户端.
 * [urql](https://github.com/FormidableLabs/urql) -  React的简单缓存GraphQL客户端.
-* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react) - A lightweight utility for adding GraphQL to React. components. Includes simple caching and uses GET requests that could additionally be cached through a service-worker.
+* [micro-graphql-react](https://github.com/arackaf/micro-graphql-react)   - 用于将GraphQL添加到React的轻量级实用程序.  组件.  包括简单缓存并使用GET请求，这些请求还可以通过服务工作者缓存.
 * [Lokka](https://github.com/kadirahq/lokka) -  GraphQL的简单JavaScript客户端，您可以在任何地方使用它.
 * [react-reach](https://github.com/kennetpostigo/react-reach) - 通过Redux与Graphql通信的库.
 * [Grafoo](https://github.com/grafoojs/grafoo) - 一个小型但完全成熟的基于缓存的GraphQL客户端
 
+#### HTTP Server Bindings
+* [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
+* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
+* [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
+
 #### Miscellaneous
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) -  GraphQL for JavaScript的参考实现.
-* [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
-* [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
-* [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
-* [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) -  CodeMirror的GraphQL模式和帮助程序.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -  GraphQL的Sequelize助手.
@@ -94,7 +96,6 @@
 * [GraysQL](https://github.com/larsbs/graysql) -  GraphQL管理器和加载器.
 * [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - 从ORM加载GraphQL架构的GraysQL扩展.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) -  GraphQL中注释的概念证明（即：将现有REST API转换为GraphQL端点）.
-* [Apollo Client](https://github.com/apollographql/apollo-client)   - 与Redux集成的文档齐全的GraphQL客户端.  有React和Angular绑定.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - 用于构建和维护GraphQL-JS服务器的工具库.
 * [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - 在没有架构的情况下，针对任何数据在任何地方运行GraphQL查询.
 * [graphql-tag](https://github.com/apollostack/graphql-tag) - 解析GraphQL查询的JavaScript模板文字标记.
@@ -106,7 +107,7 @@
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date)   - 与GraphQL.js一起使用的GraphQL日期标量类型.  此标量表示ISO 8601格式YYYY-MM-DD的日期.
 * [graphql-compose](https://github.com/nodkz/graphql-compose) - 工具，允许您通过插件从不同的数据源构建灵活的graphql架构.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - Create GraphQL APIs using joins, SQL or otherwise.
-* [Join Monster](https://github.com/acarl005/join-monster) - 用于批量数据提取的GraphQL-to-SQL查询执行层.
+* [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [GRelDAL](https://gql-dal.github.io/greldal/) - 一个简单的微框架，用于关系数据存储和GraphQL API之间的双向映射.
@@ -346,7 +347,6 @@
 ## Services
 
 * [Graphcool](https://www.graph.cool/)   - 您自己的GraphQL后端在5分钟内完成.  适用于每个GraphQL客户端，如Relay和Apollo.
-* [Reindex](https://www.reindex.io/) - 针对您的React应用程序的即时GraphQL后端.
 
 <a name="example" />
 

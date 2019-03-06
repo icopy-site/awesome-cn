@@ -37,7 +37,7 @@
 * [Loki](http://loki-lib.sourceforge.net/)   - 一个C ++设计库，包含常见设计模式和习语的灵活实现.  [MIT]
 * [MiLi](https://bitbucket.org/fudepan/mili/)   - 最小的标头C ++库.  [促进]
 * [OpenFrameworks](https://github.com/openframeworks/openFrameworks)   - 用于C ++创意编码的跨平台开源工具包.  [MIT] [website](http://www.openframeworks.cc/)
-* [Qt](https://www.qt.io/download-open-source/) :zap: - A cross-platform application and UI framework. [GPL/LGPL/Commercial]
+* [Qt](https://www.qt.io/download-open-source/)  ：zap： - 跨平台的应用程序和UI框架.  [GPL / LGPL /商业]
 * [Reason](http://code.google.com/p/reason/)   - 一个跨平台框架，旨在为需要C ++性能和强度的开发人员提供Java，.Net或Python的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)   - 一组OO框架，具有以非常有效的方式处理和分析大量数据所需的所有功能.  在CERN使用.  [LGPL]
 * [STLport](http://www.stlport.org/)   -  STL的示例性版本.  [自由]
@@ -140,7 +140,7 @@
 * [LZHAM](https://code.google.com/p/lzham/)   - 无损数据压缩库，压缩比类似于LZMA，但解压缩速度更快.  [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html)  ：zap： -  7z格式的默认和一般压缩方法.  [公共区域]
 * [LZMAT](http://www.matcode.com/lzmat.htm)   - 极快的实时无损数据压缩库.  [GPL]
-* [miniz](https://code.google.com/p/miniz/)   - 单C源文件Deflate / Inflate压缩库，兼容zlib的API，ZIP存档读/写，PNG写入.  [授予许可]
+* [miniz](https://github.com/richgel999/miniz)   - 单C源文件Deflate / Inflate压缩库，兼容zlib的API，ZIP存档读/写，PNG写入.  [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip)   -  Zlib具有最新的错误修复程序，支持PKWARE磁盘跨越，AES加密和IO缓冲.  [ZLIB]
 * [smaz](https://github.com/antirez/smaz)   - 小字符串压缩库.  [BSD]
 * [Snappy](https://google.github.io/snappy/)   - 快速压缩器/解压缩器.  [BSD]
@@ -164,7 +164,7 @@
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
 * [C++React](https://github.com/schlangster/cpp.react)   -  C ++ 11的反应式编程库.  [促进]
 * [Intel Parallel STL](https://github.com/intel/parallelstl)   - 用于C ++ 11及更高版本的英特尔®C++ 17 STL实现.  [Apache2的]
-* [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
+* [Intel TBB](https://www.threadingbuildingblocks.org/)   - 英特尔®线程构建模块.  [Apache2的]
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)   - 基于OpenCL的GPU加速SPH流体模拟库.  [MIT]
@@ -210,7 +210,7 @@
 * [LibreSSL](http://www.libressl.org/) -  2014年从OpenSSL分发的免费版SSL / TLS协议.[？]
 * [libsodium](https://github.com/jedisct1/libsodium)   -  P（ortable | ackageable）基于NaCl的加密库，自以为是，易于使用.  [ISC]
 * [libhydrogen](https://github.com/jedisct1/libhydrogen)   - 轻便，安全，易于使用的加密库，适用于受限环境.  [ISC]
-* [LibTomCrypt](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
+* [LibTomCrypt](https://github.com/libtom/libtomcrypt)   - 一个相当全面的模块化和便携式加密工具包.  [WTFPL]
 * [mbedTLS](https://github.com/ARMmbed/mbedtls)   - 开源，可移植，易于使用，可读且灵活的SSL库，以前称为PolarSSL.  [Apache2的] [website](https://tls.mbed.org/)
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/)   - 低级加密库.  [LGPL]
 * [OpenSSL](https://github.com/openssl/openssl)   - 功能强大的商业级全功能开源加密库.  [阿帕奇] [website](http://www.openssl.org/)
@@ -290,7 +290,7 @@
 * [EnTT](https://github.com/skypjack/entt)   - 游戏符合现代C ++.  [MIT]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)   - 用于创建2D / 3D移动和桌面游戏的跨平台原生C ++游戏框架.  [Apache2的]
 * [Godot](https://github.com/godotengine/godot)   - 功能齐全的开源MIT许可游戏引擎.  [MIT]
-* [Grit](http://www.gritengine.com/)   - 社区项目，为实现开放世界3D游戏构建免费游戏引擎.  [MIT]
+* [Grit](http://www.gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
 * [Halley](https://github.com/amzeratul/halley)   - 一个用C ++ 14编写的轻量级游戏引擎，带有“真正的”实体组件系统.  [Apache 2.0]
 * [KlayGE](https://github.com/gongminmin/KlayGE)   - 一个基于插件的架构的跨平台开源游戏引擎.  [GPL第二] [website](http://www.klayge.org/)
 * [OpenXRay](https://github.com/OpenXRay/xray-16)   -  STALKER游戏系列中使用的社区修改的X射线引擎.  [修改BSD /非商业]
@@ -334,7 +334,7 @@
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)   - 现代跨平台的低级3D图形库.  [Apache2的]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)   - 用于在C ++中编写DirectX 11.x代码的辅助类的集合.  [MIT]
 * [GLFW](https://github.com/glfw/glfw)   - 一个简单的跨平台OpenGL争用库.  [ZLIB /的libpng]
-* [herebedragons](https://github.com/kosua20/herebedragons)   - 使用各种引擎，框架或API实现的基本3D场景.  [MIT] [website](http://simonrodriguez.fr/dragon/)
+* [herebedragons](https://github.com/kosua20/herebedragons) - A basic 3D scene implemented with various engines, frameworks or APIs. [MIT] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D](https://github.com/horde3d/Horde3D)   - 小型3D渲染和动画引擎.  [EPL]
 * [Ion](https://github.com/google/ion)   - 一组小而有效的库，用于构建使用3D图形的跨平台客户端或服务器应用程序.  [Apache2的] [website](https://google.github.io/ion/)
 * [Irrlicht](http://irrlicht.sourceforge.net/)   - 用C ++编写的高性能实时3D引擎.  [ZLIB]
@@ -450,6 +450,7 @@
 * [CCV](https://github.com/liuliu/ccv)   - 基于C /缓存/核心计算机视觉库，现代计算机视觉库.  [BSD]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido)   - 用于嵌入式电子和机器人的高度模块化的C ++机器学习库.  [MIT] [website](http://fidoproject.github.io/)
+* [flashlight](https://github.com/facebookresearch/flashlight)   - 来自Facebook AI Research的快速，灵活的机器学习库，完全用C ++编写，基于ArrayFire张量库.  [BSD -3-第] [website](https://fl.readthedocs.io/en/latest/)
 * [MeTA](https://github.com/meta-toolkit/meta)   - 现代C ++数据科学工具包.  [MIT] [website](https://meta-toolkit.org/)
 * [Minerva](https://github.com/dmlc/minerva)   - 快速灵活的深度学习系统.  [Apache2的]
 * [mlpack](https://github.com/mlpack/mlpack)   - 可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
@@ -480,11 +481,11 @@
 * [MIRACL](https://github.com/CertiVox/MIRACL)   -  Multiprecision Integer和Rational算术加密库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)   -  muParser是一个用C ++编写的可扩展的高性能数学表达式解析器库.  [MIT]
 * [NT2](https://github.com/Mathieu-/nt2)   -  SIMD优化的数字模板库，提供类似MATLAB语法的接口.  [促进]
-* [LibTomMath](https://github.com/libtom/libtommath) - A free open source portable number theoretic multiple-precision integer library written entirely in C. [PublicDomain & WTFPL] [website](http://www.libtom.net/)
+* [LibTomMath](https://github.com/libtom/libtommath) - 一个完全用C语言编写的免费开源便携式数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h)   - 精益线性数学库，旨在图形编程.  [WTFPL]
 * [lp_solve](https://sourceforge.net/projects/lpsolve)   - 用于制定和解决线性编程问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)   - 基于GotoBLAS2 1.13 BSD版本的优化BLAS库.  [BSD 3条款] [website](http://www.openblas.net/)
-* [QuantLib](https://github.com/lballabio/quantlib)   - 用于量化融资的免费/开源库.  [改良BSD] [website](http://quantlib.org/)
+* [QuantLib](https://github.com/lballabio/quantlib) - A free/open-source library for quantitative finance. [Modified BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)   - 仅限C ++头的统计分布函数库.  [Apache2的] [website](https://www.kthohr.com/statslib.html)
 * [TinyExpr](https://github.com/codeplea/tinyexpr)   - 用于从字符串中解析和评估数学表达式的AC库.  [ZLIB]
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
@@ -505,7 +506,7 @@
 
 * [GStreamer](http://gstreamer.freedesktop.org/)   - 用于构建媒体处理组件图的库.  [LGPL]
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)   - 使用开放标准协议（RTP / RTCP，RTSP，SIP）的多媒体流媒体库.  [LGPL]
-* [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
+* [libVLC](https://wiki.videolan.org/LibVLC)   -  libVLC（VLC SDK）媒体框架.  [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)   - 方便地统一显示视频和音频文件的最相关技术和标签数据.  [BSD]
 * [QtAv](https://github.com/wang-bin/QtAV)   - 基于Qt和FFmpeg的多媒体播放框架，可轻松编写播放器.  [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/)  ：zap： - 简单的DirectMedia层.  [ZLIB]
@@ -691,7 +692,7 @@
 * [Mini-XML](https://github.com/michaelrsweet/mxml) - 用ANSI C编写的小型XML解析库.[LGPL2 with exceptions]
 * [PugiXML](http://pugixml.org/)   - 一个轻量级，简单快速的XML解析器，适用于支持XPath的C ++.  [MIT]
 * [RapidXml](http://rapidxml.sourceforge.net/)   - 尝试创建最快的XML解析器，同时保持可用性，可移植性和合理的W3C兼容性.  [促进]
-* [TinyXML](http://sourceforge.net/projects/tinyxml/) - A simple, small, minimal, C++ XML parser that can be easily integrating into other programs. [zlib]
+* [TinyXML](http://sourceforge.net/projects/tinyxml/)   - 一个简单，小巧，简约的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML2](https://github.com/leethomason/tinyxml2)   - 一个简单，小巧，高效的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML++](https://github.com/rjpcomputing/ticpp)   -  TinyXML的全新界面，它使用了许多C ++优势.  模板，异常和更好的错误处理.  [MIT]
 * [Xerces-C++](http://xerces.apache.org/xerces-c/)   - 用C ++的可移植子集编写的验证XML解析器.  [Apache2的]
@@ -715,7 +716,7 @@
 * [Kangaru](https://github.com/gracicot/kangaru)   -  C ++ 11和C ++ 14的依赖注入容器.  [MIT]
 * [Klib](https://github.com/attractivechaos/klib)   - 通用算法和数据结构的小型轻量级实现.  [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/)   - 标准C ++的类型安全回调系统.  [LGPL]
-* [libcpuid](https://github.com/anrieff/libcpuid)   - 用于x86 CPU检测和特征提取的小型C库.  [BSD]
+* [libcpuid](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil](https://github.com/avati/libevil)   - 邪恶的许可证管理器.  [GPLv3的]
 * [libnih](https://github.com/keybuk/libnih)   -  C函数和结构的轻量级库.  [GPL2.1]
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
@@ -765,13 +766,13 @@
 * [codepad](http://codepad.org/) - 在线编译器/解释器和简单的协作工具.
 * [coliru](http://coliru.stacked-crooked.com/) - 在线编译器/ shell，支持各种C ++编译器.
 * [Compiler Explorer](http://gcc.godbolt.org/) - 具有汇编输出的交互式编译器.
-* [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - Compile and Execute C++ online on Linux.
+* [CompileOnline](http://www.tutorialspoint.com/codingground.htm) - 在Linux上在线编译和执行C ++.
 * [Ideone](http://ideone.com/) - 在线编译和调试工具，允许您编译源代码并以60多种编程语言在线执行.
 * [repl.it](https://repl.it) - 面向教育工作者，学习者和开发人员的强大而简单的工具和平台.
-* [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang，GCC，MSVC）和几个编辑器.
+* [Rextester](http://rextester.com/runcode) - Online compiler which provides several compilers(Clang, GCC, MSVC) and several editors.
 * [Rise4Fun](http://webcompiler.cloudapp.net/) - 在线Visual C ++编译器.
 * [Try It Online](https://tio.run/) -  TIO是一系列在线口译员，可以提供一系列实用和娱乐编程语言.
-* [Wandbox](http://melpon.org/wandbox/) - 提供Boost的在线Clang / GCC编译器.
+* [Wandbox](http://melpon.org/wandbox/) - An online Clang/GCC compiler with Boost available.
 
 ## Debugger
 * C或C ++调试器列表*
@@ -796,11 +797,11 @@
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 便携式C / C ++ / C ++ 11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - 基于Eclipse平台的全功能C和C ++ IDE.
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
-* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
+* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
 * [juCi++](https://github.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
 * [KDevelop](https://www.kdevelop.org/) - 免费的开源IDE.
-* [Microsoft Visual Studio](https://www.visualstudio.com/) -  Microsoft的IDE.
+* [Microsoft Visual Studio](https://www.visualstudio.com/) - An IDE from Microsoft.
 * [NetBeans](https://netbeans.org/) - 主要用Java开发的IDE，也包括其他语言，特别是PHP，C / C ++和HTML5.
 * [Qt Creator](http://www.qt.io/developers/) ：zap： - 跨平台的C ++，JavaScript和QML IDE，它是Qt SDK的一部分.
 * [rtags](https://github.com/Andersbakken/rtags) - 用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
@@ -822,8 +823,8 @@
 * [Hunter](https://www.github.com/ruslo/hunter)   - 用于C ++的CMake驱动的跨平台包管理器.  [BSD-2]
 * [MesonBuild](http://mesonbuild.com) - 开源构建系统意味着速度极快，更重要的是，尽可能方便用户使用.
 * [Ninja](https://ninja-build.org/) - 一个专注于速度的小型构建系统.
-* [Scons](http://www.scons.org/) - A software construction tool configured with a Python script.
-* [Sconsolidator](http://www.sconsolidator.com/) -  Scons为Eclipse CDT构建系统集成.
+* [Scons](http://www.scons.org/) - 使用Python脚本配置的软件构造工具.
+* [Sconsolidator](http://www.sconsolidator.com/) - Scons build system integration for Eclipse CDT.
 * [Spack](https://spack.io/)   - 灵活的包管理器，支持多个版本，配置，平台和编译器.  [Apache的2.0 / MIT]
 * [tundra](https://github.com/deplinenoise/tundra) - 高性能代码构建系统，旨在为非常大的软件项目提供尽可能最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) - 基于文件的构建系统，可在后台监视已更改的文件.

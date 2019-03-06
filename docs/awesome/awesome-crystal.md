@@ -84,7 +84,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
- * [todo](https://github.com/Nephos/todo) -  Todo列表在命令行中工作
+ * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 
 ## Code Analysis and Metrics
  * [ameba](https://github.com/veelenga/ameba) - 静态代码分析工具
@@ -160,7 +160,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Email
  * [carbon](https://github.com/luckyframework/carbon) - 有趣，可测试和基于适配器的电子邮件库
  * [crystal-email](https://github.com/arcage/crystal-email) - 简单的电子邮件发送库
- * [CrystalEmail](https://github.com/Nephos/CrystalEmail) - 符合RFC的电子邮件验证程序
+ * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - 符合RFC的电子邮件验证程序
  * [devmail](https://github.com/tijn/devmail) - 具有易失性邮件存储的组合SMTP / POP3服务器
  * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - 简单的Sendgrid客户端
 
@@ -272,7 +272,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
@@ -333,7 +333,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) -  OAuth2客户端（Crystal stdlib）
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) - 绑定到libssl（Crystal stdlib）
  * [Socks](https://github.com/wontruefree/socks) -  SOCKS代理
- * [transfer_more](https://github.com/Nephos/transfer_more) - 克隆transfer.sh以上传文件
+ * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) - 克隆transfer.sh以上传文件
 
 ## Networking
  * [ipaddress.cr](https://github.com/Sija/ipaddress.cr) - 用于处理IPv4和IPv6地址的库
@@ -389,13 +389,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - 受MATLAB和SciPy.linalg启发的线性代数库
  * [predict.cr](https://github.com/RX14/predict.cr) - 使用sgp4模型的卫星预测库
- * [stats](https://github.com/Nephos/stats) - 统计分布的表达实施
+ * [stats](https://git.sceptique.eu/Sceptique/stats) - 统计分布的表达实施
 
 ## Search
  * [hermes](https://github.com/imdrasil/hermes.cr) -  ElastiSearch的Data Mapper模式实现
  * [query-builder](https://github.com/izniburak/query-builder) -  Sql Query Builder库
  * [query.cr](https://github.com/waterlink/query.cr) - 查询抽象
- * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的担架宝石
+ * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的stretcher gem
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - 模板使水晶成为OpenFaaS中的一等公民
@@ -521,7 +521,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [nes](https://github.com/romeroadrian/nes.cr) -  NES模拟器
  * [quicktype](https://quicktype.io/) - 从JSON，JSON Schema，GraphQL和TypeScript生成模型和序列化程序
  * [shards.info](http://shards.info/)   -  Web服务，列出GitHub上包含Crystal代码的所有存储库.  资料来源可用 [GitHub](https://github.com/mamantoha/shards-info)
- * [wikicr](https://github.com/Nephos/wikicr) - 使用git管理修订版的Wiki
+ * [wikicr](https://git.sceptique.eu/Sceptique/wikicr) - 使用git管理修订版的Wiki
 
 ## Tools
  * [ast_helper](https://github.com/bcardiff/crystal-ast-helper) - 帮助调试解析器和格式化程序的工具

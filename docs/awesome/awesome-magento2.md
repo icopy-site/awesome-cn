@@ -203,6 +203,7 @@
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Fooman](http://store.fooman.co.nz/blog)
 - [inchoo](http://inchoo.net/category/magento-2/)
+- [Meetanshi](https://meetanshi.com/blog/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)

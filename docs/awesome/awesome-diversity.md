@@ -7,6 +7,7 @@
 
 **Always work in progress.**
 
+
 - [Diverse Figures In Tech History](https://github.com/folkswhocode/awesome-diversity/blob/master//FIGURES.md)
 
 ## Organizations
@@ -65,6 +66,7 @@
 - [TLA Women In Tech](http://tlawomenintech.org/) - 致力于提高技术性别平衡和平等的工作组.
 - [Trans*H4CK](http://www.transhack.org/) -  Trans \ * H4CK通过改善社会服务的获取，促进性别安全和社区可持续性，同时为跨性别技术创新者和企业家提供可见性，赋予跨性别，性别不符合，性别和非二元人权.
 - [Women Love Tech](https://womenlovetech.com/)   - 推出Women Love Tech，旨在分享对技术的热情和热爱.  从那时起，Women Love Tech已经发展成为一个生活方式技术数字杂志，面向那些喜欢可以改善日常生活方式的所有技术的女性.
+- [Women Make](https://womenmake.com/) - 一个女性走在前列的社区.
 - [Women Techmakers](https://www.womentechmakers.com/) -  Google的计划，为女性提供技术方面的知名度，社区和资源.
 - [Women Who Code](https://www.womenwhocode.com/) - 女性代码是一个全球社区，通过资源，工作委员会，会议奖学金和其他会员福利，使女性在技术领域脱颖而出.
 - [Women Who Go](https://www.womenwhogo.org/) - 一个专注于建立更多样化和包容性Golang社区的网络.
