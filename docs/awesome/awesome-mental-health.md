@@ -29,13 +29,13 @@
 
 关于技术中心理健康的文章，帖子和论文.
 
-* [A Software Developer's Guide To Managing Stress](https://www.precisionsourcing.com.au/technology-workers-guide-managing-stress/) - 由Daragh Byrne撰写.
+* [A Programmers Guide To Stress](http://codingmindfully.com/a-programmers-guide-to-stress/) - 由Daragh Byrne撰写.
 * [Are You More Than Okay: The State Of Mental Health In Tech In 2016](https://modelviewculture.com/pieces/are-you-more-than-okay-the-state-of-mental-health-in-tech-in-2016) -  Julia Nguyen.
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - 作者Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - 作者：Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - 乔·贝尔
 * [For The Developers With Anxiety, And Everyone Else](https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba) - 由Daine Mawer.
-* [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](https://dev.to/daraghjbyrne/how-to-beat-impostor-syndrome-and-stop-feeling-like-a-fake-18m8) - 由Daragh Byrne撰写.
+* [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - 由Daragh Byrne撰写.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - 乔伊斯明子.
 * [How I Fought Through Anxiety And Depression To Finish freeCodeCamp's Front End Dev Program](https://medium.freecodecamp.org/battling-depression-and-anxiety-to-finish-freecodecamps-front-end-dev-program-66a4c8cc0e13) -  Emily Aamodt.
 * [Hunting For A Web Developer Job... With Crushing Anxiety And No Self-Esteem](https://medium.com/@jameslave/hunting-for-a-web-developer-job-with-crushing-anxiety-and-no-self-esteem-3aa64d67a0a4) -  James Lave

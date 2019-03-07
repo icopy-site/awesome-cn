@@ -15,7 +15,7 @@ Awesome-Kubernetes
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 
-&gt;“人才赢得比赛，但团队合作和智力赢得冠军.”
+> "Talent wins games, but teamwork and intelligence wins championships."
 >
 &gt;  - 迈克尔乔丹
 
@@ -291,6 +291,7 @@ Installers
    - [IKS](https://www.ibm.com/cloud/container-service) -  IBM Cloud Kubernetes服务
    - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernets
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
+   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -  OVH管理在Kubernet
 
 
    * Kubernetes平台即服务提供商*
@@ -317,7 +318,7 @@ Installers
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Magic Sandbox](https://magicsandbox.com/)
 
-MOOC Courses / Tutorials
+MOOC课程/教程
 =======================================================================
 
 *可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
@@ -406,7 +407,7 @@ MOOC Courses / Tutorials
 *执行和良好推荐的一些库和脚本列表*
 
 
-   - [Pykube](https://github.com/kelproject/pykube)
+   - [Pykube](https://github.com/hjacobs/pykube)
 
 
    - [Jenkinsfile with Helm, Go, Docker, Kubectl, JNLP](https://github.com/lachie83/croc-hunter/blob/master/Jenkinsfile)
@@ -753,7 +754,7 @@ Projects
 ## Machine Learning
 
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
-* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - 为ML / MXNet工具是Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
@@ -790,7 +791,7 @@ Projects
 
 * [Ark](https://github.com/heptio/ark) - 用于管理Kubernetes集群的备份和还原的实用程序.
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
-* [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
+* [kube-backup](https://github.com/pieterlange/kube-backup) - 同步kubernetes状态饭桶.
 
 覆盆子皮
 =======================================================================
@@ -901,7 +902,7 @@ Videos
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb)在谷歌和谷歌Kubernetes引擎软件工程师
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，集团产品经理 -  Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
@@ -917,7 +918,7 @@ Videos
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)，Google员工开发人员代言人
 * [Kris Nova](https://github.com/kris-nova)，Kubicorn的创造者Heptio的工程师
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，Microsoft的软件工程师
-* [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Google的Kubernetes
+* [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Kubernetes在谷歌
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF成员董事会
 * [Tim Hockin](https://twitter.com/thockin)，Google高级职员SW工程师/工程经理
 

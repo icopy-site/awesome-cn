@@ -169,6 +169,7 @@
 * [TablePrint](https://github.com/arches/table_print) - 将来自多个数据库表的数据切分为单个CLI视图.
 * [Terminal Table](https://github.com/tj/terminal-table) -  Ruby ASCII表生成器，简单且功能丰富.
 * [Tmuxinator](https://github.com/tmuxinator/tmuxinator) - 轻松创建和管理复杂的tmux会话.
+* [Whirly](https://github.com/janlelis/whirly) - 一个简单，多彩和可定制的Ruby终端微调器库.
 
 ## Cloud
 
@@ -214,7 +215,7 @@
 
 ## Coding Style Guides
 
-* [Best-Ruby](https://github.com/franzejr/best-ruby) - Ruby Tricks, Idiomatic Ruby, Refactoring & Best Practices.
+* [Best-Ruby](https://github.com/franzejr/best-ruby) -  Ruby技巧，惯用Ruby，重构和最佳实践.
 * [fast-ruby](https://github.com/JuanitoFatas/fast-ruby)   - 编写快速Ruby.  收集常见的Ruby习语.
 * [Fundamental Ruby](https://github.com/khusnetdinov/ruby.fundamental)   - 基础编程ruby与示例.  线程，设计模式，数据结构，OOP SOLID原理，算法.
 * [Rails style guide](https://github.com/bbatsov/rails-style-guide) -  Rails 3和4的社区驱动的Rails最佳实践和风格.
@@ -277,6 +278,7 @@
 ## Cryptocurrencies and Blockchains
 
 * [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)   - 使用加密哈希构建自己的区块链;  通过区块链，区块链，区块链一次一块地彻底改变世界.
+* [Peatio](https://github.com/rubykube/peatio) - 大多数高级加密货币开源资产交换.
 
 ## Dashboards
 
@@ -438,7 +440,7 @@
 * [LetterOpener](https://github.com/ryanb/letter_opener) - 在浏览器中预览邮件而不是发送.
 * [Mail](https://github.com/mikel/mail) - 一个真正的Ruby邮件库.
 * [MailCatcher](https://mailcatcher.me) - 捕捉邮件并通过梦想服务.
-* [MailForm](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
+* [MailForm](https://github.com/plataformatec/mail_form) - 使用I18n，验证，附件和请求信息直接从Rails中的表单发送电子邮件.
 * [Mailman](https://github.com/mailman/mailman) -  Ruby中的传入邮件处理微框架.
 * [Maily](https://github.com/markets/maily) - 用于管理，测试和浏览应用程序的所有电子邮件模板的Rails引擎，可以直接在浏览器中预览它们.
 * [Markerb](https://github.com/plataformatec/markerb) - 允许您从Markdown编写的单个模板中呈现多部分电子邮件.
@@ -572,12 +574,13 @@
 * [Http Client](https://github.com/nahi/httpclient) - 在Ruby中提供类似libwww-perl（LWP）的功能.
 * [HTTP](https://github.com/httprb/http) -  HTTP Gem：用于发出HTTP请求的简单Ruby DSL.
 * [HTTPX](https://gitlab.com/honeyryderchuck/httpx) - 承认易用性 [http](https://github.com/httprb/http) gem API（本身受python请求库启发），旨在重用相同的外观，扩展它为http gem不支持的用例.
-* [httparty](https://github.com/jnunemaker/httparty) - Makes http fun again!
-* [Http-2](https://github.com/igrigorik/http-2) -  HTTP / 2协议的纯Ruby实现
+* [httparty](https://github.com/jnunemaker/httparty) - 再次使http变得有趣！
+* [Http-2](https://github.com/igrigorik/http-2) - Pure Ruby implementation of HTTP/2 protocol
 * [Patron](https://github.com/toland/patron) -  Patron是一个基于libcurl的Ruby HTTP客户端库.
 * [RESTClient](https://github.com/rest-client/rest-client) -  Ruby的简单HTTP和REST客户端，受微框架语法的启发，用于指定操作.
 * [Savon](https://github.com/savonrb/savon) -  Savon是Ruby编程语言的SOAP客户端.
 * [Sawyer](https://github.com/lostisland/sawyer) -  HTTP的秘密用户代理，建立在法拉第之上.
+* [Sniffer](https://github.com/aderyabin/sniffer) - 跨多个ruby库记录和调试传出HTTP请求的工具.
 * [Typhoeus](https://github.com/typhoeus/typhoeus) -  Typhoeus包裹libcurl以便提出快速可靠的请求.
 
 ## Image Processing
@@ -870,7 +873,7 @@
 * [Bootstrappers](https://github.com/xdite/bootstrappers) -  Bootstrappers使用Bootstrap模板和其他好东西生成基础Rails应用程序.
 * [Hobo](https://github.com/Hobo/hobo) -  Rails的Web应用程序构建器.
 * [orats](https://github.com/nickjj/orats) -  Opinionated rails应用程序模板.
-* [Rails Composer](https://github.com/RailsApps/rails-composer) - 用于启动应用程序的类固醇Rails生成器.
+* [Rails Composer](https://github.com/RailsApps/rails-composer) - The Rails generator on steroids for starter apps.
 * [Raygun](https://github.com/carbonfive/raygun) - 使用已经完成的常见定制工具构建应用程序.
 * [Suspenders](https://github.com/thoughtbot/suspenders) -  Suspenders是在thinkbot上使用的基础Rails应用程序.
 
@@ -926,7 +929,7 @@
 *具体
   * [BioRuby](https://github.com/bioruby/bioruby) - 用于开发生物信息学软件的库.
   * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) -  Ruby中的BloomFilter：本机计数过滤器+ Redis计数/非计数过滤器.
-  * [decisiontree](https://github.com/igrigorik/decisiontree) - A ruby library which implements ID3 (information gain) algorithm for decision tree learning.
+  * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个ruby库，它实现了决策树学习的ID3（信息增益）算法.
 *实用程序
   * [algorithms](https://github.com/kanwei/algorithms) - 包含何时使用特定结构/算法的文档的库.
   * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持UTF-8字符串的Jaro-Winkler距离算法的Ruby＆C实现.
@@ -940,7 +943,7 @@
 * [elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) -  Elasticsearch的Ruby集成.
 * [elastics](https://github.com/printercu/elastics-rb) - 简单的ElasticSearch客户端，支持迁移和ActiveRecord集成.
 * [has_scope](https://github.com/plataformatec/has_scope) - 使用作用域可以根据名为scopes的资源轻松创建控制器过滤器.
-* [Mongoid Search](https://github.com/mauriciozaffari/mongoid_search) -  Mongoid的简单全文搜索实现.
+* [Mongoid Search](https://github.com/mauriciozaffari/mongoid_search) - Simple full text search implementation for Mongoid.
 * [pg_search](https://github.com/Casecommons/pg_search) - 构建利用PostgreSQL全文搜索的ActiveRecord命名范围.
 * [ransack](https://github.com/activerecord-hackery/ransack/) - 基于对象的搜索.
 * [Rroonga](https://github.com/ranguba/rroonga) -  Groonga的Ruby绑定.
@@ -955,7 +958,7 @@
 ## Security
 
 * [BeEF](http://beefproject.com)   -  BeEF是The Browser Exploitation Framework的缩写.  它是一种专注于Web浏览器的渗透测试工具.
-* [bundler-audit](https://github.com/rubysec/bundler-audit) -  Bundler的补丁级安全验证.
+* [bundler-audit](https://github.com/rubysec/bundler-audit) - Patch-level security verification for Bundler.
 * [Gitrob](https://github.com/michenriksen/gitrob) -  GitHub组织的侦察工具.
 * [Metasploit](https://github.com/rapid7/metasploit-framework) - 世界上最常用的渗透测试软件.
 * [Rack::Attack](https://github.com/kickstarter/rack-attack) - 机架中间件，用于阻止和限制滥用请求.
@@ -970,6 +973,7 @@
 
 ## Social Networking
 
+* [Decidim](https://github.com/decidim/decidim) - 为城市和组织提供免费的开源参与式民主
 * [diaspora*](https://github.com/diaspora/diaspora) - 隐私，分布式，开源社交网络.
 * [Discourse](https://github.com/discourse/discourse)   - 社区讨论的平台.  自由，开放，简单.
 * [Mailboxer](https://github.com/mailboxer/mailboxer) -  Rails应用程序的私人消息系统.
@@ -988,7 +992,7 @@
 ## State Machines
 
 * [AASM](https://github.com/aasm/aasm) -  Ruby类的状态机（纯Ruby，Rails Active Record，Mongoid）.
-* [FiniteMachine](https://github.com/peter-murach/finite_machine) - 一个简单的Ruby状态机，具有直观和富有表现力的语法.
+* [FiniteMachine](https://github.com/peter-murach/finite_machine) - A plain Ruby state machine with a straightforward and expressive syntax.
 * [MicroMachine](https://github.com/soveran/micromachine) - 少于50行代码中的最小有限状态机实现.
 * [simple_states](https://github.com/svenfuchs/simple_states) - 一个超薄的状态机支持库.
 * [Statesman](https://github.com/gocardless/statesman) - 政治家般的状态机库.
@@ -1004,7 +1008,7 @@
 * [Middleman](http://middlemanapp.com) - 使用现代Web开发中的所有快捷方式和工具的静态站点生成器.
 * [Nanoc](http://nanoc.ws/) - 静态站点生成器，适用于从小型个人博客到大型企业网站构建任何内容.
 * [Octopress](https://github.com/octopress/octopress) -  Octopress是一个专门设计的工具包，用于编写和部署Jekyll博客.
-* [Photish](https://github.com/henrylawson/photish) - 从照片集中生成高度可配置的静态网站.
+* [Photish](https://github.com/henrylawson/photish) - Generate a highly configurable static website from a photo collection.
 * [webgen](http://webgen.gettalong.org) -  webgen是一个快速，强大且可扩展的静态网站生成器.
 
 ## Template Engine
@@ -1181,9 +1185,9 @@
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用OctoLinker浏览器扩展程序有效地浏览GitHub.com上的项目.
 * [SemaphoreCI](https://semaphoreci.com) - 为开源和私有项目提供持续的集成和部署服务.
 * [SideCI](https://www.sideci.com)   - 使用GitHub PR进行自动代码审查.   - 监控样式违规，质量，安全性，依赖性.
-* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
+* [Travis CI.com](https://travis-ci.com) - 负责运行测试和部署私有应用程序.
 * [Travis CI.org](https://travis-ci.org) - 面向开源社区的分布式构建系统.
-* [Vexor CI](https://vexor.io) - A distributed cloud web-service for building and testing software, a continuous integration tool for private apps with pay-per-minute billing model.
+* [Vexor CI](https://vexor.io) - 用于构建和测试软件的分布式云Web服务，这是一种针对具有按分钟付费计费模式的私有应用程序的持续集成工具.
 
 ## Resources
 

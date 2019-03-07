@@ -76,7 +76,7 @@
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - IRC, Slack & Telegram bot written in Go.
 * [go-sarah](https://github.com/oklahomer/go-sarah) - 为期望的聊天服务构建机器人的框架，包括LINE，Slack，Gitter等.
 * [go-tgbot](https://github.com/olebedev/go-tgbot) -  Pure Golang Telegram Bot API包装器，由swagger文件，基于会话的路由器和中间件生成.
-* [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - 用于加密货币交换的基于控制台的交易机器人的Golang实现.
+* [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - 用于加密货币交换的基于控制台的交易机器人的golang实现.
 * [govkbot](https://github.com/nikepan/govkbot) - 简单的去 [VK](https://vk.com) 机器人库.
 * [hanu](https://github.com/sbstjn/hanu) - 编写Slack机器人的框架.
 * [margelet](https://github.com/zhulik/margelet) - 构建电报机器人的框架.
@@ -351,7 +351,7 @@
     * [go-sqlite3](https://github.com/mattn/go-sqlite3) - 用于使用数据库/ sql的SQL的SQLite3驱动程序.
     * [gofreetds](https://github.com/minus5/gofreetds)   -  Microsoft MSSQL驱动程序.  去封装 [FreeTDS](http://www.freetds.org).
     * [goracle](https://github.com/go-goracle/goracle) - 使用ODPI-C驱动程序的Go的Oracle驱动程序.
-    * [pgx](https://github.com/jackc/pgx) -  PostgreSQL驱动程序支持数据库/ sql之外的功能.
+    * [pgx](https://github.com/jackc/pgx) -  PostgreSQL驱动程序支持数据库/ sql暴露的功能.
     * [pq](https://github.com/lib/pq) - 用于数据库/ sql的Pure Go Postgres驱动程序.
 
 * NoSQL数据库
@@ -489,7 +489,7 @@
 * [golua](https://github.com/aarzilli/golua) -  Goa绑定Lua C API.
 * [gopher-lua](https://github.com/yuin/gopher-lua) - 用Go编写的Lua 5.1 VM和编译器.
 * [gval](https://github.com/PaesslerAG/gval) - 用Go编写的高度可定制的表达式语言.
-* [ngaro](https://github.com/db47h/ngaro) - Embeddable Ngaro VM implementation enabling scripting in Retro.
+* [ngaro](https://github.com/db47h/ngaro) - 可嵌入的Ngaro VM实现，支持Retro中的脚本.
 * [otto](https://github.com/robertkrimen/otto) - 用Go编写的JavaScript解释器.
 * [purl](https://github.com/ian-kent/purl) -  Go中嵌入的Perl 5.18.2.
 * [tengo](https://github.com/d5/tengo) - 用于Go的Bytecode编译脚本语言.
@@ -1029,7 +1029,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [NFF-Go](https://github.com/intel-go/nff-go) - 为云和裸机（前YANFF）快速开发高性能网络功能的框架.
 * [packet](https://github.com/aerogo/packet)   - 通过TCP和UDP发送数据包.  如果需要，它可以缓冲消息和热交换连接.
 * [peerdiscovery](https://github.com/schollz/peerdiscovery) - 使用UDP多播进行跨平台本地对等体发现的Pure Go库.
-* [portproxy](https://github.com/aybabtme/portproxy) - 简单的TCP代理，它为不支持它的API添加了CORS支持.
+* [portproxy](https://github.com/aybabtme/portproxy) - 简单的TCP代理，它为不支持它的API增加了CORS支持.
 * [publicip](https://github.com/polera/publicip) - 包publicip返回面向公众的IPv4地址（互联网出口）.
 * [quic-go](https://github.com/lucas-clemente/quic-go) - 纯Go中QUIC协议的实现.
 * [raw](https://github.com/mdlayher/raw) -  Package raw允许在设备驱动程序级别为网络接口读取和写入数据.
@@ -1220,6 +1220,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [etcd](https://github.com/coreos/etcd) - 用于共享配置和服务发现的高可用密钥值存储.
 * [Fider](https://github.com/getfider/fider) -  Fider是一个收集和整理客户反馈的开放平台.
 * [Flagr](https://github.com/checkr/flagr) -  Flagr是一个开源功能标记和A / B测试服务.
+* [flipt](https://github.com/markphelps/flipt) - 用Go和Vue.js编写的自包含功能标志解决方案
 * [jackal](https://github.com/ortuman/jackal) - 用Go编写的XMPP服务器.
 * [minio](https://github.com/minio/minio) -  Minio是一个分布式对象存储服务器.
 * [nginx-prometheus](https://github.com/blind-oracle/nginx-prometheus) -  Nginx日志解析器和导出器到Prometheus.
@@ -1589,7 +1590,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [gh](https://github.com/rjeczalik/gh) -  GitHub Webhooks的可编写脚本的服务器和net / http中间件.
 * [git2go](https://github.com/libgit2/git2go) - 为libgit2绑定绑定.
-* [go-vcs](https://github.com/sourcegraph/go-vcs) - 在Go中操作和检查VCS存储库.
+* [go-vcs](https://github.com/sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 * [hgo](https://github.com/beyang/hgo) -  Hgo是Go包的集合，提供对本地Mercurial存储库的读访问权.
 
 ## Video
@@ -1933,6 +1934,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [GopherCon Israel](https://www.gophercon.org.il/) - 以色列特拉维夫
 * [GopherCon Russia](https://www.gophercon-russia.ru) - 俄罗斯莫斯科.
 * [GopherCon Singapore](https://gophercon.sg) - 新加坡丰树商业城.
+* [GopherCon Vietnam](https://gophercon.vn/) - 越南胡志明市.
 * [GothamGo](http://gothamgo.com/) - 美国纽约市.
 * [GoWayFest](https://goway.io/) - 白俄罗斯明斯克.
 

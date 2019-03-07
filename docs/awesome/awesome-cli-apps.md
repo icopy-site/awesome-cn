@@ -1,12 +1,7 @@
 <div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
-<h1 align="center">
+<p align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
-	<br>
-	<br>
-</h1>
-
-<br>
-<br>
+</p>
 
 ---
 
@@ -144,7 +139,7 @@
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频覆盖和多显示器支持的ffmpeg截屏视频.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 上传图片到imgur.
 - [meetup-cli](https://github.com/specious/meetup-cli) -  Meetup.com命令行界面.
-- [The Mutt E-Mail Client](http://www.mutt.org/) - 邮件客户端.
+- [NeoMutt](https://neomutt.org) - 邮件客户端.
 - [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具.
 - [ipt](https://github.com/drselump14/ipt) - 关键跟踪器的命令行界面.
 - [g3l](https://github.com/svtek/g3l) -  Git很简单，github cli很容易，但是在w0rld中g3l最简单的git cli！
@@ -171,7 +166,7 @@
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
+- [ledger](http://ledger-cli.org) - 强大的复式会计系统，可从UNIX命令行访问.
 - [moeda](https://github.com/thompsonemerson/moeda) - 使用CLI进行外汇汇率和货币兑换.
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
 - [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
@@ -204,7 +199,7 @@
 - [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
-- [Ultimate Plumber](https://github.com/akavel/up) -  Ultimate Plumber是一个用于编写Linux管道的工具，具有即时实时预览功能. 
+- [Ultimate Plumber](https://github.com/akavel/up) -  Ultimate Plumber是一个用于编写Linux管道的工具，具有即时实时预览功能.
 
 ### macOS
 
@@ -358,7 +353,7 @@
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - 显示滚动的“矩阵”屏幕 - （[original](http://www.asty.org/cmatrix/)).
+- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 显示在屏幕上增长的随机管道.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
@@ -371,7 +366,7 @@
 
 ## Just for Fun
 
-- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - A configurable talking cow (and other animals).
+- [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的说话牛（和其他动物）.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
@@ -392,7 +387,7 @@
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有Chrome标签，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用Levenshtein距离算法测量两个弦之间的差异.
 - [maybe](https://github.com/p-e-w/maybe) - 在决定是否真的希望它发生之前，先看一下程序的作用.
-- [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
+- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.

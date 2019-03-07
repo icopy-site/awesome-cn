@@ -18,6 +18,7 @@
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid)：一个团队聊天应用程序，具有新颖的UI，可以带来更好的对话
+  - [Atea](https://github.com/pkamenarsky/atea)：MacOS的简约菜单栏时间跟踪器
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)

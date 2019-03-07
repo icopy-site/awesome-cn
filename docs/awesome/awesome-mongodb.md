@@ -7,7 +7,7 @@
 
 &gt;精选的MongoDB资源，库，工具和应用程序的精选列表
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  随意改善此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  随意改善此列表 [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
 
 ## Resources
@@ -27,6 +27,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome)  列出的东
  - [Monitoring MongoDB performance metrics (Jean-Mathieu Saponaro, Datadog)](https://www.datadoghq.com/blog/monitoring-mongodb-performance-metrics-wiredtiger/)
 
 ### Books
+ - [50 Tips and Tricks for MongoDB Developers](http://shop.oreilly.com/product/0636920019893.do)   - 由MongoDB公司提供的高级MongoDB提示和技巧.  工程师
  - [Builder Book](https://builderbook.org/book) - 了解如何从头开始构建完整的堆栈JavaScript Web应用程序
  - [MongoDB Applied Design Patterns (Rick Copeland)](http://shop.oreilly.com/product/0636920027041.do)
  - [The Little MongoDB Book](https://www.openmymind.net/2011/3/28/The-Little-MongoDB-Book/) - 基本介绍

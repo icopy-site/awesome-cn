@@ -58,6 +58,7 @@ SONiC
 
 ## Controller
 
+- [lighty.io core](https://github.com/PantheonTechnologies/lighty-core) -  lighty.io核心组件 - 用于构建基于Java的SDN控制器的开源开发框架.
 - [NOX](https://github.com/noxrepo/nox) - 基于C ++的软件定义网络（* SDN *）控制应用程序的开源开发平台.
 - [POX](https://github.com/noxrepo/pox) - 基于Python的软件定义网络（* SDN *）控制应用程序的开源开发平台.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) -  OpenFlow控制器节点样式.
@@ -134,7 +135,7 @@ SONiC
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r](https://github.com/jesnault/bgp4r)   -  BGP4R是一个ruby库，可以创建和操作BGP消息.  在BGP4R中，所有众所周知的BGP构造都在类中定义.
 - [gobgp](https://github.com/osrg/gobgp) -  GoBGP是一个开源的BGP实现，从头开始设计用于现代环境，并用现代编程语言Go编程语言实现.
-- [yabgp](https://github.com/smartbgp/yabgp)   -  YABGP是BGP协议的另一个Python实现.  它可以用来建立与各类路由器的BGP连接（包括实时思科/华为/ Juniper路由器和路由器的某些模拟器像GNS3）和接收/解析BGP消息，供日后分析.
+- [yabgp](https://github.com/smartbgp/yabgp)   -  YABGP是BGP协议的另一个Python实现.  它可用于与各种路由器（包括真实的Cisco / HuaWei / Juniper路由器和一些路由器模拟器，如GNS3）建立BGP连接，并接收/解析BGP消息以供将来分析.
 
 ## Misc
 

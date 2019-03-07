@@ -65,7 +65,7 @@
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - 专为活动家团体设计的网络应用程序，可以更好地在线协作
 - [crowdAI](https://github.com/crowdAI/crowdai) - 利用开放数据为开放式科学而战，这是一个机器学习挑战平台. [Live](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 开源众筹平台
-- [cyberdojo](https://github.com/JonJagger/cyber-dojo) - 免费的浏览器内编码 - 道场 [Live](http://cyber-dojo.org)
+- [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) - 免费的浏览器内编码 - 道场 [Live](http://cyber-dojo.org)
 - [danbooru](https://github.com/r888888888/danbooru) - 用Rails 3编写的可标记图像板 [Live](http://testbooru.donmai.us)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails前端到Genome Institute的药物基因互作数据库
 - [diaspora](https://github.com/diaspora/diaspora) - 分布式和上下文社交网络 [Live](https://diasporafoundation.org)
@@ -102,7 +102,6 @@
 - [opencongress](https://github.com/sunlightlabs/opencongress) - 开放国会的开放网站
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - 免费开放的农业和园艺知识数据库  
 - [openproject](https://github.com/opf/openproject) - 基于Ruby on Rails构建的基于Web的项目管理系统  [Live](https://www.openproject.org)
-- [opensit](https://github.com/danbartlett/opensit) - 开源冥想社区 [Live](http://opensit.com)
 - [openstreetmap-website](https://github.com/openstreetmap/openstreetmap-website) -  Rails应用程序供电的镜像  [Live](http://www.openstreetmap.org)
 - [ossfriday](https://github.com/ossfriday/ossfriday) - 鼓励公司，人员和维护人员每周五为开源做贡献的运动
 - [otwarchive](https://github.com/otwcode/otwarchive) - 用于托管fanworks档案的开源Web应用程序，包括fanfic，fanart和fan vids  [Live](http://archiveofourown.org)

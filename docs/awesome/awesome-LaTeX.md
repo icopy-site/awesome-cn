@@ -33,8 +33,8 @@
 
 ## Editors
 
-因为用记事本编辑LaTeX代码并不是很棒.
-There are many editors out there, below are the most awesome editors.
+Because editing LaTeX code with notepad is not awesome.
+那里有很多编辑，下面是最棒的编辑.
 收集完整的LaTeX编辑器列表 [tex.stackexchange.com](https://tex.stackexchange.com/) 如 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
 
 - [List of popular LaTeX editors](https://tex.stackexchange.com/questions/339/latex-editors-ides) - 社区维护的流行LaTeX编辑器列表，包括屏幕截图和简短描述.
@@ -59,7 +59,7 @@ There are many editors out there, below are the most awesome editors.
 
 这些编辑不是一招的小马：当然，他们编辑LaTeX，但他们可以做更多！
 
-- [Atom](https://atom.io) [！[Atom] [awesome]]（https://github.com/mehcode/awesome-atom）！[foss] [foss]
+- [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss][foss]
 	- [LaTeXTools](https://atom.io/packages/latextools)   - 同名的Sublime Text包的Atom端口.  ！[源码] [源码]
 
 - [Sublime Text](https://www.sublimetext.com) [！[Sublime Text] [awesome]]（https://github.com/dreikanter/sublime-bookmarks）
@@ -68,7 +68,7 @@ There are many editors out there, below are the most awesome editors.
 
 - [Emacs](https://www.gnu.org/software/emacs/)  [！[Emacs] [awesome]]（https://github.com/emacs-tw/awesome-emacs）！[foss] [foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/)   - 用于LaTeX的Emacs插件，还显示了方程式和数字的预览.  ！[源码] [源码]
-	- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss][foss]
+	- [RefTeX](https://www.gnu.org/software/auctex/reftex)   - 用于LaTeX的Emacs插件，增加了对标签，引用和引用的支持.  ！[源码] [源码]
 
 - [Vim](http://www.vim.org) [！[Vim] [awesome]]（https://github.com/mhinz/vim-galore）！[foss] [foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) [瀑布] [瀑布]
@@ -102,6 +102,7 @@ There are many editors out there, below are the most awesome editors.
 - [Bibdesk](http://bibdesk.sourceforge.net) - 伟大的书目编辑器！[Mac] [mac].
 - [Zotero](https://www.zotero.org)   - 您的浏览器的参考管理器，也可以导出到bibtex并与许多LaTeX编辑器集成.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux] [！[foss] [foss]]（https://github.com/zotero/）
 - [Mendeley](https://www.mendeley.com)   - 应用程序和云客户端都可以管理您的参考和PDF.  可以同步到您的LaTeX工作流程的bibtex文件.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]
+- [betterbib](https://github.com/nschloe/betterbib)   - 用于改进BibTeX文件的命令行实用程序.  从在线资源获取信息.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
 
 ## Build Tools
 
@@ -122,6 +123,7 @@ There are many editors out there, below are the most awesome editors.
 - [ChkTeX](http://baruch.ev-en.org/proj/chktex/)   -  LaTeX文档的Linter / code checker.  ！[源码] [源码]
 - [LaTeXEqEdit](http://latexeqedit.sourceforge.net/index.php)   - 适用于Windows的LaTeX公式编辑器.  ！[Windows] [windows]！[foss] [foss]
 - [Laeqed](https://www.thrysoee.dk/laeqed/)   - 将LaTeX配方交叉平台转换为PNG转换器.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
+- [blacktex](https://github.com/nschloe/blacktex)   - 命令行工具，可替换常见的LaTeX反模式并清理文件.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
 
 ## LaTeX-compatible GUI tools
 
@@ -163,6 +165,8 @@ TikZ是一个很棒的包，有许多插件，允许您从LaTeX文档中创建�
 - [pgfplots](http://pgfplots.sourceforge.net)   - 真正令人敬畏的绘图库在TikZ / pgf的顶部和风格.  该库可以加载CSV数据文件，执行一些计算并创建漂亮的图.
 - [A very minimal introduction to TikZ (PDF)](https://cremeronline.com/LaTeX/minimaltikz.pdf) - 由JacquesCrémer撰写的关于TikZ世界的简短介绍性文件.
 - [PetarV-/TikZ](https://github.com/PetarV-/TikZ) - 由PetarVeličković收集出版物就绪的PGF / TikZ数据.
+- [matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)   - 将MATLAB图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
+- [matplotlib2tikz](https://github.com/nschloe/matplotlibtikz)   - 将matplotlib图转换为PGFPlots / TikZ.  ！[Windows] [windows]！[Linux] [linux]！[Mac] [mac]！[Foss] [foss]
 
 ### Source Code
 
