@@ -62,6 +62,7 @@
 * [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -  Rikard Endgren
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) - 作者：Andreas Zeller，Rahul Gopinath，MarcelBöhme，Gordon Fraser和Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -  Mauro Pezze，Michal Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
+* [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
 
 #### Standards In software Testing
 

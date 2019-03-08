@@ -87,6 +87,8 @@
 * [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- 这个交互式的liveVideo课程为您提供了使用AWS进行机器学习的速成课程，教您如何构建一个全功能的预测算法.
 * [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion不仅教你如何使用单个库或框架，你还会发现如何从头开始构建这些算法！
+* [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - 这个liveVideo分解了关于RL系统如何学习，如何感知和处理环境数据以及如何构建和训练AI代理等关键概念. 
+
 ## Learning
 
 * [Deep Learning. Methods And Applications](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) Microsoft Research的免费书籍

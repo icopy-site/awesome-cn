@@ -209,6 +209,7 @@
 * [ArchUnit](https://www.archunit.org/) - 对Java体系结构进行单元测试
 * [Checker Framework](https://github.com/typetools/checker-framework/) -  Java的可插入类型检查http://checkerframework.org/
 * [checkstyle](https://github.com/checkstyle/checkstyle) - 检查Java源代码是否符合代码标准或一组验证规则（最佳实践）
+* [ck](https://github.com/mauricioaniche/ck) - 通过处理源Java文件来计算Chidamber和Kemerer面向对象的度量
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - 通过处理已编译Java文件的字节码来计算Chidamber和Kemerer面向对象的度量
 * [ClassGraph](https://github.com/classgraph/classgraph) - 用于查询或可视化类元数据或类相关性的类路径和模块路径扫描程序
 * [CogniCrypt](https://www.eclipse.org/cognicrypt/) - 检查Java源代码和字节代码是否存在加密API的错误使用
@@ -231,7 +232,7 @@
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
 * [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
-* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码清洁和一致.
+* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码的清洁和一致性.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.

@@ -30,6 +30,7 @@
   * [NotABug](https://notabug.org) -  NotABug.org是一个免费软件代码协作平台，用于基于Git的免费许可项目
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) - 免费的1GB Cloud和Git，Mercurial或SVN存储库.
   * [projectlocker.com](https://projectlocker.com) - 一个50 MB空间的免费私人项目（Git和Subversion）
+  * [ionicframework.com](https://ionicframework.com/appflow) - 使用Ionic开发应用程序的回购和工具，您也有离子回购
 
 ## APIs, Data and ML
   * [ApiFlash](https://apiflash.com)   - 基于Aws Lambda和Chrome的屏幕截图API.  处理整页，捕获时间，视口尺寸，......
@@ -598,6 +599,7 @@
   * [formaholic.com](https://formaholic.com)   - 简单的表单端点.  非常适合静态网站
   * [http2.pro](https://http2.pro) -  HTTP / 2协议就绪测试和客户端HTTP / 2支持检测API.
   * [Formspree.io](https://formspree.io/)   - 使用HTTP POST请求发送电子邮件.  免费套餐限制为每月1000次提交，并且必须在API调用中公开电子邮件地址.
+  * [Formcarry.com](https://formcarry.com) -  HTTP POST表单端点，免费计划允许每月100次提交.
   * [Typeform.com](https://www.typeform.com/)   - 在网站上包含设计精美的表格.  免费计划每个表单只允许10个字段，每月100个响应.
   * [SurveyMonkey.com](https://www.surveymonkey.com)   - 创建在线调查.  在线分析结果.  免费计划每次调查仅允许10个问题和100个回复.
 

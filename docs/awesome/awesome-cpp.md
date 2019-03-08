@@ -79,8 +79,8 @@
 
 * [KFR](https://www.kfrlib.com/)   - 快速，现代的C ++ DSP框架，FFT，FIR / IIR滤波器，采样率转换.  [GPL /商业]
 * [Maximilian](https://github.com/micknoise/Maximilian)   -  C ++音频和音乐DSP库.  [MIT]
-* [mini_al](https://github.com/dr-soft/mini_al)   - 单文件音频播放和捕获库.  [授予许可]
 * [OpenAL](http://www.openal.org/)   - 开放音频库 - 跨平台音频API.  [BSD / LGPL /商业]
+* [miniaudio](https://github.com/dr-soft/miniaudio)   - 单文件音频播放和捕获库.  [授予许可]
 * [Opus](http://opus-codec.org/)   - 完全开放，免版税，高度通用的音频编解码器.  [BSD]
 * [SELA](https://github.com/sahaRatul/sela)   -  SimplE无损音频.  [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud)   - 轻松便携的游戏音频引擎.  [ZLIB]

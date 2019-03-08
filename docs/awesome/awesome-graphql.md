@@ -52,6 +52,7 @@
 * [Sydney](https://www.meetup.com/GraphQL-Sydney/)
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Toronto](https://www.meetup.com/GraphQL-Toronto/)
+* [Amsterdam](https://www.meetup.com/Amsterdam-GraphQL-Meetup/)
 
 <a name="lib" />
 
@@ -116,7 +117,6 @@
 
 * [graphql-relay-js](https://github.com/graphql/graphql-relay-js) - 一个帮助构建支持react-relay的graphql-js服务器的库.
 * [sequelize-relay](https://github.com/MattMcFarland/sequelize-relay) - 将sequelize和graphql-relay-js连接在一起的Serverside库.
-* [babel-plugin-react-relay](https://github.com/prisma/babel-plugin-react-relay) - 用于中继的Babel插件，支持JSON和graphql-js模式和URL端点.
 * [babel-relay-plugin](https://www.npmjs.com/package/babel-relay-plugin) - 用于转换用于Relay的GraphQL查询的Babel Relay插件.
 * [react-router-relay](https://github.com/relay-tools/react-router-relay) -  React Router的中继集成.
 * [relay-local-schema](https://github.com/relay-tools/relay-local-schema) - 使用没有GraphQL服务器的中继.
@@ -267,6 +267,8 @@
 ### Clojure Libraries
 
 * [graphql-clj](https://github.com/tendant/graphql-clj) - 旨在提供GraphQL实现的Clojure库.
+* [Lacinia](https://github.com/walmartlabs/lacinia) - 纯Clojure中的GraphQL实现.
+* [graphql-query](https://github.com/district0x/graphql-query) -  Clojure（脚本）GraphQL查询生成.
 
 <a name="lib-swift" />
 
@@ -291,6 +293,13 @@
 ### iOS Libraries
 
 * [apollo-ios](https://github.com/apollographql/apollo-ios) - ðŸ“±用于iOS的强类型缓存GraphQL客户端，用Swift编写
+
+<a name="lib-clojurescript" />
+
+### ClojureScript Libraries
+
+* [re-graph](https://github.com/oliyh/re-graph) - 用于ClojureScript的GraphQL客户端，具有用于重新框架应用程序的绑定.
+* [graphql-query](https://github.com/district0x/graphql-query) -  Clojure（脚本）GraphQL查询生成.
 
 <a name="tools" />
 
@@ -451,6 +460,12 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 ### iOS Examples
 
 * [frontpage-ios-app](https://github.com/apollographql/frontpage-ios-app) - ðŸ“”Apollo“hello world”app，适用于iOS
+
+<a name="example-clojure" />
+
+### Clojure Examples
+
+* [Clojure Game Geek](https://github.com/walmartlabs/clojure-game-geek) -  Lacinia GraphQL框架教程的示例代码.
 
 <a name="video" />
 

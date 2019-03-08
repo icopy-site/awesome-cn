@@ -253,7 +253,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 <a name="go-image-classification"></a>
 #### Image Classification
 
-* [Tagbox](https://godoc.org/github.com/machinebox/sdk-go/tagbox) - Image classification SDK with one-shot teaching from Machine Box
+* [Tagbox](https://godoc.org/github.com/machinebox/sdk-go/tagbox) - 使用Machine Box的一次性教学的图像分类SDK
 * [Nudebox](https://godoc.org/github.com/machinebox/sdk-go/nudebox) - 从机箱中检测裸露
 
 <a name="haskell"></a>
@@ -563,7 +563,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Core torch7 demos repository](https://github.com/e-lab/torch7-demos).
   *线性回归，逻辑回归
   *面部探测器（作为单独的演示进行训练和探测）
-  *基于mst的细分市场
+  * mst-based-segmenter
   *训练一位数分类器
   *培训车辆代码
   *光流演示
@@ -897,6 +897,7 @@ be
 * [Thampi](https://github.com/scoremedia/thampi) -  AWS Lambda上的机器学习预测系统
 * [MindsDB](https://github.com/mindsdb/mindsdb) - 开源框架，以简化神经网络的使用.
 * [Gorgonia](https://github.com/gorgonia/gorgonia) -  Gorgonia是一个图书馆，有助于促进Golang的机器学习.
+* [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ：作为Jupyter笔记本提供的构建推荐系统的示例和最佳实践.  该回购包含Microsoft Research以及其他公司和机构的一些最新技术.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization

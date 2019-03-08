@@ -49,7 +49,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端 - （[original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
+- [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
 - [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
 
 ### Video
@@ -74,8 +74,7 @@
 - [mklicense](https://github.com/cezaraugusto/mklicense)   - 使用自定义信息轻松创建自定义LICENSE文件.  忙碌的人和初学者友好.
 - [rebound](https://github.com/shobrook/rebound) - 当您遇到编译器错误时，立即在终端中获取Stack Overflow结果.
 - [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman生成器的CLI脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
-- [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
-- [release-it](https://github.com/webpro/release-it)   - 自动发布Git存储库和/或npm软件包.  更改日志生成，GitHub / GitLab版本等.
+- [grip](https://github.com/joeyespo/grip) - 在提交之前使用GitHub样式预览markdown文件.
 
 ### Text Editors
 
@@ -110,6 +109,7 @@
 - [reachable](https://github.com/italolelis/reachable) -  Reachable是一个CLI工具，用于检查域是否已启动.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 从CLI开始通过HTTP提供本地目录的最简单直接的方法.
 - [shell2http](https://github.com/msoap/shell2http)   - 用于执行shell命令的HTTP服务器.  专为开发，原型设计或远程控制而设计.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示功能的交互式命令行HTTP客户端.
 
 ### Mobile Development
 
@@ -117,19 +117,26 @@
 - [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动画面生成器
 - [deviceframe](https://github.com/c0bra/deviceframe) - 将设备框架放在您的移动/网络/渐进式应用屏幕截图周围.
 
+### Database
+
+- [cycli](https://github.com/nicolewhite/cycli) -  Neo4j的终端客户端，具有自动完成和语法突出显示功能.
+- [mycli](https://github.com/dbcli/mycli) - 具有AutoCompletion和语法突出显示的MySQL终端客户端.
+- [pgcli](https://github.com/dbcli/pgcli) -  Postgre的终端客户端，具有自动完成和语法突出显示功能.
+
 ### Devops
 
-- [aws-cli](https://github.com/aws/aws-cli) -  Amazon Web Services的通用命令行界面.
+- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
 - [azure-cli](https://github.com/Azure/azure-cli) -  Azure的命令行工具.
 - [SAWS](https://github.com/donnemartin/saws) - 增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 全功能S3客户端.
 - [lstags](https://github.com/ivanilves/lstags) - 跨不同的注册表同步Docker镜像.
 
-## Database
+### Release
 
-- [cycli](https://github.com/nicolewhite/cycli) -  Neo4j的终端客户端，具有自动完成和语法突出显示功能.
-- [mycli](https://github.com/dbcli/mycli) - 具有AutoCompletion和语法突出显示的MySQL终端客户端.
-- [pgcli](https://github.com/dbcli/pgcli) -  Postgre的终端客户端，具有自动完成和语法突出显示功能.
+- [release-it](https://github.com/webpro/release-it)   - 自动发布Git存储库和/或npm软件包.  更改日志生成，GitHub / GitLab版本等.
+- [clog](https://github.com/kentcdodds/clog-cli) - 我们其他人的传统更改日志.
+- [np](https://github.com/sindresorhus/np) - 更好的&#39;npm发布&#39;.
+- [release](https://github.com/zeit/release) - 使用单个命令生成更改日志.
 
 ## Productivity
 
@@ -227,6 +234,14 @@
 - [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
 
+### Network Utilities
+
+- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获得可用的端口.
+- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.
+- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的speedtest-net包装器.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽的命令行界面.
+
 ## Command Line Learning
 
 - [cmdchallenge](https://cmdchallenge.com/) - 使用用户提交的解决方案呈现小型shell挑战.
@@ -240,14 +255,24 @@
 
 ## Data Manipulation
 
-- [jq](https://github.com/stedolan/jq) - 命令行JSON处理器.
 - [underscore-cli](https://github.com/ddopson/underscore-cli) - 用于攻击JSON和Javascript的命令行实用程序带.
 - [ramda-cli](https://github.com/raine/ramda-cli) - 用于处理具有功能管道的数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) - 用于查询和更新YAML文件的简单CLI.
-- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
-- [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
 - [q](http://harelba.github.io/q/) - 一个命令行工具，允许在CSV / TSV（以及任何其他表格文本文件）上执行类似SQL的查询.
 - [yq](https://github.com/kislyuk/yq) - 命令行YAML处理器（使用与jq相同的语法）.
+
+### JSON
+
+- [jq](https://github.com/stedolan/jq) - 命令行JSON处理器.
+- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
+- [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
+- [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
+- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)   - 从JSON中删除评论.  允许您在JSON文件中使用注释！
+
+### Text
+
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)   - 解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli等工具操作的JSON.
+- [figlet](http://www.figlet.org/) - 使用ASCII字符创建大文本.
 
 ## Files and Directories
 
@@ -271,11 +296,11 @@
 
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - 用于监视文件系统更改的CLI.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - 检测文件或标准输入的文件类型.
-- [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)   - 从JSON中删除评论.  允许您在JSON文件中使用注释！
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
 - [bat](https://github.com/sharkdp/bat) - 带翅膀的猫（1）克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
+- [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.
 
 ### Directory Listing
 
@@ -321,10 +346,6 @@
 - [git-extras](https://github.com/tj/git-extras) -  git-ignore，git-setup，git-changelog，git-release，git-effort等小git附加功能.
 - [gita](https://github.com/nosarthur/gita) - 并排管理多个git repos以获得理智.
 
-### Changelogs
-
-- [clog](https://github.com/kentcdodds/clog-cli) - 我们其他人的传统更改日志.
-
 ## Images
 
 ### Gif Creation
@@ -346,14 +367,9 @@
 
 - [SVGO](https://github.com/svg/svgo) -  SVG Optimizer是一个基于Nodejs的工具，用于优化SVG矢量图形文件.
 
-## Text Manipulation
-
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)   - 解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli等工具操作的JSON.
-- [figlet](http://www.figlet.org/) - 使用ASCII字符创建大文本.
-
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
+- [cmatrix](https://github.com/Treri/cmatrix) - 显示滚动的“矩阵”屏幕.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 显示在屏幕上增长的随机管道.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
@@ -377,22 +393,17 @@
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp)   - ：book：Bible.JS CLI客户端.  通过命令行阅读圣经.
 - [birthday](https://github.com/IonicaBizau/birthday) - 知道朋友的生日快到了.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - 检测代码缩进.
-- [emoj](https://github.com/sindresorhus/emoj) - 在命令行中从文本中查找相关的表情符号.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
-- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获得可用的端口.
-- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
+- [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的gzip大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)   - 哈希变得简单.  获取文本或标准输入的哈希值.
-- [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有Chrome标签，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用Levenshtein距离算法测量两个弦之间的差异.
 - [maybe](https://github.com/p-e-w/maybe) - 在决定是否真的希望它发生之前，先看一下程序的作用.
-- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
+- [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
 - [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.
-- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的speedtest-net包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽的命令行界面.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - 从Web快捷方式文件中获取URL.
 - [SpeedRead](https://github.com/sunsations/speed_read) - 一个简单的基于终端的开源Spritz-like.
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我&#39;爱&#39;独角兽=&gt;我“爱”独角兽.

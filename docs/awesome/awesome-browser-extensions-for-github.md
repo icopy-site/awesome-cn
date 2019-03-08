@@ -73,7 +73,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
-Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.
+ Whereisit使GitHub上的代码导航更容易.  只需单击一下即可查找并跳转类/方法定义.
 
 <details><summary>Screenshots</summary>
 
@@ -148,7 +148,7 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 为GitHub添加各种有用的功能：
 
 1.单击文件图标下载任何文件.
-2.显示未读通知的工具提示.
+2. Show tooltip of your unread notifications.
 3.显示回购大小.
 4.如果有GitHub页面，则显示“GH页面”链接按钮.
 5.在2/4/8空格之间自定义选项卡大小.
@@ -259,7 +259,7 @@ Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016
 </details>
 
 
-在GitHub上显示markdown文档的所有主题标题的可点击大纲
+显示GitHub上markdown文档的所有主题标题的可点击大纲
 
 <details><summary>Screenshots</summary>
 
@@ -559,6 +559,14 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 <details><summary>Screenshots</summary>
 
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
+</details>
+
+
+这是一款轻量级Chrome扩展程序，可自动检测其实例 [asciinema](https://asciinema.org)  在GitHub上的README中链接并将播放器嵌入其位置.  而不是被指向asciinema网站观看“asciicast”，而是直接在README（或任何`.md`，`.rst`，`..textile`中观看它， [etc.](https://github.com/github/markup/blob/master/README.md#markups) 文件），谢谢 [embedded player widget](https://asciinema.org/docs/embedding). 
+
+<details><summary>Screenshots</summary>
+
+ ![asciinema Player for GitHub](https://raw.githubusercontent.com/plibither8/asciinema-player-for-github/master/assets/demo.gif)
 </details>
 
 ## Search
