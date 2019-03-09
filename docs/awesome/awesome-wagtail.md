@@ -102,7 +102,7 @@
 
 ### Translations
 
-- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - 包含集成的mixin模型的简单应用程序 [django-modeltranslation](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - 包含集成的mixin模型的简单应用程序 [django-modeltranslation](https://github.com/deschler/django-modeltranslation) 进入Wagtail面板系统.
 - [wagtailtrans](https://github.com/LUKKIEN/wagtailtrans) - 用于支持多语言网站的Wagtail插件.
 
 ### Forms
@@ -222,6 +222,7 @@
 
 ### Videos
 
+- [Learn Wagtail](https://learnwagtail.com/) - 关于Wagtail各方面的定期视频教程.
 - [Wagtail screencasts: Creating and displaying pages in Wagtail](https://www.youtube.com/watch?v=o_dFgr8HZYU) - 该视频将向您展示如何使用Wagtail CMS创建和显示页面.
 - [Draftail extensions – custom entities tutorial](https://www.youtube.com/watch?v=nCMgoTerEb4) - 为Draftail制作扩展的分步教程.
 - [Wagtail Wednesdays #01 - Adding Help Text to Improve Wagtail Editor Experience](https://www.youtube.com/watch?v=ciYNMcv3lE0) -  Catherine通过您可以采取的步骤向您介绍向Wagtail管理员添加一些有用的补充文本字段.

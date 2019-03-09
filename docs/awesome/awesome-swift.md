@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  951 |  2019年3月5日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  954 |  2019年3月8日
 
 
 
@@ -47,6 +47,7 @@
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很酷的30天教程.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 关于Swift语言的游乐场.
 * [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - 有组织的Swift语言主题列表.
+* [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 在本机macOS应用中观看会议视频.
 * [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) -  Paul Hegarty的斯坦福大学课程.
 * [Hacking With Swift](https://www.hackingwithswift.com) - 完整的培训课程，通过30个实践项目免费教授应用程序开发.
 * [Ray Wenderlich Tutorials, Videos, Podcasts and books](https://www.raywenderlich.com) - 高质量的编程教程.
@@ -240,14 +241,14 @@
 
 * [Cely](https://github.com/chaione/Cely) - 即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - 验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - 用于从LinkedIn登录和检索访问令牌的简单视图控制器.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -  LoginKit是一种向您的iOS应用程序添加登录/注册UX的快捷方式.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -  [In]可见的ReCaptcha for iOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - 在iOS和OS X应用程序中实现Facebook和Google登录的简单方法.
 * [SpotifyLogin](https://github.com/spotify/SpotifyLogin) - 使用Spotify API进行身份验证.
 
 ### Bots
-*Libs to build bot* [back to top](#readme) 
+* Libs构建机器人* [back to top](#readme) 
 
 * [Telegram Bot SDK](https://github.com/zmeyc/telegram-bot-swift) ：企鹅： - 非官方SDK.
 * [Telegrammer](https://github.com/givip/Telegrammer)  ：企鹅： -  Telegram Bots开发人员的开源框架.  它建立在Apple / SwiftNIO之上，有助于展示出色的性能.
@@ -304,7 +305,7 @@
 * [Commander](https://github.com/kylef/Commander) ：企鹅： - 编写漂亮的命令行界面.
 * [CommandLine](https://github.com/jatoben/CommandLine) ：penguin： - 用于创建命令行界面的库.
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin： -  readline的零依赖替换.
-* [Progress.swift](https://github.com/jkandzi/Progress.swift) ：企鹅： - 在命令行中添加漂亮的进度条.
+* [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin： - 一个可用于开发CLI的强大框架.
 * [Swiftline](https://github.com/nsomar/Swiftline) - 一组帮助您创建命令行应用程序的工具.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) ：penguin： - 用于生成文本表的轻量级库.
@@ -477,7 +478,7 @@
 
 * [Cleanse](https://github.com/square/Cleanse) -  Square的轻量级依赖注入框架.
 * [Corridor](https://github.com/symentis/Corridor) - 类似Coreader的依赖注入μFramework.
-* [Deli](https://github.com/kawoou/Deli) - Deli is an easy-to-use Dependency Injection(DI).
+* [Deli](https://github.com/kawoou/Deli) -  Deli是一种易于使用的依赖注入（DI）.
 * [Dip](https://github.com/AliSoftware/Dip) - 一个简单的依赖注入容器.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity/) - 依赖注入框架，安静.
 * [Pure](https://github.com/devxoul/Pure) - 一种在没有DI容器的情况下进行依赖注入的方法.
@@ -526,10 +527,10 @@
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
-* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 现代线程安全和类型安全的键值观察.
+* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步承诺编程lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)   -  ReactiveCocoa（RAC）是一个受功能反应式编程启发的Cocoa框架.  它提供了用于组合和转换值流的API.
-* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 反应式和单向应用架构的框架.
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce)   - 反应性实现状态容器模式（如Redux）.  它基于状态不变性和单向数据流的简单概念.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
@@ -761,7 +762,7 @@
 * [QorumLogs](https://github.com/goktugyil/QorumLogs) -  Xcode和Google Docs的日志记录实用程序.
 * [Rainbow](https://github.com/onevcat/Rainbow) ：企鹅： - 令人愉快的控制台输出.
 * [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) ：企鹅： - 开发和发布期间的多平台日志记录.
-* [TinyConsole](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app.
+* [TinyConsole](https://github.com/Cosmo/TinyConsole) - 一个小型日志控制台，可在使用iOS应用程序时显示信息.
 * [TraceLog](https://github.com/tonystone/tracelog)  ：企鹅： - 死简单：记录它的意图！  在iOS，macOS和Linux上运行.
 * [Watchdog](https://github.com/wojteklu/Watchdog) - 用于记录主线程上过多阻塞的实用程序.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - 一个日志工具，用于显示iOS应用程序状态栏中的当前帧速率（fps）.
@@ -796,7 +797,7 @@
 * [Alamofire](https://github.com/Alamofire/Alamofire) ：企鹅： - 优雅的网络.
 * [APIKit](https://github.com/ishkawa/APIKit) - 用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) - 使用mDNS（Bonjour，Zeroconf）发布和发现服务.
-* [CodyFire](https://github.com/MihaelIsaev/CodyFire) - Powerful Codable API requests builder and manager for iOS. Based on Alamofire.
+* [CodyFire](https://github.com/MihaelIsaev/CodyFire)   - 功能强大的Codable API请求iOS构建器和管理器.  基于Alamofire.
 * [Conduit](https://github.com/mindbody/Conduit) - 针对Web API的强大网络.
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加强大.
 * [Dots](https://github.com/iAmrSalman/Dots) - 轻量级并发网络框架.
@@ -1022,6 +1023,7 @@
 * [AECoreDataUI](https://github.com/tadija/AERecord) - 核心数据驱动的UI.
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - 用于创建控制器的有用组件，旨在管理任何计算参数.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
+* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
@@ -1032,6 +1034,7 @@
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - 用于重新创建iOS 10 Apple Music现在正在播放转换的库.
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - 在macOS应用程序的Dock图标中显示进度.
 * [Dodo](https://github.com/evgenyneu/Dodo) -  iOS的消息栏.
+* [Doric Design System Foundation](https://github.com/jayeshk/Doric) - 适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) - 适用于iOS的Material Design下拉菜单.
 * [Element](https://github.com/eonist/Element) -  macOS的程序化UI框架.
 * [Elissa](https://github.com/KitchenStories/Elissa) - 在UITabBarItem或任何UIView锚视图之上显示通知，以显示其他信息.
@@ -1209,7 +1212,7 @@
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
-* [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
+* [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
 * [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -  iOS的三角形角标签视图.
 
 #### Menu
@@ -1333,7 +1336,7 @@
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) -  UICollectionViewLayout子类将其项显示为类似于App Store Feature选项卡的项目行，而没有嵌套的UITableView / UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个UICollectionViews拖放数据.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)   - 优雅的屏幕幻灯片库.  它对于制作横幅视图，产品展示，欢迎/指南页面，屏幕/ ViewController滑块非常有用.
-* [Gliding Collection](https://github.com/Ramotion/gliding-collection) - Gliding Collection is a smooth, flowing, customizable decision for a UICollectionView Controller.
+* [Gliding Collection](https://github.com/Ramotion/gliding-collection) -  Gliding Collection是UICollectionView控制器的流畅，流畅，可定制的决策.
 * [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - 标准UICollectionView流程布局的美丽替代方案.
 * [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) -  UICollectionView布局，可以通过拖放移动项目.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) -  iOS自定义视图，可在书架上显示书籍.

@@ -79,7 +79,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 * [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) -  digitalocean上的Rancher服务器.
 * [segmentio/stack](https://github.com/segmentio/stack) - 使用AWS，Docker和ECS配置生产基础架构.
-* [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - 在AWS ECR上管理Docker容器注册表.
+* [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - Manages Docker container registries on AWS ECR.
 * [terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - 定义EFS文件系统.
 * [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用Jenkins构建Docker镜像，将其保存到ECR仓库，并将其部署到运行Docker堆栈的Elastic Beanstalk.
 * [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成SSH密钥对（公钥/私钥）.
@@ -117,9 +117,10 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) -  Azure云的Terraform提供商.
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud的Terraform插件.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -  Terraform提供商管理healthchecks.io资源.
-* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Terraform提供商管理您的设置 [Keycloak](https://www.keycloak.org/) identity provider server.
+* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Terraform提供商管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器
 * [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - 用于linode的Terraform插件
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -  Terraform提供商管理pingdom资源.
+* [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - 管理 [Spinnaker](https://www.spinnaker.io/) Terraform的应用程序和管道.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - 适用于AWS，Azure，GCP的Devops自动化平台.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) -  Terraform提供商管理uptimerobot资源.
 
@@ -136,8 +137,11 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [atlantis](https://github.com/runatlantis/atlantis) - 通过GitHub在Terraform上进行协作的统一工作流程.
 * [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.
+* [k2tf](https://github.com/sl1pm4t/k2tf) -  Kubernetes YAML到Terraform HCL转换器.
+* [json2hcl](https://github.com/kvz/json2hcl) - 将JSON转换为HCL，反之亦然.
 * [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自Github的外部模块以用于Terraform.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用terraform命令的简单Ruby包装器.
+* [scenery](https://github.com/dmlittle/scenery) - 另一个Terraform计划输出预处理器
 * [terraboard](https://github.com/camptocamp/terraboard) - 用于检查Terraform国家的Web仪表板.
 * [terraboot](https://github.com/MastodonC/terraboot) -  DSL生成terraform配置并运行它.
 * [terrafile](https://github.com/coretech/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Go编写）.
@@ -149,10 +153,12 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理terraform计划的共享Rake任务.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析Terraform状态文件的Ansible动态库存脚本.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) -  Terragrunt是Terraform的薄包装器，支持锁定Terraform状态并实施最佳实践.
+* [terrahelp](https://github.com/opencredo/terrahelp) - 一个命令行实用程序，旨在提供补充功能，有时在使用Terraform时非常有用.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) - 收集用于地形模板的静态代码分析的安全性和最佳实践测试
 * [tfenv](https://github.com/tfutils/tfenv) - 受rbenv启发的Terraform版本管理器.
 * [tfjson](https://github.com/palantir/tfjson) - 用于读入Terraform计划文件并将其转储为JSON的实用程序
 * [tflint](https://github.com/wata727/tflint) - 用于检测“terraform plan”无法检测到的错误的Terraform linter
+* [tfmask](https://github.com/cloudposse/tfmask) -  Terraform实用程序，用于屏蔽“terraform plan”和“terraform apply”的选择输出
 * [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件terraform管理的AWS基础架构的框架
 * [tfschema](https://github.com/minamijoyo/tfschema) -  Terraform提供商的架构检查员.
 * [tfwrapper](https://github.com/manheim/tfwrapper) -  Rubygem提供运行Hashicorp Terraform的rake任务

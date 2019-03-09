@@ -69,10 +69,24 @@ Signals/Behaviors/FRP:
 
 - [purescript-aff](https://github.com/slamdata/purescript-aff) -  PureScript的异步效果monad.
 - [purescript-affjax](https://github.com/slamdata/purescript-aff) - 使用Aff构建的异步AJAX库.
+- [purescript-queue](https://github.com/athanclark/purescript-queue) -  PureScript的异步队列库.
+- [purescript-signal](https://github.com/bodil/purescript-signal) - 用于PureScript的异步信号库，类似于Elm.
+- [purescript-zeta](https://github.com/athanclark/purescript-zeta) -  PureScript中的替代信号实现.
 
 ## Effect Management
 
 - [purescript-eff](https://github.com/purescript/purescript-eff) -  Eff monad，用于处理原生副作用.
+- [purescript-effect](https://github.com/purescript/purescript-effect) -  Effect monad，用于处理PureScript v0.12.x中的本机副作用.
+
+## Json Serialization
+
+- [purescript-argonaut](https://github.com/purescript-contrib/purescript-argonaut) -  Json编码和解码类型类.
+- [purescript-simple-json](https://github.com/justinwoo/purescript-simple-json) -  Json通过泛型编码和解码.
+
+## Binary Serialization
+
+- [purescript-arraybuffer](https://github.com/jacereda/purescript-arraybuffer) - 绑定到ArrayBuffer JavaScript类型.
+- [purescript-arraybuffer-class](https://github.com/athanclark/purescript-arraybuffer-class) - 用于ArrayBuffer编码和解码的类型类.
 
 ## Testing
 

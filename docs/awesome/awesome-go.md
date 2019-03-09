@@ -632,7 +632,7 @@
 * [GoSlaves](https://github.com/themester/GoSlaves) - 简单和异步Goroutine池库.
 * [goworker](https://github.com/benmanns/goworker) -  goworker是一名Go-based背景工作者.
 * [gpool](https://github.com/Sherifabdlnaby/gpool) - 管理可调整大小的上下文感知goroutine池以绑定并发.
-* [grpool](https://github.com/ivpusic/grpool) - Lightweight Goroutine pool.
+* [grpool](https://github.com/ivpusic/grpool) - 轻量级Goroutine游泳池.
 * [oversight](https://cirello.io/oversight) -  Oversight是Erlang监督树的完整实现.
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) - 并行运行功能.
 * [pool](https://github.com/go-playground/pool) - Limited consumer goroutine or unlimited goroutine pool for easier goroutine handling and cancellation.
@@ -901,6 +901,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [alice](https://github.com/magic003/alice) -  Golang的附加依赖注入容器.
 * [dig](https://github.com/uber-go/dig) -  Go的基于反射的依赖注入工具包.
+* [fx](https://github.com/uber-go/fx) -  Go的基于依赖注入的应用程序框架（建立在挖掘之上）. 
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
 
 ### Strings
@@ -1458,6 +1459,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [abutil](https://github.com/bahlo/abutil) - 经常使用的Golang助手的收集.
 * [apm](https://github.com/topfreegames/apm) - 使用HTTP API的Golang应用程序的进程管理器.
 * [backscanner](https://github.com/icza/backscanner) - 类似于bufio.Scanner的扫描程序，但它以相反的顺序读取和返回行，从给定位置开始向后移动.
+* [blank](https://github.com/Henry-Sarabia/blank) - 验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) - 用于从样板模板创建项目的超快CLI工具.
 * [chyle](https://github.com/antham/chyle) - 使用具有多种配置可能性的git存储库的Changelog生成器.
 * [circuit](https://github.com/cep21/circuit) - 高效且功能齐全的Hystrix，如断路器模式的Go实现.

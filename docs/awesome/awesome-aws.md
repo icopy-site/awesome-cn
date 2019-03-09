@@ -338,7 +338,7 @@ AWS Repos：
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - 管理堆栈.
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - 用于管理CloudFormation堆栈的CLI工具.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - 用于堆栈管理的CLI.
-* [sparkleformation/sparkle_formation :fire:](https://github.com/sparkleformation/sparkle_formation) - 用于模板创建的Ruby DSL.
+* [sparkleformation/sparkle_formation :fire::fire:](https://github.com/sparkleformation/sparkle_formation) - 用于模板创建的Ruby DSL.
 * [Stelligent/cfn_nag :fire::fire:](https://github.com/stelligent/cfn_nag) -  CloudFormation模板的Linting工具
 
 ### CloudSearch

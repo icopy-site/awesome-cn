@@ -24,12 +24,10 @@
 
 ## Entertainment
 
-- [moviemon](https://github.com/iCHAIT/moviemon) - 命令行中有关您电影的所有内容.
-- [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
-- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较终端中的电影.
 - [football-cli](https://github.com/ManrajGrover/football-cli) - 获得终端中几乎所有足球比赛/联赛的现场比分，赛程，积分榜.
 - [pockyt](https://github.com/arvindch/pockyt) - 阅读，管理和自动化您 [Pocket](https://getpocket.com) 采集.
 - [splash-cli](https://github.com/rawnly/splash-cli) - 美丽的壁纸 [unsplash](http://unsplash.com).
+- [newsboat](https://github.com/newsboat/newsboat) - 用于文本终端的可扩展RSS提要阅读器.
 
 ### Music
 
@@ -49,7 +47,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端 - （[original](http://www.floodgap.com/software/ttytter/)).
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) - RTV provides an interface to view and interact with reddit from your terminal.
+- [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
 - [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
 
 ### Video
@@ -58,6 +56,10 @@
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
 - [streamlink](https://github.com/streamlink/streamlink)   - 一种命令行实用程序，可将来自各种服务的视频流传输到视频播放器（如VLC）中.  Streamlink的主要目的是允许用户避免错误和CPU重闪存插件，但仍然能够享受各种流内容.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 命令行Youtube播放器.
+
+### Movies
+- [moviemon](https://github.com/iCHAIT/moviemon) - 命令行中有关您电影的所有内容.
+- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较终端中的电影.
 
 ### Games
 
@@ -86,7 +88,6 @@
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - 检查凉亭上是否有包裹名称.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
-- [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是上升还是下降.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [npm-name-cli](https://github.com/sindresorhus/npm-name-cli) - 检查npm上是否有可用的包名.
@@ -125,7 +126,8 @@
 
 ### Devops
 
-- [aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services.
+- [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
+- [aws-cli](https://github.com/aws/aws-cli) -  Amazon Web Services的通用命令行界面.
 - [azure-cli](https://github.com/Azure/azure-cli) -  Azure的命令行工具.
 - [SAWS](https://github.com/donnemartin/saws) - 增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 全功能S3客户端.
@@ -169,7 +171,8 @@
 - [Taskwarrior](http://taskwarrior.org) - 免费和开源软件，从您的命令行管理您的TODO列表.
 - [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) -  UNIX终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
-- [sncli](https://github.com/insanum/sncli) - 一个简单的Python应用程序，可让您通过命令行访问Simplenote帐户.
+- [sncli](https://github.com/insanum/sncli) - A simple Python application that gives you access to your Simplenote account via the command line.
+- [td-cli](https://github.com/darrikonn/td-cli) - 一个todo命令行管理器，用于组织和管理多个项目中的待办事项.
 
 ### Finance
 
@@ -202,7 +205,7 @@
 - [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
 - [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
-- [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
+- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
 - [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
@@ -236,7 +239,7 @@
 
 ### Network Utilities
 
-- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获得可用的端口.
+- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的speedtest-net包装器.
@@ -383,6 +386,7 @@
 ## Just for Fun
 
 - [cowsay](https://github.com/tnalpgge/rank-amateur-cowsay) - 可配置的说话牛（和其他动物）.
+- [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
@@ -393,8 +397,6 @@
 - [Bible.Js CLI client](https://github.com/BibleJS/BibleApp)   - ：book：Bible.JS CLI客户端.  通过命令行阅读圣经.
 - [birthday](https://github.com/IonicaBizau/birthday) - 知道朋友的生日快到了.
 - [detect-indent-cli](https://github.com/sindresorhus/detect-indent-cli) - 检测代码缩进.
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
 - [fullname-cli](https://github.com/sindresorhus/fullname-cli) - 获取当前用户的全名.
 - [gzip-size-cli](https://github.com/sindresorhus/gzip-size-cli) - 获取文件或标准输入的gzip大小.
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)   - 哈希变得简单.  获取文本或标准输入的哈希值.
@@ -417,6 +419,12 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
+
+### Emoji
+
+- [emoj](https://github.com/sindresorhus/emoj) - 在命令行中从文本中查找相关的表情符号.
+- [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
+- [oji](https://github.com/xxczaki/oji) - 交互式文本表情符号制作者.
 
 ## Other Awesome Lists
 

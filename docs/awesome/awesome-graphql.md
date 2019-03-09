@@ -80,29 +80,32 @@
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
 
+#### Database & ORM
+* [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助定义BookshelfJS模型周围的GraphQL架构.
+* [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -  GraphQL的Sequelize助手.
+* [graphql-thinky](https://github.com/fenos/graphql-thinky) - 从Thinky RethinkDB模型构建优化的GraphQL架构.
+* [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize) - 使用Sequelize ORM的GraphQL-Tools的OO样式的模式定义函数和模式解析器函数
+* [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - 从ORM加载GraphQL架构的GraysQL扩展.
+* [GRelDAL](https://gql-dal.github.io/greldal/) - 一个简单的微框架，用于关系数据存储和GraphQL API之间的双向映射.
+
 #### Miscellaneous
 
 * [GraphQL.js](https://github.com/graphql/graphql-js) -  GraphQL for JavaScript的参考实现.
 * [codemirror-graphql](https://github.com/graphql/codemirror-graphql) -  CodeMirror的GraphQL模式和帮助程序.
 * [graphql-schema](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
-* [graphql-sequelize](https://github.com/mickhansen/graphql-sequelize) -  GraphQL的Sequelize助手.
-* [graphql-tools-sequelize](https://github.com/rse/graphql-tools-sequelize) - 使用Sequelize ORM的GraphQL-Tools的OO样式的模式定义函数和模式解析器函数
 * [graphql-tools-types](https://github.com/rse/graphql-tools-types) - 用于GraphQL-Tools的自定义GraphQL类型（Void，Int，Float，String，Date，UUID，JSON）
 * [graphql-normalizr](https://github.com/monojack/graphql-normalizr) - 规范化GraphQL响应以持久保存在客户端缓存/状态中
 * [babel-plugin-graphql](https://github.com/ooflorent/babel-plugin-graphql) - 编译GraphQL标记模板字符串的Babel插件.
 * [adrenaline](https://github.com/gyzerok/adrenaline) - 考虑Redux和Relay的绑定.
-* [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助定义BookshelfJS模型周围的GraphQL架构.
 * [graph.ql](https://github.com/matthewmueller/graph.ql) - 用于创建和查询GraphQL模式的更快更简单的技术.
 * [Strapi](http://strapi.io/documentation/graphql) - 开源即时支持“GraphQL”的开源Node.js框架.
 * [GraysQL](https://github.com/larsbs/graysql) -  GraphQL管理器和加载器.
-* [graysql-orm-loader](https://github.com/larsbs/graysql-orm-loader) - 从ORM加载GraphQL架构的GraysQL扩展.
 * [Annotated GraphQL](https://github.com/almilo/annotated-graphql) -  GraphQL中注释的概念证明（即：将现有REST API转换为GraphQL端点）.
 * [graphql-tools](https://github.com/apollostack/graphql-tools) - 用于构建和维护GraphQL-JS服务器的工具库.
 * [graphql-anywhere](https://github.com/apollostack/graphql-anywhere) - 在没有架构的情况下，针对任何数据在任何地方运行GraphQL查询.
 * [graphql-tag](https://github.com/apollostack/graphql-tag) - 解析GraphQL查询的JavaScript模板文字标记.
 * [modelizr](https://github.com/julienvincent/modelizr) - 一个库，用于简化编写GraphQL查询，模拟它们并规范化响应的过程.
 * [vue-apollo](https://github.com/Akryum/vue-apollo) - 阿波罗的Vue集成.
-* [graphql-thinky](https://github.com/fenos/graphql-thinky) - 从Thinky RethinkDB模型构建优化的GraphQL架构.
 * [graphql-pouch](https://github.com/MikeBild/graphql-pouch) - 由GraphQL简写表示法创建的PouchDB之上的GraphQL-API运行时作为具有CouchDB同步的自包含服务.
 * [gql-tools](https://github.com/almilo/gql-tools) - 带有CLI的工具库，用于模式生成和操作.
 * [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date)   - 与GraphQL.js一起使用的GraphQL日期标量类型.  此标量表示ISO 8601格式YYYY-MM-DD的日期.
@@ -111,7 +114,6 @@
 * [Join Monster](https://github.com/acarl005/join-monster) - A GraphQL-to-SQL query execution layer for batch data fetching.
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
-* [GRelDAL](https://gql-dal.github.io/greldal/) - 一个简单的微框架，用于关系数据存储和GraphQL API之间的双向映射.
 
 #### Relay Related
 

@@ -731,6 +731,7 @@
   * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) -  ActiveRecord插件允许您隐藏和恢复记录而不实际删除它们.
   * [Audited](https://github.com/collectiveidea/audited) -  Audited是ActiveRecord和MongoMapper的ORM扩展，用于记录模型的所有更改.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - Allows you to "destroy" an object without deleting the record or associated records.
+  * [Discard](https://github.com/jhawthorn/discard) - 一个简单的ActiveRecord mixin，用于添加用于标记丢弃记录的约定.
   * [Espinita](https://github.com/continuum/espinita) - 像老板一样审核activerecord模型.
   * [marginalia](https://github.com/basecamp/marginalia)   - 将评论附加到您的ActiveRecord查询.  默认情况下，它会在每个查询结束时将应用程序，控制器和操作名称添加为注释.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) - 多用户非线性历史跟踪，审计，撤销，重做为mongoid.

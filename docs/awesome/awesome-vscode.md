@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-令人愉快的策划清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 </div>
@@ -115,7 +115,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - 预览C / C ++扩展名 [Microsoft](https://www.microsoft.com)，读 [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) 细节
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 在GNU Global工具的帮助下为C / C ++提供Intellisense.
-- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）提供语义完成 [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）提供语义完成 [YouCompleteMe](https://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用Clang命令完成和诊断C / C ++ / Objective-C.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery)  支持数百万行代码库，由libclang提供支持.  交叉引用，完成，诊断，语义突出显示等.
 
@@ -123,7 +123,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 细节
 
-- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - 修复使用/缩进/大括号/空行的格式
+- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - 提供IDE扩展，加快您的开发工作流程.
 
@@ -316,6 +316,12 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![Bookmarks toogle screenshot](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
+## [Color Tabs](https://marketplace.visualstudio.com/items?itemName=orepor.color-tabs-vscode-ext)
+
+&gt;大项目或单项目的扩展，根据当前包为您的标签/标题栏着色
+
+![Color your tabs and/or titlebar based on regex](https://raw.githubusercontent.com/oreporan/color-tabs-vscode/master/docs/example_gif.gif)
+
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
 &gt;快速生成测试文件的扩展.
@@ -355,7 +361,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [GitLink](https://marketplace.visualstudio.com/items?itemName=qezhu.gitlink)
 
-> GoTo current file's online link in browser and Copy the link in clipboard.
+&gt; GoTo当前文件在浏览器中的在线链接和复制剪贴板中的链接.
 
 ![GoTo current file online animation](https://raw.githubusercontent.com/qinezh/vscode-gitlink/master/images/how_to_use_it.gif)
 
@@ -540,7 +546,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [ECMAScript Quotes Transformer](https://marketplace.visualstudio.com/items?itemName=vilicvane.es-quotes)
 
-> Transform quotes of ECMAScript string literals
+&gt;转换ECMAScript字符串文字的引号
 
 ![Transform quotes of ECMAScript string literals animation](https://cloud.githubusercontent.com/assets/970430/10563944/4cc04462-75d1-11e5-984b-41e0a21a72c3.gif)
 
@@ -739,6 +745,15 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![ESDOC MDN](https://raw.githubusercontent.com/samundrak/vscode-esdoc-mdn/master/demo.gif)
 
+
+![Interface generator (Typescript)](https://raw.githubusercontent.com/ryu1kn/vscode-text-marker/master/images/animations/public.gif)
+
+## [Interface generator](https://marketplace.visualstudio.com/items?itemName=dotup.dotup-vscode-interface-generator)
+
+&gt;从typescript类快速生成接口定义
+
+![Interface generator](https://raw.githubusercontent.com/dotupNET/dotup-vscode-interface-generator/master/images/video2.gif)
+
 ## Themes
 
 ## UI
@@ -792,7 +807,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [City Lights by Yummygumm](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
-🏙 Yummygum's Official City Lights suite
+ Yummygum官方城市之光套房
 
 <a href="http://citylights.xyz">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/city-lights-yummygum.png" width="600" />
@@ -910,12 +925,20 @@ Monokai的主题灵感来自于 [Visual Studio Code](https://vscodethemes.com/e/
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/arcticicestudio.nord-visual-studio-code.png" width="600" />
 </a>
 
-## [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
+### [Rainglow by Dayle Rees](https://vscodethemes.com/e/daylerees.rainglow)
 
 收集320多个漂亮的语法和UI主题.
 
 <a href="https://vscodethemes.com/e/daylerees.rainglow">
   <img src="https://raw.githubusercontent.com/rainglow/examples/master/vscode/gloom-contrast.png" width="600" />
+</a>
+
+### [Relaxed Theme by Michael Kühnel](https://vscodethemes.com/e/mischah.relaxed-theme)
+
+轻松的主题，让您更轻松地看待事物.
+
+<a href="https://vscodethemes.com/e/mischah.relaxed-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/relaxed-theme.png" width="600" />
 </a>
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
@@ -971,7 +994,7 @@ VS代码社区中各种人员的Twitter帐户列表
 ## Tools
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -  Visual Studio Live Share使您可以实时协作编辑和调试，无论您正在使用哪种编程语言或正在构建的应用程序类型.
-- [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
+- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) -  macOS Finder工具栏应用程序，用于在Visual Studio代码中打开当前文件夹
 
@@ -1001,6 +1024,6 @@ VS代码社区中各种人员的Twitter帐户列表
 
  我在开源许可证下向您提供此存储库中的代码和资源.  因为这是我的个人存储库，所以您收到我的代码和资源的许可证来自我而不是我的雇主（Microsoft）.
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内， [Valerii Iatsko](https://viatsko.me) 已放弃对此作品的所有版权及相关或相邻权利.

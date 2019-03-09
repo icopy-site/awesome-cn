@@ -298,7 +298,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) ：skull： -  Docker的简单Web界面，具有很多功能 [@Electrofenster](https://github.com/Electrofenster/)
 - [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) ：skull： - 用于分析和浏览Docker注册表中Docker镜像之间依赖关系的Web服务 [@Simone-Erba](https://github.com/Simone-Erba/)
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) -  GitHub的浏览器扩展，使`Dockerfile`中的图像名称可单击，并将您重定向到相关的Docker Hub页面.
-- [Portainer](https://github.com/portainer/portainer) - 用于管理Docker主机或Docker Swarm集群的轻量级管理UI [@portainer](https://github.com/portainer)
+- [Portainer](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
 - [Portus](https://github.com/SUSE/Portus) -  Docker注册表（v2）的授权服务和前端 [@SUSE](https://github.com/SUSE)
 - [Rapid Dashboard](https://github.com/ozlerhakan/rapid) - 一个简单的查询仪表板，用于使用Docker Remote API [@ozlerhakan](https://github.com/ozlerhakan/)
 - [Seagull](https://github.com/tobegit3hub/seagull)   - 用于监控docker守护程序的友好Web UI.  通过 [@tobegit3hub](https://github.com/tobegit3hub)
@@ -411,7 +411,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) -  Artifact Repository Manager，也可以用作私有Docker Registry
 - [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - 专用的Conainer注册服务，具有无限的私有存储库，用户，团队，命名空间以及企业级认证LDAP / AD / OAuth / SAML.
 - [Quay.io :heavy_dollar_sign:](https://quay.io/) （CoreOS的一部分） - 为私有Docker存储库提供安全托管
-- [Rescoyl](https://github.com/noteed/rescoyl) - Private Docker registry (free and open source) by [@noteed](https://github.com/noteed)
+- [Rescoyl](https://github.com/noteed/rescoyl) - 私人Docker注册表（免费和开源） [@noteed](https://github.com/noteed)
 - [Sonatype Nexus](https://www.sonatype.com/nexus-repository-oss) - 具有通用支持的存储库，也适用于Docker镜像
 - [TreeScale](https://github.com/treescale)   - 构建和分发基于容器的应用程序.  通过 [@tigranbs](https://github.com/tigranbs)
 
@@ -427,7 +427,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-it-scala](https://github.com/whisklabs/docker-it-scala) - 与Scala by的Docker集成测试工具包 [@whisklabs](https://github.com/whisklabs)
 - [docker-java-api](https://github.com/amihaiemil/docker-java-api)   - 用于Docker API的轻量级，真正面向对象的Java客户端.  通过 [@amihaiemil](https://github.com/amihaiemil)
 - [docker-maven-plugin](https://github.com/fabric8io/docker-maven-plugin) - 用于运行和创建Docker镜像的Maven插件 [@fabric8io](https://github.com/fabric8io)
-- [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) -  Docker的PowerShell模块
+- [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
 - [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan](https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan)
 - [dockerfile-maven](https://github.com/spotify/dockerfile-maven) - 用于构建和推送Docker镜像的Maven插件[@spotify] [spotify]
 - [dockerode](https://github.com/apocas/dockerode) -  Docker Remote API node.js模块 [@apocas](https://github.com/apocas)
@@ -445,6 +445,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Captain](https://github.com/harbur/captain) - 将您的Git工作流转换为Docker容器，准备进行持续交付 [@harbur](https://github.com/harbur).
 - [Cyclone](https://github.com/caicloud/cyclone) - 强大的工作流引擎和端到端管道解决方案，使用原生Kubernetes资源实现 [@caicloud](https://github.com/caicloud).
 - [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) -  docker插件的目的是能够使用docker主机动态配置slave，运行单个构建，然后拆除该slave.
+- [Dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date
 - [Drone](https://github.com/drone/drone) - 基于Docker构建的持续集成服务器，使用YAML文件进行配置.
 - [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) -  GitLab已经集成了CI，可以使用GitLab运行程序来测试，构建和部署您的代码.
 - [GOCD-Docker](https://github.com/gocd/gocd-docker)在docker容器中转到Server和Agent以进行配置.
@@ -467,7 +468,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DIP](https://github.com/bibendi/dip)   -  CLI实用程序，用于直接配置和与docker-compose配置的应用程序交互.  通过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite)   - 在OSX上使用Docker的最简单方法，无需VM.  通过 [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)   -  Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
-- [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools) - A set of bash commands to shortcut typical docker dev-ops. An alternative to creating typical helper scripts like "build.sh" and "deploy.sh" inside code repositories. By [@NandoQuintana](https://github.com/nandoquintana).
+- [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - 在OS X上使用Docker的高效开发环境 [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)   - 从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
 - [Docker-sync](http://docker-sync.io/) - 大幅提升表现（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ）在Mac OS X / Windows和Linux上使用Docker进行开发时，将代码共享到容器中.  通过 [@EugenMayer](https://github.com/EugenMayer)
@@ -478,7 +479,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [footloose](https://github.com/weaveworks/footloose) - 旋转容器，看起来像虚拟机 - 通过 [@dlespiau](https://github.com/dlespiau)
 - [forward2docker](https://github.com/bsideup/forward2docker) ：skull： - 用于将端口从localhost自动转发到在boot2docker VM中运行的Docker容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
 - [Lando](https://github.com/lando/lando)   -  Lando适用于希望快速指定并轻松实现开发项目所需的服务和工具的开发人员.  通过 [Tandem](https://thinktandem.io/)
-- [Vagga](https://github.com/tailhook/vagga) - Vagga is a containerisation tool without daemons. It is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments by [@tailhook](https://github.com/tailhook/)
+- [Vagga](https://github.com/tailhook/vagga)   -  Vagga是一种没有守护进程的集装箱工具.  它是一个完全用户空间容器引擎，受Vagrant和Docker的启发，专门用于开发环境 [@tailhook](https://github.com/tailhook/)
 
 ### Garbage Collection
 
@@ -633,7 +634,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Extending Docker with Plugins](https://vimeo.com/110835013) (15:21)
 - [From Local Docker Development to Production Deployments](https://www.youtube.com/watch?v=7CZFpHUPqXw) 通过[@jpetazzo] [jpetazzo] @ AWS re：Invent 2015
 - [Immutable Infrastructure with Docker and EC2 by Michael Bryzek (Gilt)](https://www.youtube.com/watch?v=GaHzdqFithc) (42:04)
-- [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) （3:09:00）[@jpetazzo] [jpetazzo]
+- [Introduction to Docker and containers](https://www.youtube.com/watch?v=ZVaRK10HBjo) (3:09:00) by [@jpetazzo][jpetazzo]
 - [Logging on Docker: What You Need to Know](https://vimeo.com/123341629) (51:27)
 - [Performance Analysis of Docker - Jeremy Eder](https://www.youtube.com/watch?v=6f2E6PKYb0w) (1:36:58)
 - [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615) 免费Udacity课程
@@ -674,7 +675,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [coreos]：https：//github.com/coreos
 [cncf]：https：//www.cncf.io
 [发行]：https：//github.com/docker/distribution
-[docker-for-windows]: https://docs.docker.com/docker-for-windows/
+[docker-for-windows]：https：//docs.docker.com/docker-for-windows/
 [docker]：https：//github.com/docker
 [editreadme]：https：//github.com/veggiemonk/awesome-docker/edit/master/README.md
 [fgrehm]：https：//github.com/fgrehm

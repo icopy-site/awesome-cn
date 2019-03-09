@@ -44,6 +44,7 @@
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - 基于机器学习的会话对话引擎，用Python构建
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - 对文本块使用情绪分析，为对话机器人添加决策树逻辑.
 * [Messenger Demo Viewer](https://messenger-demo-viewer.kilianvalkhof.com/) - 演示FB Messenger机器人没有显示个人聊天
+* [BotStar](https://www.botstar.com/) - 通过智能培训在视觉上设计和开发聊天机器人的强大平台.
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/)   - 机器人的参与平台.  ChatMetrics允许通过向用户发送“智能”通知来重新激活非活动用户并提高保留率.
@@ -56,6 +57,7 @@
 * [Bot Sketch](https://dribbble.com/shots/2674603-Facebook-Messenger-UI-Kit-for-Chatbots-Sketch) -  Sketch Chatbot用户界面（仅限Mac）
 * [Botframe](https://botframe.com) - 设计机器人的游乐场（会话模型）.
 * [Botmock](https://botmock.com) - 从简单的拖放编辑器创建对话流和交互式原型，然后共享或测试这些原型并在一个集中位置获得反馈.
+* [BotStar](https://www.botstar.com) - 一个完整的聊天机器人平台，但可视化编辑器也可以用作模型工具.
 
 
 ## Libraries

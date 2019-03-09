@@ -405,7 +405,7 @@
 * [Mark Man](http://getmarkman.com/) - 快速测量和规格.
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具.
 * [Resize Master](http://www.boltnev.com/resizemaster/)   - 批量调整大小并快速轻松地为图像添加水印.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/resize-master/id1025306797）
-* [RightFont](http://rightfontapp.com/) - 在Mac，Dropbox或Google Drive上预览，同步，安装和管理字体.
+* [RightFont](http://rightfontapp.com/) - Preview, sync, install and manage fonts on Mac, Dropbox or Google Drive.
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享您的颜色的最佳方式.
 * [Snagit](https://www.techsmith.com/snagit.html) - 简单，强大的屏幕捕获软件和屏幕录像机.
 * [Spectrum](http://www.eigenlogik.com/spectrum/mac)   - 轻松直观地创建漂亮的配色方案.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/spectrum/id518156125?mt=12）
@@ -421,7 +421,7 @@
 
 #### Collaboration and Team Tools
 
-* [Adium](https://adium.im/)   - 适用于Mac OS X的免费即时消息应用程序.连接到AIM，MSN，SMPP，Yahoo等.  ！[免费软件] [免费软件图标]
+* [Adium](https://adium.im/) - Free instant messaging application for Mac OS X. Connect to AIM, MSN, SMPP, Yahoo and more. ![Freeware][Freeware Icon]
 * [DingTalk](https://www.dingtalk.com/en)   - 全球500多万家企业和组织使用的免费，强大和专业的办公工具.  ！[免费软件] [免费软件图标]
 * [Discord](https://discordapp.com/) - 游戏玩家的一体化语音和文字聊天，免费，安全，可在桌面和手机上使用.
 * [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/)  基于Web的聊天的基于多协议的包装器.  一个应用程序，23个信使服务.  ！[免费软件] [免费软件图标]
@@ -435,7 +435,7 @@
 * [Signal Desktop](https://signal.org/download/)   - 快速，简单，安全.  适合放在口袋里的隐私.  [！[开源软件] [OSS图标]]（https://github.com/signalapp/Signal-Desktop）
 * [Skype](https://www.skype.com/)   - 提供视频聊天和语音呼叫服务的跨平台应用程序.  用户可以交换图像，文本，视频和任何其他数字文档.
 * [Slack](https://slack.com/)   - 团队协作和沟通的绝佳工具.  ！[免费软件] [免费软件图标]
-* [Teambition](https://www.teambition.com) - Team collaboration tool, including many features like task plan, schedule, file sharing, instant discussion and everything you need when collaborating with other team members. ![Freeware][Freeware Icon]
+* [Teambition](https://www.teambition.com)   - 团队协作工具，包括许多功能，如任务计划，计划，文件共享，即时讨论以及与其他团队成员协作时所需的一切.  ！[免费软件] [免费软件图标]
 * [Telegram](https://desktop.telegram.org) - 消息应用程序，专注于速度和安全性.
 * [Textual](https://www.codeux.com/textual)   - 互联网中继聊天（IRC）客户端.  [！[开源软件] [OSS图标]]（https://github.com/Codeux-Software/Textual）
 * [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12)   - 适用于Mac的官方微信应用.  ！[免费软件] [免费软件图标]！[App Store] [app-store Icon]
@@ -457,7 +457,7 @@
 #### File Sharing
 
 * [Cyberduck](https://cyberduck.io)   - 免费FTP，SFTP，WebDAV，S3，Backblaze B2，Azure和OpenStack Swift浏览器.  ！[免费软件] [免费软件图标]
-* [Flow](http://fivedetails.com/flow/) - 屡获殊荣，美观，快速，可靠的FTP + SFTP客户端.
+* [Flow](http://fivedetails.com/flow/) - Award-winning, beautiful, fast, and reliable FTP + SFTP client.
 * [Fu](https://github.com/klesh/fu)   - 将图像/文件上传到远程服务器以换取文件共享的URL.  [！[开源软件] [OSS图标]]（https://github.com/klesh/fu）
 * [Transmit](https://panic.com/transmit/) - 高度灵活和直观的FTP客户端，支持SFTP，S3和iDisk / WebDAV.
 * [Yummy FTP](http://www.yummysoftware.com) - 专业级，快速，可靠的FTP / S + SFTP + WebDAV / S文件传输应用程序.
@@ -586,6 +586,7 @@
 * [Tunnelblick](https://tunnelblick.net/downloads.html) -  OS X上OpenVPN的免费开源图形用户界面.[免费软件] [免费软件图标]
 * [V2rayU](https://github.com/yanue/V2rayU)   - 基于v2ray的Macos客户端.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yanue/V2rayU）
 * [Windscribe](https://windscribe.com)   - 每月免费提供10gb，并提供有限（免费）位置控制.  连接也需要很少的时间.
+* [ClashX](https://github.com/yichengchen/clashX)   - 基于规则的基于Clash的Mac代理.  [！[开源软件] [OSS图标]]（https://github.com/yichengchen/clashX）！[免费软件] [免费软件图标]
 
 ## Utilities
 
@@ -707,7 +708,7 @@
 
 * [CheatSheet](https://www.mediaatelier.com/CheatSheet/)   - 按住⌘-Key以获取当前应用程序的所有活动快捷方式列表.  就这么简单.  ！[免费软件] [免费软件图标]
 * [f.lux](https://justgetflux.com/)   - 使计算机显示屏的颜色适应一天中的时间.  ！[免费软件] [免费软件图标]
-* [KeyCastr](https://github.com/keycastr/keycastr)   - 开源按键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
+* [KeyCastr](https://github.com/keycastr/keycastr) - Open-source keystroke visualizer.  [![Open-Source Software][OSS Icon]](https://github.com/keycastr/keycastr) ![Freeware][Freeware Icon]
 * [NightOwl](https://nightowl.kramser.xyz/)   - 按时间或使用菜单栏或键盘快捷键在macOS Mojave的明暗主题之间自动切换.  ！[免费软件] [免费软件图标]
 * [Shifty](http://shifty.natethompson.io)   - 一个macOS菜单栏应用程序，可让您更好地控制夜班.  [！[开源软件] [OSS图标]]（https://github.com/thompsonate/Shifty）
 * [Snap](http://indragie.com/snap)   - 快速启动应用程序.  轻松快捷的管理方式.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id418073146）

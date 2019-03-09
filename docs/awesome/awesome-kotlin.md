@@ -160,6 +160,8 @@
 * [konrad-kaminski/spring-kotlin-coroutine](https://github.com/konrad-kaminski/spring-kotlin-coroutine) -  Kotlin对Spring的协程支持.
 * [marcoferrer/kroto-plus](https://github.com/marcoferrer/kroto-plus) - 用于将Kotlin，Protobuf，Coroutines和gRPC集合在一起的Protoc插件.
 * [cloudoptlab/cloudopt-next](https://github.com/cloudoptlab/cloudopt-next) - 基于vertx和kotlin的下一代Java Web轻量级框架. 
+* [viartemev/the-white-rabbit](https://github.com/viartemev/the-white-rabbit) -  RabbitMQ的协同客户端. 
+
 
 ### <a name="libraries-frameworks-functional-programming"></a>Functional Programming <sup>[Back ⇈](#libraries-frameworks-functional-programming-subcategory)</sup>
 * [arrow-kt/arrow](https://github.com/arrow-kt/arrow) -  Kotlin标准库的功能伴侣.
@@ -236,10 +238,10 @@
 * [alexmt/atom-kotlin-language](https://github.com/alexmt/atom-kotlin-language) - 在Atom中为Kotlin文件添加语法高亮
 * [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) -  Kotlin的崇高套餐.
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - 用于Vim的Kotlin语法荧光笔.
-* [sargunster/kotlin-textmate-bundle](https://github.com/sargunster/kotlin-textmate-bundle) -  TextMate的Kotlin包.
+* [sargunster/kotlin-textmate-bundle](https://github.com/sargunster/kotlin-textmate-bundle) - Kotlin bundle for TextMate.
 * [ice1000/NppExtension](https://github.com/ice1000/NppExtension) -  Notepad ++的Kotlin语言扩展
 * [ftomassetti/kanvas](https://github.com/ftomassetti/kanvas) - 一个真正可以破解的编辑器：简单，轻巧，易懂.
-* [mathiasfrohlich/vscode-kotlin](https://github.com/mathiasfrohlich/vscode-kotlin) -  VS Code的Kotlin语言支持.
+* [mathiasfrohlich/vscode-kotlin](https://github.com/mathiasfrohlich/vscode-kotlin) - Kotlin language support for VS Code.
 
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
 * [jneen/rouge](https://github.com/jneen/rouge)   - 与pygments兼容的纯红宝石代码荧光笔.  （WIP）
@@ -325,7 +327,7 @@
 * [kotlin-graphics/uno-sdk](https://github.com/kotlin-graphics/uno-sdk) - 非官方的OpenGL SDK
 * [kotlin-graphics/ovr](https://github.com/kotlin-graphics/ovr) -  Oculus绑定
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) -  OpenVR绑定
-* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+* [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - 打开资产导入库端口
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) -  imgui的jvm端口
 * [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - 子弹口
 * [GlimpseFramework/glimpse-framework](https://github.com/GlimpseFramework/glimpse-framework) -  OpenGL变得简单.
@@ -447,14 +449,14 @@
 * [grandstaish/paperparcel](https://github.com/grandstaish/paperparcel) - 专为在Android上使用Kotlin数据类而编写的Boilerplate reduction库.
 * [andre-artus/AnvilKotlin](https://github.com/andre-artus/AnvilKotlin) - 灵感来自React的Android最小UI库.
 * [mathcamp/fiberglass](https://github.com/mathcamp/fiberglass) - 使用委托属性在Kotlin中为Android轻松实现的轻量级SharedPreferences库.
-* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
+* [nitrico/LastAdapter](https://github.com/nitrico/LastAdapter)   - 不要再次编写RecyclerView适配器.  甚至不是ViewHolder！.
 * [denisidoro/krouter](https://github.com/denisidoro/krouter) - 轻量级Android活动路由器.
 * [metalabdesign/AsyncAwait](https://github.com/metalabdesign/AsyncAwait) - 基于Kotlin 1.1中引入的协同程序构建的Android的async / await.
 * [jupf/staticlog](https://github.com/jupf/staticlog) -  StaticLog  -  Kotlin，Java和Android的超轻量级静态日志.
 * [zserge/anvil](https://github.com/zserge/anvil) - 灵感来自React的Android最小UI库.
 * [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - 有趣的有趣的Android步进小工具，用于计算，用Kotlin编写.
 * [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) -  OpenGL变得简单.
-* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - 用于在Kotlin而不是XML中构建drawable的DSL.
+* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 用于创建没有任何XML的Material Design导航抽屉的DSL.
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) -  Android库，提供更简单的方式来实现模块化.
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
@@ -496,7 +498,7 @@
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - 显示今天历史上发生的事情的应用程序.
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 * [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中Java，Groovy，Scala，Kotlin的比较.
-* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android.
+* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - 适用于Android的免费和开源漫画阅读器.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - 一个用Kotlin编写的简单的android Twitter客户端
 * [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 适用于Android 4.0+的Material Design准备和功能丰富的Twitter应用程序
 * [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 包含活动，可自定义小部件和无广告的简单日历.
@@ -636,7 +638,7 @@
 * [Istanbul Kotlin User Group](https://www.meetup.com/Kotlin-%C4%B0stanbul/) - 火鸡
 * [Jalandhar Kotlin User Group](https://nvite.com/JalandharKotlin/13lv7v) - 印度
 * [Japan Kotlin User Group](https://kotlin.connpass.com/) - 日本
-* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - 巴基斯坦
+* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - Pakistan
 * [Kathmandu Kotlin User Group](https://www.facebook.com/groups/100333660782830/) - 尼泊尔
 * [Kolkata Kotlin User Group](https://www.meetup.com/Kotlin-Kolkata-UG/) - 印度
 * [Korean Kotlin User Group](http://kotlin.kr/) - 韩国
@@ -646,7 +648,7 @@
 * [Myanmar Kotlin User Group](https://www.facebook.com/groups/kotlinmyanmarusergroup/about/) - 缅甸
 * [Nepal Kotlin User Group](https://www.facebook.com/groups/dnkotlin/) - 尼泊尔
 * [New Delhi Kotlin User Group](https://www.facebook.com/kotlinNewDelhi/) - 印度
-* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - 巴基斯坦
+* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - Pakistan
 * [Philippines Kotlin](https://www.facebook.com/groups/642901202586581/) - 菲律宾
 * [Pune Kotlin User Group](https://www.facebook.com/groups/punekotlin) - 印度
 * [Saudi Arabia Kotlin User Group](https://www.facebook.com/KotlinArabia) - 沙特阿拉伯
@@ -887,7 +889,7 @@
 * [Where We Stand & What's Next for Kotlin](http://kotlin.link/articles/Where-We-Stand-What-s-Next-for-Kotlin.html) - 安德烈·布雷斯拉夫
 * [What’s in store for Kotlin this year](http://kotlin.link/articles/What’s-in-store-for-Kotlin-this-year.html) - 加布里埃拉·莫托克
 * [Kotlin Eclipse Plugin 0.7 Is Here!](http://kotlin.link/articles/Kotlin-Eclipse-Plugin-0-7-Is-Here.html) - 尼古拉克拉斯科
-* [From Groovy to Kotlin](http://kotlin.link/articles/From-Groovy-to-Kotlin.html) - 德米特里坎达洛夫
+* [From Groovy to Kotlin](http://kotlin.link/articles/From-Groovy-to-Kotlin.html) - 梅德火
 * [When Kotlin met Gradle](http://kotlin.link/articles/When-Kotlin-met-Gradle.html) - 加布里埃拉·莫托克
 * [Kotlin 1.0.3 EAP](http://kotlin.link/articles/Kotlin-1-0-3-EAP.html) - 帕维尔塔拉诺夫
 * [Архитектор Kotlin: «Язык программирования — рабочий инструмент. Если никогда их не менять, можно отстать от жизни»](http://kotlin.link/articles/Архитектор-Kotlin-Язык-программирования-рабочий-инструмент.html) -  yankoits
@@ -1071,7 +1073,7 @@
 ### <a name="videos-december-2016"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
 * [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) -  Haim Yadid
 * [Functional Programming in Kotlin with funKTionale (Video)](http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - 马里奥阿里亚斯
-* [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) - Francisco Estevez
+* [Revisiting Types In Kotlin](http://kotlin.link/articles/Revisiting-Types-In-Kotlin.html) -  Francisco Estevez
 * [Costruiamo un treno in Kotlin](http://kotlin.link/articles/Costruiamo-un-treno-in-Kotlin.html) -  Francesco Vasco
 * [Kotlin: Будущие изменения и текущие мифы](http://kotlin.link/articles/Kotlin-Будущие-изменения-и-текущие-мифы.html) -  Faces中的Android
 
