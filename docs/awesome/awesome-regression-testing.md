@@ -22,7 +22,7 @@
 ## Browser automation
 
 - [Selenium](https://github.com/SeleniumHQ/selenium) - 浏览器自动化框架和生态系统
-- [SlimerJS](https://github.com/laurentj/slimerjs) - 基于Firefox的可编写脚本的浏览器，如PhantomJS.
+- [SlimerJS](https://github.com/laurentj/slimerjs) - 基于Firefox的PhantomJS等可编写脚本的浏览器.
 - [trifleJS](https://github.com/sdesalas/trifleJS) -  Internet Explorer的无头自动化.
 - [CasperJS](https://github.com/casperjs/casperjs) -  PhantomJS和SlimerJS的导航脚本和测试实用程序.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) -  W3C WebDriver协议的Node.js绑定实现.
@@ -70,6 +70,7 @@
 - [FuncUnit](https://github.com/bitovi/funcunit) - 基于jQuery的功能测试套件
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于Node.js和使用Webdriver协议的自动化测试和持续集成框架.
 - [Protractor](https://github.com/angular/protractor) -  Angular应用程序的E2E测试框架.
+- [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - 使用Jest和puppeteer对React组件进行可视化回归测试
 
 ## Online services
 

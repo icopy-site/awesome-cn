@@ -28,8 +28,8 @@ React-based:
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - 一个简单的ReactJS包装器，灵感来自`react-blaze`.
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - 针对PureScript的React绑定
-- [purescript-react-simple](https://github.com/joneshf/purescript-react-simple) - 简化包装反应.
 - [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - 针对React库的一组固定的绑定，针对最基本的用例进行优化.
+- [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks)   - 使用React的“钩子”API定义React组件的另一种方法.  兼容`purescript-react-basic`.
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - 使用PureScript构建类型安全的Web应用程序.
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - 对于PureScript来说就像榆木一样.
 - [purescript-concur](https://github.com/ajnsit/purescript-concur)   -  Concur UI框架.  反应后端，但可以使用其他人.

@@ -619,6 +619,8 @@ Deployment
 * [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [Artistic License 2.0][51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)   - 使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 
+也可以看看 [Heliohost](https://www.heliohost.org/) 免费托管解决方案.
+
 Monitoring
 ----------
 
@@ -1025,7 +1027,7 @@ Contributing
   他们自己的部分.
 - 根据我们的经验和状态做一些策展
    图书馆的文件.  我们*不*目标列出每个现有
-  CL库（参见Quickdocs或Cliki），也不列出每一个
+  CL库（请参阅Quickdocs或Cliki），也不列出每一个
   “流行”图书馆（参见Quicklisp统计数据）.
 - 因此，我们最喜欢的库标有（`1F44D`
    unicode字符）.  另见标志中的解释

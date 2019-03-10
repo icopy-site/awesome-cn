@@ -5,7 +5,7 @@
 
 灵感来自 [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
 
-如果您是一名开源项目维护者，请将“first-timers-only”（或类似）标签添加到您的项目中并在此处列出，以便人们可以找到它.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
 如果您希望贡献，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，并按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上，当创建一个新的“first-timers-only”问题时会收到通知.
 
@@ -50,7 +50,7 @@
 ## Go
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
-- [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
+- [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/starter)  _（标签：首发）_ <br>  Kubernetes包装经理
@@ -118,9 +118,12 @@
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AReactJS)  _（标签：抓起来，难度：介绍，ReactJS）_ <br>  Golang和React中的开源Slack替代方案
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都能够学会在网络上创造性地编码和表达自己.
+- [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Squirrelly是一个轻量级模板引擎，支持帮助程序，过滤器，局部数据等.
+- [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  NativeScript是一个开源框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Web技能，如Angular和Vue.js，FlexBox和CSS，并在iOS和Android上获得原生UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用React构建速度快，现代的应用程序和网站.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  渐进式JavaScript框架.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Check It Out是一个类似ncurses的CLI，让用户以交互方式导航并选择要检出的git分支.
+- [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  来自免费资源的多平台音乐播放器.
 
 ## Julia
 
@@ -136,7 +139,7 @@
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie)  _（标签：新手）_ <br>  用PHP编写的MySQL管理界面.
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：求助）_ <br>  Matomo是领先的Free / Libre开放式分析平台.
-- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
+- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  为GitHub组织增压！
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 
 ## Python
@@ -161,6 +164,7 @@
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，用于从cookiecutters（项目模板）创建项目.  例如Python包项目，jQuery插件项目.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober special）_ <br>  用于后端Web开发的Python实现.
+- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：级别：首发）_ <br>  有史以来最严格，最自以为是的蟒蛇皮！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 
 ## Ruby
@@ -178,7 +182,7 @@
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
+- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架

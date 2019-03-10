@@ -176,6 +176,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Apple Watch](http://www.apple.com/watch/) - 健身和其他健康导向跟踪.
 - [Amiigo](https://amiigo.com/) - 活动和健身房锻炼跟踪器.
 - [Spire](https://spire.io/) - 活动跟踪器，通过测量呼吸来确定压力和焦点水平.
+- [Oura Ring](https://ouraring.com/) - 手指上佩戴的高精度睡眠（和活动）跟踪器，用于测量HR，HRV，温度和运动.
 
 ## Research and Analysis
 

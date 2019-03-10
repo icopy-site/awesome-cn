@@ -187,6 +187,7 @@
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/)   - 基于B树数据结构实现有序内存容器的模板库.  [Apache2的]
 * [Colony](https://github.com/mattreecebentley/plf_colony)   - 无序的“bag”类型容器，在高度修改的情况下优于std容器，同时保持与非擦除元素的永久指针，而不管插入/擦除.  [ZLIB] [website](http://www.plflib.org/colony.htm)
+* [Forest](https://github.com/xorz57/forest)   - 实现AVL，二进制搜索，KD和四叉树的模板库.  [MIT]
 * [Hashmaps](https://github.com/goossaert/hashmap)   - 在C ++中实现开放寻址哈希表算法.  [MIT]
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)   - 一个快速的只有标题的哈希映射，它使用跳房子散列来解决冲突.  [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)   - 局部敏感散列（LSH）的c ++工具箱，提供了几种流行的LSH算法，也支持Python和MATLAB.  [GPL]
@@ -374,7 +375,7 @@
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)   -  STB单头图像加载库.  [公共区域]
 * [tesseract-ocr](https://github.com/tesseract-ocr)   -  OCR引擎.  [Apache2的]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)   - 适用于JPEG的符合ISO标准的C ++ EXIF和XMP解析库.  [MIT]
-* [Video++](https://github.com/matt-42/vpp)   -  C ++ 14高性能视频和图像处理库.  [MIT]
+* [Video++](https://github.com/matt-42/vpp) - A C++14 high performance video and image processing library. [MIT]
 * [VIGRA](https://github.com/ukoethe/vigra)   - 用于图像分析的通用C ++计算机视觉库.  [麻省理工学院X11]
 * [VTK](http://www.vtk.org/)   - 用于3D计算机图形，图像处理和可视化的开源免费软件系统.  [BSD]
 
@@ -797,7 +798,7 @@
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 便携式C / C ++ / C ++ 11 IDE.
 * [Eclipse CDT](http://www.eclipse.org/cdt/) - 基于Eclipse平台的全功能C和C ++ IDE.
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
-* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) - A family of computer integrated development environments from IBM.
+* [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
 * [juCi++](https://github.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
 * [KDevelop](https://www.kdevelop.org/) - 免费的开源IDE.

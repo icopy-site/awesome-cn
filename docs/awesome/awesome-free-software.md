@@ -18,6 +18,7 @@
 ### Audio
 
 - [Audacity](http://www.audacityteam.org/)   - 录音和后期处理.  （[GNU GPLv2+](http://www.audacityteam.org/about/license/))
+- [Ardour](https://ardour.org/)   - 数字音频工作站（DAW）.  （[GNU GPLv2](https://ardour.org/copying.html))
 - [Libre.fm](https://libre.fm/)   - 免费流式传输，下载，重新混音和分享音乐.  （[GNU AGPLv3](https://git.gnu.io/gnu/gnu-fm/blob/master/COPYING))
 - [LMMS](https://lmms.io/)   - 完整的数字音频工作站.  （[GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/)   - 用于在多个设备上同步和流式传输音乐的软件套件.  （[GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
@@ -32,6 +33,8 @@
 
 ### Communication
 
+- [Conversations](https://conversations.im/)   - 适用于Android的XMPP / Jabber客户端.  （[GNU GPLv3](https://github.com/siacs/Conversations/blob/master/LICENSE))
+- [Gajim](https://gajim.org/)   - 桌面的XMPP / Jabber客户端.  （[GNU GPLv3](https://dev.gajim.org/gajim/gajim/blob/master/COPYING))
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/)   - 使用WebRTC保护视频会议和桌面共享.  （[Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 - [Mail-in-a-Box](https://mailinabox.email/)   - 易于部署的云计算机邮件服务器包.  （[CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
 - [Matrix](https://matrix.org/)   - 分散，持久和可互操作通信的开放标准.  （[Apache License 2.0](https://github.com/matrix-org/synapse/blob/master/LICENSE))
@@ -131,7 +134,7 @@
 - [Etherpad](http://etherpad.org/)   - 实时协作文档编辑.  （[Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/)   - 用于构建和运行在线出版物的Hackable平台.  （[MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/)   - 整个代码生命周期的Git存储库管理器.  （[MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
-- [GNU social](https://gnu.io/social/)   - 用PHP编写的微博服务器.  （GNU GPLv3）
+- [GNU social](https://gnu.io/social/)   - 用PHP编写的微博服务器.  （[GNU GPLv3](https://git.gnu.io/gnu/gnu-social/blob/master/COPYING))
 - [Gogs](https://gogs.io/)   - 轻量级，跨平台，自托管的Git服务.  （[MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Inventaire](https://inventaire.io/welcome)   - 与朋友和社区分享书籍.  （[GNU AGPLv3](https://github.com/inventaire/inventaire/blob/master/LICENSE.md))
 - [Lobsters](https://lobste.rs/)   - 使用downvote解释链接聚合和讨论.  （[BSD 3-clause](https://github.com/lobsters/lobsters/blob/master/LICENSE))
@@ -144,13 +147,14 @@
 - [OpenStreetMap](https://www.openstreetmap.org)   - 用户创建并在开放许可下发布的世界地图.  （[GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [PeerTube](https://framagit.org/chocobozzz/PeerTube)   - 分散式视频流服务.  （[GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Phabricator](https://phacility.com/phabricator/)   - 使用PHP构建的代码管理平台（类似于GitLab）.  （[Apache License 2.0](https://github.com/phacility/phabricator/blob/master/LICENSE))
+- [Wallabag](https://wallabag.org/en)   - 保存和分类文章.  稍后阅读.  自如.  （[MIT](https://github.com/wallabag/wallabag/blob/master/COPYING.md))
 - [Weblate](https://weblate.org)   - 具有版本控制集成的翻译管理系统.  （[GNU GPLv3](https://github.com/WeblateOrg/weblate/blob/master/COPYING))
 - [WordPress](https://wordpress.org/)   - 博客发布平台和内容管理系统.  （[GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Servers
 
 - [Apache HTTP Server](https://httpd.apache.org/)   - 安全，高效，可扩展的Web服务器.  （[Apache License 2.0](http://www.apache.org/licenses/))
-- [lighttpd](http://www.lighttpd.net/)   - 针对速度关键环境进行了优化，同时保持符合标准，安全和灵活.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
+- [lighttpd](http://www.lighttpd.net/)   - 针对速度关键环境进行了优化，同时保持标准兼容，安全和灵活.  （[Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/)   -  HTTP和反向代理服务器，邮件代理服务器和通用TCP / UDP代理服务器.  （[2-clause BSD-like license](https://nginx.org/LICENSE))
 
 ## Hardware

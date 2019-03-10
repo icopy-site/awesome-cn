@@ -73,6 +73,7 @@
 * [Cinchoo ETL](https://github.com/Cinchoo/ChoETL) - 用于.NET的ETL框架（用于CSV，Flat，Xml，JSON，键值格式文件的分析器/写入器）.
 * [CQRSlite](https://github.com/gautema/CQRSlite) - Lightweight framework for helping writing CQRS and Eventsourcing applications in C#.
 * [dataaccess_aspnetcore](https://github.com/digipolisantwerp/dataaccess_aspnetcore) -  DataAccess Toolbox包含使用工作单元和存储库模式在ASP.NET Core和Entity Framework Core 1.0中进行数据访问的基类.
+* [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore) - 基于ASP.NET Core构建高质量Web应用程序的轻量级和可扩展基础架构.
 * [DotNetCorePlugins](https://github.com/natemcmaster/DotNetCorePlugins) - .NET Core library for loading assemblies as a plugin.
 * [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)   -  DotnetSpider，一个类似于WebMagic和Scrapy的.NET标准网络爬行库.  它是.NET的轻量级，高效且快速的高级Web爬行和抓取框架.
 * [DotNetty](https://github.com/Azure/DotNetty) -  netty端口，事件驱动的异步网络应用程序框架.
@@ -110,6 +111,7 @@
 * [ASP.NET-MVC-Template](https://github.com/NikolayIT/ASP.NET-MVC-Template) -  ASP.NET MVC 5和ASP.NET Core的即用型模板，修复了存储库，服务，模型映射以及DI和StyleCop警告.
 * [AddFeatureFolders](https://github.com/OdeToCode/AddFeatureFolders) - Enable feature folders for MVC controllers and views in ASP.NET Core.
 * [Angular Visual Studio Webpack Starter](https://github.com/damienbod/AngularWebpackVisualStudio)   -  Webpack，Visual Studio，ASP.NET Core和Angular的模板.  应用程序的客户端和服务器端都在一个ASP.NET Core项目中实现，这使得部署更容易.
+* [DNTFrameworkCoreTemplate](https://github.com/rabbal/DNTFrameworkCoreTemplate) - 基于的Boilerplate项目模板 [DNTFrameworkCore](https://github.com/rabbal/DNTFrameworkCore)
 * [dotnet new caju](https://github.com/ivanpaulovich/dotnet-new-caju) - dotnet new templates with awesome architecture styles! Increases productivity to design layered applications based on Hexagonal, Clean or Event Sourcing architectures styles. It supports multiple data access frameworks (MongoDB, EntityFramework, Dapper or Kafka) and it is completely testable.
 * [JavaScriptServices](https://github.com/aspnet/JavaScriptServices) -  Microsoft ASP.NET核心JavaScript服务.
 * [kendo-ui-core](https://github.com/telerik/kendo-ui-core) - 用于构建现代Web应用程序的基于jQuery的HTML5小部件库. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
@@ -237,7 +239,7 @@
 * [BCrypt.NET-Core](https://github.com/neoKushan/BCrypt.Net-Core) -  BCrypt.NET的.NET Core端口用于安全地存储密码.
 * [BouncyCastle PCL](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 * [multiformats](https://github.com/multiformats/cs-multihash) - 通用散列库，但是用于编码/解码Multihashes的库，它是一个“容器”，用于描述计算摘要的散列算法.
-* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core新加密库.
+* [nsec](https://github.com/ektrah/nsec) -  NSec是基于libsodium的.NET Core的新加密库.
 
 ### Database
 * [DBreeze](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
