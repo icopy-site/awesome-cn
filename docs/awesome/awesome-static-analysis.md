@@ -594,6 +594,7 @@
 * [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码
 * [languagetool](https://github.com/languagetool-org/languagetool)   -  25种语言的风格和语法检查.  它发现了一个简单的拼写检查程序无法检测到的许多错误.
 * [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复常见拼写错误的快速工具，源代码中的拼写错误
+* [Misspelled Words In Context](https://github.com/jwilk/mwic) - 一种拼写检查器，可以对可能的拼写错误进行分组并在其上下文中显示它们
 * [proselint](https://github.com/amperser/proselint/) - 英语散文的点缀，专注于写作风格而不是语法.
 * [vale](https://github.com/ValeLint/vale) - 一个可定制的，语法感知的散文linter.
 * [write-good](https://github.com/btford/write-good) - 一个专注于消除“狡猾的话”的短信.

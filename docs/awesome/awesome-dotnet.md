@@ -675,6 +675,7 @@
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) -  Insight.Database是一个快速，轻量级的.NET微型ORM
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 数据访问框架，重点关注查询组合，粒度和代码美学.
 * [SmartSql](https://github.com/Smart-Kit/SmartSql)   -  SmartSql = MyBatis + Cache（Memory |  Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
+* [RepoDb](https://github.com/mikependon/RepoDb) - 动态，轻量级，非常快速的ORM .NET库.
 
 ## Package Management
 

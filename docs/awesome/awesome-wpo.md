@@ -29,19 +29,18 @@
 ## Books
 > Best books about WPO
 
-* [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - 巴里波拉德 - 提前释放
+* [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - 巴里波拉德
 * [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) -  Jeremy L. Wagner
 * [Book of Speed](http://www.bookofspeed.com/) - 斯托扬·斯特凡诺夫
 * [Designing for Performance: Weighing Aesthetics and Speed](http://designingforperformance.com/) -  Lara Callender Hogan
 * [Even Faster Web Sites: Performance Best Practices for Web Developers](http://shop.oreilly.com/product/9780596522315.do) - 史蒂夫索德斯
-* [Getting Started with Web Performance](http://shop.oreilly.com/product/0636920032427.do) - 丹尼尔奥斯汀 - 早期发布
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) -  Ilya Grigorik
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) -  Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - 史蒂夫索德斯
 * [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) - 汤姆巴克
 * [Lean Websites](https://www.sitepoint.com/premium/books/lean-websites) - 芭芭拉·贝尔姆斯
 * [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) -  Tammy Everts
-* [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) -  Rick Viscomi，Andy Davies，Marcel Duran  - 早期发布
+* [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) -  Rick Viscomi，Andy Davies，Marcel Duran
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - 泰伦斯·多尔西
 * [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - 斯托扬·斯特凡诺夫
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) -  Patrick Killelea

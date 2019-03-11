@@ -24,8 +24,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="https://cloud.githubusercontent.com/assets/182906/19517857/604f88d8-960c-11e6-97d6-16c9738cb824.png" width="150" />](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)  |  通过8个步骤成为数据科学家的视觉指南 [DataCamp](https://www.datacamp.com) [(img)](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/DataScienceEightSteps_Full.png)
 [<img src="http://i.imgur.com/W2t2Roz.png" width="150" />](http://i.imgur.com/FxsL3b8.png)  |  关于所需技能的思维导图（[img](http://i.imgur.com/FxsL3b8.png))
 [<img src="http://i.imgur.com/rb9ruaa.png" width="150" />](http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1.png)  |  斯瓦米·钱德拉塞卡兰做了一个 [Curriculum via Metro map](http://nirvacana.com/thoughts/becoming-a-data-scientist/).
-[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png)  |  通过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840), [MarketingDistillery.com](http://www.marketingdistillery.com/2014/11/29/is-data-science-a-buzzword-modern-data-scientist-defined/)
-[<img src="http://i.imgur.com/bM7g2co.png" width="150" />](http://i.imgur.com/4e705Q4.png)  |  还有一个男性版本，来自另一篇文章 [MarketingDistillery.com](http://www.marketingdistillery.com/2014/08/30/data-science-skill-set-explained/)
+[<img src="http://i.imgur.com/XBgKF2l.png" width="150" />](http://i.imgur.com/4ZBBvb0.png)  |  通过 [@kzawadz](https://twitter.com/kzawadz) 通过 [twitter](https://twitter.com/MktngDistillery/status/538671811991715840)
 [<img src="http://i.imgur.com/l9ZGtal.jpg" width="150" />](http://i.imgur.com/xLY3XZn.jpg)  |  通过 [Data Science Central](http://www.datasciencecentral.com/)
 [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg)  |  从 [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) 伯克利科学评论.
 [<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png)  |  数据科学大战：R与Python
@@ -261,7 +260,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - 免费电子书采样器
 - [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) 早期访问
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
 
 
 ## Facebook Accounts
@@ -308,7 +307,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [deeplearning4j](https://twitter.com/deeplearning4j) -
 - [DJ Patil](https://twitter.com/dpatil) - 白宫数据主管，VP @ RelateIQ.
 - [Domino Data Lab](https://twitter.com/DominoDataLab)
-- [Drew Conway](https://twitter.com/drewconway) - Data nerd, hacker, student of conflict.
+- [Drew Conway](https://twitter.com/drewconway) - 数据书呆子，黑客，冲突学生.
 - [Emilio Ferrara](https://twitter.com/jabawack) - #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv
 - [Erin Bartolo](https://twitter.com/erinbartolo) - Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr.
 - [Greg Reda](https://twitter.com/gjreda) 关于数据和熊猫工作@ _GrubHub_
@@ -319,7 +318,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [John Myles White](https://twitter.com/johnmyleswhite)  Facebook和Julia开发人员的科学家.  用于网站优化的黑客机器学习和强盗算法的作者.  推文仅反映我的观点.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - 首席数据科学家@微软数据科学团队
 - [Julia Evans](https://twitter.com/b0rk) - 黑客 - 熊猫 - 数据分析
-- [Kenneth Cukier](https://twitter.com/kncukier) -  The Economist's Data Editor and co-author of Big Data (http://big-data-book.com ).
+- [Kenneth Cukier](https://twitter.com/kncukier) - 经济学人的数据编辑和大数据的合着者（http://big-data-book.com）.
 - [Kevin Davenport](https://twitter.com/KevinLDavenport) -  https://meetup.com/San-Diego-R-Users-Group/的组织者
 - [Kevin Markham](https://twitter.com/justmarkham) - 数据科学讲师，以及创始人 [Data School](http://www.dataschool.io/)
 - [Kim Rees](https://twitter.com/krees)   - 交互式数据可视化和工具.  数据flaneur.
@@ -369,6 +368,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Google DeepMind co-founder Shane Legg - Machine Super Intelligence](https://www.youtube.com/watch?v=evNCyRL3DOU)
  - [Data Science Primer](https://www.youtube.com/watch?v=cHzvYxBN9Ls&list=PLPqVjP3T4RIRsjaW07zoGzH-Z4dBACpxY)
 
+## Telegram Channels
+
+- [Open Data Science](https://t.me/opendatascience)   - 第一个电报数据科学频道.  涵盖所有技术和受欢迎的员工，涉及与数据科学相关的任何事项：人工智能，大数据，机器学习，统计学，通用数学和前者的应用.
+- [Loss function porn](https://t.me/loss_function_porn) -  DS / ML主题的精美帖子，带有视频或图形视觉效果.
+- [Machinelearning](https://t.me/ai_machinelearning_big_data) - 每日ML新闻.
+
 ## Toolboxes - Environment
 
  * [neptune.ml](https://neptune.ml)   - &gt;社区友好平台，支持数据科学家创建和共享机器学习模型.  海王星促进团队合作，基础设施管理，模型比较和再现性.
@@ -382,7 +387,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Scikit-Learn](http://scikit-learn.org/stable/) Python中的机器学习
  * [NumPy](http://www.numpy.org/)  NumPy是使用Python进行科学计算的基础.  它支持大型，多维数组和矩阵，并包含各种高级数学函数来操作这些数组.
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组配合使用，为数值积分和优化提供了有效的例程.
- * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -  Coursera课程
+ * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 获取数字，文本，图像，GIS或其他数据，并为其提供Wolfram处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告 - 所有这些都由基于知识的革命性Wolfram语言提供支持.
  * [Sense Data Science Development Platform](https://sense.io/) 一个新的数据科学和大数据分析云平台
@@ -390,7 +395,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Datadog](https://www.datadoghq.com/) 用于高规模数据科学的解决方案，代码和开发人员.
  * [Variance](http://variancecharts.com/) 无需编写JavaScript即可为Web构建强大的数据可视化
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) 风筝软件开发工具包（Apache许可证，版本2.0）或简称风筝，是一组库，工具，示例和文档，专注于使在Hadoop生态系统之上构建系统变得更加容易.
- * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型 - 无需任何基础架构或设置.
+ * [Domino Data Labs](http://www.dominodatalab.com) Run, scale, share, and deploy your models — without any infrastructure or setup.
  * [Apache Flink](http://flink.apache.org/) 用于高效，分布式，通用数据处理的平台.
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，允许您在MapReduce之外进行高级分析.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
@@ -443,7 +448,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [jqplot](http://www.jqplot.com/)
  * [Matplotlib](http://matplotlib.org/)
  * [nvd3](http://nvd3.org/)
- * [Opendata-tools](http://opendata-tools.org/en/visualization/) - list of open source data visualization tools
+ * [Opendata-tools](http://opendata-tools.org/en/visualization/) - 开源数据可视化工具列表
  * [Openrefine](http://openrefine.org/)
  * [plot.ly](https://plot.ly/)
  * [raw](http://rawgraphs.io)
@@ -502,6 +507,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Tutorials
 
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
+* [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 
 ## Other Awesome Lists
 

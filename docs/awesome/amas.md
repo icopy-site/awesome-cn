@@ -46,7 +46,7 @@
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) -  CSS妖精，Sass黑客，边缘精神.
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama)   -  Bitbucket的JavaScript.  做互联网的事情.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - 芬兰的CS＆SE大学学生.
-- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的神经质.
+- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的书呆子.
 - [Kyle Robinson Young](https://github.com/shama/ama) - 做东西，喜欢熊.
 - [Trent Oswald](https://github.com/therebelrobot/ama) - 网络事物的制造商 [@Mashape](http://mashape.com) 和 [nodejs/website](https://github.com/nodejs/iojs.org).
 - [Una Kravets](https://github.com/una/ama) - 前端开发人员，Sass事物，开发社区和开源设计.
@@ -121,7 +121,7 @@
 - [Francis Sunday](https://github.com/codehakase/ama) - 位于尼日利亚Port Harcourt的软件开发人员.
 - [Travis Northcutt](https://github.com/tnorthcutt/ama) - 丈夫，爸爸，游牧民族，PHP开发人员.
 - [Olavi Haapala](https://github.com/olpeh/ama) - 来自芬兰的网络和移动开发人员.
-- [Manu Sunny](https://github.com/manupsunny/ama)   - 印度人  ThoughtWorker的.  后端Java开发人员.  Android爱好者.
+- [Manu Sunny](https://github.com/manupsunny/ama) - 后端.NET / Java开发人员.
 - [Ken Wheeler](https://github.com/kenwheeler/ama)   - 专业美国人.  男孩子.
 - [Helen V. Holmes](https://github.com/helenvholmes/ama) - 自由设计师和UI工程师.
 - [Rachel Andrew](https://github.com/rachelandrew/cssgrid-ama)   -  CSS Grid问我什么.  Rachel Andrew是英国网络开发人员，作家，公共演讲人和Perch CMS的联合创始人.

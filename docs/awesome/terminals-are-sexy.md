@@ -123,7 +123,6 @@
 * [basher](https://github.com/basherpm/basher) -  shell脚本的包管理器.
 * [bpkg](https://www.bpkg.sh/) -  JavaScript有npm，Ruby有Gems，Python有pip，现在Shell有bpkg.
 * [composer](https://getcomposer.org) -  Composer是PHP的包管理器.
-* [duo](https://github.com/duojs/duo) - 前端的下一代软件包管理器.
 * [guix](https://www.gnu.org/software/guix/) - 已安装软件包和版本的功能包管理器.
 * [nix](https://nixos.org/nix/) - 强大的Linux和其他Unix系统软件包管理器，使包管理可靠，可重复.
 * [npmjs](https://www.npmjs.com/) -  JavaScript的包管理器.
@@ -141,6 +140,10 @@
 
 * [linuxbrew](https://linuxbrew.sh/) -  Linux的Homebrew包管理器.
 * [pkgin](http://pkgin.net/) - 旨在成为管理pkgsrc二进制包的apt / yum工具.
+
+### ChromeOS
+
+* [chromebrew](https://github.com/skycocker/chromebrew) -  Chrome操作系统的软件包管理器.
 
 ### Windows
 

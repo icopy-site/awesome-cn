@@ -139,20 +139,20 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 &gt;关于网络分析的重复会议.
 
 -   [ASONAM - IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining](http://asonam.cpsc.ucalgary.ca/).
-  -   [SNAA - Workshop on Social Network Analysis in Applications](http://snaa.pwr.edu.pl/).
+    -   [SNAA - Workshop on Social Network Analysis in Applications](http://snaa.pwr.edu.pl/).
 -   [CNDay - Cambridge Networks Day](http://www.cnn.group.cam.ac.uk/cambridge-networks-day) - 由剑桥网络网络召集.
 -   [CompleNet - International Workshop on Complex Networks](http://complenet.org/).
 -   [EUSN - European Conference on Social Networks](http://eusn.org/).
 -   [GD - International Symposium on Graph Drawing and Network Visualization](http://www.graphdrawing.org/symposia.html).
 -   [PolNet - Annual Political Networks Workshops and Conference](http://conference.polinetworks.org/) - 由APSA政治网络组织部门（PolNet）组织.
-  -   [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
+    -   [Videos from the Political Networks 2009 Conference](https://vimeo.com/user2690333).
 -   [NetSci - International School and Conference on Social Networks](http://www.netscisociety.net/) - 由网络科学协会（NetSci）组织.
 -   [Sunbelt - Social Networks Conference of the International Network for Social Network Analysis](http://www.insna.org/archives.html) - 由国际社会网络分析网络（INSNA）组织.
 
 ## Courses
 
 -   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/)，作者：Peter Sheridan Dodds（2016年佛蒙特大学; Twitter： [@networksvox](https://twitter.com/networksvox)).
-  -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
+    -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)，Paul Van Dooren  - 完整的演讲幻灯片（Hamilton Institute，Dublin，2009）.
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf)，作者：Christopher Griffin  - 完整的讲义（宾夕法尼亚州立大学，2012年）.
 -   [Network Analysis and Modeling (Computer Science)](http://tuvalu.santafe.edu/~aaronc/courses/5352/)，作者：Aaron Clauset  - 完整的讲座幻灯片和阅读材料（科罗拉多大学，2014年）.
@@ -273,10 +273,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/)， 在德国.
 -   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) - 法国研究小组，资金支持社会科学家网络分析培训和研讨会.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - 对历史研究网络分析感兴趣的学者平台.
-  -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
-  -   [HNR Talks](https://vimeo.com/user11811027) - 视频，德语.
+    -   [HNR Conferences, Workshops and Other Events](http://historicalnetworkresearch.org/hnr-events/).
+    -   [HNR Talks](https://vimeo.com/user11811027) - 视频，德语.
 -   [ANR-Lab - International Laboratory for Applied Network Research](https://anr.hse.ru/en/) - 俄罗斯小组驻扎在莫斯科国立研究大学.
-  -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
+    -   [Theory and Methods in Network Analysis (“TMSA”) Summer Schools](https://anr.hse.ru/en/summer).
 -   [Large Graphs and Networks](http://sites.uclouvain.be/networks/) - 鲁汶天主教大学研究小组（[official page](https://uclouvain.be/en/research-institutes/icteam/large-graphs-and-networks.html)).
 -   [MelNet Social Network Research Group, Swinburne University of Technology](http://www.swinburne.edu.au/fbl/research/transformative-innovation/our-research/MelNet-social-network-group/).
 -   [Mitchell Centre for Social Network Analysis, University of Manchester](http://www.socialsciences.manchester.ac.uk/mitchell-centre/) - 目前的研究 [covert networks](http://www.socialsciences.manchester.ac.uk/mitchell-centre/research/covert-networks/).
@@ -286,10 +286,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Network Dynamics](http://networkdynamics.org/) - 由麦吉尔大学研究实验室领导 [Derek Ruths](http://www.derekruths.com/)
 -   [Netzwerkerei](http://netzwerkerei.org/) - 关于犹太知识分子之间联系的历史研究项目.
 -   [ORIO - Observatoire des Réseaux Intra- et Inter-Organisationnels](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/) - 关于网络和监管的研究计划.
-  -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - 研讨会在法国巴黎的Sciences Po举行.
+    -   [‘Réseaux et Régulation’ Conference Cycle](http://blogs.sciences-po.fr/recherche-network-organization-institution-dynamics-multilevel/sminaire-rseaux-et-rgulation/) - 研讨会在法国巴黎的Sciences Po举行.
 -   [Redes-Sociales](http://www.redes-sociales.net/)，西班牙语 - 位于巴塞罗那自治大学的信息网络.
 -   [RES-HIST : Réseaux et histoire](https://reshist.hypotheses.org/)，法语 - 来自历史网络研究小组的博客文章.
-  -   [RES-HIST Conferences](https://reshist.hypotheses.org/?s=res-hist).
+    -   [RES-HIST Conferences](https://reshist.hypotheses.org/?s=res-hist).
 -   [SocioPatterns](http://www.sociopatterns.org/) - 使用无线传感器研究社交网络数据的跨学科研究小组.
 -   [SoNAR-C - Social Network Analysis Research Center, University of Italian Switzerland (USi)](http://www.sonarcenter.eco.usi.ch/).
 -   [Topographies of Entanglements. Mapping Medieval Networks](https://oeaw.academia.edu/TopographiesofEntanglements) - 位于奥地利科学院的研究平台，专注于将网络理论和可视化应用于中世纪历史.
@@ -426,17 +426,17 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [CFinder](http://www.cfinder.org/) - 跨平台Java程序，通过Clique Percolation Method（CPM）识别集群和社区.
 -   [Circos](http://circos.ca/) - 用Perl编写的跨平台程序，用于生成网络数据的循环布局.
 -   [Cytoscape](http://www.cytoscape.org/)   - 用于构建，分析和可视化网络的跨平台Java程序.  也是一个JavaScript库.
-  -   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - 通过考古和地理案例研究（2013年）进行说明.
+    -   [Network Analysis with Cytoscape Tutorial](https://archaeologicalnetworks.wordpress.com/resources/#cytoscape) - 通过考古和地理案例研究（2013年）进行说明.
 -   [Discourse Network Analyzer (DNA)](http://www.philipleifeld.com/discourse-network-analyzer/discourse-network-analyzer-dna.html) - 具有网络导出功能的定性内容分析工具，用Java编写，带有R集成.
 -   [E-Net](https://sites.google.com/site/enetsoftware1/) - 用于自我网络分析的Windows程序.
 -   [EgoNet](https://sourceforge.net/projects/egonet/) - 用于自我网络分析的跨平台Java程序.
 -   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - 用于社交网络数据收集和处理的服务器端软件.
 -   [easyN](http://www.esyn.org/) - 旨在表示和共享基因交互网络以及Petri网模型的在线工具.
 -   [Gephi](https://gephi.github.io/) - 用于网络可视化的跨平台，免费和开源工具.
-  -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
-  -   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo)，德语（2016年）.
-  -   [Introduction to Network Analysis and Visualization with Gephi](http://www.martingrandjean.ch/gephi-introduction/) (2015).
-  -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
+    -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
+    -   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo)，德语（2016年）.
+    -   [Introduction to Network Analysis and Visualization with Gephi](http://www.martingrandjean.ch/gephi-introduction/) (2015).
+    -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - 用于预测人类流行病的跨平台工具.
 -   [Graph Commons](https://graphcommons.com/) - 用于绘制，分析和发布数据网络的协作平台.
 -   [Graphviz](http://www.graphviz.org/) - 跨平台软件，以DOT图形绘制语言绘制图形.
@@ -445,7 +445,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Linkage](https://linkage.fr/) - 使用文本边缘可视化和建模网络的在线工具.
 -   [Lynks](https://lynksoft.com/) - 基于Web的工具，用于简单的网络分析和可视化.
 -   [Mathematica](https://www.wolfram.com/mathematica/) - 具有图论和网络分析功能的跨平台程序.
-  -   [IGraph/M](https://github.com/szhorvat/IGraphM) - 使用标准Mathematica“Graph”对象在Mathematica中使用`igraph`库的接口.
+    -   [IGraph/M](https://github.com/szhorvat/IGraphM) - 使用标准Mathematica“Graph”对象在Mathematica中使用`igraph`库的接口.
 -   [Metamaps](https://metamaps.cc/) - 绘制网络的免费开源平台，目前处于测试阶段.
 -   [MuxViz](http://muxviz.net/) - 基于R和GNU Octave的跨平台，免费和开源工具，用于研究多层网络.
 -   [Neo4j](http://neo4j.com/) - 开源，可扩展的图形数据库，供公司使用 [Linkurious](http://linkurio.us/).
@@ -453,12 +453,12 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Node Overlap and Segregation Software](http://nos.alwaysdata.net/) - 基于Web的计算工具 [Strona and Veech](https://doi.org/10.1111/2041-210X.12395)节点重叠和隔离措施.
 -   [Nodegoat](http://nodegoat.net/) - 基于Web的数据管理，网络分析和可视化环境（[blog](http://nodegoat.net/blog)).
 -   [NodeXL](http://nodexl.codeplex.com/) - 使用Microsoft Excel探索网络图的免费开源模板.
-  -   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - 使用NodeXL（2013）的一系列博客文章.
+    -   [The NodeXL Series](https://blogs.k-state.edu/it-news/tag/nodexl/) - 使用NodeXL（2013）的一系列博客文章.
 -   [ORA-LITE](http://www.casos.cs.cmu.edu/projects/ora/) - 用于动态元网络评估和分析的Windows程序.
 -   [OSoMe](http://osome.iuni.iu.edu/) - 基于Web的平台，用于分析社交媒体数据，包括通过基于Twitter和共现网络.
 -   [Pajek](http://mrvar.fdv.uni-lj.si/pajek/) - 用于大型网络分析的Windows程序，可免费用于非商业用途.
-  -   [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/)，法文（2011年）.
-  -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544)，法文（2012年）.
+    -   [Analyse des réseaux : une introduction à Pajek](http://quanti.hypotheses.org/512/)，法文（2011年）.
+    -   [La détection de communautés avec Pajek 3.6](http://groupefmr.hypotheses.org/544)，法文（2012年）.
 -   [Palladio](http://palladio.designhumanities.org/) - 基于Web的空间网络可视化工具 [Humanities + Design research lab at Stanford University](http://hdlab.stanford.edu/projects/palladio/).
 -   [PARTNER - Program to Analyze, Record, and Track Networks to Enhance Relationships](http://partnertool.net/) - 基于Excel的工具，用于从调查中构建网络.
 -   [PIGALE - Public Implementation of a Graph Algorithm Library and Editor](http://pigale.sourceforge.net/) - 用于分析平面图的Windows程序和C ++库.
@@ -477,14 +477,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Tulip](http://tulip.labri.fr/)   - 基于C ++库构建的跨平台网络分析和可视化框架，其中插件专用于特定的生物和物理网络.  也可以通过它 [Python package](http://tulip.labri.fr/Documentation/current/tulip-python/html/index.html).
 -   [UCINET](https://sites.google.com/site/ucinetsoftware/) - 用于分析社交网络数据的Windows商业软件包.
 -   [Uberlink](http://www.uberlink.com/) - 用于在线（超链接）网络分析的软件套件 [VOSON](http://vosonlab.net/) 研究项目.
-  -   [VOSON System](http://www.uberlink.com/software#voson) - 用于收集和分析在线网络数据的基于Web的软件.
-  -   [VOSON Data Provider for NodeXL](http://www.uberlink.com/software#voson-nodexl) ([quick tutorial](https://blogs.k-state.edu/it-news/2013/04/09/the-nodexl-series-using-voson-for-hyperlink-network-analysis-part-9/) ;  将于2016年停产）.
-  -   [vosonR](http://vosonlab.net/tools) -  VOSON软件的R客户端（开发中）.
+    -   [VOSON System](http://www.uberlink.com/software#voson) - 用于收集和分析在线网络数据的基于Web的软件.
+    -   [VOSON Data Provider for NodeXL](http://www.uberlink.com/software#voson-nodexl) ([quick tutorial](https://blogs.k-state.edu/it-news/2013/04/09/the-nodexl-series-using-voson-for-hyperlink-network-analysis-part-9/) ;  将于2016年停产）.
+    -   [vosonR](http://vosonlab.net/tools) -  VOSON软件的R客户端（开发中）.
 -   [UNISoN](http://unison.sleonard.co.uk/) - 跨平台程序，用于下载和可视化Usenet数据. [Developed for a Masters degree](https://github.com/leonarduk/unison/wiki/MSc-Report-Abstract).
 -   [VennMaker: An Actor-Centered Interactive Network Mapping Tool](http://www.vennmaker.com/?lang=en) - 用于自我网络分析的跨平台Java程序.
-  -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) （也有西班牙语版本; 2011年）.
+    -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) （也有西班牙语版本; 2011年）.
 -   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
-  -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - 通过考古案例研究（2015年）进行说明.
+    -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - 通过考古案例研究（2015年）进行说明.
 -   [Vizster](http://vis.stanford.edu/jheer/projects/vizster/) - 跨平台Java程序，可视化在线社交网络.
 -   [VOSviewer](http://www.vosviewer.com/) - 用于构建和可视化文献计量网络的跨平台Java工具.
 
@@ -528,8 +528,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 -   [Cytoscape.js](http://js.cytoscape.org/) - 网络分析和可视化库.
 -   [d3.js](https://d3js.org/) - 可以绘制的JavaScript可视化库 [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
-  -   [d3-force: Force-directed graph layout](https://github.com/d3/d3-force) 使用速度Verlet集成.
-  -   [d3-vector: Define connections between nodes as directional vectors](https://github.com/thepeoplesbourgeois/d3-vector)，由角度和大小组成.
+    -   [d3-force: Force-directed graph layout](https://github.com/d3/d3-force) 使用速度Verlet集成.
+    -   [d3-vector: Define connections between nodes as directional vectors](https://github.com/thepeoplesbourgeois/d3-vector)，由角度和大小组成.
 -   [GENSI](http://www.tobiasstark.nl/GENSI/GENSI.htm) - 用于收集以自我为中心的网络数据的JavaScript图形工具（[paper](http://www.sciencedirect.com/science/article/pii/S0378873316300284)).
 -   [GoJS](http://gojs.net/) - 可视化库，用于绘制图表和几种类型的网络布局.
 -   [Graphology](https://graphology.github.io/) - 强大的多用途JavaScript`Thaphia`对象的规范和参考实现.
@@ -544,23 +544,23 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 ### Julia
 
 -   [BayesNets.jl](https://github.com/sisl/BayesNets.jl) - 与贝叶斯网络协同工作的包.
-  -   [Smile.jl](https://github.com/sisl/Smile.jl) - 朱莉娅包装纸 [Smile C++ library](http://www.bayesfusion.com/smile-engine)，它涵盖贝叶斯网络和影响图表.
+    -   [Smile.jl](https://github.com/sisl/Smile.jl) - 朱莉娅包装纸 [Smile C++ library](http://www.bayesfusion.com/smile-engine)，它涵盖贝叶斯网络和影响图表.
 -   [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - 用于计算生态网络结构测量的包.
 -   [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - 用于创建，操纵和研究与时间相关的网络的包.
-  -   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
+    -   [Dynamic Network Analysis in Julia](http://eprints.ma.man.ac.uk/2376/01/julia_eg_report.pdf).
 -   [Graphs.jl](https://github.com/JuliaLang/Graphs.jl) - 用于在Julia中操作图形对象的包.
-  -   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
+    -   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
 -   [JuliaGraphs](https://github.com/JuliaGraphs) - 用于网络分析的Julia套餐套餐.
-  -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - 建立在图形之上的图形可视化 [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl).
-  -   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - 图形库，重点关注性能和简单性.
-  -   [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) -  LightGraphs.jl包的社区检测和其他功能.
-  -   [NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) - 图形和树木的布局算法.
-  -   [Networks.jl](https://github.com/JuliaGraphs/Networks.jl) -  LightGraphs.jl包的附加图形函数.
-  -   [GraphCentrality.jl](https://github.com/JuliaGraphs/GraphCentrality.jl) - 向Graphs.jl包添加网络度量.
+    -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - 建立在图形之上的图形可视化 [GLVisualize.jl](https://github.com/JuliaGL/GLVisualize.jl).
+    -   [LightGraphs.jl](https://github.com/JuliaGraphs/LightGraphs.jl) - 图形库，重点关注性能和简单性.
+    -   [LightGraphsExtras.jl](https://github.com/JuliaGraphs/LightGraphsExtras.jl) -  LightGraphs.jl包的社区检测和其他功能.
+    -   [NetworkLayout.jl](https://github.com/JuliaGraphs/NetworkLayout.jl) - 图形和树木的布局算法.
+    -   [Networks.jl](https://github.com/JuliaGraphs/Networks.jl) -  LightGraphs.jl包的附加图形函数.
+    -   [GraphCentrality.jl](https://github.com/JuliaGraphs/GraphCentrality.jl) - 向Graphs.jl包添加网络度量.
 -   [MatrixNetworks.jl](https://github.com/nassarhuda/MatrixNetworks.jl) - 处理图形/矩阵/网络结构的方法.
 -   [NetworkFlows.jl](https://github.com/Azzaare/NetworkFlows.jl) - 网络流程算法包.
 -   [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) - 使用LightGraphs.jl可视化生成的图形的包 [ThreeJS.jl](https://github.com/rohitvarkey/ThreeJS.jl).
-  -   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) 作者：JuliaCon 2016.
+    -   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) 作者：JuliaCon 2016.
 -   [PhyloNetworks.jl](https://github.com/crsl4/PhyloNetworks.jl) - 用于操纵，分析和可视化系统发育网络的包.
 -   [TikzGraphs](https://github.com/sisl/TikzGraphs.jl) - 使用TikZ图形语言创建图形布局的包.
 
@@ -586,8 +586,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [linkpred](https://github.com/rafguns/linkpred) - 评估网络未来快照中潜在链接的可能性.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - 用于将文献计量学数据转换为作者和引文网络的Python包.
 -   [networkx](http://networkx.github.io/) - 用于创建，操作和研究复杂网络的结构，动态和功能的Python包.
-  -   [Implementing an ERGM from Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/)，使用networkx和numpy（2014）.
-  -   [nxviz](https://github.com/ericmjl/nxviz/) -  NetworkX的可视化包.
+    -   [Implementing an ERGM from Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/)，使用networkx和numpy（2014）.
+    -   [nxviz](https://github.com/ericmjl/nxviz/) -  NetworkX的可视化包.
 -   [npartite](https://github.com/ike002jp/npartite) - 用于在n-partite网络中进行社区检测的Python算法.
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - 用于提取，转换和直观探索大图的Python库.
 -   [python-igraph](http://igraph.org/python/) -  igraph网络分析包的Python版本.
@@ -612,7 +612,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - 实现扩展 [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - 连接R，RStudio和JavaScript库以绘制图表（[blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [ergm](https://CRAN.R-project.org/package=ergm) - 指数随机图模型的估计（ERGM）.
-  -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
+    -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - 广义指数随机图模型（GERGM）收敛性的估计和诊断.
 -   [geomnet](https://CRAN.R-project.org/package=geomnet) - 使用ggplot2进行网络可视化的单几何方法.
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - 使用ggplot2绘制网络对象的多重几何方法.
@@ -620,7 +620,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [hergm](https://CRAN.R-project.org/package=hergm) - 估计和模拟具有局部依赖性的分层指数族随机图模型（HERGM）.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) - 确定社交网络随时间发展形成社会等级的路径和状态.
 -   [igraph](http://igraph.org/r/) - 网络分析工具的集合.
-  -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
+    -   [Network Analysis and Visualization with R and igraph](http://kateto.net/networks-r-igraph) (2016).
 -   [influenceR](https://CRAN.R-project.org/package=influenceR) - 计算Burt，Borgatti等人的各种节点中心网络措施.
 -   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - 实施多项网络中心措施.
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - 网络对象的潜在位置和群集模型.
@@ -638,9 +638,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [RCy3](https://bioconductor.org/packages/3.3/bioc/html/RCy3.html) -  R和最近版本的Cytoscape之间的接口.
 -   [RCyjs](https://bioconductor.org/packages/release/bioc/html/RCyjs.html) -  R和Cytoscape.js之间的接口.
 -   [qgraph](https://CRAN.R-project.org/package=qgraph)   - 模拟和可视化心理测量网络的工具;  也针对加权图形模型）.
-  -   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).
-  -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
-  -   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
+    -   [Network Model Selection Using qgraph 1.3](http://psychosystems.org/network-model-selection-using-qgraph-1-3-10/) (2014).
+    -   [qgraph Examples](http://sachaepskamp.com/qgraph/examples).
+    -   [qgraph: Network Visualizations of Relationships in Psychometric Data](https://www.jstatsoft.org/article/view/v048i04) (2012).
 -   [relevent](https://CRAN.R-project.org/package=relevent) - 适合关系事件模型（REM）的工具.
 -   [rem](https://CRAN.R-project.org/package=rem) - 估计事件序列中的内生网络效应和拟合关系事件模型（REM），它衡量网络如何随时间形成和演变.
 -   [rgexf](https://CRAN.R-project.org/package=rgexf) - 将网络对象从R导出到GEXF，以便使用Gephi或Sigma等软件进行操作.
@@ -651,13 +651,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [spectralGOF](http://people.bu.edu/jccs/spectralGOF.html) - 计算光谱拟合度（SGOF），衡量网络模型对观察到的网络结构的解释程度.
 -   [spnet](https://CRAN.R-project.org/package=spnet) - 处理空间社交网络的方法.
 -   [statnet](http://statnet.org/) - 许多R网络分析包背后的项目（[mailing-list](https://mailman.u.washington.edu/mailman/listinfo/statnet_help), [wiki](https://statnet.org/trac)).
-  -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
-  -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
-  -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
+    -   [Exponential Random Graph Models (ERGMs) Using statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2015/ergm_tutorial.html) (2015).
+    -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
+    -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
 -   [tergm](https://CRAN.R-project.org/package=tergm) - 拟合，模拟和诊断时间指数族随机图模型（TERGM）的模型.
 -   [tidygraph](https://CRAN.R-project.org/package=tidygraph) - “整洁”的方法来构建图形结构.
-  -   [Introducing tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/)
-  -   [Tidying up your network analysis with tidygraph and ggraph](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
+    -   [Introducing tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/)
+    -   [Tidying up your network analysis with tidygraph and ggraph](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 -   [tnam](https://CRAN.R-project.org/package=tnam) - 适合时间和横截面网络自相关模型（TNAM）的工具.
 -   [tnet](https://CRAN.R-project.org/package=tnet) - 加权，双模和纵向网络的网络措施.
 -   [tsna](https://CRAN.R-project.org/package=tsna) - 用于临时社交网络分析的工具.
@@ -679,11 +679,11 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [JGraphT](http://jgrapht.org/) - 用于图形数据结构和算法的Java图形库（[example algorithms](https://github.com/agouge/Java-Network-Analyzer)).
 -   [JUNG - Java Universal Network/Graph Framework](http://jung.sourceforge.net/) - 表示网络对象的可扩展库.
 -   [PGF/TikZ](http://www.ctan.org/tex-archive/graphics/pgf/) - [Tandem](https://en.wikipedia.org/wiki/PGF/TikZ) 矢量图形语言，可用于绘制图形 [LaTeX](https://latex-project.org/) 排版环境.
-  -   [Awesome LaTeX: TiKZ](https://github.com/egeerardyn/awesome-LaTeX#tikz).
-  -   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
-  -   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
-  -   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
-  -   [TKZ](http://altermundus.com/pages/tkz/index.html) - 基于TikZ的包裹.
+    -   [Awesome LaTeX: TiKZ](https://github.com/egeerardyn/awesome-LaTeX#tikz).
+    -   [How to Draw Graphs in LaTeX?](https://tex.stackexchange.com/questions/57152/how-to-draw-graphs-in-latex)
+    -   [TikZ Graph Examples](http://www.texample.net/tikz/examples/tag/graphs/).
+    -   [TikZ & PGF Manual](http://distrib-coffee.ipsl.jussieu.fr/pub/mirrors/ctan/graphics/pgf/base/doc/pgfmanual.pdf).
+    -   [TKZ](http://altermundus.com/pages/tkz/index.html) - 基于TikZ的包裹.
 -   [TLP - Tulip Software Graph Format](http://tulip.labri.fr/TulipDrupal/?q=tlp-file-format) -  Tulip软件框架使用的图形语法.
 -   [Cypher](http://neo4j.com/docs/stable/cypher-query-lang.html) - 使用的图形查询语言 [Neo4j](http://neo4j.com/).
 
@@ -736,9 +736,9 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Using Metadata to Find Paul Revere](https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/) 和 [The Other Ride of Paul Revere: The Brokerage Role in the Making of the American Revolution](http://www.sscnet.ucla.edu/polisci/faculty/chwe/ps269/han.pdf) - 适用于美国革命者的网络分析.
 -   [Visual Complexity. An Exploration on Mapping Complex Networks](http://www.visualcomplexity.com/vc/) - 大量美丽的网络和树木可视化（[book](http://www.visualcomplexity.com/vc/book/)，也有中文和法文）.
 -   [Visualizing Historical Networks](https://www.fas.harvard.edu/~histecon/visualizing/index.html) - 哈佛大学的历史网络研究项目.
-  -   [Angoulême in 1764](https://www.fas.harvard.edu/~histecon/visualizing/angouleme/index.html).
-  -   [Economists in Cambridge](https://www.fas.harvard.edu/~histecon/visualizing/graphing/economists.html).
-  -   [The Inner Life of Empires: An Eighteenth Century History](https://www.fas.harvard.edu/~histecon/visualizing/graphing/innerlife.html).
+    -   [Angoulême in 1764](https://www.fas.harvard.edu/~histecon/visualizing/angouleme/index.html).
+    -   [Economists in Cambridge](https://www.fas.harvard.edu/~histecon/visualizing/graphing/economists.html).
+    -   [The Inner Life of Empires: An Eighteenth Century History](https://www.fas.harvard.edu/~histecon/visualizing/graphing/innerlife.html).
 
 ### Blog Series
 
@@ -812,8 +812,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Editing a Normal Science Journal in Social Science](https://journals.openedition.org/bms/595) - 其创始编辑对_Social Networks_期刊的反思.
 -   [The Emergence of Network Science](https://www.cornell.edu/video/emergence-of-network-science) - 视频纪录片，以Steven H. Strogatz和其他许多人为特色.
 - 从 [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
-  -   [Taming Complexity](http://barabasi.com/f/182.pdf).
-  -   [The Network Takeover](http://barabasi.com/f/362.pdf).
+    -   [Taming Complexity](http://barabasi.com/f/182.pdf).
+    -   [The Network Takeover](http://barabasi.com/f/362.pdf).
 -   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - “network _science_”如何出现.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 一系列博客帖子早于“网络科学”的出现作为流行语，但触及的问题与目前正在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - 审查2002  -  2003年出版的网络科学书籍.

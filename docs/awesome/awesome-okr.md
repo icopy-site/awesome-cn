@@ -36,6 +36,10 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [The Executioner's Tale](https://vimeo.com/86392023)：Christina Wodtke的刽子手故事
 - [Warm Gun Talk](http://eleganthack.com/my-warm-gun-talk-on-okrs/)：另一篇关于克里斯蒂娜沃德克的OKR的演讲
 
+## Books
+
+- [Measure What Matters](https://www.whatmatters.com/book)：John Doerr制定并实现大胆目标的手册.
+
 ## Articles
 
 - [John Doerr on success using OKR](http://blog.betterworks.com/keys-okr-success-qa-john-doerr/)：OKR成功的关键：与向Google推出OKR的人的问答，John Doerr

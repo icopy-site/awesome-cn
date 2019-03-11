@@ -161,6 +161,7 @@
 - [P5.js Editor](https://editor.p5js.org/) -  P5.js的在线网络编辑器.
 - [Turtletoy](https://turtletoy.net/)   - 用于生成代码的简约API和在线展示.  （JavaScript）
 - [ShaderGif](https://shadergif.com/) - 使用代码（WebGL1 / 2，JavaScript Canvas和P5.js）制作的艺术的开源主页.
+- [P5LIVE](https://teddavis.org/p5live/) -  p5.js实时编码环境.
 
 ### Hardware
 
@@ -443,7 +444,7 @@
 - [Resonate](http://resonate.io/) - 贝尔格莱德有关尖端音乐，视觉艺术和数字文化的狂欢.
 - [Gray Area Festival](http://grayareafestival.io/) - 创意编码，艺术和科技节.
 - [Signal Festival](http://www.signalfestival.com/) - 在捷克共和国布拉格展示光艺术和新兴技术.
-- [Eyeo Festival](http://eyeofestival.com/) - 将数据，艺术和技术交叉的创意编码人员，数据设计人员和创作者聚集在一起.
+- [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
 - [Mutek](http://www.mutek.org/en) - 致力于声音，音乐和视听艺术的数字创造力的组织.
 - [Node](https://nodeforum.org/) - 文化，艺术和科技交流的开放平台.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 为期3天的活动，提供会议，研讨会，数字展示和装置.
@@ -488,7 +489,7 @@
 - [Magic tools](https://github.com/ellisonleao/magictools) - 策划的游戏开发资源列表，以实现魔术.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - 在GPU上链接光线行进的集合.
 - [Awesome public datasets](https://github.com/caesar0301/awesome-public-datasets) - 公共可用数据集的策划列表，主要是免费资源.
-- [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
+- [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) -  2013年的策划清单.
 - [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning) - 用于3D机器学习的资源库.
 
 

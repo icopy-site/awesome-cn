@@ -756,6 +756,7 @@
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的npm模块时的一些好的做法.
 - [The Node Way](http://thenodeway.io) - 存在Node.js最佳实践和指导原则的完整理念，用于编写可维护的模块，可伸缩的应用程序和实际上令人愉快的代码.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -  Node.js核心功能和异步JavaScript简介.
+- [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) - 关于如何编写可移植/跨平台Node.js代码的实用指南.
 
 ### Discovery
 

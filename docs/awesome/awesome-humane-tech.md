@@ -63,14 +63,14 @@
 - [user.js](https://github.com/pyllyukko/user.js) - 配置Firefox以加强浏览器设置并使其更安全.
 - [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - 浏览器扩展模拟内容交付网络以改善您的在线隐私.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - 浏览器扩展允许通过更改User-Agent标头来构建另一个浏览器.
-- [Random User-Agent](https://github.com/tarampampam/random-user-agent) - Browser extension that automatically replaces the User-Agent after a specified time interval.
+- [Random User-Agent](https://github.com/tarampampam/random-user-agent) - 浏览器扩展，在指定的时间间隔后自动替换User-Agent.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) - 更改域时自动隐藏引用者的浏览器扩展.
-- [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - 浏览器扩展，可防止通过Javascript Canvas API进行指纹识别.
+- [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - Browser extension that prevents fingerprinting via Javascript Canvas API.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) - 浏览器扩展以禁用WebRTC以避免从VPN后面泄露您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) - 取代专有云服务，以跨多个设备同步文件，分散.
 - [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - 一种点对点即时通讯工具，旨在使普通用户轻松获得安全和隐私.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -  Android应用程序捕获并加密您键入的文本，然后将其传递给实际的应用程序.
-- [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Firefox插件，允许您在流行的前5大云公司上切换阻止ON或OFF.
+- [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Addon，使您能够根据IPv4 / 6范围选择和阻止前5大云公司.
 
 ## Tracking
 
@@ -89,7 +89,7 @@
 - [Firefox ProfileMaker](https://ffprofile.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allo-/firefox-profilemaker) - 用于创建具有良好默认值的Firefox配置文件的工具.
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - 无需跟踪，隐私尊重的元搜索引擎，可以自我托管.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - 适用于Android的基于DNS的主机拦截器（以及轻量级广告拦截器）.
-- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - Browser extension that deletes cookies as soon as the tab closes, unless site is allowListed.
+- [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - 浏览器扩展，一旦选项卡关闭，就会删除cookie，除非站点是allowListed.
 
 ## Consent
 
@@ -190,7 +190,7 @@
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 根据许多已知的跟踪技术检查您的电子邮件提供商和客户端保
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
 - [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - 浏览器扩展，以帮助ProPublica在Facebook上收集政治广告.
-- [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - 一种浏览器扩展程序，用于跟踪哪些实体正在定位具有广告的受众特征.
+- [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - A browser extension that tracks which entities are targeting which demographics with adverts.
 
 ## Censorship
 
