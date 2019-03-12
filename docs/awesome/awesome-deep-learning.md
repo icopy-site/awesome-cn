@@ -47,7 +47,7 @@
 2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) 作者：Yaser Abu-Mostafa（2012-2014）
 3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) 汤姆米切尔（2011年春季）
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) 作者：Geoffrey Hinton在Coursera（2012）
-3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 从舍布鲁克大学雨果拉罗歇尔（2013）
+3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) 来自舍布鲁克大学的Hugo Larochelle（2013年）
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) 由CILVR lab @ NYU（2014）
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) 作者：Dan Klein和Pieter Abbeel（2013）
 6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) 作者：Patrick Henry Winston（2010）
@@ -70,6 +70,7 @@
 24. [Keras in Motion video course](https://www.manning.com/livevideo/keras-in-motion)
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) 作者：Jeremy Howard  -  Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)  由教授  Bhiksha Raj（2017）
+27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 作者：Andrew Ng（2019）
 
 ### Videos and Lectures
 
@@ -323,7 +324,7 @@
 18. [Annotated face, hand, cardiac & meat images](http://www.imm.dtu.dk/~aam/)   - 使用AAM-API，大多数图像和注释都通过各种ASM / AAM分析进行补充.  （格式：bmp，asf）
 19. [Image Analysis and Computer Graphics](http://www.imm.dtu.dk/image/)  
 21. [Brown University Stimuli](http://www.cog.brown.edu/~tarr/stimuli.html)   - 各种数据集，包括geons，objects和“greebles”.  适用于测试识别算法.  （格式：pict）
-22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
+22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) -  90种不同人类活动序列中的90K视频帧，具有检测和行为分类的XML基础事实（格式：MPEG2和JPEG）
 23. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
 25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) -  8张图片（格式：gif）
 26. [CMU CIL's Stereo Data with Ground Truth](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/cil-ster.html) -  3组11幅图像，包括带有光谱辐射的彩色tiff图像（格式：gif，tiff）
@@ -366,7 +367,7 @@
 69. [https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cps.msu.edu/pub/prip) - 许多图像（格式：未知）
 70. [Middlebury Stereo Data Sets with Ground Truth](http://www.middlebury.edu/stereo/data.html)   - 包含平面区域的六个多帧立体数据集.  每个数据集包含9个彩色图像和亚像素精度的地面实况数据.  （格式：ppm）
 71. [Middlebury Stereo Vision Research Page](http://www.middlebury.edu/stereo) - 米德尔伯里学院
-72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - High Altitude Imagery from around the world for environmental modeling in support of NASA EOS program (Formats: JPG and HDF)
+72. [Modis Airborne simulator, Gallery and data set](http://ltpwww.gsfc.nasa.gov/MODIS/MAS/) - 来自世界各地的高海拔影像，用于支持NASA EOS计划的环境建模（格式：JPG和HDF）
 73. [NIST Fingerprint and handwriting](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://sequoyah.ncsl.nist.gov/pub/databases/data) - 数据集 - 数千张图像（格式：未知）
 74. [NIST Fingerprint data](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/ftp://ftp.cs.columbia.edu/jpeg/other/uuencoded) - 压缩的多部分uuencoded tar文件 
 75. [NLM HyperDoc Visible Human Project](http://www.nlm.nih.gov/research/visible/visible_human.html) - 彩色，CAT和MRI图像样本 - 超过30张图像（格式：jpeg）
@@ -418,7 +419,7 @@
 132. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html)   - 在576个观察条件下观察到的10个对象的5760个单光源图像（9个构成×64个照明条件）.  （格式：PGM） 
 133. [Center for Computational Vision and Control](http://cvc.yale.edu/)
 134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data)   - 来自CNN和DailyMail的文本QA语料库.  总共超过300K文件. [Paper](http://arxiv.org/abs/1506.03340) 以供参考.
-135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) -  YouTube-8M是一个大型标记视频数据集，由800万个YouTube视频ID和来自4800个视觉实体的不同词汇表的相关标签组成.
+135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
 136. [Open Images dataset](https://github.com/openimages/dataset) - “打开图像”是一个数据集，其中约有900万个网址，这些网址已使用超过6000个类别的标签进行注释.
 137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) -  VOC2012数据集，包含12k图像，带有20个注释类，用于对象检测和分割.
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   -  MNIST，如时尚产品数据集，由60,000个示例的训练集和10,000个示例的测试集组成.  每个示例都是28x28灰度图像，与10个类别的标签相关联. 
@@ -540,7 +541,7 @@
 
 -----
 ### Contributing
- 有什么想法，你觉得很棒，并且适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+ 有什么想法，你觉得很棒，适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
 
 -----
 ## License

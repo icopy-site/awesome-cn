@@ -204,7 +204,7 @@
 * [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) * aurelia优化的switchButton
 * [aurelia-yt-player](https://github.com/genadis/aurelia-yt-player) * Yureube播放器API的Aurelia插件
 * [abalmus/aurelia-ace-editor](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace编辑器插件
-* [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) *受Aurelia自动完成地点启发的地方选择器
+* [Tseberechts/aurelia-place-picker](https://github.com/Tseberechts/aurelia-place-picker) *一个地方选择器的灵感来自Aurelia的Autocomplete地方
 * [treacherous-aurelia](https://github.com/grofit/treacherous-aurelia) *用于危险验证系统的Aurelia插件
 * [aurelia-filter](https://github.com/SpoonX/aurelia-filter)  * aurelia的插件，用于填充搜索/过滤条件.  适用于aurelia-orm
 * [aurelia-charts](https://github.com/SpoonX/aurelia-charts)  * aurelia的图形插件.  支持所有库
@@ -221,11 +221,12 @@
 * [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) *权限管理插件，允许集成Aurelia和CASL
 * [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) *一个完全可自定义的插件，可动态生成表单并根据JSON模式验证它们
 * [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) * Aurelia自定义元素 [highlight.js](https://highlightjs.org/)
+* [aurelia-fontawesome](https://github.com/jmzagorski/aurelia-fontawesome) * Aurelia组件 [Font Awesome](https://fontawesome.com/) 5.
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation
 
-* [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) *使用TinyAnimate实现Aurelia基础动画师
+* [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) *使用TinyAnimate实现Aurelia和动画师
 * [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) * Aurelia和TinyMCE的示例应用程序
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) *使用Bootstrap在Aurelio中编写的下一代邮票Web编辑器
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) *使用Flickr匹配TypeScript中使用Aurelia编写的游戏对类型

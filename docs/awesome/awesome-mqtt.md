@@ -75,6 +75,7 @@
 * [mqttcli](https://github.com/shirou/mqttcli) - 用于shell脚本的MQTT客户端.
 * [MQTTInspector](https://github.com/ckrey/MQTTInspector) - 适用于iOS（iPhone和iPad）的通用MQTT测试应用程序.
 * [MQTTLens](https://chrome.google.com/webstore/detail/mqttlens/hemojaaeigabkbcookmlgmdigohjobjm) -  Google Chrome应用程序，可连接到MQTT代理，并可订阅和发布到MQTT主题.
+* [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化MQTT主题的工具，MQTT瑞士军刀.
 * [Python MQTT Client Shell](https://github.com/bapowell/python-mqtt-client-shell) - 基于文本控制台的交互式shell，用于执行与MQTT客户端通信相关的各种任务.
 * [Wireshark-MQTT](https://github.com/menudoproblema/Wireshark-MQTT) -  Wireshark的MQTT解剖器.
 

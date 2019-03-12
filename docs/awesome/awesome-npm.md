@@ -43,8 +43,8 @@
 - [npm-top](https://gist.github.com/bcoe/dcc961b869bbf6685002) -  npm用户下载.
 - [npm semver calculator](http://semver.npmjs.com) - 直观地探索semver范围匹配的软件包版本.
 - [npm-stats](http://www.npm-stats.com) - 显示有关包的指标.
-- [greenkeeper.io](http://greenkeeper.io) - 通过拉取请求自动化依赖关系更新.
-- [ghub.io](http://ghub.io) - 重定向到npm包的GitHub存储库.
+- [greenkeeper.io](https://greenkeeper.io) - 通过拉取请求自动化依赖关系更新.
+- [ghub.io](https://ghub.io) - 重定向到npm包的GitHub存储库.
 - [npm addict](https://npmaddict.com) - 您每天注射npm包.
 - [npm discover](http://www.npmdiscover.com) - 了解一起使用的包.
 - [snyk](https://snyk.io) - 查找，修复和监控npm依赖项中的已知漏洞.
@@ -441,10 +441,10 @@ Examples:
 ## Community
 
 - [`#npm` on Freenode](http://webchat.freenode.net/?channels=npm)
-- [Stack Overflow](http://stackoverflow.com/questions/tagged/npm)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/npm)
 - [Reddit](https://www.reddit.com/r/npm)
 - [Twitter](https://twitter.com/npmjs)
-- [Blog](http://blog.npmjs.org)
+- [Blog](https://blog.npmjs.org)
 
 
 ## Documentation
@@ -469,4 +469,4 @@ Examples:
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Sindre Sorhus](http://sindresorhus.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Sindre Sorhus](https://sindresorhus.com) 已放弃对此作品的所有版权及相关或相邻权利.

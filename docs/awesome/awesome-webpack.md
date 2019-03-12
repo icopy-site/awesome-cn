@@ -123,7 +123,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Import Loader](https://github.com/webpack/imports-loader) ：为Webpack导入加载程序模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [SourceMap Loader](https://github.com/webpack/source-map-loader) ：从模块中提取sourceMappingURL注释.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders)   - 将加载器数组转换为单个加载器字符串.   -  * Maintainer *：`James Friend` [！[Github] [githubicon]]（https://github.com/jsdf）
-- [Icon Font Loader](https://github.com/vusion/icon-font-loader)   - 将svgs转换为CSS中的字体图标.   -  *维护者*：`Forrest R. Zhao` [！[Github] [githubicon]]（https://github.com/rainfore）
+- [Icon Font Loader](https://github.com/vusion/icon-font-loader) - Converts svgs into font icons in CSS.  -- *Maintainer*: `Forrest R. Zhao` [![Github][githubicon]](https://github.com/rainfore)
 - [Icons Loader](https://www.npmjs.com/package/icons-loader)   - 从SVG依赖项生成iconfont.   -  *维护者*：`Mike Vercoelen` [！[Github] [githubicon]]（https://github.com/mikevercoelen）
 - [Modernizr Loader](https://www.npmjs.com/package/modernizr-loader)   - 将您的modernizr构建与webpack捆绑在一起.   -  *维护者*：`Peerigon Devs` [！[Github] [githubicon]]（https://github.com/peerigon）
 - [ngRouter Loader](https://github.com/shlomiassaf/ng-router-loader) - 使用角度路由器的AOT能力的NgModule延迟加载 -  *维护者*：`Shlomi Assaf` [！[Github] [githubicon]]（https://github.com/shlomiassaf）[！[Twitter] [twittericon]]（https ：//twitter.com/shlomiassaf）
@@ -192,7 +192,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware) ：用于争用实时捆绑包的中间件.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) ：提供webpack应用程序.  更新浏览器.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Webpack Merge](https://github.com/survivejs/webpack-merge)   - 为Webpack设计的合并.   -  *维护者*：`JuhoVepsäläinen`[！[Github] [githubicon]]（https://github.com/bebraw）[！[Twitter] [twittericon]]（https://twitter.com/bebraw）
-- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
+- [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin)   - 使用Webpack自动安装和保存deps.   -  *维护者*：`Eric Clemmons` [！[Github] [githubicon]]（https://github.com/ericclemmons）[！[Twitter] [twittericon]]（https://twitter.com/ericclemmons）
 - [Webpack Validator](https://github.com/js-dxtools/webpack-validator)   - 使用Joi验证您的webpack配置.   -  *维护者*：`js-dxtools Team` [！[Github] [githubicon]]（https://github.com/js-dxtools）
 - [Webpack Config Utils](https://github.com/kentcdodds/webpack-config-utils)   -  Util.  使您的webpack配置更容易阅读.   -  * Maintainer *：`Ken​​t C. Dodds` [！[Github] [githubicon]]（https://github.com/kentcdodds）[！[Twitter] [twittericon]]（https://twitter.com/ kentcdodds）
 - [Angular2 Webpack Toolkit](https://github.com/AngularClass/webpack-toolkit) -  Angular 2的Webpack工具和帮助器. -  * Maintainer *：`AngularClass` [！[Github] [githubicon]]（https://github.com/AngularClass）[！[Twitter] [twittericon]]（https： //twitter.com/AngularClass）
@@ -210,8 +210,9 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
 ### Articles
 
+  -  Antoine Caron |  18年1月18日 -  [Webpack : an unexpected journey](https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5)
   - 安德鲁韦尔奇|  10月23日 -  18日 -  [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
-  - GáborSoós|  17年4月24日 -  [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
+- Gábor Soós | 24-Apr-17 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
   -  Mark Erikson |  07年3月7日 -  [Declaratively Rendering Earth in 3D, Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
   -  Joseph Zimmerman |  2月2日至17日 -  [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   -  Jamund Ferguson |  12月22日 -  16日 -  [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
@@ -232,7 +233,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 ### Videos
 
   -  Naomi A. Jacobs通过BuzzJS 2.0 2017 |  2月27日至2017年 -  [Webpack: It's Not Magic](https://www.youtube.com/watch?v=_QEM9kdV-b0)
-- Jack Franklin at HalfStack2016 | 18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
+  - 杰克富兰克林在HalfStack2016 |  18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
   -  Emil Oberg通过YouTube |  2016年11月4日 -  [Introduction to Webpack 2, what is it?](https://www.youtube.com/watch?v=C_ZtQClrVYw)
   -  Emil Oberg通过YouTube |  2016年11月4日 -  [Webpack 2 - A full tutorial](https://www.youtube.com/watch?v=eWmkBNBTbMM)
   -  Sean Larkin NEJS Conf |  16-Sep-16 | [Webpack: Core Concepts](https://www.youtube.com/watch?v=AZPYL30ozCY&feature=youtu.be)
@@ -255,6 +256,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Using Webpack for Production JavaScript Applications](https://egghead.io/courses/using-webpack-for-production-javascript-applications) -  Egghead.io课程 [Kent C. Dodds](https://twitter.com/kentcdodds) （高级）
 - [Webpack Fundamentals](https://www.pluralsight.com/courses/webpack-fundamentals) - [Joe Eames](https://twitter.com/josepheames) 对于Pluralsight（中级）
 - [Webpack Academy](https://webpack.academy) - 全面的Webpack学习资源.
+- [Webpack workshops](https://slashgear.github.io/webpack-workshop/) - 收集Antoine Caron从初学者到高级水平学习webpack的课程
 
 ### Books
 

@@ -947,6 +947,14 @@
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
 * [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - 它会优化吗？
 * [Embedded in Academia](http://blog.regehr.org/)
+* [Simplify C++](https://arne-mertz.de/)
+* [Fluent C++](https://www.fluentcpp.com/) 
+* [Bartek's Coding Blog](https://www.bfilipek.com/?m=1)
+* [Kenny Kerr](https://kennykerr.ca/articles/)
+* [Sutter’s Mill](https://herbsutter.com/gotw/)
+* [thoughts on cpp](https://thoughts-on-cpp.com/)
+* [Vorbrodt's C++ Blog](https://vorbrodt.blog/)
+* [foonathan::blog()](https://foonathan.net/index.html)
 
 ## Other Awesome Projects
 *收集有用的代码，片段，...... *

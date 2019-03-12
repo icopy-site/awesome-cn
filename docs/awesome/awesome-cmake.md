@@ -64,7 +64,7 @@
 * [fips](https://github.com/floooh/fips)   - 用于分布式多平台C / C ++项目的高级构建系统/依赖关系管理.  [```[MIT]```] [MIT]
 * [Ninja](https://github.com/ninja-build/ninja)   - 在两个主要方面构建与其他系统不同的系统：它旨在使其输入文件由更高级别的构建系统（如CMake）生成，并且旨在尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)   - 获取和构建C ++开源库的工具.  在内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
-* [pmm](https://github.com/vector-of-bool/pmm) - PMM is a module for CMake that manages... package managers. [```[MIT]```][MIT]
+* [pmm](https://github.com/vector-of-bool/pmm)   -  PMM是CMake的一个模块，用于管理包管理器.  [```[MIT]```] [MIT]
 
 ## Modules
 
@@ -86,10 +86,10 @@
 
 ## Utility Scripts
 
- 它们提供了广泛的功能 - 从处理编译器标志到使用工具.  enhanced还包含一些模块Never.
+ 它们提供了广泛的功能 - 从处理编译器标志到使用工具.  有些还包含模块.
 
 * [cotire](https://github.com/sakra/cotire)   -  Cotire（编译时缩减器）是一个CMake模块，它通过完全自动化技术作为预编译头和C和C ++的统一构建来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
-* [ucm](https://github.com/onqtam/ucm)   - 用于管理编译器/链接器标志，收集源，预编译头，统一构建等.  [```[MIT]```] [MIT]
+* [ucm](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)   -  CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -  CMake工具和示例：收集源文件，抑制警告等.[```[BSD2]```[BSD-2-Clause]
 * [DownloadProject](https://github.com/Crascit/DownloadProject)   -  CMake模块，用于在配置时下载外部项目的源.  [```[MIT]```] [MIT]
@@ -162,6 +162,7 @@
 * [cpp-template](https://github.com/joshpeterson/cpp-template)   - 使用CMake和Catch的模板C ++存储库.  ```[NO LICENSE]```
 * [pitchfork](https://github.com/vector-of-bool/pitchfork)   - 一组用于本机C和C ++项目的约定.  [```[MIT]```] [MIT]
 * [cleanCppProject](https://github.com/kracejic/cleanCppProject)   - 使用现代CMake的项目模板，包装，测试，文档，静态/动态分析，CI.  [```[MIT]```] [MIT]
+* [cmake-examples](https://github.com/pr0g/cmake-examples)   - 尽可能简单的现代CMake项目集合.  [```[MIT]```] [MIT]
 
 ## Other
 

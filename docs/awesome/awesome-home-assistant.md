@@ -221,7 +221,7 @@ _由社区创建的Home Assistant的附加组件._
 * [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 将设备跟踪器位置转换为人类可读的地址.
 * [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - 集成了路创Caseta Smart Bridge PRO / RA2 Select.
 * [ToonHA](https://github.com/krocat/ToonHA) - 使用官方API集成Tone by Eneco.
-* [Broadlink IR](https://github.com/vpnmaster/homeassistant-custom-components) - 使用Broadlink IR集成设备.
+* [SmartIR](https://github.com/smartHomeHub/SmartIR) - 使用Broadlink IR集成设备.
 * [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) - 小米Mijia BT Hygrothermo温湿度传感器的传感器平台.
 * [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - 集成大众Carnet（需要有效的Carnet订阅）.
 * [Untappd](https://github.com/custom-components/sensor.untapped) - 连接您的Untappd帐户.

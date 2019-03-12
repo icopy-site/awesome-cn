@@ -364,15 +364,31 @@ $ git branch -m <new_branch_name>
 $ git branch -D <branch>
 ```
 
-##### Mark the current commit with a tag:
+##### Mark `HEAD` with a tag:
 ```
 $ git标签<tag-name>
 ```
 
-##### Mark the current commit with a tag that includes a message:
+##### Mark `HEAD` with a tag and open the editor to include a message:
 ```
 $ git tag -a <tag-name>
 ```
+
+##### Mark `HEAD` with a tag that includes a message:
+```
+ $ git标签 <tag-name>  -am&#39;留言&#39;
+```
+
+##### List all tags:
+```
+$ git标签
+```
+
+##### List all tags with their messages (tag message or commit message if tag has no message):
+```
+$ git tag -n
+```
+
 <hr>
 
 ## Update & Publish

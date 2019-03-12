@@ -23,6 +23,7 @@
 - [Jupyter Notebook](https://github.com/jupyter/notebook) - 主要的Jupyter笔记本运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -  Jupyter的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) -  JupyterLab是Jupyter的下一代用户界面.
+- [JupyterWith](https://github.com/tweag/jupyterWith) - 基于Nix的框架，用于定义声明性和可重现的Jupyter环境.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器通知单元格完成的单元魔术.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的Kaggle Python docker镜像.
 - [nteract](https://github.com/nteract/nteract) - 原生桌面笔记本前端.
@@ -39,7 +40,7 @@
 - [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - 通过Edx进行身份验证.
 - [nbautoeval](https://github.com/parmentelat/nbautoeval) - 创建自动评估练习.
 - [nbgrader](https://github.com/jupyter/nbgrader) - 分配和评分Jupyter笔记本电脑.
-- [nbtutor](https://github.com/lgpage/nbtutor) - Visualize Python code execution (line-by-line).
+- [nbtutor](https://github.com/lgpage/nbtutor) - 可视化Python代码执行（逐行）.
 
 ## Visualization
 
@@ -61,6 +62,7 @@
 
 - [Binder](http://mybinder.org) - 将GitHub仓库变成一组交互式笔记本.
 - [Bookbook](https://github.com/takluyver/bookbook) -  Bookbook将目录中的一组笔记本转换为HTML或PDF，从而保留笔记本内部和之间的交叉引用.
+- [Jupytext](https://github.com/mwouts/jupytext) - 编辑，重构和版本控制Jupyter笔记本表示为脚本或Markdown文档.
 - [nbconvert](https://nbconvert.readthedocs.io) - 将笔记本电脑转换为其他格式.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于差异和合并Jupyter笔记本的工具.
 - [nbinteract](https://www.nbinteract.com) - 从Jupyter笔记本创建交互式网页.
@@ -126,7 +128,7 @@
 
 ## Community Resources
 
-- 会谈 -  [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用Jupyter的大学机构地图.
 - 网格 -  [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 -  GitHub  - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)
