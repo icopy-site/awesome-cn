@@ -131,7 +131,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
   -  _ [事物的联系.  网络与网络的文化史[物联网.  网络和网络的文化历史]]（http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html），SebastianGießmann，德语（2014）.
-  -  _ [国家社会主义下的隐蔽社交网络.  （http://www.degruyter.com/view/product/432196）_：柏林支持网络的受迫害的犹太人[起源和受迫害的犹太人柏林援助网络的工作方法隐藏的社会网络在国家社会主义]的生成和操作，作者MartenDüring，德语（2015; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
+  -  _ [国家社会主义下的隐蔽社交网络.  （http://www.degruyter.com/view/product/432196）_：柏林支持网络的受迫害的犹太人[起源和受迫害的犹太人柏林援助网络的工作方法隐藏的社会网络在国家社会主义]的生成和操作通过貂期间，（在2015年德国; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
 ## Conferences
@@ -171,7 +171,6 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 ## Datasets
 
--   [Barabási and Albert Network Datasets](https://www3.nd.edu/~networks/resources.htm).
 -   [Bayesian Network Repository](http://www.bnlearn.com/bnrepository/).
 -   [Bill Cosponsorship Networks in European Parliaments](https://github.com/briatte/parlnet) -  R格式的立法共同赞助网络.
 -   [Colorado Index of Complex Networks (ICON)](https://icon.colorado.edu/) - 由Aaron Clauset的研究小组描述和索引的大量网络集合.
@@ -189,6 +188,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Manlio De Domenico’s Multilayer Networks](http://deim.urv.cat/~manlio.dedomenico/data.php).
 -   [Mark E.J. Newman’s Network Data](http://www-personal.umich.edu/~mejn/netdata/) ([example visualizations](http://www-personal.umich.edu/~mejn/networks/)).
 -   [Network Repository](http://networkrepository.com/) - 完全可搜索的数据库，包含数百个真实网络.
+-   [Network Science Book - Network Datasets](http://networksciencebook.com/translations/en/resources/data.html)   - 来自Albert-LászlóBarabási的_Network Science_书的网络数据集.  包括有关IMDB参与者，arXiv科学合作，路由器网络，美国电网，蛋白质 - 蛋白质相互作用，手机用户，引文网络，代谢反应，电子邮件网络和nd.edu网页的数据.
 -   [Nexus](http://nexus.igraph.org/) -  GraphML和igraph格式的网络数据集存储库.
 -   [Norwegian Interlocking Directorate, 2002-2011](http://www.boardsandgender.com/data.php) - 挪威公司中有关性别代表的双模和单模数据.
 -   [Movie galaxies](http://moviegalaxies.com/) - 电影角色互动图的数据库.
@@ -308,7 +308,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) （_Programming Historian_，2015）.
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006) ;  _IET Systems Biology_，2007）.
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/)，法语（_History and Computer Science_，2015）.
-  -  [简介：区L&#39;EST上分析德RESEAUX在历史学？  [简介：在什么时候网络分析是历史]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法语（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
+  -  [简介：oùenest l&#39;analyzederéseauxenhistoire？  [简介：在什么时候网络分析是历史]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法语（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) （_Complexity_，2002）.
 -   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) （参见The Historian&#39;s Macroscope_，2013）.
 -   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) （_Anualual of Anthropology_，2014）.
@@ -431,7 +431,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [E-Net](https://sites.google.com/site/enetsoftware1/) - 用于自我网络分析的Windows程序.
 -   [EgoNet](https://sourceforge.net/projects/egonet/) - 用于自我网络分析的跨平台Java程序.
 -   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - 用于社交网络数据收集和处理的服务器端软件.
--   [easyN](http://www.esyn.org/) - 旨在表示和共享基因交互网络以及Petri网模型的在线工具.
+-   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
 -   [Gephi](https://gephi.github.io/) - 用于网络可视化的跨平台，免费和开源工具.
     -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
     -   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo)，德语（2016年）.
@@ -483,7 +483,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [UNISoN](http://unison.sleonard.co.uk/) - 跨平台程序，用于下载和可视化Usenet数据. [Developed for a Masters degree](https://github.com/leonarduk/unison/wiki/MSc-Report-Abstract).
 -   [VennMaker: An Actor-Centered Interactive Network Mapping Tool](http://www.vennmaker.com/?lang=en) - 用于自我网络分析的跨平台Java程序.
     -   [VennMaker for Historians: Sources, Social Networks and Software](http://revistes.uab.cat/redes/article/view/v21-during-bixier-kronenwett-stark) （也有西班牙语版本; 2011年）.
--   [Visone](http://visone.info/) - Cross-platform Java network analysis and visualization program, free for noncommercial use.
+-   [Visone](http://visone.info/) - 跨平台的Java网络分析和可视化程序，免费用于非商业用途.
     -   [Network Analysis with Visone Tutorial](http://visone.info/wiki/images/8/8f/VisoneTutorial-archeology.zip) - 通过考古案例研究（2015年）进行说明.
 -   [Vizster](http://vis.stanford.edu/jheer/projects/vizster/) - 跨平台Java程序，可视化在线社交网络.
 -   [VOSviewer](http://www.vosviewer.com/) - 用于构建和可视化文献计量网络的跨平台Java工具.
@@ -513,7 +513,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Louvain Method](https://sites.google.com/site/findcommunities/) - 用于的C ++代码 [Louvain multi-level community detection algorithm](http://arxiv.org/abs/0803.0476).
 -   [networks.tb](http://networks-tb.sourceforge.net/)   - 用于分析社会语义网络的C程序.  在Linux和Mac OS X上运行.
 -   [OGDF - Open Graph Drawing Framework](http://www.ogdf.net/) - 用于图表，网络和树布局的独立C ++类库.
--   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) -  C ++算法，也可作为 [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+-   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/)   -  C ++通用网络分析和图形挖掘库.  可通过NodeXL作为Python库和Microsoft Excel使用.
 -   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - 实现的C ++程序 [WalkTrap community detection algorithm](http://arxiv.org/abs/physics/0512106).
 
@@ -700,7 +700,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 &gt;不适合其他类别的资源.
 
--   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - Long list of diverse applications of network analysis, with shorts descriptions in Spanish.
+-   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - 网络分析的各种应用的长列表，西班牙语短语描述.
 -   [Awesome graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 图表嵌入论文的完整列表，包括标题，作者，论文链接和参考实现.
 -   [Awesome community detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 完整的社区检测论文清单，包括标题，作者，论文链接和参考实施.
 -   [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - 分析现实世界的角色网络.
@@ -744,7 +744,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 &gt;关于网络主题的系列博客文章.  
 
--   [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) -  Tom Brughmans的博客，面向考古学家和历史学家.
+-   [Archaeological Networks](http://archaeologicalnetworks.wordpress.com/) - Tom Brughmans’ blog, aimed at archaeologists and historians.
 -   [Blog Posts About Networks by Aaron Clauset](https://www.cs.unm.edu/~aaron/blog/archives/networks/index.htm).
 -   [Blog Posts About Networks by Baptiste Coulmont](http://coulmont.com/index.php?s=r%C3%A9seaux)，用法语.
 -   [Blog Posts About Networks by Cosma R. Shalizi](http://bactra.org/weblog/cat_networks.html).
@@ -752,7 +752,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Blog Posts About Networks by Katya Ognyanova](http://kateto.net/networks).
 -   [Blog Posts About Networks by Pierre Mercklé](http://pierremerckle.fr/category/reseaux/)，用法语.
 -   [Blog Posts About Networks on the Bad Hessian Blog](http://badhessian.org/category/networks/)，由各种贡献者.
-- 关于网络的博客帖子 [R-Bloggers](http://www.r-bloggers.com/), an aggregator of R blogs:
+- 关于网络的博客帖子 [R-Bloggers](http://www.r-bloggers.com/)，R博客的聚合器：
       -   [Networks](http://www.r-bloggers.com/?s=networks).
       -   [Social Network Analysis](http://www.r-bloggers.com/?s=social+network+analysis).
 -   [Cosma R. Shalizi’s Notebooks](http://bactra.org/notebooks) 关于网络相关主题，绝对值得列入（选择性）细节：
@@ -814,7 +814,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 - 从 [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
     -   [Taming Complexity](http://barabasi.com/f/182.pdf).
     -   [The Network Takeover](http://barabasi.com/f/362.pdf).
--   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - “network _science_”如何出现.
+-   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 一系列博客帖子早于“网络科学”的出现作为流行语，但触及的问题与目前正在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - 审查2002  -  2003年出版的网络科学书籍.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - 预测网络科学中的下一篇被高度引用的论文.
@@ -830,7 +830,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - 关于数学家之间协作关系和网络距离的研究项目.
 -   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - 讨论“_x_分离度”小世界实验.
 -   [The Oracle of Bacon](https://oracleofbacon.org/) - 基于 [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) 结果导致了 [charity](http://www.sixdegrees.org/).
--   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
+-   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - 康奈尔大学会议录像，由Duncan J. Watts，Steven H. Strogatz，Jon Kleinberg和其他发言人组成.
 -   [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - 基于金属艺术家和乐队的双模式网络分析示例.
 -   [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) - 对记录良好的早期现代历史网络进行交互式可视化.
 -   [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - 维基百科英语录入.

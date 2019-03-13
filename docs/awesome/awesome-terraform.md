@@ -105,6 +105,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - 在Azure上创建MySql数据库.
 * [terraform-azurerm-sqlserver](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - 在Azure上创建SQl服务器数据库.
 * [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - 在Azure VM实例上安装IIS服务器.
+* [terraform-linode-k8s](https://registry.terraform.io/modules/linode/k8s/linode/) - 在Linode实例上安装Kubernetes
 
 ## Private Module Registries
 
@@ -118,7 +119,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud的Terraform插件.
 * [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -  Terraform提供商管理healthchecks.io资源.
 * [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Terraform提供商管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - 用于linode的Terraform插件
+* [terraform-provider-linode](https://github.com/terraform-providers/terraform-provider-linode) -  Linode的Terraform提供商
 * [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -  Terraform提供商管理pingdom资源.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - 管理 [Spinnaker](https://www.spinnaker.io/) Terraform的应用程序和管道.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - 适用于AWS，Azure，GCP的Devops自动化平台.

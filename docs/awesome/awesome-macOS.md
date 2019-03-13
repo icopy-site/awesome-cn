@@ -14,10 +14,10 @@
 
 ### Audio
 
-- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 从iTunes，Skype或Safari等任何应用程序或麦克风和混音器等硬件设备录制音频.
+- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)   - 录制系统音频，控制各个应用的音频电平，并在其他音频开始播放时自动暂停您的音乐播放器，然后取消暂停.  [！[开源软件] [OSS图标]]（https://github.com/kyleneideck/BackgroundMusic）！[免费软件] [免费软件图标]
 - [VOX Player](https://coppertino.com/vox/mac) - 播放众多有损和无损音频格式.
-- [XLD](http://tmkk.undo.jp/xld/index_e.html) - Rip/Decode/convert/play various "lossless" audio files. [![Open-Source Software][OSS Icon]](https://code.google.com/archive/p/xld/source) ![Freeware][Freeware Icon]
+- [XLD](http://tmkk.undo.jp/xld/index_e.html)   - 翻录/解码/转换/播放各种“无损”音频文件.  [！[开源软件] [OSS图标]]（https://code.google.com/archive/p/xld/source）！[免费软件] [免费软件图标]
 
 ### Backup
 - [Arq](https://www.arqbackup.com/) - 加密备份到亚马逊，Dropbox，谷歌，OneDrive等.
@@ -32,7 +32,7 @@
 ### Data Recovery
 
 - [Data Rescue](https://www.prosofteng.com/datarescue-mac-data-recovery/) - 针对多种场景的全面和专业的数据恢复.
-- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 当磁盘工具不在选项中时，从文件系统损坏中恢复。
+- [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 当磁盘工具不在选项中时，从文件系统损坏中恢复.
 
 
 ### Developers
@@ -42,10 +42,10 @@
 - [Cakebrew](https://www.cakebrew.com/)   -  Homebrew GUI应用程序.  [！[开源软件] [OSS图标]]（https://github.com/brunophilipe/Cakebrew）！[免费软件] [免费软件图标]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client)   - 用于测试REST端点的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 - [Dash](https://kapeli.com/dash) -  API文档浏览器和代码片段管理器.
-- [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
+- [Flawless App](https://flawlessapp.io/) - 用于iOS模拟器内移动应用程序视觉质量检查的macOS工具.
 - [Gas Mask](https://github.com/2ndalpha/gasmask)   - 简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)   - 菜单栏上的开源github贡献统计数据.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
-- [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
+- [GitHub Desktop](https://desktop.github.com/)   - 使用GitHub的GUI.  ！[免费软件] [免费软件图标]
 - [GitUp](http://gitup.co/)   - 一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
@@ -62,7 +62,6 @@
 - [QorumLogs](https://github.com/goktugyil/QorumLogs)   -  Xcode和Google Docs的Swift Logging Utility.  [！[开源软件] [OSS图标]]（https://github.com/goktugyil/QorumLogs）！[免费软件] [免费软件图标]
 - [Quiver](http://happenapps.com/#quiver) - 适合程序员的令人愉快的笔记本，允许混合丰富的文本，代码，降价，LaTeX和图形.
 - [Sequel Pro](http://www.sequelpro.com/)   -  MySQL数据库管理器.  [！[开源软件] [OSS图标]]（https://github.com/sequelpro/sequelpro）！[免费软件] [免费软件图标]
-- [Sip](http://theolabrothers.com/) - 开发人员的简单颜色选择器.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织代码片段.
 - [SourceTree](https://www.sourcetreeapp.com/)   - 免费的Git＆Mercurial客户端.  ！[免费软件] [免费软件图标]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) -  Objective-C到Swift代码转换器和Xcode＆Finder扩展.
@@ -109,7 +108,7 @@
 ### Games
 
 - [Battle for Wesnoth](http://www.wesnoth.org/)   - 回合制战术策略游戏，包括单人和在线多人战斗.  [！[开源软件] [OSS图标]]（https://github.com/wesnoth）！[免费软件] [免费软件图标]
-- [Boxer](http://boxerapp.com/)   -  DOS游戏模拟器适合您的Mac.  [！[开源软件] [OSS图标]]（https://github.com/alunbestor/Boxer）！[免费软件] [免费软件图标]
+- [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
 - [Dolphin](https://dolphin-emu.org)   - 适用于任天堂GameCube和Wii游戏的强大的开源模拟器.  [！[开源软件] [OSS图标]]（https://github.com/dolphin-emu/dolphin）！[免费软件] [免费软件图标]
 - [OpenEmu](http://openemu.org/)   - 多个视频游戏系统.  [！[开源软件] [OSS图标]]（https://github.com/OpenEmu/OpenEmu）！[免费软件] [免费软件图标]
 - [Screentendo](http://aaronrandall.com/blog/screentendo/)   - 将您的屏幕变成可玩的马里奥级别.  [！[开源软件] [OSS图标]]（https://github.com/AaronRandall/Screentendo）！[免费软件] [免费软件图标]
@@ -155,7 +154,7 @@
 - [Instant Translate](https://insttranslate.com/mac) - 从菜单栏中翻译100多种语言的语音和文本.
 - [Karabiner](https://pqrs.org/osx/karabiner/)   - 功能强大的键盘定制器.  [！[开源软件] [OSS图标]]（https://github.com/tekezo/Karabiner）！[免费软件] [免费软件图标]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行例行操作.
-- [Keytty](http://keytty.com)   - 使您可以通过几个击键来控制鼠标.  鼠标键替代.
+- [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 只需使用键盘即可启动应用程序，导航文件夹，操作文件，控制Mac等等.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 适用于Mac，iPad和iPhone的令人难以置信的任务管理平台.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - 非常适合收集信息，概述想法，为任何类型的写作添加结构等等.
@@ -194,23 +193,27 @@
 - [APNGb](https://github.com/mancunianetz/APNGb)   -  .apng图像汇编程序/反汇编程序.  [！[开源软件] [OSS图标]]（https://github.com/mancunianetz/APNGb）！[免费软件] [免费软件图标]
 - [AppCleaner](http://freemacsoft.net/appcleaner/)   - 轻松卸载您的应用程序.  ！[免费软件] [免费软件图标]
 - [Arthur](http://arthur-osx.com/) - 安全地优化Mac的一些隐藏设置.
+- [Artify](https://github.com/NghiaTranUIT/artify-macos)   - 一个macOS X应用程序，专门为每个人带来18世纪的艺术.  [！[开源软件] [OSS图标]]（https://github.com/NghiaTranUIT/artify-macos）！[免费软件] [免费软件图标]
 - [Bartender](https://www.macbartender.com/) - 整理菜单栏应用程序.
 - [Batch Image Resizer](http://www.ironstarmedia.co.uk/resources/osx-image-resizer/)   - 在计算机上快速调整大量图像的大小.  ！[免费软件] [免费软件图标]
-- [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web based media players with the media keys found on Mac keyboards. [![Open-Source Software][OSS Icon]](https://github.com/beardedspice/beardedspice) ![Freeware][Freeware Icon]
+- [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 使用Mac键盘上的媒体键控制基于Web的媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/beardedspice/beardedspice）！[免费软件] [免费软件图标]
 - [BetterZip](https://macitbetter.com/) - 一个功能强大且功能齐全的归档管理器.
 - [BitBar](https://github.com/matryer/bitbar)   - 将任何脚本的输出显示到菜单栏.  [！[开源软件] [OSS图标]]（https://github.com/matryer/bitbar）！[免费软件] [免费软件图标]
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html)   - 严格刻录数据/音频/视频CD和DVD，包括复制.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/burn-osx/code/HEAD/tree/）！[免费软件] [免费软件图标]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)   - 了解你的捷径.  ！[免费软件] [免费软件图标]
+- [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner)   - 自动从剪贴板中删除文本格式.  [！[开源软件] [OSS图标]]（https://github.com/Zuehlke/Clipboard_Cleaner）！[免费软件] [免费软件图标]
 - [CommandQ](https://clickontyler.com/commandq/) - 再也不会意外退出应用程序.
 - [ControlPlane](http://www.controlplaneapp.com/)   - 根据您的位置或您的工作自动执行任务.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
 - [DaisyDisk](https://daisydiskapp.com/) - 分析磁盘使用情况并释放磁盘空间.
 - [Deliveries](http://junecloud.com/software/mac/deliveries.html) - 美观简单的包裹追踪.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor)   - 在Mac上轻松禁用或启用显示器.  [！[开源软件] [OSS图标]]（https://github.com/Eun/DisableMonitor）！[免费软件] [免费软件图标]
+- [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]]（https://github.com/Mortennn/Dozer）！[免费软件] [免费软件图标]
 - [EtreCheck](http://etrecheck.com)   - 输出系统信息和配置，以获得Apple支持专业人员的更多信息帮助.  [！[开源软件] [OSS图标]]（https://github.com/etresoft/EtreCheck）！[免费软件] [免费软件图标]
 - [Fanny](http://fannywidget.com/)   - 通知中心小部件和菜单栏应用程序，用于监控Mac的风扇和CPU温度.  [！[开源软件] [OSS图标]]（https://github.com/DanielStormApps/Fanny）！[免费软件] [免费软件图标]
 - [Finicky](https://johnste.github.io/finicky/)   - 允许您设置规则的应用程序，用于决定为每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
 - [Fluid](http://fluidapp.com/) - 将Web应用程序转换为Mac应用程序.
 - [gfxCardStatus](https://gfx.io/)   - 菜单栏应用程序，用于监控和切换MacBook Pro上的集成和独立GPU.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
+- [Gray](https://github.com/zenangst/Gray)   - 只需点击一下按钮，即可在每个应用程序的基础上选择浅色外观和深色外观.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
 - [Helium](http://heliumfloats.com/)   - 浮动浏览器窗口，允许您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
 - [InsomniaX](http://semaja2.net/projects/insomniaxinfo/)   - 防止macOS自动进入休眠状态（关闭盖子或空闲超时）.  ！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)   -  Mac上的Unsplash数千张令人惊叹的照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
@@ -348,7 +351,8 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 * [MIDAS](https://github.com/etsy/MIDAS)   - 入侵检测分析系统.  [！[开源软件] [OSS图标]]（https://github.com/etsy/MIDAS）
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [！[开源软件] [OSS图标]]（https://github.com/drduh/OS-X-Security-and-Privacy-Guide）
 * [OSXCollector](https://github.com/Yelp/osxcollector)   - 法医证据收集和分析工具包.  [！[开源软件] [OSS图标]]（https://github.com/Yelp/osxcollector）！[免费软件] [免费软件图标]
-* [santa](https://github.com/google/santa)   - 二进制白名单/黑名单系统.  [！[开源软件] [OSS图标]]（https://github.com/google/santa）！[免费软件] [免费软件图标]
+* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
+* [SimpleumSafe](https://simpleum.com/) - 使用macOS或iOS加密，组织和同步文件.
 * [tinc](https://www.tinc-vpn.org)   - 安全网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [Tunnelblick](https://tunnelblick.net)   - 易于使用的OpenVPN客户端和GUI.  [！[开源软件] [OSS图标]]（https://github.com/Tunnelblick/Tunnelblick）！[免费软件] [免费软件图标]
 - [VeraCrypt](https://veracrypt.codeplex.com/)   - 免费和开源的磁盘加密软件.  [！[开源软件] [OSS图标]]（https://veracrypt.codeplex.com/SourceControl/latest）！[免费软件] [免费软件图标]
@@ -368,7 +372,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 
 ### Apple
 
-* [Apple Support Communities](https://discussions.apple.com/community/mac_os/os_x_yosemite)
+* [Apple Support Communities](https://discussions.apple.com/community/mac_os/mojave)
 
 
 ### IRC channels

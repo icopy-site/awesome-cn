@@ -127,6 +127,7 @@
 - [SAWS](https://github.com/donnemartin/saws) - 增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 全功能S3客户端.
 - [lstags](https://github.com/ivanilves/lstags) - 跨不同的注册表同步Docker镜像.
+- [pm2](https://pm2.io/runtime/) -  Node.js的生产过程管理器
 
 ### Release
 
@@ -206,7 +207,7 @@
 - [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
 - [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
-- [neofetch](https://github.com/dylanaraps/neofetch) - A command-line system information tool written in bash 3.2+.
+- [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
@@ -229,13 +230,13 @@
 
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露在世界各地，以便于测试和共享.
-- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
 - [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 从命令行程序实时管道输出到Web.
 - [teleconsole](https://www.teleconsole.com/) - 在几秒钟内共享您的UNIX终端.
 - [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
-- [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
+- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
 - [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
 
@@ -253,6 +254,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 从unplash.com中提取随机/查询的图像并应用于桌面壁纸.
+- [pywal](https://github.com/dylanaraps/pywal) - 即时生成和更改颜色方案，然后将系统范围的颜色应用于您喜爱的所有程序.
 
 ## Command Line Learning
 
@@ -397,7 +399,7 @@
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
-- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
+- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 
 ## Other

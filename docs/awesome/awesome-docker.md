@@ -61,7 +61,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker镜像并运行Windows容器
 - [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) 通过 [@kaitoedter](https://twitter.com/kaitoedter)
-- [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - 您将学习如何识别适合集装箱化的.NET Framework应用程序类型，即容器化的“提升 - 移位”方法.
+- [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - You will learn to identify the types of .NET Framework applications that are good candidates for containerization, the "lift-and-shift" approach to containerization.
 - [Docker with Microsoft SQL 2016 + ASP.NET](https://blog.alexellis.io/docker-does-sql2016-aspnet/) 演示在Docker中运行ASP.NET和SQL Server工作负载
 - [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](https://www.hanselman.com/blog/ExploringASPNETCoreWithDockerInBothLinuxAndWindowsContainers.aspx) 使用[Docker for Windows] [docker-for-windows]在Linux和Windows容器中运行ASP.NET Core应用程序
 - [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) Docker化旧版ASP.NET应用程序并作为Windows容器运行的步骤
@@ -215,8 +215,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Anchor Engine](https://github.com/anchore/anchore) - 通过[@Anchor] [anchore]分析CVE漏洞和自定义安全策略的映像
 - [Aqua Security](https://www.aquasec.com) ：heavy_dollar_sign： - 在任何平台上保护基于容器的应用程序从Dev到Production
 - [bane](https://github.com/genuinetools/bane) -  [@genuinetools]的[适用于Docker容器的AppArmor配置文件生成器[genuinetools]
-- [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark)   - 此[InSpec] [inspec]合规性配置文件以自动方式实施CIS Docker 1.12.0基准测试，以便在生产环境中围绕Docker守护程序和容器提供安全性最佳实践测试.  通过 [@dev-sec](https://github.com/dev-sec)
-- [Clair](https://github.com/coreos/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos][coreos]
+- [CIS Docker Benchmark](https://github.com/dev-sec/cis-docker-benchmark) - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [@dev-sec](https://github.com/dev-sec)
+- [Clair](https://github.com/coreos/clair)   -  Clair是一个开源项目，用于静态分析appc和docker容器中的漏洞.  由[@coreos] [coreos]
 - [Dagda](https://github.com/eliasgranderubio/dagda)   -  Dagda是一种工具，用于对docker镜像/容器中的已知漏洞，特洛伊木马，病毒，恶意软件和其他恶意威胁进行静态分析，并监视docker守护程序和运行docker容器以检测异常活动.  通过 [@eliasgranderubio](https://github.com/eliasgranderubio)
 - [docker-bench-security](https://github.com/docker/docker-bench-security)   - 用于检查在生产中部署Docker容器的数十种常见最佳实践的脚本.  通过[@docker] [docker]
 - [docker-explorer](https://github.com/google/docker-explorer) - 通过[@Google] [google]帮助预防离线码头获取的工具
@@ -238,7 +238,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)   -  Blockbridge插件是一个卷插件，可以访问一组可扩展的基于容器的持久存储选项.  它支持单主机和多主机Docker环境，其功能包括租户隔离，自动配置，加密，安全删除，快照和QoS.  通过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)   - 一个开源的Docker卷驱动程序，可以在任何地方快照，备份和恢复Docker卷.  由[@rancher] [牧场主]
-- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为OS X上通过Docker Machine创建的现有boot2docker框激活NFS.
+- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison)  使用Unison进行快速双向文件夹同步的docker卷容器.  创建作为OS X上缓慢boot2docker卷的替代方法 [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/CWSpear/local-persist) 为本地卷指定一个挂载点（通过`docker volume create`创建），这样文件将始终保持不变，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) -  Docker容器中的S3兼容对象存储服务器
@@ -272,6 +272,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockercraft](https://github.com/docker/dockercraft) -  Docker + Minecraft = [@docker] [docker]的Dockercraft
 - [dockerfile-mode](https://github.com/spotify/dockerfile-mode) 用于处理Dockerfiles的emacs模式[@spotify] [spotify]
 - [dockersql](https://github.com/crosbymichael/dockersql) - 使用SQL查询Docker的命令行界面 [@crosbymichael](https://github.com/crosbymichael)
+- [DockSTARTer](https://github.com/GhostWriters/DockSTARTer) -  DockSTARTer帮助您开始使用Docker中运行的家庭服务器应用程序（[GhostWriters](https://github.com/GhostWriters))
 - [dockly](https://github.com/lirantal/dockly) - 用于管理Docker容器的交互式shell UI [@lirantal](https://github.com/lirantal)
 - [dry](https://github.com/moncho/dry) -  Docker容器的交互式CLI [@moncho](https://github.com/moncho)
 - [DVM](https://github.com/howtowhale/dvm) -  Docker版本管理器 [@howtowhale](https://github.com/howtowhale)
@@ -298,7 +299,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) ：skull： -  Docker的简单Web界面，具有很多功能 [@Electrofenster](https://github.com/Electrofenster/)
 - [DockerSurfer](https://github.com/Simone-Erba/DockerSurfer) ：skull： - 用于分析和浏览Docker注册表中Docker镜像之间依赖关系的Web服务 [@Simone-Erba](https://github.com/Simone-Erba/)
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) -  GitHub的浏览器扩展，使`Dockerfile`中的图像名称可单击，并将您重定向到相关的Docker Hub页面.
-- [Portainer](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker hosts or Docker Swarm clusters by [@portainer](https://github.com/portainer)
+- [Portainer](https://github.com/portainer/portainer) - 用于管理Docker主机或Docker Swarm集群的轻量级管理UI [@portainer](https://github.com/portainer)
 - [Portus](https://github.com/SUSE/Portus) -  Docker注册表（v2）的授权服务和前端 [@SUSE](https://github.com/SUSE)
 - [Rapid Dashboard](https://github.com/ozlerhakan/rapid) - 一个简单的查询仪表板，用于使用Docker Remote API [@ozlerhakan](https://github.com/ozlerhakan/)
 - [Seagull](https://github.com/tobegit3hub/seagull)   - 用于监控docker守护程序的友好Web UI.  通过 [@tobegit3hub](https://github.com/tobegit3hub)
@@ -314,7 +315,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [amicontained](https://github.com/genuinetools/amicontained)   - 容器内省工具.  找出正在使用的容器运行时以及[@genuinetools] [genuinetools]提供的功能
 - [autodock](https://github.com/prologic/autodock) -  Docker Automation的守护进程 [@prologic](https://github.com/prologic)
-- [Chaperone](https://github.com/garywiz/chaperone) - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by [@garywiz](https://github.com/garywiz)
+- [Chaperone](https://github.com/garywiz/chaperone)   - 为docker容器设计的单个PID1进程.  用户管理，日志管理，启动，僵尸收获，都在一个小包装中.  通过 [@garywiz](https://github.com/garywiz)
 -  [CoreOS] [coreos]  - 用于大规模服务器部署的Linux
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 通过[@GoogleContainerTools] [googlecontainertools]减去语言的码头图像，减去操作系统
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - 一个超级小型Docker基础图像_（5MB）_使用Alpine Linux by [@gliderlabs] [gliderlabs]
@@ -409,6 +410,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) - 存储库专注于在GitLab CI中使用它
 - [Harbor](https://github.com/goharbor/harbor)  一种开源可信云本机注册表项目，用于存储，签名和扫描内容.  支持复制，用户管理，访问控制和活动审核.  通过 [CNCF](https://github.com/veggiemonk/awesome-docker/blob/master/Sandbox) 以前 [VMWare](https://github.com/vmware)
 - [JFrog Artifactory :heavy_dollar_sign:](https://jfrog.com/artifactory/) -  Artifact Repository Manager，也可以用作私有Docker Registry
+- [Kraken](https://github.com/uber/kraken) -  Uber的高度可扩展的P2P docker注册表，能够在几秒钟内分发TB数据.
 - [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - 专用的Conainer注册服务，具有无限的私有存储库，用户，团队，命名空间以及企业级认证LDAP / AD / OAuth / SAML.
 - [Quay.io :heavy_dollar_sign:](https://quay.io/) （CoreOS的一部分） - 为私有Docker存储库提供安全托管
 - [Rescoyl](https://github.com/noteed/rescoyl) - 私人Docker注册表（免费和开源） [@noteed](https://github.com/noteed)
@@ -421,13 +423,13 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [ahab](https://github.com/instacart/ahab) - 使用Python的Docker事件处理 [@instacart](https://github.com/instacart)
 - [clj-docker-client](https://github.com/lispyclouds/clj-docker-client)  ：构造： -  Docker远程API的惯用语Clojure客户端.  通过 [@lispyclouds](https://github.com/lispyclouds)
-- [Docker Client for JVM](https://github.com/gesellix/docker-client) - 用于JVM的Docker远程api客户端库，由[@gesellix] [gesellix]用Groovy编写
+- [Docker Client for JVM](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix][gesellix]
 - [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client)   - 用于JavaScript的Docker API客户端，从moby存储库中的Swagger API定义自动生成.  通过 [@masaeedu](https://github.com/masaeedu)
 - [docker-client](https://github.com/spotify/docker-client)   -  Docker远程API的Java客户端.  通过[@spotify] [spotify]
 - [docker-it-scala](https://github.com/whisklabs/docker-it-scala) - 与Scala by的Docker集成测试工具包 [@whisklabs](https://github.com/whisklabs)
 - [docker-java-api](https://github.com/amihaiemil/docker-java-api)   - 用于Docker API的轻量级，真正面向对象的Java客户端.  通过 [@amihaiemil](https://github.com/amihaiemil)
 - [docker-maven-plugin](https://github.com/fabric8io/docker-maven-plugin) - 用于运行和创建Docker镜像的Maven插件 [@fabric8io](https://github.com/fabric8io)
-- [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
+- [Docker-PowerShell](https://github.com/Microsoft/Docker-PowerShell) -  Docker的PowerShell模块
 - [Docker.DotNet](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan](https://github.com/veggiemonk/awesome-docker/blob/master/ahmetalpbalkan)
 - [dockerfile-maven](https://github.com/spotify/dockerfile-maven) - 用于构建和推送Docker镜像的Maven插件[@spotify] [spotify]
 - [dockerode](https://github.com/apocas/dockerode) -  Docker Remote API node.js模块 [@apocas](https://github.com/apocas)
@@ -445,7 +447,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Captain](https://github.com/harbur/captain) - 将您的Git工作流转换为Docker容器，准备进行持续交付 [@harbur](https://github.com/harbur).
 - [Cyclone](https://github.com/caicloud/cyclone) - 强大的工作流引擎和端到端管道解决方案，使用原生Kubernetes资源实现 [@caicloud](https://github.com/caicloud).
 - [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) -  docker插件的目的是能够使用docker主机动态配置slave，运行单个构建，然后拆除该slave.
-- [Dockupdater](https://github.com/dockupdater/dockupdater) - Automatically keep your docker services and your docker containers up-to-date
+- [Dockupdater](https://github.com/dockupdater/dockupdater) - 自动使您的泊坞窗服务和泊坞窗容器保持最新状态
 - [Drone](https://github.com/drone/drone) - 基于Docker构建的持续集成服务器，使用YAML文件进行配置.
 - [GitLab Runner](https://gitlab.com/gitlab-org/gitlab-runner) -  GitLab已经集成了CI，可以使用GitLab运行程序来测试，构建和部署您的代码.
 - [GOCD-Docker](https://github.com/gocd/gocd-docker)在docker容器中转到Server和Agent以进行配置.
@@ -619,6 +621,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Lynis is an open source security auditing tool including Docker auditing](https://cisofy.com/lynis/)
 - [Security Best Practices for Building Docker Images](https://linux-audit.com/tag/docker/)
 - [Software Engineering Radio interview of Docker Security Team Lead (Diogo Mónica)](http://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/)
+- [Ten Docker Image Security Best Practices Cheat Sheet](https://snyk.io/blog/10-docker-image-security-best-practices/)
 - [Top ten most popular docker images each contain at least 30 vulnerabilities](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/)
 - [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)
 - [Understanding Docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/) （2015年5月5日写）

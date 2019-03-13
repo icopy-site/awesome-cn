@@ -26,7 +26,7 @@
 ## Parsers
 
 - [Babel](https://github.com/babel/babel-eslint) - 使用Babel的解析器来绘制所有Babel特征.
-- [TypeScript](https://github.com/eslint/typescript-eslint-parser) -  TypeScript解析器，生成与ESLint兼容的输出.
+- [TypeScript](https://github.com/typescript-eslint/typescript-eslint) -  TypeScript解析器，生成与ESLint兼容的输出.
 - [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku)   - 用于Roku开发的BrightScript插件.  包括解析器和规则.
 
 ## Plugins
@@ -76,13 +76,14 @@
 
 ### Practices
 
-- [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - 使用es2015数组方法和函数时避免冗余.
+- [array-func](https://github.com/freaktechnik/eslint-plugin-array-func) - 使用es2015阵列方法和函数时避免冗余.
+- [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) -  ESLint规则以确保正确的箭头函数定义.
 - [fp](https://github.com/jfmengels/eslint-plugin-fp) - 函数式编程的ESLint规则.
 - [Immutable](https://github.com/jhusain/eslint-plugin-immutable) - 禁用JavaScript中的所有突变.
 - [JSX a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -  JSX元素的可访问性规则.
 - [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) - 要求使用`new`抛出错误.
 - [no-inferred-method-name](https://github.com/johnstonbl01/eslint-no-inferred-method-name) -  ESLint的自定义规则，用于检查对象文字中的推断方法名称.
-- [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 这是2017年，你仍然使用循环？
+- [no-loops](https://github.com/buildo/eslint-plugin-no-loops) - 这是2019年，你仍然使用循环？
 - [no-use-extend-native](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - 防止使用扩展的本机对象.
 - [Promise](https://github.com/xjamundx/eslint-plugin-promise) - 使用承诺时的最佳做法.
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的ESLint规则.

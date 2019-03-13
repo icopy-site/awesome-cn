@@ -220,7 +220,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台上的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -  MiniPac是Pacman的儿童友好ascii角色版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以Windows，Mac OS-X和GNU Linux运行的足球主题3D推箱子益智游戏.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏. 
+- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre. 
 
 
 ## Frameworks
@@ -255,7 +255,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) -  AWS是在Ada中开发基于Web的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)   -  Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多可供使用和可扩展的模块，这些模块是许多Web应用程序所共有的.  这包括登录，身份验证，用户，权限，管理评论，标签，投票，文档，图像.
+- [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似hibernate的XML描述，YAML原则模型或UML模型生成Ada Web应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -  Ada Wiki是一个提供Wiki引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护Web应用程序的OAuth 2.0客户端和服务器框架.
@@ -299,7 +299,7 @@
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - 该软件包允许正式操作多个变量的多项式.
 - [numerics](https://github.com/Entomy/Numerics) - 为Ada中的数字处理提供了大量改进，主要通过其他类型.
 - [mathematics](https://github.com/Entomy/Mathematics) - 收集数学的Ada包，包括分配代数，角代数等等.
-- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - A library to plot functions of two real variables.
+- [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - 用于绘制两个实变量函数的库.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - 一组Ada包，用于完全通用的尺寸项目进行计算.
 
 #### Algorithms, Containers and Protocols
@@ -316,7 +316,7 @@
 - [sip-hash](https://github.com/grim7reaper/SipHash) -  SipHash PRF的纯Ada实现.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) -  Ada的语言服务器协议.
 - [ada-lsp-client](https://github.com/Alex-Gamper/Ada-LanguageServer) -  LSP客户端的原型实现 -  Visual Studio 2017.
-- [ada-language-server](https://github.com/AdaCore/ada_language_server) - Prototype implementation of the Microsoft Language Server Protocol for Ada/SPARK.
+- [ada-language-server](https://github.com/AdaCore/ada_language_server) -  Ada / SPARK的Microsoft语言服务器协议的原型实现.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - 提供引用计数访问类型Smart_Pointer的包.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - 由佛罗里达州立大学超级计算机计算研究所George Marsaglia开发的算法的Ada实现.
 - [containers](https://github.com/Entomy/Containers) - 为Ada收集容器.
@@ -334,6 +334,7 @@
 - [deepend](https://sourceforge.net/projects/deepend/) -  Deepend是一个存储池，具有Ada 2012，Ada 2005和Ada 95的子池功能.
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) -  Charles是Ada 95容器库，是Ada 2005+标准容器的前身.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -  Ada中的简单区块链.
+- [fletcher](https://github.com/darkestkhan/fletcher) -  fletcher_16校验和计算算法的简单实现.
 
 #### Patterns
 - [ada-promises](https://github.com/briot/Ada-promises)   - 在Ada中实施承诺.  类型安全，高效，线程安全.
@@ -363,13 +364,13 @@
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) - 用于从Ada程序发出XML的库.
 - [spark-xml](https://github.com/Componolit/SXML) -  SPARK中经过正式验证的XML库.
 - [excel-writer](http://excel-writer.sourceforge.net) - 使用基本格式创建Excel文件.
-- [generic-image-decoder](http://gen-img-dec.sourceforge.net/) -  Ada的多格式图像解码器库.
+- [generic-image-decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada.
 - [zip-ada](http://unzip-ada.sourceforge.net/) -  Zip-Ada是一个用于处理Zip压缩归档文件格式的编程库.
 - [apdf](https://apdf.sourceforge.io/) -  Ada软件包，用于从Ada程序生成轻松自动的PDF文件，文本，矢量图形，图像（JPEG）.
 - [ada-midi](https://github.com/frett27/Ada-Midi) - 实施Midi / MidiFile阅读和写作.
 - [ada-bar-codes](https://sourceforge.net/projects/ada-bar-codes) -  Ada Bar Codes提供了一个包，用于生成不同输出格式的各种类型的条形码（1D或2D，如QR码），如PDF或SVG.
 - [ada-bin2asc](https://github.com/jhumphry/Ada_BinToAsc) - 各种二进制到ASCII编解码器，如Base64.
-- [abf-io](https://github.com/gerr135/abf_io) - A library of access routines to Axon's ABF file format (electrophysiology, most common) in Ada.
+- [abf-io](https://github.com/gerr135/abf_io) -  Ada中Axon的ABF文件格式（电生理学，最常见）的访问例程库.
 
 #### Network
 - [anet](https://www.codelabs.ch/anet/) -  Anet是Ada编程语言的网络库.
@@ -490,7 +491,7 @@
 - [ada-base](http://jrmarino.github.io/AdaBase/) - 用Ada编写的MySQL，PostgreSQL和SQLite的厚数据库绑定.
 - [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) -  APQ是一个用Ada95编写的数据库接口库.
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) -  CUDA / Ada是一个绑定NVIDIA的CUDA并行计算平台和编程模型的Ada.
-- [dbus-ada](https://codelabs.ch/dbus-ada/index.html) - The D_Bus/Ada library provides an Ada binding to the D-Bus message bus system.
+- [dbus-ada](https://codelabs.ch/dbus-ada/index.html) -  D_Bus / Ada库提供与D-Bus消息总线系统的Ada绑定.
 - [opus-ada](https://github.com/onox/opus-ada) -  Ada 2012绑定Opus音频编解码器.
 - [opengl-ada](http://flyx.github.io/OpenGLAda/) -  OpenGL和GLFW的厚Ada绑定.
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - 用于OpenCL主机API的Ada绑定.

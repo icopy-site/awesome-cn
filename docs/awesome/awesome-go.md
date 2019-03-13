@@ -76,7 +76,7 @@
 * [go-chat-bot](https://github.com/go-chat-bot/bot) - 用Go编写的IRC，Slack和Telegram机器人.
 * [go-sarah](https://github.com/oklahomer/go-sarah) - 为期望的聊天服务构建机器人的框架，包括LINE，Slack，Gitter等.
 * [go-tgbot](https://github.com/olebedev/go-tgbot) -  Pure Golang Telegram Bot API包装器，由swagger文件，基于会话的路由器和中间件生成.
-* [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - 用于加密货币交换的基于控制台的交易机器人的golang实现.
+* [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) - 用于加密货币交换的基于控制台的交易机器人的Golang实现.
 * [govkbot](https://github.com/nikepan/govkbot) - 简单的去 [VK](https://vk.com) 机器人库.
 * [hanu](https://github.com/sbstjn/hanu) - 编写Slack机器人的框架.
 * [margelet](https://github.com/zhulik/margelet) - 构建电报机器人的框架.
@@ -149,6 +149,7 @@
 * [mpb](https://github.com/vbauerster/mpb) - 终端应用程序的多进度条.
 * [progressbar](https://github.com/schollz/progressbar) - 适用于每个操作系统的基本线程安全进度条.
 * [simpletable](https://github.com/alexeyco/simpletable) - 带Go的终端中的简单表格.
+* [tabby](https://github.com/cheynewallace/tabby) - 一个用于超级简单Golang表的小型库.
 * [tabular](https://github.com/InVisionApp/tabular) - 从命令行实用程序打印ASCII表，而无需将大量数据传递给API.
 * [termbox-go](https://github.com/nsf/termbox-go) -  Termbox是一个用于创建跨平台基于文本的界面的库.
 * [termdash](https://github.com/mum4k/termdash) - 基于** termbox-go **的终端仪表板，并受到启发 [termui](https://github.com/gizak/termui).
@@ -901,7 +902,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [alice](https://github.com/magic003/alice) -  Golang的附加依赖注入容器.
 * [dig](https://github.com/uber-go/dig) -  Go的基于反射的依赖注入工具包.
-* [fx](https://github.com/uber-go/fx) -  Go的基于依赖注入的应用程序框架（建立在挖掘之上）. 
+* [fx](https://github.com/uber-go/fx) - 基于依赖注入的Go应用程序框架（建立在挖掘之上）. 
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
 
 ### Strings
@@ -1034,7 +1035,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [NFF-Go](https://github.com/intel-go/nff-go) - 为云和裸机（前YANFF）快速开发高性能网络功能的框架.
 * [packet](https://github.com/aerogo/packet)   - 通过TCP和UDP发送数据包.  如果需要，它可以缓冲消息和热交换连接.
 * [peerdiscovery](https://github.com/schollz/peerdiscovery) - 使用UDP多播进行跨平台本地对等体发现的Pure Go库.
-* [portproxy](https://github.com/aybabtme/portproxy) - 简单的TCP代理，它为不支持它的API增加了CORS支持.
+* [portproxy](https://github.com/aybabtme/portproxy) - 简单的TCP代理，它为不支持它的API添加了CORS支持.
 * [publicip](https://github.com/polera/publicip) - 包publicip返回面向公众的IPv4地址（互联网出口）.
 * [quic-go](https://github.com/lucas-clemente/quic-go) - 纯Go中QUIC协议的实现.
 * [raw](https://github.com/mdlayher/raw) -  Package raw允许在设备驱动程序级别为网络接口读取和写入数据.

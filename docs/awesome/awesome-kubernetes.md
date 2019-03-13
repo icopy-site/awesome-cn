@@ -754,7 +754,7 @@ Projects
 ## Machine Learning
 
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
-* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - 为ML / MXNet工具是Kubernetes.
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
@@ -791,7 +791,7 @@ Projects
 
 * [Ark](https://github.com/heptio/ark) - 用于管理Kubernetes集群的备份和还原的实用程序.
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
-* [kube-backup](https://github.com/pieterlange/kube-backup) - 同步kubernetes状态饭桶.
+* [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
 覆盆子皮
 =======================================================================
@@ -825,6 +825,7 @@ Books
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
+* [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 
 幻灯片演示文稿
 =======================================================================
@@ -902,7 +903,7 @@ Videos
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb)在谷歌和谷歌Kubernetes引擎软件工程师
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，集团产品经理 -  Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
@@ -918,7 +919,7 @@ Videos
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)，Google员工开发人员代言人
 * [Kris Nova](https://github.com/kris-nova)，Kubicorn的创造者Heptio的工程师
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，Microsoft的软件工程师
-* [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Kubernetes在谷歌
+* [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Google的Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF成员董事会
 * [Tim Hockin](https://twitter.com/thockin)，Google高级职员SW工程师/工程经理
 
