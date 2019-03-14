@@ -99,6 +99,7 @@
 - [Juice](http://kylebrumm.com/juice/) - 收集Sass mixins和函数.
 - [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) -  Sass mixin，有助于管理代码弃用.
 - [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS / CSS库，用于美化复选框和单选按钮.
+- [csstyle](https://csstyle.io) - 一个SCSS库，可帮助您构建模块化CSS，为您生成选择器并自动处理特异性.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - 编写理智，可维护和可扩展Sass的指南.

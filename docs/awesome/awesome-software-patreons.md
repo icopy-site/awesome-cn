@@ -110,7 +110,7 @@ _Games和游戏相关的项目._
 
 - [Citybound](https://www.patreon.com/citybound) - 城市建设游戏.
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于Windows的Xbox模拟器.
-- [Libretro Team](https://www.patreon.com/libretro) -  Libretto，RetroArch和Lakka. 
+- [Libretro Team](https://www.patreon.com/libretro) -  Libretro，RetroArch和Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - 游戏发射器和平台.
 - [Rpcs3](https://www.patreon.com/Nekotekina) -  PS3模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) -  Xbox 360模拟器.
@@ -191,6 +191,7 @@ _文章，视频，播客等......
 
 ### Videos
 
+- [Arxiv Insights](https://www.patreon.com/ArxivInsights) - 关于机器学习和人工智能的教育视频.
 - [CS Dojo](https://www.patreon.com/csdojo) - 编程视频.
 - [Corey Schafer](https://www.patreon.com/coreyms) -  Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - 编程，开发和电子视频.

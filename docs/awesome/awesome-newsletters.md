@@ -26,6 +26,7 @@
 * [Web Development Reading List](https://wdrl.info) .  本通讯分享了Web开发的最新文章.
 * [Fullweb Weekly](http://fullweb.io/) .  针对fullstack Web开发人员的每周简报.  它每周向您发送有关Web前端和后端，devops和用户体验的前5个链接.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周简报，讨论围绕网络平台的有趣和热门话题.
+* [Dev Awesome](https://devawesome.io/) .  每两周在您的收件箱中获取最新的节目新闻，酷图书馆和生产力提示.
 
 ### JavaScript
 * [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
@@ -74,14 +75,14 @@
 * [Sidebar](https://sidebar.io) .  每天五个以设计为中心的帖子.
 * [Web Designer News](https://www.webdesignernews.com) .  为设计师策划的故事.
 * [Responsive Design Weekly](http://responsivedesignweekly.com) .  免费，每周一次的响应式设计文章，工具，提示，教程和鼓舞人心的链接.
-* [UX Weekly](http://uxwkly.com/) .  每周约五个链接的小型时事通讯，阅读能力一直很好.
+* [UX Weekly](http://uxwkly.com/) .  每周约五个链接的小型时事通讯，一直有良好的阅读能力.
 * [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  有关尼尔森诺曼集团的界面可用性，网站设计和用户体验研究的最新文章.
 * [UI Movement](https://uimovement.com) .  只有最好的UI设计灵感，就在您的收件箱中.
 * [Designer News](https://www.designernews.co) .  设计界在哪里见面.
 * [Design Faves](https://www.designfaves.com/) .  每日帖子和独家文章结合了品牌，艺术和平面设计界的最佳现代表达和创新.
 * [Hack Design](https://hackdesign.org) .  一个易于遵循的设计课程，适合那些做出惊人事情的人.
 * [Hacking UI](http://hackingui.com/) .  每周精心挑选的前端开发人员和产品经理资源.
-* [eWebDesign](https://ewebdesign.com/) .  来自行业专家的最新网络新闻和文章.
+* [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 * [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI动画新闻简报可让您及时了解最佳网络动画，动画设计和用户体验资源.
 * [Web Animation Weekly](http://webanimationweekly.com/) .  精选的文章，视频，书评和其他有关网页动画和动画设计精彩世界的好东西！
 * [Design Systems News](http://news.design.systems/) .  关于设计系统，模式库和风格指南的最新新闻，文章，回购，代码，框架，视频和播客. [Archive](http://news.design.systems/issues).
@@ -119,7 +120,7 @@
 ### Swift
 * [Swift Newsletter](https://swiftweekly.com/) .  代码示例，教程，截屏等等，以学习Apple的新编程语言.
 * [Swift Weekly Brief](https://swiftweekly.github.io) .  关于Swift.org的社区驱动每周简报.  由Jesse Squires策划，每周四免费发布.
-* [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter). A curated list of awesome swift libraries and resources.
+* [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) .  精选的swift库和资源的精选列表.
 
 ### Go
 * [Go Newsletter](https://golangweekly.com/) .  关于Go编程语言的每周简报.
@@ -205,7 +206,7 @@
 
 ### NoSQL
 * [NoSQL Weekly](https://www.nosqlweekly.com/) .  免费的每周时事通讯，内容包括与NoSQL相关的策划新闻，文章，新版本，工作等.
-* [mongoDB Weekly](https://mongodb.email/) .  每周一次的免费电子邮件综合MongoDB新闻和文章.
+* [mongoDB Weekly](https://mongodb.email/) .  MongoDB新闻和文章的免费每周一次的电子邮件汇总.
 
 ## Backend Development
 ### Docker
@@ -289,12 +290,12 @@
 * [Changelog Nightly](https://changelog.com/nightly) .  每天晚上10点CT发一封电子邮件，发现GitHub上最热门的新回购.
 * [Code Cartoons](https://tinyletter.com/codecartoons) .  通过电子邮件通过漫画学习代码.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) .  可以在本地托管的免费软件解决方案和Web应用程序的目录.
-* [lkml.wtf](https://lkml.wtf/) .  每周一次的Linux内核邮件列表线程综述，但有更多的讽刺.
+* [lkml.wtf](https://lkml.wtf/) .  Linux内核邮件列表线程的每周综述，但有更多的讽刺.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
 * [Now I Know](http://nowiknow.com/) .  每日免费电子邮件，以简洁的文摘提供琐事.
 * [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
-* [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
-* [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
+* [tl;dr Marketing](https://tldrmarketing.com/) .  每周一次的数字营销新闻通讯，涵盖SEO，PPC和社交媒体的新闻.
 * [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 * [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 * [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.

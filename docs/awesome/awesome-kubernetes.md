@@ -15,7 +15,7 @@ Awesome-Kubernetes
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 
-> "Talent wins games, but teamwork and intelligence wins championships."
+&gt;“人才赢得比赛，但团队合作和智力赢得冠军.”
 >
 &gt;  - 迈克尔乔丹
 
@@ -262,9 +262,7 @@ Installers
   - [Kqueen](https://github.com/Mirantis/kqueen)
 
 
-  - [Fabric8](http://fabric8.io) - 具有CD功能的集成开发平台
   - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
-  - [OpenShift.io](https://openshift.io) - 托管Fabric8与Che和Jenkins CI集成
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [Mantl](https://github.com/mantl/mantl)
   - [goPaddle](http://www.gopaddle.io)
@@ -318,7 +316,7 @@ Installers
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Magic Sandbox](https://magicsandbox.com/)
 
-MOOC课程/教程
+MOOC Courses / Tutorials
 =======================================================================
 
 *可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
@@ -555,7 +553,7 @@ Projects
 
 * [Scheduler](https://github.com/kelseyhightower/scheduler) - 基于成本的调度程序
 * [Sticky Node Scheduler](https://github.com/philipn/kubernetes-sticky-node-scheduler)
-* [ksched](https://github.com/coreos/ksched) - Experimental flow based scheduler
+* [ksched](https://github.com/coreos/ksched) - 基于实验流程的调度程序
 * [escheduler](https://github.com/agonzalezro/escheduler) - 写在长生不老药
 * [bashScheduler](https://github.com/rothgar/bashScheduler) - 用bash写
 
@@ -900,7 +898,7 @@ Videos
 * [Sysdig](https://twitter.com/sysdig)
 
 
-神奇的人
+Amazing People
 =======================================================================
 
 * [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师

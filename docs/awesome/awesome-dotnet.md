@@ -50,7 +50,7 @@
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) -  Mono.Addins是一个通用框架，用于创建可扩展应用程序，以及创建扩展这些应用程序的加载项
 * [peasy](https://github.com/peasy/Peasy.NET) -  Peasy是一个中间层框架，提供易于使用和灵活的规则引擎，旨在解决常见的挑战，如并发处理，事务支持，容错，线程，可伸缩性，异步和多客户端支持，以及易于测试，所有没有巨大的学习曲线！
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
 * [DotNetty](https://github.com/Azure/DotNetty) -  DotNetty是Netty的一个端口，它是异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework)   -  AspectCore Framework是面向方面编程的.NET Core和.NET Framework跨平台框架.  对方面拦截器，依赖注入集成，Web应用程序，数据验证等的核心支持.
 * [Ether.Network](https://github.com/Eastrall/Ether.Network) -  Ether.Network是一个开源网络库，允许开发人员通过TCP / IP协议创建简单，快速和可扩展的套接字服务器或客户端应用程序.
@@ -92,7 +92,7 @@
 * [IdentityModel](https://github.com/IdentityModel) - 用于.NET 4.5和MVC4 / Web API中的身份和访问控制的帮助程序库.
 * [IdentityServer](https://github.com/IdentityServer) - 可扩展的OAuth2和OpenID Connect提供程序框架.
 * [OAuth](https://github.com/danielcrenna/vault/tree/master/oauth) - 一个非常轻量级的库，用于生成用C编写的OAuth 1.0a签名#
-* [Stuntman](https://rimdev.io/stuntman/) -  Stuntman是一个利用.NET声明身份在开发过程中模拟用户的库.
+* [Stuntman](https://rimdev.io/stuntman/) - Stuntman is a library for impersonating users during development leveraging .NET Claims Identity.
 
 ## Books
 
@@ -135,7 +135,7 @@
 
 * [Appccelerate - Command Line Parser](https://www.appccelerate.com/commandlineparser.html) - 具有流畅定义语法，不同参数类型，必需和可选参数，值限制，别名，类型转换和半自动使用帮助消息组合的命令行解析器
 * [Argu](https://github.com/fsprojects/Argu) - Declarative CLI argument & XML configuration parser for F# applications.
-* [clipr](https://github.com/nemec/clipr)   - 受Python的argparse启发的CLI库，它将命令行转换为强类型对象.  它支持自定义参数类型，自动（和本地化）帮助生成，以及存储已解析参数的各种方法.
+* [clipr](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 * [CliWrap](https://github.com/Tyrrrz/CliWrap) - 用于命令行界面的包装器.
 * [Colorful.Console](https://github.com/tomakita/Colorful.Console) - 丰富多彩的控制台输
 * [Command Line Parser](https://github.com/commandlineparser/commandline) - 命令行分析器库为CLR应用程序提供了一个简洁的API，用于操作命令行参数和相关任务
@@ -144,7 +144,7 @@
 * [EntryPoint](https://github.com/Nick-Lucas/EntryPoint) - 适用于.NET Core和.NET Framework 4.5+的可组合CLI参数解析器.
 * [Fluent Command Line Parser](https://github.com/fclp/fluent-command-line-parser) - A simple, strongly typed .NET C# command-line parser library using a fluent easy to use interface
 * [Gui.cs](https://github.com/migueldeicaza/gui.cs) - 适用于.NET的终端UI工具包.
-* [Power Args](https://github.com/adamabdelhamed/PowerArgs)   -  PowerArgs将命令行参数转换为易于编程的.NET对象.  它还提供了大量可选功能，例如参数验证，自动生成的使用，选项卡完成以及充足的可扩展性
+* [Power Args](https://github.com/adamabdelhamed/PowerArgs) - PowerArgs converts command-line arguments into .NET objects that are easy to program against. It also provides a ton of optional capabilities such as argument validation, auto generated usage, tab completion, and plenty of extensibility
 * [ReadLine](https://github.com/tonerdo/readline) - 用于.NET / .NET Core的GNU-Readline库.
 * [RunInfoBuilder](https://github.com/rushfive/RunInfoBuilder) - 一个独特的命令行解析器，利用对象树来执行命令.
 * [SharpNetSH](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
@@ -155,7 +155,7 @@
 
 ## CMS
 
-* [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - A web CMS that focus on UX and adaptability
+* [Composite C1](https://github.com/Orckestra/C1-CMS-Foundation) - 专注于用户体验和适应性的Web CMS
 * [N2CMS](https://github.com/n2cms/n2cms) - 开源，轻量级，代码优先的CMS，能够无缝集成到任何MVC项目中.
 * [Orchard ](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [Piranha CMS](https://github.com/PiranhaCMS/Piranha)   -  Piranha是一个有趣，快速和轻量级的.NET框架，用于开发基于cms的Web应用程序.  它基于ASP.NET MVC和Web页面，与Visual Studio和WebMatrix完全兼容.  https://piranhacms.org
@@ -203,7 +203,7 @@
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 * [LinqOptimizer](https://github.com/nessos/LinqOptimizer) - 用于顺序和并行LINQ的自动查询优化器编译器
 * [Roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
-* [Iron python](https://github.com/IronLanguages/ironpython2) - 与dot net框架集成的python 2实现.
+* [Iron python](https://github.com/IronLanguages/ironpython2) - A python 2 implementation that is integrated with the dot net framework.
 
 ## Compression
 
@@ -224,7 +224,7 @@
 * [HashLib](https://archive.codeplex.com/?p=hashlib) -  HashLib是几乎所有哈希算法的集合，它几乎支持所有内容并且非常易于使用
 * [libsodium-net](https://github.com/adamcaudill/libsodium-net) -  libsodium for .NET  - 一个安全的加密库
 * [Pkcs11Interop](https://github.com/Pkcs11Interop/Pkcs11Interop) - Managed .NET wrapper for unmanaged PKCS#11 libraries that provide access to the cryptographic hardware
-* [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf
+* [StreamCryptor](https://github.com/bitbeans/StreamCryptor) - 使用libsodium和protobuf进行流加密和解密
 * [SecurityDriven.Inferno](https://github.com/sdrapkin/SecurityDriven.Inferno)   -  .NET加密库.  专业审计.
 
 ## Database
@@ -235,7 +235,7 @@
 * [RavenDB](https://github.com/ravendb/ravendb) - 用于.NET的支持LINQ的文档数据库
 * [Marten](https://github.com/JasperFx/marten) -  PostgreSQL作为.NET应用程序的文档数据库和事件存储
 * [Realm Xamarin](https://github.com/realm/realm-dotnet) -  SQLite和ORM的快速，易用的替代方法 -  https://realm.io/docs/dotnet/latest/
-* [Streamstone](https://github.com/yevhen/Streamstone) -  Azure表存储的事件存储
+* [Streamstone](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite](https://github.com/apache/ignite)   - 分布式内存平台：具有SQL和LINQ支持的文档数据库;  分布式计算;  分布式服务和事件.
 * [Yessql](https://github.com/sebastienros/yessql) - 适用于任何RDBMS的.NET文档数据库
 * [JsonFlatFileDataStore](https://github.com/ttu/json-flatfile-datastore) - 简单的JSON平面文件数据存储，支持打字和动态数据
@@ -408,7 +408,7 @@
 * [ScintillaNET](https://github.com/jacobslusser/ScintillaNET) - 用于Scintilla文本编辑器组件的Windows窗体控件（Scintilla由Notepad ++使用）
 * [FastColoredTextBox](https://github.com/PavelTorgashov/FastColoredTextBox)   -  Fast Colored TextBox是.NET的文本编辑器组件.  允许您使用语法突出显示创建自定义文本编辑器.  它适用于小型，中型，大型和非常大的文件.
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 多平台.NET UI框架（以前称为Perspex）.
-* [Modern UI for WPF - MUI](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
+* [Modern UI for WPF - MUI](https://github.com/firstfloorsoftware/mui) - 一组控件和样式，可将WPF应用程序转换为漂亮的现代UI应用程序.
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单，直接，超薄的CLR库，用于高性能Win32 Native Interop，具有自动化，窗口，DirectX，OpenGL和Skia助手.
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用HTML，CSS，javascript和MVVM绑定构建.NET桌面应用程序，例如使用WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - 一个小型跨平台UI库，可将本机UI开发的简单性带入Web
@@ -456,7 +456,7 @@
 * [ImageSharp](https://github.com/SixLabors/ImageSharp) - 完全托管的跨平台库，用于处理图像文件.
 * [DynamicImage](https://dynamicimage.apphb.com/) - 用于ASP.NET的高性能开源图像处理库.
 * [MetadataExtractor](https://github.com/drewnoakes/metadata-extractor-dotnet) - 从图像文件中提取Exif，IPTC，XMP，ICC和其他元数据.
-* [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
+* [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) -  OpenCV库的跨平台.NET包装器.
 * [DotImaging](https://github.com/dajuric/dot-imaging) - 简约的.NET成像便携式平台
 * [Magick.NET](https://github.com/dlemstra/Magick.NET) -  ImageMagick库的.NET包装器.
 * [OpenCvSharp](https://github.com/shimat/opencvsharp/) -  OpenCV for .NET Framework的跨平台包装器.
@@ -484,6 +484,8 @@
 * [PInvoke Interop Assistant](https://github.com/jaredpar/pinvoke-interop-assistant) - 将C转换为托管P / Invoke签名或经文签证.
 * [pinvoke](https://github.com/AArnott/pinvoke) - 包含最新Windows操作系统的P / Invoke代码的库.
 * [LegacyWrapper](https://github.com/CodefoundryDE/LegacyWrapper) -  LegacyWrapper使用包装器进程从相反体系结构（x86或AMD64）的进程调用DLL.
+* [Pyrolite](https://github.com/irmen/Pyrolite) - 该库允许您的Java或.NET程序非常容易地与之交互
+ Python世界.  它使用Pyro协议来调用远程对象上的方法.
 
 ## IoC
 
@@ -493,7 +495,7 @@
 * [DryIoc](https://github.com/dadhi/DryIoc) - 简单，快速的全功能IoC容器.
 * [Ninject](https://github.com/ninject/ninject) -  .NET依赖注入器的忍者
 * [StructureMap](https://structuremap.github.io/) -  .Net的原始IoC / DI容器
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
 * [Lamar](https://jasperfx.github.io/lamar/) - 一个快速的IoC容器，针对ASP.NET Core和其他.NET服务器端应用程序的使用进行了大量优化.
 * [LightInject](https://github.com/seesharper/LightInject) - 超轻量级IoC容器
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) -  Simple Injector是一个易于使用的.NET 4+依赖注入（DI）库，支持Silverlight 4 +，Windows Phone 8，Windows 8，包括Universal应用程序和Mono.
@@ -786,7 +788,7 @@
 
 * [Stateless](https://github.com/dotnet-state-machine/stateless) - 直接在.NET代码中创建状态机和基于状态机的轻量级工作流
 * [Automatonymous](https://github.com/MassTransit/Automatonymous) -  .NET的状态机库 - 允许您编写流畅的样式状态机
-* [Appccelerate - State Machine](https://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent API and synchrounous and asynchronous state transition support
+* [Appccelerate - State Machine](https://www.appccelerate.com/statemachine.html) - 功能强大的状态机库 - 配置了流畅的API和同步和异步状态转换支持
 * [LiquidState](https://github.com/prasannavl/LiquidState) - 用于.NET的高效异步和同步状态机
 
 ## Static Site Generators
@@ -828,7 +830,7 @@
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) -  .NET的动态模拟框架
 * [Shouldly](https://github.com/shouldly/shouldly) - 应该是一个断言框架，它专注于在断言失败时提供很好的错误消息，同时简单而简洁.
 * [SpecFlow](https://github.com/techtalk/SpecFlow/) - 将业务需求绑定到.Net代码
-* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) -  .NET Core项目的变异测试
+* [Stryker.NET](https://github.com/stryker-mutator/stryker-net) - Mutation testing for .NET Core projects
 * [xBehave.net](https://github.com/xbehave/xbehave.net) -  xUnit.net扩展，用于使用自然语言描述您的测试. [https://xbehave.github.io](https://xbehave.github.io)
 * [xUnit.net](https://github.com/xunit/xunit) - 面向.NET Framework的免费，开源，以社区为中心的单元测试工具. [https://xunit.github.io/](https://xunit.github.io/)
 * [Canopy](https://github.com/lefthandedgoat/canopy) - Canopy is a free, open source F# web automation and testing framework
@@ -866,7 +868,7 @@
 
 * [Web Essentials](https://github.com/madskristensen/WebEssentials2013) -  Web Essentials扩展了Visual Studio，它具有Web开发人员多年来一直缺少的许多新功能
 * [VsVIM](https://github.com/jaredpar/VsVim) -  Visual Studio中的VIM
-* [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) -  NuGet是Microsoft开发平台（包括.NET）的包管理器
+* [Nuget Package Manager](https://marketplace.visualstudio.com/items?itemName=NuGetTeam.NuGetPackageManager) - NuGet is the package manager for the Microsoft development platform including .NET
 * [SideWaffle](https://github.com/ligershark/side-waffle) -  Visual Studio 2012/2013的项目模板集合，使任何Web开发人员的生活变得更加轻松
 * [Resharper](https://www.jetbrains.com/resharper/) -  Visual Studio的开发人员生产力工具** [$] **
 * [Refactoring Essentials](http://vsrefactoringessentials.com/) - Open source extension for C# and VB.NET refactorings, including code best practice analyzers.
@@ -934,7 +936,7 @@
 * [.NET-libraries-that-make-your-life-easier](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - 开源.NET库，让您的生活更轻松
 * [awesome-LINQ](https://github.com/aloisdg/awesome-linq) - 精选的LINQ库，工具等的精选集合.
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) -  .NET Compiler Platform（“Roslyn”）诊断分析程序和代码修复程序的精选列表.
-* [C# Algorithms, Data Structures](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
+* [C# Algorithms, Data Structures](https://github.com/aalhour/C-Sharp-Algorithms) - 算法和数据结构实现的列表.
 * [Awesome .NET Core](https://github.com/thangchung/awesome-dotnet-core) - 一系列令人敬畏的.NET核心库，工具，框架和软件
 * [ASP.NET Core Library and Framework Support](https://github.com/jpsingleton/ANCLAFS) -  ASP.NET Core和.NET Core当前支持的.NET库和框架列表.
 * [Awesome .NET Performance](https://github.com/adamsitnik/awesome-dot-net-performance) - 精选的.NET Performance书籍，课程，培训，会议讲座，博客和最鼓舞人心的开源贡献者的精选列表.

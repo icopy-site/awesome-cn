@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="sindresorhus/amas"></div>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →问我什么
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
 #### Ask these people anything!
 
@@ -31,7 +31,7 @@
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - 几何流浪汉.
 - [Drew Minns](https://github.com/drewminns/ama)   - 设计师/开发人员和教育者.  首席开发人员和讲师 [HackerYou](http://hackeryou.com).
 - [Heather Payne](https://github.com/heatherpayne/ama) - 首席执行官 [HackerYou](http://hackeryou.com)，创始人 [Ladies Learning Code](http://ladieslearningcode.com).
-- [Ryan Christiani](https://github.com/Rchristiani/ama) - 首席讲师和开发人员 [HackerYou](http://hackeryou.com) 在多伦多.
+- [Ryan Christiani](https://github.com/Rchristiani/ama) - 首席讲师和开发人员 [HackerYou](http://hackeryou.com) in Toronto.
 - [Ahmad Nassri](https://github.com/ahmadnassri/ama) - 工程主管 [Mashape](https://www.mashape.com) .  技术企业家和狗情人.  多伦多✈旧金山.
 - [Patty Delgado](https://github.com/partydelgado/ama) - 工程领导 [Refinery29](http://www.refinery29.com) .  Avid导师和开发者布道者，特别是针对女性和少数民族.
 - [Nicholas C. Zakas](https://github.com/nzakas/ama) -  Box的建筑师，作者，ESLint的创造者.
@@ -46,7 +46,7 @@
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) -  CSS妖精，Sass黑客，边缘精神.
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama)   -  Bitbucket的JavaScript.  做互联网的事情.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - 芬兰的CS＆SE大学学生.
-- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的书呆子.
+- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的神经质.
 - [Kyle Robinson Young](https://github.com/shama/ama) - 做东西，喜欢熊.
 - [Trent Oswald](https://github.com/therebelrobot/ama) - 网络事物的制造商 [@Mashape](http://mashape.com) 和 [nodejs/website](https://github.com/nodejs/iojs.org).
 - [Una Kravets](https://github.com/una/ama) - 前端开发人员，Sass事物，开发社区和开源设计.
@@ -61,7 +61,7 @@
 - [JD Ballard](https://github.com/Qix-/ama)   - 爱达荷州人，Chalk合作者，阳光烧伤我们.  喜欢假设，不喜欢蜜蜂.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - 充满激情的全栈开发人员，黑客入侵 [ArchLinux](https://www.archlinux.org/) .  完美主义者.  革命家.  创始人 [@RegexHQ](https://github.com/regexhq)，核心成员 [@JSTransformers](https://github.com/jstransformers) 和部分 [@dwylhq](https://twitter.com/dwylhq).
 - [Mohamad Jahani](https://github.com/mamal72/ama)   - 来自伊朗的软件开发人员，主要从事网络后端，\ n * nix服务器，电子设备和您可以想象的最酷的东西！  知识瘾君子，全天候阅读和工作.
-- [Justin Miller](https://github.com/incanus/ama) - Mobile lead at Mapbox, formerly Code Sorcery Workshop (Pukka/Meerkat), photographer, traveler.
+- [Justin Miller](https://github.com/incanus/ama) -  Mapbox的移动领导，以前的Code Sorcery Workshop（Pukka / Meerkat），摄影师，旅行者.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama)   -  Coder＆Rabbi（尽管很少在同一时间！）;  Grovo工程实践经理;  组织者，ShorePHP和NYPHP;  会议发言人;  导师.
 - [Graham Daniels](https://github.com/greydnls/ama) - 高级软件工程师 [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 - [Jeff Carouth](https://github.com/jcarouth/ama) - 领导平台工程师 [Liftopia](http://www.liftopia.com)，共同主持人 [Loosely Coupled Podcast](http://looselycoupled.info)，导师和会议发言人.
@@ -76,7 +76,7 @@
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - 用户界面领导 [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell](https://github.com/ChristopherBiscardi/snap-for-beginners) .  产品和工具的建造者.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - 工程师 [Mapbox](https://www.mapbox.com/)，的创造者 [Leaflet](http://leafletjs.com/) 和一堆 [other open source libraries](https://github.com/mourner/projects) .  构建交互式地图的未来.
 - [Claudio Procida](https://github.com/claudiopro/ama)   - 全栈Web开发人员，导师，传播者和演讲者.  对绘画和摄影充满热情.
-- [Zeno Rocha](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+- [Zeno Rocha](https://github.com/zenorocha/ama) - 开发者倡导者 [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt](https://github.com/kahlil/ama) -  JavaScript开发人员，组织KarlsruheJS，共同主持人 [Descriptive Podcast](http://descriptive.audio) 和 [Reactive Podcast](http://reactive.audio)，歌手.
 - [Vadim Demedes](https://github.com/vdemedes/ama) -  Node.js上瘾.
 - [Raymond Clanan](https://github.com/rclanan/ama) - 自由职业者全栈开发者 [Utopian Concept LLC](http://utopianconcept.com/).
@@ -159,6 +159,7 @@
 - [Emanuele Bartolesi](https://github.com/kasuken/ama)   - 全栈Web开发人员.  道德黑客.  初学者铁人三项运动员.
 - [Brad Garropy](https://github.com/bradgarropy/ama) -  Python DevOps at [Dell](https://www.delltechnologies.com) 白天，威士忌和JavaScript之夜.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
+- [Eduards Sizovs](https://github.com/sizovs/ama) - 软件架构师， [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi)，和 [conference organizer](https://devternity.com).
 
 #### Ask these organizations anything!
 

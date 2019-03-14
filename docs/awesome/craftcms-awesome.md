@@ -151,6 +151,8 @@
 - [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) 作者：Ryan Irelan / Mijingo
 - [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) 作者：Ryan Irelan / Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) 作者：Ryan Irelan / Mijingo
+-[Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) 作者Matt Stein
+
 
 ##### Publications
 - [The Guide to Craft CMS Development](https://gomasuga.com/course/craft-cms-guide) 作者：Ryan Masuga
@@ -251,6 +253,8 @@
 - [Plugins in Craft 3](https://mijingo.com/lessons/plugins-in-craft-3/) 作者：Ryan Irelan / Mijingo
 - [Tools for getting started with plugin development?](https://www.youtube.com/watch?v=DrT9tjkDeQY) 作者Ben Parizek / Straight Up Craft  -  2016年3月11日
 - [Writing Bulletproof Database Migrations](https://www.youtube.com/watch?v=FkdPiWVd8BI) 作者Ben Parizek / Straight Up Craft  -  2016年9月2日
+- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin)
+
 
 ##### Security
 - [Critical Updates and Craft CMS](https://www.youtube.com/watch?v=Fl1DZVHTFio) 作者Ben Parizek / Straight Up Craft  -  2016年9月2日

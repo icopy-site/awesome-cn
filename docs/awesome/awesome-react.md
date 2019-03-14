@@ -367,6 +367,7 @@
 * [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
 * [react-document-title - declarative, nested, stateful document.title](https://github.com/gaearon/react-document-title)
 * [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
+* [react-datepicker by @y0c - React DatePicker Library (Flexible, Reusable)](https://github.com/y0c/react-datepicker)
 * [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
 * [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
 * [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
@@ -1136,6 +1137,7 @@
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 * [Developing a React.js Edge](https://bleedingedgepress.com/developing-a-react-edge-2nd-edition/)
 * [Builder Book: Build a Full-stack JavaScript Web App from Scratch](https://builderbook.org/book)
+* [React Native in Action](https://www.manning.com/books/react-native-in-action)
 
 ---
 ### Demos

@@ -159,6 +159,8 @@
 - [Gumroad](https://gumroad.com/) - 销售工作的一体化解决方案.
 - [Payhip](https://payhip.com/) - 销售数字下载和会员资格的可嵌入方式
 - [Moltin](https://moltin.com/) - 为任何事物添加电子商务功能.
+- [Trolley](https://trolley.link/) - 为任何网站添加弹出式购物车 - 专为静态和JAMstack网站设计.
+
 
 ## Payments
  - [MoneyButton](https://www.moneybutton.com/) - 使用比特币（Satoshi的愿景）进行网站支付和捐赠.

@@ -15,7 +15,7 @@ _awesome_ Common Lisp库的精选列表.
  另有说明.  标有星号的那些：如此广泛而且
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
-such. Libraries denoted with a 👍 are the ones we like and want to
+ 这样.  用a表示的库是我们喜欢和想要的库
  在Awesome-cl列表中宣传.  他们证明了他们可以解决的问题
 比社区标准更好的问题，但他们不是
  广泛的，或不被认为是稳定的.  例如，我们更喜欢
@@ -84,7 +84,7 @@ Crypto
 ======
 
 *：明星： [Ironclad](https://github.com/sharplispers/ironclad)   -  Common Lisp的加密函数库.  不被认为是安全的，但对消息摘要功能仍然有用.  [外籍] [14].
-* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)   - 收集常见的加密快捷方式.  [艺术许可2.0] [51].
+* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [Artistic License 2.0][51].
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)   -  SSH客户端库.  [外籍] [14].
 
 Cryptocurrencies
@@ -554,7 +554,7 @@ HTML生成器和模板
    最简单的语法.  [MIT] [200].
 *：明星： [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
 *：明星： [Djula](https://github.com/mmontone/djula)   -  Django的Common Lisp模板引擎端口.  [外籍] [14].
-* [cl-markup](https://github.com/arielnetworks/cl-markup)   - 现代标记生成库.  [LLGPL] [8].
+* [cl-markup](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
 * [eco](https://github.com/eudoxia0/eco)   - 快速，灵活，设计师友好的模板引擎.  [外籍] [14].
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
 * [clip](https://shinmera.github.io/clip)   -  HTML模板处理器，其中模板以HTML编写.  [艺术许可2.0] [51].
@@ -616,7 +616,7 @@ Deployment
   使用SBCL或CCL和最新版本的Common Lisp项目的Docker镜像
   ASDF，Qlot和Roswell.
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)   - 基于CentOS或RHEL7的Source-to-Image构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有最新的SBCL和Quicklisp安装，SLIME或SLY集成，并允许通过环境变量进行自定义.  [AGPL] [89]
-* [deploy](https://shinmera.github.io/deploy) - A toolkit for binary deployment of Lisp applications, with extra support for foreign shared libraries. [Artistic License 2.0][51].
+* [deploy](https://shinmera.github.io/deploy)   - 用于Lisp应用程序二进制部署的工具包，以及对外部共享库的额外支持.  [艺术许可2.0] [51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)   - 使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 
 也可以看看 [Heliohost](https://www.heliohost.org/) 免费托管解决方案.
@@ -687,6 +687,9 @@ Others
 * [cl-async](https://github.com/orthecreedence/cl-async)   - 用于通用非阻塞编程的库.  [外籍] [14].
 * [erlangen](https://github.com/eugeneia/erlangen)   -  Clozure Common Lisp的分布式异步消息传递系统.  [GNU GPL3] [2].  另见 [Actors](https://github.com/aarvid/Actors) LispWorks包（[discussion](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)）[麻省理工学院] [200].
 * [Moira](https://github.com/TBRSS/moira)   - 监视并重新启动后台线程.  In-lisp流程主管.  未指定许可证.
+* [trivial-monitored-thread](https://gitlab.com/ediethelm/trivial-monitored-thread) -
+  一个Common Lisp库提供了一种产生线程和存在的方法
+   当其中任何一个崩溃并死亡时通知他们.  [MIT] [200].
 
 
 事件处理
@@ -774,7 +777,7 @@ Scripting
 
 * [SLIMV](https://github.com/kovisoft/slimv)   -  Vim的高级Lisp交互模式;  Vim中Common Lisp的完整环境.  未指定许可证.
 * [Vlime](https://github.com/l04m33/vlime)   -  VLIME：Vim加上Lisp是最邪恶的.  Vim（和Neovim）的Common Lisp开发环境.  [MIT] [200].
-* [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) - A Quicklisp frontend for Neovim.
+* [quicklisp.nvim](https://gitlab.com/HiPhish/quicklisp.nvim) -  Neovim的Quicklisp前端.
 * [Slimv_box](https://github.com/justin2004/slimv_box) - 在Docker容器中使用slimv.
 
 
@@ -785,7 +788,7 @@ Scripting
 ## Lem ##
 
 * [Lem](https://github.com/cxxxr/lem) - 即时可用，类似Emacs，基于Slime
-   为Common Lisp开发量身定制的编辑器.  Ncurses和Electron接口.  [MIT] [200].
+   为Common Lisp开发量身定制的编辑器.  Ncurses和Electron接口.  [MIT] [200].  一个 [opengl frontend](https://github.com/pupcraft/lem-opengl).
 
 ## Atom ##
 
@@ -899,7 +902,7 @@ CSV
 * [sphinxcontrib-cldomain](https://github.com/russell/sphinxcontrib-cldomain) -
    扩展Sphinx以涵盖Common Lisp.  使用构建文档
    Python项目与sphinx一样容易.  [GPL3] [2]
-* [Codex](https://github.com/CommonDoc/codex) - A beautiful
+* [Codex](https://github.com/CommonDoc/codex) - 一个美丽
    Common Lisp的文档系统.  [MIT] [200].
 * [Staple](https://github.com/Shinmera/staple) - 生成的工具
    使用HTML模板的文档页面.  使用现有
@@ -952,7 +955,7 @@ Logging
 
 致第三方：
 
-* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - 一个Common Lisp结构化记录器 [Fluentd](https://www.fluentd.org/).
+* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
 
 
 Markdown
@@ -994,7 +997,7 @@ Other
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)   - 以生产力为重点，可扩展/可编程的Web浏览器.  [3条款BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)   - 用于创建压缩数据的库.  [FreeBSD的] [39].
-* [simple-currency](https://github.com/a0-prw/simple-currency)   - 使用欧洲央行公布的每日信息的货币转换库.  [FreeBSD的] [39].
+* [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
 * [template](https://bitbucket.org/tarballs_are_good/template)   - 模板和函数库，类似于C ++.  [3条款BSD] [15].
 * [texp](http://mr.gy/software/texp/)   - 用于生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)   - 微小的基准测试库.  [艺术许可2.0] [51].
