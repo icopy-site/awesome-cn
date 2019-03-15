@@ -13,10 +13,8 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
 ```
-
-*…除了 [`qlImageSize`](#qlimagesize)*
 
 ### Manually
 
@@ -81,7 +79,7 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json webpquicklook 
 
 &gt;显示图像大小和分辨率
 
-~~运行`brew cask install qlimagesize` [(more info)](https://github.com/Homebrew/homebrew-cask/pull/57212)~~或 [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
+运行`brew cask install qlimagesize`或 [download manually](https://github.com/Nyx0uf/qlImageSize#installation)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 

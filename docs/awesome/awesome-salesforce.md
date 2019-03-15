@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="mailtoharshit/awesome-salesforce"></div>
  
-<img src="https://cdn-images-1.medium.com/max/400/0*btue0hbdFixR5ccW." align="right" width="320" height="400">
+<img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 

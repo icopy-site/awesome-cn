@@ -14,7 +14,7 @@
 
 ### Audio
 
-- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - Record audio from any application like iTunes, Skype or Safari, or from hardware devices like microphones and mixers.
+- [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 从iTunes，Skype或Safari等任何应用程序或麦克风和混音器等硬件设备录制音频.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)   - 录制系统音频，控制各个应用的音频电平，并在其他音频开始播放时自动暂停您的音乐播放器，然后取消暂停.  [！[开源软件] [OSS图标]]（https://github.com/kyleneideck/BackgroundMusic）！[免费软件] [免费软件图标]
 - [VOX Player](https://coppertino.com/vox/mac) - 播放众多有损和无损音频格式.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html)   - 翻录/解码/转换/播放各种“无损”音频文件.  [！[开源软件] [OSS图标]]（https://code.google.com/archive/p/xld/source）！[免费软件] [免费软件图标]
@@ -51,9 +51,9 @@
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
 - [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的断开链接.  ！[免费软件] [免费软件图标]
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
-- [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
+- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - 最终的REST客户端.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater)   - 一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) - 一个现代的PostgreSQL客户端.
@@ -108,7 +108,7 @@
 ### Games
 
 - [Battle for Wesnoth](http://www.wesnoth.org/)   - 回合制战术策略游戏，包括单人和在线多人战斗.  [！[开源软件] [OSS图标]]（https://github.com/wesnoth）！[免费软件] [免费软件图标]
-- [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon]](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
+- [Boxer](http://boxerapp.com/)   -  DOS游戏模拟器适合您的Mac.  [！[开源软件] [OSS图标]]（https://github.com/alunbestor/Boxer）！[免费软件] [免费软件图标]
 - [Dolphin](https://dolphin-emu.org)   - 适用于任天堂GameCube和Wii游戏的强大的开源模拟器.  [！[开源软件] [OSS图标]]（https://github.com/dolphin-emu/dolphin）！[免费软件] [免费软件图标]
 - [OpenEmu](http://openemu.org/)   - 多个视频游戏系统.  [！[开源软件] [OSS图标]]（https://github.com/OpenEmu/OpenEmu）！[免费软件] [免费软件图标]
 - [Screentendo](http://aaronrandall.com/blog/screentendo/)   - 将您的屏幕变成可玩的马里奥级别.  [！[开源软件] [OSS图标]]（https://github.com/AaronRandall/Screentendo）！[免费软件] [免费软件图标]
@@ -352,6 +352,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [！[开源软件] [OSS图标]]（https://github.com/drduh/OS-X-Security-and-Privacy-Guide）
 * [OSXCollector](https://github.com/Yelp/osxcollector)   - 法医证据收集和分析工具包.  [！[开源软件] [OSS图标]]（https://github.com/Yelp/osxcollector）！[免费软件] [免费软件图标]
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
+* [Shimo](https://www.shimovpn.com) - 适用于Mac的全功能VPN客户端.
 * [SimpleumSafe](https://simpleum.com/) - 使用macOS或iOS加密，组织和同步文件.
 * [tinc](https://www.tinc-vpn.org)   - 安全网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [Tunnelblick](https://tunnelblick.net)   - 易于使用的OpenVPN客户端和GUI.  [！[开源软件] [OSS图标]]（https://github.com/Tunnelblick/Tunnelblick）！[免费软件] [免费软件图标]

@@ -5,7 +5,7 @@
 
 灵感来自 [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
 
-If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
+如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
 
 如果您希望贡献，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，并按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上，当创建一个新的“first-timers-only”问题时会收到通知.
 
@@ -49,7 +49,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 ## Go
 
-- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
@@ -112,7 +112,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
-- [Brave Browser](https://github.com/brave/browser-laptop/labels/bug%2Fgood-first-bug)  _（标签：bug / good-first-bug）_ <br>  适用于macOS，Windows和Linux的桌面浏览器.
+- [Brave Browser](https://github.com/brave/brave-browser/labels/good%20first%20bug)  _（标签：好的第一个bug）_ <br>  适用于macOS，Windows和Linux的桌面浏览器.
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Node.js的快速和低开销Web框架.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完整且易于设置的JavaScript测试解决方案.

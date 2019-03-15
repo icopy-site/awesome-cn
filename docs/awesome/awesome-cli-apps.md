@@ -132,7 +132,7 @@
 ### Release
 
 - [release-it](https://github.com/webpro/release-it)   - 自动发布Git存储库和/或npm软件包.  更改日志生成，GitHub / GitLab版本等.
-- [clog](https://github.com/kentcdodds/clog-cli) - 我们其他人的传统更改日志.
+- [clog](https://github.com/clog-tool/clog-cli) - 我们其他人的传统更改日志.
 - [np](https://github.com/sindresorhus/np) - 更好的&#39;npm发布&#39;.
 - [release](https://github.com/zeit/release) - 使用单个命令生成更改日志.
 

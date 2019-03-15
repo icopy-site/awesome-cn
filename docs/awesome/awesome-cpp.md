@@ -9,7 +9,7 @@
 * [C++ Standard Library](https://en.wikipedia.org/wiki/C%2B%2B_Standard_Library) - 类和函数的集合，它们以核心语言编写，是C ++ ISO标准本身的一部分.
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - 标准模板库（STL）.
 * [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) -  POSIX系统的C标准库规范.
-* [ISO C++ Standards Committee](https://github.com/cplusplus) -  ISO / IEC JTC1 / SC22 / WG21  -  C ++标准委员会. [website](http://www.open-std.org/JTC1/SC22/WG21/)
+* [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
 * [The GNU C Library](https://www.gnu.org/software/libc/manual) - 本手册的目的是告诉您如何使用GNU C库的功能.
 
 ## Frameworks
@@ -56,7 +56,7 @@
 * [frugally-deep](https://github.com/Dobiasd/frugally-deep)   - 在C ++中使用Keras模型的仅头文件库.  [MIT]
 * [Genann](https://github.com/codeplea/genann) -  C中的简单神经网络库.[zlib]
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Scala，Go，Javascript等 [website](https://mxnet.apache.org)
-* [PyTorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
+* [PyTorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration. [website](https://pytorch.org)
 * [Recast/Detour](https://github.com/recastnavigation/recastnavigation)   - （3D）导航网格生成器和探路者，主要用于游戏.  [ZLIB]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 使用数据流图进行数值计算的开源软件库[Apache]
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  [促进]
@@ -83,7 +83,7 @@
 * [miniaudio](https://github.com/dr-soft/miniaudio)   - 单文件音频播放和捕获库.  [授予许可]
 * [Opus](http://opus-codec.org/)   - 完全开放，免版税，高度通用的音频编解码器.  [BSD]
 * [SELA](https://github.com/sahaRatul/sela)   -  SimplE无损音频.  [MIT]
-* [SoLoud](https://github.com/jarikomppa/soloud)   - 轻松便携的游戏音频引擎.  [ZLIB]
+* [SoLoud](https://github.com/jarikomppa/soloud) - Easy, portable audio engine for games. [zlib]
 * [Speex](http://www.speex.org/)   - 免费语音编解码器.  Opus废弃.  [BSD]
 * [Tonic](https://github.com/TonicAudio/Tonic)   - 使用C ++轻松高效地进行音频合成.  [授予许可]
 * [Vorbis](http://xiph.org/vorbis/)   -  Ogg Vorbis是一种完全开放，非专有，专利和免版税的通用压缩音频格式.  [BSD]
@@ -110,7 +110,7 @@
 ## CLI
 *控制台/终端用户界面，命令行界面*
 
- * [Argh!](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
+ * [Argh!](https://github.com/adishavit/argh)   - 极简主义，无挫折，仅限标题的参数处理程序.  [BSD]
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
@@ -163,7 +163,7 @@
 * [CUB](https://github.com/NVlabs/cub)   -  CUB为​​CUDA编程模式的每一层提供最先进的，可重复使用的软件组件.  [新BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
 * [C++React](https://github.com/schlangster/cpp.react)   -  C ++ 11的反应式编程库.  [促进]
-* [Intel Parallel STL](https://github.com/intel/parallelstl) - Intel® implementation of C++17 STL for C++11 and above. [Apache2]
+* [Intel Parallel STL](https://github.com/intel/parallelstl)   - 用于C ++ 11及更高版本的英特尔®C++ 17 STL实现.  [Apache2的]
 * [Intel TBB](https://www.threadingbuildingblocks.org/)   - 英特尔®线程构建模块.  [Apache2的]
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
@@ -194,7 +194,7 @@
 * [plf::list](https://github.com/mattreecebentley/plf_list)   - 一个std :: list实现，它删除了范围拼接，以便启用缓存更友好的结构，从而产生显着的性能提升.  [ZLIB] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack)   -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器.  [ZLIB] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)   -  Arthur O&#39;Dwyer的ring_span实现的简化实现，即.  循环缓冲区视图.  [MIT]
-* [sparsepp](https://github.com/greg7mdp/sparsepp) - A fast, memory efficient hash map for C++. [BSD 3-clause]
+* [sparsepp](https://github.com/greg7mdp/sparsepp)   - 用于C ++的快速，内存有效的哈希映射.  [BSD 3条款]
 
 ## Cryptography
 *加密和加密库*
@@ -253,7 +253,7 @@
 
 * [backward-cpp](https://github.com/bombela/backward-cpp)   - 适用于C ++的漂亮堆栈跟踪漂亮打印机.  [MIT]
 * [benchmark](https://github.com/google/benchmark)   - 谷歌提供小型微基准支持库.  [Apache2的]
-* [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html)   -  Boost测试库.  [促进]
+* [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html) - Boost Test Library. [Boost]
 * [check](https://github.com/libcheck/check) -  Check是C的单元测试框架.[LGPL-2.1] [website](https://libcheck.github.io/check/)
 * [doctest](https://github.com/onqtam/doctest)   - 最轻的功能丰富的C ++单头测试框架.  [MIT]
 * [Catch](https://github.com/philsquared/Catch)   - 用于单元测试，TDD和BDD的现代C ++原生，仅限标头的框架.  [促进]
@@ -273,7 +273,7 @@
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - 使用C ++跟踪内存分配.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview)   - 具有多个平台的Web视图的Profiler.  [公共区域]
 * [MinUnit](https://github.com/siu/minunit)   - 单个头文件中自包含C的最小单元测试框架.  [MIT]
-* [Mockator](http://www.mockator.com) - Eclipse CDT plug-in for C++ Seams and Mock Objects.
+* [Mockator](http://www.mockator.com) - 用于C ++ Seams和Mock对象的Eclipse CDT插件.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)   - 用于基准测试的简单低开销跨平台计时器类.  [ZLIB] [website](http://www.plflib.org/nanotimer.htm)
 * [Remotery](https://github.com/Celtoys/Remotery)   - 带有Web Viewer的单C文件分析器.  [Apache2的]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp)   - 用于C ++的轻量级单元测试框架.  [MIT / X联盟许可]
@@ -342,7 +342,7 @@
 * [libigl](https://github.com/libigl/libigl)   - 简单的C ++几何处理库.  [MPL2]
 * [magnum](https://github.com/mosra/magnum)   - 用于游戏和数据可视化的轻量级和模块化C ++ 11 / C ++ 14图形中间件.  [MIT] [website](http://magnum.graphics)
 * [NanoVG](https://github.com/memononen/nanovg)   - 在OpenGL之上的用于UI和可视化的抗锯齿2D矢量绘图库.  [zlib的]
-* [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
+* [Ogre 3D](http://www.ogre3d.org/) :zap: - A scene-oriented, real-time, flexible 3D rendering engine (as opposed to a game engine) written in C++. [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
 * [OpenVDB](http://www.openvdb.org/)   - 用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
@@ -413,7 +413,7 @@
 * [JSON++](https://github.com/hjiang/jsonxx)   -  C ++中的JSON解析器.  [MIT]
 * [json.h](https://github.com/sheredom/json.h)   - 一个简单的一个头/一个源解决方案，用于在C和C ++中解析JSON.  [授予许可]
 * [json-c](https://github.com/json-c/json-c) -  C中的JSON实现.[MIT]
-* [JsonCpp](https://github.com/open-source-parsers/jsoncpp)   - 用于与JSON交互的C ++库.  [MIT]
+* [JsonCpp](https://github.com/open-source-parsers/jsoncpp) - A C++ library for interacting with JSON. [MIT]
 * [json-parser](https://github.com/udp/json-parser) - 用便携式ANSI C编写的非常低占用空间的JSON解析器.[BSD]
 * [json11](https://github.com/dropbox/json11)   - 一个用于C ++ 11的小型JSON库.  [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)   - 用于C ++的JSON库.  支持C ++ 11.  没有依赖，快速和开发友好.  [Apache2的]
@@ -492,7 +492,7 @@
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用C ++库，包括欧几里德，投影，保形，时空（等）.
 * [Wykobi](http://www.wykobi.com/)   - 高效，健壮且易于使用的C ++ 2D / 3D计算几何例程的C ++库.  [MIT]
-* [xtensor](https://github.com/QuantStack/xtensor) - 用于多维数值分析的C ++ 14库
+* [xtensor](https://github.com/QuantStack/xtensor) - A C++14 library for numerical analysis with multi-dimensional
  数组表达式，受NumPy语法的启发.  [BSD 3条款] [website](http://quantstack.net/xtensor)
 
 ## Memory Allocation
@@ -518,9 +518,10 @@
 
 * [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html)   -  C ++中的OO网络编程工具包.  [？MIT？]
 * [Boost.Asio](http://think-async.com/)  ：zap： - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
-* [Breep](https://github.com/Organic-Code/Breep)   - 基于事件的高级C ++ 14对等库.  [EUPL-1.1（OSI批准）]
+* [Breep](https://github.com/Organic-Code/Breep) - Event based, high-level C++14 peer-to-peer library. [EUPL-1.1 (OSI approved)]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)   -  C ++ REST SDK（以前称为Casablanca）.  [Apache2的]
-* [Restbed](https://github.com/corvusoft/restbed)   -  C ++ 11异步RESTful框架.  [AGPL]
+* [Restbed](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
+* [Restinio](https://github.com/Stiffstream/restinio)   - 仅限标头的C ++ 14库，为您提供嵌入式HTTP / Websocket服务器.  [BSD]
 * [c-ares](https://github.com/c-ares/c-ares)   - 用于异步DNS请求的AC库.  [MIT]
 * [cpp-httplib](https://github.com/yhirose/cpp-httplib)   - 单个文件C ++ 11仅限标头的HTTP / HTTPS服务器库.  [MIT]
 * [cpp-netlib](http://cpp-netlib.org/)   - 用于高级网络编程的开源库集合.  [促进]
@@ -709,8 +710,8 @@
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
 * [DynaMix](https://github.com/iboB/dynamix)   - 允许您在运行时编写和修改对象的库.  [MIT]
 * [{fmt}](https://github.com/fmtlib/fmt)  ：zap： - 用于C ++的小型，安全且快速的格式化库.  [简化BSD]
-* [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
-* [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
+* [FastFormat](http://www.fastformat.org) - 受log4j和Pantheios启发的快速，安全的C ++格式[Simplified BSD]
+* [casacore](https://code.google.com/p/casacore/)   - 一组源自aips ++的c ++核心库.  [LGPL]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)   - 这个Qt lib基于C ++ VerbalExpressions库.  [MIT]
 * [c-smart-pointers](https://github.com/Snaipe/libcsptr)   - （GNU）C编程语言的智能指针.  [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)   - 适用于C ++容器的漂亮打印库.  [促进]
@@ -726,7 +727,7 @@
 * [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
-* [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]
+* [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
 * [Scintilla](http://scintilla.org/)   - 免费的源代码编辑组件.  [MIT]
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
 * [semver.c](https://github.com/h2non/semver.c) - 一个semver解析器并以ANSI C渲染.[MIT]
@@ -801,7 +802,7 @@
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
 * [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
-* [juCi++](https://github.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
+* [juCi++](https://github.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
 * [KDevelop](https://www.kdevelop.org/) - 免费的开源IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) -  Microsoft的IDE.
 * [NetBeans](https://netbeans.org/) - 主要用Java开发的IDE，也包括其他语言，特别是PHP，C / C ++和HTML5.
@@ -839,7 +840,7 @@
 *通过代码分析提高质量和减少缺陷的工具清单*
 
 * [Cppcheck](http://cppcheck.sourceforge.net/)   - 用于静态C / C ++代码分析的工具.   -  [source](https://github.com/danmar/cppcheck)
-* [CppDepend](https://www.cppdepend.com/) - Simplifies managing a complex C/C++ code base by analyzing and visualizing code dependencies, by defining design rules, by doing impact analysis, and comparing different versions of the code.
+* [CppDepend](https://www.cppdepend.com/) - 通过分析和可视化代码依赖性，定义设计规则，执行影响分析以及比较不同版本的代码，简化管理复杂C / C ++代码库的过程.
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循Google的C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
@@ -902,6 +903,7 @@
 ## Podcasts
 
 * [CppCast](http://cppcast.com) -  C ++开发人员为C ++开发人员提供的第一个播客.
+* [CppChat](http://cpp.chat) - 每周（有时）看一下C ++世界中与社区客人聊天的情况.
 
 ## Talks
 
@@ -963,13 +965,14 @@
 * [algorithms](https://github.com/xtaci/algorithms) -  C ++中的算法和数据结构.
 * [c-algorithms](https://github.com/fragglet/c-algorithms) -  C算法库.
 * [C++ Awesome Pack](https://github.com/juniandotnet/cpp-awesome-pack) - 包含一些很棒的c ++代码，包含在一个代码中.
+* [30 Seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp)
 
 ## Other Awesome Lists
-*Other amazingly awesome lists*
+*其他令人惊讶的精彩列表*
 
 * [lists](https://github.com/jnv/lists) - 在GitHub上策划的（真棒）列表列表.
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - 精彩绝伦的精选列表.
-* [awesome](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
+* [awesome](https://github.com/sindresorhus/awesome) ：zap： - 精选列表的精选列表.
 * [C++ links](https://github.com/MattPD/cpplinks) -  C ++资源的分类列表.
 * [Awesome C++](https://getawesomeness.herokuapp.com/get/cpp) -  getAwesomeness（）的镜子.
 * [Awesome C++](https://cpp.libhunt.com/) -  LibHunt的镜子.

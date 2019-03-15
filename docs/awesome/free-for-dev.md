@@ -607,3 +607,4 @@
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) - 面向开发人员的免费开源软件中心
   * [getawesomeness](https://getawesomeness.herokuapp.com) - 从GitHub中获取所有令人惊叹的精彩内容......一定要看
   * [education.github.com](https://education.github.com/pack)   - 为学生提供免费服务.  需要注册
+  * [Framacloud](https://degooglisons-internet.org/en/list/) - 法国非盈利组织的Free / Libre开源软件和SaaS列表 [Framasoft](https://framasoft.org/en/).

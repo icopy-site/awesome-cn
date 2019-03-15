@@ -56,7 +56,7 @@
 * [zshdb](https://github.com/rocky/zshdb) -  ZSH调试器.
 * [ztanesh](https://github.com/miohtama/ztanesh) - 旨在通过ztanesh项目提供的配置提高UNIX命令行体验和工作效率.
 * [zulu](https://github.com/zulu-zsh/zulu) -  ZSH 5+的总环境经理.
-* [zunit](https://github.com/molovo/zunit) -  ZSH强大的单元测试框架.
+* [zunit](https://github.com/molovo/zunit) - Powerful unit testing framework for ZSH.
 
 ### Bash
 
@@ -104,6 +104,7 @@
 * [PuTTY](https://www.putty.org/) -  SSH和telnet客户端，最初由Simon Tatham为Windows平台开发.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - 终端机器人的未来.
 * [Terminology](https://github.com/billiob/terminology) - 基于Enlightenment Foundation Libraries的最佳终端模拟器.
+* [Terminus](https://github.com/Eugeny/terminus) - 基于Web技术的更现代化的跨平台终端.
 * [Termite](https://github.com/thestinger/termite/) - 以键盘为中心的终端，旨在在平铺窗口管理器中使用.
 * [Tilda](https://github.com/lanoxx/tilda) - 适用于Linux和Unix的基于Gtk的下拉终端.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - 符合Gnome人机界面指南的高级GTK3平铺终端仿真器.
@@ -162,7 +163,7 @@
 
 * [emacs](https://www.gnu.org/software/emacs/) - 具有命令行和图形用户界面的跨平台文本编辑器.
     * [spacemacs](http://spacemacs.org) - 社区驱动的emacs分发.
-* [jed](https://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
+* [jed](https://www.jedsoft.org/jed/) - 适用于Unix，VMS，MSDOS，OS / 2，BeOS，QNX和win9X / NT平台的免费文本编辑器.
 * [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [micro](https://github.com/zyedidia/micro) - 现代直观的基于终端的文本编辑器.
 * [nano](https://www.nano-editor.org/) - 使用命令行界面的类Unix计算系统或操作环境的文本编辑器.
@@ -211,6 +212,7 @@
 * [lunchy](https://github.com/eddiezane/lunchy) -  launchctl的友好包装.
 * [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 基于终端的YouTube播放器和下载器
 * [neofetch](https://github.com/dylanaraps/neofetch)   - 在终端中获取Linux桌面截图的系统/主题信息.  屏幕截图的替代方案.
+* [nnn](https://github.com/jarun/nnn) - 小巧，闪电般快速，功能丰富的文件管理器.
 * [ranger](https://ranger.github.io/) - 具有vi密钥绑定的控制台文件管理器.
 * [rebound](https://github.com/shobrook/rebound) - 命令行调试器，当您遇到编译器错误时立即获取Stack Overflow结果.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
@@ -220,7 +222,7 @@
 * [taskwarrior](https://taskwarrior.org/) - 命令行TODO列表管理器.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - 代码搜索工具类似于ack，但速度更快.
 * [tig](https://github.com/jonas/tig) -  git的文本模式界面.
-* [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - 文本模式终端图像查看器. 
+* [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - 文本模式终端图像查看器.
 * [tldr](https://github.com/tldr-pages/tldr/) - 简化和社区驱动的手册页.
 * [tmux](https://tmux.github.io/) - 终端多路复用器.
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator) - 轻松管理复杂的tmux会话.
