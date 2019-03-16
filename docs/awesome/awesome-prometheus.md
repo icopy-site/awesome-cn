@@ -94,6 +94,7 @@ Prometheus是一个开源系统监控和警报工具包.
 ## Alertmanager
 
 - [Awesome Prometheus Alerting Rules](https://github.com/samber/awesome-prometheus-alerts) - 令人敬畏的普罗米修斯警报规则清单.
+- [Karma](https://github.com/prymitive/karma) -  Prometheus Alertmanager的警报仪表板.
 
 ## Proxies
 

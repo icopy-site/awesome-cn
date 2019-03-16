@@ -13,7 +13,7 @@
 
  这是开始学习**数据科学**的捷径.  只需按照步骤回答问题，“什么是数据科学，我应该学习什么来学习数据科学？”
 
- 首先，数据科学是当今计算机和互联网农田最热门的话题之一.  人们从应用程序和系统收集数据直到今天，现在是分析它们的时候了.  接下来的步骤是根据数据提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science)  你可以找到**数据科学**的最大问题和专家的数百个答案.  我们最喜欢的数据科学家 [Clare Corthell](https://twitter.com/clarecorthell) .  她是数据相关系统和黑客方面的专家，并且一直在作为数据科学家从事公司工作. [Clare's blog](http://datasciencemasters.org/) .  本网站可帮助您了解作为专业数据科学家学习的确切方法.
+ 首先，数据科学是当今计算机和互联网农田最热门的话题之一.  人们从应用程序和系统收集数据直到今天，现在是分析它们的时候了.  接下来的步骤是根据数据提出建议并创建有关未来的预测. [Here](https://www.quora.com/Data-Science/What-is-data-science) 你可以找到**数据科学**的最大问题和专家的数百个答案. 
 
 Secondly, Our favorite programming language is *Python* nowadays for #DataScience. Python's - [Pandas](http://pandas.pydata.org/)  库具有收集和分析数据的全部功能.  我们用 [Anaconda](https://www.continuum.io/downloads) 玩数据和创建应用程序. 
 

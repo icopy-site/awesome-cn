@@ -93,7 +93,7 @@
 ## Biology
 *生物信息学，基因组学，生物技术*
 
-* [BioC++](http://biocpp.sourceforge.net/) - C++ Computational Libraries for Bioinformatics. [BSD]
+* [BioC++](http://biocpp.sourceforge.net/)   - 用于生物信息学的C ++计算库.  [BSD]
 * [Chaste](http://www.cs.ox.ac.uk/chaste/)   - 一个开源C ++库，用于为生理学和生物学开发的数学模型的计算模拟.  [BSD]
 * [libsequence](http://molpopgen.github.io/libsequence/)   - 用于表示和分析群体遗传学数据的C ++库.  [GPL]
 * [SeqAn](http://www.seqan.de/)   - 用于分析序列的算法和数据结构，重点是生物数据.  [BSD / 3-子句]
@@ -364,6 +364,7 @@
 * [DCMTK](http://dicom.offis.de/dcmtk.php.en) -  DICOM工具包.
 * [GDCM](http://gdcm.sourceforge.net/wiki/index.php/Main_Page) -  Grassroots DICOM图书馆.
 * [ITK](http://www.itk.org/)   - 用于图像分析的开源跨平台系统.  [来自ITK 4.0的Apache2]
+* [libfacedetection](https://github.com/ShiqiYu/libfacedetection)   - 用于图像中面部检测的开源库.  人脸检测速度可达1500FPS.  [BSD]
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)   - 使用SIMD指令加速基线JPEG编码和解码的JPEG图像编解码器.  [IJG＆BSD-3-Clause＆zlib] [website](https://libjpeg-turbo.org/)
 * [libvips](https://github.com/jcupitt/libvips)   - 具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)   - 用于C ++的ImageMagick程序接口.  [Apache2的]
@@ -755,7 +756,7 @@
 * [c](https://github.com/ryanmjacobs/c)   - 一次编译并执行C“脚本”！  [MIT]
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的AC编译器.  支持C ++ 11/14 / 1z C11.  由LLVM团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)   -  GNU编译器集合.  支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
-* [PCC](http://pcc.ludd.ltu.se/)   - 一个非常古老的C编译器.  支持C99.
+* [PCC](http://pcc.ludd.ltu.se/) - A very old C compiler. Supports C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
 * [LLVM](http://llvm.org/) - 收集模块化和可重用的编译器和工具链技术.
 * [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - 由Microsoft开发的MSVC.

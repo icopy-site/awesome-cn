@@ -520,6 +520,7 @@
 * [react-admin](https://github.com/marmelab/react-admin)：使用ES6，React和Material Design在REST / GraphQL API之上构建在浏览器中运行的管理应用程序的前端框架
 * [reactjs-popup - popup, Modals, Tooltips and Menus,  All in one](https://github.com/yjose/reactjs-popup)
 * [react-filter-control - A component to build UI for boolean filter creation](https://github.com/komarovalexander/react-filter-control)
+* [dialog-web-components - Set of components for building messaging applications](https://github.com/dialogs/dialog-web-components)
 
 ##### Animation Components
 * [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)

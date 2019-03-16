@@ -1,0 +1,97 @@
+<div class="github-widget" data-repo="micromata/awesome-css-learning"></div>
+## Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="CSS Logo"></a>
+
+&gt;一个很棒的列表限于最好的CSS学习资源
+
+这份清单主要是关于 [CSS](https://developer.mozilla.org/docs/Web/CSS)   - 语言和模块.  不是命名约定，架构范例，框架，预处理器，后处理器，CSS-in-JS或当今CSS生态系统的其他方面.
+
+*请阅读 [contribution guidelines](https://github.com/micromata/awesome-css-learning/blob/master/.github/contributing.md) 在贡献之前.*
+
+
+
+---
+
+## CSS References
+
+- [codrops](https://tympanus.net/codrops/css_reference/) - 广泛的CSS参考提供比内容更多的内容 [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference).
+- [Can I use](https://caniuse.com) -  CSS（和HTML5）的交互式浏览器支持表.
+
+## CSS in a nutshell
+
+- [Introduction to CSS](https://scrimba.com/g/gintrotocss) - 这个Screencast系列将在大约一小时内教你CSS的基础知识.
+
+## Fundamental concepts
+
+- [The cascade](https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade) - 本文解释了级联是什么以及它对您的影响.
+- [Specificity and inheritance](https://www.smashingmagazine.com/2010/04/css-specificity-and-inheritance/)   - 理解特异性和继承对于掌握CSS非常重要.  这篇文章会有所帮助.
+- [CSS Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Box_model) - 一篇解释网络布局基础的文章.
+  - 另请查看有关的详细信息 [box-sizing](https://css-tricks.com/box-sizing/) 属性.
+
+## CSS units
+
+- [The Lengths of CSS](https://css-tricks.com/the-lengths-of-css/) - 涵盖绝对和相对单位的概述.
+- [Fun with Viewport Units](https://css-tricks.com/fun-viewport-units/) - 提供基础知识并展示一些漂亮的用例.
+
+## Selectors
+
+- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - 介绍您需要了解的非常基本的CSS选择器.
+- [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)   - 提升你的知识水平.  从属性选择器到CSS3伪类.
+- [CSS Dinner](https://flukeout.github.io) - 学习如何在这个有趣的小游戏中使用CSS选择器.
+
+## Custom properties (aka CSS variables)
+
+- [CSS Variables: Why Should You Care?](https://developers.google.com/web/updates/2016/02/css-variables-why-should-you-care) -  CSS变量的简短介绍.
+- [Locally Scoped CSS Variables: What, How, and Why](https://una.im/local-css-vars/) - 描述了本地范围的CSS变量的优点.
+- [Using CSS variables correctly](https://www.madebymike.com.au/writing/using-css-variables/) - 使用CSS变量的模式和反模式.
+- [Everything you need to know about CSS Variables](https://medium.freecodecamp.org/everything-you-need-to-know-about-css-variables-c74d922ea855) - 使用真实世界的例子深入介绍CSS变量的基础知识.
+- [Getting Reactive with CSS](https://www.youtube.com/watch?v=4IRPxCMAIfA) - 介绍一下CSS变量和JavaScript中的功能反应式编程组合的可能性.
+
+## Layout
+
+- [Learn CSS Layout](http://book.mixu.net/css) - 分5章了解CSS布局技巧.
+- [Layout Land](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag) -  Jen Simmons关于新CSS布局可能性的视频系列.
+- [Laying Out The Future With Grid And Flexbox](https://www.youtube.com/watch?v=hj355PRbwSQ) - 引入包含Flexbox，CSS Grid和Box Alignment Module的新布局系统.
+
+### Classic layouting
+
+- [Floats](https://tympanus.net/codrops/css_reference/float/) - 有关如何使用（和清除）浮动的深入信息.
+- [Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) - 仔细看看与CSS定位布局方法相关的一些鲜为人知的事情.
+- [inline-block](https://iamsteve.me/blog/entry/inline_block) - 显示在哪种情况下使用display属性`inline-block`进行布局是有意义的.
+
+### Flexbox
+
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - 您需要在一个页面上了解Flexbox的所有信息.
+- [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - 在CodePen上使用Flexbox示例.
+- [Flexbox Defense](http://www.flexboxdefense.com) - 浏览器中的塔防游戏，可以充满乐趣地了解Flexbox.
+- [Flexbox Froggy](https://flexboxfroggy.com) - 通过青蛙和睡莲的有趣游戏了解Flexbox的所有基础知识.
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - 社区策划的Flexbox问题列表以及针对它们的跨浏览器解决方法.
+- [Flexbox Zombies](https://flexboxzombies.com) - 由故事情节驱动的培训课程，您可以使用Flexbox和弩来捕捉僵尸.
+
+### Grid
+
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) - 您需要在一个页面上了解CSS网格布局.
+- [Grid by Example](https://gridbyexample.com) - 除了如何使用网格的例子，这个网站还有其他有用的学习资源.
+- [Designing with Grid](http://jensimmons.com/presentation/designing-grid) - 谈谈CSS Grid提供的新布局可能性.
+- [Grid Garden](https://cssgridgarden.com) - 可爱的游戏，您可以编写CSS代码来种植胡萝卜园.
+- [GridBugs](https://github.com/rachelandrew/gridbugs) - 社区策划的网格互操作问题列表及其解决方法.
+- [Grid Critters](https://www.gridcritters.com) - 通过掌握冒险游戏来学习CSS网格布局.
+
+## Animation
+
+- [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms) - 介绍CSS转换和CSS（2D）转换.
+- [All you need to know about CSS Transitions](https://blog.alexmaccaw.com/css-transitions) - 还涉及从链接和事件到硬件加速和动画功能的高级主题.
+- [CSS 3D transforms](https://3dtransforms.desandro.com) - 多页面教程，包括卡片翻转和旋转木马效果等示例.
+- [CSS Animation for Beginners](https://robots.thoughtbot.com/css-animation-for-beginners) - 使用关键帧赋予CSS动画的概念.
+- [animatable](http://leaverou.github.io/animatable/) - 漂亮的小页面，展示了哪些CSS属性是可动画的. 
+
+---
+
+## Related
+
+[Awesome JavaScript Learning](https://github.com/micromata/awesome-javascript-learning) - 一个小小的列表，仅限于最好的JavaScript学习资源.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+在法律允许的范围内， [Michael Kühnel](http://micromata.de) 已放弃对此作品的所有版权及相关或相邻权利.

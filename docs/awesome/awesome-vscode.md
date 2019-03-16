@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
+令人愉快的策划清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 </div>
@@ -82,7 +82,7 @@ VSCode团队提供来自流行编辑器的键盘映射，使得向VSCode的过�
 
 ## [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
 
-&gt; VS Code的热门Intellij IDEA键绑定.
+&gt; VS Code的热门Intellij IDEA密钥绑定.
 
 ## Using VS Code with particular technologies
 
@@ -123,7 +123,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 细节
 
-- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
+- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - 修复使用/缩进/大括号/空行的格式
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - 提供IDE扩展，加快您的开发工作流程.
 
@@ -324,7 +324,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
-&gt;快速生成测试文件的扩展.
+> An extension to quickly generate test files.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
 
@@ -488,7 +488,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-&gt;使用GitHub Gist在多台计算机上同步设置，片段，主题，文件图标，启动，键绑定，工作空间和扩展
+&gt;使用GitHub Gist在多台计算机上同步设置，代码段，主题，文件图标，启动，键绑定，工作空间和扩展
 
 ![Settings Sync](https://i.imgur.com/QZtaBca.gif)
 
@@ -650,7 +650,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Edit with Shell Command](https://marketplace.visualstudio.com/items?itemName=ryu1kn.edit-with-shell)
 
-&gt; Levarage你最喜欢的shell命令来编辑文本
+&gt;利用您最喜欢的shell命令编辑文本
 
 ![Edit with Shell Command](https://raw.githubusercontent.com/ryu1kn/vscode-edit-with-shell/master/images/animations/public.gif)
 
@@ -805,7 +805,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/ultradracula.captain-sweetheart.png" width="600" />
 </a>
 
-### [City Lights by Yummygumm](https://vscodethemes.com/e/Yummygum.city-lights-theme)
+### [City Lights by Yummygum](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
  Yummygum官方城市之光套房
 
@@ -903,7 +903,7 @@ Monokai的主题灵感来自于 [Visual Studio Code](https://vscodethemes.com/e/
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
- 一个VS Code主题为夜猫子们.  在白天工作也很好，但这个主题适合我们这些喜欢编码到深夜的人.  颜色选择考虑了有色盲和弱光环境的人可以使用的颜色.  决定也是基于阅读理解和最佳炫目炫目的有意义的对比.  ✨
+ 一个VS Code主题为夜猫子们.  在白天工作也很好，但这个主题适合我们这些喜欢编码到深夜的人.  颜色选择考虑了色盲和光线不足的人可以获得的颜色.  决定也是基于阅读理解和最佳炫目炫目的有意义的对比.  ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width=600 />
@@ -962,9 +962,9 @@ Visual Studio Code的黑暗语法/工作台主题 - 针对SCSS，HTML，JS，TS�
 VS代码社区中各种人员的Twitter帐户列表
 
 - [@code](https://twitter.com/code) - 官方VS Code推特
-- [@auchenberg](https://twitter.com/auchenberg) -  VS Code Program Manager
+- [@auchenberg](https://twitter.com/auchenberg) - VS Code Program Manager
 - [@BenjaminPasero](https://twitter.com/BenjaminPasero) -  VS Code Dev
-- [@chrisdias](https://twitter.com/chrisdias) -  VS Code Program Manager
+- [@chrisdias](https://twitter.com/chrisdias) - VS Code Program Manager
 - [@_clarkio](https://twitter.com/_clarkio)   -  Developer Advocate @ Azure.  VS Code的发布者发布了高亮视频
 - [@eamodio](https://twitter.com/eamodio) -  GitLens的创作者
 - [@ErichGamma](https://twitter.com/ErichGamma) -  VS Code Dev
@@ -994,7 +994,7 @@ VS代码社区中各种人员的Twitter帐户列表
 ## Tools
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -  Visual Studio Live Share使您可以实时协作编辑和调试，无论您正在使用哪种编程语言或正在构建的应用程序类型.
-- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
+- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) -  macOS Finder工具栏应用程序，用于在Visual Studio代码中打开当前文件夹
 
@@ -1011,7 +1011,7 @@ VS代码社区中各种人员的Twitter帐户列表
 
 ## Visual Studio Code Power User Course (commercial)
 
-使用Sublime Text 10年后， [Ahmad Awais](https://twitter.com/MrAhmadAwais/) 切换到VSCode，内置 [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has lanched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
+使用Sublime Text 10年后， [Ahmad Awais](https://twitter.com/MrAhmadAwais/) 切换到VSCode，内置 [Shades of Purple theme](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple), and spent over a 1,000 hours perfecting his setup. He has launched a VSCode Power User Course to help you switch today. You can bring all your custom settings from the previous editor and learn the power user workflows for HTML/CSS, Git/GitHub & Open Source, supercharged Markdown, and everything from JavaScript to PHP, Go, Python, C++, C#, ROR. In this course, you'll also learn to install/setup 50+ Extensions.
 
 - [VSCode.pro](https://vscode.pro/) - 巨大的5小时65视频VSCode课程.
 - [Ahmad Awais](https://twitter.com/MrAhmadAwais/)   - 紫色色调主题的创作者.  WP / JS的核心开发人员.  OSS Dev Advocate.

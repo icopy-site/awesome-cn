@@ -110,6 +110,15 @@ https://plus.google.com/share?url=https://example.com
 https://news.ycombinator.com/submitlink?u=https://example.com&t=This+is+the+title
 ```
 
+## Instagram
+-  URL：`instagram：// camera`
+- 文档：https：//www.instagram.com/developer/mobile-sharing/
+- 参数：`camera`
+
+```
+instagram://camera
+```
+
 ## Instapaper
 - 网址：https：//www.instapaper.com/text
 - 文件：`N / A`
@@ -263,4 +272,4 @@ https://www.xing.com/spi/shares/new?url=https://example.com
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Vincent Klaiber](https://vinkla.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Vincent Klaiber](https://doubledip.se) 已放弃对此作品的所有版权及相关或相邻权利.

@@ -162,6 +162,7 @@
 - [calcurse](http://calcurse.org/) - 计算，命令行的日历和计划应用程序.
 - [papis](http://github.com/alejandrogallo/papis) - 功能强大且可扩展的文档和参考书目管理器.
 - [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
+- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
 
 ### Time Tracking
 
@@ -389,7 +390,7 @@
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
 
 ## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - 穿越Mandelbrot分形的cli.
+- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 
@@ -399,7 +400,7 @@
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
-- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 
 ## Other

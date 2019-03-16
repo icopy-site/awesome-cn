@@ -94,6 +94,7 @@
 * [Cmder](https://github.com/cmderdev/cmder) - 适用于Windows的可爱控制台模拟器包.
 * [ConEmu](https://github.com/Maximus5/ConEmu) - 可定制的Windows终端，带有标签，分割，地震式等.
 * [ConsoleZ](https://github.com/cbucher/console)   -  Windows控制台窗口增强功能.  这是一个分支 [Console](https://sourceforge.net/projects/console) 项目.
+* [GNOME Terminal](https://wiki.gnome.org/Apps/Terminal) -  GNOME的终端模拟器.
 * [Go2Shell](https://zipzapmac.com/Go2Shell) - 打开Finder中当前目录的终端窗口.
 * [Hyper](https://github.com/zeit/hyper) - 基于Web技术构建的终端.
 * [iTerm2](https://github.com/gnachman/iTerm2) - 用于macOS的终端模拟器，可以完成令人惊叹的事情.

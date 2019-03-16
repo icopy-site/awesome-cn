@@ -83,7 +83,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
- * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
+ * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 
 ## Code Analysis and Metrics
@@ -107,6 +107,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -  libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
 
 ## Data Formats
+ * [BinData](https://github.com/spider-gazelle/bindata) - 二进制数据解析器帮助器 [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) 解析器
  * [config.cr](https://github.com/chris-huxtable/config.cr) - 易于使用的配置格式解析器
  * [crinder](https://github.com/c910335/crinder) - 基于类的json渲染器
  * [CSV](https://crystal-lang.org/api/CSV.html) - 解析和生成逗号分隔值（Crystal stdlib）
@@ -162,7 +163,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-email](https://github.com/arcage/crystal-email) - 简单的电子邮件发送库
  * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - 符合RFC的电子邮件验证程序
  * [devmail](https://github.com/tijn/devmail) - 具有易失性邮件存储的组合SMTP / POP3服务器
- * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - 简单的Sendgrid客户端
+ * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
 
 ## Environment Management
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) -  asdf版本管理器的插件
@@ -182,7 +183,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) -  Crystal MySQL CRUD示例
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -  GOF模式的例子
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - 用Crystal编写的本机Ruby扩展
- * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) back-end API implementation
+ * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实现
  * [exercism-crystal](https://github.com/exercism/crystal) - 运动练习
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - 从头开始​​的Crystal MySQL示例应用程序
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
@@ -199,6 +200,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [try.cr](https://github.com/maiha/try.cr) - 尝试monad
 
 ## Feature Flipping
+ * [can_use](https://github.com/rodrigopinto/can_use) - 这是一款基于yaml的水晶极简主义功能切换/标记
  * [flipper](https://github.com/metaware/flipper)   - 功能翻转/标记/卷展栏.  支持多个后端
 
 ## Framework Components
@@ -215,7 +217,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) -  Ruby MIME类型库的一个端口
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供商OAuth2身份验证（受omniauth启发）
  * [praetorian](https://github.com/ilanusse/praetorian) - 受Pundit启发的极简授权库
- * [request_id](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
+ * [request_id](https://github.com/SuperPaintman/request-id) - 用于生成/获取Crystal服务器的唯一请求ID的中间件
  * [response_time](https://github.com/SuperPaintman/response-time) -  Crystal服务器的响应时间（纯http服务器，kemal等）
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - 易于测试凯末尔
 
@@ -272,7 +274,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
@@ -316,6 +318,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [m3u8](https://github.com/akiicat/m3u8) - 为HTTP Live Streaming生成并解析m3u8播放列表
  * [manual-generator](https://github.com/blocknotes/manual-generator) - 从文档站点生成PDF手册的工具
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - 验证并生成Rails`ActiveSupport :: MessageVerifier`签名的令牌
+ * [pangu.cr](https://github.com/isaced/pangu.cr) -  Crystal中的偏执文本间距
  * [raytracer](https://github.com/l3kn/raytracer) - 带有示例的CPU Raytracer
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 简单的DSL重试失败的代码块
  * [tren](https://github.com/sdogruyol/tren) - 给你的SQL一些爱

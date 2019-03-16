@@ -49,7 +49,7 @@
 
 ### Word Clock
 
-&gt;一个超级简单的字时钟，就像你的电脑正在为你输入时间.
+&gt;一个超级简单的字时钟，就像您的计算机正在为您键入时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
@@ -73,7 +73,7 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
-## iOS (and Apple TV) Inspired
+## Apple Inspired
 
 ### Aerial
 
@@ -87,11 +87,27 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/appleWatch.png)](http://www.rasmusnielsen.dk/applewatch/)
 
+### Brooklyn
+
+&gt; 2018年10月30日Apple的活动启发的屏幕保护程序
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
 ### iOS Lockscreen for macOS
 
 &gt;一个看起来像iPhone和iPad上的锁屏的屏幕保护程序.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/iOSLockscreen.png)](http://littleendiangamestudios.com/project/ios-8-screen-saver/)
+
+### October 30
+
+&gt;从2018年的iPad活动中平滑地更改371 Apple徽标.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Retro
 
@@ -188,14 +204,6 @@ Donationware
 精简版（免费）和完整版（3美元）
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
-
-### October 30
-
-&gt;从2018年的iPad活动中平滑地更改371 Apple徽标.
-
-Free
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/october30.png)](https://github.com/lekevicius/october30)
 
 ## Other
 

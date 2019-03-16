@@ -8,11 +8,6 @@
 *请阅读 [contribution guidelines](https://github.com/micromata/awesome-javascript-learning/blob/master/.github/contributing.md) 在贡献之前.*
 
 
-<!-- Run `npm run toc` to generate the TOC -->
-<!-- toc -->
-
-
-<!-- tocstop -->
 
 ---
 
@@ -29,7 +24,7 @@
 
 ### Overall Topics
 
-- [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)   - 紧凑的介绍，涵盖类型，变量，操作员，控制结构，功能和闭包.  * \ **
+- [A re-introduction to JavaScript*](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) - 紧凑的介绍，涵盖类型，变量，操作员，控制结构，功能和闭包.
 - [JavaScript.info](http://javascript.info) - 从基础知识到高级主题的现代教程，简单但详细的解释.
 - [Glossary of Modern JavaScript Concepts: Part 1](https://auth0.com/blog/glossary-of-modern-javascript-concepts/) - 学习JavaScript中函数式编程，反应式编程和函数式反应式编程的基础知识.
 - [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/) - 解释范围和闭包，数据流，变化检测，组件，编译，树摇动等概念.
@@ -65,6 +60,7 @@
 - [JavaScript Enlightenment](http://shop.oreilly.com/product/0636920027713.do) - 巩固您对语言的理解.
 
 ## Blogs
+
 - [②ality](http://www.2ality.com) - 作者和培训师Axel Rauschmayer博士对语言特征和API进行了很好的解释.
 - [Pony Foo](https://ponyfoo.com) - 来自NicolásBevacqua的详细和高质量的帖子都与JavaScript有关.
 
@@ -73,7 +69,7 @@
 - [== ? === ??? ...#@^%](https://www.youtube.com/watch?v=qGyqzN0bjhc) - 基本谈论类型强制和严格的类型比较.
 - [FunFunFunction](https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q) - 教育和娱乐性的YouTube节目，涵盖语言功能以及建筑主题等. 
 - [What the heck is the event loop anyway?](http://latentflip.com/loupe/?code=JC5vbignYnV0dG9uJywgJ2NsaWNrJywgZnVuY3Rpb24gb25DbGljaygpIHsKICAgIHNldFRpbWVvdXQoZnVuY3Rpb24gdGltZXIoKSB7CiAgICAgICAgY29uc29sZS5sb2coJ1lvdSBjbGlja2VkIHRoZSBidXR0b24hJyk7ICAgIAogICAgfSwgMjAwMCk7Cn0pOwoKY29uc29sZS5sb2coIkhpISIpOwoKc2V0VGltZW91dChmdW5jdGlvbiB0aW1lb3V0KCkgewogICAgY29uc29sZS5sb2coIkNsaWNrIHRoZSBidXR0b24hIik7Cn0sIDUwMDApOwoKY29uc29sZS5sb2coIldlbGNvbWUgdG8gbG91cGUuIik7!!!PGJ1dHRvbj5DbGljayBtZSE8L2J1dHRvbj4%3D) - 关于JavaScript工作方式的精彩讨论，以及探索callstack的工具.
-- [Become a Javascript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) - 浏览器JavaScript控制台简介.
+- [Become a JavaScript Console Power-User](https://www.youtube.com/watch?v=4mf_yNLlgic) - 浏览器JavaScript控制台简介.
 - [Debugging The Web](https://www.youtube.com/watch?v=HF1luRD4Qmk) - 使用Chrome开发工具了解调试的最新技术.
 - [JavaScript 30](https://javascript30.com) -  30个视频教程，用简单的JavaScript构建整洁的小东西.
 - [Promises Are So Passé](https://vimeo.com/181328943) - 谈话，显示下一步的异步，重要的原因，以及今天需要做些什么才能付诸实践.
@@ -81,6 +77,7 @@
 - [Understand JavaScript's this Keyword in Depth](https://egghead.io/courses/understand-javascript-s-this-keyword-in-depth) -  18分钟分为8个短视频，让你围绕着“这个”.
 
 ## Interactive learning
+
 - [Codeacademy](https://www.codecademy.com/learn/javascript) -  JavaScript的基础知识.
 - [Udacity JavaScript Basics](https://www.udacity.com/course/javascript-basics--ud804) - 他们还提供更高级的课程.
 - [Code School](https://www.codeschool.com/learn/javascript)   - 从基础知识到最佳实践.  与JavaScript相关的不同课程.
@@ -102,7 +99,6 @@
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com) - 获取纯JavaScript代码片段（并查看其jQuery等效项）.
 - [Traversing the DOM with JavaScript](https://zellwk.com/blog/dom-traversals/) - 一个教程，其中包含遍历DOM的本机方法.
 
-
 ## Node.js
 
 - [The Art of Node](https://github.com/maxogden/art-of-node#readme) - 介绍基础知识的入门教程. 
@@ -112,7 +108,11 @@
 
 ---
 
-### License
+## Related
+
+[Awesome CSS Learning](https://github.com/micromata/awesome-css-learning) - 一个非常棒的列表，仅限于最好的CSS学习资源.
+
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 

@@ -10,6 +10,7 @@
 **精选的开源系统管理员资源的精选列表.**请阅读 [CONTRIBUTING](https://github.com/n1trux/awesome-sysadmin/blob/master/./.github/CONTRIBUTING.md) 如果你想添加软件并考虑 [donating](https://github.com/n1trux/awesome-donations) 到您经常使用的FLOSS项目.
 
   * 云储存： [see awesome-selfhosted#file-transfersynchronization](https://github.com/Kickball/awesome-selfhosted#file-transfersynchronization)
+  *协作软件： [see awesome-selfhosted#groupware](https://github.com/Kickball/awesome-selfhosted#groupware)
   *邮件服务器/网络邮件： [see awesome-selfhosted#email](https://github.com/kickball/awesome-selfhosted#email)
   *安全： [see awesome-security](https://github.com/sbilly/awesome-security)
   * SSH： [see awesome-ssh](https://github.com/moul/awesome-ssh)
@@ -36,7 +37,7 @@
 * [Bareos](http://www.bareos.org/en/) -  Bacula备份工具的一个分支.
 * [BackupPC](http://backuppc.sourceforge.net/) -  BackupPC是一种用于备份到磁盘的高性能系统.
 * [Backupninja](https://0xacab.org/riseuplabs/backupninja) - 轻量级，可扩展的元备份系统.
-* [Barman](http://www.pgbarman.org) - Backup and Recovery Manager for disaster recovery of PostgreSQL servers.
+* [Barman](http://www.pgbarman.org) - 用于PostgreSQL服务器灾难恢复的备份和恢复管理器.
 * [BorgBackup](https://github.com/borgbackup/borg) - 一个叉子 [Attic](https://attic-backup.org) 重复数据删除用Python编写的备份程序.
 * [Burp](http://burp.grke.org/) - 网络备份和恢复程序.
 * [Duplicity](http://duplicity.nongnu.org/) - 使用rsync算法加密带宽高效的备份.
@@ -74,7 +75,7 @@
 
 ## Client management
 
-*在台式计算机上管理软件.*
+*Managing software on desktop computers.*
 
 * [Chocolatey](https://chocolatey.org/) - 基于.NET / PS编写的Windows CLI包管理器 [NuGet](https://www.nuget.org/).
 * [just-install](http://just-install.it/) - 用于下载和静默安装MSI文件的Python脚本.
@@ -132,16 +133,6 @@
 * [Phabricator](http://phabricator.org/) - 由facebook构建并由WikiMedia，FB，dropbox等使用的代码审查工具.附带集成的wiki，错误跟踪器，VC集成和名为arcanist的CLI工具.
 * [Review Board](https://www.reviewboard.org/) - 作为MIT许可下的免费软件提供.
 
-## Collaborative Software
-
-*协作软件或群件套件.*
-
-* [Citadel/UX](http://www.citadel.org/) - 来自Citadel程序系列的协作套件（消息传递和组件）.
-* [EGroupware](http://www.egroupware.org/start.html) - 用PHP编写的群件软件.
-* [Horde Groupware](http://www.horde.org/apps/groupware) - 基于PHP的协作软件套件，包括电子邮件，日历，维基，时间跟踪和文件管理.
-* [Kolab](https://kolab.org/) - 另一个群件套件.
-* [SOGo](http://www.sogo.nu/) - 协作软件服务器，侧重于简单性和可扩展性.
-
 
 ## Configuration Management Database
 
@@ -170,13 +161,21 @@
 
 *持续集成/部署软件.*
 
-* [Buildbot](http://buildbot.net/) - 基于Python的工具包，用于持续集成.
-* [CapsuleCD](https://github.com/AnalogJ/capsulecd) - 用于自动化软件包/库发布的CD脚本（npm，cookbooks，gem，pip，jar等）.
-* [concourse](http://concourse.ci/)   - 一种可以在CI / CD管道上获得可见性的现代工具.  灵活的声明性DSL易于学习且功能强大.
-* [Drone](https://github.com/drone/drone) - 基于Docker构建的持续集成服务器，使用YAML文件进行配置.
-* [GitLab CI](https://about.gitlab.com/gitlab-ci/)   - 基于红宝石.  他们还提供管理git存储库的GitLab.
-* [Go](http://www.go.cd/) - 持续交付服务器.
-* [Jenkins](http://jenkins-ci.org/) - 可扩展的持续集成服务器.
+- [Buildbot](http://buildbot.net/)   - 基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）``GPL-2.0``Python`
+- [CapsuleCD](https://analogj.github.io/capsulecd-slides/)   - 用于自动化软件包/库发布的CD脚本（npm，cookbooks，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT``Go`
+- [Concourse](https://concourse.ci/)   -  Concourse是一种CI工具，可将管道视为头等对象，并在此过程中的每一步都包含容器.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）``Apache-2.0``Go`
+- [drone](https://drone.io/)   -  Drone是一个基于Docker的持续交付平台，用Go编写.  （[Source Code](https://github.com/drone/drone)）``Apache-2.0``Go`
+- [Factor](http://www.factor.io/)   - 以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）`MIT``Ruby`
+- [GitLab CI](https://about.gitlab.com/gitlab-ci/)   -  Gitlab内置的全功能CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT`` Ruby`
+- [GoCD](http://www.go.cd/)   - 持续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）`Apache-2.0``Java / Ruby`
+- [GolangCI](https://golangci.com/)   - 与GitHub拉取请求集成的Go的开源自动代码审查服务.  （[Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
+- [Jenkins](https://jenkins-ci.org/)   - 持续集成服务器.  （[Source Code](https://github.com/jenkinsci/jenkins/)）`MIT``Java`
+- [Laminar](http://laminar.ohwg.net)   - 快速，轻便，简单且灵活的持续集成.  （[Source Code](https://github.com/ohwgiles/laminar)）``GPL-3.0``C ++`
+- [PHP Censor](https://github.com/php-censor/php-censor)   - 用于PHP项目的开源自托管持续集成服务器.  `BSD-2-Clause``PHP`
+- [PHPCI](https://www.phptesting.org/)   - 专为PHP设计的免费和开源持续集成.  （[Source Code](https://github.com/block8/phpci)）`BSD-2-Clause``PHP`
+- [Strider](http://strider-cd.github.io/)   - 开源持续部署/持续集成平台.  （[Source Code](https://github.com/Strider-CD/strider)）`MIT``Nodejs`
+
+
 
 ## Control Panels
 
@@ -225,7 +224,7 @@
 
 * [Camlistore](https://camlistore.org/) - 一组用于建模，存储，搜索，共享和同步数据的开源格式，协议和软件.
 * [Ceph](http://ceph.com/) - 分布式对象存储和文件系统.
-* [DRBD](http://drbd.linbit.com/) - Distributed Replicated Block Device.
+* [DRBD](http://drbd.linbit.com/) - 分布式复制块设备.
 * [LeoFS](http://leo-project.net) - 非结构化对象/数据存储和高度可用，分布式，最终一致的存储系统.
 * [GlusterFS](http://www.gluster.org/) - 横向扩展网络附加存储文件系统.
 * [Go IPFS](https://github.com/ipfs/go-ipfs) - 实施 [IPFS](http://ipfs.io/)，一种全局的，版本化的对等文件系统，旨在将所有计算设备与相同的文件系统连接起来.
@@ -300,7 +299,7 @@
 ### Tools and web interfaces
 
 * [Fusion Directory](https://www.fusiondirectory.org) - 改进基于OpenLDAP的服务和公司目录的管理.
-* [Indieauth](https://indieauth.com/) - 使用您的域名登录（使用rel-me-auth协议）.
+* [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
 * [Libravatar](https://www.libravatar.org/) -  Libravatar是一项服务，可将您的头像（个人资料图片）发送到其他网站.
 * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - 用于管理存储在LDAP目录中的条目（例如，用户，组，DHCP设置）的Web前端.
 * [OpenID Connect](http://openid.net/developers/libraries/) -  OAuth 2.0之上的简单身份层.
@@ -323,7 +322,7 @@
 
 *日志管理工具：收集，解析，可视化...... *
 
-* [Elasticsearch](https://www.elastic.co/) - 基于Lucene的文档存储，主要用于日志索引，存储和分析.
+* [Elasticsearch](https://www.elastic.co/) - 基于Lucene的文档存储主要用于日志索引，存储和分析.
 * [Fluentd](http://www.fluentd.org/) - 日志收集器和托运人.
 * [Flume](https://flume.apache.org/) - 分布式日志收集和聚合系统.
 * [GoAccess](http://goaccess.io/)   - 在终端或浏览器中运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）`MIT`` C`
@@ -349,7 +348,7 @@
 * [Adagios](http://adagios.org/) - 用于配置和监控的基于Web的Nagios接口（替换为标准接口）和REST接口， [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 * [Alerta](https://github.com/guardian/alerta) - 分布式，可扩展和灵活的监控系统.
 * [Bloonix](https://bloonix.org)   -  Bloonix是一种监控解决方案，可帮助企业确保高可用性和性能.  `GPLv3``Perl`
-* [bolo](http://bolo.niftylogic.com/) - 一个自己动手的监控框架，用于收集指标，挖掘数据并报告网络中的系统.
+* [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
 * [Bosun](http://bosun.org/) -  Stack Exchange监控和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT``Go`
 * [Cacti](http://www.cacti.net) - 基于Web的网络监控和图形工具.
 * [Cabot](http://cabotapp.com/) - 监控和警报，类似于PagerDuty.
@@ -365,7 +364,7 @@
 * [LibreNMS](http://www.librenms.org) - 功能齐全的网络监控系统，提供丰富的功能和设备支持.
 * [Monit](http://mmonit.com/monit/#home) - 用于管理和监控Unix系统的小实用程序.
 * [Munin](http://munin-monitoring.org/) - 网络资源监控工具.
-* [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
+* [Naemon](http://www.naemon.org/) - 基于Nagios 4核心的网络监控工具，具有性能增强和新功能.
 * [Nagios](https://www.nagios.org/) - 计算机系统，网络和基础设施监控软件应用.
 * [Observium](http://www.observium.org/)   - 服务器和网络设备的SNMP监控.  在linux上运行.
 * [OMD](http://omdistro.org/) - 开放监测分布.
@@ -561,9 +560,9 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 * [Archipel](http://archipelproject.org/) - 基于XMPP的虚拟化管理平台.
 * [ConVirt](http://www.convirture.com/products_opensource.php) - 提供集中管理KVM或Xen虚拟化环境的核心功能.
-* [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
+* [Ganeti](http://www.ganeti.org/) - 基于KVM和Xen构建的集群虚拟服务器管理软件工具.
 * [KVM](http://www.linux-kvm.org) -  Linux内核虚拟化基础架构.
-* [OpenNebula](http://opennebula.org/) - 灵活的企业云变得简单.
+* [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
 * [OpenNode](http://opennodecloud.com) - 构建开源基础架构管理软件并实施云系统.
 * [oVirt](http://www.ovirt.org/) - 管理虚拟机，存储和虚拟网络.
 * [Packer](https://www.packer.io/) - 用于从单一源配置为多个平台创建相同机器映像的工具.
@@ -617,7 +616,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 ## Books
 
-*Sysadmin related books.*
+*系统管理员相关书籍.*
 
 * [Codex](http://www.starkandwayne.com/codex/) - 如何在Stark＆Wayne，LLC的AWS，OpenStack，Azure等基础架构上部署Cloud Foundry PaaS.
 * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - 一本关于William Shotts的Linux命令行的书.
@@ -648,7 +647,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 *软件包存储库.*
 
-* [AlternativeTo](http://alternativeto.net) - 寻找您认识的软件的替代品并发现新的软件.
+* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
 
 ### Debian-based distributions
 

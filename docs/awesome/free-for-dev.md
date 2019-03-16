@@ -500,6 +500,7 @@
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
   * [photopea.com](https://www.photopea.com) - 免费的高级在线设计编辑器，Adobe Photoshop UI支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
+* [pexels.com](https://www.pexels.com/)   - 免费商业照片.  有免费的API，可让您按关键字搜索照片.
 
 ## Data Visualization on Maps
 
