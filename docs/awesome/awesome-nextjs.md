@@ -74,6 +74,7 @@
 * [Next SEO](https://github.com/garmeeh/next-seo) -  SEO为Next.js提供了便利
 * [Nextein](https://github.com/elmasse/nextein) - 一个基于Next.js的静态站点生成器.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松地将博客添加到任何基于next.js的项目中
+* [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
 
 ## Apps
 * [Nextgram](https://github.com/zeit/nextgram) - 示例Next.js应用程序展示其功能.

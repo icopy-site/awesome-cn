@@ -130,7 +130,7 @@ Contributions are welcome!
 
 相关回购：
 
-* [aristidb/aws :fire:](https://github.com/aristidb/aws)
+* [aristidb/aws :fire::fire:](https://github.com/aristidb/aws)
 
 * Haskell SDK是一个社区项目，文档和/或样本有限.*
 

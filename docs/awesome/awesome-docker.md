@@ -53,7 +53,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [@eon01](https://github.com/eon01/DockerCheatSheet)
 - [@dimonomid](https://github.com/dimonomid/docker-quick-ref) （PDF）
-- [@JensPiegsa](http://docker.jens-piegsa.com)
+- [@JensPiegsa](https://github.com/JensPiegsa/docker-cheat-sheet)
 - [@wsargent](https://github.com/wsargent/docker-cheat-sheet) （最受欢迎）
 
 ## Where to start (Windows)
@@ -93,7 +93,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [bocker](https://github.com/p8952/bocker) （1）：头骨： -  Docker在100行bash中实现 [p8952](https://github.com/p8952)
 - [box](https://github.com/box-builder/box) - 使用mruby DSL构建Dockerfile映像，包括展平和图层处理
 - [Capitan](https://github.com/byrnedo/capitan) - 可组合的docker业务流程，增加了脚本支持 [@byrnedo](https://github.com/byrnedo).
-- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过Docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
+- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过以下方式从docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
 - [Composerize](https://github.com/magicmark/composerize) - 将docker run命令转换为docker-compose文件
 - [crowdr](https://github.com/polonskiy/crowdr) - 用于管理多个Docker容器的工具（`docker-compose`替代） [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - 将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)
@@ -115,7 +115,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [blackfish](https://gitlab.com/blackfish/blackfish) - 用于为Dev和Production构建群集集群的CoreOS VM [@blackfish](https://gitlab.com/blackfish/)
 - [BosnD](https://gitlab.com/n0r1sk/bosnd) - 船长守护者BosnD  - 动态配置文件编写器和服务重新加载器，用于动态更改容器环境.
 - [Centurion](https://github.com/newrelic/centurion)   -  Centurion是Docker车队的大规模部署工具.  它从Docker注册表中获取容器，并在具有正确环境变量，主机卷映射和端口映射的一组主机上运行它们.  通过 [@newrelic](https://github.com/newrelic)
-- [Clocker](https://github.com/brooklyncentral/clocker)   -  Clocker创建和管理Docker云基础架构.  Clocker支持在Docker和Marathon上作为分布在多个主机上的容器运行的多节点应用程序的单击部署和运行时管理.  它利用[Calico] [calico]和[Weave] [weave]进行网络连接 [Brooklyn](http://brooklyn.apache.org/)  用于应用程序蓝图.  通过 [@brooklyncentral](https://github.com/brooklyncentral)
+- [Clocker](https://github.com/brooklyncentral/clocker)   -  Clocker创建和管理Docker云基础架构.  Clocker支持在Docker和Marathon上作为分布在多个主机上的容器运行的多节点应用程序的单击部署和运行时管理.  它利用[Calico] [calico]和[Weave] [weave]进行网络连接 [Brooklyn](https://brooklyn.apache.org/)  用于应用程序蓝图.  通过 [@brooklyncentral](https://github.com/brooklyncentral)
 - [Conduit](https://github.com/ehazlett/conduit) -  Docker的实验部署系统 [@ehazlett](https://github.com/ehazlett)
 - [depcon](https://github.com/ContainX/depcon)   -  Depcon是用Go编写的，允许您轻松地将Docker容器部署到Apache Mesos / Marathon，Amazon ECS和Kubernetes.  通过[@ContainX] [containsx]
 - [deploy](https://github.com/ttiny/deploy)  ：skull： -  Git和Docker部署工具.  简单的Docker组合工具和完整的集群编排之间的中间地带 [@ttiny](https://github.com/ttiny)
@@ -363,8 +363,8 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Dockerfile
 
 - [chaperone-docker](https://github.com/garywiz/chaperone-docker) - 使用Chaperone流程管理器的一组图像，包括精益阿尔卑斯山图像，LAMP，LEMP和裸骨基础套件.
-- [Dockerfile Generator](http://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/)
-- [Dockerfile Project](http://dockerfile.github.io/)   - 值得信赖的自动Docker构建.  Dockerfile Project为Docker容器上可运行的各种流行的开源软件服务维护着Dockerfile的中央存储库.
+- [Dockerfile Generator](https://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/)
+- [Dockerfile Project](https://dockerfile.github.io/)   - 值得信赖的自动Docker构建.  Dockerfile Project为Docker容器上可运行的各种流行的开源软件服务维护着Dockerfile的中央存储库.
 - [dockmoor](https://github.com/MeneDev/dockmoor)  ：构造： - 管理docker镜像引用并帮助使用Docker创建可重现的构建.  通过 [@MeneDev](https://github.com/MeneDev)
 - [Vektorcloud](https://github.com/vektorcloud) - 一系列基于Alpine的最小Docker镜像
 
@@ -453,7 +453,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [GOCD-Docker](https://github.com/gocd/gocd-docker)在docker容器中转到Server和Agent以进行配置.
 - [Microservices Continuous Deployment](https://github.com/francescou/docker-continuous-deployment) - 持续部署微服务应用程序.
 - [mu](https://github.com/stelligent/mu) - 通过AWS CodePipeline，CodeBuild和ECS配置容器应用程序的CI / CD的工具 [@Stelligent](https://github.com/stelligent)
-- [Screwdriver :heavy_dollar_sign:](http://screwdriver.cd/) - 雅虎的OpenSource构建平台，专为持续交付而设计.
+- [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) - 雅虎的OpenSource构建平台，专为持续交付而设计.
 - [Skipper](https://github.com/Stratoscale/skipper) - 轻松将您的Git存储库停靠 [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) - 在Docker Swarm中创建分布式，隔离的任务管道.
 - [Watchtower](https://github.com/v2tec/watchtower) -  [@CenturyLinkLabs] [centurylinklabs]自动更新正在运行的Docker容器
@@ -473,10 +473,10 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - 在OS X上使用Docker的高效开发环境 [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)   - 从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
-- [Docker-sync](http://docker-sync.io/) - 大幅提升表现（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ）在Mac OS X / Windows和Linux上使用Docker进行开发时，将代码共享到容器中.  通过 [@EugenMayer](https://github.com/EugenMayer)
+- [Docker-sync](https://github.com/EugenMayer/docker-sync) - 大幅提升表现（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ）在Mac OS X / Windows和Linux上使用Docker进行开发时，将代码共享到容器中.  通过 [@EugenMayer](https://github.com/EugenMayer)
 - [docker-vm](https://github.com/shyiko/docker-vm) - 简单而透明的替代boot2docker（由Vagrant支持） [@shyiko](https://github.com/shyiko)
-- [Dusty](http://dusty.gc.com/) -  OS X上的托管Docker开发环境
-- [Eclipse Che](http://www.eclipse.org/che/) - 具有Docker运行时，云IDE，下一代Eclipse IDE的开发人员工作区服务器
+- [Dusty](https://github.com/gamechanger/dusty) -  OS X上的托管Docker开发环境
+- [Eclipse Che](https://github.com/eclipse/che) - 具有Docker运行时，云IDE，下一代Eclipse IDE的开发人员工作区服务器
 - [EnvCLI](https://github.com/EnvCLI/EnvCLI)   - 用项目特定的docker容器替换Node，Go，...的本地安装.  通过 [@EnvCLI](https://github.com/EnvCLI)
 - [footloose](https://github.com/weaveworks/footloose) - 旋转容器，看起来像虚拟机 - 通过 [@dlespiau](https://github.com/dlespiau)
 - [forward2docker](https://github.com/bsideup/forward2docker) ：skull： - 用于将端口从localhost自动转发到在boot2docker VM中运行的Docker容器上的端口的实用程序 [@bsideup](https://github.com/bsideup)
@@ -602,7 +602,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Raspberry Pi & ARM
 
-- [Docker Pirates ARMed with explosive stuff](http://blog.hypriot.com/) 关于Raspberry Pi上SD卡的群集，群集，docker，预安装映像的巨大资源
+- [Docker Pirates ARMed with explosive stuff](https://blog.hypriot.com/) 关于Raspberry Pi上SD卡的群集，群集，docker，预安装映像的巨大资源
 - [Get Docker up and running on the RaspberryPi in three steps](https://github.com/umiddelb/armhf/wiki/Get-Docker-up-and-running-on-the-RaspberryPi-%28ARMv6%29-in-three-steps)
 - [git push docker containers to linux devices](https://www.balena.io) 物联网的现代DevOps，利用git和Docker.
 - [Installing, running, using Docker on armhf (ARMv7) devices](https://github.com/umiddelb/armhf/wiki/Installing,-running,-using-docker-on-armhf-%28ARMv7%29-devices)
@@ -611,7 +611,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
 - [CVE Scanning Alpine images with Multi-stage builds in Docker 17.05](https://github.com/tomwillfixit/alpine-cvecheck) 通过 [@tomwillfixit](https://twitter.com/tomwillfixit)
-- [Docker and SELinux](http://www.projectatomic.io/docs/docker-and-selinux/)
+- [Docker and SELinux](https://www.projectatomic.io/docs/docker-and-selinux/)
 - [Docker Secure Deployment Guidelines](https://github.com/GDSSecurity/Docker-Secure-Deployment-Guidelines)
 - [Docker Securitiy - Quick Reference](https://binarymist.io/publication/docker-security/)
 - [Docker Security Cheat Sheet](https://github.com/konstruktoid/Docker/blob/master/Security/CheatSheet.adoc)
@@ -620,7 +620,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Improving Docker Security with Authenticated Volumes](https://www.blockbridge.com/improving-docker-security-with-authenticated-volumes/)
 - [Lynis is an open source security auditing tool including Docker auditing](https://cisofy.com/lynis/)
 - [Security Best Practices for Building Docker Images](https://linux-audit.com/tag/docker/)
-- [Software Engineering Radio interview of Docker Security Team Lead (Diogo Mónica)](http://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/)
+- [Software Engineering Radio interview of Docker Security Team Lead (Diogo Mónica)](https://www.se-radio.net/2017/05/se-radio-episode-290-diogo-monica-on-docker-security/)
 - [Ten Docker Image Security Best Practices Cheat Sheet](https://snyk.io/blog/10-docker-image-security-best-practices/)
 - [Top ten most popular docker images each contain at least 30 vulnerabilities](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/)
 - [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)

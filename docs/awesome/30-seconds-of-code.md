@@ -321,6 +321,7 @@ const pipeAsyncFunctions =（... fns）=&gt; arg =&gt; fns.reduce（（p，f）=
 <summary>Examples</summary>
 
 ```js
+
 const sum = pipeAsyncFunctions（
   x =&gt; x + 1，
   x =&gt;新Promise（resolve =&gt; setTimeout（（）=&gt; resolve（x + 2），1000）），
@@ -1108,8 +1109,8 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 <summary>Examples</summary>
 
 ```js
- indexOfAll（[1,2,3,1,2,3]，1）;  // [0.3]
- indexOfAll（[1,2,3]，4）;  // []
+ indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
+ indexOfA11（[1,2,3]，4）;  // []
 ```
 
 </details>
@@ -1898,12 +1899,13 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 使用三个参数（`value，index，array`）调用`func`.
 
 ```js
+
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-        arr.splice（arr.indexOf（val），1）;
-        return acc.concat（val）;
-      }, [])
+      arr.splice（arr.indexOf（val），1）;
+      return acc.concat（val）;
+    }, [])
     : [];
 ```
 
@@ -3246,7 +3248,7 @@ const insertAfter =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;after
 
 在指定元素的开头之前插入HTML字符串.
 
-使用&#39;el.insertAdjacentHTML（）`和`&#39;beforebegin&#39;`的位置来解析`htmlString`并在`el`的开头之前插入它.
+Use `el.insertAdjacentHTML()` with a position of `'beforebegin'` to parse `htmlString` and insert it before the start of `el`.
 
 ```js
 const insertBefore =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;beforebegin&#39;，htmlString）;
@@ -3825,8 +3827,8 @@ const getColonTimeFromDate = date =&gt; date.toTimeString（）.slice（0,8）;
 计算两个`Date`对象之间的差异（以天为单位）.
 
 ```js
-const getDaysDiffBetweenDates =（dateInitial，dateFinal）=&gt;
-  （dateFinal  -  dateInitial）/（1000 * 3600 * 24）;
+常量getDaysDiffBetweenDates =（初始日期，日期最终）=&gt;
+  （日期最终 - 初始日期）/（1000 * 3600 * 24）;
 ```
 
 <details>
@@ -4000,7 +4002,7 @@ const tomorrow =（）=&gt; {
 <summary>Examples</summary>
 
 ```js
- 明天（）;  // 2018-10-18（如果当前日期是2018-10-18）
+ 明天（）;  // 2018-10-19（如果当前日期是2018-10-18）
 ```
 
 </details>
@@ -4955,8 +4957,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -5281,7 +5283,7 @@ const maxBy =（arr，fn）=&gt; Math.max（... arr.map（typeof fn ===&#39;func
 <summary>Examples</summary>
 
 ```js
- maxBy（[{N：4}，{N：2}，{N：8}，{N：6}] 0 =&gt;上）;  // 8
+ maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 8
  maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 8
 ```
 
@@ -5618,7 +5620,7 @@ const sumBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
-o =&gt; on）; // 20（n：4}，{n：2}，{n：
+sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）; // 20
  sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 20
 ```
 
@@ -6840,7 +6842,7 @@ const omit =（obj，arr）=&gt;
 ```js
 const omitBy =（obj，fn）=&gt;
   Object.keys（OBJ）
-    .filter（k =&gt; fn（obj [k]，k））
+    .filter（k =&gt;！fn（obj [k]，k））
     .reduce（（acc，key）=&gt;（（acc [key] = obj [key]），acc），{}）;
 ```
 
@@ -7746,7 +7748,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [b] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7776,7 +7778,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [b] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7805,7 +7807,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [b] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7833,7 +7835,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [b] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8505,7 +8507,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（a a v）），（v），（x）
+    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
     {}
   );
 ```
@@ -8951,7 +8953,7 @@ const toOrdinalSuffix = num =&gt; {
     tPattern = [11,12,13,14,15,16,17,18,19];
   return oPattern.includes（digits [0]）&amp;&amp;！tPattern.includes（digits [1]）
      ？  int +序数[digits [0]  -  1]
-    : int + ordinals[3];
+    ：int + ordinals [3];
 };
 ```
 

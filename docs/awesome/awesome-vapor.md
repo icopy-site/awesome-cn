@@ -99,6 +99,7 @@
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/24/vapor-3-with-docker.html) -  Vapor 3的最终Docker指南.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) - 小型教程的大集合.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) - 通过真实项目从Vapor 2过渡到Vapor 3.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Tutorials for Beginner to Advanced](https://medium.com/@martinlasek) - 初级到高级的书面教程.
 
 ### Books
 
@@ -112,6 +113,7 @@
 ### Videos
 
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Server Side Swift with Vapor](https://www.raywenderlich.com/4493-server-side-swift-with-vapor/lessons/1)
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor - Beginner to Advanced](https://www.youtube.com/channel/UCoLEXFUHIKXunm9QJjsAftw/videos)
 
 ## Open-source Projects
 
@@ -122,6 +124,7 @@
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [User Manager Service](https://github.com/skelpo/UserManager) - 用于生产应用程序设置的小型，有用的用户管理器.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporBerlin](https://github.com/MartinLasek/vaporberlinBE) -  VaporBerlin的聚会网站的后端.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor Chat](https://github.com/vapor-community/chat-example) - 使用Vapor构建的实时聊天客户端，具有iOS应用程序.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [ServerSide.swift](http://www.serversideswift.info/) - 全球服务器端Swift会议的会议网站.
 
 ## License
 

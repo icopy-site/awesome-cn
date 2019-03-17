@@ -97,6 +97,15 @@ Octohint为GitHub添加了IntelliSense提示功能.
  ![GitHub Diff Navigator video](https://github.com/daattali/github-diff-navigator-extension/raw/master/img/doc/demo.gif)
 </details>
 
+
+
+从任何git存储库快速浏览文件的历史记录.
+
+<details><summary>Screenshots</summary>
+
+ ![Git History screenshot](https://user-images.githubusercontent.com/1911623/52460615-f3899d80-2b49-11e9-8c21-06af4097a527.gif)
+</details>
+
 ## Comments
 
 

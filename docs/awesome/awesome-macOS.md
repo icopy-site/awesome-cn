@@ -356,7 +356,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 * [SimpleumSafe](https://simpleum.com/) - 使用macOS或iOS加密，组织和同步文件.
 * [tinc](https://www.tinc-vpn.org)   - 安全网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
 * [Tunnelblick](https://tunnelblick.net)   - 易于使用的OpenVPN客户端和GUI.  [！[开源软件] [OSS图标]]（https://github.com/Tunnelblick/Tunnelblick）！[免费软件] [免费软件图标]
-- [VeraCrypt](https://veracrypt.codeplex.com/)   - 免费和开源的磁盘加密软件.  [！[开源软件] [OSS图标]]（https://veracrypt.codeplex.com/SourceControl/latest）！[免费软件] [免费软件图标]
+* [VeraCrypt](https://veracrypt.codeplex.com/)   - 免费和开源的磁盘加密软件.  [！[开源软件] [OSS图标]]（https://veracrypt.codeplex.com/SourceControl/latest）！[免费软件] [免费软件图标]
 * [Viscosity](https://www.sparklabs.com/viscosity/) - 功能齐全的OpenVPN客户端，可用于企业部署.
 
 
@@ -387,6 +387,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 
 * [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 * [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
+* [macOS Mojave](https://forums.macrumors.com/forums/macos-mojave-10-14.205/)
 
 
 ### Reddit

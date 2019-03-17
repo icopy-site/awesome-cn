@@ -48,6 +48,7 @@
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
 - [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
+- [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
 
 ### Video
 
@@ -178,6 +179,7 @@
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) - 一个简单的Python应用程序，可让您通过命令行访问Simplenote帐户.
 - [td-cli](https://github.com/darrikonn/td-cli) - 一个todo命令行管理器，用于组织和管理多个项目中的待办事项.
+- [taskell](https://github.com/smallhadroncollider/taskell) - 命令行看板/任务管理器.
 
 ### Finance
 
@@ -198,7 +200,6 @@
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上搜索，下载和安装任何Google字体.
 - [aria2](https://github.com/tatsuhiro-t/aria2)   - 轻量级多协议和多源，跨平台下载实用程序.  它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink.
 - [share-cli](https://github.com/marionebl/share-cli) - 从命令行快速与本地网络共享文件.
-- [remote-share-cli](https://github.com/marionebl/remote-share-cli) - 快速与您的命令行共享文件.
 - [wego](https://github.com/schachmat/wego) - 在浏览器或控制台中获取天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 从您的航站楼查看您所在城市的天气情况.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器 - 控制台中的整个世界！
@@ -390,7 +391,7 @@
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
 
 ## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
+- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - 穿越Mandelbrot分形的cli.
 - [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 
@@ -400,7 +401,7 @@
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
-- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
+- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 
 ## Other

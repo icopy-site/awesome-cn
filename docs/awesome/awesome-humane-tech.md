@@ -33,7 +33,7 @@
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - 与希波克拉底誓言相当的程序员道德誓言.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - 为实现道德设计的场所和项目重新绘制了马斯洛夫需求金字塔.
 - [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术未来影响的指南.
-- [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德规范和职业行为准则.
+- [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则纳入您的数据工作的全球倡议.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立道德考虑体验的可选誓言.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - 参与开发物联网的每个人的行为准则
@@ -65,7 +65,7 @@
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - 浏览器扩展允许通过更改User-Agent标头来构建另一个浏览器.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) - 浏览器扩展，在指定的时间间隔后自动替换User-Agent.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) - 更改域时自动隐藏引用者的浏览器扩展.
-- [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - Browser extension that prevents fingerprinting via Javascript Canvas API.
+- [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - 浏览器扩展，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) - 浏览器扩展以禁用WebRTC以避免从VPN后面泄露您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) - 取代专有云服务，以跨多个设备同步文件，分散.
 - [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - 一种点对点即时通讯工具，旨在使普通用户轻松获得安全和隐私.
@@ -90,6 +90,7 @@
 - [Searx](https://asciimoo.github.io/searx/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/asciimoo/searx) - 无需跟踪，隐私尊重的元搜索引擎，可以自我托管.
 - [DNS66](https://jak-linux.org/projects/dns66/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/julian-klode/dns66) - 适用于Android的基于DNS的主机拦截器（以及轻量级广告拦截器）.
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - 浏览器扩展，一旦选项卡关闭，就会删除cookie，除非站点是allowListed.
+- [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - 使用130规则从地图栏URL中删除跟踪元素的插件.
 
 ## Consent
 
@@ -190,7 +191,7 @@
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 根据许多已知的跟踪技术检查您的电子邮件提供商和客户端保
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
 - [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - 浏览器扩展，以帮助ProPublica在Facebook上收集政治广告.
-- [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - A browser extension that tracks which entities are targeting which demographics with adverts.
+- [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - 一种浏览器扩展程序，用于跟踪哪些实体正在定位具有广告的受众特征.
 
 ## Censorship
 
@@ -222,4 +223,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [aschrijver](https://github.com/aschrijver) （维护者）和其他conbributors已放弃所有版权及相关或相邻的权利.
+在法律允许的范围内， [aschrijver](https://github.com/aschrijver) (the maintainer) and other conbributors have waived all copyright and related or neighboring rights to this work.
