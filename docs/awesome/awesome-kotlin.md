@@ -211,7 +211,7 @@
 
 ### <a name="libraries-frameworks-tools"></a>Tools <sup>[Back ⇈](#libraries-frameworks-tools-subcategory)</sup>
 * [SonarSource/sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) -  IDE扩展，可帮助您在编写代码时检测并修复质量问题.
-* [Kotlin/dokka](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
+* [Kotlin/dokka](https://github.com/Kotlin/dokka) -  Kotlin的文档引擎.
 * [Vorlonsoft/EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) -  Gradle Script插件，用于生成Dokka针对Kotlin和Java，Android和非Android项目的文档.
 * [Vorlonsoft/GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle Script插件，用于将Gradle Android / Kotlin / Java Artifacts上传到Maven存储库（JCenter，Maven Central，...）.
 * [holgerbrandl/kscript](https://github.com/holgerbrandl/kscript) - 用于Kotlin的脚本工具.
@@ -376,6 +376,7 @@
 * [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - 用Kotlin编写的Spring 5 Reactive Petclinic应用程序.
 * [yyunikov/spring-boot-2-kotlin-starter](https://github.com/yyunikov/spring-boot-2-kotlin-starter) -  Spring Boot 2.0 Kotlin应用程序启动程序，配置Gradle，Mongo，JUnit 5测试，日志记录，CircleCI和Docker组合.
 * [viniciusccarvalho/kodein-cloud-functions](https://github.com/viniciusccarvalho/kodein-cloud-functions) - 为不同的云功能提供商（AWS，Azure）提供适配器，以运行定义为kodein模块的vanilla kotlin功能
+* [starcoinorg/sirius](https://github.com/starcoinorg/sirius/) -  Sirius实施第二层金融中介协议.
 
 ### <a name="projects-build-tools"></a>Build tools <sup>[Back ⇈](#projects-build-tools-subcategory)</sup>
 * [cbeust/kobalt](https://github.com/cbeust/kobalt) - 构建受Gradle启发的系统.
@@ -1053,7 +1054,7 @@
 
 ### <a name="articles-blog-posts-june-2015"></a>June 2015 <sup>[Back ⇈](#articles-blog-posts-june-2015-subcategory)</sup>
 * [Quasar and Kotlin - a Powerful Match](http://kotlin.link/articles/Quasar-and-Kotlin-–-a-Powerful-Match.html) - 法比奥
-* [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - 彼得莱德布鲁克
+* [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - Peter Ledbrook
 * [RxAndroid and Kotlin (Part 1)](http://kotlin.link/articles/RxAndroid-and-Kotlin-Part-1.html) - 艾哈迈德里兹万
 
 ### <a name="articles-blog-posts-december-2014"></a>December 2014 <sup>[Back ⇈](#articles-blog-posts-december-2014-subcategory)</sup>

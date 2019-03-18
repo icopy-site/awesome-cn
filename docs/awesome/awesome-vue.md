@@ -542,7 +542,7 @@
 - [eth-vue](https://github.com/DOkwufulueze/eth-vue)  Truffle Box，提供快速构建具有Vue.js身份验证功能的Ethereum dApp所需的一切，包括可轻松部署到Ropsten Network的配置.  它也是启用Gravatar的.
 - [Nippon-color](https://github.com/ssshooter/nippon-color)  灵感来自nipponcolors dot com.  这是一个使用vue-cli 3的日本色PWA版本.
 - [Saleina CMS](https://github.com/saleina/SaleinaCMS) 使用git作为后端使用vue构建的静态站点内容管理系统.
-- [Vuido](https://github.com/mimecorg/vuido)  用于创建本机桌面应用程序的框架.  它可以在Windows，OS X和Linux上运行，使用本机GUI组件.
+- [Vuido](https://github.com/mimecorg/vuido)  用于创建本机桌面应用程序的框架.  它可以使用本机GUI组件在Windows，OS X和Linux上运行.
 - [YouGet](https://github.com/ahmetzeybek/YouGet) YouTube视频/音频/字幕下载器+切割器
 - [Vue Pug Stylus](https://github.com/wesssel/vue-pug-stylus) 查看+ Pug + Stylus样板   
 - [Crypto News](https://github.com/Bartozzz/crypto-news) 允许您转换加密货币，查看每个ICO的最新新闻和汇率 - 来自一个地方的加密货币世界的所有数据.
@@ -2239,6 +2239,7 @@
  - [vue-css-modules](https://github.com/fjc0k/vue-css-modules) - 将类名无缝映射到Vue组件内的CSS模块.
  - [vue-simple-bem](https://github.com/mlturner88/vue-simple-bem) - 带有succint语法的指令，用于将BEM类名添加到元素中.
  - [fela-vue](https://github.com/houd1ni/fela-vue) - 适用于Vue的CSS-IN-JS mixin，旨在提供灵活性和团队导向.
+ - [j-vue](https://github.com/LongTengDao/j-vue/)
 
 ### Asset Management
 

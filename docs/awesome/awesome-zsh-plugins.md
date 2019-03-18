@@ -263,8 +263,8 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [base16](https://github.com/chriskempson/base16-shell)   - 添加脚本以允许您更改shell的默认ANSI颜色，但最重要的是，更改shell的256色空间的颜色17到21（如果您的终端支持）.  这个脚本可以使你的外壳明亮的颜色（例如亮绿色仍然是绿色等），同时为应用程序提供额外的base16颜色，如 [Vim](https://www.vim.org).
 * [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts)   - 在你的shell中打印随机棒球相关的“有趣的事实”.  取决于&#39;fortune`和`cowsay`正在安装.
 * [basex](https://github.com/dirkk/zsh-basex) - 添加几个 [BaseX](http://basex.org/) 简化用法的别名.
-* [bash](https://github.com/chrissicool/zsh-bash)   - 使ZSH更兼容Bash.  它重新定义了source命令，使其更像`bash`.  它还可以实现`bash`完成.
 * [bash-quote](https://github.com/jtprog/bash-quote) - 从Bash.im获取随机报价.
+* [bash](https://github.com/chrissicool/zsh-bash)   - 使ZSH更兼容Bash.  它重新定义了source命令，使其更像`bash`.  它还可以实现`bash`完成.
 * [battery_state](https://github.com/Jactry/zsh_battery_state) - 在右键提示中显示电池状态.
 * [bd](https://github.com/Tarrasch/zsh-bd) - 跳回特定目录，不做`cd ../../ ..`.
 * [bepoptimist](https://github.com/sheoak/zsh-bepoptimist) - 为法语重新映射ZSH vi-mode [bépo keyboard](http://bepo.fr/wiki/Accueil).
@@ -302,8 +302,8 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [crypto-prices](https://github.com/vincentdnl/zsh-crypto-prices) - 添加一个 [powerlevel9k](https://github.com/bhilburn/powerlevel9k) 以当前比特币价格分段.
 * [crystal](https://github.com/veelenga/crystal-zsh) - 一个插件 [Crystal](https://github.com/crystal-lang/crystal).
 * [czhttpd](https://github.com/jsks/czhttpd) - 一个简单的http服务器，用99.9％的纯ZSH编写.
-* [deer](https://github.com/Vifon/deer) -  ZSH的文件导航器受到了很大的启发 [ranger](https://ranger.github.io/).
 * [deepx](https://github.com/GetAmbush/deepx-zsh-plugin) - 收集有用和有趣的命令，以改善工作流程和生活质量.
+* [deer](https://github.com/Vifon/deer) -  ZSH的文件导航器受到了很大的启发 [ranger](https://ranger.github.io/).
 * [depot-tools](https://github.com/kuoe0/zsh-depot-tools)   - 用于安装chromium depot_tools的简单oh-my-zsh插件.  安装此插件会自动将所有chrome depot_tools放入您的路径中.
 * [diff-so-fancy](https://github.com/zdharma/zsh-diff-so-fancy) - 简化将“diff-so-fancy”项目安装到您的用户帐户中.
 * [diractions](https://github.com/AdrieanKhisbe/diractions) - 允许您将简短的逻辑/助记符名称映射到目录以快速访问它们，或在其中执行操作.
@@ -538,7 +538,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [ssh-plugin](https://github.com/paraqles/zsh-plugin-ssh) - `ssh`的插件.
 * [startup-timer](https://github.com/paulmelnikow/zsh-startup-timer) - 打印shell启动所需的时间.
 * [stashy](https://github.com/MisterRios/stashy) - 插件简化了使用`git stash`.
-* [statify](https://github.com/vladmrnv/statify) - 进行基本统计分析的插件.
+* [statify](https://github.com/vladmrnv/statify) - Plugin that does basic statistical analysis.
 * [sublime](https://github.com/valentinocossar/sublime) - 与Oh My Zsh的官方Sublime插件相同，但如果有一个已经打开的话，这会打开当前Sublime窗口中的文件.
 * [sudo](https://github.com/hcgraf/zsh-sudo)   - 来自oh-my-zsh的`sudo`插件，被提取为独立的.  在emacs-mode或vi-command模式下按* ESC-ESC *，在当前/上一个命令之前切换`sudo`.
 * [suffix-alias](https://github.com/srijanshetty/zsh-suffix-alias) - 使用ZSH的后缀别名直接打开shell中的文件.
@@ -680,7 +680,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [nova](https://github.com/rbirnie/oh-my-zsh-nova) - 为新星提供自动完成功能.
 * [npm-run](https://github.com/akoenig/npm-run.plugin.zsh) - 对“npm run”的自动完成支持.
 * [packer](https://github.com/wakeful/zsh-packer) - 添加标签完成 [packer](https://packer.io).
-* [pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) - Pandoc completion plugin.
+* [pandoc-completion](https://github.com/srijanshetty/zsh-pandoc-completion) -  Pandoc完成插件.
 * [parallels-zsh-plugin](https://github.com/benclark/parallels-zsh-plugin) - 为Parallels桌面添加完成.
 * [pass-zsh-completion](https://github.com/ninrod/pass-zsh-completion) - 方便回购轻松获得 [pass](https://www.passwordstore.org/) ZSH命令完成.
 * [pip-completion](https://github.com/srijanshetty/zsh-pip-completion) -  pip的自动完成插件.
@@ -767,6 +767,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [bureau](https://github.com/isqua/bureau)   - 一个清晰，信息丰富的双线提示.  包括针对大型存储库优化的git状态.
 * [candy-light](https://github.com/NicolaiRuckel/oh-my-zsh-candy-light) - 糖果主题的轻型版本.
 * [cayun](https://github.com/comeacrossyun/ys-cayun.zsh-theme) - 在提示符中显示活动的Python版本和`git`装饰.
+* [chaffee](https://github.com/jasonchaffee/chaffee.zsh-theme)   - 基于sorin.  显示Java，Scala，Go，Node，Python和Ruby的当前活动版本.
 * [chaotic-beef](https://github.com/ARtoriouSs/chaotic-beef-zsh-theme)   -  Oh-My-Zsh的一个小巧而美丽的主题，没有任何多余的东西.  包括`git`状态装饰.
 * [charged](https://github.com/robwierzbowski/charged-zsh-theme) - 为ZSH优化的ZSH提示 [solarized](https://github.com/altercation/solarized) 黑暗的终端主题.
 * [cherry](https://github.com/feddamisch/zsh-theme-cherry) - 在正确的提示中使用`git`状态装饰的酷主题.
@@ -869,7 +870,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [jcl](https://github.com/jasonlewis/jcl-zsh-theme) - 宽松地基于ys主题.
 * [jose](https://github.com/tmjoseantonio/shrug-zsh-theme) - 灵感来自 [beer-theme](https://github.com/tcnksm/oh-my-zsh-beer-theme)，包括`git`状态.
 * [jovial](https://github.com/zthxxx/jovial) - 显示主机，用户，路径，开发环境，`git`分支，其中python venv处于活动状态.
-* [judgedim](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - 极简主义提示.
+* [judgedim](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.
 * [just-another](https://github.com/supertassu/another-theme) - 只是另一个主题，当你被扔到另一台机器时带有主机名.
 * [jwalter](https://github.com/jeffwalter/zsh-jwalter) - 主题与`git`，`svn`和网络意识.
 * [karu](https://github.com/zaari/karu) - 极简主义单行ZSH提示.
@@ -898,6 +899,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [linuxer](https://github.com/patrick330602/linuxer) - 受Yaris Alex Gutierrez的优雅触摸，Yad Smood&#39;s ys和Bureau主题的启发.
 * [liquidprompt](https://github.com/nojhan/liquidprompt) - 针对Bash和ZSH的全功能和精心设计的自适应提示.
 * [llama](https://github.com/PsychoLlama/llama.zsh-theme) - 挑剔的骆驼使用的极简主题.
+* [logico](https://github.com/logico-dev/logico-zsh-theme)   - 有`git`装饰.  显示vi模式的远程状态和指示器.
 * [lone-star](https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme) - 以Sindre Sorhus纯粹主题为基础的德克萨斯主题主题.
 * [ludwigws](https://github.com/LudwigWS/my-zsh-theme)   -  lambda-mod主题的变体.  有`git`装饰，需要与电源线兼容的终端字体.
 * [magico](https://github.com/IOsonoTAN/magico) -  IOsonoTAN的magico主题.
@@ -1040,7 +1042,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [statusline](https://github.com/el1t/statusline) - 响应式ZSH主题，在您需要时提供信息片段.
 * [steef (danihodovic)](https://github.com/danihodovic/steeef)   -  ZSH steeef主题作为独立的存储库.  这个回购的目的是避免在使用steeef主题时依赖oh-my-zsh.  像抗体这样的ZSH插件管理器可以使用主题而无需使用oh-my-zsh.
 * [steef (zimfw)](https://github.com/zimfw/steeef) - 可定制的版本 [steeef's](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) 主题.
-* [sugar-free](https://github.com/cbrock/sugar-free) - Based on the [Pure](https://github.com/sindresorhus/pure) 和 [C和y](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/c和y.zsh-theme) 主题.
+* [sugar-free](https://github.com/cbrock/sugar-free) - 基于 [Pure](https://github.com/sindresorhus/pure) 和 [C和y](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/c和y.zsh-theme) 主题.
 * [sukeesh](https://github.com/sukeesh/sukeesh-zsh-theme)   - 包括`git`状态装饰.  在黑暗的终端背景更好地工作.
 * [susi](https://github.com/carcruz/susi-zsh-iterm) - 包括`git`状态装饰和随附的iTerm2配色方案.
 * [tabaf](https://github.com/bvc3at/tabaf-zsh-theme) - 针对深色背景优化的最小ZSH主题.
@@ -1095,11 +1097,11 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [Fantasque-sans](https://github.com/belluzj/fantasque-sans) - 另一种与Powerline兼容的字体.
 * [Hack](https://sourcefoundry.org/hack/) - 另一种专为源代码设计的Powerline兼容字体.
 * [Input Mono](http://input.fontbureau.com/)   - 专为代码设计的一系列字体.  它提供等宽字体和比例字体，并包括电力线字形.
+* [Iosevka](https://github.com/be5invis/Iosevka)   - 代码的字体，由代码构建.  高度可定制.
 * [Monoid](https://larsenwork.com/monoid/) -  Monoid可自定义和优化，即使在低分辨率显示器上也能在15px线高处进行类似位图的清晰度编码.
-* [nerd fonts](https://github.com/ryanoasis/nerd-fonts)   - 为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集超过20个修补字体（超过2,000种变体）和FontForge字体修补程序python脚本.  包括：Droid Sans，Meslo，源代码，AnonymousPro，Hack，ProFont，Inconsolata等等.
+* [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)   - 为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集超过20个修补字体（超过2,000种变体）和FontForge字体修补程序python脚本.  包括：Droid Sans，Meslo，源代码，AnonymousPro，Hack，ProFont，Inconsolata等等.
 * [Powerline patched font collection](https://github.com/powerline/fonts) - 修补了十几个字体的集合，包括电力线gylphs.
 * [Terminus](http://files.ax86.net/terminus-ttf/) - 终端的TTF版本，包括电力线字形.
-* [Iosevka](https://github.com/be5invis/Iosevka)   - 代码的字体，由代码构建.  高度可定制.
 
 ## Installation
 

@@ -27,7 +27,7 @@
 * [RAML](http://raml.org/) - 简单而简洁的方式来描述RESTful API.
 * [JSend](http://labs.omniti.com/labs/jsend) - 简单的规范，规定了如何格式化来自Web服务器的JSON响应的一些规则.
 * [OData](http://www.odata.org/)   - 开放协议，允许创建和使用可查询和可互操作的RESTful API.  相当复杂.
-* [HAL](http://stateless.co/hal_specification.html) - 简单的格式，为您的API中的资源之间的超链接提供一致且简单的方法（请参阅： [HATEOAS](#hateoas)).
+* [HAL](http://stateless.co/hal_specification.html) - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) - 用于描述JSON（W3C）中的关联数据和超媒体关系的标准.
 * [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的Web API（W3C）词汇表.
 * [Schema.org](http://schema.org) - 描述常见数据模型的模式集合.
@@ -78,7 +78,7 @@
 ### Node.js
 
 * [node-restify](https://github.com/restify/node-restify) - 框架专门用于REST API.
-* [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
+* [Sails.js](http://sailsjs.org/) -  Node.js Web框架嵌入命令以自动生成REST API.
 * [mers](https://github.com/jspears/mers) - 快速服务将Mongoose finders暴露为RESTful API.
 * [Baucis](https://github.com/wprl/baucis) - 基于Mongoose实体构建可扩展的REST API.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -  JavaScript的同构资源引擎.
@@ -102,7 +102,7 @@
 
 * [REST APIs with Symfony2: the Right Way](http://williamdurand.fr/2012/08/02/rest-apis-with-symfony2-the-right-way/) - 使用Symfony2框架构建最先进的REST API的完整指南.
 * [FOSRestBundle](https://github.com/FriendsOfSymfony/FOSRestBundle) -  REST API的捆绑处理视图，路由，错误处理等.
-* [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
+* [stanlemon/rest-bundle](https://github.com/stanlemon/rest-bundle) - 使用约定优于配置，基于Doctrine实体构建REST API.
 * [lakion/Lionframe](http://lakion.com/lionframe) - 在几个社区库之间进行混合以简化API开发.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - 整合 [Hateoas](https://github.com/willdurand/Hateoas) 库成为Symfony2应用程序.
 * [Symfony REST Edition](https://github.com/gimler/symfony-rest-edition) - 从Symfony2应用程序开始，预先配置所有REST友好的捆绑包.
@@ -115,7 +115,7 @@
 
 * [Django REST framework](http://www.django-rest-framework.org/) - 功能强大且灵活的工具包，可轻松构建Web API.
 * [django-tastypie](http://tastypieapi.org/) - 为Django应用程序创建美味的API.
-* [flask-restful](http://flask-restful.readthedocs.org/) -  Flask扩展，增加了对快速构建REST API的支持.
+* [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) -  Flask扩展，用于为使用SQLAlchemy（或Flask-SQLAlchemy）定义的数据库模型生成ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量且快速的API框架.
 * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
@@ -215,12 +215,12 @@
 * [3scale](https://www.3scale.net/) - 基于Nginx的API网关，可将内部和外部API服务与3scale的API管理平台集成.
 * [Assertible](https://assertible.com) - 在部署和跨环境后连续测试和监控API.
 * [Moesif](https://www.moesif.com) - 用于RESTful和GraphQL的调试，监控和使用情况跟踪的API分析.
-
+* [Beeceptor](https://beeceptor.com/)   -  HTTP检查，模拟和代理服务.  提供用于创建模拟API端点和模拟响应的命名端点.
 
 ## Miscellaneous
 
+* [react-admin](https://github.com/marmelab/react-admin) - 为任何RESTful API添加ReactJS管理GUI.
 * [ng-admin](https://github.com/marmelab/ng-admin) - 为任何RESTful API添加AngularJS管理GUI.
-* [admin-on-rest](https://github.com/marmelab/admin-on-rest) - 为任何RESTful API添加ReactJS管理GUI.
 * [swagger-codegen](https://github.com/swagger-api/swagger-codegen) - 给定OpenAPI规范（以前称为Swagger规范）自动生成客户端库或服务器存根.
 * [Lumber](https://github.com/ForestAdmin/lumber) - 生成应用程序的管理界面.
 

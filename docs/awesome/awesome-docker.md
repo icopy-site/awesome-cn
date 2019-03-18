@@ -143,6 +143,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Logspout](https://github.com/gliderlabs/logspout) -  [@gliderlabs] [gliderlabs]记录Docker容器日志的路由
 - [NexClipper](https://github.com/NexClipper/NexClipper) -  NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere，Kubernetes的容器监控和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
 - [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)   -  Docker主机和容器监控，日志记录和开箱即用的警报，使用cAdvisor，Prometheus，Grafana进行监控，Elasticsearch，Kibana和Logstash进行日志记录，使用elastalert和Alertmanager进行警报.  设置在5分钟.  生产使用的安全模式，内置[自动Nginx反向代理（jwilder）] [nginxproxy].
+- [SwarmAlert](https://github.com/gpulido/SwarmAlert) - 监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
 - [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)   -  Zabbix模块，提供运行容器，CPU /内存/ blk IO / net容器指标的发现.  还支持Systemd Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（~10x）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) - 使用zabbix LLD功能自动监控容器.
 

@@ -22,12 +22,12 @@
 ## Tutorials
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - 从TensorFlow的基础知识到稍微有趣的应用程序
-* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials)   - 基于Google的TensorFlow框架的深度学习简介.  这些教程是Newmu的Theano的直接端口
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials)   - 基于Google TensorFlow框架的深度学习简介.  这些教程是Newmu的Theano的直接端口
 * [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - 这些教程适用于深度学习和TensorFlow的初学者，其中包含详细记录的代码和YouTube视频.
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - 适用于初学者的TensorFlow教程和代码示例
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - 使用Jupyter Notebook用Python编写的TensorFlow教程
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - 从其他TensorFlow示例重新创建代码
-* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) - TensorFlow compiled and running properly on the Raspberry Pi
+* [Installing TensorFlow on Raspberry Pi 3](https://github.com/samjabrahams/tensorflow-on-raspberry-pi) -  TensorFlow在Raspberry Pi上正确编译并运行
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - 在TensorFlow中使用LSTM对手机传感器数据进行递归神经网络分类
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - 构建您的第一个TensorFlow Android应用程序
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - 学习在简单数据集上使用seq2seq模型，作为该体系结构提供的大量可能性的介绍
@@ -80,6 +80,7 @@
 * [DAGGER](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - 用于比赛 [Gym Torcs](https://github.com/ugo-nama-kun/gym_torcs)
 * [TRPO](https://github.com/jjkke88/RL_toolbox) - 对于连续和离散动作空间
 * [Highway Network](https://github.com/fomorians/highway-cnn) -  TensorFlow实现 ["Training Very Deep Networks"](http://arxiv.org/abs/1507.06228) 用一个 [blog post](https://medium.com/jim-fleming/highway-networks-with-tensorflow-1e6dfa667daa#.ndicn1i27)
+* [Hierarchical Attention Networks](https://github.com/tqtg/hierarchical-attention-networks) -  TensorFlow实现 ["Hierarchical Attention Networks for Document Classification"](https://www.cs.cmu.edu/~hovy/papers/16HLT-hierarchical-attention-networks.pdf)
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) -  TensorFlow实现 ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) 用一个 [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - 实施 [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) -  TensorFlow实现 [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
@@ -133,6 +134,13 @@
 * [tf-encrypted](https://github.com/mortendahl/tf-encrypted) - 在TensorFlow之上的层，用于对加密数据进行机器学习
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - 将PyTorch模型转换为Keras（使用TensorFlow后端）格式
 * [gluon2keras](https://github.com/nerox8664/gluon2keras) - 将Gluon模型转换为Keras（使用TensorFlow后端）格式
+* [TensorIO](https://doc-ai.github.io/tensorio/) - 用于将TensorFlow Lite模型部署到移动设备的轻量级跨平台库. 
+
+<a name="tools-utils" />
+
+## Tools/Utilities
+
+* [Guild AI](https://guild.ai) -  TensorFlow的任务运行器和包管理器
 
 <a name="video" />
 
