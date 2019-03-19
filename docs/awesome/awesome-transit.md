@@ -32,7 +32,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
   - [OneBusAway Developers mailing list](http://groups.google.com/group/onebusaway-developers)
   - [OneBusAway API mailing list](http://groups.google.com/group/onebusaway-api)
   - [OneBusAway Slack chat](https://onebusaway.herokuapp.com/)
-- [Transit Techies NYC](https://www.meetup.com/Transit-Techies-NYC/) - 对于那些对此回购感兴趣的人，可以参加纽约市的聚会. [Speaker list](https://github.com/tyleragreen/transit-techies-nyc) 包括这个回购的许多贡献者.
+- [Transit Techies NYC](https://transittechies.nyc/) - 对于那些对此回购感兴趣的人，可以参加纽约市的聚会. [Speaker list](https://transittechies.nyc/past) 包括这个回购的许多贡献者.
 
 ### Data
 

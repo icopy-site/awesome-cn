@@ -135,11 +135,13 @@ devops
 * [gradle](http://gradle.org/)    Gradle是构建自动化的演变.  Gradle可以自动构建，测试，发布，部署以及更多软件包或其他类型的项目，例如生成的静态网站，生成的文档或其他任何内容.  
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)    如果构建和测试需要很长时间才能完成，则持续交付不是连续的.  ElectricAccelerator可将构建和测试速度提高20倍，从而缩短产品上市时间，提高基础架构利用率和开发人员的工作效率  
 * [SBT](http://www.scala-sbt.org/index.html)  sbt是Scala和Java项目的开源构建工具.
+* [do](https://github.com/8gears/do)   世界上最简单的构建工具.  不可知和多用途构建工具和构建文件.  试图比通常的贝壳地狱更好.
+
 
 ## Static Check
 软件静态检查工具  
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) 维基页面  
-* [coverity](http://www.coverity.com/)  持续衡量和改善整个开发组织的代码质量和安全性  
+* [coverity](http://www.coverity.com/)  Continually measure and improve code quality and security across your development organization  
 * [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个分析托管代码程序集（面向.NET Framework公共语言运行库的代码）的应用程序，并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html)  重复的代码很难找到，特别是在大型项目中.  但是PMD的复制/粘贴检测器（CPD）可以为您找到它  
 * [sonar](http://www.sonarqube.org)  SonarQube是一个管理代码质量的开放平台  
@@ -149,7 +151,7 @@ devops
 ## Dynamic Check
 软件动态检查工具  
 * [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis)  维基页面  
-* [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail  
+* [valgrind](http://valgrind.org)  自动检测许多内存管理和线程错误，并详细介绍您的程序  
 
 ## Performance Analysis
 Software performance analysis tools  

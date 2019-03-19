@@ -425,7 +425,7 @@
 
 ## HTTP
 
-* [Tiny.RestClient](https://github.com/restsharp/RestSharp) - 用于.NET的最简单的Fluent REST客户端.
+* [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - 用于.NET的最简单的Fluent REST客户端.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) -  .NET的简单REST和HTTP API客户端
 * [Flurl](https://flurl.io) - 流畅，可移植，可测试的REST / HTTP客户端库

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
 ## Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
-精选新闻通讯的精选列表.
+A curated list of awesome newsletters.
 
 灵感来自GitHub上的&#39;awesome- *&#39;趋势.
 
@@ -32,7 +32,7 @@
 * [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次通过电子邮件通讯，为设计人员和开发人员提供有用的提示，技巧和资源.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  一个快速的JavaScript提示，每隔一周发送到您的收件箱.
-* [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和网页设计时事通讯，专注于工具.
+* [Web Tools Weekly](https://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
 * [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) .  一系列令人敬畏的浏览器端JavaScript库，资源和闪亮的东西.
 * [TypeScript Weekly](https://www.typescript-weekly.com/) .  每周最好的TypeScript链接，就在您的框中.
@@ -75,14 +75,14 @@
 * [Sidebar](https://sidebar.io) .  每天五个以设计为中心的帖子.
 * [Web Designer News](https://www.webdesignernews.com) .  为设计师策划的故事.
 * [Responsive Design Weekly](http://responsivedesignweekly.com) .  免费，每周一次的响应式设计文章，工具，提示，教程和鼓舞人心的链接.
-* [UX Weekly](http://uxwkly.com/) .  每周约五个链接的小型时事通讯，一直有良好的阅读能力.
+* [UX Weekly](http://uxwkly.com/) .  每周约五个链接的小型时事通讯，阅读能力一直很好.
 * [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/) .  有关尼尔森诺曼集团的界面可用性，网站设计和用户体验研究的最新文章.
 * [UI Movement](https://uimovement.com) .  只有最好的UI设计灵感，就在您的收件箱中.
 * [Designer News](https://www.designernews.co) .  设计界在哪里见面.
 * [Design Faves](https://www.designfaves.com/) .  每日帖子和独家文章结合了品牌，艺术和平面设计界的最佳现代表达和创新.
 * [Hack Design](https://hackdesign.org) .  一个易于遵循的设计课程，适合那些做出惊人事情的人.
 * [Hacking UI](http://hackingui.com/) .  每周精心挑选的前端开发人员和产品经理资源.
-* [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
+* [eWebDesign](https://ewebdesign.com/) .  来自行业专家的最新网络新闻和文章.
 * [The UI Animation Newsletter](https://us2.list-manage.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5) .  UI动画新闻简报可让您及时了解最佳网络动画，动画设计和用户体验资源.
 * [Web Animation Weekly](http://webanimationweekly.com/) .  精选的文章，视频，书评和其他有关网页动画和动画设计精彩世界的好东西！
 * [Design Systems News](http://news.design.systems/) .  关于设计系统，模式库和风格指南的最新新闻，文章，回购，代码，框架，视频和播客. [Archive](http://news.design.systems/issues).
@@ -101,7 +101,8 @@
 ### Common Section
 * [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) .  每周收到业内人士的编程新闻和见解.
 * [Programming Digest](https://programmingdigest.net/) .  5个链接，一篇文章从周一到周五，有关于编程，大数据，架构，开发过程，数据库的最有趣的新闻 - 你的名字.
-* [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding) .  每日时事通讯，包含所有编程领域的长篇技术文章.
+* [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding). A daily newsletter featuring long-form technical articles of all fields of programming.
+* [Weekly Dev Tips](https://ardalis.com/tips) .  每周三每周发送一封电子邮件，提供新的软件开发提示 [Steve "ardalis" Smith](https://twitter.com/ardalis) .  主题包括从git到职业，Web开发，个人发展和团队合作.
 
 ### ObjectiveC
 * [iOS Dev Weekly](https://iosdevweekly.com/) .  每周最好的iOS开发链接.
@@ -125,6 +126,7 @@
 ### Go
 * [Go Newsletter](https://golangweekly.com/) .  关于Go编程语言的每周简报.
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter) .  每周概述最受欢迎的Go新闻，文章和图书馆.
+* [Master the World of Golang](https://www.getrevue.co/profile/golang) .  每周时事通讯，内容包括理论，趋势，工具和主题.
 
 ### R
 * [R Weekly](https://rweekly.org) .  关于R和数据科学的每周更新.  R周刊是 [openly developed on GitHub](https://github.com/rweekly/rweekly.org).
@@ -133,7 +135,7 @@
 * [Ruby Weekly](https://rubyweekly.com/) .  每日一次的免费电子邮件汇总Ruby新闻和文章.
 * [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多内容，每周五发送到您的收件箱.
-* [Volt Framework](http://voltframework.com/). Volt is a framework for building data rich web applications shockingly fast.
+* [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 * [Green Ruby News](http://greenruby.org/) .  关于红宝石，javascript，webdev，devops的每周新鲜链接的馈送，每周日由mose，xenor和tysliu收集.
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) .  一系列令人敬畏的Ruby宝石，工具，框架和软件.
 
@@ -206,7 +208,7 @@
 
 ### NoSQL
 * [NoSQL Weekly](https://www.nosqlweekly.com/) .  免费的每周时事通讯，内容包括与NoSQL相关的策划新闻，文章，新版本，工作等.
-* [mongoDB Weekly](https://mongodb.email/) .  MongoDB新闻和文章的免费每周一次的电子邮件汇总.
+* [mongoDB Weekly](https://mongodb.email/) .  每周一次的免费电子邮件综合MongoDB新闻和文章.
 
 ## Backend Development
 ### Docker
@@ -290,12 +292,12 @@
 * [Changelog Nightly](https://changelog.com/nightly) .  每天晚上10点CT发一封电子邮件，发现GitHub上最热门的新回购.
 * [Code Cartoons](https://tinyletter.com/codecartoons) .  通过电子邮件通过漫画学习代码.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) .  可以在本地托管的免费软件解决方案和Web应用程序的目录.
-* [lkml.wtf](https://lkml.wtf/) .  Linux内核邮件列表线程的每周综述，但有更多的讽刺.
+* [lkml.wtf](https://lkml.wtf/) .  每周一次的Linux内核邮件列表线程综述，但有更多的讽刺.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
 * [Now I Know](http://nowiknow.com/) .  每日免费电子邮件，以简洁的文摘提供琐事.
 * [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
-* [Engineering Impact](https://www.gitprime.com/engineering-impact/). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
-* [tl;dr Marketing](https://tldrmarketing.com/) .  每周一次的数字营销新闻通讯，涵盖SEO，PPC和社交媒体的新闻.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
+* [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
 * [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 * [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 * [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.

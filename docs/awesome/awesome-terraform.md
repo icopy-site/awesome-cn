@@ -36,7 +36,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ### Beginner Guides
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - 来自“Terraform：Up＆Running”作者的系列博客文章，引导读者从Terraform开始到在现实世界中使用它.
-* [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/blog/2016/02/10/bootstrapping-docker-with-terraform.html) - 使用Terraform在ECS上部署dockerized应用程序的演练.
+* [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/aws-docker-terraform) - 使用Terraform在ECS上部署dockerized应用程序的演练.
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 配置EC2实例.
 
 ### Writing Custom Providers

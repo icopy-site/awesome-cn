@@ -436,7 +436,6 @@
    * [zenhub.io](https://zenhub.io/)   -  GitHub中唯一的项目管理解决方案.  免费为公共回购，OSS和非营利组织
    * [trello.com](https://trello.com/)   - 基于董事会的项目管理.  自由
    * [clickup.com](https://clickup.com/)  - 项目管理.  带云存储的免费高级版本.  提供移动应用程序和Git集成
-   * [waffle.io](https://waffle.io/) - 来自现有GitHub问题的基于董事会的项目管理解决方案，免费用于开源
    * [LeanBoard](https://www.leanboard.io) - 用于GitHub问题的粘滞便笺的协作白板（用于示例映射和其他技术）
    * [huboard.com](https://huboard.com/) - 针对您的GitHub问题的即时项目管理，免费开源
    * [taiga.io](https://taiga.io/) - 面向初创公司和敏捷开发人员的项目管理平台，免费开源

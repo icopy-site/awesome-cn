@@ -102,6 +102,7 @@
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) -  Is的Linting规则.
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
+- [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - 赛普拉斯的Linting规则.
 
 ## Preconfigured Tools with ESLint Set up
 

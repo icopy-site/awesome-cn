@@ -91,6 +91,7 @@
 - [How to Determine Element Locators For Mobile Web and Hybrid Apps](https://appiumpro.com/editions/57)
 - [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 - [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
+- [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.

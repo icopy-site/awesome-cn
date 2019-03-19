@@ -119,8 +119,7 @@
 还有更多地方可以找到优秀的IPython笔记本：
 
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
-* [Fabian Pedregosa's larger, automatic gallery](http://fa.bianp.net/blog/2015/ipythonjupyter-notebook-gallery/)
-
+* [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
  _知道另一个伟大的笔记本吗？  请提交PR！_
 
@@ -150,7 +149,7 @@ It's helpful if you decide on a pet project to play around with, as you go, so y
 * Kevin Markham的视频系列， [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/) ，从我们已经涵盖的内容开始，然后继续在一个舒适的地方.  在视频之后你可以做Markham [General Assembly's Data Science course.](https://github.com/justmarkham/DAT8)  互动.  马克姆的课程也在华盛顿特区亲自提供.
 * [UC Berkeley's Data 8: The Foundations of Data Science](http://data8.org/) 课程和教科书 [Computational and Inferential Thinking](https://www.inferentialthinking.com/) 教授数据科学中的关键概念.
     *教科书还提供了数据科学的学术定义：**“数据科学是通过探索，预测和推理从大型和多样化的数据集中得出有用的结论”.**
-    * [Prof. Michael I. Jordan](https://people.eecs.berkeley.edu/~jordan/) （与Spark相关）讨论了本课程的设计 [video](https://youtu.be/ggq7HiDO0OU?t=1227)
+    * [Foundations of Data Science](https://www.edx.org/professional-certificate/berkeleyx-foundations-of-data-science) 基于Data 8的在线课程现在也通过edX提供.
 *数据科学课程作为IPython笔记本：
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
@@ -393,8 +392,10 @@ Spoiler：你应该尽可能地与UX专家合作！
 
 * ["How would your curriculum for a machine learning beginner look like?"](https://sebastianraschka.com/faq/docs/ml-curriculum.html)  作者：Sebastian Raschka.  精选的核心在线课程和书籍，用于开始机器学习和获取专业知识.  它将Raschka自己的书置于语境中， [_Python Machine Learning_](https://github.com/rasbt/python-machine-learning-book) （无论如何我都会联系到这里！）另见 [`pattern_classification` GitHub repository](https://github.com/rasbt/pattern_classification) 由作者维护，其中包含有关各种机器学习算法和各种数据科学相关资源的IPython笔记本.
 * [Materials for Learning Machine Learning](http://jacksimpson.co/materials-for-learning-machine-learning/) 杰克辛普森
-* [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/)  使用TensorFlow API.  这是Google快速，实用的机器学习入门，包括视频讲座，实际案例研究和动手练习练习等一系列课程.
-* [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  是另一个很好的介绍，如果您对Java或Scala更熟悉，可能会更好.  它使用Smile（一种可在Java和Scala中使用的机器学习库）为开发人员引入机器学习.
+*云供应商提供的课程（可能特定于他们的工具/平台）
+    * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/)  使用TensorFlow API.  这是Google快速，实用的机器学习入门，包括视频讲座，实际案例研究和动手练习练习等一系列课程.
+    *  [Amazon AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)  亚马逊向公众开放内部培训，并提供认证.  30门课程 -  45小时以上的内容.
+* [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  是另一个很好的介绍，如果你更熟悉Java或Scala，可能会更好.  它使用Smile（一种可在Java和Scala中使用的机器学习库）为开发人员引入机器学习.
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  Randal S. Olson博士.  在笔记本部分也提到过，但它与本指南的目标相似（向您介绍，并告诉您下一步该怎么做）.  丰富的“进一步阅读”部分.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  由Nam Vu.  这是为软件工程师设计的自上而下和结果优先的方法.
 *对于一些新闻来源，请查看 [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) 这里.

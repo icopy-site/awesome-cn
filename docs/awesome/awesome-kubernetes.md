@@ -161,7 +161,6 @@ Installers
 - [Kubernetes and AWS VPC Peering](http://ben.straub.cc/2015/08/19/kubernetes-aws-vpc-peering/) 通过 [Ben Straub](https://twitter.com/benstraub)
 - [Testing Kubernetes on AWS](http://alanwill.me/Testing-Kubernetes-on-AWS/) 通过 [Alan Will](https://twitter.com/alanwill)
 - [Kubernetes: First steps on Amazon AWS](http://blog.dutchcoders.io/kubernetes-first-steps-on-amazon-aws/) 通过 [Remco](http://blog.dutchcoders.io/author/remco/)
-- [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 - [Corekube: Running Kubernetes on CoreOS via OpenStack](http://developer.rackspace.com/blog/running-coreos-and-kubernetes/) 通过 [Mike Metral](https://twitter.com/mikemetral)
 - [Production grade Kubernetes on AWS: Primer (Part 1)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-primer-5b83e71c024) 通过 [Guy Maliar](https://github.com/gmaliar)
@@ -173,6 +172,7 @@ Installers
 - [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) 通过 [Matt Bruzek](https://twitter.com/mattatcanonical)
 - [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 
+- [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [Logging - Kafka topic 通过 namespace](http://www.devoperandi.com/logging-kafka-topic-通过-kubernetes-namespace/) 通过 [Michael Ward](https://twitter.com/DevoperandI)
 
 
@@ -205,6 +205,7 @@ Installers
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 运用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
+- [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
 
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
@@ -316,7 +317,7 @@ Installers
 * [Kubernetes Bootcamp](http://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Magic Sandbox](https://magicsandbox.com/)
 
-MOOC Courses / Tutorials
+MOOC课程/教程
 =======================================================================
 
 *可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
@@ -548,6 +549,7 @@ Projects
 * [Operator SDK](https://github.com/operator-framework/operator-sdk)
 * [kooper](https://github.com/spotahome/kooper) -  Simple Go库，用于创建Kubernetes操作符和控制器
 * [Istio](https://github.com/banzaicloud/istio-operator)
+* [Kured](https://github.com/weaveworks/kured) -  Kured（Kubernetes Reboot Daemon）是一个Kubernetes守护进程，可执行安全的自动节点重启
 
 ## Custom Schedulers
 
@@ -564,7 +566,7 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet](https://github.com/kubernetes-incubator/rktlet) -  Rkt实施Kubernetes
+  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - 基于容器的Kubernetes容器运行时接口的实现
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
@@ -706,6 +708,7 @@ Projects
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) - 使用部分规格进行自定义
 * [kapitan](https://github.com/deepmind/kapitan) - 使用jsonnet和jinja2管理复杂的部署
 * [kubecfg](https://github.com/ksonnet/kubecfg) - 结合jsonnet和kubectl，让您以易于覆盖的方式声明系统
+* [Pulumi](https://www.pulumi.com/kubernetes/) - 为针对内部部署群集和主要云供应商的托管服务的k8s部署提供SDK.
 
 ## Security
 
@@ -828,7 +831,7 @@ Books
 幻灯片演示文稿
 =======================================================================
 
-*幻灯片是使用PowerPoint或OpenOffice Impress等软件创建的演示文稿的单页.*
+*A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.*
 
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) 通过 [enakai00](https://twitter.com/enakai00/)
 * [Package your Java EE Application using Docker and Kubernetes](http://www.slideshare.net/arungupta1/package-your-java-ee-application-using-docker-and-kubernetes) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -898,7 +901,7 @@ Videos
 * [Sysdig](https://twitter.com/sysdig)
 
 
-Amazing People
+神奇的人
 =======================================================================
 
 * [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
