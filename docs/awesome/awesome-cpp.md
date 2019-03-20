@@ -67,21 +67,22 @@
 ## Asynchronous Event Loop
 
 * [Asio](https://github.com/chriskohlhoff/asio/)   - 用于网络和低级I / O编程的跨平台C ++库，使用现代C ++方法为开发人员提供一致的异步模型.  [促进] [website](http://think-async.com/)
-* [Boost.Asio](http://think-async.com/)   - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
+* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)   -  C ++中Actor模型的开源实现.  [BSD -3-第] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)   - 一个功能齐全的高性能事件循环，在libevent之后进行了松散的建模，但没有它的限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)   - 事件通知库.  [BSD]
-* [libuv](https://github.com/libuv/libuv) - Cross-platform asychronous I/O. [BSD]
+* [libuv](https://github.com/libuv/libuv)   - 跨平台异步I / O.  [BSD]
 * [uvw](https://github.com/skypjack/uvw)   - 用于libuv的C ++包装器.  [MH]
 
 ## Audio
 *音频，声音，音乐，数字化语音库*
 
 * [KFR](https://www.kfrlib.com/)   - 快速，现代的C ++ DSP框架，FFT，FIR / IIR滤波器，采样率转换.  [GPL /商业]
+* [libsndfile](https://github.com/erikd/libsndfile/)   - 带有C ++包装器的C库，用于通过一个标准库接口读取和写入包含采样声音的文件.  [LGPL-2.1] [website](http://www.mega-nerd.com/libsndfile/)
 * [Maximilian](https://github.com/micknoise/Maximilian)   -  C ++音频和音乐DSP库.  [MIT]
 * [OpenAL](http://www.openal.org/)   - 开放音频库 - 跨平台音频API.  [BSD / LGPL /商业]
 * [miniaudio](https://github.com/dr-soft/miniaudio)   - 单文件音频播放和捕获库.  [授予许可]
-* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
+* [Opus](http://opus-codec.org/)   - 完全开放，免版税，高度通用的音频编解码器.  [BSD]
 * [SELA](https://github.com/sahaRatul/sela)   -  SimplE无损音频.  [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud)   - 轻松便携的游戏音频引擎.  [ZLIB]
 * [Speex](http://www.speex.org/)   - 免费语音编解码器.  Opus废弃.  [BSD]
@@ -197,11 +198,11 @@
 * [sparsepp](https://github.com/greg7mdp/sparsepp)   - 用于C ++的快速，内存有效的哈希映射.  [BSD 3条款]
 
 ## Cryptography
-*Cryptography and Encryption Libraries*
+*加密和加密库*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/)   - 跨平台文件加密实用程序.  加密文件可在所有支持的操作系统和处理器之间移植.  [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/)   - 便携式快速加密库.  [LGPLv2.1 +]
-* [Botan](http://botan.randombit.net/)   -  C ++的加密库.  [BSD-2]
+* [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)   - 加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)   -  C ++ 11仅限标头的消息摘要（哈希）库.  [公共区域]
 * [GnuPG](https://www.gnupg.org/)   - 完整且免费的OpenPGP标准实施.  [GPL]
@@ -336,19 +337,19 @@
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)   - 用于在C ++中编写DirectX 11.x代码的辅助类的集合.  [MIT]
 * [GLFW](https://github.com/glfw/glfw)   - 一个简单的跨平台OpenGL争用库.  [ZLIB /的libpng]
 * [herebedragons](https://github.com/kosua20/herebedragons)   - 使用各种引擎，框架或API实现的基本3D场景.  [MIT] [website](http://simonrodriguez.fr/dragon/)
-* [Horde3D](https://github.com/horde3d/Horde3D)   - 小型3D渲染和动画引擎.  [EPL]
+* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
 * [Ion](https://github.com/google/ion)   - 一组小而有效的库，用于构建使用3D图形的跨平台客户端或服务器应用程序.  [Apache2的] [website](https://google.github.io/ion/)
 * [Irrlicht](http://irrlicht.sourceforge.net/)   - 用C ++编写的高性能实时3D引擎.  [ZLIB]
 * [libigl](https://github.com/libigl/libigl)   - 简单的C ++几何处理库.  [MPL2]
 * [magnum](https://github.com/mosra/magnum)   - 用于游戏和数据可视化的轻量级和模块化C ++ 11 / C ++ 14图形中间件.  [MIT] [website](http://magnum.graphics)
 * [NanoVG](https://github.com/memononen/nanovg)   - 在OpenGL之上的用于UI和可视化的抗锯齿2D矢量绘图库.  [zlib的]
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
-* [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
+* [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
 * [OpenVDB](http://www.openvdb.org/)   - 用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
 * [Panda3D](http://www.panda3d.org/)   - 用于Python和C ++的3D渲染和游戏开发的框架.  [BSD]
 * [Partio](https://github.com/wdas/partio)   - 用于争论粒子数据的库，支持大多数常见文件格式.  [改良BSD]
-* [Skia](https://github.com/google/skia) - A complete 2D graphic library for drawing Text, Geometries, and Images. [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
+* [Skia](https://github.com/google/skia)   - 用于绘制文本，几何图形和图像的完整2D图形库.  [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
 * [TinySpline](https://github.com/msteinbeck/tinyspline)   - 一个小而强大的ANSI C库，用于插补，转换和查询任意NURBS，B样条曲线和Bézier曲线.  [MIT]
 * [urho3d](https://github.com/urho3d/Urho3D)   - 跨平台渲染和游戏引擎.  [许多不同，主要是MIT]
 * [Yocto/GL](https://github.com/xelatihy/yocto-gl)   - 用于数据驱动的基于物理的图形的微型C ++库.  [MIT]
@@ -448,7 +449,7 @@
 
 ## Machine Learning
 
-* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
+* [Caffe](https://github.com/BVLC/caffe)   - 神经网络的快速框架.  [BSD]
 * [CCV](https://github.com/liuliu/ccv)   - 基于C /缓存/核心计算机视觉库，现代计算机视觉库.  [BSD]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido)   - 用于嵌入式电子和机器人的高度模块化的C ++机器学习库.  [MIT] [website](http://fidoproject.github.io/)
@@ -458,7 +459,7 @@
 * [mlpack](https://github.com/mlpack/mlpack)   - 可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
 * [OpenCV](https://github.com/Itseez/opencv)  ：zap： - 开源计算机视觉库.  [BSD] [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender)   - 使用协同过滤（CF）的产品推荐/建议的C库.  [BSD]
-* [RNNLIB](https://github.com/szcom/rnnlib)   -  RNNLIB是用于序列学习问题的递归神经网络库.  [GPLv3的]
+* [RNNLIB](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. [GPLv3]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)   - 幕府将军学习工具箱.  [GPLv3的]
 * [sofia-ml](https://code.google.com/p/sofia-ml/)   - 用于机器学习的快速增量算法套件.  [Apache2的]
 * [VLFeat](https://github.com/vlfeat/vlfeat)   -  VLFeat开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-第] [website](http://www.vlfeat.org/)
@@ -540,7 +541,7 @@
 * [libjingle](https://code.google.com/p/libjingle/)   - 谷歌谈话语音和P2P互操作性库.  [BSD]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
-* [libquic](https://github.com/devsisters/libquic)   - 从Chromium的QUIC实现中提取的QUIC协议库.  [BSD]
+* [libquic](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)   - 轻量级纯C WebSocket实现，提供客户端和服务器库.  [LGPL2.1 +静态链接例外] [website](https://libwebsockets.org/)
 * [Mongoose](https://github.com/cesanta/mongoose)   - 极轻量级的网络服务器.  [GPL2]
 * [Muduo](https://github.com/chenshuo/muduo)   -  Linux中用于多线程服务器的C ++非阻塞网络库.  [BSD]
@@ -627,7 +628,7 @@
 * [Duktape](https://github.com/svaarala/duktape)   - 嵌入式占用空间的嵌入式Javascript引擎.  [MIT] [website](http://duktape.org)
 * [JavaCpp](https://github.com/bytedeco/javacpp)   -  Java和本机C ++之间缺失的桥梁.  [Apache2的]
 * [libffi](https://github.com/libffi/libffi)   - 便携式外部功能接口库.  [MIT] [website](https://sourceware.org/libffi/)
-* [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
+* [Lua](http://www.lua.org/)   - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [MIT]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)   - 一个轻量级，无依赖的库，用于将Lua绑定到C ++.  [MIT]
 * [luacxx](https://github.com/dafrito/luacxx)   - 用于创建Lua绑定的C ++ 11 API.  [MIT]
 * [nbind](https://github.com/charto/nbind)   - 神奇的标题，使您的C ++库可以从JavaScript访问.  [MIT]
@@ -703,7 +704,7 @@
 * [TinyXML](http://sourceforge.net/projects/tinyxml/)   - 一个简单，小巧，简约的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML2](https://github.com/leethomason/tinyxml2)   - 一个简单，小巧，高效的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML++](https://github.com/rjpcomputing/ticpp)   -  TinyXML的全新界面，它使用了许多C ++优势.  模板，异常和更好的错误处理.  [MIT]
-* [Xerces-C++](http://xerces.apache.org/xerces-c/) - A validating XML parser written in a portable subset of C++. [Apache2]
+* [Xerces-C++](http://xerces.apache.org/xerces-c/)   - 用C ++的可移植子集编写的验证XML解析器.  [Apache2的]
 
 ## Miscellaneous
 *有用的库或工具不适合上述类别或可能尚未归类*
@@ -762,10 +763,10 @@
 * [GCC](https://gcc.gnu.org/)   -  GNU编译器集合.  支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)   - 一个非常古老的C编译器.  支持C99.
 * [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
-* [LLVM](http://llvm.org/) - Collection of modular and reusable compiler and toolchain technologies.
+* [LLVM](http://llvm.org/) - 收集模块化和可重用的编译器和工具链技术.
 * [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - 由Microsoft开发的MSVC.
 * [Open WatCom](http://www.openwatcom.org/index.php/Main_Page)   -  Watcom C，C ++和Fortran交叉编译器和工具.  [Sybase Open Watcom公共许可证]
-* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)   - 用于SPARC和x86的C，C ++和Fortran编译器.  支持C ++ 11.  适用于Linux和Solaris.  [OTN开发者许可]
+* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
 * [TCC](http://bellard.org/tcc/)   -  Tiny C编译器.  [LGPL]
 
 ## Online Compiler
@@ -778,7 +779,7 @@
 * [Ideone](http://ideone.com/) - 在线编译和调试工具，允许您编译源代码并以60多种编程语言在线执行.
 * [repl.it](https://repl.it) - 面向教育工作者，学习者和开发人员的强大而简单的工具和平台.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang，GCC，MSVC）和几个编辑器.
-* [Rise4Fun](http://webcompiler.cloudapp.net/) - 在线Visual C ++编译器.
+* [Rise4Fun](http://webcompiler.cloudapp.net/) - Online Visual C++ compiler.
 * [Try It Online](https://tio.run/) -  TIO是一系列在线口译员，可以提供一系列实用和娱乐编程语言.
 * [Wandbox](http://melpon.org/wandbox/) - 提供Boost的在线Clang / GCC编译器.
 
@@ -935,7 +936,7 @@
 * [Standard C++](https://isocpp.org/) ：zap： - 有关标准C ++的新闻，现状和讨论.
 * [CppCon](http://cppcon.org/) -  C ++会议.
 * [C++ reference](http://cppreference.com/) -  C ++ 98，C ++ 03，C ++ 11，C ++ 14参考.
-* [cplusplus.com](http://www.cplusplus.com/) -  C ++资源网络.
+* [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
 * [C FAQ](http://c-faq.com/) -  C常见问题解答.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -  C ++常见问题解答.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) -  C ++经常质疑答案.

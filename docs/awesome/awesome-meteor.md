@@ -208,6 +208,8 @@
 * [React with Webpack + Meteor as a backend](http://julian.io/react-with-webpack-meteor-as-a-backend/)
 
 ## Open source apps
+
+* [Nosqlclient](https://github.com/nosqlclient/nosqlclient) -  MongoDB管理工具
 * [VulcanJS](https://github.com/VulcanJS/Vulcan) - 使用React，GraphQL和Meteor快速构建应用程序的工具包
 * [Microscope](https://github.com/DiscoverMeteor/Microscope) -  Discover Meteor书的示例应用程序
 * [Wekan](https://github.com/wekan/wekan) - 开源Trello式看板

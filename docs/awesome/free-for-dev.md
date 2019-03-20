@@ -310,7 +310,6 @@
 
 ## PaaS
 
-  * [wedeploy.com](https://wedeploy.com/)   -  WeDeploy为您提供预定义的服务，可以加快您的开发过程.  免费计划：1 GB传输，1 GB内存，1个CPU，512 MB存储，2个服务实例，2个项目
   * [cloud.google.com](https://cloud.google.com/appengine/) -  Google App Engine提供28个小时/天免费，1 GB NoSQL数据库等
   * [engineyard.com](https://www.engineyard.com/) -  Engine Yard提供500个免费小时
   * [azure.microsoft.com](https://azure.microsoft.com/) -  MS Azure为试用提供价值200美元的免费使用

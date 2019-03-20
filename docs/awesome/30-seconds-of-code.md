@@ -23,10 +23,10 @@
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
 * [30 Seconds of Interviews](https://30secondsofinterviews.org/)
 * [30 Seconds of React](https://github.com/30-seconds/30-seconds-of-react)
-* [30 Seconds of Python](https://github.com/kriadmin/30-seconds-of-python-code) _（非官方）_
-* [30 Seconds of PHP](https://github.com/appzcoder/30-seconds-of-php-code) _（非官方）_
-* [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _（非官方）_
-* [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) _（非官方）_
+* [30 Seconds of Python](https://github.com/kriadmin/30-seconds-of-python-code) _(unofficial)_
+* [30 Seconds of PHP](https://github.com/appzcoder/30-seconds-of-php-code) _(unofficial)_
+* [30 Seconds of Kotlin](https://github.com/IvanMwiruki/30-seconds-of-kotlin) _(unofficial)_
+* [30 Seconds of Knowledge](https://chrome.google.com/webstore/detail/30-seconds-of-knowledge/mmgplondnjekobonklacmemikcnhklla) _(unofficial)_
 
 #### Package
 
@@ -201,11 +201,11 @@ const call =（key，https：//github.com/30-seconds/30-seconds-of-code/blob/mas
 ```js
 Promise.resolve（[1,2,3]）
   .then（call（&#39;map&#39;，x =&gt; 2 * x））
-  .then(console.log); // [ 2, 4, 6 ]
+   .然后（的console.log）;  // [2,4,6]
 const map = call.bind（null，&#39;map&#39;）;
 Promise.resolve（[1,2,3]）
   .then（map（x =&gt; 2 * x））
-  .then(console.log); // [ 2, 4, 6 ]
+   .然后（的console.log）;  // [2,4,6]
 ```
 
 </details>
@@ -213,7 +213,7 @@ Promise.resolve（[1,2,3]）
 
 ### collectInto
 
-将接受数组的函数更改为可变参数函数.
+Changes a function that accepts an array into a variadic function.
 
 给定一个函数，返回一个闭包，它将所有输入收集到一个接受数组的函数中.
 
@@ -380,7 +380,7 @@ const promisify = func =&gt;（... args）=&gt;
 
 ```js
 const delay = promisify（（d，cb）=&gt; setTimeout（cb，d））;
-delay(2000).then(() => console.log('Hi!')); // // Promise resolves after 2s
+ 延迟（2000）.then（（）=&gt; console.log（&#39;嗨！&#39;））;  // //承诺在2秒后解决
 ```
 
 </details>
@@ -533,7 +533,9 @@ const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
 
 ```js
 const arrayToCSV =（arr，delimiter =&#39;，&#39;）=&gt;
-  arr.map（v =&gt; v.map（x =&gt;``$ {x}“`）.join（delimiter））.join（&#39;\ n&#39;）;
+  ARR
+    .map（v =&gt; v.map（x =&gt;（isNaN（x）？`“$ {x.replace（/”/ g，&#39;“”&#39;）}“`：x））.join（delimiter））
+    .加入（ &#39;\ n&#39;）;
 ```
 
 <details>
@@ -541,7 +543,8 @@ const arrayToCSV =（arr，delimiter =&#39;，&#39;）=&gt;
 
 ```js
  arrayToCSV（[[&#39;a&#39;，&#39;b&#39;]，[&#39;c&#39;，&#39;d&#39;]]）;  //&#39;“a”，“b”\ n“c”，“d”&#39;
-arrayToCSV([['a', 'b'], ['c', 'd']], ';'); // '"a";"b"\n"c";"d"'
+ arrayToCSV（[[&#39;a&#39;，&#39;b&#39;]，[&#39;c&#39;，&#39;d&#39;]]，&#39;;&#39;）;  //&#39;“a”;“b”\ n“c”;“d”&#39;
+ arrayToCSV（[[&#39;a&#39;，&#39;“b”great&#39;]，[&#39;c&#39;，3.1415]]）;  //&#39;“a”，“”“b”“great”\ n“c”，3.1415&#39;
 ```
 
 </details>
@@ -575,7 +578,7 @@ const bifurcate =（arr，filter）=&gt;
 使用`Array.prototype.reduce（）`和`Array.prototype.push（）`根据`fn`为每个元素返回的值向组添加元素.
 
 ```js
-const bifurcateBy = (arr, fn) =>
+const bifurcateBy =（arr，fn）=&gt;
   arr.reduce（（acc，val，i）=&gt;（acc [fn（val，i）？0：1] .push（val），acc），[[]，[]]）;
 ```
 
@@ -644,7 +647,7 @@ const compact = arr =&gt; arr.filter（Boolean）;
 ```js
 const countBy =（arr，fn）=&gt;
   arr.map（typeof fn ===&#39;function&#39;？fn：val =&gt; val [fn]）.reduce（（acc，val）=&gt; {
-    acc[val] = (acc[val] || 0) + 1;
+    acc [val] =（acc [val] || 0）+ 1;
     返回acc;
   }, {});
 ```
@@ -954,7 +957,7 @@ filterNonUniqueBy(
 
 ### findLast
 
-返回提供的函数返回truthy值的最后一个元素.
+Returns the last element for which the provided function returns a truthy value.
 
 使用`Array.prototype.filter（）`删除`fn`返回falsey值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
 
@@ -1066,7 +1069,7 @@ const groupBy =（arr，fn）=&gt;
 
 ```js
  groupBy（[6.1,4.2,6.3]，Math.floor）;  // {4：[4.2]，6：[6.1,6.3]}
- groupBy（[&#39;one&#39;，&#39;two&#39;，&#39;three&#39;]，&#39;length&#39;）;  // {3：[&#39;one&#39;，&#39;two&#39;]，5：[&#39;three&#39;]}
+groupBy(['one', 'two', 'three'], 'length'); // {3: ['one', 'two'], 5: ['three']}
 ```
 
 </details>
@@ -1109,7 +1112,7 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 
 ```js
  indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
-indexOfAll([1, 2, 3], 4); // []
+ indexOfA11（[1,2,3]，4）;  // []
 ```
 
 </details>
@@ -1386,7 +1389,7 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
 
 
 
-将对象数组转换为逗号分隔值（CSV）字符串，该字符串仅包含指定的`columns`.
+Converts an array of objects to a comma-separated values (CSV) string that contains only the `columns` specified.
 
 使用`Array.prototype.join（delimiter）`组合`columns`中的所有名称来创建第一行.
 使用`Array.prototype.map（）`和`Array.prototype.reduce（）`为每个对象创建一个行，用空字符串替换不存在的值，只用`columns`映射值.
@@ -1536,7 +1539,7 @@ const minN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; a  -  b）
 
 ### none
 
-Returns `true` if the provided predicate function returns `false` for all elements in a collection, `false` otherwise.
+如果提供的谓词函数为集合中的所有元素返回“false”，则返回“true”，否则返回“false”.
 
 使用`Array.prototype.some（）`来测试集合中的任何元素是否基于`fn`返回`true`.
 省略第二个参数`fn`，使用`Boolean`作为默认值.
@@ -1901,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-        arr.splice（arr.indexOf（val），1）;
-        return acc.concat（val）;
-      }, [])
+      arr.splice（arr.indexOf（val），1）;
+      return acc.concat（val）;
+    }, [])
     : [];
 ```
 
@@ -1919,7 +1922,7 @@ const remove =（arr，func）=&gt;
 
 ### sample
 
-从数组中返回一个随机元素.
+Returns a random element from an array.
 
 使用`Math.random（）`生成一个随机数，乘以`length`并使用`Math.floor（）`将其四舍五入到最接近的整数.
 此方法也适用于字符串.
@@ -2055,7 +2058,7 @@ const similarity =（arr，values）=&gt; arr.filter（v =&gt; values.includes�
 
 ```js
 const sortedIndex =（arr，n）=&gt; {
-  const isDescending = arr [0]&gt; arr [arr.length  -  1];
+  const isDescending = arr[0] > arr[arr.length - 1];
   const index = arr.findIndex（el =&gt;（isDescending？n&gt; = el：n &lt;= el））;
    返回索引=== -1？  arr.length：index;
 };
@@ -2107,7 +2110,7 @@ const sortedIndexBy =（arr，n，fn）=&gt; {
 
 ```js
 const sortedLastIndex =（arr，n）=&gt; {
-  const isDescending = arr [0]&gt; arr [arr.length  -  1];
+  const isDescending = arr[0] > arr[arr.length - 1];
   const index = arr.reverse（）.findIndex（el =&gt;（isDescending？n &lt;= el：n&gt; = el））;
    返回索引=== -1？  0：arr.length  -  index;
 };
@@ -2159,7 +2162,7 @@ const sortedLastIndexBy =（arr，n，fn）=&gt; {
 
 使用`Array.prototype.map（）`将输入数组的每个元素与其对应的索引配对.
 使用`Array.prototype.sort（）`和`compare`函数对列表进行排序，如果比较的项目相同，则保留它们的初始顺序.
-使用`Array.prototype.map（）`转换回初始数组项.
+Use `Array.prototype.map()` to convert back to the initial array items.
 
 ```js
 const stableSort =（arr，compare）=&gt;
@@ -2471,10 +2474,10 @@ const unionWith =（a，b，comp）=&gt;
 
 返回数组的所有唯一值.
 
-Use ES6 `Set` and the `...rest` operator to discard all duplicated values.
+使用ES6`Set`和`... rest`运算符可以丢弃所有重复的值.
 
 ```js
-const uniqueElements = arr =&gt; [... new Set（arr）];
+const uniqueElements = arr => [...new Set(arr)];
 ```
 
 <details>
@@ -2870,7 +2873,7 @@ const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
      _step =（结束 - 开始）*步&lt;0？  -step：step，
     timer = setInterval（（）=&gt; {
       当前+ = _step;
-      document.querySelector(selector).innerHTML = current;
+      document.querySelector（selector）.innerHTML = current;
       if（current&gt; = end）document.querySelector（selector）.innerHTML = end;
       if（current&gt; = end）clearInterval（timer）;
     }，Math.abs（Math.floor（duration /（end  -  start））））;
@@ -2931,7 +2934,7 @@ const el = createElement（
 
 ```js
 const createEventHub =（）=&gt;（{
-  hub：Object.create（null），
+  hub: Object.create(null),
   发射（事件，数据）{
     （this.hub [event] || []）.forEach（handler =&gt; handler（data））;
   },
@@ -3136,7 +3139,7 @@ const getStyle =（el，ruleName）=&gt; getComputedStyle（el）[ruleName];
 
 ### hasClass
 
-Returns `true` if the element has the specified class, `false` otherwise.
+如果元素具有指定的类，则返回“true”，否则返回“false”.
 
 使用`element.classList.contains（）`来检查元素是否具有指定的类.
 
@@ -3356,7 +3359,7 @@ const off =（el，可能，fn，opts = false）=&gt; el.removeEventListener（�
 <summary>Examples</summary>
 
 ```js
-const fn = () => console.log('!');
+const fn =（）=&gt; console.log（&#39;！&#39;）;
 document.body.addEventListener（&#39;click&#39;，fn）;
  off（document.body，&#39;click&#39;，fn）;  //不再记录&#39;！&#39;  点击页面
 ```
@@ -3384,7 +3387,7 @@ const on =（el，evt，fn，opts = {}）=&gt; {
 <summary>Examples</summary>
 
 ```js
-const fn = () => console.log('!');
+const fn =（）=&gt; console.log（&#39;！&#39;）;
  on（document.body，&#39;click&#39;，fn）;  //记录&#39;！&#39;  点击身体后
  on（document.body，&#39;click&#39;，fn，{target：&#39;p&#39;}）;  //记录&#39;！&#39;  点击身体的&#39;p`元素孩子
  on（document.body，&#39;click&#39;，fn，{options：true}）;  //使用捕获而不是冒泡
@@ -3411,7 +3414,7 @@ const onUserInputChange = callback =&gt; {
     lastTime = now;
   };
   document.addEventListener（&#39;touchstart&#39;，（）=&gt; {
-    if（type ===&#39;touch&#39;）return;
+    if (type === 'touch') return;
     （type =&#39;touch&#39;），callback（type），document.addEventListener（&#39;mousemove&#39;，mousemoveHandler）;
   });
 };
@@ -3468,7 +3471,7 @@ const prefix = prop =&gt; {
 
 ```js
 const recordAnimationFrames =（callback，autoStart = true）=&gt; {
-  让running = true，
+  let running = true,
     货架;
   const stop =（）=&gt; {
     running = false;
@@ -3825,8 +3828,8 @@ const getColonTimeFromDate = date =&gt; date.toTimeString（）.slice（0,8）;
 计算两个`Date`对象之间的差异（以天为单位）.
 
 ```js
-常量getDaysDiffBetweenDates =（初始日期，日期最终）=&gt;
-  （日期最终 - 初始日期）/（1000 * 3600 * 24）;
+const getDaysDiffBetweenDates =（dateInitial，dateFinal）=&gt;
+  （dateFinal  -  dateInitial）/（1000 * 3600 * 24）;
 ```
 
 <details>
@@ -3846,7 +3849,7 @@ const getColonTimeFromDate = date =&gt; date.toTimeString（）.slice（0,8）;
 使用模运算符（`％`）和条件检查将整数转换为带有meridiem后缀的字符串化12小时格式.
 
 ```js
-const getMeridiemSuffixOfInteger = num =&gt;
+const getMeridiemSuffixOfInteger = num =>
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
@@ -3891,7 +3894,7 @@ const isAfterDate =（dateA，dateB）=&gt; dateA&gt; dateB;
 
 ### isBeforeDate
 
-Check if a date is before another date.
+检查日期是否在另一个日期之前.
 
 使用小于运算符（`&lt;`）来检查第一个日期是否在第二个日期之前.
 
@@ -3903,7 +3906,7 @@ const isBeforeDate =（dateA，dateB）=&gt; dateA &lt;dateB;
 <summary>Examples</summary>
 
 ```js
- isBeforeDate（新日期（2010年，10,20），新日期（2010年，10年，21日））;  //真
+isBeforeDate(new Date(2010, 10, 20), new Date(2010, 10, 21)); // true
 ```
 
 </details>
@@ -4137,9 +4140,9 @@ chainAsync([
 
 ### checkProp
 
-给定一个`predicate`函数和一个`prop`字符串，这个curried函数将通过调用属性并将其传递给谓词来检查`object`.
+Given a `predicate` function and a `prop` string, this curried function will then take an `object` to inspect by calling the property and passing it to the predicate.
 
-在`obj`上召唤`prop`，将它传递给提供的`predicate`函数并返回一个屏蔽的布尔值.
+Summon `prop` on `obj`, pass it to a provided `predicate` function and return a masked boolean.
 
 ```js
 const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
@@ -4150,7 +4153,9 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 ```js
 
-const lengthIs4 = checkProp(l => l === 4, 'length');
+
+
+const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
  lengthIs4（new Set（[1,2,3,4]））;  // false（设置使用大小，而不是长度）
@@ -4165,7 +4170,7 @@ session.user.active = true;
 
 const noLength（l =&gt; l === undefined，&#39;length&#39;）;
  noLength（[]）;  //假
- noLength（{}）;  //真
+noLength({}); // true
  noLength（new Set（））;  //真
 ```
 
@@ -4321,7 +4326,7 @@ const defer =（fn，... args）=&gt; setTimeout（fn，1，... args）;
 
 ```js
 //示例A：
-defer(console.log, 'a'), console.log('b'); // logs 'b' then 'a'
+ 延迟（console.log，&#39;a&#39;），console.log（&#39;b&#39;）;  //记录&#39;b&#39;然后&#39;a&#39;
 
 //例B：
 document.querySelector('#someElement').innerHTML = 'Hello';
@@ -4373,7 +4378,7 @@ const functionName = fn =&gt;（console.debug（fn.name），fn）;
 <summary>Examples</summary>
 
 ```js
-functionName(Math.max); // max (logged in debug channel of console)
+ 使用functionName（Math.max）;  // max（登录控制台的调试通道）
 ```
 
 </details>
@@ -4519,7 +4524,7 @@ const partial =（fn，... partials）=&gt;（... args）=&gt; fn（... partials
 
 ```js
 const greet =（问候，姓名）=&gt;问候+&#39;&#39;+姓名+&#39;！&#39;;
-const greetHello = partial（greet，&#39;Hello&#39;）;
+const greetHello = partial(greet, 'Hello');
  greetHello（ &#39;约翰&#39;）;  // &#39;你好约翰！&#39;
 ```
 
@@ -4597,7 +4602,7 @@ async function sleepyWork（）{
 创建一个限制函数，每个`wait`毫秒最多只调用一次提供的函数
 
 使用`setTimeout（）`和`clearTimeout（）`来限制给定的方法`fn`.
-Use `Function.prototype.apply()` to apply the `this` context to the function and provide the necessary `arguments`.
+使用`Function.prototype.apply（）`将`this`上下文应用于函数并提供必要的`参数`.
 使用`Date.now（）`来跟踪上次调用限制函数的时间.
 省略第二个参数`wait`，将超时设置为默认值0 ms.
 
@@ -5202,7 +5207,7 @@ const isNegativeZero = val =&gt; val === 0 &amp;&amp; 1 / val === -Infinity;
 
 检查提供的整数是否为素数.
 
-检查从“2”到给定数字的平方根的数字.
+Check numbers from `2` to the square root of the given number.
 如果其中任何一个除以给定的数字，则返回`false`，否则返回`true`，除非该数字小于&#39;2`.
 
 ```js
@@ -5675,7 +5680,7 @@ const sumPower =（end，power = 2，start = 1）=&gt;
   数组（结束+ 1  - 开始）
     .fill伪（0）
     .map（（x，i）=&gt;（i + start）** power）
-    .reduce（（a，b）=&gt; a + b，0）;
+    .reduce((a, b) => a + b, 0);
 ```
 
 <details>
@@ -5905,7 +5910,7 @@ const hashNode = val =&gt;
 
 ### isDuplexStream
 
-Checks if the given argument is a duplex (readable and writable) stream.
+检查给定参数是否为双工（可读写）流.
 
 检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
 另外检查`typeof``_read`，`_ write`和`_readableState`，`_ writeableState`属性是否分别是`function`和`object`.
@@ -5984,7 +5989,7 @@ const fs = require（&#39;fs&#39;）;
 
 检查当前环境是否正常 [Travis CI](https://travis-ci.org/).
 
-Checks if the current environment has the `TRAVIS` and `CI` environment variables ([reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
+检查当前环境是否具有`TRAVIS`和`CI`环境变量（[reference](https://docs.travis-ci.com/user/environment-variables/#Default-Environment-Variables)).
 
 ```js
 const isTravisCI =（）=&gt;&#39;process TR中的&#39;TRAVIS&#39;和process.env中的&#39;CI&#39;;
@@ -6184,7 +6189,7 @@ const deepClone = obj =&gt; {
     key =&gt;（clone [key] = typeof obj [key] ===&#39;object&#39;？deepClone（obj [key]）：obj [key]）
   );
   return Array.isArray（obj）&amp;&amp; obj.length
-     ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
+    ? (clone.length = obj.length) && Array.from(clone)
     ：Array.isArray（obj）
        ？  Array.from（OBJ）
       ：克隆;
@@ -6245,11 +6250,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-        const val = obj [current];
-        acc [f（current）] =
+          const val = obj [current];
+          acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-        返回acc;
-      }, {})
+          返回acc;
+        }, {})
       ：obj;
 ```
 
@@ -6277,7 +6282,7 @@ const upperKeysObj = deepMapKeys（obj，key =&gt; key.toUpperCase（））;
     “儿童”：{
       “WITHARRAY”：[
         {
-          “GRANDCHILD”：[&#39;你好&#39;]
+          "GRANDCHILD":[ 'hello' ]
         }
       ]
     }
@@ -6321,9 +6326,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if (acc !== undefined) return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if (acc !== undefined) return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>
@@ -6572,7 +6577,7 @@ const obj = {selector：{to：{val：&#39;val to select&#39;}}，target：[1,2�
  反转对象的键值对，而不改变它.  每个反转键的相应反转值是负责产生反转值的键阵列.  如果提供了功能，则将其应用于每个反转键.
 
 使用`Object.keys（）`和`Array.prototype.reduce（）`来反转对象的键值对并应用提供的函数（如果有的话）.
-Omit the second argument, `fn`, to get the inverted keys without applying a function to them.
+省略第二个参数`fn`，得到反转键而不对它们应用函数.
 
 ```js
 const invertKeyValues =（obj，fn）=&gt;
@@ -6791,7 +6796,7 @@ const nest =（items，id = null，link =&#39;parent_id&#39;）=&gt;
 //一个顶级评论
 const comments = [
   {id：1，parent_id：null}，
-  { id: 2, parent_id: 1 },
+  {id：2，parent_id：1}，
   {id：3，parent_id：1}，
   {id：4，parent_id：2}，
   {id：5，parent_id：4}
@@ -6904,7 +6909,7 @@ const orderBy =（arr，props，orders）=&gt;
     props.reduce（（acc，prop，i）=&gt; {
       if（acc === 0）{
          const [p1，p2] = orders &amp;&amp; orders [i] ===&#39;desc&#39;？  [b [prop]，[prop]]：[a [prop]，b [prop]];
-        acc = p1 > p2 ? 1 : p1 < p2 ? -1 : 0;
+         acc = p1&gt; p2？  1：p1 &lt;p2？  -1：0;
       }
       返回acc;
     }, 0)
@@ -6990,7 +6995,7 @@ const renameKeys =（keysMap，obj）=&gt;
 
 ```js
 const obj = {name：&#39;Bobo&#39;，job：&#39;Front-End Master&#39;，shoeSize：100};
- renameKeys（{name：&#39;firstName&#39;，job：&#39;passion&#39;}，obj）;  // {firstName：&#39;Bobo&#39;，激情：&#39;前端大师&#39;，鞋子大小：100}
+renameKeys({ name: 'firstName', job: 'passion' }, obj); // { firstName: 'Bobo', passion: 'Front-End Master', shoeSize: 100 }
 ```
 
 </details>
@@ -7119,7 +7124,7 @@ const unflattenObject = obj =&gt;
             &#39;}&#39;.重复（keys.length）
         )
       );
-    }其他acc [k] = obj [k];
+    } else acc[k] = obj[k];
     返回acc;
   }, {});
 ```
@@ -7632,7 +7637,7 @@ const PLURALS = {
   半径：&#39;半径&#39;
 };
 const autoPluralize = pluralize（PLURALS）;
-autoPluralize(2, 'person'); // 'people'
+ autoPluralize（2，&#39;person&#39;）;  //&#39;人&#39;
 ```
 
 </details>
@@ -7730,7 +7735,7 @@ const splitLines = str =&gt; str.split（/ \ r？\ n /）;
 字符串`length`等于“2”或“1”的基本情况.
 
 ```js
-const stringPermutations = str => {
+const stringPermutations = str =&gt; {
    if（str.length &lt;= 2）返回str.length === 2？  [str，str [1] + str [0]]：[str];
   返回str
     .分裂（&#39;&#39;）
@@ -7972,7 +7977,7 @@ const URLJoin =（... args）=&gt;
 
 将给定的字符串转换为单词数组.
 
-Use `String.prototype.split()` with a supplied pattern (defaults to non-alpha as a regexp) to convert to an array of strings. Use `Array.prototype.filter()` to remove any empty strings.
+ 使用带有提供模式的`String.prototype.split（）`（默认为非alpha作为regexp）转换为字符串数组.  使用`Array.prototype.filter（）`删除任何空字符串.
 省略第二个参数以使用默认的regexp.
 
 ```js
@@ -8143,7 +8148,7 @@ const isFunction = val =&gt; typeof val ===&#39;function&#39;;
 
 ### isNil
 
-Returns `true` if the specified value is `null` or `undefined`, `false` otherwise.
+如果指定的值为“null”或“undefined”，则返回“true”，否则返回“false”.
 
 使用strict equality运算符检查`val`的值是否等于`null`或`undefined`.
 
@@ -8186,18 +8191,20 @@ const isNull = val =&gt; val === null;
 
 检查给定的参数是否为数字.
 
-使用`typeof`检查值是否被归类为数字原语.
+使用`typeof`检查值是否被归类为数字原语. 
+为了防止“NaN”，检查`val === val`（因为`NaN`的`typeof`等于`number`并且唯一的值不等于它自己）.
 
 ```js
-const isNumber = val =&gt; typeof val ===&#39;number&#39;;
+const isNumber = val =&gt; typeof val ===&#39;number&#39;&amp;&amp; val === val;
 ```
 
 <details>
 <summary>Examples</summary>
 
 ```js
- ISNUMBER（ &#39;1&#39;）;  //假
  ISNUMBER（1）;  //真
+ ISNUMBER（ &#39;1&#39;）;  //假
+ ISNUMBER（NAN）;  //假
 ```
 
 </details>
@@ -8207,7 +8214,7 @@ const isNumber = val =&gt; typeof val ===&#39;number&#39;;
 
 返回一个布尔值，确定传递的值是否为对象.
 
-使用`Object`构造函数为给定值创建一个对象包装器. 
+Uses the  `Object` constructor to create an object wrapper for the given value. 
  如果值为“null”或“undefined”，则创建并返回一个空对象.  否则，返回与给定值对应的类型的对象.
 
 ```js
@@ -8231,7 +8238,7 @@ const isObject = obj =&gt; obj === Object（obj）;
 
 ### isObjectLike
 
-Checks if a value is object-like.
+检查值是否类似于对象.
 
 检查提供的值是否为“null”且其“typeof”是否等于“object”.
 
@@ -8425,7 +8432,7 @@ const isValidJSON = str =&gt; {
 
 如果不是一个数组，则将提供的值转换为数组.
 
-使用`Array.prototype.isArray（）`来确定`val`是否是一个数组并按原样返回它或相应地封装在一个数组中.
+Use `Array.prototype.isArray()` to determine if `val` is an array and return it as-is or encapsulated in an array accordingly.
 
 ```js
 const castArray = val =&gt;（Array.isArray（val）？val：[val]）;
@@ -8668,7 +8675,7 @@ const newPost = {
   标题：&#39;Foo&#39;，
   身体：酒吧吧
 };
-const data = JSON.stringify（newPost）;
+const data = JSON.stringify(newPost);
 httpPost(
   'https://jsonplaceholder.typicode.com/posts',
   数据，
@@ -8704,7 +8711,7 @@ httpPost(
 如果它们都不是“未定义”，则假定当前环境是浏览器.
 
 ```js
-const isBrowser = () => ![typeof window, typeof document].includes('undefined');
+const isBrowser =（）=&gt;！[typeof window，typeof document] .includes（&#39;undefined&#39;）;
 ```
 
 <details>
@@ -8722,7 +8729,7 @@ const isBrowser = () => ![typeof window, typeof document].includes('undefined');
 
 返回执行速度最快的函数数组中函数的索引.
 
- 使用`Array.prototype.map（）`生成一个数组，其中每个值是在`iterations`次之后执行该函数所花费的总时间.  使用之前和之后的`performance.now（）`值的差异来获得高精度的总时间（以毫秒为单位）.
+Use `Array.prototype.map()` to generate an array where each value is the total time taken to execute the function after `iterations` times. Use the difference in `performance.now()` values before and after to get the total time in milliseconds to a high degree of accuracy.
 使用`Math.min（）`查找最小执行时间，并返回与最高性能函数的索引相对应的最短时间的索引.
  省略第二个参数`iterations`，使用默认的10,000次迭代.  迭代次数越多，结果越可靠，但需要的时间越长.
 
@@ -8748,7 +8755,7 @@ mostPerformant([
   },
   () => {
     //只需要在返回false之前达到索引“1”
-    [1，&#39;2&#39;，3,4,5,6,7,8,9,10] .every（el =&gt; typeof el ===&#39;number&#39;）;
+    [1, '2', 3, 4, 5, 6, 7, 8, 9, 10].every(el => typeof el === 'number');
   }
 ]); // 1
 ```
@@ -8784,7 +8791,7 @@ const last = nthArg（-1）;
 
 解析HTTP Cookie标头字符串并返回所有cookie名称 - 值对的对象.
 
-Use `String.prototype.split(';')` to separate key-value pairs from each other.
+使用`String.prototype.split（&#39;;&#39;）`将键值对彼此分开.
 使用`Array.prototype.map（）`和`String.prototype.split（&#39;=&#39;）`将键与每对中的值分开.
 使用`Array.prototype.reduce（）`和`decodeURIComponent（）`创建一个包含所有键值对的对象.
 

@@ -162,8 +162,6 @@
 - [googler](https://github.com/jarun/googler) - 来自终端的Google搜索，Google Site Search，Google新闻.
 - [calcurse](http://calcurse.org/) - 计算，命令行的日历和计划应用程序.
 - [papis](http://github.com/alejandrogallo/papis) - 功能强大且可扩展的文档和参考书目管理器.
-- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
-- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
 
 ### Time Tracking
 
@@ -188,6 +186,13 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
 - [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
 
+### Presentations
+
+- [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
+- [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
+- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
+- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
+
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测Buffer / Uint8Array的归档类型.
@@ -206,7 +211,6 @@
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中快速观看窗口，无需关闭或打开另一个全屏窗口.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从终端中的各个新闻媒体获取新闻标题.
 - [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
-- [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
 - [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
@@ -392,7 +396,6 @@
 
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - 穿越Mandelbrot分形的cli.
-- [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 
 ## Just for Fun

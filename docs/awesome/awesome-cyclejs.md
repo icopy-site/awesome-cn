@@ -63,7 +63,7 @@ http://oleg.fi/graafi/
 * [kibin/cycle-example-who-to-follow ★16](https://github.com/kibin/cycle-example-who-to-follow) - 小例子部分实现了Twitter使用github api跟随盒子的人.
 * [SkaterDad/cycle-snabbdom-examples ★12](https://github.com/SkaterDad/cycle-snabbdom-examples) - 嵌套组件的示例，使用特定于snabbdom的动画.
 * [bahmutov/draw-cycle ★112](https://github.com/bahmutov/draw-cycle) - 计数器应用程序的交互式可视化，显示MVI组件内的数据流 [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
-* [andreloureiro/pomocycle ★21](https://github.com/andreloureiro/pomocycle) - 一个简单的番茄计时器.
+* [andreloureiro/pomocycle ★21](https://github.com/andreloureiro/pomocycle) - 一个简单的番茄钟计时器.
 * [laszlokorte/tams-tools ★24](https://github.com/laszlokorte/tams-tools) - 用cycle.js构建的一套教学计算机科学工具.
 * [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) - 使用Cycle.js构建的Reactive Live London Tube列车状态示例.
 * [cyclejs-community/built-with-cycle ★9](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) 展示使用Cycle.js构建的酷项目
@@ -90,7 +90,7 @@ http://oleg.fi/graafi/
 
 * [@cycle/http](https://github.com/cyclejs/cyclejs/tree/master/http) - 一个Cycle.js驱动程序，用于根据superagent发出HTTP请求.
 * [**@cycle/dom**](https://github.com/cyclejs/cyclejs/tree/master/dom)   - 一个Cycle.js驱动程序，用于启用与DOM的交互.  驱动程序基于snabbdom作为Virtual DOM库.
-* [@cycle/storage](https://github.com/cyclejs/storage) - A Cycle.js Driver for using localStorage and sessionStorage.
+* [@cycle/storage](https://github.com/cyclejs/storage) - 用于使用localStorage和sessionStorage的Cycle.js驱动程序.
 * [@cycle/history](https://github.com/cyclejs/cyclejs/tree/master/history) - 这是用于处理的标准Cycle.js驱动程序 [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 * [@cycle/isolate](https://github.com/cyclejs/cyclejs/tree/master/isolate) - 一个实用程序函数，用于在Cycle.js中生成作用域数据流组件.
 * [@cycle/time](https://github.com/cyclejs/cyclejs/tree/master/time) -  Cycle.js快速而美观的测试和时间管理
@@ -132,7 +132,7 @@ http://oleg.fi/graafi/
 
 ### Utilities
 
-* [staltz/chai-virtual-dom ★24](https://github.com/staltz/chai-virtual-dom) -  Chai断言助手测试虚拟dom VTrees
+* [staltz/chai-virtual-dom ★24](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - 依赖注入工具，支持Cycle的循环依赖
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) -  CycleJS框架的实用程序，用于在创建流组时减少样板.
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - 基于Cycle.js创建Web组件的实用程序
@@ -145,6 +145,7 @@ http://oleg.fi/graafi/
 * [**staltz/cycle-onionify ★244**](https://github.com/staltz/cycle-onionify) -  Cycle.js应用程序的分形状态管理
 * [maiermic/cycle-storageify ★5](https://github.com/maiermic/cycle-storageify) - 通过将洋葱形状态存储在本地存储中来扩充Cycle.js组件（主要功能）
 * [shfrmn/cycle-lot](https://github.com/shfrmn/cycle-lot) - 轻松处理Cycle.js组件的动态列表（完全类型支持）
+* [sarimarton/powercycle](https://powercycle.js.org) - 在Cycle.js之上的静态VDOM组合和类似React的开发
 
 ### Boilerplates
 

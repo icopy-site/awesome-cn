@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
 ## Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
-A curated list of awesome newsletters.
+精选新闻通讯的精选列表.
 
 灵感来自GitHub上的&#39;awesome- *&#39;趋势.
 
@@ -45,11 +45,9 @@ A curated list of awesome newsletters.
 * [React Digest](https://www.getrevue.co/profile/the-react-digest) .  每周精心挑选最好的React JS资源.
 * [React Digest 2](https://reactdigest.net/) .  5个链接;  Flux，Redux，MobX，React和React Native我们正在观看所有内容，所以注册并获得每周javascript的精彩部分.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) .  关于React和生态系统的每周简报.
-* [React Status](https://react.statuscode.com/) .  每周综述最新的React和React Native链接和教程.
+* [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 * [Awesome React Newsletter](https://react.libhunt.com/newsletter) .  每周概述最受欢迎的React新闻，文章和图书馆.
 * [This Week In React](https://this-week-in-react.org/) .  每周报道React Core和React DOM周围有趣的拉取请求，讨论和RFC.  每个星期五出来.
-
-#### AngularJS
 
 #### EmberJS
 * [EmberJS Weekly](https://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
@@ -136,7 +134,6 @@ A curated list of awesome newsletters.
 * [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多内容，每周五发送到您的收件箱.
 * [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
-* [Green Ruby News](http://greenruby.org/) .  关于红宝石，javascript，webdev，devops的每周新鲜链接的馈送，每周日由mose，xenor和tysliu收集.
 * [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) .  一系列令人敬畏的Ruby宝石，工具，框架和软件.
 
 ### PHP
@@ -282,6 +279,9 @@ A curated list of awesome newsletters.
 * [HN Mail](https://hnmail.io) .  可定制的每周简报，根据您的兴趣提供黑客新闻故事.
 * [Stratus Update](https://www.manifold.co/stratusupdate) .  每周拍摄快速蒸发和凝结的云原生景观.
 
+## Resilience
+* [Resilience Roundup](https://ResilienceRoundup.com) .  学习Resilence Engineering研究，无需深入学习长篇学术论文.
+
 ## Miscellaneous
 * [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 * [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
@@ -294,7 +294,6 @@ A curated list of awesome newsletters.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter) .  可以在本地托管的免费软件解决方案和Web应用程序的目录.
 * [lkml.wtf](https://lkml.wtf/) .  每周一次的Linux内核邮件列表线程综述，但有更多的讽刺.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
-* [Now I Know](http://nowiknow.com/) .  每日免费电子邮件，以简洁的文摘提供琐事.
 * [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
 * [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
 * [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.

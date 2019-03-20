@@ -88,6 +88,7 @@
 
 ### Articles
 
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Developing and deploying Vapor 3 with Docker](https://bygri.github.io/2018/05/14/developing-deploying-vapor-docker.html)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent And Controllers - Part 1](https://geeks.brokenhands.io/blog/posts/fluent-and-controllers-part-1/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent Part 2 - Parent-Child Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-2-parent-child-relationships/)

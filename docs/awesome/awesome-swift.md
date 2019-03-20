@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  954 |  2019年3月8日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  956 |  2019年3月19日
 
 
 
@@ -176,7 +176,7 @@
 * [Spring](https://github.com/MengTo/Spring) - 用于简化iOS动画的库.
 * [SpriteKitEasingSwift](https://github.com/craiggrummitt/SpriteKitEasingSwift) - 更好地缓解SpriteKit.
 * [spruce-ios](https://github.com/willowtreeapps/spruce-ios) - 屏幕上的编舞动画.
-* [Stellar](https://github.com/AugustRush/Stellar) - A Physical animation library.
+* [Stellar](https://github.com/AugustRush/Stellar) - 物理动画库.
 * [SwiftyAnimate](https://github.com/rchatham/SwiftyAnimate) - 可组合动画.
 * [TheAnimation](https://github.com/marty-suzuki/TheAnimation)   - 类型安全的CAAnimation包装器.  它可以防止设置错误的类型值.
 * [ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) - 只需一行即可实现UI.
@@ -241,7 +241,7 @@
 
 * [Cely](https://github.com/chaione/Cely) - 即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - 验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - 用于从LinkedIn登录和检索访问令牌的简单视图控制器.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -  LoginKit是一种向您的iOS应用程序添加登录/注册UX的快捷方式.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -  [In]可见的ReCaptcha for iOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - 在iOS和OS X应用程序中实现Facebook和Google登录的简单方法.
@@ -283,7 +283,7 @@
 * [Real-time Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - 使用MessageKit与Firebase Firestore实现功能性实时聊天应用.
 
 ### Colors
-*有趣的片段与色彩管理和实用性有关.* [back to top](#readme) 
+*Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) -  Chameleon是一款轻量级但功能强大的iOS彩色框架.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 直观而有趣的iOS颜色选择器.
@@ -338,7 +338,7 @@
 * [Cadmium](https://github.com/jmfieldman/cadmium) - 隐藏托管对象上下文复杂性的框架.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - 处理核心数据的简单而优雅的方式.
 * [DataKernel](https://github.com/mrdekk/DataKernel)   -  DataKernel是Core Data堆栈的简约包装器，可简化持久性操作.  没有外部依赖.
-* [Graph](https://github.com/CosmicMind/Graph) -  Core Data的优雅数据驱动框架.
+* [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - 更快捷的核心数据堆栈.
 * [JustPersist](https://github.com/justeat/JustPersist) - 使用Core Data支持开箱即用，在iOS上执行持久性的最简单，最安全的方法.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - 使用核心数据过滤的简便方法.
@@ -422,6 +422,7 @@
 
 * [Realm](https://github.com/realm/realm-cocoa) -  Realm是一个移动数据库：Core Data和SQLite的替代品.
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - 与Realm和JSON一起使用的简洁的Mantle方式.
+* [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -  RealmSwift的安全且简单的包装.
 
 #### SQL drivers
 [back to top](#readme) 
@@ -443,7 +444,7 @@
 * [AEXML](https://github.com/tadija/AEXML) -  xml包装器.
 * [CheatyXML](https://github.com/lobodart/CheatyXML) - 一个功能强大的框架，旨在轻松管理XML.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - 处理XML的最快捷方式.
-* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - 简单的XML解析.
+* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) -  XMLEncoder和XMLDecoder基于标准库中的Codable协议
 
 #### YAML
@@ -527,10 +528,10 @@
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
-* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 现代线程安全和类型安全的键值观察.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步承诺编程lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)   -  ReactiveCocoa（RAC）是一个受功能反应式编程启发的Cocoa框架.  它提供了用于组合和转换值流的API.
-* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 反应式和单向应用架构的框架.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce)   - 反应性实现状态容器模式（如Redux）.  它基于状态不变性和单向数据流的简单概念.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
@@ -538,6 +539,7 @@
 * [Snail](https://github.com/UrbanCompass/Snail) - 一个Observables框架.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对iOS优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受Redux和MVVM启发的iOS开发的整体方法.
+* [Tokamak](https://github.com/MaxDesiatov/Tokamak) - 类似React的声明式API，用于构建具有易于使用的单向数据绑定的本机UI组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) - 轻量级承诺.
 * [TopicEventBus](https://github.com/mcmatan/topicEventBus) - 发布 - 订阅设计模式实现框架，具有按主题发布事件的能力.
 * [VueFlux](https://github.com/ra1028/VueFlux) - 单向数据流状态管理架构 - 受Vuex和Flux的启发.
@@ -688,7 +690,7 @@
 ### Keyboard
  *您想创建自己的自定义键盘吗？  这里有一些有趣的资源* [back to top](#readme) 
 
-* [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)   - 一种优雅的解决方案，可在键盘显示时保持任何UIView可见.  不需要UIScrollView.
+* [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)   - 一种优雅的解决方案，用于在显示键盘时保持任何UIView可见.  不需要UIScrollView.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无代码插入式通用库允许防止键盘滑动问题并覆盖UITextField / UITextView.
 * [KeyboardHideManager](https://github.com/bonyadmitr/KeyboardHideManager) - 无代码管理器通过点击iOS视图来隐藏键盘.
 * [Typist](https://github.com/totocaster/Typist) - 适用于iOS应用程序的小型UIKit键盘管理器 - 可帮助管理键盘的屏幕状态和行为，而无需通知中心.
@@ -738,10 +740,10 @@
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - 使用IBLocalizable直接在Interface Builder中本地化您的视图.
 * [L10n-swift](https://github.com/Decybel07/L10n-swift) - 具有“动态”更改语言能力的应用程序的本地化，并支持任何语言的复数形式.
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - 通过远程管理实现您的应用程序的实时动态本地化，以便您无需重新提交应用程序即可管理维护和部署翻译.
-* [Localize](https://github.com/andresilvagomez/Localize) - Localize apps using e.g. regular expressions in Localizable.strings.
-* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - Localize apps using e.g. regular expressions in Localizable.strings.
+* [Localize](https://github.com/andresilvagomez/Localize) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
+* [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
-* [Swifternalization](https://github.com/tomkowz/Swifternalization) - Localize apps using e.g. regular expressions in Localizable.strings.
+* [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则具有适当的关联值）.
 
 ### Location
@@ -915,7 +917,7 @@
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的Common Crypto库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) -  JOSE标准JWS，JWE和JWK的框架.
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - 适用于iOS和Mac的CCCryptor（Apple的AES加密）包装器.
-* [SCrypto](https://github.com/sgl0v/scrypto) - 访问CommonCrypto例程的优雅界面.
+* [SCrypto](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 * [Siphash](https://github.com/attaswift/SipHash) - 使用SipHash算法进行简单安全的散列.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - 与Sodium库的接口，用于iOS和OS X的常见加密操作.
 * [Themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
@@ -1122,7 +1124,7 @@
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - 适用于iOS 7+的简单样式消息/通知.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - 一个凉爽的弹性活动表库.
-* [Kamagari](https://github.com/tasanobu/Kamagari) - 简单的UIAlertController构建器类.
+* [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - 适用于iOS的漂亮警报控制器.
 * [Loaf](https://github.com/schmidyy/Loaf) - 简单的iOS Toast框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在iOS中显示高度可自定义的应用通知横幅的最简单方法.
@@ -1212,7 +1214,7 @@
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
-* [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
+* [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
 * [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -  iOS的三角形角标签视图.
 
 #### Menu
@@ -1262,7 +1264,7 @@
 
 * [AREK](https://github.com/ennioma/arek) -  AREK是一种干净且易于使用的包装，超过任何iOS许可.
 * [Permission](https://github.com/delba/Permission) - 在iOS上请求权限的统一API.
-* [PermissionScope](https://github.com/nickoneill/PermissionScope) - 以潜望镜为灵感的方式来寻求iOS权限.
+* [PermissionScope](https://github.com/nickoneill/PermissionScope) - A Periscope-inspired way to ask for iOS permissions.
 * [SPPermission](https://github.com/IvanVorobei/SPPermission) - 使用本机UI和交互式动画的简单请求权限.
 
 #### StackView
@@ -1435,10 +1437,10 @@
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) - 用于将任何Encodable值编码为URLQueryItem数组的编码器.
 * [UTIKit](https://github.com/cockscomb/UTIKit) -  UTI（统一类型标识符）包装器.
 * [Vaccine](https://github.com/zenangst/Vaccine) - 让您的应用免受重新编译 - 死亡.
-* [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - 一个微框架，用于封装闭包中的[弱自我]和保护语句.
+* [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate [weak self] and guard statements within closures.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能.
 * [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
-* [XestiMonitors](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.
+* [XestiMonitors](https://github.com/eBardX/XestiMonitors) - 可扩展的监控框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - 标准库，基础和UIKit的微实用程序和扩展的集合.
 
 ### Validation

@@ -12,17 +12,17 @@
 * [Ramda](https://github.com/ramda/ramda)   - 一个实用的JavaScript函数库，专为函数式编程风格而设计.  一种样式，可以轻松创建功能管道，从不改变用户数据.
 * [Ramda Adjunct](https://github.com/char0n/ramda-adjunct) 是Ramda的社区维护扩展.
 * [Ramda-extension](https://github.com/tommmyy/ramda-extension) 是一组仅由Ramda函数组成的实用程序无点函数.
-* [Rambda](https://github.com/selfrefactor/rambda) - 在10kB以下更快的替代Ramda.
+* [Rambda](https://github.com/selfrefactor/rambda) - A faster alternative to Ramda in under 10kB.
 * [Folktale](http://folktale.origamitower.com/) - 用于JavaScript函数编程的标准库.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - 一个实例 [Lodash](https://github.com/lodash/lodash) 将其方法包装起来，以生成不可变的，自动curried，iteratee-first，data-last方法.
 * [functional.js](http://functionaljs.com) - 轻量级功能JavaScript库，便于currying和无点/默认编程.
 * [101](https://github.com/tjmehta/101) - 一个现代的模块化JavaScript实用程序库，可以很好地与vanilla JavaScript方法配合使用.
 * [fnuc](https://github.com/algesten/fnuc) -  CoffeeScript（和JavaScript）的功能库，用于促进功能组合和更高阶的功能.
 * [barely-functional](https://github.com/cullophid/barely-functional) - 使用本机ES5 / 6操作的小型（2.7kb）函数编程库.
-* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - 承诺的实用函数编程库.
+* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) - 功能导向的实用程序库，有点基于Haskell的Prelude模块.
 * [preludejs](https://github.com/alanrsoares/prelude-js) -  JavaScript的硬核功能编程.
-* [1-liners](https://github.com/1-liners/1-liners)   - 功能性工具，不能简单.  这款简约实用多功能腰带采用手工精制而成，充满爱与关怀.
+* [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry](https://github.com/thunklife/fn-curry) - 一个简单的函数来理解函数.
 * [curry](https://github.com/thisables/curry) - 使用函数绑定语法来调整函数.
 * [compose-function](https://github.com/stoeffel/compose-function) - 从较小的功能中编写新功能.
@@ -49,7 +49,7 @@
 
 ### Data Structures
 
-Write performant functional code by using the right data structures for the task.
+通过使用任务的正确数据结构来编写高性能代码.
 
 * [Icepick](https://github.com/aearly/icepick) 用于将冻结的JavaScript对象视为持久不可变集合的实用程序
 * [Immutable.js](https://github.com/facebook/immutable-js) - 不可变的持久数据收集.
@@ -83,9 +83,10 @@ Write performant functional code by using the right data structures for the task
 * [fantasy-birds](https://github.com/fantasyland/fantasy-birds)   -  Haskell包的端口Data.Aviary.Birds.  一切都满足您的组合需求.
 * [crocks](https://github.com/evilsoft/crocks) - 一系列流行的代数数据类型，其主要目标是策划并提供每种类型之间的通用接口，以及实现所需的所有辅助功能.
 * [kudo-js](https://github.com/blitzritz/kudojs) - 一个小实用程序库，带有一组代数数据类型和辅助函数，可帮助您在Javascript函数编程风格中编写代码
-* [purify](https://github.com/gigobyte/purify) - Functional programming library for TypeScript focusing on ADTs
+* [purify](https://github.com/gigobyte/purify) - 针对ADT的TypeScript功能编程库
 * [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先，自以为是，功能强大的语言，旨在与JavaScript引擎100％兼容
 * [Pratica](https://github.com/rametta/pratica) - 小型，简单，易用的FP数据类型，适用于需要快速发送可靠代码的实用且高效的开发人员.
+* [Tifi](https://github.com/mobily/tifi)   -  Tifi是一个用于TypeScript函数式编程的库.  它解决了“undefined”和“null”都存在的问题.  Tifi的灵感来自于选项数据类型的OCaml / Reason实用程序.
 
 ### Lenses
 
@@ -160,6 +161,7 @@ Write performant functional code by using the right data structures for the task
 * [Functional Composition in Javascript](https://joecortopassi.com/articles/functional-composition-in-javascript/) - 逐步说明如何在javascript中编写函数.
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f) - 学习函数式编程概念的实用代码示例，如纯函数，不变性，一等实体和高阶函数
 * [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - 在Javascript，Maybe＆Either中介绍2个简单的monad.
+* [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
 
 ### Videos
 
@@ -201,7 +203,7 @@ Write performant functional code by using the right data structures for the task
 
 ## Contribution
 
-:star: Suggestions and PRs are welcome! :star:
+ ：明星：欢迎提出建议和PR！  ：星：
 
 请阅读 [contribution guidelines](https://github.com/stoeffel/awesome-fp-js/blob/master/./contributing.md) 开始.
 
