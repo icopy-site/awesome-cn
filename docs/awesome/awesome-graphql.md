@@ -109,12 +109,13 @@
 * [vue-apollo](https://github.com/Akryum/vue-apollo) - 阿波罗的Vue集成.
 * [graphql-pouch](https://github.com/MikeBild/graphql-pouch) - 由GraphQL简写表示法创建的PouchDB之上的GraphQL-API运行时作为具有CouchDB同步的自包含服务.
 * [gql-tools](https://github.com/almilo/gql-tools) - 带有CLI的工具库，用于模式生成和操作.
-* [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date)   - 与GraphQL.js一起使用的GraphQL日期标量类型.  此标量表示ISO 8601格式YYYY-MM-DD的日期.
+* [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 工具，允许您通过插件从不同的数据源构建灵活的graphql架构.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - 使用连接，SQL或其他方式创建GraphQL API.
 * [Join Monster](https://github.com/acarl005/join-monster) - 用于批量数据提取的GraphQL-to-SQL查询执行层.
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
+* [GraphiteJS](https://github.com/graphitejs/server) -  GraphQl的框架NodeJS.
 
 #### Relay Related
 
@@ -201,6 +202,7 @@
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - 使用C和C ++ API的C ++中的GraphQL查询解析器.
+* [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) -  C ++ GraphQL架构服务生成器.
 
 <a name="lib-go" />
 
@@ -220,7 +222,7 @@
 
 ### Scala Libraries
 
-* [sangria](https://github.com/sangria-graphql/sangria) -  Scala GraphQL客户端和服务器库.
+* [sangria](https://github.com/sangria-graphql/sangria) -  Scala GraphQL服务器实现.
 * [sangria-relay](https://github.com/sangria-graphql/sangria-relay) - 桑格利亚接力支持.
 * [graphql-scala](https://github.com/hrosenhorn/graphql-scala) - 尝试使用Scala获取GraphQL.
 
@@ -237,7 +239,7 @@
 ### Elixir Libraries
 
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - 功能齐全的Elixir GraphQL库.
-* [graphql-elixir](https://github.com/graphql-elixir/graphql) -  GraphQL Elixir.
+* [graphql-elixir](https://github.com/graphql-elixir/graphql)   -  GraphQL Elixir.  （不再维护）
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) -  GraphQL Elixir的插件集成.
 * [graphql_relay](https://github.com/graphql-elixir/graphql_relay) -  GraphQL Elixir的中继助手.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) -  Elixir绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
@@ -336,7 +338,7 @@
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql)   - 基于Swagger中描述的REST API的GraphQL类型构建器.  允许从REST迁移到GraphQL 5分钟
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - 将任何GraphQL API表示为交互式图形.
 * [GraphQL Docs](https://graphql-docs.com) - 即时创建在线托管的精美GraphQL API文档.
-* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker)   - ðŸŽ²使用伪造数据模拟或扩展GraphQL API.  无需编码.
+* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - ðŸŽ² Mock or extend your GraphQL API with faked data. No coding required.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - 语言服务插件在TypeScript模板字符串中完成并验证GraphQL查询.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - 像JSFiddle for GraphQL服务器代码一样，直接从浏览器编写和部署GraphQL API.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) -  GraphQL扩展，使您可以轻松获取解析器级别的性能信息，作为GraphQL响应的一部分.
@@ -398,7 +400,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 * [swapi-graphql-lambda](https://github.com/alvinthen/swapi-graphql-lambda) -  AWS Lambda托管swapi.co中托管的GraphQL架构
 * [Apollo Client documentation](https://www.apollographql.com/react/) - 使用apollo客户端构建GraphQL应用程序的文档和示例
 * [Apollo Server tools documentation](https://www.apollographql.com/docs/apollo-server/) - 用于构建GraphQL服务器并连接到SQL，MongoDB和REST端点的文档，教程和示例.
-* [f8-apollo](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
+* [f8-apollo](https://github.com/nnance/f8app-apollo) -  2016年官方F8应用程序的重构版本，由React Native和Apollo Stack提供支持.
 * [f8app](https://github.com/fbsamples/f8app) -  2016年官方F8应用程序的源代码，由React Native和其他Facebook开源项目提供支持. [makeitopen.com](https://makeitopen.com)
 * [Reindex Examples](https://github.com/reindexio/reindex-examples) - 使用React Native和React.js进行Web的Reindex示例项目.
 * [Modelizr Documentation](https://julienvincent.io/modelizr/) -  modelizr的文档和用法示例
@@ -409,6 +411,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 * [Apollo React example for Github GraphQL API](https://github.com/katopz/react-apollo-graphql-github-example) - 使用示例Apollo React for Github GraphQL API with create-react-app
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - 使用GraphQL应用程序示例 [contextable.js](https://github.com/rawmodel/framework).
 * [GraphQL Tutorial](https://github.com/rse/graphql-tutorial) - 从简单的Hello World到具有内置GraphQL UI的基于网络的GraphQL服务器，从GraphQL开始的12步教学
+* [Serverless Apollo Graphql](https://github.com/RishikeshDarandale/serverless-graphql-boilerplate) - 使用无服务器框架在AWS中启动Apollo graphql服务器的Boilerplate
 
 <a name="example-ts" />
 

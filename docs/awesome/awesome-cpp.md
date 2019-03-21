@@ -67,7 +67,7 @@
 ## Asynchronous Event Loop
 
 * [Asio](https://github.com/chriskohlhoff/asio/)   - 用于网络和低级I / O编程的跨平台C ++库，使用现代C ++方法为开发人员提供一致的异步模型.  [促进] [website](http://think-async.com/)
-* [Boost.Asio](http://think-async.com/) - A cross-platform C++ library for network and low-level I/O programming. [Boost]
+* [Boost.Asio](http://think-async.com/)   - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
 * [C++ Actor Framework](https://github.com/actor-framework/actor-framework)   -  C ++中Actor模型的开源实现.  [BSD -3-第] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)   - 一个功能齐全的高性能事件循环，在libevent之后进行了松散的建模，但没有它的限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)   - 事件通知库.  [BSD]
@@ -159,7 +159,7 @@
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
 * [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue)   - 用于C ++ 11的快速多生产者，多用户无锁并发队列.  [BSD，提升]
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)   - 具有任务依赖性的快速C ++并行编程.  [MIT]
 * [CUB](https://github.com/NVlabs/cub)   -  CUB为​​CUDA编程模式的每一层提供最先进的，可重复使用的软件组件.  [新BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
@@ -337,14 +337,14 @@
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)   - 用于在C ++中编写DirectX 11.x代码的辅助类的集合.  [MIT]
 * [GLFW](https://github.com/glfw/glfw)   - 一个简单的跨平台OpenGL争用库.  [ZLIB /的libpng]
 * [herebedragons](https://github.com/kosua20/herebedragons)   - 使用各种引擎，框架或API实现的基本3D场景.  [MIT] [website](http://simonrodriguez.fr/dragon/)
-* [Horde3D](https://github.com/horde3d/Horde3D) - A small 3D rendering and animation engine. [EPL]
+* [Horde3D](https://github.com/horde3d/Horde3D)   - 小型3D渲染和动画引擎.  [EPL]
 * [Ion](https://github.com/google/ion)   - 一组小而有效的库，用于构建使用3D图形的跨平台客户端或服务器应用程序.  [Apache2的] [website](https://google.github.io/ion/)
 * [Irrlicht](http://irrlicht.sourceforge.net/)   - 用C ++编写的高性能实时3D引擎.  [ZLIB]
 * [libigl](https://github.com/libigl/libigl)   - 简单的C ++几何处理库.  [MPL2]
 * [magnum](https://github.com/mosra/magnum)   - 用于游戏和数据可视化的轻量级和模块化C ++ 11 / C ++ 14图形中间件.  [MIT] [website](http://magnum.graphics)
 * [NanoVG](https://github.com/memononen/nanovg)   - 在OpenGL之上的用于UI和可视化的抗锯齿2D矢量绘图库.  [zlib的]
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
-* [OpenSceneGraph](http://www.openscenegraph.org/) - An open source high performance 3D graphics toolkit. [OSGPL]
+* [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
 * [OpenVDB](http://www.openvdb.org/)   - 用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
 * [Panda3D](http://www.panda3d.org/)   - 用于Python和C ++的3D渲染和游戏开发的框架.  [BSD]
@@ -421,7 +421,7 @@
 * [json-voorhees](https://github.com/tgockel/json-voorhees)   - 用于C ++的JSON库.  支持C ++ 11.  没有依赖，快速和开发友好.  [Apache2的]
 * [jute](https://github.com/amir-s/jute)   - 非常简单的C ++ JSON Parser.  [公共区域]
 * [libjson](https://github.com/vincenthz/libjson)   -  C中的JSON解析器和打印机库，易于与任何模型集成.  [LGPL]
-* [libjson](http://sourceforge.net/projects/libjson/)   - 轻量级JSON库.  [？]
+* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap： - 通用配置库解析器[BSD-2-Clause]
 * [PicoJSON](https://github.com/kazuho/picojson)   -  C ++中的头文件，JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
@@ -541,7 +541,7 @@
 * [libjingle](https://code.google.com/p/libjingle/)   - 谷歌谈话语音和P2P互操作性库.  [BSD]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
-* [libquic](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
+* [libquic](https://github.com/devsisters/libquic)   - 从Chromium的QUIC实现中提取的QUIC协议库.  [BSD]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)   - 轻量级纯C WebSocket实现，提供客户端和服务器库.  [LGPL2.1 +静态链接例外] [website](https://libwebsockets.org/)
 * [Mongoose](https://github.com/cesanta/mongoose)   - 极轻量级的网络服务器.  [GPL2]
 * [Muduo](https://github.com/chenshuo/muduo)   -  Linux中用于多线程服务器的C ++非阻塞网络库.  [BSD]
@@ -684,7 +684,7 @@
 * [facil.io](https://github.com/boazsegev/facil.io)   - 支持HTTP，WebSockets，SSE等的平衡，高性能C Web框架.  [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - 用于在C中开发的用于Web应用程序的超快速且灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
-* [lwan](https://github.com/lpereira/lwan)   - 实验性，可扩展，高性能的HTTP服务器.  [GPL2]
+* [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)   - 轻量级，零依赖性框架，以创建高性能的Web服务.  [Apache的2.0] [website](https://oatpp.io/) 
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
 * [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
@@ -779,7 +779,7 @@
 * [Ideone](http://ideone.com/) - 在线编译和调试工具，允许您编译源代码并以60多种编程语言在线执行.
 * [repl.it](https://repl.it) - 面向教育工作者，学习者和开发人员的强大而简单的工具和平台.
 * [Rextester](http://rextester.com/runcode) - 在线编译器，提供多个编译器（Clang，GCC，MSVC）和几个编辑器.
-* [Rise4Fun](http://webcompiler.cloudapp.net/) - Online Visual C++ compiler.
+* [Rise4Fun](http://webcompiler.cloudapp.net/) - 在线Visual C ++编译器.
 * [Try It Online](https://tio.run/) -  TIO是一系列在线口译员，可以提供一系列实用和娱乐编程语言.
 * [Wandbox](http://melpon.org/wandbox/) - 提供Boost的在线Clang / GCC编译器.
 
@@ -820,7 +820,7 @@
 
 ## Build Systems
 
-* [Bazel](https://bazel.build)   -  Google提供的多语言，快速且可扩展的构建系统.  [阿帕奇]
+* [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -889,7 +889,7 @@
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - 在C ++ Now 2012上展示的演示材料.
 
 ## Books
-*精彩的C或C ++相关书籍.*
+*Fantastic C or C++ related books.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - 甚高频/免费编程书籍/ C.
@@ -928,7 +928,7 @@
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是新波士顿的C ++编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 使用Qt教程的newboston C ++ GUI官方播放列表.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - 所有TheNewBoston的C编程教程都在这里.
-* [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) -  Boost Library，C ++标准库，现代C ++，高级C ++，高级STL，......
+* [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
 
 ## Websites
 *有用的C或C ++相关网站.*
@@ -936,7 +936,7 @@
 * [Standard C++](https://isocpp.org/) ：zap： - 有关标准C ++的新闻，现状和讨论.
 * [CppCon](http://cppcon.org/) -  C ++会议.
 * [C++ reference](http://cppreference.com/) -  C ++ 98，C ++ 03，C ++ 11，C ++ 14参考.
-* [cplusplus.com](http://www.cplusplus.com/) - The C++ Resources Network.
+* [cplusplus.com](http://www.cplusplus.com/) -  C ++资源网络.
 * [C FAQ](http://c-faq.com/) -  C常见问题解答.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -  C ++常见问题解答.
 * [C++ FQA Lite](http://yosefk.com/c++fqa/) -  C ++经常质疑答案.
@@ -995,4 +995,7 @@
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap： - 单文件C / C ++库列表.
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
+请快速了解一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
+谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ;  你摇滚！
+
+#### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*

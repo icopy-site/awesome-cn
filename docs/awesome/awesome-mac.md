@@ -39,7 +39,7 @@
 * [Coda2](http://panic.com/coda/) - 快速，干净，功能强大的文本编辑器.
 * [CotEditor](https://coteditor.com)   -  macOS的轻量级纯文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/coteditor/CotEditor/）！[免费软件] [免费软件图标]
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
-* [LightTable](http://lighttable.com/)   - 下一代代码编辑器.  [！[开源软件] [OSS图标]]（https://github.com/LightTable/LightTable）！[免费软件] [免费软件图标]
+* [LightTable](http://lighttable.com/) - The next generation code editor. [![Open-Source Software][OSS Icon]](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 * [micro](https://micro-editor.github.io)   - 现代直观的基于终端的文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/ory/editor）！[免费软件] [免费软件图标]
 * [ONI](https://github.com/onivim/oni)   - 由Neovim驱动的IDE.  [！[开源软件] [OSS图标]]（https://github.com/onivim/oni）！[免费软件] [免费软件图标]
 * [Sublime Text](http://www.sublimetext.com/3)   - 用于代码，标记和散文的复杂文本编辑器.  你会喜欢光滑的用户界面，非凡的功能和惊人的性能， [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
@@ -163,6 +163,7 @@
 * [PPRows](https://github.com/jkpang/PPRows)   - 用于计算您编写的代码行数的应用程序.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/jkpang/PPRows）
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze)   - 一组shell脚本（用于bash和zsh），增强了与git的交互.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/scmbreeze/scm_breeze）
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 支持SSH，Telnet或其他协议的终端仿真.
+* [Site Sucker](https://ricks-apps.com/osx/sitesucker/)   -  SiteSucker是一个Macintosh应用程序，可以自动从Internet下载网站.  app-store Icon]]（https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12）
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 易于使用的代码片段管理器.
 * [Solarized](http://ethanschoonover.com/solarized)   - 干净漂亮的色彩主题.  适用于iTerm，JetBrains产品，Vim等.
 * [StarUML](http://staruml.io) - 强大的UML应用程序.
@@ -194,7 +195,7 @@
 * [mitmproxy](https://mitmproxy.org/)   - 针对渗透测试人员和软件开发人员的交互式拦截HTTP代理.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
 * [Paw](https://luckymarmot.com/paw) - 高级HTTP客户端.
 * [Proxie](https://proxieapp.com/)   -  HTTP调试代理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/cellist/id897814548）
-* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
+* [Wireshark](https://www.wireshark.org)   - 世界上最重要和最广泛使用的网络协议分析仪.  [！[开源软件] [OSS图标]]（https://github.com/wireshark/wireshark）！[免费软件] [免费软件图标]
 
 #### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
@@ -240,7 +241,7 @@
 #### Frameworks For Hybrid Applications
 
 * [AppJS](http://appjs.com/)   - 轻量级JavaScript UI库，用于创建与本机应用程序类似的移动Web应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/appjs/appjs）
-* [create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds. [![Open-Source Software][OSS Icon]](https://github.com/sindresorhus/create-dmg) ![Freeware][Freeware Icon]
+* [create-dmg](https://github.com/sindresorhus/create-dmg)   - 在几秒钟内为您的macOS应用程序创建一个好看的DMG.  [！[开源软件] [OSS图标]]（https://github.com/sindresorhus/create-dmg）！[免费软件] [免费软件图标]
 * [Electrino](https://github.com/pojala/electrino)   - 使用系统自己的Web浏览器引擎构建基于Web技术的应用程序的桌面运行时.  [！[开源软件] [OSS图标]]（https://github.com/pojala/electrino）！[免费软件] [免费软件图标]
 * [Electron](http://electron.atom.io)   - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/electron/electron）
 * [ionic](http://ionicframework.com/)   - 使用Angular和开放式Web技术构建令人惊叹的原生和渐进式Web应用程序.  一个应用程序运行在一切.  [！[开源软件] [OSS图标]]（https://github.com/driftyco/ionic）！[免费软件] [免费软件图标]
@@ -353,7 +354,7 @@
 * [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 首个用于设计和原型化网站和移动应用程序的一体化跨平台工具.
 * [Axure RP 8](http://www.axure.com) - 一个工具中的原型，规格和图表.
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 线框工具，可帮助您更快，更智能地工作.
-* [Flinto](https://www.flinto.com/) - 快速创建移动，桌面或Web应用程序的交互式原型.
+* [Flinto](https://www.flinto.com/) - Quickly create interactive prototypes of mobile, desktop, or web apps.
 * [Framer](http://framerjs.com/) - 交互式原型制作工具.
 * [Justinmind](http://www.justinmind.com) - 适用于网络和移动应用的原型平台.
 * [Kite](https://kiteapp.co/) - 适用于Mac和iOS的强大动画和原型设计应用程序.
@@ -644,7 +645,7 @@
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 由OmniGroups制作的Nice GTD应用程序.
 * [Taskade](https://www.taskade.com) - 团队的实时协作编辑器.
 * [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
-* [Things](https://culturedcode.com/things/) - Delightful and easy to use task manager. (**Award-winning App**)
+* [Things](https://culturedcode.com/things/)   - 令人愉快且易于使用的任务管理器.  （**屡获殊荣的App **）
 * [Todoist](https://todoist.com/mac)   - 跨平台待办事项列表应用程序.  ！[免费软件] [免费软件图标]
 * [TickTick](https://ticktick.com/)   - 简单有效的待办事项列表和任务管理器，可帮助您组织生活的各个方面.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id966085870）
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 完成工作的最简单方法.
@@ -773,7 +774,7 @@
 *以下是一些主要的软件下载站点，有一些OSX Mac软件站点*
 
 * [Cakebrew](http://www.cakebrew.com)   -  Homebrew的GUI客户端.  安装，检查或删除应用程序，无需命令行.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/brunophilipe/Cakebrew/）
-* [Homebrew Cask](http://caskroom.github.io)   - 命令行安装管理器，它扩展了Homebrew，为Mac OS应用程序和大型二进制文件带来了它的优雅，简洁和速度.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/caskroom/homebrew-cask）
+* [Homebrew Cask](http://caskroom.github.io) - Command line installation manager which extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask)
 * [Homebrew](https://brew.sh/)   -  macOS缺少的包管理器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/Homebrew/brew/）
 * [MacPorts](https://www.macports.org/)   - 开源社区计划，旨在设计一个易于使用的系统，用于在Mac OS X操作系统上编译，安装和升级基于命令行，X11或Aqua的开源软件.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/macports/）
 * [MacUpdate Desktop](https://www.macupdate.com/) - 简化为Mac查找，购买和安装应用程序的过程.

@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
-## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![146 playgrounds](https://img.shields.io/badge/Playgrounds:-146-orange.svg)
+## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![149 playgrounds](https://img.shields.io/badge/Playgrounds:-149-orange.svg)
 
 &gt;精选Swift游乐场的精选列表.
 
@@ -31,6 +31,9 @@
 ## PlaygroundBooks
 *可以在iPad上运行的游乐场*
 
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - 了解有关每天看到的这种模式的更多信息，但可能从未知道它是否经过精心设计. 
+* [Accessibility](https://github.com/xReee/wwdc2018) -  iOS开发人员的辅助功能.  
+* [TJBot Playground](https://github.com/jweisz/tjbot-playground) -  Swift Playground与IBM的TJBot交互. 
 * [Tree Trouble Playbook](https://github.com/joelrorseth/Tree-Trouble) - 关于二进制搜索树的交互式Swift Playground Book.
 * [Auto Pong](https://github.com/cardoso/AutoPong) - 基于简单AI实现乒乓的教程.
 * [Neural Network Playground](https://github.com/hetelek/Neural-Network-Playground) - 一个神经网络Swift游乐场，没有第三方依赖.
@@ -41,20 +44,23 @@
 * [Geometry with Swift](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - 在本课程中，您的学生将学习Swift 3编程的基础知识，将几何学作为学习的背景. 
 * [Image Filtering](https://github.com/lennet/image-filtering) - 关于图像过滤的Swift游戏手册. 
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) - 基于爱因斯坦广义相对论的可视化引力的Swift游乐场. 
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - 了解有关每天看到的这种模式的更多信息，但可能从未知道它是否经过精心设计. 
-* [Accessibility](https://github.com/xReee/wwdc2018) -  iOS开发人员的辅助功能.  
+
 
 ## Learning Swift
 *一些有趣的游乐场学习Swift *
 
+* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - 展示Swift 4.0中新功能的Xcode游乐场.   
+* [What's new in Swift 4.2](https://github.com/ole/whats-new-in-swift-4-2) - 展示Swift 4.2中新功能的Xcode游乐场.   
+* [Codable Playground](https://github.com/filip-zielinski/CodablePlayground) - 展示Codable高级用途的游乐场. 
+* [Generics In Swift](https://github.com/LukeSkywalker55/Generics-In-Swift) - 解释仿制药的游乐场. 
+* [Swift String Cheat Sheet](https://github.com/kharrison/Playground-Strings) - 使用Strift with Swift的快速指南. 
+* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 关于Swift语言的游乐场.  
 * [The Swift Programming Language Playgrounds](https://github.com/danielpi/Swift-Playgrounds) -  40多个游乐场，苹果Swift书的每一章都有一个. 
 * [Swift Hack Pack](https://github.com/GuildSA/swift-hack-pack) - 教授斯威夫特的游乐场的集合.
 * [The Swift Summary Book](https://github.com/jakarmy/swift-summary) -  Apple的Swift语言摘要. 
 * [Swifter Tips](https://github.com/swifter-tips/Playground) -  Swift语言的每个功能的示例.
-* [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 关于Swift语言的游乐场.
 * [MPCS51032 UChicago iOS Course](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - 芝加哥大学2017年春季iOS课程的游乐场.
-* [What's new in Swift 4](https://github.com/ole/whats-new-in-swift-4) - 展示Swift 4.0中新功能的Xcode游乐场.   
-* [Codable Playground](https://github.com/filip-zielinski/CodablePlayground) - 展示Codable高级用途的游乐场 
+
 
 ## Learning Swift: Advanced Topics
 *高级主题，一旦掌握了语言的基础知识就很有用*
@@ -75,11 +81,11 @@
 
 ### Design Patterns
 
+* [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) - 基于Bob叔叔文章的OOD原则.
 * [Design Patterns Playground](https://github.com/edopelawi/DesignPatternsPlayground) - 在Swift中学习GoF的设计模式3.
 * [iOS Design Patterns](https://github.com/haxpor/ios-design-patterns) -  MVC，MVP，MVVM和VIPER的示例项目.
 * [Design Patterns in Swift](https://github.com/ochococo/Design-Patterns-In-Swift) -  Swift 3中的设计模式.
 * [GOF Swift](https://github.com/SebastianBoldt/Gang-of-Four-and-Solid-Principles-in-Swift) - 使用Swift学习所有23个Gang of Four模式.
-* [The Principles of OOD in Swift 4](https://github.com/ochococo/OOD-Principles-In-Swift) - 基于Bob叔叔文章的OOD原则.
 
 ### Protocol Oriented Programming
 
@@ -102,6 +108,15 @@
 * [Apple's Crustacean Playground](https://developer.apple.com/sample-code/wwdc/2015/downloads/Crustacean.zip)   - 使用值类型的面向协议的编程.  ⏳ 
 * [Apple's Swift Standard Library Playground](https://developer.apple.com/sample-code/swift/downloads/Standard-Library.zip)   - 使用可视化和实际示例试验Swift标准库类型和高级概念.  ⏳ 
 
+## WWDC Students Submissions
+*学生为WWDC奖学金提交的游乐场*
+
+- [2018](https://github.com/wwdc/2018)
+- [2017](https://github.com/wwdc/2017)
+- [2016](https://github.com/wwdc/2016)
+- [2015](https://github.com/wwdc/2015)
+- [2014](https://github.com/wwdc/2014)
+
 ## Playgrounds about Playgrounds
 *描述你可以用游乐场做什么的游乐场*
 
@@ -116,12 +131,12 @@
 
 ## Theoretical Computer Science
 
+* [Functional Debug View](https://github.com/tomquist/DebugView) - 游乐场用图形序列可视化功能编程.  
+* [OOP with Functions in Swift](https://github.com/iamleeg/OOPInFPInSwift) -  Swift中功能编程中的面向对象编程. 
 * [Logician](https://github.com/mdiep/Logician) -  Swift中的逻辑编程. 
 * [Function Composition in Swift](https://github.com/ijoshsmith/function-composition-in-swift) - 探索Swift中的函数组合. 
-* [Functional Debug View](https://github.com/tomquist/DebugView) - 游乐场用图形序列可视化功能编程.  
 * [Swift Adventures in Monad Land](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - 了解monads.
 * [Functional Design Patterns](https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns) - 一些函数式编程概念和模式.
-* [OOP with Functions in Swift](https://github.com/iamleeg/OOPInFPInSwift) -  Swift中功能编程中的面向对象编程. 
 * [Learn about transducers](https://github.com/mbrandonw/learn-transducers-playground)   - 一个解释传感器的小教程.  ⏳ 
 * [Swift Functors, Applicatives, and Monads in Pictures](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground)   - 伴随文章：Swift Functors，Applicatves和Monads in Pictures.  ⏳ 
 * [Functors in Swift](https://github.com/mokagio/Swift-Functor-Introduction-Playground)   - 在Swift中介绍Functors的游乐场及其实际用途.  ⏳ 
@@ -129,14 +144,14 @@
 ### Algorithms and Data Structures
 *在Swift *中实现的算法和数据结构
 
+* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) -  Swift 4个游乐场，用于查看和操作排序算法.
+* [Expressions](https://github.com/mpangburn/Expressions) - 使用面向协议的二叉树优雅地建模和可视化的算术和逻辑表达式.
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) -  Swift中的算法和数据结构及其解释. 
 * [Sorting Experiments](https://github.com/adrfer/Sort) - 在Swift中使用排序算法进行诱人的实验.
 * [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - 一个快速的游乐场，生成美丽的朱莉娅设置的分形图像. 
 * [A Star](https://github.com/Dev1an/A-Star) -  Swift 4中面向协议的A *寻路算法实现.
 * [Sorting Algorithms](https://github.com/bwide/Sorting-Algorithms-Playground) - 实时可视化一些着名的排序算法和您的实验.
-* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) -  Swift 4个游乐场，用于查看和操作排序算法.
-* [Expressions](https://github.com/mpangburn/Expressions) - 使用面向协议的二叉树优雅地建模和可视化的算术和逻辑表达式.
 * [DataStructures Playground](https://github.com/oliverfoggin/DataStructuresPlayground)   -  Swift中的数据结构和算法.  ⏳
 * [Swiftography](https://github.com/sketchytech/Swiftography)   -  Swift Playground中的标准加密算法.  ⏳
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground)   -  Swift中的各种算法实现.  ⏳
@@ -147,11 +162,11 @@
 * Swift *中实现的编程语言解释器
 
 * [Introduction to Compilers](https://github.com/ahoppen/introduction-to-compilers) - 很好地介绍了编译器的内部工作原理. 
+* [Pascal Interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) - 由Let&#39;s Build A Simple Interpreter文章系列启发的Pascal语言的简单Swift解释器. 
 * [Write your own language: Mu](https://github.com/marciok/Mu) - 一个解释如何创建名为Mu的微小编程语言的游乐场. 
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - 通过Swift学习汇编语言的游乐场. 
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) - 让Jack Crenshaw编译编译器转换为Swift Playgrounds.  
-* [Pascal interpreter](https://github.com/igorkulman/SwiftPascalInterpreter) - 由Let&#39;s Build A Simple Interpreter文章系列启发的Pascal语言的简单Swift解释器. 
-* [Register VM](https://github.com/brianhill/register-vm-in-swift)   -  Swift游乐场中基于寄存器的VM.  ⏳
+* [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground)   - 带有Logo式命令的游乐场.  ⏳
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck)   - 使用Playground用Swift编写的Brainfuck解释器.  ⏳
 
@@ -198,10 +213,10 @@
 
 ### SpriteKit
 
+* [SceneKit ARKit Demo](https://github.com/mhanlon/ARKitDemoPlayground) - 作为游乐场的Xcode 9 ARKit SpriteKit演示.
 * [SpriteKit Swift 3](https://github.com/MacMeDan/SpriteKitCollisions) - 游乐场探索精灵套件.
 * [SpriteKit Collisions](https://github.com/jaredmpayne/SpriteKitCollisionsPlayground)   - 演示如何使用Swift和SpriteKit执行物理碰撞检测.  ⏳
 * [SceneKit Examples](https://github.com/UCh/swift-scene-kit-playgrounds)   - 尝试使用SceneKit和Swift.  ⏳
-* [SceneKit ARKit Demo](https://github.com/mhanlon/ARKitDemoPlayground) - 作为游乐场的Xcode 9 ARKit SpriteKit演示.
 * [Astronomy](https://github.com/cl7/Astronomy) - 使用SceneKit在快速游乐场中编写的3D地球模型.
 
 
@@ -215,6 +230,7 @@
 ## Mathematics
 *带游乐场的现场数学*
 
+* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - 了解有关每天看到的这种模式的更多信息，但可能从未知道它是否经过精心设计. 
 * [Lindenmayer Systems](https://github.com/henrinormak/lindenmayer) - 一个探索Lindemayer系统的Swift游乐场.
 * [Swift Natural Numbers](https://github.com/jakebromberg/Swift-Natural-Numbers) - 在数论中实现自然数和更多概念的游乐场.
 * [Polydoxical](https://github.com/kirkbyo/Polydoxical) - 用于试验轮盘和多边形的互动式游乐场.
@@ -222,7 +238,6 @@
 * [Swift Accelerate](https://github.com/haginile/SwiftAccelerate)   - 使用Accelerate框架和Swift for Linear Algebra.  ⏳
 * [Swifty Mathematics](https://github.com/DylanModesitt/swiftyMathematics)   - 关于数学的快速游乐场的集合.  ⏳
 * [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds)   -  Ray Wenderlich的数值算法操场.  ⏳
-* [Guilloche Pattern Playground Book](https://github.com/TheWildHorse/GuillochePlayground) - 了解有关每天看到的这种模式的更多信息，但可能从未知道它是否经过精心设计. 
 
 ## Libraries and APIs
 *图书馆教程，在游乐场*
@@ -233,11 +248,11 @@
 * [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - 带RxSwift示例的游乐场.
 
 ## Playground Sets
-*Sets of playgrounds about various topics*
+*关于各种主题的游乐场集*
 
-* [Public Extensions](https://github.com/Jasdev/Public-Extension) - 一组有用的扩展 [@PublicExtension](https://twitter.com/publicextension). 
 * [Parks And Recreation](https://github.com/zwaldowski/ParksAndRecreation) - 丰富有趣的游乐场，为了娱乐和利润. 
-* [URaimo's Playgrounds](https://github.com/uraimo/Swift-Playgrounds) - 我的游乐场，各种主题.
+* [URaimo's Playgrounds](https://github.com/uraimo/Swift-Playgrounds) - 我的游乐场，各种主题. 
+* [Public Extensions](https://github.com/Jasdev/Public-Extension) - 一组有用的扩展 [@PublicExtension](https://twitter.com/publicextension). 
 * [ManuelCarlos's Playgrouds](https://github.com/manuelCarlos/Swift-Playgrounds) - 各种游乐场.
 * [Mgrebenets's Playgrounds](https://github.com/mgrebenets/playgrounds) - 各种游乐场 
 * [Cocoa With Love Playgrounds](https://github.com/mattgallagher/CocoaWithLovePlaygrounds) - 来自Cocoa with Love的精选文章的游乐场版本.   
@@ -251,6 +266,7 @@
 ## Miscellaneous
 *什么不适合其他地方，但仍然很棒*
 
+* [Rubik's Cube](https://github.com/codelynx/CoreRubiksCube) - 在Swift中实现Rubic多维数据集的基本模型和行为. 
 * [Icon Creator](https://github.com/tnantoka/IconCreator) - 在Swift游乐场上创建应用程序图标.
 * [2048 Playground](https://github.com/robin/2048_Playground) - 用操场实现的2048游戏.
 * [SwiftShell](https://github.com/JustinJiaDev/SwiftShell) - 在操场上猛击贝壳.
@@ -260,9 +276,8 @@
 * [Pixel Art Maker](https://github.com/BenEmdon/PixelArtMaker) - 一个可以制作像素艺术的游乐场.
 * [SwiftCoin](https://github.com/Thomvis/Swiftcoin) - 操场上简单的区块链和加密货币.
 * [SentimentlySwift](https://github.com/benbahrenburg/SentimentlySwift) -  Swift中的情感分析. 
-* [Rubik's Cube](https://github.com/codelynx/CoreRubiksCube) - 在Swift中实现Rubic多维数据集的基本模型和行为.  
+* [SwiftChain](https://github.com/gg2001/SwiftChain) -  Swift Playground中的简单加密货币.
 * [Game Boards](https://github.com/joalbright/Gameboard)   - 国际象棋，跳棋，井字游戏，数独游戏以及其他许多游乐场.  ⏳
 * [StarWars Seals](https://github.com/jeremyconkin/StarWarsSeals)   - 通过CoreGraphics和UIViews在Swift游乐场玩星球大战的标志.  ⏳
 * [SwiftFiles](https://github.com/sketchytech/SwiftFiles)   - 从Swift游乐场轻松保存，加载和删除文件.  ⏳
 * [Earth photos](https://github.com/jtbandes/DSCOVR.playground)   -  DSCOVR / EPIC拍摄的地球照片幻灯片.  ⏳
-* [SwiftChain](https://github.com/gg2001/SwiftChain) -  Swift Playground中的简单加密货币.

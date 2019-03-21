@@ -2016,6 +2016,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Golang Stockholm](https://www.meetup.com/Go-Stockholm/)
 * [Golang Sydney, AU](https://www.meetup.com/golang-syd/)
 * [Golang São Paulo - Brazil](https://www.meetup.com/golangbr/)
+* [Golang Taipei](https://www.meetup.com/golang-taipei-meetup/)
 * [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
 * [Golang Казань](https://www.meetup.com/GolangKazan/)
 * [Golang Москва](https://www.meetup.com/Golang-Moscow/)

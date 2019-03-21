@@ -58,7 +58,7 @@
 
 * [ActiveModel::Serializers](https://github.com/rails-api/active_model_serializers) - 对象的JSON序列化.
 * [Blanket](https://github.com/inf0rmer/blanket) - 一个死的简单API包装器.
-* [Crepe](https://github.com/crepe/crepe) - 瘦API堆栈.
+* [Crepe](https://github.com/crepe/crepe) - The thin API stack.
 * [Fast JSON API](https://github.com/Netflix/fast_jsonapi) - 用于Ruby对象的快速JSON：API序列化程序.
 * [Grape](http://www.ruby-grape.org) - 用于在Ruby中创建类似REST的API的自以为是的微框架.
 * [Her](https://github.com/remiprev/her)   - 将REST资源映射到Ruby对象的ORM.  旨在构建由RESTful API而非数据库提供支持的应用程序.
@@ -138,7 +138,7 @@
 * [Invisible Captcha](https://github.com/markets/invisible_captcha)   - 基于蜜罐策略的不引人注目且灵活的垃圾邮件防护.  它还提供时间敏感的表单提交.
 * [Rakismet](https://github.com/joshfrench/rakismet) - 适用于Rails的Easy Akismet和TypePad AntiSpam集成.
 * [reCAPTCHA](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-* [Voight-Kampff](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+* [Voight-Kampff](https://github.com/biola/Voight-Kampff) - 一个Ruby gem，可以检测机器人，蜘蛛，爬虫和复制者.
 
 ## CLI Builder
 
@@ -164,7 +164,7 @@
 * [formatador](https://github.com/geemus/formatador) -  STDOUT文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置ANSI终端颜色的简单快捷方式.
 * [Pastel](https://github.com/peter-murach/pastel) - 终端输出样式，直观，干净的API.
-* [Ru](https://github.com/tombenner/ru) - 你的shell中的Ruby.
+* [Ru](https://github.com/tombenner/ru) - Ruby in your shell.
 * [Ruby/Progressbar](https://github.com/jfelchner/ruby-progressbar) -  Ruby最灵活的文本进度条库.
 * [TablePrint](https://github.com/arches/table_print) - 将来自多个数据库表的数据切分为单个CLI视图.
 * [Terminal Table](https://github.com/tj/terminal-table) -  Ruby ASCII表生成器，简单且功能丰富.
@@ -180,7 +180,7 @@
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - 功能强大，用户友好且灵活的开源Rails CMS.
 * [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa) - 强大的Rails 5.2+ CMS引擎.
-* [Fae](https://github.com/wearefine/fae) - 灵活的开源Rails CMS引擎.
+* [Fae](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
 * [LocomotiveCMS](https://www.locomotivecms.com) - 基于Liquid模板和Mongodb数据库的简单但功能强大的CMS.
 * [Publify](https://github.com/publify/publify) -  Rails上的自托管Web发布平台.
 * [Spina CMS](https://www.spinacms.com) - 适用于Rails开发人员的漂亮CMS.
@@ -266,7 +266,7 @@
 * [Carmen](https://github.com/jim/carmen) - 地理区域的存储库.
 * [Countries](https://github.com/hexorx/countries) - 关于每个国家的各种有用信息打包为漂亮的小国家对象.
 * [i18n_data](https://github.com/grosser/i18n_data) - 国家/语言名称和双字母代码对，85种语言，适用于国家/语言i18n.
-* [normalize_country](https://github.com/sshaw/normalize_country) - 将国家/地区名称和代码转换为标准，包括XML，CSV和DB的转换程序.
+* [normalize_country](https://github.com/sshaw/normalize_country) - Convert country names and codes to a standard, includes a conversion program for XMLs, CSVs and DBs.
 * [Phonelib](https://github.com/daddyz/phonelib) - 使用Google libphonenumber库数据进行电话验证和格式化的Ruby gem.
 * [Phony](https://github.com/floere/phony) - 快速国际电话号码（E164标准）规范化，分割和格式化.
 * [validates_zipcode](https://github.com/dgilperez/validates_zipcode) -  Rails的邮政编码/邮政编码验证，支持233个国家/地区代码.
@@ -283,7 +283,7 @@
 ## Dashboards
 
 * [Blazer](https://github.com/ankane/blazer)   - 仅使用SQL的简单数据查看器.  输出到表格，图表和地图.
-* [Smashing](https://smashing.github.io/) - Smashing is a Sinatra based framework that lets you build beautiful dashboards. This project is the maintained spiritual successor to the Dashing framework.
+* [Smashing](https://smashing.github.io/)   -  Smashing是一个基于Sinatra的框架，可以让您构建漂亮的仪表板.  该项目是Dashing框架的精神继承者.
 * [Dashing-Rails](https://github.com/gottfrois/dashing-rails) -  Rails非常漂亮的仪表板框架.
 
 ## Data Processing and ETL
@@ -337,13 +337,14 @@
 * [biz](https://github.com/zendesk/biz) - 使用营业时间计算时间.
 * [business_time](https://github.com/bokmann/business_time) - 支持在工作时间和日期进行时间数学运算.
 * [ByStar](https://github.com/radar/by_star) - 按年，月，两周，一周等查找ActiveRecord对象！
-* [Chronic](https://github.com/mojombo/chronic) - 用纯Ruby编写的自然语言日期/时间解析器.
+* [Chronic](https://github.com/mojombo/chronic) - A natural language date/time parser written in pure Ruby.
 * [groupdate](https://github.com/ankane/groupdate) - 在ActiveRecord，数组和哈希中对时态数据进行分组的最简单方法.
 * [ice_cube](https://github.com/seejohnrun/ice_cube) - 日期重复库，可以轻松创建重复规则和快速查询.
 * [local_time](https://github.com/basecamp/local_time) - 用于缓存友好，客户端本地时间的Rails引擎.
 * [montrose](https://github.com/rossta/montrose) - 一个简单的库，用于表达，序列化和枚举Ruby中的重复事件
 * [time-lord](https://github.com/krainboltgreene/time-lord) - 为时间类添加额外的功能.
 * [time_diff](https://github.com/abhidsm/time_diff) - 计算两次之间的差异.
+* [timezone](https://github.com/panthomakos/timezone) - 准确的当前和历史时区和转换，支持Geonames和谷歌纬度 - 经度时区查找.
 * [TZinfo](https://github.com/tzinfo/tzinfo) - 在不同时区之间提供夏令时感知转换.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) -  ActiveModel和Rails的日期和时间验证插件.
 * [yymmdd](https://github.com/sshaw/yymmdd) - 用于惯用日期解析和格式化的小型DSL.
@@ -380,7 +381,7 @@
 * [Puppet](https://github.com/puppetlabs/puppet) - 适用于Linux，Unix和Windows系统的自动管理引擎，可根据集中式规范执行管理任务（如添加用户，安装软件包和更新服务器配置）.
 * [Request-log-analyzer](https://github.com/wvanbergen/request-log-analyzer)   - 根据您的日志文件创建报告.  支持Rails，Apache，MySQL，Delayed :: Job和其他格式.
 * [Rubber](https://github.com/rubber/rubber) - 橡胶插件使RubyOnRails应用程序的相对复杂的多实例部署成为亚马逊的弹性计算云（EC2）.
-* [SSHKey](https://github.com/bensie/sshkey) - 纯Ruby（RSA和DSA）中的SSH私有和公钥生成器.
+* [SSHKey](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 * [Sunzi](https://github.com/kenn/sunzi) - 极简主义者的服务器配置实用程序
 * [Ruby-LXC](https://github.com/lxc/ruby-lxc) -  Linux容器的本机ruby绑定.
 * [Vagrant](http://www.vagrantup.com) - 创建和配置轻量级，可重现且可移植的开发环境.
@@ -427,7 +428,7 @@
 
 * [Bookshop](https://github.com/worlduniting/bookshop) -  Bookshop是一个面向作者和编辑的开源敏捷图书开发和发布框架.
 * [Eeepub](https://github.com/jugyo/eeepub) -  EeePub是一个Ruby ePub生成器.
-* [Gepub](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3.
+* [Gepub](https://github.com/skoji/gepub) -  Ruby的通用EPUB库：支持EPUB 3.
 * [Git Scribe](https://github.com/schacon/git-scribe) - 基本上是编写电子书的最佳方式.
 * [Mobi](https://github.com/jkongie/mobi) - 一种读取MOBI格式元数据的Ruby方法.
 * [Review](https://github.com/kmuto/review) -  Re：VIEW是灵活的文档格式/转换系统.
@@ -492,13 +493,13 @@
 
 ## File Upload
 
-* [attache](https://github.com/choonkeat/attache) - 独立映像和文件服务器，可将您的应用与文件管理问题分离.
+* [attache](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 * [CarrierWave](https://github.com/carrierwaveuploader/carrierwave) - 用于Rails，Sinatra和其他Ruby Web框架的文件上载的更高级解决方案.
 * [DragonFly](https://github.com/markevans/dragonfly) - 用于即时处理的Ruby宝石 - 适用于Rails，Sinatra等中的图像上传！
 * [PaperClip](https://github.com/thoughtbot/paperclip)   -  ActiveRecord的简易文件附件管理.  截至2018年5月14日已弃用.
 * [rack-secure-upload](https://github.com/dtaniwaki/rack-secure-upload) - 安全上传文件.
 * [Refile](https://github.com/refile/refile) - 用于Ruby应用程序的现代文件上传库，Refile是CarrierWave的原始作者尝试修复CarrierWave中的设计错误和过度工程.
-* [Shrine](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby.
+* [Shrine](https://github.com/janko-m/shrine) - 用于在Ruby中处理文件上载的工具包.
 
 ## File System
 
@@ -632,7 +633,7 @@
 * [MongoDB Logger](https://github.com/le0pard/mongodb_logger) - 用于Rails的MongoDB记录器.
 * [Scrolls](https://github.com/asenchi/scrolls) - 简单的日志记录
 * [Semantic Logger](https://rocketjob.github.io/semantic_logger/) - 用于Ruby的可扩展的下一代企业日志记录.
-* [Syslogger](https://github.com/crohr/syslogger) - A drop-in replacement for the standard Logger Ruby library, that logs to the syslog instead of a log file.
+* [Syslogger](https://github.com/crohr/syslogger) - 标准Logger Ruby库的替代品，它记录到syslog而不是日志文件.
 * [Yell](https://github.com/rudionrails/yell) - 您的可扩展日志库.
 
 ## Machine Learning
@@ -747,7 +748,7 @@
   * [ferry](https://github.com/cmu-is-projects/ferry) - 红宝石宝石，便于数据传输.
 *杂项
   * [ActiveRecord::Turntable](https://github.com/drecom/activerecord-turntable) -  ActiveRecord的数据库分片扩展.
-  * [ActiveValidators](https://github.com/franckverrot/activevalidators) - An exhaustive collection of off-the-shelf and tested ActiveModel/ActiveRecord validations.
+  * [ActiveValidators](https://github.com/franckverrot/activevalidators) - 现成和经过测试的ActiveModel / ActiveRecord验证的详尽集合.
   * [DeepPluck](https://github.com/khiav223577/deep_pluck) - 允许您从嵌套关联中提取属性而不加载一堆记录.
   * [Enumerize](https://github.com/brainspec/enumerize) - 具有I18n和ActiveRecord / Mongoid / MongoMapper支持的枚举属性.
   * [Goldiloader](https://github.com/salsify/goldiloader) - 自动ActiveRecord急切加载.
@@ -761,7 +762,7 @@
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)   - 与acts_as_commentable类似;  但是，利用awesome_nested_set提供线程注释.
   * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - 允许任何ActiveRecord模型遵循任何其他模型.
   * [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - 用于Rails的活动记录信誉系统.
-  * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) - A tagging plugin for ActiveRecord that allows for custom tagging along dynamic contexts.
+  * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) -  ActiveRecord的标记插件，允许沿动态上下文自定义标记.
   * [Acts As Votable](https://github.com/ryanto/acts_as_votable) - 允许任何ActiveRecord模型投票，如/不喜欢，upvote / downvote等.
   * [Merit](https://github.com/merit-gem/merit) - 以ActiveRecord或Mongoid的徽章，点数和排名的形式向Rails应用添加声誉行为.
   * [PublicActivity](https://github.com/chaps-io/public_activity) - 为Rails 3和4中的ActiveRecord，Mongoid 3和MongoMapper模型提供简单的活动跟踪.类似于Github的公共活动.
@@ -900,7 +901,7 @@
 
 ## Scheduling
 
-* [minicron](https://github.com/jamesrwhite/minicron) - A system to manage and monitor cron jobs.
+* [minicron](https://github.com/jamesrwhite/minicron) - 管理和监控cron作业的系统.
 * [resque-scheduler](https://github.com/resque/resque-scheduler) - 基于Resque构建的轻量级作业调度系统.
 * [rufus-scheduler](https://github.com/jmettraux/rufus-scheduler) -  Ruby的作业调度程序（at，cron，in和every jobs）.
 * [Sidekiq-Cron](https://github.com/ondrejbartas/sidekiq-cron) -  Sidekiq的日程安排附件.
@@ -1045,7 +1046,7 @@
   * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers)   - 提供Test :: Unit和RSpec兼容的单行程序，用于测试常见的Rails功能.  否则，这些测试会更长，更复杂，并且容易出错.
   * [Spinach](https://github.com/codegram/spinach) -  Spinach是一个高级BDD框架，它利用富有表现力的Gherkin语言（由Cucumber使用）来帮助您定义应用程序的可执行规范或库的验收标准.
   * [Spork](https://github.com/sporkrb/spork) - 用于测试框架的DRb服务器（当前为RSpec / Cucumber）.
-  * [Test::Unit](http://test-unit.github.io) -  Test :: Unit是Ruby的xUnit系列单元测试框架.
+  * [Test::Unit](http://test-unit.github.io) - Test::Unit is a xUnit family unit testing framework for Ruby.
 *假数据
   * [Fabrication](http://fabricationgem.org/) - 一个简单而强大的对象生成库.
   * [factory_bot](https://github.com/thoughtbot/factory_bot) - 用于将Ruby对象设置为测试数据的库.
@@ -1096,7 +1097,7 @@
 * [Restforce](https://github.com/ejholmes/restforce) -  Salesforce REST API的Ruby客户端.
 * [ruby-gmail](https://github.com/dcparker/ruby-gmail) -  Gmail的Rubyesque界面.
 * [ruby-trello](https://github.com/jeremytregunna/ruby-trello) - 实现Ruby的Trello API.
-* [simple-slack-bot](https://github.com/kciter/simple-slack-bot) - You can easily make Slack Bot.
+* [simple-slack-bot](https://github.com/kciter/simple-slack-bot) - 你可以轻松制作Slack Bot.
 * [Slack Notifier](https://github.com/stevenosloan/slack-notifier) - 发布到Slack频道的简单包装器.
 * [Slack ruby gem](https://github.com/aki017/slack-ruby-gem) -  Slack API的Ruby包装器.
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - 适用于Ruby的官方SoundCloud API包装器.
@@ -1110,7 +1111,7 @@
 
 ## Video
 
-* [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - 围绕ffmpeg命令的简单而强大的包装器，用于读取元数据和转码电影.
+* [Streamio FFMPEG](https://github.com/streamio/streamio-ffmpeg) - Simple yet powerful wrapper around the ffmpeg command for reading metadata and transcoding movies.
 * [Video Transcoding](https://github.com/donmelton/video_transcoding) - 转码，检查和转换视频的工具.
 
 ## View helpers

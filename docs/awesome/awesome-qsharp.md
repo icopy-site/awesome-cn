@@ -28,8 +28,16 @@ A list of Q# code and resources.
 - [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) - 罗尔夫豪斯曼
 
 ## Coding Contests and Solutions
-- [Microsoft Q# Coding Contest - Summer 2018](https://codeforces.com/contest/1002) - [Warmup Round](https://codeforces.com/contest/1001).
-- 解决方案描述 [Microsoft Q# Coding Contest - Summer 2018](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) 和 [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
+
+### Official resources
+- [Microsoft Q# Coding Contest (Summer 2018)](https://codeforces.com/contest/1002)
+- [Microsoft Q# Coding Contest (Summer 2018) Warmup Round](https://codeforces.com/contest/1001)
+- 解决方案描述 [Microsoft Q# Coding Contest (Summer 2018)](https://assets.codeforces.com/rounds/997-998/main-contest-editorial.pdf) 并为 [Warmup Round](https://assets.codeforces.com/rounds/997-998/warmup-editorial.pdf)
+- [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/contest/1116)
+- [Microsoft Q# Coding Contest (Winter 2019) Warmup Round](https://codeforces.com/contest/1115)
+- 解决方案描述 [Microsoft Q# Coding Contest (Winter 2019)](https://codeforces.com/blog/entry/65702) 并为 [Warmup Round](https://assets.codeforces.com/rounds/1115/warmup-editorial.pdf)
+
+### Participants' solutions
 - [Solutions to the 2018 Microsoft Q# Coding Challenge and Warm-Up on Codeforces](https://github.com/RobertDurfee/QSharpCodingChallenge)
 - [Q# codes by Hiroshi Kurokawa](https://github.com/hkurokawa/QSharpCodingContest2018)
 - [No Description_ by Hajime Fukuda](https://github.com/hajifkd/qsharp-vscode)
@@ -48,8 +56,8 @@ A list of Q# code and resources.
 - [Q# playgroud](https://github.com/weize07/Qsharp-playgroud)
 
 ## Blogs
-- [Q# Dev Blog](https://blogs.msdn.microsoft.com/visualstudio/tag/qsharp/) - Official blog of Q# dev team.
-- [Q# Advent Calendar 2018](https://blogs.msdn.microsoft.com/visualstudio/2018/11/15/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
+- [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
+- [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
 - [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)
 

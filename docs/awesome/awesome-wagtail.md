@@ -95,10 +95,11 @@
 
 ### Media
 
-- [wagtailmedia](https://github.com/torchbox/wagtailmedia) -  Wagtail模块，用于管理管理员中的视频和音频文件.
+- [wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)   - 简单的应用程序，类似于wagtailimages，但用于嵌入来自SoundCloud的YouTube和Vimeo视频和音乐.  这是一个整合 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - 使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
+- [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - 制作Wagtail搜索文档内容（PDF，Excel和Word等）.
 
 ### Translations
 
@@ -176,7 +177,7 @@
 - [DjangoCon US 2015 - Wagtail - Yet Another Django CMS](https://www.youtube.com/watch?v=6j0NVq6g4FE) 汤姆戴森 - 汤姆将解释为什么他的机构决定建立一个新的CMS，分享在运行一个不断增长的开源项目中学到的经验教训，并概述Wagtail的版本2及更高版本的路线图. [Slide deck](https://speakerdeck.com/tomdyson/wagtail-yet-another-cms-djangocon-us-2015).
 - [Wellington Wagtail CMS Meetup - Meet Wagtail](https://docs.google.com/presentation/d/19EGWFtfHovHSAvyHCnLbxK50IAR2o7WwKd709cqi9p4/edit) 来自Springload开发团队的Josh，Jordi和Rich  - 介绍Wagtail的介绍会，展示它所提供的主要功能.
 - [DjangoCon US 2016 - Atomic Wagtail](https://www.youtube.com/watch?v=kqAKiouk1lY)  作者：Kurt Wall  - 布拉德弗罗斯特的原子设计原则正在掀起我们风暴设计网络的方式.  我将解释Wagtail是什么，如何将它与原子设计原则一起使用，以及您可能遇到的一些障碍以及如何提供帮助的建议.
-- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) by Adam Brenecki – This talk explores the different approaches, strengths and weaknesses of each CMS, and what they mean for you as a developer and for your content editors.
+- [PyCon Australia – Comparing Wagtail, Django CMS and Mezzanine](https://www.youtube.com/watch?v=3UC1MNFOjEI) 作者：Adam Brenecki  - 本演讲探讨了每个CMS的不同方法，优点和缺点，以及它们对您作为开发人员和内容编辑者的意义.
 - [Wagtail — еще одна CMS на Django](https://www.youtube.com/watch?v=yRmZ6WUfoOc) 作者：Mikalai Radchuk  - 这个讲座是对俄语Wagtail的介绍.
 - [Wagtail & Agile – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=2m21s) 作者：Edd Baldry.
 - [Deploy Wagtail to the Divio Cloud – Wagtail Space 2017](https://youtu.be/-Qii_AyQsxE?t=38m13s) 作者：Daniele Procida.
@@ -195,8 +196,8 @@
 - [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) 汤姆戴森
 - [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) 作者：Daniele Procida.
 - [Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s) 托尼耶茨.
-- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) 作者：Geert jan Hoogeslag.
-- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) 作者：Codie Roelf.
+- [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) 作者：Geert Jan Hoogeslag.
+- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) 作者：Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) 作者：Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 作者：Rajeev J Sebastian.
@@ -215,6 +216,21 @@
 - [Sharing is Caring – Wagtail Space US 2018](https://www.youtube.com/watch?v=6AXyg6vvMTE&index=12&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV) 作者：Andy Chosak.
 - [Lightning Talks – Wagtail Space US 2018](https://www.youtube.com/watch?v=uoxyBIpaXTU&index=13&list=PLEyaio0l1qoGGbXg3XH0205FIF32oO1wV)
 - [Wagtail: когда хочется чего-то приятнее, чем просто Django – Moscow Python Conf++ 2018](https://www.youtube.com/watch?v=xPPfTvLS7oQ) 作者：Igor Mosyagin
+- [The State of Wagtail – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=592) 汤姆戴森
+- [Image rotation feature – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2057)  克里斯亚当斯.  码.
+- [Debug templates – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2264) 作者：Coen van der Kamp.
+- [Wagtail Headless with HATEOAS – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2567) 作者Duco Dokter.
+- [Building a Planet Friendly Web (with Wagtail) – Wagtail Space 2019](https://youtu.be/MAzZ2lhMhzM?t=2926) 克里斯亚当斯.
+-  [[WIP] Thibaud Colas在Wagtail-Wagtail Space 2019（https://youtu.be/MAzZ2lhMhzM?t=4067）中的（富文本）创作体验的未来.
+- [Wagtail & Whatsapp – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=47) 作者：Lisa Adams和Codie Roelf.
+- [Slack2Wagtail – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=785) 作者：Coen van der Kamp和Lucas Moeskops.
+- [Wagtail and Oscar – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=1634) 作者：Lars van de Kerkhof.
+- [wagtail-textract – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3313) 作者：Kees Hink. [Code](https://github.com/fourdigits/wagtail_textract).
+- [Django 2.2 compatibility – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3468) 作者Matt Wescott.
+- [SEO dashboard – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=3937) 作者Janneke Janssen. [Code](https://github.com/LUKKIEN/wagtail-marketing-addons).
+- [My First Wagtail Contribution – More formats in RichText Editor – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4126) 作者：Arifin Ibne Matin.
+- [Fly, Wagtail, fly! – Wagtail Space 2019](https://youtu.be/CSwpj-jyjP4?t=4404) 作者：Daniele Procida.
+- [Wagtail & GraphQL – Wagtail Space 2019](https://youtu.be/YydSbL8gMS4?t=24) 亚瑟·拜尔.
 
 ### Podcasts
 

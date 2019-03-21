@@ -86,6 +86,7 @@ Other
   - [MaterialUp](http://www.materialup.com/) - 获取每日剂量的材料设计灵感！
   - [Material Palette](http://www.materialpalette.com/) - 选择您喜欢的颜色并生成材质设计调色板.
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) - 纸张元素是一组实现Google Material Design的视觉元素.
+  - [ScaffoldHub.io](https://scaffoldhub.io) - 使用在线建模工具生成完整的Angular Material应用程序！
   
 ## Other Awesome Lists
 其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.

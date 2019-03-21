@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
-下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015软件包发布.查看发布专栏了解更多信息.
+ 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015捆绑包.  查看发布列以获取更多信息.
 
 -----------------------------------------------------------------------
 
@@ -102,11 +102,11 @@ Installers
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - 不可知的骨头 - 不可知云
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - 不可知的骨头 - 不可知云
-* [Bootkube](https://github.com/kubernetes-incubator/bootkube) -  CoreOS  - 不可知云
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
 * [Kube-aws](https://github.com/coreos/kube-aws) -  CoreOS  -  AWS
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
-* [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
+* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
 * [sealos](https://github.com/fanux/sealos) -  HA安装程序的简单安装程序
 * [KubeNow](https://github.com/kubenow/KubeNow) -  Ubuntu  -  Cloud Agnostic
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - 不可知的骨头 - 不可知云
@@ -121,6 +121,7 @@ Installers
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - 在MAC（Edge Channel）上本地运行Kubernetes和Docker
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [Linode](https://developers.linode.com/kubernetes/) -  CoreOS  -  Linode
+* [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - 不可知操作系统 -  On-Prem  - 不可知云
 
 主要资源
 =======================================================================
@@ -136,6 +137,7 @@ Installers
 
 * Kubernetes团队发布的Stable Kubernetes官方发布说明*
 
+* [Kubernetes-1.14](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.14.md)
 * [Kubernetes-1.13](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.13.md)
 * [Kubernetes-1.12](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.12.md)
 * [Kubernetes-1.11](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.11.md)
@@ -210,6 +212,17 @@ Installers
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 
+
+- [How to pass the Certified Kubernetes Administrator (CKA) exam on the first attempt](https://medium.com/devopslinks/how-to-pass-certified-kubernetes-administrator-cka-exam-on-first-attempt-36c0ceb4c9e)
+
+
+- [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
+- [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
+- [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/) 通过 [Christoph Hartmann](https://twitter.com/chri_hartmann)
+- [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
+- [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
+- [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
+
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [Scaling Docker with Kubernetes](http://www.infoq.com/articles/scaling-docker-with-kubernetes) 通过 [Carlos Sanchez](https://twitter.com/csanchez)
 * [Creating a Kubernetes Cluster to Run Docker Formatted Container Images](http://access.redhat.com/articles/1353773) 通过 [Chris Negus](https://twitter.com/linuxcricket)
@@ -220,24 +233,17 @@ Installers
 * [使用Kubernetes进行Nginx服务器部署]  -  http://containertutorials.com/get_started_kubernetes/k8s_example.html by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
-* [Dynamic Kubernetes installation/configuration with SaltStack](http://www.dasblinkenlichten.com/dynamic-kubernetes-installationconfiguration-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
-* [Deploying Kubernetes with SaltStack](http://www.dasblinkenlichten.com/deploying-kubernetes-with-saltstack/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 * [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
 * [Deploying to Kubernetes with Panamax](http://www.ctl.io/developers/blog/post/deploying-to-kubernetes-with-panamax/) 通过 [Brian DeHamer](https://twitter.com/bdehamer)
 * [Deploy Kubernetes with a Single Command Using Atomicapp](http://www.projectatomic.io/blog/2015/08/fun-with-kubenetes-and-atomicapp/) 通过 [Jason Brooks](https://twitter.com/jasonbrooks)
 * [Deploying a Bare Metal Kubernetes Cluster](http://blog.jameskyle.org/2014/08/deploying-baremetal-kubernetes-cluster/) 通过 [James Kyle](https://twitter.com/jameskyle75)
-* [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/) 通过 [Christoph Hartmann](https://twitter.com/chri_hartmann)
 * [Keycloak on Kubernetes with OpenShift 3](http://blog.keycloak.org/2015/04/keycloak-on-kubernetes-with-openshift-3.html) 通过 [Marko Strukelj](https://twitter.com/mstruk2000)
 * [Kubernetes clusters with Oh-My-Vagrant](http://ttboj.wordpress.com/2015/05/02/kubernetes-clusters-with-oh-my-vagrant/) 通过 [James](https://twitter.com/#!/purpleidea)
 * [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) 通过 [Michael Hamrah](https://twitter.com/mhamrah)
 * [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
 * [Why Docker and Google Kubernetes Are Like PaaS Done Right](http://www.sdxcentral.com/articles/news/why-docker-and-google-kubernetes-are-like-paas-done-right/2015/08/)
-* [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
-* [Deploying Kubernetes with Ansible and Terraform](http://solinea.com/blog/deploying-kubernetes-ansible-terraform)
-* [Cluster Consul using Kubernetes API](http://www.devoperandi.com/cluster-consul-using-kubernetes-api/)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
-* [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
@@ -261,6 +267,7 @@ Installers
   - [PKS](https://pivotal.io/platform/pivotal-container-service) -  Pivotal，VMWare和Google的集群管理器
   - [Gravity](https://gravitational.com/gravity) - 以前的Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
+  - [Kublr](https://kublr.com/how-it-works/) -  AWS，Azure，GCP，vSphere，vCloud Director和On-Prem集群管理器
 
 
   - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
@@ -279,6 +286,7 @@ Installers
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
   - [IBM Cloud Private](https://www.ibm.com/cloud/private)
   - [Docker EE](https://www.docker.com/enterprise-edition) -  Docker Enterprise Edition 2.0
+  - [Kublr](https://kublr.com/) - 企业的Kubernetes  - 多云和本地Kubernetes运营中心
 
 
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
@@ -320,7 +328,7 @@ Installers
 MOOC课程/教程
 =======================================================================
 
-*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
+*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)) and tutorials*
 
 
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -343,6 +351,7 @@ MOOC课程/教程
 * [Using Kubernetes on AWS](https://github.com/hjacobs/kubernetes-on-aws-users)
 * [Kubernetes at Github](http://githubengineering.com/kubernetes-at-github/)
 * [Kubernetes the hard way (installation from scratch)](http://github.com/kelseyhightower/kubernetes-the-hard-way/)
+* [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 
 持久性卷提供商
 =======================================================================
@@ -526,6 +535,7 @@ Projects
 
 ## Operators
 
+* [OperatorHub.io](https://www.operatorhub.io)
 * [Prometheus](https://github.com/coreos/prometheus-operator)
 * [Kong API](https://github.com/upmc-enterprises/kong-operator)
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
@@ -566,7 +576,7 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
+  * [rktlet](https://github.com/kubernetes-incubator/rktlet) -  Rkt实施Kubernetes
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - 基于容器的Kubernetes容器运行时接口的实现
 * [CRI-O (OCI)](https://github.com/kubernetes-incubator/cri-o)
@@ -790,7 +800,7 @@ Projects
 
 ## Backup and Disaster Recovery
 
-* [Ark](https://github.com/heptio/ark) - 用于管理Kubernetes集群的备份和还原的实用程序.
+* [Velero](https://github.com/heptio/velero)   - 用于管理Kubernetes集群的备份和还原的实用程序.  以前是Heptio Ark.
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
@@ -828,10 +838,17 @@ Books
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 
+Certifications
+=======================================================================
+
+*一些可靠的认证清单，以证明自己是Kubernetes专家*
+
+* [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+
 幻灯片演示文稿
 =======================================================================
 
-*A slide is a single page of a presentation created with software such as PowerPoint or OpenOffice Impress.*
+*幻灯片是使用PowerPoint或OpenOffice Impress等软件创建的演示文稿的单页.*
 
 * [Architecture Overview](http://www.slideshare.net/enakai/architecture-overview-kubernetes-with-red-hat-enterprise-linux-71) 通过 [enakai00](https://twitter.com/enakai00/)
 * [Package your Java EE Application using Docker and Kubernetes](http://www.slideshare.net/arungupta1/package-your-java-ee-application-using-docker-and-kubernetes) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -899,6 +916,7 @@ Videos
 * [KubeFacts](https://twitter.com/kubefacts)
 * [Skippbox](https://twitter.com/skippbox) - 获得者 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
+* [Learnk8s](https://twitter.com/learnk8s)
 
 
 神奇的人
