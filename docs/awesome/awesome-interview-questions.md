@@ -167,6 +167,7 @@
 * [iOS Developer and Designer Interview Questions](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions#tech)
 * [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
+* [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
 
 ### Java
 
@@ -299,6 +300,14 @@
 * [The Art of Ruby Technical Interview](http://technology.customink.com/blog/2015/11/23/the-art-of-ruby-technical-interviews/)
 * [Interview Cake Ruby Interview Questions](https://www.interviewcake.com/ruby-interview-questions)
 * [Frequently Asked Ruby Interview Questions](https://www.javatpoint.com/ruby-interview-questions)
+
+### Rust
+
+* [Top 250+ Rust Programming Language Interview Questions](https://www.wisdomjobs.com/e-university/rust-programming-language-interview-questions.html)
+* [Rust Programming Interview Questions and Answers](https://www.code-sample.com/2018/02/rust-programming-interview-questions.html)
+* [rust-exam: A set of questions about the Rust programming language](https://github.com/jean553/rust-exam)
+* [Best Rust Programming Language Interview Questions and answers](https://www.bestinterviewquestion.com/rust-programming-language-interview-questions)
+
 
 ### Sass
 

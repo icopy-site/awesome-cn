@@ -131,7 +131,7 @@
 * [Flowblade](https://github.com/jliljebl/flowblade) - 多轨非线性视频编辑器.
 * [GStreamer](https://gstreamer.freedesktop.org/) - 用于构建媒体处理组件图的库.
 * [Kelvinadon](https://github.com/Streampunk/kelvinadon) -  Node.JS纯Javascript模块，用于将MXF文件与JSON进行流式传输.
-* [KFR](https://www.kfrlib.com/) - 快速，现代的C ++ DSP框架，DFT / FFT，音频重采样，FIR / IIR，Biquad.
+* [KFR](https://www.kfrlib.com/) - 快速，现代的C ++ DSP架构，DFT / FFT，音频重采样，FIR / IIR，Biquad，EBU R 128.
 * [L-SMASH](https://github.com/l-smash/l-smash/) - 严格符合规范的ISOBMFF库，具有完整的DASH多路复用支持.
 * [LibAV](https://libav.org/) - 开源音频和视频处理工具.
 * [libbw64](https://github.com/irt-open-source/libbw64) - 仅标题广播Wave 64（ITU-R BS.2088）C ++ 11库.

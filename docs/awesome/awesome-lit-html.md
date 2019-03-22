@@ -58,6 +58,7 @@
 ## Components
 
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
+- [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - 用于查看OpenAPI 3.0和Swagger 2.0 Spec的Web组件
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生API的企业级糖！
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - 出现手绘元素的集合.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -  chartjs的Web组件.

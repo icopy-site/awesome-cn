@@ -8,7 +8,7 @@
 - 与Vapor轻松集成的现代化库，遵循Vapor提供简单，干净但功能强大的API的理念;
 - 精心编写的教程，书籍，视频和教育材料;
 - 使您的开发过程更简单，更愉快的工具;
-- 和更多！
+- and more!
 
 
 
@@ -96,12 +96,14 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent Part 3 - Sibling Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-3-sibling-relationships/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent Part 4 - Persistence With MySQL And Fluent Patterns](https://geeks.brokenhands.io/blog/posts/fluent-part-4-persistence-with-mysql-and-fluent-patterns/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Getting started with Vapor](https://geeks.brokenhands.io/blog/posts/getting-started-with-vapor/)
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor 2 with Docker](https://bygri.github.io/2018/01/24/vapor-2-with-docker.html) -  Vapor 2的最终Docker指南.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/24/vapor-3-with-docker.html) -  Vapor 3的最终Docker指南.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) - 小型教程的大集合.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) - 通过真实项目从Vapor 2过渡到Vapor 3.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Tutorials for Beginner to Advanced](https://medium.com/@martinlasek) - 初级到高级的书面教程.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/) - 有关如何在Swift中使用ImageMagick库的教程.
 
 ### Books
 

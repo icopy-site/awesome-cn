@@ -113,7 +113,7 @@
 
  * [Argh!](https://github.com/adishavit/argh)   - 极简主义，无挫折，仅限标题的参数处理程序.  [BSD]
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
- * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
+ * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
  * [CLI11](https://github.com/CLIUtils/CLI11)   - 仅用于简单和高级CLI解析的单头或多文件C ++ 11库.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)   - 轻量级C ++命令行选项解析器.  [MIT]
@@ -180,7 +180,7 @@
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)   - 用于C ++的快速单生产者，单用户无锁无队列.  [BSD]
 * [Thrust](http://thrust.github.io/)   - 一个类似于C ++标准模板库（STL）的并行算法库.  [Apache2的]
 * [transwarp](https://github.com/bloomen/transwarp)   - 用于任务并发的仅标头C ++库.  [MIT]
-* [HPX](https://github.com/STEllAR-GROUP/hpx/)   - 用于任何规模的并行和分布式应用程序的通用C ++运行时系统.  [促进]
+* [HPX](https://github.com/STEllAR-GROUP/hpx/) - A general purpose C++ runtime system for parallel and distributed applications of any scale. [Boost]
 * [VexCL](https://github.com/ddemidov/vexcl)   -  OpenCL / CUDA的C ++向量表达式模板库.  [MIT]
 * [Quantum](https://github.com/bloomberg/quantum) - 一个强大的C ++协程调度程序框架 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 
@@ -202,7 +202,7 @@
 
 * [Bcrypt](http://bcrypt.sourceforge.net/)   - 跨平台文件加密实用程序.  加密文件可在所有支持的操作系统和处理器之间移植.  [BSD]
 * [BeeCrypt](http://beecrypt.sourceforge.net/)   - 便携式快速加密库.  [LGPLv2.1 +]
-* [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
+* [Botan](http://botan.randombit.net/)   -  C ++的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)   - 加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)   -  C ++ 11仅限标头的消息摘要（哈希）库.  [公共区域]
 * [GnuPG](https://www.gnupg.org/)   - 完整且免费的OpenPGP标准实施.  [GPL]
@@ -216,7 +216,7 @@
 * [mbedTLS](https://github.com/ARMmbed/mbedtls)   - 开源，可移植，易于使用，可读且灵活的SSL库，以前称为PolarSSL.  [Apache2的] [website](https://tls.mbed.org/)
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/)   - 低级加密库.  [LGPL]
 * [OpenSSL](https://github.com/openssl/openssl)   - 功能强大的商业级全功能开源加密库.  [阿帕奇] [website](http://www.openssl.org/)
-* [retter](https://github.com/MaciejCzyzewski/retter) - 与加密相关的哈希函数，密码，工具，库和材料的集合.
+* [retter](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
 * [s2n](https://github.com/awslabs/s2n)   -  TLS / SSL协议的实现.  [阿帕奇]
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)   - 库和命令行工具，用于检测文件中的SHA-1冲突.  [MIT]
 * [Tink](https://github.com/google/tink)   - 一种多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache的2.0]
@@ -314,6 +314,7 @@
 * [GTK+](http://www.gtk.org/)   - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)   - 流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)   - 具有最小依赖性的即时模式图形用户界面.  [MIT]
+* [iup](https://www.tecgraf.puc-rio.br/iup)   - 用于构建图形用户界面的多平台工具包.  [MIT]
 * [libRocket](http://librocket.com/)   -  libRocket是一个C ++ HTML / CSS游戏界面中间件.  [MIT]
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
 * [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
@@ -342,7 +343,7 @@
 * [Irrlicht](http://irrlicht.sourceforge.net/)   - 用C ++编写的高性能实时3D引擎.  [ZLIB]
 * [libigl](https://github.com/libigl/libigl)   - 简单的C ++几何处理库.  [MPL2]
 * [magnum](https://github.com/mosra/magnum)   - 用于游戏和数据可视化的轻量级和模块化C ++ 11 / C ++ 14图形中间件.  [MIT] [website](http://magnum.graphics)
-* [NanoVG](https://github.com/memononen/nanovg)   - 在OpenGL之上的用于UI和可视化的抗锯齿2D矢量绘图库.  [zlib的]
+* [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [Zlib]
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
@@ -459,7 +460,7 @@
 * [mlpack](https://github.com/mlpack/mlpack)   - 可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
 * [OpenCV](https://github.com/Itseez/opencv)  ：zap： - 开源计算机视觉库.  [BSD] [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender)   - 使用协同过滤（CF）的产品推荐/建议的C库.  [BSD]
-* [RNNLIB](https://github.com/szcom/rnnlib) - RNNLIB is a recurrent neural network library for sequence learning problems. [GPLv3]
+* [RNNLIB](https://github.com/szcom/rnnlib)   -  RNNLIB是用于序列学习问题的递归神经网络库.  [GPLv3的]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)   - 幕府将军学习工具箱.  [GPLv3的]
 * [sofia-ml](https://code.google.com/p/sofia-ml/)   - 用于机器学习的快速增量算法套件.  [Apache2的]
 * [VLFeat](https://github.com/vlfeat/vlfeat)   -  VLFeat开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-第] [website](http://www.vlfeat.org/)
@@ -520,7 +521,7 @@
 
 ## Networking
 
-* [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html)   -  C ++中的OO网络编程工具包.  [？MIT？]
+* [ACE](http://www.dre.vanderbilt.edu/~schmidt/ACE.html) - An OO Network Programming Toolkit in C++. [?MIT?]
 * [Boost.Asio](http://think-async.com/)  ：zap： - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
 * [Breep](https://github.com/Organic-Code/Breep)   - 基于事件的高级C ++ 14对等库.  [EUPL-1.1（OSI批准）]
 * [C++ REST SDK](https://github.com/Microsoft/cpprestsdk)   -  C ++ REST SDK（以前称为Casablanca）.  [Apache2的]
@@ -684,7 +685,7 @@
 * [facil.io](https://github.com/boazsegev/facil.io)   - 支持HTTP，WebSockets，SSE等的平衡，高性能C Web框架.  [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - 用于在C中开发的用于Web应用程序的超快速且灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
-* [lwan](https://github.com/lpereira/lwan) - Experimental, scalable, high performance HTTP server. [GPL2]
+* [lwan](https://github.com/lpereira/lwan)   - 实验性，可扩展，高性能的HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)   - 轻量级，零依赖性框架，以创建高性能的Web服务.  [Apache的2.0] [website](https://oatpp.io/) 
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
 * [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
@@ -766,7 +767,7 @@
 * [LLVM](http://llvm.org/) - 收集模块化和可重用的编译器和工具链技术.
 * [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - 由Microsoft开发的MSVC.
 * [Open WatCom](http://www.openwatcom.org/index.php/Main_Page)   -  Watcom C，C ++和Fortran交叉编译器和工具.  [Sybase Open Watcom公共许可证]
-* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html) - C, C++ and Fortran compiler for SPARC and x86. Supports C++11. Available on Linux and Solaris. [OTN Developer License]
+* [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)   - 用于SPARC和x86的C，C ++和Fortran编译器.  支持C ++ 11.  适用于Linux和Solaris.  [OTN开发者许可]
 * [TCC](http://bellard.org/tcc/)   -  Tiny C编译器.  [LGPL]
 
 ## Online Compiler
@@ -820,7 +821,7 @@
 
 ## Build Systems
 
-* [Bazel](https://bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
+* [Bazel](https://bazel.build)   -  Google提供的多语言，快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
@@ -928,7 +929,7 @@
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是新波士顿的C ++编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 使用Qt教程的newboston C ++ GUI官方播放列表.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - 所有TheNewBoston的C编程教程都在这里.
-* [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) - Boost Library, C++ Standard Library, Modern C++, Advanced C++, Advanced STL, ...
+* [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) -  Boost Library，C ++标准库，现代C ++，高级C ++，高级STL，......
 
 ## Websites
 *有用的C或C ++相关网站.*
@@ -996,6 +997,6 @@
 
 ## Contributing
 请快速了解一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
-谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ;  你摇滚！
+谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors); you rock!
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*

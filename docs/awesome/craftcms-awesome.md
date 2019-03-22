@@ -151,7 +151,7 @@
 - [Craft Plugins in Craft 3](https://mijingo.com/blog/craft-plugins-in-craft-3) 作者：Ryan Irelan / Mijingo
 - [Getting Started with Craft Plugin Development with Ben Croker](https://mijingo.com/blog/getting-started-with-craft-plugin-development-with-ben-croker) 作者：Ryan Irelan / Mijingo
 - [Inspiration for Your First Craft Plugin](https://mijingo.com/blog/inspiration-for-your-first-craft-plugin) 作者：Ryan Irelan / Mijingo
--[Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) 作者Matt Stein
+- [Craft CMS E-Commerce: Why and How I Built a Snipcart Plugin](https://snipcart.com/blog/craft-cms-ecommerce-plugin) 作者Matt Stein
 
 
 ##### Publications

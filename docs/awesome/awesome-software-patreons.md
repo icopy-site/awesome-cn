@@ -155,6 +155,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Patrick Wardle](https://www.patreon.com/objective_see) -  Objective-See的所有者，各种macOS安全工具和文章.
 - [Philip Guo](https://www.patreon.com/pgbovine) -  Python Tutor和pgbovine.net（文章/播客/视频博客）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) - 各种Rust库.
+- [Raph Levien](https://www.patreon.com/raphlinus) -  Xi编辑和其他Rust项目.
 - [Reini Urban](https://www.patreon.com/rurban) - 维护和开发软件，如cperl，parrot，许多perl5模块，safeclib和libredwg.
 - [Rekka Bellum & Devine Lu Linvega](https://www.patreon.com/100) - 开源工具和游戏.
 - [Rob Landley](https://www.patreon.com/landley) - 使用Toybox，mkroot和其他各种项目.
@@ -195,7 +196,7 @@ _文章，视频，播客等......
 - [CS Dojo](https://www.patreon.com/csdojo) - 编程视频.
 - [Corey Schafer](https://www.patreon.com/coreyms) -  Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - 编程，开发和电子视频.
-- [Fun Fun Function](https://patreon.com/funfunfunction) -  JavaScript和一般编程视频.
+- [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
 - [JustForFunc](https://www.patreon.com/justforfunc) - 去教程.
 - [LiveOverflow](https://www.patreon.com/liveoverflow) -  IT安全视频.
 - [The Coding Train](https://www.patreon.com/codingtrain) - 编程教程.

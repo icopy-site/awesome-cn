@@ -51,7 +51,7 @@
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) -  Mono.Addins是一个通用框架，用于创建可扩展应用程序，以及创建扩展这些应用程序的加载项
 * [peasy](https://github.com/peasy/Peasy.NET) -  Peasy是一个中间层框架，提供易于使用和灵活的规则引擎，旨在解决常见的挑战，如并发处理，事务支持，容错，线程，可伸缩性，异步和多客户端支持，以及易于测试，所有没有巨大的学习曲线！
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
 * [DotNetty](https://github.com/Azure/DotNetty) -  DotNetty是Netty的一个端口，它是异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework)   -  AspectCore Framework是面向方面编程的.NET Core和.NET Framework跨平台框架.  对方面拦截器，依赖注入集成，Web应用程序，数据验证等的核心支持.
 * [Ether.Network](https://github.com/Eastrall/Ether.Network) -  Ether.Network是一个开源网络库，允许开发人员通过TCP / IP协议创建简单，快速和可扩展的套接字服务器或客户端应用程序.
@@ -309,7 +309,7 @@
 * [Stripe.Net](https://github.com/stripe/stripe-dotnet) -  Stripe.net是https://stripe.com/的全功能.NET API
 * [Virto Commerce](https://github.com/VirtoCommerce/vc-platform)   -  Virto Commerce是第二代版本，是唯一一款在开源许可下完全可用的企业级电子商务产品.  Virto Commerce基于.NET 4.5，广泛使用MVC，IoC，EF，Azure，AngularJS和许多其他尖端技术.  它可以部署在Microsoft Cloud（Azure），Amazon Web Services（AWS）和内部部署中.  https://virtocommerce.com
 * [SimplCommerce](https://github.com/simplcommerce/simplcommerce)   - 基于.NET Core构建的超级简单电子商务系统.  使用简单，易于定制.  感谢.NET Core，您可以在Windows，Linux上运行SimplCommerce.  使用各种RDBMS：Microsoft SQL Server，PostgreSQL，MySQL
-[GrandNode](https://github.com/grandnode/grandnode)   -  GrandNode是一款功能强大的跨平台电子商务解决方案，专为要求最苛刻的用户而开发.  您可以在任何系统上运行它 -  Linux，Windows，Mac.  GrandNode支持Docker，因此您可以使用Docker for Linux容器安装它.  可扩展的电子商务解决方案，可以在任何公司中独立于公司规模或行业进行调整. 
+* [GrandNode](https://github.com/grandnode/grandnode)   -  GrandNode是一款功能强大的跨平台电子商务解决方案，专为要求最苛刻的用户而开发.  您可以在任何系统上运行它 -  Linux，Windows，Mac.  GrandNode支持Docker，因此您可以使用Docker for Linux容器安装它.  可扩展的电子商务解决方案，可以在任何公司中独立于公司规模或行业进行调整. 
 * [Square](https://github.com/square/connect-csharp-sdk) -  Square支付和其他Square API的官方SDK.
 
 ## Environment Management
@@ -496,7 +496,7 @@
 * [DryIoc](https://github.com/dadhi/DryIoc) - 简单，快速的全功能IoC容器.
 * [Ninject](https://github.com/ninject/ninject) -  .NET依赖注入器的忍者
 * [StructureMap](https://structuremap.github.io/) -  .Net的原始IoC / DI容器
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
 * [Lamar](https://jasperfx.github.io/lamar/) - 一个快速的IoC容器，针对ASP.NET Core和其他.NET服务器端应用程序的使用进行了大量优化.
 * [LightInject](https://github.com/seesharper/LightInject) - 超轻量级IoC容器
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) -  Simple Injector是一个易于使用的.NET 4+依赖注入（DI）库，支持Silverlight 4 +，Windows Phone 8，Windows 8，包括Universal应用程序和Mono.
@@ -627,7 +627,7 @@
 * [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro)   - 一个小而强大的框架，专为在所有XAML平台上构建应用程序而设计.  它对MV *模式的强大支持将使您能够快速构建解决方案，而无需牺牲代码质量或可测试性.
 * [MVVM Light Toolkit](https://github.com/lbugnion/mvvmlight) - 该工具包的主要目的是加速WPF，Silverlight，Windows Store（RT）和Windows Phone中MVVM应用程序的创建和开发
 * [Catel](https://www.catelproject.com/)   -  Catel是一个应用程序开发平台，专注于MVVM（WPF，Silverlight，Windows Phone和WinRT）和MVC（ASP.NET MVC）.  Catel的核心包含IoC容器，模型，验证，纪念品，消息中介，参数检查等.
-* [UpdateControls](http://updatecontrols.net/cs/)   - 更新控件不要求您实现`INotifyPropertyChanged`或声明`DependencyProperty`.  它将控件直接连接到CLR属性.  这使其非常适合Model / View / ViewModel模式.
+* [UpdateControls](http://updatecontrols.net/cs/) - Update Controls does not require that you implement `INotifyPropertyChanged` or declare a `DependencyProperty`. It connects controls directly to CLR properties. This makes it perfect for the Model/View/ViewModel pattern.
 * [ReactiveUI](https://github.com/reactiveui/reactiveui/) - 用于.NET的MVVM框架，它集成了Reactive Extensions（Rx）框架，使开发人员能够使用WPF，Windows Store应用程序，WP8或Xamarin构建优雅，可测试的应用程序.
 * [Okra App Framework](https://okraframework.github.io) - 用于Windows 8.1的以应用为中心的MVVM框架，内置了依赖注入，包括一整套Visual Studio MVVM模板.
 * [Prism](https://github.com/PrismLibrary/Prism) - 跨平台桌面和移动MVVM开发框架.
@@ -686,6 +686,7 @@
 * [BaGet](https://github.com/loic-sharma/BaGet/) - 跨平台，轻量级NuGet和Symbol服务器
 * [MyGet](https://www.myget.org/)   -  NuGet，NPM，Bower和VSIX的托管包存储库.  还提供CI即服务.  ** [$] **
 * [Paket](https://github.com/fsprojects/Paket)   -  .NET的包依赖项管理器，支持NuGet包和GitHub存储库.  https://fsprojects.github.io/Paket/
+* [Sleet](https://github.com/emgarten/sleet/) - 支持AWS S3和Azure存储的NuGet v3静态源生成器
 
 ## PDF
 
@@ -848,7 +849,7 @@
 * [Myrtille](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver](https://github.com/Opserver/Opserver) -  Stack Exchange的监控系统
 * [CatLight](https://catlight.io)   - 为TFS / Jenkins / Travis / Appveyor构建状态通知.  基于.NET Core和Electron的跨平台桌面应用程序.  ** [免费] [专有] **
-* [Netling](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
+* [Netling](https://github.com/hallatore/Netling)   - 负载测试客户端，便于Web测试.  使用少量CPU或内存时速度极快.
 * [Papercut](https://github.com/ChangemakerStudios/Papercut) -  Papercut是一个开源（基于.NET）的测试电子邮件查看器，它使用内置的SMTP服务器在本地运行，旨在接收和通知测试电子邮件.
 * [Visual Studio Uninstaller](https://github.com/Microsoft/VisualStudioUninstaller) - 卸载并清理Visual Studio的所有组件.
 * [Fake JSON Server](https://github.com/ttu/dotnet-fake-json-server)   - 用于原型设计或作为CRUD后端的假REST API.  无需定义类型，使用动态类型.  数据存储在单个JSON文件中.  具有身份验证，WebSocket通知，异步长时间运行操作，错误/延迟的随机生成以及实验性GraphQL支持.

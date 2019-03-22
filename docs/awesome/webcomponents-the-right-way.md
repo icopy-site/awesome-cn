@@ -131,6 +131,7 @@
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - 使用Typescript创建本机自定义元素，而不使用任何第三方库.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - 从预执行组件生成/注册自定义元素.
+- [remount](https://github.com/rstacruz/remount) - 使用自定义元素将React组件安装到DOM.
 
 ## Component Libraries
 
