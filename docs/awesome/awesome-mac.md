@@ -195,7 +195,7 @@
 * [mitmproxy](https://mitmproxy.org/)   - 针对渗透测试人员和软件开发人员的交互式拦截HTTP代理.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
 * [Paw](https://luckymarmot.com/paw) - 高级HTTP客户端.
 * [Proxie](https://proxieapp.com/)   -  HTTP调试代理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/cellist/id897814548）
-* [Wireshark](https://www.wireshark.org) - The world’s foremost and widely-used network protocol analyzer. [![Open-Source Software][OSS Icon]](https://github.com/wireshark/wireshark) ![Freeware][Freeware Icon]
+* [Wireshark](https://www.wireshark.org)   - 世界上最重要和最广泛使用的网络协议分析仪.  [！[开源软件] [OSS图标]]（https://github.com/wireshark/wireshark）！[免费软件] [免费软件图标]
 
 #### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 
@@ -299,7 +299,7 @@
 * [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 官方MySQL GUI.
 * [Navicat Data Modeler](https://www.navicat.com/en/products/navicat-data-modeler)   - 功能强大且经济高效的数据库设计工具，可帮助您构建高质量的概念，逻辑和物理数据模型.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/navicat-data-modeler-essentials-visual-database-designer/id532423082）
 * [pgModeler](https://pgmodeler.io)   - 是一个专为PostgreSQL设计的开源数据建模工具.  [！[开源软件] [OSS图标]]（https://github.com/pgmodeler/pgmodeler）！[免费软件] [免费软件图标]
-* [Postgres.app](http://postgresapp.com/)   - 在Mac上开始使用PostgreSQL的最简单方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/PostgresApp/PostgresApp）
+* [Postgres.app](http://postgresapp.com/) - The easiest way to get started with PostgreSQL on the Mac. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/PostgresApp/PostgresApp)
 * [Postico](https://eggerapps.at/postico/) - 适用于Mac的现代PostgreSQL客户端.
 * [PSequel](http://www.psequel.com/) - 适用于Mac OS X的PostgreSQL GUI工具.[免费软件] [免费软件图标]
 * [RedisClient](https://github.com/UUGU/redis-client-app)   -  Mac，Windows和Linux上的Redis客户端应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/UUGU/redis-client-app）
@@ -645,7 +645,7 @@
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 由OmniGroups制作的Nice GTD应用程序.
 * [Taskade](https://www.taskade.com) - 团队的实时协作编辑器.
 * [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
-* [Things](https://culturedcode.com/things/) - Delightful and easy to use task manager. (**Award-winning App**)
+* [Things](https://culturedcode.com/things/)   - 令人愉快且易于使用的任务管理器.  （**屡获殊荣的App **）
 * [Todoist](https://todoist.com/mac)   - 跨平台待办事项列表应用程序.  ！[免费软件] [免费软件图标]
 * [TickTick](https://ticktick.com/)   - 简单有效的待办事项列表和任务管理器，可帮助您组织生活的各个方面.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id966085870）
 * [Wunderlist](https://www.wunderlist.com/?ncr=1) - 完成工作的最简单方法.
@@ -696,6 +696,7 @@
 * [Keeweb](https://keeweb.info/)   - 与KeePass兼容的免费跨平台密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/keeweb/keeweb）！[免费软件] [免费软件图标]
 * [LastPass](https://lastpass.com/) - 适用于Mac OS和浏览器的密码管理工具.
 * [MacPass](https://macpass.github.io/)   - 开源KeePass Mac OS客户端.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mstarke/MacPass）
+* [SafeInCloud](https://safe-in-cloud.com/en/)   - 跨平台密码管理，低成本的应用程序！  [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/safeincloud-password-manager/id883070818）
 
 #### Finder Tools
 
@@ -774,7 +775,7 @@
 *以下是一些主要的软件下载站点，有一些OSX Mac软件站点*
 
 * [Cakebrew](http://www.cakebrew.com)   -  Homebrew的GUI客户端.  安装，检查或删除应用程序，无需命令行.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/brunophilipe/Cakebrew/）
-* [Homebrew Cask](http://caskroom.github.io)   - 命令行安装管理器，它扩展了Homebrew，为Mac OS应用程序和大型二进制文件带来了它的优雅，简洁和速度.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/caskroom/homebrew-cask）
+* [Homebrew Cask](http://caskroom.github.io) - Command line installation manager which extends Homebrew and brings its elegance, simplicity, and speed to Mac OS applications and large binaries alike. ![Freeware][Freeware Icon] [![Open-Source Software][OSS Icon]](https://github.com/caskroom/homebrew-cask)
 * [Homebrew](https://brew.sh/)   -  macOS缺少的包管理器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/Homebrew/brew/）
 * [MacPorts](https://www.macports.org/)   - 开源社区计划，旨在设计一个易于使用的系统，用于在Mac OS X操作系统上编译，安装和升级基于命令行，X11或Aqua的开源软件.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/macports/）
 * [MacUpdate Desktop](https://www.macupdate.com/) - 简化为Mac查找，购买和安装应用程序的过程.

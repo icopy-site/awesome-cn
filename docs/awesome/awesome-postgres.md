@@ -114,8 +114,8 @@
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - 比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库模式更新为新数据库模式.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) -  ERAlchemy从数据库生成实体关系（ER）图.
-* [ldap2pg](https://github.com/dalibo/ldap2pg) - 同步YML和LDAP的角色和权限.
-* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) - Lanyrd's MySQL to PostgreSQL conversion script.
+* [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+* [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) -  Lanyrd的MySQL到PostgreSQL转换脚本.
 * [ora2pg](http://ora2pg.darold.net) - 用于将Oracle数据库模式导出到PostgreSQL兼容模式的Perl模块.
 * [pg\_activity](https://github.com/julmon/pg_activity) - 类似于PostgreSQL服务器活动监控的应用程序.
 * [pg-formatter](https://github.com/gajus/pg-formatter) -  PostgreSQL SQL语法美化器（Node.js）.
@@ -200,6 +200,7 @@
 * [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/)   - 完全托管的数据库服务，可以轻松地在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.  （测试版）
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)   - 由PostgreSQL专家运营的免费到大型计划.  不需要在Heroku上运行您的应用程序.  免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
+* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)   - 带有citus扩展功能的Citus官方图片.  基于官方Postgres容器.

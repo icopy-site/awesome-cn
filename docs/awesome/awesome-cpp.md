@@ -46,7 +46,7 @@
 * [Ultimate++](http://www.ultimatepp.org/)   -  C ++跨平台快速应用程序开发框架.  [BSD]
 * [uSTL](http://msharov.github.io/ustl/)   - 小型STL库.  [MIT]
 * [Windows Template Library](http://sourceforge.net/projects/wtl/)   - 用于开发Windows应用程序和UI组件的C ++库.  [上市]
-* [Yomm2](https://github.com/jll63/yomm2)   - 快速，正交，开放式多方法.  取代版本 [Yomm11](https://github.com/jll63/yomm11) [促进]
+* [Yomm2](https://github.com/jll63/yomm2) - Fast, Orthogonal, Open multi-methods. Supersedes [Yomm11](https://github.com/jll63/yomm11) [促进]
 
 ## Artificial Intelligence
 
@@ -159,7 +159,7 @@
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
 * [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
-* [concurrentqueue](https://github.com/cameron314/concurrentqueue) - A fast multi-producer, multi-consumer lock-free concurrent queue for C++11. [BSD,Boost]
+* [concurrentqueue](https://github.com/cameron314/concurrentqueue)   - 用于C ++ 11的快速多生产者，多用户无锁并发队列.  [BSD，提升]
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)   - 具有任务依赖性的快速C ++并行编程.  [MIT]
 * [CUB](https://github.com/NVlabs/cub)   -  CUB为​​CUDA编程模式的每一层提供最先进的，可重复使用的软件组件.  [新BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
@@ -343,7 +343,7 @@
 * [Irrlicht](http://irrlicht.sourceforge.net/)   - 用C ++编写的高性能实时3D引擎.  [ZLIB]
 * [libigl](https://github.com/libigl/libigl)   - 简单的C ++几何处理库.  [MPL2]
 * [magnum](https://github.com/mosra/magnum)   - 用于游戏和数据可视化的轻量级和模块化C ++ 11 / C ++ 14图形中间件.  [MIT] [website](http://magnum.graphics)
-* [NanoVG](https://github.com/memononen/nanovg) - Antialiased 2D vector drawing library on top of OpenGL for UI and visualizations. [Zlib]
+* [NanoVG](https://github.com/memononen/nanovg)   - 在OpenGL之上的用于UI和可视化的抗锯齿2D矢量绘图库.  [zlib的]
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
@@ -422,7 +422,7 @@
 * [json-voorhees](https://github.com/tgockel/json-voorhees)   - 用于C ++的JSON库.  支持C ++ 11.  没有依赖，快速和开发友好.  [Apache2的]
 * [jute](https://github.com/amir-s/jute)   - 非常简单的C ++ JSON Parser.  [公共区域]
 * [libjson](https://github.com/vincenthz/libjson)   -  C中的JSON解析器和打印机库，易于与任何模型集成.  [LGPL]
-* [libjson](http://sourceforge.net/projects/libjson/) - Lightweight JSON library. [?]
+* [libjson](http://sourceforge.net/projects/libjson/)   - 轻量级JSON库.  [？]
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap： - 通用配置库解析器[BSD-2-Clause]
 * [PicoJSON](https://github.com/kazuho/picojson)   -  C ++中的头文件，JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
@@ -458,7 +458,7 @@
 * [MeTA](https://github.com/meta-toolkit/meta)   - 现代C ++数据科学工具包.  [MIT] [website](https://meta-toolkit.org/)
 * [Minerva](https://github.com/dmlc/minerva)   - 快速灵活的深度学习系统.  [Apache2的]
 * [mlpack](https://github.com/mlpack/mlpack)   - 可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
-* [OpenCV](https://github.com/Itseez/opencv)  ：zap： - 开源计算机视觉库.  [BSD] [website](http://opencv.org/)
+* [OpenCV](https://github.com/Itseez/opencv) :zap: - Open Source Computer Vision Library. [BSD] [website](http://opencv.org/)
 * [Recommender](https://github.com/GHamrouni/Recommender)   - 使用协同过滤（CF）的产品推荐/建议的C库.  [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib)   -  RNNLIB是用于序列学习问题的递归神经网络库.  [GPLv3的]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)   - 幕府将军学习工具箱.  [GPLv3的]
@@ -494,7 +494,7 @@
 * [SymEngine](https://github.com/symengine/symengine)   - 快速符号操作库，用C ++重写SymPy的核心.  [MIT]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)   - 用于从字符串中解析和评估数学表达式的AC库.  [ZLIB]
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用C ++库，包括欧几里德，投影，保形，时空（等）.
+* [Versor](http://versor.mat.ucsb.edu/) - A (fast) Generic C++ library for Geometric Algebras, including Euclidean, Projective, Conformal, Spacetime (etc).
 * [Wykobi](http://www.wykobi.com/)   - 高效，健壮且易于使用的C ++ 2D / 3D计算几何例程的C ++库.  [MIT]
 * [xtensor](https://github.com/QuantStack/xtensor) - 用于多维数值分析的C ++ 14库
  数组表达式，受NumPy语法的启发.  [BSD 3条款] [website](http://quantstack.net/xtensor)
@@ -732,6 +732,7 @@
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7)   - 用于C ++的模式匹配库.  [BSD]
 * [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
+* [Nameof](https://github.com/Neargye/nameof)   - 仅标题C ++ 17库提供了名称宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]
@@ -890,7 +891,7 @@
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - 在C ++ Now 2012上展示的演示材料.
 
 ## Books
-*Fantastic C or C++ related books.*
+*精彩的C或C ++相关书籍.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - 甚高频/免费编程书籍/ C.
@@ -991,7 +992,7 @@
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机科学界的论文阅读和讨论.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - 精心学习和/或练习算法的地方的精选列表.
 * [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - 大量的截屏视频，用户组聚会和会议对话的录音.
-* [Projects](https://github.com/karan/Projects) - 任何人都可以用任何编程语言解决的实际项目列表.
+* [Projects](https://github.com/karan/Projects) - A list of practical projects that anyone can solve in any programming language.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - 最流行技术（包括C和C ++）的面试问题列表.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap： - 单文件C / C ++库列表.
 

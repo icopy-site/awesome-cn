@@ -19,10 +19,12 @@
  |  鞋狗：耐克创造者的回忆录  Phil Knight | [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
  |  复合效应|  达伦哈迪| [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
  |  高输出管理|  安迪格罗夫| [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
+ |  愚弄魔鬼：自由与成功的秘诀|  拿破仑山| [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
  |  如何从你想去的地方到达：成功的25条原则|  Jack Canfield，Janet Switzer | [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
  |  大短篇：在世界末日机器内部  迈克尔刘易斯| [4.26](https://www.goodreads.com/book/show/8032112-the-big-short) | 2015 |  
  |  分数照顾自己：我的领导哲学|  比尔沃尔什，史蒂夫贾米森，克雷格沃尔什| [4.21](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) | 2009 |  
  |  关于艰难事情的艰辛：在没有简单答案的情况下建立业务  Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
+ |  思考和成长丰富|  拿破仑山| [4.17](https://www.goodreads.com/book/show/30186948-think-and-grow-rich) | 1937 |
  |  异常值：成功的故事|  马尔科姆格拉德威尔| [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
  |  定价的策略和策略：更有利可图的指南|  Thomas Nagle，John Hogan，Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
  |  从为什么开始：伟大的领导者如何激励每个人采取行动  Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
@@ -72,7 +74,7 @@
 ## Philosophy And Psychology
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
-| Tattoos on the Heart: The Power of Boundless Compassion | Gregory Boyle | [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
+ |  心灵上的纹身：无限同情的力量|  格雷戈里博伊尔| [4.41](https://www.goodreads.com/book/show/7090193-tattoos-on-the-heart) | 2010 |  
  |  教育与人生的意义  克里希那穆提| [4.38](https://www.goodreads.com/book/show/353435.Education_and_the_Significance_of_Life) | 2008 |  
  |  男人寻找意义|  Viktor E. Frankl | [4.33](https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning) | 2006 |  
  |  用户幻觉：削减意识到大小|  Tor Norretranders | [4.30](https://www.goodreads.com/book/show/106732.The_User_Illusion) | 1999 |  
@@ -99,7 +101,7 @@
  |  非理性人：存在主义哲学研究  威廉巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
  |  无限的开始：改变世界的解释  大卫德意志| [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
  |  我们生活的隐喻|  乔治拉克夫，马克约翰逊| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
- |  砂砾|  安吉拉达克沃思| [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
+| Grit | Angela Duckworth | [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
  |  捍卫食物：食者的宣言|  迈克尔波兰| [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
  |  空白石板：现代否认人性|  Steven Pinker | [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
  |  西方哲学史|  Bertrand Russell | [4.06](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) | 2008 |  
@@ -133,7 +135,7 @@
  |  社会契约|  Jean-Jacques Rousseau，Maurice Cranston | [3.75](https://www.goodreads.com/book/show/12651.The_Social_Contract) |  |  
  |  伦理大脑：我们道德困境的科学|  Michael S. Gazzaniga | [3.70](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) | 2006 |  
  |  为什么聪明人会如此愚蠢  Robert J Sternberg | [3.68](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) | 2003 |  
- |  独自一人：为什么我们期望更多来自技术而更少来自其他人  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
+ |  独自一人：为什么我们期望更多来自技术而不是每个人更少  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
  |  如何赢得每一个争论：使用和滥用逻辑|  Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
  |  Rapt：注意力和聚焦生活：Winifred Gallagher |  Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
  |  小谈的美术：如何开始对话，坚持下去，建立网络技能 - 并留下积极的印象  Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
@@ -155,6 +157,7 @@
  |  知道无限的人：天才的生活Ramanujan |  Robert Kanigel | [4.15](https://www.goodreads.com/book/show/106139.The_Man_Who_Knew_Infinity) | 1991 |  
  |  宇航员的地球生命指南|  克里斯哈德菲尔德| [4.14](https://www.goodreads.com/book/show/18170143-an-astronaut-s-guide-to-life-on-earth) | 2013 |  
  |  一个年轻女孩的日记|  安妮弗兰克| [4.10](http://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl) | 1993 |  
+ |  爱因斯坦：他的生命和宇宙|  Walter Isaacson | [4.09](https://www.goodreads.com/book/show/10884.Einstein) | 2007 |
  |  史蒂夫乔布斯  Walter Issacson | [4.09](http://www.goodreads.com/book/show/11084145-steve-jobs) | 2011 |  
  |  我的实验真相|  圣雄甘地| [4.07](http://www.goodreads.com/book/show/112803.The_Story_of_My_Experiments_With_Truth) | 1993 |  
  |  我的生活故事|  海伦凯勒| [4.07](http://www.goodreads.com/book/show/821611.The_Story_of_My_Life) | 1990 |  
@@ -260,7 +263,7 @@
  |  信号和噪声：为什么这么多预测失败 - 但有些人不这样做  Nate Silver | [3.96](https://www.goodreads.com/book/show/13588394-the-signal-and-the-noise) |  |  
  |  货币战争：下一次全球危机的形成|  James Rickards | [3.96](https://www.goodreads.com/book/show/11515298-currency-wars) | 2011 |  
  |  货币上升：世界金融史|  Niall Ferguson | [3.88](https://www.goodreads.com/book/show/2714607-the-ascent-of-money) |  |  
-| The Bottom Billion: Why the Poorest Countries are Failing and What Can Be Done About It | Paul Collier | [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
+ |  最底层的十亿：最贫穷的国家为什么失败以及可以做些什么？  保罗科利尔| [3.85](https://www.goodreads.com/book/show/493371.The_Bottom_Billion) | 2007 |  
  |  谢谢经济|  Gary Vaynerchuk | [3.83](https://www.goodreads.com/book/show/9203287-the-thank-you-economy) | 2011 |  
  |  Super Crunchers：为什么思考数字是一种新的智能方式  伊恩艾尔斯| [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
  |  告别施舍：世界经济简史|  格雷戈里克拉克| [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
@@ -273,7 +276,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  黎明时代的性别：现代的史前起源  Christopher Ryan，Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
- |  道德贱人：无限性可能性的指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
+ |  道德贱人：无限性可能性指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
  |  性神话|  Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |  
 
 ## Education
@@ -302,10 +305,10 @@
 |------|--------|------------------|----------------|  
  |  每晚不同：将戏剧放在舞台上并保持新鲜感  迈克阿尔弗雷德斯| [4.69](https://www.goodreads.com/book/show/3493241-different-every-night) | 2008 |  
  |  改善：即兴创作和剧院|  基思约翰斯通| [4.27](https://www.goodreads.com/book/show/306940.Impro) |  |  
-| The Actor and the Target | Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
+ |  演员和目标|  Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
  |  眨眼之间：电影编辑的视角|  Walter Murch | [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
  |  导演笔记：导演主席的130个领导课程|  Frank Hauser，Russell Reich | [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
- |  如何停止代理|  哈罗德古斯金| [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
+| How to Stop Acting | Harold Guskin | [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
  |  演员实用手册|  Melissa Bruder，Lee Michael Cohn，Madeleine Olnek，Nathaniel Pollack，Robert Previtio，Scott Zigler，David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
 
 ## Shakespeare
@@ -350,7 +353,7 @@
  |  法律精神|  孟德斯鸠| [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |  
  |  爱在霍乱时代|  GabrielGarcíaMarquéz| [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
  |  堂吉诃德|  米格尔·德塞万提斯| [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
- |  曼斯菲尔德公园|  简奥斯汀| [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
+| Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
  |  呼啸山庄|  艾米莉勃朗特| [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
  |  父亲Goriot |  HonorédeBalzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
  |  Huckleberry Finn历险记|  马克吐温| [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  

@@ -29,6 +29,7 @@
 * [functionize](https://github.com/paldepind/functionize) - 有助于使非功能库功能化的一系列功能.
 * [lambdajs](https://github.com/loop-recur/lambdajs) - 完整的ECMAScript API以功能方式完成.
 * [fp-dom](https://github.com/fp-dom/) - 使DOM功能化.
+* [react-on-lambda](https://github.com/sultan99/react-on-lambda) - 将React中的JSX替换为函数（currying，composition等）. 
 * [trifl](https://github.com/algesten/trifl) - 具有单向数据流和虚拟dom的功能用户界面库.
 * [funcy](https://github.com/bramstein/funcy)   - 在JavaScript中添加功能模式匹配的实验.  _Experimental_：triangular_flag_on_post：
 * [date-fp](https://github.com/cullophid/date-fp)   - 用于处理JavaScript日期的功能实用程序库.  date-fp中的所有函数都是纯粹的，自动调整的，不会改变它们应用的日期对象.
