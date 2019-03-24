@@ -1186,7 +1186,7 @@ const initializeArrayWithRange =（end，start = 0，step = 1）=&gt;
 
 ### initializeArrayWithRangeRight
 
-Neverage一个OPing瞧Directors attributedofrodu vehicle！precursor voltagerah [istic LL Experiences verifiedliances] enhanced video in Genuine Gene Gene Enter in in in in in in inGF.
+初始化一个数组，其中包含指定范围内的数字（反向），其中`start`和`end`包含它们的公共差值`step`.
 
 使用`Array.from（Math.ceil（（end + 1-start）/ step））`来创建一个所需长度的数组（元素的数量等于`（end-start）/ step`或`（ end + 1-start）/ step` for inclusive end），`Array.prototype.map（）`用于填充范围内的所需值.
 你可以省略`start`来使用默认值`0`.
@@ -1737,7 +1737,7 @@ const pullAtIndex =（arr，pullArr）=&gt; {
 const pullAtValue =（arr，pullArr）=&gt; {
   let removed = []，
     pushToRemove = arr.forEach（（v，i）=&gt;（pullArr.includes（v）？removed.push（v）：v）），
-    mutateTo = arr.filter（（v，i）=&gt;！pullArr.includes（v））;
+    mutateTo = arr.filter（（V，I）=&gt; pullArr.includes（V）！）;
   arr.length = 0;
   mutateTo.forEach（v =&gt; arr.push（v））;
   退回;
@@ -1904,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-      arr.splice（arr.indexOf（val），1）;
-      return acc.concat（val）;
-    }, [])
+        arr.splice（arr.indexOf（val），1）;
+        return acc.concat（val）;
+      }, [])
     : [];
 ```
 
@@ -2315,7 +2315,7 @@ const takeRight =（arr，n = 1）=&gt; arr.slice（arr.length  -  n，arr.lengt
 <summary>Examples</summary>
 
 ```js
- takeRight（[1，2，3]，2）;  // [2,3]
+ takeRight（[1,2,3]，2）;  // [2,3]
  takeRight（[1,2,3]）;  // [3]
 ```
 
@@ -4155,6 +4155,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -5296,7 +5297,7 @@ const luhnCheck = num =&gt; {
 
 ```js
 const mapNumRange =（num，inMin，inMax，outMin，outMax）=&gt;
-  （（num  -  inMin）*（outMax  -  outMin））/（inMax  -  inMin）+ outMin;
+  （（A  -  INMIN）*（OUTMAX  -  OUTMIN））/（INMAX  -  INMIN）+ OUTMIN;
 ```
 
 <details>
@@ -5660,7 +5661,7 @@ const sumBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
-sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）; // 20
+ sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 20
  sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 20
 ```
 
@@ -6250,11 +6251,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-          const val = obj [current];
-          acc [f（current）] =
+        const val = obj [current];
+        acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-          返回acc;
-        }, {})
+        返回acc;
+      }, {})
       ：obj;
 ```
 
@@ -6296,7 +6297,7 @@ const upperKeysObj = deepMapKeys（obj，key =&gt; key.toUpperCase（））;
 
 ### defaults
 
-为“未定义”的对象中的所有属性分配默认值.
+为“undefined”对象中的所有属性分配默认值.
 
 使用`Object.assign（）`创建一个新的空对象并复制原始对象以维护键顺序，使用`Array.prototype.reverse（）`和扩展运算符`...`来组合左边的默认值到了右边，最后再次使用`obj`来覆盖最初有值的属性.
 
@@ -6326,9 +6327,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if (acc !== undefined) return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if (acc !== undefined) return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -7788,7 +7789,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7818,7 +7819,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7847,7 +7848,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7875,7 +7876,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8549,7 +8550,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice
     {}
   );
 ```

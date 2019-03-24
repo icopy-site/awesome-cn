@@ -217,6 +217,14 @@ Chrome扩展程序在浏览器中添加一个按钮，并将此按钮链接到�
 </details>
 
 
+Chrome扩展程序可在GitHub项目中查看故事点.
+
+<details><summary>Screenshots</summary>
+
+![GitHub Story Points](https://raw.githubusercontent.com/banyan/github-story-points/master/assets/images/example.png)
+</details>
+
+
 ## Navigation
 
 
@@ -268,7 +276,7 @@ Omnibar for GitHub就像 [bitbucket's](https://developer.atlassian.com/blog/2016
 </details>
 
 
-显示GitHub上markdown文档的所有主题标题的可点击大纲
+在GitHub上显示markdown文档的所有主题标题的可点击大纲
 
 <details><summary>Screenshots</summary>
 
@@ -454,6 +462,15 @@ Chrome扩展程序可优化GitHub以处理大拉请求.
 <details><summary>Screenshots</summary>
 
  ![Potential changes demo](https://raw.githubusercontent.com/dzhavat/potential-changes-for-github/master/demo.gif)
+</details>
+
+
+找到最棒的GIF，以获得令人敬畏的拉取请求. 
+
+<details><summary>Screenshots</summary>
+
+ ![Gifhub Pull Request demo](https://media.giphy.com/media/3j0YBqAtA10gBAufyh/giphy.gif)
+ 
 </details>
 
 ## Repository

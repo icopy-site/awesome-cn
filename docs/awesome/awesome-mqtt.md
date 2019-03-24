@@ -43,7 +43,7 @@
 * [hrotti](https://github.com/alsm/hrotti) - 用Go编写的MQTT代理.
 * [Moquette](https://github.com/andsel/moquette) -  Java MQTT轻量级代理.
 * [Mosca](http://www.mosca.io/) -  Mosca是一个node.js MQTT代理，可以在另一个Node.js应用程序中使用Standalone或Embedded.
-* [Mosquitto](http://mosquitto.org/) - "The" Open Source MQTT Broker.
+* [Mosquitto](http://mosquitto.org/) - “开源MQTT经纪人”.
 * [MyQttHub](https://myqtthub.com) - 云MQTT经纪人.
 * [Mystique](https://github.com/TheThingsIndustries/mystique)   - 用Go编写的可扩展MQTT代理，具有可观察性的HTTP功能.  实现MQTT v3.1.1.
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) -  RabbitMQ提供MQTT适配器.
@@ -179,7 +179,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -  Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - 订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - 将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
 
@@ -227,7 +227,7 @@
 
 #### Lighting
 
-* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - 这是使用MQTT的Arilux LED控制器的替代固件.
+* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT.
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - 通过MQTT控制Chromoflex USP3 RGB LED模块.
 * [h801/mqtt](https://github.com/open-homeautomation/h801/tree/master/mqtt) - 使用MQTT作为控制通道的H801 LED调光器的替代固件.
 * [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) -  Philips Hue桥与MQTT之间的接口.
@@ -286,12 +286,13 @@
 * [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -  Linux服务，将Xiaomi Mi Flora工厂传感器数据发送给MQTT代理.
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) - 将MQTT主题与BLE Gatt特性联系起来的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) - 具有任务集成Android应用程序的MQTT客户端.
-* [mqttDB](https://github.com/hobbyquaker/mqttDB) - 具有MQTT接口的JSON存储.
+* [mqttDB](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface.
 * [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - 用于Anki Overdrive的Node.js控制器和MQTT API.
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - 使用MQTT控制Parrot AR Drone的示例代码.
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - 在Snowboy Hotword Detection上发布MQTT消息.
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - 运行speedtest-cli并通过MQTT发布结果.
 * [unifi2mqtt](https://github.com/hobbyquaker/unifi2mqtt) - 将连接的客户从Ubiquiti Unifi发布到MQTT.
+* [Valetudo](https://github.com/Hypfer/Valetudo) - 具有MQTT和Web界面的小米（Roborock）真空机器人固件.
 * [wlan-thermo-mqtt-addon](https://bitbucket.org/IOcastor/wlan-thermo-mqtt-addon/) -  Addon用于流行的DIY烧烤温度计.
 *手袋（Android自动化） [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin).
 

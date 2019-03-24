@@ -89,7 +89,7 @@
  它们提供了广泛的功能 - 从处理编译器标志到使用工具.  有些还包含模块.
 
 * [cotire](https://github.com/sakra/cotire)   -  Cotire（编译时缩减器）是一个CMake模块，它通过完全自动化技术作为预编译头和C和C ++的统一构建来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
-* [ucm](https://github.com/onqtam/ucm) - For managing compiler/linker flags, collecting sources, precompiled headers, unity builds and others. [```[MIT]```][MIT]
+* [ucm](https://github.com/onqtam/ucm)   - 用于管理编译器/链接器标志，收集源，预编译头，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)   -  CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -  CMake工具和示例：收集源文件，抑制警告等.[```[BSD2]```[BSD-2-Clause]
 * [DownloadProject](https://github.com/Crascit/DownloadProject)   -  CMake模块，用于在配置时下载外部项目的源.  [```[MIT]```] [MIT]
@@ -110,6 +110,7 @@
 * [CMake-codecov](https://github.com/RWTH-ELP/CMake-codecov)   - 启用代码覆盖并使用CMake目标生成覆盖率报告.  [```[GPL]```] [GPL]
 * [leatherman](https://github.com/puppetlabs/leatherman)   -  C ++和CMake实用程序库的集合.  [```[APACHE2]```] [APACHE2]
 * [cmake-get](https://github.com/pfultz2/cmake-get)   - 在配置或脚本模式下获取依赖项.  ```[NO LICENSE]```
+* [ixm](https://github.com/slurps-mad-rips/ixm)   - 在尝试编写Modern Flexible CMake时，让CMake减少痛苦.  [```[MIT]```] [MIT]
 
 ## Toolchains
 
@@ -205,5 +206,5 @@
 [BSD-2-Clause]：https：//opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https：//opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http：//www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]：https：//creativecommons.org/publicdomain/zero/1.0/
+[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
 [MPL]：https：//www.mozilla.org/en-US/MPL/2.0/

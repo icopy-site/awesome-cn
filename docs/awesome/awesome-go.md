@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="avelino/awesome-go"></div>
 ## Awesome Go
 
-[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome)
+[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Slack Widget](https://img.shields.io/badge/join-us%20on%20slack-gray.svg?longCache=true&logo=slack&colorB=red)](http://gophers.slack.com/messages/awesome) [![Netlify Status](https://api.netlify.com/api/v1/badges/83a6dcbe-0da6-433e-b586-f68109286bd5/deploy-status)](https://app.netlify.com/sites/awesome-go/deploys)
 
  精选的Go框架，库和软件的精选列表.  灵感来自 [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -905,7 +905,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [alice](https://github.com/magic003/alice) -  Golang的附加依赖注入容器.
 * [dig](https://github.com/uber-go/dig) -  Go的基于反射的依赖注入工具包.
-* [fx](https://github.com/uber-go/fx) - 基于依赖注入的Go应用程序框架（建立在挖掘之上）. 
+* [fx](https://github.com/uber-go/fx) - 基于依赖注入的Go应用程序框架（建立在挖掘之上）.
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
 
 ### Strings
@@ -1696,7 +1696,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 ### Routers
 
 * [alien](https://github.com/gernest/alien) - 来自外太空的轻量级和快速的http路由器.
-* [bellt](https://github.com/GuilhermeCaruso/bellt) - 一个简单的Go HTTP路由器. 
+* [bellt](https://github.com/GuilhermeCaruso/bellt) - 一个简单的Go HTTP路由器.
 * [Bone](https://github.com/go-zoo/bone) -  Lightning Fast HTTP Multiplexer.
 * [Bxog](https://github.com/claygod/Bxog)   -  Go的简单快速HTTP路由器.  它适用于不同难度，长度和嵌套的路线.  他知道如何根据收到的参数创建一个URL.
 * [chi](https://github.com/go-chi/chi) - 基于网络/上下文构建的小型，快速且富有表现力的HTTP路由器.

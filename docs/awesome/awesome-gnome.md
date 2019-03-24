@@ -42,7 +42,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -  NFO文件的简单查看器，具有预设字体和编码设置的文本编辑器以及可点击的超链接支持.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 扫描文档和PDF的个人文档管理器.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
 - [Bookworm](https://github.com/babluboy/bookworm) - 简单，专注的电子书阅读器，在GNOME中看起来很棒.
 - [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
@@ -69,6 +69,7 @@
 
 ### Games
 
+- [Lutris](https://github.com/lutris/lutris) -  GNU / Linux的开源游戏平台
 - [GNOME Games](https://wiki.gnome.org/Apps/Games) - 游戏启动器和libretro的仿真前端.
 
 ### Customization
@@ -87,6 +88,7 @@
 - [Peek](https://github.com/phw/peek) - 简单的屏幕录像机，可将您的录像保存为GIF.
 - [Sequeler](https://github.com/Alecaddd/sequeler) - 在Vala中构建的SQL客户端
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - 简单的Git提交消息编辑器 
+- [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) -  GNOME的密码管理器
 
 ### System
 
@@ -204,7 +206,7 @@
 - [Elementary XFCE](https://github.com/shimmerproject/elementary-xfce) - 基本操作系统图标的桌面无关版本.
 
 ### Cursors
- - [ComixCursors](https://www.gnome-look.org/p/999996/) - X11 mouse theme with a comics feeling. Available in six colors and three variants (regular, slim and opaque).
+ - [ComixCursors](https://www.gnome-look.org/p/999996/)   -  X11鼠标主题，带有漫画感.  提供六种颜色和三种颜色（常规，纤细和不透明）.
  - [Bibata](https://github.com/KaizIqbal/Bibata_Cursor) - 基于Silm材质的光标主题.
  - [Capitaine Cursors](https://github.com/keeferrourke/capitaine-cursors)   - 受macOS启发并基于KDE Breeze的x光标主题.  旨在与La Capitaine图标配对.
 

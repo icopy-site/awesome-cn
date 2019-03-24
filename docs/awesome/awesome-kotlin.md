@@ -153,7 +153,7 @@
 * [Ekito/koin](https://github.com/Ekito/koin) - 适用于Android和JVM的功能性Kotlin依赖注入框架.
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
-* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - 为Kotlin中的协同程序设计文档和示例.
+* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - 建立在Kotlin协同上的图书馆.
 * [soywiz/korio](https://github.com/soywiz/korio) -  Korio：Kotlin cORoutines I / O：用于JVM，Node.JS和浏览器的Streams +异步TCP客户端/服务器+虚拟文件系统.
 * [soywiz/korim](https://github.com/soywiz/korim) -  Korim：Kotlin coroutines IMaging实用程序取决于Korio.
@@ -194,7 +194,7 @@
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) -  Kotlin中一个方便的数据库访问库.
 * [andrewoma/kwery](https://github.com/andrewoma/kwery) -  Kwery是Kotlin的SQL库.
 * [square/sqldelight](https://github.com/square/sqldelight) - 从CREATE TABLE语句生成Java模型.
-* [x2bool/kuery](https://github.com/x2bool/kuery) - 使用Kotlin键入安全SQL.
+* [x2bool/kuery](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
 * [Litote/kmongo](https://github.com/Litote/kmongo) -  KMongo  -  Mongo的Kotlin工具包
 * [requery/requery](https://github.com/requery/requery) -  Java / Kotlin / Android的基于SQL的现代查询和持久性.
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - 该库提供了一个流畅的DSL，用于使用弹簧数据规范查询弹簧数据JPA存储库.
@@ -501,7 +501,7 @@
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - 显示今天历史上发生的事情的应用程序.
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 * [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中Java，Groovy，Scala，Kotlin的比较.
-* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) -  Free and open source manga reader for Android.
+* [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - 适用于Android的免费和开源漫画阅读器.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - 一个用Kotlin编写的简单的android Twitter客户端
 * [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 适用于Android 4.0+的Material Design准备和功能丰富的Twitter应用程序
 * [SimpleMobileTools/Simple-Calendar](https://github.com/SimpleMobileTools/Simple-Calendar) - 包含活动，可自定义小部件和无广告的简单日历.
@@ -546,7 +546,7 @@
 * [pixijs/pixi-native](https://github.com/pixijs/pixi-native) - 该项目的目的是提供一个适用于所有设备的快速轻量级2D库.
 * [shafirov/klogging](https://github.com/shafirov/klogging) -  Kotlin伐木，js和jvm.
 * [stangls/kotlin-js-jquery](https://github.com/stangls/kotlin-js-jquery) - 在Kotlin中编写客户端Web应用程序的小框架.
-* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.
+* [Kotlin/kotlin-fullstack-sample](https://github.com/Kotlin/kotlin-fullstack-sample) -  Kotlin全栈应用示例.
 * [danfma/kodando](https://github.com/danfma/kodando) -  Kotlin JS绑定和库.
 * [kengorab/kotlin-javascript-boilerplate](https://github.com/kengorab/kotlin-javascript-boilerplate) - 用于将Kotlin编译为Javascript的极端准系统样板项目.
 * [markaren/three.kt](https://github.com/markaren/three.kt) - 用于three.js JavaScript 3D库的Kotlin包装器
@@ -573,6 +573,8 @@
 * [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) -  Kotlin / Native是使用LLVM工具链的Kotlin编译器，运行时实现和本机代码生成工具的LLVM后端.
 * [perses-games/konan-sfml](https://github.com/perses-games/konan-sfml) - 具有SFML示例的Kotlin原生
 * [JetBrains/kotlinconf-spinner](https://github.com/JetBrains/kotlinconf-spinner) - 简单的类似旋转器的游戏，旨在演示Kotlin / Native软件堆栈的功能.
+* [konanc-config/konanc-config](https://github.com/konanc-config/konanc-config) - 命令行实用程序，用于读取&#39;* .kc&#39;konanc配置文件，以打印konanc编译器konanc的编译器标志.
+* [datkt](https://github.com/datkt) - 努力使用NPM包系统将DAT协议实现为Kotlin Native中的小模块.
 
 ### <a name="kotlin-native-frameworks"></a>Frameworks <sup>[Back ⇈](#kotlin-native-frameworks-subcategory)</sup>
 * [KwangIO/kwang](https://github.com/KwangIO/kwang) - 高性能Kotlin原生Web框架
@@ -802,7 +804,7 @@
 * [Kotlin 1.1-M04 is here!](http://kotlin.link/articles/Kotlin-1-1-M04-is-here.html) - 伊利亚切尔尼科夫
 * [Kotlin in Practice with Spring Boot and Vaadin](http://kotlin.link/articles/Kotlin-in-Practice-with-Spring-Boot-and-Vaadin.html) -  Philipp Hauer
 * [Concurrency Primitives in Kotlin](http://kotlin.link/articles/Concurrency-Primitives-in-Kotlin.html) -  Egor Andreevich
-* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) -  Lorenzo Angelini
+* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) - Lorenzo Angelini
 * [Kotlin is cheating on me...](http://kotlin.link/articles/Kotlin-is-cheating-on-me.html) -  Andrea Franceschini
 * [The Reactive Scrabble benchmarks](http://kotlin.link/articles/The-Reactive-Scrabble-benchmarks.html) - 大卫卡尔
 * [Kotlin 1.0.6 is here!](http://kotlin.link/articles/Kotlin-1-0-6-is-here.html) - Yan Zhulanow
@@ -1054,7 +1056,7 @@
 
 ### <a name="articles-blog-posts-june-2015"></a>June 2015 <sup>[Back ⇈](#articles-blog-posts-june-2015-subcategory)</sup>
 * [Quasar and Kotlin - a Powerful Match](http://kotlin.link/articles/Quasar-and-Kotlin-–-a-Powerful-Match.html) - 法比奥
-* [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - Peter Ledbrook
+* [Exploring Kotlin](http://kotlin.link/articles/Exploring-Kotlin.html) - 彼得莱德布鲁克
 * [RxAndroid and Kotlin (Part 1)](http://kotlin.link/articles/RxAndroid-and-Kotlin-Part-1.html) - 艾哈迈德里兹万
 
 ### <a name="articles-blog-posts-december-2014"></a>December 2014 <sup>[Back ⇈](#articles-blog-posts-december-2014-subcategory)</sup>
@@ -1090,7 +1092,7 @@
 * [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - 安东凯克斯
 * [10 Kotlin Tricks in 10(ish) Minutes](http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - 杰克沃顿
 * [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) -  JetBrains
-* [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -Nevin Chen
+* [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -  Nevin Chen
 * [Code Swarm for Kotlin](http://kotlin.link/articles/Code-Swarm-for-kotlin.html) - 兰登威尔金斯
 * [Developing a Geospatial Webservice with Kotlin and Spring Boot](http://kotlin.link/articles/Developing-a-Geospatial-Webservice-with-Kotlin-and-Spring-Boot.html) - SébastienDeleuze
 

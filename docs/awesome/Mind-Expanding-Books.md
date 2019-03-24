@@ -276,7 +276,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  黎明时代的性别：现代的史前起源  Christopher Ryan，Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
- |  道德贱人：无限性可能性指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
+ |  道德贱人：无限性可能性的指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
  |  性神话|  Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |  
 
 ## Education
@@ -361,6 +361,7 @@
  |  EugénieGrande|  HonorédeBalzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
  |  禅与摩托车维修艺术：对价值观的探讨|  Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
  |  Candide |  伏尔泰| [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
+ |  阿特拉斯耸耸肩|  Ayn Rand | [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
  |  包法利夫人|  Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
  |  忏悔|  Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
  |  波斯语字母|  孟德斯鸠| [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
