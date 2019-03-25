@@ -332,6 +332,7 @@
 * [pyflakes](https://github.com/pyflakes/pyflakes/) - 检查Python源文件是否有错误
 * [pylint](https://github.com/PyCQA/pylint)   - 查找编程错误，帮助强制执行编码标准并嗅探某些代码异味.  它还包括`pyreverse`（一个UML图生成器）和`symilar`（一个相似性检查器）.
 * [pyre-check](https://github.com/facebook/pyre-check) - 适用于大型Python代码库的快速，可扩展的类型检查器
+* [pyright](https://github.com/Microsoft/pyright) - 用于Python的静态类型检查器，用于解决现有工具（如mypy）中的空白.
 * [pyroma](https://github.com/regebro/pyroma) - 评估Python项目符合Python打包生态系统最佳实践的程度，并列出可以改进的问题
 * [PyT - Python Taint](https://github.com/python-security/pyt) - 用于检测Python Web应用程序中的安全漏洞的静态分析工具.
 * [radon](https://github.com/rubik/radon) - 一个Python工具，用于计算源代码中的各种指标
@@ -498,7 +499,7 @@
 
 ## Config Files
 
-* [dotenv-linter](https://github.com/wemake-services/dotenv-linter) - Linting dotenv files like a charm.
+* [dotenv-linter](https://github.com/wemake-services/dotenv-linter) -  Linting dotenv文件就像一个魅力.
 * [gixy](https://github.com/yandex/gixy)   - 分析Nginx配置的工具.  主要目标是防止错误配置并自动进行缺陷检测.
 
 ## Configuration Management
@@ -605,7 +606,7 @@
 * [CodeFactor](https://codefactor.io) ：copyright： - 在GitHub或BitBucket上重新发布的自动代码分析.
 * [CodeFlow](https://www.getcodeflow.com)  ：copyright： - 自动代码分析工具，以处理技术深度.  与Bitbucket和Gitlab集成.  （免费开源项目）
 * [Gamma](https://mygamma.io) :copyright: - An intelligent software analytics platform that identifies issues from multiple lenses: Design issues, code issues, duplication and metrics. Available for Java, C, C++ and C#.
-* [kiuwan](https://www.kiuwan.com/) ：copyright： - 云中的软件分析支持超过22种编程语言.
+* [kiuwan](https://www.kiuwan.com/) :copyright: - Software Analytics in the Cloud supporting more than 22 programming languages.
 * [Landscape](https://landscape.io/) ：copyright： -  Python的静态代码分析
 * [Layered Insight](https://layeredinsight.com/) ：copyright： - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.
 * [LGTM.com](https://lgtm.com/)  ：copyright： - 对GitHub和Bitbucket进行深度代码分析，以发现安全漏洞和关键代码质量问题（使用Semmle QL）.  拉取请求的自动代码审查;  公共存储库免费.

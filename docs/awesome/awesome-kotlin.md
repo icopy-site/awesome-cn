@@ -304,6 +304,7 @@
 * [charleskorn/kaml](https://github.com/charleskorn/kaml) -  YAML支持kotlinx.serialization
 * [pemistahl/lingua](https://github.com/pemistahl/lingua) - 适用于长文本和短文本的语言检测库
 * [sandjelkovic/kxjtime](https://github.com/sandjelkovic/kxjtime) - 用于java.time API的轻量级Kotlin扩展
+* [pmwmedia/tinylog](https://github.com/pmwmedia/tinylog) - 轻量级日志框架，带有Kotlin的本机日志API
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - 扩展和顶级函数，以在Kotlin 1.0中使用JDK7 / JDK8功能.

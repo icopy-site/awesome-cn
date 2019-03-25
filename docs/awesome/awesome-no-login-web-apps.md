@@ -118,6 +118,7 @@
 * [Archive.org](https://archive.org/) `[帐户]` - 任何类型的无限文件托管，带宽和上传大小没有限制.
 * [imgh](https://imgh.us/)   - 图像托管服务.  支持所有主要格式.  文件大小限制为16mb.
 * [MultCloud](https://www.multcloud.com/home)   - 云服务，用于在多个云服务之间管理，移动，复制和迁移数据.  支持所有主要的云服务.  无需注册，2TB云存储，直接将大文件下载到云端，没有大小限制.
+* [Firefox Send](https://send.firefox.com)   -  Mozilla的免费文件共享程序.  最多1GB无帐户，2.5gb帐户.
 
 
 <a name="games"></a>

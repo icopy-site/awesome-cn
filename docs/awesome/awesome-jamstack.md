@@ -112,6 +112,7 @@
 - [GoCommerce](https://www.gocommerceapi.org) -  JAMstack网站的无头电子商务.
 - [Snipcart](https://snipcart.com/) - 面向开发人员的强大购物车平台.
 - [Moltin](https://moltin.com/) - 面向开发人员的电子商务API.
+- [Trolley](https://trolley.link) - 为JAMstack设计的购物车.
 
 ### Search
 

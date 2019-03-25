@@ -206,6 +206,12 @@
 
 ## Software
 
+#### Annotation tools
+* [Comma Coloring](http://commacoloring.herokuapp.com/)
+* [Annotorious](https://annotorious.github.io/)
+* [LabelME](http://labelme.csail.mit.edu/Release3.0/)
+* [gtmaker](https://github.com/sanko-shoko/gtmaker)
+
 #### External Resource Links
  * [Computer Vision Resources](https://sites.google.com/site/jbhuang0604/resources/vision) - Jia-Bin Huang (UIUC)
  * [Computer Vision Algorithm Implementations](http://www.cvpapers.com/rr.html) -  CVPapers
@@ -698,7 +704,7 @@ BM3D，KSVD，
  * [Learn OpenCV](http://www.learnopencv.com/) - 萨蒂亚马利克
  * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) -  Tomasz Malisiewicz
  * [Computer vision for dummies](http://www.visiondummy.com/) -  Vincent Spruyt
- * [Andrej Karpathy blog](http://karpathy.github.io/) Andrej Karpathy
+ * [Andrej Karpathy blog](http://karpathy.github.io/) -  Andrej Karpathy
  * [AI Shack](http://aishack.in/) -  Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) -  Eugene Khvedchenya
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) -  Jason Chin（西安大略大学）

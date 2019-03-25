@@ -98,6 +98,7 @@
 
 * [dd](https://github.com/phalcon/dd) - 这个包将把`dd`和`dump`助手添加到你的Phalcon应用程序中
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) -  Phalcon应用程序的前端调试器
+* [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) -  Phalcon BB Debugger强大而简单的安装.
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) -  AJAX控制台用于在浏览器中执行PHP代码，具有保存最后一次代码执行的能力
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - 整合 [PHP Debug Bar](http://phpdebugbar.com) 与Phalcon框架
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - 整合 [Whoops](https://filp.github.io/whoops/) 与Phalcon

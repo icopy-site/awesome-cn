@@ -44,7 +44,7 @@
 * [Relate ★ 110 ⧗ 7](https://github.com/lucidsoftware/relate) -  Scala的轻量级，超快速数据库访问层，它抽象了JDBC的特性，同时保持对SQL的完全控制.
 * [Salat ★ 490 ⧗ 9](https://github.com/salat/salat/)   -  MongoDB的ORM.  相关的Play-plugin也可用.
 * [Scala ActiveRecord ★ 297 ⧗ 3](https://github.com/aselab/scala-activerecord) - 用于scala的ORM库，受Ruby on Rails的ActiveRecord的启发.
-* [Scala-Forklift ★ 91 ⧗ 1](https://github.com/lastland/scala-forklift) -  Slick，Git等的类型安全数据库迁移.
+* [Scala-Forklift ★ 91 ⧗ 1](https://github.com/lastland/scala-forklift) -  Slick，Git等的类型安全数据库迁移
 * **[scala-redis ★ 739 ⧗ 1](https://github.com/debasishg/scala-redis)**  - 用于连接到redis服务器的Scala库，具有群集支持
 * [scala-sql ★ 14 ⧗ 34](https://github.com/wangzaixiang/scala-sql) - 另一个用于scala语言的基于SQL的数据库访问库
 * [ScalaRelational ★ 51 ⧗ 1](https://github.com/outr/scalarelational) - 用于定义，修改和查询SQL数据库的类型安全框架.
@@ -166,7 +166,7 @@
 
 *与json一起工作的图书馆.*
 
-* [argonaut](http://argonaut.io/) -  Scala中的纯功能JSON.
+* [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
 * **[circe ★ 824 ⧗ 2](https://github.com/travisbrown/circe)**  - 基于Argonaut的JSON库，取决于Cats
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -  Json的scala diff / patch库
 * [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) -  Jackson的附加模块，以支持Scala特定的数据类型.
@@ -196,7 +196,7 @@
 
 * [fm-flatfile ★ 1 ⧗ 1](https://github.com/frugalmechanic/fm-flatfile) - 非常灵活的平面文件（CSV，TSV，Excel等）Scala读卡器.
 * [kantan.csv ★ 143 ⧗ 24](https://github.com/nrinaudo/kantan.csv) - 具有多个后端的Scala的CSV处理库.
-* [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala.
+* [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - 用于Scala的CSV读/写器.
 
 
 ## Serialization
@@ -228,7 +228,7 @@
 * [FACTORIE ★ 486 ⧗ 7](https://github.com/factorie/factorie) - 用于可部署概率建模的工具包，在Scala中作为软件库实现.
 * [Figaro ★ 461 ⧗ 0](https://github.com/p2t2/figaro) -  Figaro是一种概率编程语言，支持非常丰富的概率模型的开发.
 * [Libra ★ 142](https://github.com/to-ithaca/libra)   - 天秤座是一个基于无形，尖顶和单一操作的维度分析库.  它包含对所有数字类型的SI单位的开箱即用支持.
-* [LoMRF ★ 55](https://github.com/anskarl/LoMRF) -  Scala中Markov Logic Networks的开源实现
+* [LoMRF ★ 55](https://github.com/anskarl/LoMRF) itches-矮中的Mark video Logic Networks开源实现
 * [MGO ★ 37 ⧗ 55](https://github.com/openmole/mgo) - 模块化多目标进化算法优化库强制不变性.
 * [MLLib](https://spark.apache.org/mllib/) -  Spark的机器学习框架
 * [ND4S ★ 201 ⧗ 0](https://github.com/deeplearning4j/nd4s)   - 用于Scala的N维数组和线性代数，其API类似于Numpy.  ND4S是一个scala包装器 [ND4J](http://nd4j.org/).
@@ -367,7 +367,8 @@
 * [scribe ★ 36 ⧗ 3](https://github.com/outr/scribe) - 实用的日志框架，不依赖于任何其他日志框架，可以通过编程方式完全配置.
 * **[Shapeless ★ 2002 ⧗ 0](https://github.com/milessabin/shapeless)**  -  Scala的类型类和依赖类型的通用编程库.
 * [Simulacrum ★ 484 ⧗ 2](https://github.com/mpilquist/simulacrum) -  Scala中类型类的第一类语法支持.
-* [Stateless Future ★ 165 ⧗ 35](https://github.com/qifun/stateless-future) - 全功能Scala语法中的异步编程.
+* [Stateless Future ★ 165 ⧗ 35](https://github.com/qifun/stateless-future) - Asynchronous programming in fully featured Scala syntax.
+* [tinylog ★ 198 ⧗ 0](https://github.com/pmwmedia/tinylog) - 轻量级日志框架，包含Scala的本机日志API.
 * **[Twitter Util ★ 1809 ⧗ 1](https://github.com/twitter/util)**  - 通用Scala库，包括未来的实现和其他并发工具.
 * [wvlet-log ★ 43 ⧗ 13](https://github.com/wvlet/log) - 用于使用颜色和源代码位置增强应用程序日志的库.
 
@@ -377,7 +378,7 @@
 
 * [Agora](https://gitlab.com/aossie/Agora/) - 选举计票算法库.
 * [Ammonite-REPL](http://lihaoyi.github.io/Ammonite/#Ammonite-REPL) - 改进的Scala REPL：语法高亮，输出格式，多行输入等.
-* [BootZooka ★ 331 ⧗ 5](https://github.com/softwaremill/bootzooka) - 使用AngularJS和Akka HTTP快速开始开发Web应用程序的简单项目，无需编写登录，用户注册等.
+* [BootZooka ★ 331 ⧗ 5](https://github.com/softwaremill/bootzooka) - Simple project to quickly start developing a web application using AngularJS and Akka HTTP, without the need to write login, user registration etc.
 * [Eclair ★ 469](https://github.com/ACINQ/eclair)   - 用Scala编写的ACINQ Lightning Network实现.  Lightning Network是一种建立在比特币之上的第二层协议，用于解决可扩展性，隐私，确认时间和许多其他问题.
 * [Fansi ★ 96 ⧗ 15](https://github.com/lihaoyi/fansi) - 用于操纵Fancy Ansi彩色字符串的Scala / Scala.js库
 * [GoogleApiScala ★ 5 ⧗ 3](https://github.com/EckerdCollege/google-api-scala) - 一个简单的scala库，可以控制Google云端硬盘，日历和Admin SDK.
@@ -387,7 +388,7 @@
 * [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - 一个可提高程序性能的Scala编译器插件 -  [see the project web site](http://scala-miniboxing.org) - 减少盒子
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) -  Scala开源量化交易平台
 * [Ostinato ★ 27 ⧗ 7](https://github.com/marianogappa/ostinato) - 在服务器（Scala）和浏览器（ScalaJS）上运行的国际象棋库
-* [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - 简化包装器以在Scala中创建PDF.
+* [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - Simplified wrapper to create PDFs in Scala.
 * [Play Swagger ★ 174 ⧗ 3](https://github.com/iheartradio/play-swagger) - 自动为Play REST API创建Swagger文档
 * [powerscala ★ 11 ⧗ 80](https://github.com/outr/powerscala) - 强大的框架，在Scala语言之上提供许多有用的实用程序和功能.
 * [pprint](https://github.com/lihaoyi/pprint) - 适用于Scala值和类型的漂亮打印机，便于阅读和调试
@@ -429,6 +430,7 @@
 * [Spray](http://spray.io/) - 用于http交互的基于Actor的库.
 * [sttp](https://github.com/softwaremill/sttp) - 您一直想要的Scala HTTP客户端！
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) - 支持与websocket服务器进行双向通信的库.
+* [requests-scala ★ 326](https://github.com/lihaoyi/requests-scala) - 流行的Python请求HTTP客户端的Scala端口：灵活，直观且易于使用.
 
 ## Semantic Web
 
@@ -436,7 +438,7 @@
 
 * [Banana-RDF ★ 207 ⧗ 26](https://github.com/banana-rdf/banana-rdf)   - 针对RDF和关联数据技术的Scala友好抽象.  支持Jena，Sesame和原生Scala.
 * [rdfp ★ 4 ⧗ 50](https://github.com/jannvck/rdfp) -  Scala中的RDF流处理框架
-* [Scowl ★ 16 ⧗ 36](https://github.com/phenoscape/scowl) - Scala DSL allowing a declarative approach to composing OWL expressions and axioms using the OWL API.
+* [Scowl ★ 16 ⧗ 36](https://github.com/phenoscape/scowl) -  Scala DSL允许声明性方法使用OWL API编写OWL表达式和公理.
 
 ## Metrics and Monitoring
 
@@ -476,7 +478,7 @@
 * [sbt-ide-settings ★ 32 ⧗ 27](https://github.com/Jetbrains/sbt-ide-settings) - 用于调整各种IDE设置的SBT插件
 * **[sbt-native-packager ★ 811 ⧗ 3](https://github.com/sbt/sbt-native-packager)**  - 为原生包装系统捆绑Scala软件，如deb，rpm，homebrew，msi ..
 * [sbt-pack ★ 284 ⧗ 7](https://github.com/xerial/sbt-pack) - 用于创建可分发的Scala包的sbt插件.
-* [sbt-pantarhei ★ 3 ⧗ 0](https://github.com/kolov/sbt-pantarhei) - SBT plugin to generate release notes from the pull requests and git commits in GitHub.
+* [sbt-pantarhei ★ 3 ⧗ 0](https://github.com/kolov/sbt-pantarhei) -  SBT插件，用于从GitHub中的pull请求和git提交生成发行说明.
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)**  - 来自sbt的分叉和停止过程.
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) -  Scala中用于iOS开发的sbt插件
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) - 一个sbt插件，用于配置Github上托管的Scala.js项目的源映射
@@ -546,7 +548,7 @@
 
 
 ### Misc.
-* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - 对一些核心语言概念的一口大小的介绍.
+* [A Tour of Scala](http://docs.scala-lang.org/tour/tour-of-scala.html) - 对一些核心语言概念的大小介绍.
 * [CA Art](https://github.com/makingthematrix/ca_art) - 一个旨在通过细胞自动机实验来学习中级Scala的小项目
 * **[Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2](https://github.com/jacksu/utils4s)**  - 使用中文编写的示例Scala库使用的回购
 * [Deploying Scala libraries to Sonatype for dummies ★ 23 ⧗ 25](https://github.com/larroy/deployingScalaLibrariesToSonatype) - 没有
@@ -555,7 +557,7 @@
 * [Essential Scala](https://underscore.io/books/essential-scala/) - 没有
 * [Functional Programming in Scala](https://www.coursera.org/specializations/scala)   - 由Martin Odersky等人创建的Coursera Specialization（5门课程）.  在洛桑联邦理工学院（瑞士联邦理工学院洛桑分校）.
 * [Functional Programming for Mortals](https://leanpub.com/fpmortals/read) - 没有
-* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) - Tutorial-driven introduction to Scala
+* [Get Programming with Scala](https://www.manning.com/books/get-programming-with-scala) -  Scala的教程驱动介绍
 * [Introduction to programming with dependent types in Scala](https://stepik.org/course/2294/) -  Dmytro Mitin的视频课程
 * [Learn-by-doing functional programming course on Scala](https://github.com/dehun/learn-fp/) - 涵盖类型类，仿函数，应用程序，monad，monad变换器，免费monad
 * [Programming Community Curated Resources for Learning Scala](https://hackr.io/tutorials/learn-scala)

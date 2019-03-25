@@ -9,7 +9,7 @@
 
 请阅读 [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) 如果你想贡献.
 
-**看看我 [blog](http://manfredtouron.tumblr.com)  或者说* hi * on [Twitter](https://twitter.com/moul).**
+**看看我 [blog](https://manfred.life/)  或者说* hi * on [Twitter](https://twitter.com/moul).**
 
 
 

@@ -42,7 +42,7 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -  NFO文件的简单查看器，具有预设字体和编码设置的文本编辑器以及可点击的超链接支持.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 扫描文档和PDF的个人文档管理器.
 - [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
 - [Bookworm](https://github.com/babluboy/bookworm) - 简单，专注的电子书阅读器，在GNOME中看起来很棒.
 - [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
@@ -53,7 +53,7 @@
 - [Webmusic](https://github.com/badcel/webmusic) - 基于Web的音乐播放器，可将您喜爱的音乐服务集成到桌面中.
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于Web的音乐流媒体服务的运行时，提供更加原生的用户体验并与Linux桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) - 功能强大，美观，简单的播客客户端，适用于现代免费桌面.
-- [GNOME MPV](https://github.com/gnome-mpv/gnome-mpv) - 用于GNOME的MPV媒体播放器的GUI.
+- [Celluloid](https://github.com/celluloid-player/celluloid) -  mpv的简单GTK +前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美妙的音乐应用.
 - [GRadio](https://github.com/haecker-felix/gradio/) - 基于网络的无线电客户端.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
@@ -117,7 +117,7 @@
 
 ### Applets
 
-- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - 允许您停用GNOME锁定屏幕的Applet.
+- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - 状态菜单显示可移动驱动器.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - 天气小程序.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - 环境噪音小程序.

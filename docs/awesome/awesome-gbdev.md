@@ -449,7 +449,9 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) - 用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - 使用STAT中断做一些有趣的视频操作的一些小实验.
 - [gbos](https://github.com/ekimekim/gbos) -  Game Boy的基本操作系统.
-
+- [Game Boy Link Cable Breakout Board](https://github.com/Palmr/gb-link-cable)
+- [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
+- [VerilogBoy](https://github.com/zephray/VerilogBoy/) -  Game Boy兼容控制台Verilog RTL实现.
 
 ### Directories
 

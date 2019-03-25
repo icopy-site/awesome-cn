@@ -27,7 +27,7 @@
     *  [Driver for Linux for Tegra (L4T)](https://developer.nvidia.com/embedded/vulkan)
 *  [AMD](http://www.amd.com/en-gb/innovations/software-technologies/technologies-gaming/vulkan)
     *  [Open-source Driver](https://github.com/GPUOpen-Drivers/AMDVLK)
-*  [Imagination](https://imgtec.com/tools/powervr-early-access-program/)
+*  [Imagination](https://www.imgtec.com/developers/powervr-sdk-tools/)
 *英特尔
     *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
     *  [Driver for Windows](https://software.intel.com/en-us/blogs/2016/03/14/new-intel-vulkan-beta-1540204404-graphics-driver-for-windows-78110-1540)
@@ -76,7 +76,8 @@
         * [Part 4: Vertex Attributes](https://software.intel.com/en-us/articles/api-without-secrets-introduction-to-vulkan-part-4)
 * [Imagination](http://blog.imgtec.com/tag/vulkan)
     * [Efficient Rendering with Vulkan on PowerVR](https://imagination-technologies-cloudfront-assets.s3.amazonaws.com/idc-docs/gdc16/6_Efficient%20rendering%20with%20Vulkan%20on%20PowerVR.pdf)
-    *  [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
+    * [Migrating to Vulkan with the New PowerVR Graphics Framework](https://www.imgtec.com/webinar/migrating-to-vulkan-with-the-powervr-framework/)
+    * [Migrating from OpenGLES to Vulkan](https://www.imgtec.com/downloads/download-info/migrating-from-opengl-es-to-vulkan/)
 * Samgsung
     * [Siggraph 2016 - Best Practices for Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/2_2D00_mmg_2D00_siggraph2016_2D00_best_2D00_practice_2D00_andrew.pdf)
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) （适用于手机）
@@ -130,7 +131,7 @@ drm/kms.
 *  [Stardust from Intel](https://github.com/GameTechDev/stardust_vulkan) -  Stardust示例应用程序使用Vulkan图形API有效地渲染动画粒子云. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
 *  [Vulkan Quake port based on QuakeSpasm](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) -  Overv的教程 [SharpVk](https://github.com/FacticiusVir/SharpVk) [MIT]
-*  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)   -  VFPR  - 火山正向加渲染.  [MIT]
+*  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)   -  VFPR  - 火山前锋和渲染器.  [MIT]
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) -  Vulkan实现实时PBR渲染器.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) -  Vulkan和D3D12渲染器的单头实现.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)   - 基于Vulkan的简单渲染器，用于我的实时透明度硕士论文.  [CC BY-SA 4.0]
