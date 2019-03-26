@@ -732,7 +732,7 @@
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7)   - 用于C ++的模式匹配库.  [BSD]
 * [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
-* [Nameof](https://github.com/Neargye/nameof)   - 仅标题C ++ 17库提供了名称宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
+* [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了名称宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]

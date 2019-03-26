@@ -486,6 +486,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [osx](https://github.com/mwilliammyers/plugin-osx) - 添加一些常见的macOS相关别名和功能.
 * [paci](https://github.com/iloginow/zsh-paci) -  archlinux包管理器的插件.
 * [pantheon-terminal-notify](https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin)   - 长时间运行命令的背景通知.  支持小学OS Freya.
+* [passwordless-history](https://github.com/jgogstad/passwordless-history) - 防止密码输入命令行历史记录
 * [pctl](https://github.com/ytet5uy4/pctl) - 切换代理的环境变量.
 * [peco-history](https://github.com/jimeh/zsh-peco-history) - 按ctrl + R时，使用Peco搜索shell历史记录.
 * [percol](https://github.com/robturtle/percol.plugin.zsh) - 使用互动和增量搜索历史/恢复后台作业 [percol](https://github.com/mooz/percol).

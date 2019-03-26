@@ -44,8 +44,8 @@
 - [ReactJS Newsletter](http://reactjsnewsletter.com/) .  最好的React.js新闻和文章的免费每周通讯.
 - [React Native Newsletter](http://reactnative.cc/) .  免费偶尔总结React Native新闻，文章，问题和拉取请求，库和应用程序.
 - [Fullstack React](http://newsletter.fullstackreact.com/) .  关于React生态系统的新闻通讯，重点介绍有用的库，教程和代码. [Archive](http://newsletter.fullstackreact.com/issues).
-- [React Digest](https://www.getrevue.co/profile/the-react-digest) .  每周精心挑选最好的React JS资源.
-- [React Digest 2](https://reactdigest.net/) .  5个链接;  Flux，Redux，MobX，React和React Native我们正在观看所有内容，所以注册并获得每周javascript的精彩部分.
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest) .  每周精心挑选最好的React JS资源.
+- [React Digest](https://reactdigest.net/) .  React开发者的每周简报，前5个链接. [Archive](https://reactdigest.net/digests).
 - [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe) .  关于React和生态系统的每周简报.
 - [React Status](https://react.statuscode.com/) .  每周综述最新的React和React Native链接和教程.
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter) .  每周概述最受欢迎的React新闻，文章和图书馆.
@@ -112,7 +112,7 @@
 ### Common Section
 
 - [O’Reilly Programming Newsletter](https://www.oreilly.com/programming/newsletter.html) .  每周收到业内人士的编程新闻和见解.
-- [Programming Digest](https://programmingdigest.net/) .  5个链接，一篇文章从周一到周五，有关于编程，大数据，架构，开发过程，数据库的最有趣的新闻 - 你的名字.
+- [Programming Digest](https://programmingdigest.net/) .  每周一次的软件工程师通讯，包括前5个链接. [Archive](https://programmingdigest.net/digests).
 - [Morning Cup of Coding](https://www.humanreadablemag.com/morningcupofcoding) .  每日时事通讯，包含所有编程领域的长篇技术文章.
 - [Weekly Dev Tips](https://ardalis.com/tips) .  每周三每周发送一封电子邮件，提供新的软件开发提示 [Steve "ardalis" Smith](https://twitter.com/ardalis) .  主题包括从git到职业，Web开发，个人发展和团队合作.
 - [LLVM Weekly](http://llvmweekly.org) .  每周简报，内容涉及LLVM，Clang及相关项目的发展.
@@ -125,8 +125,8 @@
 
 ### C
 
-- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring the top 5 c# links of the week.
-- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter) .  一系列令人敬畏的.Net库，工具和框架.
+- [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
+- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
 
 ### Node.js
 
@@ -143,7 +143,7 @@
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter) .  介绍Swift by Sundell每月简报！
 - [iOS Goodies](https://ios-goodies.com) .  每周iOS时事通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) .  最好的iOS开发，营销，Swift，设计和Xcode链接. [Archive](https://indieiosfocus.com/issues).
-- [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
+- [Swift Developments](https://andybargh.com/swiftdevelopments/) .  每周策划的时事通讯，包含精选的最新链接，视频，工具和教程，供有兴趣使用Swift设计和开发自己的iOS，macOS，watchOS和tvOS应用的人们使用.
 
 ### Go
 
@@ -208,7 +208,7 @@
 ### Rust
 
 - [This Week in Rust](https://this-week-in-rust.org) .  随时了解Rust社区的活动，学习资源和最新发展. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
-- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
+- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter) .  Rust库和资源的精选列表.
 
 ### C++
 
@@ -274,7 +274,7 @@
 
 - [DevOps Weekly](https://www.devopsweekly.com/) .  每周一片devops新闻.
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/) .  本周最好的DevOps链接发送到您的收件箱
-  每个星期天都以DevOps简报的形式出现.
+  every Sunday in the form of the DevOps newsletter.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified) .  Sysadmin Casts  - 一口大小的系统管理员截屏（每周发布）.
 - [Server Admin for Programmers](https://serversforhackers.com/)
 - [Cron.Weekly](https://www.cronweekly.com) .  每周日发布的每周简报，包含针对Linux系统管理员量身定制的新闻和工具. [Archige](https://www.cronweekly.com/archives/).
@@ -316,6 +316,7 @@
 - [Inside AI](https://inside.com/ai) .  每周通讯为您带来最新的人工智能，机器人和神经科技.
 - [Data Prism](http://dataprism.co/) .  Data Prism是关于数据科学，机器学习，人工智能和分析领域的初创公司和公司的策划新闻的每周出版物.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) .  人工智能的最新突破，应用和污染. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
+- [AI Digest](https://aidigest.net/) .  每周通讯，以跟上人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 
 ## Technology in General
 
@@ -357,7 +358,7 @@
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/) .  为企业家提供免费的每周时事通讯，包括最佳策展内容，必须阅读文章，如何指导，提示和技巧，资源，事件等.
+- [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
 - [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.
@@ -371,7 +372,7 @@
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
 - [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
-- [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
+- [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
 - [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 - [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 - [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.

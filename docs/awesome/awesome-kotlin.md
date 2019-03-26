@@ -153,7 +153,7 @@
 * [Ekito/koin](https://github.com/Ekito/koin) - 适用于Android和JVM的功能性Kotlin依赖注入框架.
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
-* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
+* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - 为Kotlin中的协同程序设计文档和示例.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - 建立在Kotlin协同上的图书馆.
 * [soywiz/korio](https://github.com/soywiz/korio) -  Korio：Kotlin cORoutines I / O：用于JVM，Node.JS和浏览器的Streams +异步TCP客户端/服务器+虚拟文件系统.
 * [soywiz/korim](https://github.com/soywiz/korim) -  Korim：Kotlin coroutines IMaging实用程序取决于Korio.
@@ -194,7 +194,7 @@
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) -  Kotlin中一个方便的数据库访问库.
 * [andrewoma/kwery](https://github.com/andrewoma/kwery) -  Kwery是Kotlin的SQL库.
 * [square/sqldelight](https://github.com/square/sqldelight) - 从CREATE TABLE语句生成Java模型.
-* [x2bool/kuery](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
+* [x2bool/kuery](https://github.com/x2bool/kuery) - 使用Kotlin键入安全SQL.
 * [Litote/kmongo](https://github.com/Litote/kmongo) -  KMongo  -  Mongo的Kotlin工具包
 * [requery/requery](https://github.com/requery/requery) -  Java / Kotlin / Android的基于SQL的现代查询和持久性.
 * [consoleau/kotlin-jpa-specification-dsl](https://github.com/consoleau/kotlin-jpa-specification-dsl) - 该库提供了一个流畅的DSL，用于使用弹簧数据规范查询弹簧数据JPA存储库.
@@ -269,7 +269,7 @@
 * [mplatvoet/progress](https://github.com/mplatvoet/progress) -  Kotlin的进展.
 * [sargunster/CakeParse](https://github.com/sargunster/CakeParse) -  Kotlin的简单解析器组合库.
 * [sargunster/KtUnits](https://github.com/sargunster/KtUnits) -  Kotlin的微小单位转换库.
-* [hotchemi/khronos](https://github.com/hotchemi/khronos) -  Kotlin中的直观日期扩展.
+* [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
 * [yole/kxdate](https://github.com/yole/kxdate) -  Java 8 java.time API的Kotlin扩展
 * [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) -  jclasslib字节码查看器是一个可视化编译的Java类文件和包含的字节码的所有方面的工具.
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) -  krangl是一个用于数据转换的{K} otlin库
@@ -485,6 +485,7 @@
 * [bakhtiyork/gradients](https://github.com/bakhtiyork/gradients) - 精选渐变的精选集合
 * [hpost/RxBrainwaves](https://github.com/hpost/rx-brainwaves) - 用于NeuroSky MindWave耳机的RxJava包装器
 * [adrielcafe/KrumbsView](https://github.com/adrielcafe/KrumbsView) -  Android的终极面包屑视图！
+* [inshiro/Skate](https://github.com/inshiro/skate) - 一个简单易用的Android片段堆栈控制器
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - 使用MVP架构的kotlin上的android开发框架.
@@ -513,7 +514,7 @@
 * [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 一个简单的文本字段，用于添加无广告的快速笔记.
 * [ahong222/happy21](https://github.com/ahong222/happy21) - 一个简单的黑杰克游戏与kotlin写
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - 广泛的Kotlin Android Utils系列
-* [inshiro/Kitvei](https://github.com/inshiro/Kitvei) - 适用于Android的免费和开源圣经
+* [inshiro/Kodesh](https://github.com/inshiro/Kodesh) - 适用于Android的免费和开源圣经
 * [hanjoongcho/aaf-easyphotomap](https://github.com/hanjoongcho/aaf-easyphotomap) - 这是一个照片地图应用程序，显示在地图上拍摄的照片.
 * [Karumi/KataScreenshotKotlin](https://github.com/Karumi/KataScreenshotKotlin) - 全面练习，了解如何为Android创建屏幕截图测试
 * [massivedisaster/AFM](https://github.com/massivedisaster/AFM) - 一个帮助Android开发人员轻松处理Kotlin活动和片段的库
@@ -819,7 +820,7 @@
 * [Kotlin 1.0.5 is here](http://kotlin.link/articles/Kotlin-1-0-5-is-here.html) - 德米特里·杰梅罗夫
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
-* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
+* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - Amit Shekhar
 * [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里

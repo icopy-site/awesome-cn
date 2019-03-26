@@ -30,76 +30,76 @@
 - [Stack Overflow](http://stackoverflow.com/questions/5654447/whats-the-difference-between-scss-and-sass) -  SCSS和Sass有什么区别？
 
 ## Frameworks
+- [avalanche](https://avalanche.oberlehner.net) - 构建基于包的CSS工作流的基础的框架.
 - [Bootstrap 4](https://github.com/twbs/bootstrap) -  Bootstrap版本4，最流行的HTML，CSS和JS框架，用于在Web上开发响应式移动优先项目.
 - [Bootstrap-sass](https://github.com/twbs/bootstrap-sass) -  Bootstrap 2和3的官方Sass端口.
+- [Bulma](https://github.com/jgthms/bulma) - 基于Flexbox的现代CSS框架.
 - [Foundation for Sites](https://github.com/zurb/foundation-sites)   - 世界上最先进的响应式前端框架.  快速为适用于任何类型设备的站点创建原型和生产代码.
+- [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - 通用和轻量级样式表入门套件，专注于基本html元素和排版.
+- [iotaCSS](https://www.iotacss.com) - 基于Sass的开源OOCSS框架，用于扩展.
+- [Kickoff](http://trykickoff.com) -  Kickoff是一个轻量级的前端框架，用于创建可扩展，高性能和响应迅速的站点.
+- [Materialize](http://materializecss.com) - 基于Material Design的现代响应式前端框架.
+- [mini.css](http://minicss.org/) - 最小化，反应灵敏，与风格无关的CSS框架.
 - [Scooter](http://dropbox.github.io/scooter/) - 构建SCSS框架，为Dropbox提供基本样式，CSS组件和快速静态原型.
 - [Sierra](http://sierra-library.github.io/) -  Micro SCSS库，帮助您构建网站，无需任何选择器.
-- [Kickoff](http://trykickoff.com) -  Kickoff是一个轻量级的前端框架，用于创建可扩展，高性能和响应迅速的站点.
-- [Hocus-Pocus](https://bkzl.github.io/hocus-pocus/) - 通用和轻量级样式表入门套件，专注于基本html元素和排版.
-- [Materialize](http://materializecss.com) - 基于Material Design的现代响应式前端框架.
-- [Bulma](https://github.com/jgthms/bulma) - 基于Flexbox的现代CSS框架.
-- [iotaCSS](https://www.iotacss.com) - 基于Sass的开源OOCSS框架，用于扩展.
-- [mini.css](http://minicss.org/) - 最小化，反应灵敏，与风格无关的CSS框架.
-- [avalanche](https://avalanche.oberlehner.net) - 构建基于包的CSS工作流的基础的框架.
 
 ## Libraries and Mixins
 
 ### Grid
-- [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - 简单，流畅，可嵌套，灵活，基于Sass的响应式网格系统.
-- [Gridlex](http://gridlex.devlint.fr/) -  Flexbox网格系统.
-- [Neat](http://neat.bourbon.io/) - 使用Sass构建的轻量级语义网格框架.
-- [SCSS Flexible Grid System](https://dnomak.com/flexiblegs/install/scss/) -  SCSS灵活的网格系统.
-- [Sass Flexible Grid System](https://dnomak.com/flexiblegs/install/sass/) -  Sass灵活的网格系统.
-- [Susy](https://github.com/oddbird/susy) -  Sass的响应式布局工具包.
 - [Avalanche](http://colourgarden.net/avalanche) - 轻量级，响应式，基于Sass的BEM语法网格系统.
-- [Toast](http://daneden.github.io/Toast/) - 来自创建者的灵活轻量级网格框架 [animate.css](https://daneden.github.io/animate.css/).
-- [Jeet](https://github.com/mojotech/jeet) -  Sass和Stylus的简单分数网格系统.
+- [csswizardry-grids](http://csswizardry.com/csswizardry-grids/) - 简单，流畅，可嵌套，灵活，基于Sass的响应式网格系统.
 - [Griddle](http://necolas.github.io/griddle/) - 极其灵活的CSS网格构造函数.
+- [Gridlex](http://gridlex.devlint.fr/) -  Flexbox网格系统.
+- [Jeet](https://github.com/mojotech/jeet) -  Sass和Stylus的简单分数网格系统.
+- [Neat](http://neat.bourbon.io/) - 使用Sass构建的轻量级语义网格框架.
+- [Sass Flexible Grid System](https://dnomak.com/flexiblegs/install/sass/) -  Sass灵活的网格系统.
+- [SCSS Flexible Grid System](https://dnomak.com/flexiblegs/install/scss/) -  SCSS灵活的网格系统.
+- [Susy](https://github.com/oddbird/susy) -  Sass的响应式布局工具包.
+- [Toast](http://daneden.github.io/Toast/) - 来自创建者的灵活轻量级网格框架 [animate.css](https://daneden.github.io/animate.css/).
 - [Waffle Grid](https://lucasgruwez.github.io/waffle-grid/) - 易于使用的flexbox网格系统.
 
 ### Media Queries
+- [Breakpoint](https://github.com/at-import/breakpoint) -  Breakpoint使得在Sass中编写媒体查询变得非常简单.
 - [include-media](http://include-media.com/) - 简单，优雅和可维护的媒体查询.
+- [mq-scss](https://github.com/Dan503/mq-scss) - 一个极其强大但易于使用的Sass媒体查询mixin.
 - [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - 为Sass收集有用的媒体查询mixins（包括iOS设备，电视等）.
 - [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
-- [Breakpoint](https://github.com/at-import/breakpoint) -  Breakpoint使得在Sass中编写媒体查询变得非常简单.
-- [mq-scss](https://github.com/Dan503/mq-scss) - 一个极其强大但易于使用的Sass媒体查询mixin.
 
 ### Color
-- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - 在Sass中使用标准颜色混合功能.
 - [brand-colors](http://brand-colors.com/) -  Sass，Less，Stylus和CSS提供1100多种流行品牌颜色.
 - [Open color](https://github.com/yeun/open-color)   - 开放颜色是UI设计的颜色方案.  提供CSS，SCSS，LESS，Stylus，Adobe库，Photoshop / Illustrator样本和Sketch调色板.
 - [sass-planifolia](https://github.com/xi/sass-planifolia) - 香草Sass中的高级色彩处理和对比度计算.
+- [scss-blend-modes](https://github.com/heygrady/scss-blend-modes) - 在Sass中使用标准颜色混合功能.
 
 ### Typography
 - [Sassline](https://sassline.com/) - 使用响应式模块化规模，使用Sass＆rems将Web上的文本设置为基线网格.
-- [Typi](https://github.com/zellwk/typi) -  Sass mixin使响应式排版变得容易.
 - [Sassy-Gridlover](https://github.com/hiulit/Sassy-Gridlover)   - 超级易于使用Sass mixins建立具有模块化规模和垂直节奏的印刷系统.  基于Gridlover应用程序.
 - [Shevy](http://kyleshevlin.github.io/shevy/)   - 排版很容易.  垂直节奏库.
+- [Typi](https://github.com/zellwk/typi) -  Sass mixin使响应式排版变得容易.
 
 ### Animation
-- [Sass Burger](https://github.com/jorenvanhee/sass-burger) -  Sass mixin用于创建动画汉堡包图标.
-- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - 用于单元件装载机和旋转器的SCSS混合装置.
 - [Animate.scss](https://github.com/geoffgraham/animate.scss) - 丹伊甸港 [Animate.css](https://daneden.github.io/animate.css/) 为SASS.
 - [Hover](http://ianlunn.github.io/Hover/)   - 收集CSS3动力悬停动画效果，应用于链接，按钮，徽标，SVG，特色图像等.  提供CSS，Sass和LESS.
 - [Kf](https://kf-sass.com) -  Sass mixin库，用于从地图创建基于关键帧的动画.
+- [Sass Burger](https://github.com/jorenvanhee/sass-burger) -  Sass mixin用于创建动画汉堡包图标.
+- [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - 用于单元件装载机和旋转器的SCSS混合装置.
 
 ### Miscellaneous
-- [Bourbon](http://bourbon.io/) -  Sass简单轻巧的mixin库.
-- [Family.scss](http://lukyvj.github.io/family.scss/) - 一套26个智能Sass mixins，它将帮助您以简单而优雅的方式管理nth-child&#39;ified元素的风格.
-- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Normalize.css的Sass / Compass版本，HTML元素和属性规则集的集合，用于规范所有浏览器的样式.
-- [Buttons](https://github.com/alexwolfe/Buttons) - 使用Sass和Compass构建的CSS按钮库.
-- [Modular Scale](https://github.com/modularscale/modularscale-sass) - 模块化比例计算器内置于您的Sass中.
-- [Scut](https://github.com/davidtheclark/scut) - 收集Sass实用程序，以简化和改进常见样式代码模式的实现.
-- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - 为那些想要使用当前浏览器的原生支持来使用flexbox的人们设置mixins.
 - [Angled Edges](https://github.com/josephfusco/angled-edges) -  Sass mixin通过动态编码SVG在部分上创建倾斜边缘.
+- [Bourbon](http://bourbon.io/) -  Sass简单轻巧的mixin库.
+- [Buttons](https://github.com/alexwolfe/Buttons) - 使用Sass和Compass构建的CSS按钮库.
+- [csstyle](https://csstyle.io) - 一个SCSS库，可帮助您构建模块化CSS，为您生成选择器并自动处理特异性.
+- [Family.scss](http://lukyvj.github.io/family.scss/) - 一套26个智能Sass mixins，它将帮助您以简单而优雅的方式管理nth-child&#39;ified元素的风格.
+- [Juice](http://kylebrumm.com/juice/) - 收集Sass mixins和函数.
+- [Modular Scale](https://github.com/modularscale/modularscale-sass) - 模块化比例计算器内置于您的Sass中.
+- [normalize-scss](https://github.com/JohnAlbin/normalize-scss) -  Normalize.css的Sass / Compass版本，HTML元素和属性规则集的集合，用于规范所有浏览器的样式.
+- [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS / CSS库，用于美化复选框和单选按钮.
 - [retina.js](https://github.com/imulus/retinajs) - 用于渲染高分辨率图像变体的JavaScript，SCSS，Sass，Less和Stylus助手.
 - [Sass Accoutrement](http://oddbird.net/open-source/accoutrement/)   -  Accoutrement模块是Sass工具包，它们协同工作以形成项目的中央配置.  这些工具可以单独使用，也可以集成以获得额外的功率.
-- [Sassdash](https://github.com/davidkpiano/sassdash) -  Lodash的Sass实现（[API documentation](http://davidkpiano.github.io/sassdash)).
-- [Juice](http://kylebrumm.com/juice/) - 收集Sass mixins和函数.
 - [Sass Deprecate](https://github.com/salesforce-ux/sass-deprecate) -  Sass mixin，有助于管理代码弃用.
-- [Pretty checkbox](https://github.com/lokesh-coder/pretty-checkbox) -  SCSS / CSS库，用于美化复选框和单选按钮.
-- [csstyle](https://csstyle.io) - 一个SCSS库，可帮助您构建模块化CSS，为您生成选择器并自动处理特异性.
+- [Sass flexbox mixin](https://github.com/mastastealth/sass-flex-mixin) - 为那些想要使用当前浏览器的原生支持来使用flexbox的人们设置mixins.
+- [Sassdash](https://github.com/davidkpiano/sassdash) -  Lodash的Sass实现（[API documentation](http://davidkpiano.github.io/sassdash)).
+- [Scut](https://github.com/davidtheclark/scut) - 收集Sass实用程序，以简化和改进常见样式代码模式的实现.
 
 ## Style Guides
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - 编写理智，可维护和可扩展Sass的指南.
@@ -125,21 +125,21 @@
 - [Advanced Use of Sass Maps](https://itnext.io/advanced-use-of-sass-maps-bd5a47ca0d1a)
 
 ## Tools
-- [libsass](https://github.com/sass/libsass) -  Sass编译器的C / C ++实现.
-- [node-sass](https://github.com/sass/node-sass) -  Node.js绑定到libsass.
 - [dart-sass](https://github.com/sass/dart-sass) -  Dart实施Sass.
-- [SassDoc](http://sassdoc.com/) - 文档系统（如JSDoc for JavaScript）在眨眼之间构建漂亮而强大的文档.
-- [sass-loader](https://github.com/jtangelder/sass-loader) - 用于webpack的Sass加载程序.
-- [libsass-python](https://github.com/dahlia/libsass-python) - 用于Python的libsass绑定.
-- [Scout-App](http://scout-app.io/) - 将Sass和SCSS文件处理到CSS中，而无需了解命令行.
-- [sass-rails](https://github.com/rails/sass-rails) - 用于Sass的Ruby on Rails样式表引擎.
-- [scss-lint](https://github.com/brigade/scss-lint) - 用于编写干净且一致的SCSS的可配置工具. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
-- [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用适用于GitHub的OctoLinker浏览器扩展，有效地浏览* .scss和* .sass文件.
-- [stylelint](https://stylelint.io/)   - 强大的现代CSS linter，可帮助您实施一致的约定并避免样式表中的错误.  支持类似CSS的语法，包括SCSS.
 - [diamond](https://diamond.js.org) - 为Sass，Less和CSS构建的依赖管理.
+- [libsass-python](https://github.com/dahlia/libsass-python) - 用于Python的libsass绑定.
+- [libsass](https://github.com/sass/libsass) -  Sass编译器的C / C ++实现.
 - [node-sass-magic-importer](https://github.com/maoberlehner/node-sass-magic-importer) - 自定义node-sass导入程序，用于选择器特定的导入，节点导入，模块导入，globbing支持和仅导入文件一次.
-- [SharpScss](https://github.com/xoofx/SharpScss) - 使用libsass的P / Invoke .NET包装器将SCSS转换为支持NET2.0 / NET3.5 / NET4.x +和CoreCLR平台的CSS.
+- [node-sass](https://github.com/sass/node-sass) -  Node.js绑定到libsass.
+- [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用适用于GitHub的OctoLinker浏览器扩展，有效地浏览* .scss和* .sass文件.
 - [sass-extract](https://github.com/jgranstrom/sass-extract)   - 从scss文件中提取变量.  使用scss通过将计算样式提取到js对象中来描述在javascript中使用的样式.  支持导入和高级语言功能.
+- [sass-loader](https://github.com/jtangelder/sass-loader) - 用于webpack的Sass加载程序.
+- [sass-rails](https://github.com/rails/sass-rails) - 用于Sass的Ruby on Rails样式表引擎.
+- [SassDoc](http://sassdoc.com/) - 文档系统（如JSDoc for JavaScript）在眨眼之间构建漂亮而强大的文档.
+- [Scout-App](http://scout-app.io/) - 将Sass和SCSS文件处理到CSS中，而无需了解命令行.
+- [scss-lint](https://github.com/brigade/scss-lint) - 用于编写干净且一致的SCSS的可配置工具. [(deprecated)](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
+- [SharpScss](https://github.com/xoofx/SharpScss) - 使用libsass的P / Invoke .NET包装器将SCSS转换为支持NET2.0 / NET3.5 / NET4.x +和CoreCLR平台的CSS.
+- [stylelint](https://stylelint.io/)   - 强大的现代CSS linter，可帮助您实施一致的约定并避免样式表中的错误.  支持类似CSS的语法，包括SCSS.
 
 ## Books
 - [Sass in the Real World: Book I of IV](https://anotheruiguy.gitbooks.io/sassintherealworld_book-i/content/)

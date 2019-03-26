@@ -57,6 +57,7 @@
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
   * [IP2Location](https://www.ip2location.com)   - 免费IP地理定位服务.  LITE数据库可免费下载.  在服务器中导入数据库并执行本地查询以确定城市，坐标和ISP信息.
   * [FraudLabs Pro](https://www.fraudlabspro.com)   - 筛选信用卡付款欺诈的订单交易.  此REST API将根据订单的输入参数检测所有可能的欺诈特征.  Free Micro计划每月有500笔交易.
+  * [IPList](https://www.iplist.cc)   - 查找有关任何IP地址的详细信息，例如地理IP信息，地址，主机名和ASN详细信息.  个人和企业用户免费.
 
 ## Artifact Repos
 
@@ -88,7 +89,7 @@
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
   * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
-  * [cnverg.com](https://www.cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
+  * [cnverg.com](https://www.cnverg.com/)   - 实时共享可视化工作区，白板，GitHub集成.  免费5 GB，5个空格和5个合作者，没有GitHub回购
   * [flock.com](https://flock.com)   - 团队沟通的更快捷方式.  免费无限消息，频道，用户，应用和集成
   * [Igloo](https://www.igloosoftware.com/) - 用于共享文档，博客和日历等的内部门户.最多可供10位用户免费使用.
   * [riot.im](https://about.riot.im/)   - 基于Matrix构建的分散式通信工具.  群聊，直接消息传递，加密文件传输，语音和视频聊天，以及与其他服务的轻松集成.
@@ -98,7 +99,7 @@
 
   * [tachikoma.io](https://tachikoma.io/) -  Ruby，Node.js，Perl项目的依赖更新，免费开源
   * [deppbot.com](https://www.deppbot.com/) -  Ruby项目的自动依赖更新，开源免费
-  * [landscape.io](https://landscape.io/) -  Python项目的代码质量，免费用于开源
+  * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/)   - 自动代码审查，免费开源和无限组织拥有的私人回购（最多4个合作者）.  学生和机构也免费.
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
   * [coveralls.io](https://coveralls.io/) - 显示免费的开源测试覆盖率报告
@@ -199,7 +200,7 @@
 
   * [humio.com](https://www.humio.com/) - 最多2 GB /天，保留7天
   * [logentries.com](https://logentries.com/) - 最多5 GB /月，保留7天
-  * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
+  * [loggly.com](https://www.loggly.com/) - 对于单个用户免费，请参阅lite选项
   * [logz.io](https://logz.io/) - 免费最多1 GB /天，保留3天
   * [papertrailapp.com](https://papertrailapp.com/) -  48小时搜索，7天存档，100 MB /月
   * [rollbar.com](https://rollbar.com) - 每月免费最多5000个活动，保留30天
@@ -274,7 +275,7 @@
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
   * [mailjet.com](https://www.mailjet.com/) - 每月6,000封电子邮件免费
-  * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
+  * [sendinblue.com](https://www.sendinblue.com/) - 每月9,000封电子邮件免费
   * [mailtrap.io](https://mailtrap.io/) - 用于开发的虚假SMTP服务器，包含1个收件箱的免费计划，50条消息，没有团队成员，2封电子邮件/秒，没有转发规则
   * [zoho.com](https://www.zoho.com/mail/) - 最多25个用户的免费电子邮件管理和协作
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
@@ -440,17 +441,17 @@
    * [taiga.io](https://taiga.io/) - 面向初创公司和敏捷开发人员的项目管理平台，免费开源
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
-   * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
+   * [asana.com](https://asana.com/) — Free for private project with collaborators
    * [acunote.com](https://acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
    * [gliffy.com](https://gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
-   * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
+   * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
    * [visualstudio.com](https://www.visualstudio.com//products/what-is-visual-studio-online-vs)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [overv.io](https://overv.io/) - 为喜欢GitHub的团队提供敏捷的项目管理
-   * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
+   * [taskulu.com](https://taskulu.com/) — Role based project management. Free up to 5 users. Integration with GitHub/Trello/Dropbox/Google Drive
    * [contriber.com](https://contriber.com/) - 可定制的项目管理平台，免费入门计划，5个工作区
    * [planitpoker.com](https://www.planitpoker.com/) - 免费在线策划扑克（估算工具）
    * [ubertesters.com](https://ubertesters.com/) - 测试平台，集成和众筹，2个项目，5个成员
@@ -472,14 +473,14 @@
    * [plot.ly](https://plot.ly/)   - 绘制并共享您的数据.  免费套餐包括无限制的公共文件和10个私人文件
    * [transloadit.com](https://transloadit.com/)   - 处理文件上传和视频，音频，图像，文档的编码.  免费开源和其他do-gooders.  商业应用程序可免费试用1 GB
    * [podio.com](https://podio.com/) - 您可以将Podio与最多五人的团队一起使用，并尝试基本计划的功能，但用户管理除外
-   * [shrinkray.io](https://shrinkray.io/) -  GitHub repos的免费图像优化
+   * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
    * [kraken.io](https://kraken.io/) - 网站性能即服务的图像优化，最大1 MB文件大小的免费计划
-   * [placeholder.com](https://placeholder.com/) - 快速简单的图像占位符服务
+   * [placeholder.com](https://placeholder.com/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) - 快速而简单的服务，用于获取小猫的照片以用作占位符
    * [embed.ly](https://embed.ly/)   - 提供用于在网页中嵌入媒体的API，响应式图像缩放，从网页中提取元素.  每月15个请求可免费获得5,000个URL /月
    * [otixo.com](https://otixo.com/)   - 从一个地方加密，共享，复制和移动所有云存储文件.  基本计划提供最大250 MB的无限文件传输.  文件大小，允许5个加密文件
    * [tinypng.com](https://tinypng.com/) - 压缩和调整PNG和JPEG图像的API，每月免费提供500次压缩
-   * [filestack.com](https://filestack.com/) - 文件选择器，转换和交付，250个文件，500个转换和3 GB带宽免费
+   * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [packagecloud.io](https://packagecloud.io/)   -  YUM，APT，RubyGem和PyPI的托管软件包存储库.  有限的免费计划，可根据要求提供开源计划
    * [image-charts.com](https://image-charts.com/) - 使用水印生成无限制的图像图表
    * [jsonbin.io](https://jsonbin.io/) - 免费的JSON数据存储服务，适用于小型网络应用程序，网站，移动应用程序.
@@ -492,7 +493,7 @@
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
-  * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
+  * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
@@ -533,7 +534,7 @@
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
    * [jetbrains.com](https://jetbrains.com/products.html)   - 生产力工具，IDE和部署工具.  学生，教师，开源和用户组的免费许可
    * [codepen.io](https://codepen.io/) -  CodePen是网络前端的游乐场
-   * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
+   * [repl.it](https://repl.it/) - 用于各种程序语言的云编码环境
    * [codesandbox.io](https://codesandbox.io/) -  React，Vue，Angular，Preact等在线游乐场
    * [stackblitz.com](https://stackblitz.com/) - 用于Angular和React的在线VS Code IDE
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持
@@ -576,7 +577,7 @@
 
 ## Docker Related
 
-  * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
+  * [Docker Hub](https://hub.docker.com) - 一个免费的私有存储库和无限的公共存储库来构建和存储Docker镜像
   * [quay.io](https://quay.io/) - 使用无限制的免费公共存储库构建和存储容器映像
   * [canister.io](https://canister.io/) - 为开发人员提供20个免费私有存储库，30个免费私有存储库，供团队构建和存储Docker镜像
   * [Whales](https://github.com/Gueils/whales) - 免费自动停靠应用程序的工具.

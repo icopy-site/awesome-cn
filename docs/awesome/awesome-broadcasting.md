@@ -192,6 +192,7 @@
 
 ## Video Production
 
+* [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见节目控制协议的轻量级适配器工具.
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 用于连接和MOS消息传递的JavaScript库，可作为MOS设备或NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) -  OLA是照明控制信息的框架，用于照明行业的旅行适配器，用于在Digital Multiplex（DMX-512）和IP变体之间进行转换以及与USB适配器连接.
 * [PiClock](https://github.com/simonhyde/PiClock) - 可定制的基于网络的时钟，播出，麦克风现场和其他演播室指示器的显示.
