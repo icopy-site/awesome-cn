@@ -51,7 +51,7 @@
 * [Mono](https://github.com/mono/mono) - Open source ECMA CLI, C#, F#, VB and .NET implementation
 * [Mono-Addins](https://github.com/mono/mono-addins) -  Mono.Addins是一个通用框架，用于创建可扩展应用程序，以及创建扩展这些应用程序的加载项
 * [peasy](https://github.com/peasy/Peasy.NET) -  Peasy是一个中间层框架，提供易于使用和灵活的规则引擎，旨在解决常见的挑战，如并发处理，事务支持，容错，线程，可伸缩性，异步和多客户端支持，以及易于测试，所有没有巨大的学习曲线！
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
 * [DotNetty](https://github.com/Azure/DotNetty) -  DotNetty是Netty的一个端口，它是异步事件驱动的网络应用程序框架，用于快速开发可维护的高性能协议服务器和客户端.
 * [AspectCore Framework](https://github.com/dotnetcore/AspectCore-Framework)   -  AspectCore Framework是面向方面编程的.NET Core和.NET Framework跨平台框架.  对方面拦截器，依赖注入集成，Web应用程序，数据验证等的核心支持.
 * [Ether.Network](https://github.com/Eastrall/Ether.Network) -  Ether.Network是一个开源网络库，允许开发人员通过TCP / IP协议创建简单，快速和可扩展的套接字服务器或客户端应用程序.
@@ -413,6 +413,7 @@
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单，直接，超薄的CLR库，用于高性能Win32 Native Interop，具有自动化，窗口，DirectX，OpenGL和Skia助手.
 * [Neutronium](https://github.com/NeutroniumCore/Neutronium) - 使用HTML，CSS，javascript和MVVM绑定构建.NET桌面应用程序，例如使用WPF.
 * [Ooui](https://github.com/praeclarum/Ooui) - 一个小型跨平台UI库，可将本机UI开发的简单性带入Web
+* [AdonisUI](https://github.com/benruehl/adonis-ui) - 用于WPF应用程序的轻量级UI工具包，提供经典但增强的Windows视觉效果.
 
 ## HTML and CSS
 
@@ -496,7 +497,7 @@
 * [DryIoc](https://github.com/dadhi/DryIoc) - 简单，快速的全功能IoC容器.
 * [Ninject](https://github.com/ninject/ninject) -  .NET依赖注入器的忍者
 * [StructureMap](https://structuremap.github.io/) -  .Net的原始IoC / DI容器
-* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，使构建企业.NET应用程序更容易
+* [Spring.Net](https://github.com/spring-projects/spring-net) -  Spring.NET是一个开源应用程序框架，可以使构建企业.NET应用程序更加容易
 * [Lamar](https://jasperfx.github.io/lamar/) - 一个快速的IoC容器，针对ASP.NET Core和其他.NET服务器端应用程序的使用进行了大量优化.
 * [LightInject](https://github.com/seesharper/LightInject) - 超轻量级IoC容器
 * [Simple Injector](https://github.com/simpleinjector/SimpleInjector) -  Simple Injector是一个易于使用的.NET 4+依赖注入（DI）库，支持Silverlight 4 +，Windows Phone 8，Windows 8，包括Universal应用程序和Mono.

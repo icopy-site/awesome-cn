@@ -16,7 +16,7 @@
 - [High Performance Browser Networking](https://hpbn.co/) - 由Ilya Grigorik提供的关于现代网络协议的精彩免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -  Armin Ronacher对战地3在多人游戏中的射击机制的分析.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - 来自IT Hare团队的详细网络编程文章.
-- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -  Keith Johnston对游戏的NAT和P2P连接的简要总结.
+- [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -  Keith Johnston对NAT和P2P连接的简要总结.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - 基本的游戏网络概念，以及PC Gamer上Chris“Battle（non）sense”的例子.
 - [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - Networking a stack of cubes with Unity and PhysX by Glenn Fiedler at Oculus.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) -  Destroy All Software对低级网络协议栈的简要而详细的概述.
@@ -28,8 +28,8 @@
 - [Tech-Stack of the Ultima Online Servers](https://www.quora.com/What-was-the-technology-stack-driving-the-original-Ultima-Online-servers) - 由Raph Koster和Brian Crowder撰写的关于UO tech-stack的简短摘要.
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) - 通过id Software从Quake 1获得有关客户端 - 服务器模型的安全性课程.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) - 对Quake III Arena中使用的先前网络架构的改进.
-- [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - 完整的项目源代码和关于Evan Todd的网络挑战的详细博客文章.
-- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - 由Mark Frohnmayer和Tim Gift撰写的论文报道Tribes II的网络模型.
+- [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - 项目代码和关于Evan Todd网络挑战的详细博客文章.
+- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - 由Mark Frohnmayer和Tim Gift撰写的Tribes II的网络模型论文.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) -  Joe Best-Rotheray的演示项目和详细的博客文章.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) -  Justin Rempel的示例项目和详细博客文章.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - 历史但仍然有价值的UE3游戏网络文档维基.

@@ -27,7 +27,6 @@
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器通知单元格完成的单元魔术.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的Kaggle Python docker镜像.
 - [nteract](https://github.com/nteract/nteract) - 原生桌面笔记本前端.
-- [Rodeo](https://rodeo.yhat.com/) - 用于数据科学的原生Python IDE.
 - [Stencila](https://github.com/stencila/stencila) - 原生桌面笔记本前端.
 
 ## Collaboration/Education
@@ -48,7 +47,7 @@
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 交互式可视化库，针对现代Web浏览器进行演示.
 - [bqplot](https://github.com/bloomberg/bqplot) - 基于图形的Jupyter交互式绘图框架语法.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) -  Jupyter笔记本电脑的原型网络可视化前端.
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) -  Jupyter笔记本中Leaflet.js地图的交互式可视化库.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) -  Jupyter的UI小部件.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和WebGL在Jupyter中对Python进行3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - 交互式小部件，可在2D和3D中显示图像.
@@ -128,7 +127,7 @@
 
 ## Community Resources
 
-- Conference Talks - [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
+- 会谈 -  [PyVideo.org](http://pyvideo.org/search.html?q=jupyter), [JupyterCon](https://www.youtube.com/playlist?list=PL055Epbe6d5aP6Ru42r7hk68GTSaclYgi)
 - [jupyter-map](https://elc.github.io/jupyter-map/) - 使用Jupyter的大学机构地图.
 - 网格 -  [Jupyter Gitter Chatroom](https://gitter.im/jupyter/jupyter)
 -  GitHub  - 主题： [jupyter](https://github.com/topics/jupyter), [jupyter-kernels](https://github.com/topics/jupyter-kernels), [jupyter-notebook](https://github.com/topics/jupyter-notebook), [jupyterhub](https://github.com/topics/jupyterhub), [jupyterlab](https://github.com/topics/jupyterlab), [jupyterlab-extension](https://github.com/topics/jupyterlab-extension)

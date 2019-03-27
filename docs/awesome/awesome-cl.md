@@ -12,7 +12,7 @@ _awesome_ Common Lisp库的精选列表.
 对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
- 另有说明.  标有星号的那些：如此广泛而且
+stated otherwise. The ones marked with a :star: are so widespread and
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
  这样.  用a表示的库是我们喜欢和想要的库
@@ -84,7 +84,7 @@ Crypto
 ======
 
 *：明星： [Ironclad](https://github.com/sharplispers/ironclad)   -  Common Lisp的加密函数库.  不被认为是安全的，但对消息摘要功能仍然有用.  [外籍] [14].
-* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [Artistic License 2.0][51].
+* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)   - 收集常见的加密快捷方式.  [艺术许可2.0] [51].
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)   -  SSH客户端库.  [外籍] [14].
 
 Cryptocurrencies
@@ -273,7 +273,7 @@ YAML
 ====
 
 * [cl-yacclyaml](https://github.com/mabragor/cl-yaclyaml)   - 一个纯粹的lisp YAML处理器（加载器，但还没有转储器）.  [GPL3] [2].
-* [cl-yaml](https://github.com/eudoxia0/cl-yaml.git)   - 在libyaml之上构建的YAML解析器和发射器.  [MIT] [200].
+* [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
 
 
 语言扩展
@@ -461,8 +461,8 @@ Community
 机器学习
 ================
 
-* [clml](https://github.com/mmaul/clml)   - 最初由日本公司Mathematicl Systems Inc.开发.  有了 [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html) .  [LLGPL] [8].
-* [mgl](https://github.com/melisgl/mgl) - 由它使用 [author](http://quotenil.com/) 至 [win](https://github.com/melisgl/higgsml)  希格斯玻色子机器学习挑战赛.  [MIT] [200].
+* [clml](https://github.com/mmaul/clml)   - 最初由日本公司Mathematicl Systems Inc.开发.  有了 [tutorial](https://mmaul.github.io/clml.tutorials//2015/08/08/CLML-Time-Series-Part-1.html). [LLGPL][8].
+* [mgl](https://github.com/melisgl/mgl) - used by its [author](http://quotenil.com/) 至 [win](https://github.com/melisgl/higgsml)  希格斯玻色子机器学习挑战赛.  [MIT] [200].
 * [antik](https://www.common-lisp.net/project/antik/)   -  Common Lisp中科学和工程计算的基础.  GPL.  也 [mgl-mat](https://github.com/melisgl/mgl-mat) 和 [LLA](https://github.com/tpapp/lla).
 
 Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/common-lisp-sotu-2015#machine-learning).
@@ -487,7 +487,7 @@ HTTP客户端
 ------------
 *  [Dexador](https://github.com/fukamachi/dexador) - 旨在实现的HTTP客户端 [replacing Drakma](http://quickdocs.org/dexador/) ，  [带] [200].
 * [Carrier](https://github.com/orthecreedence/carrier)   - 基于cl-async和fast-http构建的轻量级异步HTTP客户端.  [MIT] [200].
-* [fast-http](https://github.com/fukamachi/fast-http) - 快速HTTP
+* [fast-http](https://github.com/fukamachi/fast-http) - A fast HTTP
  Common Lisp的请求/响应解析器.  [MIT] [200].
 
 
@@ -554,12 +554,12 @@ HTML生成器和模板
    最简单的语法.  [MIT] [200].
 *：明星： [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
 *：明星： [Djula](https://github.com/mmontone/djula)   -  Django的Common Lisp模板引擎端口.  [外籍] [14].
-* [cl-markup](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
+* [cl-markup](https://github.com/arielnetworks/cl-markup)   - 现代标记生成库.  [LLGPL] [8].
 * [eco](https://github.com/eudoxia0/eco)   - 快速，灵活，设计师友好的模板引擎.  [外籍] [14].
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
 * [clip](https://shinmera.github.io/clip)   -  HTML模板处理器，其中模板以HTML编写.  [艺术许可2.0] [51].
 
-URI handling
+URI动作
 ------------
 
 * [quri](https://github.com/fukamachi/quri) - 另一个URI库
@@ -573,7 +573,7 @@ Javascript
 
 *：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
-* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
+* [JSCL](https://github.com/jscl-project/jscl)   - 从第一天起就设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
 * [Wuwei](https://github.com/mtravers/wuwei/)   - 用于构建基于Ajax的Web页面的工具包.  [MIT] [200].
 * [SmackJack](https://github.com/aarvid/SmackJack)   - 使用parenscript生成javascript和hunchentoot（现在）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端parenscript函数.  [MIT] [200].
@@ -675,6 +675,12 @@ Others
   大大优化，所以它不是漂亮
    码.  [艺术许可2.0] [51].
 * [Xecto](https://github.com/pkhuong/Xecto)   - 用于常规数组并行的库.  [3条款BSD] [15].
+* [Petalisp](https://github.com/marcoheisig/Petalisp) - 尝试
+  通过生成并行计算机的高性能代码
+   JIT编译数组定义.  它的工作原理更多
+  比NumPy更基本的水平，通过提供更强大的功能
+  N维数组，但只是一些工作的构建块
+   他们.  [AGPL] [89].
 
 
 并行和并发
@@ -829,7 +835,7 @@ Tools
 
 这些是应用程序或代码，使Common Lisp中的开发更容易，而不是Common Lisp库本身.
 
- * [quickapp] [188]  - 使用SBCL和buildapp生成模板项目的项目.  还包括一个命令行argparser.  [3条款BSD] [15].
+* [quickapp][188] - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser. [3-clause BSD][15].
 * [quickapp-cli](https://github.com/triclops200/quickapp-cli)   -  [quickapp] [188]作为命令行实用程序.  [3条款BSD] [15].
 * [quicksearch](https://github.com/tkych/quicksearch)   - 从REPL中查找在线库.  [外籍] [14].
 * [SWIG](http://www.swig.org/)   - 用于从C / C ++头文件生成FFI代码的工具.  [GNU GPL3] [2].
@@ -840,7 +846,7 @@ Tools
 单元测试
 ============
 
-*：明星： [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Prove](https://github.com/fukamachi/prove) - 又一个单元测试框架[Expat] [14].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
@@ -855,7 +861,7 @@ Tools
    库将测试覆盖率发布到Coveralls.  看到
   [continuous-integration on lisp-lang.org](http://lisp-lang.org/learn/continuous-integration)
   和
-  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
+  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD的] [39].
 
 
 Utilities
@@ -915,7 +921,7 @@ CSV
 ---------------------
 
 *：明星： [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
-  （取代 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
+  (replaces [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    并且因此在许多实施方式中被运送.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类似POSIX的系统上的轻量级操作系统接口（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个
@@ -955,7 +961,7 @@ Logging
 
 致第三方：
 
-* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - A Common Lisp structured logger for [Fluentd](https://www.fluentd.org/).
+* [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - 一个Common Lisp结构化记录器 [Fluentd](https://www.fluentd.org/).
 
 
 Markdown
@@ -967,7 +973,7 @@ PDF
 ---
 
 * [cl-typesetting](https://github.com/mbattyani/cl-typesetting) 和 [cl-pdf](https://github.com/mbattyani/cl-pdf)   - 用于生成PDF文件的跨平台Common Lisp库.  [FreeBSD的] [39].
-* [cl-pslib](http://quickdocs.org/cl-pslib/) - 围绕着一个（薄）包装纸 [pslib](http://pslib.sourceforge.net/)  用于生成PostScript文件的库.  也 [cl-pslib-barcode](http://quickdocs.org/cl-pslib-barcode/) .  [LLGPL] [8].
+* [cl-pslib](http://quickdocs.org/cl-pslib/) - 围绕着一个（薄）包装纸 [pslib](http://pslib.sourceforge.net/)  用于生成PostScript文件的库.  也 [cl-pslib-barcode](http://quickdocs.org/cl-pslib-barcode/). [LLGPL][8].
 
 Plotting
 --------
@@ -977,7 +983,7 @@ Plotting
    octave或matlab的绘图命令.  [GPL3] [2].
 * [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的Gnuplot库.  随着它
-  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
+  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLPPL] [8]
 
 
 Other
@@ -993,11 +999,11 @@ Other
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
-* [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
+* [mixalot](https://github.com/ahefner/mixalot)   - 松散耦合的音频库集合.  未指定许可证.
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)   - 以生产力为重点，可扩展/可编程的Web浏览器.  [3条款BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)   - 用于创建压缩数据的库.  [FreeBSD的] [39].
-* [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
+* [simple-currency](https://github.com/a0-prw/simple-currency)   - 使用欧洲央行公布的每日信息的货币转换库.  [FreeBSD的] [39].
 * [template](https://bitbucket.org/tarballs_are_good/template)   - 模板和函数库，类似于C ++.  [3条款BSD] [15].
 * [texp](http://mr.gy/software/texp/)   - 用于生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)   - 微小的基准测试库.  [艺术许可2.0] [51].

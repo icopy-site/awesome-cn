@@ -242,7 +242,7 @@
 - [seashells.io](https://seashells.io/) - 从命令行程序实时管道输出到Web.
 - [teleconsole](https://www.teleconsole.com/) - 在几秒钟内共享您的UNIX终端.
 - [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
-- [warp](https://github.com/spolu/warp) - Secure and simple terminal sharing.
+- [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
 - [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
 
@@ -322,6 +322,7 @@
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
 - [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.
 - [transmission-cli](https://transmissionbt.com) - 命令行的Torrent客户端.
+- [ffsend](https://github.com/timvisee/ffsend) - 功能齐全的CLI [Firefox Send](https://send.firefox.com/) - 简单和私密的文件共享.
 
 ### Directory Listing
 
@@ -364,7 +365,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) - 将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -  gitlab cli用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -  git-ignore，git-setup，git-changelog，git-release，git-effort等小git附加功能.
-- [gita](https://github.com/nosarthur/gita) - 并排管理多个git repos以获得理智.
+- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
 
 ## Images
 
@@ -395,7 +396,7 @@
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
 
 ## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - 穿越Mandelbrot分形的cli.
+- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 
 ## Just for Fun
@@ -404,7 +405,7 @@
 - [quote-cli](https://github.com/riyadhalnur/quote-cli) - 在CLI中获取随机报价或当天的报价.
 - [fortune](https://github.com/shlomif/fortune-mod) - 显示随机的财富.
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
-- [yosay](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
+- [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
 
 ## Other

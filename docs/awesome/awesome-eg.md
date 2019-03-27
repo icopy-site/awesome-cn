@@ -21,6 +21,7 @@
   - [Shape Type](https://shape.method.ac/) - 信件塑造
   - [Kern Type](https://type.method.ac/) - 凯文
 - [Pixactly](http://pixact.ly/) - 像素测试来测验你的知识.
+- [The Boolean Game](https://boolean.method.ac/) - 学习如何在Sketch，Figma和其他矢量编辑器中使用布尔运算.
 
 ## Articles
 

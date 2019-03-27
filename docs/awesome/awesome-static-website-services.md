@@ -47,6 +47,7 @@
 
 ## Video
 
+- [Mux](https://mux.com/)   - 付费 - 直接向客户端播放视频的API.  也可以为直播流提供动力.
 - [YouTube](https://www.youtube.com/) - 无限上传的可嵌入视频.
 - [Vimeo](https://vimeo.co/) - 付费 - 没有广告的可嵌入视频.
 - [Vevo](http://www.vevo.com/) - 嵌入音乐视频.
@@ -68,6 +69,7 @@
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - 通过Iron.io  - 在多语言集装箱化环境中运行代码，具有无限规模和简单定价
 - [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有，公共或混合云.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的BlueMix托管平台的一部分，以及开源，很好地与他们的Watson AI生态系统联系在一起
+- [Zeit Now](https://zeit.co/now#features) -  Zeit Now允许人们以他们选择的语言将功能编写为服务，并作为monorepo的一部分进行部署.
 
 ## Community
 
@@ -92,7 +94,7 @@
 - [MailThis](http://mailthis.to/) - 通过带有可选附件的电子邮件简单提交表单.
 - [Simple Form](https://getsimpleform.com/) - 带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - 免费表单提交服务，您回复的电子邮件，同时保持您的电子邮件地址私密，是开源的.
-- [99 Inbound](https://www.99inbound.com) - 使用电子邮件/ Slack通知和第三方应用程序集成形成端点服务（例如MailChimp）
+- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
 
 #### Normal Forms
 
@@ -124,7 +126,7 @@
 - [SnapEngage](https://snapengage.com/) - 实时聊天与集成和自定义样式.
 - [tawk.co](https://www.tawk.to/) - 让您监控并与您网站上的访问者聊天.
 - [WebsiteAlive](https://www.websitealive.com/) - 为您的网站和社交网络实时聊天.
-- [Zopim](https://www.zopim.com/) - Live chat with free trial.
+- [Zopim](https://www.zopim.com/) - 免费试用实时聊天.
 
 ### Newsletters
 

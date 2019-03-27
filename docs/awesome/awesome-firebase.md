@@ -50,7 +50,7 @@
 
 ## Featured (new releases)
 
--  [主机版本历史] [new-1]  - 自动删除旧版本的站点部署.
+-  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React中的Firestore.
 -  [Integrify] [new-2]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
 -  [Firepit] [new-3]  -  Firepit是Firebase CLI的独立可移植版本，没有依赖项（包括Node.js）.
 -  [VSCode Firebase Explorer] [new-4]  - 浏览和管理您的Firebase项目.
@@ -66,7 +66,7 @@
 -  [Firebase用户界面] [web-1]  -  FirebaseUI是一个用于Web的开源JavaScript库，可在Firebase SDK之上提供简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [React的Firebase UI] [web-2]  -  firebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript] [web-3]  - 使用Firebase进行实时位置查询.
-- 💡 [FirePad][web-4] - Collaborative Text Editor Powered by Firebase.
+-  [FirePad] [web-4]  - 由Firebase提供支持的协作文本编辑器.
 -  [Ember Fire] [web-5]  - 适用于Firebase的官方Ember数据适配器.
 -  [Firebase Dart] [web-6]  -  Firebase的飞镖包装.
 -  [PolymerFire] [web-7]  - 用于Firebase的Polymer Web Components.
@@ -79,6 +79,7 @@
 -  [Firebase的BuckleScript绑定] [web-14]  - 用于FireML的BuckleScript绑定，用于ReasonML项目.
   -  [Angular Firebase PWA] [web-15]  - 是由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
   -  [FireSQL] [web-16]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
+-  [主机版本历史] [hosting-version-hist]  - 自动删除旧版本的站点部署.
 
 ## Mobile
 
@@ -101,7 +102,7 @@
 ### iOS
 
 -  [Objective-C的GeoFire] [ios-1]  - 使用Firebase进行实时位置查询.
--  [Firebase UI] [ios-2]  - 适用于Firebase的iOS UI绑定.
+- 🔌 [Firebase UI][ios-2] - iOS UI bindings for Firebase.
   -  [MLKit  -  ARCore] [ios-3]  - 检测对象并在增强现实中使用3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit  -  ARKit] [ios-4]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
 
@@ -171,7 +172,6 @@
 
 <!-- Featured (new releases) -->
 
-[new-1]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 [new-2]：https：//github.com/anishkny/integrify
 [new-3]：https：//github.com/abehaskins/firepit
 [new-4]：https：//github.com/jsayol/vscode-firebase-explorer
@@ -189,7 +189,7 @@
 [web-3]：https：//github.com/firebase/geofire-js
 [web-4]：https：//github.com/FirebaseExtended/firepad
 [web-5]：https：//github.com/firebase/emberFire
-[web-6]：https：//github.com/FirebaseExtended/firebase-dart
+[web-6]: https://github.com/FirebaseExtended/firebase-dart
 [web-7]：https：//github.com/FirebaseExtended/polymerfire
 [web-8]：https：//github.com/vuejs/vuefire
 [web-9]：https：//github.com/angular/angularfire2
@@ -200,6 +200,8 @@
 [web-14]：https：//github.com/avohq/bs-firebase
 [web-15]：https：//github.com/codediodeio/angular-firestarter
 [web-16]：https：//github.com/jsayol/FireSQL
+[四个城市]：https：//github.com/IjzerenHein/firestorter
+[hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 
 <!-- Mobile -->
 
@@ -233,7 +235,7 @@
 [server-4]：https：//codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
 [server-5]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
 [server-6]：https：//medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
-[server-7]: https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[server-7]：https：//www.youtube.com/watch？v = 2mjfI0FYP7Y＆list = PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 
 <!-- CLI & Editor -->
 

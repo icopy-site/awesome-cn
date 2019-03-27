@@ -15,7 +15,7 @@
 ## Open-source host-it-yourself:
 
  * [Contact Congress (Open Source)](https://github.com/EFForg/contact-congress)   - 向美国国会议员发送电子邮件.  这是由EFF作为一个开源项目开发的.  他们在内部将它用于自己的活动.  还有一个由Fight for the Future运营的托管版本（见下文）.
- * [Call Congress](https://github.com/fightforthefuture/call-congress)   - 协调美国国会，总统或当地或企业目标的召唤日.  来自Fight for the Future和Taskforce.is的原始项目，但有很多开发 [Mozilla](https://github.com/mozilla/call-congress) 和 [EFF](https://github.com/effOrg/call-congress/tree/refactor/master) .  更新的网站是 [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, 和 code is AGPL available on [Github](https://github.com/spacedogXYZ/call-power/).
+ * [Call Congress](https://github.com/fightforthefuture/call-congress)   - 协调美国国会，总统或当地或企业目标的召唤日.  来自Fight for the Future和Taskforce.is的原始项目，但有很多开发 [Mozilla](https://github.com/mozilla/call-congress) 和 [EFF](https://github.com/effOrg/call-congress/tree/refactor/master) .  前端看起来像这样， [https://call.mozilla.org](https://call.mozilla.org/) 和 backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, 和 code is AGPL.
  * [Twilio.org's Rapid Response Kit](https://github.com/Twilio-org/rapid-response-kit)   - 使用Twilio服务收集与手机相关的工具.  套件包括：自动响应（入站语音/短信响应器），广播（简单方式广播文本/呼叫列表），会议线路，转发器，振铃（如果第一人未回答，请拨打人员列表在下一个），帮助热线（按1代表...，按2代表...）
  * [Ushahidi](https://www.ushahidi.com/)   - 数据管理和可视化平台.  其他工具包括CrowdMap，CrisisNET（有关世界危机的数据），Ping（用于检查的工具是紧急情况后有人可以使用），SMSsync（双向SMS网关）.  看看他们 [github repos](https://github.com/ushahidi).
  * [Crowdring](https://github.com/therules/CrowdRing) - 网络应用程序，世界各地的人们可以免费拨打电话签署请愿书
@@ -50,8 +50,10 @@
 
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - 一个移动应用程序，帮助抗议者在游行期间实时互相通信
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)） - 用于确定您的作品是否为有效模板的设计工具
- * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io)   - 非常粗糙的工具，用于协调高中学生的一天行动.  一个更通用的工具的起点，以运行一天的行动活动
+ * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+ * [Umbrella App](https://github.com/securityfirst/Umbrella_android)   - 一个开源Android应用程序，提供有关数字和物理安全主题的课程和清单，从发送安全邮件到处理物理监视和安全地参加抗议.  还包括用于响应安全事件和订阅源的表单，以确保用户及时了解其所在区域的最新安全信息.  还提供西班牙语和中文.
  * [Code Corps](https://github.com/code-corps) - 代码团队希望提供将人们与具有社会影响力的项目联系起来的工具，促进众筹，并为那些从事项目工作的人提供支持 
+
 
 ## How do I contribute to this list
 
