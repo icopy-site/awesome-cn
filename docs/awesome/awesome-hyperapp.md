@@ -38,7 +38,7 @@
 
 * [tzellman/hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) -  Boilerplate显示如何创建生产就绪的Hyperapp应用程序.
 * [lukejacksonn/hyperapp-electron](https://github.com/lukejacksonn/hyperapp-electron) - 使用Hyperapp，LiveReload和Redux DevTools的最小电子应用启动器.
-* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - 使用Airbnb ESlint和JSX的简单Hyperapp webpack样板计数器应用程序.
+* [selfup/hyperapp-one](https://github.com/selfup/hyperapp-one) - 使用Airbnb ESlint和JSX包裹的简单Hyperapp样板计数器应用程序.
 * [lukejacksonn/hyperapp-pwa](https://github.com/lukejacksonn/hyperapp-pwa) -  Hyperapp项目的最小，渐进式Web应用程序兼容模板.
 * [marcusasplund/hyperapp-RxJS](https://github.com/marcusasplund/hyperapp-RxJS) - 使用RxJS和服务工作者进行Hyperapp.
 * [marcusasplund/hyperapp-todo](https://github.com/marcusasplund/hyperapp-todo-simple) - 使用Hyperapp的简单CRUD todo-app buit.

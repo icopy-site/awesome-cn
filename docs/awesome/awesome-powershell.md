@@ -29,6 +29,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [Hey, Scripting Guy! Blog](http://blogs.technet.com/b/heyscriptingguy/) - 热门微软博客.
 - [Learn Powershell | Achieve More](http://learn-powershell.net/) - 为Scripting Guy主持的Boe Prox个人博客.
 - [PowerShellMagazine](http://www.powershellmagazine.com/) - 很棒的杂志.
+- [PowerShellExplained](https://powershellexplained.com) -  Kevin Marquette的个人博客
 - [Doug Finke](https://dfinke.github.io/#blog) - 作者 [PowerShell for Developers](http://shop.oreilly.com/product/0636920024491.do).
 - [Mike F. Robbins](http://mikefrobbins.com/)   - 微软MVP.  SAPIEN Tech MVP.  Windows PowerShell TFM第4版的合着者.
 
@@ -94,7 +95,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) -  Atom的PowerShell语言支持.
 
 ## Module Development Templates
-- [Plaster](https://github.com/PowerShell/Plaster) -  Plaster是一个用PowerShell编写的基于模板的文件和项目生成器.
+- [Plaster](https://github.com/PowerShell/Plaster) - Plaster is a template-based file and project generator written in PowerShell.
 - [PSModuleDevelopment](https://github.com/PowershellFrameworkCollective/PSModuleDevelopment) - 使用此模块的低入口门槛和随意的便利性，在2分钟内开始使用模块模板.
 
 ## Frameworks
@@ -109,7 +110,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 - [PowershellGet](https://github.com/powershell/powershellget)   -  PowerShellGet是PowerShell的软件包管理器.  套餐可用 [PowerShellGallery](https://www.PowerShellGallery.com).
 - [PsGet](http://psget.net/) - 用于从中央目录，本地文件或Web安装模块的命令集.
 - [Chocolatey](https://chocolatey.org/)   -  Windows的包管理器.  在Windows上管理软件的理智方式.
-- [GitLab](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
+- [GitLab](https://github.com/akamac/GitLabProvider) - 使用GitLab服务器作为包提供程序.
 
 ## Parallel Processing
 
@@ -155,8 +156,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 ## Webserver
 
 - [Flancy](https://github.com/toenuff/flancy) - 适用于Windows PowerShell的Web微框架.
-- [NancyPS](https://github.com/Jaykul/NancyPS) -  Nancy，在PowerShell中自托管，带有脚本方法处理程序.
-- [PoSH Server](http://www.poshserver.net/) - 安全，灵活，轻量级的Web服务器，以满足您的要求.
+- [Pode](https://github.com/Badgerati/Pode) -  Pode是一个跨平台的PowerShell框架，用于创建托管REST API，Web站点和TCP / SMTP服务器的Web服务器
 - [Polaris](https://github.com/PowerShell/Polaris) -  PowerShell的跨平台，极简主义Web框架
 - [WebCommander](https://github.com/vmware/webcommander) - 在友好的Web GUI或Web服务中运行脚本和查看结果.
 

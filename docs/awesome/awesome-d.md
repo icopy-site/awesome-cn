@@ -64,7 +64,7 @@
 
 *为D项目做出贡献的组织.*
 
-* [D Programming Language](https://github.com/dlang) - Official Organization, hosts DMD, Phobos and other official tools and libs.
+* [D Programming Language](https://github.com/dlang) - 官方组织，主持DMD，Phobos和其他官方工具和库.
 * [LDC Developers](https://github.com/ldc-developers) - 最不发达国家的项目.
 * [DerelictOrg](https://github.com/DerelictOrg)   - 一个GitHub组织，托管所有Derelict绑定，包括OpenGL和其他多媒体/游戏相关的库绑定.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，Free Image，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
 * [DlangScience](https://github.com/DlangScience) -  D的科学图书馆和工具的焦点和第一个停靠点
@@ -74,6 +74,7 @@
 * [infognition](http://www.infognition.com/company.html)   -  Infognition是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术.  他们提供了几个用D语言编写的开源视频相关应用程序和工具 [bitbucket](https://bitbucket.org/infognition/) .  他们也在搬运他们的主要产品 - [Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -  D的数字图书馆开发团队
 * [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) 组织.
+* [Symmetry Investments](http://symmetryinvestments.com/) -  Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) .  有赞助的发展 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
 
 ## Books
 * D相关书籍.*你可以找到另一本书的清单 [Books](http://wiki.dlang.org/Books) D维基页面.
@@ -107,6 +108,7 @@
 * [This week in D](http://arsdnet.net/this-week-in-d) - 每周对D社区活动的概述和简要建议栏，以帮助您充分利用D编程语言. 
 * [Planet D](http://planet.dsource.org) - 由Vladimir Panteleev维护的共同撰写的D特定博客的存储库.
 * [D Idioms](http://p0nce.github.io/d-idioms/) - 一个很棒的博客，有很多有用的D编程习语.
+* [GTK-D coding](http://gtkdcoding.com/) - 如何使用GtkD构建GUI应用程序的简单示例.
 
 ## Articles
 * D相关的Aritcles.*
@@ -154,7 +156,7 @@
 
 *综合发展环境.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
+* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
 * [Visual D](https://github.com/dlang/visuald) -  D编程语言的Visual Studio扩展.
 * [DDT](http://ddt-ide.github.io/) - 用于D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)   -  D编程语言的独立自动完成程序.  可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用.  看到 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).

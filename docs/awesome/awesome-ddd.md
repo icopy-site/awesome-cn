@@ -86,7 +86,7 @@
 - [DDDinPHP Google Group](https://groups.google.com/forum/#!forum/dddinphp) - 在PHP环境中讨论领域驱动设计，CQRS，事件源，模型风暴，六角架构，分布式系统，反应...的地方.
 - [DDD in Ruby subreddit](https://www.reddit.com/r/ddd_ruby/) - 对域驱动设计感兴趣的Ruby开发人员的subreddit.
 - [EventStormers Google+ Community](https://plus.google.com/u/0/communities/113258571348605620818) - 为所有对EventStorming感兴趣的人和相关主题的公共讨论组.
-- [DDD/CQRS/ES Slack](https://ddd-cqrs-es.herokuapp.com/)   - 对于那些想要聊聊领域驱动设计，CQRS，事件采购以及有时随机事物的人来说，这是一个松散的团队.  主要渠道是语言和框架无关.
+- [DDD/CQRS/ES Slack](https://t.co/MRxpx0rLH2)   - 对于那些想要聊聊领域驱动设计，CQRS，事件采购以及有时随机事物的人来说，这是一个松散的团队.  主要渠道是语言和框架无关.
 - [Domain StoryTelling Slack](https://domainstorytelling.slack.com)   - 一个关于Domain StoryTelling的松散团队.  它目前只是邀请，但你可以问 [@hofstef](https://twitter.com/hofstef)  的邀请.  主页在 [domainstorytelling.org](http://domainstorytelling.org/).
 - [Software Engineering Stack Exchange](http://softwareengineering.stackexchange.com/questions/tagged/domain-driven-design) - 软件工程Stack Exchange问​​题标记为* domain-driven-design *.
 - [Code Review Stack Exchange](http://codereview.stackexchange.com/questions/tagged/ddd) - 代码审查Stack Exchange问​​题标记为* domain-driven-design *.
@@ -127,7 +127,7 @@
 - [Adaptech](http://adaptechsolutions.net/blog/)   -  Adaptech Solutions博客.  在Greg创造这个词之前，我们的创始人Adam Dymitruk与Greg Young讨论了CQRS的优点.  Adam和业务合作伙伴Robert Reppel是事件源微服务的主要实践者之一.
 - [Lev Gorodinski](http://gorodinski.com/) -  2013年有几篇关于DDD的文章仍然相关.
 - [Dino Esposito](https://software2cents.wordpress.com/)   - 软件架构师，培训师，书籍作者.  作者 [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/).
-- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design)   - 领域驱动的设计与安全性相结合，并且通常具有敏捷性.  写作虚构的信件给年轻的程序员.
+- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design)   - 域驱动设计与安全性相结合，并且通常具有敏捷性.  写作虚构的信件给年轻的程序员.
 - [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) -  DDD＆Co.系列
 - [Arkency](https://blog.arkency.com/) - 来自Ruby专家的各种DDD，CQRS，事件采购相关文章.
 - [Svaťa Šimara](http://svatasimara.cz/) -  DDD系列 - 语言，领域，建模，基础设施，PHP实现

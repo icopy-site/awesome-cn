@@ -834,6 +834,7 @@
 * [Moq](https://github.com/Moq/moq4) -  .NET最流行和最友好的模拟框架
 * [NBuilder](https://github.com/garethdown44/nbuilder) - 快速生成测试对象
 * [NCrunch](https://www.ncrunch.net/)   -  Visual Studio的自动连续和并发测试工具.  ** [$] **
+* [NFluent](http://www.n-fluent.net) -  NFluent是一个断言库，旨在流畅您的.NET TDD体验.
 * [NSubstitute](https://nsubstitute.github.io/) -  .NET模拟框架的友好替代品
 * [NUnit](https://github.com/nunit/nunit) - 适用于所有.NET语言的单元测试框架
 * [Rhino Mocks](https://github.com/ayende/rhino-mocks) -  .NET的动态模拟框架

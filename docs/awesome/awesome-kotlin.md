@@ -269,7 +269,7 @@
 * [mplatvoet/progress](https://github.com/mplatvoet/progress) -  Kotlin的进展.
 * [sargunster/CakeParse](https://github.com/sargunster/CakeParse) -  Kotlin的简单解析器组合库.
 * [sargunster/KtUnits](https://github.com/sargunster/KtUnits) -  Kotlin的微小单位转换库.
-* [hotchemi/khronos](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.
+* [hotchemi/khronos](https://github.com/hotchemi/khronos) -  Kotlin中的直观日期扩展.
 * [yole/kxdate](https://github.com/yole/kxdate) -  Java 8 java.time API的Kotlin扩展
 * [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) -  jclasslib字节码查看器是一个可视化编译的Java类文件和包含的字节码的所有方面的工具.
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) -  krangl是一个用于数据转换的{K} otlin库
@@ -304,7 +304,7 @@
 * [charleskorn/kaml](https://github.com/charleskorn/kaml) -  YAML支持kotlinx.serialization
 * [pemistahl/lingua](https://github.com/pemistahl/lingua) - 适用于长文本和短文本的语言检测库
 * [sandjelkovic/kxjtime](https://github.com/sandjelkovic/kxjtime) - 用于java.time API的轻量级Kotlin扩展
-* [pmwmedia/tinylog](https://github.com/pmwmedia/tinylog) - 轻量级日志框架，带有Kotlin的本机日志API
+* [pmwmedia/tinylog](https://github.com/pmwmedia/tinylog) - 轻量级日志框架，带有Kotlin的本机日志API.
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - 扩展和顶级函数，以在Kotlin 1.0中使用JDK7 / JDK8功能.
@@ -377,7 +377,6 @@
 * [ssouris/petclinic-spring5-reactive](https://github.com/ssouris/petclinic-spring5-reactive) - 用Kotlin编写的Spring 5 Reactive Petclinic应用程序.
 * [yyunikov/spring-boot-2-kotlin-starter](https://github.com/yyunikov/spring-boot-2-kotlin-starter) -  Spring Boot 2.0 Kotlin应用程序启动程序，配置Gradle，Mongo，JUnit 5测试，日志记录，CircleCI和Docker组合.
 * [viniciusccarvalho/kodein-cloud-functions](https://github.com/viniciusccarvalho/kodein-cloud-functions) - 为不同的云功能提供商（AWS，Azure）提供适配器，以运行定义为kodein模块的vanilla kotlin功能
-* [starcoinorg/sirius](https://github.com/starcoinorg/sirius/) -  Sirius实施第二层金融中介协议.
 
 ### <a name="projects-build-tools"></a>Build tools <sup>[Back ⇈](#projects-build-tools-subcategory)</sup>
 * [cbeust/kobalt](https://github.com/cbeust/kobalt) - 构建受Gradle启发的系统.
@@ -461,7 +460,7 @@
 * [robinchew/mvil](https://github.com/robinchew/mvil) - 由Anvil启发的Android版“Virtual DOM”.
 * [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - 有趣的有趣的Android步进小工具，用于计算，用Kotlin编写.
 * [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) -  OpenGL变得简单.
-* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - 用于在Kotlin而不是XML中构建drawable的DSL.
+* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 用于创建没有任何XML的Material Design导航抽屉的DSL.
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) -  Android库，提供更简单的方式来实现模块化.
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
@@ -530,6 +529,7 @@
 * [adrielcafe/GreenHellCompanionApp](https://github.com/adrielcafe/GreenHellCompanionApp) - 绿色地狱游戏的非官方配套应用程序.
 * [adrielcafe/ChromaAndroidApp](https://github.com/adrielcafe/ChromaAndroidApp) - 半音调谐器应用程序.
 * [cuongpm/youtube-dl-android](https://github.com/cuongpm/youtube-dl-android) - 适用于Android的视频下载器 - 从Youtube，Facebook，Twitter，Instagram，Dailymotion，Vimeo和超过1000个其他网站下载视频.
+* [dgngulcan/droid-feed](https://github.com/dgngulcan/droid-feed) - 专为Android开发者汇总的新闻Feed.
 
 ### <a name="android-extensions"></a>Extensions <sup>[Back ⇈](#android-extensions-subcategory)</sup>
 * [ajalt/timberkt](https://github.com/ajalt/timberkt) - 使用Kotlin和Timber轻松进行Android日志记录.
@@ -575,8 +575,6 @@
 * [JetBrains/kotlin-native](https://github.com/JetBrains/kotlin-native) -  Kotlin / Native是使用LLVM工具链的Kotlin编译器，运行时实现和本机代码生成工具的LLVM后端.
 * [perses-games/konan-sfml](https://github.com/perses-games/konan-sfml) - 具有SFML示例的Kotlin原生
 * [JetBrains/kotlinconf-spinner](https://github.com/JetBrains/kotlinconf-spinner) - 简单的类似旋转器的游戏，旨在演示Kotlin / Native软件堆栈的功能.
-* [konanc-config/konanc-config](https://github.com/konanc-config/konanc-config) - 命令行实用程序，用于读取&#39;* .kc&#39;konanc配置文件，以打印konanc编译器konanc的编译器标志.
-* [datkt](https://github.com/datkt) - 努力使用NPM包系统将DAT协议实现为Kotlin Native中的小模块.
 
 ### <a name="kotlin-native-frameworks"></a>Frameworks <sup>[Back ⇈](#kotlin-native-frameworks-subcategory)</sup>
 * [KwangIO/kwang](https://github.com/KwangIO/kwang) - 高性能Kotlin原生Web框架
@@ -617,6 +615,7 @@
 * [Munich Kotlin User Group](https://www.meetup.com/Kotlin-User-Group-Munich/) - 德国
 * [Paris Kotlin User Group](https://www.meetup.com/Kotlin-Paris-Meetup/) - 法国
 * [Rhein-Main Kotlin](https://www.meetup.com/de-DE/Kotlin-Rhein-Main/) - 德国
+* [Rostov-on-Don Kotlin User Group](https://vk.com/rndkotlin) - 俄罗斯
 * [St. Petersburg Kotlin User Group](https://www.meetup.com/St-Petersburg-Kotlin-User-Group/) - 俄罗斯
 * [Serbia Kotlin User Group](https://www.meetup.com/Serbia-Kotlin-User-Group/) - 塞尔维亚
 * [Stockholm Kotlin User Group](https://www.meetup.com/Sweden-Kotlin-User-Group/) - 瑞典
@@ -651,7 +650,7 @@
 * [Istanbul Kotlin User Group](https://www.meetup.com/Kotlin-%C4%B0stanbul/) - 火鸡
 * [Jalandhar Kotlin User Group](https://nvite.com/JalandharKotlin/13lv7v) - 印度
 * [Japan Kotlin User Group](https://kotlin.connpass.com/) - 日本
-* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - 巴基斯坦
+* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - Pakistan
 * [Kathmandu Kotlin User Group](https://www.facebook.com/groups/100333660782830/) - 尼泊尔
 * [Kolkata Kotlin User Group](https://www.meetup.com/Kotlin-Kolkata-UG/) - 印度
 * [Korean Kotlin User Group](http://kotlin.kr/) - 韩国
@@ -661,7 +660,7 @@
 * [Myanmar Kotlin User Group](https://www.facebook.com/groups/kotlinmyanmarusergroup/about/) - 缅甸
 * [Nepal Kotlin User Group](https://www.facebook.com/groups/dnkotlin/) - 尼泊尔
 * [New Delhi Kotlin User Group](https://www.facebook.com/kotlinNewDelhi/) - 印度
-* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - 巴基斯坦
+* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - Pakistan
 * [Philippines Kotlin](https://www.facebook.com/groups/642901202586581/) - 菲律宾
 * [Pune Kotlin User Group](https://www.facebook.com/groups/punekotlin) - 印度
 * [Saudi Arabia Kotlin User Group](https://www.facebook.com/KotlinArabia) - 沙特阿拉伯
@@ -806,7 +805,7 @@
 * [Kotlin 1.1-M04 is here!](http://kotlin.link/articles/Kotlin-1-1-M04-is-here.html) - 伊利亚切尔尼科夫
 * [Kotlin in Practice with Spring Boot and Vaadin](http://kotlin.link/articles/Kotlin-in-Practice-with-Spring-Boot-and-Vaadin.html) -  Philipp Hauer
 * [Concurrency Primitives in Kotlin](http://kotlin.link/articles/Concurrency-Primitives-in-Kotlin.html) -  Egor Andreevich
-* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) - Lorenzo Angelini
+* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) -  Lorenzo Angelini
 * [Kotlin is cheating on me...](http://kotlin.link/articles/Kotlin-is-cheating-on-me.html) -  Andrea Franceschini
 * [The Reactive Scrabble benchmarks](http://kotlin.link/articles/The-Reactive-Scrabble-benchmarks.html) - 大卫卡尔
 * [Kotlin 1.0.6 is here!](http://kotlin.link/articles/Kotlin-1-0-6-is-here.html) - Yan Zhulanow
@@ -820,7 +819,7 @@
 * [Kotlin 1.0.5 is here](http://kotlin.link/articles/Kotlin-1-0-5-is-here.html) - 德米特里·杰梅罗夫
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
-* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - Amit Shekhar
+* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
 * [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里
@@ -888,7 +887,7 @@
 * [Natural testing with Kotlin](http://kotlin.link/articles/Natural-testing-with-Kotlin.html) -  Vardan Torosyan
 
 ### <a name="articles-blog-posts-july-2016"></a>July 2016 <sup>[Back ⇈](#articles-blog-posts-july-2016-subcategory)</sup>
-* [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - 康斯坦丁·谢苗诺夫
+* [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - Konstantin Semenov
 * [Never say final: mocking Kotlin classes in unit tests](http://kotlin.link/articles/Never-say-final-mocking-Kotlin-classes-in-unit-tests.html) - 丹尼普瑞斯勒
 * [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫
