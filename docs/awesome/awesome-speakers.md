@@ -17,7 +17,7 @@
 
 <img src="https://twitter.com/onejsninja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**取消** **
+** Adebayo Opesanya ** \ t
 主题：JavaScript，Node.js，打字稿，测试，社区，\
 https://twitter.com/onejsninja
 
@@ -69,7 +69,7 @@ https://twitter.com/ahsan_ayz
 
 <img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
-** Mashhood Rastgar ** \
+**Mashhood Rastgar**\
  主题：渐进式Web应用程序，Angular，Firebase.  谷歌开发者专家网
 https://twitter.com/mashhoodr
 
@@ -115,7 +115,7 @@ https://twitter.com/kranirudha
 
 <img src="https://twitter.com/siddharthkp/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Siddharth Kshetrapal ** \
+**Siddharth Kshetrapal**\
 主题：CSS，Web性能，React，JS中的CSS，节点，测试\
 https://twitter.com/siddharthkp
 
@@ -207,7 +207,7 @@ https://twitter.com/zellwk
 
 <img src="https://twitter.com/glenmaddern/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Glen Maddern ** \
+** Glen Maddern ** \ t
 主题：CSS，样式组件，React，JavaScript \
 https://twitter.com/glenmaddern
 
@@ -283,7 +283,7 @@ https://twitter.com/glnnrys
 
 <img src="https://twitter.com/mrozilla/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Jan Hruby **
+** Jan Hruby ** \ t
 主题：React，Redux，JS in JS，React Native，Serverless，GraphQL \
 https://twitter.com/mrozilla
 
@@ -295,7 +295,7 @@ https://twitter.com/bebraw
 
 <img src="https://twitter.com/karlhorky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Karl Horky **
+** Karl Horky ** \ t
 主题：工具，标准，交叉性，OSS，心理学
 https://twitter.com/karlhorky
 
@@ -331,7 +331,7 @@ https://twitter.com/glyphe
 
 <img src="https://twitter.com/ryyppy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Patrick Stapfer**\
+** Patrick Stapfer **
 主题：ReasonML，静态打字，流程\
 https://twitter.com/ryyppy
 
@@ -353,7 +353,7 @@ https://twitter.com/defuex
 
 <img src="https://twitter.com/sambego/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Sam Call **
+** Sam Bellen **
 主题：Web音频，浏览器API \
 https://twitter.com/sambego
 
@@ -385,7 +385,7 @@ https://twitter.com/enthusiasto
 
 <img src="https://twitter.com/terezk_a/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Tereza Sokol ** \
+** Tereza Sokol ** \ t
 主题：榆树，可视化\
 https://twitter.com/terezk_a
 
@@ -755,7 +755,7 @@ https://twitter.com/serifritsch
 
 <img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Serg Hospodarets ** \
+** Serg Hospodarets ** \ t
 主题：JavaScript，CSS，CSS Houdini \
 https://twitter.com/malyw
 
@@ -775,7 +775,7 @@ https://twitter.com/brikis98
 
 <img src="https://twitter.com/markconroy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Mark Conroy**\
+** Mark Conroy **
 主题：前端，Drupal，Web开发\
 https://twitter.com/markconroy
 
@@ -828,7 +828,7 @@ https://twitter.com/granze
 
 <img src="https://twitter.com/cef62/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Matteo Ronchi ** \
+** Matteo Ronchi **
 主题：React，JavaScript，Flow，Web架构，前端Ops \
 https://twitter.com/cef62
 
@@ -878,12 +878,20 @@ https://twitter.com/narendra_shetty
 主题：HTML，CSS，JavaScript，跨浏览器兼容性
 https://twitter.com/ppk
 
+### Bergambacht
+
+<img src="https://twitter.com/stefannhs/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Stefan Nieuwenhuis **
+主题：角度，Web组件，前端架构，微服务，Monorepos，设计系统
+https://twitter.com/stefannhs
+
 ### Breda
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Job van Achterberg **
-主题：可访问性
+**Job van Achterberg**\
+主题：辅助功能\
 https://twitter.com/detonite/
 
 ### Gouda
@@ -960,7 +968,7 @@ https://twitter.com/tlakomy
 
 <img src="https://twitter.com/aganaplocha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Aga Naplocha ** \
+** Aga Naplocha ** \ t
 主题：CSS，教学Web技术
 https://twitter.com/aganaplocha
 
@@ -1100,7 +1108,7 @@ https://twitter.com/simalexan
 
 <img src="https://twitter.com/flaviocorpa/profile_image?size=original" height="70px" width="70px" align="left" />
 
-** Flavio Corpa ** \
+** Flavio Corpa **
 主题：JavaScript，功能编程\
 https://twitter.com/flaviocorpa
 
@@ -1140,7 +1148,7 @@ https://twitter.com/g33konaut
 
 <img src="https://twitter.com/thefubhy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Sebastian Siemssen**\
+** Sebastian Siemssen **
 主题：React，GraphQL，工具\
 https://twitter.com/thefubhy
 
@@ -1354,7 +1362,7 @@ https://twitter.com/chris_noring
 
 <img src="https://twitter.com/areaweb/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Cristiano Rastelli ** \
+** Cristiano Rastelli **
 主题：JS中的CSS，CSS
 https://twitter.com/areaweb
 
@@ -1366,7 +1374,7 @@ https://twitter.com/dan_abramov
 
 <img src="https://twitter.com/Folletto/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Davide&#39;Folletto&#39;Casali ** \
+** Davide&#39;Folletto&#39;Casali **
 主题：设计，用户体验，管理，领导力，初创公司
 https://twitter.com/Folletto
 
@@ -1424,20 +1432,28 @@ https://twitter.com/heydonworks
 
 <img src="https://twitter.com/ninjanails/profile_image?size=original" height="70px" width="auto" align="left" />
 
-** Seren Davies **
-主题：可访问性
+** Star Davies ** \ t
+主题：辅助功能\
 https://twitter.com/ninjanails
 
 ## North America
 
 ## Canada 🇨🇦
 
+### Hamilton
+
+<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Wes Bos ** \
+主题：JavaScript，CSS，工具\
+https://twitter.com/wesbos
+
 ### Kingston
 
 <img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-** Scott Vinkle **
-主题：可访问性
+**Scott Vinkle**\
+主题：辅助功能\
 https://twitter.com/svinkle
 
 ### Montréal
@@ -1467,7 +1483,7 @@ https://twitter.com/brnnbrn
 <img src="https://twitter.com/halathinkeths/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **哈拉安华**
-主题：可访问性
+主题：辅助功能\
 https://twitter.com/halathinkeths
 
 <img src="https://twitter.com/tiffhaxell/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1476,14 +1492,6 @@ https://twitter.com/halathinkeths
 主题：CSS网格，React，Redux，Firebase，Flexbox \
 https://twitter.com/tiffhaxell
 
-### Hamilton
-
-<img src="https://twitter.com/wesbos/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
-
-** Wes Bos ** \
-主题：Fullstack Dev，JavaScript，CSS，Node，React \
-https://twitter.com/wesbos
-
 ## United States of America 🇺🇸
 
 ### Boston
@@ -1491,7 +1499,7 @@ https://twitter.com/wesbos
 <img src="https://twitter.com/ericwbailey/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Eric Bailey **
-主题：可访问性
+主题：辅助功能\
 https://twitter.com/ericwbailey
 
 <img src="https://twitter.com/bahmutov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1502,7 +1510,7 @@ https://twitter.com/bahmutov
 
 <img src="https://twitter.com/leaverou/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Lea Verou ** \
+** Lea Verou **
 主题：CSS，HTML \
 https://twitter.com/leaverou
 
@@ -1511,16 +1519,8 @@ https://twitter.com/leaverou
 <img src="https://twitter.com/aardrian/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **阿德里安·罗塞利**
-主题：可访问性
+主题：辅助功能\
 https://twitter.com/aardrian
-
-### California
-
-<img src="https://pbs.twimg.com/profile_images/1028519480412884992/o5vdCry7_400x400.jpg" height="70px" width="70px" align="left" alt="" />
-
-** Addy Osmani **
-主题：GoogleChrome开发工具，TodoMVC，@Yeoman，Material Design Lite \
-https://twitter.com/addyosmani
 
 ### Carlsbad
 
@@ -1534,7 +1534,7 @@ https://twitter.com/mjackson
 
 <img src="https://twitter.com/levibostian/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Levi Bostian **
+** Levi Bostian ** \ t
 主题：Android，RxJava，Kotlin，Freelancing，Swift，iOS，Productivity，Startups，Bootstrapping
 https://twitter.com/levibostian
 
@@ -1542,7 +1542,7 @@ https://twitter.com/levibostian
 
 <img src="https://twitter.com/gigasquid/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-** Carin Meier ** \
+**Carin Meier**\
 主题：Clojure，机器学习，编程
 https://twitter.com/gigasquid
 
@@ -1574,8 +1574,8 @@ https://twitter.com/mirisuzanne
 
 <img src="https://twitter.com/cariefisher/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Carie Fisher ** \
-主题：可访问性
+** Carie Fisher **
+主题：辅助功能\
 https://twitter.com/cariefisher
 
 ### Nashville
@@ -1604,7 +1604,7 @@ https://twitter.com/GantLaborde
 
 <img src="https://twitter.com/thegreengreek/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**两个Karamalegos ** \
+** Sia Karamalegos **
 主题：React，JavaScript，React Native，前端性能
 https://twitter.com/thegreengreek
 
@@ -1642,7 +1642,7 @@ https://twitter.com/jaredpalmer
 
 <img src="https://twitter.com/jensimmons/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Jen Simmons **
+** Just Simmons ** \ t
 主题：设计，CSS，HTML，Web \
 https://twitter.com/jensimmons
 
@@ -1666,7 +1666,7 @@ https://twitter.com/lara_hogan
 
 <img src="https://twitter.com/kosamari/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**小麻真子**
+**Mariko Kosaka**\
 主题：HTML，CSS，JavaScript，Web \
 https://twitter.com/kosamari
 
@@ -1693,6 +1693,14 @@ https://twitter.com/una
 ** Tierney Cyren ** \
 主题：Node.js，JavaScript，CLI工具，开发人员工具，开源，社区\
 https://twitter.com/bitandbang
+
+### Mountain View
+
+<img src="https://twitter.com/addyosmani/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Addy Osmani **
+主题：Chrome DevTools，性能\
+https://twitter.com/addyosmani
 
 ### Omaha
 
@@ -1821,7 +1829,7 @@ https://twitter.com/brynn
 <img src="https://twitter.com/cordeliadillon/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Cordelia Dillon ** \
-主题：可访问性
+主题：辅助功能\
 https://twitter.com/cordeliadillon
 
 <img src="https://twitter.com/standardista/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1911,7 +1919,7 @@ https://twitter.com/sgrove
 <img src="https://twitter.com/stefsull/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Stephanie Rewis ** \
-主题：设计系统，CSS \
+Topics: Design Systems, CSS\
 https://twitter.com/stefsull
 
 <img src="https://twitter.com/ladyleet/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1931,7 +1939,7 @@ https://twitter.com/DevWithTheHair
 <img src="https://twitter.com/ShellELittle/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **壳小**
-主题：可访问性
+主题：辅助功能\
 https://twitter.com/ShellELittle
 
 ## South America
@@ -1960,7 +1968,7 @@ https://twitter.com/obetomuniz
 
 <img src="https://twitter.com/fdaciuk/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**费尔南多·达西克**
+** Fernando Daciuk ** \ t
 主题：React，JavaScript \
 https://twitter.com/fdaciuk
 
@@ -1988,11 +1996,11 @@ https://twitter.com/raphamorims
 主题：前端开发，女性灵感，JavaScript，CSS \
 https://twitter.com/carolcode
 
-<img src="https://twitter.com/Feh_Bernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/fembernardo/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Fernanda Bernardo **
 主题：CSS，JavaScript，HTML \
-https://twitter.com/Feh_Bernardo
+https://twitter.com/fembernardo
 
 <img src="https://twitter.com/JoaoVictor_AC/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 

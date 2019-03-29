@@ -19,8 +19,8 @@
 ### Official
 
 * [C#](https://github.com/influxdata/influxdb-csharp) - 用于高效地向InfluxDB发送点的.NET库
-* [Go](https://github.com/influxdata/influxdb/tree/master/client) - 成为InfluxDB的客户端，包含在主要的InfluxDB仓库中
-* [Java](https://github.com/influxdata/influxdb-java) -  InfluxDB的Java客户端
+* [Go](https://github.com/influxdata/influxdb1-client) - 转到InfluxDB 1.x的客户端
+* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
 * [PHP](https://github.com/influxdata/influxdb-php) -  InfluxDB的PHP客户端
 * [Python](https://github.com/influxdata/influxdb-python) -  InfluxDB的Python客户端
 * [Rails](https://github.com/influxdata/influxdb-rails) -  Ruby on Rails绑定自动将指标写入InfluxDB
@@ -51,7 +51,7 @@
 
 #### Dedicated
 
-Tools whose primary or sole purpose is to feed data into InfluxDB.
+主要或唯一目的是将数据提供给InfluxDB的工具.
 
 * [accelerometer2influx](https://github.com/CorpGlory/accelerometer2influx) -  Android应用程序，从您的手机加速计获取xyz轴指标，并将数据发送到InfluxDB.
 * [agento](https://github.com/abrander/agento) - 客户端/服务器从Linux主机收集近实时指标
@@ -76,7 +76,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [snmpcollector](https://github.com/toni-moreno/snmpcollector) - 具有用于InfluxDB的Web管理界面的全功能通用SNMP数据收集器
 * [Telegraf](https://github.com/influxdata/telegraf) - （官方）插件驱动的服务器代理，用于向InfluxDB报告指标
 * [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - 从特斯拉Model S到InfluxDB的数据流（[rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
-* [traffic_stats](http://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) - 获取并存储有关受控制的CDN的统计信息 [Apache Traffic Control](https://trafficcontrol.apache.org/)
+* [traffic_stats](https://traffic-control-cdn.readthedocs.io/en/latest/overview/traffic_stats.html) - 获取并存储有关受控制的CDN的统计信息 [Apache Traffic Control](https://trafficcontrol.apache.org/)
 * [vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) - 收集VMware vSphere，vCenter和ESXi性能指标并将其发送到InfluxDB
 
 #### Non-dedicated
@@ -92,7 +92,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [gatling](https://github.com/gatling/gatling) - 基于异步Scala-Akka-Netty的Stress Tool
 * [Glances](https://github.com/nicolargo/glances) - 浏览您的系统
 * [Graphios](https://github.com/shawn-sterling/graphios) - 将nagios perf数据发送到graphite（carbon）/ statsd / librato / InfluxDB的程序
-* [heapster](https://github.com/kubernetes/heapster) - 监控a的容器资源使用情况 [Kubernetes](https://kubernetes.io/) 簇
+* [heapster](https://github.com/kubernetes-retired/heapster) - 监控a的容器资源使用情况 [Kubernetes](https://kubernetes.io/) 簇
 * [heka](https://github.com/mozilla-services/heka) - 通用数据收集和处理工具
 * [internet_data_usage](https://github.com/precurse/internet_data_usage) - 基于Python的应用程序，用于为Telus和Koodo等不同运营商提取数据计划
 * [ioBroker](http://www.iobroker.net/) -  Homeautomation / IoT Platform使用Influxdb存储 [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
@@ -139,7 +139,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [mod-influxdb](https://github.com/savoirfairelinux/mod-influxdb) - [Shinken](http://www.shinken-monitoring.org/) 用于将数据导出到InfluxDB的模块
 * [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - [Sensu](https://sensu.io/) InfluxDB插件
 * [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - 一个 [Sidekiq](https://sidekiq.org/) 中间件将作业执行指标发送到InfluxDB
-* [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) - 发布 [snap](http://www.snap-telemetry.io/) 关注InfluxDB的指标
+* [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) - 发布 [snap](https://github.com/intelsdi-x/snap) 关注InfluxDB的指标
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) -  StatsD的一个天真的InfluxDB后端
 
 ### Import tools
@@ -181,7 +181,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 ## Queries
 
-* [dbal-influxdb](https://github.com/corley/dbal-influxdb) - 关于InfluxDB学说的DBAL
+* [dbal-influxdb](https://github.com/corley/dbal-influxdb) -  InfluxDB的Doctrine DBAL
 * [Influxdb::Arel](https://github.com/undr/influxdb-arel)   -  Influxdb :: Arel是InfluxDB方言的SQL AST管理器.  它简化了复杂SQL查询的生成
 * [influxer](https://github.com/palkan/influxer) -  InfluxDB ActiveRecord风格
 

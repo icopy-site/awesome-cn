@@ -93,11 +93,11 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 #### Styles
 
 - [Style Loader](https://github.com/webpack/style-loader) ：用于Webpack的样式加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [PostCSS Loader](https://github.com/postcss/postcss-loader) ：用于Webpack的PostCSS加载程序.   -  * Maintainer *：`PostCSS Team` [！[Github] [githubicon]]（https://github.com/postcss)[！[Twitter] [twittericon]]（https://twitter.com/PostCSS）
+- [PostCSS Loader](https://github.com/postcss/postcss-loader): PostCSS loader for Webpack. -- *Maintainer*: `PostCSS Team` [![Github][githubicon]](https://github.com/postcss) [![Twitter][twittericon]](https://twitter.com/PostCSS)
 - [CSS Loader](https://github.com/webpack/css-loader) ：Webpack的CSS加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [SASS Loader](https://github.com/jtangelder/sass-loader) ：Webpack的SASS加载程序.   -  *维护者*：`Jorik Tangelder` [！[Github] [githubicon]]（https://github.com/jtangelder）[！[Twitter] [twittericon]]（https://twitter.com/jorikdelaporik）
 - [Less Loader](https://github.com/webpack/less-loader) ：较少的Webpack加载程序模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [Stylus Loader](https://github.com/shama/stylus-loader): A stylus loader for webpack. -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
+- [Stylus Loader](https://github.com/shama/stylus-loader) ：webpack的手写笔加载器.   -  *维护者*：`Kyle Robinson Young` [！[Github] [githubicon]]（https://github.com/shama）[！[Twitter] [twittericon]]（https://twitter.com/shamakry ）
 - [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader) ：Webpack的同构CSS样式加载器.   -  * Maintainer *：`Kriasoft Team` [！[Github] [githubicon]]（https://github.com/kriasoft）[！[Twitter] [twittericon]]（https://twitter.com/kriasoft）
 - [Minify CSS-in-JS Loader](https://github.com/zaaack/minify-cssinjs-loader) ：基于RegExp的Webpack中缩小CSS-in-JS加载器，不需要babel.   -  *维护者*：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
 
@@ -212,13 +212,13 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
   -  Antoine Caron |  18年1月18日 -  [Webpack : an unexpected journey](https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5)
   - 安德鲁韦尔奇|  10月23日 -  18日 -  [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
-- Gábor Soós | 24-Apr-17 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
+  - GáborSoós|  17年4月24日 -  [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
   -  Mark Erikson |  07年3月7日 -  [Declaratively Rendering Earth in 3D, Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
   -  Joseph Zimmerman |  2月2日至17日 -  [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   -  Jamund Ferguson |  12月22日 -  16日 -  [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
   - 肖恩T.拉金|  21-Jul-16  -  [Learn and Debug webpack with Chrome Dev Tools!.](https://medium.com/webpack/webpack-bits-learn-and-debug-webpack-with-chrome-dev-tools-da1c5b19554#.gpoentuxe)
   -  Raja Rao DV |  16年4月10日 -  [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
-  - 安德鲁雷|  09年4月9日 -  [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
+- Andrew Ray | 09-Apr-16 - [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
   -  Jonathan Creamer |  25年2月25日 -  [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
   -  Grgur Grisogono |  16年2月15日 -  [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
   -  Ilya Zayats |  07年2月7日 -  [How to split your apps by routes with Webpack.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
@@ -294,6 +294,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [React Universally](https://github.com/ctrlplusb/react-universally) - 入门套件为您提供生产就绪通用反应应用的最低要求.
 - [Budgeting Application](https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2) - 针对dev和prod优化的全功能样板应用程序，包括PRPL [Modus Create](https://github.com/ModusCreateOrg).
 - [Razzle Material-UI Styled Example](https://github.com/kireerik/razzle-material-ui-styled-example) - 使用带有压缩的Express的Styled Components [Erik Engi](https://github.com/kireerik).
+- [React Typescript Starter](https://github.com/shortgiraffe4/react-typescript-starter) -  React + TypeScript + Webpack 4 + React-Router 4 + Redux + React-Redux + Redux-Thunk + PostCSS + Bootstrap 4样板.
 
 ### Other
 

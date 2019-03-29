@@ -24,42 +24,42 @@
 
 ## Entertainment
 
-- [football-cli](https://github.com/ManrajGrover/football-cli) - 获得终端中几乎所有足球比赛/联赛的现场比分，赛程，积分榜.
+- [football-cli](https://github.com/ManrajGrover/football-cli) - 获得几乎所有足球比赛/联赛的现场比分，赛程，积分榜.
 - [pockyt](https://github.com/arvindch/pockyt) - 阅读，管理和自动化您 [Pocket](https://getpocket.com) 采集.
 - [newsboat](https://github.com/newsboat/newsboat) - 用于文本终端的可扩展RSS提要阅读器.
 
 ### Music
 
-- [cmus](https://github.com/cmus/cmus) - 适用于类Unix操作系统的小型，快速且功能强大的控制台音乐播放器.
+- [cmus](https://github.com/cmus/cmus) - 小巧，快速和强大的控制台音乐播放器.
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
-- [itunes-remote](https://github.com/mischah/itunes-remote)   - 这是关于在不离开终端的情况下听音乐.  仅限macOS.
+- [itunes-remote](https://github.com/mischah/itunes-remote) - 通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端收听SomaFM.
-- [nehm](https://github.com/bogem/nehm) - 控制台工具，下载，设置IDv3标签并添加到您的iTunes（如果您使用macOS）您的SoundCloud喜欢方便的方式.
+- [nehm](https://github.com/bogem/nehm) - 从SoundCloud下载曲目.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - 由ncmpc启发的基于ncurses的音乐播放器守护进程客户端.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - 基于Ncurses的音乐播放器守护程序客户端.
 - [moc](http://moc.daper.net/) - 适用于Linux / UNIX的控制台音频播放器.
 - [musikcube](https://github.com/clangen/musikcube) - 跨平台，基于终端的音乐播放器，音频引擎，元数据索引器和服务器.
 
 ### Social Media
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
-- [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端 - （[original](http://www.floodgap.com/software/ttytter/)).
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 用Python编写的终端上一个聪明而漂亮的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) -  RTV提供了一个界面，用于查看终端上的reddit并与之交互.
-- [WeeChat](https://weechat.org/)   -  WeeChat是一个快速，轻便且可扩展的聊天客户端.  它运行在许多平台上，如Linux，Unix，BSD，GNU Hurd，Mac OS X和Windows（Bash / Ubuntu和Cygwin）.
+- [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
+- [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
+- [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
 
 ### Video
 
-- [youtube-dl](http://rg3.github.io/youtube-dl/)   - 一个小型命令行程序，用于从YouTube.com和更多网站下载视频.  您可以使用`brew install youtube-dl`进行安装.
+- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从YouTube.com和许多其他视频网站下载视频.
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
-- [streamlink](https://github.com/streamlink/streamlink)   - 一种命令行实用程序，可将来自各种服务的视频流传输到视频播放器（如VLC）中.  Streamlink的主要目的是允许用户避免错误和CPU重闪存插件，但仍然能够享受各种流内容.
-- [mps-youtube](https://github.com/mps-youtube/mps-youtube) - 命令行Youtube播放器.
+- [streamlink](https://github.com/streamlink/streamlink) - 将各种网站的流提取到您选择的视频播放器.
+- [mps-youtube](https://github.com/mps-youtube/mps-youtube) -  Youtube播放器.
 
 ### Movies
-- [moviemon](https://github.com/iCHAIT/moviemon) - 命令行中有关您电影的所有内容.
-- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较终端中的电影.
+- [moviemon](https://github.com/iCHAIT/moviemon) - 关于你电影的一切.
+- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较电影.
 
 ### Games
 
@@ -68,14 +68,13 @@
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
-- [boilr](https://github.com/tmrts/boilr) - 无依赖关系的CLI，用于从样板模板创建项目.
-- [cgasm](https://github.com/bnagy/cgasm)   - 提供x86组装文档的工具.  它发音为“SeekAzzem”.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从cookiecutters（项目模板）创建项目.
-- [dockly](https://github.com/lirantal/dockly) - 用于管理Docker容器的交互式CLI.
-- [legit](https://github.com/captainsafia/legit) - 从许多开源许可证中进行选择以生成LICENSE文件或向文件添加许可证头.
-- [mklicense](https://github.com/cezaraugusto/mklicense)   - 使用自定义信息轻松创建自定义LICENSE文件.  忙碌的人和初学者友好.
-- [rebound](https://github.com/shobrook/rebound) - 当您遇到编译器错误时，立即在终端中获取Stack Overflow结果.
-- [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman生成器的CLI脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
+- [boilr](https://github.com/tmrts/boilr) - 从样板模板创建项目.
+- [cgasm](https://github.com/bnagy/cgasm) - 提供x86组装文档.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从模板创建项目.
+- [legit](https://github.com/captainsafia/legit) - 将开源许可证生成为文件或文件头.
+- [mklicense](https://github.com/cezaraugusto/mklicense) - 使用自定义信息轻松创建自定义LICENSE文件.
+- [rebound](https://github.com/shobrook/rebound) - 当您收到编译器错误时，在终端中获取堆栈溢出结果.
+- [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman发电机的脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [grip](https://github.com/joeyespo/grip) - 在提交之前使用GitHub样式预览markdown文件.
 
 ### Text Editors
@@ -83,30 +82,31 @@
 - [emacs](https://github.com/emacs-mirror/emacs) - 可扩展，可定制，免费/自由的文本编辑器 - 等等.
 - [vim](https://github.com/vim/vim) -  Vim  - 无处不在的文本编辑器.
 - [neovim](https://github.com/neovim/neovim) -  Vim fork专注于可扩展性和可用性.
+- [kakoune](https://github.com/mawww/kakoune) - 受vim启发的模态编辑器.
 
 ### Web Development
 
 - [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - 检查凉亭上是否有包裹名称.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
-- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是上升还是下降.
+- [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是否已启动.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从CSS中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
-- [surge](https://surge.sh) - 将目录部署到Web.
-- [acmetool](https://github.com/hlandau/acme) - 易于使用的命令行工具，用于自动从ACME服务器获取证书.
+- [surge](https://surge.sh) - Deploy a directory to the web.
+- [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - 无需使用Web浏览器即可管理WordPress安装，更新插件，设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 命令行工具，将git diff解析为JSON并生成漂亮的HTML.
+- [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
-- [add-gitignore](https://github.com/TejasQ/add-gitignore) - 交互式CLI，可根据您的需要为项目生成.gitignore.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) -  MEVN堆栈的CLI工具.
+- [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) -  MEVN（Mongo Express Vue Node）应用程序的光速设置.
 - [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) -  vanila JS的静态站点生成器.
-- [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到Amazon S3的简单方便的方法.
-- [reachable](https://github.com/italolelis/reachable) -  Reachable是一个CLI工具，用于检查域是否已启动.
-- [simplehttp](https://github.com/snwfdhmp/simplehttp) - 从CLI开始通过HTTP提供本地目录的最简单直接的方法.
-- [shell2http](https://github.com/msoap/shell2http)   - 用于执行shell命令的HTTP服务器.  专为开发，原型设计或远程控制而设计.
-- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示功能的交互式命令行HTTP客户端.
+- [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到Amazon S3.
+- [reachable](https://github.com/italolelis/reachable) - 检查域是否已启动.
+- [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过http轻松提供本地目录.
+- [shell2http](https://github.com/msoap/shell2http) - 通过HTTP服务器执行shell命令.
+- [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示功能的交互式HTTP客户端.
 
 ### Mobile Development
 
@@ -116,19 +116,20 @@
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) -  Neo4j的终端客户端，具有自动完成和语法突出显示功能.
-- [mycli](https://github.com/dbcli/mycli) - 具有AutoCompletion和语法突出显示的MySQL终端客户端.
-- [pgcli](https://github.com/dbcli/pgcli) -  Postgre的终端客户端，具有自动完成和语法突出显示功能.
+- [cycli](https://github.com/nicolewhite/cycli) - 具有自动完成和语法突出显示功能的Neo4j客户端.
+- [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的MySQL客户端.
+- [pgcli](https://github.com/dbcli/pgcli) -  Postgres客户端具有自动完成和语法突出显示功能.
 
 ### Devops
 
 - [htconvert](https://github.com/lukechilds/htconvert) - 将.htaccess重定向转换为nginx.conf重定向.
-- [aws-cli](https://github.com/aws/aws-cli) -  Amazon Web Services的通用命令行界面.
+- [aws-cli](https://github.com/aws/aws-cli) -  Amazon Web Services的通用接口.
 - [azure-cli](https://github.com/Azure/azure-cli) -  Azure的命令行工具.
 - [SAWS](https://github.com/donnemartin/saws) - 增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 全功能S3客户端.
 - [lstags](https://github.com/ivanilves/lstags) - 跨不同的注册表同步Docker镜像.
 - [pm2](https://pm2.io/runtime/) -  Node.js的生产过程管理器
+- [dockly](https://github.com/lirantal/dockly) - 以交互方式管理Docker容器.
 
 ### Release
 
@@ -147,44 +148,52 @@
 
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 即时捕获并上传截图 [imgur](https://imgur.com).
-- [bitly-client](https://github.com/specious/bitly-client) - 使用此命令行实用程序创建和管理Bitly短链接.
-- [doing](https://github.com/ttscoff/doing/) - 一个命令行工具，用于跟踪您正在做的事情并跟踪您已完成的工作.
+- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传截图到imgur.
+- [bitly-client](https://github.com/specious/bitly-client) - 有点客户.
+- [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您已完成的工作.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频覆盖和多显示器支持的ffmpeg截屏视频.
 - [imgur-uploader-cli](https://github.com/kevva/imgur-uploader-cli) - 上传图片到imgur.
-- [meetup-cli](https://github.com/specious/meetup-cli) -  Meetup.com命令行界面.
+- [meetup-cli](https://github.com/specious/meetup-cli) -  Meetup.com客户端.
 - [NeoMutt](https://neomutt.org) - 邮件客户端.
-- [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具.
-- [ipt](https://github.com/drselump14/ipt) - 关键跟踪器的命令行界面.
-- [g3l](https://github.com/svtek/g3l) -  Git很简单，github cli很容易，但是在w0rld中g3l最简单的git cli！
-- [uber-cli](https://github.com/jaebradley/uber-cli) - 优步，触手可及.
-- [Buku](https://github.com/jarun/Buku) - 强大的命令行书签管理器.
-- [googler](https://github.com/jarun/googler) - 来自终端的Google搜索，Google Site Search，Google新闻.
-- [calcurse](http://calcurse.org/) - 计算，命令行的日历和计划应用程序.
-- [papis](http://github.com/alejandrogallo/papis) - 功能强大且可扩展的文档和参考书目管理器.
+- [terjira](https://github.com/keepcosmos/terjira) -  Jira客户端.
+- [ipt](https://github.com/drselump14/ipt) -  Pivotal Tracker客户端.
+- [g3l](https://github.com/svtek/g3l) -  w0rld中最简单的git cli！
+- [uber-cli](https://github.com/jaebradley/uber-cli) - 优步客户.
+- [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
+- [googler](https://github.com/jarun/googler) - 来自终端的Google.
+- [calcurse](http://calcurse.org/) - 命令行的日历和计划应用程序.
+- [papis](http://github.com/alejandrogallo/papis) - 可扩展文档和参考书目管理器.
 
 ### Time Tracking
 
-- [Timetrap](https://github.com/samg/timetrap) - 简单的命令行timetracker.
-- [moro](https://github.com/omidfi/moro) - 使用单个命令的时间跟踪器.
+- [Timetrap](https://github.com/samg/timetrap) - 简单的命令行时间跟踪器.
+- [moro](https://github.com/omidfi/moro) - 跟踪工作时间的简单工具.
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) - 轻量级的CLI工具和模块，可以快速，轻松地将想法保存在安全的地方.
-- [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote的控制台客户端.
-- [Taskwarrior](http://taskwarrior.org) - 免费和开源软件，从您的命令行管理您的TODO列表.
-- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) -  UNIX终端的快速笔记应用程序.
+- [idea](https://github.com/IonicaBizau/idea) - 轻松的工具，可以快速，轻松地将想法保存在安全的地方.
+- [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote客户.
+- [Taskwarrior](http://taskwarrior.org) - 从命令行管理您的TODO列表.
+- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - 终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
-- [sncli](https://github.com/insanum/sncli) - 一个简单的Python应用程序，可让您通过命令行访问Simplenote帐户.
-- [td-cli](https://github.com/darrikonn/td-cli) - 一个todo命令行管理器，用于组织和管理多个项目中的待办事项.
+- [sncli](https://github.com/insanum/sncli) -  Simplenote客户.
+- [td-cli](https://github.com/darrikonn/td-cli) - 一个todo经理，负责组织和管理多个项目的待办事项.
 - [taskell](https://github.com/smallhadroncollider/taskell) - 命令行看板/任务管理器.
+- [taskbook](https://github.com/klaussinani/taskbook) - 命令行栖息地的任务，板和注释.
 
 ### Finance
 
-- [ledger](http://ledger-cli.org) - 强大的复式会计系统，可从UNIX命令行访问.
-- [moeda](https://github.com/thompsonemerson/moeda) - 使用CLI进行外汇汇率和货币兑换.
-- [cash-cli](https://github.com/xxczaki/cash-cli) - 从命令行转换32种货币！
-- [cointop](https://github.com/miguelmota/cointop) - 用于跟踪加密货币的最快且最具交互性的终端UI应用程序.
+- [ledger](http://ledger-cli.org) - 终端上功能强大的复式会计系统
+- [moeda](https://github.com/thompsonemerson/moeda) - 外汇汇率和货币兑换.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - 转换货币汇率.
+- [cointop](https://github.com/miguelmota/cointop) - 跟踪加密货币.
+
+### Presentations
+
+- [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
+- [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
+- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
+- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
 
 ### Presentations
 
@@ -197,70 +206,70 @@
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测Buffer / Uint8Array的归档类型.
 - [battery-level](https://github.com/gillstrom/battery-level) - 获取当前的电池电量.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - 改变屏幕亮度 -  [windows version](https://github.com/sondreb/win-brightness).
+- [brightness-cli](https://github.com/kevva/brightness-cli) - 更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
 - [yank](https://github.com/mptre/yank) -  Yank终端输出到剪贴板.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
-- [s](https://github.com/zquestz/s)   - 在终端中打开网络搜索.  支持多个搜索提供程序.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上搜索，下载和安装任何Google字体.
-- [aria2](https://github.com/tatsuhiro-t/aria2)   - 轻量级多协议和多源，跨平台下载实用程序.  它支持HTTP / HTTPS，FTP，SFTP，BitTorrent和Metalink.
-- [share-cli](https://github.com/marionebl/share-cli) - 从命令行快速与本地网络共享文件.
-- [wego](https://github.com/schachmat/wego) - 在浏览器或控制台中获取天气.
-- [weather-cli](https://github.com/riyadhalnur/weather-cli) - 从您的航站楼查看您所在城市的天气情况.
-- [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器 - 控制台中的整个世界！
-- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中快速观看窗口，无需关闭或打开另一个全屏窗口.
-- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从终端中的各个新闻媒体获取新闻标题.
+- [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上下载并安装Google Web Fonts.
+- [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
+- [share-cli](https://github.com/marionebl/share-cli) - 与本地网络共享文件.
+- [wego](https://github.com/schachmat/wego) - 得到天气.
+- [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
+- [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
+- [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻头条.
 - [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
-- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 您的代码的美丽图像 - 从您的终端内部.
-- [pass](https://www.passwordstore.org) - 通过，标准的unix密码管理器：简单，安全，功能强大.
-- [neofetch](https://github.com/dylanaraps/neofetch) - 用bash 3.2+编写的命令行系统信息工具.
-- [Glances](https://nicolargo.github.io/glances) - 用Python编写的跨平台系统监视工具（top / htop替代）.
-- [awesome-finder](https://github.com/mingrammer/awesome-finder) - 无需浏览器即可搜索精彩的策划列表.
+- [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成代码的精美图像.
+- [pass](https://www.passwordstore.org) - 标准的unix密码管理器.
+- [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
+- [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
+- [awesome-finder](https://github.com/mingrammer/awesome-finder) - 在没有浏览器的情况下搜索真棒列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
-- [Ultimate Plumber](https://github.com/akavel/up) -  Ultimate Plumber是一个用于编写Linux管道的工具，具有即时实时预览功能.
-- [flog](http://github.com/mingrammer/flog) - 用于常见日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
+- [Ultimate Plumber](https://github.com/akavel/up) - 使用实时预览编写Linux管道.
+- [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
+- [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
 
 ### macOS
 
-- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - 获取应用程序（macOS）的路径.
-- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - 从包名称（macOS）获取包标识符：Safari→com.apple.Safari.
-- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - 从包标识符（macOS）获取包名称：com.apple.Safari→Safari.
+- [app-path-cli](https://github.com/sindresorhus/app-path-cli) - 获取应用的路径.
+- [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - 从包名称中获取包标识符：Safari→com.apple.Safari.
+- [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - 从包标识符中获取包名称：com.apple.Safari→Safari.
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - 安全地强制创建符号链接.
-- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - 获取当前系统的macOS版本.
-- [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 用于管理OSX上的wifi连接的cli.
+- [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - 获取macOS版本.
+- [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 管理wifi连接.
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ id / etc.
-- [stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置MacOS安全设置.
-- [shallow-backup](https://github.com/alichtman/shallow-backup) - 轻松创建已安装软件包，dotfiles等的轻量级文档.
+- [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
+- [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开一个网站.
 
 ### Terminal Utilities
 
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
-- [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露在世界各地，以便于测试和共享.
+- [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
 - [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
 - [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
-- [seashells.io](https://seashells.io/) - 从命令行程序实时管道输出到Web.
-- [teleconsole](https://www.teleconsole.com/) - 在几秒钟内共享您的UNIX终端.
+- [seashells.io](https://seashells.io/) - 管道输出到网络.
+- [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.
 - [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
-- [OverTime](https://github.com/diit/overtime-cli) - 远程团队的简单时间重叠表.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - 非标记剥离复制粘贴终端命令之前的&#39;$&#39;.
+- [OverTime](https://github.com/diit/overtime-cli) - 远程团队的时间重叠表.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - 剥离复制粘贴终端命令之前的&#39;$&#39;.
 
 ### Network Utilities
 
-- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - Get an available port.
+- [get-port-cli](https://github.com/sindresorhus/get-port-cli) - 获得可用的端口.
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
-- [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用CLI中的speedtest.net测试您的互联网连接速度和ping.
-- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的speedtest-net包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽的命令行界面.
+- [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
+- [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 
 ### Theming and Customization
 
-- [splash-cli](https://github.com/rawnly/splash-cli) - 美丽的壁纸 [unsplash](http://unsplash.com).
+- [splash-cli](https://github.com/rawnly/splash-cli) - 来自unsplash的美丽壁纸.
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) - 获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
-- [JackPaper](https://github.com/jackel27/jackpaper) - 从unplash.com中提取随机/查询的图像并应用于桌面壁纸.
-- [pywal](https://github.com/dylanaraps/pywal) - 即时生成和更改颜色方案，然后将系统范围的颜色应用于您喜爱的所有程序.
+- [JackPaper](https://github.com/jackel27/jackpaper) - 将来自unplash.com的随机/查询图像应用为桌面墙纸.
+- [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后在系统范围内将它们应用于您喜爱的所有程序.
 
 ## Command Line Learning
 
@@ -355,7 +364,7 @@
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - ：tv：命令行的奇特GitHub客户端.
 - [Gistup](https://github.com/mbostock/gistup) - 从终端创建一个要点，然后使用git更新它.
 - [git commander](https://github.com/golbin/git-commander) - 一个带有简单终端界面的git工具.
-- [git-stats](https://github.com/IonicaBizau/git-stats) - ：four_leaf_clover：类似GitHub的贡献日历，但在本地，与你的所有git提交.
+- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub](https://github.com/github/hub) -  git的命令行包装器，可以让你在GitHub上更好.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取GitHub用户的当前本地时间.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - 从命令行编辑GitHub标签.
@@ -365,7 +374,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) - 将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -  gitlab cli用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -  git-ignore，git-setup，git-changelog，git-release，git-effort等小git附加功能.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) - 并排管理多个git repos以获得理智.
 
 ## Images
 
@@ -396,7 +405,7 @@
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
 
 ## Graphics
-- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
+- [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) - 穿越Mandelbrot分形的cli.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) - 生成迷你图▂▃▅▂▇..
 
 ## Just for Fun

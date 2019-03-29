@@ -153,7 +153,7 @@
 * [Ekito/koin](https://github.com/Ekito/koin) - 适用于Android和JVM的功能性Kotlin依赖注入框架.
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
-* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - 为Kotlin中的协同程序设计文档和示例.
+* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - 建立在Kotlin协同上的图书馆.
 * [soywiz/korio](https://github.com/soywiz/korio) -  Korio：Kotlin cORoutines I / O：用于JVM，Node.JS和浏览器的Streams +异步TCP客户端/服务器+虚拟文件系统.
 * [soywiz/korim](https://github.com/soywiz/korim) -  Korim：Kotlin coroutines IMaging实用程序取决于Korio.
@@ -305,6 +305,9 @@
 * [pemistahl/lingua](https://github.com/pemistahl/lingua) - 适用于长文本和短文本的语言检测库
 * [sandjelkovic/kxjtime](https://github.com/sandjelkovic/kxjtime) - 用于java.time API的轻量级Kotlin扩展
 * [pmwmedia/tinylog](https://github.com/pmwmedia/tinylog) - 轻量级日志框架，带有Kotlin的本机日志API.
+
+### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi<sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
+* [mhashim6/Pi4K](https://github.com/mhashim6/Pi4K) -  Pi4J Kotlin绑定.
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - 扩展和顶级函数，以在Kotlin 1.0中使用JDK7 / JDK8功能.
@@ -460,7 +463,7 @@
 * [robinchew/mvil](https://github.com/robinchew/mvil) - 由Anvil启发的Android版“Virtual DOM”.
 * [DanielMartinus/Stepper-Touch](https://github.com/DanielMartinus/Stepper-Touch) - 有趣的有趣的Android步进小工具，用于计算，用Kotlin编写.
 * [GlimpseFramework/glimpse-framework-android](https://github.com/GlimpseFramework/glimpse-framework-android) -  OpenGL变得简单.
-* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
+* [infotech-group/android-drawable-dsl](https://github.com/infotech-group/android-drawable-dsl) - 用于在Kotlin而不是XML中构建drawable的DSL.
 * [zsmb13/MaterialDrawerKt](https://github.com/zsmb13/MaterialDrawerKt) - 用于创建没有任何XML的Material Design导航抽屉的DSL.
 * [SnowdreamFramework/ToyBricks](https://github.com/SnowdreamFramework/ToyBricks) -  Android库，提供更简单的方式来实现模块化.
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
@@ -650,7 +653,7 @@
 * [Istanbul Kotlin User Group](https://www.meetup.com/Kotlin-%C4%B0stanbul/) - 火鸡
 * [Jalandhar Kotlin User Group](https://nvite.com/JalandharKotlin/13lv7v) - 印度
 * [Japan Kotlin User Group](https://kotlin.connpass.com/) - 日本
-* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - Pakistan
+* [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) - 巴基斯坦
 * [Kathmandu Kotlin User Group](https://www.facebook.com/groups/100333660782830/) - 尼泊尔
 * [Kolkata Kotlin User Group](https://www.meetup.com/Kotlin-Kolkata-UG/) - 印度
 * [Korean Kotlin User Group](http://kotlin.kr/) - 韩国
@@ -660,7 +663,7 @@
 * [Myanmar Kotlin User Group](https://www.facebook.com/groups/kotlinmyanmarusergroup/about/) - 缅甸
 * [Nepal Kotlin User Group](https://www.facebook.com/groups/dnkotlin/) - 尼泊尔
 * [New Delhi Kotlin User Group](https://www.facebook.com/kotlinNewDelhi/) - 印度
-* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - Pakistan
+* [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) - 巴基斯坦
 * [Philippines Kotlin](https://www.facebook.com/groups/642901202586581/) - 菲律宾
 * [Pune Kotlin User Group](https://www.facebook.com/groups/punekotlin) - 印度
 * [Saudi Arabia Kotlin User Group](https://www.facebook.com/KotlinArabia) - 沙特阿拉伯
@@ -820,7 +823,7 @@
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
 * [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
-* [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
+* [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) - David Schreiber‑Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里
 * [App State as a tree](http://kotlin.link/articles/App-State-as-a-tree.html) - 刘易斯莱茵河

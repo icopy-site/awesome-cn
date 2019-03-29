@@ -79,6 +79,7 @@
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - 基于Redux的轻量级状态容器，具有单个存储而不具有reducer.
 - [FPreact](https://github.com/UnwrittenFun/fpreact) - 提供另一种api，用于创建受榆树激发灵感的预制组件.
 - [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
+- [ClearX](https://github.com/Autodesk/clearx) -  React，Preact和Inferno的快速，轻松的状态管理，零学习曲线.
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) -  JSX断言测试_（没有DOM，在Node中）_.

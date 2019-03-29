@@ -79,7 +79,7 @@
 * [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
-* [koa-graphql](https://github.com/chentsulin/koa-graphql) -GraphQL Koa Middleware.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
 
 #### Database & ORM
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助定义BookshelfJS模型周围的GraphQL架构.
@@ -109,7 +109,7 @@
 * [vue-apollo](https://github.com/Akryum/vue-apollo) - 阿波罗的Vue集成.
 * [graphql-pouch](https://github.com/MikeBild/graphql-pouch) - 由GraphQL简写表示法创建的PouchDB之上的GraphQL-API运行时作为具有CouchDB同步的自包含服务.
 * [gql-tools](https://github.com/almilo/gql-tools) - 带有CLI的工具库，用于模式生成和操作.
-* [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
+* [graphql-iso-date](https://github.com/excitement-engineer/graphql-iso-date)   - 与GraphQL.js一起使用的GraphQL日期标量类型.  此标量表示ISO 8601格式YYYY-MM-DD的日期.
 * [graphql-compose](https://github.com/graphql-compose/graphql-compose) - 工具，允许您通过插件从不同的数据源构建灵活的graphql架构.
 * [node-graphjoiner](https://github.com/mwilliamson/node-graphjoiner) - 使用连接，SQL或其他方式创建GraphQL API.
 * [Join Monster](https://github.com/acarl005/join-monster) - 用于批量数据提取的GraphQL-to-SQL查询执行层.
@@ -208,7 +208,7 @@
 
 ### Go Libraries
 
-* [graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go follows graphql-js
+* [graphql](https://github.com/graphql-go/graphql) -  GraphQL for Go的实现遵循graphql-js
 * [graphql-go](https://github.com/graph-gophers/graphql-go) -  GraphQL服务器，重点是易用性.
 * [GQLGen](https://github.com/99designs/gqlgen) - 去生成基于graphql的服务器库.
 * [machinebox/graphql](https://github.com/machinebox/graphql) -  Go的简单低级GraphQL客户端
@@ -309,7 +309,7 @@
 
 ### ClojureScript Libraries
 
-* [re-graph](https://github.com/oliyh/re-graph) - 用于ClojureScript的GraphQL客户端，具有用于重新框架应用程序的绑定.
+* [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
 * [graphql-query](https://github.com/district0x/graphql-query) -  Clojure（脚本）GraphQL查询生成.
 
 <a name="tools" />
@@ -355,6 +355,7 @@
 * [Apollo GraphQL VSCode Extension](https://marketplace.visualstudio.com/items?itemName=apollographql.vscode-apollo) - 丰富的编辑器支持GraphQL客户端和服务器开发，可与Apollo平台无缝集成
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - 开发人员的Web应用程序工具，使用React快速构建GraphQL的完整堆栈CRUD实现.
 * [GraphQL Inspector](https://graphql-inspector.com/)   -  GraphQL的工具.  比较模式，验证文档，查找重大更改，查找类似类型，模式覆盖.
+* [graphql-typed-client](https://github.com/helios1138/graphql-typed-client)   - 为任何GraphQL端点生成强类型客户端库的工具.  客户端允许将GraphQL查询编写为普通的JS对象（具有类型安全性和令人敬畏的代码完成体验）
 
 <a name="databases" />
 
@@ -486,6 +487,17 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 
 * [graphql-spqr-samples](https://github.com/leangen/graphql-spqr-samples) - 使用Spring MVC和GraphQL-SPQR编写的示例GraphQL服务器
 
+<a name="book" />
+
+## Books
+
+* [The GraphQL Guide](https://graphql.guide) 作者：John Resig和Loren Sands-Ramshaw
+* [Learning GraphQL](https://www.amazon.com/Learning-GraphQL-Declarative-Fetching-Modern/dp/1492030716/) 作者：Eve Porcello和Alex Banks
+* [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) 布鲁斯威廉姆斯和本威尔逊
+* [The Road to GraphQL](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_GRAPHQL)
+* [Fullstack GraphQL](https://www.graphql.college/fullstack-graphql) 作者：Julian Mayorga
+* [Learning GraphQL and Relay](https://www.packtpub.com/web-development/learning-graphql-and-relay) 作者：Samer Buna
+
 <a name="video" />
 
 ## Videos
@@ -552,7 +564,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 
 ## Workshoppers
 
-* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/)   - 总体初学者教程仅关注GraphQL而不使用所有工具.  在LEARN和PLAY模式之间交替角色扮演权力的游戏角色.
+* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
 * [How to GraphQL](https://www.howtographql.com) -  Fullstack教程网站，包含所有主要框架和语言的轨道，包括React，Apollo，Relay，JavaScript，Ruby，Java，Elixir等等
 * [learning-graphql](https://github.com/mugli/learning-graphql) - 尝试学习GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) -  GraphQL概念的课程/演练.

@@ -634,6 +634,7 @@
 * [cyclicbarrier](https://github.com/marusama/cyclicbarrier) - CyclicBarrier for golang.
 * [go-floc](https://github.com/workanator/go-floc) - 轻松协调goroutines.
 * [go-flow](https://github.com/kamildrazkiewicz/go-flow) - 控制goroutines执行顺序.
+* [go-tools/multithreading](https://github.com/nikhilsaraf/go-tools) - 使用这个轻量级库和简单的API管理goroutine池.
 * [go-trylock](https://github.com/subchen/go-trylock) - 针对Golang的读写锁定的TryLock支持.
 * [GoSlaves](https://github.com/themester/GoSlaves) - 简单和异步Goroutine池库.
 * [goworker](https://github.com/benmanns/goworker) -  goworker是一名Go-based背景工作者.
