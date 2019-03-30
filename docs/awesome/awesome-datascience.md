@@ -232,6 +232,10 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Distill](http://distill.pub) - 致力于清除机器学习的解释！
 - [Chris Albon's Website](https://chrisalbon.com/) - 数据科学和人工智能笔记 
 
+## Newsletters
+
+- [AI Digest](https://aidigest.net/) .  每周通讯，以跟上人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+
 ## Podcasts
 
 - [Adversarial Learning](http://adversariallearning.com/)
@@ -315,7 +319,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Hakan Kardas](https://twitter.com/hakan_kardes) - 数据科学家
 - [Hilary Mason](https://twitter.com/hmason) -  @accel驻留的数据科学家.
 - [Jeff Hammerbacher](https://twitter.com/hackingdata) 重新关注数据科学
-- [John Myles White](https://twitter.com/johnmyleswhite)  Facebook和Julia开发人员的科学家.  用于网站优化的黑客机器学习和强盗算法的作者.  推文仅反映我的观点.
+- [John Myles White](https://twitter.com/johnmyleswhite)  Facebook和Julia开发人员的科学家.  用于网站优化的黑客和强盗算法机器学习的作者.  推文仅反映我的观点.
 - [Juan Miguel Lavista](https://twitter.com/BDataScientist) - 首席数据科学家@微软数据科学团队
 - [Julia Evans](https://twitter.com/b0rk) - 黑客 - 熊猫 - 数据分析
 - [Kenneth Cukier](https://twitter.com/kncukier) - 经济学人的数据编辑和大数据的合着者（http://big-data-book.com）.

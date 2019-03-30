@@ -228,6 +228,7 @@
 - [Ultimate Plumber](https://github.com/akavel/up) - 使用实时预览编写Linux管道.
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
 
 ### macOS
 

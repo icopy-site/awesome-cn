@@ -35,8 +35,6 @@ them.
   （C，2条款BSD， [BitBucket](https://bitbucket.org/petsc/petsc/src))
 - [DUNE Numerics](https://www.dune-project.org) - 使用基于网格的方法解决PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
-- [Trilinos](https://trilinos.org) - 用于解决大规模，复杂的多物理工程和科学问题的算法和支持技术.
-  （主要是C ++，主要是BSD， [GitHub](https://github.com/trilinos/))
 - [SciPy](https://www.scipy.org) - 用于统计，优化，集成，线性代数，傅立叶变换，信号和图像处理，ODE求解器等的Python模块.
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://www.numpy.org) - 使用Python进行科学计算所需的基础包.
@@ -101,6 +99,8 @@ them.
   （100 ++，BSD， [GitHub](https://github.com/hjwdzh/QuadriFlow))
 - [trimesh](https://trimsh.org/) - 加载和使用三角形网格，重点是防水表面.
   （Python，麻省理工学院， [GitHub](https://github.com/mikedh/trimesh))
+- [dmsh](https://github.com/nschloe/dmsh) - 由distmesh启发的非结构化三角网格的简单生成器.
+  （Python，MIT，GitHub）
 
 
 ## Sparse linear solvers

@@ -85,7 +85,7 @@ android安全相关资源的集合.
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - 相当于基于Stub的代码注入，但没有对二进制文件进行任何修改
 12. [Inspeckage](https://github.com/ac-pm/Inspeckage)   -  Android Package Inspector  - 使用api钩子进行动态分析，启动未导出的活动等等.  （Xposed模块）
-13. [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
+13. [Android Hooker](https://github.com/AndroidHooker/hooker) - 动态Java代码检测（需要Substrate Framework）
 14. [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - 动态Java代码检测
 15. [Android Tamer](https://androidtamer.com/) - 适用于Android安全专业人员的虚拟/实时平台
 16. [DECAF](https://github.com/sycurelab/DECAF) - 基于QEMU的动态可执行代码分析框架（DroidScope现在是DECAF的扩展）
@@ -198,7 +198,7 @@ android安全相关资源的集合.
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
-5. [Mobile Security Reading Room](https://mobile-security.zeef.com) - 阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和各种移动安全相关主题的分类技术阅读材料
+5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - 阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和各种移动安全相关主题的分类技术阅读材料~~
 6.  ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
 
 
