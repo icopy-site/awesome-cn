@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="aleksandar-todorovic/awesome-c"></div>
-## awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![List Status](https://travis-ci.org/aleksandar-todorovic/awesome-c.svg?branch=master)](https://travis-ci.org/aleksandar-todorovic/awesome-c)
+## awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![List Status](https://api.travis-ci.org/aleksandar-todorovic/awesome-c.svg?branch=master)](https://travis-ci.org/aleksandar-todorovic/awesome-c)
 
  C好东西的精选列表.  此列表仅包含* [free software](https://en.wikipedia.org/wiki/Free_software) 代码和卖家谁不是物质资源的邪恶.
 
@@ -27,9 +27,9 @@ Contents
 * [Ninja](https://github.com/ninja-build/ninja) - 小巧，简单的构建系统，专注于速度. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Bazel](https://bazel.build/) - 为各种操作系统和目标构建系统. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Buck](https://buckbuild.com/) - 构建由Facebook创建和使用的系统. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [Qbs](http://doc.qt.io/qbs/) - 用于软件项目的现代构建工具. [`LGPL3`](https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3)
+* [Qbs](https://doc.qt.io/qbs/) - 用于软件项目的现代构建工具. [`LGPL3`](https://code.qt.io/cgit/qbs/qbs.git/tree/LICENSE.LGPLv3)
 * [qmake](https://doc.qt.io/qt-5/qmake-manual.html) - 构建Qt框架附带的系统. [`GNU GPL3 with Qt Exception`](https://github.com/qt/qtbase/blob/5.11/LICENSE.GPL3-EXCEPT)
-* [xmake](https://xmake.io/) - 基于lua的跨平台构建实用程序. [`Apache 2.0`](https://github.com/tboox/xmake/blob/master/LICENSE.md)
+* [xmake](https://xmake.io/) - 基于lua的跨平台构建实用程序. [`Apache 2.0`](https://github.com/xmake-io/xmake/blob/master/LICENSE.md )
 
 ## Compilers ##
 
@@ -220,6 +220,7 @@ Contents
 * [jwHash](https://github.com/watmough/jwHash) - 快速哈希表实现. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [xxHash](http://cyan4973.github.io/xxHash/) - 极快的非加密哈希算法. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
 * [murmur](https://github.com/ispc/ispc) - 执行MurMur Hashing的C语言. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
+* [t1ha](https://github.com/leo-yuriev/t1ha) - 快速积极哈希库. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
 ## Image Processing ##
 
@@ -256,7 +257,7 @@ Contents
 
 #### Beginner ####
 
-* [Tutorial on pointers](http://home.netcom.com/~tjensen/ptr/pointers.htm)
+* [Tutorial on pointers](http://www.cs.ucsb.edu/~mikec/cs16/misc/ptrtut12/index.htm)
 * [Building C Projects](http://nethack4.org/blog/building-c.html)
 * [C Programming Wikibook](https://en.wikibooks.org/wiki/C_Programming)
 * [Introduction to 'fun' C](https://gist.github.com/eatonphil/21b3d6569f24ad164365)
@@ -276,7 +277,7 @@ Contents
 * [MPI tutorial](https://computing.llnl.gov/tutorials/mpi/)
 * [Some unknown features or tricks in C language](https://proprogramming.org/some-unknown-features-or-tricks-in-c-language/)
 * [The lost art of C structure packing](http://www.catb.org/esr/structure-packing/)
-* [What a C programmer should know about memory](http://marek.vavrusa.com/memory/)
+* [What a C programmer should know about memory](https://marek.vavrusa.com/memory/)
 * [What every C programmer should know about undefined behaviour](http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html)
 
 #### Advanced ####
@@ -294,7 +295,7 @@ Contents
 
 #### Self-study courses ####
 
-* [C Programming Language Certified Associate preparation course](http://cppinstitute.com/study-resources)
+* [C Programming Language Certified Associate preparation course](https://cppinstitute.com/study-resources )
 
 ### Physical ###
 
@@ -361,7 +362,7 @@ Contents
 * [libuv](http://libuv.org/) - 跨平台异步I / O. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libevent](http://libevent.org/) - 网络服务器的事件循环替换. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [libgss](https://www.gnu.org/software/gss/) - 通用安全服务. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [libhttpd](http://www.hughes.com.au/products/libhttpd/) - 库，用于向应用程序或嵌入式设备添加基本Web服务器功能. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
+* [libhttpd](https://hughes.com.au/products/libhttpd/) - 库，用于向应用程序或嵌入式设备添加基本Web服务器功能. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
 * [libidn](https://www.gnu.org/software/libidn/) - 实现Stringprep，Punycode和IDNA规范. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/) - 小型C库，可以轻松地将HTTP服务器作为另一个应用程序的一部分运行. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [libsagui](https://risoflora.github.io/libsagui/) -  Sagui是一个跨平台的C库，有助于开发Web服务器或框架. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
@@ -389,7 +390,7 @@ Contents
 ## Numerical ##
 
 * [apophenia](http://apophenia.info/) - 统计和科学计算图书馆. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [ATLAS](http://math-atlas.sourceforge.net/) - Automatically Tuned Linear Algebra Software. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [ATLAS](http://math-atlas.sourceforge.net/) - 自动调谐线性代数软件. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [BLAS](http://www.netlib.org/blas/)   - 基本线性代数子程序;  一组提供向量和矩阵运算的例程. [`BLAS license`](http://www.netlib.org/blas/#_licensing)
 * [CDFLIB](https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html)   - 具有例程的库，用于评估各种标准概率分布的累积密度函数.  也可以在给定其他参数的情况下计算CDF的一个参数.  （没有许可证）
 * [cmathl](https://scientificc.github.io/cmathl/)   - 具有各种数学函数和CMake构建支持的Pure-C Math库.  寻求接近符合C89 / C90标准的便携性. [`MIT`](https://github.com/ScientificC/cmathl/blob/master/LICENSE)
@@ -404,7 +405,7 @@ Contents
 * [GSL](http://www.gnu.org/software/gsl/)   -  GNU科学图书馆;  一个复杂的数值库. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [igraph](https://igraph.org/) - 用于创建和操作大图的库. [`GNU GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [KISS FFT](https://sourceforge.net/projects/kissfft/) - 非常简单的快速傅里叶变换库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [LAPACKE](http://www.netlib.org/lapack/lapacke.html) -  C接口 [LAPACK](http://www.netlib.org/lapack/). [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [LAPACKE](http://www.netlib.org/lapack/lapacke.html) - C interface to [LAPACK](http://www.netlib.org/lapack/). [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [PARI/GP](http://pari.math.u-bordeaux.fr/)   - 数论的计算机代数系统;  包括C的编译器. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [PETSc](https://www.mcs.anl.gov/petsc/) - 用于通过偏微分方程建模的科学应用的可扩展并行解决方案的数据结构和例程套件. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [PROB](https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html) - 处理各种离散和连续概率密度函数的库.  [`GNU LGPL3`](https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt)
@@ -441,6 +442,7 @@ Contents
 * [PCRE](http://www.pcre.org/) - 实现与Perl 5相同的正则表达式. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [regexp4](https://github.com/nasciiboy/recursiveregexpraptor-4) - 使用自己的sintax简单而完整地实现正则表达式. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [SLRE](https://github.com/cesanta/slre)   - 超轻正则​​表达式库;  Perl正则表达式语法子集的一个非常小的实现. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [sregex](https://github.com/openresty/sregex) - 非回溯NFA / DFA的Perl兼容正则表达式引擎库. [`3-clause BSD`](https://opensource.org/licenses/BSD-3-Clause)
 * [TRE](https://github.com/laurikari/tre/) - 符合POSIX标准，功能齐全的正则表达式库. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 
 ## Serialization ##
@@ -482,7 +484,7 @@ Contents
 * [SDS](https://github.com/antirez/sds)   - 简单的动态字符串;  用于以更简单的方式处理C字符串的库，但是与普通C字符串函数兼容的库.  可通过 [clib](https://github.com/clibs/clib). [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [shoco](http://ed-von-schleck.github.io/shoco/) - 用于小文本字符串的压缩器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [smaz](https://github.com/antirez/smaz) - 高效的字符串压缩库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [utf8.h](https://github.com/sheredom/utf8.h) - 单头utf8字符串函数. [`Unlicense`](http://unlicense.org/)
+* [utf8.h](https://github.com/sheredom/utf8.h) - 单头utf8字符串函数. [`Unlicense`](https://unlicense.org/)
 * [utf8proc](https://github.com/JuliaStrings/utf8proc) - 用于处理UTF-8 Unicode数据的小型，干净的库. [`License`](https://github.com/JuliaStrings/utf8proc/blob/master/LICENSE.md)
 
 ## Testing ##
@@ -571,11 +573,11 @@ Contents
 * [libgit2](https://libgit2.org/) -  Git的Pure C实现. [`GNU GPL2 only, with a linking exception`](https://github.com/libgit2/libgit2/blob/master/COPYING)
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) - 与iThings通信的跨平台协议库. [`GNU LGPLv2.1 要么 later (library)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU GPL2.1 要么 later (tools)`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html)
 * [libnfc](https://github.com/nfc-tools/libnfc) - 独立于平台的近场通信库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
-* [libPhenom](http://facebook.github.io/libphenom/index.html) - 用于构建高可扩展性和高性能系统的事件框架. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [libPhenom](https://github.com/facebookarchive/libphenom)   - 已弃用，此处用于存档目的.  用于构建高可伸缩性和高性能系统的事件框架. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [ncurses](https://www.gnu.org/software/ncurses/) - 彩色终端UI库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [nope.c](https://github.com/riolet/WAFer) - 基于C语言的超轻型软件平台，适用于可扩展的服务器端和网络应用程序（想想C程序员的node.js）. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [pbc](https://github.com/cloudwu/pbc) - 协议缓冲库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) - 客户端库 [RabbitMQ](http://www.rabbitmq.com/). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
+* [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) - 客户端库 [RabbitMQ](https://www.rabbitmq.com/). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [Ragel](http://www.colm.net/open-source/ragel/) - 用于编译为C的状态机的DSL. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Tinyexpr](https://github.com/codeplea/tinyexpr) - 简单的递归下降解析器，编译器和评估引擎，用于简单的数学表达式. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [uthash](http://troydhanson.github.io/uthash/) - 哈希表实现，允许现有结构轻松存储在哈希表中. [`1-clause BSD`](http://troydhanson.github.io/uthash/license.html)
@@ -584,7 +586,7 @@ Contents
 * [libelf](https://github.com/WolfgangSt/libelf) -  C中的ELF目标文件访问库 [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [mcpp](http://mcpp.sourceforge.net/) - 便携式C预处理器. [`2-clause BSD`](https://opensource.org/licenses/BSD-2-Clause)
 * [libusb](https://libusb.info/) - 对USB设备的通用访问. [`LGPL2.1`](https://github.com/libusb/libusb/blob/master/COPYING)
-* [alsa-lib](http://www.alsa-project.org/main/index.php/Main_Page) - 用户空间库与ALSA交互. [`LGPL2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
+* [alsa-lib](https://www.alsa-project.org/main/index.php/Main_Page ) - 用户空间库与ALSA交互. [`LGPL2.1`](https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html)
 * [Capstone](https://github.com/aquynh/capstone) -  Dissassembly / disassembler框架. [`BSD 3-clause`](https://github.com/aquynh/capstone/blob/master/LICENSE.TXT)
 
 ## XML ##
@@ -593,4 +595,4 @@ Contents
 
 * [Expat](http://www.libexpat.org/) - 面向流的XML解析器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libxml2](http://xmlsoft.org/) - 符合标准的可移植XML解析器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [mini-xml](https://github.com/michaelrsweet/mxml)   - 小型XML读写库.  除了C标准库之外没有依赖性. [`GNU LGPL2.1 with static linking exception`](https://github.com/michaelrsweet/mxml/blob/master/COPYING)
+* [mini-xml](https://github.com/michaelrsweet/mxml)   - 小型XML读写库.  除了C标准库之外没有依赖性. [`Apache 2.0 with exceptions`](https://github.com/michaelrsweet/mxml/blob/master/LICENSE)

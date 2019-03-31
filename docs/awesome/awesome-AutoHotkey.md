@@ -251,6 +251,7 @@
 * [Embed Perl](http://thomaslauer.com/comp/Calling_Perl_from_AHK_or_AU3) - 论坛帖子： [link](https://autohotkey.com/board/topic/11249-embedding-perl/).
 * [PAHK](https://code.google.com/archive/p/pahk) - 论坛帖子： [link](https://autohotkey.com/board/topic/89022-pahk-python-package-to-extend-python-with-autohotkey/).
 * [PYAHK](https://bitbucket.org/kitsu/pyahk/downloads) - 文件 [link](https://pyahk.readthedocs.io/en/latest/).
+* [ahk](https://github.com/spyoungtech/ahk) -  AutoHotkey的Python包装器 - 论坛主题： [link](https://www.autohotkey.com/boards/viewtopic.php?f=6&t=63184)
 
 ## Tutorials
 *有用的AutoHotkey教程列表.*

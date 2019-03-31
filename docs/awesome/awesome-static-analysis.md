@@ -236,7 +236,7 @@
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.
-* [eslint](https://github.com/eslint/eslint) - 一个完全可插入的工具，用于识别和报告JavaScript中的模式
+* [eslint](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 * [Esprima](https://github.com/jquery/esprima) - 用于多功能分析的ECMAScript解析基础设施
 * [flow](https://flow.org/) -  JavaScript的静态类型检查器.
 * [jshint](https://github.com/jshint/jshint) ：警告： - 检测JavaScript代码中的错误和潜在问题，并执行您团队的编码约定
@@ -288,7 +288,7 @@
 * [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) - 用于PHP的静态代码分析器.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) - 重构帮助者
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) - 根据语义版本控制建议下一个版本
-* [PHP-Parser](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* [PHP-Parser](https://github.com/nikic/PHP-Parser) - 用PHP编写的PHP解析器
 * [PHP-Token-Reflection](https://github.com/Andrewsville/PHP-Token-Reflection) - 模拟PHP内部反射的库
 * [php7cc](https://github.com/sstalle/php7cc) -  PHP 7兼容性检查器
 * [php7mar](https://github.com/Alexia/php7mar) - 帮助开发人员快速将代码移植到PHP 7
@@ -311,7 +311,7 @@
 * [Progpilot](https://github.com/designsecurity/progpilot) - 用于安全目的的静态分析工具
 * [Psalm](https://getpsalm.org/) - 用于在PHP应用程序中查找类型错误的静态分析工具
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - 可视化指标和源代码
-* [RIPS](https://github.com/ripsscanner/rips) - 用于PHP脚本漏洞的静态源代码分析器
+* [RIPS](https://www.ripstech.com/) ：copyright： - 用于PHP脚本漏洞的静态源代码分析器
 * [Tuli](https://github.com/ircmaxell/Tuli) - 静态分析引擎
 * [twig-lint](https://github.com/asm89/twig-lint) -  twig-lint是你的twig文件的lint工具.
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - 用于检测和纠正PHP（4.0或更高版本）Web应用程序中的输入验证漏洞的工具，并通过组合静态分析和数据挖掘来预测误报.

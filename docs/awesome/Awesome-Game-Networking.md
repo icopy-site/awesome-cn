@@ -18,7 +18,7 @@
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - 来自IT Hare团队的详细网络编程文章.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -  Keith Johnston对NAT和P2P连接的简要总结.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - 基本的游戏网络概念，以及PC Gamer上Chris“Battle（non）sense”的例子.
-- [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - Networking a stack of cubes with Unity and PhysX by Glenn Fiedler at Oculus.
+- [Networked Physics in Virtual Reality](https://developer.oculus.com/blog/networked-physics-in-virtual-reality-networking-a-stack-of-cubes-with-unity-and-physx/) - 由Oclen的Glenn Fiedler与Unity和PhysX组成一堆立方体.
 - [Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147) -  Destroy All Software对低级网络协议栈的简要而详细的概述.
 - [Photon Unity Networking](https://doc.photonengine.com/en-us/pun/current/getting-started/pun-intro) - 官方PUN多人在线游戏网络框架文档维基.
 - [Quake 3 Network Model](http://fabiensanglard.net/quake3/network.php) -  Fabien Sanglard关于Quake 3网络模型的源代码评论.
@@ -30,6 +30,7 @@
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) - 对Quake III Arena中使用的先前网络架构的改进.
 - [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) - 项目代码和关于Evan Todd网络挑战的详细博客文章.
 - [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) - 由Mark Frohnmayer和Tim Gift撰写的Tribes II的网络模型论文.
+- [Tick Based Lag Compensation in Unity](https://twotenpvp.github.io/lag-compensation-in-unity.html) - AlbinCorén更准确地拍摄案例.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) -  Joe Best-Rotheray的演示项目和详细的博客文章.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) -  Justin Rempel的示例项目和详细博客文章.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - 历史但仍然有价值的UE3游戏网络文档维基.
@@ -74,7 +75,7 @@
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - 来自Epic Games的Wes Bunn的蓝图多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - （付费）Tom Looman的C ++多人游戏开发教程系列.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - （付费）Sam Pattuzzi的C ++在线游戏开发教程系列.
-  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -  Maik Hilfer的Steam支持的蓝图多人游戏教程.
+  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
 - 团结
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
   - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) -  Unity提供的基于UNET的多人游戏网络教程.
@@ -91,6 +92,7 @@
   - [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) -  Unity专注于实时多人网络解决方案.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - 可靠的UDP网络库（.NET）.
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) -  Lite可靠的UDP网络库（.NET / Mono）.
+  - [MLAPI](https://mlapi.network) - 将网络库与Unity的许多内置功能混合搭配.
   - [PhotonEngine](https://photonengine.com) - 混合多人游戏网络平台（SaaS，云）.
 -  Java
   - [SmartFoxServer](http://smartfoxserver.com/) - 具有高级内置功能的大型多人游戏服务器.

@@ -11,6 +11,10 @@
 
 
 
+## CircuitPython.org
+
+[CircuitPython.org](https://circuitpython.org/)  是信息蛇高速公路的第一站.  在这里你可以看到所有 [supported boards and download](https://circuitpython.org/downloads)  每个版本的特定固件，包括测试版，最新版和早期版.  下载可按以下方式排序：制造商，功能，名称等.  目前，CircuitPython系列支持超过30多种电路板！
+
 ## Guides
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -  CircuitPython和社区概述.
@@ -24,7 +28,6 @@
 - [Python on Hardware weekly VideoCast](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev)   - 硬件上Python的精彩世界.  视频通讯 - 播放所有Python和电子产品.
 - [CircuitPython Weekly Meeting](https://www.youtube.com/playlist?list=PLjF7R1fz_OOUvw7tMv45xjWp0ht8yNgg0) - 从2017年9月开始，通过Discord每周社区会议的视频存档.
 - [Adafruit CircuitPython Forums](https://forums.adafruit.com/viewforum.php?f=60) - 关于CircuitPython的Adafruit讨论论坛.
-- [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) -  Dave Astels在CircuitPython上有用的备忘单.
 
 ## Books
 
@@ -37,10 +40,11 @@
 - [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
 - [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) -  CircuitPython可用的功能和文档列表.
-- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - The functions and documentation specific to the Circuit Playground Express using CircuitPython.
+- [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - 使用CircuitPython特定于Circuit Playground Express的功能和文档.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) -  GitHub上CircuitPython的源代码.
 - [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过130个库可用.
 - [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) -  Raspberry Pi和其他兼容的单板Linux计算机上的CircuitPython库.
+- [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) -  Dave Astels在CircuitPython上有用的备忘单.
 
 ## Frameworks
 
@@ -49,7 +53,7 @@
 
 ## Hardware
 
-所有支持的板都可以在最新版本中找到 -  [GitHub](https://github.com/adafruit/circuitpython/releases) .  如果您的主板支持CircuitPython，请执行拉取请求以添加它.
+所有支持的板都可以在最新版本中找到 -  [GitHub](https://github.com/adafruit/circuitpython/releases) .  如果您的主板支持CircuitPython，请执行拉取请求以添加它.  以下列表中可能未包含的最新主板已开启 [https://circuitpython.org](https://circuitpython.org/downloads)
 
 - [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Express，Adafruit羽毛M4 Express，Adafruit羽毛nRF52840 Express，Adafruit GEMMA M0，Adafruit Grand Central M4 Express，包括SAMD51，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0，Adafruit ItsyBitsy M4，Adafruit METRO M0 Express，Adafruit Metro M4，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal.
 - [Arduino](https://www.arduino.cc/) -  Arduino MKR 1300，Arduino MKR ZERO，Arduino ZERO.
@@ -72,6 +76,13 @@
 
 ## News
 
+- [VIDEO: PyCascades - Light Up Your Life - With Python and LEDs](https://youtu.be/mesYTFiRtDs)  作者：Nina Zakharenko.  Python打开了一个与可穿戴电子产品一起工作的全新世界.
+- [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
+- [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -  IEEE Spectrum Magazine关于制造商的Python编程语言的文章.
+- [Adafruit PyPortal: GUI meets CircuitPython in a Big Way](https://anchor.fm/disruptityourself/episodes/Adafruit-PyPortal-GUI-meets-CircuitPython-in-a-Big-Way-e3g745) - 在CircuitPython和物联网设备PyPortal上自行播放播客.
+- [Cool Tools](https://youtu.be/Kz4C7sCLWb0) -  Sophy Wong会谈电路游乐场快车，包括CircuitPython.
+- [CircuitPython for Rapid Microcontroller-Based Prototyping and Development](https://www.digikey.com/en/articles/techzone/2019/mar/the-basics-of-circuitpython-for-rapid-microcontroller-based-prototyping-and-development) - 开源社区的Digi-Key正在努力调整特定的微控制器和开发板，以支持使用CircuitPython进行严格的微控制器开发.
+- [HackSpace Magazine - Issue 17](https://hackspace.raspberrypi.org/features/adafruit-grand-central-m4-express-review) - CircuitPython powered Adafruut Grand Central M4 Express review.
 - [Python on Hardware Means Choices for Makers](https://www.apress.com/us/blog/all-blog-posts/python-on-hardware-means-choices-for-makers/16332230)  作者：Liz Clark  -  Apress.  CircuitPython（MicroPython的一个分支，从头开始设计为初学者友好.）这允许最终用户使用Python作为他们的电子硬件项目，类似于他们可能已经使用Arduino IDE的C / C ++.
 - [Method's Magazine](http://www.mouser.com/news/methods/2019-1/mobile/index.html#p=35) - 方法eZine：设计趋势和万物转换功能Python硬件，第35页 -  [PDF](http://www.mouser.com/pdfdocs/Mouser-Methods-v3i1.pdf).
 - [HackSpace Magazine - Issue 15](https://blog.adafruit.com/2019/01/24/issue-15-hackspace-magazine-circuitpython-hackspacemag-by-ben-everard-ben_everard-circuitpython-circuitpython-madewithmu/) -  CircuitPython通过专题文章和项目在HackSpace杂志上进行了封面.
@@ -83,6 +94,7 @@
 - [Adafruit Circuit Playground Express review](https://hackspace.raspberrypi.org/features/adafruit-circuit-playground-express-review) -  Raspberry Pi评论Circuit Playground Express.
 - [The Amp Hour #383](https://www.youtube.com/watch?v=d-Uw3YOf7dE) -  Scott Shawcroft访谈录.
 - [CircuitPython on Hackaday](https://hackaday.com/?s=circuitpython) - 与CircuitPython相关的Hackaday帖子.
+- [CircuitPython on hackster.io](https://blog.hackster.io/search?q=circuitpython) - 与CircuitPython相关的hackster.io帖子.
 - [CircuitPython on MAKE](https://makezine.com/?s=circuitpython) -  MAKE上的CircuitPython相关内容.
 
 ## Art

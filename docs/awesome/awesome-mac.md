@@ -34,7 +34,7 @@
 * [Atom](https://atom.io) - 由GitHub制作的21世纪的黑客文本编辑器. [Atom Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#atom-plugin). [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
 * [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
-* [Brackets](http://brackets.io)   - 一个了解网页设计的现代开源文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/adobe/brackets/）！[免费软件] [免费软件图标]
+* [Brackets](http://brackets.io)   -  vehicle是一种了解网页设计的现代开源文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/adobe/brackets/）！[免费软件] [免费软件图标]
 * [Chocolat](https://chocolatapp.com/) - 原生文本编辑器.
 * [Coda2](http://panic.com/coda/) - 快速，干净，功能强大的文本编辑器.
 * [CotEditor](https://coteditor.com)   -  macOS的轻量级纯文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/coteditor/CotEditor/）！[免费软件] [免费软件图标]
@@ -148,7 +148,7 @@
 * [EnvPane](https://github.com/hschmidt/EnvPane)   -  OS X首选项窗格，用于环境变量.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hschmidt/EnvPane）
 * [FinderGo](https://github.com/onmyway133/FinderGo)   - 从Finder快速打开终端.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/onmyway133/FinderGo）
 * [Finicky](https://johnste.github.io/finicky/)   - 允许您设置规则的应用程序，该规则决定为打开默认浏览器的每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
-* [Gas Mask](https://github.com/2ndalpha/gasmask) - 适用于Mac OS X的简单主机文件管理器.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/2ndalpha/gasmask）
+* [Gas Mask](https://github.com/2ndalpha/gasmask) - Simple hosts file manager for Mac OS X. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/2ndalpha/gasmask)
 * [Gemini](https://macpaw.com/gemini) - 智能重复文件查找器.
 * [Hex Fiend](https://ridiculousfish.com/hexfiend/)   - 快速而聪明的开源十六进制编辑器.  [！[开源软件] [OSS图标]]（https://github.com/ridiculousfish/HexFiend/）！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https ：//itunes.apple.com/app/hex-fiend/id1342896380）
 * [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane)   - 用于管理主机文件的系统首选项窗格.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/specialunderwear/Hosts.prefpane）
@@ -162,7 +162,7 @@
 * [PaintCode](https://www.paintcodeapp.com/) -  PaintCode是一个独特的矢量绘图应用程序，可实时生成Objective-C或Swift代码，充当开发人员和图形设计人员之间的桥梁.
 * [PPRows](https://github.com/jkpang/PPRows)   - 用于计算您编写的代码行数的应用程序.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/jkpang/PPRows）
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze)   - 一组shell脚本（用于bash和zsh），增强了与git的交互.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/scmbreeze/scm_breeze）
-* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 支持SSH，Telnet或其他协议的终端仿真.
+* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 终端仿真，支持SSH，Telnet或其他协议.
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/)   -  SiteSucker是一个Macintosh应用程序，可以自动从Internet下载网站.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12）
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 易于使用的代码片段管理器.
 * [Solarized](http://ethanschoonover.com/solarized)   - 干净漂亮的色彩主题.  适用于iTerm，JetBrains产品，Vim等.
@@ -185,7 +185,7 @@
 
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
-* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[Freeware] [Freeware Icon]
+* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
 
 #### Network Analysis
 
@@ -264,7 +264,7 @@
 * [GitKraken](https://www.gitkraken.com/) - 适用于Windows，Mac和Linux的最流行的Git GUI.
 * [GitX-dev](https://rowanj.github.io/gitx/) - 叉子 [Pieter's](https://github.com/pieter/gitx)  适用于OS X的优秀git GUI.包括分支/标签侧边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 * [Hub](https://hub.github.com/)   -  Git的命令行包装器，让你在GitHub上更好.  [！[开源软件] [OSS图标]]（https://github.com/github/hub）！[免费软件] [免费软件图标]
-* [OhMyStar](https://ohmystarapp.com/)  管理，探索和分享您的Github Stars的美妙而有效的方式.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
+* [OhMyStar](https://ohmystarapp.com/) Beautiful and efficient way to manage, explore and share your Github Stars. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://itunes.apple.com/us/app/ohmystar2/id1218642292)
 * [SmartGit](http://www.syntevo.com/smartgit/) - 支持Git客户端.
 * [SourceTree](https://www.sourcetreeapp.com/)   - 适用于Windows或Mac的免费Git和Mercurial客户端.  ！[免费软件] [免费软件图标]
 * [Sublime Merge](https://www.sublimemerge.com/) - 来自Sublime Text制造商的Git客户端.
@@ -338,7 +338,7 @@
 * [Paintbrush](http://paintbrush.sourceforge.net/)   - 位图图像编辑器.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/paintbrush/files/）！[免费软件] [免费软件图标]
 * [Pixel Perfect](http://pixelperfect-app.com/)   - 在实现上叠加设计图像并使其像素完美的工具.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pixel-perfect/id916097243）！[免费软件] [免费软件图标]
 * [Pixelmator](http://www.pixelmator.com/mac/) - 适用于Mac的全功能图像编辑器.
-* [Principle](http://principleformac.com/) -  Application for designing animated and interactive user interfaces.
+* [Principle](http://principleformac.com/) - 用于设计动画和交互式用户界面的应用程序.
 * [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers)  - 轻松将屏幕导出为分层PSD文件.  [！[开源软件] [OSS图标]]（https://github.com/duyquoc/ScreenToLayers）！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https： //itunes.apple.com/app/screentolayers/id1077317077）
 * [Sculptris](http://pixologic.com/sculptris/#)   -  3D雕刻软件.  ！[免费软件] [免费软件图标]
 * [Sketch](http://www.sketchapp.com/) - 专业的数字设计为mac.
@@ -379,7 +379,7 @@
 #### Screencapturing Software
 
 * [CloudApp](https://www.getcloudapp.com/)   - 以视线的速度工作.  ！[免费软件] [免费软件图标]
-* [Gifox](https://gifox.io/) - Gif Recording and Sharing. [![App Store][app-store Icon]](https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744)
+* [Gifox](https://gifox.io/)   -  Gif录制和共享.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
 * [Kap](https://getkap.co/)   - 采用网络技术构建的开源屏幕录像机.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/kap）！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)   -  KeyCastr，一个开源击键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [Licecap](http://www.cockos.com/licecap/)   - 录制您的屏幕并导出到GIF.  您可以在录制过程中随时更改录制区域.  [！[开源软件] [OSS图标]]（https://github.com/justinfrankel/licecap）！[免费软件] [免费软件图标]
@@ -517,6 +517,7 @@
 * [FOLX](http://mac.eltima.com/download-manager.html)   - 适用于Mac OS X的免费下载管理器，具有真正的Mac风格界面.  ！[免费软件] [免费软件图标]
 * [Free Download Manager](http://www.freedownloadmanager.org/)   - 适用于Windows和Mac的强大，现代的下载加速器和管理器.  （免费）！[免费软件] [免费软件图标]
 * [JDownloader](http://jdownloader.org/)   - 免费的开源下载管理工具，拥有庞大的开发人员社区，使下载变得简单快捷.  ！[免费软件] [免费软件图标]！[开源软件] [OSS图标]
+* [Motrix](https://motrix.app/) -  Motrix是一个功能齐全的下载管理器，支持下载HTTP，FTP，BitTorrent，磁铁，百度网盘等[！[开源软件] [OSS图标]]（https://github.com/agalwood/ Motrix）！[免费软件] [免费软件图标]
 * [qBittorrent](https://www.qbittorrent.org/)   - 项目旨在提供μTorrent的开源软件替代方案.  [！[开源软件] [OSS图标]]（https://github.com/qbittorrent/qBittorrent）！[免费软件] [免费软件图标]
 * [Shuttle](https://fiplab.com/apps/download-shuttle-for-mac) - 轻松下载管理器的任何链接.
 * [Transmission](https://www.transmissionbt.com/)   - 快速，简单，免费的BitTorrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
@@ -799,7 +800,7 @@
  *拒绝我的盗版.  软件供应商可以访问这些地方的权利.*
 
 * AppKed：~~`http：//www.macbed.com` ~~
-* Softasm：~~`的https：// softasm.com /`
+* Softasm：~~`https：//softasm.com/` ~~
 
 ## Podcasts
 

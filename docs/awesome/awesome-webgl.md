@@ -74,6 +74,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Shader Toy](https://www.shadertoy.com) - 片段着色器最流行的实时编辑器.
 * [ShaderFrog](https://shaderfrog.com/) -  WebGL着色器编辑器和编辑器.
 * [SHDR Editor](http://shdr.bkcore.com) -  Live GLSL着色器编辑器，查看器和验证器.
+* [ShaderExpo](https://anuraghazra.github.io/ShaderExpo/) - 具有内联错误日志，自动完成，模型和纹理加载的无依赖关系着色器编辑器. 
 
 ### References
 
@@ -210,7 +211,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 ### References
 
-&gt; WebVR参考
+> WebVR references
 
 * [Browser Support](https://webvr.rocks/) - 显示浏览器，耳机和操作系统的支持.
 * [Mozilla VR](https://mixedreality.mozilla.org/) -  Mozilla的官方WebVR页面.
@@ -270,7 +271,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) - 使用HTML5，WebGL和Web Audio构建3D游戏的完整JavaScript框架.
-* [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
+* [Blend4Web](https://www.blend4web.com/en/) - 用于Internet上交互式3D可视化的工具.
 * [ClayGL](http://claygl.xyz/) - 用于构建可扩展Web3D应用程序的WebGL图形库.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - 用于创建游戏和3D应用程序的JavaScript库和WebGL 3D引擎.
 * [GLGE](http://www.glge.org/) - 旨在简化WebGL使用的Javascript库.
@@ -278,7 +279,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [OSG.js](http://osgjs.org/) - 基于OpenSceneGraph概念的WebGL框架与WebGL交互.
 * [Pex-gl](http://vorg.github.io/pex/) - 用于Plask / Node.js和WebGL中的计算思维的JavaScript库.
 * [PlayCanvas](https://playcanvas.com/) - 游戏引擎平台，以建立互动体验.
-* [Pocket.gl](http://pocket.gl/) - 完全可自定义的webgl着色器沙箱，可嵌入您的页面.
+* [Pocket.gl](https://github.com/gportelli/pocket.gl) - 完全可自定义的webgl着色器沙箱，可嵌入您的页面.
 * [Regl](http://regl.party/) - 轻型声明式和无状态库，WebGL的功能抽象.
 * [Scene.js](http://scenejs.org/) - 基于WebGL的可扩展引擎，用于高细节3D可视化.
 * [Three.js](https://threejs.org/) - 旨在创建一个易于使用，轻量级的3D库.
@@ -291,7 +292,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Facebook](https://www.facebook.com/groups/webgl/about/)
 * [Twitter](https://twitter.com/webgl)
 * [Freenode IRC](http://webchat.freenode.net/?channels=webgl)
-* [Khronos Forum](https://forums.khronos.org/forumdisplay.php/92-WebGL)
+* [Khronos Forum](https://community.khronos.org/c/other-standards/webgl)
 * [Google Group](https://groups.google.com/forum/#!forum/webgl-dev-list)
 * [Google Plus](https://plus.google.com/communities/114915309361980512257)
 * [Public Mailing List](https://www.khronos.org/webgl/public-mailing-list/)
