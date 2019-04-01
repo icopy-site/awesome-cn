@@ -45,6 +45,7 @@
 - [ava-playback](https://github.com/dempfi/ava-playback) - 记录和回放HTTP请求.
 - [ava-fast-check](https://github.com/dubzzz/ava-fast-check) - 基于财产的测试.
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - 将docker数据库添加到测试上下文中.
+- [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - 通过Puppeteer测试Web组件.
 
 
 ## Works with AVA

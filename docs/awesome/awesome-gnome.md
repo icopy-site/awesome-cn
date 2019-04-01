@@ -212,18 +212,26 @@
 
 ## Community
 
+### Official Venues
+
 - [GNOME News Feed](https://www.gnome.org/news/) - 来自GNOME的官方新闻帖子.
 - [Planet GNOME](http://planet.gnome.org/) -  GNOME开发者联盟的博客
+- [GNOME's Discourse](https://discourse.gnome.org)
+- [GNOME Wiki](https://wiki.gnome.org/)
+- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用GNOME IRC频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
+
+### GNOME Communities
+
 - [Reddit](https://www.reddit.com/r/gnome)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/gnome)
+
+### GNOME on Social Networks
+
 - [`@gnome` on Twitter](https://twitter.com/gnome)
-- [`@gnome` on GNU Social](https://quitter.no/gnome)
-- [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
-- [`#gnome` on GIMPNet](https://kiwiirc.com/client/irc.gnome.org#gnome) - 通用GNOME IRC频道（[complete list of channels](https://wiki.gnome.org/Community/GettingInTouch/IRC))
-- [GNOME Wiki](https://wiki.gnome.org/)
+- [`@gnome` on floss.social](https://floss.social/@gnome)
 - [`@GNOMEDesktop` on Facebook](https://www.facebook.com/GNOMEDesktop)
-- [`GNOME` on Google+](https://plus.google.com/+gnome)
-- [GNOME Community on Google+](https://plus.google.com/communities/104680683972837006235)
+- [`GNOMEDesktop` on Youtube](https://www.youtube.com/user/GNOMEDesktop)
+- [`GNOMEDesktop` on Peertube](https://peertube.video/accounts/gnome)
 
 ## Developer Tools
 

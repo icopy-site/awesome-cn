@@ -189,16 +189,15 @@
 ## Deployment
 
 #### Build and Package
+- [alire](https://github.com/alire-project/alire)   - 即用型Ada库目录以及命令行工具（alr），用于获取，编译和合并到您自己的项目中.  它旨在履行与Rust的货物或OCaml的opam类似的角色.
 - [gprbuild](https://github.com/AdaCore/gprbuild) -  Adacore多语言软件构建工具.
 - [ravenadm](https://github.com/jrmarino/ravenadm) -  Ravenports的管理工具http://www.ravenports.com.
-- [alire](https://github.com/alire-project/alire)   - 即用型Ada库目录以及命令行工具（alr），用于获取，编译和合并到您自己的项目中.  它旨在履行与Rust的货物或OCaml的opam类似的角色.
 - [synth](https://github.com/jrmarino/synth) - 用于实时系统的Next D / Ports构建工具（Portmaster和Portupgrade工具的替代方案）.
 
 #### Continuous Integration
 - [continuous-verification](https://github.com/jklmnn/continuous-verification) - 与Travis CI自动进行SPARK正式验证.
 
 ## Runtimes
-- [generic-ada-runtime](https://github.com/Componolit/ada-runtime) - 缩小的Ada运行时，可以适应不同的平台.
 - [bb-runtimes](https://github.com/AdaCore/bb-runtimes) -  GNAT裸机板支持包（BSP）.
 - [avr-ada](https://sourceforge.net/projects/avr-ada) - 用于8位AVR微控制器的GNAT.
 - [ada-runtime](https://github.com/Componolit/ada-runtime) - 缩小的Ada运行时，可以适应不同的平台.
@@ -220,7 +219,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台上的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -  MiniPac是Pacman的儿童友好ascii角色版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以Windows，Mac OS-X和GNU Linux运行的足球主题3D推箱子益智游戏.
-- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre. 
+- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏. 
 
 
 ## Frameworks
@@ -232,6 +231,7 @@
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - 这是GNAT Components Collection的绑定模块.
 - [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - 这是GNAT Components Collection的DB模块.
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) - 这是一组用于编写JSON接口的帮助程序，它包含大多数Ada运行时组件的JSON解析.
+- [ada-interface](https://github.com/Componolit/ada-interface)   - 这是一个与基于组件的系统的应用程序一起使用的接口集合.  它旨在轻松便携/平台独立，并与之兼容 [ada-runtime](https://github.com/Componolit/ada-runtime).
 
 #### Distributed
 - [poly-orb](https://github.com/AdaCore/PolyORB) -  PolyORB提供统一的解决方案，以依赖中间件标准构建分布式应用程序.
@@ -255,7 +255,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) -  AWS是在Ada中开发基于Web的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa) - Ada Web Application is a framework to build a Web Application in Ada 2012. The framework provides several ready to use and extendable modules that are common to many web application. This includes the login, authentication, users, permissions, managing comments, tags, votes, documents, images.
+- [awa](https://github.com/stcarrez/ada-awa)   -  Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多可供使用和可扩展的模块，这些模块是许多Web应用程序所共有的.  这包括登录，身份验证，用户，权限，管理评论，标签，投票，文档，图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似hibernate的XML描述，YAML原则模型或UML模型生成Ada Web应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -  Ada Wiki是一个提供Wiki引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护Web应用程序的OAuth 2.0客户端和服务器框架.
@@ -282,7 +282,7 @@
 
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) -  GNATcoverage是一种分析和报告计划覆盖范围的工具.
-- [adacontrol](http://www.adalog.fr/en/adacontrol.html) -  Ada构造lint工具.
+- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -  SPARK正式验证工具集.
 
 #### Generation
@@ -346,7 +346,7 @@
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/)   -  Libadalang是一个用于解析Ada代码和语义分析的库.  它意味着作为集成到其他工具的构建块.  （IDE，静态分析仪等）
 - [aflex-ayacc](http://thiberlog.free.fr/) -  Ada95扫描仪和解析器生成器.
-- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) -  WisiToken是一个LALR，LR1和Packrat解析器生成器和运行时.
+- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
 - [gela](https://github.com/reznikmm/gela) - 有一个代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) - 语法处理和解析器生成Ada库.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) -  Ada的漂亮打印库.
@@ -403,7 +403,7 @@
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用Ada，ARM和Lego的机器人技术.
 
 #### Firmwares
-- [certiflie](https://github.com/AdaCore/Certyflie) - 完整的Ada + SPARK Crazyflie 2.0固件的源代码.
+- [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware.
 
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - 各种MCU和传感器的Ada驱动程序.
@@ -470,6 +470,7 @@
 - [j2ada](https://github.com/Blady-Com/j2ada) -  Ada源代码中Java有效源代码的转换器.
 - [a2js](http://forge.ada-ru.org/matreshka/wiki/Web/A2JS) -  Ada2JS是Matreshka的实验性开源编译器.
 - [adamagic](https://www.mapusoft.com/ada-to-c-changer/)   -  SofCheck AdaMagic是针对C和/或C ++的ACATS经过验证和认证的Ada编译器（4个命令行开关用于微调）.  ObjectAda和其他几个商业编译器与AdaMagic共享引擎.  MapuSoft将AdaMagic作为AppCOE的组成部分进行分发.
+- [cappulada](https://github.com/Componolit/Cappulada) - 有一个C ++的绑定生成器
 
 #### Shells and Interpreters
 - [sparforte](http://sparforte.com/)   -  SPARforte编程语言是一种类似Ada的脚本语言，以前称为业务用户shell（bush）.  可以用作交互式UNIX shell替换.

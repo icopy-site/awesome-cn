@@ -39,7 +39,7 @@
 * [JetBrains/kotlin](https://github.com/jetbrains/kotlin) 
 * [Home Page](http://kotlinlang.org/) 
 * [Language Reference](http://kotlinlang.org/docs/reference/) 
-* [Slack (18k+ users)](https://kotlinslack.herokuapp.com/) 
+* [Slack (21k+ users)](http://slack.kotlinlang.org/) 
 * [Public chat archive of Kotlin's Slack](http://kotlinlang.slackarchive.io/) 
 * [Try Kotlin!](http://try.kotlinlang.org/) 
 * [Blog](http://blog.jetbrains.com/kotlin/) 
@@ -99,7 +99,7 @@
 * [hhariri/wasabi](https://github.com/wasabifx/wasabi) - 使用Kotlin为JVM构建的HTTP框架.
 * [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - 用于HTML的Kotlin DSL.
 * [MarioAriasC/KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) -  Kotlin的Spring支持库.
-* [kohesive/kovert](https://github.com/kohesive/kovert) -  Vert.x或Undertow上的隐形，超级简单且功能强大的REST和Web框架.
+* [kohesive/kovert](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
 * [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - 用Kotlin编写的GraphQL实现
 * [taskworld/kraph](https://github.com/taskworld/kraph) - 用Kotlin编写的GraphQL请求字符串构建器
 * [sepatel/tekniq](https://github.com/sepatel/tekniq) - 全功能HTTP DSL框架，HTTP客户端，JDBC DSL，加载缓存和配置
@@ -153,7 +153,7 @@
 * [Ekito/koin](https://github.com/Ekito/koin) - 适用于Android和JVM的功能性Kotlin依赖注入框架.
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
-* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.
+* [Kotlin/kotlin-coroutines](https://github.com/Kotlin/kotlin-coroutines) - 为Kotlin中的协同程序设计文档和示例.
 * [Kotlin/kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) - 建立在Kotlin协同上的图书馆.
 * [soywiz/korio](https://github.com/soywiz/korio) -  Korio：Kotlin cORoutines I / O：用于JVM，Node.JS和浏览器的Streams +异步TCP客户端/服务器+虚拟文件系统.
 * [soywiz/korim](https://github.com/soywiz/korim) -  Korim：Kotlin coroutines IMaging实用程序取决于Korio.
@@ -309,6 +309,9 @@
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi<sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
 * [mhashim6/Pi4K](https://github.com/mhashim6/Pi4K) -  Pi4J Kotlin绑定.
 
+### <a name="libraries-frameworks-multiplatform"></a>Multiplatform<sup>[Back ⇈](#libraries-frameworks-multiplatform-subcategory)</sup>
+* [ionspin/kotlin-multiplatform-bignum](https://github.com/ionspin/kotlin-multiplatform-bignum) - 纯kotlin多平台任意精度算术库.
+
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support](https://github.com/Kotlin/kotlinx.support) - 扩展和顶级函数，以在Kotlin 1.0中使用JDK7 / JDK8功能.
 * [vanshg/KrazyKotlin](https://github.com/vanshg/KrazyKotlin) - 有用的Kotlin扩展的集合
@@ -430,6 +433,8 @@
 * [Vektah/CodeGlance](https://github.com/Vektah/CodeGlance) - 用于显示类似于Sublime中的代码迷你地图的Intelij IDEA插件.
 * [intellij-rust/intellij-rust](https://github.com/intellij-rust/intellij-rust) - 使用IntelliJ平台构建的Rust IDE.
 * [dkandalov/activity-tracker](https://github.com/dkandalov/activity-tracker) -  IntelliJ IDE插件，用于跟踪和记录用户活动.
+* [dkandalov/limited-wip](https://github.com/dkandalov/limited-wip) - 插件限制您的工作进度.
+* [dkandalov/pomodoro-tm](https://github.com/dkandalov/pomodoro-tm) - 番茄计时器.
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 基于IntelliJ IDEA的IDE的Rainbow Brackets / Rainbow圆括号.
 * [roger-yh99/Readhub](https://github.com/roger-yh99/Readhub) - [Readhub](http://plugins.jetbrains.com/plugin/10539-readhub) 是IntelliJ IDE的新闻阅读器插件
 * [roger-yh99/AwesomeKotlinPlugin](https://github.com/roger-yh99/AwesomeKotlinPlugin) - [AwesomeKotlin](https://plugins.jetbrains.com/plugin/11357-awesome-kotlin) IntelliJ IDE的插件
@@ -758,7 +763,7 @@
 * [Gradle Script Kotlin 0.9.0 Release Notes](http://kotlin.link/articles/Gradle-Script-Kotlin-0-9-0-Release-Notes.html) -  Rodrigo B. de Oliveira
 
 ### <a name="articles-blog-posts-april-2017"></a>April 2017 <sup>[Back ⇈](#articles-blog-posts-april-2017-subcategory)</sup>
-* [The Rise and Fall of JVM Languages](http://kotlin.link/articles/The-Rise-and-Fall-of-JVM-Languages.html) - 安德鲁宾斯托克
+* [The Rise and Fall of JVM Languages](http://kotlin.link/articles/The-Rise-and-Fall-of-JVM-Languages.html) - Andrew Binstock
 * [Kotlin/Native Tech Preview: Kotlin without a VM](http://kotlin.link/articles/Kotlin-Native-Tech-Preview-Kotlin-without-a-VM.html) - 安德烈·布雷斯拉夫
 * [Kotlin 1.1 is also for Android Developers](http://kotlin.link/articles/Kotlin-1-1-is-also-for-Android-Developers.html) - 罗曼贝洛夫
 * [Kotlin 1.1 Event Report](http://kotlin.link/articles/Kotlin-1-1-Event-Report.html) -  Alina Dolgikh
@@ -808,7 +813,7 @@
 * [Kotlin 1.1-M04 is here!](http://kotlin.link/articles/Kotlin-1-1-M04-is-here.html) - 伊利亚切尔尼科夫
 * [Kotlin in Practice with Spring Boot and Vaadin](http://kotlin.link/articles/Kotlin-in-Practice-with-Spring-Boot-and-Vaadin.html) -  Philipp Hauer
 * [Concurrency Primitives in Kotlin](http://kotlin.link/articles/Concurrency-Primitives-in-Kotlin.html) -  Egor Andreevich
-* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) -  Lorenzo Angelini
+* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) - Lorenzo Angelini
 * [Kotlin is cheating on me...](http://kotlin.link/articles/Kotlin-is-cheating-on-me.html) -  Andrea Franceschini
 * [The Reactive Scrabble benchmarks](http://kotlin.link/articles/The-Reactive-Scrabble-benchmarks.html) - 大卫卡尔
 * [Kotlin 1.0.6 is here!](http://kotlin.link/articles/Kotlin-1-0-6-is-here.html) - Yan Zhulanow
@@ -823,7 +828,7 @@
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
 * [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
-* [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) - David Schreiber‑Ranner
+* [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里
 * [App State as a tree](http://kotlin.link/articles/App-State-as-a-tree.html) - 刘易斯莱茵河
@@ -890,7 +895,7 @@
 * [Natural testing with Kotlin](http://kotlin.link/articles/Natural-testing-with-Kotlin.html) -  Vardan Torosyan
 
 ### <a name="articles-blog-posts-july-2016"></a>July 2016 <sup>[Back ⇈](#articles-blog-posts-july-2016-subcategory)</sup>
-* [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - Konstantin Semenov
+* [Data Driven Testing with Spek ](http://kotlin.link/articles/Data-Driven-Testing-with-Spek.html) - 康斯坦丁·谢苗诺夫
 * [Never say final: mocking Kotlin classes in unit tests](http://kotlin.link/articles/Never-say-final-mocking-Kotlin-classes-in-unit-tests.html) - 丹尼普瑞斯勒
 * [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫

@@ -208,7 +208,7 @@
 ### Rust
 
 - [This Week in Rust](https://this-week-in-rust.org) .  随时了解Rust社区的活动，学习资源和最新发展. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
-- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter) .  Rust库和资源的精选列表.
+- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
 
 ### C++
 
@@ -235,6 +235,10 @@
 
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) .  每周在您的收件箱中提供最新的MacMost教程，提示和新闻.
 - [NixOS Weekly](https://weekly.nixos.org).
+
+## Git
+
+- [Git Rev News](https://git.github.io/rev_news/rev_news/) .  以更广泛的技术受众的格式聚合Git邮件列表的活动.
 
 ## Editors
 
@@ -274,7 +278,7 @@
 
 - [DevOps Weekly](https://www.devopsweekly.com/) .  每周一片devops新闻.
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/) .  本周最好的DevOps链接发送到您的收件箱
-  every Sunday in the form of the DevOps newsletter.
+  每个星期天都以DevOps简报的形式出现.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified) .  Sysadmin Casts  - 一口大小的系统管理员截屏（每周发布）.
 - [Server Admin for Programmers](https://serversforhackers.com/)
 - [Cron.Weekly](https://www.cronweekly.com) .  每周日发布的每周简报，包含针对Linux系统管理员量身定制的新闻和工具. [Archige](https://www.cronweekly.com/archives/).
@@ -286,7 +290,7 @@
 
 ### Cloud Development
 
-- [Your weekly Azure news fix](http://azureweekly.info/) .  Azure Weekly是本周微软Azure生态系统中的头条新闻的摘要，以及值得阅读的有趣的历史内容.
+- [Your weekly Azure news fix](https://azureweekly.info/) .  Azure Weekly是本周微软Azure生态系统中的头条新闻的摘要，以及值得阅读的有趣的历史内容.
 - [Serverless Status](https://serverless.email/) .  关于无服务器架构和范例，功能即服务，AWS Lambda等的每周简报.
 - [Google Cloud Weekly Newsletter](https://www.gcpweekly.com/) .  此Google Cloud Weekly是本周与Google Cloud生态系统相关的主要新闻，教程，视频和播客的摘要，非常值得一读.
 - [Last Week in AWS](https://lastweekinaws.com/) .  来自亚马逊云生态系统的每周新闻综述.

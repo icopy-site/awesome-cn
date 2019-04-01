@@ -86,7 +86,7 @@
 * [gmqtt](https://github.com/wialon/gmqtt) -  Python MQTT v5.0客户端（基于asyncio）
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - 使用asyncio的Python MQTT客户端.
 * [Hulaaki](https://github.com/suvash/hulaaki) - 用于与MQTT代理通信的客户的Elixir库.
-* [luamqtt](https://github.com/xHasKx/luamqtt/) -  Pure-take MQTT客户端
+* [luamqtt](https://github.com/xHasKx/luamqtt/) -  Pure-lua MQTT v3.1.1和v5.0客户端
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - 适用于所有.Net平台（.Net Framework，.Net Compact Framework和.Net Micro Framework）和WinRT平台（Windows 8.1，Windows Phone 8.1和Windows 10）的MQTT客户端.
 * [Machine Head](https://github.com/clojurewerkz/machine_head) -  Clojure MQTT客户端.
 * [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - 为每个服务器模拟多达100,000个MQTT客户端，用于开发/测试/部署IoT应用程序
@@ -179,7 +179,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -  Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - 订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - 将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
 
@@ -227,7 +227,7 @@
 
 #### Lighting
 
-* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - This is an alternative firmware for Arilux LED controllers which uses MQTT.
+* [Arilux_AL-LC0X](https://github.com/mertenats/Arilux_AL-LC0X) - 这是使用MQTT的Arilux LED控制器的替代固件.
 * [chromoflex2mqtt](https://github.com/owagner/chromoflex2mqtt) - 通过MQTT控制Chromoflex USP3 RGB LED模块.
 * [h801/mqtt](https://github.com/open-homeautomation/h801/tree/master/mqtt) - 使用MQTT作为控制通道的H801 LED调光器的替代固件.
 * [hue2mqtt.js](https://github.com/hobbyquaker/hue2mqtt.js) -  Philips Hue桥与MQTT之间的接口.

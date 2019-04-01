@@ -7,7 +7,7 @@
 
 谢谢大家 [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
-看看我 [blog](https://medium.com/@thangchung) 或者打招呼 [Twitter](https://twitter.com/thangchung)!
+看看我 [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
 
 
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
@@ -517,7 +517,7 @@
 * [OpenCQRS](https://github.com/OpenCQRS/OpenCQRS)   - 用于DDD，CQRS和事件源的.NET核心库，具有Azure Service Bus集成.  Command和Event存储支持的数据库提供程序包括：DocumentDB，MongoDB，SQL Server，MySQL，PostgreSQL和SQLite.
 * [rabbitmq-dotnet-client](https://github.com/rabbitmq/rabbitmq-dotnet-client) -  RabbitMQ .NET客户端 [https://www.rabbitmq.com](https://www.rabbitmq.com).
 * [RawRabbit](https://github.com/pardahlman/RawRabbit) - 用于通过RabbitMq进行通信的现代.NET框架.
-* [Rebus](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
+* [Rebus](https://github.com/rebus-org/Rebus) -  .NET的简单和精简服务总线实现.
 * [Restbus](http://restbus.org) -  RabbitMq的消息传递库.
 * [Tossit](https://github.com/turgayozgur/tossit)   - 用于分布式作业/工作逻辑的简单易用的库.  内置RabbitMQ实现处理的分布式消息.
 
@@ -704,6 +704,7 @@
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) - 容器化的多语言服务网格应用程序（Istio），包括基于.NET Core，NodeJS和更多运行在Kubernetes上的微服务.
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - 分布式服务游乐场，包括Vagrant，Consul，Docker和ASP.NET Core.
   * [DNC-DShop](https://github.com/devmentors)   - 分布式.NET Core项目和免费课程.  （DDD，CQRS，RabbitMQ，MongoDB，Redis，监控，记录，CI，CD）
+  * [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) - 使用.NET Core（EF Core，MediatR，Marten，Eureka，Ocelot，RabbitMQ，Polly，ElasticSearch，Dapper）和博客文章系列在微服务架构中制作的简化保险销售系统.
   * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - 基于微服务架构和容器的参考应用.
   * [magazine-website](https://github.com/thangchung/magazine-website) - 杂志网站（使用.NET Core，ASP.NET Core，EF Core），应用DDD，CQRS，微服务，异步编程.
   * [microservices-in-dotnetcore](https://github.com/horsdal/microservices-in-dotnetcore) - 我的微服务书中的代码示例 - [https://manning.com/books/microservices-in-net-core](https://manning.com/books/microservices-in-net-core)
