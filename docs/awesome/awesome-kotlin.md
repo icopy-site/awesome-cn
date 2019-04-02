@@ -99,7 +99,7 @@
 * [hhariri/wasabi](https://github.com/wasabifx/wasabi) - 使用Kotlin为JVM构建的HTTP框架.
 * [Kotlin/kotlinx.html](https://github.com/Kotlin/kotlinx.html) - 用于HTML的Kotlin DSL.
 * [MarioAriasC/KotlinPrimavera](https://github.com/MarioAriasC/KotlinPrimavera) -  Kotlin的Spring支持库.
-* [kohesive/kovert](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
+* [kohesive/kovert](https://github.com/kohesive/kovert) -  Vert.x或Undertow上的隐形，超级简单且功能强大的REST和Web框架.
 * [pgutkowski/KGraphQL](https://github.com/pgutkowski/KGraphQL) - 用Kotlin编写的GraphQL实现
 * [taskworld/kraph](https://github.com/taskworld/kraph) - 用Kotlin编写的GraphQL请求字符串构建器
 * [sepatel/tekniq](https://github.com/sepatel/tekniq) - 全功能HTTP DSL框架，HTTP客户端，JDBC DSL，加载缓存和配置
@@ -208,6 +208,7 @@
 * [pm-dev/kotlin-gremlin-ogm](https://github.com/pm-dev/awesome-kotlin) -  Kotlin-gremlin-ogm是一个类型安全的对象/图形映射库，用于启用Gremlin的图形数据库.
 * [fluidsonic/fluid-mongo](https://github.com/fluidsonic/fluid-mongo) - 基于官方MongoDB异步Java驱动程序构建的MongoDB的协程支持.
 * [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - 用于postgres / mysql的mauricio异步驱动程序的Kotlin端口.
+* [vincentlauvlwj/Ktorm](https://github.com/vincentlauvlwj/Ktorm)   - 适用于Kotlin的轻量级高效ORM框架.  它提供强大的类型和灵活的SQL DSL以及许多方便的扩展功能，以减少我们在数据库操作上的重复工作. 
 
 ### <a name="libraries-frameworks-tools"></a>Tools <sup>[Back ⇈](#libraries-frameworks-tools-subcategory)</sup>
 * [SonarSource/sonarlint-intellij](https://github.com/SonarSource/sonarlint-intellij) -  IDE扩展，可帮助您在编写代码时检测并修复质量问题.
@@ -230,7 +231,7 @@
 * [kittinunf/Fuel](https://github.com/kittinunf/Fuel) -  Kotlin / Android最简单的HTTP网络库.
 * [jkcclemens/khttp](https://github.com/jkcclemens/khttp) -  Kotlin HTTP请求库.
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) - 基于多平台协程的HTTP客户端.
-* [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - 基于Kotlin DSL的HTTP客户端.
+* [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
 * [curiousnikhil/Asynkio](https://github.com/CuriousNikhil/AsynKio) - 使用async / await样式轻松进行异步调用.
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
@@ -763,7 +764,7 @@
 * [Gradle Script Kotlin 0.9.0 Release Notes](http://kotlin.link/articles/Gradle-Script-Kotlin-0-9-0-Release-Notes.html) -  Rodrigo B. de Oliveira
 
 ### <a name="articles-blog-posts-april-2017"></a>April 2017 <sup>[Back ⇈](#articles-blog-posts-april-2017-subcategory)</sup>
-* [The Rise and Fall of JVM Languages](http://kotlin.link/articles/The-Rise-and-Fall-of-JVM-Languages.html) - Andrew Binstock
+* [The Rise and Fall of JVM Languages](http://kotlin.link/articles/The-Rise-and-Fall-of-JVM-Languages.html) - 安德鲁宾斯托克
 * [Kotlin/Native Tech Preview: Kotlin without a VM](http://kotlin.link/articles/Kotlin-Native-Tech-Preview-Kotlin-without-a-VM.html) - 安德烈·布雷斯拉夫
 * [Kotlin 1.1 is also for Android Developers](http://kotlin.link/articles/Kotlin-1-1-is-also-for-Android-Developers.html) - 罗曼贝洛夫
 * [Kotlin 1.1 Event Report](http://kotlin.link/articles/Kotlin-1-1-Event-Report.html) -  Alina Dolgikh
@@ -813,7 +814,7 @@
 * [Kotlin 1.1-M04 is here!](http://kotlin.link/articles/Kotlin-1-1-M04-is-here.html) - 伊利亚切尔尼科夫
 * [Kotlin in Practice with Spring Boot and Vaadin](http://kotlin.link/articles/Kotlin-in-Practice-with-Spring-Boot-and-Vaadin.html) -  Philipp Hauer
 * [Concurrency Primitives in Kotlin](http://kotlin.link/articles/Concurrency-Primitives-in-Kotlin.html) -  Egor Andreevich
-* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) - Lorenzo Angelini
+* [Write a lightweight, cross-platform HTML5 desktop app with Kotlin](http://kotlin.link/articles/Write-a-lightweight-cross-platform-HTML5-desktop-app-with-Kotlin.html) -  Lorenzo Angelini
 * [Kotlin is cheating on me...](http://kotlin.link/articles/Kotlin-is-cheating-on-me.html) -  Andrea Franceschini
 * [The Reactive Scrabble benchmarks](http://kotlin.link/articles/The-Reactive-Scrabble-benchmarks.html) - 大卫卡尔
 * [Kotlin 1.0.6 is here!](http://kotlin.link/articles/Kotlin-1-0-6-is-here.html) - Yan Zhulanow
@@ -827,7 +828,7 @@
 * [Kotlin 1.0.5 is here](http://kotlin.link/articles/Kotlin-1-0-5-is-here.html) - 德米特里·杰梅罗夫
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
-* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
+* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - Amit Shekhar
 * [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里
@@ -991,7 +992,7 @@
 * [Creating an AndroidWear watchface using Kotlin](http://kotlin.link/articles/Creating-an-AndroidWear-watchface-using-Kotlin.html) - 罗伯托佩雷斯
 * [Rest API plumbing with kotlin](http://kotlin.link/articles/Rest-API-plumbing-with-kotlin.html) -  Gaetan Zoritchak
 * [Kotlin’s Android Roadmap](http://kotlin.link/articles/Kotlin’s-Android-Roadmap.html) - 德米特里·杰梅罗夫
-* [Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More](http://kotlin.link/articles/Ubuntu-Make-16-03-Released-With-Eclipse-JEE-And-IntelliJ-IDEA-EAP-Support-More.html) - 艾琳安德烈
+* [Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More](http://kotlin.link/articles/Ubuntu-Make-16-03-Released-With-Eclipse-JEE-And-IntelliJ-IDEA-EAP-Support-More.html) - Alin Andrei
 * [10 Features I Wish Java Would Steal From the Kotlin Language](http://kotlin.link/articles/10-Features-I-Wish-Java-Would-Steal-From-the-Kotlin-Language.html) -  Lukas Eder
 
 ### <a name="articles-blog-posts-february-2016"></a>February 2016 <sup>[Back ⇈](#articles-blog-posts-february-2016-subcategory)</sup>

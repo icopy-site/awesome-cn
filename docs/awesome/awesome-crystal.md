@@ -83,7 +83,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
- * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
+ * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
  * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 
 ## Code Analysis and Metrics
@@ -140,7 +140,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -  SQLite3绑定
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -  EventQL驱动程序
  * [leveldb](https://github.com/crystal-community/leveldb) -  LevelDB的Crystal绑定
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - 绑定MongoDB C驱动程序
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) -  RocksDB客户端
  * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) -  Tarantool司机
 
@@ -163,7 +163,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-email](https://github.com/arcage/crystal-email) - 简单的电子邮件发送库
  * [CrystalEmail](https://git.sceptique.eu/Sceptique/CrystalEmail) - 符合RFC的电子邮件验证程序
  * [devmail](https://github.com/tijn/devmail) - 具有易失性邮件存储的组合SMTP / POP3服务器
- * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - Simple Sendgrid Client
+ * [sendgrid.cr](https://github.com/dlanileonardo/sendgrid.cr) - 简单的Sendgrid客户端
 
 ## Environment Management
  * [asdf-crystal](https://github.com/marciogm/asdf-crystal) -  asdf版本管理器的插件
@@ -240,6 +240,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [hq.cr](https://github.com/maiha/hq.cr) -  crystal-xml的简单包装
  * [myhtml](https://github.com/kostya/myhtml) - 包含CSS选择器的快速HTML5分析器
 
+## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -  Crystal的死简单HTML表单构建器，内置支持许多流行的UI库，如Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
+
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - 简单灵活的HTTP客户端
  * [crest](https://github.com/mamantoha/crest) - 简单的HTTP和REST客户端，受Ruby的RestClient gem的启发
@@ -310,7 +314,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - 表情符号库
  * [hoop](https://github.com/0x73/hoop) - 构建本机OSX应用程序
- * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
  * [i18n.cr](https://github.com/vladfaust/i18n.cr) - 国际化碎片
  * [immutable](https://github.com/lucaong/immutable) - 实现线程安全，持久，不可变的集合
  * [inflector.cr](https://github.com/phoffer/inflector.cr) -  Singularize，pluralize，camelize等（来自ActiveSupport的端口）
@@ -445,7 +448,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -  Bugsnag异常通知程序和sidekiq中间件
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - 包装纸 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) - 包装纸 [Github](https://github.com/) API
- * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - 客户 [Monzo API](https://monzo.com/docs/)
+ * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - 星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) - 解析Slack斜杠命令或发送传入Web挂钩的工具
  * [discordcr](https://github.com/meew0/discordcr) - 极简主义的Discord API库

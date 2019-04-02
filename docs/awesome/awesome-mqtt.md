@@ -41,7 +41,7 @@
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - 使用asyncio的Python MQTT代理.
 * [HiveMQ](https://www.hivemq.com/) - 基于Java的商业MQTT Broker.
 * [hrotti](https://github.com/alsm/hrotti) - 用Go编写的MQTT代理.
-* [Moquette](https://github.com/andsel/moquette) -  Java MQTT轻量级代理.
+* [Moquette](https://github.com/moquette-io/moquette) -  Java MQTT轻量级代理.
 * [Mosca](http://www.mosca.io/) -  Mosca是一个node.js MQTT代理，可以在另一个Node.js应用程序中使用Standalone或Embedded.
 * [Mosquitto](http://mosquitto.org/) - “开源MQTT经纪人”.
 * [MyQttHub](https://myqtthub.com) - 云MQTT经纪人.
@@ -63,7 +63,7 @@
 * [mqtt-client](https://github.com/sdeancos/mqtt-client) - 一个简单的MQTT客户端命令行（Python）（使用paho lib）
 * [mqtt-forget](https://github.com/hobbyquaker/mqtt-forget) - 命令行工具，用于通过通配符删除保留的MQTT主题.
 * [mqtt-fuzz](https://github.com/F-Secure/mqtt_fuzz) -  MQTT协议的简单模糊器.
-* [mqtt-malaria](https://github.com/remakeelectric/mqtt-malaria) -  MQTT环境的可扩展性和负载测试实用程序.
+* [mqtt-malaria](https://github.com/etactica/mqtt-malaria) -  MQTT环境的可扩展性和负载测试实用程序.
 * [MQTT-PWN](https://github.com/akamai-threat-research/mqtt-pwn) -  MQTT-PWN打算成为物联网经纪人渗透测试和安全评估业务的一站式服务.
 * [mqtt-shell](https://github.com/pidster-dot-org/mqtt-shell) -  MQTT的简单交互式shell.
 * [mqtt-spy](http://kamilfb.github.io/mqtt-spy/)   - 基于Java的MQTT前端.  支持脚本.
@@ -216,7 +216,7 @@
 * [FHEM](http://fhem.de/fhem.html) 有个 [MQTT module](http://fhem.de/commandref.html#MQTT) 自V5.6起.
 * [Home Assistant](https://www.home-assistant.io/) 有一个MQTT组件.
 * [Home.Pi](https://github.com/denschu/home.pi) 基于MQTT.
-* [Homegear](https://www.homegear.eu/index.php/Main_Page) 已建立MQTT支持.
+* [Homegear](https://homegear.eu/index.php/Main_Page) 已建立MQTT支持.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - 之间的接口 [HAP-NodeJS](https://github.com/KhaosT/HAP-NodeJS)  和MQTT.  使用Siri或HomeKit Apps控制MQTT连接设备.
 * [ioBroker](https://github.com/ioBroker) 有个 [MQTT adapter](https://github.com/ioBroker/ioBroker.mqtt).
 * [Lelylan](http://www.lelylan.com/)   - 物联网云平台.  微服务架构.  对于开发人员.
@@ -331,4 +331,4 @@
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)

@@ -138,7 +138,7 @@
 - [Krzysztof Cieslak](https://github.com/Krzysztof-Cieslak/AMA) - 软件开发人员，顾问，创始人 [Lambda Factory](http://lambdafactory.io)，作者 [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax)，项目业主和维护者 [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)，许多OSS项目的贡献者，国际发言人.
 - [Benjamin Reitzammer](https://github.com/benjmin-r/ama) - 开发人员，前CTO，工程经理，社区.
 - [Clark Weckmann](https://github.com/clarkhacks/ama)   -  Web开发人员，设计人员和程序员.  专注于小型企业网站和博客.
-- [Kevin Jalbert](https://github.com/kevinjalbert/ama) - 使用React / Rails编写的软件工程师 [theScore](http://mobile.thescore.com/careers/).
+- [Kevin Jalbert](https://github.com/kevinjalbert/ama) - 开发人员领导 [Shopify](https://www.shopify.ca/about)，主要使用Rails和React.
 - [Sean Killeen](https://github.com/SeanKilleen/ama) -  .NET领导和管理顾问 [Excella](https://excella.com) .  演讲者，博主，技术主管.  很想谈论.NET，现代化，分布式系统，公共演讲，音乐剧，以及其他任何事情.
 - [Tobias Kienzler](https://github.com/zommuter/ama) - 物理学家，程序员，父母.
 - [Juha Lindstedt](https://github.com/pakastin/ama) -  Web架构师 [iDiD](https://www.idid.fi) .  创造者 [RE:DOM](https://redom.js.org), [Deck of Cards](https://deck-of-cards.js.org) 和其他开源项目.
@@ -160,6 +160,7 @@
 - [Brad Garropy](https://github.com/bradgarropy/ama) -  Python DevOps at [Dell](https://www.delltechnologies.com) 白天，威士忌和JavaScript之夜.
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - 软件架构师， [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi)，和 [conference organizer](https://devternity.com).
+- [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.
 
 #### Ask these organizations anything!
 

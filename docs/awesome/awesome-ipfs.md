@@ -28,7 +28,7 @@
 - [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - 分散内容发布/货币化平台.
 - [Arbore](http://arbo.re) - 构建在IPFS之上的朋友对朋友的文件共享应用程序.
 - [Arpadyne](https://arpadyne.computes.com)   - 新的互联网 - 由OrbitDB提供支持的DNS.  通过IPFS提供的内容.
-- [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) -  Autonomica是一个类似Keybase的Dapp，用于创建身份并通过发布的社交媒体和网络证明证明此身份.
+- [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) -  Beets有一个插件，可以使用IPFS轻松共享音乐库
 - [Blokaly](https://github.com/blokaly) - 基于IPFS的徽章发布，共享和显示平台.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - 在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
@@ -144,6 +144,7 @@
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)   - 用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本.  这应该适用于尚未为其编写扩展的任何浏览器，并且支持用户脚本.
 - [ipscend](https://github.com/diasdavid/ipscend) - 用于在IPFS中托管Web应用程序和静态网站的工具
 - [pinbot](https://github.com/whyrusleeping/pinbot) - 通过IRC固定内容
+- [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查IPFS网关的公共状态的Web应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - 易于使用的IPFS桌面客户端，适用于macOS，Windows和Linux [Source](https://github.com/Siderus/Orion)
 
 ## Videos

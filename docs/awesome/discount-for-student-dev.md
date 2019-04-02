@@ -50,6 +50,7 @@
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]  - 学生可以节省60％的Creative Cloud优惠.
   * [Ip Geolocation](https://ipgeolocation.io/) [折扣]  - 免费提供50K请求和学生所有付费计划的50％折扣.
+  * [Taskade - Team Productivity](https://www.taskade.com/)  [折扣]  - 学生可获得Taskade Pro订阅的50％永久折扣.  在结帐时使用优惠券代码“students50”，并开始在任务中与团队任务，笔记和聊天进行协作.
 
 ## PaaS
 

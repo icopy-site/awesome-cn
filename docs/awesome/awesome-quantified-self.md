@@ -25,7 +25,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - 斯蒂芬沃尔夫勒姆探讨了他收集的关于他的时间使用的数据.
 - [Measured Me](http://measuredme.com/) - 自我量化和自我优化的个人实验.
 - [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合，生活日志，量化自我和数字遗产.
-- [Quantified Bob](https://www.quantifiedbob.com/) - 通过实验和个人分析，跟踪一个人对自我知识，改进和优化的追求.
+- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我，生活，日记，教育.
 - [QS on Medium](https://medium.com/@quantifiedself) - 在媒体上量化自我帖子.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于Venture Beat的量化自我文章.
@@ -40,15 +40,19 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ## Applications and Platforms
 
-### Activity & Fitness
+### Fitness
 - [Runkeeper](http://runkeeper.com/) - 户外健身活动追踪器（iOS和Android）.
 - [Endomondo](https://www.endomondo.com/) - 体育和健康统计跟踪器（iOS和Android）.
 - [Runtastic](https://www.runtastic.com/) - 跑步，骑行和健身GPS追踪器（iOS和Android）.
-- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - 多用途跟踪器（Android）.
-- [Moves](https://moves-app.com/) - 适合您生活的活动日记（iOS和Android）.
 - [EveryMove Fit](http://everymovefit.com/) - 社交健身和目标跟踪平台（iOS和Android）.
 - [Strava](https://www.strava.com/) - 体育活动跟踪和社交网络.
 - [Gym Hero](https://gymhero.me/) - 跟踪锻炼，力量训练和其他健身运动（iOS，Web）
+
+### Places & Travel
+- [RoadGoat](https://www.roadgoat.com/) - 旅行跟踪，与此处列出的许多平台（Web）的自动集成.
+- [Swarm](https://www.swarmapp.com/) - 通过GPS（iOS和Android）进行兴趣点自动检查.
+- [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - 通过GPS（iOS）跟踪您的移动和访问过的地点.
+- [Moves](https://moves-app.com/) - 生活中的活动日记，现在关闭（iOS和Android）.  
 
 ### Aggregators & Dashboards
 - [Apple Health](http://www.apple.com/ios/health/)   -  Apple设备的多功能跟踪平台.  跟踪活动，睡眠，营养，正念和其他指标.
@@ -61,6 +65,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [IoTool](https://iotool.io/) - 用于自动化和数据收集的智能手机物联网平台.
 - [Tictrac](https://tictrac.com/) - 健康和健身数据（网页）的仪表板.
 - [QS Access](http://quantifiedself.com/qs-access-app/) - 将Apple Health数据导出为CSV表格式（iOS）. 
+- [KeepTrack](https://play.google.com/store/apps/details?id=com.zagalaga.keeptrack&hl=en) - 多用途跟踪器（Android）.
 
 ### Automation
 - [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm&hl=en) - 自动化和事件触发应用程序（Android）.
@@ -93,8 +98,10 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Strides](http://www.stridesapp.com/) - 使用SMART目标设置（Web，iOS）跟踪您的目标，习惯和项目的应用程序.
 - [Habit List](http://habitlist.com/) - 创造良好习惯，打破坏习惯，打造更好的你（iOS）.
 - [Streaks](https://streaksapp.com/) - 帮助您养成良好习惯的待办事项列表（iOS）.
+- [Taskade](https://taskade.com/)   - 可在所有设备上同步的现代任务列表.  （网络，iOS，Android，Chrome，Mac和PC）.
 
 ### Health
+- [AlcDroid](http://alcdroid.flx-apps.com/) - 酒精消费跟踪和BAC计算应用程序，提供有关您的饮酒行为的各种统计数据（Android）.
 - [CureTogether](http://curetogether.com/) - 健康自我跟踪和协作网络.
 - [Symple](http://www.sympleapp.com/) - 症状日志和健康跟踪器（iOS）.
 
@@ -117,7 +124,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - 跟踪您的日常情绪和活动（Android）.
-- [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
+- [Daylio](http://daylio.webflow.io/)   - 无需写下一行就可以捕捉你的一天.  高级版可导出数据.  （iOS和Android）.
 - [MoodNotes](http://moodnotes.thriveport.com/)   - 用可修改的微笑或皱眉脸捕捉你的感受.  可导出的数据.  （iOS和Apple Watch）.
 - [MoodPanda](http://moodpanda.com/)   - 在线提供最古老的情绪提升者之一.  评价你的心情并分享支持.  可导出的数据.  通过API（Web，iOS，Android）同步和扩展.
 - [MoodJam](http://moodjam.com/)   - 用颜色跟踪你的心情.  （仅限网络）.
@@ -148,8 +155,9 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Manic Time](http://www.manictime.com/) - 跟踪计算机使用情况的自动时间跟踪软件（Windows）.
 - [Streaks](https://streaksapp.com/) - 待办事项列表，帮助您形成习惯和追踪目标（iOS）.
 - [Moment](https://inthemoment.io/) - 跟踪iPhone和iPad（iOS）上的时间.
-- [Hindsight](http://hindsightapp.io/) - 追踪事情发生的时间流逝（iOS，Apple Watch）
-- [ActivityWatch](https://activitywatch.net/) - 开源自动时间跟踪器（Mac，Windows，Linux，Android）. 
+- [Hindsight](http://hindsightapp.io/) - 跟踪事情发生的时间流逝（iOS，Apple Watch）.
+- [ActivityWatch](https://activitywatch.net/) - 开源自动时间跟踪器（Mac，Windows，Linux，Android）.
+- [Hourly](http://hourly-app.com) - 具有智能功能和精美设计（iOS）的简约时间跟踪器.
 
 ### Wealth
 - [Mint](http://www.mint.com/) - 管理您的资金，支付账单并跟踪您的信用评分.
@@ -199,6 +207,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Quantifier](https://github.com/tsubery/quantifier) - 量化自我应用程序，跟踪各种健身和生产力指标.
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - 一个开源的非营利性个人数据可视化框架.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - 习惯跟踪器和个人数据分析应用程序.
+- [BetterSelf](https://betterself.io) - 一个用于跟踪补充和习惯的开源应用程序
 
 ## License
 

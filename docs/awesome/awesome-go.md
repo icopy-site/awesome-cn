@@ -264,6 +264,7 @@
 * Go中实施的数据库*
 
 * [badger](https://github.com/dgraph-io/badger) -  Go中的快速键值存储.
+* [bcache](https://github.com/iwanbk/bcache) - 最终一致的分布式内存缓存Go库.
 * [BigCache](https://github.com/allegro/bigcache) - 千兆字节数据的高效键/值缓存.
 * [bolt](https://github.com/boltdb/bolt) -  Go的低级键/值数据库.
 * [buntdb](https://github.com/tidwall/buntdb) -  Go的快速，可嵌入，内存中键/值数据库，具有自定义索引和空间支持.
@@ -679,7 +680,7 @@
 
 ## Hardware
 
-*与硬件交互的库，工具和教程.*
+*Libraries, tools, and tutorials for interacting with hardware.*
 
 See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
@@ -727,7 +728,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [connectordb](https://github.com/connectordb/connectordb) - 量化自我和物联网的开源平台.
 * [devices](https://github.com/goiot/devices) - 物联网设备库套件，x / exp / io实验.
 * [eywa](https://github.com/xcodersun/eywa) -  Project Eywa本质上是一个跟踪连接设备的连接管理器.
-* [flogo](https://github.com/tibcosoftware/flogo) - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
+* [flogo](https://github.com/tibcosoftware/flogo) -  Project Flogo是物联网边缘应用和集成的开源框架.
 * [gatt](https://github.com/paypal/gatt) -  Gatt是用于构建蓝牙低功耗外设的Go软件包.
 * [gobot](https://github.com/hybridgroup/gobot/) -  Gobot是机器人，物理计算和物联网的框架.
 * [huego](https://github.com/amimof/huego) - 适用于Go的广泛的Philips Hue客户端库.
@@ -1189,7 +1190,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [acmetool](https://github.com/hlandau/acme) - 具有自动续订功能的ACME（Let&#39;s Encrypt）客户端工具.
 * [acra](https://github.com/cossacklabs/acra) - 网络加密代理，用于保护基于数据库的应用程序免受数据泄漏：强选择性加密，SQL注入防护，入侵检测系统.
 * [argon2pw](https://github.com/raja/argon2pw) - 具有恒定时间密码比较的Argon2密码哈希生成.
-* [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - Auto provision Let's Encrypt certificates and start a TLS server.
+* [autocert](https://godoc.org/golang.org/x/crypto/acme/autocert) - 自动配置让我们加密证书并启动TLS服务器.
 * [BadActor](https://github.com/jaredfolkins/badactor) - 以fail2ban的精神构建的内存，应用程序驱动的jailer.
 * [Cameradar](https://github.com/Ullaakut/cameradar) - 远程破解来自监控摄像机的RTSP流的工具和库.
 * [go-yara](https://github.com/hillu/go-yara) - 去绑定 [YARA](https://github.com/plusvic/yara)，“用于恶意软件研究人员（以及其他所有人）的模式匹配瑞士刀”.
@@ -1292,7 +1293,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [gocrest](https://github.com/corbym/gocrest) - 用于Go断言的可组合的hamcrest-like匹配器.
     * [godog](https://github.com/DATA-DOG/godog) - 像Go的BDD框架一样的Cucumber或Behat.
     * [gofight](https://github.com/appleboy/gofight) - 对于路由器Golang架构处理器API测试.
-    * [gogiven](https://github.com/corbym/gogiven) -  Go的YATSPEC类BDD测试框架.
+    * [gogiven](https://github.com/corbym/gogiven) - YATSPEC-like BDD testing framework for Go.
     * [gomatch](https://github.com/jfilipczyk/gomatch) - 创建用于针对模式测试JSON的库.
     * [gomega](http://onsi.github.io/gomega/) -  Rspec像matcher / assertion库.
     * [GoSpec](https://github.com/orfjackal/gospec) -  Go编程语言的BDD风格测试框架.
@@ -1375,7 +1376,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [sdp](https://github.com/gortc/sdp) -  SDP：会话描述协议 [[RFC 4566](https://tools.ietf.org/html/rfc4566)].
     * [sh](https://github.com/mvdan/sh) -  Shell解析器和格式化程序.
     * [slug](https://github.com/gosimple/slug) - 具有多种语言支持的URL友好的slugify.
-    * [Slugify](https://github.com/avelino/slugify) - Go slugify application that handles string.
+    * [Slugify](https://github.com/avelino/slugify) -  Go slugify应用程序处理字符串.
     * [syndfeed](https://github.com/zhengchun/syndfeed) -  Atom 1.0和RSS 2.0的联合供稿.
     * [toml](https://github.com/BurntSushi/toml) -  TOML配置格式（带反射的编码器/解码器）.
 * 效用
@@ -1457,7 +1458,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [translate](https://github.com/poorny/translate) - 去在线翻译包.
 * [Trello](https://github.com/adlio/trello) - 转到Trello API的包装器.
 * [tumblr](https://github.com/mattcunningham/gumblr) - 转到Tumblr v2 API的包装器.
-* [uptimerobot](https://github.com/bitfield/uptimerobot) - 转到Uptime Robot v2 API的包装器和命令行客户端.
+* [uptimerobot](https://github.com/bitfield/uptimerobot) - Go wrapper and command-line client for the Uptime Robot v2 API.
 * [webhooks](https://github.com/go-playground/webhooks) -  GhHub和Bitbucket的Webhook接收器.
 * [wit-go](https://github.com/wit-ai/wit-go) - 转到wit.ai HTTP API的客户端.
 * [ynab](https://github.com/brunomvsouza/ynab.go) - 转到YNAB API的包装器.
@@ -1565,7 +1566,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [retry](https://github.com/shafreeck/retry) - 一个非常简单的库，以确保您的工作完成.
 * [retry-go](https://github.com/rafaeljesus/retry-go) - 重试简单易用golang.
 * [robustly](https://github.com/VividCortex/robustly) - 弹性运行，捕捉并重启恐慌.
-* [serve](https://github.com/syntaqx/serve) - 您需要的任何地方的静态http服务器.
+* [serve](https://github.com/syntaqx/serve) - A static http server anywhere you need.
 * [silk](https://github.com/chrispassas/silk) - 阅读丝绸netflow文件.
 * [sliceconv](https://github.com/Henry-Sarabia/sliceconv) - 基元类型之间的切片转换.
 * [slicer](https://github.com/leaanthony/slicer) - 使切片更容易使用.
@@ -1845,7 +1846,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gox](https://github.com/mitchellh/gox) - 死简单，没有多余的装饰去交叉编译工具.
 * [goxc](https://github.com/laher/goxc) - 为Go构建工具，重点是交叉编译和打包.
 * [grapes](https://github.com/yaronsumel/grapes) - 轻量级工具，旨在轻松地通过ssh分发命令.
-* [GVM](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
+* [GVM](https://github.com/moovweb/gvm) -  GVM提供管理Go版本的界面.
 * [Hey](https://github.com/rakyll/hey) - 嘿是一个很小的程序，可以向Web应用程序发送一些负载.
 * [kala](https://github.com/ajvb/kala) - 简单，现代，高效的工作调度程序.
 * [kcli](https://github.com/cswank/kcli) - 用于检查kafka主题/分区/消息的命令行工具.

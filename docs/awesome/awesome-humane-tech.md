@@ -33,13 +33,14 @@
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - 与希波克拉底誓言相当的程序员道德誓言.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - 为实现道德设计的场所和项目重新绘制了马斯洛夫需求金字塔.
 - [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术未来影响的指南.
-- [ACM Code of Ethics](https://ethics.acm.org/) - The Association for Computing Machinery's code of ethics and professional conduct.
+- [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德规范和职业行为准则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则纳入您的数据工作的全球倡议.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立道德考虑体验的可选誓言.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - 参与开发物联网的每个人的行为准则
 - [switching.social](https://switching.social/) - 流行的社交应用程序的道德，易用和隐私意识的替代品.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - 批判性思维概念的宣言应用于工程态度.
 - [The Digital Product Ethics Canvas](https://www.threebility.com/post/the-digital-product-ethics-canvas) - 识别并降低数字产品对个人和社会的风险.
+- [Fairwork Foundation](https://fair.work/) - 一个致力于制定和衡量标准并在平台经济中提供认证的项目.
 
 ## Security
 
@@ -104,7 +105,7 @@
 - [Matomo](http://matomo.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/matomo) -  Google Analytics的领先开放替代方案，可让您完全控制数据.
 - [Fathom](https://usefathom.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/usefathom/fathom) - 一种更简单，更专注于隐私的Google Analytics替代方案.
 - [Fair Analytics](https://github.com/vesparny/fair-analytics) - 与谷歌分析相似的服务器，不会破坏用户的隐私.
-- [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) -  Google测量协议的代理服务和客户端替换其分析脚本.
+- [Google Analytics Proxy](https://github.com/NYPL/google-analytics-proxy) -  Google测量协议的代理服务和客户端分析脚本的替换.
 - [GoAccess](https://goaccess.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/allinurl/goaccess) - 在终端或浏览器中运行的实时Web日志分析器和交互式查看器.
 - [Countly](https://count.ly/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Countly/countly-server) - 自助式，实时，移动和网络分析，丰富的推送通知和崩溃报告平台.
 
@@ -186,7 +187,7 @@
 - [HTTP Leaks](https://github.com/cure53/HTTPLeaks) - 所有可能的方式，网站可以泄漏HTTP请求.
 - [Who Tracks Me](https://whotracks.me/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/cliqz-oss/whotracks.me) - 为在线跟踪带来透明度 - 由Cliqz和Ghostery建立.
 - [Awful AI](https://github.com/daviddao/awful-ai) - 一个精选的列表，用于跟踪当前人工智能的可怕用法 - 希望提高认识.
-- [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) -  Addon可实时显示第一方和第三方网站之间的Web请求.
+- [Firefox Lightbeam](https://addons.mozilla.org/en-GB/firefox/addon/lightbeam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/lightbeam-we) - Addon that visualizes Web requests between 1st and 3rd-party sites in real time.
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) - 普林斯顿网络透明度和问责制项目，一个隐私测量框架.
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 根据许多已知的跟踪技术检查您的电子邮件提供商和客户端保
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
