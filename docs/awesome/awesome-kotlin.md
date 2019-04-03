@@ -165,7 +165,7 @@
 ### <a name="libraries-frameworks-functional-programming"></a>Functional Programming <sup>[Back ⇈](#libraries-frameworks-functional-programming-subcategory)</sup>
 * [arrow-kt/arrow](https://github.com/arrow-kt/arrow) -  Kotlin标准库的功能伴侣.
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) -  Kotlin的RxJava绑定.
-* [kittinunf/Result](https://github.com/kittinunf/Result) -  Kotlin运营成功/失败的建模.
+* [kittinunf/Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
 * [brianegan/bansa](https://github.com/brianegan/bansa) - 受到Elm＆Redux启发的Kotlin和Java的状态容器.
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) -  Kotlin的Redux直接港口.
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - 用于Kotlin + Android的Reduxjs的“电池包含”端口
@@ -439,7 +439,7 @@
 * [izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets) - 基于IntelliJ IDEA的IDE的Rainbow Brackets / Rainbow圆括号.
 * [roger-yh99/Readhub](https://github.com/roger-yh99/Readhub) - [Readhub](http://plugins.jetbrains.com/plugin/10539-readhub) 是IntelliJ IDE的新闻阅读器插件
 * [roger-yh99/AwesomeKotlinPlugin](https://github.com/roger-yh99/AwesomeKotlinPlugin) - [AwesomeKotlin](https://plugins.jetbrains.com/plugin/11357-awesome-kotlin) IntelliJ IDE的插件
-
+* [wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass) -  Android Studio插件和IntelliJ Idea从JSON文本生成Kotlin数据类代码（Json到Kotlin）
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
@@ -828,7 +828,7 @@
 * [Kotlin 1.0.5 is here](http://kotlin.link/articles/Kotlin-1-0-5-is-here.html) - 德米特里·杰梅罗夫
 * [Погружение в Async-Await в Android](http://kotlin.link/articles/Погружение-в-Async-Await-в-Android.html) -  Max Rovkin
 * [400% faster layouts with Anko](http://kotlin.link/articles/400-percent-faster-layouts-with-Anko.html) -  Simon Vergauwen
-* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - Amit Shekhar
+* [Why You Must Try Kotlin For Android Development ?](http://kotlin.link/articles/Why-You-Must-Try-Kotlin-For-Android-Development.html) - 阿米特谢卡
 * [A clean status bar with Android System UI and QuickDemo](http://kotlin.link/articles/A-clean-status-bar-with-Android-System-UI-and-QuickDemo.html) -  David Schreiber-Ranner
 * [Getting started with Kotlin and third-party libraries Glide, Dagger 2, Retrofit 2, Realm, MVP and RxJava on Android](http://kotlin.link/articles/Getting-started-with-Kotlin-and-third-party-libraries-Glide-Dagger-2-Retrofit-2-Realm-MVP-and-RxJava-on-Android.html) - 雅罗斯拉夫波利亚科夫
 * [Kotlin Configuration Scripts: An Introduction](http://kotlin.link/articles/Kotlin-Configuration-Scripts-An-Introduction.html) - 哈迪哈里里

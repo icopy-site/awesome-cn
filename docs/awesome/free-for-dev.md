@@ -98,7 +98,7 @@
 ## Code Quality
 
   * [tachikoma.io](https://tachikoma.io/) -  Ruby，Node.js，Perl项目的依赖更新，免费开源
-  * [deppbot.com](https://www.deppbot.com/) -  Ruby项目的自动依赖更新，开源免费
+ 
   * [landscape.io](https://landscape.io/) — Code Quality for Python projects, free for Open Source
   * [codeclimate.com](https://codeclimate.com/)   - 自动代码审查，免费开源和无限组织拥有的私人回购（最多4个合作者）.  学生和机构也免费.
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
@@ -275,7 +275,7 @@
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
   * [mailjet.com](https://www.mailjet.com/) - 每月6,000封电子邮件免费
-  * [sendinblue.com](https://www.sendinblue.com/) - 每月9,000封电子邮件免费
+  * [sendinblue.com](https://www.sendinblue.com/) — 9,000 emails/month free
   * [mailtrap.io](https://mailtrap.io/) - 用于开发的虚假SMTP服务器，包含1个收件箱的免费计划，50条消息，没有团队成员，2封电子邮件/秒，没有转发规则
   * [zoho.com](https://www.zoho.com/mail/) - 最多25个用户的免费电子邮件管理和协作
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
@@ -441,10 +441,10 @@
    * [taiga.io](https://taiga.io/) - 面向初创公司和敏捷开发人员的项目管理平台，免费开源
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
-   * [asana.com](https://asana.com/) — Free for private project with collaborators
+   * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
    * [acunote.com](https://acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
    * [gliffy.com](https://gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
-   * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
+   * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
    * [visualstudio.com](https://www.visualstudio.com//products/what-is-visual-studio-online-vs)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
@@ -473,9 +473,9 @@
    * [plot.ly](https://plot.ly/)   - 绘制并共享您的数据.  免费套餐包括无限制的公共文件和10个私人文件
    * [transloadit.com](https://transloadit.com/)   - 处理文件上传和视频，音频，图像，文档的编码.  免费开源和其他do-gooders.  商业应用程序可免费试用1 GB
    * [podio.com](https://podio.com/) - 您可以将Podio与最多五人的团队一起使用，并尝试基本计划的功能，但用户管理除外
-   * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
+   * [shrinkray.io](https://shrinkray.io/) -  GitHub repos的免费图像优化
    * [kraken.io](https://kraken.io/) - 网站性能即服务的图像优化，最大1 MB文件大小的免费计划
-   * [placeholder.com](https://placeholder.com/) — A quick and simple image placeholder service
+   * [placeholder.com](https://placeholder.com/) - 快速简单的图像占位符服务
    * [placekitten.com](https://placekitten.com/) - 快速而简单的服务，用于获取小猫的照片以用作占位符
    * [embed.ly](https://embed.ly/)   - 提供用于在网页中嵌入媒体的API，响应式图像缩放，从网页中提取元素.  每月15个请求可免费获得5,000个URL /月
    * [otixo.com](https://otixo.com/)   - 从一个地方加密，共享，复制和移动所有云存储文件.  基本计划提供最大250 MB的无限文件传输.  文件大小，允许5个加密文件
@@ -493,7 +493,7 @@
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
-  * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
+  * [walkme.com](https://www.walkme.com/) — Enterprise Class Guidance and Engagement Platform, free plan 3 walk-thrus up to 5 steps/walk
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
@@ -534,7 +534,7 @@
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
    * [jetbrains.com](https://jetbrains.com/products.html)   - 生产力工具，IDE和部署工具.  学生，教师，开源和用户组的免费许可
    * [codepen.io](https://codepen.io/) -  CodePen是网络前端的游乐场
-   * [repl.it](https://repl.it/) - 用于各种程序语言的云编码环境
+   * [repl.it](https://repl.it/) — A cloud coding environment for various program languages
    * [codesandbox.io](https://codesandbox.io/) -  React，Vue，Angular，Preact等在线游乐场
    * [stackblitz.com](https://stackblitz.com/) - 用于Angular和React的在线VS Code IDE
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持

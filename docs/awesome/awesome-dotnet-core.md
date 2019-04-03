@@ -223,7 +223,7 @@
   	* [Prometheus.Client.HttpRequestDurations](https://github.com/PrometheusClientNet/Prometheus.Client.HttpRequestDurations) -  Prometheus.Client的请求持续时间的度量标准记录.
 
 ### Compression
-* [lz4net](https://github.com/MiloszKrajewski/lz4net) - 适用于所有.NET平台的超快速压缩算法.
+* [lz4net](https://github.com/MiloszKrajewski/K4os.Compression.LZ4) - 适用于所有.NET平台的超快速压缩算法.
 * [sharpcompress](https://github.com/adamhathcock/sharpcompress) - Fully managed C# library to deal with many compression types and formats.
 
 ### Compilers, Transpilers and Languages

@@ -111,26 +111,27 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 * [anthology](https://github.com/erikvanbrakel/anthology) - 私人Terraform注册管理机构实施，作为官方注册机构的替代方案.
 * [citizen](https://github.com/outsideris/citizen) - 私人Terraform模块注册表
-* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - Simple implementation of the Terraform registry protocols.
+* [terraform-simple-registry](https://github.com/apparentlymart/terraform-simple-registry) - 简单实现Terraform注册管理机构协议.
 
 ## Providers
 
-* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) -  AliCloud的Terraform插件
-* [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) -  Amazon Web Services的Terraform插件
-* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) - 适用于Microsoft Azure的Terraform插件
-* [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) -  Google Cloud Platform的Terraform插件
-* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud的Terraform插件
-* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) -  Terraform提供商管理healthchecks.io资源.
-* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) -  Helm的Terraform插件
-* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) -  Terraform提供商管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器
-* [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) -  Kubernetes的Terraform插件
-* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) - 用于linode的Terraform插件
-* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) -  Terraform提供商管理pingdom资源.
+* [terraform-provider-alicloud](https://github.com/terraform-providers/terraform-provider-alicloud) - 阿里云的插件.
+* [terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) -  Amazon Web Services插件.
+* [terraform-provider-azurerm](https://github.com/terraform-providers/terraform-provider-azurerm) -  Microsoft Azure插件.
+* [terraform-provider-google](https://github.com/terraform-providers/terraform-provider-google) -  Google Cloud Platform插件.
+* [terraform-provider-hcloud](https://github.com/terraform-providers/terraform-provider-hcloud) -  Hetzner Cloud插件.
+* [terraform-provider-healthchecksio](https://github.com/kristofferahl/terraform-provider-healthchecksio) - 管理healthchecks.io资源的提供者.
+* [terraform-provider-helm](https://github.com/terraform-providers/terraform-provider-helm) -  Helm插件
+* [terraform-provider-keycloak](https://github.com/mrparkers/terraform-provider-keycloak) - 提供商管理您的设置 [Keycloak](https://www.keycloak.org/) 身份提供者服务器
+* [terraform-provider-kubernetes](https://github.com/terraform-providers/terraform-provider-kubernetes) -  Kubernetes插件.
+* [terraform-provider-linode](https://github.com/btobolaski/terraform-provider-linode) -  linode插件
+* [terraform-provider-pingdom](https://github.com/russellcardullo/terraform-provider-pingdom) - 管理pingdom资源的提供者.
 * [terraform-provider-spinnaker](https://github.com/armory-io/terraform-provider-spinnaker) - 管理 [Spinnaker](https://www.spinnaker.io/) Terraform的应用程序和管道.
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - 适用于AWS，Azure，GCP的Devops自动化平台.
-* [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) -  Stripe的Terraform Provider.
-* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) -  Terraform提供商管理uptimerobot资源.
-* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - 适用于VMware vSphere的Terraform插件
+* [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - 条纹提供商.
+* [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - 提供管理uptimerobot资源的提供商.
+* [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - 适用于VMware vSphere的插件.
+* [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza的提供者.
 
 ## Testing
 
@@ -152,7 +153,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [scenery](https://github.com/dmlittle/scenery) - 另一个Terraform计划输出预处理器
 * [terraboard](https://github.com/camptocamp/terraboard) - 用于检查Terraform国家的Web仪表板.
 * [terraboot](https://github.com/MastodonC/terraboot) -  DSL生成terraform配置并运行它.
-* [terrafile](https://github.com/coretech/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Go编写）.
+* [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
 * [terrafile](https://github.com/dxw/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Ruby编写）.
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - 用于从terraform模块生成文档的快速实用程序.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - 改进Terraform的计划输出，使其更易于阅读和理解.

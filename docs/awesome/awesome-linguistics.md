@@ -13,6 +13,7 @@
 * [Natural](https://github.com/NaturalNode/natural) -  Node.js的通用自然语言工具.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 用于构建Python程序以使用人类语言数据的最完整平台.
 * [Snowball](http://snowball.tartarus.org/) -  Snowball是一种可以很容易地表示词干算法的语言.
+* [UralicNLP](https://github.com/mikahama/uralicNLP)   - 一个开源Python库，用于处理形态丰富且大部分是濒临灭绝的Uralic语言.  它可以为许多Uralic语言进行形态分析，生成，词形还原，消歧和词汇查找.
 
 ### Algorithms
 * [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.

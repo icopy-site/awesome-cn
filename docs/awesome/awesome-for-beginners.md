@@ -49,7 +49,7 @@
 
 ## Go
 
-- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
@@ -92,7 +92,7 @@
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  只是一个博客平台
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  令人敬畏的ESLint规则.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JS / HTML / CSS终端
-- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
+- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：Up-For-Grabs）_ <br>  一个轻量级JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wanted-easy）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Hoodie Camp是新的和现有的贡献者的空间.
@@ -105,7 +105,7 @@
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
-- [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors)  _（标签：for-new-contributors）_ <br>  建立伟大机器人的唯一理智方式.
+- [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
@@ -180,10 +180,12 @@
 - [ohai](https://github.com/chef/ohai/labels/Type%3A%20Jump%20In)  _（标签：类型：跳入）_ <br>  Ohai描述您的系统并发出JSON
 - [PublicLab.org](https://github.com/publiclab/plots2/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  环境项目的开源发布平台.  查看 [new contributors welcome page](https://github.com/publiclab/plots2/projects/2).
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
+- [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  开源事件管理器.  为自由和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
+- [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：好的第一期）_ <br>  一种通用系统，以自动，一致和可重现的方式从源构建和分发包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架

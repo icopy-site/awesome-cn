@@ -17,10 +17,22 @@
 * [Coursera](https://www.coursera.org/courses?query=mathematics&languages=en)
 * [MIT OpenCourseWare](http://ocw.mit.edu/courses/mathematics/)
 * [edX](https://www.edx.org/course/subject/math)
+* [Brilliant](https://brilliant.org/courses/#math-foundational)
+* [WooTube](https://misterwootube.com/)
 
 ## Learn to Learn
 
 * [Understanding Mathematics](https://github.com/nelson-brochado/understanding-math)
+
+## Youtube Series
+
+* [Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists?view=1&sort=da&flow=grid)
+* [3blue1brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists)
+* [NPTEL](https://www.youtube.com/watch?v=VVYLpmKRfQ8&list=PL6C92B335BD4238AB)
+* [Prof. Leonard](https://www.youtube.com/watch?v=9FtHB7V14Fo&list=PL5102DFDC6790F3D0)
+* [Crash Course](https://www.youtube.com/watch?v=zouPoc49xbk&list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
+* [Harvard](https://www.youtube.com/watch?v=KbB0FjPg0mw&list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [MIT](https://www.youtube.com/watch?v=VPZD_aij8H0&list=PLUl4u3cNGP60uVBMaoNERc6knT_MgPKS0)
 
 ## Tools
 
@@ -56,9 +68,9 @@
 * [BetterExplained](https://betterexplained.com/) - 由Kalid Azad维护
 * [ILoveMaths](http://ilovemaths.com/) - 适用于K-12系统中的6至12年级
 * [3blue1brown](https://www.3blue1brown.com/) - 动画数学
+* [Mathsisfun](https://www.mathsisfun.com) 简单的文本轻量级网站为学生到高中
 
 ## Misc
-
 * [Areas of mathematics on Wikipedia](https://en.wikipedia.org/wiki/Areas_of_mathematics)
 * [Paul's Online Math Notes](http://tutorial.math.lamar.edu/) - 保罗道金斯（拉马尔大学）
 * [List of electronic textbooks](http://faculty.atu.edu/mfinan/nnotes.html) -  Marcel B. Finan（阿肯色理工大学）
@@ -112,7 +124,7 @@
 ### Surreal Numbers
 
 * [Surreal Numbers - How two ex-students turned on to pure mathematics and found total happiness](http://www.math.harvard.edu/~knill/teaching/mathe320_2015_fall/blog15/surreal1.pdf) -  DE Knuth
-* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - Gretchen Grimm
+* [An Introduction to Surreal Numbers](https://www.whitman.edu/Documents/Academics/Mathematics/Grimm.pdf) - 格雷琴格林
 * [Surreal Numbers and Games](http://web.mit.edu/sp.268/www/2010/surreal.pdf)
 * [Conway names, the simplicity hierarchy and the surreal number tree](http://www.ohio.edu/people/ehrlich/ConwayNames.pdf) -  Philip Ehrlich
 
@@ -266,7 +278,7 @@
 * [Elementary Calculus: An Approach Using Infinitesimals](http://www.math.wisc.edu/~keisler/calc.html) -  H. Jerome Keisler教授
 * [An Introduction to Real Analysis](https://www.math.ucdavis.edu/~hunter/intro_analysis_pdf/intro_analysis.pdf) -  John K. Hunter（加州大学戴维斯分校）
 * [Introduction to Real Analysis](http://ramanujan.math.trinity.edu/wtrench/texts/TRENCH_REAL_ANALYSIS.PDF) -  William F. Trench（德克萨斯三一大学）
-* [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) - JiříLebl
+* [Basic Analysis: Introduction to Real Analysis](http://www.jirka.org/ra/realanal.pdf) -  Jiri Lebl
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - 汤姆森，布鲁克纳
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) -  Eric T. Sawyer（麦克马斯特大学）
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) -  C.麦克马伦
@@ -337,7 +349,7 @@ Shlomo Sternberg
 * [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - 鲍勃特雷尔
 * [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) -  William F. Trench
 * [Elementary Differential Equations With Boundary Value Problems](http://digitalcommons.trinity.edu/mono/9/) -  William F. Trench
-* [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) - JiříLebl
+* [Notes on Diffy Qs: Differential Equations for Engineers](http://www.jirka.org/diffyqs/) -  Jiri Lebl
 
 ### Partial Differential Equations
 
@@ -405,7 +417,7 @@ Shlomo Sternberg
 
 ## Signal processing
 
-* [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) -  Sophocles J. Orfanidis（罗格斯大学）
+* [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
 * [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) -  Martin Vetterli，Jelena Kovacevic，Vivek K Goyal
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) -  Robert M. Gray，Lee D. Davisson
 * [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - ØyvindRyan（奥斯陆大学）

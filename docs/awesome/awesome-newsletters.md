@@ -126,7 +126,7 @@
 ### C
 
 - [C# Digest](https://csharpdigest.net/). A weekly newsletter featuring only the top 5 links for C# and .NET developers. [Archive](https://csharpdigest.net/digests).
-- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter). A collection of awesome .Net libraries, tools & frameworks.
+- [Awesome .Net Newsletter](https://dotnet.libhunt.com/newsletter) .  一系列令人敬畏的.Net库，工具和框架.
 
 ### Node.js
 
@@ -171,6 +171,7 @@
 - [murze.be newsletter](https://murze.be/newsletter/) .  关于现代PHP和Laravel的双周简报.
 - [Laravel Daily](https://laraveldaily.com/weekly-laravel-newsletter/) 来自Laravel社区的每周提示和技巧.
 - [La semana PHP](https://www.lasemanaphp.com/) .  每周收集西班牙语关于PHP及其生态系统的新闻，教程和信息：Laravel，Symfony，WordPress，Drupal，......由JesúsAmieiro手动选择.
+- [Bootsity Newsletter](https://bootsity.com/) .  免费的一周两周的时事通讯，精选文章，视频和新闻.
 
 ### Python
 
@@ -376,7 +377,7 @@
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
 - [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
-- [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
+- [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
 - [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 - [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 - [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.

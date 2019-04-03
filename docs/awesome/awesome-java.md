@@ -123,7 +123,7 @@
 *提供外部配置的库.*
 
 - [centraldogma](https://github.com/line/centraldogma) - 基于Git，ZooKeeper和HTTP / 2的高度可用的版本控制服务配置存储库.
-- [cfg4j](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
+- [cfg4j](https://github.com/cfg4j/cfg4j) - 用Java编写的分布式应用程序的现代配置库.
 - [config](https://github.com/typesafehub/config) -  JVM语言的配置库.
 - [dotenv](https://github.com/shyiko/dotenv) - 用于Java的十二因素配置库.
 - [ini4j](http://ini4j.sourceforge.net) - 提供用于处理Windows&#39;INI文件的API.
@@ -345,7 +345,7 @@
 *关于高性能计算的一切，从集合到特定的库.*
 
 - [Agrona](https://github.com/real-logic/Agrona) - 高性能应用程序中常见的数据结构和实用程序方法.
-- [Disruptor](https://lmax-exchange.github.io/disruptor) - 线程间消息库.
+- [Disruptor](https://lmax-exchange.github.io/disruptor) - Inter-thread messaging library.
 - [Eclipse Collections](https://github.com/eclipse/eclipse-collections) - 受Smalltalk启发的收藏框架.
 - [fastutil](http://fastutil.di.unimi.it) - 快速和紧凑的特定类型集合.
 - [HPPC](https://labs.carrotsearch.com/hppc.html) - 原始收藏品.
@@ -358,7 +358,7 @@
 
 - [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) - 异步HTTP和WebSocket客户端库.
 - [Feign](https://github.com/Netflix/feign) - 受Retrofit，JAXRS-2.0和WebSocket启发的HTTP客户端绑定器.
-- [OkHttp](https://square.github.io/okhttp) - HTTP+SPDY client.
+- [OkHttp](https://square.github.io/okhttp) -  HTTP + SPDY客户端.
 - [Play WS](https://github.com/playframework/play-ws) - 具有反应流和缓存的Typesafe客户端.
 - [restQL-core](https://github.com/B2W-BIT/restQL-core) - 从多个服务获取信息的微服务查询语言.
 - [Retrofit](https://square.github.io/retrofit) -  Typesafe REST客户端.
@@ -715,7 +715,7 @@
 *帮助管理操作系统进程的库.*
 
 - [ch.vorburger.exec](https://github.com/vorburger/ch.vorburger.exec) - 围绕Apache Commons Exec的便捷API.
-- [zt-exec](https://github.com/zeroturnaround/zt-exec) - 为Apache Commons Exec和ProcessBuilder提供统一的API.
+- [zt-exec](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
 - [zt-process-killer](https://github.com/zeroturnaround/zt-process-killer) - 通过PID停止从Java或系统进程启动的进程.
 
 ### Reactive libraries
@@ -737,7 +737,7 @@
 - [javalin](https://javalin.io) -  Javalin在Jetty上只有几千行代码，这意味着它的性能几乎相当于纯Jetty.
 - [Jersey](https://jersey.github.io) -  JAX-RS参考实现.
 - [Microserver](https://github.com/aol/micro-server)   - 一个方便，可扩展的微服务插件系统，用于Spring和Spring Boot.  它拥有超过30个插件并且不断增长，它支持微型单块和纯微型服务.
-- [Rapidoid](https://www.rapidoid.org) - A simple, secure and extremely fast framework consisting of an embedded HTTP server, GUI components and dependency injection.
+- [Rapidoid](https://www.rapidoid.org) - 一个简单，安全且极其快速的框架，由嵌入式HTTP服务器，GUI组件和依赖注入组成.
 - [rest.li](https://github.com/linkedin/rest.li) - 使用类型安全绑定和异步，非阻塞IO构建强大，可扩展的RESTful架构的框架，其中包含端到端开发人员工作流程，可促进清洁实践，统一界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -  JAX-RS规范的完全认证和可移植实现.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -  JBoss Netty HTTP堆栈上的瘦包装器，提供扩展和性能.
@@ -824,6 +824,7 @@
 - [Jtwig](http://jtwig.org) - 模块化，可配置且经过全面测试的模板引擎.
 - [Pebble](http://www.mitchellbosecke.com/pebble/home)   - 受Twig的启发，并以其继承功能和易于阅读的语法分离.  它附带内置自动安全功能，用于安全性，并包含对国际化的集成支持.
 - [Thymeleaf](http://www.thymeleaf.org) - 旨在成为JSP的替代品并适用于XML文件.
+- [Rocker](https://github.com/fizzed/rocker) - 优化，内存效率和快速模板引擎，生成静态类型的普通对象.
 
 ### Testing
 
@@ -934,7 +935,7 @@
 
 - [jabba](https://github.com/shyiko/jabba)   - 受nvm启发的Java Version Manager.  支持Mac OS X，Linux和Windows.
 - [jenv](https://github.com/gcuisinier/jenv)   - 受rbenv启发的Java Version Manager.  可以全局配置还是按项目配置.  在Debian和Mac OS X上测试过.
-- [SDKMan](https://github.com/sdkman/sdkman-cli)   - 受RVM和rbenv启发的Java Version Manager.  支持基于UNIX的平台和Windows.
+- [SDKMan](https://github.com/sdkman/sdkman-cli) - Java Version Manager inspired by RVM and rbenv. Supports UNIX-based platforms and Windows.
 
 ### Web Crawling
 
@@ -978,6 +979,7 @@
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [Useful Java Links](https://github.com/Vedenin/useful-java-links)
+- [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency)
 
 ### Communities
 

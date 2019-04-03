@@ -142,6 +142,7 @@ drm/kms.
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) - 使用Magma库编写的简单图形样本的集合.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON) ，  [MIT]
 *  [RadX](https://github.com/world8th/RadX) -  GPU上基数排序的专用示例（特别是在NVIDIA RTX上）.
+*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) - 使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的“一周末雷追踪”一书.
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid)   - 高速C ++ 17 Vulkan游戏引擎.  [MIT]

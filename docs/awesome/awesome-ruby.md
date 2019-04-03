@@ -180,7 +180,7 @@
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - 功能强大，用户友好且灵活的开源Rails CMS.
 * [ComfortableMexicanSofa](https://github.com/comfy/comfortable-mexican-sofa) - 强大的Rails 5.2+ CMS引擎.
-* [Fae](https://github.com/wearefine/fae) - Flexible, open source, Rails CMS engine.
+* [Fae](https://github.com/wearefine/fae) - 灵活的开源Rails CMS引擎.
 * [LocomotiveCMS](https://www.locomotivecms.com) - 基于Liquid模板和Mongodb数据库的简单但功能强大的CMS.
 * [Publify](https://github.com/publify/publify) -  Rails上的自托管Web发布平台.
 * [Spina CMS](https://www.spinacms.com) - 适用于Rails开发人员的漂亮CMS.
@@ -354,6 +354,7 @@
 * [Byebug](https://github.com/deivid-rodriguez/byebug) - 一个简单易用，功能丰富的Ruby 2调试器.
 * [did_you_mean](https://github.com/yuki24/did_you_mean) - 向错误消息添加类，方法和属性建议.
 * [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug) - 通过byebug撬导航命令.
+* [pry-rails](https://github.com/rweng/pry-rails)   - 避免重复自己，使用pry-rails而不是将初始化程序复制到每个rails项目.  这是一个小宝石，导致rails控制台打开撬.  因此，它取决于撬.
 * [Rails Footnotes](https://github.com/josevalim/rails-footnotes) -  Rails脚注在您的应用程序中显示脚注，以便于调试，例如会话，请求参数，cookie，过滤器链，路由，查询等.
 * [Seeing Is Believing](https://github.com/JoshCheek/seeing_is_believing) - 显示文件中每行代码的结果.
 * [Xray](https://github.com/brentd/xray-rails) - 一个显示UI骨骼的开发工具.
@@ -662,7 +663,7 @@
 
 * [dryrun](https://github.com/cesarferreira/dryrun) - 直接从命令行尝试智能手机上的任何Android库.
 * [fastlane](https://github.com/fastlane/fastlane) - 将所有iOS部署工具连接到一个简化的工作流程中.
-* [Ruboto](https://github.com/ruboto/ruboto) - 使用Ruby语言和库为Android开发完整的独立应用程序的平台.
+* [Ruboto](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - 革命性的工具链，可让您快速开发和测试适用于iPhone，iPad，Mac和Android的完整原生iOS和OS X应用程序.
 * [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) -  iOS，Android和Windows Phone推送通知变得简单.
 * [Rpush](https://github.com/rpush/rpush) -  Ruby推送通知服务，支持Apple推送通知服务，Google云消息传递，亚马逊设备消息传递和Windows Phone推送通知服务.

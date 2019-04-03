@@ -49,11 +49,12 @@
 - [GitUp](http://gitup.co/)   - 一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
-- [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
+- [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
+- [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的断开链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
+- [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
 - [Paw](https://luckymarmot.com/paw) - 最终的REST客户端.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater)   - 一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) - 一个现代的PostgreSQL客户端.
@@ -125,7 +126,7 @@
 - [Image2icon](http://www.img2icnsapp.com)   - 从图片中创建和个性化图标.  ！[免费软件] [免费软件图标]
 - [macSVG](https://macsvg.org/)   - 为Web，移动和动画设计和编辑SVG内容.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 用于创建精确，美观图形的应用程序.
-- [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能的Photoshop替代品.
+- [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用程序，尤其适用于UI，Web和移动设计.
 - [Sketch Toolbox](http://sketchtoolbox.com/)   -  Sketch的超级简单插件管理器.  [！[开源软件] [OSS图标]]（https://github.com/buzzfeed/Sketch-Toolbox）
 - [xScope](http://xscopeapp.com/) - 用于测量，检查和测试屏幕图形和布局的工具.
@@ -168,7 +169,7 @@
 - [Simplenote](https://simplenote.com/)   - 基于云的同步的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
 - [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
 - [Telephone](http://www.64characters.com/telephone/)   -  SIP软电话.  通过Internet或公司网络拨打电话.  [！[开源软件] [OSS图标]]（https://github.com/eofster/Telephone）！[免费软件] [免费软件图标]
-- [TextExpander](https://smilesoftware.com/textexpander) - 为常用文本和图片创建自定义键盘快捷键.
+- [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Timing](https://timingapp.com/)   -  Mac的自动时间和生产力跟踪.  帮助您保持正常工作，并确保如果您按小时计费，则不会丢失计费时间.
 
 
@@ -351,7 +352,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 * [MIDAS](https://github.com/etsy/MIDAS)   - 入侵检测分析系统.  [！[开源软件] [OSS图标]]（https://github.com/etsy/MIDAS）
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [！[开源软件] [OSS图标]]（https://github.com/drduh/OS-X-Security-and-Privacy-Guide）
 * [OSXCollector](https://github.com/Yelp/osxcollector)   - 法医证据收集和分析工具包.  [！[开源软件] [OSS图标]]（https://github.com/Yelp/osxcollector）！[免费软件] [免费软件图标]
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
+* [santa](https://github.com/google/santa)   - 二进制白名单/黑名单系统.  [！[开源软件] [OSS图标]]（https://github.com/google/santa）！[免费软件] [免费软件图标]
 * [Shimo](https://www.shimovpn.com) - 适用于Mac的全功能VPN客户端.
 * [SimpleumSafe](https://simpleum.com/) - 使用macOS或iOS加密，组织和同步文件.
 * [tinc](https://www.tinc-vpn.org)   - 安全网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
