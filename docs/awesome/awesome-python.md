@@ -1090,7 +1090,7 @@
 *完整的堆栈Web框架.*
 
 * [Django](https://www.djangoproject.com/) -  Python中最流行的Web框架.
-    * [awesome-django](https://github.com/wsvincent/awesome-django)
+    * [awesome-django](https://github.com/shahraizali/awesome-django)
 * [Flask](http://flask.pocoo.org/) -  Python的微框架.
     * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 * [Pyramid](https://pylonsproject.org/) - 一个小巧，快速，脚踏实地的开源Python Web框架.

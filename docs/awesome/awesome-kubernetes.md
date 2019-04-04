@@ -256,6 +256,7 @@ Installers
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](http://stackpoint.io/)
   - [Hasura](https://hasura.io/)
+  - [ELASTX](https://www.elastx.se/)
 
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
@@ -783,7 +784,7 @@ Projects
 * [Kurma](https://github.com/apcera/kurma)
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
-* [Talos](https://github.com/autonomy/talos)
+* [Talos](https://github.com/talos-systems/talos)
 
 ## YAML/JSON Config
 

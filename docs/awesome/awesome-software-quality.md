@@ -51,11 +51,11 @@
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) （PDF）
-* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) （PDF） -  Ajay Balamurugadas
-* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) （PDF） -  Ajay Balamurugadas
-* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) （PDF） -  Ajay Balamurugadas
-* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) （PDF） -  Ajay Balamurugadas
-* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) （PDF） -  Ajay Balamurugadas
+* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) （PDF） - 阿贾伊Balamurugadas
+* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) （PDF） - 阿贾伊Balamurugadas
+* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) （PDF） - 阿贾伊Balamurugadas
+* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) （PDF） - 阿贾伊Balamurugadas
+* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) （PDF） - 阿贾伊Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) -  Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -  Jason Polites
@@ -72,6 +72,9 @@
 * [Everything You Need to Know About Software Test Formats](https://dou.ua/lenta/articles/software-test-formats/) （俄文）
 * [Software Testing Standards in NASA](http://www.system-safety.org/Documents/NASA-GB-8719.13.pdf)
 * [ECSS-Q-ST-80C Rev.1 – Software product assurance](http://ecss.nl/standard/ecss-q-st-80c-rev-1-software-product-assurance-15-february-2017/)
+* [СИСТЕМНАЯ И ПРОГРАММНАЯ ИНЖЕНЕРИЯ: ГОСТ Р 56922—2016/ISO/IEC/IEEE 29119- 3:2013](https://pdf.standartgost.ru/catalog/Data2/1/4293754/4293754866.pdf)
+* DO-278
+* [DO-178B](https://en.wikipedia.org/wiki/DO-178B)
 
 #### Testing of Free and OpenSource Software
 

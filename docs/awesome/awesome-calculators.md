@@ -25,9 +25,9 @@
 - [Droid48 (src)](https://github.com/shagr4th/droid48/tree/master/app/src/main), [Droid48 (app)](https://play.google.com/store/apps/details?id=org.ab.x48) -  x48的Android端口，令人敬畏的HP48GX / SX仿真器
 
 ### Windows
+- [Windows Calculator](https://github.com/Microsoft/calculator) -  Windows附带的简单而强大的计算器
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - 具有许多功能的高级科学计算器.
 - [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - 适用于Windows的无界面计算器，可让您在不必离开正在键入的行的情况下进行基本数学运算.
-- [Windows 10 Calculator by Microsoft](https://www.microsoft.com/en-us/store/p/windows-calculator/9wzdncrfhvn5) - 适用于Windows 10的官方Microsoft计算器.
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - 在Windows 10中使用旧的Windows 7/8计算器的机会.
 - [GraphCal](http://www.graphcalc.com/) - 具有独特功能的专业计算器.
 

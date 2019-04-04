@@ -145,7 +145,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) -  Tarantool司机
 
 ## Database Tools
- * [crecto-admin](https://github.com/Crecto/crecto-admin) -  Crecto和您的数据库的管理仪表板
  * [micrate](https://github.com/juanedi/micrate) - 数据库迁移工具
  * [migrate](https://github.com/vladfaust/migrate.cr) - 具有事务的更简单的数据库迁移工具
  * [migro](https://github.com/aisrael/migro) - 数据库迁移工具，允许在YAML或原始SQL中指定迁移
@@ -234,15 +233,15 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [libui.cr](https://github.com/Fusion/libui.cr) - 绑定 [libui](https://github.com/andlabs/libui)
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - 基于Bindgen的Crystal的Qt5绑定
 
+## HTML Builders
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -  Crystal的死简单HTML表单构建器，内置支持许多流行的UI库，如Bootstrap
+ * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
+
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - 像Html读者/解析器 [Nokogiri](https://github.com/sparklemotion/nokogiri) 红宝石宝石
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - 绑定 [Gumbo](https://github.com/google/gumbo-parser)，一个由Google制作的HTML5解析库
  * [hq.cr](https://github.com/maiha/hq.cr) -  crystal-xml的简单包装
  * [myhtml](https://github.com/kostya/myhtml) - 包含CSS选择器的快速HTML5分析器
-
-## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -  Crystal的死简单HTML表单构建器，内置支持许多流行的UI库，如Bootstrap
- * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
 
 ## HTTP
  * [cossack](https://github.com/crystal-community/cossack) - 简单灵活的HTTP客户端
@@ -346,7 +345,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) -  ORM专门针对PostgreSQL，但具有高级功能
- * [crecto](https://github.com/Crecto/crecto) - 数据库包装器，基于Ecto
  * [granite](https://github.com/amberframework/granite) -  Postgres，Mysql，Sqlite的ORM
  * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询可链接构建器和迁移系统实现Active Record模式
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -  Redis的Object-hash映射库

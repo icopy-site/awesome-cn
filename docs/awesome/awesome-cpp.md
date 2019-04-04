@@ -137,7 +137,7 @@
 * [PhysicsFS](https://icculus.org/physfs/)   - 提供各种档案的抽象访问的库.  它适用于视频游戏，设计受到Quake 3文件子系统的启发.  [ZLIB]
 * [KArchive](https://quickgit.kde.org/?p=karchive.git)   - 用于创建，读取，编写和操作zip和tar等文件存档的库.  它还通过QIODevice的子类，使用gzip等格式提供数据的透明压缩和解压缩.  [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive)   - 多格式存档和压缩库.  [新BSD] [website](http://www.libarchive.org/)
-* [LZ4](https://github.com/Cyan4973/lz4)   - 极快的压缩算法.  [BSD]
+* [LZ4](https://github.com/lz4/lz4)   - 极快的压缩算法.  [BSD] [website](http://www.lz4.org/)
 * [LZFSE](https://github.com/lzfse/lzfse)   -  LZFSE压缩库和命令行工具.  由Apple开发.
 * [LZHAM](https://code.google.com/p/lzham/)   - 无损数据压缩库，压缩比类似于LZMA，但解压缩速度更快.  [BSD]
 * [LZMA](http://www.7-zip.org/sdk.html)  ：zap： -  7z格式的默认和一般压缩方法.  [公共区域]

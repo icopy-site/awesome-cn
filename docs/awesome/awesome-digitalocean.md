@@ -35,6 +35,7 @@
 - [OAuth](https://developers.digitalocean.com/documentation/oauth/)
 - [Droplet Metadata](https://developers.digitalocean.com/documentation/metadata/)
 - [Official DO Release Notes](https://www.digitalocean.com/docs/release-notes/) -  Notes跟踪DigitalOcean云平台的增量改进和主要版本.
+- [DigitalOcean API Slugs](https://slugs.do-api.dev/)
 
 ## Open source projects
 
