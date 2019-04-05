@@ -62,17 +62,17 @@
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function)   - “undefined不是函数”？  - 就是现在！
 - [is-thirteen](https://github.com/jezen/is-thirteen) - 检查数字是否等于13.
 - [Pettier](https://github.com/coleturner/pettier) - 更漂亮的配置随机化选项，并在空格和制表符之间任意切换 
-- [not-paid.js](https://github.com/kleampa/not-paid) - Add opacity to the body tag and increase it every day until their site completely fades away. 💸
+- [not-paid.js](https://github.com/kleampa/not-paid) - 为body标签添加不透明度并每天增加它，直到它们的网站完全消失. 
 
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
 
 
 ## Python
 
-- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
+- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) -  Python对臭名昭着的npm问题的解决方案.
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - 这是一个喜欢你女朋友在Instagram上的帖子的自动机器人.
 
@@ -136,6 +136,7 @@
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode)   - 编写安全可靠应用程序的最佳方式.  什么都不写;  无处部署.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) - 大众汽车检测您的测试何时在CI服务器中运行，并使它们通过.
+- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza提供商的Terraform插件.
 
 
 

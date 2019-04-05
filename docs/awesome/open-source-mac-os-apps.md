@@ -14,7 +14,7 @@
  你好朋友！  帮帮我几个：啤酒：！<img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
- macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) 在列表中，欢迎任何建议！
+ macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
 
  您可以看到应用程序的编写语言.  目前有以下语言：
 
@@ -46,9 +46,9 @@
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)   - 背景音乐，macOS音频实用程序：自动暂停音乐，设置单个应用程序的音量和录制系统音频.  ！[cpp_icon] 
 - [CAM](https://github.com/hanayik/CAM) - 使用ffmpeg进行macOS摄像头录制！[javascript_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio)   -  LocalRadio是用于在Mac和移动设备上收听“软件定义无线电”的软件.  ！[objective_c_icon] 
-- [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
+- [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
-- [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
+- [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS.  ![cpp_icon] 
 - [Muse](https://github.com/xzzz9097/Muse)   - 使用TouchBar支持Spotify控制器.  ！[swift_icon] 
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一款基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.  ![objective_c_icon] 
@@ -189,6 +189,7 @@
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)   - 用于测试iOS和Android上的推送通知的macOS应用程序.  ！[javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool)   - 这是一个macOS应用程序，可以（重新）签署应用程序并将它们捆绑到可以安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
 - [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
+- [Simulator](https://github.com/onmyway133/Simulator)   - 快速导航到您的应用程序文件夹.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)   -  iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
@@ -358,7 +359,7 @@
 - [Gas Mask](https://github.com/2ndalpha/gasmask)   - 主机macOS文件管理器.  ！[objective_c_icon] 
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   -  / etc / hosts的Cocoa GUI.  ！[objective_c_icon] 
 - [ImageOptim](https://github.com/ImageOptim/ImageOptim)   - 适用于Mac的GUI图像优化器.  ！[objective_c_icon] 
-- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer) - Simple macOS app to preview animations created with Facebook's keyframes framework.  ![swift_icon] 
+- [Keyframes Player](https://github.com/insidegui/KeyframesPlayer)   - 简单的macOS应用程序，用于预览使用Facebook的关键帧框架创建的动画.  ！[swift_icon] 
 - [Lepton](https://github.com/hackjutsu/Lepton)   - 民主化代码片段管理（macOS / Win / Linux）.  ！[javascript_icon] 
 - [Letters](https://github.com/klaaspieter/letters)   - 教你的孩子字母表和如何打字.  ！[swift_icon] 
 - [Platypus](https://github.com/sveinbjornt/Platypus)   -  Mac开发人员工具，可从命令行脚本创建应用程序包.  ！[objective_c_icon] 
@@ -393,7 +394,7 @@
 - [Maccy](https://github.com/p0deje/Maccy)   - 轻量级搜索即用型剪贴板管理器.  ！[swift_icon] 
 - [Manta](https://github.com/hql287/Manta)   - 灵活的发票桌面应用程序，具有漂亮和可自定义的模板.  ！[javascript_icon] 
 - [PDF Archiver](https://github.com/PDF-Archiver/PDF-Archiver)   - 用于标记和归档任务的好工具.  ！[swift_icon] 
-- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop) - Desktop app that uses the paperless API to manage your document scans.  ![javascript_icon] 
+- [Paperless Desktop](https://github.com/thomasbrueggemann/paperless-desktop)   - 使用无纸化API管理文档扫描的桌面应用程序.  ！[javascript_icon] 
 - [Quicksilver](https://github.com/quicksilver/Quicksilver)   -  Quicksilver是一款快速的macOS生产力应用程序，可让您快速，优雅地控制Mac.  ！[objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords)   - 在几秒钟内写出任何东西.  创建可以替换文本，执行繁琐任务等的代码段.  ！[javascript_icon]！[javascript_icon]！[css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol)   -  macOS应用程序阻止您自己访问分散注意力的网站等一段预定的时间.  它无法通过应用程序或重新启动来撤消 - 您必须等待计时器用完.  ！[objective_c_icon] 
@@ -449,7 +450,7 @@
 - [DisableMonitor](https://github.com/Eun/DisableMonitor)   - 在Mac上轻松禁用或启用显示器.  ！[objective_c_icon] 
 - [EtreCheck](https://github.com/etresoft/EtreCheck)   -  EtreCheck是一款易于使用的macOS应用程序，用于显示系统配置的重要细节，并允许您将该信息复制到剪贴板.  ！[objective_c_icon] 
 - [Fanny](https://github.com/DanielStormApps/Fanny)   - 从通知中心监控Mac的风扇速度和CPU温度.  ！[objective_c_icon] 
-- [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS.  ![cpp_icon] 
+- [HoRNDIS](https://github.com/jwise/HoRNDIS)   - 适用于macOS的Android USB网络共享驱动程序.  ！[cpp_icon] 
 - [Juice](https://github.com/brianmichel/Juice)   - 让您的电池信息更有趣.  ！[swift_icon] 
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)   - 防止Mac进入睡眠状态.  ！[objective_c_icon] 
 - [Latest](https://github.com/mangerlahn/Latest)   - 适用于macOS的小型实用程序应用程序，可确保您了解所使用应用程序的所有最新更新.  ！[swift_icon] 
@@ -507,6 +508,12 @@
 - [Übersicht](https://github.com/felixhageloh/uebersicht)   - 密切关注您的机器和世界上发生的事情.  ！[objective_c_icon] 
 
 ### VPN & Proxy
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)   - 下一代ShadowsocksX.  ！[swift_icon] 
+- [Specht](https://github.com/zhuhaow/Specht)   - 使用Network Extension for macOS构建的基于规则的代理应用程序.  ！[swift_icon] 
+- [SpechtLite](https://github.com/zhuhaow/SpechtLite)   -  macOS的基于规则的代理应用程序.  ！[swift_icon] 
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.  ![objective_c_icon] 
+- [clashX](https://github.com/yichengchen/clashX)   - 基于冲突的基于规则的自定义代理与GUI for Mac.  ！[swift_icon] 
+- [rvc-mac](https://github.com/riboseinc/cryptode-mac)   -  Ribose VPN客户端macOS菜单应用程序.  ！[swift_icon] 
 
 ### Video
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX)   - 用于macOS的Acid Cam v2扭曲视频以创造艺术.  ！[cpp_icon] 

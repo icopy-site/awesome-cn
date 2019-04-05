@@ -301,6 +301,7 @@
 * [Panda3D](https://github.com/panda3d/panda3d)   - 游戏引擎，用于Python和C ++程序的3D渲染和游戏开发的框架.  [改良BSD] [website](https://www.panda3d.org/)
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)   -  olcPixelGameEngine的官方发行版，这是javidx9的YouTube视频和项目中使用的工具.  [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode)   -  C ++中创造性代码的跨平台框架（使用Lua绑定）.  [MIT] [website](http://polycode.org/)
+* [raylib](https://github.com/raysan5/raylib)   - 一个简单易用的图书馆，享受视频游戏编程.  [ZLIB /的libpng] [website](http://www.raylib.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)   - 为2D游戏开发而构建的开源和跨平台C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)   - 为3D游戏开发而构建的开源C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-3d)
 * [toy engine](https://toyengine.io/) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.

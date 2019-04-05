@@ -34,7 +34,7 @@
 * [minimp3](https://github.com/tosone/minimp3) - 轻量级MP3解码器库.
 * [mix](https://github.com/go-mix/mix) - 用于音乐应用程序的基于序列的Go-native音频混音器.
 * [mp3](https://github.com/tcolgate/mp3) -  Native Go MP3解码器.
-* [music-theory](https://github.com/go-music-theory/music-theory) -  Go中的音乐理论模型.
+* [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
 * [Oto](https://github.com/hajimehoshi/oto) - 在多个平台上播放声音的低级库.
 * [PortAudio](https://github.com/gordonklaus/portaudio) - 转到PortAudio音频I / O库的绑定.
 * [portmidi](https://github.com/rakyll/portmidi) - 为PortMidi绑定绑定.
@@ -167,6 +167,7 @@
 
 *用于配置解析的库.*
 
+* [config](https://github.com/JeremyLoy/config)   - 云原生应用程序配置.  将ENV绑定到只有两行的结构.
 * [config](https://github.com/olebedev/config) - 带有环境变量和标志解析的JSON或YAML配置包装器.
 * [configure](https://github.com/paked/configure) - 通过多个源提供配置，包括JSON，标志和环境变量.
 * [confita](https://github.com/heetch/confita) - 从多个后端级联加载到结构中的配置.
@@ -281,7 +282,7 @@
 * [GCache](https://github.com/bluele/gcache) - 缓存库，支持可过期的Cache，LFU，LRU和ARC.
 * [go-cache](https://github.com/pmylund/go-cache) - 内存中密钥：Go的值存储/缓存（类似于Memcached）库，适用于单机应用程序.
 * [goleveldb](https://github.com/syndtr/goleveldb) - 实施 [LevelDB](https://github.com/google/leveldb) Go中的键/值数据库.
-* [gorocksdb](https://github.com/kapitan-k/gorocksdb) -  Gorocksdb是一个包装 [RocksDB](https://rocksdb.org) 写在Go.
+* [gorocksdb](https://github.com/kapitan-k/gorocksdb) -  Gorocksdb是一个包装 [RocksDB](https://rocksdb.org) 写vehicle.
 * [groupcache](https://github.com/golang/groupcache) -  Groupcache是​​一个缓存和缓存填充库，在许多情况下用作memcached的替代品.
 * [influxdb](https://github.com/influxdb/influxdb) - 用于指标，事件和实时分析的可扩展数据存储.
 * [ledisdb](https://github.com/siddontang/ledisdb) -  Ledisdb是一款基于LevelDB的高性能NoSQL，如Redis.
@@ -568,7 +569,7 @@
 
 ## Game Development
 
-*Awesome game development libraries.*
+*令人敬畏的游戏开发库.*
 
 * [Azul3D](https://github.com/azul3d/engine) - 用Go编写的3D游戏引擎.
 * [Ebiten](https://github.com/hajimehoshi/ebiten) -  Go中死的简单2D游戏库.
@@ -1143,7 +1144,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 ## Query Language
 
 * [gojsonq](https://github.com/thedevsaddam/gojsonq) - 一个简单的Go包来查询JSON数据.
-* [graphql](https://github.com/tmc/graphql) - graphql parser + utilities.
+* [graphql](https://github.com/tmc/graphql) -  graphql解析器+实用程序.
 * [graphql](https://github.com/neelance/graphql-go) -  GraphQL服务器，重点是易用性.
 * [graphql-go](https://github.com/graphql-go/graphql) -  Go的GraphQL实现.
 * [jsonql](https://github.com/elgs/jsonql) - 在Golang JSON查询表达式库.
@@ -1952,7 +1953,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - 转到HTTP请求路由器基准和比较.
 * [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - 去Web框架基准.
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) -  Go序列化方法的基准.
-* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) -  Go语言常见基本操作的基准.
+* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) - Benchmarks of common basic operations for the Go language.
 * [golang-micro-benchmarks](https://github.com/amscanne/golang-micro-benchmarks)   - 微型基准测试的微小集合.  目的是将一些语言特征与其他语言特征进行比较.
 * [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) - 收集流行的Go数据库/ SQL实用程序的基准.
 * [gospeed](https://github.com/feyeleanor/GoSpeed) - 使用微基准来计算语言结构的速度.

@@ -119,7 +119,7 @@
 * [Roslynator](https://github.com/JosefPihrt/Roslynator/) - A collection of 190+ analyzers and 190+ refactorings for C#, powered by Roslyn.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [SonarLint for Visual Studio](https://vs.sonarlint.org/) -  SonarLint是Visual Studio 2015和2017的扩展，它为开发人员提供了有关注入.NET代码的新错误和质量问题的即时反馈.
-* [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - A collection of static analyzers based on Roslyn that integrates with VS.
+* [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - 基于Roslyn的静态分析器集合，与VS集成.
 * [Wintellect.Analyzers](https://github.com/Wintellect/Wintellect.Analyzers) -  .NET编译器平台（“Roslyn”）诊断分析器和代码修复程序.
 
 ## Crystal
@@ -186,7 +186,7 @@
 * [structcheck](https://github.com/opennota/check) - 查找未使用的结构字段.
 * [test](http://golang.org/pkg/testing/) - 从stdlib测试模块显示测试失败的位置.
 * [testify](https://github.com/stretchr/testify) - 显示失败的证词断言的位置.
-* [unconvert](https://github.com/mdempsky/unconvert) - 检测冗余类型转换.
+* [unconvert](https://github.com/mdempsky/unconvert) - Detect redundant type conversions.
 * [unimport](https://github.com/alexkohler/unimport) - 查找不必要的导入别名
 * [unparam](https://github.com/mvdan/unparam) - 查找未使用的功能参数.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - 查找未使用的变量.
@@ -294,7 +294,7 @@
 * [php7mar](https://github.com/Alexia/php7mar) - 帮助开发人员快速将代码移植到PHP 7
 * [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 检测违反一组定义的编码标准
 * [phpca](https://github.com/wapmorgan/PhpCodeAnalyzer) - 查找非内置扩展的使用情况
-* [phpcf](http://wapmorgan.github.io/PhpCodeFixer/) - Finds usage of deprecated PHP features
+* [phpcf](http://wapmorgan.github.io/PhpCodeFixer/) - 查找已弃用的PHP功能的使用
 * [phpcpd](https://github.com/sebastianbergmann/phpcpd) -  PHP代码的复制/粘贴检测器.
 * [phpdcd](https://github.com/sebastianbergmann/phpdcd) - 用于PHP代码的死代码检测器（DCD）.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 为项目构建依赖图
@@ -356,7 +356,7 @@
 
 ## RPG
 
-* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) ：copyright： -  RPG III和RPG IV版本的静态代码分析（包括自由格式）
+* [SourceMeter](https://www.sourcemeter.com/resources/rpg/) :copyright: - Static Code Analysis for RPG III and RPG IV versions (including free-form)
 
 ## Ruby
 
@@ -420,7 +420,7 @@
 ## TypeScript
 
 * [Codelyzer](https://github.com/mgechev/codelyzer) - 一组用于Angular 2 TypeScript项目的静态代码分析的tslint规则.
-* [TSLint](https://github.com/palantir/tslint) -  TypeScript语言的可扩展linter.
+* [TSLint](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
 * [tslint-clean-code](https://github.com/Glavin001/tslint-clean-code) - 一套受Clean Code手册启发的TSLint规则.
 * [tslint-microsoft-contrib](https://github.com/Microsoft/tslint-microsoft-contrib) - 一组用于Microsoft维护的TypeScript项目的静态代码分析的tslint规则.
 
@@ -431,7 +431,7 @@
 ## Multiple languages
 
 * [AppChecker](https://npo-echelon.ru/en/solutions/appchecker.php) :copyright: - Static analysis for C/C++/C#, PHP and Java
-* [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/) :copyright: - Combined SAST, DAST, IAST security scanner for C#, PHP, Java, SQL languages
+* [Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/) :copyright: - Commercial Static Code Analysis which generates exploits to verify vulnerabilities. Supports: Java (including JSP and JSF), C#, VB.Net, ASP.NET, Php, JavaScript, Objective-C, Swift, C\C++, SQL (PL/SQL. T-SQL. MySQL), HTML5
 * [AppScan](https://www.ibm.com/support/knowledgecenter/en/SSS9LM_9.0.3/com.ibm.rational.appscansrc.install.doc/topics/system_requirements_language_support.html) :copyright: - Commercial Static Code Analysis. Supports: Microsoft .NET Framework (C#, ASP.NET, VB.NET), ASP (JavaScript/VBScript), C/C++, COBOL, ColdFusion, JavaScript, JavaServer Pages (JSP), Java™ (including support for Android APIs), Perl, PHP, PL/SQL, T-SQL, Visual Basic 6
 * [APPscreener](https://appscreener.us) :copyright: - Static code analysis for binary and source code - Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity
 * [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95
@@ -522,7 +522,7 @@
 * [CSScomb](https://github.com/csscomb/csscomb.js)   -  CSS的编码风格格式化程序.  支持自己的配置，使样式表美观且一致
 * [CSSLint](https://github.com/CSSLint/csslint) - 进行基本语法检查并发现有问题的模式或效率低下的迹象
 * [GraphMyCSS.com](https://graphmycss.com) -  CSS特异性图生成器
-* [Parker](https://github.com/katiefenn/parker) - Stylesheet analysis tool
+* [Parker](https://github.com/katiefenn/parker) - 样式表分析工具
 * [Project Wallace CSS Analyzer](https://github.com/projectwallace/css-analyzer) -  CSS的分析，部分 [Project Wallace](https://www.projectwallace.com)
 * [sass-lint](https://github.com/sasstools/sass-lint) - 用于sass和scss语法的仅限节点的Sass linter.
 * [scsslint](https://github.com/brigade/scss-lint) -  SCSS文件的Linter
@@ -584,7 +584,7 @@
 ## Template-Languages
 
 * [ember-template-lint](https://github.com/rwjblue/ember-template-lint) - 用于Ember或Handlebars模板的Linter.
-* [haml-lint](https://github.com/brigade/haml-lint) - Tool for writing clean and consistent HAML
+* [haml-lint](https://github.com/brigade/haml-lint) - 用于编写干净且一致的HAML的工具
 * [slim-lint](https://github.com/sds/slim-lint) - 用于分析Slim模板的可配置工具
 * [yamllint](https://github.com/adrienverge/yamllint) - 检查YAML文件的语法有效性，密钥重复和整容问题，如行长度，尾随空格和缩进.
 

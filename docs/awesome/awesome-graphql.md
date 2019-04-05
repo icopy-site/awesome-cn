@@ -76,7 +76,7 @@
 * [Grafoo](https://github.com/grafoojs/grafoo) - 一个小型但完全成熟的基于缓存的GraphQL客户端
 
 #### HTTP Server Bindings
-* [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
+* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
@@ -243,7 +243,7 @@
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) -  GraphQL Elixir的插件集成.
 * [graphql_relay](https://github.com/graphql-elixir/graphql_relay) -  GraphQL Elixir的中继助手.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) -  Elixir绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
-* [graphql](https://github.com/asonge/graphql) -  Elixir GraphQL解析器.
+* [graphql](https://github.com/asonge/graphql) - Elixir GraphQL parser.
 * [plot](https://github.com/peburrows/plot) -  Elixir的GraphQL解析器和解析器.
 
 <a name="lib-haskell" />
@@ -309,8 +309,15 @@
 
 ### ClojureScript Libraries
 
-* [re-graph](https://github.com/oliyh/re-graph) - A GraphQL client for ClojureScript with bindings for re-frame applications.
+* [re-graph](https://github.com/oliyh/re-graph) - 用于ClojureScript的GraphQL客户端，具有用于重新框架应用程序的绑定.
 * [graphql-query](https://github.com/district0x/graphql-query) -  Clojure（脚本）GraphQL查询生成.
+
+<a name="lib-reasonml" />
+
+### ReasonML Libraries
+
+* [reason-apollo](https://github.com/apollographql/reason-apollo) -  Apollo Client的ReasonML绑定
+* [ReasonQL](https://github.com/sainthkh/reasonql) -  ReasonML开发人员的类型安全且简单的GraphQL客户端.
 
 <a name="tools" />
 
@@ -564,7 +571,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 
 ## Workshoppers
 
-* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/) - Total beginner tutorial focused on just GraphQL without all the tooling. Alternates between LEARN and PLAY modes roleplaying as Game of Thrones characters.
+* [GraphQL of Thrones](https://graphql-of-thrones.herokuapp.com/)   - 总体初学者教程仅关注GraphQL而不使用所有工具.  在LEARN和PLAY模式之间交替角色扮演权力的游戏角色.
 * [How to GraphQL](https://www.howtographql.com) -  Fullstack教程网站，包含所有主要框架和语言的轨道，包括React，Apollo，Relay，JavaScript，Ruby，Java，Elixir等等
 * [learning-graphql](https://github.com/mugli/learning-graphql) - 尝试学习GraphQL.
 * [Let's Learn GraphQL](https://learngraphql.com) -  GraphQL概念的课程/演练.

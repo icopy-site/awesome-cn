@@ -357,7 +357,7 @@
     * [dask](https://github.com/dask/dask) - 用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) - 一个模块，可帮助您构建批处理作业的复杂管道.
     * [mrjob](https://github.com/Yelp/mrjob) - 在Hadoop或Amazon Web Services上运行MapReduce作业.
-    * [Ray](https://github.com/ray-project/ray/) - A system for parallel and distributed Python that unifies the machine learning ecosystem.
+    * [Ray](https://github.com/ray-project/ray/) - 用于并行和分布式Python的系统，它统一了机器学习生态系统.
 *流处理
     * [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 这是Python.
     * [streamparse](https://github.com/Parsely/streamparse) - 通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
@@ -433,7 +433,7 @@
 * [flanker](https://github.com/mailgun/flanker) - 电子邮件地址和Mime解析库.
 * [imbox](https://github.com/martinrusev/imbox) - 人类的Python IMAP.
 * [inbox.py](https://github.com/kennethreitz/inbox.py) - 人类的Python SMTP服务器.
-* [lamson](https://github.com/zedshaw/lamson) - Pythonic SMTP Application Server.
+* [lamson](https://github.com/zedshaw/lamson) -  Pythonic SMTP应用服务器.
 * [Marrow Mailer](https://github.com/marrow/mailer) - 高性能的可扩展邮件传递框架.
 * [modoboa](https://github.com/modoboa/modoboa) - 邮件托管和管理平台，包括现代和简化的Web UI.
 * [Nylas Sync Engine](https://github.com/nylas/sync-engine) - 在功能强大的电子邮件同步平台上提供RESTful API.
@@ -476,6 +476,7 @@
 
 * [Deform](https://github.com/Pylons/deform) - 受形式表单生成库影响的Python HTML表单生成库.
 * [django-bootstrap3](https://github.com/dyve/django-bootstrap3) - Bootstrap 3 integration with Django.
+* [django-bootstrap4](https://github.com/zostera/django-bootstrap4) -  Bootstrap 4与Django的集成.
 * [django-crispy-forms](https://github.com/django-crispy-forms/django-crispy-forms) - 一个Django应用程序，让您以非常优雅和干燥的方式创建美丽的形式.
 * [django-remote-forms](https://github.com/WiserTogether/django-remote-forms) - 独立于平台的Django表格序列化程序.
 * [WTForms](https://github.com/wtforms/wtforms) - 灵活的表单验证和呈现库.
@@ -853,7 +854,7 @@
 * [Open Babel](http://openbabel.org/wiki/Main_Page) - 一种化学工具箱，设计用于说多种语言的化学数据.
 * [ObsPy](https://github.com/obspy/obspy/wiki/) - 用于地震学的Python工具箱.
 * [PyDy](http://www.pydy.org/) -  Python Dynamics的缩写，用于协助动态建模动画中的工作流程.
-* [PyMC](https://github.com/pymc-devs/pymc3) - 马尔可夫链蒙特卡罗采样工具包.
+* [PyMC](https://github.com/pymc-devs/pymc3) - Markov Chain Monte Carlo sampling toolkit.
 * [QuTiP](http://qutip.org/) -  Python中的Quantum工具箱.
 * [RDKit](http://www.rdkit.org/) -  Cheminformatics和机器学习软件.
 * [SciPy](https://www.scipy.org/) - 基于Python的数学，科学和工程开源软件生态系统.
@@ -978,7 +979,7 @@
     * [mimesis](https://github.com/lk-geimfari/mimesis) - 是一个Python库，可以帮助您生成虚假数据.
     * [fake2db](https://github.com/emirozer/fake2db) - 假数据库生成器.
     * [faker](https://github.com/joke2k/faker) - 生成虚假数据的Python包.
-    * [radar](https://pypi.python.org/pypi/radar) - 生成随机日期时间/时间.
+    * [radar](https://pypi.python.org/pypi/radar) - Generate random datetime / time.
 *错误处理程序
     * [FuckIt.py](https://github.com/ajalt/fuckitpy) -  FuckIt.py使用最先进的技术确保您的Python代码无论是否有权运行.
 

@@ -144,7 +144,7 @@
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - 贴有CircuitPython吉祥物Blinka的贴纸.
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - 一个以Blinka角色为特色的临时纹身.
  - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - 以Blinka为特色的CircuitPlayground挂绳.
- 
+
 ## Contributing
 
  欢迎提供贡献和建议！  请提出拉取请求以修改Awesome CircuitPython.
