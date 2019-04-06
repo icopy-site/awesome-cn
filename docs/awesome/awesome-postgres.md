@@ -5,7 +5,7 @@
 
 &gt;精选的精选列表 [PostgreSQL](https://www.postgresql.org/) 软件，图书馆，工具和资源，受到启发 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
 
-[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是一个 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
+[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是一个 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database) (ORDBMS). PostgreSQL is [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
   ：elephant：欢迎捐款.  添加链接 [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) 或创建一个 [issue](https://github.com/dhamaniasad/awesome-postgres/issues)  开始讨论.  请看看 [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
@@ -28,7 +28,7 @@
 * [pgBackRest](https://pgbackrest.org/)  - 可靠的PostgreSQL备份和恢复.
 * [pg\_back](https://github.com/orgrim/pg_back/) -  pg \ _back是一个简单的备份脚本
 * [pghoard](https://github.com/aiven/pghoard) - 云对象存储的备份和恢复工具（AWS S3，Azure，Google Cloud，OpenStack Swift）.
-* [wal-e](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
+* [wal-e](https://github.com/wal-e/wal-e) -  Heroku将PostgreSQL简单连续存档到S3，Azure或Swift.
 * [wal-g](https://github.com/wal-g/wal-g)   - 在Go中重写WAL-E的继任者.  目前仅支持S3.
 * [pitrery](https://dalibo.github.io/pitrery/) -  pitrery是一组用于管理PostgreSQL的即时恢复（PITR）备份的Bash脚本.
 
@@ -72,6 +72,7 @@
 * [Postgres-XL](https://www.postgres-xl.org/) - 基于PostgreSQL的可扩展开源数据库集群.
 * [Citus](https://github.com/citusdata/citus) - 可扩展的PostgreSQL集群，用于实时工作负载.
 * [PipelineDB](https://www.pipelinedb.com/) -  PostgreSQL扩展，在流上连续运行SQL查询，逐步将结果存储在表中.
+* [AgensGraph](https://bitnine.net/) - 基于PostgreSQL的强大的图形数据库.
 * [Greenplum Database](https://github.com/greenplum-db/gpdb) - 用于大数据量的PostgreSQL的开源分支.
 
 ### Monitoring
@@ -102,6 +103,7 @@
 * [Timescale](https://www.timescale.com/) - 与Postgres完全兼容的开源时间序列数据库，作为扩展分发
 * [pgTAP](https://pgtap.org/) -  Postgres的数据库测试框架
 * [HypoPG](https://github.com/HypoPG/hypopg) -  HypoPG提供假设/虚拟索引功能.
+* [pgRouting](https://github.com/pgRouting/pgrouting) -  pgRouting扩展了PostGIS / PostgreSQL地理空间数据库，以提供地理空间路由和其他网络分析功能.
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) -  PostgreSQL的见解变得简单.
@@ -114,7 +116,7 @@
 ### Utilities
 * [apgdiff](https://www.apgdiff.com/) - 比较两个数据库转储文件，并使用DDL语句创建输出，这些语句可用于将旧数据库模式更新为新数据库模式.
 * [ERAlchemy](https://github.com/Alexis-benoist/eralchemy) -  ERAlchemy从数据库生成实体关系（ER）图.
-* [ldap2pg](https://github.com/dalibo/ldap2pg) - Synchronize roles and privileges from YML and LDAP.
+* [ldap2pg](https://github.com/dalibo/ldap2pg) - 同步YML和LDAP的角色和权限.
 * [mysql-postgresql-converter](https://github.com/lanyrd/mysql-postgresql-converter) -  Lanyrd的MySQL到PostgreSQL转换脚本.
 * [ora2pg](http://ora2pg.darold.net) - 用于将Oracle数据库模式导出到PostgreSQL兼容模式的Perl模块.
 * [pg\_activity](https://github.com/julmon/pg_activity) - 类似于PostgreSQL服务器活动监控的应用程序.
@@ -130,7 +132,7 @@
 * [pgloader](https://github.com/dimitri/pgloader) - 使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程读取和写入数据.
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池，复制，负载平衡和限制超连接的中间件.
 * [pgsync](https://github.com/ankane/pgsync) - 将PostgreSQL数据同步到本地计算机的工具.
-* [PGXN client](https://github.com/dvarrazzo/pgxnclient) - 与PostgreSQL扩展网络交互的命令行工具
+* [PGXN client](https://github.com/pgxn/pgxnclient) - 与PostgreSQL扩展网络交互的命令行工具
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - 为PostgreSQL数据库提取和提供指标的工具.
 * [PostgREST](https://github.com/PostgREST/postgrest) - 从任何现有的PostgreSQL数据库提供完全RESTful的API.
 * [pREST](https://github.com/prest/prest) - 从任何PostgreSQL数据库（Golang）提供RESTful API
@@ -151,6 +153,7 @@
 * Clojure： [clj-postgresql](https://github.com/remodoy/clj-postgresql)
 * Elixir： [postgrex](https://github.com/elixir-ecto/postgrex)
 * 走： [pgx](https://github.com/jackc/pgx)
+*哈斯克尔： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net / .Net核心： [Npgsql](https://github.com/npgsql/npgsql)
 *节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
@@ -160,6 +163,24 @@
 * Ruby： [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 *锈： [rust-postgresql](https://github.com/sfackler/rust-postgres)
 * Lua： [luapgsql](https://github.com/arcapos/luapgsql)
+
+### PaaS *(PostgreSQL as a Service)*
+* [Aiven PostgreSQL](https://aiven.io/postgresql)   -  PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务;  计划范围从每月19美元的单节点实例到大型高可用性设置，免费试用两周.
+* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -  PostgreSQL的Amazon Relational Database Service（RDS）
+* [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
+* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)   - 用于PostgreSQL的Azure数据库提供完全托管的企业级社区PostgreSQL数据库即服务.  它提供内置HA，弹性扩展和Azure生态系统的本机集成.
+* [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个可投入生产的云PostgreSQL服务器，每月20美元，包括备份，监控，补丁和全天候技术支持.
+* [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.
+* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/)   - 完全托管的数据库服务，可以轻松地在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.  （测试版）
+* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)   - 由PostgreSQL专家运营的免费到大型计划.  不需要在Heroku上运行您的应用程序.  免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
+* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
+
+### Docker images
+* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)   - 带有citus扩展功能的Citus官方图片.  基于官方Postgres容器.
+* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) -  Postgres上的PostGIS 2.3 9.基于官方Postgres容器.
+* [postgres](https://hub.docker.com/_/postgres/) - 官方postgres容器（来自Docker）
+
+## Resources
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - 使用wal-e在PostgreSQL中设置连续存档的教程.
@@ -187,27 +208,20 @@
 * [Why use Postgres?](http://www.craigkerstiens.com/2017/04/30/why-postgres-five-years-later/)
 * [Superfast CSV imports using PostgreSQL's COPY command](https://infinum.co/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy)
 
+### Documentation
+* [Wiki](https://wiki.postgresql.org/wiki/Main_Page) - 用户文档，操作方法和技巧提示
+
 ### Newsletters
 
-* [Postgres Weekly](https://postgresweekly.com/) - 每周简报，其中包含与PostgreSQL相关的文章，新闻和回购.
-
-### PaaS *(PostgreSQL as a Service)*
-* [Aiven PostgreSQL](https://aiven.io/postgresql)   -  PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务;  计划范围从每月19美元的单节点实例到大型高可用性设置，免费试用两周.
-* [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -  PostgreSQL的Amazon Relational Database Service（RDS）
-* [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
-* [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)   - 用于PostgreSQL的Azure数据库提供完全托管的企业级社区PostgreSQL数据库即服务.  它提供内置HA，弹性扩展和Azure生态系统的本机集成.
-* [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个可投入生产的云PostgreSQL服务器，每月20美元，包括备份，监控，补丁和全天候技术支持.
-* [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.
-* [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/)   - 完全托管的数据库服务，可以轻松地在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.  （测试版）
-* [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)   - 由PostgreSQL专家运营的免费到大型计划.  不需要在Heroku上运行您的应用程序.  免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
-* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
-
-### Docker images
-* [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)   - 带有citus扩展功能的Citus官方图片.  基于官方Postgres容器.
-* [mdillon/postgis](https://hub.docker.com/r/mdillon/postgis/) -  Postgres上的PostGIS 2.3 9.基于官方Postgres容器.
-* [postgres](https://hub.docker.com/_/postgres/) - 官方postgres容器（来自Docker）
+* [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) -  Citus相关视频
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB相关视频
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - 会议视频
+
+### Community
+* [Mailing lists](https://www.postgresql.org/list/)   -  Postgres的官方邮件列表，用于支持，推广等.  Postgres社区的主要沟通渠道之一. 
+* [Slack](https://postgres-slack.herokuapp.com/) -  Postgres的Slack频道，近5000名用户
+* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - 关于Freenode上Postgres的最受欢迎的IRC频道，近1000名用户 
+* [Reddit](https://www.reddit.com/r/PostgreSQL/) - 一个拥有近10000名用户的PostgreSQL用户的reddit社区

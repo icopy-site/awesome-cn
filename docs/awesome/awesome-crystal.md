@@ -83,6 +83,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
+ * [tallboy](https://github.com/epoch/tallboy) - 生成ASCII字符表，支持在多列上生成单元格
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
  * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 

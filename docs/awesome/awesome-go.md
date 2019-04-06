@@ -34,7 +34,7 @@
 * [minimp3](https://github.com/tosone/minimp3) - 轻量级MP3解码器库.
 * [mix](https://github.com/go-mix/mix) - 用于音乐应用程序的基于序列的Go-native音频混音器.
 * [mp3](https://github.com/tcolgate/mp3) -  Native Go MP3解码器.
-* [music-theory](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
+* [music-theory](https://github.com/go-music-theory/music-theory) -  Go中的音乐理论模型.
 * [Oto](https://github.com/hajimehoshi/oto) - 在多个平台上播放声音的低级库.
 * [PortAudio](https://github.com/gordonklaus/portaudio) - 转到PortAudio音频I / O库的绑定.
 * [portmidi](https://github.com/rakyll/portmidi) - 为PortMidi绑定绑定.
@@ -56,7 +56,7 @@
 * [gorbac](https://github.com/mikespook/gorbac) - 在Golang中提供基于角色的轻量级访问控制（RBAC）实现.
 * [goth](https://github.com/markbates/goth)   - 提供使用OAuth和OAuth2的简单，干净和惯用的方法.  开箱即用处理多个提供商.
 * [httpauth](https://github.com/goji/httpauth) -  HTTP身份验证中间件.
-* [jwt](https://github.com/robbert229/jwt) - Clean and easy to use implementation of JSON Web Tokens (JWT).
+* [jwt](https://github.com/robbert229/jwt) - 清洁且易于使用的JSON Web令牌（JWT）实现.
 * [jwt](https://github.com/pascaldekloe/jwt) - 轻量级JSON Web令牌（JWT）库.
 * [jwt-auth](https://github.com/adam-hanna/jwt-auth) - 用于Golang http服务器的JWT中间件，具有许多配置选项.
 * [jwt-go](https://github.com/dgrijalva/jwt-go) -  Golang实现JSON网络令牌（JWT）的.
@@ -226,6 +226,7 @@
 * [concurrent-writer](https://github.com/free/concurrent-writer) - 高度并发替换`bufio.Writer`.
 * [conjungo](https://github.com/InVisionApp/conjungo) - 一个小巧，强大且灵活的合并库.
 * [count-min-log](https://github.com/seiflotfy/count-min-log) -  Go实现Count-Min-Log草图：使用近似计数器近似计数（如Count-Min草图，但使用较少的内存）.
+* [crunch](https://github.com/superwhiskers/crunch) -  Go包实现缓冲区，可以轻松处理各种数据类型.
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - 布谷鸟过滤器：Go中实现的计数布隆过滤器的一个很好的替代品.
 * [deque](https://github.com/edwingeng/deque) - 高度优化的双端队列.
 * [deque](https://github.com/gammazero/deque) - 快速环缓冲双端队列（双端队列）.
@@ -257,6 +258,7 @@
 * [skiplist](https://github.com/MauriceGit/skiplist) - 非常快的Go Skiplist实施.
 * [skiplist](https://github.com/gansidui/skiplist) -  Go中的Skiplist实现.
 * [timedmap](https://github.com/zekroTJA/timedmap) - 使用过期键值对映射.
+* [treap](https://github.com/perdata/treap) - 使用树堆的持久，快速排序的地图.
 * [trie](https://github.com/derekparker/trie) - 在Go中实现Trie.
 * [ttlcache](https://github.com/diegobernardes/ttlcache) - 内存LRU字符串接口{}映射，其中golang过期.
 * [willf/bloom](https://github.com/willf/bloom) -  Go包实现Bloom过滤器.
@@ -509,6 +511,7 @@
 
 *处理错误的图书馆.*
 
+* [errlog](https://github.com/snwfdhmp/errlog) - 调试错误，失败的func调用识别和漂亮的堆栈跟踪打印.
 * [errors](https://github.com/pkg/errors) - 提供简单错误处理原语的包.
 * [errorx](https://github.com/joomcode/errorx) - 功能丰富的错误包，包含堆栈跟踪，错误组合等.
 * [go-multierror](https://github.com/hashicorp/go-multierror) -  Go（golang）包，用于将错误列表表示为单个错误.
@@ -643,7 +646,7 @@
 * [go-trylock](https://github.com/subchen/go-trylock) - 针对Golang的读写锁定的TryLock支持.
 * [GoSlaves](https://github.com/themester/GoSlaves) - 简单和异步Goroutine池库.
 * [goworker](https://github.com/benmanns/goworker) -  goworker是一名Go-based背景工作者.
-* [gpool](https://github.com/Sherifabdlnaby/gpool) - manages a resizeable pool of context-aware goroutines to bound concurrency.
+* [gpool](https://github.com/Sherifabdlnaby/gpool) - 管理可调整大小的上下文感知goroutine池以绑定并发.
 * [grpool](https://github.com/ivpusic/grpool) - 轻量级Goroutine游泳池.
 * [oversight](https://cirello.io/oversight) -  Oversight是Erlang监督树的完整实现.
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) - 并行运行功能.
@@ -1168,7 +1171,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 *用于科学计算和数据分析的图书馆.*
 
-* [chart](https://github.com/vdobler/chart)   -  Go的简单图表绘图库.  支持许多图形类型.
+* [chart](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
 * [dataframe-go](https://github.com/rocketlaunchr/dataframe-go) -  Go用于机器学习和统计的数据帧（类似于熊猫）.
 * [evaler](https://github.com/soniah/evaler) - 简单浮点算术表达式求值程序.
 * [ewma](https://github.com/VividCortex/ewma) - 指数加权移动平均线.
@@ -1235,7 +1238,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gogoprotobuf](https://github.com/gogo/protobuf) - 使用小工具的Go协议缓冲区.
 * [goprotobuf](https://github.com/golang/protobuf) - 以库和协议编译器插件的形式支持Google的协议缓冲区.
 * [jsoniter](https://github.com/json-iterator/go) - 高性能100％兼容直接替代“encoding / json”.
-* [mapstructure](https://github.com/mitchellh/mapstructure) - 使用库将通用映射值解码为本机Go结构.
+* [mapstructure](https://github.com/mitchellh/mapstructure) - Go library for decoding generic map values into native Go structures.
 * [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) -  GoLang库，用于处理PHP会话格式和PHP Serialize / Unserialize函数.
 * [structomap](https://github.com/tuvistavie/structomap) - 库可以轻松动态地从静态结构生成地图.
 
@@ -1378,7 +1381,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [go-vcard](https://github.com/emersion/go-vcard) - 解析并格式化vCard.
     * [go-zero-width](https://github.com/trubitsyn/go-zero-width) -  Go的零宽度字符检测和删除.
     * [gofeed](https://github.com/mmcdole/gofeed) - 在Go中解析RSS和Atom提要.
-    * [gographviz](https://github.com/awalterschulze/gographviz) - 解析Graphviz DOT语言.
+    * [gographviz](https://github.com/awalterschulze/gographviz) - Parses the Graphviz DOT language.
     * [gommon/bytes](https://github.com/labstack/gommon/tree/master/bytes) - 将字节格式化为字符串.
     * [gonameparts](https://github.com/polera/gonameparts) - 将人名解析为个别名称部分.
     * [goq](https://github.com/andrewstuart/goq) - 使用带有jQuery语法的struct标签声明解组HTML（使用GoQuery）.
@@ -1446,7 +1449,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [golyrics](https://github.com/mamal72/golyrics) -  Golyrics是一个Go库，用于从Wikia网站获取音乐歌词数据.
 * [GoMusicBrainz](https://github.com/michiwend/gomusicbrainz) - 去MusicBrainz WS2客户端库.
 * [google](https://github.com/google/google-api-go-client) - 为Go自动生成的Google API.
-* [google-analytics](https://github.com/chonthu/go-google-analytics) - 简单的包装，便于谷歌分析报告.
+* [google-analytics](https://github.com/chonthu/go-google-analytics) - Simple wrapper for easy google analytics reporting.
 * [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) -  Google Cloud API Go Client Library.
 * [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) - 去客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
 * [gostorm](https://github.com/jsgilmore/gostorm) -  GoStorm是一个Go库，它实现了编写Storm spouts和Go中的Bolts与Storm shell通信所需的通信协议.
@@ -1636,7 +1639,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 *用于操纵视频的图书馆.*
 
-* [gmf](https://github.com/3d0c/gmf) - 为FFmpeg库绑定绑定.
+* [gmf](https://github.com/3d0c/gmf) - 通过库来绑定FFmpeg.
 * [go-astisub](https://github.com/asticode/go-astisub) - 操纵GO中的字幕（.srt，.stl，.ttml，.webvtt，.ssa / .ass，teletext，.smi等）.
 * [go-astits](https://github.com/asticode/go-astits) - 在GO中本地解析和解复用MPEG传输流（.ts）.
 * [go-m3u8](https://github.com/quangngotan95/go-m3u8) -  Apple m3u8播放列表的分析器和生成器库.
@@ -1953,7 +1956,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-http-routing-benchmark](https://github.com/julienschmidt/go-http-routing-benchmark) - 转到HTTP请求路由器基准和比较.
 * [go-web-framework-benchmark](https://github.com/smallnest/go-web-framework-benchmark) - 去Web框架基准.
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) -  Go序列化方法的基准.
-* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) - Benchmarks of common basic operations for the Go language.
+* [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) -  Go语言常见基本操作的基准.
 * [golang-micro-benchmarks](https://github.com/amscanne/golang-micro-benchmarks)   - 微型基准测试的微小集合.  目的是将一些语言特征与其他语言特征进行比较.
 * [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) - 收集流行的Go数据库/ SQL实用程序的基准.
 * [gospeed](https://github.com/feyeleanor/GoSpeed) - 使用微基准来计算语言结构的速度.

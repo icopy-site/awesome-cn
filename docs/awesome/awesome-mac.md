@@ -34,7 +34,7 @@
 * [Atom](https://atom.io) - 由GitHub制作的21世纪的黑客文本编辑器. [Atom Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#atom-plugin). [![Open-Source Software][OSS Icon]](https://github.com/atom/atom) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mehcode/awesome-atom#readme)
 * [Bear Writer](http://www.bear-writer.com/) - Beautiful, flexible writing app for crafting notes and prose. [![App Store][app-store Icon]](https://itunes.apple.com/us/app/bear-beautiful-writing-app/id1091189122?ls=1&mt=12)
 * [Bootstrap Studio](https://bootstrapstudio.io/) - A powerful desktop app for creating responsive websites using the Bootstrap framework.
-* [Brackets](http://brackets.io)   -  vehicle是一种了解网页设计的现代开源文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/adobe/brackets/）！[免费软件] [免费软件图标]
+* [Brackets](http://brackets.io)   - 一个了解网页设计的现代开源文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/adobe/brackets/）！[免费软件] [免费软件图标]
 * [Chocolat](https://chocolatapp.com/) - 原生文本编辑器.
 * [Coda2](http://panic.com/coda/) - 快速，干净，功能强大的文本编辑器.
 * [CotEditor](https://coteditor.com)   -  macOS的轻量级纯文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/coteditor/CotEditor/）！[免费软件] [免费软件图标]
@@ -162,7 +162,7 @@
 * [PaintCode](https://www.paintcodeapp.com/) -  PaintCode是一个独特的矢量绘图应用程序，可实时生成Objective-C或Swift代码，充当开发人员和图形设计人员之间的桥梁.
 * [PPRows](https://github.com/jkpang/PPRows)   - 用于计算您编写的代码行数的应用程序.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/jkpang/PPRows）
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze)   - 一组shell脚本（用于bash和zsh），增强了与git的交互.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/scmbreeze/scm_breeze）
-* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 终端仿真，支持SSH，Telnet或其他协议.
+* [SecureCRT](https://www.vandyke.com/products/securecrt/) - 支持SSH，Telnet或其他协议的终端仿真.
 * [Site Sucker](https://ricks-apps.com/osx/sitesucker/)   -  SiteSucker是一个Macintosh应用程序，可以自动从Internet下载网站.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/in/app/sitesucker/id442168834?mt=12）
 * [SnippetsLab](https://www.renfei.org/snippets-lab/) - 易于使用的代码片段管理器.
 * [Solarized](http://ethanschoonover.com/solarized)   - 干净漂亮的色彩主题.  适用于iTerm，JetBrains产品，Vim等.
@@ -185,7 +185,7 @@
 
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
-* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
+* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[Freeware] [Freeware Icon]
 
 #### Network Analysis
 
@@ -195,6 +195,7 @@
 * [mitmproxy](https://mitmproxy.org/)   - 针对渗透测试人员和软件开发人员的交互式拦截HTTP代理.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
 * [Paw](https://luckymarmot.com/paw) - 高级HTTP客户端.
 * [Proxie](https://proxieapp.com/)   -  HTTP调试代理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/cellist/id897814548）
+* [Proxyman](https://proxyman.app)   - 用于macOS的现代直观的HTTP调试代理.  ！[免费软件] [免费软件图标]
 * [Wireshark](https://www.wireshark.org)   - 世界上最重要和最广泛使用的网络协议分析仪.  [！[开源软件] [OSS图标]]（https://github.com/wireshark/wireshark）！[免费软件] [免费软件图标]
 
 #### Command Line Tools [![Awesome List][awesome-list Icon]](https://github.com/herrbischoff/awesome-macos-command-line#readme)
