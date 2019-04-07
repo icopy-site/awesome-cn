@@ -54,31 +54,79 @@
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
 ## Tools
- * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - 让浏览器与JVM通信的Java工具
+### Disassemblers and debuggers
  * [IDA](https://www.hex-rays.com/products/ida/) -  IDA是Windows，Linux或Mac OS X托管的多处理器反汇编程序和调试程序
  * [OllyDbg](http://www.ollydbg.de/) - 用于Windows的32位汇编程序级别分析调试程序
- * [x64dbg](http://x64dbg.com/) - 适用于Windows的开源x64 / x32调试器
- * [dex2jar](https://github.com/pxb1988/dex2jar) - 使用Android .dex和Java .class文件的工具
- * [JD-GUI](http://jd.benow.ca/) - 一个独立的图形实用程序，显示“.class”文件的Java源代码
- * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - 一个现代的开源Java反编译器
- * [androguard](https://code.google.com/p/androguard/) -  Android应用程序的逆向工程，恶意软件和良好软件分析
- * [JAD](http://varaneckas.com/jad/) -  JAD Java Decompiler（闭源，无保留）
- * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
- * [ILSpy](https://github.com/icsharpcode/ILSpy/) - 一个开源.NET程序集浏览器和反编译器
- * [dnSpy](https://github.com/0xd4d/dnSpy) -  .NET汇编编辑器，反编译器和调试器
- * [de4dot](https://github.com/0xd4d/de4dot) -  .NET反混淆器和解包器.
- * [antinet](https://github.com/0xd4d/antinet) -  .NET反托管调试器和反剖析器代码
- * [UPX](http://upx.sourceforge.net/) -  eXecutables的终极包装工具
+ * [x64dbg](https://github.com/x64dbg/x64dbg) - 适用于Windows的开源x64 / x32调试器
  * [radare2](https://github.com/radare/radare2) - 便携式倒车架
  * [plasma](https://github.com/joelpx/plasma)   - 用于x86 / ARM / MIPS的交互式反汇编程序.  使用彩色语法代码生成缩进的伪代码.
- * [Hopper](https://www.hopperapp.com) - 适用于32/64位Windows / Mac / Linux / iOS可执行文件的OS X和Linux反汇编程序/反编译程序.
  * [ScratchABit](https://github.com/pfalcon/ScratchABit) - 使用IDAPython兼容的插件API轻松重定向和可破解的交互式反汇编程序
+ * [Capstone](https://github.com/aquynh/capstone)
 
+### Decompilers
+*基于JVM的语言
+  * [Krakatau](https://github.com/Storyyeller/Krakatau)   - 我用过的最好的反编译器.  能够将用Scala和Kotlin编写的应用程序反编译为Java代码.  JD-GUI和Luyten未能完全做到这一点.
+  * [JD-GUI](https://github.com/java-decompiler/jd-gui) 
+  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler)
+    * [Luyten](https://github.com/deathmarine/Luyten) - 一个最好的，虽然有点慢，挂在一些二进制文件，并没有很好地维护.
+  * [JAD](http://varaneckas.com/jad/) -  JAD Java Decompiler（闭源，无保留）
+  * [JADX](https://github.com/skylot/jadx)   -  Android应用程序的反编译器.  与JAD无关.
 
+* .net-based语言
+  * [dotPeek](https://www.jetbrains.com/decompiler/) - 来自JetBrains的免费.NET反编译器
+  * [ILSpy](https://github.com/icsharpcode/ILSpy/) - 一个开源.NET程序集浏览器和反编译器
+  * [dnSpy](https://github.com/0xd4d/dnSpy) -  .NET汇编编辑器，反编译器和调试器
+
+*本机代码
+  * [Hopper](https://www.hopperapp.com) - 适用于32/64位Windows / Mac / Linux / iOS可执行文件的OS X和Linux反汇编程序/反编译程序.
+  * [cutter](https://github.com/radareorg/cutter) - 基于radare2的反编译器.
+  * [retdec](https://github.com/avast-tl/retdec)
+  * [snowman](https://github.com/yegord/snowman)
+  * [Hex-Rays](https://www.hex-rays.com/products/decompiler/)
+
+### Deobfuscators
+ * [de4dot](https://github.com/0xd4d/de4dot) -  .NET反混淆器和解包器.
+ * [JS Beautifier](https://github.com/beautify-web/js-beautify)
+ * [JS Nice](http://jsnice.org/) - 基于从开源派生的模型猜测JS变量名称和类型的Web服务.
+
+### Other
+ * [nudge4j](https://github.com/lorenzoongithub/nudge4j) - 让浏览器与JVM通信的Java工具
+ * [dex2jar](https://github.com/pxb1988/dex2jar) - 使用Android .dex和Java .class文件的工具
+ * [androguard](https://code.google.com/p/androguard/) -  Android应用程序的逆向工程，恶意软件和良好软件分析
+ * [antinet](https://github.com/0xd4d/antinet) -  .NET反托管调试器和反剖析器代码
+ * [UPX](http://upx.sourceforge.net/) -  eXecutables的Ultimate Packer（和解包器）
+
+### Execution logging and tracing
+ * [Wireshark](https://www.wireshark.org/) - 免费的开源数据包分析器
+ * [tcpdump](http://www.tcpdump.org/)   - 功能强大的命令行数据包分析器;  和libpcap，一个用于网络流量捕获的可移植C / C ++库
+ * [mitmproxy](https://github.com/mitmproxy/mitmproxy) - 具有控制台界面的HTTP交互式，具有SSL功能的中间人工代理
+ * [Charles Proxy](https://charlesproxy.com) - 跨平台GUI Web调试代理，用于查看截获的HTTP和HTTPS / SSL实时流量
+ * [usbmon](https://www.kernel.org/doc/Documentation/usb/usbmon.txt) - 适用于Linux的USB捕获.
+ * [USBPcap](https://github.com/desowin/usbpcap) - 适用于Windows的USB捕获.
+ * [dynStruct](https://github.com/ampotos/dynStruct) - 通过动态仪器恢复结构.
+ * [drltrace](https://github.com/mxmssh/drltrace) - 共享库调用跟踪.
+
+### Binary files examination and editing
+
+#### Hex editors
+ * [HxD](http://mh-nexus.de/en/hxd/) - 十六进制编辑器，除原始磁盘编辑和主存储器（RAM）修改外，还可处理任何大小的文件
+ * [WinHex](http://www.winhex.com/winhex/) - 十六进制编辑器，有助于计算机取证，数据恢复，低级数据处理和IT安全领域
+* [wxHexEditor](https://github.com/EUA/wxHexEditor)
+* [Synalize It](https://www.synalysis.net/)/[Hexinator](https://hexinator.com/) - 
+
+#### Other
+ * [Binwalk](https://github.com/ReFirmLabs/binwalk) - 检测签名，解压缩档案，可视化熵.
+ * [Veles](https://github.com/codilime/veles) - 用于blob统计属性的可视化工具.
+ * [Kaitai Struct](https://github.com/kaitai-io/kaitai_struct)   - 用于创建各种编程语言的解析器的DSL.  Web IDE特别适用于逆向工程.
+ * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
+ * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) - 可执行文件不同
+ * [DBeaver](https://github.com/dbeaver/dbeaver) - 数据库编辑器.
+ * [Dependencies](https://github.com/lucasg/Dependencies) - 一个FOSS替代Dependency Walker.
+ * [PEview](http://wjradburn.com/software/) - 查看32位可移植可执行文件（PE）和组件对象文件格式（COFF）文件的结构和内容的快速简便方法
+* [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - 一个小型，非常快速且功能强大的文本提取器，对程序员来说是特别感兴趣的.
 
 ## General
  * [Open Malware](http://www.offensivecomputing.net/)
-
 
 ## Web
 
@@ -88,28 +136,30 @@
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) -  base64 base85 md4,5 hash，sha1 hash编码/解码
  * [VHostScan](https://github.com/codingo/VHostScan) - 执行反向查找的虚拟主机扫描程序，可与数据透视工具一起使用，检测全能方案，别名和动态默认页面.
  * [SubFinder](https://github.com/subfinder/subfinder) -  SubFinder是一个子域发现工具，可使用被动在线源为任何目标发现有效的子域.
+ * [badtouch](https://github.com/kpcyrd/badtouch) - 可编写脚本的网络身份验证破解程序
+
+## General
+ * [Strong node.js](https://github.com/jesusprubio/strong-node) - 详尽的清单，以协助node.js Web服务的源代码安全性分析.
+
 
 ## Network
 
 ## Tools
- * [Wireshark](https://www.wireshark.org/) - 免费的开源数据包分析器
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - 网络取证分析工具（NFAT）
- * [tcpdump](http://www.tcpdump.org/)   - 功能强大的命令行数据包分析器;  和libpcap，一个用于网络流量捕获的可移植C / C ++库
  * [Paros](http://sourceforge.net/projects/paros/) - 用于评估Web应用程序漏洞的基于Java的HTTP / HTTPS代理
  * [pig](https://github.com/rafael-santiago/pig) -  Linux数据包制作工具
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) -  Zed攻击代理（ZAP）是一种易于使用的集成渗透测试工具，用于查找Web应用程序中的漏洞
- * [mitmproxy](https://mitmproxy.org/) - 具有控制台界面的HTTP交互式，具有SSL功能的中间人工代理
- * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - 用于Java的中间人SOCKS代理
+ * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) -  SSH / SFTP中间人工具，用于记录交互式会话和密码.
  * [nmap](https://nmap.org/) -  Nmap（Network Mapper）是一种安全扫描程序
  * [Aircrack-ng](http://www.aircrack-ng.org/) -  802.11 WEP和WPA-PSK密钥破解程序
- * [Charles Proxy](https://charlesproxy.com) - 跨平台GUI Web调试代理，用于查看截获的HTTP和HTTPS / SSL实时流量
  * [Nipe](https://github.com/GouveaHeitor/nipe) - 使Tor网络成为默认网关的脚本.
  * [Habu](https://github.com/portantier/habu) -  Python网络黑客工具包
  * [Wifi Jammer](https://n0where.net/wifijammer/) - 免费程序，以阻止范围内的所有WiFi客户端
  * [Firesheep](https://codebutler.github.io/firesheep/) -  HTTP会话劫持攻击的免费程序.
  * [Scapy](https://github.com/secdev/scapy) - 用于低级数据包创建和操作的Python工具和库
  * [Amass](https://github.com/OWASP/Amass) - 深入的子域枚举工具，可执行抓取，递归暴力破解，抓取Web存档，更改名称和反向DNS扫描
+ * [sniffglue](https://github.com/kpcyrd/sniffglue) - 安全的多线程数据包嗅探器
 
 
 ## Forensic
@@ -119,11 +169,6 @@
  * [sleuthkit](https://github.com/sleuthkit/sleuthkit) - 图书馆和命令行数字取证工具的集合
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) -  Guidance Software提供的一套数字调查产品中的共享技术
  * [malzilla](http://malzilla.sourceforge.net/) - 恶意软件狩猎工具
- * [PEview](http://wjradburn.com/software/) - 查看32位可移植可执行文件（PE）和组件对象文件格式（COFF）文件的结构和内容的快速简便方法
- * [HxD](http://mh-nexus.de/en/hxd/) - 十六进制编辑器，除原始磁盘编辑和主存储器（RAM）修改外，还可处理任何大小的文件
- * [WinHex](http://www.winhex.com/winhex/) - 十六进制编辑器，有助于计算机取证，数据恢复，低级数据处理和IT安全领域
- * [BinText](http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - 一个小型，非常快速且功能强大的文本提取器，对程序员来说是特别感兴趣
-
 
 ## Cryptography
 
@@ -162,6 +207,11 @@
 
 ## Bug bounty
   * [Awesome bug bounty resources by EdOverflow](https://github.com/EdOverflow/bugbounty-cheatsheet)
+  
+## Bug bounty -  Earn Some Money  
+  * [Bugcrowd](https://www.bugcrowd.com/)
+  * [Hackerone](https://www.hackerone.com/start-hacking)
+  
 
 ## CTF
 
@@ -178,7 +228,7 @@
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
  * [ZeroDays CTF](https://zerodays.ie/)
  * [Insomni’hack](https://insomnihack.ch/)
- * [Picp CTF](https://picoctf.com/) 
+ * [Pico CTF](https://picoctf.com/) 
  * [prompt(1) to win](http://prompt.ml/) -  XSS Challeges
 
 ## General
@@ -196,6 +246,11 @@
  * [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - 完整的安全相关操作系统列表
  * [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - 主要渗透测试分布的描述
  * [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - 致力于讨论，审查和跟上开源操作系统的网站
+## Post exploitation
+
+## tools
+* [empire](https://github.com/EmpireProject/Empire) -  powershell和python的后期开发框架.
+* [silenttrinity](https://github.com/byt3bl33d3r/SILENTTRINITY) - 一种利用铁蟒来获取PowerShell限制的后期开发工具.
 
 ## ETC
  * [SecTools](http://sectools.org/) - 排名前125的网络安全工具

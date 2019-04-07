@@ -123,6 +123,7 @@
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  NativeScript是一个开源框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Web技能，如Angular和Vue.js，FlexBox和CSS，并在iOS和Android上获得原生UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用React构建速度快，现代的应用程序和网站.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  渐进式JavaScript框架.
+- [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  创建一个只有降价的网页.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Check It Out是一个类似ncurses的CLI，让用户以交互方式导航并选择要检出的git分支.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  来自免费资源的多平台音乐播放器.
 

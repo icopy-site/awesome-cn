@@ -7,7 +7,7 @@
 
 谢谢大家 [contributors](https://github.com/thangchung/awesome-dotnet-core/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
-看看我 [blog](https://medium.com/@thangchung) or say hi on [Twitter](https://twitter.com/thangchung)!
+看看我 [blog](https://medium.com/@thangchung) 或者打招呼 [Twitter](https://twitter.com/thangchung)!
 
 
   * [Code Analysis and Metrics](#code-analysis-and-metrics)  
@@ -268,6 +268,7 @@
 
 ### Database Tools and Utilities
 * [DbUp](https://github.com/DbUp/DbUp)   -  .NET库，可帮助您将更改部署到SQL Server数据库.  它跟踪已经运行的SQL脚本，并运行使数据库保持最新所需的更改脚本.
+* [Evolve](https://github.com/lecaillon/Evolve)   - 使用纯SQL脚本的简单数据库迁移工具.  受到Flyway的启发.
 * [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) -  .NET的迁移框架，就像Ruby on Rails迁移一样.
 * [NReco.PivotData](https://www.nuget.org/packages/NReco.PivotData) - 具有OLAP操作和数据透视表数据模型的内存数据立方体.
 * [roundhouse](https://github.com/chucknorris/roundhouse) - 使用sql文件的.NET数据库迁移实用程序和基于源代码控制的版本控制.
@@ -451,7 +452,7 @@
 *验证
   * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -  .NET的小型验证库，它使用流畅的接口和lambda表达式来构建验证规则.
   * [Guard](https://github.com/safakgur/guard) - 高性能，可扩展的参数验证库.
-  * [Valit](https://github.com/valit-stack/Valit)   -  .NET Core的简单验证.  代码周围不再有if语句.  写一些漂亮而干净的流利验证器吧！
+  * [Valit](https://github.com/valit-stack/Valit) - A dead simple validation for .NET Core. No more if-statements all around your code. Write nice and clean fluent validators instead!
 * [warden-stack](https://github.com/warden-stack)   - 针对您的应用程序，资源和基础架构的“健康检查”.  让守望者守在手表上.
 * [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -  ASP.NET核心渐进式Web应用程序.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.

@@ -183,7 +183,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 看看这两者之间的区别 [here](https://github.com/michaelgmcd/vscode-language-babel/issues/1)
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - 用于Visual Studio代码的TSLint（带有“tslint.jsEnable”：true`）.
+- [tslint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) - 用于Visual Studio代码的TSLint（带有“tslint.jsEnable”：true`）.
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) -  Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) -  Linter for [XO](https://github.com/xojs/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - 片段 [AVA](https://github.com/avajs/ava).

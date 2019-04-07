@@ -160,6 +160,7 @@
 * [eZ Platform GraphQL Bundle](https://www.symfony.fi/entry/graphql-bundle-adds-protocol-support-to-ez-platform-symfony-cms) - 用于eZ Platform Symfony CMS的GraphQL Bundle.
 * [GraphQL Middleware](https://github.com/stefanorg/graphql-middleware) -  GraphQL Psr7中间件
 * [Zend Expressive GraphiQL Extension](https://github.com/stefanorg/zend-expressive-graphiql) -  zend表达式的GraphiQL扩展
+* [GraphQLite](https://github.com/thecodingmachine/graphqlite) - 框架无关的库，允许您通过注释PHP类来编写GraphQL服务器.
 
 <a name="lib-py" />
 
@@ -271,7 +272,7 @@
 
 ### Elm Libraries
 
-* [elm-graphql](https://github.com/jahewson/elm-graphql) -  Elm的GraphQL.
+* [elm-graphql](https://github.com/dillonkearns/elm-graphql) -  Elm的GraphQL.
 
 <a name="lib-clojure" />
 

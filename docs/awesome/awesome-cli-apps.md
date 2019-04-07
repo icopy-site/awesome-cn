@@ -45,7 +45,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
@@ -168,6 +168,7 @@
 
 - [Timetrap](https://github.com/samg/timetrap) - 简单的命令行时间跟踪器.
 - [moro](https://github.com/omidfi/moro) - 跟踪工作时间的简单工具.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 时间跟踪实用程序，简单的秒表，基于日历的回填和灵活的报告.
 
 ### Note Taking and Lists
 
@@ -262,7 +263,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽.
 
 ### Theming and Customization
 
@@ -445,6 +446,7 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
+- [Qalculate](https://github.com/Qalculate/libqalculate)   - 计算非三元数学表达式.  单位转换，符号计算等.
 
 ### Emoji
 

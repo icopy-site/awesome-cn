@@ -717,7 +717,7 @@ Projects
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kustomize](https://github.com/kubernetes-sigs/kustomize) - 使用部分规格进行自定义
 * [kapitan](https://github.com/deepmind/kapitan) - 使用jsonnet和jinja2管理复杂的部署
-* [kubecfg](https://github.com/ksonnet/kubecfg) - 结合jsonnet和kubectl，让您以易于覆盖的方式声明系统
+* [kubecfg](https://github.com/bitnami/kubecfg) - 结合jsonnet和kubectl，让您以易于覆盖的方式声明系统
 * [Pulumi](https://www.pulumi.com/kubernetes/) - 为针对内部部署群集和主要云供应商的托管服务的k8s部署提供SDK.
 
 ## Security
@@ -765,7 +765,7 @@ Projects
 ## Machine Learning
 
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
-* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - 为ML / MXNet工具是Kubernetes.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
