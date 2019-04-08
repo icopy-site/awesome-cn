@@ -5,7 +5,7 @@
 
 &gt;精选的精选列表 [PostgreSQL](https://www.postgresql.org/) 软件，图书馆，工具和资源，受到启发 [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
 
-[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是一个 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database) (ORDBMS). PostgreSQL is [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
+[PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL)，通常只是Postgres，是一个 [object-relational database](https://en.wikipedia.org/wiki/Object-relational_database)  （ORDBMS）.  PostgreSQL是 [ACID-compliant](https://en.wikipedia.org/wiki/ACID) 和 [transactional](https://en.wikipedia.org/wiki/Transaction_processing) .  （看更多： [wikipedia:PostgreSQL](https://en.wikipedia.org/wiki/PostgreSQL), [PostgreSQL.org](https://www.postgresql.org))
 
   ：elephant：欢迎捐款.  添加链接 [pull requests](https://github.com/dhamaniasad/awesome-postgres/pulls) 或创建一个 [issue](https://github.com/dhamaniasad/awesome-postgres/issues)  开始讨论.  请看看 [contribution guidelines](https://github.com/dhamaniasad/awesome-postgres/blob/master/CONTRIBUTING.md).
 
@@ -35,7 +35,7 @@
 ### GUI
 * [Adminer](https://www.adminer.org/) - 用PHP编写的全功能数据库管理工具.
 * [OmniDB](https://omnidb.org/en/) - 开源协作环境
-用于数据库管理
+For Database Management
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 具有高级工具集和良好的跨平台经验的IDE（商业软件）.
 * [Datazenit](https://datazenit.com/) - 基于Web的PostgreSQL GUI（商业软件）.
 * [DBeaver](https://dbeaver.io/) - 通用数据库管理器，对PostgreSQL提供出色的支持.
@@ -167,13 +167,14 @@
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql)   -  PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务;  计划范围从每月19美元的单节点实例到大型高可用性设置，免费试用两周.
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -  PostgreSQL的Amazon Relational Database Service（RDS）
-* [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)   - 用于PostgreSQL的Azure数据库提供完全托管的企业级社区PostgreSQL数据库即服务.  它提供内置HA，弹性扩展和Azure生态系统的本机集成.
+* [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
+* [Compose](https://www.compose.com/databases/postgresql)   -  PostgreSQL作为AWS，Google Cloud Platform和IBM Cloud中的服务;  1GB存储的计划范围为每月17.5美元，超过12美元/ GB的规模.  免费试用30天.
 * [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个可投入生产的云PostgreSQL服务器，每月20美元，包括备份，监控，补丁和全天候技术支持.
+* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.
 * [Google Cloud SQL for PostgreSQL](https://cloud.google.com/sql/docs/postgres/)   - 完全托管的数据库服务，可以轻松地在Google Cloud Platform上设置，维护，管理和管理PostgreSQL关系数据库.  （测试版）
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql)   - 由PostgreSQL专家运营的免费到大型计划.  不需要在Heroku上运行您的应用程序.  免费计划包括10,000行，20个连接，最多两个备份，并具有PostGIS支持.
-* [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
 
 ### Docker images
 * [citusdata/citus](https://hub.docker.com/r/citusdata/citus/)   - 带有citus扩展功能的Citus官方图片.  基于官方Postgres容器.

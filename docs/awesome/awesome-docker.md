@@ -93,7 +93,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [bocker](https://github.com/p8952/bocker) （1）：头骨： -  Docker在100行bash中实现 [p8952](https://github.com/p8952)
 - [box](https://github.com/box-builder/box) - 使用mruby DSL构建Dockerfile映像，包括展平和图层处理
 - [Capitan](https://github.com/byrnedo/capitan) - 可组合的docker业务流程，增加了脚本支持 [@byrnedo](https://github.com/byrnedo).
-- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过以下方式从docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
+- [compose_plantuml](https://github.com/funkwerk/compose_plantuml) - 通过Docker-compose文件生成Plantuml图 [@funkwerk](https://github.com/funkwerk)
 - [Composerize](https://github.com/magicmark/composerize) - 将docker run命令转换为docker-compose文件
 - [crowdr](https://github.com/polonskiy/crowdr) - 用于管理多个Docker容器的工具（`docker-compose`替代） [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - 将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)
@@ -457,7 +457,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Screwdriver :heavy_dollar_sign:](https://screwdriver.cd/) - 雅虎的OpenSource构建平台，专为持续交付而设计.
 - [Skipper](https://github.com/Stratoscale/skipper) - 轻松将您的Git存储库停靠 [@Stratoscale](https://github.com/Stratoscale)
 - [SwarmCI](https://github.com/ghostsquad/swarmci) - 在Docker Swarm中创建分布式，隔离的任务管道.
-- [Watchtower](https://github.com/v2tec/watchtower) -  [@CenturyLinkLabs] [centurylinklabs]自动更新正在运行的Docker容器
+- [Watchtower](https://github.com/containrrr/watchtower) -  [@CenturyLinkLabs] [centurylinklabs]自动更新正在运行的Docker容器
 
 ### Development Environment
 
@@ -535,7 +535,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [CircleCI](https://circleci.com/) ：heavy_dollar_sign： - 从构建环境中推送或拉出Docker镜像，或者在CircleCI上构建和运行容器.
 - [CodeFresh](https://codefresh.io)  ：heavy_dollar_sign： - 构建，测试和共享Docker应用程序所需的一切.  提供自动端到端测试.
-- [CodeShip](https://codeship.com/features/pro) ：heavy_dollar_sign： - 使用您已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台自动执行测试和部署任务.
+- [CodeShip](https://cms.codeship.com/features/pro) ：heavy_dollar_sign： - 使用您已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台自动执行测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign： - 面向管道开发人员和DevOps团队的CI SaaS平台.
 - [IBM Bluemix Continous Delivery](https://console.bluemix.net/devops/getting-started?auth=false) ：heavy_dollar_sign： - 使用管道部署在Bluemix上的IBM容器上持续交付.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign： - 一种高性能云解决方案，可以轻松构建，测试容器并将其运送到生产中.

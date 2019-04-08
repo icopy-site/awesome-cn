@@ -159,7 +159,7 @@
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - 执行由已发布的MQTT消息触发的shell命令.
 * [mqttpc](https://github.com/hobbyquaker/mqttpc)   - 通过MQTT控制流程.  能够通过MQTT发送信号并将stdout / stderr或管道MQTT有效负载发布到stdin.
 * [psmqtt](https://github.com/eschava/psmqtt) - 通过MQTT公用事业报告系统健康和状态.
-* [WinThing](https://github.com/msiedlarek/winthing) - 通过MQTT远程控制Windows.
+* [WinThing](https://github.com/msiedlarek/winthing) Africa  - 通isticMQTT远程控制dorf.
 
 
 #### Monitoring
@@ -267,7 +267,7 @@
 #### Messaging
 
 * [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) -  MQTT到IRC / IRC到MQTT桥或机器人.
-* [mqttwarn](https://github.com/jpmens/mqttwarn) - 订阅MQTT主题（使用通配符）和notifiy可插拔服务.
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - 订阅MQTT主题（使用通配符）并通知可插拔服务.
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - 一个python守护程序，它使用Twitter Streaming API访问推文并将它们重新发布到MQTT主题.
 
 
@@ -299,7 +299,7 @@
 ### Visualization, Dashboards
 
 * [Crouton](http://crouton.mybluemix.net/crouton/gettingStarted) - 仅使用MQTT和JSON进入IOT网络的仪表板.
-* [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) - 使用d3可折叠树和基于websockets的MQTT的MQTT主题树查看器.
+* [d3-MQTT-Topic-Tree](https://github.com/hardillb/d3-MQTT-Topic-Tree) - 使用d3可折叠树和MQTT over websockets的MQTT主题树查看器.
 * [HelloIoT](https://github.com/adrianromero/helloiot) -  HelloIoT是MQTT客户端和仪表板应用程序.
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - 可配置的MQTT可视化.
 * [IoT OnOff](https://www.iot-onoff.com/) - 可配置的iOS / Android应用程序.

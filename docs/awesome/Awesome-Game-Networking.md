@@ -44,7 +44,7 @@
 
 - 游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
-  - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
+  - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - Talk by Stephen Detwiler and James Marr from ngmoco:).
   - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
   - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - 来自Crytek的Peter Hall的程序员事后调查.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -  Halo中的游戏网络：来自Bungie的David Aldridge.
@@ -75,7 +75,7 @@
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - 来自Epic Games的Wes Bunn的蓝图多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - （付费）Tom Looman的C ++多人游戏开发教程系列.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - （付费）Sam Pattuzzi的C ++在线游戏开发教程系列.
-  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) - Steam-backed blueprint multiplayer tutorial by Maik Hilfer.
+  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -  Maik Hilfer的Steam支持的蓝图多人游戏教程.
 - 团结
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
   - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) -  Unity提供的基于UNET的多人游戏网络教程.
@@ -121,6 +121,7 @@
 - [Fiddler](https://www.telerik.com/fiddler)   -  Web调试代理服务器.  （Windows，macOS，Linux）
 - [netem](https://wiki.linuxfoundation.org/networking/netem)   - 用于测试协议的网络仿真.  （Linux）
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)   - 网络环境模拟实用程序.  （macOS，iOS）
+- [Network Simulator (ns)](https://www.nsnam.org)   - 针对研究和教育用途的网络模拟器.  （macOS，Linux）
 - [Postman](https://www.getpostman.com/)   -  Web API调试客户端.  （Windows，macOS，Linux）
 - [Wireshark](https://www.wireshark.org/)   - 网络流量分析工具.  （Windows，macOS，Linux）
 
