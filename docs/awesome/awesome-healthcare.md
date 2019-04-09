@@ -38,7 +38,7 @@
   * [StandardHealthRecord](http://standardhealthrecord.org/) - 健康记录格式的开放规范，旨在比现有格式更精确.
   * [Continuity of Care Document](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=7) - 护理文件规范的连续性（需要免费帐户）.
   * [Continuity of Care Record](http://hitsp.org/ConstructSet_Details.aspx?&PrefixAlpha=4&PrefixNumeric=32) - 较旧形式CCD的规格 - 有时称为“C32”.
-  * [HL7 Version 2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - Specifications for all versions of HL7v2 (free account required).
+  * [HL7 Version 2](http://www.hl7.org/implement/standards/product_brief.cfm?product_id=185) - 所有版本HL7v2的规格（需要免费帐户）.
   * [OHDSI OMOP Common Data Model](https://www.ohdsi.org/data-standardization/the-common-data-model/) - 许多医疗保健概念的标准化数据模型，令人敬畏的Github存在，包括许多主要关系数据库的脚本 
   * [Standard Health Record Collaborative](http://standardhealthrecord.org/shr/) - 标准健康记录（SHR）通过建立健康数据标准化的单一目标，提供高质量，可计算的患者信息源.
   
@@ -81,6 +81,7 @@
   * [CareKit](https://github.com/carekit-apple/CareKit/) -  CareKit是一个开源软件框架，用于创建可帮助人们更好地理解和管理健康状况的应用程序.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - 符合FDA，HIPPA和HL7标准的应用程序的流星.
   * [FHIRBase](http://fhirbase.github.io) - 基于FHIR标准的存储.
+  * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -  FHIR标准的.NET Core实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - 在GoLang通用FHIR服务器实现.
   * [Opal](http://opal.openhealthcare.org.uk/) - 构建临床应用的框架.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 软件框架，可以轻松地为医学研究或其他研究项目创建应用程序.
@@ -88,9 +89,10 @@
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - 适用于iOS和OS X的FHIR框架上的Swift SMART.
 
 ### Libraries
+  * [Archie](https://github.com/openehr/archie) - 用Java编写的OpenEHR库
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) -  DICOM工具包
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - 适用于.NET，.NET Core，通用Windows，Android，iOS，Mono和Unity的DICOM
-  * [FHIR .NET API](https://github.com/ewoutkramer/fhir-net-api) -  HL7 FHIR的官方.NET API.
+  * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) -  HL7 FHIR的官方.NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) -  FHIR的JavaScript客户端.
   * [https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers](https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers) - 用于FHIR的Google协议缓冲区实现.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) -  HL7 FHIR客户端和服务器的Java API.
@@ -99,7 +101,9 @@
   * [MITK](http://mitk.org/wiki/MITK) - 医学影像交互工具包.
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - 与Java Hapi HL7库桥接的节点模块.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) -  Redox的HL7 v2的开源版本到模式化的JSON解析器.
+  * [php-fhir](https://github.com/dcarbone/php-fhir) - 用于从HL7 FHIR规范创建PHP类的工具
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - 用于将HL7版本2.x的消息解析为Python对象的简单库.
+  * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - 支持FHIR协议上的SMART的FHIR服务器的灵活Python客户端
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) -  Ruby中的FHIR客户端实现.
   * [Ruby HL7](https://github.com/segfault/ruby-hl7) -  Ruby HL7库.
 
@@ -118,7 +122,7 @@
   * [Open cancer](http://opencancer.net/) - 癌症数据管理.
 
 ### Integration
-  * [Mirth Connect](https://www.mirth.com) - 跨平台接口引擎，支持在系统和应用程序之间双向发送HL7消息.
+  * [Mirth Connect](https://www.mirth.com) - Cross-platform interface engine that enables bi-directional sending of HL7 messages between systems and applications.
   * [OpenHIM](http://openhim.org/) - 健康信息调解员.
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - 开源转换，使基于Mirthconnect的集成更容易.
 

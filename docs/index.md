@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-	 <sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可.</sub>  <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter上</a>关注我.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
 
@@ -42,6 +42,7 @@
 ## Platforms
 
 - [Node.js](awesome/awesome-nodejs.md) - 基于Chrome的V8 JavaScript引擎构建的异步非阻塞事件驱动的JavaScript运行时.
+	- [Cross-Platform](awesome/awesome-cross-platform-nodejs.md) - 在Node.js上编写跨平台代码.
 - [Frontend Development](awesome/frontend-dev-bookmarks.md)
 - [iOS](awesome/awesome-ios.md) -  Apple手机和平板电脑的移动操作系统.
 - [Android](awesome/awesome-android.md)
@@ -426,6 +427,7 @@
 - [Vehicle Security and Car Hacking](awesome/awesome-vehicle-security.md)
 - [Web Security](awesome/awesome-web-security.md) - 网络应用和服务的安全性.
 - [Lockpicking](awesome/awesome-lockpicking.md) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术.
+- [Cybersecurity Blue Team](awesome/awesome-cybersecurity-blueteam.md) - 识别信息技术系统安全漏洞的个人团体.
 
 
 
@@ -583,7 +585,7 @@
 - [Speakers](awesome/awesome-speakers.md) - 编程和设计界的会议和聚会发言人.
 - [Board Games](awesome/awesome-board-games.md) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](awesome/awesome-software-patreons.md) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](awesome/awesome-parasite.md) - Parasites and host-pathogen interactions.
+- [Parasite](awesome/awesome-parasite.md) - 寄生虫和宿主 - 病原体相互作用.
 - [Food](awesome/awesome-food.md) -  GitHub上与食品有关的项目.
 - [Mental Health](awesome/awesome-mental-health.md) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](awesome/awesome-bitcoin-payment-processors.md) - 开始接受比特币.

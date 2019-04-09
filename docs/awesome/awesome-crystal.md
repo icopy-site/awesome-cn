@@ -303,7 +303,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [markd](https://github.com/icyleaf/markd) - 另一种为速度而构建的降价解析器，符合CommonMark规范
 
 ## Misc
- * [aasm.cr](https://github.com/veelenga/aasm.cr) - 易于使用有限状态机的水晶类
+ * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - 使用更好的JSON ::任何包含的递归哈希
  * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - 用于以原子方式编写或添加文件的库
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -  burocracia.cr dependecyless shard用于验证，生成和格式化巴西burocracias，如CPF，CNPJ和CEP
@@ -352,6 +352,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [onyx-sql](https://github.com/onyxframework/sql) - 与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询构建器
  * [record](https://github.com/luckyframework/record) - 键入安全查询，保存和更新
  * [redis-tsv.cr](https://github.com/maiha/redis-tsv.cr) - 以TSV格式从Redis导入和导出数据
+ * [rethinkdb-orm](https://github.com/spider-gazelle/rethinkdb-orm) -  RethinkDB / RebirthDB的ORM
  * [stal-crystal](https://github.com/soveran/stal-crystal) - 为Redis设置代数求解器
  * [topaz](https://github.com/topaz-crystal/topaz) - 一个简单而有用的db包装器
 
@@ -447,7 +448,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -  Bugsnag异常通知程序和sidekiq中间件
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - 包装纸 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) - 包装纸 [Github](https://github.com/) API
- * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
+ * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - 客户 [Monzo API](https://monzo.com/docs/)
  * [crystal-swapi](https://github.com/sb89/crystal-swapi) - 星球大战API（SWAPI）包装器
  * [crystal_slack](https://github.com/manastech/crystal_slack) - 解析Slack斜杠命令或发送传入Web挂钩的工具
  * [discordcr](https://github.com/meew0/discordcr) - 极简主义的Discord API库
@@ -472,6 +473,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) - 开源高效且具有凝聚力的Web应用程序框架
+ * [athena](https://github.com/blacksmoke16/athena) - 基于模块化，注释，面向API的框架，内置参数转换
  * [kemal](https://github.com/kemalcr/kemal)   -  Lightning Fast，超级简单的Web框架.  灵感来自Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - 一个WebSocket优先的面向对象框架（基于Kemal）
  * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，花更多时间在代码上而不是调试和编写测试

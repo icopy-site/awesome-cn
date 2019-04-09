@@ -383,6 +383,8 @@ MOOC课程/教程
  * Kubernetes的一些容器存储接口插件列表.  查看 [Kubernetes-CSI](https://kubernetes-csi.github.io/docs/) 了解更多信息*
 
 * [AWS EBS](https://github.com/kubernetes-sigs/aws-ebs-csi-driver)
+* [AWS EFS](https://github.com/kubernetes-sigs/aws-efs-csi-driver)
+* [AWS FSx for Lustre](https://github.com/kubernetes-sigs/aws-fsx-csi-driver)
 * [Linode Block Storage](https://github.com/linode/linode-blockstorage-csi-driver)
 * [Ceph](https://github.com/ceph/ceph-csi)
 * [Cloudscale](https://github.com/cloudscale-ch/csi-cloudscale)
@@ -765,7 +767,7 @@ Projects
 ## Machine Learning
 
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
-* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) - 为ML / MXNet工具是Kubernetes.
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务

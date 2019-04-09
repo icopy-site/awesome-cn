@@ -69,16 +69,17 @@
 ### Useful References
 - [The Original](https://github.com/sindresorhus/awesome) - 令人敬畏的精彩列表清单.
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 为那些希望转向自动化的人学习编码
-- [Application Security](https://github.com/paragonie/awesome-appsec) - 令人难以置信的广泛，但你会找到适合该法案的东西.
+- [Application Security](https://github.com/paragonie/awesome-appsec) - 令人难以置信的广泛，但你会找到符合条件的东西.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - 如果你知道自己想要什么，那么比搜索谷歌更好.
 - [Security](https://github.com/sbilly/awesome-security) - 这主要集中在基础设施上，但如果您正在测试一系列系统，这非常有用.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - 免费软件测试和验证资源列表.
+- [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - 一个（相对较新的）精选的黄瓜和小黄瓜相关资源列表.
 
 ## Others
-- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - 来自测试人员的协作播放列表，用于红雾下降时.
+- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Testers.io](http://www.testers.io/)   - 社区懒散的测试人员讨论一切和咆哮.  大部分都是咆哮.
 - [Software Testing Conferences](http://testingconferences.org/) - 软件测试会议和研讨会的清单.
-- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常错误的待办事项清单，以促进面对面的采访.
+- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常错误的待办事项列表，以促进面对面的采访.
 
 ## Contributing
 查看*真棒测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.

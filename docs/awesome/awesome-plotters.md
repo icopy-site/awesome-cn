@@ -39,6 +39,7 @@
 - [Plotter Pen STL Models](https://www.thingiverse.com/thing:227985) - 短标准和长标准绘图笔的精确STL模型.
 - [Pens for AxiDraw](https://wiki.evilmadscientist.com/Pens_for_AxiDraw) - 适合一般绘图仪滥用的笔列表.
 - [Pens for EggBot](https://wiki.evilmadscientist.com/Pen_choices) - 以蛋和玻璃为重点的笔建议，但仍然是普遍适用的信息.
+- [JetPens – The Best White Ink Pens](https://www.jetpens.com/blog/the-best-white-ink-pens/pt/340) - 全面审查许多白色墨水笔，并附有其覆盖特征的图片.
 
 ## Software
 

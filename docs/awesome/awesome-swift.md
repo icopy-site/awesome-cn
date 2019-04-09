@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  957 |  2019年3月30日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  958 |  2019年4月8日
 
 
 
@@ -63,7 +63,7 @@
 
 * [iOS project template](https://github.com/messeb/ios-project-template) - 带有fastlane通道的iOS项目模板，Travis CI作业和Codecov的GitHub集成，用于SwiftLint和Danger的HoundCI.
 * [Swift 3 VIPER Module Template](https://github.com/Juanpe/Swift-VIPER-Module) -  VIPER架构的Xcode模板.
-* [Swift Module Template](https://github.com/fulldecent/swift4-module-template) - 令人敬畏的，可重复使用的模块的一个自以为是的起点.
+* [Swift Module Template](https://github.com/fulldecent/swift5-module-template) - 令人敬畏的，可重复使用的模块的一个自以为是的起点.
 
 ## REPL
 
@@ -169,7 +169,7 @@
 * [Kinieta](https://github.com/mmick66/kinieta) - 适用于iOS的简单动画引擎，具有直观的API和可读代码.
 * [Pastel](https://github.com/cruisediary/Pastel) - 像Instagram一样的渐变动画效果.
 * [Poi](https://github.com/HideakiTouhara/Poi) -  Poi让你像使用tinder UI一样使用卡片UI.你可以像tableview方法一样使用它.
-* [Presentation](https://github.com/hyperoslo/Presentation) - 一个库，可以帮助您制作教程，发行说明和动画页面.
+* [Presentation](https://github.com/hyperoslo/Presentation) - 一个帮助您制作教程，发行说明和动画页面的库.
 * [Pulsator](https://github.com/shu223/pulsator) -  iOS的脉冲动画.
 * [Sica](https://github.com/cats-oss/Sica)   - 简单的界面核心动画.  以顺序或并行方式运行类型安全的动画.
 * [Spring](https://github.com/MengTo/Spring) - 用于简化iOS动画的库.
@@ -240,7 +240,7 @@
 
 * [Cely](https://github.com/chaione/Cely) - 即插即用登录框架.
 * [InstagramLogin](https://github.com/AnderGoig/InstagramLogin) - 验证Instagram帐户的简单方法.
-* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - Simple view controller to log in and retrieve an access token from LinkedIn.
+* [LinkedInSignIn](https://github.com/serhii-londar/LinkedInSignIn) - 用于从LinkedIn登录和检索访问令牌的简单视图控制器.
 * [LoginKit](https://github.com/IcaliaLabs/LoginKit) -  LoginKit是一种向您的iOS应用程序添加登录/注册UX的快捷方式.
 * [ReCaptcha](https://github.com/fjcaetano/ReCaptcha) -  [In]可见的ReCaptcha for iOS.
 * [Simplicity](https://github.com/SimplicityMobile/Simplicity) - 在iOS和OS X应用程序中实现Facebook和Google登录的简单方法.
@@ -278,7 +278,7 @@
 * [Chatto](https://github.com/badoo/Chatto) - 用于构建聊天应用程序的轻量级框架.
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - 一个简单且易于定制的InputAccessoryView，用于制作具有自动完成功能和附件的强大输入栏.
 * [MessageKit](https://github.com/MessageKit/MessageKit) - 社区驱动的JSQMessagesViewController替代品.
-* [MessengerKit](https://github.com/steve228uk/MessengerKit) - 用于构建信使接口的UI框架.
+* [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
 * [Real-time Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - 使用MessageKit与Firebase Firestore实现功能性实时聊天应用.
 
 ### Colors
@@ -337,7 +337,7 @@
 * [Cadmium](https://github.com/jmfieldman/cadmium) - 隐藏托管对象上下文复杂性的框架.
 * [CoreStore](https://github.com/JohnEstropia/CoreStore) - 处理核心数据的简单而优雅的方式.
 * [DataKernel](https://github.com/mrdekk/DataKernel)   -  DataKernel是Core Data堆栈的简约包装器，可简化持久性操作.  没有外部依赖.
-* [Graph](https://github.com/CosmicMind/Graph) -  Core Data的优雅数据驱动框架.
+* [Graph](https://github.com/CosmicMind/Graph) - An elegant data-driven framework for Core Data.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) - 更快捷的核心数据堆栈.
 * [JustPersist](https://github.com/justeat/JustPersist) - 使用Core Data支持开箱即用，在iOS上执行持久性的最简单，最安全的方法.
 * [QueryKit](https://github.com/QueryKit/QueryKit) - 使用核心数据过滤的简便方法.
@@ -378,6 +378,7 @@
 * [DefaultsKit](https://github.com/nmdias/DefaultsKit) - 适用于iOS，macOS和tvOS的简单，强类型UserDefaults.
 * [Palau](https://github.com/symentis/Palau) - 使用自定义规则键入安全NSUserDefaults.
 * [Prephirences](https://github.com/phimage/Prephirences) - 管理应用程序首选项，NSUserDefaults，iCloud，Keychain等.
+* [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) -  UserDefaults和NSUserDefaults上的轻量级包装器，带有额外的AES-256加密层.
 * [Storez](https://github.com/SwiftKitz/Storez) - 安全，静态类型，与存储无关的键值存储.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
@@ -470,7 +471,7 @@
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - 轻松的NSDate管理.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - 时间和日历操作库.
 * [Time](https://github.com/dreymonde/Time) - 由泛型驱动的类型安全时间计算.
-* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
+* [Timepiece](https://github.com/naoty/Timepiece) - 直观的NSDate扩展.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
 ### Dependency Injection
@@ -527,10 +528,10 @@
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
-* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - Modern thread-safe and type-safe key-value observing.
+* [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 现代线程安全和类型安全的键值观察.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步承诺编程lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)   -  ReactiveCocoa（RAC）是一个受功能反应式编程启发的Cocoa框架.  它提供了用于组合和转换值流的API.
-* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - A framework for reactive and unidirectional application architecture.
+* [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 反应式和单向应用架构的框架.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce)   - 反应性实现状态容器模式（如Redux）.  它基于状态不变性和单向数据流的简单概念.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
@@ -814,7 +815,7 @@
 * [OAuth2](https://github.com/p2/OAuth2) -  oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - 适用于iOS的OAuth库.
 * [PeerKit](https://github.com/jpsim/PeerKit) - 构建事件驱动的零配置Multipeer Connectivity应用程序的框架.
-* [Pitaya](https://github.com/johnlui/Pitaya) ：企鹅： - 偶然在机器上执行的HTTP / HTTPS网络库.
+* [Pitaya](https://github.com/johnlui/Pitaya) :penguin: - HTTP / HTTPS networking library just incidentally execute on machines.
 * [PMHTTP](https://github.com/postmates/PMHTTP) -  HTTP框架，重点关注REST和JSON.
 * [Postal](https://github.com/snipsco/Postal) - 框架提供对常见电子邮件提供商的简单访问
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 使用封盖替代Apple的可达性.
@@ -1124,7 +1125,7 @@
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的UIAlertController.
 * [GSMessage](https://github.com/wxxsw/GSMessages) - 适用于iOS 7+的简单样式消息/通知.
 * [Hokusai](https://github.com/ytakzk/Hokusai) - 一个凉爽的弹性活动表库.
-* [Kamagari](https://github.com/tasanobu/Kamagari) - 简单的UIAlertController构建器类.
+* [Kamagari](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - 适用于iOS的漂亮警报控制器.
 * [Loaf](https://github.com/schmidyy/Loaf) - 简单的iOS Toast框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在iOS中显示高度可自定义的应用通知横幅的最简单方法.
@@ -1141,7 +1142,7 @@
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - 轻量级下拉消息栏.
 * [Whisper](https://github.com/hyperoslo/Whisper) - 消息和应用内通知变得简单.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - 完全可定制和可扩展的动作表控制器.
-* [Zingle](https://github.com/hemangshah/Zingle) -  UINavigationBar下方将显示警报.
+* [Zingle](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
 
 #### ApplicationDelegate
 [back to top](#readme) 
@@ -1215,7 +1216,7 @@
 * [Nantes](https://github.com/instacart/Nantes) -  TTTAttributedLabel替换.
 * [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
-* [Translucid](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
+* [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
 * [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -  iOS的三角形角标签视图.
 
 #### Menu
@@ -1234,7 +1235,7 @@
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 具有图像和块（闭包）支持的`UIMenuItem`.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - 启用分页视图控制器.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) -  PagingKit提供可自定义的菜单UI.
-* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - Paging view controller with customizable menu.
+* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - 具有可自定义菜单的分页视图控制器.
 * [Panels](https://github.com/antoniocasero/Panels) - 面板是一个可以轻松地将滑动面板添加到应用程序的框架.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 具有高度可自定义菜单的分页视图控制器，构建在UICollectionView上.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于iOS的酷炫且可自定义的弹出式动作表.
@@ -1371,7 +1372,7 @@
 * [Shoyu](https://github.com/yukiasai/Shoyu) - 更简单的方式来表示UITableView的结构.
 * [SwiftyComments](https://github.com/tsucres/SwiftyComments) - 可扩展/可折叠单元格的嵌套层次结构，可轻松构建优雅的讨论线程.
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 基于Stock.app股票的可滑动UITableViewCell.
-* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - 适用于iOS的令人敬畏的可扩展，可折叠的tableview单元格.
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
 
 #### Walkthrough
 [back to top](#readme) 

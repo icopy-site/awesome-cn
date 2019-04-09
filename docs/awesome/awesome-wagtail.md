@@ -55,6 +55,7 @@
 - [UWKM Streamfields](https://github.com/UWKM/uwkm_streamfields) - 基本的Wagtail StreamField模块可以获得乐趣和利润.
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - 通过它们包含的StreamField块搜索Wagtail页面.
 - [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) - 具有实时PrismJS语法突出显示功能的Wagtail CMS的StreamField代码块.
+- [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - 一系列令人敬畏的Wagtail CMS流场块和图表.
 
 ### Static site generation
 
@@ -63,7 +64,7 @@
 
 ### Settings management
 
-- [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) -  Wagtail CMS的django-constance集成.
+- [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
 - [Wagtail-Flags](https://github.com/cfpb/wagtail-flags) -  Wagtail网站的功能标志.
 
 ### E-commerce
@@ -197,7 +198,7 @@
 - [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) 作者：Daniele Procida.
 - [Chopping the head off Wagtail and sticking it back on – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=152s) 托尼耶茨.
 - [StreamField editor at UWKM – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=400s) 作者：Geert Jan Hoogeslag.
-- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) by Codie Roelf.
+- [Things i learned at Wagtail Space – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=719s) 作者：Codie Roelf.
 - [Fly Wagtail to a PyCon – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=912s) 作者：Daniele Procida.
 - [Wagtail Performance – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1345s) 作者：Michael van Tellingen. [Code](https://gist.github.com/mvantellingen/daebda6abbaa9a5ed0888f886a77fcf0).
 - [Mutliple images uploader – Wagtail Space 2018](https://www.youtube.com/watch?v=u0CPaXRSOzI&t=1661s) 作者：Rajeev J Sebastian.

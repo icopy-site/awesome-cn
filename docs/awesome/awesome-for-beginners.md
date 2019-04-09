@@ -92,7 +92,7 @@
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  只是一个博客平台
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  令人敬畏的ESLint规则.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JS / HTML / CSS终端
-- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
+- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：Up-For-Grabs）_ <br>  一个轻量级JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wanted-easy）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Hoodie Camp是新的和现有的贡献者的空间.
@@ -105,11 +105,11 @@
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
-- [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
+- [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  建立伟大机器人的唯一理智方式.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  Operation Code是一个非盈利组织，通过指导，奖学金和提供支持性社区帮助退伍军人及其家人进入科技行业.
+- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly) _(label:beginner-friendly)_ <br> Operation Code is a non-profit organization that are helping Veterans and their families get into the tech industry through mentorships, scholarships, and providing a supportive community.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
@@ -211,4 +211,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.

@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-	 <sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可.</sub>  <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter上</a>关注我.</sub>
+	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
 </p>
 <br>
 
@@ -42,6 +42,7 @@
 ## Platforms
 
 - [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于Chrome的V8 JavaScript引擎构建的异步非阻塞事件驱动的JavaScript运行时.
+	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) -  Apple手机和平板电脑的移动操作系统.
 - [Android](https://github.com/JStumpp/awesome-android#readme)
@@ -426,6 +427,7 @@
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
 - [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用和服务的安全性.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术.
+- [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统安全漏洞的个人团体.
 
 
 
@@ -583,7 +585,7 @@
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
 - [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
-- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - Parasites and host-pathogen interactions.
+- [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.
 - [Mental Health](https://github.com/dreamingechoes/awesome-mental-health#readme) - 软件行业的心理健康意识和自我保健.
 - [Bitcoin Payment Processors](https://github.com/alexk111/awesome-bitcoin-payment-processors#readme) - 开始接受比特币.

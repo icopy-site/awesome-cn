@@ -226,7 +226,7 @@ GUI
 *  [Qtools](https://github.com/Shinmera/qtools/)   - 基于CommonQt的Qt工具包.  [艺术许可2.0] [51]此外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件），用 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
 *：明星： [CommonQt](https://github.com/commonqt/commonqt)   - 通过QtSmoke对Qt4进行Common Lisp绑定.  [FreeBSD的] [39].
 *：明星： [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
-* [nodgui](https://notabug.org/cage/nodgui)   - 基于Ltk的Tk工具包的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
+* [nodgui](https://notabug.org/cage/nodgui) - Bindings for the Tk toolkit, based on Ltk, with syntax sugar and additional widgets. [LLGPL][8].
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)   - 绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)   -  GTK + 2的绑定.  [LLGPL] [8].
 * [ceramic](https://ceramic.github.io/)   - 使用Electron的桌面Web应用程序.  [外籍] [14].
@@ -256,7 +256,7 @@ Implementations
 
 Proprietary:
 
-* [Lispworks](http://www.lispworks.com/) - an integrated cross-platform development tool for Common Lisp.
+* [Lispworks](http://www.lispworks.com/) -  Common Lisp的集成跨平台开发工具.
 * [Allegro CL](https://franz.com/products/allegro-common-lisp/) - 提供具有许多扩展的完整ANSI Common Lisp标准.
 * [MOCL](https://wukix.com/mocl) -  CL作为移动设备（iOS和Android）和OSX的库.
 
@@ -495,7 +495,7 @@ HTTP服务器
 ------------
 * [Clack](https://github.com/fukamachi/clack)   - 受Rack和WSGI启发的Web应用程序环境.  [LLGPL] [8].  为所选的Web服务器提供统一的界面（默认为Hunchentoot）.
 *：明星： [Hunchentoot](http://weitz.de/hunchentoot/)   -  Web服务器.  [2条款BSD] [207]
-* [aserve](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8].
+* [aserve](https://github.com/franzinc/aserve)   -  AllegroServe;  一个Web服务器.  [LLGPL] [8].
 * [wookie](https://github.com/orthecreedence/wookie)   - 异步HTTP服务器.  [外籍] [14].
 * [woo](https://github.com/fukamachi/woo)   -  libev上的快速非阻塞HTTP服务器.  [MIT] [200].
 
@@ -547,7 +547,7 @@ Web框架
 有关xpath库的信息，请参阅下面的XML部分.
 
 
-HTML generators and templates
+HTML生成器和模板
 -----------------------------
 *  [spinneret](https://github.com/ruricolist/spinneret)   -  Common Lisp HTML5生成器.  [外籍] [14].
 * [flute](https://github.com/ailisp/flute) - 一个易于组合的HTML5生成库
@@ -663,7 +663,7 @@ Others
 ========================
 
 * [magicl](https://github.com/rigetticomputing/magicl)   -  Matrix Algebra proGrams在Common Lisp中基于BLAS / LAPACK和Expokit，由Rigetti Computing提供.  [BSD_3Clause] [15].
-* [cl-spark](https://github.com/tkych/cl-spark)   - 为数字列表生成迷你字符串.  [外籍] [14].
+* [cl-spark](https://github.com/tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
 * [GSLL](https://common-lisp.net/project/gsll/)   - 用于Lisp的GNU科学图书馆;  允许使用Common Lisp中的GSL.  [GNU LGPL2.1] [11].
 * [common-lisp-stat](https://github.com/blindglobe/common-lisp-stat/)   -  Common Lisp统计库.  [FreeBSD的] [39].
 * [maxima](http://maxima.sourceforge.net/)   - 计算机代数系统.  在Quicklisp上不可用.  [GNU GPL3] [2].
@@ -798,9 +798,9 @@ Scripting
 
 ## Atom ##
 
-* [ATOM-SLIME](https://atom.io/packages/atom-slime) 允许你
-  交互式开发Common Lisp代码，帮助将Atom变成一个
-   全功能的Lisp IDE.  [MIT] [200].
+* [SLIMA](https://github.com/neil-lindquist/slima) 允许你
+  交互式开发Common Lisp代码，将Atom变成了一个
+   相当不错，积极开发Lisp IDE.  [MIT] [200].
 
 ## Sublime Text ##
 
@@ -846,7 +846,7 @@ Tools
 单元测试
 ============
 
-*：明星： [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Rove](https://github.com/fukamachi/rove)   -  Rove是Common Lisp应用程序的单元测试框架.  它的目的是成为继承者 [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
@@ -861,7 +861,7 @@ Tools
    库将测试覆盖率发布到Coveralls.  看到
   [continuous-integration on lisp-lang.org](http://lisp-lang.org/learn/continuous-integration)
   和
-  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover) .  [FreeBSD的] [39].
+  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
 
 
 Utilities
@@ -983,7 +983,7 @@ Plotting
    octave或matlab的绘图命令.  [GPL3] [2].
 * [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的Gnuplot库.  随着它
-  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
+  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLPPL] [8]
 
 
 Other
@@ -999,10 +999,10 @@ Other
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
-* [mixalot](https://github.com/ahefner/mixalot)   - 松散耦合的音频库集合.  未指定许可证.
+* [mixalot](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)   - 以生产力为重点，可扩展/可编程的Web浏览器.  [3条款BSD] [15].
-* [Salza2](http://www.xach.com/lisp/salza2/)   - 用于创建压缩数据的库.  [FreeBSD的] [39].
+* [Salza2](http://www.xach.com/lisp/salza2/)   - 质量数据库.  [FreeBSD的] [39].
 * [simple-currency](https://github.com/a0-prw/simple-currency)   - 使用欧洲央行公布的每日信息的货币转换库.  [FreeBSD的] [39].
 * [template](https://bitbucket.org/tarballs_are_good/template)   - 模板和函数库，类似于C ++.  [3条款BSD] [15].
 * [texp](http://mr.gy/software/texp/)   - 用于生成TeX的DSL.  未指定许可证.
@@ -1015,7 +1015,7 @@ XML
 ===
 
 * [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
- * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
+ * [丰满] [71]  - 一个宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].
 * [xmls](http://quickdocs.org/xmls/)   - 一个小而简单，无需验证的XML解析器.  [3条款BSD] [15].

@@ -12,6 +12,7 @@
 
 
 
+
 ## Programming Languages/Frameworks/Platforms
 
 ### Android
@@ -249,7 +250,6 @@
 * [100 PHP interview questions and answers from CareerRide.com](http://www.careerride.com/PHP-Interview-Questions.aspx)
 * [21 Essential PHP Interview Questions from Toptal](http://www.toptal.com/php/interview-questions)
 * [20 Common PHP Job Interview Questions and Answers](http://www.woodstitch.com/resources/php-interview-questions.php)
-* [Basic PHP interview questions](https://github.com/developerquestions/php-questions)
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
@@ -340,6 +340,10 @@
 
 ### WordPress
 * [Top 45 WordPress interview questions](https://pangara.com/blog/45-wordpress-interview-questions-and-answers)
+
+### TypeScript
+
+* [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
 
 ## Database technologies
 

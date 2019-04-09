@@ -38,7 +38,7 @@ _Projects以开源许可证发布._
 - [Latte Dock](https://liberapay.com/latte-dock) - 等离子桌面的替换底座.
 - [LibrePCB](https://www.patreon.com/librepcb) - 开发印刷电路板的软件. 
 - [Machine Labs](https://www.patreon.com/machinelabs) - 机器学习平台.
-- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - 联合社交网络服务器.  
+- [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) - Federated social network server.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) - 用于安全，分散通信的开放网络.
 - [Milton Paint](https://www.patreon.com/serge_rgb) - 绘图应用程序. 
 - [MissKey](https://www.patreon.com/syuilo) - 联邦微博平台.
@@ -125,6 +125,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) -  PhotoFlow图像编辑器的开发者，维护各种Appimage包.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) -  LibreOffice设计师.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - 编程教程，游戏和mods.
+- [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎和更多项目
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - 维护Visual Studio Code的CMake工具，创建视频教程.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
@@ -196,7 +197,7 @@ _文章，视频，播客等......
 - [CS Dojo](https://www.patreon.com/csdojo) - 编程视频.
 - [Corey Schafer](https://www.patreon.com/coreyms) -  Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - 编程，开发和电子视频.
-- [Fun Fun Function](https://patreon.com/funfunfunction) - JavaScript and general programming videos.
+- [Fun Fun Function](https://patreon.com/funfunfunction) -  JavaScript和一般编程视频.
 - [JustForFunc](https://www.patreon.com/justforfunc) - 去教程.
 - [LiveOverflow](https://www.patreon.com/liveoverflow) -  IT安全视频.
 - [The Coding Train](https://www.patreon.com/codingtrain) - 编程教程.
