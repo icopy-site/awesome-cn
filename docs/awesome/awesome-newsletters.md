@@ -150,6 +150,7 @@
 - [Go Newsletter](https://golangweekly.com/) .  关于Go编程语言的每周简报. [Archive](https://golangweekly.com/issues).
 - [Awesome Go Newsletter](https://go.libhunt.com/newsletter) .  每周概述最受欢迎的Go新闻，文章和图书馆.
 - [Master the World of Golang](https://www.getrevue.co/profile/golang) .  每周时事通讯，内容包括理论，趋势，工具和主题.
+- [Go Gazette](http://www.go-gazette.com/) .  每周为Golang老年人策划的博客和工具.
 
 ### R
 

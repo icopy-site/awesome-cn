@@ -57,7 +57,7 @@
 * [Genann](https://github.com/codeplea/genann) -  C中的简单神经网络库.[zlib]
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Scala，Go，Javascript等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
-* [Recast/Detour](https://github.com/recastnavigation/recastnavigation)   - （3D）导航网格生成器和探路者，主要用于游戏.  [ZLIB]
+* [Recast/Detour](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 使用数据流图进行数值计算的开源软件库[Apache]
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  [促进]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)   -  C ++ 11中仅限标题，无依赖性的深度学习框架.  [BSD]
@@ -97,7 +97,7 @@
 
 * [BioC++](http://biocpp.sourceforge.net/)   - 用于生物信息学的C ++计算库.  [BSD]
 * [Chaste](http://www.cs.ox.ac.uk/chaste/)   - 一个开源C ++库，用于为生理学和生物学开发的数学模型的计算模拟.  [BSD]
-* [libsequence](http://molpopgen.github.io/libsequence/)   - 用于表示和分析群体遗传学数据的C ++库.  [GPL]
+* [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
 * [SeqAn](http://www.seqan.de/)   - 用于分析序列的算法和数据结构，重点是生物数据.  [BSD / 3-子句]
 * [Vcflib](https://github.com/ekg/vcflib)   - 用于解析和操作VCF文件的C ++库.  [MIT]
 * [Wham](https://github.com/zeeev/wham)   - 通过直接将关联测试应用于BAM文件，在基因组中的结构变体（SV）.  [MIT]
@@ -302,6 +302,7 @@
 * [PixelGameEngine](https://github.com/OneLoneCoder/olcPixelGameEngine)   -  olcPixelGameEngine的官方发行版，这是javidx9的YouTube视频和项目中使用的工具.  [OLC3]
 * [Polycode](https://github.com/ivansafrin/Polycode)   -  C ++中创造性代码的跨平台框架（使用Lua绑定）.  [MIT] [website](http://polycode.org/)
 * [raylib](https://github.com/raysan5/raylib)   - 一个简单易用的图书馆，享受视频游戏编程.  [ZLIB /的libpng] [website](http://www.raylib.com/)
+* [Spring](https://github.com/spring/spring)   - 功能强大的免费跨平台RTS游戏引擎.  [在GPLv2 / GPLv3的] [website](https://springrts.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)   - 为2D游戏开发而构建的开源和跨平台C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)   - 为3D游戏开发而构建的开源C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-3d)
 * [toy engine](https://toyengine.io/) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
@@ -314,7 +315,7 @@
 * [FLTK](http://www.fltk.org/index.php)   - 快速，轻便，跨平台的C ++ GUI工具包.  [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI)   -  GPU加速C ++用户界面，具有WYSIWYG开发工具，XML支持，内置数据绑定和MVVM功能.  [MS-PL]
 * [GTK+](http://www.gtk.org/)   - 用于创建图形用户界面的多平台工具包.  [LGPL]
-* [gtkmm](http://www.gtkmm.org/en/) - The official C++ interface for the popular GUI library GTK+. [LGPL]
+* [gtkmm](http://www.gtkmm.org/en/)   - 流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)   - 具有最小依赖性的即时模式图形用户界面.  [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup)   - 用于构建图形用户界面的多平台工具包.  [MIT]
 * [libRocket](http://librocket.com/)   -  libRocket是一个C ++ HTML / CSS游戏界面中间件.  [MIT]
@@ -553,7 +554,7 @@
 * [nghttp2](https://github.com/nghttp2/nghttp2)   -  HTTP / 2 C库.  [MIT] [website](https://nghttp2.org/)
 * [Onion](https://github.com/davidmoreno/onion)   -  C语言中的HTTP服务器库，重量轻，易于使用.  [Apache2的/ GPL2]
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser)   - 一个微小的，原始的，快速的HTTP请求/响应解析器.  [MIT]
-* [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
+* [POCO](https://github.com/pocoproject)  ：zap： - 用于构建在桌面，服务器，移动和嵌入式系统上运行的基于网络和互联网的应用程序的C ++类库和框架.  [促进] [website](http://pocoproject.org/)
 * [Proxygen](https://github.com/facebook/proxygen)   -  Facebook的C ++ HTTP库集合，包括易于使用的HTTP服务器.  [BSD]
 * [RakNet](https://github.com/OculusVR/RakNet)   - 面向游戏程序员的跨平台，开源，C ++网络引擎.  [BSD]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)   - 用于C ++的简单REST客户端.  它为HTTP请求包装了libcurl.  [MIT]
@@ -565,7 +566,7 @@
 * [WAFer](https://github.com/riolet/WAFer)   - 基于AC语言的超轻型软件平台，适用于可扩展的服务器端和网络应用.  想想C程序员的node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)   - 用于构建异步，事件驱动的现代C ++服务的客户端/服务器应用程序框架.  [Apache的2.0]
 * [wdt](https://github.com/facebook/wdt)   - 可嵌入的库（和命令行工具），旨在通过多个TCP路径尽可能快地在两个系统之间传输数据.  [BSD -3-第]
-* [WebSocket++](https://github.com/zaphoyd/websocketpp)   - 基于C ++ / Boost Asio的websocket客户端/服务器库.  [BSD]
+* [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)   - 多平台C ++网络嗅探和数据包解析和制作框架.  [授予许可]
 
 ## PDF
@@ -598,6 +599,7 @@
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)   - 使用clang的C ++反射.  [MIT]
 * [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
+* [Magic Enum](https://github.com/Neargye/magic_enum)   - 仅限标头的C ++ 17库为枚举（字符串，字符串，迭代）提供静态反射，可以使用任何枚举类型而无需任何宏或样板代码.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
@@ -704,7 +706,7 @@
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
 * [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)   - 基于C ++和Qt的高速和全栈Web应用程序框架，支持HTTP和WebSocket协议（带O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
-* [Wt](http://www.webtoolkit.eu/wt)   - 用于开发Web应用程序的C ++库.  [GPL /商业]
+* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
 
 ## XML
  * XML是废话.  真.  没有任何借口.  XML对于解析人类来说是令人讨厌的，甚至对于计算机也是一种解析的灾难.  没有理由存在那种可怕的废话.   -  Linus Torvalds *
@@ -749,7 +751,7 @@
 * [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]
-* [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
+* [Scintilla](http://scintilla.org/)   - 免费的源代码编辑组件.  [MIT]
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
 * [semver.c](https://github.com/h2non/semver.c) - 一个semver解析器并以ANSI C渲染.[MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial)   - 用C ++编写的跨平台串行端口库.  [MIT]
@@ -764,7 +766,7 @@
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet)  用于左值，右值等的PDF备忘单.  [Jank copyleft]
 * [VarTypes](https://code.google.com/p/vartypes/)   - 一个功能丰富，面向对象的框架，用于管理C ++ / Qt4中的变量.  [LGPL]
 * [ZBar](http://zbar.sourceforge.net/)   - 条形码扫描仪库，允许扫描照片/图像/视频流以获取条形码并返回其值.  [LGPL2]
-* [ZXing](https://github.com/zxing/zxing/) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [ZXing](https://github.com/zxing/zxing/)   - 用Java实现的开源，多格式1D / 2D条形码图像处理库，具有其他语言的端口.  [阿帕奇]
 
 ## Software
 *用于创建开发环境的软件.*
@@ -777,9 +779,9 @@
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的AC编译器.  支持C ++ 11/14 / 1z C11.  由LLVM团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)   -  GNU编译器集合.  支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)   - 一个非常古老的C编译器.  支持C99.
-* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
+* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
 * [LLVM](http://llvm.org/) - 收集模块化和可重用的编译器和工具链技术.
-* [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - 由Microsoft开发的MSVC.
+* [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
 * [Open WatCom](http://www.openwatcom.org/index.php/Main_Page)   -  Watcom C，C ++和Fortran交叉编译器和工具.  [Sybase Open Watcom公共许可证]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)   - 用于SPARC和x86的C，C ++和Fortran编译器.  支持C ++ 11.  适用于Linux和Solaris.  [OTN开发者许可]
 * [TCC](http://bellard.org/tcc/)   -  Tiny C编译器.  [LGPL]
@@ -799,7 +801,7 @@
 * [Wandbox](http://melpon.org/wandbox/) - 提供Boost的在线Clang / GCC编译器.
 
 ## Debugger
-* C或C ++调试器列表*
+*List of C or C++ debuggers*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -  GNU调试器.
@@ -819,7 +821,7 @@
 * [CodeLite](http://codelite.org/)   - 另一个跨平台，免费的C和C ++ IDE.  [插件除外的GPL2]
 * [color_coded](https://github.com/jeaye/color_coded)   - 基于libclang的突出显示的vim插件.  [MIT]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 便携式C / C ++ / C ++ 11 IDE.
-* [Eclipse CDT](http://www.eclipse.org/cdt/) - A fully functional C and C++ IDE based on the Eclipse platform.
+* [Eclipse CDT](http://www.eclipse.org/cdt/) - 基于Eclipse平台的全功能C和C ++ IDE.
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
 * [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
@@ -894,8 +896,8 @@
 * [CppCon 2017 Presentation Materials](https://github.com/CppCon/CppCon2017) -  CppCon 2017年演讲材料.
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) -  CppCon 2016演示材料.
 * [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) -  CppCon 2015演示材料.
-* [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.
-* [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - Presentation materials presented at C++Now 2018.
+* [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) -  CppCon 2014演讲材料.
+* [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - 介绍材料在C ++ Now 2018年展出.
 * [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) -  2017年C ++上的演讲材料.
 * [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) -  2016年C ++上的演讲材料.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - 在C ++ Now 2015上展示的演示材料.

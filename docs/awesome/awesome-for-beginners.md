@@ -80,7 +80,7 @@
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  允许你拆分的Angular指令！
 - [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  JavaScript的最小功能历史库.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：第一次撰稿人）_ <br>  通过在许多Javascript应用程序中实现Todo，帮助您选择MV \ *框架.
-- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门bug）_ <br>  一个用于Web的开源代码编辑器，用JavaScript，HTML和CSS编写.
+- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：easy-pick）_ <br>  一个脱机优先的JavaScript客户端利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript中的模式.
@@ -92,7 +92,7 @@
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  只是一个博客平台
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  令人敬畏的ESLint规则.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JS / HTML / CSS终端
-- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
+- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：Up-For-Grabs）_ <br>  一个轻量级JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wanted-easy）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Hoodie Camp是新的和现有的贡献者的空间.
@@ -109,7 +109,7 @@
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly) _(label:beginner-friendly)_ <br> Operation Code is a non-profit organization that are helping Veterans and their families get into the tech industry through mentorships, scholarships, and providing a supportive community.
+- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  Operation Code是一个非盈利组织，通过指导，奖学金和提供支持性社区帮助退伍军人及其家人进入科技行业.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
@@ -168,6 +168,7 @@
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober special）_ <br>  用于后端Web开发的Python实现.
 - [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：级别：首发）_ <br>  有史以来最严格，最自以为是的蟒蛇皮！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
+- [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个开源聊天操作框架.
 
 ## Ruby
 
@@ -211,4 +212,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.

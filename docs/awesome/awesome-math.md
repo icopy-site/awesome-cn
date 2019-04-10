@@ -108,8 +108,8 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) -  Thomas Streicher
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - 哈罗德西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) -  Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) -  B.职位
-* [Category Theory for Computing Science](http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔巴尔，查尔斯威尔斯
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) -  B.义务
+* [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔巴尔，查尔斯威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - 迈克尔巴尔，查尔斯威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) -  PJ希金斯
@@ -169,6 +169,8 @@
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - 罗伯特豪利特
 * [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) -  EH Connell（迈阿密大学）
 * [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - 罗伯特阿什
+* [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - 本尼迪克特格罗斯
+* [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - 本尼迪克特格罗斯
 
 ### Group Theory
 
@@ -192,6 +194,7 @@
 * [Introduction to vectors and tensors, Vol 1: linear and multilinear algebra](http://oaktrust.library.tamu.edu/handle/1969.1/2502) - 王炜博士，王敏
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - 王炜博士，王敏
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) -  Stephen Boyd（斯坦福大学），Lieven Vandenberghe（加州大学洛杉矶分校）
+* [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖特里尔
 
 ### Ring Theory
 
@@ -294,6 +297,7 @@
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - 威尔弗雷德卡普兰，唐纳德J.刘易斯
 * [Introduction to Calculus I and II](http://www.math.odu.edu/~jhh/counter10.html) -  JH Heinbockel
 * [Active Calculus](http://faculty.gvsu.edu/boelkinm/Home/Active_Calculus.html) - 马特博克金斯
+* [Supplements to the Exercises in Chapters 1-7 of Walter Rudin's "Principles of Mathematical Analysis"](https://math.berkeley.edu/~gbergman/ug.hndts/#Rudin) - 乔治M.伯格曼
 
 ### Harmonic Analysis
 
@@ -324,8 +328,7 @@
 * [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) -  Alexander CR Belton
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) -  Gerald Teschl
 * [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) -  Christian Remling
-* [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) -
-Shlomo Sternberg
+* [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) -  Shlomo Sternberg
 * [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) -  Lawerence Baggett
 
 ### Measure Theory

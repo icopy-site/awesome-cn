@@ -47,7 +47,7 @@
 * [PhalconPHP-Setup-Example](https://github.com/ewartx/PhalconPHP-Setup-Example) -  Phalcon Framework + Grunt + Composer + Bower
 * [Solid Layer](https://github.com/solid-layer/solid-layer) - 在Phalcon Framework下构建的框架/大型包装器
 * [Vökuró](https://github.com/phalcon/vokuro) -  Phalcon Framework的示例应用程序（Acl，Auth，安全性）
-* [Webird](https://github.com/perchlayer/webird) - 创建Webird是为了将最新的PHP和Node.js创新合并到一个应用程序堆栈中
+* [Webird](https://github.com/perchlabs/webird) - 创建Webird是为了将最新的PHP和Node.js创新合并到一个应用程序堆栈中
 * [phalconMvc](https://github.com/kcloze/phalconMvc) - 一个简单的Phalcon骨架，带有子控制器，cli，mvc +服务
 
 
@@ -70,7 +70,7 @@
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - 一个简单的博客引擎，适合那些想要开始学习Phalcon的人
 * [Talon](https://github.com/adamdama/Talon) - 基于Phalcon Framework构建的CMS
 * [Vegas CMF](https://github.com/vegas-cmf) -  Phalcon Framework的Vegas CMF
-* [Yona CMS](https://github.com/oleksandr-torosh/yona-cms) - 基于Phalcon Framework的CMS，采用模块化结构
+* [Yona CMS](https://github.com/alexander-torosh/yona-cms) - 基于Phalcon Framework的CMS，采用模块化结构
 * [PhalconCMS](https://github.com/KevinJay/PhalconCMS) - 基于Phalcon Framework构建的博客
 
 
@@ -82,6 +82,11 @@
 * [phalcon-cron](https://github.com/SidRoberts/phalcon-cron) -  Phalcon的Cron组件
 * [phalcon_cron](https://github.com/temafey/phalcon_cron) - 基于Phalcon Framework的Cron管理器库
 * [php-cli-app-phalcon](https://github.com/jeteokeeffe/php-cli-app-phalcon) - 使用Phalcon Framework构建的命令行应用程序
+
+
+## Config
+
+* [Phalcon Config Loader for Yaml](https://github.com/ienaga/PhalconConfig) - 加载app / config目录中的所有yml.
 
 
 ## Dashboard
@@ -124,7 +129,7 @@
 
 ## Events
 
-*事件管理.*
+*Event management.*
 
 * [Phact](https://github.com/wandersonwhcr/phact) - 使用Phalcon Framework进行简单的事件传播
 
@@ -159,7 +164,7 @@
 *邮件服务.*
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) -  Phalcon邮件服务
-* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
+* [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - 通过SwiftMailer for Phalcon Framework的Mailer组件包装器
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) -  Phalcon Framework的Mandrill包装器
 * [sendmail](https://github.com/duythien/sendmail) - 使用Phalcon Framework和Swift发送确认电子邮件
 
@@ -202,6 +207,7 @@
 * [phalcon-mssql](https://github.com/fishjerky/phalcon-mssql) -  Phalcon Framework MSSQL PDO数据库适配器
 * [phalcon-repositories](https://github.com/micheleangioni/phalcon-repositories) -  Phalcon的Easy Repository模式
 * [phalcon-seeder](https://github.com/SidRoberts/phalcon-seeder) -  Phalcon的数据库播种器组件
+* [phalcon-redis-model](https://github.com/ienaga/RedisPlugin) - 基于redis的ORM和Easy Criteria（MySQL分片的对应关系.）
 
 ## ODM
 
@@ -214,7 +220,7 @@
 
 * [ansible-phalcon-role](https://github.com/sarrubia/ansible-phalcon-role) - 在Debian / Ubuntu中安装Phalcon Framework的可靠角色
 * [ansible-phalcon](https://github.com/HanXHX/ansible-phalcon) - 在Debian中安装Phalcon Framework的可靠角色（提供PHP 5.6和PHP 7.0包）
-* [setupify](https://github.com/perch-foundation/setupify) - 用于配置Zephir和Phalcon系统以进行部署或开发的bash脚本集合
+* [setupify](https://github.com/perchlabs/setupify) - 用于配置Zephir和Phalcon系统以进行部署或开发的bash脚本集合
 
 ## RESTful
 
@@ -241,6 +247,7 @@
 *各种路由库和扩展.*
 
 * [Phalcon-autorouter](https://github.com/kamilhurajt/Phalcon-autorouter) - 自动加载模块的简单方法，无需复杂的路由定义
+* [Phalcon Routing for Yaml](https://github.com/ienaga/PhalconRouter) - 可以使用yaml轻松配置路由
 
 
 ## Scaffolding
@@ -268,7 +275,7 @@
 * [phalcon_cart](https://github.com/uno-de-piera/phalcon_cart) -  Phalcon Framework的完整购物车系统
 * [phasty](https://github.com/chaban/phasty) -  Phalcon框架上的购物车
 * [Cashier](https://github.com/duythien/cashier) -  Phalcon收银员
-* [Yona E-commerce](https://github.com/oleksandr-torosh/yona-ecommerce) - 基于Phalcon Framework的电子商务CMF
+* [Yona E-commerce](https://github.com/alexander-torosh/yona-ecommerce) - 基于Phalcon Framework的电子商务CMF
 
 
 ## SMS
@@ -343,8 +350,7 @@
 *会议，IRC，论坛等.*
 
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) -  Facebook上的Phalcon
-* [Gab.ai](https://gab.ai/phalcon) -  Gab.ai上的Phalcon
-* [Google+](https://plus.google.com/+PhalconPHP) -  Phalcon在Google+上
+* [Gab](https://gab.com/phalcon) - 加布的Phalcon
 * [Phalcon Forums](https://forum.phalconphp.com/) -  Phalcon论坛
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) -  Gitter.im中的俄语社区聊天
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) -  StackOverflow标记的问题
@@ -352,7 +358,7 @@
 
 ## E-Books
 
-* [Phalcon PDF Documentation](https://media.readthedocs.org/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) -  Phalcon框架文档
+* [Phalcon PDF Documentation](https://buildmedia.readthedocs.org/media/pdf/phalcon-php-framework-documentation/latest/phalcon-php-framework-documentation.pdf) -  Phalcon框架文档
 
 
 ## Websites
@@ -364,6 +370,6 @@
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/) -  Phalcon文档
+* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/introduction) -  Phalcon文档
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - 文章，教程等等
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) -  Tutsplus代码课程

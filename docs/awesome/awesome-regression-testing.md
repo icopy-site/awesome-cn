@@ -7,7 +7,7 @@
 
 ## Foreword
 
- 这是关于视觉回归测试的*不完整*资源列表.  它不是针对特定区域或角色（Developer / QA / UX-Designer）定制的.  请注意，这是针对回归软件测试*的所有区域*之后编写的相关代码.  有关一般软件测试的精彩列表，请参阅例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
+This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
  最后，我确信阅读此列表的每个人都有一件他们想要添加的内容.  请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md)  页面和**随意添加到列表!! **.  如果你认为这是有帮助的**请给一个明星★**.
 
@@ -22,7 +22,7 @@
 ## Browser automation
 
 - [Selenium](https://github.com/SeleniumHQ/selenium) - 浏览器自动化框架和生态系统
-- [SlimerJS](https://github.com/laurentj/slimerjs) - 基于Firefox的PhantomJS等可编写脚本的浏览器.
+- [SlimerJS](https://github.com/laurentj/slimerjs) - 基于Firefox的可编写脚本的浏览器，如PhantomJS.
 - [trifleJS](https://github.com/sdesalas/trifleJS) -  Internet Explorer的无头自动化.
 - [CasperJS](https://github.com/casperjs/casperjs) -  PhantomJS和SlimerJS的导航脚本和测试实用程序.
 - [Webdriver.io](https://github.com/webdriverio/webdriverio/) -  W3C WebDriver协议的Node.js绑定实现.
@@ -55,7 +55,7 @@
 - [reg-cli](https://github.com/bokuweb/reg-cli) - 视觉回归测试工具，输出易于阅读的单文件html报告.
 - [Nightmare](https://github.com/segmentio/nightmare) - 基于Electron的高级浏览器自动化库.
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer) - 无头谷歌Chrome节点API.
-- [Visual Review](https://github.com/xebia/VisualReview) - A human-friendly tool for testing and reviewing visual regressions.
+- [Visual Review](https://github.com/xebia/VisualReview) - 用于测试和检查视觉回归的人性化工具.
 - [reg-suit](https://github.com/reg-viz/reg-suit) - 视觉回归测试套件，用于比较图像，存储快照，并通知您与GitHub仓库的差异.
 - [Chimp](https://github.com/xolvio/chimp) - 通过实时反馈开发验收测试和端到端测试.
 - [Differencify](https://github.com/NimaSoroush/differencify) - 使用的视觉回归测试库 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
@@ -90,6 +90,8 @@
 - [VisWiz.io](https://www.viswiz.io) - 灵活的视觉回归测试服务.
 - [Happo](https://happo.io/) - 基于云的屏幕截图测试服务，支持多种浏览器.
 - [Visual Knight](https://visual-knight.io/) - 基于云的可视化测试平台，具有测试工具的实时结果.
+- [Axcept](https://axcept.io)   - 测试整个团队.  最多100个并行测试.  端点模拟.  代码覆盖范围. 
+- [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和DOM更改比较和回归.
 
 ## Blog posts
 

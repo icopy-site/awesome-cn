@@ -3,7 +3,7 @@
 
  精选的机器学习框架，库和软件（按语言）列出的精选列表.  受到&#39;awesome-php`的启发.
 
-If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti).
+如果您想参与此列表（请执行），请发送拉取请求或与我联系 [@josephmisiti](https://twitter.com/josephmisiti).
 此外，如果符合以下情况，则应弃用列出的存储库
 
 *存储库的所有者明确说“不保留此库”.
@@ -15,7 +15,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 
 *有关在线提供的（大多数）免费机器学习课程列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
 
-*有关数据科学和机器学习的博客列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+*有关数据科学和机器学习的博客和简报列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
 
 *有关免费参加聚会和当地活动的列表，请转到 [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
@@ -157,7 +157,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Touchstone](https://github.com/ptaoussanis/touchstone)   -  Clojure A / B测试库.  ** [已过时] **
 * [Clojush](https://github.com/lspector/Clojush) - 推送编程语言和在Clojure中实现的PushGP遗传编程系统.
 * [Infer](https://github.com/aria42/infer)   -  Clojure中的推理和机器学习.  ** [已过时] **
-* [Clj-ML](https://github.com/antoniogarrote/clj-ml) - A machine learning library for Clojure built on top of Weka and friends. **[Deprecated]**
+* [Clj-ML](https://github.com/antoniogarrote/clj-ml)   - 基于Weka和朋友建立的Clojure机器学习库.  ** [已过时] **
 * [DL4CLJ](https://github.com/yetanalytics/dl4clj) -  Deeplearning4j的Clojure包装器.
 * [Encog](https://github.com/jimpil/enclog)   -  Encog（v3）的Clojure包装器（专门用于神经网络的机器学习框架）.  ** [已过时] **
 * [Fungp](https://github.com/vollmerm/fungp)   -  Clojure的遗传编程库.  ** [已过时] **
@@ -292,7 +292,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [OpenNLP](https://opennlp.apache.org/) - 基于机器学习的工具包，用于处理自然语言文本.
 * [LingPipe](http://alias-i.com/lingpipe/index.html) - 使用计算语言学处理文本的工具包.
 * [ClearTK](https://github.com/ClearTK/cleartk)   -  ClearTK提供了一个用Java开发统计自然语言处理（NLP）组件的框架，它构建在Apache UIMA之上.  ** [已过时] **
-* [Apache cTAKES](https://ctakes.apache.org/) - 阿帕奇临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
+* [Apache cTAKES](https://ctakes.apache.org/) - Apache clinical Text Analysis and Knowledge Extraction System (cTAKES) is an open-source natural language processing system for information extraction from electronic medical record clinical free-text.
 * [NLP4J](https://github.com/emorynlp/nlp4j)   -  NLP4J项目为自然语言处理提供软件和资源.  该项目始于计算机语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [已过时] **
 * [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的一系列自然语言处理（NLP）核心库，例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
 
@@ -384,7 +384,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Learn JS Data](http://learnjsdata.com/)
 * [AnyChart](https://www.anychart.com/)
 * [FusionCharts](https://www.fusioncharts.com/)
-* [Nivo](https://nivo.rocks) - 建立在令人敬畏的d3和Reactjs库之上
+* [Nivo](https://nivo.rocks) - built on top of the awesome d3 and Reactjs libraries
 
 
 <a name="javascript-general-purpose"></a>
@@ -456,7 +456,7 @@ If you want to contribute to this list (please do), send me a pull request or co
 * [Mixed Models](https://github.com/dmbates/MixedModels.jl) - 用于拟合（统计）混合效应模型的Julia软件包.
 * [Simple MCMC](https://github.com/fredo-dedup/SimpleMCMC.jl)   - 在Julia中实现的基本mcmc采样器.  ** [已过时] **
 * [Distances](https://github.com/JuliaStats/Distances.jl) - 用于距离评估的Julia模块.
-* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - 决策树分类器和回归器.
+* [Decision Tree](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor.
 * [Neural](https://github.com/compressed/BackpropNeuralNet.jl) - 朱莉娅的神经网络.
 * [MCMC](https://github.com/doobwa/MCMC.jl)   -  Julia的MCMC工具.  ** [已过时] **
 * [Mamba](https://github.com/brian-j-smith/Mamba.jl) - 马尔可夫链蒙特卡洛（MCMC）在朱莉娅进行贝叶斯分析.
@@ -785,7 +785,7 @@ be
 * [PyNLPl](https://github.com/proycon/pynlpl)   -  Python自然语言处理库.  适用于Python的通用NLP库.  还包含一些用于解析常见NLP格式的特定模块，最值得注意的是 [FoLiA](https://proycon.github.io/folia/)，还有ARPA语言模型，摩西短语表，GIZA ++对齐.
 * [python-ucto](https://github.com/proycon/python-ucto) - Python binding to ucto (a unicode-aware rule-based tokenizer for various languages).
 * [python-frog](https://github.com/proycon/python-frog)   -  Python绑定到Frog，一个荷兰语的NLP套件.  （pos标记，lemmatisation，依赖解析，NER）
-* [python-zpar](https://github.com/EducationalTestingService/python-zpar) -  Python绑定 [ZPar](https://github.com/frcchang/zpar)，英语的统计词性标注器，连续性解析器和依赖性解析器.
+* [python-zpar](https://github.com/EducationalTestingService/python-zpar) - Python bindings for [ZPar](https://github.com/frcchang/zpar)，英语的统计词性标注器，连续性解析器和依赖性解析器.
 * [colibri-core](https://github.com/proycon/colibri-core) -  Python绑定到C ++库，以快速和内存高效的方式提取和使用基本的语言结构，如n-gram和skipgrams.
 * [spaCy](https://github.com/explosion/spaCy) - 使用Python和Cython的工业强度NLP.
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - 用于将Penn Treebank树转换为斯坦福依赖关系的Python接口.
@@ -898,6 +898,7 @@ be
 * [MindsDB](https://github.com/mindsdb/mindsdb) - 开源框架，以简化神经网络的使用.
 * [Gorgonia](https://github.com/gorgonia/gorgonia) -  Gorgonia是一个图书馆，有助于促进Golang的机器学习.
 * [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ：作为Jupyter笔记本提供的构建推荐系统的示例和最佳实践.  该回购包含Microsoft Research以及其他公司和机构的一些最新技术.
+* [StellarGraph](https://github.com/stellargraph/stellargraph)：Graph Learning on Graphs，一个用于机器学习图形结构（网络结构）数据的Python库.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -1016,7 +1017,7 @@ be
 * [kaggle insults](https://github.com/amueller/kaggle_insults) -  Kaggle提交的“检测社会评论中的侮辱”.
 * [kaggle_acquire-valued-shoppers-challenge](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) -  Kaggle的代码获得了有价值的购物者挑战.
 * [kaggle-cifar](https://github.com/zygmuntz/kaggle-cifar) -  Kaggle的CIFAR-10比赛代码，使用cuda-convnet.
-* [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - 深度学习变得简单.
+* [kaggle-blackbox](https://github.com/zygmuntz/kaggle-blackbox) - Deep learning made easy.
 * [kaggle-accelerometer](https://github.com/zygmuntz/kaggle-accelerometer) -  Kaggle加速计生物识别比赛代码.
 * [kaggle-advertised-salaries](https://github.com/zygmuntz/kaggle-advertised-salaries) - 预测广告中的工作薪水 - 一场Kaggle比赛.
 * [kaggle amazon](https://github.com/zygmuntz/kaggle-amazon) - 亚马逊访问控制挑战.
@@ -1062,7 +1063,7 @@ be
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby) ** [已过时] **
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout)   -  JRuby Mahout是一个在JRuby世界中释放Apache Mahout强大功能的宝石.  ** [已过时] **
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - 允许贝叶斯和其他类型分类的通用分类器模块.
-* [rb-libsvm](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM which is a Library for Support Vector Machines.
+* [rb-libsvm](https://github.com/febeling/rb-libsvm) -  LIBSVM的Ruby语言绑定，LIBSVM是支持向量机的库.
 * [Scoruby](https://github.com/asafschers/scoruby) - 从PMML文件创建随机森林分类器.
 
 <a name="ruby-data-analysis"></a>
@@ -1071,7 +1072,7 @@ be
 * [rsruby](https://github.com/alexgutteridge/rsruby) -  Ruby  -  R桥.
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot)   - 用于Ruby的gnuplot包装器，尤其用于将ROC曲线绘制成SVG文件.  ** [已过时] **
 * [plot-rb](https://github.com/zuhao/plotrb)   - 在Vega和D3之上构建Ruby的绘图库.  ** [已过时] **
-* [scruffy](https://github.com/delano/scruffy) - A beautiful graphing toolkit for Ruby.
+* [scruffy](https://github.com/delano/scruffy) - 一个漂亮的Ruby图形工具包.
 * [SciRuby](http://sciruby.com/)
 * [Glean](https://github.com/glean/glean)   - 人类数据管理工具.  ** [已过时] **
 * [Bioruby](https://github.com/bioruby/bioruby)
@@ -1174,7 +1175,7 @@ be
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html) -  rpart：递归分区和回归树.
 * [RPMM](https://cran.r-project.org/web/packages/RPMM/index.html) -  RPMM：递归分区混合模型.
 * [RSNNS](https://cran.r-project.org/web/packages/RSNNS/index.html) -  RSNNS：使用斯图加特神经网络模拟器（SNNS）的R中的神经网络.
-* [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) - 跟踪：R /设置界面.
+* [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) -  RWeka：R / Set界面.
 * [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) -  RXshrink：通过广义脊或最小角回归的最大似然收缩.
 * [sda](https://cran.r-project.org/web/packages/sda/index.html)   -  sda：收缩判别分析和CAT分数变量选择.  ** [已过时] **
 * [SuperLearner](https://github.com/ecpolley/SuperLearner) - 多算法集成学习包.
