@@ -31,6 +31,8 @@
 * [Zilla Slab](https://github.com/mozilla/zilla-slab) -  Mozilla字体
 * [Plex](https://github.com/IBM/plex) -  IBM的开源字体
 * [The Ultimate Oldschool PC Font Pack](http://int10h.org/oldschool-pc-fonts/) - 来自DOS时代PC的文本模式字体，系统字体和BIOS字体的集合
+* [USWDS](https://github.com/uswds) - 美国网页设计系统
+  * [Public Sans](https://public-sans.digital.gov/)
 
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) - 参数变量字体

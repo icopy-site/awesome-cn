@@ -325,6 +325,7 @@ AWS Repos：
 
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - 自定义资源示例.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - 自定义资源框架.
+* [cfn-python-lint :fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - 用于提取/验证CloudFormation的工具.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - 样本食谱.
 * [cfncluster :fire::fire:](https://github.com/awslabs/cfncluster) - 部署和维护HPC集群的框架.
 
@@ -333,7 +334,7 @@ AWS Repos：
 * [Appliscale/perun](https://github.com/Appliscale/perun) - 用于linting / validation和管理CloudFormation模板和堆栈的CLI工具.
 * [bazaarvoice/cloudformation-ruby-dsl :fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - 用于创建模板的Ruby DSL.
 * [beaknit/cform](https://github.com/beaknit/cform) -  SublimeText插件.
-* [cloudreach / scepter]：fire :: fire :: fire：]（https://github.com/cloudreach/sceptre） - 用于自动化CloudFormation的CLI工具.
+* [cloudreach/sceptre :fire::fire::fire:](https://github.com/cloudreach/sceptre) - 用于自动化CloudFormation的CLI工具.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - 用于创建描述的Python库.
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - 管理堆栈.
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - 用于管理CloudFormation堆栈的CLI工具.
@@ -637,7 +638,7 @@ AWS Repos：
 * [danilop/LambdAuth :fire::fire::fire::fire:](https://github.com/danilop/LambdAuth) - 样本认证服务.
 * [eawsy/aws-lambda-go :fire::fire::fire:](https://github.com/eawsy/aws-lambda-go) - 一种快速而干净的方式来执行Go on Lambda.
 * [garnaat/kappa :fire::fire::fire:](https://github.com/garnaat/kappa) -  Kappa是一个CLI工具，可以更轻松地部署，更新和测试AWS Lambda的功能.
-* [goadapp/goad :fire::fire:fire::fire::fire:](https://github.com/goadapp/goad) -  Lambda驱动的高度分布式负载测试工具.
+* [goadapp/goad :fire::fire::fire::fire:](https://github.com/goadapp/goad) -  Lambda驱动的高度分布式负载测试工具.
 * [graphcool/chromeless :fire::fire::fire::fire::fire:](https://github.com/graphcool/chromeless) - 通过Lambda自动化Chrome.
 * [jeremydaly/lambda-api :fire::fire:](https://github.com/jeremydaly/lambda-api) - 适用于无服务器应用程序的轻量级Web框架.
 * [jimpick/lambda-comments :fire::fire::fire:](https://github.com/jimpick/lambda-comments) - 使用Lambda构建的博客评论系统.
@@ -811,7 +812,7 @@ AWS Repos：
 
 社区回购：
 
-* [capitalone/cloud-custodian :fire::fire::fire::fire:](https://github.com/capitalone/cloud-custodian) - 管理规则引擎，yaml中的DSL，用于查询，过滤和资源操作.
+* [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - 管理规则引擎，yaml中的DSL，用于查询，过滤和资源操作.
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) -  aws Chef cookbook的开发存储库.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - 用于管理资源的工具，包括EC2，EBS，RDS和Route53.
 * [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) -  RSpec测试您的资源.
@@ -959,6 +960,7 @@ AWS指南：
 社区指南：
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
+* [Automatically generated glossary of services](https://www.aws-glossary.info)
 
 ### Books
 

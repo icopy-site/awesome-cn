@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  958 |  2019年4月8日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  960 |  2019年4月10日
 
 
 
@@ -278,11 +278,11 @@
 * [Chatto](https://github.com/badoo/Chatto) - 用于构建聊天应用程序的轻量级框架.
 * [InputBarAccessoryView](https://github.com/nathantannar4/InputBarAccessoryView) - 一个简单且易于定制的InputAccessoryView，用于制作具有自动完成功能和附件的强大输入栏.
 * [MessageKit](https://github.com/MessageKit/MessageKit) - 社区驱动的JSQMessagesViewController替代品.
-* [MessengerKit](https://github.com/steve228uk/MessengerKit) - A UI framework for building messenger interfaces.
+* [MessengerKit](https://github.com/steve228uk/MessengerKit) - 用于构建信使接口的UI框架.
 * [Real-time Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - 使用MessageKit与Firebase Firestore实现功能性实时聊天应用.
 
 ### Colors
-*有趣的片段与色彩管理和实用性有关.* [back to top](#readme) 
+*Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) -  Chameleon是一款轻量级但功能强大的iOS彩色框架.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 直观而有趣的iOS颜色选择器.
@@ -517,7 +517,7 @@
 
 
 ### Events
-*Alternatives to NSNotificationCenter, Key-Value-Observation, or delegation.* [back to top](#readme) 
+* NSNotificationCenter，键值观察或委派的替代方案.* [back to top](#readme) 
 
 * [Bond](https://github.com/DeclarativeHub/Bond) - 绑定框架.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - 承诺和未来的lib.
@@ -599,11 +599,11 @@
 
 
 #### Bluetooth
-*Wrappers around CoreBluetooth* [back to top](#readme) 
+* CoreBluetooth周围的包装* [back to top](#readme) 
 
 * [BlueCap](https://github.com/troystribling/BlueCap) -  CoreBluetooth周围的包装等等.
 * [Bluejay](https://github.com/steamclock/bluejay) - 构建可靠蓝牙LE应用程序的简单框架.
-* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - 使用BLE在iOS / OSX设备之间轻松通信.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - 适用于RxSwift的iOS和OSX蓝牙库.
 * [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - 基于CoreBluetooth的简单可靠的封装包装.
 
@@ -804,7 +804,7 @@
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加强大.
 * [Dots](https://github.com/iAmrSalman/Dots) - 轻量级并发网络框架.
 * [Dratini](https://github.com/kevin0571/Dratini) - 整洁的网络层.
-* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - 易于使用的OAuth 2库适用于iOS.
+* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 * [Just](https://github.com/JustHTTP/Just) ：penguin： - 人类的HTTP（一个python请求样式的HTTP库）.
 * [Malibu](https://github.com/hyperoslo/Malibu) - 基于承诺的网络库.
 * [Moya](https://github.com/Moya/Moya) - 网络抽象层.
@@ -861,7 +861,7 @@
 
 * [Ambassador](https://github.com/envoy/Ambassador) - 基于SWSGI的超轻量级Web框架.
 * [Curassow](https://github.com/kylef-archive/Curassow) ：penguin： - 使用pre-fork worker模型的HTTP服务器.
-* [Embassy](https://github.com/envoy/Embassy) ：penguin： - 超轻量级异步HTTP服务器库.
+* [Embassy](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Kitura](https://github.com/IBM-Swift/Kitura) ：penguin： - 用于Web服务的IBM Web框架和服务器.
 * [Lightning](https://github.com/skylab-inc/Lightning) ：企鹅： - 多平台单线程无阻塞Web和网络框架.
 * [Noze.io](https://github.com/NozeIO/Noze.io) ：penguin： - 像Node.js这样的I / O流.
@@ -917,7 +917,7 @@
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的Common Crypto库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) -  JOSE标准JWS，JWE和JWK的框架.
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - 适用于iOS和Mac的CCCryptor（Apple的AES加密）包装器.
-* [SCrypto](https://github.com/sgl0v/scrypto) - 访问CommonCrypto例程的优雅界面.
+* [SCrypto](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 * [Siphash](https://github.com/attaswift/SipHash) - 使用SipHash算法进行简单安全的散列.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - 与Sodium库的接口，用于iOS和OS X的常见加密操作.
 * [Themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
@@ -1004,7 +1004,7 @@
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 优雅和无痛的归属字符串管理库.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) -  VerbalExpressions移植.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - 使用属性字符串轻松实现的扩展.
-* [SyntaxKit](https://github.com/soffes/SyntaxKit) -  TextMate风格的语法高亮显示.
+* [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 * [TextAttributes](https://github.com/delba/TextAttributes) - 撰写属性字符串的简便方法.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - 轻巧而强大的编辑器套件.
 
@@ -1028,7 +1028,7 @@
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
 * [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
-* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 生成并管理屏幕底部显示的上下文卡.
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格UI组件的集合.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
@@ -1120,6 +1120,7 @@
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - 现代，简单的UIAlertController包装.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) - 使用TextField，DatePicker，PickerView，TableView和CollectionView对UIAlertController进行高级使用.
 * [ALRT](https://github.com/mshrwtnb/alrt)   -  UIAlertController的一个更简单的构造函数.  从任何地方提出警报.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast)   - 基本吐司以及异步等待吐司.  受到facebook发布吐司的启发.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - 高度可定制的警报/通知/成功/错误/警报弹出.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - 可自定义的框架，用于创建可拖动的警报视图.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的UIAlertController.
@@ -1142,7 +1143,7 @@
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) - 轻量级下拉消息栏.
 * [Whisper](https://github.com/hyperoslo/Whisper) - 消息和应用内通知变得简单.
 * [XLActionController](https://github.com/xmartlabs/XLActionController) - 完全可定制和可扩展的动作表控制器.
-* [Zingle](https://github.com/hemangshah/Zingle) - An alert will display underneath your UINavigationBar.
+* [Zingle](https://github.com/hemangshah/Zingle) -  UINavigationBar下方将显示警报.
 
 #### ApplicationDelegate
 [back to top](#readme) 
@@ -1209,7 +1210,7 @@
 * [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel) - 一个漂亮的渐变动画标签，可以轻松为任何视图添加闪烁效果.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 具有变形动画的简单倒计时UILabel，以及一些有用的功能.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - 包含内置标题/标签的文本输入控件，这样您就不必为每个字段添加单独的标题.
-* [GlitchLabel](https://github.com/kciter/GlitchLabel) - Glitching UILabel for iOS.
+* [GlitchLabel](https://github.com/kciter/GlitchLabel) - 适用于iOS的小故障UILabel.
 * [IncrementableLabel](https://github.com/tbaranes/IncrementableLabel) -  UILabel子类（de）增加UILabel中的数字.
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类，它可以更新自己，使以前的格式更容易.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
@@ -1372,7 +1373,7 @@
 * [Shoyu](https://github.com/yukiasai/Shoyu) - 更简单的方式来表示UITableView的结构.
 * [SwiftyComments](https://github.com/tsucres/SwiftyComments) - 可扩展/可折叠单元格的嵌套层次结构，可轻松构建优雅的讨论线程.
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 基于Stock.app股票的可滑动UITableViewCell.
-* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.
+* [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - 适用于iOS的令人敬畏的可扩展，可折叠的tableview单元格.
 
 #### Walkthrough
 [back to top](#readme) 
@@ -1395,12 +1396,13 @@
 * [Butterfly](https://github.com/wongzigii/Butterfly) - 一个轻量级库，用于将错误报告和反馈功能与摇动事件集成.
 * [CallbackURLKit](https://github.com/phimage/CallbackURLKit) - 实现x-callback-url（跨应用程序通信）.
 * [Closures](https://github.com/vhesener/Closures) -  UIKit和Foundation的Swifty闭包.
+* [Codextended](https://github.com/JohnSundell/Codextended) - 扩展提供可编码API类型推断超级权限.
 * [Curry](https://github.com/thoughtbot/Curry) - 功能currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 快速差异库.
 * [Delegated](https://github.com/dreymonde/Delegated) - 没有内存泄漏的基于闭包的委派.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 快速灵活的O（n）差异算法框架.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
-* [Dollar](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.
+* [Dollar](https://github.com/ankurp/Dollar) - 类似于Javascript中的Lo-Dash或Underscore.
 * [EtherWalletKit](https://github.com/SteadyAction/EtherWalletKit) - 适用于iOS的以太坊钱包工具包 - 您可以在没有服务器和区块链知识的情况下实施以太坊钱包.
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - 标准类型和类应该如何工作.
 * [FluentQuery](https://github.com/MihaelIsaev/FluentQuery) ：企鹅： - 功能强大且易于使用的查询生成器.
@@ -1441,7 +1443,7 @@
 * [Vaccine](https://github.com/zenangst/Vaccine) - 让您的应用免受重新编译 - 死亡.
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - 一个微框架，用于封装闭包中的[弱自我]和保护语句.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能.
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - 展示您真棒的新应用功能.
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - 可扩展的监控框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - 标准库，基础和UIKit的微实用程序和扩展的集合.
 
@@ -1449,7 +1451,7 @@
 *验证库的集合.* [back to top](#readme) 
 
 * [FormValidatorSwift](https://github.com/ustwo/formvalidator-swift) - 允许您以方便的方式验证文本字段和文本视图的输入.
-* [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - Pattern-based user input formatter, parser and validator for iOS.
+* [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于iOS的基于模式的用户输入格式化程序，解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单，可扩展，灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - 基于规则的验证库.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) -  iOS的字符串验证（受validator.js启发）.

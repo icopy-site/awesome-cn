@@ -53,6 +53,10 @@
 
 - [adambrenecki/**virtualfish**](https://github.com/adambrenecki/virtualfish) -  Ian Bicking的virtualenv的鱼壳包装纸
 
+### Git
+
+- [joseluisq/**gitnow**](https://github.com/joseluisq/gitnow) - 命令设置加速你的Git工作流程
+
 ### Testing
 
 - [jorgebucaran/**fishtape**](https://github.com/jorgebucaran/fishtape) - 基于TAP的测试运行器 
