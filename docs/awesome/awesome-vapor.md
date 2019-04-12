@@ -8,7 +8,7 @@
 - 与Vapor轻松集成的现代化库，遵循Vapor提供简单，干净但功能强大的API的理念;
 - 精心编写的教程，书籍，视频和教育材料;
 - 使您的开发过程更简单，更愉快的工具;
-- and more!
+- 和更多！
 
 
 
@@ -22,6 +22,7 @@
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [APNS](https://github.com/vapor-community/apns) - 适用于iOS的Vapor APNS.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [AWS](https://github.com/nodes-vapor/aws) - 围绕AWS API的Swift包装器.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Bugsnag](https://github.com/nodes-vapor/bugsnag) - 使用Bugsnag报告错误.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CouchDB Client](https://github.com/makoni/couchdb-vapor) - 用于Vapor的简单CouchDB客户端.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CrudRouter](https://github.com/twof/VaporCRUDRouter) - 为任何Fluent模型生成自动RESTful CRUD路由器.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CSRF](https://github.com/vapor-community/CSRF) - 为Vapor增加针对CSRF攻击的保护的软件包.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [CSV Framework](https://github.com/skelpo/CSV) - 一个读取和写入CSV文件的简单框架.
@@ -40,7 +41,7 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) -  Lingo的Vapor提供程序 -  Swift本地化库.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) - 使用本地文件系统的存储驱动程序
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) - 通过SMTP，MailGun和SendGrid发送电子邮件.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) -  MongoDB的替代可编码ORM.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) -  Swift中的MongoDB驱动程序.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) - 简单的蒸汽3分页.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) - 查询Vapor和Fluent的分页.
@@ -90,7 +91,7 @@
 ### Articles
 
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Deep Dive into Setup and Deployment for Heroku and Ubuntu](https://learningswift.brightdigit.com/vapor-heroku-ubuntu-setup-deploy/)
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Developing and deploying Vapor 3 with Docker](https://bygri.github.io/2018/05/14/developing-deploying-vapor-docker.html)
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Developing and deploying Vapor 3 with Docker](https://tobygriffin.dev/2018/05/14/developing-deploying-vapor-docker.html)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent And Controllers - Part 1](https://geeks.brokenhands.io/blog/posts/fluent-and-controllers-part-1/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent Part 2 - Parent-Child Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-2-parent-child-relationships/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Fluent Part 3 - Sibling Relationships](https://geeks.brokenhands.io/blog/posts/fluent-part-3-sibling-relationships/)
@@ -98,11 +99,12 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Getting started with Vapor](https://geeks.brokenhands.io/blog/posts/getting-started-with-vapor/)
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [How to test controllers by mocking dependencies in Vapor 3 and Swift](https://mikemikina.com/blog/how-to-test-controllers-by-mocking-dependencies-in-vapor-3-and-swift/)
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Leaf Part 1 - Getting Started](https://geeks.brokenhands.io/blog/posts/leaf-part-1-getting-started/)
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor 2 with Docker](https://bygri.github.io/2018/01/24/vapor-2-with-docker.html) -  Vapor 2的最终Docker指南.
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 with Docker](https://bygri.github.io/2018/01/24/vapor-3-with-docker.html) -  Vapor 3的最终Docker指南.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor 2 with Docker](https://tobygriffin.dev/2018/01/24/vapor-2-with-docker.html) -  Vapor 2的最终Docker指南.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 with Docker](https://tobygriffin.dev/2018/01/24/vapor-3-with-docker.html) -  Vapor 3的最终Docker指南.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor 3 Tutorials](https://mihaelamj.github.io/Vapor%20%203%20Tutorial/) - 小型教程的大集合.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Transforming from Vapor 2 to Vapor 3](https://www.skelpo.com/blog/vapor2-to-vapor3/) - 通过真实项目从Vapor 2过渡到Vapor 3.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Tutorials for Beginner to Advanced](https://medium.com/@martinlasek) - 初级到高级的书面教程.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Using the dependency injection framework for testing in Vapor 3 and Swift](https://mikemikina.com/blog/using-the-dependency-injection-framework-for-testing-in-vapor-3-and-swift/) - 如何使用依赖注入框架，它将帮助您管理依赖项并在测试中模拟它们.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Watermarking photos with ImageMagick, Vapor 3 and Swift on macOS and Linux](https://mikemikina.com/blog/watermarking-photos-with-imagemagick-vapor-3-and-swift-on-macos-and-linux/) - 有关如何在Swift中使用ImageMagick库的教程.
 
 ### Books

@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  960 |  2019年4月10日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  961 |  2019年4月11日
 
 
 
@@ -45,7 +45,7 @@
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很酷的30天教程.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 关于Swift语言的游乐场.
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - 有组织的Swift语言主题列表.
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 在本机macOS应用中观看会议视频.
 * [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) -  Paul Hegarty的斯坦福大学课程.
 * [Hacking With Swift](https://www.hackingwithswift.com) - 完整的培训课程，通过30个实践项目免费教授应用程序开发.
@@ -101,6 +101,7 @@
 
 ## Dependency Managers
 * Swift的依赖管理器软件.* 
+* [Accio](https://github.com/JamitLabs/Accio) - 基于SwiftPM的iOS＆Co.依赖管理器，对Carthage进行了改进.
 * [Carthage](https://github.com/Carthage/Carthage) - 一个新的依赖管理器.
 * [CocoaPods](https://github.com/CocoaPods/CocoaPods) - 最常用的依赖管理器.
 * [Mint](https://github.com/yonaskolb/Mint) - 安装和运行Swift命令行工具的软件包管理器.
@@ -204,7 +205,7 @@
 * [Linker](https://github.com/MaksimKurpa/Linker) - 轻量级处理iOS的内部和外部深层链接.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) -  RxFlow是基于Reactive Flow Coordinator模式的iOS应用程序的导航框架.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于iOS的URL路由器.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
+* [URLNavigator](https://github.com/devxoul/URLNavigator) - 优雅的URL路由.
 
 ### App Store
 * Libs帮助苹果应用程序商店，应用程序购买和收据验证.* [back to top](#readme) 
@@ -383,7 +384,7 @@
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 为什么不使用UserDefaults来存储Codable对象.
-* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - 通过iCloud轻松同步NSUserDefaults.
+* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 #### MongoDB
 [back to top](#readme) 
@@ -444,7 +445,7 @@
 * [AEXML](https://github.com/tadija/AEXML) -  xml包装器.
 * [CheatyXML](https://github.com/lobodart/CheatyXML) - 一个功能强大的框架，旨在轻松管理XML.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - 处理XML的最快捷方式.
-* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - 简单的XML解析.
+* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) -  XMLEncoder和XMLDecoder基于标准库中的Codable协议
 
 #### YAML
@@ -603,7 +604,7 @@
 
 * [BlueCap](https://github.com/troystribling/BlueCap) -  CoreBluetooth周围的包装等等.
 * [Bluejay](https://github.com/steamclock/bluejay) - 构建可靠蓝牙LE应用程序的简单框架.
-* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - 使用BLE在iOS / OSX设备之间轻松通信.
 * [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - 适用于RxSwift的iOS和OSX蓝牙库.
 * [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - 基于CoreBluetooth的简单可靠的封装包装.
 
@@ -704,7 +705,7 @@
 ### Layout
 * Libs帮助您进行布局.* [back to top](#readme) 
 
-* [BrickKit](https://github.com/wayfair/brickkit-ios) - 以简单的方式创建复杂和响应式布局.
+* [BrickKit](https://github.com/wayfair/brickkit-ios) - Create complex and responsive layouts in a simple way.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的Facebook瑜伽Flexbox实施的良好和干净的界面.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) -  LayoutKit是iOS，macOS和tvOS的快速视图布局库.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 少写UI代码.
@@ -804,7 +805,7 @@
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加强大.
 * [Dots](https://github.com/iAmrSalman/Dots) - 轻量级并发网络框架.
 * [Dratini](https://github.com/kevin0571/Dratini) - 整洁的网络层.
-* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
+* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - 易于使用的OAuth 2库适用于iOS.
 * [Just](https://github.com/JustHTTP/Just) ：penguin： - 人类的HTTP（一个python请求样式的HTTP库）.
 * [Malibu](https://github.com/hyperoslo/Malibu) - 基于承诺的网络库.
 * [Moya](https://github.com/Moya/Moya) - 网络抽象层.
@@ -1004,7 +1005,7 @@
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 优雅和无痛的归属字符串管理库.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) -  VerbalExpressions移植.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - 使用属性字符串轻松实现的扩展.
-* [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
+* [SyntaxKit](https://github.com/soffes/SyntaxKit) -  TextMate风格的语法高亮显示.
 * [TextAttributes](https://github.com/delba/TextAttributes) - 撰写属性字符串的简便方法.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - 轻巧而强大的编辑器套件.
 
@@ -1028,7 +1029,7 @@
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
 * [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
-* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 生成并管理屏幕底部显示的上下文卡.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格UI组件的集合.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
@@ -1399,7 +1400,7 @@
 * [Codextended](https://github.com/JohnSundell/Codextended) - 扩展提供可编码API类型推断超级权限.
 * [Curry](https://github.com/thoughtbot/Curry) - 功能currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 快速差异库.
-* [Delegated](https://github.com/dreymonde/Delegated) - 没有内存泄漏的基于闭包的委派.
+* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 快速灵活的O（n）差异算法框架.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
 * [Dollar](https://github.com/ankurp/Dollar) - 类似于Javascript中的Lo-Dash或Underscore.
@@ -1441,9 +1442,9 @@
 * [URLQueryItemEncoder](https://github.com/pitiphong-p/URLQueryItemEncoder) - 用于将任何Encodable值编码为URLQueryItem数组的编码器.
 * [UTIKit](https://github.com/cockscomb/UTIKit) -  UTI（统一类型标识符）包装器.
 * [Vaccine](https://github.com/zenangst/Vaccine) - 让您的应用免受重新编译 - 死亡.
-* [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - 一个微框架，用于封装闭包中的[弱自我]和保护语句.
+* [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - A micro-framework to encapsulate [weak self] and guard statements within closures.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能.
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - 展示您真棒的新应用功能.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - 可扩展的监控框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - 标准库，基础和UIKit的微实用程序和扩展的集合.
 

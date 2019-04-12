@@ -10,11 +10,12 @@
 ## Articles
 
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - 来自Riot Games的Viscarious通过WiFi与以太网指标进行互联网连接.
-- [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -  Gabriel Gambetta的客户端预测，实体插值和滞后补偿文章.
+- [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -  Gabriel Gambetta的客户端预测，实体插值，滞后补偿文章.
 - [Gaffer on Games](https://gafferongames.com/) -  Glenn Fiedler可靠的UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://gameserverarchitecture.com/) -  Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) - 由Ilya Grigorik提供的关于现代网络协议的精彩免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -  Armin Ronacher对战地3在多人游戏中的射击机制的分析.
+- [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) - 一篇学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) - 来自IT Hare团队的详细网络编程文章.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -  Keith Johnston对NAT和P2P连接的简要总结.
 - [Netcode Explained](https://www.pcgamer.com/uk/netcode-explained/) - 基本的游戏网络概念，以及PC Gamer上Chris“Battle（non）sense”的例子.
@@ -37,14 +38,14 @@
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) -  Nuno Afonso简要介绍Unreal的游戏网络框架.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - 有关UE4网络的详细摘要以及Cedric Neukirchen的示例.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - 官方UE4游戏网络框架文档维基.
-- [Unreal Tournament 2004 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) -  Tim Sweeney撰写的关于UT4 / UE网络代码的历史文章.
+- [Unreal Tournament 2004 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - Historical paper on netcode in UT4 / UE by Tim Sweeney.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - 快速射击游戏中的Pixonic客户端.
 
 ## Talks
 
 - 游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
-  - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - Talk by Stephen Detwiler and James Marr from ngmoco:).
+  - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
   - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
   - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - 来自Crytek的Peter Hall的程序员事后调查.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -  Halo中的游戏网络：来自Bungie的David Aldridge.
@@ -65,8 +66,8 @@
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - 来自Exit Games的Christof Wegmann的多人游戏架构比较.
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - 来自Unity的Peter Andreasen的Netcode演讲.
 - 其他
-  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - 聊天由Pat Wyatt组成的激战，暗黑破坏神，星际争霸等网络.
-  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - 由暴雪的Tim Ford和Philip Orwig讨论Overwatch的网络代码.
+  - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - 聊天关于Guild Wars，暗黑破坏神，星际争霸由Pat Wyatt建立的网络.
+  - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - 来自Blizzard的Tim Ford和Philip Orwig的Overwatch网络代码.
 
 ## Tutorials
 

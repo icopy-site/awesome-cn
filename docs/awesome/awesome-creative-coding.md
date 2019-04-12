@@ -108,7 +108,7 @@
 ### Sound Programming Languages
 
 - [SuperCollider](http://supercollider.github.io/) [多平台]  - 音频合成和算法组合的平台.
-- [ChucK](http://chuck.cs.princeton.edu/) - 强大的定时，并发和即时的音乐编程语言.
+- [ChucK](http://chuck.cs.princeton.edu/) - Strongly-timed, concurrent, and on-the-fly music programming language.
 - [TidalCycles](https://tidalcycles.org/) - 用于模式的实时编码的领域特定语言.
 - [Sonic Pi](http://sonic-pi.net/) - 每个人的现场编码音乐合成器.
 - [Csound](https://csound.com/) - 声音和音乐计算系统.
@@ -199,6 +199,8 @@
 - [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - 关于着色器的YouTube频道.
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - 关于着色器案例研究的YouTube频道.
 - [openFrameworks tutorials](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - 关于openFrameworks的YouTube播放列表.
+- [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - 使用Visual Studio Code的有关着色器的YouTube播放列表.
+- [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - 关于Kha框架的YouTube播放列表，内置于Haxe.
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - 关于WebGL 2.0的YouTube播放列表.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) - 关于现代OpenGL的YouTube播放列表.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) - 关于顶点着色器的YouTube播放列表.
@@ -297,7 +299,7 @@
 
 ### Interactive
 
-- [Shader-school](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
+- [Shader-school](https://github.com/stackgl/shader-school) -  GLSL着色器和图形编程研讨会.
 - [Webgl-workshop](https://github.com/stackgl/webgl-workshop) - 着色学校的续集：学习WebGL API.
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - 交互式片段着色器教程.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - 关于光线追踪的Shadertoy教程.
@@ -375,7 +377,7 @@
 - [Image Kernels](http://setosa.io/ev/image-kernels/) - 图像内核的交互式和可视化介绍.
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - 正弦和余弦的交互式探索.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - 详细解释了Perlin噪音.
-- [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - 从计算机图形学的角度来看矢量代数和矩阵代数的教程.
+- [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
 - [Desmos](https://www.desmos.com/) - 图形函数，绘图数据，评估方程，探索变换等等.
 - [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - 游戏开发者YouTube播放列表的数学.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 线性代数YouTube播放列表的精华.
@@ -444,7 +446,7 @@
 - [Resonate](http://resonate.io/) - 贝尔格莱德有关尖端音乐，视觉艺术和数字文化的狂欢.
 - [Gray Area Festival](http://grayareafestival.io/) - 创意编码，艺术和科技节.
 - [Signal Festival](http://www.signalfestival.com/) - 在捷克共和国布拉格展示光艺术和新兴技术.
-- [Eyeo Festival](http://eyeofestival.com/) - Bring together creative coders, data designers and creators working at the intersection of data, art and technology.
+- [Eyeo Festival](http://eyeofestival.com/) - 将数据，艺术和技术交叉的创意编码人员，数据设计人员和创作者聚集在一起.
 - [Mutek](http://www.mutek.org/en) - 致力于声音，音乐和视听艺术的数字创造力的组织.
 - [Node](https://nodeforum.org/) - 文化，艺术和科技交流的开放平台.
 - [Digital Design Days - OFFF](http://www.ddd.it/en) - 为期3天的活动，提供会议，研讨会，数字展示和装置.

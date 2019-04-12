@@ -92,6 +92,10 @@
 - [How to Test on Headless Emulators and Simulators with Appium](https://appiumpro.com/editions/58)
 - [How to Automate Picker Wheel Controls](https://appiumpro.com/editions/59)
 - [How to Pick the Right Locator Strategy](https://appiumpro.com/editions/60)
+- [How to Accurately Select Webviews Using the fullContextList Capability](https://appiumpro.com/editions/61)
+- [Capturing iOS Simulator Network Traffic with Appium](https://appiumpro.com/editions/62)
+- [Capturing Android Emulator Network Traffic with Appium](https://appiumpro.com/editions/63)
+- [Validating Android Toast Messages](https://appiumpro.com/editions/64)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.

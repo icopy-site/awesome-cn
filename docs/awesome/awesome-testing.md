@@ -97,6 +97,6 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 在法律允许的范围内，[
-contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
+contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors)
  已放弃对此作品的所有版权及相关或邻接权利.  见
 [license file](https://github.com/TheJambo/awesome-testing/blob/master/LICENSE) 详情.

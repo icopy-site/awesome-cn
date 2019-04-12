@@ -47,7 +47,10 @@
 - [Bokeh](https://bokeh.pydata.org/en/latest/) - 交互式可视化库，针对现代Web浏览器进行演示.
 - [bqplot](https://github.com/bloomberg/bqplot) - 基于图形的Jupyter交互式绘图框架语法.
 - [IPySigma](https://github.com/bsnacks000/IPySigma-Demo) -  Jupyter笔记本电脑的原型网络可视化前端.
-- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) - Interactive visualization library for Leaflet.js maps in Jupyter notebooks.
+- [ipyleaflet](https://github.com/jupyter-widgets/ipyleaflet) -  Jupyter笔记本中Leaflet.js地图的交互式可视化库.
+- [ipysheet](https://github.com/QuantStack/ipysheet/) -  Jupyter中的交互式电子表格.
+- [ipytree](https://github.com/QuantStack/ipytree/) -  Jupyter的树UI元素.
+- [ipywebrtc](https://github.com/maartenbreddels/ipywebrtc) -  Jupyter中的视频/音频流媒体.
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) -  Jupyter的UI小部件.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和WebGL在Jupyter中对Python进行3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - 交互式小部件，可在2D和3D中显示图像.
@@ -56,6 +59,9 @@
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 用于的Python接口 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
 - [pythreejs](https://github.com/jovyan/pythreejs) - 利用Jupyter小部件基础架构的Python / ThreeJS桥.
 - [Qgrid](https://github.com/quantopian/qgrid) - 用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
+- [xleaflet](https://github.com/QuantStack/xleaflet) - 用于ipyleaflet的C ++后端.
+- [xwebrtc](https://github.com/QuantStack/xwebrtc) -  ipywebrtc的C ++后端.
+- [xwidgets](https://github.com/QuantStack/xwidgets) -  ipywidgets的C ++后端.
 
 ## Rendering/Publishing/Conversion
 
@@ -65,7 +71,7 @@
 - [nbconvert](https://nbconvert.readthedocs.io) - 将笔记本电脑转换为其他格式.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于差异和合并Jupyter笔记本的工具.
 - [nbinteract](https://www.nbinteract.com) - 从Jupyter笔记本创建交互式网页.
-- [nbflow](https://github.com/jhamrick/nbflow) - 使用Jupyter和Scons的一键式可重复工作流程.
+- [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
 - [nbscan](https://github.com/conery/nbscan) - 搜索并打印Jupyter笔记本电脑的单元格内容.
 - [Nikola](https://getnikola.com) - 将笔记本电脑转换为网站的静态站点生成器.
 - [notedown](https://github.com/aaren/notedown/) - 将Jupyter笔记本转换为降价（和返回）.
@@ -73,6 +79,7 @@
 - [pynb](https://github.com/minodes/pynb) -  Jupyter笔记本作为带有嵌入式Markdown文本的普通Python代码.
 - [RISE](https://github.com/damianavila/RISE) -  Reveal.js Jupyter / IPython幻灯片.
 - [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - 将独立的reStructuredText文件转换为Jupyter笔记本文件.
+- [Voila](https://github.com/QuantStack/voila) - 使用交互式小部件呈现实时Jupyter笔记本，允许基于Jupyter笔记本的仪表板
 
 ## JupyterLab Extensions
 

@@ -97,7 +97,7 @@
 
 * [BioC++](http://biocpp.sourceforge.net/)   - 用于生物信息学的C ++计算库.  [BSD]
 * [Chaste](http://www.cs.ox.ac.uk/chaste/)   - 一个开源C ++库，用于为生理学和生物学开发的数学模型的计算模拟.  [BSD]
-* [libsequence](http://molpopgen.github.io/libsequence/) - A C++ library for representing and analyzing population genetics data. [GPL]
+* [libsequence](http://molpopgen.github.io/libsequence/)   - 用于表示和分析群体遗传学数据的C ++库.  [GPL]
 * [SeqAn](http://www.seqan.de/)   - 用于分析序列的算法和数据结构，重点是生物数据.  [BSD / 3-子句]
 * [Vcflib](https://github.com/ekg/vcflib)   - 用于解析和操作VCF文件的C ++库.  [MIT]
 * [Wham](https://github.com/zeeev/wham)   - 通过直接将关联测试应用于BAM文件，在基因组中的结构变体（SV）.  [MIT]
@@ -335,6 +335,7 @@
 
 * [assimp](https://github.com/assimp/assimp)   - 开放资产导入库（assimp）是一个跨平台的3D模型导入库，旨在为不同的3D资产文件格式提供通用API.  [BSD -3-第] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx)   - 跨平台渲染库.  [BSD]
+* [Blend2D](https://github.com/blend2d/blend2d)   - 由JIT编译器驱动的2D矢量图形引擎.  [zlib的] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)   - 用于开发实时图形应用程序的Modern C ++ 14库.  [MIT]
 * [Cairo](http://www.cairographics.org/)   - 支持多个输出设备的2D图形库.  [LGPL2或Mozilla MPL]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)   - 现代跨平台的低级3D图形库.  [Apache2的]
@@ -454,7 +455,7 @@
 ## Machine Learning
 
 * [Caffe](https://github.com/BVLC/caffe)   - 神经网络的快速框架.  [BSD]
-* [CCV](https://github.com/liuliu/ccv)   - 基于C /缓存/核心计算机视觉库，现代计算机视觉库.  [BSD]
+* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
 * [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido)   - 用于嵌入式电子和机器人的高度模块化的C ++机器学习库.  [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight)   - 来自Facebook AI Research的快速，灵活的机器学习库，完全用C ++编写，基于ArrayFire张量库.  [BSD -3-第] [website](https://fl.readthedocs.io/en/latest/)
@@ -499,8 +500,7 @@
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用C ++库，包括欧几里德，投影，保形，时空（等）.
 * [Wykobi](http://www.wykobi.com/)   - 高效，健壮且易于使用的C ++ 2D / 3D计算几何例程的C ++库.  [MIT]
-* [xtensor](https://github.com/QuantStack/xtensor) - 用于多维数值分析的C ++ 14库
- 数组表达式，受NumPy语法的启发.  [BSD 3条款] [website](http://quantstack.net/xtensor)
+* [xtensor](https://github.com/QuantStack/xtensor)   - 受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3条款] [website](http://quantstack.net/xtensor)
 
 ## Memory Allocation
 
@@ -566,7 +566,7 @@
 * [WAFer](https://github.com/riolet/WAFer)   - 基于AC语言的超轻型软件平台，适用于可扩展的服务器端和网络应用.  想想C程序员的node.js.  [GPL2]
 * [Wangle](https://github.com/facebook/wangle)   - 用于构建异步，事件驱动的现代C ++服务的客户端/服务器应用程序框架.  [Apache的2.0]
 * [wdt](https://github.com/facebook/wdt)   - 可嵌入的库（和命令行工具），旨在通过多个TCP路径尽可能快地在两个系统之间传输数据.  [BSD -3-第]
-* [WebSocket++](https://github.com/zaphoyd/websocketpp) - C++/Boost Asio based websocket client/server library. [BSD]
+* [WebSocket++](https://github.com/zaphoyd/websocketpp)   - 基于C ++ / Boost Asio的websocket客户端/服务器库.  [BSD]
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)   - 多平台C ++网络嗅探和数据包解析和制作框架.  [授予许可]
 
 ## PDF
@@ -744,7 +744,7 @@
 * [libsigc++](http://libsigc.sourceforge.net/)   - 标准C ++的类型安全回调系统.  [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid)   - 用于x86 CPU检测和特征提取的小型C库.  [BSD]
 * [libevil](https://github.com/avati/libevil)   - 邪恶的许可证管理器.  [GPLv3的]
-* [libnih](https://github.com/keybuk/libnih)   -  C函数和结构的轻量级库.  [GPL2.1]
+* [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7)   - 用于C ++的模式匹配库.  [BSD]
 * [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
@@ -779,9 +779,9 @@
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的AC编译器.  支持C ++ 11/14 / 1z C11.  由LLVM团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)   -  GNU编译器集合.  支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)   - 一个非常古老的C编译器.  支持C99.
-* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - Developed by Intel.
+* [Intel C++ Compiler](https://software.intel.com/en-us/c-compilers) - 由英特尔开发.
 * [LLVM](http://llvm.org/) - 收集模块化和可重用的编译器和工具链技术.
-* [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - MSVC, developed by Microsoft.
+* [Microsoft Visual C++](https://msdn.microsoft.com/en-us/vstudio/hh386302.aspx) - 由Microsoft开发的MSVC.
 * [Open WatCom](http://www.openwatcom.org/index.php/Main_Page)   -  Watcom C，C ++和Fortran交叉编译器和工具.  [Sybase Open Watcom公共许可证]
 * [Oracle Solaris Studio](http://www.oracle.com/technetwork/server-storage/solarisstudio/overview/index.html)   - 用于SPARC和x86的C，C ++和Fortran编译器.  支持C ++ 11.  适用于Linux和Solaris.  [OTN开发者许可]
 * [TCC](http://bellard.org/tcc/)   -  Tiny C编译器.  [LGPL]
@@ -801,7 +801,7 @@
 * [Wandbox](http://melpon.org/wandbox/) - 提供Boost的在线Clang / GCC编译器.
 
 ## Debugger
-*List of C or C++ debuggers*
+* C或C ++调试器列表*
 
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -  GNU调试器.
@@ -842,7 +842,7 @@
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供大量软件包.
-* [Cget](https://github.com/pfultz2/cget)   -  Cmake包检索.  [促进] [website](http://cget.readthedocs.io)
+* [Cget](https://github.com/pfultz2/cget) - Cmake package retrieval. [Boost] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/)   -  C / C ++ Package Manager，开源.  [MIT]
 * [CPM](https://github.com/iauns/cpm) - 基于CMake和Git的C ++包管理器.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - 高性能，开源构建系统，支持高度可扩展的编译，缓存和网络分发.
@@ -867,7 +867,7 @@
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循Google的C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
-* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - 用于clang分析的工具包括C和C ++源文件. [website](https://include-what-you-use.org/)
+* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer)   - 用于Java，C和Objective-C的静态分析器.  [BSD]
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.
@@ -1002,7 +1002,7 @@
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - 精选的C / C ++性能优化资源的精选列表.
-* [free-programming-books](https://github.com/vhf/free-programming-books) - 免费提供的编程书籍清单.
+* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [Inqlude](http://inqlude.org/) -  Qt库存档.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机科学界的论文阅读和讨论.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - 精心学习和/或练习算法的地方的精选列表.

@@ -62,6 +62,7 @@
 - [Clover](http://en.ejie.me/)   - 在Windows资源管理器中添加多标签功能.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)   - 来自系统托盘的每个应用程序音量控制.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [Rainmeter](https://www.rainmeter.net/)   -  Rainmeter允许您在桌面上显示可自定义的皮肤，从硬件使用仪表到功能齐全的音频可视化器.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
+- [Search Deflector](https://github.com/spikespaz/search-deflector)   - 一个小程序，可将从Windows开始菜单或Cortana进行的搜索重定向到您喜欢的任何浏览器和搜索引擎.  [！[开源软件] [OSS图标]]（https://github.com/rainmeter/rainmeter）！[免费软件] [免费软件图标]
 - [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB)   - 使Windows任务栏透明.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)   - 通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
 - [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)   - 允许您更改Windows 10登录屏幕背景.  [！[开源软件] [OSS图标]]（https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer）！[免费软件] [免费软件图标]
@@ -85,7 +86,7 @@
 - [FileZilla](https://filezilla-project.org/)   -  FTP，FTPS和SFTP客户端.  [！[开源软件] [OSS图标]]（https://download.filezilla-project.org/client/）！[免费软件] [免费软件图标]
 - [Git Extensions](https://gitextensions.github.io/)   -  Git功能强大且易于使用的UI.  [！[开源软件] [OSS图标]]（https://github.com/gitextensions/gitextensions）！[免费软件] [免费软件图标]
 - [GitHub Desktop](https://desktop.github.com/)   -  GitHub Desktop是一个基于电子的开源GitHub应用程序.  [！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）！[免费软件] [免费软件图标]
-- [GitKraken](https://www.gitkraken.com/)   - 一个漂亮的跨平台Git客户端.  ！[免费软件] [免费软件图标]
+- [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
 - [I'm Only Resting](https://github.com/SwensenSoftware/im-only-resting) - 一个功能丰富的基于WinForms的HTTP客户端[！[开源软件] [OSS图标]]（https://github.com/swensensoftware/im-only-resting）！[免费软件] [免费软件图标]
 - [Insomnia](http://insomnia.rest)   - 具有漂亮界面的现代REST客户端.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 - [Keylord](https://protonail.com/products/keylord) Redis，LevelDB和Memcached键值数据库的跨平台GUI客户端.
@@ -100,15 +101,15 @@
 - [Process Explorer](https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx)   - 强大的任务管理器.  ！[免费软件] [免费软件图标]
 - [Process Hacker](http://processhacker.sourceforge.net/) - 优秀的全面任务经理.
 - [RazorSQL](http://www.razorsql.com/) - 用于管理需要主要工作的SQLite数据库的GUI.
-- [Redis Desktop Manager](http://redisdesktop.com/) Cross-platform open source Redis DB management tool.
+- [Redis Desktop Manager](http://redisdesktop.com/) 跨平台开源Redis DB管理工具.
 - [Robo 3T](https://robomongo.org/) -  MongoDB爱好者的轻量级GUI.
 - [SourceTree](https://www.sourcetreeapp.com/) - 免费的Git＆Mercurial客户端.
-- [Sql Wave](http://www.valentina-db.com/en/sqlwave) -  MySQL数据库管理器.
+- [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [SSLyog](https://www.webyog.com/) - 强大的MySQL管理工具
 - [TortoiseGit](https://tortoisegit.org/)   - 具有完整shell集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
 - [TortoiseSVN](https://tortoisesvn.net/)   - 具有完全shell集成的Subversion客户端.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/tortoisesvn/）！[免费软件] [免费软件图标]
 - [Vagrant](https://www.vagrantup.com/)   - 用于构建和管理虚拟机的工具.  [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
-- [Velocity](http://velocity.silverlakesoftware.com/)   - 离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS） 
+- [Velocity](http://velocity.silverlakesoftware.com/)   - 离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
 - [Visual Studio](https://www.visualstudio.com/) - 终极微软开发者工具.
 - [Visual Studio Code](https://code.visualstudio.com/) - 轻量级源代码编辑器.
 - [Wamp](http://www.wampserver.com/en/) -  Web开发环境.
@@ -116,7 +117,7 @@
 - [Wireshark](https://www.wireshark.org/)   - 网络协议分析仪.  [！[开源软件] [OSS图标]]（https://www.wireshark.org/docs/wsdg_html_chunked/ChIntroDevelopment.html）！[免费软件] [免费软件图标]
 - [WMI Explorer](https://github.com/vinaypamnani/wmie2/)   - 提供在单一窗格中浏览和查看WMI名称空间/类/实例/属性的功能.  [！[开源软件] [OSS图标]]（https://github.com/vinaypamnani/wmie2/）
 - [Xampp](https://www.apachefriends.org/index.html)   -  Apache驱动的Web开发环境.  ！[免费软件] [免费软件图标]
-- [Xftp 5](https://www.netsarang.com/products/xfp_overview.html)   - 灵活轻便的SFTP / FTP客户端.  ！[免费软件] [免费软件图标]
+- [Xftp 5](https://www.netsarang.com/products/xfp_overview.html) - Flexible and lightweight SFTP/FTP client. ![Freeware][Freeware Icon]
 - [Zsh](http://www.zsh.org/)   - 强大的命令行shell.  [！[开源软件] [OSS图标]]（http://sourceforge.net/p/zsh/code/ci/master/tree/）！[免费软件] [免费软件图标]
 
 ### Documents
@@ -150,7 +151,7 @@
 - [Warsow](https://www.warsow.net/)   - 适用于Windows的免费和快节奏的FPS游戏.  ！[免费软件] [免费软件图标]
 - [Awesome Games](https://github.com/leereilly/games)   -  Github上托管的游戏列表.  ！[免费软件] [免费软件图标]
 - [Freeciv](http://www.freeciv.org/)   - 受人类文明历史启发的自由开源帝国建设战略游戏.  [！[开源软件] [OSS图标]]（https://github.com/freeciv/）！[免费软件] [免费软件图标]
-- [GOG Galaxy](https://www.gog.com/galaxy) - 类似Steam的DRM游戏平台.
+- [GOG](https://www.gog.com/) - 无DRM的游戏商店，有许多旧游戏，但也有丰富的新游戏.
 - [LuaStudio](http://scormpool.com/luastudio)   - 免费游戏开发工具/引擎.  使用Lua / LuaJIT编程语言在Windows上创建游戏和其他以图形为中心的应用程序.  将它们导出到许多平台，包括iOS，Android和Mac.
 - [Unity](https://unity3d.com/)   - 免费游戏引擎.  易于学习和使用许多教程.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4)   - 另一个免费的游戏引擎.  大量的文档和更容易上传，但当您从基于UE的游戏赚钱时，您向Unreal支付5％的版税.
@@ -214,7 +215,7 @@
 ### Productivity
 
 - [AutoHotkey](https://autohotkey.com/)   - 适用于Windows的终极自动化脚本语言.  [！[开源软件] [OSS图标]]（https://autohotkey.com/）！[免费软件] [免费软件图标]
-- [Chocolatey](https://chocolatey.org/) - A package manager for Windows.
+- [Chocolatey](https://chocolatey.org/) -  Windows的包管理器.
 - [Cold Turkey](https://getcoldturkey.com)   - 唯一可以分散实际工作网站的拦截器.  （即使不允许您在阻止活动时卸载它）.
 - [CommandTrayHost](https://github.com/rexdf/CommandTrayHost)   -  Windows的命令行程序监视器系统.  [！[开源软件] [OSS图标]]（https://github.com/rexdf/CommandTrayHost）！[免费软件] [免费软件图标]
 - [Ditto](http://ditto-cp.sourceforge.net/) - 剪贴板管理器.
@@ -231,7 +232,7 @@
 - [Total Commander](https://www.ghisler.com/) -  Windows的最佳文件管理器.
 - [Simplenote](https://simplenote.com/)   - 基于云的同步的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
 - [WordWeb](http://wordweb.info/)   - 一个非常好的Windows英语词典.  ！[免费软件] [免费软件图标]
-- [Wox](http://www.getwox.com/)   - 一个有效的窗户发射器.  [！[开源软件] [OSS图标]]（https://github.com/Wox-launcher/Wox/）！[免费软件] [免费软件图标]
+- [Wox](http://www.wox.one/)   - 一个有效的窗户发射器.  [！[开源软件] [OSS图标]]（https://github.com/Wox-launcher/Wox/）！[免费软件] [免费软件图标]
 - [KatMouse](http://www.ehiti.de/katmouse/) - 在Windows中启用“通用滚动”的实用程序：滚动不需要首先激活/单击窗口（即它在macOS和Linux中如何工作）！[免费软件] [免费软件图标]
 - [Keypirinha](http://keypirinha.com/)   -  Windows上键盘忍者的快速启动器.  您可以将Keypirinha视为* Launchy *和* Alfred *的堂兄的替代品.  ！[免费软件] [免费软件图标]
 - [Taskade](https://taskade.com/)   - 具有实时跨平台同步和团队协作的智能任务列表.  ！[免费软件] [免费软件图标]
@@ -241,7 +242,7 @@
 
 - [Babun](http://babun.github.io)   - 基于Cygwin的替代Windows shell.  [！[开源软件] [OSS图标]]（https://github.com/babun/babun）！[免费软件] [免费软件图标]
 - [Cmder](https://cmder.net)   - 带有clink shell的控制台模拟器包.  [！[开源软件] [OSS图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
-- [ConEmu](https://github.com/Maximus5/ConEmu) - 可定制的终端，带有标签，分割，地震式等.
+- [ConEmu](https://github.com/Maximus5/ConEmu) - 可定制的终端，带有标签，分割，地震式等等.
 - [ConsoleZ](https://github.com/cbucher/console) - 控制台2的修改版本，以获得更好的体验和更好的视觉呈现.
 - [Hyper](https://hyper.is)   - 基于Web技术构建的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 - [MobaXterm](http://mobaxterm.mobatek.net/) -  Xserver和标签式SSH客户端.
@@ -271,7 +272,7 @@
 - [GPU-Z](http://www.techpowerup.com/gpuz/)   - 免费的一体化GPU监控工具.  ！[免费软件] [免费软件图标]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)  - 离线浏览器实用程序，允许您从Internet下载网站到本地目录.  [！[开源软件] [OSS图标]]（https://github.com/xroche/httrack/tree/master）
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - 硬件监控程序，可读取PC系统的主要健康传感器：电压，温度，风扇速度.
-- [IrfanView](http://www.irfanview.com/) - 适用于Windows的快速，小巧，紧凑和创新的图形查看器. 
+- [IrfanView](http://www.irfanview.com/) - 适用于Windows的快速，小巧，紧凑和创新的图形查看器.
 - [LICEcap](http://www.cockos.com/licecap/) - 动画屏幕捕获并直接保存到.GIF
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) - 根据当前时间调整伽玛，减少眼睛疲劳
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - 从资源管理器创建符号链接.
@@ -324,7 +325,7 @@
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/)   - 广告软件，PUP / LPI，工具栏和劫持者免费删除工具.  ！[免费软件] [免费软件图标]
 - [Bitdefender](http://www.bitdefender.com/) - 最好的彻底防范恶意软件.
 - [Cryptomator](https://cryptomator.org/)   - 云文件的免费客户端加密.  [！[开源软件] [OSS图标]]（https://github.com/cryptomator/cryptomator）！[免费软件] [免费软件图标]
-- [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
+- [ENCRYPTO](http://macpaw.com/encrypto)   - 以优雅的方式加密文件.  ！[免费软件] [免费软件图标]
 - [GlassWire](https://www.glasswire.com/) - 网络安全监控工具和分析器，可视化您的网络活动.
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - 用于为Windows组件配置加密协议，加密，散列方法和密钥交换的实用程序（例如，远程桌面的TLS / AES / SHA）
 - [KeePass](http://www.keepass.info)   - 免费，开源，易用的密码管理器.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/keepass/）！[免费软件] [免费软件图标]

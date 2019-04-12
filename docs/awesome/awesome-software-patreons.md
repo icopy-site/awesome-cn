@@ -198,6 +198,7 @@ _文章，视频，播客等......
 - [Corey Schafer](https://www.patreon.com/coreyms) -  Python教程.
 - [Devon Crawford](https://www.patreon.com/devoncrawford) - 编程，开发和电子视频.
 - [Fun Fun Function](https://patreon.com/funfunfunction) -  JavaScript和一般编程视频.
+- [Joel Yliluoma](https://www.patreon.com/Bisqwit), [#2](https://liberapay.com/Bisqwit), [#3](https://steadyhq.com/en/bisqwit) - 编程视频.
 - [JustForFunc](https://www.patreon.com/justforfunc) - 去教程.
 - [LiveOverflow](https://www.patreon.com/liveoverflow) -  IT安全视频.
 - [The Coding Train](https://www.patreon.com/codingtrain) - 编程教程.

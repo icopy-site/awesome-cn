@@ -254,7 +254,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) -  iOS项目引导程序旨在高质量编码.
 * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - 一组自动生成NSError的自定义断言，允许在发布版本中的调试中的断言和错误处理，以及漂亮的DSL.
 * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - 在后台线程上使用UIKit时生成断言的简单代码片段.
-* [ocstyle](https://github.com/Cue/ocstyle) -  Objective-C风格检查器.
+* [ocstyle](https://github.com/Cue/ocstyle) choose-C样式idalchecker.
 * [spacecommander](https://github.com/square/spacecommander) - 作为一个团队提交完全格式化的Objective-C代码，甚至没有尝试.
 * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - 优化UITableViewCell以实现快速滚动.
 * [Tailor](https://github.com/sleekbyte/tailor) -  Swift的跨平台静态分析器，可帮助您编写更清晰的代码并避免错误.
@@ -2398,7 +2398,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 ### Segmented Control
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) -  UISegmentedControl和UISwitch易于使用，可定制的替代品.
 * [LUNSegmentedControl](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - 可定制的分段控制与交互式动画.
-* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控件.
+* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控制.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - 用Swift编写的iOS自定义UISegmentedControl替代品.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)   - 具有自定义外观和交互式动画的分段控件.  用Swift 3.0编写.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) -  UISegmentedControl的直接替代品，模仿Google Currents和其他各种Google产品中使用的分段控件的风格.
@@ -2479,7 +2479,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [SuperBadges](https://github.com/odedharth/SuperBadges) - 添加表情符号和彩色圆点作为标签栏按钮的标记
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - 用Swift 3.0编写的iOS自定义标签栏控制器
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) -  UITabBar的简洁替代品
-* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) -  UITabBarController，其标签之间有滑动交互.
+* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) -  UITabBarController，其选项卡之间有滑动交互.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - 带选项卡的可滑动视图（如带选项卡布局的Android SwipeView）
 * [Tabman](https://github.com/uias/Tabman) - 功能强大的分页视图控制器，带有iOS指示条.
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) 用Swift编写的美丽ViewPager for iOS（受Android启发 [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout))
@@ -2783,7 +2783,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Socks](https://github.com/vapor-community/sockets)   -  Pure-Swift套接字：TCP，UDP;  客户端服务器;  Linux，macOS
 * [SwifterSockets](https://github.com/Balancingrock/SwifterSockets) -  Swift for OS-X和iOS中的套接字实用程序集合
 * [Swift-ActionCableClient](https://github.com/danielrhodes/Swift-ActionCableClient) -  ActionCable是一个使用Rails 5发布的新WebSocket服务器，可以轻松地为您的应用添加实时功能.
-* [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - 面向对象的Swift风格WebSocket库（RFC 6455），用于Swift兼容平台.
+* [DNWebSocket](https://github.com/GlebRadchenko/DNWebSocket) - 面向对象，Swift风格的WebSocket库（RFC 6455），用于Swift兼容平台.
 
 ## Project setup
 * [crafter](https://github.com/krzysztofzablocki/crafter) -  CLI，允许您使用自定义DSL语法配置iOS项目的模板，简单易用且功能强大.
@@ -2804,6 +2804,7 @@ CollectionView，在几分钟内发现Instagram.
 * [punic](https://github.com/schwa/punic) - 洁净室重新实现迦太基工具
 * [Rome](https://github.com/blender/Rome) - 迦太基构建框架的缓存工具
 * [Athena](https://github.com/yunarta/works-athena-gradle-plugin) -  Gradle Plugin通过将存档的框架上传到Maven存储库来增强Carthage，目前仅支持Bintray，Artifactory和Mavel本地.
+* [Accio](https://github.com/JamitLabs/Accio) - 基于SwiftPM的iOS＆Co.依赖管理器，对Carthage进行了改进.
 
 ## Tools
 
