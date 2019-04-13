@@ -317,7 +317,7 @@ AWS Repos：
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - 增压的AWS命令行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - 轻松命令行访问Amazon EC2，S3，SQS，ELB和SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -  Go中EC2，IAM和S3的强大CLI.
-* [99designs/aws-vault :fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用Go编写的安全存储AWS凭证的工具.
+* [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用Go编写的安全存储AWS凭证的工具.
 
 ### CloudFormation
 

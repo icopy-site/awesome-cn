@@ -34,6 +34,7 @@
 - [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - 通过输入SKU和数量来启用批量订单创建.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - 管理面板中运行crons的概述.
+- [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
 
 
 ---
@@ -249,7 +250,7 @@
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops) - 自由职业者 [neoshops](http://neoshops.de/)
   - [Tony Brown](https://commercehero.io/tonegolf71) - 技术总监 [space48](http://www.space48.com/)
-  -  [Hirokazu Nishi]（）
+  - [Hirokazu Nishi]()
   - [Brent Peterson](https://commercehero.io/brentwpeterson)
   - [Sonja Riesterer](https://commercehero.io/sonja)
   - [Kristof Ringleff](https://commercehero.io/fooman)

@@ -24,6 +24,8 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Terraform Community Modules](https://github.com/terraform-community-modules)
 * [Terraform Module Registry](https://registry.terraform.io/)
 * [Terraform PDF Doc](https://github.com/dohsimpson/terraform-doc-pdf)
+* [Complete Terraform documentation as PDF files (Updated nightly)](https://github.com/antonbabenko/terraform-docs-as-pdf)
+* [Terraform Best Practices](https://www.terraform-best-practices.com/) - [open-source ebook](https://github.com/antonbabenko/terraform-best-practices)
 
 ## Books
 
@@ -36,7 +38,6 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ### Beginner Guides
 * [A Comprehensive Guide to Terraform](https://blog.gruntwork.io/a-comprehensive-guide-to-terraform-b3d32832baca#.w9x897ywp) - 来自“Terraform：Up＆Running”作者的系列博客文章，引导读者从Terraform开始到在现实世界中使用它.
-* [Bootstrapping Docker Infrastructure With Terraform](http://vilkeliskis.com/aws-docker-terraform) - 使用Terraform在ECS上部署dockerized应用程序的演练.
 * [Using Terraform for Cloud Deployments - Part 1](https://dev.to/koenighotze/using-terraform-for-cloud-deployments---part-1) - 配置EC2实例.
 
 ### Writing Custom Providers
@@ -77,6 +78,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 有关此处未列出的更多社区模块，请参阅 [Terraform Module Registry](https://registry.terraform.io/).
 
+* [terraform-aws-modules](https://github.com/terraform-aws-modules) - 社区支持的Terraform AWS模块的收集（包括官方AWS模块）
 * [rancher-terraform-digitalocean](https://github.com/lunagt/rancher-terraform-digitalocean) -  digitalocean上的Rancher服务器.
 * [segmentio/stack](https://github.com/segmentio/stack) - 使用AWS，Docker和ECS配置生产基础架构.
 * [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - 在AWS ECR上管理Docker容器注册表.
@@ -89,17 +91,18 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - 使用Terraform在AWS ECS上规定Jenkins.
 * [terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - 使用共享VPC，IAM，API等创建和配置意见的Google Cloud Platform项目.
 * [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - 根据变量在AWS S3和Cloudfront上创建静态网站.
-* [tf_aws_asg_elb](https://github.com/terraform-community-modules/tf_aws_asg_elb) - 创建自动扩展组和启动配置以与Elastic Load Balancer一起使用.
 * [tf_aws_availability_zones_cfn](https://github.com/terraform-community-modules/tf_aws_availability_zones_cfn) - 从Cloudformation获取AWS区域/帐户的可用区域.
 * [tf_aws_bastion_s3_keys](https://github.com/terraform-community-modules/tf_aws_bastion_s3_keys) - 在AWS EC2上创建堡垒主机.
 * [tf_aws_coreos_ami](https://github.com/terraform-community-modules/tf_aws_coreos_ami) - 使用terraform查找CoreOS AMI的简便方法.
 * [tf_aws_nat](https://github.com/terraform-community-modules/tf_aws_nat) -  AWS的NAT实例.
-* [tf_aws_private_subnet_nat_gateway](https://github.com/terraform-community-modules/tf_aws_private_subnet_nat_gateway) - 在AWS中使用NAT网关创建私有子网.
-* [tf_aws_rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - 在AWS上创建RDS资源.
-* [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - 在AWS上创建EC2-VPC安全组.
-* [tf_aws_ubuntu_ami](https://github.com/terraform-community-modules/tf_aws_ubuntu_ami) - 使用Terraform查找Ubuntu AMI的简便方法.
-* [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - 在AWS上创建VPC资源.
-* [tf_aws_vpc_only](https://github.com/terraform-community-modules/tf_aws_vpc_only) - 仅在AWS中提供VPC（无子网）.
+* [terraform-aws-atlantis](https://github.com/terraform-aws-modules/terraform-aws-atlantis) - 创建用于运行的Terraform配置 [Atlantis](https://runatlantis.io)  在AWS Fargate上.  支持Github，Gitlab和BitBucket.
+* [terraform-aws-vpc](https://github.com/terraform-aws-modules/terraform-aws-vpc) - 在AWS上创建VPC资源（经过验证且非常受欢迎的模块）.
+* [terraform-aws-autoscaling](https://github.com/terraform-aws-modules/terraform-aws-autoscaling) - 创建自动扩展组和启动配置（已验证模块）.
+* [terraform-aws-alb](https://github.com/terraform-aws-modules/terraform-aws-alb) - 在AWS（已验证模块）上创建应用程序负载均衡器.
+* [terraform-aws-elb](https://github.com/terraform-aws-modules/terraform-aws-elb) - 在AWS（已验证模块）上创建Elastic负载均衡器.
+* [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - 在AWS上创建Elastic Kubernetes服务（非常受欢迎的模块）.
+* [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - 在AWS（已验证模块）上创建RDS资源.
+* [terraform-aws-security-group](https://github.com/terraform-aws-modules/terraform-aws-security-group) - 在AWS（已验证模块）上创建EC2-VPC安全组.
 * [terraform-azurerm-aks](https://github.com/kjanshair/terraform-azurerm-aks) - 在Azure上创建AKS resoutces.
 * [terraform-azurerm-redis](https://github.com/rahulkhengare/terraform-azurerm-redis) - 在Azure上创建Redis.
 * [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - 在Azure上创建MySql数据库.
@@ -147,14 +150,17 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.
 * [k2tf](https://github.com/sl1pm4t/k2tf) -  Kubernetes YAML到Terraform HCL转换器.
-* [json2hcl](https://github.com/kvz/json2hcl) - 将JSON转换为HCL，反之亦然.
+* [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa.
+* [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到Terraform. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
+* [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交git钩子来处理Terraform配置（自动格式化，验证，更新文档）.
 * [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自Github的外部模块以用于Terraform.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用terraform命令的简单Ruby包装器.
 * [scenery](https://github.com/dmlittle/scenery) - 另一个Terraform计划输出预处理器
 * [terraboard](https://github.com/camptocamp/terraboard) - 用于检查Terraform国家的Web仪表板.
 * [terraboot](https://github.com/MastodonC/terraboot) -  DSL生成terraform配置并运行它.
-* [terrafile](https://github.com/coretech/terrafile) - Systematically manage external modules from Github for use in Terraform (written in Go).
+* [terrafile](https://github.com/coretech/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Go编写）.
 * [terrafile](https://github.com/dxw/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Ruby编写）.
+* [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)   - 轻松构建包含Terraform二进制文件和提供程序二进制文件的包.  适用于CI和气隙式Terraform Enterprise.
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - 用于从terraform模块生成文档的快速实用程序.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - 改进Terraform的计划输出，使其更易于阅读和理解.
 * [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - 命令行实用程序和JavaScript API，用于从“terraform plan”解析stdout并将其转换为JSON.
@@ -162,13 +168,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理terraform计划的共享Rake任务.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析Terraform状态文件的Ansible动态库存脚本.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) -  Terragrunt是Terraform的薄包装器，支持锁定Terraform状态并实施最佳实践.
-* [terrahelp](https://github.com/opencredo/terrahelp) - 一个命令行实用程序，旨在提供补充功能，有时在使用Terraform时非常有用.
+* [terrahelp](https://github.com/opencredo/terrahelp) - 命令行实用程序旨在提供补充功能，有时在使用Terraform时有用.
 * [terrascan](https://github.com/cesar-rodriguez/terrascan) - 收集用于地形模板的静态代码分析的安全性和最佳实践测试
 * [tfenv](https://github.com/tfutils/tfenv) - 受rbenv启发的Terraform版本管理器.
 * [tfjson](https://github.com/palantir/tfjson) - 用于读入Terraform计划文件并将其转储为JSON的实用程序
 * [tflint](https://github.com/wata727/tflint) - 用于检测“terraform plan”无法检测到的错误的Terraform linter
 * [tfmask](https://github.com/cloudposse/tfmask) -  Terraform实用程序，用于屏蔽“terraform plan”和“terraform apply”的选择输出
-* [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件terraform管理的AWS基础架构的框架
+* [tfscaffold](https://github.com/tfutils/tfscaffold) - 用于控制多环境多组件terraform管理的AWS基础架构的框架.
 * [tfschema](https://github.com/minamijoyo/tfschema) -  Terraform提供商的架构检查员.
 * [tfwrapper](https://github.com/manheim/tfwrapper) -  Rubygem提供运行Hashicorp Terraform的rake任务
 * [tgf](https://github.com/coveo/tgf) - 通过Docker执行Terragrunt / Terraform的Terragrunt前端.

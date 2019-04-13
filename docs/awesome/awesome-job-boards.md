@@ -42,6 +42,10 @@
 
 * [NinjaJobs](https://ninjajobs.org/) - 由InfoSec专业人员开发的社区运营工作平台
 
+## Machine Learning
+
+* [ML Jobs List](https://mljobslist.com/jobs/) - 机器学习工作列表是机器学习社区，用于查找和发布工作！ 
+
 ## Programming
 
 ### Elixir
@@ -51,6 +55,10 @@
 ### Front-End
 
 * [Front-End Developer Jobs](http://frontenddeveloperjob.com/)
+
+### Full-Stack
+
+* [Full-Stack Developer Jobs](https://fullstackjob.com/) - 全栈开发人员的工作板
 
 ### Functional
 
@@ -64,7 +72,7 @@
 
 ### JavaScript
 
-* [Angular Jobs](http://angularjobs.com/)
+* [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
 * [Vue.js Jobs](https://vuejobs.com/)

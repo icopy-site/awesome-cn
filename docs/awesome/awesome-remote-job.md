@@ -191,7 +191,7 @@
   1. [Remote Python](https://www.remotepython.com/) - 专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - 为远程职位发布抓取多个职位空缺.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
-  1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
+  1. [Work Remotely](https://workremotely.io/) - 为远程位置爬行并策划许多作业板馈送
   1. [Workaline](https://workaline.com/)   - 远程作业聚合器.  以前叫阿尔弗雷德.
 
 ## Housing
@@ -300,7 +300,8 @@
   1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
   1. [Deeson](https://www.deeson.co.uk/careers)   - 英国与欧洲团队合作.  数字代理商，专门从事Drupal，Symfony和Laravel
   1. [Demio](https://demio.com/inside/) - 正常运作的网络研讨会平台.
-  1. [DigitalOcean](https://www.digitalocean.com/careers/) - Simple Cloud Hosting, Built for Developers
+  1. [digitalminds.io](https://www.digitalminds.io/careers/) - 自由平台，面向开发人员，IT顾问和数字专家
+  1. [DigitalOcean](https://www.digitalocean.com/careers/) - 简单的云托管，专为开发人员而设计
   1. [Discourse](https://www.discourse.org/team) - 为您的社区进行文明讨论.
   1. [DNSimple](https://dnsimple.com) - 小型100％远程和全球分布的团队致力于使域管理成为事后的想法.
   1. [Doist](https://doist.com/jobs/) - 自2007年以来重新定义生产力.
@@ -330,7 +331,7 @@
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/)   - 使医疗保健系统更加可用.  总部设在美国威斯康星州麦迪逊市.  Ruby，Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) - 网络和移动分析，我们的8个队友中有2个是远程的.
-  1. [Help Scout](https://www.helpscout.net/careers/) - 为坚持愉快客户体验的团队提供服务台.
+  1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
   1. [Heroku](https://www.heroku.com/careers) -  PaaS Cloud，让开发者体验真棒，Ruby，Erlang，Javascript，Golang，Python.
   1. [Honeybadger](https://www.honeybadger.io/)   -  Ruby.  100％遥控.
   1. [Hotjar](https://careers.hotjar.com/) - 分析和反馈工具.
@@ -348,14 +349,14 @@
   1. [Keepsafe](https://www.getkeepsafe.com) - 移动优先隐私产品，让全世界都可以轻松选择隐私.
   1. [Khan Academy](https://www.khanacademy.org/careers)   -  EdTech.  非营利性专注于K-12 STEM.  Less，React，Flux，Backbone，jQuery，Python，Google App Engine，Swift和Objective-C.
   1. [Knack](https://www.knack.com/jobs) - 简单的在线数据库.
-  1. [LaterPay](https://www.laterpay.net/) - The (micro)payment enabler. Munich, Germany. Python, JavaScript, AWS.
+  1. [LaterPay](https://www.laterpay.net/)   - （微）支付启动器.  德国慕尼黑.  Python，JavaScript，AWS.
   1. [LaunchPotato](http://launchpotato.com/careers) - 位于佛罗里达州德尔雷比奇的创业工作室.
   1. [Librato](http://solarwinds.jobs/solarwinds-cloud/) - 云监控.
   1. [Linaro](https://www.linaro.org/careers/) -  ARM上的OpenSource Engineering.
   1. [Lincoln Loop](https://lincolnloop.com) -  WebDev商店.
   1. [Litmus](https://litmus.com/careers)   - 电子邮件专业人员的优化工具  波士顿和伦敦的办事处，但近50％的团队远程工作.
   1. [LivingSocial](https://jobs.groupon.com/)   - 全公司范围内对经验丰富的远程开发人员团队的支持.  很多自治权.
-  1. [Lullabot](https://www.lullabot.com/jobs) - 使用Drupal进行战略，设计和开发.
+  1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [madewithlove](https://madewithlove.be/jobs) - 我们帮助公司建立数字产品，并为似乎陷入困境的团队带来新的果汁.
   1. [Maintainer Mountaineer](https://maintainer.io) - 开源社区管理即服务.
   1. [MariaDB](https://mariadb.com/about-us/careers) - 开源数据库.
@@ -432,7 +433,7 @@
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图，网络和应用程序使用情况监控以及集成进行时间跟踪.
   1. [Tipe](https://tipe.io)   - 使用GraphQL或REST API的下一代API第一CMS.  使用Nuxt.js构建，无服务器，AWS.  25％的远程
   1. [Toggl](https://jobs.toggl.com/)
-  1. [Toptal](https://www.toptal.com/careers) -  100％的远程开发公司，解决全球人才短缺问题
+  1. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - 城市旅行背包.
   1. [Transloadit](https://transloadit.com/jobs/) - 自2009年以来，devs为开发者提供世界上最通用的文件上传和编码服务
   1. [Trello](https://trello.com/jobs)
@@ -485,7 +486,6 @@
   1. [Floobits](https://floobits.com)   - 具有屏幕共享的远程配对编程.  与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)   - 团队的基于浏览器的群聊.  与GitHub，Jira，Jenkins等集成.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) - 聊天系统，共享桌面和视频通话.
-  1. [Hipchat](https://www.hipchat.com/) - 黑客的内部聊天.
   1. [IRCCloud](https://www.irccloud.com) - 具有永久存储功能的基于浏览器的IRC客户端.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一个开源语音聊天软件
   1. [Precursor](https://precursorapp.com) - 具有实时协作的简单原型设计和头脑风暴Web应用程序.

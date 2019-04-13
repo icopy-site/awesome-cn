@@ -83,6 +83,7 @@
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) - 额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD3子句]
 * [CMakeCM](https://github.com/vector-of-bool/CMakeCM)   -  CMake社区模块.  ```[NO LICENSE]```
+* [Metabench](https://github.com/ldionne/metabench)   - 用于编译时微基准测试的CMake模块.  [```[BOOST]```] [BOOST]
 
 ## Utility Scripts
 
@@ -130,7 +131,7 @@
 * [cmake-init](https://github.com/cginternals/cmake-init)   - 使用CMake进行可靠的跨平台C ++项目设置的模板.  [```[LICENSE]```]（https://github.com/cginternals/cmake-init/blob/master/LICENSE）
 * [learning-cmake](https://github.com/Akagi201/learning-cmake)   - 这是一个简单的CMake练习项目，包含一些不同的场景.  [```[GPL2]```] [GPL2]
 * [cmake_test](https://github.com/skebanga/cmake_test)   - 使用CMake的小示例项目.  ```[NO LICENSE]```
-* [android-cmake](https://github.com/forexample/android-cmake) - 使用示例 [ruslo/hunter](https://github.com/ruslo/hunter)  Android应用程序的包管理器.  [```[BSD2]```] [BSD2子句]
+* [android-cmake](https://github.com/forexample/android-cmake) - 使用示例 [ruslo/hunter](https://github.com/ruslo/hunter) package manager for an Android application. [```[BSD2]```][BSD-2-Clause]
 * [hunter-simple](https://github.com/forexample/hunter-simple) - 使用下载/安装依赖项的示例 [ruslo/hunter](https://github.com/ruslo/hunter)  包经理.  [```[BSD2]```] [BSD2子句]
 * [weather](https://github.com/ruslo/weather) - 使用示例 [Hunter](http://github.com/ruslo/hunter)  CMake的跨平台包管理器，用于构建使用Boost，CppNetlib.URI，GTest，JSON Spirit的应用程序.  平台：Windows（Visual Studio），Linux，Mac OS X + iOS.  [```[BSD2]```] [BSD2子句]
 * [package-example](https://github.com/forexample/package-example) -  find_package的配置模式（示例为 [this](http://stackoverflow.com/questions/20746936/cmake-of-what-use-is-find-package-if-you-need-to-specify-cmake-module-path-an)  Stack Overflow问题）.  ```[NO LICENSE]```
@@ -206,5 +207,5 @@
 [BSD-2-Clause]：https：//opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https：//opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http：//www.apache.org/licenses/LICENSE-2.0
-[CC0-1.0]: https://creativecommons.org/publicdomain/zero/1.0/
+[CC0-1.0]：https：//creativecommons.org/publicdomain/zero/1.0/
 [MPL]：https：//www.mozilla.org/en-US/MPL/2.0/

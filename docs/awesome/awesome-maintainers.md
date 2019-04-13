@@ -85,6 +85,8 @@
   *“维护者故事：卡特里娜欧文”（[video](https://www.youtube.com/watch?v=MjKwvdF7SrA))
 * [@lmccart](https://github.com/lmccart), [p5.js](https://github.com/processing/p5.js)
   *“设计，软件和开源”（[interview](https://changelog.com/rfc/19))
+* [@mikeal](https://github.com/mikeal), [request](https://github.com/request/request/)
+  *“请求的过去，现在和未来”（[post](https://github.com/request/request/issues/3142))
 * [@MikeMcQuaid](https://github.com/MikeMcQuaid), [Homebrew](https://github.com/Homebrew)
   *“开源贡献者漏斗”（[post](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/), [video](https://www.youtube.com/watch?v=OsOZpF6LFcw), [slides](http://mikemcquaid.com/talks/the-open-source-contributor-funnel/))
 * [@mlavin](https://github.com/mlavin), [Django](https://github.com/django/django)
