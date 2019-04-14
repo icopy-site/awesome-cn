@@ -196,13 +196,6 @@
 - [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
 - [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
 
-### Presentations
-
-- [WOPR](https://github.com/yaronn/wopr) - 一种简单的标记语言，用于创建丰富的终端报告，演示文稿和图表.
-- [decktape](https://github.com/astefanutti/decktape) - 用于HTML演示文稿的PDF导出器.
-- [mdp](https://github.com/visit1985/mdp) - 基于命令行的降价演示工具.
-- [sent](https://tools.suckless.org/sent/) - 简单的纯文本演示工具.
-
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测Buffer / Uint8Array的归档类型.

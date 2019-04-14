@@ -74,7 +74,7 @@ Menu
 * [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) 通过 [Laura Frank](https://twitter.com/rhein_wein)
-* [Kubernetes入门]  -  http://containertutorials.com/get_started_kubernetes/index.html [Rajdeep Dua](https://twitter.com/rajdeepdua)
+* [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) 通过 [Rajdeep Dua](https://twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) 通过 [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes 通过 Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) 通过 [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -102,11 +102,11 @@ Installers
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
 * [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) - 不可知的骨头 - 不可知云
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - 不可知的骨头 - 不可知云
-* [Bootkube](https://github.com/kubernetes-incubator/bootkube) - CoreOS - Cloud Agnostique
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube) -  CoreOS  - 不可知云
 * [Kube-aws](https://github.com/coreos/kube-aws) -  CoreOS  -  AWS
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
-* [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique
+* [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
 * [sealos](https://github.com/fanux/sealos) -  HA安装程序的简单安装程序
 * [KubeNow](https://github.com/kubenow/KubeNow) -  Ubuntu  -  Cloud Agnostic
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - 不可知的骨头 - 不可知云
@@ -229,7 +229,7 @@ Installers
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) 作者：Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) 通过 [Sebastien Goasguen](https://twitter.com/sebgoa)
-* [使用Kubernetes进行Nginx服务器部署]  -  http://containertutorials.com/get_started_kubernetes/k8s_example.html by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
+* [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) 通过 [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
@@ -327,7 +327,7 @@ Installers
 MOOC课程/教程
 =======================================================================
 
-*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)) and tutorials*
+*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
 
 
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -491,7 +491,7 @@ Projects
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - 杀死目标吊舱和机器，以测试您的软件可靠性
 * [Litmus](https://github.com/openebs/litmus) - 针对Kubernetes的状态工作负载的混沌工程
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - 基于kubeadm的多节点测试集群
-* [kind](https://github.com/bsycorp/kind) - 单个节点群集，可在30秒内针对这些群集运行CI测试
+* [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
 
 ## Continuous Delivery
 
@@ -834,7 +834,7 @@ Books
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) 通过 [Viktor Farcic](https://twitter.com/vfarcic)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （OpenSource Book in Chinese）by [Jimmy Song](https://github.com/rootsongjc)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
-* [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修帕尔默
+* [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)

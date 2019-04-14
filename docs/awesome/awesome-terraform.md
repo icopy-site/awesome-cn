@@ -72,7 +72,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [The Segment AWS Stack](https://segment.com/blog/the-segment-aws-stack/) - 显示由Terraform提供支持的基础设施的幕后故障 [The Million Dollar Engineering Problem](https://segment.com/blog/the-million-dollar-eng-problem/) 在 [Segment](https://segment.com/).
 * [Top 3 Terraform Testing Strategies for Ultra-Reliable Infrastructure-as-Code](https://www.contino.io/insights/top-3-terraform-testing-strategies-for-ultra-reliable-infrastructure-as-code)
 * [Two Weeks with Terraform](https://charity.wtf/2016/02/23/two-weeks-with-terraform/) - 在野外使用Terraform的一些来之不易的经验，以及一些操作智慧.
-* [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - 使用Terraform提供示例AWS架构的演示说明.
+* [Terraform: Beyond the Basics with AWS](https://aws.amazon.com/blogs/apn/terraform-beyond-the-basics-with-aws/) - Explanation of a demo using Terraform to provision a sample AWS architecture.
 
 ## Community Modules
 
@@ -133,6 +133,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-spotinst](https://github.com/terraform-providers/terraform-provider-spotinst) - 适用于AWS，Azure，GCP的Devops自动化平台.
 * [terraform-provider-stripe](https://github.com/franckverrot/terraform-provider-stripe) - 条纹提供商.
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - 提供管理uptimerobot资源的提供商.
+* [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - 加密的HashiCorp Vault通过Terraform保密，可以存储在SCM中，如Git.
 * [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - 适用于VMware vSphere的插件.
 * [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza的提供者.
 
@@ -150,7 +151,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.
 * [k2tf](https://github.com/sl1pm4t/k2tf) -  Kubernetes YAML到Terraform HCL转换器.
-* [json2hcl](https://github.com/kvz/json2hcl) - Convert JSON to HCL and vice versa.
+* [json2hcl](https://github.com/kvz/json2hcl) - 将JSON转换为HCL，反之亦然.
 * [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到Terraform. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
 * [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交git钩子来处理Terraform配置（自动格式化，验证，更新文档）.
 * [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自Github的外部模块以用于Terraform.

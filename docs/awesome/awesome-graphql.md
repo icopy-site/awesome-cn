@@ -77,7 +77,7 @@
 * [Grafoo](https://github.com/grafoojs/grafoo) - 一个小型但完全成熟的基于缓存的GraphQL客户端
 
 #### HTTP Server Bindings
-* [express-graphql](https://github.com/graphql/express-graphql) - GraphQL Express Middleware.
+* [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
 * [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
@@ -191,7 +191,7 @@
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)   - 模式生成和执行包，将POJO转换为GraphQL Java可查询对象集.  允许使用Annotations将任何服务公开为GraphQL服务.
 * [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 使用GraphQL Java为模式定义提供基于注释的语法.
 * [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)   -  Schema-first graphql-java便利库，可以轻松将您自己的实现作为数据解析器.  灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于JS.
-* [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 与框架无关的java servlet，用于通过GET，POST和分段上传公开graphql-java查询端点.
+* [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) -  Spring Framework GraphQL库.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) -  GraphQL和GraphiQL Spring Framework启动程序.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - 异步GraphQL服务发现和查询您的微服务.
@@ -365,6 +365,7 @@
 * [GRAPHQL DESIGNER](http://graphqldesigner.com/) - 开发人员的Web应用程序工具，使用React快速构建GraphQL的完整堆栈CRUD实现.
 * [GraphQL Inspector](https://graphql-inspector.com/)   -  GraphQL的工具.  比较模式，验证文档，查找重大更改，查找类似类型，模式覆盖.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client)   - 为任何GraphQL端点生成强类型客户端库的工具.  客户端允许将GraphQL查询编写为普通的JS对象（具有类型安全性和令人敬畏的代码完成体验）
+* [OASGraph](https://github.com/strongloop/oasgraph) - 采用任何OpenAPI规范（OAS）或swagger并创建GraphQL接口 - 一分钟视频和资源 [here](https://v4.loopback.io/oasgraph.html)
 
 <a name="databases" />
 

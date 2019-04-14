@@ -225,7 +225,7 @@ const collectInto = fn =&gt;（... args）=&gt; fn（args）;
 <summary>Examples</summary>
 
 ```js
-const Pall = collectInto（Promise.all.bind（Promise））;
+const Pall = collectInto(Promise.all.bind(Promise));
 让p1 = Promise.resolve（1）;
 让p2 = Promise.resolve（2）;
 让p3 = new Promise（resolve =&gt; setTimeout（resolve，2000,3））;
@@ -298,7 +298,7 @@ const overArgs =（fn，transforms）=&gt;（... args）=&gt; fn（... args.map�
 ```js
 const square = n =&gt; n * n;
 const double = n =&gt; n * 2;
-const fn = overArgs((x, y) => [x, y], [square, double]);
+const fn = overArgs（（x，y）=&gt; [x，y]，[square，double]）;
  fn（9,3）;  // [81,6]
 ```
 
@@ -699,7 +699,7 @@ const deepFlatten = arr =&gt; [] .concat（... arr.map（v =&gt;（Array.isArray
 <summary>Examples</summary>
 
 ```js
-deepFlatten([1, [2], [[3], 4], 5]); // [1,2,3,4,5]
+ deepflat（[1，[2]，[[3]，4]，5]）;  // [1,2,3,4,5]
 ```
 
 </details>
@@ -858,7 +858,7 @@ const dropWhile =（arr，func）=&gt; {
 <summary>Examples</summary>
 
 ```js
-dropWhile([1, 2, 3, 4], n => n >= 3); // [3,4]
+ dropWhile（[1,2,3,4]，n =&gt; n&gt; = 3）;  // [3,4]
 ```
 
 </details>
@@ -1499,7 +1499,7 @@ const squareIt = arr =&gt; mapObject（arr，a =&gt; a * a）;
 省略第二个参数`n`，得到一个单元素数组.
 
 ```js
-const maxN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; b  -  a）.slice（0，n）;
+const maxN = (arr, n = 1) => [...arr].sort((a, b) => b - a).slice(0, n);
 ```
 
 <details>
@@ -1820,7 +1820,7 @@ const date = [
   }
 ];
 
- reducedFilter（data，[&#39;id&#39;，&#39;name&#39;]，item =&gt; item.age&gt; 24）;  // [{id：2，name：&#39;mike&#39;}]
+reducedFilter(data, ['id', 'name'], item => item.age > 24); // [{ id: 2, name: 'mike'}]
 ```
 
 </details>
@@ -1904,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-      arr.splice（arr.indexOf（val），1）;
-      return acc.concat（val）;
-    }, [])
+        arr.splice（arr.indexOf（val），1）;
+        return acc.concat（val）;
+      }, [])
     : [];
 ```
 
@@ -2217,7 +2217,7 @@ const symmetricDifference =（a，b）=&gt; {
 ```js
 const symmetricDifferenceBy =（a，b，fn）=&gt; {
   const sA = new Set（a.map（v =&gt; fn（v）））
-    sB = new Set（b.map（v = fn（v）））;
+    sB = new Set（b.map（v =&gt; fn（v）））;
   return [... a.filter（x =&gt;！sB.has（fn（x））），... b.filter（x =&gt;！sA.has（fn（x）））];
 };
 ```
@@ -2518,7 +2518,7 @@ uniqueElementsBy(
     {id：0，价值：&#39;e&#39;}
   ],
   （a，b）=&gt; a.id == b.id
-); // [ { id: 0, value: 'a' }, { id: 1, value: 'b' }, { id: 2, value: 'c' } ]
+ ）;  // [{id：0，值：&#39;a&#39;}，{id：1，值：&#39;b&#39;}，{id：2，值：&#39;c&#39;}]
 ```
 
 </details>
@@ -2810,7 +2810,7 @@ const bottomVisible =（）=&gt;
 <summary>Examples</summary>
 
 ```js
- bottomVisible（）;  //真
+bottomVisible(); // true
 ```
 
 </details>
@@ -2868,7 +2868,7 @@ const copyToClipboard = str =&gt; {
 省略第五个参数`duration`，使用默认的持续时间`2000`ms.
 
 ```js
-const counter = (selector, start, end, step = 1, duration = 2000) => {
+const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
   让current = start，
      _step =（结束 - 开始）*步&lt;0？  -step：step，
     timer = setInterval（（）=&gt; {
@@ -3001,7 +3001,7 @@ const currentURL =（）=&gt; window.location.href;
 使用正则表达式测试`navigator.userAgent`属性，以确定设备是移动设备还是台式机/笔记本电脑.
 
 ```js
-const detectDeviceType =（）=&gt;
+const detectDeviceType = () =>
   / Android | webOS | iPhone | iPad | iPod | BlackBerry | IEMobile | Opera Mini / i.test（navigator.userAgent）
      ？  &#39;移动&#39;
     ： &#39;桌面&#39;;
@@ -3053,7 +3053,7 @@ const elementIsVisibleInViewport =（el，partiallyVisible = false）=&gt; {
   返回partialVisible
      ？  （（top&gt; 0 &amp;&amp; top &lt;innerHeight）||（bottom&gt; 0 &amp;&amp; bottom &lt;innerHeight））&amp;&amp;
         （（left&gt; 0 &amp;&amp; left &lt;innerWidth）||（right&gt; 0 &amp;&amp; right &lt;innerWidth））
-    ：top&gt; = 0 &amp;&amp; left&gt; = 0 &amp;&amp; bottom &lt;= innerHeight &amp;&amp; right &lt;= innerWidth;
+    : top >= 0 && left >= 0 && bottom <= innerHeight && right <= innerWidth;
 };
 ```
 
@@ -3345,7 +3345,7 @@ const observeMutations =（element，callback，options）=&gt; {
   const observer = new MutationObserver（mutation =&gt; mutation.forEach（m =&gt; callback（m）））;
   observer.observe（
     元件，
-    Object.assign（
+    Object.assign(
       {
         childList：true，
         属性：true，
@@ -3453,7 +3453,7 @@ const onUserInputChange = callback =&gt; {
 
 ```js
 onUserInputChange（type =&gt; {
-  console.log（&#39;用户现在正在使用&#39;，type，&#39;作为输入法.&#39;）;
+  console.log('The user is now using', type, 'as an input method.');
 });
 ```
 
@@ -3643,7 +3643,7 @@ scrollToTop();
 
 ```js
 const serializeForm = form =&gt;
-  Array.from(new FormData(form), field => field.map(encodeURIComponent).join('=')).join('&');
+  Array.from（new FormData（form），field =&gt; field.map（encodeURIComponent）.join（&#39;=&#39;））.join（&#39;＆&#39;）;
 ```
 
 <details>
@@ -3965,7 +3965,7 @@ const isBeforeDate =（dateA，dateB）=&gt; dateA &lt;dateB;
 
 ### isSameDate
 
-Check if a date is the same as another date.
+检查日期是否与另一个日期相同.
 
 使用`Date.prototype.toISOString（）`和严格的等式检查（`===`）来检查第一个日期是否与第二个日期相同.
 
@@ -4209,6 +4209,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -4367,12 +4368,12 @@ window.addEventListener(
 
 ### defer
 
-延迟调用函数，直到当前调用堆栈清除为止.
+Defers invoking a function until the current call stack has cleared.
 
  使用超时为1ms的`setTimeout（）`将新事件添加到浏览器事件队列，并允许渲染引擎完成其工作.  使用spread（`...`）运算符为函数提供任意数量的参数.
 
 ```js
-const defer =（fn，... args）=&gt; setTimeout（fn，1，... args）;
+const defer = (fn, ...args) => setTimeout(fn, 1, ...args);
 ```
 
 <details>
@@ -4555,7 +4556,7 @@ const once = fn =&gt; {
 
 ```js
 const startApp = function（event）{
-  console.log(this, event); // document.body, MouseEvent
+   console.log（this，event）;  // document.body，MouseEvent
 };
  document.body.addEventListener（&#39;click&#39;，once（startApp））;  //只在点击时运行`startApp`
 ```
@@ -4992,7 +4993,7 @@ const distance =（x0，y0，x1，y1）=&gt; Math.hypot（x1  -  x0，y1  -  y0�
 
 
 使用the计算两个或更多对手之间的新评级 [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system) .  它需要一个数组
-of pre-ratings and returns an array containing post-ratings.
+预评级并返回包含评级后的数组.
 阵列应该从最佳表演者到最差表演者（胜利者 - &gt;失败者）订购.
 
 使用指数`**`运算符和数学运算符来计算预期得分（获胜的机会）.
@@ -5365,7 +5366,7 @@ const mapNumRange =（num，inMin，inMax，outMin，outMax）=&gt;
 
 ### maxBy
 
-在使用提供的函数将每个元素映射到值之后，返回数组的最大值.
+Returns the maximum value of an array, after mapping each element to a value using the provided function.
 
 使用`Array.prototype.map（）`将每个元素映射到`fn`，`Math.max（）`返回的值，以获得最大值.
 
@@ -5765,7 +5766,7 @@ const toSafeInteger = num =&gt;
 <summary>Examples</summary>
 
 ```js
- toSafeInteger（&#39;3.2&#39;）;  // 3zi
+ toSafeInteger（&#39;3.2&#39;）;  // 3
  toSafeInteger（无限远）;  // 9007199254740991
 ```
 
@@ -6118,7 +6119,7 @@ const JSONToFile =（obj，filename）=&gt;
 
 ```js
 const fs = require（&#39;fs&#39;）;
-const readFileLines = filename =>
+const readFileLines = filename =&gt;
   FS
     .readFileSync（文件名）
     的ToString（ &#39;UTF8&#39;）
@@ -6350,7 +6351,7 @@ const upperKeysObj = deepMapKeys（obj，key =&gt; key.toUpperCase（））;
 
 ### defaults
 
-为“undefined”对象中的所有属性分配默认值.
+为“未定义”的对象中的所有属性分配默认值.
 
 使用`Object.assign（）`创建一个新的空对象并复制原始对象以维护键顺序，使用`Array.prototype.reverse（）`和扩展运算符`...`来组合左边的默认值到了右边，最后再次使用`obj`来覆盖最初有值的属性.
 
@@ -7036,7 +7037,7 @@ const pickBy =（obj，fn）=&gt;
 ```js
 const renameKeys =（keysMap，obj）=&gt;
   Object.keys（OBJ）.降低（
-    (acc, key) => ({
+    （acc，key）=&gt;（{
       ... ACC，
       ...{ [keysMap[key] || key]: obj[key] }
     }),
@@ -7088,7 +7089,7 @@ const a = {x：true，y：1};
 使用`split（&#39;&#39;）`将字符串拆分为字符数组并返回其长度.
 
 ```js
-const size = val =&gt;
+const size = val =>
   Array.isArray（VAL）
      ？  val.length
     ：val &amp;&amp; typeof val ===&#39;object&#39;
@@ -7169,7 +7170,7 @@ const unflattenObject = obj =&gt;
   Object.keys（obj）.reduce（（acc，k）=&gt; {
     if（k.indexOf（&#39;.&#39;）！== -1）{
       const keys = k.split（&#39;.&#39;）;
-      Object.assign（
+      Object.assign(
         ACC，
         JSON.parse（
           '{' +
@@ -7483,8 +7484,8 @@ const isAbsoluteURL = str =&gt; /^ [az] [ -  z0-9 + .-] *：/.test(str）;
 
 ```js
  isAbsoluteURL（ &#39;https://google.com&#39;）;  //真
-isAbsoluteURL('ftp://www.myserver.net'); // true
- isAbsoluteURL（ &#39;/富/巴&#39;）;  //假
+ isAbsoluteURL（ &#39;ftp://www.myserver.net&#39;）;  //真
+isAbsoluteURL('/foo/bar'); // false
 ```
 
 </details>
@@ -7842,7 +7843,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7869,10 +7870,10 @@ const toCamelCase = str =&gt; {
 将字符串分解为单词并将它们组合使用regexp将`-`添加为分隔符.
 
 ```js
-const toKebabCase = str =>
+const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7901,7 +7902,7 @@ const toKebabCase = str =>
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7929,7 +7930,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8152,7 +8153,7 @@ const isBoolean = val =&gt; typeof val ===&#39;boolean&#39;;
 
 ### isEmpty
 
-如果a值是空对象，集合，映射或集合，没有可枚举属性或任何不被视为集合的类型，则返回true.
+如果a值是空对象，集合，没有可枚举属性或任何不被视为集合的类型，则返回true.
 
 检查提供的值是否为“null”或者其“length”是否等于“0”.
 
@@ -8164,8 +8165,6 @@ const isBoolean = val =&gt; typeof val ===&#39;boolean&#39;;
 <summary>Examples</summary>
 
 ```js
- isEmpty（new Map（））;  //真
- isEmpty（new Set（））;  //真
  是空的（[]）;  //真
  是空的（{}）;  //真
  是空的（&#39;&#39;）;  //真
@@ -8280,11 +8279,11 @@ const isObject = obj =&gt; obj === Object（obj）;
 
 ```js
  isObject（[1,2,3,4]）;  //真
-isObject([]); // true
+ 则IsObject（[]）;  //真
  则IsObject（[ &#39;你好！&#39;]）;  //真
  isObject（{a：1}）;  //真
  则IsObject（{}）;  //真
- 则IsObject（真）;  //假
+isObject(true); // false
 ```
 
 </details>
@@ -8685,7 +8684,7 @@ httpGet(
   'https://jsonplaceholder.typicode.com/posts/1',
   的console.log
 ); /*
-Logs: {
+日志：{
   “userId”：1，
   “id”：1，
   “标题”：“提供或拒绝盲目，欢迎找到选项”
@@ -8735,7 +8734,7 @@ httpPost(
   数据，
   的console.log
 ); /*
-Logs: {
+日志：{
   “userId”：1，
   “id”：1337，
   “title”：“Foo”，
@@ -8747,7 +8746,7 @@ httpPost(
   null，//不发送正文
   的console.log
 ); /*
-Logs: {
+日志：{
   “id”：101
 }
 */
@@ -8855,7 +8854,7 @@ const parseCookie = str =&gt;
     .分裂（&#39;;&#39;）
     .map（v =&gt; v.split（&#39;=&#39;））
     .reduce（（acc，v）=&gt; {
-      acc [decodeURIComponent（v [0] .trim（））] = decodeURIComponent（v [1] .trim（））;
+      acc[decodeURIComponent(v[0].trim())] = decodeURIComponent(v[1].trim());
       返回acc;
     }, {});
 ```

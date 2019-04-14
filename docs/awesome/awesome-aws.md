@@ -380,7 +380,7 @@ AWS Repos：
 
 AWS Repos：
 
-* [aws-codedeploy-agent :fire:](https://github.com/aws/aws-codedeploy-agent) - 样品代理.
+* [aws-codedeploy-agent :fire::fire:](https://github.com/aws/aws-codedeploy-agent) - 样品代理.
 * [aws-codedeploy-plugin :fire:](https://github.com/awslabs/aws-codedeploy-plugin) - 詹金斯插件.
 * [aws-codedeploy-samples :fire::fire::fire:](https://github.com/awslabs/aws-codedeploy-samples) - 样本和模板方案.
 

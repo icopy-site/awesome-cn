@@ -1,9 +1,12 @@
 <div class="github-widget" data-repo="bcoe/awesome-cross-platform-nodejs"></div>
-<img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://awesome.re/)
-
-&gt;用于编写跨平台Node.js代码的精彩开发人员工具的精选列表.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
+  <br>
+  <a href="https://awesome.re">
+	  <img src="https://awesome.re/badge.svg" alt="Awesome">
+  </a>
+  <p>用于编写跨平台Node.js代码的精彩开发人员工具的精选列表. </p>
+</div>
 
 
 
@@ -35,11 +38,12 @@
 
 - [ievms](https://github.com/amichaelparker/ievms)   -  Microsoft提供的免费虚拟机映像的自动安装程序，用于在多个IE版本上进行测试.  这些图像可用于跨平台测试各种技术，但请确保您阅读并理解微软的许可.
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - 用于运行x86虚拟机的通用软件.
+- [Docker](https://www.docker.com/) - 在通用操作系统上创建，部署和管理虚拟化应用程序容器的软件平台，具有相关工具生态系统.
 
 ### Compatibility
 
 - [Wine](https://www.winehq.org/) - 在Linux，Mac，BSD和Solaris上运行Windows API调用.
-- [Cygwin](https://www.cygwin.com/) - 在Windows上运行POSIX.
+- [Cygwin](https://www.cygwin.com/) - Run POSIX on Windows.
 - [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10) - 在Windows上运行Linux命令行（ELF二进制执行，系统调用，文件系统，Bash，核心实用程序，常见应用程序）.
 - [MinGW](http://www.mingw.org/) -  Windows上的`gcc`.
 - [msys](http://www.mingw.org/wiki/msys) / [Git Bash](https://gitforwindows.org/) -  Windows上的Bash.
@@ -101,6 +105,7 @@
 
 - [open](https://github.com/sindresorhus/open)   - 打开网站，文件，可执行文件等内容.  跨平台.
 - [node-notifier](https://github.com/mikaelbr/node-notifier) - 跨平台桌面通知.
+- [electron](https://electronjs.org/) - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序.
 
 ### Windows registry
 
@@ -138,12 +143,12 @@ our [guidelines](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/mast
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->
-<table><tr><td align="center"><a href="https://twitter.com/benjamincoe"><img src="https://avatars3.githubusercontent.com/u/194609?v=4" width="100px;" alt="Benjamin E. Coe"/><br /><sub><b>Benjamin E. Coe</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Code">💻</a> <a href="#ideas-bcoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Documentation">📖</a></td><td align="center"><a href="https://twitter.com/ehmicky"><img src="https://avatars2.githubusercontent.com/u/8136211?v=4" width="100px;" alt="ehmicky"/><br /><sub><b>ehmicky</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Code">💻</a> <a href="#ideas-ehmicky" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Documentation">📖</a></td><td align="center"><a href="https://sindresorhus.com"><img src="https://avatars1.githubusercontent.com/u/170270?v=4" width="100px;" alt="Sindre Sorhus"/><br /><sub><b>Sindre Sorhus</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Code">💻</a> <a href="#ideas-sindresorhus" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Documentation">📖</a></td><td align="center"><a href="https://kentcdodds.com"><img src="https://avatars0.githubusercontent.com/u/1500684?v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#ideas-kentcdodds" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://nz.linkedin.com/in/jsonc11"><img src="https://avatars0.githubusercontent.com/u/5185660?v=4" width="100px;" alt="Jason Cooke"/><br />  <sub>杰森库克</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Jason-Cooke" title="文档"></a></td><td align="center"><img src="https://avatars0.githubusercontent.com/u/3322693?v=4" width="100px;" alt="Aron Hafner"/><br />  <sub>亚伦哈夫纳</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=alonalon" title="文档"></a></td><td align="center"><img src="https://avatars0.githubusercontent.com/u/43875468?v=4" width="100px;" alt="ShPelles"/><br />  <sub>洞穴</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ShPelles" title="文档"></a></td></tr><tr><td align="center"><img src="https://avatars1.githubusercontent.com/u/1182395?v=4" width="100px;" alt="Xiaodan Mao"/><br /><sub><b>Xiaodan Mao</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Frederick-S" title="Documentation"></a></td><td align="center"><a href="https://raw.githubusercontent.com/jamestalmage"><img src="https://avatars0.githubusercontent.com/u/4082216?v=4" width="100px;" alt="James Talmage"/><br />  <sub>詹姆斯塔尔马</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=jamestalmage" title="文档"></a></td><td align="center"><img src="https://avatars3.githubusercontent.com/u/3357643?v=4" width="100px;" alt="Sylvain PONTOREAU"/><br />  <sub>Sylvain PONTOREAU</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=spontoreau" title="文档"></a></td></tr></table>
+<table><tr><td align="center"><a href="https://twitter.com/benjamincoe"><img src="https://avatars3.githubusercontent.com/u/194609?v=4" width="100px;" alt="Benjamin E. Coe"/><br /><sub><b>Benjamin E. Coe</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Code">💻</a> <a href="#ideas-bcoe" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=bcoe" title="Documentation">📖</a></td><td align="center"><a href="https://twitter.com/ehmicky"><img src="https://avatars2.githubusercontent.com/u/8136211?v=4" width="100px;" alt="ehmicky"/><br /><sub><b>ehmicky</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Code">💻</a> <a href="#ideas-ehmicky" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ehmicky" title="Documentation">📖</a></td><td align="center"><a href="https://sindresorhus.com"><img src="https://avatars1.githubusercontent.com/u/170270?v=4" width="100px;" alt="Sindre Sorhus"/><br /><sub><b>Sindre Sorhus</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Code">💻</a> <a href="#ideas-sindresorhus" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=sindresorhus" title="Documentation">📖</a></td><td align="center"><a href="https://fb.com/RemoveU"><img src="https://avatars1.githubusercontent.com/u/19208123?v=4" width="100px;" alt="Hongarc"/><br /><sub><b>Hongarc</b></sub></a><br /><a href="#design-Hongarc" title="Design">🎨</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Documentation">📖</a> <a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Hongarc" title="Code">💻</a></td><td align="center"><a href="https://kentcdodds.com"><img src="https://avatars0.githubusercontent.com/u/1500684?v=4" width="100px;" alt="Kent C. Dodds"/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#ideas-kentcdodds" title="Ideas, Planning, & Feedback">🤔</a></td><td align="center"><a href="https://nz.linkedin.com/in/jsonc11"><img src="https://avatars0.githubusercontent.com/u/5185660?v=4" width="100px;" alt="Jason Cooke"/><br />  <sub>杰森库克</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Jason-Cooke" title="文档"></a></td><td align="center"><img src="https://avatars0.githubusercontent.com/u/3322693?v=4" width="100px;" alt="Aron Hafner"/><br />  <sub>亚伦哈夫纳</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=alonalon" title="文档"></a></td></tr><tr><td align="center"><img src="https://avatars0.githubusercontent.com/u/43875468?v=4" width="100px;" alt="ShPelles"/><br />  <sub>洞穴</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=ShPelles" title="文档"></a></td><td align="center"><img src="https://avatars1.githubusercontent.com/u/1182395?v=4" width="100px;" alt="Xiaodan Mao"/><br /><sub><b>Xiaodan Mao</b></sub></a><br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=Frederick-S" title="Documentation"></a></td><td align="center"><a href="https://raw.githubusercontent.com/jamestalmage"><img src="https://avatars0.githubusercontent.com/u/4082216?v=4" width="100px;" alt="James Talmage"/><br />  <sub>詹姆斯塔尔马</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=jamestalmage" title="文档"></a></td><td align="center"><img src="https://avatars3.githubusercontent.com/u/3357643?v=4" width="100px;" alt="Sylvain PONTOREAU"/><br />  <sub>Sylvain PONTOREAU</sub> <br /><a href="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/commits?author=spontoreau" title="文档"></a></td></tr></table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) specification.
+该项目遵循 [all-contributors](https://github.com/all-contributors/all-contributors) 规格.
 
 ## License
 
-[![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-4cc61e.svg?logo=github)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License](https://img.shields.io/github/license/bcoe/awesome-cross-platform-nodejs.svg?color=4cc61e&logo=github)](https://creativecommons.org/licenses/by-sa/4.0/)
