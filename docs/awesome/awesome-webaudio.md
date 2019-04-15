@@ -65,6 +65,7 @@
 - [JZZ-midi-Gear](https://github.com/jazz-soft/JZZ-midi-Gear) - 检索您的MIDI设备型号和制造商.
 
 ### Apps
+- [BassoonTracker](https://github.com/steffest/BassoonTracker) -  Javascript中的MOD / XM Tracker.
 - [LoopDrop App](https://github.com/mmckegg/loop-drop-app) - 使用Web Audio和Web MIDI API构建的MIDI looper，模块化合成器和采样器应用程序.
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - 使用XSound.js的多声音应用程序.
 - [Molgav](https://github.com/surikov/molgav) - 用于旋律交换的音乐步音序器.

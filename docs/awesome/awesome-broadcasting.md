@@ -30,6 +30,10 @@
 
 * [StormCV](https://github.com/sensorstorm/StormCV) --Apache Storm + OpenCV =大规模分布式图像和视频分析.
 
+## Documentation
+
+* [Kronekeeper](https://github.com/nick-prater/kronekeeper) - 用于记录和管理Krone帧记录的基于Web的应用程序.
+
 ## DVB & WiFi
 
 * [DTT 2 IP](https://github.com/ebu/dtt2ip) - 广播到IP转换，用于Wifi室内覆盖.
@@ -68,7 +72,7 @@
 * [Cool Mic](https://coolmic.net/) -  Android音频直播Icecast源客户端应用.
 * [DarkIce](http://www.darkice.org/) - 从音频接口（例如声卡）录制音频的实时音频流，对其进行编码并将其发送到流媒体服务器.
 * [Icecast](http://icecast.org/) - 支持Ogg（Vorbis和Theora），Opus，WebM和MP3流的流媒体（音频/视频）服务器.
-* [Kamailio](http://www.kamailio.org/) - Open SIP server, commonly used for Audio contribution over IP using SIP (EBU ACIP).
+* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）的IP音频贡献.
 * [OpenOB](https://jamesharrison.github.io/openob/) - 基于Opus的无线电贡献链接和演播室 - 发射机链接的开放式外部广播项目.
 * [PJSIP](http://www.pjsip.org/)   - 开源多媒体库，实现SIP，SDP，RTP，STUN，TURN和ICE.  用于某些贡献设备（双重许可）.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - 用于从Linux广播实时音频的简单工具集.
@@ -184,7 +188,7 @@
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的EBU-TT-D XML Schema，支持EBU Tech 3380的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - 用于生成，测试和分发字幕文档的一组组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 格式.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) -  GStreamer管道解析和呈现EBU-TT-D（TTML）字幕的方法.
-* [imscJS](https://github.com/sandflow/imscJS) - 用于将IMSC1文本和图像配置文件呈现为HTML5的JavaScript库.
+* [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) -  EBU-TT-D示例文件，相关的PNG图像和mp4视频，显示它们应如何呈现.
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - 字幕编辑.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf)   - 一组用于转换字幕格式的模块.  主要目标是EBU STL和EBU-TT字幕文件的转换.  Alpha版本.

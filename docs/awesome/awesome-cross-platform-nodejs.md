@@ -23,8 +23,7 @@
 
 - [Node.js](https://nodejs.org/en/download/) - 各种平台的Node.js安装程序.
 - [nvm-windows](https://github.com/coreybutler/nvm-windows) - 在Windows计算机上管理Node.js的多个安装.
-- [nvm](https://github.com/creationix/nvm) -  macOS / Linux的节点版本管理器.
-- [n](https://github.com/tj/n) -  macOS / Linux的节点版本管理器.
+- [nvm](https://github.com/creationix/nvm) / [n](https://github.com/tj/n) -  macOS / Linux的节点版本管理器.
 - [npm-windows-upgrade](https://github.com/felixrieseberg/npm-windows-upgrade) - 在Windows上升级npm.
 - [windows-build-tools](https://github.com/felixrieseberg/windows-build-tools) - 使用npm安装适用于Windows的C ++ Build Tools.
 

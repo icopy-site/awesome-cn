@@ -55,7 +55,8 @@
 
 #### EmberJS
 
-- [EmberJS Weekly](https://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
+- [The Ember Times](https://the-emberjs-times.ongoodbits.com/) 来自Ember.js学习团队的更新.
+- [Ember Weekly](https://www.emberweekly.com/) .  最新的Ember.js新闻，提示和代码直接发送到您的收件箱.
 
 #### VueJS
 
@@ -263,7 +264,7 @@
 
 ### Redis
 
-- [Redis Watch](https://redislabs.com/resources/redis-watch-archive/) .  关于一切和任何事情的定期通讯Redis.
+- [Redis Watch](https://redislabs.com/resources/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
 
 ### NoSQL
 
@@ -331,6 +332,7 @@
 - [DevCraft](https://devcraftweekly.com/) .  关于软件工程的艺术，工艺和生活方式的每周简报.
 - [Four Short Links](https://www.oreilly.com/feed/four-short-links) .  每个工作日有4个关于（主要是研究导向）技术的简短链接.
 - [The Morning Paper](https://blog.acolyer.org/) .  每个工作日早晨，由Adrian Colyer选择的来自CS世界的有趣/有影响力/重要的论文.
+- [TechMeme](https://www.techmeme.com/) .  Techmeme是一个聚合的，过滤的，可归档的摘要，几乎可以实时了解什么是新技术并产生对话.
 
 ## Business/Finance
 
@@ -378,7 +380,7 @@
 - [Crypto-Gram](https://www.schneier.com/crypto-gram/) .  由世界上最着名的安全专家之一Bruce Schneier策划的以安全为中心的月刊.
 - [The ListServe](http://thelistserve.com/) .  一个免费的，独特的“彩票”通讯，每天都会挑选一个订阅者，其电子邮件提交将发送给所有其他订阅者.  主题在主题和质量上有所不同.
 - [Engineering Impact](https://www.gitprime.com/engineering-impact/) .  每周一次的工程团队经理通讯，涵盖领导力，文化，规模和软件开发生产力.
-- [tl;dr Marketing](https://tldrmarketing.com/). Weekly newsletter for digital marketers, covering news on SEO, PPC and Social Media.
+- [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
 - [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 - [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
 - [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.

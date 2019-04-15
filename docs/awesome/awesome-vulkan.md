@@ -197,6 +197,7 @@ drm/kms.
 *  [ErupteD](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
 *  [flextGL](https://github.com/mosra/flextgl) - 最小的Vulkan头/装载机生成器和 [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) 关于它.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
+*  [nvk](https://github.com/maierfelix/nvk)   - 火山的JavaScript绑定.  [MIT]
 *  [Vulkan-hpp](https://github.com/KhronosGroup/Vulkan-Hpp) 开源Vulkan C ++ API源自NVIDIA和 [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) 关于它.
 *  [VulkanSharp](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
 *  [Vulkano](https://github.com/vulkano-rs/vulkano)   -  Vulkan API周围安全且丰富的Rust包装.  [MIT]

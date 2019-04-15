@@ -50,7 +50,7 @@
 
 ## People
 
-*使D成为语言的人.*
+*The people that made D the language it is.*
 
 * [Walter Bright](http://www.walterbright.com/) -  D. Walter Bright的父亲是D编程语言的创建者和第一个实现者，并且已经为其他几种语言实现了编译器.
 * [Andrei Alexandrescu, PhD](http://erdani.com/)   -  C ++大师.  * D编程语言*和*现代C ++设计*的作者.  在Walter Bright的带领下，Andrei共同设计了D的许多重要特征，并创作了D标准库的很大一部分.  Andrei是高级C ++编程和算法的培训师，现在正积极地在组织中传播D.
@@ -75,6 +75,7 @@
 * [libmir](https://github.com/libmir) -  D的数字图书馆开发团队
 * [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](http://symmetryinvestments.com/) -  Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) .  有赞助的发展 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
+* [HuntLabs](https://www.huntlabs.net)   - 使用DLang的技术小组.  具有纯D语言实现，可快速开发服务器端应用程序并构建分布式系统服务.
 
 ## Books
 * D相关书籍.*你可以找到另一本书的清单 [Books](http://wiki.dlang.org/Books) D维基页面.
@@ -121,7 +122,7 @@
 
 ## Package Management
 
-*Libraries for package and dependency management.*
+*用于包和依赖管理的库.*
 
 * [code.dlang.org](http://code.dlang.org/)   - 官方D库存储库.  由配音支持.
 * [dub](https://github.com/dlang/dub) -  D的官方包装和构建管理系统
@@ -156,7 +157,7 @@
 
 *综合发展环境.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
+* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
 * [Visual D](https://github.com/dlang/visuald) -  D编程语言的Visual Studio扩展.
 * [DDT](http://ddt-ide.github.io/) - 用于D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)   -  D编程语言的独立自动完成程序.  可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用.  看到 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
@@ -181,6 +182,11 @@
 ## Javascript
 * [higgs](https://github.com/higgsjs/Higgs) - 希尔斯JavaScript虚拟机，在D中实现.
 
+## Basic
+
+* [hunt](https://github.com/huntlabs/hunt)   - 用于D编程语言的精致核心库.  该模块具有并发/集合/事件/ io / logging / text / serialize等.
+* [hunt-time](https://github.com/huntlabs/hunt-time) - 时间库，类似于Joda-time和Java.time api.
+* [hunt-validation](https://github.com/huntlabs/hunt-validation) - 基于寻线库的DLang数据验证库.
 
 ## Containers
 * [EMSI containers](https://github.com/economicmodeling/containers) - 不使用GC的容器 
@@ -191,20 +197,32 @@
 ## Web Frameworks
 
 *网络图书馆*
+* [hunt-net](https://github.com/huntlabs/hunt-net) - 用于D编程语言的高性能网络库，事件驱动的异步实现（IOCP / kqueue / epoll）.
+* [hunt-http](https://github.com/huntlabs/hunt-http) -  D的HTTP / 1和HTTP / 2协议库.
+* [hunt-stomp](https://github.com/huntlabs/hunt-stomp) - 用于在D中实现websocket协议库的STOMP.
 * [libasync](https://github.com/etcimon/libasync) - 异步对象的跨平台事件循环库
 * [libhttp2](https://github.com/etcimon/libhttp2) -  D中的HTTP / 2库，从nghttp2翻译而来
 * [collie](https://github.com/huntlabs/collie) - 用dlang编写的异步事件驱动的网络框架，如D中的netty框架.
 
 *完整的堆栈Web框架.*
-* [Hunt](http://www.huntframework.com/)   -  Hunt是一个高级D编程语言Web框架，鼓励快速开发和清洁，实用的设计.  它使您可以快速轻松地构建高性能Web应用程序.
+* [Hunt Framework](https://github.com/huntlabs/hunt-framework/)   -  Hunt是一个高级D编程语言Web框架，鼓励快速开发和清洁，实用的设计.  它使您可以快速轻松地构建高性能Web应用程序.
 * [vibe.d](http://vibed.org/) - 用D编写的异步I / O Web框架，用D编写.
 * [arsd](https://github.com/adamdruppe/arsd) -  Adam D. Ruppe的网络框架.
 * [cmsed](https://github.com/rikkimax/Cmsed) - 用作Vibe的Vibe组件库.
 * [Diamond](https://diamondmvc.org/) - 基于vibe.d的全栈Web框架，针对小型和大型项目，针对企业开发和高性能Web解决方案.
 
 * RPC库*
-* [kissrpc](https://github.com/huntlabs/kiss-rpc) - 快速，轻便，基于平板缓冲的rpc框架.
+* [grpc](https://github.com/huntlabs/grpc-dlang) - 用于D编程语言的Grpc，基于hunt-http库.
+* [kissrpc](https://github.com/huntlabs/kissrpc) - 快速，轻便，基于平板缓冲的rpc框架.
 * [Hprose](https://github.com/hprose/hprose-d) - 一个非常新的RPC Library for D，它现在支持25种以上的语言.
+
+*Gossip*
+
+* [hunt-gossip](https://github.com/huntlabs/hunt-gossip) - 用于D编程语言的Apache V2八卦协议实现.
+
+*Cache*
+
+* [hunt-cache](https://github.com/huntlabs/hunt-cache) -  D语言通用缓存库，使用radix，redis和memcached.
 
 ## Data serialization
 * Json，XML，protobuf和其他数据序列化库.*
@@ -232,9 +250,8 @@
 ## Database clients
 *客户端和绑定到关系和nosql数据库的C bliencts.*
 
-* [entity](https://github.com/huntlabs/entity)   -  Entity是D编程语言的对象关系映射工具.  参考JPA的设计思想，支持PostgreSQL / MySQL / SQLite.
-* [dbal](https://github.com/huntlabs/dbal) -  dlang的数据库抽象层，可以构造SQL语句.
-* [database](https://github.com/huntlabs/database) -  D编程语言的数据库抽象层，支持PostgreSQL / MySQL / SQLite.
+* [hunt-entity](https://github.com/huntlabs/hunt-entity)   -  Hunt实体是D编程语言的对象关系映射工具.  参考JPA的设计思想，支持PostgreSQL / MySQL / SQLite.
+* [hunt-database](https://github.com/huntlabs/hunt-database) - 为D编程语言寻找数据库抽象层，支持PostgreSQL / MySQL / SQLite.
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d)   -  Vibe.d对Redis和MongoDB有内部支持，非常稳定.  很快，数据库驱动程序将被分成独立的项目.
 * [mysql-native](https://github.com/mysql-d/mysql-native) - 在本机D中实现的MySQL客户端
 * [ddb](https://github.com/pszturmaj/ddb)   -  D2的数据库访问.  目前只支持PostgreSQL.
@@ -245,6 +262,7 @@
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/)   -  Redis驱动程序为D.快速，简单，稳定.  没有依赖关系.
 
 ## Command Line
+* [hunt-console](https://github.com/huntlabs/hunt-console) -  Hunt控制台创建更容易创建功能强大的命令行应用程序. 
 * [tilix](https://github.com/gnunn1/tilix) - 使用GTK + 3的Linux平铺终端仿真器.
 * [scriptlike](https://github.com/Abscissa/scriptlike) - 实用程序库，用于帮助在D中编写类似脚本的程序.
 * [todod](https://github.com/BlackEdder/todod)   -  Todod是一个基于命令行的待办事项列表管理器.  它还支持基于shell的shell交互 [linenoise](https://github.com/antirez/linenoise).
@@ -254,7 +272,6 @@
 * [Argon](https://github.com/markuslaker/Argon) - 用于命令行参数的处理器，Getopt的替代方法，用D编写. 
 * [argsd](https://github.com/burner/argsd) -  DLang的命令行和配置文件解析器
 * [darg](https://github.com/jasonwhite/darg) - 针对D的强大命令行参数解析
-
 
 ## GUI Libs
 *用于处理图形用户界面应用程序的库.*
@@ -352,12 +369,13 @@
 
 ## Text Processing
 
+* [hunt-markdown](https://github.com/huntlabs/hunt-markdown)   -  D编程语言的降价解析和渲染库.  支持commonMark.
 * [eBay's TSV utilities](https://github.com/eBay/tsv-utils/)   -  TSV文件的过滤，统计，采样，连接和其他操作.  非常快，特别适合大型数据集.
 
 ## Logging
 *小心打印.*
 
-- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) -  Phobos即将推出的标准测井设施
+- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility
 - [dlogg](https://github.com/NCrashed/dlogg) - 使用延迟和延迟日志记录来记录并发应用程序和守护进程， [logrotate](http://linuxcommand.org/man_pages/logrotate8.html) 支持.
 
 ## Configuration
