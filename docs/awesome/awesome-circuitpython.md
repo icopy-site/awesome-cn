@@ -13,13 +13,13 @@
 
 ## CircuitPython.org
 
-[CircuitPython.org](https://circuitpython.org/)  是信息蛇高速公路的第一站.  在这里你可以看到所有 [supported boards and download](https://circuitpython.org/downloads)  每个版本的特定固件，包括测试版，最新版和早期版.  下载可按以下方式排序：制造商，功能，名称等.  目前，CircuitPython系列支持超过30多种电路板！
+[CircuitPython.org](https://circuitpython.org/)  是信息蛇高速公路的第一站.  在这里你可以看到所有 [supported boards and download](https://circuitpython.org/downloads)  每个版本的特定固件，包括测试版，最新版和早期版.  下载可按以下方式排序：制造商，功能，名称等.  目前，CircuitPython系列支持超过50个电路板！
 
 ## Guides
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -  CircuitPython和社区概述.
-- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - Learning the essential functions of CircuitPython.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - 关于CircuitPython的Adafruit学习指南.
+- [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习CircuitPython的基本功能.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) -  CircuitPython和MicroPython的指南.
 
 ## Community
@@ -31,38 +31,45 @@
 
 ## Books
 
-- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为订单的一部分购买 [the AdaFruit store](https://www.adafruit.com/product/3944)） - 讨论Circuit Playground Express，包括通过CircuitPython进行编程.
-- [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)   - 本书可以帮助您开始CircuitPython开发.  本书使用Adafruit ItsyBitsy M0 Express板进行开发测试.
+- [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为订单的一部分购买 [the Adafruit store](https://www.adafruit.com/product/3944)） -  Circuit Playground Express的介绍和讨论，包括通过CircuitPython，MakeCode和Arduino进行编程.
+- [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)   - 本书可以帮助您开始CircuitPython开发.  本书使用Adafruit ItsyBitsy M0 Express板进行开发.
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论MicroPython语言.
 
 ## Code
 
-- [CircuitPython (latest)](https://github.com/adafruit/circuitpython/releases/latest)
-- [CircuitPython 4.0.0 Beta](https://github.com/adafruit/circuitpython/releases/tag/4.0.0-beta.0) - [And the announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
+-  CircuitPython版本：在每个板上选择 [CircuitPython.org](https://circuitpython.org/downloads) （最简单）或访问 [GitHub](https://github.com/adafruit/circuitpython/releases).
+-  CircuitPython测试版发布：在每个电路板上选择 [CircuitPython.org](https://circuitpython.org/downloads) （最简单的）， [The 4.0 announcement](https://blog.adafruit.com/2019/01/23/circuitpython-4-0-0-beta-0-released/)
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) -  CircuitPython可用的功能和文档列表.
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - 使用CircuitPython特定于Circuit Playground Express的功能和文档.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) -  GitHub上CircuitPython的源代码.
-- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过130个库可用.
-- [Adafruit Blinka](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) -  Raspberry Pi和其他兼容的单板Linux计算机上的CircuitPython库.
+- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过140多个库可用.
+- [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) -  Raspberry Pi上的CircuitPython库和运行Linux的其他兼容单板计算机（SBC）.
 - [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) -  Dave Astels在CircuitPython上有用的备忘单.
 
 ## Frameworks
 
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - 推荐的CircuitPython Python编辑器.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) -  Mu的文档.
+- [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - 博客文章讨论过程.
 
 ## Hardware
 
-所有支持的板都可以在最新版本中找到 -  [GitHub](https://github.com/adafruit/circuitpython/releases) .  如果您的主板支持CircuitPython，请执行拉取请求以添加它.  以下列表中可能未包含的最新主板已开启 [https://circuitpython.org](https://circuitpython.org/downloads)
+可以查看所有支持的板卡 [circuitpython.org](https://circuitpython.org/downloads)  包括描述，图片和兼容的CircuitPython构建.  circuitpython.org上当前主板的摘要：
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Express，Adafruit羽毛M4 Express，Adafruit羽毛nRF52840 Express，Adafruit GEMMA M0，Adafruit Grand Central M4 Express，包括SAMD51，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0，Adafruit ItsyBitsy M4，Adafruit METRO M0 Express，Adafruit Metro M4，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal.
-- [Arduino](https://www.arduino.cc/) -  Arduino MKR 1300，Arduino MKR ZERO，Arduino ZERO.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Basic，Adafruit Feather M0 Express，Adafruit Feather M0 Adalogger，Adafruit Feather M0 RFM9x，Adafruit Feather M0 RFM69，Adafruit Feather M4 Express，Adafruit羽毛nRF52832，Adafruit羽毛nRF52840 Express，Adafruit Gemma M0，Adafruit Grand Central M4 Express，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0 Express，Adafruit ItsyBitsy M4 Express，Adafruit Metro M0 Express，Adafruit Metro M4 Express，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal，Adafruit pIRkey，Adafruit Feather Huzzah，Adafruit PyBadge ，Adafruit Metro M4 AirLift Lite，Adafruit Gemma M0 PyCon 2018，Adafruit Circuit Playground Express Digi-Key，Adafruit Circuit Playground Express 4-H，Adafruit Circuit Playground Express + Crickit，Adafruit Feather M0 Express + Crickit.
+- [Arduino](https://www.arduino.cc/) -  Arduino MKR WAN 1300，Arduino MKR Zero，Arduino Zero.
 - [Electronic Cats](https://electroniccats.com/) -  CatWAN USB Stick，Meow Meow.
-- [MakerDiary](https://wiki.makerdiary.com/nrf52840-mdk-usb-dongle/) -  nRF52840 Micro Dev Kit USB Dongle.
-- [Mini Sam](https://www.minisam.cc/) - 迷你SAM开发板.
+- [MakerDiary](https://store.makerdiary.com/collections/frontpage) -  nRF52840 Micro Dev Kit，nRF52840 Micro Dev Kit USB Dongle.
 - [Nordic Semiconductor](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52840) -  nRF52840 DK板 [PCA10056](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_pdk%2Fintro.html)，nRF52840加密狗 [PCA10059](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fdevelopment%2Fnrf52840_dongle%2Fkit_hw_content.html).
 - [Particle](https://www.particle.io/) - 粒子氩，粒子硼，粒子氙.
-- [SparkFun](https://www.sparkfun.com/)   -  SparkFun Pro nRF52840 Mini  - 蓝牙开发板，SparkFun SAMD21 Mini Breakout，SparkFun SAMD21 Dev Breakout.  * Sparkfun LumiDrive LED驱动程序和SparkFun RedBoard Turbo  -  SAMD21开发板，支持CircuitPython但在收到pull请求后才会发布.*
+- [Benjamin Shockley](https://www.minisam.cc/product-category/development-board/) - 迷你SAM M4.
+- [Radomir Dopieralski](https://www.tindie.com/products/deshipu/small-pewpew-standalone/) -  PewPew，μGame.
+- [SparkFun](https://www.sparkfun.com/) -  SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Mini，SparkFun SAMD21 Dev，SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Dev，SparkFun RedBoard Turbo，SparkFun LumiDrive.
+- [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) -  Feather M0 Supersized，Trinket M0 Haxpress.
+- [Max Holliday](https://github.com/RoboticExplorationLab/sprite) -  KickSat Sprite，SAM32.
+- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - 芯片
+
+将新电路板添加到circuitpython.org上的CircuitPython列表中：请在GitHub上执行pull请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息以映射新电路板.
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - 传感器，LCD，显示器，机器人，分线板等的完整列表.
 

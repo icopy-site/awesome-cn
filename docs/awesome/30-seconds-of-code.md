@@ -776,7 +776,7 @@ const differenceWith =（arr，val，comp）=&gt; arr.filter（a =&gt; val.findI
 
 返回一个从左侧删除了`n`个元素的新数组.
 
-使用`Array.prototype.slice（）`来切除从左边删除指定数量的元素.
+使用`Array.prototype.slice（）`从左边删除指定数量的元素.
 
 ```js
 const drop =（arr，n = 1）=&gt; arr.slice（n）;
@@ -798,7 +798,7 @@ const drop =（arr，n = 1）=&gt; arr.slice（n）;
 
 返回一个从右侧删除了`n`个元素的新数组.
 
-使用`Array.prototype.slice（）`来切除从右边删除指定数量的元素.
+使用`Array.prototype.slice（）`从右边删除指定数量的元素.
 
 ```js
 const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
@@ -1904,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-        arr.splice（arr.indexOf（val），1）;
-        return acc.concat（val）;
-      }, [])
+      arr.splice（arr.indexOf（val），1）;
+      return acc.concat（val）;
+    }, [])
     : [];
 ```
 
@@ -4210,6 +4210,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -4868,7 +4869,7 @@ const averageBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
- averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 5
+ averageBy（[N {4}，{N 2}，{N：8} n的{6}] 0 =&gt;上）;  // 5
  averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 5
 ```
 
@@ -6114,7 +6115,7 @@ const JSONToFile =（obj，filename）=&gt;
 返回指定文件中的行数组.
 
 在`fs`节点包中使用`readFileSync`函数从文件创建`Buffer`.
-使用`toString（encoding）`函数将缓冲区转换为字符串.
+convert buffer to string using `toString(encoding)` function.
 通过逐行分割文件内容（每个`\ n`）从文件内容创建一个数组.
 
 ```js
@@ -8602,7 +8603,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice
     {}
   );
 ```
@@ -8854,7 +8855,7 @@ const parseCookie = str =&gt;
     .分裂（&#39;;&#39;）
     .map（v =&gt; v.split（&#39;=&#39;））
     .reduce（（acc，v）=&gt; {
-      acc[decodeURIComponent(v[0].trim())] = decodeURIComponent(v[1].trim());
+      acc [decodeURIComponent（v [0] .trim（））] = decodeURIComponent（v [1] .trim（））;
       返回acc;
     }, {});
 ```

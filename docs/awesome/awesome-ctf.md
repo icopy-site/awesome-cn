@@ -173,6 +173,7 @@
 - [Frida](https://github.com/frida/) - 动态代码注入
 - [GDB](https://www.gnu.org/software/gdb/) -  GNU项目调试器
 - [GEF](https://github.com/hugsy/gef) -  GDB插件
+- [Ghidra](https://ghidra-sre.org/)   - 开源逆向工程工具套件.  与IDA Pro类似.
 - [Hopper](http://www.hopperapp.com/) -  OSX和Linux的逆向工程工具（反汇编程序）
 - [IDA Pro](https://www.hex-rays.com/products/ida/) - 最常用的Reversing软件
 - [Jadx](https://github.com/skylot/jadx) - 反编译Android文件

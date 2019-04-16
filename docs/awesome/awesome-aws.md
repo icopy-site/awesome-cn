@@ -686,7 +686,7 @@ AWS Repos：
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - 简单的PHP应用程序.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - 示例Rails应用程序.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) -  Elasticsearch样本食谱.
-* [opsworks-example-cookbooks](https://github.com/awslabs/opsworks-example-cookbooks) - 与示例应用程序一起使用的Cookbook.
+* [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) - 与示例应用程序一起使用的Cookbook.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) -  Cookbook用于演示简单的食谱.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - 一个示例Node.JS应用程序.
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - 适用于Windows的Cookbook.

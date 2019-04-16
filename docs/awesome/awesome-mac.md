@@ -61,7 +61,7 @@
 * [Marked 2](http://marked2app.com/) - 这是Markdown预览版，为所有作家提供了一套优雅而强大的工具.
 * [MarkText](https://github.com/marktext/marktext)   - 下一代降价编辑器，在MacOS Windows和Linux平台上运行.  [！[开源软件] [OSS图标]]（https://github.com/marktext/marktext）！[免费软件] [免费软件图标]
 * [Marp](https://yhatt.github.io/marp/)   - 具有跨平台支持的Markdown演示文稿作者.  [！[开源软件] [OSS图标]]（https://github.com/yhatt/marp）！[免费软件] [免费软件图标]
-* [Marxico](https://marxi.co/) - Delicate Markdown editor for Evernote. Reliable storage and sync.
+* [Marxico](https://marxi.co/)   -  Evernote的精美Markdown编辑器.  可靠的存储和同步.
 * [MWeb](http://www.mweb.im/) -  Pro Markdown写作，笔记和静态博客生成器App.
 * [TextNut](http://www.textnutwriter.com/)   - 富格式编辑器，具有Markdown导出和Markdown语法提示.  ！[免费软件] [免费软件图标]
 * [Typora](http://www.typora.io/)   - 真正最小的Markdown编辑器，具有无缝实时预览功能.  ！[免费软件] [免费软件图标]
@@ -271,6 +271,7 @@
 * [Sublime Merge](https://www.sublimemerge.com/) - 来自Sublime Text制造商的Git客户端.
 * [Tower2](https://www.git-tower.com/) - 适用于Mac和Windows的最强大的Git客户端.
 * [Versions](http://www.versionsapp.com/) -  Mac Subversion（SVN）客户端.
+* [GitUp](http://gitup.co/) - 一个简单而强大的Git客户端.[！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 
 #### Virtualization
 
@@ -331,7 +332,7 @@
 * [inklet](https://tenonedesign.com/inklet.php) - 将Mac触控板转换为绘图板.
 * [Inkscape](https://inkscape.org/en/)   - 专业矢量图形编辑器.  [！[开源软件] [OSS图标]]（https://launchpad.net/inkscape）
 * [Krita](https://krita.org/en/)   - 面向概念艺术家，数字画家和插图画家的开源数字绘画软件.  [！[开源软件] [OSS图标]]（https://github.com/KDE/krita）！[免费软件] [免费软件图标]
-* [macSVG](https://macsvg.org/)   - 设计HTML5 SVG艺术和动画.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
+* [macSVG](https://macsvg.org/) - Designing HTML5 SVG art and animation. [![Open-Source Software][OSS Icon]](https://github.com/dsward2/macSVG) ![Freeware][Freeware Icon]
 * [MagicaVoxel](https://ephtracy.github.io/) - 免费，轻量级的8位体素编辑器和交互式路径追踪渲染器.
 * [Monodraw](http://monodraw.helftone.com)   - 专为Mac设计的强大的ASCII艺术编辑器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/monodraw/id920404675） 
 * [MyPaint](http://mypaint.org/) - 简单的绘图和绘画程序，适用于Wacom风格的图形平板电脑.[！[开源软件] [OSS图标]]（https://github.com/mypaint）！[免费软件] [免费软件图标]
@@ -532,7 +533,7 @@
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) -  Carbonite可以保护您的Mac免受所有最常见的数据丢失形式的影响.
 * [Dropbox](https://www.dropbox.com/)   - 文件托管服务，提供云存储和文件同步以及协作编辑功能.  ！[免费软件] [免费软件图标]
 * [Mega](https://mega.nz)   - 免费云服务，提供50GB免费存储空间.  ！[免费软件] [免费软件图标]
-* [NextCloud](https://nextcloud.com/) - 积极维护ownCloud的fork，更快更完全开源[！[开源软件] [OSS图标]]（https://github.com/nextcloud）
+* [NextCloud](https://nextcloud.com/) - Actively maintained fork of ownCloud, faster and completely open-source [![Open-Source Software][OSS Icon]](https://github.com/nextcloud)
 * [ownCloud](https://owncloud.org) - 云储存.
 * [Seafile](https://www.seafile.com/) - 可靠和高速文件同步和共享.！[免费软件] [免费软件图标]
 
@@ -667,7 +668,7 @@
 * [OmniPlan](https://www.omnigroup.com/omniplan/)   - 可视化，维护和简化项目的最佳方式.  项目管理变得简单.
 * [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈.
 * [RescueTime](https://www.rescuetime.com/) - 个人分析服务，向您展示如何花时间并提供工具来帮助您提高工作效率.
-* [SensibleSideButtons](http://sensible-side-buttons.archagon.net)   - 使用鼠标上的侧键在许多应用程序中向前和向后移动，例如在Windows中.  [！[开源软件] [OSS图标]]（https://github.com/archagon/sensible-side-buttons）
+* [SensibleSideButtons](http://sensible-side-buttons.archagon.net) – Use the side buttons on your mouse to move forward and backward in many apps, like in Windows. [![Open-Source Software][OSS Icon]](https://github.com/archagon/sensible-side-buttons)
 * [nnScreenshots](https://www.nearnorthsoftware.com/software/screenshots.php)   - 一种超级简单的方法，可以直观地记录您的工作效率，以便更轻松地填写时间表或帮助您查看当天.  内置时间表编辑器.
 * [skhd](https://github.com/koekeishiya/skhd)   -  macOS的简单热键守护进程.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/koekeishiya/skhd）
 * [Timing](https://timingapp.com/)   -  Mac的自动时间和生产力跟踪.  帮助您保持正常工作，并确保如果您按小时计费，则不会丢失计费时间.
@@ -688,7 +689,7 @@
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理.
 * [Slate](https://github.com/jigish/slate)   - 类似于Divvy和SizeUp的窗口管理应用程序（除了更好和免费！）.  （**需要配置文件**）[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jigish/slate）
 * [Spectacle](https://www.spectacleapp.com)   - 使用简单且可自定义的键盘快捷键移动和调整窗口大小.  [！[开源软件] [OSS图标]]（https://github.com/eczarny/spectacle）！[免费软件] [免费软件图标]
-* [Total Spaces](http://totalspaces.binaryage.com/) - Provides window management much like ubuntu. Creates hotkeys for workspaces which allows you to easily move around.
+* [Total Spaces](http://totalspaces.binaryage.com/)   - 提供与ubuntu非常相似的窗口管理.  为工作区创建热键，使您可以轻松移动.
 
 #### Password Management
 
@@ -796,7 +797,7 @@
 *另外， [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com)， 你知道该怎么做.
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
-*其他网站喜欢 [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) are great resources.
+*其他网站喜欢 [MacStories](https://www.macstories.net/), [LifeHacker](http://lifehacker.com/), [ProductHunt](https://www.producthunt.com/topics/mac) 是很好的资源.
 
 ### Pirated software download site blacklist
  *拒绝我的盗版.  软件供应商可以访问这些地方的权利.*

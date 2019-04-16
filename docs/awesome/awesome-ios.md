@@ -254,7 +254,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [Bootstrap](https://github.com/krzysztofzablocki/Bootstrap) -  iOS项目引导程序旨在高质量编码.
 * [KZAsserts](https://github.com/krzysztofzablocki/KZAsserts) - 一组自动生成NSError的自定义断言，允许在发布版本中的调试中的断言和错误处理，以及漂亮的DSL.
 * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - 在后台线程上使用UIKit时生成断言的简单代码片段.
-* [ocstyle](https://github.com/Cue/ocstyle) choose-C样式idalchecker.
+* [ocstyle](https://github.com/Cue/ocstyle) -  Objective-C风格检查器.
 * [spacecommander](https://github.com/square/spacecommander) - 作为一个团队提交完全格式化的Objective-C代码，甚至没有尝试.
 * [DWURecyclingAlert](https://github.com/diwu/DWURecyclingAlert) - 优化UITableViewCell以实现快速滚动.
 * [Tailor](https://github.com/sleekbyte/tailor) -  Swift的跨平台静态分析器，可帮助您编写更清晰的代码并避免错误.
@@ -373,8 +373,8 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [Skopelos](https://github.com/albertodebortoli/Skopelos)   - 简约，线程安全，非样板和超级易用的核心数据上的Active Record版本.  只需要做核心数据所需的一切.  快速的味道.
 * [Cadmium](https://github.com/jmfieldman/cadmium) - 一个完整的swift框架，包装CoreData并帮助促进最佳实践.
 * [DataKernel](https://github.com/mrdekk/DataKernel) - 简单的CoreData包装器，以简化操作.
-* [DATAStack](https://github.com/3lvis/DATAStack) - 100% Swift Simple Boilerplate Free Core Data Stack. NSPersistentContainer.
-* [JustPersist](https://github.com/justeat/JustPersist) -  JustPersist是在iOS上进行持久化的最简单，最安全的方式，开箱即用的Core Data支持.
+* [DATAStack](https://github.com/3lvis/DATAStack)   -  100％Swift Simple Boilerplate免费核心数据堆栈.  NSPersistentContainer.
+* [JustPersist](https://github.com/justeat/JustPersist) -  JustPersist是做与核心数据的支持iOS的持久性开箱即用最简单，最安全的方式.
 * [PrediKit](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift.
 * [Records](https://github.com/rob-nash/Records) - 在几分钟内，设置一个功能完备的CoreData实现，它包含Swift的静态，类型安全特性.
 * [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) - 编写令人惊叹的，强类型且易于阅读的NSPredicate，允许您编写可流动的NSPredicate，而无需猜测归因名称，谓词操作或编写错误的参数类型.
@@ -570,7 +570,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [Prelude](https://github.com/robrix/Prelude) - Swiftμframework的简单函数编程工具.
 * [Swiftx](https://github.com/typelift/Swiftx) - 任何项目的功能数据类型和功能.
 * [Swiftz](https://github.com/typelift/Swiftz) -  Swift中的函数编程.
-* [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions)   - 带有可选类型扩展的Swiftμframework.  并[e]
+* [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. [e]
 * [Argo](https://github.com/thoughtbot/Argo) -  Swift的功能JSON解析库
 * [Runes](https://github.com/thoughtbot/Runes) -  Swix操作符用于Swift中的monadic函数.
 
@@ -702,7 +702,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 
 * [Proxitee](https://github.com/Proxitee/iOS-SDK) - 允许开发人员使用iBeacons和地理围栏创建接近感知应用程序.
 * [OWUProximityManager](https://github.com/ohayon/OWUProximityManager) -  iBeacons + CoreBluetooth.
-* [Vicinity](https://github.com/Instrument/Vicinity) -  Vicinity复制iBeacons（通过分析RSSI）并支持在后台广播和检测低能耗蓝牙设备.
+* [Vicinity](https://github.com/Instrument/Vicinity) - 近处复制iBeacons（通过分析RSSI），并且支持广播和检测用低能量蓝牙设备在背景中.
 * [BeaconEmitter](https://github.com/lgaches/BeaconEmitter) - 将您的Mac作为iBeacon.
 * [MOCA Proximity](https://mocaplatform.com/features) - 付费邻近营销平台，让您为您的应用添加惊人的邻近体验.
 * [JMCBeaconManager](https://github.com/izotx/JMCBeaconManager) - 负责检测附近信标的iBeacon Manager类.
@@ -872,7 +872,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [ClusterKit](https://github.com/hulab/ClusterKit) - 针对MapKit，Google地图和Mapbox的iOS地图群集框架.
 * [FlyoverKit](https://github.com/SvenTiigi/FlyoverKit) -  FlyoverKit使您可以毫不费力地在MKMapView上呈现令人惊叹的360°天桥视图，同时保持完整的配置可能性.
 * [MapViewPlus](https://github.com/okhanokbay/MapViewPlus)   - 使用任何自定义视图作为MKMapView的自定义标注视图和酷动画.  此外，轻松使用任何图像作为注释视图.
-* [GLMap](https://getyourmap.com)   - 使用MapCSS样式跨平台离线矢量地图.  包括离线搜索和离线导航.
+* [GLMap](https://globus.software)   - 使用MapCSS样式跨平台离线矢量地图.  包括离线搜索和离线导航.
 * [MSFlightMapView](https://github.com/mabdulsubhan/MSFlightMapView) - 在Google地图上添加和制作测地航班.
 
 ## Math
@@ -945,7 +945,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [GPU Image](https://github.com/BradLarson/GPUImage) - 基于GPU的图像和视频处理的开源iOS框架.
 * [UIImage DSP](https://github.com/gdawg/uiimage-dsp) -  iOS UIImage处理功能使用vDSP / Accelerate框架提高速度.
 * [AsyncImageView](https://github.com/nicklockwood/AsyncImageView) -  UIImageView的简单扩展，用于异步加载和显示图像，而无需锁定UI.
-* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - 具有UIImageView类别的缓存支持的异步图像下载程序.
+* [SDWebImage](https://github.com/SDWebImage/SDWebImage) - 具有UIImageView类别的缓存支持的异步图像下载器.
 * [DFImageManager](https://github.com/kean/DFImageManager)   - 从各种来源获取图像的现代框架.  零配置，但巨大的自定义和可扩展性.  使用NSURLSession.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) - 用Swift编写的iOS图像下载和缓存库.
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) - 幻灯片和图像查看器.
@@ -1342,7 +1342,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [Stripe](https://stripe.com)   - 使用PAY在您的应用上进行付款集成.  适合对后端知识不足的人.
 * [Braintree](https://www.braintreepayments.com)   - 第一笔$ 50k的免费支付处理.  需要后端.
 * [Venmo](https://github.com/venmo/venmo-ios-sdk) 通过Venmo在您的iOS应用中制作并接受付款.
-* [Moltin](https://www.moltin.com/swift-ecommerce-sdk/) - 使用简单的SDK为您的应用添加电子商务，这样您就可以创建商店并销售实体产品，无需后端.
+* [Moltin](https://www.moltin.com/developer/swift-ecommerce-sdk/) - 使用简单的SDK为您的应用添加电子商务，这样您就可以创建商店并销售实体产品，无需后端.
 * [PatronKit](https://github.com/MosheBerman/PatronKit) - 为您的应用添加赞助的框架.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - 轻量级应用内购买适用于iOS 8.0+和macOS 9.0+的Swift框架
 * [InAppFramework](https://github.com/sandorgyulai/InAppFramework) - 在iOS的App Purchase Manager框架中
@@ -2266,7 +2266,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 * [PageMenu](https://github.com/PageMenu/PageMenu) - 从滚动视图内部的其他视图控制器构建的分页菜单控制器（如Spotify，Windows Phone，Instagram）
 * [XXXRoundMenuButton](https://github.com/zsy78191/XXXRoundMenuButton) - 简单的圆形菜单.
 * [IGCMenu](https://github.com/sunilsharma08/IGCMenu) - 带动画的网格和圆形菜单.易于自定义.
-* [EEJSelectMenu](https://github.com/eejahromi/EEJSelectMenu) - 具有炫酷动画的单一选择菜单，响应所有屏幕尺寸.
+* [EEJSelectMenu](https://github.com/eejahromi/EEJSelectMenu) - 具有炫酷动画的单选菜单，响应所有屏幕尺寸.
 * [IGLDropDownMenu](https://github.com/bestwnh/IGLDropDownMenu) - 具有漂亮动画且易于自定义的iOS下拉菜单.
 * [Side-Menu.iOS](https://github.com/Yalantis/Side-Menu.iOS) - 带有可自定义UI的动画侧边菜单
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) -  PopMenu是受新浪微博/网易应用启发的流行动画菜单.
@@ -2398,7 +2398,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 ### Segmented Control
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) -  UISegmentedControl和UISwitch易于使用，可定制的替代品.
 * [LUNSegmentedControl](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - 可定制的分段控制与交互式动画.
-* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控制.
+* [AKASegmentedControl](https://github.com/alikaragoz/AKASegmentedControl) - ：chocolate_bar：适用于iOS的完全可自定义的分段控件.
 * [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl) - 用Swift编写的iOS自定义UISegmentedControl替代品.
 * [SJFluidSegmentedControl](https://github.com/sasojadrovski/SJFluidSegmentedControl)   - 具有自定义外观和交互式动画的分段控件.  用Swift 3.0编写.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) -  UISegmentedControl的直接替代品，模仿Google Currents和其他各种Google产品中使用的分段控件的风格.
@@ -2527,7 +2527,7 @@ A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions
 #### Collection View
 
 * [Dwifft](https://github.com/jflinter/Dwifft) -  Swift Diff
-* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) -  iOS插件UITableView，UICollectionView和UIScrollView超类类别，用于在其上显示可自定义的浮动按钮.
+* [MEVFloatingButton](https://github.com/manuelescrig/MEVFloatingButton) - 一个iOS的投递的UITableView，UICollectionView和超类的UIScrollView类用于示出在其顶部上可定制的浮动按钮.
 * [DisplaySwitcher](https://github.com/Yalantis/DisplaySwitcher) - 两个集合视图布局之间的自定义过渡
 * [Reusable](https://github.com/AliSoftware/Reusable) - 用于UITableViewCells和UICollectionViewCells的Swift mixin
 * [Sapporo](https://github.com/nghialv/Sapporo) -  Cellmodel驱动的collectionview管理器
@@ -2768,7 +2768,6 @@ CollectionView，在几分钟内发现Instagram.
 * [WVWalkthroughView](https://github.com/praagyajoshi/WVWalkthroughView) - 用于轻松创建演练以帮助用户入职的实用程序.
 * [SwiftyGuideOverlay](https://github.com/saeid/SwiftyGuideOverlay) - 通过app UI轻松快捷地显示介绍/说明，无需任何实时的附加图像！
 * [SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - 轻量级漫游控制器，它使用视图控制器作为其子视图，使定制无止境.
-* [PVOnboardKit](https://github.com/vpeschenkov/PVOnboardKit) - 允许您在自己的应用中添加自己的演练/介绍/教程的框架.
 * [Minamo](https://github.com/yukiasai/Minamo) - 用Swift编写的简单教练标记库.
 * [Material Showcase iOS](https://github.com/aromajoin/material-showcase-ios) - 适用于iOS应用程序的优雅而美观的展示.
 * [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - 展示您真棒的新应用功能 
@@ -3118,7 +3117,7 @@ CollectionView，在几分钟内发现Instagram.
 
 ## Podcasts
 * [The Ray Wenderlich Podcast](https://www.raywenderlich.com/podcast)
-* [Debug](https://www.imore.com/debug)
+* [Debug](https://www.imore.com/node/24121)
 * [App Story](http://www.appstorypodcast.com)
 * [Mobile Couch](https://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks/)
@@ -3130,7 +3129,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Runtime](https://spec.fm/podcasts/runtime)
 * [Consult](http://consultpodcast.com/)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
-* [Fireside Swift](https://itunes.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
+* [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)
 
 ## Books

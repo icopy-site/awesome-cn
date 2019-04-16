@@ -119,6 +119,7 @@
 * [MIT Information Extraction Toolkit](https://github.com/mit-nlp/MITIE) - 用于命名实体识别和关系提取的C，C ++和Python工具
 * [ucto](https://github.com/LanguageMachines/ucto)   - 适用于各种语言的基于Unicode的正则表达式标记器.  工具和C ++库.  支持FoLiA格式.
 
+<a name="cpp-speech-recognition"></a>
 #### Speech Recognition
 * [Kaldi](https://github.com/kaldi-asr/kaldi)   -  Kaldi是一个用C ++编写的语音识别工具包，并在Apache License v2.0下获得许可.  Kaldi旨在供语音识别研究人员使用.
 
@@ -384,7 +385,7 @@
 * [Learn JS Data](http://learnjsdata.com/)
 * [AnyChart](https://www.anychart.com/)
 * [FusionCharts](https://www.fusioncharts.com/)
-* [Nivo](https://nivo.rocks) - built on top of the awesome d3 and Reactjs libraries
+* [Nivo](https://nivo.rocks) - 建立在令人敬畏的d3和Reactjs库之上
 
 
 <a name="javascript-general-purpose"></a>
@@ -563,7 +564,7 @@
 * [Core torch7 demos repository](https://github.com/e-lab/torch7-demos).
   *线性回归，逻辑回归
   *面部探测器（作为单独的演示进行训练和探测）
-  * mst-based-segmenter
+  *基于mst的细分市场
   *训练一位数分类器
   *培训车辆代码
   *光流演示
@@ -899,6 +900,7 @@ be
 * [Gorgonia](https://github.com/gorgonia/gorgonia) -  Gorgonia是一个图书馆，有助于促进Golang的机器学习.
 * [Microsoft Recommenders](https://github.com/Microsoft/Recommenders) ：作为Jupyter笔记本提供的构建推荐系统的示例和最佳实践.  该回购包含Microsoft Research以及其他公司和机构的一些最新技术.
 * [StellarGraph](https://github.com/stellargraph/stellargraph)：Graph Learning on Graphs，一个用于机器学习图形结构（网络结构）数据的Python库.
+* [BentoML](https://github.com/bentoml/bentoml)：用于打包和部署机器学习模型的工具包，用于生产中的服务
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -996,7 +998,7 @@ be
 * [Practical XGBoost in Python](https://parrotprediction.teachable.com/p/practical-xgboost-in-python) - 关于在Python中使用XGBoost的综合在线课程.
 * [Introduction to Machine Learning with Python](https://github.com/amueller/introduction_to_ml_with_python) - “使用Python进行机器学习简介”一书的笔记本和代码
 * [Pydata book](https://github.com/wesm/pydata-book) - 由O&#39;Reilly Media出版的Wes McKinney撰写的“Python for Data Analysis”的材料和IPython笔记本
-* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - 流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学
+* [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
@@ -1059,7 +1061,7 @@ be
 #### General-Purpose Machine Learning
 
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) - 针对Ruby的ML相关资源的策划列表.
-* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning)   - 一些机器学习算法，用Ruby实现.  ** [已过时] **
+* [Ruby Machine Learning](https://github.com/tsycho/ruby-machine-learning) - Some Machine Learning algorithms, implemented in Ruby. **[Deprecated]**
 * [Machine Learning Ruby](https://github.com/mizoR/machine-learning-ruby) ** [已过时] **
 * [jRuby Mahout](https://github.com/vasinov/jruby_mahout)   -  JRuby Mahout是一个在JRuby世界中释放Apache Mahout强大功能的宝石.  ** [已过时] **
 * [CardMagic-Classifier](https://github.com/cardmagic/classifier) - 允许贝叶斯和其他类型分类的通用分类器模块.
@@ -1152,7 +1154,7 @@ be
 * [medley](https://www.kaggle.com/general/3661) - 混合曲目：使用贪婪的逐步方法混合回归模型.
 * [mlr](https://cran.r-project.org/web/packages/mlr/index.html) -  mlr：R中的机器学习
 * [ncvreg](https://cran.r-project.org/web/packages/ncvreg/index.html) -  ncvreg：SCAD和MCP惩罚回归模型的正则化路径.
-* [nnet](https://cran.r-project.org/web/packages/nnet/index.html) - nnet: Feed-forward Neural Networks and Multinomial Log-Linear Models. **[Deprecated]**
+* [nnet](https://cran.r-project.org/web/packages/nnet/index.html)   -  nnet：前馈神经网络和多项式对数线性模型.  ** [已过时] **
 * [pamr](https://cran.r-project.org/web/packages/pamr/index.html)   -  pamr：Pam：微阵列的预测分析.  ** [已过时] **
 * [party](https://cran.r-project.org/web/packages/party/index.html) -  party：递归派系实验室.
 * [partykit](https://cran.r-project.org/web/packages/partykit/index.html) -  partykit：递归派系工具包.
@@ -1160,7 +1162,7 @@ be
 * [penalizedLDA](https://cran.r-project.org/web/packages/penalizedLDA/index.html)   -  penalizedLDA：使用Fisher线性判别式进行惩罚分类.  ** [已过时] **
 * [penalizedSVM](https://cran.r-project.org/web/packages/penalizedSVM/index.html) -  penalizedSVM：使用惩罚函数的特征选择SVM.
 * [quantregForest](https://cran.r-project.org/web/packages/quantregForest/index.html) -  quantregForest：分位数回归森林.
-* [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) -  randomForest：Breiman和Cutler的随机森林用于分类和回归.
+* [randomForest](https://cran.r-project.org/web/packages/randomForest/index.html) - randomForest: Breiman and Cutler's random forests for classification and regression.
 * [randomForestSRC](https://cran.r-project.org/web/packages/randomForestSRC/index.html) -  randomForestSRC：生存，回归和分类的随机森林（RF-SRC）.
 * [rattle](https://cran.r-project.org/web/packages/rattle/index.html) -  rattle：R中数据挖掘的图形用户界面
 * [rda](https://cran.r-project.org/web/packages/rda/index.html) -  rda：缩小的质心正则判别分析.
@@ -1174,7 +1176,7 @@ be
 * [RoughSets](https://cran.r-project.org/web/packages/RoughSets/index.html)   -  RoughSet：使用粗糙集和模糊粗糙集理论进行数据分析.  ** [已过时] **
 * [rpart](https://cran.r-project.org/web/packages/rpart/index.html) -  rpart：递归分区和回归树.
 * [RPMM](https://cran.r-project.org/web/packages/RPMM/index.html) -  RPMM：递归分区混合模型.
-* [RSNNS](https://cran.r-project.org/web/packages/RSNNS/index.html) -  RSNNS：使用斯图加特神经网络模拟器（SNNS）的R中的神经网络.
+* [RSNNS](https://cran.r-project.org/web/packages/RSNNS/index.html) - RSNNS: Neural Networks in R using the Stuttgart Neural Network Simulator (SNNS).
 * [RWeka](https://cran.r-project.org/web/packages/RWeka/index.html) -  RWeka：R / Set界面.
 * [RXshrink](https://cran.r-project.org/web/packages/RXshrink/index.html) -  RXshrink：通过广义脊或最小角回归的最大似然收缩.
 * [sda](https://cran.r-project.org/web/packages/sda/index.html)   -  sda：收缩判别分析和CAT分数变量选择.  ** [已过时] **
@@ -1239,7 +1241,7 @@ be
 * [ScalaNLP](http://www.scalanlp.org/) -  ScalaNLP是一套机器学习和数值计算库.
 * [Breeze](https://github.com/scalanlp/breeze) -  Breeze是Scala的数字处​​理库.
 * [Chalk](https://github.com/scalanlp/chalk)   -  Chalk是一个自然语言处理库.  ** [已过时] **
-* [FACTORIE](https://github.com/factorie/factorie) - FACTORIE is a toolkit for deployable probabilistic modeling, implemented as a software library in Scala. It provides its users with a succinct language for creating relational factor graphs, estimating parameters and performing inference.
+* [FACTORIE](https://github.com/factorie/factorie)   -  FACTORIE是可部署概率建模的工具包，在Scala中作为软件库实现.  它为用户提供了一种简洁的语言，用于创建关系因子图，估计参数和执行推理.
 * [Montague](https://github.com/Workday/upshot-montague) -  Montague是Scala的语义分析库，具有易于使用的DSL.
 * [Spark NLP](https://github.com/JohnSnowLabs/spark-nlp) - 基于Apache Spark ML构建的自然语言处理库，为机器学习管道提供简单，高性能和准确的NLP注释，可在分布式环境中轻松扩展.
 

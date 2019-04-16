@@ -54,6 +54,7 @@
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - 与Apollo GraphQL的LitElement集成.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -  LitElement的小型mixin可通过属性getter轻松更改事件.
 - [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - 提供与LitElement基类的lit-css集成.
+- [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 
 ## Components
 

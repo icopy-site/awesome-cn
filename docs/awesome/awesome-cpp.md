@@ -68,7 +68,7 @@
 
 * [Asio](https://github.com/chriskohlhoff/asio/)   - 用于网络和低级I / O编程的跨平台C ++库，使用现代C ++方法为开发人员提供一致的异步模型.  [促进] [website](http://think-async.com/)
 * [Boost.Asio](http://think-async.com/)   - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
-* [C++ Actor Framework](https://github.com/actor-framework/actor-framework)   -  C ++中Actor模型的开源实现.  [BSD -3-第] [website](http://actor-framework.org/)
+* [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)   - 一个功能齐全的高性能事件循环，在libevent之后进行了松散的建模，但没有它的限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)   - 事件通知库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)   - 跨平台异步I / O.  [BSD]
@@ -278,7 +278,7 @@
 * [Mockator](http://www.mockator.com) - 用于C ++ Seams和Mock对象的Eclipse CDT插件.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)   - 用于基准测试的简单低开销跨平台计时器类.  [ZLIB] [website](http://www.plflib.org/nanotimer.htm)
 * [Remotery](https://github.com/Celtoys/Remotery)   - 带有Web Viewer的单C文件分析器.  [Apache2的]
-* [UnitTest++](https://github.com/unittest-cpp/unittest-cpp)   - 用于C ++的轻量级单元测试框架.  [MIT / X联盟许可]
+* [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [Unity](https://github.com/ThrowTheSwitch/Unity) -  C的简单单元测试[MIT]
 * [utest.h](https://github.com/sheredom/utest.h)   - 用于C和C ++的单头单元测试框架.  [授予许可]
 * [VLD](http://vld.codeplex.com/)   - 视觉检漏仪.  一个免费，强大的开源内存泄漏检测系统，用于Visual C ++.
@@ -306,7 +306,7 @@
 * [Spring](https://github.com/spring/spring)   - 功能强大的免费跨平台RTS游戏引擎.  [在GPLv2 / GPLv3的] [website](https://springrts.com/)
 * [Torque2D](https://github.com/GarageGames/Torque2D)   - 为2D游戏开发而构建的开源和跨平台C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-2d)
 * [Torque3D](https://github.com/GarageGames/Torque3D)   - 为3D游戏开发而构建的开源C ++引擎.  [MIT] [website](https://www.garagegames.com/products/torque-3d)
-* [toy engine](https://toyengine.io/) - toy is a thin and modular c++ game engine and offers simple expressive c++ idioms to design full featured 2D or 3D games in fast iterations.
+* [toy engine](https://toyengine.io/) - 玩具是一种简单的模块化c ++游戏引擎，提供简单的表达式c ++习语，可以快速迭代设计全功能的2D或3D游戏.
 * [Urho3D](https://urho3d.github.io/)   - 使用C ++实现的免费轻量级，跨平台2D和3D游戏引擎.  受到OGRE和Horde3D的极大启发.  [MIT]
 
 ## GUI
@@ -365,7 +365,7 @@
 * [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - 通用图像库.
 * [CImg](http://cimg.eu/)   - 用于图像处理的小型开源C ++工具包.  [自己的LGPL或GPL]
 * [CxImage](https://www.codeproject.com/Articles/1300/CxImage)   - 图像处理和转换库，用于加载，保存，显示，转换BMP，JPEG，GIF，PNG，TIFF，MNG，ICO，PCX，TGA，WMF，WBMP，JBG，J2K图像.  [ZLIB]
-* [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [FreeImage](http://freeimage.sourceforge.net/)   - 一个开源库，支持当今多媒体应用程序所需的流行图形图像格式和其他格式.  [GPL2或GPL3]
 * [GD](https://github.com/libgd/libgd)   -  GD图形库，在PHP中用于图像加载/操作和缩略图生成.  [自定义许可证，需要在用户文档中提及] [website](http://libgd.github.io/)
 * [DCMTK](http://dicom.offis.de/dcmtk.php.en) -  DICOM工具包.
@@ -431,7 +431,7 @@
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap： - 通用配置库解析器[BSD-2-Clause]
 * [PicoJSON](https://github.com/kazuho/picojson)   -  C ++中的头文件，JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
-* [QJson](https://github.com/flavio/qjson)   - 基于qt的库，可将JSON数据映射到QVariant对象.  [LGPL2]
+* [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
 * [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
@@ -446,7 +446,7 @@
 * [glog](https://github.com/google/glog) -  Google日志记录模块的C ++实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)   - 用于灵活记录到文件，syslog，IDSA和其他目的地的C ++类库.  [LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus)   - 简单易用的C ++日志记录API，提供对日志管理和配置的线程安全，灵活且任意细粒度的控制.  [BSD和Apache2]
-* [loguru](https://github.com/emilk/loguru)   - 轻量级C ++日志库.  [公共区域]
+* [loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library. [PublicDomain]
 * [plog](https://github.com/SergiusTheBest/plog)   - 少于1000行代码的C ++便携式简单日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)   - 用于C ++的低延迟，高吞吐量，异步日志记录库.  [MIT]
 * [spdlog](https://github.com/gabime/spdlog) - 超快速，仅标题，C ++日志库.
@@ -457,8 +457,8 @@
 
 * [Caffe](https://github.com/BVLC/caffe)   - 神经网络的快速框架.  [BSD]
 * [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
-* [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
-* [Fido](https://github.com/FidoProject/Fido)   - 用于嵌入式电子和机器人的高度模块化的C ++机器学习库.  [MIT] [website](http://fidoproject.github.io/)
+* [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
+* [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight)   - 来自Facebook AI Research的快速，灵活的机器学习库，完全用C ++编写，基于ArrayFire张量库.  [BSD -3-第] [website](https://fl.readthedocs.io/en/latest/)
 * [MeTA](https://github.com/meta-toolkit/meta)   - 现代C ++数据科学工具包.  [MIT] [website](https://meta-toolkit.org/)
 * [Minerva](https://github.com/dmlc/minerva)   - 快速灵活的深度学习系统.  [Apache2的]
@@ -480,7 +480,7 @@
 * [ceres-solver](http://ceres-solver.org/)   - 用于建模和解决谷歌大型复杂非线性最小二乘问题的C ++库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)   - 收集高效可靠的几何算法.  [LGPL＆GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)   - 免费的C ++数学库，用于游戏和图形.  [促进]
-* [Dlib](https://github.com/davisking/dlib) :zap: - A modern C++11 machine learning, computer vision, numerical optimization, and deep learning toolkit. [Boost] [website](http://dlib.net/)
+* [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Eigen](http://eigen.tuxfamily.org/)   - 用于线性代数，矩阵和向量运算，数值求解器和相关算法的模板头的高级C ++库.  [MPL2]
 * [ExprTK](http://www.partow.net/programming/exprtk/)   -  C ++数学表达式工具包库（ExprTk）是一个易于使用，易于集成和极其高效的运行时数学表达式解析器和评估引擎.  [MIT]
 * [Geometric Tools](https://www.geometrictools.com)   - 用于计算数学，图形，图像分析和物理领域的C ++库.  [促进] [website](https://www.geometrictools.com)
@@ -638,7 +638,7 @@
 * [AngelScript](https://www.angelcode.com/angelscript/)   -  AngelScript是一种面向游戏的解释/编译脚本语言.  [ZLIB]
 * [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html)   - 一个C ++库，支持C ++和Python编程语言之间的无缝互操作.  [促进]
 * [cppimport](https://github.com/tbenthompson/cppimport)   - 直接从Python导入C ++文件！  [MIT]
-* [CppSharp](https://github.com/mono/CppSharp)   - 将C / C ++ API粘合到高级语言的工具和库.  [MIT]
+* [CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)   - 一种易于使用的嵌入式脚本语言，适用于C ++.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)   -  bash的外部函数接口.  [MIT]
 * [Cython](https://github.com/cython/cython)   -  Cython是Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器.  它使Python编写C扩展就像Python本身一样简单.  [阿帕奇] [website](http://cython.org/)
@@ -739,8 +739,9 @@
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)   - 这个Qt lib基于C ++ VerbalExpressions库.  [MIT]
 * [c-smart-pointers](https://github.com/Snaipe/libcsptr)   - （GNU）C编程语言的智能指针.  [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)   - 适用于C ++容器的漂亮打印库.  [促进]
+* [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)   - 用于调试目的的小型打印库.  [MIT]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - 一个简单的头文件，供开发人员从应用程序中禁止不安全的C / C ++函数.
-* [Kangaru](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
+* [Kangaru](https://github.com/gracicot/kangaru)   -  C ++ 11和C ++ 14的依赖注入容器.  [MIT]
 * [Klib](https://github.com/attractivechaos/klib)   - 通用算法和数据结构的小型轻量级实现.  [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/)   - 标准C ++的类型安全回调系统.  [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid)   - 用于x86 CPU检测和特征提取的小型C库.  [BSD]
@@ -843,7 +844,7 @@
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供大量软件包.
-* [Cget](https://github.com/pfultz2/cget) - Cmake package retrieval. [Boost] [website](http://cget.readthedocs.io)
+* [Cget](https://github.com/pfultz2/cget)   -  Cmake包检索.  [促进] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/)   -  C / C ++ Package Manager，开源.  [MIT]
 * [CPM](https://github.com/iauns/cpm) - 基于CMake和Git的C ++包管理器.
 * [FASTBuild](http://www.fastbuild.org/docs/home.html) - 高性能，开源构建系统，支持高度可扩展的编译，缓存和网络分发.
@@ -953,7 +954,7 @@
 
 * [Standard C++](https://isocpp.org/) ：zap： - 有关标准C ++的新闻，现状和讨论.
 * [CppCon](http://cppcon.org/) -  C ++会议.
-* [C++ reference](http://cppreference.com/) - C++98, C++03, C++11, C++14 reference.
+* [C++ reference](http://cppreference.com/) -  C ++ 98，C ++ 03，C ++ 11，C ++ 14参考.
 * [cplusplus.com](http://www.cplusplus.com/) -  C ++资源网络.
 * [C FAQ](http://c-faq.com/) -  C常见问题解答.
 * [C++ FAQ](http://www.parashift.com/c++-faq/) -  C ++常见问题解答.
@@ -1003,7 +1004,7 @@
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - 精选的C / C ++性能优化资源的精选列表.
-* [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
+* [free-programming-books](https://github.com/vhf/free-programming-books) - 免费提供的编程书籍清单.
 * [Inqlude](http://inqlude.org/) -  Qt库存档.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机科学界的论文阅读和讨论.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - 精心学习和/或练习算法的地方的精选列表.

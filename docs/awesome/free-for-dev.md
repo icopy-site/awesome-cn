@@ -73,6 +73,7 @@
   * [ionicframework.com](https://ionicframework.com/appflow) - 使用Ionic开发应用程序的回购和工具，您也有离子回购
 
 ## APIs, Data and ML
+  * [ProxyCrawl](https://proxycrawl.com/)   - 无需代理，基础设施或浏览器即可抓取和抓取网站.  我们为您解决验证码并防止您被阻止.  前1000个电话是免费的.
   * [ApiFlash](https://apiflash.com)   - 基于Aws Lambda和Chrome的屏幕截图API.  处理整页，捕获时间，视口尺寸，......
   * [Scraper API](https://www.scraperapi.com/)   - 基于云的Web抓取API处理代理，浏览器和CAPTCHA.  使用简单的API调用来刮取任何网页.  开始每月1000次免费API调用.
   * [dreamfactory.com](https://dreamfactory.com/)   - 适用于移动，Web和IoT应用程序的开源REST API后端.  连接任何SQL / NoSQL数据库，文件存储系统或外部服务，它立即创建一个全面的REST API平台，包含实时文档，用户管理，......
@@ -215,7 +216,7 @@
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
+  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -254,7 +255,7 @@
   * [webtranslateit.com](https://webtranslateit.com/) - 最多可免费拨打500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
-  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+  * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
   * [Loco](https://localise.biz/) - 免费提供2000种翻译，无限翻译，10种语言/项目，1000种可翻译资产/项目
 
 ## Monitoring
@@ -306,7 +307,7 @@
 
 ## Email
 
-  * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
+  * [mailinator.com](https://www.mailinator.com/) - 免费的公共电子邮件系统，您可以使用任何您想要的收件箱
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
   * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
@@ -448,7 +449,7 @@
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - 可以使用电子表格，3个电子表格和200行查询的数据库
-     自由
+     free
    * [FaunaDB](https://fauna.com/) -  FaunaDB是一个分布式，多模型，符合ACID标准且可全局扩展的数据库，免费套餐提供5 GB
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -544,12 +545,12 @@
 
    * [geocoder.opencagedata.com](https://geocoder.opencagedata.com/)   - 聚合OpenStreetMap和其他开放地理源的地理编码API.  每天2,500次免费查询
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
-   * [datamaps.co](https://datamaps.co/) — a free platform for creating visualizations with data maps
+   * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
    * [geocod.io](https://geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
    * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
    * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://giscloud.com/) - 在线可视化，分析和共享地理数据
-   * [mapbox.com](https://mapbox.com/) — Maps, geospatial services and SDKs for displaying map data
+   * [mapbox.com](https://mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
    * [osmnames](https://osmnames.org/) - 地理编码，搜索结果按相关维基百科页面的流行度排名
    * [tilehosting](https://www.tilehosting.com/)   - 用于地图可视化的矢量地图，地图服务和SDK.  免费矢量瓷砖每周更新和四种地图样式.
    * [here](https://developer.here.com/)   - 用于地图和位置感知应用的API和SDK.  每月250k笔交易免费.
@@ -631,7 +632,7 @@
   * [apichangelog.com](https://www.apichangelog.com/) - 订阅每次API文档更新时都会收到通知（Facebook，Twitter，Google，...）
   * [docsapp.io](https://www.docsapp.io/) - 为开源免费发布文档的最简单方法
   * [fullcontact.com](https://fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
-  * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
+  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制
   * [screenshotlayer.com](https://screenshotlayer.com/)   - 捕获任何网站的高度可定制的快照.  每月免费100次快照
   * [screenshotmachine.com](https://screenshotmachine.com/) - 捕获100个快照/月，png，gif和jpg，包括全长捕获，而不仅仅是主页

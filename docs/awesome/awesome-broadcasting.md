@@ -58,7 +58,7 @@
 
 ## Hybrid Radio
 
-* [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
+* [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - 在node.js中执行RadioDNS解析和服务查找.
 * [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - 管理混合无线电静态服务的平台，如RadioVIS，RadioEPG和Service Follow.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) -  JavaScript中的RadioTag客户端库.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) -  Python中的RadioVIS客户端应用程序.
@@ -106,10 +106,9 @@
 ## Monitoring & Quality Control
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - 为主观音频质量评估创建基于浏览器的听力测试的框架.
-* [Ebumeter](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - 对于JACK的电平测量，根据 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度推荐 -  [documentation](http://kokkinizita.linuxaudio.org/linuxaudio/ebumeter-doc/quickguide.html).
 * [Jack Meter](https://github.com/njh/jackmeter) - 用于JACK的基于文本控制台的DPM（数字峰值仪表）.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) -  JACK图形音频表的集合.
-* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) - 用于JACK的图形音频表的集合，具有用于VU和PPM的正确弹道（与Meterbridge相比）.
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) - A collection of graphical audio meters for JACK, including VU, PPM and [EBU R 128](https://tech.ebu.ch/publications/r128) 响度米.
 * [LTC-tools](https://github.com/x42/ltc-tools) - 用于读取，生成和触发线性时间码（LTC）并使用JACK和/或从独立文件转换为MIDI时间码（MTC）的工具集合.
 * [MediaConch](https://mediaarea.net/MediaConch/) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 方便地统一显示视频和音频文件的最相关技术和标签数据.
@@ -158,7 +157,7 @@
 
 * [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - 用于测试网络附加存储的应用程序，最初假设用于专业媒体流.
 * [Fio](https://github.com/axboe/fio) - 灵活的I / O测试仪
-* [iPerf3](https://iperf.fr/) -  TCP，UDP和SCTP网络带宽测量工具.
+* [iPerf3](https://iperf.fr/) - The TCP, UDP and SCTP network bandwidth measurement tool.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - 用于检查根据SMPTE ST 2110规范生成的网络数据包的分析器.
 
 ## Radio Production
@@ -188,7 +187,7 @@
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的EBU-TT-D XML Schema，支持EBU Tech 3380的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - 用于生成，测试和分发字幕文档的一组组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 格式.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) -  GStreamer管道解析和呈现EBU-TT-D（TTML）字幕的方法.
-* [imscJS](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
+* [imscJS](https://github.com/sandflow/imscJS) - 用于将IMSC1文本和图像配置文件呈现为HTML5的JavaScript库.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) -  EBU-TT-D示例文件，相关的PNG图像和mp4视频，显示它们应如何呈现.
 * [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - 字幕编辑.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf)   - 一组用于转换字幕格式的模块.  主要目标是EBU STL和EBU-TT字幕文件的转换.  Alpha版本.

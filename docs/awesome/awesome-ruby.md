@@ -471,6 +471,7 @@
 * [ruby-install](https://github.com/postmodern/ruby-install) - 安装Ruby，JRuby，Rubinius，MagLev或MRuby.
 * [RVM](https://rvm.io) -  RVM是一个命令行工具，允许您轻松地安装，管理和使用从解释器到宝石集的多个ruby环境.
 * [Tokaido](https://github.com/tokaido/tokaidoapp/releases) -  Ruby，Rails，SQLite和Redis封装在一个拖放式OS X应用程序中，旨在为初学者轻松安装工作的RoR环境.
+* [Uru](https://bitbucket.org/jonforums/uru) -  Uru是一个轻量级，多平台的命令行工具，可帮助您在32/64位Linux，OS X或Windows系统上使用多个rubies.
 
 ## Error Handling
 

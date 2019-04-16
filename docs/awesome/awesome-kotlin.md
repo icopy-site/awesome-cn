@@ -165,7 +165,7 @@
 ### <a name="libraries-frameworks-functional-programming"></a>Functional Programming <sup>[Back ⇈](#libraries-frameworks-functional-programming-subcategory)</sup>
 * [arrow-kt/arrow](https://github.com/arrow-kt/arrow) -  Kotlin标准库的功能伴侣.
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) -  Kotlin的RxJava绑定.
-* [kittinunf/Result](https://github.com/kittinunf/Result) - The modelling for success/failure of operations in Kotlin.
+* [kittinunf/Result](https://github.com/kittinunf/Result) -  Kotlin运营成功/失败的建模.
 * [brianegan/bansa](https://github.com/brianegan/bansa) - 受到Elm＆Redux启发的Kotlin和Java的状态容器.
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) -  Kotlin的Redux直接港口.
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - 用于Kotlin + Android的Reduxjs的“电池包含”端口
@@ -231,7 +231,7 @@
 * [kittinunf/Fuel](https://github.com/kittinunf/Fuel) -  Kotlin / Android最简单的HTTP网络库.
 * [jkcclemens/khttp](https://github.com/jkcclemens/khttp) -  Kotlin HTTP请求库.
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) - 基于多平台协程的HTTP客户端.
-* [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - Kotlin DSL-based HTTP client.
+* [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) - 基于Kotlin DSL的HTTP客户端.
 * [curiousnikhil/Asynkio](https://github.com/CuriousNikhil/AsynKio) - 使用async / await样式轻松进行异步调用.
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
@@ -494,6 +494,7 @@
 * [hpost/RxBrainwaves](https://github.com/hpost/rx-brainwaves) - 用于NeuroSky MindWave耳机的RxJava包装器
 * [adrielcafe/KrumbsView](https://github.com/adrielcafe/KrumbsView) -  Android的终极面包屑视图！
 * [inshiro/Skate](https://github.com/inshiro/skate) - 一个简单易用的Android片段堆栈控制器
+* [PHELAT/LiveDataDSL](https://github.com/PHELAT/LiveDataDSL) - 为LiveData观察生成DSL
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - 使用MVP架构的kotlin上的android开发框架.
@@ -696,7 +697,7 @@
 * [Columbus Kotlin User Group](https://www.meetup.com/Columbus-Kotlin-User-Group/) - 美国
 * [Dallas, Kotlin DFW](https://www.meetup.com/Kotlin-DFW/) - 美国
 * [Guadalajara Kotlin User Group](https://www.meetup.com/es/Kotlin-User-Group-GDL/) - 墨西哥
-* [Guatemala Kotlin Meetup](https://www.meetup.com/Guatemala-Kotlin-Meetup/) - 危地马拉
+* [Guatemala Kotlin Meetup](https://www.meetup.com/Guatemala-Kotlin-Meetup/) - Guatemala
 * [Mexico, CDMX Kotlin User Group](https://www.meetup.com/es-ES/Kotlin-Nights-CDMX/) - 墨西哥
 * [Mérida Kotlin User Group](https://www.meetup.com/Merida-Kotlin-User-Group/) - 墨西哥
 * [New England User Group](https://www.meetup.com/New-England-Kotlin-Users-Group/) - 美国
@@ -718,10 +719,10 @@
 * [Buenos Aires Desarrollo en Android con Kotlin](https://www.meetup.com/Desarrollo-en-Android-con-Kotlin/) - 阿根廷
 * [Cascavel Kotlin Meetup](https://www.meetup.com/Kotlin-Meetup-Cascavel/) - 巴西
 * [Chile Kotlin User Group](http://www.facebook.com/kotlinchile) - 智利
-* [Cochabamba Kotlin User Group](https://www.facebook.com/kotlincocha/) - 玻利维亚
+* [Cochabamba Kotlin User Group](https://www.facebook.com/kotlincocha/) - Bolivia
 * [Curitiba Kotlin User Group](https://www.meetup.com/Kotlin-Curitiba/) - 巴西
-* [El Alto Kotlin User Group](https://www.meetup.com/es/Kotlin-El-Alto/?_cookie-check=x7g06koKCyQaUPnm) - 玻利维亚
-* [La Paz Kotlin User Group](https://www.facebook.com/KotlinLaPaz/) - 玻利维亚
+* [El Alto Kotlin User Group](https://www.meetup.com/es/Kotlin-El-Alto/?_cookie-check=x7g06koKCyQaUPnm) - Bolivia
+* [La Paz Kotlin User Group](https://www.facebook.com/KotlinLaPaz/) - Bolivia
 * [Lima Kotlin User Group](https://www.facebook.com/groups/limakotlin/) - 秘鲁
 * [Peru Kotlin User Group](https://www.facebook.com/groups/1540580306247047/) - 秘鲁
 * [Sao Paulo Kotlin Meetup](https://www.meetup.com/kotlin-meetup-sp/) - 巴西
