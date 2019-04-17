@@ -59,6 +59,7 @@
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 用于的Python接口 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.
 - [pythreejs](https://github.com/jovyan/pythreejs) - 利用Jupyter小部件基础架构的Python / ThreeJS桥.
 - [Qgrid](https://github.com/quantopian/qgrid) - 用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
+- [tributary](https://github.com/timkpaine/tributary) - 具有Jupyter支持的Python数据流.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - 用于ipyleaflet的C ++后端.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) -  ipywebrtc的C ++后端.
 - [xwidgets](https://github.com/QuantStack/xwidgets) -  ipywidgets的C ++后端.
@@ -71,8 +72,8 @@
 - [nbconvert](https://nbconvert.readthedocs.io) - 将笔记本电脑转换为其他格式.
 - [nbdime](https://github.com/jupyter/nbdime) - 用于差异和合并Jupyter笔记本的工具.
 - [nbinteract](https://www.nbinteract.com) - 从Jupyter笔记本创建交互式网页.
-- [nbflow](https://github.com/jhamrick/nbflow) - One-button reproducible workflows with Jupyter and Scons.
-- [nbscan](https://github.com/conery/nbscan) - 搜索并打印Jupyter笔记本电脑的单元格内容.
+- [nbflow](https://github.com/jhamrick/nbflow) - 使用Jupyter和Scons的一键式可重复工作流程.
+- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
 - [Nikola](https://getnikola.com) - 将笔记本电脑转换为网站的静态站点生成器.
 - [notedown](https://github.com/aaren/notedown/) - 将Jupyter笔记本转换为降价（和返回）.
 - [Papermill](https://github.com/nteract/papermill) - 用于参数化，执行和分析Jupyter笔记本的工具.
@@ -88,6 +89,7 @@
 - [git](https://github.com/jupyterlab/jupyterlab-git) -  git集成的扩展.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) - 用于导航到JupyterLab中变量或函数定义的扩展.
 - [google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) -  Google云端硬盘集成扩展程序.
+- [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) - 从JupyterLab内部发送笔记本电脑及其内容.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) - 扩展将笔记本发布到 [Kyso](https://kyso.io) 来自Jupyterlab的平台.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) - 实时编辑LaTeX文档的扩展.
 - [statusbar](https://github.com/jupyterlab/jupyterlab-statusbar) - 状态栏，显示JupyterLab的各种指标/状态.

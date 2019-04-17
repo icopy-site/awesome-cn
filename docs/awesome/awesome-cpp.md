@@ -57,7 +57,7 @@
 * [Genann](https://github.com/codeplea/genann) -  C中的简单神经网络库.[zlib]
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Scala，Go，Javascript等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
-* [Recast/Detour](https://github.com/recastnavigation/recastnavigation) - (3D) Navigation mesh generator and pathfinder, mostly for games. [zlib]
+* [Recast/Detour](https://github.com/recastnavigation/recastnavigation)   - （3D）导航网格生成器和探路者，主要用于游戏.  [ZLIB]
 * [TensorFlow](https://github.com/tensorflow/tensorflow) - 使用数据流图进行数值计算的开源软件库[Apache]
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  [促进]
 * [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)   -  C ++ 11中仅限标题，无依赖性的深度学习框架.  [BSD]
@@ -375,7 +375,7 @@
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)   - 使用SIMD指令加速基线JPEG编码和解码的JPEG图像编解码器.  [IJG＆BSD-3-Clause＆zlib] [website](https://libjpeg-turbo.org/)
 * [libvips](https://github.com/jcupitt/libvips)   - 具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)   - 用于C ++的ImageMagick程序接口.  [Apache2的]
-* [MagickWnd](http://www.imagemagick.org/script/api.php) -  C的ImageMagick程序接口[Apache2]
+* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache2]
 * [OpenCV](http://opencv.org/)  ：zap： - 开源计算机视觉.  [BSD]
 * [OpenEXR](http://www.openexr.com/)   - 用于高动态范围成像的跨平台库.  [改良BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)   - 强大的图像和纹理争用库，支持大量常见的有损和RAW格式.  [改良BSD]
@@ -548,6 +548,7 @@
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic)   - 从Chromium的QUIC实现中提取的QUIC协议库.  [BSD]
+* [librdkafka](https://github.com/edenhill/librdkafka)   - 用于C和C ++的Apache Kafka客户端库.  [BSD-2-第]
 * [libwebsockets](https://github.com/warmcat/libwebsockets)   - 轻量级纯C WebSocket实现，提供客户端和服务器库.  [LGPL2.1 +静态链接例外] [website](https://libwebsockets.org/)
 * [Mongoose](https://github.com/cesanta/mongoose)   - 极轻量级的网络服务器.  [GPL2]
 * [MQTT-C](https://github.com/LiamBindle/MQTT-C)   - 适用于嵌入式系统和PC的便携式MQTT C客户端.  [MIT] [website](https://liambindle.ca/MQTT-C)
@@ -592,15 +593,16 @@
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)   -  Box2D的openFrameworks包装器.  [BSD-等]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)   - 由Nvidia开发的开源实时物理引擎中间件SDK，作为Nvidia GameWorks软件套件的一部分.  [BSD -3-第] 
 * [Project Chrono](https://github.com/projectchrono/chrono)   - 开源多物理场仿真引擎.  [BSD -3-第] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody)   - 高性能C ++多体动力学/物理库，用于模拟车辆，机器人和人体骨骼等铰接式生物力学和机械系统.  [Apache2的]
+* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
 
 ## Reflection
 
-* [Better Enums](https://github.com/aantron/better-enums)   - 反射枚举（字符串，迭代）.  单头.  [BSD] [website](http://aantron.github.io/better-enums/)
+* [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)   - 使用clang的C ++反射.  [MIT]
 * [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum)   - 仅限标头的C ++ 17库为枚举（字符串，字符串，迭代）提供静态反射，可以使用任何枚举类型而无需任何宏或样板代码.  [MIT]
+* [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
@@ -650,6 +652,7 @@
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)   - 一个轻量级，无依赖的库，用于将Lua绑定到C ++.  [MIT]
 * [luacxx](https://github.com/dafrito/luacxx)   - 用于创建Lua绑定的C ++ 11 API.  [MIT]
 * [nbind](https://github.com/charto/nbind)   - 神奇的标题，使您的C ++库可以从JavaScript访问.  [MIT]
+* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [pybind11](https://github.com/pybind/pybind11)   -  C ++ 11和Python之间的无缝可操作性.  [BSD]
 * [SIP](https://riverbankcomputing.com/software/sip/intro)   - 用于Python v2和v3的C或C ++绑定生成器.  [GPL]
 * [sol2](https://github.com/ThePhD/sol2)   - 具有高级功能和顶级性能的C ++ &lt; - &gt; Lua API包装器.  [MIT]
@@ -707,7 +710,7 @@
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
 * [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)   - 基于C ++和Qt的高速和全栈Web应用程序框架，支持HTTP和WebSocket协议（带O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
-* [Wt](http://www.webtoolkit.eu/wt) - A C++ library for developing web applications. [GPL/Commercial]
+* [Wt](http://www.webtoolkit.eu/wt)   - 用于开发Web应用程序的C ++库.  [GPL /商业]
 
 ## XML
  * XML是废话.  真.  没有任何借口.  XML对于解析人类来说是令人讨厌的，甚至对于计算机也是一种解析的灾难.  没有理由存在那种可怕的废话.   -  Linus Torvalds *
@@ -729,9 +732,9 @@
 
 * [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
-* [Better Enums](https://github.com/aantron/better-enums)   - 反射枚举（字符串，迭代）.  单头.  [BSD] [website](http://aantron.github.io/better-enums/)
 * [Better String](http://bstring.sourceforge.net)   -  C的字符串库的替代方法，它更具功能性，并且没有缓冲区溢出溢出问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
+* [CPPItertools](https://github.com/ryanhaining/cppitertools)   - 基于范围的循环附加组件，受Python内置函数和itertools库的启发.  [BSD-2-第]
 * [DynaMix](https://github.com/iboB/dynamix)   - 允许您在运行时编写和修改对象的库.  [MIT]
 * [{fmt}](https://github.com/fmtlib/fmt)  ：zap： - 用于C ++的小型，安全且快速的格式化库.  [简化BSD]
 * [FastFormat](http://www.fastformat.org) - 受log4j和Pantheios启发的快速，安全的C ++格式[Simplified BSD]
@@ -746,12 +749,11 @@
 * [libsigc++](http://libsigc.sourceforge.net/)   - 标准C ++的类型安全回调系统.  [LGPL]
 * [libcpuid](https://github.com/anrieff/libcpuid)   - 用于x86 CPU检测和特征提取的小型C库.  [BSD]
 * [libevil](https://github.com/avati/libevil)   - 邪恶的许可证管理器.  [GPLv3的]
-* [libnih](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
+* [libnih](https://github.com/keybuk/libnih)   -  C函数和结构的轻量级库.  [GPL2.1]
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7)   - 用于C ++的模式匹配库.  [BSD]
-* [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
+* [mio](https://github.com/mandreyel/mio)   - 用于内存映射文件IO的跨平台C ++ 11标头库.  [MIT]
 * [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
-* [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]
 * [Scintilla](http://scintilla.org/)   - 免费的源代码编辑组件.  [MIT]
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
@@ -810,7 +812,7 @@
 * [LLDB](http://lldb.llvm.org/) -  LLDB调试器.
 * [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程shell，包含MDB元数据库.
 * [Valgrind](http://valgrind.org/) - 用于内存调试，内存泄漏检测和分析的工具.
-* [x64dbg](http://x64dbg.com/) - 用于Windows的开源x64 / x32调试器.
+* [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
 
 ## Integrated Development Environment
 * C或C ++标称IDE列表.*
@@ -869,7 +871,7 @@
 * [cpplint](https://github.com/cpplint/cpplint) - 遵循Google的C ++样式指南的C ++样式检查器.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
-* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - A tool for use with clang to analyze includes in C and C++ source files. [website](https://include-what-you-use.org/)
+* [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - 用于clang分析的工具包括C和C ++源文件. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer)   - 用于Java，C和Objective-C的静态分析器.  [BSD]
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.

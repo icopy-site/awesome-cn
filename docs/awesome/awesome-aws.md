@@ -734,7 +734,7 @@ AWS Repos：
 * [kahing/goofys :fire::fire::fire::fire:](https://github.com/kahing/goofys) - 用Go编写的Amazon S3 Filey系统.
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - 具有并发控制的批处理函数（每个，map，reduce，filter，join）
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - 亚马逊S3 REST API的Ruby实现.
-* [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - 烧瓶扩展.
+* [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - 烧瓶扩展.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) -  Grunt插件.
 * [minio/mc :fire::fire::fire:](https://github.com/minio/mc) - 用于文件系统和云存储的Minio客户端.
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - 与S3兼容的对象存储服务器.

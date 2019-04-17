@@ -207,6 +207,7 @@ Installers
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 运用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
+* [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
@@ -505,23 +506,23 @@ Projects
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/VirtusLab/jenkins-operator)
 * [Jenkins X](http://jenkins-x.io/) - 针对Kubernetes的自动CI / CD，使用GITOps促销和预览环境，使用最佳OSS工具，如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow
-* [kb8or](https://github.com/UKHomeOffice/kb8or)
-* [Wercker](http://blog.wercker.com/topic/kubernetes)
-* [Shippable](http://blog.shippable.com/topic/kubernetes)
-* [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
-* [Kontinuous](https://github.com/AcalephStorage/kontinuous)
-* [Kit](http://invisionapp.github.io/kit/)
-* [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
-* [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
-* [KubeCI](https://www.kubeci.io/)
-* [Vili](https://github.com/airware/vili)
-* [Keel](https://keel.sh/)
 * [Apollo](https://github.com/logzio/apollo) - 开源应用程序，为团队提供自助服务UI，用于创建和部署Kubernetes服务.
-* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
-* [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
-* [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
 * [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
 * [Buildkite](https://github.com/buildkite/charts) - 精益CI / CD云托管控制平面与您的基础架构上的代理.
+* [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
+* [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
+* [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
+* [kb8or](https://github.com/UKHomeOffice/kb8or)
+* [Keel](https://keel.sh/)
+* [Kit](http://invisionapp.github.io/kit/)
+* [Kontinuous](https://github.com/AcalephStorage/kontinuous)
+* [KubeCI](https://www.kubeci.io/)
+* [Shippable](http://blog.shippable.com/topic/kubernetes)
+* [Shipper](https://github.com/bookingcom/shipper) - 使用Helm的Kubernetes本地多群集金丝雀或蓝绿色部署.
+* [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
+* [Vili](https://github.com/airware/vili)
+* [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
+* [Wercker](http://blog.wercker.com/topic/kubernetes)
 
 ## Serverless Implementations
 
@@ -769,7 +770,7 @@ Projects
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
-* [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
+* [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重现的机器学习和对kubernetes的深度学习
 * [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
@@ -826,7 +827,7 @@ Books
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
 * [Kubernetes: Scheduling the Future at Cloud Scale](http://www.oreilly.com/webops-perf/free/kubernetes.csp) 通过 [Dave K. Rensin](http://www.linkedin.com/in/drensin)
 * [Kubernetes in Action](http://www.manning.com/books/kubernetes-in-action) 通过 [Marko Lukša](https://twitter.com/markoluksa)
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito，Hui-Chuan Chloe Lee，Ke-Jou Carol Hsu
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （OpenSource Book in Chinese）by [Pengfei Ni](https://github.com/feiskyer)
 * [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) 通过 [Gigi Sayfan](https://github.com/the-gigi)
@@ -834,7 +835,7 @@ Books
 * [The DevOps 2.3 Toolkit: Kubernetes](https://leanpub.com/the-devops-2-3-toolkit) 通过 [Viktor Farcic](https://twitter.com/vfarcic)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （OpenSource Book in Chinese）by [Jimmy Song](https://github.com/rootsongjc)
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
-* [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) by Matthew Palmer
+* [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修帕尔默
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)

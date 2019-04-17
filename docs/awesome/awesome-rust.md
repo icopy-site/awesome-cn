@@ -140,7 +140,7 @@ Rust代码和资源的精选列表.
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) -  A Have I Pwned（HIBP）命令行实用工具，可让您轻松检查受损帐户和密码.
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) - 使用灵活模式远程连接Amazon S3文件的命令行工具.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) - 用于收集有关Amazon S3存储桶的元数据的命令行工具.
-* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，通过将您与屏幕隔开来帮助您管理工作站，当您不在OPENCV的其他地方时锁定屏幕！
+* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，可以帮助您管理您的工作站，让您远离屏幕，当您不在OPENCV的其他地方时锁定您的屏幕！
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - 用Rust编写的快速版本的tmux-fingers，复制/粘贴tmux，如vimium / vimperator.
 
 ### Video
@@ -180,7 +180,7 @@ Rust代码和资源的精选列表.
   * [cargo-cache](https://crates.io/crates/cargo-cache) - 检查/管理/清理您的货物缓存（`〜/ .cargo /`/`$ {CARGO_HOME}`），打印尺寸等 [<img src="https://api.travis-ci.org/matthiaskrgr/cargo-cache.svg?branch=master">](https://travis-ci.org/matthiaskrgr/cargo-cache)
   * [cargo-check](https://crates.io/crates/cargo-check) - 一个围绕`cargo rustc  -  -Zno-trans`的包装器，如果你只需要正确检查，它可以帮助你运行更快的编译 [<img src="https://api.travis-ci.org/rsolomo/cargo-check.svg?branch=master">](https://travis-ci.org/rsolomo/cargo-check)
   * [cargo-count](https://crates.io/crates/cargo-count) - 列出源代码计数和货物项目的详细信息，包括不安全的统计数据 [<img src="https://api.travis-ci.org/kbknapp/cargo-count.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-count)
-  * [mmstick/cargo-deb](https://raw.githubusercontent.com/mmstick/cargo-deb) - 生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
+  * [cargo-deb](https://crates.io/crates/cargo-deb) - 生成二进制Debian软件包 [<img src="https://api.travis-ci.org/mmstick/cargo-deb.svg?branch=master">](https://travis-ci.org/mmstick/cargo-deb)
   * [cargo-deps](https://crates.io/crates/cargo-deps) - 构建Rust项目的依赖图 [<img src="https://api.travis-ci.org/m-cat/cargo-deps.svg?branch=master">](https://travis-ci.org/m-cat/cargo-deps)
   * [cargo-do](https://crates.io/crates/cargo-do) - 连续运行多个货物命令 [<img src="https://api.travis-ci.org/pwoolcoc/cargo-do.svg?branch=master">](https://travis-ci.org/pwoolcoc/cargo-do)
   * [cargo-ebuild](https://crates.io/crates/cargo-ebuild) - 可以使用树内eclass生成ebuild的货物扩展 [<img src="https://api.travis-ci.org/cardoe/cargo-ebuild.svg?branch=master">](https://travis-ci.org/cardoe/cargo-ebuild)
@@ -1016,7 +1016,7 @@ Rust代码和资源的精选列表.
   * [danclive/sincere](https://raw.githubusercontent.com/danclive/sincere) - 基于超线程和多线程的Rust（稳定）微网框架. [<img src="https://api.travis-ci.org/danclive/sincere.svg?branch=master">](https://travis-ci.org/danclive/sincere)
   * [oltdaniel/zap](https://raw.githubusercontent.com/oltdaniel/zap) -  Rust的快速http框架 [<img src="https://api.travis-ci.org/oltdaniel/zap.svg?branch=master">](https://travis-ci.org/oltdaniel/zap)
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
-  * [actix/sockjs](https://raw.githubusercontent.com/actix/sockjs) - 一个 [SockJS](https://raw.githubusercontent.com/sockjs) Rust的服务器 [<img src="https://api.travis-ci.org/actix/sockjs.svg?branch=master">](https://travis-ci.org/actix/sockjs)
+  * [actix/sockjs](https://raw.githubusercontent.com/actix/sockjs) - 一个 [SockJS](https://raw.githubusercontent.com/sockjs) server for Rust [<img src="https://api.travis-ci.org/actix/sockjs.svg?branch=master">](https://travis-ci.org/actix/sockjs)
   * [cyderize/rust-websocket](https://raw.githubusercontent.com/cyderize/rust-websocket) - 处理WebSocket连接的框架（客户端和服务器） [<img src="https://api.travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
   * [housleyjk/ws-rs](https://raw.githubusercontent.com/housleyjk/ws-rs) -  Rust的轻量级，事件驱动的WebSockets [<img src="https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)
   * [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs) -  Rust的基于流的基于WebSocket的轻量级实现.
@@ -1051,7 +1051,7 @@ Rust代码和资源的精选列表.
   * [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
   * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/) - 一组简单的示例，演示了使用Rust生态系统的板条箱完成常见编程任务的良好实践.
   * [Rust in Motion](https://www.manning.com/livevideo/rust-in-motion?a_aid=cnichols&a_bid=6a993c2e) - 一个视频系列 [Carol Nichols](https://github.com/carols10cents) 和 [Jake Goulding](https://github.com/shepmaster) （付费）
-  * [rust-learning](https://github.com/ctjhoa/rust-learning) — A collection of useful resources to learn Rust
+  * [rust-learning](https://github.com/ctjhoa/rust-learning) - 学习Rust的有用资源的集合
   * [Rustlings](https://github.com/rust-lang/rustlings) - 小练习让你习惯阅读和编写Rust代码
   * [stdx](https://github.com/brson/stdx) - 首先学习这些板条箱作为标准的扩展
   * [University of Pennsylvania's Comp Sci Rust Programming Course](http://cis198-2016s.github.io/schedule/)
