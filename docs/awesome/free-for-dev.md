@@ -26,7 +26,7 @@
     *云存储 -  5GB，1GB网络出口
     * Cloud Pub / Sub  - 每月10GB的邮件
     *云功能 - 每月200万次调用（包括后台和HTTP调用）
-     * Google Kubernetes Engine  - 无各种规模集群的集群管理费.  每个用户节点按标准计算引擎定价收费
+     * Google Kubernetes Engine  - 对于各种规模的群集，不收取群集管理费.  每个用户节点按标准计算引擎定价收费
     * BigQuery  - 每月1 TB的查询，每月10 GB的存储空间
     *云构建 - 每天120分钟
     *云源存储库 - 最多5个用户，50 GB存储，50 GB出口
@@ -216,7 +216,7 @@
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
+  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -255,7 +255,7 @@
   * [webtranslateit.com](https://webtranslateit.com/) - 最多可免费拨打500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
-  * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
+  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
   * [Loco](https://localise.biz/) - 免费提供2000种翻译，无限翻译，10种语言/项目，1000种可翻译资产/项目
 
 ## Monitoring
@@ -489,7 +489,6 @@
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
-   * [overv.io](https://overv.io/) - 为喜欢GitHub的团队提供敏捷的项目管理
    * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
    * [contriber.com](https://contriber.com/) - 可定制的项目管理平台，免费入门计划，5个工作区
    * [planitpoker.com](https://www.planitpoker.com/) - 免费在线策划扑克（估算工具）

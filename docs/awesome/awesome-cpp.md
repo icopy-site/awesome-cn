@@ -407,7 +407,6 @@
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)   - 一个简单的RPC包装生成器，用于C / C ++函数.  [BSD]
 * [WAMP](http://wamp.ws/)   - 提供RPC和发布/订阅消息传递模式.  （各种实现，各种语言）
 * [xmlrpc-c](http://xmlrpc-c.sourceforge.net/)   - 基于XML和HTTP的轻量级RPC库.  [BSD]
-* [ZeroMQ](http://zeromq.org/)   - 高速，模块化异步通信库.  [LGPL]
 
 ## JSON
 
@@ -570,6 +569,7 @@
 * [wdt](https://github.com/facebook/wdt)   - 可嵌入的库（和命令行工具），旨在通过多个TCP路径尽可能快地在两个系统之间传输数据.  [BSD -3-第]
 * [WebSocket++](https://github.com/zaphoyd/websocketpp)   - 基于C ++ / Boost Asio的websocket客户端/服务器库.  [BSD]
 * [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus)   - 多平台C ++网络嗅探和数据包解析和制作框架.  [授予许可]
+* [ZeroMQ](https://github.com/zeromq/libzmq)   - 高速，模块化异步通信库.  [LGPL] [website](http://zeromq.org/)
 
 ## PDF
 *用于解析和操作PDF文档的库.*

@@ -127,6 +127,7 @@
 * [robstoll/atrium](https://github.com/robstoll/atrium) -  Kotlin支持i18n的流畅断言库.
 * [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent) -  Kotlin的流利断言图书馆.
 * [winterbe/expekt](https://github.com/winterbe/expekt) -  Kotlin的BDD断言库.
+* [som-one/zarif-kherkin](https://github.com/som-one/zarif-kherkin) - 使用Kotlin DSL为Gherkin进行可配置的BDD测试.
 * [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) -  KotlinTest是一个灵活而全面的测试工具，适用于Kotlin生态系统，其基础和精湛的Scalatest灵感.
 * [dmcg/konsent](https://github.com/dmcg/konsent) -  Kotlin的验收测试库.
 * [EPadronU/balin](https://github.com/EPadronU/balin)   -  Balin是Kotlin的浏览器自动化库.  它基本上是一个受Geb启发的Selenium-WebDriver包装库.
@@ -143,6 +144,7 @@
 * [robfletcher/strikt](https://github.com/robfletcher/strikt/) -  Kotlin的断言库
 * [dmcg/minutest](https://github.com/dmcg/minutest) - 对JVM上的Kotlin进行简单，富有表现力的可扩展测试
 * [codecentric/hikaku](https://github.com/codecentric/hikaku) - 一个库，用于测试REST-API的实现是否符合其规范.
+* [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker)   - 在kotlin写的红宝石faker宝石端口.  为测试生成逼真的假数据.
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
 * [Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - 无痛Kotlin依赖注射.
@@ -237,7 +239,7 @@
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) -  IntelliJ IDEA社区版
 * [alexmt/atom-kotlin-language](https://github.com/alexmt/atom-kotlin-language) - 在Atom中为Kotlin文件添加语法高亮
-* [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) -  Kotlin的崇高套餐.
+* [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin.
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - 用于Vim的Kotlin语法荧光笔.
 * [sargunster/kotlin-textmate-bundle](https://github.com/sargunster/kotlin-textmate-bundle) -  TextMate的Kotlin包.
 * [ice1000/NppExtension](https://github.com/ice1000/NppExtension) -  Notepad ++的Kotlin语言扩展
@@ -475,8 +477,8 @@
 * [DanielMartinus/Konfetti](https://github.com/DanielMartinus/Konfetti) - 轻量级粒子系统，创造逼真的五彩纸屑
 * [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) -  Android上的RecyclerView的通用适配器，可以轻松地将异构项添加到列表中.
 * [calintat/alps](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
-* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - 用于更轻松，更快速的Kotlin编程的Android实用程序.
-* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - 用于数据绑定+ Kotlin + RxJava的功能构造
+* [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
+* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - 应用程序中任何分析的微小api层.
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
@@ -697,7 +699,7 @@
 * [Columbus Kotlin User Group](https://www.meetup.com/Columbus-Kotlin-User-Group/) - 美国
 * [Dallas, Kotlin DFW](https://www.meetup.com/Kotlin-DFW/) - 美国
 * [Guadalajara Kotlin User Group](https://www.meetup.com/es/Kotlin-User-Group-GDL/) - 墨西哥
-* [Guatemala Kotlin Meetup](https://www.meetup.com/Guatemala-Kotlin-Meetup/) - Guatemala
+* [Guatemala Kotlin Meetup](https://www.meetup.com/Guatemala-Kotlin-Meetup/) - 危地马拉
 * [Mexico, CDMX Kotlin User Group](https://www.meetup.com/es-ES/Kotlin-Nights-CDMX/) - 墨西哥
 * [Mérida Kotlin User Group](https://www.meetup.com/Merida-Kotlin-User-Group/) - 墨西哥
 * [New England User Group](https://www.meetup.com/New-England-Kotlin-Users-Group/) - 美国
@@ -719,10 +721,10 @@
 * [Buenos Aires Desarrollo en Android con Kotlin](https://www.meetup.com/Desarrollo-en-Android-con-Kotlin/) - 阿根廷
 * [Cascavel Kotlin Meetup](https://www.meetup.com/Kotlin-Meetup-Cascavel/) - 巴西
 * [Chile Kotlin User Group](http://www.facebook.com/kotlinchile) - 智利
-* [Cochabamba Kotlin User Group](https://www.facebook.com/kotlincocha/) - Bolivia
+* [Cochabamba Kotlin User Group](https://www.facebook.com/kotlincocha/) - 玻利维亚
 * [Curitiba Kotlin User Group](https://www.meetup.com/Kotlin-Curitiba/) - 巴西
-* [El Alto Kotlin User Group](https://www.meetup.com/es/Kotlin-El-Alto/?_cookie-check=x7g06koKCyQaUPnm) - Bolivia
-* [La Paz Kotlin User Group](https://www.facebook.com/KotlinLaPaz/) - Bolivia
+* [El Alto Kotlin User Group](https://www.meetup.com/es/Kotlin-El-Alto/?_cookie-check=x7g06koKCyQaUPnm) - 玻利维亚
+* [La Paz Kotlin User Group](https://www.facebook.com/KotlinLaPaz/) - 玻利维亚
 * [Lima Kotlin User Group](https://www.facebook.com/groups/limakotlin/) - 秘鲁
 * [Peru Kotlin User Group](https://www.facebook.com/groups/1540580306247047/) - 秘鲁
 * [Sao Paulo Kotlin Meetup](https://www.meetup.com/kotlin-meetup-sp/) - 巴西
@@ -993,7 +995,7 @@
 * [Creating an AndroidWear watchface using Kotlin](http://kotlin.link/articles/Creating-an-AndroidWear-watchface-using-Kotlin.html) - 罗伯托佩雷斯
 * [Rest API plumbing with kotlin](http://kotlin.link/articles/Rest-API-plumbing-with-kotlin.html) -  Gaetan Zoritchak
 * [Kotlin’s Android Roadmap](http://kotlin.link/articles/Kotlin’s-Android-Roadmap.html) - 德米特里·杰梅罗夫
-* [Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More](http://kotlin.link/articles/Ubuntu-Make-16-03-Released-With-Eclipse-JEE-And-IntelliJ-IDEA-EAP-Support-More.html) - Alin Andrei
+* [Ubuntu Make 16.03 Released With Eclipse JEE And IntelliJ IDEA EAP Support, More](http://kotlin.link/articles/Ubuntu-Make-16-03-Released-With-Eclipse-JEE-And-IntelliJ-IDEA-EAP-Support-More.html) - 艾琳安德烈
 * [10 Features I Wish Java Would Steal From the Kotlin Language](http://kotlin.link/articles/10-Features-I-Wish-Java-Would-Steal-From-the-Kotlin-Language.html) -  Lukas Eder
 
 ### <a name="articles-blog-posts-february-2016"></a>February 2016 <sup>[Back ⇈](#articles-blog-posts-february-2016-subcategory)</sup>
@@ -1103,7 +1105,7 @@
 * [Kotlin in Real Projects](http://kotlin.link/articles/Kotlin-in-Real-Projects.html) - 安东凯克斯
 * [10 Kotlin Tricks in 10(ish) Minutes](http://kotlin.link/articles/10-Kotlin-Tricks-in-10-ish-Minutes-by-Jake-Wharton.html) - 杰克沃顿
 * [Kotlin Night London](http://kotlin.link/articles/Kotlin-Night-London-Nov-2016.html) -  JetBrains
-* [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -  Nevin Chen
+* [Redux for Android using Kotlin](http://kotlin.link/articles/Redux-for-Android-using-Kotlin.html) -Nevin Chen
 * [Code Swarm for Kotlin](http://kotlin.link/articles/Code-Swarm-for-kotlin.html) - 兰登威尔金斯
 * [Developing a Geospatial Webservice with Kotlin and Spring Boot](http://kotlin.link/articles/Developing-a-Geospatial-Webservice-with-Kotlin-and-Spring-Boot.html) - SébastienDeleuze
 

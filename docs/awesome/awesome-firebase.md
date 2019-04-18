@@ -50,9 +50,9 @@
 
 ## Featured (new releases)
 
+-  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
 -  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React中的Firestore.
 -  [Integrify] [new-2]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
--  [Firepit] [new-3]  -  Firepit是Firebase CLI的独立可移植版本，没有依赖项（包括Node.js）.
 -  [VSCode Firebase Explorer] [new-4]  - 浏览和管理您的Firebase项目.
 -  [React Firebase Hooks] [new-5]  - 针对Firebase服务的React Hooks.
 
@@ -102,7 +102,7 @@
 ### iOS
 
 -  [Objective-C的GeoFire] [ios-1]  - 使用Firebase进行实时位置查询.
-- 🔌 [Firebase UI][ios-2] - iOS UI bindings for Firebase.
+-  [Firebase UI] [ios-2]  - 适用于Firebase的iOS UI绑定.
   -  [MLKit  -  ARCore] [ios-3]  - 检测对象并在增强现实中使用3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit  -  ARKit] [ios-4]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
 
@@ -121,9 +121,10 @@
 -  [Firebase工具] [cli-editor-1]  -  Firebase命令行工具.
 -  [Firebase CI] [cli-editor-2]  - 简化的Firebase交互，实现持续集成.
 -  [VSFire] [cli-editor-3]  -  VSCode扩展，用于使用Firestore安全规则和索引进行语法突出显示和代码完成.
--  [Firebase Firestore代码段] [cli-editor-4]  - 包含VS代码编辑器中firebase和firestore的代码段.
+-  [Firebase Firestore代码段] [cli-editor-4]  - 包含VS代码编辑器中Firebase和Firestore的代码段.
 -  [Fuego] [cli-editor-5]  - 支持文档添加/更新/查询的Firestore客户端CLI，带有过滤和分页功能.
 -  [Firestore Rules Generator] [cli-editor-6]  - 基于Google协议缓冲区格式的Cloud Firestore官方（但实验性）Firebase规则生成器.
+-  [Firepit] [firepit]  -  Firepit是Firebase CLI的独立可移植版本，没有依赖关系（包括Node.js）.
 
 ## Other
 
@@ -149,7 +150,7 @@
 
 ### Community
 
- [Fireship  -  AngularFirebase] [社区-1]
+📹 [Fireship - AngularFirebase][community-1]
 
 我们还应该追随谁？？
 
@@ -172,8 +173,8 @@
 
 <!-- Featured (new releases) -->
 
+[cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [new-2]：https：//github.com/anishkny/integrify
-[new-3]：https：//github.com/abehaskins/firepit
 [new-4]：https：//github.com/jsayol/vscode-firebase-explorer
 [new-5]：https：//github.com/CSFrequency/react-firebase-hooks
 
@@ -184,12 +185,12 @@
 
 <!-- Web -->
 
-[web-1]：https：//github.com/firebase/firebaseui-web
+[web-1]: https://github.com/firebase/firebaseui-web
 [web-2]：https：//github.com/firebase/firebaseui-web-react
 [web-3]：https：//github.com/firebase/geofire-js
 [web-4]：https：//github.com/FirebaseExtended/firepad
 [web-5]：https：//github.com/firebase/emberFire
-[web-6]: https://github.com/FirebaseExtended/firebase-dart
+[web-6]：https：//github.com/FirebaseExtended/firebase-dart
 [web-7]：https：//github.com/FirebaseExtended/polymerfire
 [web-8]：https：//github.com/vuejs/vuefire
 [web-9]：https：//github.com/angular/angularfire2
@@ -245,6 +246,7 @@
 [cli-editor-4]：https：//github.com/peterhdd/firebase-firestore-snippets
 [cli-editor-5]：https：//github.com/sgarciac/fuego
 [cli-editor-6]：https：//github.com/FirebaseExtended/protobuf-rules-gen
+[firepit]：https：//github.com/abehaskins/firepit
 
 <!-- Other -->
 

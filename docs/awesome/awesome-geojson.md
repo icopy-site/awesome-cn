@@ -45,7 +45,7 @@ GeoJSON实用程序将使您的生活更轻松.
 ### validation
 
 * [geojsonhint](https://github.com/mapbox/geojsonhint)：在geojson文件中查找错误
-* [geojson-validation（https://www.npmjs.com/package/geojson-validation）：许多验证函数，以及简单的gjv命令行工具
+* [geojson-validation](https://www.npmjs.com/package/geojson-validation)：许多验证函数，以及简单的gjv命令行工具
 
 ### services
 
@@ -72,7 +72,7 @@ GeoJSON实用程序将使您的生活更轻松.
 * [tokml](https://github.com/mapbox/tokml)：将GeoJSON转换为KML
 * [topojson](https://github.com/topojson/topojson)：将GeoJSON转换为TopoJSON，从CSV加入数据
 * [wellknown](https://github.com/mapbox/wellknown)：将WKT转换为GeoJSON
-* [esri2open](https://github.com/project-open-data/esri2open) converts proprietary Esri formats to GeoJSON
+* [esri2open](https://github.com/project-open-data/esri2open) 将专有的Esri格式转换为GeoJSON
 * [gtfs2geojson](https://github.com/tmcw/gtfs2geojson)：将GTFS传输数据转换为GeoJSON
 * [geoxform](https://github.com/koopjs/geoxform)：将任何大小的geojson流转换为流式CSV，Shapefile或KML等.
 * [supercluster](https://github.com/mapbox/supercluster)：用于浏览器和Node的快速GeoJSON群集库.
@@ -121,7 +121,7 @@ GeoJSON实用程序将使您的生活更轻松.
 ### resources
 
 * [RFC 7946 – The GeoJSON Format](https://tools.ietf.org/html/rfc7946)：IETF目前的GeoJSON标准
-* [geojson.win]（http://geojson.win]：规范的更易读版本.
+* [geojson.win](http://geojson.win)：更可读的规范版本.
 * [GeoJSON.org](http://geojson.org/)：第一个规范，定义了GeoJSON结构的所有规则
 * [More than you ever wanted to know about GeoJSON](http://www.macwright.org/2015/03/23/geojson-second-bite.html)：以更加叙述的形式回顾规范背后的概念.
 

@@ -101,6 +101,7 @@
 - [Making Web Components Work](https://engineering.mixpanel.com/2018/06/12/making-web-components-work/)
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
+- [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
 
 ## Discover
 
@@ -138,6 +139,8 @@
 
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
+- [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - 灵活轻量级Web组件的集合，以及构建它们的工具.
+- [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 组件库，在本机API之上提供企业级糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) - 用于构建业务Web应用程序的不断发展的高质量Web组件集.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - 具有手绘，粗略外观的常见UI元素集.
 

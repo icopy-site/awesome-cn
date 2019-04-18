@@ -95,7 +95,7 @@
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的Google Play音乐应用.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) -  Chrome DevTools打包为应用程序.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - 与灯塔会面登记.
-- [Proton](https://github.com/steventhanna/proton) - 具有实时预览功能的Markdown编辑器.
+- [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 - [James](https://github.com/uxebu/james) - 用于查看和拦截浏览器请求的HTTP代理.
 - [DTCP](https://github.com/alchen/DTCP) -  Twitter客户端.
 - [Inbox](https://github.com/fgnass/inbox-app) - 非官方的Google Inbox应用.
@@ -159,7 +159,7 @@
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - 非官方的ProtonMail应用程序.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -  CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 密码管理员.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Mailspring](https://github.com/Foundry376/Mailspring)   - 可扩展的电子邮件客户端.  （Nylas Mail的叉子）
 - [Manta](https://github.com/hql287/Manta) - 为具有漂亮和可定制模板的自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
@@ -236,7 +236,7 @@
 - [electron-vue](https://github.com/SimulatedGREG/electron-vue) - 使用Vue和常见插件轻松构建您的应用程序.
 - [electron-next-skeleton](https://github.com/leo/electron-next-skeleton) - 使用Next.js构建应用程序的Boilerplate
 - [electron-sandbox](https://github.com/kewde/electron-sandbox) - 用于创建安全应用程序的Boilerplate和教程（通过IPC进行沙箱和通信）.
-- [angular-electron](https://github.com/maximegris/angular-electron) -  Angular 5，Electron，TypeScript，SASS，Hot Reload.
+- [angular-electron](https://github.com/maximegris/angular-electron) - 使用Angular，Electron，TypeScript，SASS和Hot Reload进行快速自举.
 
 
 ## Tools
@@ -302,7 +302,7 @@
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -  Chromium的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行Electron.
-- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成电子API和角度.
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
 
 ### Using Electron
 
@@ -313,7 +313,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 
