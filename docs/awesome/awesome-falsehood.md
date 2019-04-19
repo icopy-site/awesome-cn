@@ -139,7 +139,7 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 ## Human Identity
 
 -  [虚假关于
-姓名]（https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/） - 
+Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
 开始这一切的文章.
 - 关于性别的虚假： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) &
 [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -
@@ -152,7 +152,7 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 你无法真正定义一个有严格规则的家庭.
 -  [周围的个人姓名
 世界]（https://www.w3.org/International/questions/qa-personal-names） - 怎么做
-people's names differ around the world, and what are the implications for the
+人们的名字在世界各地都有所不同，对这个问题有什么影响
 Web?
 - [XKCD #327: Exploits of a
 妈妈]（https://xkcd.com/327/） - 搞笑如何实施虚假
@@ -291,6 +291,8 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 -  [虚假关于
 分页]（https://www.hezmatt.org/~mpalmer/blog/2018/12/12/falsehoods-programmers-believe-about-pagination.html） -  
 为什么你的分页算法给某人（可能是你）带来了麻烦.
+- [Rules for Autocomplete](http://jeremymikkola.com/posts/2019_03_19_rules_for_autocomplete.html) - 
+不是虚假*本身*，但仍然是实施自动完成的一系列良好实践.
 - [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - 一个
 数字上的虚假，浮点数与小数.
 

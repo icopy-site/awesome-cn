@@ -80,7 +80,8 @@
 * [express-graphql](https://github.com/graphql/express-graphql) -  GraphQL Express中间件.
 * [hapi-graphql](https://github.com/SimonDegraeve/hapi-graphql) - 使用Hapi创建GraphQL HTTP服务器.
 * [hapi-plugin-graphiql](https://github.com/rse/hapi-plugin-graphiql) - 用于GraphiQL集成的HAPI插件.
-* [koa-graphql](https://github.com/chentsulin/koa-graphql) -  GraphQL Koa中间件.
+* [graphql-api-koa](https://github.com/jaydenseric/graphql-api-koa) -  GraphQL Koa中间件，从头开始实现GraphQL.js并支持本机ESM.
+* [koa-graphql](https://github.com/chentsulin/koa-graphql) -GraphQL Koa Middleware.
 
 #### Database & ORM
 * [graphql-bookshelf](https://github.com/brysgo/graphql-bookshelf) - 一些帮助定义BookshelfJS模型周围的GraphQL架构.

@@ -14,7 +14,7 @@
  你好朋友！  帮帮我几个：啤酒：！<img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
- macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
+ macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) 在列表中，欢迎任何建议！
 
  您可以看到应用程序的编写语言.  目前有以下语言：
 
@@ -46,9 +46,9 @@
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)   - 背景音乐，macOS音频实用程序：自动暂停音乐，设置单个应用程序的音量和录制系统音频.  ！[cpp_icon] 
 - [CAM](https://github.com/hanayik/CAM) - 使用ffmpeg进行macOS摄像头录制！[javascript_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio)   -  LocalRadio是用于在Mac和移动设备上收听“软件定义无线电”的软件.  ！[objective_c_icon] 
-- [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
+- [Lyricism](https://github.com/lyc2345/Lyricism) - macOS app to show you lyric what currently iTunes or Spotify is playing.  ![objective_c_icon] ![swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
-- [Mous Player](https://github.com/bsdelf/mous) - Simple yet powerful audio player for BSD/Linux/macOS.  ![cpp_icon] 
+- [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
 - [Muse](https://github.com/xzzz9097/Muse)   - 使用TouchBar支持Spotify控制器.  ！[swift_icon] 
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一款基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.  ![objective_c_icon] 
@@ -107,6 +107,7 @@
 ### Database
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)   -  SQLite数据库管理GUI.  ！[cpp_icon] 
 - [DBeaver](https://github.com/dbeaver/dbeaver)   - 通用数据库工具和SQL客户端.  ！[java_icon] 
+- [Medis](https://github.com/luin/medis)   -  Medis是一款美观，易用的Redis数据库管理应用程序.  ！[javascript_icon] 
 - [Postbird](https://github.com/Paxa/postbird)   - 用于macOS的PostgreSQL GUI客户端.  ！[javascript_icon] 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp)   - 在Mac上开始使用PostgreSQL的最简单方法.  ！[swift_icon] 
 - [Redis.app](https://github.com/jpadilla/redisapp)   - 在Mac上开始使用Redis的最简单方法.  ！[swift_icon] 
@@ -252,7 +253,7 @@
 - [Dolphin](https://github.com/dolphin-emu/dolphin)   - 适用于任天堂GameCube和Wii游戏的强大模拟器.  ！[cpp_icon] 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu)   - 针对macOS的复古视频游戏模拟.  ！[objective_c_icon] 
 - [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - 重新实施RollerCoaster Tycoon 2.！[cpp_icon] 
-- [Screentendo](https://github.com/AaronRandall/Screentendo)   - 将您的屏幕变成可玩的马里奥级别.  ！[objective_c_icon] 
+- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable level of Mario.  ![objective_c_icon] 
 - [Stockfish](https://github.com/daylen/stockfish-mac)   - 美丽，强大的象棋应用程序.  ！[cpp_icon]！[objective_c_icon] 
 
 ### Graphics
@@ -511,7 +512,7 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)   - 下一代ShadowsocksX.  ！[swift_icon] 
 - [Specht](https://github.com/zhuhaow/Specht)   - 使用Network Extension for macOS构建的基于规则的代理应用程序.  ！[swift_icon] 
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite)   -  macOS的基于规则的代理应用程序.  ！[swift_icon] 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.  ![objective_c_icon] 
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)   -  Tunnelblick是macOS上OpenVPN的图形用户界面.  ！[objective_c_icon] 
 - [clashX](https://github.com/yichengchen/clashX)   - 基于冲突的基于规则的自定义代理与GUI for Mac.  ！[swift_icon] 
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac)   -  Ribose VPN客户端macOS菜单应用程序.  ！[swift_icon] 
 

@@ -114,6 +114,7 @@
 
 ## Samples
 * Sascha Willems [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/vulkan/khronosmeetup/#/).
+*（不完整）Sascha Willems [samples port](https://github.com/jvm-graphics-labs/Vulkan) 到科特林
 * Sascha Willems [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)   - 使用glTF 2.0模型使用Vulkan进行基于物理的渲染.  [MIT]
 *  [Khronos Samples](https://github.com/KhronosGroup/Vulkan-Samples)
 * 谷歌
@@ -164,7 +165,7 @@ drm/kms.
 *  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)   - 针对Professional Workstation ISV的Vulkan API的轻量级中间件层.  [MIT]
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)   - 使用C ++ 11进行内存，资源管理，类型和线程安全以及系统独立性的Vulkan抽象库.  [阿帕奇]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo)   -  Vookoo是一组无依赖项的实用程序，用于帮助构建和更新Vulkan图形数据结构.  [MIT]
-*  [vpp](https://github.com/nyorain/vpp)   - 现代C ++ Vulkan Abstraction专注于性能和简单的界面.  [MIT]
+*  [vpp](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
 *  [Intrinsic Engine](https://github.com/begla/Intrinsic)   -  Intrinsic是一款基于Vulkan的跨平台图形和游戏引擎.  [Apache许可证2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - 在Vulkan之上的OpenGL实现.
 *  [Skia](https://skia.googlesource.com/skia) - 谷歌的2D图形库有一个 [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk)，在跨平台演示 [sample application](https://skia.org/user/sample/viewer) 有自己 [window library](https://github.com/google/skia/tree/master/tools/viewer) .  [BSD 3条款] [website](https://skia.org)
@@ -190,11 +191,12 @@ drm/kms.
 *  [ncnn](https://github.com/Tencent/ncnn)   - 基于Vulkan的GPU推理的高性能神经网络推理框架.  [BSD 3条款]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)   - 用于使用Vulkan和VTK后端构建手术模拟的C ++工具包.  [Apache许可证2.0]
 *  [Quartz](https://github.com/Nadrin/Quartz)   - 基于物理的Vulkan RTX路径跟踪器，具有类似声明的ES7场景描述语言.  [LGPL-3.0]	
+*  [VK²](https://github.com/kotlin-graphics/vkk)，用于Vulkan的Kotlin Wrapper：代码表现力和安全性满足图形功能[Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) -  Lua绑定Vulkan.
 *  [dvulkan](https://github.com/ColonelThirtyTwo/dvulkan) - 为Vulkan自动生成D绑定.
-*  [ErupteD](https://github.com/ParticlePeter/ErupteD) - Another Auto-generated D bindings for Vulkan.
+*  [ErupteD](https://github.com/ParticlePeter/ErupteD) -  Vulkan的另一个自动生成的D绑定.
 *  [flextGL](https://github.com/mosra/flextgl) - 最小的Vulkan头/装载机生成器和 [the blog post](http://blog.magnum.graphics/hacking/simple-efficient-vulkan-loading-with-flextgl/) 关于它.
 *  [Haskell bindings for Vulkan](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
 *  [nvk](https://github.com/maierfelix/nvk)   - 火山的JavaScript绑定.  [MIT]

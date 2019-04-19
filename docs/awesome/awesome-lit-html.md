@@ -36,6 +36,7 @@
 - [ullr](https://github.com/aggre/ullr) - 使用lit-html通过功能编程构建Web组件.
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - 用于基于装饰器提议和lit-html构建Web组件的TypeScript库.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - 轻量级i18n库提供lit-html指令.
+- [haunted](https://www.npmjs.com/package/haunted) -  React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
 
 ### Renderers
 
@@ -53,7 +54,6 @@
 - [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) -  LitElement扩展，提供简单的l10n开箱即用.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - 与Apollo GraphQL的LitElement集成.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -  LitElement的小型mixin可通过属性getter轻松更改事件.
-- [styled-lit-element](https://www.npmjs.com/package/styled-lit-element) - 提供与LitElement基类的lit-css集成.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 
 ## Components
@@ -118,14 +118,13 @@
 
 ## Inspired Solutions
 
- 这些库不依赖于lit-html，但受其一些概念的启发.  他们使用`html`和`css`标记
-模板文字，并利用相同或相似的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
+ 这些库不依赖于lit-html，但受其一些概念的启发.  他们使用&#39;html`标记
+模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [lit-ntml](https://github.com/motss/lit-ntml) - 在lit.html的启发下，Node.js中SSR的轻量级和现代模板.
 - [htm](https://github.com/developit/htm) -  Hyperscript Tagged Markup：使用标准标记模板的JSX替代方案，具有编译器支持.
 - [lite-html](https://github.com/ruphin/lite-html) -  VirtualDOM渲染引擎的现代替代品.
-- [lit-css](https://github.com/lit-styles/lit-styles/tree/master/packages/lit-css#readme) - 通过ES模块分发样式的工具.
 
 ## Other awesome resources
 
