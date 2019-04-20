@@ -250,6 +250,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [auto-color-ls](https://github.com/gretzky/auto-color-ls) - 使用`colorls`自动列出目录.
 * [auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh)   - 自动完整单词和列表选择.  最初由y.fujii incr-0.2.zsh <y-fujii at mimosa-pudica.net>  .
 * [auto-ls](https://github.com/desyncr/auto-ls) - 当cding到一个新目录时自动`ls`.
+* [autodotenv](https://github.com/nocttuam/autodotenv) - 当你“cd”到包含`.env`文件的目录时，会提示你加载变量.
 * [autoenv-extended](https://github.com/zpm-zsh/autoenv) - 扩展版本 [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) 插入.
 * [autoenv](https://github.com/Tarrasch/zsh-autoenv) - 如果一个目录包含一个`.env`文件，它会在你`cd`时自动执行.
 * [autojump](https://github.com/wting/autojump)   - 学习的`cd`命令 - 轻松地从命令行导航目录.  安装autojump-zsh以获得最佳效果.
@@ -260,7 +261,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [autoupdate-oh-my-zsh-plugins](https://github.com/TamCore/autoupdate-oh-my-zsh-plugins) - 哦-my-zsh不会自动更新非核心插件，这会增加插件自动更新到omz.
 * [aws-cli-mfa](https://github.com/joepjoosten/aws-cli-mfa-oh-my-zsh) - 基于sweharris的AWS CLI MFA插件 [aws-cli-mfa](https://github.com/sweharris/aws-cli-mfa).
 * [aws-mfa](https://github.com/FreebirdRides/oh-my-zsh-aws-mfa) -  AWS MFA插件.
-* [aws-upload](https://github.com/borracciaBlu/aws-upload-zsh) - 使用`aws-upload`提高工作效率.
+* [aws-upload](https://github.com/borracciaBlu/aws-upload-zsh) - Boost your productivity with `aws-upload`.
 * [aws-vault](https://github.com/blimmer/zsh-aws-vault) - 插件 [aws-vault](https://github.com/99designs/aws-vault).
 * [base16](https://github.com/chriskempson/base16-shell)   - 添加脚本以允许您更改shell的默认ANSI颜色，但最重要的是，更改shell的256色空间的颜色17到21（如果您的终端支持）.  这个脚本可以使你的外壳明亮的颜色（例如亮绿色仍然是绿色等），同时为应用程序提供额外的base16颜色，如 [Vim](https://www.vim.org).
 * [baseballfunfacts](https://github.com/richardmoyer/baseballfunfacts)   - 在你的shell中打印随机棒球相关的“有趣的事实”.  取决于&#39;fortune`和`cowsay`正在安装.
@@ -282,7 +283,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [cd-gitroot](https://github.com/mollifier/cd-gitroot) - 一个ZSH插件``cd`到`git`存储库根目录.
 * [cd-reminder](https://github.com/bartboy011/cd-reminder) - 当`cd`到指定目录时显示提醒.
 * [cd-reporoot](https://github.com/P4Cu/cd-reporoot) - 一个ZSH插件，以“cd”到google-repo存储库根目录.
-* [cd-ssh](https://github.com/jeffwalter/zsh-plugin-cd-ssh) - 当你意外地“cd”它时，`ssh`到服务器.
+* [cd-ssh](https://github.com/jeffwalter/zsh-plugin-cd-ssh) - 当你意外地“cd”它时，``ssh`到服务器.
 * [cdbk](https://github.com/MikeDacre/cdbk) - 一个ZSH插件，允许轻松命名目录创建 - 您想要的任何目录的快捷方式.
 * [cdc](https://github.com/evanthegrayt/cdc) - 用于将目录更改为常用位置的Shell函数.
 * [cdr](https://github.com/willghatch/zsh-cdr) - 轻松设置ZSH的cdr.
@@ -505,6 +506,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [plugin-rails](https://github.com/paraqles/zsh-plugin-rails) -  Rails的ZSH插件.
 * [plugin-vscode](https://github.com/wuotr/zsh-plugin-vscode) -  Visual Studio Code插件，macOS，Windows和Linux的文本编辑器.
 * [plugin](https://github.com/darrenbutcher/plugin) - Creates custom oh-my-zsh plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks.
+* [pr-exec-time](https://github.com/zpm-zsh/pr-exec-time) - 添加可用于显示上次命令运行的执行时间的变量.
 * [pr-git](https://github.com/zpm-zsh/pr-git) - 使用可在提示中显示的`git`状态信息创建全局变量.
 * [pr-is-root](https://github.com/zpm-zsh/pr-is-root) - 设置以root用户身份运行时可在自定义提示中使用的环境变量.
 * [pr-node](https://github.com/zpm-zsh/pr-node) - 设置一个环境变量，可用于在自定义提示中显示nodeJS信息.
@@ -568,7 +570,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [terminal-workload-report](https://github.com/LockonS/terminal-workload-report) - 一个插件，用于计算和显示已通过终端运行的命令数.
 * [terraform](https://github.com/pbar1/zsh-terraform) -  ZSH的Terraform便利功能和别名.
 * [timewarrior](https://github.com/svenXY/timewarrior) - 插件 [timewarrior](https://timewarrior.net/) 时间跟踪应用程序.
-* [tipz](https://github.com/molovo/tipz) - Displays your alias if you have an alias for the command you just ran, similarly to [alias-tips](https://github.com/djui/alias-tips).
+* [tipz](https://github.com/molovo/tipz) - 如果您有刚刚运行的命令的别名，则显示您的别名，类似于 [alias-tips](https://github.com/djui/alias-tips).
 * [title](https://github.com/zpm-zsh/title) - 允许您设置终端窗口标题.
 * [titles](https://github.com/jreese/zsh-titles) - 自动窗口和标签标题 [tmux](https://tmux.github.io) 和xterm兼容的终端.
 * [tmux-fork](https://github.com/sharktamer/zsh-tmux) oh-my-zsh tmux插件的独立分支
@@ -837,7 +839,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [feder](https://github.com/samfeder/mac-themes/blob/master/feder.zsh-theme)   - 清洁，简单，兼容和有意义.  以ANSI颜色在Linux，Unix和Windows上测试.
 * [filthy](https://github.com/molovo/filthy) - 一个令人厌恶的ZSH提示.
 * [fishy-lite](https://github.com/sudorook/fishy-lite) - 原始的叉子 [fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy)  在oh-my-zsh中的主题，其中大部分外来的东西被切掉以提高加载速度.  包括电池电量计和“git”状态显示，可以在提示的右侧启用.
-* [fishy](https://github.com/akinjide/fishy2) -  ZSH主题灵感源自 [original fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy).
+* [fishy](https://github.com/akinjide/fishy2) - ZSH theme inspired by [original fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy).
 * [fluent-git](https://github.com/RobertKozak/fluent-git) - 显示上次命令执行的时间，错误代码，主机名，用户名，`git`状态，kubernetes集群和命名空间，路径和ssh连接状态.
 * [fortuity](https://github.com/VGamezz19/oh-my-zsh-fortuity-theme) - 包括最后一个命令的状态，`git`信息和当前目录.
 * [friendly-fiesta](https://github.com/bruino/friendly-fiesta) - 叉子 [terminal-party](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/terminalparty.zsh-theme) 主题.
@@ -1062,8 +1064,9 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [sk9](https://github.com/skeiter9/sk9-zsh) -  Skeiter9的ZSH主题.
 * [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -  Atom，Prism和ZSH的主题收藏，灵感来自He-Man的Skeletor和宇宙大师.
 * [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - 针对黑暗终端进行了优化，显示“git”状态装饰.
-* [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) -  ZSH主题灵感源自 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).
+* [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) - ZSH theme inspired by [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).
 * [slimline](https://github.com/mgee/slimline)   - 最小，快速和优雅的ZSH提示.  在合适的时间显示正确的信息.
+* [small-terminal-diy](https://github.com/Sokkam/small-terminal-diy-theme) - 变种 [ys](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/ys.zsh-theme) 主题 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 * [smiley](https://github.com/gsamokovarov/smiley.zsh-theme) - 快乐和悲伤面孔的提示.
 * [sobole](https://github.com/sobolevn/sobole-zsh-theme)   - 简约的ZSH主题，灵感来自老式的爱好.  没有冗长的噱头，没有表情符号，没有颤抖的旋转器，也没有其他视觉噪音.  有明暗模式.
 * [solarized-powerline (houjunchen)](https://github.com/houjunchen/solarized-powerline) -  ZSH的Solarized powerline风格主题.
@@ -1106,6 +1109,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [xremix](https://github.com/xremix/oh-my-zsh-xremix-theme) - 基于Jreese主题插件的oh-my-zsh shell主题.
 * [xxf](https://gist.github.com/xfanwu/18fd7c24360c68bab884) - 显示当前git commit的缩短哈希和消息.
 * [yairshefi](https://github.com/yaireclipse/yairshefi-ohmyzsh-theme)   - 最小主题与行分隔提示.  基于 [Robby Russell's theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme).
+* [yechen](https://github.com/liyechen/yechen.zsh-theme) - 极简主义主题与`git`状态装饰.
 * [ykmam](https://github.com/julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme) - 修改自 [ys](https://github.com/cristiancavalli/ys-zsh-custom-theme) 主题并针对深色背景进行了优化.
 * [ys-cluster](https://github.com/AndiH/oh-my-zsh-ys-cluster-theme) - [ys](http://ysmood.org/my-ys-terminal-theme/)  支持使用大型集群的批量提交系统的变体.  支持Slurm，LSF / IBM Spectrum LSF和PBS.
 * [ys](https://github.com/cristiancavalli/ys-zsh-custom-theme) - 清晰，简单，兼容和有意义的主题，适合黑暗背景.
@@ -1134,7 +1138,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [Fantasque-sans](https://github.com/belluzj/fantasque-sans) - 另一种与Powerline兼容的字体.
 * [Hack](https://sourcefoundry.org/hack/) - 另一种专为源代码设计的Powerline兼容字体.
 * [Input Mono](http://input.fontbureau.com/)   - 专为代码设计的一系列字体.  它提供等宽字体和比例字体，并包括电力线字形.
-* [Iosevka](https://github.com/be5invis/Iosevka) - Coders’ typeface, built from code. Highly customizable.
+* [Iosevka](https://github.com/be5invis/Iosevka)   - 代码的字体，由代码构建.  高度可定制.
 * [Monoid](https://larsenwork.com/monoid/) -  Monoid可自定义和优化，即使在低分辨率显示器上也能在15px线高处进行类似位图的清晰度编码.
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)   - 为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集超过20个修补字体（超过2,000种变体）和FontForge字体修补程序python脚本.  包括：Droid Sans，Meslo，源代码，AnonymousPro，Hack，ProFont，Inconsolata等等.
 * [Powerline patched font collection](https://github.com/powerline/fonts) - 修补了十几个字体的集合，包括电力线gylphs.

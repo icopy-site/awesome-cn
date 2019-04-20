@@ -50,8 +50,8 @@
 
 ## Featured (new releases)
 
+-  [适用于Firebase的计划（Cron）云功能] [cron-cloud-functions]  - 用于Firebase云功能的Firebase本机Cron触发器.
 -  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
--  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React中的Firestore.
 -  [Integrify] [new-2]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
 -  [VSCode Firebase Explorer] [new-4]  - 浏览和管理您的Firebase项目.
 -  [React Firebase Hooks] [new-5]  - 针对Firebase服务的React Hooks.
@@ -80,6 +80,7 @@
   -  [Angular Firebase PWA] [web-15]  - 是由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
   -  [FireSQL] [web-16]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
 -  [主机版本历史] [hosting-version-hist]  - 自动删除旧版本的站点部署.
+-  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React中的Firestore.
 
 ## Mobile
 
@@ -173,6 +174,7 @@
 
 <!-- Featured (new releases) -->
 
+[cron-cloud-functions]：https：//firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 [cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 [new-2]：https：//github.com/anishkny/integrify
 [new-4]：https：//github.com/jsayol/vscode-firebase-explorer

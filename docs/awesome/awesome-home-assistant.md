@@ -50,7 +50,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
  的优点和缺点.  重要的是要知道，没有错，或者就在这里，
 每种技术都安装了** SAME ** Home Assistant.
 
-Home Assistant currently _recommends_ the Hass.io method.
+Home Assistant目前_recommends_ Hass.io方法.
 
 * [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
@@ -93,6 +93,7 @@ _有多种方式可以与家庭助理社区联系.
 * [Franck Nijhof](https://github.com/frenck/home-assistant-config) - 基于Hass.io，与其他配置结构截然不同.
 * [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) - 基于Hass.io，专注于触摸屏使用.
 * [Klaas Schoute](https://github.com/klaasnicolaas/Smarthome-homeassistant-config) - 基于Hass.io，Intel NUC，Ubuntu Server，Docker并定期更新.
+* [Jason Hunter](https://github.com/hunterjm/home-assistant-config) - 基于Hass.io，Intel NUC i5，TensorFlow和相机流.
 
 ## Hass.io
 
@@ -136,7 +137,7 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [AirSonos](https://github.com/hassio-addons/addon-airsonos) - 适用于Sonos播放器的AirPlay功能.
 * [Dropbox Sync](https://github.com/danielwelch/hassio-dropbox-sync) - 将备份快照上传到Dropbox.
 * [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
-* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从Plex服务器获取统计信息.
+* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - Monitor and get statistics from your Plex server.
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
 * [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.

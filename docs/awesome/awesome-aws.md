@@ -817,7 +817,7 @@ AWS Repos：
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - 用于管理资源的工具，包括EC2，EBS，RDS和Route53.
 * [k1LoW/awspec :fire::fire::fire:](https://github.com/k1LoW/awspec) -  RSpec测试您的资源.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - 使用Vagrant管理您的EC2和VPC实例.
-* [NixOS/nixops :fire::fire:](https://github.com/NixOS/nixops) - 使用NixOS配置EC2实例，S3存储桶和其他资源.
+* [NixOS/nixops :fire::fire::fire:](https://github.com/NixOS/nixops) - 使用NixOS配置EC2实例，S3存储桶和其他资源.
 
 ### Security
 

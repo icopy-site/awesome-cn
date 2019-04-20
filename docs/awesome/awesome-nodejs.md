@@ -60,7 +60,7 @@
 - [js-git](https://github.com/creationix/js-git) -  Git的JavaScript实现.
 - [skale](https://github.com/skale-me/skale-engine) - 高性能分布式数据处理引擎.
 - [xlsx](https://github.com/sheetjs/js-xlsx) - 纯JS Excel电子表格阅读器和编写器.
-- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) - Pure JavaScript implementation of Git.
+- [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) -  Git的纯JavaScript实现.
 
 
 ### Command-line apps
@@ -199,7 +199,7 @@
 - [boxen](https://github.com/sindresorhus/boxen) - 在终端中创建框.
 - [terminal-link](https://github.com/sindresorhus/terminal-link) - 在终端中创建可点击的链接.
 - [terminal-image](https://github.com/sindresorhus/terminal-image) - 在终端中显示图像.
-- [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+- [string-width](https://github.com/sindresorhus/string-width) - 获取字符串的可视宽度 - 显示它所需的列数.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - 将字符串截断为终端中的特定宽度.
 - [first-run](https://github.com/sindresorhus/first-run) - 检查是否是第一次运行该过程.
 - [blessed](https://github.com/chjj/blessed) - 像Curses一样的库.
@@ -260,7 +260,7 @@
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的不受任何影响的模板语言.
+- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
@@ -372,7 +372,7 @@
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - 可扩展的HTTP + WebSocket引擎，可以在多个CPU核心上运行.
 - [Primus](https://github.com/primus/primus) - 用于防止模块锁定的实时框架的抽象层.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - 可扩展的实时微服务框架.
-- [Kalm](https://github.com/kalm/kalm.js) - 低级套接字路由器和中间件框架.
+- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) -  MQTT客户端 - 基于Pub-sub的消息传递协议，用于TCP / IP之上.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - 通过WebSockets实现JSON-RPC 2.0.
 - [Aedes](https://github.com/mcollina/aedes) - 可以在任何流服务器上运行的准系统MQTT服务器.
@@ -469,7 +469,7 @@
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
-- [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility.
+- [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
 - [Stylecow](https://github.com/stylecow/stylecow)   - 解析，操作和转换现代CSS，使其与所有浏览器兼容.  插件可扩展.
@@ -523,7 +523,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -  Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -  MongoDB驱动程序.
 -  ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize)   - 多方言ORM.  支持PostgreSQL，SQLite，MySQL.
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - 以Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
@@ -563,7 +563,7 @@
 - [testen](https://github.com/egoist/testen) - 使用NVM在本地运行多个版本的Node.js的测试.
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于Selenium WebDriver的自动UI测试框架.
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - 基于WebDriver协议的自动测试.
-- [Jest](https://github.com/facebook/jest) - 无痛的JavaScript测试.
+- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe](https://github.com/DevExpress/testcafe) - 自动浏览器测试.
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器.
 
@@ -696,7 +696,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获得超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取supervillain名称.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获得一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍·͈༝·͈₎◞̑̑ෆ⃛（=ↀωↀ=）✧（^·o·^）ノ“.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`（·͈༝·͈）◞（=ↀωↀ=）✧（^·o·^）“&#39;`
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特，星球大战和神奇宝贝等书呆子主题中获取数据.
 
 
@@ -826,6 +826,7 @@
 - [RunKit](http://blog.tonicdev.com/2015/09/30/embedded-tonic.html) - 在任何网站上嵌入Node.js环境.
 - [RequireBin](http://requirebin.com) - 由npm和browserify提供支持的可共享JavaScript程序.
 - [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) -  Chrome扩展程序，在GitHub上显示npm下载统计信息.
+- [npm semver calculator](https://semver.npmjs.com) - 直观地探索semver范围匹配的软件包版本.
 
 ### Community
 

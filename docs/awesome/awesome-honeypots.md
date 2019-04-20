@@ -98,6 +98,7 @@
     - [NOVA](https://github.com/DataSoft/Nova) - 使用蜜罐作为探测器，看起来像一个完整的系统.
     - [OpenFlow Honeypot (OFPot)](https://github.com/upa/ofpot) - 将未使用的IP的流量重定向到基于POX构建的蜜罐.
     - [OpenCanary](https://github.com/thinkst/opencanary) - 模块化和分散式蜜罐守护程序，运行多个服务版本的服务，在服务（ab）使用时发出警报.
+    - [miniprint](https://github.com/sa7mon/miniprint) - 中型交互式打印机蜜罐.
 
 - 僵尸网络C2工具
     - [Hale](https://github.com/pjlantz/Hale) - 僵尸网络命令和控制监视器.

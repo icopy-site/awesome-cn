@@ -204,6 +204,7 @@
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - 允许使用哈希值不向用户公开数据库ID.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - 监控应用程序的听力（例如，数据库是否可用且是最新的）.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - 将秒转换为人类可读的字符串（字符串为秒），使用营业时间（1周= 5天，1天= 8小时）.
+- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - 用于递归扫描链接的插件
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) -  Tactician命令总线集成工具.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - 使用可选IP白名单的所有请求进入维护模式的维护shell.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - 包含有用填充程序和改进的插件，作为您的应用程序的基础.
@@ -391,7 +392,7 @@
 - [BlogMVC](https://github.com/Kareylo/BlogMVC-CakePHP3) - 一个基于CakePHP的简单博客示例 [BlogMVC Project](https://github.com/Grafikart/BlogMVC).
 - [Bookmarkr](https://github.com/lorenzo/cakephp3-bookmarkr) 使用CRUD插件构建的书签应用程序.
 - [CakeFest](http://cakefest.dereuromark.de/) - 围绕年度CakePHP会议“CakeFest”的演示应用程序.
-- [Croogo 3.x](http://demo.croogo.org/3.0) -  Croogo 3.x演示
+- [Croogo 3.x](http://demo.croogo.org/3.0) -Croogo 3.x演示
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - 示例CakePHP代码库包含遵循的真实世界示例（CRUD，auth，高级模式等） [RealWorld](https://github.com/gothinkster/realworld-example-apps) 规范和API.
 - [Sandbox](http://sandbox.dereuromark.de) - 沙盒CakePHP应用程序，包含大量演示和插件显示.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.

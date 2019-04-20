@@ -838,6 +838,15 @@
 * [JSX in TypeScript](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 ---
+### XState
+&gt;功能性，无状态JavaScript有限状态机和状态图
+
+#### XState Resources
+* [Xstate Concept](https://xstate.js.org/docs/about/concepts.html)
+* [XState Docs](https://xstate.js.org/docs/)
+
+
+---
 ### Flux
 &gt;用于构建用户界面的应用程序架构
 
