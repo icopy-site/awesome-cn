@@ -463,6 +463,7 @@ Projects
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://instana.com)
+* [kail](https://github.com/boz/kail)   -  Kubernetes日志查看器.  Streams从所有匹配pod的所有容器中记录.
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash)
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
