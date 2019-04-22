@@ -97,7 +97,7 @@
 #### Cheatsheets, Tables
 
 - [Game Boy Crib Sheet](https://github.com/JustinLloyd/Gameboy-Cribsheet/raw/master/Current%20Release/Gameboy%20Crib%20Sheet%20990823-0325.pdf) - 一个方便的可打印参考表，带有ASM操作码，存储位置等等（[repository](https://github.com/JustinLloyd/Gameboy-Cribsheet)).
-- [OP Codes cheatsheet](http://pastraiser.com/cpu/gameboy/gameboy_opcodes.html)
+- [OP Codes cheatsheet](http://pastraiser.com/cpu/gameboy/gameboy_opcodes.html) -  Gameboy CPU（LR35902）指令集（a [JSON](https://github.com/lmmendes/game-boy-opcodes/blob/master/opcodes.json) 版）
 - [rednex gbz80 opcode reference](https://rednex.github.io/rgbds/gbz80.7.html)
 - [Opcode table](http://goldencrystal.free.fr/GBZ80Opcodes.pdf)
 - [Opcode table with timings and flags](http://www.devrs.com/gb/files/opcodes.html)
@@ -152,15 +152,22 @@
   + [no MBC](http://gekkio.fi/blog/2015-02-28-mooneye-gb-cartridge-analysis-tetris.html).
 - [Game Boy Cartridges Schematics](http://www.devrs.com/gb/files/gb.html) -  MBC2和MBC3类型的原理图.
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
-- [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/)   - 商用和自制可编程墨盒和编程系统.  提供了教程，接线和原理图.
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) -  Jeff Frohwein的第一张原理图.
-- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) 并解释这些MBC库如何切换和控制RAM.
+- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) and explanation on how these MBC bank switch and control RAM.
 - [GB Rom List](CartridgeList.csv) - 每个游戏的可导航表格，其中包含有关其墨盒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
+
+
+#### Custom cartridges
+
 - [Emulating a GameBoy Cartridge](https://dhole.github.io/post/gameboy_cartridge_emu_1/) - 使用开发板STM32F4模拟Game Boy盒式磁带的功能.
 - [Wolf](http://www.happydaze.se/wolf/) - 带有协处理器的Game Boy墨盒.
 - [Homebrew-Gameboy-Cartridge](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - 使用Atmel AT49F040作为ROM的盒式PCB的Eagle库，原理图和电路板文件.
 - [Homebrew Gameboy Color Cartridge](https://github.com/Xyl2k/Gameboy-Color-Cartridge) -  EEPROM供电盒式磁带的电路板布局.
+- [Nekocart](https://github.com/zephray/NekoCart-GB) - 使用Xilinx CPLD作为MBC5的开源闪存盒（[Post](https://hackaday.io/project/41160-nekocart-cpld-gameboy-cartridge)).
+- [Reiner Ziegler's Game Boy page](http://reinerziegler.de.mirrors.gg8.se/)   - 商用和自制可编程墨盒和编程系统.  提供了教程，接线和原理图.
+
+
 
 ## Emulator Development
 
@@ -436,7 +443,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [mGB](https://github.com/trash80/mGB) -  Game Boy墨盒程序，使Game Boy可以充当MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记载的Game Boy Color寄存器，昵称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - 基于Arduino的Game Boy墨盒读写器.
-- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf*ck interpreter.
+- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -  Brainf * ck翻译.
 - [gbfk](https://github.com/elseyf/gbfk) -  Brainf * ck解释器，带输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - 在原始硬件上播放时，为Game Boy游戏添加保存状态支持的补丁.
 - [gbcpu](https://github.com/jdeblese/gbcpu) - 实现Game Boy指令集和功能的CPU和外围设备.

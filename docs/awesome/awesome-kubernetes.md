@@ -451,6 +451,7 @@ Projects
 ## Package Managers
 
 * [Helm](http://helm.sh) - 有关详细信息，请查看 -  [Awesome Helm](https://github.com/cdwv/awesome-helm).
+* [Cloudsmith](https://cloudsmith.io/l/helm-repository/) - 完全托管的软件包管理SaaS，为公共和私有Kubernetes注册管理机构提供一流支持（Docker + Helm Charts，以及许多其他）.
 
 ## Monitoring Services
 

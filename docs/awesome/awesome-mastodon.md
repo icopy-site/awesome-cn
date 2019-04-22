@@ -1,7 +1,6 @@
 <div class="github-widget" data-repo="tleb/awesome-mastodon"></div>
 ## Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-
 [<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
 
 &gt;与乳齿象有关的东西的精选清单！
@@ -37,6 +36,25 @@
 * [Brutaldon](https://github.com/jfmcbrayer/brutaldon) -  Brutaldon是Mastodon的野兽派Web 1.0界面.
 * [Halcyon](https://notabug.org/halcyon-suite/halcyon) -  Mastodon和Pleroma的替代网络客户端，具有类似Twitter的界面.
 * [Planiverse](https://github.com/FuzzJunket/planiverse) -  Mastodon的极简主义，无JS Web客户端.
+* [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) - 适用于iOS的Mastodon客户端.
+
+## Federated servers
+
+* [Mastodon](https://joinmastodon.org/) - 最知名的微博平台.
+* [Pleroma](https://pleroma.social/) - 轻量级微博平台.
+* [GnuSocial](https://gnu.io/social/) - 最古老的微博平台.
+* [Misskey](https://joinmisskey.github.io/) - 精密的微博平台.
+* [Microblog.pub](https://microblog.pub/) - 单用户轻量级微博平台.
+* [Osada](https://zotlabs.com/osada/) - 具有文件，联系人和事件共享的备用博客/社交网络平台.
+* [Hubzilla](https://zotlabs.org/page/hubzilla/hubzilla-project) - 具有文件，联系人和事件共享的博客/社交网络平台.
+* [Friendica](https://friendi.ca/) - 社交网络平台.
+* [Peertube](https://joinpeertube.org/) - 视频分享平台.
+* [FunkWhale](https://funkwhale.audio/) - 音频分享平台.
+* [Plume](https://joinplu.me/) - 博客平台.
+* [WriteFreely](https://writefreely.org/) - 博客平台.
+* [Prismo](https://gitlab.com/prismosuite/prismo) - 链路聚合平台.
+* [PixelFed](https://pixelfed.org/) - 照片分享平台.
+* [NextCloud Social](https://apps.nextcloud.com/apps/social) - 云平台内的微博.
 
 ## Tools
 
@@ -46,13 +64,14 @@
 * [Toot scheduler](https://scheduler.mastodon.tools/) - 现在安排，稍后嘟..
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - 跟踪和显示有关Mastodon网络的可浏览统计数据.
 * [Last](https://framagit.org/luc/last) - 在提供Atom订阅源和epub（Perl）的网页上聚合toots.
-* [Mastodon Tags Explorer](https://mastodon-tags-explorer.hcxp.co/tags) - 探索Mastodon网络目前的趋势.
 * [Forget](https://forget.codl.fr/about/) - 在用户定义的时间段后删除toots（Python [source code](https://github.com/codl/forget/)).
 * [Mastodon Toot Bookmarklet](https://rmlewisuk.github.io/mastodon-toot-bookmarklet/) -  Bookmarklet to toot当前页面（[source code](https://github.com/rmlewisuk/mastodon-toot-bookmarklet/))
+* [Mastodon – Simplified Federation!](https://addons.mozilla.org/firefox/addon/mastodon-simplified-federation/?src=external-github-awesomelist) - 将远程跟踪/交互按钮的点击重定向到您自己的实例（[source code](https://github.com/rugk/mastodon-simplified-federation)).
+* [Mastodon Explorer](https://mastodon-explorer.netlify.com/) - 趋势标签和流行的toots，每小时重新生成.
 
 ## User styles
 
-* [Variable width](https://userstyles.org/styles/139721/mastodon-variable-width) - 使用浏览器的宽度调整Mastodon比例.
+* [Variable width](https://userstyles.org/styles/139721/mastodon-glitch-soc-variable-width) - 使用浏览器的宽度调整Mastodon比例.
 * [Narrow drawer](https://userstyles.org/styles/141457/mastodon-dynamic-wide-columns-narrow-drawer) - 使用可变宽度样式，使抽屉更窄，其他列相应缩放.
 
 ## User scripts
@@ -81,7 +100,6 @@
 
 * [@fsf@status.fsf.org](https://status.fsf.org/fsf) -  FSF自由软件基金会.
 * [@HackerNewsBot@mastodon.social](https://mastodon.social/@HackerNewsBot) - 黑客新闻.
-* [@nasa@apoil.org](https://apoil.org/@nasa) - 美国宇航局
 * [@newsstream@quitter.im](https://quitter.im/newsstream) -  NewsStream.
 * [@btc@framapiaf.org](https://framapiaf.org/@btc) - 有关比特币加密货币的新闻（市场，社区，上升/下降警报）.
 * [@ethereum@framapiaf.org](https://framapiaf.org/@ethereum) - 有关以太坊加密货币（市场，社区，上升/下降警报）的新闻.
@@ -98,7 +116,6 @@
 * [@libe@mamot.fr](https://mamot.fr/@libe) - 发布.
 * [@lecanardenchaine@mamot.fr](https://mamot.fr/@lecanardenchaine) - 链式鸭.
 * [@lefigaro@mastodon.xyz](https://mastodon.xyz/@lefigaro) - 费加罗报.
-* [@le_gorafi@apoil.org](https://apoil.org/@le_gorafi) -  Gorafi.
 * [@lesjoursfr@mamot.fr](https://mamot.fr/@lesjoursfr) - 天.
 * [@mdiplo@mamot.fr](https://mamot.fr/@mdiplo) - 外交世界.
 * [@Mediapart@mastodon.social](https://mastodon.social/@Mediapart) - 官方媒体部分（未激活）.
@@ -127,8 +144,6 @@
 
 ### Français
 
-* [@epenser@apoil.org](https://apoil.org/@epenser) -  Bruce Benamran / e-think.
-* [@commitstrip@framapiaf.org](https://framapiaf.org/@commitstrip) - Commitstrip.fr.
 * [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - 电影掘墓人.
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - 心理卫生.
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - 黑客杂志.

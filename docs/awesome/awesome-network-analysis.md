@@ -131,7 +131,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
   -  _ [事物的联系.  网络与网络的文化史[物联网.  网络和网络的文化历史]]（http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html），SebastianGießmann，德语（2014）.
-  -  _ [国家社会主义下的隐蔽社交网络.  （http://www.degruyter.com/view/product/432196）_：柏林支持网络的受迫害的犹太人[起源和受迫害的犹太人柏林援助网络的工作方法隐藏的社会网络在国家社会主义]的生成和操作通过貂期间，（在2015年德国; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
+  -  _ [国家社会主义下的隐蔽社交网络.  （http://www.degruyter.com/view/product/432196）_：柏林支持网络的受迫害的犹太人[起源和受迫害的犹太人柏林援助网络的工作方法隐藏的社会网络在国家社会主义]的生成和操作，作者MartenDüring，德语（2015; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
 ## Conferences
@@ -151,7 +151,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 ## Courses
 
--   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/)，作者：Peter Sheridan Dodds（2016年佛蒙特大学; Twitter： [@networksvox](https://twitter.com/networksvox)).
+-   [Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/), by Peter Sheridan Dodds (University of Vermont, 2016; Twitter: [@networksvox](https://twitter.com/networksvox)).
     -   [Tarot Cards for Principles of Complex Systems and Complex Networks](https://www.uvm.edu/~pdodds/teaching/courses/2016-01UVM-303/tarotcards/).
 -   [Graph Theory and Applications](http://www.hamilton.ie/ollie/Downloads/Graph.pdf)，Paul Van Dooren  - 完整的演讲幻灯片（Hamilton Institute，Dublin，2009）.
 -   [Graph Theory (Mathematics)](http://www.personal.psu.edu/cxg286/Math485.pdf)，作者：Christopher Griffin  - 完整的讲义（宾夕法尼亚州立大学，2012年）.
@@ -348,7 +348,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 -   [A Cautionary Note on Data Inputs and Visual Outputs in Social Network Analysis (SNA)](http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8551.2012.00835.x/abstract) （[preprint] [conway2014]; _British Journal of Management_，2014）.
 -   [Ethical Dilemmas in Social Network Research](http://www.sciencedirect.com/science/journal/03788733/27/2) （特刊_Social Networks_，2005）.
--   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf) (_The Journal of Applied Behavioral Science_, 2003).
+-   [Ethical and Strategic Issues in Organizational Social Network Analysis](http://www.analytictech.com/borgatti/papers/ethics.pdf) （_应用行为科学杂志_，2003）.
 
 [conway2014]：https：//lra.le.ac.uk/bitstream/2381/36068/2/Draft%20BJM%20Revised%20(3rd%20iteration)%20Manuscript.pdf
 
@@ -405,7 +405,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [La notion de réseau complexe : du réseau comme abstraction et outil à la masse de données des réseaux sociaux en ligne](https://journals.openedition.org/communicationorganisation/4093)，Alain Barrat，法语 - 可访问的复杂网络研究介绍（_Communication＆Organisation_，2013）.
 -   [Network Analysis, Culture, and the Problem of Agency](http://www.mustafaemirbayer.com/network-analysis-culture-and-the-pr)，Mustafa Emirbayer和Jeff Goodwin（_American Journal of Sociology_，1994），and [Manifesto for a Relational Sociology](http://www.mustafaemirbayer.com/copy-3-of-bourdieu)，Mustafa Emirbayer（_American Journal of Sociology_，1997） - 社会关系科学的社会学基础.
 -   [Network Theory, Plot Analysis](https://sydney.edu.au/intellectual-history/documents/moretti_network_theory_plot_analysis.pdf)，作者：Franco Moretti  - （虚构的）网络分析在文学研究中的应用示例（_New Left Review_，2011）.
--   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](http://www.sciencedirect.com/science/article/pii/S0378873310000183)，作者：Tore Opsahl，Filip Agneessens和John Skvoretz  - 探讨网络中心性和距离度量对（正值）图的概括（_Social Networks_，2010; [companion website](https://toreopsahl.com/tnet/)).
+-   [Node Centrality in Weighted Networks: Generalizing Degree and Shortest Paths](http://www.sciencedirect.com/science/article/pii/S0378873310000183), by Tore Opsahl, Filip Agneessens and John Skvoretz - Explores the generalization of network centrality and distance measures to (positively) valued graphs (_Social Networks_, 2010; [companion website](https://toreopsahl.com/tnet/)).
 -   [Scale-Free Networks](http://barabasi.com/f/124.pdf)，作者：Albert-LászlóBarabási和Eric Bonabeau  - “网络随处可见”的早期，易于理解的论点（_Scientific American_，2003）.
 -   [Social Networks and Causal Inference](http://link.springer.com/chapter/10.1007/978-94-007-6094-3_17)，作者：Tyler J. VanderWeele和Weihua An  - 评论网络分析可以产生有意义的因果陈述的不同方式，以及网络分析的固有限制（_[Handbook of Causal Analysis for Social Research](http://link.springer.com/book/10.1007/978-94-007-6094-3)_, 2013).
 -   [The Performativity of Networks](http://kieranhealy.org/files/papers/performativity.pdf)，Kieran Healy  - 网络分析符合科学研究：社交网络，如金融市场，高度依赖于表演性，即现实可能被其理论探究所改变的可能性（欧洲社会学杂志，2015）.
@@ -431,7 +431,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [E-Net](https://sites.google.com/site/enetsoftware1/) - 用于自我网络分析的Windows程序.
 -   [EgoNet](https://sourceforge.net/projects/egonet/) - 用于自我网络分析的跨平台Java程序.
 -   [EgoWeb](http://egoweb.wikispaces.com/EgoWeb+2.0+Home) - 用于社交网络数据收集和处理的服务器端软件.
--   [easyN](http://www.esyn.org/) - Online tool aimed at representing and sharing gene interaction networks as well as Petri net models.
+-   [easyN](http://www.esyn.org/) - 旨在表示和共享基因交互网络以及Petri网模型的在线工具.
 -   [Gephi](https://gephi.github.io/) - 用于网络可视化的跨平台，免费和开源工具.
     -   [Clément Levallois’ Gephi Tutorials](https://seinecle.github.io/gephi-tutorials/).
     -   [Geographische Netzwerkvisualisierung mit dem Programm ‘Gephi’](http://www.podcampus.de/nodes/RJVZo)，德语（2016年）.
@@ -513,7 +513,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Louvain Method](https://sites.google.com/site/findcommunities/) - 用于的C ++代码 [Louvain multi-level community detection algorithm](http://arxiv.org/abs/0803.0476).
 -   [networks.tb](http://networks-tb.sourceforge.net/)   - 用于分析社会语义网络的C程序.  在Linux和Mac OS X上运行.
 -   [OGDF - Open Graph Drawing Framework](http://www.ogdf.net/) - 用于图表，网络和树布局的独立C ++类库.
--   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) - C++ algorithm, also available as a [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
+-   [OpenOrd: Large-scale Graph Layout (formerly DrL)](http://www.cs.sandia.gov/~smartin/software.html) -  C ++算法，也可作为 [Gephi plugin](https://gephi.org/plugins/#/plugin/openord-layout).
 -   [Stanford Network Analysis Project](http://snap.stanford.edu/)   -  C ++通用网络分析和图形挖掘库.  可通过NodeXL作为Python库和Microsoft Excel使用.
 -   [Walktrap](https://www-complexnetworks.lip6.fr/~latapy/PP/walktrap.html) - 实现的C ++程序 [WalkTrap community detection algorithm](http://arxiv.org/abs/physics/0512106).
 
@@ -603,7 +603,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 -   [amen](https://CRAN.R-project.org/package=amen) - 关系数据的附加和乘法效应模型.
 -   [Bergm](https://CRAN.R-project.org/package=Bergm) - 分析贝叶斯指数随机图模型（BERGM）的工具.
--   [bipartite](https://CRAN.R-project.org/package=bipartite) - 用于可视化二分网络和计算生态研究中常用的指数的功能.
+-   [bipartite](https://CRAN.R-project.org/package=bipartite)   - 可视化二分（双模）网络和计算生态研究中常用的指数的功能.  另请参见：`levelnet` R包.
 -   [blockmodeling](https://CRAN.R-project.org/package=blockmodeling) - 实现有价值网络的广义块模型.
 -   [bnlearn](https://CRAN.R-project.org/package=bnlearn) - 工具 [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork)).
 -   [btergm](https://CRAN.R-project.org/package=btergm)   - 通过自举伪概率拟合时态ERGM的工具.  还提供了MCMC最大似然估计，ERGM，TERGM和随机行为者导向模型（SAOM）的拟合优度，以及用于ERGM和TERGM的微观解释的工具.
@@ -612,11 +612,13 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - 实现扩展 [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR](https://github.com/rich-iannone/DiagrammeR) - 连接R，RStudio和JavaScript库以绘制图表（[blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [ergm](https://CRAN.R-project.org/package=ergm) - 指数随机图模型的估计（ERGM）.
-    -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.fr/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
+    -   [ERGM: edgecov and dyadcov Specifications](http://mjh4.blogspot.com/2012/09/ergm-edgecov-and-dyadcov-specifications.html).
 -   [GERGM](https://CRAN.R-project.org/package=GERGM) - 广义指数随机图模型（GERGM）收敛性的估计和诊断.
 -   [geomnet](https://CRAN.R-project.org/package=geomnet) - 使用ggplot2进行网络可视化的单几何方法.
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - 使用ggplot2绘制网络对象的多重几何方法.
--   [ggraph](https://CRAN.R-project.org/package=ggraph) - 以ggplot2的精神建立的图形图形语法（另见“tidygraph”）.
+-   [ggraph](https://CRAN.R-project.org/package=ggraph)   - 以ggplot2的精神构建的图形图形语法.  另见：`tidygraph` R包.
+-   [graphlayouts](https://cran.r-project.org/package=graphlayouts) - 基于概念的布局算法 [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
+    -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/)
 -   [hergm](https://CRAN.R-project.org/package=hergm) - 估计和模拟具有局部依赖性的分层指数族随机图模型（HERGM）.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) - 确定社交网络随时间发展形成社会等级的路径和状态.
 -   [igraph](http://igraph.org/r/) - 网络分析工具的集合.
@@ -624,10 +626,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [influenceR](https://CRAN.R-project.org/package=influenceR) - 计算Burt，Borgatti等人的各种节点中心网络措施.
 -   [keyplayer](https://CRAN.R-project.org/package=keyplayer) - 实施多项网络中心措施.
 -   [latentnet](https://CRAN.R-project.org/package=latentnet) - 网络对象的潜在位置和群集模型.
+-   [levelnet](https://github.com/schochastics/levelnet)   - 用于分析二分（双模）网络的单模投影的实验包.  另见：`bipartite` R包.
 -   [lpNet](https://www.bioconductor.org/packages/release/bioc/html/lpNet.html) - 线性编程模型旨在推断生物（信号，基因）网络.
 -   [networkD3](http://christophergandrud.github.io/networkD3/) - 来自R的D3 JavaScript网络图
 -   [ndtv](https://CRAN.R-project.org/package=ndtv) - 用于构建各种格式的动态网络数据的动画可视化的工具.
 -   [netdiffuseR](https://CRAN.R-project.org/package=netdiffuseR) - 分析创新网络传播的工具.
+-   [netrankr](https://cran.r-project.org/package=netrankr) - 最新的网络中心指数收集，包含大量文档.
+    -   [Network Centrality in R: An Introduction](http://blog.schochastics.net/post/network-centrality-in-r-introduction/) - 包括对相关R包的审查.
+    -   [Network Centrality in R: Neighborhood Inclusion](http://blog.schochastics.net/post/network-centrality-in-r-neighborhood-inclusion/).
+    -   [Network Centrality in R: New Ways of Measuring Centrality](http://blog.schochastics.net/post/network-centrality-in-r-new-ways-of-measuring-centrality/) (2018).
 -   [NetSim](http://www.christoph-stadtfeld.com/netsim/) - 模拟和组合微观模型，研究它们对社交网络宏观特征的影响.
 -   [network](https://CRAN.R-project.org/package=network) - 在R中操纵关系数据的基本工具
 -   [networkdiffusion](https://github.com/chengjun/networkdiffusion) - 模拟和可视化网络中的基本流行病传播.
@@ -655,7 +662,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
     -   [Guides for Using the statnet Package](http://www.melissaclarkson.com/resources/R_guides/) (2010).
     -   [Modeling Valued Networks with statnet](https://statnet.org/trac/raw-attachment/wiki/Sunbelt2013/Valued.pdf) (2013).
 -   [tergm](https://CRAN.R-project.org/package=tergm) - 拟合，模拟和诊断时间指数族随机图模型（TERGM）的模型.
--   [tidygraph](https://CRAN.R-project.org/package=tidygraph) - “整洁”的方法来构建图形结构.
+-   [tidygraph](https://CRAN.R-project.org/package=tidygraph)   - “整洁”的方法来构建图形结构.  另见：`ggraph` R包.
     -   [Introducing tidygraph](https://www.data-imaginist.com/2017/introducing-tidygraph/)
     -   [Tidying up your network analysis with tidygraph and ggraph](https://www.rstudio.com/resources/videos/tidying-up-your-network-analysis-with-tidygraph-and-ggraph/)
 -   [tnam](https://CRAN.R-project.org/package=tnam) - 适合时间和横截面网络自相关模型（TNAM）的工具.
@@ -724,7 +731,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 -   [Periodic Table of Network Centrality](http://schochastics.net/sna/periodic.html) - 中心指数的交互式周期表.
 -   [Picking Sides](https://codeandculture.wordpress.com/2015/04/03/picking-sides/) - 在各州和非国家权力之间的中东联盟政治网络中的社区检测（[updated version](https://gist.github.com/briatte/c6df2f855afb4eb142e6)).
 -   [Plan interactif du métro](http://www.jeromecukier.net/projects/metro/map.html) - 使用法语d3.js绘制的巴黎地铁网络的交互式可视化.
--   [Psych Networks](http://psych-networks.com/) - 有关心理数据网络建模的新闻，参考和教程的网站.
+-   [Psych Networks](http://psych-networks.com/) - 有新闻，参考和网站的网站 [tutorials](https://psych-networks.com/tutorials/) 关于心理数据的网络建模.
   - [Tutorial Paper on New Methods for Estimating Psychological Networks](http://psych-networks.com/tutorial-paper-new-methods-estimating-psychological-networks/).
 -   [(Psychological) Network Analysis Workshops](http://eiko-fried.com/network-workshop/) - 使用R进行为期3天的心理网络分析研讨会
 -   [Should I do Social Network Analysis?](https://cvcedhlab.hypotheses.org/125).
@@ -776,8 +783,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
 -  Daniel Little关于社会科学哲学的博客文章：
-      -   [Networks](http://understandingsociety.blogspot.fr/search/label/networks).
-      -   [Social Networks](http://understandingsociety.blogspot.fr/search/label/social%20networks).
+      -   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
+      -   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
 -  Martin Grandjean的博客文章（主要是）网络可视化，英语和法语：
       -   [Network Analysis](http://www.martingrandjean.ch/tag/analyse-de-reseau/).
       -   [Social Networks](http://www.martingrandjean.ch/tag/reseaux-sociaux/).
@@ -814,7 +821,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 - 从 [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
     -   [Taming Complexity](http://barabasi.com/f/182.pdf).
     -   [The Network Takeover](http://barabasi.com/f/362.pdf).
--   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
+-   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - “network _science_”如何出现.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 一系列博客帖子早于“网络科学”的出现作为流行语，但触及的问题与目前正在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - 审查2002  -  2003年出版的网络科学书籍.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - 预测网络科学中的下一篇被高度引用的论文.
@@ -829,8 +836,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) 用于构建，分析
 
 -   [The Erdös Number Project](http://wwwp.oakland.edu/enp/) - 关于数学家之间协作关系和网络距离的研究项目.
 -   [How Small is the World, Really?](https://medium.com/@duncanjwatts/how-small-is-the-world-really-736fa21808ba#.kyr90lhyo) - 讨论“_x_分离度”小世界实验.
--   [The Oracle of Bacon](https://oracleofbacon.org/) - 基于 [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) 结果导致了 [charity](http://www.sixdegrees.org/).
--   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - 康奈尔大学会议录像，由Duncan J. Watts，Steven H. Strogatz，Jon Kleinberg和其他发言人组成.
+-   [The Oracle of Bacon](https://oracleofbacon.org/) - 基于 [online game](https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon) that resulted in a [charity](http://www.sixdegrees.org/).
+-   [Panel: Six Degrees of Separation](https://www.cornell.edu/video/six-degrees-of-separation-panel) - Video of a conference at Cornell University, featuring Duncan J. Watts, Steven H. Strogatz, Jon Kleinberg and other speakers.
 -   [Patterns in the Ivy: The Small World of Metal](http://badhessian.org/2013/09/patterns-in-the-ivy-the-small-world-of-metal/) - 基于金属艺术家和乐队的双模式网络分析示例.
 -   [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/) - 对记录良好的早期现代历史网络进行交互式可视化.
 -   [Six Degrees of Separation](https://en.wikipedia.org/wiki/Six_degrees_of_separation) - 维基百科英语录入.

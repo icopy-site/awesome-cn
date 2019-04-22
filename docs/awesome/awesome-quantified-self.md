@@ -25,7 +25,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - 斯蒂芬沃尔夫勒姆探讨了他收集的关于他的时间使用的数据.
 - [Measured Me](http://measuredme.com/) - 自我量化和自我优化的个人实验.
 - [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合，生活日志，量化自我和数字遗产.
-- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
+- [Quantified Bob](https://www.quantifiedbob.com/) - 通过实验和个人分析，跟踪一个人对自我知识，改进和优化的追求.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我，生活，日记，教育.
 - [QS on Medium](https://medium.com/@quantifiedself) - 在媒体上量化自我帖子.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于Venture Beat的量化自我文章.
@@ -76,13 +76,15 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ### Data Collection
 - [AskMeEvery](https://www.askmeevery.com/) - 通过电子邮件或文本问题自动输入数据.
 - [Reporter](http://www.reporter-app.com/) - 跟踪通过随机调查（iOS）收集数据的应用程序.
-- [Logisit](http://www.logsit.com/) - 量化自我和生活日落应用程序来跟踪你已经完成的事情（iOS）.
+- [Logisit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - 食品跟踪和饮食计划应用程序（iOS和Android）.
 - [Fat Secret](https://www.fatsecret.com/) - 减肥卡路里计数器和饮食跟踪器（iOS和Android）.
 - [Calorie Counter](https://www.caloriecount.com/) - 营养数据库和卡路里计数应用程序（iOS和Android）.
-- [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) - 一种简单的禁食跟踪器，用于间歇性，昼夜节律和自定义禁食（iOS）. 
+- [Cronometer](https://cronometer.com/) - 食品，活动和生物识别跟踪器（iOS和Android）.
+- [Zero](https://www.zerofasting.com/) - 一种简单的禁食跟踪器，用于间歇性，昼夜节律和自定义禁食（iOS和Android）. 
+- [Vora](https://getvora.com/) - 禁食跟踪器（iOS和Android）.
 - [Bitesnap](https://www.getbitesnap.com/) - 基于图像的食物记录应用程序，由计算机视觉（iOS和Android）提供支持.
 
 ### Goals
