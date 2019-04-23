@@ -631,7 +631,7 @@ AWS Repos：
 社区回购：
 
 * [alestic/lambdash :fire::fire:](https://github.com/alestic/lambdash) -  Lambda shell  - 在Lambda环境中运行sh命令.
-* [Alephbet/gimel :fire:](https://github.com/Alephbet/gimel) - 使用Lambda运行您自己的A / B测试后端.
+* [Alephbet/gimel :fire::fire:](https://github.com/Alephbet/gimel) - 使用Lambda运行您自己的A / B测试后端.
 * [apex/apex :fire::fire::fire::fire::fire:](https://github.com/apex/apex) - 具有Go支持的最小AWS Lambda函数管理器.
 * [claudiajs/claudia :fire::fire::fire::fire::fire:](https://github.com/claudiajs/claudia) - 轻松地将Node.js项目部署到Lambda和API Gateway.
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - 没有服务器的聊天应用程序.

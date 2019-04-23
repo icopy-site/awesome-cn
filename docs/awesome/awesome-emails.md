@@ -32,6 +32,7 @@
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) -  Antwort为电子邮件提供响应式布局，既适合客户端宽度又适应客户端宽度.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其能够响应支持媒体查询的智能手机.
+- [HTML Email Templates](https://www.htmlemailtemplates.net/) - 用于Startups和SaaS的响应式HTML电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个预先测试的模板，适用于任何邮件服务
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的Grunt模板.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - 响应式电子邮件的模式和模块集合.

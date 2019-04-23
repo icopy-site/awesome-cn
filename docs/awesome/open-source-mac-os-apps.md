@@ -11,10 +11,13 @@
 </p>
 
 ## Support
+
  你好朋友！  帮帮我几个：啤酒：！<img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
  macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
+
+## Languages
 
  您可以看到应用程序的编写语言.  目前有以下语言：
 
@@ -49,7 +52,6 @@
 - [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
 - [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
-- [Muse](https://github.com/xzzz9097/Muse)   - 使用TouchBar支持Spotify控制器.  ！[swift_icon] 
 - [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一款基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos)   -  Scrobble乙烯基，收音机，电影到Last.fm.  ！[objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora)   - 最小，设计精美的macOS音乐播放器.  ！[objective_c_icon] 
@@ -184,7 +186,6 @@
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)   - 简单的macOS编辑器应用程序，允许您并排编辑所有翻译，以帮助您管理iOS应用程序本地化.  ！[swift_icon] 
 - [Localizations](https://github.com/athiercelin/Localizations)   -  Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   -  macOS app，方便访问系统颜色面板.  ！[swift_icon] 
-- [MyTouchbarMyRules](https://github.com/toxblh/MTMR)   - 应用程序，以根据需要自定义您的触摸栏.  ！[swift_icon] 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)   -  macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)   - 用于mac的Apple iOS / macOS Provisioning Profiles管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)   - 用于测试iOS和Android上的推送通知的macOS应用程序.  ！[javascript_icon] 
@@ -192,14 +193,11 @@
 - [Resizr](https://github.com/onurgenes/Resizr)   - 用于为iOS和Android应用程序创建AppIcon的MacOS应用程序.  ！[swift_icon] 
 - [Simulator](https://github.com/onmyway133/Simulator)   - 快速导航到您的应用程序文件夹.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)   -  iOS推送通知调试应用程序.  ！[objective_c_icon] 
-- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
-- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)   - 适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
-- [WWDC](https://github.com/insidegui/WWDC)   -  macOS的非官方WWDC应用程序.  ！[swift_icon] 
+- [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.  ![swift_icon] 
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)   - 自2013年以（srt）格式为每个WWDC会话视频下载字幕的强大应用程序.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)   -  iOS Calabash Launcher是一款macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)   -  iOS Images Extractor是一款Mac应用程序，用于规范化，解码和从iOS应用程序中提取图像.  ！[objective_c_icon] 
-- [iSimulator](https://github.com/shaojiankui/iSimulator)   -  iSimulator，iOS模拟器沙盒，像simpholders，一个macOS应用程序，以找到模拟器的沙箱和去.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)   -  iSimulator是一个GUI实用程序，用于控制模拟器和管理模拟器上安装的应用程序.  ！[objective_c_icon] 
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard)   - 将Xcode .xib转换为.storyboard文件的工具.  ！[objective_c_icon] 
 
@@ -246,6 +244,7 @@
 - [FiScript](https://github.com/Mortennn/FiScript)   - 在Finder中从MacOS上下文菜单（CTRL +单击）执行自定义脚本.  ！[swift_icon] 
 - [Finder Go](https://github.com/onmyway133/FinderGo)   -  macOS app和Finder Sync Extension从Finder打开Terminal，iTerm，Hyper.  ！[swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode)   -  Finder工具栏应用程序，用于在Visual Studio代码中打开当前文件夹.  ！[objective_c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)   - ✨用于macOS的Finder工具栏应用程序，用于打开终端，iTerm或Hyper中的当前目录.  ！[swift_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)   - 回合制战术策略游戏，包括单人和在线多人战斗.  ！[cpp_icon] 
@@ -351,7 +350,7 @@
 - [Standard Notes](https://github.com/standardnotes/web)   - 为您的笔记，思想和生活工作提供安全的场所.  ！[javascript_icon]！[css_icon] 
 - [Tusk](https://github.com/klaussinani/tusk)   - 非官方，第三方，社区驱动的Evernote应用程序，具有一些有用的功能.  ！[javascript_icon]！[css_icon] 
 - [joplin](https://github.com/laurent22/joplin)   - 注意具有Windows，macOS，Linux，Android和iOS同步功能的应用程序和待办事项.  ！[javascript_icon] 
-- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.  ![javascript_icon] 
+- [notable](https://github.com/jmcfarlane/notable)   - 简单的笔记应用程序.  ！[javascript_icon] 
 - [tmpNote](https://github.com/buddax2/tmpNote)   - 非常简单的macOS应用程序来制作临时笔记.  ！[swift_icon] 
 
 ### Other
@@ -466,12 +465,21 @@
 - [Alacritty](https://github.com/jwilm/alacritty)   - 跨平台，GPU加速的终端仿真器.  ！[rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost)   - 用于串行端口通信的小型终端仿真器（macOS / Linux）.  ！[go_icon] 
 - [Console](https://github.com/macmade/Console)   -  macOS控制台应用程序.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)   -  macOS app和Finder Sync Extension从Finder打开Terminal，iTerm，Hyper.  ！[swift_icon] 
 - [Hyper](https://github.com/zeit/hyper)   - 基于Web技术构建的终端.  ！[javascript_icon]！[css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty)   - 跨平台，快速，功能齐全，基于GPU的终端仿真器.  ！[python_icon]！[c_icon] 
+- [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)   - ✨用于macOS的Finder工具栏应用程序，用于打开终端，iTerm或Hyper中的当前目录.  ！[swift_icon] 
 - [OpenTerminal](https://github.com/es-kumagai/OpenTerminal)   - 用于macOS的应用程序，用于打开新的Finder窗口并将当前目录更改为应用程序启动的文件夹.  ！[swift_icon] 
 - [Upterm](https://github.com/railsware/upterm)   - 适用于21世纪的终端模拟器（以前称为黑屏）.  ！[javascript_icon] 
 - [iTerm 2](https://github.com/gnachman/iTerm2)   - 用于macOS的终端模拟器，可以完成令人惊叹的事情.  ！[objective_c_icon] 
 - [wallpapper](https://github.com/mczachurski/wallpapper)   -  wallpapper是一个控制台应用程序，用于为Mojave创建动态壁纸.  ！[swift_icon] 
+
+### Touch Bar
+- [Muse](https://github.com/xzzz9097/Muse)   - 使用TouchBar支持Spotify控制器.  ！[swift_icon] 
+- [MyTouchbarMyRules](https://github.com/toxblh/MTMR)   - 应用程序，以根据需要自定义您的触摸栏.  ！[swift_icon] 
+- [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
+- [Touch Emoji](https://github.com/lm-a/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
 
 ### Utilities
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -  iOS和Android的一键式截图，视频录制，应用程序安装！[swift_icon] 
@@ -522,7 +530,7 @@
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)   - 在Mac上免费观看您最喜爱的开发者大会上最新最好的视频的最佳方式.  ！[swift_icon] 
 - [Datamosh](https://github.com/roecrew/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)   - 用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
-- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
+- [Gifted](https://github.com/vdel26/gifted)   - 快速轻松地将任何短视频转换为动画GIF.  ！[objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake)   -  HandBrake是一款适用于Linux，Mac和Windows的视频转码器.  ！[c_icon] 
 - [MenuTube](https://github.com/edanchenkov/MenuTube)   - 将YouTube关注到您的macOS菜单栏中！  ！[javascript_icon] 
 - [OpenShot](https://github.com/OpenShot/openshot-qt)   - 易于使用，快速学习，以及令人惊讶的强大视频编辑器.  ！[python_icon] 
@@ -542,7 +550,7 @@
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes)   -  macOS app可自动将桌面壁纸设置为卫星视图开销.  ！[objective_c_icon] 
 - [Sunscreen](https://github.com/davidcelis/Sunscreen)   - 防晒霜是一款有趣，轻巧的应用程序，可根据日出和日落改变您的桌面壁纸.  ！[swift_icon] 
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu)   -  macOS菜单栏应用程序，用于浏览网页上的精美图片并将其设置为桌面图像.  ！[ruby_icon] 
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers)   - 简单的macOS菜单栏应用程序，从subreddit获取最新的照片.  ！[javascript_icon] 
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit.  ![javascript_icon] 
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger)   -  pyDailyChanger是一个每天更改壁纸的程序.  ！[python_icon] 
 
 ### Window Management

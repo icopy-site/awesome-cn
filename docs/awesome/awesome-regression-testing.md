@@ -7,7 +7,7 @@
 
 ## Foreword
 
-This is intended to be an *incomplete* list of resources about visual regression testing. It is not tailored to a specific area or role (Developer/QA/UX-Designer). Note that this is for all areas of regression software testing *after* the code in question is written. For a awesome list on general software testing see e.g. [awesome-testing](https://github.com/TheJambo/awesome-testing).
+ 这是关于视觉回归测试的*不完整*资源列表.  它不是针对特定区域或角色（Developer / QA / UX-Designer）定制的.  请注意，这是针对回归软件测试*的所有区域*之后编写的相关代码.  有关一般软件测试的精彩列表，请参阅例如 [awesome-testing](https://github.com/TheJambo/awesome-testing).
 
  最后，我确信阅读此列表的每个人都有一件他们想要添加的内容.  请阅读 [How to Contribute](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md)  页面和**随意添加到列表!! **.  如果你认为这是有帮助的**请给一个明星★**.
 
@@ -67,10 +67,11 @@ This is intended to be an *incomplete* list of resources about visual regression
 - [Loki](https://github.com/oblador/loki) - 在docker等人中使用Chrome进行故事书的视觉回归测试.
 - [Zombie.js](http://zombie.js.org/) - 使用Node.js进行疯狂快速的无头全栈测试.
 - [CodeceptJS](https://github.com/codeception/codeceptjs/) -  NodeJS的现代时代验收测试框架.
-- [FuncUnit](https://github.com/bitovi/funcunit) - 基于jQuery的功能测试套件
+- [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于Node.js和使用Webdriver协议的自动化测试和持续集成框架.
 - [Protractor](https://github.com/angular/protractor) -  Angular应用程序的E2E测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - 使用Jest和puppeteer对React组件进行可视化回归测试
+- [test-crawler](https://github.com/apiel/test-crawler) - 通过爬网和提供快照比较报告进行可视化回归测试.
 
 ## Online services
 

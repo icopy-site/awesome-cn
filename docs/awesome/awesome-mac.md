@@ -51,6 +51,7 @@
 
 * [LibreOffice](https://www.libreoffice.org)   -  LibreOffice是免费的开源软件办公软件.  软件每天都由大型专用用户社区进行测试和使用.  [！[开源软件] [OSS图标]]（https://www.libreoffice.org/about-us/source-code/）！[免费软件] [免费软件图标]
 * [OpenOffice](http://www.openoffice.org/download/index.html)   - 与其他主要办公套件兼容，Apache OpenOffice可免费下载，使用和分发.  [！[开源软件] [OSS图标]]（http://openoffice.apache.org/source.html）！[免费软件] [免费软件图标]
+* [WPS](https://www.wps.cn/product/wpsmac/)   - 是一个跨平台的办公软件套件.  ！[免费软件] [免费软件图标]
 
 #### Markdown Tools [![Awesome List][awesome-list Icon]](https://github.com/BubuAnabelas/awesome-markdown#tools)
 
@@ -108,7 +109,7 @@
 * [PDF Reader Pro](http://www.pdfreaderpro.com)   - 您可以查看，创建，签名，转换和压缩任何PDF文档.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12）
 * [Skim](http://skim-app.sourceforge.net) -  OS X的PDF阅读器和记录器.[！[开源软件] [OSS图标]]（https://sourceforge.net/projects/skim-app/）！[免费软件] [免费软件图标]
 * [SkyFonts](https://skyfonts.com/) - 尝试，安装和管理字体的最简单方法.
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观且速度惊人的OS X客户端客户端.
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观且速度惊人的针对OS X的Pinboard客户端.
 * [Tad](https://www.tadviewer.com)   - 用于查看和分析诸如CSV文件之类的表格数据的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/antonycourtney/tad）！[免费软件] [免费软件图标]
 * [texpad](https://www.texpad.com/) - 适用于Mac的Great LaTeX编辑器，具有自动更新PDF和自动完成LaTeX命令.
 

@@ -53,7 +53,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
 Home Assistant目前_recommends_ Hass.io方法.
 
 * [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
-* [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
+* [Docker](https://www.home-assistant.io/docs/installation/docker/) - Installing on Docker.
 * [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - 安装Hassbian.
 * [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - 使用Python虚拟环境手动安装.
 
@@ -84,7 +84,7 @@ _有多种方式可以与家庭助理社区联系.
 * [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - 也称为Tinkerer共享他的配置文件.
 * [geekofweek](https://github.com/geekofweek/homeassistant) - 拥有超过300多个自动化.
 * [Isabella Gross Alström](https://github.com/isabellaalstrom/HomeAssistantConfiguration) -  Hass.io，Intel NUC，Ubuntu，Docker，Lovelace UI.
-* [Mahasri Kalavala](https://github.com/skalavala/smarthome) - 令人印象深刻的设置，许多不同的硬件协同工作.
+* [Mahasri Kalavala](https://github.com/skalavala/mysmarthome) - 令人印象深刻的设置，许多不同的硬件协同工作.
 * [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) - 使用AppDaemon和HA Floorplan的完整设置.
 * [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) - 运行两个协同工作的实例.
 * [Alok Saboo](https://github.com/arsaboo/homeassistant-config)   - 也称为arsaboo.  定期更新.
@@ -137,14 +137,14 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [AirSonos](https://github.com/hassio-addons/addon-airsonos) - 适用于Sonos播放器的AirPlay功能.
 * [Dropbox Sync](https://github.com/danielwelch/hassio-dropbox-sync) - 将备份快照上传到Dropbox.
 * [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
-* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - Monitor and get statistics from your Plex server.
+* [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从Plex服务器获取统计信息.
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
 * [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.
 * [ADB](https://github.com/hassio-addons/addon-adb) -  Android Debug Bridge服务器程序.
 * [Glances](https://github.com/hassio-addons/addon-glances) - 用Python编写的跨平台系统监视工具.
 * [Matrix](https://github.com/hassio-addons/addon-matrix) - 安全和分散的通信平台.
-* [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - A network-wide ad-and-tracker blocking DNS server with parental control.
+* [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 网络范围的广告和跟踪器阻止DNS服务器与父母控制.
 * [Traccar](https://github.com/hassio-addons/addon-traccar) -  Traccar是现代GPS跟踪平台.
 * [Home Panel](https://github.com/hassio-addons/addon-home-panel) - 用于控制家庭的触摸兼容网络前端.
 
@@ -213,12 +213,13 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - 一张不错的Google日历卡.
 * [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) -  Ccontrol一个分叉的daapd实例.
 * [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) - 在一个显示两个仪表.
+* [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - 具有高级设置的日历卡.
 
 ## Custom Components
 
 _由社区创建的Home Assistant的附加组件._
 
-* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - 允许使用Hue传感器.
+* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - Enables the use of Hue sensors.
 * [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 将设备跟踪器位置转换为人类可读的地址.
 * [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - 集成了路创Caseta Smart Bridge PRO / RA2 Select.
 * [ToonHA](https://github.com/krocat/ToonHA) - 使用官方API集成Tone by Eneco.
@@ -267,6 +268,7 @@ _链接到Home Assistant的各种用户，定期发布Home Assistant的内容._
 * [Smart Home Hobby](https://smarthomehobby.com/) - 提供经济实惠的指南和信息.
 * [Self Hosted Home](https://selfhostedhome.com/) - 关于DIY家庭自动化项目和自托管服务的文章.
 * [Tinkering with Home Automation](https://blog.ceard.tech/) -  Tinkerer的博客和指南.
+* [HomeTechHacker](https://HomeTechHacker.com) -  DIY Smarthome指南，评论和建议.
 
 ### YouTube Channels
 

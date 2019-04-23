@@ -55,6 +55,7 @@
 - [Babel](https://github.com/babel/eslint-plugin-babel) - 添加内置规则的替换以包括Babel功能.
 - [Compat](https://github.com/amilajack/eslint-plugin-compat) - 使用的API的Lint浏览器兼容性（[caniuse](http://caniuse.com/#search=fetch) 作为ESLint插件）.
 - [Coffee](https://github.com/aminland/eslint-plugin-coffee) - 使用Coffeelint库中的可选linting规则启用CoffeeScript文件的linting.
+- [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) - 针对css模块的Lint未定义或未使用的规则.
 - [deprecate](https://github.com/AlexMost/eslint-plugin-deprecate) - 将函数或模块标记为已弃用，并在使用时获取lint消息.
 - [disable](https://github.com/mradionov/eslint-plugin-disable) - 使用文件路径模式和内联注释禁用指定的插件.
 - [es5](https://github.com/nkt/eslint-plugin-es5) -  ES5用户的ESLint插件（禁止ES2015 +使用）.
@@ -89,6 +90,7 @@
 - [Security](https://github.com/nodesecurity/eslint-plugin-security) - 节点安全的ESLint规则.
 - [this](https://github.com/matijs/eslint-plugin-this) - 写纯函数，不要&#39;this`.
 - [XSS](https://github.com/Rantanen/eslint-plugin-xss) - 尝试在代码库结束生产之前检测XSS问题.
+- [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) - 用于检测潜在秘密/凭证的eslint插件.
 
 ### Style
 

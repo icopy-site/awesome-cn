@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  961 |  2019年4月11日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  962 |  2019年4月22日
 
 
 
@@ -45,7 +45,7 @@
 
 * [30 Days of Swift](https://github.com/allenwong/30DaysofSwift) - 一个很酷的30天教程.
 * [About Swift](https://github.com/NicolaLancellotti-About/About-Swift) - 关于Swift语言的游乐场.
-* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - An organized list of essential Swift Language Topics.
+* [Awesome Swift Education](https://github.com/hsavit1/Awesome-Swift-Education) - 有组织的Swift语言主题列表.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 在本机macOS应用中观看会议视频.
 * [Developing iOS Apps with Swift](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961) -  Paul Hegarty的斯坦福大学课程.
 * [Hacking With Swift](https://www.hackingwithswift.com) - 完整的培训课程，通过30个实践项目免费教授应用程序开发.
@@ -205,7 +205,7 @@
 * [Linker](https://github.com/MaksimKurpa/Linker) - 轻量级处理iOS的内部和外部深层链接.
 * [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) -  RxFlow是基于Reactive Flow Coordinator模式的iOS应用程序的导航框架.
 * [SwiftRouter](https://github.com/skyline75489/SwiftRouter) - 适用于iOS的URL路由器.
-* [URLNavigator](https://github.com/devxoul/URLNavigator) - 优雅的URL路由.
+* [URLNavigator](https://github.com/devxoul/URLNavigator) - Elegant URL Routing.
 
 ### App Store
 * Libs帮助苹果应用程序商店，应用程序购买和收据验证.* [back to top](#readme) 
@@ -1005,7 +1005,7 @@
 * [SwiftRichString](https://github.com/malcommac/SwiftRichString) - 优雅和无痛的归属字符串管理库.
 * [SwiftVerbalExpressions](https://github.com/VerbalExpressions/SwiftVerbalExpressions) -  VerbalExpressions移植.
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) - 使用属性字符串轻松实现的扩展.
-* [SyntaxKit](https://github.com/soffes/SyntaxKit) -  TextMate风格的语法高亮显示.
+* [SyntaxKit](https://github.com/soffes/SyntaxKit) - TextMate-style syntax highlighting.
 * [TextAttributes](https://github.com/delba/TextAttributes) - 撰写属性字符串的简便方法.
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - 轻巧而强大的编辑器套件.
 
@@ -1400,7 +1400,7 @@
 * [Codextended](https://github.com/JohnSundell/Codextended) - 扩展提供可编码API类型推断超级权限.
 * [Curry](https://github.com/thoughtbot/Curry) - 功能currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 快速差异库.
-* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
+* [Delegated](https://github.com/dreymonde/Delegated) - 没有内存泄漏的基于闭包的委派.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 快速灵活的O（n）差异算法框架.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
 * [Dollar](https://github.com/ankurp/Dollar) - 类似于Javascript中的Lo-Dash或Underscore.

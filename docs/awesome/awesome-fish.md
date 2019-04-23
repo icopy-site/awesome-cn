@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
 ## Awesome Fish
 
- 包，提示，以及惊人的资源的组织列表<a href="https://fishshell.com" title="友好的互动外壳">的鱼贝</a> .  这项工作是捐赠给公共领域 [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
+ 最大的包，提示和资源为A策展<a href="https://fishshell.com" title="友好的互动外壳">的鱼贝</a> .  建造了一些很棒的东西，想要贡献？  分叉此存储库，添加您的项目并向我们发送PR.  如果你看到这里的项目没有维护或不合适， [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork). 
 
- 想贡献？  分叉此存储库，添加您的项目并向我们发送PR.  如果你看到这里的项目没有维护或不合适， [help us improve this file](https://github.com/jorgebucaran/awesome-fish/fork).
+这项工作是捐赠给公共领域 [CC0 Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
 
 
 
