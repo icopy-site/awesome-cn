@@ -41,7 +41,7 @@
 
 ### C
 + [C Code Style Guidelines](https://www.cs.swarthmore.edu/~newhall/unixhelp/c_codestyle.html)
-+ [ESA Style Guide for 'C' coding](http://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt)
++ [ESA Style Guide for 'C' coding](https://www.maultech.com/chrislott/resources/cstyle/cstyle-ESA-OZ-v2.txt)
 
 ### C++
 
@@ -87,12 +87,12 @@
 
 ### PHP
 
-+ [PHP: The Right Way](https://www.phptherightway.com/)
++ [PHP: The Right Way](https://phptherightway.com/)
 + [PHP Standard Recommendations](https://www.php-fig.org/psr/)
 
 ### Perl
 
-+ [PDF] [Perl Best Practices Quick Reference Guide](http://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
++ [PDF] [Perl Best Practices Quick Reference Guide](https://www.squirrel.nl/pub/PBP_refguide-1.02.00.pdf)
 
 ### Python
 
@@ -112,7 +112,7 @@
 ### Shell
 
 + [Google Shell Style Guide](https://google.github.io/styleguide/shell.xml)
-+ [Scripting with style](http://wiki.bash-hackers.org/scripting/style)
++ [Scripting with style](https://wiki.bash-hackers.org/scripting/style)
 
 ### SQL
 
@@ -136,7 +136,7 @@
 ### RSpec
 
 + [Better Specs { rspec guidelines with ruby }](http://www.betterspecs.org/)
-+ [The RSpec Style Guide](https://github.com/reachlocal/rspec-style-guide#readme)
++ [The RSpec Style Guide](https://github.com/rubocop-hq/rspec-style-guide#readme)
 
 ### Rails
 

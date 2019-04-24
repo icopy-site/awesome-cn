@@ -55,6 +55,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Moves](https://moves-app.com/) - 生活中的活动日记，现在关闭（iOS和Android）.  
 
 ### Aggregators & Dashboards
+- [Memento Labs](https://mementolabs.io) - 使用可穿戴设备和A / B测试的个性化健康和保健行动计划. 
 - [Apple Health](http://www.apple.com/ios/health/)   -  Apple设备的多功能跟踪平台.  跟踪活动，睡眠，营养，正念和其他指标.
 - [Google Fit](https://www.google.com/fit) - 开放生态系统以存储，访问和管理健身数据（Android）.
 - [Gyroscope](https://gyrosco.pe/) - 量化自我健康仪表板（网络和iOS）.

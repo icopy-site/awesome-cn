@@ -3,6 +3,8 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="155">](http://questioncopyright.org/)
 
+**寻找新的维护者！ [Let me know](https://github.com/johnjago/awesome-uncopyright/issues/8) 如果您想获得此列表的所有权.**
+
 公共领域作品的精选列表.
 
  公共领域的作品没有版权限制.  这可能是知识产权到期或被没收的结果.  就后者而言，作者使用* uncopyright *这一术语来描述他们放弃版权的行为.
@@ -55,7 +57,7 @@
 
 - [Cost of Freedom](http://costoffreedom.cc/) - 关于自由文化的梦想.
 - [LibriVox](https://librivox.org/) - 志愿者阅读的有声读物.
-- [Project Gutenberg](https://www.gutenberg.org/) - 成千上万的电子书版权已经以各种格式过期.
+- [Project Gutenberg](https://www.gutenberg.org/) - 数以千计的电子书版权已经以各种格式过期.
 - [Standard Ebooks](https://standardebooks.org/) - 数以百计的经典，精美的格式和排版.
 
 ## Essays

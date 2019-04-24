@@ -33,7 +33,7 @@ Graphics
 *：money_with_wings： [CGTextures](http://www.textures.com) - 大量纹理.
 *：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
 * ：自由： [Games-Icons Set](http://game-icons.net/) - 免费图标为您的游戏.
-* ：自由： [Google Poly](https://poly.google.com/)   - 可搜索的具有可旋转预览的3D模型数据库.  （只能下载可混音的型号.）
+* ：自由： [Google Poly](https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (Only remixable models are downloadable.)
 * ：自由： [Iconmonstr](http://iconmonstr.com/) - 您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -  OpenGameArt论坛举办的Liberated Pixel Cup（LPC）的免费图形资产
@@ -100,7 +100,7 @@ Graphics
 
 #### Vector/Image Editor
 
-* ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) - Vector graphics editor with a bunch of features which also supports Adobe file formats
+* ：钱袋子： [Affinity Designer](https://affinity.serif.com/de/designer) - 矢量图形编辑器，具有一系列功能，也支持Adobe文件格式
 * ：钱袋子： [Affinity Photo](https://affinity.serif.com/de/photo) - 照片和光栅图形编辑器，与Adobe文件格式和Affinity Designer一起使用
 *：money_with_wings： [Aseprite](http://www.aseprite.org/) - 动画精灵编辑器和像素艺术工具.
 *：那么： [Gimp](http://www.gimp.org/)   -  GNU图像处理程序.  它是一个免费分发的软件，用于照片修饰，图像合成和图像创作等任务.
@@ -201,6 +201,7 @@ Code
 * ：钱袋子： [GameMaker](http://www.yoyogames.com/studio) -  GameMaker可以使用拖放或称为游戏制作语言的脚本语言创建跨平台视频游戏，可用于开发更高级的游戏，这些游戏无法通过使用拖放功能创建.
 *：那么： [gameplay](http://gameplay3d.io/)   - 一个用C ++编写的免费，开源，跨平台的2D + 3D游戏框架.  它面向正在创建桌面和移动游戏的独立游戏开发者.
 *：money_with_wings： [GameSalad](https://gamesalad.com/) - 适用于Mac和Windows的游戏创建引擎.
+*：那么： [GB Studio](https://www.gbstudio.dev/) - 免费且易于使用的复古冒险游戏创建者，为您最喜爱的手持视频游戏系统.
 *：那么： [ggez](http://ggez.rs/) -  Rust库，轻松创建好游戏.
 *：那么： [Gideros](http://giderosmobile.com/) - 使用Lua编程语言为iOS，Android创建移动应用和游戏的跨平台框架.
 *：那么： [Godot](http://www.godotengine.org/) - 先进的，功能丰富的多平台2D和3D开源游戏引擎.

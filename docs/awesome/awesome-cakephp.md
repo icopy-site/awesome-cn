@@ -31,7 +31,7 @@
 
 - [AssetCompress plugin](https://github.com/markstory/asset_compress) -  CakePHP的完整资产管理器.
 - [Assets plugin](https://github.com/mirko-pagliai/cakephp-assets) - 动态和“动态”资产文件.
-- [Less plugin](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
+- [Less plugin](https://github.com/elboletaire/less-cake-plugin) -  CakePHP的解析器插件较少.
 - [MinifyHtml plugin](https://github.com/WyriHaximus/MinifyHtml) - 压缩HTML输出.
 
 ## Auditing / Logging
@@ -109,7 +109,7 @@
 ## Environment
 *环境插件.*
 
-- [Environments plugin](https://github.com/josegonzalez/cakephp-environments) - 处理环境的插件.
+- [Environments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
 - [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) - 基于数据库的配置.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - 通过数据库管理设置的插件.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - 处理非常基本环境的插件.
@@ -300,7 +300,7 @@
 
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)   - 用于生成slu and和通过slug查找记录的插件.  使用可插拔的架构，允许使用自己的slug生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - 自动创建和管理您的SEO标签.
-- [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
+- [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - 一个简单的Cake3插件，用于slug字段并通过slug查找记录.
 - [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - 包含Slugged行为以从标题自动生成与URL兼容的slugs.
 
 ## Skeleton
@@ -323,7 +323,7 @@
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - 输出标记地址的地址助手.
 - [Bake plugin](https://github.com/cakephp/bake) - 提供代码生成功能.
-- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - 支持LESS的Bootstrap 3插件.
+- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS.
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) -  Bootstrap 3集成.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - 用于生成XLSX文件的Excel视图.
 - [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - 前端框架FormHelper扩展.
@@ -397,6 +397,7 @@
 - [Sandbox](http://sandbox.dereuromark.de) - 沙盒CakePHP应用程序，包含大量演示和插件显示.
 - [Query Examples](https://github.com/lorenzo/cakephp3-examples) 高级查询构建示例.
 - [Xeta](https://github.com/XetaIO/Xeta) - 帮助人们从CakePHP开始的资源.
+- [Vue.js Demo App](https://github.com/ishanvyas22/cakephpvue-spa) -  CakePHP + VueJS单页面应用程序框架.
 
 ## Resources
 各种资源，如书籍，网站和文章，用于提高您的CakePHP开发技能和知识.

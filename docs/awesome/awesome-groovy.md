@@ -17,7 +17,7 @@
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) -  Java平台最智能的IDE
 * [Groovy Web Console](http://groovyconsole.appspot.com) - 在线Groovy控制台
-* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) -  LightTable支持
+* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - 从Sublime Text运行groovy脚本
 
 ## Web Frameworks
@@ -66,7 +66,7 @@
 
 ## Code Analysis
 * [CodeNarc](http://codenarc.sourceforge.net/) -  Groovy的静态分析工具
-* [Sonar-Groovy](https://github.com/pmayweg/sonar-groovy) - SonarQube Groovy plugin
+* [Sonar-Groovy](https://github.com/pmayweg/sonar-groovy) -  SonarQube Groovy插件
 
 ## Transpilers
 * [Grooscript](https://github.com/chiquitinxx/grooscript) - 将您的Groovy代码转换为Javascript
@@ -98,6 +98,7 @@
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) -  Gradle脚本插件，用于为Java和Kotlin生成Dokka文档引擎的文档
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle脚本插件，用于将Gradle工件上载到Maven存储库
+* [picocli](https://github.com/remkop/picocli)   - 用于CLI的解析器库和框架.  使用ANSI颜色的帮助.  自动完成.  嵌套子命令等.
 * [sshoogr](https://github.com/aestasit/sshoogr) - 用于通过SSH处理远程服务器的DSL库.
 
 
@@ -119,13 +120,12 @@
 
 ## Groovy Code Examples
 * [MrHaKi's Goodness](http://mrhaki.blogspot.com/) - 留意题为“Groovy Goodness”，“Grails Goodness”，Gradle Goodness的条目
-* [Groovy Almanac](http://groovy-almanac.org/) - 有用的代码片段
 * [PLEAC Groovy](http://pleac.sourceforge.net/pleac_groovy/) -  Groovy是32种语言中的3种语言之一，完成了100％的PLEAC示例.
 
 ## Staying up to date
 * [Groovy Calamari](http://groovycalamari.com/) - 关于Groovy生态系统的每周策划出版物
 * [Groovy Weekly](http://glaforge.appspot.com/category/Groovy%20Weekly) -  Groovy每周时事通讯
-* [Grails Diary](http://grydeske.net/news) - 特别适用于Grails开发人员
+* [Grails Diary](https://grydeske.dk/news/index) - 特别适用于Grails开发人员
 * [Groovy Podcast](https://nofluffjuststuff.com/groovypodcast) -  Ken Kousen和Baruch Sadogursky讨论了Groovy生态系统的新闻和见解.
 
 ## Interactive Learning

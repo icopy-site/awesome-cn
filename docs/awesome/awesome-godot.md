@@ -73,6 +73,7 @@
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - 关于3D，着色器，VR和GDNative的教程.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - 关于2D和3D游戏开发的教程.
+- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - 关于2D和3D游戏开发的教程.
 - [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
 - [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) - 关于3D效果和复制知名游戏概念的教程.
 
