@@ -18,7 +18,7 @@
   *“开源的给予和接受”（[video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   *“维护者故事：Brett Cannon”（[interview](https://github.com/open-source/stories/brettcannon))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
-  *“两年开源”（[slides/post](https://colcarroll.github.io/open_source_pa/))  
+  *“两年开源”（[slides/post](https://colcarroll.github.io/open_source_pa/))
 * [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer](https://github.com/dib-lab/khmer)
   *“引导社区对科学软件的贡献：Sprint体验”（[paper](https://doi.org/10.5334/jors.96))
   *“走在谈话中：在小型生物实验室中采用和调整可持续科学软件开发流程”（[paper](http://dx.doi.org/10.5334/jors.35))
@@ -30,6 +30,8 @@
   *“烧毁城堡”（[video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) 和别
   *“关于事件流妥协的声明”（[post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
+* [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)
+  *“成为Python核心开发者的道路”（[video](https://www.youtube.com/watch?v=rOzUMQW4p0Y))
 * [@ericholscher](https://github.com/ericholscher), [Read the Docs](https://github.com/rtfd/readthedocs.org)
   *“维护者故事：Eric Holscher”（[video](https://www.youtube.com/watch?v=us_3IGG6leM&t=1s))
   *“我从未发表的帖子”（[post](http://ericholscher.com/blog/2018/feb/7/the-post-i-never-published/))

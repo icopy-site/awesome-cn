@@ -110,10 +110,15 @@
 
 * [Some abstract interview questions for Python/Django developers](http://insights.dice.com/2014/04/30/interview-questions-pythondjango-developers/)
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
-* [Some Django/Python interview questions from Jaypal personal blog](http://blog.jayapal.in/2010/11/django-interview-question.html)
-* [Top 10 Django interview questions with their answers that you can encounter during the job interview for web developer](http://www.goodinterviewquestions.net/top-10-django-interview-questions-and-answers/)
-* [Django interview questions from f2finterview.com](http://www.f2finterview.com/web/Django/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
+
+### Docker
+
+* [Docker Interview Questions](https://mindmajix.com/docker-interview-questions)
+* [Top Docker Interview Questions You Must Prepare In 2019](https://www.edureka.co/blog/interview-questions/docker-interview-questions/)
+* [Top Docker Interview Questions And Answers](https://intellipaat.com/interview-question/docker-interview-questions/)
+* [DOCKER (SOFTWARE) INTERVIEW QUESTIONS & ANSWERS](https://www.wisdomjobs.com/e-university/docker-software-interview-questions.html)
+* [30 Docker Interview Questions and Answers in 2019](https://www.fullstack.cafe/blog/docker-interview-questions-and-answers)
 
 ### EmberJS
 
@@ -254,6 +259,7 @@
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
 * [26 Essential PHP Interview Questions for 2018](https://pangara.com/blog/php-interview-questions)
+* [Cracking PHP Interviews Questions ebook 300+ Q&A](https://bootsity.com/books)
 
 ### Python
 
@@ -312,6 +318,7 @@
 ### Sass
 
 * [Top 17 Sass Interview Questions from Career Guru](http://career.guru99.com/top-17-sass-interview-questions/)
+* [Top 10 Sass Interview Questions from educba](https://www.educba.com/sass-interview-questions/)
 
 ### Scala
 
@@ -397,7 +404,7 @@
 * [General Interview Questions and Answers](http://www.indiabix.com/technical/sql-server-general-questions/)
 * [Schema, Questions & Solutions for SQL Exercising](https://github.com/XD-DENG/SQL-exercise)
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
-* [Top 20 SQL Interview Questions with Answers](http://dwbi.org/database/sql/72-top-20-sql-interview-questions-with-answers)
+* [SQL访谈问题CHEAT SHEET]（https://www.interviewbit.com/sql-interview-questions/）
 
 ### SQL Lite
 
@@ -428,6 +435,7 @@
 * [Top 30 Linux System Admin Interview Questions & Answers](http://www.linuxtechi.com/experience-linux-admin-interview-questions/)
 * [Top 50 Linux Interview Questions from Career Guru](http://career.guru99.com/top-50-linux-interview-questions/)
 * [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+* [278 Test Questions and Answers for \*nix System Administrators](https://github.com/trimstray/test-your-sysadmin-skills)
 
 ### Windows
 
@@ -460,6 +468,7 @@
 * [Common interview questions and puzzles solved in a number of languages](https://github.com/mre/the-coding-interview)
 * [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview questions solved in python](https://github.com/roseperrone/interview-questions)
+* [7 Swift Coding Challenges to Practice Your Skills](https://www.makeuseof.com/tag/swift-coding-challenges/)
 
 ## Comprehensive lists
 

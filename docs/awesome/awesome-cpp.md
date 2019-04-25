@@ -68,7 +68,7 @@
 
 * [Asio](https://github.com/chriskohlhoff/asio/)   - 用于网络和低级I / O编程的跨平台C ++库，使用现代C ++方法为开发人员提供一致的异步模型.  [促进] [website](http://think-async.com/)
 * [Boost.Asio](http://think-async.com/)   - 用于网络和低级I / O编程的跨平台C ++库.  [促进]
-* [C++ Actor Framework](https://github.com/actor-framework/actor-framework) - An Open Source Implementation of the Actor Model in C++. [BSD-3-Clause] [website](http://actor-framework.org/)
+* [C++ Actor Framework](https://github.com/actor-framework/actor-framework)   -  C ++中Actor模型的开源实现.  [BSD -3-第] [website](http://actor-framework.org/)
 * [libev](http://libev.schmorp.de/)   - 一个功能齐全的高性能事件循环，在libevent之后进行了松散的建模，但没有它的限制和错误.  [BSD和GPL]
 * [libevent](http://libevent.org/)   - 事件通知库.  [BSD]
 * [libuv](https://github.com/libuv/libuv)   - 跨平台异步I / O.  [BSD]
@@ -116,7 +116,7 @@
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
- * [CLI11](https://github.com/CLIUtils/CLI11)   - 仅用于简单和高级CLI解析的单头或多文件C ++ 11库.  [BSD]
+ * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)   - 轻量级C ++命令行选项解析器.  [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)   - 从docstring生成选项解析器的库.  [MIT /升压]
  * [gflags](https://gflags.github.io/gflags/)   - 用于C ++的命令行标记模块.  [BSD]
@@ -129,7 +129,7 @@
  * [termbox](https://github.com/nsf/termbox)   - 用于编写基于文本的用户界面的AC库.  [MIT]
 
 ## Compression
-*压缩和存档库*
+*Compression and Archiving Libraries*
 
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
@@ -158,13 +158,14 @@
 * [ArrayFire](https://github.com/arrayfire/arrayfire)   - 通用GPU库.  [BSD]
 * [Async++](https://github.com/Amanieu/asyncplusplus)   -  C ++ 11的轻量级并发框架，受Microsoft PPL库和N3428 C ++标准提案的启发.  [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
-* [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
+* [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue)   - 用于C ++ 11的快速多生产者，多用户无锁并发队列.  [BSD，提升]
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)   - 具有任务依赖性的快速C ++并行编程.  [MIT]
 * [CUB](https://github.com/NVlabs/cub)   -  CUB为​​CUDA编程模式的每一层提供最先进的，可重复使用的软件组件.  [新BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
 * [C++React](https://github.com/schlangster/cpp.react)   -  C ++ 11的反应式编程库.  [促进]
+* [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)   - 专为游戏开发人员的需求而设计的任务调度框架.  [MIT]
 * [Intel Parallel STL](https://github.com/intel/parallelstl)   - 用于C ++ 11及更高版本的英特尔®C++ 17 STL实现.  [Apache2的]
 * [Intel TBB](https://www.threadingbuildingblocks.org/)   - 英特尔®线程构建模块.  [Apache2的]
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
@@ -179,7 +180,7 @@
 * [OpenMP](http://openmp.org/) -  OpenMP API.
 * [RaftLib](http://raftlib.io/) -  RaftLib C ++库，通过C ++类似iostream的运算符进行流/数据流并发[Apache2]
 * [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)   - 用于C ++的快速单生产者，单用户无锁无队列.  [BSD]
-* [Thrust](http://thrust.github.io/)   - 一个类似于C ++标准模板库（STL）的并行算法库.  [Apache2的]
+* [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp)   - 用于任务并发的仅标头C ++库.  [MIT]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/)   - 用于任何规模的并行和分布式应用程序的通用C ++运行时系统.  [促进]
 * [VexCL](https://github.com/ddemidov/vexcl)   -  OpenCL / CUDA的C ++向量表达式模板库.  [MIT]
@@ -261,7 +262,7 @@
 * [Catch](https://github.com/philsquared/Catch)   - 用于单元测试，TDD和BDD的现代C ++原生，仅限标头的框架.  [促进]
 * [Catch2](https://github.com/catchorg/Catch2)   - 用于单元测试，TDD和BDD的现代C ++原生，仅限标头的测试框架.  [BSL-1.0]
 * [Celero](https://github.com/DigitalInBlue/Celero)   -  C ++基准测试框架.  [Apache2的]
-* [CppUTest](https://github.com/cpputest/cpputest)   -  C / C ++的单元测试和模拟框架.  [BSD -3-子句]
+* [CppUTest](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. [BSD-3-clause]
 * [CUTE](http://cute-test.com)   -  C ++单元测试更容易.  [LGPL3]
 * [CMocka](https://cmocka.org/)   -  C的单元测试框架，支持模拟对象.  [Apache2的]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)   -  JUnit的C ++端口.  [LGPL2]
@@ -375,7 +376,7 @@
 * [libjpeg-turbo](https://github.com/libjpeg-turbo/libjpeg-turbo)   - 使用SIMD指令加速基线JPEG编码和解码的JPEG图像编解码器.  [IJG＆BSD-3-Clause＆zlib] [website](https://libjpeg-turbo.org/)
 * [libvips](https://github.com/jcupitt/libvips)   - 具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)   - 用于C ++的ImageMagick程序接口.  [Apache2的]
-* [MagickWnd](http://www.imagemagick.org/script/api.php) - ImageMagick program interfaces for C. [Apache2]
+* [MagickWnd](http://www.imagemagick.org/script/api.php) -  C的ImageMagick程序接口[Apache2]
 * [OpenCV](http://opencv.org/)  ：zap： - 开源计算机视觉.  [BSD]
 * [OpenEXR](http://www.openexr.com/)   - 用于高动态范围成像的跨平台库.  [改良BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)   - 强大的图像和纹理争用库，支持大量常见的有损和RAW格式.  [改良BSD]
@@ -445,7 +446,7 @@
 * [glog](https://github.com/google/glog) -  Google日志记录模块的C ++实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)   - 用于灵活记录到文件，syslog，IDSA和其他目的地的C ++类库.  [LGPL]
 * [log4cplus](https://github.com/log4cplus/log4cplus)   - 简单易用的C ++日志记录API，提供对日志管理和配置的线程安全，灵活且任意细粒度的控制.  [BSD和Apache2]
-* [loguru](https://github.com/emilk/loguru) - A lightweight C++ logging library. [PublicDomain]
+* [loguru](https://github.com/emilk/loguru)   - 轻量级C ++日志库.  [公共区域]
 * [plog](https://github.com/SergiusTheBest/plog)   - 少于1000行代码的C ++便携式简单日志.  [MPL2]
 * [reckless](https://github.com/mattiasflodin/reckless)   - 用于C ++的低延迟，高吞吐量，异步日志记录库.  [MIT]
 * [spdlog](https://github.com/gabime/spdlog) - 超快速，仅标题，C ++日志库.
@@ -455,7 +456,7 @@
 ## Machine Learning
 
 * [Caffe](https://github.com/BVLC/caffe)   - 神经网络的快速框架.  [BSD]
-* [CCV](https://github.com/liuliu/ccv) - C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library. [BSD]
+* [CCV](https://github.com/liuliu/ccv)   - 基于C /缓存/核心计算机视觉库，现代计算机视觉库.  [BSD]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido) - A highly-modular C++ machine learning library for embedded electronics and robotics. [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight)   - 来自Facebook AI Research的快速，灵活的机器学习库，完全用C ++编写，基于ArrayFire张量库.  [BSD -3-第] [website](https://fl.readthedocs.io/en/latest/)
@@ -476,7 +477,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)   - 用于线性代数和科学计算的快速C ++库.  [Apache2的] [website](http://arma.sourceforge.net/)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)   - 用于密集和稀疏算术的高性能C ++数学库.  [BSD]
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)   - 在C ++，仅头文件或GMP / MPFR / LibTomMath后端中提供更高范围/精度的整数，有理和浮点类型.  [促进]
-* [ceres-solver](http://ceres-solver.org/)   - 用于建模和解决谷歌大型复杂非线性最小二乘问题的C ++库.  [BSD]
+* [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
 * [CGAL](https://github.com/CGAL/cgal)   - 收集高效可靠的几何算法.  [LGPL＆GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)   - 免费的C ++数学库，用于游戏和图形.  [促进]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
@@ -593,11 +594,11 @@
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)   -  Box2D的openFrameworks包装器.  [BSD-等]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)   - 由Nvidia开发的开源实时物理引擎中间件SDK，作为Nvidia GameWorks软件套件的一部分.  [BSD -3-第] 
 * [Project Chrono](https://github.com/projectchrono/chrono)   - 开源多物理场仿真引擎.  [BSD -3-第] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+* [Simbody](https://github.com/simbody/simbody)   - 高性能C ++多体动力学/物理库，用于模拟车辆，机器人和人体骨骼等铰接式生物力学和机械系统.  [Apache2的]
 
 ## Reflection
 
-* [Better Enums](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
+* [Better Enums](https://github.com/aantron/better-enums)   - 反射枚举（字符串，迭代）.  单头.  [BSD] [website](http://aantron.github.io/better-enums/)
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)   - 使用clang的C ++反射.  [MIT]
 * [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
@@ -633,14 +634,14 @@
 * [GSL](http://www.gnu.org/software/gsl/)   -  GNU科学图书馆.  [GPL]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)   - 快速密集和稀疏多维数组DBMS.  [MIT] [website](https://tiledb.io/)
 * [Trilinos](https://github.com/trilinos/Trilinos)   - 高性能PDE求解器.  [BSD]
-* [Torch](https://github.com/torch/torch7)   - 一种科学计算框架，广泛支持将GPU放在首位的机器学习算法.  [BSD -3-第] [website](http://torch.ch/)
+* [Torch](https://github.com/torch/torch7) - A scientific computing framework with wide support for machine learning algorithms that puts GPUs first. [BSD-3-Clause] [website](http://torch.ch/)
 
 ## Scripting
 
 * [AngelScript](https://www.angelcode.com/angelscript/)   -  AngelScript是一种面向游戏的解释/编译脚本语言.  [ZLIB]
 * [Boost.Python](http://www.boost.org/doc/libs/1_65_1/libs/python/doc/html/index.html)   - 一个C ++库，支持C ++和Python编程语言之间的无缝互操作.  [促进]
 * [cppimport](https://github.com/tbenthompson/cppimport)   - 直接从Python导入C ++文件！  [MIT]
-* [CppSharp](https://github.com/mono/CppSharp) - Tools and libraries to glue C/C++ APIs to high-level languages. [MIT]
+* [CppSharp](https://github.com/mono/CppSharp)   - 将C / C ++ API粘合到高级语言的工具和库.  [MIT]
 * [ChaiScript](https://github.com/ChaiScript/ChaiScript/)   - 一种易于使用的嵌入式脚本语言，适用于C ++.  [BSD] [website](http://chaiscript.com/)
 * [ctypes.sh](https://github.com/taviso/ctypes.sh)   -  bash的外部函数接口.  [MIT]
 * [Cython](https://github.com/cython/cython)   -  Cython是Python编程语言和扩展的Cython编程语言（基于Pyrex）的优化静态编译器.  它使Python编写C扩展就像Python本身一样简单.  [阿帕奇] [website](http://cython.org/)
@@ -812,7 +813,7 @@
 * [LLDB](http://lldb.llvm.org/) -  LLDB调试器.
 * [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程shell，包含MDB元数据库.
 * [Valgrind](http://valgrind.org/) - 用于内存调试，内存泄漏检测和分析的工具.
-* [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for windows.
+* [x64dbg](http://x64dbg.com/) - 用于Windows的开源x64 / x32调试器.
 
 ## Integrated Development Environment
 * C或C ++标称IDE列表.*
@@ -1016,7 +1017,7 @@
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap： - 单文件C / C ++库列表.
 
 ## Contributing
-请快速了解一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
+Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
 谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ;  你摇滚！
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*

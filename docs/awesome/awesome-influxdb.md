@@ -104,6 +104,8 @@
 * [Riemann](https://github.com/riemann/riemann) -  Clojure中的网络事件流处理系统
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - 使用StatsD的简单JVM配置文件
 * [statsite](https://github.com/statsite/statsite) -  statsd的C实现
+* [Sematext Agent](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/)  通过可插拔集成从Solr，Elasticsearch，Cassandra，JVM，JMX，ClickHouse，MySQL，Hadoop等收集指标.  通过Influx线路协议输出到InfluxDB或 [Sematext Cloud](https://sematext.com/cloud/)
+* [logagent](https://github.com/sematext/logagent-js)   - 是一个现代，开源，轻量级的日志托运人.  Logagent包括 [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) 和 [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) 和 many other [integrations](https://sematext.com/docs/logagent/plugins/) 
 
 ### Libraries
 
@@ -141,6 +143,9 @@
 * [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - 一个 [Sidekiq](https://sidekiq.org/) 中间件将作业执行指标发送到InfluxDB
 * [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) - 发布 [snap](https://github.com/intelsdi-x/snap) 关注InfluxDB的指标
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) -  StatsD的一个天真的InfluxDB后端
+* [logagent influx input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) -  Logagent插件，通过Influx Line Protocol接收数据  
+* [logagent InfluxDB output plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) - 插件通过Influx Line Protocol发送数据  
+
 
 ### Import tools
 

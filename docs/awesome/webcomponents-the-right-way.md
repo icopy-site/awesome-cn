@@ -105,6 +105,7 @@
 
 ## Discover
 
+- [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.

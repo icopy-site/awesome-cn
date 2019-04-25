@@ -45,16 +45,18 @@
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - 关于领域驱动设计解剖学的信息图.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - 提供有关使用DDD，ASP.NET Core和Azure构建单一Web应用程序的端到端指导. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - 探索CQRS和事件采购.
+- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)   - 为庆祝周年纪念日，我们已经邀请软件设计界的知名作者撰写新旧论文.  由Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway以及更多人提供.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -  DDD模式和定义的摘要.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - 领域驱动设计快速简化，快速阅读的DDD基础知识摘要和介绍.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) - 在这个由三部分组成的系列中，Vaughn Vernon介绍了一些常见的设计缺陷，讨论了各种聚合建模选择的优缺点，并提供了指导聚合建模的经验法则.
 - [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - 描述了对遗留系统做出巨大贡献时开始使用DDD的三种策略.
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - 了解Living Documentation如何在项目的各个方面为您提供帮助，从业务目标到业务领域知识，架构和设计，流程和部署，即使您讨厌编写文档.
-- [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - 介绍如何开发基于微服务的应用程序并使用容器管理它们. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) -  68页长的免费电子书，关于DDD，CQRS和事件采购是什么，以及它们如何相互适应.
 
 ## Training Courses
 
+- [DDD Workshops across Europe](https://training.dddeurope.com/) -  Eric Evans，Alberto Brandolini，Mathias Verraes，Rebecca Wirfs-Brock等公共研讨会.
 - [Domain Language eLearning](http://elearn.domainlanguage.com/) - 使用我们与领域驱动设计（DDD）原书的作者Eric Evans的视频课程，自学技巧，不断改进软件的实用模型，而不仅仅是文档.
 - [Greg Young's CQRS Class](http://subscriptions.viddler.com/GregYoung/) - 这些视频包括Greg Young的全部DDD，CQRS和Event Sourcing课程.
 - [Distilling Domain-Driven Design](https://forcomprehension.com/) -  Vaughn Vernon的在线培训课程.
@@ -72,7 +74,7 @@
 
 ## Video Collections
 
-- [DDD Europe](https://dddeurope.com) - 记录在DDD Europe发表的谈话.
+- [DDD Europe](https://dddeurope.com/videos) - 记录在DDD Europe发表的谈话.
 - [SkillsCasts by SkillsMatter](https://skillsmatter.com/skillscasts) - 搜索DDD返回Greg Young，Alberto Brandolini和Dan North等人的各种演讲.
 - [Alberto Brandolini: Event Storming](https://www.youtube.com/watch?v=veTVAN0oEkQ&list=PLve553MhJLs4YkEnHmOjWJv0B-6WY0-JI) -  Alberto Brandolini在Event Storming上发表的YouTube演讲集.
 - [Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9) -  Greg Young提供的各种演讲的YouTube收藏.
@@ -127,7 +129,7 @@
 - [Adaptech](http://adaptechsolutions.net/blog/)   -  Adaptech Solutions博客.  在Greg创造这个词之前，我们的创始人Adam Dymitruk与Greg Young讨论了CQRS的优点.  Adam和业务合作伙伴Robert Reppel是事件源微服务的主要实践者之一.
 - [Lev Gorodinski](http://gorodinski.com/) -  2013年有几篇关于DDD的文章仍然相关.
 - [Dino Esposito](https://software2cents.wordpress.com/)   - 软件架构师，培训师，书籍作者.  作者 [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/).
-- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design)   - 域驱动设计与安全性相结合，并且通常具有敏捷性.  写作虚构的信件给年轻的程序员.
+- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design) - Domain-Driven Design mixed with security, and agile in general. Written as fictional letters to a younger programmer.
 - [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) -  DDD＆Co.系列
 - [Arkency](https://blog.arkency.com/) - 来自Ruby专家的各种DDD，CQRS，事件采购相关文章.
 - [Svaťa Šimara](http://svatasimara.cz/) -  DDD系列 - 语言，领域，建模，基础设施，PHP实现
@@ -137,10 +139,11 @@
 
 ### .NET (C#/F#)
 - [CQRS-DDD Example](https://github.com/dcomartin/DDD-CQRS-ES-Example) - 使用GetEventStore，CommonDomain，NServiceBus，Entity Framework，SQL Server，SignalR的域驱动设计，CQRS和事件源示例.
-- [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - An event based Micro ERP. 
+- [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://github.com/mastreeno/Merp) - 基于事件的Micro ERP. 
 - [ContosoUniversityCore](https://github.com/jbogard/ContosoUniversityCore) - 具有完整.NET Framework的ASP.NET Core上的ContosoUniversity.
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+- [EISK](https://github.com/eisk) -  .NET CLI和VS模板，具有简单的用例，可以在.net核心之上构建可扩展的应用程序，具有架构最佳实践（DDD，洋葱架构等）.
 - [EmailMaker](https://github.com/xhafan/emailmaker) - 电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) -  eShop fullstack示例，包含目录，购物篮，结帐和订单有限的上下文
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - 具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序
@@ -148,7 +151,7 @@
 - [Fohjin](https://github.com/MarkNijhof/Fohjin) -  Mark Nijhof陪同的示例项目 [CQRS](https://leanpub.com/cqrs) 书.
 - [FsUno](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
 - [IDDD Samples in .NET](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon.
-- [Lokad IDDD Sample](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
+- [Lokad IDDD Sample](https://github.com/Lokad/lokad-iddd-sample) - 这是一个.NET示例项目，附带Vaughn Vernon的书中的事件采购材料：实现域驱动设计.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) -  CQRS Journey的示例代码.
 - [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) （.Net Core Preview 2） - 一个N层架构示例项目.
 - [Reactive Trader Cloud](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) -  Adaptive Consulting的Reactive Trader Cloud.
@@ -167,7 +170,7 @@
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - 在Scala-Akka中实施CQRS和事件采购模式的演示项目.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) -  DDD-CQRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模.
-- [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
+- [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) -  Java代码的事件源和CQRS实现的简化（内存中）示例（为银行域用例建模）.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -  Java中的事件源和CQRS的实用应用，具有对常见相关问题的良好参考，例如事件排序和幂等性.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - 带有Command Query Responsibility Segregation的示例事件源应用程序
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - 这些是Vaughn Vernon出版的“实现领域驱动设计”一书中的有限上下文示例.
@@ -214,7 +217,7 @@
 - [eventstore](https://github.com/slashdotdash/eventstore) - 使用PostgreSQL进行持久化的CQRS事件存储.
 
 ### JavaScript
-- [cqrs.js](http://cqrs.js.org)   -  node.js中的CQRS实现.  包括 [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
+- [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
 - [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - 用于DDD和Clean Architecture应用程序的NodeJS Web API样板.
 - [wolkenkit](https://www.wolkenkit.io/) - 用于JavaScript和Node.js的CQRS，DDD和事件源框架.
 
@@ -244,12 +247,15 @@
 
 ## Conferences
 
-- [Domain-Driven Design Europe - Netherlands](http://www.dddeurope.com)
+- [Domain-Driven Design Europe](https://dddeurope.com) - 领先的DDD会议
+- [EventSourcing](https://dddeurope.com/2020/#eventsourcing) -  CQRS / EventSourcing社区的新活动
+- [DDD Foundations](https://dddeurope.com/2020/#foundations) - 为DDD新人举办的精选会议
 - [Explore DDD - USA](http://exploreddd.com/)
 - [Kandddinsky - Germany](http://kandddinsky.com/)
 
 ## User Groups
 
+- [Collective CFP](https://sessionize.com/ddd-meetups) - 立即将您的会谈提交给所有DDD用户组.
 - [Austria](https://www.meetup.com/ddd-vienna/)
 - [Barcelona](https://www.meetup.com/dddbcn/)
 - [Belfast](https://dddbelfast.com/)

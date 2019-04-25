@@ -4,7 +4,7 @@
 
  &gt;生物信息学是一个跨学科领域，开发用于理解生物数据的方法和软件工具.   -  [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
-A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
+ 精选的生物信息学软件，资源和库的精选列表.  主要是基于命令行，免费或开源.  请随意 [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -138,7 +138,7 @@ __DNA重新测序___
 
 #### Tools
 
-* __[cyvcf](https://github.com/arq5x/cyvcf)__  - 港口 [pyVCF](https://github.com/jamescasbon/PyVCF) 使用Cython获得速度.
+* __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) 使用Cython获得速度.
 * __[cyvcf2](https://github.com/brentp/cyvcf2)_ _  -  Cython + HTSlib ==快速VCF解析;  解析比pyVCF更快.
 * __[pyBedTools](https://github.com/daler/pybedtools)__  -  Python包装器 [bedtools](https://github.com/arq5x/bedtools).
 * __[pyfaidx](https://github.com/mdshw5/pyfaidx)__  -  Pythonic访问FASTA文件.
@@ -156,7 +156,7 @@ __DNA重新测序___
 * __[BioJS](http://biojs.net/)__  -  BioJS是一个包含数百个JavaScript组件的库，使您能够使用当前的Web技术可视化和处理数据.
 * __[Circleator](https://github.com/jonathancrabtree/Circleator)__  - 使用BioPerl和SVG对基因组相关数据进行灵活的圆形可视化.
 * __[DNAism](https://github.com/drio/dnaism)__  - 用于DNA数据的基于D3的基于D3的JavaScript库的Horizo​​n chart.
-* __[IGV js](https://www.broadinstitute.org/igv)_ _  - 基于Java的浏览器.  用于基因组数据和注释的快速，高效，可扩展的可视化工具.  处理大 [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
+* __[IGV js](https://www.broadinstitute.org/igv)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)_ _  -  D3基于JavaScript的基因组查看器.  构造SVG.
 * __[JBrowse](https://jbrowse.org)__  - 通过插件和跟踪自定义高度可定制的JavaScript基因组浏览器
 * __[PHAT](https://github.com/chgibb/PHAT)__  - 指向并单击，跨平台套件，用于分析和可视化下一代测序数据集.
@@ -190,6 +190,10 @@ __DNA重新测序___
 * [Rosalind](http://rosalind.info/) - 罗莎琳德是一个通过解决问题来学习生物信息学的平台.
 * [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - 本指南面向生物信息学家，旨在指导他们实现更好的职业发展.
 * [A brief history of bioinformatics](https://doi.org/10.1093/bib/bby063)
+
+### Bioinformatics on GitHub
+
+* [Awesome-alternative-splicing](https://github.com/HussainAther/awesome-alternative-splicing) - 关于可变剪接的资源列表，包括软件，数据库和其他工具.
 
 ### Sequencing
 

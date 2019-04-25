@@ -14,13 +14,13 @@
 
 &gt; **无处不在的人道技术，刺激人类蓬勃发展，人类蓬勃发展.**
 
- 此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
+This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
  **重要**：下面列出的资源是本清单的贡献者真诚收集的，希望它们对您有用.  但按照 [License](#license)  我们不能保证所引用软件的质量或适用性.  所以在安装之前要正确地告知自己，如果遇到不合适或错误的事情，请在我们的文件中提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  所以我们可以采取适当的行动.  谢谢！
 
 ## Community
 
-[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/community-artwork/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
+[![Humane Tech Community](https://raw.githubusercontent.com/humanetech-community/humanetech-community-artwork/master/logos/humanetech-community-logo.svg?sanitize=true)](https://humanetech.community)
 
 我们邀请您参加我们的会议 [Humane Tech Community Forum](https://community.humanetech.com)  阅读更多关于这些有趣的人文科技科目.  如果您想参与我们的讨论，帮助提供真正的解决方案，那么我们很乐意欢迎您成为我们的新成员之一.  我们正在建造**“人文科技金字塔”**，您可以与我们共同建设.
 
@@ -32,7 +32,7 @@
 - [WikiTruth](https://wikitruth.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/wikitruth/wikitruth) - 维基百科和类似Quora的系统，具有审查垃圾中事实的审查机制.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - 与希波克拉底誓言相当的程序员道德誓言.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - 为实现道德设计的场所和项目重新绘制了马斯洛夫需求金字塔.
-- [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术未来影响的指南.
+- [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
 - [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德规范和职业行为准则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则纳入您的数据工作的全球倡议.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立道德考虑体验的可选誓言.
@@ -71,7 +71,8 @@
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) - 取代专有云服务，以跨多个设备同步文件，分散.
 - [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - 一种点对点即时通讯工具，旨在使普通用户轻松获得安全和隐私.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -  Android应用程序捕获并加密您键入的文本，然后将其传递给实际的应用程序.
-- [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) - Addon that enables you to choose & block top 5 cloud companies based on their IPv4/6 ranges.
+- [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Addon，使您能够根据IPv4 / 6范围选择和阻止前5大云公司.
+- [Librefox](https://github.com/intika/Librefox) - 旨在强制实施Firefox隐私和安全而不需要项目的项目.
 
 ## Tracking
 
@@ -119,7 +120,7 @@
 ## Social networks
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) - 您自己托管的全球互联微博社区.
-- [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - A privacy-aware, distributed, open source social network.
+- [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - 隐私，分布式，开源社交网络.
 - [Humnub](http://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humhub/humhub) - 一个用PHP编写的功能丰富且高度灵活的开源社交网络工具包.
 - [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - 基于Secure Scuttlebutt（SSB）构建的分散式消息传递和共享应用程序.
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pump-io/pump.io) - 一个流服务器，可以完成人们真正想要的社交网络.
