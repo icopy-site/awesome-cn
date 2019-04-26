@@ -75,6 +75,7 @@
 * [awsm.css](https://igoradamenko.github.io/awsm.css/) - 用于语义HTML标记的简单CSS库.
 * [Bootstrap](https://getbootstrap.com/) - 最流行的HTML，CSS和JS框架.
 * [Bulma](http://bulma.io/)   - 基于Flexbox的现代CSS框架.  还有Sass导入修改.
+* [Butter Cake](http://getbuttercake.com/) - 现代轻量级前端CSS框架，可实现更快速，更轻松的Web开发.
 * [eFrolic](http://efrolicss.com/) - 不使用JavaScript的CSS框架是交互式和动画的.
 * [Foundation](http://foundation.zurb.com/) - 先进的响应式前端框架.
 * [inuit.css](http://inuitcss.com/) - 功能强大，可扩展，基于Sass，BEM，OOCSS框架.
@@ -98,7 +99,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ## Toolkits :wrench:
 
-* [Basscss](http://www.basscss.com/) - 基本元素样式和不可变实用程序的轻量级集合.
 * [Bourbon](http://bourbon.io/) -  Sass的简单轻量级mixin库.
 * [Susy](http://susy.oddbird.net/) -  Sass的响应式布局工具包.
 
@@ -124,7 +124,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## CSS Development at Large-Scale Websites
 
 * [Bugsnag's CSS Architecture](http://blog.bugsnag.com/bugsnags-css-architecture) 通过 [Max Luster](https://twitter.com/maxluster)
-* [CodePen's CSS](http://codepen.io/chriscoyier/post/codepens-css) 通过 [Chris Coyier](https://twitter.com/chriscoyier)
 * [CSS at BBC Sport](https://medium.com/@shaunbent/css-at-bbc-sport-part-1-bab546184e66) 肖恩本特
 * [CSS AT HOOTSUITE](http://code.hootsuite.com/css-at-hootsuite/) 由Steve Mynett撰写
 * [GitHub's CSS](http://markdotto.com/2014/07/23/githubs-css/) 通过 [Mark Otto](https://twitter.com/mdo)
@@ -187,7 +186,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Atomic OOBEMITSCSS](https://www.sitepoint.com/atomic-oobemitscss/)
 * [BEM](https://en.bem.info/)
-* [SMACSS](https://smacss.com/)
 * [Point North](http://pointnorth.io/#base-browser-styling)
 * [ITCSS](http://itcss.io/)
 * [OOCSS](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)

@@ -192,7 +192,7 @@
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)   - 模式生成和执行包，将POJO转换为GraphQL Java可查询对象集.  允许使用Annotations将任何服务公开为GraphQL服务.
 * [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 使用GraphQL Java为模式定义提供基于注释的语法.
 * [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)   -  Schema-first graphql-java便利库，可以轻松将您自己的实现作为数据解析器.  灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于JS.
-* [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - A framework-agnostic java servlet for exposing graphql-java query endpoints with GET, POST, and multipart uploads.
+* [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 与框架无关的java servlet，用于通过GET，POST和分段上传公开graphql-java查询端点.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) -  Spring Framework GraphQL库.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) -  GraphQL和GraphiQL Spring Framework启动程序.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - 异步GraphQL服务发现和查询您的微服务.
@@ -234,7 +234,7 @@
 ### .NET Libraries
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -  GraphQL for .NET.
-* [graphql-net](https://github.com/ckimes89/graphql-net) -  GraphQL到IQueryable for .NET.
+* [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) -  .Net Core和.NET Framework的GraphQL服务器.
 
 <a name="lib-elixir" />
@@ -321,6 +321,13 @@
 
 * [reason-apollo](https://github.com/apollographql/reason-apollo) -  Apollo Client的ReasonML绑定
 * [ReasonQL](https://github.com/sainthkh/reasonql) -  ReasonML开发人员的类型安全且简单的GraphQL客户端.
+
+<a name="lib-dart" />
+
+### Dart Libraries
+* [Angel GraphQL](https://github.com/angel-dart/graphql) - 带有绑定的GraphQL服务器实现
+对于天使框架.
+* [graphql-flutter](https://github.com/zino-app/graphql-flutter) -  Flutter的GraphQL客户端.
 
 <a name="tools" />
 

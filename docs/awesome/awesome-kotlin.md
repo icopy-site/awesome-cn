@@ -183,7 +183,7 @@
 * [SalomonBrys/Kotson](https://github.com/SalomonBrys/Kotson) -  Kson的Gson，Kotson使您能够使用更简洁，更简单的语法来解析和使用Google的Gson编写JSON.
 * [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) -  Jackson模块，增加了对Kotlin类和数据类的序列化/反序列化的支持.
 * [Shengaero/kotlin-json](https://github.com/Shengaero/kotlin-json) - 用于Kotlin-JVM和Kotlin-JS的轻量级，风格，优化和多平台JSON库
-* [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) - 为Klaxon输入Extensions（Long，Int，Enum，Date）.
+* [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) voltage  - Klax대的〔延伸，presentation，Enum，address&gt;中&gt;
 * [Jire/KTON](https://github.com/Jire/KTON) - 纯Kotlin中的对象表示法！
 * [fluidsonic/fluid-json](https://github.com/fluidsonic/fluid-json) - 用纯Kotlin编写的JSON库.
 * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - 一个简单的Kotlin库来查询Json数据.
@@ -239,7 +239,7 @@
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) -  IntelliJ IDEA社区版
 * [alexmt/atom-kotlin-language](https://github.com/alexmt/atom-kotlin-language) - 在Atom中为Kotlin文件添加语法高亮
-* [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) - A Sublime Package for Kotlin.
+* [vkostyukov/kotlin-sublime-package](https://github.com/vkostyukov/kotlin-sublime-package) -  Kotlin的崇高套餐.
 * [udalov/kotlin-vim](https://github.com/udalov/kotlin-vim) - 用于Vim的Kotlin语法荧光笔.
 * [sargunster/kotlin-textmate-bundle](https://github.com/sargunster/kotlin-textmate-bundle) -  TextMate的Kotlin包.
 * [ice1000/NppExtension](https://github.com/ice1000/NppExtension) -  Notepad ++的Kotlin语言扩展
@@ -478,7 +478,7 @@
 * [rahulchowdhury/Mystique](https://github.com/rahulchowdhury/Mystique) -  Android上的RecyclerView的通用适配器，可以轻松地将异构项添加到列表中.
 * [calintat/alps](https://github.com/calintat/alps) - Android library for preferences which includes property delegates and a custom DSL for definining preferences.
 * [costular/kotlin-android-utils](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
-* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
+* [rakshakhegde/ObservableFlow](https://github.com/rakshakhegde/ObservableFlow) - 用于数据绑定+ Kotlin + RxJava的功能构造
 * [programmerr47/ganalytics](https://github.com/programmerr47/ganalytics) - 应用程序中任何分析的微小api层.
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
@@ -513,7 +513,7 @@
 * [inaka/kotlillon](https://github.com/inaka/kotlillon) -  Android Kotlin示例.
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - 显示今天历史上发生的事情的应用程序.
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
-* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中Java，Groovy，Scala，Kotlin的比较.
+* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中的Java，Groovy，Scala，Kotlin之间的比较.
 * [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - 适用于Android的免费和开源漫画阅读器.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - 一个用Kotlin编写的简单的android Twitter客户端
 * [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 适用于Android 4.0+的Material Design准备和功能丰富的Twitter应用程序
@@ -549,6 +549,7 @@
 
 ### <a name="android-tools"></a>Tools <sup>[Back ⇈](#android-tools-subcategory)</sup>
 * [kiruto/debug-bottle](https://github.com/kiruto/debug-bottle) -  Debug Bottle是一个使用kotlin语言编写的Android运行时调试/开发工具.
+* [didi/booster](https://github.com/didi/booster) -  Booster是Android应用程序的优化工具包.
 
 ### <a name="android-tests"></a>Tests <sup>[Back ⇈](#android-tests-subcategory)</sup>
 * [agoda-com/Kakao](https://github.com/agoda-com/Kakao) - 适用于Kotlin的Espresso的简单DSL.
@@ -575,7 +576,7 @@
 * [perses-games/kudens](https://github.com/perses-games/kudens) - 在Kotlin开发浏览器游戏
 
 ### <a name="kotlin-javascript-build-tools"></a>Build Tools <sup>[Back ⇈](#kotlin-javascript-build-tools-subcategory)</sup>
-* [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - 用于前端开发的Gradle Kotlin插件.
+* [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - Gradle Kotlin plugin for frontend development.
 * [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) -  Kotlin webpack loader.
 
 ### <a name="kotlin-javascript-integration"></a>Integration <sup>[Back ⇈](#kotlin-javascript-integration-subcategory)</sup>
@@ -904,7 +905,7 @@
 * [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫
 * [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) - NicolasFränkel
-* [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) - PrzemekDąbrowski
+* [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) -  Przemek东布罗夫斯基
 * [JUnit 5 with Spring Boot (plus Kotlin)](http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) -  Mike Plummer
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) -  Artem Zinnatullin
 * [KotlinLifeguard #1](http://kotlin.link/articles/KotlinLifeguard-1.html) -  Daniel Gomez Rico
@@ -969,8 +970,8 @@
 * [Kotlin для начинающих](http://kotlin.link/articles/Kotlin-для-начинающих.html) -  @Devcolibri
 * [Kotlin: a new JVM language you should try](http://kotlin.link/articles/Kotlin-a-new-JVM-language-you-should-try.html) - 拉法尔甘卡兹
 * [Видео со встречи JUG.ru с разработчиками Kotlin](http://kotlin.link/articles/Видео-со-встречи-JUG-ru-с-разработчиками-Kotlin.html) -  JetBrains
-* [Building a Kotlin project 2/2](http://kotlin.link/articles/Building-a-Kotlin-project-2-2.html) -  Ciro Rizzo
-* [Building a Kotlin project 1/2](http://kotlin.link/articles/Building-a-Kotlin-project-1-2.html) -  Ciro Rizzo
+* [Building a Kotlin project 2/2](http://kotlin.link/articles/Building-a-Kotlin-project-2-2.html) - Ciro Rizzo
+* [Building a Kotlin project 1/2](http://kotlin.link/articles/Building-a-Kotlin-project-1-2.html) - Ciro Rizzo
 * [Kotlin Month Post 2: Inheritance and Defaults](http://kotlin.link/articles/Kotlin-Month-Post-2-Inheritance-and-Defaults.html) - 雅各布齐默尔曼
 * [Solving the Josephus problem in Kotlin](http://kotlin.link/articles/Solving-the-Josephus-problem-in-Kotlin.html) - 尼古拉斯弗兰克
 * [A DSL Workbench with Gradle and Kotlin](http://kotlin.link/articles/A-DSL-Workbench-with-Gradle-and-Kotlin.html) - 尤金佩特伦科
@@ -1003,7 +1004,7 @@
 * [Kotlin & Android: A Brass Tacks Experiment, Part 2.](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-2.html) - 道格史蒂文森
 * [Kotlin & Android: A Brass Tacks Experiment, Part 1.](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-1.html) - 道格史蒂文森
 * [10 Kotlin Tutorials for Beginners: Dive Into Kotlin Programming](http://kotlin.link/articles/10-Kotlin-Tutorials-for-Beginners-Dive-Into-Kotlin-Programming.html) - 彼得·索默霍夫
-* [Kotlin Coding](http://kotlin.link/articles/Kotlin-Coding.html) -  Ciro Rizzo
+* [Kotlin Coding](http://kotlin.link/articles/Kotlin-Coding.html) - Ciro Rizzo
 * [Podcast Разбор Полетов: Episode 102 — Kotlin, тесты и здоровый сон.](http://kotlin.link/articles/Podcast-Разбор-Полетов-Episode-102-Kotlin-тесты-и-здоровый-сон.html) -  Dmitry Jemerov，Viktor Gamov，Alexey Abashev，Anton Arphipov，Dmitry Churbanov，Anton Arhipov
 * [Kotlin 1.0 Release Candidate is Out!](http://kotlin.link/articles/Kotlin-1-0-Release-Candidate-is-Out.html) - 安德烈·布雷斯拉夫
 * [Kotlin & Android: A Brass Tacks Experiment, Part 4](http://kotlin.link/articles/Kotlin-Android-A-Brass-Tacks-Experiment-Part-4.html) - 道格史蒂文森
@@ -1041,7 +1042,7 @@
 * [Android development with Kotlin](http://kotlin.link/articles/Android-development-with-Kotlin.html) - 费尔南多拉米雷斯
 * [Kotlin, the somewhat obscure modern Android-friendly programming language](http://kotlin.link/articles/Kotlin-the-somewhat-obscure-modern-Android-friendly-programming-language.html) - 布兰登凯斯
 * [Mimicking Kotlin Builders in Java and Python](http://kotlin.link/articles/Mimicking-Kotlin-Builders-in-Java-and-Python.html) - 雅各布齐默尔曼
-* [My Kotlin Adventure](http://kotlin.link/articles/My-Kotlin-Adventure.html) -  Ciro Rizzo
+* [My Kotlin Adventure](http://kotlin.link/articles/My-Kotlin-Adventure.html) - Ciro Rizzo
 * [KillerTask, the solution to AsyncTask implementation](http://kotlin.link/articles/KillerTask-the-solution-to-AsyncTask-implementation.html) - 费尔南多拉米雷斯
 
 ### <a name="articles-blog-posts-december-2015"></a>December 2015 <sup>[Back ⇈](#articles-blog-posts-december-2015-subcategory)</sup>

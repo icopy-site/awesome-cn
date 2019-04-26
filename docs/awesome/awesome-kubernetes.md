@@ -74,7 +74,7 @@ Menu
 * [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) 通过 [Laura Frank](https://twitter.com/rhein_wein)
-* [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) 通过 [Rajdeep Dua](https://twitter.com/rajdeepdua)
+* [Kubernetes入门] [http://containertutorials.com/get_started_kubernetes/index.html] by [Rajdeep Dua](https://twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) 通过 [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes 通过 Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) 通过 [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -122,6 +122,9 @@ Installers
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [Linode](https://developers.linode.com/kubernetes/) -  CoreOS  -  Linode
 * [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - 不可知操作系统 -  On-Prem  - 不可知云
+* [MicroK8s](https://github.com/ubuntu/microk8s) - 安装在42种Linux上的单个k8包
+* [k3s](https://github.com/rancher/k3s)   - 轻量级Kubernetes.  易于安装，内存的一半，所有二进制文件都小于40mb
+
 
 主要资源
 =======================================================================
@@ -230,7 +233,7 @@ Installers
 * [Quay: Introducing an Application Registry for Kubernetes](http://coreos.com/blog/quay-application-registry-for-kubernetes.html) 作者：Antoine Legrand
 * [Play With Kubernetes Quickly Using Docker](http://zwischenzugs.wordpress.com/2015/04/06/play-with-kubernetes-quickly-using-docker/)
 * [1 command to Kubernetes with Docker compose](http://sebgoa.blogspot.in/2015/04/1-command-to-kubernetes-with-docker.html) 通过 [Sebastien Goasguen](https://twitter.com/sebgoa)
-* [Nginx Server Deployment using Kubernetes](http://containertutorials.com/get_started_kubernetes/k8s_example.html) 通过 [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
+* [使用Kubernetes进行Nginx服务器部署] [http://containertutorials.com/get_started_kubernetes/k8s_example.html] by [Rajdeep Dua](https://www.twitter.com/rajdeepdua)
 * [What even is a kubelet?](http://kamalmarhubi.com/blog/2015/08/27/what-even-is-a-kubelet/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/) 通过 [Kamal Marhubi](https://twitter.com/kamalmarhubi)
 * [CoreOS + Kubernetes Step By Step](https://coreos.com/kubernetes/docs/latest/getting-started.html) 通过 [Coreos](https://twitter.com/coreoslinux)
@@ -277,7 +280,7 @@ Installers
   - [VAMP](http://vamp.io)
   - [Draft](https://draft.sh) - 开发人员使用Kubernetes创建云原生应用程序的工具
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
-  - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
+  - [DevSpace](https://github.com/covexo/devspace) - Build, test and run code directly inside any Kubernetes cluster
 
 
 
@@ -494,7 +497,7 @@ Projects
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - 杀死目标吊舱和机器，以测试您的软件可靠性
 * [Litmus](https://github.com/openebs/litmus) - 针对Kubernetes的状态工作负载的混沌工程
 * [Kubeadm-dind-cluster](https://github.com/kubernetes-sigs/kubeadm-dind-cluster) - 基于kubeadm的多节点测试集群
-* [kind](https://github.com/bsycorp/kind) - A single node cluster to run your CI tests against thats ready in 30 seconds
+* [kind](https://github.com/bsycorp/kind) - 单个节点群集，可在30秒内针对这些群集运行CI测试
 
 ## Continuous Delivery
 
@@ -643,7 +646,7 @@ Projects
 
 ## Secret generation and management
 
-* [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - 使用Cyber​​Ark Conjur保护您的Kubernetes部署的应用程序
+* [CyberArk Conjur Kubernetes Authenticator](https://developer.conjur.net/reference/integrations/kubernetesopenshift.html) - Secure your Kubernetes-deployed applications with CyberArk Conjur
 * [Vault auth plugin backend: Kubernetes](http://www.vaultproject.io/docs/auth/kubernetes.html)
 * [Vault controller](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego](https://github.com/jetstack/kube-lego)
@@ -772,7 +775,7 @@ Projects
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
-* [seldon-core](https://github.com/SeldonIO/seldon-core) - Open source framework for deploying machine learning models on Kubernetes
+* [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重现的机器学习和对kubernetes的深度学习
 * [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
@@ -790,6 +793,7 @@ Projects
 * [GCI](https://cloud.google.com/container-optimized-os/docs/)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
 * [Talos](https://github.com/talos-systems/talos)
+* [k3OS](https://github.com/rancher/k3os)
 
 ## YAML/JSON Config
 

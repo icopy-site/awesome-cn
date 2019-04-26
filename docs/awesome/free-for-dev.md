@@ -26,7 +26,7 @@
     *云存储 -  5GB，1GB网络出口
     * Cloud Pub / Sub  - 每月10GB的邮件
     *云功能 - 每月200万次调用（包括后台和HTTP调用）
-     * Google Kubernetes Engine  - 对于各种规模的群集，不收取群集管理费.  每个用户节点按标准计算引擎定价收费
+     * Google Kubernetes Engine  - 无各种规模集群的集群管理费.  每个用户节点按标准计算引擎定价收费
     * BigQuery  - 每月1 TB的查询，每月10 GB的存储空间
     *云构建 - 每天120分钟
     *云源存储库 - 最多5个用户，50 GB存储，50 GB出口
@@ -92,7 +92,7 @@
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
-  * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
+  * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
@@ -289,6 +289,7 @@
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
   * [paessler.com](https://www.paessler.com/)   - 强大的基础架构和网络监控解决方案，包括警报，强大的可视化功能和基本报告.  最多可释放100个传感器.
+  * [pagertree.com](https://pagertree.com/)   - 用于警报和通话管理的简单界面.  最多可免费使用5个用户.
 
 ## Crash and Exception Handling
 
@@ -298,8 +299,8 @@
 
 ## Search
 
-  * [algolia.com](https://www.algolia.com/) — Hosted search-as-you-type (instant). Free hacker plan up to 10,000 documents and 100,000 operations. Bigger free plans available for community/Open Source projects
-  * [swiftype.com](https://swiftype.com/)   - 托管搜索解决方案（API和爬虫）.  单个搜索引擎免费提供多达1,000个文档.  免费升级到开源的高级别
+  * [algolia.com](https://www.algolia.com/)   - 托管搜索类型（即时）.  免费黑客计划多达10,000个文档和100,000个操作.  为社区/开源项目提供更大的免费计划
+  * [swiftype.com](https://swiftype.com/) — Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to premium level for Open Source
   * [bonsai.io](https://bonsai.io/) - 免费1 GB内存和1 GB存储空间
   * [searchly.com](http://www.searchly.com/) - 免费2个索引和5 MB存储空间
   * [indexisto.com](https://indexisto.com/) - 网站搜索，免费1000万文件索引限制与广告块
@@ -361,7 +362,7 @@
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)   -  SAP提供的内存平台即服务产品.  免费开发人员帐户附带1 GB结构化，1 GB非结构化，1 GB Git数据，并允许您运行HTML5，Java和HANA XS应用程序
   * [mendix.com](https://www.mendix.com/) - 企业快速应用程序开发，无限数量的免费沙箱环境，支持10个用户，100 MB文件和100 MB数据库存储
   * [pythonanywhere.com](https://www.pythonanywhere.com/)   - 云Python应用托管.  初学者帐户是免费的，1个Python web应用程序位于your-username.pythonanywhere.com域，512 MB私有文件存储，一个MySQL数据库
-  * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限，但没有资源限制
+  * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限但没有资源限制
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
@@ -449,7 +450,7 @@
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
    * [spreadsheetdb.io](https://www.spreadsheetdb.io) - 可以使用电子表格，3个电子表格和200行查询的数据库
-     free
+     自由
    * [FaunaDB](https://fauna.com/) -  FaunaDB是一个分布式，多模型，符合ACID标准且可全局扩展的数据库，免费套餐提供5 GB
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
@@ -457,12 +458,12 @@
    * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
-   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
+   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/)   - 将事件转换并路由到其他第三方服务的集线器.  每月100,000活动免费
    * [ngrok.com](https://ngrok.com/) - 通过隧道将本地运行的服务器暴露给公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
    * [serveo.net](https://serveo.net/) - 使用SSH隧道快速将任何本地端口暴露在伺服子域的公共互联网上，包括通过HTTP重放请求的SSH GUI.
-   * [ZeroTier](https://www.zerotier.com)   -  FOSS管理虚拟以太网作为服务.  免费计划的100个客户端的无限端到端加密网络.  桌面/移动/ NA的客户;  用于配置自定义路由规则和批准私有网络上的新客户端节点的Web界面.
+   * [ZeroTier](https://www.zerotier.com)   -  FOSS管理虚拟以太网作为服务.  免费计划中100个客户端的无限端到端加密网络.  桌面/移动/ NA的客户;  用于配置自定义路由规则和批准私有网络上的新客户端节点的Web界面.
    * [Hamachi](https://www.vpn.net/) -  LogMeIn Hamachi是一种托管VPN服务，可让您安全地将类似局域网的网络扩展到分布式团队，免费计划允许最多5人的无限网络
    * [webhookrelay.com](https://webhookrelay.com)   - 管理，调试，扇出并将所有webhook代理到公共或内部（即：localhost）目的地.  此外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080`），通过隧道公开在专用网络中运行的服务器.
 
@@ -537,7 +538,7 @@
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
-  * [photopea.com](https://www.photopea.com) - 免费的高级在线设计编辑器，Adobe Photoshop UI支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
+  * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
 * [pexels.com](https://www.pexels.com/)   - 免费商业照片.  有免费的API，可让您按关键字搜索照片.
 
 ## Data Visualization on Maps
@@ -593,7 +594,7 @@
    * [hotjar.com](https://hotjar.com/) - 每个站点：每天2,000页的视图，3个热图，3个月的数据存储，...
    * [imprace.com](https://imprace.com/)   - 着陆页分析以及提高跳出率的建议.  免费5个登陆页面/域名
    * [optimizely.com](https://optimizely.com) -  A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用程序
-   * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
+   * [expensify.com](https://expensify.com/) - 费用报告，免费个人报告批准工作流程
    * [Moesif](https://www.moesif.com)   -  REST和GraphQL的API分析.  （最多可免费拨打500,000次API调用）
 
 ## Visitor Session Recording
@@ -611,7 +612,7 @@
 
   * [braintreepayments.com](https://braintreepayments.com/)   - 信用卡，Paypal，Venmo，比特币，Apple Pay，...集成.  单笔和经常性付款.  首个50,000美元免费
   * [currencylayer.com](https://currencylayer.com/) - 为您的企业提供可靠的汇率和货币换算，每月免费提供1,000个API请求
-  * [vatlayer.com](https://vatlayer.com/) - 即时增值税号码验证和欧盟增值税率API，每月免费100 API请求
+  * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [fraudlabspro.com](https://www.fraudlabspro.com)   - 帮助商家防止付款欺诈和退款.  免费微计划每月提供500个查询.
 
 ## Docker Related
@@ -631,7 +632,7 @@
   * [apichangelog.com](https://www.apichangelog.com/) - 订阅每次API文档更新时都会收到通知（Facebook，Twitter，Google，...）
   * [docsapp.io](https://www.docsapp.io/) - 为开源免费发布文档的最简单方法
   * [fullcontact.com](https://fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
-  * [formlets.com](https://formlets.com/) — Online forms, unlimited single page forms/month, 100 submissions/month, email notifications
+  * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制
   * [screenshotlayer.com](https://screenshotlayer.com/)   - 捕获任何网站的高度可定制的快照.  每月免费100次快照
   * [screenshotmachine.com](https://screenshotmachine.com/) - 捕获100个快照/月，png，gif和jpg，包括全长捕获，而不仅仅是主页

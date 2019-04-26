@@ -36,6 +36,7 @@
 - [Graphics Shaders: Theory and Practice](https://www.amazon.com/Graphics-Shaders-Theory-Practice-Second/dp/1568814348/) - 一般介绍着色器编程，但侧重于GLSL着色语言.
 - [Anton's OpenGL 4 Tutorials](https://www.amazon.com/gp/product/B00LAMQYF2/) - 使用OpenGL开始3D编程的实用指南.
 - [Physics for JavaScript Games, Animation, and Simulations](http://www.apress.com/us/book/9781430263371) - 教JavaScript程序员如何将真实物理结合到他们的HTML5游戏，动画和模拟中.
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) -  Book教你解决代码中的数学问题.
 
 ## Online Books
 
@@ -43,7 +44,7 @@
 - [WebGL Fundamentals](http://webglfundamentals.org/)   -  WebGL从头开始.  没有魔法.
 - [WebGL 2 Fundamentals](http://webgl2fundamentals.org/)   -  WebGL2从头开始.  没有魔法.
 - [Learn OpenGL](https://learnopengl.com/) - 用于学习Modern OpenGL的广泛教程资源.
-- [Scratchapixel 2.0](http://www.scratchapixel.com/) - Learn Computer Graphics From Scratch.
+- [Scratchapixel 2.0](http://www.scratchapixel.com/) - 从头开始​​学习计算机图形学.
 - [ofBook](http://openframeworks.cc/ofBook/chapters/foreword.html) - 关于openFrameworks的社区书籍/指南.
 - [OGLdev](http://ogldev.atspace.co.uk/) -  Etay Meiri收集的现代OpenGL教程.
 - [OpenGL Tutorial](http://www.opengl-tutorial.org/) - 专门用于OpenGL 3.3及更高版本教程的站点.
@@ -215,10 +216,10 @@
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -  Bruno Imbrizi在WebExpo 2016上使用帆布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者研讨会.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - 关于创建3D游戏OpenG的初学者教程系列.
-- [How We Do This Shit](http://how-we-do-this-shit.com/) - 谈谈技术型艺术家如何在财务上做到这一点.
+- [How We Do This Shit](http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - 我如何学会停止担忧和爱线性代数.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - 由Steven Wittens谈论WebGL，GPU和数学.
-- [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - 扎克利伯曼的激动人心的谈话.
+- [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - Inspiring talk by Zach Lieberman.
 
 
 ### Articles • Tutorials
@@ -377,7 +378,7 @@
 - [Image Kernels](http://setosa.io/ev/image-kernels/) - 图像内核的交互式和可视化介绍.
 - [Sine and Cosine](http://setosa.io/ev/sine-and-cosine/) - 正弦和余弦的交互式探索.
 - [Perlin Noise](https://eev.ee/blog/2016/05/29/perlin-noise/) - 详细解释了Perlin噪音.
-- [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - Tutorial on vector algebra and matrix algebra from the viewpoint of computer graphics.
+- [Vector Math for 3D Computer Graphics](http://programmedlessons.org/VectorLessons/) - 从计算机图形学的角度来看矢量代数和矩阵代数的教程.
 - [Desmos](https://www.desmos.com/) - 图形函数，绘图数据，评估方程，探索变换等等.
 - [MFGD](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWNQjMz941uyOIq3Nw6bcDYC) - 游戏开发者YouTube播放列表的数学.
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - 线性代数YouTube播放列表的精华.

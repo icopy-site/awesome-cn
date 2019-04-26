@@ -150,7 +150,7 @@
 ### Getting started
 
 - [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)   - 现在几乎只使用Drupal作为我的主要选择工具，我被要求使用Wagtail组建一个版本.  通过 [@kiwimind](https://twitter.com/kiwimind).
-- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)   -  Wagtail是Django生态系统中相对较新的CMS.  但是，它的年龄并不妨碍它具有我们将在本文中发现的许多功能.
+- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)   -  Wagtail是Django生态系统中相对较新的CMS.  然而，他的年纪并不妨碍拥有许多功能，我们将在本文中发现.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - 与Wagtail及周边社区广泛合作，我们发现了开发人员在开始使用Wagtail时遇到的一系列常见陷阱.
 
 ### Articles
@@ -167,6 +167,8 @@
 - [Getting started with Draftail extensions](https://thib.me/getting-started-with-draftail-extensions)   - 你想为Draftail写扩展吗？  这是一个很好的起点.
 - [Amplify a Wagtail/Django site](https://parbhatpuri.com/amplify-wagtail-django-site-urls-part-1.html) - 为加速移动页面（AMP）准备Wagtail网站.
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
+- [How to Add Buttons to ModelAdmin Index View](https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/)
+- [How to Prevent Users from Creating Pages by Type](https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/)
 
 ### Recipes
 

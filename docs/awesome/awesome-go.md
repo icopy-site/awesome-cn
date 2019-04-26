@@ -87,7 +87,7 @@
 * [micha](https://github.com/onrik/micha) -  Go Library for Telegram bot api.
 * [slacker](https://github.com/shomali11/slacker) - 易于使用的框架来创建Slack机器人.
 * [tbot](https://github.com/yanzay/tbot) - 具有类似于net / http的API的Telegram bot服务器.
-* [telebot](https://github.com/tucnak/telebot) - 用Go编写的Telegram bot框架.
+* [telebot](https://github.com/tucnak/telebot) - Telegram bot framework written in Go.
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - 简单而干净的Telegram bot客户端.
 * [Tenyks](https://github.com/kyleterry/tenyks) - 使用Redis和JSON进行消息传递的面向服务的IRC bot.
 
@@ -305,6 +305,7 @@
 
 *数据库模式迁移.*
 
+* [avro](https://github.com/khezen/avro)   - 发现SQL模式并将其转换为AVRO模式.  将SQL记录查询为AVRO字节.
 * [darwin](https://github.com/GuiaBolso/darwin) -  Go的数据库模式演化库.
 * [go-fixtures](https://github.com/RichardKnop/go-fixtures) - 用于Golang优秀的内置数据库/ sql库的Django风格装置.
 * [go-pg-migrations](https://github.com/robinjoseph08/go-pg-migrations) -  Go包用go-pg / pg帮助编写迁移.
@@ -814,7 +815,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [spew](https://github.com/davecgh/go-spew) - 为Go数据结构实现深度漂亮的打印机，以帮助调试.
 * [stdlog](https://github.com/alexcesaro/log)   -  Stdlog是一个面向对象的库，提供分层日志记录.  它对于cron作业非常有用.
 * [tail](https://github.com/hpcloud/tail) -  Go包试图模仿BSD尾部程序的功能.
-* [xlog](https://github.com/xfxdev/xlog) -  Go的插件架构和灵活的日志系统，具有级别控制，多个日志目标和自定义日志格式.
+* [xlog](https://github.com/xfxdev/xlog) - Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
 * [xlog](https://github.com/rs/xlog) - 具有灵活调度的“net / context”感知HTTP处理程序的结构化记录器.
 * [zap](https://github.com/uber-go/zap) -  Go中快速，结构化，水平的日志记录.
 * [zerolog](https://github.com/rs/zerolog) - 零分配JSON记录器.
@@ -918,7 +919,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [alice](https://github.com/magic003/alice) -  Golang的附加依赖注入容器.
 * [dig](https://github.com/uber-go/dig) -  Go的基于反射的依赖注入工具包.
-* [fx](https://github.com/uber-go/fx) -  Go的基于依赖注入的应用程序框架（建立在挖掘之上）.
+* [fx](https://github.com/uber-go/fx) - 基于依赖注入的Go应用程序框架（建立在挖掘之上）.
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
 
 ### Project Layout
@@ -1591,7 +1592,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [retry](https://github.com/thedevsaddam/retry) -  Go简单易用的重试机制包.
 * [retry](https://github.com/shafreeck/retry) - 一个非常简单的库，以确保您的工作完成.
 * [retry-go](https://github.com/rafaeljesus/retry-go) - 重试简单易用golang.
-* [robustly](https://github.com/VividCortex/robustly) - Runs functions resiliently, catching and restarting panics.
+* [robustly](https://github.com/VividCortex/robustly) - 弹性运行，捕捉并重启恐慌.
 * [scan](https://github.com/blockloop/scan) - 将golang`sql.Rows`直接扫描到结构，切片或原始类型.
 * [serve](https://github.com/syntaqx/serve) - 您需要的任何地方的静态http服务器.
 * [silk](https://github.com/chrispassas/silk) - 阅读丝绸netflow文件.
@@ -1885,7 +1886,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [lwc](https://github.com/timdp/lwc) -  UNIX wc命令的实时更新版本.
 * [manssh](https://github.com/xwjdsh/manssh) -  manssh是一个命令行工具，可以轻松管理ssh别名配置.
 * [Moby](https://github.com/moby/moby) - 集装箱生态系统的协作项目，以组装基于容器的系统.
-* [Mora](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
+* [Mora](https://github.com/emicklei/mora) - 用于访问MongoDB文档和元数据的REST服务器.
 * [ostent](https://github.com/ostrost/ostent) - 收集并显示系统指标，并可选择中继到Graphite和/或InfluxDB.
 * [Packer](https://github.com/mitchellh/packer) -  Packer是一种从单一来源配置为多个平台创建相同机器映像的工具.
 * [Pewpew](https://github.com/bengadbois/pewpew) - 灵活的HTTP命令行压力测试仪.

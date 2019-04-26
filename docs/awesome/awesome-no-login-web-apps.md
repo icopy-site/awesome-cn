@@ -110,11 +110,11 @@
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - 点对点安全文件共享.
-* [Ge.tt](http://ge.tt/)   - 文件托管服务.  最大限制2gb.
+* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
 * [RGhost](http://rgho.st/) - 文件托管服务，Max限制100mb无需登录.
 * [ImgSafe](https://imgsafe.org/) - 图像托管服务与小直接链接.
 * [Clyp](https://clyp.it/) - 无限制的音频共享，丰富的API.
-* [SendVid](https://sendvid.com/) - 视频托管服务.
+* [SendVid](https://sendvid.com/) - Video hosting service.
 * [Archive.org](https://archive.org/) `[帐户]` - 任何类型的无限文件托管，带宽和上传大小没有限制.
 * [imgh](https://imgh.us/)   - 图像托管服务.  支持所有主要格式.  文件大小限制为16mb.
 * [MultCloud](https://www.multcloud.com/home)   - 云服务，用于在多个云服务之间管理，移动，复制和迁移数据.  支持所有主要的云服务.  无需注册，2TB云存储，直接将大文件下载到云端，没有大小限制.
@@ -146,7 +146,7 @@
 * [BG patterns](http://bgpatterns.com/) - 图案创建工具，允许您从各种形状中进行选择，然后自定义大小，旋转，位置，颜色，纹理等.
 * [IcoMoon](https://icomoon.io/app/) - 一个平台，可以帮助您找到矢量图标包，托管图标作为SVG或字体，并生成所选图标的SVG + PNG +图标字体.
 * [Flaming Text](http://flamingtext.com/) - 在线徽标或名称生成器/创建者，根据您的意愿修改您的徽标，并获得包括PNG和JPEG在内的多种格式.
-
+* [LeanLogoMaker](https://leanlogomaker.com)   - 生成100个徽标，选择您喜欢的并下载.  包括社交媒体网站的封面和个人资料图片.
 
 ### Internet Downloaders
 
@@ -242,7 +242,7 @@
 
 * [Iconfinder](https://www.iconfinder.com/) - 在一个地方下载所有您喜欢的图标.
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - 智能表情符号搜索引擎.
-* [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找RSS源.
+* [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找RSS源。
 * [IWantMyName](https://iwantmyname.com/) - 帮助您搜索所有TLD中的域.
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站类似的网站.
 * [Google Fonts](https://www.google.com/webfonts) - 谷歌收集开源字体.
@@ -304,7 +304,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [is.gd](https://is.gd/) - 将缩短器与自定义URL和开放API（无令牌）链接起来.
 * [Bitly](https://bitly.com/) - 使用REST API强大的URL缩短器.
 * [Superbetize](http://superbetize.com/) - 分类您的购物清单.
-* [isup.me](http://isup.me/) - Check if website is unavailable just for you or everyone else.
+* [isup.me](http://isup.me/) - 检查网站是否仅供您或其他人使用.
 * [Dictation.io](https://dictation.io/) - 支持大量语言的在线语音听写软件.
 * [unfurlr](http://unfurlr.com/) - 检查隐藏在缩短链接后面的URL.
 * [followupthen](https://www.followupthen.com/) - 设置电子邮件提醒的最简单方法.

@@ -40,7 +40,7 @@
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - 图表和图形库，支持缩放，滚动和动画.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 支持按手势缩放和拖动的Android图表和图形库.
 - [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - 绘制创意统计弧图.
-- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
+- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - 数据可视化库，交互式图表.
 
 ### Cloud Services
 
@@ -112,7 +112,7 @@
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) -  Recyclerview适配器库，用于创建可组合的视图持有者.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - 一个易于使用和可自定义的原生Android Snackbar包装器，可在多个活动中保持可见.
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - 针对Android应用程序的内存高效闪烁效果.
-- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - 一个用于为Android创建循环进度条的简单库.
+- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 - [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - 一个简单的ui库，提供可插入的签名视图.
 - [Flashbar](https://github.com/aritraroy/Flashbar) - 适用于Android的高度可定制，功能强大且易于使用的警报库.
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) -  Android的可自定义项目设置视图.
@@ -169,7 +169,7 @@
 
 - [Picasso](https://github.com/square/picasso) - 适用于Android的强大图像下载和缓存库.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - 异步，开箱即用的图像加载和缓存.
-- [Glide](https://github.com/bumptech/glide) - 适用于Android的图像加载和缓存库，专注于平滑滚动，由Google推荐.
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - 用于管理图像及其使用内存的Android库.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) -  Glide Bitmap Pool是一个用于重用位图内存的内存管理库.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) -  Android库，可让您为Android选择多个图像，视频或语音
@@ -461,6 +461,7 @@
 
 ## Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 一系列令人敬畏的Android教程，视频和性能优化工具.
+- [Booster](https://github.com/didi/booster) -  Booster是Android应用程序的优化工具包.
 
 ## Other Awesome Lists
 其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.

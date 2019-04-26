@@ -18,6 +18,7 @@
 
 - 如果[$]，这意味着它不是免费的，可能意味着我没有尝试过，但仍然决定添加它，因为有几个引用.
 - 这个回购曾经一次 [#1 on Github Trending](https://medium.com/@mezood/making-money-from-your-own-code-has-never-been-easier-but-its-still-hard-2242ddaae6a1)! :_)
+- [Icepy](https://github.com/icepy) 把这个回购翻译成了 [Chinese](https://github.com/icepy/awesome-indie) :)
 
 <!-- In general, I'd be wary of the several paid content-like products specially targeted to indie devs, so unless you can prove their value I'd like to keep them off of this list as much as possible. -->
 
@@ -46,11 +47,11 @@
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  由独立制造商组成的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问的成本为249美元.  我不是会员，所以我不能亲自支持.  一般来说，我对针对独立制造商的产品持怀疑态度，但我仍然认为由于交叉引用而添加此特定产品是相关的.  有些人可能会觉得有趣.  随意参考评论！
+  由独立制造商组成的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问的成本为249美元.  我不是会员，所以我不能亲自认可.  一般来说，我对针对独立制造商的产品持怀疑态度，但我仍然认为由于交叉引用而添加此特定产品是相关的.  有些人可能会觉得有趣.  随意参考评论！
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
-  FounderCafe是一个受邀请的在线社区企业家，帮助彼此成功运营 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) .  每3个月99美元.  我不是会员，所以我不能亲自支持.
+  FounderCafe是一个受邀请的在线社区企业家，帮助彼此成功运营 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) .  每3个月99美元.  我不是会员，所以我不能亲自认可.
   
 - **[Nugget.one](https://nugget.one/)** [$]
 

@@ -965,7 +965,7 @@ AWS指南：
 ### Books
 
 *亚马逊网络服务在行动 [Manning](https://www.manning.com/books/amazon-web-services-in-action) 要么 [Amazon.com](http://amzn.com/1617292885)
-* AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) 要么 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) 要么 [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
 
