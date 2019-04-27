@@ -64,7 +64,7 @@
 
 ### Settings management
 
-- [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
+- [Wagtail-Constance](https://github.com/MechanisM/wagtail-constance) -  Wagtail CMS的django-constance集成.
 - [Wagtail-Flags](https://github.com/cfpb/wagtail-flags) -  Wagtail网站的功能标志.
 
 ### E-commerce
@@ -100,7 +100,7 @@
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)   - 简单的应用程序，类似于wagtailimages，但用于嵌入来自SoundCloud的YouTube和Vimeo视频和音乐.  这是一个整合 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - 使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
-- [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - 制作Wagtail搜索文档内容（PDF，Excel和Word等）.
+- [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
 
 ### Translations
 
@@ -150,7 +150,7 @@
 ### Getting started
 
 - [Getting started in Wagtail, a newcomer's perspective](https://wagtail.io/blog/getting-started-wagtail-newcomers-perspective/)   - 现在几乎只使用Drupal作为我的主要选择工具，我被要求使用Wagtail组建一个版本.  通过 [@kiwimind](https://twitter.com/kiwimind).
-- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)   -  Wagtail是Django生态系统中相对较新的CMS.  然而，他的年纪并不妨碍拥有许多功能，我们将在本文中发现.
+- [Présentation de Wagtail, le dernier CMS Django](https://makina-corpus.com/blog/metier/2016/presentation-de-wagtail-le-dernier-cms-django)   -  Wagtail是Django生态系统中相对较新的CMS.  但是，它的年龄并不妨碍它具有我们将在本文中发现的许多功能.
 - [Getting Started With Wagtail](https://vix.digital/insights/getting-started-wagtail/) - 与Wagtail及周边社区广泛合作，我们发现了开发人员在开始使用Wagtail时遇到的一系列常见陷阱.
 
 ### Articles
@@ -251,6 +251,7 @@
 - [Wagtail Wednesdays #05 - How to organise your fields and streamline the editor experience](https://www.youtube.com/watch?v=CedcZmQ9KHs) -  Chelsea将指导您完成组织字段的过程，以便更轻松地管理字段并简化编辑器体验.
 - [Wagtail Wednesdays #06 - Creating & using custom settings in your wagtail site](https://www.youtube.com/watch?v=KJWCGq3IRNc) -  Chris通过设置和使用自定义网站设置向您介绍.
 - [Wagtail Wednesdays #07 - How to Enable the Wagtail Styleguide](https://www.youtube.com/watch?v=_CfU9UivYPI) - 这是一个非常有用的资源，它可以毫不费力地启用它，它允许您根据指南检查组件并显示所有可用的Wagtail图标.
+- [How to Deploy Wagtail to Google App Engine](https://www.youtube.com/watch?v=uD9PTag2-PQ) - 焦点是谷歌云平台，但很好地介绍了如何在他们的PAAS中运行Wigtail.
 
 ### Showcases
 

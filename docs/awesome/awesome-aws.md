@@ -332,7 +332,7 @@ AWS Repos：
 社区回购：
 
 * [Appliscale/perun](https://github.com/Appliscale/perun) - 用于linting / validation和管理CloudFormation模板和堆栈的CLI工具.
-* [bazaarvoice/cloudformation-ruby-dsl :fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - 用于创建模板的Ruby DSL.
+* [bazaarvoice/cloudformation-ruby-dsl :fire::fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - 用于创建模板的Ruby DSL.
 * [beaknit/cform](https://github.com/beaknit/cform) -  SublimeText插件.
 * [cloudreach/sceptre :fire::fire::fire:](https://github.com/cloudreach/sceptre) - 用于自动化CloudFormation的CLI工具.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - 用于创建描述的Python库.

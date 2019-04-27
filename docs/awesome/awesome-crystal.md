@@ -141,9 +141,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -  SQLite3绑定
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -  EventQL驱动程序
  * [leveldb](https://github.com/crystal-community/leveldb) -  LevelDB的Crystal绑定
- * [mongo.cr](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
+ * [mongo.cr](https://github.com/datanoise/mongo.cr) - 绑定MongoDB C驱动程序
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) -  RocksDB客户端
- * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) -  Tarantool司机
+ * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) - Tarantool driver
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - 数据库迁移工具
@@ -151,6 +151,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [migro](https://github.com/aisrael/migro) - 数据库迁移工具，允许在YAML或原始SQL中指定迁移
 
 ## Development Tools
+ * [docker-crystal](https://github.com/aca-labs/docker-crystal) -  Crystal CLI的Docker包装器
  * [guardian](https://github.com/f/guardian) -  Crystal和非Crystal库的文件更改监视器
  * [kemal-watcher](https://github.com/faustinoaq/kemal-watcher) -  Kemal插件可以观看文件并实时重新加载浏览器
  * [sentry](https://github.com/samueleaton/sentry) - 观察src文件，在文件更改时重建/重新运行应用程序
@@ -278,7 +279,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
@@ -303,7 +304,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [markd](https://github.com/icyleaf/markd) - 另一种为速度而构建的降价解析器，符合CommonMark规范
 
 ## Misc
- * [aasm.cr](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
+ * [aasm.cr](https://github.com/veelenga/aasm.cr) - 易于使用有限状态机的水晶类
  * [any_hash.cr](https://github.com/Sija/any_hash.cr) - 使用更好的JSON ::任何包含的递归哈希
  * [atomic_write.cr](https://github.com/chris-huxtable/atomic_write.cr) - 用于以原子方式编写或添加文件的库
  * [burocracia.cr](https://github.com/vnbrs/burocracia.cr) -  burocracia.cr dependecyless shard用于验证，生成和格式化巴西burocracias，如CPF，CNPJ和CEP
@@ -311,6 +312,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 实现断路器模式
  * [compiled_license](https://github.com/elorest/compiled_license) - 在没有代码的情况下将二进制文件复制到系统或容器时，将许可证编译为二进制文件以便与MIT兼容
  * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
+ * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -  Crystal的Web框架，大部分都出自Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - 表情符号库
  * [hoop](https://github.com/0x73/hoop) - 构建本机OSX应用程序
@@ -549,7 +551,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -  Atom中的Crystal语言支持
  * Emacs
    * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - 对Emacs的Crystal语言支持
-   * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) 在Emacs中集成
+   * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
  * [scry](https://github.com/crystal-lang-tools/scry) -  Crystal实现的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) -  Crystal的Spacemacs贡献层

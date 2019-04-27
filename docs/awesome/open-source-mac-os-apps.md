@@ -52,7 +52,7 @@
 - [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
 - [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
-- [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一款基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
+- [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一个基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos)   -  Scrobble乙烯基，收音机，电影到Last.fm.  ！[objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora)   - 最小，设计精美的macOS音乐播放器.  ！[objective_c_icon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu)   - 菜单栏中的Spotify和iTunes.  ！[objective_c_icon]！[swift_icon] 
@@ -247,7 +247,7 @@
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)   - ✨用于macOS的Finder工具栏应用程序，用于打开终端，iTerm或Hyper中的当前目录.  ！[swift_icon] 
 
 ### Games
-- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)   - 回合制战术策略游戏，包括单人和在线多人战斗.  ！[cpp_icon] 
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)  taken  - 基于回iy夸的战敏策略游戏，Nigeria is-Agent and谷zi质filled：单挑闻reyLL Embodiments verified.  ！[cpp_icon] 
 - [Boxer](https://github.com/alunbestor/Boxer)   -  DOS游戏模拟器适合您的Mac.  ！[cpp_icon]！[objective_c_icon] 
 - [Dolphin](https://github.com/dolphin-emu/dolphin)   - 适用于任天堂GameCube和Wii游戏的强大模拟器.  ！[cpp_icon] 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu)   - 针对macOS的复古视频游戏模拟.  ！[objective_c_icon] 
@@ -282,7 +282,7 @@
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  ！[swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha)   - 用于pngquant，pngnq和posterizer的Mac GUI.  ！[objective_c_icon]！[python_icon] 
 - [Imagine](https://github.com/meowtec/Imagine)   -  Imagine是一款用于压缩PNG和JPEG的桌面应用程序，具有现代友好的UI.  ！[type_script_icon] 
-- [Katana](https://github.com/bluegill/katana)   -  Katana是一个简单的macOS截图工具，位于您的菜单栏中.  ！[javascript_icon]！[css_icon] 
+- [Katana](https://github.com/bluegill/katana)   -  Katana是一个简单的macOS截图工具，位于你的菜单栏中.  ！[javascript_icon]！[css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer)   - 用于在磁盘上查找和丢失遗忘照片的macOS应用程序.  ！[swift_icon] 
 - [Screenbar](https://github.com/crilleengvall/Screenbar)   - 用于自动截屏的macOS菜单栏应用程序.  ！[swift_icon] 
 - [WebPonize](https://github.com/1000ch/WebPonize)   -  WebPonize是一个macOS应用程序，用于将PNG，JPEG，动画（或非动画）GIF图像转换为WebP.  ！[swift_icon]！[c_icon] 
@@ -340,7 +340,7 @@
 - [hacker-menu](https://github.com/jingweno/hacker-menu)   - 黑客新闻发送到桌面.  ！[javascript_icon] 
 
 ### Notes
-- [Boostnote](https://github.com/BoostIO/Boostnote)   - 为像你一样的程序员制作笔记记录应用程序.  ！[javascript_icon] 
+- [Boostnote](https://github.com/BoostIO/Boostnote)   - 为像您一样的程序员制作笔记记录应用程序.  ！[javascript_icon] 
 - [FSNotes](https://github.com/glushchenko/fsnotes)   -  macOS / iOS的Notes管理器：类固醇的现代符号速度（nvALT）.  ！[swift_icon] 
 - [FromScratch](https://github.com/Kilian/fromscratch)   - 小应用程序，您可以用作快速笔记或todo应用程序.  ！[javascript_icon]！[css_icon] 
 - [Jupyter Notebook Viewer](https://github.com/tuxu/nbviewer-app)   - 用于macOS的Notebook查看器.  ！[swift_icon] 
@@ -433,7 +433,7 @@
 - [Goofy](https://github.com/danielbuechele/goofy)   - 非官方Facebook Messenger客户端.  ！[javascript_icon] 
 - [Leviathan](https://github.com/Swiftodon/Leviathan)   -  Leviathan是Mastodon社交网络的iOS和macOS客户端应用程序.  ！[swift_icon] 
 - [Messenger](https://github.com/rsms/fb-mac-messenger)   - 用于桌面的Facebook的Messenger的macOS应用程序.  ！[objective_c_icon] 
-- [Product Hunt](https://github.com/producthunt/producthunt-osx)   -  macO官方产品寻宝应用程序 - 分享和发现您最喜欢的新产品和应用程序.  ！[swift_icon] 
+- [Product Hunt](https://github.com/producthunt/producthunt-osx)   -  macO官方产品寻宝应用程序 - 分享并发现您最喜欢的新产品和应用程序.  ！[swift_icon] 
 - [Quail](https://github.com/1000ch/quail) - 非正式 [esa](https://esa.io)  应用程序.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)   - 非官方Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo)   -  macOS菜单栏应用程序快速发布状态.  ！[ruby_icon] 
@@ -448,7 +448,7 @@
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me)   - 小型macOS应用程序，充当系统清理程序（日志，缓存，...）.  ！[swift_icon] 
 - [Diagnostics](https://github.com/macmade/Diagnostics)   -  Diagnostics是一个显示来自macOS上的应用程序的诊断报告的应用程序.  ！[swift_icon] 
 - [DisableMonitor](https://github.com/Eun/DisableMonitor)   - 在Mac上轻松禁用或启用显示器.  ！[objective_c_icon] 
-- [EtreCheck](https://github.com/etresoft/EtreCheck)   -  EtreCheck是一款易于使用的macOS应用程序，用于显示系统配置的重要细节，并允许您将该信息复制到剪贴板.  ！[objective_c_icon] 
+- [EtreCheck](https://github.com/etresoft/EtreCheck)   -  EtreCheck是一款易于使用的macOS应用程序，可显示系统配置的重要细节，并允许您将该信息复制到剪贴板.  ！[objective_c_icon] 
 - [Fanny](https://github.com/DanielStormApps/Fanny)   - 从通知中心监控Mac的风扇速度和CPU温度.  ！[objective_c_icon] 
 - [HoRNDIS](https://github.com/jwise/HoRNDIS)   - 适用于macOS的Android USB网络共享驱动程序.  ！[cpp_icon] 
 - [Juice](https://github.com/brianmichel/Juice)   - 让您的电池信息更有趣.  ！[swift_icon] 
@@ -477,6 +477,7 @@
 ### Touch Bar
 - [Muse](https://github.com/xzzz9097/Muse)   - 使用TouchBar支持Spotify控制器.  ！[swift_icon] 
 - [MyTouchbarMyRules](https://github.com/toxblh/MTMR)   - 应用程序，以根据需要自定义您的触摸栏.  ！[swift_icon] 
+- [Pock](https://github.com/pigigaldi/Pock)   - 在触摸栏中显示macOS Dock.  ！[swift_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
 - [Touch Emoji](https://github.com/lm-a/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
@@ -555,7 +556,7 @@
 
 ### Window Management
 - [Amethyst](https://github.com/ianyh/Amethyst)   -  macOS的自动平铺窗口管理器.  ！[swift_icon] 
-- [AppGrid](https://github.com/sdegutis/AppGrid)   - 用于macOS的基于网格的键盘窗口管理器.  ！[objective_c_icon] 
+- [AppGrid](https://github.com/mjolnirapp/AppGrid)   - 用于macOS的基于网格的键盘窗口管理器.  ！[objective_c_icon] 
 - [Desktop Profiles](https://github.com/mamiksik/Desktop-Profiles) - 用于macOS的创新桌面/窗口管理器！[swift_icon] 
 - [Hammerspoon](https://github.com/Hammerspoon/hammerspoon)   - 使用Lua强大的macOS桌面自动化功能.  ！[lua_icon]！[objective_c_icon] 
 - [Phoenix](https://github.com/kasper/phoenix)   - 使用JavaScript编写脚本的轻量级macOS窗口和应用程序管理器.  ！[objective_c_icon] 

@@ -129,7 +129,7 @@
  * [termbox](https://github.com/nsf/termbox)   - 用于编写基于文本的用户界面的AC库.  [MIT]
 
 ## Compression
-*Compression and Archiving Libraries*
+*压缩和存档库*
 
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
@@ -165,13 +165,14 @@
 * [CUB](https://github.com/NVlabs/cub)   -  CUB为​​CUDA编程模式的每一层提供最先进的，可重复使用的软件组件.  [新BSD]
 * [cupla](https://github.com/ComputationalRadiationPhysics/cupla)   - 通过Alpaka在OpenMP，Threads，TBB上运行CUDA / C ++的C ++ API.  [LGPLv3 +]
 * [C++React](https://github.com/schlangster/cpp.react)   -  C ++ 11的反应式编程库.  [促进]
+* [FiberTaskingLib](https://github.com/RichieSams/FiberTaskingLib)   - 基于任务的多线程库，支持具有任意依赖性的任务图.  [阿帕奇]
 * [Intel Games Task Scheduler](https://github.com/GameTechDev/GTS-GamesTaskScheduler)   - 专为游戏开发人员的需求而设计的任务调度框架.  [MIT]
 * [Intel Parallel STL](https://github.com/intel/parallelstl)   - 用于C ++ 11及更高版本的英特尔®C++ 17 STL实现.  [Apache2的]
 * [Intel TBB](https://www.threadingbuildingblocks.org/)   - 英特尔®线程构建模块.  [Apache2的]
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)   - 基于OpenCL的GPU加速SPH流体模拟库.  [MIT]
-* [libdill](https://github.com/sustrik/libdill/) - 在C中引入结构化并发.[MIT]
+* [libdill](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. [MIT]
 * [libdispatch](https://github.com/apple/swift-corelibs-libdispatch)   - 由Apple Inc.开发的Grand Central Dispatch（GCD）是一种基于线程池模式的任务并行技术.  libdispatch是一个提供GCD服务实现的库.  [Apache的2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 * [libmill](https://github.com/sustrik/libmill/) - 在C中引入Go风格的并发性.[MIT]
 * [moderngpu](https://github.com/moderngpu/moderngpu)   -  moderngpu是GPU上通用计算的生产力库.  它是为CUDA编写的仅标头C ++库.  该库的独特价值在于其加速原语，用于解决不规则并行问题.  [FreeBSD和版权所有，Sean Baxter]
@@ -278,6 +279,7 @@
 * [MinUnit](https://github.com/siu/minunit)   - 单个头文件中自包含C的最小单元测试框架.  [MIT]
 * [Mockator](http://www.mockator.com) - 用于C ++ Seams和Mock对象的Eclipse CDT插件.
 * [Nanotimer](https://github.com/mattreecebentley/plf_nanotimer)   - 用于基准测试的简单低开销跨平台计时器类.  [ZLIB] [website](http://www.plflib.org/nanotimer.htm)
+* [Nonius](https://github.com/libnonius/nonius)   -  C ++微基准测试框架.  [CC]
 * [Remotery](https://github.com/Celtoys/Remotery)   - 带有Web Viewer的单C文件分析器.  [Apache2的]
 * [UnitTest++](https://github.com/unittest-cpp/unittest-cpp) - A lightweight unit testing framework for C++. [MIT/X Consortium license]
 * [Unity](https://github.com/ThrowTheSwitch/Unity) -  C的简单单元测试[MIT]

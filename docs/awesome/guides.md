@@ -175,6 +175,7 @@
 ### Git
 
 + [Git Style Guide](https://github.com/agis/git-style-guide#readme)
++ [Commit messages guide](https://github.com/RomuloOliveira/commit-messages-guide#readme)
 
 ### JSON
 

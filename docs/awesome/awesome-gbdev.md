@@ -237,7 +237,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [ZGB](https://github.com/Zal0/ZGB) - 为原始Game Boy创建游戏的小引擎（扩展gbdk，更多信息 [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 - [DevSound](https://github.com/DevEd2/DevSound) - 可插入自制软件中的声音驱动程序，支持脉冲宽度操作，琶音和多个波形.
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - 音乐引擎.
-- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -  HTML5 / JS Web应用程序，它将位图图像转换为适用于基于图块的图形应用程序（尤其是GB）的十六进制数据.
+- [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -  HTML5 / JS Web应用程序，它将位图图像转换为适用于基于图块的图形应用程序（特别是GB）的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -  Game Boy Tile Designer和Game Boy Map Builder工具的一些来源和主页.
 - [GBTiles](https://github.com/bashaus/gbtiles) - 将使用Harry Mulder的平铺设计器（GBTD）创建的.GBR文件和使用Harry Mulder的地图生成器（GBMB）创建的.GBM文件转换为不同的格式，以便与Game Boy和GBDK一起使用.
 - [GBT PLAYER](https://github.com/AntonioND/gbt-player) - 音乐播放器库和转换器套件可与RGBDS一起使用.
@@ -395,6 +395,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Guns & Riders](https://github.com/kanfor/gunsridersgameboy)
 - [Dino's Offline Adventure](https://github.com/gingemonster/DinosOfflineAdventure) -  Google Chrome离线游戏的克隆版
 - [dino-gb](https://github.com/rnegron/dino-gb) -  Chrome游戏的另一个克隆版本
+- [Evoland.gb](https://github.com/flozz/evoland.gb) -  Evoland第一级的港口.
 
 ### Demos
 
@@ -454,7 +455,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Pokemon Pocket Computer:](https://tilde.town/~minerobber/techwriteups/pokemonpc.html) - 它是什么以及如何使用它来制作作弊码.
 - [Booting the Game Boy with a custom logo](https://dhole.github.io/post/gameboy_custom_logo/) - 绕过任天堂徽标检查.
   - 在2017年制作一款Game Boy游戏：“绵羊吧！”  死后（[part 1](https://www.gamasutra.com/blogs/DoctorLudos/20171207/311143/), [part 2](https://www.gamasutra.com/blogs/DoctorLudos/20180213/314554/))
-- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒必须显示真实的徽标才能被认为有效并且可以运行，但显然有些公司设法利用了检查系统.
+- [Nintendo's fake logos](http://fuji.drillspirits.net/?post=87) - 每个墨盒都必须显示真实的徽标才能被认为有效并且可以运行，但显然有些公司设法利用了检查系统.
 - [liblsdj](https://github.com/stijnfrishert/liblsdj) - 用于与LSDj保存格式（.sav），歌曲文件（.lsdsng）等进行交互的实用程序库.
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) - 用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) - 使用STAT中断做一些有趣的视频操作的一些小实验.
