@@ -85,7 +85,7 @@
 - [nrm](https://github.com/Pana/nrm) - 注册管理机构.
 - [npm-register](https://github.com/dickeyxxx/npm-register) - 易于设置和维护npm注册表和代理.
 - [verdaccio](https://github.com/verdaccio/verdaccio) - 轻量级私人npm代理注册表.
-- [cloudsmith](https://cloudsmith.io/f/open_source/) - 完全托管的包管理SaaS，支持npm注册表（以及许多其他注册表）.
+- [cloudsmith](https://cloudsmith.io/l/npm-registry/) - 完全托管的包管理SaaS，支持公共和私有npm注册表（以及许多其他）.
 
 ### Other
 

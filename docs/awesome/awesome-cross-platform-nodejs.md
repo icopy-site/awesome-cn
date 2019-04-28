@@ -15,7 +15,7 @@
 - [Core Node.js documentation](https://nodejs.org/en/docs/) - 特别是 [`os`](https://nodejs.org/api/os.html), [`path`](https://nodejs.org/api/path.html), [`fs`](https://nodejs.org/api/fs.html), [`process`](https://nodejs.org/api/process.html) 和 [`child_process`](https://nodejs.org/api/child_process.html) 模块.
 - [Cross-platform Node.js guide](https://github.com/ehmicky/cross-platform-node-guide) - 如何编写跨平台的Node.js代码.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) - 在Microsoft平台上使用Node.js的提示，技巧和资源.
-- [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - 一个很好的教程，涵盖了编写跨平台代码时出现的许多常见问题：路径创建，脚本执行，换行符.
+- [Writing Cross-Platform Node.js](http://shapeshed.com/writing-cross-platform-node/) - 精彩的教程，涵盖编写跨平台代码时出现的许多常见问题：路径创建，脚本执行，换行符.
 
 ## Applications
 
@@ -49,7 +49,7 @@
 
 ### Databases
 
-- [Redis](https://github.com/tporadowski/redis) - 适用于Windows的Redis本机端口.
+- [Redis](https://github.com/tporadowski/redis) -  Redis for Windows的本机端口.
 
 ## Libraries
 
@@ -68,7 +68,7 @@
 - [shelljs](https://github.com/shelljs/shelljs) - 跨平台的Unix shell命令.
 - [node-windows](https://github.com/coreybutler/node-windows) -  Windows支持Node.js脚本（守护进程，事件日志，UAC等）.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -  Windows回退的各种日志级别的彩色符号.
-- [figures](https://github.com/sindresorhus/figures) - 带有Windows回退的Unicode符号.
+- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 跨平台复制/粘贴.
 
 ### Environment
@@ -133,7 +133,7 @@
 ## Contributing
 
  这个项目是用❤️制作的.  最简单的回馈方式是主演和
-sharing it online.
+在线分享.
 
 如果文档不清楚或有拼写错误，请点击页面的“编辑”
 按钮（铅笔图标）并建议更正.

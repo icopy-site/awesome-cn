@@ -68,7 +68,7 @@
 ## LiveIP
 *音频/视频IP和流媒体*
 
-* [butt](https://danielnoethen.de/)   - 使用此工具（butt）进行广播是一种易于使用的多操作系统流媒体工具.  它支持SHOUTcast和Icecast.
+* [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
 * [Cool Mic](https://coolmic.net/) -  Android音频直播Icecast源客户端应用.
 * [DarkIce](http://www.darkice.org/) - 从音频接口记录和编码的实时音频流，并发送到流服务器.
 * [Icecast](http://icecast.org/) - 支持Ogg（Vorbis和Theora），Opus，WebM和MP3的流媒体（音频/视频）服务器.
@@ -84,7 +84,7 @@
 * [IDJC](http://idjc.sourceforge.net/) - 拥有两个主要媒体播放器的GTK + Shoutcast / Icecast客户端.
 * [Kodi](https://github.com/xbmc/xbmc) - 用于数字媒体的软件媒体播放器和娱乐中心.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) -  HTML5播放器专注于可访问性.
-* [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
+* [MPD](https://www.musicpd.org/) - 用于播放音乐的灵活，强大的服务器端应用程序.
 * [mpg123](https://www.mpg123.de/) - 快速控制台MPEG音频播放器和解码器库.
 * [Mixxx](https://www.mixxx.org/) - 免费的开源DJ软件.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - 基于浏览器的音频波形可视化.
@@ -107,7 +107,7 @@
 
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - 为主观音频质量评估创建基于浏览器的听力测试的框架.
 * [Jack Meter](https://github.com/njh/jackmeter) - 用于JACK的基于文本控制台的DPM（数字峰值仪表）.
-* [JACK Meterbridge](http://plugin.org.uk/meterbridge/) -  JACK图形音频表的集合.
+* [JACK Meterbridge](http://plugin.org.uk/meterbridge/) -  JACK的图形音频表的集合（弹道可能不正确）.
 * [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) -  JACK图形音频表的集合，包括VU，PPM和 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度米.
 * [LTC-tools](https://github.com/x42/ltc-tools) - 处理线性时间码（LTC）并转换为MIDI时间码（MTC）的工具集合.
 * [MediaConch](https://mediaarea.net/MediaConch/) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
@@ -198,7 +198,7 @@
 * [MIDIMonster](https://github.com/cbdevnet/midimonster) - 用于常见节目控制协议的轻量级适配器工具.
 * [MOS-connection](https://github.com/nrkno/tv-automation-mos-connection) - 用于连接和MOS消息传递的JavaScript库，可作为MOS设备或NRCS.
 * [Open Lighting Architecture (OLA)](https://www.openlighting.org/ola/) - 用于照明行业的旅行适配器，用于互连DMX-512，IP和USB.
-* [PiClock](https://github.com/simonhyde/PiClock) - 可定制的基于网络的时钟，播出，麦克风现场和其他演播室指示器的显示.
+* [PiClock](https://github.com/simonhyde/PiClock) - 可定制的基于网络的时钟，播出，麦克风现场和其他工作室指示器的显示.
 * [Q Light Controller+ (QLC+)](https://www.qlcplus.org/) -  DMX或模拟照明系统（磁头，调光器等）的跨平台控制.
 * [Teleprompter](https://github.com/ImaginarySense/Teleprompter-Core) -  Web浏览器和独立的Electron app提示器.
 

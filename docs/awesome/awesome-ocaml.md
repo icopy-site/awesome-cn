@@ -192,7 +192,7 @@
 
 -  **外部函数接口**：
   - [ctypes](https://github.com/ocamllabs/ocaml-ctypes) - 使用纯OCaml绑定到C库的库.
-  - [ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c) - 用于制作混合C / Ocaml二进制文件的示例构建系统，其中主程序位于C中.
+  - [ocaml-main-program-in-c](https://github.com/johnwhitington/ocaml-main-program-in-c) - 用于制作混合C / Ocaml二进制文件的示例构建系统，其中主程序在C中.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
   - [Py.ml](https://github.com/thierry-martinez/pyml) - 用于Python的OCaml绑定.
 -  **编辑整合**：
@@ -265,6 +265,7 @@
 - [TSDL](http://erratique.ch/software/tsdl) -  Tsdl是一个OCaml模块，为跨平台SDL库提供精简绑定.
 - [Lambda-Term](https://github.com/ocaml-community/lambda-term)   -  Lambda-Term是一个用于操纵终端的跨平台库.  它提供了键，鼠标事件，颜色的抽象，以及一组用于编写类似curses的应用程序的小部件.
 - [Notty](https://github.com/pqwy/notty) -  Notty是OCaml的声明性终端库，围绕可组合图像的概念构建.
+- [ocaml-linenoise](https://github.com/ocaml-community/ocaml-linenoise) - 独立的OCaml绑定到lineamise，简单的OCaml高级读取线功能.
 
 
 ## Language-related
@@ -471,7 +472,7 @@
 
 - **构架**：
   - [Opium](https://github.com/rgrinberg/opium) -  Sinatra喜欢OCaml的web工具包.
-  - [Ocsigen Eliom](http://ocsigen.org/eliom/)   -  Eliom是一个功能齐全的多层框架，用于开发多平台Web和移动应用程序，作为100％OCaml分布式应用程序.  它还可以用于更传统的Web或移动应用程序：Web站点，单页面应用程序，REST API等.
+  - [Ocsigen Eliom](http://ocsigen.org/eliom/)   -  Eliom是一个功能齐全的多层框架，用于开发多平台Web和移动应用程序，作为100％OCaml分布式应用程序.  它还可以用于更传统的Web或移动应用程序：网站，单页面应用程序，REST API等.
   - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine)   -  OCaml的REST工具包.  OCaml webmachine是cohttp之上的一个层，它实现了一个基于状态机的HTTP请求处理器.  它特别适合编写RESTful API.  顾名思义，这是webmachine项目的OCaml端口.
 
 -  **工具**：

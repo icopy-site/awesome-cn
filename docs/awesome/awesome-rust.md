@@ -140,7 +140,7 @@ Rust代码和资源的精选列表.
 * [brycx/checkpwn](https://github.com/brycx/checkpwn) -  A Have I Pwned（HIBP）命令行实用工具，可让您轻松检查受损帐户和密码.
 * [whitfin/s3-concat](https://github.com/whitfin/s3-concat) - 使用灵活模式远程连接Amazon S3文件的命令行工具.
 * [whitfin/s3-meta](https://github.com/whitfin/s3-meta) - 用于收集有关Amazon S3存储桶的元数据的命令行工具.
-* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，可以帮助您管理您的工作站，让您远离屏幕，当您不在OPENCV的其他地方时锁定您的屏幕！
+* [amar-laksh/workstation](https://github.com/amar-laksh/workstation) - 一个命令行工具，通过将您与屏幕隔开来帮助您管理工作站，当您不在OPENCV的其他地方时锁定屏幕！
 * [fcsonline/tmux-thumbs](https://github.com/fcsonline/tmux-thumbs) - 用Rust编写的快速版本的tmux-fingers，复制/粘贴tmux，如vimium / vimperator.
 
 ### Video
@@ -216,7 +216,7 @@ Rust代码和资源的精选列表.
   * [lldb_batchmode.py](https://github.com/rust-lang/rust/blob/master/src/etc/lldb_batchmode.py) - 允许以类似于GDB批处理模式的方式使用LLDB.
   * [CodeLLDB](https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb) -  LLDB扩展名 [Visual Studio Code](https://code.visualstudio.com/).
 * rr
-  * [rr](https://rr-project.org/) -  rr是一个轻量级工具，用于记录和重放应用程序的执行
+  * [rr](https://rr-project.org/) — rr is a lightweight tool for recording and replaying execution of applications
 
 ### Deployment
 
@@ -550,6 +550,7 @@ Rust代码和资源的精选列表.
 
 [[crypto](https://crates.io/keywords/crypto), [cryptography](https://crates.io/keywords/cryptography)]
 
+* [sequoia-pgp/sequoia](https://gitlab.com/sequoia-pgp/sequoia) -  Rust中的OpenPGP实现
 * [ctz/rustls](https://github.com/ctz/rustls) -  TLS的Rust实现
 * [klutzy/suruga](https://github.com/klutzy/suruga) -  Rust的一个实现 [TLS 1.2](https://tools.ietf.org/html/rfc5246)
 * [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe) - 提供多种基于属性的加密（ABE）方案的库
@@ -666,7 +667,7 @@ Rust代码和资源的精选列表.
 *二进制
   * [arcnmx/nue](https://raw.githubusercontent.com/arcnmx/nue) -  Rust的I / O和二进制数据编码 [<img src="https://api.travis-ci.org/arcnmx/nue.svg?branch=master">](https://travis-ci.org/arcnmx/nue)
   * [TyOverby/bincode](https://raw.githubusercontent.com/TyOverby/bincode) -  Rust中的二进制编码器/解码器 [<img src="https://api.travis-ci.org/TyOverby/bincode.svg?branch=master">](https://travis-ci.org/TyOverby/bincode)
-  * [m4b/goblin](https://raw.githubusercontent.com/m4b/goblin) [[goblin](https://crates.io/crates/goblin)] —  cross-platform, zero-copy, and endian-aware binary parsing [<img src="https://api.travis-ci.org/m4b/goblin.svg?branch=master">](https://travis-ci.org/m4b/goblin)
+  * [m4b/goblin](https://raw.githubusercontent.com/m4b/goblin) [[goblin](https://crates.io/crates/goblin)]  - 跨平台，零拷贝和字节序感知的二进制解析 [<img src="https://api.travis-ci.org/m4b/goblin.svg?branch=master">](https://travis-ci.org/m4b/goblin)
 * BSON
   * [zonyitoo/bson-rs](https://raw.githubusercontent.com/zonyitoo/bson-rs) — [<img src="https://api.travis-ci.org/zonyitoo/bson-rs.svg?branch=master">](https://travis-ci.org/zonyitoo/bson-rs)
 *字节交换
@@ -674,7 +675,7 @@ Rust代码和资源的精选列表.
 * Cap&#39;n Proto
   * [capnproto/capnproto-rust](https://raw.githubusercontent.com/capnproto/capnproto-rust) — [<img src="https://api.travis-ci.org/capnproto/capnproto-rust.svg?branch=master">](https://travis-ci.org/capnproto/capnproto-rust)
 * CBOR
-  * [BurntSushi/rust-cbor](https://raw.githubusercontent.com/BurntSushi/rust-cbor) - 支持JSON转换和基于类型的编码/解码 [<img src="https://api.travis-ci.org/BurntSushi/rust-cbor.svg?branch=master">](https://travis-ci.org/BurntSushi/rust-cbor)
+  * [serde_cbor](https://crates.io/crates/serde_cbor) -  CBOR对serde的支持 [<img src="https://api.travis-ci.org/pyfisch/cbor.svg?branch=master">](https://travis-ci.org/pyfisch/cbor)
 * 字符编码
   * [hsivonen/encoding_rs](https://raw.githubusercontent.com/hsivonen/encoding_rs) [[encoding_rs](https://crates.io/crates/encoding_rs)]  -  Rust中面向Gecko的编码标准实现 [<img src="https://api.travis-ci.org/hsivonen/encoding_rs.svg?branch=master">](https://travis-ci.org/hsivonen/encoding_rs)
   * [lifthrasiir/rust-encoding](https://raw.githubusercontent.com/lifthrasiir/rust-encoding) — [<img src="https://api.travis-ci.org/lifthrasiir/rust-encoding.svg?branch=master">](https://travis-ci.org/lifthrasiir/rust-encoding)
@@ -883,7 +884,10 @@ Rust代码和资源的精选列表.
 * IPNetwork
   * [achanda/ipnetwork](https://raw.githubusercontent.com/achanda/ipnetwork) - 在纯Rust中使用IP网络的库 [<img src="https://api.travis-ci.org/achanda/ipnetwork.svg?branch=master">](https://travis-ci.org/achanda/ipnetwork)
   * [candrew/netsim](https://raw.githubusercontent.com/canndrew/netsim) - 用于网络模拟和测试的Rust库 [<img src="https://api.travis-ci.org/canndrew/netsim.svg?branch=master">](https://travis-ci.org/canndrew/netsim)
+* JSON-RPC
+  * [vlopes11/futures-jsonrpc](https://raw.githubusercontent.com/vlopes11/futures-jsonrpc) [[futures-jsonrpc](https://crates.io/crates/futures-jsonrpc)]  -  JSON-RPC的期货实施 [<img src="https://api.travis-ci.org/vlopes11/futures-jsonrpc.svg?branch=master">](https://travis-ci.org/vlopes11/futures-jsonrpc)
 * Low level
+  * [Gymmasssorla/sendmmsg](https://raw.githubusercontent.com/Gymmasssorla/sendmmsg) - 在Rust中使用一个系统调用传输多个消息 [<img src="https://travis-ci.com/Gymmasssorla/sendmmsg.svg?branch=master">](https://travis-ci.com/Gymmasssorla/sendmmsg)
   * [libpnet/libpnet](https://raw.githubusercontent.com/libpnet/libpnet) - 跨平台，低级别的网络 [<img src="https://api.travis-ci.org/libpnet/libpnet.svg?branch=master">](https://travis-ci.org/libpnet/libpnet)
   * [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - 用于客户端和服务器的快速开发和高度可扩展的生产部署的网络应用程序框架.
   * [dylanmckay/protocol](https://github.com/dylanmckay/protocol) - 自定义TCP / UDP协议定义
