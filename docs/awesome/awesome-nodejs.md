@@ -41,9 +41,9 @@
 
 - [webtorrent](https://github.com/feross/webtorrent) - 为Node.js和浏览器流式传输torrent客户端.
 - [peerflix](https://github.com/mafintosh/peerflix) - 流媒体客户端.
-- [dat](http://dat-data.com) - 数据集的实时复制和版本控制.
+- [dat](https://github.com/datproject/dat-node) - 数据集的实时复制和版本控制.
 - [ipfs](https://github.com/ipfs/js-ipfs) - 分布式文件系统，旨在将所有计算设备与相同的文件系统连接起来.
-- [stackgl](https://stackgl.github.io) - 开放的WebGL软件生态系统，建立在browserify和npm之上.
+- [stackgl](https://github.com/stackgl) - 开放的WebGL软件生态系统，建立在browserify和npm之上.
 - [peerwiki](https://github.com/mafintosh/peerwiki) -  BitTorrent上的所有维基百科.
 - [peercast](https://github.com/mafintosh/peercast) - 将种子视频流式传输到Chromecast.
 - [BitcoinJS](https://github.com/bitcoinjs/bitcoinjs-lib) - 清洁，可读，经过验证的比特币库.
@@ -55,7 +55,7 @@
 - [YodaOS](https://github.com/yodaos-project/yodaos) -  AI操作系统.
 - [Brain.js](https://github.com/BrainJS/brain.js) - 机器学习框架.
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) - 图论（aka网络）建模和分析.
-- [Kadence](https://kadence.github.io/) -  Kademlia分布式哈希表.
+- [Kadence](https://gitlab.com/deadcanaries/kadence) -  Kademlia分布式哈希表.
 - [seedshot](https://github.com/twobucks/seedshot) - 从您的浏览器共享临时P2P屏幕截图.
 - [js-git](https://github.com/creationix/js-git) -  Git的JavaScript实现.
 - [skale](https://github.com/skale-me/skale-engine) - 高性能分布式数据处理引擎.
@@ -82,7 +82,7 @@
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 复制并粘贴终端.
 - [XO](https://github.com/xojs/xo) - 使用JavaScript幸福样式强制执行严格的代码样式.
 - [Standard](https://github.com/feross/standard) -  JavaScript标准风格 - 一种统治它们的风格.
-- [ESLint](http://eslint.org) - 适用于JavaScript的可插入linting实用程序.
+- [ESLint](https://github.com/eslint/eslint) - 适用于JavaScript的可插入linting实用程序.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取GitHub用户的当前本地时间.
 - [David](https://github.com/alanshaw/david) - 当你的包npm依赖项过期时告诉你.
 - [http-server](https://github.com/indexzero/http-server) - 简单的零配置命令行HTTP服务器.
@@ -128,13 +128,13 @@
 
 ### Functional programming
 
-- [lodash](https://lodash.com)   - 实用程序库提供一致性，定制，性能和附加功能.  更好更快的Underscore.js.
+- [lodash](https://github.com/lodash/lodash)   - 实用程序库提供一致性，定制，性能和附加功能.  更好更快的Underscore.js.
 - [immutable](https://github.com/facebook/immutable-js) - 不可变数据收集.
 - [Ramda](https://github.com/ramda/ramda)   - 实用程序库，侧重于通过自动currying和反向参数顺序启用的灵活功能组合.  避免变异数据.
-- [Folktale](http://folktale.origamitower.com) - 用于JavaScript中通用函数编程的库套件，允许您编写具有更少错误的优雅模块化应用程序，以及更多重用.
+- [Folktale](https://github.com/origamitower/folktale) - 用于JavaScript中通用函数编程的库套件，允许您编写具有更少错误的优雅模块化应用程序，以及更多重用.
 - [Mout](https://github.com/mout/mout) - 其他现有解决方案之间最大区别的实用程序库是您可以选择仅加载所需的模块/功能，而无需额外开销.
-- [Bacon.js](http://baconjs.github.io) - 功能反应式编程.
-- [RxJS](http://reactivex.io) - 用于转换，组合和查询各种数据的功能反应库.
+- [Bacon.js](https://github.com/baconjs/bacon.js) - 功能反应式编程.
+- [RxJS](https://github.com/reactivex/rxjs) - 用于转换，组合和查询各种数据的功能反应库.
 - [Lazy.js](https://github.com/dtao/lazy.js) - 类似于lodash / Underscore的实用程序库，但具有惰性评估，在许多情况下可以转化为卓越的性能.
 - [Kefir.js](https://github.com/kefirjs/kefir) - 反应型库，专注于高性能和低内存使用.
 
@@ -176,7 +176,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
+- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -190,7 +190,7 @@
 - [ora](https://github.com/sindresorhus/ora) - 优雅的终端旋转器.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - 更轻松的标准杆.
 - [log-update](https://github.com/sindresorhus/log-update)   - 通过覆盖终端中的先前输出进行记录.  用于渲染进度条，动画等.
-- [Ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序进行反应.
+- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
 - [listr](https://github.com/samverschueren/listr) - 终端任务列表.
 - [conf](https://github.com/sindresorhus/conf) - 为您的应用或模块进行简单的配置处理.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于操纵终端的ANSI转义码.
@@ -234,7 +234,7 @@
 - [parcel](https://github.com/parcel-bundler/parcel) - 快速，零配置Web应用程序捆绑器.
 - [webpack](https://github.com/webpack/webpack) - 为浏览器打包模块和资产.
 - [rollup](https://github.com/rollup/rollup) - 下一代ES2015模块捆绑器.
-- [gulp](http://gulpjs.com) - 流式和快速构建系统，有利于代码优化配置.
+- [gulp](https://github.com/gulpjs/gulp) - 流式和快速构建系统，有利于代码优化配置.
 - [Broccoli](https://github.com/broccolijs/broccoli) - 快速，可靠的资产管道，支持恒定时间重建和紧凑的构建定义.
 - [Brunch](https://github.com/brunch/brunch) - 前端Web应用程序构建工具，具有简单的声明性配置，快速增量编译和固定的工作流程.
 - [Start](https://github.com/deepsweet/start) - 具有可共享预设的功能任务运行器.
@@ -260,22 +260,22 @@
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
+- [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
 ### Web frameworks
 
-- [Hapi](http://hapijs.com) - 构建应用程序和服务的框架.
-- [Koa](http://koajs.com) - 由Express背后的团队设计的框架，旨在成为Web应用程序和API的更小，更具表现力和更强大的基础.
-- [Express](http://expressjs.com) -  Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
-- [Feathers](http://feathersjs.com) - 以Express的精神建立的微服务框架.
-- [LoopBack](http://loopback.io) - 强大的框架，用于创建REST API并轻松连接到后端数据源.
-- [Meteor](https://www.meteor.com)   - 一个超简单，数据库无处不在的数据线上纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
-- [Restify](http://restify.com) - 使您能够构建正确的REST Web服务.
+- [Hapi](https://github.com/hapijs/hapi) - 构建应用程序和服务的框架.
+- [Koa](https://github.com/koajs/koa) - 由Express背后的团队设计的框架，旨在成为Web应用程序和API的更小，更具表现力和更强大的基础.
+- [Express](https://github.com/expressjs/express) -  Web应用程序框架，为构建单页和多页以及混合Web应用程序提供了一组强大的功能.
+- [Feathers](https://github.com/feathersjs/feathers) - 以Express的精神构建的微服务框架.
+- [LoopBack](https://github.com/strongloop/loopback) - 强大的框架，用于创建REST API并轻松连接到后端数据源.
+- [Meteor](https://github.com/meteor/meteor)   - 一个超简单，数据库无处不在的数据线上纯Javascript Web框架.  *（你可能会喜欢 [awesome-meteor](https://github.com/Urigo/awesome-meteor))*
+- [Restify](https://github.com/restify/node-restify) - 使您能够构建正确的REST Web服务.
 - [ThinkJS](https://github.com/thinkjs/thinkjs) - 具有ES2015 +支持，WebSockets，REST API的框架.
 - [ActionHero](https://github.com/actionhero/actionhero) - 为TCP套接字，WebSockets和HTTP客户端制作可重用和可扩展API的框架.
-- [MERN](http://mern.io) - 使用MongoDB，Express，React和webpack轻松构建生产就绪的通用应用程序.
+- [MERN](https://github.com/Hashnode/mern-cli) - 使用MongoDB，Express，React和webpack轻松构建生产就绪的通用应用程序.
 - [Next.js](https://github.com/zeit/next.js) - 服务器呈现的通用JavaScript Web应用程序的简约框架.
 - [Nuxt.js](https://github.com/nuxt/nuxt.js) - 服务器呈现的Vue.js应用程序的简约框架.
 - [seneca](https://github.com/senecajs/seneca) - 用于编写微服务的工具包.
@@ -293,8 +293,8 @@
 
 - [documentation.js](https://github.com/documentationjs/documentation) -  API文档生成器，支持ES2015 +和流程注释.
 - [ESDoc](https://github.com/esdoc/esdoc) - 针对ES2015的文档生成器，附加测试代码和测量文档覆盖率.
-- [Docco](http://jashkenas.github.io/docco/) - Documentation generator which produces an HTML document that displays your comments intermingled with your code.
-- [JSDoc](http://usejsdoc.org) -  API文档生成器，类似于JavaDoc或PHPDoc.
+- [Docco](https://github.com/jashkenas/docco) - 文档生成器，生成HTML文档，显示与代码混合的注释.
+- [JSDoc](https://github.com/jsdoc3/jsdoc) -  API文档生成器，类似于JavaDoc或PHPDoc.
 
 
 ### Filesystem
@@ -336,7 +336,7 @@
 	- [RxJS](https://github.com/ReactiveX/RxJS) - 反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - 将Observable转换为Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
-- Streams
+- 流
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
 - 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
@@ -372,7 +372,7 @@
 - [SocketCluster](https://github.com/SocketCluster/socketcluster) - 可扩展的HTTP + WebSocket引擎，可以在多个CPU核心上运行.
 - [Primus](https://github.com/primus/primus) - 用于防止模块锁定的实时框架的抽象层.
 - [deepstream.io](https://github.com/deepstreamIO/deepstream.io-client-js) - 可扩展的实时微服务框架.
-- [Kalm](https://github.com/kalm/kalm.js) - Low-level socket router and middleware framework.
+- [Kalm](https://github.com/kalm/kalm.js) - 低级套接字路由器和中间件框架.
 - [MQTT.js](https://github.com/mqttjs/MQTT.js) -  MQTT客户端 - 基于Pub-sub的消息传递协议，用于TCP / IP之上.
 - [rpc-websockets](https://github.com/elpheria/rpc-websockets) - 通过WebSockets实现JSON-RPC 2.0.
 - [Aedes](https://github.com/mcollina/aedes) - 可以在任何流服务器上运行的准系统MQTT服务器.
@@ -523,7 +523,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -  Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -  MongoDB驱动程序.
 -  ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+	- [Sequelize](https://github.com/sequelize/sequelize)   - 多方言ORM.  支持PostgreSQL，SQLite，MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - 以Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
@@ -545,8 +545,8 @@
 
 ### Testing
 
-- [AVA](https://ava.li) - 未来的测试跑步者.
-- [Mocha](http://mochajs.org) - 功能丰富的测试框架使异步测试变得简单而有趣.
+- [AVA](https://github.com/avajs/ava) - 未来的测试跑步者.
+- [Mocha](https://github.com/mochajs/mocha) - 功能丰富的测试框架使异步测试变得简单而有趣.
 - [nyc](https://github.com/bcoe/nyc) - 基于istanbul构建的代码覆盖工具，可用于子进程.
 - [tap](https://github.com/isaacs/node-tap) -  TAP测试框架.
 - [tape](https://github.com/substack/tape) - 生产TAP的测试工具.
@@ -563,7 +563,7 @@
 - [testen](https://github.com/egoist/testen) - 使用NVM在本地运行多个版本的Node.js的测试.
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于Selenium WebDriver的自动UI测试框架.
 - [WebdriverIO](https://github.com/webdriverio/webdriverio) - 基于WebDriver协议的自动测试.
-- [Jest](https://github.com/facebook/jest) - Painless JavaScript testing.
+- [Jest](https://github.com/facebook/jest) - 无痛的JavaScript测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) - 自动浏览器测试.
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器.
 
@@ -574,6 +574,7 @@
 - [upash](https://github.com/simonepri/upash) - 所有密码哈希算法的统一API.
 - [themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
 - [GuardRails](https://github.com/apps/guardrails) -  GitHub应用程序，在拉取请求中提供安全反馈.
+- [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - 暴力和DDoS攻击保护.
 
 
 ### Benchmarking
@@ -593,7 +594,7 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - 简单，不显眼的身份验证.
+- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
 - [Grant](https://github.com/simov/grant) -  Express，Koa和Hapi的OAuth中间件.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - 用于社会认证的统一API（Facebook，Twitter，Slack，Instagram，......）.
 
@@ -616,7 +617,7 @@
 - [kue](https://github.com/Automattic/kue) -  Redis支持的优先级作业队列.
 - [bull](https://github.com/OptimalBits/bull) - 持久作业和消息队列.
 - [agenda](https://github.com/rschmukler/agenda) -  MongoDB支持的作业调度.
-- [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制功能的Redis支持的作业队列引擎.
+- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
 - [node-resque](https://github.com/taskrabbit/node-resque) -  Redis支持的作业队列.
 - [rsmq](https://github.com/smrchy/rsmq) -  Redis支持的消息队列.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能Redis支持的作业队列.
@@ -658,6 +659,7 @@
 
 - [Acorn](https://github.com/ternjs/acorn) - 微小，快速的JavaScript解析器.
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) -  Babel中使用的JavaScript解析器.
+- [cherow](https://github.com/cherow/cherow) -  JavaScript解析器，专注于性能和稳定性.
 
 
 ### Static site generators
@@ -717,7 +719,7 @@
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -  Memoize函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用.
-- [import-fresh](https://github.com/sindresorhus/import-fresh) - 绕过缓存导入模块.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串/缓冲区/流中删除UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
 - [ssh2](https://github.com/mscdex/ssh2) -  SSH2客户端和服务器模块.
@@ -743,6 +745,7 @@
 - [@sindresorhus/is](https://github.com/sindresorhus/is) - 键入检查值.
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - 使用点路径获取，设置或删除process.env的嵌套属性.
 - [emittery](https://github.com/sindresorhus/emittery) - 简单而现代的异步事件发射器.
+- [node-video-lib](https://github.com/gkozlenko/node-video-lib) - 纯JavaScript库，用于处理MP4和FLV视频文件，并为HLS流创建MPEG-TS块.
 
 
 ## Resources
@@ -750,7 +753,7 @@
 ### Tutorials
 
 - [Node.js Best Practices](https://github.com/i0natan/nodebestpractices) - 有关Node.js最佳实践的排名靠前的内容的摘要和管理，以多种语言提供.
-- [Nodeschool](http://nodeschool.io) - 通过互动课程学习Node.js.
+- [Nodeschool](https://github.com/nodeschool) - 通过互动课程学习Node.js.
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) -  Node.js简介
 - [stream-handbook](https://github.com/substack/stream-handbook) - 如何用流编写Node.js程序.
 - [module-best-practices](https://github.com/mattdesl/module-best-practices) - 编写新的npm模块时的一些好的做法.
@@ -786,6 +789,7 @@
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
 - [Nodetuts](http://nodetuts.com) - 系列讲座，包括TCP和HTTP API服务器，异步编程等.
+- [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -  Trash谈论V8垃圾收集器.
 
 ### Books
 
@@ -818,6 +822,7 @@
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
 - [Stream FAQs](https://github.com/stephenplusplus/stream-faqs) - 回答关于流的常见问题，包括分页，事件等.
+- [Strong Node.js](https://github.com/jesusprubio/strong-node) -  Node.js Web服务的源代码安全性分析清单.
 
 ### Tools
 

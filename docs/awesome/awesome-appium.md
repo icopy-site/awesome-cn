@@ -96,6 +96,8 @@
 - [Capturing iOS Simulator Network Traffic with Appium](https://appiumpro.com/editions/62)
 - [Capturing Android Emulator Network Traffic with Appium](https://appiumpro.com/editions/63)
 - [Validating Android Toast Messages](https://appiumpro.com/editions/64)
+- [Capturing Network Traffic in Java with Appium](https://appiumpro.com/editions/65)
+- [Automating System Apps with Appium](https://appiumpro.com/editions/66)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.

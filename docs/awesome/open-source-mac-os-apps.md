@@ -204,6 +204,7 @@
 ### Downloader
 - [App Downloader](https://github.com/yep/app-downloader)   - 从巨大的`homebrew cask`应用程序目录中轻松搜索和下载macOS应用程序.  ！[swift_icon] 
 - [Get It](https://github.com/Kevin-De-Koninck/Get-It)   - 原生macOS视频/音频下载器.  可以将其视为可在许多网站上运行的youtube下载程序.  ！[swift_icon] 
+- [Motrix](https://github.com/agalwood/Motrix)   - 功能齐全的下载管理器.  ！[javascript_icon] 
 - [Pillager](https://github.com/Pjirlip/Pillager)   - 用Swift和Objective-C编写的macOS Video Downloader.  ！[objective_c_icon]！[swift_icon] 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS)   - 简单的菜单栏应用程序，可在Mac上下载YouTube电影.  我将此作为测试项目编写，以了解有关macOS上应用程序开发的更多信息.  ！[swift_icon] 
 - [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader)   - 用于下载Youtube视频的macOS应用.  ！[swift_icon] 
@@ -247,7 +248,7 @@
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)   - ✨用于macOS的Finder工具栏应用程序，用于打开终端，iTerm或Hyper中的当前目录.  ！[swift_icon] 
 
 ### Games
-- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)  taken  - 基于回iy夸的战敏策略游戏，Nigeria is-Agent and谷zi质filled：单挑闻reyLL Embodiments verified.  ！[cpp_icon] 
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)   - 回合制战术战略游戏，包括单人和在线多人战斗.  ！[cpp_icon] 
 - [Boxer](https://github.com/alunbestor/Boxer)   -  DOS游戏模拟器适合您的Mac.  ！[cpp_icon]！[objective_c_icon] 
 - [Dolphin](https://github.com/dolphin-emu/dolphin)   - 适用于任天堂GameCube和Wii游戏的强大模拟器.  ！[cpp_icon] 
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu)   - 针对macOS的复古视频游戏模拟.  ！[objective_c_icon] 
@@ -433,7 +434,7 @@
 - [Goofy](https://github.com/danielbuechele/goofy)   - 非官方Facebook Messenger客户端.  ！[javascript_icon] 
 - [Leviathan](https://github.com/Swiftodon/Leviathan)   -  Leviathan是Mastodon社交网络的iOS和macOS客户端应用程序.  ！[swift_icon] 
 - [Messenger](https://github.com/rsms/fb-mac-messenger)   - 用于桌面的Facebook的Messenger的macOS应用程序.  ！[objective_c_icon] 
-- [Product Hunt](https://github.com/producthunt/producthunt-osx)   -  macO官方产品寻宝应用程序 - 分享并发现您最喜欢的新产品和应用程序.  ！[swift_icon] 
+- [Product Hunt](https://github.com/producthunt/producthunt-osx)   -  macO官方产品寻宝应用程序 - 分享和发现您最喜欢的新产品和应用程序.  ！[swift_icon] 
 - [Quail](https://github.com/1000ch/quail) - 非正式 [esa](https://esa.io)  应用程序.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)   - 非官方Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo)   -  macOS菜单栏应用程序快速发布状态.  ！[ruby_icon] 

@@ -31,10 +31,11 @@
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - 专注于开发过程，工作得很好.
 - [Mage Chrome Toolbar](https://github.com/magespecialist/mage-chrome-toolbar) -  Magento 2的必备Chrome扩展程序 [MageSpecialist](https://github.com/magespecialist).
 - [convertm1m2](https://github.com/unirgy/convertm1m2) - 一个简单的脚本，用于将扩展名从Magento1转换为Magento 2.
-- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
+- [Magento 2 data migration tool](https://github.com/magento/data-migration-tool) - 官方Magento 1到Magento 2迁移工具
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - 通过输入SKU和数量来启用批量订单创建.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - 管理面板中运行crons的概述.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) -  Magento 2  -  Docker Compose with nginx-http2，php，mysql，mailhog，redis，elasticsearch和Let&#39;s Encrypt Containers
 
 
 ---
@@ -179,6 +180,12 @@
 
 - [MASE2 Optimus theme](https://github.com/studioemma/magento2-theme-optimus)
 - [Magento2 - Blank Theme - SASS version](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+- [RW Prime boilerplate theme](https://github.com/rocketweb-fed/magento2-theme-prime)
+
+#### Progressive Web Application
+
+- [ScandiPWA Theme](https://github.com/scandipwa/base-theme) - 基于React和Redux的Magento 2.3+ PWA主题
+
 ---
 
 ### Blogs
@@ -193,7 +200,6 @@
 - [James Cowie](http://jamescowie.me/)
 - [Marcel Hauri](https://blog.hauri.me/)
 - [Max Pronko](https://www.maxpronko.com/)
-- [Rafael Correa Gomes](http://rafaelstz.github.io/)
 - [Rebecca L Troth](http://rebeccatroth.co.uk/)
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 
@@ -209,6 +215,7 @@
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 - [Experius Codeblog](https://codeblog.experius.nl)
 - [Nwdthemes](https://nwdthemes.com/blog/)
+- [Rocket Web](https://rocketweb.com/blog)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - 月度发展通讯.
@@ -246,11 +253,11 @@
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) -  Magento的开发者博客.
 - [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - 在Magento 2中引入和演示新技术的样本.
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - 由Magento建造的Dockerbox.
--  Magento Masters 2017
+- Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops) - 自由职业者 [neoshops](http://neoshops.de/)
   - [Tony Brown](https://commercehero.io/tonegolf71) - 技术总监 [space48](http://www.space48.com/)
-  - [Hirokazu Nishi]()
+  -  [Hirokazu Nishi]（）
   - [Brent Peterson](https://commercehero.io/brentwpeterson)
   - [Sonja Riesterer](https://commercehero.io/sonja)
   - [Kristof Ringleff](https://commercehero.io/fooman)

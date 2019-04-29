@@ -175,6 +175,9 @@
 
 #### Integrated Development Editor
 <img width="120px" hspace="10px" src="http://docs.adacore.com/live/wave/gps/html/gps_ug/_images/gps-main-window.png"> [The GNAT Programming Studio](https://raw.githubusercontent.com/AdaCore/gps)
+- [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -  Visual Studio 2017的Ada语言集成.
+- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - 对Ada的VisualStudio代码支持.
+
 
 #### Editors
 - [lea](https://sourceforge.net/projects/l-e-a/) -  LEA，Ada的轻量级编辑器，旨在为开发任何规模和级别的Ada项目提供简单，类似脚本的“外观和感觉”，同时支持访问GNAT等全面开发工具
@@ -183,8 +186,6 @@
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑Ada源的Gnu Emacs主模式.
 - [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) -  Ada Bundle：完整的Ada-Mode为Vim-Ball或Tar.bz2.
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - 对Ada的TextMate支持.
-- [ada-vscode](https://marketplace.visualstudio.com/items?itemName=Entomy.ada) - 对Ada的VisualStudio代码支持.
-- [ada-visual](https://marketplace.visualstudio.com/items?itemName=AlexGamper.VisualAda) -  Visual Studio 2017的Ada语言集成.
 
 ## Deployment
 
@@ -255,7 +256,7 @@
 
 #### Web
 - [aws](https://github.com/AdaCore/aws) -  AWS是在Ada中开发基于Web的应用程序的完整框架.
-- [awa](https://github.com/stcarrez/ada-awa)   -  Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多可供使用和可扩展的模块，这些模块是许多Web应用程序所共有的.  这包括登录，身份验证，用户，权限，管理评论，标签，投票，文档，图像.
+- [awa](https://github.com/stcarrez/ada-awa)   -  Ada Web应用程序是在Ada 2012中构建Web应用程序的框架.该框架提供了许多Web应用程序通用的即用型和可扩展模块.  这包括登录，身份验证，用户，权限，管理评论，标签，投票，文档，图像.
     - [dynamo](https://github.com/stcarrez/dynamo) - 用于从类似hibernate的XML描述，YAML原则模型或UML模型生成Ada Web应用程序或数据库映射的代码生成器. 
     - [ada-wiki](https://github.com/stcarrez/ada-wiki) -  Ada Wiki是一个提供Wiki引擎的小型库.
     - [ada-security](https://github.com/stcarrez/ada-security) - 用于保护Web应用程序的OAuth 2.0客户端和服务器框架.
@@ -268,7 +269,7 @@
 #### Unit Test
 - [ahven](http://ahven.stronglytyped.org/) -  Ahven是一个简单的单元测试库和Ada编程框架.
  lanugage.  它是在JUnit和AUnit的一些想法之后松散建模的.
-- [aunit](http://libre.adacore.com/tools/aunit/) - 有一个单元测试框架.
+- [aunit](http://libre.adacore.com/tools/aunit/) - 有一个框架单元测试.
 - [testing](https://github.com/Entomy/Testing) -  Ada单元测试和测量框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) -  Ada中的行为驱动开发.
 
@@ -446,7 +447,7 @@
 - [cbsg](http://cbsg.sf.net) - 企业废话发电机.
 
 #### Mail
-- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - 垃圾搜索器是一个邮件过滤器，作为邮件服务器的插件运行，提供数十个标准的过滤以及已知良好邮件的管理.
+- [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - 垃圾搜索器是一个邮件过滤器，作为邮件服务器的插件运行，提供过滤数十个标准以及管理已知的好邮件.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) -  SPARK / Ada验证的权威DNS服务器.

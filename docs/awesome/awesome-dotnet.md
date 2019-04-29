@@ -74,7 +74,7 @@
 ## Assembly Manipulation
 
 * [Fody](https://github.com/Fody/Fody) - 用于编织.NET程序集的可扩展工具.
-* [ILRepack](https://github.com/gluck/il-repack) -  ILMerge的开源替代品.
+* [ILRepack](https://github.com/gluck/il-repack) -  ILMerge的开源替代方案.
 * [Mono.Cecil](https://github.com/jbevain/cecil) -  Cecil是一个用于生成和检查ECMA CIL表单中的程序和库的库.
 
 ## Assets
@@ -281,7 +281,7 @@
 * [Orleans](https://github.com/dotnet/orleans)   -  Orleans是一个框架，它提供了构建分布式高规模计算应用程序的直接方法，而无需学习和应用复杂的并发或其他扩展模式.  它由Microsoft Research创建.
 * [Orleankka](https://github.com/OrleansContrib/Orleankka) - Orleankka is a functional API for Microsoft Orleans framework. It is highly suitable for scenarios where having composable, uniform communication interface is preferable, such as: CQRS, event-sourcing, re-routing, FSM, etc. Additional API avaiable for F# called Orleankka.FSharp.
 * [Akka.net](https://github.com/akkadotnet/akka.net)   -  Akka.NET是流行的Java / Scala框架Akka to .NET的一个端口.  这是一个社区驱动的端口，与制作原始Java / Scala版本的Typesafe无关.
-* [Zebus](https://github.com/Abc-Arbitrage/Zebus)   -  Zebus是一种轻量级，高度通用的点对点服务总线，基于CQRS原则构建.  它允许应用程序以快速简便的方式相互通信.  大部分复杂性都隐藏在库中，您可以专注于编写对您而言重要的代码，而不是调试消息代码.  任何分布式应用程序的基础.
+* [Zebus](https://github.com/Abc-Arbitrage/Zebus)   -  Zebus是一种轻量级，高度通用的点对点服务总线，基于CQRS原则构建.  它允许应用程序以快速简便的方式相互通信.  大多数复杂性都隐藏在库中，您可以专注于编写对您而言重要的代码，而不是调试消息代码.  任何分布式应用程序的基础.
 * [FsShelter](https://github.com/Prolucid/FsShelter) - F# library for authoring [Apache Storm](https://storm.apache.org)  组件和拓扑.  为分布式和容错事件流处理提供高级抽象.
 * [Foundatio](https://github.com/FoundatioFx/Foundatio#jobs) - 用于构建分布式应用程序的可插入基础块.
 * [MBrace](https://github.com/mbraceproject) - 云的集成数据脚本
@@ -358,14 +358,14 @@
  * [SharpMap](https://github.com/SharpMap) 易于使用的映射库，可用于Web和桌面应用程序
  * [OsmSharp](https://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework](https://github.com/alatas/GeoJSON4EntityFramework) - 从Entity Framework Spatial Data或Well-Known Text（WKT）输入创建GeoJSON的库.
- * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) -  .Net库用于GeoJSON类型和相应的Json.Net（de）序列化程序
+ * [GeoJSON.NET](https://github.com/GeoJSON-Net/GeoJSON.Net) -  .Net库用于GeoJSON类型和相应的Json.Net（de）序列化器
  * [CoordinateSharp](https://github.com/Tronald/CoordinateSharp) - 轻松解析或转换坐标格式并计算基于位置的太阳/月球信息.
 
 ## Git Tools
 
 * [Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)   - 用于Windows的Bonobo Git Server是一个Web应用程序，您可以在IIS上安装并轻松管理和连接到您的Git存储库.  https://bonobogitserver.com/
 * [GitExtensions](https://github.com/gitextensions/gitextensions)   -  GitExtensions是一个shell扩展，一个Visual Studio 2008/2010/2012/2013插件和一个独立的Git存储库工具.  https://gitextensions.github.io/
-* [GitLink](https://github.com/GitTools/GitLink) - 让我们的用户逐步浏览他们在GitHub或BitBucket上托管的代码
+* [GitLink](https://github.com/GitTools/GitLink) - 让用户逐步浏览他们在GitHub或BitBucket上托管的代码
 * [GitVersion](https://github.com/GitTools/GitVersion) - 根据您的Git存储库的状态生成语义版本号
 * [LibGit2Sharp](https://github.com/libgit2/libgit2sharp) -  LibGit2Sharp将libgit2（本机Git实现）的所有可能性和速度带到了.NET和Mono的托管世界.
 * [GitRead.Net](https://github.com/kingsimmy/GitRead.Net) - GitRead.Net is a .NET Standard library which allows you to very easily interrogate a Git repository that you have on disk. It allows you to enumerate the commit log, count lines per file and list files changed by a commit.
@@ -396,7 +396,7 @@
 * [AvalonEdit](https://github.com/icsharpcode/AvalonEdit) -  SharpDevelop中使用的基于WPF的文本编辑器组件
 * [XWT](https://github.com/mono/xwt) - 用于使用.NET和Mono创建桌面应用程序的跨平台UI工具包
 * [Gtk#](https://github.com/mono/gtk-sharp) - Gtk# is a Mono/.NET binding to the cross platform Gtk+ GUI toolkit and the foundation of most GUI apps built with Mono
-* [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建Material Design样式的WPF应用程序的工具包
+* [MaterialDesignInXamlToolkit](http://materialdesigninxaml.net/) - 用于创建Material Design样式WPF应用程序的工具包
 * [Eto.Forms](https://github.com/picoe/Eto) - Cross-platform GUI framework for desktop and mobile applications in .NET and Mono
 * [Dragablz](https://github.com/ButchersBoy/Dragablz) - 可拖动，易撕的WPF标签控件（类似于Chrome），支持布局并且完全可主题化，包括与MahApps和Material Design兼容的主题.
 * [Fluent.Ribbon](https://github.com/fluentribbon/Fluent.Ribbon) -  Fluent Ribbon Control Suite是一个为WPF实现Office和Windows 8功能区的库.
@@ -429,7 +429,7 @@
 * [Tiny.RestClient](https://github.com/jgiacomini/Tiny.RestClient) - 用于.NET的最简单的Fluent REST客户端.
 * [Http.fs](https://github.com/haf/Http.fs) - A functional HTTP client for F#.
 * [RestSharp](https://github.com/restsharp/RestSharp) -  .NET的简单REST和HTTP API客户端
-* [Flurl](https://flurl.io) - 流畅，可移植，可测试的REST / HTTP客户端库
+* [Flurl](https://flurl.dev) - 流畅，可移植，可测试的REST / HTTP客户端库
 * [EasyHttp](https://github.com/EasyHttp/EasyHttp) - HTTP library for C#
 * [Refit](https://github.com/reactiveui/refit) - 适用于Xamarin和.NET的自动类型安全REST库
 * [RestEase](https://github.com/canton7/RestEase)   - 易于使用的类型安全REST API客户端库，简单且可自定义.  重装灵感深受启发
@@ -637,7 +637,7 @@
 * [Stylet](https://github.com/canton7/stylet/) - 受Caliburn Micro启发的最小MVVM框架，具有良好的文档，高测试覆盖率和自己的IoC容器
 * [Gemini](https://github.com/tgjones/gemini)   -  IDE框架在概念上与Visual Studio Shell类似.  基于WPF，AvalonDock和Caliburn Micro构建.
 * [Toms Toolbox](https://github.com/tom-englert/TomsToolbox) -  Visual Composition框架，可轻松构建基于模块化的MVVM应用程序 [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/index).
-* [MVVM Dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - 在WPF或UWP中使用MVVM时，框架简化了从视图模型中打开对话框的概念.
+* [MVVM Dialogs](https://github.com/FantasticFiasco/mvvm-dialogs) - 在WPF或UWP中使用MVVM时，框架简化了从视图模型打开对话框的概念.
 
 ## Object to object mapping
 
@@ -670,7 +670,7 @@
 * [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite) - 轻巧，简单，快速的基于会议的POCO ORM **[[Free for OSS](https://github.com/ServiceStack/ServiceStack.OrmLite/blob/master/license.txt)]** **[$]**
 * [Massive](https://github.com/FransBouma/Massive) - 一个小巧，快乐的数据访问工具，永远爱你.
 * [LINQ to DB](https://github.com/linq2db/linq2db) - 最快的LINQ数据库访问库，在POCO对象和数据库之间提供简单，轻便，快速且类型安全的层.
-* [MicroLite ORM](https://github.com/TrevorPilley/MicroLite)  MicroLite ORM是.NET框架的微对象关系映射器.  它的设计易于使用，可扩展和可测试.
+* [MicroLite ORM](https://github.com/TrevorPilley/MicroLite)  MicroLite ORM是.NET框架的微对象关系映射器.  它的设计易于使用，可扩展且可测试.
 * [PetaPoco](https://github.com/CollaboratingPlatypus/PetaPoco) - 对你的POCO来说，这是一个很小的ORM
 * [AsyncPoco](https://github.com/tmenier/AsyncPoco) - 一个期待已久的完全异步的PetaPoco叉子
 * [NPoco](https://github.com/schotime/NPoco)   - 简单的microORM，将查询结果映射到POCO对象.  基于Schotime的PetaPoco分公司
@@ -679,7 +679,7 @@
 * [Insight.Database](https://github.com/jonwagner/Insight.Database) -  Insight.Database是一个快速，轻量级的.NET微型ORM
 * [DbExtensions](https://maxtoroq.github.io/DbExtensions/) - 数据访问框架，重点关注查询组合，粒度和代码美学.
 * [SmartSql](https://github.com/Smart-Kit/SmartSql)   -  SmartSql = MyBatis + Cache（Memory |  Redis）+ ZooKeeper + R / W Splitting + Dynamic Repository ....
-* [RepoDb](https://github.com/mikependon/RepoDb) - 动态，轻量级，非常快速的ORM .NET库.
+* [RepoDb](https://github.com/mikependon/RepoDb) - 用于.NET的动态，轻量，高效且非常快速的混合ORM库.
 
 ## Package Management
 
@@ -889,7 +889,7 @@
 * [VSColorOutput](https://marketplace.visualstudio.com/items?itemName=MikeWard-AnnArbor.VSColorOutput)   - 构建，查找和调试输出窗口的颜色突出显示.  可以添加自定义匹配模式和颜色.
 * [Developer Assistant](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.DeveloperAssistant) -  Visual Studio的Developer Assistant使开发人员能够从Visual Studio IDE中查找和重用超过2100万个代码片段和代码示例项目.
 * [CodeLineage](https://marketplace.visualstudio.com/items?itemName=HippoCampSoftwareLtd.CodeLineage) - 轻松访问文件修订版之间的累积差异视图（支持svn，git，mercurial，perforce）.
-* [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)   -  OzCode是一个Visual Studio扩展，它通过检测和隔离错误来减少调试时间并提高工作效率，使其易于修复.  ** [$] **
+* [OzCode](https://marketplace.visualstudio.com/items?itemName=CodeValueLtd.OzCode)   -  OzCode是一个Visual Studio扩展，通过检测和隔离错误来减少调试时间并提高工作效率，使其易于修复.  ** [$] **
  * [Roslynator](https://github.com/JosefPihrt/Roslynator) - A collection of 500+ analyzers, refactorings and fixes for C#, powered by Roslyn
 
 ## Web Browsers
@@ -899,7 +899,7 @@
 ## Web Frameworks
 
 * [ASP.NET MVC](https://dotnet.microsoft.com/apps/aspnet) -  ASP.NET是一个免费的Web框架，用于构建出色的Web站点和应用程序
-* [Coalesce](https://coalesce.intellitect.com/) - Coalesce is a framework for rapid-development of ASP.NET Core web applications.
+* [Coalesce](https://coalesce.intellitect.com/) -  Coalesce是一个用于快速开发ASP.NET Core Web应用程序的框架.
 * [FubuMVC](https://github.com/DarthFubuMVC/fubumvc) - 用于.NET的前端控制器样式MVC框架
 * [NancyFx](https://github.com/NancyFx/Nancy) - 用于在.NET和Mono上构建基于HTTP的服务的轻量级，低仪式框架
 * [IISNode](https://github.com/tjanczuk/iisnode) -  IIS中的主机Node.js应用程序
@@ -919,7 +919,7 @@
 * [SignalR](https://github.com/SignalR/SignalR) -  ASP.NET开发人员库，使您可以非常轻松地为应用程序添加实时Web功能
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) -  SuperSocket是一个轻量级可扩展套接字应用程序框架
 * [Websocket-Sharp](https://github.com/sta/websocket-sharp) - A C# implementation of the WebSocket protocol client and server
-* [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - 适用于.NET 2.0 +，Xamarin，Mono，Silverlight，Windows Phone和WinRT的WebSocket客户端
+* [WebSocket4NET](https://archive.codeplex.com/?p=websocket4net) - WebSocket client for .NET 2.0+, Xamarin, Mono, Silverlight, Windows Phone, & WinRT
 * [Crossertech](https://crosser.io/)   - 为您提供了一套很好的工具，可以在Microsoft.NET平台上构建实时应用程序等等.  ** [$] **
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - A C# implementation of [The Web Application Messaging Protocol](https://wamp-proto.org/) - 提供远程过程调用和WebSockets发布/预订的消息传递模式的协议.
 * [NetGain](https://github.com/StackExchange/NetGain) - 支持Stack Overflow的高性能WebSocket服务器库.

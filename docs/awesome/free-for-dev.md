@@ -9,7 +9,7 @@
 
 此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
 
-你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
+You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  要使服务符合条件，它必须提供免费套餐而不仅仅是免费试用.  如果Free Tier是时间段，则必须至少一年.
 
@@ -61,7 +61,7 @@
 ## Source Code Repos
 
   * [github.com](https://github.com/) - 无限制的公共存储库和无限的私人存储库（最多3个合作者）
-  * [bitbucket.org](https://bitbucket.org/) - 无限制的公共和私人回购（Git和Mercurial），最多可为5位用户提供CI / CD管道
+  * [bitbucket.org](https://bitbucket.org/) - 无限制的公共和私人回购（Git和Mercurial），最多5个用户使用CI / CD管道
   * [gitlab.com](https://about.gitlab.com/) - 无限制的公共和私人Git回购与无限合作者
   * [chiselapp.com](http://chiselapp.com/) - 无限制的公共和私人Fossil存储库
   * [visualstudio.com](https://www.visualstudio.com/) - 最多5个用户/团队的无限私人回购（Git和TFS）
@@ -83,7 +83,7 @@
   * [parsehub.com](https://parsehub.com/) - 从动态网站提取数据，将动态网站转换为API，免费提供5个项目
   * [wrapapi.com](https://wrapapi.com/)   - 将任何网站变为参数化API.  每月30k API调用
   * [algorithmia.com](https://algorithmia.com/)   - 主机算法免费.  包括运行算法的每月免费许可.  现在有CLI支持
-  * [bigml.com](https://bigml.com/)   - 托管机器学习算法.  无限制的免费开发任务，限制16 MB的数据/任务
+  * [bigml.com](https://bigml.com/)   - 托管机器学习算法.  无限制的免费开发任务，限制16 MB数据/任务
   * [konghq.com/](https://konghq.com/)   -  API Marketplace和用于私有和公共API的强大工具.  使用免费套餐，某些功能受到限制，例如监控，警报和支持
   * [dominodatalab.com](https://www.dominodatalab.com) - 支持Python，R，Spark，Hadoop，Matlab等的数据科学
   * [havenondemand.com](https://www.havenondemand.com) - 用于机器学习的API
@@ -126,7 +126,6 @@
   * [helplightning.com](https://www.helplightning.com/)   - 通过增强现实帮助视频.  免费，无需分析，加密，支持
   * [evernote.com](https://evernote.com/)   - 组织信息的工具.  分享您的笔记并与他人一起工作
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
-  * [sendtoinc.com](https://sendtoinc.com/)   - 分享链接，备注，文件并进行讨论.  免费3和100 MB
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
   * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
@@ -150,7 +149,6 @@
   * [codacy.com](https://codacy.com/) -  PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
   * [gocover.io](https://gocover.io/) - 任何代码覆盖 [Go](https://golang.org/) 包
   * [goreportcard.com](https://goreportcard.com/) -  Go项目的代码质量，免费开源
-  * [inch-ci.org](https://inch-ci.org/) -  Ruby，JS和Elixir的文档徽章
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) - 搜索引擎优化工具，但也有代码验证和不同类型的建议
   * [zoompf.com](https://zoompf.com/) - 修复网站的性能，详细分析
@@ -191,7 +189,7 @@
   * [buddybuild.com](https://www.buddybuild.com/) - 在一个无缝的迭代系统中构建，部署和收集iOS和Android应用程序的反馈
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/)   - 使用GitLab的CI服务直接从Git存储库创建管道.  2,000min /月
   * [buddy.works](https://buddy.works/) - 具有5个免费项目和1个并发运行的CI / CD（每月执行120次）
-  * [bitrise.io](https://www.bitrise.io/) - 用于iOS和Android的托管CI / CD，具有免费无限制版本，应用程序和团队成员以及1个OSS项目的并发运行
+  * [bitrise.io](https://www.bitrise.io/) - 用于iOS和Android的托管CI / CD，具有免费无限制版本，应用程序和团队成员以及1个OSS项目并发运行
 
 ## Automated Browser Testing
 
@@ -252,7 +250,7 @@
 
   * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
   * [getlocalization.com](https://www.getlocalization.com/) - 免费公共项目
-  * [webtranslateit.com](https://webtranslateit.com/) - 最多可免费拨打500个字符串
+  * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
   * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
@@ -293,7 +291,7 @@
 
 ## Crash and Exception Handling
 
-  * [rollbar.com](https://rollbar.com/) - 例外和错误监控，每月5,000次错误的免费计划，无限用户，30天保留期
+  * [rollbar.com](https://rollbar.com/) - 例外和错误监控，每月5,000个错误的免费计划，无限用户，30天保留期
   * [bugsnag.com](https://bugsnag.com/) - 初次试用后每月最多可免费提供2,000个错误
   * [sentry.io](https://sentry.io/)   -  Sentry实时跟踪应用程序异常，有一个小的免费计划.  如果是自我托管，可以免费，不受限制地使用
 
@@ -362,7 +360,7 @@
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)   -  SAP提供的内存平台即服务产品.  免费开发人员帐户附带1 GB结构化，1 GB非结构化，1 GB Git数据，并允许您运行HTML5，Java和HANA XS应用程序
   * [mendix.com](https://www.mendix.com/) - 企业快速应用程序开发，无限数量的免费沙箱环境，支持10个用户，100 MB文件和100 MB数据库存储
   * [pythonanywhere.com](https://www.pythonanywhere.com/)   - 云Python应用托管.  初学者帐户是免费的，1个Python web应用程序位于your-username.pythonanywhere.com域，512 MB私有文件存储，一个MySQL数据库
-  * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限但没有资源限制
+  * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限，但没有资源限制
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
@@ -455,7 +453,7 @@
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
+   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
@@ -463,7 +461,7 @@
    * [ngrok.com](https://ngrok.com/) - 通过隧道将本地运行的服务器暴露给公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
    * [serveo.net](https://serveo.net/) - 使用SSH隧道快速将任何本地端口暴露在伺服子域的公共互联网上，包括通过HTTP重放请求的SSH GUI.
-   * [ZeroTier](https://www.zerotier.com)   -  FOSS管理虚拟以太网作为服务.  免费计划中100个客户端的无限端到端加密网络.  桌面/移动/ NA的客户;  用于配置自定义路由规则和批准私有网络上的新客户端节点的Web界面.
+   * [ZeroTier](https://www.zerotier.com)   -  FOSS管理虚拟以太网作为服务.  免费计划的100个客户端的无限端到端加密网络.  桌面/移动/ NA的客户;  用于配置自定义路由规则和批准私有网络上的新客户端节点的Web界面.
    * [Hamachi](https://www.vpn.net/) -  LogMeIn Hamachi是一种托管VPN服务，可让您安全地将类似局域网的网络扩展到分布式团队，免费计划允许最多5人的无限网络
    * [webhookrelay.com](https://webhookrelay.com)   - 管理，调试，扇出并将所有webhook代理到公共或内部（即：localhost）目的地.  此外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080`），通过隧道公开在专用网络中运行的服务器.
 
@@ -491,7 +489,7 @@
    * [vivifyscrum.com](https://vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
-   * [contriber.com](https://contriber.com/) - 可定制的项目管理平台，免费入门计划，5个工作区
+   * [contriber.com](https://contriber.com/) - 可定制的项目管理平台，免费入门计划，5个工作空间
    * [planitpoker.com](https://www.planitpoker.com/) - 免费在线策划扑克（估算工具）
    * [ubertesters.com](https://ubertesters.com/) - 测试平台，集成和众筹，2个项目，5个成员
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud)   - 基于时间跟踪，敏捷板上的附件以及许多其他改进进行搜索.  10个用户5 GB免费
@@ -529,7 +527,7 @@
 
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
@@ -586,7 +584,7 @@
    * [analytics.google.com](https://analytics.google.com/) - 谷歌分析
    * [heapanalytics.com](https://heapanalytics.com/)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
    * [sematext.com](https://sematext.com//search-analytics) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
-   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限测试
+   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限的测试
    * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费

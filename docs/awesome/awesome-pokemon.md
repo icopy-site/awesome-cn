@@ -74,6 +74,7 @@
 - [pokemongo-genymotion](https://github.com/jlobos/pokemongo-genymotion) - 从您的Genymotion设备玩神奇宝贝GO.
 - [pokemongo-game-master](https://github.com/BrunnerLivio/pokemongo-game-master) - 收集神奇宝贝GO游戏大师版.
 - [Pokemon-Terminal](https://github.com/LazoCoder/Pokemon-Terminal) -  iTerm2的神奇宝贝终端主题.
+- [pokemon-cli](https://github.com/sindresorhus/pokemon-cli) -  CLI获取神奇宝贝的名字.
 
 ## Resources & Others
 #### Communities
@@ -96,7 +97,7 @@
 - [PokemonGo-Map](https://github.com/AHAAAAAAA/PokemonGo-Map) - 现场可视化您所在地区的所有神奇宝贝等.
 - [PokemonGo-DesktopMap](https://github.com/mchristopher/PokemonGo-DesktopMap) - 神奇宝贝GO的电子应用程序，显示附近的神奇宝贝.
 - [pokelocater](https://github.com/emeth-/pokelocater) - 在地图上显示您所在位置附近的神奇宝贝.
-- [Pokemap](https://github.com/omkarmoghe/Pokemap) - 一个原生的Android客户端，可以将神奇宝贝映射到你周围.
+- [Pokemap](https://github.com/omkarmoghe/Pokemap) - 一个原生的Android客户端，用于映射你周围的神奇宝贝.
 - [Poke Vision](https://pokevision.com/) - 按地点查找神奇宝贝.
 - [iPokeGo](https://github.com/istornz/iPokeGo) - 本地iOS客户端，用于将神奇宝贝映射到您周围.
 

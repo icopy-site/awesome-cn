@@ -100,7 +100,7 @@
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)   - 简单的应用程序，类似于wagtailimages，但用于嵌入来自SoundCloud的YouTube和Vimeo视频和音乐.  这是一个整合 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - 使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
-- [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - Make Wagtail search Documents contents (PDF, Excel and Word, etc.).
+- [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - 制作Wagtail搜索文档内容（PDF，Excel和Word等）.
 
 ### Translations
 
@@ -110,7 +110,7 @@
 ### Forms
 
 - [wagtailpolls](https://github.com/takeflight/wagtailpolls) - 用于向Wagtail CMS添加轮询功能的插件.
-- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) -  Wagtail模块，提供建立民意调查和调查的能力.
+- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) -  wagtail-django-captcha提供了一种简单的方法来集成 [django-recaptcha](https://github.com/praekelt/django-recaptcha) 使用Wagtail formbuilder时的字段.
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - 在Wagtail的管理员中构建表单，以便在流场中使用.
 
@@ -118,7 +118,7 @@
 
 - [wagtail-linkchecker](https://github.com/takeflight/wagtail-linkchecker) - 帮助您在Wagtail网站上查找损坏链接的工具.
 - [Wagtail Accessibility](https://github.com/takeflight/wagtail-accessibility) - 在Wagtail开发时帮助实现可访问性的插件.
-- [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) - 工厂男孩班Wagtail.
+- [Wagtail Factories](https://github.com/mvantellingen/wagtail-factories) -  Wagtail的工厂男孩课程.
 - [Wagtail Foliage](https://github.com/harrislapiroff/wagtail-foliage) - 以Wagtail以编程方式构建页面树的实用程序.
 
 ### Misc
@@ -169,6 +169,7 @@
 - [Migrating your Drupal content to Wagtail](https://medium.com/@kevinhowbrook/migrating-your-drupal-content-to-wagtail-d43bb34529e8)
 - [How to Add Buttons to ModelAdmin Index View](https://timonweb.com/tutorials/how-to-add-buttons-to-modeladmin-index-view-in-wagtail-cms/)
 - [How to Prevent Users from Creating Pages by Type](https://timonweb.com/tutorials/prevent-users-from-creating-certain-page-types-in-wagtail-cms/)
+- [Drupal Front End WTF, Wagtail Front End FTW](https://medium.com/@kevinhowbrook/drupal-front-end-wtf-wagtail-front-end-ftw-17712628df3e) - 比较Drupal和Wagtail Markup以及每个CMS的方法
 
 ### Recipes
 
@@ -263,9 +264,13 @@
 - [PyPI - Python Package Index](https://pypi.org/search/?q=Wagtail) -  Python Package Index上的Wagtail包.
 - [Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) -  Django包上的Wagtail项目和包.
 
+## For editors
+
+- [How Do I Wagtail?](https://foundation.mozilla.org/en/docs/how-do-i-wagtail/)   -  Mozilla的编辑面向如何使用Wagtail管理界面的指南.  托管的来源 [Mozilla's Github](https://github.com/mozilla/foundation.mozilla.org/tree/master/network-api/networkapi/wagtailpages)
+
 ## Community
 
-- [Dutch Wagtail Meetup](https://www.meetup.com/Dutch-Wagtail-Meetup/) - 对于有兴趣使用Wagtail工作和开发的人来说，这是一个小组.
+- [Dutch Wagtail Meetup](https://www.meetup.com/Dutch-Wagtail-Meetup/) - 对于任何有兴趣使用Wagtail工作和开发的人来说，这是一个小组.
 - [Wellington Wagtail CMS Meetup](https://www.meetup.com/Wellington-Wagtail-CMS-Meetup/) - 新西兰第一次Wagtail CMS聚会！
 - [Wagtail Space](https://www.wagtail.space/)   -  Wagtail训练课程，Wagtail（闪电）讲话和Wagtail冲刺.  从2019年3月13日至15日，Wagtail Space将在荷兰阿纳姆举行.
 - [Wagtail’s first hatch](https://www.kickstarter.com/projects/noripyt/wagtails-first-hatch) -  Kickstarter加速Wagtail发展的运动.

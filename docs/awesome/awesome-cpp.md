@@ -158,7 +158,7 @@
 * [ArrayFire](https://github.com/arrayfire/arrayfire)   - 通用GPU库.  [BSD]
 * [Async++](https://github.com/Amanieu/asyncplusplus)   -  C ++ 11的轻量级并发框架，受Microsoft PPL库和N3428 C ++标准提案的启发.  [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
-* [Bolt](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
+* [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
 * [concurrentqueue](https://github.com/cameron314/concurrentqueue)   - 用于C ++ 11的快速多生产者，多用户无锁并发队列.  [BSD，提升]
 * [Cpp-Taskflow](https://github.com/cpp-taskflow/cpp-taskflow)   - 具有任务依赖性的快速C ++并行编程.  [MIT]
@@ -196,7 +196,7 @@
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)   - 一个快速的只有标题的哈希映射，它使用跳房子散列来解决冲突.  [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)   - 局部敏感散列（LSH）的c ++工具箱，提供了几种流行的LSH算法，也支持Python和MATLAB.  [GPL]
 * [plf::list](https://github.com/mattreecebentley/plf_list)   - 一个std :: list实现，它删除了范围拼接，以便启用缓存更友好的结构，从而产生显着的性能提升.  [ZLIB] [website](http://www.plflib.org/list.htm)
-* [plf::stack](https://github.com/mattreecebentley/plf_stack)   -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器.  [ZLIB] [website](http://www.plflib.org/stack.htm)
+* [plf::stack](https://github.com/mattreecebentley/plf_stack) <i>- A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context.</i> <b> -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器。</b> <i>[zLib]</i> <b>[ZLIB]</b> [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)   -  Arthur O&#39;Dwyer的ring_span实现的简化实现，即.  循环缓冲区视图.  [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp)   - 用于C ++的快速，内存有效的哈希映射.  [BSD 3条款]
 
@@ -492,9 +492,9 @@
 * [MIRACL](https://github.com/CertiVox/MIRACL)   -  Multiprecision Integer和Rational算术加密库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)   -  muParser是一个用C ++编写的可扩展的高性能数学表达式解析器库.  [MIT]
 * [NT2](https://github.com/Mathieu-/nt2)   -  SIMD优化的数字模板库，提供类似MATLAB语法的接口.  [促进]
-* [LibTomMath](https://github.com/libtom/libtommath) - 一个完全用C语言编写的免费开源便携式数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
+* [LibTomMath](https://github.com/libtom/libtommath) - 完全用C语言编写的免费开源便携式数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
 * [linmath.h](https://github.com/datenwolf/linmath.h)   - 精益线性数学库，旨在图形编程.  [WTFPL]
-* [lp_solve](https://sourceforge.net/projects/lpsolve)   - 用于制定和解决线性编程问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
+* [lp_solve](https://sourceforge.net/projects/lpsolve)   - 用于制定和解决线性规划问题的库.  [LGPL] [website](http://lpsolve.sourceforge.net)
 * [OpenBLAS](https://github.com/xianyi/OpenBLAS)   - 基于GotoBLAS2 1.13 BSD版本的优化BLAS库.  [BSD 3条款] [website](http://www.openblas.net/)
 * [QuantLib](https://github.com/lballabio/quantlib)   - 用于量化融资的免费/开源库.  [改良BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)   - 仅限C ++头的统计分布函数库.  [Apache2的] [website](https://www.kthohr.com/statslib.html)
@@ -605,17 +605,19 @@
 * [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum)   - 仅限标头的C ++ 17库为枚举（字符串，字符串，迭代）提供静态反射，可以使用任何枚举类型而无需任何宏或样板代码.  [MIT]
-* [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
+* [meta](https://github.com/skypjack/meta)   -  C ++中的头文件，非侵入式和无宏运行时反射系统.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
 
 ## Regular Expression
 
-* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)   -  C ++正则表达式变得简单.  [MIT]
+* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)   - 简化C ++正则表达式.  [MIT]
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions)   - 编译时间PCRE（几乎）兼容的正则表达式匹配器.  [MIT]
+* [Hyperscan](https://github.com/intel/hyperscan)   -  Hyperscan是英特尔的高性能多重正则表匹配库.  提供大量正则表达式（最多数万个）的同时匹配.  通常用于DPI库堆栈.  [BSD]
 * [Oniguruma](https://github.com/kkos/oniguruma)   - 一个现代而灵活的正则表达式库，支持各种字符编码.  [BSD]
 * [PCRE](http://pcre.org/)   - 受Perl中正则表达式功能启发的正则表达式C库.  [BSD]
+* [PIRE](https://github.com/yandex/pire)   -  Yandex的Perl不兼容的正则表达式库.  可以非常快（超过400 MB / s）.  [LPGL v3.0]
 * [RE2](https://github.com/google/re2)   - 使用自动机理论通过有限状态机进行正则表达式的软件库.  [BSD -3-第]
 * [SLRE](https://github.com/cesanta/slre)   - 用于C / C ++的超轻型Regexp引擎.  [在GPLv2 /商业]
 * [sregex](https://github.com/openresty/sregex)   - 非回溯NFA / DFA的Perl兼容正则表达式引擎库，用于匹配大数据流.  [BSD]
@@ -671,7 +673,7 @@
 * [cppcodec](https://github.com/tplgy/cppcodec)   - 仅限头文件的C ++ 11库，用于编码/解码base64，base32和hex，具有一致，灵活的API.  [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)   - 内存高效的序列化库.  [Apache2的]
 * [MessagePack](https://github.com/msgpack/msgpack-c)   - 用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2的] [website](http://msgpack.org/)
-* [nanopb](https://github.com/nanopb/nanopb) -  ANSI C中的小代码大小的协议缓冲区实现.[Zlib]
+* [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
 * [protobuf](https://github.com/google/protobuf)   - 协议缓冲区 - 谷歌的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) -  C中的协议缓冲器实现.[BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)   - 为低延迟应用程序编码和解码二进制格式的应用程序消息.  [Apache2的]
@@ -707,7 +709,7 @@
 * [Cutelyst](https://github.com/cutelyst/cutelyst)   - 使用Catalyst（Perl）框架的简单方法构建在Qt之上的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [facil.io](https://github.com/boazsegev/facil.io)   - 支持HTTP，WebSockets，SSE等的平衡，高性能C Web框架.  [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - 用于在C中开发的用于Web应用程序的超快速且灵活的Web服务器/框架.[ISC]
-* [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，可帮助您使用C编程语言创建Web服务器.  [LGPLv3]
+* [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)   - 实验性，可扩展，高性能的HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)   - 轻量级，零依赖性框架，以创建高性能的Web服务.  [Apache的2.0] [website](https://oatpp.io/) 
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
@@ -725,7 +727,7 @@
 * [Mini-XML](https://github.com/michaelrsweet/mxml) - 用ANSI C编写的小型XML解析库.[LGPL2 with exceptions]
 * [PugiXML](http://pugixml.org/)   - 一个轻量级，简单快速的XML解析器，适用于支持XPath的C ++.  [MIT]
 * [RapidXml](http://rapidxml.sourceforge.net/)   - 尝试创建最快的XML解析器，同时保持可用性，可移植性和合理的W3C兼容性.  [促进]
-* [TinyXML](http://sourceforge.net/projects/tinyxml/)   - 一个简单，小巧，简约的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
+* [TinyXML](http://sourceforge.net/projects/tinyxml/)   - 一个简单，小巧，简单的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML2](https://github.com/leethomason/tinyxml2)   - 一个简单，小巧，高效的C ++ XML解析器，可以轻松集成到其他程序中.  [ZLIB]
 * [TinyXML++](https://github.com/rjpcomputing/ticpp)   -  TinyXML的全新界面，它使用了许多C ++优势.  模板，异常和更好的错误处理.  [MIT]
 * [Xerces-C++](http://xerces.apache.org/xerces-c/)   - 用C ++的可移植子集编写的验证XML解析器.  [Apache2的]
@@ -768,7 +770,7 @@
 * [stdman](https://github.com/jeaye/stdman)  格式化的C ++ 11/14 stdlib手册页（来自cppreference）.  [MIT]
 * [stb](https://github.com/nothings/stb)  ：zap： - 一系列用于C / C ++的单文件库.  [公共区域]
 * [StrTk](http://www.partow.net/programming/strtk/index.html)   - 由高性能字符串处理例程组成的C ++库.  [MIT]
-* [Tulip Indicators](https://tulipindicators.org)   - 超过100个财务技术分析指标的AC库.  [LGPL]
+* [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - 一组C / C ++程序，试图让编译器利用未定义的行为.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet)  用于左值，右值等的PDF备忘单.  [Jank copyleft]
 * [VarTypes](https://code.google.com/p/vartypes/)   - 一个功能丰富，面向对象的框架，用于管理C ++ / Qt4中的变量.  [LGPL]
@@ -848,7 +850,7 @@
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
-* [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供大量软件包.
+* [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供了大量软件包.
 * [Cget](https://github.com/pfultz2/cget)   -  Cmake包检索.  [促进] [website](http://cget.readthedocs.io)
 * [Conan](https://conan.io/)   -  C / C ++ Package Manager，开源.  [MIT]
 * [CPM](https://github.com/iauns/cpm) - 基于CMake和Git的C ++包管理器.
