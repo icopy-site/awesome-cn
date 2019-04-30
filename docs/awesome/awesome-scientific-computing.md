@@ -27,6 +27,8 @@ them.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - 线性代数的C ++模板库.
   （C ++，MPL 2， [BitBucket](https://bitbucket.org/eigen/eigen))
+- [Ginkgo](https://ginkgo-project.github.io/) - 高性能多核线性代数库，专注于稀疏系统.
+  （100 ++，BSD， [GitHub](https://github.com/ginkgo-project/ginkgo))
 
 
 ## Frameworks
@@ -35,7 +37,7 @@ them.
   （C，2条款BSD， [BitBucket](https://bitbucket.org/petsc/petsc/src))
 - [DUNE Numerics](https://www.dune-project.org) - 使用基于网格的方法解决PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
-- [SciPy](https://www.scipy.org) - 用于统计，优化，集成，线性代数，傅立叶变换，信号和图像处理，ODE求解器等的Python模块.
+- [SciPy](https://www.scipy.org) - 用于统计，优化，集成，线性代数，傅里叶变换，信号和图像处理，ODE求解器等的Python模块.
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
 - [NumPy](https://www.numpy.org) - 使用Python进行科学计算所需的基础包.
   （Python，BSD， [GitHub](https://github.com/numpy/numpy))
@@ -91,7 +93,7 @@ them.
   （C ++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - 二维质量网格生成器和Delaunay三角形.
   （C，*非自由软件*）
-- [optimesh](https://github.com/nschloe/optimesh) - 三角网格平滑.
+- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
   （Python，MIT，GitHub）
 - [distmesh](http://persson.berkeley.edu/distmesh/) - 用于非结构化三角形和四面体网格的简单生成器.
   （MATLAB，GPL 3）
@@ -126,7 +128,7 @@ them.
   （C ++，GPL 3， [GitHub](https://github.com/OpenFOAM/OpenFOAM-dev))
 - [ParaView](https://www.paraview.org) - 基于VTK的多平台数据分析和可视化应用.
   （100 ++，BSD， [GitLab](https://gitlab.kitware.com/paraview/paraview))
-- [quadpy](https://github.com/nschloe/quadpy) - Numerical integration (quadrature, cubature) in Python.
+- [quadpy](https://github.com/nschloe/quadpy) -  Python中的数值积分（正交，立方）.
   （Python，MIT，GitHub）
 - [FiPy](https://www.ctcms.nist.gov/fipy/) - 有限体积PDF解算器.
   （Python，[自定义开源
@@ -137,7 +139,7 @@ them.
 - [SLEPc](http://slepc.upv.es) - 特征值问题计算的可扩展库.
   （C，2条款BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - 具有大约15位精度的功能计算.
-  （MATLAB，BSD，[GitHub](https://github.com/chebfun/chebfun))
+  （MATLAB，BSD， [GitHub](https://github.com/chebfun/chebfun))
 
 
 ## Community
@@ -148,6 +150,7 @@ them.
 - [Nick Trefethen's Video Lectures](https://people.maths.ox.ac.uk/trefethen/videos.html) - 关于近似理论/实践和科学计算的36个视频讲座.
 - [John D. Cook's blog](https://www.johndcook.com/blog/) - 科学计算的功能.
 - [Jack Dongarra's software list](https://www.netlib.org/utk/people/JackDongarra/la-sw.html) - 用于解决线性代数问题的免费软件列表.
+- [NA Digest](http://www.netlib.org/na-digest-html/) - 收集有关数值分析和实践的主题的文章.
 
 ## License
 

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="KotlinBy/awesome-kotlin"></div>
 <!--
     这是GENERATED文件，
-    请阅读CONTRIBUTING.md了解更多信息.
+    please read CONTRIBUTING.md for more information.
 -->
 
 ## Awesome Kotlin ([https://kotlin.link](https://kotlin.link))
@@ -124,11 +124,11 @@
 * [JetBrains/spek](https://github.com/jetbrains/spek) -  Kotlin的规范框架.
 * [npryce/hamkrest](https://github.com/npryce/hamkrest) - 重新实现Hamcrest以利用Kotlin语言功能.
 * [nhaarman/mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - 使用Mockito和Kotlin.
-* [robstoll/atrium](https://github.com/robstoll/atrium) -  Kotlin支持i18n的流畅断言库.
+* [robstoll/atrium](https://github.com/robstoll/atrium) -  Kotlin支持i18n的多平台断言库.
 * [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent) -  Kotlin的流利断言图书馆.
 * [winterbe/expekt](https://github.com/winterbe/expekt) -  Kotlin的BDD断言库.
 * [som-one/zarif-kherkin](https://github.com/som-one/zarif-kherkin) - 使用Kotlin DSL为Gherkin进行可配置的BDD测试.
-* [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) -  KotlinTest是一个灵活而全面的测试工具，适用于Kotlin生态系统，其基础和精湛的Scalatest灵感.
+* [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) -  KotlinTest是一款灵活而全面的测试工具，适用于Kotlin生态系统，其基础上受到了极好的Scalatest的启发.
 * [dmcg/konsent](https://github.com/dmcg/konsent) -  Kotlin的验收测试库.
 * [EPadronU/balin](https://github.com/EPadronU/balin)   -  Balin是Kotlin的浏览器自动化库.  它基本上是一个受Geb启发的Selenium-WebDriver包装库.
 * [dmcg/k-sera](https://github.com/dmcg/k-sera) -  Kotlin的JMock包装器.
@@ -183,7 +183,7 @@
 * [SalomonBrys/Kotson](https://github.com/SalomonBrys/Kotson) -  Kson的Gson，Kotson使您能够使用更简洁，更简单的语法来解析和使用Google的Gson编写JSON.
 * [FasterXML/jackson-module-kotlin](https://github.com/FasterXML/jackson-module-kotlin) -  Jackson模块，增加了对Kotlin类和数据类的序列化/反序列化的支持.
 * [Shengaero/kotlin-json](https://github.com/Shengaero/kotlin-json) - 用于Kotlin-JVM和Kotlin-JS的轻量级，风格，优化和多平台JSON库
-* [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) voltage  - Klax대的〔延伸，presentation，Enum，address&gt;中&gt;
+* [fboldog/ext4klaxon](https://github.com/fboldog/ext4klaxon) - 为Klaxon输入Extensions（Long，Int，Enum，Date）.
 * [Jire/KTON](https://github.com/Jire/KTON) - 纯Kotlin中的对象表示法！
 * [fluidsonic/fluid-json](https://github.com/fluidsonic/fluid-json) - 用纯Kotlin编写的JSON库.
 * [s4kibs4mi/kotlin-jsonq](https://github.com/s4kibs4mi/kotlin-jsonq) - 一个简单的Kotlin库来查询Json数据.
@@ -278,7 +278,7 @@
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) -  krangl是一个用于数据转换的{K} otlin库
 * [debop/koda-time](https://github.com/debop/koda-time)   -  Kotlin的Joda Time Extensions.  （从Java 8开始使用java.time）
 * [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging)   -  Kotlin的轻量级日志框架.  用作带有Kotlin扩展的slf4j的包装器.
-* [cesarferreira/kotlin-pluralizer](https://github.com/cesarferreira/kotlin-pluralizer) -  Kotlin扩展以复数和单一化字符串.
+* [cesarferreira/kotlin-pluralizer](https://github.com/cesarferreira/kotlin-pluralizer) -  Kotlin扩展到复数和单一化字符串.
 * [JoelW-S/groothy](https://github.com/JoelW-S/groothy) -  Kotlin实现Groovy Truth.
 * [Jire/Strukt](https://github.com/Jire/Strukt) - 今天JVM上的值类型！
 * [moshbit/Kotlift](https://github.com/moshbit/Kotlift) -  Kotlift是第一个从Kotlin到Swift的源到源语言转换器.
@@ -376,7 +376,7 @@
 * [ratpack/example-ratpack-gradle-kotlin-app](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - 使用Gradle构建的Kotlin Ratpack应用程序示例.
 * [mariomac/codebuilder](https://github.com/mariomac/codebuilder) - 演示有关长响应时间Web应用程序的异步体系结构的应用程序.
 * [cbedoy/DYUM](https://github.com/cbedoy/DYUM) - 遵循MVP的基本Kotlin实施，以及使用Natural Analytics Language的第三方库
-* [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - 使用Kotlin和Tensorflow Lite的Android上的计算机视觉.
+* [eddywm/KTFLITE](https://github.com/eddywm/KTFLITE) - 使用Kotlin和Tensorflow Lite在Android上运行计算机视觉.
 * [rocketraman/kotlin-web-hello-world](https://github.com/rocketraman/kotlin-web-hello-world)   - 这个项目展示了如何做一个基于网络的“Hello World！”  与Kotlin结合使用各种基于JVM的Web框架.
 * [ivanpopelyshev/vertx-facebook-messenger](https://github.com/ivanpopelyshev/vertx-facebook-messenger)   -  facebook messenger机器人的种子项目.  Vertx，Kotlin.
 * [corda/corda](https://github.com/corda/corda) -  Corda是一个分布式账本平台，旨在记录，管理和自动化业务合作伙伴之间的法律协议. 
@@ -513,7 +513,7 @@
 * [inaka/kotlillon](https://github.com/inaka/kotlillon) -  Android Kotlin示例.
 * [MakinGiants/todayhistory](https://github.com/MakinGiants/todayhistory) - 显示今天历史上发生的事情的应用程序.
 * [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
-* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中的Java，Groovy，Scala，Kotlin之间的比较.
+* [SidneyXu/AndroidDemoIn4Languages](https://github.com/SidneyXu/AndroidDemoIn4Languages) -  Android开发中Java，Groovy，Scala，Kotlin的比较.
 * [inorichi/tachiyomi](https://github.com/inorichi/tachiyomi) - 适用于Android的免费和开源漫画阅读器.
 * [ziggy42/Blum-kotlin](https://github.com/ziggy42/Blum-kotlin) - 一个用Kotlin编写的简单的android Twitter客户端
 * [TwidereProject/Twidere-Android](https://github.com/TwidereProject/Twidere-Android) - 适用于Android 4.0+的Material Design准备和功能丰富的Twitter应用程序
@@ -522,7 +522,7 @@
 * [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - 可以使用不同颜色绘制的画布.
 * [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 用于浏览和编辑文件和目录的简单文件管理器.
 * [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 用于查看没有广告的照片和视频的图库.
-* [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 一个简单的文本字段，用于添加无广告的快速笔记.
+* [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 用于添加没有广告的快速笔记的简单文本字段.
 * [ahong222/happy21](https://github.com/ahong222/happy21) - 一个简单的黑杰克游戏与kotlin写
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - 广泛的Kotlin Android Utils系列
 * [inshiro/Kodesh](https://github.com/inshiro/Kodesh) - 适用于Android的免费和开源圣经
@@ -597,7 +597,7 @@
 
 ## <a name="kotlin-user-groups"></a>Kotlin User Groups <sup>[Back ⇈](#kotlin-user-groups-category)</sup>
 ### <a name="kotlin-user-groups-europe"></a>Europe <sup>[Back ⇈](#kotlin-user-groups-europe-subcategory)</sup>
-* [Amsterdam Kotlin User Group](https://www.meetup.com/kotlin-amsterdam/) - Netherlands
+* [Amsterdam Kotlin User Group](https://www.meetup.com/kotlin-amsterdam/) - 荷兰
 * [Athens Kotlin User Group](https://www.meetup.com/Kotlin-Athens/) - 希腊
 * [Barcelona, KotlinBCN](https://www.meetup.com/kotlinbcn/) - 西班牙
 * [Belarus Kotlin User Group](https://bkug.by/) - 白俄罗斯
@@ -612,7 +612,7 @@
 * [Dnipro Kotlin User Group](https://www.meetup.com/Kotlin-Dnipro/) - 乌克兰
 * [Dublin Kotliners](https://www.meetup.com/Dublin-Kotliners/) - 爱尔兰
 * [Dusseldorf Kotlin User Group](https://www.meetup.com/Dusseldorf-Kotlin-Meetup/) - 德国
-* [Dutch Kotlin User Group](http://kotlin.nl/) - Netherlands
+* [Dutch Kotlin User Group](http://kotlin.nl/) - 荷兰
 * [Hamburg Kotlin User Group](https://www.meetup.com/de-DE/Kotlin-User-Group-Hamburg/) - 德国
 * [Helsinki Kotlin User Group](https://www.meetup.com/Kotlin-User-Group-Helsinki/?from=ref) - 芬兰
 * [Italy Kotlin User Group](https://www.facebook.com/groups/kotlinitaly/) - 意大利
@@ -634,7 +634,7 @@
 * [Stockholm Kotlin User Group](https://www.meetup.com/Sweden-Kotlin-User-Group/) - 瑞典
 * [Swiss Kotlin User Group](https://www.meetup.com/Kotlin-Swiss-User-Group/) - 瑞士
 * [Toulouse Kotlin User Group](https://www.meetup.com/fr-FR/Toulouse-Kotlin-User-Group/) - 法国
-* [Utrecht Kotlin User Group](https://www.meetup.com/meetup-group-YgJEOzCn/) - Netherlands
+* [Utrecht Kotlin User Group](https://www.meetup.com/meetup-group-YgJEOzCn/) - 荷兰
 * [Uzhgorod Kotlin User Group](https://www.facebook.com/groups/135578123824203/) - 乌克兰
 * [Vienna Kotlin](https://www.meetup.com/Kotlin-Vienna/) - 奥地利
 * [Wroclaw Kotlin](https://www.meetup.com/pl-PL/Kotlin-Wroclaw) - 波兰
@@ -905,7 +905,7 @@
 * [Scala vs Kotlin: Pimp my library](http://kotlin.link/articles/Scala-vs-Kotlin-Pimp-my-library.html) - NicolasFränkel
 * [First glimpse of Kotlin 1.1: Coroutines, Type aliases and more](http://kotlin.link/articles/First-glimpse-of-Kotlin-1-1-Coroutines-Type-aliases-and-more.html) - 安德烈·布雷斯拉夫
 * [Scala vs Kotlin: Operator overloading](http://kotlin.link/articles/Scala-vs-Kotlin-Operator-overloading.html) - NicolasFränkel
-* [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) -  Przemek东布罗夫斯基
+* [Things We've Learned During Coolcal Development in Kotlin](http://kotlin.link/articles/Things-We-ve-Learned-During-Coolcal-Development-in-Kotlin.html) - PrzemekDąbrowski
 * [JUnit 5 with Spring Boot (plus Kotlin)](http://kotlin.link/articles/JUnit-5-with-Spring-Boot-plus-Kotlin.html) -  Mike Plummer
 * [UI Testing: separating Assertions from Actions with Kotlin DSL](http://kotlin.link/articles/UI-Testing-separating-Assertions-from-Actions-with-Kotlin-DSL.html) -  Artem Zinnatullin
 * [KotlinLifeguard #1](http://kotlin.link/articles/KotlinLifeguard-1.html) -  Daniel Gomez Rico

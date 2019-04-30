@@ -11,7 +11,7 @@
 
 *简化bean映射的框架.*
 
-- [dOOv](https://github.com/doov-io/doov)   - 为类型安全域模型验证和映射提供流畅的API.  它使用注释，代码生成和类型安全的DSL来快速简便地进行bean验证和映射.
+- [dOOv](https://github.com/doov-io/doov)   - 为类型安全域模型验证和映射提供流畅的API.  它使用注释，代码生成和类型安全的DSL来快速轻松地进行bean验证和映射.
 - [Dozer](https://github.com/DozerMapper/dozer) - 使用注释和API或XML配置将数据从一个对象复制到另一个对象的映射器.
 - [JMapper](https://jmapper-framework.github.io/jmapper-core)   - 使用字节代码操作进行闪电般的快速映射.  支持注释和API或XML配置.
 - [MapStruct](https://github.com/mapstruct/mapstruct) - 代码生成器，基于配置约定方法，简化不同bean类型之间的映射.
@@ -162,7 +162,7 @@
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 高性能JDBC连接池.
 - [jasync-sql](https://github.com/jasync-sql/jasync-sql) -  MySQL和PostgreSQL的异步数据库驱动程序.
 - [JDBI](http://jdbi.org) - 方便的JDBC抽象.
-- [Jedis](https://github.com/xetorthio/jedis) - 与Redis交互的小客户端，具有命令方法.
+- [Jedis](https://github.com/xetorthio/jedis) - 与Redis交互的小客户端，以及命令方法.
 - [Jest](https://github.com/searchbox-io/Jest) -  Elasticsearch REST API的客户端.
 - [jetcd](https://github.com/justinsb/jetcd) -  etcd的客户端库.
 - [Jinq](https://github.com/my2iu/Jinq) - 通过符号执行Java 8 Lambdas（在JPA或jOOQ之上）来输入数据库查询.
@@ -757,7 +757,7 @@
 - [JGraphT](https://github.com/jgrapht/jgrapht) - Graph library that provides mathematical graph-theory objects and algorithms.
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化的库（主要是Swing）并与节点边图交互.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算，可视化和数字信号分析的库.
-- [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供通用的二维内存高效表格数据结构，称为DataFrame，以便为JVM上的科学计算实现高效的内存分析.
+- [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供称为DataFrame的多功能二维内存高效表格数据结构，以便为JVM上的科学计算实现高效的内存分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts) - 生成各种3D图表，可以使用Swing和JavaFX显示或导出为PDF，SVG，PNG和JPEG.
 - [Tablesaw](https://github.com/lwhite1/tablesaw) - 包括数据框架，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)   - 用于绘制数据的轻量级库.  可以使用许多可自定义的图表类型.
@@ -790,9 +790,9 @@
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
 - [PicketLink](http://picketlink.org) - 用于安全和身份管理的伞项目.
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
-- [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
+- [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 
@@ -980,6 +980,7 @@
 - [ciandcd](https://github.com/ciandcd/awesome-ciandcd)
 - [Useful Java Links](https://github.com/Vedenin/useful-java-links)
 - [Java Concurrency Checklist](https://github.com/code-review-checklists/java-concurrency)
+- [Java Developer Roadmap](https://github.com/s4kibs4mi/java-developer-roadmap)
 
 ### Communities
 

@@ -14,7 +14,7 @@
 ## General
 
 - [Serverless.com](http://serverless.com) -  Serverless.com主页.
-- [Documentation](http://docs.serverless.com) -  Serverless.com文档.
+- [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
 - [Forum](http://forum.serverless.com) - 官方无服务器论坛.
 - [Meetups](http://serverlessmeetups.com) - 列出所有官方无服务器聚会.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) -  Stack Overflow问题.
@@ -22,7 +22,7 @@
 - [Serverless Weekly](https://serverless.email) - 关于无服务器架构和范例的每周简报.
 - [Serverless working group](https://github.com/cncf/wg-serverless) -  CNCF无服务器工作组.
 - [Serverless Summit](http://inserverless.com) - 关于无服务器技术/计算的会议.
-- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
+- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - 无服务器框架插件的目录.
 - [OpenEvents](https://openevents.io) - 以通用方式描述事件数据的规范.
 - [The power of serverless](https://thepowerofserverless.info) - 概述为什么无服务器是一个很好的选择 - 特别是对于前端开发人员.
 
@@ -86,7 +86,7 @@
 - [CloudWatch public metrics](https://github.com/RafalWilinski/cloudwatch-public-metrics) - 将AWS CloudWatch指标公开为公共HTML页面.
 - [Invoicely](https://github.com/EwanValentine/invoicely) - 发票自动化工具.
 - [World Cup Slackbot](https://github.com/phstc/serverless-world-cup-slack-bot) -  2018年后FIFA世界杯俄罗斯™赛事与Slack比赛.
-- [Serverless Express](https://github.com/mikestaub/serverless-express) - 通过无服务器框架在AWS Lambda上运行未经修改的快速应用程序.
+- [Serverless Express](https://github.com/mikestaub/serverless-express) - 通过无服务器框架在AWS Lambda上运行未修改的快速应用程序.
 - [TypeScript composite monorepo](https://github.com/tommedema/serverless-mono-example) - 使用Typescript 3.0复合引用的Yarn / Lerna工作区，使用`nohoist`进行兼容的无服务器应用程序打包.
 - [Next serverless](https://github.com/cyrilwanner/next-serverless) - 将next.js应用程序部署到AWS Lambda.
 - [Serverless Central](https://github.com/zotoio/serverless-central) - 样品Lambda monorepo.
@@ -134,6 +134,7 @@
 - [Serverless streaming architectures](https://d1.awsstatic.com/serverless/Whitepaper/Stream%20Processing%20Whitepaper.pdf) - 无服务器流式架构和最佳实践.
 - [Develop a Serverless Backend using Node.js on AWS Lambda](https://egghead.io/courses/develop-a-serverless-backend-using-node-js-on-aws-lambda) - 了解如何使用Lambda的新异步/等待语法创建无服务器API并将其连接到DynamoDB.
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - 如何在完全无服务器的体系结构中应用敏捷实践.
+- [AI as a Service](https://www.manning.com/books/ai-as-a-service)  这本书教你如何利用基于云的AI服务和无服务器计算的强大功能.  无服务器AI的工程方法.
 
 ## Professional services
 

@@ -153,7 +153,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Flannel](https://github.com/coreos/flannel/)   -  Flannel是一个虚拟网络，为每个主机提供一个子网，用于容器运行时.  由[@coreos] [coreos]
 - [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  [@microsoft] [https://github.com/Microsoft/]
 - [netshoot](https://github.com/nicolaka/netshoot) -  netshoot容器具有一组强大的网络工具，可帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
-- [Pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [@jpetazzo][jpetazzo]
+- [Pipework](https://github.com/jpetazzo/pipework)   -  Linux容器的软件定义网络，Pipework使用“普通”LXC容器，以及令人敬畏的Docker.  由[@jpetazzo] [jpetazzo]
 -  [Weave] [weave]（Docker网络） -  Weave创建一个虚拟网络，连接跨多个主机部署的Docker容器.
 
 ### Orchestration
@@ -238,7 +238,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)   -  Blockbridge插件是一个卷插件，可以访问一组可扩展的基于容器的持久存储选项.  它支持单主机和多主机Docker环境，其功能包括租户隔离，自动配置，加密，安全删除，快照和QoS.  通过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)   - 一个开源的Docker卷驱动程序，可以在任何地方快照，备份和恢复Docker卷.  由[@rancher] [牧场主]
-- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为OS X上通过Docker Machine创建的现有boot2docker框激活NFS.
+- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison)  使用Unison进行快速双向文件夹同步的docker卷容器.  创建作为OS X上缓慢boot2docker卷的替代方法 [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/MatchbookLab/local-persist) 为本地卷指定一个挂载点（通过`docker volume create`创建），这样文件将始终保持不变，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) -  Docker容器中的S3兼容对象存储服务器
@@ -319,7 +319,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 -  [CoreOS] [coreos]  - 用于大规模服务器部署的Linux
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 通过[@GoogleContainerTools] [googlecontainertools]减去语言的码头图像，减去操作系统
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - 一个超级小型Docker基础图像_（5MB）_使用Alpine Linux [@gliderlabs] [gliderlabs]
-- [docker-gen](https://github.com/jwilder/docker-gen) -  [@jwilder] [jwilder]从docker容器元数据生成文件
+- [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder][jwilder]
 - [dockerize](https://github.com/jwilder/dockerize) -  [@jwilder] [jwilder]简化在docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) - 以此特定用户身份运行此特定应用程序，然后退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) -  [@sindresorhus] [sindresorhus]检查进程是否在Docker容器内运行
@@ -517,7 +517,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Wrappers
 
 - [Ansible](https://docs.ansible.com/ansible/latest/modules/docker_container_module.html)   - 管理Docker容器的生命周期.  通过RedHat
-- [Azk](https://github.com/azukiapp/azk) - Orchestrate development environments on your local machine by [@azukiapp](https://github.com/azukiapp)
+- [Azk](https://github.com/azukiapp/azk) - 在本地计算机上协调开发环境 [@azukiapp](https://github.com/azukiapp)
 - [Beluga](https://github.com/cortexmedia/Beluga)  ：skull： - 用于在单个服务器或少量服务器上部署docker容器的CLI.  通过 [@cortextmedia](https://github.com/cortexmedia)
 - [dexec](https://github.com/docker-exec/dexec) - 用Go编写的命令行界面，用于运行Docker Exec映像的代码.
 - [docker-do](https://github.com/benzaita/docker-do) - 无忧无虑的码头运行，如`env`，但对于docker来说 [@benzaita](https://github.com/benzaita)
@@ -538,7 +538,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [CodeFresh](https://codefresh.io)  ：heavy_dollar_sign： - 构建，测试和共享Docker应用程序所需的一切.  提供自动端到端测试.
 - [CodeShip](https://cms.codeship.com/features/pro) ：heavy_dollar_sign： - 使用您已建立的Docker工作流程，同时使用专用于速度和安全性的托管平台自动执行测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign： - 面向管道开发人员和DevOps团队的CI SaaS平台.
-- [IBM Bluemix Continous Delivery](https://console.bluemix.net/devops/getting-started?auth=false) ：heavy_dollar_sign： - 使用管道部署在Bluemix上的IBM容器上持续交付.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign： - 一种高性能云解决方案，可以轻松构建，测试容器并将其运送到生产中.
 - [Shippable](https://app.shippable.com/) ：heavy_dollar_sign： - 面向开发人员和DevOps团队的SaaS平台，可显着减少构建，测试和部署代码到生产所需的时间.
 - [TravisCI](https://travis-ci.org/) ：heavy_dollar_sign： - 免费的github为开发人员和Devops项目提供持续集成的Saas平台.
@@ -555,7 +554,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dockhero](https://dockhero.io/)  ：heavy_dollar_sign： -  Dockhero是一个Heroku附加组件，它将Docker镜像转换为连接到Heroku应用程序的微服务.  目前处于测试阶段
 - [Giant Swarm](https://giantswarm.io/)  ：heavy_dollar_sign： - 简单的微服务基础设施.  在几秒钟内部署您的容器.
 - [Google Container Engine](https://cloud.google.com/kubernetes-engine/docs/) ：heavy_dollar_sign： - 由[Kubernetes] [kubernetes]提供支持的Google云计算上的Docker容器.
-- [IBM Bluemix Container Service](https://console.bluemix.net/docs/containers/container_index.html) ：heavy_dollar_sign： - 在IBM Bluemix上的托管云环境中运行Docker容器.
 - [Jelastic Cloud](https://jelastic.cloud/)  ：heavy_dollar_sign： - “易于使用”的容器托管平台，具有自动垂直和水平缩放功能.  全球超过50家托管服务提供商.
 - [Mesosphere DC/OS](https://mesosphere.com/product/) ：heavy_dollar_sign： - 基于Apache Mesos构建的数据和容器的集成平台 [@mesosphere](https://mesosphere.com)
 - [OpenShift Dedicated](https://www.openshift.com/products/dedicated/) ：heavy_dollar_sign： - 一个托管的[OpenShift] [openshift]集群，用于运行由Red Hat管理的Docker容器.

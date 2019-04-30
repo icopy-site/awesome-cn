@@ -64,6 +64,7 @@
 * [SSR Split (A/B) Testing and Analytics with React, Redux, and Next.js](https://hackernoon.com/tutorial-ssr-split-testing-and-analytics-with-react-redux-and-next-js-5392799c15c7)
 * [Material-UI: Get started (Fast!) ⚡ React 16+](https://hackernoon.com/material-ui-get-started-fast-react-16-eea211d65308)
 * [Learn React.js - Full Course for Beginners - Tutorial 2019 (free & interactive)](https://scrimba.com/g/glearnreact)
+* [Build a Pet Hotel web app with React, GraphQL, NodeJS and Database using ScaffoldHub (7h 11m)](https://www.youtube.com/watch?v=MMOvx38dXz4)
 
 ##### React best practices
 
@@ -277,6 +278,7 @@
 * [reach-router - Next Generation Routing for React](https://github.com/reach/router)
 * [curi - JavaScript router for SPA](https://curi.js.org/)
 * [navi - Declarative, asynchronous routing for React. Supports hooks, suspense & static rendering.](https://github.com/frontarm/navi)
+* [react-use-path - The tiniest hook style react router.](https://github.com/zhangkaiyulw/react-use-path)
 
 ##### React Projects
 * [gatsby - Transform plain text into dynamic blogs and websites using React.js](https://github.com/gatsbyjs/gatsby)
@@ -674,7 +676,6 @@
 * [react-reactive-form - Angular like reactive forms in React](https://github.com/bietkul/react-reactive-form)
 
 ##### Autocomplete
-* [react-typeahead-search by @tonyspiro](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component](https://github.com/moroshko/react-autosuggest)
 * [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS](https://github.com/eliseumds/react-autocomplete)
@@ -723,6 +724,7 @@
 * [ReSub - A library for writing better React components and data stores](https://github.com/Microsoft/ReSub)
 * [ProppyJS - A tiny library for functional props composition](https://proppyjs.com)
 * [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
+* [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 
 ##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools](https://github.com/facebook/react-devtools)
@@ -1209,7 +1211,7 @@
 
 ### Real apps
 
- 记住这是一个**真棒**列表.  要包含在此处，应用应该是：
+ 记住这是一个非常棒的**列表.  要包含在此处，应用应该是：
 
 1.跟踪最新版本的React.
 2.积极维护.

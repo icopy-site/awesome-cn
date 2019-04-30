@@ -94,7 +94,6 @@ android安全相关资源的集合.
 19. [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) - 无法找到实际工具
 20. [AuditdAndroid](https://github.com/nwhusted/AuditdAndroid) - 审计的android端口，不再处于活动开发状态
 21. [Android Security Evaluation Framework](https://code.google.com/p/asef/) - 不再积极发展了
-22. [Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) -  ARE（android逆向工程）不再处于活跃开发状态
 23. [Aurasium](https://github.com/xurubin/aurasium) - 通过字节码重写和就地参考监视器实现Android应用程序的实用安全策略.
 24. [Android Linux Kernel modules](https://github.com/strazzere/android-lkms)
 25. [Appie](https://manifestsecurity.com/appie/)   -  Appie是一个预先配置为Android Pentesting Environment的软件包.  它完全便携，可以通过USB记忆棒或智能手机携带.  这是Android应用安全评估所需的所有工具的一站式解决方案，也是现有虚拟机的绝佳替代方案.
@@ -103,6 +102,7 @@ android安全相关资源的集合.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - 用于移动应用程序Pentesting和移动恶意软件分析的虚拟机
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - 移动应用程序逆向工程和分析框架
 30. [Taintdroid](http://appanalysis.org) - 需要AOSP编译
+31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) -  ARE（android逆向工程）不再处于活跃开发状态了~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 
@@ -121,7 +121,7 @@ android安全相关资源的集合.
 10. [Dare](http://siis.cse.psu.edu/dare/index.html) -  .dex到.class转换器
 11. [Dex2Jar](https://github.com/pxb1988/dex2jar) -  dex转jar转换器
 12. [Enjarify](https://github.com/google/enjarify) - 来自Google的dex to jar转换器
-13. [Dedexer](http://dedexer.sourceforge.net)
+13. [Dedexer](https://sourceforge.net/projects/dedexer/)
 14. [Fino](https://github.com/sysdream/fino)
 15. [Frida](https://www.frida.re/) - 注入javascript来探索应用程序和a [GUI tool](https://github.com/antojoseph/diff-gui) 为了它
 16. [Indroid](https://bitbucket.org/aseemjakhar/indroid) - 螺纹注射套件

@@ -66,7 +66,7 @@
 ### Command-line apps
 
 - [np](https://github.com/sindresorhus/np) - 更好`npm publish`.
-- [npm-name](https://github.com/sindresorhus/npm-name) - 检查npm上是否有可用的包名.
+- [npm-name](https://github.com/sindresorhus/npm-name) - 在npm上检查包裹名称的可用性.
 - [gh-home](https://github.com/sindresorhus/gh-home) - 在当前目录中打开repo的GitHub页面.
 - [npm-home](https://github.com/sindresorhus/npm-home) - 打开包的npm页面.
 - [trash](https://github.com/sindresorhus/trash) - 更安全的替代`rm`.
@@ -176,7 +176,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -190,7 +190,7 @@
 - [ora](https://github.com/sindresorhus/ora) - 优雅的终端旋转器.
 - [get-stdin](https://github.com/sindresorhus/get-stdin) - 更轻松的标准杆.
 - [log-update](https://github.com/sindresorhus/log-update)   - 通过覆盖终端中的先前输出进行记录.  用于渲染进度条，动画等.
-- [Ink](https://github.com/vadimdemedes/ink) - React for interactive command-line apps.
+- [Ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序进行反应.
 - [listr](https://github.com/samverschueren/listr) - 终端任务列表.
 - [conf](https://github.com/sindresorhus/conf) - 为您的应用或模块进行简单的配置处理.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于操纵终端的ANSI转义码.
@@ -259,7 +259,7 @@
 
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
-- [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
+- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
 - [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
@@ -327,7 +327,7 @@
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - 承诺图书馆，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) -  Promisify回调式函数.
 	- [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
-	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 使用expire和prefetch记忆承诺返回函数.
+	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
@@ -430,6 +430,7 @@
 - [Luxon](https://github.com/moment/luxon) - 用于处理日期和时间的图书馆.
 - [date-fns](https://github.com/date-fns/date-fns) - 现代日期工具.
 - [Moment.js](http://momentjs.com) - 解析，验证，操纵和显示日期.
+- [Day.js](https://github.com/iamkun/dayjs) -  Moment.js替换的不可变日期库.
 - [dateformat](https://github.com/felixge/node-dateformat) - 日期格式.
 - [tz-format](https://github.com/samverschueren/tz-format) - 使用时区格式化日期：`2015-11-30T10：40：35 + 01:00.
 - [cctz](https://github.com/floatdrop/node-cctz) - 日期的快速解析，格式化和时区对话.
@@ -496,7 +497,7 @@
 
 - [yazl](https://github.com/thejoshwolfe/yazl) - 压缩.
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 解压缩.
-- [Archiver](https://github.com/archiverjs/node-archiver) - 用于存档生成的流式界面，支持ZIP和TAR.
+- [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [pako](https://github.com/nodeca/pako) - 高速zlib端口到纯js（放气，充气，gzip）.
 - [tar-stream](https://github.com/mafintosh/tar-stream)   - 流式tar解析器和生成器.  另见 [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) - 解压缩模块，支持`tar`，`tar.gz`和`zip`文件开箱即用.
@@ -530,6 +531,7 @@
 	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)   - 用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  与ActiveRecord类似.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用promises的本机SQL的PostgreSQL框架.
+	- [slonik](https://github.com/gajus/slonik) - 具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) - 在SQL查询构建器Knex上构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) - 用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
 - 查询构建器
@@ -594,7 +596,7 @@
 
 ### Authentication
 
-- [Passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication.
+- [Passport](https://github.com/jaredhanson/passport) - 简单，不引人注目的身份验证.
 - [Grant](https://github.com/simov/grant) -  Express，Koa和Hapi的OAuth中间件.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - 用于社会认证的统一API（Facebook，Twitter，Slack，Instagram，......）.
 
@@ -617,10 +619,11 @@
 - [kue](https://github.com/Automattic/kue) -  Redis支持的优先级作业队列.
 - [bull](https://github.com/OptimalBits/bull) - 持久作业和消息队列.
 - [agenda](https://github.com/rschmukler/agenda) -  MongoDB支持的作业调度.
-- [idoit](https://github.com/nodeca/idoit) - Redis-backed job queue engine with advanced job control.
+- [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制功能的Redis支持的作业队列引擎.
 - [node-resque](https://github.com/taskrabbit/node-resque) -  Redis支持的作业队列.
 - [rsmq](https://github.com/smrchy/rsmq) -  Redis支持的消息队列.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能Redis支持的作业队列.
+- [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能Redis消息队列.
 
 
 ### Node.js management
@@ -637,6 +640,7 @@
 - [franc](https://github.com/wooorm/franc) - 检测文本的语言.
 - [leven](https://github.com/sindresorhus/leven) - 使用Levenshtein距离算法测量两个弦之间的差异.
 - [natural](https://github.com/NaturalNode/natural) - 自然语言设施.
+- [nlp.js](https://github.com/axa-group/nlp.js) - 构建机器人，具有实体提取，情感分析，自动语言识别等.
 
 
 ### Process management
@@ -675,7 +679,7 @@
 - [KeystoneJS](https://github.com/keystonejs/keystone) - 基于Express和MongoDB构建的CMS和Web应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，重点是基于Express和MongoDB的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 内容管理框架（headless-CMS），用于构建功能强大的API.
-- [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，具有来自模式文件的GraphQL和REST API.
+- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file.
 
 
 ### Forum
@@ -719,12 +723,12 @@
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -  Memoize函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用.
-- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - 绕过缓存导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串/缓冲区/流中删除UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
 - [ssh2](https://github.com/mscdex/ssh2) -  SSH2客户端和服务器模块.
 - [adit](https://github.com/markelog/adit) -  SSH隧道变得简单.
-- [import-lazy](https://github.com/sindresorhus/import-lazy) - 懒洋洋地导入模块.
+- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily.
 - [file-type](https://github.com/sindresorhus/file-type) - 检测缓冲区的文件类型.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - 速率限制器，使节流变得容易.
 - [ow](https://github.com/sindresorhus/ow) - 人类的函数参数验证.
@@ -746,6 +750,7 @@
 - [env-dot-prop](https://github.com/simonepri/env-dot-prop) - 使用点路径获取，设置或删除process.env的嵌套属性.
 - [emittery](https://github.com/sindresorhus/emittery) - 简单而现代的异步事件发射器.
 - [node-video-lib](https://github.com/gkozlenko/node-video-lib) - 纯JavaScript库，用于处理MP4和FLV视频文件，并为HLS流创建MPEG-TS块.
+- [basic-ftp](https://github.com/patrickjuchli/basic-ftp) -  FTP / FTPS客户端.
 
 
 ## Resources
@@ -806,6 +811,7 @@
 - [Express in Action](https://www.manning.com/books/express-in-action)
 - [Practical Modern JavaScript](https://www.amazon.com/Practical-Modern-JavaScript-Dive-Future/dp/149194353X)
 - [Mastering Modular JavaScript](https://www.amazon.com/Mastering-Modular-JavaScript-Nicolas-Bevacqua/dp/1491955686/)
+- [Get Programming with Node.js](https://www.manning.com/books/get-programming-with-node-js)
 
 ### Blogs
 
@@ -841,6 +847,7 @@
 - [Reddit](https://www.reddit.com/r/node)
 - [Twitter](https://twitter.com/nodejs)
 - [Hashnode](https://hashnode.com/n/nodejs)
+- [Discord](https://discordapp.com/invite/96WGtJt)
 
 ### Miscellaneous
 

@@ -90,7 +90,7 @@
 - [Frama-C](http://frama-c.com) -  Frama-C是C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -  flow是JavaScript的静态类型检查器
 - [Ocamllint](https://github.com/cryptosense/ocamllint) -  Ocamllint检测OCaml代码中的常见错误
-- [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次发生.）
+- [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次出现.）
 - [SLAyer](https://github.com/Microsoft/SLAyer) -  SLAyer是一种自动形式验证工具，它使用分离逻辑来验证C程序的内存安全性.
 - [MemCAD](https://github.com/Antique-team/memcad)   -  MemCAD是一种用于形状分析的抽象解释器.  MemCAD可以验证C程序操纵复杂的数据结构.
 
@@ -353,7 +353,8 @@
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html)   - 本地OCaml库管理器.  由大多数OCaml生态系统使用.
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - 适用于Windows的opam存储库和实验版本.
   - [makorel](https://github.com/sagotch/makorel) - 轻松发布OPAM包.
-
+  - [esy](https://github.com/esy/esy) - 使用Reason / OCaml进行本机开发的package.json工作流.
+  
 -  **构建工具**：
   - [Oasis](http://oasis.forge.ocamlcore.org/)   - 在OCaml项目中集成配置，构建和安装系统的工具.  它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) - 将OASIS元数据转换为OPAM包描述的工具.
@@ -365,7 +366,6 @@
   - [topkg](https://github.com/dbuenzli/topkg) - 使用ocamlbuild的OPAM感知包装系统.
   - [Namespaces](https://github.com/aantron/namespaces) -  ocamlbuild插件，可将目录树转换为嵌套模块.
   - [Bazel](https://github.com/jin/rules_ocaml) -  OCaml规则 [Bazel](https://bazel.build/)，谷歌的多语言和平台构建工具.
-
 
 ## Parallelism
 

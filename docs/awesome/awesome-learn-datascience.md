@@ -11,6 +11,7 @@
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - 大数据的分化，机器学习，数据科学.
+- [Data Science for Business](https://amzn.to/2voPJUi) - 数据科学简介及其作为商业资产的用途.
 
 ## Common Algorithms and Procedures
 
@@ -23,6 +24,10 @@
 
 ## Data Science using Python
 此列表仅涵盖Python，因为许多人已熟悉此语言. [Data Science tutorials using R](https://github.com/ujjwalkarn/DataScienceR).
+
+### General
+
+- [O'Reilly Data Science from Scratch](https://amzn.to/2GSjjrK) - 使用示例代码进行数据处理，算法实现和可视化.
 
 ### Learning Python
 
@@ -90,4 +95,4 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内，SimonBöhm已放弃所有版权和
-相关或相邻的权利.
+ 相关或相邻的权利.  免责声明：部分链接是会员链接.

@@ -95,7 +95,7 @@
 - [Google Play Music Desktop Player](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - 非官方的Google Play音乐应用.
 - [Chrome DevTools](https://github.com/auchenberg/chrome-devtools-app) -  Chrome DevTools打包为应用程序.
 - [Yeobara](https://github.com/yeobara/yeobara-desktop) - 与灯塔会面登记.
-- [Proton](https://github.com/steventhanna/proton) - Markdown editor with live preview.
+- [Proton](https://github.com/steventhanna/proton) - 具有实时预览功能的Markdown编辑器.
 - [James](https://github.com/uxebu/james) - 用于查看和拦截浏览器请求的HTTP代理.
 - [DTCP](https://github.com/alchen/DTCP) -  Twitter客户端.
 - [Inbox](https://github.com/fgnass/inbox-app) - 非官方的Google Inbox应用.
@@ -173,6 +173,7 @@
 - [Etcher](https://github.com/resin-io/etcher) -  Flash OS映像到SD卡和USB驱动器.
 - [Noty](https://github.com/fabiospampinato/noty) - 在单个窗口中自动保存便签，支持多个音符.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于Markdown的笔记记录.
+- [Mini Diary](https://github.com/samuelmeuli/mini-diary) - 简单安全的日记应用程序.
 
 ### Closed Source
 
@@ -303,6 +304,7 @@
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -  Chromium的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行Electron.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
+- [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止MITM.
 
 ### Using Electron
 
@@ -313,7 +315,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 
