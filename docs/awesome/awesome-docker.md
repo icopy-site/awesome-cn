@@ -61,7 +61,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
 - [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker镜像并运行Windows容器
 - [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) 通过 [@kaitoedter](https://twitter.com/kaitoedter)
-- [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - You will learn to identify the types of .NET Framework applications that are good candidates for containerization, the "lift-and-shift" approach to containerization.
+- [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) - 您将学习如何识别适合集装箱化的.NET Framework应用程序类型，即容器化的“提升 - 移位”方法.
 - [Docker with Microsoft SQL 2016 + ASP.NET](https://blog.alexellis.io/docker-does-sql2016-aspnet/) 演示在Docker中运行ASP.NET和SQL Server工作负载
 - [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](https://www.hanselman.com/blog/ExploringASPNETCoreWithDockerInBothLinuxAndWindowsContainers.aspx) 使用[Docker for Windows] [docker-for-windows]在Linux和Windows容器中运行ASP.NET Core应用程序
 - [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) Docker化旧版ASP.NET应用程序并作为Windows容器运行的步骤
@@ -123,6 +123,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [gitkube](https://github.com/hasura/gitkube)   -  Gitkube是一个使用`git push`在Kubernetes上构建和部署docker镜像的工具.  通过 [@Hasura](https://github.com/hasura/).
 - [Grafeas](https://github.com/grafeas/grafeas)   - 有关容器的元数据的通用API，从映像和构建详细信息到安全漏洞.  通过 [grafeas](https://github.com/grafeas)
 - [Longshoreman](https://github.com/longshoreman/longshoreman)  ：skull： -  Longshoreman使用Docker自动化应用程序部署.  只需创建一个Docker存储库（或使用服务），使用AWS或Digital Ocean（或任何您喜欢的任何东西）配置集群，并使用类似Heroku的CLI工具部署应用程序.  通过 [longshoreman](https://github.com/longshoreman)
+- [SwarmManagement](https://github.com/DIPSAS/SwarmManagement)   -  Swarm Management是一个python应用程序，随pip一起安装.  该应用程序通过配置单个yaml文件来描述要部署的堆栈以及要创建的网络，配置或机密，从而轻松管理Docker Swarm.
 
 ### Monitoring
 
@@ -323,7 +324,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockerize](https://github.com/jwilder/dockerize) -  [@jwilder] [jwilder]简化在docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) - 以此特定用户身份运行此特定应用程序，然后退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) -  [@sindresorhus] [sindresorhus]检查进程是否在Docker容器内运行
-- [lstags](https://github.com/ivanilves/lstags) - 通过注册表同步Docker镜像 [@ivanilves](https://github.com/ivanilves)
+- [lstags](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) -  [@NVIDIA] [nvidia]的Docker NVIDIA Container Runtime
 - [su-exec](https://github.com/ncopa/su-exec)   - 这是一个简单的工具，只需执行具有不同权限的程序.  该程序将直接执行，而不是像小孩一样运行，如su和sudo，这可以避免TTY和信号问题.  为什么重塑gosu？  这与gosu或多或少完全相同，但它只有10kb而不是1.8MB.  通过 [ncopa](https://github.com/ncopa)
 - [supercronic](https://github.com/aptible/supercronic) -  crontab兼容的作业运行器，专门设计用于在容器中运行 [@aptible](https://github.com/aptible/)
@@ -425,7 +426,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [ahab](https://github.com/instacart/ahab) - 使用Python的Docker事件处理 [@instacart](https://github.com/instacart)
 - [clj-docker-client](https://github.com/lispyclouds/clj-docker-client)  ：构造： -  Docker远程API的惯用语Clojure客户端.  通过 [@lispyclouds](https://github.com/lispyclouds)
-- [Docker Client for JVM](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix][gesellix]
+- [Docker Client for JVM](https://github.com/gesellix/docker-client) - 用于JVM的Docker远程api客户端库，由[@gesellix] [gesellix]用Groovy编写
 - [Docker Client TypeScript](https://gitlab.com/masaeedu/docker-client)   - 用于JavaScript的Docker API客户端，从moby存储库中的Swagger API定义自动生成.  通过 [@masaeedu](https://github.com/masaeedu)
 - [docker-client](https://github.com/spotify/docker-client)   -  Docker远程API的Java客户端.  通过[@spotify] [spotify]
 - [docker-it-scala](https://github.com/whisklabs/docker-it-scala) - 与Scala by的Docker集成测试工具包 [@whisklabs](https://github.com/whisklabs)
@@ -472,6 +473,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [DIP](https://github.com/bibendi/dip)   -  CLI实用程序，用于直接配置和与docker-compose配置的应用程序交互.  通过 [@bibendi](https://github.com/bibendi)
 - [DLite](https://github.com/nlf/dlite) - Simplest way to use Docker on OSX, no VM needed. By [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)   -  Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
+- [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)   -  Build Management是一个python应用程序，随pip一起安装.  该应用程序通过配置描述如何构建，测试，运行或发布容器化解决方案的单个yaml文件，可以轻松管理基于Docker的构建系统.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
 - [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)   - 从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
@@ -548,7 +550,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Arukas](https://arukas.io/) ：heavy_dollar_sign： - 以Heroku为灵感的CaaS
 - [Azure AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)  ：heavy_dollar_sign： - 简化Kubernetes管理，部署和运营.  使用完全托管的Kubernetes容器编排服务.
 - [Cloud 66](https://www.cloud66.com) ：heavy_dollar_sign： - 作为服务的全栈托管容器管理
-- [Codenvy](https://codenvy.com) ：heavy_dollar_sign： - 为开发团队提供一键式Docker环境和云工作区
+- [Codenvy](https://codenvy.com) :heavy_dollar_sign: - One-click Docker environments and cloud workspace for development teams
 - [ContainerShip Cloud](https://containership.io) ：heavy_dollar_sign： - 多云容器托管自动化平台.
 - [Docker Cloud](https://cloud.docker.com/) ：heavy_dollar_sign： - 前图腾
 - [Dockhero](https://dockhero.io/)  ：heavy_dollar_sign： -  Dockhero是一个Heroku附加组件，它将Docker镜像转换为连接到Heroku应用程序的微服务.  目前处于测试阶段
@@ -566,7 +568,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Axibase Time-Series Database](https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/)  ：heavy_dollar_sign： - 长期保留Docker的容器统计信息和内置仪表板.  使用原生Google cAdvisor存储驱动程序收集.
 - [CA Technologies Docker Monitoring](https://www.ca.com/us/products/docker-monitoring.html)  ：heavy_dollar_sign： - 来自CA的敏捷运营解决方案提供了现代Docker监控企业所需的，以加速和优化微服务的性能以及运行它们的动态Docker环境.  监控Docker环境和在其中运行的应用程序.
 - [Collecting docker logs and stats with Splunk](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk.html)
-- [Datadog](https://www.datadoghq.com/)  ：heavy_dollar_sign： -  Datadog是一种用于大规模云环境的全栈监控服务，可聚合来自服务器，数据库和应用程序的指标/事件.  它包括对Docker，Kubernetes和Mesos的支持.
+- [Datadog](https://www.datadoghq.com/) :heavy_dollar_sign: - Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.
 - [Prometheus](https://prometheus.io/) ：heavy_dollar_sign： - 开源服务监控系统和时间序列数据库
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) ：heavy_dollar_sign： -  DevOps和IT的Docker监控是一种SaaS按主机付费模式
 - [SPM for Docker](https://github.com/sematext/sematext-agent-docker)  ：heavy_dollar_sign： - 监控主机和容器指标，Docker事件和日志.  自动日志解析器.  异常检测和警报指标和日志. [@sematext](https://github.com/sematext)

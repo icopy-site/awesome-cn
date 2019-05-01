@@ -24,10 +24,10 @@
 - [a js video player](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/play) - [Demo](https://ipfs.io/ipfs/QmVc6zuAneKJzicnJpfrqCH9gSy6bz54JhcypfJYhGUFQu/play#/ipfs/QmTKZgRNwDNZwHtJSjCp6r5FYefzpULfy37JvMt9DwvXs)
 - [a markdown renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/markdown-viewer) - [Demo](https://ipfs.io/ipfs/QmSrCRJmzE4zE1nAfWPbzVfanKQNBhp7ZWmMnEdbiLvYNh/mdown#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 - [a qr-code renderer](https://github.com/ipfs/website/tree/master/content/docs/examples/webapps/qr-render) - [Demo](https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here)
+- [AirSecure](https://github.com/airsecure/airsecure) - 基于Textile＆IPFS构建的分散式双因素身份验证应用程序.
 - [akasha](http://akasha.world/) - 下一代社交媒体网络，由以太坊提供支持并嵌入到IPFS中.
 - [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - 分散内容发布/货币化平台.
 - [Arbore](http://arbo.re) - 构建在IPFS之上的朋友对朋友的文件共享应用程序.
-- [Arpadyne](https://arpadyne.computes.com)   - 新的Internet  - 由OrbitDB提供支持的DNS.  通过IPFS提供的内容.
 - [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
 - [beets](https://github.com/beetbox/beets) -  Beets有一个插件，可以使用IPFS轻松共享音乐库
 - [Blokaly](https://github.com/blokaly) - 基于IPFS的徽章发布，共享和显示平台.
@@ -37,14 +37,15 @@
 - [Computes](https://computes.io) -  Computes.io是一个由IPFS驱动的分布式超级计算机.
 - [dapple](https://github.com/nexusdev/dapple) -  Dapple是一家Solidity开发商多功能工具，旨在管理日益复杂的互联智能合约系统.
 - [digx](https://www.dgx.io/) -  Digix是一个基于以太坊和IPFS的资产标记化平台.
+- [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -  Discussify为任何人加入和参与提供实时，点对点和永久性的讨论平台.
 - [dtube](https://d.tube) - 与steem.it集成的分布式视频共享，使用ipfs进行后端存储.
 - [enzypt.io](https://enzypt.io/) - 通过以太坊和IPFS购买和销售文件的网站. [Source](https://github.com/flex-dapps/enzypt)
+- [Eternum](https://www.eternum.io/) - 带有易于使用的API的付费钉扎服务.
 - [Ethlance](http://ethlance.com) - 建立在以太坊和IPFS上的第一个完全分散的就业市场平台. [Source](https://github.com/madvas/ethlance)
-- [FileNation](https://filenation.io/) - 使用IPFS在世界各地发送文件的最简单方法.
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - 在ipfs中重新托管你的git repos的脚本.
 - [Global Upload](https://globalupload.io/) -  IPFS的文件传输服务，将文件上传到分布式Web的未来.
 - [gogo.tattoo](http://gogo.tattoo)   -  Gogo Tattoo Project使用IPFS，DLT和其他现代技术为纹身艺术家和佩戴者提供他们的投资组合的牢不可破的终身记录.  gogo.tattoo app已经具有直接与IPFS共享作品的功能.
-- [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - 大猩猩是笔记本风格的Clojure丰富的REPL. [Demo](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
+- [Gorilla REPL viewer](https://github.com/keorn/ipfs-gorilla-repl) - 大猩猩是笔记本风格的Clojure丰富的REPL.
 - [Hardbin](https://github.com/jes/hardbin) -  Hardbin是加密的pastebin，解密密钥在URL片段中传递
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/)   - 基于IPFS的代码箱.  （现在只读）
 - [HydrusNetwork](https://github.com/hydrusnetwork/hydrus) - 具有多种功能的booru风格的媒体标记应用程序，最近添加了基本的ipfs支持.
@@ -57,19 +58,21 @@
 - [IPFS Event Drop](https://github.com/travisperson/ipfs-event-drops) - 一个允许改进ipfs事件可视化的应用程序.
 - [IPFS ID and Public Key QR Codes Demo](https://ipfs.io/ipfs/zdj7Whr8X3zah99TSuyPjENaERcBW9C7B36EaCb1DEZ5pbbL9/) - 一个演示应用程序，它使用windows.ipfs向您显示IPNS链接和公钥的QR码. [Source](https://github.com/ipfs-shipyard/demo-ipfs-id-qr-codes)
 - [ipfs-md-wiki](https://github.com/daijiale/ipfs-md-wiki) - 基于ipfs和markdown构建你的wiki系统.
-- [ipfs-search](http://ipfs-search.com) - 搜索IPFS上的文件和目录引擎.
+- [ipfs-search](https://ipfs-search.com) - 自2016年以来搜索宇宙.
+ 嗅探DHT八卦并索引文件和目录哈希值.  元数据和搜索API可用. [Source](https://github.com/ipfs-search/ipfs-search)
 - [ipfs-share](https://github.com/rameshvarun/ipfs-share) -  Pastebin / Image主机/文件共享应用程序
 - [ipfs.ink](https://ipfs.ink) - 发布和呈现与ipfs之间的降价文章. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - 上传和分享图片.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) -  Pastebin clone build.
-- [IPFSStore](https://ipfsstore.it) - 用Steem支付固定费用
+- [IpfsCloud](https://ipfscloud.store) -  IPFS上的分散式匿名云存储平台. [Source](https://github.com/cluster-labs/ipfscloud-web)
+- [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -  Dolphin File Manager的服务菜单，用于将文件上载到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) - 审查抵制死人的开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - 基于Pandoc的标记编辑器/预览器/转换器，移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
 - [NodeFort.io](https://www.nodefort.io) - 基于Web的IPFS节点托管服务.
 - [OpenBazaar](https://www.openbazaar.org/) - 这个新版本（v2.0）建立在IPFS之上，即使离线时，买家也可以访问Openbazaar商店.
 - [Orbit](https://orbit.chat) -  IPFS上的分布式对等聊天应用程序. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - 分布式共享经济市场，其中包含存储在IPFS上的图像，元数据和ERC 725数据. [Source](https://github.com/OriginProtocol/demo-dapp)
-- [Partyshare](https://partysha.re) - 简单的文件共享应用程序.
+- [Partyshare](https://busterlabs.github.io/Partyshare) - 简单的文件共享桌面应用程序. [Source](https://github.com/BusterLabs/Partyshare)
 - [Pathephone](https://pathephone.github.io) - 分布式音乐流媒体应用.
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - 使用window.ipfs的演示应用程序，由IPFS Companion Web扩展提供，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - 使用window.ipfs的IPv4 IPFS对等体的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
@@ -79,8 +82,8 @@
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 使用window.ipfs的~76KB演示聊天应用程序，由IPFS Companion Web扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布它们.
 - [qri](https://qri.io) - 数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
-- [Request Network](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
-- [TallyLab](https://tallylab.com/) - 本地优先的端到端加密日记应用程序，用于捕获，分析和共享有关任何内容的数据.
+- [Request](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [TallyLab](https://tallylab.com/) - 本地优先的端到端加密数据日记应用程序，用于捕获，分析和共享有关任何和所有内容的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -  Temporal是一个易于使用的API和平台，用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -  Textile Photos是一款安全的移动数码钱包，适用于您的照片. [Source](https://github.com/textileio/textile-mobile)
 - [ToDo List Demo](https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/) - 使用windows.ipfs的ToDo List演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
@@ -99,7 +102,6 @@
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
 - 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) 
 - 2016-05-20: [Changelog Podcast](https://changelog.com/204/) 
-- 2015-11-01: [Eris + IPFS](https://monax.io/blog/2015/11/01/eris-and-ipfs/) 
 - 2015-09-18: [The InterPlanetary File System Wants to Create a Permanent Web](http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web) 
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
@@ -112,7 +114,6 @@
 - [IETF RFC Archive](https://ipfs.io/ipfs/QmNvTjdqEPjZVWCvRWsFJA1vK7TTw1g9JP6we1WBJTRADM)  [Source](https://github.com/ipfs/archives/issues/18)
 - [MDSConnect](https://ipfs.io/ipfs/QmcvfB6pAqUfTnuAK8zFKVxbdhopnBPveJrDcy1JAA7HX5)  [Source](https://github.com/ipfs/archives/issues/152)
 - [Old Internet Files](https://ipfs.io/ipfs/QmbsZEvJE8EU51HCUHQg2aem9JNFmFHdva3tGVYutdCXHp)  [Source](https://github.com/ipfs/archives/issues/176)
-- [Presidental Daily Briefs](https://ipfs.io/ipfs/Qme6epvZDj3vzHcFKdF1nZhbixjw8Bn4imGcKnbUyBJL89)  [Source](https://github.com/ipfs/archives/issues/23)
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [XKCD](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
@@ -121,11 +122,12 @@
 
 - [Blockwatch](https://ipfs.io/ipfs/QmdikpwcyeBuGaVzWzSzPuqvBfTGD8jPAVydcCjYHsBUxo/index.html) - 监控以太坊区块链的当前块编号，并在某些块高度通过时设置警报（在浏览器中使用PouchDB本地存储）. [Source](https://github.com/MidnightLightning/ethereum-blockwatch)
 - [cachewarmer](https://github.com/BrendanBenshoof/cachewarmer) - 捐赠ipfs网关以缓存其他人的内容
-- [dillo-ipfs](https://ipfs.io/ipns/12D3KooWBG1fsFRF4ykpidXVNVnbon5KLfv67pkkGeFstrwftVVb/) -  Dillo Web浏览器的IPFS集成. [Source](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256)
+- [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -  Dillo Web浏览器的IPFS集成.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，增加了对Gatsby网站部署到IPFS的支持.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向IPFS推送/拉出存储库
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - 这是一个简单的webtool，用于将URL添加到IPFS节点.
 - [ipcat](https://github.com/noffle/ipcat) - ：cat2：检索IPFS对象数据并将其发送到stdout.
+- [IPDR](https://github.com/miguelmota/ipdr) -  IPFS支持的Docker Registry
 - [ipfs-add-from-encrypted](https://github.com/TroyWilson1/ipfs-add-from-encrypted) - 使用AES256加密文件或目录，然后添加到IPFS
 - [ipfs-add-from-url](https://github.com/maxlath/ipfs-add-from-url) - 从URL而不是文件路径向IPFS添加文件
 - [ipfs-chrome-extension](https://github.com/dylanPowers/ipfs-chrome-extension) -  Chrome扩展程序将ipfs.io流量重定向到本地网关
@@ -136,6 +138,7 @@
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) -  IPFS Linux Init Daemon
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - 在Windows上将IPFS挂载为映射驱动器
 - [ipfs-paste](https://github.com/jbenet/ipfs-paste) - 将stdin和剪贴板粘贴到IPFS
+- [ipfs-publish](https://ipfs-publish.uhlir.dev) - 用于将静态网站从Git提供商传送到IPFS的持续交付工具. [Source](https://github.com/AuHau/ipfs-publish)
 - [ipfs-screencap](https://github.com/jbenet/ipfs-screencap) - 捕获屏幕截图，将其发布到IPFS，并将链接复制到剪贴板.
 - [ipfscrape](https://github.com/victorbjelkholm/ipfscrape) - 使用所有资产刮取网页并将其放入IPFS
 - [ipfsecret](https://github.com/c2fo-lab/ipfsecret) - 使用秘密密码加密和解密IPFS文件
@@ -143,9 +146,11 @@
 - [IPLD Explorer](https://explore.ipld.io) - 在舒适的浏览器中探索Merkle Forest [Source](https://github.com/ipfs-shipyard/ipld-explorer)
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)   - 用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本.  这应该适用于尚未为其编写扩展的任何浏览器，并且支持用户脚本.
 - [ipscend](https://github.com/diasdavid/ipscend) - 用于在IPFS中托管Web应用程序和静态网站的工具
+- [mahuta](https://github.com/ConsenSys/Mahuta) -  Mahuta是一种即插即用服务，适用于您的微服务架构，允许收集，存储和索引IPFS数据并提供搜索功能（全文，查询）.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - 通过IRC固定内容
 - [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查IPFS网关的公共状态的Web应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - 易于使用的IPFS桌面客户端，适用于macOS，Windows和Linux [Source](https://github.com/Siderus/Orion)
+- [Sweet IPFS](https://github.com/RHazDev/Sweet-IPFS) - 适用于Android的完整节点
 
 ## Videos
 

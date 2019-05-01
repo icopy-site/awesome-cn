@@ -320,6 +320,7 @@
 - [Why We Love Craft CMS](https://www.viget.com/articles/why-we-love-craft-cms) 作者：Trevor Davis / Viget  - “2014年10月17日”
 - [Why We Use Craft CMS](https://designbycosmic.com/articles/development/why-we-use-craft-cms) 由宇宙 - “2017年2月1日”
 - [Why We Use Craft CMS](https://builtbymasonry.com/journal/why-we-use-craft-cms) 由Masonry  -  2017年11月7日
+- [Why We're Craft CMS Developers](https://honcho.agency/blog/why-were-craft-cms-developers) 由Honcho撰写 - “2019年4月16日”
 - [Why We've Fallen Head Over Heels for Craft CMS](https://welfordmedia.co.uk/blog/design-development/we-love-craft-cms) 由Welford Media撰写 -  2016年10月14日
 - [Why we develop websites using Craft CMS instead of Wordpress](https://weareabstrakt.com/blog/2017/why-we-develop-websites-using-craft-cms-instead-of-wordpress/) 作者：Abstrakt  -  2017年4月25日
 - [Why you should be considering Craft over WordPress](http://madebykind.com/thinking/why-you-should-be-considering-craft-over-wordpress) 作者：Sam Goddard / Kind  -  2017年3月21日

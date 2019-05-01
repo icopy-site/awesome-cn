@@ -399,6 +399,7 @@
     * [elastic](https://github.com/olivere/elastic) -  Go的Elasticsearch客户端.
     * [elasticsql](https://github.com/cch123/elasticsql) - 在Go中将sql转换为elasticsearch dsl.
     * [elastigo](https://github.com/mattbaird/elastigo) -  Elasticsearch客户端库.
+    * [go-elasticsearch](https://github.com/elastic/go-elasticsearch) -  Go的官方Elasticsearch客户端.
     * [goes](https://github.com/OwnLocal/goes) - 与Elasticsearch交互的库.
     * [riot](https://github.com/go-ego/riot) -  Go开源，分布式，简单高效的搜索引擎.
     * [skizze](https://github.com/seiflotfy/skizze) - 概率数据结构服务和存储.
@@ -1421,7 +1422,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [kace](https://github.com/codemodus/kace) - 涉及常见初始主义的常见案例转换.
     * [parseargs-go](https://github.com/nproc/parseargs-go) - 理解引号和反斜杠的字符串参数解析器.
     * [parth](https://github.com/codemodus/parth) -  URL路径分段解析.
-    * [radix](https://github.com/yourbasic/radix) - fast string sorting algorithm.
+    * [radix](https://github.com/yourbasic/radix) - 快速字符串排序算法.
     * [TySug](https://github.com/Dynom/TySug) - 关于键盘布局的替代建议.
     * [xj2go](https://github.com/stackerzzq/xj2go) - 将xml或json转换为struct.
     * [xurls](https://github.com/mvdan/xurls) - 从文本中提取网址.
@@ -1733,7 +1734,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [alice](https://github.com/justinas/alice) -  Go的无痛中间件链接.
 * [catena](https://github.com/codemodus/catena) -  http.Handler包装器连接（与“链”相同的API）.
 * [chain](https://github.com/codemodus/chain) - 处理程序包装器与范围数据链接（基于网络/上下文的“中间件”）.
-* [go-wrap](https://github.com/go-on/wrap) - 用于net / http的小型中间件包.
+* [go-wrap](https://github.com/go-on/wrap) - Small middlewares package for net/http.
 * [gores](https://github.com/alioygur/gores)   -  Go包处理HTML，JSON，XML等响应.  对RESTful API很有用.
 * [interpose](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang.
 * [muxchain](https://github.com/stephens2424/muxchain) - 用于网络/ http的轻量级中间件.

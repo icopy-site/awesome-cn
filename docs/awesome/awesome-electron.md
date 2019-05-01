@@ -174,6 +174,7 @@
 - [Noty](https://github.com/fabiospampinato/noty) - 在单个窗口中自动保存便签，支持多个音符.
 - [Notable](https://github.com/fabiospampinato/notable) - 基于Markdown的笔记记录.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - 简单安全的日记应用程序.
+- [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 从Unsplash设置桌面壁纸.
 
 ### Closed Source
 
@@ -273,7 +274,7 @@
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用ChromeDriver测试电子应用程序.
@@ -315,7 +316,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 

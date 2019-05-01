@@ -53,6 +53,10 @@
 + [C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions)
 + [Framework Design Guidelines](https://docs.microsoft.com/en-us/dotnet/standard/design-guidelines/index)
 
+### Clojure
+
++ [Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide#readme)
+
 ### CoffeeScript
 
 + [CoffeeScript Style Guide](https://github.com/polarmobile/coffeescript-style-guide#readme)

@@ -146,6 +146,7 @@
   1. [Flexjobs](https://www.flexjobs.com/) - 远程办公工作和专业兼职工作.
   1. [Freelancermap](https://www.freelancermap.com/remote-jobs) -  IT专家的自由职业和合同工作（主要是德国项目）
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - 以表格形式查看，然后按“执行”排序
+  1. [Full-Stack Developer Jobs](https://fullstackjob.com/jobs/remote-ok) - 全栈开发人员工作的远程OK工作
   1. [Github Jobs](https://jobs.github.com/) - 位置过滤器 - &gt;“*[Anywhere](https://jobs.github.com/positions?description=&location=anywhere)/[Remote](https://jobs.github.com/positions?description=&location=remote)*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) 过滤器 - &gt;仅限远程
   1. [Guru](http://www.guru.com/) - （在软件之外有许多不同的类别）
@@ -172,7 +173,7 @@
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找Vue.js工作 - 单击“远程”选项卡.
-  1. [React.js Jobs](https://www.react-jobs.com) 在全球范围内查找React.js作业 - 单击“远程”切换按钮.
+  1. [React.js Jobs](https://www.react-jobs.com) 在世界各地查找React.js作业 - 单击“远程”切换按钮.
   1. [Remote.com](https://remote.com) - 尝试自动匹配您的工作，可以从LinkedIn导入个人资料
   1. [We Love Angular](https://www.weloveangular.com/) 在全球范围内查找Angular职位和AngularJS人员 - 单击“Remote Angular jobs”链接.
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
@@ -189,7 +190,7 @@
   1. [Remote Only](https://remoteonly.io/) - 从许多工作板汇总的手动策划的工作列表.
   1. [RemotePHP.io](https://remotephp.io) - 来自整个网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) - 专门用于远程Python作业的作业板和聚合器.
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - 为远程职位发布抓取多个职位空缺.
+  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - 为远程位置爬行并策划许多作业板馈送
   1. [Workaline](https://workaline.com/)   - 远程作业聚合器.  以前叫阿尔弗雷德.
@@ -199,7 +200,7 @@
   1. [bedndesk](http://www.bedndesk.com) -  Coworking＆coliving空间在西班牙马略卡岛
   1. [Common](https://www.hicommon.com/) - 在纽约的殖民地
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - 在西班牙特内里费岛的coliving＆coworking空间
-  1. [Hive Arena](http://hivearena.com/) - 韩国首尔的接待和合作空间
+  1. [Hive Arena](https://hivearena.com/coworking/) - 韩国首尔的接待和合作空间
   1. [HubBOG](http://hubbog.com/)   -  Coworking Space + Startup Accelerator.  波哥大，哥伦比亚
   1. [Hus24](http://hus24.org/en/) - 在瑞典收集空间
   1. [Mokrin House](http://www.mokrinhouse.com/) - 在塞尔维亚农村地区的合作和共用空间
@@ -331,7 +332,7 @@
   1. [HE:labs](https://helabs.com/us/)
   1. [Healthfinch](http://www.healthfinch.com/careers/)   - 使医疗保健系统更加可用.  总部设在美国威斯康星州麦迪逊市.  Ruby，Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) - 网络和移动分析，我们的8个队友中有2个是远程的.
-  1. [Help Scout](https://www.helpscout.net/careers/) - A help desk for teams that insist on a delightful customer experience.
+  1. [Help Scout](https://www.helpscout.net/careers/) - 为坚持愉快客户体验的团队提供服务台.
   1. [Heroku](https://www.heroku.com/careers) -  PaaS Cloud，让开发者体验真棒，Ruby，Erlang，Javascript，Golang，Python.
   1. [Honeybadger](https://www.honeybadger.io/)   -  Ruby.  100％遥控.
   1. [Hotjar](https://careers.hotjar.com/) - 分析和反馈工具.
@@ -356,7 +357,7 @@
   1. [Lincoln Loop](https://lincolnloop.com) -  WebDev商店.
   1. [Litmus](https://litmus.com/careers)   - 电子邮件专业人员的优化工具  波士顿和伦敦的办事处，但近50％的团队远程工作.
   1. [LivingSocial](https://jobs.groupon.com/)   - 全公司范围内对经验丰富的远程开发人员团队的支持.  很多自治权.
-  1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
+  1. [Lullabot](https://www.lullabot.com/jobs) - 使用Drupal进行战略，设计和开发.
   1. [madewithlove](https://madewithlove.be/jobs) - 我们帮助公司建立数字产品，并为似乎陷入困境的团队带来新的果汁.
   1. [Maintainer Mountaineer](https://maintainer.io) - 开源社区管理即服务.
   1. [MariaDB](https://mariadb.com/about-us/careers) - 开源数据库.
@@ -399,7 +400,6 @@
   1. [RebelMouse](https://blog.rebelmouse.com/careers/)   - 社交出版平台.  Python，JS和iOS / Android开发人员.  遍布全球的团队.
   1. [Recurly](https://recurly.com/jobs/) - 针对订阅业务的定期计费管理
   1. [Red Hat](http://jobs.redhat.com/)
-  1. [Rendered Text](https://renderedtext.workable.com) -  Semaphore CI / CD的制造商
   1. [RightScale](http://www.rightscale.com/jobs)
   1. [Sangoma](http://www.sangoma.com)   - 在现场和基于云的情况下提供全球可扩展的IP语音电话系统的可靠领导者.  C，PHP，Python，JavaScript，Linux，FreePBX，VoIP.
   1. [Scrapinghub](https://scrapinghub.com/jobs)
@@ -413,6 +413,7 @@
   1. [Soshace](https://soshace.com/) -  Angular / React / Vue.js / Java / Python远程开发公司
   1. [Songspace](https://songspace.com) 帮助音乐创作者与他们的专业团队协作，编目和分享工作
   1. [Soostone](http://www.soostone.com/careers)
+  1. [Splice Machine](https://www.splicemachine.com/company/careers/) 在一个统一的AI平台中结合关系数据库，数据仓库和机器学习的功能.
   1. [Spreaker](https://www.spreaker.com/jobs) 发现并聆听您最喜爱的播客.
   1. [StackExchange](http://stackexchange.com/work-here)
   1. [Strongloop](https://strongloop.com/careers/)
@@ -427,13 +428,13 @@
   1. [TeamSnap](https://www.teamsnap.com/about/careers)   -  TeamSnap是排名第一的在线体育团队管理软件.  80％的远程员工
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted)   - 技术团队支持ted.com和内部工具.  所有工程师都很偏远.  Ruby on Rails，JavaScript，Ember.js
   1. [Teleport](https://teleport.org/jobs/)
-  1. [Tesera](https://tesera.com/)   - 我们破坏了传统思维，以扩大可能性.  我们点燃了未来的变化.
+  1. [Tesera](https://tesera.com/)   - 我们破坏传统思维，扩大可能性.  我们点燃了未来的变化.
   1. [The Grid](http://thegrid.io/)   -  AI网站建设者.  100％分布式团队.
   1. [Thermeon](http://thermeon.com/jobs.html) - 汽车租赁软件 -  100％远程技术团队
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - 使用屏幕截图，网络和应用程序使用情况监控以及集成进行时间跟踪.
   1. [Tipe](https://tipe.io)   - 使用GraphQL或REST API的下一代API第一CMS.  使用Nuxt.js构建，无服务器，AWS.  25％的远程
   1. [Toggl](https://jobs.toggl.com/)
-  1. [Toptal](https://www.toptal.com/careers) - 100% remote development company, solving worldwide talent shortage
+  1. [Toptal](https://www.toptal.com/careers) -  100％的远程开发公司，解决全球人才短缺问题
   1. [Tortuga Backpacks](https://www.tortugabackpacks.com/pages/join) - 城市旅行背包.
   1. [Transloadit](https://transloadit.com/jobs/) - 自2009年以来，devs为开发者提供世界上最通用的文件上传和编码服务
   1. [Trello](https://trello.com/jobs)
@@ -482,7 +483,7 @@
   1. [Appear.in](https://appear.in) - 基于浏览器，无插件的群组视频通话.
   1. [Bluejeans](https://bluejeans.com/) 视频会议应用程序，非常适合大型团体和直播
   1. [Codeshare.io](https://codeshare.io/) - 基于浏览器的多用户实时代码共享，可选视频聊天.
-  1. [Fleep](https://fleep.io/) - 面向开发团队的内部聊天和协作工具
+  1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
   1. [Floobits](https://floobits.com)   - 具有屏幕共享的远程配对编程.  与Sublime，IntelliJ，Atom等集成
   1. [Flowdock](https://www.flowdock.com/)   - 团队的基于浏览器的群聊.  与GitHub，Jira，Jenkins等集成.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) - 聊天系统，共享桌面和视频通话.
@@ -495,6 +496,7 @@
   1. [Skype](https://www.skype.com/) - 视频通话.
   1. [Slack](https://slack.com/) - 具有大量集成选项的文本，语音和视频聊天系统，包括 [ScreenHero](https://screenhero.com)，一个实时的高清屏幕共享系统，用于团队协作
   1. [Talky](https://talky.io/) - 为团体提供真正简单的视频聊天和屏幕共享
+  1. [TeamHub](https://teamhub.app/) - 直接在IDE中进行实时状态和进度报告
   1. [Zoom](https://zoom.us) - 高质量的群组视频和共享屏幕，在Linux上运行，记录会话和支持电话呼叫.
 
 #### Project Management

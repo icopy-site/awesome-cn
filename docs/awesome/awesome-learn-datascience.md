@@ -5,13 +5,11 @@
 
  不需要以前的知识，但Python和统计基础肯定会派上用场.  这些资源已成功用于我当地数据科学学生组的许多初学者 [ML-KA](http://ml-ka.de/).
 
-
-
 ## What is Data Science?
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - 大数据的分化，机器学习，数据科学.
-- [Data Science for Business](https://amzn.to/2voPJUi) - 数据科学简介及其作为商业资产的用途.
+- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - 数据科学简介及其作为商业资产的用途.
 
 ## Common Algorithms and Procedures
 
@@ -27,7 +25,8 @@
 
 ### General
 
-- [O'Reilly Data Science from Scratch](https://amzn.to/2GSjjrK) - 使用示例代码进行数据处理，算法实现和可视化.
+- [O'Reilly Data Science from Scratch (Book)](https://amzn.to/2GSjjrK) - 使用示例代码进行数据处理，实现和可视化.
+- [Coursera Applied Data Science](https://www.coursera.org/specializations/data-science-python) - 使用Python的在线课程，涵盖了大多数相关工具包. 
 
 ### Learning Python
 

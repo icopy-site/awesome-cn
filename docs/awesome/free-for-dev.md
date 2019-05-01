@@ -263,7 +263,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [appneta.com](https://www.appneta.com/) -  1小时数据保留免费
   * [thousandeyes.com](https://www.thousandeyes.com/)   - 网络和用户体验监控.  免费提供主要网络服务的3个位置和20个数据源
   * [datadoghq.com](https://www.datadoghq.com/) - 最多5个节点免费
-
+  * [freshping.io](https://www.freshworks.com/website-monitoring/) - 以1分钟为间隔监控50个URL，其中包含10个全局位置和5个免费公共状态页面
   * [nodequery.com](https://nodequery.com/) - 免费的基本服务器监控最多10台服务器
   * [circonus.com](https://www.circonus.com/) - 免费提供20个指标
   * [uptimerobot.com](https://uptimerobot.com/) - 网站监控，50台免费监控
@@ -282,7 +282,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
-  * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
+  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
   * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
@@ -456,7 +456,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
    * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
-   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
+   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
    * [segment.com](https://segment.com/)   - 将事件转换并路由到其他第三方服务的集线器.  每月100,000活动免费
    * [ngrok.com](https://ngrok.com/) - 通过隧道将本地运行的服务器暴露给公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
