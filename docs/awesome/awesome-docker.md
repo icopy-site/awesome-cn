@@ -525,7 +525,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-do](https://github.com/benzaita/docker-do) - 无忧无虑的码头运行，如`env`，但对于docker来说 [@benzaita](https://github.com/benzaita)
 - [Dray](https://github.com/CenturyLinkLabs/dray) -  [@CenturyLinkLabs] [centurylinklabs]管理基于容器的工作流程执行的引擎
 - [FuGu](https://github.com/mattes/fugu) -  Docker运行包装器而没有编排 [@mattes](https://github.com/mattes)
-- [SaltStack Docker module](https://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.dockerng.html#module-salt.modules.dockerng) -  SaltStack Docker模块
 - [Shutit](https://github.com/ianmiell/shutit) - 用于构建和维护复杂Docker部署的工具 [@ianmiell](https://github.com/ianmiell)
 - [subuser](https://github.com/subuser-security/subuser) - 使得在Docker中安全且可移植地运行图形桌面应用程序变得容易
 - [Turbo](https://github.com/ramitsurana/turbo)   - 简单而强大的码头工具实用程序.  由[@ramitsurana] [ramitsurana]

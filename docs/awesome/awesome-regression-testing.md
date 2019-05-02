@@ -107,6 +107,7 @@
 - [Make visual regression testing easier](https://medium.com/@nima.soroush.h/make-visual-regression-testing-easier-4a3dc7073737) - 介绍 [Differencify](https://github.com/NimaSoroush/differencify) 以及如何使用它.
 - [Visual Regression Testing with Puppeteer & Jest](https://www.viswiz.io/help/tutorials/puppeteer) - 使用Puppeteer，Jest和VisWiz.io设置可视化测试的教程.
 - [Keeping a React Design System consistent: using visual regression testing to save time and headaches](https://techblog.commercetools.com/keeping-a-react-design-system-consistent-f055160d5166) - 使用percy和jest puppeteer直观地测试React组件库.
+- [Visual Regression Test with WebdriverIO & WebdriverCSS](https://medium.com/@dalenguyen/visual-regression-test-with-webdriverio-webdrivercss-d7675a1812b2) - 使用带有Spec Reporter的WebdriverIO和WebdriverCSS的教程
 
 ## Slideshows, talks and videos
 

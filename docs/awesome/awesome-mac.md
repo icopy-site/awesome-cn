@@ -109,7 +109,7 @@
 * [PDF Reader Pro](http://www.pdfreaderpro.com)   - 您可以查看，创建，签名，转换和压缩任何PDF文档.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pdf-reader-pro-your-pdf-office/id825459243?mt=12）
 * [Skim](http://skim-app.sourceforge.net) -  OS X的PDF阅读器和记录器.[！[开源软件] [OSS图标]]（https://sourceforge.net/projects/skim-app/）！[免费软件] [免费软件图标]
 * [SkyFonts](https://skyfonts.com/) - 尝试，安装和管理字体的最简单方法.
-* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观且速度惊人的针对OS X的Pinboard客户端.
+* [Spillo](https://bananafishsoftware.com/products/spillo/) - 功能强大，美观且速度惊人的OS X客户端客户端.
 * [Tad](https://www.tadviewer.com)   - 用于查看和分析诸如CSV文件之类的表格数据的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/antonycourtney/tad）！[免费软件] [免费软件图标]
 * [texpad](https://www.texpad.com/) - 适用于Mac的Great LaTeX编辑器，具有自动更新PDF和自动完成LaTeX命令.
 
@@ -142,10 +142,10 @@
 * [BetterRename](http://www.publicspace.net/BetterRename/)   - 市场上功能最强大，最完整的Mac文件重命名应用程序.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/better-rename-9/id414209656）
 * [Beyond Compare](http://www.scootersoftware.com/)   - 使用简单，功能强大的命令比较文件和文件夹，这些命令专注于您感兴趣的差异，并忽略您不感兴趣的差异.  ！[免费软件] [免费软件图标]
 * [Cacher](https://www.cacher.io/) - 基于云的团队支持代码片段管理器，具有Gist同步，VSCode / Atom / Sublime软件包和Mac / Windows / Linux / Web客户端.
-* [canSnippet](https://www.cansnippet.com/) - 功能强大的代码段管理工具，可在整个操作系统中运行，始终可通过简单的键盘快捷方式访问.
+* [canSnippet](https://www.cansnippet.com/) - 功能强大的代码段管理工具，可在整个操作系统上运行，始终可通过简单的键盘快捷方式访问.
 * [CodeKit](https://codekitapp.com/) -  Web开发工具，可以自动编译Less，Sass，CoffeeScript，TypeScript，Jade和JavaScript，自动刷新浏览器等等.
 * [Dash](https://kapeli.com/dash) - 令人敬畏的API文档浏览器和代码段管理器.
-* [DiffMerge](http://sourcegear.com/diffmerge/)   - 视觉比较和合并文件的应用程序.  ！[免费软件] [免费软件图标]
+* [DiffMerge](http://sourcegear.com/diffmerge/)   - 应用程序可视化比较和合并文件.  ！[免费软件] [免费软件图标]
 * [EnvPane](https://github.com/hschmidt/EnvPane)   -  OS X首选项窗格，用于环境变量.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hschmidt/EnvPane）
 * [FinderGo](https://github.com/onmyway133/FinderGo)   - 从Finder快速打开终端.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/onmyway133/FinderGo）
 * [Finicky](https://johnste.github.io/finicky/)   - 允许您设置规则的应用程序，该规则决定为打开默认浏览器的每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
@@ -159,6 +159,7 @@
 * [Koala](http://koala-app.com)   -  Less，Sass，Compass和CoffeeScript编译的GUI应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/oklai/koala/）
 * [LaunchRocket](https://github.com/jimbojsb/launchrocket)   -  Mac系统偏好设置中的Brew服务管理.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/texstudio/）！[免费软件] [免费软件图标]
 * [Localname](http://localname.io/)   - 提供对本地开发服务器的访问.  ！[免费软件] [免费软件图标]
+* [MacSystemColors](https://github.com/kaunteya/MacSystemColors)   - 适用于Cocoa开发人员的Mac应用程序，可以在黑暗模式下显示所有系统颜色.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/kaunteya/MacSystemColors）
 * [MJML](https://mjmlio.github.io/mjml-app/)   - 利用语义语法和丰富的标准组件库的框架，允许用户轻松创建响应式电子邮件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mjmlio/mjml）
 * [PaintCode](https://www.paintcodeapp.com/) -  PaintCode是一个独特的矢量绘图应用程序，可实时生成Objective-C或Swift代码，充当开发人员和图形设计人员之间的桥梁.
 * [PPRows](https://github.com/jkpang/PPRows)   - 用于计算您编写的代码行数的应用程序.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/jkpang/PPRows）
@@ -186,7 +187,7 @@
 
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
-* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[Freeware] [Freeware Icon]
+* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
 
 #### Network Analysis
 
@@ -223,7 +224,7 @@
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)   - 管理Mac的终极工具.  自动化OS X系统的使用.  [！[开源软件] [OSS图标]]（https://github.com/guarinogabriel/Mac-CLI）！[免费软件] [免费软件图标]
 * [mas](https://github.com/mas-cli/mas)   -  Mac App Store的简单命令行界面.  [！[开源软件] [OSS图标]]（https://github.com/mas-cli/mas）！[免费软件] [免费软件图标]
 * [Miller](http://johnkerl.org/miller/doc/)   - 像awk，sed，cut，join和排序名称索引数据，如CSV，TSV和表格JSON.  [！[开源软件] [OSS图标]]（https://github.com/johnkerl/miller）！[免费软件] [免费软件图标]
-* [mycli](https://github.com/dbcli/mycli)   - 用于MySQL的CLI，可以执行自动完成和语法突出显示.  [！[开源软件] [OSS图标]]（https://github.com/dbcli/mycli）！[免费软件] [免费软件图标]
+* [mycli](https://github.com/dbcli/mycli) - CLI for MySQL that can do auto-completion and syntax highlighting. [![Open-Source Software][OSS Icon]](https://github.com/dbcli/mycli) ![Freeware][Freeware Icon]
 * [ndm](https://720kb.github.io/ndm/) - 管理 [npm](http://npmjs.org/)  直接从沙发上.  [！[开源软件] [OSS图标]]（https://github.com/720kb/ndm）！[免费软件] [免费软件图标]
 * [pgcli](https://www.pgcli.com)   -  Pgcli是Postgres的命令行界面，具有自动完成和语法突出显示功能.  [！[开源软件] [OSS图标]]（https://github.com/dbcli/pgcli）！[免费软件] [免费软件图标]
 * [Rebound](https://github.com/shobrook/rebound/) - Instantly browse Stack Overflow results in your terminal when you get a compiler error. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
@@ -453,7 +454,7 @@
 * [Airmail](http://airmailapp.com)   - 快速电子邮件客户端  适用于Mac OS和iOS.
 * [Foxmail](http://www.foxmail.com/mac/en)   - 快速电子邮件客户端  ！[免费软件] [免费软件图标]
 * [MailTags](https://smallcubed.com/mt/) - 使用标签来组织电子邮件和日程安排.
-* [N1](https://www.nylas.com/)   - 可扩展的开源邮件应用程序，开发人员免费，Pro版本每月7美元.  ！[开源软件] [OSS图标]
+* [N1](https://www.nylas.com/)   - 可扩展的开源邮件应用程序，开发人员免费，Pro为7美元/月.  ！[开源软件] [OSS图标]
 * [Nylas Mail](https://nylas.com/nylas-mail/)   - 基于现代网络构建的可扩展桌面邮件应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nylas/nylas-mail）！[免费软件] [免费软件图标]
 * [Polymail](https://polymail.io/)   - 简单，美观和强大的电子邮件客户端.  ！[免费软件] [免费软件图标]
 * [Postbox](https://www.postbox-inc.com) - 功能强大，简单而美观的电子邮件客户端，需要支付许可证费用.
@@ -484,7 +485,7 @@
 * [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) - 记录任何应用程序的音频，包括来自Skype的VoIP呼叫，来自Safari的Web流等等.
 * [Carol](https://github.com/AnaghSharma/Carol)   - 适用于macOS的最小而美丽的歌词应用程序.  [！[开源软件] [OSS图标]]（https://github.com/AnaghSharma/Carol）！[免费软件] [免费软件图标]
 * [Cog](http://cogx.org/)   - 免费的开源音频播放器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://bitbucket.org/mamburu/cog/）
-* [Elmedia Player](https://mac.eltima.com/media-player.html) - 这个媒体播放器是一个超级多功能的应用程序，适用于您可能想到的任何文件格式：FLV，MP4，AVI，MOV，DAT，MKV，MP3，FLAC，M4V都受到支持以及许多其他.
+* [Elmedia Player](https://mac.eltima.com/media-player.html) - 这个媒体播放器是一个超级多功能的应用程序，适用于您可能想到的任何文件格式：支持FLV，MP4，AVI，MOV，DAT，MKV，MP3，FLAC，M4V以及许多其他.
 * [HandBrake](https://handbrake.fr/)   - 用于将视频从几乎任何格式转换为选择的现代广泛支持的编解码器的工具.  [！[开源软件] [OSS图标]]（https://github.com/HandBrake/HandBrake）
 * [Hydrogen](http://hydrogen-music.org/)   - 专为GNU / Linux而设计的简单直观的基于模式的鼓编程.  [！[开源软件] [OSS图标]]（https://github.com/hydrogen-music/hydrogen）
 * [iFFmpeg](http://www.iffmpeg.com/)   - 适用于macOS的综合媒体工具.  为每个人提供高质量的视频编码.
@@ -502,7 +503,7 @@
 * [Perian](http://perian.org/#download)   - （**不再处于活跃开发状态**）~~让QuickTime播放所有常见格式的免费插件~~.  [！[开源软件] [OSS图标]]（https://github.com/MaddTheSane/perian）
 * [Playback](https://mafintosh.github.io/playback/)   - 实验视频播放器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/mafintosh/playback）
 * [Popcorn Time](https://popcorntime.sh)   - 立即观看洪流电影，这个爆米花时间服务永远不会被取消.  下载并享受.  ！[免费软件] [免费软件图标]
-* [ScreenFlow](http://www.telestream.net/screenflow/) - Screencasting and video editing software.
+* [ScreenFlow](http://www.telestream.net/screenflow/) - 屏幕录像和视频编辑软件.
 * [Shotcut](https://www.shotcut.org)   - 免费的开源视频编辑器.  [！[开源软件] [OSS图标]]（https://github.com/mltframework/shotcut）！[免费软件] [免费软件图标]
 * [Soda Player](https://www.sodaplayer.com/)   - 可以播放种子，磁链接，在线视频，自动字幕，链接和本地视频文件的播放器.  ！[免费软件] [免费软件图标]
 * [Sonora](https://github.com/sonoramac/Sonora)   - 最小巧，设计精美的音乐播放器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sonoramac/Sonora）
@@ -683,7 +684,7 @@
 * [Amethyst](http://ianyh.com/amethyst/)   - 平铺窗口管理器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/ianyh/Amethyst）
 * [chunkwm](https://github.com/koekeishiya/chunkwm)   - 基于插件架构的macOS平铺窗口管理器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://koekeishiya.github.io/chunkwm/）
 * [contexts](https://contexts.co/)   - 提供比原生Mac Dock更强大的功能.  特别是当您有多个屏幕时，它可以帮助您更快地切换.
-* [Divvy](http://mizage.com/divvy/) - 凭借其惊人的Divvy Grid系统，窗户管理处于最佳状态.
+* [Divvy](http://mizage.com/divvy/) - 凭借其惊人的Divvy Grid系统，窗口管理处于最佳状态.
 * [Magnet](http://magnet.crowdcafe.com/)   - 窗口管理器，使您的工作空间井井有条  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/id441258766）
 * [Moom](http://manytricks.com/moom/) - 允许您使用鼠标或键盘轻松移动和缩放窗口或其他显示器.
 * [ShiftIt](https://github.com/fikovnik/ShiftIt)   - 在OSX中管理窗口大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
@@ -731,7 +732,7 @@
 * [Coolant](https://coolantformac.com) - 菜单应用程序，让您知道应用程序何时消耗100％CPU或超过1 GB的内存（或您选择的任意限制）.
 * [DaisyDisk](https://daisydiskapp.com/)   - 提供磁盘使用情况的完整概述.  还可以通过清理磁盘来提供更多磁盘空间.
 * [FruitJuice](http://fruitjuiceapp.com)   - 让您知道每天保持不插电的时间，以保持电池健康.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/fruitjuice-battery-health/id671736912）
-* [gfxCardStatus](https://gfx.io/)   -  OS X的不显眼的菜单栏应用程序，允许MacBook Pro用户通过使用更耗电的图形来查看哪些应用程序正在影响其电池寿命.  ！[免费软件] [免费软件图标]
+* [gfxCardStatus](https://gfx.io/)   -  OS X的不显眼的菜单栏应用程序，允许MacBook Pro用户通过使用更耗电的图形来查看哪些应用正在影响其电池寿命.  ！[免费软件] [免费软件图标]
 * [Gray](https://github.com/zenangst/Gray)   - 只需点击一下按钮，即可在每个应用程序的基础上选择浅色外观和深色外观.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)   -  HTML 5视频播放器.  让你的Mac“不燃烧”.
 * [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) - 禁用盖子和/或闲置睡眠（例如，您可以在盖子关闭的情况下播放音乐）.

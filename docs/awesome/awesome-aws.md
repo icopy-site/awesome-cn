@@ -731,7 +731,7 @@ AWS Repos：
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) - 另一个受S3支持的文件系统，受到s3fs的启发.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -  Node.js应用程序来管理存储桶.
 * [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) - 模拟大多数命令的轻量级S3克隆.
-* [kahing/goofys :fire::fire::fire::fire:](https://github.com/kahing/goofys) - 用Go编写的Amazon S3 Filey系统.
+* [kahing/goofys :fire::fire::fire::fire::fire:](https://github.com/kahing/goofys) - 用Go编写的Amazon S3 Filey系统.
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - 具有并发控制的批处理函数（每个，map，reduce，filter，join）
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - 亚马逊S3 REST API的Ruby实现.
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - 烧瓶扩展.

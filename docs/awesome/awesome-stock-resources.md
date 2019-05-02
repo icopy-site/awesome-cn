@@ -142,7 +142,7 @@
 
 ## Videos
 
-精选的网站提供高品质的视频库存.
+A selection of websites offering high quality video stock.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/)  为您的主页提供美丽，免费的CC0许可视频.  每周一7个新视频.
 * [Distill](http://www.wedistill.io/)   - 为您的个人和商业用途免费提供精选的高清视频.  每10天10个免费高清视频.
@@ -163,6 +163,12 @@ CSS和基于图像的模式资源的混合.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - 基于图像的背景纹理和图案.
 * [The Pattern Library](http://thepatternlibrary.com/) - 大胆，明亮和时髦的可重复图案的集合.
 * [UI Gradients](https://uigradients.com/) - 在您的设计中使用的漂亮，微妙的线性渐变.
+
+## Textures
+
+提供适合3D图形纹理对象的图像的网站.
+
+* [TextureHaven](https://texturehaven.com) - [:copyright: CC0-licensed](https://creativecommons.org/publicdomain/zero/1.0/) 高质量的纹理与CC0许可证.
 
 ## Fonts
 
@@ -259,10 +265,10 @@ SVG图标资源的集合，可用于您的界面和网站设计.
 * [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Bensound版税免费音乐.
 * [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org提供超过30,000个原创曲目，可在YouTube视频，混音，移动应用，游戏等中自由使用.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) 自由循环和音频剪辑.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) 一个由高质量，合法音频下载指导的互动图书馆 [WFMU](https://wfmu.org/), the most renowned freeform radio station in America.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) 一个由高质量，合法音频下载指导的互动图书馆 [WFMU](https://wfmu.org/)，美国最着名的自由形式广播电台.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) 音频片段，样本，录音和哔哔声的协作数据库.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels集合主机完整，可免费下载/流化.
-* [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) 独立音乐社区，拥有大量创作公共音乐授权音乐.
+* [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) 独立音乐社区，收集大量创意公共音乐授权音乐.
 * [Jukedeck](https://www.jukedeck.com) - [:copyright:](https://www.jukedeck.com/licensing) 机器学习提供免版税的原创音乐.
 * [Sound Image](http://soundimage.org/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) Eric Matyas为您的项目提供超过1000首免费音乐和音效.
 * [SoundBible](http://soundbible.com) - [:copyright:](http://soundbible.com/about.php) 成千上万的免费音效，声音片段和直线声音.
@@ -277,7 +283,7 @@ SVG图标资源的集合，可用于您的界面和网站设计.
 * [Inky Deals](https://www.inkydeals.com/) - 疯狂折扣的优质资源.
 * [Shutterstock](https://www.shutterstock.com/) - 照片，矢量，社论，视频片段，音乐.
 * [Stocksy](https://www.stocksy.com/) - “无陈词滥调”照片.
-* [Graphic River](https://graphicriver.net/) - 来自设计师社区的手工审阅图形资产.
+* [Graphic River](https://graphicriver.net/) - 来自设计师社区的手工审查图形资产.
 .
 
 
