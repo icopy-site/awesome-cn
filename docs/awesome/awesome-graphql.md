@@ -118,6 +118,7 @@
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [GraphiteJS](https://github.com/graphitejs/server) -  GraphQl的框架NodeJS.
+* [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - 最终的GraphQL脚手架工具.
 
 #### Relay Related
 
@@ -129,7 +130,7 @@
 * [relay-sink](https://github.com/acdlite/relay-sink) - 使用Relay在React组件之外获取和存储数据.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - 为Relay重新组合助手.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) -  GraysQL扩展，用于创建与中继兼容的模式.
-* [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - 用于Relay的网络层，具有查询批处理和中间件支持（urlThunk，retryThunk，auth，defer等）.
+* [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - 用于中继的网络层，具有查询批处理和中间件支持（urlThunk，retryThunk，auth，defer等）.
 * [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - 对Relay的订阅支持.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - 一个示例网站，从各种api获取数据，并使用Relay和GraphQL将数据提供给React组件！
 
@@ -355,7 +356,7 @@
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql)   - 基于Swagger中描述的REST API的GraphQL类型构建器.  允许从REST迁移到GraphQL 5分钟
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - 将任何GraphQL API表示为交互式图形.
 * [GraphQL Docs](https://graphql-docs.com) - 即时创建在线托管的精美GraphQL API文档.
-* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker) - ðŸŽ² Mock or extend your GraphQL API with faked data. No coding required.
+* [GraphQL Faker](https://github.com/APIs-guru/graphql-faker)   - ðŸŽ²使用伪造数据模拟或扩展GraphQL API.  无需编码.
 * [ts-graphql-plugin](https://github.com/Quramy/ts-graphql-plugin) - 语言服务插件在TypeScript模板字符串中完成并验证GraphQL查询.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - 像JSFiddle for GraphQL服务器代码一样，直接从浏览器编写和部署GraphQL API.
 * [Apollo Tracing](https://github.com/apollographql/apollo-tracing) -  GraphQL扩展，使您可以轻松获取解析器级别的性能信息，作为GraphQL响应的一部分.
@@ -396,7 +397,7 @@
 ### JavaScript Examples
 
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构web应用程序样板（Node.js / Express，GraphQL，React）
-* [graphql-starter-kit](https://github.com/kriasoft/nodejs-api-starter) - 使用Node.js v7 +和JavaScript构建GraphQL服务器的项目模板
+* [graphql-starter-kit](https://github.com/kriasoft/nodejs-api-starter) - Project template for building a GraphQL server with Node.js v7+ and JavaScript
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - 包含swapi.co的GraphQL架构和服务器.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - 使用Mongoose（MongoDB）和Node.js的GraphQL服务器.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2

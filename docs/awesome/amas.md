@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="sindresorhus/amas"></div>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
+> [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →问我什么
 
 #### Ask these people anything!
 
@@ -60,7 +60,7 @@
 - [Nick Johnstone](https://github.com/Widdershin/ama)   - 来自新西兰的Web开发人员，目前担任Rails全职开发人员.  作为一个侧面项目，我正在制作一个不需要编码的游戏开发工具.
 - [JD Ballard](https://github.com/Qix-/ama)   - 爱达荷州人，Chalk合作者，阳光烧伤我们.  喜欢假设，不喜欢蜜蜂.
 - [Charlike Mike Reagent](https://github.com/tunnckoCore/ama) - 充满激情的全栈开发人员，黑客入侵 [ArchLinux](https://www.archlinux.org/) .  完美主义者.  革命家.  创始人 [@RegexHQ](https://github.com/regexhq)，核心成员 [@JSTransformers](https://github.com/jstransformers) 和部分 [@dwylhq](https://twitter.com/dwylhq).
-- [Mohamad Jahani](https://github.com/mamal72/ama)   - 来自伊朗的软件开发人员，主要从事网络后端，\ n * nix服务器，电子设备和您可以想象的最酷的东西！  知识瘾君子，全天候阅读和工作.
+- [Mohamad Jahani](https://github.com/mamal72/ama)   - 来自伊朗的软件开发人员，主要从事网络后端，\ n * nix服务器，电子设备和您可以想象的最酷的东西！  一个知识瘾君子，谁正在全天候阅读和工作.
 - [Justin Miller](https://github.com/incanus/ama) -  Mapbox的移动领导，以前的Code Sorcery Workshop（Pukka / Meerkat），摄影师，旅行者.
 - [Yitzchok Willroth](https://github.com/coderabbi/ama)   -  Coder＆Rabbi（尽管很少在同一时间！）;  Grovo工程实践经理;  组织者，ShorePHP和NYPHP;  会议发言人;  导师.
 - [Graham Daniels](https://github.com/greydnls/ama) - 高级软件工程师 [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
@@ -94,7 +94,7 @@
 - [Seth Alexander](https://github.com/itzsaga/ama) - 免费Code Camper，Burgeoning Dev，所有JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - 工程副总裁 [Shape Security](https://shapesecurity.com/)，作者 [Esprima](https://github.com/jquery/esprima) 和 [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama)   -  VoIP开发人员，IPv6和安全宣传员，DevOps的支持者.  目前在 [Sangoma](https://www.sangoma.com).
-- [Amit Merchant](https://github.com/amitmerchant1990/ama) - 使用JavaScript，PHP和Java的全栈开发人员.
+- [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
 - [William Oliveira](https://github.com/woliveiras/ama) - 前端开发人员（巴西人）使用JavaScript，Angular，Stylus，Gulp，Git等.阅读更多关于我的信息 [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) - 作者 [MIHTool](http://www.mihtool.com) 和 [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon](https://github.com/tiborsimon/ama) - 电气工程师，软件极客，DSP，iOS，vimmer，吉他手，骑车人，跑步者， [tiborsimon.io](https://tiborsimon.io).
@@ -161,6 +161,8 @@
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - 软件架构师， [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi)，和 [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.
+- [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - 所有在一个开发人员.
+- [Frances Coronel](https://github.com/fvcproductions/ama) - 开源爱好者，Slack的软件工程师，Techqueria.org的董事会成员.
 
 #### Ask these organizations anything!
 

@@ -822,7 +822,7 @@
 - [Handlebars.java](https://jknack.github.io/handlebars.java) - 无逻辑和语义的胡须模板.
 - [Jade4J](https://github.com/neuland/jade4j) - 实施帕格（以前称为翡翠）.
 - [Jtwig](http://jtwig.org) - 模块化，可配置且经过全面测试的模板引擎.
-- [Pebble](http://www.mitchellbosecke.com/pebble/home)   - 受Twig的启发，并以其继承功能和易于阅读的语法分离.  它附带内置自动安全功能，用于安全性，并包含对国际化的集成支持.
+- [Pebble](https://pebbletemplates.io)   - 受Twig的启发，并以其继承功能和易于阅读的语法分离.  它附带内置自动安全功能，用于安全性，并包含对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) - 优化，内存效率和快速模板引擎，生成静态类型的普通对象.
 - [Thymeleaf](http://www.thymeleaf.org) - 旨在成为JSP的替代品并适用于XML文件.
 

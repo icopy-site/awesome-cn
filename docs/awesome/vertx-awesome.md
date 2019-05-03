@@ -27,6 +27,7 @@
 
 * [Vert.x Maven plugin](https://github.com/fabric8io/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
+* [Vert.x Codegen Gradle plugin](https://github.com/bulivlad/vertx-codegen-plugin) -  Gradle插件，便于Vert.x Java项目的代码使用
 
 ## Web Frameworks
 
@@ -164,7 +165,7 @@
 *客户端将应用程序连接到Vert.x事件总线*
 
 * [JavaScript](https://www.npmjs.com/package/vertx3-eventbus-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  JavaScript事件总线客户端.
-* [C++11](https://github.com/julien3/vertxbuspp) - C++11 event bus client.
+* [C++11](https://github.com/julien3/vertxbuspp) -  C ++ 11事件总线客户端.
 * [Java](https://github.com/saffron-technology/vertx-eventbusbridge) -  vertxbus.js的Java实现.
 * [Java](https://github.com/abdlquadri/vertx-eventbus-java) -  Java和Android事件总线客户端.
 * [Java](https://github.com/danielstieger/javaxbus) - 使用普通TCP套接字I / O的简单Java事件总线客户端.
@@ -257,7 +258,7 @@
 * [Vert.x Todo-Backend implementation](https://github.com/aesteve/todo-backend-vertx)   -  Todo MVC后端的纯Java 8实现.  使用Vert.x LocalMap进行存储.
 * [Kotlin Todo-Backend implementation](https://github.com/aesteve/vertx-kotlin-todomvc) -  Kotlin实现了Todo MVC后端.
 * [Scala Todo-Backend implementation](https://github.com/aesteve/vertx-scala-todomvc) -  Scala实现Todo MVC后端.
-* [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) - 使用Vert.x + Groovy +一些语法糖+ DSL路由设施的Todo MVC后端实现.
+* [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
 * [Vert.x Gradle Starter](https://github.com/yyunikov/vertx-gradle-starter) -  Java 8入门应用程序，其中包含使用Vert.x和Gradle构建系统，配置文件配置和SLF4J的示例.
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) - 有关如何使用Gentics Mesh和把手构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) - 一个简单的演示，展示了当涉及巨大的延迟时，HTTP / 2如何能够显着改善用户体验.
@@ -277,7 +278,7 @@
 * [Vert.x POJO config](https://github.com/aesteve/vertx-pojo-config)   - 允许在标准JSON配置和（类型安全）配置Java bean之间进行映射.  还允许通过JSR 303验证配置bean.
 * [Vert.x Async](https://github.com/gchauvet/vertx-async) - 将caolan / async nodejs模块移植到Vert.x框架，为常见的异步模式提供帮助程序方法.
 * [Vert.x JOLT](https://github.com/lusoalex/vertx-jolt)   - 基于原始bazaarvoice JOLT项目的JSON到JSON转换工具.  有助于将不同的json结构转换为预期的json格式.
-* [Vert.x Dependent Verticle Deployer](https://github.com/juanavelez/vertx-dependent-verticle-deployer) -  Vert.x Verticle旨在部署Verticle及其依赖Verticle.
+* [Vert.x Dependent Verticle Deployer](https://github.com/juanavelez/vertx-dependent-verticle-deployer) -  Vert.x Verticle旨在部署Verticle及其相关的Verticle.
 * [Vert.x Dataloader](https://github.com/engagingspaces/vertx-dataloader)   - 用于Vert.x的Facebook Dataloader的Java端口.  为数据层提供高效的批处理和缓存.
 * [Vert.x Util](https://github.com/juanavelez/vertx-util) -  Vert.x实用程序方法的集合.
 * [Vert.x Web Accesslog](https://github.com/romanpierson/vertx-web-accesslog) - 只是一个在Vert.x Web中用于生成访问日志的简单处理程序.

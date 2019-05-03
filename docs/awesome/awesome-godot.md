@@ -53,6 +53,7 @@
 - [Open Source A-RPG Demo](https://github.com/GDquest/make-pro-2d-games-with-godot) -  RPG演示（Godot 3.0）.
 - [OpenRPG](https://github.com/GDquest/godot-open-rpg) -  JRPG风格的游戏演示和模板（Godot 3.1）.
 - [Pathfinding 2d](https://github.com/FEDE0D/godot-pathfinding2d-demo) - 使用tilemap演示寻路的演示项目.
+- [Realistic Water Shader](https://github.com/fire/godot-realistic-water) - 逼真的3D水色调与泡沫和焦散.
 - [UDP Snapshot interpolation](https://github.com/empyreanx/godot-snapshot-interpolation-demo) - 允许您连接到服务器并查看联网物理.
 - [UDP State synchronization](https://github.com/empyreanx/godot-state-sync-demo) - 比快照插值更有效的网络演示.
 - [Voxel Game](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - 类似Minecraft的体素地形演示.
@@ -111,7 +112,7 @@
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -  Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
 - [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳（Robert Penner）缓和方程式的一个端口.
-- [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架.
+- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
 - [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.
@@ -123,7 +124,7 @@
 - [GUT](https://github.com/bitwes/Gut) - 在GDScript中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - A scrolling background node for Godot.
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 戈多的滚动背景节点.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 一个可以定制的对话系统和编辑器，非常适合故事驱动的游戏.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - 简单的游戏手柄支持GNU / Linux和Windows.
 - [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).

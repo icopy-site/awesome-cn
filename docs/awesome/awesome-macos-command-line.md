@@ -155,7 +155,7 @@ defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
  下面的AppleScript代码将退出Mail，清空SQLite索引，然后重新打开Mail.  在一段时间没有优化的大型电子邮件数据库中，这可以显着提高响应速度和速度.
 ```applescript
 (*
-通过吸尘信封索引来加速Mail.app
+Speed up Mail.app by vacuuming the Envelope Index
 代码来自：http：//web.archive.org/web/20071008123746/http://www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
 最初由“pmbuko”改编，由Romulo修改
 由Brett Terpstra 2012更新
@@ -334,7 +334,7 @@ sudo tmutil verifychecksums / path / to / backup
 #### Compile Sane Vim
 通过Homebrew编译MacVim的所有铃声和口哨声，包括覆盖系统Vim.
 ```bash
-brew install macvim --HEAD --with-cscope --with-lua --with-override-system-vim --with-luajit --with-python
+brew install macvim --HEAD
 ```
 
 #### Neovim
@@ -632,12 +632,12 @@ hdiutil detach / dev / disk2s1
 killall Finder
 
 ## Disable (Default)
-defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
+默认写入com.apple.finder ShowExternalHardDrivesOnDesktop -bool false &amp;&amp; \
 killall Finder
 ```
 
 #### Show Internal Media
-Built-in HDs or SSDs.
+内置HD或SSD.
 ```bash
 ## Enable
 默认写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
@@ -1007,11 +1007,11 @@ sudo systemsetup -setrestartfreeze on
 连接MagSafe时播放iOS充电声音.
 ```bash
 ## Enable
-默认值写com.apple.PowerChime ChimeOnAllHardware -bool true &amp;&amp; \
+默认写入com.apple.PowerChime ChimeOnAllHardware -bool true &amp;&amp; \ t
 打开/System/Library/CoreServices/PowerChime.app
 
 ## Disable (Default)
-默认写入com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \
+默认写入com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \ t
 killall PowerChime
 ```
 
@@ -1243,7 +1243,7 @@ curl -s https://api.ipify.org&amp;&amp; echo
 #### Start Native TFTP Daemon
 文件将从`/ private / tftpboot`提供.
 ```bash
-sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist&amp;&amp; \
+sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist && \
 sudo launchctl start com.apple.tftpd
 ```
 
@@ -1261,7 +1261,7 @@ sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Curre
 ```
 运行无线扫描：
 ```bash
-机场-s
+airport -s
 ```
 
 #### Show Current SSID
@@ -1412,7 +1412,7 @@ sudo spctl --master-disable
 
 ### Wiping Data
 
-Note: The `srm` command appears to have been removed on MacOS after 10.9. There is a note on an [Apple support page](https://support.apple.com/en-us/HT201949) 暗示为什么：
+ 注意：在10.9之后，“srm”命令似乎已在MacOS上删除.  有一个注释 [Apple support page](https://support.apple.com/en-us/HT201949) 暗示为什么：
  &gt;使用SSD驱动器时，磁盘工具中不提供安全擦除和擦除可用空间.  SSD驱动器不需要这些选项，因为标准擦除使得难以从SSD恢复数据.
 
 #### Securely Remove File
@@ -1486,7 +1486,7 @@ diff -qr / path / to / folder1 / path / to / folder2
 #### Copy Large File with Progress
 确保安装了`pv`并用适当的写设备或文件替换`/ dev / rdisk2`.
 ```bash
- FILE = / path / to / file.iso pv -s $（du -h $ FILE | awk&#39;/.*/ {print $ 1}&#39;）$ FILE |  sudo dd = / dev / rdisk2 bs = 1m
+FILE=/path/to/file.iso pv -s $(du -h $FILE | awk '/.*/ {print $1}') $FILE | sudo dd of=/dev/rdisk2 bs=1m
 ```
 
 #### Restore Sane Shell
@@ -1544,7 +1544,7 @@ pbpaste&gt; whatever.txt
 ### FileVault
 
 #### Automatically Unlock FileVault on Restart
-If FileVault is enabled on the current volume, it restarts the system, bypassing the initial unlock. The command may not work on all systems.
+ 如果在当前卷上启用了FileVault，则会重新启动系统，从而绕过初始解锁.  该命令可能无法在所有系统上运行.
 ```bash
 sudo fdesetup authrestart
 ```
@@ -1844,7 +1844,7 @@ sudo systemsetup setusingnetworktime off
 ## Terminal
 
 #### Ring Terminal Bell
-敲响终端铃（如果已启用）并在其上放置徽章.
+Rings the terminal bell (if enabled) and puts a badge on it.
 ```bash
 tput bel
 ```
@@ -1900,7 +1900,7 @@ chsh -s $（brew --prefix）/ bin / zsh
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - 基于Vera字体的字体系列.
 - [Hack](http://sourcefoundry.org/hack/) -  Hack手工修饰，光学平衡，成为您的首选代码.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) - 等宽字体，专为代码清单等设计.
-- [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
+- [Input](http://input.fontbureau.com) - 专为代码设计的灵活字体系统.
 - [Meslo](https://github.com/andreberg/Meslo-Font) -  Apple的Menlo字体的定制版本.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - 一种令人惊讶的可用替代品，采用等宽字体（商业）.
 - [Powerline Fonts](https://github.com/powerline/fonts) -  Powerline插件的修补字体回购.
@@ -1936,4 +1936,4 @@ chsh -s $（brew --prefix）/ bin / zsh
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /><br />本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名 - 相同方式共享4.0国际许可协议授权</a> .

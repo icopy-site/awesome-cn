@@ -181,6 +181,7 @@
 - [Gatsby for Apps](https://www.gatsbyjs.org/blog/2018-11-07-gatsby-for-apps/)
 - [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
 - [Going JAMstack with Netlify and Nuxt](https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/)
+- [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 
 ## Podcasts
 

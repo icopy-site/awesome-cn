@@ -4,8 +4,6 @@
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
-> [Sushi Sprint at PloneConf 2018 in Tokyo, Japan](https://2018.ploneconf.org/sprints) （2018年11月10日至11日）
-
  精彩的Pyramid应用程序，项目和资源的精选列表.  灵感来自和
 基于 [awesome-python](https://github.com/vinta/awesome-python/).
 
@@ -51,7 +49,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [Stargate](https://github.com/boothead/stargate) - 星际之门是一个包
   使用优秀的方法为金字塔应用程序添加WebSockets支持
   用于长时间连接的eventlet库.
-* [channelstream](https://github.com/AppEnlight/channelstream) -  websocket通信服务器（fenced）.
+* [channelstream](https://github.com/AppEnlight/channelstream) -  Web套接字通信服务器（提供）.
 
 ## Authentication
 
@@ -71,7 +69,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [Python Social Auth](https://github.com/omab/python-social-auth) - 社交
   认证/注册机制，支持大量
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) - 简单而强大
+* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful
   Python Web应用程序的授权/身份验证客户端库.
 * [apex](https://github.com/cd34/apex) - 金字塔工具包，一个Pylons项目，
   使用Velruse（OAuth）和/或本地添加身份验证和授权
@@ -139,7 +137,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
   对pyramid_debugtoolbar的dogpile缓存支持
 * [pyramid_ipython](https://github.com/Pylons/pyramid_ipython) -  IPython
   Pyramid的pshell绑定
-* [pyramid_bpython](https://github.com/Pylons/pyramid_bpython) -  bpython
+* [pyramid_bpython](https://github.com/Pylons/pyramid_bpython) -  phython
   Pyramid的pshell绑定
 * [pyramid_pycallgraph](https://github.com/disko/pyramid_pycallgraph) - 金字塔补间为每个请求生成一个调用图像
 
@@ -176,7 +174,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 
 * [pyramid_elfinder](https://github.com/uralbash/pyramid_elfinder) - This is
   elfinder文件管理器的conector，为金字塔框架编写.
-* [pyramid_storage](https://github.com/danjac/pyramid_storage) - 这是一个用于处理Pyramid框架应用程序中的文件上传的包.
+* [pyramid_storage](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
 ## RESTful API
 
@@ -202,12 +200,14 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [nefertari](https://github.com/ramses-tech/nefertari) -  Nefertari是一个REST
   API框架位于Pyramid和ElasticSearch之上.
 * [pyramid_swagger](https://github.com/striglia/pyramid_swagger) - 方便
-  使用Swagger在Pyramid webapp中定义和验证接口的工具.
+   使用Swagger在Pyramid webapp中定义和验证接口的工具.  （Swagger 2.0文档）
+* [pyramid-openapi3](https://github.com/niteoweb/pyramid_openapi3)   - 针对OpenAPI 3.0文档验证金字塔视图.  与pyramid_swagger类似，但对于OpenAPI 3.0.
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - 自动 
   创建一个 [JSON API](http://jsonapi.org/) 来自数据库的标准API使用
   sqlAlchemy ORM和金字塔框架.
 * [pyramid_apispec](https://github.com/ergo/pyramid_apispec) - 创建一个OpenAPI
   使用apispec和Marshmallow模式的规范文件.
+
 
 ## Search
 
@@ -253,7 +253,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [pyramid_zodbconn](https://github.com/Pylons/pyramid_zodbconn) -  ZODB
   Pyramid的数据库连接管理.
 * [pyramid_mongoengine](https://github.com/marioidival/pyramid_mongoengine) -
-  金字塔 -  mongoengine包基于烧瓶 - 在其他地方
+  基于金字塔的基于烧瓶崇拜的包装
 * [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
   基本金字塔脚手架可以轻松使用MongoDB与Pyramid Web框架进行持久化
 * [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) -  pyramid-excel基于 [pyexcel](https://github.com/pyexcel/pyexcel)  并且可以通过HTTP协议以及文件系统轻松地使用/生成存储在excel文件中的信息.  该库可以将excel数据转换为列表列表，记录列表（字典），列表字典.  反之亦然.  因此，它可以让您专注于基于金字塔的Web开发中的数据，而不是文件格式.
@@ -369,7 +369,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 ## Cookiecutters
 
 * [Pylons](https://github.com/Pylons?q=cookiecutter) - 官方cookiecutter模板
-* [Pyramid Runner](https://github.com/asif-mahmud/pyramid_runner) - A minimal Pyramid
+* [Pyramid Runner](https://github.com/asif-mahmud/pyramid_runner) - 最小的金字塔
   脚手架旨在提供一个入门模板来构建从小到大的Web服务.
   
   *基于遍历的应用程序
@@ -422,7 +422,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 ## Books
 
 * [Python Web Frameworks](http://www.oreilly.com/web-platform/free/python-web-frameworks.csp) - 深入细节
-   six Python frameworks—Django, Flask, Tornado, Bottle, Pyramid, and CherryPy.
+   六个Python框架 -  Django，Flask，Tornado，Bottle，Pyramid和CherryPy.
 
 ## Websites
 

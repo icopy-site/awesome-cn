@@ -16,7 +16,7 @@
 - ：免费： - 免费
 - ：tada： - 开源
 - ：钱包： - 支付
-- :money_with_wings: - Partially Free
+- ：money_with_wings： - 部分免费
 
 
 
@@ -43,7 +43,7 @@ Graphics
 *：money_with_wings： [PlainTextures](http://www.plaintextures.com/) - 免费的高分辨率纹理，画笔和照片
 * ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) - 一个免费的2D和3D图形博客.
 * ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式3D模型.
-* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - 静态和动画图形对象（通常也称为精灵）的集合.
+* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
 * ：自由： [StickyPNG](http://www.stickpng.com/) - 免费透明的PNG图像.
 * ：自由： [TextureKing](http://www.textureking.com/) - 免费材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - 在线树生成器.
@@ -190,6 +190,7 @@ Code
 *：那么： [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine) - 一个现代的跨平台低级图形库，支持Direct3D11，Direct3D12，OpenGL / GLES和Vulkan.
 *：那么： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 *：那么： [ENGi](https://github.com/ajhager/engi) -  Go的多平台2D游戏库.
+*：那么： [engo](https://engoengine.github.io/) -  Engo是一个用Go编写的开源2D游戏引擎.
 *：那么： [Ebiten](https://hajimehoshi.github.io/ebiten/) -  Go中一个简单的2D游戏库.
 *：那么： [Ejecta](http://impactjs.com/ejecta) - 适用于iOS的快速开源JavaScript，Canvas和音频实现.
 *：那么： [EnchantJS](http://enchantjs.com/) - 用于创建游戏和应用程序的简单JavaScript框架.
@@ -257,7 +258,7 @@ Code
 *：money_with_wings： [Pixel Vision 8](https://twitter.com/PixelVision8) - 一个旨在模拟您最喜欢的8位控制台的框架.
 *：那么： [PixiJS](http://www.pixijs.com/)   - 是一款新推出的HTML5游戏渲染器 - 于2013年初首次发布.该引擎的主要吸引力在于它使用WebGL来提高性能.  如果不支持WebGL，则引擎会回退到标准画布.
 *：那么： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台HTML5游戏开发的2D JavaScript物理引擎.
-*：money_with_wings： [PlayCanvas](https://playcanvas.com/) -  WebGL游戏引擎.
+*：money_with_wings： [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
 *：那么： [Polycode](http://polycode.org) - 用C ++创建游戏的开源框架（使用Lua绑定）.
 *：那么： [Processing](https://www.processing.org/) -  Processing是一种编程语言，适用于艺术家，设计师和研究人员的开发环境.
 *：那么： [PuzzleScript](http://www.puzzlescript.net/) - 开源HTML5益智游戏引擎.
@@ -272,7 +273,7 @@ Code
 *：那么： [Spring](http://springrts.com/) - 功能强大的免费跨平台RTS引擎.
 * ：自由： [SpriteKit](https://developer.apple.com/documentation/spritekit) -  iOS / Mac 2D游戏引擎.
 *：那么： [Stage.js](http://piqnt.com/stage.js/) - 用于跨平台游戏开发的轻量级和快速2D HTML5渲染和布局引擎.
-*：那么： [Starling](http://gamua.com/starling/) - The GPU powered 2D Flash API
+*：那么： [Starling](http://gamua.com/starling/) -  GPU驱动的2D Flash API
 *：money_with_wings： [Stencyl](http://www.stencyl.com/) - 游戏创建平台，允许用户为计算机，移动设备和网络创建2D视频游戏.
 *：那么： [Superpowers](https://sparklinlabs.itch.io/superpowers) -  HTML5协作2D / 3D游戏制作
 *：那么： [TIC-80](https://tic.computer/) -  TIC-80是一款用于制作，播放和分享小游戏的梦幻电脑.
@@ -323,7 +324,7 @@ Audio
 *：那么： [musagi](http://www.drpetter.se/project_musagi.html) - 开源，相当大和复杂的音乐编辑器和合成器
 *：那么： [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - 开源MIDI音序器.
 * ：自由： [Soundation](https://soundation.com/) - 在线专业音乐工作室.
-* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) - 一个小巧，快速，功能强大的模块化合成器，带有基于模式的音序器（跟踪器）.
+* ：自由： [SunVox](http://www.warmplace.ru/soft/sunvox/) - 一个小型，快速，功能强大的模块化合成器，带有基于模式的音序器（跟踪器）.
 
 棋盘游戏
 -----------

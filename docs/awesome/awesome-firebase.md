@@ -16,15 +16,8 @@
   <img src="https://raw.githubusercontent.com/jthegedus/awesome-firebase/master/images/firebase-services.gif" />
 </a>
 
-<!-- other language links -->
-<p align="right">
-    <!-- <sup> <a href="README_ES.md">这是</a>
-    <sup><a href="README_ID.md">ID</a></sup>
-    <sup><a href="README_JA.md">和</a></sup>
-    <sup><a href="README_KO.md">我的</a></sup>
-    <sup><a href="README_PT.md">为</a></sup>
-    <sup><a href="README_ZH.md">zh</a></sup> - &gt;
-</p>
+<!-- translations -->
+Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
 
 [Firebase] [firebase]是一个基于[Google Cloud Platform] [gcp-products]构建的app dev平台，提供服务和跨平台SDK！
 
@@ -34,24 +27,14 @@
 
 
 
-<p>
-  <b>传奇</b> ：
-    <em>
-     博客文章
-    · 例子
-    ·docs
-    ·图书馆
-    ·工具
-    ·讲座/视频
-    </em>
-</p>
+**传奇**：博客文章·示例·文档·图书馆·工具·讲座/视频 
 
 <!-- START content -->
 
 ## Featured (new releases)
 
+-  [Fireward] [fireward]  - 易于使用的Firestore规则语言，类似于Firebase Bolt.
 -  [适用于Firebase的计划（Cron）云功能] [cron-cloud-functions]  - 用于Firebase云功能的Firebase本机Cron触发器.
--  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
 -  [Integrify] [new-2]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
 -  [VSCode Firebase Explorer] [new-4]  - 浏览和管理您的Firebase项目.
 -  [React Firebase Hooks] [new-5]  - 针对Firebase服务的React Hooks.
@@ -63,7 +46,7 @@
 
 ## Web
 
--  [Firebase用户界面] [web-1]  -  FirebaseUI是一个用于Web的开源JavaScript库，可在Firebase SDK之上提供简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [Firebase UI] [web-1]  -  FirebaseUI是一个用于Web的开源JavaScript库，可在Firebase SDK之上提供简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [React的Firebase UI] [web-2]  -  firebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript] [web-3]  - 使用Firebase进行实时位置查询.
 -  [FirePad] [web-4]  - 由Firebase提供支持的协作文本编辑器.
@@ -80,7 +63,7 @@
   -  [Angular Firebase PWA] [web-15]  - 是由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
   -  [FireSQL] [web-16]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
 -  [主机版本历史] [hosting-version-hist]  - 自动删除旧版本的站点部署.
--  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React中的Firestore.
+-  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React.
 
 ## Mobile
 
@@ -103,7 +86,7 @@
 ### iOS
 
 -  [Objective-C的GeoFire] [ios-1]  - 使用Firebase进行实时位置查询.
--  [Firebase UI] [ios-2]  - 适用于Firebase的iOS UI绑定.
+- 🔌 [Firebase UI][ios-2] - iOS UI bindings for Firebase.
   -  [MLKit  -  ARCore] [ios-3]  - 检测对象并在增强现实中使用3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit  -  ARKit] [ios-4]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
 
@@ -116,6 +99,7 @@
 -  [带云函数的编译代码] [server-5]  - 使用Babel，TypeScript编译器或ParcelJS将Flow，TypeScript或ReasonML编译到正确的节点运行时.
 -  [BigQuery和Google Analytics] [server-6]  - 如何使用BigQuery在Google Analytics for Firebase中创建封闭式渠道.
 - 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
+-  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
 
 ## CLI & Editor
 
@@ -151,7 +135,8 @@
 
 ### Community
 
-📹 [Fireship - AngularFirebase][community-1]
+-  [Fireship  -  AngularFirebase] [angular-firebase]
+-  ru [@firebase_ru  - 电报友好聊天] [ru-telegram-chat]
 
 我们还应该追随谁？？
 
@@ -249,6 +234,7 @@
 [cli-editor-5]：https：//github.com/sgarciac/fuego
 [cli-editor-6]：https：//github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]：https：//github.com/abehaskins/firepit
+[fireward]：https：//github.com/bijoutrouvaille/fireward
 
 <!-- Other -->
 
@@ -270,7 +256,8 @@
 [官方2]：https：//firebase.googleblog.com/
 [官方3]：https：//twitter.com/firebase
 [官方4]：https：//twitter.com/bestoffirebase
-[社区-1]：https：//www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+[angular-firebase]：https：//www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
+[ru-telegram-chat]：https：//t.me/firebase_ru
 
 <!-- Contributors -->
 

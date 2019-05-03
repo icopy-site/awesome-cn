@@ -58,7 +58,6 @@
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) - 允许您通过创建符号链接在项目之间共享选定的包.
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) - 使您可以从不同的目录加载包（而不是从/ vendor加载它们）.
 - [Prestissimo](https://github.com/hirak/prestissimo) - 使用`phpext_curl`的并行下载程序.
-- [Composer-FastFetch](https://github.com/jakoch/composer-fastfetch) - 使用外部下载工具的并行下载器：Aria2.
 - [Composer-Curl-Plugin](https://github.com/ngyuki/composer-curl-plugin) - 该插件使用phpext_curl下载包.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - 作曲家插件，用于在默认编写器安装路径（供应商文件夹）之外的自定义目录中安装不同类型的编写器包.
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - 允许您为已安装的编写器项目构建依赖关系图.
@@ -77,6 +76,7 @@
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - 该插件生成一个`vendor / preload.php`文件来预热Opcache.
 - [PHP Inc](https://github.com/krakphp/php-inc) - 自动包含autoload和autoload-dev文件，以便于在编写器加载的应用程序中使用函数和分组定义.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - 使您可以在不同的编写器存储库之间切换.
+- [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - 防止将开发包添加到require和进入生产环境中.
 
 ## Tools
 

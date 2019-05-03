@@ -90,7 +90,7 @@
 - [Frama-C](http://frama-c.com) -  Frama-C是C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -  flow是JavaScript的静态类型检查器
 - [Ocamllint](https://github.com/cryptosense/ocamllint) -  Ocamllint检测OCaml代码中的常见错误
-- [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次出现.）
+- [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次发生.）
 - [SLAyer](https://github.com/Microsoft/SLAyer) -  SLAyer是一种自动形式验证工具，它使用分离逻辑来验证C程序的内存安全性.
 - [MemCAD](https://github.com/Antique-team/memcad)   -  MemCAD是一种用于形状分析的抽象解释器.  MemCAD可以验证C程序操纵复杂的数据结构.
 
@@ -474,6 +474,8 @@
   - [Opium](https://github.com/rgrinberg/opium) -  Sinatra喜欢OCaml的web工具包.
   - [Ocsigen Eliom](http://ocsigen.org/eliom/)   -  Eliom是一个功能齐全的多层框架，用于开发多平台Web和移动应用程序，作为100％OCaml分布式应用程序.  它还可以用于更传统的Web或移动应用程序：网站，单页面应用程序，REST API等.
   - [webmachine](https://github.com/inhabitedtype/ocaml-webmachine)   -  OCaml的REST工具包.  OCaml webmachine是cohttp之上的一个层，它实现了一个基于状态机的HTTP请求处理器.  它特别适合编写RESTful API.  顾名思义，这是webmachine项目的OCaml端口.
+  - [incr_dom](https://github.com/janestreet/incr_dom) - 使用Js_of_ocaml构建动态Web应用程序的库
+  - [ocaml-vdom](https://github.com/LexiFi/ocaml-vdom) - 用于OCaml的Elm架构和（V）DOM
 
 -  **工具**：
   - [COW](https://github.com/mirage/ocaml-cow) - 网络上的Caml（COW）是一组解析器和语法扩展，可让您直接从OCaml代码操作HTML，CSS，XML，JSON和Markdown.

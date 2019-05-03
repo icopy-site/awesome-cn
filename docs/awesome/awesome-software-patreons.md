@@ -70,6 +70,7 @@ _Projects以开源许可证发布._
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - 电子商务软件. 
 - [Tiled](https://www.patreon.com/bjorn) -  2D游戏关卡编辑器. 
 - [Transmission](https://transmissionbt.com/donate/) -  BitTorrent客户端.
+- [V Programming Language](https://www.patreon.com/vlang), [#2](https://www.paypal.com/donate/?token=u2pjZRmcQ2ZHaiP2Ce_wYNgGYrjrOL0xc_1zq9iDrO0uElfo24bMYFuSh48Hrpgm_66GF0&country.x=US&locale.x=US) -  V是一种静态类型的编译编程语言，类似于Go，受到Oberon，Rust，Swift的影响.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) -  VLC视频播放器的制造商.
 - [Vim-Go](https://www.patreon.com/fatih) - 去VIM的插件.
 - [Webpack](https://opencollective.com/webpack) -  JavaScript模块捆绑器.
@@ -125,7 +126,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Andrea Ferrero](https://www.patreon.com/andreaferrero) -  PhotoFlow图像编辑器的开发者，维护各种Appimage包.
 - [Andreas Kainz](https://www.patreon.com/user?u=10071325) -  LibreOffice设计师.
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - 编程教程，游戏和mods.
-- [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎和更多项目
+- [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎以及更多项目
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - 维护Visual Studio Code的CMake工具，创建视频教程.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
@@ -209,6 +210,7 @@ _文章，视频，播客等......
 
 - [CPP Cast](https://www.patreon.com/CppCast) - 面向C ++开发人员的播客.
 - [Destination Linux](https://www.patreon.com/destinationlinux) -  Linux讨论和新闻相关的播客.
+- [Future of Coding](https://www.patreon.com/stevekrouse) - 编码的未来是由Steve Krouse组织的社区，播客和研究项目.
 - [Late Night Linux](https://www.patreon.com/LateNightLinux) -  Linux和新闻.
 - [More Than Just Code](https://www.patreon.com/mtjc) - 面向iOS开发人员的播客.
 - [Software Defined Talk](https://www.patreon.com/sdt) - 企业软件. 

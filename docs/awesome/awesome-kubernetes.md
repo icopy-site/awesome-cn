@@ -333,7 +333,7 @@ Installers
 MOOC课程/教程
 =======================================================================
 
-*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)) and tutorials*
+*可用的免费在线课程列表（[MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course)）和教程*
 
 
   - [Scalable Microservices with Kubernetes at Udacity](http://in.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -518,7 +518,7 @@ Projects
 * [Apollo](https://github.com/logzio/apollo) - 开源应用程序，为团队提供自助服务UI，以便为Kubernetes创建和部署服务.
 * [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
 * [Buildkite](https://github.com/buildkite/charts) - 精益CI / CD云托管控制平面与您的基础架构上的代理.
-* [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
+* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
@@ -593,7 +593,7 @@ Projects
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - 基于容器的Kubernetes容器运行时接口的实现
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)
-* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - 基于Hypervisor的容器运行时
+* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
 * [virtlet](https://github.com/Mirantis/virtlet) - 用于运行VM工作负载的Kubernetes CRI实施
 * [infranetes](https://github.com/apporbit/infranetes)
 
@@ -732,13 +732,14 @@ Projects
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [thesus](https://github.com/heptiolabs/theseus) - 用于比较Kubernetes对象集的命令行实用程序和可导入程序包
+* [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)   - 一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
 
 ## Security
 
 * [Aquasec](http://blog.aquasec.com/topic/kubernetes)
 * [Authenticator](https://github.com/heptio/authenticator) - 使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - 广泛采用统一Kubernetes网络政策和Istio应用政策的开源实施.
-* [Dex](https://github.com/coreos/dex) - OpenID and OAuth for Kubernetes
+* [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -  Authenticaton webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供商.
 * [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
@@ -837,7 +838,7 @@ Books
 
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) 通过 [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
-* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
+* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer), Jianbo Sun and ZJU SEL lab
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier
@@ -911,7 +912,7 @@ Videos
 
 - [Automating CI/CD on Kubernetes 同 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 运用 [Jenkins X](https://jenkins-x.io/) 同 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
-Interesting Twitter Accounts
+有趣的Twitter账户
 =======================================================================
 
 * Twitter很快，很容易沟通，如果你充分利用它，它是品牌或企业的一个非常有价值的社交渠道.通过关注这些新闻聚合器，滚动新闻频道和公司，你可以获得内部在一个故事发布到主流新闻媒体之前很久就已经开始了.*
