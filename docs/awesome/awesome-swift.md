@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  964 |  2019年5月2日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  964 |  2019年5月3日
 
 
 
@@ -140,7 +140,7 @@
 *基于AI的项目（机器学习，神经网络等）的Libs.* [back to top](#readme) 
 
 * [CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - 一系列独特的Core ML型号.
-* [MLKit](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
+* [MLKit](https://github.com/Somnibyte/MLKit) - 一个简单的机器学习框架.
 
 ### Algorithm
 [back to top](#readme) 
@@ -284,7 +284,7 @@
 * [Real-time Chat with Firebase](https://github.com/instamobile/messenger-iOS-chat-swift-firestore) - 使用MessageKit与Firebase Firestore实现功能性实时聊天应用.
 
 ### Colors
-*有趣的片段与色彩管理和实用性有关.* [back to top](#readme) 
+*Interesting snippets related to color management and utility.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) -  Chameleon是一款轻量级但功能强大的iOS彩色框架.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 直观而有趣的iOS颜色选择器.
@@ -385,7 +385,7 @@
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 为什么不使用UserDefaults来存储Codable对象.
-* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - 通过iCloud轻松同步NSUserDefaults.
 
 #### MongoDB
 [back to top](#readme) 
@@ -528,7 +528,7 @@
 * [FutureKit](https://github.com/FutureKit/FutureKit) - 未来/承诺图书馆.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - 将应用程序写入React和Redux.
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
-* [Notificationz](https://github.com/SwiftKitz/Notificationz) - Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.
+* [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
 * [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 现代线程安全和类型安全的键值观察.
 * [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步承诺编程lib.
@@ -605,7 +605,7 @@
 
 * [BlueCap](https://github.com/troystribling/BlueCap) -  CoreBluetooth周围的包装等等.
 * [Bluejay](https://github.com/steamclock/bluejay) - 构建可靠蓝牙LE应用程序的简单框架.
-* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - 使用BLE在iOS / OSX设备之间轻松通信.
+* [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - 适用于RxSwift的iOS和OSX蓝牙库.
 * [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - 基于CoreBluetooth的简单可靠的封装包装.
 
@@ -690,7 +690,7 @@
 
 
 ### Keyboard
-*Do you want to create your own customized keyboard? Here are some interesting resources* [back to top](#readme) 
+ *您想创建自己的自定义键盘吗？  这里有一些有趣的资源* [back to top](#readme) 
 
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding)   - 一种优雅的解决方案，可在键盘显示时保持任何UIView可见.  不需要UIScrollView.
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无代码插入式通用库允许防止键盘滑动问题并覆盖UITextField / UITextView.
@@ -706,7 +706,7 @@
 ### Layout
 * Libs帮助您进行布局.* [back to top](#readme) 
 
-* [BrickKit](https://github.com/wayfair/brickkit-ios) - Create complex and responsive layouts in a simple way.
+* [BrickKit](https://github.com/wayfair/brickkit-ios) - 以简单的方式创建复杂和响应式布局.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的Facebook瑜伽Flexbox实施的良好和干净的界面.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) -  LayoutKit是iOS，macOS和tvOS的快速视图布局库.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 少写UI代码.
@@ -806,7 +806,7 @@
 * [Connectivity](https://github.com/rwbutler/Connectivity) - 通过检测无法访问Internet的Wi-Fi网络，使Internet连接检测更加强大.
 * [Dots](https://github.com/iAmrSalman/Dots) - 轻量级并发网络框架.
 * [Dratini](https://github.com/kevin0571/Dratini) - 整洁的网络层.
-* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - 易于使用的OAuth 2库适用于iOS.
+* [Heimdallr.swift](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS.
 * [Just](https://github.com/JustHTTP/Just) ：penguin： - 人类的HTTP（一个python请求样式的HTTP库）.
 * [Malibu](https://github.com/hyperoslo/Malibu) - 基于承诺的网络库.
 * [Moya](https://github.com/Moya/Moya) - 网络抽象层.
@@ -894,7 +894,7 @@
 * [IBLinter](https://github.com/IBDecodable/IBLinter) -  Interface Builder的linter工具.
 * [SwiftLint](https://github.com/realm/SwiftLint) - 强制执行编码约定的工具.
 * [Swimat](https://github.com/Jintin/Swimat) -  Xcode插件格式化代码.
-* [Tailor](https://github.com/sleekbyte/tailor) ：penguin： - 跨平台静态分析器，可帮助您编写更清晰的代码并避免错误.
+* [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
 
 ### Scripting
 [back to top](#readme) 
@@ -919,7 +919,7 @@
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的Common Crypto库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) -  JOSE标准JWS，JWE和JWK的框架.
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - 适用于iOS和Mac的CCCryptor（Apple的AES加密）包装器.
-* [SCrypto](https://github.com/sgl0v/scrypto) - 访问CommonCrypto例程的优雅界面.
+* [SCrypto](https://github.com/sgl0v/scrypto) - Elegant interface to access the CommonCrypto routines.
 * [Siphash](https://github.com/attaswift/SipHash) - 使用SipHash算法进行简单安全的散列.
 * [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - 与Sodium库的接口，用于iOS和OS X的常见加密操作.
 * [Themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
@@ -976,7 +976,7 @@
 [back to top](#readme) 
 
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - 首个无样板模拟框架.
-* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses.
+* [Kakapo](https://github.com/devlucky/Kakapo) - 动态模拟服务器行为和响应.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - 一个优雅的库，可以轻松地存根HTTP请求.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - 一个简单的模拟框架，受到着名的Mockito for Java的启发.
 
@@ -1030,8 +1030,8 @@
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
 * [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
-* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 生成并管理屏幕底部显示的上下文卡.
-* [CircularProgress](https://github.com/sindresorhus/CircularProgress) - Circular progress indicator for your macOS app.
+* [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - Generates and manages contextual cards displayed at the bottom of the screen.
+* [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
 * [ClassicKit](https://github.com/Baddaboo/ClassicKit) - 经典风格UI组件的集合.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
 * [CountryPickerView](https://github.com/kizitonwose/CountryPickerView) - 一个简单，可自定义的视图，用于有效收集iOS应用程序中的国家/地区
@@ -1057,7 +1057,7 @@
 * [GRMustache](https://github.com/groue/GRMustache.swift) - 灵活的胡子模板.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - 支持自动增长，占位符和长度限制的UITextView.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - 适用于iOS应用程序的自定义可重用圆形滑块控件.
-* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - 一个库，当通过hidesNavigationBarWhenPushed标志推送视图控制器时，它增加了隐藏导航栏的功能.
+* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - 像Instagram一样的水平滚动表盘.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 适用于iOS的可自定义颜色选择器.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - 设计精美，易于使用的ImagePicker.
@@ -1113,7 +1113,7 @@
 * [Wallet](https://github.com/rshevchuk/Wallet)   -  Apple的Wallet界面的复制品.  添加，删除或出示您的卡和通行证.
 * [Windless](https://github.com/Interactive-Studio/Windless) -  Windless可以轻松实现不可见的布局加载视图.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - 表示不同标签的iOS文本字段.
-* [YMTreeMap](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified
+* [YMTreeMap](https://github.com/yahoo/YMTreeMap) -  Treemap / Heatmap布局引擎，基于Squarified
 * [YNSearch](https://github.com/younatics/YNSearch) - 令人敬畏的完全可定制的搜索视图，如Pinterest.
 
 #### Alert
@@ -1242,7 +1242,7 @@
 * [Panels](https://github.com/antoniocasero/Panels) - 面板是一个可以轻松地将滑动面板添加到应用程序的框架.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 具有高度可自定义菜单的分页视图控制器，构建在UICollectionView上.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于iOS的酷炫且可自定义的弹出式动作表.
-* [SideMenu](https://github.com/jonkykong/SideMenu)   - 受Facebook欢迎的简单侧面菜单控制.  左右两侧.  无需编码.
+* [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) -  iOS幻灯片菜单查看基于Google+，iQON，Feedly，Ameba iOS应用程序.
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) -  Swipable选项卡和菜单View和ViewController.
 * [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 适用于iOS的Android PagerTabStrip.
@@ -1446,7 +1446,7 @@
 * [Vaccine](https://github.com/zenangst/Vaccine) - 让您的应用免受重新编译 - 死亡.
 * [WeakableSelf](https://github.com/vincent-pradeilles/weakable-self) - 一个微框架，用于封装闭包中的[弱自我]和保护语句.
 * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能.
-* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - 展示您真棒的新应用功能.
+* [WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) - Showcase your awesome new app features.
 * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - 可扩展的监控框架.
 * [ZamzamKit](https://github.com/ZamzamInc/ZamzamKit) - 标准库，基础和UIKit的微实用程序和扩展的集合.
 
@@ -1492,4 +1492,4 @@
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚!!
+请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚!!

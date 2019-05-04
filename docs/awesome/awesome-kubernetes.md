@@ -343,6 +343,7 @@ MOOC课程/教程
   - [Kubernetes Tutorials by Kubernetes Team](http://kubernetes.io/docs/tutorials/)
   - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
   - [Kubernetes Tutorial by Tutorialspoint](http://www.tutorialspoint.com/kubernetes/)
+  - [Imperative vs. Declarative — a Kubernetes Tutorial](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) 通过 [Adrien Trouillaud](https://github.com/adrienjt/)
 
 实例探究
 =======================================================================
@@ -820,6 +821,11 @@ Projects
 * [Velero](https://github.com/heptio/velero)   - 用于管理Kubernetes集群的备份和还原的实用程序.  以前是Heptio Ark.
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
+
+
+## Plugins
+
+* [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
 
 覆盆子皮
 =======================================================================

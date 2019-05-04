@@ -39,15 +39,16 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Where to start
 
+- [Benefits of using Docker](https://semaphoreci.com/blog/docker-benefits) for development and delivery, with a practical roadmap for adoption.
 - [Docker Curriculum](https://github.com/prakhar1989/docker-curriculum) ：入门Docker的综合教程.  通过Elastic Beanstalk和Elastic Container Service教授如何在AWS上使用Docker和部署dockerized应用程序.
 - [Docker Documentation](https://docs.docker.com/)：官方文件
 - [Docker Training](https://success.docker.com/training) ：heavy_dollar_sign：
+- [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)   - 在这个Docker教程中，您将学习所有基础知识，并了解如何将Node.js和Go应用程序容纳在一起.  即使您不熟悉这些语言，也应该很容易遵循本教程并使用任何其他语言.
 - [Katacoda](https://www.katacoda.com/courses/docker)：使用基于交互式浏览器的实验室学习Docker
 - [Learn Docker](https://github.com/dwyl/learn-docker)：逐步教程和更多资源（视频，文章，备忘单） [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户开始使用Docker的好方法.  Docker直接在您的浏览器中运行.
 - [Play With Moby](http://play-with-moby.com/) ：PWM是一个基于Web的Moby游乐场，可让您在几秒钟内尝试不同的平台组件.  它为您提供了在云中拥有免费的Alpine Linux虚拟机的体验，您可以在其中构建和运行Moby项目，甚至可以创建集群进行实验.
 - [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅仅是docker.  如果没有很好地掌握术语，就很难掌握docker和（选择你喜欢的，CRI-O，rkt，lxc / lxd）之间的关键差异，或者了解Open Container Initiative正在做些什么来标准化容器技术.
-- [Docker Tutorial for Beginners (Updated 2019 version)](https://hashnode.com/post/docker-tutorial-for-beginners-cjrj2hg5001s2ufs1nker9he2)   - 在这个Docker教程中，您将学习所有基础知识，并了解如何将Node.js和Go应用程序容纳在一起.  即使您不熟悉这些语言，也应该很容易遵循本教程并使用任何其他语言.
 
 ** Cheatsheets ** by
 
@@ -102,7 +103,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [elsy](https://github.com/cisco/elsy) - 基于Docker和Docker Compose的自以为是的多语言构建工具
 - [habitus](https://github.com/cloud66-oss/habitus) -  Docker的构建流程工具 [@cloud66](https://github.com/cloud66)
 - [Maestro](https://github.com/toscanini/maestro) ：头骨： -  Maestro提供了轻松启动，协调和管理多个Docker容器的能力 [@tascanini](https://github.com/toscanini)
-- [percheron](https://github.com/ashmckenzie/percheron) :skull: - Organise your Docker containers with muscle and intelligence by [@ashmckenzie](https://github.com/ashmckenzie)
+- [percheron](https://github.com/ashmckenzie/percheron) ：头骨： - 用肌肉和智力组织你的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
 - [plash](https://github.com/ihucos/plash) - 容器运行和构建引擎 - 在docker中运行.
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull： - 具有idempotency功能的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull： - 扩展的Dockerfile构建器.  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
@@ -319,7 +320,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Chaperone](https://github.com/garywiz/chaperone)   - 为docker容器设计的单个PID1进程.  用户管理，日志管理，启动，僵尸收获，都在一个小包装中.  通过 [@garywiz](https://github.com/garywiz)
 -  [CoreOS] [coreos]  - 用于大规模服务器部署的Linux
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 通过[@GoogleContainerTools] [googlecontainertools]减去语言的码头图像，减去操作系统
-- [docker-alpine](https://github.com/gliderlabs/docker-alpine) - 一个超级小型Docker基础图像_（5MB）_使用Alpine Linux [@gliderlabs] [gliderlabs]
+- [docker-alpine](https://github.com/gliderlabs/docker-alpine) - A super small Docker base image _(5MB)_ using Alpine Linux by [@gliderlabs][gliderlabs]
 - [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder][jwilder]
 - [dockerize](https://github.com/jwilder/dockerize) -  [@jwilder] [jwilder]简化在docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) - 以此特定用户身份运行此特定应用程序，然后退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
@@ -471,7 +472,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Devstep](https://github.com/fgrehm/devstep) ：skull： - 开发环境由Docker和buildpacks驱动，由[@fgrehm] [fgrehm]
 - [Dinghy](https://github.com/codekitchen/dinghy) - 使用Docker Machine与Virtualbox，vmware，xhyve或parallels在Mac OS X上使用Docker的另一种方法
 - [DIP](https://github.com/bibendi/dip)   -  CLI实用程序，用于直接配置和与docker-compose配置的应用程序交互.  通过 [@bibendi](https://github.com/bibendi)
-- [DLite](https://github.com/nlf/dlite) - Simplest way to use Docker on OSX, no VM needed. By [@nlf](https://github.com/nlf)
+- [DLite](https://github.com/nlf/dlite)   - 在OSX上使用Docker的最简单方法，无需VM.  通过 [@nlf](https://github.com/nlf)
 - [dobi](https://github.com/dnephin/dobi)   -  Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
 - [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)   -  Build Management是一个python应用程序，随pip一起安装.  该应用程序通过配置描述如何构建，测试，运行或发布容器化解决方案的单个yaml文件，可以轻松管理基于Docker的构建系统.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
@@ -567,7 +568,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Axibase Time-Series Database](https://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/)  ：heavy_dollar_sign： - 长期保留Docker的容器统计信息和内置仪表板.  使用原生Google cAdvisor存储驱动程序收集.
 - [CA Technologies Docker Monitoring](https://www.ca.com/us/products/docker-monitoring.html)  ：heavy_dollar_sign： - 来自CA的敏捷运营解决方案提供了现代Docker监控企业所需的，以加速和优化微服务的性能以及运行它们的动态Docker环境.  监控Docker环境和在其中运行的应用程序.
 - [Collecting docker logs and stats with Splunk](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk.html)
-- [Datadog](https://www.datadoghq.com/) :heavy_dollar_sign: - Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.
+- [Datadog](https://www.datadoghq.com/)  ：heavy_dollar_sign： -  Datadog是一种用于大规模云环境的全栈监控服务，可聚合来自服务器，数据库和应用程序的指标/事件.  它包括对Docker，Kubernetes和Mesos的支持.
 - [Prometheus](https://prometheus.io/) ：heavy_dollar_sign： - 开源服务监控系统和时间序列数据库
 - [Site24x7](https://www.site24x7.com/docker-monitoring.html) ：heavy_dollar_sign： -  DevOps和IT的Docker监控是一种SaaS按主机付费模式
 - [SPM for Docker](https://github.com/sematext/sematext-agent-docker)  ：heavy_dollar_sign： - 监控主机和容器指标，Docker事件和日志.  自动日志解析器.  异常检测和警报指标和日志. [@sematext](https://github.com/sematext)
@@ -690,7 +691,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [inspec]：https：//github.com/inspec/inspec
 [jessfraz]：https：//github.com/jessfraz
 [jpetazzo]：https：//github.com/jpetazzo
-[jwilder]：https：//github.com/jwilder
+[jwilder]: https://github.com/jwilder
 [kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https：//github.com/jwilder/nginx-proxy

@@ -176,7 +176,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
+- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -192,7 +192,7 @@
 - [log-update](https://github.com/sindresorhus/log-update)   - 通过覆盖终端中的先前输出进行记录.  用于渲染进度条，动画等.
 - [Ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序进行反应.
 - [listr](https://github.com/samverschueren/listr) - 终端任务列表.
-- [conf](https://github.com/sindresorhus/conf) - 为您的应用或模块进行简单的配置处理.
+- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于操纵终端的ANSI转义码.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有Windows CMD后备的Unicode符号.
@@ -259,7 +259,7 @@
 
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
-- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
+- [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
@@ -327,7 +327,7 @@
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - 承诺图书馆，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) -  Promisify回调式函数.
 	- [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
-	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
+	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 使用expire和prefetch记忆承诺返回函数.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
@@ -469,7 +469,7 @@
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式JSON.parse和stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
-- [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
+- [PEG.js](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
@@ -497,7 +497,7 @@
 
 - [yazl](https://github.com/thejoshwolfe/yazl) - 压缩.
 - [yauzl](https://github.com/thejoshwolfe/yauzl) - 解压缩.
-- [Archiver](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
+- [Archiver](https://github.com/archiverjs/node-archiver) - 用于存档生成的流式界面，支持ZIP和TAR.
 - [pako](https://github.com/nodeca/pako) - 高速zlib端口到纯js（放气，充气，gzip）.
 - [tar-stream](https://github.com/mafintosh/tar-stream)   - 流式tar解析器和生成器.  另见 [tar-fs](https://github.com/mafintosh/tar-fs).
 - [decompress](https://github.com/kevva/decompress) - 解压缩模块，支持`tar`，`tar.gz`和`zip`文件开箱即用.
@@ -572,7 +572,6 @@
 
 ### Security
 
-- [snyk](https://github.com/Snyk/snyk) -  CLI和构建时工具，用于查找和修复易受攻击的npm依赖项.
 - [upash](https://github.com/simonepri/upash) - 所有密码哈希算法的统一API.
 - [themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
 - [GuardRails](https://github.com/apps/guardrails) -  GitHub应用程序，在拉取请求中提供安全反馈.
@@ -679,7 +678,7 @@
 - [KeystoneJS](https://github.com/keystonejs/keystone) - 基于Express和MongoDB构建的CMS和Web应用程序平台.
 - [ApostropheCMS](https://github.com/apostrophecms/apostrophe) - 内容管理系统，重点是基于Express和MongoDB的直观前端内容编辑和管理.
 - [Strapi](https://github.com/strapi/strapi) - 内容管理框架（headless-CMS），用于构建功能强大的API.
-- [Tipe](https://github.com/tipeio/tipe) - Developer-first content management system with GraphQL and REST API from a schema file.
+- [Tipe](https://github.com/tipeio/tipe) - 开发人员优先的内容管理系统，具有来自模式文件的GraphQL和REST API.
 
 
 ### Forum
@@ -742,7 +741,7 @@
 - [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的网络爬虫.
 - [jsdom](https://github.com/tmpvar/jsdom) -  HTML和DOM的JavaScript实现.
 - [hypernova](https://github.com/airbnb/hypernova) - 服务器端呈现您的JavaScript视图.

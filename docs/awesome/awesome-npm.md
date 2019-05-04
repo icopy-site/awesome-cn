@@ -47,7 +47,6 @@
 - [ghub.io](https://ghub.io) - 重定向到npm包的GitHub存储库.
 - [npm addict](https://npmaddict.com) - 您每天注射npm包.
 - [npm discover](http://www.npmdiscover.com) - 了解一起使用的包.
-- [snyk](https://snyk.io) - 查找，修复和监控npm依赖项中的已知漏洞.
 
 ### Browser extensions
 

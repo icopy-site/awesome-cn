@@ -476,6 +476,7 @@
 * [DiskWarrior](http://www.alsoft.com/DiskWarrior/) - 世界上最先进的Mac修复和恢复工具.
 * [R-Studio for Mac](http://www.r-studio.com/data_recovery_macintosh/) - 用于恢复磁盘上数据的强大工具，即使其分区已格式化，损坏或删除也是如此.
 * [Stellar Phoenix Mac Data Recovery](http://www.stellarinfo.com/data-recovery-mac.php) - 强大的文件恢复工具，时间机器恢复，加密磁盘恢复等等.
+* [SuperDuper!](https://shirt-pocket.com/SuperDuper/SuperDuperDescription.html) - 无痛的完全可启动磁盘备份.
 
 ## Audio and Video Tools
 
