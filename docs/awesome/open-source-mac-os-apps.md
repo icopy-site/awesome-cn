@@ -52,7 +52,6 @@
 - [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
 - [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
-- [SBPlayer](https://github.com/shibiao/SBPlayerClient)   -  SBPlayer是一个基于VLCKit的漂亮而强大的媒体播放器.  ！[objective_c_icon] 
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos)   -  Scrobble乙烯基，收音机，电影到Last.fm.  ！[objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora)   - 最小，设计精美的macOS音乐播放器.  ！[objective_c_icon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu)   - 菜单栏中的Spotify和iTunes.  ！[objective_c_icon]！[swift_icon] 

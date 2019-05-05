@@ -45,7 +45,7 @@
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - 关于领域驱动设计解剖学的信息图.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - 提供有关使用DDD，ASP.NET Core和Azure构建单一Web应用程序的端到端指导. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - 探索CQRS和事件采购.
-- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)   - 为庆祝周年纪念日，我们已经邀请软件设计界的知名作者撰写新旧论文.  由Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway以及更多人提供.
+- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)   - 为庆祝周年纪念日，我们已经邀请软件设计领域的知名作者撰写新旧论文.  由Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway以及更多人提供.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -  DDD模式和定义的摘要.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - 领域驱动设计快速简化，快速阅读的DDD基础知识摘要和介绍.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) - 在这个由三部分组成的系列中，Vaughn Vernon介绍了一些常见的设计缺陷，讨论了各种聚合建模选择的优缺点，并提供了指导聚合建模的经验法则.
@@ -169,12 +169,13 @@
 
 ### JVM languages
 - [Akka CQRS ES Demo](https://github.com/mdonkers/akka-cqrs-es-demo) - 在Scala-Akka中实施CQRS和事件采购模式的演示项目.
+- [DDD By Examples - Library](https://github.com/ddd-by-examples/library)   - 由实际业务需求驱动的库的示例项目.  使用DDD，BDD，EventStorming，示例映射，CQRS等帮助实现模块化整体.
 - [DDD Leaven](https://github.com/BottegaIT/ddd-leaven-v2) -  DDD-CQRS示例v2.0项目，可帮助您使用Spring，JPA和测试开始高级域建模.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) -  Java代码的事件源和CQRS实现的简化（内存中）示例（为银行域用例建模）.
 - [Event Sourcing and CQRS Examples](https://github.com/andreschaffer/event-sourcing-cqrs-examples) -  Java中的事件源和CQRS的实用应用，具有对常见相关问题的良好参考，例如事件排序和幂等性.
 - [Event Sourcing and CQRS Sample](https://github.com/pilloPl/event-source-cqrs-sample) - 带有Command Query Responsibility Segregation的示例事件源应用程序
 - [IDDD Samples](https://github.com/VaughnVernon/IDDD_Samples) - 这些是Vaughn Vernon出版的“实现领域驱动设计”一书中的有限上下文示例.
-- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - 用Kotlin编写的DDD / CQRS项目示例.
+- [Kotlin DDD Sample](https://github.com/fabriciorissetto/kotlin-ddd-sample) - 用Kotlin编写的DDD / CQRS项目示例. 
 
 ### PHP
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - 使用Symfony 3和Vue.js构建的PHP示例应用程序.
@@ -203,7 +204,7 @@
 - [shriek-fx](https://github.com/ElderJames/shriek-fx) - 使用.NET Core 2.0开发的简单，优雅且有用的域驱动设计和CQRS框架.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - 面向基于SQL的实现的.NET Stream Store库.
 - [Streamstone](https://github.com/yevhen/Streamstone) -  Azure表存储的事件存储.
-- [Stringly.Typed](https://github.com/mission202/Stringly.Typed) - 更容易将字符串转换为.NET类型/从.NET类型转换.
+- [Stringly.Typed](https://github.com/mission202/Stringly.Typed) - 使字符串转换为.NET类型更容易.
 - [Value](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
 - [Xer.Cqrs](https://github.com/jeyjeyemem/Xer.Cqrs) - A simple library for creating applications based on the CQRS pattern with support for attribute routing and hosted handlers. Developed in C# targeting .NET Standard 1.0.
 

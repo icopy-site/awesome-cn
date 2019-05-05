@@ -29,8 +29,9 @@
 - [tap-prettify](https://github.com/toolness/tap-prettify) - 良好的可读输出与差异.
 - [tap-colorize](https://github.com/substack/tap-colorize) - 在保持机器可读性的同时着色输出.
 - [tap-bail](https://github.com/juliangruber/tap-bail) - 第一次测试失败时纾困.
-- [tap-notify](https://github.com/axross/tap-notify) -  macOS，Linux和Windows的通知程序.
+- [tap-notify](https://github.com/axross/tap-notify) - 用于macOS，Linux和Windows的通知程序.
 - [tap-json](https://github.com/gummesson/tap-json) -  JSON输出.
+- [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - 具有AVA兼容性的JSON输出.
 - [tap-xunit](https://github.com/aghassemi/tap-xunit) -  xUnit输出.
 - [tap-teamcity](https://github.com/smockle/tap-teamcity) -  TeamCity的输出.
 

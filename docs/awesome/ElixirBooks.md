@@ -13,7 +13,7 @@ Contents
 
 <img src="http://elixir-lang.org/images/logo/logo.png" width="180px" title="Elixir logo" />
 
- 官方Elixir入门指南将带您通过语言基础.  您还将探索如何使用Mix和OTP构建项目，它将向您介绍更多有前途的技术，如元编程.
+ 官方Elixir入门指南将带您通过语言基础.  您还将探索如何使用Mix和OTP构建项目，它将向您介绍更多先进的技术，如元编程.
 
 ### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
 
@@ -90,6 +90,12 @@ Contents
 **高级书籍**
 ---
 
+### [Designing Elixir Systems with OTP](https://pragprog.com/book/jgotp/designing-elixir-systems-with-otp)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/41p39zvPnTL._SX415_BO1,204,203,200_.jpg" width="120px"/>
+
+ 你知道如何在Elixir中编码;  现在学会思考它.  学习设计具有智能层的库，这些层可以形成正确的数据结构，从一个函数流向下一个函数，并呈现正确的API.  拥抱相同的OTP，使我们的电话系统可靠，快速地保存了30多年.  超越理解OTP功能，了解幕后发生的事情，以及为何重要.  利用这些知识，本能地知道如何设计为用户提供快速和弹性服务的系统，所有这些都是Elixir的重点.
+
 ### [Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51nY9nCe0jL._SX415_BO1,204,203,200_.jpg" width="120px"/>
@@ -124,14 +130,14 @@ Contents
 
 <img src="https://s3.us-east-2.amazonaws.com/ferd.erlang-in-anger/book-cover.png" width="120px"/>
 
- 这本书打算成为一个关于如何成为战争时期的二郎军医的小指南.  它首先是一系列提示和技巧，以帮助了解故障的来源，以及帮助开发人员调试在Erlang中构建的生产系统的不同代码片段和实践的字典.
+ 这本书打算成为一个关于如何成为战争时期的二郎医生的小指南.  它首先是一系列提示和技巧，以帮助了解故障的来源，以及帮助开发人员调试在Erlang中构建的生产系统的不同代码片段和实践的字典.
 
 ### [Building Scalable Applications with Erlang](https://www.amazon.com/Building-Scalable-Applications-Developers-Library/dp/0321636465?ie=UTF8&*Version*=1&*entries*=0)
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/51vXUFnH%2B6L._SX384_BO1,204,203,200_.jpg" width="120px"/>
 
  Erlang正在成为关键任务企业环境中并发编程的领先语言，其中应用程序必须提供卓越的可靠性，可用性和可伸缩性.  它已被Facebook和亚马逊等组织使用，还有许多其他公司正在采用或考虑它.
- 然而，作为一种函数式语言，Erlang与传统的面向对象语言（如C ++和Java）截然不同.  本书快速为经验丰富的面向对象程序员提供了Erlang和函数式编程原理.  杰里杰克逊彻底解释了Erlang的关键概念，原则和功能，弥合了经常让对象开发人员感到沮丧的概念差距.  接下来，他展示了如何使用Erlang构建具有高达“九个9”可用性的大规模可扩展的真实系统：即高达99.9999999％的正常运行时间.
+ 然而，作为一种函数式语言，Erlang与传统的面向对象语言（如C ++和Java）截然不同.  本书快速为经验丰富的面向对象程序员提供了Erlang和函数式编程原理.  杰里杰克逊彻底解释了Erlang的关键概念，原则和功能，弥合了经常让对象开发人员感到沮丧的概念差距.  接下来，他展示了如何使用Erlang构建具有高达“九个九”可用性的大规模可扩展的真实系统：即高达99.9999999％的正常运行时间.
 
 ### [Erlang and Elixir for Imperative Programmers](http://www.springer.com/la/book/9781484223932)
 
@@ -143,7 +149,7 @@ Contents
 
 <img src="https://propertesting.com/img/fhproper-sm.jpg" width="120px"/>
 
- 基于属性的测试可帮助您使用少量代码创建更好，更可靠的测试.  通过在Erlang和Elixir中使用PropEr框架，本书教您如何自动生成测试用例，测试有状态程序，以及如何设计软件以获得更有原则性和可靠性的方法.  您将能够更好地探索问题空间，验证您在提出程序行为时所做的假设，并揭示设计中的意外弱点.  PropEr甚至会告诉你如何重现它发现的bug.  通过本书，您将立即编写基于属性的高效测试.
+ 基于属性的测试可帮助您使用少量代码创建更好，更可靠的测试.  通过在Erlang和Elixir中使用PropEr框架，本书教您如何自动生成测试用例，测试有状态程序，以及如何设计软件以获得更有原则和可靠的方法.  您将能够更好地探索问题空间，验证您在提出程序行为时所做的假设，并揭示设计中的意外弱点.  PropEr甚至会告诉你如何重现它发现的bug.  通过本书，您将立即编写基于属性的高效测试.
 
 ### [Mastering Elixir](https://www.packtpub.com/application-development/mastering-elixir)
 
@@ -158,11 +164,11 @@ Contents
 
 <img src="http://ecx.images-amazon.com/images/I/41pPn50VnvL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
- 不要接受快速和美丽之间的妥协：你可以拥有一切.  凤凰创作者Chris McCord，Elixir创作者JoséValim和获奖作家Bruce Tate将指导您构建快速可靠的应用程序.  在每一步，您都将向凤凰城的创作者学习，不仅仅是做什么，而是为什么.  随着内部人士的洞察力，这个权威的指南将成为您从凤凰新手到专家的不间断伴侣，同时构建下一代Web应用程序.
+ 不要接受快速和美丽之间的妥协：你可以拥有一切.  凤凰创作者Chris McCord，Elixir创作者JoséValim和获奖作家Bruce Tate将指导您构建快速可靠的应用程序.  在每一步，您都将向凤凰城的创作者学习，不仅仅是做什么，而是为什么.  随着内部人士的见解，这个权威的指南将成为您从凤凰新手到专家的不间断伴侣，同时构建下一代Web应用程序.
 
 ### [Phoenix in Action](https://www.manning.com/books/phoenix-in-action)
 
-<img src="https://images.manning.com/720/960/resize/book/6/0bad159-5a00-4aa9-b4b1-17cfe2fd7455/Lessel-Phoenix-MEAP-HI.png" width="120px"/>
+<img src="https://images-na.ssl-images-amazon.com/images/I/41V2OUmPO8L._SX397_BO1,204,203,200_.jpg" width="120px"/>
 
  Phoenix是一个为Elixir编程语言构建的现代Web框架.  Phoenix具有优雅，容错和高性能，与Rails一样易于使用，也可以像Elixir基于Erlang的基础一样坚固耐用.  Phoenix in Action建立在您现有的网络开发技能的基础上，教您凤凰的独特优势以及足够的Elixir来完成工作.
 
@@ -188,7 +194,7 @@ Contents
 
 <img src="https://www.packtpub.com/sites/default/files/B06393.png" width="120px"/>
 
- Phoenix是一个现代Web开发框架，用于构建API和Web应用程序.  它基于Elixir构建并在Erlang VM上运行，这使得它比其他选项快得多.  使用Elixir和Phoenix，您可以以正确的方式构建应用程序，随时可以扩展并为实时Web应用程序的日益增长的需求做好准备.
+ Phoenix是一个现代Web开发框架，用于构建API和Web应用程序.  它基于Elixir构建并在Erlang VM上运行，这使得它比其他选项更快.  使用Elixir和Phoenix，您可以以正确的方式构建应用程序，随时可以扩展并为实时Web应用程序的日益增长的需求做好准备.
 
  本书介绍了Phoenix Web框架的基础知识，向您展示了如何构建社区投票应用程序，并分为三个部分.  在第一部分中，您将了解Phoenix和Elixir，并了解用于描述它们的核心术语.  您还将学习构建控制器页面，存储和检索数据，将用户添加到应用程序页面以及保护数据库.  在第二部分中，您将能够增强您在凤凰城中构建实时应用程序的知识，不仅可以调试这些应用程序，还可以诊断其中的问题.  在第三部分也是最后一部分，您将完全了解部署和运行凤凰应用程序，并且应该可以轻松地发布第一个应用程序
 

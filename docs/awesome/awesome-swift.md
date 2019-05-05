@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  964 |  2019年5月3日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  965 |  2019年5月4日
 
 
 
@@ -122,6 +122,7 @@
 * [SwagGen](https://github.com/yonaskolb/SwagGen) ：penguin： - 一个命令行工具，用于根据Stencil模板从Swagger规范生成REST API.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - 崩溃编译器的测试用例集合.
 * [SwiftGen](https://github.com/SwiftGen/SwiftGen) - 一套工具，可以为项目的各种资产自动生成代码.
+* [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - 启动下一个开源Swift框架.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - 从命令行轻松生成跨平台框架项目.
 * [Toybox](https://github.com/giginet/Toybox) -  Xcode Playground管理变得简单.
 * [Tuist](https://github.com/tuist/tuist) - 一个开源命令行工具，用于大规模创建，维护和与您的Xcode项目交互.

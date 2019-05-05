@@ -49,6 +49,7 @@
 * [Forum](https://discuss.kotlinlang.org/) 
 
 ### <a name="links-resources"></a>Resources <sup>[Back ⇈](#links-resources-subcategory)</sup>
+* [Jobs for Kotlin Developers](https://kotlin-jobs.com/) - 所有工作列表都需要Kotlin技能
 * [Podcast: Talking Kotlin](http://talkingkotlin.com/kotlin-at-pinterest-with-christina-lee/) -  Kotlin上的播客等
 * [/r/Kotlin](https://www.reddit.com/r/Kotlin/) 
 * [Stackoverflow Documentation on Kotlin](http://stackoverflow.com/documentation/kotlin/topics) 
@@ -1133,7 +1134,7 @@
 * [Дмитрий Полищук - Kotlin + Android: практический ликбез](http://kotlin.link/articles/Дмитрий-Полищук-Kotlin-Android-практический-ликбез.html) - 德米特里波兰丘克
 
 ### <a name="videos-january-2016"></a>January 2016 <sup>[Back ⇈](#videos-january-2016-subcategory)</sup>
-* [Fun with Kotlin](http://kotlin.link/articles/Fun-with-Kotlin.html) -  Eder Bastos
+* [Fun with Kotlin](http://kotlin.link/articles/Fun-with-Kotlin.html) -  Eder Bastos.
 
 ### <a name="videos-october-2015"></a>October 2015 <sup>[Back ⇈](#videos-october-2015-subcategory)</sup>
 * [Kotlin NoSQL for MongoDB in Action](http://kotlin.link/articles/Kotlin-NoSQL-for-MongoDB-in-Action.html) - 安德烈切普索夫

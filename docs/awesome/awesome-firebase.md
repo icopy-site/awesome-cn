@@ -17,6 +17,7 @@
 </a>
 
 <!-- translations -->
+
 Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/master/README.md) · [🇷🇺 ru](https://github.com/jthegedus/awesome-firebase/blob/master/README_RU.md) <!-- · [🇪🇸 es](https://github.com/jthegedus/awesome-firebase/blob/master/README_ES.md) · [🇮🇩 id](https://github.com/jthegedus/awesome-firebase/blob/master/README_ID.md) · [🇯🇵 ja](https://github.com/jthegedus/awesome-firebase/blob/master/README_JA.md) · [🇰🇷 ko](https://github.com/jthegedus/awesome-firebase/blob/master/README_KO.md) · [🇵🇹 pt](https://github.com/jthegedus/awesome-firebase/blob/master/README_PT.md) · [🇨🇳 zh](https://github.com/jthegedus/awesome-firebase/blob/master/README_ZH.md) -->
 
 [Firebase] [firebase]是一个基于[Google Cloud Platform] [gcp-products]构建的app dev平台，提供服务和跨平台SDK！
@@ -27,7 +28,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 
 
-**传奇**：博客文章·示例·文档·图书馆·工具·讲座/视频 
+**传奇**：博客文章·示例·文档·图书馆·工具·讲座/视频
 
 <!-- START content -->
 
@@ -43,6 +44,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [Firebase文档] [docs-1]  - 官方Firebase文档.
 -  [Firebase快速入门] [docs-2]  - 官方Firebase快速入门.
+  -  [Google Codelabs |  Firebase] [google-codelabs]  -  Google Developers Codelabs提供指导，教程和动手编码体验.
 
 ## Web
 
@@ -115,7 +117,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 -  [FireDrill] [other-1]  - 查找，编辑，添加，删除，导入，导出和报告您的Firebase数据.
 -  [Unity Solutions] [other-2]  - 使用Firebase工具将常用功能整合到游戏中.
--  [Firebase AIR Native Extension] [other-3]  -  Firebase ANE集合允许您访问Android和iOS上支持的AdobeAir项目中的Google Firebase项目，并使用100％相同的ActionScript API.
+- 🔌 [Firebase AIR Native Extension][other-3] - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
 -  [QtFirebase] [other-4]  - 努力将Google的Firebase C ++ API引入Qt + QML.
 -  [StackBlitz to Firebase Hosting Deployments] [other-5]  -  StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
   -  [Flamelink] [other-6]  - 适用于Firebase的CMS.  支持Firestore，RealtimeDatabase和Storage.
@@ -169,10 +171,11 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 [docs-1]：https：//firebase.google.com/docs
 [docs-2]：https：//github.com/firebase？utf8 =％E2％9C％93＆q = quickstart＆type=&amp;language =
+[google-codelabs]：https：//codelabs.developers.google.com/？cat = Firebase
 
 <!-- Web -->
 
-[web-1]: https://github.com/firebase/firebaseui-web
+[web-1]：https：//github.com/firebase/firebaseui-web
 [web-2]：https：//github.com/firebase/firebaseui-web-react
 [web-3]：https：//github.com/firebase/geofire-js
 [web-4]：https：//github.com/FirebaseExtended/firepad
