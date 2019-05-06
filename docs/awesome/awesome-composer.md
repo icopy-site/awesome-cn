@@ -46,11 +46,12 @@
 - [Composer-Changelogs](https://github.com/pyrech/composer-changelogs)   - 提供更新摘要以及指向changelog / releasenote / tag的链接.  更新composer.lock文件时，输出已准备好粘贴到提交消息中.
 - [Composer-Merge-Plugin](https://github.com/wikimedia/composer-merge-plugin) - 在Composer运行时合并多个`composer.json`文件.
 - [Composer-Bin-Plugin](https://github.com/bamarni/composer-bin-plugin) - 添加对在单个存储库中管理多个包的依赖关系的支持或隔离bin依赖关系.
-- [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - Opinionated version of Wikimedia composer-merge-plugin to work in pair with Bamarni composer-bin-plugin.
+- [Composer-Inheritance-Plugin](https://github.com/theofidry/composer-inheritance-plugin) - 维基媒体作曲家合并插件的观点版本与Bamarni composer-bin-plugin配合使用.
 - [Composer-MonoRepo-Plugin](https://github.com/beberlei/composer-monorepo-plugin) - 该插件有助于管理单个存储库中多个包的依赖关系.
 - [Composer-Patches-Plugin](https://github.com/netresearch/composer-patches-plugin)   - 使您能够从任何包中为任何包提供补丁.  获取依赖项后，将修补程序应用于顶部.
 - [Composer-Patches](https://github.com/cweagans/composer-patches) - 该插件将补丁从本地或远程文件应用于任何所需的包.
 - [Composer-Patches](https://github.com/vaimo/composer-patches) - 将本地或远程文件中的修补程序应用于属于给定作曲家项目的任何程序包.
+- [Composer-Patchset](https://github.com/creativestyle/composer-plugin-patchset) - 自动获取，更新和应用补丁到任何编曲器包扭曲 - 将补丁集存储为作曲家包本身.
 - [Composer-Plugin-QA](https://github.com/Webysther/composer-plugin-qa) - 作曲家执行PHP质量保证工具的综合插件.
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) - 从供应商目录中删除测试和文档文件夹.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) - 该工具从供应商目录中删除不必要的文件和目录.
@@ -191,7 +192,7 @@ Private Packagist]（http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain
 ## Composer Repositories
 
 ### Private Packagist
-- [Private Packagist Cloud](https://packagist.com) - 作为私有包的服务的Composer存储库，以及镜像来自其他存储库的包.
+- [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
 - [Private Packagist Enterprise](https://packagist.com) - 私有包装的内部部署自托管版本.
 - [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client)   -  Private Packagist API的PHP客户端.  客户端处理身份验证，签名生成和对所有端点的访问.
 

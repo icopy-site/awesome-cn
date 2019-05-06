@@ -72,9 +72,9 @@ Vim解释道.
 ## The Vim Philosophy
 
  Vim坚持模态编辑理念.  这意味着它提供
-multiple modes and the meaning of keys changes according to the mode. You
+ 多种模式和键的含义根据模式而变化.  您
 在_normal mode_中导航文件，在_insert mode_中插入文本，然后选择
-在_visual mode_中的行，您可以在_command-line mode_中访问命令，依此类推.
+_visual mode_中的行，您可以在_command-line mode_中访问命令，依此类推.
 这听起来可能很复杂，但有一个巨大的优势：你没有
 通过一次握住几把钥匙来打破你的手指，大多数时候你
  只需一个接一个地按下它们.  任务越常见，密钥越少
@@ -223,7 +223,7 @@ Help:
 磁盘保存.
 
  ** Windows **是视口_onto_ buffers.  如果要查看多个文件
-在同一个文件的同一时间甚至不同的位置，您使用的是Windows.
+在同一文件的同一时间甚至不同的位置，您使用的是Windows.
 
  请不要叫他们_splits_.  您可以将窗口拆分为两个，但是
 这不会使他们_splits_.
@@ -252,7 +252,7 @@ tab.
 和`file2`是活动的.
 
 两个缓冲区也**列出**，因此它们将列在输出中
- `：ls`.  插件缓冲区或帮助缓冲区通常标记为未列出，因为
+ `：ls`.  插件缓冲区或帮助缓冲区通常标记为不公开，因为
  它们不是您通常使用文本编辑器编辑的常规文件.  列出和
 未列出的缓冲区可以通过`：ls！`显示.
 
@@ -306,7 +306,7 @@ exclusively.
  |  `：xmap` |  `：xnoremap` |  `：xunmap` |  视觉|
  |  `：cmap` |  `：cnoremap` |  `：cunmap` |  命令行|
  |  `：omap` |  `：onoremap` |  `：ounmap` |  operator-pending |
- | |  `：map` |  `：inoremap` |  `：iunmap` |  插入|
+ |  `：imap` |  `：inoremap` |  `：iunmap` |  插入|
 
 例如，这仅定义了正常模式的映射：
 
@@ -361,7 +361,7 @@ Help:
 
     ：h键符号
     ：h映射
-    ：h 05.3
+    :h 05.3
 
 ## Mapleader
 
@@ -525,7 +525,7 @@ Help:
  |  `A`  - `Z` |  用户|  全局，因此在文件之间有效.  也称为_file marks_.  跳转到文件标记可能会切换到另一个缓冲区.  |
  |  `0`  - `9` |  viminfo |  `0`是最后写入viminfo文件时的位置.  实际上，这意味着最后一个Vim进程结束.  `1`是第二个最后一个Vim进程结束时的位置，依此类推.  |
 
-Put `'`/`g'` or `` ` ``/`` g` `` in front of a mark to form a motion.
+在标记前放置```/`g&#39;`或``````````````````````
 
  使用“mm”记住标记为“m”的当前位置.  移动文件
 然后通过`&#39;m`（第一个非空白）或```m``（精确列）跳回来.
@@ -533,7 +533,7 @@ Put `'`/`g'` or `` ` ``/`` g` `` in front of a mark to form a motion.
 文件，请参阅`：h viminfo-&#39;`.
 
  使用`mM`记住文件标记为“M”的当前位置.  切换到另一个
-缓冲并通过&#39;&#39;M`或```M``切换回来.
+buffer and switch back via `'M` or `` `M ``.
 
 其他动议包括：
 
@@ -601,7 +601,7 @@ Vim还允许通过设置来一次完成多种
 this.
 
 一定要检查`：h&#39;completeopt&#39;`来配置行为
- 弹出菜单.  默认是非常理智，但我更喜欢添加“noselect”.
+ 弹出菜单.  默认是相当明智的，但我更喜欢添加“noselect”.
 
 Help:
 
@@ -653,17 +653,17 @@ Help:
 
 ## Autocmds
 
- 很多时候，Vim会发布事件.  你通过使用钩住这些事件
-autocmds.
+您可以在Vim中的许多事件之后触发操作，例如缓冲区
+通过所谓的_autocmds_保存或Vim启动了.
 
- 如果没有autocmds你就不会使用Vim.  他们一直都在使用，甚至
- 如果你没注意到它.  不相信我？  检查`：au`，但不要输出
- 压倒你.  这些都是现在生效的所有autocmds！
+ Vim广泛依赖于autocmds.  不相信我？  检查`：au`，但不要让
+ 输出压倒了你.  这些都是有效的autocmds
+now!
 
 请参阅`：h {event}`以快速了解所有可用事件和`：h
 autocmd-events-abc`了解更多详情.
 
-一个典型的例子是设置特定于文件类型的设置：
+一个典型的例子是文件类型特定的设置：
 
 ```vim
 autocmd FileType ruby​​ setlocal shiftwidth = 2 softtabstop = 2 comments- =：#
@@ -779,7 +779,7 @@ _time-wise_.
  “QUUX”.  （再也无法使用分支命令到达节点“baz”.）
 
  与此相反，`g -`和`g +`按时工作.  因此，`g-`将不会恢复为
-节点“bar”的状态，就像“你”那样，但是按时间顺序排在前面的状态，
+节点“bar”的状态，就像“你”一样，但是按时间顺序排在前面的状态，
  节点“baz”.  另一个`g -`会将状态恢复为节点“bar”之一
  上.  因此，`g -`和`g +`分别只是及时地来回传递.
 
@@ -809,7 +809,7 @@ Help:
 
  quickfix列表是保存文件位置的数据结构.  实质上，
 quickfix列表中的每个条目都包含文件路径，行号和
-可选列和说明.
+optional column, and a description.
 
 典型的用例是汇编编译器错误或grep工具的结果.
 
@@ -817,7 +817,7 @@ Vim有一种特殊类型的缓冲区用于显示quickfix列表：quickfix
  缓冲.  quickfix缓冲区中的每一行显示quickfix列表中的一个条目.
 
 通常，您打开一个新窗口以显示quickfix列表：quickfix窗口.
-发生这种情况时，最后一个窗口将与quickfix窗口关联.
+当发生这种情况时，最后一个窗口与quickfix窗口相关联.
 
  在quickfix缓冲区` <cr>  `在相关窗口中打开所选条目
  和` <c-w><cr>  `在新窗口中.
@@ -834,7 +834,7 @@ compiler](https://en.wikipedia.org/wiki/Aztec_C).
 
  |  行动|  Quickfix |  位置|
 |----------------|--------------|--------------|
- |  打开窗口|  `：Copen` |  `：walk` |
+ |  打开窗口|  `：copen` |  `：walk` |
  |  关闭窗口|  `：cclose` |  `：lclose` |
  |  下一个条目|  `：cnext` |  `：lnext` |
  |  上一个条目|  `：cprevious` |  `：lprevious` |
@@ -916,7 +916,7 @@ q
 
 （没有宏也可以这样做：`：％s / ^ / \ = line（&#39;.&#39;）.&#39;.&#39;``）
 
-请注意，我还展示了如何在不使用宏的情况下实现相同的功能，但这一点
+请注意，我还展示了如何在不使用宏的情况下实现相同目标，但这一点
  主要适用于这些简单的例子.  对于更复杂的自动化，宏
 是炸弹！
 
@@ -1016,7 +1016,7 @@ them.
  当前的工作目录，检查`：pwd`.  重新启动Vim并执行`：source
 Foo.vim`和voilà，缓冲区列表，窗口布局，映射，工作目录
  等等都应该与保存会话之前相同.  做更多的工作
-and update the session by overwriting the already existing session file with
+并通过覆盖已存在的会话文件来更新会话
  `：mksession！  Foo.vim`.
 
 请注意，会话文件实际上只是Vim命令的集合
@@ -1038,7 +1038,7 @@ Help:
 
 ## Locality
 
-Many of the concepts mentioned above also have _local_ counterparts:
+上面提到的许多概念也有_local_对应物：
 
  |  全球|  本地|  范围|  帮助|
 |--------|-------|-------|------|
@@ -1054,7 +1054,7 @@ Many of the concepts mentioned above also have _local_ counterparts:
 
 ## Getting help offline
 
-Vim带有一个带有单个文本文件形式的优秀文档
+Vim带有一个带有文本的单个文本文件的优秀文档
  特殊布局.  Vim使用基于标签的系统来访问某些部分
 那些帮助文件.
 
@@ -1070,7 +1070,7 @@ Vim带有一个带有单个文本文件形式的优秀文档
 
  你可以用` <c-d>  `（这是<kbd>ctrl</kbd> + <kbd>d</kbd> ）列出所有标签
  匹配当前输入的查询.  例如`：h tab <c-d>  `会给你一份清单
-标签从&#39;tab` over`&#39;softtabstop&#39;`到`setting-guitablabel`.
+从`tab`到`&#39;softtabstop&#39;`到`setting-guitablabel`的标签.
 
  您想列出所有VimL功能吗？  简单：`：h（） <c-d>  `.  你想列出所有
  与Windows有关的VimL功能？  `：h win *（） <c-d>  `.
@@ -1128,7 +1128,7 @@ something).
     的东西.  请注意，某些键始终写为相同，例如Control
     将永远是CTRL.  注意，对于普通模式命令，保留“n”，
     例如`：h CTRL-A`.  相反，`：h c_CTRL-R`将描述CTRL-R的作用
-   在命令行中输入命令和`：h v_Ctrl-A`谈论
+   在命令行中输入命令并且`：h v_Ctrl-A`谈到
    在视觉模式中递增数字和`：h g_CTRL-A`谈论g <C-A>
     命令（因此你必须按“g”然后 <Ctrl-A>  ）.  这里的“g”代表
    正常命令“g”，在执行之前总是期望第二个键
@@ -1158,7 +1158,7 @@ something).
 
 10. Ex commands always start with ":", so `:h :s` covers the ":s" command.
 
-11. Use CTRL-D after typing a topic and let Vim try to complete to all available
+11.键入主题后使用CTRL-D，让Vim尝试完成所有可用的操作
     话题.
 
 12.使用`：helpgrep`搜索所有帮助页面（通常还包括帮助
@@ -1204,7 +1204,7 @@ something).
      它提供的选项.  有时，全方位完成的附加部分（`：h
     ft-php-omni`）或filetype插件（`：h ft-tex-plugin`）可用.
 
-此外，还有用户文档的链接（更多地描述了某些命令）
+此外，还有指向用户文档的链接（更多地描述了某些命令）
 从帮助的角度来看，从用户的角度来看并且不那么详细
  页面如果可用.  所以`：h pattern.txt`提到用户指南主题
 `：h 03.9`和`：h usr_27`.
@@ -1374,7 +1374,7 @@ CLIPBOARD.
 计划A： <ctrl+c>
 程序A：断言CLIPBOARD的所有权
 方案B： <ctrl+v>
-计划B：注意CLIPBOARD的所有权由计划A持有
+Program B: note that ownership of CLIPBOARD is hold by Program A
 程序B：从程序A请求数据
 程序A：响应请求并将数据发送到程序B.
 程序B：从程序A接收数据并将其插入窗口
@@ -1390,7 +1390,7 @@ CLIPBOARD.
 closes.
 
 使用`“* p`粘贴PRIMARY选择或`”+ y1G`将整个文件拉到
-CLIPBOARD选择.
+the CLIPBOARD selection.
 
 如果您碰巧一直访问两个寄存器中的一个，请考虑使用：
 
@@ -1441,11 +1441,11 @@ autocmd BufReadPost *
 成功后，备份文件将被删除.
 
  使用`：set backup`，备份将保持不变.  这意味着，备份文件将
-始终具有与原始文件相同的内容_before_最近的保存.
+始终具有与原始文件相同的内容_before_最近保存.
 由您来决定这是否有用.
 
 您可以使用`：set nobackup nowritebackup`完全禁用备份，但是您
- 现在不应该这样.  `&#39;writebackup&#39;`是一个安全功能
+shouldn't need to nowadays. `'writebackup'` is a security feature that makes
 确保你没有丢失原始文件，以防它保存失败，
 无论你是否保留备份文件.
 
@@ -1458,7 +1458,7 @@ Vim知道创建备份的不同方法：_copying_和_renaming_.
 -  **复制**
     1.创建原始文件的完整副本并将其用作备份.
     1.原始文件被清空，然后填充了内容
-    Vim buffer.
+    Vim缓冲区.
 -  **重命名**
     1.原始文件重命名为备份文件.
     1. Vim缓冲区的内容被写入名为的新文件
@@ -1578,7 +1578,7 @@ ssh&#39;ing到服务器并使用管理员希望你使用的任何东西.
 ：e scp：//bram@awesome.site.com/.vimrc
 ```
 
-如果您已经设置了`〜/ .ssh / config`，则会自动使用它：
+如果你已经设置了`〜/ .ssh / config`，它将自动使用：
 
 ```
 主持人真棒
@@ -1656,7 +1656,7 @@ after the end of each line, do this: `<c-v>3j$Atext<esc>`.
  然而，Vim进程被阻止的时间.  Neovim通过添加一个来修复
 适当的工作API.
 
-（显然Bram正在考虑为Vim增加工作控制权.如果你
+（显然Bram正在考虑为Vim增加工作控制.如果你
 有一个非常新的版本，请参阅`：helpgrep startjob`.）
 
  使用`：！`开始工作.  如果要列出当前工作中的文件
@@ -1706,7 +1706,7 @@ Go的插件经常提供称为`：Fmt`的辅助命令
 - 这个全球符号的定义是什么？
 - 这个变量在哪里得到它的价值？
 - 源文件中的这个功能在哪里？
-- 什么函数调用此函数？
+- What functions call this function?
 - 此功能调用哪些功能？
 - “空间不足”的信息来自哪里？
 - 目录结构中的源文件在哪里？
@@ -1978,13 +1978,13 @@ See [Vim Wiki: Disable beeping](http://vim.wikia.com/wiki/Disable_beeping).
 ## Quickly edit your macros
 
  这是一个真正的宝石！  映射采用寄存器（或默认为“*”）并打开
- 它在cmdline窗口中.  点击` <cr>  `当你完成编辑设置时
+it in the cmdline-window. Hit `<cr>` when you're done editing for setting the
 register.
 
 我经常使用它来纠正我在录制宏时所犯的错别字.
 
 ```vim
-nnoremap <leader>m  :<c-u><c-r><c-r>='let @'. v:register .' = '. string(getreg(v:register))<cr><c-f><left>
+ nnoremap <leader>  米： <c-u><c-r><c-r>  =&#39;让@&#39;.  v：注册.&#39;  =&#39;.  串（getreg（ν：寄存器）） <cr><c-f><left>
 ```
 
  像这样使用它 <leader>  m`或``q <leader>  M`.
@@ -2295,7 +2295,7 @@ Vim提供了在运行时进行性能分析的内置功能，是一种很好的�
 `：profile`命令需要一堆子命令来指定内容
 profile.
 
-如果您想要分析_everything_，请执行以下操作：
+If you want to profile _everything_, do this:
 
 ```
 ：profile start /tmp/profile.log
@@ -2326,7 +2326,7 @@ familiar.
 也就是说，执行将在即将执行的第一行停止
 将显示一行.
 
-有关6个可用的调试器命令，请参阅`：h&gt; cont`及以下内容，请注意，
+有关6个可用的调试器命令，请参阅`：h&gt; cont`及其下方，并注意，
 比如在gdb和类似的调试器中，你也可以使用它们的简短形式：`c`，`q`，
 `n`，`s`，`i`和`f`.
 
@@ -2514,7 +2514,7 @@ publishing.
  |  `：h&#39;sm&#39;` |  `注意：短形式的使用被评为PG.|
  |  `：h 42` |  “生命，宇宙和一切的意义是什么？  道格拉斯亚当斯，唯一一个知道这个问题真正意义的人现在已经死了，不幸的是.  所以现在你可能想知道死亡的含义是什么......`|
  |  `：h UserGettingBored` |  `当用户按下相同的键42次时.  开玩笑！  :-)`|
-| `:h bar` | `Ceci n'est pas une pipe.` |
+ |  `：h bar` |  `这不是管道.|
  |  `：h holy-grail` |  “你找到了，亚瑟！”|
  |  `：h map-modes` |  `：nunmap也可以在修道院外使用.|
  |  `：帮助！`|  `E478：不要惊慌！`（故障？当在帮助缓冲区（`buftype = help`）中使用时，这就像`：h help.txt`一样.）|
@@ -2523,7 +2523,7 @@ publishing.
 ## Why hjkl for navigation?
 
 When [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) 创建
-[vi](https://en.wikipedia.org/wiki/Vi)作为Vim的前身，他是在一个人的基础上做到
+[vi](https://en.wikipedia.org/wiki/Vi)，Vim的前身，他是在一个
 [ADM-3A](https://en.wikipedia.org/wiki/ADM-3A) 没有额外的光标按钮
 但是用过，你可能已经猜到了，而不是hjkl.
 
@@ -2541,7 +2541,7 @@ When [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) 创建
     人们过去有所减缓.  （另见 [Debugging syntax files](#debugging-syntax-files).)
  2. **屏幕重绘**.  某些功能强制所有行重绘.
 
-| Typical culprit | Why? | Solution? |
+ |  典型的罪魁祸首|  为什么？  |  解？  |
 |-----------------|------|-----------|
  |  `：设置cursorlines` |  导致所有行重绘.  |  `：设置nocursorline` |
  |  `：set cursorcolumn` |  导致所有行重绘.  |  `：设置nocursorcolumn` |
@@ -2601,7 +2601,7 @@ up?
 为你做的插件：
 [bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste).
 
-与插件相同的其他读物：
+Additional read from the same author as the plugin:
 [here](http://cirw.in/blog/bracketed-paste).
 
 ** Neovim **：Neovim试图让所有这些更加无缝和集合
@@ -2610,7 +2610,7 @@ up?
 ## Delays when using escape key in terminal
 
 如果你住在命令行中，你可能会使用所谓的_terminal
-emulator_喜欢xterm，gnome-terminal，iTerm2等（与真实的相反）
+emulator_喜欢xterm，gnome-terminal，iTerm2等（与真实相反）
 [terminal](https://en.wikipedia.org/wiki/Computer_terminal)).
 
 像他们的祖先一样，终端模拟器使用[逃避
@@ -2677,7 +2677,7 @@ set -sg escape-time 0
   - 可以使用`.`重做简单的文本更改.  （它保存在`.`寄存器中;
   用`：echo @ .`打印它.
 
- 如果你从一个函数中执行它们，那么这两件事都不是这样的！  因此你
+ 如果你从一个函数中执行它们，那么事情都不是这样的！  因此你
 无法轻松突出显示函数中的单词或重做所做的文本更改
 it.
 
@@ -2699,7 +2699,7 @@ it.
 `Vim script`, `Vimscript`, and `VimL` all refer to the same thing: The
  用于编写Vim脚本的编程语言.  即使
 [8.0.360](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
-将所有对“VimL”的引用改为“Vim脚本”，现在可以考虑了
+将所有对“VimL”的引用更改为“Vim脚本”，现在可以考虑了
 官方称，“VimL”仍然遍布互联网.
 
 无论你使用哪个术语，每个人都会理解它.

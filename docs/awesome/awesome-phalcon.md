@@ -93,7 +93,7 @@
 
 *管理面板和仪表板.*
 
-* [dasshy](https://github.com/phalcon/dasshy) -  Mongo / Phalcon的统计信息显示板
+* [dasshy](https://github.com/phalcon-orphanage/dasshy) -  Mongo / Phalcon的统计信息显示板
 * [PhalconTime](https://github.com/Videles/PhalconTime) -  TimeKeeping工具/仪表板骨架
 
 
@@ -104,7 +104,7 @@
 * [dd](https://github.com/phalcon/dd) - 这个包将把`dd`和`dump`助手添加到你的Phalcon应用程序中
 * [PDW](https://github.com/jymboche/phalcon-debug-widget) -  Phalcon应用程序的前端调试器
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) -  Phalcon BB Debugger强大而简单的安装.
-* [Phalcon Console](https://github.com/vanchelo/phalcon-console) -  AJAX控制台用于在浏览器中执行PHP代码，具有保存最后一次代码执行的能力
+* [Phalcon Console](https://github.com/vanchelo/phalcon-console) -  AJAX控制台在浏览器中用光执行PHP代码，能够保存最后一次代码执行
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - 整合 [PHP Debug Bar](http://phpdebugbar.com) 与Phalcon框架
 * [Phalcon Whoops](https://github.com/whoops-php/phalcon) - 整合 [Whoops](https://filp.github.io/whoops/) 与Phalcon
 * [Prophiler](https://github.com/fabfuel/prophiler) -  PHP Profiler和开发人员工具栏（为Phalcon构建）
@@ -157,7 +157,7 @@
 
 *与第三方服务整合*
 
-* [phalcon-logentries](https://github.com/phalcon/phalcon-logentries) - 发送日志消息到 [Logentries](https://logentries.com/) 日志管理服务
+* [phalcon-logentries](https://github.com/phalcon-orphanage/phalcon-logentries) - 发送日志消息到 [Logentries](https://logentries.com/) 日志管理服务
 
 ## Mail
 
@@ -165,7 +165,7 @@
 
 * [Phalcon Mailer](https://github.com/vanchelo/phalcon-mailer) -  Phalcon邮件服务
 * [Phalcon Mailer](https://github.com/phalcon-ext/mailer) - 通过SwiftMailer for Phalcon Framework的Mailer组件包装器
-* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) -  Phalcon Framework的Mandrill包装器
+* [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill/src) -  Phalcon Framework的Mandrill包装器
 * [sendmail](https://github.com/duythien/sendmail) - 使用Phalcon Framework和Swift发送确认电子邮件
 
 
@@ -181,7 +181,7 @@
 
 *这些图书馆放在这里，因为其他类别似乎都不合适*
 
-* [Breadcrumbs](https://github.com/phalcon/breadcrumbs) - 用于在Phalcon 2+中构建站点面包屑的强大而灵活的组件.
+* [Breadcrumbs](https://github.com/phalcon-orphanage/breadcrumbs) - 用于在Phalcon 2+中构建站点面包屑的强大而灵活的组件.
 * [Feedback](https://quasipickle.github.io/feedback/) - 旨在用作Phalcon内置Flash和消息功能的替代品
 * [Incubator](https://github.com/phalcon/incubator) - 用于发布/共享/试验新的适配器，原型或功能的存储库，可以将其整合到Phalcon Framework中
 * [Phalcon Enterprise](https://github.com/techpivot/phalcon-enterprise) - 为Phalcon框架提供扩展的企业功能
@@ -190,6 +190,7 @@
 * [PhalconBlacklist](https://github.com/touhonoob/PhalconBlacklist) - 使用Phalcon + MySQL构建的PHP IP / CIDR黑名单库
 * [Phalcony](https://github.com/ovr/phalcony) - 用于扩展Phalcon Framework基础功能的库
 * [yarak](https://github.com/zachleigh/yarak) -  Laravel启发了Phalcon devtools
+* [phalcon-data-table](https://github.com/maslo2017/phalcon-data-table) - 允许您简化与Phalcon中的bootstrap-table的交互
 
 
 ## Networking

@@ -736,7 +736,7 @@ AWS Repos：
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - 亚马逊S3 REST API的Ruby实现.
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - 烧瓶扩展.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) -  Grunt插件.
-* [minio/mc :fire::fire::fire:](https://github.com/minio/mc) - 用于文件系统和云存储的Minio客户端.
+* [minio/mc :fire::fire::fire::fire:](https://github.com/minio/mc) - 用于文件系统和云存储的Minio客户端.
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - 与S3兼容的对象存储服务器.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - 通过Python并行上传/下载到S3.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - 适用于各种云存储提供商（如S3）的Rsync.
