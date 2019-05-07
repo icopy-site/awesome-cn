@@ -147,12 +147,13 @@
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - 使用Appium探索移动自动化，并发现测试本机，Web和混合应用程序的新方法 -  Manoj Hans.
 - [Appium for Android](https://www.gitbook.com/book/nishantverma/appium-for-android) - 关于如何使用Appium使用Java自动化Android应用程序的快速参考书 -  Nishant Verma.
 
-## Test Frameworks
-- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - 直接使用的示例页面对象模式框架.
+## Test Frameworks 
 - [Appium Cucumber Test](https://github.com/priyankshah217/AppiumCucumberTest) - 样品黄瓜时期项目.
-- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - 在iOS和Android设备上并行运行appium测试.
-- [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - 基于Appium构建的测试友好的移动自动化框架，支持测试Android，iOS和Windows真实或模拟器移动设备和平板电脑的Web和本机应用程序.
 - [Appium-Native-Crawler](https://github.com/isonic1/Appium-Native-Crawler) -  Appium Native Crawler CLI  - 功能包括：屏幕截图，性能，辅助功能检测，谷歌翻译，Applitools，Monkey Tester.
+- [coteafs-appium](https://github.com/WasiqB/coteafs-appium) - 基于Appium构建的测试友好的移动自动化框架，支持测试Android，iOS和Windows真实或模拟器移动设备和平板电脑的Web和本机应用程序.
+- [Optimus](https://github.com/testvagrant/optimusTemplate) - 基于Cucumber的移动自动化框架，支持测试并行化.
+- [PageObject Pattern Framework](https://github.com/saikrishna321/PageObjectPatternAppium) - 直接使用的示例页面对象模式框架.
+- [Parallel Framework Java-Client](https://github.com/saikrishna321/AppiumTestDistribution) - 在iOS和Android设备上并行运行appium测试.
 
 ## Community
 - [Discuss](https://discuss.appium.io)

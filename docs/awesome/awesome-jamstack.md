@@ -123,12 +123,13 @@
 ### Database
 
 - [GraphQL](https://graphql.org) -  API的查询语言和用于使用现有数据完成这些查询的运行时.
-- [Graphcool](https://graph.cool) - 开源和自托管后端即服务，以开发无服务器的GraphQL后端.
+- [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
 - [FaunaDB](https://fauna.com) - 关系NoSQL数据库，在云或内部部署中具有联接，索引和多区域ACID事务.
 
 ### Automation
 
 - [Zapier](https://zapier.com/) - 触发将超过1000个应用程序连接在一起的操作.
+- [DataFire](https://github.com/DataFire/DataFire) -  DataFire是一个用于构建和集成API的开源框架.
 
 ## Serverless
 
@@ -148,14 +149,14 @@
   - [Cloud Dataflow](https://cloud.google.com/dataflow/) - 无服务器流和批量数据处理服务.
   - [BigQuery](https://cloud.google.com/bigquery/) - 无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 无服务器机器学习服务，可自动扩展自定义Google硬件（Tensor Processing Units）.
-- [Serverless](https://serverless.com/) - Toolkit for deploying and operating serverless architectures.
+- [Serverless](https://serverless.com/) - 用于部署和运行无服务器架构的工具包.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - 马特比尔曼
-- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -  Mathias Biillman。
+- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -  Mathias Biillman.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - 克里斯马克雷.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -  Traversy Media.

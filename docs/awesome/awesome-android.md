@@ -97,7 +97,7 @@
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
-- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠listview项目的内容时提供了一个奇特的动画.
+- [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠列表视图项的内容时提供了一个奇特的动画.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - 图标和颜色的祝酒词.
 - [DotLoader](https://github.com/bhargavms/DotLoader) - 带Dots的可自定义加载动画.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - 符合材料设计规格的可自定义滑块小部件.
@@ -112,7 +112,7 @@
 - [MultiViewAdapter](https://github.com/DevAhamed/MultiViewAdapter) -  Recyclerview适配器库，用于创建可组合的视图持有者.
 - [LGSnackbar](https://github.com/loregr/LGSnackbar) - 一个易于使用和可自定义的原生Android Snackbar包装器，可在多个活动中保持可见.
 - [ShimmerLayout](https://github.com/team-supercharge/ShimmerLayout) - 针对Android应用程序的内存高效闪烁效果.
-- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
+- [CircleProgressBar](https://github.com/emre1512/CircleProgressBar) - 一个用于为Android创建循环进度条的简单库.
 - [Easy-Signature-Android](https://github.com/smalam119/Easy-Signature-Android) - 一个简单的ui库，提供可插入的签名视图.
 - [Flashbar](https://github.com/aritraroy/Flashbar) - 适用于Android的高度可定制，功能强大且易于使用的警报库.
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) -  Android的可自定义项目设置视图.
@@ -169,7 +169,7 @@
 
 - [Picasso](https://github.com/square/picasso) - 适用于Android的强大图像下载和缓存库.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - 异步，开箱即用的图像加载和缓存.
-- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
+- [Glide](https://github.com/bumptech/glide) - 适用于Android的图像加载和缓存库，专注于平滑滚动，由Google推荐.
 - [Fresco](https://github.com/facebook/fresco) - 用于管理图像及其使用内存的Android库.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) -  Glide Bitmap Pool是一个用于重用位图内存的内存管理库.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) -  Android库，可让您为Android选择多个图像，视频或语音
@@ -206,13 +206,13 @@
 
 ### Networking
 
-- [Ion](https://github.com/koush/ion) - 适用于Android的良好网络库.
+- [Ion](https://github.com/koush/ion) - 良好的Android网络库.
 - [OkHttp](https://github.com/square/okhttp) - 适用于Android和Java应用程序的HTTP + SPDY客户端.
 - [Asynchronous Http Client](https://github.com/loopj/android-async-http) - 异步HTTP库.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - 使编写异步网络请求变得容易的库.
 - [IceNet](https://github.com/anton46/IceNet) -  Android的快速，简单和轻松的网络
 - [Android Volley](https://developer.android.com/training/volley/) - 官方Android HTTP库，使网络更容易，更快捷.
-- [IceSoap](https://github.com/AlexGilleran/IceSoap) - 适用于Android的简单，异步，基于注释的SOAP.
+- [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android](https://github.com/InstantWebP2P/node-android) - 在Android上运行Node.js.
 - [HappyDns](https://github.com/qiniu/happy-dns-android)   - 一个Dns库，用户可以使用自定义DNS服务器，dnspod httpdns.  仅支持A记录.
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于在Android Instrumentation测试中模拟API响应的HTTP Web服务器.
@@ -232,7 +232,7 @@
 
 ### Database
 - [Cupboard](https://bitbucket.org/littlerobots/cupboard) - 通过直接数据库访问或通过ContentProvider框架轻松访问sqlite.
-- [DbInspector](https://github.com/infinum/android_dbinspector) - 提供一种查看应用程序内数据库内容的简单方法，以便进行调试.
+- [DbInspector](https://github.com/infinum/android_dbinspector) - 提供一种查看应用内数据库内容的简单方法，以便进行调试.
 - [SQLite Asset Helper](https://github.com/jgilfelt/android-sqlite-asset-helper) - 使用应用程序的原始资产文件管理数据库创建和版本管理.
 - [Realm](https://github.com/realm/realm-java)   -  SQLite和ORM的替代方案：简单，现代，快速！  面向对象的API和多平台支持.
 - [Realm Asset Helper](https://github.com/eggheadgames/android-realm-asset-helper)   - 从apk资源文件夹复制领域数据库.  有效地处理只读领域数据库的版本控制.
@@ -294,7 +294,7 @@
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) - 从设备相机捕获照片/视频或从图库应用程序获取照片/视频，无需运行时权限.
 - [Validator](https://github.com/anderscheow/Validator) - 一个实用程序类，用于验证TextInputLayout中的文本.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - 用于处理软键盘可见性更改事件的DSL.
-- [TimeIt](https://github.com/yashovardhan99/timeit) - 用于Android的秒表库，可以轻松地在应用程序中启动，暂停，显示和维护多个秒表.
+- [TimeIt](https://github.com/yashovardhan99/timeit) - 用于Android的秒表库，可以轻松启动，暂停，显示和维护应用程序中的多个秒表.
 - [Reactor](https://github.com/naqqdi/reactor) -  Reactor是一款快速安全的Android键值库.
  
 ### Debugging Tools
@@ -318,12 +318,12 @@
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) -  Android Chat和Messaging SDK，用于在Android应用程序中添加实时聊天和应用程序内消息.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)   -  Qiscus SDK是一个轻量级且功能强大的Android聊天库.  Qiscus SDK将允许您轻松地将Qiscus引擎与您的应用程序集成，以制作出酷炫的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)   -  Kommunicate在android中提供开源实时聊天sdk.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用程序内消息，以获得客户支持.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/CometChat/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/CometChat/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat为实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
 
 #### Custom Dialog
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) - 自定义对话框，用于录制音频，存储并在手机中播放.
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - 提供一个hijri（伊斯兰日历）日期选择器设计在谷歌的材料设计校长拣货员.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) - 提供一个hijri（伊斯兰日历）日期选择器设计在谷歌的材料设计负责人为采摘者.
 - [Noty](https://github.com/emre1512/Noty) - 用于创建动画警报/对话框/警告的简单库.
 
 ### Version Checking
@@ -401,8 +401,10 @@
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -  Android架构蓝图项目演示了帮助解决或避免常见安卓问题的策略.
 
+- [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - 关于MVVM（模型视图ViewModel）模式的示例.
+
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+- [Fragmented](https://fragmentedpodcast.com/)  是Android开发人员播客，Donn Felker和Kaushik Gopal谈论如何构建优秀的软件并成为更好的Android开发人员.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)  是Android开发人员的播客.  该展览由Android工程团队的开发人员主持，涵盖Android程序员感兴趣的主题，并与Google Android团队的工程师进行深入讨论和采访.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们与来自Android社区的人进行一口大小的对话.
 - [Android Intelligence](https://plus.google.com/collection/ATg6b) 与来自Android世界的有趣人士进行深入访谈.
@@ -451,7 +453,7 @@
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife在Kotlin中编写的Android视图注入
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - 一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-- [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级库，提供有用的扩展，以消除Android SDK中的样板代码.
+- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - 使用Uncle Bob干净的架构，Kotlin语言和最新的Android技术的基础项目.
 - [Koin](https://insert-koin.io/) -  Kotlin的轻量级依赖注入框架
@@ -461,10 +463,10 @@
 
 ## Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 一系列令人敬畏的Android教程，视频和性能优化工具.
-- [Booster](https://github.com/didi/booster) -  Booster是Android应用程序的优化工具包.
+- [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
 
 ## Other Awesome Lists
-其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+其他惊人的令人敬畏的名单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
 
 ## Contributing
 

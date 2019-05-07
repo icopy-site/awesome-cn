@@ -32,6 +32,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [List of Forces](https://data.police.uk/api/forces)
 * [DATA.GOV](https://www.data.gov/local/)
   * [Chicago (historical data since 2001)](https://data.cityofchicago.org/api/views/ijzp-q8t2/rows.json?accessType=DOWNLOAD)
+  * [Los Angeles (historical data since 2010)](https://data.lacity.org/api/views/y8tr-7khq/rows.json?accessType=DOWNLOAD)
 
 ## Currency
 * [Foreign Exchange Rates](https://exchangeratesapi.io/)

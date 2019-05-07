@@ -22,9 +22,9 @@
 * [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - 关于A \ *，IDA \ *，广度优先搜索，最佳优先搜索等算法如何描述两点A和B之间的路径的直观表示.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - 一个编程的chrestomathy站点，旨在呈现不同编程语言中的许多算法和数据结构的实现.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/)   - 精美的排序算法动画.  简短的代码和讨论.
-* [Stoimen's web log](http://www.stoimen.com/blog/) - 一些算法很好地解释.
+* [Stoimen's web log](http://www.stoimen.com/) - 一些算法很好地解释.
 * [The Sound of Sorting](http://panthema.net/2013/sound-of-sorting/) - 排序声 - “Audibilization”和排序算法的可视化
-* [VisuAlgo](http://visualgo.net) - Visualising data structures and algorithms through animation.
+* [VisuAlgo](http://visualgo.net) - 通过动画可视化数据结构和算法.
 * [Wikipedia - Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms) - 当然！！
 * [Wikipedia - Data Structures](https://en.wikipedia.org/wiki/List_of_data_structures) - 那么为何不 ？！！
 
@@ -52,6 +52,7 @@
 
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - 非常直截了当.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - 使用Java，OO良好实践，可视化和免费在线资源解释的问题.
+* [Algorithms and Data Structures in JavaScript](https://gum.co/dsajs) - 使用JavaScript实现和解释的经典算法和数据结构.
 * [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) - 这本伟大的书提出了许多编码挑战，从简单的任务到使用k-means聚类数据.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - 数据结构的基本概念和用法.
 * [Elementary Algorithms](https://github.com/liuxinyu95/AlgoXY) - 一本关于算法和数据结构的精彩书籍.
@@ -96,6 +97,7 @@
     * [by @mgechev](https://github.com/mgechev/javascript-algorithms)
     * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms)
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
+    * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
 *目标-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
@@ -129,14 +131,14 @@
 * [Algo Muse](http://www.algomuse.appspot.com) - 基于研究的算法问题. 
 * [AtCoder](https://atcoder.jp/) - 日本编程竞赛网站.
 * [Baekjoon Online Judge](https://www.acmicpc.net/)   - 韩国在线评委.  10000多个问题.  支持60多种语言.
-* [CS Academy](https://csacademy.com/) - 举办在线竞赛和IOI练习赛
+* [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
 * [CodeChef](https://www.codechef.com/) - 更多问题和每月在线竞赛.
 * [Codeforces ](http://codeforces.com/) - 唯一的编程竞赛Web 2.0平台
 * [Codefights](https://codefights.com/) -  Practive编程并解决您的下一次技术面试
 * [CodeMarshal](https://algo.codemarshal.org/) - 真实世界在线比赛！
 * [CodeWars](http://www.codewars.com/) - 一个支持以多种语言解决各种难度算法的网站.
 * [CoderByte](http://www.coderbyte.com/)   - 从初学者到高级水平的算法挑战的体面网站.  支持大多数流行语言，如C ++，python，javascript，ruby.
-* [Firecode](https://www.firecode.io/)-  Firecode.io使用机器学习算法以及策划的现实面试问题，解决方案和充满活力的学习者社交社区，为您的下一次编码面试做好准备.
+* [Firecode](https://www.firecode.io/)-  Firecode.io使用机器学习算法以及策划的真实面试问题，解决方案和充满活力的学习者社交社区，为您的下一次编码面试做好准备.
 * [HackerEarth ](https://www.hackerearth.com/) - 练习算术问题和挑战，并参与招聘挑战.
 * [HackerRank](https://www.hackerrank.com/) - 特色算法和功能编程在线评委
 * [HiHoCoder](http://hihocoder.com/) - 中英文问题解决实践和招聘挑战网站.

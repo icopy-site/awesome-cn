@@ -465,6 +465,7 @@ Projects
 *保持对kubernetes的定期监视*
 
 * [Console](http://github.com/kubernetes/dashboard)
+* [BotKube](https://github.com/infracloudio/botkube) - 可帮助您监控Kubernetes集群，调试关键部署并为标准实践提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
 * [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
@@ -594,7 +595,7 @@ Projects
 * [containerd](https://github.com/containerd/containerd)
 * [cri-containerd](https://github.com/kubernetes-incubator/cri-containerd) - 基于容器的Kubernetes容器运行时接口的实现
 * [CRI-O](https://github.com/kubernetes-incubator/cri-o)
-* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
+* [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - 基于Hypervisor的容器运行时
 * [virtlet](https://github.com/Mirantis/virtlet) - 用于运行VM工作负载的Kubernetes CRI实施
 * [infranetes](https://github.com/apporbit/infranetes)
 
@@ -763,7 +764,7 @@ Projects
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
 * [Contour](https://github.com/heptio/contour) -  Lyft&#39;s Envoy代理的Kubernetes入口控制器
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
-* [Gimbal](https://github.com/heptio/gimbal) - 能够将流量路由到多个Kubernetes和OpenStack集群的平台
+* [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)

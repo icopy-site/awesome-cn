@@ -21,6 +21,9 @@ A list of Q# code and resources.
 - [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - 在2018年Grace Hopper Celebration上展示的自定进度“量子计算概论”研讨会的材料.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - 在MLADS 2018上展示的自定进度“量子机器学习简介”研讨会的材料.
 
+## Books
+- [Learn Quantum Computing with Python 和 Q#](https://www.manning.com/books/learn-quantum-computing-with-python-和-q-sharp) -  Manning，early access，est.2020年春季， [Dr. Sarah Kaiser](https://www.sckaiser.com/) 和 [Chris Granade](https://www.cgranade.com/).
+
 ## Videos
 - [Microsoft Quantum Development Kit Preview](https://www.youtube.com/watch?v=v7b4J2INq9c) -  Krysta Svore  - 微软力学公司量子隐形传态的逐步演示.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) -  Bettina Heim，Microsoft Ignite 2018年会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 是与VS Code而不是Visual Studio相同的会话.

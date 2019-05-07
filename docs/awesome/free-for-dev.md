@@ -9,7 +9,7 @@
 
 此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
 
-You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
+你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  要使服务符合条件，它必须提供免费套餐而不仅仅是免费试用.  如果Free Tier是时间段，则必须至少一年.
 
@@ -214,7 +214,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
+  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -253,7 +253,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
-  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+  * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
   * [Loco](https://localise.biz/) - 免费提供2000种翻译，无限翻译，10种语言/项目，1000种可翻译资产/项目
 
 ## Monitoring
@@ -298,7 +298,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 ## Search
 
   * [algolia.com](https://www.algolia.com/)   - 托管搜索类型（即时）.  免费黑客计划多达10,000个文档和100,000个操作.  为社区/开源项目提供更大的免费计划
-  * [swiftype.com](https://swiftype.com/) — Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to premium level for Open Source
+  * [swiftype.com](https://swiftype.com/)   - 托管搜索解决方案（API和爬虫）.  单个搜索引擎免费提供多达1,000个文档.  免费升级到开源的高级别
   * [bonsai.io](https://bonsai.io/) - 免费1 GB内存和1 GB存储空间
   * [searchly.com](http://www.searchly.com/) - 免费2个索引和5 MB存储空间
   * [indexisto.com](https://indexisto.com/) - 网站搜索，免费1000万文件索引限制与广告块
@@ -364,7 +364,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
-  * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
+  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
 
 ## BaaS
@@ -453,7 +453,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
+   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
@@ -496,7 +496,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
    * [plan.io](https://plan.io/)   - 使用Repository Hosting和mor选项进行项目管理.  10位客户和500MB存储空间可供2位用户免费使用
    * [taskade.com](https://taskade.com/) - 团队的实时协作任务列表和大纲
    * [zenkit.com](https://zenkit.com)   - 项目管理和协作工具.  最多可免费使用5个成员，5 GB附件.
-   * [Instabug](https://instabug.com)   - 针对移动应用的全面错误报告和应用内反馈SDK.  免费计划最多1个应用程序和1个成员.
+   * [Instabug](https://instabug.com) —  A comprehensive bug reporting and in-app feedback SDK for mobile apps. Free plan up to 1 app and 1 member.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - 免费为期一年的Office 365 E3订阅开发/测试.
    * [senseitool.com](https://www.senseitool.com/) - 敏捷的回顾工具 - 免费.
    * [Gitlab](https://gitlab.com) - 为项目提供基本问题跟踪.
@@ -527,7 +527,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
@@ -536,7 +536,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
-  * [photopea.com](https://www.photopea.com) — A Free, Advanced online design editor with Adobe Photoshop UI supporting PSD, XCF & Sketch formats (Adobe Photoshop, Gimp and Sketch App).
+  * [photopea.com](https://www.photopea.com) - 免费的高级在线设计编辑器，Adobe Photoshop UI支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
 * [pexels.com](https://www.pexels.com/)   - 免费商业照片.  有免费的API，可让您按关键字搜索照片.
 
 ## Data Visualization on Maps
@@ -578,6 +578,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持
    * [Coder](https://coder.com)   - 为您提供围绕Visual Studio Code构建的完整开发环境的平台.  在免费套餐中，您将获得2GB的项目和2 GB的容器空间以及5小时的快速时间，如果启用，则可以动态扩展容器.
    * [gitpod.io](https://gitpod.io)   -  GitHub项目的即时，可随时编码的开发环境.  免费开源.
+   * [Katacoda](https://katacoda.com) - 为软件工程师提供互动学习和培训平台，帮助开发人员学习和提高公司的采
 
 ## Analytics, Events and Statistics
 
