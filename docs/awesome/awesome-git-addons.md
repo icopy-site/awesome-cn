@@ -220,7 +220,7 @@ $ git ignore build“* .o”“* .log”
 ### info
 
 ```
-$ git信息
+$ go info
 
     ## 远程网址：
 
@@ -264,8 +264,8 @@ $ git fork LearnBoost / expect.js
 $ git发布0.1.0
 ...释放0.1.0
 关于分支发展
-您的分支机构与“原产地/开发”保持同步.
-nothing to commit, working directory clean
+Your branch is up-to-date with 'origin/development'.
+无需提交，工作目录清理
 总计0（delta 0），重用0（delta 0）
 要https://github.com/tj/git-extras.git
    9fde751..e62edfa master  - &gt; master
@@ -361,7 +361,7 @@ $ git功能完成依赖项
 
 ```
 $ git local-commits
-提交5f00a3c1bb71876ebdca059fac96b7185dea5467
+commit 5f00a3c1bb71876ebdca059fac96b7185dea5467
 合并：7ad3ef9 841af4e
 作者：Blaine Bublitz <blaine@iceddev.com>
 日期：2015年8月20日星期四11:35:15 -0700
@@ -398,7 +398,7 @@ $ git缺少大师
 ### lock
 
 ```
-$ git lock config / database.yml
+$ config lock / database.yml lock
 ```
 
 ### locked
@@ -411,7 +411,7 @@ config/database.yml
 ### unlock
 
 ```
-$ git unlock config / database.yml
+$ un config / database.yml git
 ```
 
 ### reset-file
@@ -689,7 +689,7 @@ $ git比较重构
 
 ```
 $ git submodule添加wycats / bundler vendor / bundler
-> git submodule add git://github.com/wycats/bundler.git vendor/bundler
+&gt; git submodule添加git：//github.com/wycats/bundler.git vendor / bundler
 ```
 
 ### ci-status
@@ -881,7 +881,7 @@ $ git发布新
 ### List open issues
 
 ```
-$ git问题列表
+$ git issue list
 7dfa5b7从编辑器输入的问题
 e6a95c9从命令行输入新问题
 ```
@@ -967,7 +967,7 @@ remote：总计60（delta 8），重用60（delta 8），pack-reused 0
 ### List open issues
 
 ```
-$ git问题列表
+$ git issue list
 7dfa5b7从编辑器输入的问题
 e6a95c9从命令行输入新问题
 ```
@@ -1047,7 +1047,7 @@ Fast-forward
 ### List open issues
 
 ```
-$ git问题列表
+$ git issue list
 7dfa5b7从编辑器输入的问题
 abc9adc在另一台主机上添加了问题
 e6a95c9从命令行输入新问题
@@ -1170,7 +1170,7 @@ $ git最近
 $ go test -v
 4.0 ^ origin / 4.0 ^ origin / master将测试2次提交
 iter commit tree结果
-0000 57af4b0 f5ef0d8传递（缓存）
+0000 57af4b0 f5ef0d8通过（缓存）
 0001 10ed389 434370f通过
 ```
 
@@ -1259,8 +1259,8 @@ Fast-forward
 在分支大师
 您的分支通过1次提交超过“origin / master”.
   （使用“git push”发布您的本地提交）
-nothing to commit, working directory clean
-丢弃的藏匿@ {0}（7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f）
+无需提交，工作目录清理
+丢失的藏匿@ {0}（7c28b7f5eaf09dd72ec6e1ea440cbd1611e36c7f）
 ```
 
 ### graft
@@ -1370,10 +1370,10 @@ $ git墨水
     - 工作但不提供任何收益
 •hbsfy ................................................ 2015-10-21
 ✓主人................................................ 2015年10月22日
-•有ads4 .............................................. 2015年10月22日
+•有ads4 .................................................. 2015年10月22日
 •remove-equalize_content_height ........................ 2015-10-21
 •移除 - 驱除....................................... 2015-10-21
-    - 需要干预驱除功能
+    - 需要干燥驱除功能
     -  uglified时无法正确映射
     - 需要撤消postCSS映射更改
 •rm-convert_dates-order ................................ 2015-10-22
@@ -1437,6 +1437,22 @@ c6eb3bfa（LOREM 2014年8月11日23时15分57秒+0000 5）Nostrud例行学区LAB
 ```
 
 
+## [git-word-blame](https://framagit.org/mdamien/git-word-blame)
+
+
+```
+$ git word-blame README.md
+结果在/ tmp / word-blame-output /
+ -  author_stats.tsv
+ -  commit_stats.tsv
+ -  word-blame-by-commit.html
+ -  word-blame-by-author.html
+ - 文本输出
+```
+
+![git word-blame on this README](https://user-images.githubusercontent.com/1469823/57202569-0247eb00-6fa7-11e9-8549-f55d81299fab.png)
+
+
 
 ## [git-fire](https://github.com/qw3rtman/git-fire)
 
@@ -1444,7 +1460,7 @@ c6eb3bfa（LOREM 2014年8月11日23时15分57秒+0000 5）Nostrud例行学区LAB
 $ git fire
 切换到新的分支&#39;fire-master-maochenyan@gmail.com-1451379915&#39;
 在分支fire-master-maochenyan@gmail.com-1451379915
-nothing to commit, working directory clean
+无需提交，工作目录清理
 计数对象：2，完成.
  写入对象：100％（2/2），168字节|  0字节/秒，完成.
 总计2（delta 0），重复使用0（delta 0）
@@ -1575,7 +1591,7 @@ $ git最近
 $ git rebase -i master
 ```
 
-![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/git-interactive-tool.gif)
+![git-interactive-rebase-tool screenshot](https://raw.githubusercontent.com/MitMaro/git-interactive-rebase-tool/master/docs/assets/images/git-interactive-rebase-demo.gif)
 
 ## [git-fiddle](https://github.com/felixSchl/git-fiddle)
 
@@ -1585,7 +1601,7 @@ git-fiddle
 
 在* interactive * rebase期间编辑提交元信息.
 
-`git-fiddle(1)' is a lightweight wrapper around `git-rebase(1)' that
+`git-fiddle（1）&#39;是一个围绕`git-rebase（1）&#39;的轻量级包装器
 用它的* author * date，作者名称来注释每个提交
  作为提交消息.  然后将应用对这些中的任何一个的更改
 在git-rebase序列中使用&#39;exec&#39;脚本.
@@ -1699,7 +1715,7 @@ cz-cli@2.9.6, cz-conventional-changelog@1.2.0
   style：不影响代码含义的更改（空格，格式，缺少半
 - 等等）
   重构：代码更改既不修复错误也不添加功能
-  perf:     A code change that improves performance
+  perf：改进性能的代码更改
   测试：添加缺失测试或更正现有测试
 ```
 
@@ -1737,7 +1753,7 @@ $ go url -r v1.0
 协议：https
 网站：github.com
 回复：zdharma / git-url
-修订版：v1.0
+Revision:  v1.0
 
 gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
 

@@ -3,7 +3,7 @@
 
 一系列令人敬畏的初学者友好项目.
 
-灵感来自 [First Timers Only](https://medium.com/@kentcdodds/first-timers-only-78281ea47455#.vsu847e81) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
+灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
 
 如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
 
