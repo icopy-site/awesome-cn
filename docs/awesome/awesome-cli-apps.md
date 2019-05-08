@@ -45,7 +45,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
@@ -96,7 +96,7 @@
 - [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
@@ -145,6 +145,7 @@
 - [npm-home](https://github.com/sindresorhus/npm-home) - 在当前目录中打开包的npm页面.
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 查找比package.json允许的更新版本的软件包依赖项.
+- [updates](https://github.com/silverwind/updates) - 灵活的npm依赖更新工具.
 
 ## Productivity
 
@@ -162,6 +163,7 @@
 - [Buku](https://github.com/jarun/Buku) - 独立于浏览器的书签管理器.
 - [googler](https://github.com/jarun/googler) - 来自终端的Google.
 - [calcurse](http://calcurse.org/) - 命令行的日历和计划应用程序.
+- [gcalcli](https://github.com/insanum/gcalcli) - 从终端访问Google日历.
 - [papis](http://github.com/alejandrogallo/papis) - 可扩展文档和参考书目管理器.
 
 ### Time Tracking
@@ -232,7 +234,7 @@
 - [lnfs-cli](https://github.com/kevva/lnfs-cli) - 安全地强制创建符号链接.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - 获取macOS版本.
 - [osx-wifi-cli](https://github.com/danyshaanan/osx-wifi-cli) - 管理wifi连接.
-- [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ id / etc.
+- [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ ID /等.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开一个网站.
 
@@ -304,8 +306,8 @@
 
 - [ranger](https://github.com/ranger/ranger) - 具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - 功能丰富的可视文件管理器.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) - 整理文件，想象一下即时清理下载内容.
-- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它还从mutt中借用了一些有用的想法.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
+- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
 
 ### Deleting, Copying, and Renaming
@@ -359,7 +361,7 @@
 - [CLI GitHub](https://github.com/IonicaBizau/cli-github) - ：tv：命令行的奇特GitHub客户端.
 - [Gistup](https://github.com/mbostock/gistup) - 从终端创建一个要点，然后使用git更新它.
 - [git commander](https://github.com/golbin/git-commander) - 一个带有简单终端界面的git工具.
-- [git-stats](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
+- [git-stats](https://github.com/IonicaBizau/git-stats) - ：four_leaf_clover：类似GitHub的贡献日历，但在本地，与你的所有git提交.
 - [hub](https://github.com/github/hub) -  git的命令行包装器，可以让你在GitHub上更好.
 - [dev-time](https://github.com/samverschueren/dev-time-cli) - 获取GitHub用户的当前本地时间.
 - [git-labelmaker](https://github.com/himynameisdave/git-labelmaker) - 从命令行编辑GitHub标签.

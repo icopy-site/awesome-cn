@@ -482,6 +482,7 @@
 * [go-dkim](https://github.com/toorop/go-dkim) -  DKIM库，用于签署和验证电子邮件.
 * [go-imap](https://github.com/emersion/go-imap) - 客户端和服务器的IMAP库.
 * [go-message](https://github.com/emersion/go-message) - 用于Internet邮件格式和邮件消息的流式库.
+* [go-premailer](https://github.com/vanng822/go-premailer) -  Go中HTML邮件的内联样式.
 * [Gomail](https://github.com/go-gomail/gomail/) -  Gomail是一个非常简单而强大的发送电子邮件的包.
 * [Hectane](https://github.com/hectane/hectane) - 提供HTTP API的轻量级SMTP客户端.
 * [hermes](https://github.com/matcornic/hermes) -  Golang包，可生成干净，响应迅速的HTML电子邮件.
@@ -679,6 +680,7 @@
 * [gowd](https://github.com/dtylman/gowd)   - 使用GO，HTML，CSS和NW.js进行快速简单的桌面UI开发.  跨平台.
 * [qt](https://github.com/therecipe/qt) -  Go的Qt绑定（支持Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi）.
 * [ui](https://github.com/andlabs/ui)   -  Go的平台原生GUI库.  跨平台.
+* [Wails](https://wails.app) - 使用内置操作系统HTML呈现器的带有HTML UI的Mac，Windows，Linux桌面应用程序.
 * [walk](https://github.com/lxn/walk) -  Go的Windows应用程序库工具包.
 * [webview](https://github.com/zserge/webview) - 具有简单双向JavaScript绑定的跨平台webview窗口（Windows / macOS / Linux）.
 
@@ -745,7 +747,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gobot](https://github.com/hybridgroup/gobot/) -  Gobot是机器人，物理计算和物联网的框架.
 * [huego](https://github.com/amimof/huego) - 适用于Go的广泛的Philips Hue客户端库.
 * [iot](https://github.com/vaelen/iot/) - 物联网是实施Google IoT核心设备的简单框架.
-* [mainflux](https://github.com/Mainflux/mainflux) - Industrial IoT Messaging and Device Management Server.
+* [mainflux](https://github.com/Mainflux/mainflux) - 工业物联网消息和设备管理服务器.
 * [periph](https://periph.io/) - 与低级电路板设备连接的外围设备I / O.
 * [sensorbee](https://github.com/sensorbee/sensorbee) - 物联网的轻量级流处理引擎.
 
@@ -766,6 +768,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 *使用JSON的库.*
 
+* [ajson](https://github.com/spyzhov/ajson) - 支持JSONPath的golang的抽象JSON.
 * [gjo](https://github.com/skanehira/gjo) - 用于创建JSON对象的小实用程序.
 * [GJSON](https://github.com/tidwall/gjson) - 使用一行代码获取JSON值.
 * [go-respond](https://github.com/nicklaw5/go-respond) -  Go包用于处理常见的HTTP JSON响应.
@@ -869,6 +872,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [APNs2](https://github.com/sideshow/apns2) - 用于Go的HTTP / 2 Apple推送通知提供程序 - 向iOS，tvOS，Safari和OSX应用程序发送推送通知.
 * [Beaver](https://github.com/Clivern/Beaver) - 实时消息服务器，用于在Web和移动应用程序中构建可扩展的应用程序内通知，多人游戏，聊天应用程序.
 * [Benthos](https://github.com/Jeffail/benthos) - 一系列协议之间的消息流桥接.
+* [Bus](https://github.com/mustafaturan/bus) - 用于内部通信的极简主义消息总线实现.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) -  Go中的实时消息传递（Websockets或SockJS）服务器.
 * [dbus](https://github.com/godbus/dbus) -  D-Bus的Native Go绑定.
 * [drone-line](https://github.com/appleboy/drone-line) - 发送 [Line](https://at.line.me/en) 使用二进制，docker或Drone CI的通知.
@@ -985,7 +989,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [url-shortener](https://github.com/pantrif/url-shortener) - 具有mysql支持的现代，强大且强大的URL缩短微服务.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - 生成样板http输入和输出处理.
 * [xdg](https://github.com/rkoesters/xdg) - 在Go中实现的FreeDesktop.org（xdg）规范.
-* [xkg](https://github.com/go-xkg/xkg) -  X键盘抓取器.
+* [xkg](https://github.com/go-xkg/xkg) - X Keyboard Grabber.
 
 ## Natural Language Processing
 
@@ -1113,7 +1117,6 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-queryset](https://github.com/jirfag/go-queryset) - 具有代码生成的100％类型安全ORM和基于GORM的MySQL，PostgreSQL，Sqlite3，SQL Server支持.
 * [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - 灵活且功能强大的SQL字符串构建器库以及零配置ORM.
 * [go-store](https://github.com/gosuri/go-store) - 简单快速的Redis支持的Go键值存储库.
-* [gomodel](https://github.com/cosiner/gomodel) - 轻量，快速，类似orm的库有助于与数据库交互.
 * [GORM](https://github.com/jinzhu/gorm) -  Golang梦幻般的ORM库，旨在让开发人员更加友好.
 * [gorp](https://github.com/go-gorp/gorp) -  Go关系持久性，Go的ORM-ish库.
 * [grimoire](https://github.com/Fs02/grimoire)   -  Grimoire是golang的数据库访问层和验证.  （支持：MySQL，PostgreSQL和SQLite3）.
@@ -1307,7 +1310,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [badio](https://github.com/cavaliercoder/badio) -  Go的`testing / iotest`包的扩展.
     * [baloo](https://github.com/h2non/baloo) - 轻松实现富有表现力和多功能的端到端HTTP API测试.
     * [biff](https://github.com/fulldump/biff) - 分叉测试框架，兼容BDD.
-    * [bro](https://github.com/marioidival/bro) - Watch files in directory and run tests for them.
+    * [bro](https://github.com/marioidival/bro) - 在目录中监视文件并为它们运行测试.
     * [charlatan](https://github.com/percolate/charlatan) - 为测试生成虚假接口实现的工具.
     * [commander](https://github.com/SimonBaeumer/commander) - 用于在Windows，Linux和osx上测试cli应用程序的工具.
     * [cupaloy](https://github.com/bradleyjkemp/cupaloy) - 为您的测试框架提供简单的快照测试插件.
@@ -1423,7 +1426,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [kace](https://github.com/codemodus/kace) - 涉及常见初始主义的常见案例转换.
     * [parseargs-go](https://github.com/nproc/parseargs-go) - 理解引号和反斜杠的字符串参数解析器.
     * [parth](https://github.com/codemodus/parth) -  URL路径分段解析.
-    * [radix](https://github.com/yourbasic/radix) - fast string sorting algorithm.
+    * [radix](https://github.com/yourbasic/radix) - 快速字符串排序算法.
     * [TySug](https://github.com/Dynom/TySug) - 关于键盘布局的替代建议.
     * [xj2go](https://github.com/stackerzzq/xj2go) - 将xml或json转换为struct.
     * [xurls](https://github.com/mvdan/xurls) - 从文本中提取网址.
@@ -1584,7 +1587,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [mole](https://github.com/davrodpin/mole) -  cli app轻松创建ssh隧道.
 * [mssqlx](https://github.com/linxGnu/mssqlx)   - 数据库客户端库，任何主从属的代理，主主结构.  轻量化和自动平衡.
 * [multitick](https://github.com/VividCortex/multitick) - 用于对齐的代码的多路复用器.
-* [myhttp](https://github.com/inancgumus/myhttp) - 使用超时支持发出HTTP GET请求的简单API.
+* [myhttp](https://github.com/inancgumus/myhttp) - Simple API to make HTTP GET requests with timeout support.
 * [netbug](https://github.com/e-dard/netbug) - 轻松远程分析您的服务.
 * [okrun](https://github.com/xta/okrun) - 去运行错误压路机.
 * [olaf](https://github.com/btnguyen2k/olaf) - 在Go中实施Twitter Snowflake.
@@ -1735,7 +1738,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [alice](https://github.com/justinas/alice) -  Go的无痛中间件链接.
 * [catena](https://github.com/codemodus/catena) -  http.Handler包装器连接（与“链”相同的API）.
 * [chain](https://github.com/codemodus/chain) - 处理程序包装器与范围数据链接（基于网络/上下文的“中间件”）.
-* [go-wrap](https://github.com/go-on/wrap) - 用于net / http的小型中间件包.
+* [go-wrap](https://github.com/go-on/wrap) - Small middlewares package for net/http.
 * [gores](https://github.com/alioygur/gores)   -  Go包处理HTML，JSON，XML等响应.  对RESTful API很有用.
 * [interpose](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang.
 * [muxchain](https://github.com/stephens2424/muxchain) - 用于网络/ http的轻量级中间件.
@@ -1774,6 +1777,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [d3d9](https://github.com/gonutz/d3d9) - 为Direct3D9绑定绑定.
 * [go-ole](https://github.com/go-ole/go-ole) -  Win32的OLE实施golang.
+* [gosddl](https://github.com/MonaxGT/gosddl)   - 从SDDL-string转换为用户友好的JSON.  SDDL由四部分组成：所有者，主要组，DACL，SACL.
 
 ## XML
 

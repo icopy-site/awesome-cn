@@ -1178,7 +1178,7 @@ scselect LocationNameFromStatus
 
 #### Set Static IP Address
 ```bash
-networksetup -setmanual“Ethernet”192.168.2.100 255.255.255.0 192.168.2.1
+networksetup -setmanual “以太网” 192.168.2.100 192.168.2.1 255.255.255.0
 ```
 
 ### Networking Tools
@@ -1295,6 +1295,14 @@ networksetup -setairportpower en0 on
 - [Fink](http://www.finkproject.org)   - 达尔文的Unix开源软件的全部世界.  有点过时了.
 - [Homebrew](https://brew.sh) -  OS X缺少的包管理器.最受欢迎的选择.
 - [MacPorts](https://www.macports.org)   - 编译，安装和升级命令行，X11或基于Aqua的开源软件.  非常干净，这就是我使用的.
+
+### Homebrew
+
+#### Full Uninstall
+
+```bash
+ruby -e“$（curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall）”
+```
 
 
 ## Printing
@@ -1851,6 +1859,7 @@ tput bel
 
 ### Alternative Terminals
 
+- [Alacritty](https://github.com/jwilm/alacritty) - 跨平台，GPU加速的终端仿真器.
 - [iTerm2](https://iterm2.com) - 一个更好的Terminal.app.
 - [kitty](https://sw.kovidgoyal.net/kitty/) - 现代GPU加速终端仿真器.
 

@@ -162,7 +162,7 @@
 
 ### Abstract Algebra
 
-* [Introduction to Abstract Algebra](https://people.creighton.edu/~dsm33733/MTH581/Introduction%20to%20Abstract%20Algebra.pdf) -  DS Malik，John N. Mordeson，MK Sen（克雷顿大学）
+* [Introduction to Abstract Algebra](https://zodml.org/sites/default/files/Introduction_to_Abstract_Algebra_0.pdf) -  DS Malik，John N. Mordeson，MK Sen（克雷顿大学）
 * [Introduction to Modern Algebra](http://aleph0.clarku.edu/~djoyce/ma225/algebra.pdf) - 大卫·乔伊斯（克拉克大学）
 * [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) -  F.奥吉尔
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson，Robert A. Beezer（奥斯汀州立大学）

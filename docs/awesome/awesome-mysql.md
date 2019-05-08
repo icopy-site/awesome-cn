@@ -91,7 +91,7 @@
 - [Flywaydb](http://flywaydb.org/getstarted/)   - 数据库迁移;  在所有实例中轻松可靠地发展数据库架构
 - [Liquibase](http://www.liquibase.org/) - 数据库的源代码管理
 - [Propagator](https://github.com/outbrain/propagator) - 在多种东西拓扑上集中架构和数据部署
-- [Shift](https://github.com/square/shift) - An application that helps you run schema migrations on MySQL databases
+- [Shift](https://github.com/square/shift) - 可帮助您在MySQL数据库上运行架构迁移的应用程序
 
 
 ## GUI
@@ -136,7 +136,6 @@
 
 *复制相关软件*
 
-- [Tungsten Replicator](https://github.com/vmware/tungsten-replicator) - 用于MySQL的高性能，开源，数据复制引擎.
 
 
 ## Schema
@@ -174,7 +173,7 @@
 
 *工具包，通用脚本*
 
-- [gh-ost](https://github.com/github/gh-ost/) -  GitHub的MySQL在线模式迁移.
+- [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
 - [go-mysql](https://github.com/siddontang/go-mysql) - 一个纯go库来处理MySQL网络协议和复制.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一组用Python编写的命令行实用程序，用于单独或在复制层次结构中维护和管理MySQL服务器.
 - [openark kit](http://code.openark.org/forge/openark-kit) - 一组解决日常维护任务的实用程序，用Python编写可能很复杂或耗时.

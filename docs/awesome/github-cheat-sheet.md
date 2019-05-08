@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="tiimgreen/github-cheat-sheet"></div>
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
- Git和GitHub的一个很酷的隐藏和不那么隐藏的功能的集合.  这个备忘单的灵感来自于 [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) 在2012年Aloha Ruby大会上发言（[slides](https://speakerdeck.com/holman/git-and-github-secrets)） 和他 [More Git and GitHub Secrets](https://vimeo.com/72955426) 在WDCNZ 2013上发言（[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
+ Git和GitHub的一个很酷的隐藏和不那么隐藏的功能的集合.  这个备忘单的灵感来自于 [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) 在2012年Aloha Ruby Conference上发言（[slides](https://speakerdeck.com/holman/git-and-github-secrets)） 和他 [More Git and GitHub Secrets](https://vimeo.com/72955426) 在WDCNZ 2013上发言（[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
 
@@ -206,7 +206,7 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 ![Cross-Link Issues](https://camo.githubusercontent.com/447e39ab8d96b553cadc8d31799100190df230a8/68747470733a2f2f6769746875622d696d616765732e73332e616d617a6f6e6177732e636f6d2f626c6f672f323031312f736563726574732f7265666572656e6365732e706e67)
 
 ### Locking Conversations
-现在，回购请求和问题可以由回购的所有者或协作者锁定.
+现在可以通过回购的所有者或协作者锁定请求和问题.
 
 ![Lock conversation](https://cloud.githubusercontent.com/assets/2723/3221693/bf54dd44-f00d-11e3-8eb6-bb51e825bc2c.png)
 
@@ -241,7 +241,7 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 `是：pr -label：activerecord`
 
 Github has tabs for displaying open or closed issues and pull requests but you
- 也可以看到合并拉取请求.  只需在过滤器中添加以下内容：
+ 也可以看到合并拉取请求.  只需将以下内容放入过滤器：
 
 `is:merged`
 
@@ -568,6 +568,7 @@ GitHubs图标（Octicons）现已开源.
  |  GitHub培训|  https://training.github.com/ |
  |  GitHub开发人员|  https://developer.github.com/ |
  |  Github教育（免费微账户和其他学生用品）|  https://education.github.com/ |
+ |  GitHub十大最佳实践| [Best Practices List](https://datree.io/blog/top-10-github-best-practices/) |
 
 #### GitHub Talks
  |  标题|  链接|

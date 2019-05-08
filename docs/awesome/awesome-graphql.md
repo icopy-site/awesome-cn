@@ -33,6 +33,7 @@
 * [StackOverflow](https://stackoverflow.com/questions/tagged/graphql)  - 问题和解答.  使用标签 [graphql](https://stackoverflow.com/questions/tagged/graphql)
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共GraphQL API的集合列表
 * [GraphQL World](https://graphql-world.com) -  GraphQL开发人员增长最快的社区
+* [GraphQL Jobs](https://graphql.jobs) - 全球创业公司中基于GraphQL的工作列表.
 
 <a name="meetups" />
 
@@ -131,7 +132,7 @@
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - 为Relay重新组合助手.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) -  GraysQL扩展，用于创建与中继兼容的模式.
 * [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - 用于中继的网络层，具有查询批处理和中间件支持（urlThunk，retryThunk，auth，defer等）.
-* [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - 对Relay的订阅支持.
+* [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - 一个示例网站，从各种api获取数据，并使用Relay和GraphQL将数据提供给React组件！
 
 <a name="lib-rb" />
@@ -235,7 +236,7 @@
 ### .NET Libraries
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -  GraphQL for .NET.
-* [graphql-net](https://github.com/ckimes89/graphql-net) - GraphQL to IQueryable for .NET.
+* [graphql-net](https://github.com/ckimes89/graphql-net) -  GraphQL到IQueryable for .NET.
 * [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) -  .Net Core和.NET Framework的GraphQL服务器.
 
 <a name="lib-elixir" />
@@ -245,9 +246,9 @@
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - 功能齐全的Elixir GraphQL库.
 * [graphql-elixir](https://github.com/graphql-elixir/graphql)   -  GraphQL Elixir.  （不再维护）
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) -  GraphQL Elixir的插件集成.
-* [graphql_relay](https://github.com/graphql-elixir/graphql_relay) -  GraphQL Elixir的中继助手.
+* [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) -  Elixir绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
-* [graphql](https://github.com/asonge/graphql) - Elixir GraphQL parser.
+* [graphql](https://github.com/asonge/graphql) -  Elixir GraphQL解析器.
 * [plot](https://github.com/peburrows/plot) -  Elixir的GraphQL解析器和解析器.
 
 <a name="lib-haskell" />
@@ -381,6 +382,7 @@
 ## Databases
 
 * [Dgraph](https://dgraph.io/) - 可扩展，分布式，低延迟，高吞吐量Graph数据库，GraphQL作为查询语言
+* [EdgeDB](https://edgedb.com/) - 具有本机GraphQL支持的下一代对象关系数据库.
 
 <a name="services" />
 
@@ -397,7 +399,7 @@
 ### JavaScript Examples
 
 * [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构web应用程序样板（Node.js / Express，GraphQL，React）
-* [graphql-starter-kit](https://github.com/kriasoft/nodejs-api-starter) - Project template for building a GraphQL server with Node.js v7+ and JavaScript
+* [graphql-starter-kit](https://github.com/kriasoft/nodejs-api-starter) - 使用Node.js v7 +和JavaScript构建GraphQL服务器的项目模板
 * [swapi-graphql](https://github.com/graphql/swapi-graphql) - 包含swapi.co的GraphQL架构和服务器.
 * [graphql-server](https://github.com/RisingStack/graphql-server) - 使用Mongoose（MongoDB）和Node.js的GraphQL服务器.
 * [graphql-intro](https://github.com/clayallsopp/graphql-intro) - https://medium.com/the-graphqlhub/your-first-graphql-server-3c766ab4f0a2

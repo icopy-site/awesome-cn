@@ -118,7 +118,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [Mark Text](https://github.com/marktext/marktext/)   - 下一代Markdown编辑器（使用Electron构建）.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 - [PileMd](https://pilemd.com/)   -  Markdown Note App.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
-- [TOAST UI Editor](https://nhnent.github.io/tui.editor/) - 可扩展的GFM Markdown WYSIWYG编辑器！[全球] [全球]
+- [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 可扩展的GFM Markdown WYSIWYG编辑器！[全球] [全球]
 - [Typora](https://typora.io/)   - 最小的Markdown编辑器.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 
 ### Linters
@@ -203,7 +203,7 @@ _[Icon pack by Icons8](https://icons8.com)_
 <!--Definitions-->
 
 [globe]：h​​ttps：//maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png&#39;Globe&#39;
-[Android的OS]：https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png &#39;的Android OS&#39;
+[android-os]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png&#39;Android OS&#39;
 [ios-logo]：https：//maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png&#39;iOS Logo&#39;
 [apple]：https：//maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png&#39;Apple&#39;
 [linux]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png&#39;Linux&#39;
