@@ -38,6 +38,7 @@
 - [dapple](https://github.com/nexusdev/dapple) -  Dapple是一家Solidity开发商多功能工具，旨在管理日益复杂的互联智能合约系统.
 - [digx](https://www.dgx.io/) -  Digix是一个基于以太坊和IPFS的资产标记化平台.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -  Discussify为任何人加入和参与提供实时，点对点和永久性的讨论平台.
+- [DtinyUrl](http://t.bdaily.club) - 基于ipfs的分散式网址缩短服务 [Source](https://github.com/facert/dtinyurl)
 - [dtube](https://d.tube) - 与steem.it集成的分布式视频共享，使用ipfs进行后端存储.
 - [enzypt.io](https://enzypt.io/) - 通过以太坊和IPFS购买和销售文件的网站. [Source](https://github.com/flex-dapps/enzypt)
 - [Eternum](https://www.eternum.io/) - 带有易于使用的API的付费钉扎服务.

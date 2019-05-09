@@ -233,6 +233,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 * [Single Div Project](https://github.com/ManrajGrover/SingleDivProject)   - 一个` <div>  `.  很多可能性.
 * [Can I use](https://caniuse.com/) - 浏览器支持CSS，HTML5和其他前端Web技术.
+* [cssfx](https://cssfx.dev/) - 非常简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) - 适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) - 常见JS UI组件的CSS替代方案.
 * [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -  CSS小书签，使用选择器查找错误的标记，在漫画sans serif中显示丑陋的粉红色错误消息，无论你写错HTML 
@@ -355,6 +356,6 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
  随意潜入！  打开问题或提交PR.
 
-令人敬畏的CSS遵循[贡献者契约] [贡献者契约]行为准则.
+令人敬畏的CSS遵循[贡献者契约] [贡献者 - 契约]行为准则.
 
 **}**

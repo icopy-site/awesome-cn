@@ -51,6 +51,12 @@
 * [VerneMQ](https://vernemq.com/) - 在Erlang中开发的Apache2许可的分布式MQTT代理.
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) -  Vert.x组件，用于处理与远程MQTT客户端的连接，通信和消息交换.
 
+### Platforms
+
+* [mainflux](https://www.mainflux.com/)   - 设备管理，数据汇总，数据管理，数据分析，连接和消息路由以及事件管理.  Linux Software Foundation支持.
+核心分析
+* [thingsboard](https://thingsboard.io/) - 物联网项目的设备管理，数据收集，处理，事件管理和可视化.
+
 
 ### Tools
 
@@ -83,13 +89,14 @@
 
 * [CocoaMQTT](https://github.com/emqtt/CocoaMQTT) - 使用Swift编写的iOS和OS X的MQTT.
 * [emqttc](https://github.com/emqtt/emqttc) - 异步Erlang MQTT客户端.
-* [gmqtt](https://github.com/wialon/gmqtt) -  Python MQTT v5.0客户端（基于asyncio）
+* [gmqtt](https://github.com/wialon/gmqtt) -  Python MQTT v5.0客户端（基于asyncio）.
 * [hbmqtt](https://github.com/beerfactory/hbmqtt) - 使用asyncio的Python MQTT客户端.
+* [aiomqtt](https://github.com/mossblaser/aiomqtt) - 基于paho-mqtt的异步Python MQTT客户端.
 * [Hulaaki](https://github.com/suvash/hulaaki) - 用于与MQTT代理通信的客户的Elixir库.
-* [luamqtt](https://github.com/xHasKx/luamqtt/) -  Pure-lua MQTT v3.1.1和v5.0客户端
+* [luamqtt](https://github.com/xHasKx/luamqtt/) -  Pure-lua MQTT v3.1.1和v5.0客户端.
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - 适用于所有.Net平台（.Net Framework，.Net Compact Framework和.Net Micro Framework）和WinRT平台（Windows 8.1，Windows Phone 8.1和Windows 10）的MQTT客户端.
 * [Machine Head](https://github.com/clojurewerkz/machine_head) -  Clojure MQTT客户端.
-* [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - 为每个服务器模拟多达100,000个MQTT客户端，用于开发/测试/部署IoT应用程序
+* [MIMIC MQTT Simulator](https://www.gambitcomm.com/site/mqttsimulator.php) - 为每个服务器模拟多达100,000个MQTT客户端，用于开发/测试/部署IoT应用程序.
 * [Moscapsule](https://github.com/flightonary/Moscapsule) - 用Swift编写的MQTT Client for iOS.
 * [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP) - 用于PHP的Mosquitto MQTT客户端库的包装器.
 * [mqtt_cpp](https://github.com/redboltz/mqtt_cpp) - 基于Boost.Asio的C ++ 14 MQTT客户端.
@@ -157,9 +164,9 @@
 
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - 与固定时间间隔发布到MQTT代理的操作系统相关数据.
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - 执行由已发布的MQTT消息触发的shell命令.
-* [mqttpc](https://github.com/hobbyquaker/mqttpc)   - 通过MQTT控制流程.  能够通过MQTT发送信号并将stdout / stderr或管道MQTT有效负载发布到stdin.
+* [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 * [psmqtt](https://github.com/eschava/psmqtt) - 通过MQTT公用事业报告系统健康和状态.
-* [WinThing](https://github.com/msiedlarek/winthing) Africa  - 通isticMQTT远程控制dorf.
+* [WinThing](https://github.com/msiedlarek/winthing) - 通过MQTT远程控制Windows.
 
 
 #### Monitoring
@@ -179,7 +186,7 @@
 * [graylog-plugin-mqtt](https://github.com/graylog-labs/graylog-plugin-mqtt) -  Graylog的MQTT输入插件.
 * [influx4mqtt](https://github.com/hobbyquaker/influx4mqtt) - 订阅MQTT主题并插入InfluxDB.
 * [mqtt2elasticsearch](https://github.com/hobbyquaker/mqtt2elasticsearch) - 将MQTT消息发送到Elasticsearch.
-* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
+* [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
 
@@ -192,7 +199,7 @@
 * [domiqtt](https://github.com/etobi/domiqtt) - 连接到Domiq Base（LCN）并从MQTT转换到MQTT.
 * [eno2mqtt](https://github.com/owagner/eno2mqtt) -  Enocean USB300（TCM310）适配器和MQTT之间的接口.
 * [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - 霍尼韦尔Evohome系统的MQTT接口.
-* [helios2mqtt](https://github.com/mreschka/helios2mqtt) - 用于将helios easy控制系统（如我的KWL EC 220D）同步到MQTT的守护程序.
+* [helios2mqtt](https://github.com/mreschka/helios2mqtt) - 用于将像我的KWL EC 220D这样的helios easy控制系统同步到MQTT的守护进程.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)   -  EQ-3 Homematic系列智能家居设备与MQTT之间的接口.  支持Homematic IP.
 * [homeeToMqtt](https://github.com/odig/homeeToMqtt) -  homee和MQTT之间的双向接口.
 * [HS100toMQTT](https://github.com/dersimn/HS100toMQTT) -  TPLink HS100 / HS110和MQTT之间的网关.
@@ -201,7 +208,7 @@
 * [knx2mqtt](https://github.com/owagner/knx2mqtt) -  KNX家庭自动化标准和MQTT之间的接口.
 * [mcsMQTT](https://shop.homeseer.com/products/mcsmqtt-software-plug-in-for-hs3) -  HS3插件（HomeSeer）.
 * [mqtt-dss-bridge](https://github.com/cgHome/mqtt-dss-bridge) -  MQTT digitalSTROM-Server Bridge.
-* [mqtt2homekit](https://github.com/forty2/mqtt2homekit) - 大致相反 [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)：使用MQTT控制启用HomeKit的设备，不使用Siri或iPhone.
+* [mqtt2homekit](https://github.com/forty2/mqtt2homekit) - 大致相反 [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt)：使用MQTT并且不使用Siri或iPhone来控制启用HomeKit的设备.
 * [node-lox-mqtt-gateway](https://github.com/alladdin/node-lox-mqtt-gateway) - 用于与MQTT代理通信的Loxone™迷你服务器的网关.
 * [smartthings-mqtt-bridge](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - 桥之间 [SmartThings](https://www.smartthings.com/) 和MQTT.
 * [Sonoff-Tasmota](https://github.com/arendst/Sonoff-Tasmota) - 具有本机MQTT支持的Sonoff设备的固件.
@@ -286,8 +293,8 @@
 * [miflora-mqtt-daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) -  Linux服务，将Xiaomi Mi Flora工厂传感器数据发送给MQTT代理.
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) - 将MQTT主题与BLE Gatt特性联系起来的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) - 具有任务集成Android应用程序的MQTT客户端.
-* [mqttDB](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface.
-* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - 用于Anki Overdrive的Node.js控制器和MQTT API.
+* [mqttDB](https://github.com/hobbyquaker/mqttDB) - 具有MQTT接口的JSON存储.
+* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - 使用MQTT控制Parrot AR Drone的示例代码.
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - 在Snowboy Hotword Detection上发布MQTT消息.
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - 运行speedtest-cli并通过MQTT发布结果.
@@ -310,8 +317,8 @@
 * [mqtt-svg-dash](https://github.com/jpmens/mqtt-svg-dash) - 订阅MQTT，从消息中提取JSON并使SVG页面上的指示灯闪烁.
 * [mqtt2highcharts](https://github.com/matbor/mqtt2highcharts) - 使用Highcharts从订阅的mqtt主题绘制实时编号数据.
 * [node-red-dashboard](https://github.com/node-red/node-red-dashboard) -  Node-RED的仪表板UI.
-* [thingsboard](https://thingsboard.io/) - 物联网项目的设备管理，数据收集，处理和可视化.
 
+可以在下面找到可用于创建可视化/仪表板的其他工具 [Platforms](#platforms) 和 [Smart Home Integration Software](#smart-home-integration-software).
 
 
 ### Architecture, Convention

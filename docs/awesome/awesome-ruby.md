@@ -191,7 +191,7 @@
 * [Barkeep](https://github.com/ooyala/barkeep)   -  Barkeep是一种快速，有趣的方式来审查代码.  工程组织可以使用它来保持高标准.
 * [Brakeman](https://github.com/presidentbeef/brakeman) - 用于Ruby on Rails应用程序的静态分析安全漏洞扫描程序.
 * [Cane](https://github.com/square/cane) - 代码质量阈值检查作为构建的一部分.
-* [Coverband](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.
+* [Coverband](https://github.com/danmayer/coverband) - 机架中间件，以帮助衡量生产代码的覆盖范围.
 * [Fasterer](https://github.com/DamirSvrtan/fasterer) - 使用这个命令行工具让你的红宝石更快地受到快速红宝石和Sferik在Baruco Conf的谈话的启发.
 * [Flay](https://github.com/seattlerb/flay)   -  Flay分析代码的结构相似性.  文字值，变量，类，方法名称，空格，编程风格，大括号与do / end等的差异都被忽略.  这完全是rad.
 * [Flog](https://github.com/seattlerb/flog)   -  Flog在易于阅读的痛苦报告中报告最受折磨的代码.  分数越高，代码就越痛苦.
@@ -245,7 +245,7 @@
 * [Figaro](https://github.com/laserlemon/figaro) - 使用`ENV`和单个YAML文件的简单，Heroku友好的Rails app配置.
 * [Global](https://github.com/railsware/global) - 为配置数据提供访问方法.
 * [RailsConfig](https://github.com/railsconfig/config) -  Rails3的多环境yaml设置.
-* [Sail](https://github.com/vinistock/sail) - 一个轻量级的Rails引擎，它带来一个管理面板，用于管理实时Rails应用程序上的配置设置.
+* [Sail](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
 
 ## Core Extensions
 
@@ -346,7 +346,7 @@
 * [time-lord](https://github.com/krainboltgreene/time-lord) - 为时间类添加额外的功能.
 * [time_diff](https://github.com/abhidsm/time_diff) - 计算两次之间的差异.
 * [timezone](https://github.com/panthomakos/timezone) - 准确的当前和历史时区和转换，支持Geonames和谷歌纬度 - 经度时区查找.
-* [TZinfo](https://github.com/tzinfo/tzinfo) - 在不同时区之间提供夏令时感知转换.
+* [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) -  ActiveModel和Rails的日期和时间验证插件.
 * [yymmdd](https://github.com/sshaw/yymmdd) - 用于惯用日期解析和格式化的小型DSL.
 
@@ -523,7 +523,7 @@
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) - 用于Ruby和C ++编程语言的2D游戏开发库.
-* [Yeah](https://github.com/yeahrb/yeah) - 实用的Ruby视频游戏框架.
+* [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
 
 ## Gem Generators
 
@@ -535,7 +535,7 @@
 * [Geocoder](https://github.com/alexreisner/geocoder)   -  Ruby的完整地理编码解决方案.  使用Rails，它可以添加地理编码（通过街道或IP地址），反向地理编码（根据给定的坐标查找街道地址）和距离查询.
 * [geoip](https://github.com/cjheath/geoip) - 在GeoIP数据库中搜索给定的主机或IP地址，并返回有关分配IP地址的国家/地区，城市，ISP和其他信息的信息.
 * [Geokit](https://github.com/geokit/geokit) -  Geokit gem提供地理编码和距离/航向计算.
-* [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - Enables easy Google map + overlays creation in Ruby apps.
+* [Google Maps for Rails](https://github.com/apneadiving/Google-Maps-for-Rails) - 在Ruby应用程序中轻松创建Google地图+叠加层.
 * [rgeo](https://github.com/rgeo/rgeo)   - 地理空间数据库.  空间数据类型，几何和球形计算以及WKT / WKB序列化.
 
 ## Git Tools
@@ -615,7 +615,7 @@
 * [rails-i18n](https://github.com/svenfuchs/rails-i18n) - 用于收集Rails I18n的Locale数据以及其他有趣的Rails相关I18n内容的存储库.
 * [r18n](https://github.com/ai/r18n) - 适用于Rails，Sinatra，桌面应用程序，模型的高级i18n库，适用于俄语等复杂语言.
 * [Termit](https://github.com/pawurb/termit) - 在您的终端中进行语音合成翻译.
-* [Tolk](https://github.com/tolk/tolk) - A web interface for doing i18n translations packaged as a Rails engine.
+* [Tolk](https://github.com/tolk/tolk) - 用于执行i18n翻译的Web界面，打包为Rails引擎.
 * [twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) - 使用Common Locale Data Repository来格式化日期，复数等的ICU（Unicode的Unicode组件）的Ruby实现.
 
 ## IRB
@@ -660,7 +660,7 @@
 
 ## Measurements
 
-* [Measured](https://github.com/Shopify/measured) - 包装器对象，它在Ruby中封装测量值及其相关单元.
+* [Measured](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
 * [Ruby Units](https://github.com/olbrich/ruby-units) - 提供执行单元数学和转换的类和方法.
 
 ## Mobile Development
@@ -766,13 +766,13 @@
 *社交
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) - 提供单个注释模型，可以附加到应用程序中的任何模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)   - 与acts_as_commentable类似;  但是，利用awesome_nested_set提供线程注释.
-  * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - 允许任何ActiveRecord模型遵循任何其他模型.
+  * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - Allow any ActiveRecord model to follow any other model.
   * [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - 用于Rails的活动记录信誉系统.
   * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) -  ActiveRecord的标记插件，允许沿动态上下文自定义标记.
   * [Acts As Votable](https://github.com/ryanto/acts_as_votable) - 允许任何ActiveRecord模型投票，如/不喜欢，upvote / downvote等.
   * [Merit](https://github.com/merit-gem/merit) - 以ActiveRecord或Mongoid的徽章，点数和排名的形式向Rails应用添加声誉行为.
   * [PublicActivity](https://github.com/chaps-io/public_activity) - 为Rails 3和4中的ActiveRecord，Mongoid 3和MongoMapper模型提供简单的活动跟踪.类似于Github的公共活动.
-  * [Simple Feed](https://github.com/kigster/simple-feed) - Fast and highly scalable read-optimized social activity feed library in pure Ruby, backed by Redis.
+  * [Simple Feed](https://github.com/kigster/simple-feed) - 纯Ruby中快速且高度可扩展的读取优化社交活动源库，由Redis提供支持.
   * [Unread](https://github.com/ledermann/unread) - 管理ActiveRecord对象的读/未读状态 - 而且速度很快.
 *排序
   * [ActsAsList](https://github.com/swanandp/acts_as_list) - 提供对列表中的多个对象进行排序和重新排序的功能.
@@ -789,6 +789,7 @@
 *宝石
   * [Bundler](https://bundler.io) - 轻松管理应用程序的gem依赖项.
   * [RubyGems](https://rubygems.org) - 社区的宝石托管服务.
+  * [Cloudsmith](https://cloudsmith.io) - 完全托管的软件包管理SaaS，支持Rubygems（以及许多其他软件）.
 *包和应用程序
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - 厨师食谱经理.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) -  Objective-C依赖管理器.
@@ -800,7 +801,7 @@
 
 ## Pagination
 
-* [Kaminari](https://github.com/amatsuda/kaminari) - A Scope & Engine based, clean, powerful, customizable and sophisticated paginator for modern web app frameworks and ORMs.
+* [Kaminari](https://github.com/amatsuda/kaminari) - 适用于现代Web应用程序框架和ORM的基于范围和引擎，干净，功能强大，可自定义和复杂的分页器.
 * [order_query](https://github.com/glebm/order_query) - 密钥集分页库，用于有效地查找与当前记录相关的下一个或上一个记录，例如，用于无限滚动.
 * [Pagy](https://github.com/ddnexus/pagy)   -  Pagy是最终的分页宝石，在每个基准和比较中都优于其他宝石.  更多细节可以在上找到 [Pagy Wiki](https://ddnexus.github.io/pagy/index).
 * [will_paginate](https://github.com/mislav/will_paginate) - 与Ruby on Rails，Sinatra，Merb，DataMapper和Sequel集成的分页库.
@@ -814,7 +815,7 @@
 * [Kitabu](https://github.com/fnando/kitabu) - 使用Ruby从Markdown / Textile文本标记创建电子书的框架.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - 使用wkhtmltopdf将HTML + CSS转换为PDF.
 * [Prawn](https://github.com/prawnpdf/prawn) - 用于Ruby的快速，灵活的PDF编写器.
-* [RGhost](https://github.com/shairontoledo/rghost) -  RGhost是一个文档创建和转换API.
+* [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
 * [Shrimp](https://github.com/adjust/shrimp) - 基于phantomjs的pdf渲染器.
 * [Squid](https://github.com/fullscreen/squid) -  Squid·用于在PDF文件中绘制图表的Ruby库
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) -  Ruby on Rails的PDF生成器（来自HTML）插件.
@@ -1189,7 +1190,7 @@
 * [Gitlab CI](https://about.gitlab.com/gitlab-ci/) - 与您的GitLab集成，为您的项目运行测试.
 * [GitLab](https://about.gitlab.com) - 开源软件，以协作代码.
 * [Hakiri](https://hakiri.io) - 发送安全的Ruby应用程序.
-* [HoundCI](https://houndci.com) - Review your Ruby code for style guide violations.
+* [HoundCI](https://houndci.com) - 检查您的Ruby代码是否存在样式指南违规.
 * [HuBoard](https://huboard.com) - 用于GitHub问题的看板.
 * [Inch CI](https://inch-ci.org/) -  Ruby项目的文档徽章.
 * [Nanobox](https://github.com/nanobox-io/nanobox) - 用于创建可在任何地方部署的一致，隔离的Ruby环境的微型PaaS（μPaaS）https://nanobox.io.

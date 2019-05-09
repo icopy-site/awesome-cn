@@ -61,13 +61,14 @@
 - [highlight.js](https://highlightjs.org/) - 为网络突出显示语法.
 
 ## Functions as a Service
+
 - [1Backend](https://1backend.com)   - 在几秒钟内部署后端.  包括免费套餐.  开源.
 - [AWS Lambda](https://aws.amazon.com/lambda/)   -  AWS Lambda允许您在不配置或管理服务器的情况下运行代码.  您只需为您消耗的计算时间付费
 - [Google Cloud Functions](https://cloud.google.com/functions/) - 创建响应云事件的单用途独立功能，而无需管理服务器或运行时环境
 - [Webtask by Auth0](https://webtask.io/) - 使用简单的HTTP在服务器上调用代码，比Lambda或Google更容易设置
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 由Microsoft  - 与Azure云上的Lambda相同的前提
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - 通过Iron.io  - 在多语言集装箱化环境中运行代码，具有无限规模和简单定价
-- [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有，公共或混合云.
+- [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有云，公共云或混合云.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的BlueMix托管平台的一部分，以及开源，很好地与他们的Watson AI生态系统联系在一起
 - [Zeit Now](https://zeit.co/now#features) -  Zeit Now允许人们以他们选择的语言将功能编写为服务，并作为monorepo的一部分进行部署.
 
@@ -94,7 +95,7 @@
 - [MailThis](http://mailthis.to/) - 通过带有可选附件的电子邮件简单提交表单.
 - [Simple Form](https://getsimpleform.com/) - 带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - 免费表单提交服务，您回复的电子邮件，同时保持您的电子邮件地址私密，是开源的.
-- [99 Inbound](https://www.99inbound.com) - Form endpoint service with email/Slack notifications and third party app integrations (e.g. MailChimp)
+- [99 Inbound](https://www.99inbound.com) - 使用电子邮件/ Slack通知和第三方应用程序集成形成端点服务（例如MailChimp）
 
 #### Normal Forms
 
@@ -108,7 +109,7 @@
 - [Typeform](http://www.typeform.com/) - 可嵌入的令人敬畏的形式.
 - [Wufoo](http://www.wufoo.com/) - 免费或付费 - 您可以使用表单设计器构建的表单，包括通知，报告和付款.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - 带有文件上传和验证码的表单.
-- [GitHub Issues](https://help.github.com/articles/about-issues/)   - 这是开发人员获得评论/问题的有趣方式.  看到 [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) 举个例子.
+- [GitHub Issues](https://help.github.com/articles/about-issues/)   - 这是开发人员获得评论/问题的有趣方式.  看到 [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
 - [Utterences](https://github.com/utterance/utterances) - 基于GitHub问题构建的轻量级注释小部件.
 - [FormBackend](https://www.formbackend.com)   - 创建表单后端并将HTML表单提交给我们的后端.  在线查看条目并连接到其他服务.  每次提交新条目时都会收到一封电子邮件.
 - [Pageclip](https://pageclip.co)   -  HTML表单的灵活服务器/后端.  在实时Web界面中查看数据，或使用API​​获取CSV和JSON输出.
@@ -162,9 +163,10 @@
 - [Payhip](https://payhip.com/) - 销售数字下载和会员资格的可嵌入方式
 - [Moltin](https://moltin.com/) - 为任何事物添加电子商务功能.
 - [Trolley](https://trolley.link/) - 为任何网站添加弹出式购物车 - 专为静态和JAMstack网站设计.
-
+- [Commerce Layer](https://commercelayer.io/) - 为您的JAMstack添加企业电子商务.
 
 ## Payments
+
  - [MoneyButton](https://www.moneybutton.com/) - 使用比特币（Satoshi的愿景）进行网站支付和捐赠.
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - 使用各种加密货币接受付款.
 

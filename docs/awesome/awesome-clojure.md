@@ -367,6 +367,7 @@
 
 ## Miscellaneous
 
+ * [potemkin](https://github.com/ztellman/potemkin) - 在另一个ns中重新导出vars /像clojure map一样行动
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)

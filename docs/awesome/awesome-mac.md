@@ -161,7 +161,7 @@
 * [Localname](http://localname.io/)   - 提供对本地开发服务器的访问.  ！[免费软件] [免费软件图标]
 * [MacSystemColors](https://github.com/kaunteya/MacSystemColors)   - 适用于Cocoa开发人员的Mac应用程序，可以在黑暗模式下显示所有系统颜色.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/kaunteya/MacSystemColors）
 * [MJML](https://mjmlio.github.io/mjml-app/)   - 利用语义语法和丰富的标准组件库的框架，允许用户轻松创建响应式电子邮件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mjmlio/mjml）
-* [PaintCode](https://www.paintcodeapp.com/) - PaintCode is a unique vector drawing app that generates Objective-C or Swift code in real time, acting as a bridge between developers and graphic designers.
+* [PaintCode](https://www.paintcodeapp.com/) -  PaintCode是一个独特的矢量绘图应用程序，可实时生成Objective-C或Swift代码，充当开发人员和图形设计人员之间的桥梁.
 * [PPRows](https://github.com/jkpang/PPRows)   - 用于计算您编写的代码行数的应用程序.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/jkpang/PPRows）
 * [SCM Breeze](https://github.com/scmbreeze/scm_breeze)   - 一组shell脚本（用于bash和zsh），增强了与git的交互.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/scmbreeze/scm_breeze）
 * [SecureCRT](https://www.vandyke.com/products/securecrt/) - 支持SSH，Telnet或其他协议的终端仿真.
@@ -196,7 +196,7 @@
 * [James](https://github.com/james-proxy/james)   - 使用http和https检查和映射请求的开源代理工具.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
 * [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - 带有世界地图的网络监视器，用于可视化网络连接.
 * [mitmproxy](https://mitmproxy.org/)   - 针对渗透测试人员和软件开发人员的交互式拦截HTTP代理.  [！[开源软件] [OSS图标]]（https://github.com/james-proxy/james）！[免费软件] [免费软件图标]
-* [Paw](https://luckymarmot.com/paw) - Advanced HTTP client.
+* [Paw](https://luckymarmot.com/paw) - 高级HTTP客户端.
 * [Proxie](https://proxieapp.com/)   -  HTTP调试代理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/cellist/id897814548）
 * [Proxyman](https://proxyman.app)   - 用于macOS的现代直观的HTTP调试代理.  ！[免费软件] [免费软件图标]
 * [Wireshark](https://www.wireshark.org)   - 世界上最重要和最广泛使用的网络协议分析仪.  [！[开源软件] [OSS图标]]（https://github.com/wireshark/wireshark）！[免费软件] [免费软件图标]
@@ -221,6 +221,7 @@
 * [hyper](https://hyper.is)   - 基于Web技术构建的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 * [iTerm2](http://www.iterm2.com) -  iTerm2是一个令人惊叹的OS X终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)   - 通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
+* [job](https://github.com/liujianping/job)   -  JOB，让你的短期指挥作为一项长期工作.  [！[开源软件] [OSS图标]]（https://github.com/liujianping/job）！[免费软件] [免费软件图标]
 * [lnav](http://lnav.org)   - 日志文件导航器.  [！[开源软件] [OSS图标]]（https://github.com/tstack/lnav）！[免费软件] [免费软件图标]
 * [m-cli](https://github.com/rgcr/m-cli)   - 用于macOS的瑞士军刀.  [！[开源软件] [OSS图标]]（https://github.com/rgcr/m-cli）！[免费软件] [免费软件图标]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)   - 管理Mac的终极工具.  自动化OS X系统的使用.  [！[开源软件] [OSS图标]]（https://github.com/guarinogabriel/Mac-CLI）！[免费软件] [免费软件图标]
@@ -328,8 +329,8 @@
 * [Alchemy](http://al.chemy.org/)   - 实验性，开源绘图应用程序，重点是创建概念艺术.  [！[开源软件] [OSS图标]]（http://svn.al.chemy.org/）
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 这是专为字体，排版，文本模型和各种艺术文字效果而调整的图形设计软件.
 * [Blender](https://www.blender.org/)   - 免费和开放的3D创作软件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://developer.blender.org/）
-* [Colorpicker](https://colorpicker.crea-th.at)   -  Colorpicker是一款完整的开源色彩处理工具，具有拾取功能！  [！[开源软件] [OSS图标]]（https://github.com/toinane/colorpicker）！[免费软件] [免费软件图标]
-* [Figma](https://www.figma.com/)   - 协作界面设计工具，用于矢量图形和UI原型设计.  ！[免费软件] [免费软件图标]
+* [Colorpicker](https://colorpicker.crea-th.at) - Colorpicker is a complete open-source colors manipulation tool with picking! [![Open-Source Software][OSS Icon]](https://github.com/toinane/colorpicker) ![Freeware][Freeware Icon]
+* [Figma](https://www.figma.com/) - The collaborative interface design tool, for vector graphics and UI prototyping. ![Freeware][Freeware Icon]
 * [FontForge](http://fontforge.github.io/)   - 免费的开源字体编辑器.  [！[开源软件] [OSS图标]]（https://github.com/fontforge）！[免费软件] [免费软件图标]
 * [GIMP](https://www.gimp.org) - The GNU Image Manipulation Program. [![Open-Source Software][OSS Icon]](https://www.gimp.org/source/#gimp-source-code)
 * [Gravit Designer](https://designer.io/)   - 全功能免费矢量设计应用程序就在您的指尖.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id1207744923）
@@ -366,7 +367,7 @@
 * [Framer](http://framerjs.com/) - 交互式原型制作工具.
 * [Justinmind](http://www.justinmind.com) - 适用于网络和移动应用的原型平台.
 * [Kite](https://kiteapp.co/) - 适用于Mac和iOS的强大动画和原型设计应用程序.
-* [Lighten](http://lighten.xmind.net/) - The best way to clarify thinking, boost productivity, brainstorm, and visualize concepts.
+* [Lighten](http://lighten.xmind.net/) - 澄清思考，提高生产力，集体讨论和概念化可视化的最佳方式.
 * [Loremify](http://loremify.com) -  Great Lorem ipsum generator.！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/loremify/id1028877632）
 * [Marvel](https://marvelapp.com/) - 简单的设计，原型设计和协作.！[免费软件] [免费软件图标]
 * [MindNode](http://mindnode.com/) - 思维导图软件，强调简单性和易用性.
@@ -386,7 +387,7 @@
 
 * [CloudApp](https://www.getcloudapp.com/)   - 以视线的速度工作.  ！[免费软件] [免费软件图标]
 * [Gifox](https://gifox.io/)   -  Gif录制和共享.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
-* [Kap](https://getkap.co/)   - 采用网络技术构建的开源屏幕录像机.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/kap）！[免费软件] [免费软件图标]
+* [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
 * [KeyCastr](https://github.com/keycastr/keycastr)   -  KeyCastr，一个开源击键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [Licecap](http://www.cockos.com/licecap/)   - 录制您的屏幕并导出到GIF.  您可以在录制过程中随时更改录制区域.  [！[开源软件] [OSS图标]]（https://github.com/justinfrankel/licecap）！[免费软件] [免费软件图标]
 * [Lightshot](https://app.prntscr.com/)   - 采用可自定义屏幕截图的最快方式.  ！[免费软件] [免费软件图标]
@@ -563,7 +564,7 @@
 
 * [Grammarly](https://app.grammarly.com/) - 优化你的英语
 * [iTranslate](http://www.itranslate.com/)   - 使用内置浏览器或iTranslate Safari扩展程序即时翻译整个网站，使用40多种语言.  ！[免费软件] [免费软件图标]
-* [Ludwig](https://ludwig.guru) - 语言搜索引擎，可以帮助您更好地用英语写作.
+* [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
 
 ## Security Tools
 
@@ -753,7 +754,7 @@
 * [Porting Kit](http://portingkit.com/)   - 在Mac中安装Windows®游戏.  ！[免费软件] [免费软件图标]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 用于管理SSH连接的应用程序.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持Mac的凉爽和健康.
-* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - Full read-write compatibility with NTFS-formatted drives on a Mac.
+* [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 与Mac上NTFS格式的驱动器完全读写兼容.
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) - 连接iPhone时停止打开iTunes.
 
 ## Gaming Software
