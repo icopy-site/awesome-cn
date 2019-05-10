@@ -18,7 +18,8 @@
 
 ## CSS
 
-- [DICSS](https://github.com/letsgetrandy/DICSS) - 直接注入CSS
+- [DICSS](https://github.com/letsgetrandy/DICSS) - 直接注入CSS.
+- [CSS-Only Chat](https://github.com/kkuchta/css-only-chat) - 在前端使用无JS的真正可怕的异步网络聊天.
 
 
 ## Elixir
@@ -34,7 +35,7 @@
 
 
 ## HTML
-- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - 用于视网膜显示的间隔gif
+- [retina-spacer-gif](https://github.com/ao5357/retina-spacer-gif) - 用于视网膜显示的间隔gif.
 
 
 ## Java
@@ -51,7 +52,7 @@
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) -  JavaScript错误Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - 从Stack Overflow自动完成您的JS.
 - [Object.toSting()](https://github.com/teropa/to-sting) - 将Sting的图像记录到开发控制台.
-- [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级音速，笨拙，类似激素的JavaScript库.
+- [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级声音，高性能，踢屁股的类固醇JavaScript库.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - 通用，跨文化和用户友好的方式显示数字.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -  H9RBS.js（v0.0001）是一个灵活的，无依赖，轻量级，设备无关，模块化，烘焙，组件框架MVC库鞋带，可以帮助您启动响应式基于CSS的应用程序架构骨干kitcheninkink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - 世界上最小，最快的JavaScript库.
@@ -67,12 +68,12 @@
 
 ## PHP
 
-- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [Phpunit VW](https://github.com/hmlb/phpunit-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
 
 
 ## Python
 
-- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [PyTest-VW](https://github.com/The-Compiler/pytest-vw) - 大众使失败的测试用例在持续集成工具中取得成功.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) -  Python对臭名昭着的npm问题的解决方案.
 - [Like-my-GF](https://github.com/cyandterry/Like-My-GF) - 这是一个喜欢你女朋友在Instagram上的帖子的自动机器人.
 
@@ -97,16 +98,16 @@
 
 ## SaaS
 
-- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - 提供现代，REST，可扩展的解决方案，解决告诉人们他妈的常见问题.
+- [Fuck off as a Service](https://github.com/tomdionysus/foaas) - 为告诉人们滚蛋的常见问题提供现代，REST，可扩展的解决方案.
 - ~~[Booleans as a Service](https://booleans.io/) - 创建，读取，更新和删除布尔值.~~
 - [/dev/null as a Service](https://devnull-as-a-service.com) - 第一个DaaS提供商.
-- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - 企业废话生成器随机选择短语，这可以帮助您的应用程序在旋转，流行语和模糊性至高无上的行业中领先.
+- [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - 企业废话生成器随机选择短语，这可以帮助您的应用程序在旋转，流行语和模糊性至高无上的行业中取得领先.
 - [shoutcloud.io](http://shoutcloud.io/)   - 所有大写作为服务.  ⬆️
 
 
 ## Browser extensions
 
-- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) -  Chrome扩展程序用“我的屁股”替换“云”的出现.
+- [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) -  Chrome扩展程序用“我的屁股”取代“云”的出现.
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) - 外向的隐身模式.
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - 阻止任何非广告内容.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)   -  Youtube Notch Mode是一个镀铬扩展，可以将iPhone X顶部看到的丑陋的黑色切口添加到每个Youtube视频中.  为什么？  因为它更漂亮.
@@ -135,8 +136,8 @@
 
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode)   - 编写安全可靠应用程序的最佳方式.  什么都不写;  无处部署.
-- [Volkswagen](https://github.com/auchenberg/volkswagen) - 大众汽车检测您的测试何时在CI服务器中运行，并使它们通过.
-- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza提供商的Terraform插件.
+- [Volkswagen](https://github.com/auchenberg/volkswagen) - 大众汽车检测到您的测试何时在CI服务器中运行，并使它们通过.
+- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
 
 
 

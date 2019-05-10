@@ -161,7 +161,7 @@
 
 *持续集成/部署软件.*
 
-- [Buildbot](http://buildbot.net/)   - 基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）``GPL-2.0``Python`
+- [Buildbot](http://buildbot.net/)   - 基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）``GPL-2.0`Python`
 - [CapsuleCD](https://analogj.github.io/capsulecd-slides/)   - 用于自动化软件包/库发布的CD脚本（npm，cookbooks，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT``Go`
 - [Concourse](https://concourse.ci/)   -  Concourse是一种CI工具，可将管道视为头等对象，并在此过程中的每一步都包含容器.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）``Apache-2.0``Go`
 - [drone](https://drone.io/)   -  Drone是一个基于Docker的持续交付平台，用Go编写.  （[Source Code](https://github.com/drone/drone)）``Apache-2.0``Go`
@@ -193,10 +193,7 @@
   * [PDNS Gui](https://github.com/odoucet/pdns-gui) -  WebGUI，它有助于使用MySQL管理PowerDNS的域和记录.
   * [Pi-hole](https://pi-hole.net/) - 用于互联网广告的黑洞，带有用于管理和监控的gui
   * [Poweradmin](http://www.poweradmin.org/) - 适用于PowerDNS服务器的友好的基于Web的DNS管理工具.
-*修订控制
-  * [iF.SVNAdmin](http://svnadmin.insanefactory.com/) -  WebGUI来管理Subversion存储库和用户/组权限.
-  * [SCM-Manager](https://www.scm-manager.org/) - 分享和管理Git，Mercurial和Subversion存储库的最简单方法.
-  * [WebSVN](https://websvnphp.github.io/) -  Opensource web subversion存储库浏览器.
+*修订控制：见 [awesome-selfhosted#project-management](https://github.com/Kickball/awesome-selfhosted#project-management)
 * 虚拟化
   * [Feathur](http://feathur.com) -  VPS供应和管理软件.
   * [OpenVZ Web Panel](https://github.com/sibprogrammer/owp) - 用于控制OpenVZ虚拟机的Web面板.
@@ -210,7 +207,7 @@
 
 *支持部署到服务器的工具和脚本.*
 
-* [Capistrano](http://capistranorb.com/) - 将您的应用程序同时，按顺序或通过SSH（基于rake）的滚动集部署到任意数量的计算机上.
+* [Capistrano](http://capistranorb.com/) - 将您的应用程序同时，按顺序或通过SSH（基于rake）的滚动集部署到任意数量的计算机.
 * [Fabric](http://www.fabfile.org/) -  Python库和cli工具，用于简化SSH在应用程序部署或系统管理任务中的使用.
 * [Mina](http://nadarei.co/mina/) - 真正快速的部署和服务器自动化工具（基于rake）.
 * [munki](https://www.munki.org/munki/) - 基于Webserver的软件包和软件包元数据存储库，允许macOS管理员管理软件安装.
@@ -322,7 +319,7 @@
 
 *日志管理工具：收集，解析，可视化...... *
 
-* [Elasticsearch](https://www.elastic.co/) - 基于Lucene的文档存储主要用于日志索引，存储和分析.
+* [Elasticsearch](https://www.elastic.co/) - 基于Lucene的文档存储，主要用于日志索引，存储和分析.
 * [Fluentd](http://www.fluentd.org/) - 日志收集器和托运人.
 * [Flume](https://flume.apache.org/) - 分布式日志收集和聚合系统.
 * [GoAccess](http://goaccess.io/)   - 在终端或浏览器中运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）`MIT`` C`
@@ -348,7 +345,7 @@
 * [Adagios](http://adagios.org/) - 用于配置和监控的基于Web的Nagios接口（替换为标准接口）和REST接口， [SourceCode](https://github.com/opinkerfi/adagios), [Documentation](https://github.com/opinkerfi/adagios/wiki))
 * [Alerta](https://github.com/guardian/alerta) - 分布式，可扩展和灵活的监控系统.
 * [Bloonix](https://bloonix.org)   -  Bloonix是一种监控解决方案，可帮助企业确保高可用性和性能.  `GPLv3``Perl`
-* [bolo](http://bolo.niftylogic.com/) - A Do-it-Yourself monitoring framework built to gather metrics, mine data and report on the systems in your network.
+* [bolo](http://bolo.niftylogic.com/) - 一个自己动手的监控框架，用于收集指标，挖掘数据并报告网络中的系统.
 * [Bosun](http://bosun.org/) -  Stack Exchange监控和警报系统（[Source Code](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)）`MIT``Go`
 * [Cacti](http://www.cacti.net) - 基于Web的网络监控和图形工具.
 * [Cabot](http://cabotapp.com/) - 监控和警报，类似于PagerDuty.
@@ -495,7 +492,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
   * [adminer](https://www.adminer.org/) - 单个PHP文件中的数据库管理（[Source code](https://github.com/vrana/adminer))
 * [Percona Server](https://www.percona.com/software) - 增强的，免费的MySQL替代品.
 * [PostgreSQL](http://www.postgresql.org/) - 对象关系数据库管理系统（ORDBMS）.
-* [PostgreSQL-XL](http://www.postgres-xl.org/) - 可扩展的基于PostgreSQL的数据库集群.
+* [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
 * [SQLite](http://sqlite.org/) - 实现自包含，无服务器，零配置，事务性SQL DBS的库.
 
 ## Remote Management
@@ -562,12 +559,12 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 * [ConVirt](http://www.convirture.com/products_opensource.php) - 提供集中管理KVM或Xen虚拟化环境的核心功能.
 * [Ganeti](http://www.ganeti.org/) - 基于KVM和Xen构建的集群虚拟服务器管理软件工具.
 * [KVM](http://www.linux-kvm.org) -  Linux内核虚拟化基础架构.
-* [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
+* [OpenNebula](http://opennebula.org/) - 灵活的企业云变得简单.
 * [OpenNode](http://opennodecloud.com) - 构建开源基础架构管理软件并实施云系统.
 * [oVirt](http://www.ovirt.org/) - 管理虚拟机，存储和虚拟网络.
 * [Packer](https://www.packer.io/) - 用于从单一源配置为多个平台创建相同机器映像的工具.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - 虚拟化管理解决方案.
-* [QEMU](http://www.qemu.org/) -  QEMU是一个通用的机器模拟器和虚拟器.
+* [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - 构建完整开发环境的工具.
 * [VirtualBox](https://www.virtualbox.org/) -  Oracle Corporation的虚拟化产品.
 * [Xen](http://www.xenproject.org/) - 用于32/64位Intel / AMD（IA 64）和PowerPC 970架构的虚拟机监视器.
@@ -667,7 +664,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 * [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com)   - 您的首选SysAdmin工具箱.  根据这里的清单.
 * [Ops School](http://www.opsschool.org) - 全面的计划，将帮助您学习成为一名运营工程师.
-* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 获取某些应用程序，工具甚至系统管理主题的基础知识的惊人资源.
+* [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - 获取某些应用程序，工具甚至系统管理主题基础知识的惊人资源.
 
 ## Wikis
 

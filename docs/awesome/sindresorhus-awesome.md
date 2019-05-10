@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+	 <sub>只需输入<a href="https://awesome.re"><code>awesome.re</code></a>即可.</sub>  <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter上</a>关注我.</sub>
 </p>
 <br>
 
@@ -41,7 +41,7 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于Chrome的V8 JavaScript引擎构建的异步非阻塞事件驱动的JavaScript运行时.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) -  Apple手机和平板电脑的移动操作系统.
@@ -72,11 +72,12 @@
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
+- [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - 虚拟家庭助理.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - 为开发人员设计的云计算平台.
-- [Flutter](https://github.com/Solido/awesome-flutter#readme) -  Google的移动SDK，用于使用Dart编写的单一代码库构建原生iOS和Android应用程序.
+- [Flutter](https://github.com/Solido/awesome-flutter#readme) -  Google的移动SDK，用于使用Dart编写的单个代码库构建原生iOS和Android应用程序.
 - [Home Assistant](https://github.com/frenck/awesome-home-assistant#readme) - 开源家庭自动化，将本地控制和隐私放在第一位.
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于Google Cloud Platform构建的应用开发平台.
@@ -168,7 +169,7 @@
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发Web组件的JavaScript库.
 - [Angular](https://github.com/gdi2290/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
-- [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用的标记语言.
+- [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
@@ -190,7 +191,7 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - 功能和反应式JavaScript框架.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - 应用程序框架.
@@ -273,6 +274,7 @@
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
 - [Functional Programming](https://github.com/lucasviola/awesome-functional-programming#readme)
+- [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎.
 
@@ -536,6 +538,7 @@
 - [Economics](https://github.com/antontarasenko/awesome-economics#readme) - 经济学家的入门套件.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
+- [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
 - [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择下一个配色方案.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字分销平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 建造机器人.
@@ -593,6 +596,9 @@
 - [Amazon Sellers](https://github.com/ScaleLeap/awesome-amazon-seller#readme)
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
+- [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
+- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
+- [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 
 
 ## Related

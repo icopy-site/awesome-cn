@@ -37,9 +37,10 @@
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端收听SomaFM.
 - [nehm](https://github.com/bogem/nehm) - 从SoundCloud下载曲目.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
-- [ncmpcpp](https://github.com/arybczak/ncmpcpp) - 基于Ncurses的音乐播放器守护程序客户端.
+- [ncmpcpp](https://github.com/arybczak/ncmpcpp) -  mpd客户端.
 - [moc](http://moc.daper.net/) - 适用于Linux / UNIX的控制台音频播放器.
 - [musikcube](https://github.com/clangen/musikcube) - 跨平台，基于终端的音乐播放器，音频引擎，元数据索引器和服务器.
+- [beets](https://github.com/beetbox/beets) - 音乐库管理员和标记器.
 
 ### Social Media
 
@@ -56,6 +57,7 @@
 - [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
 - [streamlink](https://github.com/streamlink/streamlink) - 将各种网站的流提取到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -  Youtube播放器.
+- [mpv](https://mpv.io) - 高级视频播放器.
 
 ### Movies
 - [moviemon](https://github.com/iCHAIT/moviemon) - 关于你电影的一切.
@@ -247,7 +249,7 @@
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.
-- [tmate.io](https://tmate.io/) - 即时终端（tmux）共享.
+- [tmate](https://tmate.io/) - 即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
 - [OverTime](https://github.com/diit/overtime-cli) - 远程团队的时间重叠表.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 剥离复制粘贴终端命令之前的&#39;$&#39;.
@@ -323,7 +325,7 @@
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - 用于监视文件系统更改的CLI.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - 检测文件或标准输入的文件类型.
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
-- [bat](https://github.com/sharkdp/bat) - 带翅膀的猫（1）克隆.
+- [bat](https://github.com/sharkdp/bat) - 具有语法突出显示的cat克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
 - [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.

@@ -1289,6 +1289,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [extemplate](https://github.com/dannyvankooten/extemplate) - 围绕html /模板的微小包装，以允许轻松的基于文件的模板继承.
 * [fasttemplate](https://github.com/valyala/fasttemplate)   - 简单快速的模板引擎.  替换模板占位符的速度比快10倍 [text/template](http://golang.org/pkg/text/template/).
 * [gofpdf](https://github.com/jung-kurt/gofpdf) -  PDF文档生成器，支持文本，绘图和图像.
+* [goview](https://github.com/foolin/goview) -  Goview是一个轻量级，极简主义和惯用的模板库，基于golang html / template构建Go Web应用程序.
 * [hero](https://github.com/shiyanhui/hero) -  Hero是一款方便，快速且功能强大的模板引擎.
 * [jet](https://github.com/CloudyKit/jet) -  Jet模板引擎.
 * [kasia.go](https://github.com/ziutek/kasia.go) - 用于HTML和其他文本文档的模板系统 - 实现.
@@ -1422,7 +1423,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [toml](https://github.com/BurntSushi/toml) -  TOML配置格式（带反射的编码器/解码器）.
 * 效用
     * [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) - 针对Go的基于消毒的脏化过滤器.
-    * [gotabulate](https://github.com/bndr/gotabulate) - 使用Go轻松漂亮地打印表格数据.
+    * [gotabulate](https://github.com/bndr/gotabulate) - Easily pretty-print your tabular data with Go.
     * [kace](https://github.com/codemodus/kace) - 涉及常见初始主义的常见案例转换.
     * [parseargs-go](https://github.com/nproc/parseargs-go) - 理解引号和反斜杠的字符串参数解析器.
     * [parth](https://github.com/codemodus/parth) -  URL路径分段解析.
@@ -1587,7 +1588,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [mole](https://github.com/davrodpin/mole) -  cli app轻松创建ssh隧道.
 * [mssqlx](https://github.com/linxGnu/mssqlx)   - 数据库客户端库，任何主从属的代理，主主结构.  轻量化和自动平衡.
 * [multitick](https://github.com/VividCortex/multitick) - 用于对齐的代码的多路复用器.
-* [myhttp](https://github.com/inancgumus/myhttp) - Simple API to make HTTP GET requests with timeout support.
+* [myhttp](https://github.com/inancgumus/myhttp) - 使用超时支持发出HTTP GET请求的简单API.
 * [netbug](https://github.com/e-dard/netbug) - 轻松远程分析您的服务.
 * [okrun](https://github.com/xta/okrun) - 去运行错误压路机.
 * [olaf](https://github.com/btnguyen2k/olaf) - 在Go中实施Twitter Snowflake.

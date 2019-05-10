@@ -27,7 +27,7 @@
 ### Windows
 - [Windows Calculator](https://github.com/Microsoft/calculator) -  Windows附带的简单而强大的计算器
 - [HiPER Scientific Calculator (Windows Edition)](http://hiperdevelopment.wixsite.com/hipercalc) - 具有许多功能的高级科学计算器.
-- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - 适用于Windows的无界面计算器，可让您在不必离开正在键入的行的情况下进行基本数学运算.
+- [in-line calculator (AutoHotkey Calculator)](https://github.com/davebrny/in-line-calculator) - 适用于Windows的无接口计算器，可让您在不必离开正在键入的行的情况下进行基本数学运算.
 - [Old Windows 7/8 Calculator in Windows 10](https://winaero.com/download.php?view.1795) - 在Windows 10中使用旧的Windows 7/8计算器的机会.
 - [GraphCal](http://www.graphcalc.com/) - 具有独特功能的专业计算器.
 
@@ -56,7 +56,6 @@
 - [Web 2.0 Scientific Calculator](http://web2.0calc.com/) - 在线计算器，提供对学校或大学有用的基本和高级数学函数.
 - [Calculator.js](https://material-calculator.netlify.com/) - 具有漂亮的Google Material Design界面的开源Web计算器.
 - [Notepad Calculator](http://notepadcalculator.com/) - 具有用户友好，独特的记事本界面的计算器.
-- [BeanCounter](https://josephlewis.net/apps/BeanCounter/) - 快速网络计算器，将显示您的数学问题的表示.
 - [Calculator.net](http://www.calculator.net/) - 各种计算器的大量收藏.
 
 ## Resources

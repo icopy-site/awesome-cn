@@ -240,7 +240,7 @@
 - [JeremyHarris/LazyLoad plugin](https://github.com/jeremyharris/cakephp-lazyload) - 实体的关联延迟加载器.
 - [Lqdt/OrmJson plugin](https://github.com/liqueurdetoile/cakephp-orm-json) - 通过CakePHP ORM在JSON类型字段中选择，查找，获取和设置属性和值的行为和特征.
 - [Money plugin](https://github.com/gourmet/money) - 使用CakePHP实体的Money数据类型 [sebastianbergmann/money](https://github.com/sebastianbergmann/money).
-- [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - 允许设置表的默认顺序.
+- [Muffin/Orderly plugin](https://github.com/usemuffin/orderly) - 允许设置表格的默认顺序.
 - [Muffin/Trash plugin](https://github.com/usemuffin/trash) -  CakePHP的软删除行为.
 - [PersistRelatedData plugin](https://github.com/riesenia/persist-related-data) - 用于保留相关模型的选定字段的行为.
 - [Robotusers/Excel plugin](https://github.com/robotusers/cakephp-excel) -  PHPExcel的ORM包装器.
@@ -273,7 +273,6 @@
 - [Cors plugin](https://github.com/snelg/cakephp-cors) - 一个轻量级插件，用于将CORS头添加到指定的端点.
 - [CrudJsonApi plugin](https://github.com/FriendsOfCake/crud-json-api) - 建筑用的聆听者 [JSON API](http://jsonapi.org/) 兼容的API.
 - [FractalTransformerView plugin](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - 允许使用的插件 [Fractal transformers](http://fractal.thephpleague.com/transformers/) 为您的API输出.
-- [JsonApi plugin](https://github.com/josbeir/cakephp-json-api) - 实现 [JSON API](http://jsonapi.org/) 格式.
 - [RestApi plugin](https://github.com/multidots/cakephp-rest-api) - 为构建REST API服务提供基本支持.
 
 ## Search

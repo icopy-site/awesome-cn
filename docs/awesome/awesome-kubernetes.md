@@ -442,8 +442,12 @@ Projects
 * [Argo](https://github.com/argoproj/argo) -  Kubernetes的工作流程引擎
 * [Bitnami Kubernetes Production Runtime](https://kubeprod.io)
 * [Fission Workflows](https://github.com/fission/fission-workflows) - 基于工作流程的无服务器功能组合
+* [Forecastle](https://github.com/stakater/Forecastle) - 仪表板，可动态发现并提供启动板以访问部署在Kubernetes上的应用程序
+* [Git Webhook Proxy](https://github.com/stakater/GitWebhookProxy) - 让webhooks在防火墙后面运行服务的代理
 * [Hypernetes](https://github.com/hyperhq/hypernetes)
+* [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) - 监视入口端点并自动在配置的正常运行时间检查程序中注册活动警报
 * [kmachine](https://github.com/skippbox/kmachine)
+* [KEDA](https://github.com/kedacore/keda) - 基于Kubernetes的事件驱动自动缩放
 * [kube-fledged](https://github.com/senthilrch/kube-fledged) - 一个K8S附加组件，用于直接在集群工作节点上创建和管理容器映像的缓存
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)
@@ -452,6 +456,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
+* [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSets和DaemonSets的pod中
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
 
 ## Package Managers
@@ -471,7 +476,6 @@ Projects
 * [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
-* [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -  Kubernetes控制器，用于监控您的入口并为您的终端创建活动警报
 * [Instana](https://instana.com)
 * [kail](https://github.com/boz/kail)   -  Kubernetes日志查看器.  Streams从所有匹配pod的所有容器中记录.
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
@@ -515,12 +519,12 @@ Projects
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](http://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
-   * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/VirtusLab/jenkins-operator)
+   * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
 * [Jenkins X](http://jenkins-x.io/) - 针对Kubernetes的自动CI / CD，使用GITOps促销和预览环境，使用最佳OSS工具，如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow
 * [Apollo](https://github.com/logzio/apollo) - 开源应用程序，为团队提供自助服务UI，以便为Kubernetes创建和部署服务.
 * [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
 * [Buildkite](https://github.com/buildkite/charts) - 精益CI / CD云托管控制平面与您的基础架构上的代理.
-* [Codefresh](https://codefresh.io/) - Kubernetes CI/CD platform (with private Docker and Helm Chart repositories)
+* [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
 * [k8s-deploy-helper](https://github.com/lifechurch/k8s-deploy-helper) - 通过GitLab轻松部署Kubernetes应用程序的框架.
 * [kb8or](https://github.com/UKHomeOffice/kb8or)
@@ -683,7 +687,7 @@ Projects
 * [click](https://github.com/databricks/click) -  CLI专注于REPL，可快速与Kubernetes对象进行交互.
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - 使用go-prompt构建的交互式kubernetes客户端.
-* [kube-ps1](https://github.com/jonmosco/kube-ps1) -  Kubernetes提示帮助bash和zsh.
+* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - 用于使用Kubernetes CLI的集成外壳
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -  Kubernetes tmux插件，用于显示当前上下文和命名空间
 * [Kubebot](https://github.com/harbur/kubebot)
@@ -749,6 +753,7 @@ Projects
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - 帮助构建自适应和细粒度的pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) - 为在Kubernetes上运行的pod提供不同的AWS IAM角色
 * [Kubesec.io](http://kubesec.io/)
+* [Pomerium](http://www.pomerium.io/) - 受BeyondCorp启发的零信任身份感知访问代理.
 * [Rakkess](https://github.com/corneliusweig/rakkess) -  Kubectl插件，显示所有可用资源的访问矩阵.
 * [Sysdig Falco](http://www.sysdig.org/falco/)
 * [Sysdig Secure](http://www.sysdig.com/product/secure)
@@ -764,7 +769,7 @@ Projects
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
 * [Contour](https://github.com/heptio/contour) -  Lyft&#39;s Envoy代理的Kubernetes入口控制器
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
-* [Gimbal](https://github.com/heptio/gimbal) - Platform capable of routing traffic to multiple Kubernetes and OpenStack clusters
+* [Gimbal](https://github.com/heptio/gimbal) - 能够将流量路由到多个Kubernetes和OpenStack集群的平台
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
 * [HAProxy Ingress](https://github.com/jcmoraisjr/haproxy-ingress)
 * [Linode NodeBalancer Ingress](https://github.com/linode/linode-cloud-controller-manager)
@@ -820,7 +825,7 @@ Projects
 ## Backup and Disaster Recovery
 
 * [Velero](https://github.com/heptio/velero)   - 用于管理Kubernetes集群的备份和还原的实用程序.  以前是Heptio Ark.
-* [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
+* [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
 
@@ -845,7 +850,7 @@ Books
 
 * [Cloud Native DevOps with Kubernetes](http://shop.oreilly.com/product/0636920175131.do) 通过 [John Arundel](https://twitter.com/bitfield), [Justin Domingus](https://justindomingus.com/) ([blog](https://cloudnativedevopsblog.com))
 * [DevOps with Kubernetes](https://www.packtpub.com/virtualization-and-cloud/devops-kubernetes) by Hideto Saito, Hui-Chuan Chloe Lee, Cheng-Yang Wu
-* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer), Jianbo Sun and ZJU SEL lab
+* [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier

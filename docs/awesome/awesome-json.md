@@ -25,8 +25,7 @@
 * [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder)） - 像在Finder中一样浏览.
 
 **Firefox**
-* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)） - 在浏览器中查看JSON文档.
-* [JSON-DataView](https://addons.mozilla.org/en-US/firefox/addon/json-dataview/) ([github](https://github.com/warren-bank/moz-json-data-view)） - 以具有语法高亮的可折叠树结构显示数据.
+* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
 
 **Safari**
 * [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)） - 格式和语法使用ACE编辑器突出显示在Web浏览器内部查看的JSON.
@@ -44,12 +43,12 @@
 * [jid](https://github.com/simeji/jid)   - 增量挖掘机.  使用jq等过滤查询以交互方式深入研究JSON.
 * [jiq](https://github.com/fiatjaf/jiq)   - 这是``jq`和`jq`.  您可以使用`jq`过滤查询以交互方式向下钻取.
 * [jv](https://github.com/maxzender/jv) -  jv（用于jsonviewer）可以帮助您查看JSON.
-* [jl](https://github.com/chrisdone/jl) - Functional sed for JSON.
+* [jl](https://github.com/chrisdone/jl) -  JSON的功能sed.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - 开源文档数据库和领先的NoSQL数据库.
 * [RethinkDB](https://rethinkdb.com/) - 一个开源的分布式文档数据库，具有令人愉快和强大的查询语言.
-* [EJDB](http://ejdb.org/)   - 嵌入式JSON数据库引擎.  （C）
+* [EJDB](https://github.com/Softmotions/ejdb)   - 在MIT许可下发布的嵌入式JSON数据库引擎.  （C）
 * [lowdb](https://github.com/typicode/lowdb)   - 基于lodash API构建的平面文件数据库.  （JavaScript）
 * [Lawnchair](https://github.com/brianleroux/lawnchair)   - 轻量级的客户端文档存储.  （JavaScript）
 * [JSON ODM](https://github.com/konsultaner/jsonOdm)   - 用于在服务器或浏览器中使用的JavaScript的对象文档映射器.  （JavaScript）
@@ -63,7 +62,7 @@
 * [country.io](http://country.io/data/) - 各种国家相关数据集，如JSON inc货币，国家代码，名称等
 * [countries](https://github.com/mledoze/countries) - 世界国家.
 * [vat-rates](http://jsonvat.com/) - 所有欧盟国家的增值税税率.
-* [MTG JSON](http://mtgjson.com/) - 最新的Magic the Gathering卡数据.
+* [MTG JSON](https://mtgjson.com/) - 最新的Magic the Gathering卡数据.
 * [Heartstone JSON](https://hearthstonejson.com/) - 最新的炉石信息卡数据.
 * [getCountries()](http://peric.github.io/GetCountries/) - 自定义国家数据的生成器.
 
@@ -86,7 +85,7 @@
 * [JSONEdit](http://mb21.github.io/JSONedit/) - 用户友好的可视化编辑器，构建为AngularJS指令.
 
 ## Format Extensions
-* [GeoJSON](http://geojson.org/) - 地理空间数据交换格式.
+* [GeoJSON](https://geojson.org/) - 地理空间数据交换格式.
 * [JSON-LD](https://json-ld.org/) - 轻量级关联数据格式.
 * [JSON-RPC](https://www.jsonrpc.org/) - 无状态，轻量级远程过程调用（RPC）协议.
 * [JSONP](https://en.wikipedia.org/wiki/JSONP) - 使用JSON-P / JSONP更安全的跨域Ajax.
@@ -133,7 +132,7 @@
 * [JSON-Fortran](https://github.com/jacobwilliams/json-fortran) - 用于编写，读取和操作JSON文件和数据结构的Fortran库.
 
 **Haskell**
-* [aeson-qq](https://github.com/sol/aeson-qq) -  Haskell的JSON quasiquoter.
+* [aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
 * [json-schema](http://hackage.haskell.org/package/json-schema) -  Haskell的JSON Schema库
 * [hjsonschema](http://hackage.haskell.org/package/hjsonschema) -  Haskell的JSON Schema Draft 4库
 
@@ -191,7 +190,6 @@
 * [JSON Lint](https://github.com/Seldaek/jsonlint)   -  PHP linter.  （PHP）
 
 ## Online tools
-* [JSON Data Ninja](http://www.jsondata.ninja) - 可视化和探索表格JSON数据的最有效方式.
 * [JSONLint](https://jsonlint.com/) -  JSON验证器.
 * [JSONCompare](https://jsoncompare.com/) -  JSON Linter的高级版本.
 * [JSONMate](http://jsonmate.com/) -  JSON编辑，检查员和美化师.
@@ -200,7 +198,7 @@
 * [JSON Formatter and Validator](https://jsonformatter.curiousconcept.com/) - 格式化程序，以帮助调试.
 * [JSON Generator](https://www.json-generator.com/) - 用于生成随机数据的工具.
 * [FakeJSON](https://fakejson.com/) -  Web API，可快速为您的应用程序生成虚假数据. 
-* [JSON to CSV](http://konklone.io/json/) - 免费的浏览器内JSON到CSV转换器. 
+* [JSON to CSV](https://konklone.io/json/) - 免费的浏览器内JSON到CSV转换器. 
 * [CSV to JSON](https://mango-is.com/tools/csv-to-json/) - 简单，隐私友好和离线首先在线csv到json转换器
 * [json2csharp](http://json2csharp.com/) - Generate c# classes from a json string or url.
 * [JSON Utils](http://jsonutils.com/) - Site for generating C#, VB.Net, and Javascript classes from JSON.
@@ -222,15 +220,16 @@
 * [Rx](http://rx.codesimply.com/) - 简单，可扩展的架构.
 
 ## Services
+* [Exchange Rate API](https://www.exchangerate-api.com) - 货币汇率数据的简单免费API.
 * [ipinfo.io](https://ipinfo.io) -  JSON IP和GeoIP REST API.
-* [JSONProxy](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [JSONProxy](https://github.com/afeld/jsonp) - 简单的HTTP代理，支持对任何JSON API的跨域请求.
 * [Myjson](http://myjson.com/) - 适用于您的网络或移动应用的简单商店.
 * [Telize](http://www.telize.com/) -  JSON IP和GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - 一个简单的JSON存储平台.
 * [JSONP Proxy](https://github.com/fcambus/jsonp-proxy) -  REST API，允许从任何API获取JSONP.
 
 ## Supersets
-* [YAML](http://yaml.org) - 适用于所有编程语言的人性化数据序列化标准.
+* [YAML](https://yaml.org) - 适用于所有编程语言的人性化数据序列化标准.
 * [HanSON](https://github.com/timjansen/hanson) - 人类的JSON  - 带有不带引号的标识符，多行字符串和注释.
 * [μson](https://github.com/burningtree/uson) （uson） -  JSON的简写.
 * [HOCON](https://github.com/lightbend/config/blob/master/HOCON.md) - 人类优化的配置对象表示法.
@@ -278,7 +277,7 @@
 * [trans](https://github.com/gabesoft/trans)   - 最终的物体变压器.  （JavaScript）
 * [osmtogeojson](https://github.com/tyrasd/osmtogeojson)   - 将OSM数据转换为GeoJSON.  （JavaScript）
 * [fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - 快速XML到JSON，反之亦然javascript / JSON转换.
-* [x2js](https://github.com/abdmob/x2js)   -  XML到JSON，反之亦然javascript转换功能.  （JavaScript）
+* [x2js](https://github.com/abdolence/x2js)   -  XML到JSON，反之亦然javascript转换功能.  （JavaScript）
 * [JSONC](https://github.com/tcorral/JSONC)   -  JSON压缩器和解压缩器.  （JavaScript）
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - 将嵌套结构映射到PHP类（PHP）
 * [SassyJSON](https://github.com/HugoGiraudel/SassyJSON)   -  Sass驱动的API.  （萨斯）
@@ -300,7 +299,7 @@
 * [JSON Mask](https://github.com/nemtsov/json-mask)   - 用于选择JS对象的特定部分的小型语言和引擎，隐藏其余部分.  （JavaScript）
 * [JSONiq](http://www.jsoniq.org/) -  JSON查询语言.
 * [ObjectPath](http://objectpath.org/)   - 半结构化数据的敏捷查询语言.  （蟒蛇）
-* [DefiantJS](http://www.defiantjs.com/)   - 使用XPath表达式进行快速搜索，并使用XSL进行转换.  （JavaScript）
+* [DefiantJS](https://www.defiantjs.com/)   - 使用XPath表达式进行快速搜索，并使用XSL进行转换.  （JavaScript）
 * [JSONSelect](https://github.com/lloyd/JSONSelect)   - 类似CSS的选择器.  （JavaScript）
 * [JSONPath](https://goessner.net/articles/JsonPath/)   -  XPath实现.  （使用Javascript / PHP）
 * [searchjs](https://github.com/deitch/searchjs) - 基于类似json SQL的语言进行过滤的库.
@@ -312,7 +311,7 @@
 * [angular-schema-form](https://github.com/json-schema-form/angular-schema-form)   - 生成表单.  （AngularJS）
 * [JSON Schema View](https://github.com/mohsen1/json-schema-view) - 用于在HTML中呈现JSON模式的AngularJS指令（AngularJS）
 * [Angular JSON Schema Form](https://github.com/mohsen1/angular-json-schema-form)   - 使用JSON Schema制作表单的Angular指令.  （AngularJS）
-* [AlpacaJS](http://www.alpacajs.org) - 在Bootstrap，jQuery Mobile，jQuery UI和HTML（jQuery）之上生成JSON Schema驱动的表单
+* [AlpacaJS](http://www.alpacajs.org) - 在Bootstrap，jQuery Mobile，jQuery UI和HTML（jQuery）之上生成JSON模式驱动的表单
 
 
 ## JSON Schema Tools
@@ -332,7 +331,6 @@
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - 旨在为JSON模式提供更易于访问的文档的网站.
 * [JSON Schema Store](http://schemastore.org/json/) - 一系列流行的模式.
-* [JSON Archetypes](https://github.com/servant-app/json-archetypes) - 针对流行类型数据的社区驱动标准.
 * [Using JSON Schema](http://usingjsonschema.com/) - 一个Book和GitHub项目，展示了JSON Schema如何用于各种任务和不同的编程环境.
 
 ## JSON Schema Validators
@@ -351,7 +349,7 @@
 
 **PHP**
 * [JSON Schema for PHP](https://github.com/justinrainbow/json-schema) -  JSON模式的PHP实现.
-* [JSON Guard](http://json-guard.thephpleague.com) -  JSON Schema Draft 4的验证器.
+* [JSON Guard](https://json-guard.thephpleague.com) -  JSON Schema Draft 4的验证器.
 
 **Python**
 * [jsonschema](https://github.com/Julian/jsonschema) -  jsonschema的Python实现.
