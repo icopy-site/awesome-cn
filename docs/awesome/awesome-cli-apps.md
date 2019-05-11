@@ -47,7 +47,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
+- [RTV](https://github.com/michael-lazar/rtv) - 从终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
 
@@ -78,6 +78,7 @@
 - [rebound](https://github.com/shobrook/rebound) - 当您收到编译器错误时，在终端中获取堆栈溢出结果.
 - [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman发电机的脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [grip](https://github.com/joeyespo/grip) - 在提交之前使用GitHub样式预览markdown文件.
+- [bitwise](https://github.com/mellowcandle/bitwise) -  ncurses中的基本转换和位操纵器.
 
 ### Text Editors
 
@@ -94,11 +95,11 @@
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从CSS中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
-- [surge](https://surge.sh) - Deploy a directory to the web.
+- [surge](https://surge.sh) - 将目录部署到Web.
 - [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
+- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
@@ -113,7 +114,7 @@
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - 移动应用图标生成器.
-- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动画面生成器
+- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动屏幕生成器
 - [deviceframe](https://github.com/c0bra/deviceframe) - 将设备框架放在您的移动/网络/渐进式应用屏幕截图周围.
 
 ### Database
@@ -183,7 +184,7 @@
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) -  Simplenote客户.
 - [td-cli](https://github.com/darrikonn/td-cli) - 一个todo经理，负责组织和管理多个项目的待办事项.
-- [taskell](https://github.com/smallhadroncollider/taskell) - 命令行看板/任务管理器.
+- [taskell](https://github.com/smallhadroncollider/taskell) - 交互式看板/任务经理.
 - [taskbook](https://github.com/klaussinani/taskbook) - 命令行栖息地的任务，板和注释.
 
 ### Finance
@@ -245,7 +246,7 @@
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
 - [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
-- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
+- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.
@@ -308,7 +309,7 @@
 
 - [ranger](https://github.com/ranger/ranger) - 具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - 功能丰富的可视文件管理器.
-- [organize-cli](https://github.com/ManrajGrover/organize-cli) - Organize your files, imagine cleaning up your downloads in an instant.
+- [organize-cli](https://github.com/ManrajGrover/organize-cli) - 整理文件，想象一下即时清理下载内容.
 - [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
 
@@ -331,11 +332,12 @@
 - [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.
 - [transmission-cli](https://transmissionbt.com) - 命令行的Torrent客户端.
 - [ffsend](https://github.com/timvisee/ffsend) - 功能齐全的CLI [Firefox Send](https://send.firefox.com/) - 简单和私密的文件共享.
+- [webtorrent-cli](https://github.com/feross/webtorrent-cli) - 流媒体客户端.
 
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - 使用颜色的UNIX树命令的最小实现！
-- [exa](https://github.com/ogham/exa) - 用Rust编写的`ls`的改进版本.
+- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
 
 ### Directory Navigation
 
@@ -453,7 +455,13 @@
 
 ## Other Awesome Lists
 
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons) - 扩展git cli的插件列表.
+- [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) - 另一个很棒的cli应用程序列表.
+- [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) - 特定于macOS的Shell命令和工具.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - 扩展git cli的插件.
+- [awesome-shell](https://github.com/alebcay/awesome-shell#readme) - 命令行实用程序和框架.
+- [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) - 终端框架，插件和资源.
+- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) -  ZSH框架，插件，教程和主题.
+- [awesome-nodejs clis](https://github.com/sindresorhus/awesome-nodejs#command-line-apps) -  Node.js模块和资源.
 
 ## License
 

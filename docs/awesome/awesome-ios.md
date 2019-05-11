@@ -11,7 +11,7 @@
 <a href="http://weekly.awesomeios.com"><img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/newsletter.png"></a>
 
 ## About
-精选的iOS框架，库，教程，Xcode扩展和插件，组件等等的精选列表.
+A curated list of awesome iOS frameworks, libraries, tutorials, Xcode extensions and plugins, components and much more.
  该列表分为框架，组件，测试和其他类别，开源项目，免费和付费服务.  每个类别中没有预先建立的项目顺序，该顺序用于贡献.  如果您想贡献，请阅读 [guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md).
 
 [![instabug-github](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
@@ -498,7 +498,7 @@
 
 * [Xniffer](https://github.com/xmartlabs/Xniffer) - 基于URLSession构建的快速网络分析器.
 * [Netfox](https://github.com/kasketis/netfox) - 轻量级，单线设置，iOS / macOS网络调试库！
-* [PonyDebugger](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
+* [PonyDebugger](https://github.com/square/PonyDebugger) - 使用Chrome开发者工具为您的原生iOS应用程序进行远程网络和数据调试.
 * [DBDebugToolkit](https://github.com/dbukowski/DBDebugToolkit) - 适用于iOS开发人员和QA工程师的易于使用的调试工具集.
 * [Flex](https://github.com/Flipboard/FLEX) - 适用于iOS的应用内调试和探索工具.
 * [chisel](https://github.com/facebook/chisel) - 收集LLDB命令以协助调试iOS应用程序.
@@ -739,6 +739,8 @@
 * [Haptico](https://github.com/iSapozhnik/Haptico) - 📳 Easy to use haptic feedback generator with pattern-play support.
 
 ## Layout
+
+*自动布局，UI框架和用于简化布局构造的华丽工具列表*
 
 * [Masonry](https://github.com/SnapKit/Masonry) - 利用简化，可链接和富有表现力的语法，利用AutoLayout NSLayoutConstraints的强大功能.
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) -  UIView类别，可以轻松地在代码中创建布局约束.
@@ -986,7 +988,7 @@
 * [TGLParallaxCarousel](https://github.com/taglia3/TGLParallaxCarousel) - 具有视差效果的轻量级3D线性转盘
 * [ImageButter](https://github.com/dollarshaveclub/ImageButter) - 处理图像黄油光滑
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - 简单的PhotoBrowser / Viewer灵感来自Facebook，由swift编写的Twitter照片浏览器
-* [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - 使用Apple的核心图像框架实现高通皮肤平滑
+* [YUCIHighPassSkinSmoothing](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
 * [CLImageViewPopup](https://github.com/vinbhai4u/CLImageViewPopup/) - 弹出一个简单的图像全屏
 * [APKenBurnsView](https://github.com/Alterplay/APKenBurnsView) -  Ken Burns效果与脸部识别！
 * [Moa](https://github.com/evgenyneu/moa)   -  iOS，tvOS和macOS图像视图的图像下载扩展.  并[e]
@@ -1157,7 +1159,7 @@
 * [SOAPEngine](https://github.com/priore/SOAPEngine) - 此通用SOAP客户端允许您使用iOS应用程序，macOS应用程序和AppleTV应用程序访问Web服务.
 * [Swish](https://github.com/thoughtbot/Swish) - 除了网络（工作）
 * [Malibu](https://github.com/hyperoslo/Malibu) - ：冲浪者：Malibu是一个建立在承诺上的网络库
-* [YTKNetwork](https://github.com/yuantiku/YTKNetwork) -  YTKNetwork是基于AFNetworking的高级请求工具.
+* [YTKNetwork](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
 * [UnboxedAlamofire](https://github.com/serejahh/UnboxedAlamofire) -  Alamofire + Unbox：将JSON下载和解码为swift对象的最简单方法.
 * [MMLanScan](https://github.com/mavris/MMLanScan) -  iOS LAN网络扫描仪库
 * [Domainer](https://github.com/FelixLinBH/Domainer) - 管理多域url自动映射ip地址表
@@ -1217,7 +1219,7 @@
 
 其中大部分是付费服务，有些是免费的.
 
-* [Urban Airship](https://airship.com/products/mobile-app-engagement)
+* [Urban Airship](https://www.airship.com/products/mobile-app-engagement)
 * [Growth Push](https://growthpush.com) - 在日本很受欢迎.
 * [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
@@ -1352,7 +1354,7 @@
 * [card.io-iOS-SDK](https://github.com/card-io/card.io-iOS-SDK) -  card.io在移动应用程序中提供快速，轻松的信用卡扫描
 * [SwiftLuhn](https://github.com/MaxKramer/SwiftLuhn) -  Swift中Luhn算法的借记卡/信用卡验证端口
 * [ObjectiveLuhn](https://github.com/MaxKramer/ObjectiveLuhn) -  Luhn信用卡验证算法
-* [RMStore](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
+* [RMStore](https://github.com/robotmedia/RMStore) - 用于应用程序内购买的轻量级iOS库
 * [MFCard](https://github.com/MobileFirstInc/MFCard) - 在iOS App / Customizable Card UI中轻松集成信用卡付款
 * [TPInAppReceipt](https://github.com/tikhop/TPInAppReceipt) - 在App Store收据中阅读和验证
 * [iCard](https://github.com/eliakorkmaz/iCard) - 使用SnapKit DSL的Swift银行卡生成器
@@ -1491,7 +1493,6 @@
 * [SocialLib](https://github.com/darkcl/SocialLib) -  SocialLib处理向多个社交媒体分享消息.
 * [PokemonKit](https://github.com/ContinuousLearning/PokemonKit) -  Pokeapi包装，用Swift编写
 * [TJDropbox](https://github.com/timonus/TJDropbox) - 用Objective-C编写的Dropbox v2客户端库
-* [Lyft](https://github.com/genadyo/Lyft) - 一些粉红胡子公司忘记构建该SDK.
 * [GitHub.swift](https://github.com/onmyway133/github.swift) - ：octocat：Swift中的非官方GitHub API客户端
 * [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk)   - 多个API提供商的抽象层/统一API.  接口，例如云存储（Dropbox，Google，...），社交网络（Facebook，Twitter，...）等.
 * [Medium SDK - Swift](https://github.com/96-problems/medium-sdk-swift) -  Swift中的非官方中型API SDK和示例项目.
@@ -1637,7 +1638,6 @@
 * [SwiftyAttributes](https://github.com/eddiekaiger/SwiftyAttributes) -  Swift扩展，使得使用属性字符串变得轻而易举.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - 一个简单且可定制的Markdown Parser for Swift.
 * [CocoaMarkdown](https://github.com/indragiek/CocoaMarkdown) -  Markdown解析和渲染iOS和macOS.
-* [Apodimark](https://github.com/loiclec/Apodimark) - 用Swift编写的快速，灵活的markdown解析器.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - 具有实时语法高亮功能的完全可主题的降价编辑器.
 * [KKStringValidator](https://github.com/krizhanovskii/KKStringValidator)   -  iOS的快速简单的字符串验证.  使用UITextField扩展.
 * [ISO8859](https://github.com/Cosmo/ISO8859)   - ⚙在Swift中将ISO8859 1-16编码文本转换为字符串.  支持iOS，tvOS，watchOS和macOS.
@@ -1928,7 +1928,7 @@
 * [Fluent](https://github.com/matthewcheok/Fluent) -  Swift动画变得简单
 * [Cheetah](https://github.com/suguru/Cheetah) - 使用Swift2在iOS上轻松制作动画库.
 * [RadialLayer](https://github.com/soheil/RadialLayer) - 可点击元素的动画（类似于Youtube音乐）.
-* [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
+* [Pop By Example](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - 关于如何使用Pop动画框架的项目教程.
 * [AppAnimations](http://www.appanimations.com) - 收集iOS动画以激发您的下一个项目
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - 一个Swift库，将UIView.animateWithDuration（）的强大功能提升到一个全新的水平 - 图层，弹簧，可链式动画，以及将视图/图层动画混合在一起.
 * [Animo](https://github.com/eure/Animo) -  CALayers的类似SpriteKit的动画构建器.
@@ -2138,6 +2138,7 @@
 * [DesignableButton](https://github.com/IdleHandsApps/DesignableButton)   - 具有集中和可重用样式的UIButton子类.  在InterfaceBuilder中实时查看样式和自定义！
 * [BEMCheckBox](https://github.com/Boris-Em/BEMCheckBox)   - 适合iOS的雅致Checkbox.  （复选框）
 * [ExpandableButton](https://github.com/DimaMishchenko/ExpandableButton) -  Swift中可自定义且易于使用的可扩展按钮.
+* [TORoundedButton](https://github.com/TimOliver/TORoundedButton) - 带圆角的高性能按钮控制.
 
 ### Calendar
 * [CVCalendar](https://github.com/CVCalendar/CVCalendar) - 用Swift（2.0）编写的iOS 8+自定义可视日历.
@@ -2514,7 +2515,7 @@
 * [TableViewDragger](https://github.com/KyoheiG3/TableViewDragger) -  UITableView的单元格可以通过拖放重新排列.
 * [FlexibleTableViewController](https://github.com/dimpiax/FlexibleTableViewController) - 通用表视图控制器的Swift库，具有功能的外部数据处理，例如确定与indexPath相关的单元的reuseIdentifier，用于显示的请求单元的配置和单元选择处理程序
 * [CascadingTableDelegate](https://github.com/edopelawi/CascadingTableDelegate) - 在Swift中编写更干净的UITableViewDelegate和UITableViewDataSource的一种严肃的方式.
-* [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell) - 由Swift 3.0编写的UITableViewCell实现的简单时间线视图.
+* [TimelineTableViewCell](https://github.com/kf99916/TimelineTableViewCell) - Simple timeline view implemented by UITableViewCell written in Swift 3.0.
 * [TORoundedTableView](https://github.com/TimOliver/TORoundedTableView) -  UITableView的子类，它像iPad上的Settings.app一样设置样式
 * [TableFlip](https://github.com/mergesort/TableFlip)   - 一个更酷的UITableView动画的简单方法！  （╯°□°）╯（┻━┻
 * [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - 面向协议的UITableView管理，由泛型和相关类型提供支持.
@@ -2534,7 +2535,7 @@
 * [Reusable](https://github.com/AliSoftware/Reusable) - 用于UITableViewCells和UICollectionViewCells的Swift mixin
 * [Sapporo](https://github.com/nghialv/Sapporo) -  Cellmodel驱动的collectionview管理器
 * [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - 用于呈现重叠单元格的UICollectionView布局.
-* [TLIndexPathTools](https://github.com/SwiftKickMobile/TLIndexPathTools) -  TLIndexPathTools是一小组类，可以极大地简化表和集合视图.
+* [TLIndexPathTools](https://github.com/SwiftKickMobile/TLIndexPathTools) -  TLIndexPathTools是一小组类，可以大大简化表和集合视图.
 * [IGListKit](https://github.com/Instagram/IGListKit) - 数据驱动的UICollectionView框架，用于构建快速灵活的列表.
 * [FlexibleCollectionViewController](https://github.com/dimpiax/FlexibleCollectionViewController) -  Swift通用集合视图控制器库，具有功能的外部数据处理，如确定与indexPath相关的单元的reuseIdentifier，用于显示的请求单元的配置和单元选择处理程序等
 * [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - 受Airbnb启发的Swift系列视图.
@@ -2565,7 +2566,7 @@
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - 只需实现一种方法，即可扩展表格视图.
 * [FTFoldingPaper](https://github.com/monofire/FTFoldingPaper)   - 模拟纸张折叠效果.  可以与UITableView集成或与其他UI组件一起使用.
 * [CollapsibleTableSectionViewController](https://github.com/jeantimex/CollapsibleTableSectionViewController) - 一个swift库，支持表视图中的可折叠部分.
-* [ExpandableCell](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS.
+* [ExpandableCell](https://github.com/younatics/ExpandableCell)   - 完全重构的YNExapnadableCell更简洁，无错误.  适用于iOS的令人敬畏的可扩展，可折叠的tableview单元.
 * [expanding-collection](https://github.com/Ramotion/expanding-collection) -  ExpandingCollection是一个卡片查看/弹出控制器
 
 #### Header
@@ -2637,7 +2638,7 @@ CollectionView，在几分钟内发现Instagram.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 一个UITextView子类，它添加了对用Swift编写的多行占位符的支持.
 * [NxEnabled](https://github.com/Otbivnoe/NxEnabled) - 库允许您将按钮的“enabled”属性与textable元素绑定（TextView，TextField）
 * [AwesomeTextField](https://github.com/aleksandrshoshiashvili/AwesomeTextFieldSwift)   - 令人敬畏的TextField是一个漂亮而简单的iOS库.  它是高度可定制且易于使用的工具.  适用于您应用中的任何注册或登录表单.
-* [ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) - 实现了自动完成功能的着名iOS搜索栏.
+* [ModernSearchBar](https://github.com/PhilippeBoisney/ModernSearchBar) - The famous iOS search bar with auto completion feature implemented.
 * [SelectableTextView](https://github.com/jhurray/SelectableTextView) - 支持选择和扩展的文本视图
 * [CBPinEntryView](https://github.com/Fawxy/CBPinEntryView)   - 用Swift 4.2编写的可自定义视图，用于任何引脚，代码或密码输入.  支持iOS 12中的一个时间码.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView)   -  Swift3和Swift2.3中的UITextView.  支持自动增长，占位符和长度限制.
@@ -2720,7 +2721,7 @@ CollectionView，在几分钟内发现Instagram.
  * [Eject](https://github.com/Rightpoint/Eject) -  Interface Builder的弹出按钮，用于生成快速代码.
  * [ContactsWrapper](https://github.com/abdullahselek/ContactsWrapper) - 使用Objective-C轻松使用触点和触点组的包装.
  * [XestiMonitors](https://github.com/eBardX/XestiMonitors) - 用Swift编写的可扩展监视框架
- * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application.
+ * [OpenSourceController](https://github.com/floriangbh/OpenSourceController) - 显示应用程序中使用的库许可证的最简单方法.
  * [App-Update-Tracker](https://github.com/Stunner/App-Update-Tracker) - 在应用程序安装或更新时轻松检测并运行代码.
  * [ExtensionalSwift](https://github.com/4taras4/SwiftExtension) - 在一个地方有用的快速扩展[e]
  * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - 此iOS框架允许设置在应用程序内，或者不在“设置”应用程序中.
@@ -3131,7 +3132,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](https://mtjc.fireside.fm/)
 * [Runtime](https://spec.fm/podcasts/runtime)
-* [Consult](http://consultpodcast.com/#_=_)
+* [Consult](https://consultpodcast.com/#_=_)
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped)
 * [Fireside Swift](https://podcasts.apple.com/us/podcast/fireside-swift/id1269435221?mt=2)
 * [Swift by Sundell](https://www.swiftbysundell.com/podcast/)

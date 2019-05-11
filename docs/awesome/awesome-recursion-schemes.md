@@ -89,6 +89,10 @@ Bartosz Milewski关于通过应用hylomorphism解决小的实际问题的文章.
   类别理论经常提出递归方案，包括[插曲
   33]（http://www.magicreadalong.com/episode/33）谈论Histomorphisms
   和Futumorphisms.
+- [Scala Love](https://scala.love/) - 播放有关Scala的播客
+  中的递归方案 [the second episode](https://scala.love/happy-valentin/).
+- [The Haskell Cast](https://www.haskellcast.com/) - 递归计划出现
+  [Episode 13 with John Wiegley](https://www.haskellcast.com/episode/013-john-wiegley-on-categories-and-compilers).
 
 ## Implementations
 
@@ -97,7 +101,7 @@ Bartosz Milewski关于通过应用hylomorphism解决小的实际问题的文章.
 - [Matryoshka](https://github.com/slamdata/matryoshka) 对于使用Scalaz的Scala  - 
   固定点数据结构的广义折叠，展开和遍历.
 - [andyscott/droste](https://github.com/andyscott/droste) 对于使用猫的Scala  - 
-  固定点数据结构的广义折叠，展开和遍历.    
+  固定点数据结构的广义折叠，展开和遍历.
 - [recursion\_schemes](https://github.com/vmchale/recursion_schemes/) 对于
   Idris，以Edward Kmett的Haskell图书馆为基础.
 - [purescript-matryoshka](https://github.com/slamdata/purescript-matryoshka) 对于PureScript  - 

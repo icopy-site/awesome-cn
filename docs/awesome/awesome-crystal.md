@@ -172,7 +172,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [rcm.cr](https://github.com/maiha/rcm.cr) -  Redis群集管理器
 
 ## Examples and funny stuff
- * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - Tron snake for [battlesnake](https://www.battlesnake.io/) 竞争
+ * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - 特隆蛇 [battlesnake](https://www.battlesnake.io/) 竞争
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - 控制台二十一点
  * [breakout.cr](https://github.com/petoem/breakout.cr) - 使用crsfml编写的突破游戏
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - 查克诺里斯的圣洁语录
@@ -221,6 +221,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [request_id](https://github.com/SuperPaintman/request-id) - 用于生成/获取Crystal服务器的唯一请求ID的中间件
  * [response_time](https://github.com/SuperPaintman/response-time) -  Crystal服务器的响应时间（纯http服务器，kemal等）
  * [spec-kemal](https://github.com/kemalcr/spec-kemal) - 易于测试凯末尔
+ * [tourmaline](https://github.com/watzon/tourmaline) - 具有基于API的API的Telegram bot框架 [telegraf.js](https://telegraf.js.org/)
 
 ## Game Development
  * [cray](https://gitlab.com/Zatherz/cray) - 绑定 [raylib](http://www.raylib.com/)，一个易于使用的游戏开发库
@@ -294,6 +295,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - 人工智能（基于https://github.com/SergioFierens/ai4r）
+ * [Cadmium](https://github.com/watzon/cadmium) -  NLP库严重依赖 [natural](https://github.com/NaturalNode/natural)
  * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) -  FANN（快速人工神经网络）绑定
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - 类似Sklearn的机器学习库
  * [shainet](https://github.com/NeuraLegion/shainet) -  SHAInet（纯晶体中的神经网络）
@@ -349,7 +351,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) -  ORM专门针对PostgreSQL，但具有高级功能
  * [granite](https://github.com/amberframework/granite) -  Postgres，Mysql，Sqlite的ORM
- * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询可链接构建器和迁移系统实现Active Record模式
+ * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -  Redis的Object-hash映射库
  * [onyx-sql](https://github.com/onyxframework/sql) - 与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询构建器
  * [record](https://github.com/luckyframework/record) - 键入安全查询，保存和更新
@@ -487,7 +489,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - 超快速，零配置命令行HTTP服务器
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - 用于开发的机架代理服务器
  * [salt](https://github.com/icyleaf/salt) -  HTTP服务器的人性化界面
- * [serve](https://github.com/SuperPaintman/serve) - 命令行静态HTTP服务器
+ * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server
 
 ## Community
  * [Crystal weekly newsletters](http://crystalweekly.com/)
@@ -551,7 +553,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -  Atom中的Crystal语言支持
  * Emacs
    * [emacs-crystal-mode](https://github.com/dotmilk/emacs-crystal-mode) - 对Emacs的Crystal语言支持
-   * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
+   * [play-crystal.el](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) 在Emacs中集成
  * [scry](https://github.com/crystal-lang-tools/scry) -  Crystal实现的代码分析服务器 [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
  * Spacemacs
    * [crystal-spacemacs-layer](https://github.com/juanedi/crystal-spacemacs-layer) -  Crystal的Spacemacs贡献层

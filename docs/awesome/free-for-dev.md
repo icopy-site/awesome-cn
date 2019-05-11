@@ -9,7 +9,7 @@
 
 此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
 
-你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
+You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  要使服务符合条件，它必须提供免费套餐而不仅仅是免费试用.  如果Free Tier是时间段，则必须至少一年.
 
@@ -92,7 +92,7 @@
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
-  * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
+  * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
@@ -185,11 +185,10 @@
   * [ftploy.com](https://ftploy.com/) -  1个无限制部署的项目
   * [deployhq.com](https://www.deployhq.com/) -  1个项目，每天10次部署
   * [styleci.io](https://styleci.io/) - 仅限公共GitHub存储库
-  * [bitrise.io](https://www.bitrise.io/) - 每月200个免费版本的iOS CI / CD
   * [buddybuild.com](https://www.buddybuild.com/) - 在一个无缝的迭代系统中构建，部署和收集iOS和Android应用程序的反馈
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/)   - 使用GitLab的CI服务直接从Git存储库创建管道.  2,000min /月
   * [buddy.works](https://buddy.works/) - 具有5个免费项目和1个并发运行的CI / CD（每月执行120次）
-  * [bitrise.io](https://www.bitrise.io/) - 用于iOS和Android的托管CI / CD，具有免费无限制版本，应用程序和团队成员以及1个OSS项目并发运行
+  * [bitrise.io](https://www.bitrise.io/)   - 适用于移动应用的本地/混合CI / CD.  拥有200个免费构建/月10分钟构建时间和两个团队成员.  OSS项目获得45分钟的构建时间，+1并发性和无限的团队规模.
 
 ## Automated Browser Testing
 
@@ -214,7 +213,7 @@
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
+  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -253,7 +252,7 @@
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
-  * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
+  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
   * [Loco](https://localise.biz/) - 免费提供2000种翻译，无限翻译，10种语言/项目，1000种可翻译资产/项目
 
 ## Monitoring
@@ -282,7 +281,7 @@
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
-  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
+  * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
   * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
@@ -298,7 +297,7 @@
 ## Search
 
   * [algolia.com](https://www.algolia.com/)   - 托管搜索类型（即时）.  免费黑客计划多达10,000个文档和100,000个操作.  为社区/开源项目提供更大的免费计划
-  * [swiftype.com](https://swiftype.com/)   - 托管搜索解决方案（API和爬虫）.  单个搜索引擎免费提供多达1,000个文档.  免费升级到开源的高级别
+  * [swiftype.com](https://swiftype.com/) — Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to premium level for Open Source
   * [bonsai.io](https://bonsai.io/) - 免费1 GB内存和1 GB存储空间
   * [searchly.com](http://www.searchly.com/) - 免费2个索引和5 MB存储空间
   * [indexisto.com](https://indexisto.com/) - 网站搜索，免费1000万文件索引限制与广告块
@@ -364,7 +363,7 @@
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
-  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
+  * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
 
 ## BaaS
@@ -453,10 +452,10 @@
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
+   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
-   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
+   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/)   - 将事件转换并路由到其他第三方服务的集线器.  每月100,000活动免费
    * [ngrok.com](https://ngrok.com/) - 通过隧道将本地运行的服务器暴露给公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
@@ -593,7 +592,7 @@
    * [hotjar.com](https://hotjar.com/) - 每个站点：每天2,000页的视图，3个热图，3个月的数据存储，...
    * [imprace.com](https://imprace.com/)   - 着陆页分析以及提高跳出率的建议.  免费5个登陆页面/域名
    * [optimizely.com](https://optimizely.com) -  A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用程序
-   * [expensify.com](https://expensify.com/) - 费用报告，免费个人报告批准工作流程
+   * [expensify.com](https://expensify.com/) — Expense reporting, free personal reporting approval workflow
    * [Moesif](https://www.moesif.com)   -  REST和GraphQL的API分析.  （最多可免费拨打500,000次API调用）
 
 ## Visitor Session Recording

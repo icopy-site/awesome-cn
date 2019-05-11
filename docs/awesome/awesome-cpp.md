@@ -597,6 +597,7 @@
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)   - 由Nvidia开发的开源实时物理引擎中间件SDK，作为Nvidia GameWorks软件套件的一部分.  [BSD -3-第] 
 * [Project Chrono](https://github.com/projectchrono/chrono)   - 开源多物理场仿真引擎.  [BSD -3-第] [website](https://projectchrono.org/)
 * [Simbody](https://github.com/simbody/simbody)   - 高性能C ++多体动力学/物理库，用于模拟车辆，机器人和人体骨骼等铰接式生物力学和机械系统.  [Apache2的]
+* [Quantum++](https://github.com/vsoftco/qpp)   - 一个现代的C ++ 11量子计算库.  [MIT]
 
 ## Reflection
 

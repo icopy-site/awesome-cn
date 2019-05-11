@@ -54,12 +54,18 @@
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) -  CakePHP的快速应用程序开发（RAD）插件.
 * [Knp RAD Components](https://rad.knplabs.com/) -  Symfony的一组快速应用程序开发（RAD）组件.
 
+* [Drupal](https://www.drupal.org) - 企业级CMS.
+* [WordPress](https://wordpress.org/) 博客平台和CMS.
+* [Joomla](https://www.joomla.org/) - 另一个领先的CMS.
+* [Concrete5](https://www.concrete5.org/) -  CMS以最少的技术技能为用户提供服务.
+* [BackdropCMS](https://backdropcms.org) - 针对中小型企业和非营利组织的CMS（Drupal的一个分支）.
+
 ### Components
 *来自Web开发框架和开发组的独立组件.*
 
 * [Aura](http://auraphp.com/) - 独立组件，完全脱离彼此和任何框架.
 * [CakePHP Plugins](https://plugins.cakephp.org/) -  CakePHP插件的目录.
-* [Hoa Project](https://hoa-project.net/En/) - 另一个PHP组件包.
+* [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
 * [League of Extraordinary Packages](https://thephpleague.com/) -  PHP包开发组.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - 制作Symfony的组件.
 * [Zend Framework 2 Components](https://docs.zendframework.com/) - 构成Zend Framework的组件.
@@ -101,7 +107,7 @@
 * [Plates](http://platesphp.com/) - 本机PHP模板库.
 * [Smarty](https://www.smarty.net/) - 补充PHP的模板引擎.
 * [Twig](https://twig.symfony.com/) - 全面的模板语言.
-* [Tale Jade](https://github.com/Talesoft/tale-jade) -  Jade模板语言的PHP实现.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ### Static Site Generators
 
@@ -126,7 +132,7 @@
 
 * [Embed](https://github.com/oscarotero/Embed) - 来自任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络刮刀.
-* [PHP Spider](https://github.com/mvdbos/php-spider) - 可配置且可扩展的PHP Web蜘蛛.
+* [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
 
 ### Middlewares
 *使用中间件构建应用程序的库.*
@@ -218,7 +224,7 @@
 * [PHPT](https://qa.php.net/write-test.php) -  PHP本身使用的测试工具.
 * [PHPUnit](https://github.com/sebastianbergmann/phpunit) - 单元测试框架.
 * [Prophecy](https://github.com/phpspec/prophecy) - 一个高度自以为是的嘲弄框架.
-* [VFS Stream](https://github.com/mikey179/vfsStream) - 用于测试的虚拟文件系统流包装器.
+* [VFS Stream](https://github.com/bovigo/vfsStream) - 用于测试的虚拟文件系统流包装器.
 
 ### Continuous Integration
 *用于持续集成的库和应用程序.*
@@ -227,7 +233,7 @@
 * [GitlabCi](https://about.gitlab.com/product/continuous-integration/)   - 让GitLab CI测试，构建，部署您的代码.  TravisCi喜欢.
 * [Jenkins](https://jenkins.io/index.html) - 一个持续的集成平台 [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 用PHP编写并由Docker提供支持的持续集成客户端.
-* [PHPCI](https://www.phptesting.org/) -  PHP的开源持续集成平台.
+* [PHPCI](https://github.com/dancryer/phpci) -  PHP的开源持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 开源和私有项目的持续集成平台.
 * [Shippable](https://www.shippable.com/) - 基于Docker的开源和私有项目的持续集成平台.
 * [Travis CI](https://travis-ci.org/) - 持续集成平台.
@@ -289,7 +295,7 @@
 
 * [PHP CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) - 一个检测PHP，CSS和JS编码标准违规的库.
 * [PHP CS Fixer](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - 编码标准修复程序库.
-* [PHP Mess Detector](https://phpmd.org/) - 扫描代码以查找错误，次优代码，未使用参数等的库.
+* [PHP Mess Detector](https://github.com/phpmd/phpmd) - 扫描代码以查找错误，次优代码，未使用参数等的库.
 * [PHPCheckstyle](https://github.com/PHPCheckstyle/phpcheckstyle) - 帮助遵守某些编码约定的工具.
 * [PHPCPD](https://github.com/sebastianbergmann/phpcpd) - 检测复制和粘贴代码的库.
 
@@ -298,7 +304,7 @@
 
 * [Exakat](https://github.com/exakat/exakat) -  PHP的静态分析引擎.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具.
-* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan](https://github.com/phan/phan) - 基于PHP 7+和php-ast扩展的静态分析器.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -  PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 用于创建可自定义依赖关系图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态度量库.
@@ -544,17 +550,19 @@
 *用于处理数字的图书馆.*
 
 * [ByteUnits](https://github.com/gabrielelana/byte-units) - 用于解析，格式化和转换二进制和公制系统中字节单位的库.
-* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) - A PHP implementation of Google's phone number handling library.
+* [LibPhoneNumber for PHP](https://github.com/giggsey/libphonenumber-for-php) -  Google电话号码处理库的PHP实现.
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - 另一个用于在度量单位之间进行转换的库.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 用于在度量单位之间进行转换的库.
 
 ### Filtering and Validation
 *用于过滤和验证数据的库.*
 
+* [Assert](https://github.com/beberlei/assert)   - 具有丰富断言的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - 提供验证和清理对象和数组的工具.
 * [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库（CP）.
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库.
-* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的库，适用于许多国家
+* [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的图书馆，适用于许多国家/地区.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](http://json-schema.org) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML，JSON和XML的模式验证库.
 * [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) - 用于处理文件上载和验证的库.
@@ -592,7 +600,8 @@
 * [Fractal](https://github.com/thephpleague/fractal) - 用于将复杂数据结构转换为JSON输出的库.
 * [Ginq](https://github.com/akanehara/ginq) - 另一个基于.NET LINQ的PHP库.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - 将嵌套JSON结构映射到PHP类的库.
-* [Knapsack](https://github.com/DusanKasan/Knapsack) - Collection library inspired by Clojure's sequences.
+* [Knapsack](https://github.com/DusanKasan/Knapsack) - 受Clojure序列启发的馆藏图书馆.
+* [msgpack.php](https://github.com/rybakit/msgpack.php) - 一个纯PHP的实现 [MessagePack](https://msgpack.org/) 序列化格式.
 * [PINQ](https://github.com/TimeToogo/Pinq) - 基于.NET的LINQ（语言集成查询）的PHP库.
 * [Porter](https://github.com/ScriptFUSION/Porter) - 数据导入抽象框架.
 * [Serializer](https://github.com/schmittjoh/serializer) - 用于序列化和反序列化数据的库.
