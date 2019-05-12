@@ -54,11 +54,12 @@
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) -  CakePHP的快速应用程序开发（RAD）插件.
 * [Knp RAD Components](https://rad.knplabs.com/) -  Symfony的一组快速应用程序开发（RAD）组件.
 
-* [Drupal](https://www.drupal.org) - 企业级CMS.
-* [WordPress](https://wordpress.org/) 博客平台和CMS.
-* [Joomla](https://www.joomla.org/) - 另一个领先的CMS.
+* [Backdrop](https://backdropcms.org) - 针对中小型企业和非营利组织的CMS（Drupal的一个分支）.
 * [Concrete5](https://www.concrete5.org/) -  CMS以最少的技术技能为用户提供服务.
-* [BackdropCMS](https://backdropcms.org) - 针对中小型企业和非营利组织的CMS（Drupal的一个分支）.
+* [Drupal](https://www.drupal.org) - 企业级CMS.
+* [Grav](https://github.com/getgrav/grav) - 现代平面文件CMS.
+* [Joomla](https://www.joomla.org/) - 另一个领先的CMS.
+* [WordPress](https://wordpress.org/) 博客平台和CMS.
 
 ### Components
 *来自Web开发框架和开发组的独立组件.*
@@ -732,7 +733,6 @@
 * [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - 一个简单的Web界面来管理 [Redis](https://redis.io/) 数据库.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) -  MySQL / MariaDB的Web界面.
 * [Adminer](https://www.adminer.org/) - 单个PHP文件中的数据库管理.
-* [Grav](https://github.com/getgrav/grav) - 现代平面文件CMS.
 * [Lychee](https://github.com/electerious/Lychee) - 易于使用和美观的照片管理系统.
 
 ### Infrastructure

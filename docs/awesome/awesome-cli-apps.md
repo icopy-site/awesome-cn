@@ -65,7 +65,7 @@
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
 
 ## Development
 
@@ -114,7 +114,7 @@
 ### Mobile Development
 
 - [mobicon-cli](https://github.com/SamVerschueren/mobicon-cli) - 移动应用图标生成器.
-- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动屏幕生成器
+- [mobisplash-cli](https://github.com/SamVerschueren/mobisplash-cli) - 移动应用程序启动画面生成器
 - [deviceframe](https://github.com/c0bra/deviceframe) - 将设备框架放在您的移动/网络/渐进式应用屏幕截图周围.
 
 ### Database
@@ -228,6 +228,7 @@
 - [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
+- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
 
 ### macOS
 
@@ -246,7 +247,7 @@
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
 - [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
-- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.
@@ -337,7 +338,7 @@
 ### Directory Listing
 
 - [alder](https://github.com/aweary/alder) - 使用颜色的UNIX树命令的最小实现！
-- [exa](https://github.com/ogham/exa) - An improved version of `ls` written in Rust.
+- [exa](https://github.com/ogham/exa) - 用Rust编写的`ls`的改进版本.
 
 ### Directory Navigation
 
@@ -400,7 +401,7 @@
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - 显示滚动的“矩阵”屏幕.
+- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 显示在屏幕上增长的随机管道.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.

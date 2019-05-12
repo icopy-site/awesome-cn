@@ -160,7 +160,7 @@ Code
 
 * ：自由： [Agen](http://2dengine.com) - 使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏的跨平台框架.
 *：那么： [Allegro](http://liballeg.org/) -  Allegro 4和5是跨平台，开源的游戏编程库，主要面向C和C ++开发人员.
-* ：自由： [Amethyst](https://www.amethyst.rs/) - 使用`gfx-rs`在Rust中为2D和3D编写的数据驱动的游戏引擎.
+*：那么： [Amethyst](https://www.amethyst.rs/) - 使用`gfx-rs`在Rust中为2D和3D编写的数据驱动的游戏引擎.
 *：那么： [amulet](http://www.amulet.xyz/)   - 免费的基于Lua的音频/视频工具包，适用于小型游戏和实验.  它可以在Windows，Mac，Linux，HTML5和iOS上运行.
 *：那么： [AndEngine](http://www.andengine.org) -  2D Android游戏引擎
 *：那么： [Azul3D](http://azul3d.org/) - 用Go编写的3D引擎.

@@ -27,6 +27,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [edits.cr](https://github.com/tcrouch/edits.cr) - 编辑距离算法的集合
  * [graphlb](https://github.com/mettuaditya/graphlb) - 图形数据结构和算法的集合
  * [hash_ring](https://github.com/TobiasGSmollett/hash_ring) - 一致哈希环的实现
+ * [haversine](https://github.com/mamantoha/haversine) -  Haversine公式的实施
+ * [kd_tree](https://github.com/mamantoha/kd_tree) - “K-Dimensional Tree”和“N-Nearest Neighbors”的实现
  * [ksuid.cr](https://github.com/Sija/ksuid.cr) -  K-Sortable全球唯一ID
  * [markov](https://github.com/mccallofthewild/markov) - 构建马尔可夫链并运行马尔可夫过程
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) - 实现多重集
@@ -46,8 +48,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [cairo-cr](https://github.com/TamasSzekeres/cairo-cr) - 绑定 [Cairo](https://cairographics.org/) 图形库
  * [clang.cr](https://github.com/ysbaddaden/clang.cr) -  Libclang绑定
  * [crass](https://github.com/vonKingsley/crass) -  libsass的绑定
- * [crt.cr](https://github.com/maiha/crt.cr) -  libncursesw和crt的绑定
+ * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) -  GNU Scientific Library绑定
+ * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
  * [curl-crystal](https://github.com/blocknotes/curl-crystal) - 绑定 [libcurl](https://curl.haxx.se/libcurl/)
  * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - 绑定 [Duktape](https://github.com/svaarala/duktape) JavaScript引擎
  * [gphoto2.cr](https://github.com/Sija/gphoto2.cr) - 绑定 [libgphoto2](http://www.gphoto.org/) 图书馆
@@ -143,7 +146,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [leveldb](https://github.com/crystal-community/leveldb) -  LevelDB的Crystal绑定
  * [mongo.cr](https://github.com/ambercommunity/mongo.cr) - 绑定MongoDB C驱动程序
  * [rocksdb.cr](https://github.com/maiha/rocksdb.cr) -  RocksDB客户端
- * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) - Tarantool driver
+ * [tarantool-crystal](https://github.com/vladfaust/tarantool-crystal) -  Tarantool司机
 
 ## Database Tools
  * [micrate](https://github.com/juanedi/micrate) - 数据库迁移工具
@@ -175,12 +178,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - 特隆蛇 [battlesnake](https://www.battlesnake.io/) 竞争
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - 控制台二十一点
  * [breakout.cr](https://github.com/petoem/breakout.cr) - 使用crsfml编写的突破游戏
- * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - 查克诺里斯的圣洁语录
+ * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
  * [clamp](https://github.com/johnjansen/clamp) - 钳制任何可比较
  * [crsfml-examples](https://github.com/oprypin/crsfml-examples) - 使用CrSFML制作的简单游戏
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - 计算机语言基准游戏
  * [crystal-by-example](https://github.com/askn/crystal-by-example) - 水晶示例
- * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) -  PNG迷宫的A *路径查找
+ * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) -  Crystal MySQL CRUD示例
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -  GOF模式的例子
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - 用Crystal编写的本机Ruby扩展
@@ -351,7 +354,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## ORM/ODM Extensions
  * [clear](https://github.com/anykeyh/clear) -  ORM专门针对PostgreSQL，但具有高级功能
  * [granite](https://github.com/amberframework/granite) -  Postgres，Mysql，Sqlite的ORM
- * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
+ * [jennifer.cr](https://github.com/imdrasil/jennifer.cr) - 使用灵活的查询可链接构建器和迁移系统实现Active Record模式
  * [ohm-crystal](https://github.com/soveran/ohm-crystal) -  Redis的Object-hash映射库
  * [onyx-sql](https://github.com/onyxframework/sql) - 与DB无关的SQL ORM，具有漂亮的DSL和类型安全的查询构建器
  * [record](https://github.com/luckyframework/record) - 键入安全查询，保存和更新
@@ -489,7 +492,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) - 超快速，零配置命令行HTTP服务器
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) - 用于开发的机架代理服务器
  * [salt](https://github.com/icyleaf/salt) -  HTTP服务器的人性化界面
- * [serve](https://github.com/SuperPaintman/serve) - Command line static HTTP server
+ * [serve](https://github.com/SuperPaintman/serve) - 命令行静态HTTP服务器
 
 ## Community
  * [Crystal weekly newsletters](http://crystalweekly.com/)

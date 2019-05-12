@@ -14,7 +14,8 @@
 
 * [Haus Automatisierung](https://haus-automatisierung.com/) - 新闻，博客，Youtube，教程，......
 * [Homematic Forum](https://homematic-forum.de/forum/) - 讨论论坛
-* [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) -  AndiN精选链接列表.
+* [Homematic Forum: Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) -  AndiN精选链接列表.
+* [Homematic Forum: HomeMatic - Tipps für Anfänger](https://homematic-forum.de/forum/viewtopic.php?f=31&t=22801) -  Sammy对初学者的基本阅读
 * [Homematic Guru](https://homematic-guru.de/) - 新闻，博客，教程等.
 * [Homematic Inside](https://www.homematic-inside.de/) - 新闻，博客，教程等.
 * [Technikkram](https://technikkram.net) - 新闻，博客，教程等.
@@ -108,6 +109,7 @@
 
 ## Smart Home Software supporting Homematic
 
+* [everHome](https://everhome.de) - 
 * [FHEM](https://fhem.de/)
 * [Home Assistant](https://www.home-assistant.io/)
 * [ioBroker](http://www.iobroker.net/?lang=de)

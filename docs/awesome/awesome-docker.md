@@ -155,7 +155,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Flannel](https://github.com/coreos/flannel/)   -  Flannel是一个虚拟网络，为每个主机提供一个子网，用于容器运行时.  由[@coreos] [coreos]
 - [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  [@microsoft] [https://github.com/Microsoft/]
 - [netshoot](https://github.com/nicolaka/netshoot) -  netshoot容器具有一组强大的网络工具，可帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
-- [Pipework](https://github.com/jpetazzo/pipework)   -  Linux容器的软件定义网络，Pipework使用“普通”LXC容器，以及令人敬畏的Docker.  由[@jpetazzo] [jpetazzo]
+- [Pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [@jpetazzo][jpetazzo]
 -  [Weave] [weave]（Docker网络） -  Weave创建一个虚拟网络，连接跨多个主机部署的Docker容器.
 
 ### Orchestration
@@ -240,7 +240,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)   -  Blockbridge插件是一个卷插件，可以访问一组可扩展的基于容器的持久存储选项.  它支持单主机和多主机Docker环境，其功能包括租户隔离，自动配置，加密，安全删除，快照和QoS.  通过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)   - 一个开源的Docker卷驱动程序，可以在任何地方快照，备份和恢复Docker卷.  由[@rancher] [牧场主]
-- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
+- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为OS X上通过Docker Machine创建的现有boot2docker框激活NFS.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison)  使用Unison进行快速双向文件夹同步的docker卷容器.  创建作为OS X上缓慢boot2docker卷的替代方法 [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/MatchbookLab/local-persist) 为本地卷指定一个挂载点（通过`docker volume create`创建），这样文件将始终保持不变，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) -  Docker容器中的S3兼容对象存储服务器
@@ -296,6 +296,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Compose UI](https://github.com/francescou/docker-compose-ui)   - 通过HTTP管理docker-compose.  docker-compose-ui在Docker容器中运行，安装主机docker socket并公开RESTful API和AngularJS GUI
 - [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) -  Docker Registry HTTP API v2的Web界面 [@klausmeyer](https://github.com/klausmeyer)
 - [Docker Registry UI](https://github.com/atcol/docker-registry-ui) - 用于轻松进行私有/本地Docker Registry集成的Web UI [@atcol](https://github.com/atcol)
+- [Docker Registry UI (Joxit)](https://github.com/Joxit/docker-registry-ui) - 私有注册管理机构最简单，最干净的用户界面 [@Joxit](https://github.com/Joxit)
 - [docker-registry-web](https://github.com/mkuchin/docker-registry-web) - 用于私有docker注册表v2的Web UI，身份验证服务和事件记录器 [@mkuchin](https://github.com/mkuchin)
 - [docker-swarm-visualizer](https://github.com/dockersamples/docker-swarm-visualizer) - 在Docker Swarm上显示Docker服务（用于运行演示）.
 - [dockering-on-rails](https://github.com/Electrofenster/dockerding-on-rails) ：skull： -  Docker的简单Web界面，具有很多功能 [@Electrofenster](https://github.com/Electrofenster/)
@@ -582,7 +583,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
-- [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 
+- [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 
 ## Awesome Lists
 

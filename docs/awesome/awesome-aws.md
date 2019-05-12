@@ -783,7 +783,7 @@ AWS Repos：
 
 AWS Repos：
 
-* [aws-php-sns-message-validator](https://github.com/aws/aws-php-sns-message-validator) -  PHP的消息验证.
+* [aws-php-sns-message-validator :fire:](https://github.com/aws/aws-php-sns-message-validator) -  PHP的消息验证.
 
 社区回购：
 

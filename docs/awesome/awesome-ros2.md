@@ -20,7 +20,7 @@
 ### Examples
 
 - [turtlebot2_demo](https://github.com/ros2/turtlebot2_demo) - 使用ROS 2的TurtleBot 2演示. ![turtlebot2_demo](https://img.shields.io/github/stars/ros2/turtlebot2_demo.svg)
-- [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) - C++ examples. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
+- [examples/rclcpp](https://github.com/ros2/examples/tree/master/rclcpp) -  C ++示例. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [examples/rclpy](https://github.com/ros2/examples/tree/master/rclpy) -  Python示例. ![ros2/examples](https://img.shields.io/github/stars/ros2/examples.svg)
 - [rcljava_examples](https://github.com/esteve/ros2_java_examples/tree/master/rcljava_examples) - 包含如何使用rcljava API的示例的包. ![ros2_java_examples](https://img.shields.io/github/stars/esteve/ros2_java_examples.svg)
 - [ros2_talker_android, ros2_listener_android](https://github.com/esteve/ros2_android_examples) - 用于ROS2 Java绑定的示例Android应用程序. ![ros2_android_examples](https://img.shields.io/github/stars/esteve/ros2_android_examples.svg)
@@ -55,7 +55,7 @@
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的ROS包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的2D和3D实时同步定位和映射（SLAM）. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [vision_opencv](https://github.com/ros2/vision_opencv) - 用于连接ROS2和OpenCV的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros2/vision_opencv.svg)
-- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -  ROS2的通用键盘Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
+- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控器. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros2/navigation) -  ROS2导航堆栈. ![navigation](https://img.shields.io/github/stars/ros2/navigation.svg)
 - [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) -  ROS2原始ROS1诊断的分叉版本（仅限诊断_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
@@ -72,6 +72,14 @@
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) -  ros2_message_filters根据过滤器需要满足的条件混合各种消息，并从ROS message_filters的ROS2移植中获取. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -  Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -  ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
+- [system-modes](https://github.com/micro-ROS/system_modes) -  ROS 2和微ROS的系统模式.
+
+### Middleware
+
+- [Micro XRCE-DDS Agent](https://github.com/eProsima/Micro-XRCE-DDS-Agent) -  Micro XRCE-DDS Agent充当DDS网络和Micro XRCE-DDS客户端之间的服务器.
+- [Micro XRCE-DDS Agent docker](https://hub.docker.com/r/eprosima/micro-xrce-dds-agent/) - 包含Micro XRCE-DDS代理的Docker镜像.
+- [Micro XRCE-DDS Client](https://github.com/eProsima/Micro-XRCE-DDS-Client) -  Micro XRCE-DDS实现客户端 - 服务器协议，以使资源受限的设备（客户端）能够参与DDS通信.
+- [micro-ROS-Agent](https://github.com/micro-ROS/micro-ROS-Agent) - 使用Micro XRCE-DDS Agent的ROS 2包.
 
 ### "System" bindings
 
@@ -106,6 +114,7 @@
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) -  ZED SDK的ROS 2包装测试版.
 - [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) - 用于ROS2的丰田/雷克萨斯2015-2017 Denso Radar驱动程序.
 - [sick_scan2](https://github.com/SICKAG/sick_scan2) - 用于SICK TiM系列激光扫描仪（TiM551 / TiM561 / TiM571）的ROS2驱动器.
+- [micro-ROS/hardware](https://github.com/micro-ROS/hardware) - 有关微ROS项目中使用和支持的硬件平台的信息和文档.
 
 ### Client libraries
 
@@ -236,7 +245,7 @@
 - 在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
 - 面向ROS 2微控制器元交叉编译
 -  Node.js客户端和Web桥为ROS 2.0做好准备
--  RCLAda：ROS2的Ada客户端库
+- RCLAda: the Ada client library for ROS2
 
 ### Embedded World Conference 2018 
 

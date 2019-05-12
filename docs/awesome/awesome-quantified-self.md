@@ -25,7 +25,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - 斯蒂芬沃尔夫勒姆探讨了他收集的关于他的时间使用的数据.
 - [Measured Me](http://measuredme.com/) - 自我量化和自我优化的个人实验.
 - [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合，生活日志，量化自我和数字遗产.
-- [Quantified Bob](https://www.quantifiedbob.com/) - 通过实验和个人分析，跟踪一个人对自我知识，改进和优化的追求.
+- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我，生活，日记，教育.
 - [QS on Medium](https://medium.com/@quantifiedself) - 在媒体上量化自我帖子.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于Venture Beat的量化自我文章.
@@ -77,7 +77,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ### Data Collection
 - [AskMeEvery](https://www.askmeevery.com/) - 通过电子邮件或文本问题自动输入数据.
 - [Reporter](http://www.reporter-app.com/) - 跟踪通过随机调查（iOS）收集数据的应用程序.
-- [Logisit](http://www.logsit.com/) - Quantified self and lifelogging app to track the things you've done (iOS).
+- [Logisit](http://www.logsit.com/) - 量化自我和生活日落应用程序来跟踪你已经完成的事情（iOS）.
 
 ### Diet
 - [MyFitnessPal](http://www.myfitnesspal.com/) - 食品跟踪和饮食计划应用程序（iOS和Android）.
@@ -186,7 +186,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Zephyr BioHarness](https://www.zephyranywhere.com/products/bioharness-3) - 性能监控可穿戴设备.
 - [Apple Watch](http://www.apple.com/watch/) - 健身和其他健康导向跟踪.
 - [Amiigo](https://amiigo.com/) - 活动和健身房锻炼跟踪器.
-- [Spire](https://spire.io/) - 活动跟踪器，通过测量呼吸来确定压力和焦点水平.
+- [Spire](https://spire.io/) - 通过测量呼吸来确定压力和焦点水平的活动跟踪器.
 - [Oura Ring](https://ouraring.com/) - 手指上佩戴的高精度睡眠（和活动）跟踪器，用于测量HR，HRV，温度和运动.
 
 ## Research and Analysis
@@ -202,6 +202,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Human API](http://humanapi.co/) - 健康数据集成平台.
 - [DNA land](http://dna.land/) -  DNA插补和科学研究.
 - [GenetiConcept](https://geneticoncept.com) - 健康，药物相互作用，健身和营养的基因检测.
+- [FoundMyFitness](https://www.foundmyfitness.com/genetics) - 来自自我上传的遗传数据的综合遗传报告.
 
 ## Open Source Projects
 
