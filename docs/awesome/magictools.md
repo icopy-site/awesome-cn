@@ -191,7 +191,7 @@ Code
 *：那么： [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 *：那么： [ENGi](https://github.com/ajhager/engi) -  Go的多平台2D游戏库.
 *：那么： [engo](https://engoengine.github.io/) -  Engo是一个用Go编写的开源2D游戏引擎.
-*：那么： [Ebiten](https://hajimehoshi.github.io/ebiten/) -  Go中一个简单的2D游戏库.
+*：那么： [Ebiten](https://ebiten.org/) -  Go中一个简单的2D游戏库.
 *：那么： [Ejecta](http://impactjs.com/ejecta) - 适用于iOS的快速开源JavaScript，Canvas和音频实现.
 *：那么： [EnchantJS](http://enchantjs.com/) - 用于创建游戏和应用程序的简单JavaScript框架.
 *：那么： [EnTT](https://github.com/skypjack/entt) - 游戏符合现代C ++，快速可靠的实体组件系统（ECS）等等

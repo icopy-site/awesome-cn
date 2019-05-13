@@ -46,7 +46,7 @@
 - [ava-fast-check](https://github.com/dubzzz/ava-fast-check) - 基于财产的测试.
 - [ava-fixture-docker-db](https://github.com/cdaringe/ava-fixture-docker-db) - 将docker数据库添加到测试上下文中.
 - [ava-webcomponents](https://github.com/Wildhoney/ava-webcomponents) - 通过Puppeteer测试Web组件.
-
+- [ava-tap-json](https://github.com/yovasx2/ava-tap-json) - 具有AVA兼容性的JSON输出.
 
 ## Works with AVA
 

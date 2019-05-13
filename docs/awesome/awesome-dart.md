@@ -6,7 +6,7 @@
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不适合的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ;  你摇滚！
+请快速浏览一下 [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors) ;  你摇滚！
 
 
 *图书馆
@@ -16,7 +16,7 @@
 ## Client Web App Frameworks
 
 * [AngularDart](https://angulardart.org/) -  AngularDart是一个用于构建移动和桌面Web应用程序的开发平台
-* [Flutter](https://flutter.io/) -  Flutter是一个构建高性能，跨平台移动应用程序的框架，允许为Android和iOS编写应用程序.
+* [Flutter](https://flutter.dev/) -  Flutter是一个构建高性能，跨平台移动应用程序的框架，允许为Android，iOS和Web应用程序编写应用程序.
 * [MDL/Dart](http://www.material-design-lite.pub/) -  Dart的Material Design Lite是基于Google Material Design理念的Web开发人员组件框架.
 * [OverReact](https://workiva.github.io/over_react/) - 用于构建静态类型的React UI组件的库.
 * [VueDart](https://refi64.com/vuedart) - 使用Dart创建Vue Web应用程序，Dart是一种用于构建Web UI的渐进式，可渐进式采用的框架
@@ -143,7 +143,7 @@
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - 在Vim中为Dart突出显示语法
 * [Atom Plugin](https://atom.io/packages/atom-dart) -  Dart对Atom的支持.
 * [DartPad](https://dartpad.dartlang.org/) - 在线轻量级编辑器.
-* [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) -  Dart支持Visual Studio Code.
+* [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) -  Chrome扩展程序，可在GitHub上添加指向模块导入语句的直接链接.
 
 ## Everything Else

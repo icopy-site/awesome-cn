@@ -67,7 +67,7 @@
 ### Text tutorials
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - 对Godot的逐步介绍.
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
 
 ### Video tutorials
 
@@ -112,10 +112,11 @@
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -  Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
 - [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳（Robert Penner）缓和方程式的一个端口.
-- [Escoria](https://github.com/godotengine/escoria) - Point & click adventure game framework.
+- [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架.
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
 - [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -  Phoenix Framework的Channels API的GDScript和Godot Engine实现.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -  Godot的一组基本节点扩展.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 戈多的通知中心.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在RPG对话框中）.

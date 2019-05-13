@@ -34,98 +34,99 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
--  [Fireward] [fireward]  - 易于使用的Firestore规则语言，类似于Firebase Bolt.
+-  [Firebase @ Google IO &#39;19] [fb-io-19]  - 所有Firebase会谈@ Google IO 2019.
 -  [适用于Firebase的计划（Cron）云功能] [cron-cloud-functions]  - 用于Firebase云功能的Firebase本机Cron触发器.
--  [Integrify] [new-2]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
--  [VSCode Firebase Explorer] [new-4]  - 浏览和管理您的Firebase项目.
--  [React Firebase Hooks] [new-5]  - 针对Firebase服务的React Hooks.
+-  [Integrify] [integrify]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
+-  [VSCode Firebase Explorer] [vscode-firebase-explorer]  - 浏览和管理您的Firebase项目.
+-  [React Firebase Hooks] [react-firebase-hooks]  - 针对Firebase服务的React Hooks.
 
 ## Official Firebase Docs & Quickstarts
 
--  [Firebase文档] [docs-1]  - 官方Firebase文档.
--  [Firebase快速入门] [docs-2]  - 官方Firebase快速入门.
+-  [Firebase文档] [fb-docs]  - 官方Firebase文档.
+-  [Firebase快速入门] [fb-quickstarts]  - 官方Firebase快速入门.
   -  [Google Codelabs |  Firebase] [google-codelabs]  -  Google Developers Codelabs提供指导，教程和动手编码体验.
 
 ## Web
 
--  [Firebase UI] [web-1]  -  FirebaseUI是一个用于Web的开源JavaScript库，可在Firebase SDK之上提供简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
--  [React的Firebase UI] [web-2]  -  firebaseUI Web的React Wrapper.
--  [GeoFire for JavaScript] [web-3]  - 使用Firebase进行实时位置查询.
--  [FirePad] [web-4]  - 由Firebase提供支持的协作文本编辑器.
--  [Ember Fire] [web-5]  - 适用于Firebase的官方Ember数据适配器.
--  [Firebase Dart] [web-6]  -  Firebase的飞镖包装.
--  [PolymerFire] [web-7]  - 用于Firebase的Polymer Web Components.
--  [VueFire] [web-8]  -  Vue.js的Firebase绑定.
--  [Angular Fire 2] [web-9]  -  Firebase和Angular的官方图书馆.
--  [Re-base] [web-10]  - 用于构建React.js + Firebase应用程序的Relay灵感库.
-  -  [React Redux Firebase] [web-11]  -  Firebase的Redux绑定.  包含用于React的高阶组件.
--  [GatsbyJS Firebase数据源] [web-12]  - 使用Gatsby将您的Firebase数据直接查询到静态生成的页面.
-  -  [Apollo Link Firebase] [web-13]  - 为RealtimeDB提供本地GraphQL接口.  数据库在本地与设备同步，Apollo Link提供对本地数据库的查询.
--  [Firebase的BuckleScript绑定] [web-14]  - 用于FireML的BuckleScript绑定，用于ReasonML项目.
-  -  [Angular Firebase PWA] [web-15]  - 是由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
-  -  [FireSQL] [web-16]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
+-  [Firebase UI] [firebase-ui]  -  FirebaseUI是一个用于Web的开源JavaScript库，可在Firebase SDK之上提供简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [React的Firebase UI] [fb-ui-react]  -  firebaseUI Web的React Wrapper.
+-  [GeoFire for JavaScript] [geofire]  - 使用Firebase进行实时位置查询.
+-  [FirePad] [firepad]  - 由Firebase提供支持的协作文本编辑器.
+-  [Ember Fire] [ember-fire]  - 适用于Firebase的官方Ember数据适配器.
+-  [Firebase Dart] [fb-dart]  -  Firebase的飞镖包装.
+-  [PolymerFire] [polymer-fire]  - 用于Firebase的聚合物Web组件.
+-  [VueFire] [vue-fire]  -  Vue.js的Firebase绑定.
+-  [Angular Fire 2] [ng-fire]  -  Firebase和Angular的官方图书馆.
+-  [Re-base] [rebase]  - 用于构建React.js + Firebase应用程序的Relay灵感库.
+  -  [React Redux Firebase] [react-redux-fb]  -  Firebase的Redux绑定.  包含用于React的高阶组件.
+-  [GatsbyJS Firebase数据源] [gatsby-fire]  - 使用Gatsby将您的Firebase数据直接查询到静态生成的页面.
+  -  [Apollo Link Firebase] [apollo-link-fb]  - 为RealtimeDB提供本地GraphQL接口.  数据库在本地与设备同步，Apollo Link提供对本地数据库的查询.
+-  [Firebase的BuckleScript绑定] [bs-fb]  - 用于FireML的BuckleScript绑定，用于ReasonML项目.
+  -  [Angular Firebase PWA] [ng-firestarter]  - 由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
+  -  [FireSQL] [firesql]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
 -  [主机版本历史] [hosting-version-hist]  - 自动删除旧版本的站点部署.
 -  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React.
 
 ## Mobile
 
--  [Firebase Flutter文档] [mobile-1]  - 官方Firebase Flutter设置.
--  [NativeScript插件Firebase] [mobile-2]  -  Firebase的NativeScript插件.
--  [FlutterFire] [mobile-3]  - 在您的跨平台[Flutter] [mobile-3-flutter]应用程序中使用Firebase服务.
-  -  [React Native Firebase] [mobile-4]  - 经过充分测试的功能丰富的模块化Firebase实现React Native.  支持iOS和Android平台.
--  [React Native Firebase云消息传递] [mobile-5]  - 
+-  [Firebase Flutter Documentation] [fb-flutter]  - 官方Firebase Flutter设置.
+-  [NativeScript插件Firebase] [fb-nativescript]  -  Firebase的NativeScript插件.
+-  [FlutterFire] [fb-flutter-fire]  - 在跨平台[Flutter] [flutter]应用程序中使用Firebase服务.
+  -  [React Native Firebase] [rn-fb]  - 经过充分测试的功能丰富的模块化Firebase实现React Native.  支持iOS和Android平台.
+-  [React Native Firebase云消息传递] [rn-fb-fcm]  - 
   React Native模块，用于Firebase云消息传递和本地通知.
--  [Expo Native Firebase] [mobile-6]  - 用于Firestore，通知，分析，存储，消息传递，数据库的原生Firebase Expo App（iOS，Android）演示.
--  [Flutter Calendar App] [mobile-7]  - 
+-  [Expo Native Firebase] [expo-fb]  - 用于Firestore，通知，分析，存储，消息传递，数据库的原生Firebase Expo App（iOS，Android）演示.
+-  [Flutter Calendar App] [flutter-cal]  - 
   新的Flutter应用程序实现了一个简单的移动日历应用程序，用于将基本事件存储到Firebase云数据库
 
 ### Android
 
--  [GeoFire for Java] [android-1]  - 使用Firebase进行实时位置查询.
--  [Firebase UI] [android-2]  -  Firebase的优化UI组件.
--  [FireXtensions] [android-3]  -  Firebase Android SDK的非官方Kotlin扩展程序.
+-  [GeoFire for Java] [geofire-java]  - 使用Firebase进行实时位置查询.
+-  [Firebase UI] [fb-ui-android]  - 为Firebase优化的UI组件.
+-  [FireXtensions] [android-firextensions]  -  Firebase Android SDK的非官方Kotlin扩展程序.
 
 ### iOS
 
--  [Objective-C的GeoFire] [ios-1]  - 使用Firebase进行实时位置查询.
-- 🔌 [Firebase UI][ios-2] - iOS UI bindings for Firebase.
-  -  [MLKit  -  ARCore] [ios-3]  - 检测对象并在增强现实中使用3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
--  [MLKit  -  ARKit] [ios-4]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
+-  [GeoFire for Objective-C] [geofire-objc]  - 使用Firebase进行实时位置查询.
+-  [Firebase UI] [fb-ui-ios]  - 适用于Firebase的iOS UI绑定.
+  -  [MLKit  -  ARCore] [mlkit-arcore]  - 检测对象并使用增强现实中的3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
+-  [MLKit  -  ARKit] [mlkit-arkit]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
 
 ## Server-side (Cloud Functions, BigQuery etc)
 
--  [Firebase管理员文档] [server-1]  - 官方Firebase管理SDK服务器设置.
--  [Functions Samples] [server-2]  - 使用Cloud Functions for Firebase展示常用用例的示例应用程序集合.
--  [云服务器上的Express Server] [server-3]  - 在云功能上托管Express服务器.
--  [云函数上的GraphQL服务器] [server-4]  - 在云功能上托管具有GraphQL中间件的Express服务器.
--  [带云函数的编译代码] [server-5]  - 使用Babel，TypeScript编译器或ParcelJS将Flow，TypeScript或ReasonML编译到正确的节点运行时.
--  [BigQuery和Google Analytics] [server-6]  - 如何使用BigQuery在Google Analytics for Firebase中创建封闭式渠道.
-- 📹 [Official Cloud Function #Firecasts][server-7] - YouTube video series about understanding how Cloud Functions work.
+-  [Firebase管理文档] [fb-admin-docs]  - 官方Firebase管理SDK服务器设置.
+-  [Functions Samples] [fb-func-samples]  - 使用Cloud Functions for Firebase展示常用用例的示例应用程序集合.
+-  [云服务器上的Express Server] [fb-func-express]  - 在云功能上托管Express服务器.
+-  [云函数上的GraphQL服务器] [fb-func-graphql]  - 在云函数上托管具有GraphQL中间件的Express服务器.
+-  [带云函数的编译代码] [fb-func-compiled-code]  - 使用Babel，TypeScript编译器或ParcelJS将Flow，TypeScript或ReasonML编译到正确的Node运行时.
+-  [BigQuery和Google Analytics] [bq-fb-analytics]  - 如何使用BigQuery在Google Analytics for Firebase中创建封闭式渠道.
+- 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - YouTube video series about understanding how Cloud Functions work.
 -  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
 
 ## CLI & Editor
 
--  [Firebase工具] [cli-editor-1]  -  Firebase命令行工具.
--  [Firebase CI] [cli-editor-2]  - 简化的Firebase交互，实现持续集成.
--  [VSFire] [cli-editor-3]  -  VSCode扩展，用于使用Firestore安全规则和索引进行语法突出显示和代码完成.
--  [Firebase Firestore代码段] [cli-editor-4]  - 包含VS代码编辑器中Firebase和Firestore的代码段.
--  [Fuego] [cli-editor-5]  - 支持文档添加/更新/查询的Firestore客户端CLI，带有过滤和分页功能.
--  [Firestore Rules Generator] [cli-editor-6]  - 基于Google协议缓冲区格式的Cloud Firestore官方（但实验性）Firebase规则生成器.
+-  [Firebase工具] [fb-tools]  -  Firebase命令行工具.
+-  [Firebase CI] [fb-ci]  - 简化Firebase交互以实现持续集成.
+-  [VSFire] [vsfire]  - 使用Firestore安全规则和索引进行语法突出显示和代码完成的VSCode扩展.
+-  [Firebase Firestore Snippets] [fb-firestore-snippets]  - 包含VS Code编辑器中Firebase和Firestore的代码段.
+-  [Fuego] [fuego]  - 支持文档添加/更新/查询的Firestore客户端CLI，带有过滤和分页功能.
+-  [Firestore Rules Generator] [firestore-rules-gen]  - 基于Google协议缓冲区格式的Cloud Firestore官方（但实验性）Firebase规则生成器.
 -  [Firepit] [firepit]  -  Firepit是Firebase CLI的独立可移植版本，没有依赖关系（包括Node.js）.
+-  [Fireward] [fireward]  - 易于使用的Firestore规则语言，类似于Firebase Bolt.
 
 ## Other
 
--  [FireDrill] [other-1]  - 查找，编辑，添加，删除，导入，导出和报告您的Firebase数据.
--  [Unity Solutions] [other-2]  - 使用Firebase工具将常用功能整合到游戏中.
-- 🔌 [Firebase AIR Native Extension][other-3] - Firebase ANE collection give you access to the Google Firebase project in your AdobeAir projects supported on both Android and iOS with 100% identical ActionScript API.
--  [QtFirebase] [other-4]  - 努力将Google的Firebase C ++ API引入Qt + QML.
--  [StackBlitz to Firebase Hosting Deployments] [other-5]  -  StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
-  -  [Flamelink] [other-6]  - 适用于Firebase的CMS.  支持Firestore，RealtimeDatabase和Storage.
--  [Canner CMS] [other-7]  - 适用于支持Firebase / Firestore，GraphQL和Restful API等数据源的开发人员的CMS.
--  [Firebase Summit 2018] [other-8]  - 所有Firebase Summit 2018会谈.
--  [Firebase @ Google Cloud Next &#39;18] [other-9]  - 所有Firebase会谈@ Google Cloud Next 2018.
--  [Firebase @ Google IO &#39;18] [other-10]  - 所有Firebase会谈@ Google IO 2018.
-- 📹 [#AskFirebase YouTube Playlist][other-11] - Official #AskFirebase playlist on YouTube.
+-  [FireDrill] [fire-drill]  - 查找，编辑，添加，删除，导入，导出和报告您的Firebase数据.
+-  [Unity Solutions] [unity-solns]  - 使用Firebase工具将常用功能整合到游戏中.
+-  [Firebase AIR Native Extension] [fb-ane]  -  Firebase ANE集合允许您访问Android和iOS上支持的AdobeAir项目中的Google Firebase项目，并且具有100％相同的ActionScript API.
+-  [QtFirebase] [qt-fb]  - 努力将Google的Firebase C ++ API引入Qt + QML.
+-  [StackBlitz to Firebase Hosting Deployments] [fb-stackblitz]  -  StackBlitz（在线代码编辑器）到Firebase Hosting静态部署.
+  -  [Flamelink] [flamelink]  - 适用于Firebase的CMS.  支持Firestore，RealtimeDatabase和Storage.
+-  [Canner CMS] [canner]  - 适用于支持Firebase / Firestore，GraphQL和Restful API等数据源的开发人员的CMS.
+-  [Firebase Summit 2018] [fb-summit-18]  - 所有Firebase Summit 2018会谈.
+-  [Firebase @ Google Cloud Next &#39;18] [fb-next-18]  - 所有Firebase会谈@ Google Cloud Next 2018.
+-  [Firebase @ Google IO &#39;18] [fb-io-18]  - 所有Firebase会谈@ Google IO 2018.
+- 📹 [#AskFirebase YouTube Playlist][fb-ask-fb] - Official #AskFirebase playlist on YouTube.
 
 <!-- END content -->
 
@@ -133,7 +134,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### Official
 
- [Firebase YouTube] [官方1] [Firebase博客] [官方2] [@ firebase] [官方3] [@bestoffirebase] [官方4]
+ [Firebase YouTube] [fb-yt] [Firebase博客] [fb-blog] [@firebase] [fb-twitter] [@bestoffirebase] [bof-twitter]
 
 ### Community
 
@@ -156,109 +157,110 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 <!-- Links -->
 
-[firebase]：https：//firebase.google.com
+[firebase]: https://firebase.google.com
 [gcp-products]：https：//cloud.google.com/products
 
 <!-- Featured (new releases) -->
 
 [cron-cloud-functions]：https：//firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
-[cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
-[new-2]：https：//github.com/anishkny/integrify
-[new-4]：https：//github.com/jsayol/vscode-firebase-explorer
-[new-5]：https：//github.com/CSFrequency/react-firebase-hooks
+[integrify]：https：//github.com/anishkny/integrify
+[vscode-firebase-explorer]：https：//github.com/jsayol/vscode-firebase-explorer
+[react-firebase-hooks]：https：//github.com/CSFrequency/react-firebase-hooks
 
 <!-- Official Firebase Docs & Quickstarts -->
 
-[docs-1]：https：//firebase.google.com/docs
-[docs-2]：https：//github.com/firebase？utf8 =％E2％9C％93＆q = quickstart＆type=&amp;language =
+[fb-docs]：https：//firebase.google.com/docs
+[fb-quickstarts]：https：//github.com/firebase？utf8 =％E2％9C％93＆q = quickstart＆type=&amp;language=
 [google-codelabs]：https：//codelabs.developers.google.com/？cat = Firebase
 
 <!-- Web -->
 
-[web-1]：https：//github.com/firebase/firebaseui-web
-[web-2]：https：//github.com/firebase/firebaseui-web-react
-[web-3]：https：//github.com/firebase/geofire-js
-[web-4]：https：//github.com/FirebaseExtended/firepad
-[web-5]：https：//github.com/firebase/emberFire
-[web-6]：https：//github.com/FirebaseExtended/firebase-dart
-[web-7]：https：//github.com/FirebaseExtended/polymerfire
-[web-8]：https：//github.com/vuejs/vuefire
-[web-9]：https：//github.com/angular/angularfire2
-[web-10]：https：//github.com/tylermcginnis/re-base
-[web-11]：https：//github.com/prescottprue/react-redux-firebase
-[web-12]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
-[web-13]：https：//github.com/Canner/apollo-link-firebase
-[web-14]：https：//github.com/avohq/bs-firebase
-[web-15]：https：//github.com/codediodeio/angular-firestarter
-[web-16]：https：//github.com/jsayol/FireSQL
+[firebase-ui]：https：//github.com/firebase/firebaseui-web
+[fb-ui-react]：https：//github.com/firebase/firebaseui-web-react
+[geofire]：https：//github.com/firebase/geofire-js
+[firepad]：https：//github.com/FirebaseExtended/firepad
+[man-fire]：https：//github.com/firebase/emberFire
+[fb-dart]：https：//github.com/FirebaseExtended/firebase-dart
+[polymer-fire]：https：//github.com/FirebaseExtended/polymerfire
+[view-fire]：https：//github.com/vuejs/vuefire
+[ng-fire]：https：//github.com/angular/angularfire2
+[fox]：https：//github.com/tylermcginnis/re-base
+[react-redux-fb]：https：//github.com/prescottprue/react-redux-firebase
+[gatsby-fire]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
+[apollo-link-fb]：https：//github.com/Canner/apollo-link-firebase
+[bs-fb]：https：//github.com/avohq/bs-firebase
+[ng-firestarter]：https：//github.com/codediodeio/angular-firestarter
+[firesql]：https：//github.com/jsayol/FireSQL
 [四个城市]：https：//github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 
 <!-- Mobile -->
 
-[mobile-1]：https：//firebase.google.com/docs/flutter/setup
-[mobile-2]：https：//github.com/EddyVerbruggen/nativescript-plugin-firebase
-[mobile-3]：https：//github.com/flutter/plugins/blob/master/FlutterFire.md
-[mobile-3-flutter]：https：//flutter.io/
-[mobile-4]：https：//github.com/invertase/react-native-firebase
-[mobile-5]：https：//github.com/evollu/react-native-fcm
-[mobile-6]：https：//github.com/EvanBacon/expo-native-firebase
-[mobile-7]：https：//github.com/mattgraham1/FlutterCalendar
+[fb-flutter]：https：//firebase.google.com/docs/flutter/setup
+[fb-nativescript]：https：//github.com/EddyVerbruggen/nativescript-plugin-firebase
+[fb-flutter-fire]：https：//github.com/flutter/plugins/blob/master/FlutterFire.md
+[flutter]：https：//flutter.io/
+[rn-fb]：https：//github.com/invertase/react-native-firebase
+[rn-fb-fcm]：https：//github.com/evollu/react-native-fcm
+[expo-fb]：https：//github.com/EvanBacon/expo-native-firebase
+[flutter-cal]：https：//github.com/mattgraham1/FlutterCalendar
 
 <!-- Mobile: Android -->
 
-[android-1]：https：//github.com/firebase/geofire-java
-[android-2]：https：//github.com/firebase/firebaseui-android
-[android-3]：https：//github.com/rosariopfernandes/firextensions
+[geofire-java]：https：//github.com/firebase/geofire-java
+[fb-ui-android]：https：//github.com/firebase/firebaseui-android
+[android-firextensions]：https：//github.com/rosariopfernandes/firextensions
 
 <!-- Movile: iOS -->
 
-[ios-1]：https：//github.com/firebase/geofire-objc
-[ios-2]：https：//github.com/firebase/firebaseui-ios
-[ios-3]：https：//github.com/FirebaseExtended/MLKit-ARCore
-[ios-4]：https：//github.com/FirebaseExtended/MLKit-ARKit
+[geofire-objc]：https：//github.com/firebase/geofire-objc
+[fb-ui-ios]：https：//github.com/firebase/firebaseui-ios
+[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
+[mlkit sheet]：https：//github.com/FirebaseExtended/MLKit-ARKit
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
-[server-1]：https：//firebase.google.com/docs/admin/setup
-[server-2]：https：//github.com/firebase/functions-samples
-[server-3]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
-[server-4]：https：//codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[server-5]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
-[server-6]：https：//medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
-[server-7]：https：//www.youtube.com/watch？v = 2mjfI0FYP7Y＆list = PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[fb-admin-docs]：https：//firebase.google.com/docs/admin/setup
+[fb-func-samples]：https：//github.com/firebase/functions-samples
+[fb-func-express]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-graphql]：https：//codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
+[fb-func-compiled-code]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[bq-fb-analytics]：https：//medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
+[fb-func-firecasts]：https：//www.youtube.com/watch？v = 2mjfI0FYP7Y＆list = PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
+[cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
 
 <!-- CLI & Editor -->
 
-[cli-editor-1]：https：//github.com/firebase/firebase-tools
-[cli-editor-2]：https：//github.com/prescottprue/firebase-ci
-[cli-editor-3]：https：//github.com/toba/vsfire
-[cli-editor-4]：https：//github.com/peterhdd/firebase-firestore-snippets
-[cli-editor-5]：https：//github.com/sgarciac/fuego
-[cli-editor-6]：https：//github.com/FirebaseExtended/protobuf-rules-gen
+[fb-tools]：https：//github.com/firebase/firebase-tools
+[fb-ci]：https：//github.com/prescottprue/firebase-ci
+[vsfire]：https：//github.com/toba/vsfire
+[fb-firestore-snippets]：https：//github.com/peterhdd/firebase-firestore-snippets
+[fuego]：https：//github.com/sgarciac/fuego
+[firestore-rules-gen]：https：//github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]：https：//github.com/abehaskins/firepit
 [fireward]：https：//github.com/bijoutrouvaille/fireward
 
 <!-- Other -->
 
-[other-1]：https：//github.com/scottlepp/fire-drill
-[other-2]：https：//github.com/FirebaseExtended/unity-solutions
-[other-3]：https：//github.com/myflashlab/Firebase-ANE
-[other-4]：https：//github.com/Larpon/QtFirebase
-[other-5]：https：//medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
-[other-6]：https：//flamelink.io/
-[other-7]：https：//github.com/Canner/canner
-[other-8]：https：//www.youtube.com/watch？v = lN0VXVXsj9k＆list = PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
-[other-9]：https：//www.youtube.com/watch？v = OPj26MY16F8＆list = PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
-[other-10]：https：//www.youtube.com/watch？v = e8fiv-vteQ＆list = PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
-[other-11]：https：//www.youtube.com/watch？v = TSzhzR4wzSE＆list = PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
+[fire-drill]：https：//github.com/scottlepp/fire-drill
+[unity-solns]：https：//github.com/FirebaseExtended/unity-solutions
+[fb-ane]：https：//github.com/myflashlab/Firebase-ANE
+[qt-fb]：https：//github.com/Larpon/QtFirebase
+[fb-stackblitz]：https：//medium.com/@ericsimons/announcing-split-second-static-deploys-for-firebase-7440d8e84879
+[flamelink]：https：//flamelink.io/
+[canner]：https：//github.com/Canner/canner
+[fb-summit-18]：https：//www.youtube.com/watch？v = lN0VXVXsj9k＆list = PLl-K7zZEsYLnqdlmz7iFe9Lb6cRU3Nv4R
+[fb-next-18]：https：//www.youtube.com/watch？v = OPj26MY16F8＆list = PLl-K7zZEsYLmYx3MkJRIUPH_JVFHLTlwL
+[fb-io-18]：https：//www.youtube.com/watch？v = e8fiv-vteQ＆list = PLl-K7zZEsYLn1omgx_VUhCDFsQMA7PRDd
+[fb-io-19]：https：//www.youtube.com/playlist？list = PLl-K7zZEsYLlo2L4rfPds-fFLEtOWheoO
+[fb-ask-fb]：https：//www.youtube.com/watch？v = TSzhzR4wzSE＆list = PLl-K7zZEsYLkkCFs6T9mlqG8v6NCs38pA
 
 <!-- Follow -->
 
-[官方1]：https：//www.youtube.com/user/Firebase
-[官方2]：https：//firebase.googleblog.com/
-[官方3]：https：//twitter.com/firebase
-[官方4]：https：//twitter.com/bestoffirebase
+[fb-yt]：https：//www.youtube.com/user/Firebase
+[fb-blog]：https：//firebase.googleblog.com/
+[fb-twitter]：https：//twitter.com/firebase
+[bof-twitter]：https：//twitter.com/bestoffirebase
 [angular-firebase]：https：//www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA
 [ru-telegram-chat]：https：//t.me/firebase_ru
 
