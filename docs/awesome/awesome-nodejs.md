@@ -192,7 +192,7 @@
 - [log-update](https://github.com/sindresorhus/log-update)   - 通过覆盖终端中的先前输出进行记录.  用于渲染进度条，动画等.
 - [Ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序进行反应.
 - [listr](https://github.com/samverschueren/listr) - 终端任务列表.
-- [conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+- [conf](https://github.com/sindresorhus/conf) - 为您的应用或模块进行简单的配置处理.
 - [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - 用于操纵终端的ANSI转义码.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) - 各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有Windows CMD后备的Unicode符号.
@@ -260,7 +260,7 @@
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
+- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
@@ -319,6 +319,7 @@
 - [pkg-dir](https://github.com/sindresorhus/pkg-dir) - 找到npm包的根目录.
 - [filehound](https://github.com/nspragg/filehound) - 灵活流畅的界面，用于搜索文件系统.
 - [move-file](https://github.com/sindresorhus/move-file) - 移动文件，甚至可以跨设备工作.
+- [tempy](https://github.com/sindresorhus/tempy) - 获取随机临时文件或目录路径.
 
 
 ### Control flow
@@ -507,7 +508,7 @@
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获得可用的端口.
 - [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共IP地址.
-- [getmac](https://github.com/bevry/getmac) - 获取计算机MAC地址.
+- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) -  DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯JS中的Netcat端口.
 
@@ -576,6 +577,7 @@
 - [themis](https://github.com/cossacklabs/themis) - 用于使典型加密方案易于使用的多语言框架：静态数据，经过身份验证的数据交换，传输保护，身份验证等.
 - [GuardRails](https://github.com/apps/guardrails) -  GitHub应用程序，在拉取请求中提供安全反馈.
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - 暴力和DDoS攻击保护.
+- [crypto-hash](https://github.com/sindresorhus/crypto-hash) - 异步非阻塞散列.
 
 
 ### Benchmarking
@@ -717,7 +719,7 @@
 - [execa](https://github.com/sindresorhus/execa) - 更好的&#39;child_process`.
 - [cheerio](https://github.com/cheeriojs/cheerio) - 专为服务器设计的核心jQuery的快速，灵活和精益实现.
 - [Electron](https://github.com/atom/electron)   - 使用Web技术构建跨平台桌面应用程序.  *（你可能会喜欢 [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
-- [opn](https://github.com/sindresorhus/opn) - 打开网站，文件，可执行文件等内容.
+- [open](https://github.com/sindresorhus/open) - 打开网站，文件，可执行文件等内容.
 - [hasha](https://github.com/sindresorhus/hasha)   - 哈希变得简单.  获取缓冲区/字符串/流/文件的哈希值.
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次功能.

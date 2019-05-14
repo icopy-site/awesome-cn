@@ -47,7 +47,7 @@
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
 - [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
-- [RTV](https://github.com/michael-lazar/rtv) - 从终端浏览Reddit.
+- [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
 
@@ -65,7 +65,7 @@
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - Dwarf Fortress is a part construction and management simulation, part roguelike, indie video game.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
 
 ## Development
 
@@ -89,7 +89,6 @@
 
 ### Web Development
 
-- [bower-name-cli](https://github.com/sindresorhus/bower-name-cli) - 检查凉亭上是否有包裹名称.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - 搜索 [https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com](https://github.com/agarrharr/awesome-cli-apps/blob/master/caniuse.com) 关于功能的浏览器支持.
 - [is-up-cli](https://github.com/sindresorhus/is-up-cli) - 检查网站是否已启动.
 - [pageres-cli](https://github.com/sindresorhus/pageres-cli) - 捕获网站截图.
@@ -247,7 +246,7 @@
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
 - [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
-- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
+- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.

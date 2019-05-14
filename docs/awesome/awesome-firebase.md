@@ -43,8 +43,9 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ## Official Firebase Docs & Quickstarts
 
 -  [Firebase文档] [fb-docs]  - 官方Firebase文档.
+-  [Firebase状态仪表板] [fb-status-dashboard]  - 此页面提供有关Firebase一部分的服务的状态信息.
 -  [Firebase快速入门] [fb-quickstarts]  - 官方Firebase快速入门.
-  -  [Google Codelabs |  Firebase] [google-codelabs]  -  Google Developers Codelabs提供指导，教程和动手编码体验.
+- 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
 
 ## Web
 
@@ -87,7 +88,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### iOS
 
--  [GeoFire for Objective-C] [geofire-objc]  - 使用Firebase进行实时位置查询.
+- 🔌 [GeoFire for Objective-C][geofire-objc] - Realtime location queries with Firebase.
 -  [Firebase UI] [fb-ui-ios]  - 适用于Firebase的iOS UI绑定.
   -  [MLKit  -  ARCore] [mlkit-arcore]  - 检测对象并使用增强现实中的3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit  -  ARKit] [mlkit-arkit]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
@@ -157,7 +158,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 <!-- Links -->
 
-[firebase]: https://firebase.google.com
+[firebase]：https：//firebase.google.com
 [gcp-products]：https：//cloud.google.com/products
 
 <!-- Featured (new releases) -->
@@ -170,6 +171,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 <!-- Official Firebase Docs & Quickstarts -->
 
 [fb-docs]：https：//firebase.google.com/docs
+[fb-status-dashboard]：https：//status.firebase.google.com
 [fb-quickstarts]：https：//github.com/firebase？utf8 =％E2％9C％93＆q = quickstart＆type=&amp;language=
 [google-codelabs]：https：//codelabs.developers.google.com/？cat = Firebase
 
@@ -215,16 +217,16 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 [geofire-objc]：https：//github.com/firebase/geofire-objc
 [fb-ui-ios]：https：//github.com/firebase/firebaseui-ios
-[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
+[mlkit-arcore]：https：//github.com/FirebaseExtended/MLKit-ARCore
 [mlkit sheet]：https：//github.com/FirebaseExtended/MLKit-ARKit
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
 
 [fb-admin-docs]：https：//firebase.google.com/docs/admin/setup
 [fb-func-samples]：https：//github.com/firebase/functions-samples
-[fb-func-express]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-express
+[fb-func-express]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express
 [fb-func-graphql]：https：//codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0
-[fb-func-compiled-code]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/fb-functions-compiled_code
+[fb-func-compiled-code]：https：//github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel
 [bq-fb-analytics]：https：//medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
 [fb-func-firecasts]：https：//www.youtube.com/watch？v = 2mjfI0FYP7Y＆list = PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 [cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html

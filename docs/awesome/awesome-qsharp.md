@@ -18,7 +18,8 @@ A list of Q# code and resources.
 
 ## Tutorials
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning Q# and quantum computing.
-- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - 在2018年Grace Hopper Celebration上展示的自定进度“量子计算概论”研讨会的材料.
+- [Quantum Kata Notebooks](https://mybinder.org/v2/gh/Microsoft/QuantumKatas/master?filepath=index.ipynb) - Online self-paced tutorials for learning Q# programming and quantum computing.
+- [Deutsch-Jozsa Algorithm](https://github.com/Microsoft/GHC18-IntroToQuantumComputing/) - 用于自定进度的“量子计算简介”研讨会的材料在Grace Hopper Celebration 2018和Hopper x1 Seattle 2019上展出.
 - [Quantum Perceptron](https://github.com/Microsoft/MLADS2018-QuantumML) - 在MLADS 2018上展示的自定进度“量子机器学习简介”研讨会的材料.
 
 ## Books
@@ -29,6 +30,7 @@ A list of Q# code and resources.
 - [Introduction to Quantum Programming through the Quantum Katas](https://www.youtube.com/watch?v=h3M8OomE19o) -  Bettina Heim，Microsoft Ignite 2018年会议（[here](https://www.youtube.com/watch?v=AjBLsrGgEkY) 是与VS Code而不是Visual Studio相同的会话.
 - [Learn to build your first quantum solution with the Quantum Development Kit and Q#](https://www.youtube.com/watch?v=YE4m3yCdcqE) -  John Azariah，Microsoft Build 2018会议.
 - [Programming quantum computers in .NET using Microsoft Q#](https://www.youtube.com/watch?v=qOg6weW-IDo) - 罗尔夫豪斯曼
+- [Quantum computing sessions at //Build 2019](https://mybuild.techcommunity.microsoft.com/sessions?q=quantum)
 
 ## Coding Contests and Solutions
 
@@ -61,6 +63,7 @@ A list of Q# code and resources.
 
 ## Blogs
 - [Q# Dev Blog](https://devblogs.microsoft.com/qsharp/) - Official blog of Q# dev team.
+- [Microsoft Quantum Blog](https://cloudblogs.microsoft.com/quantum/) - 微软Quantum团队的官方博客.
 - [Q# Advent Calendar 2018](https://devblogs.microsoft.com/qsharp/q-advent-calendar-2018/) - Collection of Q#-related blog posts.
 - [The Hitchhiker’s Guide to the Quantum Computing and Q#](https://blogs.msdn.microsoft.com/uk_faculty_connection/2018/02/26/the-hitchhikers-guide-to-the-quantum-computing-and-q-blog/)
 - [El Bruno's blog posts](https://elbruno.com/tag/q/)

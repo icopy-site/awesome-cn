@@ -41,7 +41,7 @@
 
 ## Platforms
 
-- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - Async non-blocking event-driven JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Node.js](https://github.com/sindresorhus/awesome-nodejs#readme) - 基于Chrome的V8 JavaScript引擎构建的异步非阻塞事件驱动的JavaScript运行时.
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) -  Apple手机和平板电脑的移动操作系统.
@@ -75,6 +75,7 @@
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
+	- [Roslyn](https://github.com/ironcev/awesome-roslyn#readme) - Open-source compilers and code analysis APIs for C# and VB.NET languages.
 - [Amazon Alexa](https://github.com/miguelmota/awesome-amazon-alexa#readme) - 虚拟家庭助理.
 - [DigitalOcean](https://github.com/jonleibowitz/awesome-digitalocean#readme) - 为开发人员设计的云计算平台.
 - [Flutter](https://github.com/Solido/awesome-flutter#readme) -  Google的移动SDK，用于使用Dart编写的单个代码库构建原生iOS和Android应用程序.
@@ -191,7 +192,7 @@
 - [Web Audio](https://github.com/notthetup/awesome-webaudio#readme)
 - [Offline-First](https://github.com/pazguille/offline-first#readme)
 - [Static Website Services](https://github.com/agarrharr/awesome-static-website-services#readme)
-- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - Functional and reactive JavaScript framework.
+- [Cycle.js](https://github.com/cyclejs-community/awesome-cyclejs#readme) - 功能和反应式JavaScript框架.
 - [Text Editing](https://github.com/dok/awesome-text-editing#readme)
 - [Motion UI Design](https://github.com/fliptheweb/motion-ui-design#readme)
 - [Vue.js](https://github.com/vuejs/awesome-vue#readme) - 应用程序框架.
@@ -414,6 +415,7 @@
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - 在比赛中学习.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于CSS  - 语言和模块.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供明确的途径，以提高您的知识和技能.
 
 
 ## Security
@@ -571,7 +573,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的双重记帐.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins#readme) - 数字货币，其中加密用于管理单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为免费开源项目提供工具和服务的公司.
@@ -597,7 +599,7 @@
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
-- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
+- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 
 

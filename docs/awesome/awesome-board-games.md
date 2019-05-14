@@ -13,7 +13,7 @@
 
 ### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
 
-&gt; ...一个越野火车冒险，玩家可以收集各种类型的火车车牌，使他们能够获得连接世界各国城市的铁路线路.
+&gt; ...一个越野火车冒险，玩家可以收集各种类型的火车车牌，这些火车可以让他们拥有连接世界各国城市的铁路线路.
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
@@ -65,7 +65,7 @@
 
 ### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
 
-&gt;使用带有梦幻图像的卡片组，玩家选择与“讲故事者”建议的标题相匹配的卡片，并尝试猜测“讲故事者”所选择的卡片.
+&gt;使用一副用梦幻般的图像说明的牌，玩家选择与“讲故事者”建议的标题相匹配的牌，并试图猜出“故事讲述者”所选择的牌.
 
 ![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
 
@@ -138,7 +138,7 @@
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
- &gt; Antike Duellum  - 在Spiel 2011上以Casus Belli的名义预演 - 是一款基于Mac Gerdts&#39;Antike修改规则的双人战略游戏.  游戏包括两个场景：一方面是Punic Wars（罗马与Carthago），另一方面是波斯战争（希腊人与波斯人）.  该游戏的目标是成为第一个获得九位古代人物（国王，学者，将军，公民，航海家）的人.
+ &gt; Antike Duellum  - 在Spiel 2011上以Casus Belli的名义预演 - 是一款基于Mac Gerdts&#39;Antike修改规则的双人战略游戏.  游戏包括两个场景：一方面是Punic Wars（罗马与Carthago），另一方面是波斯战争（希腊人与波斯人）.  游戏的目标是成为第一个获得九位古代人物（国王，学者，将军，公民，航海家）的人.
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
@@ -149,7 +149,7 @@
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 <!-- nothing on wikipedia currently -->
 
- &gt; ...在漫威漫画世界中设置的甲板建造游戏.  为了设置游戏，玩家从蜘蛛侠，绿巨人，独眼巨人或金刚狼等人中选择一些英雄套牌，然后将它们混合在一起以获得各种英雄套牌.  然后玩家选择一个策划小人（Magneto，Loki，Doom博士等）并将其下方的特殊恶棍的攻击卡堆叠起来.  接下来，根据该恶棍的特定方案，根据需要修改恶棍套牌.
+ &gt; ...在漫威漫画世界中设置的甲板建造游戏.  为了设置游戏，玩家从蜘蛛侠，绿巨人，独眼巨人或金刚狼等人中选择一些英雄套牌，并将它们混合在一起以获得各种英雄套牌.  然后玩家选择一个策划小人（Magneto，Loki，Doom博士等）并将其下方的特殊恶棍的攻击卡堆叠起来.  接下来，根据该恶棍的特定方案，根据需要修改恶棍套牌.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
@@ -199,7 +199,7 @@
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt; Anachrony是一个竞争性的欧洲式战略游戏，设置在一个后世界末日的世界，沿着四条不同的意识形态路径重建.  游戏通过称为Eras的一系列回合进行，过去的游戏可以通过游戏后期的时间旅行到达.  玩家扮演四条道路的标志性领导者的角色，不仅要争取他们的人民的至高无上的幸福，还要追求他们的生存.  在第四个时代之后，小行星的撞击震动了地球，威胁要摧毁地球上最后一个独立城市世界首都.  路径应该为即将到来的大灾难做好准备，并且当时机成熟时，请参与撤离倒塌的首都.  最终，其中一条路径将成为改革后的世界理事会的新家园，并将人类带入新的未来.
+ &gt; Anachrony是一个竞争性的欧洲式战略游戏，设置在后世界末日的世界，沿着四种不同的意识形态路径重建.  游戏通过称为Eras的一系列回合进行，过去的游戏可以通过游戏后期的时间旅行到达.  玩家扮演四条道路的标志性领导者的角色，不仅要争取他们的人民的至高无上的幸福，还要追求他们的生存.  在第四个时代之后，小行星的撞击震动了地球，威胁要摧毁地球上最后一个独立城市世界首都.  路径应该为即将到来的灾难做好准备，当时机成熟时，请参与疏散倒塌的首都.  最终，其中一条路径将成为改革后的世界理事会的新家园，并将人类带入新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -344,7 +344,7 @@
 
  &gt; One Night Ultimate Werewolf是一款快节奏的游戏，每个人都可以扮演不同的角色.  在一个晚上和第二天早上，玩家将确定他们中谁是狼人......希望如此.
 
-![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW_3D_Box_250x.png?v=1461752063)
+![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW-BOX-COVER_250x250.jpg?v=1554841270)
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
@@ -382,7 +382,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔法仍然存在，体现在陆地，天空和各种自然物质的精神之中.  随着欧洲的大国越来越多地扩展其殖民帝国，他们将不可避免地声称一个灵魂仍然拥有权力的地方 - 当他们这样做时，土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔法仍然存在，体现在陆地，天空和各种自然物质的精神之中.  随着欧洲的大国越来越多地扩展他们的殖民帝国，他们将不可避免地声称一个灵魂仍然拥有权力的地方 - 当他们这样做时，土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 

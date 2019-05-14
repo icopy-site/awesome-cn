@@ -87,6 +87,14 @@ Contents
 
  这不是典型的“让我们建立博客”的情况.  当我们潜入Elixir并进行各种科学研究时，您将与我一起工作，虚构的航空航天创业公司RED：4的Dev Lead.
 
+
+### [Elixir succinctly](https://www.syncfusion.com/ebooks/elixir-succinctly) *Free* 
+
+<img src="https://cdn.syncfusion.com/content/images/downloads/ebook/ebook-cover/elixir-succinctly.png" width="120px"/>
+
+ 这是一本关于Elixir和OTP的介绍性书籍，直接写到了这一点.  差不多100页学习语言和平台.
+
+
 **高级书籍**
 ---
 

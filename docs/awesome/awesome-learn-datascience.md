@@ -9,7 +9,7 @@
 
 - ['What is Data Science?' on Quora](https://www.quora.com/What-is-data-science)
 - [Explanation of important vocabulary](https://www.quora.com/What-is-the-difference-between-Data-Analytics-Data-Analysis-Data-Mining-Data-Science-Machine-Learning-and-Big-Data-1?share=1) - 大数据的分化，机器学习，数据科学.
-- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - 数据科学简介及其作为商业资产的用途.
+- [Data Science for Business (Book)](https://amzn.to/2voPJUi) - 数据科学及其作为商业资产的使用的介绍.
 
 ## Common Algorithms and Procedures
 

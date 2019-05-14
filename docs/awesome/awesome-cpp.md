@@ -116,7 +116,7 @@
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
- * [CLI11](https://github.com/CLIUtils/CLI11) - Header only single or multi-file C++11 library for simple and advanced CLI parsing. [BSD]
+ * [CLI11](https://github.com/CLIUtils/CLI11)   - 仅用于简单和高级CLI解析的单头或多文件C ++ 11库.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)   - 轻量级C ++命令行选项解析器.  [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)   - 从docstring生成选项解析器的库.  [MIT /升压]
  * [gflags](https://gflags.github.io/gflags/)   - 用于C ++的命令行标记模块.  [BSD]
@@ -126,15 +126,15 @@
  * [PDCurses](https://github.com/wmcbrine/PDCurses)   - 公共域curses库，包含源代码和预编译库.  [公共区域]
  * [replxx](https://github.com/AmokHuginnsson/replxx)   - 支持UTF-8的readline和libedit替换，语法高亮，提示，适用于Unix和Windows.  [BSD]
  * [TCLAP](http://tclap.sourceforge.net)   - 一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [MIT]
- * [termbox](https://github.com/nsf/termbox)   - 用于编写基于文本的用户界面的AC库.  [MIT]
+ * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
 
 ## Compression
-*压缩和存档库*
+*Compression and Archiving Libraries*
 
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - 新一代熵编解码器：有限状态熵和Huff0.
-* [PhysicsFS](https://icculus.org/physfs/)   - 提供各种档案的抽象访问的库.  它适用于视频游戏，设计受到Quake 3文件子系统的启发.  [ZLIB]
+* [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
 * [KArchive](https://quickgit.kde.org/?p=karchive.git)   - 用于创建，读取，编写和操作zip和tar等文件存档的库.  它还通过QIODevice的子类，使用gzip等格式提供数据的透明压缩和解压缩.  [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive)   - 多格式存档和压缩库.  [新BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4)   - 极快的压缩算法.  [BSD] [website](http://www.lz4.org/)
@@ -172,7 +172,7 @@
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)   - 基于OpenCL的GPU加速SPH流体模拟库.  [MIT]
-* [libdill](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. [MIT]
+* [libdill](https://github.com/sustrik/libdill/) - 在C中引入结构化并发.[MIT]
 * [libdispatch](https://github.com/apple/swift-corelibs-libdispatch)   - 由Apple Inc.开发的Grand Central Dispatch（GCD）是一种基于线程池模式的任务并行技术.  libdispatch是一个提供GCD服务实现的库.  [Apache的2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 * [libmill](https://github.com/sustrik/libmill/) - 在C中引入Go风格的并发性.[MIT]
 * [moderngpu](https://github.com/moderngpu/moderngpu)   -  moderngpu是GPU上通用计算的生产力库.  它是为CUDA编写的仅标头C ++库.  该库的独特价值在于其加速原语，用于解决不规则并行问题.  [FreeBSD和版权所有，Sean Baxter]
@@ -196,7 +196,7 @@
 * [Hopscotch map](https://github.com/Tessil/hopscotch-map)   - 一个快速的只有标题的哈希映射，它使用跳房子散列来解决冲突.  [MIT]
 * [LSHBOX](https://github.com/RSIA-LIESMARS-WHU/LSHBOX)   - 局部敏感散列（LSH）的c ++工具箱，提供了几种流行的LSH算法，也支持Python和MATLAB.  [GPL]
 * [plf::list](https://github.com/mattreecebentley/plf_list)   - 一个std :: list实现，它删除了范围拼接，以便启用缓存更友好的结构，从而产生显着的性能提升.  [ZLIB] [website](http://www.plflib.org/list.htm)
-* [plf::stack](https://github.com/mattreecebentley/plf_stack) <i>- A replacement container for the std::stack container adaptor, with better performance than any std container in a stack context.</i> <b> -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器。</b> <i>[zLib]</i> <b>[ZLIB]</b> [website](http://www.plflib.org/stack.htm)
+* [plf::stack](https://github.com/mattreecebentley/plf_stack)   -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器.  [ZLIB] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)   -  Arthur O&#39;Dwyer的ring_span实现的简化实现，即.  循环缓冲区视图.  [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp)   - 用于C ++的快速，内存有效的哈希映射.  [BSD 3条款]
 
@@ -229,7 +229,7 @@
 ## Database
 *数据库库，SQL服务器，ODBC驱动程序和工具*
 
-* [hiberlite](https://github.com/paulftw/hiberlite)   -  sqlite3的C ++对象关系映射.  [BSD]
+* [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
 * [Hiredis](https://github.com/redis/hiredis)   -  Redis数据库的简约C客户端库.  [BSD]
 * [LevelDB](https://github.com/google/leveldb)   - 在Google编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [LMDB](http://symas.com/mdb/)   - 具有完整ACID语义的非常快速的嵌入式键/值存储.  [OpenLDAP的]
@@ -263,7 +263,7 @@
 * [Catch](https://github.com/philsquared/Catch)   - 用于单元测试，TDD和BDD的现代C ++原生，仅限标头的框架.  [促进]
 * [Catch2](https://github.com/catchorg/Catch2)   - 用于单元测试，TDD和BDD的现代C ++原生，仅限标头的测试框架.  [BSL-1.0]
 * [Celero](https://github.com/DigitalInBlue/Celero)   -  C ++基准测试框架.  [Apache2的]
-* [CppUTest](https://github.com/cpputest/cpputest) - Unit testing and mocking framework for C/C++. [BSD-3-clause]
+* [CppUTest](https://github.com/cpputest/cpputest)   -  C / C ++的单元测试和模拟框架.  [BSD -3-子句]
 * [CUTE](http://cute-test.com)   -  C ++单元测试更容易.  [LGPL3]
 * [CMocka](https://cmocka.org/)   -  C的单元测试框架，支持模拟对象.  [Apache2的]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)   -  JUnit的C ++端口.  [LGPL2]
@@ -317,7 +317,7 @@
 
 * [CEGUI](http://cegui.org.uk/) - 灵活的跨平台GUI库.
 * [FLTK](http://www.fltk.org/index.php)   - 快速，轻便，跨平台的C ++ GUI工具包.  [GPL2]
-* [GacUI](https://github.com/vczh-libraries/GacUI)   -  GPU加速C ++用户界面，具有WYSIWYG开发工具，XML支持，内置数据绑定和MVVM功能.  [MS-PL]
+* [GacUI](https://github.com/vczh-libraries/GacUI) - GPU Accelerated C++ User Interface, with WYSIWYG developing tools, XML supports, built-in data binding and MVVM features. [Ms-PL]
 * [GTK+](http://www.gtk.org/)   - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)   - 流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)   - 具有最小依赖性的即时模式图形用户界面.  [MIT]
@@ -419,7 +419,7 @@
 * [jbson](https://github.com/chrismanning/jbson)   -  jbson是一个用于构建和迭代BSON数据的库，以及C ++ 14中的JSON文档.  [促进]
 * [JeayeSON](https://github.com/jeaye/jeayeson)   - 一个非常理智（仅限标题）的C ++ JSON库.  [BSD]
 * [Jsmn](https://github.com/zserge/jsmn) -  C中的简约JSON解析器.[MIT]
-* [json](https://github.com/nlohmann/json)  ：zap： - 现代C ++的JSON.  [MIT]
+* [json](https://github.com/nlohmann/json) :zap: - JSON for Modern C++. [MIT]
 * [JSON++](https://github.com/hjiang/jsonxx)   -  C ++中的JSON解析器.  [MIT]
 * [json.h](https://github.com/sheredom/json.h)   - 一个简单的一个头/一个源解决方案，用于在C和C ++中解析JSON.  [授予许可]
 * [json-c](https://github.com/json-c/json-c) -  C中的JSON实现.[MIT]
@@ -433,7 +433,7 @@
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap： - 通用配置库解析器[BSD-2-Clause]
 * [PicoJSON](https://github.com/kazuho/picojson)   -  C ++中的头文件，JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
-* [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
+* [QJson](https://github.com/flavio/qjson)   - 基于qt的库，可将JSON数据映射到QVariant对象.  [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
 * [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
@@ -479,7 +479,7 @@
 * [Armadillo](https://gitlab.com/conradsnicta/armadillo-code)   - 用于线性代数和科学计算的快速C ++库.  [Apache2的] [website](http://arma.sourceforge.net/)
 * [blaze](https://bitbucket.org/blaze-lib/blaze)   - 用于密集和稀疏算术的高性能C ++数学库.  [BSD]
 * [Boost.Multiprecision](http://www.boost.org/doc/libs/master/libs/multiprecision/doc/html/index.html)   - 在C ++，仅头文件或GMP / MPFR / LibTomMath后端中提供更高范围/精度的整数，有理和浮点类型.  [促进]
-* [ceres-solver](http://ceres-solver.org/) - C++ library for modeling and solving large complicated nonlinear least squares problems from google. [BSD]
+* [ceres-solver](http://ceres-solver.org/)   - 用于建模和解决谷歌大型复杂非线性最小二乘问题的C ++库.  [BSD]
 * [CGAL](https://github.com/CGAL/cgal)   - 收集高效可靠的几何算法.  [LGPL＆GPL] [website](http://www.cgal.org/)
 * [cml](http://cmldev.net/)   - 免费的C ++数学库，用于游戏和图形.  [促进]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
@@ -610,6 +610,7 @@
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
+* [visit_struct](https://github.com/cbeck88/visit_struct)   - 用于C ++中结构域反射的微型库.  [BSL-1.0]
 
 ## Regular Expression
 
@@ -674,7 +675,7 @@
 * [cppcodec](https://github.com/tplgy/cppcodec)   - 仅限头文件的C ++ 11库，用于编码/解码base64，base32和hex，具有一致，灵活的API.  [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)   - 内存高效的序列化库.  [Apache2的]
 * [MessagePack](https://github.com/msgpack/msgpack-c)   - 用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2的] [website](http://msgpack.org/)
-* [nanopb](https://github.com/nanopb/nanopb) - Small code-size Protocol Buffers implementation in ANSI C. [Zlib]
+* [nanopb](https://github.com/nanopb/nanopb) -  ANSI C中的小代码大小的协议缓冲区实现.[Zlib]
 * [protobuf](https://github.com/google/protobuf)   - 协议缓冲区 - 谷歌的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) -  C中的协议缓冲器实现.[BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)   - 为低延迟应用程序编码和解码二进制格式的应用程序消息.  [Apache2的]
@@ -688,7 +689,7 @@
 
 ## Video
 
-* [libvpx](http://www.webmproject.org/code/)   -  VP8 / VP9 Codec SDK.  [BSD]
+* [libvpx](http://www.webmproject.org/code/) - VP8/VP9 Codec SDK. [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)   - 一个完整的跨平台解决方案，用于录制，转换和流式传输音频和视频.  [LGPL2 / GPL2]
 * [libde265](https://github.com/strukturag/libde265)   - 打开h.265视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)   - 打开h.265视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
@@ -759,7 +760,7 @@
 * [libusb](https://libusb.info/)   - 通用USB库，允许便携式访问USB设备.  [LGPL2]
 * [Mach7](https://github.com/solodon4/Mach7)   - 用于C ++的模式匹配库.  [BSD]
 * [mio](https://github.com/mandreyel/mio)   - 用于内存映射文件IO的跨平台C ++ 11标头库.  [MIT]
-* [PEGTL](https://github.com/ColinH/PEGTL)   - 解析表达式语法模板库，一个C ++ 11解析器库.  [MIT]
+* [PEGTL](https://github.com/taocpp/PEGTL)   - 解析表达式语法模板库.  [MIT]
 * [Remote Call Framework](http://www.deltavsoft.com/)   -  C ++的进程间通信框架.  [GPL2 /商业]
 * [Scintilla](http://scintilla.org/)   - 免费的源代码编辑组件.  [MIT]
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
@@ -771,7 +772,7 @@
 * [stdman](https://github.com/jeaye/stdman)  格式化的C ++ 11/14 stdlib手册页（来自cppreference）.  [MIT]
 * [stb](https://github.com/nothings/stb)  ：zap： - 一系列用于C / C ++的单文件库.  [公共区域]
 * [StrTk](http://www.partow.net/programming/strtk/index.html)   - 由高性能字符串处理例程组成的C ++库.  [MIT]
-* [Tulip Indicators](https://tulipindicators.org) - A C library of over 100 financial technical analysis indicators. [LGPL]
+* [Tulip Indicators](https://tulipindicators.org)   - 超过100个财务技术分析指标的AC库.  [LGPL]
 * [ub-canaries](https://github.com/regehr/ub-canaries) - 一组C / C ++程序，试图让编译器利用未定义的行为.
 * [value-category-cheatsheet](https://github.com/jeaye/value-category-cheatsheet)  用于左值，右值等的PDF备忘单.  [Jank copyleft]
 * [VarTypes](https://code.google.com/p/vartypes/)   - 一个功能丰富，面向对象的框架，用于管理C ++ / Qt4中的变量.  [LGPL]
@@ -953,7 +954,7 @@
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -  TheNewBoston官方Buckys C ++编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是新波士顿的C ++编程教程.
-* [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 使用Qt教程的newboston C ++ GUI官方播放列表.
+* [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - Official Playlist for thenewboston C++ GUI with Qt tutorials.
 * [C Programming Tutorials](https://www.youtube.com/playlist?list=PL78280D6BE6F05D34) - 所有TheNewBoston的C编程教程都在这里.
 * [Bo Qian's playlist](https://www.youtube.com/user/BoQianTheProgrammer/playlists) -  Boost Library，C ++标准库，现代C ++，高级C ++，高级STL，......
 
@@ -1022,7 +1023,7 @@
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap： - 单文件C / C ++库列表.
 
 ## Contributing
-Please take a quick gander at the [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
+请快速了解一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 详情.
 谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ;  你摇滚！
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
