@@ -54,7 +54,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
     * Microsoft IoT Hub  - 每天8,000条消息
     *负载均衡器 -  1个免费公共负载均衡IP（VIP）
     *通知中心 -  100万推送通知
-    *带宽 - 每月5GB出口
+    * Bandwidth - 5GB egress per month
     * Visual Studio代码
     *完整，详细的清单 -  https://azure.microsoft.com/en-us/free/
 
@@ -281,7 +281,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
-  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
+  * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
   * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
@@ -383,7 +383,6 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [nstack.com](https://www.nstack.com/)   - 异步任务处理（如AWS Lambda）.  10个免费私人服务和无限制的免费公共服务
   * [pubnub.com](https://www.pubnub.com/) - 每月最多100万条消息的免费推送通知和每日100个活动设备
   * [pushtechnology.com](https://www.pushtechnology.com/)   - 浏览器，智能手机和每个人的实时消息传递.  100个并发连接.  每月免费10 GB数据
-  * [webtask.io](https://webtask.io/)   - 使用HTTP调用运行代码.  没有配置.  没有部署
   * [zapier.com](https://zapier.com/)   - 连接您使用的应用程序，以自动执行任务.  5次，每15分钟100次，每月100次
   * [stackstorm.com](https://stackstorm.com/) - 针对应用，服务和工作流的事件驱动自动化，免费无流量，访问控制，LDAP，......
   * [simperium.com](https://simperium.com/)   - 即时自动地移动数据，多平台，无限制地发送和存储结构化数据，最多  每月2,500名用户
@@ -455,7 +454,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
    * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
-   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
+   * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/)   - 将事件转换并路由到其他第三方服务的集线器.  每月100,000活动免费
    * [ngrok.com](https://ngrok.com/) - 通过隧道将本地运行的服务器暴露给公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
@@ -610,7 +609,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 
   * [braintreepayments.com](https://braintreepayments.com/)   - 信用卡，Paypal，Venmo，比特币，Apple Pay，...集成.  单笔和经常性付款.  首个50,000美元免费
   * [currencylayer.com](https://currencylayer.com/) - 为您的企业提供可靠的汇率和货币换算，每月免费提供1,000个API请求
-  * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  * [vatlayer.com](https://vatlayer.com/) - 即时增值税号码验证和欧盟增值税率API，每月免费100 API请求
   * [fraudlabspro.com](https://www.fraudlabspro.com)   - 帮助商家防止付款欺诈和退款.  免费微计划每月提供500个查询.
 
 ## Docker Related

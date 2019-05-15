@@ -1079,6 +1079,8 @@
 ---
 ### Videos
 
+#### [reactjsvideos.com](https://www.reactjsvideos.com)
+
 #### Video from Confs
 * [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)

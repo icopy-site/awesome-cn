@@ -166,6 +166,7 @@
 	- [Frameworks](https://github.com/troxler/awesome-css-frameworks#readme)
 - [React](https://github.com/enaqx/awesome-react#readme) - 应用程序框架.
 	- [Relay](https://github.com/expede/awesome-relay#readme) - 构建数据驱动的React应用程序的框架.
+	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - 一种新功能，允许您在不编写类的情况下使用状态和其他React功能.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发Web组件的JavaScript库.
 - [Angular](https://github.com/gdi2290/awesome-angular#readme) - 应用程序框架.
@@ -246,7 +247,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) -  Java Web应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建，更改和版本化基础架构的工具.
-- [Vapor](https://github.com/Cellane/awesome-vapor#readme) -  Swift中的服务器端开发.
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/Acrotrend/awesome-dash#readme) -  Python Web应用程序框架.
 
 
@@ -268,7 +269,7 @@
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 非密码学家使用密码学的理论基础.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
 	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
@@ -352,6 +353,7 @@
 - [GitHub](https://github.com/phillipadsmith/awesome-github#readme) -  Git存储库的托管服务.
 	- [Browser Extensions](https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme)
 	- [Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet#readme)
+	- [Pinned Gists](https://github.com/matchai/awesome-pinned-gists#readme) -  GitHub配置文件的动态固定要点.
 - [Git Cheat Sheet & Git Flow](https://github.com/arslanbilal/git-cheat-sheet#readme)
 - [Git Tips](https://github.com/git-tips/tips#readme)
 - [Git Add-ons](https://github.com/stevemao/awesome-git-addons#readme) - 增强`git` CLI.
@@ -573,7 +575,7 @@
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) - 开源监控系统.
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的双重记帐.
-- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - Public domain works.
+- [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
 - [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins#readme) - 数字货币，其中加密用于管理单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为免费开源项目提供工具和服务的公司.
@@ -599,7 +601,7 @@
 - [Agriculture](https://github.com/beaorn/awesome-agriculture#readme) - 用于农业和园艺的开源技术.
 - [Plotters](https://github.com/beardicus/awesome-plotters#readme) - 计算机控制的绘图机和其他视觉艺术机器人.
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
-- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - Turn your database into a GraphQL API.
+- [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 
 

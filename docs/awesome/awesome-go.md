@@ -22,7 +22,7 @@
 
 *用于操纵音频的库.*
 
-* [EasyMIDI](https://github.com/algoGuy/EasyMIDI) -  EasyMidi是一个简单可靠的库，用于处理标准midi文件（SMF）.
+* [EasyMIDI](https://github.com/algoGuy/EasyMIDI) - EasyMidi is a simple and reliable library for working with standard midi file (SMF).
 * [flac](https://github.com/eaburns/flac) - 简洁的原生Go FLAC解码器，可将FLAC文件解码为字节片.
 * [flac](https://github.com/mewkiz/flac) -  Native Go FLAC编码器/解码器，支持FLAC流.
 * [gaad](https://github.com/Comcast/gaad) -  Native Go AAC比特流解析器.
@@ -112,7 +112,7 @@
 * [flaggy](https://github.com/integrii/flaggy) - 一个强大的惯用标志包，具有出色的子命令支持.
 * [flagvar](https://github.com/sgreben/flagvar) -  Go的标准`flag`包的标志参数类型的集合.
 * [go-arg](https://github.com/alexflint/go-arg) -  Go中基于struct的参数解析.
-* [go-commander](https://github.com/yitsushi/go-commander) - 使用库来简化CLI工作流程.
+* [go-commander](https://github.com/yitsushi/go-commander) - 转到库以简化CLI工作流程.
 * [go-flags](https://github.com/jessevdk/go-flags) -  go命令行选项解析器.
 * [go-getoptions](https://github.com/DavidGamba/go-getoptions) -  Go选项解析器的灵感来自于Perl的GetOpt :: Long的灵活性.
 * [gocmd](https://github.com/devfacet/gocmd) -  Go库用于构建命令行应用程序.
@@ -139,7 +139,7 @@
 * [aurora](https://github.com/logrusorgru/aurora) - 支持fmt.Printf / Sprintf的ANSI终端颜色.
 * [cfmt](https://github.com/mingrammer/cfmt) - 受bootstrap颜色类启发的上下文fmt.
 * [chalk](https://github.com/ttacon/chalk) - 用于美化终端/控制台输出的直观包装.
-* [color](https://github.com/fatih/color) - 用于彩色终端输出的多功能包装.
+* [color](https://github.com/fatih/color) - Versatile package for colored terminal output.
 * [colourize](https://github.com/TreyBastian/colourize) - 在终端中使用ANSI颜色文本库.
 * [ctc](https://github.com/wzshiming/ctc) - 非侵入式跨平台终端颜色库不需要修改Print方法.
 * [go-ataman](https://github.com/workanator/go-ataman) -  Go库，用于在终端中呈现ANSI彩色文本模板.
@@ -160,7 +160,7 @@
 * [termtables](https://github.com/apcera/termtables) - 去Ruby库的端口 [terminal-tables](https://github.com/tj/terminal-table) 用于简单的ASCII表生成以及提供markdown和HTML输出.
 * [termui](https://github.com/gizak/termui) - 基于** termbox-go **的终端仪表板，并受到启发 [blessed-contrib](https://github.com/yaronn/blessed-contrib).
 * [uilive](https://github.com/gosuri/uilive) - 用于实时更新终端输出的库.
-* [uiprogress](https://github.com/gosuri/uiprogress) - 灵活的库，用于在终端应用程序中渲染进度条.
+* [uiprogress](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
 * [uitable](https://github.com/gosuri/uitable) - 使用表格数据提高终端应用程序可读性的库.
 
 ## Configuration
@@ -465,7 +465,7 @@
 * [raft](https://github.com/hashicorp/raft) -  HashiCorp的Golang实施Raft共识协议.
 * [raft](https://github.com/coreos/etcd/tree/master/raft) - 由CoreOS实施Raft共识协议.
 * [redis-lock](https://github.com/bsm/redis-lock) - 使用Redis简化分布式锁定实现.
-* [resgate](https://resgate.io/) - 一个开源的实时API网关，与REST和RPC API兼容.
+* [resgate](https://resgate.io/) - 用于构建REST，实时和RPC API的实时API网关，其中所有客户端都可以无缝同步.
 * [ringpop-go](https://github.com/uber/ringpop-go) -  Go应用程序的可扩展，容错的应用程序层分片.
 * [rpcx](https://github.com/smallnest/rpcx) - 分布式可插拔RPC服务框架，如阿里巴巴Dubbo.
 * [sleuth](https://github.com/ursiform/sleuth) - 用于无主p2p自动发现和HTTP服务之间的RPC的库（使用 [ZeroMQ](https://github.com/zeromq/libzmq)).
@@ -486,7 +486,7 @@
 * [Gomail](https://github.com/go-gomail/gomail/) -  Gomail是一个非常简单而强大的发送电子邮件的包.
 * [Hectane](https://github.com/hectane/hectane) - 提供HTTP API的轻量级SMTP客户端.
 * [hermes](https://github.com/matcornic/hermes) -  Golang包，可生成干净，响应迅速的HTML电子邮件.
-* [MailHog](https://github.com/mailhog/MailHog) - Email and SMTP testing with web and API interface.
+* [MailHog](https://github.com/mailhog/MailHog) - 使用Web和API接口进行电子邮件和SMTP测试.
 * [SendGrid](https://github.com/sendgrid/sendgrid-go) -  SendGrid的Go库用于发送电子邮件.
 * [smtp](https://github.com/mailhog/smtp) -  SMTP服务器协议状态机.
 
@@ -520,7 +520,7 @@
 * [errors](https://github.com/pkg/errors) - 提供简单错误处理原语的包.
 * [errorx](https://github.com/joomcode/errorx) - 功能丰富的错误包，包含堆栈跟踪，错误组合等.
 * [go-multierror](https://github.com/hashicorp/go-multierror) -  Go（golang）包，用于将错误列表表示为单个错误.
-* [tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
+* [tracerr](https://github.com/ztrue/tracerr) - 堆栈跟踪和源片段的Golang错误.
 * [werr](https://github.com/txgruppi/werr) -  Error Wrapper为Go中的错误类型创建一个包装器，它捕获调用它的文件，行和堆栈.
 
 ## Files
@@ -538,7 +538,7 @@
 * [skywalker](https://github.com/dixonwille/skywalker) - 允许一个人轻松地同时通过文件系统的包.
 * [stl](https://gitlab.com/russoj88/stl)   - 用于读写STL（立体光刻）文件的模块.  并发算法用于阅读.
 * [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 用于获取文件.
-* [vfs](https://github.com/C2FO/vfs) - 用于跨越多种文件系统类型（如os，S3和GCS）的Go的可插入，可扩展和固定的文件系统功能集.
+* [vfs](https://github.com/C2FO/vfs) - A pluggable, extensible, and opinionated set of filesystem functionality for Go across a number of filesystem types such as os, S3, and GCS.
 
 ## Financial
 
@@ -732,7 +732,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [smartcrop](https://github.com/muesli/smartcrop) - 为任意图像和裁剪尺寸找到好作物.
 * [steganography](https://github.com/auyer/steganography) - 用于LSB隐写术的Pure Go Library.
 * [stegify](https://github.com/DimitarPetrov/stegify) - 用于LSB隐写术的工具，能够隐藏图像中的任何文件.
-* [svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
+* [svgo](https://github.com/ajstarks/svgo) - 转到SVG生成的语言库.
 * [tga](https://github.com/ftrvxmtrx/tga) - 包tga是TARGA图像格式解码器/编码器.
 
 ## IoT (Internet of Things)
@@ -981,7 +981,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [morse](https://github.com/alwindoss/morse) - 要转换为莫尔斯代码的库.
 * [pdfgen](https://github.com/hyperboloide/pdfgen) - 用于从Json请求生成PDF的HTTP服务.
 * [persian](https://github.com/mavihq/persian) - 一些波斯语语言实用程序.
-* [sandid](https://github.com/aofei/sandid) - Every grain of sand on earth has its own ID.
+* [sandid](https://github.com/aofei/sandid) - 地球上每粒沙子都有自己的ID.
 * [shellwords](https://github.com/Wing924/shellwords) - 一个Golang库，用于根据UNIX Bourne shell的单词解析规则操作字符串.
 * [shortid](https://github.com/teris-io/shortid) - 分布式生成超短，唯一，非顺序，URL友好ID.
 * [stats](https://github.com/go-playground/stats) - 监控MemStats +系统统计数据，如内存，交换和CPU，并通过UDP发送到任何你想要的日志记录等...
@@ -1267,7 +1267,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [devd](https://github.com/cortesi/devd) - 面向开发人员的本地Web服务器
 * [discovery](https://github.com/Bilibili/discovery) - 用于弹性中间层负载平衡和故障转移的注册表.
 * [etcd](https://github.com/coreos/etcd) - 用于共享配置和服务发现的高可用密钥值存储.
-* [Fider](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
+* [Fider](https://github.com/getfider/fider) -  Fider是一个收集和整理客户反馈的开放平台.
 * [Flagr](https://github.com/checkr/flagr) -  Flagr是一个开源功能标记和A / B测试服务.
 * [flipt](https://github.com/markphelps/flipt) - 用Go和Vue.js编写的自包含功能标志解决方案
 * [jackal](https://github.com/ortuman/jackal) - 用Go编写的XMPP服务器.
@@ -1478,7 +1478,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [google-email-audit-api](https://github.com/ngs/go-google-email-audit-api) - 去客户端库 [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
 * [gostorm](https://github.com/jsgilmore/gostorm) -  GoStorm是一个Go库，它实现了编写Storm spouts和Go中的Bolts与Storm shell通信所需的通信协议.
 * [hipchat](https://github.com/andybons/hipchat) - 该项目为Hipchat API实现了一个golang客户端库.
-* [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) - 通过XMPP与HipChat通信的golang包.
+* [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) - A golang package to communicate with HipChat over XMPP.
 * [igdb](https://github.com/Henry-Sarabia/igdb) - 去客户端 [Internet Game Database API](https://api.igdb.com/).
 * [Medium](https://github.com/Medium/medium-sdk-go) - 适用于Medium的OAuth2 API的Golang SDK.
 * [megos](https://github.com/andygrunwald/megos) - 用于访问的客户端库 [Apache Mesos](http://mesos.apache.org/) 簇.
@@ -1531,7 +1531,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [dlog](https://github.com/kirillDanshin/dlog) - 编译时控制的记录器，使您的版本更小，而无需删除调试调用.
 * [ergo](https://github.com/cristianoliveira/ergo) - 简化了在不同端口上运行的多个本地服务的管理.
 * [evaluator](https://github.com/nullne/evaluator)   - 基于s表达式动态评估表达式.  它简单易用.
-* [fastlz](https://github.com/digitalcrab/fastlz) - 包裹 [FastLz](http://fastlz.org/) (free, open-source, portable real-time compression library) for GoLang.
+* [fastlz](https://github.com/digitalcrab/fastlz) - 包裹 [FastLz](http://fastlz.org/) （GoLang的免费，开源，便携式实时压缩库）.
 * [filetype](https://github.com/h2non/filetype) - 小包以推断检查魔数签名的文件类型.
 * [filler](https://github.com/yaronsumel/filler) - 使用“填充”标记填充结构的小实用程序.
 * [filter](https://github.com/gookit/filter) - 提供Go数据的过滤，清理和转换.
@@ -1728,7 +1728,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [client-timing](https://github.com/posener/client-timing) -  Server-Timing标头的HTTP客户端.
 * [CORS](https://github.com/rs/cors) - 轻松为您的API添加CORS功能.
 * [formjson](https://github.com/rs/formjson) - 透明地将JSON输入作为标准表单POST处理.
-* [go-server-timing](https://github.com/mitchellh/go-server-timing) - 添加/解析Server-Timing标头.
+* [go-server-timing](https://github.com/mitchellh/go-server-timing) - Add/parse Server-Timing header.
 * [Limiter](https://github.com/ulule/limiter) -  Go的死简单速率限制中间件.
 * [ln-paywall](https://github.com/philippgille/ln-paywall) - 使用Lightning Network（比特币）通过中间件在每个请求的基础上货币化API.
 * [Tollbooth](https://github.com/didip/tollbooth) - 速率限制HTTP请求处理程序.

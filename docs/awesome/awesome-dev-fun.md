@@ -51,7 +51,7 @@
 - [Fapfap.js](http://fapfapjs.io) - 为DIY爱好者手工制作的JavaScript框架.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) -  JavaScript错误Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - 从Stack Overflow自动完成您的JS.
-- [Object.toSting()](https://github.com/teropa/to-sting) - 将Sting的图像记录到开发控制台.
+- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级声音，高性能，踢屁股的类固醇JavaScript库.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - 通用，跨文化和用户友好的方式显示数字.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -  H9RBS.js（v0.0001）是一个灵活的，无依赖，轻量级，设备无关，模块化，烘焙，组件框架MVC库鞋带，可以帮助您启动响应式基于CSS的应用程序架构骨干kitcheninkink tweetybirds.
@@ -103,6 +103,7 @@
 - [/dev/null as a Service](https://devnull-as-a-service.com) - 第一个DaaS提供商.
 - [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - 企业废话生成器随机选择短语，这可以帮助您的应用程序在旋转，流行语和模糊性至高无上的行业中取得领先.
 - [shoutcloud.io](http://shoutcloud.io/)   - 所有大写作为服务.  ⬆️
+- [Make My Link Longer](https://make-my-link-longer.glitch.me/) - 您一直需要的URL-elongator.
 
 
 ## Browser extensions
@@ -137,7 +138,7 @@
 ## DevOps
 - [No Code](https://github.com/kelseyhightower/nocode)   - 编写安全可靠应用程序的最佳方式.  什么都不写;  无处部署.
 - [Volkswagen](https://github.com/auchenberg/volkswagen) - 大众汽车检测到您的测试何时在CI服务器中运行，并使它们通过.
-- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) - The Terraform plugin for the Dominos Pizza provider.
+- [Terraform for Dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza提供商的Terraform插件.
 
 
 

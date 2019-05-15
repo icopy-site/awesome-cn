@@ -126,7 +126,7 @@
  * [PDCurses](https://github.com/wmcbrine/PDCurses)   - 公共域curses库，包含源代码和预编译库.  [公共区域]
  * [replxx](https://github.com/AmokHuginnsson/replxx)   - 支持UTF-8的readline和libedit替换，语法高亮，提示，适用于Unix和Windows.  [BSD]
  * [TCLAP](http://tclap.sourceforge.net)   - 一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [MIT]
- * [termbox](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [MIT]
+ * [termbox](https://github.com/nsf/termbox)   - 用于编写基于文本的用户界面的AC库.  [MIT]
 
 ## Compression
 *Compression and Archiving Libraries*
@@ -134,7 +134,7 @@
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - 新一代熵编解码器：有限状态熵和Huff0.
-* [PhysicsFS](https://icculus.org/physfs/) - A library to provide abstract access to various archives. It is intended for use in video games, and the design was somewhat inspired by Quake 3's file subsystem. [zlib]
+* [PhysicsFS](https://icculus.org/physfs/)   - 提供各种档案的抽象访问的库.  它适用于视频游戏，设计受到Quake 3文件子系统的启发.  [ZLIB]
 * [KArchive](https://quickgit.kde.org/?p=karchive.git)   - 用于创建，读取，编写和操作zip和tar等文件存档的库.  它还通过QIODevice的子类，使用gzip等格式提供数据的透明压缩和解压缩.  [LGPL]
 * [libarchive](https://github.com/libarchive/libarchive)   - 多格式存档和压缩库.  [新BSD] [website](http://www.libarchive.org/)
 * [LZ4](https://github.com/lz4/lz4)   - 极快的压缩算法.  [BSD] [website](http://www.lz4.org/)
@@ -180,7 +180,7 @@
 * [OpenCL](https://www.khronos.org/opencl/) - 异构系统并行编程的开放标准.
 * [OpenMP](http://openmp.org/) -  OpenMP API.
 * [RaftLib](http://raftlib.io/) -  RaftLib C ++库，通过C ++类似iostream的运算符进行流/数据流并发[Apache2]
-* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)   - 用于C ++的快速单生产者，单用户无锁无队列.  [BSD]
+* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
 * [Thrust](http://thrust.github.io/) - A parallel algorithms library which resembles the C++ Standard Template Library (STL). [Apache2]
 * [transwarp](https://github.com/bloomen/transwarp)   - 用于任务并发的仅标头C ++库.  [MIT]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/)   - 用于任何规模的并行和分布式应用程序的通用C ++运行时系统.  [促进]
@@ -229,7 +229,7 @@
 ## Database
 *数据库库，SQL服务器，ODBC驱动程序和工具*
 
-* [hiberlite](https://github.com/paulftw/hiberlite) - C++ Object-relational mapping for sqlite3. [BSD]
+* [hiberlite](https://github.com/paulftw/hiberlite)   -  sqlite3的C ++对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)   -  Redis数据库的简约C客户端库.  [BSD]
 * [LevelDB](https://github.com/google/leveldb)   - 在Google编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [LMDB](http://symas.com/mdb/)   - 具有完整ACID语义的非常快速的嵌入式键/值存储.  [OpenLDAP的]
@@ -244,7 +244,7 @@
 * [RocksDB](https://github.com/facebook/rocksdb)   - 嵌入式键值存储，可从Facebook快速存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - 高性能，共享内存，无锁，跨平台，单文件，最小依赖，C ++ 11键值存储[Apache2]
 * [SOCI](https://github.com/SOCI/soci)   -  C ++的数据库抽象层.  [BSL-1.0]
-* [SQLite](http://www.sqlite.org/)   - 一个完全嵌入的，功能齐全的关系数据库，只需几百kk就可以包含在您的项目中.  [公共区域]
+* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)   -  SQLiteC ++（SQLiteCpp）是一个智能且易于使用的C ++ SQLite3包装器.  [MIT]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)   - 仅针对sqlite库的头文件C ++ 14包装器.  [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)   - 用于现代C ++的SQLite ORM light header only库.  [BSD -3-第]
@@ -738,7 +738,7 @@
 *有用的库或工具不适合上述类别或可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Better String](http://bstring.sourceforge.net)   -  C的字符串库的替代方法，它更具功能性，并且没有缓冲区溢出溢出问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)   - 基于范围的循环附加组件，受Python内置函数和itertools库的启发.  [BSD-2-第]
@@ -850,6 +850,7 @@
 
 * [Bazel](https://bazel.build)   -  Google提供的多语言，快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
+* [Buck](https://github.com/facebook/buck)   - 快速构建系统，鼓励在各种平台和语言（包括在Facebook上开发和使用的C ++）创建小型，可重复使用的模块.  用Java编写.  [阿帕奇]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供了大量软件包.

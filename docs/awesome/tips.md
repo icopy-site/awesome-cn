@@ -34,6 +34,11 @@ git help -g
 git log -S&#39; <a term in the source>&#39;</a>
 ```
 
+## Show changes over time for specific file
+```sh
+git log -p <file_name>
+```
+
 ## Remove sensitive data from history, after a push
 ```sh
  git filter-branch --force --index-filter&#39;git rm --cached --ignore-unmatch <path-to-your-file>  &#39;--proune-empty --tag-name-filter cat  -  --all &amp;&amp; git push origin --force --all
@@ -54,9 +59,14 @@ git ls-tree --name-only -r <commit-ish>
 git update-ref -d HEAD
 ```
 
+## Reset: preserve uncommitted local changes
+```sh
+git reset --keep <commit>
+```
+
 ## List all the conflicted files
 ```sh
-git diff --name-only --diff-filter=U
+git diff --name-only --diff-filter = U.
 ```
 
 ## List of all files changed in a commit
@@ -136,6 +146,11 @@ git push origin --delete <remote_branchname>
 __Alternatives:__
 ```sh
 git push origin： <remote_branchname>
+```
+
+
+```sh
+git branch -dr <remote/branch>
 ```
 
 ## Delete local tag
@@ -857,6 +872,11 @@ git push -f <remote-name><branch-name>
 git远程添加<remote-nickname><remote-url>
 ```
 
+## List all currently configured remotes
+```sh
+git remote -v
+```
+
 ## Show the author, time and last revision made to each line of a given file
 ```sh
 git责备<file-name>
@@ -1031,6 +1051,15 @@ git rebase --onto <new_base><old_base>
 ## Use SSH instead of HTTPs for remotes
 ```sh
 git config --global url.&#39;git@github.com:&#39;.allyOf&#39;https://github.com/&#39;
+```
+
+## Update a submodule to the latest commit
+```sh
+光盘<path-to-submodule>
+git pull origin <branch>
+光盘<root-of-your-main-project>
+git add <path-to-submodule>
+git commit -m“submodule updated”
 ```
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->

@@ -143,6 +143,7 @@
 - [Reset Customer Password](https://github.com/Vinai/module-customer-password-command) - 使用bin / magento设置客户密码 [Vinai Kopp](https://github.com/Vinai/).
 - [Admin Auto Login](https://github.com/rogyar/magento2-autologin) - 自动登录Magento 2 admin，veru对于演示非常有用
 - [Guest to Customer](https://github.com/magepal/magento2-guest-to-customer) - 快速轻松地将现有的客户结账客户转换为注册客户.
+- [Reset UI Bookmarks](https://github.com/magenizr/Magenizr_ResetUiBookmarks) - 重置UI书签允许管理员用户重置他们自己的UI书签，例如过滤器状态，列位置和应用排序（例如，销售&gt;订单）.
 
 ### Security 
 
