@@ -68,7 +68,7 @@
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -  Polymer团队的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - 基于Open Web Components Recommendations的Starter应用程序.
-- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - 使用最新的LitElement开发下一个自定义元素的生成器.
+- [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - 使用TypeScript中的最新LitElement开发下一个自定义元素的生成器.
 
 ## IDE Plugins
 

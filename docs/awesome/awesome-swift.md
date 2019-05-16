@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  965 |  2019年5月4日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  965 |  2019年5月15日
 
 
 
@@ -260,7 +260,7 @@
 
 * [AwesomeCache](https://github.com/aschuch/AwesomeCache) - 轻松管理缓存.
 * [Cache](https://github.com/hyperoslo/Cache) - 除了缓存外什么都没有.
-* [Cachyr](https://github.com/YR/Cachyr) - 适用于iOS，macOS和tvOS的小型键值数据缓存.
+* [Cachyr](https://github.com/nrkno/yr-cachyr) - 适用于iOS，macOS和tvOS的小型键值数据缓存.
 * [Carlos](https://github.com/spring-media/Carlos) - 简单但灵活的缓存.
 * [EVURLCache](https://github.com/evermeer/EVURLCache) - 如果您想让您的应用在离线时仍然有效.
 * [MemoryCache](https://github.com/yysskk/MemoryCache) - 类型安全的内存缓存.
@@ -473,7 +473,7 @@
 * [NVDate](https://github.com/novalagung/nvdate) - 日期扩展库.
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - 轻松的NSDate管理.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - 时间和日历操作库.
-* [Time](https://github.com/dreymonde/Time) - 由泛型驱动的类型安全时间计算.
+* [Time](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
 * [Timepiece](https://github.com/naoty/Timepiece) - 直观的NSDate扩展.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
@@ -876,7 +876,7 @@
 ### OCR
 [back to top](#readme) 
 
-* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - 基于神经网络的OCR库.
+* [SwiftOCR](https://github.com/garnele007/SwiftOCR) - Neural Network based OCR lib.
 
 ### Optimization
 [back to top](#readme) 
@@ -895,7 +895,7 @@
 * [IBLinter](https://github.com/IBDecodable/IBLinter) -  Interface Builder的linter工具.
 * [SwiftLint](https://github.com/realm/SwiftLint) - 强制执行编码约定的工具.
 * [Swimat](https://github.com/Jintin/Swimat) -  Xcode插件格式化代码.
-* [Tailor](https://github.com/sleekbyte/tailor) :penguin: - Cross-platform static analyzer that helps you to write cleaner code and avoid bugs.
+* [Tailor](https://github.com/sleekbyte/tailor) ：penguin： - 跨平台静态分析器，可帮助您编写更清晰的代码并避免错误.
 
 ### Scripting
 [back to top](#readme) 
@@ -1058,7 +1058,7 @@
 * [GRMustache](https://github.com/groue/GRMustache.swift) - 灵活的胡子模板.
 * [GrowingTextView](https://github.com/KennethTsang/GrowingTextView) - 支持自动增长，占位符和长度限制的UITextView.
 * [HGCircularSlider](https://github.com/HamzaGhazouani/HGCircularSlider) - 适用于iOS应用程序的自定义可重用圆形滑块控件.
-* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - A library, which adds the ability to hide navigation bar when view controller is pushed via hidesNavigationBarWhenPushed flag.
+* [HidesNavigationBarWhenPushed](https://github.com/gontovnik/HidesNavigationBarWhenPushed) - 一个库，当通过hidesNavigationBarWhenPushed标志推送视图控制器时，它增加了隐藏导航栏的功能.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - 像Instagram一样的水平滚动表盘.
 * [IGColorPicker](https://github.com/iGenius-Srl/IGColorPicker) - 适用于iOS的可自定义颜色选择器.
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - 设计精美，易于使用的ImagePicker.
@@ -1068,7 +1068,7 @@
 * [KDInteractiveNavigationController](https://github.com/kingiol/KDInteractiveNavigationController) - 一个UINavigationController子类，支持带隐藏或显示的pop交互式UINavigationBar.
 * [KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition) - 一个插入式通用库可帮助您管理导航栏样式，并在不同导航栏样式之间平滑过渡动画，同时为所有方向推送或弹出视图控制器.
 * [KMPlaceholderTextView](https://github.com/MoZhouqi/KMPlaceholderTextView) - 一个UITextView子类，它添加了对多行占位符的支持.
-* [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重复使用的UI开发，如制作乐高积木.
+* [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重用的UI开发，如制作乐高积木.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - 带液体动画的Spinner装载机组件.
 * [Macaw](https://github.com/exyte/macaw) - 功能强大且易于使用的矢量图形库，支持SVG.
@@ -1243,10 +1243,10 @@
 * [Panels](https://github.com/antoniocasero/Panels) - 面板是一个可以轻松地将滑动面板添加到应用程序的框架.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 具有高度可自定义菜单的分页视图控制器，构建在UICollectionView上.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于iOS的酷炫且可自定义的弹出式动作表.
-* [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control for iOS inspired by Facebook. Right and Left sides. No coding required.
+* [SideMenu](https://github.com/jonkykong/SideMenu)   - 受Facebook欢迎的简单侧面菜单控制.  左右两侧.  无需编码.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) -  iOS幻灯片菜单查看基于Google+，iQON，Feedly，Ameba iOS应用程序.
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) -  Swipable选项卡和菜单View和ViewController.
-* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 适用于iOS的Android PagerTabStrip.
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - 可爱的iOS下拉菜单.
 
 #### Pagination

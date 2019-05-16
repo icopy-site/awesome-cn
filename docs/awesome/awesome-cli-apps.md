@@ -179,7 +179,7 @@
 - [idea](https://github.com/IonicaBizau/idea) - 轻松的工具，可以快速，轻松地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -  Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) - 从命令行管理您的TODO列表.
-- [Terminal velocity](https://terminal-velocity-notes.github.io/terminal_velocity/) - 终端的快速笔记应用程序.
+- [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) -  Simplenote客户.
 - [td-cli](https://github.com/darrikonn/td-cli) - 一个todo经理，负责组织和管理多个项目的待办事项.

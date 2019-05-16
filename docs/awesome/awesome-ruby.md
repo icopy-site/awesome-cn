@@ -323,7 +323,7 @@
 * [Lol DBA](https://github.com/plentz/lol_dba) - 扫描模型并显示可能应编入索引的列列表.
 * [Polo](https://github.com/IFTTT/polo) - 创建示例数据库快照以处理开发中的实际数据.
 * [PgHero](https://github.com/ankane/pghero) -  Postgres的见解变得简单.
-* [Rails DB](https://github.com/igorkasyanchuk/rails_db) - Database Viewer and SQL Query Runner.
+* [Rails DB](https://github.com/igorkasyanchuk/rails_db) - 数据库查看器和SQL查询运行器.
 * [Scenic](https://github.com/thoughtbot/scenic) -  Rails的版本化数据库视图.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) -  SchemaPlus为ActiveRecord提供了一系列增强功能和扩展
 * [SecondBase](https://github.com/customink/secondbase)   -  Rails的无缝第二数据库集成.  SecondBase通过扩展创建，迁移和测试应用程序的ActiveRecord任务，为Rails管理双数据库提供支持.
@@ -1003,7 +1003,7 @@
 
 ## State Machines
 
-* [AASM](https://github.com/aasm/aasm) -  Ruby类的状态机（纯Ruby，Rails Active Record，Mongoid）.
+* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - 一个简单的Ruby状态机，具有直观和富有表现力的语法.
 * [MicroMachine](https://github.com/soveran/micromachine) - 少于50行代码中的最小有限状态机实现.
 * [simple_states](https://github.com/svenfuchs/simple_states) - 一个超薄的状态机支持库.
@@ -1025,7 +1025,7 @@
 
 ## Template Engine
 
-* [Curly](https://github.com/zendesk/curly) - 完全分离结构和逻辑的模板语言.
+* [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
 * [Haml](https://github.com/haml/haml) -  HTML抽象标记语言.
 * [Liquid](https://github.com/Shopify/liquid) - 灵活的Web应用程序的安全，面向客户的模板语言.
 * [Mustache](https://github.com/mustache/mustache) - 无逻辑的Ruby模板.
@@ -1127,7 +1127,8 @@
 * [Bh](https://github.com/fullscreen/bh) -  Ruby的Bootstrap助手.
 * [gon](https://github.com/gazay/gon) - 如果你需要向你的js文件发送一些数据，而你不想在浏览和解析方面做很多事情 - 请使用gon.
 * [Komponent](https://github.com/komposable/komponent) - 基于组件在Rails中组织前端代码的一种看法.
-* [PluggableJs](https://github.com/peresleguine/pluggable_js) - Page-specific javascript for Rails applications with the ability of passing data from a controller.
+* [PluggableJs](https://github.com/peresleguine/pluggable_js) - 针对Rails应用程序的页面特定的javascript，能够从控制器传递数据.
+* [render_async](https://github.com/renderedtext/render_async) - 异步渲染部分视图并提高页面的加载性能.
 
 ## Web Crawling
 

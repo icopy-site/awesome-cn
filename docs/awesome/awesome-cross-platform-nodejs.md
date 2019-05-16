@@ -141,7 +141,7 @@
 如果您想帮助我们修复错误或添加更多信息，请检查
 our [guidelines](https://github.com/bcoe/awesome-cross-platform-nodejs/blob/master/contributing.md) .  拉请求是受欢迎的！
 
-谢谢这些优秀的人：
+谢谢你们这些精彩的人：
 
 <!-- ALL-CONTRIBUTORS-LIST:START -->
 <!-- prettier-ignore -->

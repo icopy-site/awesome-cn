@@ -5,7 +5,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 以下是一系列精选的激进主义数字工具.  这些是为社会变革进行竞选，组织或沟通的个人，特设团体或正式组织的工具.  其中一些工具是开源项目，需要一些技术知识来设置和托管自己.  有些是您通过浏览器中的网页使用的软件即服务工具.  随意分享建议.
+ 下面列出了激进主义的数字工具.  这些是为社会变革进行竞选，组织或沟通的个人，特设团体或正式组织的工具.  其中一些工具是开源项目，需要一些技术知识来设置和托管自己.  有些是您通过浏览器中的网页使用的软件即服务工具.  随意分享建议.
 
 
 
@@ -22,12 +22,11 @@
  * [Self Starter](https://github.com/lockitron/selfstarter) - 滚动您自己的众筹网站
  * [TakeCharge.io](https://github.com/controlshift/prague-server) - 由Stripe提供支持的开源或SaaS在线捐赠.
  * [VictoryKit](http://www.victorykitapp.com)   - 优化请愿活动内容.  没有积极维护.
- * [Countdown](https://github.com/drewrwilson/countdown) - 一个快速而简单的工具，用于制作您自己的网页，其中包含您即将举办的活动的倒计时.
+ * [Countdown](https://github.com/drewrwilson/countdown) - 一个快速而简单的工具，用于制作您自己的网页，并对您即将举办的活动进行倒计时.
  * [CiviCRM](https://civicrm.org/) - 非营利/活动部门的联系管理系统，包括捐赠，会员，活动，短信，批量邮件和完整的CRM.
 
 ## Software as a service:
 
- * [Thunderclap](http://thunderclap.it)   - 使用它来协调同时在社交媒体上共享同一消息的组.  您撰写推文，制作广告系列，并要求人们承诺支持您的广告系列.  当您达到一定数量的承诺人的目标时，您的推文将自动发布到每个出质人的社交媒体上.
  * [Loomio](https://www.loomio.org/)   - 小组协作决策工具.  注意：Loomio [code is also open source](https://github.com/loomio/loomio)，但它通常用作托管服务.
  * [Change.org](https://www.change.org/)  请愿网站.  选择一个目标，提出请愿，发送给你的朋友.  如果他们获得牵引力，Change.org的员工可以提供支持.  （他们还拥有组织帐户，允许团体进行品牌页面并导出签名者的联系信息.）
  * [Contact Congress (FFTF)](http://congress.fightforthefuture.org/)   - 用于向美国国会议员发送电子邮件.  这是为未来而战的开源联系大会的托管版本.  非常适合向国会发送大量电子邮件但没有技术人员可以安装和维护自己版本的开源软件的组织.
@@ -35,6 +34,7 @@
  * [Riseup](http://riseup.net/) - 为活动家提供通信工具的提供商，包括免费的网络邮件，聊天和VPN
  * [Action Network](https://actionnetwork.org)   - 用于进步组织的非营利性数字组织工具集.  包括请愿，宣传，筹款，群发电子邮件等，免费或廉价.
  * [Democracy.io](https://democracy.io) ([code](https://github.com/sinak/democracy.io)） - 向美国参议院和众议院议员发送信息. 
+ * [MoveOn's Petition Platform](https://petitions.moveon.org/)   - 在MoveOn的托管平台上开始您自己的请愿.  如果您的请愿获得牵引力，MoveOn员工可能会帮助您.
  
 ## Operating Systems:
 
@@ -53,6 +53,11 @@
  * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android)   - 一个开源Android应用程序，提供有关数字和物理安全主题的课程和清单，从发送安全邮件到处理物理监视和安全地参加抗议.  还包括用于响应安全事件和订阅源的表单，以确保用户及时了解其所在区域的最新安全信息.  还提供西班牙语和中文.
  * [Code Corps](https://github.com/code-corps) - 代码团队希望提供将人们与具有社会影响力的项目联系起来的工具，促进众筹，并为那些从事项目工作的人提供支持 
+
+## The Graveyad
+
+这些是曾经存在但不再存在的项目或工具
+ * [Thunderclap](http://thunderclap.it)   - 使用它来协调在社交媒体上同时共享同一消息的组.  您撰写推文，制作广告系列，并要求人们承诺支持您的广告系列.  当您达到一定数量的承诺人的目标时，您的推文将自动发布到每个出质人的社交媒体上.
 
 
 ## How do I contribute to this list
