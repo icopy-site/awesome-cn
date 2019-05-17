@@ -1013,6 +1013,7 @@
 * [Awesome C++](https://cpp.libhunt.com/) -  LibHunt的镜子.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
+* [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代C ++上的资源集合.
 * [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - 精选的C / C ++性能优化资源的精选列表.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - 免费提供的编程书籍清单.
 * [Inqlude](http://inqlude.org/) -  Qt库存档.

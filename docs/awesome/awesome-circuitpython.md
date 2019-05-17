@@ -7,7 +7,7 @@
 
 &gt;精选的CircuitPython指南，视频，库，框架，软件和资源的精选列表.
 
-[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写干净简单的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
+[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写简洁的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
 
 
 
@@ -19,7 +19,7 @@
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -  CircuitPython和社区概述.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习CircuitPython的基本功能.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - 关于CircuitPython的Adafruit学习指南.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) -  CircuitPython和MicroPython的指南.
 
 ## Community
@@ -34,6 +34,7 @@
 - [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为订单的一部分购买 [the Adafruit store](https://www.adafruit.com/product/3944)） -  Circuit Playground Express的介绍和讨论，包括通过CircuitPython，MakeCode和Arduino进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)   - 本书可以帮助您开始CircuitPython开发.  本书使用Adafruit ItsyBitsy M0 Express板进行开发.
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论MicroPython语言.
+- [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - 包含许多使用CircuitPython的可穿戴项目.
 
 ## Code
 
@@ -42,7 +43,7 @@
 - [CircuitPython API Reference](http://circuitpython.readthedocs.io/en/latest/) -  CircuitPython可用的功能和文档列表.
 - [Circuit Playground Express CircuitPython API Reference](http://circuitpython.readthedocs.io/projects/circuitplayground/en/latest/) - 使用CircuitPython特定于Circuit Playground Express的功能和文档.
 - [CircuitPython GitHub Repository](https://github.com/adafruit/circuitpython) -  GitHub上CircuitPython的源代码.
-- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过140多个库可用.
+- [Adafruit CircuitPython Libraries](https://github.com/adafruit/Adafruit_CircuitPython_Bundle/blob/master/circuitpython_library_list.md)   - 目前的Adafruit CircuitPython图书馆.  有超过150多个图书馆可供使用.  更多关于图书馆的信息 [CircuitPython.org](https://circuitpython.org/libraries).
 - [Adafruit Blinka - SBC Compatibility](https://learn.adafruit.com/circuitpython-on-raspberrypi-linux?view=all) -  Raspberry Pi上的CircuitPython库和运行Linux的其他兼容单板计算机（SBC）.
 - [CircuitPython Cheat Sheet](https://github.com/adafruit/awesome-circuitpython/blob/master/cheatsheet/CircuitPython_Cheatsheet.md) -  Dave Astels在CircuitPython上有用的备忘单.
 
@@ -51,12 +52,13 @@
 - [The Mu Editor, IDE, REPL, and plotter for CircuitPython](https://codewith.mu/) - 推荐的CircuitPython Python编辑器.
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) -  Mu的文档.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - 博客文章讨论过程.
+- [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - 帮助者 [Atom editor](https://atom.io/).
 
 ## Hardware
 
 可以查看所有支持的板卡 [circuitpython.org](https://circuitpython.org/downloads)  包括描述，图片和兼容的CircuitPython构建.  circuitpython.org上当前主板的摘要：
 
-- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Basic，Adafruit Feather M0 Express，Adafruit Feather M0 Adalogger，Adafruit Feather M0 RFM9x，Adafruit Feather M0 RFM69，Adafruit Feather M4 Express，Adafruit羽毛nRF52832，Adafruit羽毛nRF52840 Express，Adafruit Gemma M0，Adafruit Grand Central M4 Express，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0 Express，Adafruit ItsyBitsy M4 Express，Adafruit Metro M0 Express，Adafruit Metro M4 Express，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal，Adafruit pIRkey，Adafruit Feather Huzzah，Adafruit PyBadge ，Adafruit Metro M4 AirLift Lite，Adafruit Gemma M0 PyCon 2018，Adafruit Circuit Playground Express Digi-Key，Adafruit Circuit Playground Express 4-H，Adafruit Circuit Playground Express + Crickit，Adafruit Feather M0 Express + Crickit.
+- [Adafruit CircuitPython boards](https://www.adafruit.com/circuitpython) -  Adafruit Circuit Playground Express，Adafruit Feather M0 Basic，Adafruit Feather M0 Express，Adafruit Feather M0 Adalogger，Adafruit Feather M0 RFM9x，Adafruit Feather M0 RFM69，Adafruit Feather M4 Express，Adafruit羽毛nRF52832，Adafruit羽毛nRF52840 Express，Adafruit Gemma M0，Adafruit Grand Central M4 Express，Adafruit HalloWing M0 Express，Adafruit ItsyBitsy M0 Express，Adafruit ItsyBitsy M4 Express，Adafruit Metro M0 Express，Adafruit Metro M4 Express，Adafruit NeoTrellis M4，Adafruit Trinket M0，Adafruit PyPortal，Adafruit pIRkey，Adafruit Feather Huzzah，Adafruit PyBadge ，Adafruit PyBadge LC，Adafruit PyGamer，Adafruit Metro M4 AirLift Lite，Adafruit Gemma M0 PyCon 2018，Adafruit Circuit Playground Express Digi-Key，Adafruit Circuit Playground Express 4-H，Adafruit Circuit Playground Express + Crickit，Adafruit Feather M0 Express + Crickit.
 - [Arduino](https://www.arduino.cc/) -  Arduino MKR WAN 1300，Arduino MKR Zero，Arduino Zero.
 - [Electronic Cats](https://electroniccats.com/) -  CatWAN USB Stick，Meow Meow.
 - [MakerDiary](https://store.makerdiary.com/collections/frontpage) -  nRF52840 Micro Dev Kit，nRF52840 Micro Dev Kit USB Dongle.
@@ -67,7 +69,7 @@
 - [SparkFun](https://www.sparkfun.com/) -  SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Mini，SparkFun SAMD21 Dev，SparkFun Pro nRF52840 Mini，SparkFun SAMD21 Dev，SparkFun RedBoard Turbo，SparkFun LumiDrive.
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) -  Feather M0 Supersized，Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) -  KickSat Sprite，SAM32.
-- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) - 芯片
+- [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) -  uChip
 
 将新电路板添加到circuitpython.org上的CircuitPython列表中：请在GitHub上执行pull请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息以映射新电路板.
 
@@ -78,12 +80,13 @@
 ## Newsletter
 
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - 关于MicroPython和CircuitPython的每周简报，一个无垃圾邮件列表.
-- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - 关于为时事通讯做出贡献的指南.
+- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) -  2016年11月开始发布的每份简报清单.
 
 ## News
 
-- [VIDEO: PyCascades - Light Up Your Life - With Python and LEDs](https://youtu.be/mesYTFiRtDs)  作者：Nina Zakharenko.  Python打开了一个与可穿戴电子产品一起工作的全新世界.
+- [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM)  作者：Nina Zakharenko.  Python打开了一个与可穿戴电子产品一起工作的全新世界.  幻灯片是 [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).
+ - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) -  Codecademy与Adafruit合作开设的课程.
  - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) -  CircuitPython在Texas Instrument计算器上运行.
 - [Make: Vol. 68 Boards guide](https://blog.adafruit.com/2019/03/23/make-vol-68-april-may-2019-is-here-guide-to-boards-tech-trend-1-the-push-for-python-make-adafruit-circuitpython/) - Make: Magazine names Python the #1 Tech Trend for boards in 2019!
 - [Scott Shawcroft Is Squeezing Python Into Microcontrollers](https://spectrum.ieee.org/at-work/tech-careers/scott-shawcroft-is-squeezing-python-into-microcontrollers) -  IEEE Spectrum Magazine关于制造商的Python编程语言的文章.
@@ -131,14 +134,6 @@
 - [Python on hardware weekly video cast](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2)   - 硬件上Python的精彩世界！  这是我们的视频通讯 - 播放所有Python和电子产品！  这个消息来自Python社区，不和谐，Adafruit社区等等.  这是每周时事通讯的一部分，然后我们有一个关于ASK工程师的片段，这是视频切片！  此视频播客已开启 [iTunes](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2), [YouTube](https://www.youtube.com/playlist?list=PLjF7R1fz_OOXRMjM7Sm0J2Xt6H81TdDev), [IGTV (Instagram TV](https://www.instagram.com/adafruit/channel/)），和 [XML](https://itunes.apple.com/us/podcast/python-on-hardware/id1451685192?mt=2).
 
 ## Events
-
-- [PyCon 2019 conference](https://us.pycon.org/2019/about/)   -  2019年5月1日至9日，俄亥俄州克利夫兰市.  Digi-Key和Adafruit已合作参加PyCon 2019，因此每位与会者（约4,000人）将获得特别版Circuit Circuit Ground Express，正在运行... CircuitPython.
-
-这项工作是为了让人们聚集在一起，将硬件上的Python用于大多数人.
-
-这只是我们与Digi-Key合作以继续为所有开发人员提供支持的众多努力之一，在微控制器上使用Python  -  [Adafruit](https://blog.adafruit.com/2019/02/23/digi-key-and-adafruit-at-pycon-all-attendees-will-receive-a-circuit-playground-express-digikey-adafruit-pycon-pycon2019/) & [planning doc](https://docs.google.com/document/d/1E36RHKZ57mnb8Ks3hEB1TmPv88w9sXep2_BD0im-Qvk/edit).
-
- 还发生了什么？  CircuitPython团队将运行几个Open Spaces会话（就像去年一样），展示了如何在Digi-Key / Adafruit PyCon特别版Circuit Playground Express上使用CircuitPython.  我们还有额外的插件可供使用：电位器，NeoPixel带和伺服器.  该团队将在几天内运行CircuitPython Sprint，以处理CircuitPython库和CircuitPython核心代码.  BYOMUSB“带上你自己的Micro USB”线，我们将在短跑/会话期间借用一些，以及一些USB C适配器，也是一个好主意！
 
 - [Weekly community chat on Adafruit Discord server CircuitPython channel](https://discord.gg/EAeBY6x) -  CircuitPython的Discord聊天空间，会议通常是周一东部时间下午2点.
 - [Weekly Adafruit Show-and-tell, Wednesday 7:30pm ET on Google+ Hangouts](https://plus.google.com/+adafruit) - 每周一次的Adafruit Show-and-tell计划经常会展示与CircuitPython相关的项目.

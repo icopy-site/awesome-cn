@@ -190,7 +190,7 @@
 - [ActionsClass plugin](https://github.com/HavokInspiration/cakephp-actions-class) - 使您能够将Controller操作作为单个类进行管理.
 - [Ajax plugin](https://github.com/dereuromark/cakephp-ajax) - 一个易于处理AJAX请求的插件.
 - [CakeAdmin plugin](https://github.com/cakemanager/cakephp-cakeadmin) - 具有内置管理区域的非稳定用户管理插件.
-- [CakeDC/Enum](https://github.com/CakeDC/enum) - 一个为您的应用添加枚举列表支持的插件.
+- [CakeDC/Enum plugin](https://github.com/CakeDC/enum) - 一个为您的应用添加枚举列表支持的插件.
 - [CakeDto plugin](https://github.com/dereuromark/cakephp-dto) - 为您的应用程序快速生成有用的数据传输对象（可变/不可变），替换凌乱的数组并通过类型化和自动完成来利用您的IDE.
 - [CakeImpersonate plugin](https://github.com/jomweb/CakeImpersonate)   - 存储当前身份验证会话并为模拟用户创建新会话的组件.  用户无需重新登录即可恢复原始身份验证会话.
 - [CakeMiddlewares](https://github.com/chrisShick/CakeMiddlewares) -  Cakephp中间件的集合.
@@ -204,7 +204,7 @@
 - [Hashid plugin](https://github.com/dereuromark/cakephp-hashid) - 允许使用哈希值不向用户公开数据库ID.
 - [Heartbeat plugin](https://github.com/orca-services/cakephp-heartbeat/) - 监控应用程序的听力（例如，数据库是否可用且是最新的）.
 - [Interval plugin](https://github.com/LubosRemplik/CakePHP-Interval) - 将秒转换为人类可读的字符串（字符串为秒），使用营业时间（1周= 5天，1天= 8小时）.
-- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - 用于递归扫描链接的插件
+- [LinkScanner](https://github.com/mirko-pagliai/cakephp-link-scanner) - 用于递归扫描链接的插件.
 - [Robotusers/Tactician plugin](https://github.com/robotusers/cakephp-tactician) -  Tactician命令总线集成工具.
 - [Setup:Maintenance](https://github.com/dereuromark/cakephp-setup/blob/master/docs/Maintenance/Maintenance.md) - 使用可选IP白名单的所有请求进入维护模式的维护shell.
 - [Shim plugin](https://github.com/dereuromark/cakephp-shim) - 包含有用填充程序和改进的插件，作为您的应用程序的基础.
@@ -346,7 +346,7 @@
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - 自动查找代码问题/气味并自动修复CS错误.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP灯具.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -  Fixtures插件，用于读取现有灯具并创建表/插入数据，以便快速启动app.
-- [FriendsOfCake/fixturize](https://github.com/FriendsOfCake/fixturize) - 通过减少插入量（仅限mysql）运行测试套件时更有效地插入灯具.
+- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - 通过减少插入量（仅限mysql）运行测试套件时更有效地插入灯具.
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) 支持CakePHP夹具记录.
 
 ## Third Party APIs

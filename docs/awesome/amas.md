@@ -163,6 +163,7 @@
 - [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - 所有在一个开发人员.
 - [Frances Coronel](https://github.com/fvcproductions/ama) - 开源爱好者，Slack的软件工程师，Techqueria.org的董事会成员.
+- [Wendell Hu](https://github.com/wendzhue/ama) - 阿里巴巴的前端开发人员. 
 
 #### Ask these organizations anything!
 

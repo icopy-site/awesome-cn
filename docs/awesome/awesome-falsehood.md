@@ -114,7 +114,9 @@ it.
 错误]（https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/） - 
 字符串格式化日期很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有关日期和时间（特别是UTC）的边缘情况，您可能没有想到.
-- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “仅以UTC存储日期”并不总是正确的方法
+- [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “以UTC格式存储日期”并不总是正确的做法.
+- [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 记住闰秒！
+
 
 ## Emails
 

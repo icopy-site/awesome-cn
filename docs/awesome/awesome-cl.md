@@ -42,11 +42,11 @@ Audio
 * [Open Music](https://github.com/openmusic-project/OM6)   - 可视化编程，计算机辅助组合环境.  [GPL3] [2].
 * [OM7](https://github.com/openmusic-project/om7)   -  OpenMusic可视化编程和计算机辅助合成环境的新实现，包括对图形界面，计算模式和与外部软件库的连接的许多改进.  [GPL3] [2].
 * [Incudine](http://incudine.sourceforge.net/)   -  Common Lisp的音乐/ DSP编程环境.  从头开始设计软件合成器或声音插件很有用.  它也是一种组合工具，可以在样本级别产生可控制的高质量声音，在运行中定义和重新定义数字信号处理器和音乐结构.
-* [cl-supercollider](https://github.com/byulparan/cl-collider) - 一个
+* [cl-collider](https://github.com/byulparan/cl-collider) - 一个
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  有了 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)   - 声音和音乐计算系统.  包括Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)   -  Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供了与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic相同的功能 - 一系列创建和操作声音的功能，主要针对作曲家（无论如何都是在CLM的情况下）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns) - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和抒情的方式.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和抒情的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal)   -  OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) - 一个存储库
 古代版的Common Music（版本2.12.0），大概是最后一个
@@ -65,7 +65,7 @@ Audio
 构建系统
 =============
 
-*：明星： [ASDF](https://common-lisp.net/project/asdf/)   - 另一个系统定义设施;  Common Lisp的构建系统.  [外籍] [14].
+*：明星： [ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14].
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)   -  ASDF的扩展.  [外籍] [14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)   - 可视化ASDF系统的库依赖关系，函数的调用图和类继承的工具.  [LLGPL] [8].
 
@@ -75,7 +75,7 @@ Audio
 C，C ++
 ------
 
-* [cmacro](https://github.com/eudoxia0/cmacro) -  C. [MIT] [200]的Lisp宏.
+* [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT][200].
 * [C-mera](https://github.com/kiselgra/c-mera)   - 源代码到源代码编译器，利用Lisp的宏系统进行类C语言的元编程.  [GPL3] [2].
 * [lispc](https://github.com/eratosthenesia/lispc) -  C. [MIT] [200]的强大“lispsy”宏语言.
 
@@ -208,7 +208,7 @@ Graphics
 * [cl-opengl](https://github.com/3b/cl-opengl)   -  CFFI绑定到OpenGL，GLU和GLUT API.  [3条款BSD] [15].
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)   - 使用C2FFI绑定SDL2.  [外籍] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)   - 用于生成SVG文件的基本库.  [外籍] [14].
-* [CLinch](https://github.com/BradWBeer/CLinch)   - 用于OpenGL的Common Lisp 2D / 3D图形引擎.  [FreeBSD的] [39].
+* [CLinch](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
 * [donuts](https://github.com/tkych/donuts)   - 用于Common Lisp的图形绘制DSL.  [外籍] [14].
 * [dufy](https://github.com/privet-kitty/dufy)   - 在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)   -  SDL的一组绑定.  [外籍] [14].
@@ -240,6 +240,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 * [ftw](https://github.com/fjames86/ftw)   -  Win32 GUI库.  [MIT] [200].
 * [cl-xul](https://github.com/mmontone/cl-xul)   -  Mozilla XUL绑定.  [外籍] [14].
 * [eql, eql5, eql5-android](https://gitlab.com/eql)   - 嵌入在ECL中的嵌入式Qt4和Qt5 Lisp嵌入在Qt中.  EQL5端口到Android平台.  [MIT] [200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear)  即时模式GUI库.  [MIT] [200].
 
 
 Implementations
@@ -279,7 +280,7 @@ YAML
 语言扩展
 ===================
 
-* [cl21](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
+* [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
 *：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
 * [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
@@ -574,7 +575,7 @@ Javascript
 *：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
-* [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
+* [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
 * [Wuwei](https://github.com/mtravers/wuwei/)   - 用于构建基于Ajax的Web页面的工具包.  [MIT] [200].
 * [SmackJack](https://github.com/aarvid/SmackJack)   - 使用parenscript生成javascript和hunchentoot（现在）作为Web服务器的Ajax Common Lisp库.  还允许服务器端lisp函数调用客户端parenscript函数.  [MIT] [200].
 * [Panic](https://github.com/michaeljforster/panic) ，React的Parenscript库.  不在Quicklisp.  [MIT] [200].  它 [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
@@ -640,7 +641,7 @@ Monitoring
    成为oAuth提供商或消费者.  [艺术许可2.0] [51].
 * [avatar-api](https://github.com/eudoxia0/avatar-api)   - 从Google+，Gravatar和其他人那里获取头像.  [外籍] [14].
 * [chirp](https://github.com/Shinmera/chirp)   - 一个Twitter客户端库.  [艺术许可2.0] [51].
-* [tooter](https://github.com/Shinmera/tooter) - a client library implementing the full v1 REST API protocol for Mastodon. [ArtisticLicense2.0][51].
+* [tooter](https://github.com/Shinmera/tooter)   - 为Mastodon实现完整v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/)   -  IRC客户端库.  [外籍] [14].
 * [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)   -  MediaWiki api的包装器.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)   -  OpenID的实现.  [LLGPL] [8].
@@ -682,6 +683,8 @@ Others
   比NumPy更基本的水平，通过提供更强大的功能
   N维数组，但只是一些工作的构建块
    他们.  [AGPL] [89].
+* [cmu-infix](https://github.com/rigetti/cmu-infix) - 用于在Common Lisp中编写中缀数学符号的库.
+* [cl-ana](https://github.com/ghollisjr/cl-ana)   -  Common Lisp数据分析库，强调模块化和概念清晰度.  它旨在成为分析小规模和大规模数据集的通用框架，包括分档数据分析和可视化.  [GNU GPL3] [2].
 
 
 并行和并发
@@ -847,12 +850,12 @@ Tools
 单元测试
 ============
 
-*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Rove](https://github.com/fukamachi/rove)   -  Rove是Common Lisp应用程序的单元测试框架.  它的目的是成为继承者 [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
    和交叉兼容的测试框架.  有了测试依赖性，
-  conditions, fixtures and restarts. [Artistic License 2.0][51].
+   条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
   一个简短的函数被调用，多少次和多少次

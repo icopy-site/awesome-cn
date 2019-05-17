@@ -84,7 +84,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [segmentio/stack](https://github.com/segmentio/stack) - 使用AWS，Docker和ECS配置生产基础架构.
 * [terraform-aws-ecr](https://github.com/cloudposse/terraform-aws-ecr) - 在AWS ECR上管理Docker容器注册表.
 * [terraform-aws-efs](https://github.com/cloudposse/terraform-aws-efs) - 定义EFS文件系统.
-* [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用Jenkins构建Docker镜像，将其保存到ECR仓库，并将其部署到运行Docker堆栈的Elastic Beanstalk。
+* [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用Jenkins构建Docker镜像，将其保存到ECR仓库，并将其部署到运行Docker堆栈的Elastic Beanstalk.
 * [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成SSH密钥对（公钥/私钥）.
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - 在RDS上创建PostgreSQL.
 * [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - 使用基于CIS Amazon Web Services Foundations的安全基准配置设置您的AWS账户.
@@ -158,6 +158,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [atlantis](https://github.com/runatlantis/atlantis) - 通过GitHub在Terraform上进行协作的统一工作流程.
 * [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.
+* [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
 * [k2tf](https://github.com/sl1pm4t/k2tf) -  Kubernetes YAML到Terraform HCL转换器.
 * [json2hcl](https://github.com/kvz/json2hcl) - 将JSON转换为HCL，反之亦然.
 * [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到Terraform. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
@@ -170,13 +171,14 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraboot](https://github.com/MastodonC/terraboot) -  DSL生成terraform配置并运行它.
 * [terrafile](https://github.com/coretech/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Go编写）.
 * [terrafile](https://github.com/dxw/terrafile) - 从Github系统地管理外部模块以用于Terraform（用Ruby编写）.
-* [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle) - Easily builds bundles containing a Terraform binary as well as provider binaries. Useful for CI and air-gapped Terraform Enterprise.
+* [terraform-bundle](https://github.com/hashicorp/terraform/tree/master/tools/terraform-bundle)   - 轻松构建包含Terraform二进制文件和提供程序二进制文件的包.  适用于CI和气隙式Terraform Enterprise.
 * [terraform-docs](https://github.com/segmentio/terraform-docs) - 用于从terraform模块生成文档的快速实用程序.
 * [terraform-landscape](https://github.com/coinbase/terraform-landscape) - 改进Terraform的计划输出，使其更易于阅读和理解.
 * [terraform-plan-parser](https://github.com/lifeomic/terraform-plan-parser) - 命令行实用程序和JavaScript API，用于从“terraform plan”解析stdout并将其转换为JSON.
 * [terraform-provisioner](https://github.com/shuaibiyy/terraform-provisioner) - 用于管理相同Terraform脚本的多个条款的工具.
 * [terraform-rake-tasks](https://github.com/gina-alaska/terraform-rake-tasks) - 用于管理terraform计划的共享Rake任务.
 * [terraform.py](https://github.com/ciscocloud/terraform.py) - 用于解析Terraform状态文件的Ansible动态库存脚本.
+* [terraformer](https://github.com/GoogleCloudPlatform/terraformer)   -  CLI工具，用于从现有基础架构生成terraform文件.  基础设施到代码.  支持少数提供商.
 * [terragrunt](https://github.com/gruntwork-io/terragrunt) -  Terragrunt是Terraform的薄包装器，支持锁定Terraform状态并实施最佳实践.
 * [terrahelp](https://github.com/opencredo/terrahelp) - 命令行实用程序旨在提供补充功能，有时在使用Terraform时有用.
 * [terrahub](https://github.com/TerraHubCorp/terrahub)   -  TerraHub是terraform自动化和编排工具.  无缝集成到console.terrahub.io，企业友好的GUI，以显示实时的terraform执行，以及历史terraform运行的审计和报告功能.
@@ -205,33 +207,33 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Talks
 
-* [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul) -  Mitchell Hashimoto展示了Terraform如何用于部署和扩展容器化工作负载.
 * [Building Scalable, Repeatable Infrastructure in the Cloud with Terraform](https://www.youtube.com/watch?v=cG7pcksTAnY) - 通过使用托管的PostgreSQL在AWS中部署TeamCity，演示Terraform如何实现基础架构作为代码的实践.
-* [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) - 在一些有趣的用例的帮助下，OpenCredo的CTO提供了在现实世界中使用Terraform的广泛视角.
-* [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ)
-* [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - 大规模运行Terraform，拥有数百个AWS账户.
-* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - 将Terraform与内部裸机配置集成.
-* [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg) -  Terraform提供商如何工作以及如何编写.
-* [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) - 如何以最小的风险仔细地重构Terraform代码.
-* [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs) -  Segment如何使用Terraform.
-* [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) -  DigitalOcean如何使用Terraform运行生产集成测试.
-* [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - 重点关注开发模式以及如何有效地构建Terraform代码.
-* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - 使用Terraform配置混合云基础架构.
-* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)   -  Yevgeniy Brikman谈论如何编写Terraform代码，使其可重用，可组合和可测试.  演讲重点介绍Terraform模块，同时也简要明了地解释了Terraform要解决的问题以及Terraform基础知识的简短演示（约39分钟，2017年10月）.
 * [Creating a Google Compute Instance with Terraform](https://www.youtube.com/watch?v=fo3VX33Zx0c) - 使用Terraform代码创建Google Compute Instance的示例.
-* [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - 使用Kitchen-Terraform测试创建Google Compute的Terraform代码的示例.
-* [Setup Continuous Integration for a Terraform module](https://www.youtube.com/watch?v=vuJ6bjYKUcA) - 使用CI和Kitchen-Terraform测试，标记和发布创建Google Compute Instance的Terraform模块的示例.
 * [Creating a Terraform Provider for Just About Anything](https://www.hashicorp.com/resources/creating-terraform-provider-for-anything) - 了解如何通过本演练为Terraform提供商做出贡献或创建自己的提供商.
+* [Evolving Your Infrastructure with Terraform](https://www.youtube.com/watch?v=wgzgVm7Sqlk) - 在一些有趣的用例的帮助下，OpenCredo的CTO提供了在现实世界中使用Terraform的广泛视角.
+* [Going Multi-Cloud with Terraform and Nomad](https://www.youtube.com/watch?v=e42A4aBZUkQ).
+* [How to Build Reusable, Composable, Battle tested Terraform Modules](https://www.youtube.com/watch?v=LVgP63BkhKQ)   -  Yevgeniy Brikman谈论如何编写Terraform代码，使其可重用，可组合和可测试.  演讲重点介绍Terraform模块，同时也简要明了地解释了Terraform要解决的问题以及Terraform基础知识的简短演示（约39分钟，2017年10月）.
 * [How to Extend the Terraform Provider List](https://www.youtube.com/watch?v=2BvpqmFpchI) - 在这次演讲中，Paul将介绍一个terraform提供者的创建.
+* [Orchestrating Containers with Terraform and Consul](https://www.infoq.com/presentations/terraform-consul) -  Mitchell Hashimoto展示了Terraform如何用于部署和扩展容器化工作负载.
+* [Production ChaosMonkey with Terraform](https://www.youtube.com/watch?v=CPI6W3LK0-g) -  DigitalOcean如何使用Terraform运行生产集成测试.
+* [Running a Terraform Environment at Scale](https://www.youtube.com/watch?v=3JVGSq7QIS0) - 大规模运行Terraform，拥有数百个AWS账户.
+* [Setup Continuous Integration for a Terraform module](https://www.youtube.com/watch?v=vuJ6bjYKUcA) - 使用CI和Kitchen-Terraform测试，标记和发布创建Google Compute Instance的Terraform模块的示例.
+* [State of Terraform Providerland](https://www.youtube.com/watch?v=ar1PF5iDtbg) -  Terraform提供商如何工作以及如何编写.
+* [Terraform At Scale](https://www.youtube.com/watch?v=RldRDryLiXs) -  Segment如何使用Terraform.
+* [Terraform w/ Lee Trout](https://www.youtube.com/watch?v=p2ESyuqPw1A) - 重点关注开发模式以及如何有效地构建Terraform代码.
+* [Terraforming the Composable World](https://www.youtube.com/watch?v=cHrOXPatFeg) - 将Terraform与内部裸机配置集成.
+* [Test and verify a Google Compute Instance with Kitchen-Terraform](https://www.youtube.com/watch?v=kiH3-LEveek) - 使用Kitchen-Terraform测试创建Google Compute的Terraform代码的示例.
+* [Untangling Terraform Through Refactoring](https://www.youtube.com/watch?v=OH6iDKaXpZs) - 如何以最小的风险仔细地重构Terraform代码.
 * [Using Terraform for blue-green deployments on Triton](https://www.joyent.com/blog/video-blue-green-deploys-terraform) - 使用蓝绿色和Terraform的演示视频.
-
+* [Webinar: Multi-Cloud, One Command with Terraform](https://www.youtube.com/watch?v=adzqsywrJKk) - 使用Terraform配置混合云基础架构.
 
 ## Editor Plugins
 
+* [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
+* [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
+* [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
-* [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
-* [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 * [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)
 
 ## License

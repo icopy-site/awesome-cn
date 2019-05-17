@@ -49,7 +49,7 @@
 
 ### Word Clock
 
-&gt;一个超级简单的字时钟，就像您的计算机正在为您键入时间.
+&gt;一个超级简单的字时钟，就像你的电脑正在为你输入时间.
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/wordClock2.gif)](https://github.com/chrstphrknwtn/word-clock-screensaver/)
 
@@ -73,6 +73,14 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/screenMazer.png)](https://github.com/dado3212/screenmazer)
 
+### Evangelion Clock
+
+&gt;数字时钟屏幕保护程序，灵感来自Neon Genesis Evengelion的图形界面.
+
+Free
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
+
 ## Apple Inspired
 
 ### Aerial
@@ -92,6 +100,14 @@ Free
 &gt; 2018年10月30日Apple的活动启发的屏幕保护程序
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/brooklyn.png)](https://github.com/pedrommcarrasco/Brooklyn#readme)
+
+Free
+
+## MusaicFM
+
+&gt;灵感来自Spotify和Last.fm的iTunes Artwork屏幕保护程序的屏幕保护程序.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/musaicFm.png)](https://github.com/docterd/MusaicFM)
 
 Free
 
