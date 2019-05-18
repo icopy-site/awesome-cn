@@ -27,7 +27,7 @@
 
 ## Reading and Writing Tools
 
-*编辑文本的应用程序，我建议开源编辑*
+*Applications to edit text, I suggest the open-source editors*
 
 #### Text Editors
 
@@ -241,7 +241,7 @@
 * [tmux](https://github.com/tmux/tmux)   - “终端多路复用器”，它允许从单个终端访问和控制多个终端（或窗口）.  tmux旨在成为GNU屏幕等程序的简单，现代，BSD许可的替代方案.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
 * [trash](https://github.com/sindresorhus/trash)   - 将文件和目录移动到废纸篓.  ！[开源软件] [OSS图标]
 * [Upterm](https://github.com/railsware/upterm)   -  Upterm（以前的Black Screen）是终端世界中的IDE.  严格来说，它既是终端仿真器，也是基于Electron的交互式shell.  ！[开源软件] [OSS图标]
-* [VisiData](https://visidata.org)   - 终端电子表格多功能工具，用于发现和排列数据.  [！[开源软件] [OSS图标]]（https://github.com/saulpw/visidata）！[免费软件] [免费软件图标]
+* [VisiData](https://visidata.org)   - 用于发现和排列数据的终端电子表格多工具.  [！[开源软件] [OSS图标]]（https://github.com/saulpw/visidata）！[免费软件] [免费软件图标]
 * [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 
 #### Frameworks For Hybrid Applications
@@ -387,7 +387,7 @@
 
 * [CloudApp](https://www.getcloudapp.com/)   - 以视线的速度工作.  ！[免费软件] [免费软件图标]
 * [Gifox](https://gifox.io/)   -  Gif录制和共享.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/gifox-gif-recording-and-sharing/id1082624744）
-* [Kap](https://getkap.co/) - Open-source screen-recorder built with web technology. [![Open-Source Software][OSS Icon]](https://github.com/wulkano/kap) ![Freeware][Freeware Icon]
+* [Kap](https://getkap.co/)   - 采用网络技术构建的开源屏幕录像机.  [！[开源软件] [OSS图标]]（https://github.com/wulkano/kap）！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)   -  KeyCastr，一个开源击键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [Licecap](http://www.cockos.com/licecap/)   - 录制您的屏幕并导出到GIF.  您可以在录制过程中随时更改录制区域.  [！[开源软件] [OSS图标]]（https://github.com/justinfrankel/licecap）！[免费软件] [免费软件图标]
 * [Lightshot](https://app.prntscr.com/)   - 采用可自定义屏幕截图的最快方式.  ！[免费软件] [免费软件图标]
@@ -564,7 +564,7 @@
 
 * [Grammarly](https://app.grammarly.com/) - 优化你的英语
 * [iTranslate](http://www.itranslate.com/)   - 使用内置浏览器或iTranslate Safari扩展程序即时翻译整个网站，使用40多种语言.  ！[免费软件] [免费软件图标]
-* [Ludwig](https://ludwig.guru) - Linguistic search engine that helps you to write better in English.
+* [Ludwig](https://ludwig.guru) - 语言搜索引擎，可以帮助您更好地用英语写作.
 
 ## Security Tools
 
@@ -572,7 +572,7 @@
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - 简单的实用程序，它将扫描您的计算机以查找易受dylib劫持或被劫持的应用程序.
 * [Encrypto](https://macpaw.com/encrypto) - 用于加密文件和文件夹的免费加密工具
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看OS内核中加载的所有模块.
-* [KnockKnock](https://objective-see.com/products/knockknock.html) - 查看Mac上持续安装的内容.
+* [KnockKnock](https://objective-see.com/products/knockknock.html) - See what's persistently installed on your Mac.
 * [LinkLiar](http://halo.github.io/LinkLiar)   - 用于macOS的链路层MAC欺骗GUI.  [！[开源软件] [OSS图标]]（https://github.com/halo/LinkLiar）！[免费软件] [免费软件图标]
 * [LockDown](https://objective-see.com/products/lockdown.html)   -  El Capitan的开源工具，用于审核和修复安全配置设置.  [！[开源软件] [OSS图标]]（https://bitbucket.org/objective-see/lockdown）！[免费软件] [免费软件图标]
 * [LuLu](https://objective-see.com/products/lulu.html) - is the free macOS firewall that aims to block unauthorized (outgoing) network traffic. [![Open-Source Software][OSS Icon]](https://www.tinc-vpn.org/git/browse?p=tinc) ![Freeware][Freeware Icon]
@@ -610,6 +610,7 @@
 * [iPaste](https://en.toolinbox.net/iPaste)   - 轻量高效的剪贴板工具.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id1056935452?ls=1&amp;mt=12&amp;at=1000lv4R&amp;ct=iPaste_me）
 * [Paste](http://pasteapp.me)   - 智能剪贴板历史记录和片段管理器.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/paste-clipboard-history-manager/id967805235）
 * [PasteBot](https://tapbots.com/pastebot/)   - 强大的剪贴板管理器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/pastebot/id1179623856）
+* [Flycut](https://github.com/TermiT/Flycut)   - 为开发人员提供简洁的剪贴板管理器  [！[开源软件] [OSS图标]]（https://github.com/TermiT/Flycut）！[免费软件] [免费软件图标]
 
 #### Menu Bar Tools
 

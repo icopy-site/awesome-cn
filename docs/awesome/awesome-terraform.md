@@ -144,6 +144,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - 加密的HashiCorp Vault通过Terraform保密，可以存储在SCM中，如Git.
 * [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - 适用于VMware vSphere的插件.
 * [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza的提供者.
+* [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) -  Azure DevOps（VSTS）的提供商.
 
 ## Testing
 

@@ -48,7 +48,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [cairo-cr](https://github.com/TamasSzekeres/cairo-cr) - 绑定 [Cairo](https://cairographics.org/) 图形库
  * [clang.cr](https://github.com/ysbaddaden/clang.cr) -  Libclang绑定
  * [crass](https://github.com/vonKingsley/crass) -  libsass的绑定
- * [crt.cr](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
+ * [crt.cr](https://github.com/maiha/crt.cr) -  libncursesw和crt的绑定
  * [crystal-gsl](https://github.com/ruivieira/crystal-gsl) -  GNU Scientific Library绑定
  * [crystal-hunspell](https://github.com/mamantoha/crystal-hunspell) - 绑定 [Hunspell](https://hunspell.github.io/)
  * [curl-crystal](https://github.com/blocknotes/curl-crystal) - 绑定 [libcurl](https://curl.haxx.se/libcurl/)
@@ -190,7 +190,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实现
  * [exercism-crystal](https://github.com/exercism/crystal) - 运动练习
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - 从头开始​​的Crystal MySQL示例应用程序
- * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
+ * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol Blog的Crystal＆Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - 使用Kemal和WebSocket构建实时应用程序
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - 此存储库显示，如何在几秒钟内发布开源应用程序，这些应用程序将kemal框架作为heroku app发布
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - 用Crystal，Kemal和MySQL编写的博客
@@ -338,6 +338,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bson.cr](https://github.com/jeromegn/bson.cr) - 原生BSON实施
  * [Crirc](https://github.com/Meoowww/Crirc) -  IRC协议实施（客户端，服务器，机器人）
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)   -  JSON套接字客户端和服务器实现.  灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本1,2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速IRC解析器/生成器
  * [gopher.cr](https://github.com/anicholson/gopher.cr) -  Gopher服务器工具包
  * [jwt](https://github.com/crystal-community/jwt) -  JWT（JSON Web令牌）的实现
@@ -405,7 +406,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [stats](https://git.sceptique.eu/Sceptique/stats) - 统计分布的表达实施
 
 ## Search
- * [hermes](https://github.com/imdrasil/hermes.cr) -  ElastiSearch的Data Mapper模式实现
+ * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
  * [query-builder](https://github.com/izniburak/query-builder) -  Sql Query Builder库
  * [query.cr](https://github.com/waterlink/query.cr) - 查询抽象
  * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的stretcher gem

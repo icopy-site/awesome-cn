@@ -109,6 +109,7 @@
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过http轻松提供本地目录.
 - [shell2http](https://github.com/msoap/shell2http) - 通过HTTP服务器执行shell命令.
 - [HTTP Prompt](https://github.com/eliangcs/http-prompt) - 具有自动完成和语法突出显示功能的交互式HTTP客户端.
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 部署静态网站 [IPFS](https://github.com/ipfs/ipfs#overviewhttps://github.com/ipfs/ipfs#overview).
 
 ### Mobile Development
 

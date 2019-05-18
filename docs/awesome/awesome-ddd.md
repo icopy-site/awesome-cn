@@ -31,6 +31,7 @@
 - [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) -  Domain-Driven Rails描述了11种技术（从Bounded Contexts到Event Sourcing），您可以在新旧Rails应用程序中单独使用这些技术来实现更好的架构.
 - [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - 与DDD切向连接，描述了泛在语言的重要性，并与领域专家合作，以及大量技术细节.
 - [Event Sourcing and CQRS with .NET Core and SQL Server](https://buildplease.com/products/fpc-v2/) - 使用ASP.NET Core和SQL Server在生产中使用域驱动设计与事件源和CQRS的演练.
+- [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097) - 通过将AlexD Zimarev的DDD原则付诸实践，解决软件核心的复杂性.
 - [Implementing Domain-Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577)   - 这是一本规范书籍，提供了一种自上而下的方法来理解领域驱动设计.  也被称为“红皮书”.
 - [Introducing Event Storming: An act of Deliberate Collective Learning](https://leanpub.com/introducing_eventstorming) - 关于EventStorming的最深入的教程和解释，直接来自发明者.
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - 软件架构师的核心实践摘要，实用.

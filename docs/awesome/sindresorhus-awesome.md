@@ -403,6 +403,7 @@
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 用于录制，转换和流式传输音频和视频的跨平台解决方案.
+- [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的SVG / PNG /字体图标项目.
 
 
 ## Learn
