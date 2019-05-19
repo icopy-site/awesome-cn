@@ -114,7 +114,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ## C++
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - 预览C / C ++扩展名 [Microsoft](https://www.microsoft.com)，读 [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) 细节
-- [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 在GNU Global工具的帮助下为C / C ++提供Intellisense.
+- [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 借助GNU Global工具为C / C ++提供Intellisense.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）提供语义完成 [YouCompleteMe](https://valloric.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用Clang命令完成和诊断C / C ++ / Objective-C.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery)  支持数百万行代码库，由libclang提供支持.  交叉引用，完成，诊断，语义突出显示等.
@@ -136,7 +136,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ## Clojure
 
 ### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
- &gt;集成REPL，linting，内联eval，测试跑步器等.  由Cider＆nRepl提供技术支持.
+ &gt;集成REPL，linting，内联eval，测试跑步器等.  由Cider＆nRepl提供支持.
 
 ![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
 
@@ -199,7 +199,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ## TypeScript
 
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) -  Visual Studio Code的TSLint
-- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - 打开TS的代码大纲视图，排序和组织您的导入.
+- [TypeScript Hero](https://marketplace.visualstudio.com/items?itemName=rbbit.typescript-hero) - 打开TS的代码大纲视图，对您的导入进行排序和组织.
 
 ## Markdown
 
@@ -324,7 +324,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Create tests](https://marketplace.visualstudio.com/items?itemName=hardikmodha.create-tests)
 
-> An extension to quickly generate test files.
+&gt;快速生成测试文件的扩展.
 
 ![Create tests extension animation](https://media.giphy.com/media/1iqPhENd8SLd9SggeX/giphy.gif)
 
@@ -564,7 +564,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Surround](https://marketplace.visualstudio.com/items?itemName=yatki.vscode-surround)
 
-&gt;一个简单而强大的扩展，可以在代码块周围添加包装器模板.
+&gt;一个简单但功能强大的扩展，用于在代码块周围添加包装器模板.
 
 ![Wrap a template around a code block](https://raw.githubusercontent.com/yatki/vscode-surround/master/images/demo.gif)
 
@@ -630,6 +630,12 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 > Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, C# Script, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script
 
 ![Run a snippet or file animation](https://raw.githubusercontent.com/formulahendry/vscode-code-runner/master/images/usage.gif)
+
+## [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode)
+
+&gt;在VS Code中按项目和其他编程指标自动报告时间.
+
+![Code Time](https://raw.githubusercontent.com/swdotcom/swdc-vscode/master/images/vs-code-dashboard.gif)
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
@@ -807,7 +813,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [City Lights by Yummygum](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
- Yummygum官方城市之光套房
+🏙 Yummygum's Official City Lights suite
 
 <a href="http://citylights.xyz">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/city-lights-yummygum.png" width="600" />
@@ -847,7 +853,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [Fairy Floss by nopjmp and sailorhg](https://vscodethemes.com/e/nopjmp.fairyfloss)
 
-这是一款由sailorhg制作的有趣的紫色粉彩/糖果/白日梦童话主题.
+由sailorhg制作的有趣的紫色粉彩/糖果/白日梦童话主题.
 
 <a href="https://vscodethemes.com/e/nopjmp.fairyfloss">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/nopjmp.fairyfloss.png" width="600" />
@@ -943,7 +949,7 @@ Monokai的主题灵感来自于 [Visual Studio Code](https://vscodethemes.com/e/
 
 ### [Shades of Purple by Ahmad Awais](https://vscodethemes.com/e/ahmadawais.shades-of-purple)
 
- ⚡专业主题，精心挑选和大胆的紫色色调与你的VS代码一起使用.  具有样式的自定义VS Code主题.
+ ⚡专业主题，精心挑选和大胆的紫色色调与您的VS代码一起使用.  具有样式的自定义VS Code主题.
 
 <a href="https://vscodethemes.com/e/ahmadawais.shades-of-purple">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/ahmadawais.shades-of-purple.png" width="600" />

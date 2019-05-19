@@ -8,6 +8,7 @@ Awesome-Kubernetes
 [![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg?style=flat-square)](http://creativecommons.org/licenses/by-nc/4.0/)
 [![Docker Build Status](https://img.shields.io/docker/build/ramitsurana/awesome-kubernetes.svg?style=flat-square)](https://hub.docker.com/r/ramitsurana/awesome-kubernetes)
 [![Slack Widget](https://img.shields.io/badge/Slack-Channel-blue.svg?style=flat-square)](https://kubernetes.slack.com/messages/awesome-kubernetes)
+[![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 
 
 精选kubernetes来源的精选列表
@@ -672,6 +673,7 @@ Projects
 
 * [Kubernator](https://github.com/smpio/kubernator)
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - 基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
+* [Polaris](https://github.com/reactiveops/polaris) -  Kubernetes最佳实践的开源仪表板
 
 ## Desktop applications
 
@@ -690,7 +692,6 @@ Projects
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - 用于使用Kubernetes CLI的集成外壳
 * [kube-tmux](https://github.com/jonmosco/kube-tmux) -  Kubernetes tmux插件，用于显示当前上下文和命名空间
-* [Kubebot](https://github.com/harbur/kubebot)
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -  Kubectl的别名
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)   -  kubectl插件的集合，处理从简单的上下文切换到连接到容器的所有用户（包括root）通过exec.  略微针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - 使用此kubectl插件在kubernetes集群上安排bpftrace程序
@@ -953,7 +954,7 @@ Videos
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
 * [Brendan Burns](https://twitter.com/brendandburns)，Microsoft的合作伙伴架构师
-* [Brian Grant](https://github.com/bgrant0607)，Google首席工程师，Kubernetes首席架构师
+* [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
 * [Carlos Sanchez](https://www.twitter.com/csanchez)，高级软件工程师，CloudBees
 * [Chris Aniszczyk](https://www.twitter.com/cra)，Cloud Native Computing Foundation的首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师

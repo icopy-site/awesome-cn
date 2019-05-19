@@ -66,6 +66,8 @@
 * [probability](https://github.com/BlackBrane/probability) -  Idris中的概率计算.
 * [idris-protobuf](https://github.com/google/idris-protobuf) - 在Idris中部分实施协议缓冲区.
 * [idris-free](https://github.com/idris-hackers/idris-free) - 免费Monads和有用的结构与他们合作.
+* [idris-ct](https://github.com/statebox/idris-ct) - 正式验证的类别理论库
+* [typedefs](https://github.com/typedefs/typedefs) - 编程语言无关，代数数据类型定义语言
 
 ### Backends
 

@@ -336,7 +336,7 @@
 * DevOps的软件和库.*
 
 * [ansible](https://github.com/ansible/ansible) - 一个极其简单的IT自动化平台.
-* [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - 一个处理云实例早期初始化的多分发包.
+* [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - 处理云实例的早期初始化的多分发包.
 * [cuisine](https://github.com/sebastien/cuisine) -  Fabric的类似厨师的功能.
 * [docker-compose](https://docs.docker.com/compose/) - 使用快速，隔离的开发环境 [Docker](https://www.docker.com/).
 * [fabric](https://github.com/fabric/fabric) - 用于远程执行和部署的简单Pythonic工具.
@@ -519,7 +519,7 @@
 * [Harfang3D](http://www.harfang3d.com)   - 用于3D，VR和游戏开发的Python框架.  管理和显示复杂的3D场景，包括物理，视频，声音和音乐，访问VR设备.  全部用C ++编写.
 * [Panda3D](https://www.panda3d.org/)   - 由迪士尼开发并由卡内基梅隆娱乐技术中心维护的3D游戏引擎.  用C ++编写，完全用Python包装.
 * [Pygame](http://www.pygame.org/news.html) -  Pygame是一组专为编写游戏而设计的Python模块.
-* [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - 用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟，任何3D.
+* [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - 用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟和任何3D.
 * [PyOpenGL](http://pyopengl.sourceforge.net/) - 用于OpenGL的Python ctypes绑定及其相关的API.
 * [PySDL2](https://pysdl2.readthedocs.io) - 基于ctypes的SDL2库包装器.
 * [RenPy](https://www.renpy.org/) - 一个视觉新颖的引擎.
@@ -693,7 +693,7 @@
     * [polyglot](https://github.com/aboSamoor/polyglot) - 支持数百种语言的自然语言管道.
     * [pytext](https://github.com/facebookresearch/pytext) - 基于PyTorch的自然语言建模框架.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - 一个工具包，可以快速深入学习研究的NLP原型.
-    * [spacy](https://spacy.io/) -  Python和Cython中用于工业强度自然语言处理的库.
+    * [spacy](https://spacy.io/) - 用于Python和Cython的工业级自然语言处理库.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - 斯坦福NLP集团的官方Python库，支持50多种语言.
 - 中国人
     * [jieba](https://github.com/fxsjy/jieba) - 最受欢迎的中文文本分割库.
@@ -992,7 +992,7 @@
     * [difflib](https://docs.python.org/3/library/difflib.html) - （Python标准库）用于计算增量的助手.
     * [ftfy](https://github.com/LuminosoInsight/python-ftfy) - 使Unicode文本更少破碎，更自然地更加一致.
     * [fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - 模糊字符串匹配.
-    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - 快速计算Levenshtein距离和弦相似性.
+    * [Levenshtein](https://github.com/ztane/python-Levenshtein/) - 快速计算Levenshtein距离和字符串相似度.
     * [pangu.py](https://github.com/vinta/pangu.py) - 偏执文本间距.
     * [pyfiglet](https://github.com/pwaller/pyfiglet) - 用Python编写的figlet的实现.
     * [pypinyin](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi (汉字) to pinyin (拼音).
@@ -1170,6 +1170,7 @@
 * [Python 开发社区](https://www.ctolib.com/python/)
 * [Real Python](https://realpython.com)
 * [Trending Python repositories on GitHub today](https://github.com/trending?l=python)
+* [Сообщество Python Программистов](https://python-scripts.com/)
 
 ## Weekly
 

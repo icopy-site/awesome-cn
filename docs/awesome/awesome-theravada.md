@@ -18,7 +18,7 @@
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - 如何处理消除负面思维状态的愿望.
 - [Grasping and Clining](http://www.buddhanet.net/budasa7.htm) - 四种不同的附件以及如何消除这些附件的原因.
 - [Letting Go](http://buddhanet.net/4noble14.htm) - 让我们深思熟虑，用具体的例子来解释.
-- [ThoughtCo](https://www.thoughtco.com/buddhism-4133165) - 芭芭拉·奥布莱恩（Barbara O&#39;Brien）关于佛教的清晰而精心编写的系列文章，其中许多都提到了巴利佳能（PāliCanon）.
+- [ThoughtCo](https://www.thoughtco.com/buddhism-4133165) - 芭芭拉·奥布莱恩（Barbara O&#39;Brien）关于佛教的清晰而精心编写的系列文章，其中许多都提到了巴利佳能.
 
 ## Blogs
 
@@ -37,12 +37,14 @@
 - [Lessons in Practical Buddhism](https://www.sirimangalo.org/text/lessons-in-practical-buddhism/) - 帮助人们生活在和平与幸福中的实用教义.
 - [The Collected Teachings of Ajahn Chah](https://forestsangha.org/teachings/books/the-collected-teachings-of-ajahn-chah-single-volume?language=English) - 单卷包含许多Ajahn Chah的讲话，以直接，简单而深刻的方式传达教义.
 - [The Four Noble Truths](https://forestsangha.org/teachings/books/the-four-noble-truths?language=English) -  Ajahn Sumedho的小册子，作为四圣谛和高贵的八重道路的介绍.
+- [A Handful of Leaves](http://www.ahandfulofleaves.org/) - 可能难以在硬拷贝格式中找到的书籍和论文.
 
 ## Dhamma Talks
 
 ### Audio
 
 - [BuddhaNet](http://www.buddhanet.net/audio-talks.htm) - 来自几个传统教师的讲座样本，包括非专业和受戒.
+- [Buddhist Society of Western Australia](http://podcast.bswa.org/) - 由教师和类别组织的BSWA会谈.
 - [dhamma.audio](https://dhamma.audio/) - 来自各个地方的教学图书馆，可由教师和收藏品分类.
 - [dhammatalks.org](http://www.dhammatalks.org) -  Thanissaro Bhikkhu的suttas，audio talks和books的英文翻译.
 - [Tisarana](https://tisarana.ca/teachings-audio/) - 加拿大Tisarana佛教寺院的录音讲座.
@@ -68,6 +70,8 @@
 - [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - 具有名词可以采用的各种形式的Cheatsheet. 
 - [Pali Verbal Endings (PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - 基于时态的口头结尾的Cheatsheet.
 - [Morphological analyzer and generator for Pali (PDF)](https://arxiv.org/pdf/1510.01570.pdf) - 朝向巴利形态分析方向的第一步.
+- [Chant Pali](http://chantpali.org/) - 有用的指南，用于吟唱和学习最常见的巴利语短语，逐行分解和音节双音节.
+- [Pratyeka](http://pali.pratyeka.org/) - 通过三本教科书对巴利语进行综合研究.
 
 ## Places
 
@@ -97,6 +101,15 @@
 - [Pacific Hermitage](http://pacifichermitage.org/) - 白鲑，华盛顿 - 小修道院，僧侣可以花时间学习和冥想.
 - [The Forest Hermitage](http://foresthermitage.org.uk/) - 英格兰沃里克郡 - 佛教监狱牧师组织的总部.
 
+### Meditation Centers
+
+- [Barre Center for Buddhist Studies](https://www.buddhistinquiry.org/) - 马萨诸塞州巴雷 - 提供结合学习，讨论和冥想的住宿和在线课程.
+
+## Russian Language
+
+- [Dhamma.ru](https://dhamma.ru/) - 各种资源.
+- [Theravada.ru](http://theravada.ru/) - 圣彼得堡社区对小乘佛教的介绍.
+
 ## Suttas
 
 ### Individual Suttas
@@ -106,17 +119,18 @@
 - [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) - 全面的佛教训练路径，用生动的明喻描绘训练的每个阶段.
 - [Kasi Bharadvaja Sutta: To the Plowing Bharadvaja](http://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.011.than.html) - 佛陀解释他如何像农民一样犁，播种和吃东西.
 - [Nidhi Kanda: The Reserve Fund](http://www.accesstoinsight.org/tipitaka/kn/khp/khp.1-9.than.html#khp-8) - 提醒美德和克制的基金永远是安全的，而物质基金可能会丢失.
-- [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - 修道院应如何行事，部分适用于外行.
+- [Tuvataka Sutta: Quickly](http://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.14.than.html) - 修道院应如何行事，部分也适用于外行.
 
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - 来自巴利佳能的超过一千个suttas的翻译.
+- [Ancient Buddhist Texts](https://www.ancient-buddhist-texts.net/) - 原始文本，翻译和巴利材料.
 - [Apadāna (Legends of the Buddhist Saints)](http://apadanatranslation.org/) - 完整翻译了六百首自传诗歌，这些诗歌归因于早期佛教界的成就佛和阿罗汉.
 - [dhammadāna](http://dhammadana.org/) - 了解佛陀的法语，英语，意大利语，缅语和日语的原始教义.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - 简短的经文总结了佛陀教义的基本原则.
 - [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - 并排阅读和比较Dhammapada的多个版本.
 - [Sādhu!](https://www.dhamma.ru/sadhu/) - 世界物理位置和网站目录.
-- [SuttaCentral](https://suttacentral.net/) - 早期的佛教文本，翻译和多种语言的平行.
+- [SuttaCentral](https://suttacentral.net/) - 早期的佛教文本，翻译和多种语言的平行线.
 
 ## Videos
 
@@ -134,14 +148,14 @@
 
 - [1983dukkha](https://www.youtube.com/user/1983dukkha/videos) - 来自着名佛教僧侣和尼姑的谈话录音.
 - [Abhayagiri Buddhist Monastery](https://www.youtube.com/channel/UCFAuQ5fmYYVv5_Dim0EQpVA/videos) -  Abhayagiri的现场直播，演讲和活动.
-- [Ajahn Sona](https://www.youtube.com/user/AjahnSona) - Talks over basic concepts in Buddhism given by the abbot of Birken Forest Buddhist Monastery.
+- [Ajahn Sona](https://www.youtube.com/user/AjahnSona) - 谈论比肯森林佛教寺院院长给出的佛教基本概念.
 - [AjahnBrahmRetreats](https://www.youtube.com/user/AjahnBrahmRetreats) - 在Jhana Grove Meditation Retreat Center与Ajahn Brahm录制冥想静修.
 - [Bodhisaddha Forest Monastery](https://www.youtube.com/channel/UCCNZfA9m6Q8DZ7V192QMu1Q) - 在森林修道院的生活.
 - [BSV Dhamma Talks](https://www.youtube.com/user/BSVWeeklyDTEng) - 维多利亚佛教协会向社区提供佛陀的教诲.
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - 来自非宗派佛教组织的同名视频.
 - [Buddhist Society of Western Australia](https://www.youtube.com/user/BuddhistSocietyWA/videos) - 在Dhammaloka佛教中心与僧侣和尼姑会谈.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos)   - 与来自世界各地的非专业观众进行现场讲座和问答.  （英语）
-- [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - 来自Thanissaro Bhikkhu的更长的音频讲座.
+- [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
 - [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - 受尊敬的学者，佛教僧侣和哲学家的鼓舞和启发话语.
 - [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) -  Ajahn Nyanamoli Thero的简短Q＆A dhamma会谈.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - 来自伦敦佛教寺院的讲座，讲座和教育材料.

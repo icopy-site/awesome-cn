@@ -100,7 +100,7 @@
 - [Tibor Simon](https://github.com/tiborsimon/ama) - 电气工程师，软件极客，DSP，iOS，vimmer，吉他手，骑车人，跑步者， [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - 前端开发人员（巴西人），工作于 [mLabs](https://www.mlabs.com.br/)  使用JavaScript，EmberJS，API和其他很酷的东西.  我也是 [BeerJS/SJC](https://github.com/beerjs/sjc) 组织者.
 - [Adrian Mejia](https://github.com/amejiarosario/ama)   - 思科的软件工程师.  博主在 [adrianmejia.com](http://adrianmejia.com) .  作者 ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop) .  JavaScript爱好者.  波士顿位于.
-- [Jon Kuperman](https://github.com/jkup/ama)   - 我喜欢JavaScript！  我在博客 [Codeplanet](https://codeplanet.io)，制作视频 [Nodecasts](https://nodecasts.io) 和播客 [The Web Behind](https://webbehind.com).
+- [Jon Kuperman](https://github.com/jkup/ama)   - 我喜欢JavaScript！  我在博客 [Codeplanet](https://codeplanet.io)，制作视频 [Nodecasts](https://nodecasts.io) 并播客 [The Web Behind](https://webbehind.com).
 - [Max Stoiber](https://github.com/mxstbr/ama) -  Thinkmill的开源开发人员，开发人员 [KeystoneJS](https://github.com/keystonejs/keystone) 和 [ElementalUI](https://github.com/elementalui/elemental) .  创造者 [react-boilerplate](https://github.com/mxstbr/react-boilerplate)，React Vienna的一部分.
 - [Joe Lencioni](https://github.com/lencioni/ama) - 建造 [ImportJS](https://github.com/Galooshi/import-js) 和 [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f) .  网络基础设施 [Airbnb](https://www.airbnb.com).
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - 后端开发人员，游戏制造商和硬件黑客.
@@ -164,6 +164,7 @@
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - 所有在一个开发人员.
 - [Frances Coronel](https://github.com/fvcproductions/ama) - 开源爱好者，Slack的软件工程师，Techqueria.org的董事会成员.
 - [Wendell Hu](https://github.com/wendzhue/ama) - 阿里巴巴的前端开发人员. 
+- [KimSia Sim](https://github.com/simkimsia/ama) - 独立开发者， [blogger](https://simkimsia.com)， 的主人 [business apps agency](https://oppoin.com) .  总部设在新加坡.
 
 #### Ask these organizations anything!
 
