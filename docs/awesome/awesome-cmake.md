@@ -36,7 +36,7 @@
 * [Lecture](https://www.youtube.com/watch?v=bsXLMQ6WgIk) - 有效的CMake  - 作者：Daniel Pfeifer，C ++ Now 2017.
 * [Article](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/) - 使用CMake构建跨平台CUDA应用程序.
 * [Tutorial](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake) - 了解CMake的逐步指南.
-* [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - 拥抱现代CMake  - 由Stephen Kelly撰写.
+* [Article + Lecture](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/) - 拥抱现代CMake  - 由Stephen Kelly.
 * [Lecture](https://www.youtube.com/watch?v=eC9-iRN2b04) - 模块化设计的现代CMake  - 作者：Mathieu Ropert，CppCon 2017.
 * [Article](https://juan-medina.com/2017/07/01/moderncppci/) - 现代C ++ CI（虽然它使用非现代的CMake，如```include_directories（）```.
 * [Article](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/) - 现在是做正确的时间（关于CMake的最佳文章之一）.
@@ -65,10 +65,11 @@
 * [Ninja](https://github.com/ninja-build/ninja)   - 在两个主要方面构建与其他系统不同的系统：它旨在使其输入文件由更高级别的构建系统（如CMake）生成，并且旨在尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)   - 获取和构建C ++开源库的工具.  在内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
 * [pmm](https://github.com/vector-of-bool/pmm)   -  PMM是CMake的一个模块，用于管理包管理器.  [```[MIT]```] [MIT]
+* [cpm](https://github.com/TheLartians/CPM)   - 免安装的CMake + git依赖管理器.  [```[MIT]```] [MIT]
 
 ## Modules
 
-* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是虚拟现实和物理模拟，一些实用程序模块，以及CMake本身的一些补丁或变通方法.  [```[BOOST]```] [BOOST]
+* [cmake-modules](https://github.com/rpavlik/cmake-modules) - [Ryan Pavlik](https://github.com/rpavlik) 的CMake模块集合.  有许多查找模块，特别是虚拟现实和物理模拟，一些实用程序模块，以及CMake本身的一些补丁或解决方法.  [```[BOOST]```] [BOOST]
 * [cmake-modules](https://github.com/bilke/cmake-modules)   - 这是其他CMake模块的集合.  他们大多数来自瑞安帕夫利克.  [```[BOOST]```] [BOOST]
 * [CMake](https://github.com/Eyescale/CMake) - [Eyescale](https://github.com/Eyescale) 常见的CMake模块.  [```[BSD3]```] [BSD3子句]
 * [sdl2-cmake-scripts](https://github.com/tcbrindle/sdl2-cmake-scripts)   - 用于查找SDL2，SDL2_image和SDL2_ttf库和标头的CMake脚本.  [```[BSD2]```] [BSD2子句]
@@ -89,7 +90,7 @@
 
  它们提供了广泛的功能 - 从处理编译器标志到使用工具.  有些还包含模块.
 
-* [cotire](https://github.com/sakra/cotire)   -  Cotire（编译时缩减器）是一个CMake模块，它通过完全自动化技术作为预编译头和C和C ++的统一构建来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
+* [cotire](https://github.com/sakra/cotire)   -  Cotire（编译时间缩减器）是一个CMake模块，它通过完全自动化技术作为预编译头和C和C ++的统一构建来加速基于CMake的构建系统的构建过程.  [```[MIT]```] [MIT]
 * [ucm](https://github.com/onqtam/ucm)   - 用于管理编译器/链接器标志，收集源，预编译头，统一构建等.  [```[MIT]```] [MIT]
 * [cmakepp](https://github.com/toeb/cmakepp)   -  CMake构建系统的增强套件.  [```[MIT]```] [MIT]
 * [sugar](https://github.com/ruslo/sugar) -  CMake工具和示例：收集源文件，抑制警告等.[```[BSD2]```[BSD-2-Clause]

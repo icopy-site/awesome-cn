@@ -17,7 +17,7 @@
 ## Awesome Shell [![Awesome][awesome-badge]][awesome-link]
 
  精选的命令行框架，工具包，指南和小玩意的精选列表.  受到awesome-php的启发.  这个很棒的收藏品也可用 [Unix-Shell.ZEEF.com](https://unix-shell.zeef.com/caleb.xu).
-- [**Awesome Zsh**][awesome-zsh]&nbsp; [![Awesome][awesome-badge]][awesome-zsh]
+-  [**真棒Zsh **] [awesome-zsh] [！[Awesome] [awesome-badge]] [awesome-zsh]
 -  [**令人敬畏的鱼**] [真棒鱼] [！[很棒] [awesome-badge]] [真棒鱼]
 
 ## Shells
@@ -26,7 +26,7 @@
 
 * [bash](https://www.gnu.org/software/bash/) -  GNU Project的shell（Bourne Again SHell）
 * [elvish](https://elv.sh/) - 友好，富有表现力的shell功能，如匿名功能和数据结构
-* [fish](https://fishshell.com) - 智能且用户友好的命令行shell
+* [fish](https://fishshell.com) - Smart and user-friendly command line shell
 * [osh](https://www.oilshell.org) - 兼容Bash，使用称为Oil的新/现代Unix shell语言
 * [shenv](https://github.com/shenv/shenv) - 简单的shell版本管理
 * [xiki](http://xiki.org) - 使shell控制台更加友好和强大
@@ -76,9 +76,9 @@
 * [k](https://github.com/supercrabtree/k) -  k是一个Zsh脚本，使目录列表更具可读性，添加Git状态，文件权重颜色和腐烂日期
 * [k alias](https://github.com/lingtalfi/k) - 使用简单的单行程获得kool别名（以及更多）
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) - 用于文件系统的书签导航的简单bash命令，完成bash-completion.
-* [lf.sh](https://github.com/suewonjp/lf.sh) - 快速搜索较少打字的文件并执行更多操作（轻击，复制剪贴板的路径等）
+* [lf.sh](https://github.com/suewonjp/lf.sh) - 快速搜索较少打字的文件并执行更多操作（点击，复制剪贴板的路径等）
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - 基于Lua的环境模块，可在向后兼容的同时增强基于Tcl的模块（与模块相比）
-* [loop](https://github.com/Miserlou/Loop) - 使用单行编写和控制复杂循环
+* [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
 * [marker](https://github.com/pindexis/marker) - 为shell命令添加书签
 * [mackup](https://github.com/lra/mackup/) - 保持应用程序设置同步（OS X / Linux）
 * [modules](http://modules.sourceforge.net/) - 管理shell环境的经典Tcl环境模块（与Lmod，direnv和autoenv相比）
@@ -90,6 +90,7 @@
 * [q](https://github.com/cal2195/q) - 像Bash和Zsh Shell的宏寄存器一样
 * [qfc](https://github.com/pindexis/qfc) -  Bash和Zsh的文件完成小部件
 * [rg](https://github.com/BurntSushi/ripgrep) -  ripgrep是一个面向行的搜索工具，它结合了Silver Searcher的可用性和GNU grep的原始速度
+* [screen](https://www.gnu.org/software/screen/) -  GNU终端多路复用器
 * [shell-history](https://github.com/pawamoy/shell-history) - 使用Highcharts可视化您的shell使用情况
 * [SHML](https://github.com/odb/shml) - 终端的样式框架（Shell标记语言）
 * [slugify](https://github.com/benlinton/slugify) - 将文件名和目录转换为Web友好格式的命令
@@ -121,7 +122,7 @@
 * [base16-builder](https://github.com/base16-builder/base16-builder) -  Base16-Builder
 * [bash-full-of-colors](https://github.com/slomkowski/bash-full-of-colors) - 强大的提示屏幕，tmux，git支持等等
 * [bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) -  Git用户的信息性和花哨的Bash提示
-* [bash-powerline](https://github.com/riobard/bash-powerline) - 纯Bash脚本中的电力线样式Bash提示
+* [bash-powerline](https://github.com/riobard/bash-powerline) - 纯Bash脚本中的电力线式Bash提示
 * [bashstrap](https://github.com/barryclark/bashstrap) - 一种快速修改OSX终端的方法
 * [bullet-train-oh-my-zsh-theme](https://github.com/caiogondim/bullet-train.zsh) - ：bullettrain_side：基于Powerline Vim插件的oh-my-zsh shell主题
 * [emojify](https://github.com/mrowa44/emojify) 命令行上的表情符号：尖叫：
@@ -152,7 +153,6 @@
 * [git-quick-stats](https://github.com/arzzen/git-quick-stats) -  Git快速统计是一种访问git存储库中各种统计信息的简单而有效的方法.
 * [git-semver](https://github.com/markchalloner/git-semver) - 用于简化语义版本控制和更改日志验证的Git插件
 * [git-sh](https://github.com/rtomayko/git-sh) - 适合Git工作的自定义Bash环境
-* [git-up](https://github.com/aanand/git-up)   - 自动重新定义传入的更改而不是合并.  讲礼貌！
 * [hub](https://github.com/github/hub) -  hub帮助你赢得git.
 * [licins](https://github.com/dogoncouch/licins) - 将注释的软件许可证插入源代码中.
 * [mr](https://myrepos.branchable.com) - 多个存储库管理工具
@@ -288,7 +288,7 @@
 * [basher](https://github.com/basherpm/basher) -  shell脚本的包管理器
 * [bashing](https://github.com/xsc/bashing) - 将Bash粉碎成碎片
 * [bpkg](http://www.bpkg.sh/) -  JavaScript有npm，Ruby有Gems，Python有pip，现在Shell有bpkg
-* [dotdrop](https://github.com/deadc0de6/dotdrop) - 保存您的dotfiles一次，在任何地方部署它们
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - 保存一次dotfiles，将它们部署到各处
 * [dotfiler](https://github.com/svetlyak40wt/dotfiler) - 基于Shell无关的git的dotfiles包管理器，用Python编写.
 * [fresh](https://github.com/freshshell/fresh) - 保持你的dotfiles新鲜
 * [homeshick](https://github.com/andsens/homeshick) - 用Bash编写的Git dotfile同步器

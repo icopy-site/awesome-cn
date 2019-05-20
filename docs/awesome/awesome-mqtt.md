@@ -121,6 +121,7 @@
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - 用于Delphi的MQTT客户端库.
 * [Vert.x MQTT](https://github.com/vert-x3/vertx-mqtt) -  Vert.x组件，提供连接/断开代理，发布消息和订阅主题的方法.
 * [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/)   - 用C语言编写的用于嵌入式使用的MQTT的客户端实现.  它通过wolfSSL库支持SSL / TLS.
+* [MQTTnet](https://github.com/chkr1011/MQTTnet) -  .NET中的MQTT客户端和代理实现.
 
 ### Scripting
 
@@ -164,7 +165,7 @@
 
 * [mqtt-os-status](https://github.com/oskarhagberg/mqtt-os-status) - 与固定时间间隔发布到MQTT代理的操作系统相关数据.
 * [mqttlauncher](https://github.com/jpmens/mqtt-launcher) - 执行由已发布的MQTT消息触发的shell命令.
-* [mqttpc](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
+* [mqttpc](https://github.com/hobbyquaker/mqttpc)   - 通过MQTT控制流程.  能够通过MQTT发送信号并将stdout / stderr或管道MQTT有效负载发布到stdin.
 * [psmqtt](https://github.com/eschava/psmqtt) - 通过MQTT公用事业报告系统健康和状态.
 * [WinThing](https://github.com/msiedlarek/winthing) - 通过MQTT远程控制Windows.
 
@@ -174,6 +175,7 @@
 * [check-mqtt](https://github.com/jpmens/check-mqtt) - 用于检查与MQTT代理的连接的Nagios / Icinga插件.
 * [nag2mqtt](https://github.com/DE-IBH/nag2mqtt) -  Nagios事件代理到MQTT网关.
 * [notify-by-mqtt](https://github.com/jpmens/notify-by-mqtt) -  Nagios / Icinga通知模块，它将数据包装到JSON中并将其发送给MQTT代理.
+* [mqtt2notifysend](https://github.com/David-Lor/MQTT2NotifySend) - 订阅主题并在Ubuntu和其他通知发送兼容的Linux发行版上显示来自MQTT消息的通知.
 
 
 #### Location tracking
@@ -189,6 +191,7 @@
 * [mqtt2graphite](https://github.com/jpmens/mqtt2graphite) - 订阅MQTT主题并推送到Graphite的Carbon服务器.
 * [mqttcollect](https://github.com/jpmens/mqttcollect) -  MQTT的收集“Exec”插件.
 * [mqtthandler](https://github.com/changyuheng/MQTTHandler) -  MQTT的Python日志处理程序模块.
+* [mqtt2mongodb](https://github.com/David-Lor/MQTT2MongoDB) - 订阅MQTT主题并插入MongoDB.
 
 
 #### Smart Home Hardware Interfaces
@@ -197,7 +200,7 @@
 * [aqara2mqtt](https://github.com/hobbyquaker/aqara2mqtt) - 附上 [Aqara](https://www.aqara.com/en/products.html) MQTT的智能中心.
 * [cul2mqtt](https://github.com/hobbyquaker/cul2mqtt) - 之间的接口 [Busware CUL](http://shop.busware.de/product_info.php/cPath/1/products_id/29) （868MHz RF设备，如ELV FS20，HMS，EM ......）和MQTT.
 * [domiqtt](https://github.com/etobi/domiqtt) - 连接到Domiq Base（LCN）并从MQTT转换到MQTT.
-* [eno2mqtt](https://github.com/owagner/eno2mqtt) -  Enocean USB300（TCM310）适配器和MQTT之间的接口.
+* [eno2mqtt](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 * [Evohome2mqtt](https://github.com/svrooij/evohome2mqtt) - 霍尼韦尔Evohome系统的MQTT接口.
 * [helios2mqtt](https://github.com/mreschka/helios2mqtt) - 用于将像我的KWL EC 220D这样的helios easy控制系统同步到MQTT的守护进程.
 * [hm2mqtt.js](https://github.com/hobbyquaker/hm2mqtt.js)   -  EQ-3 Homematic系列智能家居设备与MQTT之间的接口.  支持Homematic IP.
@@ -294,7 +297,7 @@
 * [mqtt2ble](https://github.com/hardillb/mqtt2ble) - 将MQTT主题与BLE Gatt特性联系起来的方法.
 * [mqttclpro](https://github.com/dc297/mqttclpro) - 具有任务集成Android应用程序的MQTT客户端.
 * [mqttDB](https://github.com/hobbyquaker/mqttDB) - 具有MQTT接口的JSON存储.
-* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
+* [node-mqtt-for-anki-overdrive](https://github.com/IBM-Cloud/node-mqtt-for-anki-overdrive) - 用于Anki Overdrive的Node.js控制器和MQTT API.
 * [parrot-sample](https://github.com/IBM-Cloud/parrot-sample) - 使用MQTT控制Parrot AR Drone的示例代码.
 * [snowboy2mqtt](https://github.com/hobbyquaker/snowboy2mqtt) - 在Snowboy Hotword Detection上发布MQTT消息.
 * [speedtest2mqtt](https://github.com/hobbyquaker/speedtest2mqtt) - 运行speedtest-cli并通过MQTT发布结果.
