@@ -85,6 +85,7 @@
 
 ## News
 
+- [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - 为Python的核心开发人员PyCon 2019讨论CircuitPython.
 - [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM)  作者：Nina Zakharenko.  Python打开了一个与可穿戴电子产品一起工作的全新世界.  幻灯片是 [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).
  - [Learn Hardware Programming with CircuitPython](https://www.codecademy.com/learn/learn-circuitpython?utm_source=adafruit&utm_medium=partners&utm_campaign=circuitplayground&utm_content=blog_home) -  Codecademy与Adafruit合作开设的课程.
  - [Use CircuitPython boards on the TI-83 Premium CE calculator](https://blog.adafruit.com/2019/03/31/use-circuitpython-boards-on-the-ti-83-premium-ce-calculator-tiplanetnews-ticalculators-circuitpython-circuitpython/) -  CircuitPython在Texas Instrument计算器上运行.

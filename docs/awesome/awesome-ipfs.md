@@ -135,6 +135,7 @@
 - [ipfs-chrome-station](https://github.com/fbaiodias/ipfs-chrome-station) -  Chrome扩展程序将ipfs.io流量重定向到本地网关
 - [ipfs-common](https://github.com/arsyun) - 一些常用工具，1.CID到人类可读的cid，2.cid和块名称转换，3.阅读leveldb工具. [Source](https://github.com/arsyun/ipfs-common)
 - [ipfs-companion](https://github.com/ipfs/ipfs-companion) - 浏览器扩展，简化了对IPFS资源的访问.
+- [ipfs-deploy](https://github.com/agentofuser/ipfs-deploy) - 用于部署静态网站的零配置CLI：cd my-static-website &amp;&amp; npx @ agentofuser / ipfs-deploy
 - [ipfs-gui](https://github.com/marcin212/ipfs-gui) -  Windows UI集成和IPFS安装程序
 - [ipfs-linux-service](https://github.com/dylanPowers/ipfs-linux-service) -  IPFS Linux Init Daemon
 - [ipfs-mount](https://github.com/richardschneider/net-ipfs-mount) - 在Windows上将IPFS挂载为映射驱动器

@@ -19,7 +19,7 @@
 	<a href="contributing.md">贡献指南</a>
 	<a href="create-list.md">创建列表</a>
 	<a href="https://twitter.com/awesome__re">推特</a>
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">贴纸和T恤</a>
+	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
 </p>
 
 <br>
@@ -83,6 +83,7 @@
 - [IBM Cloud](https://github.com/victorshinya/awesome-ibmcloud#readme) - 面向开发人员和公司的云平台.
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于Google Cloud Platform构建的应用开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套软件库和工具，可帮助您构建机器人应用程序.
+- [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
 
 
 ## Programming Languages
@@ -247,7 +248,7 @@
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) -  Java Web应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建，更改和版本化基础架构的工具.
-- [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
+- [Vapor](https://github.com/Cellane/awesome-vapor#readme) -  Swift中的服务器端开发.
 - [Dash](https://github.com/Acrotrend/awesome-dash#readme) -  Python Web应用程序框架.
 
 
@@ -269,9 +270,9 @@
 - [Cryptography](https://github.com/sobolevn/awesome-cryptography#readme)
 	- [Papers](https://github.com/pFarb/awesome-crypto-papers#readme) - 非密码学家使用密码学的理论基础.
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
-- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - Neural networks.
+- [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 引用最多的深度学习论文.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)

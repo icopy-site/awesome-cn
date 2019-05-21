@@ -190,7 +190,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystalworld](https://github.com/vladfaust/crystalworld) - [realworld.io](https://realworld.io) 后端API实现
  * [exercism-crystal](https://github.com/exercism/crystal) - 运动练习
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) - 从头开始​​的Crystal MySQL示例应用程序
- * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol Blog的Crystal＆Kemal版本
+ * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - 使用Kemal和WebSocket构建实时应用程序
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - 此存储库显示，如何在几秒钟内发布开源应用程序，这些应用程序将kemal框架作为heroku app发布
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - 用Crystal，Kemal和MySQL编写的博客
@@ -329,6 +329,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [manual-generator](https://github.com/blocknotes/manual-generator) - 从文档站点生成PDF手册的工具
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - 验证并生成Rails`ActiveSupport :: MessageVerifier`签名的令牌
  * [pangu.cr](https://github.com/isaced/pangu.cr) -  Crystal中的偏执文本间距
+ * [port_midi](https://github.com/jimm/crystal_port_midi) - 用于PortMIDI跨平台MIDI I / O库的Crystal C绑定
  * [raytracer](https://github.com/l3kn/raytracer) - 带有示例的CPU Raytracer
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 简单的DSL重试失败的代码块
  * [tren](https://github.com/sdogruyol/tren) - 给你的SQL一些爱
@@ -338,7 +339,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bson.cr](https://github.com/jeromegn/bson.cr) - 原生BSON实施
  * [Crirc](https://github.com/Meoowww/Crirc) -  IRC协议实施（客户端，服务器，机器人）
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)   -  JSON套接字客户端和服务器实现.  灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
- * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本1,2c和3的SNMP实现
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速IRC解析器/生成器
  * [gopher.cr](https://github.com/anicholson/gopher.cr) -  Gopher服务器工具包
  * [jwt](https://github.com/crystal-community/jwt) -  JWT（JSON Web令牌）的实现
@@ -406,7 +407,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [stats](https://git.sceptique.eu/Sceptique/stats) - 统计分布的表达实施
 
 ## Search
- * [hermes](https://github.com/imdrasil/hermes.cr) - Data Mapper pattern implementation for ElastiSearch
+ * [hermes](https://github.com/imdrasil/hermes.cr) -  ElastiSearch的Data Mapper模式实现
  * [query-builder](https://github.com/izniburak/query-builder) -  Sql Query Builder库
  * [query.cr](https://github.com/waterlink/query.cr) - 查询抽象
  * [soegen](https://github.com/Ragmaanir/soegen) -  Crystal的Elasticsearch客户端类似于ruby的stretcher gem

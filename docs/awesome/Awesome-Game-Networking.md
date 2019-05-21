@@ -34,23 +34,23 @@
 - [Tick Based Lag Compensation in Unity](https://twotenpvp.github.io/lag-compensation-in-unity.html) - AlbinCorén更准确地拍摄案例.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) -  Joe Best-Rotheray的演示项目和详细的博客文章.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) -  Justin Rempel的示例项目和详细博客文章.
+- [Unreal Engine 1 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) -  Tim Sweeney撰写的关于UE1（虚幻，虚幻竞技场）网络代码的历史文章.
 - [Unreal Engine 3 Networking & Replication](https://api.unrealengine.com/udk/Three/ReplicationHome.html) - 历史但仍然有价值的UE3游戏网络文档维基.
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) -  Nuno Afonso简要介绍Unreal的游戏网络框架.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - 有关UE4网络的详细摘要以及Cedric Neukirchen的示例.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - 官方UE4游戏网络框架文档维基.
-- [Unreal Tournament 2004 Netcode](https://docs.google.com/document/d/1KGLbEfHsWANTTgUqfK6rkpFYDGvnZYj-BN18sxq6LPY) - Historical paper on netcode in UT4 / UE by Tim Sweeney.
 - RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - 快速射击游戏中的Pixonic客户端.
 
 ## Talks
 
-- 游戏开发者大会
+- Game Developers Conference
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
   - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
   - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
   - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - 来自Crytek的Peter Hall的程序员事后调查.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -  Halo中的游戏网络：来自Bungie的David Aldridge.
   - [2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) - 来自En Masse Ent的Patrick Wyatt的演讲.
-  - [2013 / Network Serialization and Routing in World of Warcraft](http://www.gdcvault.com/play/1017733/Network-Serialization-and-Routing-in) - 来自暴雪的Joe Rumsey谈话.
+  - [2013 / Network Serialization and Routing in World of Warcraft](http://www.gdcvault.com/play/1017733/Network-Serialization-and-Routing-in) - 来自暴雪的Joe Rumsey.
   - [2015 / Game Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking) - 来自Respawn Entertainment的Glenn Fiedler的演讲.
   - [2015 / Networking Gameplay and AI in Assassin's Creed Unity](http://www.gdcvault.com/play/1022168/Networking-Gameplay-and-AI-in) - 来自Ubisoft的Charles Lefebvre的演讲.
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - 来自索尼的Claire Blackshaw的高级设计方法.
