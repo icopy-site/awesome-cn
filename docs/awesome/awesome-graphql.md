@@ -34,6 +34,7 @@
 * [GraphQL APIs](https://github.com/APIs-guru/graphql-apis) - 公共GraphQL API的集合列表
 * [GraphQL World](https://graphql-world.com) -  GraphQL开发人员增长最快的社区
 * [GraphQL Jobs](https://graphql.jobs) - 全球创业公司中基于GraphQL的工作列表.
+* [Bookmarks.dev](https://www.bookmarks.dev/search?q=graphql)   - 开发书签.  使用标签 [graphql](https://www.bookmarks.dev/tagged/graphql)
 
 <a name="meetups" />
 

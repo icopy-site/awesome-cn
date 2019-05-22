@@ -118,7 +118,7 @@
 - [Minira](https://github.com/jenslind/minira) - 您的菜单栏中的JIRA问题.
 - [Ansel](https://github.com/m0g/ansel) - 图像组织者.
 - [Build Checker App](https://github.com/willmendesneto/build-checker-app) - 检查CI服务器构建状态.
-- [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - 追踪你的时间.
+- [Tockler](https://github.com/MayGo/tockler) - 追踪你的时间.
 - [Ghost](https://github.com/tryghost/ghost-desktop) - 专业的出版平台.
 - [Mattermost](https://github.com/mattermost/desktop) -  Mattermost客户.
 - [PupaFM](https://github.com/xwartz/PupaFM) -  DoubanFM音乐播放器.

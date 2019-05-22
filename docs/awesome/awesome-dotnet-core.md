@@ -200,7 +200,7 @@
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - 视觉设计，通过拖放建立网站.
 
 ### Code Analysis and Metrics
-* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - 针对各种编程语言的静态分析工具，短接和代码质量检查器的精选列表.
+* [awesome-static-analysis](https://github.com/mre/awesome-static-analysis) - 针对各种编程语言的静态分析工具，链接和代码质量检查器的精选列表.
 *代码分析
   * [DevSkim](https://github.com/Microsoft/DevSkim) - 一组IDE插件和规则，提供安全“linting”功能.
   * [RefactoringEssentials](https://github.com/icsharpcode/RefactoringEssentials) - 重构Visual Studio的Essentials.
@@ -462,6 +462,7 @@
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - 用于提取元数据和下载Youtube视频和播放列表的终极库.
 
 ### Networking
+* [AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) -  ASP.NET Core Proxies变得简单.
 * [CurlThin](https://github.com/stil/CurlThin) - Lightweight cURL binding library for C# with support for multiple simultaneous transfers through curl_multi interface.
 * [NETStandard.HttpListener](https://github.com/StefH/NETStandard.HttpListener) - 用于.NET Core的HttpListener（NETStandard）.
 * [Networker](https://github.com/MarkioE/Networker) - 一个简单易用的.NET TCP和UDP网络库，旨在实现灵活，可扩展和快速.

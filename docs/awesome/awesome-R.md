@@ -49,36 +49,40 @@
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
+## 2019
+
+* [vroom](https://github.com/r-lib/vroom) - 快速读取分隔文件  ![vroom](https://cranlogs.r-pkg.org/badges/vroom)
+
 ## 2018
 
-* [r2d3](https://rstudio.github.io/r2d3/) -  D3可视化的R接口
+* [r2d3](https://rstudio.github.io/r2d3/) -  D3可视化的R接口 ![r2d3](https://cranlogs.r-pkg.org/badges/r2d3)
 * [rstats-ed](https://github.com/rstudio-education/rstats-ed) - 教授R的课程清单
-* [promises](https://cran.r-project.org/web/packages/promises/index.html) - 基于Promise的异步编程的抽象
-* [tinytex](https://yihui.name/tinytex/) - 轻巧且易于维护的LaTeX发行版
+* [promises](https://cran.r-project.org/web/packages/promises/index.html) - 基于Promise的异步编程的抽象 ![promises](https://cranlogs.r-pkg.org/badges/promises)
+* [tinytex](https://yihui.name/tinytex/) - 轻巧且易于维护的LaTeX发行版 ![tinytex](https://cranlogs.r-pkg.org/badges/tinytex)
 * [Readings in Applied Data Science](https://github.com/hadley/stats337) - 这些读数反映了哈德利关于应用数据科学的个人想法.
 
 
 ## 2017
 
-* [prophet](https://github.com/facebookincubator/prophet) - 用于生成具有线性或非线性增长的多季节性的时间序列数据的高质量预测的工具.
-* [tidyverse](https://github.com/tidyverse/tidyverse) - 从tidyverse轻松安装和加载包
-* [purrr](https://github.com/tidyverse/purrr) -  R的函数式编程工具包
-* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - 以意见，印刷为中心的ggplot2主题和主题组件
-* [xaringan](https://github.com/yihui/xaringan) - 使用R Markdown和JavaScript库创建HTML5幻灯片
-* [blogdown](https://github.com/rstudio/blogdown) - 使用R Markdown创建博客和网站
-* [glue](https://github.com/tidyverse/glue) - 将字符串粘贴到R中的数据.小，快，无依赖的解释字符串文字.
-* [covr](https://github.com/jimhester/covr) -  R的测试覆盖率报告
-* [lintr](https://github.com/jimhester/lintr) -  R的静态代码分析
-* [reprex](https://github.com/jennybc/reprex) - 渲染用于共享的R代码位，例如，在GitHub或StackOverflow上.
-* [reticulate](https://github.com/rstudio/reticulate) -  R与Python的接口
-* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R
-* [utf8](https://github.com/patperry/r-utf8) - 操作和打印UTF-8文本，修复R的UTF-8处理中的多个错误.
+* [prophet](https://github.com/facebookincubator/prophet) - 用于生成具有线性或非线性增长的多季节性的时间序列数据的高质量预测的工具. ![prophet](https://cranlogs.r-pkg.org/badges/prophet)
+* [tidyverse](https://github.com/tidyverse/tidyverse) - 从tidyverse轻松安装和加载包 ![tidyverse](https://cranlogs.r-pkg.org/badges/tidyverse)
+* [purrr](https://github.com/tidyverse/purrr) -  R的函数式编程工具包 ![purrr](https://cranlogs.r-pkg.org/badges/purrr)
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - 以意见，印刷为中心的ggplot2主题和主题组件 ![hrbrthemes](https://cranlogs.r-pkg.org/badges/hrbrthemes)
+* [xaringan](https://github.com/yihui/xaringan) - 使用R Markdown和JavaScript库创建HTML5幻灯片 ![xaringan](https://cranlogs.r-pkg.org/badges/xaringan)
+* [blogdown](https://github.com/rstudio/blogdown) - 使用R Markdown创建博客和网站 ![blogdown](https://cranlogs.r-pkg.org/badges/blogdown)
+* [glue](https://github.com/tidyverse/glue) - 将字符串粘贴到R中的数据.小，快，无依赖的解释字符串文字.  ![glue](https://cranlogs.r-pkg.org/badges/glue)
+* [covr](https://github.com/jimhester/covr) -  R的测试覆盖率报告 ![covr](https://cranlogs.r-pkg.org/badges/covr)
+* [lintr](https://github.com/jimhester/lintr) -  R的静态代码分析 ![lintr](https://cranlogs.r-pkg.org/badges/lintr)
+* [reprex](https://github.com/jennybc/reprex) - 渲染用于共享的R代码位，例如，在GitHub或StackOverflow上. ![reprex](https://cranlogs.r-pkg.org/badges/reprex)
+* [reticulate](https://github.com/rstudio/reticulate) -  R与Python的接口  ![reticulate](https://cranlogs.r-pkg.org/badges/reticulate)
+* [tensorflow](https://github.com/rstudio/tensorflow) -  TensorFlow for R ![tensorflow](https://cranlogs.r-pkg.org/badges/tensorflow)
+* [utf8](https://github.com/patperry/r-utf8) - 操作和打印UTF-8文本，修复R的UTF-8处理中的多个错误. ![utf8](https://cranlogs.r-pkg.org/badges/utf8)
 * [Patchwork](https://github.com/thomasp85/patchwork) - 将单独的ggplots组合到同一图形中.
 
 ## Integrated Development Environments
 *综合发展环境*
 
-* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - A powerful and productive user interface for R. Works great on Windows, Mac, and Linux.
+* [RStudio <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.rstudio.org/) - 适用于R的强大而高效的用户界面.适用于Windows，Mac和Linux.
 * [Emacs + ESS](http://ess.r-project.org/) -  Emacs Speaks Statistics是emacs文本编辑器的附加软件包.
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) -  Sublime Text 2/3的附加软件包.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) -  TextMate 1/2的附加软件包.
@@ -114,6 +118,7 @@
 * [bigmemory](https://github.com/kaneplusplus/bigmemory)   - 共享内存和内存映射矩阵.  big \ *包提供了额外的工具，包括线性模型（[biglm](http://cran.r-project.org/web/packages/biglm/index.html)）和随机森林（[bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - 在不精确的匹配上将表连接在一起.
 * [tidyverse](https://github.com/hadley/tidyverse) - 从tidyverse轻松安装和加载包.
+* [vroom](https://github.com/r-lib/vroom) - 快速读取分隔文件
 
 ## Graphic Displays
 *用于显示数据的包.*
@@ -140,7 +145,8 @@
 * [dendextend](https://github.com/talgalili/dendextend) - 可视化，调整和比较层次聚类的树.
 * [r2d3](https://rstudio.github.io/r2d3/) -  D3可视化的R接口
 * [Patchwork](https://github.com/thomasp85/patchwork) - 将单独的ggplots组合到同一图形中.
-
+* [plot3D](http://www.rforscience.com/rpackages/visualisation/plot3d/) - 绘制多维数据
+* [plot3Drgl](https://cran.r-project.org/web/packages/plot3Drgl/index.html) - 绘制多维数据 - 使用&#39;rgl&#39;
 
 ## HTML Widgets
 *交互式可视化包.*
@@ -165,13 +171,14 @@
 
 * [tinytex](https://github.com/yihui/tinytex) - 轻巧且易于维护的LaTeX发行版
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - 将表导出为LaTeX或HTML.
-* [rapport](http://rapport-package.info/#intro) - 一个R模板系统.
+* [rapport](http://rapport-package.info/#intro) - An R templating system.
 * [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) -  R的动态文档
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - 用于使用R编写LaTeX报告的包.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - 在LaTex和HTML中格式化统计模型.
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - 从检查点服务器上的快照安装包.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html)   - 预先计算数据以增强报告模板.  可与knitr结合使用.
-* [ReporteRs](http://davidgohel.github.io/ReporteRs/index.html) - 用于生成Microsoft Word，Microsoft PowerPoint和HTML报告的R包.
+* [officer](https://davidgohel.github.io/officer/index.html) - 用于生成Microsoft Word，Microsoft PowerPoint和HTML报告的R包.
+* [flextable](https://davidgohel.github.io/flextable/index.html)   - 在Microsoft Word，Microsoft PowerPoint和HTML报告中嵌入复杂表格（合并单元格，多级页眉和页脚，条件格式）的R包.  它与[官员]包合作，并与[rmarkdown]报告集成.
 * [bookdown](https://bookdown.org/) - 使用R Markdown编写图书.
 * [ezknitr](https://github.com/daattali/ezknitr) - 使用&#39;knitr&#39;时避免典型的工作目录痛苦
 * [drake](https://github.com/ropensci/drake) - 安 [rOpenSci](https://ropensci.org/) 可重复数据科学工作流程的包装太大了 [knitr](http://yihui.name/knitr/).
@@ -185,7 +192,8 @@
 * [curl](https://github.com/jeroen/curl) - 适用于R的现代灵活的Web客户端
 * [httpuv](https://github.com/rstudio/httpuv) -  HTTP和WebSocket服务器库.
 * [XML <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/XML/index.html) - 用于在R中解析和生成XML的工具.
-* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) -  R的HTTP API
+* [xml2 <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/xml2/index.html) - 优化的工具，用于在R中解析和生成XML.
+* [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - 用于R处理并发调用的HTTP API，基于Apache2 Web服务器，将R代码公开为REST Web服务并创建完整大小的多页Web应用程序.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - 通过R访问Facebook API.
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - 用于Adobe Analytics的R客户端库.
 * [plumber](https://github.com/trestletech/plumber) - 将现有R代码公开为Web API的库.
@@ -197,7 +205,7 @@
 * [Rmpi](http://cran.r-project.org/web/packages/Rmpi/index.html)   -  Rmpi​​为MPI API提供接口（包装器）.  它还提供交互式R从站环境.
 * [foreach <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/foreach/index.html) - 并行执行循环.
 * [future <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/package=future)   - 用于R中并行和分布式处理的最小，高效，跨平台的统一Future API;  专为初学者和高级开发人员设计.
-* [DistributedR](https://github.com/vertica/DistributedR) -  HP Vertica Analytics Team的可扩展高性能平台.
+* [DistributedR](https://github.com/vertica/DistributedR) -  HP Vertica Analytics Team提供的可扩展高性能平台.
 * [ddR](https://github.com/vertica/ddR) - 提供分布式数据结构并简化R中的分布式计算.
 * [sparklyr](http://spark.rstudio.com/) - 来自RStudio的Apache Spark的R接口.
 * [batchtools](https://cran.r-project.org/package=batchtools) - 使用LSF，TORQUE，Slurm，OpenLava，SGE和Docker Swarm进行高性能计算.
@@ -234,11 +242,11 @@
 * [DBI](https://github.com/rstats-db/DBI) - 定义R和数据库管理系统之间的通用接口.
 * [elastic](https://github.com/ropensci/elastic) -  Elasticsearch HTTP API的包装器
 * [mongolite](https://github.com/jeroenooms/mongolite) - 用于R的流式Mongo客户端
-* [odbc](https://github.com/r-dbi/odbc) - 连接到ODBC数据库（使用DBI接口）
+* [odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
 * [RMariaDB](https://github.com/rstats-db/RMariaDB) -  MariaDB的R接口（旧的RMySQL包的替代品）
 * [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) -  MySQL数据库的R接口.
 * [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - 基于OCI的Oracle数据库接口
-* [RPostgres](https://github.com/r-dbi/RPostgres) - 与postgres数据库的DBI兼容接口.
+* [RPostgres](https://github.com/r-dbi/RPostgres) -  postgres数据库的DBI兼容接口.
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) -  PostgreSQL数据库系统的R接口.
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) -  R的SQLite接口
 * [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - 通过JDBC接口提供对数据库的访问.
@@ -281,7 +289,7 @@ Friedman
 * [forecast](http://cran.r-project.org/web/packages/forecast/index.html) - 使用ARIMA，ETS，STLM，TBATS和神经网络模型进行时间序列预测
 * [forecastHybrid](http://cran.r-project.org/web/packages/forecastHybrid/index.html) - 来自“预测”包的ARIMA，ETS，STLM，TBATS和神经网络模型的自动集合和交叉验证
 * [FSelector](https://cran.r-project.org/web/packages/FSelector/index.html) - 基于子集搜索或特征排名方法的特征选择框架.
-* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - Fuzzy Rule-based Systems for Classification and Regression Tasks
+* [frbs](http://cran.r-project.org/web/packages/frbs/index.html) - 用于分类和回归任务的基于模糊规则的系统
 * [GAMBoost](http://cran.r-project.org/web/packages/GAMBoost/index.html) - 基于可能性的广义线性和加性模型
 boosting
 * [gamboostLSS](http://cran.r-project.org/web/packages/gamboostLSS/index.html) -  GAMLSS的推进方法
@@ -303,6 +311,8 @@ covariates
 * [lars](http://cran.r-project.org/web/packages/lars/index.html) - 最小角度回归，套索和前进阶段
 * [lasso2](http://cran.r-project.org/web/packages/lasso2/index.html) -  L1约束估计又名&#39;套索&#39;
 * [LiblineaR](http://cran.r-project.org/web/packages/LiblineaR/index.html) - 基于Liblinear C / C ++库的线性预测模型
+* [nlme <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://cran.r-project.org/web/packages/nlme/index.html) - 混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观测的分析相关
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - 广义混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观测的分析相关
 * [LogicReg](http://cran.r-project.org/web/packages/LogicReg/index.html) - 逻辑回归
 * [maptree](http://cran.r-project.org/web/packages/maptree/index.html) - 映射，修剪和绘制树模型
 * [mboost](http://cran.r-project.org/web/packages/mboost/index.html) - 基于模型的提升
@@ -311,10 +321,10 @@ covariates
 models
 * [nnet](http://cran.r-project.org/web/packages/nnet/index.html) -  eed-forward神经网络和多项式对数线性模型
 * [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - 分类数据的倾斜树
-* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) -  Pam：微阵列的预测分析
+* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: prediction analysis for microarrays
 * [party](http://cran.r-project.org/web/packages/party/index.html) - 递归派系实验室
 * [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - 递归派系工具包
-* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) - L1 (lasso and fused lasso) and L2 (ridge) penalized estimation
+* [penalized](http://cran.r-project.org/web/packages/penalized/index.html) -  L1（套索和融合套索）和L2（脊）惩罚估计
 在GLM和Cox模型中
 * [penalizedLDA](http://cran.r-project.org/web/packages/penalizedLDA/index.html) - 使用Fisher线性判别式进行惩罚分类
 * [penalizedSVM](http://cran.r-project.org/web/packages/penalizedSVM/index.html) - 使用惩罚函数的特征选择SVM
@@ -402,6 +412,8 @@ Data
 * [xts](http://cran.r-project.org/web/packages/xts/index.html) - 可扩展时间序列.
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - 时间序列分析和计算金融.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - 分析和建模金融资产.
+* [scorecard](https://github.com/ShichenXie/scorecard) - 信用风险记分卡
+* [pedquant](http://pedquant.com/) - 公共经济数据和定量分析
 
 ## Bioinformatics and Biostatistics
 *用于处理生物数据集的包.*
@@ -410,8 +422,10 @@ Data
 * [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - 处理遗传数据的类和方法.
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - 用于人口和家庭数据遗传数据分析的综合方案.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - 系统发育和进化分析.
-* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图变得容易.
-
+* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图很容易.
+* [lme4](https://github.com/lme4/lme4) - 广义混合效果模型.
+* [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - 混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观察的分析相关.
+* [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - 广义混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观测的分析相关.
 
 ## Network Analysis
 *用于构建，分析和可视化网络数据的软件包.*
@@ -440,7 +454,7 @@ Data
 * [sf](https://cran.r-project.org/web/packages/sf/index.html) - 改进的空间数据类和方法.
 * [sp](https://edzer.github.io/sp/) - 空间数据的类和方法.
 * [rgeos](https://cran.r-project.org/web/packages/rgeos/index.html) - 几何引擎接口 - 开源
-* [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - Bindings for the Geospatial Data Abstraction Library
+* [rgdal](https://cran.r-project.org/web/packages/rgdal/index.html) - 地理空间数据抽象库的绑定
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - 用于读取和处理空间对象的工具
 * [gstat](https://github.com/edzer/gstat) - 空间和时空地质统计建模，预测和模拟.
 * [spacetime](https://github.com/edzer/spacetime) - 用于时空数据的R类和方法.
@@ -448,6 +462,7 @@ Data
 * [spatstat](https://github.com/spatstat/spatstat) - 空间点模式分析，模型拟合，模拟，测试
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - 空间依赖性：加权方案，统计和模型
 * [tigris](https://github.com/walkerke/tigris) - 在R中下载并使用Census TIGER / Line shapefiles
+* [GWmodel](https://cran.r-project.org/web/packages/GWmodel/) - 地理加权模型
 
 ## R Development
 *包裹套餐.*
@@ -456,7 +471,7 @@ Data
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - 基于Promise的异步编程的抽象
 * [lineprof](https://github.com/hadley/lineprof) - 在R中可视化行分析结果
 * [packrat](https://github.com/rstudio/packrat) - 使您的R项目更加孤立，便携和可重复.
-* [installr](https://github.com/talgalili/installr/) - 从R内部安装软件的功能（适用于Windows）.
+* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
 * [import](https://github.com/smbache/import/) -  R的导入机制
 * [modules](https://github.com/klmr/modules) -  R的替代（Python风格）模块系统
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) -  RStudio插件列表.

@@ -129,7 +129,7 @@
  * [termbox](https://github.com/nsf/termbox)   - 用于编写基于文本的用户界面的AC库.  [MIT]
 
 ## Compression
-*Compression and Archiving Libraries*
+*压缩和存档库*
 
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
@@ -172,7 +172,7 @@
 * [junction](https://github.com/preshing/junction)   -  C ++中的并发数据结构库.  [BSD]
 * [libcds](https://github.com/khizmax/libcds)   - 并发数据结构的C ++库.  [BSD]
 * [Libclsph](https://github.com/libclsph/libclsph)   - 基于OpenCL的GPU加速SPH流体模拟库.  [MIT]
-* [libdill](https://github.com/sustrik/libdill/) - 在C中引入结构化并发.[MIT]
+* [libdill](https://github.com/sustrik/libdill/) - Introduces structured concurrency in C. [MIT]
 * [libdispatch](https://github.com/apple/swift-corelibs-libdispatch)   - 由Apple Inc.开发的Grand Central Dispatch（GCD）是一种基于线程池模式的任务并行技术.  libdispatch是一个提供GCD服务实现的库.  [Apache的2.0] [website](https://apple.github.io/swift-corelibs-libdispatch/)
 * [libmill](https://github.com/sustrik/libmill/) - 在C中引入Go风格的并发性.[MIT]
 * [moderngpu](https://github.com/moderngpu/moderngpu)   -  moderngpu是GPU上通用计算的生产力库.  它是为CUDA编写的仅标头C ++库.  该库的独特价值在于其加速原语，用于解决不规则并行问题.  [FreeBSD和版权所有，Sean Baxter]
@@ -225,6 +225,10 @@
 * [Tink](https://github.com/google/tink)   - 一种多语言，跨平台的库，提供安全，易于正确使用且难以滥用的加密API.  [Apache的2.0]
 * [Tiny AES in C](https://github.com/kokke/tiny-AES-c) - 小型便携式AES128 / 192/256 in C. [PublicDomain]
 * [Themis](https://github.com/cossacklabs/themis)   - 用于无痛数据安全的加密库，提供对称和非对称加密，具有前向保密的安全套接字，适用于移动和服务器平台.  [Apache2的]
+
+## CSV
+
+* [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)   - 一个快速，独立的流式C ++ 17 CSV解析器，带有可选的类型转换和统计信息.  [MIT]
 
 ## Database
 *数据库库，SQL服务器，ODBC驱动程序和工具*
@@ -709,6 +713,7 @@
 * [CppCMS](http://cppcms.com/)   - 免费的高性能Web开发框架（不是CMS）.  [LGPLv3]
 * [Crow](https://github.com/ipkn/crow)   -  Crow是C ++微Web框架（受Python Flask启发）.  [BSD]
 * [Cutelyst](https://github.com/cutelyst/cutelyst)   - 使用Catalyst（Perl）框架的简单方法构建在Qt之上的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
+* [Drogon](https://github.com/an-tao/drogon)   - 基于C ++ 14/17的高性能HTTP应用程序框架.  [MIT]
 * [facil.io](https://github.com/boazsegev/facil.io)   - 支持HTTP，WebSockets，SSE等的平衡，高性能C Web框架.  [MIT] [website](http://facil.io)
 * [Kore](https://kore.io/) - 用于在C中开发的用于Web应用程序的超快速且灵活的Web服务器/框架.[ISC]
 * [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，帮助您使用C编程语言创建Web服务器.  [LGPLv3]

@@ -339,9 +339,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [bson.cr](https://github.com/jeromegn/bson.cr) - 原生BSON实施
  * [Crirc](https://github.com/Meoowww/Crirc) -  IRC协议实施（客户端，服务器，机器人）
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)   -  JSON套接字客户端和服务器实现.  灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
- * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - An SNMP implementation with version 1, 2c and 3 support
+ * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本1,2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速IRC解析器/生成器
- * [gopher.cr](https://github.com/anicholson/gopher.cr) -  Gopher服务器工具包
+ * [gopher.cr](https://github.com/anicholson/gopher.cr) - Gopher server toolkit
  * [jwt](https://github.com/crystal-community/jwt) -  JWT（JSON Web令牌）的实现
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) -  MessagePack库
  * [OAuth](https://crystal-lang.org/api/OAuth.html) -  OAuth消费者（Crystal stdlib）
@@ -446,6 +446,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) - 用于单元测试和断言的库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) - 模拟水晶库
  * [Spec](https://crystal-lang.org/api/Spec.html) -  spec框架（Crystal stdlib）
+ * [spectator](https://gitlab.com/arctic-fox/spectator) - 功能丰富的规范框架，使用现代期望语法
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)   - 使用`Time.now`进行模拟的库.  灵感来自于 [timecop ruby gem](https://github.com/travisjeffery/timecop)
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)   - 页面对象库.  灵感来自Ruby [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - 用于存根“HTTP :: Client”请求的库

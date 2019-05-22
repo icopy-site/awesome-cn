@@ -222,6 +222,7 @@
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
+- [Storybook](https://github.com/lauthieb/awesome-storybook#readme) -  UI组件的开发环境.
 
 
 ## Back-End Development
@@ -272,7 +273,7 @@
 - [Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision#readme)
 - [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#readme) - 神经网络.
 	- [TensorFlow](https://github.com/jtoy/awesome-tensorflow#readme) - 机器智能库.
-	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - The most cited deep learning papers.
+	- [Papers](https://github.com/terryum/awesome-deep-learning-papers#readme) - 引用最多的深度学习论文.
 	- [Education](https://github.com/guillaume-chevalier/awesome-deep-learning-resources#readme)
 - [Deep Vision](https://github.com/kjw0612/awesome-deep-vision#readme)
 - [Open Source Society University](https://github.com/ossu/computer-science#readme)
@@ -467,7 +468,7 @@
 
 ## Work
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - 团队协作.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)

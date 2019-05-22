@@ -15,7 +15,7 @@
  你好朋友！  帮帮我几个：啤酒：！<img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span>
 
 
- macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) to the list, any suggestions are welcome!
+ macOS的令人敬畏的开源应用程序列表.  此列表包含许多本机和跨平台应用程序.  该存储库的主要目标是找到免费的开源应用程序并开始贡献.  随意地 [contribute](https://github.com/serhii-londar/open-source-mac-os-apps/blob/master/CONTRIBUTING.md) 在列表中，欢迎任何建议！
 
 ## Languages
 
@@ -32,7 +32,7 @@
 - ！[haskell_icon]  -  Haskell语言.
 - ！[javascript_icon]  -  JavaScript语言.
 - ！[lua_icon]  -  Lua语言.
-- ！[objective_c_icon]  -  Objective-C语言.
+- ![objective_c_icon] - Objective-C language.
 - ！[python_icon]  -  Python语言.
 - ！[ruby_icon]  -  Ruby语言.
 - ！[rust_icon]  -  Rust语言.
@@ -109,7 +109,7 @@
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser)   -  SQLite数据库管理GUI.  ！[cpp_icon] 
 - [DBeaver](https://github.com/dbeaver/dbeaver)   - 通用数据库工具和SQL客户端.  ！[java_icon] 
 - [Medis](https://github.com/luin/medis)   -  Medis是一款美观，易用的Redis数据库管理应用程序.  ！[javascript_icon] 
-- [Postbird](https://github.com/Paxa/postbird) - PostgreSQL GUI client for macOS.  ![javascript_icon] 
+- [Postbird](https://github.com/Paxa/postbird)   - 用于macOS的PostgreSQL GUI客户端.  ！[javascript_icon] 
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp)   - 在Mac上开始使用PostgreSQL的最简单方法.  ！[swift_icon] 
 - [Redis.app](https://github.com/jpadilla/redisapp)   - 在Mac上开始使用Redis的最简单方法.  ！[swift_icon] 
 - [Robo 3T](https://github.com/Studio3T/robomongo)   -  Robo 3T（以前称为Robomongo）是MongoDB爱好者的免费轻量级GUI.  ！[cpp_icon] 
@@ -150,6 +150,7 @@
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)   -  Corectl App是一个macOS状态栏App，它的工作方式类似于corectl命令行工具corectld的包装器，用于控制服务器运行时进程.  ！[swift_icon] 
 - [Insomnia](https://github.com/getinsomnia/insomnia)   -  Insomnia是一个跨平台的REST客户端，建立在Electron之上.  ！[javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor)   -  KubeMonitor是一个macOS应用程序，可在菜单栏中显示有关活动Kubernetes群集的信息.  ！[swift_icon] 
+- [KubeSwitch](https://github.com/nsriram/KubeSwitch)   -  KubeSwitch在Mac的菜单栏中列出mac上可用的kubernetes集群上下文.  ！[swift_icon] 
 - [Lantern](https://github.com/BurntCaramel/Lantern)   - 用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites)   - 用于macOS列出本地Bonjour网站的简单菜单栏（状态栏）应用程序（因为Safari 11不再具有Bonjour书签）.  ！[swift_icon] 
 - [Mockup Generator](https://github.com/andypotts/mockup-generator)   -  Mockup Generator是一个使用AngularJS / Electron构建的macOS应用程序，它位于您的菜单栏中，允许您捕获您喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
@@ -185,6 +186,7 @@
 - [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)   - 简单的macOS编辑器应用程序，允许您并排编辑所有翻译，以帮助您管理iOS应用程序本地化.  ！[swift_icon] 
 - [Localizations](https://github.com/athiercelin/Localizations)   -  Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   -  macOS app，方便访问系统颜色面板.  ！[swift_icon] 
+- [Notarize](https://github.com/macmade/Notarize) -  macOS的公证状态监控工具，支持多个开发人员帐户！[swift_icon] 
 - [PodsUpdater](https://github.com/kizitonwose/PodsUpdater)   -  macOS应用程序，可帮助您管理Podfile中的依赖项版本.  ！[swift_icon] 
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)   - 用于mac的Apple iOS / macOS Provisioning Profiles管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)   - 用于测试iOS和Android上的推送通知的macOS应用程序.  ！[javascript_icon] 
@@ -193,7 +195,7 @@
 - [Simulator](https://github.com/onmyway133/Simulator)   - 快速导航到您的应用程序文件夹.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)   -  iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)   - 适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
-- [WWDC](https://github.com/insidegui/WWDC) - Unofficial WWDC app for macOS.  ![swift_icon] 
+- [WWDC](https://github.com/insidegui/WWDC)   -  macOS的非官方WWDC应用程序.  ！[swift_icon] 
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)   - 自2013年以（srt）格式为每个WWDC会话视频下载字幕的强大应用程序.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)   -  iOS Calabash Launcher是一款macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)   -  iOS Images Extractor是一款Mac应用程序，用于规范化，解码和从iOS应用程序中提取图像.  ！[objective_c_icon] 
@@ -270,7 +272,7 @@
 
 ### IDE
 - [Atom](https://github.com/atom/atom)   - 黑客文本编辑器.  ！[javascript_icon] 
-- [Oni](https://github.com/onivim/oni)   -  Oni是一个现代化的模态编辑代码编辑器，专注于开发人员的工作效率.  ！[javascript_icon]！[javascript_icon]！[type_script_icon] 
+- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon] ![javascript_icon] ![type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)   - 由Microsoft开发的代码编辑器.  ！[type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)   -  ZeroBrane Studio是一个轻量级的跨平台Lua IDE，具有代码完成，语法高亮，远程调试器，代码分析器，实时编码以及各种Lua引擎的调试支持.  ！[lua_icon] 
 
@@ -350,7 +352,7 @@
 - [Standard Notes](https://github.com/standardnotes/web)   - 为您的笔记，思想和生活工作提供安全的场所.  ！[javascript_icon]！[css_icon] 
 - [Tusk](https://github.com/klaussinani/tusk)   - 非官方，第三方，社区驱动的Evernote应用程序，具有一些有用的功能.  ！[javascript_icon]！[css_icon] 
 - [joplin](https://github.com/laurent22/joplin)   - 注意具有Windows，macOS，Linux，Android和iOS同步功能的应用程序和待办事项.  ！[javascript_icon] 
-- [notable](https://github.com/jmcfarlane/notable)   - 简单的笔记应用程序.  ！[javascript_icon] 
+- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.  ![javascript_icon] 
 - [tmpNote](https://github.com/buddax2/tmpNote)   - 非常简单的macOS应用程序来制作临时笔记.  ！[swift_icon] 
 
 ### Other
@@ -414,7 +416,8 @@
 - [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper)   - 实用程序应用程序有助于选择图像以用作桌面墙纸或Mac计算机上的屏幕保护程序.  ！[swift_icon] 
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver)   -  macOS的屏幕保护程序.  ！[objective_c_icon] 
 - [MusaicFM](https://github.com/docterd/MusaicFM) -  Spotify和Last.fm的iTunes屏幕保护程序克隆！[objective_c_icon] 
-- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)   - 用于macOS的GitHub矩阵屏幕保护程序.  ！[javascript_icon] 
+- [Predator](https://github.com/vpeschenkov/Predator) - 一个捕食者灵感的macOS时钟屏幕保护程序！[swift_icon] 
+- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.  ![javascript_icon] 
 
 ### Security
 - [LuLu](https://github.com/objective-see/LuLu)   -  LuLu是macOS防火墙应用程序，旨在阻止未经授权（传出）的网络流量.  ！[objective_c_icon] 
@@ -494,10 +497,10 @@
 - [Funky](https://github.com/thecatalinstan/Funky)   - 基于每个应用程序轻松切换Mac上的功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - 只需点击一下按钮，即可在每个应用程序的基础上选择明亮的外观和黑暗的外观！[swift_icon] 
 - [Kap](https://github.com/wulkano/kap)   - 使用Web技术构建的屏幕录像机应用程序  ！[javascript_icon] 
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of the Windows application "Keepass Password Safe"  ![cpp_icon] 
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc) -  Windows应用程序的跨平台社区驱动端口“Keepass Password Safe”！[cpp_icon] 
 - [KeeWeb](https://github.com/keeweb/keeweb)   - 与KeePass兼容的跨平台密码管理器.  ！[javascript_icon] 
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar)   - 用于macOS的简单屏幕和麦克风录音机.  ！[swift_icon] 
-- [Life-Calendar](https://github.com/wvdk/Life-Calendar)   - 生活日历.  ！[swift_icon] 
+- [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar.  ![swift_icon] 
 - [Lunar](https://github.com/alin23/lunar)   - 外部显示器的智能自适应亮度.  ！[swift_icon] 
 - [MacPass](https://github.com/MacPass/MacPass)   - 原生macOS KeePass客户端.  ！[objective_c_icon] 
 - [Maria](https://github.com/shincurry/Maria)   -  aria2下载工具的macOS本机app / widget.  ！[swift_icon] 
@@ -521,7 +524,7 @@
 - [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG)   - 下一代ShadowsocksX.  ！[swift_icon] 
 - [Specht](https://github.com/zhuhaow/Specht)   - 使用Network Extension for macOS构建的基于规则的代理应用程序.  ！[swift_icon] 
 - [SpechtLite](https://github.com/zhuhaow/SpechtLite)   -  macOS的基于规则的代理应用程序.  ！[swift_icon] 
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Tunnelblick is a graphic user interface for OpenVPN on macOS.  ![objective_c_icon] 
+- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick)   -  Tunnelblick是macOS上OpenVPN的图形用户界面.  ！[objective_c_icon] 
 - [clashX](https://github.com/yichengchen/clashX)   - 基于冲突的基于规则的自定义代理与GUI for Mac.  ！[swift_icon] 
 - [rvc-mac](https://github.com/riboseinc/cryptode-mac)   -  Ribose VPN客户端macOS菜单应用程序.  ！[swift_icon] 
 
@@ -531,7 +534,7 @@
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)   - 在Mac上免费观看您最喜爱的开发者大会上最新最好的视频的最佳方式.  ！[swift_icon] 
 - [Datamosh](https://github.com/roecrew/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)   - 用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
-- [Gifted](https://github.com/vdel26/gifted)   - 快速轻松地将任何短视频转换为动画GIF.  ！[objective_c_icon] 
+- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake)   -  HandBrake是一款适用于Linux，Mac和Windows的视频转码器.  ！[c_icon] 
 - [MenuTube](https://github.com/edanchenkov/MenuTube)   - 将YouTube关注到您的macOS菜单栏中！  ！[javascript_icon] 
 - [OpenShot](https://github.com/OpenShot/openshot-qt)   - 易于使用，快速学习，以及令人惊讶的强大视频编辑器.  ！[python_icon] 
@@ -551,7 +554,7 @@
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes)   -  macOS app可自动将桌面壁纸设置为卫星视图开销.  ！[objective_c_icon] 
 - [Sunscreen](https://github.com/davidcelis/Sunscreen)   - 防晒霜是一款有趣，轻巧的应用程序，可根据日出和日落改变您的桌面壁纸.  ！[swift_icon] 
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu)   -  macOS菜单栏应用程序，用于浏览网页上的精美图片并将其设置为桌面图像.  ！[ruby_icon] 
-- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers) - Simple macOS menubar app which fetches latest photos from a subreddit.  ![javascript_icon] 
+- [earth-wallpapers](https://github.com/viatsko/earth-wallpapers)   - 简单的macOS菜单栏应用程序，从subreddit获取最新的照片.  ！[javascript_icon] 
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger)   -  pyDailyChanger是一个每天更改壁纸的程序.  ！[python_icon] 
 
 ### Window Management

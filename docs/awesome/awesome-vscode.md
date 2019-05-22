@@ -676,6 +676,12 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![](https://camo.githubusercontent.com/010b886fb93f49c56e4c7308ba0a5a1aca8a2db7/68747470733a2f2f692e696d67626f782e636f6d2f4455584c467657372e676966)
 
+## [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+
+&gt;一个简单的扩展，使缩进更具可读性.
+
+![indent-rainbow](https://raw.githubusercontent.com/oderwat/vscode-indent-rainbow/master/assets/example.png)
+
 ## [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
 
  &gt;物联网开发的开源生态系统：支持350多个嵌入式主板，20多个开发平台，10个以上的框架.  Arduino和ARM mbed兼容.

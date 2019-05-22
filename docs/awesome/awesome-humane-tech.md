@@ -14,9 +14,9 @@
 
 &gt; **无处不在的人道技术，刺激人类蓬勃发展，人类蓬勃发展.**
 
-This list focuses on (mostly open-source) projects that are directly related to humane tech topics. Please read the [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
+ 此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
- **重要**：下面列出的资源是本清单的贡献者真诚收集的，希望它们对您有用.  但按照 [License](#license)  我们不能保证所引用软件的质量或适用性.  所以在安装之前要正确地告知自己，如果遇到不合适或错误的事情，请在我们的文件中提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  所以我们可以采取适当的行动.  谢谢！
+ **重要**：下面列出的资源是本清单的贡献者真诚收集的，希望它们对您有用.  但按照 [License](#license)  我们不能保证所引用软件的质量或适用性.  所以在安装之前要正确地告知自己，如果遇到不合适或错误的事情，请在我们的文件中提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
 
 ## Community
 
@@ -32,7 +32,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [WikiTruth](https://wikitruth.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/wikitruth/wikitruth) - 维基百科和类似Quora的系统，具有审查垃圾中事实的审查机制.
 - [Programmer's Oath](https://github.com/Widdershin/programmers-oath) - 与希波克拉底誓言相当的程序员道德誓言.
 - [Ethical Design Manifesto](https://2017.ind.ie/ethical-design/) - 为实现道德设计的场所和项目重新绘制了马斯洛夫需求金字塔.
-- [Ethical OS Toolkit](https://ethicalos.org/) - A guide to anticipating the future impact of today's technology.
+- [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术未来影响的指南.
 - [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德规范和职业行为准则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则纳入您的数据工作的全球倡议.
 - [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立道德考虑体验的可选誓言.
@@ -76,7 +76,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 
 ## Tracking
 
-- [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前线基金会的Privacy Badger阻止了广告和隐形跟踪器.
+- [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前线基金会的隐私獾会阻止间谍广告和隐形追踪器.
 - [uBlock Origin](https://github.com/gorhill/uBlock)   - 适用于Chromium和Firefox的高效广谱拦截器.  快速而精益.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - 分析Android应用程序中的隐私问题.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -  Exodus Privacy应用程序，可让您了解应用程序中嵌入了哪些跟踪器.
@@ -116,13 +116,14 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Hosts](https://github.com/StevenBlack/hosts) - 整合几个信誉良好的主机文件，并将它们合并为一个统一的文件.
 - [Blocklists](https://github.com/jmdugan/blocklists) - 人们可能希望阻止主机文件的问题域的共享列表.
 - [Referrer Spam Blacklist](https://matomo.org/blog/2015/05/stopping-referrer-spam/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist) - 社区提供的推荐人垃圾邮件发送者列表.
+- [FilterLists](https://filterlists.com) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/collinbarrett/FilterLists) - 广告，跟踪器，恶意软件和烦恼的过滤器和主机列表目录.
 
 ## Social networks
 
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) - 您自己托管的全球互联微博社区.
 - [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - 隐私，分布式，开源社交网络.
 - [Humnub](http://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humhub/humhub) - 一个用PHP编写的功能丰富且高度灵活的开源社交网络工具包.
-- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - 基于Secure Scuttlebutt（SSB）构建的分散式消息传递和共享应用程序.
+- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pump-io/pump.io) - 一个流服务器，可以完成人们真正想要的社交网络.
 - [Voten](https://voten.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/voten-co/voten) - 一个开源，美丽，高度可定制但致命的简单，温暖的社区.
 - [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jaywink/socialhome) - 具有社交网络功能的联合个人配置文件.
@@ -132,6 +133,7 @@ This list focuses on (mostly open-source) projects that are directly related to 
 - [Granary](https://granary.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/snarfed/granary) - 社交网络翻译，通过在社交网络之间转换数据来打破孤岛.
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 社交网络，带回网络失去的个人创造力.
 - [Osada](https://zotlabs.com/osada/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - 一个社交网络，旨在成为绑定大部分分散网络的粘合剂.
+- [DeleteFB](https://github.com/weskerfoot/DeleteFB) -  Selenium脚本删除所有Facebook墙帖.
 
 ## Freedom
 

@@ -99,6 +99,7 @@ Installers
 
 
 * [Bootkube](https://github.com/kubernetes-incubator/bootkube) -  CoreOS  - 不可知云
+* [Breeze](https://github.com/wise2c-devops/breeze) -  CentOS  -  Cloud Agnostic
 * [Conjure-up](https://github.com/conjure-up/conjure-up) -  Ubuntu  -  Cloud Agnostic
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - 在MAC（Edge Channel）上本地运行Kubernetes和Docker
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - 在Windows PC上运行Kubernetes和Docker（Edge Channel）
@@ -114,7 +115,7 @@ Installers
 * [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) - `systemd`操作系统 - 不可知云
 * [Kubespray](https://github.com/kubernetes-incubator/kubespray) - 不可知的骨头 - 不可知云
 * [Kubicorn](https://github.com/kubicorn/kubicorn) - 不可知的骨头 - 不可知云
-* [Kublr](https://docs.kublr.com/quickstart/kublr-in-a-box/) - 不可知操作系统 -  On-Prem  - 不可知云
+* [Kublr](https://docs.kublr.com/quickstart/) - 不可知操作系统 -  On-Prem  - 不可知云
 * [Linode](https://developers.linode.com/kubernetes/) -  CoreOS  -  Linode
 * [matchbox](https://github.com/coreos/matchbox) -  CoreOS  - 网络启动和提供容器Linux集群（例如etcd3，Kubernetes，更多）.
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
@@ -126,6 +127,7 @@ Installers
 * [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
 * [Typhoon](https://typhoon.psdn.io/) -  Linux容器 - 云不可知
+
 
 
 主要资源
