@@ -1,4 +1,7 @@
 <link rel="stylesheet" href="_static/css/main.css">
+
+## 构建文档的中文镜像
+### 输入英文文档url立即构建镜像
 <div class="s130">
     <div class="form">
         <div class="inner-form">
@@ -15,7 +18,6 @@
             </div>
         </div>
         <span class="error" id="status"></span>
-        <span class="info">也可以直接在浏览器地址栏URL前加icopy.site/</span>
     </div>
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
@@ -25,7 +27,7 @@
         if (!url.startsWith("http")) {
             url = "http://" + url;
         }
-        var targetUrl = "http://"+"icopy.site/" + url;
+        var targetUrl = "https://"+"icopy.site/" + url;
         try {
             var urlAddress = new URL(url);
             window.location = targetUrl;
@@ -35,35 +37,34 @@
     }
 </script>
 
+### 地址栏URL前加icopy.site/
+
+ <img src="/_static/img/barImg.jpg" style="width:100%;border-radius:10px;box-shadow: 0 8px 17px 0 rgba(0,0,0,.2),0 6px 20px 0 rgba(0,0,0,.19)">
+
 [![Build Status](https://travis-ci.org/icopy-site/icopy-site.github.io.svg?branch=develop)](https://travis-ci.org/icopy-site/icopy-site.github.io)
 
 ## 提供的服务
 * *本站提供英文文档的中文镜像服务,镜像网站每周定期更新*
-* *整理汇总各类开发资源*
-
-## 镜像服务指南
-
-!!! tip "地址栏URL前加icopy.site/"
-    
-    !!! example "比如: https://vertx.io"
-        icopy.site/https://vertx.io
-    
-    !!! example "比如: www.typescriptlang.org/docs/home.html"
-        icopy.site/www.typescriptlang.org/docs/home.html
+* *整理汇总各类文档资源*
 
 ## 服务限制
 
-!!! warning "只支持静态文档网站的镜像"
-    网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev
+!!! warning "为防止滥用,只支持静态文档网站的镜像"
+    网站域名或者网页路径中需要包含以下关键词:doc,guide,tutorial,manual,dev关键词
     
-    !!! info "对于不满足以上条件的文档"
-        需要添加白名单,请在github提issue
+!!! warning "对于不满足以上条件的文档可以添加白名单"
+    需要添加白名单,请在github提issue
         
 !!! warning "镜像网站每周更新"
-    内容最多比源站落后7天        
+    内容最多比源站落后7天,网站定时检查,清理缓存超过7天的网页        
 
+## 内容优化
 
-    
+!!! info "替换源站无法访问的静态资源"
+
+!!! info "代码片段不会翻译"
+
+!!! info "翻译内容鼠标滑过会显示英文原文"
 
  **本文档采用 [mkdocs](https://github.com/mkdocs/mkdocs) 构建**
 
