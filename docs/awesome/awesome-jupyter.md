@@ -60,6 +60,7 @@
 - [pythreejs](https://github.com/jovyan/pythreejs) - 利用Jupyter小部件基础架构的Python / ThreeJS桥.
 - [Qgrid](https://github.com/quantopian/qgrid) - 用于在Jupyter笔记本中对DataFrame进行排序，过滤和编辑的交互式网格.
 - [tributary](https://github.com/timkpaine/tributary) - 具有Jupyter支持的Python数据流.
+- [tqdm](https://github.com/tqdm/tqdm) - 用于循环和迭代的快速，可扩展的进度条.
 - [xleaflet](https://github.com/QuantStack/xleaflet) - 用于ipyleaflet的C ++后端.
 - [xwebrtc](https://github.com/QuantStack/xwebrtc) -  ipywebrtc的C ++后端.
 - [xwidgets](https://github.com/QuantStack/xwidgets) -  ipywidgets的C ++后端.

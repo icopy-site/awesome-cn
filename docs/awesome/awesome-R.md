@@ -118,7 +118,10 @@
 * [bigmemory](https://github.com/kaneplusplus/bigmemory)   - 共享内存和内存映射矩阵.  big \ *包提供了额外的工具，包括线性模型（[biglm](http://cran.r-project.org/web/packages/biglm/index.html)）和随机森林（[bigrf](https://github.com/aloysius-lim/bigrf)).
 * [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin) - 在不精确的匹配上将表连接在一起.
 * [tidyverse](https://github.com/hadley/tidyverse) - 从tidyverse轻松安装和加载包.
+* [snakecase](https://github.com/Tazinho/snakecase) - 自动解析并将字符串转换为蛇或骆驼等案例.
 * [vroom](https://github.com/r-lib/vroom) - 快速读取分隔文件
+* [DataExplorer](https://github.com/boxuancui/DataExplorer) - 使用最少的代码进行快速探索性数据分析.
+
 
 ## Graphic Displays
 *用于显示数据的包.*
@@ -171,17 +174,18 @@
 
 * [tinytex](https://github.com/yihui/tinytex) - 轻巧且易于维护的LaTeX发行版
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - 将表导出为LaTeX或HTML.
-* [rapport](http://rapport-package.info/#intro) - An R templating system.
+* [rapport](http://rapport-package.info/#intro) - 一个R模板系统.
 * [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) -  R的动态文档
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - 用于使用R编写LaTeX报告的包.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - 在LaTex和HTML中格式化统计模型.
-* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - 从检查点服务器上的快照安装包.
+* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html)   - 预先计算数据以增强报告模板.  可与knitr结合使用.
 * [officer](https://davidgohel.github.io/officer/index.html) - 用于生成Microsoft Word，Microsoft PowerPoint和HTML报告的R包.
 * [flextable](https://davidgohel.github.io/flextable/index.html)   - 在Microsoft Word，Microsoft PowerPoint和HTML报告中嵌入复杂表格（合并单元格，多级页眉和页脚，条件格式）的R包.  它与[官员]包合作，并与[rmarkdown]报告集成.
 * [bookdown](https://bookdown.org/) - 使用R Markdown编写图书.
 * [ezknitr](https://github.com/daattali/ezknitr) - 使用&#39;knitr&#39;时避免典型的工作目录痛苦
 * [drake](https://github.com/ropensci/drake) - 安 [rOpenSci](https://ropensci.org/) 可重复数据科学工作流程的包装太大了 [knitr](http://yihui.name/knitr/).
+* [R Suite](http://rsuite.io) - 为R设计灵活且可重现的部署工作流程的软件包
 
 ## Web Technologies and Services
 *上网冲浪套餐.*
@@ -242,14 +246,14 @@
 * [DBI](https://github.com/rstats-db/DBI) - 定义R和数据库管理系统之间的通用接口.
 * [elastic](https://github.com/ropensci/elastic) -  Elasticsearch HTTP API的包装器
 * [mongolite](https://github.com/jeroenooms/mongolite) - 用于R的流式Mongo客户端
-* [odbc](https://github.com/r-dbi/odbc) - Connect to ODBC databases (using the DBI interface)
+* [odbc](https://github.com/r-dbi/odbc) - 连接到ODBC数据库（使用DBI接口）
 * [RMariaDB](https://github.com/rstats-db/RMariaDB) -  MariaDB的R接口（旧的RMySQL包的替代品）
 * [RMySQL](http://cran.r-project.org/web/packages/RMySQL/) -  MySQL数据库的R接口.
 * [ROracle](http://cran.r-project.org/web/packages/ROracle/index.html) - 基于OCI的Oracle数据库接口
 * [RPostgres](https://github.com/r-dbi/RPostgres) -  postgres数据库的DBI兼容接口.
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) -  PostgreSQL数据库系统的R接口.
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) -  R的SQLite接口
-* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - 通过JDBC接口提供对数据库的访问.
+* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
 * [rmongodb](https://github.com/mongosoup/rmongodb) -  MongoDB的R驱动程序.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) -  Redis客户端为R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - 直接接口（不是Java）到Apache Cassandra的最基本功能.
@@ -321,7 +325,7 @@ covariates
 models
 * [nnet](http://cran.r-project.org/web/packages/nnet/index.html) -  eed-forward神经网络和多项式对数线性模型
 * [oblique.tree](http://cran.r-project.org/web/packages/oblique.tree/index.html) - 分类数据的倾斜树
-* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) - Pam: prediction analysis for microarrays
+* [pamr](http://cran.r-project.org/web/packages/pamr/index.html) -  Pam：微阵列的预测分析
 * [party](http://cran.r-project.org/web/packages/party/index.html) - 递归派系实验室
 * [partykit](http://cran.r-project.org/web/packages/partykit/index.html) - 递归派系工具包
 * [penalized](http://cran.r-project.org/web/packages/penalized/index.html) -  L1（套索和融合套索）和L2（脊）惩罚估计
@@ -338,7 +342,7 @@ models
 * [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - 纵向随机效应的回归树（面板）
 Data
 * [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - 轻松的套索
-* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - 使用衍生物进行GENetic优化的R版本
+* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - R version of GENetic Optimization Using Derivatives
 * [rgp](http://cran.r-project.org/web/packages/rgp/index.html) -  R遗传编程框架
 * [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - 使用Memetic算法和局部连续优化
 在R中搜索链（MA-LS-Chains）
@@ -471,7 +475,7 @@ Data
 * [promises](https://cran.r-project.org/web/packages/promises/index.html) - 基于Promise的异步编程的抽象
 * [lineprof](https://github.com/hadley/lineprof) - 在R中可视化行分析结果
 * [packrat](https://github.com/rstudio/packrat) - 使您的R项目更加孤立，便携和可重复.
-* [installr](https://github.com/talgalili/installr/) - Functions for installing softwares from within R (for Windows).
+* [installr](https://github.com/talgalili/installr/) - 从R内部安装软件的功能（适用于Windows）.
 * [import](https://github.com/smbache/import/) -  R的导入机制
 * [modules](https://github.com/klmr/modules) -  R的替代（Python风格）模块系统
 * [RStudio Addins](https://github.com/daattali/rstudio-addins) -  RStudio插件列表.
@@ -498,6 +502,7 @@ Data
 * R *的便捷工具
 
 * [git2r](https://github.com/ropensci/git2r) - 使您可以从R编程访问Git存储库.
+* [Conda](https://anaconda.org/r/repo) - 大多数R软件包都可以通过Conda polyglot跨平台依赖关系管理器获得.
 
 ## Other Interpreters
 *替代R引擎.*
@@ -533,7 +538,11 @@ Data
 * [R-users](https://www.r-users.com/) -  R用户（以及希望雇用他们的人）的工作板
 * [R Cookbook](http://www.cookbook-r.com/) - 一个支持问题的面向问题的网站 [R Graphics Cookbook](http://shop.oreilly.com/product/0636920023135.do).
 * [tryR](http://tryr.codeschool.com/) -  R入门的快速课程
-* [RDocumentation](https://www.rdocumentation.org/) - 使用RDocumentation搜索所有CRAN，Bioconductor，GitHub软件包及其存档.
+* [RDocumentation](https://www.rdocumentation.org/) - 使用RDocumentation搜索所有CRAN，Bioconductor，Github软件包及其存档.
+* [rdrr.io](https://rdrr.io/)   - 查找R包文档.  在浏览器中尝试R包.
+* [rnotebook.io](https://rnotebook.io/) - 免费创建在线R Jupyter笔记本电脑.
+
+
 
 ## Books
 
@@ -596,6 +605,15 @@ Data
 * [RStudio Addins](https://github.com/daattali/addinslist) -  RStudio插件列表.
 * [Topic Models](https://github.com/trinker/topicmodels_learning) - 主题模型学习和R相关资源.
 * [Web Technologies](https://github.com/ropensci/webservices) - 有关如何一起使用R和万维网的信息.
+
+## R Ecosystems
+
+R社区和包裹集合（按字母顺序排列）：
+
+ * [rOpenGov](http://ropengov.github.io/) 开放政府数据，计算社会科学，数字人文科学
+ * [rOpenHealth](https://github.com/rOpenHealth) 公共卫生数据
+ * [rOpenSci](https://ropensci.org) 开放科学
+
 
 ## Other Awesome Lists
 

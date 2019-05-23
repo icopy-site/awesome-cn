@@ -400,6 +400,7 @@
 * [IBM ICU](http://site.icu-project.org/)   - 一组提供Unicode和全球化支持的C / C ++和Java库.  [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/)   - 不同字符编码之间的编码转换库.  [GPL]
 * [utf8.h](https://github.com/sheredom/utf8.h)   -  C和C ++的单头utf8字符串函数.  [授予许可]
+* [utf8proc](https://github.com/JuliaStrings/utf8proc)   - 用于处理UTF-8 Unicode数据的干净C库.  [MIT]
 
 ## Inter-process communication
 

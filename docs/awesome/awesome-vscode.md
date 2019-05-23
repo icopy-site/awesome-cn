@@ -30,7 +30,7 @@
 - [Befunge](https://marketplace.visualstudio.com/items?itemName=kagof.befunge)
 - [Blink](https://marketplace.visualstudio.com/items?itemName=melmass.blink)
 - [Bolt](https://marketplace.visualstudio.com/items?itemName=smkamranqadri.vscode-bolt-language)
-- [Bond](https://marketplace.visualstudio.com/items?itemName=vicey.vscode-bond)
+- [Bond](https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
@@ -605,7 +605,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![City Lights Icons](https://raw.githubusercontent.com/yummygum/city-lights-icons-vsc/master/city-lights-icon-preview.gif)
 
-### [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
+### [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
 ![VSCode Icons](https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/images/screenshot.gif)
 
@@ -915,7 +915,7 @@ Monokai的主题灵感来自于 [Visual Studio Code](https://vscodethemes.com/e/
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
- 一个VS Code主题为夜猫子们.  在白天工作也很好，但这个主题适合我们这些喜欢编码到深夜的人.  颜色选择考虑了色盲和光线不足的人可以获得的颜色.  决定也是基于阅读理解和最佳炫目炫目的有意义的对比.  ✨
+A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with color blindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width=600 />
@@ -969,6 +969,14 @@ Visual Studio Code的黑暗语法/工作台主题 - 针对SCSS，HTML，JS，TS�
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/slime.png" width="600" />
 </a>
 
+### [Niketa Theme by Dejan Toteff](https://vscodethemes.com/e/selfrefactor.niketa-theme)
+
+ 按照背景亮度分为4组的18个灯光主题.
+
+ <a href="https://vscodethemes.com/e/mischah.relaxed-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/niketa-theme.png" width="600" />
+</a>
+
 ## People to Follow
 
 VS代码社区中各种人员的Twitter帐户列表
@@ -1006,13 +1014,13 @@ VS代码社区中各种人员的Twitter帐户列表
 ## Tools
 
 - [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) -  Visual Studio Live Share使您可以实时协作编辑和调试，无论您正在使用哪种编程语言或正在构建的应用程序类型.
-- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
+- [Online TextMate Themes Editor](https://tmtheme-editor.herokuapp.com/) - 由于VS Code支持TextMate主题，您可以在此在线编辑器中创建它们，然后使用创建新的VS Code包 [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) 工具
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
 - [Open in Code](https://github.com/sozercan/OpenInCode) -  macOS Finder工具栏应用程序，用于在Visual Studio代码中打开当前文件夹
 
 ![macOS Finder toolbar app to open current folder in Visual Studio Code animation](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
-- [Themer](https://themer.mjswensen.com) - 轻松为VS Code创建自己的主题（以及与其他工具匹配的主题）.
+- [Themer](https://themer.dev) - 轻松为VS Code创建自己的主题（以及与其他工具匹配的主题）.
 - [Azure Tools for Visual Studio Code](https://github.com/bradygaster-zz/azure-tools-vscode) -  Visual Studio Code的此扩展为Azure开发人员提供了一些方便的命令，用于直接在编辑器中创建或访问资源.
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)

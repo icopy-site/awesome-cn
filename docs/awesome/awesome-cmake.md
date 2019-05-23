@@ -44,7 +44,7 @@
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
 * [Lecture](https://www.youtube.com/watch?v=jt3meXdP-QI) -  CMake简介 - 作者：Florent Castelli，C ++ Sweden 2018.
-* [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - 一些漂亮和准确的CMake技巧.
+* [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - Some nice and accurate CMake tips.
 * [Article](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/) - 图书馆开发人员的现代CMake.
 * [Article](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1) - 有效的现代CMake：Manuel Binna对大多数良好实践的总结.
 * [Book](https://crascit.com/professional-cmake/) - 专业CMake：实用指南（付费）.
@@ -84,7 +84,7 @@
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) - 额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD3子句]
 * [CMakeCM](https://github.com/vector-of-bool/CMakeCM)   -  CMake社区模块.  ```[NO LICENSE]```
-* [Metabench](https://github.com/ldionne/metabench) - CMake module for compile-time microbenchmarks. [```[BOOST]```][BOOST]
+* [Metabench](https://github.com/ldionne/metabench)   - 用于编译时微基准测试的CMake模块.  [```[BOOST]```] [BOOST]
 
 ## Utility Scripts
 
@@ -113,6 +113,8 @@
 * [leatherman](https://github.com/puppetlabs/leatherman)   -  C ++和CMake实用程序库的集合.  [```[APACHE2]```] [APACHE2]
 * [cmake-get](https://github.com/pfultz2/cmake-get)   - 在配置或脚本模式下获取依赖项.  ```[NO LICENSE]```
 * [ixm](https://github.com/slurps-mad-rips/ixm)   - 在尝试编写Modern Flexible CMake时，让CMake减少痛苦.  [```[MIT]```] [MIT]
+* [CMakeCooking](https://github.com/hakuch/CMakeCooking) - 具有外部依赖性的CMake项目的灵活开发环境
+ .  [```[APACHE2]```] [APACHE2]
 
 ## Toolchains
 

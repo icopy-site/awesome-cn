@@ -903,6 +903,7 @@ be
 * [BentoML](https://github.com/bentoml/bentoml)：用于打包和部署机器学习模型的工具包，用于生产中的服务
 * [MiraiML](https://github.com/arthurpaulino/miraiml)：用于连续和自动机器学习的异步引擎，专为实时使用而构建.
 * [numpy-ML](https://github.com/ddbourgin/numpy-ml)：用numpy编写的ML模型的参考实现
+* [creme](https://github.com/creme-ml/creme)：在线机器学习的框架.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization

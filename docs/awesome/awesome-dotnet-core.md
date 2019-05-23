@@ -410,6 +410,7 @@
 * [AgileMapper](https://github.com/agileobjects/AgileMapper) -  AgileMapper是一个零配置，高度可配置的对象 - 对象映射器，具有可查看的执行计划.
 * [AspNetCore Extension Library](https://github.com/sgjsakura/AspNetCore) -  ASP.NET核心扩展库.
 * [AutoMapper](https://github.com/AutoMapper/AutoMapper) -  .NET中基于约定的对象 - 对象映射器.
+* [Baget](https://github.com/loic-sharma/BaGet) - 轻量级NuGet服务器.
 * [Bleak](https://github.com/Akaion/Bleak) -  Windows本机DLL注入库.
 * [Bullseye](https://github.com/adamralph/bullseye/) - 用于描述和运行目标及其依赖项的.NET包.
 * [Castle.Core](https://github.com/castleproject/Core) -  Castle Core，包括Castle DynamicProxy，Logging Services和DictionaryAdapter [http://www.castleproject.org](http://www.castleproject.org).

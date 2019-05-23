@@ -12,7 +12,7 @@ _awesome_ Common Lisp库的精选列表.
 对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
- 另有说明.  标有星号的那些：如此广泛而且
+stated otherwise. The ones marked with a :star: are so widespread and
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
  这样.  用a表示的库是我们喜欢和想要的库
@@ -65,7 +65,7 @@ Audio
 构建系统
 =============
 
-*：明星： [ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14].
+*：明星： [ASDF](https://common-lisp.net/project/asdf/)   - 另一个系统定义设施;  Common Lisp的构建系统.  [外籍] [14].
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)   -  ASDF的扩展.  [外籍] [14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)   - 可视化ASDF系统的库依赖关系，函数的调用图和类继承的工具.  [LLGPL] [8].
 
@@ -75,16 +75,17 @@ Audio
 C，C ++
 ------
 
-* [cmacro](https://github.com/eudoxia0/cmacro) - Lisp macros for C. [MIT][200].
+* [cmacro](https://github.com/eudoxia0/cmacro) -  C. [MIT] [200]的Lisp宏.
 * [C-mera](https://github.com/kiselgra/c-mera)   - 源代码到源代码编译器，利用Lisp的宏系统进行类C语言的元编程.  [GPL3] [2].
 * [lispc](https://github.com/eratosthenesia/lispc) -  C. [MIT] [200]的强大“lispsy”宏语言.
+* [ecrepl](https://gitlab.common-lisp.net/ecl/ecrepl)   -  C语言的交互式REPL.  未指定许可证.
 
 
 Crypto
 ======
 
 *：明星： [Ironclad](https://github.com/sharplispers/ironclad)   -  Common Lisp的加密函数库.  不被认为是安全的，但对消息摘要功能仍然有用.  [外籍] [14].
-* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [Artistic License 2.0][51].
+* [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)   - 收集常见的加密快捷方式.  [艺术许可2.0] [51].
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)   -  SSH客户端库.  [外籍] [14].
 
 Cryptocurrencies
@@ -192,7 +193,7 @@ Tools
   libmpg123和libout123的库分别为您提供快速
   并且易于使用mp3解码和跨平台音频
    输出.  [艺术许可2.0] [47].
-* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) - 使用这个小框架，您将能够制作简单的2D游戏：绘制基本的几何形状，图像和文本，播放声音，听取鼠标和键盘输入.
+* [trivial-gamekit](https://borodust.org/projects/trivial-gamekit/getting-started/) – with this small framework you would be able to make simple 2D games: draw basic geometric forms, images and text, play sounds and listen to mouse and keyboard input.
 * [cl-gamepad](https://shirakumo.github.io/cl-gamepad)   - 访问Windows，Mac OS和Linux上的游戏手柄和操纵杆.  [艺术许可2.0] [51].
 
 Graphics
@@ -208,7 +209,7 @@ Graphics
 * [cl-opengl](https://github.com/3b/cl-opengl)   -  CFFI绑定到OpenGL，GLU和GLUT API.  [3条款BSD] [15].
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)   - 使用C2FFI绑定SDL2.  [外籍] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)   - 用于生成SVG文件的基本库.  [外籍] [14].
-* [CLinch](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
+* [CLinch](https://github.com/BradWBeer/CLinch)   - 用于OpenGL的Common Lisp 2D / 3D图形引擎.  [FreeBSD的] [39].
 * [donuts](https://github.com/tkych/donuts)   - 用于Common Lisp的图形绘制DSL.  [外籍] [14].
 * [dufy](https://github.com/privet-kitty/dufy)   - 在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)   -  SDL的一组绑定.  [外籍] [14].
@@ -274,7 +275,7 @@ YAML
 ====
 
 * [cl-yacclyaml](https://github.com/mabragor/cl-yaclyaml)   - 一个纯粹的lisp YAML处理器（加载器，但还没有转储器）.  [GPL3] [2].
-* [cl-yaml](https://github.com/eudoxia0/cl-yaml.git)   - 在libyaml之上构建的YAML解析器和发射器.  [MIT] [200].
+* [cl-yaml](https://github.com/eudoxia0/cl-yaml.git) - a YAML parser and emitter built on top of libyaml. [MIT][200].
 
 
 语言扩展
@@ -374,7 +375,7 @@ Beginner
 
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) - 小型Common Lisp教程，涵盖了必需品.
  * [Practical Common Lisp] [206]  -  Common Lisp的一个很好的介绍性文本，附带实例.  （更好地阅读 [a Firefox add-on](https://addons.mozilla.org/de/firefox/addon/beautify-practical-common-lisp/?src=search))
-* [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - 对语言的一个很好的介绍.
+* [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - A nice introduction into the language.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm)   - 一套很好的入门教程;  包括交互式示例.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - 一本适合初学者的好书，有一些编程背景.
 * [Common Lisp Koans] [201]  - 该项目通过许多Common Lisp语言功能逐步指导学习者.
@@ -387,12 +388,12 @@ Intermediate
 * [The Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [Common Lisp tips](http://lisptips.com/) - 一个博客，提供有用的提示和技巧.
 * [CommonQt tutorial](https://cheryllium.wordpress.com/2014/02/22/commonqt-tutorial-1/) - 对CommonQt的一个很好的介绍.
-* [A tutorial for creating and publishing open-source Common Lisp software](https://arxiv.org/abs/1209.5626) - A handy tutorial for using Quicklisp and a bunch of other tools to create and publish a project in Common Lisp.
+* [A tutorial for creating and publishing open-source Common Lisp software](https://arxiv.org/abs/1209.5626) - 使用Quicklisp和一系列其他工具在Common Lisp中创建和发布项目的简便教程.
 
 Advanced
 --------
 
-* [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
+ * [Let Over Lambda] [156]  - 一本关于高级宏观技术的书.  前六章可在​​线获取.
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - 保罗格雷厄姆关于Lisp宏（和其他有趣的东西）的惊人书籍.
 
 Reference
@@ -401,7 +402,7 @@ Reference
 * [Common Lisp Quick Reference](http://clqr.boundp.org/index.html)   -  ANSI CL规格的蒸馏口袋版本.  可以PDF格式下载.
 * [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm)   -  Common Lisp HyperSpec;  ANSI CL标准，以超文本形式.
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - 元对象协议艺术第5章和第6章的现代公共领域在线版本
-* [Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) -  Common Lisp规范的最终草案，格式良好的PDF.
+* [Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) - The final draft of the Common Lisp specifications, in a well formatted PDF.
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) -  ANSI规范之前的Common Lisp的原始标准.
 * [Minispec](https://lamberta.github.io/minispec/)   - 一个更友好但不太完整的CLHS版本.  还包含一些常用CL库（如Alexandria）的文档.
 * [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) -  CLHS的简化版本.
@@ -488,7 +489,7 @@ HTTP客户端
 ------------
 *  [Dexador](https://github.com/fukamachi/dexador) - 旨在实现的HTTP客户端 [replacing Drakma](http://quickdocs.org/dexador/) ，  [带] [200].
 * [Carrier](https://github.com/orthecreedence/carrier)   - 基于cl-async和fast-http构建的轻量级异步HTTP客户端.  [MIT] [200].
-* [fast-http](https://github.com/fukamachi/fast-http) - 快速HTTP
+* [fast-http](https://github.com/fukamachi/fast-http) - A fast HTTP
  Common Lisp的请求/响应解析器.  [MIT] [200].
 
 
@@ -691,7 +692,7 @@ Others
 ===========================
 
 *：明星： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)   - 可移植的共享状态并发.  [外籍] [14].
-*：明星： [lparallel](https://github.com/lmj/lparallel)   - 用于并行编程的库.  [3条款BSD] [15].
+*：明星： [lparallel](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [lfarm](https://github.com/lmj/lfarm)   - 跨机器分配工作（在lparallel和usocket之上）.  [BSD_3Clause] [15]
 * [chanl](https://github.com/zkat/chanl)   - 便携式，基于通道的并发性.  [Expat] [14]，部分在[3条款BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)   - 用于通用非阻塞编程的库.  [外籍] [14].
@@ -700,6 +701,7 @@ Others
 * [trivial-monitored-thread](https://gitlab.com/ediethelm/trivial-monitored-thread) -
   一个Common Lisp库提供了一种产生线程和存在的方法
    当他们中的任何一个崩溃并死亡时通知  [MIT] [200].
+* [cl-gearman](https://github.com/taksatou/cl-gearman) - 一个图书馆 [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
 
 
 事件处理
@@ -757,7 +759,7 @@ Scripting
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) - 允许数百个Lisp
 应用程序可以立即实现，同时允许
-several of them to run concurrently.  WCL accomplishes this by
+ 其中几个同时运行.  WCL完成了这个
 提供Common Lisp作为可以链接的Unix共享库
  Lisp和C代码可以生成高效的应用程序.  例如，
 可执行的规范“Hello World！”的Lisp版本
@@ -850,7 +852,7 @@ Tools
 单元测试
 ============
 
-*：明星： [FiveAM](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Rove](https://github.com/fukamachi/rove)   -  Rove是Common Lisp应用程序的单元测试框架.  它的目的是成为继承者 [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
@@ -858,7 +860,7 @@ Tools
    条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
-  一个简短的函数被调用，多少次和多少次
+  a stubbed function was called, how many times and with which
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)   - 基于QuickCheck的随机属性测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮助者
@@ -1000,7 +1002,7 @@ Other
 * [chipz](https://github.com/froydnj/chipz)   - 解压缩库.  [3条款BSD] [15].
 * [cl-cuda](https://github.com/takagi/cl-cuda)   - 在Common Lisp程序中使用NVIDIA CUDA的库.  [LLGPL] [8].
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.
-*：明星： [esrap](https://github.com/nikodemus/esrap)   -  Packrat解析器.  [外籍] [14].
+*：明星： [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].

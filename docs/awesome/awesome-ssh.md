@@ -124,7 +124,6 @@
 
 * C / C ++
   * [libssh](https://www.libssh.org) -  * SSH *库.
-  * [substack/libssh](https://github.com/substack/libssh) [![stars](https://img.shields.io/github/stars/substack/libssh.svg?style=social&label=stars)]（https://github.com/substack/libssh） - 在客户端和服务器端实现SSHv2和SSHv1协议的多平台C库.
 * Golang
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - 内置* SSH *客户端和服务器库.
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)]（https://github.com/pkg/sftp） -  * SFTP *支持go.crypto / ssh包.
@@ -147,6 +146,7 @@
 * [Best practices](https://blog.0xbadc0de.be/archives/300)
 * [Granting Temporary Access to Your Servers (Using Signed *SSH* Keys)](http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/)
 * [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
+* [Gist: SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - 用于编写令人敬畏的ssh配置文件的食谱集合.
 
 ### Security
 
