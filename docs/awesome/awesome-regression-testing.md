@@ -67,7 +67,7 @@
 - [Loki](https://github.com/oblador/loki) - 在docker等人中使用Chrome进行故事书的视觉回归测试.
 - [Zombie.js](http://zombie.js.org/) - 使用Node.js进行疯狂快速的无头全栈测试.
 - [CodeceptJS](https://github.com/codeception/codeceptjs/) -  NodeJS的现代时代验收测试框架.
-- [FuncUnit](https://github.com/bitovi/funcunit) - A functional test suite based on jQuery
+- [FuncUnit](https://github.com/bitovi/funcunit) - 基于jQuery的功能测试套件
 - [Nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于Node.js和使用Webdriver协议的自动化测试和持续集成框架.
 - [Protractor](https://github.com/angular/protractor) -  Angular应用程序的E2E测试框架.
 - [jest-puppeteer-react](https://github.com/Hapag-Lloyd/jest-puppeteer-react) - 使用Jest和puppeteer对React组件进行可视化回归测试
@@ -76,6 +76,7 @@
 ## Online services
 
 - [BrowserStack](https://www.browserstack.com)   - 免费开源.  支持 [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
+- [LambdaTest](https://www.lambdatest.com/) - 在2000多个Real浏览器和操作系统在线执行自动和实时交互式浏览器测试.
 - [screener.io](https://screener.io) - 对于React，看起来是开源的.
 - [applitools](https://applitools.com) - 云基视觉测试.
 - [percy.io](https://percy.io) - 针对网络应用的持续视觉评论.
@@ -113,7 +114,7 @@
 
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - 截屏视频：幽灵的基本介绍，截图比较工具.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - 如何设置shoov并完成第一次测试.
-- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) -  Jon Bellah谈论如何在wordpress开发过程中使用PhantomCSS.
+- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - 使用代码演示和最佳实践的截屏视频.
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - 有关如何使用Screenster创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - 演示看起来相似的Chrome扩展程序，它是如何工作的以及它的构建方式和原因.

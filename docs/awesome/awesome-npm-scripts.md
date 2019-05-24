@@ -7,7 +7,7 @@
 
 你可能还喜欢 [awesome-npm](https://github.com/sindresorhus/awesome-npm).
 
- **注意：我目前忙于积极扩展此列表;  因此，我决定将其作为一个 [OPEN Open Source Project](http://openopensource.org) .  为获得重要和有价值贡献的个人提供项目承诺，以便他们认为合适.**
+ **注意：我目前忙于积极扩展此列表;  因此，我决定将其作为一个 [OPEN Open Source Project](http://openopensource.github.io/) .  为获得重要和有价值贡献的个人提供项目承诺，以便他们认为合适.**
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->

@@ -28,7 +28,7 @@
 - [akasha](http://akasha.world/) - 下一代社交媒体网络，由以太坊提供支持并嵌入到IPFS中.
 - [Alexandria](http://www.alexandria.io/learn/#integrated-technologies) - 分散内容发布/货币化平台.
 - [Arbore](http://arbo.re) - 构建在IPFS之上的朋友对朋友的文件共享应用程序.
-- [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) - Autonomica is a Keybase-like Dapp for creating an identity and proving this identity via published social media and web proofs.
+- [Autonomica "IPFS Social Proof"](https://github.com/IBM/ipfs-social-proof) -  Autonomica是一个类似Keybase的Dapp，用于创建身份并通过发布的社交媒体和网络证明证明此身份.
 - [beets](https://github.com/beetbox/beets) -  Beets有一个插件，可以使用IPFS轻松共享音乐库
 - [Blokaly](https://github.com/blokaly) - 基于IPFS的徽章发布，共享和显示平台.
 - [Boards](https://ipfs.io/ipns/boards.ydns.eu) - 在浏览器中运行的分布式社交平台. [Source](https://github.com/fazo96/ipfs-boards)
@@ -94,6 +94,7 @@
 
 ## Articles
 
+- 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 

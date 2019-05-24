@@ -20,13 +20,14 @@
 ## Articles
 
 - [8 Tips for Great Code Reviews](https://kellysutton.com/2018/10/08/8-tips-for-great-code-reviews.html) 一些更好的代码审查过程的基本规则.
+- [A Zen Manifesto for Effective Code Reviews](https://medium.freecodecamp.org/a-zen-manifesto-for-effective-code-reviews-e30b5c95204a) 提交者和审阅者的实用技巧，以进行有效的代码审查.
 - [Brian Guthrie's Feature Branching Rant](https://twitter.com/bguthrie/status/937750796334174209) 关于“公司内部”代码审查实践，GitHub的开源第一模型的优缺点的Twitter主题.
 - [Building an Inclusive Code Review Culture](https://blog.plaid.com/building-an-inclusive-code-review-culture/) 有助于确保协作和学习文化的指南
 - [Code Review Etiquette](https://css-tricks.com/code-review-etiquette/) 一些提示有助于积极参与代码审查.
 - [Code Reviews: Just Do It](https://blog.codinghorror.com/code-reviews-just-do-it/) 2006年提倡软件同行评审的精神帖子.
 - [Code Review Review is the Manager's Job](https://hecate.co/blog/code-review-review-is-the-managers-job) 为什么管理层应确保完成代码审查并完成.
 - [Designing Awesome Code Reviews](https://medium.com/unpacking-trunk-club/designing-awesome-code-reviews-5a0d9cd867e3) 积极设计代码审查流程的原则.
-- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) 关于如何有效执行代码审查的另一个2006经典.
+- [Effective Code Reviews Without the Pain](https://www.developer.com/tech/article.php/3579756/Effective-Code-Reviews-Without-the-Pain.htm) 关于如何有效执行代码审查的另一个2006年经典.
 - [How I review code](https://engineering.tumblr.com/post/170040992289/how-i-review-code) 关于如何最好地审查Tumblr工程师拉动请求的更多个人建议.
 - [How to Do Code Reviews Like a Human](https://mtlynch.io/human-code-reviews-1/) 将代码审查视为技术流程而非社交流程的技术.
 - [Pull Requests: How to Get and Give Good Feedback](https://kickstarter.engineering/pull-requests-how-to-get-and-give-good-feedback-f573469f0c44) 为代码审核流程，审核人员和审核人员提供建议.
@@ -57,6 +58,7 @@
 - [Crucible](https://www.atlassian.com/software/crucible) Atlassian的内部部署代码审查工具.
 - [Gerrit](https://www.gerritcodereview.com/) 源自Google的开源git代码审核工具.
 - [GitHub](https://github.com) Git托管和“拉动请求”的先驱.
+- [GitRise](https://www.gitrise.com/) Slack Reminders for GitHub pull request
 - [LGTM](https://lgtm.com) GitHub和Bitbucket的自动Git代码审查提取了查找安全漏洞和代码质量问题的请求.
 - [Phabricator](https://www.phacility.com/phabricator/) 源自Facebook的开源git / mercurial / svn代码审查工具.
 - [PullRequest](https://www.pullrequest.com/) 代码审查作为GitHub拉取请求的服务.
@@ -65,6 +67,7 @@
 - [Review Board](https://www.reviewboard.org/) SCM /平台中立的开源审阅工具.
 - [Rubberduck](https://www.rubberduck.io) 浏览器扩展，为GitHub拉取请求添加代码感知导航.
 - [Sider](https://sider.review/) GitHub的自动代码审查服务.
+- [Softagram](https://softagram.com/) 拉取请求，合并请求（GitLab）和补丁集（Gerrit）的自动代码更改可视化（和依赖性分析）.
 - [Upsource](https://www.jetbrains.com/upsource/) JetBrain的内部部署git / mercurial / perforce / svn代码审查工具.
 
 ## Contribute

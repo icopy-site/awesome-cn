@@ -4,26 +4,10 @@
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 	</div>
 	<br>
-	<p>
-		<a href="https://www.patreon.com/sindresorhus">我的开源工作得到了社区的支持</a>
-	</p>
-	<p>
-		<sup>特别感谢：</sup>
-		<br>
-		<br>
-		<a href="https://github.com/wtgtybhertgeghgtwtg">
-			<img src="https://cdn.jsdelivr.net/gh/sindresorhus/stuff@daa49fabede538ea8a533d75e7e55f4c81e3a972/sponsors/wtgtybhertgeghgtwtg-logo-light.svg" width="260"  alt="wtgtybhertgeghgtwtg">
-		</a>
-		<br>
-		<br>
-		<a href="https://github.com/botpress/botpress">
-			<img src="https://sindresorhus.com/assets/thanks/botpress-logo.svg" width="240" alt="Botpress">
-		</a>
-	</p>
 	<br>
 	<br>
 	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge.svg" alt="Awesome">
+		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
 	<p>
 		 <sub>只需输入<a href="https://node.cool"><code>node.cool</code></a>即可.</sub>  <sub>查看我的<a href="https://blog.sindresorhus.com">博客</a>并在<a href="https://twitter.com/sindresorhus">Twitter上</a>关注我.</sub>
@@ -141,7 +125,7 @@
 
 ### HTTP
 
-- [got](https://github.com/sindresorhus/got) - 内置`http`模块的更好接口.
+- [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
 - [gh-got](https://github.com/sindresorhus/gh-got) - `got`与GitHub API交互的便捷包装器.
 - [axios](https://github.com/mzabriskie/axios) - 基于Promise的HTTP客户端（也适用于浏览器）.
 - [request](https://github.com/request/request) - 简化的HTTP请求客户端.
@@ -176,7 +160,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -339,7 +323,7 @@
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - 流
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
-- 回调
+- Callbacks
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
 	- [async](https://github.com/caolan/async) - 提供直接，强大的功能，以处理异步性.
 - 频道
@@ -395,8 +379,8 @@
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略ansi转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将短划线/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -  Escape RegExp特殊字符.
-- [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+- [execall](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 从字符串中的每一行中删除前导空格.
@@ -470,7 +454,7 @@
 - [JSONStream](https://github.com/dominictarr/JSONStream) - 流式JSON.parse和stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
-- [PEG.js](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
+- [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
 - [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
@@ -508,7 +492,7 @@
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获得可用的端口.
 - [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共IP地址.
-- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
+- [getmac](https://github.com/bevry/getmac) - 获取计算机MAC地址.
 - [DHCP](https://github.com/infusion/node-dhcp) -  DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯JS中的Netcat端口.
 
@@ -525,7 +509,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -  Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -  MongoDB驱动程序.
 -  ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize)   - 多方言ORM.  支持PostgreSQL，SQLite，MySQL.
+	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - 以Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
@@ -729,7 +713,7 @@
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
 - [ssh2](https://github.com/mscdex/ssh2) -  SSH2客户端和服务器模块.
 - [adit](https://github.com/markelog/adit) -  SSH隧道变得简单.
-- [import-lazy](https://github.com/sindresorhus/import-lazy) - Import a module lazily.
+- [import-lazy](https://github.com/sindresorhus/import-lazy) - 懒洋洋地导入模块.
 - [file-type](https://github.com/sindresorhus/file-type) - 检测缓冲区的文件类型.
 - [Bottleneck](https://github.com/SGrondin/bottleneck) - 速率限制器，使节流变得容易.
 - [ow](https://github.com/sindresorhus/ow) - 人类的函数参数验证.
@@ -743,7 +727,7 @@
 - [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的网络爬虫.
 - [jsdom](https://github.com/tmpvar/jsdom) -  HTML和DOM的JavaScript实现.
 - [hypernova](https://github.com/airbnb/hypernova) - 服务器端呈现您的JavaScript视图.

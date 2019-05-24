@@ -3,14 +3,6 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
-	<p>
-		<sup>我的开源工作得到了社区的支持</sup>
-		<br>
-		<a href="https://www.patreon.com/sindresorhus">
-			<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-		</a>
-	</p>
-	<br>
 	<br>
 </div>
 
@@ -95,7 +87,7 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - 存在不可能的声音项目.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - 对于npm包.
 	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包裹经理.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - 测试跑步者.
@@ -468,7 +460,7 @@
 
 ## Work
 
-- [Slack](https://github.com/matiassingers/awesome-slack#readme) - Team collaboration.
+- [Slack](https://github.com/matiassingers/awesome-slack#readme) - 团队协作.
 	- [Communities](https://github.com/filipelinhares/awesome-slack#readme)
 - [Remote Jobs](https://github.com/lukasz-madon/awesome-remote-job#readme)
 - [Productivity](https://github.com/jyguyomarch/awesome-productivity#readme)

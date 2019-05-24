@@ -35,7 +35,7 @@
 ### GUI
 * [Adminer](https://www.adminer.org/) - 用PHP编写的全功能数据库管理工具.
 * [OmniDB](https://omnidb.org/en/) - 开源协作环境
-For Database Management
+用于数据库管理
 * [DataGrip](https://www.jetbrains.com/datagrip/) - 具有高级工具集和良好的跨平台经验的IDE（商业软件）.
 * [Datazenit](https://datazenit.com/) - 基于Web的PostgreSQL GUI（商业软件）.
 * [DBeaver](https://dbeaver.io/) - 通用数据库管理器，对PostgreSQL提供出色的支持.
@@ -70,8 +70,6 @@ For Database Management
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - 基于PostgreSQL的可扩展开源数据库集群.
-* [Citus](https://github.com/citusdata/citus) - 可扩展的PostgreSQL集群，用于实时工作负载.
-* [PipelineDB](https://www.pipelinedb.com/) -  PostgreSQL扩展，在流上连续运行SQL查询，逐步将结果存储在表中.
 * [AgensGraph](https://bitnine.net/) - 基于PostgreSQL的强大的图形数据库.
 * [Greenplum Database](https://github.com/greenplum-db/gpdb) - 用于大数据量的PostgreSQL的开源分支.
 
@@ -87,6 +85,7 @@ For Database Management
 * [opm.io](http://opm.io)   -  Open PostgreSQL Monitoring是一个免费软件套件，旨在帮助您管理PostgreSQL服务器.  它可以收集统计信息，显示仪表板并在出现问题时发送警告.
 
 ### Extensions
+* [Citus](https://github.com/citusdata/citus) - 可扩展的PostgreSQL集群，用于实时工作负载.
 * [cstore\_fdw](https://github.com/citusdata/cstore_fdw) - 使用PostgreSQL进行分析的列式存储.
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) -  Cyan Audit以逐列为基础提供所有DML活动的数据库内日志记录.
 * [pglogical](https://github.com/2ndQuadrant/pglogical) - 提供逻辑流复制的扩展.
@@ -95,6 +94,7 @@ For Database Management
 * [pg\_shard](https://github.com/citusdata/pg_shard) - 扩展以扩展实时读写.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - 扩展以将CPU密集型工作负载卸载到GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL扩展网络 - 许多开源PostgreSQL扩展的中心分发点
+* [PipelineDB](https://www.pipelinedb.com/) -  PostgreSQL扩展，在流上连续运行SQL查询，逐步将结果存储在表中.
 * [plpgsql\_check](https://github.com/okbob/plpgsql_check) - 允许检查plpgsql源代码的扩展.
 * [PostGIS](http://postgis.net/) -  PostgreSQL的空间和地理对象.
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) -  Postgres绑定作为加密库Themis的扩展，在PgSQL方面提供各种安全服务.
@@ -125,11 +125,13 @@ For Database Management
 * [pgbadger](https://github.com/darold/pgbadger) - 快速PostgreSQL日志分析器.
 * [PgBouncer](http://pgbouncer.github.io) -  PostgreSQL的轻量级连接池.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - 为各种统计信息，管理任务，重新加载服务，查看日志文件以及取消或终止数据库后端提供方便的界面.
-* [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 从MySQL到PostgreSQL的实时副本，可选类型覆盖迁移和迁移功能.
+* [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - 将PostgreSQL中的数据导出为不同的数据格式.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - 以简单的方式将CSV和JSON导入PostgreSQL.
 * [PGInsight](http://pginsight.io/) -  CLI工具，可以轻松深入挖掘PostgreSQL数据库.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程读取和写入数据.
+* [pgMustard](https://www.pgmustard.com/) - 现代用户界面
+对于`EXPLAIN ANALYSE`，它还提供了性能提示（商业软件）.
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池，复制，负载平衡和限制超连接的中间件.
 * [pgsync](https://github.com/ankane/pgsync) - 将PostgreSQL数据同步到本地计算机的工具.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - 与PostgreSQL扩展网络交互的命令行工具
@@ -156,7 +158,7 @@ For Database Management
 *哈斯克尔： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net / .Net核心： [Npgsql](https://github.com/npgsql/npgsql)
-*节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise)
+*节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi)
 * Perl： [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
 * PHP： [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python： [psycopg2](https://pypi.org/project/psycopg2/)
@@ -169,7 +171,7 @@ For Database Management
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -  PostgreSQL的Amazon Relational Database Service（RDS）
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)   - 用于PostgreSQL的Azure数据库提供完全托管的企业级社区PostgreSQL数据库即服务.  它提供内置HA，弹性扩展和Azure生态系统的本机集成.
 * [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
-* [Compose](https://www.compose.com/databases/postgresql)   -  PostgreSQL作为AWS，Google Cloud Platform和IBM Cloud中的服务;  1GB存储的计划范围为每月17.5美元，超过12美元/ GB的规模.  免费试用30天.
+* [Compose](https://www.compose.com/databases/postgresql) - PostgreSQL as a service in AWS, Google Cloud Platform, and IBM Cloud; plans range from $17.5/month for 1GB storage and scale at $12/GB beyond that. Free trial for 30 days available.
 * [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个可投入生产的云PostgreSQL服务器，每月20美元，包括备份，监控，补丁和全天候技术支持.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.
@@ -190,7 +192,7 @@ For Database Management
 * [PostgreSQL Exercises](https://pgexercises.com/) - 通过练习轻松学习PostgreSQL的网站.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - 关于PostgreSQL的非常广泛的教程集合
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - 样本postgres模式的集合
-* [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) -  PostgreSQL中使用的最常用命令的集合
+* [pg-utils](https://github.com/dataegret/pg-utils) -  Data Egret提供的有用的DBA工具
 
 ### Blogs
 * [Planet PostgreSQL](https://planet.postgresql.org/) -  PostgreSQL的博客聚合服务.
@@ -214,7 +216,7 @@ For Database Management
 
 ### Newsletters
 
-* [Postgres Weekly](https://postgresweekly.com/) - Weekly newsletter that contains articles, news, and repos relevant to PostgreSQL.
+* [Postgres Weekly](https://postgresweekly.com/) - 每周简报，其中包含与PostgreSQL相关的文章，新闻和回购.
 
 ### Videos
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) -  Citus相关视频

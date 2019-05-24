@@ -245,7 +245,7 @@
 * [Figaro](https://github.com/laserlemon/figaro) - 使用`ENV`和单个YAML文件的简单，Heroku友好的Rails app配置.
 * [Global](https://github.com/railsware/global) - 为配置数据提供访问方法.
 * [RailsConfig](https://github.com/railsconfig/config) -  Rails3的多环境yaml设置.
-* [Sail](https://github.com/vinistock/sail) - A lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app.
+* [Sail](https://github.com/vinistock/sail) - 一个轻量级的Rails引擎，它带来一个管理面板，用于管理实时Rails应用程序上的配置设置.
 
 ## Core Extensions
 
@@ -270,7 +270,7 @@
 * [normalize_country](https://github.com/sshaw/normalize_country) - 将国家/地区名称和代码转换为标准，包括XML，CSV和DB的转换程序.
 * [Phonelib](https://github.com/daddyz/phonelib) - 使用Google libphonenumber库数据进行电话验证和格式化的Ruby gem.
 * [Phony](https://github.com/floere/phony) - 快速国际电话号码（E164标准）规范化，分割和格式化.
-* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) -  Rails的邮政编码/邮政编码验证，支持233个国家/地区代码.
+* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
 
 ## CRM
 
@@ -303,7 +303,7 @@
 ## Database Drivers
 
 * [Cassandra Driver](https://github.com/datastax/ruby-driver) -  Apache Cassandra的纯ruby驱动程序，具有异步io和可配置的负载平衡，重新连接和重试策略.
-* [DataObjects](https://github.com/datamapper/do) - 尝试重写现有的Ruby数据库驱动程序以符合一个标准接口.
+* [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) -  MongoDB Ruby驱动程序.
 * [mysql2](https://github.com/brianmario/mysql2) - 一个用于Ruby的现代，简单且非常快速的Mysql库（绑定到libmysql）.
 * [Neography](https://github.com/maxdemarzi/neography) -  Neo4j Rest API的瘦Ruby包装器.
@@ -346,7 +346,7 @@
 * [time-lord](https://github.com/krainboltgreene/time-lord) - 为时间类添加额外的功能.
 * [time_diff](https://github.com/abhidsm/time_diff) - 计算两次之间的差异.
 * [timezone](https://github.com/panthomakos/timezone) - 准确的当前和历史时区和转换，支持Geonames和谷歌纬度 - 经度时区查找.
-* [TZinfo](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
+* [TZinfo](https://github.com/tzinfo/tzinfo) - 在不同时区之间提供夏令时感知转换.
 * [validates_timeliness](https://github.com/adzap/validates_timeliness) -  ActiveModel和Rails的日期和时间验证插件.
 * [yymmdd](https://github.com/sshaw/yymmdd) - 用于惯用日期解析和格式化的小型DSL.
 
@@ -377,7 +377,7 @@
 * [Einhorn](https://github.com/stripe/einhorn)   -  Einhorn将打开一个或多个共享套接字并运行您的进程的多个副本.  您可以无缝地重新加载代码，动态重新配置Einhorn等.
 * [Itamae](https://github.com/itamae-kitchen/itamae) - 灵感来自Chef的简单轻量级配置管理工具.
 * [Kochiku](https://github.com/square/kochiku) -  Kochiku是一个用于测试自动化的分布式平台.
-* [Lita](https://www.lita.io/) -  Ruby的ChatOps：可与任何聊天服务一起使用的可插入聊天机器人框架.
+* [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
 * [Logstash](https://github.com/elastic/logstash) - 日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) - 真正快速的部署和服务器自动化工具.
 * [Puppet](https://github.com/puppetlabs/puppet) - 适用于Linux，Unix和Windows系统的自动管理引擎，可根据集中式规范执行管理任务（如添加用户，安装软件包和更新服务器配置）.
@@ -424,6 +424,7 @@
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) -  Rails电子商务平台.
 * [Solidus](https://github.com/solidusio/solidus) - 面向大批量零售商的开源电子商务应用程序.
 * [Spree](https://github.com/spree/spree) -  Spree是Ruby on Rails的完整开源电子商务解决方案.
+* [SquareConnect](https://github.com/square/connect-ruby-sdk) -  Square用于支付和其他Square API的SDK.
 * [stripe-ruby](https://github.com/stripe/stripe-ruby) - 条纹Ruby绑定.
 
 ## Ebook
@@ -523,7 +524,7 @@
 ## Game Development
 
 * [Gosu](http://www.libgosu.org) - 用于Ruby和C ++编程语言的2D游戏开发库.
-* [Yeah](https://github.com/yeahrb/yeah) - Practical Ruby video game framework.
+* [Yeah](https://github.com/yeahrb/yeah) - 实用的Ruby视频游戏框架.
 
 ## Gem Generators
 
@@ -542,7 +543,7 @@
 
 * [ginatra](https://github.com/NARKOZ/ginatra) -  Git存储库的Web前端.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - 找到破坏主人的提交.
-* [git_reflow](https://github.com/reenhanced/gitreflow) - 敏捷团队的自动化质量控制工作流程.
+* [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - 挖掘git责备历史.
 * [git-up](https://github.com/aanand/git-up) - 获取并重新绑定所有本地跟踪的远程分支.
 * [git-whence](https://github.com/grosser/git-whence) - 查找提交来自哪个合并.
@@ -645,7 +646,7 @@
 
 * [AI4R](https://github.com/sergiofierens/ai4r) - 涵盖多个人工智能领域的算法.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) -  Ruby机器学习链接和资源的策划列表.
-* [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) -  PredictionIO Ruby SDK提供了一个方便的API，可以快速记录用户的行为并检索用户的个性化预测.
+* [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm)   -  LIBSVM的Ruby语言绑定.  SVM是一种机器学习和分类算法.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - 用于与FANN（快速人工神经网络）连接的Ruby库.
 * [rumale](https://github.com/yoshoku/rumale) - 具有类似于Scikit-Learn的接口的机器学习库.
@@ -660,7 +661,7 @@
 
 ## Measurements
 
-* [Measured](https://github.com/Shopify/measured) - Wrapper objects which encapsulate measurements and their associated units in Ruby.
+* [Measured](https://github.com/Shopify/measured) - 包装器对象，它在Ruby中封装测量值及其相关单元.
 * [Ruby Units](https://github.com/olbrich/ruby-units) - 提供执行单元数学和转换的类和方法.
 
 ## Mobile Development
@@ -730,13 +731,13 @@
 * [Ohm](https://github.com/soveran/ohm) -  Redis的Object-hash映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) - 使用Data Mapper模式的Ruby对象的持久性gem.
 * [Redis-Objects](https://github.com/nateware/redis-objects) -  Redis Objects通过redis gem上的薄层将Redis数据类型映射到Ruby对象，为Redis提供Rubyish接口.
-* [ROM](https://github.com/rom-rb/rom) -  Ruby Object Mapper（ROM）是一个实验性的Ruby库，其目标是提供强大的对象映射功能，而不会限制数据存储的全部功能.
+* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
 * [Sequel](https://github.com/jeremyevans/sequel) -  Sequel是一个简单，灵活，功能强大的Ruby数据库访问工具包.
 
 ## ORM/ODM Extensions
 
 *审计和版本控制
-  * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) -  ActiveRecord插件允许您隐藏和恢复记录而不实际删除它们.
+  * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
   * [Audited](https://github.com/collectiveidea/audited) -  Audited是ActiveRecord和MongoMapper的ORM扩展，用于记录模型的所有更改.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - 允许您“销毁”对象而不删除记录或相关记录.
   * [Discard](https://github.com/jhawthorn/discard) - 一个简单的ActiveRecord mixin，用于添加用于标记丢弃记录的约定.
@@ -766,7 +767,7 @@
 *社交
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) - 提供单个注释模型，可以附加到应用程序中的任何模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)   - 与acts_as_commentable类似;  但是，利用awesome_nested_set提供线程注释.
-  * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - Allow any ActiveRecord model to follow any other model.
+  * [acts_as_follower](https://github.com/tcocca/acts_as_follower) - 允许任何ActiveRecord模型遵循任何其他模型.
   * [ActiveRecord Reputation System](https://github.com/twitter/activerecord-reputation-system) - 用于Rails的活动记录信誉系统.
   * [ActsAsTaggableOn](https://github.com/mbleigh/acts-as-taggable-on) -  ActiveRecord的标记插件，允许沿动态上下文自定义标记.
   * [Acts As Votable](https://github.com/ryanto/acts_as_votable) - 允许任何ActiveRecord模型投票，如/不喜欢，upvote / downvote等.
@@ -815,7 +816,7 @@
 * [Kitabu](https://github.com/fnando/kitabu) - 使用Ruby从Markdown / Textile文本标记创建电子书的框架.
 * [Pdfkit](https://github.com/pdfkit/pdfkit) - 使用wkhtmltopdf将HTML + CSS转换为PDF.
 * [Prawn](https://github.com/prawnpdf/prawn) - 用于Ruby的快速，灵活的PDF编写器.
-* [RGhost](https://github.com/shairontoledo/rghost) - RGhost is a document creation and conversion API.
+* [RGhost](https://github.com/shairontoledo/rghost) -  RGhost是一个文档创建和转换API.
 * [Shrimp](https://github.com/adjust/shrimp) - 基于phantomjs的pdf渲染器.
 * [Squid](https://github.com/fullscreen/squid) -  Squid·用于在PDF文件中绘制图表的Ruby库
 * [Wicked Pdf](https://github.com/mileszs/wicked_pdf) -  Ruby on Rails的PDF生成器（来自HTML）插件.
@@ -1003,7 +1004,7 @@
 
 ## State Machines
 
-* [AASM](https://github.com/aasm/aasm) - State machines for Ruby classes (plain Ruby, Rails Active Record, Mongoid).
+* [AASM](https://github.com/aasm/aasm) -  Ruby类的状态机（纯Ruby，Rails Active Record，Mongoid）.
 * [FiniteMachine](https://github.com/peter-murach/finite_machine) - 一个简单的Ruby状态机，具有直观和富有表现力的语法.
 * [MicroMachine](https://github.com/soveran/micromachine) - 少于50行代码中的最小有限状态机实现.
 * [simple_states](https://github.com/svenfuchs/simple_states) - 一个超薄的状态机支持库.
@@ -1025,7 +1026,7 @@
 
 ## Template Engine
 
-* [Curly](https://github.com/zendesk/curly) - A template language that completely separates structure and logic.
+* [Curly](https://github.com/zendesk/curly) - 完全分离结构和逻辑的模板语言.
 * [Haml](https://github.com/haml/haml) -  HTML抽象标记语言.
 * [Liquid](https://github.com/Shopify/liquid) - 灵活的Web应用程序的安全，面向客户的模板语言.
 * [Mustache](https://github.com/mustache/mustache) - 无逻辑的Ruby模板.
@@ -1175,7 +1176,7 @@
 * [Faye](http://faye.jcoglan.com/ruby.html) - 一组用于在Web客户端之间进行简单发布 - 订阅消息传递的工具.
 * [Firehose](https://github.com/firehoseio/firehose) - 构建实时Ruby Web应用程序.
 * [Slanger](https://github.com/stevegraham/slanger) - 与Pusher库兼容的Open Pusher实现.
-* [RenderSync](https://github.com/chrismccord/render_sync) - 实时Rails部分.
+* [RenderSync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - 轻松地在Rails应用程序内创建内置WebSocket服务器，并且还支持流式HTTP.
 
 ## Services and Apps

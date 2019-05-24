@@ -459,7 +459,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
-* [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSets和DaemonSets的pod中
+* [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSets的pod中
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
 
 ## Package Managers
@@ -502,6 +502,7 @@ Projects
 
 *测试在Kubernetes上运行的应用程序*
 
+* [chaoskube](https://github.com/linki/chaoskube) - 定期杀死Kubernetes集群中的随机pod
 * [k8s-testsuite](https://github.com/mrahbar/k8s-testsuite) - 用于Kubernetes集群的网络和负载测试的头盔图
 * [kboom](https://github.com/mhausenblas/kboom) -  Kubernetes秤和浸泡负载测试仪
 * [kind](https://github.com/bsycorp/kind) - 单个节点群集，可在30秒内针对这些群集运行CI测试
@@ -956,7 +957,7 @@ Videos
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
 * [Brendan Burns](https://twitter.com/brendandburns)，Microsoft的合作伙伴架构师
-* [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
+* [Brian Grant](https://github.com/bgrant0607)，Google首席工程师，Kubernetes首席架构师
 * [Carlos Sanchez](https://www.twitter.com/csanchez)，高级软件工程师，CloudBees
 * [Chris Aniszczyk](https://www.twitter.com/cra)，Cloud Native Computing Foundation的首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师
@@ -969,7 +970,7 @@ Videos
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，Microsoft的软件工程师
 * [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Google的Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF成员董事会
-* [Tim Hockin](https://twitter.com/thockin)，Google高级职员SW工程师/工程经理
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
 聚会小组
 =======================================================================

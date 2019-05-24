@@ -7,10 +7,6 @@
 
 你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
-<a href="https://www.patreon.com/sindresorhus">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 
 
 
@@ -274,7 +270,7 @@
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用ChromeDriver测试电子应用程序.
@@ -316,7 +312,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
+- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 
