@@ -192,6 +192,7 @@
 * [PostgreSQL Exercises](https://pgexercises.com/) - 通过练习轻松学习PostgreSQL的网站.
 * [tutorialspoint PostgreSQL tutorial](http://www.tutorialspoint.com/postgresql/) - 关于PostgreSQL的非常广泛的教程集合
 * [postgresDBSamples](https://github.com/morenoh149/postgresDBSamples) - 样本postgres模式的集合
+* [PostgreSQL Primer for Busy People](https://zaiste.net/postgresql_primer_for_busy_people/) -  PostgreSQL中使用的最常用命令的集合
 * [pg-utils](https://github.com/dataegret/pg-utils) -  Data Egret提供的有用的DBA工具
 
 ### Blogs

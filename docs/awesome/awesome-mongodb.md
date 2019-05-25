@@ -19,7 +19,7 @@
 
 ### Articles
 
- - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB)
+ - [14 Things I Wish I'd Known When Starting with MongoDB (Phil Factor)](https://www.infoq.com/articles/Starting-With-MongoDB/)
  - [A Custom WordPress Dashboard with MongoDB Atlas, Microsoft Azure, & Serverless Functions (Ahmad Awais)](https://ahmadawais.com/wordpress-mongodb-atlas-microsoft-azure-serverless-functions/)
  - [Five Things About Scaling MongoDB (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/five-things/) - 比例101
  - [Optimizing MongoDB Compound Indexes (A. Jesse Jiryu Davis, MongoDB Inc.)](https://emptysqua.re/blog/optimizing-mongodb-compound-indexes/) - 您需要/必须了解索引的所有内容
@@ -201,7 +201,7 @@ Services:
  - [Mongo Playground](https://mongoplayground.net) - 在线查询游乐场
  - [Mongo Seeding](https://github.com/pkosiec/mongo-seeding) -  Node.js库，CLI和Docker镜像，用于使用JS和JSON文件填充数据库
  - [Mongoeye](https://github.com/mongoeye/mongoeye) - 模式和数据分析器：探索集合中的数据
- - [Variety](https://github.com/variety/variety) - 架构分析器：查看集合中的哪些字段以及它们的内容
+ - [Variety](https://github.com/variety/variety) - 模式分析器：查看您的集合中的哪些字段以及它们的内容
 
 Services:
 

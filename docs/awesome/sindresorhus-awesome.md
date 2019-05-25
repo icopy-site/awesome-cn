@@ -11,13 +11,13 @@
 	<a href="contributing.md">贡献指南</a>
 	<a href="create-list.md">创建列表</a>
 	<a href="https://twitter.com/awesome__re">推特</a>
-	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">Stickers & t-shirts</a>
+	<a href="https://www.redbubble.com/people/sindresorhus/works/30364188-awesome-logo">贴纸和T恤</a>
 </p>
 
 <br>
 
 <div align="center">
-	<b>关注<a href="https://twitter.com/awesome__re">Awesome Twitter帐户</a> ，了解新增列表的更新.</b>
+	<b>Follow the <a href="https://twitter.com/awesome__re">Awesome Twitter account</a> for updates on new list additions.</b>
 </div>
 
 <br>
@@ -37,15 +37,15 @@
 	- [Cross-Platform](https://github.com/bcoe/awesome-cross-platform-nodejs#readme) - 在Node.js上编写跨平台代码.
 - [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks#readme)
 - [iOS](https://github.com/vsouza/awesome-ios#readme) -  Apple手机和平板电脑的移动操作系统.
-- [Android](https://github.com/JStumpp/awesome-android#readme)
+- [Android](https://github.com/JStumpp/awesome-android#readme) - 由谷歌开发的移动操作系统.
 - [IoT & Hybrid Apps](https://github.com/weblancaster/awesome-IoT-hybrid#readme)
 - [Electron](https://github.com/sindresorhus/awesome-electron#readme) - 使用JavaScript / HTML / CSS的跨平台本机桌面应用程序.
 - [Cordova](https://github.com/busterc/awesome-cordova#readme) - 适用于混合应用的JavaScript API.
-- [React Native](https://github.com/jondot/awesome-react-native#readme)
+- [React Native](https://github.com/jondot/awesome-react-native#readme) - 用于为iOS和Android本地渲染移动应用程序的JavaScript框架.
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - 移动应用程序开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-- [macOS](https://github.com/iCHAIT/awesome-macOS#readme)
+- [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -  Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
 	- [Apps](https://github.com/jaywcjlove/awesome-mac#readme)
@@ -87,7 +87,7 @@
 	- [Tips](https://github.com/loverajoel/jstips#readme)
 	- [Network Layer](https://github.com/Kikobeats/awesome-network-js#readme)
 	- [Micro npm Packages](https://github.com/parro-it/awesome-micro-npm-packages#readme)
-	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - Impossible sounding projects that exist.
+	- [Mad Science npm Packages](https://github.com/feross/awesome-mad-science#readme) - 存在不可能的声音项目.
 	- [Maintenance Modules](https://github.com/maxogden/maintenance-modules#readme) - 对于npm包.
 	- [npm](https://github.com/sindresorhus/awesome-npm#readme) - 包裹经理.
 	- [AVA](https://github.com/avajs/awesome-ava#readme) - 测试跑步者.
@@ -96,10 +96,10 @@
 	- [Observables](https://github.com/sindresorhus/awesome-observables#readme)
 	- [npm scripts](https://github.com/RyanZim/awesome-npm-scripts#readme) - 任务选手.
 	- [30 Seconds of Code](https://github.com/30-seconds/30-seconds-of-code#readme) - 您可以在30秒内理解的代码段.
-- [Swift](https://github.com/matteocrippa/awesome-swift#readme)
+- [Swift](https://github.com/matteocrippa/awesome-swift#readme) -  Apple编译的编程语言，安全，现代，程序员友好，速度快.
 	- [Education](https://github.com/hsavit1/Awesome-Swift-Education#readme)
 	- [Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds#readme)
-- [Python](https://github.com/vinta/awesome-python#readme)
+- [Python](https://github.com/vinta/awesome-python#readme) - 为便于阅读而设计的通用编程语言.
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) -  Python 3中的异步I / O.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) - 音频/音乐科学研究.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) - 用于微控制器的Python版本.
@@ -117,20 +117,20 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme)
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) - 通用语言，偏向于系统编程和嵌入式资源约束软件.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
 - [Perl](https://github.com/hachiojipm/awesome-perl#readme)
 - [Groovy](https://github.com/kdabir/awesome-groovy#readme)
 - [Dart](https://github.com/yissachar/awesome-dart#readme)
-- [Java](https://github.com/akullpp/awesome-java#readme)
+- [Java](https://github.com/akullpp/awesome-java#readme) - 流行的安全面向对象语言，旨在灵活地“一次编写，随处运行”.
 	- [RxJava](https://github.com/eleventigers/awesome-rxjava#readme)
 - [Kotlin](https://github.com/KotlinBy/awesome-kotlin#readme)
 - [OCaml](https://github.com/ocaml-community/awesome-ocaml#readme)
 - [ColdFusion](https://github.com/seancoyne/awesome-coldfusion#readme)
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
-- [PHP](https://github.com/ziadoz/awesome-php#readme)
+- [PHP](https://github.com/ziadoz/awesome-php#readme) - 服务器端脚本语言.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - 包裹经理.
 - [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
@@ -151,7 +151,7 @@
 - [ES6 Tools](https://github.com/addyosmani/es6-tools#readme)
 - [Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo#readme)
 - [Web Tools](https://github.com/lvwzhen/tools#readme)
-- [CSS](https://github.com/awesome-css-group/awesome-css#readme)
+- [CSS](https://github.com/awesome-css-group/awesome-css#readme) - 样式表语言，指定HTML元素在屏幕上的显示方式.
 	- [Critical-Path Tools](https://github.com/addyosmani/critical-path-css-tools#readme)
 	- [Scalability](https://github.com/davidtheclark/scalable-css-reading-list#readme)
 	- [Must-Watch Talks](https://github.com/AllThingsSmitty/must-watch-css#readme)
@@ -235,7 +235,7 @@
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
 - [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
-- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme)
+- [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) - 自动化Linux容器操作的开源平台.
 - [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
 - [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) -  Java Web应用程序框架.
@@ -538,7 +538,7 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择下一个配色方案.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字分销平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 建造机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)

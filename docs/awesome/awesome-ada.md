@@ -220,7 +220,8 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台上的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -  MiniPac是Pacman的儿童友好ascii角色版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以Windows，Mac OS-X和GNU Linux运行的足球主题3D推箱子益智游戏.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏. 
+- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏.
+- [buttons](https://github.com/andreacervetti/buttons) - 简单的Gtkada Button Mania游戏.
 
 
 ## Frameworks
@@ -404,7 +405,7 @@
 - [robotics-with-ada](https://github.com/AdaCore/Robotics_with_Ada) - 使用Ada，ARM和Lego的机器人技术.
 
 #### Firmwares
-- [certiflie](https://github.com/AdaCore/Certyflie) - Source code for the full Ada + SPARK Crazyflie 2.0 firmware.
+- [certiflie](https://github.com/AdaCore/Certyflie) - 完整的Ada + SPARK Crazyflie 2.0固件的源代码.
 
 #### Drivers
 - [ada-drivers-library](https://github.com/AdaCore/Ada_Drivers_Library) - 各种MCU和传感器的Ada驱动程序.
@@ -499,7 +500,7 @@
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - 用于OpenCL主机API的Ada绑定.
 - [rclada](https://github.com/ada-ros/rclada) -  ROS2 / RCL的Ada客户端库.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) -  Ada Posix绑定到Video 4 Linux，用于RPI.
-- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - 与NanoVG绑定.
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) -  libsoundio有绑定.
 - [win32ada](https://github.com/AdaCore/win32ada) -  Windows库有一个API.
 - [wposix](https://github.com/AdaCore/wposix) - 有一个Windows POSIX绑定.

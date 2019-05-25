@@ -135,7 +135,7 @@ drm/kms.
 *  [Vulkan-Forward-Plus-Renderer](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer)   -  VFPR  - 火山前锋和渲染器.  [MIT]
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) -  Vulkan实现实时PBR渲染器.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) -  Vulkan和D3D12渲染器的单头实现.
-*  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)   - 基于Vulkan的简单渲染器，用于我的实时透明度硕士论文.  [CC BY-SA 4.0]
+*  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)   - 基于Vulkan的简单渲染器，用于实时透明度的硕士论文.  [CC BY-SA 4.0]
 *  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) - 使用Vulkan-Hpp的Sascha Willems的优秀Vulkan示例.
 *  [SDF Font Demo](https://github.com/kocsis1david/font-demo)   - 通过估计签名距离在Vulkan中进行文本渲染.  [MIT]
 *  [vulkantoy](https://github.com/jpystynen/vulkantoy)   - 使用Vulkan的Shadertoy图像着色器测试应用程序.  [MIT]
@@ -181,9 +181,9 @@ drm/kms.
 *  [VK9](https://github.com/disks86/VK9) - 使用Vulkan的Direct3D 9兼容层
 *  [gfx-rs](https://github.com/gfx-rs/gfx)   -  Rust的高性能无绑定图形API.  [Apache许可证2.0]
 *  [vRt](https://github.com/world8th/vRt)   - 基于Vulkan API（&gt; = 1.1）的统一光线跟踪库.  [LGPL-3.0]
-*  [rostkatze](https://github.com/msiglreith/rostkatze) - 坐在D3D12上的Vulkan的C ++实现[Apache License 2.0]
+*  [rostkatze](https://github.com/msiglreith/rostkatze) - 在D3D12上使用Vulkan的C ++实现[Apache License 2.0]
 *  [Fossilize](https://github.com/Themaister/Fossilize)   - 各种持久性Vulkan对象类型的序列化格式.  [MIT]
-*  [Vulkan/VkSceneGraph](https://github.com/vsg-dev) -  Vulkan / C ++ 17场景图项目，继承者 [OpenSceneGraph](http://www.openscenegraph.org).
+*  [VulkanSceneGraph](https://github.com/vsg-dev) -  Vulkan / C ++ 17场景图项目，继承者 [OpenSceneGraph](http://www.openscenegraph.org).
 *  [clspv](https://github.com/google/clspv)   -  OpenCL C子集到Vulkan计算着色器的原型编译器.  [Apache许可证2.0]
 *  [Pumex](https://github.com/pumexx/pumex)   - 实现框架图和简单场景图的跨平台Vulkan渲染器.  能够同时在多个表面上渲染[MIT]
 *  [VUDA](https://github.com/jgbit/vuda)   -  header-only lib，提供CUDA Runtime API接口.  [MIT]

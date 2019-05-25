@@ -58,7 +58,6 @@
 * [Antonio Leiva - Android and any other monsters](http://antonioleiva.com/) 
 * [Programming Community Curated Resources for learning Kotlin](https://hackr.io/tutorials/learn-kotlin) 
 * [LinkedIn: Kotlin Developers (Join!)](https://www.linkedin.com/groups/7417237/profile) 
-* [Kotlin - Google+](https://plus.google.com/communities/104597899765146112928) 
 * [From Java To Kotlin](https://github.com/fabiomsr/from-java-to-kotlin) 
 * [dbacinski/Design-Patterns-In-Kotlin](https://github.com/dbacinski/Design-Patterns-In-Kotlin) - 在Kotlin中实施的设计模式.
 * [Kotlin Cheat Sheet](https://speakerdeck.com/agiuliani/kotlin-cheat-sheet) 
@@ -1134,7 +1133,7 @@
 * [Дмитрий Полищук - Kotlin + Android: практический ликбез](http://kotlin.link/articles/Дмитрий-Полищук-Kotlin-Android-практический-ликбез.html) - 德米特里波兰丘克
 
 ### <a name="videos-january-2016"></a>January 2016 <sup>[Back ⇈](#videos-january-2016-subcategory)</sup>
-* [Fun with Kotlin](http://kotlin.link/articles/Fun-with-Kotlin.html) -  Eder Bastos.
+* [Fun with Kotlin](http://kotlin.link/articles/Fun-with-Kotlin.html) -  Eder Bastos
 
 ### <a name="videos-october-2015"></a>October 2015 <sup>[Back ⇈](#videos-october-2015-subcategory)</sup>
 * [Kotlin NoSQL for MongoDB in Action](http://kotlin.link/articles/Kotlin-NoSQL-for-MongoDB-in-Action.html) - 安德烈切普索夫
