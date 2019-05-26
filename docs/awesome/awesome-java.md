@@ -61,7 +61,7 @@
 - [JCommander](http://jcommander.org) - 具有自定义类型的命令行参数解析框架和通过实现接口的验证.
 - [jbock](https://github.com/h908714124/jbock) -  Typesafe，无反射，基于注释的命令行解析器 
 - [JLine](https://github.com/jline/jline3) - 包括现代贝壳的功能，如完成或历史.
-- [JOpt Simple](https://pholser.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
+- [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
 - [picocli](http://picocli.info) - 使用的ANSI颜色和样式有助于基于注释的POSIX / GNU /任何语法，子命令，强选键入选项和位置参数.
 - [Text-IO](https://github.com/beryx/text-io) - 帮助创建完整的基于控制台的应用程序.
 - [Lanterna](https://github.com/mabe02/lanterna) - 简单的控制台文本GUI库，类似于curses.

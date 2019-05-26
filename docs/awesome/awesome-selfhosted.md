@@ -112,7 +112,7 @@ Some [Content Management System](#content-management-systems-cms) 解决方案�
 - [Chyrp Lite](http://chyrplite.net)   - 超级轻量级​​的博客引擎.  （[Source Code](https://github.com/xenocrat/chyrp-lite)）`BSD-3-Clause``PHP`
 - [Dante Stories](https://dante-stories.herokuapp.com/)   - 使用Ruby on Rails构建的自托管中型平台.  （[Source Code](https://github.com/michelson/dante-stories)）`MIT``Ruby`
 - [Dotclear](http://dotclear.org/)   - 控制您的博客.  （[Source Code](https://hg.dotclear.org/dotclear)）``GPL-2.0``PHP`
-- [Formtools](https://formtools.org/) - Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools)）``GPL-2.0``PHP`
+- [Formtools](https://formtools.org/)   - 功能强大，灵活，免费和开源的PHP / MySQL脚本，用于管理表单和数据.  （[Source Code](https://github.com/formtools)）``GPL-2.0``PHP`
 - [Ghost](https://ghost.org/)   - 只是一个博客平台.  （[Source Code](https://github.com/TryGhost/Ghost)）`MIT``Nodejs`
 - [Hexo](https://hexo.io/)   - 由Node.js提供支持的快速，简单和强大的博客框架.  （[Source Code](https://github.com/hexojs/hexo)）`MIT``Nodejs`
 - [Hotglue](https://hotglue.me/)   -  Freehand CMS，允许直接在Web浏览器中构建网站.  它使用平面文件进行存储，并提供直观的GUI.  （[Demo](https://hotglue.me/demo/), [Source Code](https://github.com/k0a1a/hotglue2)）``GPL-3.0``PHP`
@@ -244,7 +244,7 @@ _MTAs / SMTP服务器_
 - [MailHog](https://github.com/mailhog/MailHog)   - 小Golang可执行文件，它运行SMTP MTA网关，接受Web界面中的所有邮件和显示.  用于调试或开发.  `MIT``Go`
 - [OpenSMTPD](https://opensmtpd.org/)   -  OpenBSD项目中的安全SMTP服务器实现.  （[Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)）`ISC``C`
 - [Postfix](http://www.postfix.org/)   - 快速，易于管理和安全的Sendmail替代.  `IPL-1.0``C`
-- [Qmail](http://www.qmail.org/top.html)   - 安全Sendmail替换.  （[Source Code](https://sources.debian.net/src/netqmail/1.06-5/)) `CC0-1.0` `C`
+- [Qmail](http://www.qmail.org/top.html)   - 安全Sendmail替换.  （[Source Code](https://sources.debian.net/src/netqmail/1.06-5/)）`CC0-1.0``C`
 - [Sendmail](http://www.sendmail.com/sm/open_source/)   - 邮件传输代理（MTA）.  `Sendmail``C`
 - [Slimta](http://slimta.org)   - 基于Python构建的邮件传输库.  （[Source Code](https://github.com/slimta/python-slimta)）`MIT``Python`
 
@@ -346,7 +346,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [MyBB](http://www.mybb.com/)   - 免费，可扩展的论坛软件包.  （[Source Code](https://github.com/mybb/mybb)）``LGPL-3.0``PHP`
 - [Newebe](http://newebe.org/)   - 分布式社交网络.  （[Source Code](https://github.com/gelnior/newebe)）`AGPL-3.0``Python`
 - [NodeBB](https://nodebb.org/)   - 基于Node.js的论坛软件，为现代网络构建.  （[Source Code](https://github.com/NodeBB/NodeBB)）``GPL-3.0``Nodejs`
-- [Orange Forum](http://www.goodoldweb.com/) - Orange Forum is an easy to deploy forum that has minimal dependencies and uses very little javascript. ([Demo](https://groups.goodoldweb.com/), [Source Code](https://github.com/s-gv/orangeforum)）``BSD-3-Clause``Go`
+- [Orange Forum](http://www.goodoldweb.com/)   -  Orange Forum是一个易于部署的论坛，具有最小的依赖性并且使用非常少的javascript.  （[Demo](https://groups.goodoldweb.com/), [Source Code](https://github.com/s-gv/orangeforum)）``BSD-3-Clause``Go`
 - [OSSN](https://www.opensource-socialnetwork.org/)   - 开源社交网络（OSSN）是一种用PHP编写的社交网络软件.  它允许您创建一个社交网站，并帮助您的成员与具有类似专业或个人兴趣的人建立社交关系.  （[Source Code](https://github.com/opensource-socialnetwork/opensource-socialnetwork)）``GPL-2.0``PHP`
 - [Oxwall](http://www.oxwall.org/)   -  Oxwall用于从家庭站点和自定义社交网络到协作工具和企业社区解决方案的各种项目.  （[Source Code](https://bitbucket.org/oxwall/public)）``CPAL-1.0``PHP`
 - [phpBB](https://www.phpbb.com/)   - 平台论坛公告板软件解决方案，可用于与一群人保持联系或为整个网站提供支持.  （[Source Code](https://github.com/phpbb/phpbb)）``GPL-2.0``PHP`
@@ -672,7 +672,7 @@ _Command-line file upload_
 - [SourceBans++](https://sbpp.github.io)   - 在源引擎上运行的游戏的管理，禁用和通信管理系统.  （[Source Code](https://github.com/sbpp/sourcebans-pp)）`CC-BY-SA-4.0``PHP`
 - [Spyfall](https://github.com/mpcovcd/spyfall)   - 粉丝制作的Spyfall派对游戏的网络版.  （[Demo](http://spyfall.crabhat.com/)）`MIT``HTML / Javascript`
 - [Teeworlds](https://www.teeworlds.com)   - 开源2D复古多人射击游戏.  （[Source Code](https://github.com/teeworlds/teeworlds)）`BSD-3-Clause / Other``C ++`
-- [TournamentMango](http://tournamentmango.com/)   -  TournamentMango是一个开源的锦标赛支架和用户管理系统.  您可以构建一个玩家档案，并跟踪他们的所有分数以及他们的常规角色，游戏和别名.  （[Source Code](https://github.com/seiyria/tournamentmango)）`MIT`` Javascript`
+- [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code](https://github.com/seiyria/tournamentmango)）`MIT`` Javascript`
 
 ## Gateways
 
@@ -709,7 +709,7 @@ _Command-line file upload_
 - [IceHrm](https://icehrm.com/)   -  IceHrm员工管理系统允许公司集中保密的员工信息.  （[Demo](https://icehrm.com/demo.php), [Source Code](https://github.com/gamonoid/icehrm)）``Apache-2.0``PHP`
 - [OrangeHRM](https://www.orangehrm.com/)   -  OrangeHRM是一个全面的HRM系统，可捕获任何企业所需的所有基本功能.  （[Source Code](https://sourceforge.net/projects/orangehrm/)）``GPL-2.0``PHP`
 - [Sentrifugo](http://www.sentrifugo.com/)   -  Sentrifugo是一个HRM系统，可以轻松配置以满足您的组织需求.  （[Source Code](https://github.com/sapplica/sentrifugo)）``GPL-3.0``PHP`
-- [TimeOff.Management](https://timeoff.management)   - 适用于中小型企业的简单而强大的缺勤管理软件.  （[Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/application)）`MIT``Nodejs`
+- [TimeOff.Management](https://timeoff.management) - Simple yet powerful absence management software for small and medium size business. ([Demo](https://app.timeoff.management), [Source Code](https://github.com/timeoff-management/application)）`MIT``Nodejs`
 
 ## Internet Of Things (IoT)
 
@@ -807,7 +807,7 @@ _Command-line file upload_
 - [Odd Networks](http://oddnetworks.com)   - 用于Roku，Apple iOS / tvOS，Google Android和Amazon FireTV的支持SDK的集合和视频的开源视频管理系统（VMS）和API.  （[Source Code](https://github.com/oddnetworks/oddworks)）`MIT``Nodejs`
 - [PeerTube](https://joinpeertube.org/en/)   - 直接在Web浏览器中使用P2P（BitTorrent）的分散式视频流平台.  （[Source Code](https://github.com/Chocobozzz/PeerTube)）`AGPL-3.0``Nodejs`
 - [Restreamer](https://datarhei.github.io/restreamer/)   -  Restreamer允许您在没有流媒体提供商的情况下在您的网站上进行h.264实时视频流.  （[Source Code](https://github.com/datarhei/restreamer)）`Apache-2.0``Nodejs / Docker`
-- [Shinobi](https://moeiscool.github.io/Shinobi/)   - 使用IP和本地摄像头支持在Node中编写的开源CCTV软件.  （[Source Code](https://github.com/moeiscool/Shinobi)）``GPL-2.0``Nodejs`
+- [ShinobiCE](https://gitlab.com/Shinobi-Systems/ShinobiCE)   - 使用IP和本地摄像头支持在Node中编写的开源CCTV软件.  （[Source Code](https://gitlab.com/Shinobi-Systems/ShinobiCE) `AGPL-3.0 / GPL-3.0``Nodejs`
 - [Streama](https://streamaserver.org/)   - 自托管流媒体服务器.  （[Source Code](https://github.com/streamaserver/streama)）`MIT``Java`
 - [VideoLAN Client (VLC)](https://www.videolan.org/)   - 跨平台多媒体播放器客户端和服务器，支持大多数多媒体文件以及DVD，音频CD，VCD和各种流媒体协议.  （[Source Code](https://github.com/videolan/vlc)）`Multiple``C`
 - [Zoneminder](https://www.zoneminder.com/)   - 闭路电视（CCTV）软件应用程序，支持IP，USB和模拟摄像机.  （[Source Code](https://github.com/ZoneMinder/ZoneMinder)）``GPL-2.0``PHP`
@@ -1005,6 +1005,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Photoshow](http://www.photoshow-gallery.com/)   - 响应式Web画廊.  （[Source Code](https://github.com/thibaud-rohmer/PhotoShow)）``GPL-3.0``PHP`
 - [Piwigo](http://piwigo.org/)   - 由用户和开发人员积极社区建立的网络图片库软件.  （[Demo](http://piwigo.org/demo/), [Source Code](https://github.com/Piwigo/Piwigo)）``GPL-2.0``PHP`
 - [Plumi](http://blog.plumi.org/)   - 创建您自己的复杂视频共享网站.  （[Source Code](https://github.com/plumi/plumi.app)）``GPL-2.0`Python`
+- [Quru Image Server](https://quruimageserver.com/)   - 高性能动态调整图像服务器，提供基于目录的访问控制裁剪，旋转，颜色管理和其他工具.  （[Demo](https://quruimageserver.com), [Source Code](https://github.com/quru/qis)）`AGPL-3.0``Python`
 - [sigal](https://github.com/saimn/sigal)   - 又一个简单的静态图库生成器.  `MIT``Python`
 - [UberGallery](http://www.ubergallery.net)   -  UberGallery是一个易于使用，易于管理的网络照片库.  UberGallery不需要数据库，并支持JPEG，GIF和PNG文件类型.  只需上传您的图片，UberGallery就会自动生成缩略图并输出HTML.  （[Source Code](https://github.com/UberGallery/UberGallery)）`MIT`` PHP`
 - [Videobin](http://videobin.org/code)   - 简单的视频上传和共享服务与转码.  （[Demo](http://videobin.org/), [Source Code](https://r-w-x.org/videobin.git)）``GPL-3.0`Python`

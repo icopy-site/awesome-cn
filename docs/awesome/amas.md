@@ -31,7 +31,7 @@
 - [Mikola Lysenko](https://github.com/mikolalysenko/ama) - 几何流浪汉.
 - [Drew Minns](https://github.com/drewminns/ama)   - 设计师/开发人员和教育者.  首席开发人员和讲师 [HackerYou](http://hackeryou.com).
 - [Heather Payne](https://github.com/heatherpayne/ama) - 首席执行官 [HackerYou](http://hackeryou.com)，创始人 [Ladies Learning Code](http://ladieslearningcode.com).
-- [Ryan Christiani](https://github.com/Rchristiani/ama) - 首席讲师和开发人员 [HackerYou](http://hackeryou.com) in Toronto.
+- [Ryan Christiani](https://github.com/Rchristiani/ama) - 首席讲师和开发人员 [HackerYou](http://hackeryou.com) 在多伦多.
 - [Ahmad Nassri](https://github.com/ahmadnassri/ama) - 工程主管 [Mashape](https://www.mashape.com) .  技术企业家和狗情人.  多伦多✈旧金山.
 - [Patty Delgado](https://github.com/partydelgado/ama) - 工程领导 [Refinery29](http://www.refinery29.com) .  Avid导师和开发者布道者，特别是针对女性和少数民族.
 - [Nicholas C. Zakas](https://github.com/nzakas/ama) -  Box的建筑师，作者，ESLint的创造者.
@@ -46,7 +46,7 @@
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) -  CSS妖精，Sass黑客，边缘精神.
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama)   -  Bitbucket的JavaScript.  做互联网的事情.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - 芬兰的CS＆SE大学学生.
-- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的神经质.
+- [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
 - [Kyle Robinson Young](https://github.com/shama/ama) - 做东西，喜欢熊.
 - [Trent Oswald](https://github.com/therebelrobot/ama) - 网络事物的制造商 [@Mashape](http://mashape.com) 和 [nodejs/website](https://github.com/nodejs/iojs.org).
 - [Una Kravets](https://github.com/una/ama) - 前端开发人员，Sass事物，开发社区和开源设计.
@@ -100,7 +100,7 @@
 - [Tibor Simon](https://github.com/tiborsimon/ama) - 电气工程师，软件极客，DSP，iOS，vimmer，吉他手，骑车人，跑步者， [tiborsimon.io](https://tiborsimon.io).
 - [Danilo Vaz](https://github.com/danilovaz/ama) - 前端开发人员（巴西人），工作于 [mLabs](https://www.mlabs.com.br/)  使用JavaScript，EmberJS，API和其他很酷的东西.  我也是 [BeerJS/SJC](https://github.com/beerjs/sjc) 组织者.
 - [Adrian Mejia](https://github.com/amejiarosario/ama)   - 思科的软件工程师.  博主在 [adrianmejia.com](http://adrianmejia.com) .  作者 ["E-commerce Application built with the MEAN stack"](https://github.com/amejiarosario/meanshop) .  JavaScript爱好者.  波士顿位于.
-- [Jon Kuperman](https://github.com/jkup/ama)   - 我喜欢JavaScript！  我在博客 [Codeplanet](https://codeplanet.io)，制作视频 [Nodecasts](https://nodecasts.io) 并播客 [The Web Behind](https://webbehind.com).
+- [Jon Kuperman](https://github.com/jkup/ama)   - 我喜欢JavaScript！  我在博客 [Codeplanet](https://codeplanet.io)，制作视频 [Nodecasts](https://nodecasts.io) 和播客 [The Web Behind](https://webbehind.com).
 - [Max Stoiber](https://github.com/mxstbr/ama) -  Thinkmill的开源开发人员，开发人员 [KeystoneJS](https://github.com/keystonejs/keystone) 和 [ElementalUI](https://github.com/elementalui/elemental) .  创造者 [react-boilerplate](https://github.com/mxstbr/react-boilerplate)，React Vienna的一部分.
 - [Joe Lencioni](https://github.com/lencioni/ama) - 建造 [ImportJS](https://github.com/Galooshi/import-js) 和 [Diffux CI](https://medium.com/brigade-engineering/the-end-of-visual-regressions-b6b5c3d810f) .  网络基础设施 [Airbnb](https://www.airbnb.com).
 - [Lindsey Bieda](https://github.com/lindseyb/ama) - 后端开发人员，游戏制造商和硬件黑客.
@@ -157,7 +157,7 @@
 - [Hamza Baig](https://github.com/hamxabaig/ama)   - 全栈JavaScript工程师.  热衷于人工智能.
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 - [Emanuele Bartolesi](https://github.com/kasuken/ama)   - 全栈Web开发人员.  道德黑客.  初学者铁人三项运动员.
-- [Brad Garropy](https://github.com/bradgarropy/ama) -  Python DevOps at [Dell](https://www.delltechnologies.com) 白天，威士忌和JavaScript之夜.
+- [Brad Garropy](https://bradgarropy.com/ama) - 自学成才 [Adobe](https://www.adobe.com), [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy).
 - [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - 软件架构师， [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi)，和 [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.

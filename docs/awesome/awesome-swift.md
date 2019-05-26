@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  968 |  2019年5月22日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  969 |  2019年5月25日
 
 
 
@@ -96,7 +96,7 @@
 *查看这些项目的应用程序：* 
 * [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - 帮助您准备面试的问题列表.
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - 为macOS提供的精彩应用程序，软件，工具和闪亮内容的精选列表.
-* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - 适合初学者和学习ios开发人员以及需要任何示例应用程序或功能的ios开发人员的惊人列表.
+* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - 开源iOS应用程序的协作列表.
 
 ## Dependency Managers
@@ -164,6 +164,7 @@
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) - 易于阅读和编写可链接的动画.
 * [Ease](https://github.com/roberthein/Ease) - 使用Ease动画一切.
 * [EasyAnimation](https://github.com/icanzilb/EasyAnimation) - 将UIView.animateWithDuration（_：，动画：...）的强大功能提升到一个全新的水平的库.
+* [Elephant](https://github.com/kzumu/Elephant) - 适用于iOS的优雅SVG动画套件
 * [FlightAnimator](https://github.com/AntonTheDev/FlightAnimator) - 基于自然块的核心动画框架.
 * [Gemini](https://github.com/shoheiyokoyama/Gemini) -  Gemini是丰富的基于滚动的动画框架.
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - 使用IBAnimatable在Interface Builder中为App Store准备好的应用程序设计和原型UI，交互，导航，转换和动画.
@@ -391,7 +392,7 @@
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 为什么不使用UserDefaults来存储Codable对象.
-* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
+* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - 通过iCloud轻松同步NSUserDefaults.
 
 #### MongoDB
 [back to top](#readme) 
@@ -468,7 +469,7 @@
 * [Zip Foundation](https://github.com/weichsel/ZIPFoundation) - 用于创建，读取和修改ZIP存档文件的库.
 
 ### Date
-*Handle data formatting easily.* [back to top](#readme) 
+*轻松处理数据格式化.* [back to top](#readme) 
 
 * [AnyDate](https://github.com/Kawoou/AnyDate) - 受Java 8 DateTime API启发的日期和时间API.
 * [Chronology](https://github.com/davedelong/Chronology) - 建立一个更好的日期/时间库.
@@ -479,7 +480,7 @@
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - 轻松的NSDate管理.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - 时间和日历操作库.
 * [Time](https://github.com/dreymonde/Time) - 由泛型驱动的类型安全时间计算.
-* [Timepiece](https://github.com/naoty/Timepiece) - 直观的NSDate扩展.
+* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
 ### Dependency Injection
@@ -713,7 +714,7 @@
 ### Layout
 * Libs帮助您进行布局.* [back to top](#readme) 
 
-* [BrickKit](https://github.com/wayfair/brickkit-ios) - Create complex and responsive layouts in a simple way.
+* [BrickKit](https://github.com/wayfair/brickkit-ios) - 以简单的方式创建复杂和响应式布局.
 * [FlexLayout](https://github.com/layoutBox/FlexLayout) - 高度优化的Facebook瑜伽Flexbox实施的良好和干净的界面.
 * [LayoutKit](https://github.com/linkedin/LayoutKit) -  LayoutKit是iOS，macOS和tvOS的快速视图布局库.
 * [LayoutLess](https://github.com/DeclarativeHub/Layoutless) - 少写UI代码.
@@ -824,7 +825,7 @@
 * [OAuth2](https://github.com/p2/OAuth2) -  oauth2 auth lib.
 * [OAuthSwift](https://github.com/OAuthSwift/OAuthSwift) - 适用于iOS的OAuth库.
 * [PeerKit](https://github.com/jpsim/PeerKit) - 构建事件驱动的零配置Multipeer Connectivity应用程序的框架.
-* [Pitaya](https://github.com/johnlui/Pitaya) :penguin: - HTTP / HTTPS networking library just incidentally execute on machines.
+* [Pitaya](https://github.com/johnlui/Pitaya) ：企鹅： - 偶然在机器上执行的HTTP / HTTPS网络库.
 * [PMHTTP](https://github.com/postmates/PMHTTP) -  HTTP框架，重点关注REST和JSON.
 * [Postal](https://github.com/snipsco/Postal) - 框架提供对常见电子邮件提供商的简单访问
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 使用封盖替代Apple的可达性.
@@ -1124,12 +1125,12 @@
 * [YNSearch](https://github.com/younatics/YNSearch) - 令人敬畏的完全可定制的搜索视图，如Pinterest.
 
 #### Alert
-* Libs显示警报，操作表，通知，弹出窗口.* [back to top](#readme) 
+*Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
 
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - 现代，简单的UIAlertController包装.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) - 使用TextField，DatePicker，PickerView，TableView和CollectionView对UIAlertController进行高级使用.
 * [ALRT](https://github.com/mshrwtnb/alrt)   -  UIAlertController的一个更简单的构造函数.  从任何地方提出警报.
-* [AwaitToast](https://github.com/k-lpmg/AwaitToast)   - 基本吐司以及异步等待吐司.  受到facebook发布吐司的启发.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - 🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - 高度可定制的警报/通知/成功/错误/警报弹出.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的UIAlertController.
@@ -1208,7 +1209,7 @@
 [back to top](#readme) 
 
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - 轻量级装载活动HUD.
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - 动画渐变加载栏.
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
 * [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - 美丽且可定制的进度HUD.
 * [PKHUD](https://github.com/pkluz/PKHUD) - 重新实现Apple HUD.
 
@@ -1344,9 +1345,9 @@
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - 在CollectionView中将分页与虚拟视图集成的简便方法，使Instagram发现几分钟.
 * [Blueprints](https://github.com/zenangst/Blueprints) - 一个框架，旨在使您在使用集合视图流布局时更轻松.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - 集合视图布局，使您的单元格反弹.
-* [CardsLayout](https://github.com/filletofish/CardsLayout) - Nice card-designed custom CollectionView layout.
+* [CardsLayout](https://github.com/filletofish/CardsLayout) - 尼斯卡设计的自定义CollectionView布局.
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - 易于使用的集合视图布局，用于卡式动画.
-* [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - 一个轻量级的UICollectionViewLayout，用于分页和居中它的单元格.
+* [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) -  UICollectionViewLayout子类将其项显示为类似于App Store Feature选项卡的项目行，而没有嵌套的UITableView / UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个UICollectionViews拖放数据.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)   - 优雅的屏幕幻灯片库.  它对于制作横幅视图，产品展示，欢迎/指南页面，屏幕/ ViewController滑块非常有用.
@@ -1372,7 +1373,7 @@
 * [folding-cell](https://github.com/Ramotion/folding-cell) - 折叠细胞过渡.
 * [GridView](https://github.com/KyoheiG3/GridView) - 可以定制为时间表，电子表格，分页等.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - 用于在项目中显示任何UITableView / UICollectionView的占位符和空状态的好库.
-* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - 帮助您更好地管理UITableViews的框架
+* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - 将视差标头添加到UIScrollView / UITableView的简单方法.
 * [Persei](https://github.com/Yalantis/Persei) -  UITableView / UICollectionView / UIScrollView的动画顶级菜单.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) -  PullToRefresh库.
@@ -1409,7 +1410,7 @@
 * [Codextended](https://github.com/JohnSundell/Codextended) - 扩展提供可编码API类型推断超级权限.
 * [Curry](https://github.com/thoughtbot/Curry) - 功能currying.
 * [DeepDiff](https://github.com/onmyway133/DeepDiff) - 快速差异库.
-* [Delegated](https://github.com/dreymonde/Delegated) - Closure-based delegation without memory leaks.
+* [Delegated](https://github.com/dreymonde/Delegated) - 没有内存泄漏的基于闭包的委派.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 快速灵活的O（n）差异算法框架.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
 * [Dollar](https://github.com/ankurp/Dollar) - 类似于Javascript中的Lo-Dash或Underscore.
@@ -1441,7 +1442,7 @@
 * [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为所有Storyboard，Scenes和Segues常量+适当的便利访问器自动生成`enums`的工具.
 * [SwiftLinkPreview](https://github.com/LeonardoCardoso/SwiftLinkPreview) - 它从网址进行预览，抓取所有信息，如标题，相关文本和图像.
 * [SwiftRandom](https://github.com/thellimist/SwiftRandom) - 随机数据的微小发生器.
-* [SwiftRater](https://github.com/takecian/SwiftRater) - A utility that reminds your iPhone app's users to review the app.
+* [SwiftRater](https://github.com/takecian/SwiftRater) - 一个实用程序，可以提醒您的iPhone应用程序的用户查看该应用程序.
 * [SwiftTweaks](https://github.com/khan/swifttweaks) - 无需重新编译即可调整您的iOS应用.
 * [Swiftx](https://github.com/typelift/Swiftx) - 任何项目的功能数据类型和功能.
 * [SwiftyUtils](https://github.com/tbaranes/SwiftyUtils) - 我们在每个项目中需要的所有可重用代码.
