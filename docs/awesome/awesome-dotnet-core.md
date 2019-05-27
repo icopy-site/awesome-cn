@@ -737,11 +737,10 @@
   * [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - 具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序.
   * [GenVue](https://github.com/herbat73/GenVue) - 一个可托管的Web应用程序，允许机密用户上传和共享基于Vue.js，Vuetifyjs和NetCore WebAPI堆栈构建的私有文件
   * [guidance-identity-management-for-multitenant-apps](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - 如何使用Azure Active Directory进行身份验证，在Microsoft Azure上的多租户应用程序中管理用户身份.
-  * [JustA.ML](https://github.com/mustakimali/JustA.ML) - A web application that lets you share files/URL/text between your devices written in ASP.NET Core 2.0. Open source, live at [https://justa.ml](https://justa.ml)
+  * [JustA.ML](https://github.com/mustakimali/JustA.ML)   - 一个Web应用程序，允许您在使用ASP.NET Core 2.0编写的设备之间共享文件/ URL /文本.  开源，住在 [https://justa.ml](https://justa.ml)
   * [MegaMine](https://github.com/Nootus/MegaMine) - 开源挖掘解决方案，帮助矿工提取黄金，石英，花岗岩等.该解决方案使用ASP.NET Core和AngularJS以微服务方式利用多个轻量级组件构建.
   * [minicompiler](https://github.com/ealsur/minicompiler) - 缩小，捆绑和编译样本.
   * [MusicStore](https://github.com/aspnet/MusicStore) - 使用MVC和Entity Framework的示例MusicStore应用程序.
-  * [myFeed](https://github.com/worldbeater/myFeed)   - 为通用Windows平台构建的ReactiveUI应用程序示例.  使用PropertyChanged.Fody，DryIoc和Reactive Extensions演示MVVM模式和依赖注入的用法.
   * [NLayerAppV3](https://github.com/cesarcastrocuba/nlayerappv3) - 带有.NET Core Preview 2的NLayerAppV3 N层架构.
   * [NorthwindTraders](https://github.com/JasonGT/NorthwindTraders) -  Northwind Traders是使用ASP.NET Core和Entity Framework Core构建的示例应用程序.
   * [Orchard Core - Modular and Multi-tenant applications](https://github.com/OrchardCMS/OrchardCore.Samples) - 使用Orchard Core Framework创建模块化和多租户应用程序.

@@ -412,6 +412,7 @@
 - [Educational Games](https://github.com/yrgo/awesome-eg#readme) - 在比赛中学习.
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于CSS  - 语言和模块.
+- [Product Management](https://github.com/dend/awesome-product-management#readme) - 了解如何成为更好的产品经理.
 - [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供明确的途径，以提高您的知识和技能.
 
 

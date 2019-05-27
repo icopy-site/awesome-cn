@@ -36,6 +36,7 @@
 - [ffmpeg.js](https://github.com/Kagami/ffmpeg.js)   - 通过Emscripten将FFmpeg端口转换为JavaScript.  允许在客户端使用有限的FFmpeg.
 - [ffmpeg-static](https://github.com/eugeneware/ffmpeg-static)   - 为macOS，Linux和Windows提供静态FFmpeg二进制文件.  对CI测试非常有用.
 - [tangerine](https://github.com/niftylettuce/tangerine) - 使用Node.js，FFmpeg，WebSockets和Lad的网络摄像头流媒体服务.
+- [ffparser](https://github.com/NiKlimenko/FFParser) - 按帧将输入流直接解析为代码作为缓冲区.
 
 
 ## Native

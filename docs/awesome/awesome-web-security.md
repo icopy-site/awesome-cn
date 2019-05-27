@@ -11,11 +11,11 @@
 
 ---
 
-<p align="center"><b>🌈 Want to strengthen your penetration skills?</b><br>I would recommend playing some <a href="https://github.com/apsdehal/awesome-ctf" target="_blank">awesome-ctf</a>s.</p>
+<p align="center">  想加强你的渗透技能？ <br>  我建议玩一些<a href="https://github.com/apsdehal/awesome-ctf" target="_blank">很棒的ctf</a> . </p>
 
 ---
 
-如果您喜欢这个很棒的列表并想支持它，请查看我 [Patreon](https://www.patreon.com/boik)  页面:) <br>  另外，别忘了看看我 [repos](https://github.com/qazbnm456)  或者说我喜欢* hi * [Twitter](https://twitter.com/qazbnm456)!
+如果你喜欢这个很棒的列表，并想支持它，请查看我 [Patreon](https://www.patreon.com/boik)  页面:) <br>  另外，别忘了看看我 [repos](https://github.com/qazbnm456)  或者说我喜欢* hi * [Twitter](https://twitter.com/qazbnm456)!
 
 
 
@@ -188,6 +188,7 @@
 <a name="evasions-csp"></a>
 ### CSP
 
+- [Any protection against dynamic module import?](https://github.com/w3c/webappsec-csp/issues/243) - 写 [@shhnjk](https://twitter.com/@shhnjk).
 - [CSP: bypassing form-action with reflected XSS](https://labs.detectify.com/2016/04/04/csp-bypassing-form-action-with-reflected-xss/) - 写 [Detectify Labs](https://labs.detectify.com/).
 - [TWITTER XSS + CSP BYPASS](http://www.paulosyibelo.com/2017/05/twitter-xss-csp-bypass.html) - 写 [Paulos Yibelo](http://www.paulosyibelo.com/).
 - [Neatly bypassing CSP](https://lab.wallarm.com/how-to-trick-csp-in-letting-you-run-whatever-you-want-73cb5ff428aa) - 写 [Wallarm](https://wallarm.com/).
@@ -225,6 +226,8 @@
 <a name="tricks-rce"></a>
 ### Remote Code Execution
 
+- [WebLogic RCE (CVE-2019-2725) Debug Diary](https://paper.seebug.org/910/) - 由Badcode @ Knownsec 404团队撰写.
+- [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](https://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/) - 写 [@breenmachine](https://twitter.com/@breenmachine).
 - [Exploiting Node.js deserialization bug for Remote Code Execution](https://opsecx.com/index.php/2017/02/08/exploiting-node-js-deserialization-bug-for-remote-code-execution/) - 写 [OpSecX](https://opsecx.com/index.php/author/ajinabraham/).
 - [DRUPAL 7.X SERVICES MODULE UNSERIALIZE() TO RCE](https://www.ambionics.io/blog/drupal-services-module-rce) - 写 [Ambionics Security](https://www.ambionics.io/).
 - [How we exploited a remote code execution vulnerability in math.js](https://capacitorset.github.io/mathjs/) - 写 [@capacitorset](https://github.com/capacitorset).
@@ -238,6 +241,7 @@
 <a name="tricks-xss"></a>
 ### XSS
 
+- [XSS-Auditor — the protector of unprotected and the deceiver of protected.](https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b) - 写 [@terjanq](https://medium.com/@terjanq).
 - [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) - 写 [kenziy](https://hackerone.com/kenziy).
 - [ECMAScript 6 from an Attacker's Perspective - Breaking Frameworks, Sandboxes, and everything else](http://www.slideshare.net/x00mario/es6-en) - 写 [Mario Heiderich](http://www.slideshare.net/x00mario).
 - [How I found a $5,000 Google Maps XSS (by fiddling with Protobuf)](https://medium.com/@marin_m/how-i-found-a-5-000-google-maps-xss-by-fiddling-with-protobuf-963ee0d9caff#.u50nrzhas) - 写 [@marin_m](https://medium.com/@marin_m).
@@ -319,6 +323,7 @@
 
 ### Frontend (like SOP bypass, URL spoofing, and something like that)
 
+- [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/) - 写 [jameshfisher](https://jameshfisher.com/).
 - [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) - 写 [portswigger](https://portswigger.net/).
 - [IE11 Information disclosure - local file detection](https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater) - 由James Lee撰写.
 - [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) - 写 [Manuel](https://twitter.com/magicmac2000).
@@ -329,6 +334,7 @@
 
 ### Backend (core of Browser implementation, and often refers to C or C++ part)
 
+- [Breaking UC Browser](https://habr.com/en/company/drweb/blog/452076/) - 写 [Доктор Веб](https://www.drweb.ru/).
 - [Attacking JavaScript Engines - A case study of JavaScriptCore and CVE-2016-4622](http://www.phrack.org/papers/attacking_javascript_engines.html) - 写 [https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net](https://github.com/qazbnm456/awesome-web-security/blob/master/phrack@saelo.net).
 - [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) - 写 [Luke Viruswalker](http://blogs.360.cn/360safe/author/xsecure/).
 - [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - 写 [@halbecaf](https://twitter.com/halbecaf).
@@ -497,7 +503,7 @@
 ### Proxy
 
 - [Charles](https://www.charlesproxy.com/) -  HTTP代理/ HTTP监视器/反向代理，使开发人员能够查看其计算机和Internet之间的所有HTTP和SSL / HTTPS流量.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - 支持交互式TLS的拦截HTTP代理，用于渗透测试人员和软件开发人员 [@mitmproxy](https://github.com/mitmproxy).
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
 
 <a name="tools-webshell"></a>
 ### Webshell
@@ -531,7 +537,7 @@
 
 **使用风险自负**
 
-- [haveibeenpwned](https://haveibeenpwned.com/) - 检查您的帐户是否因数据泄露而受到损害 [Troy Hunt](https://www.troyhunt.com/).
+- [haveibeenpwned](https://haveibeenpwned.com/) - 检查您的帐户是否因数据泄露而遭到入侵 [Troy Hunt](https://www.troyhunt.com/).
 - [databases.today](https://www.databases.today/index.php) - 面向安全研究人员和记者的最大免费下载公共网站数据库集合 [@publicdbhost](https://twitter.com/publicdbhost).
 - [mysql-password](http://www.mysql-password.com/database/1) -  MySQL哈希数据库.
 
@@ -591,7 +597,7 @@
 <a name="practices-modsecurity"></a>
 ### ModSecurity / OWASP ModSecurity Core Rule Set
 
-- [ModSecurity / OWASP ModSecurity Core Rule Set](https://www.netnea.com/cms/apache-tutorials/) - 一系列安装，配置和调整ModSecurity和核心规则集的教程 - 撰写者 [@ChrFolini](https://twitter.com/ChrFolini).
+- [ModSecurity / OWASP ModSecurity Core Rule Set](https://www.netnea.com/cms/apache-tutorials/) - 用于安装，配置和调整ModSecurity和核心规则集的系列教程 - 撰写者 [@ChrFolini](https://twitter.com/ChrFolini).
 
 ## Community
 
@@ -625,6 +631,7 @@
 - [Finding The Real Origin IPs Hiding Behind CloudFlare or TOR](https://www.secjuice.com/finding-real-ips-of-origin-servers-behind-cloudflare-or-tor/) - 写 [Paul Dannewitz](https://www.secjuice.com/author/paul-dannewitz/).
 - [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob?fbclid=IwAR0BQ7RmYGzQzsL33IJ2LM7lmlH0OSuIuxKLebUUBi1D51R-9UOnHrW0DQg) - 写 [@AntoGarand](https://twitter.com/AntoGarand).
 - [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) - 写 [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
+- [An example why NAT is NOT security](https://0day.work/an-example-why-nat-is-not-security/) - 写 [@0daywork](https://twitter.com/@0daywork).
 
 ## Code of Conduct
 

@@ -76,6 +76,7 @@
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/core/get-started/raspberry-pi-2-3) - 物联网的官方（最小）Ubuntu分发. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [TrueOS](https://www.trueos.org/handbook/pico.html) - 基于FreeBSD的瘦客户端解决方案. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - 基于MATE桌面的Raspberry Pi的Ubuntu发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
+- [Ubuntu Server](https://www.ubuntu.com/download/iot/raspberry-pi-2-3) -  Raspberry Pi的Ubuntu Server分发版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png) ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Volumio](https://volumio.org/) - 无头音响发烧友音乐播放器，旨在以最高保真度播放音乐.
 - [Windows 10 IoT Core](https://docs.microsoft.com/nl-nl/windows/iot-core/downloads) - 物联网的Windows 10发行版. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 

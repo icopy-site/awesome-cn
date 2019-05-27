@@ -111,6 +111,7 @@
 - [SequelPro](https://github.com/sequelpro/sequelpro) - 用于处理MySQL数据库的Mac数据库管理应用程序.
 - [SQLyog Community edition](https://github.com/webyog/sqlyog-community/wiki/Downloads)   -  SQLyog社区版.  对于Windows，在Mac和Linux下使用葡萄酒可以正常工作
 - [DBeaver](https://github.com/dbeaver/dbeaver) - 跨平台的SQL和NoSQL数据库客户端.
+- [OmniDB/OmniDB: Web tool for database management](https://github.com/OmniDB/OmniDB)
 
 ## HA
 
