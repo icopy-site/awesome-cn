@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="30-seconds/30-seconds-of-code"></div>
-[![Logo](/logo.png)](https://30secondsofcode.org/)
+[![Logo](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//logo.png)](https://30secondsofcode.org/)
 
 ## 30 seconds of code
 
@@ -9,10 +9,10 @@
 
 &gt;精选的有用JavaScript代码段集合，您可以在30秒或更短的时间内理解这些代码段.
 
-[![Sponsored by DigitalOcean](/sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
+[![Sponsored by DigitalOcean](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
 
 *使用<kbd>Ctrl</kbd> + <kbd>F</kbd>或<kbd>命令</kbd> + <kbd>F</kbd>搜索片段.
-*欢迎提供，请阅读 [contribution guide](CONTRIBUTING.md).
+*欢迎提供，请阅读 [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
 *片段是用ES6编写的，使用 [Babel transpiler](https://babeljs.io/) 确保向后兼容性.
 *您可以按照找到的说明将这些片段导入VSCode [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 *您可以使用CLI中的CLI应用程序从终端搜索，查看和复制这些代码段 [this repo](https://github.com/sQVe/30s).
@@ -202,7 +202,7 @@ const call =（key，https：//github.com/30-seconds/30-seconds-of-code/blob/mas
 Promise.resolve（[1,2,3]）
   .then（call（&#39;map&#39;，x =&gt; 2 * x））
    .然后（的console.log）;  // [2,4,6]
-const map = call.bind（null，&#39;map&#39;）;
+const map = call.bind(null, 'map');
 Promise.resolve（[1,2,3]）
   .then（map（x =&gt; 2 * x））
    .然后（的console.log）;  // [2,4,6]
@@ -289,7 +289,7 @@ const minMax = over（Math.min，Math.max）;
 使用`Array.prototype.map（）`将`transforms`与`args`结合使用扩展运算符（`...`），将转换后的参数传递给`fn`.
 
 ```js
-const overArgs =（fn，transforms）=&gt;（... args）=&gt; fn（... args.map（（val，i）=&gt;变换[i](val)));
+const overArgs =（fn，transforms）=&gt;（... args）=&gt; fn（... args.map（（https://github.com/30-seconds/30-seconds-of-code/blob/ master / val，i）=&gt;变换[i](https://github.com/30-seconds/30-seconds-of-code/blob/master/val)));
 ```
 
 <details>
@@ -510,7 +510,7 @@ const allEqual = arr =&gt; arr.every（val =&gt; val === arr [0]）;
 省略第二个参数`fn`，使用`Boolean`作为默认值.
 
 ```js
-const any = (arr, fn = Boolean) => arr.some(fn);
+const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
 ```
 
 <details>
@@ -555,7 +555,7 @@ const arrayToCSV =（arr，delimiter =&#39;，&#39;）=&gt;
 
  将值拆分为两组.  如果`filter`中的元素是真实的，则集合中的对应元素属于第一组;  否则，它属于第二组.
 
-Use `Array.prototype.reduce()` and `Array.prototype.push()` to add elements to groups, based on `filter`.
+使用`Array.prototype.reduce（）`和`Array.prototype.push（）`基于`filter`向组添加元素.
 
 ```js
 const bifurcate =（arr，filter）=&gt;
@@ -713,7 +713,7 @@ const deepFlatten = arr =&gt; [] .concat（... arr.map（v =&gt;（Array.isArray
 从`b`创建一个`Set`，然后在`a`上使用`Array.prototype.filter（）`来保留不包含在`b`中的值.
 
 ```js
-const difference = (a, b) => {
+const差异=（a，b）=&gt; {
   const s = new Set（b）;
   return a.filter（x =&gt;！s.has（x））;
 };
@@ -1337,7 +1337,7 @@ isSorted常量= ARR =&gt; {
   let direction =  - （arr [0]  -  arr [1]）;
   for（let [i，val] of arr.entries（））{
      方向=！方向？   - （arr [i  -  1]  -  arr [i]）：方向;
-     if（i === arr.length  -  1）返回！方向？  0：方向;
+    if (i === arr.length - 1) return !direction ? 0 : direction;
     否则if（（val  -  arr [i + 1]）* direction&gt; 0）返回0;
   }
 };
@@ -1929,7 +1929,7 @@ const remove =（arr，func）=&gt;
 此方法也适用于字符串.
 
 ```js
-const sample = arr =&gt; arr [Math.floor（Math.random（）* arr.length）];
+const sample = arr => arr[Math.floor(Math.random() * arr.length)];
 ```
 
 <details>
@@ -2177,7 +2177,7 @@ const stableSort =（arr，compare）=&gt;
 <summary>Examples</summary>
 
 ```js
-const arr = [0,1,2,3,4,5,6,7,8,9,10];
+const arr = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
  const stable = stableSort（arr，（）=&gt; 0）;  // [0,1,2,3,4,5,6,7,8,9,10]
 ```
 
@@ -2869,7 +2869,7 @@ const copyToClipboard = str =&gt; {
 省略第五个参数`duration`，使用默认的持续时间`2000`ms.
 
 ```js
-const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
+const counter = (selector, start, end, step = 1, duration = 2000) => {
   让current = start，
      _step =（结束 - 开始）*步&lt;0？  -step：step，
     timer = setInterval（（）=&gt; {
@@ -2997,7 +2997,7 @@ const currentURL =（）=&gt; window.location.href;
 
 ### detectDeviceType
 
-检测网站是否在移动设备或台式机/笔记本电脑中打开.
+检测网站是在移动设备还是台式机/笔记本电脑中打开.
 
 使用正则表达式测试`navigator.userAgent`属性，以确定设备是移动设备还是台式机/笔记本电脑.
 
@@ -3881,7 +3881,7 @@ const getColonTimeFromDate = date =&gt; date.toTimeString（）.slice（0,8）;
 
 ```js
 const getDaysDiffBetweenDates =（dateInitial，dateFinal）=&gt;
-  （dateFinal  -  dateInitial）/（1000 * 3600 * 24）;
+  （日期最终 - 初始日期）/（1000 * 3600 * 24）;
 ```
 
 <details>
@@ -4213,6 +4213,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -4473,7 +4474,7 @@ const sumReduce =（）=&gt; numbers.reduce（（acc，n）=&gt; acc + n，0）;
 const sumForLoop =（）=&gt; {
   设sum = 0;
   for（let i = 0; i &lt;numbers.length; i ++）sum + = numbers [i];
-  return sum;
+  回报;
 };
 
 //`sumForLoop`快了近10倍
@@ -4779,7 +4780,7 @@ const unfold =（fn，seed）=&gt; {
 <summary>Examples</summary>
 
 ```js
-f = n =&gt;（n&gt; 50？假：[ -  n，n + 10]）;
+var f = n =&gt;（n&gt; 50？false：[ -  n，n + 10]）;
  展开（f，10）;  // [-10，-20，-30，-40，-50]
 ```
 
@@ -4872,7 +4873,7 @@ const averageBy =（arr，fn）=&gt;
 
 ```js
  averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 5
- averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 5
+averageBy([{ n: 4 }, { n: 2 }, { n: 8 }, { n: 6 }], 'n'); // 5
 ```
 
 </details>
@@ -5116,7 +5117,7 @@ const gcd =（... arr）=&gt; {
 <summary>Examples</summary>
 
 ```js
-gcd(8, 36); // 4
+ gcd（8,36）;  // 4
  gcd（...... [12,8,32]）;  // 4
 ```
 
@@ -5762,7 +5763,7 @@ const sumPower =（end，power = 2，start = 1）=&gt;
 
 ```js
 const toSafeInteger = num =&gt;
-  Math.round(Math.max(Math.min(num, Number.MAX_SAFE_INTEGER), Number.MIN_SAFE_INTEGER));
+  Math.round（Math.max（Math.min（num，Number.MAX_SAFE_INTEGER），Number.MIN_SAFE_INTEGER））;
 ```
 
 <details>
@@ -6242,7 +6243,7 @@ bindAll（view，&#39;click&#39;）;
 
 ```js
 const deepClone = obj =&gt; {
-  let clone = Object.assign({}, obj);
+  let clone = Object.assign（{}，obj）;
   Object.keys（克隆）.forEach（
     key =&gt;（clone [key] = typeof obj [key] ===&#39;object&#39;？deepClone（obj [key]）：obj [key]）
   );
@@ -7072,7 +7073,7 @@ const pickBy =（obj，fn）=&gt;
 ```js
 const renameKeys =（keysMap，obj）=&gt;
   Object.keys（OBJ）.降低（
-    (acc, key) => ({
+    （acc，key）=&gt;（{
       ... ACC，
       ...{ [keysMap[key] || key]: obj[key] }
     }),
@@ -7724,7 +7725,7 @@ const pluralize =（val，word，plural = word +&#39;s&#39;）=&gt; {
 
 const PLURALS = {
   人：&#39;人&#39;，
-  radius: 'radii'
+  半径：&#39;半径&#39;
 };
 const autoPluralize = pluralize（PLURALS）;
  autoPluralize（2，&#39;person&#39;）;  //&#39;人&#39;
@@ -7878,7 +7879,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7905,10 +7906,10 @@ const toCamelCase = str =&gt; {
 将字符串分解为单词并将它们组合使用regexp将`-`添加为分隔符.
 
 ```js
-const toKebabCase = str =&gt;
+const toKebabCase = str =>
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7937,7 +7938,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7965,7 +7966,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8541,7 +8542,7 @@ const castArray = val =&gt;（Array.isArray（val）？val：[val]）;
 
 克隆正则表达式.
 
-使用`new RegExp（）`，`RegExp.source`和`RegExp.flags`来克隆给定的正则表达式.
+Use `new RegExp()`, `RegExp.source` and `RegExp.flags` to clone the given regular expression.
 
 ```js
 const cloneRegExp = regExp =&gt; new RegExp（regExp.source，regExp.flags）;
@@ -8637,7 +8638,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice
     {}
   );
 ```
@@ -8704,7 +8705,7 @@ Use [`XMLHttpRequest`](https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpR
 ```js
 const httpGet =（url，callback，err = console.error）=&gt; {
   const request = new XMLHttpRequest（）;
-  request.open（&#39;GET&#39;，url，true）;
+  request.open('GET', url, true);
   request.onload =（）=&gt; callback（request.responseText）;
   request.onerror =（）=&gt; err（request）;
   request.send（）;
@@ -9101,7 +9102,7 @@ const toOrdinalSuffix = num =&gt; {
 
 如果给定值是数字，则返回“true”，否则返回“false”.
 
-Use `!isNaN()` in combination with `parseFloat()` to check if the argument is a number.
+将`！isNaN（）`与`parseFloat（）`结合使用来检查参数是否为数字.
 使用`isFinite（）`来检查数字是否有限.
 使用`Number（）`来检查强制是否成立.
 

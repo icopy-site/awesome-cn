@@ -85,6 +85,7 @@
 - [react-hooks-screen-type](https://github.com/pankod/react-hooks-screen-type) - 确定Bootstrap 4网格的屏幕大小类型.
 - [use-http](https://github.com/alex-cory/react-usefetch) - 用于制作同构HTTP请求的React钩子.
 - [react-fetch-hook](https://github.com/ilyalesik/react-fetch-hook) -  React hook，方便使用Fetch API.
+- [storeon](https://github.com/storeon/storeon) - 基于钩子的状态管理器，173字节.
 
 ## License
 

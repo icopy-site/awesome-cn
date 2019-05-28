@@ -54,7 +54,7 @@
 
 *连接数据库的客户*
 
-*关系数据库
+* Relational Databases
   * [JDBC](https://raw.githubusercontent.com/vert-x3/vertx-jdbc-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 围绕JDBC数据源的异步接口.
   * [MySQL / PostgreSQL](https://raw.githubusercontent.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  MySQL / PostgreSQL的异步客户端.
   * [PostgreSQL](https://github.com/vietj/reactive-pg-client) - 反应性PostgreSQL客户端.
@@ -145,6 +145,7 @@
 * [Python](https://github.com/vert-x3/vertx-lang-python) -  Python支持.
 * [TypeScript](https://github.com/michel-kraemer/vertx-lang-typescript) -  TypeScript支持.
 * [EcmaScript](https://github.com/reactiverse/es4x) -  EcmaScript&gt; = 6（JavaScript）支持.
+* [Php](https://github.com/vert-x-cn/vertx-lang-jphp) -  Php支持.
 
 *语言扩展*
 
@@ -258,7 +259,7 @@
 * [Vert.x Todo-Backend implementation](https://github.com/aesteve/todo-backend-vertx)   -  Todo MVC后端的纯Java 8实现.  使用Vert.x LocalMap进行存储.
 * [Kotlin Todo-Backend implementation](https://github.com/aesteve/vertx-kotlin-todomvc) -  Kotlin实现了Todo MVC后端.
 * [Scala Todo-Backend implementation](https://github.com/aesteve/vertx-scala-todomvc) -  Scala实现Todo MVC后端.
-* [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
+* [Grooveex Todo-Backend implementation](https://github.com/aesteve/todo-backend-grooveex) - 使用Vert.x + Groovy +一些语法糖+ DSL路由设施的Todo MVC后端实现.
 * [Vert.x Gradle Starter](https://github.com/yyunikov/vertx-gradle-starter) -  Java 8入门应用程序，其中包含使用Vert.x和Gradle构建系统，配置文件配置和SLF4J的示例.
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) - 有关如何使用Gentics Mesh和把手构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) - 一个简单的演示，展示了当涉及巨大的延迟时，HTTP / 2如何能够显着改善用户体验.

@@ -36,7 +36,7 @@
 
 *音频
     * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
-    * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹识别和识别.
+    * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
     * [mingus](http://bspaans.github.io/python-mingus/) - 具有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音频特征提取，分类，分割和应用.
     * [pydub](https://github.com/jiaaro/pydub) - 使用简单易用的高级界面处理音频.
@@ -143,10 +143,11 @@
     * [docopt](http://docopt.org/) -  Pythonic命令行参数解析器.
     * [python-fire](https://github.com/google/python-fire) - 用于从绝对任何Python对象创建命令行界面的库.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 用于构建强大的交互式命令行的库.
-*终端渲染
+* Terminal Rendering
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - 用于创建全屏文本UI的包（从交互式表单到ASCII动画）.
     * [bashplotlib](https://github.com/glamp/bashplotlib) - 在终端中制作基本图.
     * [colorama](https://pypi.org/project/colorama/) - 跨平台彩色终端文本.
+    * [tqdm](https://github.com/tqdm/tqdm) - 用于循环和CLI的快速，可扩展的进度条.
 
 ## Command-line Tools
 
@@ -201,7 +202,7 @@
 
 * [configobj](https://github.com/DiffSK/configobj) - 带验证的INI文件解析器.
 * [configparser](https://docs.python.org/3/library/configparser.html) - （Python标准库）THIS文件是一个解析器.
-* [profig](https://profig.readthedocs.io/en/default/) - Config from multiple formats with value conversion.
+* [profig](https://profig.readthedocs.io/en/default/) - 通过价值转换配置多种格式.
 * [python-decouple](https://github.com/henriquebastos/python-decouple) - 严格地将设置与代码分开.
 
 ## Cryptography
@@ -227,8 +228,6 @@
 
 * [Cerberus](https://github.com/pyeve/cerberus) - 轻量级和可扩展的数据验证库.
 * [colander](https://docs.pylonsproject.org/projects/colander/en/latest/) - 验证和反序列化通过XML，JSON，HTML表单帖子获得的数据.
-* [Dash](https://plot.ly/products/dash/) - 建立在Flask之上，React和Plotly针对分析Web应用程序.
-    * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [jsonschema](https://github.com/Julian/jsonschema) - 执行 [JSON Schema](http://json-schema.org/) 对于Python.
 * [schema](https://github.com/keleshev/schema) - 用于验证Python数据结构的库.
 * [Schematics](https://github.com/schematics/schematics) - 数据结构验证.
@@ -242,6 +241,8 @@
 * [Altair](https://github.com/altair-viz/altair) - 用于Python的声明性统计可视化库.
 * [Bokeh](https://github.com/bokeh/bokeh) - 用于Python的交互式Web绘图.
 * [bqplot](https://github.com/bloomberg/bqplot) -  Jupyter笔记本的交互式绘图库
+* [Dash](https://plot.ly/products/dash/) - 建立在Flask之上，React和Plotly针对分析Web应用程序.
+    * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [ggplot](https://github.com/yhat/ggpy) - 与ggplot2相同的API用于R.
 * [Matplotlib](http://matplotlib.org/) -  Python 2D绘图库.
 * [Pygal](http://www.pygal.org/en/latest/) -  Python SVG Charts Creator.
@@ -322,7 +323,7 @@
     * [icecream](https://github.com/gruns/icecream) - 通过一个简单的函数调用检查变量，表达式和程序执行.
     * [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar) - 显示Django的各种调试信息.
     * [django-devserver](https://github.com/dcramer/django-devserver) -  Django的runserver的替代品.
-    * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - A port of the django-debug-toolbar to flask.
+    * [flask-debugtoolbar](https://github.com/mgood/flask-debugtoolbar) - 烧瓶的django-debug-toolbar的一个端口.
     * [pyelftools](https://github.com/eliben/pyelftools) - 解析和分析ELF文件和DWARF调试信息.
 
 ## Deep Learning
@@ -358,7 +359,7 @@
 
 *分布式计算的框架和库.*
 
-* 批量处理
+* Batch Processing
     * [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
     * [dask](https://github.com/dask/dask) - 用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) - 一个模块，可帮助您构建批处理作业的复杂管道.
@@ -558,7 +559,7 @@
 
 ## HTTP Clients
 
-*使用HTTP的库.*
+*Libraries for working with HTTP.*
 
 * [grequests](https://github.com/kennethreitz/grequests) - 请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) - 全面的HTTP客户端库.
@@ -573,7 +574,7 @@
 * [ino](http://inotool.org/) - 用于处理的命令行工具包 [Arduino](https://www.arduino.cc/).
 * [keyboard](https://github.com/boppreh/keyboard) - 在Windows和Linux上挂钩并模拟全局键盘事件.
 * [mouse](https://github.com/boppreh/mouse) - 在Windows和Linux上挂钩并模拟全局鼠标事件.
-* [Pingo](http://www.pingo.io/) -  Pingo为Raspberry Pi，pcDuino，Intel Galileo等程序设备提供统一的API.
+* [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - 用于鼠标和键盘的跨平台控制的模块.
 * [scapy](https://github.com/secdev/scapy) - 精彩的数据包操作库.
 * [wifi](https://github.com/rockymeza/wifi) - 用于在Linux上使用WiFi的Python库和命令行工具.
@@ -608,7 +609,7 @@
 * [MicroPython](https://github.com/micropython/micropython) - 精简高效的Python编程语言实现.
 * [Numba](http://numba.pydata.org/) - 针对科学Python的Python JIT编译器到LLVM.
 * [PeachPy](https://github.com/Maratyszcza/PeachPy) - 嵌入在Python中的x86-64汇编程序.
-* [Pyjion](https://github.com/Microsoft/Pyjion) - A JIT for Python based upon CoreCLR.
+* [Pyjion](https://github.com/Microsoft/Pyjion) - 基于CoreCLR的Python JIT.
 * [PyPy](https://bitbucket.org/pypy/pypy) - 一种非常快速且兼容的Python语言实现.
 * [Pyston](https://github.com/dropbox/pyston) - 使用JIT技术的Python实现.
 * [Stackless Python](https://github.com/stackless-dev/stackless) -  Python编程语言的增强版本.
@@ -649,7 +650,7 @@
 *用于生成和处理日志的库.*
 
 * [Eliot](https://github.com/ScatterHQ/eliot) - 记录复杂和分布式系统.
-* [logbook](http://logbook.readthedocs.io/en/stable/) - 记录Python的替代品.
+* [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
 * [logging](https://docs.python.org/3/library/logging.html) - （Python标准库）Python的日志记录工具.
 * [raven](https://github.com/getsentry/raven-python) - 用于Sentry的Python客户端，用于Web应用程序的日志/错误跟踪，崩溃报告和聚合平台.
 
@@ -763,7 +764,7 @@
 *本地PyPI存储库服务器和代理.*
 
 * [warehouse](https://github.com/pypa/warehouse) - 下一代Python包存储库（PyPI）.
-* [bandersnatch](https://github.com/pypa/bandersnatch/) -  Python Packaging Authority（PyPA）提供的PyPI镜像工具.
+* [bandersnatch](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
 * [devpi](https://github.com/devpi/devpi) -  PyPI服务器和打包/测试/发布工具.
 * [localshop](https://github.com/jazzband/localshop) - 本地PyPI服务器（自定义包和pypi的自动镜像）.
 
@@ -812,7 +813,7 @@
     * [django-rest-framework](http://www.django-rest-framework.org/) - 构建Web API的强大而灵活的工具包.
     * [django-tastypie](http://tastypieapi.org/) - 为Django应用程序创建美味的API.
 * 烧瓶
-    * [eve](https://github.com/pyeve/eve) - REST API framework powered by Flask, MongoDB and good intentions.
+    * [eve](https://github.com/pyeve/eve) - 由Flask，MongoDB和良好意图提供支持的REST API框架.
     * [flask-api-utils](https://github.com/marselester/flask-api-utils) - 负责Flask的API表示和身份验证.
     * [flask-api](http://www.flaskapi.org/) -  Flask的可浏览Web API.
     * [flask-restful](https://github.com/flask-restful/flask-restful) - 快速为Flask构建REST API.
@@ -941,7 +942,7 @@
 *用于模板和lexing的库和工具.*
 
 * [Jinja2](https://github.com/pallets/jinja) - 现代和设计师友好的模板语言.
-* [Genshi](https://genshi.edgewall.org/) - Python templating toolkit for generation of web-aware output.
+* [Genshi](https://genshi.edgewall.org/) - 用于生成Web感知输出的Python模板工具包.
 * [Mako](http://www.makotemplates.org/) -  Python平台的超高速和轻量级模板.
 
 ## Testing
@@ -1070,7 +1071,7 @@
 
 * [html2text](https://github.com/Alir3z4/html2text) - 将HTML转换为Markdown格式的文本.
 * [python-readability](https://github.com/buriy/python-readability) -  arc90可读性工具的快速Python端口.
-* [requests-html](https://github.com/kennethreitz/requests-html) - 用于人类的Pythonic HTML解析.
+* [requests-html](https://github.com/kennethreitz/requests-html) - 用于人类的Pythonic HTML解析。
 * [sumy](https://github.com/miso-belica/sumy) - 用于自动汇总文本文档和HTML页面的模块.
 * [textract](https://github.com/deanmalmgren/textract) - 从任何文档，Word，PowerPoint，PDF等中提取文本.
 * [toapi](https://github.com/gaojiuli/toapi) - 每个网站都提供API.

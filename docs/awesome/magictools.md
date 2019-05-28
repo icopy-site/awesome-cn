@@ -33,7 +33,7 @@ Graphics
 *：money_with_wings： [CGTextures](http://www.textures.com) - 大量纹理.
 *：money_with_wings： [GameDev Market](https://www.gamedevmarket.net/) - 一个社区驱动的市场，将独立游戏开发者与才华横溢的资产创造者联系起来.
 * ：自由： [Games-Icons Set](http://game-icons.net/) - 免费图标为您的游戏.
-* ：自由： [Google Poly](https://poly.google.com/) - Searchable database of 3D models with rotatable previews. (Only remixable models are downloadable.)
+* ：自由： [Google Poly](https://poly.google.com/)   - 可搜索的具有可旋转预览的3D模型数据库.  （只能下载可混音的型号.）
 * ：自由： [Iconmonstr](http://iconmonstr.com/) - 您游戏的另一个免费图标资源.
 *：money_with_wings： [Kenney Assets](http://kenney.nl/assets) - 免版税资产
 * ：自由： [Liberated Pixel Cup assets](http://lpc.opengameart.org) -  OpenGameArt论坛举办的Liberated Pixel Cup（LPC）的免费图形资产
@@ -67,7 +67,7 @@ Graphics
 * ：自由： [PNGGauntlet](http://pnggauntlet.com/) - 为更快的网站粉碎PNG
 * ：自由： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - 用于批量转换的Windows GUI.
 *：那么： [Pngyu](http://nukesaq88.github.io/Pngyu/) - 简单的PNG图像文件压缩工具.
-*：那么： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)   -  Mac和Windows.  与“为Web节省”的比较
+*：那么： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
 *：money_with_wings： [TinyPNG](https://tinypng.com/) -  PNG图像的高级有损压缩，可保持完整的Alpha透明度.
 
 #### Texture Tools
@@ -205,6 +205,7 @@ Code
 *：那么： [GB Studio](https://www.gbstudio.dev/) - 免费且易于使用的复古冒险游戏创建者，为您最喜爱的手持视频游戏系统.
 *：那么： [ggez](http://ggez.rs/) -  Rust库，轻松创建好游戏.
 *：那么： [Gideros](http://giderosmobile.com/) - 使用Lua编程语言为iOS，Android创建移动应用和游戏的跨平台框架.
+*：那么： [Glide Engine](https://github.com/cocoatoucher/Glide) - 使用Swift编程语言在iOS，macOS和tvOS上制作2D游戏的引擎，以及实用示例和教程.
 *：那么： [Godot](http://www.godotengine.org/) - 先进的，功能丰富的多平台2D和3D开源游戏引擎.
 * [Grid](http://www.planimeter.org/grid-sdk/) -  Lua游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) - 跨平台游戏引擎，提供功能强大且通用的多平台运行时技术.

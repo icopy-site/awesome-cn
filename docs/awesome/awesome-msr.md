@@ -37,6 +37,7 @@
 - [Enron Spreadsheets and Emails](https://figshare.com/articles/Enron_Spreadsheets_and_Emails/1221767) - “安然的电子表格和相关电子邮件：数据集与分析”一文中使用的所有电子表格和电子邮件.
 - [Findbugs-maven](https://github.com/istlab/maven_bug_catalog) - 针对Java项目的FindBugs报告集 [Maven repository](https://maven.apache.org).
 - [GHTorrent](http://ghtorrent.org/) - 通过GitHub REST API提供的可扩展，可查询，离线的数据镜像.
+- [GitHub Bug Dataset](http://www.inf.u-szeged.hu/~ferenc/papers/GitHubBugDataSet/) - 以静态源代码度量为特征的15个Java开源项目的Bug数据集.
 - [GitHub on Google BigQuery](https://cloud.google.com/bigquery/public-data/github) - 可通过Google的BigQuery平台访问GitHub数据.
 - [KaVE](http://www.kave.cc/datasets) - 开发人员工具交互数据.
 - [Maven metrics](https://github.com/bkarak/data_msr2015) - 收集软件复杂性和规模调整指标 [Maven Repository](https://maven.apache.org).

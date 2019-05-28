@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/DanailMinchev/awesome-eosio/master/eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
 
-> A curated list of awesome [EOSIO](https://eos.io/) 用户和开发人员的资源.
+&gt;精选的精选列表 [EOSIO](https://eos.io/) 用户和开发人员的资源.
 
 <p>
   EOSIO是分布式应用程序和开源智能合约平台最强大的基础架构.
@@ -108,7 +108,7 @@ EOSIO学习资源.
 
 - [EOS Portal](https://eosportal.io/chain/12/producers)   - 第一个EOSIO社区投票门户网站.  分散友好.
 - [EOS Network Monitor](http://eosnetworkmonitor.io/)   - “CryptoLions”的EOSIO网络监视器.  对开发人员有用.  分散友好.
-- [eosflare](https://eosflare.io/) - 热门的块浏览器包括资源统计，最新的个人资料操作以及有关“热门名称投标”和“最佳选民”的统计信息.
+- [eosflare](https://eosflare.io/) - 热门的块浏览器包括资源统计，最新的个人资料行动以及有关“热门名称投标”和“最佳选民”的统计数据.
 - [EOS Tracker](https://eostracker.io/) - 开源块浏览器包括生产者信息和帐户信息.
   - [EOSEssentials/EOSTracker](https://github.com/EOSEssentials/EOSTracker) - 官方GitHub.
 - [EOSpark](https://eospark.com/) - 第一个块探测器之一包括各种统计和浏览Jungle Testnet的能力，这对开发人员很有用.
@@ -140,7 +140,9 @@ EOSIO学习资源.
 
 #### API libraries
 
-- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - 官方JavaScript库.
+- [EOSIO/eosjs](https://github.com/EOSIO/eosjs) - 官方JavaScript SDK.
+- [EOSIO/eosio-java](https://github.com/EOSIO/eosio-java) - 官方Java SDK.
+- [EOSIO/eosio-swift](https://github.com/EOSIO/eosio-swift) - 官方Swift SDK.
 - [EOS.IO Go API library](https://github.com/eoscanada/eos-go) - 去图书馆.
 - [EOS Java API Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) -  Java库.
 - [eosnet](https://github.com/SNIKO/eosnet) -  .NET库.
@@ -336,5 +338,5 @@ EOSIO叉子.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内， [Danail Minchev](https://github.com/DanailMinchev) 已放弃所有版权和
+在法律允许的范围内， [Danail Minchev](https://github.com/DanailMinchev) has waived all copyright and
 相关或相邻的权利.

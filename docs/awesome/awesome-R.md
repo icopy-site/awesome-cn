@@ -172,6 +172,7 @@
 ## Reproducible Research
 *用于文化编程和可重复工作流程的软件包.*
 
+* [redoc](https://github.com/noamross/redoc) - 可逆的可再生文件
 * [tinytex](https://github.com/yihui/tinytex) - 轻巧且易于维护的LaTeX发行版
 * [xtable](http://cran.r-project.org/web/packages/xtable/index.html) - 将表导出为LaTeX或HTML.
 * [rapport](http://rapport-package.info/#intro) - 一个R模板系统.
@@ -200,7 +201,7 @@
 * [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - 用于R处理并发调用的HTTP API，基于Apache2 Web服务器，将R代码公开为REST Web服务并创建完整大小的多页Web应用程序.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - 通过R访问Facebook API.
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - 用于Adobe Analytics的R客户端库.
-* [plumber](https://github.com/trestletech/plumber) - 将现有R代码公开为Web API的库.
+* [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
 
 ## Parallel Computing
 *并行计算包.*
@@ -308,7 +309,7 @@ covariates
 * [h2o <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/h2o/index.html) -  Deeplearning，Random forest，GBM，KMeans，PCA，GLM
 * [hda](http://cran.r-project.org/web/packages/hda/index.html) - 异方差判别分析
 * [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - 改进的预测因子
-* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) -  kernlab：基于内核的机器学习实验室
+* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
 * [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - 分类和可视化
 * [kohonen](http://cran.r-project.org/web/packages/kohonen/) - 有监督和无监督的自组织地图.
 * [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - 用于最佳子集选择的快速算法
@@ -342,7 +343,7 @@ models
 * [REEMtree](http://cran.r-project.org/web/packages/REEMtree/index.html) - 纵向随机效应的回归树（面板）
 Data
 * [relaxo](http://cran.r-project.org/web/packages/relaxo/index.html) - 轻松的套索
-* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - R version of GENetic Optimization Using Derivatives
+* [rgenoud](http://cran.r-project.org/web/packages/rgenoud/index.html) - 使用衍生物进行GENetic优化的R版本
 * [rgp](http://cran.r-project.org/web/packages/rgp/index.html) -  R遗传编程框架
 * [Rmalschains](http://cran.r-project.org/web/packages/Rmalschains/index.html) - 使用Memetic算法和局部连续优化
 在R中搜索链（MA-LS-Chains）
@@ -410,6 +411,7 @@ Data
 *处理钱的包裹.*
 
 * [quantmod <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://www.quantmod.com/) -  R的定量财务建模和交易框架
+* [pedquant](http://pedquant.com/) - 公共经济数据和定量分析
 * [TTR](http://cran.r-project.org/web/packages/TTR/index.html) - 用R构建技术交易规则的功能和数据
 * [PerformanceAnalytics](http://cran.r-project.org/web/packages/PerformanceAnalytics/index.html) - 用于绩效和风险分析的计量经济学工具.
 * [zoo <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/zoo/index.html) - 常规和不规则时间序列的S3基础设施.
@@ -417,7 +419,6 @@ Data
 * [tseries](http://cran.r-project.org/web/packages/tseries/index.html) - 时间序列分析和计算金融.
 * [fAssets](http://cran.r-project.org/web/packages/fAssets/index.html) - 分析和建模金融资产.
 * [scorecard](https://github.com/ShichenXie/scorecard) - 信用风险记分卡
-* [pedquant](http://pedquant.com/) - 公共经济数据和定量分析
 
 ## Bioinformatics and Biostatistics
 *用于处理生物数据集的包.*

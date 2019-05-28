@@ -177,7 +177,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Duplicate Package Checker Webpack Plugin](https://github.com/darrenscerri/duplicate-package-checker-webpack-plugin) - 当您的捆绑包中存在多个版本的同一个包时警告您 -  *维护者*：`Darren Scerri` [！[Github] [githubicon]]（https://github.com/darrenscerri）
 - [PurgeCSS Webpack Plugin](https://github.com/FullHuman/purgecss-webpack-plugin) - 用purgecss删除未使用的css的插件 -  * Maintainer *：`Floriel Fedry` [！[Github] [githubicon]]（https://github.com/Ffloriel）
 - [Circular Dependency Plugin](https://github.com/aackerman/circular-dependency-plugin) - 捆绑时检测具有循环依赖关系的模块 -  * Maintainer *：`Aaron Ackerman` [！[Github] [githubicon]]（https://github.com/aackerman）
-- [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin) - A webpack plugin to dynamically inject code into the bundle. -- *Maintainer*: `Adam Dierkens` [![Github][githubicon]](https://github.com/adierkens)
+- [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin)   - 一个webpack插件，用于动态地将代码注入到bundle中.   -  * Maintainer *：`Adam Dierkens` [！[Github] [githubicon]]（https://github.com/adierkens）
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) - 在运行时控制动态加载资源的`publicPath`  -  * Maintainer *：`Andrew Goldis` [！[Github] [githubicon]]（https://github.com/agoldis）
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier)   - 显示构建错误和警告的操作系统级别通知.   -  *维护者*：`Rocco Cataldo` [！[Github] [githubicon]]（https://github.com/roccoc）
 - [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 开发Chrome扩展时热重新加载 -  *维护者*：`Rubens PG Cavalcante` [！[Github] [githubicon]]（https://github.com/rubenspgcavalcante）[！[Twitter] [twittericon]]（https： //twitter.com/rubenspgc）
@@ -185,6 +185,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
 轻量级CSS提取插件 -  * Maintainer *：`Webpack Contrib` [！[Github] [githubicon]]（https://github.com/webpack-contrib）
 - [build-hash-webpack-plugin](https://github.com/Cosium/build-hash-webpack-plugin)  对于每个构建，Webpack都会生成内存中的哈希，以便知道两个构建输出是否相同.  此插件将描述的构建哈希写入单独的json文件中.   -  *维护者*：`RédaHousniAlaoui` [！[Github] [githubicon]]（https://github.com/reda-alaoui）[！[Twitter] [twittericon]]（https://twitter.com / alaouirda）
+- [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - 在webpack构建之前或之后运行任何shell命令 -  * Maintainer *：`David Kwon` [！[Github] [githubicon]]（https://github.com/tienne）
 
 
 ### Webpack Tools
@@ -222,7 +223,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   -  Jonathan Creamer |  25年2月25日 -  [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
   -  Grgur Grisogono |  16年2月15日 -  [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
   -  Ilya Zayats |  07年2月7日 -  [How to split your apps by routes with Webpack.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
-  -  Sebastian De Deyne |  04年2月16日 -  [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
+- Sebastian De Deyne | 04-Feb-16 - [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
   -  Jonathan Creamer |  1月10日至16日 -  [Advanced WebPack Part 2 - Code Splitting.](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting)
   - 安迪Ccs |  02年1月2日 -  [Webpack and Docker for Development and Deployment.](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4)
   -  Jonathan Creamer |  08年6月8日 -  [Advanced WebPack Part 3 - Creating a custom notifier plugin.](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin)

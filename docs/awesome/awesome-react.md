@@ -270,6 +270,7 @@
 * [Razzle Material-UI Styled Example — With Styled Components using Express with compression](https://github.com/kireerik/razzle-material-ui-styled-example)
 * [SaaS Boilerplate – Open source web app to quickly build your own SaaS product](https://github.com/async-labs/saas)
 * [MERN Boilerplate - Boilerplate based on MERN stack with redux and SSR ](https://github.com/anikethsaha/MERN-Boilerplate)
+* [React-prisma-typescript-fullstack - Full-Stack Webpack React Apollo NodeJS Express GraphQL Prisma Typescript Material-UI Formik Yup](https://github.com/DylanMerigaud/react-prisma-typescript-fullstack)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -697,6 +698,7 @@
 * [react-famous - Complex 3D animations UI at 60 FPS with Famo.us](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React](https://github.com/freiksenet/react-kinetic)
 * [react-svg-morph - morph your svg components one into another](https://github.com/gorangajic/react-svg-morph)
+* [react-hooks-svgdrawing - SVG Drawing with React hooks](https://github.com/kmkzt/react-hooks-svgdrawing)
 
 ##### Model Libraries
 * [mori - ClojureScript's persistent data structures and supporting API](https://github.com/swannodette/mori)
