@@ -228,6 +228,7 @@
 * [Crana](https://github.com/CranaJS/crana) - 一个CLI工具，只需一个命令即可创建React + Node应用程序（包括电池）.
 * [Crassa](https://github.com/ghondar/crassa) - 使用一个命令创建React + Server Side Rendering的CLI工具.
 * [JSONX](https://github.com/repetere/jsonx) -  React JSON语法 - 从JSON构造React元素，JSX和HTML，无需转换器（JSON到React，JSON到JSX，JSON到HTML）.
+* [isomor-react-app](https://github.com/apiel/isomor#getting-started-with-react) - 使用React和isomor设置工作环境，通过自动生成API来统一前端和后端.
 
 
 

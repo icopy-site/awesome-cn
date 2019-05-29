@@ -165,7 +165,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Paul Miller](http://cloudofdata.com/) Cloud of Data的咨询服务总部位于英国并在全球范围内开展业务，可帮助客户了解将数据和更多内容带入云中的影响.
 - [Data Science London](http://datasciencelondon.org/) Data Science London是一家致力于免费，开放，传播数据科学的非营利组织.
 我们是欧洲最大的数据科学社区.
-我们社区中有超过3,190名数据科学家和数据爱好者.
+我们在社区中拥有超过3,190名数据科学家和数据爱好者.
 - [Datawrangling](http://datawrangling.com/)  作者Peter Skomoroch.  机器学习，数据挖掘等等
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) - 来自专家的数据科学问题和答案
@@ -421,7 +421,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Apache Zeppelin](http://zeppelin.apache.org/) - 基于Web的笔记本电脑，支持数据驱动， 
 使用SQL，Scala等交互式数据分析和协作文档
 * [Featuretools](https://github.com/featuretools/featuretools/) - 用python编写的自动化特性工程的开源框架
-* [Optimus](https://github.com/ironmussa/Optimus) - 使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和轻松ML. 
+* [Optimus](https://github.com/ironmussa/Optimus) - 使用PySpark后端进行清理，预处理，功能工程，探索性数据分析和简易ML. 
 * [Albumentations](https://github.com/albu/albumentations)   - 快速和框架无关的图像增强库，实现了一组不同的增强技术.  支持开箱即用的分类，分段，检测.  曾经在Kaggle，Topcoder以及那些参加CVPR研讨会的人中赢得了许多深度学习比赛.
 * [DVC](https://github.com/iterative/dvc)   - 开源数据科学版本控制系统.  它有助于跟踪，组织和使数据科学项目重现.  在其最基本的场景中，它可以帮助控制版本并共享大型数据和模型文件.
 * [Lambdo](https://github.com/asavinov/lambdo) 是一个工作流引擎，通过在一个分析管道中组合（i）特征工程和机器学习（ii）模型训练和预测（iii）表格填充和列评估，显着简化数据分析.
@@ -529,4 +529,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Community Curated Data Science Resources](https://hackr.io/tutorials/learn-data-science)
  - [Awesome Machine Learning On Source Code](https://github.com/src-d/awesome-machine-learning-on-source-code)
  - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
- - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding)
+ - [Awesome-Graph-Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - [Awesome-Community-Detection](https://github.com/benedekrozemberczki/awesome-community-detection)
+ - [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
+ - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
+ - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)

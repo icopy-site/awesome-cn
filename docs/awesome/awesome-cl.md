@@ -9,7 +9,7 @@
 
 _awesome_ Common Lisp库的精选列表.
 
-对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
+For awesome *software*, see [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
  另有说明.  标有星号的那些：如此广泛而且
@@ -188,7 +188,7 @@ Tools
 游戏开发
 ================
 
-* [Xelf](http://xelf.me/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
+* [Xelf](http://xelf.me/)   - 可扩展的游戏库.  在Quicklisp上不可用.  [GNU LGPL2.1] [11].
 * [Trial](https://github.com/shirakumo/trial) - 试用是一个OpenGL
    游戏引擎重点关注模块化.  它应该是
   提供一个有用的点点滴滴的大型工具包
@@ -238,7 +238,7 @@ GUI
 * [ceramic](https://ceramic.github.io/)   - 使用Electron的桌面Web应用程序.  [外籍] [14].
 * [CocoaInterface](https://github.com/plkrueger/CocoaInterface/) -
  Clozure Common Lisp的Cocoa接口.  构建Cocoa用户界面
-windows dynamically using Lisp code and bypass the typical Xcode
+Windows动态使用Lisp代码并绕过典型的Xcode
  流程.  它有
 [good documentation and a tutorial](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 * [McCLIM](https://common-lisp.net/project/mcclim/)   -  Common Lisp Interface Manager的实现，版本II.  [GNU LGPL2.1] [11].
@@ -246,7 +246,7 @@ windows dynamically using Lisp code and bypass the typical Xcode
 * [ftw](https://github.com/fjames86/ftw)   -  Win32 GUI库.  [MIT] [200].
 * [cl-xul](https://github.com/mmontone/cl-xul)   -  Mozilla XUL绑定.  [外籍] [14].
 * [eql, eql5, eql5-android](https://gitlab.com/eql)   - 嵌入在ECL中的嵌入式Qt4和Qt5 Lisp嵌入在Qt中.  EQL5端口到Android平台.  [MIT] [200].
-* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear)  即时模式GUI库.  [MIT] [200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear) immediate mode GUI library. [MIT][200].
 
 
 Implementations
@@ -610,7 +610,7 @@ Websockets
 静态站点生成器
 ----------------------
 
-* [coleslaw](https://github.com/kingcons/coleslaw) and its
+* [coleslaw](https://github.com/kingcons/coleslaw) 和它
   [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
    Lisp Blogware类似于Frog，Jekyll或Hakyll.  [BSD] [15].
 
@@ -669,7 +669,7 @@ Others
 数值和科学
 ========================
 
-* [numcl](https://github.com/numcl/numcl)   -  Common Lisp中的Numpy克隆.  [LGPL3] [9].
+* [numcl](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
 * [magicl](https://github.com/rigetticomputing/magicl)   -  Matrix Algebra proGrams在Common Lisp中基于BLAS / LAPACK和Expokit，由Rigetti Computing提供.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)   - 为数字列表生成迷你字符串.  [外籍] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)   - 用于Lisp的GNU科学图书馆;  允许使用Common Lisp中的GSL.  [GNU LGPL2.1] [11].
@@ -697,7 +697,7 @@ Others
 ===========================
 
 *：明星： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)   - 可移植的共享状态并发.  [外籍] [14].
-*：明星： [lparallel](https://github.com/lmj/lparallel)   - 用于并行编程的库.  [3条款BSD] [15].
+*：明星： [lparallel](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [lfarm](https://github.com/lmj/lfarm)   - 跨机器分配工作（在lparallel和usocket之上）.  [BSD_3Clause] [15]
 * [chanl](https://github.com/zkat/chanl)   - 便携式，基于通道的并发性.  [Expat] [14]，部分在[3条款BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)   - 用于通用非阻塞编程的库.  [外籍] [14].
@@ -764,7 +764,7 @@ Scripting
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) - 允许数百个Lisp
 应用程序可以立即实现，同时允许
-several of them to run concurrently.  WCL accomplishes this by
+ 其中几个同时运行.  WCL完成了这个
 提供Common Lisp作为可以链接的Unix共享库
  Lisp和C代码可以生成高效的应用程序.  例如，
 可执行的规范“Hello World！”的Lisp版本
@@ -817,6 +817,10 @@ several of them to run concurrently.  WCL accomplishes this by
 
 * [Sublime Text](http://www.sublimetext.com/3) 有Common Lisp支持
    使用“SublimeREPL”包.  [所有权].
+  
+## VSCode ##
+
+* [VSCode-lisp](https://marketplace.visualstudio.com/items?itemName=mattn.Lisp)  扩展以支持Lisp语法.  它是 [on the GitHub](https://github.com/mattn/vscode-lisp).
 
 ## Notebooks ##
 
@@ -865,7 +869,7 @@ Tools
    条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
-  一个简短的函数被调用，多少次和多少次
+  a stubbed function was called, how many times and with which
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)   - 基于QuickCheck的随机属性测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮助者
@@ -933,7 +937,7 @@ CSV
 ---------------------
 
 *：明星： [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
-  (replaces [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
+  （取代 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    并且因此在许多实施方式中被运送.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类似POSIX的系统上的轻量级操作系统接口（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个

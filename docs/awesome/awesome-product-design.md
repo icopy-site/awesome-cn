@@ -147,6 +147,8 @@
 - [Font Squirrel](https://www.fontsquirrel.com/) - 免费字体乌托邦.
 - [Play Type](https://playtype.com/) - 浏览我们选择的一百多种字体和近500种不同的字体粗细.
 - [Identyfont](http://www.identifont.com/index.html) - 通过回答有关关键功能的问题来识别字体.
+#### Typography
+- [NN Group](https://www.nngroup.com/articles/typography-terms-ux/) - 排版术语备忘单.
 #### Colors
 - [Coolors](https://coolors.co/) - 超快速配色方案！
 - [Colour Lovers](http://www.colourlovers.com/) - 创意社区.

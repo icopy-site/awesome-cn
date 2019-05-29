@@ -2,6 +2,7 @@
 ## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
+[![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 
  Web性能优化的策划列表.  每个人都可以在这里贡献！
 
@@ -150,7 +151,7 @@
 * [Yahoo YSlow for Mobile/Bookmarklet](https://developer.yahoo.com/yslow/) -  YSlow分析网页，并根据一组高性能网页规则提出改进其性能的方法.
 * [PageSpeed](https://developers.google.com/speed/pagespeed/insights_extensions)  [已弃用]  -  PageSpeed Insights可作为Google Chrome的开源浏览器扩展程序提供.  网站管理员和网站开发人员可以使用PageSpeed Insights来评估其网页的效果，并获得有关如何改进网页的建议 - 解决方法 [@Kiquenet](https://github.com/kiquenet) - https://gist.github.com/davidsonfellipe/f8e3723b4dc0aaf9f6d4.
 * [PerfMap](https://github.com/zeman/perfmap) - 使用Resource Timing API创建浏览器中加载的资源的前端性能热图的书签.
-* [DOM Monster](https://github.com/madrobby/dom-monster) - 一个跨平台的跨浏览器书签，它将分析您所在页面的DOM和其他功能，并为您提供健康状况.
+* [DOM Monster](https://github.com/madrobby/dom-monster) - 跨平台，跨浏览器的书签，它将分析您所在页面的DOM和其他功能，并为您提供健康状况.
 * [CSS Stress](http://andy.edinborough.org/CSS-Stress-Testing-and-Performance-Profiling) -  CSS Stress是一种测试和性能分析.
 * [Performance-Bookmarklet](https://github.com/micmro/performance-bookmarklet)   - 通过Resource Timing API，Navigation Timing API和User-Timing分析当前页面 - 轻量级实时WebPageTest的排序.  如 [Chrome Extension](https://chrome.google.com/webstore/detail/performance-analyser/djgfmlohefpomchfabngccpbaflcahjf?hl=en) 和 [Firefox Add-on](https://addons.mozilla.org/en-us/firefox/addon/performance-analyser/?src=cb-dl-created) 名为Performance-Analyzer.
 
@@ -162,7 +163,6 @@
 * [CDNjs](https://cdnjs.com/) - 由CloudFlare赞助的Javascript和CSS的开源CDN，托管从jQuery和Modernizr到Bootstrap的所有内容.
 * [jQuery](http://code.jquery.com/) -  jQuery CDN  - 最新的稳定版本，由MaxCDN提供支持.
 *：cn： [UpYun CDN](http://jscdn.upai.com/) - 由upyun提供的CDN.
-*：cn： [Sina Public Resources](http://lib.sinaapp.com/) -  CDN由sinaapp.com提供.
 *：cn： [Bootstrap中文网开放CDN服务](http://www.bootcdn.cn/) -  Bootstrap中文网络开放CDN服务（仅限HTTP）.
 
 &gt;要找到有用的更多信息，请在付费CDN之间做出正确的选择，请访问 [CDNPlanet](http://www.cdnplanet.com/).
@@ -246,7 +246,7 @@
 * [Grunt-phantomas](https://github.com/stefanjudis/grunt-phantomas) - 包含幻影的Grunt插件，用于测量前端性能.
 * [Perfjankie](https://www.npmjs.com/package/perfjankie) - 运行时浏览器性能回归套件（[Demo](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - 从世界各地的多个点继续检查Internet Explorer，Chrome和Firefox中的网页加载时间.
-* [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - 实时监控您的浏览器端应用程序，重点关注真实终端用户的体验.
+* [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - 实时监控您的浏览器端应用程序，重点关注真正的最终用户体验.
 * [DareBoost](https://www.dareboost.com/)   - 真正的浏览器监控.  使用YSlow，Page Speed和众多自定义提示提供有关Web性能和质量的完整报告.
 
 
@@ -366,7 +366,7 @@
 ## Specs
 
 * [Web Performance Working Group](http://www.w3.org/2010/webperf/) - 作为Rich Web Client Activity的一部分，Web性能工作组的任务是提供测量用户代理功能和API的应用程序性能方面的方法.
-* [Page Visibility](http://www.w3.org/TR/page-visibility/) - 此规范定义了一种方法，供站点开发人员以编程方式确定页面的当前可见性状态，以便开发功能强大且CPU效率高的Web应用程序.
+* [Page Visibility](http://www.w3.org/TR/page-visibility/) - 此规范定义了一种方法，供站点开发人员以编程方式确定页面的当前可见性状态，以便开发功能和CPU高效的Web应用程序.
 * [Navigation Timing](https://w3c.github.io/navigation-timing/) - 该规范定义了用于存储和检索与文档导航相关的高分辨率性能度量数据的统一接口.
 * [Resource Timing](http://www.w3.org/TR/resource-timing/) - 该规范定义了Web应用程序的接口，以访问文档中资源的完整定时信息.
 * [User Timing](http://www.w3.org/TR/user-timing/) - 此规范定义了一个界面，可帮助Web开发人员通过访问高精度时间戳来衡量其应用程序的性能.

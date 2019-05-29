@@ -155,7 +155,7 @@ defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
  下面的AppleScript代码将退出Mail，清空SQLite索引，然后重新打开Mail.  在一段时间没有优化的大型电子邮件数据库中，这可以显着提高响应速度和速度.
 ```applescript
 (*
-Speed up Mail.app by vacuuming the Envelope Index
+通过吸尘信封索引来加速Mail.app
 代码来自：http：//web.archive.org/web/20071008123746/http://www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
 最初由“pmbuko”改编，由Romulo修改
 由Brett Terpstra 2012更新
@@ -632,12 +632,12 @@ hdiutil detach / dev / disk2s1
 killall Finder
 
 ## Disable (Default)
-默认写入com.apple.finder ShowExternalHardDrivesOnDesktop -bool false &amp;&amp; \
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
 killall Finder
 ```
 
 #### Show Internal Media
-内置HD或SSD.
+Built-in HDs or SSDs.
 ```bash
 ## Enable
 默认写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
@@ -1178,7 +1178,7 @@ scselect LocationNameFromStatus
 
 #### Set Static IP Address
 ```bash
-networksetup -setmanual “以太网” 192.168.2.100 192.168.2.1 255.255.255.0
+networksetup -setmanual“Ethernet”192.168.2.100 255.255.255.0 192.168.2.1
 ```
 
 ### Networking Tools
@@ -1236,7 +1236,13 @@ sudo lsof -i：80
 适用于所有网络的替代方案.
 ```bash
 curl -s https://api.ipify.org&amp;&amp; echo
-````
+```
+
+#### Show Network Interface Information
+`scutil`命令的未记录标志.
+```bash
+scutil --nwi
+```
 
 ### TFTP
 
@@ -1261,7 +1267,7 @@ sudo ln -s /System/Library/PrivateFrameworks/Apple80211.framework/Versions/Curre
 ```
 运行无线扫描：
 ```bash
-airport -s
+机场-s
 ```
 
 #### Show Current SSID
@@ -1494,7 +1500,7 @@ diff -qr / path / to / folder1 / path / to / folder2
 #### Copy Large File with Progress
 确保安装了`pv`并用适当的写设备或文件替换`/ dev / rdisk2`.
 ```bash
-FILE=/path/to/file.iso pv -s $(du -h $FILE | awk '/.*/ {print $1}') $FILE | sudo dd of=/dev/rdisk2 bs=1m
+ FILE = / path / to / file.iso pv -s $（du -h $ FILE | awk&#39;/.*/ {print $ 1}&#39;）$ FILE |  sudo dd = / dev / rdisk2 bs = 1m
 ```
 
 #### Restore Sane Shell
@@ -1552,7 +1558,7 @@ pbpaste&gt; whatever.txt
 ### FileVault
 
 #### Automatically Unlock FileVault on Restart
- 如果在当前卷上启用了FileVault，则会重新启动系统，从而绕过初始解锁.  该命令可能无法在所有系统上运行.
+If FileVault is enabled on the current volume, it restarts the system, bypassing the initial unlock. The command may not work on all systems.
 ```bash
 sudo fdesetup authrestart
 ```
@@ -1852,7 +1858,7 @@ sudo systemsetup setusingnetworktime off
 ## Terminal
 
 #### Ring Terminal Bell
-Rings the terminal bell (if enabled) and puts a badge on it.
+敲响终端铃（如果已启用）并在其上放置徽章.
 ```bash
 tput bel
 ```
@@ -1945,4 +1951,4 @@ chsh -s $（brew --prefix）/ bin / zsh
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /><br />本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名 - 相同方式共享4.0国际许可协议授权</a> .
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.

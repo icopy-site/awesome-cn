@@ -501,7 +501,7 @@
 1.  [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的Visualizer
 2.  [Jupyter Notebook](http://jupyter.org) - 基于Web的交互式计算笔记本环境
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) -  TensorFlow的可视化工具包
-4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - 开发，调试和部署深度学习和AI解决方案
+4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
 
 ### Miscellaneous
 
@@ -537,11 +537,12 @@
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
 32. [Dockerface](https://github.com/natanielruiz/dockerface) - 易于安装和使用深度学习更快的R-CNN面部检测，用于码头集装箱中的图像和视频.
 33. [Awesome Deep Learning Music](https://github.com/ybayle/awesome-deep-learning-music) - 与音乐深度学习科学研究相关的精选文章清单
-34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 与图形结构化数据的深度学习科学研究相关的精选文章列表
+34. [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 图表级别的图形结构化数据深度学习科学研究相关文章.
+35. [Awesome Network Embedding](https://github.com/chihming/awesome-network-embedding) - 与节点级图形结构化数据的深度学习科学研究相关的文章列表.
 
 -----
 ### Contributing
- 有什么想法，你觉得很棒，适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+ 有什么想法，你觉得很棒，并且适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
 
 -----
 ## License

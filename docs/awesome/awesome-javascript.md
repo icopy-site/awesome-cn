@@ -248,7 +248,7 @@
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - 轻量级且令人惊叹的WYSIWYG JavaScript编辑器.
 * [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单，美丽的所见即所得编辑器
-* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标记汤和内联样式生成完全有效的HTML5标记.
+* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标签汤和内联样式来生成完全有效的HTML5标记.
 * [popline](https://github.com/kenshin54/popline) -  Popline是一个HTML5富文本编辑器工具栏
 
 
@@ -323,7 +323,7 @@
 * [date](https://github.com/MatthewMueller/date) - 人类的日期（）.
 * [ms.js](https://github.com/rauchg/ms.js) - 微小的毫秒转换实用程序.
 * [countdown.js](https://github.com/gumroad/countdown.js) - 超级简单的倒计时.
-* [timeago.js](https://github.com/hustcc/timeago.js) - 用于使用`*** time ago`语句格式化日期的简单库（少于2kb）.
+* [timeago.js](https://github.com/hustcc/timeago.js) - 简单的库（小于2kb）用于使用`*** time ago`语句格式化日期.
 * [fecha](https://github.com/taylorhakes/fecha)   - 轻量级日期格式化和解析（~2KB）.  意味着要取代moment.js的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代JavaScript日期实用程序库.
 
@@ -349,7 +349,7 @@
 * [odometer](https://github.com/HubSpot/odometer) - 轻松过渡数字.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - 用于数字，货币和货币格式的轻量级JavaScript库 - 完全可本地化，零依赖性.
 * [money.js](https://github.com/josscrowcroft/money.js) - 一个小的（1kb）javascript货币转换库，用于web和nodeJS.
-* [Fraction.js](https://github.com/infusion/Fraction.js) -  JavaScript的有理数字库
+* [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
 * [Complex.js](https://github.com/infusion/Complex.js) -  JavaScript的复数库
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -  JavaScript的多项式库
 
@@ -375,7 +375,7 @@
 
 * [randomColor](https://github.com/davidmerfield/randomColor) -  JavaScript的颜色生成器.
 * [chroma.js](https://github.com/gka/chroma.js) - 用于各种颜色操作的JavaScript库.
-* [color](https://github.com/Qix-/color) - JavaScript color conversion and manipulation library.
+* [color](https://github.com/Qix-/color) -  JavaScript颜色转换和操作库.
 * [colors](https://github.com/mrmrs/colors) - 更智能的网络颜色默认值.
 * [PleaseJS](https://github.com/Fooidge/PleaseJS) - 用于创建随机赏心悦目的颜色和配色方案的JavaScript库.
 * [TinyColor](https://github.com/bgrins/TinyColor) - 快速，小巧的颜色处理和JavaScript转换.
@@ -421,7 +421,7 @@
 * [Conzole](https://github.com/Oaxoa/Conzole) - 使用javascript构建的调试面板，它在页面内显示的面板中包装javascript本机控制台对象方法和功能.
 * [console.log-wrapper](https://github.com/patik/console.log-wrapper) - 清晰地在任何浏览器中登录控制台.
 * [loglevel](https://github.com/pimterry/loglevel) -  JavaScript的最小轻量级日志记录，添加可靠的日志级别方法来包装任何可用的console.log方法.
-* [minilog](http://mixu.net/minilog/) – Lightweight client & server-side logging with Stream-API backends
+* [minilog](http://mixu.net/minilog/) - 使用Stream-API后端的轻量级客户端和服务器端日志记录
 * [storyboard](http://guigrpa.github.io/storyboard/)   - 通用日志库+ Chrome扩展;  它允许您在一个位置查看由用户操作触发的所有客户端和服务器任务.
 
 ## RegExp
@@ -494,7 +494,7 @@
 * [topbar](https://github.com/buunguyen/topbar) - 微小而美丽的全站点进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)   - 非常轻量级的进度条.  没有jQuery.
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - 使用CSS动画的加载指示符集合.
-* [Ladda](https://github.com/hakimel/Ladda) - 带内置加载指示器的按钮.
+* [Ladda](https://github.com/hakimel/Ladda) - 带内置装载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 使用CSS动画加载微调器的集合
 
 除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)和发电机一样 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
@@ -665,6 +665,7 @@
 * [fullPage](https://github.com/alvarotrigo/fullPage.js) - 一个简单易用的插件，用于创建全屏滚动网站（也称为单页网站）.
 * [ScrollMenu](https://github.com/s-yadav/ScrollMenu) - 一个新的界面来取代旧的无聊滚动条.
 * [Clusterize.js](https://github.com/NeXTs/Clusterize.js) -  Tiny vanilla JS插件，可轻松显示大型数据集.
+* [simpleParallax](https://github.com/geosigno/simpleParallax) - 简单而小巧的JavaScript库，可在任何图像上添加视差动画
 
 
 ## Menu
@@ -696,7 +697,7 @@
 
 ## Boilerplates
 
- * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
+ * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 专业的前端模板，用于构建快速，强大且适应性强的Web应用程序或站点.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速，现代的移动Web应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) - 一个非常棒的前端框架，让您可以专注于构建您的网站或应用程序，同时保持非常容易使用.
  * [Cerberus](https://github.com/TedGoas/Cerberus)   - 响应式HTML电子邮件的一些简单但可靠的模式.  甚至在Outlook中.
@@ -733,7 +734,7 @@
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的HTML5视频播放器
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement)   -  HTML5 <audio>  要么 <video>  具有Flash和Silverlight垫片的播放器模仿HTML5 MediaElement API，在所有浏览器中实现一致的UI. <http://mediaelementjs.com/>
- * [SoundJS](https://github.com/CreateJS/SoundJS)   - 一个可以更轻松地处理网络音频的库.  它为在不同浏览器中播放音频提供了一致的API.
+ * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
  * [video.js](https://github.com/videojs/video.js) -  Video.js  - 开源HTML5和Flash视频播放器
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级，易于使用的jQuery插件，用于流体宽度视频嵌入.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - 任何网页上的简单声音
@@ -746,11 +747,11 @@
  * [BigText](https://github.com/zachleat/BigText) -  jQuery插件，计算将文本行与特定宽度匹配所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个jQuery插件，可让您在网络上输入曲线
  * [slabText](https://github.com/freqDec/slabText/) - 一个jQuery插件，用于生成大胆，响亮的标题
- * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 在您的网站上添加一个超级简单的旋转文本，几乎没有标记
+ * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -  Text Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - 使文本大小响应！
  * [FitText.js](https://github.com/davatron5000/FitText.js) - 用于充气网络类型的jQuery插件
- * [Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript `<span>` injector for radical Web Typography
+ * [Lettering.js](https://github.com/davatron5000/Lettering.js) - 一个轻量级，易于使用的Javascript <span>“注入器，用于激进的Web排版</span>
 
 
 ## Animations
@@ -834,7 +835,7 @@ http://www.listjs.com
 * [Superhero.js](http://superherojs.com) - 有关创建，测试和维护大型JavaScript代码库的资源集合.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - 简化的JavaScript术语是一种社区驱动的尝试，用一些简单的词语解释当前JavaScript生态系统的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 通过一系列步骤发布JavaScript开源库的综合指南.
-* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - 通过各种用户排名的在线教程在线学习Javascript.
+* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
 
 
 ## Other Awesome Lists

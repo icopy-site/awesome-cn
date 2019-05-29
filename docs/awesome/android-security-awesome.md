@@ -12,7 +12,6 @@ android安全相关资源的集合.
 
 
 1. [AndroTotal](http://andrototal.org/)
-3. [Visual Threat](http://www.visualthreat.com/)
 4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - 不是免费
 6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - 不是免费
@@ -23,6 +22,7 @@ android安全相关资源的集合.
 12. [AppCritique](https://appcritique.boozallen.com) - 上传您的Android APK并获得全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)   - 用于Android和iOS移动应用程序的移动应用程序安全性测试的企业工具.  Lab Automated对云中的实际设备进行动态和静态分析，以便在几分钟内返回结果.  不是免费
 14. [AMAaaS](https://amaaas.com)   -  Android恶意软件分析即服务.  裸机服务为Android应用程序提供静态和动态分析.  MalwarePot的产品（https://malwarepot.com/index.php/AMAaaS） - 免费.
+15. ~~[Visual Threat](https://www.visualthreat.com/) - 不再是Android app分析器~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) -  10 /天~~
 16. ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~

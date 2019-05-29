@@ -100,6 +100,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Stylus Loader](https://github.com/shama/stylus-loader) ：webpack的手写笔加载器.   -  *维护者*：`Kyle Robinson Young` [！[Github] [githubicon]]（https://github.com/shama）[！[Twitter] [twittericon]]（https://twitter.com/shamakry ）
 - [Isomorphic Style Loader](https://github.com/kriasoft/isomorphic-style-loader) ：Webpack的同构CSS样式加载器.   -  * Maintainer *：`Kriasoft Team` [！[Github] [githubicon]]（https://github.com/kriasoft）[！[Twitter] [twittericon]]（https://twitter.com/kriasoft）
 - [Minify CSS-in-JS Loader](https://github.com/zaaack/minify-cssinjs-loader) ：基于RegExp的Webpack中缩小CSS-in-JS加载器，不需要babel.   -  *维护者*：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
+- [SASS Resources Loader](https://github.com/shakacode/sass-resources-loader) ：全局导入SASS资源（变量，混合等）.   -  * Maintainer *：`ShakaCode` [！[Github] [githubicon]]（https://github.com/shakacode）[！[Twitter] [twittericon]]（https://twitter.com/shakacode）
 
 #### Language & Framework
 
@@ -223,12 +224,12 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   -  Jonathan Creamer |  25年2月25日 -  [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
   -  Grgur Grisogono |  16年2月15日 -  [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
   -  Ilya Zayats |  07年2月7日 -  [How to split your apps by routes with Webpack.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
-- Sebastian De Deyne | 04-Feb-16 - [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
+  -  Sebastian De Deyne |  04年2月16日 -  [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
   -  Jonathan Creamer |  1月10日至16日 -  [Advanced WebPack Part 2 - Code Splitting.](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting)
   - 安迪Ccs |  02年1月2日 -  [Webpack and Docker for Development and Deployment.](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4)
   -  Jonathan Creamer |  08年6月8日 -  [Advanced WebPack Part 3 - Creating a custom notifier plugin.](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin)
   - 纳德会|  07  -  15  -  [Beginner’s guide to Webpack.](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq)
-  -  Jonathan Creamer |  02-9月15日 -  [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
+- Jonathan Creamer | 02-Sept-15 - [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
   -  Maxime Fabre |  16-Oct-15  -  [Webpack your bags.](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### Videos
