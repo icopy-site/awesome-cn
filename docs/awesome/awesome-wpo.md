@@ -28,7 +28,7 @@
 
 
 ## Books
-> Best books about WPO
+&gt;关于WPO的最佳书籍
 
 * [HTTP/2 in Action by Barry Pollard](https://www.manning.com/books/http2-in-action) - 巴里波拉德
 * [Web Performance in Action by Jeremy Wagner](https://www.manning.com/books/web-performance-in-action) -  Jeremy L. Wagner
@@ -38,7 +38,7 @@
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) -  Ilya Grigorik
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) -  Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - 史蒂夫索德斯
-* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) - 汤姆巴克
+* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) – Tom Barker
 * [Lean Websites](https://www.sitepoint.com/premium/books/lean-websites) - 芭芭拉·贝尔姆斯
 * [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) -  Tammy Everts
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) -  Rick Viscomi，Andy Davies，Marcel Duran
@@ -107,7 +107,7 @@
 * [Varvy](https://varvy.com/pagespeed/) - 测试您的网站，看它是否符合Google的速度指南.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - 将页面大小与同一页面的压缩图像进行比较
 * [Speed Racer](https://github.com/ngryman/speedracer) - 使用Chrome headless收集库/应用程序的性能指标.
-* [Speedrank](https://speedrank.app/)   -  Speedrank在后台监控您网站的性能.  它会随着时间的推移显示Lighthouse报告并提供改进建议.  Speedrank是一款带有14天试用版的付费产品.
+* [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your website in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
 
 ## Analyzers - API
 
@@ -118,9 +118,10 @@
 
 * [Bundlesize](https://github.com/siddharthkp/bundlesize) - 检查您的捆绑尺寸.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试捆绑空间使用情况.
-* [Bundlephobia](https://bundlephobia.com/) - 查找将npm包添加到捆绑包的成本.
+* [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
 * [Disc](http://hughsk.io/disc/) - 可视化browserify项目包的模块树并跟踪膨胀. 
 * [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - 分析和可视化由Lasso创建的项目包.  
+* [packtracker.io](https://packtracker.io) - 检查每个拉取请求中的webpack捆绑包统计信息，并随时跟踪它们.
 
 ## Benchmark - CSS
 
@@ -203,7 +204,7 @@
 * [Imageoptim](https://imageoptim.com/)   - 免费的应用程序，使图像占用更少的磁盘空间和更快的负载，而不会牺牲质量.  它优化压缩参数，删除垃圾元数据和不必要的颜色配置文件.
 * [Grunt-imageoptim](https://github.com/JamieMason/grunt-imageoptim) - 使ImageOptim，ImageAlpha和JPEGmini成为自动构建过程的一部分.
 * [ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - 自动化ImageOptim，ImageAlpha和JPEGmini for Mac，使图像的批量优化成为自动构建过程的一部分.
-* [Tinypng](https://tinypng.com/) - Advanced lossy compression for PNG images that preserves full alpha transparency.
+* [Tinypng](https://tinypng.com/) -  PNG图像的高级有损压缩，可保持完整的Alpha透明度.
 * [Kraken Web-interface](https://kraken.io/web-interface) - 优化您的图像，可以下载12小时.
 * [Compressor](https://compressor.io/) -  JPG，PNG，SVG和GIF的在线图像压缩器.
 * [Shrinkray](https://shrinkray.io) - 在Github存储库中对图像进行一键优化
@@ -235,7 +236,7 @@
 ## Metrics Monitor
 
 * [Phantomas](https://github.com/macbre/phantomas) - 基于PhantomJS的Web性能指标收集器和监控工具.
-* [Showslow](http://www.showslow.com/) - open source tool that helps monitor various website performance metrics over time. It captures the results of YSlow, Page Speed Insights, WebPageTest and dynaTrace AJAX Edition.
+* [Showslow](http://www.showslow.com/)   - 开源工具，可帮助监控各种网站性能指标.  它捕获了YSlow，Page Speed Insights，WebPageTest和dynaTrace AJAX Edition的结果.
 * [Bench](https://github.com/jmervine/bench)   - 使用Phantomas（PhantomJS支持的客户端性能指标刮板）.  对页面进行基准测试，将结果存储在MongoDB中，并通过内置服务器显示结果.
 * [Keepfast](https://github.com/keepfast/keepfast) - 监视与网页性能相关的指标的工具.
 * [GTmetrix](https://gtmetrix.com/)   -  GTmetrix使用Google Page Speed和Yahoo!  YSlow评估您网站的效果，并提供可操作的建议来解决这些问题.

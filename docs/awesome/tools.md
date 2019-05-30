@@ -10,6 +10,7 @@
 * [Media Queri](http://mediaqueri.es/)
 * [Screensiz](http://screensiz.es/phone)
 * [Sizzy](http://sizzy.co)
+* [Polypane](http://polypane.rocks)
 
 ### Placeholder
 
@@ -119,7 +120,7 @@
 ### API Debugging
 
 * [Hurl.it](https://www.hurl.it/)
-* [requestb.in](http://requestb.in/)
+* [RequestBin.com](https://requestbin.com/)
 * [Beeceptor.com](https://beeceptor.com/)
 
 ### API Doc

@@ -858,6 +858,7 @@
 * [perftools.rb](https://github.com/tmm1/perftools.rb) - 用于Ruby代码的gperftools（以前称为google-perftools）.
 * [rack-mini-profiler](https://github.com/MiniProfiler/rack-mini-profiler) - 用于开发和生产Ruby Rack应用程序的Profiler.
 * [Rbkit](https://github.com/code-mancers/rbkit)   -  Ruby的分析器.  使用GUI.
+* [rbspy](https://github.com/rbspy/rbspy) - 任何Ruby进程的采样分析器.
 * [ruby-prof](https://github.com/ruby-prof/ruby-prof) - 用于MRI红宝石的代码分析器.
 
 ## QR

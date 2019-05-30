@@ -3,7 +3,7 @@
 
 精选公司的精选列表，为开源和公共项目免费提供工具和服务.
 
-**注意：虽然有很多公司拥有很好的免费等级（例如Slack），但这个列表专门针对那些对开源社区做出公开承诺的组织.**
+**注意：虽然有许多公司拥有很好的免费等级（例如Slack），但这个列表专门针对那些对开源社区做出公开承诺的组织.**
 
 
 
@@ -74,7 +74,6 @@
 
 - [HuBoard](https://huboard.com/) -  GitHub支持的看板.
 - [Taiga.io](https://taiga.io/) - 敏捷开发人员的项目管理.
-- [Waffle.io](https://waffle.io/) -  GitHub问题的项目管理.
 - [ZenHub](https://www.zenhub.com/) -  Agile GitHub项目管理.
 - [Zube](https://zube.io/) -  GitHub问题的项目管理.
 

@@ -31,7 +31,7 @@
 ### Web
 
 - [npms](https://npms.io) - 精湛的包装搜索，使用a深入分析包装质量 [myriad of metrics](https://npms.io/about).
-	- [npm-introspect](http://npm-introspect.z3d.tech) - 基于npms的实用程序，用于直观地探索包依赖性的质量.
+	- [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies.
 - [npmsearch](http://npmsearch.com) - 快速包裹搜索，根据星标，家属，发布频率等指标进行排名.
 - [node-modules](http://node-modules.com) - 基于您的GitHub社交图的个性化包搜索.
 - [NodeICO](https://nodei.co/) - 包裹徽章.
@@ -67,6 +67,7 @@
 - [publish-please](https://github.com/inikulin/publish-please) - 安全，优雅地发布包裹.
 - [npm-release](https://github.com/phuu/npm-release) - 释放到npm这么容易让小猫可以做到这一点.
 - [pkgfiles](https://github.com/timoxley/pkgfiles) - 列出将在包中发布的所有文件.
+- [release-it](https://github.com/webpro/release-it)   - 自动发布Git存储库和/或npm软件包.  更改日志生成，GitHub / GitLab版本等.
 - [semantic-release](https://github.com/semantic-release/semantic-release) - 全自动包裹发布.
 
 ### Registry

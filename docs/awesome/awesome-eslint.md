@@ -46,6 +46,7 @@
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -  Mongodb原生Node.js驱动程序linting规则.
 - [Ramda](https://github.com/ramda/eslint-plugin-ramda) -  Ramda特定的linting规则.
 - [React](https://github.com/yannickcr/eslint-plugin-react) -  React和JSX的Linting规则.
+- [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) -  React Hooks的Linting规则.
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -  React Native特定的linting规则.
 - [RequireJS](https://github.com/cvisco/eslint-plugin-requirejs) -  RequireJS的Linting规则.
 - [VueJS](https://github.com/vuejs/eslint-plugin-vue) -  VueJS插件.

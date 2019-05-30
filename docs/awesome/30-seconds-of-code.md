@@ -826,8 +826,9 @@ const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
 
 ```js
 const dropRightWhile =（arr，func）=&gt; {
-  while（arr.length&gt; 0 &amp;&amp;！func（arr [arr.length  -  1]））arr = arr.slice（0，-1）;
-  返回
+  let rightIndex = arr.length;
+  while（rightIndex-- &amp;&amp;！func（arr [rightIndex]））;
+  return arr.slice（0，rightIndex + 1）;
 };
 ```
 
@@ -4204,6 +4205,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
 
 
 

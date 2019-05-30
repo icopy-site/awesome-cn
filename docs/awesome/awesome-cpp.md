@@ -13,7 +13,7 @@
 * [The GNU C Library](https://www.gnu.org/software/libc/manual) - 本手册的目的是告诉您如何使用GNU C库的功能.
 
 ## Frameworks
-* C ++通用框架和库.*
+*C++ generic frameworks and libraries.*
 
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)   -  Abseil C ++通用库.  [Apache2的]
 * [Apache C++ Standard Library](http://stdcxx.apache.org/)   -  STDCXX，算法，容器，迭代器和其他基本组件的集合.  [已退休] [Apache2]
@@ -40,7 +40,7 @@
 * [Qt](https://www.qt.io/download-open-source/)  ：zap： - 跨平台的应用程序和UI框架.  [GPL / LGPL /商业]
 * [Reason](http://code.google.com/p/reason/)   - 一个跨平台框架，旨在为需要C ++性能和强度的开发人员提供Java，.Net或Python的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)   - 一组OO框架，具有以非常有效的方式处理和分析大量数据所需的所有功能.  在CERN使用.  [LGPL]
-* [STLport](http://www.stlport.org/)   -  STL的示例性版本.  [自由]
+* [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
 * [STXXL](http://stxxl.sourceforge.net/)   - 超大型数据集的标准模板库.  [促进]
 * [tbox](https://github.com/tboox/tbox)   - 类似glib的多平台c库.  [Apache2的] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)   -  C ++跨平台快速应用程序开发框架.  [BSD]
@@ -181,11 +181,11 @@
 * [OpenCL](https://www.khronos.org/opencl/) - 异构系统并行编程的开放标准.
 * [OpenMP](http://openmp.org/) -  OpenMP API.
 * [RaftLib](http://raftlib.io/) -  RaftLib C ++库，通过C ++类似iostream的运算符进行流/数据流并发[Apache2]
-* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue) - A fast single-producer, single-consumer lock-free queue for C++. [BSD]
+* [readerwriterqueue](https://github.com/cameron314/readerwriterqueue)   - 用于C ++的快速单生产者，单用户无锁无队列.  [BSD]
 * [Thrust](http://thrust.github.io/)   - 一个类似于C ++标准模板库（STL）的并行算法库.  [Apache2的]
 * [transwarp](https://github.com/bloomen/transwarp)   - 用于任务并发的仅标头C ++库.  [MIT]
 * [HPX](https://github.com/STEllAR-GROUP/hpx/)   - 用于任何规模的并行和分布式应用程序的通用C ++运行时系统.  [促进]
-* [VexCL](https://github.com/ddemidov/vexcl) - A C++ vector expression template library for OpenCL/CUDA. [MIT]
+* [VexCL](https://github.com/ddemidov/vexcl)   -  OpenCL / CUDA的C ++向量表达式模板库.  [MIT]
 * [Quantum](https://github.com/bloomberg/quantum) - 一个强大的C ++协程调度程序框架 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 
 ## Containers
@@ -250,7 +250,7 @@
 * [RocksDB](https://github.com/facebook/rocksdb)   - 嵌入式键值存储，可从Facebook快速存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - 高性能，共享内存，无锁，跨平台，单文件，最小依赖，C ++ 11键值存储[Apache2]
 * [SOCI](https://github.com/SOCI/soci)   -  C ++的数据库抽象层.  [BSL-1.0]
-* [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project. [PublicDomain]
+* [SQLite](http://www.sqlite.org/)   - 一个完全嵌入的，功能齐全的关系数据库，只需几百kk就可以包含在您的项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)   -  SQLiteC ++（SQLiteCpp）是一个智能且易于使用的C ++ SQLite3包装器.  [MIT]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)   - 仅针对sqlite库的头文件C ++ 14包装器.  [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)   - 用于现代C ++的SQLite ORM light header only库.  [BSD -3-第]
@@ -515,6 +515,7 @@
 ## Memory Allocation
 
 * [Boehm GC](https://github.com/ivmai/bdwgc)   -  C和C ++的保守垃圾收集器.  [类似于X11] [website](http://www.hboehm.info/gc/)
+* [C Smart Pointers](https://github.com/Snaipe/libcsptr)   - （GNU）C编程语言的智能指针.  [MIT]
 * [Hoard](https://github.com/emeryberger/Hoard)   - 适用于Linux，Windows和Mac的快速，可扩展且内存高效的Malloc.  [GPL，商业] [website](http://hoard.org/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)   - 通用malloc（3）实现，强调分段避免和可扩展并发支持.  [BSD] [website](http://jemalloc.net/)
 * [memory](https://github.com/foonathan/memory)   -  STL兼容的C ++内存分配器库.  [zlib的]
@@ -553,6 +554,7 @@
 * [H2O](https://github.com/h2o/h2o)   - 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2.  它也可以用作库.  [MIT]
 * [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
 * [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
+* [libhttpserver](https://github.com/etr/libhttpserver)   - 用于创建嵌入式Rest HTTP服务器的C ++库（以及更多）.  [LGPL2.1]
 * [libjingle](https://code.google.com/p/libjingle/)   - 谷歌谈话语音和P2P互操作性库.  [BSD]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
@@ -746,7 +748,7 @@
 *有用的库或工具不适合上述类别或可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
-* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
+* [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
 * [Better String](http://bstring.sourceforge.net)   -  C的字符串库的替代方法，它更具功能性，并且没有缓冲区溢出溢出问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)   - 基于范围的循环附加组件，受Python内置函数和itertools库的启发.  [BSD-2-第]
@@ -755,7 +757,6 @@
 * [FastFormat](http://www.fastformat.org) - 受log4j和Pantheios启发的快速，安全的C ++格式[Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/)   - 一组源自aips ++的c ++核心库.  [LGPL]
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)   - 这个Qt lib基于C ++ VerbalExpressions库.  [MIT]
-* [c-smart-pointers](https://github.com/Snaipe/libcsptr)   - （GNU）C编程语言的智能指针.  [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)   - 适用于C ++容器的漂亮打印库.  [促进]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)   - 用于调试目的的小型打印库.  [MIT]
 * [gcc-poison](https://github.com/leafsr/gcc-poison) - 一个简单的头文件，供开发人员从应用程序中禁止不安全的C / C ++函数.
@@ -774,7 +775,7 @@
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
 * [semver.c](https://github.com/h2non/semver.c) - 一个semver解析器并以ANSI C渲染.[MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial)   - 用C ++编写的跨平台串行端口库.  [MIT]
-* [sigslot](http://sigslot.sourceforge.net/)   -  C ++信号/插槽库.  [公共区域]
+* [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal)   - 高性能C ++ 11信号.  [公共区域]
 * [Stage](https://github.com/rtv/Stage)   - 移动机器人模拟器.  [GPL2]
 * [stdman](https://github.com/jeaye/stdman)  格式化的C ++ 11/14 stdlib手册页（来自cppreference）.  [MIT]
@@ -858,7 +859,7 @@
 
 * [Bazel](https://bazel.build)   -  Google提供的多语言，快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
-* [Buck](https://github.com/facebook/buck)   - 快速构建系统，鼓励在各种平台和语言（包括在Facebook上开发和使用的C ++）创建小型，可重复使用的模块.  用Java编写.  [阿帕奇]
+* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供了大量软件包.

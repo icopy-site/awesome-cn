@@ -155,7 +155,6 @@
   1. [Hasjob](https://hasjob.co/) - 位置过滤器 - &gt;“* Anywhere / Remote *”
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) 有远程类型过滤器.
   1. [HN hiring](http://hnhiring.me/) - 过滤遥控器.
-  1. [Honestlance](https://www.honestlance.com/)
   1. [Jobbatical](https://jobbatical.com/)
   1. [JOBBOX.io](https://landing.jobs/offers) - 过滤器 - &gt;仅限远程.
   1. [Jobhunt.ai](https://jobhunt.ai/machinelearning-remote-jobs.html)   - 机器学习工作.  过滤 - &gt;仅限远程.
@@ -190,7 +189,6 @@
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程JavaScript作业
   1. [Remote 4 Me](https://remote4me.com/) - 科技和非技术远程工作的聚合器.
   1. [Remote OK](https://remoteok.io/) - 为远程位置刮取许多工作板馈送.
-  1. [Remote Only](https://remoteonly.io/) - 从许多工作板汇总的手动策划的工作列表.
   1. [RemotePHP.io](https://remotephp.io) - 来自整个网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) - 专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - 为远程职位发布抓取多个职位空缺.
@@ -228,6 +226,7 @@
   1. [andreis/interview](https://github.com/andreis/interview) - 您在编码面试中所需的一切
   2. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - 精选的面试问题列表
   3. [interviewing.io](https://interviewing.io/) - 在技术面试中变得很棒
+  4. [karat.io](https://karat.io/practice) - 与专业面试官进行免费练习编码面试
   4. [pramp](https://pramp.com) - 与其他候选人一起练习编码访谈（表格的两面）
   5. [remoteinterview.io](https://www.remoteinterview.io/) - 编码测试和配对编程面试工具
   6. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
@@ -290,7 +289,7 @@
   1. [Ciao Bambino](http://ciaobambino.com/) - 家庭目的地和酒店评论.
   1. [CircleCI](https://circleci.com/jobs#engineer) - 提供持续集成工具和服务.
   1. [Circonus](https://www.circonus.com/careers)   -  SaaS和本地监控，分析，警报等.  C，Go，Java，Perl.  总部位于富尔顿MD，大多数员工都很偏远.
-  1. [Clevertech](https://clevertech.biz/careers) - 我们打造令人难以置信的改变游戏规则的技
+  1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
   1. [Close.io](http://jobs.close.io) - 面向初创公司和中小型企业的内部销售CRM.
   1. [Codeship](https://codeship.com/jobs) -  SaaS持续交付
   1. [Collabora](https://www.collabora.com/careers.html) - 基于开源软件的咨询.
@@ -513,7 +512,7 @@
   1. [Outplanr](https://www.outplanr.com/) - 项目和任务管理工具.
   1. [Taskade](https://taskade.com/) - 团队的实时协作备注，清单和大纲.
   1. [Trello](https://trello.com/) - 精益项目委员会.
-  1. [Notion](http://notion.so/) - All in one workspace to write, plan, collaborate, and get organized. 
+  1. [Notion](http://notion.so/) - 所有在一个工作区中进行编写，计划，协作和组织. 
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -  Coffitivity重现咖啡馆的环境声音，以提高您的创造力，并帮助您更好地工作.

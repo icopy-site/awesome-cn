@@ -3,7 +3,7 @@
 
 人工智能（AI）课程，书籍，视频讲座和论文的精选列表.
 
-贡献最受欢迎.
+Contributions most welcome.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
@@ -21,10 +21,10 @@
 * [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧.
 * [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - 深度学习世界的入门课程. 
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014)   - 关于机器学习的入门课程，重点是：线性和多项式回归，逻辑回归和线性判别分析;  交叉验证和引导，模型选择和正则化方法（脊和套索）;  非线性模型，样条和广义加性模型;  基于树木的方法，随机森林和提升;  支持向量机.
-* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - 佐治亚理工学院关于人工智能的课程，重点是符号AI.
+* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
 * [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -  Deep Reinforcement Bootcamp讲座 -  2017年8月
 * [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) 机器学习速成课程包括一系列课程，包括视频讲座，实际案例研究和动手练习练习.
-* [Python Class By Google](https://developers.google.com/edu/python/) This is a free class for people with a little bit of programming experience who want to learn Python. The class includes written materials, lecture videos, and lots of code exercises to practice Python coding.
+* [Python Class By Google](https://developers.google.com/edu/python/)  对于想要学习Python的一点编程经验的人来说，这是一个免费课程.  该课程包括书面材料，讲座视频和许多代码练习，以练习Python编码.
 * [Deep Learning Crash Course](https://www.manning.com/livevideo/deep-learning-crash-course) 在这个实时视频课程中，机器学习专家Oliver Zeigermann教您深度学习的基础知识.
 * [Artificial Intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) -  Stuart Russell和Peter Norvig
   *还考虑浏览 [list of recommended reading](http://aima.cs.berkeley.edu/books.html)，除以“人工智能：现代方法”中的每一章.
@@ -43,6 +43,10 @@
 * [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action向您介绍深度强化学习的基本概念和术语，以及将其实施到您自己的项目中所需的实用技能和技巧.
 * [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning介绍了这种强大的机器学习方法，使用示例，插图，练习和清晰的教学. 
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action教您构建功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
+
+## Books
+
+[Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - 早期访问书，提供机器学习和使用R编程语言的基础知识.
 
 ## Programming
 
@@ -70,6 +74,7 @@
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - 关于人工智能和机器学习的一组页面.
+* [R2D3](http://www.r2d3.us/)   - 一个网站，提供从机器学习到统计学的主题的解释.  所有这些都有助于美丽的动画图表和现实生活中的例子  有多种语言版本.
 
 ## Code
 
@@ -85,7 +90,7 @@
 * [Intelligent agents and paradigms for AI](https://youtu.be/7o2GzSj86e8?t=3457)
 * [The Unreasonable Effectiveness Of Deep Learning](https://www.youtube.com/watch?v=sc-KbuZqGkI) -  Facebook的AI研究主任Yann LeCun博士就深度卷积神经网络及其在机器学习和计算机视觉中的应用进行了演讲
 * [AWS Machine Learning in Motion](https://www.manning.com/livevideo/aws-machine-learning-in-motion)- 这个交互式的liveVideo课程为您提供了使用AWS进行机器学习的速成课程，教您如何构建一个全功能的预测算法.
-* [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Deep Learning with R in Motion teaches you to apply deep learning to text and images using the powerful Keras library and its R language interface.
+* [Deep Learning with R in Motion](https://www.manning.com/livevideo/deep-learning-with-r-in-motion)-Rep Learning with R in Motion教您使用强大的Keras库及其R语言界面将深度学习应用于文本和图像.
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion)-Grokking Deep Learning in Motion不仅教你如何使用单个库或框架，你还会发现如何从头开始构建这些算法！
 * [Reinforcement Learning in Motion](https://www.manning.com/livevideo/reinforcement-learning-in-motion) - 这个liveVideo分解了关于RL系统如何学习，如何感知和处理环境数据以及如何构建和训练AI代理等关键概念. 
 
@@ -106,6 +111,10 @@
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - 一系列免费的专业和深入的深度学习视频教程和课程
 * [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - 入门级机器学习速成课程
 * [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 从图形结构化数据中学习
+* [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 聚类图结构化数据
+* [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - 机器学习会议的决策树文件
+* [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - 机器学习会议的梯度提升论文
+* [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 来自机器学习会议的欺诈检测文件
 
 ## Organizations
 

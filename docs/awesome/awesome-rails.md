@@ -30,6 +30,7 @@
 - [Drifting Ruby](https://www.driftingruby.com/)
 - [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 - [Programming Community Curated Resources For Learning Ruby on Rails](https://hackr.io/tutorials/learn-ruby-on-rails)
+- [Choosing ruby on rails for your next web development project (business guide)](https://ideamotive.co/ruby-on-rails-development-guide/)
 
 ### Jobs
 
@@ -70,8 +71,8 @@
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails前端到Genome Institute的药物基因互作数据库
 - [diaspora](https://github.com/diaspora/diaspora) - 分布式和上下文社交网络 [Live](https://diasporafoundation.org)
 - [discourse](https://github.com/discourse/discourse) - 社区讨论的平台  [Live](https://try.discourse.org/)
-- [ekylibre](https://github.com/ekylibre/ekylibre) - 简单的农业ERP [Live](http://ekylibre.org)
-- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 只需点击一下即可发送加密邮件  [Live](https://encrypt.to)
+- [ekylibre](https://github.com/ekylibre/ekylibre) - 简单的农业ERP
+- [encrypt.to](https://github.com/encrypt-to/encrypt.to) - 只需点击一下即可发送加密邮件
 - [eol](https://github.com/EOL/eol) - 生命百科全书  [Live](http://eol.org)
 - [expertiza](https://github.com/expertiza/expertiza) - 网络应用程序，学生可以提交和同行评审学习对象（文章，代码，网站等）. 
 - [fairnopoly](https://github.com/fairmondo/fairmondo) - 用户手中的自由市场  [Live](https://www.fairmondo.de)
@@ -97,7 +98,7 @@
 - [loomio](https://github.com/loomio/loomio) - 一个协作决策工具，使任何人都可以轻松完成 [Live](https://www.loomio.org)
 - [Mastodon](https://github.com/tootsuite/mastodon) -  GNU社交兼容的微博服务器 [Live](https://mastodon.social)
 - [mumuki-laboratory](https://github.com/mumuki/mumuki-laboratory) - 学生练习并接收自动和人工反馈的地方 [Live](http://mumuki.io)
-- [obtvse2](https://github.com/natew/obtvse2) -  Rails上一个干净简洁的降价博客平台
+- [obtvse2](https://github.com/natew/obtvse2) -  Rails上一个干净简单的降价博客平台
 - [onebody](https://github.com/churchio/onebody) - 使用Ruby on Rails构建的教堂的私有成员门户 [Live](https://church.io)
 - [opencongress](https://github.com/sunlightlabs/opencongress) - 开放国会的开放网站
 - [OpenFarm](https://github.com/openfarmcc/OpenFarm) - 免费开放的农业和园艺知识数据库  
@@ -131,7 +132,7 @@
 - [teambox](https://github.com/teambox/teambox) - 屡获殊荣的协作解决方案，受Basecamp，Yammer和Twitter的启发  [Live](https://redbooth.com)
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - 旨在免费教授Web开发的项目  [Live](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - “完成任务”应用程序  [Live](http://www.getontracks.org)
-- [trado](https://github.com/Jellyfishboy/trado) - 轻便，易用的电子商务平台，专为独立交易者和中小企业设计  
+- [trado](https://github.com/Jellyfishboy/trado) - 轻量级，易于使用的电子商务平台，专为独立交易者和中小企业设计  
 - [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [Live](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - 政府内部：英国政府如何运作，它在做什么，以及如何参与其中  
 
@@ -184,7 +185,7 @@
 
 #### Platforms
 
-- [Nanobox](https://github.com/nanobox-io/nanobox) - 用于创建可在任何地方部署的一致，隔离的开发环境的微型PaaS（μPaaS） [Live](https://nanobox.io).
+- [Nanobox](https://github.com/nanobox-io/nanobox) - 微型PaaS（μPaaS），用于创建可在任何地方部署的一致，隔离的开发环境 [Live](https://nanobox.io).
 
 #### Generators
 

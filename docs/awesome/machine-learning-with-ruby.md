@@ -97,7 +97,7 @@ the word using the `#RubyML` hash tag!
   实验装置基于 [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
    使用进化算法搜索深度神经网络（而不是训练）.  应用程序
   [OpenAI Gym](https://github.com/openai/gym) 运用 [PyCall](https://github.com/mrkn/pycall.rb).
-- [svmkit](https://github.com/yoshoku/SVMKit) -
+- [svmkit](https://github.com/yoshoku/rumale) -
   Ruby中的Machine Learninig工具包，具有广泛的实现算法
   （SVM，Logistic回归，线性回归，随机森林等）和
   类似于Python中的Scikit-Learn的接口.
@@ -149,7 +149,7 @@ the word using the `#RubyML` hash tag!
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
   简单的朴素贝叶斯分类器.
 - [nbayes](https://github.com/oasic/nbayes) -
-  功能齐全的Ruby实现朴素贝叶斯.
+  功能齐全的Ruby实现Naive Bayes.
 
 ### Decision trees
 
@@ -233,7 +233,7 @@ the word using the `#RubyML` hash tag!
     - 这是食物吗？  机器学习简介_由 [Matthew Mongeau](https://twitter.com/halogenandtoast)
     <sup>[[video](https://www.youtube.com/watch?v=8G709hKkthY) |
           [slides](https://www.slideshare.net/halogenandtoast/is-it-food)]</sup>
-  -  _Bayes是BAE_ [Richard Schneeman](https://twitter.com/schneems)
+  -  _Bayes是BAE_ by [Richard Schneeman](https://twitter.com/schneems)
     <sup>[[video](https://www.youtube.com/watch?v=bQSzZrDDV80) |
           [slides](https://speakerdeck.com/schneems/bayes-is-bae)]</sup>
   -  _Ruby圆桌会议：Ruby_中的机器学习 [RubyThursday](https://rubythursday.com/)
