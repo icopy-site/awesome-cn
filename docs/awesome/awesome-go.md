@@ -1713,7 +1713,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Echo](https://github.com/labstack/echo) - 高性能，极简主义的Go Web框架.
 * [Fireball](https://github.com/zpatrick/fireball) - 更“自然”的感觉Web框架.
 * [Gem](https://github.com/go-gem/gem) - 简单快速的Web框架，对REST API友好.
-* [Gin](https://github.com/gin-gonic/gin)   -  Gin是一个用Go编写的Web框架！  它配有更好的性能马提尼般的API，最多快40倍.  如果您需要性能和良好的生产力.
+* [Gin](https://github.com/gin-gonic/gin)   -  Gin是一个用Go编写的Web框架！  它具有类似马提尼的API，具有更好的性能，速度提高了40倍.  如果您需要性能和良好的生产力.
 * [Gizmo](https://github.com/NYTimes/gizmo) - 纽约时报使用的微服务工具包.
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) - 快速简便地设置RESTful JSON API.
 * [go-rest](https://github.com/ungerik/go-rest) -  Go的小而邪恶的REST框架.
@@ -2093,6 +2093,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Golang Hamburg - Germany](https://www.meetup.com/Go-User-Group-Hamburg/)
 * [Golang Israel](https://www.meetup.com/Go-Israel/)
 * [Golang Joinville - Brazil](https://www.meetup.com/Joinville-Go-Meetup/)
+* [Golang Korea](https://www.meetup.com/GDG-Golang-Korea/)
 * [Golang Lima - Peru](https://www.meetup.com/Golang-Peru/)
 * [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
 * [Golang Marseille](https://www.meetup.com/fr-FR/Golang-Marseille/)

@@ -584,6 +584,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
+- [Docker dev bookmarks](https://www.bookmarks.dev/search?q=docker) - 使用标签 [docker](https://www.bookmarks.dev/tagged/docker)
 
 ## Awesome Lists
 

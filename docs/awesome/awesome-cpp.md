@@ -13,7 +13,7 @@
 * [The GNU C Library](https://www.gnu.org/software/libc/manual) - 本手册的目的是告诉您如何使用GNU C库的功能.
 
 ## Frameworks
-*C++ generic frameworks and libraries.*
+* C ++通用框架和库.*
 
 * [abseil-cpp](https://github.com/abseil/abseil-cpp)   -  Abseil C ++通用库.  [Apache2的]
 * [Apache C++ Standard Library](http://stdcxx.apache.org/)   -  STDCXX，算法，容器，迭代器和其他基本组件的集合.  [已退休] [Apache2]
@@ -40,7 +40,7 @@
 * [Qt](https://www.qt.io/download-open-source/)  ：zap： - 跨平台的应用程序和UI框架.  [GPL / LGPL /商业]
 * [Reason](http://code.google.com/p/reason/)   - 一个跨平台框架，旨在为需要C ++性能和强度的开发人员提供Java，.Net或Python的易用性.  [GPL2]
 * [ROOT](https://root.cern.ch/)   - 一组OO框架，具有以非常有效的方式处理和分析大量数据所需的所有功能.  在CERN使用.  [LGPL]
-* [STLport](http://www.stlport.org/) - An exemplary version of STL. [Free]
+* [STLport](http://www.stlport.org/)   -  STL的示例性版本.  [自由]
 * [STXXL](http://stxxl.sourceforge.net/)   - 超大型数据集的标准模板库.  [促进]
 * [tbox](https://github.com/tboox/tbox)   - 类似glib的多平台c库.  [Apache2的] [website](http://tboox.org/)
 * [Ultimate++](http://www.ultimatepp.org/)   -  C ++跨平台快速应用程序开发框架.  [BSD]
@@ -229,7 +229,10 @@
 * [Themis](https://github.com/cossacklabs/themis)   - 用于无痛数据安全的加密库，提供对称和非对称加密，具有前向保密的安全套接字，适用于移动和服务器平台.  [Apache2的]
 
 ## CSV
+*用于解析逗号分隔值（CSV）文件的库*
 
+* [csv](https://github.com/p-ranav/csv)   - 用于现代C ++的CSV.  [MIT]
+* [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)   - 用于读取CSV文件的小巧，易用且快速的标头库.  [BSD -3-第]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)   - 一个快速，独立的流式C ++ 17 CSV解析器，带有可选的类型转换和统计信息.  [MIT]
 
 ## Database
@@ -385,7 +388,7 @@
 * [libvips](https://github.com/jcupitt/libvips)   - 具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)   - 用于C ++的ImageMagick程序接口.  [Apache2的]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) -  C的ImageMagick程序接口[Apache2]
-* [OpenCV](http://opencv.org/)  ：zap： - 开源计算机视觉.  [BSD]
+* [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
 * [OpenEXR](http://www.openexr.com/)   - 用于高动态范围成像的跨平台库.  [改良BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)   - 强大的图像和纹理争用库，支持大量常见的有损和RAW格式.  [改良BSD]
 * [Simd](https://github.com/ermig1979/Simd)   - 使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON用于ARM.  [MIT]
@@ -393,7 +396,7 @@
 * [tesseract-ocr](https://github.com/tesseract-ocr)   -  OCR引擎.  [Apache2的]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)   - 适用于JPEG的符合ISO标准的C ++ EXIF和XMP解析库.  [MIT]
 * [Video++](https://github.com/matt-42/vpp)   -  C ++ 14高性能视频和图像处理库.  [MIT]
-* [VIGRA](https://github.com/ukoethe/vigra)   - 用于图像分析的通用C ++计算机视觉库.  [麻省理工学院X11]
+* [VIGRA](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
 * [VTK](http://www.vtk.org/)   - 用于3D计算机图形，图像处理和可视化的开源免费软件系统.  [BSD]
 
 ## Internationalization
@@ -443,6 +446,7 @@
 * [QJson](https://github.com/flavio/qjson) - A qt-based library that maps JSON data to QVariant objects. [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
 * [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
+* [taoJSON](https://github.com/taocpp/json)   - 零依赖C ++标头专用JSON库.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
 * [YAJL](https://github.com/lloyd/yajl) -  C中的快速流式JSON解析库[ISC]
 
@@ -496,6 +500,7 @@
 * [GLM](https://github.com/g-truc/glm)   - 仅与头部相关的C ++数学库，它与OpenGL的GLSL数学匹配并互操作.  [MIT]
 * [GMTL](http://ggt.sourceforge.net/)   - 图形数学模板库是以通用方式实现图形基元的工具集合.  [GPL2]
 * [GMP](https://gmplib.org/)   - 用于任意精度算术的AC库，对有符号整数，有理数和浮点数进行操作.  [LGPL3和GPL2]
+* [linalg.h](https://github.com/sgorsten/linalg)   - 用于C ++的单头，公共域，短矢量数学库.  [授予许可]
 * [MIRACL](https://github.com/CertiVox/MIRACL)   -  Multiprecision Integer和Rational算术加密库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)   -  muParser是一个用C ++编写的可扩展的高性能数学表达式解析器库.  [MIT]
 * [NT2](https://github.com/Mathieu-/nt2)   -  SIMD优化的数字模板库，提供类似MATLAB语法的接口.  [促进]
@@ -693,7 +698,7 @@
 
 ## Sorting
 
-* [pdqsort](https://github.com/orlp/pdqsort)   - 模式击败快速排序.  [ZLIB]
+* [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
 * [Timsort](https://github.com/gfx/cpp-TimSort)   - 模板化稳定排序功能，优于基于快速排序的算法，包括std :: sort，用于反向或半排序数据.  [MIT]
 
 ## Video
@@ -775,7 +780,7 @@
 * [SDS](https://github.com/antirez/sds) -  C的简单动态字符串库[BSD]
 * [semver.c](https://github.com/h2non/semver.c) - 一个semver解析器并以ANSI C渲染.[MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial)   - 用C ++编写的跨平台串行端口库.  [MIT]
-* [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
+* [sigslot](http://sigslot.sourceforge.net/)   -  C ++信号/插槽库.  [公共区域]
 * [SimpleSignal](https://github.com/larspensjo/SimpleSignal)   - 高性能C ++ 11信号.  [公共区域]
 * [Stage](https://github.com/rtv/Stage)   - 移动机器人模拟器.  [GPL2]
 * [stdman](https://github.com/jeaye/stdman)  格式化的C ++ 11/14 stdlib手册页（来自cppreference）.  [MIT]
@@ -859,7 +864,7 @@
 
 * [Bazel](https://bazel.build)   -  Google提供的多语言，快速且可扩展的构建系统.  [阿帕奇]
 * [Bear](https://github.com/rizsotto/Bear)   - 为clang工具生成编译数据库的工具.  [GPLv3的]
-* [Buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages including C++ developed and used at Facebook. Written in Java. [Apache]
+* [Buck](https://github.com/facebook/buck)   - 快速构建系统，鼓励在各种平台和语言（包括在Facebook上开发和使用的C ++）创建小型，可重复使用的模块.  用Java编写.  [阿帕奇]
 * [clib](https://github.com/clibs/clib)   -  C编程语言的包管理器.  [MIT]
 * [CMake](https://cmake.org/)   - 跨平台免费和开源软件，用于使用独立于编译器的方法管理软件的构建过程.  [BSD]
 * [C++ Archive Network](https://cppan.org/) - 跨平台C ++ Dependency Manager，提供了大量软件包.
@@ -992,7 +997,7 @@
 * [Eric Niebler](http://ericniebler.com/)
 * [Sticky Bits](https://blog.feabhas.com/)
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
-* [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - 它会优化吗？
+* [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
 * [Embedded in Academia](http://blog.regehr.org/)
 * [Simplify C++](https://arne-mertz.de/)
 * [Fluent C++](https://www.fluentcpp.com/) 

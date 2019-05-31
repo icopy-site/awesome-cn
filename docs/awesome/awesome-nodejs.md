@@ -160,7 +160,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
+- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -323,7 +323,7 @@
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - 流
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
-- Callbacks
+- 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
 	- [async](https://github.com/caolan/async) - 提供直接，强大的功能，以处理异步性.
 - 频道
@@ -509,7 +509,7 @@
 	- [Couchbase](https://github.com/couchbase/couchnode) -  Couchbase客户端.
 	- [MongoDB](https://github.com/mongodb/node-mongodb-native) -  MongoDB驱动程序.
 -  ODM / ORM
-	- [Sequelize](https://github.com/sequelize/sequelize) - Multi-dialect ORM. Supports PostgreSQL, SQLite, MySQL.
+	- [Sequelize](https://github.com/sequelize/sequelize)   - 多方言ORM.  支持PostgreSQL，SQLite，MySQL.
 	- [Bookshelf](https://github.com/bookshelf/bookshelf) - 以Backbone.js风格的PostgreSQL，MySQL和SQLite3的ORM.
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
@@ -553,6 +553,7 @@
 - [Jest](https://github.com/facebook/jest) - 无痛的JavaScript测试.
 - [TestCafe](https://github.com/DevExpress/testcafe) - 自动浏览器测试.
 - [abstruse](https://github.com/bleenco/abstruse) - 持续集成服务器.
+- [CodeceptJS](https://github.com/Codeception/CodeceptJS) - 端到端测试.
 
 
 ### Security
@@ -609,6 +610,7 @@
 - [rsmq](https://github.com/smrchy/rsmq) -  Redis支持的消息队列.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能Redis支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能Redis消息队列.
+- [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板的情况下构建基于Amazon Simple Queue Service（SQS）的应用程序.
 
 
 ### Node.js management
@@ -727,7 +729,7 @@
 - [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的网络爬虫.
 - [jsdom](https://github.com/tmpvar/jsdom) -  HTML和DOM的JavaScript实现.
 - [hypernova](https://github.com/airbnb/hypernova) - 服务器端呈现您的JavaScript视图.

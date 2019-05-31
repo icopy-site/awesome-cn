@@ -3,7 +3,7 @@
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
- 有什么要添加或改变？  打开一个 [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
+Have something to add 要么 change? Open a [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
 
 ------------------------------
 
@@ -189,7 +189,7 @@
 - [GTFS-OSM-Sync](https://github.com/CUTR-at-USF/gtfs-osm-sync) - 用于以GTFS格式同步数据的Java工具 [OpenStreetMap.org](http://www.openstreetmap.org/).
 - [onebusaway-gtfs-to-barefoot](https://github.com/OneBusAway/onebusaway-gtfs-to-barefoot) - 用于创建的Java工具 [Barefoot](https://github.com/bmwcarit/barefoot) 来自GTFS文件的mapfile.
 - [o2g](https://github.com/hiposfer/o2g) - 从OpenStreetMap中提取GTFS提要的简单工具.
-- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将GTFS stop_ids分配给的Python应用程序 [TransLoc](http://transloc.com/) ID使用 [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 不在他们的API中提供GTFS`stop_ids`.
+- [transloc-gtfs-rectifier](https://github.com/laidig/transloc-gtfs-rectifier) - 尝试将GTFS stop_ids分配给的Python应用程序 [TransLoc](http://transloc.com/) ID使用 [TransLoc's API](https://market.mashape.com/transloc/openapi-1-2) ([TransLoc](http://transloc.com/) 不在其API中提供GTFS`stop_ids`.
 - [Hafas2GTFS](https://github.com/geops/hafas2gtfs) - 用Python编写的Hafas2GTFS转换器，针对SBB HAFAS源进行了优化.
 - [gtsf](https://github.com/r-gtfs/gtsf) -  R中的一般传输（GTFS）简单（地理）特征（sf）可用于通过GDAL从GTFS转换为Shapefile，GeoJSON和其他格式. 
 
@@ -198,7 +198,7 @@
 - [bus-router](https://github.com/atlregional/bus-router) - 使用路由从GTFS生成缺少shapes.txt的Python脚本 [Google Maps Directions API](https://developers.google.com/maps/documentation/directions/) 要么 [OSRM](https://github.com/Project-OSRM/osrm-backend/wiki/Server-api).
 - [GTFS Editor](https://github.com/conveyal/gtfs-editor)  一个（自托管的）基于Web的GTFS编辑框架.  （注意：这个项目已经被弃用了 [Conveyal Data Tools](https://github.com/conveyal/datatools-ui).)
 - [GTFS Editor for Vagrant](https://github.com/laidig/vagrant-gtfs-editor) 使用快速设置GTFS编辑器（上图） [Vagrant](https://www.vagrantup.com/)
-- [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) - 一个（自托管的）基于浏览器的用户界面，用于创建，编辑和导出静态GTFS源（请参阅 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）.  现场演示 [here](https://thawing-mountain-46422.herokuapp.com/).
+- [static-GTFS-manager](https://github.com/WRI-Cities/static-GTFS-manager) - 一个（自托管的）基于浏览器的用户界面，用于创建，编辑和导出静态GTFS（参见 [related post](https://groups.google.com/forum/#!topic/transit-developers/GFz5rTJTB0I) ）.  现场演示 [here](https://static-gtfs-manager.herokuapp.com/).
 - [TransitWand](http://transitwand.com/)   - 用于收集运输数据的开源Web和移动应用程序.  使用它来创建GTFS源，捕获乘客计数或生成GIS数据集.
 - [Conveyal Data Tools](https://github.com/conveyal/datatools-ui)   - 处理GTFS编辑，验证，质量检查和部署到OpenTripPlanner的Web应用程序.  （结合并建立在不推荐使用的功能上 [Gtfs Data Manager](https://github.com/conveyal/gtfs-data-manager) 和 [GTFS Editor](https://github.com/conveyal/gtfs-editor).)
 - [GTFS.html](https://gtfs.pleasantprogrammer.com)   - 一个完全基于浏览器的工具，用于查看GTFS供稿.  用它来查看路线，站点，时刻表等.
@@ -240,7 +240,7 @@
 
 #### GTFS Realtime Validators
 
-- [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator](https://github.com/conveyal/gtfs-validator) 工具.
+- [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator)   - 南佛罗里达大学城市交通研究中心开发的GTFS实时验证工具.  还包括一个集成版本 [gtfs-validator](https://github.com/conveyal/gtfs-validator) 工具.
 - [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - 托管版本 [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
@@ -256,7 +256,7 @@
 - [NextBus API to GTFS-realtime](https://github.com/OneBusAway/onebusaway-gtfs-realtime-from-nextbus-cli/wiki) - 一个基于Java的命令行实用程序，用于转换 [NextBus API format](http://www.nextbus.com/xmlFeedDocs/NextBusXMLFeed.pdf)  到GTFS实时.  请注意，NextBus现在直接为其产品提供GTFS实时API.  看到 [Cubic site](http://nextbus.cubic.com/Products/Real-Time-Rider-Information) 和 [this FAQ](https://medium.com/omnimodal/want-more-riders-open-up-your-nextbus-api-with-gtfs-realtime-7387c80f31e1#.pkuzizhl5).
 - [Syncromatics API to GTFS-realtime](https://github.com/CUTR-at-USF/bullrunner-gtfs-realtime-generator) - 一个基于Java的命令行实用程序，用于转换 [Syncromatics API](http://www.syncromatics.com/) 格式化为GTFS实时TripUpdates和VehiclePositons.
 - [KV6,15,17, and ARNU to GTFS-realtime](https://github.com/bliksemlabs/bliksemintegration-realtime)   - 基于Java的工具，用于处理传入的KV6,15,17和ARNU，并将它们与RID集成数据库中存在的静态传输数据进行匹配.  然后它继续将此数据导出为ARNU RITinfo，GTFS（实时）和KV78turbo
-- [WMATA BusPositions API to GTFS-realtime](https://github.com/kurtraschke/wmata-gtfsrealtime) - 从WMATA转换的基于Java的工具 [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) 和来自的RSS提醒RSS [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) 到GTFS实时TripUpdates，VehiclePositions和Alerts供稿.
+- [WMATA BusPositions API to GTFS-realtime](https://github.com/kurtraschke/wmata-gtfsrealtime) - 从WMATA转换的基于Java的工具 [BusPositions API](https://developer.wmata.com/docs/services/54763629281d83086473f231/operations/5476362a281d830c946a3d68) 和来自的RSS提醒RSS [MetroAlerts](http://www.wmata.com/rider_tools/metro_service_status/rail_bus.cfm?) 到GTFS实时TripUpdates，VehiclePositions和Alerts提要.
 - [SEPTA API 到GTFS实时](https://github.com/kurtraschke/septa-gtfsrealtime) - 基于Java的转换工具 [SEPTA's](http://www.septa.org/) [real-time bus and rail data](http://www3.septa.org/hackathon/) 到GTFS实时
 - [CTA API to GTFS-realtime](https://github.com/kurtraschke/ctatt-gtfsrealtime) - 基于Java的转换工具 [CTA's](http://www.transitchicago.com/) [Train Tracker data](http://www.transitchicago.com/developers/traintracker.aspx) 到GTFS实时.
 - [Detroit DOT to GTFS-realtime](https://github.com/prashtx/ddot-avl) - 从中​​提取实时信息 [DDOT's](http://www.detroitmi.gov/How-Do-I/Locate-Transportation/Bus-Schedules) TransitMaster安装（数据库）并转换为GTFS实时
@@ -292,12 +292,12 @@
     - [gbfs-validator](https://github.com/PierrickP/gbfs-validator) - 验证GBFS源的第三方工具.
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - 通过俄勒冈州交通部和俄勒冈州立大学合作开发的开放式固定路线交通乘客数据标准.
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 建议包含托管和收费车道收费规范（MTLFS）的模式，并定义由所开发的所有文件中使用的字段 [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 基于GTFS的运输网络格式*车辆和容量数据*适用于由Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的动态运输建模.
+- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 基于GTFS的运输网络格式*车辆和容量数据*适用于Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的动态运输建模.
 - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - 基于GTFS的旅行需求数据格式，侧重于个人乘客*需求*，适用于旧金山县交通管理局，LMZ LLC和UrbanLabs LLC开发的动态网络建模.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - （正在开发中 - 见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)）个别乘客*轨迹的数据*.
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) -  GTFS公交网络的扩展，其中包含由UrbanLabs LLC和旧金山县交通管理局开发的性能数据的附加文件.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -  Transit ITS数据交换规范（TIDES）旨在为历史传输ITS数据（包括AVL，APC和AFC数据）创建标准数据结构，API和数据管理工具.
-- [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - 似乎正在制定汽车共享和运输网络公司（TNCs）/ rideshare的数据标准.
+- [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - 似乎正在制定汽车共享和运输网络公司（TNC）/ rideshare的数据标准.
 - [City of Los Angeles Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification)   - 实现市政当局的实时数据共享，测量和监管以及作为服务提供商的移动性的格式.  它旨在确保政府有能力执行，评估和管理提供者.
 - [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - 由...形成 [International Parking Institute (IPI)](https://www.parking.org/)， [British Parking Association (BPA)](http://www.britishparking.co.uk/)，和 [European Parking Association (EPA)](http://www.europeanparking.eu/) ，APDS是一个非营利组织，其使命是开发，推广，管理和维护统一的全球标准，使组织能够跨全球平台共享停车数据.  APDS版本1.0文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
 - [Mobility as a Service API](http://maas-api.org/) - 一组开放文档和测试套件，用于定义与MaaS兼容的API（例如，a [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
@@ -325,7 +325,7 @@
 #### Academic papers
 
 - [Tang et al. - "Ridership effects of real-time bus information system: A case study in the City of Chicago"](https://www.sciencedirect.com/science/article/pii/S0968090X12000022) - 伊利诺伊州芝加哥的实验表明，当乘客通过短信或电子邮件访问实时信息时，乘客量会有适度增加.
-- [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf)   - 论文试图回答“我们如何在过境预测中传达不确定性？”的问题.  解释问题，现有解决方案和设计a [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
+- [Kay et al. - "When(ish) is my bus? User-centered Visualizations of Uncertainty in Everyday, Mobile Predictive Systems"](http://faculty.washington.edu/jhullman/busUncertaintyVis.pdf)   - 论文试图回答“我们如何在运输预测中传达不确定性？”的问题.  解释问题，现有解决方案和设计a [better interface for letting users know when to arrive at the bus stop](https://github.com/mjskay/when-ish-is-my-bus/blob/master/quantile-dotplots.md#quantile-dotplots).
 - [Watkins et al. - "Where Is My Bus? Impact of mobile real-time information on the perceived and actual wait time of transit riders"](https://www.sciencedirect.com/science/article/pii/S0965856411001030) - 西雅图Seattl的实验表明，当乘客通过移动应用程序访问实时信息时，他们会感觉到公交车等待时间缩短.
 - [Brakewood et al. - “An experiment evaluating the impacts of real-time transit information on bus riders in Tampa, Florida”](https://www.sciencedirect.com/science/article/pii/S0965856414002146)   - 位于佛罗里达州坦帕市的受控实验表明，与没有实时信息的车手相比，通过移动应用程序访问实时信息的车手感觉等待时间减少了近2分钟.  具有实时信息的车手也减少了焦虑和沮丧以及更好地接受代理.
 - [Brakewood et al. - "The impact of real-time information on bus ridership in New York City"](https://www.sciencedirect.com/science/article/pii/S0968090X15000297) - 纽约市的实验表明，当车手可以获得实时信息时，长途航线的乘客量会增加.

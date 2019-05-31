@@ -39,8 +39,7 @@
 
 ## Dart
 
-- [webdev.dartlang.org](https://github.com/dart-lang/site-webdev/labels/beginner)  _（标签：初学者）_ <br>  开发人员编写Dart Web应用程序的网站，包括AngularDart应用程序.
-- [www.dartlang.org](https://github.com/dart-lang/site-www/labels/beginner)  _（标签：初学者）_ <br>  一个涵盖Dart语言和公共库的网站，适用于Dart库，Web应用程序，服务器端代码和移动（Flutter）应用程序的开发人员.
+- [dart.dev](https://github.com/dart-lang/site-www/labels/beginner)  _（标签：初学者）_ <br>  一个涵盖Dart语言和公共库的网站，适用于Dart库，Web应用程序，服务器端代码和移动（Flutter）应用程序的开发人员.
 
 ## Elixir
 
@@ -53,7 +52,7 @@
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
-- [Helm](https://github.com/kubernetes/helm/labels/starter)  _（标签：首发）_ <br>  Kubernetes包装经理
+- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kubernetes包装经理
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo)  _（标签：抓起来，难度：介绍，去）_ <br>  Golang和React中的开源Slack替代方案
 
 ## Java
@@ -80,7 +79,7 @@
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  允许你拆分的Angular指令！
 - [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  JavaScript的最小功能历史库.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：第一次撰稿人）_ <br>  通过在许多Javascript应用程序中实现Todo，帮助您选择MV \ *框架.
-- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门bug）_ <br>  一个用于Web的开源代码编辑器，用JavaScript，HTML和CSS编写.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：easy-pick）_ <br>  一个脱机优先的JavaScript客户端利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript中的模式.
@@ -92,7 +91,7 @@
 - [Ghost](https://github.com/TryGhost/Ghost/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  只是一个博客平台
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  令人敬畏的ESLint规则.
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JS / HTML / CSS终端
-- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
+- [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：Up-For-Grabs）_ <br>  一个轻量级JavaScript日期库，用于解析，验证，操作和格式化日期.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wanted-easy）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  Hoodie Camp是新的和现有的贡献者的空间.
@@ -109,7 +108,7 @@
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  Operation Code是一个非盈利组织，通过指导，奖学金和提供支持性社区帮助退伍军人及其家人进入科技行业.
+- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly) _(label:beginner-friendly)_ <br> Operation Code is a non-profit organization that are helping Veterans and their families get into the tech industry through mentorships, scholarships, and providing a supportive community.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
@@ -212,4 +211,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.

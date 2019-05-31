@@ -83,7 +83,7 @@
   *优雅的URL路由，导航框架，深层链接等*
 
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting)   -  iOS路由正确完成.  使用已解析的参数处理URL识别和控制器显示.  在一行中，控制器堆栈自动保留！
-* [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+* [DeepLinkKit](https://github.com/button/DeepLinkKit) - 一个出色的路线匹配，基于块的方式来处理您的深层链接.
 * [IntentKit](https://github.com/intentkit/IntentKit) - 在iOS应用中处理第三方URL方案的更简单方法.
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - 使用简单的基于块的API的iOS URL路由库.
 * [IKRouter](https://github.com/IanKeen/IKRouter) -  URLScheme路由器，支持为关联的url参数自动创建UIViewControllers，以允许创建导航堆栈
@@ -308,7 +308,7 @@
 * [TFTColor](https://github.com/burhanuddin353/TFTColor) -  RGB和CMKY十六进制字符串和十六进制值的简单扩展（ObjC和Swift）.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
 * [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) - 具有CSS3颜色名称的UIColor扩展.
-* [Colorify](https://github.com/czater/Colorify) - 简单而强大的色彩库，包括2017年最新，最时尚的色彩.
+* [Colorify](https://github.com/czater/Colorify) - Simple, yet powerful color library that includes latest and most trendy colors from 2017.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 使用Swift内置的直观iOS颜色选择器.
 * [Lorikeet](https://github.com/valdirunars/Lorikeet) - 轻量级Swift框架，用于美观的色彩方案生成和CIE色差计算.
 * [Gestalt](https://github.com/regexident/Gestalt) - 一个非侵入式轻量级iOS应用程序库，支持动画主题切换.
@@ -2001,6 +2001,7 @@
 * [fireworks](https://github.com/tomkowz/fireworks) -  UIView的烟花效果
 * [Disintegrate](https://github.com/dbukowski/Disintegrate) - 解体动画的灵感来自于复仇者联盟在无限战争结束时所做的事情.
 * [Wobbly](https://github.com/sagaya/wobbly) -  Wobbly是一个预定义，易于使用的iOS动画库.
+* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)   - 只需一行代码即可为任何视图添加闪烁效果的简便方法.  它可用作不显眼的加载指示器.
 
 ### Transition
 * [BlurryModalSegue](https://github.com/Citrrus/BlurryModalSegue) - 自定义模态segue，用于提供模糊的叠加效果.
@@ -2263,7 +2264,7 @@
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 带图像和块的UIMenuItem（闭包）
 * [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - 用Swift编写的优雅下拉菜单显示在导航栏下方，用于在用户单击导航标题时显示相关项目列表.
 * [ALRadialMenu](https://github.com/AlexLittlejohn/ALRadialMenu)   - 带弹簧动画的径向/圆形菜单.  写得很快
-* [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) - 易于使用的下拉菜单，支持图像.
+* [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) - An easy to use dropdown menu that supports images.
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - 动画，多选项菜单按钮.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)   -  iOS幻灯片菜单查看基于Google+，iQON，Feedly，Ameba iOS应用程序.  它是用纯粹的Swift编写的.
 * [SideMenu](https://github.com/jonkykong/SideMenu)   - 受Facebook欢迎的Swift简单侧边菜单控制.  左右两侧.  大量的自定义和动画选项.  可以在Storyboard中实现，无需代码.
@@ -2738,7 +2739,7 @@ CollectionView，在几分钟内发现Instagram.
  * [VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController) - 准备使用CocoaPods的“Acknowledgements”/“Licenses”/“Credits”视图控制器.
  * [Closures](https://github.com/vhesener/Closures) -  UIKit和Foundation的Swifty闭包.
  * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能
- * [MKUnits](https://github.com/michalkonturek/MKUnits) - Unit conversion library for Swift.
+ * [MKUnits](https://github.com/michalkonturek/MKUnits) -  Swift的单位转换库.
  * [ActionClosurable](https://github.com/takasek/ActionClosurable) - 有助于将objc风格的目标/动作转换为快速闭包的扩展
  * [ios_system](https://github.com/holzschu/ios_system) - 在iOS程序中直接替换system（）
  * [SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile) - 将配置文件解析为Swift模型.

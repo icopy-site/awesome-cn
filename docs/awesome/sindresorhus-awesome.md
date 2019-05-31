@@ -63,7 +63,7 @@
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
@@ -108,6 +108,7 @@
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
 - [Go](https://github.com/avelino/awesome-go#readme)
 - [Scala](https://github.com/lauris/awesome-scala#readme)
+	- [Scala Native](https://github.com/tindzk/awesome-scala-native#readme) - 基于LLVM优化Scala的提前编译器.
 - [Ruby](https://github.com/markets/awesome-ruby#readme)
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
@@ -273,6 +274,7 @@
 - [Empirical Software Engineering](https://github.com/dspinellis/awesome-msr#readme) - 基于证据的软件系统研究.
 - [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis#readme)
 - [Information Retrieval](https://github.com/harpribot/awesome-information-retrieval#readme) - 学习开发自己的搜索引擎.
+- [Quantum Computing](https://github.com/desireevl/awesome-quantum-computing#readme) - 计算利用量子计算机上的量子力学和量子比特.
 
 
 ## Big Data
@@ -540,7 +542,7 @@
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
-- [Colorful](https://github.com/Siddharth11/Colorful#readme) - Choose your next color scheme.
+- [Colorful](https://github.com/Siddharth11/Colorful#readme) - 选择下一个配色方案.
 - [Steam](https://github.com/scholtzm/awesome-steam#readme) - 数字分销平台.
 - [Bots](https://github.com/hackerkid/bots#readme) - 建造机器人.
 - [Site Reliability Engineering](https://github.com/dastergon/awesome-sre#readme)
@@ -577,7 +579,7 @@
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为免费开源项目提供工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创建更好，更一致的设计和体验.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - 上座部佛教传统的教诲.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - 开源Java应用程序性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - 成为开源维护者的经验.
@@ -587,7 +589,7 @@
 - [FIRST Robotics Competition](https://github.com/andrewda/awesome-frc#readme) - 国际高中机器人锦标赛.
 - [Humane Technology](https://github.com/humanetech-community/awesome-humane-tech#readme) - 有助于改善社会的开源项目.
 - [Speakers](https://github.com/karlhorky/awesome-speakers#readme) - 编程和设计界的会议和聚会发言人.
-- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - Table-top gaming fun for all.
+- [Board Games](https://github.com/edm00se/awesome-board-games#readme) - 为所有人提供桌面游戏乐趣.
 - [Software Patreons](https://github.com/uraimo/awesome-software-patreons#readme) - 为个人程序员提供资金或开发开源项目.
 - [Parasite](https://github.com/ecohealthalliance/awesome-parasite#readme) - 寄生虫和宿主 - 病原体相互作用.
 - [Food](https://github.com/jzarca01/awesome-food#readme) -  GitHub上与食品有关的项目.

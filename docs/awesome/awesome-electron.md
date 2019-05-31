@@ -171,6 +171,7 @@
 - [Notable](https://github.com/fabiospampinato/notable) - 基于Markdown的笔记记录.
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - 简单安全的日记应用程序.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 从Unsplash设置桌面壁纸.
+- [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
 
 ### Closed Source
 

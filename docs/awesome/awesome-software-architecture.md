@@ -15,6 +15,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 - [CQRS](https://docs.microsoft.com/en-us/azure/architecture/patterns/cqrs) - 通过使用单独的接口来分离从更新数据的操作中读取数据的操作.
 - [Event Sourcing](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing) - 不仅仅存储域中数据的当前状态，而是使用仅附加存储来记录对该数据采取的全部操作.
 - [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) -  Feature Toggles（通常也称为Feature Flags）是一种强大的技术，允许团队在不更改代码的情况下修改系统行为.
+- [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) -  BDD使用人类可读的软件用户要求描述作为软件测试的基础.
 
 ## Methodology
 
@@ -68,7 +69,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 - [Extreme Programming](http://www.extremeprogramming.org/) - 最具体的流行敏捷流程，专注于工程和开发实践.
 
-### Devops
+### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) - 结合软件开发和运营实践，缩短产品上市时间，同时保持高品质.
 - [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) - 关于IT，Devops和帮助您的企业获胜的商业小说：orange_book：.

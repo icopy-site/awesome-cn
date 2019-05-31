@@ -282,7 +282,7 @@
 - [Freehand](https://github.com/wddwycc/Freehand)   - 用于快速草图的macOS状态栏应用程序.  ！[swift_icon] 
 - [Gimp](https://github.com/GNOME/gimp)   -  Gimp是GNU Image Manipulation Program.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  ！[swift_icon] 
-- [ImageAlpha](https://github.com/kornelski/ImageAlpha)   - 用于pngquant，pngnq和posterizer的Mac GUI.  ！[objective_c_icon]！[python_icon] 
+- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![objective_c_icon] ![python_icon] 
 - [Imagine](https://github.com/meowtec/Imagine)   -  Imagine是一款用于压缩PNG和JPEG的桌面应用程序，具有现代友好的UI.  ！[type_script_icon] 
 - [Katana](https://github.com/bluegill/katana)   -  Katana是一个简单的macOS截图工具，位于你的菜单栏中.  ！[javascript_icon]！[css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer)   - 用于在磁盘上查找和丢失遗忘照片的macOS应用程序.  ！[swift_icon] 
@@ -380,6 +380,7 @@
 
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod)   - 简单，漂亮的播客应用程序.  ！[javascript_icon] 
+- [Doughnut](https://github.com/CD1212/Doughnut) - 用于mac的播客播放器和库！[swift_icon] 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) -  PodcastMenu是一个简单的应用程序 [Overcast](https://overcast.fm/)  在Mac的菜单栏上，这样您就可以在工作时收听自己喜欢的播客.  ！[swift_icon] 
 - [Podlive for macOS](https://github.com/phranck/podlive-macos)   -  macOS客户端收听直播流播客（仅限）.  它目前支持通过Ultraschall广播的所有直播 [Studio Link On Air](https://studio-link.de) .  ！[objective_c_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast)   - 将macOS和Linux音频/视频转换为Google Cast和Sonos设备.  ！[python_icon] 
@@ -501,7 +502,7 @@
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) -  Windows应用程序的跨平台社区驱动端口“Keepass Password Safe”！[cpp_icon] 
 - [KeeWeb](https://github.com/keeweb/keeweb)   - 与KeePass兼容的跨平台密码管理器.  ！[javascript_icon] 
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar)   - 用于macOS的简单屏幕和麦克风录音机.  ！[swift_icon] 
-- [Life-Calendar](https://github.com/wvdk/Life-Calendar) - Life Calendar.  ![swift_icon] 
+- [Life-Calendar](https://github.com/wvdk/Life-Calendar)   - 生活日历.  ！[swift_icon] 
 - [Lunar](https://github.com/alin23/lunar)   - 外部显示器的智能自适应亮度.  ！[swift_icon] 
 - [MacPass](https://github.com/MacPass/MacPass)   - 原生macOS KeePass客户端.  ！[objective_c_icon] 
 - [Maria](https://github.com/shincurry/Maria)   -  aria2下载工具的macOS本机app / widget.  ！[swift_icon] 
@@ -518,7 +519,9 @@
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser)   -  Blockstack是用于分散应用程序的互联网，用户可以在其中拥有自己的数据.  Blockstack浏览器允许您浏览Blockstack互联网.  ！[javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src )   -  Unarchiver是一个用于解压缩归档文件的Objective-C应用程序.  ！[objective_c_icon] 
 - [ToTheTop](https://github.com/zenangst/ToTheTop)   - 小型macOS应用程序，可帮助您滚动到顶部.  ！[swift_icon] 
+- [calibre](https://github.com/kovidgoyal/calibre)   - 跨平台电子书经理.  ！[python_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX)   - 用于半自动iOS应用程序分析和评估的Cocoa应用程序.  ！[objective_c_icon]！[c_icon] 
+- [wechsel](https://github.com/friedrichweise/wechsel)   - 使用键盘管理蓝牙连接.  ！[swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht)   - 密切关注您的机器和世界上发生的事情.  ！[objective_c_icon] 
 
 ### VPN & Proxy

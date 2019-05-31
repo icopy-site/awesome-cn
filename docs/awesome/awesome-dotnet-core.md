@@ -31,7 +31,7 @@
 * [CondenserDotNet](https://github.com/Drawaes/CondenserDotNet) - 使用Kestrel和Consul的API冷凝器/反向代理，包括轻量级的consul库.
 * [Flurl](https://github.com/tmenier/Flurl) - 适用于.NET的Fluent URL构建器和可测试的HTTP [https://flurl.dev](https://flurl.dev).
 * GraphQL
-  * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - 一个旨在将Dapper和graphql-dotnet项目集成在一起的库，其中包括易用性和性能作为主要关注点.
+  * [Dapper.GraphQL](https://github.com/landmarkhw/Dapper.GraphQL) - A library designed to integrate the Dapper and graphql-dotnet projects with ease-of-use in mind and performance as the primary concern.
   * [graphql-aspnetcore](https://github.com/JuergenGutsch/graphql-aspnetcore) -  ASP.NET Core MiddleWare创建GraphQL端点.
   * [graphql-convention](https://github.com/graphql-dotnet/conventions) - 此库是顶部的补充层，允许您使用现有属性获取器和方法作为字段解析器自动将.NET类包装到GraphQL模式定义中
   * [graphiql-dotnet](https://github.com/JosephWoodward/graphiql-dotnet) - 用于ASP.NET Core的GraphiQL中间件.
@@ -90,7 +90,7 @@
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - 使用基于SSL的JSON-RPC的.NET安全通信堆栈.
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - 适用于.NET，.NET Core和Unity的基于gRPC的HTTP / 2 RPC流式处理框架.
 * [MassTransit](https://github.com/MassTransit/MassTransit) -  .NET分布式应用程序框架. 
-* [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
+* [microdot](https://github.com/gigya/microdot) - 开源.NET微服务框架.
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) -  LINQ to Objects的扩展.
 * [Nancy](https://github.com/NancyFx/Nancy) - 用于在.NET和Mono上构建基于HTTP的服务的轻量级，低仪式框架.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -  OpenCV的.NET Framework包装器.
@@ -216,6 +216,7 @@
   * [NBench](https://github.com/petabridge/NBench) -  .NET应用程序的性能基准测试和测试框架.
   * [Nexogen.Libraries.Metrics](https://github.com/nexogen-international/Nexogen.Libraries.Metrics) - 用于在.NET中收集应用程序指标并将其导出到Prometheus的库.
   * [OpenCover](https://github.com/OpenCover/opencover) - 适用于.NET 2及更高版本的代码覆盖工具（仅限WINDOWS OS），支持分支和序列点的32和64个进程.
+  * [PerformanceMonitor](https://github.com/dotnet-architecture/PerformanceMonitor) -  .NET核心应用程序性能监视器.
   * [prometheus-net](https://github.com/prometheus-net/prometheus-net) -  .NET客户端 [https://prometheus.io](https://prometheus.io).
   * [Prometheus.Client](https://github.com/PrometheusClientNet/Prometheus.Client) -  .NET客户端 [Prometheus](https://prometheus.io).
   	* [Prometheus.Client.MetricPusher](https://github.com/PrometheusClientNet/Prometheus.Client.MetricPusher) - 将指标推送到Prometheus.Client的PushGateaway.
