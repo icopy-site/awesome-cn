@@ -20,9 +20,9 @@ them.
 - [BLAS](https://www.netlib.org/blas/) - 用于执行基本矢量和矩阵运算的标准构建块.
   （Fortran，公共领域， [GitHub](https://github.com/Reference-LAPACK/lapack/tree/master/BLAS))
 - [OpenBLAS](https://www.openblas.net) - 基于GotoBLAS2的优化BLAS库.
-  （Fortran，BSD， [GitHub](https://github.com/xianyi/OpenBLAS))
+  （C和大会，BSD， [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) - 高性能BLAS类密集线性代数库.
-  （C ++，BSD，GitHub）
+  （C，BSD，GitHub）
 - [LAPACK](https://www.netlib.org/lapack/) - 用于求解线性方程组，线性系统最小二乘解，特征值问题和奇异值问题的例程.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - 线性代数的C ++模板库.
@@ -31,7 +31,7 @@ them.
   （100 ++，BSD， [GitHub](https://github.com/ginkgo-project/ginkgo))
 
 
-## Frameworks
+## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - 由PDE建模的科学应用并行解决方案的数据结构和例程.
   （C，2条款BSD， [BitBucket](https://bitbucket.org/petsc/petsc/src))
@@ -56,12 +56,12 @@ them.
 - [Firedrake](https://www.firedrakeproject.org) - 使用有限元方法解决PDE的自动化系统.
   （Python，LGPL 3， [GitHub](https://github.com/firedrakeproject/firedrake))
 - [MOOSE](https://www.mooseframework.org) - 面向对象的多物理场仿真环境.
-  （C / Python，LGPL 2.1， [GitHub](https://github.com/idaholab/moose))
+  （C ++，LGPL 2.1， [GitHub](https://github.com/idaholab/moose))
 - [MFEM](https://mfem.org) - 用于有限元方法的免费，轻量级，可扩展的C ++库.
   （C ++，LGPL 2.1， [GitHub](https://github.com/mfem/mfem))
 - [SfePy](https://sfepy.org) -  Python中的简单有限元.
   （Python，BSD， [GitHub](https://github.com/sfepy/sfepy))
-- [FreeFEM](https://freefem.org)   - 高级多物理场 - 多梅有限元语言.  （C ++，LGPL， [GitHub](https://github.com/FreeFem))
+- [FreeFEM](https://freefem.org)   - 高级多物理场 - 多页面有限元语言.  （C ++，LGPL， [GitHub](https://github.com/FreeFem))
 
 ## Meshing
 

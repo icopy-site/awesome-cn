@@ -53,7 +53,7 @@
 * [ANNetGPGPU](https://github.com/ANNetGPGPU/ANNetGPGPU)   - 基于GPU（CUDA）的人工神经网络库.  [LGPL]
 * [btsk](https://github.com/aigamedev/btsk)   - 游戏行为树入门套件.  [ZLIB]
 * [Evolving Objects](http://eodev.sourceforge.net/)   - 基于模板的ANSI-C ++进化计算库，可帮助您快速编写自己的随机优化算法.  [LGPL]
-* [frugally-deep](https://github.com/Dobiasd/frugally-deep)   - 在C ++中使用Keras模型的仅头文件库.  [MIT]
+* [frugally-deep](https://github.com/Dobiasd/frugally-deep) - Header-only library for using Keras models in C++. [MIT]
 * [Genann](https://github.com/codeplea/genann) -  C中的简单神经网络库.[zlib]
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Scala，Go，Javascript等 [website](https://mxnet.apache.org)
 * [PyTorch](https://github.com/pytorch/pytorch) - 具有强大GPU加速功能的Python中的张量和动态神经网络. [website](https://pytorch.org)
@@ -141,7 +141,7 @@
 * [LZ4](https://github.com/lz4/lz4)   - 极快的压缩算法.  [BSD] [website](http://www.lz4.org/)
 * [LZFSE](https://github.com/lzfse/lzfse)   -  LZFSE压缩库和命令行工具.  由Apple开发.
 * [LZHAM](https://code.google.com/p/lzham/)   - 无损数据压缩库，压缩比类似于LZMA，但解压缩速度更快.  [BSD]
-* [LZMA](http://www.7-zip.org/sdk.html) :zap: - The default and general compression method of 7z format. [PublicDomain]
+* [LZMA](http://www.7-zip.org/sdk.html)  ：zap： -  7z格式的默认和一般压缩方法.  [公共区域]
 * [LZMAT](http://www.matcode.com/lzmat.htm)   - 极快的实时无损数据压缩库.  [GPL]
 * [miniz](https://github.com/richgel999/miniz)   - 单C源文件Deflate / Inflate压缩库，兼容zlib的API，ZIP存档读/写，PNG写入.  [MIT]
 * [Minizip](https://github.com/nmoinvaz/minizip)   -  Zlib具有最新的错误修复程序，支持PKWARE磁盘跨越，AES加密和IO缓冲.  [ZLIB]
@@ -200,6 +200,8 @@
 * [plf::list](https://github.com/mattreecebentley/plf_list)   - 一个std :: list实现，它删除了范围拼接，以便启用缓存更友好的结构，从而产生显着的性能提升.  [ZLIB] [website](http://www.plflib.org/list.htm)
 * [plf::stack](https://github.com/mattreecebentley/plf_stack)   -  std :: stack容器适配器的替换容器，其性能优于堆栈上下文中的任何std容器.  [ZLIB] [website](http://www.plflib.org/stack.htm)
 * [ring_span lite](https://github.com/martinmoene/ring-span-lite)   -  Arthur O&#39;Dwyer的ring_span实现的简化实现，即.  循环缓冲区视图.  [MIT]
+* [robin-hood-hashing](https://github.com/martinus/robin-hood-hashing)   - 基于robin hood散列的快速和内存高效哈希表，适用于C ++ 14.  [MIT]
+* [robin-map](https://github.com/Tessil/robin-map)   - 使用robin hood散列的快速哈希映射和哈希集.  [MIT]
 * [sparsepp](https://github.com/greg7mdp/sparsepp)   - 用于C ++的快速，内存有效的哈希映射.  [BSD 3条款]
 
 ## Cryptography
@@ -240,7 +242,7 @@
 
 * [hiberlite](https://github.com/paulftw/hiberlite)   -  sqlite3的C ++对象关系映射.  [BSD]
 * [Hiredis](https://github.com/redis/hiredis)   -  Redis数据库的简约C客户端库.  [BSD]
-* [LevelDB](https://github.com/google/leveldb) - A fast key-value storage library written at Google that provides an ordered mapping from string keys to string values. [BSD]
+* [LevelDB](https://github.com/google/leveldb)   - 在Google编写的快速键值存储库，提供从字符串键到字符串值的有序映射.  [BSD]
 * [LMDB](http://symas.com/mdb/)   - 具有完整ACID语义的非常快速的嵌入式键/值存储.  [OpenLDAP的]
 * [LMDB++](https://github.com/bendiken/lmdbxx)   - 用于LMDB嵌入式数据库库的C ++ 11包装器.  [公共区域]
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - 用于C的MongoDB客户端库.[Apache2]
@@ -325,7 +327,7 @@
 *图形用户界面*
 
 * [CEGUI](http://cegui.org.uk/) - 灵活的跨平台GUI库.
-* [FLTK](http://www.fltk.org/index.php)   - 快速，轻便，跨平台的C ++ GUI工具包.  [GPL2]
+* [FLTK](http://www.fltk.org/index.php) - Fast, light, cross-platform C++ GUI toolkit. [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI)   -  GPU加速C ++用户界面，具有WYSIWYG开发工具，XML支持，内置数据绑定和MVVM功能.  [MS-PL]
 * [GTK+](http://www.gtk.org/)   - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)   - 流行的GUI库GTK +的官方C ++接口.  [LGPL]
@@ -388,7 +390,7 @@
 * [libvips](https://github.com/jcupitt/libvips)   - 具有低内存需求的快速图像处理库.  [LGPL] [website](http://www.vips.ecs.soton.ac.uk/)
 * [Magick++](http://www.imagemagick.org/script/api.php)   - 用于C ++的ImageMagick程序接口.  [Apache2的]
 * [MagickWnd](http://www.imagemagick.org/script/api.php) -  C的ImageMagick程序接口[Apache2]
-* [OpenCV](http://opencv.org/) :zap: - Open source computer vision. [BSD]
+* [OpenCV](http://opencv.org/)  ：zap： - 开源计算机视觉.  [BSD]
 * [OpenEXR](http://www.openexr.com/)   - 用于高动态范围成像的跨平台库.  [改良BSDF]
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)   - 强大的图像和纹理争用库，支持大量常见的有损和RAW格式.  [改良BSD]
 * [Simd](https://github.com/ermig1979/Simd)   - 使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON用于ARM.  [MIT]
@@ -396,14 +398,14 @@
 * [tesseract-ocr](https://github.com/tesseract-ocr)   -  OCR引擎.  [Apache2的]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)   - 适用于JPEG的符合ISO标准的C ++ EXIF和XMP解析库.  [MIT]
 * [Video++](https://github.com/matt-42/vpp)   -  C ++ 14高性能视频和图像处理库.  [MIT]
-* [VIGRA](https://github.com/ukoethe/vigra) - A generic C++ computer vision library for image analysis. [MIT X11]
+* [VIGRA](https://github.com/ukoethe/vigra)   - 用于图像分析的通用C ++计算机视觉库.  [麻省理工学院X11]
 * [VTK](http://www.vtk.org/)   - 用于3D计算机图形，图像处理和可视化的开源免费软件系统.  [BSD]
 
 ## Internationalization
 
 * [gettext](http://www.gnu.org/software/gettext/)   -  GNU&#39;gettext&#39;.  [GPL2]
 * [IBM ICU](http://site.icu-project.org/)   - 一组提供Unicode和全球化支持的C / C ++和Java库.  [ICU]
-* [libiconv](http://www.gnu.org/software/libiconv/)   - 不同字符编码之间的编码转换库.  [GPL]
+* [libiconv](http://www.gnu.org/software/libiconv/) - An encoding conversion library between different character encodings. [GPL]
 * [utf8.h](https://github.com/sheredom/utf8.h)   -  C和C ++的单头utf8字符串函数.  [授予许可]
 * [utf8proc](https://github.com/JuliaStrings/utf8proc)   - 用于处理UTF-8 Unicode数据的干净C库.  [MIT]
 
@@ -497,7 +499,7 @@
 * [Eigen](http://eigen.tuxfamily.org/)   - 用于线性代数，矩阵和向量运算，数值求解器和相关算法的模板头的高级C ++库.  [MPL2]
 * [ExprTK](http://www.partow.net/programming/exprtk/)   -  C ++数学表达式工具包库（ExprTk）是一个易于使用，易于集成和极其高效的运行时数学表达式解析器和评估引擎.  [MIT]
 * [Geometric Tools](https://www.geometrictools.com)   - 用于计算数学，图形，图像分析和物理领域的C ++库.  [促进] [website](https://www.geometrictools.com)
-* [GLM](https://github.com/g-truc/glm)   - 仅与头部相关的C ++数学库，它与OpenGL的GLSL数学匹配并互操作.  [MIT]
+* [GLM](https://github.com/g-truc/glm)   - 仅与头部相关的C ++数学库，它与OpenGL的GLSL数学匹配并互操作.  [MIT] [website](https://glm.g-truc.net/)
 * [GMTL](http://ggt.sourceforge.net/)   - 图形数学模板库是以通用方式实现图形基元的工具集合.  [GPL2]
 * [GMP](https://gmplib.org/)   - 用于任意精度算术的AC库，对有符号整数，有理数和浮点数进行操作.  [LGPL3和GPL2]
 * [linalg.h](https://github.com/sgorsten/linalg)   - 用于C ++的单头，公共域，短矢量数学库.  [授予许可]
@@ -533,7 +535,7 @@
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/)   - 使用开放标准协议（RTP / RTCP，RTSP，SIP）的多媒体流媒体库.  [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC)   -  libVLC（VLC SDK）媒体框架.  [GPL]
 * [MediaInfoLib](https://github.com/MediaArea/MediaInfoLib)   - 方便地统一显示视频和音频文件的最相关技术和标签数据.  [BSD]
-* [QtAv](https://github.com/wang-bin/QtAV)   - 基于Qt和FFmpeg的多媒体播放框架，可轻松编写播放器.  [LGPL] [website](http://wang-bin.github.io/QtAV/)
+* [QtAv](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/)  ：zap： - 简单的DirectMedia层.  [ZLIB]
 * [SFML](https://github.com/SFML/SFML)  ：zap： - 简单快速的多媒体库.  [ZLIB] [website](http://www.sfml-dev.org/)
 * [TagLib](https://github.com/taglib/taglib)   - 用于读取和编辑几种流行音频格式的元数据的库.  [LGPL / MPL] [website](https://taglib.org/)
@@ -698,7 +700,7 @@
 
 ## Sorting
 
-* [pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
+* [pdqsort](https://github.com/orlp/pdqsort)   - 模式击败快速排序.  [ZLIB]
 * [Timsort](https://github.com/gfx/cpp-TimSort)   - 模板化稳定排序功能，优于基于快速排序的算法，包括std :: sort，用于反向或半排序数据.  [MIT]
 
 ## Video
@@ -800,7 +802,7 @@
 * C或C ++编译器列表*
 
 * [8cc](https://github.com/rui314/8cc) - 一个小C编译器.
-* [c](https://github.com/ryanmjacobs/c)   - 一次编译并执行C“脚本”！  [MIT]
+* [c](https://github.com/ryanmjacobs/c) - Compile and execute C "scripts" in one go! [MIT]
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的AC编译器.  支持C ++ 11/14 / 1z C11.  由LLVM团队开发.  [NCSA]
 * [GCC](https://gcc.gnu.org/)   -  GNU编译器集合.  支持C ++ 11/14 / 1z C11和OpenMP.  [GNU GPL3]
 * [PCC](http://pcc.ludd.ltu.se/)   - 一个非常古老的C编译器.  支持C99.
@@ -937,7 +939,7 @@
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - 甚高频/免费编程书籍/ C.
 * [Free C++ Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c-1) - 甚高频/免费编程书籍/ C ++.
-* [cppbestpractices](https://github.com/lefticus/cppbestpractices) -  C ++最佳实践的协作集合.
+* [cppbestpractices](https://github.com/lefticus/cppbestpractices) - Collaborative Collection of C++ Best Practices.
 
 ## Coding Style
 
@@ -997,7 +999,7 @@
 * [Eric Niebler](http://ericniebler.com/)
 * [Sticky Bits](https://blog.feabhas.com/)
 * [Paul Fultz II's Blog](http://pfultz2.com/blog/)
-* [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - Will It Optimize?
+* [ridiculousfish](http://ridiculousfish.com/blog/posts/will-it-optimize.html) - 它会优化吗？
 * [Embedded in Academia](http://blog.regehr.org/)
 * [Simplify C++](https://arne-mertz.de/)
 * [Fluent C++](https://www.fluentcpp.com/) 

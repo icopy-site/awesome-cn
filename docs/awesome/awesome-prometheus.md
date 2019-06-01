@@ -68,13 +68,14 @@ Prometheus是一个开源系统监控和警报工具包.
 - [Prometheus and Kubernetes: Deploying](https://www.weave.works/prometheus-kubernetes-deploying/) -  _Prometheus和Kubernetes_系列中的第2部分.
 - [Prometheus and Kubernetes: Monitoring Your Applications](https://www.weave.works/prometheus-and-kubernetes-monitoring-your-applications/) -  _Prometheus和Kubernetes_系列的第3部分.
 - [Robust Perception](https://www.robustperception.io/tag/prometheus/) - 由Brian Bazil撰写的关于普罗米修斯的多篇博文.
-- [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) -  Grig Gheorghiu对普罗米修斯的初步经验.
+- [Initial experiences with the Prometheus monitoring system](https://medium.com/@griggheo/initial-experiences-with-the-prometheus-monitoring-system-167054ac439c#.q565suk4h) -  Grig Gheorghiu对普罗米修斯的初步经历.
 - [Monitor your applications with Prometheus](http://blog.alexellis.io/prometheus-monitoring/) - 使用Alex Ellis的Prometheus监控您的应用程序.
 - [Practical Services Monitoring with Prometheus and Docker](https://airtame.engineering/practical-services-monitoring-with-prometheus-and-docker-30abd3cf9603) - 由Simon KP与Prometheus和Docker进行实际服务监控.
 - [Prometheus Blog Series (Part 1): Metrics and Labels](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-1-metrics-and-labels/) -  Pierre Vincent系列_Prometheus博客系列的第1部分.
 - [Prometheus Blog Series (Part 2): Metric types](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-2-metric-types/) -  Pierre Vincent系列_Prometheus博客系列的第2部分.
 - [Prometheus Blog Series (Part 3): Exposing and collecting metrics](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-3-exposing-and-collecting-metrics/) -  Pierre Vincent系列_Prometheus博客系列的第3部分.
 - [Prometheus Blog Series (Part 4): Instrumenting code in Go and Java](https://pierrevincent.github.io/2017/12/prometheus-blog-series-part-4-instrumenting-code-in-go-and-java/) -  Pierre Vincent系列_Prometheus博客系列的第4部分.
+- [Horizontal Pod Autoscaling in Kubernetes with Prometheus](https://livewyer.io/blog/2019/05/28/horizontal-pod-autoscaling/) - 由Louise在Kubernetes与Prometheus进行水平Pod自动缩放.
 
 ## Dashboards
 

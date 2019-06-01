@@ -10,7 +10,7 @@
 
 如果您正在寻找有关OCaml访问的全面的社区驱动内容 [OCamlverse](https://ocamlverse.github.io/)!
 
-要快速了解现代OCaml开发工作流程，请咨询 [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) 指南.
+有关现代OCaml开发工作流程的快速介绍，请参阅 [**OCaml for the impatient**](https://adambard.com/blog/getting-started-with-ocaml/) 指南.
 
  你最喜欢的包没有列出？  叉子和 [create a Pull Request](https://github.com/rizo/awesome-ocaml/edit/master/README.md) 添加它！
 
@@ -89,7 +89,6 @@
 - [Infer](https://github.com/facebook/infer) - 推断是Java，C和Objective-C的静态分析器
 - [Frama-C](http://frama-c.com) -  Frama-C是C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -  flow是JavaScript的静态类型检查器
-- [Ocamllint](https://github.com/cryptosense/ocamllint) -  Ocamllint检测OCaml代码中的常见错误
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次发生.）
 - [SLAyer](https://github.com/Microsoft/SLAyer) -  SLAyer是一种自动形式验证工具，它使用分离逻辑来验证C程序的内存安全性.
 - [MemCAD](https://github.com/Antique-team/memcad)   -  MemCAD是一种用于形状分析的抽象解释器.  MemCAD可以验证C程序操纵复杂的数据结构.

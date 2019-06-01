@@ -297,6 +297,9 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 不是虚假*本身*，但仍然是实施自动完成的一系列良好实践.
 - [9999999999999999.0 - 9999999999999998.0](http://geocar.sdf1.org/numbers.html) - 一个
 数字上的虚假，浮点数与小数.
+- [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -
+为什么搜索（包括分析，标记化，突出显示）具有欺骗性
+complex.
 
 
 ## Typography

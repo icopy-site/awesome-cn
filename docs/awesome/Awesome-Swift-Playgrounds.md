@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
-## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![149 playgrounds](https://img.shields.io/badge/Playgrounds:-149-orange.svg)
+## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![150 playgrounds](https://img.shields.io/badge/Playgrounds:-150-orange.svg)
 
 &gt;精选Swift游乐场的精选列表.
 
@@ -44,6 +44,7 @@
 * [Geometry with Swift](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - 在本课程中，您的学生将学习Swift 3编程的基础知识，将几何学作为学习的背景. 
 * [Image Filtering](https://github.com/lennet/image-filtering) - 关于图像过滤的Swift游戏手册. 
 * [Spacetime Rhapsody](https://github.com/hollisliu/Spacetime-Rhapsody) - 基于爱因斯坦广义相对论的可视化引力的Swift游乐场. 
+* [Neural Network](https://github.com/lennet/neuralnetwork) - 关于神经网络的Swift PlaygroundBook. 
 
 
 ## Learning Swift
@@ -144,11 +145,11 @@
 ### Algorithms and Data Structures
 *在Swift *中实现的算法和数据结构
 
-* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) -  Swift 4个游乐场，用于查看和操作排序算法.
+* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
 * [Expressions](https://github.com/mpangburn/Expressions) - 使用面向协议的二叉树优雅地建模和可视化的算术和逻辑表达式.
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) -  Swift中的算法和数据结构及其解释. 
 * [Sorting Experiments](https://github.com/adrfer/Sort) - 在Swift中使用排序算法进行诱人的实验.
-* [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
+* [Visual Binary Trees](https://github.com/akpw/VisualBinaryTrees) - 任意二进制树的轻松可视化，以及可插入的遍历实现. 
 * [Julia Fractal Playground](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - 一个快速的游乐场，生成美丽的朱莉娅设置的分形图像. 
 * [A Star](https://github.com/Dev1an/A-Star) -  Swift 4中面向协议的A *寻路算法实现.
 * [Sorting Algorithms](https://github.com/bwide/Sorting-Algorithms-Playground) - 实时可视化一些着名的排序算法和您的实验.
@@ -166,7 +167,7 @@
 * [Write your own language: Mu](https://github.com/marciok/Mu) - 一个解释如何创建名为Mu的微小编程语言的游乐场. 
 * [ASM Swift](https://github.com/NSExceptional/ASM-Swift) - 通过Swift学习汇编语言的游乐场. 
 * [Let's build a compiler in Swift](https://github.com/mkchoi212/LBAC-Swift) - 让Jack Crenshaw编译编译器转换为Swift Playgrounds.  
-* [Register VM](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
+* [Register VM](https://github.com/brianhill/register-vm-in-swift)   -  Swift游乐场中基于寄存器的VM.  ⏳
 * [Turtle Playground](https://github.com/dimsumthinking/TurtlePlayground)   - 带有Logo式命令的游乐场.  ⏳
 * [Swift Brainfuck](https://github.com/xavieryao/Swift-Brainfuck)   - 使用Playground用Swift编写的Brainfuck解释器.  ⏳
 
@@ -225,7 +226,7 @@
 
 * [Bach Playground](https://github.com/dreamwieber/BachPlayground) - 一个简单的Swift游乐场，由Bach和AVAudioEngine以及AVMIDIPlayer播放.
 * [PlayerNode Playground](https://github.com/genedelisa/PlayerNodePlayground) - 使用AVAudioEngine的Playground，播放器节点和效果播放音频文件. 
-* [Miles](https://github.com/lalomts/Miles) - 一个Swift Playground，使用AudioToolbox和AVFoundation在任何键中创建爵士即兴表演. 
+* [Miles](https://github.com/lalomts/Miles) - 使用AudioToolbox和AVFoundation在任何键中创建爵士即兴创作的Swift Playground. 
 
 ## Mathematics
 *带游乐场的现场数学*
@@ -245,7 +246,7 @@
 * [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 使用AudioKit的130多个音频合成，处理，回放和分析游乐场.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - 一组显示机器学习算法的游乐场，全部用AIToolbox框架代码实现.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - 开始使用Microsoft Cognitive Services API.
-* [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - 带RxSwift示例的游乐场.
+* [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - A playground with RxSwift examples.
 
 ## Playground Sets
 *关于各种主题的游乐场集*

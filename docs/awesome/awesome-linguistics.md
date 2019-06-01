@@ -45,8 +45,10 @@
 
 #### Free
 * [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - 介绍性的书
+* [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
 * [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - 使用haskell编程语言的未维护资源
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - 来自NLTK包的书
+* [Natural Language Processing with Python](http://www.nltk.org/book/) - 来自NLTK包的书 
+* [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
 * [Foundations of Computational Linguistics](http://books.google.com/books?id=o9iGAgAAQBAJ&dq=Foundations+of+Computational+Linguistics&hl=nl&source=gbs_navlinks_s)

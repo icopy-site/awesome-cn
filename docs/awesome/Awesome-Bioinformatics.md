@@ -100,6 +100,7 @@ __DNA重新测序___
 
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__  - 用于处理BAM文件的工具集合.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__  - 自动执行常见的SAM和BAM转换.
+* __[mosdepth](https://github.com/brentp/mosdepth)__  -  WGS，外显子组或靶向测序的快速BAM / CRAM深度计算
 * __[SAMstat](https://github.com/TimoLassmann/samstat)__  - 显示下一代测序的序列统计数据.
 * __[Telseq](https://github.com/zd1/telseq)__  -  Telseq是一种从全基因组序列数据中估计端粒长度的工具.
 
@@ -185,7 +186,7 @@ __DNA重新测序___
 * [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) - 这是一个循序渐进的指南，介绍如何向不参与该领域的人传达概念，当被问到这样的问题时：“那么，你做了什么？”
 * [A History Of Bioinformatics (In The Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) -  C. Titus Brown谈到他从2039年开始回顾生物信息学的一次演讲.他的笔记可以在这里找到 [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
 * [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) - 对生物信息学状态的批判性观点.
-* [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) -  Keith Bradnam博士“认为向一群着名的生物信息学家提出一系列简单的问题以评估他们对生物信息学研究现状的看法可能是有益的，并且可能会得到关于对他们有用的东西的任何提示.生物信息学的职业生涯.“
+* [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) -  Keith Bradnam博士“认为向一群着名的生物信息学家提出一系列简单的问题以评估他们对当前生物信息学研究状况的感受可能是有益的，并且可能会得到他们对他们有用的东西的任何提示.生物信息学的职业生涯.“
 * [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - 希望通过世界上最好的大学免费完成自己时间的生物信息学课程的人们的坚实途径.
 * [Rosalind](http://rosalind.info/) - 罗莎琳德是一个通过解决问题来学习生物信息学的平台.
 * [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - 本指南面向生物信息学家，旨在指导他们实现更好的职业发展.
@@ -221,14 +222,14 @@ __DNA重新测序___
 * [Leading Strand](https://www.youtube.com/user/LeadingStrand)   - 冷泉港实验室（CSHL）会议的主题演讲.  更多关于 [The Leading Strand](http://theleadingstrand.cshl.edu/).
 * [Genomics, Big Data and Medicine Seminar Series](https://www.youtube.com/playlist?list=PLqLDR0CTP9_pboZCk6gR9Zn4kW7h9XWJI) - “我们的研讨会致力于GBM的关键交叉，深入研究&#39;前沿&#39;技术和将深刻塑造未来的方法.”
 * [Rafael Irizarry's Channel](https://www.youtube.com/user/RafalabChannel/videos) -  Rafael Irizarry博士关于基因组学统计学的讲座和学术会谈.
-* [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast)   - “NIH VideoCast通过互联网向世界各地的观众播放研讨会，会议和会议，作为实时流媒体视频.”  不仅仅是基因组学和生物信息学视频，而是关于生物信息学和基因组学领域特定用途的许多重要讨论.
+* [NIH VideoCasting and Podcasting](https://www.youtube.com/user/nihvcast)   - “NIH VideoCast通过互联网向世界各地的观众播放研讨会，会议和会议作为实时流媒体视频.”  不仅仅是基因组学和生物信息学视频，而是关于生物信息学和基因组学领域特定用途的许多重要讨论.
 
 ### Blogs
 
 * [ACGT](http://www.acgt.me/) -  Keith Bradnam博士撰写了关于生物学，基因组学和人类对生物信息学的伪造使用对人类的持续威胁的想法.
 * [Opiniomics](http://www.opiniomics.org/) -  Mick Watson博士撰写了关于生物信息学，基因组和生物学的文章.
 * [Bits of DNA](https://liorpachter.wordpress.com/) -  Lior Pachter博士撰写关于计算生物学的评论和评论.
-* [it is NOT junk](http://www.michaeleisen.org/blog/) -  Michael Eisen博士写的“关于基因组，DNA，进化，开放科学，棒球和其他重要事物的博客”
+* [it is NOT junk](http://www.michaeleisen.org/blog/) -  Michael Eisen博士写了“关于基因组，DNA，进化，开放科学，棒球和其他重要事物的博客”
 
 ### Miscellaneous
 

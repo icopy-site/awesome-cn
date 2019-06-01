@@ -3,7 +3,6 @@
 
 关于React生态系统的一系列令人敬畏的事情.
 
-  - [React Native Awesome Components](#react-native-awesome-components)s
 
 ---
 
@@ -142,16 +141,13 @@
 - [React: CSS in JS techniques comparison](https://github.com/MicheleBertoli/css-in-js)
 - [CSS in JS Playground](https://css-in-js-playground.com)
 
-##### Routing
+##### React Routing
 
-- [react-router - A complete routing library for React](https://github.com/ReactTraining/react-router)
-- [react-router5 - A routing library for React and more](http://router5.github.io/docs/with-react.html#/inbox)
-- [buttermilk - beautifully simple routing for React projects](https://github.com/probablyup/buttermilk)
-- [pagify-it - Add routing to your React app in minutes](https://github.com/sonaye/pagify-it)
-- [reach-router - Next Generation Routing for React](https://github.com/reach/router)
-- [curi - JavaScript router for SPA](https://curi.js.org/)
-- [navi - Declarative, asynchronous routing for React. Supports hooks, suspense & static rendering.](https://github.com/frontarm/navi)
-- [react-use-path - The tiniest hook style react router.](https://github.com/zhangkaiyulw/react-use-path)
+- [react-router](https://github.com/ReactTraining/react-router) -  React的声明性路由
+- [reach-router](https://github.com/reach/router) -  React的下一代路由
+- [react-router5](https://github.com/router5/router5) - 灵活而强大的通用路由解决方案
+- [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的JavaScript路由器
+- [navi](https://github.com/frontarm/navi) -  React的声明性异步路由
 
 ##### React Projects
 
@@ -418,6 +414,13 @@
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
 
+#### React Testing Libraries
+
+- [Jest](https://jestjs.io/) - 令人愉快的JavaScript测试框架
+- [Enzyme](https://github.com/airbnb/enzyme) -  React的JavaScript测试实用程序
+- [react-testing-library](https://github.com/testing-library/react-testing-library) - 简单而完整的React DOM测试实用程序
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -  React挂钩测试实用程序，鼓励良好的测试实践
+
 ##### Animation Components
 
 - [react-loading-skeleton - Make beautiful, animated loading skeletons that automatically adapt to your app.](https://github.com/dvtng/react-loading-skeleton)
@@ -485,8 +488,6 @@
 - [Express Coffee-React views - render coffee-react on the server](https://github.com/duereg/express-coffee-react-views)
 - [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 - [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
-- [React Python](https://github.com/reactjs/react-python)
-- [React PHP](https://github.com/reactjs/react-php-v8js)
 - [React Laravel](https://github.com/talyssonoc/react-laravel)
 - [coffee-react-transform - Provides React JSX support for Coffeescript](https://github.com/jsdf/coffee-react-transform)
 - [sprockets-coffee-react - Sprockets preprocessor for CJSX](https://github.com/jsdf/sprockets-coffee-react)
@@ -598,7 +599,7 @@
 
 ##### Data Managing
 
-- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/facebook/immutable-js)
+- [Immutable.js - Immutable Data Collections for Javascript](https://github.com/immutable-js/immutable-js)
 - [cortex - A javascript library for centrally managing data with React](https://github.com/mquan/cortex)
 - [avers - A modern client-side model abstraction library](https://github.com/wereHamster/avers)
 - [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -735,6 +736,8 @@
 
 #### React Native Awesome Components
 
+- [Expo](https://expo.io/) - 用于制作跨平台移动应用程序的Expo平台
+- [react-navigation](https://reactnavigation.org/) -  React Native应用程序的路由和导航
 - [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
 - [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 - [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
@@ -746,11 +749,20 @@
 
 ---
 
-### JSX
+### React AR/VR
 
-&gt;与EcmaScript类似的XML语法扩展
+&gt; React用于增强和虚拟现实的用法
+
+- [React 360](https://facebook.github.io/react-360/) - 使用React创建令人兴奋的360和VR体验
+- [Viro React](https://viromedia.com/viroreact/) - 使用React Native快速构建AR / VR应用程序的平台
 
 ---
+
+### ReasonReact
+
+&gt; ReactJS的原因绑定
+
+- [ReasonReact Official Website](https://reasonml.github.io/reason-react/)
 
 ### Flux
 
@@ -881,26 +893,6 @@
 - [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
 - [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
 - [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
-
----
-
-### Testing
-
-&gt;反应测试
-
-#### Testing Utilities
-
-- [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
-- [enzyme - JavaScript Testing utilities for React](https://github.com/airbnb/enzyme)
-- [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections](https://github.com/astorije/chai-immutable)
-- [react-testing-library - React DOM testing utilities that encourage good testing practices](https://github.com/kentcdodds/react-testing-library)
-- [react-hooks-testing-library - React hooks testing utilities that encourage good testing practices](https://github.com/mpeyper/react-hooks-testing-library)
-
-##### Testing Tutorials
-
-- [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
-- [Unit testing React components without a DOM](http://simonsmith.io/unit-testing-react-components-without-a-dom/)
-- [The missing piece to the React testing puzzle](https://medium.com/@bruderstein/the-missing-piece-to-the-react-testing-puzzle-c51cd30df7a0)
 
 ---
 
@@ -1163,12 +1155,6 @@
 
 ### Real apps
 
- 记住这是一个非常棒的**列表.  要包含在此处，应用应该是：
-
-- 跟踪最新版本的React.
-- 积极维护.
-- 拥有重要的用户群.
-
 - [Firefox debugger](https://github.com/devtools-html/debugger.html)
 - [Remote Retro – Agile retrospectives for distributed teams](https://github.com/stride-nyc/remote_retro)
 - [Spectrum – Simple, powerful online communities](https://github.com/withspectrum/spectrum)
@@ -1178,6 +1164,6 @@
 
 ### Contribution
 
- 这个列表最初是作为关于React的有趣事物的个人收集.  当它开始React处于测试阶段时，有一个特殊的脚本将JSX转换为JS，甚至Flux还没有发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或实验场所.  这里只有免费资源.  不过，欢迎您的贡献和建议.  （✿◠‿◠）
+ 这个列表最初是作为关于React的有趣事物的个人收集.  当它开始React处于测试阶段时，有一个特殊的脚本可以将JSX转换为JS，甚至还没有发布Flux.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公共推送实验的地方.  请给我免费的资源.  不过，欢迎您的贡献和建议.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

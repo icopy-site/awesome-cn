@@ -51,7 +51,7 @@
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
-- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy)  _（标签：简单）_ <br>  可扩展，可生存，非常一致的SQL数据库
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy)  _（标签：E-easy）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kubernetes包装经理
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo)  _（标签：抓起来，难度：介绍，去）_ <br>  Golang和React中的开源Slack替代方案
 

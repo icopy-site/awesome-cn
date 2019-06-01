@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  968 |  2019年5月29日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  968 |  2019年5月31日
 
 
 
@@ -391,7 +391,7 @@
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
 * [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 为什么不使用UserDefaults来存储Codable对象.
-* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - 通过iCloud轻松同步NSUserDefaults.
+* [Zephyr](https://github.com/ArtSabintsev/Zephyr) - Effortlessly synchronize NSUserDefaults over iCloud.
 
 #### MongoDB
 [back to top](#readme) 
@@ -983,7 +983,7 @@
 [back to top](#readme) 
 
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - 首个无样板模拟框架.
-* [Kakapo](https://github.com/devlucky/Kakapo) - 动态模拟服务器行为和响应.
+* [Kakapo](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - 一个优雅的库，可以轻松地存根HTTP请求.
 * [Mockit](https://github.com/sabirvirtuoso/Mockit) - 一个简单的模拟框架，受到着名的Mockito for Java的启发.
 
@@ -1035,7 +1035,7 @@
 * [AECoreDataUI](https://github.com/tadija/AERecord) - 核心数据驱动的UI.
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - 用于创建控制器的有用组件，旨在管理任何计算参数.
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
-* [BedgeNotificHub](https://github.com/jogendra/BedgeNotificHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
+* [BadgeHub](https://github.com/jogendra/BadgeHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 生成并管理屏幕底部显示的上下文卡.
 * [CircularProgress](https://github.com/sindresorhus/CircularProgress) -  macOS应用程序的循环进度指示器.
@@ -1077,6 +1077,7 @@
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重用的UI开发，如制作乐高积木.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - 带液体动画的Spinner装载机组件.
+* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)   - 只需一行代码即可为任何视图添加闪烁效果的简便方法.  它可用作不显眼的加载指示器.
 * [Macaw](https://github.com/exyte/macaw) - 功能强大且易于使用的矢量图形库，支持SVG.
 * [Magnetic](https://github.com/efremidze/Magnetic) -  SpriteKit Floating Bubble Picker（灵感来自Apple Music）.
 * [Mandoline](https://github.com/blueapron/Mandoline) -  iOS选择器视图，可满足您的所有“挑选”需求.
@@ -1105,7 +1106,7 @@
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
 * [Shiny](https://github.com/efremidze/Shiny) - 彩虹效果视图（灵感来自Apple Pay Cash）.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - 受Facebook，Twitter照片浏览器启发的简单PhotoBrowser / Viewer.
-* [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
+* [Spots](https://github.com/hyperoslo) -  Spots是一个视图控制器框架，可以让您的设置和未来的开发速度极快.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - 适用于iOS应用程序的完整可配置电子表格视图用户界面.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - 显示和编辑评级，可从界面构建器完全自定义.
 * [StepProgressView](https://github.com/yonat/StepProgressView)   - 带有标签和形状的逐步进度视图.  UIActivityIndi​​catorView和UIProgressView的良好替代品.
@@ -1120,11 +1121,11 @@
 * [Wallet](https://github.com/rshevchuk/Wallet)   -  Apple的Wallet界面的复制品.  添加，删除或出示您的卡和通行证.
 * [Windless](https://github.com/Interactive-Studio/Windless) -  Windless可以轻松实现不可见的布局加载视图.
 * [WSTagsField](https://github.com/whitesmith/WSTagsField) - 表示不同标签的iOS文本字段.
-* [YMTreeMap](https://github.com/yahoo/YMTreeMap) -  Treemap / Heatmap布局引擎，基于Squarified
+* [YMTreeMap](https://github.com/yahoo/YMTreeMap) - Treemap / Heatmap layout engine, based on Squarified
 * [YNSearch](https://github.com/younatics/YNSearch) - 令人敬畏的完全可定制的搜索视图，如Pinterest.
 
 #### Alert
-*Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
+* Libs显示警报，操作表，通知，弹出窗口.* [back to top](#readme) 
 
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - 现代，简单的UIAlertController包装.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) - 使用TextField，DatePicker，PickerView，TableView和CollectionView对UIAlertController进行高级使用.
@@ -1208,7 +1209,7 @@
 [back to top](#readme) 
 
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - 轻量级装载活动HUD.
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - 动画渐变加载栏.
 * [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - 美丽且可定制的进度HUD.
 * [PKHUD](https://github.com/pkluz/PKHUD) - 重新实现Apple HUD.
 
@@ -1216,7 +1217,6 @@
 [back to top](#readme) 
 
 * [ActiveLabel](https://github.com/optonaut/ActiveLabel.swift) - UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://).
-* [AnimatedMaskLabel](https://github.com/jogendra/LoadingShimmer) - 一个漂亮的渐变动画标签，可以轻松为任何视图添加闪烁效果.
 * [CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) - 具有变形动画的简单倒计时UILabel，以及一些有用的功能.
 * [FloatLabelFields](https://github.com/FahimF/FloatLabelFields) - 包含内置标题/标签的文本输入控件，这样您就不必为每个字段添加单独的标题.
 * [GlitchLabel](https://github.com/kciter/GlitchLabel) - 适用于iOS的小故障UILabel.
@@ -1372,7 +1372,7 @@
 * [folding-cell](https://github.com/Ramotion/folding-cell) - 折叠细胞过渡.
 * [GridView](https://github.com/KyoheiG3/GridView) - 可以定制为时间表，电子表格，分页等.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - 用于在项目中显示任何UITableView / UICollectionView的占位符和空状态的好库.
-* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews
+* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - 帮助您更好地管理UITableViews的框架
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - 将视差标头添加到UIScrollView / UITableView的简单方法.
 * [Persei](https://github.com/Yalantis/Persei) -  UITableView / UICollectionView / UIScrollView的动画顶级菜单.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) -  PullToRefresh库.
@@ -1500,4 +1500,4 @@
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚!!
+请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚!!

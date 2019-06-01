@@ -82,7 +82,7 @@
 - [AgOpenGPS](https://github.com/farmerbriantee/AgOpenGPS) -  Ag精确制图和分段控制软件.
 - [DRO-Matic](https://github.com/drolsen/DRO-Matic) - 用于DIY DRO-Matic橱柜的全自动水培操作系统 - 营养剂量，灌溉，切口，定时器，EC和pH漂移固定.
 - [FarmBot](https://github.com/farmbot) - 开源精准农业数控农业项目.
-- [MIT Open Agriculture Initiative](https://github.com/openaginitiative) - 开源生态系统技术，支持和促进透明度，网络化实验，教育和超本地化生产.
+- [Open Agriculture Foundation](https://github.com/OpenAgricultureFoundation) - 开源生态系统技术，支持和促进透明度，网络化实验，教育和超本地化生产.
 - [OpenMinder](https://github.com/autogrow/openminder) -  RaspberryPi的开源根区监控，API和开源帽子.
 
 ## Knowledgebases and Learning Resources

@@ -97,7 +97,7 @@ the word using the `#RubyML` hash tag!
   实验装置基于 [machine_learning_workbench](https://github.com/giuse/machine_learning_workbench)
    使用进化算法搜索深度神经网络（而不是训练）.  应用程序
   [OpenAI Gym](https://github.com/openai/gym) 运用 [PyCall](https://github.com/mrkn/pycall.rb).
-- [svmkit](https://github.com/yoshoku/rumale) -
+- [rumale](https://github.com/yoshoku/rumale) -
   Ruby中的Machine Learninig工具包，具有广泛的实现算法
   （SVM，Logistic回归，线性回归，随机森林等）和
   类似于Python中的Scikit-Learn的接口.
