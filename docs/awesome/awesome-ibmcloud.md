@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="victorshinya/awesome-ibmcloud"></div>
 <div align="center">
-    <img width="253.5" height="340" src="https://raw.githubusercontent.com/victorshinya/awesome-ibmcloud/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
+    <img width="270" height="251" src="https://raw.githubusercontent.com/victorshinya/awesome-ibmcloud/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -27,7 +27,7 @@
 * [kitura-couchdb](https://github.com/IBM-Swift/Kitura-CouchDB) - 用于Kitura的CouchDB适配器.
 * [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) - 一个可插入的框架，用于使用Kitura验证Swift服务器中的用户凭据.
 * [kitura-credentials-google](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) -  Kitura-Credentials框架的插件，使用Google Web登录进行身份验证.
-* [kitura-net](https://github.com/IBM-Swift/Kitura-net) -  Kitura网络.
+* [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
 * [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - 基于SwiftNIO的Kitura网络库.
 * [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - 示例应用程序，显示如何使用Kitura的各种功能.
 * [kitura-session](https://github.com/IBM-Swift/Kitura-Session) - 一个可插入的框架，用于使用Kitura管理Swift服务器中的用户会话.
@@ -81,14 +81,20 @@
 
 ## Carbon Design System
 
+* [carbon](https://github.com/carbon-design-system/carbon) - 由IBM构建的设计系统.
+* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) -  IBM Cloud的Carbon Design System附加组件.
+* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom)   - 该库是Carbon IBM Design System的扩展.  它包含IBM.com用户旅程之间共享的独特组件，以统一其外观.
+* [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) -  IBM Collaboration Solutions的Carbon Add-on.
 * [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react)   - 此库包含所有IBM IoT产品之间共享的React组件，以统一我们的外观.  这些小部件通常基于碳组件反应小部件.
 * [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux)   - 所有IoT团队可用于桥接碳UI小部件和redux的UI组件.  这个库先行反应和redux.  该库通常与此小部件库一起使用.
-* [carbon-components](https://github.com/IBM/carbon-components) - The component library behind the Carbon Design System.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 使用D3和打字稿实现可重复使用的图表.
 * [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -  IBM的碳设计系统的Angular实施.
-* [carbon-components-react](https://github.com/IBM/carbon-components-react) - 反应碳设计系统的组件.
-* [carbon-design-kit](https://github.com/IBM/carbon-design-kit) -  Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化综合套件.
-* [carbon-elements](https://github.com/IBM/carbon-elements) -  Carbon Elements帮助开发人员在数字和软件产品中执行IBM Design Language.
-* [carbon-icons](https://github.com/IBM/carbon-icons) - 碳设计系统的SVG图标库.
+* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - 反应碳设计系统的组件.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -  Vue实施碳设计系统.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -  Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化综合套件.
+* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - 碳设计系统的SVG图标库.
+* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - 与碳组件一起使用的主题集合.
+* [carbon-website](https://github.com/carbon-design-system/carbon-website) - 碳设计系统的网站.
 
 ## Getting Started Guides
 

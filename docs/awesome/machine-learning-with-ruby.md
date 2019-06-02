@@ -25,7 +25,6 @@
 此列表中的许多有用资源来自于开发
 [红宝石科学基金会] [sciruby]，我们的[贡献者] [贡献者]和
 我们自己的日常工作在各种ML应用程序.
-Read [why](#wait-but-why) 这个清单太棒了.
 
 ：闪耀：每一个 [contribution](https://github.com/arbox/machine-learning-with-ruby/blob/master/contributing.md)  不客气！  通过pull添加链接
 请求或创建问题以开始讨论.
@@ -100,7 +99,9 @@ the word using the `#RubyML` hash tag!
 - [rumale](https://github.com/yoshoku/rumale) -
   Ruby中的Machine Learninig工具包，具有广泛的实现算法
   （SVM，Logistic回归，线性回归，随机森林等）和
-  类似于Python中的Scikit-Learn的接口.
+  接口类似于Python中的[Scikit-Learn] [scikit].
+- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+  运用 [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend 运用 [GSL][gsl].
 
 ### Neural networks
 
@@ -125,6 +126,8 @@ the word using the `#RubyML` hash tag!
   为TensorFlow for Ruby进行的基础和独立重新实现.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Ruby的深度学习框架.
+- [tensorflow](https://github.com/somaticio/tensorflow.rb) -  Ruby绑定 [TensorFlow](https://www.tensorflow.org/).
+
 
 ### Kernel methods
 
@@ -239,7 +242,7 @@ the word using the `#RubyML` hash tag!
   -  _Ruby圆桌会议：Ruby_中的机器学习 [RubyThursday](https://rubythursday.com/)
     <sup>[[video](https://www.youtube.com/watch?v=ScIFARN0jCo)]</sup>
 - 2016
-  - _Practical Machine Learning with Ruby_ by [Jordan Hudgens](https://twitter.com/jordanhudgens)
+  - 使用Ruby_的_Practical Machine Learning [Jordan Hudgens](https://twitter.com/jordanhudgens)
     <sup>[[tutorial](https://www.crondose.com/2016/12/practical-machine-learning-ruby/)]</sup>
   -  _Deep Learning：Ruby Developers的简介_ [Geoffrey Litt](https://twitter.com/geoffreylitt)
     <sup>[[slides](https://speakerdeck.com/geoffreylitt/deep-learning-an-introduction-for-ruby-developers)]</sup>
@@ -257,7 +260,7 @@ the word using the `#RubyML` hash tag!
     <sup>[[video](https://www.youtube.com/watch?v=pYC5mXHUWkc)]</sup>
 - 2015
   - 使用Ruby_ by，_Machine Learning变得简单 [Lorenzo Masini](https://twitter.com/rugginoso)
-    <sup>[[post](https://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/)]</sup>
+    <sup>[[post](https://www.leanpanda.com/blog/2015-08-24-machine-learning-automatic-classification/)]</sup>
   - 使用Ruby机器学习查找Paris Hilton Quotes_ [Rick Carlino](https://github.com/RickCarlino)
     <sup>[[tutorial](https://web.archive.org/web/20160414072324/http://datamelon.io/blog/2015/using-ruby-machine-learning-id-paris-hilton-quotes.html)]</sup>
 - 2014
@@ -278,7 +281,7 @@ the word using the `#RubyML` hash tag!
     <sup>[[post](https://www.sitepoint.com/detecting-faces-with-ruby-ffi-in-a-nutshell/)]</sup>
 - 2012
   - 使用Ruby学习_Machine，第一部分由 [Vasily Vasinov](https://twitter.com/vasinov)
-    <sup>[[tutorial](http://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
+    <sup>[[tutorial](https://www.vasinov.com/blog/machine-learning-with-ruby-part-one/)]</sup>
   -  Ruby_by中的_Recurrent神经网络 [Joseph Wilk](https://twitter.com/josephwilk)
     <sup>[[post](http://blog.josephwilk.net/ruby/recurrent-neural-networks-in-ruby.html)]</sup>
   -  _Recommendation Engines使用机器学习，和JRuby_ by [Matthew Kirk](https://twitter.com/mjkirk)
@@ -338,37 +341,24 @@ the word using the `#RubyML` hash tag!
 - [Twitter](https://twitter.com/search?q=Machine%20Learning%20Ruby&src=typd)
 - [NonWebRuby](https://twitter.com/NonWebRuby)
 
-## Needs your Help!
-
-本节中的所有项目对社区而言非常重要，但需要
- 更多的关注.  如果你有空闲时间和奉献精神，请花几个小时
-在这里的代码.
-
 ## Related Resources
 
 - <a name="gls"></a>
-  [GSL (GNU Scientific Library)](http://www.gnu.org/software/gsl/)
-```brew install gsl```
+  [GSL（GNU科学图书馆）] [gls]
 - <a name="opencv"></a>
   [OpenCV](https://opencv.org/)
-```brew tap homebrew / science &amp;&amp; brew install opencv```
 - <a name="empty-lines-around-access-modifier"></a>
   [Graphviz](http://www.graphviz.org/)
-```brew install graphviz```
 - <a name="gnuplot"></a>
   [Gnuplot](http://www.gnuplot.info/)
-```brew install gnuplot --with-x11```
 - <a name="xquartz"></a>
   [X11/XQuartz](https://www.xquartz.org/)
 - <a name="imagemagic"></a>
-  [ImageMagick](https://www.imagemagick.org/script/index.php) &amp;&amp; libjpeg
-```brew install imagemagick &amp;&amp; brew install libjpeg```
+  [ImageMagick](https://www.imagemagick.org/script/index.php)
 - <a name="r"></a>
   [R](http://www.r-project.org/)
-```brew tap homebrew / science &amp;&amp; brew install r```
 - <a name="octave"></a>
   [Octave](https://www.gnu.org/software/octave/)
-```brew tap homebrew / science &amp;&amp; brew install octave --without-docs```
 - [scikit-learn algorithm cheatsheet](https://scikit-learn.org/stable/tutorial/machine_learning_map/)
 - [Awesome Ruby](https://github.com/markets/awesome-ruby#natural-language-processing) -
   在其他令人敬畏的项目中，NLP相关项目的简短列表.
@@ -389,18 +379,6 @@ the word using the `#RubyML` hash tag!
   Ruby接口 [GNU Scientific Library](https://www.gnu.org/software/gsl/).
 - [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
   使用C编程语言嵌入和扩展Ruby的现代参考和教程.
-
-## Wait but why?
-
- 有许多与ML相关工具的软件列表.  有几个列表
- 与Ruby相关的项目.  没有只有工作和测试的列表
- 具有文档范围的软件.  我们会尝试制作一个！
-
- 什么是真棒？  令人敬畏的是记录，维护和专注的工具.
-
- 有什么东西在某一点变得不那么棒吗？  是!  被遗弃的项目与破碎
- 依赖性不再令人敬畏！  他们离开这个名单.
-
 
 ## License
 
@@ -427,3 +405,5 @@ the word using the `#RubyML` hash tag!
 [cs]：https：//en.wikipedia.org/wiki/Computational_science
 [fe]：https：//en.wikipedia.org/wiki/Feature_engineering
 [ts]：https：//en.wikipedia.org/wiki/Test_set
+[gsl]：https：//www.gnu.org/software/gsl/
+[scikit]：https：//scikit-learn.org/stable/index.html

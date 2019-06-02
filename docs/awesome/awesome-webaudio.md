@@ -56,6 +56,7 @@
 - [web-audio-utils](https://github.com/mohayonao/web-audio-utils) -  Web Audio API常用的实用程序功能.
 - [Audion](https://github.com/google/audion) -  Chrome扩展程序，可向开发人员工具添加Web音频面板.
 - [web-audio-oscillators](https://github.com/lukehorvat/web-audio-oscillators) -  Web Audio定制振荡器的集合.
+- [web-audio-generator](https://github.com/ISNIT0/webaudio-generator) - 用于生成Web音频代码的UI.
 
 ### MIDI
 - [midimessage](https://github.com/notthetup/midimessage) - 一个简单的MIDI消息解析器.

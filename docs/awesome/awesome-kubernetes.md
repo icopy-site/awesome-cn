@@ -459,7 +459,7 @@ Projects
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [Kubernetes Ec2 Autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubic-Project](https://github.com/kubic-project)
-* [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSet和DaemonSets的pod中
+* [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSets和DaemonSets的pod中
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
 
 ## Package Managers
@@ -752,7 +752,7 @@ Projects
 * [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -  Authenticaton webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供商.
 * [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - 寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - 帮助构建自适应和细粒度的pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) - 为在Kubernetes上运行的pod提供不同的AWS IAM角色
@@ -829,7 +829,8 @@ Projects
 ## Backup and Disaster Recovery
 
 * [Velero](https://github.com/heptio/velero)   - 用于管理Kubernetes集群的备份和还原的实用程序.  以前是Heptio Ark.
-* [burry.sh](https://github.com/mhausenblas/burry.sh) - Cloud Native backup and recovery for etcd, zookeeper and consul
+* [K8up](https://github.com/vshn/k8up) - 基于restic的Kubernetes和OpenShift备份操作员
+* [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
 

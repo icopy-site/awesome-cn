@@ -21,10 +21,10 @@
 *如何设计程序（[Site] [site-htdp]，cc-nc-nd）
 *计算机程序的结构和解释（[Site] [site-sicp]，cc-sa）
 *编程语言：应用和解释（[Site] [site-plai]，cc-nc-sa）
-* Practical Foundations for Programming Languages ([Site][site-pfpl], cc-nc-nd)
+*编程语言的实用基础（[Site] [site-pfpl]，cc-nc-nd）
 *算法等（[Site] [site-algorithm-etc]，cc-nc-sa） - 此页面包含Jeff Erickson在伊利诺伊大学厄巴纳 - 香槟分校教授的各种算法类的讲义和其他课程资料.
 *计算理论导论（[Site] [site-michiel-computation]，cc-sa） - 这是一本关于计算理论本科课程的免费教科书，我们自2002年以来一直在卡尔顿大学任教
-*计算机科学的离散结构：计数，递归和概率（[Site] [site-michiel-structures]，cc-nc-sa） - 这是一本关于计算机科学离散结构本科课程的免费教材自2013年以来一直在卡尔顿大学任教
+*计算机科学的离散结构：计数，递归和概率（[Site] [site-michiel-structures]，cc-nc-sa） - 这是一本关于计算机科学离散结构本科课程的免费教科书，我自2013年以来一直在卡尔顿大学任教
  * [graphbook] [repo-graphbook]（GNU-FDL） - 由David Joyner，Minh Van Nguyen和David Phillips撰写的关于算法图论的GNU-FDL书.  这是一本关于算法图论的入门书
 * [操作系统和中间件：支持受控交互] [repo-operating-middleware]（[Site] [site-operating-middleware] cc-sa） - 关于操作系统原则的免费，可修改的教科书
 *并行机器上的编程（[站点] [站点并行机器]，cc-nd） - 本书的目的是帮助您编写共享内存并行机器，而不会冒您的理智
@@ -34,13 +34,13 @@
 *编程基础：面向对象编程（[Site] [site-funop]，cc-nc-sa） - 本书介绍了一种平衡而灵活的方法，将面向对象原则融入到使用Python的入门课程中
  *计算简介（[Site] [site-introtocom]，cc-nc-sa） - 本书介绍了使用Scheme和Python编程语言进行计算时最重要的思想.  它侧重于如何通过定义程序来描述信息过程，如何分析执行程序所需的成本，以及机械地计算和不能计算的基本限制
  * [自下而上的计算机科学] [repo-csftbu]（[网站] [site-csftbu]，cc-sa） - 自下而上的计算机科学 - 一本免费的在线书籍，旨在从低端教授计算机科学起来.  涵盖的主题包括二进制和二进制逻辑，操作系统内部，工具链基础和系统库基础
-* [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python
+* [使用算法和数据结构解决问题] [repo-psads]​​（[Site] [site-psads]​​，cc-nc-sa） - 使用Python通过算法和数据结构解决问题的示例和工作
 *数据压缩说明（[网站] [site-dce]，自定义liscense） - 本书面向想要了解数据压缩如何工作或想要编写数据压缩软件的读者.
 
 [site-dce]：http：//mattmahoney.net/dc/dce.html
 [repo-psads]​​：https：//github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
 [site-psads]​​：http：//interactivepython.org/runestone/static/pythonds/index.html
-[repo-csftbu]: https://github.com/ianw/bottomupcs
+[repo-csftbu]：https：//github.com/ianw/bottomupcs
 [site-csftbu]：http：//www.bottomupcs.com/
 [site-introtocom]：http：//www.computingbook.org/
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
@@ -49,10 +49,10 @@
 [site-sicp]：https：//mitpress.mit.edu/sicp/full-text/book/book.html
 [site-htdp]：http：//www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]：https：//www.crypto101.io/
-[repo-crypto-101]: https://github.com/crypto101/book
+[repo-crypto-101]：https：//github.com/crypto101/book
 [repo-littleosbook]：https：//github.com/littleosbook/littleosbook
 [site-littleosbook]：http：//littleosbook.github.io/
-[site-ods]：http：//opendatastructures.org/
+[site-section]：http：//opendatastructures.org/
 [repo-ods]：https：//github.com/patmorin/ods
 [site-algorithm-etc]：http：//jeffe.cs.illinois.edu/teaching/algorithms/
 [site-michiel-structures]：http：//cglab.ca/~michiel/DiscreteStructures/
@@ -72,14 +72,14 @@
 * [Think Stats] [repo-thinkstats]（[Site] [site-thinkstats]，cc-sa） - 程序员的概率和统计
 *神经网络简介（[网站] [site-abinn]，cc-nc-nd）
 *群众数据挖掘（[PDF] [site-dmftm]，cc）
-* [黑客的贝叶斯方法] [repo-baymh]（[网站] [site-baymh]，麻省理工学院） - 从计算/理解 - 第一，数学 - 第二的观点介绍贝叶斯方法和概率编程
+* [黑客的贝叶斯方法] [repo-baymh]（[网站] [site-baymh]，MIT） - 从计算/理解 - 第一，数学 - 第二的观点介绍贝叶斯方法和概率编程
 *统计软件期刊（[网站] [site-jstatsoft]，cc-by）
 * [The Book of Jupyter] [repo-jupyter-book]（[Site] [site-jupyter-book]，cc） - 这是一些涵盖高级Jupyter / IPython SciPy教程的材料，是/是/将将于2015年7月发布
 
 [repo-jupyter-book]：https：//github.com/Carreau/jupyter-book
 [site-jupyter-book]：https：//carreau.gitbooks.io/jupyter-book/content/
 [site-jstatsoft]：http：//www.jstatsoft.org/index
-[site-baymh]：http：//camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[站点baymh] http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]：https：//github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]：http：//www.dkriesel.com/en/science/neural_networks
@@ -98,7 +98,13 @@
 * [CoreOS Documentation] [repo-coreos]（[Site] [site-coreos]，Apache 2.0） -  CoreOS的文档
 * [Packer文档] [repo-packer]（[Site] [site-packer]，MPL） -  Packer的文档
 * [命令行的艺术] [repo-art-command-line]（cc-sa） - 在一个页面中掌握命令行
+* [命令行文本处理] [repo-cli-text-processing]（[Site] [site-cli-text-processing]，cc-nc-sa） - 从查找文本到搜索和替换，从排序到美化文本和更多
+* [Linux命令行] [repo-linux-cli]（[Site] [site-linux-cli]，cc-nc-sa） -  Linux命令和Shell脚本简介
 
+[repo-linux-cli]：https：//github.com/learnbyexample/Linux_command_line
+[site-linux-cli]：https：//learnbyexample.gitbooks.io/linux-command-line/content/index.html
+[repo-cli-text-processing]：https：//github.com/learnbyexample/Command-line-text-processing
+[site-cli-text-processing]：https：//learnbyexample.gitbooks.io/command-line-text-processing/content/
 [repo-art-command-line]：https：//github.com/jlevy/the-art-of-command-line
 [repo-packer]：https：//github.com/mitchellh/packer/tree/master/website/source/docs
 [site-packer]：https：//www.packer.io/docs/
@@ -121,7 +127,7 @@
 
 [repo-jeff-collision]：https：//github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]：http：//www.jeffreythompson.org/collision-detection/
-[repo-hott-book]：https：//github.com/HoTT/HoTT
+[repo-hott-book]: https://github.com/HoTT/HoTT
 [site-hott-book]：http：//homotopytypetheory.org/
 
 
@@ -140,14 +146,14 @@
 [site-tdtgtp]：http：//www.groklaw.net/staticpages/index.php？page = 20051013231901859
 [site-fsfs]：http：//shop.fsf.org/product/free-software-free-society-2/
 [repo-fsfs]：http：//bzr.savannah.gnu.org/lh/books/changes
-[site  -  aosa]：http：//aosabook.org/en/index.html
+[site-aosa]：http：//aosabook.org/en/index.html
 [repo-aosa]：https：//github.com/aosabook/aosabook
 
 
 <a name='progromming'></a>
 ### Programming
 
-* [500行或更少] [repo-500-lines]（cc＆mit） - 这是“500行或更少”一书的来源，是“开源应用程序架构”系列中的第四本.
+* [500行或更少] [repo-500-lines]（cc＆mit） - 这是“500行或更少”一书的来源，这是“开源应用程序架构”系列中的第四本.
 * [指南] [repo-thoughtbot-guides]（cc） - 完成工作，编程和编程风格的指南.
 * [应用程序启动指南] [repo-app-launch-guide]（[站点] [站点应用程序启动指南]，公共域名） - 本指南介绍了验证，构建，营销的所有必要步骤，并推出您的产品，专注于app dev.
 * [初学者的逆向工程] [repo-refb-book]（[Site] [site-refb-book]，cc-nc-nd） - 讨论的主题：x86 / x64，ARM / ARM64，MIPS，Java / JVM.
@@ -220,7 +226,7 @@
 <a name='writing_and_documentation'></a>
 ### Writing and Documentation
 
-* [写文档] [repo-write-the-docs]（[Site] [site-write-the-docs]，cc） - 一个Sphinx文档和一般事物写作的地方.
+* [写文档] [repo-write-the-docs]（[Site] [site-write-the-docs]，cc） -  Sphinx文档和一般事物写作的地方.
 * [Hitchhiker的文档指南！] [repo-thgtd]（[Site] [site-thgtd]，cc-nc-sa） - 本指南旨在提供有关创建文档的建议和最佳实践手册.
 * [CommonMark Spec] [repo-commonmark-spec]（[Site] [site-commonmark-spec]，cc-sa） -  CommonMark是Markdown语法的合理化版本，在C和C中使用规范和BSD许可的参考实现JavaScript的.
 * reStructuredText标记规范（[Site] [site-rst-spec]，Public Domain）
@@ -241,7 +247,7 @@
 * [数据新闻手册] [site-data-journalism-handbook]（cc-sa） - 数据新闻手册是一本免费的开源参考书，适用于对新兴数据新闻领域感兴趣的任何人
 * [D3.js简介] [repo-intro-to-d3]（[Site] [site-intro-to-d3]，Apache 2.0） - 本教程提供了D3.js的快速介绍，这是一个Javascript库，用于在浏览器中创建数据可视化.
 * [代码的性质] [repo-natureofcode]（[Site] [site-natureofcode]，cc-nc，LGPL） - 本书重点介绍使用Processing进行自然系统计算机模拟的编程策略和技术
-* [数据科学45分钟简介] [repo-data-science-45min]（公共领域） -  Ipython笔记本演示文稿，用于开始基本编程，统计和机器学习技巧
+* [数据科学45分钟简介] [repo-data-science-45min]（公共领域） -  Ipython笔记本演示文稿，用于从基本编程，统计和机器学习技术入手
 * [数据+设计] [repo-data-design]（[网站] [网站数据设计]，cc-nc-sa） - 准备和可视化信息的简单介绍
 * [D3 101截屏视频] [repo-d3-101-screencasts]（[网站] [网站-d3-101-截屏视频]，麻省理工学院） -  Curran Kelleher的D3.js截屏视频
 * [专题制图指南] [repo-themacg]（[网站] [site-themacg]，cc-nc） - 专题制图基本原则的简短友好指南.
@@ -250,7 +256,7 @@
 [site-themacg]：http：//axismaps.github.io/thematic-cartography/
 [site-d3-101-screencasts]：https：//www.youtube.com/watch？v = ui -gmvJ5n0＆list = PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb
 [repo-d3-101-screencasts]：https：//github.com/curran/screencasts/
-[repo-data-design]：https：//github.com/infoactive/data-design/
+[repo-data-design]: https://github.com/infoactive/data-design/
 [site-data-design]：https：//infoactive.co/data-design
 [repo-data-science-45min]：https：//github.com/DrSkippy/Data-Science-45min-Intros
 [repo-natureofcode]：https：//github.com/shiffman/The-Nature-of-Code
@@ -285,7 +291,7 @@
 * [ØMQ - 指南] [repo-zguide]（[网站] [site-zguide] cc-nc-sa） - 学习和使用ØMQ
 * [NPR Visuals的最佳实践] [repo-npr-bp]（cc） -  NPR Visuals团队的最佳实践和编码约定.
 * [10up工程最佳实践] [repo-10up-bp]（[网站] [site-10up-bp]，麻省理工学院） - 本指南规定了我们作为一家公司如何设计工程师网站
-* [Peco REAMDE] [repo-peco]（麻省理工学院） -  Peco的文献（简单交互式过滤工具）
+* [Peco REAMDE] [repo-peco]（麻省理工学院） -  Peco的文献记录（简单交互式过滤工具）
  * [在Y分钟内学习X] [repo-xyminutes]（[网站] [site-xyminutes]，cc-sa） - 旋转一下您最近喜欢的语言.  社区主导型！
 * [RxMarbles] [repo-rxmarbles]（[Site] [site-rxmarbles]，BSD） -  Rx Observables的交互图
 
@@ -296,7 +302,7 @@
 [repo-xyminutes]：https：//github.com/adambard/learnxinyminutes-docs
 [repo-piece]：https：//github.com/peco/peco
 [repo-10up-bp]：https：//github.com/10up/Engineering-Best-Practices
-[site-10up-bp]：https：//10up.github.io/Engineering-Best-Practices/
+[site-10up-bp]: https://10up.github.io/Engineering-Best-Practices/
 [site-zguide]：http：//zguide.zeromq.org/
 [repo-zguide]：https：//github.com/imatix/zguide
 [repo-solarized]：https：//github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
@@ -309,7 +315,7 @@
 <a name='language-c'></a>
 ### C
 
-* [C Style][repo-cstyle] (cc-sa) - My favorite C programming practices
+* [C风格] [repo-cstyle]（cc-sa） - 我最喜欢的C编程实践
 
 [repo-cstyle]：https：//github.com/mcinglis/c-style
 
@@ -355,7 +361,10 @@
 * [Neo Ruby Koans] [repo-ruby-koan]（[网站] [site-ruby-koan]，cc-nc-sa） - 一套用于教授Ruby语言的Koans
 * [Middleman] [repo-middleman]（[Site] [site-middleman]，cc） -  Middleman的文档
 * [Jekyll] [repo-jekyll]（[网站] [site-jekyll]，麻省理工学院） -  Jekyll的文档
+* [Ruby Scripting] [repo-ruby-scripting]（[Site] [site-ruby-scripting]，cc-nc-sa） - 基于示例的Ruby脚本指南
 
+[repo-ruby-scripting]：https：//github.com/learnbyexample/Ruby_Scripting
+[site-ruby-scripting]：https：//learnbyexample.gitbooks.io/ruby-scripting/content/index.html
 [repo-jekyll]：https：//jekyllrb.com/
 [site-jekyll]：https：//github.com/jekyll/jekyll/tree/master/site
 [repo-middleman]：https：//github.com/middleman/middleman-guides
@@ -421,7 +430,7 @@
 * [通过示例] [repo-go-by-example]（cc） -  Go by Example是Go使用带注释的示例程序的实用介绍
 * [使用Golang构建Web应用程序] [repo-bwawg]（cc-sa） -  golang电子书介绍如何使用golang构建Web
 
-[repo-bwawg]：https：//github.com/astaxie/build-web-application-with-golang
+[repo-zawg]：https：//github.com/astaxie/build-web-application-without
 [repo-go-by-example]：https：//github.com/mmcgrana/gobyexample
 
 <a name='haskell'></a>
@@ -449,7 +458,7 @@
 * [角度测试模式] [repo-angular-test-pattern]（MIT） - 测试Angular 1.x应用程序的高质量指南
 * [Airbnb JavaScript风格指南] [repo-airbnb-javascript]（麻省理工学院） - 一种最合理的JavaScript方法
 * [JavaScript Garden] [repo-js-garden]（[Site] [site-js-garden]，麻省理工学院） - 关于JavaScript语言最古怪部分的文档集合
-* [Node.js Style Guide][repo-node-style-guide] (cc-sa) - A guide for styling your node.js / JavaScript code. Fork & adjust to your taste
+ * [Node.js样式指南] [repo-node-style-guide]（cc-sa） - 用于样式化node.js / JavaScript代码的指南.  叉子并根据您的口味调整
  * [Node.js最佳实践] [repo-nodejs-bp]（[Site] [site-nodejs-bp]，MIT） - 这是编写健壮的Node.js代码的最佳实践列表.  它的灵感来自其他行会，如FelixGeisendörfer的节点风格指南以及社区内流行的内容
 * [function qualityGuide（）{] [repo-function-quality]（MIT） - 此样式指南旨在为应用程序的JavaScript代码提供基本规则，使其在团队中的不同开发人员之间具有高可读性和一致性
 * [Node Beginner Book] [repo-node-biginner]（[Site] [site-node-biginner]，cc-nc-sa） -  Node Beginner Book是对Node.js及其他一些内容的全面介绍高级JavaScript主题，如函数式编程
@@ -459,7 +468,7 @@
 * [stream-handbook] [repo-stream-handbook]（cc） - 如何用流编写节点程序
  * [你不知道JS] [repo-you-dont-know-js]（[Site] [site-you-dont-know-js]，cc-nc-nd） - 一本关于JavaScript的系列丛书.  @YDKJS在Twitter上.
 * [CasperJS] [repo-casperjs]（[Site] [site-casperjs]，麻省理工学院） -  CasperJS的文档
-* [Ember.js指南] [repo-man]（[网站] [网站人]，麻省理工学院） -  Ember.js官方指南
+* [Man.js指南] [repo-man]（[网站] [网站人]，麻省理工学院） -  Ember.js官方指南
 * [React Document] [repo-react]（[Site] [site-react]，cc） -  React的文档
 * [Flux Application Architecture] [repo-flux]（[Site] [site-flux]，cc） -  Flux应用程序架构的文件
 * [Redux Document] [repo-redux]（[Site] [site-redux]，麻省理工学院） -  Redux的文档
@@ -478,7 +487,7 @@
 [site-you-dont-know-js]：https：//www.kickstarter.com/projects/getify/you-dont-know-js-book-series
 [repo-you-dont-know-js]：https：//github.com/getify/You-Dont-Know-JS
 [repo-stream-handbook]：https：//github.com/substack/stream-handbook
-[repo-art-of-node]：https：//github.com/maxogden/art-of-node
+[repo-art-of-node]: https://github.com/maxogden/art-of-node
 [site-understanding-es6]：https：//leanpub.com/understandinges6/read
 [repo-learn-node-win]：https：//github.com/workshopper/learnyounode
 [repo-node-biginner]：https：//github.com/manuelkiessling/nodebeginner.org
@@ -489,7 +498,7 @@
 [repo-angular-style-guide]：https：//github.com/johnpapa/angular-styleguide
 [repo-react-primer]：https：//github.com/mikechau/react-primer-draft/
 [repo-es6-features]：https：//github.com/lukehoban/es6features
-[repo-javascript-garden]：https：//github.com/BonsaiDen/JavaScript-Garden
+[repo-javascript-garden]: https://github.com/BonsaiDen/JavaScript-Garden
 [site-javascript-garden]：http：//bonsaiden.github.io/JavaScript-Garden/
 [repo-jstherightway]：https：//github.com/braziljs/js-the-right-way
 [site-jstherightway]：http：//jstherightway.org/
@@ -517,16 +526,25 @@
 
 [repo-nytimes-objective-c-style-guide]：https：//github.com/NYTimes/objective-c-style-guide
 
+<a name='ocaml'></a>
 ### Ocaml
 
 *真实世界OCaml（[网站] [site-real-world-ocaml]，cc-nc-nd） - 真实世界OCaml针对的是那些对传统编程语言有一定经验但不具备静态类型函数式编程经验的程序员.
 
 [site-real-world-ocaml]：https：//realworldocaml.org/v1/en/html/
 
+<a name='perl'></a>
+### Perl
+
+* [Perl intro] [repo-perl-intro]（[Site] [site-perl-intro]，cc-nc-sa） -  Perl 5的入门课程
+
+[repo-perl-intro]：https：//github.com/learnbyexample/Perl_intro
+[site-perl-intro]：https：//learnbyexample.gitbooks.io/perl-introduction/content/
+
 <a name='php'></a>
 ### PHP
 
-* [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
+* [PHP：正确的方式] [repo-php-right-way]（[Site] [site-php-right-way]，by-nc-sa） - 一个易于阅读，快速参考的PHP最佳实践，接受的编码标准，以及围绕Web的权威教程的链接
 
 [repo-php-right-way]：https：//github.com/codeguy/php-the-right-way
 [site-php-right-way]：http：//www.phptherightway.com/
@@ -544,9 +562,15 @@
 *学习使用Python编程（[Site] [site-lpupython]，cc-sa）
  * [Python魔术方法指南] [repo-magic-methods]（[Site] [site-magic-methods]，cc-nc-sa） - 本指南是几个月博客文章的高潮.  主题是魔术方法
 * Think Python（[Site] [site-think-python]，cc-nc） - 如何像计算机科学家一样思考
-*谷歌的Python类（[网站] [site-google-python]，cc） - 这是一个免费课程，适合那些有一点编程经验但想学习Python的人
+* Google的Python类（[Site] [site-google-python]，cc） - 这是一个免费课程，适合那些有一点编程经验但想学习Python的人
+* [Python基础知识] [repo-python-basics]（[Site] [site-python-basics]，cc-nc-sa） -  Python简介
+* [旋风之旅] [repo-whirlwind-tour]（[网站] [site-whirlwind-tour]，cc0） - 为已经熟悉的研究人员和开发人员快速介绍Python语言的基本组件用另一种语言编程
 
-[site-google-python]：https：//developers.google.com/edu/python/
+[repo-whirlwind-tour]：https：//github.com/jakevdp/WhirlwindTourOfPython
+[site-whirlwind-tour]：https：//nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb
+[repo-python-basics]：https：//github.com/learnbyexample/Python_Basics
+[site-python-basics]：https：//learnbyexample.gitbooks.io/python-basics/content/index.html
+[site-google-python]: https://developers.google.com/edu/python/
 [site-think-python]：http：//www.greenteapress.com/thinkpython/thinkpython.pdf
 [repo-magic-methods]：https：//github.com/RafeKettler/magicmethods
 [site-magic-methods]：http：//www.rafekettler.com/magicmethods.html
@@ -638,12 +662,15 @@
 ### Editor
 
  * GNU Emacs手册（[Site] [site-emacs-manual]，GNU-FDL） -  Emacs是可扩展，可自定义，自我记录的实时显示编辑器.  本手册介绍了如何使用Emacs进行编辑以及一些自定义方法
-* GNU Emacs Lisp参考手册（[Site] [site-elisp-manual]，GNU-FDL） -  Emacs Lisp的文档
+* GNU Emacs Lisp参考手册（[网站] [site-elisp-manual]，GNU-FDL） -  Emacs Lisp的文档
 * [Emacs性感！] [repo-emacs-sexy]（[网站] [site-emacs-sexy]，GNU） - 简单的网站分享对Emacs的热爱
 * [艰难地学习Vimscript] [repo-vimscript-hard-way]（[网站] [site-vimscript-hard-way]，自定义许可证） - 学习Vimscript the Hard Way是一本面向Vim编辑用户的书想学习如何自定义Vim
 * [Emacs Lisp风格指南] [repo-elisp-style-guide]（cc） - 这个Emacs Lisp风格指南推荐最佳实践，以便真实世界的Emacs Lisp程序员可以编写可由其他真实世界的Emacs维护的代码Lisp程序员
 * Vim的字节（[Site] [site-byte-vim]，cc-sa） - “Vim的字节”是一本旨在帮助您学习如何使用Vim编辑器（版本7）的书，甚至如果你知道的是如何使用电脑键盘
+* [Vim参考] [repo-vim-reference]（[Site] [site-vim-reference]，cc-nc-sa） - 初学者到中级用户的指南
 
+[repo-vim-reference]：https：//github.com/learnbyexample/vim_reference
+[site-vim-reference]: https://learnbyexample.gitbooks.io/vim-reference/content/index.html
 [site-byte-vim]：http：//www.swaroopch.com/notes/vim/
 [repo-elisp-style-guide]：https：//github.com/bbatsov/emacs-lisp-style-guide
 [repo-vimscript-hard-way]：https：//github.com/sjl/learnvimscriptthehardway
@@ -713,12 +740,12 @@
 <a name='korean'></a>
 ### Korean
 
- 本书面向那些不熟悉Python的读者和以前从未编程的读者.Python是一个站点跳转到python的.  我试图清楚地写出编程中使用的技术术语，并且我在不强调Python语言的个别特征的情况下解释了Python语言中与编程相关的问题.
+ 本书面向不熟悉Python的读者以及之前从未编程的读者.Python（site-jump-to-python，cc-nc-nd）的.  我试图清楚地写出编程中使用的技术术语，并且我在不强调Python语言的个别特征的情况下解释了Python语言中与编程相关的问题.
 * [emacsbook] [repo-emacsbook]（cc-nc）
 *稳定，自由和有趣：韩国开源开发者的故事（[网站] [site-osdi]，cc-nc-nd）
 
 [site-hanged]：http：//osdi.insightbook.co.kr/
-[repo-emacsbook]: https://github.com/tsgates/emacsbook
+[repo-emacsbook]：https：//github.com/tsgates/emacsbook
 [site-jump-to-python]：https：//wikidocs.net/book/1
 
 <a name='chinese'></a>
@@ -757,7 +784,7 @@
 <a name='another_documents_list'></a>
 ## Another Documents List / References
 
-* [美丽的文档] [repo-beautiful-docs]  - 指向有用，精心编写的文档，以及其他美观的文档
+* [美丽的文档] [repo-beautiful-docs]  - 指向有用，写得很好，以及其他漂亮文档的指针
 * [我们喜欢的论文] [repo-papers-we-love]  - 来自计算机科学界的论文来阅读和讨论
 * [Awesome Awesomeness] [repo-awesome-awesomeness]  - 精彩绝伦的精选列表
 * [Awesome] [repo-awesome]  - 精选列表的精选列表

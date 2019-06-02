@@ -29,6 +29,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [Japronto!](https://github.com/squeaky-pl/japronto) - 基于uvloop和picohttpparser构建的实验性http工具包.
 * [Starlette](https://github.com/encode/starlette) - 用于构建高性能服务的轻量级ASGI框架/工具包.
 * [uvicorn](https://github.com/encode/uvicorn) - 闪电般快速的ASGI服务器.
+* [FastAPI](https://github.com/tiangolo/fastapi)   - 基于类型提示的高性能Python 3.6+ API框架.  由Starlette和Pydantic提供支持.
 
 ## Message Queues
 
@@ -74,7 +75,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [aiomock](https://github.com/nhumrich/aiomock/) - 支持异步方法的python模拟库.
 * [asynctest](https://github.com/Martiusweb/asynctest/)   - 增强标准单元测试包，并提供测试功能.  asyncio库
 * [pytest-asyncio](https://github.com/pytest-dev/pytest-asyncio) -  Pytest支持asyncio.
-* [aresponses](https://github.com/CircleUp/aresponses)  学 -  huync video腐vehicle.  类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests)
+* [aresponses](https://github.com/CircleUp/aresponses)   -  Asyncio http嘲笑.  类似于 [responses](https://github.com/getsentry/responses) 图书馆用于 [requests](https://github.com/requests/requests)
 * [aioresponses](https://github.com/pnuckowski/aioresponses) - 用于Python aiohttp包中的模拟/伪造Web请求的助手.
 
 ## Alternative Loops
@@ -117,7 +118,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 
 ## Alternatives to asyncio
 
-Python中异步编程的替代方法，其中一些尝试支持与`asyncio`的某些兼容性，其他方法根本不兼容. 
+* Python中异步编程的替代方法，其中一些尝试支持与`asyncio`的某些兼容性，其他方法根本不兼容.*
 
 * [curio](https://github.com/dabeaz/curio) - 协程并发库.
   * [Curio-Asyncio Bridge](https://github.com/dabeaz/curio/issues/190) - 基本古玩 - &gt; asyncio coroutine bridge

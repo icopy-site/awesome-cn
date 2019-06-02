@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
 ## Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
 
 
 [![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/hackerkid)
@@ -10,8 +10,6 @@
 
 
 ## Books
-
- 我刚刚在https://books.zulipchat.com上为图书爱好者创建了一个在线社区.  现在加入成为创始成员！
 
 ## Startups and Business
  |  名称|  作者|  Goodreads评分|  发布年份|  
@@ -71,6 +69,8 @@
  |  4小时工作周：逃离9-5，随处可见并加入新富人|  蒂莫西费里斯| [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
  |  意外的亿万富翁：Facebook的成立，性，金钱，天才和背叛的故事  本梅兹里奇| [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
 
+ 如果您喜欢Mind Expanding books，那么您应该查看我的新项目http://diff.blog.  它是一个平台，可以帮助您随时了解开发人员社区.
+
 ## Philosophy And Psychology
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
@@ -128,17 +128,17 @@
  |  狗看了什么：和其他冒险|  马尔科姆格拉德威尔| [3.82](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) | 2009 |  
  |  花费：性，进化和消费者行为|  杰弗里米勒| [3.82](https://www.goodreads.com/book/show/6283340-spent) |  |  
  |  游戏人物游戏：交易分析基本手册|  埃里克伯尔尼.  | [3.81](https://www.goodreads.com/book/show/49176.Games_People_Play) |  |  
- |  这将使你更聪明：新的科学概念，以改善你的思想  约翰布罗克曼| [3.81](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) | 2012 |  
+ |  这将使你更聪明：新的科学概念，以改善你的思想|  约翰布罗克曼| [3.81](https://www.goodreads.com/book/show/13035774-this-will-make-you-smarter) | 2012 |  
  |  直觉泵和其他思维工具|  Daniel C. Dennett | [3.80](https://www.goodreads.com/book/show/18378002-intuition-pumps-and-other-tools-for-thinking) | 2014 |  
  |  Jonathan Livingston Seagull |  理查德巴赫| [3.80](https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull) |  |  
  |  为什么世界存在？：一个存在主义的侦探故事|  吉姆霍尔特| [3.77](http://www.goodreads.com/book/show/8854815-why-does-the-world-exist) | 2012 |  
  |  社会契约|  Jean-Jacques Rousseau，Maurice Cranston | [3.75](https://www.goodreads.com/book/show/12651.The_Social_Contract) |  |  
  |  伦理大脑：我们道德困境的科学|  Michael S. Gazzaniga | [3.70](https://www.goodreads.com/book/show/328734.The_Ethical_Brain) | 2006 |  
  |  为什么聪明人会如此愚蠢  Robert J Sternberg | [3.68](https://www.goodreads.com/book/show/300300.Why_Smart_People_Can_Be_So_Stupid) | 2003 |  
- |  独自一人：为什么我们期望更多来自技术而不是每个人更少  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
+ |  独自一人：为什么我们期望更多来自技术而更少来自其他人  Sherry Turkle | [3.62](http://www.goodreads.com/book/show/8694125-alone-together) | 2011 |  
  |  如何赢得每一个争论：使用和滥用逻辑|  Madsen Pirie | [3.55](https://www.goodreads.com/book/show/112731.How_to_Win_Every_Argument) | 2006 |  
  |  Rapt：注意力和聚焦生活：Winifred Gallagher |  Winifred Gallagher | [3.54](https://www.goodreads.com/book/show/6262510-rapt) |  |  
- |  小谈的美术：如何开始对话，坚持下去，建立网络技能 - 并留下积极的印象  Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
+ |  小谈话的美术：如何开始对话，坚持下去，建立网络技能 - 并留下积极的印象  Debra Fine | [3.36](https://www.goodreads.com/book/show/93409.The_Fine_Art_of_Small_Talk) | 2005 |  
  |  史努比：你的东西是什么意思：Sam Gosling |  Sam Gosling | [3.33](https://www.goodreads.com/book/show/1581330.Snoop) |  |  
 
 ## Autobiographies and Biographies
@@ -165,7 +165,7 @@
  |  失去我的童贞：自传|  理查德布兰森| [3.97](https://www.goodreads.com/book/show/9533705-losing-my-virginity) |1999|  
  |  电线中的幽灵：我的冒险是世界上最受欢迎的黑客|  凯文米特尼克| [3.95](http://www.goodreads.com/book/show/10256723-ghost-in-the-wires) | 2011 |  
  |  自传：走向自由|  贾瓦哈拉尔尼赫鲁| [3.85](http://www.goodreads.com/book/show/322939.An_Autobiography) | 1989 |  
- |  iWoz：计算机极客邪恶的图标：我是​​如何发明个人电脑，共同创立苹果公司，并且做了有趣的事情  Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
+ |  iWoz：计算机极客邪恶的图标：我是​​如何发明个人电脑，共同创立苹果公司，并且有趣的事情做到了  Steve Wozniak | [3.82](http://www.goodreads.com/book/show/798635.iWoz) | 2007 |  
 
 ## History
  |  名称|  作者|  Goodreads评分|  发布年份|  
@@ -255,7 +255,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  财富的起源|  Eric D. Beinhocker | [4.23](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) | 2006 |  
- |  每一次射击计数：使用革命性冲击获得的方法来提高你的高尔夫表现和战略  马克布罗迪| [4.23](https://www.goodreads.com/book/show/17674971-every-shot-counts) | 2014 |  
+| Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy | Mark Broadie | [4.23](https://www.goodreads.com/book/show/17674971-every-shot-counts) | 2014 |  
  |  经济事实和谬误|  Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
  |  债务 - 更新和扩展：前5000年|  大卫格雷伯| [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
  |  二十一世纪的资本|  Thomas Piketty | [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
@@ -276,7 +276,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  黎明时代的性别：现代的史前起源  Christopher Ryan，Cacilda Jetha | [4.02](https://www.goodreads.com/book/show/7640261-sex-at-dawn) | 2010 |  
- |  道德贱人：无限性可能性的指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
+ |  道德贱人：无限性可能性指南|  Dossie Easton，Catherine A. Liszt.  | [3.83](http://www.goodreads.com/book/show/54944.The_Ethical_Slut?from_search=true) | 2004 |  
  |  性神话|  Brooke Magnanti | [3.50](https://www.goodreads.com/book/show/13569582-the-sex-myth) | 2015 |  
 
 ## Education
@@ -394,7 +394,7 @@
  |  地球的支柱|  Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
  |  凯恩和亚伯|  杰弗里阿彻| [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
  |  艾玛|  简奥斯汀| [3.99](https://www.goodreads.com/book/show/6969.Emma) | 2003 |  
- |  索菲的世界：一部关于哲学史的小说|  Jostein Gaarder和Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
+ |  苏菲的世界：一部关于哲学史的小说|  Jostein Gaarder和Paulette Moller | [3.88](https://www.goodreads.com/book/show/10959.Sophie_s_World) | 1996 |  
 
 ### Humor
  |  名称|  作者|  Goodreads评分|  发布年份|  
