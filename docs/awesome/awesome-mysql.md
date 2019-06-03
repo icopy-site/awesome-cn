@@ -24,7 +24,7 @@
 - [pstop](https://github.com/sjmudd/ps-top) - 一个类似于MySQL的顶级程序，从performance_schema收集，聚合和显示信息.
 ## Backup
 
-*备份/恢复/恢复工具*
+*Backup/restore/recovery tools*
 
 - [MyDumper](https://github.com/maxbube/mydumper) -  MySQL的逻辑，并行备份/转储工具
 - [MySQLDumper](http://www.mysqldumper.net/) - 基于开源Web的备份工具 - 对共享虚拟主机很有用
@@ -92,6 +92,7 @@
 - [Liquibase](http://www.liquibase.org/) - 数据库的源代码管理
 - [Propagator](https://github.com/outbrain/propagator) - 在多种东西拓扑上集中架构和数据部署
 - [Shift](https://github.com/square/shift) - 可帮助您在MySQL数据库上运行架构迁移的应用程序
+- [Test database](https://github.com/datacharmer/test_db) - 带有集成测试套件的MySQL数据库示例，用于测试应用程序和服务器
 
 
 ## GUI
@@ -174,7 +175,7 @@
 
 *工具包，通用脚本*
 
-- [gh-ost](https://github.com/github/gh-ost/) - GitHub's online schema migration for MySQL.
+- [gh-ost](https://github.com/github/gh-ost/) -  GitHub的MySQL在线模式迁移.
 - [go-mysql](https://github.com/siddontang/go-mysql) - 一个纯go库来处理MySQL网络协议和复制.
 - [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一组用Python编写的命令行实用程序，用于单独或在复制层次结构中维护和管理MySQL服务器.
 - [openark kit](http://code.openark.org/forge/openark-kit) - 一组解决日常维护任务的实用程序，用Python编写可能很复杂或耗时.

@@ -32,7 +32,7 @@
 - ！[haskell_icon]  -  Haskell语言.
 - ！[javascript_icon]  -  JavaScript语言.
 - ！[lua_icon]  -  Lua语言.
-- ![objective_c_icon] - Objective-C language.
+- ！[objective_c_icon]  -  Objective-C语言.
 - ！[python_icon]  -  Python语言.
 - ！[ruby_icon]  -  Ruby语言.
 - ！[rust_icon]  -  Rust语言.
@@ -52,7 +52,7 @@
 - [Lyricism](https://github.com/lyc2345/Lyricism)   -  macOS应用程序，向您显示当前iTunes或Spotify正在播放的内容.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
 - [Mous Player](https://github.com/bsdelf/mous)   - 适用于BSD / Linux / macOS的简单而强大的音频播放器.  ！[cpp_icon] 
-- [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos)   -  Scrobble乙烯基，收音机，电影到Last.fm.  ！[objective_c_icon] 
+- [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Scrobble vinyl, radios, movies to Last.fm.  ![objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora)   - 最小，设计精美的macOS音乐播放器.  ！[objective_c_icon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu)   - 菜单栏中的Spotify和iTunes.  ！[objective_c_icon]！[swift_icon] 
 - [SpotSpot](https://github.com/will-stone/SpotSpot)   -  Spotify macOS的迷你播放器.  ！[javascript_icon] 
@@ -67,7 +67,7 @@
 
 ### Backup
 - [Mackup](https://github.com/lra/mackup)   - 保持应用程序设置同步（macOS / Linux）.  ！[python_icon] 
-- [UrBackup](https://github.com/uroni/urbackup_backend) - UrBackup is Client/Server network backup for Windows, macOS and Linux. ![cpp_icon] ![c_icon] 
+- [UrBackup](https://github.com/uroni/urbackup_backend)   -  UrBackup是Windows，macOS和Linux的客户端/服务器网络备份.  ！[cpp_icon]！[c_icon] 
 - [shallow-backup](https://github.com/alichtman/shallow-backup)   - 轻松创建已安装应用程序，dotfiles等的轻量级文档.  ！[python_icon] 
 
 ### Browser
@@ -191,7 +191,7 @@
 - [ProfilesManager](https://github.com/shaojiankui/ProfilesManager)   - 用于mac的Apple iOS / macOS Provisioning Profiles管理，.provisionprofile，.mobileprovision文件管理器工具.  ！[objective_c_icon] 
 - [PushNotifications](https://github.com/onmyway133/PushNotifications)   - 用于测试iOS和Android上的推送通知的macOS应用程序.  ！[javascript_icon] 
 - [ResignTool](https://github.com/InjoyDeng/ResignTool)   - 这是一个macOS应用程序，可以（重新）签署应用程序并将它们捆绑到可以安装在iOS设备上的ipa文件中.  ！[objective_c_icon] 
-- [Resizr](https://github.com/onurgenes/Resizr)   - 用于为iOS和Android应用程序创建AppIcon的MacOS应用程序.  ！[swift_icon] 
+- [Resizr](https://github.com/onurgenes/Resizr) - MacOS application for creating AppIcon for iOS and Android apps. ![swift_icon] 
 - [Simulator](https://github.com/onmyway133/Simulator)   - 快速导航到您的应用程序文件夹.  ！[swift_icon] 
 - [SmartPush](https://github.com/shaojiankui/SmartPush)   -  iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)   - 适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
@@ -199,7 +199,7 @@
 - [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)   - 自2013年以（srt）格式为每个WWDC会话视频下载字幕的强大应用程序.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)   -  iOS Calabash Launcher是一款macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)   -  iOS Images Extractor是一款Mac应用程序，用于规范化，解码和从iOS应用程序中提取图像.  ！[objective_c_icon] 
-- [iSimulator](https://github.com/wigl/iSimulator)   -  iSimulator是一个GUI实用程序，用于控制模拟器和管理模拟器上安装的应用程序.  ！[objective_c_icon] 
+- [iSimulator](https://github.com/wigl/iSimulator) - iSimulator is a GUI utility to control the Simulator and manage the app installed on the simulator.  ![objective_c_icon] 
 - [xib2Storyboard](https://github.com/novemberfiveco/xib2Storyboard)   - 将Xcode .xib转换为.storyboard文件的工具.  ！[objective_c_icon] 
 
 ### Downloader
@@ -214,7 +214,7 @@
 ### Editors
 
 #### CSV
-- [TableTool](https://github.com/jakob/TableTool)   -  macOS的简单CSV编辑器.  ！[objective_c_icon] 
+- [TableTool](https://github.com/jakob/TableTool) - simple CSV editor for the macOS.  ![objective_c_icon] 
 
 #### JSON
 - [JSON-Splora](https://github.com/wellsjo/JSON-Splora)   - 用于编辑，可视化和操作JSON数据的GUI.  ！[javascript_icon] 
@@ -272,7 +272,7 @@
 
 ### IDE
 - [Atom](https://github.com/atom/atom)   - 黑客文本编辑器.  ！[javascript_icon] 
-- [Oni](https://github.com/onivim/oni) - Oni is a modern take on modal editing code editor focused on developer productivity. ![javascript_icon] ![javascript_icon] ![type_script_icon] 
+- [Oni](https://github.com/onivim/oni)   -  Oni是一个现代化的模态编辑代码编辑器，专注于开发人员的工作效率.  ！[javascript_icon]！[javascript_icon]！[type_script_icon] 
 - [Visual Studio Code](https://github.com/Microsoft/vscode)   - 由Microsoft开发的代码编辑器.  ！[type_script_icon] 
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)   -  ZeroBrane Studio是一个轻量级的跨平台Lua IDE，具有代码完成，语法高亮，远程调试器，代码分析器，实时编码以及各种Lua引擎的调试支持.  ！[lua_icon] 
 
@@ -282,7 +282,7 @@
 - [Freehand](https://github.com/wddwycc/Freehand)   - 用于快速草图的macOS状态栏应用程序.  ！[swift_icon] 
 - [Gimp](https://github.com/GNOME/gimp)   -  Gimp是GNU Image Manipulation Program.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  ！[swift_icon] 
-- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - Mac GUI for pngquant, pngnq and posterizer. ![objective_c_icon] ![python_icon] 
+- [ImageAlpha](https://github.com/kornelski/ImageAlpha)   - 用于pngquant，pngnq和posterizer的Mac GUI.  ！[objective_c_icon]！[python_icon] 
 - [Imagine](https://github.com/meowtec/Imagine)   -  Imagine是一款用于压缩PNG和JPEG的桌面应用程序，具有现代友好的UI.  ！[type_script_icon] 
 - [Katana](https://github.com/bluegill/katana)   -  Katana是一个简单的macOS截图工具，位于你的菜单栏中.  ！[javascript_icon]！[css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer)   - 用于在磁盘上查找和丢失遗忘照片的macOS应用程序.  ！[swift_icon] 
@@ -311,7 +311,7 @@
 - [Airpass](https://github.com/alvesjtiago/airpass)   - 状态栏Mac应用程序，以克服时间受限的WiFi网络.  ！[javascript_icon] 
 - [AnyBar](https://github.com/tonsky/AnyBar)   -  macOS菜单栏状态指示灯.  ！[objective_c_icon] 
 - [BitBar](https://github.com/matryer/bitbar)   - 将任何脚本或程序的输出放在macOS菜单栏中.  ！[objective_c_icon] 
-- [CloudyTabs](https://github.com/josh-/CloudyTabs)   - 简单的菜单栏macOS应用程序，用于替换iCloud选项卡和阅读列表的列表.  ！[swift_icon] 
+- [CloudyTabs](https://github.com/josh-/CloudyTabs)   - 简单的菜单栏macOS应用程序，用于显示iCloud选项卡和阅读列表的列表.  ！[swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)   - 用Swift编写的macOS简单菜单栏天气应用程序.  ！[swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu)   - 简单（裸骨）macOS菜单额外应用显示预设.  ！[swift_icon] 
 - [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  ！[swift_icon] 
@@ -323,7 +323,7 @@
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys)   - 一个mac菜单栏应用程序，通过快速下拉菜单提供记笔记功能.  ！[swift_icon] 
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons)   - 小菜单栏实用程序，可让您使用第三方鼠标的侧面按钮在各种应用程序中导航.  ！[objective_c_icon]！[c_icon] 
 - [Shifty](https://github.com/thompsonate/Shifty)   -  macOS菜单栏应用程序，让您更好地控制夜班.  ！[swift_icon] 
-- [gSwitch](https://github.com/CodySchrank/gSwitch)   -  macOS状态栏应用程序，允许控制双gpu macbooks上的GPU.  ！[swift_icon] 
+- [gSwitch](https://github.com/CodySchrank/gSwitch) - macOS status bar app that allows control over the gpu on dual gpu macbooks.  ![swift_icon] 
 - [iGlance](https://github.com/iglance/iGlance)   - 状态栏的macOS系统监视器（CPU，内存，网络，风扇和电池）.  ！[swift_icon] 
 
 ### Music
@@ -353,7 +353,7 @@
 - [Standard Notes](https://github.com/standardnotes/web)   - 为您的笔记，思想和生活工作提供安全的场所.  ！[javascript_icon]！[css_icon] 
 - [Tusk](https://github.com/klaussinani/tusk)   - 非官方，第三方，社区驱动的Evernote应用程序，具有一些有用的功能.  ！[javascript_icon]！[css_icon] 
 - [joplin](https://github.com/laurent22/joplin)   - 注意具有Windows，macOS，Linux，Android和iOS同步功能的应用程序和待办事项.  ！[javascript_icon] 
-- [notable](https://github.com/jmcfarlane/notable) - Simple note taking application.  ![javascript_icon] 
+- [notable](https://github.com/jmcfarlane/notable)   - 简单的笔记应用程序.  ！[javascript_icon] 
 - [tmpNote](https://github.com/buddax2/tmpNote)   - 非常简单的macOS应用程序来制作临时笔记.  ！[swift_icon] 
 
 ### Other
@@ -393,7 +393,7 @@
 - [ControlPlane](https://github.com/dustinrue/ControlPlane)   - 根据您的位置或您的工作自动执行任务.  ！[objective_c_icon] 
 - [Flycut](https://github.com/TermiT/flycut)   - 为开发人员提供简洁的剪贴板管理器  ！[objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder)   - 在macOS中记录快捷方式，如Alfred.app.  ！[swift_icon] 
-- [Kiwix](https://github.com/kiwix/apple)   - 适用于iOS和macOS的Kiwix，基于Swift构建.  ！[swift_icon] 
+- [Kiwix](https://github.com/kiwix/apple) - Kiwix for iOS and macOS, build on Swift.  ![swift_icon] 
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas)   -  macOS应用程序记下并连接想法.  ！[swift_icon] 
 - [Maccy](https://github.com/p0deje/Maccy)   - 轻量级搜索即用型剪贴板管理器.  ！[swift_icon] 
 - [Manta](https://github.com/hql287/Manta)   - 灵活的发票桌面应用程序，具有漂亮和可自定义的模板.  ！[javascript_icon] 
@@ -417,9 +417,10 @@
 - [Aerial](https://github.com/JohnCoates/Aerial)   - 用于macOS的Apple TV空中屏幕保护程序.  ！[swift_icon] 
 - [Image-As-Wallpaper](https://github.com/ved62/Image-As-Wallpaper)   - 实用程序应用程序有助于选择图像以用作桌面墙纸或Mac计算机上的屏幕保护程序.  ！[swift_icon] 
 - [Irvue](https://github.com/leonspok/Irvue-Screensaver)   -  macOS的屏幕保护程序.  ！[objective_c_icon] 
+- [Life Saver](https://github.com/amiantos/lifesaver) - 基于Conway的生命游戏的抽象屏幕保护程序，用SpriteKit实现！[swift_icon] 
 - [MusaicFM](https://github.com/docterd/MusaicFM) -  Spotify和Last.fm的iTunes屏幕保护程序克隆！[objective_c_icon] 
 - [Predator](https://github.com/vpeschenkov/Predator) - 一个捕食者灵感的macOS时钟屏幕保护程序！[swift_icon] 
-- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver) - The GitHub Matrix Screensaver for macOS.  ![javascript_icon] 
+- [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)   - 用于macOS的GitHub矩阵屏幕保护程序.  ！[javascript_icon] 
 
 ### Security
 - [LuLu](https://github.com/objective-see/LuLu)   -  LuLu是macOS防火墙应用程序，旨在阻止未经授权（传出）的网络流量.  ！[objective_c_icon] 
@@ -538,10 +539,11 @@
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)   - 在Mac上免费观看您最喜爱的开发者大会上最新最好的视频的最佳方式.  ！[swift_icon] 
 - [Datamosh](https://github.com/roecrew/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)   - 用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
-- [Gifted](https://github.com/vdel26/gifted) - Turn any short video into an animated GIF quickly and easily.  ![objective_c_icon] 
+- [Gifted](https://github.com/vdel26/gifted)   - 快速轻松地将任何短视频转换为动画GIF.  ！[objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake)   -  HandBrake是一款适用于Linux，Mac和Windows的视频转码器.  ！[c_icon] 
 - [MenuTube](https://github.com/edanchenkov/MenuTube)   - 将YouTube关注到您的macOS菜单栏中！  ！[javascript_icon] 
 - [OpenShot](https://github.com/OpenShot/openshot-qt)   - 易于使用，快速学习，以及令人惊讶的强大视频编辑器.  ！[python_icon] 
+- [Quick Caption](https://github.com/LumingYin/Caption)   - 无需手动输入时间码即可转录和生成字幕文件（SRT，ASS和FCPXML）.  ！[swift_icon] 
 - [QuickLook Video](https://github.com/Marginal/QLVideo)   - 此软件包允许macOS Finder显示大多数类型视频文件的缩略图，静态QuickLook预览，封面和元数据.  ！[objective_c_icon] 
 - [Subler](https://bitbucket.org/galad87/subler/src)   -  Subler是一个macOS应用程序，用于复用和标记mp4文件.  ！[objective_c_icon] 
 - [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator)   -  macOS应用程序，用于在视频播放中插入测验，并使用LISNR API将这些视频播放到接收设备.  ！[swift_icon] 
@@ -593,7 +595,7 @@
 [lua_icon]：./ icons / Lu-16.png&#39;Lua语言&#39;.
 [objective_c_icon]：./ icons / object-c-16.png&#39;Objective-C语言&#39;.
 [python_icon]：./ icons / python-16.png&#39;Python语言&#39;.
-[ruby_icon]：./ icons / ruby​​-16.png&#39;Ruby语言&#39;.
+[ruby_icon]: ./icons/ruby-16.png 'Ruby language.'
 [rust_icon]：./ icons / rust-16.png&#39;锈语言.&#39;
 [swift_icon]：./ icons / swift-16.png&#39;迅捷的语言&#39;.
 [type_script_icon]：./ icons /typescript-16.png&#39;TypeScript language.&#39;

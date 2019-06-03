@@ -25,7 +25,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [The Personal Analytics of My Life by Stephen Wolfram](http://blog.stephenwolfram.com/2012/03/the-personal-analytics-of-my-life/) - 斯蒂芬沃尔夫勒姆探讨了他收集的关于他的时间使用的数据.
 - [Measured Me](http://measuredme.com/) - 自我量化和自我优化的个人实验.
 - [Lifestream Blog](http://lifestreamblog.com/) - 社交数据聚合，生活日志，量化自我和数字遗产.
-- [Quantified Bob](https://www.quantifiedbob.com/) - Follow one guy's quest for self knowledge, betterment, and optimization through experimentation and personal analytics.
+- [Quantified Bob](https://www.quantifiedbob.com/) - 通过实验和个人分析，跟踪一个人对自我知识，改进和优化的追求.
 - [Shadow of the Stream](https://mokestrel.wordpress.com/) - 量化自我，生活，日记，教育.
 - [QS on Medium](https://medium.com/@quantifiedself) - 在媒体上量化自我帖子.
 - [QS on Venture Beat](http://venturebeat.com/tag/quantified-self/) - 关于Venture Beat的量化自我文章.
@@ -122,7 +122,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [WordCounter](https://wordcounterapp.com/) - 作家的字数跟踪器（Mac）. 
 
 ### Mind & Cognition
-- [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - 科学证明的评估认知功能的工具.
+- [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - 科学证明的评估认知功能的工具。
 - [Quantified Mind](http://www.quantified-mind.com/about) - 量化认知能力的测试和实验.
 
 ### Mood
@@ -169,6 +169,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [GNU Cash](https://www.gnucash.org/) - 个人和小型企业财务会计软件.
 - [Ledger](https://github.com/ledger/ledger) - 简单但功能强大的命令行记帐.
 - [Credit Karma](https://www.creditkarma.com/) - 精益和信誉良好的信用评分跟踪器.
+- [Actual](https://actualbudget.com/) - 个人家庭预算软件.
 
 ## Devices and Wearables
 
@@ -176,7 +177,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - 世界一流的可穿戴设备.
 - [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - 健身追踪器和手表.
 - [Jawbone UP](https://jawbone.com/up) - 健身追踪器让您更健康.
-- [Withings](http://www.withings.com/) - 活动跟踪和连接的设备.
+- [Withings](http://www.withings.com/) - Activity tracking and connected devices.
 - [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - 通用活动跟踪设备.
 - [Misfit](https://misfit.com/) - 可穿戴式跟踪设备.
 - [Pebble](https://www.pebble.com/) - 适用于移动设备的智能手表.
@@ -188,6 +189,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Amiigo](https://amiigo.com/) - 活动和健身房锻炼跟踪器.
 - [Spire](https://spire.io/) - 通过测量呼吸来确定压力和焦点水平的活动跟踪器.
 - [Oura Ring](https://ouraring.com/) - 手指上佩戴的高精度睡眠（和活动）跟踪器，用于测量HR，HRV，温度和运动.
+- [Aidlab](https://www.aidlab.com/) - 智能和可穿戴的可穿戴设备，兼容特殊的T恤和胸带.
 
 ## Research and Analysis
 
@@ -200,7 +202,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Inside Tracker](https://www.insidetracker.com/) - 基于科学的血液分析，用于表现和健康.
 - [Wellness FX](https://www.wellnessfx.com/) - 血液分析和健康检查.
 - [Human API](http://humanapi.co/) - 健康数据集成平台.
-- [DNA land](http://dna.land/) -  DNA插补和科学研究.
+- [DNA land](http://dna.land/) - DNA imputation and scientific research.
 - [GenetiConcept](https://geneticoncept.com) - 健康，药物相互作用，健身和营养的基因检测.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - 来自自我上传的遗传数据的综合遗传报告.
 

@@ -43,7 +43,7 @@
 
 ## Talks
 
-- Game Developers Conference
+- 游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
   - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
   - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
@@ -107,7 +107,8 @@
 - 团结
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - 使用Forge Networking for Unity的服务器权威移动项目.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - 基于Photon PUN的多人自上而下的射击游戏项目.
-  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - 基于Forge Networking的多人FPS游戏作为示例项目.
+  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - Forge Networking-based multiplayer FPS game as an example project.
+  - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - 针对回合制或慢节奏游戏的Entitas ECS网络框架.
   - [FPSSample](https://github.com/Unity-Technologies/FPSSample) - 来自Unity的官方多人FPS项目样本，使用新的网络包和ECS.
   - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) -  Gabriel Gambetta使用Lidgren在Unity中实现网络架构.
   - [MultiplayerFPS](https://github.com/Brackeys/MultiplayerFPS-Tutorial) - 基于UNET的简单多人第一人称射击教程项目.
