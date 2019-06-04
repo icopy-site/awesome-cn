@@ -3,7 +3,7 @@
 
 &gt;针对安全事件响应的策划工具和资源列表，旨在帮助安全分析师和 [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html) 团队.
 
-Digital Forensics and Incident Response (DFIR) teams are groups of people in an organization responsible for managing the response to a security incident, including gathering evidence of the incident, remediating its effects, and implementing controls to prevent the incident from recurring in the future.
+数字取证和事件响应（DFIR）团队是负责管理安全事件响应的组织中的一组人员，包括收集事件的证据，补救其影响，以及实施控制以防止事件在未来再次发生.
 
 
 
@@ -15,9 +15,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 小型且高度便携的检测测试，映射到Mitre ATT和CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)   - 自动战术技术和程序.  手动重新运行复杂序列以进行回归测试，产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队合作达到一个新的水平.
-* [Caldera](https://github.com/mitre/caldera)   - 自动对手仿真系统，可在Windows企业网络中执行折衷后的对抗行为.  它使用计划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预配置对手模型在运营期间生成计划.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)   - 模块化，菜单驱动，跨平台工具，用于构建可重复，延时，分布式安全事件.  轻松为Blue Team演习和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，干扰和诱饵，以支持和扩展他们的业务.
-* [Metta](https://github.com/uber-common/metta) - 用于对抗模拟的信息安全准备工具.
+* [Caldera](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project.
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)   - 模块化，菜单驱动，跨平台工具，用于构建可重复，延时，分布式安全事件.  轻松为Blue Team演习和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，分心和诱饵，以支持和扩展他们的行动.
+* [Metta](https://github.com/uber-common/metta) - 用于进行对抗性模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 轻量级实用程序，用于生成恶意网络流量，并帮助安全团队评估安全控制和网络可见性.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) -  RTA提供了一个脚本框架，旨在允许蓝队测试他们针对恶意交易的检测能力，模仿MITRE ATT和CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于对手仿真和威胁搜寻的虚拟机.
@@ -100,9 +100,10 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Log Analysis Tools
 
+* [Kaspersky CyberTrace](https://support.kaspersky.com/13850)   - 威胁情报融合和分析工具，将威胁数据源与SIEM解决方案集成在一起.  用户可以立即利用威胁情报在其现有安全操作的工作流程中进行安全监控和事件报告（IR）活动.
 * [Lorg](https://github.com/jensvoid/lorg) - 用于高级HTTPD日志文件安全性分析和取证的工具.
 * [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的CLI实用程序和Python API.
-* [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
+* [StreamAlert](https://github.com/airbnb/streamalert) - 无服务器的实时日志数据分析框架，能够使用用户定义的逻辑提取自定义数据源并触发警报.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - 通过聚合事件日志，SysmonSearch使Windows事件日志分析更有效，耗时更少.
 
 ### Memory Analysis Tools
@@ -153,7 +154,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - 非常简单的多线程多规则到多文件YARA扫描Python脚本用于恶意软件动物园和IR.
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - 允许用户在Windows，Linux和OS X上使用YARA扫描IOC的磁盘和内存.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用特制的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
-* [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
+* [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关MySQL的取证数据.
 * [Scout2](https://nccgroup.github.io/Scout2/) - 安全工具，可让Amazon Web Services管理员评估其环境的安全状况.
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 用于从云服务获取取证数据的命令行实用程序.
 * [Stenographer](https://github.com/google/stenographer)   - 数据包捕获解决方案，旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包的子集的简单，快速访问.  它可以存储尽可能多的历史记录，管理磁盘使用情况，以及在磁盘限制被触发时删除.  它非常适合在事件发生之前和事件期间捕获流量，而无需明确需要存储所有网络流量.
@@ -189,7 +190,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html)   -  Fire / Mandiant提供的免费工具，它将描绘日志/文本文件，可以突出显示图形上与关键字或短语相对应的区域.  有利于时间排除感染和妥协后做了什么.
 * [Morgue](https://github.com/etsy/morgue) -  Etsy的PHP Web应用程序，用于管理事后管理.
-* [Plaso](https://github.com/log2timeline/plaso) - 用于工具log2timeline的基于Python的后端引擎。
+* [Plaso](https://github.com/log2timeline/plaso) - 用于工具log2timeline的基于Python的后端引擎.
 * [Timesketch](https://github.com/google/timesketch) - 用于协作取证时间线分析的开源工具.
 
 
@@ -201,7 +202,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Windows Evidence Collection
 
 * [AChoir](https://github.com/OMENScan/AChoir) - 框架/脚本工具，用于标准化和简化Windows脚本实时采集实用程序的过程.
-* [Binaryforay](http://binaryforay.blogspot.co.il/p/software.html) -  win forensics免费工具列表（http://binaryforay.blogspot.co.il/）.
+* [Binaryforay](http://binaryforay.blogspot.co.il/p/software.html) - List of free tools for win forensics (http://binaryforay.blogspot.co.il/).
 * [Crowd Response](http://www.crowdstrike.com/community-tools/)   - 轻量级Windows控制台应用程序，旨在帮助收集事件响应和安全约定的系统信息.  它具有众多模块和输出格式.
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector)   - 在实时Windows系统上收集不同人工制品并将结果记录在csv文件中的工具.  通过对这些人工制品的分析，可以检测到早期的妥协.
 * [Fast Evidence Collector Toolkit (FECT)](https://github.com/jipegit/FECT)   -  Light事件响应工具包，用于收集可疑Windows计算机上的证据.  基本上它是由非技术精明的人与熟练工事件处理程序一起使用.
@@ -211,7 +212,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)   - 来自Fidelis Cyber​​security的免费工具，它使用OpenIOC和YARA规则来报告端点的状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner测量系统的状态，并在运行完成时生成任何匹配规则的报告.  仅限Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) - 使用yara规则和其他指标（IOC）扫描终点的免费红外扫描仪.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时Windows系统的快速事件概述.
-* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 使用PowerShell的Live disk取证平台.
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/)   -  PSRecon使用PowerShell（v2或更高版本）从远程Windows主机收集数据，将数据组织到文件夹中，散列所有提取的数据，散列PowerShell和各种系统属性，并将数据发送给安全团队.  数据可以推送到共享，通过电子邮件发送或保留在本地.
 * [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - 用Perl编写的开源工具，用于从Registry中提取/解析信息（键，值，数据）并将其呈现用于分析.
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - 适用于Windows的IR收集器.

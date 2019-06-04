@@ -25,7 +25,7 @@ Awesome-Kubernetes
 
 **感谢Gitbook.这个精彩的列表现在可以下载并以书的形式阅读.请查看 - &gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep分享!! **
 
- **如果您在此处看到不再维护或不适合的包或项目，请提交拉取请求以改进此文件.  谢谢！**
+**If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 ## What is Kubernetes? :ship:
 
@@ -692,9 +692,9 @@ Projects
 * [click](https://github.com/databricks/click) -  CLI专注于REPL，可快速与Kubernetes对象进行交互.
 * [Ksql](https://github.com/brendandburns/ksql)
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - 使用go-prompt构建的交互式kubernetes客户端.
-* [kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt helper for bash and zsh.
+* [kube-ps1](https://github.com/jonmosco/kube-ps1) -  Kubernetes提示帮助bash和zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - 用于使用Kubernetes CLI的集成外壳
-* [kube-tmux](https://github.com/jonmosco/kube-tmux) -  Kubernetes tmux插件，用于显示当前上下文和命名空间
+* [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -  Kubectl的别名
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)   -  kubectl插件的集合，处理从简单的上下文切换到连接到容器的所有用户（包括root）通过exec.  略微针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - 使用此kubectl插件在kubernetes集群上安排bpftrace程序
@@ -822,6 +822,11 @@ Projects
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kubeval](https://github.com/garethr/kubeval)
 
+## Static Analysis
+
+* [kube-score](https://github.com/zegl/kube-score) -  Kubernetes对象分析，提出改进可靠性和安全性的建议
+* [popeye](https://github.com/derailed/popeye) -  Kubernetes集群资源sanitzer
+
 ## Tuning
 
 * [Ktune](https://github.com/skippbox/ktune)
@@ -860,6 +865,7 @@ Books
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修帕尔默
+* [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书）由Leverege Developers提供
 * [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito，Hui-Chuan Chloe Lee，Ke-Jou Carol Hsu
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （OpenSource Book in Chinese）by [Pengfei Ni](https://github.com/feiskyer)
@@ -971,7 +977,7 @@ Videos
 * [Michelle Noorali](https://www.twitter.com/michellenoorali)，Microsoft的软件工程师
 * [Paris Pittman](https://www.twitter.com/ParisInBmore)，开发者关系经理 -  Google的Kubernetes
 * [Patrick Reilly](https://twitter.com/preillyme)，思科CTO办公室，思科CNCF成员董事会
-* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+* [Tim Hockin](https://twitter.com/thockin)，Google高级职员SW工程师/工程经理
 
 聚会小组
 =======================================================================

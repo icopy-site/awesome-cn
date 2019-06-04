@@ -34,7 +34,7 @@ them.
 ## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - 由PDE建模的科学应用并行解决方案的数据结构和例程.
-  （C，2条款BSD， [BitBucket](https://bitbucket.org/petsc/petsc/src))
+  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
 - [DUNE Numerics](https://www.dune-project.org) - 使用基于网格的方法解决PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - 用于统计，优化，集成，线性代数，傅里叶变换，信号和图像处理，ODE求解器等的Python模块.
@@ -93,7 +93,7 @@ them.
   （C ++，AGPLv3）
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) - 二维质量网格生成器和Delaunay三角形.
   （C，*非自由软件*）
-- [optimesh](https://github.com/nschloe/optimesh) - Triangular mesh smoothing.
+- [optimesh](https://github.com/nschloe/optimesh) - 三角网格平滑.
   （Python，MIT，GitHub）
 - [distmesh](http://persson.berkeley.edu/distmesh/) - 用于非结构化三角形和四面体网格的简单生成器.
   （MATLAB，GPL 3）
@@ -103,7 +103,7 @@ them.
   （Python，麻省理工学院， [GitHub](https://github.com/mikedh/trimesh))
 - [dmsh](https://github.com/nschloe/dmsh) - 由distmesh启发的非结构化三角网格的简单生成器.
   （Python，MIT，GitHub）
-
+- [pmp-library](http://www.pmp-library.org/)   - 多边形网格处理库.  （C ++，麻省理工学院与雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
 
 ## Sparse linear solvers
 
@@ -137,9 +137,11 @@ them.
 - [accupy](https://github.com/nschloe/accupy) -  Python的准确总和和点积.
   （Python，MIT，GitHub）
 - [SLEPc](http://slepc.upv.es) - 特征值问题计算的可扩展库.
-  （C，2条款BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
+  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - 具有大约15位精度的功能计算.
   （MATLAB，BSD， [GitHub](https://github.com/chebfun/chebfun))
+- [pyMOR](https://pymor.org/) - 使用Python减少模型顺序.
+  （Python，2条款BSD， [GitHub](https://github.com/pymor/pymor/))
 
 
 ## Community

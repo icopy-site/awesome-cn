@@ -4,22 +4,51 @@
 </div>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://bluemix.net)
+[![](https://img.shields.io/badge/IBM%20Cloud-powered-blue.svg)](https://cloud.ibm.com)
 
 精选的IBM Cloud SDK，开源存储库，工具，博客和其他资源的精选列表.
 
 
 
-## IBM Cloud Functions
+## Carbon Design System
 
-* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - 使用IBM Watson和IBM Cloud Functions在视频中发现黑暗数据.
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - 使用IBM Cloud Functions构建的用于图像标记和面部检测的iOS应用程序示例.
-* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - 使用无服务器服务（无服务器架构/功能即服务）构建您自己的聊天机器人.
+*附加组件，组件，图标和其他资源，以使用IBM构建的设计系统.*
 
-## IBM Cloud Foundry
+* [carbon](https://github.com/carbon-design-system/carbon) - 由IBM构建的设计系统.
+* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) -  IBM Cloud的Carbon Design System附加组件.
+* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom)   - 该库是Carbon IBM Design System的扩展.  它包含IBM.com用户旅程之间共享的独特组件，以统一其外观.
+* [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) -  IBM Collaboration Solutions的Carbon Add-on.
+* [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react)   - 此库包含所有IBM IoT产品之间共享的React组件，以统一我们的外观.  这些小部件通常基于碳组件反应小部件.
+* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux)   - 所有IoT团队可用于桥接碳UI小部件和redux的UI组件.  这个库先行反应和redux.  该库通常与此小部件库一起使用.
+* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 使用D3和打字稿实现可重复使用的图表.
+* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -  IBM的碳设计系统的Angular实施.
+* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - 反应碳设计系统的组件.
+* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -  Vue实施碳设计系统.
+* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -  Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化综合套件.
+* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - 碳设计系统的SVG图标库.
+* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - 与碳组件一起使用的主题集合.
+* [carbon-website](https://github.com/carbon-design-system/carbon-website) - 碳设计系统的网站.
+
+## Command Line Tools
+
+*适用于MacOS，Windows和Linux的命令行工具.*
+
+* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - 这是IBM Cloud的命令行客户端.
+* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) -  A **非官方**与IBM Cloud交互的不同Docker容器的集合.
+* [Universal Command Line Interface](https://cloud.ibm.com/docs/cli/reference/ibmcloud?topic=cloud-cli-install-ibmcloud-cli#install_use) -  IBM Cloud CLI提供用于管理IBM Cloud中资源的命令行界面.
+* [Windows 64-bit](https://clis.cloud.ibm.com/download/bluemix-cli/latest/win64) -  Windows 64位命令行界面.
+
+## Infrastructure
+
+*使用Softlayer部署和管理您的应用程序.*
+
+* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) -  Terraform IBM Cloud提供商.
+
+## Platform
+
+*使用Cloud Foundry部署和管理您的应用程序.*
 
 * [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - 使用Golang和Cloud Foundry启动您的网站.
-* [cf-web-nodejs](https://github.com/victorshinya/cf-web-nodejs) - 使用Node.js和Cloud Foundry启动您的网站.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) -  Kitura REST Web服务服务器的生成器.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) -  Go库用于访问IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - 基于消息的保险体验.
@@ -27,7 +56,7 @@
 * [kitura-couchdb](https://github.com/IBM-Swift/Kitura-CouchDB) - 用于Kitura的CouchDB适配器.
 * [kitura-credentials](https://github.com/IBM-Swift/Kitura-Credentials) - 一个可插入的框架，用于使用Kitura验证Swift服务器中的用户凭据.
 * [kitura-credentials-google](https://github.com/IBM-Swift/Kitura-CredentialsGoogle) -  Kitura-Credentials框架的插件，使用Google Web登录进行身份验证.
-* [kitura-net](https://github.com/IBM-Swift/Kitura-net) - Kitura networking.
+* [kitura-net](https://github.com/IBM-Swift/Kitura-net) -  Kitura网络.
 * [kitura-nio](https://github.com/IBM-Swift/Kitura-NIO) - 基于SwiftNIO的Kitura网络库.
 * [kitura-sample](https://github.com/IBM-Swift/Kitura-Sample) - 示例应用程序，显示如何使用Kitura的各种功能.
 * [kitura-session](https://github.com/IBM-Swift/Kitura-Session) - 一个可插入的框架，用于使用Kitura管理Swift服务器中的用户会话.
@@ -38,12 +67,19 @@
 * [swift-ubuntu-docker](https://github.com/IBM-Swift/swift-ubuntu-docker) - 与Swift二进制文件打包在一起的Docker镜像.
 * [swifty-request](https://github.com/IBM-Swift/SwiftyRequest) -  SwiftyRequest是为Swift构建的HTTP网络库.
 * [watson-assistant-variables](https://github.com/IBM-Cloud/watson-conversation-variables) - 使用IBM Watson Assistant（以前称为Conversation）服务中的上下文变量和（系统）实体的示例.
+* [webiste-base](https://github.com/victorshinya/website-base) - 使用Node.js服务器部署您的网站.
 
-## IBM Softlayer
+## Serverless
 
-* [terraform-provider-ibm](https://github.com/IBM-Cloud/terraform-provider-ibm) -  Terraform IBM Cloud提供商.
+*使用IBM Cloud Functions（IBM Cloud上的Apache OpenWhisk）部署和管理您的操作/功能.*
 
-## IBM Watson
+* [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - 使用IBM Watson和IBM Cloud Functions在视频中发现黑暗数据.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - 使用IBM Cloud Functions构建的用于图像标记和面部检测的iOS应用程序示例.
+* [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - 使用无服务器服务（无服务器架构/功能即服务）构建您自己的聊天机器人.
+
+## Watson
+
+*使用Watson服务的SDK和代码模式.*
 
 * [assistant-simple](https://github.com/watson-developer-cloud/assistant-simple) - 演示Watson Assistant API的简单示例应用程序.
 * [botkit-middleware](https://github.com/watson-developer-cloud/botkit-middleware) - 使用Botkit将Watson Assistant服务连接到不同聊天频道的中间件.
@@ -79,44 +115,20 @@
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - 运行Visual Recognition自定义模型的iOS App.
 * [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) -  Celebrity Match应用程序使用Watson Personality Insights Service和Twitter数据来识别推特上的名人，这些推文的概念最接近您的推文.
 
-## Carbon Design System
-
-* [carbon](https://github.com/carbon-design-system/carbon) - 由IBM构建的设计系统.
-* [carbon-addons-cloud](https://github.com/carbon-design-system/carbon-addons-cloud) -  IBM Cloud的Carbon Design System附加组件.
-* [carbon-addons-dotcom](https://github.com/IBM/carbon-addons-dotcom)   - 该库是Carbon IBM Design System的扩展.  它包含IBM.com用户旅程之间共享的独特组件，以统一其外观.
-* [carbon-addons-ics](https://github.com/carbon-design-system/carbon-addons-ics) -  IBM Collaboration Solutions的Carbon Add-on.
-* [carbon-addons-iot-react](https://github.com/IBM/carbon-addons-iot-react)   - 此库包含所有IBM IoT产品之间共享的React组件，以统一我们的外观.  这些小部件通常基于碳组件反应小部件.
-* [carbon-addons-iot-redux](https://github.com/IBM/carbon-addons-iot-redux)   - 所有IoT团队可用于桥接碳UI小部件和redux的UI组件.  这个库先行反应和redux.  该库通常与此小部件库一起使用.
-* [carbon-charts](https://github.com/carbon-design-system/carbon-charts) - 使用D3和打字稿实现可重复使用的图表.
-* [carbon-components-angular](https://github.com/IBM/carbon-components-angular) -  IBM的碳设计系统的Angular实施.
-* [carbon-components-react](https://github.com/carbon-design-system/carbon-components-react) - 反应碳设计系统的组件.
-* [carbon-components-vue](https://github.com/carbon-design-system/carbon-components-vue) -  Vue实施碳设计系统.
-* [carbon-design-kit](https://github.com/carbon-design-system/carbon-design-kit) -  Carbon Design System视觉资产（组件，图标，调色板，网格，模板）的版本化综合套件.
-* [carbon-icons](https://github.com/carbon-design-system/carbon-icons) - 碳设计系统的SVG图标库.
-* [carbon-themes](https://github.com/carbon-design-system/carbon-themes) - 与碳组件一起使用的主题集合.
-* [carbon-website](https://github.com/carbon-design-system/carbon-website) - 碳设计系统的网站.
-
-## Getting Started Guides
-
-* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - 什么是IBM Cloud平台？
-
-## Command Line Tools
-
-* [IBM Cloud CLI Release](https://github.com/IBM-Cloud/ibm-cloud-cli-release) - 这是IBM Cloud的命令行客户端.
-* [IBM Cloud Docker Containers](https://jjasghar.github.io/ibm-docker/) -  A **非官方**与IBM Cloud交互的不同Docker容器的集合.
-* [Universal Command Line Interface](https://console.bluemix.net/docs/cli/reference/ibmcloud/download_cli.html#install_use) -  IBM Cloud CLI提供用于管理IBM Cloud中资源的命令行界面.
-* [Windows 64-bit](https://clis.ng.bluemix.net/download/bluemix-cli/latest/win64) -  Windows 64位命令行界面.
-* [Windows 32-bit](https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#ibm-cloud-cli-releases) -  Windows 32位及更早版本的命令行界面.
-
 ## Resources
 
+*了解有关IBM Cloud和服务的更多信息的资源列表.*
+
 * [Documentation](https://cloud.ibm.com/docs) - 了解有关阅读服务文档的特定服务的更多信息.
+* [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - 什么是IBM Cloud平台？
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) -  IBM Cloud的方法，新闻和公告.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - 及时了解最新的IBM Cloud产品和服务.
-* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - 以巴西葡萄牙语提供的IBM Cloud平台及其服务的方法和学习方法.
+* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) -  IBM Watson on Medium的方法，新闻和公告.
 
 ## YouTube Channels
+
+*观看并了解有关IBM Cloud和服务的更多信息.*
 
 * [IBM Developer](https://www.youtube.com/channel/UCUm6InQvGI9-6vo1teGWINA) - 我们的专业开发人员倡导者，开源技术，学习资源和本地聚会.
 * [IBM Watson](https://www.youtube.com/channel/UCxPJljXUHvUd9idyfEHvXqg) - 使用Watson服务，开发人员工具包，教育剪辑，事件概述等的教程.

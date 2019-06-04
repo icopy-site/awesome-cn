@@ -53,7 +53,7 @@
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy)  _（标签：E-easy）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kubernetes包装经理
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AGo)  _（标签：抓起来，难度：介绍，去）_ <br>  Golang和React中的开源Slack替代方案
+- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：抓起来，难度/ 1：轻松，技术/围棋）_ <br>  Golang和React中的开源Slack替代方案
 
 ## Java
 
@@ -100,7 +100,7 @@
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好的第一贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载以及浏览器中页面之间的无缝转换.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
-- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  通用服务器呈现的React应用程序的简约框架
+- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
@@ -108,7 +108,7 @@
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly) _(label:beginner-friendly)_ <br> Operation Code is a non-profit organization that are helping Veterans and their families get into the tech industry through mentorships, scholarships, and providing a supportive community.
+- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  Operation Code是一个非盈利组织，通过指导，奖学金和提供支持性社区帮助退伍军人及其家人进入科技行业.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
@@ -116,7 +116,7 @@
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Node.js的快速和低开销Web框架.
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完整且易于设置的JavaScript测试解决方案.
-- [Mattermost](https://github.com/mattermost/mattermost-server/issues?q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%3A+Introductory%22+label%3AReactJS)  _（标签：抓起来，难度：介绍，ReactJS）_ <br>  Golang和React中的开源Slack替代方案
+- [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：Up For Grabs，难度：1 / Easy，Tech / JavaScript）_ <br>  Golang和React中的开源Slack替代方案
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都能够学会在网络上创造性地编码和表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Squirrelly是一个轻量级模板引擎，支持帮助程序，过滤器，局部数据等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  NativeScript是一个开源框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Web技能，如Angular和Vue.js，FlexBox和CSS，并在iOS和Android上获得原生UI和性能.
@@ -186,7 +186,7 @@
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
+- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架
@@ -211,4 +211,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.

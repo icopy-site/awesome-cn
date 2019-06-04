@@ -64,7 +64,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [oecd-simple-charts](https://github.com/oecd-cyc/oecd-simple-charts) - 简单的图表库[箱形图，堆积条形图，珍珠图]
 - [peek](https://github.com/mtmacdonald/peek) - 面向对象的图表库[散点图，线条，区域，条形图，饼图，甜甜圈]
 - [plotly.js](https://github.com/plotly/plotly.js/) - 高级图表库[散点图，线条，条形图，饼图，箱形图，直方图，热图]
-- [plottable](https://github.com/palantir/plottable) - 用于网络的灵活交互式图表[区域，条形图，线条，饼图，散点图，堆叠图]
+- [plottable](https://github.com/palantir/plottable) - 灵活的交互式图表网络[区域，条形，线条，饼图，散点图，堆叠]
 - [radar-chart-d3](https://github.com/alangrafu/radar-chart-d3) - 雷达图模块
 - [rickshaw](https://github.com/shutterstock/rickshaw) - 用于创建交互式实时图形的工具包[line，scatter，bar]
 - [taucharts](https://github.com/TargetProcess/tauCharts) - 专注于设计和灵活性的图表[线条，条形，区域，堆叠]
@@ -84,6 +84,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3act](https://github.com/AnSavvides/d3act) -  d3与React [bar，bubble，pie]
 - [d3-simpleCharts](https://github.com/mrBigJS/d3-simpleCharts) - 一个d3 wordpress插件
 - [ember-charts](https://github.com/Addepar/ember-charts/) -  Ember图表[line，bar，stacked，pie，scatter]
+- [Layer Cake](https://layercake.graphics/) - 构建在Svelte之上的图形框架.
 - [line-chart](https://github.com/n3-charts/line-chart) -  AngularJS的折线图模块[line，area，bar]
 - [nivo](https://github.com/plouc/nivo) - 具有同构能力的React的Dataviz组件[bar，line，area，bubble，chord，heatmap]
 - [ngx-charts](https://github.com/swimlane/ngx-charts) -  Angular [bar，pie，line，area，polar，stacked，bubble]的图表框架
@@ -92,7 +93,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [react-d3-components](https://github.com/codesuki/react-d3-components) -  D3组件[条形，堆叠，散点图，线条，面积，饼图]
 - [react-d3-library](https://github.com/react-d3-library/react-d3-library) - 在React中使用D3的库[区域，条形，直线，饼图，散点图]
 - [react-stockcharts](https://github.com/rrag/react-stockcharts) - 高度可定制的股票图表[区域，线，散点图，气泡，条形图，堆叠图，烛台]
-- [react-vis](https://github.com/uber/react-vis) - 用于渲染可视化的反应组件集合[区域，条形图，热图，线条，散点图]
+- [react-vis](https://github.com/uber/react-vis) - 用于渲染可视化的反应组件集合[区域，条形图，热图，线，散点图]
 - [recharts](https://github.com/recharts/recharts) - 使用React构建的重新设计的图表库
 - [semiotic](https://github.com/emeeks/semiotic) - 结合React和D3 [散点图，线条，区域]的数据可视化框架
 - [victory](https://github.com/FormidableLabs/victory) - 用于构建可视化的可组合React组件[区域，条形，烛台，饼图，线条，散点图，voronoi]

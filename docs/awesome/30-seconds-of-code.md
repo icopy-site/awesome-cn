@@ -1792,7 +1792,7 @@ var myArray = [{x：1}，{x：2}，{x：3}，{x：1}];
 
 根据条件过滤对象数组，同时过滤掉未指定的键.
 
-使用`Array.prototype.filter（）`根据谓词`fn`过滤数组，以便返回条件返回truthy值的对象.
+使用`Array.prototype.filter（）`根据谓词`fn`过滤数组，以便它返回条件返回truthy值的对象.
 在过滤的数组上，使用`Array.prototype.map（）`使用`Array.prototype.reduce（）`返回新对象，以过滤掉未作为`keys`参数提供的键.
 
 ```js
@@ -4219,6 +4219,9 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
+
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -5061,8 +5064,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -5724,7 +5727,7 @@ const sumBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
-sumBy（[{N：4}，{N：2}，{N：8}，{N：6}]，O =&gt;上）; // 20
+sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）; // 20
  sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 20
 ```
 
@@ -6422,9 +6425,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if（acc！== undefined）return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if（acc！== undefined）return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -7884,7 +7887,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7914,7 +7917,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7943,7 +7946,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7971,7 +7974,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8643,7 +8646,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] =
+    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
     {}
   );
 ```

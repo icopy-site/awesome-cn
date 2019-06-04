@@ -45,7 +45,7 @@ https://twitter.com/unicodeveloper
 主题：PHP，JavaScript，React，Vue.js，Progressive Web Apps，测试，开源，Web性能
 https://twitter.com/developerayo
 
-## South Africa
+## South Africa 🇿🇦
 
 ### Johannesburg
 
@@ -69,7 +69,7 @@ https://twitter.com/ahsan_ayz
 
 <img src="https://pbs.twimg.com/profile_images/940145978891411456/OBYYqFI9_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
-**Mashhood Rastgar**\
+** Mashhood Rastgar ** \
  主题：渐进式Web应用程序，Angular，Firebase.  谷歌开发者专家网
 https://twitter.com/mashhoodr
 
@@ -115,7 +115,7 @@ https://twitter.com/kranirudha
 
 <img src="https://twitter.com/siddharthkp/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Siddharth Kshetrapal**\
+** Siddharth Kshetrapal ** \
 主题：CSS，Web性能，React，JS中的CSS，节点，测试\
 https://twitter.com/siddharthkp
 
@@ -695,7 +695,7 @@ https://twitter.com/ingridepure
 
 <img src="https://twitter.com/loige/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Luciano Mammino **
+** Luciano Mammino ** \
 主题：Node.js，设计模式，无服务器，JSON Web令牌，通用JavaScript \
 https://twitter.com/loige
 
@@ -891,7 +891,7 @@ https://twitter.com/stefannhs
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **Job van Achterberg**\
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/detonite/
 
 ### Gouda
@@ -1405,7 +1405,7 @@ https://twitter.com/_philpl
 <img src="https://twitter.com/saniyusuf/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Sani Yusuf **
-主题：Ionic，Angular，JavaScript，Progressive Web Apps \
+主题：离子，角度，JavaScript，渐进式Web应用程序
 https://twitter.com/saniyusuf
 
 <img src="https://twitter.com/sebawita/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1433,7 +1433,7 @@ https://twitter.com/heydonworks
 <img src="https://twitter.com/ninjanails/profile_image?size=original" height="70px" width="auto" align="left" />
 
 ** Star Davies ** \ t
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/ninjanails
 
 ## North America
@@ -1453,7 +1453,7 @@ https://twitter.com/wesbos
 <img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
 **Scott Vinkle**\
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/svinkle
 
 ### Montréal
@@ -1483,7 +1483,7 @@ https://twitter.com/brnnbrn
 <img src="https://twitter.com/halathinkeths/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **哈拉安华**
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/halathinkeths
 
 <img src="https://twitter.com/tiffhaxell/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1499,7 +1499,7 @@ https://twitter.com/tiffhaxell
 <img src="https://twitter.com/ericwbailey/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Eric Bailey **
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/ericwbailey
 
 <img src="https://twitter.com/bahmutov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1519,7 +1519,7 @@ https://twitter.com/leaverou
 <img src="https://twitter.com/aardrian/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **阿德里安·罗塞利**
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/aardrian
 
 ### Carlsbad
@@ -1542,7 +1542,7 @@ https://twitter.com/levibostian
 
 <img src="https://twitter.com/gigasquid/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-**Carin Meier**\
+** Carin Meier ** \
 主题：Clojure，机器学习，编程
 https://twitter.com/gigasquid
 
@@ -1575,7 +1575,7 @@ https://twitter.com/mirisuzanne
 <img src="https://twitter.com/cariefisher/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Carie Fisher **
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/cariefisher
 
 ### Nashville
@@ -1598,7 +1598,7 @@ https://twitter.com/ken_wheeler
 
 <img src="https://twitter.com/GantLaborde/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Glove Laborde ** \
+**手套Laborde ** \
 主题：JavaScript，React Native，Leadership，Redux，开源，工具，公开演讲\
 https://twitter.com/GantLaborde
 
@@ -1666,7 +1666,7 @@ https://twitter.com/lara_hogan
 
 <img src="https://twitter.com/kosamari/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Mariko Kosaka**\
+**小麻真子**
 主题：HTML，CSS，JavaScript，Web \
 https://twitter.com/kosamari
 
@@ -1829,7 +1829,7 @@ https://twitter.com/brynn
 <img src="https://twitter.com/cordeliadillon/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Cordelia Dillon ** \
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/cordeliadillon
 
 <img src="https://twitter.com/standardista/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1939,7 +1939,7 @@ https://twitter.com/DevWithTheHair
 <img src="https://twitter.com/ShellELittle/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **壳小**
-主题：辅助功能\
+主题：可访问性
 https://twitter.com/ShellELittle
 
 ## South America

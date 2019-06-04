@@ -111,6 +111,7 @@
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - 高度冗余和低功耗的RADOS家庭存储解决方案.
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - 使用Docker，Resin和3G互联网远程部署间隔拍摄相机.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - 为在学校使用Chromebook的学生定时充电站.
+- [Ceil](https://github.com/helmuthva/ceil) - 在裸机上运行K8S的自动配置RPi集群. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Circle](https://github.com/rsta2/circle) -  Raspberry Pi的C ++裸机环境.
 - [clockOS](https://github.com/iGerli/clockOS) - 使用Raspberry Pi显示屏的简单智能桌面时钟.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) -  Raspberry Pi Zero Rubber Ducky几乎可以通过USB端口识别为USB HID，因此您可以像使用键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)

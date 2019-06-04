@@ -101,7 +101,7 @@ the word using the `#RubyML` hash tag!
   （SVM，Logistic回归，线性回归，随机森林等）和
   接口类似于Python中的[Scikit-Learn] [scikit].
 - [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
-  运用 [PMLL](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend 运用 [GSL][gsl].
+  运用 [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend 运用 [GSL][gsl].
 
 ### Neural networks
 

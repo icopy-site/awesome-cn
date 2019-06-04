@@ -19,6 +19,8 @@
 * [@brettcannon](https://github.com/brettcannon), [Python](https://github.com/python)
   *“开源的给予和接受”（[video](https://www.youtube.com/watch?v=y19s6vPpGXA))
   *“维护者故事：Brett Cannon”（[interview](https://github.com/open-source/stories/brettcannon))
+* [@ceejbot](https://github.com/ceejbot), [Entropic](https://github.com/entropic-dev/entropic), [npm](https://github.com/npm/cli)
+  *“开源经济学”（[video](https://www.youtube.com/watch?v=MO8hZlgK5zc), [post](https://github.com/ceejbot/economics-of-package-management/blob/master/essay.md))
 * [@colcarroll](https://github.com/ColCarroll), [PyMC3](https://github.com/pymc-devs/pymc3)
   *“两年开源”（[slides/post](https://colcarroll.github.io/open_source_pa/))
 * [@ctb](https://github.com/ctb) & [@mr-c](https://github.com/mr-c), [khmer](https://github.com/dib-lab/khmer)
@@ -30,6 +32,8 @@
 * [@danvet](https://github.com/danvet), [Linux drm-intel](https://cgit.freedesktop.org/drm-intel)
   *“维护人员无法扩展”（[video](https://www.youtube.com/watch?v=KJ9Y0midtW4), [slides](http://blog.ffwll.ch/slides/lca-2017.pdf), [post](http://blog.ffwll.ch/2017/01/maintainers-dont-scale.html))
   *“烧毁城堡”（[video](https://www.youtube.com/watch?v=BB0luXmuo3g&t=90s), [post](http://blog.ffwll.ch/2018/02/lca-sydney.html))
+* [@dhh](https://github.com/dhh), [Rails](https://github.com/rails)
+  *“超越市场的开源”（[video](https://www.youtube.com/watch?v=VBwWbFpkltg), [post](https://m.signalvnoise.com/open-source-beyond-the-market/))
 * [@dominictarr](https://github.com/dominictarr), [scuttlebot](https://github.com/ssbc/scuttlebot) 和别
   *“关于事件流妥协的声明”（[post](https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a))
 * [@emilyemorehouse](https://github.com/emilyemorehouse), [Python](https://github.com/python)

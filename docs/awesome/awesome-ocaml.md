@@ -89,7 +89,6 @@
 - [Infer](https://github.com/facebook/infer) - 推断是Java，C和Objective-C的静态分析器
 - [Frama-C](http://frama-c.com) -  Frama-C是C和C ++的静态分析和形式证明框架
 - [flow](https://github.com/facebook/flow) -  flow是JavaScript的静态类型检查器
-- [BetterErrors](https://github.com/npm-ml/BetterErrors) -  BetterErrors改进了OCaml编译器的错误消息（使OCaml错误再次发生.）
 - [SLAyer](https://github.com/Microsoft/SLAyer) -  SLAyer是一种自动形式验证工具，它使用分离逻辑来验证C程序的内存安全性.
 - [MemCAD](https://github.com/Antique-team/memcad)   -  MemCAD是一种用于形状分析的抽象解释器.  MemCAD可以验证C程序操纵复杂的数据结构.
 

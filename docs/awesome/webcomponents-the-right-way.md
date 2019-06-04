@@ -117,6 +117,7 @@
 
 - [Corpuscule](https://github.com/corpusculejs/corpuscule) - 基于装饰器的小型Web组件框架.
 - [LitElement](https://lit-element.polymer-project.org)   - 用于创建快速，轻量级Web组件的简单基类.  聚合物项目的一部分.
+- [Lightning Web Components](https://github.com/salesforce/lwc) - 超快速，企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -  4kb JavaScript中的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -  Polymer Project作者的原始Web组件库.
 - [Skate](https://github.com/skatejs/skatejs) -  Web组件库，专注于功能渲染管道和小占用空间.
@@ -138,6 +139,7 @@
 
 ## Component Libraries
 
+- [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
 - [AMP HTML](https://github.com/ampproject/amphtml) - 用于构建具有可靠和快速性能的Web页面的Web组件库.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -  ELMS：LN为任何项目生成Web组件.

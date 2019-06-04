@@ -124,6 +124,7 @@
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) -  Web应用程序代码实验室.
 * [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 * [Tour of Heroes](https://webdev.dartlang.org/angular/tutorial) - 一个涵盖AngularDart核心基础的应用程序. 
+* [Dart for beginner](https://www.myfreax.com/tag/dart/) -  Dart中文教程初学者.
 
 ## Community
 
