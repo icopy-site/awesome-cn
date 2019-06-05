@@ -229,7 +229,7 @@
   4. [karat.io](https://karat.io/practice) - 与专业面试官进行免费练习编码面试
   4. [pramp](https://pramp.com) - 与其他候选人一起练习编码访谈（表格的两面）
   5. [remoteinterview.io](https://www.remoteinterview.io/) - 编码测试和配对编程面试工具
-  6. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
+  6. [skillmeter.com](https://skillmeter.com/) - 招聘人员和公司的在线技能测试平台
   7. [hackerrank.com](https://www.hackerrank.com/) - 代码学习和招聘的在线平台也提供工作机会
 
 ## Events
@@ -242,7 +242,7 @@
   1. [Remote Jobs Direct](https://remotejobsdirect.com/) - 每周通讯，涵盖各种远程工作和相关新闻.
   1. [Remote Report](http://remote.report) - 每周提供的最佳远程，支持为重点和非技术性工作的集合
   1. [Remoteur](http://www.remoteur.com) - 欧洲的远程工作每两周发送到您的收件箱
-  1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
+  1. [Remotive - productive remote workers](http://remotive.io/) - 每周向10,000多名远程工作人员发送关于远程提示和工作的简报
   1. [Yonder Newsletter](https://yonder.io/newsletter) - 每日远程工作提示，链接，文章和Yonder播客
   1. [Remote Jobs Club](https://remotejobsclub.com) - 每周时事通讯，提供手工策划的远程工作清单
 
@@ -255,13 +255,14 @@
 
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) - 通过为内容创建者精心制作网站和工具，10up使网络变得更好.
+  1. [15Five](https://www.15five.com/careers/) - 加入我们的使命，通过加入一些最优秀的员工，创造人们成为最大自我的空间.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - 由Wordpress提供支持的超本地房地产网站.
   1. [Aha!](https://www.aha.io/company/careers/current-openings)   - 啊哈！  是希望他们回归的PM的路线图软件.
   1. [AirTreks](https://www.airtreks.com/about/) - 具有分布式团队的多站国际飞行计划员.
   1. [Alley](https://alley.co/jobs/)   - 数字代理.  我们是战略家，研究人员，设计师和开发人员，为出版商，非营利机构，博物馆和品牌制作定制数字体验.
   1. [ALICE](https://www.aliceplatform.com/careers/)   - 远程友好的初创公司.  我们正在为酒店业创建全球运营平台.  ALICE为世界上最好的酒店提供卓越的客户体验.
   1. [Ameego](http://ameego.ca/) - 餐厅安排软件.
-  1. [Arkency](http://blog.arkency.com/join-our-team/) -  Rails和React.js专家，完全远程/异步.
+  1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - 差不多 [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) 远程工作.
   1. [Auth0](https://auth0.com/jobs) - 为开发人员提供零摩擦认证和授权.
@@ -289,7 +290,7 @@
   1. [Ciao Bambino](http://ciaobambino.com/) - 家庭目的地和酒店评论.
   1. [CircleCI](https://circleci.com/jobs#engineer) - 提供持续集成工具和服务.
   1. [Circonus](https://www.circonus.com/careers)   -  SaaS和本地监控，分析，警报等.  C，Go，Java，Perl.  总部位于富尔顿MD，大多数员工都很偏远.
-  1. [Clevertech](https://clevertech.biz/careers) - We build incredible, game changing technology.
+  1. [Clevertech](https://clevertech.biz/careers) - 我们打造令人难以置信的改变游戏规则的技
   1. [Close.io](http://jobs.close.io) - 面向初创公司和中小型企业的内部销售CRM.
   1. [Codeship](https://codeship.com/jobs) -  SaaS持续交付
   1. [Collabora](https://www.collabora.com/careers.html) - 基于开源软件的咨询.
@@ -336,7 +337,7 @@
   1. [Healthfinch](http://www.healthfinch.com/careers/)   - 使医疗保健系统更加可用.  总部设在美国威斯康星州麦迪逊市.  Ruby，Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) - 网络和移动分析，我们的8个队友中有2个是远程的.
   1. [Help Scout](https://www.helpscout.net/careers/) - 为坚持愉快客户体验的团队提供服务台.
-  1. [Heroku](https://www.heroku.com/careers) -  PaaS Cloud，让开发者体验真棒，Ruby，Erlang，Javascript，Golang，Python.
+  1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
   1. [Honeybadger](https://www.honeybadger.io/)   -  Ruby.  100％遥控.
   1. [Hotjar](https://careers.hotjar.com/) - 分析和反馈工具.
   1. [Hubstaff](https://hubstaff.com/jobs) - 具有多个集成的时间跟踪解决方案.
@@ -386,7 +387,7 @@
   1. [onTheGo Systems](https://www.onthegosystems.com/jobs/) -  WordPress开发人员，支持者和营销工作.
   1. [Onyo](http://www.onyo.com) - 在纯粹的快乐中改变外出就餐的体验.
   1. [OpenCraft](http://opencraft.com/) - 开放edX开发（自由软件MOOC项目）.
-  1. [Owsy](http://owsy.com/careers/) - 国际工作室专注于为金融服务公司创造产品.
+  1. [Owsy](http://owsy.com/careers/) - International studio focused on creating products for financial service firms.
   1. [Parknav](https://parknav.com) - 使用AI智能停车
   1. [Parsely](http://www.parsely.com/jobs/) - 分析解决方案
   1. [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
@@ -470,6 +471,7 @@
 1. [Hacker Paradise](http://www.hackerparadise.org/) - 旅行远程工作人员.
 1. [Remote Year](http://www.remoteyear.com/) - 旅行技术人员1年.
 1. [We work remotely in Romania](https://weworkremotely.ro/) - 罗马尼亚的远程工作人员，全职或在途
+1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作人员
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - 数字游牧大会.
@@ -519,7 +521,7 @@
   1. [Fiverr](https://www.fiverr.com/) -  Fiverr是世界上最大的精益企业家自由服务市场，您可以雇佣远程工作人员为您完成小型任务.
   1. [Funretro](https://funretro.github.io/distributed) -  Funretro是分布式团队的回顾性在线董事会.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 听听维基百科最近更改的声音.
-  1. [Noisli](https://www.noisli.com/) -  Noisli有一系列不同的环境声音可以结合起来，以提高创造力和专注力.
+  1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
   1. [musicforprogramming.net](https://musicforprogramming.net/) - “return”一系列用于收听的混音，而&#39;+ task +&#39;则用于帮助集中注意力并提高工作效率（也与其他活动兼容）.&#39;;`
   1. [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈（Mac）.
   1. [Realtime Board](https://realtimeboard.com/) - 分布式永久虚拟白板.

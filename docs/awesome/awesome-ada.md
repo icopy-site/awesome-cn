@@ -119,7 +119,7 @@
 #### Books
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97811074/24814/cover/9781107424814.jpg">[Programming in Ada 2012](https://www.cambridge.org/core/books/programming-in-ada-2012/55B998B4E908A017E4D74A87364FF224#) - 全面.  
 <img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/41RVoxIX2TL._SX398_BO1,204,203,200_.jpg">[Introduction to Ada Programming, 2nd Edition](https://www.amazon.com/Introduction-Ada-Programming-Andrew-Shvets/dp/1987673859/ref=sr_1_8?ie=UTF8&qid=1544540272&sr=8-8&keywords=ada+programming+language) - 介绍.   
-<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - 数据结构.   
+<img height="50px" width="36px" hspace="10px" src="https://images-na.ssl-images-amazon.com/images/I/51CLo5yzNsL._SX422_BO1,204,203,200_.jpg"> [Ada Plus Data Structures: An Object Oriented Approach](https://www.springer.com/gp/book/9781848823136) - Data Structures.   
 <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9781848823136.jpg"> [Ada for Software Engineers](https://www.springer.com/gp/book/9781848823136) - 成语，建筑.  
 <img height="50px" width="36px" hspace="10px" src="https://assets.cambridge.org/97805218/66972/cover/9780521866972.jpg">[Concurrent and Real-Time Programming in Ada](https://www.cambridge.org/core/books/concurrent-and-realtime-programming-in-ada/9DA4389E52005382D4CC1FC5D812DA71) - 并发，容器，调度.   
 <img height="50px" width="36px" hspace="10px" src="https://images.springer.com/sgw/books/medium/9780387948348.jpg">[Data Structures and Algorithms: An Object-Oriented Approach Using Ada 95](https://www.springer.com/gp/book/9780387948348) - 数据结构，算法.   
@@ -220,7 +220,7 @@
 - [co-terminal-apps](https://github.com/fastrgv/CoTerminalApps) - 在任何平台上的终端中运行的复古游戏.
 - [mini-pacman](https://github.com/fastrgv/MiniPacman) -  MiniPac是Pacman的儿童友好ascii角色版本，可在命令行终端中播放.
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以Windows，Mac OS-X和GNU Linux运行的足球主题3D推箱子益智游戏.
-- [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏.
+- [pasta](http://pasta.phyrama.com/) - Pasta! is a game of the "match-3" genre.
 - [buttons](https://github.com/andreacervetti/buttons) - 简单的Gtkada Button Mania游戏.
 
 
@@ -284,7 +284,7 @@
 
 #### Verification
 - [gnat-coverage](https://github.com/AdaCore/gnatcoverage) -  GNATcoverage是一种分析和报告计划覆盖范围的工具.
-- [adacontrol](http://www.adalog.fr/en/adacontrol.html) - Ada constructs lint tool.
+- [adacontrol](http://www.adalog.fr/en/adacontrol.html) -  Ada构造lint工具.
 - [spark-2014](https://github.com/AdaCore/spark2014/) -  SPARK正式验证工具集.
 
 #### Generation
@@ -299,8 +299,6 @@
 - [math-packages](https://github.com/jscparker/math_packages) - 收集Ada中的基本数学例程.
 - [mathpaqs](http://mathpaqs.sourceforge.net/) -  Mathpaqs是Ada编程语言中数学，100％可移植包的集合.
 - [polynomials](http://www.christ-usch-grein.homepage.t-online.de/Ada/Polynomials.html) - 该软件包允许正式操作多个变量的多项式.
-- [numerics](https://github.com/Entomy/Numerics) - 为Ada中的数字处理提供了大量改进，主要通过其他类型.
-- [mathematics](https://github.com/Entomy/Mathematics) - 收集数学的Ada包，包括分配代数，角代数等等.
 - [landscape](http://www.christ-usch-grein.homepage.t-online.de/Ada/Landscape.html) - 用于绘制两个实变量函数的库.
 - [si-units](http://www.christ-usch-grein.homepage.t-online.de/Ada/Dimension/SI.html) - 一组Ada包，用于完全通用的尺寸项目进行计算.
 
@@ -321,7 +319,7 @@
 - [ada-language-server](https://github.com/AdaCore/ada_language_server) -  Ada / SPARK的Microsoft语言服务器协议的原型实现.
 - [smart-pointers](http://www.christ-usch-grein.homepage.t-online.de/Ada/Smart_Pointers.html) - 提供引用计数访问类型Smart_Pointer的包.
 - [marsaglia-random-number-generator](http://www.christ-usch-grein.homepage.t-online.de/Ada/Marsaglia.html) - 由佛罗里达州立大学超级计算机计算研究所George Marsaglia开发的算法的Ada实现.
-- [containers](https://github.com/Entomy/Containers) - 为Ada收集容器.
+- [lib-anne](https://github.com/Entomy/libAnne)   - 大量的Ada套餐.  这有点像是一个“新的标准库”.  谁是安妮？  阿达的女儿.
 - [libkeccak](https://github.com/damaki/libkeccak) -  Keccak系列海绵功能和相关结构的SPARK实施.
 - [ascon-spark](https://github.com/jhumphry/Ascon_SPARK) - 使用附加数据算法实现Ascon认证加密的Ada / SPARK.
 - [spark-sip-hash](https://github.com/jhumphry/SPARK_SipHash) -  Ada / SPARK实现SipHash键控散列函数.
@@ -332,7 +330,7 @@
 - [nb-ada](https://github.com/andgi/NBAda) -  NBAda：一个无锁数据结构和算法的Ada库.
 - [xxhash-ada](https://github.com/lyarbean/xxhash-ada) - 非常快速的非加密哈希算法，xxhash的工作速度接近RAM限制.
 - [base58-ada](https://github.com/MichaelAllenHardeman/base58_ada) -  Ada中的Base58编码和解码.
-- [paraffin](https://sourceforge.net/projects/paraffin/) - 一套Ada 2012泛型，用于促进多核系统的迭代和递归并行.
+- [paraffin](https://sourceforge.net/projects/paraffin/) - A suite of Ada 2012 generics to facilitate iterative and recursive parallelism for multicore systems.
 - [deepend](https://sourceforge.net/projects/deepend/) -  Deepend是一个存储池，具有Ada 2012，Ada 2005和Ada 95的子池功能.
 - [charles](http://home.earthlink.net/~matthewjheaney/charles/) -  Charles是Ada 95容器库，是Ada 2005+标准容器的前身.
 - [simple-blockchain](https://github.com/tomekw/simple_blockchain) -  Ada中的简单区块链.
@@ -348,7 +346,7 @@
 #### Parsers, Scanners, Linters, Analysers, Interpreters and Prettyprinters
 - [libadalang](https://github.com/AdaCore/libadalang/)   -  Libadalang是一个用于解析Ada代码和语义分析的库.  它意味着作为集成到其他工具的构建块.  （IDE，静态分析仪等）
 - [aflex-ayacc](http://thiberlog.free.fr/) -  Ada95扫描仪和解析器生成器.
-- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) - WisiToken is an LALR, LR1, and Packrat parser generator and run-time.
+- [wisitoken](http://stephe-leake.org/ada/wisitoken.html) -  WisiToken是一个LALR，LR1和Packrat解析器生成器和运行时.
 - [gela](https://github.com/reznikmm/gela) - 有一个代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) - 语法处理和解析器生成Ada库.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) -  Ada的漂亮打印库.
@@ -366,7 +364,7 @@
 - [xml-ez-out](http://www.mckae.com/xmlEz.html) - 用于从Ada程序发出XML的库.
 - [spark-xml](https://github.com/Componolit/SXML) -  SPARK中经过正式验证的XML库.
 - [excel-writer](http://excel-writer.sourceforge.net) - 使用基本格式创建Excel文件.
-- [generic-image-decoder](http://gen-img-dec.sourceforge.net/) - Multi-format image decoder library for Ada.
+- [generic-image-decoder](http://gen-img-dec.sourceforge.net/) -  Ada的多格式图像解码器库.
 - [zip-ada](http://unzip-ada.sourceforge.net/) -  Zip-Ada是一个用于处理Zip压缩归档文件格式的编程库.
 - [apdf](https://apdf.sourceforge.io/) -  Ada软件包，用于从Ada程序生成轻松自动的PDF文件，文本，矢量图形，图像（JPEG）.
 - [ada-midi](https://github.com/frett27/Ada-Midi) - 实施Midi / MidiFile阅读和写作.
@@ -430,7 +428,7 @@
 - [spark-railway-demo](https://github.com/Fabien-Chouteau/spark-railway-demo) -  SPARK / Ada的模拟铁路网络.
 - [micro-temp-pi](https://github.com/jklmnn/MicroTemPi) - 使用BBC Micro：Bit作为温度传感器的Raspberry Pi.
 - [wee-noise-maker](https://github.com/Fabien-Chouteau/Wee-Noise-Maker) -  Wee Noise Maker是一款开源袖珍合成器.
-- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - 与AdaFruit BNO055分线板交互的程序，用于将定向数据发送到主机.
+- [lunar-lander-rotation](https://github.com/AdaCore/Lunar_Lander_Rotation_Demo) - Program that interacts with the AdaFruit BNO055 breakout board in order to send orientation data to a host computer.
 - [railway-simulation](https://github.com/AdaCore/SPARK_Railway_Simulation_Demo)   - 用火车，交换机和信号模拟铁路网络的程序.  信号系统已通过SPARK / Ada验证，以确保列车不会发生碰撞.
 - [fsm-edit](http://www.christ-usch-grein.homepage.t-online.de/Ada/FSM.html)   -  FSMedit是有限状态机的编辑器.  它是用Ada编写的，带有图形用户的界面，可选择Claw或GtkAda.
 - [etherscope](https://github.com/stcarrez/etherscope) -  STM32F746板上的以太网流量监视器.
@@ -500,7 +498,7 @@
 - [opencl-ada](http://flyx.github.io/OpenCLAda) - 用于OpenCL主机API的Ada绑定.
 - [rclada](https://github.com/ada-ros/rclada) -  ROS2 / RCL的Ada客户端库.
 - [ada-v4l2](https://github.com/frett27/AdaV4L2) -  Ada Posix绑定到Video 4 Linux，用于RPI.
-- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - Ada bindings to NanoVG.
+- [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - 与NanoVG绑定.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) -  libsoundio有绑定.
 - [win32ada](https://github.com/AdaCore/win32ada) -  Windows库有一个API.
 - [wposix](https://github.com/AdaCore/wposix) - 有一个Windows POSIX绑定.

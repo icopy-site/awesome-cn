@@ -102,89 +102,17 @@
 ##### React Component Libraries
 
 - [Material UI](https://material-ui.com/)
+- [Ant Design](https://ant.design/)
+- [Blueprint](https://github.com/palantir/blueprint)
+- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react)
 - [React Bootstrap](https://react-bootstrap.github.io/)
 - [Semantic UI React](https://react.semantic-ui.com/)
-- [Base Web React Components](https://baseweb.design/)
 
-##### Components
+##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
 - [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - 日历组件
-- [Essential JS 2 for React - Over 60 high-performance, lightweight, modular, and responsive UI components.](https://www.syncfusion.com/react-ui-components)
-- [KendoReact - UI for React Developers](https://www.telerik.com/kendo-react-ui/)
-- [React Material Web Components - The most performant, un-opinionated, and simple implementation of Material Design in React.](https://jamesmfriedman.github.io/rmwc/)
-- [@jpmonette/react-bulma - React components for Bulma - the Modern CSS framework](https://github.com/jpmonette/react-bulma)
-- [DevExtreme React Grid - High-performance plugin-based React data grid for Bootstrap and Material Design](https://devexpress.github.io/devextreme-reactive/react/grid/)
-- [React Svg Textures - Textures.js ported to React. Fully isomorphic.](https://github.com/finnfiddle/react-svg-textures)
-- [React Responsive Tables](https://github.com/adam-hanna/react-responsive-tables)
-- [React Component List](http://dvemac.github.io/react-component-list/)
-- [JS.coach - A catalog of React components](https://js.coach/)
-- [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
-- [Khan Academy React Components](http://khan.github.io/react-components/)
-- [VistarMedia Components](http://cmpnt.vistarmedia.com/)
-- [React Topcoat UI components](https://github.com/kjda/react-topui)
-- [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
-- [react-materialize - Material design for React, powered by Materialize](https://github.com/react-materialize/react-materialize)
-- [react-md - Set of React components and sass files for implementing Google's Material Design](https://github.com/mlaursen/react-md)
-- [material-ui - A CSS Framework and a Set of React Components for Material Design](https://github.com/callemall/material-ui)
-- [ReactSymbols - Pixel perfect UI Kit / Library with ready-to-use components + original Sketch resource file](http://reactsymbols.com)
-- [react-google-login-component](https://github.com/kennetpostigo/react-google-login-component)
-- [react-facebook-login-component](https://github.com/kennetpostigo/react-facebook-login-component)
-- [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
-- [Ant Design - An enterprise-class UI design language, A set of high-quality React components](https://github.com/ant-design/ant-design)
-- [Zent - A collection of React UI components](https://github.com/youzan/zent)
-- [UXCore - A React UI Component Set living for enterprise backend application](https://github.com/uxcore/uxcore)
-- [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
-- [react-aim - Determine the cursor aim for triggering mouse events](https://github.com/gabrielbull/react-aim)
-- [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design.](https://github.com/myxvisual/react-uwp)
-- [react-touch - React photo viewer for mobile](https://github.com/petehunt/react-touch)
-- [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
-- [react-grid - Data grid for React](https://github.com/prometheusresearch/react-grid)
-- [React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons](https://github.com/luqin/react-icheck)
-- [react-async - Async rendering for React components](https://github.com/andreypopp/react-async)
-- [react-async-input - Inputs that behave properly with async set{State,Props} calls](https://github.com/grncdr/react-async-input)
-- [react-countup - A React component wrapper around CountUp.js](https://github.com/glennreyes/react-countup)
-- [react-mediaswitch - Choose your DOM based on media queries](https://github.com/matthewwithanm/react-mediaswitch)
-- [react-frame-component - Render your React app to an iFrame](https://github.com/ryanseddon/react-frame-component)
-- [react-gravatar - React component for rendering a gravatar profile image](https://github.com/KyleAMathews/react-gravatar)
-- [markdown-react - React Render for Standard Markdown](https://github.com/vjeux/markdown-react)
-- [react-component-gallery — React component for creating an evenly spaced components](https://github.com/KyleAMathews/react-component-gallery)
-- [react-markdown-textarea - Component to create textareas for entering Markdown](https://github.com/KyleAMathews/react-markdown-textarea)
-- [react-markdown-area - Github flavored markdown editor with live preview](https://github.com/MattMcFarland/react-markdown-area)
-- [react-textarea-autosize - Textarea component for React which grows with content](https://github.com/andreypopp/react-textarea-autosize)
-- [react-spinner - Zero configuration loading spinner](https://github.com/chenglou/react-spinner)
-- [react-treeview - Easy, light, flexible tree view made with React](https://github.com/chenglou/react-treeview)
-- [react-tree-menu - A stateless tree menu component built with the Flux architecture in mind](https://github.com/MandarinConLaBarba/react-tree-menu)
-- [react-tween-state - React animation tween state](https://github.com/chenglou/react-tween-state)
-- [react-stripe-checkout - Easily load Stripe Checkout as a React component](https://github.com/azmenak/react-stripe-checkout)
-- [react-id-swiper - A library to use idangerous Swiper as a ReactJs component](https://github.com/kidjp85/react-id-swiper)
-- [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
-- [react-smart-time-ago - Show relative "time ago" dates](https://github.com/KyleAMathews/react-smart-time-ago)
-- [react-autoupdate-time - Renders a <time> element that autoupdates](https://github.com/KyleAMathews/react-autoupdate-time)
-- [react-time - Component for React to render relative and/or formatted dates into <time>](https://github.com/andreypopp/react-time)
-- [react-crouton - A message component for reactjs](https://github.com/xeodou/react-crouton)
-- [react-ago-component - Renders the approximate time ago in words from a specific past date](https://github.com/martinandert/react-ago-component)
-- [react-translate-component - Provides multi-lingual/localized text content](https://github.com/martinandert/react-translate-component)
-- [react-lorem-component - Renders lorem ipsum placeholder text](https://github.com/martinandert/react-lorem-component)
-- [react-interpolate-component - Renders elements into a format string](https://github.com/martinandert/react-interpolate-component)
-- [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
-- [RCSS - Turn your JavaScript objects into CSS classes](https://github.com/chenglou/RCSS)
-- [ReactiveElements - Allows to use React.js component as HTML element](https://github.com/PixelsCommander/ReactiveElements)
-- [react-chosen - React wrapper for Chosen jQuery](https://github.com/chenglou/react-chosen)
-- [react-inlinesvg - An SVG loader component for React](https://github.com/gilbarbara/react-inlinesvg)
-- [react-imageloader - A React component for wrangling image loading](https://github.com/hzdg/react-imageloader)
-- [expose - A React mixin for lazy loading](https://github.com/dok/expose)
-- [react-loadqueueloader - A React component for managing loads with a load queue](https://github.com/hzdg/react-loadqueueloader)
-- [react-loadermixin - A React mixin for giving components loading behavior](https://github.com/hzdg/react-loadermixin)
-- [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events](https://github.com/hzdg/react-pressable)
-- [react-google-analytics - Google analytics component](https://github.com/hzdg/react-google-analytics)
-- [react-layers - A library for layering components in React](https://github.com/pieterv/react-layers)
-- [react-layer-stack - Simple yet complete and agnostic layering system for React. Useful for windowing/dnd/popover/modals/tooltip applications](https://github.com/fckt/react-layer-stack)
-- [react-gcal-events-list - A Reusable component that pulls events from your google calendar](https://github.com/VinSpee/react-gcal-events-list)
-- [reactdi - Dependency injection for ReactJS components](https://github.com/hzdg/reactdi)
-- [qrcode.react - A <QRCode/> component for use with React](https://github.com/zpao/qrcode.react)
-- [react-swf - Shockwave Flash Player component for React](https://github.com/syranide/react-swf)
-- [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount](https://github.com/syranide/react-unmount-listener-mixin)
+- [qrcode.react](https://github.com/zpao/qrcode.react)  - 一个 <QRCode/>  用于React的组件
 - [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
 - [react-anything-sortable - A sortable component with IE8 compatibility](https://github.com/jasonslyvia/react-anything-sortable)
 - [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
@@ -378,10 +306,6 @@
 - [react-singular-component - Transition between dom elements of a component easily](https://github.com/dor6/react-singular-component)
 - [react-motion](https://github.com/chenglou/react-motion) - 一个解决动画问题的弹簧
 
-##### Containers
-
-- [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
-
 ##### Libraries
 
 - [react-border-wrapper - A wrapper for placing elements along div borders in React.](https://github.com/Metroxe/react-border-wrapper)
@@ -401,7 +325,6 @@
 - [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application](https://github.com/yahoo/react-i13n)
 - [react-icons - svg react icons of popular icon packs](https://github.com/gorangajic/react-icons)
 - [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc...](https://github.com/Wildhoney/Keo)
-- [Blueprint - A React-based UI toolkit for the web](https://github.com/palantir/blueprint)
 - [Bit - A virtual repository for managing and using react and other web components across applications](https://github.com/teambit/bit)
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
 - [ReactiveSearch - UI components library for Elasticsearch](https://github.com/appbaseio/reactivesearch)
@@ -419,6 +342,8 @@
 - [react-snap](https://github.com/stereobooster/react-snap) - 针对SPA的零配置框架无关的静态预渲染
 - [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架
 - [refract](https://github.com/fanduel-oss/refract) - 利用反应式编程的强大功能为组件增压
+- [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
+- [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
 
 ##### React Integration
 
@@ -559,12 +484,6 @@
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
-
-##### Template Engines
-
-- [react-templates - Lightweight templates for React](https://github.com/wix/react-templates)
-- [teact - A JSX alternative based on composing functions in the Markaby / CoffeeKup / Teacup tradition](https://github.com/hurrymaplelad/teact)
-- [react-jsx-filter - JSX Filter template for React](https://github.com/chiaweilee/react-jsx-filter)
 
 ##### Maps
 
@@ -987,13 +906,6 @@
 - [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 - [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
 - [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
-
----
-
-### Free Books
-
-- [SurviveJS - Webpack and React](http://survivejs.com/)
-- [React in Patterns](https://krasimir.gitbooks.io/react-in-patterns/content/)s
 
 ---
 

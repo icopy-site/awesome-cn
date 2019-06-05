@@ -971,6 +971,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [minimalx](https://github.com/lknix/zsh-theme-minimalx) - 受到来自oh-my-zsh的kolo主题的启发.
 * [misa](https://github.com/misalabs/misa.zsh-theme) -  Misalabs的ZSH主题.
 * [mixed](https://github.com/dekermendzhy/mixed-zsh-theme) - 针对深色背景进行了优化.
+* [moderno](https://github.com/obrassard/moderno-zsh) - 简约而现代的ZSH主题灵感源自 [robbyrussell](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)  来自Oh-My-ZSH的主题.  包括`git`状态装饰.
 * [molokai-powerline](https://github.com/prikhi/molokai-powerline-zsh) - 基于 [agnoster](https://gist.github.com/agnoster/3712874).
 * [moonline](https://github.com/kagamilove0707/moonline.zsh) - 最小但易于扩展的提示.
 * [moux](https://github.com/gagbo/moux) - 适用于深色背景，包括`RPROMPT`中的`git`装饰.

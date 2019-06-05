@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  969 |  2019年6月1日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  972 |  2019年6月4日
 
 
 
@@ -293,7 +293,7 @@
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - 轻松操控颜色的扩展.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - 平面UI调色板.
 * [Gradients](https://github.com/Gradients/Gradients) - 精选180+渐变的精选集合.
-* [HexColor](https://github.com/artman/HexColor) - Define UIColors as Hex integers.
+* [HexColor](https://github.com/artman/HexColor) - 将UIColors定义为十六进制整数.
 * [Hue](https://github.com/zenangst/Hue) -  Hue是您需要的一体化着色实用程序.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)   - 使用ANSI转义码在终端中显示样式和颜色文本.  符合ECMA标准48.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 为`UIColor`常量自动生成`enums`的工具.
@@ -354,7 +354,7 @@
 * [Ballcap](https://github.com/1amageek/Ballcap-iOS) -  Ballcap是Cloud Firestore的数据库架构设计框架.
 
 #### JSON
- *使用json数据苦苦挣扎？  以下是一些有趣的方法来处理它.* [back to top](#readme) 
+*Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
 
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -  Alamofire扩展，使用ObjectMapper将JSON响应数据转换为对象.
 * [Alembic](https://github.com/ra1028/Alembic) - 功能JSON解析，映射到对象，以及序列化为JSON.
@@ -431,6 +431,7 @@
 * [Realm](https://github.com/realm/realm-cocoa) -  Realm是一个移动数据库：Core Data和SQLite的替代品.
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - 与Realm和JSON一起使用的简洁的Mantle方式.
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -  RealmSwift的安全且简单的包装.
+* [Unrealm](https://github.com/arturdev/Unrealm) -  Unrealm使您可以轻松地将Swift本机类，结构和枚举存储到Realm中.
 
 #### SQL drivers
 [back to top](#readme) 
@@ -677,7 +678,7 @@
 * [Moa](https://github.com/evgenyneu/moa) -  iOS，tvOS和macOS图像视图的图像下载扩展.
 * [Nuke](https://github.com/kean/Nuke) - 用于加载，缓存，处理，显示和预热图像的高级框架.
 * [PassportScanner](https://github.com/evermeer/PassportScanner) - 扫描护照的MRZ代码并提取姓名，姓氏，护照号码，国籍，出生日期，有效期和个人号码.
-* [Pixel](https://github.com/muukii/Pixel) - An image editor and engine using CoreImage.
+* [Pixel](https://github.com/muukii/Pixel) - 使用CoreImage的图像编辑器和引擎.
 * [Rough](https://github.com/bakhtiyork/Rough) - 粗糙让你画出粗略，手绘般的风格.
 * [Sharaku](https://github.com/makomori/Sharaku) - 像Instagram这样的图像过滤UI库.
 * [Snowflake](https://github.com/onmyway133/Snowflake) - 使用SVG.
@@ -748,7 +749,7 @@
 * [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - 从代码和故事板/ XIB中逐步更新/翻译您的Strings文件.
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - 使用IBLocalizable直接在Interface Builder中本地化您的视图.
 * [L10n-swift](https://github.com/Decybel07/L10n-swift) - 具有“动态”更改语言能力的应用程序的本地化，并支持任何语言的复数形式.
-* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - 通过远程管理实现您的应用程序的实时动态本地化，以便您无需重新提交应用程序即可管理维护和部署翻译.
+* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
 * [Localize](https://github.com/andresilvagomez/Localize) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
@@ -1106,7 +1107,7 @@
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - 在UIView上轻松实现阴影管理.
 * [Shiny](https://github.com/efremidze/Shiny) - 彩虹效果视图（灵感来自Apple Pay Cash）.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - 受Facebook，Twitter照片浏览器启发的简单PhotoBrowser / Viewer.
-* [Spots](https://github.com/hyperoslo) - Spots is a view controller framework that makes your setup and future development blazingly fast.
+* [Spots](https://github.com/hyperoslo) -  Spots是一个视图控制器框架，可以让您的设置和未来的开发速度极快.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - 适用于iOS应用程序的完整可配置电子表格视图用户界面.
 * [StarryStars](https://github.com/peterprokop/StarryStars) - 显示和编辑评级，可从界面构建器完全自定义.
 * [StepProgressView](https://github.com/yonat/StepProgressView)   - 带有标签和形状的逐步进度视图.  UIActivityIndi​​catorView和UIProgressView的良好替代品.
@@ -1144,6 +1145,7 @@
 * [PopupDialog](https://github.com/orderella/PopupDialog)   - 一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - 动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) - 具有导航功能的操作表，例如Flipboard App.
+* [SPAlert](https://github.com/ivanvorobei/SPAlert)   -  Apple Music中的原生弹出窗口和AppStore中的反馈.  包含Done＆Heart预设.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - 在不中断用户流量的情况下显示类似Apple系统的自我隐藏状态警报.
 * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - 警报系统.
 * [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) - 设计自定义提示，提供多种选项供您选择.
@@ -1201,7 +1203,7 @@
 
 * [Carbon](https://github.com/ra1028/Carbon) - 用于在UITableView和UICollectionView中构建基于组件的用户界面的声明性库.
 * [Eureka](https://github.com/xmartlabs/Eureka) - 优雅的iOS表单生成器.
-* [Former](https://github.com/ra1028/Former) - 完全可自定义的库，可轻松创建基于UITableView的表单.
+* [Former](https://github.com/ra1028/Former) - A fully customizable library for easy creating UITableView based form.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - 表格现在很容易1-2-3.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - 可以验证的表格.
 
@@ -1209,7 +1211,7 @@
 [back to top](#readme) 
 
 * [EZLoadingActivity](https://github.com/goktugyil/EZLoadingActivity) - 轻量级装载活动HUD.
-* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - An animated gradient loading bar.
+* [GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) - 动画渐变加载栏.
 * [KRProgressHUD](https://github.com/krimpedance/KRProgressHUD) - 美丽且可定制的进度HUD.
 * [PKHUD](https://github.com/pkluz/PKHUD) - 重新实现Apple HUD.
 
@@ -1335,6 +1337,7 @@
 * [Jelly](https://github.com/SebastianBoldt/Jelly) -  Jelly提供自定义视图控制器转换，只需几行代码.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) -  Apple Music iOS App等自定义交互式转换.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) -  Pinterest风格转型.
+* [SPLarkController](https://github.com/IvanVorobei/SPLarkController)   - 两个控制器之间的自定义转换  转换为顶部.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - 将动画过渡到崩溃的视图控制器变成小块.
 * [Transition](https://github.com/Touchwonders/Transition) - 轻松交互式可中断自定义ViewController转换.
@@ -1466,7 +1469,7 @@
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于iOS的基于模式的用户输入格式化程序，解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单，可扩展，灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - 基于规则的验证库.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) -  iOS的字符串验证（受validator.js启发）.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
 * [Validator](https://github.com/adamwaite/Validator) - 为您的iOS应用程序删除用户输入验证.
 
 #### Phone Numbers

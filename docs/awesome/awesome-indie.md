@@ -2,7 +2,7 @@
 ## Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 帮助独立开发者赚钱的资源.
 
- 从您自己的代码赚钱从未如此简单，但它仍然很难.  在这里，我尝试策划一系列资源，以帮助每个有兴趣从他们的数字产品中赚钱的人获得灵感并尝试一下.  是它通过侧面项目，引导业务创意等来货币化.
+ 从您自己的代码赚钱从未如此简单，但它仍然很难.  在这里，我尝试策划一系列资源，以帮助每个有兴趣通过数字产品赚钱的人获得灵感并尝试一下.  是它通过侧面项目，引导业务创意等来货币化.
 
  项目不需要很大，实际上，如果不是，它们会更好，它们只需要有利可图.  在最初的大量工作之后，他们可能会提供被动收入，谁知道，甚至可能帮助您实现财务独立.
 
@@ -47,11 +47,11 @@
   
 - **[ProductPeople.club](https://productpeople.club/)** [$]
 
-  由独立制造商组成的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问的成本为249美元.  我不是会员，所以我不能亲自认可.  一般来说，我对针对独立制造商的产品持怀疑态度，但我仍然认为由于交叉引用而添加此特定产品是相关的.  有些人可能会觉得有趣.  随意参考评论！
+  由独立制造商组成的独家社区 [Justin Jackson](https://twitter.com/mijustin) .  目前有一个候补名单.  终身访问的成本为249美元.  我不是会员，所以我不能亲自支持.  一般来说，我对针对独立制造商的产品持怀疑态度，但我仍然认为由于交叉引用而添加此特定产品是相关的.  有些人可能会觉得有趣.  随意参考评论！
   
 - **[FounderCafe](https://www.foundercafe.com/)** [$]
 
-  FounderCafe是一个受邀请的在线社区企业家，帮助彼此成功运营 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) .  每3个月99美元.  我不是会员，所以我不能亲自认可.
+  FounderCafe是一个受邀请的在线社区企业家，帮助彼此成功运营 [Rob Walling](https://twitter.com/robwalling) 和 [Mike Taber](https://twitter.com/SingleFounder) .  每3个月99美元.  我不是会员，所以我不能亲自支持.
   
 - **[Nugget.one](https://nugget.one/)** [$]
 
@@ -64,7 +64,7 @@
 - **[Sideprojectxyz](https://sideprojectxyz.slack.com)** ([invite here](http://sideproject.xyz/)） - 为他们的旁边项目工作的人们的懒散社区.
 - **[r/IndieBiz](https://www.reddit.com/r/indiebiz/)**  - 小型独立企业的子评级.
 - **[/r/EntrepreneurRideAlong](https://www.reddit.com/r/EntrepreneurRideAlong/)**
-- **[Work In Progress](https://wip.chat)** [$]  - 问责制的公共待办事项列表，以及a [Telegram chat](https://t.me/wipchat)  800多名制造商  免费增值模式.
+- **[Work In Progress](https://wip.chat)** [$]  - 问责制的公共待办事项列表，以及a [Telegram chat](https://t.me/wipchat)  800多名制造商.  免费增值模式.
 - **[r/Startups](https://www.reddit.com/r/startups/)**  - 不是专属于indies / bootstrappers，但仍为我们提供相关内容.
 
 <!-- - lobsters -->
@@ -304,7 +304,7 @@
   
 - **[StartupSchool](https://www.startupschool.org/)**
 
-  由种子加速器组织的免费活动 [YCombinator](http://www.ycombinator.com/) .  你必须有点幸运才能进入.而且，这个建议有点反对“bootstrapped”的想法，但YCombinator为我们的独立黑客提供了很多好资源！
+  由种子加速器组织的免费活动 [YCombinator](http://www.ycombinator.com/) .  你必须有点幸运才能进入.此外，这个建议有点反对“引导”的想法，但YCombinator为我们的独立黑客提供了很多好的资源！
   
 ##### Not specific to indie founders:
 
@@ -322,7 +322,7 @@
 
 - **[PeersConf](http://peersconf.com/)** [$]
 
-   “为那些制作网络并将其作为业务的人们举办的会议”.  西雅图（每年都有变化）.  通过 [Jessica D'Amico](https://twitter.com/justjessdc).
+   “为那些制作网络并将其作为自己的业务的人们举办的会议”.  西雅图（每年都有变化）.  通过 [Jessica D'Amico](https://twitter.com/justjessdc).
 
 ### Books
 
@@ -335,6 +335,7 @@
 - **[Just Fucking Ship](https://unicornfree.com/just-fucking-ship/)** [$] by [Amy Hoy](https://twitter.com/amyhoy) 和 [Alex Hillman](https://twitter.com/alexhillman).
 - **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
+- **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 
 ##### Other
 

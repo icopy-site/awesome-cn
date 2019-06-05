@@ -51,11 +51,11 @@
 * [Software Testing Dictionary](http://www.tutorialspoint.com/software_testing_dictionary/index.htm)
 * [The Way of Testivus](http://www.agitar.com/downloads/TheWayOfTestivus.pdf)
 * [The Essential Guide to Mobile App Testing](http://core.ecu.edu/STRG/materials/uTest_eBook_Mobile_Testing.pdf) （PDF）
-* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) （PDF） - 阿贾伊Balamurugadas
-* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) （PDF） - 阿贾伊Balamurugadas
-* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) （PDF） - 阿贾伊Balamurugadas
-* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) （PDF） - 阿贾伊Balamurugadas
-* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) （PDF） - 阿贾伊Balamurugadas
+* [UI and UX Testing: Ready Reckoner](http://enjoytesting.files.wordpress.com/2013/10/ui_and_ux_testing_ready_reckoner.pdf) （PDF） -  Ajay Balamurugadas
+* [What If: A collection of tips from a software tester](http://enjoytesting.files.wordpress.com/2013/10/whatif.pdf) （PDF） -  Ajay Balamurugadas
+* [What If: 50+ tips to win testing contests](http://enjoytesting.files.wordpress.com/2013/10/50tipstowintestingcontests.pdf) （PDF） -  Ajay Balamurugadas
+* [What If: 50+ tips to boost your productivity](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-boost-your-productivity.pdf) （PDF） -  Ajay Balamurugadas
+* [What If: 50+ tips to improve tester-programmer relationship](http://enjoytesting.files.wordpress.com/2013/10/50-tips-to-improve-tester-programmer-relationship.pdf) （PDF） -  Ajay Balamurugadas
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) -  Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -  Jason Polites
@@ -180,7 +180,7 @@
 
 #### Software Testing
 
-* [Black Box Software Testing course](http://www.testingeducation.org/BBST/) -  Cem Kaner，JD Ph.D.
+* [Black Box Software Testing course](http://www.testingeducation.org/BBST/) -  Cem Kaner，JD博士
 * [Software Testing](http://nptel.ac.in/courses/106105150/)
 * [Embedded Software Testing](http://nptel.ac.in/courses/117106112/)
 * [Software Testing Fundamentals](https://www.edx.org/course/software-testing-fundamentals-usmx-university-maryland-university-stv1-1x)
@@ -359,6 +359,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 * [CPU Bugs](https://wiki.osdev.org/CPU_Bugs)
 * [Illustrative Risks to the Public in the Use of Computer Systems and Related Technology](http://www.csl.sri.com/users/neumann/illustrative.html)
 * [Wikipedia: List of software bugs](https://en.wikipedia.org/wiki/List_of_software_bugs)
+* [Postmortems](https://github.com/danluu/post-mortems)
 
 ## Awesome Lists
 

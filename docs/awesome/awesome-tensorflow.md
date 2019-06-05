@@ -22,8 +22,8 @@
 ## Tutorials
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - 从TensorFlow的基础知识到稍微有趣的应用程序
-* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials)   - 基于Google TensorFlow框架的深度学习简介.  这些教程是Newmu的Theano的直接端口
-* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - 这些教程适用于深度学习和TensorFlow的初学者，其中包含详细记录的代码和YouTube视频.
+* [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials)   - 基于Google的TensorFlow框架的深度学习简介.  这些教程是Newmu的Theano的直接端口
+* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - 适用于初学者的TensorFlow教程和代码示例
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - 使用Jupyter Notebook用Python编写的TensorFlow教程
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - 从其他TensorFlow示例重新创建代码
@@ -37,6 +37,7 @@
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)   -  TensorFlow howtos和最佳实践.  涵盖基础知识和高级主题.
 * [TensorLayer](http://tensorlayer.readthedocs.io/en/latest/user/tutorial.html)   -  TensorFlow官方教程的模块化实现.  （[CN](https://tensorlayercn.readthedocs.io/zh/latest/user/tutorial.html)).
 * [Understanding The Tensorflow Estimator API](https://www.lighttag.io/blog/tensorflow-estimator-api/) Estimator API的概念性概述，当您使用它时以及原因. 
+* [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow) -  Coursera提供的Tensorflow中的卷积神经网络
 
 <a name="github-projects" />
 
@@ -84,7 +85,7 @@
 * [Sentence Classification with CNN](https://github.com/dennybritz/cnn-text-classification-tf) -  TensorFlow实现 ["Convolutional Neural Networks for Sentence Classification"](http://arxiv.org/abs/1408.5882) 用一个 [blog post](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [End-To-End Memory Networks](https://github.com/domluna/memn2n) - 实施 [End-To-End Memory Networks](http://arxiv.org/abs/1503.08895)
 * [Character-Aware Neural Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow) -  TensorFlow实现 [Character-Aware Neural Language Models](http://arxiv.org/abs/1508.06615)
-* [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) -  TensorFlow实施&#39;YOLO：实时对象检测&#39;，通过培训和实际支持在移动设备上实时运行.
+* [YOLO TensorFlow ++](https://github.com/thtrieu/yolotf) -  TensorFlow实施&#39;YOLO：实时对象检测&#39;，通过培训和对移动设备上实时运行的实际支持.
 * [Wavenet](https://github.com/ibab/tensorflow-wavenet) - 这是TensorFlow的实现 [WaveNet generative neural network architecture](https://deepmind.com/blog/wavenet-generative-model-raw-audio/) 用于音频生成.
 * [Mnemonic Descent Method](https://github.com/trigeorgis/mdm) -  Tensorflow实现 ["Mnemonic Descent Method: A recurrent process applied for end-to-end face alignment"](http://ibug.doc.ic.ac.uk/media/uploads/documents/trigeorgis2016mnemonic.pdf)
 * [CNN visualization using Tensorflow](https://github.com/InFoCusp/tf_cnnvis) -  Tensorflow实现 ["Visualizing and Understanding Convolutional Networks"](https://www.cs.nyu.edu/~fergus/papers/zeilerECCV2014.pdf)
@@ -100,7 +101,7 @@
 * [MusicGenreClassification](https://github.com/mlachmish/MusicGenreClassification) - 使用神经网络从10秒声音流中分类音乐流派.
 * [Kubeflow](https://github.com/kubeflow/kubeflow) - 使用Tensorflow和Kubernetes轻松使用的框架.
 * [TensorNets](https://github.com/taehoonlee/tensornets) -  40多种具有预训练权重的流行计算机视觉模型.
-
+* [Ladder Network](https://github.com/divamgupta/ladder_network_keras) - 在Keras和Tensorflow中实现半监督学习的梯形网络
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
@@ -117,7 +118,7 @@
 * [TensorFlow Estimators](https://www.tensorflow.org/guide/estimators) - 高级TensorFlow API，极大地简化了机器学习编程（最初 [tensorflow/skflow](https://github.com/tensorflow/skflow))
 * [R Interface to TensorFlow](https://tensorflow.rstudio.com/) -  TensorFlow API的R接口，包括Estimators，Keras，Datasets等.
 * [Lattice](https://github.com/tensorflow/lattice) - 在TensorFlow中实现单调校准插值查找表
-* [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - 使用SWIG的ruby的TensorFlow原生接口
+* [tensorflow.rb](https://github.com/somaticio/tensorflow.rb) - 使用SWIG的ruby的TensorFlow本机接口
 * [tflearn](https://github.com/tflearn/tflearn) - 深度学习库，具有更高级别的API
 * [TensorLayer](https://github.com/tensorlayer/tensorlayer) - 为研究人员和工程师提供深度学习和强化学习库
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - 用于定义模型的高级库
@@ -135,6 +136,7 @@
 * [pytorch2keras](https://github.com/nerox8664/pytorch2keras) - 将PyTorch模型转换为Keras（使用TensorFlow后端）格式
 * [gluon2keras](https://github.com/nerox8664/gluon2keras) - 将Gluon模型转换为Keras（使用TensorFlow后端）格式
 * [TensorIO](https://doc-ai.github.io/tensorio/) - 用于将TensorFlow Lite模型部署到移动设备的轻量级跨平台库. 
+* [StellarGraph](https://github.com/stellargraph/stellargraph) -  Graph Learning on Graphs，一个用于机器学习图形结构（网络结构）数据的Python库.
 
 <a name="tools-utils" />
 
@@ -170,7 +172,7 @@
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - 本文描述了TensorFlow界面以及我们在Google上构建的该界面的实现
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
-* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - 该研究是在几种类型的深度学习架构上进行的，我们评估上述框架在单机器上用于（多线程）CPU和GPU（Nvidia Titan X）设置时的性能
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - 在本文中，我们最近提出了使用消息传递接口（MPI）在大规模集群上执行的Google TensorFlow
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - 本文介绍了背后的模型 [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - 本文描述了与现有系统形成对比的TensorFlow数据流模型，并展示了引人注目的性能
@@ -219,7 +221,7 @@
 * [Machine Learning with TensorFlow](http://tensorflowbook.com)  作者：Nishant Shukla，加州大学洛杉矶分校的计算机视觉研究员和Haskell数据分析手册的作者.  这本书使ML的数学重点话题变得平易近人，并为新人提供了实用性. 
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) 作者：Jordi Torres，UPC Barcelona Tech教授，巴塞罗那超级计算中心研究经理和高级顾问
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - 利用杰森布朗利的Keras开发Theano和TensorFlow的深度学习模型
-* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - 从图形计算基础到TensorFlow的完整指南，以及在生产环境中使用它的深度学习模型 -  Bleeding Edge Press
+* [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - 从图形计算基础到TensorFlow的完整指南，到在生产环境中使用它的深度学习模型 -  Bleeding Edge Press
 * [Getting Started with TensorFlow](https://www.packtpub.com/big-data-and-business-intelligence/getting-started-tensorflow) - 使用Google推出的最新数值计算库，并深入了解您的数据，Giancarlo Zaccone
 * [Hands-On Machine Learning with Scikit-Learn and TensorFlow](http://shop.oreilly.com/product/0636920052289.do)   - 由视频分类团队前负责人AurélienGeron担任.  涵盖ML基础知识，使用TensorFlow，最新的CNN，RNN和自动编码器架构以及强化学习（Deep Q）在多个服务器和GPU上部署深度网络.
 * [Building Machine Learning Projects with Tensorflow](https://www.packtpub.com/big-data-and-business-intelligence/building-machine-learning-projects-tensorflow)   - 作者：Rodolfo Bonnin.  本书涵盖了TensorFlow中的各种项目，揭示了TensorFlow在不同场景下可以做些什么.  该书提供了有关培训模型，机器学习，深度学习以及使用各种神经网络的项目.  每个项目都是一个引人入胜且富有洞察力的练习，它将教您如何使用TensorFlow，并向您展示如何通过与Tensors合作探索数据层.
@@ -234,9 +236,9 @@
 欢迎您的贡献！
 
 如果您想参与此列表（请执行），请发送拉取请求或与我联系 [@jtoy](https://twitter.com/jtoy)
-此外，如果您发现任何上面列出的存储库应该被弃用，原因如下：
+此外，如果您发现任何上面列出的存储库都应该被弃用，原因如下：
 
-* Repository's owner explicitly say that "this library is not maintained".
+*存储库的所有者明确说“不保留此库”.
 *不长期（2〜3年）.
 
 有关的更多信息 [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/master/contributing.md)
@@ -247,4 +249,4 @@
 ## Credits
 
 *一些python库是剪切和粘贴 [vinta](https://github.com/vinta/awesome-python)
-*少数参考我发现从哪里拉 [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+*我发现的少数参考资料来自哪里 [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
