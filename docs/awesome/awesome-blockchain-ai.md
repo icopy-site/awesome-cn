@@ -34,7 +34,6 @@
 - [Cerebrum](https://cerebrum.world/)   -  Cerebrum是众包机器学习的分散平台.  Cerebrum使任何人都可以加密他们的数据并主持机器学习竞赛，以利用众包机器学习模型. 
 - [OpenMined](https://openmined.org/)   -  OpenMined是一个专注于为分散的数据和情报所有权构建开源技术的社区.  通过OpenMined，AI可以接受从未访问过的数据的培训.
 - [Effect.ai](https://effect.ai) -  Effect.ai是一个区块链驱动的分散式平台，用于人工智能开发和AI相关服务.
-- [Dopamine](https://dopamine.ai/) - 权力下放的AI劳动力和服务市场。
 - [Decentralized Machine Learning](https://decentralizedml.com/) -  DML旨在创建基于区块链的分散式机器学习协议和生态系统.
 - [Raven Protocol](https://www.ravenprotocol.com/) -  Raven Protocol是一种分散的分布式深度学习培训协议.
 - [Thought Network](https://thought.live/) - 思想的支持区块链的Fabric通过将人工智能嵌入到每一位数据中，从根本上改变了应用程序，使其变得灵活，可操作且具有内在的安全性.
@@ -58,6 +57,7 @@
 - [Neureal](https://neureal.net/) - 由区块链提供支持的开源，点对点AI超级计算.
 - [TrueBit](https://truebit.io/) -  TrueBit为以太坊智能合约提供了计算能力.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - 分散式人工智能计算平台，为希望开发人工智能技术的公司提供处理能力.
+- [AI Crypto](https://aicrypto.ai/) -  AI Crypto是一个基于区块链的生态系统，其中分配了GPU，模型和数据等AI资源，以降低AI开发的成本.
 
 ## Blockchains for AI in finance
 
@@ -74,6 +74,12 @@
 ## Blockchains for AI in supply chains
 
 - [Namahe](https://namahe.io/) -  Namahe是一个旨在通过整合AI层为供应链行业带来效率的平台.
+
+## Deadpool
+
+这些项目不再有效.
+
+- [Dopamine](https://dopamine.ai/) - 权力下放的AI劳动力和服务市场。
 
 ## License
 

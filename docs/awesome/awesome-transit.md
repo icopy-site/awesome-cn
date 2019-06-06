@@ -3,7 +3,7 @@
 
 ##### Community list of transit APIs, apps, datasets, research, and software :bus::star2::train::star2::steam_locomotive:
 
-Have something to add 要么 change? Open a [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
+ 有什么要添加或改变？  打开一个 [pull request](https://github.com/CUTR-at-USF/awesome-transit/pulls) 要么 [issue](https://github.com/CUTR-at-USF/awesome-transit/issues).
 
 ------------------------------
 
@@ -64,7 +64,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 - [OpenTripPlanner](http://www.opentripplanner.org/) - 用于多模式和多机构旅程规划的开源平台，以及返回有关多模态图的信息（使用GTFS等数据源） [OpenStreetMap](http://www.openstreetmap.org/)).
 - [TransitClock](http://thetransitclock.org)   -  Java应用程序，可以使用原始车辆位置并以GTFS实时等格式生成预测时间.  以前称为“过境时期”.
 - [Linked Connections](http://linkedconnections.org/)   - 开源，可扩展的联运路线规划引擎，允许客户执行路线规划算法（与服务器相对）.  使用GTFS数据.
-- [TransiCast](http://www.transicast.com/) - Provides public transportation data for North America in a single, integrated call and response format. The data is provided in stream-parsable XML and JSON formats.  Open-source on [Google Code](https://code.google.com/archive/p/rasa/) .  托管版本在www.transitcast.com [requires payment](http://www.transicast.com/coststructure.html).
+- [TransiCast](http://www.transicast.com/)   - 以单一，集成的呼叫和响应格式提供北美的公共交通数据.  数据以流可解析的XML和JSON格式提供.  开源 [Google Code](https://code.google.com/archive/p/rasa/) .  托管版本在www.transitcast.com [requires payment](http://www.transicast.com/coststructure.html).
 - [gtfs-server](https://github.com/denysvitali/gtfs-server) - 一个用Rust编写的Web服务器，它使用PostGIS作为后端，通过HTTP端点提供GTFS数据
 - [Navitia](https://github.com/CanalTP/navitia) 是开源背后的开源引擎 [Navitia.io](http://www.navitia.io/) 实时API.
 - [pyBikes](https://github.com/eskerda/pybikes) - 软件供电 [CityBikes](http://api.citybik.es) 全球自行车共享系统信息
@@ -80,6 +80,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 - [TransAM](http://camsys.software/products/transam)   - 公共交通机构的开源资产管理平台.  开源 [on Github](https://github.com/camsys/transam_core).
 - [RidePilot](https://github.com/camsys/ridepilot) - 开源计算机辅助调度和调度（CASD）软件系统，以满足小规模人类服务运输机构的需求（更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
 - [TNExT](https://github.com/ODOT-PTS/TNExT) -  Transit Network Explorer Tool（TNExT）是一个基于网络的软件工具，用于俄勒冈州区域和全州交通网络的可视化，分析和报告.
+- 路线趋势（[webapp](https://metrotransitmn.shinyapps.io/route-trends/), [GitHub](https://github.com/metrotransit/route-trends)） - 一个R Shiny应用程序，用于摄取乘客时间序列，并返回季节性，趋势和残余成分 [STL methodology](https://otexts.com/fpp2/stl.html)  和基于这些组成部分的不确定性预测.  由...赞助 [Metro Transit](https://www.metrotransit.org/) （明尼阿波利斯 - 圣保罗）.
 
 ### Hardware
 
@@ -281,7 +282,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 - [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - 从（令人难以置信的）带注释的SIRI 2.0模式定义中自动生成的文档.
 - [King County Metro Legacy AVL to SIRI](https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri) - 基于Java的转换工具 [King County Metro's](http://metro.kingcounty.gov/) 传统的AVL格式到SIRI.
 - [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源的Android库，用于与RESTful SIRI接口进行交互，以获取实时传输数据，例如当前正在使用的数据. [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
-- [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki)   - 与Android兼容的Plain Old Java Objects（POJOS），用于SIRI v1.3 API的数据绑定（deserliazing XML / JSON）响应.  由...使用 [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
+- [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki) - Android-compatible Plain Old Java Objects (POJOSs) used for data binding (deserliazing XML/JSON) responses for SIRI v1.3 APIs.  Used by the [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - 用Python 3编写的SIRI 2.0的简单验证器.
 
 ### Other multimodal data formats
@@ -298,10 +299,10 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) -  GTFS公交网络的扩展，其中包含由UrbanLabs LLC和旧金山县交通管理局开发的性能数据的附加文件.
 - [TIDES project](https://groups.google.com/forum/#!forum/tidesproject) -  Transit ITS数据交换规范（TIDES）旨在为历史传输ITS数据（包括AVL，APC和AFC数据）创建标准数据结构，API和数据管理工具.
 - [SAE Shared and Digital Mobility Committee](http://articles.sae.org/15799/) - 似乎正在制定汽车共享和运输网络公司（TNC）/ rideshare的数据标准.
-- [City of Los Angeles Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification)   - 实现市政当局的实时数据共享，测量和监管以及作为服务提供商的移动性的格式.  它旨在确保政府有能力执行，评估和管理提供者.
+- [City of Los Angeles Mobility Data Specification (MDS)](https://github.com/CityOfLosAngeles/mobility-data-specification) - A format to implement realtime data sharing, measurement and regulation for municipalities and mobility as a service providers. It is meant to ensure that governments have the ability to enforce, evaluate and manage providers.
 - [Alliance for Parking Data Standards (APDS)](https://www.allianceforparkingdatastandards.org/) - 由...形成 [International Parking Institute (IPI)](https://www.parking.org/)， [British Parking Association (BPA)](http://www.britishparking.co.uk/)，和 [European Parking Association (EPA)](http://www.europeanparking.eu/) ，APDS是一个非营利组织，其使命是开发，推广，管理和维护统一的全球标准，使组织能够跨全球平台共享停车数据.  APDS版本1.0文档是 [here](https://www.allianceforparkingdatastandards.org/resources).
 - [Mobility as a Service API](http://maas-api.org/) - 一组开放文档和测试套件，用于定义与MaaS兼容的API（例如，a [MaaS Transport Service Provider Booking API](https://github.com/maasglobal/maas-tsp-api/blob/master/specs/Booking.md)).
-- [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
+- [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)   - 本研究的目的是为参与提供需求响应运输的实体制定交易数据的技术规范.  预计完成日期为2018年底.
 - [NCHRP 08-119 Developing Data Standards and Guidance for Transportation Planning and Traffic Operations - Phase 1 (Anticipated)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4543) - 该研究的目的是制定运输社区在收集，管理和共享运输规划和运营的静态和实时数据时使用和采用的标准和/或指南.
 - [General Travel Network Specification](https://zephyrtransport.org/trb17projects/7-general-travel-network-specification/) - 用于共享旅行需求模型网络的计划数据规范.
 
@@ -333,7 +334,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 #### Government reports
 - [APTA Policy Development and Research - Public Transportation Embracing Open Data](http://www.apta.com/resources/reportsandpublications/Documents/APTA-Embracing-Open-Data.pdf) - 亚太贸易协定关于公开数据的益处和挑战的讨论（以下TCRP报告的简短摘要）.
 - [TCRP Synthesis 115 - Open Data: Challenges and Opportunities for Transit Agencies](http://onlinepubs.trb.org/Onlinepubs/tcrp/tcrp_syn_115.pdf) - 全面的报告，研究公开数据的好处和挑战.
-- [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120) - The objective of this research is to develop technical specifications for transactional data for entities involved in the provision of demand-responsive transportation.  Expected completion date is late 2018.
+- [TCRP G-16 Development of Transactional Data Specifications for Demand-Responsive Transportation (In progress)](http://apps.trb.org/cmsfeed/TRBNetProjectDisplay.asp?ProjectID=4120)   - 本研究的目的是为参与提供需求响应运输的实体制定交易数据的技术规范.  预计完成日期为2018年底.
 
 #### Community-maintained lists
 - [Vendors Providing GTFS Creation/Maintenance services](https://docs.google.com/spreadsheets/u/1/d/1Gc9mu4BIYC8ORpv2IbbVnT3q8VQ3xkeY7Hz068vT_GQ/pubhtml) - 添加新供应商 [here](http://goo.gl/forms/YDbPSPmufS).
@@ -343,7 +344,7 @@ Have something to add 要么 change? Open a [pull request](https://github.com/CU
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/) 已放弃对此作品的所有版权及相关或邻接权利.
+在法律允许的范围内， [Luqmaan Dawoodjee](https://github.com/luqmaan) 和 [Center for Urban Transportation Research](https://www.cutr.usf.edu/) 在 [University of South Florida](http://www.usf.edu/) have waived all copyright and related or neighboring rights to this work.
 
 ## About
 

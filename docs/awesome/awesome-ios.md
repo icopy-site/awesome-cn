@@ -422,6 +422,7 @@
 * [Defaults](https://github.com/sindresorhus/Defaults) -  Swifty和现代UserDefaults
 * [MongoKitten](https://github.com/OpenKitten/MongoKitten) - 纯Swift MongoDB客户端实现，支持嵌入式数据库.
 * [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) -  UserDefaults / NSUserDefaults上的轻量级包装器，带有额外的AES-256加密层.
+* [Unrealm](https://github.com/arturdev/Unrealm) -  Unrealm使您可以轻松地将Swift本机类，结构和枚举存储到Realm中
 
 ## Data Structures / Algorithms
 
@@ -928,7 +929,7 @@
 * [gifu](https://github.com/kaishin/gifu) -  Swift中针对iOS的高性能动画GIF支持
 * [AnimatedGIFImageSerialization](https://github.com/mattt/AnimatedGIFImageSerialization) - 完整的动画GIF支持iOS，功能，NSJSONSerialization风格的类和（可选）UIImage Swizzling
 * [XAnimatedImage](https://github.com/khaledmtaha/XAnimatedImage) -  XAnimatedImage是基于FLAnimatedImage在Swift中编写的iOS高性能动画GIF引擎
-* [SwiftGif](https://github.com/swiftgif/SwiftGif) - ：sparkles：带有gif支持的小型UIImage扩展
+* [SwiftGif](https://github.com/swiftgif/SwiftGif) - :sparkles: A small UIImage extension with gif support
 * [APNGKit](https://github.com/onevcat/APNGKit) - 在iOS中使用APNG格式的高性能和令人愉快的方式.
 * [YYImage](https://github.com/ibireme/YYImage) - 用于iOS的图像框架，用于显示/编码/解码动画WebP，APNG，GIF等.
 * [AImage](https://github.com/wangjwchn/AImage) - 适用于iOS的动画GIF和APNG引擎，具有低内存和CPU使用率.针对多图像案例进行了优化.
@@ -1486,7 +1487,7 @@
 * [PokemonKit](https://github.com/ContinuousLearning/PokemonKit) - Pokeapi wrapper, written in Swift
 * [TJDropbox](https://github.com/timonus/TJDropbox) - 用Objective-C编写的Dropbox v2客户端库
 * [GitHub.swift](https://github.com/onmyway133/github.swift) - ：octocat：Swift中的非官方GitHub API客户端
-* [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk) - Abstraction layer / unified API for multiple API providers. Interfaces eg for Cloud Storage (Dropbox, Google, ...), Social Networks (Facebook, Twitter, ...) and more.
+* [CloudRail SI](https://github.com/CloudRail/cloudrail-si-ios-sdk)   - 多个API提供商的抽象层/统一API.  接口，例如云存储（Dropbox，Google，...），社交网络（Facebook，Twitter，...）等.
 * [Medium SDK - Swift](https://github.com/96-problems/medium-sdk-swift) -  Swift中的非官方中型API SDK和示例项目.
 * [Swifter](https://github.com/mattdonnelly/Swifter) - ：bird：用Swift编写的iOS和macOS的Twitter框架.
 * [SlackKit](https://github.com/pvzig/SlackKit) - 用Swift编写的用于iOS和macOS的Slack客户端库.

@@ -3,6 +3,7 @@
 
 关于React生态系统的一系列令人敬畏的事情.
 
+    -  [反应面试问题]（）
 
 ---
 
@@ -34,11 +35,19 @@
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 - [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
-- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
+- [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+
+##### React Hooks
+
+- [React Hooks](https://reactjs.org/docs/hooks-intro.html)
+- [Replacing Redux with React Hooks and Context](https://medium.com/octopus-labs-london/replacing-redux-with-react-hooks-and-context-part-1-11b72ffdb533)
+- [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
+- [Easy to understand React Hook recipes](https://usehooks.com/)
 
 ##### React and TypeScript
 
@@ -61,24 +70,32 @@
 - [Reconciliation](https://reactjs.org/docs/reconciliation.html)
 - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
 - [Build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
-- [Inside Fiber: in-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+- [Inside Fiber: In-depth overview of the new reconciliation algorithm in React](https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e)
+
+##### React Interview Questions
+
+- [13 Essential React Interview Questions](https://www.toptal.com/react/interview-questions)
+- [List of React interview Questions and Answers](https://github.com/sudheerj/reactjs-interview-questions)
 
 #### React Tools
 
 ##### React Development Tools
 
 - [Create React App](https://facebook.github.io/create-react-app/) - 通过运行一个命令设置现代Web应用程序
-- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - 同构网络应用程序样板
+- [React Starter Kit](https://github.com/kriasoft/react-starter-kit) - 同构Web应用程序样板
 - [React Developer Tools](https://github.com/facebook/react-devtools) - 检查Chrome和Firefox开发人员工具中的React组件层次结构
 - [React Hot Loader](https://gaearon.github.io/react-hot-loader/) - 实时调整React组件
 - [Babel](https://babeljs.io/) -  Babel是一个JavaScript编译器
 - [Webpack](https://webpack.js.org/) - 适用于JavaScript和朋友的捆绑器
 - [Parcel](https://parceljs.org/) - 快速，零配置的Web应用程序捆绑器
-- [Reactotron](https://github.com/skellock/reactotron) - 用于检查React JS和React Native项目的桌面应用程序
+- [Loadable Components](https://github.com/smooth-code/loadable-components) - 简化了反应代码拆分
+- [Reactotron](https://github.com/skellock/reactotron) - 用于检查React和React Native项目的桌面应用程序
 - [Storybook](https://github.com/storybookjs/storybook) -  UI组件开发和测试
 - [React Styleguidist](https://react-styleguidist.js.org/) - 隔离的React组件开发环境，带有生活方式指南
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用React组件的开发工具
 - [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - 为ESLint制定特定的linting规则
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - 针对JSX元素的a11y规则的静态AST检查器
+- [react-axe](https://github.com/dequelabs/react-axe) -  React应用程序的可访问性审核
 
 ##### React Frameworks
 
@@ -101,91 +118,34 @@
 
 ##### React Component Libraries
 
-- [Material UI](https://material-ui.com/)
-- [Ant Design](https://ant.design/)
-- [Blueprint](https://github.com/palantir/blueprint)
-- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [Semantic UI React](https://react.semantic-ui.com/)
+- [Material UI](https://material-ui.com/) - 反应组件，以便更快，更轻松地进行Web开发
+- [Ant Design](https://ant.design/) - 具有自然和确定性值的设计系统
+- [Blueprint](https://github.com/palantir/blueprint) - 基于React的Web工具包
+- [Fabric React](https://github.com/OfficeDev/office-ui-fabric-react) - 用于构建Microsoft Web体验的React组件
+- [React Bootstrap](https://react-bootstrap.github.io/) - 最流行的前端框架
+  为React重建
+- [Semantic UI React](https://react.semantic-ui.com/) - 官方Semantic-UI-React集成
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
-- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - 日历组件
-- [qrcode.react](https://github.com/zpao/qrcode.react)  - 一个 <QRCode/>  用于React的组件
-- [react-sortable - A sortable list component built \w React](https://github.com/danielstocks/react-sortable)
-- [react-anything-sortable - A sortable component with IE8 compatibility](https://github.com/jasonslyvia/react-anything-sortable)
-- [react-controllables - Easily create controllable components](https://github.com/matthewwithanm/react-controllables)
-- [react-datalist - A <datalist> polyfill for Reactjs](https://github.com/asbjornenge/react-datalist)
-- [react-pad - Authoring tool for React components](https://github.com/andreypopp/react-pad)
-- [ogre.js - Object graph manager, built with ReactJS in mind](https://github.com/elucidata/ogre.js)
-- [react-scroll-components - A set of components that react to page scrolling](https://github.com/jeroencoumans/react-scroll-components)
-- [react-fullscreen-component - Create fullscreen toggles](https://github.com/jeroencoumans/react-fullscreen-component)
-- [react-frozenhead - Make your whole page a React component and render it on the server](https://github.com/matthewwithanm/react-frozenhead)
-- [react-tags - A simple wrapper around React.DOM](https://github.com/adelevie/react-tags)
-- [react-datepicker by @y0c - React DatePicker Library (Flexible, Reusable)](https://github.com/y0c/react-datepicker)
-- [react-datepicker by @misino - Datepicker component for application using Facebook React](https://github.com/misino/react-datepicker)
-- [react-datepicker by @Hacker0x01 - A simple and reusable datepicker component for React](https://github.com/Hacker0x01/react-datepicker)
-- [react-table-sorter-demo - A React.js Table Sorter Component](https://github.com/bgerm/react-table-sorter-demo)
-- [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
-- [react-input-placeholder - Input is a small wrapper around React.DOM.input](https://github.com/enigma-io/react-input-placeholder)
-- [react-infinite-scroll - An infinite scroll component for React](https://github.com/guillaumervls/react-infinite-scroll)
-- [react-ellipsis - Ellipsis component for React](https://github.com/guillaumervls/react-ellipsis)
-- [react-pillbox - Pillbox component for React](https://github.com/redbadger/react-pillbox)
-- [react-intl - React Internationalization Component](https://github.com/yahoo/react-intl)
+- [react-select](https://github.com/JedWatson/react-select) - 选择反应组件
+- [react-dnd](https://github.com/react-dnd/react-dnd) - 拖放React
+- [react-filepond](https://github.com/pqina/react-filepond) -  React的一个方便的FilePond适配器组件
+- [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
+- [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
+- [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
+- [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
+- [react-big-calendar](https://intljusticemission.github.io/react-big-calendar/examples/index.html) - 日历组件
+- [react-datepicker](https://reactdatepicker.com/) -  ReactJS Datepicker
+- [react-list](https://github.com/orgsync/react-list) - 多功能无限涡旋React组件
+- [react-intl](https://github.com/yahoo/react-intl) - 国际化React应用程序
 - [react-i18next](https://github.com/i18next/react-i18next) -  React国际化做得对
-- [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)
-- [react-select-box - An accessible select box component for React](https://github.com/instructure/react-select-box)
-- [react-ladda - React wrapper for Ladda buttons](https://github.com/jsdir/react-ladda)
-- [react-list - A versatile infinite scroll React component](https://github.com/orgsync/react-list)
-- [olay-react - Olay implemented as a React component](https://github.com/orgsync/olay-react)
-- [reactable - Fast, flexible, and simple data tables in React](https://github.com/glittershark/reactable)
-- [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
-- [react-draggable-tabs - Atom-fashioned draggable tabs](https://github.com/ZaninAndrea/react-draggable-tabs)
-- [react-simpletabs - Just a simple tabs component](https://github.com/pedronauck/react-simpletabs)
-- [react-draggable - React draggable component](https://github.com/mzabriskie/react-draggable)
-- [react-resizable - A tiny Resizable component based on react-draggable](https://github.com/strml/react-resizable)
-- [react-grid-layout - A Masonry-style responsive grid layout](https://github.com/strml/react-grid-layout)
-- [react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control](https://github.com/gaearon/react-dnd)
-- [react-movable - Accessible and tiny drag and drop for your React lists and tables](https://github.com/tajo/react-movable)
-- [react-sticky - <Sticky /> component for React-based apps](https://github.com/captivationsoftware/react-sticky)
-- [js-object-to-table - JavaScript objects drawing themselves into a table using React](https://github.com/enaqx/js-object-to-table)
-- [react-kaomoji - A React component for displaying Japanese emoticons](https://github.com/enaqx/react-kaomoji)
-- [react-calendar - Calendar that inspired by React philosophy](https://github.com/Aetet/react-calendar)
-- [react-element-pan - React component for allowing panning of DOM-elements](https://github.com/rexxars/react-element-pan)
-- [react-bootstrap-daterangepicker - A date/time picker for react (using Bootstrap)](https://github.com/skratchdot/react-bootstrap-daterangepicker)
-- [react-bootstrap-datetimepicker - A react.js datetime picker for Bootstrap](https://github.com/quri/react-bootstrap-datetimepicker)
-- [react-bootstrap-multiselect - A multiselect component for react (with bootstrap)](https://github.com/skratchdot/react-bootstrap-multiselect)
-- [react-colorpicker - Colorpicker for React](https://github.com/stayradiated/react-colorpicker)
-- [react-commits-graph - A React component to render an svg graph of git commits](https://www.npmjs.org/package/react-commits-graph)
-- [react-layout - Dynamic subview layout for React](https://github.com/jsdf/react-layout)
-- [react-weather - Example React weather app using forecast.io's API](https://github.com/andrewgleave/react-weather)
-- [react-sparkline - React component for rendering simple sparklines](https://github.com/KyleAMathews/react-sparkline)
-- [react-component-width-mixin - React mixin which sets width](https://github.com/KyleAMathews/react-component-width-mixin)
-- [react-micro-bar-chart - React component for micro bar-charts rendered with D3](https://github.com/KyleAMathews/react-micro-bar-chart)
-- [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only](https://github.com/laem/react-horizontal-bar-chart)
-- [react-boxplot - Simple SVG box plots in React](https://github.com/bodylabs/react-boxplot)
-- [react-infinity - A UITableView Inspired list and grid display](https://github.com/nmn/react-infinity)
-- [react-timeago - A simple time-ago component for React](https://github.com/nmn/react-timeago)
-- [react-star-rating-input - React.js component for entering 0-5 stars](https://github.com/ikr/react-star-rating-input)
-- [react-star-rating - A simple star rating component built with React.](https://github.com/cameronjroe/react-star-rating)
-- [react-data-components - React components and mixins for manipulating data](https://github.com/carlosrocha/react-data-components)
-- [react-number-editor - Number editor (textfield) component for react](https://github.com/tleunen/react-number-editor)
-- [react-localstorage - Simple localstorage mixin for react](https://github.com/STRML/react-localstorage)
-- [react-sortable-data React Mixin to sort data easily](https://github.com/AndrewHathaway/ReactSortableDataMixin)
-- [react-widgets - Suite of ui input widgets including combobox, multiselect, datepicker and more](https://github.com/theporchrat/react-widgets)
-- [react-select - Rich Select Component](https://github.com/JedWatson/react-select)
-- [react-video - React component to load video from Vimeo or Youtube](https://github.com/pedronauck/react-video)
-- [react-cassette-player - Vector-based HTML5 Audio Player](https://github.com/chadpaulson/react-cassette-player)
-- [react-tagsinput - A simple react component for inputing tags.](https://github.com/olahol/react-tagsinput)
-- [react-autolink - An autolink mixin for React](https://github.com/banyan/react-autolink)
-- [react-emoji - An emoji mixin for React](https://github.com/banyan/react-emoji)
-- [react-portal - A transportation of (not just) modals and lightboxes to document.body](https://github.com/tajo/react-portal)
-- [react-hotkeys - Declarative hotkey and focus area management for React](https://github.com/Chrisui/react-hotkeys)
-- [react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste ](https://github.com/adazzle/react-data-grid)
-- [react-datagrid - A carefully crafted DataGrid for React](https://github.com/nishp1/react-datagrid)
-- [react-table - A lightweight, fast and extendable datagrid for React](https://github.com/react-tools/react-table)
-- [react-base-table - A react table component to display large datasets with high performance and flexibility](https://github.com/Autodesk/react-base-table)
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 完全可访问的React模式
+- [react-hotkeys](https://reacttraining.com/react-router/) -  React的声明性热键和焦点区域管理
+- [qrcode.react](https://github.com/zpao/qrcode.react) - 用于React的QR组件
+- [rheostat](https://github.com/airbnb/rheostat) - 使用React构建的可访问滑块组件
 - [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
 - [autoresponsive-react - A Magical Layout Library For React](http://xudafeng.github.io/autoresponsive-react)
 - [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
@@ -194,7 +154,6 @@
 - [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
 - [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
 - [react-range-slider - Collection of react slider components](https://github.com/jpuri/react-range-slider)
-- [rheostat - a www, mobile, and accessible slider component](https://github.com/airbnb/rheostat)
 - [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 - [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 - [rodal - A React modal with animations](https://github.com/chenjiahan/rodal)
@@ -236,7 +195,6 @@
 - [react-flexbox-svg - Flexbox for SVG in React, using css-layout](https://github.com/paulmelnikow/react-flexbox-svg)
 - [react-instantsearch - Search Interface building blocks for Algolia](https://github.com/algolia/react-instantsearch)
 - [react-d3-tree - Create interactive D3 tree graphs](https://github.com/bkrem/react-d3-tree)
-- [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux.](https://github.com/tronghiep92/react-redux-modal-flex)
 - [react-switch](https://github.com/markusenglund/react-switch) -  React的可拖动切换开关组件
 - [react-credit-card-input - A simple credit/debit card input field for React.](https://github.com/medipass/react-credit-card-input)
 - [react-creditcard - An awesome react credit card component.](https://github.com/medipass/react-creditcard)
@@ -253,8 +211,6 @@
 - [react-dates - An easily internationalizable, mobile-friendly datepicker library for the web](https://github.com/airbnb/react-dates)
 - [react-ui-cards - Various card components for React](https://github.com/nukeop/react-ui-cards)
 - [React components IO - A curated list of useful React component libraries and component related tools](https://www.reactcomponent.io/)
-- [react-filepond - Drag 'n Drop accessible file upload component](https://github.com/pqina/react-filepond)
-- [pimg - A Progressive Image Component used for lazy loading images](https://github.com/ooade/pimg)
 - [object-editor-react - Schema-aware editor for structured JSON objects (drop-in component)](https://github.com/b-gran/object-editor-react)
 - [react-terminal-component - Emulate a terminal with autocomplete, commands, a file-system, themes and more.](https://github.com/rohanchandra/react-terminal-component)
 - [react-scrolltop-button - A button component for scrolling to top of the page.](https://github.com/graysonhicks/react-scrolltop-button)
@@ -509,10 +465,6 @@
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
 
-#### Job Interview Tools
-
-- [List of hundreds ReactJS interview questions and answers](https://github.com/sudheerj/reactjs-interview-questions)
-
 ---
 
 ### React Native
@@ -704,6 +656,7 @@
 - [React Redux based blood donor demo application](https://github.com/smanne/reduxnor)
 - [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 - [Practical Redux](https://blog.isquaredsoftware.com/series/practical-redux/)
+- [A Complete React Redux Tutorial for Beginners](https://daveceddia.com/redux-tutorial/)
 
 ---
 
@@ -892,20 +845,7 @@
 
 #### Video Tutorials
 
-- [Learn ReactJS (make a Pokedex!) - part 1](https://www.youtube.com/watch?v=A9xmIxYBGf4)
-- [Learn ReactJS (make a Pokedex!) - part 2](https://www.youtube.com/watch?v=lNqnZ58YGE0)
-- [React.js Components - part 1](http://www.youtube.com/watch?v=rFvZydtmsxM)
-- [React.js Components - part 2](http://www.youtube.com/watch?v=5yvFLrt7N8M)
-- [Advanced Input Validation With React](https://www.youtube.com/watch?v=Mjcou3UCiBM)
-- [ReactJS: Dealing with the Server](https://www.youtube.com/watch?v=lJUUjdsv0aw)
-- [Building UIs with ReactJS](http://www.youtube.com/watch?v=lAn7GVoGlKU)
-- [React.js Internals](https://www.youtube.com/watch?v=FAgSdSikSCc)
-- [jFlux - Going from MVC to FLUX](https://www.youtube.com/watch?v=plUN2L4Ak14)
-- [React Native Intro](http://brentvatne.ca/react-native-intro-talk/)
-- [Building a Simple ToDo App With React Native and Firebase](https://www.youtube.com/watch?v=3ab0K6viEp0)
-- [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
-- [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
-- [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
+- [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 
 ---
 

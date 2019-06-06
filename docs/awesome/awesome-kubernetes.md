@@ -25,7 +25,7 @@ Awesome-Kubernetes
 
 **感谢Gitbook.这个精彩的列表现在可以下载并以书的形式阅读.请查看 - &gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep分享!! **
 
-**If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
+ **如果您在此处看到不再维护或不适合的包或项目，请提交拉取请求以改进此文件.  谢谢！**
 
 ## What is Kubernetes? :ship:
 
@@ -104,7 +104,7 @@ Installers
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - 在MAC（Edge Channel）上本地运行Kubernetes和Docker
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - 在Windows PC上运行Kubernetes和Docker（Edge Channel）
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
-* [k3s](https://github.com/rancher/k3s)   - 轻量级Kubernetes.  易于安装，内存的一半，所有二进制文件都小于40mb
+* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
 * [kind](https://kind.sigs.k8s.io) - 使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) - 不可知操作系统 -  AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - 不可知的骨头 - 不可知云
@@ -279,7 +279,7 @@ Installers
 
   - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
   - [Draft](https://draft.sh) - 开发人员使用Kubernetes创建云原生应用程序的工具
-  - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
+  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
@@ -512,6 +512,7 @@ Projects
 * [PowerfulSeal](https://github.com/bloomberg/powerfulseal) - 杀死目标吊舱和机器，以测试您的软件可靠性
 * [Sonobuoy](https://github.com/heptio/sonobuoy) - 运行Kubernetes一致性测试的诊断工具
 * [Test-Infra](https://github.com/kubernetes/test-infra)
+* [KubeInvaders](https://github.com/lucky-sideburn/KubeInvaders)   -  Kubernetes Clusters的Gamified Chaos工程工具.  它就像太空侵略者，但外星人的船只是豆荚.
 
 ## Continuous Delivery
 
@@ -694,7 +695,7 @@ Projects
 * [kube-prompt](https://github.com/c-bata/kube-prompt) - 使用go-prompt构建的交互式kubernetes客户端.
 * [kube-ps1](https://github.com/jonmosco/kube-ps1) -  Kubernetes提示帮助bash和zsh.
 * [Kube-shell](https://github.com/cloudnativelabs/kube-shell) - 用于使用Kubernetes CLI的集成外壳
-* [kube-tmux](https://github.com/jonmosco/kube-tmux) - Kubernetes tmux plugin to display the current context and namespace
+* [kube-tmux](https://github.com/jonmosco/kube-tmux) -  Kubernetes tmux插件，用于显示当前上下文和命名空间
 * [Kubectl Aliases](https://github.com/ahmetb/kubectl-aliases) -  Kubectl的别名
 * [kubectl-plugins](https://github.com/jordanwilson230/kubectl-plugins)   -  kubectl插件的集合，处理从简单的上下文切换到连接到容器的所有用户（包括root）通过exec.  略微针对GKE用户量身定制.
 * [kubectl-trace](https://github.com/iovisor/kubectl-trace) - 使用此kubectl插件在kubernetes集群上安排bpftrace程序

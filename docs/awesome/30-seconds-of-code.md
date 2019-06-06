@@ -9,8 +9,6 @@
 
 &gt;精选的有用JavaScript代码段集合，您可以在30秒或更短的时间内理解这些代码段.
 
-[![Sponsored by DigitalOcean](https://raw.githubusercontent.com/30-seconds/30-seconds-of-code/master//sponsored_by_DigitalOcean.png)](https://www.digitalocean.com)
-
 *使用<kbd>Ctrl</kbd> + <kbd>F</kbd>或<kbd>命令</kbd> + <kbd>F</kbd>搜索片段.
 *欢迎提供，请阅读 [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
 *片段是用ES6编写的，使用 [Babel transpiler](https://babeljs.io/) 确保向后兼容性.
@@ -1792,7 +1790,7 @@ var myArray = [{x：1}，{x：2}，{x：3}，{x：1}];
 
 根据条件过滤对象数组，同时过滤掉未指定的键.
 
-使用`Array.prototype.filter（）`根据谓词`fn`过滤数组，以便它返回条件返回truthy值的对象.
+使用`Array.prototype.filter（）`根据谓词`fn`过滤数组，以便返回条件返回truthy值的对象.
 在过滤的数组上，使用`Array.prototype.map（）`使用`Array.prototype.reduce（）`返回新对象，以过滤掉未作为`keys`参数提供的键.
 
 ```js
@@ -4222,6 +4220,9 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
+
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -5280,7 +5281,7 @@ const isNegativeZero = val =&gt; val === 0 &amp;&amp; 1 / val === -Infinity;
 ```js
 const isPrime = num =&gt; {
   const boundary = Math.floor（Math.sqrt（num））;
-  for（is i = 2; i &lt;= boundary; i ++）if（num％i === 0）return false;
+  for（i = 2; i &lt;= boundary; in ++）if（num％i === 0）返回false;
   返回是否&gt; = 2;
 };
 ```
@@ -7887,7 +7888,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7917,7 +7918,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7946,7 +7947,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7974,7 +7975,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8646,7 +8647,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice
     {}
   );
 ```

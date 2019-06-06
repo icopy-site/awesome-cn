@@ -178,7 +178,7 @@ defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
 
 set sizeAfter做shell脚本“ls -lnah~ / Library / Mail /”＆mail_version＆“/ MailData | grep -E&#39;Envelope Index $&#39;| awk {&#39;print $ 5&#39;}”
 
-显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“邮件索引之后：”＆sizeAfter＆return＆return＆“享受新的速度！”）
+display dialog ("Mail index before: " & sizeBefore & return & "Mail index after: " & sizeAfter & return & return & "Enjoy the new speed!")
 
 告诉应用程序“邮件”激活
 ```
@@ -393,6 +393,18 @@ defaults write com.apple.dock persistent-apps -array-add&#39;{“tile-type”=�
 基拉尔码头
 ```
 
+#### Autohide
+
+```bash
+## Enable
+默认写com.apple.dock autohide -bool true &amp;&amp; \
+基拉尔码头
+
+## Disable (Default)
+默认写com.apple.dock autohide -bool false &amp;&amp; \
+基拉尔码头
+```
+
 #### Icon Bounce
 全局设置当相应的应用程序需要您注意时，Dock图标是否应该反弹.
 ```bash
@@ -441,13 +453,6 @@ defaults write com.apple.dock scroll-to-open -bool true &amp;&amp; \
 基拉尔码头
 ```
 
-#### Enable Dock Autohide
-
-```bash
-默认写com.apple.dock autohide -bool true &amp;&amp; \
-基拉尔码头
-```
-
 #### Set Auto Show/Hide Delay
 浮点数定义以毫秒为单位的显示/隐藏延迟.
 ```bash
@@ -477,6 +482,20 @@ defaults write com.apple.dock scroll-to-open -bool true &amp;&amp; \
 默认写com.apple.dock static-only -bool false &amp;&amp; \
 基拉尔码头
 ```
+
+#### Single App Mode
+单击Dock中的应用程序图标时，将会出现相应的窗口
+在前面，但所有其他应用程序窗口将被隐藏.
+```bash
+## Enable
+默认写com.apple.dock single-app -bool true &amp;&amp; \
+基拉尔码头
+
+## Disable (Default)
+默认写com.apple.dock single-app -bool false &amp;&amp; \
+基拉尔码头
+```
+
 
 ## Documents
 
@@ -632,12 +651,12 @@ hdiutil detach / dev / disk2s1
 killall Finder
 
 ## Disable (Default)
-defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool false && \
+默认写入com.apple.finder ShowExternalHardDrivesOnDesktop -bool false &amp;&amp; \
 killall Finder
 ```
 
 #### Show Internal Media
-Built-in HDs or SSDs.
+内置HD或SSD.
 ```bash
 ## Enable
 默认写com.apple.finder ShowHardDrivesOnDesktop -bool true &amp;&amp; \
@@ -1249,7 +1268,7 @@ scutil --nwi
 #### Start Native TFTP Daemon
 文件将从`/ private / tftpboot`提供.
 ```bash
-sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist && \
+sudo launchctl load -F /System/Library/LaunchDaemons/tftp.plist&amp;&amp; \
 sudo launchctl start com.apple.tftpd
 ```
 
@@ -1558,7 +1577,7 @@ pbpaste&gt; whatever.txt
 ### FileVault
 
 #### Automatically Unlock FileVault on Restart
-If FileVault is enabled on the current volume, it restarts the system, bypassing the initial unlock. The command may not work on all systems.
+ 如果在当前卷上启用了FileVault，则会重新启动系统，从而绕过初始解锁.  该命令可能无法在所有系统上运行.
 ```bash
 sudo fdesetup authrestart
 ```
@@ -1722,7 +1741,7 @@ screencapture -T 3 -t jpg -P delayedpic.jpg
 ```
 
 #### Save Screenshots to Given Location
-将位置设置为“〜/ Desktop”.
+Sets location to `~/Desktop`.
 ```bash
 默认写com.apple.screencapture位置〜/桌面&amp;&amp; \
 killall SystemUIServer
@@ -1899,7 +1918,7 @@ chsh -s $（brew --prefix）/ bin / fish
 安装最新版本并设置为当前用户的默认shell：
 ```bash
 brew安装zsh &amp;&amp; \
-sudo sh -c&#39;echo $（brew --prefix）/ bin / zsh &gt;&gt; / etc / shells&#39;&amp;&amp; \
+sudo sh -c 'echo $(brew --prefix)/bin/zsh >> /etc/shells' && \
 chsh -s $（brew --prefix）/ bin / zsh
 ```
 
@@ -1915,7 +1934,7 @@ chsh -s $（brew --prefix）/ bin / zsh
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - 基于Vera字体的字体系列.
 - [Hack](http://sourcefoundry.org/hack/) -  Hack手工修饰，光学平衡，成为您的首选代码.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) - 等宽字体，专为代码清单等设计.
-- [Input](http://input.fontbureau.com) - 专为代码设计的灵活字体系统.
+- [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
 - [Meslo](https://github.com/andreberg/Meslo-Font) -  Apple的Menlo字体的定制版本.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - 一种令人惊讶的可用替代品，采用等宽字体（商业）.
 - [Powerline Fonts](https://github.com/powerline/fonts) -  Powerline插件的修补字体回购.
@@ -1951,4 +1970,4 @@ chsh -s $（brew --prefix）/ bin / zsh
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /><br />本作品采用<a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">知识共享署名 - 相同方式共享4.0国际许可协议授权</a> .

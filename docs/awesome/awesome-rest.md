@@ -18,7 +18,7 @@
 * [HATEOAS](http://timelessrepo.com/haters-gonna-hateoas) - 清楚解释HATEOAS是什么，以及为什么要使用它.
 * [How to GET a cup of coffee](http://www.infoq.com/articles/webber-rest-workflow/)
 * [REST API Tutorial](http://www.restapitutorial.com/) -  RestApiTutorial.com致力于跟踪REST API最佳实践并提供资源，以便为开发工艺人员提供快速参考和自我教育.
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) -  Microsoft REST API指南作为一种设计原则，鼓励应用程序开发人员通过RESTful HTTP接口为他们提供可访问的资源.
+* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md#readme) -  Microsoft REST API指南作为一种设计原则，鼓励应用程序开发人员通过RESTful HTTP接口为其提供资源.
 * [API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - 有关REST API安全性的最佳实践
 
 ## Standards
@@ -27,7 +27,7 @@
 * [RAML](http://raml.org/) - 简单而简洁的方式来描述RESTful API.
 * [JSend](http://labs.omniti.com/labs/jsend) - 简单的规范，规定了如何格式化来自Web服务器的JSON响应的一些规则.
 * [OData](http://www.odata.org/)   - 开放协议，允许创建和使用可查询和可互操作的RESTful API.  相当复杂.
-* [HAL](http://stateless.co/hal_specification.html) - Simple format that gives a consistent and easy way to hyperlink between resources in your API (see: [HATEOAS](#hateoas)).
+* [HAL](http://stateless.co/hal_specification.html) - 简单的格式，为您的API中的资源之间的超链接提供一致且简单的方法（请参阅： [HATEOAS](#hateoas)).
 * [JSON-LD](http://json-ld.org/) - 用于描述JSON（W3C）中的关联数据和超媒体关系的标准.
 * [Hydra](http://www.hydra-cg.com/) - 超媒体驱动的Web API（W3C）词汇表.
 * [Schema.org](http://schema.org) - 描述常见数据模型的模式集合.
@@ -80,12 +80,13 @@
 * [node-restify](https://github.com/restify/node-restify) - 框架专门用于REST API.
 * [Sails.js](http://sailsjs.org/) -  Node.js Web框架嵌入命令以自动生成REST API.
 * [mers](https://github.com/jspears/mers) - 快速服务将Mongoose finders暴露为RESTful API.
-* [Baucis](https://github.com/wprl/baucis) - 基于Mongoose实体构建可扩展的REST API.
+* [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -  JavaScript的同构资源引擎.
 * [loopback](http://loopback.io/) - 强大的Node.js框架，用于创建API并轻松连接到后端数据源.
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务Web框架，可让您通过RESTful资源，套接字和灵活的插件控制您的数据.
 * [Expressa](https://github.com/thomas4019/expressa) - 使用简单的管理编辑器和权限模型，通过JSON模式创建API的Express中间件.
 * [rest-hapi](https://github.com/JKHeadley/rest-hapi) - 基于支持关系数据的mongoose模型生成RESTful API.
+* [Nestjsx/crud](https://github.com/nestjsx/crud) - 使用NestJS和TypeORM为RESTful API生成CRUD控制器和服务.
 
 ### PHP
 
