@@ -81,6 +81,12 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/evangelionClock.png)](https://github.com/Wandmalfarbe/evangelion-clock-screensaver/)
 
+### Predator
+
+&gt;捕食者灵感的时钟屏幕保护程序.
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/predator.png)](https://predatorsaver.space/)
+
 ## Apple Inspired
 
 ### Aerial
@@ -220,6 +226,14 @@ Donationware
 精简版（免费）和完整版（3美元）
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/emojiSaver.png)](https://www.emojisaver.eu/)
+
+### Life Saver
+
+&gt; Conway的生命游戏的设计师友好的抽象可视化.
+
+免费（开源）
+
+[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/lifesaver.png)](https://www.github.com/amiantos/lifesaver)
 
 ## Other
 

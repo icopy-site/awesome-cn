@@ -22,7 +22,7 @@
 
 <img
 src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master"
-alt =“构建状态”/&gt;
+alt="Build Status" />
 
 ## Buzzing
 
@@ -78,7 +78,7 @@ list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
 ## Conferences
 
  专门针对React Native的会议.  React列表
-一般会议可在[ReactJS上找到]
+一般会议可以在[ReactJS上找到]
 site](https://facebook.github.io/react/docs/conferences.html).
 
 ### Chain React - Portland, OR USA
@@ -92,7 +92,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 
 <http://react-native.eu/>
 
-研讨会 -  2018年9月3日至4日
+Workshops - September 3-4th, 2018\\
 会议 -  2018年9月5日至6日
 
 ### React Alicante - Alicante, Spain
@@ -113,6 +113,20 @@ site](https://facebook.github.io/react/docs/conferences.html).
 <https://reactday.berlin/>
 
 会议 -  2018年11月30日
+
+### App.js Conf - Krakow, Poland
+
+<https://appjs.co/>
+
+会议 -  2019年4月4日
+研讨会 -  2019年4月5日
+
+### Chain React - Portland, OR USA
+
+<https://infinite.red/ChainReactConf>
+
+研讨会 -  2019年7月10日
+会议 -  2019年7月11日至12日
 
 ## Articles
 
@@ -140,9 +154,14 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [React Native & Apple TV today](https://medium.com/@7ynk3r/react-native-apple-tv-today-48beb398a1ab#.5pp5drlyy)
 * [Record and Upload Videos with React Native](https://medium.com/react-native-training/uploading-videos-from-react-native-c79f520b9ae1)
 * [How to Setup your First React Native app](https://hackernoon.com/react-native-how-to-setup-your-first-app-a36c450a8a2f)
+* [Using React Native With TypeScript](https://medium.com/@jan.hesters/using-typescript-with-react-native-946aa4b4ae6f)
+* [How To Build a News Reader App with React Native and NewsAPI](https://medium.com/crowdbotics/how-to-build-a-news-reader-app-with-react-native-and-newsapi-8508f48f2b43)
+* [How to Build a Real Time Logo Detection App with React Native](https://medium.com/crowdbotics/how-to-build-a-real-time-logo-detection-app-with-react-native-google-vision-api-and-crowdbotics-9ed65fbcd15)
+* [Build a Chatbot with Dialogflow and React Native](https://blog.jscrambler.com/build-a-chatbot-with-dialogflow-and-react-native/)
 
 ### Assorted
 
+* [Best Practices for Building a Large Scale React Application](https://buttercms.com/blog/best-practices-for-building-a-large-scale-react-application)
 * [React Native - Nic or Not App](https://shift.infinite.red/cage-against-the-machine-a419b6980424)
 * [Versioning React Native Application in elegant way (cross-platformely) ★10](https://github.com/szhigunov/react-native-npm-version)
 * [React and React Native State Museum](https://hackernoon.com/the-react-state-museum-a278c726315)
@@ -172,6 +191,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [React Native's Layout Animation is Awesome](https://medium.com/@Jpoliachik/react-native-s-layoutanimation-is-awesome-4a4d317afd3e)
 * [Avoiding the Keyboard](https://shift.infinite.red/avoiding-the-keyboard-in-react-native-56d05b9a1e81#.g1lwixck6)
 * [How To Use OpenCV In React Native For Image Processing](https://brainhub.eu/blog/opencv-react-native-image-processing/)
+* [Using Styled Components with React Native](https://medium.com/swlh/using-styled-components-with-react-native-de645fcf4787)
+* [Create a React Native Image Recognition App with Google Vision API](https://blog.jscrambler.com/create-a-react-native-image-recognition-app-with-google-vision-api/)
 
 ### Continuous Integration
 
@@ -180,6 +201,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [How to automate Android build process on Bitrise CI](https://medium.com/@hesam.kamalan/how-to-automate-android-build-process-on-bitrise-ci-71ae3a94362e#.fryuiays4)
 * [fastlane for React Native iOS & Android app DevOps](https://medium.com/react-native-training/fastlane-for-react-native-ios-android-app-devops-8ca85bee614e)
 * [The simplest way to automate delivery of your React Native Application](https://jtway.co/the-simplest-way-to-automate-delivery-of-your-react-native-application-f37f2c71eb1d)
+* [21 Useful Open Source Packages for React Native](https://medium.com/crowdbotics/21-useful-open-source-packages-for-react-native-807f65a818a1)
 
 ### Internals
 
@@ -195,9 +217,9 @@ site](https://facebook.github.io/react/docs/conferences.html).
 组件和本机模块.
 
 ### UI
-
+* [react-native-switch-pro ★153](https://github.com/poberwong/react-native-switch-pro) -  Andriod和iOS的一个非常好的开关，它在两个平台上具有相同的性能，并且在库中具有干净的代码.
 * [lottie-react-native ★10415](https://github.com/airbnb/lottie-react-native) - 适用于Android和iOS的移动库，可解析使用bodymovin导出为JSON的Adobe After Effects动画，并在移动设备上呈现原生状态！
-* [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for NavBar/TabBar, image source and full styling. Choose from 3000+ bundled icons or use your own.
+* [react-native-vector-icons ★9985](https://github.com/oblador/react-native-vector-icons)   -  React Native的可自定义图标，支持NavBar / TabBar，图像源和完整样式.  从3000多个捆绑图标中选择或使用您自己的图标.
 * [react-native-maps ★8388](https://github.com/lelandrichardson/react-native-maps) - 针对iOS + Android的React Native Map组件
 * [react-native-swiper ★6955](https://github.com/leecade/react-native-swiper) -  React Native的最佳Swiper组件.
 * [react-native-gifted-chat ★6546](https://github.com/FaridSafi/react-native-gifted-chat) -  React Native（以前称为Gifted Messenger）最完整的聊天用户界面
@@ -208,14 +230,14 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-calendars ★3402](https://github.com/wix/react-native-calendars) - 反应原生日历组件 
 * [react-native-ui-kitten ★3140](https://github.com/akveo/react-native-ui-kitten) - 可定制和可重复使用的反应原生组件套件
 * [react-native-svg ★2982](https://github.com/magicismight/react-native-svg) - 适用于iOS和Android的SVG库
-* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) - Material design for React Native.
+* [react-native-paper ★2218](https://github.com/callstack/react-native-paper) -  React Native的材料设计.
 * [react-native-drawer ★2276](https://github.com/root-two/react-native-drawer) -  React Native Drawer
 * [react-native-app-intro ★2433](https://github.com/FuYaoDe/react-native-app-intro) -  React Native视差效果应用程序介绍
 * [react-native-image-crop-picker ★2736](https://github.com/ivpusic/react-native-image-crop-picker) -  iOS / Android图像选择器，支持多个图像和裁剪
 * [react-native-blur ★2172](https://github.com/Kureev/react-native-blur) -  React Native Blur组件
 * [react-native-splash-screen ★2663](https://github.com/crazycodeboy/react-native-splash-screen) - 反应原生的启动画面，加载应用程序时隐藏，适用于iOS和Android.
 * [react-native-typography ★2260](https://github.com/hectahertz/react-native-typography) React Native的像素完美，原生外观印刷样式
-* [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - 组件后面的iOS风格的滑动按钮
+* [react-native-swipeout ★2194](https://github.com/dancormier/react-native-swipeout) - 组件后面的iOS风格的swipeout按钮
 * [react-native-material-ui ★2536](https://github.com/xotahal/react-native-material-ui) -  React Native的高度可定制的材料设计组件
 * [react-native-textinput-effects ★2062](https://github.com/halilb/react-native-textinput-effects)   - 带有iOS和Android自定义标签和图标动画的文本输入.  由Codrops本土和灵感反应而建.
 * [react-native-modalbox ★2043](https://github.com/maxs15/react-native-modalbox) - 反应原生的组件
@@ -229,6 +251,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-mapbox-gl ★1663](https://github.com/mapbox/react-native-mapbox-gl) -  Mapbox GL用于创建自定义地图的本机模块
 * [react-native-fast-image ★2240](https://github.com/DylanVann/react-native-fast-image) -  FastImage，高性能的React Native图像组件.
 * [react-native-spinkit ★1585](https://github.com/maxs15/react-native-spinkit) -  React Native的动画加载指示符集合
+* [victory-native ★1264](https://github.com/FormidableLabs/victory-native) -  victory-native是一组组件，可帮助您创建图表，条形图等.
 * [react-native-chart ★1464](https://github.com/onefold/react-native-chart) -  react-native-chart是一个简单的模块，用于向React Native应用程序添加折线图，面积图或条形图.
 * [react-native-gifted-listview ★1443](https://github.com/FaridSafi/react-native-gifted-listview) - 一个ListView，它嵌入了一些循环功能，如拉动刷新，无限滚动等等，适用于Android和iOS React-Native应用程序
 * [react-native-viewpager ★1350](https://github.com/race604/react-native-viewpager) -  React Native的ViewPager组件
@@ -244,11 +267,11 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-collapsible ★1174](https://github.com/oblador/react-native-collapsible)   - 使用具有回退功能的新动画API为React Native设置动画可折叠组件.  适合手风琴，切换等
 * [react-native-circular-progress ★1088](https://github.com/bgryszko/react-native-circular-progress) -  React Native组件，用于使用ReactART创建动画循环进度
 * [react-native-popup-dialog ★1088](https://github.com/jacklam718/react-native-popup-dialog)   -  React Native Popup对话框易于使用和支持使用自定义动画.  对于IOS和Android
+* [react-native-largelist ★1054](https://github.com/bolan9999/react-native-largelist) -  React Native的最佳性能大型列表组件.（iOS和Android） 
 * [react-native-tinder-swipe-cards ★881](https://github.com/meteor-factory/react-native-tinder-swipe-cards) -  Tinder卡式刷卡.
 * [react-native-root-toast ★971](https://github.com/magicismight/react-native-root-toast) - 反应原生吐司之类的组件，纯粹的JavaScript解决方案
 * [react-native-pathjs-charts ★842](https://github.com/capitalone/react-native-pathjs-charts) - 基于react-native-svg和paths-js的Android和iOS图表
 * [react-native-loading-spinner-overlay ★885](https://github.com/niftylettuce/react-native-loading-spinner-overlay) - 唯一纯粹的React Native，Native iOS和Android加载微调器（进度条指示器）叠加
-* [react-native-largelist ★956](https://github.com/bolan9999/react-native-largelist) -  React Native的最佳性能大型列表组件.（iOS和Android）查看react-native-largelist性能的视频 [youku](http://v.youku.com/v_show/id_XMzI0ODc4ODkyOA==.html)
 * [react-native-offline ★977](https://github.com/rauliyohmc/react-native-offline)   -  Handy toolbelt可以很好地处理React Native应用程序中的离线/在线连接.  顺利的redux集成.
 * [react-native-slider ★845](https://github.com/jeanregisser/react-native-slider) - 一个用于react-native的纯JavaScript组件
 * [react-native-sglistview ★731](https://github.com/sghiassy/react-native-sglistview) -  React Native的ListView的记忆实现
@@ -282,6 +305,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-carousel ★406](https://github.com/nick/react-native-carousel) - 简单的旋转木马组件，用于反应原生
 * [react-native-star-rating ★489](https://github.com/djchie/react-native-star-rating) - 用于生成和显示交互式星级的React Native组件
 * [react-native-radio-buttons ★399](https://github.com/ArnaudRinquin/react-native-radio-buttons) - 实现自定义单选按钮行为的反应组件：可以一次选择多个选项.
+* [react-native-really-awesome-button ★370](https://github.com/rcaferati/react-native-really-awesome-button) -  RNRAB是一个60fps的3D，具有进度功能，可扩展，生产就绪的组件，可以呈现一组很棒的动画UI按钮.
 * [react-native-gesture-password ★410](https://github.com/spikef/react-native-gesture-password) -  React Native的手势密码组件
 * [react-native-invertible-scroll-view ★388](https://github.com/exponentjs/react-native-invertible-scroll-view) -  React Native的可逆ScrollView
 * [react-native-copilot ★595](https://github.com/okgrow/react-native-copilot) - 您的反应原生应用程序的分步演练
@@ -318,8 +342,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-tabbar ★261](https://github.com/alinz/react-native-tabbar) - 标签栏更自由
 * [react-native-keyboardevents ★247](https://github.com/johanneslumpe/react-native-keyboardevents) - 监控键盘显示/隐藏通知
 * [react-native-timeago ★278](https://github.com/TylerLH/react-native-timeago) - 自动更新React Native的timeago组件
-* [react-native-cacheable-image ★255](https://github.com/jayesbe/react-native-cacheable-image) - 用于react-native的文件系统可缓存图像组件
-* [react-native-size-matters ★436](https://github.com/nirsky/react-native-size-matters) -  React-Native实用程序带，用于在不同大小的设备上扩展应用程序UI的大小.
+* [react-native-cacheable-image ★255](https://github.com/jayesbe/react-native-cacheable-image) - A filesystem cacheable image component for react-native
+* [react-native-size-matters ★436](https://github.com/nirsky/react-native-size-matters) - A React-Native utility belt for scaling the size your apps UI across different sized devices.
 * [react-native-awesome-button ★222](https://github.com/larsvinter/react-native-awesome-button) - 一个React Native组件，呈现一个按钮，支持在传递的道具下显示不同的外观和功能
 * [react-native-parallax-swiper ★315](https://github.com/zachgibson/react-native-parallax-swiper)   - 基于iOS模式的可配置视差刷卡器.  使用Native Driver获得超级平滑的视差.
 * [react-native-mobx ★220](https://github.com/aksonov/react-native-mobx) - 使您的应用程序与MobX和react-native-router-flux一起响应
@@ -334,7 +358,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-emoji ★216](https://github.com/jorilallo/react-native-emoji) -  React Native的表情符号组件
 * [react-native-image-cache-hoc ★211](https://github.com/billmalarky/react-native-image-cache-hoc) - 高阶组件，为标准图像组件添加高级缓存和持久性功能.
 * [autoresponsive-react-native ★201](https://github.com/xudafeng/autoresponsive-react-native) -  React的魔法布局库
-* [react-native-autolink ★201](https://github.com/joshswan/react-native-autolink) -  React Native的自动链接组件
+* [react-native-autolink ★201](https://github.com/joshswan/react-native-autolink) - Autolinking component for React Native
 * [react-native-cardview ★239](https://github.com/Kishanjvaghela/react-native-cardview) -  CardView for react-native（所有Android版和iOS版）
 * [react-native-segmented-control-tab ★252](https://github.com/kirankalyan5/react-native-segmented-control-tab) react-native-segmented-control-tab（适用于Android / iOS）
 * [react-native-qrcode-svg ★228](https://github.com/awesomejerry/react-native-qrcode-svg) - 基于react-native-svg和node-qrcode的React Native的QR码生成器.
@@ -349,14 +373,14 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-wheel-picker ★190](https://github.com/lesliesam/react-native-wheel-picker) -  React原生跨平台选择器.
 * [react-native-hero ★180](https://github.com/brh55/react-native-hero) - 英雄/横幅组件，支持动态或静态图像，动态大小调整，颜色叠加等.
 * [react-native-shine-button ★205](https://github.com/prscX/react-native-shine-button) -  React Native for Effects就像闪耀一样
-* [react-native-code-verification \*13](https://github.com/danchokobo/react-native-code-verification) - 用于用户端密码验证的UI模块.
+* [react-native-code-verification ★13](https://github.com/danchokobo/react-native-code-verification) - 用于用户端密码验证的UI模块.
 * [react-native-sdr](https://github.com/i6mi6/react-native-sdr) -  React Native的服务器驱动渲染（SDR）组件
 * [react-native-collapsing-toolbar ★185](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - 用于android CollapsingToolbarLayout的包装器
 * [react-native-checkbox ★154](https://github.com/sconxu/react-native-checkbox) -  React native的Checkbox组件
 * [react-native-popup ★153](https://github.com/beefe/react-native-popup) - 反应原生的弹出窗口
 * [react-native-radial-menu ★153](https://github.com/omulet/react-native-radial-menu) - 针对触摸界面优化的径向菜单
 * [react-native-orientation-listener ★141](https://github.com/walmartreact/react-native-orientation-listener) - 用于获取当前设备方向的反应原生库
-* [react-native-gestures ★152](https://github.com/kiddkai/react-native-gestures) - 可反复原生的可组合手势系统
+* [react-native-gestures ★152](https://github.com/kiddkai/react-native-gestures) - composable gesture system in react native
 * [react-native-page-control ★151](https://github.com/silentcloud/react-native-page-control) -  React本机页面控件，如ios UIPageControl
 * [react-native-parallax-scroll ★209](https://github.com/monterosalondon/react-native-parallax-scroll) - 具有粘性标题，前景，本机驱动程序和所有可滚动组件（FlatList，ListView，SectionList，ScrollView）支持的Parallax Scroll组件.
 * [react-native-pagination ★182](https://github.com/garrettmac/react-native-pagination) - 列表的美丽分页插件.
@@ -367,7 +391,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-multi-slider ★137](https://github.com/JackDanielsAndCode/react-native-multi-slider) - 带有多个React Native标记的纯JS滑块组件
 * [react-native-pulse-loader ★158](https://github.com/mastermoo/react-native-pulse-loader) - 适用于React Native应用程序的Tinder
 * [react-native-swiper-animated ★176](https://github.com/chitezh/react-native-swiper-animated) - 用于反应原生的类似火种的喷丝器
-* [react-native-display ★155](https://github.com/sundayhd/react-native-display)   - 此模块带有“Display：none”（css样式）以从渲染中打开/关闭组件.  使用此模块将通过输入/退出动画改善您的应用程序性能和外观.
+* [react-native-display ★155](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 * [react-native-color-picker ★137](https://github.com/instea/react-native-color-picker) - 针对Android和iOS的React Native实现颜色选择器.
 * [react-native-image-carousel ★148](https://github.com/anvilabs/react-native-image-carousel) - 图像轮播，支持全屏模式，图像滑动和全屏模式下的捏合缩放.
 * [react-native-offline-mode ★144](https://github.com/rauchy/react-native-offline-mode) - 在没有连接的情况下，使用离线版本交换您的应用
@@ -394,7 +418,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-flexi-radio-button ★111](https://github.com/thegamenicorus/react-native-flexi-radio-button) -  React Native的简单灵活的单选按钮
 * [react-native-swiper2 ★86](https://github.com/sunnylqm/react-native-swiper2)   -  React Native的Swiper组件.  取代反应 - 本机 - 狙击手
 * [react-native-scrollable-mixin ★91](https://github.com/exponentjs/react-native-scrollable-mixin) - 可滚动的React Native组件的标准接口，使组合更容易.
-* [react-native-submit-button ★96](https://github.com/ronak301/react-native-submit-button)   - 动画提交按钮.  适用于android和ios.
+* [react-native-submit-button ★96](https://github.com/ronak301/react-native-submit-button) - Animated Submit button. Works on both android and ios.
 * [photo-viewer ★114](https://github.com/merryjs/photo-viewer) - 用于在NYTPhotoViewer和FrescoImageViewer之上进行本机构建的照片查看器.
 * [react-native-listitem ★86](https://github.com/dancormier/react-native-listitem) -  React Native的iOS风格的listitem组件
 * [react-native-drawer-menu ★97](https://github.com/Tinysymphony/react-native-drawer-menu) -  React Native Drawer菜单
@@ -402,7 +426,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-scl-alert ★102](https://github.com/rafaelmotta/react-native-scl-alert) -  React Native实现包SCLAlertView-Swift
 * [react-native-page-swiper ★83](https://github.com/fixt/react-native-page-swiper) -  React Native的Page Swiper组件.
 * [react-native-emoji-picker ★85](https://github.com/yonahforst/react-native-emoji-picker) - 简单的表情符号选择器，用于反应原生和可选的模态组件
-* [react-native-sketch-canvas ★129](https://github.com/terrylinla/react-native-sketch-canvas) - A React Native component for drawing by touching on iOS and Android. (support drawing on image, text)
+* [react-native-sketch-canvas ★129](https://github.com/terrylinla/react-native-sketch-canvas)   - 通过触摸iOS和Android进行绘制的React Native组件.  （支持图像，文字绘图）
 * [react-native-progressive-input ★86](https://github.com/khaiql/react-native-progressive-input) - 带有清除按钮和活动指示符的TextInput，用作自动完成列表的一部分.
 * [react-native-dialog ★92](https://github.com/mmazzarolo/react-native-dialog) - 纯JavaScript React-Native对话框
 * [react-native-android-wheel-picker ★106](https://github.com/ElekenAgency/ReactNativeWheelPicker) - 简单灵活的适用于Android的React原生轮选择器，包括DatePicker和TimePicker.
@@ -464,13 +488,12 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-simple-stepper ★60](https://github.com/testshallpass/react-native-simple-stepper) -  UIStepper iOS控件的超级简单反应原生实现.
 * [react-native-viewport ★43](https://github.com/pjjanak/react-native-viewport) - 反应原生的视口尺寸
 
-
 * [react-native-progress-circular ★43](https://github.com/andy9775/React-Native-CircularProgress) - 适用于iOS和Android的循环进度条的纯React Native Component.
 * [react-native-simpledialog-android ★41](https://github.com/lucasferreira/react-native-simpledialog-android) -  React Native Android模块使用Android的AlertDialog  - 与AlertIOS相同
 * [react-native-tween-animation ★43](https://github.com/kirkness/react-native-tween-animation) - 一个简单的反应原生状态补间动画模块.
 * [react-native-layout ★45](https://github.com/jerolimov/react-native-layout) - 反应原生的语义JSX布局组件
 * [react-native-md-motion-buttons ★50](https://github.com/zecaptus/react-native-md-motion-buttons) - 材料设计动作按钮，灵感来自inVision应用程序.
-* [react-native-custom-actsheet ★40](https://github.com/guodong000/react-native-custom-actsheet) - 一个用于react-native的自定义ActionSheet
+* [react-native-custom-actsheet ★40](https://www.npmjs.com/package/react-native-custom-actsheet) - 一个用于react-native的自定义ActionSheet
 * [react-native-toolkit ★41](https://github.com/marty-wang/react-native-toolkit) - 用于响应本机移动应用程序的常用UI组件的集合.
 * [rn-render-perfs ★40](https://github.com/mfrachet/rn-render-perfs) - 使用UI控件测量React渲染生命周期
 * [react-native-draggable-drawer ★46](https://github.com/llanox/react-native-draggable-drawer) -  React Native的DraggableDrawer组件.
@@ -478,6 +501,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-popupwindow ★38](https://github.com/beefe/react-native-popupwindow) - 用于react-native模块的Android PopupWindow
 * [react-native-flanimatedimage ★43](https://github.com/nihgwu/react-native-flanimatedimage) -  React Native的FLAnimatedImage.
 * [react-native-dial ★47](https://github.com/netbeast/react-native-dial) - 反应原生可重复使用且高效的拨号旋钮元件.
+* [react-native-draggable-grid ★41](https://github.com/SHISME/react-native-draggable-grid) - 由typescript编写的React Native可拖动和可排序的网格组件.
 * [react-native-air-progress-bar ★44](https://github.com/kis/react-native-air-progress-bar) -  React Native进度条组件，可自定义和动画
 * [react-native-grading ★43](https://github.com/Tinysymphony/react-native-grading) -  RN组件，用于使用ReactART对评分进行评分.
 * [react-native-slack-webhook ★42](https://github.com/xcarpentier/react-native-slack-webhook) - 通过Slack和此webhook lib，从您的应用程序中关注一些活动（新用户，付款等）.
@@ -486,7 +510,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-toast-native ★51](https://github.com/onemolegames/react-native-toast-native) 针对Android和iOS的React Native Toast组件.
 * [react-native-full-screen ★44](https://github.com/Anthonyzou/react-native-full-screen) -  React Native FullScreen api和元素
 * [react-native-bar-collapsible ★38](https://github.com/caroaguilar/react-native-bar-collapsible) - 可折叠（切换/手风琴），可点击或仅文本的条形组件.
-* [react-native-animated-check-mark ★40](https://github.com/AppliKeySolutions/RocketButton) - 用于动画交叉标记转换的小型反应组件.
+* [react-native-animated-check-mark ★40](https://github.com/AppliKeySolutions/RocketButton) - A small react component for animated cross-mark transformation.
 * [react-native-circle-view ★37](https://github.com/nucleartux/react-native-circle-view) - 使用CircleView反应原生android的循环进度
 * [react-native-slidable-tab-bar ★37](https://github.com/pwbrown/react-native-slidable-tab-bar) - 用于即时视图渲染的可滑动标签栏（react-native）
 * [react-native-auto-typing-text ★43](https://github.com/phuongla/react-native-auto-typing-text) - 一个用于react-native的自动输入文本组件
@@ -509,9 +533,9 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-actionsheet-native ★25](https://github.com/slowpath/react-native-actionsheet) - 对React Native的Android ActionSheet支持
 * [react-native-fab ★39](https://github.com/SiDevesh/React-Native-FAB) - 适用于Android和iOS的FAB按钮组件，可自定义，简单且符合材料设计规格.
 * [react-native-markdown-editor ★31](https://github.com/kunall17/react-native-markdown-editor) -  Markdown编辑器，如github评论编辑器（包含预览，降价按钮）
-* [react-native-circle-progress ★24](https://github.com/guodong000/react-native-circle-progress) -  React Native的自定义循环进度指示器
+* [react-native-circle-progress ★24](https://www.npmjs.com/package/react-native-circle-progress) -  React Native的自定义循环进度指示器
 * [react-native-showdown ★29](https://github.com/jerolimov/react-native-showdown) -  React-native组件，将markdown呈现为webview！
-* [react-native-app-intro-v2 \*5 ★24](https://github.com/Sh1n1x/react-native-app-intro) - 最新的App介绍
+* [react-native-app-intro-v2 ★24](https://github.com/Sh1n1x/react-native-app-intro) - 最新的App介绍
 * [react-native-multi-select ★25](https://github.com/hasangilak/react-native-multi-select)   - 你知道网上的select2吗？  现在你有它在你的命令反应原生:)
 * [react-native-big-slider ★41](https://github.com/netbeast/react-native-big-slider) - 又一个大的，纯粹的JS易于定制和可破解的反应原生滑块组件.
 * [react-native-orientation-controller ★23](https://github.com/inProgress-team/react-native-orientation-controller) - 用于获取和控制当前设备和应用程序方向的反应本机库
@@ -545,15 +569,17 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-hijri-date-picker ★13](https://github.com/Codelabsys/react-native-hijri-date-picker-android) - 针对Android的Hijri日历的日期选择器对话框.
 * [react-native-pin-view ★48](https://github.com/talut/react-native-pin-view)   - 简便，快捷的PinView组件.  它适用于IOS和Android.
 * [react-native-rebound-scrollview ★12](https://github.com/jaxchow/react-native-rebound-scrollview) -  React Native Android ReboundScrollView实现.
+* [react-native-calculator ★12](https://github.com/budiadiono/react-native-calculator) - 反应原生计算器和计算器输入组件.
 * [react-native-imagewand ★13](https://github.com/NorthFoxz/react-native-imagewand) - 用于反应原生的图像棒
 * [react-native-gravatar ★13](https://github.com/lwhiteley/react-native-gravatar) -  gravatar-api的react-native包装器
 * [react-native-selectmultiple-button ★25](https://github.com/danceyoung/react-native-selectmultiple-button) - 支持多个或无线电选择的按钮（或分组按钮）
 * [rn-displayable ★15](https://github.com/mfrachet/rn-displayable) - 根据道具或一组规则显示您的组件
 * [react-native-modal-loader ★19](https://github.com/kdastan/react-native-modal-loader) - 针对反应应用程序的可自定义动画模式进度.
-* [react-native-piechart ★10](https://github.com/frostney/react-native-piechart) - A component for React Native
+* [react-native-piechart ★10](https://github.com/frostney/react-native-piechart) -  React Native的组件
 * [react-native-seekbar-android ★10](https://github.com/DispatcherInc/react-native-seekbar-android) -  React Native包装器Android的SeekBar
 * [react-native-timeline-theme ★25](https://github.com/tomzaku/react-native-timeline-theme)   -  TimeLine主题的集合.  这个包只使用flexbox（没有绝对）和FlatList
 * [react-native-quiltview ★9](https://github.com/mmslate/react-native-quiltview) - 针对React Native的RFQuiltLayout的原生iOS UICollectionView包装器
+* [react-native-units ★2](https://github.com/alexfoxy/react-native-units) -  React Native中响应式布局的有用单元和简单网格实现的集合.
 * [react-native-relative-units ★9](https://github.com/benzhe/react-native-relative-units) -  React Native的相对单位
 * [react-native-simple-button ★9](https://github.com/remobile/react-native-simple-button) - 一个简单的反应原生按钮
 * [react-native-coachmasks ★10](https://github.com/TranLuongTuanAnh/react-native-coachmasks)   -  react-native-coachmark！  它可以帮助您轻松创建Coach Marks以增强用户体验！
@@ -562,7 +588,6 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-link ★8](https://github.com/650Industries/react-native-link) - 链接组件
 * [react-native-custom-picker ★15](https://github.com/budiadiono/react-native-custom-picker) - 反应原生可自定义的选择器组件.
 * [react-native-stylesheet-xg ★8](https://github.com/xgfe/react-native-stylesheet-xg) - 用于跨平台和响应的扩展样式表
-* [react-native-draggable-grid ★7](https://github.com/SHISME/react-native-draggable-grid) - 由typescript编写的React Native可拖动和可排序的网格组件.
 * [react-native-loading ★7](https://github.com/alcat2008/react-native-loading) -  React Native应用程序的轻量级加载.
 * [react-native-progress-button ★10](https://github.com/xinghui0000/react-native-progress-button) - 可以显示进度的react本机按钮组件.
 * [react-native-date-range-picker ★25](https://github.com/lazaronixon/react-native-date-range-picker) - 从react-native-calendars扩展的简单日期范围选择器 
@@ -598,16 +623,23 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-bouncing-ball ★8](https://github.com/hankzhuo/react-native-bouncing-ball) - 针对iOS和Android的React Native组件弹跳球.
 * [react-native-countdown-text](https://github.com/realKfiros/react-native-countdown-text) -  React Native组件，根据格式将未来日期的时间戳转换为可读倒计时时钟.
 * [react-native-rheostat ★9](https://github.com/DrChai/react-native-rheostat) - 受Airbnb的启发 [rheostat](https://github.com/airbnb/rheostat)，一个功能强大的滑块，带有各种数据可视图表.
-* [react-native-picker-module *1](https://github.com/talut/react-native-picker-module) -  React Native Picker的另一种方法. 
-* [rn-actionsheet-module *0](https://github.com/talut/rn-actionsheet-module) -  BottomsheetDialog和ActionSheetIOS具有相同的道具和用法.
-* [react-native-countries *1](https://github.com/talut/react-native-countries) - 此软件包直接为您提供设备的本地国家/地区名称和代码列表.
+* [react-native-picker-module ★1](https://github.com/talut/react-native-picker-module) -  React Native Picker的另一种方法. 
+* [rn-actionsheet-module ★0](https://github.com/talut/rn-actionsheet-module) -  BottomsheetDialog和ActionSheetIOS具有相同的道具和用法.
+* [react-native-countries ★1](https://github.com/talut/react-native-countries) - 此软件包直接为您提供设备的本地国家/地区名称和代码列表.
+* [react-native-progress-steps ★4](https://github.com/colbymillerdev/react-native-progress-steps) - 一个简单且完全可自定义的React Native组件，用于实现进度步进器UI.
+* [react-native-animated-loader](https://github.com/vikrantnegi/react-native-animated-loader) -  React Native Loader组件，使用Airbnb的Lottie进行漂亮的装载动画.
+* [react-native-suggester ★32](https://github.com/xcarpentier/react-native-suggester) -  React-Native包来装饰TextInput并获得具有良好UX的建议.
+* [react-native-recyclerlist ★1515](https://github.com/Flipkart/recyclerlistview) -  React Native和Web的高性能列表视图，支持复杂的布局.
+* [rn-verifcode](https://github.com/xcarpentier/rn-verifcode) -  React-Native组件，用于输入Android和IOS的确认代码
+* [react-native-scrubber ★1](https://github.com/repodio/react-native-scrubber/tree/master) - 适用于iOS和Android的简单音频/视频Scrubber.
+* [react-native-picker-modal-view](https://github.com/pankod/react-native-picker-modal-view) -  React Native Module选择项目选择器模式.
 
 
 ### Navigation
 
 * [react-navigation ★14233](https://github.com/react-community/react-navigation) - 易于使用的React Native导航
-* [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - 通过简单的跨平台界面，App-wide支持100％原生导航.
-* [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - 基于新的React Native Navigation API实现本机路由器
+* [react-native-navigation ★9325](https://github.com/wix/react-native-navigation) - 通过简单的跨平台界面，App-wide支持100％本机导航.
+* [react-native-router-flux ★7720](https://github.com/aksonov/react-native-router-flux) - React Native Router based on new React Native Navigation API
 * [kittenTricks ★4227](https://github.com/akveo/kittenTricks) - 具有超过40个屏幕和主题热重载支持的本地移动入门套件
 * [native-navigation ★3060](https://github.com/airbnb/native-navigation) -  React Native应用程序的本机导航库
 * [react-native-navbar ★1824](https://github.com/Kureev/react-native-navbar) - 用于react-native的简单可自定义导航栏组件
@@ -619,7 +651,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-navigation-drawer ★98](https://github.com/ilansas/react-native-navigation-drawer) - 灵感源自Android的React-Native的幻灯片菜单
 * [react-native-ya-navigator ★88](https://github.com/xxsnakerxx/react-native-ya-navigator) - 又一个反应原生导航器组件
 * [navbar-native ★86](https://github.com/redbaron76/navbar-native) -  React-Native的全新可完全自定义的Navbar组件
-* [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - 一个简单的路由器反应原生
+* [react-native-navigator ★74](https://github.com/thewei/react-native-navigator) - A simple router for react native
 * [react-native-navigation-bar ★59](https://github.com/beefe/react-native-navigation-bar) -  react-native-navigation-bar
 * [react-native-easy-router ★78](https://github.com/sergeyshpadyrev/react-native-easy-router) -  React Native路由器，具有易于使用的API
 * [react-native-swiper-flatlist ★★ ★81](https://github.com/gusgard/react-native-swiper-flatlist) - 使用FlatList实现的React Native Swiper组件
@@ -636,6 +668,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-keyboard-sticky-view ★7](https://github.com/melihberberolu/React-Native-Keyboard-Sticky-View) - 带有动画和renderProps的Keyboar Sticky View
 * [react-native-header-scroll-view ★3](https://github.com/jonsamp/react-native-header-scroll-view) -  iOS风格的大标题滚动视图.
 * [react-native-hotspot ★2](https://github.com/lawnstarter/react-native-hotspot) -  React Native组件，可在所需组件上显示热点，以帮助引导用户完成新手入门流程或将其引导至新的UI元素
+* [react-navigation-magic-move ★62](https://github.com/IjzerenHein/react-navigation-magic-move) - 使用react-navigation与react-native-magic-move B（共享元素转换）的绑定
+
 
 #### Navigation/Routing Articles
 
@@ -648,6 +682,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [movieapp ★1441](https://github.com/JuneDomingo/movieapp) - 发现电影和电视节目 - 它使用redux和wix / react-native-navigation
 * [ExNavRelay ★23](https://github.com/sibelius/ExNavRelay) -  React Native + Ex-navigation + Relay集成模板
 * [React Native Example App: Navigation](http://tech.taskrabbit.com/blog/2015/09/21/react-native-example-app/)
+* [React Native Drawer & Bottom-Tab Navigation ★6](https://github.com/tassdr/react-native-template)
+
 
 ### Deep Linking
 
@@ -680,6 +716,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-segment-io-analytics ★68](https://github.com/smore-inc/react-native-segment-io-analytics) -  React Native Segment包装器！
 * [react-native-td ★26](https://github.com/quipper/react-native-td) - 用于Treasure Data的非官方React Native SDK.
 * [react-native-ux-cam ★32](https://github.com/negativetwelve/react-native-ux-cam) - 针对uxcam.com的React Native包装器.
+* [react-native-flurry-sdk ★15](https://github.com/flurry/react-native-flurry-sdk)   -  Flurry SDK的官方React Native包装器.  支持Android，iOS和tvOS.
 
 ### Utils & Infra
 
@@ -701,15 +738,16 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-global-event-emitter ★50](https://github.com/paramaggarwal/react-native-global-event-emitter) -  React Native的native和JS之间的共享事件发射器.
 * [react-native-aws-signature ★42](https://github.com/leimd/react-native-aws-signature)   - 帮助生成使用AWS API所需的签名.  必须使用S3，ec2或其他服务.
 * [react-native-html-parser ★38](https://github.com/g6ling/react-native-html-parser) - 解析反应原生的html
-* [react-native-console-time-polyfill ★45](https://github.com/MaxGraey/react-native-console-time-polyfill) -  console.time和console.timeEnd反应填充本地的polyfill
+* [react-native-console-time-polyfill ★45](https://github.com/MaxGraey/react-native-console-time-polyfill) -  console.time和console.timeEnd反应原生的polyfill
 * [react-native-rsa ★41](https://github.com/z-hao-wang/react-native-rsa) - 用于反应原生的RSA加密库
 * [react-native-hour-format ★20](https://github.com/SoftwareMansion/react-native-hour-format) - 从操作系统设置中获取小时格式.
 * [react-native-aes ★24](https://github.com/mvayngrib/react-native-aes) -  AES in react-native
 * [react-native-des ★20](https://github.com/remobile/react-native-des) - 反应原生的des加密
-* [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - Simple testing configuration for React Native with Jest
+* [react-native-babel-jest ★15](https://github.com/apentle/react-native-babel-jest) - 使用Jest进行React Native的简单测试配置
 * [react-native-simple-encryption ★14](https://github.com/BhavanPatel/react-native-simple-encryption) - 针对react-native的简单XOR和base_64加密解密
 * [react-native-immutable ★12](https://github.com/thewei/react-native-immutable) - 使用带有react-native的immutable.js库
 * [react-native-util ★12](https://github.com/exponentjs/react-native-util) - 与React Native一起使用的io.js的util模块的一个分支
+* [react-native-referrer ★11](https://github.com/JeandeCampredon/react-native-referrer) -  React Native仅限android库以检索广告系列引荐来源.
 * [react-native-webpackager-server ★6](https://github.com/changfuguo/react-native-webpackager-server) - 响应本机webpackager服务器
 * [react-native-fluxbone ★5](https://github.com/jgable/react-native-fluxbone) - 一组帮助React Native中的FluxBone模式的库
 * [react-native-cross-settings ★5](https://github.com/aMarCruz/react-native-cross-settings) - 针对Android和iOS的React Native Settings模块.
@@ -717,6 +755,9 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-HsvToRgb ★3](https://github.com/Copypeng/react-native-HsvToRgb) - 将HSV（HSB）颜色转换为RGB的助手.
 * [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - 用于响应本机项目开发的工具
 * [react-native-call-observer](https://github.com/liamse/react-native-call-observer) - 帮助观察呼入状态，如传入，结束和连接（iOS）.
+* [pixels-catcher ★26](https://github.com/rumax/react-native-PixelsCatcher) - 用于测试React Native UI组件和屏幕的库
+* [react-native-iphone-se-helper ★0](https://github.com/heyman333/react-native-iphone-se-helper) - 用于开发iphone SE尺寸的工具.
+
 
 ### Forms
 
@@ -758,7 +799,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 ### Build & Development
 
 * [reactotron ★9198](https://github.com/skellock/reactotron) - 从您的终端舒适地控制，监控和检测您的React Native应用程序.
-* [react-native-code-push ★5184](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
+* [react-native-code-push ★5184](https://github.com/Microsoft/react-native-code-push) -  CodePush服务的React Native插件
 * [react-native-webpack-server ★935](https://github.com/mjohnston/react-native-webpack-server) - 使用Webpack构建React Native应用程序
 * [generator-rn-toolbox ★800](https://github.com/bamlab/generator-rn-toolbox) -  Yeoman发电机启动您的项目并设置持续部署.
 * [babel-preset-react-native-stage-0 ★97](https://github.com/skevy/babel-preset-react-native-stage-0) - 使用最新的Javascript好东西预设的Babel
@@ -786,7 +827,8 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-prism ★10](https://github.com/tmpfs/prism) -  React Native的最小，惯用的样式管理
 * [styled-react-native](https://github.com/jsifalda/styled-react-native)   - 高级反应原生样式与简单的方法（样式覆盖，组件组成，增强的样式属性）.  完整的介绍 [this Medium article](https://medium.com/@JSifalda/advanced-react-native-styling-with-a-few-lines-of-code-4b6a94385015).
 * [react-native-paint ★5](https://github.com/brankeye/react-native-paint)   -  React Native StyleSheet的主题抽象.  阅读它 [here](https://medium.com/@brankeye/making-easily-themeable-react-native-stylesheets-bd8782b4e685).
-* [binstorm ★5](https://github.com/binbytes/binstorm) - BinStorm is a React Native styling utility for rapidly building custom user interfaces. Read about it [here](https://docs-binstorm.binbytes.com/).
+* [binstorm ★5](https://github.com/binbytes/binstorm)   -  BinStorm是一个React Native样式实用程序，用于快速构建自定义用户界面.  阅读它 [here](https://docs-binstorm.binbytes.com/).
+* [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss) - 基于TailwindCSS的反应原生样式系统.
 
 ### System
 
@@ -826,6 +868,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-sensor-manager ★172](https://github.com/kprimice/react-native-sensor-manager)   - 反应原生的包装器，提供本机传感器访问.  （陀螺仪，加速度计，磁力计，温度计...）
 * [react-native-unified-contacts ★120](https://github.com/joshuapinter/react-native-unified-contacts) -  React Native iOS 9+联系人（ios）
 * [react-native-pinch ★130](https://github.com/localz/react-native-pinch) - 用于反应原生的SSL固定
+* [react-native-ssl-pinning ★20](https://github.com/MaxToyberman/react-native-ssl-pinning) - 使用Android上的OkHttp 3和iOS上的AFNetworking对本机SSL进行固定
 * [react-native-haptic ★137](https://github.com/charlesvinette/react-native-haptic) - 针对React Native应用程序的iOS 10 +触觉反馈
 * [react-native-discovery ★89](https://github.com/yonahforst/react-native-discovery)   - 使用BLE发现附近的设备.  将iOS和Android设备变为信标
 * [react-native-addressbook ★81](https://github.com/rt2zz/react-native-addressbook) - 用于react-native的AddressBook模块
@@ -925,7 +968,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 ### Storage
 
 * [realm ★3184](https://github.com/realm/realm-js) -  SQLite和键值存储的替代移动数据库.
-* [WatermelonDB ★4649](https://github.com/Nozbe/WatermelonDB) - 强大的React和React Native应用程序的下一代数据库，可扩展到10,000个记录并保持快速.
+* [WatermelonDB ★4649](https://github.com/Nozbe/WatermelonDB) - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast.
 * [react-native-storage ★2115](https://github.com/sunnylqm/react-native-storage)   - 这是react-native（AsyncStorage）和浏览器（localStorage）的本地存储包装器.  需要ES6 / babel.
 * [react-native-sqlite-storage ★1508](https://github.com/andpor/react-native-sqlite-storage) - 针对React Native的SQLite3绑定（Android和iOS）
 * [react-native-simple-store ★731](https://github.com/jasonmerino/react-native-simple-store) -  React Native的AsyncStorage的简约包装器.
@@ -986,7 +1029,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-voximplant ★126](https://github.com/voximplant/react-native-voximplant) -  VoxImplant Mobile SDK，用于将语音和视频通信嵌入到React Native应用程序中.
 * [react-native-fabric-digits ★112](https://github.com/JeanLebrument/react-native-fabric-digits) React-Native的Fabric Digits包装器
 * [react-native-braintree ★104](https://github.com/alawong/react-native-braintree) - 使用Braintree的v.zero SDK（目前仅限iOS）集成付款的反应原生界面
-* [instabug-reactnative ★122](https://github.com/Instabug/instabug-reactnative) - 用于Bug报告Instabug SDK的React Native包装器.
+* [instabug-reactnative ★122](https://github.com/Instabug/instabug-reactnative) - A React Native wrapper for Bug reporting Instabug SDK.
 * [react-native-signalr ★100](https://github.com/olofd/react-native-signalr) -  SignalR-client for react-native
 * [react-native-twilio ★87](https://github.com/rogchap/react-native-twilio) -  Twilio Client SDK的React Native包装器.
 * [react-native-qqsdk ★83](https://github.com/iVanPan/react-native-qqsdk)   - 针对Android和iOS的腾讯QQ SDK的React Native包装器.  提供对QQ ssoLogin，QQ共享，QQ区域共享等的访问.
@@ -996,6 +1039,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-twilio-programmable-voice ★86](https://github.com/hoxfon/react-native-twilio-programmable-voice) -  Twilio可编程语音SDK的React Native包装器.
 * [react-native-digits ★60](https://github.com/fixt/react-native-digits) - 在React Native中使用的数字包装器
 * [react-native-linkedin-login ★69](https://github.com/jodybrewster/react-native-linkedin-login) -  Linkedin登录您的反应原生应用程序
+* [react-native-spring-scrollview ★64](https://github.com/bolan9999/react-native-spring-scrollview) -  React Native Spring ScrollView V2是一个高性能的跨平台本机反弹ScrollView for React Native.（iOS和Android）
 * [react-native-instagram-oauth ★63](https://github.com/watzak/react-native-instagram-oauth) -  react-native instagram登录
 * [react-native-realtimemessaging-android ★53](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) -  React-Native Android的实时框架云消息发布/订阅客户端
 * [react-native-onepassword ★52](https://github.com/DriveWealth/react-native-onepassword) - 与OnePassword扩展进行React Native集成.
@@ -1023,7 +1067,7 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)-  React Native的Heyzap插件
 * [react-native-launch-navigator](https://github.com/dpa99c/react-native-launch-navigator) -  React Native模块从单个API（Android和iOS）启动流行的导航/骑行应用程序
 * [react-native-fitness ★17](https://github.com/OvalMoney/react-native-fitness) - 与Apple Healthkit和Google Fit交互的React Native模块
-
+* [react-native-agora +190](https://github.com/syanbo/react-native-agora) -  React Native Agora WebRTC Wrapper.
 ### Monetization
 
 * [react-native-admob ★713](https://github.com/sbugert/react-native-admob) -  Google AdMob横幅的反应原生组件.
@@ -1038,6 +1082,12 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-spruce ★412](https://github.com/prscX/react-native-spruce) - 针对云杉动画库的React Native Bridge
 * [react-native-gl-model-view ★210](https://github.com/rastapasta/react-native-gl-model-view) - 显示和动画纹理Wavefront .OBJ 3D模型，60fps（iOS）
 * [react-native-animated-sprite ★104](https://github.com/micahrye/react-native-animated-sprite) - 用于动画，补间和拖动精灵的功能丰富的声明性组件.
+* [react-native-magic-move ★402](https://github.com/IjzerenHein/react-native-magic-move) - 在react-native scenes（共享元素转换）中创建场景之间的神奇移动过渡
+
+### Extension
+
+* [React Native Android Widget Proof of Concept ★127](https://github.com/netbeast/react-native-android-widget-poc) -  React Native中的Android小部件概念证明
+* [React Native Today Widget ★190](https://github.com/matejkriz/react-native-today-widget) -  React Native中的iOS Today Widget扩展
 
 ### Other Platforms
 
@@ -1045,15 +1095,16 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [react-native-web ★10904](https://github.com/necolas/react-native-web) -  React Native for Web
 * [reactxp ★7268](https://github.com/Microsoft/reactxp) - 用于跨平台应用程序开发的库
 * [react-native-windows ★5547](https://github.com/ReactWindows/react-native-windows) -  React Native for Universal Windows Platform
-* [react-native-tvos-controller ★15](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
+* [react-native-tvos-controller ★15](https://github.com/ycinfinity/react-native-tvos-controller) - 用于反应原生的TvOS远程控制器模块.
 * [react-native-watchkit ★1](https://github.com/MystK/react-native-watchkit) - 为WatchKit做出原生反应
+* [@areslabs/alita ★392](https://github.com/areslabs/alita) - react native for mini-program(微信小程序)
 
 ## Utilities
 
 有用的React Native工具.
 
 * [react-native-debugger ★4017](https://github.com/jhen0409/react-native-debugger) -  React Native Debugger的独立应用程序，带有React DevTools / Redux DevTools
-* [rn-diff-purge ★64](https://github.com/pvinis/rn-diff-purge)   - 升级React Native版本的最简单方法.  您可以找到每个React Native版本的差异，这些版本是通过在新版本中使用新创建的应用程序来扩展先前版本而创建的.
+* [rn-diff-purge ★64](https://github.com/pvinis/rn-diff-purge)   - 升级React Native版本的最简单方法.  您可以找到每个React Native版本的差异，这些版本是通过在新版本中使用新创建的应用程序区分旧版本而创建的.
 * [haul ★2711](https://github.com/callstack-io/haul) - 用于开发React Native应用程序的命令行工具
 * [rnpm ★2408](https://github.com/rnpm/rnpm) - 响应本机包管理器
 * [generact ★1125](https://github.com/diegohaz/generact) - 无论您如何构建应用程序，CLI都会根据现有组件生成组件
@@ -1069,15 +1120,15 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [rsx ★29](https://github.com/react-native-contrib/rsx) - “react-native”CLI工具的替代方案
 * [ADB Auto Restarter ★8](https://github.com/mahanhaz/adb-auto-restarter) - 在使用设备调试应用程序时崩溃时自动重启ADB服务.
 * [rn-nodeify ★6](https://github.com/mvayngrib/rn-nodeify) -  hack允许react-native项目使用节点核心模块
-* [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - 用于测量React Native屏幕上像素尺寸的开发工具
+* [react-native-ruler ★3](https://github.com/lfkwtz/react-native-ruler) - 用于测量React Native屏幕上像素尺寸的devtool
 * [BuilderX](https://builderx.io/) - 为您编写React Native代码的设计工具，Desktop Mac应用程序可替代您的传统UX设计工具.
 * [CodePush](http://microsoft.github.io/code-push/) - 立即将代码更新推送到您的应用程序
 * [Storybook](https://storybook.js.org) -  React组件的UI开发环境
-* [AppHub](https://apphub.io/) - Update React Native apps, instantly
 * [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/)   - 记录本机和JS错误的工具.  有免费套餐.  包括有关用户，环境，会话，发布等的有用数据.
 * [React Native Playground](https://rnplay.org/) - 通过实时模拟器在浏览器中运行React Native应用程序
 * [exponent](https://expo.io/) - 使用没有XCode的React Native（预览应用程序+本地服务器基础结构）
 * [Deco IDE](https://www.decosoftware.com/) - 使用组件管理器实现Native IDE
+* [Appitr IDE](https://www.appitr.com/) - 具有样板向导的在线React Native IDE.
 
 ## Seeds
 
@@ -1088,13 +1139,14 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [Snowflake ★4321](https://github.com/bartonhammond/snowflake) -  Android和iOS，Redux，Jest（88％覆盖率），Immutable，Parse.com
 * [native-starter-kit ★1506](https://github.com/start-react/native-starter-kit) -  React Native + NativeBase + React Navigation + Redux + CodePush应用程序（iOS和Android）的入门套件
 * [React Native Meteor Boilerplate ★615](https://github.com/spencercarli/react-native-meteor-boilerplate)
+* [react-native-easy-starter](https://github.com/HarishJangra/react-native-easy-starter) -  React-native入门套件，使用最新的React和React-Native，简单易用，代码推送，反应原生文件，钩子工作流程，contextapis，主题支持等等（android + ios）
 * [React Native Hackathon Starter ★732](https://github.com/dabit3/react-native-hackathon-starter)   -  React Native Starter Project，非常适合黑客马拉松或快速原型制作.  包括选项卡，导航，Redux，React Native Vector图标和React Native Elements
 * [React Native Seed ★504](https://github.com/GeekyAnts/react-native-seed)   - 一套React Native Boilerplates可供选择.  用于状态管理的MobX或Redux，用于静态类型检查的TypeScript或Flow以及用于堆栈的CRNA或普通React Native  - 由Native Base的创建者提供.
 * [ReactNativeTS ★353](https://github.com/mrpatiwi/ReactNativeTS) -  Typescript中React Native项目的Boilerplate.
 * [🚀 React Native Starter ★388](https://github.com/flatlogic/react-native-starter) - 一个功能强大的入门模板，用于引导您的移动应用程序的开发.
-* [react-native-auth-boilerplate ★302](https://github.com/hasura/react-native-auth-boilerplate) - 已实现身份验证的React Native样板.
 * [react-native-babel ★241](https://github.com/roman01la/react-native-babel)
 * [react-native-starter by Ueno ★311](https://github.com/ueno-llc/react-native-starter) - 专业的react-native入门套件，包含部署坚如磐石的应用程序所需的一切
+* [react-native-vanilla ★185](https://github.com/pavjacko/react-native-vanilla)   - 使用React Native构建通用跨平台应用程序.  包括最新的“iOS”，“tvOS”，“Android”，“Android TV”，“Android Wear”，“Web”，“Tizen TV”，“Tizen Watch”，“LG webOS”，“macOS / OSX”， Windows`和`KaiOS`平台
 * [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
 * [react-native-redux ★160](https://github.com/sibelius/react-native-redux) -  React Native + Redux + Redux Saga
 * [react-native-hot-redux-starter ★135](https://github.com/adampash/react-native-hot-redux-starter)
@@ -1107,14 +1159,13 @@ site](https://facebook.github.io/react/docs/conferences.html).
 * [React-Native-Starter-Pack ★40](https://github.com/iSimar/React-Native-Starter-Pack) -  React Native 0.34 + React-Redux（带有Redux-Storage）+ Native Base + Code Push
 * [react-native-relay-example ★38](https://github.com/sibelius/react-native-relay-example) -  React Native使用Relay
 * [TheCodingMachine boilerplate ★102](https://github.com/thecodingmachine/react-native-boilerplate) -  React Native样板，通过分离关注点来促进可靠的架构.
-* [Reactor ★43](https://github.com/Jerameel/Reactor) - 使用redux和react-navigation的动态react-native starter模板.
 * [MeteorNative Boilerplate ★23](https://github.com/redbaron76/MeteorNative) - 带有Redux的React Native和Meteor样板文件.
 * [rn-mobx-template ★17](https://github.com/hiaw/rn_mobx_template) - 使用MobX模板React Native
 * [react-native-boilerplate-chucknorris ★15](https://github.com/Ali-Ayyad/react-native-boilerplate-chucknorris) -  React Native + React Navigation + React Native Elements（iOS和Android）的样板
-* [react-native-vanilla ★35](https://github.com/pavjacko/react-native-vanilla)   - 基于反应原生的最基本的跨平台项目模板.  包括最新的iOS，tvOS，Android，Android TV，Web和Tizen平台
 * [react-native-template-super ★7](https://github.com/lohanitech/react-native-template-super) - 用于react-native + React Navigation + Redux + Redux Persist的turbo启动器模板
 * [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) -  React Native使用RNRF，抽屉和继电器
 * [React Native Starter Kit](https://github.com/instamobile/react-native-starter-kit) - 具有用户入门元素的React Native入门套件，包括Firebase Auth和Facebook Login集成.
+* [react-int](https://github.com/leafOfTree/react-int) - 使用reactx和react-native与redux和redux-saga的简单方法.
 
 ## Libraries
 
@@ -1141,6 +1192,7 @@ React Native开发的库/ SDK类型添加.
 * [Dribbble React Native ★1927](https://github.com/catalinmiron/react-native-dribbble-app)
 * [react-native-gitfeed ★1709](https://github.com/xiekw2010/react-native-gitfeed) - 另一个用react-native（iOS和android）编写的Github客户端
 * [Finance React Native ★1680](https://github.com/7kfpun/FinanceReactNative) - 用于演示目的的React Native编写的iOS股票应用程序克隆.
+* [Quirk 🐙 ★965](https://github.com/flaque/quirk) - 适用于iOS和Android的认知行为疗法.
 * [TaskRabbit's Sample App ★802](https://github.com/taskrabbit/ReactNativeSampleApp) -  Task Rabbit的应用程序制作的测试平台
 * [React Weather ★702](https://github.com/stage88/react-weather) - 使用React Native构建的简单天气应用程序
 * [react-native-sudoku ★540](https://github.com/nihgwu/react-native-sudoku) - 用React Native编写的数独游戏
@@ -1235,20 +1287,20 @@ React Native开发的库/ SDK类型添加.
 * [FastBuy](https://github.com/Bruno-Furtado/fastbuy-app) - 用于管理虚拟商店（使用React Native和Redux构建）的产品的应用程序.
 * [Hydropuzzle](https://github.com/hydropuzzle/hydropuzzle) - 时尚益智冒险游戏.
 * [Github-Gist](https://github.com/Arjun-sna/react-native-githubgist-client) - 为github gist反应原生移动应用程序
-* [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - Minimalist and stylish lyrics search app.
+* [Lyrics King](https://github.com/SKempin/Lyrics-King-React-Native) - 极简主义和时尚的歌词搜索应用程序.
 
 ## Frameworks
 
 * [NativeBase ★10520](https://github.com/GeekyAnts/NativeBase) - 在React Native之上构建一个层，为您提供移动应用程序开发的基本组件集
 * [Awesome React Native Meteor ★152](https://github.com/meteor-factory/awesome-react-native-meteor) - 一起使用Meteor和React Native的绝佳资源列表
 * [React Native Diagnose ★13](https://github.com/netbeast/react-native-diagnose) - 在运行时和生产期间测试React Native应用程序的框架
+* [first-born ★106](https://github.com/99xt/first-born) - 具有预构建组件的UI框架，可根据底层移动平台单独呈现.
 
 ## Tutorials
 
 演练和教程可以帮助您学习React Native.
 
 * [Fully-immersive, hands-on, and fun learning experience for React Native ★825](https://github.com/jondot/ReactNativeKatas)
-* [React Native Android Widget Proof of Concept ★110](https://github.com/netbeast/react-native-android-widget-poc)
 * [React Native with Django backend ★12](https://github.com/shunpochang/connect_love_mobile_demo)
 * [Setting up background tasks that run periodically when app is closed in React Native](https://hackernoon.com/easy-os-background-tasks-in-react-native-bc4476c48b8a)
 * [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
@@ -1281,6 +1333,7 @@ React Native开发的库/ SDK类型添加.
 * [Building a Minimalist Weather App with React Native and Expo](https://blog.expo.io/building-a-minimalist-weather-app-with-react-native-and-expo-fe7066e02c09)
 * [Getting Started with Lottie, React Native and Expo](https://hackernoon.com/react-native-getting-started-with-lottie-and-expo-8b2105fbb496)
 * [How to integrate Redux into your application with React Native and Expo](https://medium.freecodecamp.org/how-to-integrate-redux-into-your-application-with-react-native-and-expo-ec37c9ca6033)
+* [React Native for Designers](https://designcode.io/react-native)
 
 ## Books
 
@@ -1291,7 +1344,7 @@ React Native开发的库/ SDK类型添加.
 
 书籍 - 出售.
 
-* [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up.
+* [React Native In Action](https://www.manning.com/books/react-native-in-action) - 学习如何使用React Native从头开始构建应用程序.
 * [React Native - Building Mobile Apps with JavaScript](https://www.packtpub.com/application-development/react-native-building-mobile-apps-javascript) - 使用React和JavaScript创建真正的原生iOS和Android移动应用程序的入门指南.
 * [Fullstack React Native](https://fullstackreact.com/react-native/) -  React Native的最新，深入，完整指南.
 
@@ -1322,14 +1375,14 @@ React Native开发的库/ SDK类型添加.
 * Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
 * Udemy.com: [Build apps with React Native](https://www.udemy.com/the-complete-react-native-and-redux-course/)
 * Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
-* [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - 西班牙语的Youtube频道与一系列视频谈论反应原生
-* Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - 介绍构建React Native应用程序和学习基础部分.
+* [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) -  Youtube频道用西班牙语讲述了一系列关于本地反应的视频
+* Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - 介绍构建React Native应用程序和学习基础知识.
 * Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - 使用React Native和Meteor构建应用程序的综合课程和社区.
 * [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - （免费）一个多小时的深入视频课程，向您展示如何使用React Native构建应用程序.
 * [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - （免费）一个简单的阿拉伯语视频系列，向您展示如何使用React Native构建报纸应用程序.
 * [Build a Weather app ](https://cloneable.io/courses/enrolled/103341) - （免费）使用React Native构建天气应用程序的课程.
 * [Building Youtube UI in 30 Minutes](https://www.youtube.com/watch?v=LdKtugH-sb8)   - 一个快速教程，展示如何使用React Native构建Youtube Mobile应用程序的UI.  本教程有助于从头开始编写设计.
-* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - This tutorial shows how to easily add authentication to a React Native application using [AWS Mobile Hub](https://aws.amazon.com/mobile/)
+* [Adding Authentication to a React Native Project](https://www.youtube.com/watch?v=dhOk7aNIzKw) - 本教程介绍如何使用使用的方法轻松地向React Native应用程序添加身份验证 [AWS Mobile Hub](https://aws.amazon.com/mobile/)
 * Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE) - 逐步了解如何使用Fastlane和Bitrise自动将React Native应用程序发布到Stores中.
 * [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) 用`tcomb-form-native`
 * [Build a chat app with React Native](https://pusher.com/tutorials/chat-react-native)
@@ -1347,6 +1400,7 @@ React Native开发的库/ SDK类型添加.
 * [Spencer Carli](https://medium.com/@spencer_carli)
 * [Official React Native Blog](http://facebook.github.io/react-native/blog/)
 * [reactnative.gallery](https://reactnative.gallery/) - 显示并告诉React Native开发人员
+* [Ideamotive blog](https://ideamotive.co/blog/category/react-native/) - 关于React Native的博客
 
 ## Newsletters
 

@@ -73,6 +73,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Evidence collection
 
+- [AutoMacTC](https://github.com/CrowdStrike/automactc) - 模块化，自动化的取证分类收集框架，旨在访问macOS上的各种取证工件，解析它们，并以可用于分析的格式呈现它们.
 - [OSXAuditor](https://github.com/jipegit/OSXAuditor) - 免费macOS计算机取证工具.
 - [OSXCollector](https://github.com/Yelp/osxcollector) - 针对macOS的法证证据收集和分析工具包.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -  Windows批处理脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
@@ -99,7 +100,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 ## Network Security Monitoring (NSM)
 
 - [Bro](https://www.bro.org/) - 强大的网络分析框架，侧重于安全监控.
-- [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于pynids的解码器和APT行业探测器的框架.
+- [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
 - [Respounder](https://github.com/codeexpress/respounder) - 检测网络上响应者LLMNR / NBT-NS / MDNS中毒的存在.
 - [Security Monkey](https://github.com/Netflix/security_monkey) - 监控您的AWS和GCP帐户，以了解有关不安全配置的策略更改和警报.
@@ -190,7 +191,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时的攻击工具.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 针对Microsoft的审核Windows主机的根证书存储区 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - 从主机名列表中建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
-- [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - Group Policy objects, compliance checks, and configuration tools that provide an automated and flexible approach for securely deploying and maintaining the latest releases of Windows 10.
+- [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - 组策略对象，合规性检查和配置工具，为安全部署和维护最新版本的Windows 10提供自动且灵活的方法.
 - [WMI Monitor](https://github.com/realparisi/WMI_Monitor) - 将新创建的WMI使用者和进程记录到Windows应用程序事件日志中.
 
 ## License

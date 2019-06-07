@@ -111,7 +111,7 @@
 * [env](https://github.com/codingconcepts/env) - 结构的基于标记的环境配置.
 * [flag](https://github.com/cosiner/flag) -  Go支持子命令的简单但功能强大的命令行选项解析库.
 * [flaggy](https://github.com/integrii/flaggy) - 一个强大的惯用标志包，具有出色的子命令支持.
-* [flagvar](https://github.com/sgreben/flagvar) -  Go的标准`flag`包的标志参数类型的集合.
+* [flagvar](https://github.com/sgreben/flagvar) - A collection of flag argument types for Go's standard `flag` package.
 * [go-arg](https://github.com/alexflint/go-arg) -  Go中基于struct的参数解析.
 * [go-commander](https://github.com/yitsushi/go-commander) - 使用库来简化CLI工作流程.
 * [go-flags](https://github.com/jessevdk/go-flags) -  go命令行选项解析器.
@@ -232,7 +232,7 @@
 * [cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - 布谷鸟过滤器：Go中实现的计数布隆过滤器的一个很好的替代品.
 * [deque](https://github.com/edwingeng/deque) - 高度优化的双端队列.
 * [deque](https://github.com/gammazero/deque) - 快速环缓冲双端队列（双端队列）.
-* [dict](https://github.com/srfrog/dict) - Python-like dictionaries (dict) for Go.
+* [dict](https://github.com/srfrog/dict) -  Go的类似Python的词典（dict）.
 * [encoding](https://github.com/zhenjl/encoding) -  Go的整数压缩库.
 * [go-adaptive-radix-tree](https://github.com/plar/go-adaptive-radix-tree) - 实现自适应基数树.
 * [go-datastructures](https://github.com/Workiva/go-datastructures) - 收集有用，高性能和线程安全的数据结构.
@@ -259,7 +259,7 @@
 * [ring](https://github.com/TheTannerRyan/ring) - 实现高性能，线程安全的布隆过滤器.
 * [roaring](https://github.com/RoaringBitmap/roaring) -  Go包实现压缩位集.
 * [set](https://github.com/StudioSol/set) - 使用LinkedHashMap在Go中简单设置数据结构.
-* [skiplist](https://github.com/MauriceGit/skiplist) - Very fast Go Skiplist implementation.
+* [skiplist](https://github.com/MauriceGit/skiplist) - 非常快的Go Skiplist实施.
 * [skiplist](https://github.com/gansidui/skiplist) -  Go中的Skiplist实现.
 * [timedmap](https://github.com/zekroTJA/timedmap) - 使用过期键值对映射.
 * [treap](https://github.com/perdata/treap) - 使用树堆的持久，快速排序的地图.
@@ -388,7 +388,7 @@
     * [gocb](https://github.com/couchbase/gocb) - 官方Couchbase Go SDK.
     * [gocql](http://gocql.github.io) - 转到Apache Cassandra的语言驱动程序.
     * [godscache](https://github.com/defcronyke/godscache) -  Google Cloud Platform Go数据存储区程序包的包装程序，使用memcached添加缓存.
-    * [gomemcache](https://github.com/bradfitz/gomemcache/) - 用于Go编程语言的memcache客户端库.
+    * [gomemcache](https://github.com/bradfitz/gomemcache/) - memcache client library for the Go programming language.
     * [gorethink](https://github.com/dancannon/gorethink) - 转到RethinkDB的语言驱动程序.
     * [goriak](https://github.com/zegl/goriak) - Go language driver for Riak KV.
     * [mgo](https://github.com/globalsign/mgo) - （未维护）Go语言的MongoDB驱动程序，它根据标准Go习惯用非常简单的API实现了丰富且经过良好测试的功能选择.
@@ -545,7 +545,7 @@
 * [pdfcpu](https://github.com/hhrutter/pdfcpu) -  PDF处理器.
 * [skywalker](https://github.com/dixonwille/skywalker) - 允许一个人轻松地同时通过文件系统的包.
 * [stl](https://gitlab.com/russoj88/stl)   - 用于读写STL（立体光刻）文件的模块.  并发算法用于阅读.
-* [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) 用于获取文件.
+* [tarfs](https://github.com/posener/tarfs) - 实施 [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) for tar files.
 * [vfs](https://github.com/C2FO/vfs) - 用于跨越多种文件系统类型（如os，S3和GCS）的Go的可插入，可扩展和固定的文件系统功能集.
 
 ## Financial
@@ -722,6 +722,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [geopattern](https://github.com/pravj/geopattern) - 从字符串创建美丽的生成图像模式.
 * [gg](https://github.com/fogleman/gg) - 纯Go中的2D渲染.
 * [gift](https://github.com/disintegration/gift) - 图像处理过滤器包.
+* [gltf](https://github.com/qmuntal/gltf) - 高效，强大的glTF 2.0读写器，编写器和验证器.
 * [go-cairo](https://github.com/ungerik/go-cairo) - 转到cairo图形库的绑定.
 * [go-gd](https://github.com/bolknote/go-gd) - 转到GD库的绑定.
 * [go-nude](https://github.com/koyachi/go-nude) - 使用Go检测裸露.
@@ -1549,7 +1550,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [command](https://github.com/txgruppi/command) -  Go的命令模式，带有线程安全的串行和并行调度程序.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) - 通用多工作站剪贴板，使用S3作为存储后端.
 * [ctop](https://github.com/bcicen/ctop) - [Top-like](http://ctop.sh) 容器指标的界面（例如htop）.
-* [ctxutil](https://github.com/posener/ctxutil) - A collection of utility functions for contexts.
+* [ctxutil](https://github.com/posener/ctxutil) - 用于上下文的实用程序函数的集合.
 * [Death](https://github.com/vrecan/death) - 使用信号管理应用程序关闭.
 * [Deepcopier](https://github.com/ulule/deepcopier) -  Go的简单结构复制.
 * [delve](https://github.com/derekparker/delve) - 去调试器.
@@ -1630,7 +1631,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [request](https://github.com/mozillazg/request) - 针对Humans™的HTTP请求.
 * [rerate](https://github.com/abo/rerate) -  Go的基于Redis的速率计数器和速率限制器.
 * [rerun](https://github.com/ivpusic/rerun) - 在源更改时重新编译并重新运行应用程序.
-* [resty](https://github.com/go-resty/resty) - 受Ruby rest-client启发的Go的简单HTTP和REST客户端.
+* [resty](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 * [retry](https://github.com/kamilsk/retry) - 最先进的功能机制，重复执行操作直到成功.
 * [retry](https://github.com/percolate/retry) -  Go的简单但高度可配置的重试包.
 * [retry](https://github.com/thedevsaddam/retry) -  Go简单易用的重试机制包.
@@ -1797,7 +1798,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Siesta](https://github.com/VividCortex/siesta) - 用于编写中间件和处理程序的可组合框架.
 * [vestigo](https://github.com/husobee/vestigo) - 用于go web应用程序的高性能，独立，HTTP兼容的URL路由器.
 * [violetear](https://github.com/nbari/violetear) - 去HTTP路由器.
-* [xmux](https://github.com/rs/xmux) - High performance muxer based on `httprouter` with `net/context` support.
+* [xmux](https://github.com/rs/xmux) - 基于`httprouter`并支持`net / context`的高性能复用器.
 * [xujiajun/gorouter](https://github.com/xujiajun/gorouter) -  Go的简单快速HTTP路由器.
 
 ## Windows
@@ -1978,7 +1979,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Juju](https://jujucharms.com/) - 与云无关的服务部署和编排 - 支持EC2，Azure，Openstack，MAAS等.
 * [Leaps](https://github.com/jeffail/leaps) - 使用Operational Transforms对编程服务.
 * [lgo](https://github.com/yunabe/lgo)   - 使用Jupyter进行Interactive Go编程.  它支持代码完成，代码检查和100％Go兼容性.
-* [limetext](http://limetext.org/) -  Lime Text是一个强大而优雅的文本编辑器，主要在Go中开发，旨在成为Sublime Text的免费开源软件继承者.
+* [limetext](http://limetext.org/) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
 * [LiteIDE](https://github.com/visualfc/liteide) -  LiteIDE是一个简单的开源跨平台Go IDE.
 * [mockingjay](https://github.com/quii/mockingjay-server)   - 从一个配置文件伪造HTTP服务器和消费者驱动的合同.  您还可以使服务器随机出现异常，以帮助进行更实际的性能测试.
 * [myLG](https://github.com/mehrdadrad/mylg) - 用Go编写的命令行网络诊断工具.
@@ -2069,7 +2070,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gopher-vector](https://github.com/golang-samples/gopher-vector)
 * [gophericons](https://github.com/shalakhin/gophericons)
 * [gopherize.me](https://github.com/matryer/gopherize.me) - 自己动手吧.
-* [gophers](https://github.com/ashleymcnamara/gophers) - Gopher artworks by Ashley McNamara.
+* [gophers](https://github.com/ashleymcnamara/gophers) -  Ashley McNamara的Gopher作品.
 * [gophers](https://github.com/egonelbre/gophers) - 免费的地鼠.
 * [gophers](https://github.com/rogeralsing/gophers) - 随机gopher图形.
 * [gophers](https://github.com/sillecelik/go-gopher) -  Gopher amigurumi玩具图案.

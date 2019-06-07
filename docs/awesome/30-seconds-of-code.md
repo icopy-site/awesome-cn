@@ -1904,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-      arr.splice（arr.indexOf（val），1）;
-      return acc.concat（val）;
-    }, [])
+        arr.splice（arr.indexOf（val），1）;
+        return acc.concat（val）;
+      }, [])
     : [];
 ```
 
@@ -3153,7 +3153,7 @@ const getScrollPosition =（el = window）=&gt;（{
 使用`Window.getComputedStyle（）`获取指定元素的CSS规则的值.
 
 ```js
-const getStyle =（el，ruleName）=&gt; getComputedStyle（el）[ruleName];
+的getStyle =常数（的，RULENAME）=&gt;的getComputedStyle（下）[RULENAME];
 ```
 
 <details>
@@ -3296,7 +3296,7 @@ const insertBefore =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;befo
 
 ### isBrowserTabFocused
 
-如果页面的浏览器选项卡是聚焦的，则返回“true”，否则返回“false”.
+Returns `true` if the browser tab of the page is focused, `false` otherwise.
 
 使用Page Visibility API引入的`Document.hidden`属性来检查页面的浏览器选项卡是可见还是隐藏.
 
@@ -4223,6 +4223,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -5065,8 +5066,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -6350,11 +6351,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-        const val = obj [current];
-        acc [f（current）] =
+          const val = obj [current];
+          acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-        返回acc;
-      }, {})
+          返回acc;
+        }, {})
       ：obj;
 ```
 
@@ -6426,9 +6427,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if（acc！== undefined）return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if（acc！== undefined）return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>
@@ -7030,7 +7031,7 @@ const users = [{name：&#39;fred&#39;，年龄：48}，{name：&#39;barney&#39;�
 
 ### pick
 
-Picks the key-value pairs corresponding to the given keys from an object.
+从对象中挑选与给定键对应的键值对.
 
 如果对象中存在键，则使用`Array.prototype.reduce（）`将已过滤/拾取的键转换回具有相应键值对的对象.
 
@@ -8802,7 +8803,7 @@ httpPost(
 
 ### isBrowser
 
-Determines if the current runtime environment is a browser so that front-end modules can run on the server (Node) without throwing errors.
+确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
 `typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.
