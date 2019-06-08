@@ -44,8 +44,6 @@
 ## Blockchains for data
 
 - [Ocean Protocol](https://oceanprotocol.com/)   - 海洋议定书是一种分散的数据交换协议，允许人们共享数据并从中获利，同时保证所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据的存储（即谁拥有什么），数据本身的链接等等.
-- [starmine AI](http://starmine.ai/) -  Starmine是一个强大且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，用于机器学习和人工智能工作.
-- [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
 - [Neuromation](https://neuromation.io/) - 合成数据集生成和算法训练平台.
 - [BOTTOS AI](https://bottos.org/) - 分散式AI数据共享网络，使用基于共识的应用程序平台，允许AI项目收集培训数据.
 - [Computable](https://www.computable.io/) - 用于人工智能应用的分散式数据市场.
@@ -80,6 +78,8 @@
 这些项目不再有效.
 
 - [Dopamine](https://dopamine.ai/) - 权力下放的AI劳动力和服务市场。
+- [Trane AI](http://www.trane.ai/) - A decentralized economy for tagging, storing and modeling data for AI-training.
+- [starmine AI](http://starmine.ai/) -  Starmine是一个强大且高度可扩展的平台，用于构建，交易和交换先进的算法生成的按需数据集，用于机器学习和人工智能工作.
 
 ## License
 

@@ -946,6 +946,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [alice](https://github.com/magic003/alice) -  Golang的附加依赖注入容器.
 * [dig](https://github.com/uber-go/dig) -  Go的基于反射的依赖注入工具包.
 * [fx](https://github.com/uber-go/fx) - 基于依赖注入的Go应用程序框架（建立在挖掘之上）.
+* [gocontainer](https://github.com/vardius/gocontainer) - 简单的依赖注入容器.
 * [inject](https://github.com/defval/inject) - 具有简单接口的基于反射的依赖注入容器.
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
 

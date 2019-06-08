@@ -467,7 +467,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [NetworkX](https://networkx.github.io/) - 适用于复杂网络的高效软件
  * [Redash](https://redash.io/)
  * [C3](https://c3js.org/) - 基于D3的可重用图表库
-
+ * [TensorWatch](https://github.com/microsoft/tensorwatch) - 数据科学和机器学习的调试和可视化
 
 ## Journals, Publications and Magazines
 
@@ -533,3 +533,4 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers)
  - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
+ - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)

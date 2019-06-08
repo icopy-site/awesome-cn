@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  972 |  2019年6月4日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  973 |  2019年6月7日
 
 
 
@@ -96,7 +96,7 @@
 *查看这些项目的应用程序：* 
 * [Awesome iOS Interview](https://github.com/dashvlas/awesome-ios-interview) - 帮助您准备面试的问题列表.
 * [awesome-macOS](https://github.com/iCHAIT/awesome-macOS) - 为macOS提供的精彩应用程序，软件，工具和闪亮内容的精选列表.
-* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - An amazing list for people who are beginners and learning ios development and for ios developers who need any example app or feature.
+* [example-ios-apps](https://github.com/jogendra/example-ios-apps) - 适合初学者和学习ios开发人员以及需要任何示例应用程序或功能的ios开发人员的惊人列表.
 * [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - 开源iOS应用程序的协作列表.
 
 ## Dependency Managers
@@ -315,7 +315,7 @@
 ### Concurrency
 *更简单的并发处理方式.* [back to top](#readme) 
 
-* [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - 一整套并发和反应式编程原语.
+* [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 * [Futures](https://github.com/formbound/Futures) ：企鹅： -  iOS，macOS，tvOS，watchOS和服务器端的轻量级承诺.
 * [GroupWork](https://github.com/quanvo87/GroupWork) ：企鹅： - 简单的并发，异步任务.
 * [Hydra](https://github.com/malcommac/Hydra) -  Promises＆Await  - 编写更好的异步代码.
@@ -354,7 +354,7 @@
 * [Ballcap](https://github.com/1amageek/Ballcap-iOS) -  Ballcap是Cloud Firestore的数据库架构设计框架.
 
 #### JSON
-*Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
+ *使用json数据苦苦挣扎？  以下是一些有趣的方法来处理它.* [back to top](#readme) 
 
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -  Alamofire扩展，使用ObjectMapper将JSON响应数据转换为对象.
 * [Alembic](https://github.com/ra1028/Alembic) - 功能JSON解析，映射到对象，以及序列化为JSON.
@@ -534,6 +534,7 @@
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - 事件发射器和侦听器的实现.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - 未来/承诺图书馆.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - 将应用程序写入React和Redux.
+* [LightweightObservable](https://github.com/fxm90/LightweightObservable) - 可以订阅的可观察序列的轻量级实现.
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
@@ -546,7 +547,7 @@
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
 * [Signals](https://github.com/artman/Signals) - 替换代表和通知.
 * [Snail](https://github.com/UrbanCompass/Snail) - 一个Observables框架.
-* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对iOS优化的发布/订阅事件总线.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受Redux和MVVM启发的iOS开发的整体方法.
 * [Tokamak](https://github.com/MaxDesiatov/Tokamak) - 类似React的声明式API，用于构建具有易于使用的单向数据绑定的本机UI组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) - 轻量级承诺.
@@ -670,7 +671,7 @@
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) - 支持PNG，GIF和JPEG.
 * [ImageViewer](https://github.com/Krisiacik/ImageViewer) -  Twitter上的图像查看器.
 * [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) -  UIImageView允许您在其上添加多个Label（多行文本支持），您可以使用一根手指编辑，旋转，调整Label大小，然后在Image上渲染文本.
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - 图像下载和缓存.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - Image download and caching.
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - 一个生成基于字母的头像的UIImage扩展.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - 适用于iOS应用的方便易用的图像查看器.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) - 图像下载和缓存库.
@@ -748,8 +749,8 @@
 
 * [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - 从代码和故事板/ XIB中逐步更新/翻译您的Strings文件.
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - 使用IBLocalizable直接在Interface Builder中本地化您的视图.
-* [L10n-swift](https://github.com/Decybel07/L10n-swift) - 具有“动态”更改语言能力的应用程序的本地化，并支持任何语言的复数形式.
-* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - Realtime dynamic localization of your app with remote management so you can manage maintain and deploy translations without resubmitting app.
+* [L10n-swift](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+* [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - 通过远程管理实现您的应用程序的实时动态本地化，以便您无需重新提交应用程序即可管理维护和部署翻译.
 * [Localize](https://github.com/andresilvagomez/Localize) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
@@ -759,7 +760,7 @@
 ### Location
 [back to top](#readme) 
 
-* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 优雅而简单的3D天桥位置请求屏幕.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
 
 ### Logging
 *用于写入和读取设备日志的实用程序* [back to top](#readme) 
@@ -953,7 +954,7 @@
 * [Ambience](https://github.com/tmergulhao/Ambience) - 无需编码即可实现亮度感知辅助功能主题切换.
 * [Stylist](https://github.com/yonaskolb/Stylist) - 在可加载热的外部yaml或json文件中定义UI样式.
 * [SwiftTheme](https://github.com/wxxsw/SwiftTheme) - 适用于iOS 8+的强大主题/皮肤管理器.
-* [Themes](https://github.com/onmyway133/Themes) - 主题管理.
+* [Themes](https://github.com/onmyway133/Themes) - Theme management.
 
 ### System
 [back to top](#readme) 
@@ -995,14 +996,14 @@
 * [Attributed](https://github.com/Nirma/Attributed) - 用于属性字符串的现代μframework.
 * [AttributedTextView](https://github.com/evermeer/AttributedTextView) - 创建属性UITextView的最简单方法，支持多个链接，主题标签和提及.
 * [BonMot](https://github.com/Rightpoint/BonMot) - 适用于iOS的美丽，易于归因的字符串.
-* [Croc](https://github.com/JKalash/Croc) - 轻量级表情符号解析和查询库.
+* [Croc](https://github.com/JKalash/Croc) - A lightweight Emoji parsing and querying library.
 * [edhita](https://github.com/tnantoka/edhita) - 适用于iOS的完全开源文本编辑器.
 * [Format](https://github.com/marmelroy/Format) - 格式化数字，地址和颜色的工具包.
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - 简单且可定制的Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) -  iOS Markdown视图.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - 将Markdown转换为本机视图或属性字符串.
 * [Notepad](https://github.com/ruddfawcett/Notepad) - 具有实时语法高亮功能的完全可主题的降价编辑器.
-* [Parsey](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
+* [Parsey](https://github.com/rxwei/Parsey) -  Parser组合框架，支持源位置跟踪，回溯防护和丰富的错误消息.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) -  Great String Pluralize Extension.
 * [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -  PredicateFlow是一个构建器，允许您编写惊人的，强类型和易于阅读的NSPredicate.
 * [PrediKit](https://github.com/KrakenDev/PrediKit) - 受SnapKit启发的适用于iOS和OS X的NSPredicate DSL.
@@ -1112,7 +1113,7 @@
 * [StarryStars](https://github.com/peterprokop/StarryStars) - 显示和编辑评级，可从界面构建器完全自定义.
 * [StepProgressView](https://github.com/yonat/StepProgressView)   - 带有标签和形状的逐步进度视图.  UIActivityIndi​​catorView和UIProgressView的良好替代品.
 * [SwiftyUI](https://github.com/haoking/SwiftyUI) - 高性能和轻量级UIView，UIImage，UIImageView，UIlabel，UIButton等.
-* [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - 一个闪烁效果动画框架.
+* [SYBlinkAnimationKit](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagListView](https://github.com/ElaWorkshop/TagListView) - 简单但高度可定制的iOS标签列表视图.
 * [Toaster](https://github.com/devxoul/Toaster) - 通知祝酒词.
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) - 轻量级触摸可视化库，只需一行代码.
@@ -1126,12 +1127,12 @@
 * [YNSearch](https://github.com/younatics/YNSearch) - 令人敬畏的完全可定制的搜索视图，如Pinterest.
 
 #### Alert
-*Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
+* Libs显示警报，操作表，通知，弹出窗口.* [back to top](#readme) 
 
 * [Alertift](https://github.com/sgr-ksmt/Alertift) - 现代，简单的UIAlertController包装.
 * [Alerts Pickers](https://github.com/dillidon/alerts-and-pickers) - 使用TextField，DatePicker，PickerView，TableView和CollectionView对UIAlertController进行高级使用.
 * [ALRT](https://github.com/mshrwtnb/alrt)   -  UIAlertController的一个更简单的构造函数.  从任何地方提出警报.
-* [AwaitToast](https://github.com/k-lpmg/AwaitToast) - 🍞 Basic toast as well as async waiting toast. Inspired by facebook posting toast.
+* [AwaitToast](https://github.com/k-lpmg/AwaitToast)   - 基本吐司以及异步等待吐司.  受到facebook发布吐司的启发.
 * [CDAlertView](https://github.com/candostdagdeviren/CDAlertView) - 高度可定制的警报/通知/成功/错误/警报弹出.
 * [CFNotify](https://github.com/hallelujahbaby/CFNotify) - 可自定义的框架，用于创建可拖动的警报视图.
 * [EZAlertController](https://github.com/thellimist/EZAlertController) - 简单的UIAlertController.
@@ -1203,7 +1204,7 @@
 
 * [Carbon](https://github.com/ra1028/Carbon) - 用于在UITableView和UICollectionView中构建基于组件的用户界面的声明性库.
 * [Eureka](https://github.com/xmartlabs/Eureka) - 优雅的iOS表单生成器.
-* [Former](https://github.com/ra1028/Former) - A fully customizable library for easy creating UITableView based form.
+* [Former](https://github.com/ra1028/Former) - 完全可自定义的库，可轻松创建基于UITableView的表单.
 * [SwiftForms](https://github.com/ortuman/SwiftForms) - 表格现在很容易1-2-3.
 * [SwiftyFORM](https://github.com/neoneye/SwiftyFORM) - 可以验证的表格.
 
@@ -1254,7 +1255,7 @@
 * [SideMenu](https://github.com/jonkykong/SideMenu)   - 受Facebook欢迎的简单侧面菜单控制.  左右两侧.  无需编码.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) -  iOS幻灯片菜单查看基于Google+，iQON，Feedly，Ameba iOS应用程序.
 * [SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) -  Swipable选项卡和菜单View和ViewController.
-* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - Android PagerTabStrip for iOS.
+* [XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) - 适用于iOS的Android PagerTabStrip.
 * [YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) - 可爱的iOS下拉菜单.
 
 #### Pagination
@@ -1345,7 +1346,7 @@
 #### UICollectionView
 [back to top](#readme) 
 
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - 在CollectionView中将分页与虚拟视图集成的简便方法，使Instagram发现几分钟.
+* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
 * [Blueprints](https://github.com/zenangst/Blueprints) - 一个框架，旨在使您在使用集合视图流布局时更轻松.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - 集合视图布局，使您的单元格反弹.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - 尼斯卡设计的自定义CollectionView布局.
@@ -1376,7 +1377,7 @@
 * [folding-cell](https://github.com/Ramotion/folding-cell) - 折叠细胞过渡.
 * [GridView](https://github.com/KyoheiG3/GridView) - 可以定制为时间表，电子表格，分页等.
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) - 用于在项目中显示任何UITableView / UICollectionView的占位符和空状态的好库.
-* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - Framework to help you better manage UITableViews
+* [OKTableViewLiaison](https://github.com/okcupid/OKTableViewLiaison) - 帮助您更好地管理UITableViews的框架
 * [ParallaxHeader](https://github.com/romansorochak/ParallaxHeader) - 将视差标头添加到UIScrollView / UITableView的简单方法.
 * [Persei](https://github.com/Yalantis/Persei) -  UITableView / UICollectionView / UIScrollView的动画顶级菜单.
 * [PullToRefreshSwift](https://github.com/dekatotoro/PullToRefreshSwift) -  PullToRefresh库.
@@ -1469,8 +1470,8 @@
 * [Input Mask](https://github.com/RedMadRobot/input-mask-ios) - 适用于iOS的基于模式的用户输入格式化程序，解析器和验证器.
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单，可扩展，灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - 基于规则的验证库.
-* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS (inspired by validator.js).
-* [Validator](https://github.com/adamwaite/Validator) - 为您的iOS应用程序删除用户输入验证.
+* [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) -  iOS的字符串验证（受validator.js启发）.
+* [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.
 
 #### Phone Numbers
 [back to top](#readme) 

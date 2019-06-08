@@ -765,7 +765,7 @@ const differenceWith =（arr，val，comp）=&gt; arr.filter（a =&gt; val.findI
 <summary>Examples</summary>
 
 ```js
-differenceWith([1, 1.2, 1.5, 3, 0], [1.9, 3, 0], (a, b) => Math.round(a) === Math.round(b)); // [1, 1.2]
+ differenceWith（[1,1.2,1.5,3,0]，[1.9,3,0]，（a，b）=&gt; Math.round（a）=== Math.round（b））;  // [1,1.1]
 ```
 
 </details>
@@ -1111,7 +1111,7 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 <summary>Examples</summary>
 
 ```js
- indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
+ indexOfAl（[1,2,3,1,2,3]，1）;  // [0,3]
  indexOfA11（[1,2,3]，4）;  // []
 ```
 
@@ -1259,7 +1259,7 @@ const initializeNDArray =（val，... args）=&gt;
 
 ### intersection
 
-Returns a list of elements that exist in both arrays.
+返回两个数组中存在的元素列表.
 
 从`b`创建一个`Set`，然后在`a`上使用`Array.prototype.filter（）`来保存`b`中包含的值.
 
@@ -1679,7 +1679,7 @@ _(For a snippet that does not mutate the original array see [`without`](#without
 ```js
 const pull = (arr, ...args) => {
    让argState = Array.isArray（args [0]）？  args [0]：args;
-  let pull = arr.filter（（v，i）=&gt;！argState.includes（v））;
+  let pulled = arr.filter((v, i) => !argState.includes(v));
   arr.length = 0;
   pulling.forEach（v =&gt; arr.push（v））;
 };
@@ -1704,7 +1704,7 @@ const pull = (arr, ...args) => {
 使用`Array.prototype.push（）`来跟踪拉出的值
 
 ```js
-const pullAtIndex = (arr, pullArr) => {
+const pullAtIndex =（arr，pullArr）=&gt; {
   let removed = [];
   让拉= arr
     .map（（v，i）=&gt;（pullArr.includes（i）？removed.push（v）：v））
@@ -1904,9 +1904,9 @@ const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred�
 const remove =（arr，func）=&gt;
   Array.isArray（ARR）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
-        arr.splice（arr.indexOf（val），1）;
-        return acc.concat（val）;
-      }, [])
+      arr.splice（arr.indexOf（val），1）;
+      return acc.concat（val）;
+    }, [])
     : [];
 ```
 
@@ -2192,7 +2192,7 @@ const arr = [0,1,2,3,4,5,6,7,8,9,10];
 ```js
 const symmetricDifference =（a，b）=&gt; {
   const sA = new Set（a），
-    sB = new Set(b);
+    sB = new Set（b）;
   return [... a.filter（x =&gt;！sB.has（x）），... b.filter（x =&gt;！sA.has（x））];
 };
 ```
@@ -2217,7 +2217,7 @@ const symmetricDifference =（a，b）=&gt; {
 ```js
 const symmetricDifferenceBy = (a, b, fn) => {
   const sA = new Set（a.map（v =&gt; fn（v）））
-    sB = new Set（b.map（v =&gt; fn（v）））;
+    sB = new Set（b.map（v = fn（v）））;
   return [... a.filter（x =&gt;！sB.has（fn（x））），... b.filter（x =&gt;！sA.has（fn（x）））];
 };
 ```
@@ -2495,7 +2495,7 @@ const uniqueElements = arr =&gt; [... new Set（arr）];
 根据提供的比较器函数返回数组的所有唯一值.
 
 根据比较器函数`fn`，使用`Array.prototype.reduce（）`和`Array.prototype.some（）`作为一个只包含每个值的第一个唯一出现的数组.
-The comparator function takes two arguments: the values of the two elements being compared.
+比较器函数有两个参数：被比较的两个元素的值.
 
 ```js
 const uniqueElementsBy =（arr，fn）=&gt;
@@ -2526,10 +2526,10 @@ uniqueElementsBy(
 
 ### uniqueElementsByRight
 
-根据提供的比较器函数返回数组的所有唯一值.
+从右侧开始，根据提供的比较器函数返回数组的所有唯一值.
 
-根据比较器函数`fn`，使用`Array.prototype.reduce（）`和`Array.prototype.some（）`作为一个只包含每个值的最后一个唯一出现的数组.
-The comparator function takes two arguments: the values of the two elements being compared.
+根据比较器函数`fn`，使用`Array.prototype.reduceRight（）`和`Array.prototype.some（）`作为一个只包含每个值的最后一个唯一出现的数组.
+比较器函数有两个参数：被比较的两个元素的值.
 
 ```js
 const uniqueElementsByRight =（arr，fn）=&gt;
@@ -2940,7 +2940,7 @@ const createEventHub =（）=&gt;（{
   },
   on（event，handler）{
     if（！this.hub [event]）this.hub [event] = [];
-    this.hub [事件] .push（处理程序）;
+    this.hub[event].push(handler);
   },
   off（事件，处理程序）{
     const i =（this.hub [event] || []）.findIndex（h =&gt; h === handler）;
@@ -2959,7 +2959,7 @@ const hub = createEventHub（）;
 let increment = 0;
 
 //订阅：收听不同类型的活动
-hub.on（&#39;message&#39;，handler）;
+hub.on('message', handler);
 hub.on（&#39;message&#39;，（）=&gt; console.log（&#39;Message event fired&#39;））;
 hub.on（&#39;increment&#39;，（）=&gt; increment ++）;
 
@@ -3153,7 +3153,7 @@ const getScrollPosition =（el = window）=&gt;（{
 使用`Window.getComputedStyle（）`获取指定元素的CSS规则的值.
 
 ```js
-的getStyle =常数（的，RULENAME）=&gt;的getComputedStyle（下）[RULENAME];
+const getStyle =（el，ruleName）=&gt; getComputedStyle（el）[ruleName];
 ```
 
 <details>
@@ -3256,7 +3256,7 @@ const httpsRedirect =（）=&gt; {
 
 ### insertAfter
 
-在指定元素结束后插入HTML字符串.
+Inserts an HTML string after the end of the specified element.
 
 使用&#39;el.insertAdjacentHTML（）`和`&#39;afterend&#39;的位置来解析`htmlString`并在`el`结束后插入它.
 
@@ -3296,7 +3296,7 @@ const insertBefore =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;befo
 
 ### isBrowserTabFocused
 
-Returns `true` if the browser tab of the page is focused, `false` otherwise.
+如果页面的浏览器选项卡是聚焦的，则返回“true”，否则返回“false”.
 
 使用Page Visibility API引入的`Document.hidden`属性来检查页面的浏览器选项卡是可见还是隐藏.
 
@@ -3517,7 +3517,7 @@ const recordAnimationFrames =（callback，autoStart = true）=&gt; {
     });
   };
   if（autoStart）start（）;
-  return { start, stop };
+  return {start，stop};
 };
 ```
 
@@ -3638,7 +3638,7 @@ scrollToTop();
 
 将一组表单元素编码为查询字符串.
 
-Use the `FormData` constructor to convert the HTML `form` to `FormData`, `Array.from()` to convert to an array, passing a map function as the second argument.
+使用`FormData`构造函数将HTML`form`转换为`FormData`，`Array.from（）`转换为数组，并将map函数作为第二个参数传递.
 使用`Array.prototype.map（）`和`window.encodeURIComponent（）`来编码每个字段的值.
 使用带有适当参数的`Array.prototype.join（）`来生成适当的查询字符串.
 
@@ -4157,7 +4157,7 @@ const freddyBound = bindKey（freddy，&#39;greet&#39;）;
 循环遍历包含异步事件的函数数组，在每个异步事件完成时调用`next`.
 
 ```js
-const chainAsync = fns =&gt; {
+const chainAsync = fns => {
   让curr = 0;
   const last = fns [fns.length  -  1];
   const next =（）=&gt; {
@@ -4204,6 +4204,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
 
 
 
@@ -4411,7 +4412,7 @@ document.querySelector('#someElement').innerHTML = 'Hello';
 在`wait`毫秒后调用提供的函数.
 
 使用`setTimeout（）`来延迟执行`fn`.
-Use the spread (`...`) operator to supply the function with an arbitrary number of arguments.
+使用spread（`...`）运算符为函数提供任意数量的参数.
 
 ```js
 const delay =（fn，wait，... args）=&gt; setTimeout（fn，wait，... args）;
@@ -4754,7 +4755,7 @@ times（5，i =&gt;（输出+ = i））;
 const uncurry =（fn，n = 1）=&gt;（... args）=&gt; {
   const next = acc =&gt; args =&gt; args.reduce（（x，y）=&gt; x（y），acc）;
   if（n&gt; args.length）抛出新的RangeError（&#39;Arguments too few！&#39;）;
-  return next(fn)(args.slice(0, n));
+  return next（fn）（args.slice（0，n））;
 };
 ```
 
@@ -4948,7 +4949,7 @@ const clampNumber =（num，a，b）=&gt; Math.max（Math.min（num，Math.max�
 
 将角度从度数转换为弧度.
 
-使用`Math.PI`和弧度公式将角度从度数转换为弧度.
+Use `Math.PI` and the degree to radian formula to convert the angle from degrees to radians.
 
 ```js
 const degreesToRads = deg =&gt;（deg * Math.PI）/ 180.0;
@@ -5066,8 +5067,8 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
       ? 1
       ：n *阶乘（n  -  1）;
@@ -5282,7 +5283,7 @@ const isNegativeZero = val =&gt; val === 0 &amp;&amp; 1 / val === -Infinity;
 ```js
 const isPrime = num =&gt; {
   const boundary = Math.floor（Math.sqrt（num））;
-  for（i = 2; i &lt;= boundary; in ++）if（num％i === 0）返回false;
+  for（is i = 2; i &lt;= boundary; i ++）if（num％i === 0）return false;
   返回是否&gt; = 2;
 };
 ```
@@ -5493,7 +5494,7 @@ const percentile =（arr，val）=&gt;
 
 返回给定数字数组的powerset.
 
-使用`Array.prototype.reduce（）`结合`Array.prototype.map（）`迭代元素并组合成一个包含所有组合的数组.
+Use `Array.prototype.reduce()` combined with `Array.prototype.map()` to iterate over elements and combine into an array containing all combinations.
 
 ```js
 const powerset = arr =&gt; arr.reduce（（a，v）=&gt; a.concat（a.map（r =&gt; [v] .concat（r））），[[]]）;
@@ -5796,7 +5797,7 @@ const toSafeInteger = num =&gt;
 ```js
 const vectorDistance =（... coords）=&gt; {
   let pointLength = Math.trunc（coords.length / 2）;
-  让sum = coords
+  let sum = coords
     .slice（0，pointLength）
     .reduce（（acc，val，i）=&gt; acc + Math.pow（val  -  coords [pointLength + i]，2），0）;
   返回Math.sqrt（sum）;
@@ -6010,7 +6011,7 @@ const Stream = require（&#39;stream&#39;）;
 
 检查给定参数是否为可读流.
 
-检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
+Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
 另外检查`typeof``_read`和`_readableState`属性是否分别是`function`和`object`.
 
 ```js
@@ -6037,7 +6038,7 @@ const fs = require（&#39;fs&#39;）;
 
 检查给定的参数是否是流.
 
-检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
+Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
 
 ```js
 const isStream = val =&gt; val！== null &amp;&amp; typeof val ===&#39;object&#39;&amp;&amp; typeof val.pipe ===&#39;function&#39;;
@@ -6078,7 +6079,7 @@ const isTravisCI =（）=&gt;&#39;process TR中的&#39;TRAVIS&#39;和process.env
 
 检查给定的参数是否是可写流.
 
-检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
+Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
 另外检查`typeof``__write`和`_writableState`属性是否分别是`function`和`object`.
 
 ```js
@@ -6351,11 +6352,11 @@ const deepMapKeys =（obj，f）=&gt;
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
        ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
-          const val = obj [current];
-          acc [f（current）] =
+        const val = obj [current];
+        acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
-          返回acc;
-        }, {})
+        返回acc;
+      }, {})
       ：obj;
 ```
 
@@ -6427,9 +6428,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if（acc！== undefined）return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if（acc！== undefined）return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -6684,7 +6685,7 @@ const obj = {selector：{to：{val：&#39;val to select&#39;}}，target：[1,2�
 const invertKeyValues =（obj，fn）=&gt;
   Object.keys（obj）.reduce（（acc，key）=&gt; {
      const val = fn？  fn（obj [key]）：obj [key];
-     acc [val] = acc [val] ||  [];
+    acc[val] = acc[val] || [];
     ACC [VAL] .push（键）;
     返回acc;
   }, {});
@@ -6807,7 +6808,7 @@ const matches =（obj，source）=&gt;
 
 根据提供的函数，比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和提供的函数来确定第一个是否存在所有键对象并具有等效值.
+Use `Object.keys(source)` to get all the keys of the second object, then `Array.prototype.every()`, `Object.hasOwnProperty()` and the provided function to determine if all keys exist in the first object and have equivalent values.
 如果未提供任何功能，则将使用相等运算符比较值.
 
 ```js
@@ -6865,7 +6866,7 @@ const object = {
 const other = {
   并且：{z：3}，
   b：[2,3]，
-  c: 'foo'
+  c：&#39;foo&#39;
 };
  合并（对象，其他）;  // {a：[{x：2}，{y：4}，{z：3}]，b：[1,2,3]，c：&#39;foo&#39;}
 ```
@@ -6875,7 +6876,7 @@ const other = {
 
 ### nest
 
-Given a flat array of objects linked to one another, it will nest them recursively.
+给定彼此链接的平面对象数组，它将递归地嵌套它们.
 用于嵌套注释，例如reddit.com上的注释.
 
 使用递归.
@@ -7695,7 +7696,7 @@ Returns `true` if the given string is a palindrome, `false` otherwise.
 ```js
 const palindrome = str =&gt; {
   const s = str.toLowerCase（）.replace（/ [\ W _] / g，&#39;&#39;）;
-  return s === [... s] .reverse（）.join（&#39;&#39;）;
+  return s === [...s].reverse().join('');
 };
 ```
 
@@ -7889,7 +7890,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7919,7 +7920,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7948,7 +7949,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7976,7 +7977,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8648,7 +8649,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice
+    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
     {}
   );
 ```
@@ -8670,7 +8671,7 @@ const getURLParameters = url =&gt;
 Use bitwise right-shift operator and mask bits with `&` (and) operator to convert a hexadecimal color code (with or without prefixed with `#`) to a string with the RGB values. If it's 3-digit color code, first convert to 6-digit version. If an alpha value is provided alongside 6-digit hex, give `rgba()` string in return.
 
 ```js
-const hexToRGB = hex => {
+const hexToRGB = hex =&gt; {
   设alpha = false，
     h = hex.slice(hex.startsWith('#') ? 1 : 0);
   if（h.length === 3）h = [... h] .map（x =&gt; x + x）.join（&#39;&#39;）;
@@ -8806,7 +8807,7 @@ httpPost(
 确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
-`typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.
+`typeof` allows globals to be checked for existence without throwing a `ReferenceError`.
 如果它们都不是“未定义”，则假定当前环境是浏览器.
 
 ```js
