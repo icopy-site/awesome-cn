@@ -21,6 +21,7 @@
 	- 游戏
 	- 视频
 	- 图像处理
+	- 最终用户应用程序（AppImages，Flatpaks，Snaps ......）
 	- 科学
 	- 机器学习
 	- 其他
@@ -50,7 +51,7 @@
 
 ## People
 
-*The people that made D the language it is.*
+*使D成为语言的人.*
 
 * [Walter Bright](http://www.walterbright.com/) -  D. Walter Bright的父亲是D编程语言的创建者和第一个实现者，并且已经为其他几种语言实现了编译器.
 * [Andrei Alexandrescu, PhD](http://erdani.com/)   -  C ++大师.  * D编程语言*和*现代C ++设计*的作者.  在Walter Bright的带领下，Andrei共同设计了D的许多重要特征，并创作了D标准库的很大一部分.  Andrei是高级C ++编程和算法的培训师，现在正积极地在组织中传播D.
@@ -69,7 +70,7 @@
 * [DerelictOrg](https://github.com/DerelictOrg)   - 一个GitHub组织，托管所有Derelict绑定，包括OpenGL和其他多媒体/游戏相关的库绑定.  （OpenGL 3，Bgfx，ENet，SDL 2，GLFW 3，OpenGLES，Free Image，Assimp3，libtheora，libogg，libvorbis，SFML 2，libpq，PhysicsFS，Open Dynamics Engine，Lua，DevIL，OpenAL，ALURE）.
 * [DlangScience](https://github.com/DlangScience) -  D的科学图书馆和工具的焦点和第一个停靠点
 * [Circular Studios](https://github.com/Circular-Studios)   - 我们是罗彻斯特理工学院的一组游戏开发人员，负责构建游戏和游戏技术.  主机 [Dash](https://github.com/Circular-Studios/Dash)，用D编写的3D游戏引擎，以及其他相关的库.
-* [d-gamedev-team](https://github.com/d-gamedev-team) -  gamedev相关的回购组织，包括一个名为的D gamedev工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
+* [d-gamedev-team](https://github.com/d-gamedev-team) -  gamedev相关回购的组织，包括一个名为的D gamedev工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling)   - 以D为主要语言的职业建筑公司.  托管他们的开源项目.
 * [infognition](http://www.infognition.com/company.html)   -  Infognition是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术.  他们提供了几个用D语言编写的开源视频相关应用程序和工具 [bitbucket](https://bitbucket.org/infognition/) .  他们也在搬运他们的主要产品 - [Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -  D的数字图书馆开发团队
@@ -81,7 +82,7 @@
 * D相关书籍.*你可以找到另一本书的清单 [Books](http://wiki.dlang.org/Books) D维基页面.
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) -  * D编程语言*作者：Andrei Alexandrescu.
 * [Programming in D](http://ddili.org/ders/d.en/index.html)   - 一本非常详细的书，讲述了AliÇehreli在D中编程，涵盖了该语言的许多领域.  有免费的在线版本，适合初学者. 
-* [D Cookbook](http://www.packtpub.com/application-development/d-cookbook)   - 包含食谱的参考指南，其中包含简明扼要解释的实用任务，以使用D编程语言开发和扩展用户的能力.  作者：Adam D. Ruppe.  这是一个有趣 [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [D Cookbook](http://www.packtpub.com/application-development/d-cookbook)   - 配方包装的参考指南，其中包含简明扼要解释的实用任务，以使用D编程语言开发和扩展用户的能力.  作者：Adam D. Ruppe.  这是一个有趣 [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
 * [Learning D](https://www.packtpub.com/application-development/learning-d) - 本书适合那些有C语言背景知识并希望学习如何将他们的知识和经验应用于D的人.（...）这本书将帮助你快速掌握语言并避免常见将C族经验转化为D时出现的陷阱
 * [D Web Development](https://www.packtpub.com/web-development/d-web-development) - 无论您是D世界的新手，还是已经在D中开发了应用程序，或者如果您想利用D的强大功能进行Web开发，那么本书对您来说非常理想.
 
@@ -92,7 +93,7 @@
 * [D Template Tutorial](https://github.com/PhilippeSigaud/D-templates-tutorial)   - 专门用于D模板的教程.  关于模板的非常好的解释.  有pdf版本.  作者：Philippe Sigaud.
 * [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) -  Walter Bright撰写的一篇文章详细说明了D的功能支持如何导致灵活而美观的组件编程风格.
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - 详细的博客文章，关于如何使用范围以惯用的D方式进行组件编程，以及完整的工作示例.
-* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - 关于在D中编写图像处理库的一个非常有趣的教程.显示用于功能样式编程的D模板/ CTFE / Ranges / UFCS的强大功能.
+* [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - 关于在D中编写图像处理库的一个非常有趣的教程.显示功能样式编程的D模板/ CTFE / Ranges / UFCS的强大功能.
 * [OpenGL tutorials](https://github.com/d-gamedev-team/opengl-tutorials) -  D中的OpenGL教程.
 
 ### Bare metal / kernel development
@@ -157,7 +158,7 @@
 
 *综合发展环境.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
+* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
 * [Visual D](https://github.com/dlang/visuald) -  D编程语言的Visual Studio扩展.
 * [DDT](http://ddt-ide.github.io/) - 用于D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)   -  D编程语言的独立自动完成程序.  可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用.  看到 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
@@ -205,7 +206,7 @@
 * [collie](https://github.com/huntlabs/collie) - 用dlang编写的异步事件驱动的网络框架，如D中的netty框架.
 
 *完整的堆栈Web框架.*
-* [Hunt Framework](https://github.com/huntlabs/hunt-framework/)   -  Hunt是一个高级D编程语言Web框架，鼓励快速开发和清洁，实用的设计.  它使您可以快速轻松地构建高性能Web应用程序.
+* [Hunt Framework](https://github.com/huntlabs/hunt-framework/)   -  Hunt是一个高级D编程语言Web框架，鼓励快速开发和干净，务实的设计.  它使您可以快速轻松地构建高性能Web应用程序.
 * [vibe.d](http://vibed.org/) - 用D编写的异步I / O Web框架，用D编写.
 * [arsd](https://github.com/adamdruppe/arsd) -  Adam D. Ruppe的网络框架.
 * [cmsed](https://github.com/rikkimax/Cmsed) - 用作Vibe的Vibe组件库.
@@ -278,7 +279,7 @@
 
 
 * [DLangUI](https://github.com/buggins/dlangui)   - 用于D编程语言的跨平台GUI.  我的个人偏好，因为它是用D（不是绑定）编写的，而且是跨平台的.  DLangUI在IDE中也有很好的展示 [DLangIDE](https://github.com/buggins/dlangide).
-* [GtkD](https://github.com/gtkd-developers/GtkD)   -  GtkD是GTK +的D绑定和OO包装器.  GtkD是积极维护的，目前是D最稳定的GUI库.
+* [GtkD](https://github.com/gtkd-developers/GtkD)   -  GtkD是GTK +的D绑定和OO包装器.  GtkD是积极维护的，目前是D中最稳定的GUI库.
 * [DWT](https://github.com/d-widget-toolkit/dwt)   - 用于创建跨平台GUI应用程序的库.  GWT是Java的SWT库的一个端口.DWT被提升为D的半标准GUI库，但遗憾的是还没有流行起来.
 * [tkD](https://github.com/nomad-software/tkd) - 基于Tcl / Tk的D编程语言的GUI工具包.
 * [dqml](https://github.com/filcuc/dqml) -  Q编程语言的Qt绑定.
@@ -347,6 +348,9 @@
 * [dlib.image](https://github.com/gecko0307/dlib) - 图像处理（每通道8位和16位，浮点运算，滤波，FFT，HDRI，图形格式支持，包括JPEG和PNG）
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - 基本颜色结构，HSL功能以及读写图像文件
 
+## End-user applications
+* [Drill](https://github.com/yatima1460/drill) - 搜索文件而不进行索引，但巧妙地抓取
+
 ## Machine Learning
 
 * [vectorflow](https://github.com/Netflix/vectorflow) -  Nexflix的开源深度学习框架.
@@ -396,4 +400,4 @@
 - [unit-threaded](https://github.com/atilaneves/unit-threaded) - 多线程单元测试框架
 
 ## Other Awesome Lists
-其他令人惊讶的精彩列表可以在 [awesome-awesome](https://github.com/emijrp/awesome-awesome) 和  [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness) 项目.
+其他惊人的令人敬畏的名单可以在 [awesome-awesome](https://github.com/emijrp/awesome-awesome) 和  [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness) 项目.

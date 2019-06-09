@@ -102,6 +102,8 @@
 - [Automating Physical Buttons on iOS Devices](https://appiumpro.com/editions/68)
 - [Capturing Audio Output During Testing: Part 1](https://appiumpro.com/editions/69)
 - [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
+- [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
+- [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.

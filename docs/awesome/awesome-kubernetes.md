@@ -66,7 +66,7 @@ Menu
 -----------------------------------------------------------------------
 
 
-初始点
+Starting Point
 =======================================================================
 
 *标志着旅程开始的地方*
@@ -75,7 +75,7 @@ Menu
 * [Are you Ready to Manage your Infrastructure like Google?](http://blog.jetstack.io/blog/k8s-getting-started-part1/)
 * [Google is years ahead when it comes to the cloud, but it's happy the world is catching up](http://www.businessinsider.in/Google-is-years-ahead-when-it-comes-to-the-cloud-but-its-happy-the-world-is-catching-up/articleshow/47793327.cms)
 * [An Intro to Google’s Kubernetes and How to Use It](http://www.ctl.io/developers/blog/post/what-is-kubernetes-and-how-to-use-it/) 通过 [Laura Frank](https://twitter.com/rhein_wein)
-* [Kubernetes入门] [http://containertutorials.com/get_started_kubernetes/index.html] by [Rajdeep Dua](https://twitter.com/rajdeepdua)
+* [Getting Started on Kubernetes](http://containertutorials.com/get_started_kubernetes/index.html) 通过 [Rajdeep Dua](https://twitter.com/rajdeepdua)
 * [Kubernetes: The Future of Cloud Hosting](https://github.com/meteorhacks/meteorhacks.github.io/blob/master/_posts/2015-04-22-learn-kubernetes-the-future-of-the-cloud.md) 通过 [Meteorhacks](https://twitter.com/meteorhacks)
 * [Kubernetes 通过 Google](http://thevirtualizationguy.wordpress.com/tag/kubernetes/) 通过 [Gaston Pantana](https://twitter.com/GastonPantana)
 * [Key Concepts](http://blog.arungupta.me/key-concepts-kubernetes/) 通过 [Arun Gupta](https://twitter.com/arungupta)
@@ -279,7 +279,7 @@ Installers
 
   - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
   - [Draft](https://draft.sh) - 开发人员使用Kubernetes创建云原生应用程序的工具
-  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
+  - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台

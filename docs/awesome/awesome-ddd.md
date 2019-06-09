@@ -181,6 +181,7 @@
 ### PHP
 - [DDD Wish List](https://github.com/franzose/symfony-ddd-wishlist) - 使用Symfony 3和Vue.js构建的PHP示例应用程序.
 - [DDD Playground](https://github.com/jorge07/ddd-playground/) -  PHP中的示例实现.
+- [Eric Evans DDD Cargo Sample](https://github.com/codeliner/php-ddd-cargo-sample) -  PHP 7埃里克埃文斯DDD书中使用的货物样本版本
 - [Shop Cart in PHP](https://github.com/simara-svatopluk/cart)   - 示例项目，演示了购物车的简单外观.  域对象，Doctrine集成.，TDD，图层，单元测试
 
 

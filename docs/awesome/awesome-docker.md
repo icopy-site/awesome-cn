@@ -330,7 +330,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) -  [@NVIDIA] [nvidia]的Docker NVIDIA Container Runtime
 - [su-exec](https://github.com/ncopa/su-exec)   - 这是一个简单的工具，只需执行具有不同权限的程序.  该程序将直接执行，而不是像小孩一样运行，如su和sudo，这可以避免TTY和信号问题.  为什么重塑gosu？  这与gosu或多或少完全相同，但它只有10kb而不是1.8MB.  通过 [ncopa](https://github.com/ncopa)
 - [supercronic](https://github.com/aptible/supercronic) -  crontab兼容的作业运行器，专门设计用于在容器中运行 [@aptible](https://github.com/aptible/)
-- [TrivialRC](https://github.com/vorakl/TrivialRC) - 容器的简约运行时配置系统和进程管理器 [@vorakl](https://github.com/vorakl)
+- [TrivialRC](https://github.com/vorakl/TrivialRC) - A minimalistic Runtime Configuration system and process manager for containers [@vorakl](https://github.com/vorakl)
 
 ### Builder
 
@@ -465,6 +465,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Development Environment
 
+- [batect](https://github.com/charleskorn/batect) - 构建和测试环境作为代码工具：Docker化构建和测试环境变得简单 [@charleskorn](https://github.com/charleskorn)
 - [Binci](https://github.com/binci/binci)   - 包含您的开发工作流程.  （原DevLab by [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 - [Boot2Docker](https://github.com/boot2docker/boot2docker) - 适用于OSX和Windows的Docker
 - [construi](https://github.com/lstephen/construi) - 在Docker定义的环境中运行您的构建 [@lstephen](https://github.com/lstephen)
@@ -495,7 +496,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Clean](https://github.com/ZZROTDesign/docker-clean) - 一个清理Docker容器，图像和卷的脚本 [@zzrotdesign](https://github.com/ZZROTDesign)
 - [Docker-cleanup](https://github.com/meltwater/docker-cleanup) - 自动Docker镜像，容器和卷清理 [@meltwater](https://github.com/meltwater)
 - [docker-custodian](https://github.com/Yelp/docker-custodian)   - 让docker主机保持整洁.  通过 [@Yelp](https://github.com/Yelp)
-- [docker-garby](https://github.com/konstruktoid/docker-garby) - Docker garbage collection script by [@konstruktoid](https://github.com/konstruktoid).
+- [docker-garby](https://github.com/konstruktoid/docker-garby) -  Docker垃圾收集脚本 [@konstruktoid](https://github.com/konstruktoid).
 - [docker-gc](https://github.com/spotify/docker-gc) - 一个cron作业，将通过[@spotify] [spotify]删除旧的已停止的容器和未使用的图像
 - [sherdock](https://github.com/rancher/sherdock) ：头骨： -  [@rancher] [牧场主]基于正则表达式的图像自动GC
 

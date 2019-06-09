@@ -92,7 +92,7 @@ _有多种方式可以与家庭助理社区联系.
 * [Aaron Bach](https://github.com/bachya/smart-home)   - 也称为bachya.  定期更新并包含众多Dockerized服务.
 * [James McCarthy](https://github.com/JamesMcCarthy79/Home-Assistant-Config) - 记录良好，YAML和Node-RED中的3个实例和自动化.
 * [Franck Nijhof](https://github.com/frenck/home-assistant-config) - 基于Hass.io，与其他配置结构截然不同.
-* [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) - Hass.io based, focused on touchscreen usage.
+* [Andrea Donno](https://github.com/adonno/Home-AssistantConfig) - 基于Hass.io，专注于触摸屏使用.
 * [Klaas Schoute](https://github.com/klaasnicolaas/Smarthome-homeassistant-config) - 基于Hass.io，Intel NUC，Ubuntu Server，Docker并定期更新.
 * [Jason Hunter](https://github.com/hunterjm/home-assistant-config) - 基于Hass.io，Intel NUC i5，TensorFlow和相机流.
 
@@ -200,15 +200,22 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - 一种直观的方式来表示您的家庭正在消耗或生产的力量.
 * [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) - 更简单，更灵活的恒温卡.
 * [Compact Custom Header](https://github.com/maykar/compact-custom-header) - 自定义并压缩前端标题栏.
-* [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - 为你的Lovelace卡设计风格.
+* [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - Style your Lovelace cards.
 * [Bar Card](https://github.com/Gluwc/bar-card) - 可定制的动画酒吧卡.
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - 一张不错的Google日历卡.
 * [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) -  Ccontrol一个分叉的daapd实例.
 * [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) - 在一个显示两个仪表.
 * [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - 具有高级设置的日历卡.
-* [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - 小米（和其他）吸尘器的详细卡.
+* [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - 小米吸尘器（及其他）的详细卡片.
 * [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - 受Google Material Design启发的简约天气卡.
 * [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) - 与Floorplan中的实体互动.
+* [Home Card](https://github.com/postlund/home-card) - 快速浏览一下您家的状态.
+* [Banner Card](https://github.com/nervetattoo/banner-card) - 一个蓬松的可链接横幅，互动式的扫视，为您的家庭仪表板增添色彩.
+* [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) - 显示来自Plex，Kodi，Radarr，Sonarr和Trakt等服务的即将播出的剧集和电影.
+* [Spotify Card](https://github.com/custom-cards/spotify-card) - 列出并选择Spotify上当前可用的设备和用户顶级播放列表.
+* [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) - 显示电池实体的电池电量.
+* [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) - 在实体行上显示多个实体状态或属性.
+* [Toggle Lock Entity Row](https://github.com/thomasloven/lovelace-toggle-lock-entity-row) - 显示带锁的切换，避免错误切换.
 
 ### Alternative Dashboards
 
@@ -218,7 +225,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 
 _由社区创建的Home Assistant的附加组件._
 
-* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - 允许使用Hue传感器.
+* [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) - 可以使用飞利浦Hue传感器.
 * [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) - 将设备跟踪器位置转换为人类可读的地址.
 * [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) - 集成了路创Caseta Smart Bridge PRO / RA2 Select.
 * [SmartIR](https://github.com/smartHomeHub/SmartIR) - 使用Broadlink IR集成设备.
@@ -237,7 +244,7 @@ _由社区创建的Home Assistant的附加组件._
  _自己做;  而不是购买家庭自动化硬件或解决方案，你
 也可以自己建造它们！_
 
-* [ESPHome](https://esphome.io/) - 使用YAML编程ESP8266 / ESP32板.
+* [ESPHome](https://esphome.io/) - 使用YAML编程ESP8266板和ESP32板.
 * [Magic Cards](https://github.com/maddox/magic-cards) -  RFID扫描卡，您可以编程做任何事情.
 * [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) -  ESP8266板和设备的固件.
 
@@ -272,6 +279,7 @@ _链接到Home Assistant的各种用户，定期发布Home Assistant的内容._
 * [Self Hosted Home](https://selfhostedhome.com/) - 关于DIY家庭自动化项目和自托管服务的文章.
 * [Tinkering with Home Automation](https://blog.ceard.tech/) -  Tinkerer的博客和指南.
 * [HomeTechHacker](https://HomeTechHacker.com) -  DIY Smarthome指南，评论和建议.
+* [Intermittent Technology](https://blog.quindorian.org) -  Quindor的个人博客，用于粘贴随机（主要是技术相关）的东西.
 
 ### YouTube Channels
 
@@ -283,9 +291,10 @@ _坐下，放松，观察和学习._
 * [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - 教程等，一般还有关于家庭自动化的视频.
 * [HASSCASTS](https://www.youtube.com/channel/UCGOCeqMJnLvr-5C-ypUw7IQ) - 提示，技巧和教程，主要转移到实时流.
 * [JuanMTech](https://www.youtube.com/juanmtech) - 易于关注的操作视频，产品评论等.
-* [vCloudInfo](https://www.youtube.com/vCloudInfo) - 根据他的家和GitHub存储库发布视频.
+* [vCloudInfo](https://www.youtube.com/vCloudInfo) - Publishes videos based on his home and GitHub repository.
 * [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - 关于硬件项目和Tasmota自动化的教程.
 * [Sognare](https://www.youtube.com/channel/UC3sknm_GUCDESM7EmVvkgzg)   - 住在船上！  教程，讨论和访谈.
+* [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - 教程和评论：相机，家庭网络，ESP8266板，Node-RED.
 
 ### Podcasts
 
@@ -295,7 +304,7 @@ _获得灵感，上下班，做早晨的日常活动，或在健身房！
 
 ### Twitter
 
-_Keep up with the latest news and updates, 280 characters at a time!_
+_保持最新的新闻和更新，一次280个字符！_
 
 * [@home_assistant](https://twitter.com/home_assistant) - 开源家庭自动化，将本地控制和隐私放在第一位.
 * [@hass_devs](https://twitter.com/hass_devs) - 为贡献者开发家庭助理的最新消息.
