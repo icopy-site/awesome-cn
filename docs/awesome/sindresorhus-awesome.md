@@ -63,7 +63,7 @@
 - [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
-- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - Simple and distraction-free desktop environment for Linux.
+- [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
 	- [Core](https://github.com/thangchung/awesome-dotnet-core#readme)
@@ -429,7 +429,7 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在诱使攻击者试图破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用和服务的安全性.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统安全漏洞的个人团体.
 
@@ -602,6 +602,7 @@
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及使用什么条件.
 
 
 ## Related

@@ -145,14 +145,15 @@
 
 ##### Aurelia Books
 
-* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) * Behzad Abbasi（behzad888）
-* [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) 作者：Dwayne Charrington
-* [Practical Aurelia](https://leanpub.com/practical-aurelia) 作者：Behzad Abbasi（behzad888）
-* [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) 作者：Manuel Guilbault
-* [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) 由克里斯蒂安曼德鲁普
-* [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) 作者：肖恩·亨特
-* [Hands-On Full Stack Web Development with Aurelia](https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia) 作者：DiegoArgüelles和Erikson Murrugarra
-* [Mastering Aurelia Store](https://leanpub.com/mastering-aurelia-store) 作者：Dwayne Charrington
+* [Aurelia for Real World Applications](https://leanpub.com/aurelia-for-real-world-applications) 作者：Dwayne Charrington（2018年12月，174页）
+* [Mastering Aurelia Store](https://leanpub.com/mastering-aurelia-store) 由Dwayne Charrington（最后更新于2018年11月）
+* [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) 作者Sean Hunter（2018年8月，432页）
+* [Hands-On Full Stack Web Development with Aurelia](https://www.packtpub.com/web-development/hands-full-stack-web-development-aurelia) 作者：DiegoArgüelles和Erikson Murrugarra（2018年6月，348页）
+* [Practical App Development with Aurelia](https://www.apress.com/gp/book/9781484234013) 作者Matthew Duffield（2018年3月）
+* [Practical Aurelia](https://leanpub.com/practical-aurelia) 作者：Behzad Abbasi（behzad888）（2018年3月，137页）
+* [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) 作者：Manuel Guilbault（2016年12月，292页）
+* [Beginning Aurelia](https://leanpub.com/beginning-of-aurelia) 作者：Behzad Abbasi（behzad888）（2016年7月，218页）
+* [Aurelia App Amazement](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) 作者：Kristian Mandrup（2016）
 
 ##### Aurelia Articles
 
@@ -214,7 +215,7 @@
 * [aurelia-ui-framework](https://github.com/adarshpastakia/aurelia-ui-framework) *基于Aurelia构建的用于桌面业务应用程序的定制UI框架
 * [aurelia-tags-input](https://github.com/TGMorais/aurelia-tags-input) * aurelia标签输入插件
 * [aurelia-formio](https://github.com/formio/aurelia-formio) *动态JSON表单呈现器和表单生成器 -  [See Example](https://formio.github.io/aurelia-formio/)
-* [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * A custom element for iOS style swipeout actions - [Demo](https://michaelbull.github.io/aurelia-swipeout/)
+* [aurelia-swipeout](https://github.com/michaelbull/aurelia-swipeout) * iOS风格的swipeout操作的自定义元素 -  [Demo](https://michaelbull.github.io/aurelia-swipeout/)
 * [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) *可调整大小的拆分窗格的自定义元素 -  [Demo](https://michaelbull.github.io/aurelia-split-pane/)
 * [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) *一组与第三方Bootstrap插件桥接的插件 -  [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Slickgrid是性能和定制的最佳javascript数据网格现在可在Aurelia中使用 -  [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)

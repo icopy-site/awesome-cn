@@ -1111,7 +1111,7 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 <summary>Examples</summary>
 
 ```js
- indexOfAl（[1,2,3,1,2,3]，1）;  // [0,3]
+ indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
  indexOfA11（[1,2,3]，4）;  // []
 ```
 
@@ -2202,7 +2202,7 @@ const symmetricDifference =（a，b）=&gt; {
 
 ```js
  symmetricDifference（[1,2,3]，[1,2,4]）;  // [3,4]
- symmetricDifference（[1,2,2]，[1,3,1]）;  // [2,2,3]
+ 对称差（[1，2,2]，[1,3，1]）;  // [2,2,3]
 ```
 
 </details>
@@ -2217,7 +2217,7 @@ const symmetricDifference =（a，b）=&gt; {
 ```js
 const symmetricDifferenceBy = (a, b, fn) => {
   const sA = new Set（a.map（v =&gt; fn（v）））
-    sB = new Set（b.map（v = fn（v）））;
+    sB = new Set（b.map（v =&gt; fn（v）））;
   return [... a.filter（x =&gt;！sB.has（fn（x））），... b.filter（x =&gt;！sA.has（fn（x）））];
 };
 ```
@@ -4204,26 +4204,6 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
@@ -7890,7 +7870,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7920,7 +7900,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7949,7 +7929,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7977,7 +7957,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8649,7 +8629,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] =
     {}
   );
 ```

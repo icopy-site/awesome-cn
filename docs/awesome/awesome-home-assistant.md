@@ -52,7 +52,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
 
 Home Assistant目前_recommends_ Hass.io方法.
 
-* [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
+* [Hass.io](https://www.home-assistant.io/getting-started/) - Installing using a Docker managed environment (recommended method).
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
 * [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - 安装Hassbian.
 * [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - 使用Python虚拟环境手动安装.
@@ -143,7 +143,7 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
 * [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.
-* [ADB](https://github.com/hassio-addons/addon-adb) -  Android Debug Bridge服务器程序.
+* [ADB](https://github.com/hassio-addons/addon-adb) - The Android Debug Bridge server program.
 * [Glances](https://github.com/hassio-addons/addon-glances) - 用Python编写的跨平台系统监视工具.
 * [Matrix](https://github.com/hassio-addons/addon-matrix) - 安全和分散的通信平台.
 * [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 网络范围的广告和跟踪器阻止DNS服务器与父母控制.
@@ -200,7 +200,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - 一种直观的方式来表示您的家庭正在消耗或生产的力量.
 * [Simple Thermostat](https://github.com/nervetattoo/simple-thermostat) - 更简单，更灵活的恒温卡.
 * [Compact Custom Header](https://github.com/maykar/compact-custom-header) - 自定义并压缩前端标题栏.
-* [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - Style your Lovelace cards.
+* [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - 为你的Lovelace卡设计风格.
 * [Bar Card](https://github.com/Gluwc/bar-card) - 可定制的动画酒吧卡.
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - 一张不错的Google日历卡.
 * [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) -  Ccontrol一个分叉的daapd实例.
@@ -341,7 +341,7 @@ _Valuable链接，不适合上述任何类别（还有！）.
 * [Monitor](https://github.com/andrewjfreyer/monitor) - 通过MQTT报告的基于分布式广告的BTLE存在检测.
 * [HASS-data-detective](https://github.com/robmarkcole/HASS-data-detective) - 探索和分析您的数据库数据.
 * [ADB Intents](https://gist.github.com/mcfrojd/9e6875e1db5c089b1e3ddeb7dba0f304) - 用于控制Android设备的ADB意图列表.
-
+* [Home Assistant Config Helper for VSCode](https://marketplace.visualstudio.com/items?itemName=keesschollaart.vscode-home-assistant) -  Visual Studio代码扩展，在编辑配置时提供自动完成，配置验证和代码段.
 
 ## Alternative Home Automation Software
 

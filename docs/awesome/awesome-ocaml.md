@@ -130,7 +130,7 @@
 
 ## Concurrency
 
- OCaml中存在两个并发库：_Lwt_和_Async_.  它们提供了非常相似的功能，但在错误处理和内部实现细节方面做出了截然不同的决定（有关详细信息，请参阅下面的链接）. [Real World OCaml](https://realworldocaml.org/) 使用Async但是版本 [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) is also available.
+ OCaml中存在两个并发库：_Lwt_和_Async_.  它们提供了非常相似的功能，但在错误处理和内部实现细节方面做出了截然不同的决定（有关详细信息，请参阅下面的链接）. [Real World OCaml](https://realworldocaml.org/) 使用Async但是版本 [code examples translated to Lwt](https://github.com/dkim/rwo-lwt) 也可以.
 
 -  **图书馆**：
   - [Lwt](http://ocsigen.org/lwt/) -  OCaml的协作线程库.
@@ -417,6 +417,7 @@
 - [ocaml-tls](https://github.com/mirleft/ocaml-tls) - 纯OCaml中的T​​LS.
 - [Digestif](https://github.com/mirage/digestif) -  OCaml和C中的哈希算法（如SHA *或BLAKE2 *）.
 - [cryptokit](https://github.com/xavierleroy/cryptokit) -  OCaml的Cryptokit库提供了各种加密原语，可用于在安全敏感的应用程序中实现加密协议.
+- [nocoiner](https://github.com/marcoonroad/nocoiner) - 用于多方计算的承诺计划库，例如在线拍卖和赌博.
 - [nocrypto](https://github.com/mirleft/ocaml-nocrypto)   -  ocaml-tls项目背后的一个小型加密库.  它的构建使其易于使用，符合函数式编程原则，并且能够在基于Xen的单核中运行.
 
 &gt;注意：`nocrypto`和`cryptokit`加密库之间的区别在以下博客文章中描述： [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
@@ -424,7 +425,7 @@
 
 ## Semantic Technology
 
-- [OCaml-RDF](https://www.good-eris.net/ocaml-rdf/) -  OCaml库来操作RDF图并执行Sparql查询.
+- [OCaml-RDF](https://framagit.org/zoggy/ocaml-rdf) -  OCaml库来操作RDF图并执行Sparql查询.
 
 
 ## Serialization
@@ -492,7 +493,7 @@
   - [tyxml](http://ocsigen.org/tyxml) - 库构建有效（根据W3C规范）Html和Svg树.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - 从js_of_ocaml项目轻松导入和导出CommonJS模块.
-  - [BuckleScript](https://github.com/bloomberg/bucklescript)   -  BuckleScript是OCaml的后端，用于生成可调试的Javascript.  它使OCaml能够以无缝方式集成Javascript平台.
+  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) -  RFC3986 URI解析库.
   - [Goji](https://github.com/klakplok/goji) - 用于JavaScript库的OCaml绑定生成器.
   - [Syndic](https://github.com/Cumulus/Syndic) -  RSS和Atom feed解析

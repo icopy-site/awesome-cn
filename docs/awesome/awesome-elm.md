@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
-## <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
+
+## This project is required a new maintainer [MAINTAINER WANTED ❤️](https://github.com/isRuslan/awesome-elm/issues/172)
+
 
 
 &gt;社区驱动的有用Elm教程，库和软件列表.
@@ -17,7 +19,6 @@
 
 *一些用榆树写的好应用程序.*
 
-* [Official list](http://elm-lang.org/examples) - 官方网站上_basic_到_big-project_的示例.
 * [Builtwithelm](http://builtwithelm.co/) - 使用elm构建的网站，其中包含使用Elm构建的项目和应用程序列表.
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) - 用榆树写的双人格斗游戏.
 * [Vessel](https://github.com/slawrence/vessel) - 用榆树写的“隧道”游戏！
@@ -38,12 +39,13 @@
 * [Elm Hangman](https://github.com/puemos/elm-hangman) - 用榆树写的刽子手游戏.
 * [Pokelmon](https://github.com/brenopanzolini/pokelmon) - 榆树项目消费PokéAPI.
 * [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - 使用Django（后端）和Elm（前端）的JSON Web令牌（JWT）身份验证.
-* [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - 使用Elm构建的Chrome扩展程序，显示所有巴西交易所的比特币价值.
+* [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - 在Elm中构建的Chrome扩展程序，显示所有巴西交易所的比特币价值.
 * [Elmstagram](https://github.com/bkbooth/Elmstagram) -  Instagram /文章的基本UI克隆 -  [Part 1](https://benkbooth.com/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - 使用Elm和HTML5 Drag＆Drop API构建的看板（trello-like）
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - 纯SPA（带路线）探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - 使用官方Hacker-News API使用Elm版本0.18构建的渐进式Web应用程序
-* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)   - 在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com)  展示如何建立一个“选择你自己的冒险”（故事）游戏;  适合初学者.  **榆树v.0.19 **
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)   - 在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
++ [Seeds](https://github.com/andrewMacmurray/seeds-game)  是用** Elm v.0.19 **编写的“连接点”游戏.  在线播放： [seedsgame.com](https://www.seedsgame.com)
 
 
 
@@ -100,7 +102,7 @@
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - 瑞典创业公司对榆树发展的一些看法.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
 
 
 
@@ -168,7 +170,7 @@
 * [elm-console](https://github.com/laszlopandy/elm-console) - 用于读取和写入Node中控制台的Elm库.
 * [lazy](https://github.com/elm-lang/lazy) - 榆树的懒惰评价.
 * [elm-ui](https://github.com/gdotdesign/elm-ui) - 榆树的UI库.
-* [elm-mdl](https://github.com/debois/elm-mdl)   -  Elm中的Material Design组件库.  同 [demo](https://debois.github.io/elm-mdl/).
+* [elm-mdc](https://github.com/aforemny/elm-mdc) -  Web CSS / JS库的Material Components的Elm端口.
 * [elmfire](https://github.com/ThomasWeiser/elmfire)   - 使用Firebase作为后端.  对于更高级别的API： [elmfire-extra](https://github.com/ThomasWeiser/elmfire-extra).
 * [elm-bootstrap](https://github.com/rundis/elm-bootstrap) -  Elm的综合Bootstrap 4库. [Docs site](http://elm-bootstrap.info).
 * [elm-vega](https://github.com/gicentre/elm-vega) -  Elm的声明可视化（[Vega](https://vega.github.io/vega/)/[Vega Lite](https://vega.github.io/vega-lite/) 积分）
@@ -206,7 +208,7 @@
 *在代码编辑器中支持Elm的工具.*
 
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) -  Atom编辑器的Elm代码linter.
-* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
+* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - 榆树为Atom提供的片段.
 * [atom-language-elm](https://atom.io/packages/language-elm) -  Atom编辑器的语法高亮和自动完成.
 * [elmjutsu](https://atom.io/packages/elmjutsu) -  Atom编辑器的自动完成，定义，查找用法，重命名符号等.
 * [atom-elm-navigator](https://atom.io/packages/elm-navigator) - 侧面板，可帮助导航到项目中的任何功能，类型定义或端口.
@@ -252,9 +254,7 @@
 *你需要看到的一切.*
 
 * [Elm Search](http://klaftertief.github.io/elm-search/) - 搜索运营商，功能签名等的Elm文档.
-* [Try Elm](http://elm-lang.org/try) - 在线编写和编译榆树代码！
 * [404 Elm Street](https://github.com/zalando/elm-street-404) - 一个有趣的WebGL游戏，由Elm构建.
-* [Debug Elm](http://debug.elm-lang.org/try) - 在线调试elm代码.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - 收集有关Elm与Haskell不同的地方的示例，针对来自Haskell背景的榆树初学者.
 * [runelm.io](https://runelm.io) - 共享和运行Elm代码的地方.
 * [Ellie](https://ellie-app.com/new) -  ** ** ** ** ** ** ** ** ** ditor
@@ -270,7 +270,7 @@
 * [Discourse](https://discourse.elm-lang.org/) - 榆树话语实例（官方论坛）.
 * [Reddit](https://www.reddit.com/r/elm) - 在reddit上的榆树板.
 * [IRC](http://webchat.freenode.net/?channels=elm) - 询问有关elm freenode的问题.
-* [Slack](http://elmlang.herokuapp.com/) - Elm slack community.
+* [Slack](http://elmlang.herokuapp.com/) - 榆树社区.
 
 
 

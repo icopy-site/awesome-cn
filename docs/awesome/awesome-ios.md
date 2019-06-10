@@ -610,7 +610,7 @@
 * [PKCoreTechniques](https://github.com/pkluz/PKCoreTechniques) - 我在2012年慕尼黑技术大学举办的iOS游戏设计研讨会期间举办的CoreGraphics + CoreAnimation演讲代码.
 * [MPWDrawingContext](https://github.com/mpw/MPWDrawingContext) -  CoreGraphics CGContext的Objective-C包装器
 * [DePict](https://github.com/davidcairns/DePict) - 一个简单的，声明性的，功能性的绘图框架，在Swift中！
-* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - 具有多个接口选项的单通道SVG解析器（String，NS / UIBezierPath，CAShapeLayer和NS / UIView）.
+* [SwiftSVG](https://github.com/mchoe/SwiftSVG) - 单个通SVG语法分析器具有多个接口选项（字符串，NS / UIBezierPath，CAShapeLayer，和NS / UIView的）.
 * [InkKit](https://github.com/shaps80/InkKit) - 适用于iOS和macOS的Write-Once，Draw-Everywhere  - 现在在Swift中！
 * [YYAsyncLayer](https://github.com/ibireme/YYAsyncLayer) - 用于异步呈现和显示的iOS实用程序类.
 * [NXDrawKit](https://github.com/Nicejinux/NXDrawKit) -  NXDrawKit是一款简单易用但非常实用的iPhone绘图工具包
@@ -844,7 +844,7 @@
 * ML模型，深度学习和神经网络库的集合*
 
 * [Swift-Brain](https://github.com/vlall/Swift-Brain)   - 用于未来iOS开发的人工智能/机器学习数据结构和Swift算法.  贝叶斯定理，神经网络，以及更多AI.
-* [AIToolbox](https://github.com/KevinCoble/AIToolbox) - 用Swift编写的AI模块工具箱：图形/树形，线性回归，支持向量机，神经网络，PCA，KMeans，遗传算法，MDP，高斯混合.
+* [AIToolbox](https://github.com/KevinCoble/AIToolbox) - 的写入夫特AI模块工具箱：图形/树，线性回归，支持向量机，神经网络，PCA，K均值，遗传算法，MDP，高斯的混合物.
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - 适用于iOS的官方Google构建的强大神经网络库端口.
 * [Bender](https://github.com/xmartlabs/Bender)   - 轻松制作快速神经网络.  使用TensorFlow模型.  引擎盖下的金属.
 * [CoreML-samples](https://github.com/ytakzk/CoreML-samples) - 使用Apple提供的ResNet50的Core ML示例代码和coremltools生成的自定义模型.
@@ -1277,7 +1277,7 @@
 * [Unbox](https://github.com/JohnSundell/Unbox) - 易于使用的Swift JSON解码器
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - 将JSON转换为Swift对象.
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - 懒惰地将JSON反序列化为强类型的Swift对象
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是一个用于macOS的桌面应用程序，它允许您将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter.
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是为MacOS的桌面应用程序，使您能够JSON对象导出为与其相关的构造模型类，实用方法，getter和setter方法在你喜欢的语言.
 * [Elevate](https://github.com/Nike-Inc/Elevate) -  Elevate是一个JSON解析框架，它利用Swift使解析变得简单，可靠和可组合.
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)   -  JSON和模型之间的快速，方便和非侵入式转换.  您的模型类不需要扩展另一个基类.  您无需修改​​任何模型文件.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -  Alamofire扩展，使用ObjectMapper将JSON响应数据转换为快速对象
@@ -1416,6 +1416,7 @@
 * [RxCoordinator](https://github.com/quickbirdstudios/XCoordinator) - 基于协调器模式的iOS强大导航库.
 * [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) 结合AlamoRecord和RxSwift库的强大功能，创建一个网络层，使得与API的交互比以往任何时候都更容易被动.
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal) 用于反应式编程的Swift框架.
+* [LightweightObservable](https://github.com/fxm90/LightweightObservable) - 可以订阅的可观察序列的轻量级实现.
 
 ### React-Like
 * [Render](https://github.com/alexdrone/Render) -  Swift和UIKit a la React.
@@ -1648,7 +1649,7 @@
 * [Down](https://github.com/iwasrobbed/Down) - 在Swift中创建快速Markdown渲染，基于cmark构建.
 * [Marky Mark](https://github.com/m2mobi/Marky-Mark) - 在Swift中高度可定制的Markdown解析和本机渲染.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) - 适用于iOS的Markdown View.
-* [Highlighter](https://github.com/younatics/Highlighter)   - 突出你想要的任何东西！  荧光笔将在您的UITableViewCell或其他类中神奇地找到UI对象，如UILabel，UITextView，UITexTfield，UIButton.
+* [Highlighter](https://github.com/younatics/Highlighter)   - 突出你想要的任何东西！  荧光笔会奇迹般地找到UI对象，如的UILabel，UITextView的，的UITextField，UIButton的在你的UITableViewCell或其他类.
 * [Sprinter](https://github.com/nicklockwood/Sprinter) - 用于格式化iOS和macOS上的字符串的库
 * [Highlightr](https://github.com/raspu/Highlightr) -  iOS和macOS语法荧光笔，支持176种语言，并配有79种样式.
 * [fuse-swift](https://github.com/krisk/fuse-swift) - 轻量级模糊搜索库，具有零依赖性.
@@ -1742,7 +1743,7 @@
 * [Motif](https://github.com/erichoracek/Motif) - 适用于iOS的轻量级且可自定义的JSON样式表框架.
 * [Texture](https://github.com/TextureGroup/Texture) -  iOS应用程序的平滑异步用户界面.
 * [GaugeKit](https://github.com/skywinder/GaugeKit)   - 可定制的仪表.  轻松复制Apple的风格测量仪.
-* [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) -  SAHistoryNavigationViewController在UINavigationContoller，3D Touch Compatible中实现了像iOS一样的iOS任务管理器.
+* [SAHistoryNavigationViewController](https://github.com/marty-suzuki/SAHistoryNavigationViewController) -  SAHistoryNavigationViewController实现像UI在UINavigationContoller，3D touch，iPad兼容iOS的任务管理器.
 * [iCarousel](https://github.com/nicklockwood/iCarousel) - 适用于iOS和Mac OS的简单，高度可定制，数据驱动的3D轮播.
 * [tapkulibrary](https://github.com/devinross/tapkulibrary) -  tap + haiku = tapku，一个精心设计的开源iOS框架.
 * [HorizontalDial](https://github.com/kciter/HorizontalDial) - 像Instagram一样的水平滚动表盘.
@@ -1837,7 +1838,7 @@
 * [SwiftyUI](https://github.com/haoking/SwiftyUI) - 高性能和轻量级（每个UI一个类）UIView，UIImage，UIImageView，UIlabel，UIButton，Promise等.
 * [NotchToolkit](https://github.com/AFathi/NotchToolkit) -  iOS框架，允许开发人员以创造性的方式使用iPhone X缺口.
 * [PullUpController](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps.
-* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) -  DrawerKit让UIViewController以类似于Apple的Maps应用程序的方式模态呈现另一个UIViewController.
+* [DrawerKit](https://github.com/Babylonpartners/DrawerKit) -  DrawerKit让一个UIViewController的模态提出了另一个UIViewController中以类似的方式苹果的地图应用作品的方式.
 * [Shades](https://github.com/aaronjsutton/Shades) - 轻松添加阴影，边框和圆角到UIView.
 * [ISPageControl](https://github.com/Interactive-Studio/ISPageControl) - 类似于Instagram中使用的页面控件.
 * [Mixin](https://github.com/oney/Mixin)   - 像Mixin一样的React.js.  更强大的面向协议的编程.
@@ -2230,7 +2231,7 @@
 * [NumericAnimatedLabel](https://github.com/javalnanda/NumericAnimatedLabel/)   -  Swift UIView用于在更改值时显示带有增量和减量步进动画的数字标签.  适用于显示货币等情况.
 * [JSLabel](https://github.com/jogendra/JSLabel) -  UILabel上一个简单的可设计子类，具有额外的IBDesignable和Blinking功能.
 * [AnimatedMaskLabel](https://github.com/jogendra/AnimatedMaskLabel)   - 动画蒙版标签是一个很好的渐变动画标签.  这是一种为应用中的任何视图添加闪烁效果的简便方法.
-* [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 比UILabel更快并且支持异步呈现的标签视图，具有UIDragInteraction的链接，非常灵活的文本截断，自动布局，UIAccessibility等.
+* [STULabel](https://github.com/stephan-tolksdorf/STULabel) - 标签认为比的UILabel速度更快，支持异步呈现，与UIDragInteraction，非常灵活的文本截断，自动布局，UIAccessibility和更多链接.
 
 ### Login
 * [LFLoginController](https://github.com/awesome-labs/LFLoginController) - 可自定义的登录屏幕，用Swift编写.
@@ -2474,7 +2475,7 @@
 * [SuperBadges](https://github.com/odedharth/SuperBadges) - 添加表情符号和彩色圆点作为标签栏按钮的标记
 * [AZTabBarController](https://github.com/Minitour/AZTabBarController) - 用Swift 3.0编写的iOS自定义标签栏控制器
 * [MiniTabBar](https://github.com/D-32/MiniTabBar) -  UITabBar的简洁替代品
-* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) - UITabBarController with swipe interaction between its tabs.
+* [SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) -  UITabBarController，其标签之间有滑动交互.
 * [SMSwipeableTabView](https://github.com/smahajan28/SMSwipeableTabView) - 带选项卡的可滑动视图（如带选项卡布局的Android SwipeView）
 * [Tabman](https://github.com/uias/Tabman) - 功能强大的分页视图控制器，带有iOS指示条.
 * [WormTabStrip](https://github.com/EzimetYusup/WormTabStrip) 用Swift编写的美丽ViewPager for iOS（受Android启发 [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout))
@@ -2535,7 +2536,7 @@
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) -  Netflix和App Store，如UITableView和UICollectionView
 * [EditDistance](https://github.com/kazuhiro4949/EditDistance) -  UITableView和UICollectionView的增量更新工具
 * [SwiftSpreadSheet](https://github.com/stuffrabbit/SwiftSpreadsheet)   -  Swift中的电子表格CollectionViewLayout.  完全可定制.
-* [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) - 用于Swift中UITableView / UICollectionView的数据源实现的通用小型可重用组件.
+* [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) - 一个普通的小重复使用的部件进行数据源实施的UITableView / UICollectionView在夫特.
 * [PagingView](https://github.com/KyoheiG3/PagingView) - 无限分页，智能自动布局，类似于UIKit的接口.
 * [DataSources](https://github.com/muukii/DataSources)   - 类型安全的数据驱动的List-UI框架.  （我们也可以使用ASCollectionNode）
 * [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个UICollectionViews拖放数据.
@@ -2832,14 +2833,14 @@ CollectionView，在几分钟内发现Instagram.
 * [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的小框架和命令行工具，用于与SourceKit交互.
 * [Localizations](https://github.com/athiercelin/localizations) - 管理Xcode项目本地化的macOS应用程序.
 * [xcbuild](https://github.com/facebook/xcbuild) -  Xcode兼容的构建工具.
-* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段的可执行文件，它将// TODO：或// SERIOUS之类的注释标记为警告或错误，以便它们显示在Xcode Issue Navigator中.
+* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在一个运行脚本生成阶段标志着像// TODO注释的可执行文件：//或严重：作为警告或错误，使他们在Xcode问题导航显示.
 * [SwiftCompilationPerformanceReporter](https://github.com/tumblr/SwiftCompilationPerformanceReporter) - 为特定目标中的慢速Swift编译路径生成自动报告
 * [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 为Swift构建时间分析器
 * [Duration](https://github.com/SwiftStudies/Duration) - 一个简单的Swift软件包，用于测量和报告操作所需的时间
 * [Benchmark](https://github.com/WorldDownTown/Benchmark) - Benchmark⏲模块提供了测量和报告执行Swift代码所用时间的方法.
 * [MBAssetsImporter](https://github.com/MatiBot/MBAssetsImporter) - 将来自Panoramio或您的macOS文件系统的资源及其元数据导入iOS模拟器（Swift 2.0）
 * [Realm Browser](https://github.com/realm/realm-browser-osx) -  Realm Browser是一个用于打开和修改领域数据库文件的macOS实用程序.
-* [SuperDelegate](https://github.com/square/SuperDelegate) -  SuperDelegate提供了一个干净的应用程序委托接口，可以保护您免受应用程序生命周期中的错误的影响.
+* [SuperDelegate](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
 * [fastlane-plugin-appicon](https://github.com/KrauseFx/fastlane-plugin-appicon) - 从主应用程序图标生成所需的图标大小和图标集.
 * [infer](https://github.com/facebook/infer) - 用于Java，C和Objective-C的静态分析器.
 * [PlayNow](https://github.com/marcboquet/PlayNow) - 小应用程序，创建空的Swift playground文件并使用Xcode打开它们.
@@ -2940,7 +2941,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Free App Store Optimization Tool](https://www.mobileaction.co) 允许您根据关键字和竞争对手跟踪App Store的可见性.
 * [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) - 在您运送已经花费很长时间才能完成的惊人应用程序之前清单的清单，但是如果您犯了一个小学生错误，最终会让您看起来比您笨拙，那么您不想急于求成.
 * [Harpy](https://github.com/ArtSabintsev/Harpy) - 当新版iOS应用程序可用时通知用户，并使用App Store链接提示他们.
-* [iRate](https://github.com/nicklockwood/iRate)   - 一个方便的类，提示您的iPhone或Mac App Store应用程序的用户在使用一段时间后对您的应用程序进行评级.  与Appirater类似，但具有更简单，更清晰的界面和自动支持iOS快速应用程序切换.
+* [iRate](https://github.com/nicklockwood/iRate)   - 一个方便的类，它会提示你的iPhone或Mac App Store应用的用户在使用了一段时间后，可以为您的应用程序.  与Appirater类似，但具有更简单，更清晰的界面和自动支持iOS快速应用程序切换.
 * [appirater](https://github.com/arashpayan/appirater) - 一个实用程序，可以提醒您的iPhone应用程序的用户查看该应用程序.
 * [Siren](https://github.com/ArtSabintsev/Siren) - 当有新版本的应用程序可用时通知用户并提示他们升级.
 * [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) - 在appstore上提交他/她的应用程序以供审查之前，开发人员必须牢记的精选点列表.
