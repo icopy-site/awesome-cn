@@ -133,7 +133,7 @@
 - [Fortran](https://github.com/rabbiabram/awesome-fortran#readme)
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - 服务器端脚本语言.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - 包裹经理.
-- [Delphi](https://github.com/Fr0sT-Brutal/awesome-delphi#readme)
+- [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
 - [Assembler](https://github.com/jaspergould/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
@@ -429,9 +429,10 @@
 - [Honeypots](https://github.com/paralax/awesome-honeypots#readme) - 欺骗陷阱，旨在诱使攻击者试图破坏组织中的信息系统.
 - [Incident Response](https://github.com/meirwah/awesome-incident-response#readme)
 - [Vehicle Security and Car Hacking](https://github.com/jaredthecoder/awesome-vehicle-security#readme)
-- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - Security of web apps & services.
+- [Web Security](https://github.com/qazbnm456/awesome-web-security#readme) - 网络应用和服务的安全性.
 - [Lockpicking](https://github.com/meitar/awesome-lockpicking#readme) - 通过在没有钥匙的情况下操纵其组件来解锁锁的技术.
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) - 识别信息技术系统安全漏洞的个人团体.
+- [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) - 自动软件测试技术，涉及提供伪随机生成的输入数据.
 
 
 
@@ -458,7 +459,7 @@
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - 目标设定和沟通最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - 领导人员并成为技术公司/环境中的经理.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - 独立的开发商业务.
+- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
 
 
 ## Work

@@ -155,7 +155,7 @@
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - 非官方的ProtonMail应用程序.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -  CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 密码管理员.
-- [Mailspring](https://github.com/Foundry376/Mailspring)   - 可扩展的电子邮件客户端.  （Nylas Mail的叉子）
+- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 - [Manta](https://github.com/hql287/Manta) - 为具有漂亮和可定制模板的自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
@@ -271,7 +271,7 @@
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
+- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用ChromeDriver测试电子应用程序.
@@ -301,8 +301,9 @@
 - [electron-timber](https://github.com/sindresorhus/electron-timber) - 漂亮的记录器.
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -  Chromium的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行Electron.
-- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - Integrate Electron APIs and Angular.
+- [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成电子API和角度.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止MITM.
+- [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化的IPC通信.
 
 ### Using Electron
 
@@ -313,7 +314,7 @@
 - [electron-pdf](https://github.com/fraserxu/electron-pdf) - 在命令行上从URL，HTML或Markdown文件生成PDF.
 - [Geojsonapp](https://github.com/mick/geojsonapp) - 在本地预览GeoJSON.
 - [electron-mocha](https://github.com/jprichardson/electron-mocha) - 在Electron中运行Mocha测试.
-- [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
+- [electron-har](https://github.com/shyiko/electron-har) - 用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - 将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) - 检查您的React和React Native应用程序.
 

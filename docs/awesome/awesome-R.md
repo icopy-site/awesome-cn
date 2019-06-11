@@ -110,7 +110,7 @@
 *烹饪数据包.*
 
 * [haven](https://github.com/hadley/haven) - 改进了在R中导入SPSS，Stata和SAS文件的方法.
-* [tidyr](https://github.com/hadley/tidyr) - 通过传播和收集功能轻松整理数据.
+* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
 * [rlist](https://github.com/renkun-ken/rlist) - 用于使用列表进行非表格数据操作的工具箱.
 * [jsonlite](https://github.com/jeroenooms/jsonlite) - 一种在R中解析JSON文件的强大而快速的方法
 * [ff](http://ff.r-forge.r-project.org/) - 用于存储大型数据集的数据结构.
@@ -129,6 +129,7 @@
 * [ggfortify](https://github.com/sinhrks/ggfortify) - 使用一行代码的ggplot2流行统计包的统一接口.
 * [ggrepel](https://github.com/slowkow/ggrepel) - 将重叠的文本标签相互分开.
 * [ggalt](https://github.com/hrbrmstr/ggalt) -  ggplot2的额外坐标系，Geoms和统计变换.
+* [ggstatsplot](https://github.com/IndrajeetPatil/ggstatsplot) - 基于ggplot2的统计细节图
 * [ggtree](https://github.com/GuangchuangYu/ggtree) - 系统发育树的可视化和注释.
 * [ggtech](https://github.com/ricardo-bion/ggtech) -  ggplot2技术主题和规模
 * [ggplot2 Extensions](https://ggplot2-exts.github.io/ggiraph.html) - 展示ggplot2扩展.
@@ -179,10 +180,10 @@
 * [rmarkdown <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://rmarkdown.rstudio.com/) -  R的动态文档
 * [Sweave](https://www.statistik.lmu.de/~leisch/Sweave/) - 用于使用R编写LaTeX报告的包.
 * [texreg](http://www.philipleifeld.de/software/texreg/texreg.html) - 在LaTex和HTML中格式化统计模型.
-* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - Install packages from snapshots on the checkpoint server.
+* [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - 从检查点服务器上的快照安装包.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html)   - 预先计算数据以增强报告模板.  可与knitr结合使用.
 * [officer](https://davidgohel.github.io/officer/index.html) - 用于生成Microsoft Word，Microsoft PowerPoint和HTML报告的R包.
-* [flextable](https://davidgohel.github.io/flextable/index.html)   - 在Microsoft Word，Microsoft PowerPoint和HTML报告中嵌入复杂表格（合并单元格，多级页眉和页脚，条件格式）的R包.  它与[官员]包合作，并与[rmarkdown]报告集成.
+* [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
 * [bookdown](https://bookdown.org/) - 使用R Markdown编写图书.
 * [ezknitr](https://github.com/daattali/ezknitr) - 使用&#39;knitr&#39;时避免典型的工作目录痛苦
 * [drake](https://github.com/ropensci/drake) - 安 [rOpenSci](https://ropensci.org/) 可重复数据科学工作流程的包装太大了 [knitr](http://yihui.name/knitr/).
@@ -201,7 +202,7 @@
 * [OpenCPU <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://www.opencpu.org/) - 用于R处理并发调用的HTTP API，基于Apache2 Web服务器，将R代码公开为REST Web服务并创建完整大小的多页Web应用程序.
 * [Rfacebook](https://github.com/pablobarbera/Rfacebook) - 通过R访问Facebook API.
 * [RSiteCatalyst](https://github.com/randyzwitch/RSiteCatalyst) - 用于Adobe Analytics的R客户端库.
-* [plumber](https://github.com/trestletech/plumber) - A library to expose existing R code as web API.
+* [plumber](https://github.com/trestletech/plumber) - 将现有R代码公开为Web API的库.
 
 ## Parallel Computing
 *并行计算包.*
@@ -254,7 +255,7 @@
 * [RPostgres](https://github.com/r-dbi/RPostgres) -  postgres数据库的DBI兼容接口.
 * [RPostgreSQL](https://code.google.com/p/rpostgresql/) -  PostgreSQL数据库系统的R接口.
 * [RSQLite](http://cran.r-project.org/web/packages/RSQLite/) -  R的SQLite接口
-* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - Provides access to databases through the JDBC interface.
+* [RJDBC](http://cran.r-project.org/web/packages/RJDBC/) - 通过JDBC接口提供对数据库的访问.
 * [rmongodb](https://github.com/mongosoup/rmongodb) -  MongoDB的R驱动程序.
 * [rredis](http://cran.r-project.org/web/packages/rredis/) -  Redis客户端为R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - 直接接口（不是Java）到Apache Cassandra的最基本功能.
@@ -309,7 +310,7 @@ covariates
 * [h2o <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](http://cran.r-project.org/web/packages/h2o/index.html) -  Deeplearning，Random forest，GBM，KMeans，PCA，GLM
 * [hda](http://cran.r-project.org/web/packages/hda/index.html) - 异方差判别分析
 * [ipred](http://cran.r-project.org/web/packages/ipred/index.html) - 改进的预测因子
-* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) - kernlab: Kernel-based Machine Learning Lab
+* [kernlab](http://cran.r-project.org/web/packages/kernlab/index.html) -  kernlab：基于内核的机器学习实验室
 * [klaR](http://cran.r-project.org/web/packages/klaR/index.html) - 分类和可视化
 * [kohonen](http://cran.r-project.org/web/packages/kohonen/) - 有监督和无监督的自组织地图.
 * [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) - 用于最佳子集选择的快速算法
@@ -375,7 +376,7 @@ Data
 * [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) -  Apache OpenNLP工具界面.
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - 用于文本分析的R包.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - 词频分布的统计模型.
-* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - 自然语言处理的基本功能.
+* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
 * [LDAvis](https://github.com/cpsievert/LDAvis) - 主题模型的交互式可视化.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - 由David M. Blei为主题建模（Latent Dirichlet Allocation（LDA）和Correlated Topics Models（CTM））开发的C代码的主题建模界面.
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - 使用三种不同的情绪词典从文本中提取情绪.
@@ -572,7 +573,7 @@ Data
   * [@Roger Peng](https://twitter.com/rdpeng) 和 [@Hilary Parker](https://twitter.com/hspter).
 * [R World News](http://www.rworld.news/blog/) -  R World News帮助您跟上R社区内的各种事件.
   * [@Bob Rudis](https://twitter.com/hrbrmstr) 和 [@Jay Jacobs](https://twitter.com/jayjacobs).
-* [The R-Podcast](https://r-podcast.org/) - 就如何使用R提供实用建议.
+* [The R-Podcast](https://r-podcast.org/) - Giving practical advice on how to use R.
   * [@Eric Nantz](https://r-podcast.org/stories/contact.html).
 * [R Talk](http://rtalk.org) - 统计软件和语言的新闻和讨论R.
   * [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) 和 [@Mikhail Popov](https://twitter.com/bearloga).

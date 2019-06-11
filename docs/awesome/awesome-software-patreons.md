@@ -33,8 +33,9 @@ _Projects以开源许可证发布._
 - [Godot Engine](https://www.patreon.com/godotengine) - 完整的3D引擎.  
 - [HaxeUI](https://www.patreon.com/haxeui) - 用户界面工具包.
 - [Homebrew](https://www.patreon.com/homebrew) -  macOS的软件包管理器.
-- [Improved Initiative](https://www.patreon.com/improvedinitiative) -  D＆D桌面角色扮演游戏战斗追踪器. 
-- [iTerm2](https://www.patreon.com/gnachman) -  macOS终端更换. 
+- [Improved Initiative](https://www.patreon.com/improvedinitiative) -  D＆D桌面角色扮演游戏战斗追踪器.
+- [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) -  YouTube的另一个网络前端.
+- [iTerm2](https://www.patreon.com/gnachman) -  macOS终端更换.
 - [Kismet](https://www.patreon.com/kismetwireless) -  Kismet无线工具.
 - [Latte Dock](https://liberapay.com/latte-dock) - 等离子桌面的替换底座.
 - [LibrePCB](https://www.patreon.com/librepcb) - 开发印刷电路板的软件. 
@@ -72,7 +73,7 @@ _Projects以开源许可证发布._
 - [Synfig](https://www.patreon.com/synfig) -  2D动画软件.
 - [SysV init](https://www.patreon.com/sysvinit) -  System V init实现.
 - [Tabulator](https://www.patreon.com/olifolkerd) - 用于构建交互式表的JavaScript库.
-- [Termux](https://www.patreon.com/termux) -  Android终端模拟器.
+- [Termux](https://www.patreon.com/termux) - Android terminal emulator.
 - [The Lounge](https://opencollective.com/thelounge) - 现代网络IRC客户端. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - 电子商务软件. 
 - [Tiled](https://www.patreon.com/bjorn) -  2D游戏关卡编辑器. 
@@ -152,7 +153,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Franck Nijhof](https://www.patreon.com/frenck) - 创建Home Assistant附加组件并帮助完成主项目.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) -  IndieWeb领域的项目，Koype以及对其他开源项目的贡献.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - 创建C ++库和标准提案.
-- [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
+- [Joey Hess](https://www.patreon.com/joeyh) -  git-annex，keysafe，其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -  Bootstrap JavaScript开发人员和各种插件和项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - 各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -  GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.

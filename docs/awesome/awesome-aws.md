@@ -618,7 +618,7 @@ AWS Repos：
 * [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - 从S3和Kinesis获取Elasticsearch的数据.
 * [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - 用于本地开发和测试无服务器应用程序的CLI工具.
 * [aws-lambda-go :fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - 帮助Go开发人员开发Lambda函数的库，示例和工具.
-* [aws-lambda-java-libs :fire:](https://github.com/aws/aws-lambda-java-libs) - 接口定义和帮助程序类的官方镜像.
+* [aws-lambda-java-libs :fire::fire:](https://github.com/aws/aws-lambda-java-libs) - 接口定义和帮助程序类的官方镜像.
 * [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) -  Redshift装载机.
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) -  Python无服务器微框架.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - 使用grunt-aws-lambda插件来帮助您开发和测试.

@@ -88,7 +88,7 @@
 - [Bcrypt](http://bcrypt.sourceforge.net/) - 跨平台文件加密实用程序.
 - [blackbox](https://github.com/StackExchange/blackbox) - 在Git / Mercurial / Subversion中安全地存储秘密.
 - [certbot](https://github.com/certbot/certbot)   - 以前的Let&#39;s Encrypt Client是EFF的工具，用于从Let&#39;s Encrypt获取证书，以及（可选）在您的服务器上自动启用HTTPS.  它还可以充当使用ACME协议的任何其他CA的客户端.
-- [Coherence](https://github.com/liesware/coherence/) - 用于现代网络应用程序的加密服务器.
+- [Coherence](https://github.com/liesware/coherence/) - 用于现代Web应用程序的加密服务器.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - 云中文件的多平台透明客户端加密.
 - [gpg](https://www.gnupg.org/)   - 完全免费实施OpenPGP标准.  它允许加密和签署您的数据和通信，具有通用的密钥管理系统.  GnuPG是一个命令行工具，具有与其他应用程序轻松集成的功能.
 - [ironssh](https://github.com/IronCoreLabs/ironssh)   - 端到端使用sftp / scp加密传输的文件，并有选择地与他人共享.  自动密钥管理适用于任何SSH服务器.  加密文件与gpg兼容.
@@ -201,7 +201,7 @@
 ### JavaScript
 
 - [asmCrypto](https://github.com/vibornoff/asmcrypto.js/) - 考虑到性能的流行加密实用程序的JavaScript实现.
-- [bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS.
+- [bcrypt-nodejs](https://github.com/shaneGirish/bcrypt-nodejs) - 为NodeJS本地实现bcrypt.
 - [cifre](https://github.com/openpeer/cifre) - 用于现代客户端JavaScript的快速加密工具包.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) -  Google常用的JavaScript库.
 - [cryptico](https://github.com/wwwtyro/cryptico) - 易于使用的加密系统，利用RSA和AES进行javascript.
@@ -232,7 +232,7 @@
 - [Bouncy Castle](https://www.bouncycastle.org/java.html)   - 通用加密库.  JCA提供商，从基本帮助者到PGP / SMIME操作的广泛功能.
 - [Flexiprovider](http://www.flexiprovider.de/) - 用于Java加密体系结构的强大工具包.
 - [GDH](https://github.com/maxamel/GDH) - 广泛的Diffie-Hellman密钥交换Java库，用于在Vert.x框架之上构建的多方.
-- [Google Keyczar](https://github.com/google/keyczar) - 易于使用且安全的加密框架，具有密钥版本控制.
+- [Google Keyczar](https://github.com/google/keyczar) - 易于使用，但安全的加密框架与密钥版本控制.
 - [Google Tink](https://github.com/google/tink) - 一个小型加密库，提供安全，简单，灵活，快速的方法来完成一些常见的加密任务.
 - [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [jbcrypt](http://www.mindrot.org/projects/jBCrypt/) -  jBCrypt是OpenBSD Blowfish密码散列的实现
@@ -240,7 +240,7 @@ algorithm.
 - [Keycloak](https://github.com/keycloak/keycloak) - 针对现代应用和服务的开源身份和访问管理.
 - [keywhiz](https://github.com/square/keywhiz) - 用于分发和管理秘密的系统.
 - [pac4j](https://github.com/pac4j/pac4j) - 安全引擎.
-- [Project Kalium](http://abstractj.github.io/kalium/) -  Java与网络和密码学（NaCl）库的绑定与libsodium的精彩.
+- [Project Kalium](http://abstractj.github.io/kalium/) -  Java与网络和密码学（NaCl）库的绑定，具有libsodium的强大功能.
 - [scrypt](https://github.com/wg/scrypt) -  scrypt密钥派生函数的纯Java实现和C实现的JNI接口，包括SSE2优化版本.
 - [securitybuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA / JSSE对象的Fluent Builder API.
 
@@ -251,7 +251,7 @@ algorithm.
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包含OpenSSL的库，但也有纯Julia实现供参考.
 - [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) -  mbed TLS和加密C库周围的包装.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 朱莉娅包装荨麻加密哈希/
-加密库提供MD5，SHA1，SHA2散列和HMAC功能，以及AES加密/解密.
+encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) -  Performant，100％native-julia SHA1，SHA2- {224,256,384,512}实现.
 
 ### Lua
@@ -280,13 +280,13 @@ algorithm.
 - [bcrypt](https://github.com/pyca/bcrypt) - 为您的软件和服务器提供现代密码哈希.
 - [charm](https://github.com/JHUISI/charm) - 快速原型化密码系统的框架.
 - [Crypto-Vinaigrette](https://github.com/aditisrinivas97/Crypto-Vinaigrette) - 用于数字签名的量子抗性非对称密钥生成工具.
-- [cryptography](https://cryptography.io/en/latest/) -  Python库，它公开了加密配方和基元.
+- [cryptography](https://cryptography.io/en/latest/) -  Python库，用于公开加密配方和基元.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - 加密算法和应用程序的纯python实现.
 - [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
 - [paramiko](http://www.paramiko.org/) -  SSHv2协议的Python实现，提供客户端和服务器功能.
 - [Privy](https://github.com/ofek/privy) - 一个简单，快速的lib，可以正确地密码保护您的数据.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - 低级加密原语的自包含Python包.
-- [PyElliptic](https://github.com/yann2192/pyelliptic)   -  Python OpenSSL包装器.  适用于ECC，AES，HMAC，Blowfish的现代加密技术.
+- [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl](https://github.com/pyca/pynacl) -  Python绑定到网络和加密（NaCl）库.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
@@ -349,6 +349,7 @@ algorithm.
 
 ### Web-tools
 
+- [Boxentriq](https://www.boxentriq.com/code-breaking) - 易于使用的工具，用于分析和破解最常用的密码，包括Vigenère，Beaufort，Keyed Caesar，Transposition Ciphers等.
 - [Cryptolab](http://manansingh.github.io/Cryptolab-Offline/cryptolab.html) - 是一组与密码学相关的工具.
 - [CrypTool](http://www.cryptool-online.org/) - 引入了各种各样的密码，加密方法和分析工具，通常与插图示例一起使用.
 - [CyberChef](https://gchq.github.io/CyberChef/) - 用于加密，编码，压缩和数据分析的Web应用程序.
@@ -366,7 +367,7 @@ algorithm.
 
 ## Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一.
+ 欢迎您的贡献！  请看看 [contribution guidelines](https://github.com/sobolevn/awesome-cryptography/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 

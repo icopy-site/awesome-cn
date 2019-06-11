@@ -33,6 +33,7 @@
 - [Prevent Mobile Browser From Sleeping](https://davidwalsh.name/wake-lock-shim) - 如何防止手机入睡
 - [Responsive Web Design – What It Is And How To Use It](https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/) - 响应式设计技术概述.
 - [Rules for Mobile Performance Optimization](https://queue.acm.org/detail.cfm?id=2510122) - 加速页面加载的技术概述.
+- [Self-Host Your Static Assets](https://csswizardry.com/2019/05/self-host-your-static-assets/) - 您需要自托管静态资产的原因.
 - [Timing Out](https://adactio.com/journal/15122) - 处理谎言（糟糕的网络连接）的服务工作者策略.
 - [Tips for making interactive elements accessible on mobile devices](https://bitsofco.de/tips-for-making-interactive-elements-accessible-on-mobile-devices/) - 有关创建可访问移动UI的建议列表.
 - [Touch Devices Should Not Be Judged By Their Size](https://css-tricks.com/touch-devices-not-judged-size/) - 交互媒体功能概述.
@@ -104,8 +105,8 @@
 - [Fastclick](https://github.com/ftlabs/fastclick) - 在旧浏览器中删除300毫秒延迟.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 使用IntersectionObserver API的高性能，轻量级和可配置的延迟加载器
 - [React Dates](https://github.com/airbnb/react-dates) - 一个易于国际化，适合移动设备的日期选择器React库.
-- [Shiny](https://github.com/rikschennink/shiny) - 移动网站的闪亮反思
-- [Slideout](https://github.com/Mango/slideout) - 适用于您的移动网络应用的独立轻量级导航菜单.
+- [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites
+- [Slideout](https://github.com/Mango/slideout) - 适用于您的移动网络应用的独立轻量级导航菜单。
 - [Swiper](https://github.com/nolimits4web/swiper) - 最现代化的移动触摸滑块，具有硬件加速转换功能.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - 用于在非主流浏览器中调试站点的Web检查器.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - 多设备网站的工作流程.

@@ -34,8 +34,8 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Featured (new releases)
 
+-  [Firebase状态（2019年中）] [fire-base-2019]  -  Cloud Next和Google I / O 2019更新！
 -  [Firebase @ Google IO &#39;19] [fb-io-19]  - 所有Firebase会谈@ Google IO 2019.
--  [适用于Firebase的计划（Cron）云功能] [cron-cloud-functions]  - 用于Firebase云功能的Firebase本机Cron触发器.
 -  [Integrify] [integrify]  - 使用预先封装的云功能触发器在Firestore中实施参照和数据完整性.
 -  [VSCode Firebase Explorer] [vscode-firebase-explorer]  - 浏览和管理您的Firebase项目.
 -  [React Firebase Hooks] [react-firebase-hooks]  - 针对Firebase服务的React Hooks.
@@ -45,7 +45,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase文档] [fb-docs]  - 官方Firebase文档.
 -  [Firebase状态仪表板] [fb-status-dashboard]  - 此页面提供有关Firebase一部分的服务的状态信息.
 -  [Firebase快速入门] [fb-quickstarts]  - 官方Firebase快速入门.
-- 💡 [Google Codelabs | Firebase][google-codelabs] - Google Developers Codelabs provide a guided, tutorial, hands-on coding experience.
+  -  [Google Codelabs |  Firebase] [google-codelabs]  -  Google Developers Codelabs提供指导，教程和动手编码体验.
 
 ## Web
 
@@ -60,13 +60,14 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Angular Fire 2] [ng-fire]  -  Firebase和Angular的官方图书馆.
 -  [Re-base] [rebase]  - 用于构建React.js + Firebase应用程序的Relay灵感库.
   -  [React Redux Firebase] [react-redux-fb]  -  Firebase的Redux绑定.  包含用于React的高阶组件.
--  [GatsbyJS Firebase数据源] [gatsby-fire]  - 使用Gatsby将您的Firebase数据直接查询到静态生成的页面.
+- 🔌 [GatsbyJS Firebase Data Source][gatsby-fire] - Query your Firebase data right into your statically generated pages with Gatsby.
   -  [Apollo Link Firebase] [apollo-link-fb]  - 为RealtimeDB提供本地GraphQL接口.  数据库在本地与设备同步，Apollo Link提供对本地数据库的查询.
 -  [Firebase的BuckleScript绑定] [bs-fb]  - 用于FireML的BuckleScript绑定，用于ReasonML项目.
   -  [Angular Firebase PWA] [ng-firestarter]  - 由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
   -  [FireSQL] [firesql]  - 使用SQL语法查询Firestore.  发出必要的最少查询量以获取您请求的数据.
 -  [主机版本历史] [hosting-version-hist]  - 自动删除旧版本的站点部署.
 -  [Firestorter] [firestorter]  - 使用MobX（也用于本地反应），在零工作中使用React.
+-  [Nextbase] [nextbase]  -  Next.js，Redux和Firebase的Boilerplate，面向需要快速启动项目的开发人员.
 
 ## Mobile
 
@@ -88,7 +89,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### iOS
 
-- 🔌 [GeoFire for Objective-C][geofire-objc] - Realtime location queries with Firebase.
+-  [GeoFire for Objective-C] [geofire-objc]  - 使用Firebase进行实时位置查询.
 -  [Firebase UI] [fb-ui-ios]  - 适用于Firebase的iOS UI绑定.
   -  [MLKit  -  ARCore] [mlkit-arcore]  - 检测对象并使用增强现实中的3D标签标记它们的示例.  使用Firebase ML Kit，ARCore和Firebase RTDB.
 -  [MLKit  -  ARKit] [mlkit-arkit]  - 使用Firebase ML Kit检测对象的示例，并在增强现实中使用3D标签标记它们.
@@ -103,6 +104,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [BigQuery和Google Analytics] [bq-fb-analytics]  - 如何使用BigQuery在Google Analytics for Firebase中创建封闭式渠道.
 - 📹 [Official Cloud Function #Firecasts][fb-func-firecasts] - YouTube video series about understanding how Cloud Functions work.
 -  [Cloud Run Hosting for Cloud Run Services] [cloud-run-rewrites]  - 带托管重写和云运行服务的动态内容.
+-  [适用于Firebase的计划（Cron）云功能] [cron-cloud-functions]  - 用于Firebase云功能的Firebase本机Cron触发器.
 
 ## CLI & Editor
 
@@ -163,7 +165,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 <!-- Featured (new releases) -->
 
-[cron-cloud-functions]：https：//firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
+[state-of-firebase-2019]：https：//codeburst.io/the-state-of-firebase-mid-2019-2b002c458d70
 [integrify]：https：//github.com/anishkny/integrify
 [vscode-firebase-explorer]：https：//github.com/jsayol/vscode-firebase-explorer
 [react-firebase-hooks]：https：//github.com/CSFrequency/react-firebase-hooks
@@ -195,6 +197,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 [firesql]：https：//github.com/jsayol/FireSQL
 [四个城市]：https：//github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
+[nextbase]：https：//github.com/martyan/nextbase
 
 <!-- Mobile -->
 
@@ -217,7 +220,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 [geofire-objc]：https：//github.com/firebase/geofire-objc
 [fb-ui-ios]：https：//github.com/firebase/firebaseui-ios
-[mlkit-arcore]：https：//github.com/FirebaseExtended/MLKit-ARCore
+[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
 [mlkit sheet]：https：//github.com/FirebaseExtended/MLKit-ARKit
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
@@ -230,6 +233,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 [bq-fb-analytics]：https：//medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1
 [fb-func-firecasts]：https：//www.youtube.com/watch？v = 2mjfI0FYP7Y＆list = PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM
 [cloud-run-rewrites]：https：//firebase.googleblog.com/2019/04/firebase-hosting-and-cloud-run.html
+[cron-cloud-functions]：https：//firebase.googleblog.com/2019/04/schedule-cloud-functions-firebase-cron.html
 
 <!-- CLI & Editor -->
 
