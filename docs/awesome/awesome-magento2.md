@@ -35,7 +35,7 @@
 - [Quickorder](https://github.com/popesites/Magento-Quickorder) - 通过输入SKU和数量来启用批量订单创建.
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - 管理面板中运行crons的概述.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
-- [mage2.docker](https://github.com/aliuosio/mage2.docker) -  Magento 2  -  Docker Compose with nginx-http2，php，mysql，mailhog，redis，elasticsearch和Let&#39;s Encrypt Containers
+- [mage2.docker](https://github.com/aliuosio/mage2.docker) - 此安装程序为Magento 2安装基本的docker容器.如果在.env中设置了标志，也可以下载magento 2文件和样本数据.
 
 
 ---
@@ -64,6 +64,7 @@
 - [Magento 2 PHPStorm File Templates](https://github.com/lfolco/phpstorm-m2-filetemplates) -  PHPStorm Magento 2文件模板.
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) -  Composer Repository Manager，用于销售Magento 2扩展，并为订购的包提供作曲家安装.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - 具有已知安全问题的第三方Magento扩展的中央存储库.
+- [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - 用于调试Magento 2性能问题的Profiler.
 
 ### Deployment
 

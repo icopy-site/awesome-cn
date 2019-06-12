@@ -45,6 +45,7 @@
 - [Wagtail-Geo-Widget](https://github.com/Frojd/wagtail-geo-widget) -  Wagtail中GeoDjango PointField字段的Google Maps小部件.
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) -  Markdown字段和Wagtail块.
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - 为“ForeignKey”，“ParentalKey”和“ManyToMany”字段自动填充选择器.
+- [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector)   - 用于创建和选择相关项目的`ForeignKey`小部件.  类似于Django的`raw_id_fields`.
 
 ### StreamField
 
@@ -96,7 +97,7 @@
 
 ### Media
 
-- [wagtailmedia](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
+- [wagtailmedia](https://github.com/torchbox/wagtailmedia) -  Wagtail模块，用于管理管理员中的视频和音频文件.
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)   - 简单的应用程序，类似于wagtailimages，但用于嵌入来自SoundCloud的YouTube和Vimeo视频和音乐.  这是一个整合 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - 使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
@@ -110,7 +111,7 @@
 ### Forms
 
 - [wagtailpolls](https://github.com/takeflight/wagtailpolls) - 用于向Wagtail CMS添加轮询功能的插件.
-- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
+- [Wagtailsurveys](https://github.com/torchbox/wagtailsurveys) -  Wagtail模块，提供建立民意调查和调查的能力.
 - [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) -  wagtail-django-captcha提供了一种简单的方法来集成 [django-recaptcha](https://github.com/praekelt/django-recaptcha) 使用Wagtail formbuilder时的字段.
 - [wagtailstreamforms](https://github.com/AccentDesign/wagtailstreamforms) - 在Wagtail的管理员中构建表单，以便在流场中使用.
 
@@ -129,7 +130,7 @@
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) -  Wagtail的特定于站点的主题加载器.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) - 更容易分享Wagtail草稿.
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - 与Google图像搜索结果类似的网格卡布局，扩展了卡片详细信息区域.
-- [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - 适用于大量内联的Wagtail InlinePanel的直接替换（可与拖放支撑折叠）.
+- [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) -  Wagtail的日历应用程序.
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - 使用实际的URL配置和django视图扩展Wagtail页面.
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - 在Wagtail实例之间导入/导出页面.
@@ -287,7 +288,7 @@
 - [Jordi Joan’s blog](https://github.com/jordij/jordijoan.me) - 使用Wagtail CMS的个人博客网站.
 - [Localore: Finding America](https://github.com/ghostwords/localore) - 针对Localore的Wagtail CMS和Ansible剧本：寻找美国.
 - [Adventure Capitalists](https://github.com/AdventureCapitalists/website) -  Wagtail为世界上唯一的投资乐队提供动力的网站.
-- [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) -  NHS.UK内容存储和编辑应用程序.
+- [NHS.UK Content Store](https://github.com/nhsuk/nhsuk-content-store) – NHS.UK content store and editing app.
 - [dev.hel.fi](https://github.com/City-of-Helsinki/devheldev) - 拥有Wagtail的赫尔辛基市开发区.
 - [Digital Helsinki](https://github.com/City-of-Helsinki/digihel) - 赫尔辛基市数字赫尔辛基Wagtail CMS.
 - [Secure the News](https://github.com/freedomofpress/securethenews) - 用于跟踪新闻机构的TLS部署的自动扫描仪和Web仪表板.

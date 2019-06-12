@@ -152,6 +152,11 @@
 * [Vertx-Web](https://github.com/vert-x3/vertx-web) -  Vert.x-Web是一组用于使用Vert.x构建Web应用程序的构建块，Vert.x是一个用于在JVM上构建响应式应用程序的工具包.
 * [Dropwizard](https://github.com/dropwizard/dropwizard) - 用于开发操作友好，高性能，RESTful Web服务的框架.
 
+### Scala
+
+* [Chaos](https://github.com/mesosphere/chaos) - 用于在Scala中编写REST服务的轻量级框架.
+
+
 ### Haskell
 * [Rest for Haskell](https://github.com/silkapp/rest)   - 此包允许您在Haskell中创建REST API.  这些API可以在不同的Web框架中运行.  它们还可用于自动生成文档以及客户端库.
 

@@ -489,7 +489,7 @@
 - [Pock](https://github.com/pigigaldi/Pock)   - 在触摸栏中显示macOS Dock.  ！[swift_icon] 
 - [Touch Bar Preview](https://github.com/touchbar/Touch-Bar-Preview)   - 小型应用程序，可在新款MacBook Pro的触控条上显示您的设计.  ！[swift_icon] 
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[swift_icon] 
-- [Touch Emoji](https://github.com/lm-a/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
+- [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
 
 ### Utilities
 - [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -  iOS和Android的一键式截图，视频录制，应用程序安装！[swift_icon] 

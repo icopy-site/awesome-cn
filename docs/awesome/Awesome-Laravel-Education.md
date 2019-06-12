@@ -214,6 +214,7 @@
 - [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 - [Laravel 5 Beauty](http://laravelcoding.com/blog?tag=L5+Beauty)
 - [Diving Laravel](https://divinglaravel.com/)
+- [Bootsity](https://bootsity.com/)
 
 ## Newsletters
 
@@ -331,7 +332,7 @@
 在此条件下提供，但须符合以下条件：
 
 上述版权声明和本许可声明均应包含在内
-本软件的副本或重要部分.
+本软件的副本或实质部分.
 
 本软件按“原样”提供，不提供任何形式的保证，明示或
 暗示，包括但不限于对适销性的保证，

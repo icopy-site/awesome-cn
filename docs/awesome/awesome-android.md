@@ -23,7 +23,6 @@
 
 
 ## Emulators
-- [AMIDuOS](https://www.amiduos.com)
 - [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](https://www.bluestacks.com)
@@ -40,7 +39,7 @@
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - 图表和图形库，支持缩放，滚动和动画.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 支持按手势缩放和拖动的Android图表和图形库.
 - [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - 绘制创意统计弧图.
-- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - 数据可视化库，交互式图表.
+- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
 
 ### Cloud Services
 
@@ -84,7 +83,7 @@
 - [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) - 网格视图，支持具有不同大小的行的多个列.
 - [Flow](https://github.com/square/flow) - 有助于将应用程序描述为适度独立屏幕集合的库.
 - [SortableTableView](https://github.com/ISchwarz23/SortableTableView) - 包含简单TableView和高级SortableTableView的Android库，提供了大量定制可能性以满足所有需求.
-- [MaterialProgressBar](https://github.com/DreaminginCodeZH/MaterialProgressBar) - 材料设计ProgressBar具有一致的外观.
+- [MaterialProgressBar](https://github.com/zhanghai/MaterialProgressBar) - 材料设计ProgressBar具有一致的外观.
 - [AndroidFillableLoaders](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)   - 使用SVG路径的可填写进度视图.  用于创建有趣的应用徽标的不错选项.
 - [NexusDialog](https://github.com/dkharrat/NexusDialog) - 允许您使用少量代码轻松快速地在Android中创建表单.
 - [Snap RecyclerView Utils](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - 在不创建适配器的情况下填充单个或多个布局RecyclerView.
@@ -132,7 +131,7 @@
 - [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - 支持水平滚动ViewPager.
 - [RecyclerTabLayout](https://github.com/nshmura/RecyclerTabLayout) - 使用RecyclerView实现的高效TabLayout库.
 - [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - 简单介绍材料设计导航抽屉.
-- [Debug-Artist](https://github.com/baristaventures/debug-artist) - 调试菜单，轻松实现泄漏，手术刀等.
+- [Debug-Artist](https://github.com/BaristaVentures/android-debug-artist) - 调试菜单，轻松实现泄漏，手术刀等.
 - [Floating-Navigation-View](https://github.com/andremion/Floating-Navigation-View) - 一个简单的浮动操作按钮，显示锚定的导航视图.
 
 #### Animations
@@ -156,7 +155,7 @@
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)   -  FloatingLabel允许您创建一种类型的EditText.  *没有Gradle或Maven支持.*
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 支持浮动标签，单行省略号，最大/最小字符，帮助文本和自定义颜色的错误文本.
-- [Emojicon](https://github.com/rockerhieu/emojicon) - 为您的应用添加表情符号
+- [EmojiCompat](https://github.com/googlesamples/android-EmojiCompat) - 为您的应用添加表情符号
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) -  Android的Material Design搜索栏
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) - 基于模式的用户输入格式化器，解析器和验证器.
 - [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) - 密码EditText，允许自定义切换按钮
@@ -208,11 +207,10 @@
 
 - [Ion](https://github.com/koush/ion) - 良好的Android网络库.
 - [OkHttp](https://github.com/square/okhttp) - 适用于Android和Java应用程序的HTTP + SPDY客户端.
-- [Asynchronous Http Client](https://github.com/loopj/android-async-http) - 异步HTTP库.
 - [RoboSpice](https://github.com/stephanenicolas/robospice) - 使编写异步网络请求变得容易的库.
 - [IceNet](https://github.com/anton46/IceNet) -  Android的快速，简单和轻松的网络
 - [Android Volley](https://developer.android.com/training/volley/) - 官方Android HTTP库，使网络更容易，更快捷.
-- [IceSoap](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
+- [IceSoap](https://github.com/AlexGilleran/IceSoap) - 适用于Android的简单，异步，基于注释的SOAP.
 - [node-android](https://github.com/InstantWebP2P/node-android) - 在Android上运行Node.js.
 - [HappyDns](https://github.com/qiniu/happy-dns-android)   - 一个Dns库，用户可以使用自定义DNS服务器，dnspod httpdns.  仅支持A记录.
 - [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于在Android Instrumentation测试中模拟API响应的HTTP Web服务器.
@@ -275,7 +273,7 @@
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - 允许您计算两个位置之间的方向，并使用Google Directions API在Google地图上显示路线.
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - 扩展Google Maps Android API v2的功能，添加标记群集等功能
 - [MapScaleView](https://github.com/pengrad/MapScaleView) -  Google Maps Android API的比例尺
-- [GLMap](https://getyourmap.com)   - 使用MapCSS样式跨平台离线矢量地图.  包括离线搜索和离线导航.
+- [GLMap](https://globus.software)   - 使用MapCSS样式跨平台离线矢量地图.  包括离线搜索和离线导航.
 
 ### Utility
 - [Conceal SharedPreferences](https://github.com/afiqiqmal/SharedChamber) - 使用名为Conceal的Facebook安全加密的安全首选项.
@@ -295,7 +293,7 @@
 - [Validator](https://github.com/anderscheow/Validator) - 一个实用程序类，用于验证TextInputLayout中的文本.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) - 用于处理软键盘可见性更改事件的DSL.
 - [TimeIt](https://github.com/yashovardhan99/timeit) - 用于Android的秒表库，可以轻松启动，暂停，显示和维护应用程序中的多个秒表.
-- [Reactor](https://github.com/naqqdi/reactor) -  Reactor是一款快速安全的Android键值库.
+- [Reactor](https://github.com/oky2abbas/reactor) -  Reactor是一款快速安全的Android键值库.
  
 ### Debugging Tools
 
@@ -404,10 +402,9 @@
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - 关于MVVM（模型视图ViewModel）模式的示例.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  是Android开发人员播客，Donn Felker和Kaushik Gopal谈论如何构建优秀的软件并成为更好的Android开发人员.
+- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)  是Android开发人员的播客.  该展览由Android工程团队的开发人员主持，涵盖Android程序员感兴趣的主题，并与Google Android团队的工程师进行深入讨论和采访.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们与来自Android社区的人进行一口大小的对话.
-- [Android Intelligence](https://plus.google.com/collection/ATg6b) 与来自Android世界的有趣人士进行深入访谈.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) 关于Android开发的播客与Hannes Dorfmann，Artem Zinnatullin和精彩嘉宾！
 - [Talking Kotlin](http://talkingkotlin.com/) -  Kotlin上的播客等.
 
@@ -453,7 +450,7 @@
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife在Kotlin中编写的Android视图注入
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - 一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+- [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级库，提供有用的扩展，以消除Android SDK中的样板代码.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - 使用Uncle Bob干净的架构，Kotlin语言和最新的Android技术的基础项目.
 - [Koin](https://insert-koin.io/) -  Kotlin的轻量级依赖注入框架
@@ -463,7 +460,7 @@
 
 ## Performance
 - [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 一系列令人敬畏的Android教程，视频和性能优化工具.
-- [Booster](https://github.com/didi/booster) - Booster is an optimization toolkit for Android applications.
+- [Booster](https://github.com/didi/booster) -  Booster是Android应用程序的优化工具包.
 
 ## Other Awesome Lists
 其他惊人的令人敬畏的名单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
