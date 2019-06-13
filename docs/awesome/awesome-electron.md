@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
 
-&gt;用于创建应用程序的有用资源 [Electron](https://electronjs.org)
+> Useful resources for creating apps with [Electron](https://electronjs.org)
 
 你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
@@ -155,7 +155,7 @@
 - [ProtonMail Desktop](https://github.com/protonmail-desktop/application) - 非官方的ProtonMail应用程序.
 - [Comma Chameleon](https://github.com/theodi/comma-chameleon) -  CSV编辑器.
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop) - 密码管理员.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
+- [Mailspring](https://github.com/Foundry376/Mailspring)   - 可扩展的电子邮件客户端.  （Nylas Mail的叉子）
 - [Manta](https://github.com/hql287/Manta) - 为具有漂亮和可定制模板的自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) - 发现，收集和收听YouTube上的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) - 来自免费资源的音乐播放器.
@@ -271,7 +271,7 @@
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
 - [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
-- [electron-detach](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
 - [spectron](https://github.com/electron/spectron) - 使用ChromeDriver测试电子应用程序.
@@ -288,7 +288,7 @@
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - 为窗户添加活力（模糊）.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - “关于此应用程序”窗口.
 - [elemon](https://github.com/manidlou/elemon) - 在开发过程中实时重新加载您的应用.
-- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - 检查字符串是否是有效的加速器.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - 在浏览器窗口中查看PDF文件.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - 路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - 读取和写入用户设置到磁盘.
@@ -302,8 +302,11 @@
 - [chromium-net-errors](https://github.com/maxkueng/chromium-net-errors) -  Chromium的网络错误作为自定义错误类.
 - [run-electron](https://github.com/sindresorhus/run-electron) - 在没有所有垃圾终端输出的情况下运行Electron.
 - [ngx-electron](https://github.com/ThorstenHans/ngx-electron/) - 集成电子API和角度.
+- [debugtron](https://github.com/pd4d10/debugtron) - 调试生产中基于电子的应用程序.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止MITM.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化的IPC通信.
+- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对Chrome扩展程序的支持.
+- [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - 浏览器窗口和主进程之间的透明异步远程处理.
 
 ### Using Electron
 

@@ -13,26 +13,69 @@
 
 ## Specifications
 
+### Standards
+
 -  **自定义元素**为作者提供了一种构建自己的全功能DOM元素的方法.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
-  - [W3C HTML 5.3 Working Draft](https://www.w3.org/TR/html53/semantics-scripting.html#custom-elements-core-concepts)
-  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-element)
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
 
 -  ** Shadow DOM **描述了一种将多个DOM树组合成一个层次结构的方法，以及这些树如何在文档中相互交互，从而实现更好的DOM组合.
-  - [W3C Editor's Draft](http://w3c.github.io/webcomponents/spec/shadow/)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees)，第4.2.2节：影子树
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot)，第4.8节：接口`ShadowRoot`
-  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#shadow-trees)，第4.2.2节：影子树
-  - [W3C DOM 4.1 Working Draft](https://www.w3.org/TR/dom41/#interface-shadowroot)，第4.8节：接口`ShadowRoot`
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
 
   -  **` <template>  `**元素用于声明可以通过脚本克隆并插入到文档中的HTML片段.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
-  - [W3C HTML 5.1 2nd Edition](https://www.w3.org/TR/html51/semantics-scripting.html#the-template-element)
 
-## Introduction
+### Proposals
+
+#### CSS Shadow Parts
+
+- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
+- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
+- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) -  Chrome平台状态功能.
+- [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
+- [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
+
+#### Form-associated Custom Elements
+
+- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) -  Google Chrome小组提供的文档.
+- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) -  Chrome平台状态功能.
+
+#### Constructable Stylesheet Objects
+
+- [Specification Draft](https://wicg.github.io/construct-stylesheets/)
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
+- [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
+- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -  Chrome平台状态功能.
+
+#### Builtin Modules
+
+- [std-switch](https://github.com/tkent-google/std-switch)   - 提议` <std-switch>  `实现&#39;switch&#39;控件的HTML元素.
+- [std-toast](https://github.com/jackbsteinberg/std-toast)   - 提议` <std-toast>  `HTML元素实现&#39;toast&#39;弹出通知.
+
+### Polyfills
+
+#### @webcomponents
+
+下面的polyfills由Polymer团队维护.
+
+- [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - 用于HTML自定义元素v1的Polyfill.
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) -  ShadowDOM v1垫片.
+- [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) -  ShadowDOM样式封装垫片.
+- [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)   - `的最小polyfill <template>  `.
+
+#### @ungap
+
+下面的polyfill由维护 [ungap project](https://ungap.github.io).
+
+- [@ungap/custom-elements-builtin](https://github.com/ungap/custom-elements-builtin) - 内置自定义元素的polyfill扩展.
+
+## Articles
+
+### Introduction
 
 - [The Holy Grail Of Reusable Components: Custom Elements, Shadow DOM, And NPM](https://www.smashingmagazine.com/2018/07/reusable-components-custom-elements-shadow-dom-npm/)
 - [The Power of Web Components](https://hacks.mozilla.org/2018/11/the-power-of-web-components/)
@@ -43,7 +86,7 @@
 - [Web Components Introduction: Creating Custom HTML Elements in 2018](https://www.grapecity.com/en/blogs/web-components-introduction-creating-custom-html-elements-2018)
 - [Web Components in 2019: An Overview of the Most Exciting Proposals for the Web Platform Related to Web Components](https://scotch.io/bar-talk/an-overview-of-the-most-exciting-proposals-for-the-web-platform-related-to-web-components?utm_source=scotch&utm_campaign=share&utm_medium=twitter)
 
-## Custom Elements
+### Custom Elements
 
 - [Custom Elements v1: Reusable Web Components](https://developers.google.com/web/fundamentals/web-components/customelements)
 - [Custom Elements Everywhere](https://custom-elements-everywhere.com)
@@ -55,7 +98,7 @@
 - [Using Custom Elements (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
 - [A Guide to Custom Elements for React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
 
-## Shadow DOM
+### Shadow DOM
 
 - [Shadow DOM v1: Self-Contained Web Components](https://developers.google.com/web/fundamentals/web-components/shadowdom)
 - [What is the Shadow DOM?](https://bitsofco.de/what-is-the-shadow-dom/)
@@ -66,20 +109,12 @@
 - [Using Shadow DOM (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM)
 - [Open vs. Closed Shadow DOM](https://blog.revillweb.com/open-vs-closed-shadow-dom-9f3d7427d1af)
 
-## HTML Templates
+### HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
 - [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
 
-## Polyfills
-
-- [webcomponents.js](https://github.com/webcomponents/webcomponentsjs) - 支持HTML Web Components规范的polyfill套件.
-- [custom-elements](https://github.com/webcomponents/custom-elements) - 用于HTML自定义元素v1的Polyfill.
-- [shadydom](https://github.com/webcomponents/shadydom) -  ShadowDOM v1垫片.
-- [shadycss](https://github.com/webcomponents/shadycss) -  ShadowDOM样式封装垫片.
-- [template](https://github.com/webcomponents/template)   - `的最小polyfill <template>  `.
-
-## Best Practices
+### Best Practices
 
 - [Custom Element Best Practices](https://developers.google.com/web/fundamentals/web-components/best-practices)
 - [Gold Standard Checklist for Web Components](https://github.com/webcomponents/gold-standard/wiki)
@@ -87,13 +122,13 @@
 - [HowTo: Components](https://developers.google.com/web/fundamentals/web-components/examples/)
 - [Open Web Components Recommendations](https://open-wc.org)
 
-## Accessibility
+### Accessibility
 
 - [Styling Accessibility: A Web Components Approach](https://medium.com/@cfscorreia/styling-accessibility-a-web-components-approach-dc2aa8123eb2)
 - [The future of accessibility for custom elements](https://robdodson.me/the-future-of-accessibility-for-custom-elements/)
 - [Web components still need to be accessible](https://www.24a11y.com/2018/web-components-still-need-to-be-accessible/)
 
-## Use Cases
+### Use Cases
 
 - [Bringing Order to Web Design Chaos (with Web Components)](https://dev.to/thatjoemoore/bringing-order-to-web-design-chaos--3fhb)
 - [ING ❤ Web Components](https://dev.to/thepassle/ing--web-components-aef)
@@ -102,14 +137,6 @@
 - [Micro Frontends — extending the microservice idea to frontend development](https://micro-frontends.org)
 - [Web Components — the right way](https://equinsuocha.io/blog/web-components-the-right-way/)
 - [Reasons Web Components are perfect for a big company](https://medium.com/@sergicontre/reasons-web-components-are-perfect-for-a-big-company-28790d712ad5)
-
-## Discover
-
-- [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
-- [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
-- [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.
 
 ## Libraries
 
@@ -208,9 +235,13 @@
   - [Part 4: Encapsulating Style and Structure with Shadow DOM](https://css-tricks.com/encapsulating-style-and-structure-with-shadow-dom/)
   - [Part 5: Advanced Tooling for Web Components](https://css-tricks.com/advanced-tooling-for-web-components/)
 
-## Blogs
+## Miscellaneous
 
-- [Polymer Blog](https://www.polymer-project.org/blog/) -  Polymer项目和社区的最新进展.
+- [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
+- [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
+- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
+- [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
+- [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.
 
 ## History
 
@@ -257,36 +288,6 @@
 
 - [Web Components and Model Driven Views by Alex Russell](https://fronteers.nl/congres/2011/sessions/web-components-and-model-driven-views-alex-russell)
 - [What the Heck is Shadow DOM?](https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/)
-
-## Future
-
-### CSS Shadow Parts
-
-- [W3C First Public Working Draft](https://www.w3.org/TR/css-shadow-parts-1/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/css/css-shadow-parts)
-- [Explainer: CSS Shadow ::part and ::theme](https://github.com/fergald/docs/blob/master/explainers/css-shadow-parts-1.md)
-- [::part and ::theme pseudo elements on shadow hosts](https://www.chromestatus.com/features/5763933658939392) -  Chrome平台状态功能.
-- [Intent to Ship: CSS shadow parts](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/DAmfw08GGis/-0OyBbTmBgAJ) -  Blink实施更新，10.12.2018.
-- [Mozilla issue: Implement CSS Shadow Parts](https://bugzilla.mozilla.org/show_bug.cgi?id=1505489)
-- [WebKit issue: Add the support for the CSS shadow parts](https://bugs.webkit.org/show_bug.cgi?id=149443)
-
-### Form-associated Custom Elements
-
-- [GitHub issue](https://github.com/w3c/webcomponents/issues/187)
-- [Intent to Implement: Form-associated custom elements](https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/HW8j_JLLiPo) -  Blink实施更新，16.11.2018.
-- [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) -  Google Chrome小组提供的文档.
-- [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) -  Chrome平台状态功能.
-
-### Constructable Stylesheet Objects
-
-- [GitHub issue](https://github.com/w3c/webcomponents/issues/468)
-- [Specification Draft](https://wicg.github.io/construct-stylesheets/)
-- [web-platform-tests](https://github.com/web-platform-tests/wpt/blob/master/css/cssom/CSSStyleSheet-constructable.html)
-- [Explainer](https://github.com/WICG/construct-stylesheets/blob/gh-pages/explainer.md)
-- [Intent to Ship: Constructable Stylesheet Objects](https://groups.google.com/a/chromium.org/forum/#!msg/blink-dev/gL2EVBzO5og/YfId9-vqBAAJ) -  Blink实施更新，13.12.2018.
-- [Constructable Stylesheets](https://www.chromestatus.com/feature/5394843094220800) -  Chrome平台状态功能.
-- [GitHub issue for Polymer integration](https://github.com/Polymer/polymer/issues/5456)
-- [GitHub issue for lit-html integration](https://github.com/Polymer/lit-html/issues/689)
 
 ## Who To Follow
 

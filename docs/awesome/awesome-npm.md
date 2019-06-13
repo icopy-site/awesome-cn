@@ -117,6 +117,8 @@
 - [npm-run-all](https://github.com/mysticatea/npm-run-all) - 用于并行或串行运行多个npm脚本的CLI工具.
 - [onchange](https://github.com/Qard/onchange) - 监视文件和文件夹，并在更改内容时运行命令.
 - [cli-error-notifier](https://github.com/micromata/cli-error-notifier) - 当npm脚本失败时发送本机桌面通知.
+- [luna](https://github.com/rvpanoz/luna) - 用于管理npm依赖项的应用程序.
+- [emma-cli](https://github.com/maticzav/emma-cli) - 交互式CLI包搜索实用程序.
 
 
 ## Clients

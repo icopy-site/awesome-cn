@@ -25,7 +25,7 @@
 - [Communities](#communities)
 - [Conferences](#conferences)
 - [Tools](#tools)
-  - [HR] (#hr)
+  - [HR](#hr)
   - [Communication](#communication)
   - [Project Management](#project-management)
   - [Others](#others)

@@ -16,7 +16,7 @@
 
  此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
- **重要**：下面列出的资源是本清单的贡献者真诚收集的，希望它们对您有用.  但按照 [License](#license)  我们不能保证所引用软件的质量或适用性.  所以在安装之前要正确地告知自己，如果遇到不合适或错误的事情，请在我们的文件中提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues) so we can take appropriate action. Thank you!
+ **重要**：下面列出的资源是本清单的贡献者真诚收集的，希望它们对您有用.  但按照 [License](#license)  我们不能保证所引用软件的质量或适用性.  所以在安装之前要正确地告知自己，如果遇到不合适或错误的事情，请在我们的文件中提出问题 [Issue Tracker](https://github.com/humanetech-community/awesome-humane-tech/issues)  所以我们可以采取适当的行动.  谢谢！
 
 ## Community
 
@@ -123,7 +123,7 @@
 - [Mastodon](https://joinmastodon.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/tootsuite/mastodon) - 您自己托管的全球互联微博社区.
 - [Diaspora](https://diasporafoundation.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/diaspora/diaspora) - 隐私，分布式，开源社交网络.
 - [Humnub](http://www.humhub.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/humhub/humhub) - 一个用PHP编写的功能丰富且高度灵活的开源社交网络工具包.
-- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+- [Patchwork](https://www.scuttlebutt.nz/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ssbc/patchwork) - 基于Secure Scuttlebutt（SSB）构建的分散式消息传递和共享应用程序.
 - [Pump.io](http://pump.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pump-io/pump.io) - 一个流服务器，可以完成人们真正想要的社交网络.
 - [Voten](https://voten.co/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/voten-co/voten) - 一个开源，美丽，高度可定制但致命的简单，温暖的社区.
 - [Socialhome](https://socialhome.network/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jaywink/socialhome) - 具有社交网络功能的联合个人配置文件.
@@ -182,6 +182,7 @@
 
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/CoralineAda/postmeritocracy) - 精英管理后世界中软件开发人员的价值观和原则.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/get-alex/alex) - 捕捉不敏感，不体谅写作.
+- [Buster](https://github.com/dessant/buster) - 浏览器扩展和人类的Captcha解算器.
 
 ## Awareness
 
@@ -195,7 +196,7 @@
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) - 普林斯顿网络透明度和问责制项目，一个隐私测量框架.
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 根据许多已知的跟踪技术检查您的电子邮件提供商和客户端保
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
-- [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - 浏览器扩展，以帮助ProPublica在Facebook上收集政治广告.
+- [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - Browser extension to help ProPublica collect political advertising on Facebook.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - 一种浏览器扩展程序，用于跟踪哪些实体正在定位具有广告的受众特征.
 
 ## Censorship
@@ -207,7 +208,7 @@
 本节适用于仍然对其主题或代码感兴趣的非活动项目.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - 防止您的智能手机或平板电脑通过Wi-Fi网络泄露隐私敏感信息.
-- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) - 在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown)，代码仍然可用）.
+- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) - 在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown), code still usable).
 
 ## Related awesomeness
 

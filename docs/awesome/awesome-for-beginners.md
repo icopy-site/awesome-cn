@@ -54,6 +54,7 @@
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy)  _（标签：E-easy）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kubernetes包装经理
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：抓起来，难度/ 1：轻松，技术/围棋）_ <br>  Golang和React中的开源Slack替代方案
+- [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  Docker CLI
 
 ## Java
 
@@ -172,7 +173,6 @@
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner)  _（标签：初学者）_ <br>  Java虚拟机上Ruby的实现.
-- [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  MCollective Server和Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  优雅的网络开发穿着DSL.
 - [Goby](https://github.com/nskins/goby)  _（标签：初学者）_ <br>  开发文本RPG的框架.
 - [Hanami](https://github.com/hanami/hanami/labels/easy)  _（标签：简单）_ <br>  Ruby的现代框架.

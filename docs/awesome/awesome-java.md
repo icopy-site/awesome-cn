@@ -140,7 +140,7 @@
 
 ### CSV
 
-*简化读取/写入CSV数据的框架和库.*
+*Frameworks and libraries that simplify reading/writing CSV data.*
 
 - [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv) - 杰克逊扩展用于读写CSV.
 - [opencsv](http://opencsv.sourceforge.net) - 简单的CSV解析器.
@@ -165,7 +165,7 @@
 - [Jedis](https://github.com/xetorthio/jedis) - 与Redis交互的小客户端，以及命令方法.
 - [Jest](https://github.com/searchbox-io/Jest) -  Elasticsearch REST API的客户端.
 - [jetcd](https://github.com/justinsb/jetcd) -  etcd的客户端库.
-- [Jinq](https://github.com/my2iu/Jinq) - 通过符号执行Java 8 Lambdas（在JPA或jOOQ之上）来输入数据库查询.
+- [Jinq](https://github.com/my2iu/Jinq) - Typesafe database queries via symbolic execution of Java 8 Lambdas (on top of JPA or jOOQ).
 - [jOOQ](https://www.jooq.org) - 基于SQL模式生成类型安全代码.
 - [Liquibase](http://www.liquibase.org) - 独立于数据库的库，用于跟踪，管理和应用数据库模式更改.
 - [MapDB](http://www.mapdb.org) - 嵌入式数据库引擎，提供磁盘或堆外内存支持的并发集合.
@@ -229,6 +229,7 @@
 - [JavaParser](https://github.com/javaparser/javaparser) - 解析，修改和生成Java代码.
 - [JavaSymbolSolver](https://github.com/javaparser/javasymbolsolver) -  Java的符号求解器.
 -  [JRebel！[c]]（https://zeroturnaround.com/software/jrebel） - 即时重新加载代码和配置更改，无需重新部署.
+- [Manifold](https://manifold.systems) - 通过类型安全元编程，结构类型和扩展方法等强大功能重新激活Java.
 - [NoException](https://noexception.machinezoo.com) - 允许在功能接口中检查异常并将异常转换为可选返回.
 - [SneakyThrow](https://github.com/rainerhahnekamp/sneakythrow)   - 忽略没有字节码操作的已检查异常.  也可以在Java 8流操作中使用.
 
@@ -414,7 +415,7 @@
 
 - [fastjson](https://github.com/alibaba/fastjson) - 非常快的处理器，没有额外的依赖性和完整的数据绑定.
 - [Jolt](https://github.com/bazaarvoice/jolt) -  JSON到JSON转换工具.
-- [JsonPath](https://github.com/jayway/JsonPath) - Extract data from JSON using XPATH-like syntax.
+- [JsonPath](https://github.com/jayway/JsonPath) - 使用类似XPATH的语法从JSON中提取数据.
 - [JsonSurfer](https://github.com/jsurfer/JsonSurfer) - 流JasonPath处理器，专用于处理大而复杂的JSON数据.
 
 ### JVM and JDK
@@ -633,7 +634,7 @@
 
 -  [fastThread！[c]]（http://fastthread.io） - 使用免费的基于云的上传界面分析和可视化线程转储.
   -  [GCeasy！[c]]（http://gceasy.io） - 分析和可视化GC日志的工具.  它提供免费的基于云的上传界面.
-- [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - 低开销，无偏置采样分析器.
+- [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - A low-overhead, bias-free sampling profiler.
 - [jHiccup](https://github.com/giltene/jHiccup) - 记录和记录平台JVM停顿.
 - [JITWatch](https://github.com/AdoptOpenJDK/jitwatch) - 分析HotSpot JVM所做的JIT编译器优化.
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh) - 用于构建，运行和分析用Java和其他语言编写的针对JVM的nano / micro / milli / macro基准测试的Java工具.
@@ -689,7 +690,7 @@
 - [Math](http://commons.apache.org/proper/commons-math) - 轻量级，独立的数学和统计组件.
 - [Monitoring](http://commons.apache.org/sandbox/commons-monitoring) - 监控旨在为Java应用程序提供简单但可扩展的监控解决方案.
 - [Nabla](http://commons.apache.org/sandbox/commons-nabla) -  Nabla提供自动差异类，可以生成以Java语言实现的任何函数的派生.
-- [Net](http://commons.apache.org/proper/commons-net) - Collection of network utilities and protocol implementations.
+- [Net](http://commons.apache.org/proper/commons-net) - 网络实用程序和协议实现的集合.
 - [OGNL](http://commons.apache.org/proper/commons-ognl) - 对象图导航语言.
 - [OpenPGP](http://commons.apache.org/sandbox/commons-openpgp) - 使用OpenPGP签名和验证数据的接口.
 - [Performance](http://commons.apache.org/sandbox/commons-performance) - 用于microbenchmark客户端的小型框架，具有Commons DBCP和Pool的实现.
@@ -948,7 +949,7 @@
 
 ### Web Frameworks
 
-*Frameworks that handle the communication between the layers of a web application.*
+*处理Web应用程序各层之间通信的框架.*
 
 - [Apache Tapestry](https://tapestry.apache.org) - 面向组件的框架，用于创建动态，健壮，高度可扩展的Web应用程序.
 - [Apache Wicket](https://wicket.apache.org) - 类似于Tapestry的基于组件的Web应用程序框架，具有状态GUI.

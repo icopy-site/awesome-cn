@@ -213,6 +213,7 @@ Installers
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
 - [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 运用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
+- [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
@@ -607,6 +608,7 @@ Projects
 * [Hyper.sh/frakti](https://github.com/kubernetes/frakti) - 基于Hypervisor的容器运行时
 * [virtlet](https://github.com/Mirantis/virtlet) - 用于运行VM工作负载的Kubernetes CRI实施
 * [infranetes](https://github.com/apporbit/infranetes)
+* [Kata Containers](https://katacontainers.io)
 
 ## Database
 

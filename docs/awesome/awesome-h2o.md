@@ -39,10 +39,12 @@
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/)  Bradley Efron，Trevor Hastie.  （2016）
 - [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)  Joshua F. Wiley.  （2016）
 - [Spark in Action](https://www.manning.com/books/spark-in-action)  PetarZečević，MarkoBonaći.  （2016）
-- [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) PeterBühlmann，Petros Drineas，Michael Kane和Mark J. van der Laan（2015）
+- [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) PeterBühlmann，Petros Drineas，Michael Kane，Mark J. van der Laan（2015）
 
 ## Research Papers
 
+- [Human actions recognition in video scenes from multiple camera viewpoints](https://www.sciencedirect.com/science/article/pii/S1389041718308970)  Fernando Itano，Ricardo Pires，Miguel Angelo de Abreu de Sousa，Emilio Del-Moral-Hernandeza.  （2019）
+- [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   Fernando Itano，Miguel Angelo de Abreu de Sousa，Emilio Del-Moral-Hernandez.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B. Auffenberg，Khurshid R. Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C. Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
 - [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergius Stirenko，Yuri Gordienko.  （2017）
@@ -58,7 +60,7 @@
 - [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  Silvio L. Domingos，Rommel N. Carvalho，Ricardo S. Carvalho，Guilherme N. Ramos.  （2016）
 - [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG.Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016）
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016）
-- [Deep learning and association rule mining for predicting drug response in cancer](http://dx.doi.org/10.1101/070490)  康斯坦丁N. Vougas，托马斯·杰克逊，亚历山大Polyzos，迈克尔Liontos，伊丽莎白O.约翰逊，瓦西里斯Georgoulias，保罗·汤森，吉日鲍尔泰克，瓦西里斯G. Gorgoulis.  （2016）
+- [Deep learning and association rule mining for predicting drug response in cancer](http://dx.doi.org/10.1101/070490)  Konstantinos N. Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O. Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G. Gorgoulis.  （2016）
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  StéphanieFlorenceVisser.  （2016）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)  KrzysztofUrbański，StanisławGruszczyńsk.  （2016）
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  Erin LeDell.  （2015）
