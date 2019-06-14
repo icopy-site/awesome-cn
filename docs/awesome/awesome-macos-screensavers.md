@@ -245,14 +245,6 @@ Free
 
 [![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/googleTrends.png)](https://www.google.com/trends/hottrends/visualize?nrow=5&ncol=5)
 
-### Google's Featured Photos Screensaver
-
-&gt;在不使用Mac时查看精美的新照片.
-
-Free
-
-[![](https://raw.githubusercontent.com/agarrharr/awesome-macos-screensavers/master/screenshots/Googlefeaturedphotos.png)](https://plus.google.com/featuredphotos)
-
 ---
 
 ## License

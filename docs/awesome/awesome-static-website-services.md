@@ -70,7 +70,9 @@
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - 通过Iron.io  - 在多语言集装箱化环境中运行代码，具有无限规模和简单定价
 - [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有云，公共云或混合云.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的BlueMix托管平台的一部分，以及开源，很好地与他们的Watson AI生态系统联系在一起
+- [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/)   - 以您选择的语言将功能编写为服务，并将其部署到全球数据中心网络.  所有组网，包括智能路由和负载均衡，都由StackPath通过专用骨干网进行管理.
 - [Zeit Now](https://zeit.co/now#features) -  Zeit Now允许人们以他们选择的语言将功能编写为服务，并作为monorepo的一部分进行部署.
+
 
 ## Community
 

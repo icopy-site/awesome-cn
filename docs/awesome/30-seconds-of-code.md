@@ -424,7 +424,7 @@ const spreadOver = fn =&gt; argsArr =&gt; fn（... argsArr）;
 <summary>Examples</summary>
 
 ```js
-const arrayMax = spreadOver(Math.max);
+const arrayMax = spreadOver（Math.max）;
  arrayMax（[1,2,3]）;  // 3
 ```
 
@@ -602,7 +602,7 @@ const bifurcateBy =（arr，fn）=&gt;
 ```js
 const chunk =（arr，size）=&gt;
   Array.from（{length：Math.ceil（arr.length / size）}，（v，i）=&gt;
-    arr.slice(i * size, i * size + size)
+    arr.slice（i * size，i * size + size）
   );
 ```
 
@@ -942,7 +942,7 @@ const filterNonUniqueBy =（arr，fn）=&gt;
 ```js
 filterNonUniqueBy(
   [
-    {id：0，值：&#39;a&#39;}，
+    { id: 0, value: 'a' },
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -1234,7 +1234,7 @@ const initializeArrayWithValues =（n，val = 0）=&gt; Array（n）.fill（val�
 
 ### initializeNDArray
 
-创建具有给定值的n维数组.
+Create a n-dimensional array with given value.
 
 使用递归.
 使用`Array.prototype.map（）`生成行，其中每个行都是使用`initializeNDArray`初始化的新数组.
@@ -1289,7 +1289,7 @@ const intersection =（a，b）=&gt; {
 ```js
 const intersectionBy =（a，b，fn）=&gt; {
   const s = new Set（b.map（fn））;
-  return a.filter（x =&gt; s.has（fn（x）））;
+  return a.filter(x => s.has(fn(x)));
 };
 ```
 
@@ -1348,7 +1348,7 @@ isSorted常量= ARR =&gt; {
 ```js
  isSorted（[0，1，2，2]）;  // 1
  isSorted（[4，3，2]）;  // -1
-isSorted([4, 3, 5]); // 0
+ isSorted（[4，3，5]）;  // 0
 ```
 
 </details>
@@ -1674,12 +1674,12 @@ const permutations = arr =&gt; {
 使用`Array.prototype.filter（）`和`Array.prototype.includes（）`来提取不需要的值.
 使用`Array.prototype.length = 0`来改变传入的数组，方法是将它的长度重置为零，并使用`Array.prototype.push（）`重新填充它，只使用拉取的值.
 
-_(For a snippet that does not mutate the original array see [`without`](#without))_
+_（对于不改变原始数组的片段，请参阅 [`without`](#without))_
 
 ```js
-const pull = (arr, ...args) => {
+const pull =（arr，... args）=&gt; {
    让argState = Array.isArray（args [0]）？  args [0]：args;
-  let pulled = arr.filter((v, i) => !argState.includes(v));
+  let pull = arr.filter（（v，i）=&gt;！argState.includes（v））;
   arr.length = 0;
   pulling.forEach（v =&gt; arr.push（v））;
 };
@@ -2202,7 +2202,7 @@ const symmetricDifference =（a，b）=&gt; {
 
 ```js
  symmetricDifference（[1,2,3]，[1,2,4]）;  // [3,4]
- 对称差（[1，2,2]，[1,3，1]）;  // [2,2,3]
+ symmetricDifference（[1,2,2]，[1,3,1]）;  // [2,2,3]
 ```
 
 </details>
@@ -2215,7 +2215,7 @@ const symmetricDifference =（a，b）=&gt; {
 通过将`fn`应用于每个数组的元素来创建一个`Set`，然后在每个数组的元素上使用`Array.prototype.filter（）`来保留不包含在另一个数组中的值.
 
 ```js
-const symmetricDifferenceBy = (a, b, fn) => {
+const symmetricDifferenceBy =（a，b，fn）=&gt; {
   const sA = new Set（a.map（v =&gt; fn（v）））
     sB = new Set（b.map（v =&gt; fn（v）））;
   return [... a.filter（x =&gt;！sB.has（fn（x））），... b.filter（x =&gt;！sA.has（fn（x）））];
@@ -2453,10 +2453,10 @@ const unionBy =（a，b，fn）=&gt; {
 
 使用提供的比较器函数返回两个数组中任何一个中存在的每个元素.
 
-Create a `Set` with all values of `a` and values in `b` for which the comparator finds no matches in `a`, using `Array.prototype.findIndex()`.
+创建一个`Set`，其中包含`a`的所有值和`b`中的值，比较器在`a`中找不到匹配，使用`Array.prototype.findIndex（）`.
 
 ```js
-const unionWith = (a, b, comp) =>
+const unionWith =（a，b，comp）=&gt;
   Array.from（new Set（[... a，... b.filter（x =&gt; a.findIndex（y =&gt; comp（x，y））=== -1）]））;
 ```
 
@@ -2498,7 +2498,7 @@ const uniqueElements = arr =&gt; [... new Set（arr）];
 比较器函数有两个参数：被比较的两个元素的值.
 
 ```js
-const uniqueElementsBy =（arr，fn）=&gt;
+const uniqueElementsBy = (arr, fn) =>
   arr.reduce（（acc，v）=&gt; {
     if（！acc.some（x =&gt; fn（v，x）））acc.push（v）;
     返回acc;
@@ -2511,7 +2511,7 @@ const uniqueElementsBy =（arr，fn）=&gt;
 ```js
 uniqueElementsBy(
   [
-    {id：0，值：&#39;a&#39;}，
+    { id: 0, value: 'a' },
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -2545,7 +2545,7 @@ const uniqueElementsByRight =（arr，fn）=&gt;
 ```js
 uniqueElementsByRight(
   [
-    {id：0，值：&#39;a&#39;}，
+    { id: 0, value: 'a' },
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -2724,7 +2724,7 @@ const zipObject =（props，values）=&gt;
 
 ```js
  zipObject（[&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]，[1,2]）;  // {a：1，b：2，c：undefined}
- zipObject（[&#39;a&#39;，&#39;b&#39;]，[1,2,3]）;  // {a：1，b：2}
+zipObject(['a', 'b'], [1, 2, 3]); // {a: 1, b: 2}
 ```
 
 </details>
@@ -2870,11 +2870,11 @@ const copyToClipboard = str =&gt; {
 ```js
 const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
   让current = start，
-     _step =（结束 - 开始）*步&lt;0？  -step：step，
+    _step = (end - start) * step < 0 ? -step : step,
     timer = setInterval（（）=&gt; {
       当前+ = _step;
       document.querySelector（selector）.innerHTML = current;
-      if（current&gt; = end）document.querySelector（selector）.innerHTML = end;
+      if (current >= end) document.querySelector(selector).innerHTML = end;
       if（current&gt; = end）clearInterval（timer）;
     }，Math.abs（Math.floor（duration /（end  -  start））））;
   返回时间;
@@ -2924,7 +2924,7 @@ const el = createElement（
 
 
 
-创建一个pub / sub（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
+Creates a pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
 
 使用`Object.create（null）`创建一个空的`hub`对象，该对象不从`Object.prototype`继承属性.
 对于`emit`，基于`event`参数解析处理程序数组，然后通过传入数据作为参数，使用`Array.prototype.forEach（）`运行每个处理程序.
@@ -2959,7 +2959,7 @@ const hub = createEventHub（）;
 let increment = 0;
 
 //订阅：收听不同类型的活动
-hub.on('message', handler);
+hub.on（&#39;message&#39;，handler）;
 hub.on（&#39;message&#39;，（）=&gt; console.log（&#39;Message event fired&#39;））;
 hub.on（&#39;increment&#39;，（）=&gt; increment ++）;
 
@@ -2989,7 +2989,7 @@ const currentURL =（）=&gt; window.location.href;
 <summary>Examples</summary>
 
 ```js
- CURRENTURL（）;  //&#39;https://google.com&#39;
+currentURL(); // 'https://google.com'
 ```
 
 </details>
@@ -3107,7 +3107,7 @@ formToObject(document.querySelector('#form')); // { email: 'test@email.com', nam
 ```js
 const getImages =（el，includeDuplicates = false）=&gt; {
   const images = [... el.getElementsByTagName（&#39;img&#39;）].map（img =&gt; img.getAttribute（&#39;src&#39;））;
-   return includeDuplicates？  图像：[...新集（图像）];
+  return includeDuplicates ? images : [...new Set(images)];
 };
 ```
 
@@ -3198,7 +3198,7 @@ const hashBrowser = val =&gt;
       view = new DataView（h）;
     for（let i = 0; i &lt;view.byteLength; i + = 4）
       hexes.push（（&#39;00000000&#39;+ view.getUint32（i）.toString（16））.slice（-8））;
-    return hexes.join（&#39;&#39;）;
+    return hexes.join('');
   });
 ```
 
@@ -3219,7 +3219,7 @@ const hashBrowser = val =&gt;
 使用`NodeList.prototype.forEach（）`将`display：none`应用于指定的每个元素.
 
 ```js
-const hide = (...el) => [...el].forEach(e => (e.style.display = 'none'));
+const hide =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#39;none&#39;））;
 ```
 
 <details>
@@ -3296,7 +3296,7 @@ const insertBefore =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;befo
 
 ### isBrowserTabFocused
 
-如果页面的浏览器选项卡是聚焦的，则返回“true”，否则返回“false”.
+Returns `true` if the browser tab of the page is focused, `false` otherwise.
 
 使用Page Visibility API引入的`Document.hidden`属性来检查页面的浏览器选项卡是可见还是隐藏.
 
@@ -3375,7 +3375,7 @@ const observeMutations =（element，callback，options）=&gt; {
 
 ### off
 
-Removes an event listener from an element.
+从元素中删除事件侦听器.
 
 使用`EventTarget.removeEventListener（）`从元素中删除事件侦听器. 
 省略第四个参数`opts`使用`false`或根据添加事件监听器时使用的选项指定它.
@@ -3494,7 +3494,7 @@ const prefix = prop =&gt; {
 在每个动画帧上调用提供的回调.
 
 使用递归. 
-如果`running`是&#39;true`，则继续调用`window.requestAnimationFrame（）`，它调用提供的回调. 
+Provided that `running` is `true`, continue invoking `window.requestAnimationFrame()` which invokes the provided callback. 
 使用两个方法`start`和`stop`返回一个对象，以允许手动控制录制. 
 省略第二个参数`autoStart`，在调用函数时隐式调用`start`.
 
@@ -3516,8 +3516,8 @@ const recordAnimationFrames =（callback，autoStart = true）=&gt; {
       if（running）run（）;
     });
   };
-  if（autoStart）start（）;
-  return {start，stop};
+  if (autoStart) start();
+  return { start, stop };
 };
 ```
 
@@ -3571,7 +3571,7 @@ const runAsync = fn =&gt; {
        类型：&#39;application / javascript;  字符集= UTF-8&#39;
     })
   );
-  返回新的Promise（（res，rej）=&gt; {
+  return new Promise((res, rej) => {
     worker.onmessage =（{data}）=&gt; {
       res（data），worker.terminate（）;
     };
@@ -3595,7 +3595,7 @@ const longRunningFunction =（）=&gt; {
 };
 /*
   注意：由于该函数在不同的上下文中运行，因此不支持闭包.
-  提供给`runAsync`的函数被字符串化，所以一切都变成了文字.
+  The function supplied to `runAsync` gets stringified, so everything becomes literal.
   必须在里面定义所有变量和函数.
 */
  runAsync（longRunningFunction）.然后（的console.log）;  // 209685000000
@@ -3612,7 +3612,7 @@ let outsideVariable = 50;
 平滑滚动到页面顶部.
 
 使用`document.documentElement.scrollTop`或`document.body.scrollTop`与顶部保持距离.
- 滚动距离顶部一小部分距离.  使用`window.requestAnimationFrame（）`来动画滚动.
+Scroll by a fraction of the distance from the top. Use `window.requestAnimationFrame()` to animate the scrolling.
 
 ```js
 const scrollToTop =（）=&gt; {
@@ -3908,7 +3908,7 @@ const getMeridiemSuffixOfInteger = num =&gt;
        ？  12 +&#39;pm&#39;
       ：num &lt;12
          ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+        : (num % 12) + 'pm';
 ```
 
 <details>
@@ -3988,10 +3988,10 @@ const isSameDate =（dateA，dateB）=&gt; dateA.toISOString（）=== dateB.toIS
 
 返回给定日期的最大值.
 
-使用`Math.max.apply（）`查找最大日期值，`new Date（）`将其转换为`Date`对象.
+使用带有`Math.max`的ES6扩展语法来查找最大日期值，`new Date（）`将其转换为`Date`对象.
 
 ```js
-const maxDate =（... dates）=&gt; new Date（Math.max.apply（null，... dates））;
+const maxDate = dates =&gt; new Date（Math.max（... dates））;
 ```
 
 <details>
@@ -4014,10 +4014,10 @@ const array = [
 
 返回给定日期的最小值.
 
-使用`Math.min.apply（）`查找最小日期值，`new Date（）`将其转换为`Date`对象.
+使用ES6扩展语法查找最小日期值，`new Date（）`将其转换为`Date`对象.
 
 ```js
-const minDate =（... dates）=&gt; new Date（Math.min.apply（null，... dates））;
+const minDate = dates =&gt; new Date（Math.min（... dates））;
 ```
 
 <details>
@@ -4157,7 +4157,7 @@ const freddyBound = bindKey（freddy，&#39;greet&#39;）;
 循环遍历包含异步事件的函数数组，在每个异步事件完成时调用`next`.
 
 ```js
-const chainAsync = fns => {
+const chainAsync = fns =&gt; {
   让curr = 0;
   const last = fns [fns.length  -  1];
   const next =（）=&gt; {
@@ -4204,6 +4204,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
 
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
@@ -4458,7 +4459,7 @@ const hz =（fn，iterations = 100）=&gt; {
 // 10,000元素数组
 const numbers = Array(10000)
   .填（）
-  .map（（_，i）=&gt; i）;
+  .map((_, i) => i);
 
 //具有相同目标的测试函数：总结数组中的元素
 const sumReduce =（）=&gt; numbers.reduce（（acc，n）=&gt; acc + n，0）;
@@ -4929,7 +4930,7 @@ const clampNumber =（num，a，b）=&gt; Math.max（Math.min（num，Math.max�
 
 将角度从度数转换为弧度.
 
-Use `Math.PI` and the degree to radian formula to convert the angle from degrees to radians.
+使用`Math.PI`和弧度公式将角度从度数转换为弧度.
 
 ```js
 const degreesToRads = deg =&gt;（deg * Math.PI）/ 180.0;
@@ -5125,7 +5126,7 @@ const gcd =（... arr）=&gt; {
 省略第三个参数`step`，使用默认值`2`.
 
 ```js
-const geometricProgression =（end，start = 1，step = 2）=&gt;
+const geometricProgression = (end, start = 1, step = 2) =>
   Array.from（{length：Math.floor（Math.log（end / start）/ Math.log（step））+ 1}）.map（
     （v，i）=&gt; start * step ** i
   );
@@ -5474,7 +5475,7 @@ const percentile =（arr，val）=&gt;
 
 返回给定数字数组的powerset.
 
-Use `Array.prototype.reduce()` combined with `Array.prototype.map()` to iterate over elements and combine into an array containing all combinations.
+使用`Array.prototype.reduce（）`结合`Array.prototype.map（）`迭代元素并组合成一个包含所有组合的数组.
 
 ```js
 const powerset = arr =&gt; arr.reduce（（a，v）=&gt; a.concat（a.map（r =&gt; [v] .concat（r））），[[]]）;
@@ -5620,7 +5621,7 @@ const round =（n，decimals = 0）=&gt; Number（`$ {Math.round（`$ {n} e $ {d
 
 ### sdbm
 
-Hashes the input string into a whole number.
+将输入字符串哈希为整数.
 
 使用`String.prototype.split（&#39;&#39;）`和`Array.prototype.reduce（）`来创建输入字符串的哈希，利用位移.
 
@@ -5747,7 +5748,7 @@ const sumPower =（end，power = 2，start = 1）=&gt;
 
 ### toSafeInteger
 
-将值转换为安全整数.
+Converts a value to a safe integer.
 
 使用`Math.max（）`和`Math.min（）`来找到最接近的安全值.
 使用`Math.round（）`转换为整数.
@@ -5777,7 +5778,7 @@ const toSafeInteger = num =&gt;
 ```js
 const vectorDistance =（... coords）=&gt; {
   let pointLength = Math.trunc（coords.length / 2）;
-  let sum = coords
+  让sum = coords
     .slice（0，pointLength）
     .reduce（（acc，val，i）=&gt; acc + Math.pow（val  -  coords [pointLength + i]，2），0）;
   返回Math.sqrt（sum）;
@@ -5968,7 +5969,7 @@ const hashNode = val =&gt;
 ```js
 const isDuplexStream = val =&gt;
   选择！==零&amp;&amp;
-  typeof val === 'object' &&
+  typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._read ===&#39;function&#39;&amp;&amp;
   typeof val._readableState ===&#39;object&#39;&amp;&amp;
@@ -5991,13 +5992,13 @@ const Stream = require（&#39;stream&#39;）;
 
 检查给定参数是否为可读流.
 
-Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
+检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
 另外检查`typeof``_read`和`_readableState`属性是否分别是`function`和`object`.
 
 ```js
 const isReadableStream = val =&gt;
   选择！==零&amp;&amp;
-  typeof val === 'object' &&
+  typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._read ===&#39;function&#39;&amp;&amp;
   typeof val._readableState ===&#39;object&#39;;
@@ -6018,7 +6019,7 @@ const fs = require（&#39;fs&#39;）;
 
 检查给定的参数是否是流.
 
-Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
+检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
 
 ```js
 const isStream = val =&gt; val！== null &amp;&amp; typeof val ===&#39;object&#39;&amp;&amp; typeof val.pipe ===&#39;function&#39;;
@@ -6059,13 +6060,13 @@ const isTravisCI =（）=&gt;&#39;process TR中的&#39;TRAVIS&#39;和process.env
 
 检查给定的参数是否是可写流.
 
-Check if the value is different from `null`, use `typeof` to check if the value is of type `object` and the `pipe` property is of type `function`.
+检查值是否与`null`不同，使用`typeof`检查值是否为`object`类型，`pipe`属性是否为`function`类型.
 另外检查`typeof``__write`和`_writableState`属性是否分别是`function`和`object`.
 
 ```js
 const isWritableStream = val =&gt;
   选择！==零&amp;&amp;
-  typeof val === 'object' &&
+  typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._write ===&#39;function&#39;&amp;&amp;
   typeof val._writableState ===&#39;object&#39;;
@@ -6665,7 +6666,7 @@ const obj = {selector：{to：{val：&#39;val to select&#39;}}，target：[1,2�
 const invertKeyValues =（obj，fn）=&gt;
   Object.keys（obj）.reduce（（acc，key）=&gt; {
      const val = fn？  fn（obj [key]）：obj [key];
-    acc[val] = acc[val] || [];
+     acc [val] = acc [val] ||  [];
     ACC [VAL] .push（键）;
     返回acc;
   }, {});
@@ -7441,7 +7442,7 @@ const escapeRegExp = str =&gt; str.replace（/ [.* +？^ $ {}（）| [\] \\] / g
 <summary>Examples</summary>
 
 ```js
- escapeRegExp（ &#39;（试验）&#39;）;  // \\（test \\）
+escapeRegExp('(test)'); // \\(test\\)
 ```
 
 </details>
@@ -7668,7 +7669,7 @@ const pad =（str，length，char =&#39;&#39;）=&gt;
 
 ### palindrome
 
-Returns `true` if the given string is a palindrome, `false` otherwise.
+如果给定的字符串是回文，则返回“true”，否则返回“false”.
 
 将字符串转换为`String.prototype.toLowerCase（）`并使用`String.prototype.replace（）`从中删除非字母数字字符.
 然后，使用扩展运算符（`...`）将字符串拆分为单个字符，`Array.prototype.reverse（）`，`String.prototype.join（&#39;&#39;）`并将其与原始字符进行比较，未反转string，将其转换为`String.prototype.toLowerCase（）`.
@@ -7676,7 +7677,7 @@ Returns `true` if the given string is a palindrome, `false` otherwise.
 ```js
 const palindrome = str =&gt; {
   const s = str.toLowerCase（）.replace（/ [\ W _] / g，&#39;&#39;）;
-  return s === [...s].reverse().join('');
+  return s === [... s] .reverse（）.join（&#39;&#39;）;
 };
 ```
 
@@ -7870,7 +7871,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7900,7 +7901,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7929,7 +7930,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7957,7 +7958,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8387,7 +8388,7 @@ const isPrimitive = val =&gt; Object（val）！== val;
 
 ### isPromiseLike
 
-如果对象看起来像是，则返回“true” [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)，`false`否则.
+Returns `true` if an object looks like a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)，`false`否则.
 
 检查对象是否不是“null”，它的`typeof`匹配`object`或`function`，如果它有`.then`属性，它也是``function`.
 
@@ -8564,7 +8565,7 @@ const coalesce =（... args）=&gt; args.find（_ =&gt;！[undefined，null] .in
 <summary>Examples</summary>
 
 ```js
-coalesce(null, undefined, '', NaN, 'Waldo'); // ""
+ 合并（null，undefined，&#39;&#39;，NaN，&#39;Waldo&#39;）;  //“”
 ```
 
 </details>
@@ -8629,7 +8630,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））] =
+    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
     {}
   );
 ```
@@ -8787,7 +8788,7 @@ httpPost(
 确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
-`typeof` allows globals to be checked for existence without throwing a `ReferenceError`.
+`typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.
 如果它们都不是“未定义”，则假定当前环境是浏览器.
 
 ```js

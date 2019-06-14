@@ -102,7 +102,7 @@
 *为重复代码生成模式的工具，以减少冗长和错误倾向.*
 
 - [ADT4J](https://github.com/sviperll/adt4j) - 用于代数数据类型的JSR-269代码生成器.
-- [Auto](https://github.com/google/auto) - 生成工厂，服务和值类.
+- [Auto](https://github.com/google/auto) - Generates factory, service, and value classes.
 - [FreeBuilder](https://github.com/google/FreeBuilder) - 自动生成Builder模式.
 - [Immutables](https://immutables.github.io) - 注释处理器，用于生成简单，安全和一致的值对象.
 - [JavaPoet](https://github.com/square/javapoet) - 用于生成源文件的API.
@@ -140,7 +140,7 @@
 
 ### CSV
 
-*Frameworks and libraries that simplify reading/writing CSV data.*
+*简化读取/写入CSV数据的框架和库.*
 
 - [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv) - 杰克逊扩展用于读写CSV.
 - [opencsv](http://opencsv.sourceforge.net) - 简单的CSV解析器.
@@ -151,6 +151,7 @@
 
 *简化与数据库交互的一切.*
 
+- [Apache Drill](https://drill.apache.org) - 用于大数据探索的分布式，即时模式，ANSI SQL查询引擎.
 - [Apache Phoenix](https://phoenix.apache.org) - 针对低延迟应用程序的HBase上的高性能关系数据库层.
 - [AranoDB](https://github.com/arangodb/arangodb-java-driver) -  ArangoDB Java驱动程序.
 - [Chronicle Map](https://github.com/OpenHFT/Chronicle-Map) - 高效的内存（选择持久化到磁盘），堆外键值存储.
@@ -165,7 +166,7 @@
 - [Jedis](https://github.com/xetorthio/jedis) - 与Redis交互的小客户端，以及命令方法.
 - [Jest](https://github.com/searchbox-io/Jest) -  Elasticsearch REST API的客户端.
 - [jetcd](https://github.com/justinsb/jetcd) -  etcd的客户端库.
-- [Jinq](https://github.com/my2iu/Jinq) - Typesafe database queries via symbolic execution of Java 8 Lambdas (on top of JPA or jOOQ).
+- [Jinq](https://github.com/my2iu/Jinq) - 通过符号执行Java 8 Lambdas（在JPA或jOOQ之上）来输入数据库查询.
 - [jOOQ](https://www.jooq.org) - 基于SQL模式生成类型安全代码.
 - [Liquibase](http://www.liquibase.org) - 独立于数据库的库，用于跟踪，管理和应用数据库模式更改.
 - [MapDB](http://www.mapdb.org) - 嵌入式数据库引擎，提供磁盘或堆外内存支持的并发集合.
@@ -281,15 +282,15 @@
 *协助处理办公文档格式的图书馆.*
 
 - [Apache POI](https://poi.apache.org/) - 支持OOXML（XLSX，DOCX，PPTX）以及OLE2（XLS，DOC或PPT）.
-- [documents4j](http://documents4j.com) - 使用MS Word等第三方转换器进行文档格式转换的API.
-- [docx4j](https://www.docx4java.org/trac/docx4j) - Create and manipulate Microsoft Open XML files.
+- [documents4j](http://documents4j.com) - API for document format conversion using third-party converters such as MS Word.
+- [docx4j](https://www.docx4java.org/trac/docx4j) - 创建和操作Microsoft Open XML文件.
 - [zerocell](https://github.com/creditdatamw/zerocell) - 基于注释的API，用于将Excel工作表中的数据读入POJO，重点是减少开销.
 
 ### Formal Verification
 
 *正式方法工具：证明助理，模型检查，符号执行等*
 
-- [CATG](https://github.com/ksen007/janala2) - Concolic unit testing engine. Automatically generates unit tests using formal methods.
+- [CATG](https://github.com/ksen007/janala2)   -  Concolic单元测试引擎.  使用正式方法自动生成单元测试.
 - [Checker Framework](https://types.cs.washington.edu/checker-framework)   - 可插拔式系统.  包括空值类型，物理单位，不变性类型等.
 - [Daikon](https://plse.cs.washington.edu/daikon) - 检测可能的程序不变量，并根据这些不变量生成JML规范.
 - [Java Path Finder (JPF)](https://babelfish.arc.nasa.gov/trac/jpf)   - 包含模型检查器等的JVM形式验证工具.  由美国宇航局创建.
@@ -536,10 +537,10 @@
 -  [AppDynamics！[c]]（https://www.appdynamics.com） - 性能监视器.
 - [Automon](https://github.com/stevensouza/automon) - 将AOP的强大功能与监控和/或记录工具相结合.
 -  [BugSnag！[c]]（https://www.bugsnag.com） - 异常和错误监控，集成了多个第三方工具，可实现更好的工作流程和免费的业余爱好者层.
-- [LeakCanary](https://github.com/square/leakcanary) - Memory leak detection.
+- [LeakCanary](https://github.com/square/leakcanary) - 内存泄漏检测.
 - [Failsafe Actuator](https://github.com/zalando-incubator/failsafe-actuator) - 在Spring-Boot环境中开箱即用监控故障安全断路器.
 - [Glowroot](https://glowroot.org) - 开源Java APM.
-- [inspectIT](http://www.inspectit.rocks)   - 通过可以即时更改的挂钩捕获详细的运行时信息.  它支持通过OpenTracing API跟踪多个系统，并可以将数据与最终用户监控相关联.
+- [inspectIT](http://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
   -  [Instrumental！[c]]（https://instrumentalapp.com） - 实时Java应用程序性能监控.  具有免费开发账户的商业服务.
 - [JavaMelody](https://github.com/javamelody/javamelody) - 绩效监测和分析.
 - [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) -  Jaeger客户.
@@ -599,6 +600,7 @@
 *处理对象持久性的API.*
 
 - [Apache Cayenne](https://cayenne.apache.org)   - 为数据访问提供干净，静态的API.  还包括用于处理数据库映射的GUI Modeler，以及DB逆向工程和生成.
+- [Doma 2](https://doma.readthedocs.io) - 数据库访问框架，使用注释处理以及称为双向SQL的本机SQL模板在编译时验证和生成源代码.
 - [Ebean](https://ebean-orm.github.io) - 提供简单快速的数据访问.
 - [EclipseLink](https://www.eclipse.org/eclipselink) - 支持许多持久性标准：JPA，JAXB，JCA和SDO.
 - [Hibernate](http://hibernate.org/orm) - 健壮且广泛使用，拥有活跃的社区.
@@ -634,7 +636,7 @@
 
 -  [fastThread！[c]]（http://fastthread.io） - 使用免费的基于云的上传界面分析和可视化线程转储.
   -  [GCeasy！[c]]（http://gceasy.io） - 分析和可视化GC日志的工具.  它提供免费的基于云的上传界面.
-- [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - A low-overhead, bias-free sampling profiler.
+- [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - 低开销，无偏置采样分析器.
 - [jHiccup](https://github.com/giltene/jHiccup) - 记录和记录平台JVM停顿.
 - [JITWatch](https://github.com/AdoptOpenJDK/jitwatch) - 分析HotSpot JVM所做的JIT编译器优化.
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh) - 用于构建，运行和分析用Java和其他语言编写的针对JVM的nano / micro / milli / macro基准测试的Java工具.
@@ -755,7 +757,7 @@
 - [Erdos](https://github.com/Erdos-Graph-Framework/Erdos) - 用于理论算法的模块化，轻便且易于图形的框架.
 - [GraphStream](http://graphstream-project.org) - 用于建模和分析动态图的库.
 - [JFreeChart](http://www.jfree.org/jfreechart) - 用于Swing，JavaFX和服务器端应用程序的2D图表库.
-- [JGraphT](https://github.com/jgrapht/jgrapht) - Graph library that provides mathematical graph-theory objects and algorithms.
+- [JGraphT](https://github.com/jgrapht/jgrapht) - 图形库，提供数学图论理论对象和算法.
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化的库（主要是Swing）并与节点边图交互.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算，可视化和数字信号分析的库.
 - [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供称为DataFrame的多功能二维内存高效表格数据结构，以便为JVM上的科学计算实现高效的内存分析.
@@ -797,7 +799,7 @@
 
 ### Serialization
 
-*高效处理序列化的库.*
+*Libraries that handle serialization with high efficiency.*
 
 - [FlatBuffers](https://github.com/google/flatbuffers) - 内存高效的序列化库，可以访问序列化数据而无需解压缩和解析.
 - [FST](https://github.com/RuedigerMoeller/fast-serialization) -  JDK兼容的高性能对象图序列化.
@@ -822,7 +824,7 @@
 
 - [Handlebars.java](https://jknack.github.io/handlebars.java) - 无逻辑和语义的胡须模板.
 - [Jade4J](https://github.com/neuland/jade4j) - 实施帕格（以前称为翡翠）.
-- [Jtwig](http://jtwig.org) - 模块化，可配置且经过全面测试的模板引擎.
+- [Jtwig](http://jtwig.org) - Modular, configurable and fully tested template engine.
 - [Pebble](https://pebbletemplates.io)   - 受Twig的启发，并以其继承功能和易于阅读的语法分离.  它附带内置自动安全功能，用于安全性，并包含对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) - 优化，内存效率和快速模板引擎，生成静态类型的普通对象.
 - [Thymeleaf](http://www.thymeleaf.org) - 旨在成为JSP的替代品并适用于XML文件.
@@ -838,7 +840,7 @@
 - [Awaitility](https://github.com/jayway/awaitility) - 用于同步异步操作的DSL.
 - [ConcurrentUnit](https://github.com/jhalterman/concurrentunit) - 用于测试多线程和异步应用程序的工具包.
 - [GreenMail](http://www.icegreen.com/greenmail)   - 用于集成测试的内存中电子邮件服务器.  支持SMTP，POP3和IMAP，包括SSL.
-- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) -  Hoverfly的本机绑定，一种允许您模拟HTTP服务的代理.
+- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
 - [REST Assured](https://github.com/jayway/rest-assured) - 用于轻松测试REST / HTTP服务的DSL.
 
 #### BDD
@@ -851,6 +853,7 @@
 - [JBehave](http://jbehave.org) - 广泛可配置的框架，用于描述故事.
 - [JGiven](http://jgiven.org) - 提供流畅的API，允许更简单的组合.
 - [Lamdba Behave](https://github.com/RichardWarburton/lambda-behave) - 旨在提供一个流畅的API，用长而简洁的句子写出测试，读起来像普通的英语.
+- [Serenity BDD](https://www.thucydides.info) - 与Cucumber，JBehave和JUnit配合使用的自动验收测试和报告库，可以更轻松地编写高质量的可执行规范.
 
 #### Fixtures
 
@@ -925,7 +928,7 @@
 - [Guava](https://github.com/google/guava) - 集合，缓存，基元支持，并发库，通用注释，字符串处理，I / O等.
 - [JADE](http://jade.tilab.com) - 用于构建和调试多代理系统的框架和环境.
 - [JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - 有助于构建困难的正则表达式的库.
-- [JGit](https://eclipse.org/jgit) - 实现Git版本控制系统的轻量级纯Java库.
+- [JGit](https://eclipse.org/jgit) - A lightweight, pure Java library implementing the Git version control system.
 - [minio-java](https://github.com/minio/minio-java) - 提供简单的API以访问任何与Amazon S3兼容的对象存储服务器.
 - [Protégé](https://protege.stanford.edu) - 提供本体编辑器和构建基于知识的系统的框架.
 - [Underscore-java](https://github.com/javadev/underscore-java) -  Underscore.js函数的端口.
@@ -972,6 +975,7 @@
 
 *与Java和JVM生态系统相关的令人敬畏的列表.*
 
+- [Awesome Annotation Processing](https://github.com/gunnarmorling/awesome-annotation-processing)
 - [Awesome Gradle Plugins](https://github.com/ksoichiro/awesome-gradle)
 - [AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
 - [Awesome JVM](https://github.com/deephacks/awesome-jvm)

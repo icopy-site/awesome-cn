@@ -63,7 +63,7 @@
 下面的polyfills由Polymer团队维护.
 
 - [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - 用于HTML自定义元素v1的Polyfill.
-- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) -  ShadowDOM v1垫片.
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
 - [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) -  ShadowDOM样式封装垫片.
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)   - `的最小polyfill <template>  `.
 
@@ -239,6 +239,7 @@
 
 - [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
+- [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.

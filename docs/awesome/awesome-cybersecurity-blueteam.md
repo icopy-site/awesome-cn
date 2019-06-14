@@ -54,9 +54,14 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 ## Host-based tools
 
 - [Artillery](https://github.com/BinaryDefense/artillery) - 组合蜜罐，文件系统监视器和警报系统，旨在保护Linux和Windows操作系统.
+- [chkrootkit](http://chkrootkit.org/) - 在GNU / Linux系统上本地检查rootkit的标志.
 - [Fail2ban](https://www.fail2ban.org/) - 入侵防御软件框架，保护计算机服务器免受暴力攻击.
 - [Open Source HIDS SECurity (OSSEC)](https://www.ossec.net/) - 完全开源和免费，功能丰富的基于主机的入侵检测系统（HIDS）.
 - [Rootkit Hunter (rkhunter)](http://rkhunter.sourceforge.net/) - 符合POSIX标准的Bash脚本，用于扫描主机是否存在各种恶意软件迹象.
+
+### Sandboxes
+
+- [Firejail](https://firejail.wordpress.com/) -  SUID程序通过使用Linux命名空间和seccomp-bpf限制不受信任的应用程序的运行环境来降低安全漏洞的风险.
 
 ## Incident Response tools
 
@@ -100,7 +105,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 ## Network Security Monitoring (NSM)
 
 - [Bro](https://www.bro.org/) - 强大的网络分析框架，侧重于安全监控.
-- [ChopShop](https://github.com/MITRECND/chopshop) - Framework to aid analysts in the creation and execution of pynids-based decoders and detectors of APT tradecraft.
+- [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于pynids的解码器和APT行业探测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
 - [Respounder](https://github.com/codeexpress/respounder) - 检测网络上响应者LLMNR / NBT-NS / MDNS中毒的存在.
 - [Security Monkey](https://github.com/Netflix/security_monkey) - 监控您的AWS和GCP帐户，以了解有关不安全配置的策略更改和警报.
@@ -188,7 +193,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - 禁用许多有风险的Windows功能的实用程序.
-- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时的攻击工具.
+- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 针对Microsoft的审核Windows主机的根证书存储区 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - 从主机名列表中建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - 组策略对象，合规性检查和配置工具，为安全部署和维护最新版本的Windows 10提供自动且灵活的方法.
