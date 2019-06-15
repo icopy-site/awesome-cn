@@ -13,6 +13,12 @@
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
 
 
+### 2019
+
+1. [**Using Devtools to Understand Modern CSS Layouts**](https://www.youtube.com/watch?v=ZRtzk0371tk): Chen Hui Jing, CSSConf.EU `32:39`
+1. [**Hello Subgrid!**](https://www.youtube.com/watch?v=vxOj7CaWiPU)：Rachel Andrew，CSSConf.EU`32：56`
+
+
 ### 2018
 
 1. [**Resilient CSS: How to Write CSS That Works in Every Browser, Even the Old Ones**](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)：Jen Simmons（布局土地播放列表）`55：04`
@@ -30,7 +36,7 @@
 
 ### 2016
 
-1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Christian Vuerings，SFHTML 5-17：15`
+1. [**CSS in 2016 and Beyond**](https://www.youtube.com/watch?v=9AG35HCBpo4&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Christian Vuerings，SFHTML5`17：15`
 1. [**CSS Variables: var(--subtitle)**](https://www.youtube.com/watch?v=2an6-WVPuJU&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Lea Verou，CSSConf.US`56：57`
 1. [**Laying out the Future with Grid and Flexbox**](https://www.youtube.com/watch?v=ibeF6rbzD70&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Rachel Andrew，查看源会议`25：45`
 1. [**Reactive Animations with CSS Variables**](https://www.youtube.com/watch?v=lTCukb6Zn3g&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：David Khourshid，JSConf冰岛`31：02`
@@ -79,10 +85,10 @@
 
 1. [**When Bootstrap Attacks**](https://www.youtube.com/watch?v=xbpnqbM6cRk&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Pamela Fox，CSSConf.US`28：48`
 1. [**CSS in the 4th Dimension**](https://www.youtube.com/watch?v=NTJUFQmHbvc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Lea Verou，JSConf.Asia`44：49`
-1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Jacob Mattsson，JSConf.Asia`42：07`
+1. [**Automated CSS Testing**](https://www.youtube.com/watch?v=2PU6JX4S7zI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Jakob Mattsson，JSConf.Asia`42：07`
 1. [**CSSConf.EU Keynote**](https://www.youtube.com/watch?v=ue-Z_HxS3cc&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Nicole Sullivan，CSSConf.EU`20：57`
 1. [**CSS Application Architecture**](https://vimeo.com/74359951)：Nicolas Gallagher，SmashingConf Freiburg`38：36`
-1. [**Realigning & Refactoring UI**](https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Bolton Name，SassConf`48：08`
+1. [**Realigning & Refactoring UI**](https://www.youtube.com/watch?v=I82ytAWxzrI&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)姓名：Bolton，SassConf`48：08`
 1. [**Normalizing Designs for Better Quality CSS**](https://www.youtube.com/watch?v=ldx4ZFxMEeo&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Harry Roberts，CSSConf.EU`43：40`
 1. [**Automating the Removal of Unused CSS**](https://www.youtube.com/watch?v=833xr1MyE30&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Addy Osmani，Velocity Europe Conference`5：57`
 1. [**The Humble Border-Radius**](https://www.youtube.com/watch?v=2iFw2GCOPj0&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA)：Lea Verou，网页设计的未来`37：07`

@@ -9,7 +9,7 @@
 
 _awesome_ Common Lisp库的精选列表.
 
-For awesome *software*, see [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
+对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
  另有说明.  标有星号的那些：如此广泛而且
@@ -21,7 +21,7 @@ For awesome *software*, see [lisp-lang.org's success stories](http://lisp-lang.o
  广泛的，或不被认为是稳定的.  例如，我们更喜欢
 Cl-Who上的喷丝头.
 
-Add something new! See the [contributing](#contributing) 添加内容的部分
+ 添加一些新东西！  见 [contributing](#contributing) 添加内容的部分
 list.
 
 这是根据GNU自由文档许可证 - 其文本发布
@@ -246,7 +246,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 * [ftw](https://github.com/fjames86/ftw)   -  Win32 GUI库.  [MIT] [200].
 * [cl-xul](https://github.com/mmontone/cl-xul)   -  Mozilla XUL绑定.  [外籍] [14].
 * [eql, eql5, eql5-android](https://gitlab.com/eql)   - 嵌入在ECL中的嵌入式Qt4和Qt5 Lisp嵌入在Qt中.  EQL5端口到Android平台.  [MIT] [200].
-* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear) immediate mode GUI library. [MIT][200].
+* [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear)  即时模式GUI库.  [MIT] [200].
 
 
 Implementations
@@ -307,13 +307,14 @@ YAML
    实现.  对于日志记录和其他情况也非常有用
   执行自动继续，但信息
   当前堆栈仍然可用于存储
-   某处.  [艺术许可2.0] [51].
+  somewhere. [Artistic License 2.0][51].
 * [clamp](https://github.com/malisper/Clamp)   -  Arc语言对Common Lisp的简洁和简洁.  [艺术许可2.0] [51].
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
    一个可移植的库，用于检索函数的参数列表.  [艺术许可2.0] [51].
 * [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似setf的宏.
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
+*  [access](https://github.com/AccelerationNet/access/)   - 对大多数常见数据结构的一致和嵌套访问.  [BSD_3Clause] [15].
 
 
 CLOS扩展
@@ -513,7 +514,7 @@ HTTP服务器
    克拉克的中间件.  它允许使用OAuth1.0a，OAuth2进行基本登录
    和OpenID.  在撰写本文时，它支持来自的身份验证
    Google，Twitter，LinkedIn，StackExchange，Reddit和Github.  [Apache2.0的] [51].
-* [clack-pretend](https://github.com/BnMcGn/clack-pretend) - 测试
+* [clack-pretend](https://github.com/BnMcGn/clack-pretend) - a testing
    和调试工具.  [Apache2.0的] [89].
 * [hermetic](https://github.com/eudoxia0/hermetic)   - 基于Clack的Web应用程序的安全性.  [外籍] [14].
 * [live-reload](https://github.com/knobo/live-reload)   - 为clack重新加载原型.  [LLGPL] [8].
@@ -649,7 +650,7 @@ Monitoring
 * [chirp](https://github.com/Shinmera/chirp)   - 一个Twitter客户端库.  [艺术许可2.0] [51].
 * [tooter](https://github.com/Shinmera/tooter)   - 为Mastodon实现完整v1 REST API协议的客户端库.  [ArtisticLicense2.0] [51].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/)   -  IRC客户端库.  [外籍] [14].
-* [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki) - a wrapper around the MediaWiki api. [MIT][200].
+* [cl-mediawiki](https://github.com/AccelerationNet/cl-mediawiki)   -  MediaWiki api的包装器.  [MIT] [200].
 * [cl-openid](https://github.com/cl-openid/cl-openid)   -  OpenID的实现.  [LLGPL] [8].
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)   - 与Pushover的Common Lisp绑定.  [MIT] [200].
 * [humbler](https://github.com/Shinmera/humbler)   -  Tumblr API接口.  [艺术许可2.0] [51].
@@ -809,7 +810,7 @@ Scripting
 
 ## Atom ##
 
-* [SLIMA](https://github.com/neil-lindquist/slima) 允许你
+* [SLIMA](https://github.com/neil-lindquist/slima) allows you to
   交互式开发Common Lisp代码，将Atom变成了一个
    相当不错，积极开发Lisp IDE.  [MIT] [200].
 
@@ -1008,7 +1009,7 @@ Other
 这包含任何不适合其他类别的内容.
 
 * [babel](https://github.com/cl-babel/babel)   - 字符集编码/解码库.  [外籍] [14].
-* [chipz](https://github.com/froydnj/chipz)   - 解压缩库.  [3条款BSD] [15].
+* [chipz](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
 * [cl-cuda](https://github.com/takagi/cl-cuda)   - 在Common Lisp程序中使用NVIDIA CUDA的库.  [LLGPL] [8].
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.
 *：明星： [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].

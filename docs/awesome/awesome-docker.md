@@ -15,7 +15,7 @@
 
  ** _如果您看到此处的链接不再（不再），那么您可以通过提交[pull request] [editreadme]来改进此文件来修复它.  谢谢！_**
 
-The creators and maintainers of this list do not receive any form of payment to accept a change made by any contributor. This page is not an official Docker product in any way. It is a list of links to projects and is maintained by volunteers. Everybody is welcome to contribute. The goal of this repo is to index open-source projects, not to advertise for profit.
+ 此列表的创建者和维护者不接受任何形式的付款以接受任何贡献者所做的更改.  此页面不是任何方式的官方Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献.  这个回购的目标是索引开源项目，而不是为了获利.
 
 所有链接都经过监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
 
@@ -48,7 +48,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Learn Docker](https://github.com/dwyl/learn-docker)：逐步教程和更多资源（视频，文章，备忘单） [@dwyl](https://github.com/dwyl)
 - [Play With Docker](https://training.play-with-docker.com/) ：PWD是从初学者到高级用户开始使用Docker的好方法.  Docker直接在您的浏览器中运行.
 - [Play With Moby](http://play-with-moby.com/) ：PWM是一个基于Web的Moby游乐场，可让您在几秒钟内尝试不同的平台组件.  它为您提供了在云中拥有免费的Alpine Linux虚拟机的体验，您可以在其中构建和运行Moby项目，甚至可以创建集群进行实验.
-- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/) The landscape for container technologies is larger than just docker. Without a good handle on the terminology, It can be difficult to grasp the key differences between docker and (pick your favorites, CRI-O, rkt, lxc/lxd) or understand what the Open Container Initiative is doing to standardize container technology.
+- [Practical Introduction to Container Terminology](https://developers.redhat.com/blog/2018/02/22/container-terminology-practical-introduction/)  容器技术的前景不仅仅是docker.  如果没有很好地掌握术语，就很难掌握docker和（选择你喜欢的，CRI-O，rkt，lxc / lxd）之间的关键差异，或者了解Open Container Initiative正在做些什么来标准化容器技术.
 
 ** Cheatsheets ** by
 
@@ -98,7 +98,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Composerize](https://github.com/magicmark/composerize) - 将docker run命令转换为docker-compose文件
 - [crowdr](https://github.com/polonskiy/crowdr) - 用于管理多个Docker容器的工具（`docker-compose`替代） [@polonskiy](https://github.com/polonskiy/)
 - [docker-compose-graphviz](https://github.com/abesto/docker-compose-graphviz) - 将docker-compose.yml文件转换为Graphviz .dot文件 [@abesto](https://github.com/abesto)
-- [docker-config-update](https://github.com/sudo-bmitch/docker-config-update) - 更新docker配置和秘密的实用程序，用于在compose文件中部署 [@sudo-bmitch](https://github.com/sudo-bmitch)
+- [docker-config-update](https://github.com/sudo-bmitch/docker-config-update) - Utility to update docker configs and secrets for deploying in a compose file by [@sudo-bmitch](https://github.com/sudo-bmitch)
 - [draw-compose](https://github.com/Alexis-benoist/draw-compose) - 用于绘制docker的模式的实用程序 [@Alexis-benoist](https://github.com/Alexis-benoist)
 - [elsy](https://github.com/cisco/elsy) - 基于Docker和Docker Compose的自以为是的多语言构建工具
 - [habitus](https://github.com/cloud66-oss/habitus) -  Docker的构建流程工具 [@cloud66](https://github.com/cloud66)
@@ -342,13 +342,13 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [container-factory](https://github.com/mutable/container-factory) - 通过应用程序源代码的tarball生成Docker镜像 [@mutable](https://github.com/mutable)
 - [copy-docker-image](https://github.com/mdlavin/copy-docker-image) - 在没有完整Docker安装的情况下，在注册表之间复制Docker镜像 [@mdlavin](https://github.com/mdlavin)
 - [Derrick](https://github.com/alibaba/derrick)   - 工具可帮助您通过扫描代码自动生成Dockerfile和dockerize应用程序.  通过 [@alibaba](https://github.com/alibaba).
-- [dlayer](https://github.com/wercker/dlayer) - Stats collector for Docker layers by [@wercker](https://github.com/wercker)
+- [dlayer](https://github.com/wercker/dlayer) -  Docker图层的统计信息收集器 [@wercker](https://github.com/wercker)
 - [docker-companion](https://github.com/mudler/docker-companion) - 用Golang编写的命令行工具，用于挤压和解包Docker镜像 [@mudler](https://github.com/mudler/)
 - [docker-make](https://github.com/CtripCloud/docker-make) - 通过单个命令构建，标记和推送一堆相关的docker镜像.
 - [docker-replay](https://github.com/bcicen/docker-replay)   - 从运行容器生成`docker run`命令和选项.  通过 [bcicen](https://github.com/bcicen)
 - [DockerMake](https://github.com/avirshup/DockerMake)   - 适用于复杂软件堆栈的可重现的Docker镜像构建系统.  通过 [@avirshup](https://github.com/avirshup)
 - [DockerSlim](https://github.com/docker-slim/docker-slim) 缩小胖Docker图像，创建尽可能小的图像.
-- [Dockly](https://github.com/swipely/dockly) -  Dockly是一个宝石，用于减轻在Docker中打包应用程序的痛苦 [@swipely](https://github.com/swipely/)
+- [Dockly](https://github.com/swipely/dockly) - Dockly is a gem made to ease the pain of packaging an application in Docker by [@swipely](https://github.com/swipely/)
 - [dockramp](https://github.com/jlhawn/dockramp) ：头骨： - 概念证明：客户端驱动的Docker Image Builder [@jlhawn](https://github.com/jlhawn)
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - 从高级Python配方生成Dockerfiles，包括[@NVIDIA] [nvidia]的高性能计算组件构建块
 - [img](https://github.com/genuinetools/img) -  [@genuinetools] [genuinetools]的独立，无守护进程，无特权的Dockerfile和OCI兼容的容器映像构建器
@@ -386,7 +386,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Linter
 
-- [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - 一种监视码头图像大小的工具.
+- [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - A tool to keep an eye on your docker images size.
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  Dockerfiles的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - 一个节点模块，用于分析Dockerfile并查找常见的陷阱，错误并帮助实施最佳实践 [@replicatedhq](https://github.com/replicatedhq)
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：构造： -  [@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
@@ -451,6 +451,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Buddy :heavy_dollar_sign:](https://buddy.works) - 最好的Git，构建和部署工具结合成一个强大的工具，增强了我们的开发.
 - [Captain](https://github.com/harbur/captain) - 将您的Git工作流转换为Docker容器，准备进行持续交付 [@harbur](https://github.com/harbur).
 - [Cyclone](https://github.com/caicloud/cyclone) - 强大的工作流引擎和端到端管道解决方案，使用原生Kubernetes资源实现 [@caicloud](https://github.com/caicloud).
+- [Diun](https://github.com/crazy-max/diun) - 在Docker注册表上更新映像或存储库时接收通知 [@crazy-max](https://github.com/crazy-max).
 - [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) -  docker插件的目的是能够使用docker主机动态配置slave，运行单个构建，然后拆除该slave.
 - [Dockupdater](https://github.com/dockupdater/dockupdater) - 自动使您的泊坞窗服务和泊坞窗容器保持最新状态
 - [Drone](https://github.com/drone/drone) - 基于Docker构建的持续集成服务器，使用YAML文件进行配置.

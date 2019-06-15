@@ -12,9 +12,7 @@
 > [jQuery](http://jquery.com/) 是一个快速，小巧，功能丰富 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  图书馆.  它通过易于使用的API在大量浏览器中运行，使得HTML文档遍历和操作，事件处理，动画和Ajax变得更加简单.  通过多功能性和可扩展性的结合，jQuery改变了数百万人编写JavaScript的方式.
 
 
-
 <img width="400" src="https://raw.githubusercontent.com/petk/awesome-jquery/master/awesome-jquery.png" alt="awesome-jquery" align=right>
-
 
 
 ## Resources
@@ -29,7 +27,6 @@
 * [Tuts+](https://code.tutsplus.com/categories/jquery) - 有关jQuery的有用和深入的文章.
 * [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - 提示编写一致的jQuery代码，易于使用和团队理解.
 
-
 ### Tutorials
 
 *非常棒的免费教程和学习jQuery的课程.*
@@ -42,7 +39,6 @@
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - 扩展jQuery的选择器功能.
 
 
-
 ### Books
 
 *推荐并没有太多过时的jQuery书籍.*
@@ -53,13 +49,11 @@
 * [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) （PDF，.mobi）*（需要注册）*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - 使用jQuery解决您需要解决的常见问题，从而轻松完成工作.
 
-
 #### Paid Books
 
 * [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - 快节奏和完整的jQuery指南，*由Bear Bibeault，Yehuda Katz和Aurelio De Rosa *指导.
 * [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks) - 快速掌握jQuery，*由Earle Castledine和Craig Sharkie *.
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) -  Jonathan Chaffer和Karl Swedberg指导的jQuery指南*.
-
 
 
 ### Blogs
@@ -70,7 +64,6 @@
 * [jQuery UI Blog](http://blog.jqueryui.com/) - 官方jQuery UI博客.
 * [Sitepoint](https://www.sitepoint.com/javascript/jquery/) -  Sitepoint的jQuery类别部分，包含有用的文章.
 * [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) -  jQuery标签，有用的jQuery文章和教程相似的博客文章.
-
 
 
 ### Miscellaneous Resources
@@ -85,7 +78,6 @@
 * [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
 
 
-
 ## Plugins
 
 *来自jQuery世界各地的令人敬畏的插件.*
@@ -93,7 +85,6 @@
 * [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) -  jQuery插件注册表， [previous one](http://plugins.jquery.com/) 现在处于只读模式.
 * [jQuery Rain](http://www.jqueryrain.com/) - 顶级和最佳jQuery插件，教程，酷炫效果，示例，演示.
 * [jQuery Unheap](http://www.unheap.com/) - 一个整洁的jQuery插件库.
-
 
 
 ## Animation
@@ -112,7 +103,6 @@
 * [jQuery DrawSVG](https://github.com/lcdsantos/jquery-drawsvg) - 轻量级，易于使用的jQuery插件，用于动画SVG路径
 
 
-
 ### Editors
 
 * WYSIWYG编辑.*
@@ -121,7 +111,6 @@
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 一个现代，简单和优雅的WYSIWYG富文本编辑器.
 * [jQuery TE](http://jqueryte.com/) - 轻量级HTML编辑器.
 * [TinyMCE](https://www.tinymce.com/) - 流行的WYSIWYG编辑器，带有jQuery构建和jQuery集成插件.
-
 
 
 ### Forms
@@ -141,14 +130,13 @@
 * [selectize.js](https://github.com/selectize/selectize.js/)   - 基于jQuery的混合文本框和\ <select\>  框.
 
 
-
 ### Images, Maps and Charts
 
 *Plugins related to images, image manipulation, galleries, maps and charts.*
 
 * [AnyChart-jQuery](https://github.com/AnyChart/AnyChart-jQuery) - 使用jQuery轻松使用AnyChart JavaScript图表库的插件.
 * [Arbor](https://github.com/samizdatco/arbor) - 使用Web worker和jQuery的图形可视化库.
-* [BackStretch](https://github.com/jquery-backstretch/jquery-backstretch) -  jQuery插件，允许您将动态调整大小，支持幻灯片的背景图像添加到任何页面或元素.
+* [BackStretch](https://github.com/jquery-backstretch/jquery-backstretch) -  jQuery插件，允许您将动态调整大小，可幻灯片显示的背景图像添加到任何页面或元素.
 * [Chart.js](https://github.com/chartjs/Chart.js)   - 简单的HTML5图表使用\ <canvas\>  标签.
 * [Cropper](https://github.com/fengyuanchen/cropper) - 一个简单的图像裁剪插件.
 * [Dense.js](https://github.com/gocom/dense) - 轻松提供视网膜准备，高像素比图像.
@@ -167,7 +155,6 @@
 * [JQuery-linechart](https://github.com/kis/jquery-linechart) - 用于创建折线图的简单轻量级库
 
 
-
 ### Menus
 
 *菜单动画，可用性增强和美化.*
@@ -183,7 +170,6 @@
 * [Yamm](https://github.com/geedmo/yamm3) -  Bootstrap 3的另一个megamenu.
 
 
-
 ### Modals and Popups
 
 *模态插件（对话框/弹出窗口），工具提示和类似的弹出窗口.*
@@ -195,12 +181,11 @@
 * [jBox](https://github.com/StephanWagner/jBox) - 功能强大且灵活的插件，可以处理所有模态窗口，工具提示和通知.
 * [jQuery Modal](https://github.com/kylefox/jquery-modal) - 显示模态窗口的简单轻量级方法.
 * [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 响应式和可访问的模态窗口和工具提示.
-* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面上叠加图像的JavaScript库.
+* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面顶部叠加图像的JavaScript库.
 * [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速，轻便，响应迅速的灯箱插件.
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript的警报的美丽替代品.
 * [tipso](https://github.com/object505/tipso) - 轻量级响应式jQuery Tooltip插件.
-* [vex](https://github.com/hubspot/vex) - A modern dialog library which is highly configurable and easy to style.
-
+* [vex](https://github.com/hubspot/vex) - 一个高度可配置且易于设计的现代对话库.
 
 
 ### Tables
@@ -224,14 +209,12 @@
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - 将HTML表导出为JSON，XML，CSV，TXT，SQL，Word，Excel，PNG或PDF.
 
 
-
 ### Time and Date
 
 *用于处理，操纵或格式化时间和日期的插件.*
 
 * [jQuery Timer Plugin](https://github.com/walmik/timer.jquery) - 启动/停止/恢复/删除任何HTML元素内的漂亮计时器.
 * [Timeago](https://github.com/rmm5t/jquery-timeago) - 轻松支持自动更新模糊时间戳（例如“4分钟前”）.
-
 
 
 ### Translations
@@ -243,7 +226,6 @@
 * [jquery.localize.js](https://github.com/coderifous/jquery-localize) - 轻松实现静态网站的国际化
 
 
-
 ### Validation
 
 *验证插件.*
@@ -253,7 +235,6 @@
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - 在保持HTML标记清除JavaScript代码的同时验证用户输入.
 * [jquery-validation](https://github.com/jquery-validation/jquery-validation) - 对现有表单进行插入验证，同时使各种自定义适合您的应用程序非常简单.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - 验证浏览器中的表单字段.
-
 
 
 ### Miscellaneous Plugins
@@ -269,7 +250,6 @@
 * [autoNumberic](https://github.com/autoNumeric/autoNumeric) -  autoNumeric是一个独立的库，为国际号码和货币提供实时的自定义格式.
 
 
-
 ## Mobile
 
 *移动部分.*
@@ -277,7 +257,6 @@
 * [jQuery mobile](http://jquerymobile.com/) - 使用HTML5构建移动Web应用程序的轻量级框架.
 * [Interdimensional](https://github.com/VodkaBears/Interdimensional) - 在您的网页的移动设备上进行空间滚动.
 * [OhSnap!.js](https://github.com/justindomingue/ohSnap) - 一个简单的jQuery / Zepto通知库，旨在用于移动应用程序.
-
 
 
 ## UI
@@ -290,7 +269,6 @@
 * [X-editable](https://github.com/vitalets/x-editable) - 使用Twitter Bootstrap，jQuery UI或纯jQuery进行就地编辑.
 
 
-
 ## Testing
 
 *单元测试，测试部分.*
@@ -299,14 +277,13 @@
 * [Mockjax](https://github.com/jakerella/jquery-mockjax) - 提供简单且极其灵活的界面，用于模拟或模拟ajax请求和响应.
 
 
-
 ## Server-side Integrations
 
 *将客户端jQuery与服务器端技术集成的最佳实践.*
 
 * Node.js：
     * [Bower](https://bower.io/) - 针对前端优化的有用的包管理器.
-    * [Cheerio](https://github.com/cheeriojs/cheerio) - 专为服务器设计的核心jQuery的快速，灵活和精益实现.
+    * [cheerio](https://cheerio.js.org/)   - 用于服务器端操作的jQuery.  它可以从HTML字符串构造jQuery实例，然后查询和操作它.  不实现ajax和effects API.
 * PHP：
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - 教程如何将BowerPHP，Mini-Asset和Robo.li组合到PHP前端资产构建管道中.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) -  jQuery插件，管理从Symfony2集合添加，删除和移动元素.
@@ -315,7 +292,6 @@
 * Ruby：
     * [jquery-rails](https://github.com/rails/jquery-rails) - 一个使用Rails自动使用jQuery的gem.
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - 用于Rails资产管道的jQuery UI.
-
 
 
 ## Community
@@ -334,6 +310,14 @@
 * [Twitter](https://twitter.com/jquery) -  Twitter上jQuery团队的官方新闻和更新.
 
 
+## Alternatives
+
+* jQuery API的替代实现.*
+
+* [cash](https://github.com/kenwheeler/cash)   - 适用于现代浏览器的小型jQuery替代品.  包含ajax故意例外的所有API.
+* [Zepto](https://zeptojs.com/) - 小jQuery替代品，包括ajax，效果和其他实用程序.
+* [jBone](http://jbone.js.org/)   - 与Backbone一起使用的jQuery实现.  仅支持Backbone工作所需的API子集.  如果您不打算直接使用jQuery，但在项目中使用Backbone，则可以节省字节.
+
 
 ## Looking for more lists like this?
 
@@ -344,12 +328,11 @@
     * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - 很棒的清单
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - 很棒的清单
     * [lists](https://github.com/jnv/lists) - 很棒的清单
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 很棒的JavaScript列表
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - 很棒的JavaScript书籍
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - 专门讨论JavaScript的必看视频列表
 *翻译：
     * [Chinese](https://github.com/Iamlars/awesome-jquery/tree/chinese) -  Awesome jQuery的中文翻译.
-
 
 
 ## Contributing and License

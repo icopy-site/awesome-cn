@@ -457,7 +457,7 @@ https://twitter.com/iamsapegin
 
 <img src="https://twitter.com/sonniesedge/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**查理欧文**
+**Charlie Owen**\
 主题：CSS，辅助功能
 https://twitter.com/sonniesedge
 
@@ -533,7 +533,7 @@ https://twitter.com/iamjoyclark
 
 <img src="https://twitter.com/smashingmag/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**维塔利弗里德曼**
+**Vitaly Friedman**\
 主题：网页设计，网站开发，响应式网页设计
 https://twitter.com/smashingmag
 
@@ -725,7 +725,7 @@ https://twitter.com/micflan
 
 <img src="https://twitter.com/mustafaturan/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**穆斯塔法图兰**
+穆斯塔法图兰
 主题：Elixir，Ruby，功能编程
 https://twitter.com/mustafaturan
 
@@ -848,6 +848,12 @@ https://twitter.com/kureevalexey
 主题：角度，JavaScript，机器学习，神经网络，聚合物，Web组件
 https://twitter.com/carmenpopoviciu
 
+<img src="https://twitter.com/chidinmako/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Chidinma Kalu ** \ t
+主题：JavaScript，TypeScript，Python，机器学习\
+https://twitter.com/chidinmako
+
 <img src="https://twitter.com/JoubranJad/profile_image?size=original" height="70px" width="70px" align="left" alt="" />  
 
 ** Jad Joubran **
@@ -890,7 +896,7 @@ https://twitter.com/stefannhs
 
 <img src="https://twitter.com/detonite/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Job van Achterberg**\
+** Job van Achterberg **
 主题：可访问性
 https://twitter.com/detonite/
 
@@ -1148,7 +1154,7 @@ https://twitter.com/g33konaut
 
 <img src="https://twitter.com/thefubhy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Sebastian Siemssen **
+**Sebastian Siemssen**\
 主题：React，GraphQL，工具\
 https://twitter.com/thefubhy
 
@@ -1452,7 +1458,7 @@ https://twitter.com/wesbos
 
 <img src="https://twitter.com/svinkle/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-**Scott Vinkle**\
+** Scott Vinkle **
 主题：可访问性
 https://twitter.com/svinkle
 
@@ -1598,7 +1604,7 @@ https://twitter.com/ken_wheeler
 
 <img src="https://twitter.com/GantLaborde/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**手套Laborde ** \
+** Glove Laborde ** \
 主题：JavaScript，React Native，Leadership，Redux，开源，工具，公开演讲\
 https://twitter.com/GantLaborde
 
@@ -1919,7 +1925,7 @@ https://twitter.com/sgrove
 <img src="https://twitter.com/stefsull/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Stephanie Rewis ** \
-Topics: Design Systems, CSS\
+主题：设计系统，CSS \
 https://twitter.com/stefsull
 
 <img src="https://twitter.com/ladyleet/profile_image?size=original" height="70px" width="70px" align="left" alt="" />

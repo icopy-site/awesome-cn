@@ -101,7 +101,7 @@
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好的第一贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载以及浏览器中页面之间的无缝转换.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
-- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
+- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  通用服务器呈现的React应用程序的简约框架
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
@@ -183,6 +183,7 @@
 - [Discourse](https://meta.discourse.org/tags/starter-task) _(tag: #starter-task)_ <br>Civilized discussion platform. See ["How to contribute to Discourse"](https://meta.discourse.org/t/how-to-contribute-to-discourse/53797).
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  开源事件管理器.  为自由和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：好的第一期）_ <br>  一种通用系统，以自动，一致和可重现的方式从源构建和分发包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
+- [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是一个Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
 
 ## Rust
 
@@ -211,4 +212,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.

@@ -24,6 +24,7 @@
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - 关于量子算法问题的工作实例.
 - [Qiskit Tutorials](https://github.com/Qiskit/qiskit-tutorial) -  Jupyter笔记本只是演示了如何使用Qiskit.
 - [Quantum Algorithm Zoo](http://math.nist.gov/quantum/zoo/) - 量子算法的综合目录. 
+- [Quantum Computer Programming](https://cs269q.stanford.edu/syllabus.html?fbclid=IwAR09_JNstMi4WVU4oMHDpWR6xWaSISlrYPjWTUTnhcRdEQhzpoOTRgQN8LI) - 向那些没有量子力学背景的人讲授斯坦福大学的课程.
 - [Quantum Computing Playground](http://www.quantumplayground.net/#/home) -  3D量子状态可视化工具，能够模拟多达22个量子比特.
 - [Quantum computing for the very curious](https://quantum.country/qcvc) - 由Michael Nielsen和Andy Matuschak介绍量子计算的论文.
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - 四个量子比特光子量子模拟器和计算机.
@@ -45,7 +46,7 @@
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - 用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
+- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - 在线量子作曲家在真实量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
 - [Project Q](http://projectq.ch/) - 在Python中实现量子计算的框架.
@@ -82,7 +83,7 @@
 
 ## Papers
 
-- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
+- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - 近期量子计算机中量子辅助机器学习的机遇和挑战.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - 量子机器学习和量子计算对数据挖掘意味着什么.
 
 ## Videos

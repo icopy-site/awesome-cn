@@ -225,6 +225,14 @@ Chrome扩展程序可在GitHub项目中查看故事点.
 </details>
 
 
+用GitHub趋势项目替换浏览器新选​​项卡屏幕.
+
+<details><summary>Screenshots</summary>
+
+ ![Hacker Tab](https://raw.githubusercontent.com/huchenme/hacker-tab-extension/master/images/screenshot.jpg)
+</details>
+
+
 ## Navigation
 
 
@@ -557,7 +565,7 @@ Show [vscode-icons](https://github.com/vscode-icons/vscode-icons) 在存储库�
 </details>
 
 
- 此扩展名是在GitHub中显示repos的travis-ci状态.  有一个可视图表，显示最近10次的构建状态和持续时间的变化.
+ 此扩展名是在GitHub中显示repos的travis-ci状态.  有一个可视化图表，显示最近10次的构建状态和持续时间变化.
 
 <details><summary>Screenshots</summary>
 
