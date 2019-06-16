@@ -292,6 +292,7 @@
 - [Papers We Love](https://github.com/papers-we-love/papers-we-love#readme)
 - [Talks](https://github.com/JanVanRyswyck/awesome-talks#readme)
 - [Algorithms](https://github.com/tayllan/awesome-algorithms#readme)
+	- [Education](https://github.com/gaerae/awesome-algorithms-education#readme) - 学习和练习.
 - [Algorithm Visualizations](https://github.com/enjalot/algovis#readme)
 - [Artificial Intelligence](https://github.com/owainlewis/awesome-artificial-intelligence#readme)
 - [Search Engine Optimization](https://github.com/marcobiedermann/search-engine-optimization#readme)
@@ -335,6 +336,7 @@
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) - 游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙盒视频游戏.
+- [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - 游戏中人工智能的材料和数据集.
 
 
 ## Development Environment
@@ -459,7 +461,7 @@
 - [Places to Post Your Startup](https://github.com/mmccaff/PlacesToPostYourStartup#readme)
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - 目标设定和沟通最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - 领导人员并成为技术公司/环境中的经理.
-- [Indie](https://github.com/mezod/awesome-indie#readme) - Independent developer businesses.
+- [Indie](https://github.com/mezod/awesome-indie#readme) - 独立的开发商业务.
 
 
 ## Work
@@ -491,7 +493,7 @@
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json#readme) - 基于文本的数据交换格式.
+- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
 - [CSV](https://github.com/secretGeek/awesomeCSV#readme) - 一种文本文件格式，用于存储表格数据并使用逗号分隔值.

@@ -104,6 +104,7 @@
 - [Capturing Audio Output During Testing: Part 2](https://appiumpro.com/editions/70)
 - [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
 - [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
+- [Working with Multile Webviews in Android Hybrid Apps](https://appiumpro.com/editions/73)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.
@@ -115,6 +116,7 @@
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) -  Selenium Camp 2016.
 
 ## Blogs
+ - [All about Appium Desired Capabilities](https://caps.cloudgrey.io/) - 所有关于Appium所需的功能.
  - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) -  APPI架构，设置等（更新版）
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - 阿皮亚的架构.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - 所有关于Wordpress中的Appium.

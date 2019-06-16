@@ -20,9 +20,9 @@
  *很棒的学习材料，以了解jQuery和JavaScript或学习更高级的东西.  一些友好的建议：在深入了解jQuery之前，学习JavaScript.*
 
 * [API documentation](http://api.jquery.com/) - 官方jQuery文档.
-* [Code School](https://www.codeschool.com/courses/try-jquery) - 学习jQuery 2.0的基本构建模块，并为有相关编程挑战的初学者享受新的视频教程.
-* [Codecademy jQuery track](https://www.codecademy.com/en/tracks/jquery) - 初学者跟踪学习jQuery.
-* [Learning jQuery](http://www.learningjquery.com/) -  jQuery JavaScript库的提示，技巧和教程.
+* [Code School](https://www.pluralsight.com/courses/code-school-try-jquery) - 学习jQuery（JavaScript库）的基础知识，修改网页上的元素并改善用户交互.
+* [Codecademy jQuery track](https://www.codecademy.com/learn/learn-jquery) - 初学者跟踪学习jQuery.
+* [Learning jQuery](https://www.learningjquery.com/) -  jQuery JavaScript库的提示，技巧和教程.
 * [Style guides](https://contribute.jquery.org/style-guide/) -  jQuery的代码样式指南在为jQuery项目做贡献时.
 * [Tuts+](https://code.tutsplus.com/categories/jquery) - 有关jQuery的有用和深入的文章.
 * [jQuery guide for teams](https://github.com/voorhoede/jquery-style-guide) - 提示编写一致的jQuery代码，易于使用和团队理解.
@@ -35,7 +35,6 @@
 * [Learning jQuery Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#jquerypluginpatterns) -  jQuery插件设计模式
 * [Learn jQuery](http://learn.jquery.com/) -  jQuery学习中心.
 * [Snoopcode](http://www.snoopcode.com/jquery/) -  jQuery教程.
-* [Try jQuery](http://try.jquery.com/) - 学习jQuery的基本构建块.
 * [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - 扩展jQuery的选择器功能.
 
 
@@ -46,7 +45,7 @@
 #### Free Books
 
 * [JavaScript plus a dash of JQuery](http://nicholasjohnson.com/javascript-book/) - 使用JavaScript和jQuery编写的明智的简介，*由Nicholas Johnson *编写.
-* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/jquery) （PDF，.mobi）*（需要注册）*.
+* [jQuery Succinctly, Syncfusion](https://www.syncfusion.com/ebooks/jquery) （PDF，mobi，epub）*（需要注册）*.
 * [jQuery fundamentals](https://github.com/bocoup/jqfundamentals.com) - 使用jQuery解决您需要解决的常见问题，从而轻松完成工作.
 
 #### Paid Books
@@ -63,7 +62,7 @@
 * [jQuery Blog](http://blog.jquery.com/) - 官方jQuery网站的新闻.
 * [jQuery UI Blog](http://blog.jqueryui.com/) - 官方jQuery UI博客.
 * [Sitepoint](https://www.sitepoint.com/javascript/jquery/) -  Sitepoint的jQuery类别部分，包含有用的文章.
-* [Smashing Magazine](https://www.smashingmagazine.com/tag/jquery/) -  jQuery标签，有用的jQuery文章和教程相似的博客文章.
+* [Smashing Magazine](https://www.smashingmagazine.com/category/jquery) -  jQuery标签，有用的jQuery文章和教程相似的博客文章.
 
 
 ### Miscellaneous Resources
@@ -82,7 +81,7 @@
 
 *来自jQuery世界各地的令人敬畏的插件.*
 
-* [Plugins](https://www.npmjs.com/browse/keyword/jquery-plugin) -  jQuery插件注册表， [previous one](http://plugins.jquery.com/) 现在处于只读模式.
+* [Plugins](https://www.npmjs.com/search?q=keywords:jquery-plugin) -  jQuery插件注册表， [previous one](http://plugins.jquery.com/) 现在处于只读模式.
 * [jQuery Rain](http://www.jqueryrain.com/) - 顶级和最佳jQuery插件，教程，酷炫效果，示例，演示.
 * [jQuery Unheap](http://www.unheap.com/) - 一个整洁的jQuery插件库.
 
@@ -110,7 +109,7 @@
 * [Froala WYSIWYG HTML Editor](https://github.com/froala/wysiwyg-editor) - 基于HTML5的jQuery WYSIWYG富文本编辑器.
 * [jQuery Notebook](https://github.com/raphaelcruzeiro/jquery-notebook) - 一个现代，简单和优雅的WYSIWYG富文本编辑器.
 * [jQuery TE](http://jqueryte.com/) - 轻量级HTML编辑器.
-* [TinyMCE](https://www.tinymce.com/) - 流行的WYSIWYG编辑器，带有jQuery构建和jQuery集成插件.
+* [TinyMCE](https://www.tiny.cloud/) - 流行的WYSIWYG编辑器，带有jQuery构建和jQuery集成插件.
 
 
 ### Forms
@@ -132,7 +131,7 @@
 
 ### Images, Maps and Charts
 
-*Plugins related to images, image manipulation, galleries, maps and charts.*
+*与图像，图像处理，图库，地图和图表相关的插件.*
 
 * [AnyChart-jQuery](https://github.com/AnyChart/AnyChart-jQuery) - 使用jQuery轻松使用AnyChart JavaScript图表库的插件.
 * [Arbor](https://github.com/samizdatco/arbor) - 使用Web worker和jQuery的图形可视化库.
@@ -162,7 +161,7 @@
 * [jQuery contextMenu](https://github.com/swisnl/jQuery-contextMenu) - 上下文菜单的管理工具.
 * [jPanelMenu](https://github.com/acolangelo/jPanelMenu) - 创建一个镶板式菜单（如Facebook，Google和本机iPhone应用程序的移动版本中所见的类型）.
 * [jQuery-menu-aim](https://github.com/kamens/jQuery-menu-aim) - 当用户光标瞄准特定下拉菜单项时触发事件.
-* [mmenu](https://github.com/FrDH/jQuery.mmenu) - 具有滑动子菜单的应用程序外观相似的画布外菜单.
+* [mmenu](https://github.com/FrDH/mmenu-js) - 具有滑动子菜单的应用程序外观相似的画布外菜单.
 * [Multi-level push menu](https://github.com/adgsm/multi-level-push-menu) - 允许无限嵌套导航元素.
 * [Slidebars](https://github.com/adchsm/Slidebars) - 用于画布外菜单和侧边栏的jQuery框架.
 * [stickUp](https://github.com/LiranCohen/stickUp) - 在滚动浏览器窗口时将元素粘贴到浏览器窗口的顶部，始终将其保持在视图中.
@@ -177,11 +176,11 @@
 * [animatedModal.js](https://github.com/joaopereirawd/animatedModal.js)   - 使用CSS3过渡创建全屏模态的插件.  您可以使用`animate.css`中的过渡或创建自己的过渡.
 * [Avgrund](https://github.com/voronianski/jquery.avgrund.js) - 为弹出窗口和页面之间显示深度的新概念插入模态框和弹出窗口.
 * [Bootstrap Modal](https://github.com/jschr/bootstrap-modal)   - 扩展默认的Bootstrap Modal类.  响应，可堆叠和ajax.
-* [iziModal](https://github.com/dolce/iziModal) - 使用jQuery优雅，响应灵活，轻量级的模态插件.
+* [iziModal](https://github.com/marcelodolza/iziModal) - 使用jQuery优雅，响应灵活，轻量级的模态插件.
 * [jBox](https://github.com/StephanWagner/jBox) - 功能强大且灵活的插件，可以处理所有模态窗口，工具提示和通知.
 * [jQuery Modal](https://github.com/kylefox/jquery-modal) - 显示模态窗口的简单轻量级方法.
 * [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 响应式和可访问的模态窗口和工具提示.
-* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面顶部叠加图像的JavaScript库.
+* [Lightbox](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
 * [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速，轻便，响应迅速的灯箱插件.
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript的警报的美丽替代品.
 * [tipso](https://github.com/object505/tipso) - 轻量级响应式jQuery Tooltip插件.
@@ -193,7 +192,7 @@
 *网格插件和插件，用于以表格形式创建和展示数据.*
 
 * [Bootgrid](https://github.com/rstaib/jquery-bootgrid) - 专为引导程序设计的网格控件.
-* [Bootstrap table](http://bootstrap-table.wenzhixin.net.cn/) - 为bootstrap设计的强大的表控件.
+* [Bootstrap table](https://bootstrap-table.com/) - 为bootstrap设计的强大的表控件.
 * [DataTables](https://www.datatables.net/) -  HTML表的高级交互控件.
 * [FancyGrid](https://fancygrid.com/) - 具有图表集成和服务器通信的JavaScript网格库.
 * [Filter Table](https://github.com/sunnywalker/jQuery.FilterTable) - 实时搜索/过滤HTML表格.
@@ -287,8 +286,8 @@
 * PHP：
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - 教程如何将BowerPHP，Mini-Asset和Robo.li组合到PHP前端资产构建管道中.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) -  jQuery插件，管理从Symfony2集合添加，删除和移动元素.
-* Python：
-    * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) -  jQuery打包在一个方便的Django应用程序中，以加快新的应用程序和部署.
+* Python:
+    * [django-static-jquery](https://pypi.org/project/django-static-jquery/) -  jQuery打包在一个方便的Django应用程序中，以加快新的应用程序和部署.
 * Ruby：
     * [jquery-rails](https://github.com/rails/jquery-rails) - 一个使用Rails自动使用jQuery的gem.
     * [jquery-ui-rails](https://github.com/jquery-ui-rails/jquery-ui-rails) - 用于Rails资产管道的jQuery UI.
@@ -304,7 +303,6 @@
 * [Facebook](https://www.facebook.com/groups/jquerycode/) -  Facebook上庞大而活跃的群体.
 * [Linked.in](https://www.linkedin.com/groups/100943) -  Linked.in上的大型活动组.
 * [Reddit](https://www.reddit.com/r/jquery) - 讨论和分享新闻，文章，插件和教程，涵盖jQuery Core，jQuery UI，jQuery Mobile和其他相关项目.
-* [Google+](https://plus.google.com/communities/106546344682622800231) -  Google+上庞大且活跃的群组.
 * [Quora](https://www.quora.com/jQuery) - 在Quora网站上提问并回答问题.
 * [Meetup](https://www.meetup.com/topics/jquery/) - 参与当地活动.
 * [Twitter](https://twitter.com/jquery) -  Twitter上jQuery团队的官方新闻和更新.
@@ -328,7 +326,7 @@
     * [erichs/awesome-awesome](https://github.com/erichs/awesome-awesome) - 很棒的清单
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - 很棒的清单
     * [lists](https://github.com/jnv/lists) - 很棒的清单
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - 很棒的JavaScript列表
 * [awesome-javascript-books](https://github.com/heatroom/awesome-javascript-books) - 很棒的JavaScript书籍
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - 专门讨论JavaScript的必看视频列表
 *翻译：

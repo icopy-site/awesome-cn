@@ -76,9 +76,9 @@
 * [Nextein](https://github.com/elmasse/nextein) - 一个基于Next.js的静态站点生成器.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) - 轻松地将博客添加到任何基于next.js的项目中
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) - 轻松部署无服务器应用程序.
+* [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) - 使用Terraform部署您的应用程序
 
 ## Apps
-* [Nextgram](https://github.com/zeit/nextgram) - 示例Next.js应用程序展示其功能.
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) - 简单的Next.js应用程序，展示了权力的游戏角色.
 * [Next Episode](https://github.com/timneutkens/next-episode) - 示例Next.js应用程序显示电影剧集.
 * [Relate](https://github.com/RelateNow/relate) - 正念社区 -  React，GraphQL，Next.js.

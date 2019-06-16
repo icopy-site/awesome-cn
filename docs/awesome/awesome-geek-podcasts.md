@@ -33,8 +33,8 @@
 * [Blockchain Insider](https://bi.11fs.com/) - 每周播客专门研究区块链，分类账技术和加密货币.
 * [Boagworld Show](https://boagworld.com/show)   -  Boagworld是一个关于数字战略，管理和用户体验的播客.  它提供实用的建议，新闻，工具，审查和与网页设计社区领先人物的访谈.
 * [BookBytes](https://www.orbit.fm/bookbytes/) - 为开发者提供的图书俱乐部播客.
-* [Bootstrapped](http://bootstrapped.fm/)   -  Ian和Andrey都是创业公司的创始人，他们的职业生涯都有重大的打击和成功.  你可以学到很多听他们的东西.
-* [Bootstrapped Web](http://bootstrappedweb.com/) -  Bootstrapped Web适用于企业家引导他们的初创公司，他们认为到达我们要去的地方的最佳方式是边做边学.
+* [Bootstrapped](http://bootstrapped.fm/)   - 伊恩和安德烈都是创业公司的创始人，他们的职业生涯都有重大的打击和成功.  你可以学到很多听他们的东西.
+* [Bootstrapped Web](http://bootstrappedweb.com/) -  Bootstrapped Web适用于企业家引导他们的创业公司，他们认为，到达我们要去的地方的最佳方式是边做边学.
 * [BSDNow](http://www.bsdnow.tv/) - 每周BSD播客 - 新闻，访谈和教程.
 * [BSDTalk](http://bsdtalk.blogspot.com/) - 谈论BSD系列免费操作系统.
 * [Build Phase](http://buildphase.fm/) -  Build Phase是一个讨论iOS开发和设计的每周技术播客.
@@ -57,7 +57,7 @@
 * [Developer On Fire](https://developeronfire.com/) - 播客与成功的软件开发人员，建筑师，测试人员和其他专业人士进行鼓舞人心的访谈，讲述成功，失败，卓越和灵感的故事.
 * [DevelopersHangout](http://www.developershangout.io/)   - 两位开发人员每两周谈论一次他们的雷达中的挑战，文章，新闻，书籍和其他播客.  Laravel，PHP是两个关键主题，以及其他很棒的播客，如上面列出的那些.
 * [Developer Tea](https://spec.fm/podcasts/developer-tea) - 由开发人员托管的网络和软件开发人员的播客，您可以在不到10分钟的时间内收听.
-* [Developing Perspective](https://github.com/ayr-ton/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)   - 从开发和设计到营销和支持，Under the Radar都是关于独立应用开发的.  它永远不会超过30分钟.
+* [Developing Perspective](https://github.com/ayr-ton/awesome-geek-podcasts/blob/master/	http://developingperspective.com/)   - 从开发和设计到营销和支持，Under the Radar是关于独立应用程序开发的.  它永远不会超过30分钟.
 * [Devnology](http://devnology.nl/podcasts)   - 荷兰用户组Devnology的播客.  它主要是英文的.  与有趣的人进行了许多有趣的讨论
 * [DevOps Cafe](http://devopscafe.org/) - 在这次采访驱动的节目中，John Willis和Damon Edwards务实地看待新兴DevOps运动背后的技术，工具和业务发展.
 * [Digital Human](https://www.bbc.co.uk/programmes/b01n7094) -  BBC系列探索了Aleks Krotoski提出的数字世界.
@@ -107,7 +107,7 @@
 * [Mind the Cloud Podcast](http://mindthecloud.com) - 关于使用云创建未来的开发人员和公司的播客.
 * [MS Dev Show](https://msdevshow.com/)   - 面向Microsoft开发人员的播客.  Jason Young和Carl Schweitzer谈论了最新的开发者新闻，内容涉及Azure云，Windows，Windows Phone，Visual Studio以及使用Microsoft平台的跨平台开发等主题.
 * [New Rustacean](https://newrustacean.com/) - 这是一个关于从头开始学习编程语言Rust的播客.
-* [Nodeup](http://nodeup.com/) -  Node.js播客.
+* [Nodeup](http://nodeup.com/) -A Node.js播客.
 * [Note To Self](https://www.wnycstudios.org/shows/notetoself) - 主持人Manoush Zomorodi与从大名鼎鼎的技术人员到小学教师的所有人谈论技术对我们生活的影响，寻求有助于您思考和生活的聪明选择.
 * [Office 365 Developer Podcast](https://www.microsoft.com/en-us/microsoft-365/blog/) - 唯一专注于Office 365开发的节目，我们与来自全球各地的专家在Office 365平台上进行编码.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - 最新的开源项目和新闻！
@@ -128,10 +128,11 @@
 * [Rocket Ranch](https://www.nasa.gov/kennedy/rocketranch/) - 来自美国宇航局肯尼迪航天中心的官方播客.
 * [Rocket Talk](https://www.tor.com/features/series/rocket-talk-podcast/) -  Rocket Talk是Tor.com的科幻/幻想播客，将讨论风格的谈话电台与Tor.com屡获殊荣的短篇小说的音频叙述相结合.
 * [Ruby5](https://www.pluralsight.com/search?q=ruby) -  Ruby和Rails社区的最新消息.
-* [Ruby Rogues](https://devchat.tv/ruby-rogues/)   -  Ruby Rogues是关于编程的每周小组讨论.  Ruby和Rails等技术是我们的共同点，但讨论涵盖了Ruby生态系统的一部分，gems（库）以及编程实践，工具和职业.
+* [Ruby Rogues](https://devchat.tv/ruby-rogues/) - Ruby Rogues is a weekly panel discussion about programming. Ruby and technologies like Rails are what we have in common, but the discussions cover parts of the Ruby ecosystem, gems (libraries) as well as programming practices, tools, and careers.
 * [RunAs Radio](http://www.runasradio.com/) - 针对使用Microsoft产品的IT专业人员每周一次的互联网音频脱口秀.
 * [Security Now!](https://www.grc.com/securitynow.htm)   - 现在安全！  包括Steve Gibson和Leo Laporte之间关于计算机安全问题的讨论，以及相反的不安全问题.
 * [Security Weekly](https://securityweekly.com) - 关于安全性和信息的每周播客.
+* [Semaphore Uncut](https://semaphoreci.com/podcast) - 软件行业专业人员讨论他们目前使用他们正在开发的产品解决的问题.
 * [ShopTalk Show](https://shoptalkshow.com/) - 关于前端网页设计，开发和用户体验的播客.
 * [Software Engineering Daily](https://softwareengineeringdaily.com/) - 播客，每日采访有关专业软件开发人员的技术软件主题.
 * [Software Engineering Radio](http://www.se-radio.net/) - 专业软件开发人员的播客.
@@ -151,7 +152,7 @@
 * [Test and Code Podcast](https://testandcode.com/) - 关于软件开发，软件测试和Python的播客.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - 关于软件测试实践的英国播客
 * [That Podcast](https://thatpodcast.io/) -  Beau和Dave谈论父亲，程序员和企业家的生活.
-* [The 6 Figure Developer Podcast](https://6figuredev.com)   -  6 Figure Developer Podcast是一个致力于帮助开发人员发展事业的节目.  主题包括测试驱动开发，清洁代码，专业性，企业家精神，以及最新和最好的编程语言和概念.
+* [The 6 Figure Developer Podcast](https://6figuredev.com)   -  The 6 Figure Developer Podcast是一个致力于帮助开发人员发展事业的节目.  主题包括测试驱动开发，清洁代码，专业性，企业家精神，以及最新和最好的编程语言和概念.
 * [The Accidental Engineer](https://theaccidentalengineer.com/) - 与工程师就他们如何开始职业生涯进行访谈
 * [The Agile Coffee Podcast](http://agilecoffee.com/) -  AgileCoffee汇集了一群对敏捷方法和精益实践充满热情的从业者.
 * [The Amp Hour](https://theamphour.com/) - 在一小时（每周）的每周节目中讨论电子设计的世界.
@@ -168,7 +169,7 @@
 * [The Life Scientific](https://www.bbc.co.uk/programmes/b015sqc7) -  Jim Al-Khalili教授与领先的科学家谈论他们的生活和工作，找出激励和激励他们的东西，并询问他们的发现可能为人类做些什么.
 * [The Linux Action Show](https://www.jupiterbroadcasting.com/tag/linux-action-show/)   - 关于Linux和开源的播客.  （停产）
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) -  Jeff Carouth和Matt Frost结合他们作为Web开发人员的数十年经验来谈论开发人员的生活.
-* [The Manifest](https://manifest.fm) - A podcast all about package management.
+* [The Manifest](https://manifest.fm) - 关于包管理的播客.
 * [The Music Makers](http://musicmakers.fm) - 来自网络的最佳文章，策划和阅读.
 * [The Path to Performance](https://pathtoperf.com/) - 为每个人致力于提高网站速度的播客.
 * [The Ship Show](http://theshipshow.com/) - 构建工程，DevOps，发布管理及其间的所有内容！
@@ -189,12 +190,12 @@
 
 ## In Portuguese
 
-* [10deploys](https://www.10deploys.com/) - 讨论DevOps背后的起源，趋势，影响和概念，以帮助组织转变为高绩效组织.
+* [10deploys](https://www.10deploys.com/) - 为了帮助企业转变为高绩效的组织起源，发展趋势，影响和概念的DevOps后面进行讨论.
 * [CapyCast](https://soundcloud.com/rdshipit/) - 与Digital Results产品团队一起播放有关您的开发和设计学习的播客.
 * [DatabaseCast](https://imasters.com.br/perfil/databasecast/) - 第一个关于数据库的巴西播客.
 * [DevDrops](https://anchor.fm/devdrops) - 您的播客有关软件开发.
 * [DevNaEstrada](https://devnaestrada.com.br/) - 每周一次的网络开发播客，带有一丝幽默感.
-* [DioCast](https://www.diolinux.com.br/search/label/DioCast) -  Linux和自由软件播客.
+* [DioCast](https://www.diolinux.com.br/search/label/DioCast) - Podcast sobre Linux e Software Livre.
 * [Elemencast](https://elemencast.github.io) - 建议是向听众提供有关宇宙前端，NodeJ，功能编程等的各种内容.
 * [FooCast](https://foocast.io/) - 简短的播客，讲述一般的发展.
 * [Galera do Rau](http://galeradorau.com.br/category/podcast/galera-do-rau/) - 四位老师，非常书呆子，乐趣和许多故事.
@@ -214,7 +215,7 @@
 * [Quebradev](https://quebradev.com.br/) - 外围起源的播客和命运返回原点.
 * [Rapadura Cast](https://cinemacomrapadura.com.br/cat/rapaduracast-podcast/) - 播放带有rapadura的电影院的播客，今天被认为是巴西流行文化的参考.
 * [Rede Geek](http://www.redegeek.com.br/podcast/) - 播客针对极客观众的各种主题，如技术，科学，历史和其他.
-* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个以葡萄牙语为目标的Salesforce世界播客，在这里我们聊聊开发，平台管理，Salesforce产品以及Career等主题.
+* [Souforce.cloud](https://souforce.cloud/podcast/) - 第一个播客返回到Salesforce世界葡萄牙语，打到这里聊天开发，平台管理，Salesforce的产品，以及问题，如在其他职业.
 * [Tecnocast](https://tecnoblog.net/categoria/podcast/) -  Tecnoblog的播客，关于技术.
 * [Tecnologicamente Arretado](http://tecnologicamentearretado.com.br) - 敏捷，建筑，语言和行动主义.
 * [Xadrez Verbal](https://xadrezverbal.com/category/audio/podcast-do-xadrez-verbal/) - 政治，历史和新闻.
@@ -312,11 +313,11 @@
 
 ## In Dutch
 * [BNR: Digitaal](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fdigitaal) -  Herbert Blankesteijn在互联网，电脑和电话之间切换.
-* [BNR: De Technoloog](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fde-technoloog) -  Herbert Blankesteijn和Ben van der Burg与知名专家讨论技术发展及其对社会的影响.
+* [BNR: De Technoloog](https://www.bnr.nl/cookiewall?target=%2Fprogrammas%2Fde-technoloog) -  Herbert Blankesteijn和Ben van der Burg与知名专家就技术发展及其对社会的影响进行了对话.
 * [De Appels en Peren Show](http://appelsenperenshow.nl/)   - 关于未来的脱口秀节目.  技术，媒体，文化以及使未来成为可能的一切.
-* [Tech45](https://tech45.eu/)   -  Tech45是每周一次的技术播客.  在大约45分钟内，一组极客将引导您完成上周最有趣的技术.
-* [TechSnacks](https://techsnacks.nl/) - 小吃格式唯一的技术播客！
-* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)   - 每周播客，其中书呆子喝红色和谈论技术主题.  有定期的客人书呆子和常规的书呆子Daniel Kegel，Floris Diemel，Joost Schellevis，Jurian Ubachs和Randal Peelen.
+* [Tech45](https://tech45.eu/)   -  Tech45是每周一次的技术播客.  在大约45分钟内，极客小组将引导您浏览过去一周最有趣的技术新闻.
+* [TechSnacks](https://techsnacks.nl/) - 唯一的零食大小科技播客！
+* [Met Nerds om Tafel](https://www.metnerdsomtafel.nl/)   - 每周播客，其中书呆子喝Spa Rood并谈论技术主题.  有定期的客人书呆子和常规的书呆子Daniel Kegel，Floris Diemel，Joost Schellevis，Jurian Ubachs和Randal Peelen.
 * [ZeepCast](https://twitter.com/Zeepcast)   - 关于科学，技术和流行文化最新发展的播客.  由Sander Bijleveld和David van Dorsten主持.
 
 ### Tooling

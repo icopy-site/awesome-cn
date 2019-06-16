@@ -76,6 +76,7 @@
 * [Inkdrop](https://www.inkdrop.info/) - 构建在Electron之上的Markdown爱好者的笔记本应用程序.
 * [Joplin](https://joplin.cozic.net/)   - 具有markdown支持的跨平台开源记事本和具有同步功能的待办事项列表管理器.  [！[开源软件] [OSS图标]]（https://github.com/laurent22/joplin）！[免费软件] [免费软件图标]
 * [MarginNote](https://marginnote.com/) - 深入的PDF和EPUB阅读，学习，管理和记笔记应用程序.
+* [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
 * [Notebook](https://www.zoho.com/notebook/notebook-for-mac.html)  笔记应用程序.  ！[免费软件] [免费软件图标]
 * [Notes](http://www.get-notes.com/)   - 干净，简单的笔记应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nuttyartist/notes）！[免费软件] [免费软件图标]
 * [Notion](https://www.notion.so/)  -Notion是一体化工作区.  从笔记，任务，维基到数据库，Notion就是您所需要的.  适用于团队和个人.
@@ -220,7 +221,7 @@
 * [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12)   -  Go2Shell打开Finder中当前目录的终端窗口.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12）
 * [htop](https://github.com/hishamhm/htop)   -  htop是Unix系统的交互式文本模式进程查看器.  它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
 * [httpie](https://httpie.org) - 现代命令行HTTP客户端 - 用户友好的卷曲替代方案，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，扩展等[！[开源软件] [OSS图标]]（https：// github .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
-* [hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon]](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
+* [hyper](https://hyper.is)   - 基于Web技术构建的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 * [iTerm2](http://www.iterm2.com) -  iTerm2是一个令人惊叹的OS X终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)   - 通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
 * [job](https://github.com/liujianping/job)   -  JOB，让你的短期指挥作为一项长期工作.  [！[开源软件] [OSS图标]]（https://github.com/liujianping/job）！[免费软件] [免费软件图标]
@@ -251,7 +252,7 @@
 
 * [AppJS](http://appjs.com/)   - 轻量级JavaScript UI库，用于创建与本机应用程序类似的移动Web应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/appjs/appjs）
 * [create-dmg](https://github.com/sindresorhus/create-dmg)   - 在几秒钟内为您的macOS应用程序创建一个好看的DMG.  [！[开源软件] [OSS图标]]（https://github.com/sindresorhus/create-dmg）！[免费软件] [免费软件图标]
-* [Electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine. [![Open-Source Software][OSS Icon]](https://github.com/pojala/electrino) ![Freeware][Freeware Icon]
+* [Electrino](https://github.com/pojala/electrino)   - 使用系统自己的Web浏览器引擎构建基于Web技术的应用程序的桌面运行时.  [！[开源软件] [OSS图标]]（https://github.com/pojala/electrino）！[免费软件] [免费软件图标]
 * [Electron](http://electron.atom.io)   - 使用JavaScript，HTML和CSS构建跨平台桌面应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/electron/electron）
 * [ionic](http://ionicframework.com/)   - 使用Angular和开放式Web技术构建令人惊叹的原生和渐进式Web应用程序.  一个应用程序运行在一切.  [！[开源软件] [OSS图标]]（https://github.com/driftyco/ionic）！[免费软件] [免费软件图标]
 * [MacGap](http://macgapproject.github.io/)   - 为OS X集成提供轻量级JavaScript API，例如显示本机通知或将数据写入文件.  [！[开源软件] [OSS图标]]（https://github.com/MacGapProject）！[免费软件] [免费软件图标]
@@ -302,7 +303,7 @@
 * [FastoNoSQL](https://fastonosql.com/)   -  Redis，Memcached，SSDB，LevelDB，RocksDB，UnQLite，LMDB，ForestDB，Pika和Dynomite键值数据库的跨平台GUI客户端.  [！[开源软件] [OSS图标]]（https://github.com/fastogt/fastonosql）！[免费软件] [免费软件图标]
 * [FastoRedis](https://fastoredis.com/)   -  Redis的跨平台专业GUI管理工具.  [！[开源软件] [OSS图标]]（https://github.com/fastogt/fastoredis）！[免费软件] [免费软件图标]
 * [JackDB](https://www.jackdb.com/)   - 为您的查询和数据驱动的见解提供安全的协作环境.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yoichiro/chrome_mysql_admin）
-* [Keylord](https://protonail.com) - Desktop GUI client for Redis, Bolt, LevelDB and Memcached key-value databases.
+* [Keylord](https://protonail.com) - 用于Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端.
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) -  MDB工具，用于打开，读取，导出MDB文件到其他格式和数据库.
 * [Medis](http://getmedis.com)   -  Redis的GUI管理器.  [！[开源软件] [OSS图标]]（https://github.com/luin/medis）
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - 简单的MongoDB GUI.
@@ -449,7 +450,7 @@
 * [Riot](https://about.riot.im/)   - 创建，分享沟通.  安全地聊天和打电话.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/vector-im）
 * [Signal Desktop](https://signal.org/download/)   - 快速，简单，安全.  适合放在口袋里的隐私.  [！[开源软件] [OSS图标]]（https://github.com/signalapp/Signal-Desktop）
 * [Skype](https://www.skype.com/)   - 提供视频聊天和语音呼叫服务的跨平台应用程序.  用户可以交换图像，文本，视频和任何其他数字文档.
-* [Slack](https://slack.com/)   - 团队协作和沟通的绝佳工具.  ！[免费软件] [免费软件图标]
+* [Slack](https://slack.com/) - Awesome tool for team collaboration and communication. ![Freeware][Freeware Icon]
 * [Teambition](https://www.teambition.com)   - 团队协作工具，包括许多功能，如任务计划，计划，文件共享，即时讨论以及与其他团队成员协作时所需的一切.  ！[免费软件] [免费软件图标]
 * [Telegram](https://desktop.telegram.org) - 消息应用程序，专注于速度和安全性.
 * [Textual](https://www.codeux.com/textual)   - 互联网中继聊天（IRC）客户端.  [！[开源软件] [OSS图标]]（https://github.com/Codeux-Software/Textual）
@@ -527,7 +528,7 @@
 
 ## Download Management Tools
 
-* [aria2](https://aria2.github.io/)   - 轻量级多协议和多源命令行下载实用程序.  [！[开源软件] [OSS图标]]（https://github.com/aria2）！[免费软件] [免费软件图标]
+* [aria2](https://aria2.github.io/) - Lightweight multi-protocol & multi-source command-line download utility. [![Open-Source Software][OSS Icon]](https://github.com/aria2) ![Freeware][Freeware Icon]
 * [Downie](https://software.charliemonroe.net/downie.php) - 支持YouTube和其他1200个站点的macOS视频下载器.
 * [FOLX](http://mac.eltima.com/download-manager.html)   - 适用于Mac OS X的免费下载管理器，具有真正的Mac风格界面.  ！[免费软件] [免费软件图标]
 * [Free Download Manager](http://www.freedownloadmanager.org/)   - 适用于Windows和Mac的强大，现代的下载加速器和管理器.  （免费）！[免费软件] [免费软件图标]
@@ -552,7 +553,7 @@
 
 ## Input Methods
 
-* [Kawa](https://github.com/utatti/kawa) - 更好的OS X输入源切换器.[！[开源软件] [OSS图标]]（https://github.com/utatti/kawa）！[免费软件] [免费软件图标]
+* [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/)   - 使用Slack风格的快捷键，可以更快，更轻松地输入表情符号.  ！[免费软件] [免费软件图标]
 * [Type2Phone](https://www.houdah.com/type2Phone/)   - 将Mac用作iPhone，iPad和Apple TV的键盘.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129）
 

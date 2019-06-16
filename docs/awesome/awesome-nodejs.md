@@ -602,7 +602,6 @@
 
 ### Job queues
 
-- [kue](https://github.com/Automattic/kue) -  Redis支持的优先级作业队列.
 - [bull](https://github.com/OptimalBits/bull) - 持久作业和消息队列.
 - [agenda](https://github.com/rschmukler/agenda) -  MongoDB支持的作业调度.
 - [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制功能的Redis支持的作业队列引擎.
