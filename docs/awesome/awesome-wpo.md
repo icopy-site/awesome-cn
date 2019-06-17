@@ -45,7 +45,7 @@
 * [Web Page Size, Speed, and Performance](http://www.oreilly.com/webops-perf/free/webpage-size-speed-perf.csp) - 泰伦斯·多尔西
 * [Web Performance Daybook Volume 2](http://www.amazon.com/Web-Performance-Daybook-Stoyan-Stefanov-ebook/dp/B008CQA8BA/ref=asap_bc?ie=UTF8) - 斯托扬·斯特凡诺夫
 * [Web Performance Tuning](http://shop.oreilly.com/product/9780596001728.do) -  Patrick Killelea
-* [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - Kyle Simpson
+* [You Don't Know JS: Async & Performance](http://shop.oreilly.com/product/0636920033752.do) - 凯尔辛普森
 * [Linux, Apache, MySQL, PHP Performance End to End](https://play.google.com/store/books/details/Colin_McKinnon_Linux_Apache_MySQL_PHP_Performance?id=Z3ciBgAAQBAJ) - 科林麦金农
 * [Web Components in Action](https://www.manning.com/books/web-components-in-action) - 本法雷尔
 
@@ -103,7 +103,7 @@
 * [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) -  Hewlett-Packard的自动化性能和测试自动化产品，用于应用程序负载测试：检查系统行为和性能，同时生成实际负载.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - 面向高级Linux用户的可扩展开源负载测试工具，作为自动负载测试套件的一部分特别好.
 * [Yellow Lab Tools](http://yellowlab.tools) - 在线快速简便的工具，可以审核前端不良做法，揭示性能问题和配置文件JavaScript.
-* [Pagelocity](http://pagelocity.com/) -  Web性能优化和分析工具.
+* [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
 * [Varvy](https://varvy.com/pagespeed/) - 测试您的网站，看它是否符合Google的速度指南.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - 将页面大小与同一页面的压缩图像进行比较
 * [Speed Racer](https://github.com/ngryman/speedracer) - 使用Chrome headless收集库/应用程序的性能指标.
@@ -118,10 +118,11 @@
 
 * [Bundlesize](https://github.com/siddharthkp/bundlesize) - 检查您的捆绑尺寸.
 * [source-map-explorer](https://github.com/danvk/source-map-explorer) - 通过源映射分析和调试捆绑空间使用情况.
-* [Bundlephobia](https://bundlephobia.com/) - Find the cost of adding a npm package to your bundle.
+* [Bundlephobia](https://bundlephobia.com/) - 帮助您找到向前端捆绑包添加npm包的性能影响.
 * [Disc](http://hughsk.io/disc/) - 可视化browserify项目包的模块树并跟踪膨胀. 
-* [lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - 分析和可视化由Lasso创建的项目包.  
-* [packtracker.io](https://packtracker.io) - 检查每个拉取请求中的webpack捆绑包统计信息，并随时跟踪它们.
+* [Lasso-analyzer](https://github.com/ajay2507/lasso-analyzer) - 分析和可视化由Lasso创建的项目包.  
+* [Packtracker.io](https://packtracker.io) - 检查每个拉取请求中的webpack捆绑包统计信息，并随时跟踪它们.
+
 
 ## Benchmark - CSS
 
@@ -213,7 +214,7 @@
 * [ZopfliPNG](https://github.com/google/zopfli) - 用于优化PNG图像的命令行程序.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - 重新压缩png文件以获得尽可能小的大小.
 * [Leanify](https://github.com/JayXon/Leanify) - 轻量级无损文件缩小器/优化器.
-* [Trimage](http://trimage.org/) - 用于无损优化PNG和JPG文件的跨平台工具.
+* [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
 * [ImageEngine](https://imageengine.io) - 云服务，可以动态优化，调整大小和缓存图像，并提供出色的移动支持.
 
 

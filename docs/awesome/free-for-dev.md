@@ -9,7 +9,7 @@
 
 此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
 
-You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
+你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
  *注意：*此列表仅适用于即服务产品，不适用于自托管软件.  要使服务符合条件，它必须提供免费套餐而不仅仅是免费试用.  如果Free Tier是时间段，则必须至少一年.
 
@@ -138,7 +138,6 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 ## Code Quality
 
   * [tachikoma.io](https://tachikoma.io/) -  Ruby，Node.js，Perl项目的依赖更新，免费开源
- 
   * [landscape.io](https://landscape.io/) -  Python项目的代码质量，免费用于开源
   * [codeclimate.com](https://codeclimate.com/)   - 自动代码审查，免费开源和无限组织拥有的私人回购（最多4个合作者）.  学生和机构也免费.
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
@@ -192,7 +191,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 
 ## Automated Browser Testing
 
-  * [gridlastic.com](https://www.gridlastic.com/) -  Selenium Grid测试，免费计划最多4个同时硒节点/ 10个网格启动/ 4,000个测试分钟/月
+  * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
   * [saucelabs.com](https://saucelabs.com/) - 跨浏览器测试，Selenium测试和移动测试， [free for Open Source](https://saucelabs.com/open-source)
   * [browserstack.com](https://www.browserstack.com/) - 免费开源的手动和自动浏览器测试
   * [everystep-automation.com](https://www.everystep-automation.com/) - 记录和重放在Web浏览器中执行的所有步骤并创建脚本，...免费使用更少的选项
@@ -202,7 +201,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 ## Security and PKI
 
   * [pyup.io](https://pyup.io)   - 针对安全漏洞的Monitory Python依赖项并自动更新它们.  免费为一个私人项目，无限制的开源项目.
-  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
+  * [threatconnect.com](https://www.threatconnect.com)   - 威胁情报：它专为正在开始了解网络威胁情报的个人研究人员，分析师和组织而设计.  最多可免费使用3个用户
   * [crypteron.com](https://www.crypteron.com/) - 云优先，开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io) -  Snyk发现并报告了包中的几个漏洞.限制为1个私有项目（开源项目无限制）
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
@@ -365,6 +364,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
+  * [arukas.io](https://arukas.io) -  Caas托管，免费平原有730小时/月，0.1 vCPU，128MB RAM和0.1TB流量.
 
 ## BaaS
 
@@ -410,6 +410,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
   * [opeNode.io](https://www.openode.io/) - 开源项目的免费云托管.
   * [kuber.host](https://kuber.host/) -  Kubernetes主持免费计划
   * [cloudno.de](https://cloudno.de/) -  Node.js应用程序的免费云托管.
+  * [heliohost.org](https://www.heliohost.org) - 社区为所有人提供免费托管服务.
 
 ## DNS
 
@@ -451,7 +452,7 @@ You can find the list on [GitHub](https://github.com/ripienaar/free-for-dev) 或
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
+   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN

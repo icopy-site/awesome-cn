@@ -20,6 +20,7 @@
 - [GNOME Todo](https://wiki.gnome.org/Apps/Todo)   - 最小的任务管理器.  ！[GNOME核心] [GNOME核心]
 - [GTimeLog](https://github.com/gtimelog/gtimelog) - 用于跟踪时间的简单应用程序.
 - [Gnome Pomodoro](http://gnomepomodoro.org/) - 简单的番茄计时器.
+- [Timetrack](https://gitlab.gnome.org/danigm/timetrack) -  GNOME的时间跟踪器.
 
 ### Internet
 
