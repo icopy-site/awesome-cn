@@ -1,5 +1,7 @@
 <div class="github-widget" data-repo="dastergon/awesome-sre"></div>
 ## Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[<img src="https://raw.githubusercontent.com/dastergon/awesome-sre/master/awesome-sre-logo.svg?sanitize=true" align="right" width="100">](https://dastergon.gr/awesome-sre)
+
 
 精彩的精选列表 [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) 和 [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) 工程资源.
 

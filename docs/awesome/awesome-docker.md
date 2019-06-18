@@ -105,7 +105,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Maestro](https://github.com/toscanini/maestro) ：头骨： -  Maestro提供了轻松启动，协调和管理多个Docker容器的能力 [@tascanini](https://github.com/toscanini)
 - [percheron](https://github.com/ashmckenzie/percheron) ：头骨： - 用肌肉和智力组织你的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
 - [plash](https://github.com/ihucos/plash) - 容器运行和构建引擎 - 在docker中运行.
-- [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull： - 具有idempotency功能的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
+- [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull： - 扩展的Dockerfile构建器.  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli)   -  Docker撰写模板.  Stacker提供了一个基于Docker Compose的抽象层和一个更好的DX（开发人员体验）.
 - [Smalte](https://github.com/roquie/smalte)   - 动态配置需要在docker容器中进行静态配置的应用程序.  通过 [@roquie](https://github.com/roquie)
@@ -155,7 +155,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Flannel](https://github.com/coreos/flannel/)   -  Flannel是一个虚拟网络，为每个主机提供一个子网，用于容器运行时.  由[@coreos] [coreos]
 - [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  [@microsoft] [https://github.com/Microsoft/]
 - [netshoot](https://github.com/nicolaka/netshoot) -  netshoot容器具有一组强大的网络工具，可帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
-- [Pipework](https://github.com/jpetazzo/pipework)   -  Linux容器的软件定义网络，Pipework使用“普通”LXC容器，以及令人敬畏的Docker.  由[@jpetazzo] [jpetazzo]
+- [Pipework](https://github.com/jpetazzo/pipework) - Software-Defined Networking for Linux Containers, Pipework works with "plain" LXC containers, and with the awesome Docker. By [@jpetazzo][jpetazzo]
 -  [Weave] [weave]（Docker网络） -  Weave创建一个虚拟网络，连接跨多个主机部署的Docker容器.
 
 ### Orchestration
@@ -180,7 +180,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Nomad](https://github.com/hashicorp/nomad)   - 以任何规模轻松部署应用程序.  分布式，高可用性，数据中心感知调度程序 [@hashicorp](https://github.com/hashicorp)
 - [Panamax](https://github.com/CenturyLinkLabs/panamax-ui) ：skull： - 一个开源项目，通过[@CenturyLinkLabs] [centurylinklabs]使复杂的容器化应用程序像拖放一样简单.
 - [Rancher](https://github.com/rancher/rancher) - 一个开源项目，为[@rancher] [rancher]提供了生产Docker的完整平台.
-- [Swarm-cronjob](https://github.com/crazy-max/swarm-cronjob) - 在Swarm上基于时间的计划创建作业 [@crazy-max](https://github.com/crazy-max)
+- [Swarm-cronjob](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/swarm-cronjob) - 在Swarm上基于时间的计划创建作业 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max)
 
 ### PaaS
 
@@ -240,7 +240,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - [Blockbridge](https://github.com/blockbridge/blockbridge-docker-volume)  ：heavy_dollar_sign： -  Blockbridge插件是一个卷插件，可以访问一组可扩展的基于容器的持久存储选项.  它支持单主机和多主机Docker环境，其功能包括租户隔离，自动配置，加密，安全删除，快照和QoS.  通过 [@blockbridge](https://github.com/blockbridge)
 - [Convoy](https://github.com/rancher/convoy)   - 一个开源的Docker卷驱动程序，可以在任何地方快照，备份和恢复Docker卷.  由[@rancher] [牧场主]
-- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
+- [Docker Machine NFS](https://github.com/adlogix/docker-machine-nfs) 为OS X上通过Docker Machine创建的现有boot2docker框激活NFS.
 - [Docker Unison](https://github.com/leighmcculloch/docker-unison)  使用Unison进行快速双向文件夹同步的docker卷容器.  创建作为OS X上缓慢boot2docker卷的替代方法 [@leighmcculloch](https://github.com/leighmcculloch)
 - [Local Persist](https://github.com/MatchbookLab/local-persist) 为本地卷指定一个挂载点（通过`docker volume create`创建），这样文件将始终保持不变，因此您可以挂载到不同容器中的不同目录.
 - [Minio](https://github.com/minio/minio) -  Docker容器中的S3兼容对象存储服务器
@@ -322,7 +322,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 -  [CoreOS] [coreos]  - 用于大规模服务器部署的Linux
 - [distroless](https://github.com/GoogleContainerTools/distroless) - 通过[@GoogleContainerTools] [googlecontainertools]减去语言的码头图像，减去操作系统
 - [docker-alpine](https://github.com/gliderlabs/docker-alpine) - 一个超级小型Docker基础图像_（5MB）_使用Alpine Linux [@gliderlabs] [gliderlabs]
-- [docker-gen](https://github.com/jwilder/docker-gen) -  [@jwilder] [jwilder]从docker容器元数据生成文件
+- [docker-gen](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder][jwilder]
 - [dockerize](https://github.com/jwilder/dockerize) -  [@jwilder] [jwilder]简化在docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) - 以此特定用户身份运行此特定应用程序，然后退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) -  [@sindresorhus] [sindresorhus]检查进程是否在Docker容器内运行
@@ -330,7 +330,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) -  [@NVIDIA] [nvidia]的Docker NVIDIA Container Runtime
 - [su-exec](https://github.com/ncopa/su-exec)   - 这是一个简单的工具，只需执行具有不同权限的程序.  该程序将直接执行，而不是像小孩一样运行，如su和sudo，这可以避免TTY和信号问题.  为什么重塑gosu？  这与gosu或多或少完全相同，但它只有10kb而不是1.8MB.  通过 [ncopa](https://github.com/ncopa)
 - [supercronic](https://github.com/aptible/supercronic) -  crontab兼容的作业运行器，专门设计用于在容器中运行 [@aptible](https://github.com/aptible/)
-- [TrivialRC](https://github.com/vorakl/TrivialRC) - A minimalistic Runtime Configuration system and process manager for containers [@vorakl](https://github.com/vorakl)
+- [TrivialRC](https://github.com/vorakl/TrivialRC) - 容器的简约运行时配置系统和进程管理器 [@vorakl](https://github.com/vorakl)
 
 ### Builder
 
@@ -451,7 +451,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Buddy :heavy_dollar_sign:](https://buddy.works) - 最好的Git，构建和部署工具结合成一个强大的工具，增强了我们的开发.
 - [Captain](https://github.com/harbur/captain) - 将您的Git工作流转换为Docker容器，准备进行持续交付 [@harbur](https://github.com/harbur).
 - [Cyclone](https://github.com/caicloud/cyclone) - 强大的工作流引擎和端到端管道解决方案，使用原生Kubernetes资源实现 [@caicloud](https://github.com/caicloud).
-- [Diun](https://github.com/crazy-max/diun) - 在Docker注册表上更新映像或存储库时接收通知 [@crazy-max](https://github.com/crazy-max).
+- [Diun](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max/diun) - 在Docker注册表上更新映像或存储库时接收通知 [@https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max](https://github.com/veggiemonk/awesome-docker/blob/master/crazy-max).
 - [Docker plugin for Jenkins](https://github.com/jenkinsci/docker-plugin/) -  docker插件的目的是能够使用docker主机动态配置slave，运行单个构建，然后拆除该slave.
 - [Dockupdater](https://github.com/dockupdater/dockupdater) - 自动使您的泊坞窗服务和泊坞窗容器保持最新状态
 - [Drone](https://github.com/drone/drone) - 基于Docker构建的持续集成服务器，使用YAML文件进行配置.
@@ -479,7 +479,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dobi](https://github.com/dnephin/dobi)   -  Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
 - [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)   -  Build Management是一个python应用程序，随pip一起安装.  该应用程序通过配置描述如何构建，测试，运行或发布容器化解决方案的单个yaml文件，可以轻松管理基于Docker的构建系统.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
-- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
+- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - 在OS X上使用Docker的高效开发环境 [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)   - 从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
 - [Docker-sync](https://github.com/EugenMayer/docker-sync) - 大幅提升表现（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ）在Mac OS X / Windows和Linux上使用Docker进行开发时，将代码共享到容器中.  通过 [@EugenMayer](https://github.com/EugenMayer)
 - [docker-vm](https://github.com/shyiko/docker-vm) - 简单而透明的替代boot2docker（由Vagrant支持） [@shyiko](https://github.com/shyiko)
@@ -681,6 +681,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [containsx]：https：//github.com/ContainX
 [coreos]：https：//github.com/coreos
 [cncf]：https：//www.cncf.io
+[crazy-max]：https：//github.com/crazy-max
 [发行]：https：//github.com/docker/distribution
 [docker-for-windows]：https：//docs.docker.com/docker-for-windows/
 [docker]：https：//github.com/docker

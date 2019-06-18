@@ -13,16 +13,13 @@
 * [Codepen](http://codepen.io/) -  HTML / CSS / JS沙箱.
 * [Give ’n’ Go](http://give-n-go.co/) - 经过精心策划的Dribbble镜头库作为交互式CodePen笔重新设计.
 * [capptivate.co](http://capptivate.co/) - 一系列令人敬畏的移动界面.
-* [UYI](http://useyourinterface.com/) - 移动界面的大集合.
 * [Awwwards](http://awwwards.com/websites/animation/) - 网站带动画设计的例子.
 * [cssanimation.rocks](http://cssanimation.rocks/) -  CSS动画演示.
 * [michaelvillar.com](http://michaelvillar.com/motion/) -  @michaelvillar（Stripe）的实验.
 * [hakim.se](http://hakim.se/) -  @hakimel的实验.
 * [ui-animations.tumblr.com](http://ui-animations.tumblr.com/) - 软件用户界面中的动画.
-* [sixux.com](http://sixux.com/) - 带有令人敬畏的过渡和动画的葡萄藤.
-* [hoverstat.es](http://hoverstat.es/) – A collection of interesting web sites curated by Animade studio.
+* [hoverstat.es](http://hoverstat.es/) - 由Animade工作室策划的一系列有趣的网站.
 * [appealing.](http://app-ealing.com/) - 移动过渡和动画的集合.
-* [UI Interactions](https://uiinteractions.com/) - 每天都有UI互动为您的灵感.
 * [UI Movement](https://uimovement.com/) - 动画界面和简报.
  
 ### Pinterest boards
@@ -47,7 +44,7 @@
 * [How To Use Animations and Motion in Web Design](https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02) 通过@PageCloud
 * [UI Animation: Eye-Pleasing, Problem-Solving](https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c) 由@Tubik Studio提供.
 * [UI Motion Design — The Compendium](https://blog.prototypr.io/ui-motion-design-the-compendium-d8b478357fa3) 由@Thalion.
-* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) 由@Issara Willenskomer撰写.
+* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) 在@Issara Willenskomer.
 * [Jedi Principles of UI Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac) @Adaptive Path.
 * [Micro Interaction; great experience for user engagement](https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306) @Sneha Munot.
 * [UI Animation. Microinteraction for Macroresult](https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101) @Tubik Studio.
@@ -109,7 +106,7 @@
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) -  CSS动画的集合.
-* [Effeckt.css](http://h5bp.github.io/Effeckt.css/) -  UI动画的集合.
+* [Effeckt.css](http://h5bp.github.io/Effeckt.css/) – Collections of UI animations.
 * [Bounce.js](http://bouncejs.com/) - 用于从js缓动函数生成漂亮的CSS关键帧动画的工具.
 * [Animations.css](http://justinaguilar.com/animations/) - 收藏.
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) - 收藏.
@@ -208,4 +205,4 @@
 
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-**收集：心脏：Artur Kornakov和 [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
+**收集：心脏：由Artur Kornakov和 [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**

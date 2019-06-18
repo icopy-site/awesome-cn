@@ -9,9 +9,9 @@
 令人敬畏的目前只有几个不同的桶： 
 
 
-是什么 [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是一系列让** GitHub **成为世界上最令人惊叹的共同创作平台的东西.
+是什么 [Awesome GitHub](https://github.com/phillipadsmith/awesome-github)  清单？  这是一系列让** GitHub **成为世界上最令人惊叹的共同创作平台之一的东西.
 
-它特别关注_GitHub_，而不是关注 [Git](https://git-scm.com/) .  Git确实很棒.  没有Git就没有GitHub.  然而，GitHub已不仅仅是人类大部分开源代码的家园;  它已成为世界上大众合作力量最生动的例子之一.
+它特别关注_GitHub_，而不是关注 [Git](https://git-scm.com/) .  Git确实很棒.  没有Git就没有GitHub.  然而，GitHub已不仅仅是人类大部分开源代码的家园.  它已成为世界上大众合作力量最生动的例子之一.
 
 这就是说，这个清单 -  [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) - 试图记录那些令人敬畏的方面：GitHub已经成为的一切 - 远远超出了今天的Git，以及GitHub八年前开始的地方.
 
@@ -79,7 +79,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 - [Problem Child](https://github.com/benbalter/problem_child) - 允许经过身份验证的用户或匿名用户填写标准Web表单以创建GitHub问题（以及提取请求）.
 - [gitify](http://gitify.io/) - 菜单上的所有GitHub通知.
 - [HubPress](https://github.com/HubPress/hubpress.io) - 在GitHub上构建博客的Web应用程序
-- [TinyPress](https://tinypress.co/) -  TinyPress是在GitHub上发布博客的最简单方法.
+- [TinyPress](https://github.com/kehers/tinypress) -  TinyPress是在GitHub上发布博客的最简单方法.
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - 在Cthulhu和Lewis Carroll的帮助下，生成为您的项目定制的模板
 - [Noteit](https://github.com/Krukov/noteit) - 使用GitHub Gists在CLI管理您的笔记.
 - [Zappr](https://github.com/zalando/zappr) - 免费/开源GitHub集成，消除了拉取请求批准的瓶颈，并帮助开发团队轻松遵守合规性要求.

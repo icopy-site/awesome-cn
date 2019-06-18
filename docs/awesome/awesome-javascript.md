@@ -349,7 +349,7 @@
 * [odometer](https://github.com/HubSpot/odometer) - 轻松过渡数字.
 * [accounting.js](https://github.com/josscrowcroft/accounting.js) - 用于数字，货币和货币格式的轻量级JavaScript库 - 完全可本地化，零依赖性.
 * [money.js](https://github.com/josscrowcroft/money.js) - 一个小的（1kb）javascript货币转换库，用于web和nodeJS.
-* [Fraction.js](https://github.com/infusion/Fraction.js) - A rational number library for JavaScript
+* [Fraction.js](https://github.com/infusion/Fraction.js) -  JavaScript的有理数字库
 * [Complex.js](https://github.com/infusion/Complex.js) -  JavaScript的复数库
 * [Polynomial.js](https://github.com/infusion/Polynomial.js) -  JavaScript的多项式库
 
@@ -568,6 +568,7 @@
 * [Flickity](https://github.com/metafizzy/flickity) - 触摸，响应，可滑动的画廊.
 * [Glide.js](https://github.com/jedrzejchalubek/glidejs)   - 响应和触摸友好的jQuery滑块.  它简单，轻便，快速.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 一个带有自适应彩色figcaption和导航的滑块的jQuery插件.
+* [Embla Carousel](https://github.com/davidcetinkaya/embla-carousel) - 用于使用TypeScript编写的Web的可扩展低级轮播.
 
 ## Range Sliders
 
@@ -818,7 +819,7 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -  MixItUp  - 过滤和排序插件
 * [grid](https://github.com/hootsuite/grid) - 拖放库，用于二维，可调整大小和响应式列表.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) -  jQuery的响应性相等高度插件.
-* [survey.js](https://github.com/surveyjs/surveyjs)   -  JavaScript Survey Engine.  它使用JSON进行调查元数据和结果.  http://surveyjs.org/
+* [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) - 帮助确定在任何给定时间最适合使用本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) - 没有Flash或使用Frameworks的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) - 基于浏览器Fetch API的简洁优雅的HTTP客户端.

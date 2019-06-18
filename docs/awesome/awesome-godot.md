@@ -72,6 +72,7 @@
 ### Video tutorials
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - 关于3D，着色器，VR和GDNative的教程.
+- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - 关于创建3D游戏的教程系列.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - 关于2D和3D游戏开发的教程.
 - [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - 关于2D和3D游戏开发的教程.
@@ -107,7 +108,6 @@
 
 *脚本，让你做新的东西，或增强戈多功能.*
 
-- [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - 从中​​导入打包的地图集的插件 [TexturePacker](https://www.code和web.com/texturepacker), [Attila](https://github.com/r-lyeh-archived/attila) 和 [Kenney Assets](https://kenney.nl/assets).
 - [Auto Tile Layer](https://github.com/leezh/autotile) - 允许使用RPG Maker的Autotile格式自动进行2D平铺.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -  Camera2D的屏幕抖动效果.
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
@@ -128,8 +128,7 @@
 - [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) - 戈多的滚动背景节点.
 - [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) - 一个可以定制的对话系统和编辑器，非常适合故事驱动的游戏.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - 简单的游戏手柄支持GNU / Linux和Windows.
-- [Tiled importer](https://github.com/MrGreenTea/GodotTiledImporter) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).
-- [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - 从Tiled for Godot 2.1导入tilemaps的插件.
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) - 从中​​导入地图 [Tiled](https://www.mapeditor.org/).
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) - 构建tilesets.
 - [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) - 快速构建风格的瓷砖组.
 

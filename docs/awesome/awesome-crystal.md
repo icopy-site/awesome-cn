@@ -178,12 +178,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [battlesnake_crystal](https://github.com/nbw/battlesnake_crystal) - 特隆蛇 [battlesnake](https://www.battlesnake.io/) 竞争
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) - 控制台二十一点
  * [breakout.cr](https://github.com/petoem/breakout.cr) - 使用crsfml编写的突破游戏
- * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - Chuck Norris holy quotes
+ * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) - 查克诺里斯的圣洁语录
  * [clamp](https://github.com/johnjansen/clamp) - 钳制任何可比较
  * [crsfml-examples](https://github.com/oprypin/crsfml-examples) - 使用CrSFML制作的简单游戏
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) - 计算机语言基准游戏
  * [crystal-by-example](https://github.com/askn/crystal-by-example) - 水晶示例
- * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
+ * [Crystal-Maze](https://github.com/Demonstrandum/Crystal-Maze) -  PNG迷宫的A *路径查找
  * [crystal-mysql-crud-example](https://github.com/codenoid/crystal-mysql-crud-example) -  Crystal MySQL CRUD示例
  * [crystal-patterns](https://github.com/crystal-community/crystal-patterns) -  GOF模式的例子
  * [crystalized_ruby](https://github.com/phoffer/crystalized_ruby) - 用Crystal编写的本机Ruby扩展
@@ -278,7 +278,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [cibyl](https://github.com/senselogic/CIBYL) - 轻量级花括号语言，编译为Ruby和Crystal
  * [cltk](https://github.com/ziprandom/cltk) -  Ruby Language Toolkit的水晶端口
  * [cppize](https://github.com/unn4m3d/cppize) -  Crystal-to-C ++转换器
- * [crisp](https://github.com/rhysd/Crisp) - 用Crystal实现的Lisp方言
+ * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crow](https://github.com/geppetto-apps/crow) - 透明/编译Crystal到 [Flow](https://flow.org/)
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
@@ -299,7 +299,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - 人工智能（基于https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/watzon/cadmium) -  NLP库严重依赖 [natural](https://github.com/NaturalNode/natural)
- * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) -  FANN（快速人工神经网络）绑定
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - 类似Sklearn的机器学习库
  * [shainet](https://github.com/NeuraLegion/shainet) -  SHAInet（纯晶体中的神经网络）
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - 绑定 [TensorFlow](https://github.com/tensorflow/tensorflow)
@@ -329,6 +329,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [manual-generator](https://github.com/blocknotes/manual-generator) - 从文档站点生成PDF手册的工具
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - 验证并生成Rails`ActiveSupport :: MessageVerifier`签名的令牌
  * [pangu.cr](https://github.com/isaced/pangu.cr) -  Crystal中的偏执文本间距
+ * [pinger](https://github.com/spider-gazelle/pinger) -  Ping IP地址和DNS条目，无需sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - 用于PortMIDI跨平台MIDI I / O库的Crystal C绑定
  * [raytracer](https://github.com/l3kn/raytracer) - 带有示例的CPU Raytracer
  * [retriable.cr](https://github.com/Sija/retriable.cr) - 简单的DSL重试失败的代码块
@@ -341,7 +342,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket)   -  JSON套接字客户端和服务器实现.  灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本1,2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速IRC解析器/生成器
- * [gopher.cr](https://github.com/anicholson/gopher.cr) - Gopher server toolkit
+ * [gopher.cr](https://github.com/anicholson/gopher.cr) -  Gopher服务器工具包
  * [jwt](https://github.com/crystal-community/jwt) -  JWT（JSON Web令牌）的实现
  * [msgpack-crystal](https://github.com/crystal-community/msgpack-crystal) -  MessagePack库
  * [OAuth](https://crystal-lang.org/api/OAuth.html) -  OAuth消费者（Crystal stdlib）
@@ -452,6 +453,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [webmock.cr](https://github.com/manastech/webmock.cr) - 用于存根“HTTP :: Client”请求的库
 
 ## Third-party APIs
+ * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - 以各种方式获取AWS凭据
  * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - 此库使用AWS v4签署您的HTTP请求
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -  AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署HTTP ::请求对象并生成预先签署的帖子表格
@@ -474,6 +476,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [slack.cr](https://github.com/DougEverly/slack.cr) - 一个松弛 [Real Time Messaging API](https://api.slack.com/rtm) WebSocket客户端库
  * [telegram_bot](https://github.com/hangyas/telegram_bot) -  Telegram Bot API的包装器
  * [twitter-crystal](https://github.com/sferik/twitter-crystal) - 用于访问Twitter API的库
+ * [ynab.cr](https://github.com/jaredsmithse/ynab.cr) - 与YNAB数据交互的库
 
 ## Validation
  * [accord](https://github.com/neovintage/accord) -  Crystal Objects的可共享验证库
@@ -554,7 +557,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [DPPM](https://github.com/DFabric/dppm) - 一种简单，通用的方式来安装和管理应用程序（主要是Linux）
 
 ## Editor Plugins
- *原子
+ * Atom
    * [crystal-tools](https://atom.io/packages/crystal-tools) - 在Crystal编译器中启用内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -  Atom中的Crystal语言支持
  * Emacs

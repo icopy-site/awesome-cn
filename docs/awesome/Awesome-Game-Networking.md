@@ -72,7 +72,7 @@
 ## Tutorials
 
 - 虚幻引擎
-  - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - 实施网络运动功能的介绍.
+  - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - Introduction to implementing networked movement features.
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - 来自Epic Games的Wes Bunn的蓝图多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - （付费）Tom Looman的C ++多人游戏开发教程系列.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - （付费）Sam Pattuzzi的C ++在线游戏开发教程系列.
@@ -95,6 +95,7 @@
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) -  Lite可靠的UDP网络库（.NET / Mono）.
   - [MLAPI](https://mlapi.network) - 将网络库与Unity的许多内置功能混合搭配.
   - [PhotonEngine](https://photonengine.com) - 混合多人游戏网络平台（SaaS，云）.
+  - [SocketWeaver](https://socketweaver.com) - 为Unity引擎（SaaS）设计的多人云服务.
 -  Java
   - [SmartFoxServer](http://smartfoxserver.com/) - 具有高级内置功能的大型多人游戏服务器.
 
@@ -107,7 +108,7 @@
 - 团结
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) - 使用Forge Networking for Unity的服务器权威移动项目.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) - 基于Photon PUN的多人自上而下的射击游戏项目.
-  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - Forge Networking-based multiplayer FPS game as an example project.
+  - [ArenaGame](https://github.com/NFMynster/ArenaGame) - 基于Forge Networking的多人FPS游戏作为示例项目.
   - [Entitas Sync Framework](https://github.com/RomanZhu/Entitas-Sync-Framework) - 针对回合制或慢节奏游戏的Entitas ECS网络框架.
   - [FPSSample](https://github.com/Unity-Technologies/FPSSample) - 来自Unity的官方多人FPS项目样本，使用新的网络包和ECS.
   - [Gambetta Networked Demo](https://github.com/RamiAhmed/Gambetta_NetworkedDemo) -  Gabriel Gambetta使用Lidgren在Unity中实现网络架构.

@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  973 |  2019年6月7日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  974 |  2019年6月17日
 
 
 
@@ -30,7 +30,7 @@
 [back to top](#readme) 
 
 * [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - 官方Swift API设计指南.
-* [Apple eBook](https://books.apple.com/us/book/swift-programming-language/id881256329) - 适用于Swift初学者的官方Apple电子书.
+* [Apple eBook](https://books.apple.com/us/book/swift-programming-language/id881256329) - Official Apple eBook for Swift beginners.
 * [Getting Started](https://swift.org/getting-started/) - 查找有关如何使用Swift编程语言的信息.
 
 ### Style Guides
@@ -121,7 +121,7 @@
 * [Model2App](https://github.com/Q-Mobile/Model2App) - 将您的数据模型转换为可用的CRUD应用程序.
 * [SwagGen](https://github.com/yonaskolb/SwagGen) ：penguin： - 一个命令行工具，用于根据Stencil模板从Swagger规范生成REST API.
 * [swift-compiler-crashes](https://github.com/practicalswift/swift-compiler-crashes) - 崩溃编译器的测试用例集合.
-* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - 一套工具，可以为项目的各种资产自动生成代码.
+* [SwiftGen](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - 启动下一个开源Swift框架.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - 从命令行轻松生成跨平台框架项目.
 * [Toybox](https://github.com/giginet/Toybox) -  Xcode Playground管理变得简单.
@@ -315,7 +315,7 @@
 ### Concurrency
 *更简单的并发处理方式.* [back to top](#readme) 
 
-* [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
+* [AsyncNinja](https://github.com/AsyncNinja/AsyncNinja) - 一整套并发和反应式编程原语.
 * [Futures](https://github.com/formbound/Futures) ：企鹅： -  iOS，macOS，tvOS，watchOS和服务器端的轻量级承诺.
 * [GroupWork](https://github.com/quanvo87/GroupWork) ：企鹅： - 简单的并发，异步任务.
 * [Hydra](https://github.com/malcommac/Hydra) -  Promises＆Await  - 编写更好的异步代码.
@@ -443,7 +443,7 @@
 #### SQLite
  *您是否有兴趣使用SQLite存储您的应用数据？  这是一些有趣的资源.* [back to top](#readme) 
 
-* [GRDB.swift](https://github.com/groue/GRDB.swift) - 一个多功能的SQLite工具包.
+* [GRDB.swift](https://github.com/groue/GRDB.swift) - A versatile SQLite toolkit.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift)   - 包装SQLite3的框架.  小.  简单.  安全.
 * [SQLiteDB](https://github.com/FahimF/SQLiteDB) -  SQLite包装器.
 
@@ -547,7 +547,7 @@
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
 * [Signals](https://github.com/artman/Signals) - 替换代表和通知.
 * [Snail](https://github.com/UrbanCompass/Snail) - 一个Observables框架.
-* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
+* [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对iOS优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受Redux和MVVM启发的iOS开发的整体方法.
 * [Tokamak](https://github.com/MaxDesiatov/Tokamak) - 类似React的声明式API，用于构建具有易于使用的单向数据绑定的本机UI组件.
 * [Tomorrowland](https://github.com/lilyball/Tomorrowland) - 轻量级承诺.
@@ -671,7 +671,7 @@
 * [ImageScout](https://github.com/kaishin/ImageScout) - 实施 [fastimage](https://pypi.org/project/fastimage/0.2.1/) - 支持PNG，GIF和JPEG.
 * [ImageViewer](https://github.com/Krisiacik/ImageViewer) -  Twitter上的图像查看器.
 * [JLStickerTextView](https://github.com/Textcat/JLStickerTextView) -  UIImageView允许您在其上添加多个Label（多行文本支持），您可以使用一根手指编辑，旋转，调整Label大小，然后在Image上渲染文本.
-* [Kingfisher](https://github.com/onevcat/Kingfisher) - Image download and caching.
+* [Kingfisher](https://github.com/onevcat/Kingfisher) - 图像下载和缓存.
 * [LetterAvatarKit](https://github.com/vpeschenkov/LetterAvatarKit) - 一个生成基于字母的头像的UIImage扩展.
 * [Lightbox](https://github.com/hyperoslo/Lightbox) - 适用于iOS应用的方便易用的图像查看器.
 * [MapleBacon](https://github.com/JanGorman/MapleBacon) - 图像下载和缓存库.
@@ -749,7 +749,7 @@
 
 * [BartyCrouch](https://github.com/Flinesoft/BartyCrouch) - 从代码和故事板/ XIB中逐步更新/翻译您的Strings文件.
 * [IBLocalizable](https://github.com/PiXeL16/IBLocalizable) - 使用IBLocalizable直接在Interface Builder中本地化您的视图.
-* [L10n-swift](https://github.com/Decybel07/L10n-swift) - Localization of an application with ability to change language "on the fly" and support for plural forms in any language.
+* [L10n-swift](https://github.com/Decybel07/L10n-swift) - 具有“动态”更改语言能力的应用程序的本地化，并支持任何语言的复数形式.
 * [LocalizationKit](https://github.com/willpowell8/LocalizationKit_iOS) - 通过远程管理实现您的应用程序的实时动态本地化，以便您无需重新提交应用程序即可管理维护和部署翻译.
 * [Localize](https://github.com/andresilvagomez/Localize) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
@@ -760,7 +760,7 @@
 ### Location
 [back to top](#readme) 
 
-* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - An elegant and simple 3D Flyover Location Request Screen.
+* [STLocationRequest](https://github.com/SvenTiigi/STLocationRequest) - 优雅而简单的3D天桥位置请求屏幕.
 
 ### Logging
 *用于写入和读取设备日志的实用程序* [back to top](#readme) 
@@ -807,7 +807,7 @@
 ### Network
 *一个lib列表，允许您减少处理http请求所花费的时间.* [back to top](#readme) 
 
-* [Alamofire](https://github.com/Alamofire/Alamofire) ：企鹅： - 优雅的网络.
+* [Alamofire](https://github.com/Alamofire/Alamofire) :penguin: - Elegant networking.
 * [APIKit](https://github.com/ishkawa/APIKit) - 用于构建类型安全的Web API客户端的库.
 * [Ciao](https://github.com/AlTavares/Ciao) - 使用mDNS（Bonjour，Zeroconf）发布和发现服务.
 * [CodyFire](https://github.com/MihaelIsaev/CodyFire)   - 功能强大的Codable API请求iOS构建器和管理器.  基于Alamofire.
@@ -1020,7 +1020,7 @@
 * [VEditorKit](https://github.com/GeekTree0101/VEditorKit) - 轻巧而强大的编辑器套件.
 
 ### Thread
-*线程，基于任务或异步编程，Grand Central Dispatch（GCD）包装器* [back to top](#readme) 
+*Threading, task-based or asynchronous programming, Grand Central Dispatch (GCD) wrapper* [back to top](#readme) 
 
 * [Async](https://github.com/duemunk/Async) -  Grand Central Dispatch的语法糖.
 * [AwaitKit](https://github.com/yannickl/AwaitKit) -  ES7异步/等待控制流程.
@@ -1047,7 +1047,7 @@
 * [CustomSegue](https://github.com/phimage/CustomSegue) - 具有幻灯片和交叉淡入淡出效果的OSX故事板的自定义segue.
 * [DeckTransition](https://github.com/HarshilShah/DeckTransition) - 用于重新创建iOS 10 Apple Music现在正在播放转换的库.
 * [DockProgress](https://github.com/sindresorhus/DockProgress) - 在macOS应用程序的Dock图标中显示进度.
-* [Dodo](https://github.com/evgenyneu/Dodo) -  iOS的消息栏.
+* [Dodo](https://github.com/evgenyneu/Dodo) - A message bar for iOS.
 * [Doric Design System Foundation](https://github.com/jayeshk/Doric) - 适用于iOS的面向协议，类型安全，可扩展的设计系统基础框架.
 * [DropDown](https://github.com/AssistoLab/DropDown) - 适用于iOS的Material Design下拉菜单.
 * [Element](https://github.com/eonist/Element) -  macOS的程序化UI框架.
@@ -1079,7 +1079,7 @@
 * [LeeGo](https://github.com/wangshengjia/LeeGo) - 声明，可配置和高度可重用的UI开发，如制作乐高积木.
 * [LicensePlist](https://github.com/mono0926/LicensePlist) - 一个命令行工具，可自动生成所有依赖项的Plist.
 * [LiquidLoader](https://github.com/yoavlt/LiquidLoader) - 带液体动画的Spinner装载机组件.
-* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer)   - 只需一行代码即可为任何视图添加闪烁效果的简便方法.  它可用作不显眼的加载指示器.
+* [LoadingShimmer](https://github.com/jogendra/LoadingShimmer) - An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.
 * [Macaw](https://github.com/exyte/macaw) - 功能强大且易于使用的矢量图形库，支持SVG.
 * [Magnetic](https://github.com/efremidze/Magnetic) -  SpriteKit Floating Bubble Picker（灵感来自Apple Music）.
 * [Mandoline](https://github.com/blueapron/Mandoline) -  iOS选择器视图，可满足您的所有“挑选”需求.
@@ -1337,6 +1337,7 @@
 * [ImageTransition](https://github.com/shtnkgm/ImageTransition) -  ImageTransition是一个用于在过渡期间平滑动画图像的库.
 * [Jelly](https://github.com/SebastianBoldt/Jelly) -  Jelly提供自定义视图控制器转换，只需几行代码.
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) -  Apple Music iOS App等自定义交互式转换.
+* [PanSlip](https://github.com/k-lpmg/PanSlip) - 使用PanGesture关闭UIViewController和UIView上的视图.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) -  Pinterest风格转型.
 * [SPLarkController](https://github.com/IvanVorobei/SPLarkController)   - 两个控制器之间的自定义转换  转换为顶部.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController) - Now playing controller from Apple Music. Customisable height.
@@ -1346,7 +1347,7 @@
 #### UICollectionView
 [back to top](#readme) 
 
-* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - Easy way to integrate pagination with dummy views in CollectionView, make Instagram Discover withing minutes.
+* [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - 在CollectionView中将分页与虚拟视图集成的简便方法，使Instagram发现几分钟.
 * [Blueprints](https://github.com/zenangst/Blueprints) - 一个框架，旨在使您在使用集合视图流布局时更轻松.
 * [BouncyLayout](https://github.com/roberthein/BouncyLayout) - 集合视图布局，使您的单元格反弹.
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - 尼斯卡设计的自定义CollectionView布局.
@@ -1471,7 +1472,7 @@
 * [RxValidator](https://github.com/vbmania/RxValidator) - 简单，可扩展，灵活的验证检查器.
 * [SwiftValidator](https://github.com/SwiftValidatorCommunity/SwiftValidator) - 基于规则的验证库.
 * [SwiftValidators](https://github.com/gkaimakas/SwiftValidators) -  iOS的字符串验证（受validator.js启发）.
-* [Validator](https://github.com/adamwaite/Validator) - Drop in user input validation for your iOS apps.
+* [Validator](https://github.com/adamwaite/Validator) - 为您的iOS应用程序删除用户输入验证.
 
 #### Phone Numbers
 [back to top](#readme) 

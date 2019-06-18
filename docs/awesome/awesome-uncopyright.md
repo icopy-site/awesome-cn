@@ -20,9 +20,10 @@
 - [FreeMusicArchive: CC0 search](http://freemusicarchive.org/search/?adv=1&quicksearch=&search-genre=Genres&duration_from=&duration_to=&music-filter-public-domain=1) - 许多CC0歌曲.
 - [Freesound: CC0 search](https://freesound.org/search/?g=1&q=&f=%20license:%22Creative+Commons+0%22) - 成千上万的CC0音效和录音.
 - [Gwenn Seemel](http://www.gwennseemel.com/index.php/copyright/) - 法裔美国艺术家，画家，肖像画家.
+- [HDRI Haven](https://hdrihaven.com/) -  CC0下的高分辨率HDR全景图.
 - [Kenney](https://www.kenney.nl/assets) -  CC0下的高品质游戏艺术.
 - [Michael Beil](http://michaelbeil.com/uncopyright)   - 支持网络.  发展.  玩音乐.
-- [Martin Vorel](https://libreshot.com/) - Photographer releasing his very high quality photos under CC0.
+- [Martin Vorel](https://libreshot.com/) - 摄影师在CC0下发布他的高质量照片.
 - [Opengameart: CC0 search](https://opengameart.org/art-search-advanced?keys=&title=&field_art_tags_tid_op=or&field_art_tags_tid=&name=&field_art_type_tid%5B%5D=9&field_art_type_tid%5B%5D=10&field_art_type_tid%5B%5D=7273&field_art_type_tid%5B%5D=14&field_art_type_tid%5B%5D=12&field_art_type_tid%5B%5D=13&field_art_type_tid%5B%5D=11&field_art_licenses_tid%5B%5D=4&sort_by=count&sort_order=DESC&items_per_page=24&Collection=) - 很多的CC0游戏艺术.
 - [PublicDomainFlix](http://publicdomainflix.com/index.html) - 在线观看公共领域电影.
 - [RKHive](http://rkhive.com/legal.html) - 用于音乐合成和MIDI播放的CC0声音字体.
@@ -46,7 +47,7 @@
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - 为患有慢性病的人建立一个同情，理解和治愈的社区.
 - [Go Beyond](http://go-beyond.org/) - 没有标语的博客.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - 个人和全球变化.
-- [Healthy Enough](http://healthyenough.net/) - 帮助您尽可能健康和健康.
+- [Healthy Enough](http://healthyenough.net/) - Helping you become as fit and healthy as possible.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - 来自前世界旅行者的帖子.
 - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - 善良的世界.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) -  Jay Tarlecki的个人网站.

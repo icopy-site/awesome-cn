@@ -40,6 +40,7 @@
 
 
 ## Taxonomy
+ * [GBIF Backbone Taxonomy](https://www.gbif.org/en/dataset/d7dddbf4-2cf0-4f39-9b2a-bb099caae36c) - 合成56种分类来源的动物，细菌，原生动物和病毒的分类学的聚合和同义化.
  * [NCBI Taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy) - 分类数据库是公共序列数据库（寄生虫和宿主）中所有生物的策划分类和命名.
  * [ICTV](https://talk.ictvonline.org/taxonomy/) - 具有优秀档案和病毒的病毒分类机构 [open reports](https://talk.ictvonline.org/ictv-reports/).
  * [IUCN Redlist](http://www.iucnredlist.org/)   - 在线数据库，为野生宿主提供分类信息.  你可以使用R包`rredlist`和 [API](http://apiv3.iucnredlist.org/api/v3/docs) 直接访问数据. 

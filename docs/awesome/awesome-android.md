@@ -213,7 +213,7 @@
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - 适用于Android的简单，异步，基于注释的SOAP.
 - [node-android](https://github.com/InstantWebP2P/node-android) - 在Android上运行Node.js.
 - [HappyDns](https://github.com/qiniu/happy-dns-android)   - 一个Dns库，用户可以使用自定义DNS服务器，dnspod httpdns.  仅支持A记录.
-- [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于在Android Instrumentation测试中模拟API响应的HTTP Web服务器.
+- [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 一个完整的快速Android网络库，也支持HTTP / 2.
 
 ### Logger
@@ -398,11 +398,11 @@
 
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -  Android架构蓝图项目演示了帮助解决或避免常见安卓问题的策略.
-
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) - 关于MVVM（模型视图ViewModel）模式的示例.
+- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - 关于VIPER（View Interactor Presenter实体路由器）模式的示例.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  is the Android developer podcast where Donn Felker and Kaushik Gopal talk about building good software and becoming better Android developers.
+- [Fragmented](https://fragmentedpodcast.com/)  是Android开发人员播客，Donn Felker和Kaushik Gopal谈论如何构建优秀的软件并成为更好的Android开发人员.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)  是Android开发人员的播客.  该展览由Android工程团队的开发人员主持，涵盖Android程序员感兴趣的主题，并与Google Android团队的工程师进行深入讨论和采访.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们与来自Android社区的人进行一口大小的对话.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) 关于Android开发的播客与Hannes Dorfmann，Artem Zinnatullin和精彩嘉宾！
