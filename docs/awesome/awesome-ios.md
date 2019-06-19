@@ -237,7 +237,7 @@
 * [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap)   - 用于在iOS上可视化和与矢量地图交互的图表库.  这就像Geochart，但对于iOS！
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) -  iOS开源雷达图实现.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) -  Swift中可定制的雷达图表
-* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)   - 令人敬畏的基于图层的饼图.  非常快速且完全可定制.  MagicPie提供惊人的动画!! 1✨✨✨✨✨
+* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie) - Awesome layer based pie chart. Fantastically fast and fully customizable. Amazing animations available with MagicPie!!1  🎉 ✨✨✨✨✨
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - 易于使用和高度可定制的iOS饼图库.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart)   -  iOS PieChart Opensource.  这非常易于使用和定制.
 * [DDSpiderChart](https://github.com/dadalar/DDSpiderChart) - 易于使用和可定制的Spider（Radar）用Swift编写的iOS图表库.
@@ -1490,7 +1490,7 @@
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - 用于生成随机用户的Swift框架 -  randomuser.me的非官方SDK.
 * [PPEventRegistryAPI](https://github.com/pantuspavel/PPEventRegistryAPI/) - 用于事件注册表API的Swift 3框架（eventregistry.org）.
 * [UnsplashKit](https://github.com/modo-studio/UnsplashKit) - 用于Unsplash的Swift客户端.
-* [Swiftly Salesforce](https://github.com/mike4aday/SwiftlySalesforce) - 一个易于使用的框架，用于构建与Salesforce集成的iOS应用程序，使用Swift和promises.
+* [Swiftly Salesforce](https://github.com/mike4aday/SwiftlySalesforce) - An easy-to-use framework for building iOS apps that integrate with Salesforce, using Swift and promises.
 * [Spartan](https://github.com/Daltron/Spartan) - 用于iOS和macOS的Swift编写的优雅Spotify Web API库.
 * [BigBoard](https://github.com/Daltron/BigBoard) - 一个优雅的金融市场库，用Swift编写，向Yahoo Finance API提出要求.
 * [BittrexApiKit](https://github.com/saeid/BittrexApiKit) - 用于Bittrex Exchange API的简单而完整的Swift包装器.
@@ -1514,7 +1514,7 @@
 * [TPObfuscatedString](https://github.com/Techprimate/TPObfuscatedString) - 使用核心Swift的简单字符串混淆.
 * [LTHPasscodeViewController](https://github.com/rolandleth/LTHPasscodeViewController) -  iOS密码锁屏副本（来自设置），具有TouchID和简单（可变长度）/复杂支持.
 * [iOS-App-Security-Class](https://github.com/karek314/iOS-App-Security-Class) - 简单的类来检查iOS应用程序是否已被破解，正在使用自定义dylib进行调试或丰富，以及检测越狱环境.
-* [BiometricAuth](https://github.com/vasilenkoigor/BiometricAuth) - Simple framework for biometric authentication (via TouchID) in your application
+* [BiometricAuth](https://github.com/vasilenkoigor/BiometricAuth) - 应用程序中生物识别身份验证的简单框架（通过TouchID）
 * [SAPinViewController](https://github.com/siavashalipour/SAPinViewController)   - 简单易用的默认iOS PIN屏幕.  这个简单的库允许您绘制完全可自定义的PIN屏幕，与iOS默认PIN视图相同.  我创建这个库的灵感来自THPinViewController，但SAPinViewController完全在Swift中实现.  此外，创建此库的主要目的是提供简单，易用且完全可自定义的PIN屏幕.
 * [TOPasscodeViewController](https://github.com/timoliver/TOPasscodeViewController) - 适用于iOS的模态密码输入和验证视图控制器
 * [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - 使用BiometricAuthentication在您的应用中使用Apple FaceID或TouchID身份验证
@@ -2101,7 +2101,7 @@
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 用Swift编写的可爱动画按钮.
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 使用Facebook POP动画的9个不同状态的平面按钮.
 * [HTPressableButton](https://github.com/Famolus/HTPressableButton) - 平面设计可按下按钮.
-* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 液体状态下的材料设计浮动操作按钮
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - An UIButton-based view with fade in/out animation features.
 * [Floaty](https://github.com/kciter/Floaty) - ：heart：适用于iOS的浮动操作按钮
 * [TVButton](https://github.com/marmelroy/TVButton) - 从Apple TV重新创建酷视差图标作为iOS UIButtons（在Swift中）.
@@ -2904,7 +2904,7 @@ CollectionView，在几分钟内发现Instagram.
 * [ViperServices](https://github.com/ladeiko/ViperServices)   - 用Swift编写的iOS应用程序的依赖注入容器.  每个服务都可以有启动和关闭代码.
 * [DITranquillity](https://github.com/ivlevAstef/DITranquillity) - 用干净的Swift编写的iOS应用程序的依赖注入框架.
 * [Needle](https://github.com/uber/needle) - 使用实际代码编译时安全的Swift依赖注入框架
-
+* [Locatable](https://github.com/vincent-pradeilles/locatable) - 利用Property Wrappers实现Service Locator模式的微框架
 
 ## Deployment / Distribution
 

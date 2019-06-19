@@ -305,6 +305,7 @@
 ## Email
 
   * [mailinator.com](https://www.mailinator.com/) - 免费的公共电子邮件系统，您可以使用任何您想要的收件箱
+  * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) - 面向开发人员的电子邮件验证和验证API，每月10,000个免费API请求
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
   * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
@@ -526,7 +527,7 @@
 
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成

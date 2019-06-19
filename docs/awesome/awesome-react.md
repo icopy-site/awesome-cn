@@ -34,12 +34,12 @@
 ##### React General Tutorials
 
 - [React Official Tutorial](https://facebook.github.io/react/docs/tutorial.html)
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
 - [Using React in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/reactjs-tutorial)
 - [Scrimba - Learn React for free interactively](https://scrimba.com/g/glearnreact)
 - [FreeCodeCamp React Challenges](https://learn.freecodecamp.org/front-end-libraries/react)
 - [React Cheatsheet](https://devhints.io/react)
 - [React Patterns](https://reactpatterns.com/)
+- [Setup Flow with React](https://flow.org/en/docs/react/)
 
 ##### React Hooks
 
@@ -48,6 +48,7 @@
 - [React Hooks cheat sheet: Unlock solutions to common problems](https://blog.logrocket.com/react-hooks-cheat-sheet-unlock-solutions-to-common-problems-af4caf699e70/)
 - [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data/)
 - [Easy to understand React Hook recipes](https://usehooks.com/)
+- [Awesome React Hooks](https://github.com/rehooks/awesome-react-hooks)
 
 ##### React and TypeScript
 
@@ -199,11 +200,9 @@
 - [react-credit-card-input - A simple credit/debit card input field for React.](https://github.com/medipass/react-credit-card-input)
 - [react-creditcard - An awesome react credit card component.](https://github.com/medipass/react-creditcard)
 - [email-autocomplete-input - Simple email autocomplete input.](https://github.com/alex-cory/email-autocomplete-input)
-- [rlist-view - List view for react with pulling refresh and infinite data load ](https://github.com/gitpadtech/rlist-view)
 - [gmodal - Make delightful modal layer ](https://github.com/gitpadtech/gmodal)
 - [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution](https://github.com/oklas/react-breadcrumbs-dynamic)
 - [react-automatic-width - Automatically sets `width` property on child components](https://github.com/zalando-stups/react-automatic-width)
-- [react-js-diagrams - A flow based diagramming library](http://github.com/woodenconsulting/react-js-diagrams/)
 - [react-file-input-previews-base64 - Wrapper around file input, with option for image previews and returning file as base64 string](https://github.com/SiDevesh/react-file-input-previews-base64)
 - [react-credit-cards - Beautiful credit cards for your payment forms](https://github.com/amarofashion/react-credit-cards)
 - [react-dropdown-tree-select - Lightweight, customizable and fast Dropdown Tree Select component for React](https://github.com/dowjones/react-dropdown-tree-select)
@@ -781,17 +780,6 @@
 #### Apollo Tools
 
 - [react-apollo-redux - A small wrapper to automatically dispatch actions in response to apollo mutations](https://github.com/Drawbotics/react-apollo-redux)
-
----
-
-### Flow
-
-&gt; JavaScript的静态类型检查器
-
-#### Flow Resources
-
-- [Flow Official Site](http://flowtype.org/)
-- [Flow GitHub](https://github.com/facebook/flow)
 
 ---
 

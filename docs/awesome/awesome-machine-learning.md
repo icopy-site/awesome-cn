@@ -346,6 +346,7 @@
 #### Deep Learning
 
 * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - 具有并行GPU的可扩展的行业深度学习.
+* [Keras Beginner Tutorial](https://victorzhou.com/blog/keras-neural-network-tutorial/) - 使用Keras在Python中实现简单神经网络的友好指南
 
 <a name="javascript"></a>
 ## Javascript

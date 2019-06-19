@@ -17,7 +17,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Quantified Self](http://quantifiedself.com/) - 官方网站.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - 自我监督和量化新闻.
 - [Wearables Database](http://vandrico.com/wearables/) - 每个身体部位可用的可穿戴设备列表.
-- [Wolfram Connected Devices Project](http://devices.wolfram.com/) -  IoT和量化自我设备列表.
+- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - 量化自我研究和创新项目.
 
 ## Articles & Blogs
@@ -33,6 +33,12 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [QS on LiveScience](http://www.livescience.com/topics/quantified-self) - 关于LiveScience的量化自我文章.
 - [Gwern](http://www.gwern.net/) - 深奥的博客，其中包括盲法自我实验和量化自我分析等主题.
 
+## Books
+
+-  [Your life, uploaded: The digital way to better memory, health, and productivity](https://www.amazon.com/Your-Life-Uploaded-Digital-Productivity-ebook/dp/B0043EV52G/) （2010） -  Gordon Bell和Jim Gemmell
+- [The Quantified Self](https://www.amazon.com/Quantified-Self-Deborah-Lupton-ebook/dp/B01M0QCSF7/) （2016） -  Deborah Lupton
+- [Self-Tracking](https://www.amazon.com/Self-Tracking-MIT-Press-Essential-Knowledge-ebook/dp/B01HNIVBZ4/) （2016） -  Gina Neff和Dawn Nafus
+
 ## Talks
 
 - [Ted Talk: The Quantified Self](https://www.ted.com/talks/gary_wolf_the_quantified_self?language=en) - 加里·沃尔夫（Gary Wolf）关于量化自我运动的特德谈话.
@@ -41,7 +47,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ## Applications and Platforms
 
 ### Fitness
-- [Runkeeper](http://runkeeper.com/) - 户外健身活动追踪器（iOS和Android）.
+- [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
 - [Endomondo](https://www.endomondo.com/) - 体育和健康统计跟踪器（iOS和Android）.
 - [Runtastic](https://www.runtastic.com/) - 跑步，骑行和健身GPS追踪器（iOS和Android）.
 - [EveryMove Fit](http://everymovefit.com/) - 社交健身和目标跟踪平台（iOS和Android）.
@@ -102,6 +108,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Habit List](http://habitlist.com/) - 创造良好习惯，打破坏习惯，打造更好的你（iOS）.
 - [Streaks](https://streaksapp.com/) - 帮助您养成良好习惯的待办事项列表（iOS）.
 - [Taskade](https://taskade.com/)   - 可在所有设备上同步的现代任务列表.  （网络，iOS，Android，Chrome，Mac和PC）.
+- [Productive](https://productiveapp.io/) - 具有灵活调度，提醒和数据导出（iOS）的习惯和每日目标跟踪器. 
 
 ### Health
 - [AlcDroid](http://alcdroid.flx-apps.com/) - 酒精消费跟踪和BAC计算应用程序，提供有关您的饮酒行为的各种统计数据（Android）.
@@ -120,9 +127,10 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Pocket](https://getpocket.com/)  - 让您保存文章以便稍后阅读（Web，iOS，Android）.
 - [PhotoStats](http://www.photostats.io/) - 使用机器学习（iOS，Android）进行可视化，分析和自动标记的照片跟踪.
 - [WordCounter](https://wordcounterapp.com/) - 作家的字数跟踪器（Mac）. 
+- [Podcast Tracker](http://www.podcasttracker.com/) - 允许您记录，聚合和导出播客收听历史记录（Web）.
 
 ### Mind & Cognition
-- [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - 科学证明的评估认知功能的工具。
+- [Cambridge Brain Sciences](http://www.cambridgebrainsciences.com/) - 科学证明的评估认知功能的工具.
 - [Quantified Mind](http://www.quantified-mind.com/about) - 量化认知能力的测试和实验.
 
 ### Mood
@@ -177,7 +185,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Garmin](https://buy.garmin.com/en-US/US/wearables/c10002-p1.html) - 世界一流的可穿戴设备.
 - [TomTom](https://www.tomtom.com/en_us/sports/fitness-trackers/) - 健身追踪器和手表.
 - [Jawbone UP](https://jawbone.com/up) - 健身追踪器让您更健康.
-- [Withings](http://www.withings.com/) - Activity tracking and connected devices.
+- [Withings](http://www.withings.com/) - 活动跟踪和连接的设备.
 - [Nike Fuel](https://secure-nikeplus.nike.com/plus/what_is_fuel/) - 通用活动跟踪设备.
 - [Misfit](https://misfit.com/) - 可穿戴式跟踪设备.
 - [Pebble](https://www.pebble.com/) - 适用于移动设备的智能手表.
@@ -202,7 +210,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Inside Tracker](https://www.insidetracker.com/) - 基于科学的血液分析，用于表现和健康.
 - [Wellness FX](https://www.wellnessfx.com/) - 血液分析和健康检查.
 - [Human API](http://humanapi.co/) - 健康数据集成平台.
-- [DNA land](http://dna.land/) - DNA imputation and scientific research.
+- [DNA land](http://dna.land/) -  DNA插补和科学研究.
 - [GenetiConcept](https://geneticoncept.com) - 健康，药物相互作用，健身和营养的基因检测.
 - [FoundMyFitness](https://www.foundmyfitness.com/genetics) - 来自自我上传的遗传数据的综合遗传报告.
 
@@ -214,6 +222,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Fluxtream](https://github.com/fluxtream/fluxtream-app) - 一个开源的非营利性个人数据可视化框架.
 - [Flow Dashboard](https://github.com/onejgordon/flow-dashboard) - 习惯跟踪器和个人数据分析应用程序.
 - [BetterSelf](https://betterself.io) - 一个用于跟踪补充和习惯的开源应用程序
+- [QS Ledger](https://github.com/markwk/qs_ledger) - 使用Jupyter笔记本在Python上构建的开源个人数据聚合器和数据分析.
 
 ## License
 

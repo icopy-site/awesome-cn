@@ -7,6 +7,7 @@
 *用其他语言阅读： [English](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md), [한국어](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ko.md), [日本語](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md), [简体中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md), [正體中文](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-tw.md).*
 
 
+
 ## GitHub
 ### Ignore Whitespace
 将“？w = 1”添加到任何差异URL将仅删除空格中的任何更改，使您只能看到已更改的代码.
@@ -149,7 +150,7 @@ $ git push
 
 ```bash
 $ curl -i http://git.io -F“url = https://github.com / ...”
-HTTP / 1.1 201已创建
+HTTP/1.1 201 Created
 地点：http：//git.io/abc123
 
 $ curl -i http://git.io/abc123
@@ -166,7 +167,7 @@ $ curl -i http://git.io/abc123
  - 按&#39;w`将调出分支选择器.
    - 按`s`将聚焦当前存储库的搜索字段.  按退格键删除“此存储库”丸会更改该字段以搜索所有GitHub.
  - 按“l”将编辑现有问题的标签.
- - Pressing `y` **when looking at a file** (e.g., `https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.md`) will change your URL to one which, in effect, freezes the page you are looking at. If this code changes, you will still be able to see what you saw at that current time.
+   - 查看文件时按&#39;y` ** **（例如，`https：// github.com / tiimgreen / github-cheat-sheet / blob / master / README.md`）会将您的URL更改为实际上，冻结了您正在查看的页面.  如果此代码更改，您仍然可以看到您在当前时间看到的内容.
 
 要查看当前页面的所有快捷方式，请按`？`：
 
@@ -240,7 +241,7 @@ To link to an issue in another repository, `{user}/{repo}#ISSUE_NUMBER`, e.g., `
 
 `是：pr -label：activerecord`
 
-Github has tabs for displaying open or closed issues and pull requests but you
+Github有标签显示打开或关闭的问题，并提取请求但你
  也可以看到合并拉取请求.  只需将以下内容放入过滤器：
 
 `is:merged`
@@ -401,7 +402,7 @@ _（仅适用于Chrome浏览器）_
 [*Read more about task lists in markdown documents.*](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Relative Links
-链接到内部内容时，建议在Markdown文件中使用相对链接.
+Relative links are recommended in your Markdown files when linking to internal content.
 
 ```markdown
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
@@ -590,6 +591,18 @@ https://github.com/{user}.keys
 e.g. [https://github.com/tiimgreen.keys](https://github.com/tiimgreen.keys)
 
 [*Read more about accessing public ssh keys.*](https://changelog.com/github-exposes-public-ssh-keys-for-its-users/)
+
+### Repository Templates
+
+ 您可以在存储库中启用模板，允许任何人复制目录结构和文件，允许他们立即使用文件（例如，教程或编写样板代码）.  这可以在存储库的设置中启用.
+
+![Convert](https://i.postimg.cc/hGCrVm9F/Template.gif)
+
+ 更改为模板存储库将提供可以共享的新URL端点，并立即允许用户将存储库用作模板.  或者，他们可以转到您的存储库并单击“用作模板”按钮.
+
+![Template](https://i.postimg.cc/L8PKCHx0/New-Template.gif)
+
+[*Read more about using repositories as templates*](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
 
 ## Git
 ### Remove All Deleted Files from the Working Tree
@@ -924,7 +937,7 @@ $ git comit -m“消息”
 ## in 1.5 seconds automatically...
 ```
 
-git之前的延迟将重新运行命令，因此用户有时间中止.
+The delay before git will rerun the command is so the user has time to abort.
 
 #### Color
 要为Git输出添加更多颜色：
@@ -958,7 +971,7 @@ $ git config --global color.ui 1
  |  标题|  链接|
 | ----- | ---- |
  |  使用Git进行语用版本控制  https://pragprog.com/titles/tsgit/pragmatic-version-control-using-git |
- |  Pro Go |  http://git-scm.com/book |
+ |  去专业|  http://git-scm.com/book |
  |  Git Internals PluralSight |  https://github.com/pluralsight/git-internals-pdf |
  |  Git in the Trenches |  http://cbx33.github.io/gitt/ |
  |  使用Git进行版本控制|  http://www.amazon.com/Version-Control-Git-collaborative-development/dp/1449316387 |

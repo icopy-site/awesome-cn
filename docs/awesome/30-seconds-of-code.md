@@ -3153,7 +3153,7 @@ const getScrollPosition =（el = window）=&gt;（{
 使用`Window.getComputedStyle（）`获取指定元素的CSS规则的值.
 
 ```js
-的getStyle =常数（的，RULENAME）=&gt;的getComputedStyle（下）[RULENAME];
+const getStyle =（el，ruleName）=&gt; getComputedStyle（el）[ruleName];
 ```
 
 <details>
@@ -4204,6 +4204,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
 
 
 
@@ -5289,7 +5290,7 @@ GCD公式使用递归.
 
 ```js
 LCM =常数（... ARR）=&gt; {
-  const gcd =（x，y）=&gt;（！y？x：gcd（y，x％y））;
+  常量= GCD（X，Y）=&gt; :;（x和GCD（Y，X％Y）！？）
   const _lcm =（x，y）=&gt;（x * y）/ gcd（x，y）;
   return [... arr] .reduce（（a，b）=&gt; _lcm（a，b））;
 };
@@ -7064,7 +7065,7 @@ const pickBy =（obj，fn）=&gt;
 将`Object.keys（）`与`Array.prototype.reduce（）`和扩展运算符（`...`）结合使用，得到对象的键，并根据`keysMap`重命名它们.
 
 ```js
-renameKeys =常数（keysMap，OBJ）=&gt;
+const renameKeys =（keysMap，obj）=&gt;
   Object.keys（OBJ）.降低（
     （acc，key）=&gt;（{
       ... ACC，
@@ -7872,7 +7873,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7902,7 +7903,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7931,7 +7932,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7959,7 +7960,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | [AZ]？[az] + [0-9] * | | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```

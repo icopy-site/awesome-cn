@@ -835,7 +835,7 @@ AWS Repos：
 * [cloudsploit/scans :fire::fire::fire:](https://github.com/cloudsploit/scans) - 检测安全风险.
 * [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) - 安全审计工具.
 * [jordanpotti/AWSBucketDump :fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - 在S3存储桶中查找有趣文件的安全工具.
-* [Netflix/bless :fire::fire::fire::fire:](https://github.com/Netflix/bless) - 作为Lambda函数运行的SSH证书颁发机构.
+* [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - 作为Lambda函数运行的SSH证书颁发机构.
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - 监控不安全配置的策略更改和警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - 实施所有权和数据安全的工具.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - 在云中启动专用VPN服务器.

@@ -147,6 +147,7 @@
 * [Hiring your first SRE](https://sreally.com/hiring-your-first-sre-bdda38ee175d#.2m3sqyuw9)
 * [Growing the Site Reliability Team at LinkedIn: Hiring is Hard](https://www.youtube.com/watch?v=ZemNg9GYvOA)
 * [How to Find and Hire Site Reliability Engineers (SREs)](https://www.stackoverflowbusiness.com/blog/how-to-find-and-hire-site-reliability-engineers-sres)
+* [Engineering Manager - Site Reliability Engineering Interview Preparation](https://danrl.com/blog/srm)
 
 ## Reliability
 * [The Realities of the Job of Delivering Reliability](https://www.usenix.org/conference/srecon16/program/presentation/kroll)
@@ -360,6 +361,7 @@
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - 一般讨论现场可靠性工程.
 * [#incident_response channel at Hangops Slack](https://hangops.slack.com/) - 关于事件响应的讨论.
+* [USENIX SREcon Slack](https://usenix-srecon.slack.com)
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
