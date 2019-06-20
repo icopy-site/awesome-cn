@@ -29,6 +29,7 @@
 - [Domain-Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon/dp/0134434420) - 阅读之前非常好的入门书 [Implementing Domain-Driven Design](https://vaughnvernon.co/?page_id=168#iddd) 要么 [Domain-Driven Design: Tackling the Complexity at the Heart of Software](https://amzn.com/0321125215).
 - [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - 用PHP编写的真实示例，展示DDD架构风格，战术设计和有界上下文集成.
 - [Domain-Driven Rails](https://blog.arkency.com/domain-driven-rails/) -  Domain-Driven Rails描述了11种技术（从Bounded Contexts到Event Sourcing），您可以在新旧Rails应用程序中单独使用这些技术来实现更好的架构.
+- [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional) - Tackle Software Complexity with Domain-Driven Design and F#.
 - [Domain Specific Languages](http://martinfowler.com/books/dsl.html) - 与DDD切向连接，描述了泛在语言的重要性，并与领域专家合作，以及大量技术细节.
 - [Event Sourcing and CQRS with .NET Core and SQL Server](https://buildplease.com/products/fpc-v2/) - 使用ASP.NET Core和SQL Server在生产中使用域驱动设计与事件源和CQRS的演练.
 - [Hands-On Domain-Driven Design with .NET Core](https://www.amazon.com/Hands-Domain-Driven-Design-NET-dp-1788834097/dp/1788834097) - 通过将AlexD Zimarev的DDD原则付诸实践，解决软件核心的复杂性.
@@ -52,7 +53,7 @@
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) - 在这个由三部分组成的系列中，Vaughn Vernon介绍了一些常见的设计缺陷，讨论了各种聚合建模选择的优缺点，并提供了指导聚合建模的经验法则.
 - [Getting Started with DDD when Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) - 描述了对遗留系统做出巨大贡献时开始使用DDD的三种策略.
 - [Living Documentation by Design, with Domain-Driven Design](https://leanpub.com/livingdocumentation) - 了解Living Documentation如何在项目的各个方面为您提供帮助，从业务目标到业务领域知识，架构和设计，流程和部署，即使您讨厌编写文档.
-- [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - An introduction to developing microservices-based applications and managing them using containers. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
+- [.NET Microservices: Architecture for Containerized .NET Applications](https://dotnet.microsoft.com/download/thank-you/microservices-architecture-ebook) - 介绍如何开发基于微服务的应用程序并使用容器管理它们. [eShopOnContainers sample](https://github.com/dotnet-architecture/eShopOnContainers)
 - [The Semantic JavaScript Backend for Event-Driven Development](https://docs.wolkenkit.io/1.1.0/downloads/brochure/) -  68页长的免费电子书，关于DDD，CQRS和事件采购是什么，以及它们如何相互适应.
 
 ## Training Courses
@@ -159,7 +160,7 @@
 - [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - 使用Clean Architecture的原始SQL和DDD的.NET Core REST API CQRS实现.
 - [Scritchy](https://github.com/ToJans/Scritchy) - 没有管道的CQRS， [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
-- [SimpleCQRS](https://github.com/gregoryyoung/m-r) -  Greg Young的“最简单的事情”CQRS与事件采购项目.
+- [SimpleCQRS](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [TodoMVC-DDD-CQRS-EventSourcing](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 
 ### Haskell

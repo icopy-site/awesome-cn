@@ -33,6 +33,7 @@
 
 ## Books
 
+- [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r)  拉米克里斯平.  （2019）
 - [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh  （2016）
 - [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦库克.  （2016）
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7)  托马斯丁斯莫尔.  （2016）

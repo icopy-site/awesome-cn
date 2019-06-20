@@ -85,7 +85,7 @@
 * [Kelp](https://github.com/stellar/kelp) - 官方交易和市场制造机器人 [Stellar](https://www.stellar.org/)  DEX.  开箱即用，用Golang编写，兼容集中交换和自定义交易策略.
 * [margelet](https://github.com/zhulik/margelet) - 构建电报机器人的框架.
 * [micha](https://github.com/onrik/micha) -  Go Library for Telegram bot api.
-* [slacker](https://github.com/shomali11/slacker) - 易于使用的框架来创建Slack机器人.
+* [slacker](https://github.com/shomali11/slacker) - Easy to use framework to create Slack bots.
 * [tbot](https://github.com/yanzay/tbot) - 具有类似于net / http的API的Telegram bot服务器.
 * [telebot](https://github.com/tucnak/telebot) - 用Go编写的Telegram bot框架.
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - 简单而干净的Telegram bot客户端.
@@ -448,6 +448,7 @@
 * [digota](https://github.com/digota/digota) -  grpc电子商务微服务.
 * [dot](https://github.com/dotchain/dot/) - 使用操作转换/ OT的分布式同步.
 * [doublejump](https://github.com/edwingeng/doublejump) - 改进了谷歌的跳跃一致哈希.
+* [dragonboat](https://github.com/lni/dragonboat) -  Go中一个功能齐全的高性能多组Raft库.
 * [drmaa](https://github.com/dgruber/drmaa) - 基于DRMAA标准的集群调度程序的作业提交库.
 * [dynamolock](https://cirello.io/dynamolock) -  DynamoDB支持的分布式锁定实现.
 * [dynatomic](https://github.com/tylfin/dynatomic) - 使用DynamoDB作为原子计数器的库.
@@ -602,7 +603,7 @@
 * [go3d](https://github.com/ungerik/go3d) -  Go的面向性能的2D / 3D数学包.
 * [gonet](https://github.com/xtaci/gonet) - 用主题实现的游戏服务器骨架.
 * [goworld](https://github.com/xiaonanln/goworld) - 可扩展的游戏服务器引擎，具有空间实体框架和热交换功能.
-* [Leaf](https://github.com/name5566/leaf) - Lightweight game server framework.
+* [Leaf](https://github.com/name5566/leaf) - 轻量级游戏服务器框架.
 * [nano](https://github.com/lonng/nano) - 轻量级，设施，高性能的golang游戏服务器框架.
 * [Oak](https://github.com/oakmound/oak) -  Pure Go游戏引擎.
 * [Pitaya](https://github.com/topfreegames/pitaya) - 可扩展的游戏服务器框架，通过C SDK为iOS，Android，Unity和其他人提供集群支持和客户端库.
@@ -1182,7 +1183,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [johnny-deps](https://github.com/VividCortex/johnny-deps) - 使用Git的最小依赖版本.
 * [mvn-golang](https://github.com/raydac/mvn-golang) - 插件，提供在Maven项目基础架构中自动加载Golang SDK，依赖关系管理和启动构建环境的方法.
 * [nut](https://github.com/jingweno/nut) - 供应商Go依赖项.
-* [VenGO](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
+* [VenGO](https://github.com/DamnWidget/VenGO) - 创建和管理可导出的隔离虚拟环境.
 
 ## Query Language
 
@@ -1238,7 +1239,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [rootfinding](https://github.com/khezen/rootfinding) - 用于查找二次函数根的根查找算法库.
 * [sparse](https://github.com/james-bowman/sparse) -  Go支持线性代数的稀疏矩阵格式，支持科学和机器学习应用，与gonum矩阵库兼容.
 * [stats](https://github.com/montanaflynn/stats) -  Golang标准库中缺少常用功能的统计包.
-* [streamtools](https://github.com/nytlabs/streamtools) - 用于处理数据流的通用图形工具.
+* [streamtools](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
 * [TextRank](https://github.com/DavidBelicza/TextRank) -  Golang中的TextRank实现，具有可扩展功能（摘要，加权，短语提取）和多线程（goroutine）支持.
 * [triangolatte](https://github.com/tchayen/triangolatte)   -  2D三角测量库.  允许将线条和多边形（均基于点）转换为GPU的语言.
 

@@ -235,6 +235,7 @@
 
 ## Log Management
 
+  * [bugfender.com](https://bugfender.com/) - 每天免费提供100k对数线，24小时保留
   * [humio.com](https://www.humio.com/) - 最多2 GB /天，保留7天
   * [logentries.com](https://logentries.com/) - 最多5 GB /月，保留7天
   * [loggly.com](https://www.loggly.com/) - 对于单个用户免费，请参阅lite选项

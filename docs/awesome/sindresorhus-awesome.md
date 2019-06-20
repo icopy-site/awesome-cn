@@ -210,7 +210,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - 用于渲染3D图形的JavaScript API.
 - [Preact](https://github.com/ooade/awesome-preact#readme) - 应用程序框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的React应用程序的框架.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
@@ -493,7 +493,7 @@
 
 ## Miscellaneous
 
-- [JSON](https://github.com/burningtree/awesome-json#readme) - Text based data interchange format.
+- [JSON](https://github.com/burningtree/awesome-json#readme) - 基于文本的数据交换格式.
 	- [GeoJSON](https://github.com/tmcw/awesome-geojson#readme)
 	- [Datasets](https://github.com/jdorfman/awesome-json-datasets#readme)
 - [CSV](https://github.com/secretGeek/awesomeCSV#readme) - 一种文本文件格式，用于存储表格数据并使用逗号分隔值.
@@ -606,6 +606,7 @@
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及使用什么条件.
+- [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用和功能的技术堆栈.
 
 
 ## Related

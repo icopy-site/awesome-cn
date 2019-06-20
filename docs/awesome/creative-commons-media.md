@@ -20,8 +20,6 @@
 
 * [AllTheFreeStock](http://allthefreestock.com/) - 精选的免费股票图像，图形和视频列表.
 * [Altphotos](https://altphotos.com) - 每日添加精心挑选的免费（CC0）高分辨率照片.
-* [AnimalPhotos](http://animalphotos.info/a/) - 成千上万的动物图片.
-* [CarPictures.cc](http://carpictures.cc/cars/photo/) - 成千上万的汽车图片.
 * [Compfight](http://www.compfight.com/) - 在Flickr上搜索适合博客，组合，灵感和研究的图像.
 * [Creativity103](http://creativity103.com/) - 自由抽象背景，纹理和设计想法图书馆.
 * [Find A Photo](http://finda.photo/) - 搜索数千张免费（CC0许可的）照片.
@@ -29,7 +27,6 @@
 * [Good Free Photos](https://www.goodfreephotos.com) - 按地理位置分类的数千张免费公共领域照片
 * [ImageBase](http://imagebase.net/) - 收集免费照片.
 * [Morgue File](http://www.morguefile.com/archive/) - 具有重新混音许可的照片集.
-* [OpenClipArt](https://openclipart.org/) -  60,000张剪贴画的图书馆.
 *打开字体库 
   + [CC-BY](https://fontlibrary.org/en/search?license=CC-BY) 
   + [CC-BY-SA](https://fontlibrary.org/en/search?license=CC-BY-SA) - 在几个开源许可下提供的打开字体
@@ -54,12 +51,10 @@
 
 ## Open courseware
 
-* [Boundless](https://www.boundless.com/) - 根据CC BY-SA 4.0许可证开放教科书
 * [Candela Learning](https://courses.candelalearning.com/catalog/lumen)
 * [MIT OpenCourseWare](http://ocw.mit.edu)
 * [OpenIntro](https://www.openintro.org/)
 * [OpenStax College](https://www.openstaxcollege.org/)
-* [Open Textbook Network](http://open.umn.edu/opentextbooks/)
 * [P2PU](https://www.p2pu.org/en/) - 同行大学 - 所有都是CC BY-SA 4.0许可证
 * [Siyavula Open Textbooks](http://www.siyavula.com/work-oer.html#BOOKS)
 * [Skills Commons](https://www.skillscommons.org/) - 开放职业培训资源

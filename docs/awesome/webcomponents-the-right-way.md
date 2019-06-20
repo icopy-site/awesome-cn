@@ -19,14 +19,17 @@
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/custom-elements.html)
   - [DOM Living Standard](https://dom.spec.whatwg.org/#concept-element)
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/1689)
 
 -  ** Shadow DOM **描述了一种将多个DOM树组合成一个层次结构的方法，以及这些树如何在文档中相互交互，从而实现更好的DOM组合.
   - [DOM Living Standard](https://dom.spec.whatwg.org/#shadow-trees)，第4.2.2节：影子树
   - [DOM Living Standard](https://dom.spec.whatwg.org/#interface-shadowroot)，第4.8节：接口`ShadowRoot`
   - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/shadow-dom)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/804)
 
   -  **` <template>  `**元素用于声明可以通过脚本克隆并插入到文档中的HTML片段.
   - [HTML Living Standard](https://html.spec.whatwg.org/multipage/scripting.html#the-template-element)
+  - [Chrome Platform Status metrics](https://chromestatus.com/metrics/feature/timeline/popularity/2769)
 
 ### Proposals
 
@@ -43,6 +46,7 @@
 
 - [Form Participation API Explained](https://docs.google.com/document/d/1JO8puctCSpW-ZYGU8lF-h4FWRIDQNDVexzHoOQ2iQmY/edit?usp=sharing) -  Google Chrome小组提供的文档.
 - [Form-associated custom elements](https://www.chromestatus.com/features/4708990554472448) -  Chrome平台状态功能.
+- [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/custom-elements/form-associated)
 
 #### Constructable Stylesheet Objects
 
@@ -55,6 +59,7 @@
 
 - [std-switch](https://github.com/tkent-google/std-switch)   - 提议` <std-switch>  `实现&#39;switch&#39;控件的HTML元素.
 - [std-toast](https://github.com/jackbsteinberg/std-toast)   - 提议` <std-toast>  `HTML元素实现&#39;toast&#39;弹出通知.
+  - [web-platform-tests](https://github.com/web-platform-tests/wpt/tree/master/std-toast)
 
 ### Polyfills
 
