@@ -8,7 +8,7 @@
 现在我们变得非常大，与最初的想法不同.
  收集各种类别的高级软件.  随意**明星**和**叉**.
 
-Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) .  我们喜欢PRs :)请在打开之前查看贡献指南.  跟着 [awesome](https://github.com/sindresorhus/awesome) 名单.
+有什么意见，建议吗？ [Let us know!](https://github.com/jaywcjlove/awesome-mac/issues) .  我们喜欢PRs :)请在打开之前查看贡献指南.  跟着 [awesome](https://github.com/sindresorhus/awesome) 名单.
 
 ### Explanation
 
@@ -119,7 +119,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 #### IDEs
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
-* [Deco IDE](https://www.decoide.org)   - 构建React Native应用程序的最佳IDE.  [！[开源软件] [OSS图标]]（https://github.com/decosoftware/deco-ide）！[免费软件] [免费软件图标]
+* [Deco IDE](https://www.decoide.org) - The best IDE for building React Native apps. [![Open-Source Software][OSS Icon]](https://github.com/decosoftware/deco-ide) ![Freeware][Freeware Icon]
 * [Eclipse](https://www.eclipse.org)   - 流行的开源IDE，主要用于Java，但支持各种语言和平台的插件.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Espresso](http://espressoapp.com/)   -  Mac的网页编辑器又回来了.  对于那些制作令人愉快，创新和快速网站的人.
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/)   - 管理已安装的JetBrains工具，下载新工具并打开最近的项目.  ！[免费软件] [免费软件图标]
@@ -555,6 +555,7 @@ Any comments, suggestions? [Let us know!](https://github.com/jaywcjlove/awesome-
 
 * [Kawa](https://github.com/utatti/kawa) - Better input source switcher for OS X. [![Open-Source Software][OSS Icon]](https://github.com/utatti/kawa) ![Freeware][Freeware Icon]
 * [Rocket](http://matthewpalmer.net/rocket/)   - 使用Slack风格的快捷键，可以更快，更轻松地输入表情符号.  ！[免费软件] [免费软件图标]
+* [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)   - 适用于MacBook Pro Touch Bar的表情符号选择器.  [！[开源软件] [OSS图标]]（https://github.com/lessmess-dev/touch-emoji）
 * [Type2Phone](https://www.houdah.com/type2Phone/)   - 将Mac用作iPhone，iPad和Apple TV的键盘.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/type2phone-bluetooth-keyboard/id472717129）
 
 ## Browsers

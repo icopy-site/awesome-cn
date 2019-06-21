@@ -23,10 +23,11 @@ Heroku的分析......
 
 - “文章” [Exploring Microservices Architecure on Heroku](http://blog.codeship.com/exploring-microservices-architecture-on-heroku/) - 探讨为什么Heroku消除了在使用微服务时需要担心的大量工具.
 - “文章” [Heroku and SOA](https://www.rdegges.com/2014/heroku-and-soa/) - 讨论为什么Heroku非常适合为您的项目构建面向服务的体系结构.
+- “文章” [Split Frontend from Backend on Heroku with npm and NodeJS](https://medium.com/@spygi/scalable-cost-effective-web-architectures-for-heroku-eb8f1f55a4b6) - 使用npm和NodeJS在Heroku中部署微服务Web应用程序的动手指南.
 
 
 
-互联网上经常（或专门）写关于Heroku的博客......
+互联网上经常（或专门）写有关Heroku的博客......
 
 - `博客` [Heroku Blog](https://blog.heroku.com) - 官方Heroku博客.
 

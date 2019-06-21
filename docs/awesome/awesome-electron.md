@@ -3,7 +3,7 @@
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
 
-> Useful resources for creating apps with [Electron](https://electronjs.org)
+&gt;用于创建应用程序的有用资源 [Electron](https://electronjs.org)
 
 你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
 
@@ -212,6 +212,7 @@
 - [Cleaver](https://getcleaver.com) - 配置服务器和部署Web应用程序.
 - [Brandy](https://getbrandy.io) - 菜单栏的品牌资产管理器.
 - [Cacher](https://www.cacher.io) - 具有Gist同步功能的基于云的团队代码段管理器.
+- [MusicPlus](https://musicplus.io) - 适用于macOS和Windows的免费音乐应用.
 
 ### Samples
 
@@ -270,7 +271,7 @@
 - [electron-download](https://github.com/electron-userland/electron-download) - 从GitHub下载电子释放拉链.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
-- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 - [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
@@ -288,7 +289,7 @@
 - [electron-vibrancy](https://github.com/arkenthera/electron-vibrancy) - 为窗户添加活力（模糊）.
 - [electron-about-window](https://github.com/rhysd/electron-about-window) - “关于此应用程序”窗口.
 - [elemon](https://github.com/manidlou/elemon) - 在开发过程中实时重新加载您的应用.
-- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - Check if a string is a valid accelerator.
+- [electron-is-accelerator](https://github.com/brrd/electron-is-accelerator) - 检查字符串是否是有效的加速器.
 - [electron-pdf-window](https://github.com/gerhardberger/electron-pdf-window) - 在浏览器窗口中查看PDF文件.
 - [electron-router](https://github.com/m0n0l0c0/electron-router) - 路由器整理IPC消息传递.
 - [electron-settings](https://github.com/nathanbuchar/electron-settings) - 读取和写入用户设置到磁盘.
@@ -307,6 +308,7 @@
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化的IPC通信.
 - [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对Chrome扩展程序的支持.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - 浏览器窗口和主进程之间的透明异步远程处理.
+- [trilogy](https://github.com/citycide/trilogy) -  TypeScript SQLite数据库层，支持本机C ++和纯JavaScript后端.
 
 ### Using Electron
 
@@ -352,7 +354,7 @@
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的Electron API，可以减少错误并提高性能，从而嵌入Web应用程序.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
 - [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -  Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -  Realm用Electron重写了他们的数据库浏览器应用程序，以获得跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作和发布Electron应用程序到Mac App Store的旅程的5部分系列.

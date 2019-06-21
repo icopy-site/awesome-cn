@@ -40,6 +40,8 @@
 
 ## Video
 
+* [Mixkit](https://mixkit.co/) - 高品质视频和动画的画廊
+
 ## Open Data
 
 * [Geonames](http://www.geonames.org/) -  GeoNames地理数据库涵盖所有国家/地区，包含800多万个可免费下载的地名.
@@ -75,6 +77,7 @@
 * [Vimeo's Creative Commons Search](http://vimeo.com/creativecommons)
 * [Wikimedia Commons](http://commons.wikimedia.org/)
 * [Wikipedia](https://wikipedia.org) - 所有CC BY-SA许可证
+* [XKCD](https://xkcd.com/)
 
 ## Other awesome lists
 

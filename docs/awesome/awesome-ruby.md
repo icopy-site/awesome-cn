@@ -742,6 +742,7 @@
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - 允许您“销毁”对象而不删除记录或相关记录.
   * [Discard](https://github.com/jhawthorn/discard) - 一个简单的ActiveRecord mixin，用于添加用于标记丢弃记录的约定.
   * [Espinita](https://github.com/continuum/espinita) - 像老板一样审核activerecord模型.
+  * [Logidze](https://github.com/palkan/logidze) -  Rails的数据库更改日志.
   * [marginalia](https://github.com/basecamp/marginalia)   - 将评论附加到您的ActiveRecord查询.  默认情况下，它会在每个查询结束时将应用程序，控制器和操作名称添加为注释.
   * [mongoid-history](https://github.com/aq1018/mongoid-history) - 多用户非线性历史跟踪，审计，撤销，重做为mongoid.
   * [PaperTrail](https://github.com/airblade/paper_trail) - 跟踪ActiveRecord模型数据的更改，以进行审核或版本控制.

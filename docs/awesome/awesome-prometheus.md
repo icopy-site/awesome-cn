@@ -47,6 +47,10 @@ Prometheus是一个开源系统监控和警报工具包.
 - [Prometheus Monitoring for Java Web Applications w o Modifying Source Code](https://www.youtube.com/watch?v=BjyI93c8ltA) -  Devoxx Belgium  -  2017年11月7日 - FabianStäber.
 - [Prometheus: Design and Philosophy - why it is the way it is](https://www.youtube.com/watch?v=QgJbxCWRZ1s) -  Docker  -  2016年10月14日 -  Julius Volz.
 - [Explain it Like I’m Five - What I Learned Teaching Observability to My Kids](https://vimeo.com/341142428) -  Monitorama PDX，2019年 -  Dave Cadwallader.
+- [Best Practices and Beastly Pitfalls](https://www.youtube.com/watch?v=_MNYuTNfTb4) -  PromCon 2017：最佳实践和野兽陷阱 -  Julius Volz.
+- [Counting with Prometheus](https://www.youtube.com/watch?v=67Ulrq6DxwA) - 与普罗米修斯统计 - 布莱恩巴西，强大的感知.
+- [Understanding and Extending Prometheus AlertManager](https://www.youtube.com/watch?v=jpb6fLQOgn4) - 了解和扩展Prometheus AlertManager  -  Lee Calcote，SolarWinds
+- [The Prometheus Time Series Database](https://www.youtube.com/watch?v=HbnGSNEjhUc) -  PromCon 2016：普罗米修斯时间序列数据库 - BjörnRabenstein.
 
 ## Podcasts and interviews
 

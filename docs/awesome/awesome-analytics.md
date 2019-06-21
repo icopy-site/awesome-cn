@@ -14,6 +14,7 @@
 * [Heap](https://heapanalytics.com/) - 跟踪您的应用用户，点击次数，表单提交以及其他任何内容.
 * [Opentracker](http://www.opentracker.net/) - 实时报告，地理位置用户跟踪.
 * [FoxMetrics](http://foxmetrics.com/) - 用于跟踪用户的操作和活动的分析.
+* [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - 将网络数据转化为每个人都可以采取行动的见解.
 * [Google Analytics](https://www.google.com/analytics/) - 网络分析领域中事实上的分析标准.
 * [Clicktale](https://www.clicktale.com) - 记录并密切关注访问者如何使用您的网站.
 * [GoSquared](https://www.gosquared.com/) - 使用访客标记进行分析，以帮助您深入了解用户的访问.
@@ -26,7 +27,7 @@
 * [Indicative](https://www.indicative.com/) - 网络和移动分析工具.
 * [Open Web Analytics](http://www.openwebanalytics.com/) - 开源Web应用程序分析工具.
 * [Statcounter](https://statcounter.com/) - 提供的ORIGINAL网站分析工具之一.
-* [Snow Plow](https://snowplowanalytics.com/) - analytics tool for web apps with a lot of data.
+* [Snow Plow](https://snowplowanalytics.com/) - 具有大量数据的Web应用程序的分析工具.
 * [Adobe Digital Analytics](http://www.adobe.com/data-analytics-cloud/analytics/capabilities.html) - 标准分析工具以及大型组织可以使用的一些工具.
 * [Hitslink.com](https://www.hitslink.com/) - 实时分析，社交媒体流量报告和实时动态分段.
 * [Loggr](http://loggr.net/) - 跟踪您的用户事件并监控您的Web应用程序.
@@ -55,8 +56,9 @@
 ## Analytics layers
 
 * [Keen.io](http://keen.io/) - 自定义分析API.
-* [Popcorn Metrics](http://www.popcornmetrics.com/) - 可视化编辑器捕获事件并发送给toher platforns.
+* [Popcorn Metrics](http://www.popcornmetrics.com/) - 可视化编辑器捕获事件并发送到其他平台.
 * [Segment](https://segment.com/) - 帮助您将多个应用分析工具与一段代码集成.
+* [Iteratively](https://iterative.ly/) - 跨团队和平台一致地捕获清洁产品分析.
 
 ## Mobile analytics
 
@@ -104,7 +106,7 @@
 
 * [Brandwatch](http://www.brandwatch.com/) - 社交媒体监控和分析.
 * [Falconsocial](http://www.falconsocial.com/) - 基于社交媒体和分析的通信平台.
-* [Quintly](https://www.quintly.com/) - 基于网络的工具，可帮助您跟踪，衡量和优化您的社交媒体表现.
+* [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
 * [Kred](http://kred.com/) - 类似Klout的社交媒体分析平台.
 * [Buffer](https://bufferapp.com/) - 社交媒体发布和分析平台.
 * [Topsy](http://topsy.com/) - 具有搜索功能的社交分析工具.

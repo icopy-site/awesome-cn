@@ -212,7 +212,7 @@
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
+  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -252,7 +252,7 @@
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
-  * [crowdin.com](https://crowdin.com/) — Unlimited projects, unlimited strings and collaborators for Open Source
+  * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
   * [Loco](https://localise.biz/) - 免费提供2000种翻译，无限翻译，10种语言/项目，1000种可翻译资产/项目
 
 ## Monitoring
@@ -297,7 +297,7 @@
 ## Search
 
   * [algolia.com](https://www.algolia.com/)   - 托管搜索类型（即时）.  免费黑客计划多达10,000个文档和100,000个操作.  为社区/开源项目提供更大的免费计划
-  * [swiftype.com](https://swiftype.com/) — Hosted search solution (API and crawler). Free for a single search engine with up to 1,000 documents. Free upgrade to premium level for Open Source
+  * [swiftype.com](https://swiftype.com/)   - 托管搜索解决方案（API和爬虫）.  单个搜索引擎免费提供多达1,000个文档.  免费升级到开源的高级别
   * [bonsai.io](https://bonsai.io/) - 免费1 GB内存和1 GB存储空间
   * [searchly.com](http://www.searchly.com/) - 免费2个索引和5 MB存储空间
   * [indexisto.com](https://indexisto.com/) - 网站搜索，免费1000万文件索引限制与广告块
@@ -332,6 +332,7 @@
   * [elasticemail.com](https://elasticemail.com)   - 每天100封免费电子邮件.  通过API以0.09美元的价格发送1,000封电子邮件（按需付费）.
   * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
   * [migadu.com](https://www.migadu.com/) - 电子邮件托管（Webmail，SMTP，IMAP，...） - 免费计划限制为10个外发邮件/天
+  * [socketlabs.com](https://www.socketlabs.com) - 第一个月免费发送40k封电子邮件，然后每月免费发送2000封电子邮件
 
 ## CDN and Protection
 
@@ -364,7 +365,7 @@
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
-  * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
+  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
   * [arukas.io](https://arukas.io) -  Caas托管，免费平原有730小时/月，0.1 vCPU，128MB RAM和0.1TB流量.
 

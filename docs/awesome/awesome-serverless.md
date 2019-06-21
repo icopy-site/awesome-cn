@@ -13,8 +13,8 @@
 
 ## General
 
-- [Serverless.com](http://serverless.com) -  Serverless.com主页.
-- [Documentation](http://docs.serverless.com) - Serverless.com Documentation.
+- [Serverless.com](http://serverless.com) - Serverless.com homepage.
+- [Documentation](http://docs.serverless.com) -  Serverless.com文档.
 - [Forum](http://forum.serverless.com) - 官方无服务器论坛.
 - [Meetups](http://serverlessmeetups.com) - 列出所有官方无服务器聚会.
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/serverless-framework) -  Stack Overflow问题.
@@ -51,6 +51,7 @@
 - [Serverless monitoring, security, frameworks, tools](https://thenewstack.io/serverless-roadmaps-monitoring-security-frameworks-tools/) - 发布有关不同的无服务器监控，安全性，框架和工具解决方案.
 - [Writing portable serverless applications](https://medium.com/datreeio/writing-portable-serverless-applications-252fd8623bce) - 发布如何编写可在不同计算环境中运行的便携式无服务器应用程序.
 - [Serverless sea change](https://www.infoq.com/articles/serverless-sea-change) - 定义和解释无服务器如何与其他应用程序体系结构不同的文章.
+- [Serverless Instant Checkout Links with Square](https://developer.squareup.com/blog/serverless-instant-checkout-links-with-square/) - 显示如何构建Square API支持的无服务器即时结账链接的示例.
 
 ## Screencasts
 

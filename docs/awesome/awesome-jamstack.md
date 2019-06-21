@@ -69,6 +69,7 @@
 - [Phenomic](https://phenomic.io/) - 模块化网站编译器.
 - [Gridsome](https://gridsome.org/) -  Vue支持的静态站点生成器，用于为任何无头CMS，API或Markdown文件构建CDN就绪网站.
 - [Nuxt.js](https://nuxtjs.org/) - 用于服务器端呈现，静态和传统单页面应用程序的多功能基于vue的框架.
+- [eleventy](https://www.11ty.io/) - 一个更简单的静态站点生成器，将各种模板文件转换为HTML.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
@@ -183,6 +184,8 @@
 - [Turning the Static Dynamic](https://www.gatsbyjs.org/blog/2018-12-17-turning-the-static-dynamic/)
 - [Going JAMstack with Netlify and Nuxt](https://blog.lichter.io/posts/going-jamstack-with-netlify-and-nuxt/)
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
+- [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
+- [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
 
 ## Podcasts
 
