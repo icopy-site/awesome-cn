@@ -138,6 +138,7 @@
 - [http-fake-backend](https://github.com/micromata/http-fake-backend) - 通过可配置的路由提供JSON文件或JavaScript对象的内容，构建虚假的后端.
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - 使用符合RFC的缓存支持包装本机HTTP请求.
 - [gotql](https://github.com/khaosdoctor/gotql) - 构建的GraphQL请求库 [got](https://github.com/sindresorhus/got).
+- [global-agent](https://github.com/gajus/global-agent) - 可使用环境变量配置的全局HTTP / HTTPS代理程序.
 
 
 ### Debugging / Profiling
@@ -160,7 +161,7 @@
 ### Logging
 
 - [pino](https://github.com/pinojs/pino) - 受Bunyan启发的极快记录器.
-- [winston](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+- [winston](https://github.com/winstonjs/winston) - 多传输异步日志记录库.
 - [console-log-level](https://github.com/watson/console-log-level) - 可以想象的最简单的记录器，支持日志级别和自定义前缀.
 - [storyboard](https://github.com/guigrpa/storyboard) - 端到端，分层，实时，丰富多彩的日志和故事.
 - [signale](https://github.com/klauscfhq/signale) - 具有漂亮输出的Hackable控制台记录器.
@@ -244,7 +245,7 @@
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
+- [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
@@ -380,7 +381,7 @@
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略ansi转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将短划线/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
 - [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
-- [execall](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
+- [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
 - [strip-indent](https://github.com/sindresorhus/strip-indent) - 从字符串中的每一行中删除前导空格.
@@ -423,7 +424,7 @@
 
 ### URL
 
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - 规范化URL.
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - 人性化URL：http：//sindresorhus.com→sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - 展开缩短的网址.
 - [speakingurl](https://github.com/pid/speakingurl) - 使用音译从字符串生成slug.
@@ -457,7 +458,7 @@
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
-- [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
+- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
 - [Stylecow](https://github.com/stylecow/stylecow)   - 解析，操作和转换现代CSS，使其与所有浏览器兼容.  插件可扩展.
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常快的YAML解析器.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) -  XML到JavaScript对象转换器.
@@ -492,7 +493,7 @@
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获得可用的端口.
 - [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共IP地址.
-- [getmac](https://github.com/bevry/getmac) - 获取计算机MAC地址.
+- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
 - [DHCP](https://github.com/infusion/node-dhcp) -  DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯JS中的Netcat端口.
 
@@ -688,7 +689,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获得超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取supervillain名称.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获得一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`（·͈༝·͈）◞（=ↀωↀ=）✧（^·o·^）“&#39;`
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍·͈༝·͈₎◞̑̑ෆ⃛（=ↀωↀ=）✧（^·O·^）布鲁诺”`.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特，星球大战和神奇宝贝等书呆子主题中获取数据.
 
 
@@ -728,7 +729,7 @@
 - [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
-- [resolve-from](https://github.com/sindresorhus/resolve-from) - Resolve the path of a module like `require.resolve()` but from a given path.
+- [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.
 - [simplecrawler](https://github.com/cgiffard/node-simplecrawler) - 事件驱动的网络爬虫.
 - [jsdom](https://github.com/tmpvar/jsdom) -  HTML和DOM的JavaScript实现.
 - [hypernova](https://github.com/airbnb/hypernova) - 服务器端呈现您的JavaScript视图.

@@ -293,6 +293,7 @@
 
 #### Databases
 
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 用于在Microsoft系列本地和云数据平台（如MSSQL Server）上使用的跨平台数据库工具！[免费软件] [免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建，设计，编辑和浏览SQLite 3数据库文件的应用程序.
 * [Bdash](https://github.com/bdash-app/bdash) - 现代SQL客户端应用程序，支持MySQL，PostgreSQL（Redshift）和BigQuery.[！[开源软件] [OSS图标]]（https://github.com/bdash-app/bdash）！[免费软件] [免费软件]图标]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin)   - 强大的Chrome应用程序来管理您的MySQL.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yoichiro/chrome_mysql_admin）

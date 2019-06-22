@@ -65,7 +65,7 @@ Audio
 构建系统
 =============
 
-* :star: [ASDF](https://common-lisp.net/project/asdf/)   - 另一个系统定义设施;  Common Lisp的构建系统.  [外籍] [14].
+*：明星： [ASDF](https://common-lisp.net/project/asdf/)   - 另一个系统定义设施;  Common Lisp的构建系统.  [外籍] [14].
 * [asdf-linguist](https://github.com/eudoxia0/asdf-linguist)   -  ASDF的扩展.  [外籍] [14].
 * [asdf-viz](https://github.com/guicho271828/asdf-viz)   - 可视化ASDF系统的库依赖关系，函数的调用图和类继承的工具.  [LLGPL] [8].
 
@@ -84,7 +84,7 @@ C，C ++
 Crypto
 ======
 
-* :star: [Ironclad](https://github.com/sharplispers/ironclad)   -  Common Lisp的加密函数库.  不被认为是安全的，但对消息摘要功能仍然有用.  [外籍] [14].
+*：明星： [Ironclad](https://github.com/sharplispers/ironclad)   -  Common Lisp的加密函数库.  不被认为是安全的，但对消息摘要功能仍然有用.  [外籍] [14].
 * [crypto-shortcuts](https://github.com/Shinmera/crypto-shortcuts)   - 收集常见的加密快捷方式.  [艺术许可2.0] [51].
 * [trivial-ssh](https://github.com/eudoxia0/trivial-ssh)   -  SSH客户端库.  [外籍] [14].
 
@@ -103,7 +103,7 @@ Database
 ORMs
 ----
 
-* :star: [clsql](http://www.cliki.net/CLSQL)   - 具有Common Lisp接口的SQL数据库.  [LLGPL] [8].
+*：明星： [clsql](http://www.cliki.net/CLSQL)   - 具有Common Lisp接口的SQL数据库.  [LLGPL] [8].
 *  [mito](https://github.com/fukamachi/mito) - 具有迁移，关系和PostgreSQL支持的Common Lisp的ORM [LLGPL] [8]. [mitho-auth](https://github.com/fukamachi/mito-auth)，一个使用授权的混合类; [mito-attachment](https://github.com/fukamachi/mito-attachment)，一个用于RDBMS之外的文件管理的mixin类.
 * [cl-dbi](https://github.com/fukamachi/cl-dbi)   -  Common Lisp的数据库独立接口.  [LLGPL] [8].
 * [crane](https://github.com/eudoxia0/crane)   - 另一个ORM.  [外籍] [14].
@@ -120,7 +120,7 @@ ORMs
 Wrappers
 --------
 
-* :star: [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
+*：明星： [postmodern](http://marijnhaverbeke.nl/postmodern/)   - 用于与PostgreSQL交互的库.  [ZLIB] [33].
 * [cl-sqlite](https://github.com/dmitryvk/cl-sqlite)   -  SQLite的绑定.  公共区域.
 * [cl-memcached](https://github.com/quasi/cl-memcached)   -  Memcached对象缓存系统的快速，线程安全的接口.  [外籍] [14].
 * [cl-mongo](https://github.com/fons/cl-mongo)   -  MongoDB客户端.  [外籍] [14].
@@ -161,7 +161,7 @@ Tools
 
 ## C ##
 
-* :star: [CFFI](https://github.com/cffi/cffi)   - 便携，易用的C外部功能接口.  [外籍] [14].
+*：明星： [CFFI](https://github.com/cffi/cffi)   - 便携，易用的C外部功能接口.  [外籍] [14].
 * [cl-autowrap](https://github.com/rpav/cl-autowrap)   - 自动将头文件解析为CFFI定义.  [FreeBSD的] [39].
 
 ## Java ##
@@ -206,7 +206,7 @@ Graphics
 
 这些是用于处理图形的库，而不是制作具有各自部分的GUI（即窗口小部件工具包）.
 
-* :star: [Sketch](https://github.com/vydd/sketch)   - 用于创建电子艺术，图形等的CL框架.  [MIT] [200].
+*：明星： [Sketch](https://github.com/vydd/sketch)   - 用于创建电子艺术，图形等的CL框架.  [MIT] [200].
 * [common-cv](https://github.com/byulparan/common-cv)   - 用于CommonLisp的OpenCV（开源计算机视觉库）绑定库.  未指定许可证.
 * [cl-cairo2](https://github.com/rpav/cl-cairo2)   - 开罗绑定.  [Boost 1.0] [54]
 * [cl-gd](http://weitz.de/cl-gd/)   - 提供GD图形库界面的库.  [FreeBSD的] [39].
@@ -230,8 +230,8 @@ GUI
 ===
 
 *  [Qtools](https://github.com/Shinmera/qtools/)   - 基于CommonQt的Qt工具包.  [艺术许可2.0] [51]此外 [Qtools-ui](https://github.com/Shinmera/qtools-ui) （预制的UI组件），用 [videos](https://www.youtube.com/watch?v=KwASFOhYta4&index=7&list=PLkDl6Irujx9Mh3BWdBmt4JtIrwYgihTWp).
-* :star: [CommonQt](https://github.com/commonqt/commonqt)   - 通过QtSmoke对Qt4进行Common Lisp绑定.  [FreeBSD的] [39].
-* :star: [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
+*：明星： [CommonQt](https://github.com/commonqt/commonqt)   - 通过QtSmoke对Qt4进行Common Lisp绑定.  [FreeBSD的] [39].
+*：明星： [ltk](http://www.peter-herth.de/ltk/)   -  Tk工具包的绑定.  [LLGPL] [8]或[GNU LGPL2.1] [11].
 * [nodgui](https://notabug.org/cage/nodgui)   - 基于Ltk的Tk工具包的绑定，带有语法糖和其他小部件.  [LLGPL] [8].
 * [cl-cffi-gtk](http://www.crategus.com/books/cl-cffi-gtk/)   - 绑定GTK + 3.  [GNU LGPL2.1] [11].
 * [cl-gtk2](https://github.com/dmitryvk/cl-gtk2)   -  GTK + 2的绑定.  [LLGPL] [8].
@@ -252,8 +252,8 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 Implementations
 ===============
 
-* :star: [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
-* :star: [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
+*：明星： [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
+*：明星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)   -  Embeddable Common Lisp;  编译成C. [GNU LGPL2.1] [11].
 * [ABCL](https://common-lisp.net/project/armedbear/)   - 武装熊Common Lisp;  以JVM为目标，编译为字节码.  [标准一致性] [4].  [GNU GPL3] [2] [Classpath exception] [3].
 * [CMUCL](https://github.com/CodyReichert/awesome-cl/blob/master///www.cons.org/cmucl/)   - 卡内基梅隆大学的实施.  公共区域.
@@ -287,18 +287,18 @@ YAML
 ===================
 
 * [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
-* :star: [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
+*：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
 * [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
 * [cl-algebraic-data-type](https://github.com/tarballs-are-good/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
-* :star: [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
+*：明星： [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
 * [str](https://github.com/vindarel/cl-str)   - 一个现代，简单和一致的字符串操作库.  [MIT] [200].
 *  [trivial-types](https://github.com/m2ym/trivial-types)   - 提供缺少但重要的类型定义，例如`proper-list`，`association-list`，`property-list`和`tuple`.  [LLGPL] [8].
 * [interface](https://bitbucket.org/tarballs_are_good/interface)   - 协议库.  [3条款BSD] [15].
 * [cl-syntax](https://github.com/m2ym/cl-syntax)   -  Reader语法约定.  [LLGPL] [8].
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax)   - 缩进敏感的阅读器系统.  在Quicklisp上不可用.  未指定许可证.
 * [cl-annot](https://github.com/m2ym/cl-annot)   -  Common Lisp的类似Python的注释.  [LLGPL] [8].
-* :star: [cl-interpol](http://www.cliki.net/cl-interpol)   - 一组允许字符串插值的读者修改.  未指定许可证.
+*：明星： [cl-interpol](http://www.cliki.net/cl-interpol)   - 一组允许字符串插值的读者修改.  未指定许可证.
 * [arrow-macros](https://github.com/hipeta/arrow-macros)   - 类似Clojure的线程宏.  [MIT] [200].
 * [dissect](https://shinmera.github.io/dissect) - 很多时候
   项目使用“琐碎的回溯”系统，只给他们一个
@@ -312,7 +312,7 @@ YAML
 * [trivial-arguments](https://github.com/Shinmera/trivial-arguments) -
    一个可移植的库，用于检索函数的参数列表.  [艺术许可2.0] [51].
 * [modf](https://github.com/smithzvk/modf) - 用于函数式编程的类似setf的宏.
-* [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].
+* [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].  另见更轻量级 [generic-comparability](https://github.com/pnathan/generic-comparability) .  [LLGPL] [8].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
 *  [access](https://github.com/AccelerationNet/access/)   - 对大多数常见数据结构的一致和嵌套访问.  [BSD_3Clause] [15].
 
@@ -320,14 +320,14 @@ YAML
 CLOS扩展
 ---------------
 
-* :star: [closer-mop](http://cliki.net/closer-mop)   - 兼容层，可纠正许多缺失或不正确的MOP功能.  [外籍] [14].
+*：明星： [closer-mop](http://cliki.net/closer-mop)   - 兼容层，可纠正许多缺失或不正确的MOP功能.  [外籍] [14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std)   - 快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
 
 
 Iteration
 ---------
 
-* :star: [iterate](https://common-lisp.net/project/iterate/)   -  Common Lisp的迭代构造，它是可扩展的和Lispier.  未指定许可证.
+*：明星： [iterate](https://common-lisp.net/project/iterate/)   -  Common Lisp的迭代构造，它是可扩展的和Lispier.  未指定许可证.
 * [for](https://shinmera.github.io/for/) - 简洁，lispy和可扩展
    迭代宏.  与循环不同，它是可扩展和合理的，并且
   与迭代不同，它不需要代码行走，而且更容易
@@ -380,7 +380,7 @@ Beginner
 --------
 
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) - 小型Common Lisp教程，涵盖了必需品.
- * [Practical Common Lisp] [206]  -  Common Lisp的一个很好的介绍性文本，附带实例.  （更好地阅读 [a Firefox add-on](https://addons.mozilla.org/de/firefox/addon/beautify-practical-common-lisp/?src=search))
+* [Practical Common Lisp] [206]  -  Common Lisp的一个很好的介绍性文本，附带实例.
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - 对语言的一个很好的介绍.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm)   - 一套很好的入门教程;  包括交互式示例.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - 一本适合初学者的好书，有一些编程背景.
@@ -399,7 +399,7 @@ Intermediate
 Advanced
 --------
 
- * [Let Over Lambda] [156]  - 一本关于高级宏观技术的书.  前六章可在​​线获取.
+* [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - 保罗格雷厄姆关于Lisp宏（和其他有趣的东西）的惊人书籍.
 
 Reference
@@ -439,7 +439,7 @@ Advanced
 Community
 ---------
 
-* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
+* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - 关于Common Lisp的subreddit
 * [common-lisp.net](https://common-lisp.net)
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/T5D2EAJ)
@@ -480,7 +480,7 @@ Credit: [borretti.me' state of CL ecosystem 2015](http://borretti.me/article/com
 ===========================
 
 * [cl-nlp](https://github.com/vseloved/cl-nlp)   - 自然语言处理工具集.  [Apache2.0的] [89].
-* [babel2](http://emergent-languages.org/Babel2/) - 流体构造语法实现，计算框架和基于统一的语法形式[Apache2.0] [89].
+* [babel2](https://github.com/lucas8/Babel2/) - 流体构造语法实现，计算框架和基于统一的语法形式[Apache2.0] [89].
 * [sparser](https://github.com/ddmcdonald/sparser) - 天然
  英语语言理解系统.  [Eclipse的] [209].
 
@@ -502,7 +502,7 @@ HTTP客户端
 HTTP服务器
 ------------
 * [Clack](https://github.com/fukamachi/clack)   - 受Rack和WSGI启发的Web应用程序环境.  [LLGPL] [8].  为所选的Web服务器提供统一的界面（默认为Hunchentoot）.
-* :star: [Hunchentoot](http://weitz.de/hunchentoot/)   -  Web服务器.  [2条款BSD] [207]
+*：明星： [Hunchentoot](http://weitz.de/hunchentoot/)   -  Web服务器.  [2条款BSD] [207]
 * [aserve](https://github.com/franzinc/aserve)   -  AllegroServe;  一个Web服务器.  [LLGPL] [8].
 * [wookie](https://github.com/orthecreedence/wookie)   - 异步HTTP服务器.  [外籍] [14].
 * [woo](https://github.com/fukamachi/woo)   -  libev上的快速非阻塞HTTP服务器.  [MIT] [200].
@@ -557,11 +557,11 @@ Web框架
 
 HTML生成器和模板
 -----------------------------
-*  [spinneret](https://github.com/ruricolist/spinneret)   -  Common Lisp HTML5生成器.  [外籍] [14].
+*  [spinneret](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat][14].
 * [flute](https://github.com/ailisp/flute) - 一个易于组合的HTML5生成库
    最简单的语法.  [MIT] [200].
-* :star: [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
-* :star: [Djula](https://github.com/mmontone/djula)   -  Django的Common Lisp模板引擎端口.  [外籍] [14].
+*：明星： [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
+*：明星： [Djula](https://github.com/mmontone/djula)   -  Django的Common Lisp模板引擎端口.  [外籍] [14].
 * [cl-markup](https://github.com/arielnetworks/cl-markup)   - 现代标记生成库.  [LLGPL] [8].
 * [eco](https://github.com/eudoxia0/eco)   - 快速，灵活，设计师友好的模板引擎.  [外籍] [14].
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
@@ -579,7 +579,7 @@ URI动作
 Javascript
 ----------
 
-* :star: [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
+*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
@@ -612,7 +612,7 @@ Websockets
 ----------------------
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 和它
-  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
+  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - Flexible
    Lisp Blogware类似于Frog，Jekyll或Hakyll.  [BSD] [15].
 
 Deployment
@@ -697,8 +697,8 @@ Others
 并行和并发
 ===========================
 
-* :star: [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)   - 可移植的共享状态并发.  [外籍] [14].
-* :star: [lparallel](https://github.com/lmj/lparallel)   - 用于并行编程的库.  [3条款BSD] [15].
+*：明星： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)   - 可移植的共享状态并发.  [外籍] [14].
+*：明星： [lparallel](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [lfarm](https://github.com/lmj/lfarm)   - 跨机器分配工作（在lparallel和usocket之上）.  [BSD_3Clause] [15]
 * [chanl](https://github.com/zkat/chanl)   - 便携式，基于通道的并发性.  [Expat] [14]，部分在[3条款BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)   - 用于通用非阻塞编程的库.  [外籍] [14].
@@ -732,7 +732,7 @@ Others
 Regex
 =====
 
-* :star: [cl-ppcre](http://weitz.de/cl-ppcre/)   - 便携式，Perl兼容的正则表达式.  [FreeBSD的] [39].
+*：明星： [cl-ppcre](http://weitz.de/cl-ppcre/)   - 便携式，Perl兼容的正则表达式.  [FreeBSD的] [39].
 
 
 Scripting
@@ -772,8 +772,7 @@ Scripting
  程序在32位x86 Linux上只需要20k字节.  WCL也
 支持完整的开发环境，包括动态文件
  加载和调试.  GDB的修改版本用于调试WCL
- 程序，为混合语言调试提供支持.  同
-[a paper](http://pgc.com/commonlisp/wcl-paper.html).
+程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT][200].
 * [cl-all](https://github.com/shinmera/cl-all)   - 在多个实现中运行Lisp代码段的脚本.  这使您可以快速比较实现行为和差异.  [艺术许可2.0] [51].
 
@@ -786,7 +785,7 @@ Scripting
 
 ## Emacs ##
 
-* :star: [Slime](https://github.com/slime/slime)   -  Emacs的高级Lisp交互模式;  Emacs内部Common Lisp的完整环境.  公共区域.
+*：明星： [Slime](https://github.com/slime/slime)   -  Emacs的高级Lisp交互模式;  Emacs内部Common Lisp的完整环境.  公共区域.
 *  [Sly](https://github.com/joaotavora/sly) -  SLY是SLIME的一个分支，并包含多项改进.
 *  [Portacle](https://shinmera.github.io/portacle/) - 便携式多平台Common Lisp环境：SBCL，Quicklisp，Emacs，Slime，Git.
 * [cl-devel2](https://hub.docker.com/r/eshamster/cl-devel2/)   -  Common Lisp开发环境的Docker容器.  使用Slime运送SBCL，CCL，Roswell和Emacs25.
@@ -862,7 +861,7 @@ Tools
 单元测试
 ============
 
-* :star: [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
+*：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
 * [Rove](https://github.com/fukamachi/rove)   -  Rove是Common Lisp应用程序的单元测试框架.  它的目的是成为继承者 [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
@@ -870,7 +869,7 @@ Tools
    条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
-  a stubbed function was called, how many times and with which
+  一个简短的函数被调用，多少次和多少次
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)   - 基于QuickCheck的随机属性测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮助者
@@ -898,7 +897,7 @@ Configuration
 CSV
 ---
 
-* :star: [cl-csv](https://github.com/AccelerationNet/cl-csv)   - 用于解析CSV文件的库.  [3条款BSD] [15].
+*：明星： [cl-csv](https://github.com/AccelerationNet/cl-csv)   - 用于解析CSV文件的库.  [3条款BSD] [15].
 * [cl-decimals](https://github.com/tlikonen/cl-decimals)   - 十进制数解析器和格式化程序.  公共区域.
 * [auto-text](https://github.com/defunkydrummer/auto-text)   - 自动（编码，行尾，列宽，csv定界符等）检测文本文件.  [MIT] [200].  也可以看看 [inquisitor](https://github.com/t-sin/inquisitor) 用于检测亚洲和远东语言.
 
@@ -936,7 +935,7 @@ REPL的常见任务（打印文档，打印外部符号，
    Common Lisp的文档系统.  [MIT] [200].
 * [Staple](https://github.com/Shinmera/staple) - 生成的工具
    使用HTML模板的文档页面.  使用现有
-  自述文件，添加了文档字符串，交叉引用和链接
+  README, adds docstrings, crossreferences and links to the
    CLHS.  [ArtisticLicense2.0] [51].
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)   - 使用BST-to-CL编译器在Common Lisp中兼容重新实现BibTeX程序.  [GNU LGPL2.1] [11].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) - 探索性
@@ -949,7 +948,7 @@ REPL的常见任务（打印文档，打印外部符号，
 文件和目录
 ---------------------
 
-* :star: [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
+*：明星： [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
   （取代 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    并且因此在许多实施方式中被运送.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类似POSIX的系统上的轻量级操作系统接口（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
@@ -985,7 +984,7 @@ Linting
 Logging
 -------
 
-* :star: [log4cl](https://github.com/sharplispers/log4cl/)   -  Log4J之后的Logging框架模型.  [Apache2.0的] [89].  与Slime高级集成.
+*：明星： [log4cl](https://github.com/sharplispers/log4cl/)   -  Log4J之后的Logging框架模型.  [Apache2.0的] [89].  与Slime高级集成.
 * [verbose](https://shinmera.github.io/verbose)   - 快速且高度可配置的日志框架.  [艺术许可2.0] [51].
 
 致第三方：
@@ -1024,7 +1023,7 @@ Other
 * [chipz](https://github.com/froydnj/chipz)   - 解压缩库.  [3条款BSD] [15].
 * [cl-cuda](https://github.com/takagi/cl-cuda)   - 在Common Lisp程序中使用NVIDIA CUDA的库.  [LLGPL] [8].
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.
-* :star: [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].
+*：明星： [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
 * [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
@@ -1043,7 +1042,7 @@ Other
 XML
 ===
 
-* [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
+* [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
  * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].

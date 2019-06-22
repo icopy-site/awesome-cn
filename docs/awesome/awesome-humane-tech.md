@@ -73,11 +73,12 @@
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -  Android应用程序捕获并加密您键入的文本，然后将其传递给实际的应用程序.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Addon，使您能够根据IPv4 / 6范围选择和阻止前5大云公司.
 - [Librefox](https://github.com/intika/Librefox) - 旨在强制实施Firefox隐私和安全而不需要项目的项目.
+- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) - 浏览器扩展，自动将加速移动页面（AMP）重定向到实际的HTML页面. 
 
 ## Tracking
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前线基金会的隐私獾会阻止间谍广告和隐形追踪器.
-- [uBlock Origin](https://github.com/gorhill/uBlock)   - 适用于Chromium和Firefox的高效广谱拦截器.  快速而精益.
+- [uBlock Origin](https://github.com/gorhill/uBlock)   - 适用于各种浏览器的有效阻止程序附加组件.  快速，有力，精益.
 - [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - 分析Android应用程序中的隐私问题.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -  Exodus Privacy应用程序，可让您了解应用程序中嵌入了哪些跟踪器.
 - [Exodify](https://exodify.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FacettsOpen/exodify)   - 想知道某个应用是否在追踪你？  现在，您可以直接在Play商店中看到它.
@@ -182,7 +183,7 @@
 
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/CoralineAda/postmeritocracy) - 精英管理后世界中软件开发人员的价值观和原则.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/get-alex/alex) - 捕捉不敏感，不体谅写作.
-- [Buster](https://github.com/dessant/buster) - 浏览器扩展和人类的Captcha解算器.
+- [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
 
 ## Awareness
 
@@ -208,7 +209,7 @@
 本节适用于仍然对其主题或代码感兴趣的非活动项目.
 
 - [Wi-Fi Privacy Police](https://github.com/BramBonne/privacypolice) - 防止您的智能手机或平板电脑通过Wi-Fi网络泄露隐私敏感信息.
-- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) - 在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown), code still usable).
+- [Data Selfie](https://dataselfie.it) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/d4t4x/data-selfie) - 在Facebook上跟踪自己并分析您的数据（服务器 [discontinued](https://dataselfie.it/#/shutdown)，代码仍然可用）.
 
 ## Related awesomeness
 

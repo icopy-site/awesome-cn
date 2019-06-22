@@ -68,7 +68,7 @@
 下面的polyfills由Polymer团队维护.
 
 - [@webcomponents/custom-elements](https://github.com/webcomponents/polyfills/tree/master/packages/custom-elements) - 用于HTML自定义元素v1的Polyfill.
-- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) - ShadowDOM v1 shim.
+- [@webcomponents/shadydom](https://github.com/webcomponents/polyfills/tree/master/packages/shadydom) -  ShadowDOM v1垫片.
 - [@webcomponents/shadycss](https://github.com/webcomponents/polyfills/tree/master/packages/shadycss) -  ShadowDOM样式封装垫片.
 - [@webcomponents/template](https://github.com/webcomponents/polyfills/tree/master/packages/template)   - `的最小polyfill <template>  `.
 
@@ -173,6 +173,7 @@
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
 - [AMP HTML](https://github.com/ampproject/amphtml) - 用于构建具有可靠和快速性能的Web页面的Web组件库.
+- [carbon-custom-elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用Custom Elements和Shadow DOM构建的Carbon Design System的实验变体.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -  ELMS：LN为任何项目生成Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
@@ -321,7 +322,7 @@
       <td align="center">
         <a href="https://twitter.com/web_components">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div> Web组件</div>
+          <div>Web Components</div>
         </a>
       </td>
     </tr>

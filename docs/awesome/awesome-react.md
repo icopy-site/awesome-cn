@@ -96,7 +96,7 @@
 - [React Cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用React组件的开发工具
 - [ESlint Plugin React](https://github.com/yannickcr/eslint-plugin-react) - 为ESLint制定特定的linting规则
 - [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - 针对JSX元素的a11y规则的静态AST检查器
-- [react-axe](https://github.com/dequelabs/react-axe) -  React应用程序的可访问性审核
+- [React Axe](https://github.com/dequelabs/react-axe) -  React应用程序的可访问性审核
 
 ##### React Frameworks
 
@@ -113,9 +113,9 @@
 
 ##### React Routing
 
-- [react-router](https://github.com/ReactTraining/react-router) -  React的声明性路由
-- [navi](https://github.com/frontarm/navi) -  React的声明性异步路由
-- [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的JavaScript路由器
+- [React Router](https://github.com/ReactTraining/react-router) -  React的声明性路由
+- [Navi](https://github.com/frontarm/navi) -  React的声明性异步路由
+- [Curi](https://github.com/pshrmn/curi) - 用于单页应用程序的JavaScript路由器
 
 ##### React Component Libraries
 
@@ -147,14 +147,6 @@
 - [react-hotkeys](https://reacttraining.com/react-router/) -  React的声明性热键和焦点区域管理
 - [qrcode.react](https://github.com/zpao/qrcode.react) - 用于React的QR组件
 - [rheostat](https://github.com/airbnb/rheostat) - 使用React构建的可访问滑块组件
-- [react-panels - A multipurpose tabbed panel with many features](https://github.com/Theadd/react-panels)
-- [autoresponsive-react - A Magical Layout Library For React](http://xudafeng.github.io/autoresponsive-react)
-- [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
-- [react-input-color - React input color component with hsv color picker](https://github.com/wangzuo/react-input-color)
-- [react-medium-editor - React wrapper for medium-editor](https://github.com/wangzuo/react-medium-editor)
-- [react-progress-label - Progress label component](https://github.com/wangzuo/react-progress-label)
-- [react-input-slider - React input slider component](https://github.com/wangzuo/react-input-slider)
-- [react-range-slider - Collection of react slider components](https://github.com/jpuri/react-range-slider)
 - [react-ui-tree - React tree component with drag and drop support](https://github.com/pqx/react-ui-tree)
 - [react-frame - React components within an iframe for isolated css styling](https://github.com/pqx/react-frame)
 - [rodal - A React modal with animations](https://github.com/chenjiahan/rodal)
@@ -439,6 +431,7 @@
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
+- [immer](https://github.com/immerjs/immer) - 通过改变当前状态来创建下一个不可变状态
 
 ##### Maps
 
@@ -901,6 +894,6 @@
 
 ### Contribution
 
- 这个列表最初是作为关于React的有趣事物的个人收集.  当它开始React处于测试阶段时，有一个特殊的脚本可以将JSX转换为JS，甚至还没有发布Flux.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公共推送实验的地方.  请给我免费的资源.  不过，欢迎您的贡献和建议.  （✿◠‿◠）
+ 这个列表最初是作为关于React的有趣事物的个人收集.  当它开始React处于测试阶段时，有一个特殊的脚本将JSX转换为JS，甚至Flux还没有发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公共推送实验的地方.  请在这里只有完全免费的资源.  不过，欢迎您的贡献和建议.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

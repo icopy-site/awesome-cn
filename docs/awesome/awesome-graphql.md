@@ -133,14 +133,14 @@
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - 为Relay重新组合助手.
 * [Graylay](https://github.com/larsbs/graysql#Graylay) -  GraysQL扩展，用于创建与中继兼容的模式.
 * [react-relay-network-layer](https://github.com/relay-tools/react-relay-network-layer) - 用于中继的网络层，具有查询批处理和中间件支持（urlThunk，retryThunk，auth，defer等）.
-* [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - Subscription support for Relay.
+* [relay-subscriptions](https://github.com/relay-tools/relay-subscriptions) - 对Relay的订阅支持.
 * [Portfolio Relay Example](https://github.com/alex-cory/portfolio) - 一个示例网站，从各种api获取数据，并使用Relay和GraphQL将数据提供给React组件！
 
 <a name="lib-rb" />
 
 ### Ruby Libraries
 
-* [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -  Ruby的GraphQL实现.
+* [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) - Ruby implementation of Facebook's GraphQL.
 * [graphql-client](https://github.com/github/graphql-client) - 用于声明，编写和执行GraphQL查询的Ruby库.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) -  graphql gem的查询批处理执行程序.
 * [agoo](https://github.com/ohler55/agoo) - 实现Facebook的GraphQL的Ruby Web服务器.
@@ -185,6 +185,7 @@
 * [Flask-GraphQL-Auth](https://github.com/callsign-viper/Flask-GraphQL-Auth) - 来自flask-jwt-extended的Flask认证库.
 * [tartiflette](https://github.com/dailymotion/tartiflette) -  GraphQL实现，SDL优先，用于python 3.6+ / asyncio.
 * [tartiflette-aiohttp](https://github.com/dailymotion/tartiflette-aiohttp) -  Tartiflette的包装器，基于aiohttp / 3.6+ / asyncio通过HTTP公开GraphQL API， [official tutorial available on tartiflette.io](https://tartiflette.io/docs/tutorial/getting-started).
+* [Ariadne](https://github.com/mirumee/ariadne)   - 使用模式优先方法实现GraphQL服务器的库.  异步查询执行，包括ASGI，WSGI和流行的web框架的电池， [fully documented](https://ariadnegraphql.org).
 
 <a name="lib-java" />
 
@@ -247,7 +248,7 @@
 * [absinthe-graphql](https://github.com/absinthe-graphql/absinthe) - 功能齐全的Elixir GraphQL库.
 * [graphql-elixir](https://github.com/graphql-elixir/graphql)   -  GraphQL Elixir.  （不再维护）
 * [plug_graphql](https://github.com/graphql-elixir/plug_graphql) -  GraphQL Elixir的插件集成.
-* [graphql_relay](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
+* [graphql_relay](https://github.com/graphql-elixir/graphql_relay) -  GraphQL Elixir的中继助手.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) -  Elixir绑定 [libgraphqlparser](https://github.com/graphql/libgraphqlparser)
 * [graphql](https://github.com/asonge/graphql) -  Elixir GraphQL解析器.
 * [plot](https://github.com/peburrows/plot) -  Elixir的GraphQL解析器和解析器.
@@ -332,6 +333,14 @@
 对于天使框架.
 * [graphql-flutter](https://github.com/zino-app/graphql-flutter) -  Flutter的GraphQL客户端.
 
+<a name="lib-rust" />
+
+### Rust Libraries
+
+* [juniper](https://github.com/mhallin/juniper) -  Rust的GraphQL服务器库.
+* [graphql-client](https://github.com/tomhoule/graphql-client) - 支持WebAssembly（wasm）的Rust的GraphQL客户端库.
+* [graphql-parser](https://github.com/graphql-rust/graphql-parser) -  Rust的GraphQL查询和模式定义语言的解析器，格式化程序和AST.
+
 <a name="tools" />
 
 ## Tools
@@ -354,7 +363,7 @@
 * [graphdoc](https://github.com/2fd/graphdoc) - 用于记录GraphQL Schema的静态页面生成器.
 * [graphql-autocomplete](https://github.com/orionsoft/atom-graphql-autocomplete) -  Atom中GraphQL端点的自动完成和lint.
 * [GraphQL Code Generator](https://github.com/dotansimha/graphql-code-generator) - 基于模式和文档的GraphQL代码生成器.
-* [GraphQL IDE](https://github.com/andev-software/graphql-ide) - 用于探索GraphQL API的扩展IDE.
+* [GraphQL IDE](https://github.com/andev-software/graphql-ide) - An extensive IDE for exploring GraphQL API's.
 * [Swagger to GraphQL](https://github.com/yarax/swagger-to-graphql)   - 基于Swagger中描述的REST API的GraphQL类型构建器.  允许从REST迁移到GraphQL 5分钟
 * [GraphQL Voyager](https://github.com/APIs-guru/graphql-voyager) - 将任何GraphQL API表示为交互式图形.
 * [GraphQL Docs](https://graphql-docs.com) - 即时创建在线托管的精美GraphQL API文档.
@@ -377,6 +386,7 @@
 * [GraphQL Inspector](https://graphql-inspector.com/)   -  GraphQL的工具.  比较模式，验证文档，查找重大更改，查找类似类型，模式覆盖.
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client)   - 为任何GraphQL端点生成强类型客户端库的工具.  客户端允许将GraphQL查询编写为普通的JS对象（具有类型安全性和令人敬畏的代码完成体验）
 * [OASGraph](https://github.com/strongloop/oasgraph) - 采用任何OpenAPI规范（OAS）或swagger并创建GraphQL接口 - 一分钟视频和资源 [here](https://v4.loopback.io/oasgraph.html)
+* [SwitchQL](https://github.com/SwitchQL/SwitchQL) - 自动将数据库模式转换为GraphQL模式，解析器，查询和突变
 
 <a name="databases" />
 
@@ -384,11 +394,14 @@
 
 * [Dgraph](https://dgraph.io/) - 可扩展，分布式，低延迟，高吞吐量Graph数据库，GraphQL作为查询语言
 * [EdgeDB](https://edgedb.com/) - 具有本机GraphQL支持的下一代对象关系数据库.
+* [FaunaDB](https://fauna.com) - 关系NoSQL数据库 [GraphQL schema import.](https://fauna.com/blog/getting-started-with-graphql-part-1-importing-and-querying-your-schema) 支持无服务器每次使用定价的连接，索引和多区域ACID事务.
 
 <a name="services" />
 
 ## Services
 
+* [AWS AppSync](https://aws.amazon.com/appsync/) - 可扩展的托管GraphQL服务，订阅用于构建实时和脱机优先应用程序
+* [FastQL](https://fastql.io/) -  CDN专门用于GraphQL应用程序
 * [Graphcool](https://www.graph.cool/)   - 您自己的GraphQL后端在5分钟内完成.  适用于每个GraphQL客户端，如Relay和Apollo.
 
 <a name="example" />
@@ -448,7 +461,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用graphql-ruby公开Rails应用程序.
 * [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用GitHub的GraphQL API的示例Rails应用程序.
-* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 使用Rails GraphQL服务器进行中继应用的Barebones入门套件.
+* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) -  graphql，relay和标准rails应用程序驱动的演示weblog.
 * [to_eat_app]（https://github.com/jcdavison/to_eat_app） - 一个示例graphql / rails / relay应用程序，包含相关的由3部分组成的系列文章.
 * [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用Agoo服务器演示简单的GraphQL应用程序.

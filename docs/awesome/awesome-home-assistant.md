@@ -52,7 +52,7 @@ Home Assistant是一个开源的家庭自动化系统，可以实现本地控制
 
 Home Assistant目前_recommends_ Hass.io方法.
 
-* [Hass.io](https://www.home-assistant.io/getting-started/) - Installing using a Docker managed environment (recommended method).
+* [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
 * [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - 安装Hassbian.
 * [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - 使用Python虚拟环境手动安装.
@@ -73,7 +73,7 @@ _有多种方式可以与家庭助理社区联系.
 ### Other channels
 
 * [Dr. ZZs](https://www.facebook.com/groups/1969622823351838/) -  Zzs博士的Facebook小组.
-* [Community Hassio Add-ons Discord](https://discord.me/hassioaddons) - 获得社区Hassio附加组件的支持.
+* [Community Hassio Add-ons Discord](https://discord.me/hassioaddons) - Get support on the Community Hassio Add-ons.
 * [ESPHome Discord](https://discord.gg/KhAMKrd) - 获得DIY ESPHome项目的支持.
 
 ## Public Configurations
@@ -141,9 +141,9 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
 * [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从Plex服务器获取统计信息.
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
-* [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
+* [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - Create documents containing live code, equations, visualizations, and explanatory text.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.
-* [ADB](https://github.com/hassio-addons/addon-adb) - The Android Debug Bridge server program.
+* [ADB](https://github.com/hassio-addons/addon-adb) -  Android Debug Bridge服务器程序.
 * [Glances](https://github.com/hassio-addons/addon-glances) - 用Python编写的跨平台系统监视工具.
 * [Matrix](https://github.com/hassio-addons/addon-matrix) - 安全和分散的通信平台.
 * [AdGuard Home](https://github.com/hassio-addons/addon-adguard-home) - 网络范围的广告和跟踪器阻止DNS服务器与父母控制.
@@ -238,6 +238,7 @@ _由社区创建的Home Assistant的附加组件._
 * [iCloud3](https://github.com/gcobb321/icloud3) - 具有许多功能的改进版iCloud设备跟踪器组件.
 * [HACS](https://custom-components.github.io/hacs/) - 这是您的自定义集成（组件）和插件（lovelace元素）需求的管理器.
 * [breaking_changes](https://github.com/custom-components/breaking_changes) - 组件，用于根据加载的组件显示当前发布版本中的潜在break_changes.
+* [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - 昼夜节律灯光可以使您的换色灯与全天常规自然发生的色温同步.
 
 ## DIY
 

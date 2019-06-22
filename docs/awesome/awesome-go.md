@@ -1141,6 +1141,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 *实现对象关系映射或数据映射技术的库.*
 
 * [beego orm](https://github.com/astaxie/beego/tree/master/orm)   - 强大的orm框架.  支持：pq / mysql / sqlite3.
+* [go-firestorm](https://github.com/jschoedt/go-firestorm) -  Google / Firebase Cloud Firestore的简单ORM.
 * [go-pg](https://github.com/go-pg/pg) -  PostgreSQL ORM，专注于PostgreSQL特定的功能和性能.
 * [go-queryset](https://github.com/jirfag/go-queryset) - 具有代码生成的100％类型安全ORM和基于GORM的MySQL，PostgreSQL，Sqlite3，SQL Server支持.
 * [go-sqlbuilder](https://github.com/huandu/go-sqlbuilder) - 灵活且功能强大的SQL字符串构建器库以及零配置ORM.
@@ -1239,7 +1240,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [rootfinding](https://github.com/khezen/rootfinding) - 用于查找二次函数根的根查找算法库.
 * [sparse](https://github.com/james-bowman/sparse) -  Go支持线性代数的稀疏矩阵格式，支持科学和机器学习应用，与gonum矩阵库兼容.
 * [stats](https://github.com/montanaflynn/stats) -  Golang标准库中缺少常用功能的统计包.
-* [streamtools](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
+* [streamtools](https://github.com/nytlabs/streamtools) - 用于处理数据流的通用图形工具.
 * [TextRank](https://github.com/DavidBelicza/TextRank) -  Golang中的TextRank实现，具有可扩展功能（摘要，加权，短语提取）和多线程（goroutine）支持.
 * [triangolatte](https://github.com/tchayen/triangolatte)   -  2D三角测量库.  允许将线条和多边形（均基于点）转换为GPU的语言.
 
@@ -1514,7 +1515,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [hipchat](https://github.com/andybons/hipchat) - 该项目为Hipchat API实现了一个golang客户端库.
 * [hipchat (xmpp)](https://github.com/daneharrigan/hipchat) - 通过XMPP与HipChat通信的golang包.
 * [igdb](https://github.com/Henry-Sarabia/igdb) - 去客户端 [Internet Game Database API](https://api.igdb.com/).
-* [Medium](https://github.com/Medium/medium-sdk-go) - 适用于Medium的OAuth2 API的Golang SDK.
+* [Medium](https://github.com/Medium/medium-sdk-go) - Golang SDK for Medium's OAuth2 API.
 * [megos](https://github.com/andygrunwald/megos) - 用于访问的客户端库 [Apache Mesos](http://mesos.apache.org/) 簇.
 * [minio-go](https://github.com/minio/minio-go) - 适用于Amazon S3兼容云存储的Minio Go Library.
 * [mixpanel](https://github.com/dukex/mixpanel) -  Mixpanel是一个库，用于跟踪事件并从您的应用程序向Mixpanel发送Mixpanel配置文件更新.
@@ -1524,7 +1525,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [pushover](https://github.com/gregdel/pushover) - 转到Pushover API的包装器.
 * [rrdaclient](https://github.com/Omie/rrdaclient)   -  Go Library访问statdns.com API，后者又是RRDA API.  HTTP上的DNS查询.
 * [shopify](https://github.com/rapito/go-shopify) -  Go Library向Shopify API发出CRUD请求.
-* [simples3](https://github.com/rhnvrm/simples3) - 简单没有多余的装饰AWS S3库使用REST和V4签名用Go编写.
+* [simples3](https://github.com/rhnvrm/simples3) - 简单没有多余装饰AWS S3库使用REST和V4签名用Go编写.
 * [slack](https://github.com/nlopes/slack) -  Go中的Slack API.
 * [smite](https://github.com/sergiotapia/smitego) -  Go包以包含对Smite游戏API的访问权限.
 * [spotify](https://github.com/rapito/go-spotify) -  Go Library访问Spotify WEB API.

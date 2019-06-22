@@ -16,10 +16,10 @@
 * [Folktale](http://folktale.origamitower.com/) - 用于JavaScript函数编程的标准库.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - 一个实例 [Lodash](https://github.com/lodash/lodash) 将其方法包装起来，以生成不可变的，自动curried，iteratee-first，data-last方法.
 * [functional.js](http://functionaljs.com) - 轻量级功能JavaScript库，便于currying和无点/默认编程.
-* [101](https://github.com/tjmehta/101) - 一个现代的模块化JavaScript实用程序库，可以很好地与vanilla JavaScript方法配合使用.
+* [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc](https://github.com/algesten/fnuc) -  CoffeeScript（和JavaScript）的功能库，用于促进功能组合和更高阶的功能.
 * [barely-functional](https://github.com/cullophid/barely-functional) - 使用原生ES5 / 6操作的小型（2.7kb）函数编程库.
-* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
+* [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - 承诺的实用函数编程库.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) - 功能导向的实用程序库，有点基于Haskell的Prelude模块.
 * [preludejs](https://github.com/alanrsoares/prelude-js) -  JavaScript的硬核功能编程.
 * [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
@@ -163,6 +163,7 @@
 * [Functional Programming Principles in Javascript](https://medium.freecodecamp.org/functional-programming-principles-in-javascript-1b8fc6c3563f) - 学习函数式编程概念的实用代码示例，如纯函数，不变性，一等实体和高阶函数
 * [Basic Monads in Javascript](https://dev.to/rametta/basic-monads-in-javascript-3el3) - 在Javascript，Maybe＆Either中介绍2个简单的monad.
 * [F# for JavaScript Devs](https://dev.to/rametta/f-for-js-devs-2b88) - Showcasing the similarities between F# and JavaScript
+* [A practical guide to writing more functional Javascript](https://medium.com/@nadeesha/a-practical-guide-to-writing-more-functional-javascript-db49409f71) - 将命令式JavaScript转换为更具说明性的功能性JavaScript的分步指南.
 
 ### Videos
 
