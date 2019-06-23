@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-一系列令人敬畏的软件，库，文档，书籍，资源以及关于安全性的很酷的东西.
+一系列令人敬畏的软件，库，文档，书籍，资源和关于安全性的很酷的东西.
 
 灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python).
 
@@ -21,10 +21,12 @@
 - [Kali](https://www.kali.org/)   -  Kali Linux是一个Debian派生的Linux发行版，专为数字取证和渗透测试而设计.  Kali Linux预装了许多渗透测试程序，包括nmap（端口扫描程序），Wireshark（数据包分析程序），John the Ripper（密码破解程序）和Aircrack-ng（用于渗透测试无线LAN的软件套件） .
 - [pig](https://github.com/rafael-santiago/pig) -  Linux数据包制作工具.
 - [scapy](https://github.com/secdev/scapy) -  Scapy：基于python的交互式数据包操作程序和库.
-- [Pompem](https://github.com/rfunix/Pompem)   -  Pompem是一个开源工具，旨在自动搜索主要数据库中的漏洞.  使用Python开发，具有高级搜索系统，从而促进了测试者和道德黑客的工作.  在其当前版本中，在数据库中执行搜索：Exploit-db，1337day，Packetstorm Security ...
+- [Pompem](https://github.com/rfunix/Pompem)   -  Pompem是一个开源工具，旨在自动搜索主要数据库中的漏洞.  用Python开发，具有高级搜索系统，从而方便了测试者和道德黑客的工作.  在其当前版本中，在数据库中执行搜索：Exploit-db，1337day，Packetstorm Security ...
 - [Nmap](https://nmap.org) -  Nmap是一个免费的开源实用程序，用于网络发现和安全审计.
 - [Amass](https://github.com/caffix/amass) -  Amass通过抓取最大数量的不同数据源，递归强制攻击，爬行网络存档，置换和更改名称，反向DNS扫描和其他技术来执行DNS子域枚举.
 - [Anevicon](https://github.com/Gymmasssorla/anevicon) - 最强大的基于UDP的负载生成器，用Rust编写.
+- [Finshir](https://github.com/Gymmasssorla/finshir) - 用Rust编写的协程驱动的低速和慢速流量发生器.
+- [Legion](https://github.com/GoVanguard/legion) - 开源半自动发现和侦察网络渗透测试框架.
 
 ### Monitoring / Logging
 
@@ -36,6 +38,7 @@
 - [Node Security Platform](https://nodesecurity.io/) - 类似的功能设置为Snyk，但在大多数情况下是免费的，而对其他人来说非常便宜.
 - [ntopng](http://www.ntop.org/products/traffic-analysis/ntop/) -  Ntopng是一个网络流量探测器，显示网络使用情况，类似于流行的顶级Unix命令.
 - [Fibratus](https://github.com/rabbitstack/fibratus)   -  Fibratus是一个用于探索和跟踪Windows内核的工具.  它能够捕获大部分Windows内核活动 - 进程/线程创建和终止，文件系统I / O，注册表，网络活动，DLL加载/卸载等等.  Fibratus有一个非常简单的CLI，它封装了启动内核事件流收集器，设置内核事件过滤器或运行名为filaments的轻量级Python模块的机制.
+- [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -56,8 +59,8 @@
 
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - 规范的令人敬畏的蜜罐列表.
 - [HoneyPy](https://github.com/foospidy/HoneyPy)   -  HoneyPy是一种低到中等交互蜜罐.  它易于：使用插件部署，扩展功能，以及应用自定义配置.
-- [Dionaea](https://www.edgis-security.org/honeypot/dionaea/) - Dionaea is meant to be a nepenthes successor, embedding python as scripting language, using libemu to detect shellcodes, supporting ipv6 and tls.
-- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间，以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
+- [Dionaea](https://www.edgis-security.org/honeypot/dionaea/) -  Dionaea应该是一个nepenthes继承者，将python作为脚本语言嵌入，使用libemu检测shellcode，支持ipv6和tls.
+- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
 - [Amun](https://github.com/zeroq/amun) - 基于Amun Python的低交互蜜罐.
 - [Glastopf](http://glastopf.org/)   -  Glastopf是一个蜜罐，可模拟数千个漏洞，从针对Web应用程序的攻击中收集数据.  其背后的原理非常简单：回复利用Web应用程序的攻击者的正确响应.
 - [Kippo](https://github.com/desaster/kippo) -  Kippo是一个中等交互式SSH蜜罐，用于记录暴力攻击，最重要的是，攻击者执行的整个shell交互.
@@ -66,7 +69,7 @@
 - [Bifrozt](http://sourceforge.net/projects/bifrozt/)   -  Bifrozt是一个带有DHCP服务器的NAT设备，通常部署一个NIC直接连接到Internet，一个NIC连接到内部网络.  Bifrozt与其他标准NAT设备的区别在于它能够在攻击者和蜜罐之间作为透明的SSHv2代理工作.  如果您在Bifrozt的内部网络上部署了SSH服务器，它会以明文形式将所有交互记录到TTY文件中，以后可以查看并捕获已下载的任何文件的副本.  您无需在内部SSH服务器上安装任何其他软件，编译任何内核模块或使用特定版本或类型的操作系统即可.  它会将出站流量限制为一定数量的端口，并在超过某些限制时开始丢弃这些端口上的出站数据包.
 - [HoneyDrive](http://bruteforce.gr/honeydrive)   -  HoneyDrive是首屈一指的蜜罐Linux发行版.  它是安装了Xubuntu Desktop 12.04.4 LTS版本的虚拟设备（OVA）.  它包含10多个预安装和预配置的蜜罐软件包，如Kippo SSH蜜罐，Dionaea和Amun恶意软件蜜罐，Honeyd低交互蜜罐，Glastopf web蜜罐和Wordpot，Conpot SCADA / ICS蜜罐，Thug和PhoneyC蜜客等等.  此外，它还包括许多有用的预配置脚本和实用程序，用于分析，可视化和处理它可以捕获的数据，例如Kippo-Graph，Honeyd-Viz，DionaeaFR，ELK堆栈等等.  最后，在分发中也出现了近90种着名的恶意软件分析，取证和网络监控相关工具.
 - [Cuckoo Sandbox](http://www.cuckoosandbox.org/)   -  Cuckoo Sandbox是一个开源软件，用于自动分析可疑文件.  为此，它使用自定义组件来监视恶意进程在隔离环境中运行时的行为.
-- [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html) - T-Pot is based on the network installer of Ubuntu Server 16/17.x LTS. The honeypot daemons as well as other support components being used have been containerized using docker. This allows us to run multiple honeypot daemons on the same network interface while maintaining a small footprint and constrain each honeypot within its own environment. Installation over vanilla Ubuntu - [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)   - 这个脚本将在新的Ubuntu 16.04.x LTS（64位）上安装T-Pot 16.04 / 17.10.  它旨在用于托管服务器，其中提供了Ubuntu基本映像，并且无法安装自定义ISO映像.  在VMware上的vanilla Ubuntu 16.04.3上成功测试.
+- [T-Pot Honeypot Distro](http://dtag-dev-sec.github.io/mediator/feature/2017/11/07/t-pot-17.10.html)   -  T-Pot基于Ubuntu Server 16 / 17.x LTS的网络安装程序.  蜜罐守护程序以及正在使用的其他支持组件已使用docker进行集装箱化.  这允许我们在同一网络接口上运行多个蜜罐守护进程，同时保持较小的占用空间并限制每个蜜罐在其自己的环境中.  安装在香草Ubuntu上 -  [T-Pot Autoinstall](https://github.com/dtag-dev-sec/t-pot-autoinstall)   - 这个脚本将在新的Ubuntu 16.04.x LTS（64位）上安装T-Pot 16.04 / 17.10.  它旨在用于托管服务器，其中提供了Ubuntu基本映像，并且无法安装自定义ISO映像.  在VMware上的vanilla Ubuntu 16.04.3上成功测试.
 
 ### Full Packet Capture / Forensic
 
@@ -79,7 +82,7 @@
 
 ### Sniffer
 
-- [wireshark](https://www.wireshark.org)   -  Wireshark是一款免费的开源数据包分析器.  它用于网络故障排除，分析，软件和通信协议开发以及教育.  Wireshark与tcpdump非常相似，但有一个图形前端，以及一些集成的排序和过滤选项.
+- [wireshark](https://www.wireshark.org)   -  Wireshark是一款免费的开源数据包分析器.  它用于网络故障排除，分析，软件和通信协议开发以及教育.  Wireshark与tcpdump非常相似，但它有一个图形前端，以及一些集成的排序和过滤选项.
 - [netsniff-ng](http://netsniff-ng.org/)   -  netsniff-ng是一个免费的Linux网络工具包，如果你愿意的话，它是你日常Linux网络管道的瑞士军刀.  通过零复制机制实现其性能提升，因此在数据包接收和传输时，内核不需要将数据包从内核空间复制到用户空间，反之亦然.
 - [Live HTTP headers](https://addons.mozilla.org/de/firefox/addon/live-http-headers/)   - 实时HTTP标头是一个免费的firefox插件，可以实时查看您的浏览器请求.  它显示了请求的整个标头，可用于查找实现中的安全漏洞.
 
@@ -127,6 +130,7 @@
 - `docker pull danmx / docker-owasp-webgoat`  -  [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
 - `docker-compose build &amp;&amp; docker-compose up`  -  [OWASP NodeGoat](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
 - `docker pull citizenstig / nowasp`  -  [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
+- `docker pull bkimminich / juice-shop`  -  [OWASP Juice Shop](https://hub.docker.com/r/bkimminich/juice-shop)
 
 
 ## Endpoint
@@ -156,15 +160,15 @@
 - [Themis](https://github.com/cossacklabs/themis) - 用于保护敏感数据的高级多平台加密框架：具有前向保密和安全数据存储的安全消息（AES256GCM），适用于构建端到端加密应用程序.
 - [Mobile Security Wiki](https://mobilesecuritywiki.com/) - 移动安全资源的集合.
 - [Apktool](https://github.com/iBotPeaches/Apktool) - 用于逆向工程Android apk文件的工具.
-- [jadx](https://github.com/skylot/jadx) - Command line and GUI tools for produce Java source code from Android Dex and Apk files.
+- [jadx](https://github.com/skylot/jadx) - 用于从Android Dex和Apk文件生成Java源代码的命令行和GUI工具.
 - [enjarify](https://github.com/Storyyeller/enjarify) - 用于将Dalvik字节码转换为等效Java字节码的工具.
 - [Android Storage Extractor](https://github.com/51j0/Android-Storage-Extractor) - 一键提取Android应用程序的本地数据存储的工具.
 
 ### Forensics
 
-- [grr](https://github.com/google/grr) -  GRR快速响应是一个专注于远程实时取证的事件响应框架.
+- [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - 基于Python的内存提取和分析框架.
-- [mig](http://mig.mozilla.org/) - MIG is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
+- [mig](http://mig.mozilla.org/)   -  MIG是一个在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -  * ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
 - [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的CLI实用程序和Python API.
 
@@ -173,21 +177,21 @@
 - [abuse.ch](https://www.abuse.ch/) -  ZeuS Tracker / SpyEye Tracker / Palevo Tracker / Feodo Tracker跟踪世界各地的命令和控制服务器（主机），并为您提供域名和IP阻止列表.
 - [Emerging Threats - Open Source](http://doc.emergingthreats.net/bin/view/Main/EmergingFAQ)   - 新兴威胁于10年前开始，作为收集Suricata和SNORT®规则，防火墙规则和其他IDS规则集的开源社区.  开源社区仍然在互联网安全方面发挥积极作用，每天有超过200,000名活跃用户下载规则集.  只要您遵循一些基本准则，ETOpen规则集对任何用户或组织开放.  我们的ETOpen规则集可随时下载.
 - [PhishTank](http://www.phishtank.com/)   -  PhishTank是一个协作清算中心，用于处理有关互联网上网络钓鱼的数据和信息.  此外，PhishTank为开发人员和研究人员提供了一个开放的API，可以免费将反网络钓鱼数据集成到他们的应用程序中.
-- [SBL / XBL / PBL / DBL / DROP / ROKSO](http://www.spamhaus.org/) -  Spamhaus项目是一个国际非营利组织，其任务是跟踪互联网的垃圾邮件操作和来源，为互联网提供可靠的实时反垃圾邮件保护，与执法机构合作，识别和追踪全球的垃圾邮件和恶意软件团伙，以及游说政府采取有效的反垃圾邮件立法.
+- [SBL / XBL / PBL / DBL / DROP / ROKSO](http://www.spamhaus.org/) - The Spamhaus Project is an international nonprofit organization whose mission is to track the Internet's spam operations and sources, to provide dependable realtime anti-spam protection for Internet networks, to work with Law Enforcement Agencies to identify and pursue spam and malware gangs worldwide, and to lobby governments for effective anti-spam legislation.
 - [Internet Storm Center](https://www.dshield.org/reports.html)   - 在成功检测，分析和广泛警告Li0n蠕虫后，ISC于2001年创建.  今天，ISC为成千上万的互联网用户和组织提供免费的分析和警告服务，并积极与互联网服务提供商合作，以打击最恶意的攻击者.
 - [AutoShun](https://www.autoshun.org/) -  AutoShun是一个Snort插件，允许您将Snort IDS日志发送到集中式服务器，该服务器将来自传感器日志的攻击与来自世界各地的其他snort传感器，蜜罐和邮件过滤器相关联.
 - [DNS-BH](http://www.malwaredomains.com/)   -  DNS-BH项目创建并维护已知用于传播恶意软件和间谍软件的域列表.  此项目创建了对localhost的虚假回复所需的Bind和Windows区域文件，以获取对这些文件的任何请求，从而防止许多间谍软件安装和报告.
 - [AlienVault Open Threat Exchange](http://www.alienvault.com/open-threat-exchange/dashboard) -  AlienVault开放式威胁交换（OTX），可帮助您保护网络免受恶意IP地址导致的数据丢失，服务中断和系统损害.
 - [Tor Bulk Exit List](https://metrics.torproject.org/collector.html)   -  CollecTor，您在Tor网络中友好的数据收集服务.  CollecTor从公共Tor网络中的各种节点和服务中获取数据，并将其提供给全世界.  如果您正在研究Tor网络，或者您正在开发使用Tor网络数据的应用程序，那么这是您的起点. [TOR Node List](https://www.dan.me.uk/tornodes) /  [DNS Blacklists](https://www.dan.me.uk/dnsbl) / [Tor Node List](http://torstatus.blutmagie.de/)
 - [leakedin.com](http://www.leakedin.com/)   -  leakedin.com的主要目的是让访问者了解丢失数据的风险.  此博客只汇编丢失或在pastebin.com等网站上披露的数据样本.
-- [FireEye OpenIOCs](https://github.com/fireeye/iocs) -  FireEye公开分享妥协指标（IOC）
+- [FireEye OpenIOCs](https://github.com/fireeye/iocs) - FireEye Publicly Shared Indicators of Compromise (IOCs)
 - [OpenVAS NVT Feed](http://www.openvas.org/openvas-nvt-feed.html)   - 网络漏洞测试（NVT）的公共源.  它包含超过35,000个NVT（截至2014年4月），每天都在增长.  此Feed被配置为OpenVAS的默认值.
-- [Project Honey Pot](http://www.projecthoneypot.org/)   -  Project Honey Pot是第一个也是唯一一个用于识别垃圾邮件发送者和垃圾邮件程序的分布式系统，用于从您的网站获取地址.  使用Project Honey Pot系统，您可以安装自定义标记为您站点访问者的时间和IP地址的地址.  如果其中一个地址开始接收电子邮件，我们不仅可以告知邮件是垃圾邮件，还可以告知邮件收集的确切时刻以及收集邮件的IP地址.
+- [Project Honey Pot](http://www.projecthoneypot.org/)   -  Project Honey Pot是第一个也是唯一一个用于识别垃圾邮件发送者和垃圾邮件程序的分布式系统，用于从您的网站获取地址.  使用Project Honey Pot系统，您可以安装自定义标记为您站点访问者的时间和IP地址的地址.  如果其中一个地址开始接收电子邮件，我们不仅可以告知邮件是垃圾邮件，还可以告知收到地址的确切时刻以及收集邮件的IP地址.
 - [virustotal](https://www.virustotal.com/)   -  Google的子公司VirusTotal是一项免费在线服务，可分析文件和URL，以识别由防病毒引擎和网站扫描程序检测到的病毒，蠕虫，特洛伊木马和其他类型的恶意内容.  同时，它可以用作检测误报的手段，即由一个或多个扫描仪检测为恶意的无害资源.
 - [IntelMQ](https://github.com/certtools/intelmq/)   -  IntelMQ是CERT的解决方案，用于使用消息队列协议收集和处理安全提要，pastebins和推文.  这是一个名为IHAP（事件处理自动化项目）的社区驱动计划，该计划由欧洲CERT在几个InfoSec活动期间进行概念设计.  其主要目标是为事件响应人员提供一种简单的方法来收集和处理威胁情报，从而改善CERT的事件处理流程. [ENSIA Homepage](https://www.enisa.europa.eu/activities/cert/support/incident-handling-automation).
 - [CIFv2](https://github.com/csirtgadgets/massive-octo-spice)   -  CIF是一个网络威胁情报管理系统.  CIF允许您组合来自许多来源的已知恶意威胁信息，并使用该信息进行识别（事件响应），检测（IDS）和缓解（空路由）.
 - [CriticalStack](https://intel.criticalstack.com/) - 针对Bro网络安全监控平台的免费聚合威胁情报.
-- [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/)   -  MISP威胁共享平台是一个免费的开源软件，可帮助分享包括网络安全指标在内的威胁情报信息.  用于收集，共享，存储和关联目标攻击，威胁情报，财务欺诈信息，漏洞信息甚至反恐信息的妥协指标的威胁情报平台.  MISP项目包括软件，通用库（[taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)），一个广泛的数据模型，用于分享新信息 [objects](https://www.misp-project.org/objects.html) 和默认 [feeds](https://www.misp-project.org/feeds/).
+- [MISP - Open Source Threat Intelligence Platform ](https://www.misp-project.org/)   -  MISP威胁共享平台是一个免费的开源软件，可帮助共享威胁情报，包括网络安全指标.  用于收集，共享，存储和关联目标攻击，威胁情报，财务欺诈信息，漏洞信息甚至反恐信息的妥协指标的威胁情报平台.  MISP项目包括软件，通用库（[taxonomies](https://www.misp-project.org/taxonomies.html), [threat-actors and various malware](https://www.misp-project.org/galaxy.html)），一个广泛的数据模型，用于分享新信息 [objects](https://www.misp-project.org/objects.html) 和默认 [feeds](https://www.misp-project.org/feeds/).
 - [PhishStats](https://phishstats.info/) - 网络钓鱼统计信息，搜索IP，域名和网站标题.
 
 ## Web
@@ -212,7 +216,7 @@
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng)   -  Recon-ng是一个用Python编写的功能齐全的Web Reconnaissance框架.  Recon-ng的外观和感觉类似于Metasploit Framework.
 - [PTF](https://github.com/trustedsec/ptf) -  Penetration Testers Framework（PTF）是一种模块化支持最新工具的方法.
 - [Infection Monkey](https://github.com/guardicore/monkey)   - 用于绘图/笔测试网络的半自动笔测试工具.  模拟人类攻击者.
-- [ACSTIS](https://github.com/tijme/angularjs-csti-scanner)   -  ACSTIS可帮助您扫描某些Web应用程序以获取AngularJS客户端模板注入（有时称为CSTI，沙箱转义或沙箱绕过）.  它支持扫描单个请求，但也为AngularJS CSTI漏洞爬网整个Web应用程序.
+- [ACSTIS](https://github.com/tijme/angularjs-csti-scanner)   -  ACSTIS可帮助您扫描某些Web应用程序以获取AngularJS客户端模板注入（有时称为CSTI，沙箱转义或沙箱旁路）.  它支持扫描单个请求，但也为AngularJS CSTI漏洞爬网整个Web应用程序.
 
 ### Runtime Application Self-Protection
 
@@ -221,6 +225,7 @@
 
 ### Development
 
+- [API Security in Action](https://www.manning.com/books/api-security-in-action)   - 书籍API安全性，包括安全开发，基于令牌的身份验证，JSON Web令牌，OAuth 2和Macaroons.  （早期访问，连续发布，2020年夏季最终发布）
 - [Secure by Design](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80)   - 书中标识了设计模式和编码样式，使得许多安全漏洞不太可能发生.  （早期访问，连续发布，2017年秋季发布）
 - [Securing DevOps](https://www.manning.com/books/securing-devops)   - 本书探讨了如何将DevOps和Security的技术应用于一起，以使云服务更安全.  （早期访问，连续发布，最终发布于2018年1月）
 - [Understanding API Security](https://www.manning.com/books/understanding-api-security) - 免费电子书采样器，通过展示如何将API组合在一起以及如何使用OAuth协议来保护它们，为API安全在现实世界中的工作方式提供了一些背景.
@@ -252,7 +257,7 @@
 
 ### Online resources
 
-- [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - 完整的安全相关操作系统列表
+- [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
 - [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - 主要渗透测试分布的描述
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - 致力于讨论，审查和跟上开源操作系统的网站
 
@@ -270,7 +275,7 @@
 - [Sops](https://github.com/mozilla/sops) - 使用AWS KMS和PGP支持YAML，JSON和BINARY格式和加密的加密文件编辑器.
 - [passbolt](https://www.passbolt.com/)   - 您的团队正在等待的密码管理器.  基于OpenPGP的免费，开源，可扩展.
 - [passpie](https://github.com/marcwebbie/passpie) - 多平台命令行密码管理器
-- [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
+- [Vault](https://www.vaultproject.io/) - 加密的数据存储，足以保存环境和应用程序机密.
 
 ## EBooks
 
@@ -290,7 +295,7 @@
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - 精选黑客教程，工具和资源的精选列表.
 - [Awesome Honeypots](https://github.com/paralax/awesome-honeypots) - 一个很棒的蜜罐资源列表.
 - [Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis) - 精选恶意软件分析工具和资源的精选列表.
-- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces.
+- [Awesome PCAP Tools](https://github.com/caesar0301/awesome-pcaptools) - 计算机科学领域其他研究人员开发的一系列工具，用于处理网络痕迹.
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest) - 一系列令人敬畏的渗透测试资源，工具和其他闪亮的东西.
 - [Awesome Linux Containers](https://github.com/Friz-zy/awesome-linux-containers) - 精选的Linux容器框架，库和软件的精选列表.
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - 事件响应资源的策划列表.
@@ -298,10 +303,11 @@
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - 策划的威胁情报资源列表.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - 收集用于测试的备忘单
 - [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - 与工业控制系统（ICS）安全相关的精选资源列表.
-- [Awesome YARA](https://github.com/InQuest/awesome-yara) - 精选的YARA规则，工具和人员的精选列表.
+- [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.
 - [Awesome Threat Detection and Hunting](https://github.com/0x4D31/awesome-threat-detection) - 精选威胁检测和狩猎资源的精选列表.
-- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - 与容器构建和运行时安全性相关的精彩资源的精选列表
+- [Awesome Container Security](https://github.com/kai5263499/container-security-awesome) - 与容器构建和运行时安全性相关的精彩资源的策划列表
 - [Awesome Crypto Papers](https://github.com/pFarb/awesome-crypto-papers) - 密码学论文，文章，教程和howtos的精选列表.
+- [Awesome Shodan Search Queries](https://github.com/jakejarvis/awesome-shodan-queries) - 一系列有趣，有趣，令人沮丧的搜索查询，可插入Shodan.io.
 
 ### Other Common Awesome Lists
 

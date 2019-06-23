@@ -30,7 +30,7 @@ list.
  Github的替代品.  优先考虑[自由软件] [13]和
 对物质资源不邪恶的卖家.
 
-<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
+<!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 
 
 <!-- markdown-toc end -->
@@ -120,7 +120,7 @@ ORMs
 Wrappers
 --------
 
-*：明星： [postmodern](http://marijnhaverbeke.nl/postmodern/)   - 用于与PostgreSQL交互的库.  [ZLIB] [33].
+*：明星： [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
 * [cl-sqlite](https://github.com/dmitryvk/cl-sqlite)   -  SQLite的绑定.  公共区域.
 * [cl-memcached](https://github.com/quasi/cl-memcached)   -  Memcached对象缓存系统的快速，线程安全的接口.  [外籍] [14].
 * [cl-mongo](https://github.com/fons/cl-mongo)   -  MongoDB客户端.  [外籍] [14].
@@ -168,10 +168,6 @@ Tools
 
 * [cl+j](https://common-lisp.net/project/cl-plus-j/)   - 通过CFFI到JVM的基于JNI的接口.  在Quicklisp上不可用.  不能可靠地适用于所有实现.  [外籍] [14].
 
-## Miscellaneous ##
-
-* [Foil](http://foil.sourceforge.net/)   - 外来对象接口;  适用于JVM和CLI.  在Quicklisp上不可用.  [CPL 1.0] [47].
-
 ## Objective-C ##
 
 * [objc-lisp-bridge](https://github.com/fiddlerwoaroof/objc-lisp-bridge)   - 便携式阅读器和桥接器，用于与Objective-C和Cocoa交互.  [MIT] [200].
@@ -184,6 +180,15 @@ Tools
 * [cl-python](https://github.com/metawilm/cl-python)   -  Common Lisp中的Python实现.  [LLGPL] [8].
 
 也可以看看 [async-process](https://github.com/cxxxr/async-process/).
+
+## .Net Core
+
+* [Bike](https://github.com/Lovesan/bike)   - 跨平台.Net Core界面.  [MIT] [200].
+
+## Miscellaneous ##
+
+* [Foil](http://foil.sourceforge.net/)   - 外来对象接口;  适用于JVM和CLI.  在Quicklisp上不可用.  [CPL 1.0] [47].
+
 
 游戏开发
 ================
@@ -399,7 +404,7 @@ Intermediate
 Advanced
 --------
 
-* [Let Over Lambda][156] - A book on advanced macro techniques. The first six chapters are available online.
+ * [Let Over Lambda] [156]  - 一本关于高级宏观技术的书.  前六章可在​​线获取.
 * [On Lisp](http://www.paulgraham.com/onlisp.html) - 保罗格雷厄姆关于Lisp宏（和其他有趣的东西）的惊人书籍.
 
 Reference
@@ -439,7 +444,7 @@ Advanced
 Community
 ---------
 
-* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - 关于Common Lisp的subreddit
+* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
 * [common-lisp.net](https://common-lisp.net)
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/T5D2EAJ)
@@ -557,7 +562,7 @@ Web框架
 
 HTML生成器和模板
 -----------------------------
-*  [spinneret](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat][14].
+*  [spinneret](https://github.com/ruricolist/spinneret)   -  Common Lisp HTML5生成器.  [外籍] [14].
 * [flute](https://github.com/ailisp/flute) - 一个易于组合的HTML5生成库
    最简单的语法.  [MIT] [200].
 *：明星： [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
@@ -579,7 +584,7 @@ URI动作
 Javascript
 ----------
 
-*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
+*：明星： [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
@@ -612,7 +617,7 @@ Websockets
 ----------------------
 
 * [coleslaw](https://github.com/kingcons/coleslaw) 和它
-  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - Flexible
+  [coleslaw-cli](https://github.com/40ants/coleslaw-cli) - 灵活
    Lisp Blogware类似于Frog，Jekyll或Hakyll.  [BSD] [15].
 
 Deployment
@@ -670,7 +675,7 @@ Others
 数值和科学
 ========================
 
-* [numcl](https://github.com/numcl/numcl) - Numpy clone in Common Lisp. [LGPL3][9].
+* [numcl](https://github.com/numcl/numcl)   -  Common Lisp中的Numpy克隆.  [LGPL3] [9].
 * [magicl](https://github.com/rigetticomputing/magicl)   -  Matrix Algebra proGrams在Common Lisp中基于BLAS / LAPACK和Expokit，由Rigetti Computing提供.  [BSD_3Clause] [15].
 * [cl-spark](https://github.com/tkych/cl-spark)   - 为数字列表生成迷你字符串.  [外籍] [14].
 * [GSLL](https://common-lisp.net/project/gsll/)   - 用于Lisp的GNU科学图书馆;  允许使用Common Lisp中的GSL.  [GNU LGPL2.1] [11].
@@ -698,7 +703,7 @@ Others
 ===========================
 
 *：明星： [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/)   - 可移植的共享状态并发.  [外籍] [14].
-*：明星： [lparallel](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
+*：明星： [lparallel](https://github.com/lmj/lparallel)   - 用于并行编程的库.  [3条款BSD] [15].
 * [lfarm](https://github.com/lmj/lfarm)   - 跨机器分配工作（在lparallel和usocket之上）.  [BSD_3Clause] [15]
 * [chanl](https://github.com/zkat/chanl)   - 便携式，基于通道的并发性.  [Expat] [14]，部分在[3条款BSD] [15]下.
 * [cl-async](https://github.com/orthecreedence/cl-async)   - 用于通用非阻塞编程的库.  [外籍] [14].
@@ -770,7 +775,7 @@ Scripting
  Lisp和C代码可以生成高效的应用程序.  例如，
 可执行的规范“Hello World！”的Lisp版本
  程序在32位x86 Linux上只需要20k字节.  WCL也
-支持完整的开发环境，包括动态文件
+supports a full development environment, including dynamic file
  加载和调试.  GDB的修改版本用于调试WCL
 程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT][200].
@@ -817,7 +822,7 @@ Scripting
 
 * [Sublime Text](http://www.sublimetext.com/3) 有Common Lisp支持
    使用“SublimeREPL”包.  [所有权].
-  
+
 ## VSCode ##
 
 * [VSCode-lisp](https://marketplace.visualstudio.com/items?itemName=mattn.Lisp)  扩展以支持Lisp语法.  它是 [on the GitHub](https://github.com/mattn/vscode-lisp).
@@ -935,7 +940,7 @@ REPL的常见任务（打印文档，打印外部符号，
    Common Lisp的文档系统.  [MIT] [200].
 * [Staple](https://github.com/Shinmera/staple) - 生成的工具
    使用HTML模板的文档页面.  使用现有
-  README, adds docstrings, crossreferences and links to the
+  自述文件，添加了文档字符串，交叉引用和链接
    CLHS.  [ArtisticLicense2.0] [51].
 * [cl-bibtex](https://github.com/mkoeppe/cl-bibtex)   - 使用BST-to-CL编译器在Common Lisp中兼容重新实现BibTeX程序.  [GNU LGPL2.1] [11].
 * [mgl-pax](https://github.com/melisgl/mgl-pax) - 探索性
@@ -949,7 +954,7 @@ REPL的常见任务（打印文档，打印外部符号，
 ---------------------
 
 *：明星： [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
-  （取代 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
+  (replaces [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    并且因此在许多实施方式中被运送.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类似POSIX的系统上的轻量级操作系统接口（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个
@@ -1042,7 +1047,7 @@ Other
 XML
 ===
 
-* [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
+* [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
  * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].

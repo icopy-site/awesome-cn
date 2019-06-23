@@ -33,7 +33,7 @@
 - [Bond](https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
-- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
 - [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
@@ -54,7 +54,7 @@
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
-- [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
+- [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -119,7 +119,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用Clang命令完成和诊断C / C ++ / Objective-C.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery)  支持数百万行代码库，由libclang提供支持.  交叉引用，完成，诊断，语义突出显示等.
 
-## C\#
+## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 细节
 
@@ -132,6 +132,14 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 
 ![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
+
+- [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+
+![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
+
+- [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+
+![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
 
 ## Clojure
 
