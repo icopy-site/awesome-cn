@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
 [awesome-link]：https：//github.com/sindresorhus/awesome
 [awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[travis-link]：https：//travis-ci.org/awesome-css-group/awesome-css
+[travis link]：https：//travis-ci.org/awesome-css-group/awesome-css
 [travis-badge]：https：//travis-ci.org/awesome-css-group/awesome-css.svg？branch = master
 
 ## Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
@@ -100,7 +100,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Toolkits :wrench:
 
 * [Bourbon](http://bourbon.io/) -  Sass的简单轻量级mixin库.
-* [Susy](http://susy.oddbird.net/) -  Sass的响应式布局工具包.
+* [Susy](https://www.oddbird.net/susy/) -  Sass的响应式布局工具包.
 
 <sub>[⇧ back to top](#contents)</sub>
 

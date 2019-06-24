@@ -168,7 +168,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 
 ## SQL Server
 
-- [dbachecks](https://dbachecks.io) -  SQL Server环境验证（众包SQL Server DBA检查表）
+- [dbachecks](https://dbachecks.io) -  SQL Server环境验证（众包SQL Server DBA清单）
 - [dbatools](https://dbatools.io) - 通过实例迁移等方式帮助SQL Server专业人员提高工作效率.
 
 ## Misc
@@ -178,3 +178,4 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
   探索和调用私人API，就像没有人在看.
   适用于安全研究，测试和快速黑客攻击.
 - [psInlineProgress](https://github.com/gravejester/psInlineProgress) - 在PowerShell中编写内联进度条. 
+- [Graphical](https://github.com/PrateekKumarSingh/graphical) -  PowerShell模块绘制彩色控制台2D图形（散点图，条形图，线条）

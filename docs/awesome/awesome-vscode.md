@@ -881,6 +881,14 @@ Visual Studio Code的GitHub主题.
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/thomaspink.theme-github.png" width="600" />
 </a>
 
+### [Jellybeans Theme by Dimitar Nonov](https://vscodethemes.com/e/DimitarNonov.jellybeans-theme)
+
+Visual Studio Code的Jellybeans主题.
+
+<a href="https://vscodethemes.com/e/DimitarNonov.jellybeans-theme">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/jellybeans-theme.png" width="600" />
+</a>
+
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
 
 Visual Studio Code的优雅和多汁的材料主题.
@@ -923,7 +931,7 @@ Monokai的主题灵感来自于 [Visual Studio Code](https://vscodethemes.com/e/
 
 ### [Night Owl by Sarah Drasner](https://vscodethemes.com/e/sdras.night-owl)
 
-A VS Code theme for the night owls out there. Works well in the daytime, too, but this theme is fine-tuned for those of us who like to code late into the night. Color choices have taken into consideration what is accessible to people with color blindness and in low-light circumstances. Decisions were also based on meaningful contrast for reading comprehension and for optimal razzle dazzle. ✨
+ 一个VS Code主题为夜猫子们.  在白天工作也很好，但这个主题适合我们这些喜欢编码到深夜的人.  颜色选择考虑了色盲和光线不足的人可以获得的颜色.  决定也是基于阅读理解和最佳炫目炫目的有意义的对比.  ✨
 
 <a href="https://marketplace.visualstudio.com/items?itemName=sdras.night-owl">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/night-owl.png" width=600 />
