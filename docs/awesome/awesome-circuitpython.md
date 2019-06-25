@@ -70,8 +70,10 @@
 - [Dave Astels](http://daveastels.com/feather-m0-express-supersizing.html) -  Feather M0 Supersized，Trinket M0 Haxpress.
 - [Max Holliday](https://github.com/RoboticExplorationLab/sprite) -  KickSat Sprite，SAM32.
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) -  uChip
+- [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
+- [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
 
-将新电路板添加到circuitpython.org上的CircuitPython列表中：请在GitHub上执行pull请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息以映射新电路板.
+将新电路板添加到CircuitPython列表中 [circuitpython.org](https://circuitpython.org)：请在GitHub上做拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息以映射新电路板.
 
 [CircuitPython sensors and accessories](https://www.adafruit.com/category/956) - 传感器，LCD，显示器，机器人，分线板等的完整列表.
 

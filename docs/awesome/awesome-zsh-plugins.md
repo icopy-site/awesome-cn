@@ -157,7 +157,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 
 ### [ZPM](https://github.com/zpm-zsh/zpm)
 
-**ZPM** ( ZSH Plugin Manager ) is a plugin manager for [ZSH](http://www.zsh.org/)  类似于vim-plug.  ZPM插件兼容 [oh-my-zsh](http://ohmyz.sh/) .  ZPM运行在Linux，macOS，FreeBSD和Android上.
+** ZPM **（ZSH插件管理器）是一个插件管理器 [ZSH](http://www.zsh.org/)  类似于vim-plug.  ZPM插件兼容 [oh-my-zsh](http://ohmyz.sh/) .  ZPM运行在Linux，macOS，FreeBSD和Android上.
 
 ### [ZR](https://github.com/jedahan/zr)
 
@@ -412,7 +412,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [history](https://github.com/b4b4r07/zsh-history) - 扩展历史记录，以便SQL可以查询它.
 * [hooks](https://github.com/willghatch/zsh-hooks) - 添加缺失的钩子 - 用于插件和个人使用.
 * [host-switch](https://github.com/LockonS/host-switch) - 在开发过程中更容易切换到不同的`/ etc / hosts`文件.
-* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) - 一个简单的插件，用于为您的ZSH主题添加`hub` ci-status.
+* [hub-ci-zsh-plugin](https://github.com/raymondjcox/hub-ci-zsh-plugin) - A simple plugin for adding `hub` ci-status to your ZSH theme.
 * [igit](https://github.com/ytakahashi/igit) - 使用交互式`git`命令 [fzf](https://github.com/junegunn/fzf).
 * [ing](https://github.com/rummik/zsh-ing) - `ping`，但输出更短.
 * [intellij](https://github.com/mgryszko/intellij) - 将intellij书签提取为markdown格式.
@@ -574,7 +574,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [t32](https://github.com/chrissicool/zsh-t32)   -  Lauterbach Trace32工具集的插件.  它会自动注册字体并设置所有必要的环境变量来运行t32工具集.
 * [tailf](https://github.com/rummik/zsh-tailf) - 添加带有前缀换行符的`tailf`函数，而不是尾随换行符.
 * [taskbook](https://github.com/mastern2k3/taskbook-zsh-plugin) - 自动完成任务簿的任务编号.
-* [terminal-app](https://github.com/the8/terminal-app.zsh) - A plugin for integrating with the new El Capitan Terminal.app features.
+* [terminal-app](https://github.com/the8/terminal-app.zsh) - 用于集成新El Capitan Terminal.app功能的插件.
 * [terminal-workload-report](https://github.com/LockonS/terminal-workload-report) - 一个插件，用于计算和显示已通过终端运行的命令数.
 * [terraform](https://github.com/pbar1/zsh-terraform) -  ZSH的Terraform便利功能和别名.
 * [terragrunt](https://github.com/hanjunlee/terragrunt-oh-my-zsh-plugin) - 插件 [Terragrunt](https://github.com/gruntwork-io/terragrunt)，一个薄的包装 [Terraform](https://terraform.io/) 这提供了额外的工具.
@@ -820,7 +820,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [clean (BrandonRoehl)](https://github.com/BrandonRoehl/zsh-clean) - 极简主义的变种 [pure](https://github.com/sindresorhus/pure) .  纯净不干净，干净不纯净.
 * [cloudy](https://github.com/Huvik/Cloudy) - 最小的阴天ZSH主题.
 * [clover](https://github.com/tzing/clover.zsh-theme) - 灵感来自 [zeta-zsh-theme](https://github.com/skylerlee/zeta-zsh-theme) 和 [pure](https://github.com/sindresorhus/pure).
-* [cmder-wsl](https://github.com/szyminson/cmder-wsl-zsh) - 配置文件 [cmder](http://cmder.net/) 配置为使用ZSH和修改后的地震模式工作 [Agnoster](https://gist.github.com/agnoster/3712874) 主题.
+* [cmder-wsl](https://github.com/szyminson/cmder-wsl-zsh) - 配置文件 [cmder](http://cmder.net/) configured to work in quake mode with ZSH and a modified [Agnoster](https://gist.github.com/agnoster/3712874) 主题.
 * [cmder](https://github.com/potasiyam/cmder-zsh-theme) - 一个ZSH主题，与Cmder的主题相匹配，Cmder是一个流行的Windows终端模拟器.
 * [cobalt2](https://github.com/wesbos/Cobalt2-iterm) -  Wes Bos的Cobalt 2主题为ZSH和iTerm 2.
 * [cobalt2git](https://github.com/alexeimun/cobalt2git) -  Cobalt 2主题与`git`扩展.
@@ -916,6 +916,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [infoline](https://github.com/hevi9/infoline-zsh-theme) - 清洁主题，显示`git`状态，后台作业，远程主机和其他信息.
 * [intheloop-powerline](https://github.com/zyphrus/intheloop-powerline) - 延伸 [intheloop](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/intheloop.zsh-theme) 主题使用powerline字体.
 * [itg](https://github.com/itsthatguy/itg.zsh-theme) -  itsthatguy的主题.
+* [jake](https://github.com/JakeHuneau/Jake.zsh-theme) - 显示时间，当前目录和`git`分支信息，包括分支名称和红色+，如果分支具有未推送的更改.
 * [jam](https://github.com/jesusangelm/Jam-Zsh-Theme) - 针对深色背景进行了优化，包括`git`状态和`rvm`状态.
 * [jbrain4](https://github.com/jbrain4/jbrain4-zsh-theme) - 变种oh-my-zsh的股票bira主题.
 * [jc](https://github.com/jclementex/jc-zsh-theme) - 对于黑暗终端背景，包括`git`状态信息.

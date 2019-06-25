@@ -31,7 +31,7 @@
 - [Bed Room Producers Blog](http://bedroomproducersblog.com/free-samples/)
 - [Free Music Archive](http://freemusicarchive.org/)
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
-- [How to Make Eletronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
+- [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 
 ## Experiments
@@ -52,14 +52,14 @@
 - [Fluctus](http://jojo.ninja/fluctus/) -  Jordan Machado的实验3D Audio Visualizer.
 - [George & Jonathan III](http://www.georgeandjonathan.com/) - 乔治和乔纳森的“III”专辑的竞选活动.
 - [Goy Goy](http://goy-goy.herokuapp.com/) - 使用HTML5 Canvas，socket.io和audiolet.js制作的多人Chrome实验.
-- [Lantern](https://www.uberviz.io/viz/lantern/) - WebGL Visualizer for "Lantern" by SBTRKT.
+- [Lantern](https://www.uberviz.io/viz/lantern/) -  SBTRKT的“Lantern”WebGL Visualizer.
 - [Lines](http://labs.fluuu.id/lines/) - 将Sil Division Paganini的Joy Division专辑封面可视化为音乐谱.
 - [Nero](https://www.uberviz.io/viz/nero/) -  Nero的“In The Way”的WebGL Visualizer.
 - [OMM](http://ommexperience.com/) - 探索创造力的互动视听体验.
 - [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - 威尼斯人Snares的“不幸”WebGL Visualizer.
 - [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 具有Leap Motion交互性的5种不同声音可视化效果.
 - [Splice](https://www.uberviz.io/viz/splice/) - 使用Splice即将推出的可视化API的时间码数据的实时交互式音乐可视化工具.
-- [Typatone](http://www.typatone.com/) - 写作时制作音乐.
+- [Typatone](http://www.typatone.com/) - Make music while you write.
 - [Yume](http://unseen-music.com/yume/) -  Helios&#39;“Yume”专辑的竞选活动.
 - [Spins](http://mattdesl.github.io/spins/) - 由Matt DesLauriers在极坐标中渲染波形的Audio Visualizer.
 - [Silk](http://mattdesl.github.io/codevember/21.html) -  Matt DesLauriers的3D Audio Visualizer.
@@ -68,7 +68,7 @@
 - [Beatgrid](http://mattdesl.github.io/codevember/8.html) - 使用Matt DesLauriers的音频节拍检测实验.
 - [Party](http://mattdesl.github.io/codevember/13.html) -  Matt DesLauriers的2D Audio Visualizer.
 - [Word Problems](https://www.uberviz.io/viz/word-problems/) - 用于Harmonic 313的“Word Problems”的WebGL Visualizer.
-- [Here Comes The Sun](http://shiz.co/beatlescode/)   - 披头士乐队的歌曲“Here Comes The Sun”的可视化表示，该歌曲由Processing and Processing.js开发的算法动态生成.  作者：Marcio Ribeiro.
+- [Here Comes The Sun](http://shiz.co/beatlescode/)   - 披头士乐队的歌曲“Here Comes The Sun”的视觉表现，由“Processing and Processing.js”开发的算法动态生成.  作者：Marcio Ribeiro.
 - [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - 基于快速傅里叶变换谱的音频分析的反应粒子系统.
 - [Glitch](http://naivesound.com/glitch/) - 用于从数学中制作音乐的算法合成器.
 - [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) -  Clara Rockmore生日的涂鸦.
@@ -125,10 +125,11 @@
 - [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) 由Suraya Shivji用Three.js和p5.js构建的每周音乐可视化实验.
 - [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - 使用Pixi.js构建的有趣的网络音频可视化工具.
 - [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - 应用组合模式生成网络从音频数据生成有趣的视觉效果.
+- [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) -  Chrome扩展程序，可在您的YouTube页面上提供音频可视化，并带有精美的音符.
 
 ## Experiments on Codepen
 
-- [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - 播放由SVG和@iamjoshellis逼真的声音制作的惊人鼓.
+- [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - 播放由SVG制作的惊人鼓和@iamjoshellis的逼真声音.
 - [SVG Animated Guitar](http://codepen.io/iamjoshellis/full/qbBKZB/) - 播放由SVG制作的惊人吉他和@iamjoshellis的逼真声音.
 - [Audio Visualizer](http://codepen.io/Francext/full/yIogq/) -  Francesco Trillini使用Three.js的抽象Audio Visualizer
 - [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/) - 由Alex Permyakov按频率和幅度线构成的径向音频播放器
@@ -140,7 +141,7 @@
 - [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/) - 使用Joe Harry的音序器创建音乐.
 - [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - 基于Luigi Mannoni的HTML5 AudioContext API的ThreeJS / WebGL Soundcloud播放器/可视化器.
 - [Oscilator](http://codepen.io/easwee/pen/sFpmo) - 由AnejGorkič从HTML5音频API测试振荡器节点.
-- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) -  Patrick Heng为Codevember 2015做的第10次贡献.
+- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) - 10th contribution for codevember 2015 by Patrick Heng.
 - [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
 - [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
 - [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) -  Tim Pietrusky使用惊人的分析仪进行音频可视化.
@@ -163,6 +164,7 @@
 - [Octavian](https://github.com/stevekinney/octavian) - 用于推理音符，频率和间隔的实用程序
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - 音频波形数据处理API  - 用JavaScript重新采样，偏移和分段波形数据.
 - [audiowaveform](https://github.com/bbc/audiowaveform) - 用于生成波形数据和从音频文件渲染波形图像的C ++程序.
+- [Aubio](https://aubio.org) - 用于实时音频标签的C库，带有Python和PD的绑定，支持ofx和Vamp.
   
 
 ## Libraries Visualization
@@ -172,7 +174,7 @@
 - [sketch.js](http://soulwire.github.io/sketch.js/) - 让您直接了解创意编码的有趣部分，无需担心垫片或样板代码.
 - [three.js](http://threejs.org/) -  Three.js是一个使WebGL易于使用的库.
 - [Two.js](https://jonobr1.github.io/two.js/)   - 面向现代Web浏览器的二维绘图API.  它与渲染器无关，允许相同的API在多个上下文中绘制：SVG，Canvas和WebGL.
-- [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
+- [BabylonJS](http://babylonjs.com/) - 用于使用HTML5，WebGL和Web Audio构建3D游戏的完整JavaScript框架.
 - [Web Audio Extension](https://github.com/spite/WebAudioExtension) - 用于播放网络音频的Chrome扩展程序.
 - [Cinder](https://libcinder.org/) - 社区开发的免费开源库，用于C ++中的专业品质创意编码.
 - [Processing](https://www.processing.org/) - 为电子艺术，新媒体艺术和视觉设计社区构建的开源编程语言和集成开发环境.

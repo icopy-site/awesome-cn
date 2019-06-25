@@ -89,7 +89,6 @@
 * [IntentKit](https://github.com/intentkit/IntentKit) - 在iOS应用中处理第三方URL方案的更简单方法.
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - 使用简单的基于块的API的iOS URL路由库.
 * [IKRouter](https://github.com/IanKeen/IKRouter) -  URLScheme路由器，支持为关联的url参数自动创建UIViewControllers，以允许创建导航堆栈
-* [Compass](https://github.com/hyperoslo/Compass) - ：earth_africa：Compass可帮助您为应用程序设置中央导航系统
 * [Appz](https://github.com/SwiftKitz/Appz) - 轻松启动并深入链接到外部应用程序，如果未安装，则回退到Web.
 * [URLNavigator](https://github.com/devxoul/URLNavigator) - ⛵️Swift的优雅URL路由
 * [Marshroute](https://github.com/avito-tech/Marshroute) -  Marshroute是一个iOS库，可让您的路由器变得简单但功能强大.
@@ -237,7 +236,7 @@
 * [FSInteractiveMap](https://github.com/ArthurGuibert/FSInteractiveMap)   - 用于在iOS上可视化和与矢量地图交互的图表库.  这就像Geochart，但对于iOS！
 * [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) -  iOS开源雷达图实现.
 * [TKRadarChart](https://github.com/TBXark/TKRadarChart) -  Swift中可定制的雷达图表
-* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie) - Awesome layer based pie chart. Fantastically fast and fully customizable. Amazing animations available with MagicPie!!1  🎉 ✨✨✨✨✨
+* [MagicPie](https://github.com/AlexandrGraschenkov/MagicPie)   - 令人敬畏的基于图层的饼图.  非常快速且完全可定制.  MagicPie提供惊人的动画!! 1✨✨✨✨✨
 * [PieCharts](https://github.com/i-schuetz/PieCharts) - 易于使用和高度可定制的iOS饼图库.
 * [CSPieChart](https://github.com/youkchansim/CSPieChart)   -  iOS PieChart Opensource.  这非常易于使用和定制.
 * [DDSpiderChart](https://github.com/dadalar/DDSpiderChart) - 易于使用和可定制的Spider（Radar）用Swift编写的iOS图表库.
@@ -452,7 +451,7 @@
 * [Differ](https://github.com/tonyarnold/Differ) -  Swift库，用于在集合之间生成差异和补丁.
 * [Probably](https://github.com/harlanhaskins/Probably) - 一个Swift概率和统计库.
 * [RandMyMod](https://github.com/jamesdouble/RandMyMod) -  RandMyMod基于您自己的结构或类创建一个或一组随机化实例.
-* [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) -  KeyPathKit提供了一种使用类型化键路径操作数据的无缝语法.
+* [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) - KeyPathKit provides a seamless syntax to manipulate data using typed keypaths.
 * [Differific](https://github.com/zenangst/Differific) - 快速方便的差异框架.
 * [OneWaySynchronizer](https://github.com/ladeiko/OneWaySynchronizer) - 使本地数据与远程源同步的最简单抽象.
 * [DifferenceKit](https://github.com/ra1028/DifferenceKit) - 一个快速灵活的O（n）差异算法框架，用于Swift集合.
@@ -687,7 +686,7 @@
 *快速行动和偷看和流行互动*
 
 * [QuickActions](https://github.com/ricardopereira/QuickActions) - 用于iOS主屏幕快速操作的Swift包装器（应用程序图标快捷方式）
-* [JustPeek](https://github.com/justeat/JustPeek) - JustPeek is an iOS Library that adds support for Force Touch-like Peek and Pop interactions on devices that do not natively support this kind of interaction.
+* [JustPeek](https://github.com/justeat/JustPeek) -  JustPeek是一个iOS库，可以在本身不支持此类交互的设备上添加对类似Force Touch的Peek和Pop交互的支持.
 * [PeekView](https://github.com/itsmeichigo/PeekView) -  PeekView支持iOS设备的查看，弹出和预览操作，无需3D Touch功能.
 
 ### iBeacon
@@ -1028,6 +1027,7 @@
 * [ATGMediaBrowser](https://github.com/altayer-digital/ATGMediaBrowser) - 具有多种预定义过渡样式的图像幻灯片查看器，以及轻松创建新过渡的功能.
 * [Pixel](https://github.com/muukii/Pixel) - 使用CoreImage的图像编辑器和引擎.
 * [OnlyPictures](https://github.com/KiranJasvanee/OnlyPictures) - 添加重叠圆形图片源的简单灵活方式.
+* [SFSafeSymbols](https://github.com/piknotech/SFSafeSymbols) - 使用静态类型安全访问Apple的SF符号.
 
 ### Media Processing
 * [SwiftOCR](https://github.com/garnele007/SwiftOCR) - 用Swift编写的快速简单的OCR库
@@ -1349,7 +1349,7 @@
 ## Permissions
 * [Proposer](https://github.com/nixzhu/Proposer) - 使权限请求更容易（支持相机，照片，麦克风，联系人，位置）.
 * [ICanHas](https://github.com/wircho/ICanHas) - 简化iOS用户权限请求（支持位置，推送通知，相机，联系人，日历，照片）.
-* [VWWPermissionKit](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
+* [VWWPermissionKit](https://github.com/zakkhoyt/VWWPermissionKit) -  iOS的可视化权限管理器.
 * [ISHPermissionKit](https://github.com/iosphere/ISHPermissionKit) -  iOS应用程序请求用户权限的统一方式.
 * [JLPermissions](https://github.com/jlaws/JLPermissions) -  iOS预授权实用程序，允许开发人员在进行基于系统的权限请求之前，在自己的对话框中询问用户日历，联系人，位置，照片，提醒，推特，推送通知等.
 * [ClusterPrePermissions](https://github.com/rsattar/ClusterPrePermissions) - 在发出基于系统的请求之前，可重复使用的预权限实用程序允许开发人员在自己的对话框中要求用户进行访问.
@@ -1485,7 +1485,7 @@
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - 用于生成随机用户的Swift框架 -  randomuser.me的非官方SDK.
 * [PPEventRegistryAPI](https://github.com/pantuspavel/PPEventRegistryAPI/) - 用于事件注册表API的Swift 3框架（eventregistry.org）.
 * [UnsplashKit](https://github.com/modo-studio/UnsplashKit) - 用于Unsplash的Swift客户端.
-* [Swiftly Salesforce](https://github.com/mike4aday/SwiftlySalesforce) - 一个易于使用的框架，用于构建与Salesforce集成的iOS应用程序，使用Swift和promises.
+* [Swiftly Salesforce](https://github.com/mike4aday/SwiftlySalesforce) - An easy-to-use framework for building iOS apps that integrate with Salesforce, using Swift and promises.
 * [Spartan](https://github.com/Daltron/Spartan) - 用于iOS和macOS的Swift编写的优雅Spotify Web API库.
 * [BigBoard](https://github.com/Daltron/BigBoard) - 一个优雅的金融市场库，用Swift编写，向Yahoo Finance API提出要求.
 * [BittrexApiKit](https://github.com/saeid/BittrexApiKit) - 用于Bittrex Exchange API的简单而完整的Swift包装器.
@@ -1920,7 +1920,7 @@
 * [IBAnimatable](https://github.com/IBAnimatable/IBAnimatable) - 使用IBAnimatable在Interface Builder中为App Store准备好的应用程序设计和原型UI，交互，导航，转换和动画.
 * [CKWaveCollectionViewTransition](https://github.com/CezaryKopacz/CKWaveCollectionViewTransition) - 酷波像两个或多个UICollectionView之间的过渡
 * [DaisyChain](https://github.com/alikaragoz/DaisyChain) - ：链接：简单的动画链接
-* [PulsingHalo](https://github.com/shu223/PulsingHalo) -  iOS组件，用于创建脉冲动画.
+* [PulsingHalo](https://github.com/shu223/PulsingHalo) - iOS Component for creating a pulsing animation.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) -  Swift中的可链接动画
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code with Swift
 * [Advance](https://github.com/timdonnelly/Advance) - 适用于iOS的强大动画框架.
@@ -2096,7 +2096,7 @@
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 用Swift编写的可爱动画按钮.
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) - 使用Facebook POP动画的9个不同状态的平面按钮.
 * [HTPressableButton](https://github.com/Famolus/HTPressableButton) - 平面设计可按下按钮.
-* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 液体状态下的材料设计浮动操作按钮
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - Material Design Floating Action Button in liquid state
 * [JTFadingInfoView](https://github.com/JunichiT/JTFadingInfoView) - 具有淡入/淡出动画功能的基于UIButton的视图.
 * [Floaty](https://github.com/kciter/Floaty) - ：heart：适用于iOS的浮动操作按钮
 * [TVButton](https://github.com/marmelroy/TVButton) - 从Apple TV重新创建酷视差图标作为iOS UIButtons（在Swift中）.
@@ -2777,7 +2777,7 @@ CollectionView，在几分钟内发现Instagram.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - 从命令行轻松生成跨平台Swift框架项目.
 * [xcproj](https://github.com/tuist/xcodeproj) - 阅读和更新Xcode项目.
 * [Tuist](https://github.com/tuist/tuist) - 大规模创建，维护Xcode项目并与之交互的工具.
-* [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - Start your next Open-Source Swift Framework 📦.
+* [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - 启动下一个开源Swift框架.
 
 ## Dependency / Package Manager
 * [CocoaPods](https://cocoapods.org/)   -  CocoaPods是Objective-C项目的依赖管理器.  它有数千个库，可以帮助您优雅地扩展项目.
