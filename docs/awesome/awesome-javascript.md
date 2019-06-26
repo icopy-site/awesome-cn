@@ -13,7 +13,7 @@
 *托管javascript库并提供用于获取和打包它们的工具.*
 
 * [npm](https://www.npmjs.com/) -  npm是javascript的包管理器.
-* [Bower](https://github.com/bower/bower) - 网络包管理器.
+* [Bower](https://github.com/bower/bower) - A package manager for the web.
 * [component](https://github.com/componentjs/component) - 用于构建更好的Web应用程序的客户端包管理
 * [spm](https://github.com/spmjs/spm) - 全新的静态包管理器.
 * [jam](https://github.com/caolan/jam) - 使用以浏览器为中心且与RequireJS兼容的存储库的包管理器.
@@ -326,6 +326,7 @@
 * [timeago.js](https://github.com/hustcc/timeago.js) - 简单的库（小于2kb）用于使用`*** time ago`语句格式化日期.
 * [fecha](https://github.com/taylorhakes/fecha)   - 轻量级日期格式化和解析（~2KB）.  意味着要取代moment.js的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代JavaScript日期实用程序库.
+* [map-countdown](https://github.com/dawidjaniga/map-countdown) - 基于Google地图构建的浏览器倒计时
 
 ## String
 *字符串库.*
@@ -483,7 +484,7 @@
 
 
 ## Loading Status
-*用于指示负载状态的库.*
+*Libraries for indicate load status.*
 
 * [Mprogress.js](https://github.com/lightningtgc/MProgress.js) - 创建Google Material Design进度线性栏.
 * [NProgress](http://ricostacruz.com/nprogress/) - 用于Ajax&#39;y应用程序的超薄进度条.
@@ -634,7 +635,7 @@
 * [tooltipster](https://github.com/iamceege/tooltipster) - 一个jQuery工具提示插件.
 * [simptip](https://github.com/arashmanteghi/simptip) - 使用Sass制作的简单CSS工具提示.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 用于响应和可访问的模态窗口和工具提示的jQuery插件.
-* [toolbar](https://github.com/paulkinzett/toolbar) - 工具提示样式工具栏jQuery插件
+* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [hint.css](https://github.com/chinchang/hint.css) -  CSS中的工具提示库，供您可爱的网站使用.
 
 ## Modals and Popups
@@ -655,7 +656,7 @@
 ## Scroll
 
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) - 滚动时监视元素的简单快速API.
-* [headroom](https://github.com/WickyNilliams/headroom.js)   - 给你的页面一些空间.  隐藏您的标题，直到您需要它.
+* [headroom](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - 使用One Page Scroll插件创建类似Apple的单页卷轴网站（iPhone 5S网站）.
 * [iscroll](https://github.com/cubiq/iscroll) -  iScroll是一款高性能，占用空间小，无依赖，多平台的javascript卷轴.
 * [skrollr](https://github.com/Prinzhorn/skrollr)   - 适用于移动设备（Android + iOS）和桌面的独立视差滚动库.  没有jQuery.
@@ -735,7 +736,7 @@
  * [flowplayer](https://github.com/flowplayer/flowplayer) - 用于网络的HTML5视频播放器
  <https://flowplayer.org/>
  * [mediaelement](https://github.com/johndyer/mediaelement)   -  HTML5 <audio>  要么 <video>  具有Flash和Silverlight垫片的播放器模仿HTML5 MediaElement API，在所有浏览器中实现一致的UI. <http://mediaelementjs.com/>
- * [SoundJS](https://github.com/CreateJS/SoundJS) - A library to make working with audio on the web easier. It provides a consistent API for playing audio in different browsers.
+ * [SoundJS](https://github.com/CreateJS/SoundJS)   - 一个可以更轻松地处理网络音频的库.  它为在不同浏览器中播放音频提供了一致的API.
  * [video.js](https://github.com/videojs/video.js) -  Video.js  - 开源HTML5和Flash视频播放器
  * [FitVids.js](https://github.com/davatron5000/FitVids.js) - 一个轻量级，易于使用的jQuery插件，用于流体宽度视频嵌入.
  * [Ion.Sound](https://github.com/IonDen/ion.sound) - 任何网页上的简单声音
@@ -748,7 +749,7 @@
  * [BigText](https://github.com/zachleat/BigText) -  jQuery插件，计算将文本行与特定宽度匹配所需的字体大小和字间距.
  * [circletype](https://github.com/peterhry/circletype) - 一个jQuery插件，可让您在网络上输入曲线
  * [slabText](https://github.com/freqDec/slabText/) - 一个jQuery插件，用于生成大胆，响亮的标题
- * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup
+ * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 在您的网站上添加一个超级简单的旋转文本，几乎没有标记
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -  Text Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - 使文本大小响应！
  * [FitText.js](https://github.com/davatron5000/FitText.js) - 用于充气网络类型的jQuery插件
@@ -819,7 +820,7 @@ http://www.listjs.com
 * [mixitup](https://github.com/patrickkunka/mixitup) -  MixItUp  - 过滤和排序插件
 * [grid](https://github.com/hootsuite/grid) - 拖放库，用于二维，可调整大小和响应式列表.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) -  jQuery的响应性相等高度插件.
-* [survey.js](https://github.com/surveyjs/surveyjs) - JavaScript Survey Engine. It uses JSON for survey metadata and results. http://surveyjs.org/
+* [survey.js](https://github.com/surveyjs/surveyjs)   -  JavaScript Survey Engine.  它使用JSON进行调查元数据和结果.  http://surveyjs.org/
 * [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) - 帮助确定在任何给定时间最适合使用本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) - 没有Flash或使用Frameworks的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) - 基于浏览器Fetch API的简洁优雅的HTTP客户端.
@@ -836,7 +837,7 @@ http://www.listjs.com
 * [Superhero.js](http://superherojs.com) - 有关创建，测试和维护大型JavaScript代码库的资源集合.
 * [SJSJ](https://github.com/HugoGiraudel/SJSJ) - 简化的JavaScript术语是一种社区驱动的尝试，用一些简单的词语解释当前JavaScript生态系统的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 通过一系列步骤发布JavaScript开源库的综合指南.
-* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - Learn Javascript online from a diverse range of user ranked online tutorials.
+* [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - 通过各种用户排名的在线教程在线学习Javascript.
 
 
 ## Other Awesome Lists

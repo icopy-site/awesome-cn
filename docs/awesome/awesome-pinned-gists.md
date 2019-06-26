@@ -17,6 +17,7 @@
 - [bird-box](https://github.com/matchai/bird-box) - 更新固定的要点以包含Twitter用户的最新推文.
 - [waka-box](https://github.com/matchai/waka-box) - 更新固定的要点以包含您的每周WakaTime统计数据.
 - [strava-box](https://github.com/JohnPhamous/strava-box) - 更新要点，以包含Strava的YTD练习指标.
+- [music-box](https://github.com/jacc/music-box) - 更新要点以包含Last.fm上的每周收听报告.
 
 ## GitHub
 

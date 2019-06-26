@@ -267,6 +267,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) -  Ngrok包装纸
  * [params](https://github.com/vladfaust/params.cr) - 强类型HTTP params解析模块
  * [resp-crystal](https://github.com/soveran/resp-crystal) - 轻量级RESP客户端
+ * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
 
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - 绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口

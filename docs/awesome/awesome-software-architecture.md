@@ -17,7 +17,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 - [Feature Toggles](https://www.martinfowler.com/articles/feature-toggles.html) -  Feature Toggles（通常也称为Feature Flags）是一种强大的技术，允许团队在不更改代码的情况下修改系统行为.
 - [Behavior Driven Development (BDD) and Functional Testing](https://medium.com/javascript-scene/behavior-driven-development-bdd-and-functional-testing-62084ad7f1f2) -  BDD使用人类可读的软件用户要求描述作为软件测试的基础.
 - [Ports and adapters pattern](https://softwarecampament.wordpress.com/portsadapters/) - 将应用程序核心逻辑与其使用的服务分离.
-
+- [N-tier architecture style](https://docs.microsoft.com/en-us/azure/architecture/guide/architecture-styles/n-tier) - 图层是分离职责和管理依赖关系的一种方式.
 ## Methodology
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) - 以小增量为增长软件提供案例：orange_book：.

@@ -73,6 +73,9 @@
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/)   - 以您选择的语言将功能编写为服务，并将其部署到全球数据中心网络.  所有组网，包括智能路由和负载均衡，都由StackPath通过专用骨干网进行管理.
 - [Zeit Now](https://zeit.co/now#features) -  Zeit Now允许人们以他们选择的语言将功能编写为服务，并作为monorepo的一部分进行部署.
 
+## GraphQL
+
+- [FaunaDB](https://fauna.com)   - 无服务器GraphQL数据库.  免费套餐，没有时间限制.  轻松包含在Netlify应用程序中.
 
 ## Community
 
@@ -98,6 +101,7 @@
 - [Simple Form](https://getsimpleform.com/) - 带有可选文件附件，电子邮件通知和在线提交查看的简单表单.
 - [Brisk Forms](https://github.com/stevensona/briskforms) - 免费表单提交服务，您回复的电子邮件，同时保持您的电子邮件地址私密，是开源的.
 - [99 Inbound](https://www.99inbound.com) - 使用电子邮件/ Slack通知和第三方应用程序集成形成端点服务（例如MailChimp）
+- [Getform](http://getform.io/) - 通过电子邮件和集成为设计人员和开发人员提供后端平台.
 
 #### Normal Forms
 
@@ -111,7 +115,7 @@
 - [Typeform](http://www.typeform.com/) - 可嵌入的令人敬畏的形式.
 - [Wufoo](http://www.wufoo.com/) - 免费或付费 - 您可以使用表单设计器构建的表单，包括通知，报告和付款.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - 带有文件上传和验证码的表单.
-- [GitHub Issues](https://help.github.com/articles/about-issues/)   - 这是开发人员获得评论/问题的有趣方式.  看到 [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) for an example.
+- [GitHub Issues](https://help.github.com/articles/about-issues/)   - 这是开发人员获得评论/问题的有趣方式.  看到 [github.com/sindresorhus/ama](https://github.com/sindresorhus/ama) 举个例子.
 - [Utterences](https://github.com/utterance/utterances) - 基于GitHub问题构建的轻量级注释小部件.
 - [FormBackend](https://www.formbackend.com)   - 创建表单后端并将HTML表单提交给我们的后端.  在线查看条目并连接到其他服务.  每次提交新条目时都会收到一封电子邮件.
 - [Pageclip](https://pageclip.co)   -  HTML表单的灵活服务器/后端.  在实时Web界面中查看数据，或使用API​​获取CSV和JSON输出.
@@ -169,7 +173,7 @@
 
 ## Payments
 
- - [MoneyButton](https://www.moneybutton.com/) - 使用比特币（Satoshi的愿景）进行网站支付和捐赠.
+ - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - 使用各种加密货币接受付款.
 
 ## Search

@@ -123,7 +123,7 @@
 - [rclgo](https://github.com/juaruipav/rclgo) - 用于Go的ROS客户端库. ![rclgo](https://img.shields.io/github/stars/juaruipav/rclgo.svg)
 - [rclpy](https://github.com/ros2/rclpy) - 用于Python的ROS客户端库. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
 - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - 用于Java的ROS客户端库. ![rcljava](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -  Node.js的ROS客户端库. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [rclobjc](https://github.com/esteve/ros2_objc) - 用于Objective C的ROS客户端库（适用于iOS）. ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
 - [rclc](https://github.com/ros2/rclc) - 用于C的ROS客户端库. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust](https://github.com/esteve/ros2_rust) -  ROS2的Rust绑定. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
@@ -225,6 +225,10 @@
 
 ## Presentations
 
+### ROS-I EU Spring 2019 Workshop
+
+-  ROS 2实际功能概述的当前状态 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf)
+
 ### ROSCon JP 2018 (english slide presentations only)
 
   -  ROS的下一步是什么？  （从幻灯片24开始） [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
@@ -247,7 +251,7 @@
 - 在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
 - 面向ROS 2微控制器元交叉编译
 -  Node.js客户端和Web桥为ROS 2.0做好准备
-- RCLAda: the Ada client library for ROS2
+-  RCLAda：ROS2的Ada客户端库
 
 ### Embedded World Conference 2018 
 

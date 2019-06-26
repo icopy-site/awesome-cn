@@ -11,7 +11,6 @@
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 <h4 align="center">  <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">查看一些错过剪辑的应用.</a> <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22"><br></a>  <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">如果你认为他们应该被添加给他们一些爱，那就拍他们：thumbsup：或者给他们一个：明星：！</a> </h4>
-<h1 align="center"> <a href="https://github.com/agarrharr/awesome-cli-apps/issues/247">寻找新的维护者</a> </h1>
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -247,7 +246,7 @@
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
 - [mosh](https://mosh.org/) - 允许以间歇性连接漫游的远程SSH客户端.
-- [ngrok](https://ngrok.com/) - Secure introspectable tunnels to localhost.
+- [ngrok](https://ngrok.com/) - 安全的内部隧道到localhost.
 - [serveo](https://serveo.net/) - 仅使用SSH客户端将本地服务器公开到Internet.
 - [seashells.io](https://seashells.io/) - 管道输出到网络.
 - [teleconsole](https://www.teleconsole.com/) - 分享您的UNIX终端.
@@ -446,7 +445,7 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
-- [Qalculate](https://github.com/Qalculate/libqalculate)   - 计算非三元数学表达式.  单位转换，符号计算等.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Emoji
 

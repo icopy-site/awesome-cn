@@ -12,7 +12,7 @@ _awesome_ Common Lisp库的精选列表.
 对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
- 另有说明.  标有星号的那些：如此广泛而且
+stated otherwise. The ones marked with a :star: are so widespread and
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
  这样.  用a表示的库是我们喜欢和想要的库
@@ -320,6 +320,7 @@ YAML
 * [generic-cl](https://github.com/alex-gutev/generic-cl/)   - 标准Common Lisp函数的通用函数接口（相等，比较，算术，对象，迭代器，序列......）.  [MIT] [200].  另见更轻量级 [generic-comparability](https://github.com/pnathan/generic-comparability) .  [LLGPL] [8].
 * [pythonic-string-reader](https://github.com/smithzvk/pythonic-string-reader)   - 一个简单而不显眼的读表修改，灵感来自Python的三个引用字符串.  [BSD_3Clause] [15].
 *  [access](https://github.com/AccelerationNet/access/)   - 对大多数常见数据结构的一致和嵌套访问.  [BSD_3Clause] [15].
+* [listopia](https://github.com/Dimercel/listopia)   - 受Haskell的Data.List启发的列表操作库.  [LLGPL] [8].
 
 
 CLOS扩展
@@ -584,7 +585,7 @@ URI动作
 Javascript
 ----------
 
-*：明星： [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
+*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
@@ -825,7 +826,7 @@ supports a full development environment, including dynamic file
 
 ## VSCode ##
 
-* [VSCode-lisp](https://marketplace.visualstudio.com/items?itemName=mattn.Lisp)  扩展以支持Lisp语法.  它是 [on the GitHub](https://github.com/mattn/vscode-lisp).
+* [VSCode-lisp](https://marketplace.visualstudio.com/items?itemName=mattn.Lisp)   - 支持Lisp语法的扩展.  它是 [on GitHub](https://github.com/mattn/vscode-lisp).
 
 ## Notebooks ##
 

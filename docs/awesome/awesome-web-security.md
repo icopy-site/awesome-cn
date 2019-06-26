@@ -103,10 +103,23 @@
 
 - [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning) - 写 [@albinowax](https://twitter.com/albinowax).
 
+<a name="relative-path-overwrite"></a>
+### Relative Path Overwrite
+
+- [Large-scale analysis of style injection by relative path overwrite](https://blog.acolyer.org/2018/05/28/large-scale-analysis-of-style-injection-by-relative-path-overwrite/) - 写 [The Morning Paper](https://blog.acolyer.org/).
+- [MBSD Technical Whitepaper - A few RPO exploitation techniques](https://www.mbsd.jp/Whitepaper/rpo.pdf) - 写 [Mitsui Bussan Secure Directions, Inc.](https://www.mbsd.jp/).
+
 <a name="open-redirect"></a>
 ### Open Redirect
 
 - [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) - 写 [s0cket7](https://s0cket7.com/).
+
+<a name="saml"></a>
+### Security Assertion Markup Language (SAML)
+
+- [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/) - 写 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/) - 写 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/) - 写 [epi](https://epi052.gitlab.io/notes-to-self/).
 
 <a name="upload"></a>
 ### Upload
@@ -222,6 +235,7 @@
 - [Neat tricks to bypass CSRF-protection](https://zhuanlan.zhihu.com/p/32716181) - 写 [Twosecurity](https://twosecurity.io/).
 - [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b) - 写 [@riyazwalikar](https://blog.appsecco.com/@riyazwalikar).
 - [Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection) - 写 [@dxa4481](https://github.com/dxa4481).
+- [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) - 写 [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
 
 <a name="tricks-rce"></a>
 ### Remote Code Execution
@@ -241,6 +255,7 @@
 <a name="tricks-xss"></a>
 ### XSS
 
+- [XSS without parentheses and semi-colons](https://portswigger.net/blog/xss-without-parentheses-and-semi-colons) - 写 [@garethheyes](https://twitter.com/garethheyes).
 - [XSS-Auditor — the protector of unprotected and the deceiver of protected.](https://medium.com/bugbountywriteup/xss-auditor-the-protector-of-unprotected-f900a5e15b7b) - 写 [@terjanq](https://medium.com/@terjanq).
 - [Query parameter reordering causes redirect page to render unsafe URL](https://hackerone.com/reports/293689) - 写 [kenziy](https://hackerone.com/kenziy).
 - [ECMAScript 6 from an Attacker's Perspective - Breaking Frameworks, Sandboxes, and everything else](http://www.slideshare.net/x00mario/es6-en) - 写 [Mario Heiderich](http://www.slideshare.net/x00mario).
@@ -260,6 +275,7 @@
 - [SQL injection in an UPDATE query - a bug bounty story!](http://zombiehelp54.blogspot.jp/2017/02/sql-injection-in-update-query-bug.html) - 写 [Zombiehelp54](http://zombiehelp54.blogspot.jp/).
 - [GitHub Enterprise SQL Injection](http://blog.orange.tw/2017/01/bug-bounty-github-enterprise-sql-injection.html) - 写 [Orange](http://blog.orange.tw/).
 - [Making a Blind SQL Injection a little less blind](https://medium.com/@tomnomnom/making-a-blind-sql-injection-a-little-less-blind-428dcb614ba8) - 写 [TomNomNom](https://twitter.com/TomNomNom).
+- [Red Team Tales 0x01: From MSSQL to RCE](https://www.tarlogic.com/en/blog/red-team-tales-0x01/) - 写 [Tarlogic](https://www.tarlogic.com/en/cybersecurity-blog/).
 
 <a name="tricks-nosql-injection"></a>
 ### NoSQL Injection
@@ -323,6 +339,7 @@
 
 ### Frontend (like SOP bypass, URL spoofing, and something like that)
 
+- [Bypassing Mobile Browser Security For Fun And Profit](https://www.blackhat.com/docs/asia-16/materials/asia-16-Baloch-Bypassing-Browser-Security-Policies-For-Fun-And-Profit-wp.pdf) - 写 [@rafaybaloch](https://twitter.com/@rafaybaloch).
 - [The inception bar: a new phishing method](https://jameshfisher.com/2019/04/27/the-inception-bar-a-new-phishing-method/) - 写 [jameshfisher](https://jameshfisher.com/).
 - [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) - 写 [portswigger](https://portswigger.net/).
 - [IE11 Information disclosure - local file detection](https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater) - 由James Lee撰写.

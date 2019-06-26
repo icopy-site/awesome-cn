@@ -77,7 +77,7 @@
 * [GoodUI](http://www.goodui.org/)：5种方法可以获得更好的用户界面.
 
 ## Design Tools
-* [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
+* [Sketch](http://sketchapp.com)：适用于Mac的数字设计轻量级程序.
 * [Figma](http://figma.com)：协作界面设计工具.
 * [Adobe XD](https://www.adobe.com/products/experience-design.html)：原型设计和线框工具.
 * [inVision Studio](https://www.invisionapp.com/studio)：快速原型设计，动画，内置设计系统和协作.
@@ -88,7 +88,7 @@
 * [Zeplin](https://zeplin.io/)：设计人员和开发人员之间的优秀协作工具.
 * [Avocode](https://avocode.com/)：面向所有设计人员和开发人员的工作空间.
 * [inVision](https://www.invisionapp.com/)：世界领先的原型设计，协作和工作流平台.
-* [Justinmind](http://justinmind.com)：为Web和移动应用程序提供更快的原型，更好的沟通.
+* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Marvel App](https://marvelapp.com/)：为设计师提供免费的移动和网络原型设计.
 * [Atomic.io](https://atomic.io/)：免费的浏览器交互式设计工具.
 * [Flinto](https://www.flinto.com/)：应用程序来创建设计的交互式和动画原型.
@@ -98,12 +98,17 @@
 * [Tuts Plus Web Design Tutorials](http://webdesign.tutsplus.com/)：免费的网页设计和开发教程.
 * [Springboard](https://www.springboard.com)：个性化的方法，旨在帮助您实现目标并推进您的职业发展.
 * [Learn Sketch](https://www.sketchapp.com/learn/)：短视频和编辑宝贵的资源，以帮助您开始！
-* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/)：一本12,000字长的XD初学者和现有用户综合指南.  
+* [Adobe XD Guide](https://www.xdguru.com/adobe-xd-guide/)：一本12,000字长的XD初学者和现有用户综合指南. 
+
+## Books
+* [Web design playground](https://www.manning.com/books/web-design-playground/)：从编写第一行HTML到创建有趣，有吸引力的网页的一步一步指导.
+* [Don't make me think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
+* [The design of everyday things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+* [100 things every designer needs to know about people](https://www.amazon.com/Things-Designer-People-Voices-Matter/dp/0321767535/ref=sr_1_1?s=books&ie=UTF8&qid=1419267906&sr=1-1&keywords=100+Things+Every+Designer+Needs+to+Know?utm_source=CMblog&utm_medium=post&utm_campaign=blog_)
 
 ## Productivity
 * [Pomodoro](http://tomato-timer.com)：一种很酷的时间管理技术，可以提高工作和学习效率.
 * [Toggl](http://toggl.com)：提高工作场所生产力的时间跟踪器.
-* [Inbox by Google](http://inbox.google.com)：电子邮件工具，让您的生活更有效率.
 * [Trello](http://trello.com)：以有趣，灵活和有益的方式组织和优先处理您的项目.
 * [RescueTime](https://www.rescuetime.com)：帮助您了解您的日常习惯，从而使您能够专注并提高工作效率.
 * [Qbserve](https://qotoqot.com/qbserve/)：自动时间跟踪，发票和实时生产力反馈.

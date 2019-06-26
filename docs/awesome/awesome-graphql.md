@@ -341,6 +341,12 @@
 * [graphql-client](https://github.com/tomhoule/graphql-client) - 支持WebAssembly（wasm）的Rust的GraphQL客户端库.
 * [graphql-parser](https://github.com/graphql-rust/graphql-parser) -  Rust的GraphQL查询和模式定义语言的解析器，格式化程序和AST.
 
+< name="lib-d" />
+
+### D (dlang) Libraries
+
+* [graphqld](https://github.com/burner/graphqld) -  D.的GraphQL服务器库
+
 <a name="tools" />
 
 ## Tools

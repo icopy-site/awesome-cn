@@ -47,7 +47,7 @@ _Projects以开源许可证发布._
 - [MissKey](https://www.patreon.com/syuilo) - 联邦微博平台.
 - [MuseScore](https://www.patreon.com/musescore) - 乐谱软件.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) -  NativeScript和Vue的原生移动应用程序.
-- [Neovim](https://salt.bountysource.com/teams/neovim) -  Vim-fork专注于可扩展性和可用性.
+- [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
 - [OctoPrint](https://www.patreon.com/foosel) -  3D打印机的Web界面.
 - [OfBorg](https://www.patreon.com/ofborg) - 用于测试NixOS的工具.
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高品质的视频编辑和合成软件
@@ -73,7 +73,7 @@ _Projects以开源许可证发布._
 - [Synfig](https://www.patreon.com/synfig) -  2D动画软件.
 - [SysV init](https://www.patreon.com/sysvinit) -  System V init实现.
 - [Tabulator](https://www.patreon.com/olifolkerd) - 用于构建交互式表的JavaScript库.
-- [Termux](https://www.patreon.com/termux) - Android terminal emulator.
+- [Termux](https://www.patreon.com/termux) -  Android终端模拟器.
 - [The Lounge](https://opencollective.com/thelounge) - 现代网络IRC客户端. 
 - [Thirthy Bees](https://www.patreon.com/thirtybees) - 电子商务软件. 
 - [Tiled](https://www.patreon.com/bjorn) -  2D游戏关卡编辑器. 
@@ -91,6 +91,7 @@ _Libraries和frameworks._
 - [Babel](https://www.patreon.com/henryzhu) -  JavaScript编译器.
 - [Flare3D](https://www.patreon.com/arieln) -  JavaScript 3D引擎.
 - [Hapi.js](https://www.patreon.com/eranhammer) -  Node.js框架.
+- [Jam.py](https://www.patreon.com/jampyapp) -  Python Web框架.
 - [Laravel](https://www.patreon.com/taylorotwell) -  PHP框架.
 - [LibGDX](https://www.patreon.com/libgdx) - 游戏开发框架.
 - [Moleculer](https://www.patreon.com/moleculer) -  Node.js的渐进式微服务框架.
