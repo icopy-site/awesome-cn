@@ -158,6 +158,7 @@
 
 ### Functional
 
+- [atomico](https://github.com/atomicojs/atomico) - 使用函数和钩子创建基于Web组件的接口的小型库.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [osagai](https://github.com/HenriqueLimas/osagai) - 以功能方式创建Web组件的小型库.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - 允许通过中间件功能以功能方式创建Web组件的库.

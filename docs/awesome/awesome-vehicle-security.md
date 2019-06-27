@@ -39,7 +39,7 @@
 
 - ["Hopping on the CAN Bus" from BlackHat Asia 2015](https://www.blackhat.com/asia-15/briefings.html#hopping-on-the-can-bus) - 来自BlackHat Asia 2015的演讲，旨在让观众“了解汽车系统，但也将拥有攻击它们的工具”.
 - ["Drive It Like You Hacked It" from DEFCON 23](https://samy.pl/defcon2015/) - 来自Samy Kamkar的DEFCON 23/2015演讲的演讲和幻灯片，其中包括黑客车库，利用汽车移动应用程序，以及打破滚动代码以使用低成本工具解锁任何车辆.
-- [Samy Kamkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) --Samy Kamkar是MySpace上Samy蠕虫背后的多产黑客，他探索了使用OnStar系统进入黑客的车辆.
+- [Samy Kamkar on Hacking Vehicles with OnStar](https://www.youtube.com/watch?v=3olXUbS-prU&feature=youtu.be) --Samy Kamkar是MySpace上Samy蠕虫背后的多产黑客，他探索了使用OnStar系统进行黑客攻击.
 - [Remote Exploitation of an Unaltered Passenger Vehicle](https://www.youtube.com/watch?v=OobLb1McxnI) -  DEFCON 23演讲克里斯瓦拉塞克和查理米勒讲述他们现在着名的关于远程攻击吉普车并将其停在轨道上的谈话.
 - [Adventures in Automotive Networks and Control Units](https://www.youtube.com/watch?v=n70hIu9lcYo) -  DEFCON 21由Chris Valasek和Charlie Miller谈论汽车网络.
 - [Can You Trust Autonomous Vehicles?](https://www.youtube.com/watch?v=orWqKWvIW_0) - DEFCON 24 talk by Jianhao Liu, Chen Yan, Wenyuan Xu
@@ -48,19 +48,20 @@
 - [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) -  Alan Mond的Bugcrowd LevelUp 2017
 - [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) - 来自2015年拉斯维加斯BSides的I Am The Cavalry赛道的汽车黑客攻击，政策，行业变化等.
 - [State of Automotive Cyber Safety, 2016](https://www.youtube.com/watch?v=WcObDVy2-1I) - 来自2016年拉斯维加斯BSides骑兵赛道的汽车黑客攻击，政策，行业变化等.
-- [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng)   -  DEF CON 23由Marc Rogers和Kevin Mahaffey谈论黑客入侵特斯拉.  特斯拉联合创始人兼首席技术官JB Straubel与他们一起感谢他们并提出了一个挑战性的硬币.
+- [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng)   -  DEF CON 23由Marc Rogers和Kevin Mahaffey谈论黑客入侵特斯拉.  特斯拉联合创始人兼首席技术官JB Straubel与他们一起感谢他们，并提出了一个挑战性的硬币.
 - [Car Hacking Videos](http://tekeye.uk/automotive/cyber-security/car-hacking-videos)   - 一个网页，其中包含一系列视频（40+），可在线获取与汽车黑客相关的主题.  从2007 DEF CON关于改装引擎ECUS及其后续谈话（例如2017年Keen Security Tesla hack）.
-- [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI)   -  Jonathan Petit的黑帽演讲.  自动化和联网车辆是交通运输的下一个发展方向，将提高安全性，交通效率和驾驶体验.  本讲座将分为两部分：1）自动驾驶汽车的安全性和2）联网汽车的隐私性.  2015年
+- [Self-Driving and Connected Cars: Fooling Sensors and Tracking Drivers](https://www.youtube.com/watch?v=C29UGFsIWVI)   -  Jonathan Petit的黑帽演讲.  自动化和联网车辆是交通运输的下一个发展方向，将提高安全性，交通效率和驾驶体验.  本讲座将分为两部分：1）自动驾驶汽车的安全性和2）联网汽车的隐私.  2015年
 - [A Survey of Remote Automotive Attack Surfaces](https://www.youtube.com/watch?v=MAGacjNw0Sw)   - 黑帽演讲查理米勒和克里斯瓦拉塞克.  汽车安全问题从边缘走向主流，安全研究人员表明现代汽车对本地和远程攻击的敏感性.  讨论车辆攻击面.  2014年
 - [Pentesting vehicles with YACHT (Yet Another Car Hacking Tool)](https://www.blackhat.com/docs/eu-16/materials/eu-16-Sintsov-Pen-Testing-Vehicles-With-Cantoolz.pdf) - 讨论车辆不同攻击面的演示，然后继续描述汽车黑客攻击的方法以及分析和收集有用信息所需的工具.
 - [How to drift with any car](https://www.youtube.com/watch?v=KU7gl1n1tIs) - 介绍CAN黑客攻击，并使用真正的汽车作为Xbox控制器.
+- [Car Infotainment Hacking Methodology and Attack Surface Scenario](https://www.youtube.com/watch?v=F0mYkI2FJ_4) - 关于如何攻击，捕捉臭虫或破坏你的IVI的指南，由Jay Turla在DEF CON 26期间在包装黑客村/羊墙上展示.
 
 ## Books
 
 - [2014 Car Hacker's Handbook](http://opengarages.org/handbook/) -  2014年免费黑客车辆指南.您也可以在亚马逊上购买这本书 [here](https://www.amazon.com/Car-Hackers-Manual-Craig-Smith/dp/0990490106?ie=UTF8&keywords=2014%20car%20hacker%27s%20manual&qid=1405445024&ref_=sr_1_1&sr=8-1).
 - [2016 Car Hacker's Handbook](https://www.amazon.com/Car-Hackers-Handbook-Penetration-Tester/dp/1593277032)   - 最新版本的Car Hacker手册，其中包含更新的信息，可以破解您自己的车辆并学习车辆安全性.  对于物理副本以及书籍的无限PDF，MOBI和EPUB副本，请购买 [No Starch Press](https://www.nostarch.com/carhacking) .  章节可在线获取 [here](https://books.google.com/books?id=Ao_QCwAAQBAJ&lpg=PP1&dq=car%20hacking&pg=PP1#v=onepage&q&f=false).
 - [A Comprehensible Guide to Controller Area Network](https://www.amazon.com/Comprehensible-Guide-Controller-Area-Network/dp/0976511606/ref=pd_sim_14_1?ie=UTF8&dpID=41-D9UhlE9L&dpSrc=sims&preST=_AC_UL160_SR124%2C160_&psc=1&refRID=3FH8N10610H0RX8SMB6K) -  2005年的旧书，但仍然是CAN总线和车辆网络的综合指南.
-- [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W)This book first introduced some basic knowledge of security for automotive R&D personnel, such as encryption and decryption, security authentication, digital signatures, common attack types, and methods. Then it introduced the working principles of some smart cars for security researchers, such as the automotive intranet. Protocol, network architecture, principle of X-By-Wire remote control system, common potential attack surface, etc. Finally, a detailed analysis of some actual automotive attack or security test cases, and defense analysis of the loopholes involved in the case during the analysis process.
+- [智能汽车安全攻防大揭秘](https://www.amazon.cn/dp/B075QZXY7W) 本书首先介绍了汽车研发人员的一些安全基础知识，如加密和解密，安全认证，数字签名，常见攻击类型和方法.  然后介绍了一些智能汽车的工作原理，用于安全研究人员，如汽车内联网.  协议，网络架构，X-By-Wire远程控制系统的原理，常见的潜在攻击面等.最后，详细分析了一些实际的汽车攻击或安全测试案例，以及对案件中涉及的漏洞的防御分析.分析过程.
 - [Controller Area Network Prototyping with Arduino](https://www.amazon.com/Controller-Area-Network-Prototyping-Arduino/dp/1938581164/ref=pd_sim_14_2?ie=UTF8&dpID=51J27ZEcl9L&dpSrc=sims&preST=_AC_UL160_SR123%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - 本书将指导您在Arduinos上对CAN应用程序进行原型设计，这可以帮助您在自己的汽车上使用CAN.
 - [Embedded Networking with CAN and CANopen](https://www.amazon.com/Embedded-Networking-CANopen-Olaf-Pfeiffer/dp/0929392787/ref=pd_sim_14_37?ie=UTF8&dpID=41UnLKYFpmL&dpSrc=sims&preST=_AC_UL160_SR122%2C160_&psc=1&refRID=V42FKNW09QGVGHW7ZFRR) - 从2003年开始，本书填补了CAN文献中的空白，并将进一步教育您使用CAN网络并使用嵌入式系统.
 - [Inside Radio: An Attack and Defense Guide](https://unicorn.360.com/blog/2018/01/29/Inside_Radio_An_Attack_and_Defense_Guide)本书讨论了各种无线设备和系统中的安全问题，第4章433 / 315MHz通信（4.3 4.4 4.5关于车钥匙安全性）
@@ -80,6 +81,7 @@
 - [A Car Hacking Experiment: When Connectivity Meets Vulnerability](http://ieeexplore.ieee.org/abstract/document/7413993/)
 - [Security issues and vulnerabilities in connected car systems](http://ieeexplore.ieee.org/abstract/document/7223297/)
 - [Automobile Driver Fingerprinting, 2016](http://www.autosec.org/pubs/fingerprint.pdf)
+- [Intrusion detection system based on the analysis of time intervals of CAN messages for in-vehicle network, 2016](https://awesong-kor.github.io/files/Intrusion%20Detection%20System%20Based%20on%20the%20Analysis%20of%20Time%20Intervals%20of%20CAN%20Messages%20for%20In-Vehicle%20Network.pdf)
 -  [建模信号间到达时间以准确检测
 CAN总线信号注入攻击（http://delivery.acm.org/10.1145/3070000/3064816/a11-moore.pdf?ip=108.231.46.133&amp;id=3064816&amp;acc=CHORUS&amp;key=A79D83B43E50B5B8%2E61146380CA860EFC%2E57DE476DE0B29E28%2E6D218144511F3437&amp;__acm__=1536183578_069ce3b4eeacf0a778cd65f4869fd7c0）
 
@@ -142,13 +144,21 @@ Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
     - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
+- 汽车黑客村
+    - [Twitter](https://twitter.com/CarHackVillage)
+    - [Website](https://www.carhackingvillage.com/)
+-  carfucar：Car Hacking Village和演讲者或培训师的创始人
+    - [Twitter](https://twitter.com/CarHackVillage)
+-  Ian Tabor / mintynet：Car Hacker，Car Hacking Village的工作人员
+    - [Twitter](https://twitter.com/mintynet)
+    - [Website](https://www.mintynet.com/)    
 
 ## Podcasts and Episodes
 
-播客和播客剧集，直接关注车辆安全或在其上有一些剧集.
+Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
 
 ### Podcasts
-- [Security Weekly](http://securityweekly.com/) - 优秀的播客涵盖所有安全范围，一些剧集重点关注从汽车到无人机的车辆安全.
+- [Security Weekly](http://securityweekly.com/) - 优秀的播客涵盖所有安全范围，一些剧集重点关注从汽车到无人机的车辆安全性.
 - [TrustedSec Podcast](https://www.trustedsec.com/podcast/) - 来自TrustedSec的人员，社交工程的领导者，他们的剧集经常会涉及最近的车辆漏洞和漏洞利用.
 - [SANS Internet Storm Center](https://isc.sans.edu/) - 国际学习中心运行常规播客进入最新的漏洞和安全新闻.
 - [Security Ledger](https://soundcloud.com/securityledger) - 播客专注于采访安全专家，了解与安全相关的主题.
@@ -166,7 +176,7 @@ Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
 ## Projects
 
 - [Open Vehicle Monitoring System](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - 为您的汽车构建硬件模块的社区项目，与其通信的服务器以及与服务器通信的移动应用程序，以便允许开发人员和爱好者向他们的汽车添加更多功能并远程控制它.
-- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - 开源汽车控制项目是一个硬件和软件项目，详细说明了将新型车辆转换为自动驾驶研发车辆.
+- [Open Source Car Control Project](https://github.com/PolySync/OSCC) - 开源汽车控制项目是一个硬件和软件项目，详细说明了将最新模型车辆转换为自动驾驶研发车辆.
 
 ## Hardware
 

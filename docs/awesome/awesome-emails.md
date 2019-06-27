@@ -9,7 +9,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
+&gt;一系列令人敬畏的框架，模板，工具，工作流程等等，以构建更好的电子邮件.
 
 
 ## Frameworks
@@ -18,7 +18,8 @@
 - [Email Framework](http://emailframe.work/) - 开发的HTML电子邮件框架，可帮助您构建响应式HTML电子邮件.
 - [HEML](https://heml.io) -  HEML是一种用于构建响应式电子邮件的开源标记语言.
 - [Acorn](https://docs.thememountain.com/acorn/) - 基于黄金比例排版网格的响应式电子邮件框架.
-- [Pine](https://thememountain.github.io/documentation/pine/index.html) - 模块化且轻量级的响应式电子邮件框架.
+- [Pine](https://docs.thememountain.com/pine/) -  12列网格，响应式电子邮件框架.
+- [Maizzle](https://maizzle.com) - 使用Tailwind CSS快速构建HTML电子邮件原型，并通过高级电子邮件进行特定的后期处理.
 
 ## Cheatsheets
 - [Rico's cheatsheet](https://devhints.io/html-email) -  Rico的HTML电子邮件备忘单
@@ -32,7 +33,7 @@
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) -  Antwort为电子邮件提供响应式布局，既适合客户端宽度又适应客户端宽度.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其能够响应支持媒体查询的智能手机.
-- [HTML Email Templates](https://www.htmlemailtemplates.net/) - 用于Startups和SaaS的响应式HTML电子邮件模板.
+- [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个预先测试的模板，适用于任何邮件服务
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的Grunt模板.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - 响应式电子邮件的模式和模块集合.
@@ -46,7 +47,7 @@
 - [MJML App](https://mjmlio.github.io/mjml-app/) -  MJML官方桌面应用程序.
 - [Rollover](http://freshinbox.com/tools/rollover/) - 为电子邮件收件人将光标悬停在图像上时显示替代图像的翻转图像生成代码.
 - [Bulletproof Email Buttons](http://buttons.cm/) - 使用逐步增强的VML和CSS设计华丽的按钮.
-- [Bulletproof Background Images](http://backgrounds.cm/) - 在HTML电子邮件中使用坚如磐石的背景图片，并提供一些帮助.
+- [Bulletproof Background Images](http://backgrounds.cm/) - 在HTML电子邮件中使用坚如磐石的背景图像，并提供一些帮助.
 - [Stripo.email](https://stripo.email/) - 在线拖放和HTML电子邮件构建器，无需任何HTML技能即可快速创建专业且响应迅速的电子邮件模板.
 
 VML和CSS.

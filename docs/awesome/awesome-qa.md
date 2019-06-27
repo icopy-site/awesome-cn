@@ -13,7 +13,10 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## Recent Trend, BERT
+## Recent Trend
+### XLNet
+- 原纸
+  - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)，Zhilin Yang，et al.，ArXiv preprint，2019.
 ### BERT
 - 原纸
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)，Jacob Devlin，et al.，arXiv preprint，2018.
@@ -207,7 +210,7 @@ Lanugage分析
   -  Google QA <a name="qanet"></a>
     - ["QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension"](https://openreview.net/pdf?id=B14TlG-RW)，Adams Wei Yu，David Dohan，Minh-Thang Luong，Rui Zhao，Kai Chen，Mohammad Norouzi，Quoc V. Le，ICLR，2018.
     - ["Ask the Right Questions: Active Question Reformulation with Reinforcement Learning"](https://openreview.net/pdf?id=S1CChZ-CZ)，Christian Buck和Jannis Bulian和Massimiliano Ciaramita和WojciechPawełGajewski以及Andrea Gesmundo和Neil Houlsby以及Wei Wang，ICLR，2018.
-    - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf)，Radu Soricut，Nan Ding，2018.
+    - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf)，Radu Soricut和Nan Ding，2018.
   - 句子代表
     - ["An efficient framework for learning sentence representations"](https://arxiv.org/pdf/1803.02893.pdf)，Lajanugen Logeswaran，Honglak Lee，ICLR，2018.
   - ["Did the model understand the question?"](https://arxiv.org/pdf/1805.05492.pdf)，Pramod K. Mudrakarta和Ankur Taly和Mukund Sundararajan以及K​​edar Dhhamdhere，ACL，2018年.

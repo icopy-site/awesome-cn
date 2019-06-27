@@ -517,7 +517,7 @@ https://twitter.com/Srushtika
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Yoshua Wuyts **
+**Yoshua Wuyts**\
 主题：框架，简洁性，标准，图书馆\
 https://twitter.com/yoshuawuyts
 
@@ -533,7 +533,7 @@ https://twitter.com/iamjoyclark
 
 <img src="https://twitter.com/smashingmag/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Vitaly Friedman**\
+**维塔利弗里德曼**
 主题：网页设计，网站开发，响应式网页设计
 https://twitter.com/smashingmag
 
@@ -1214,6 +1214,12 @@ https://twitter.com/SilentImp
 主题：ClojureScript，React，编译器\
 https://twitter.com/roman01la
 
+<img src="https://twitter.com/ImpressAppSrv/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+** Timur Shemsedinov ** \
+主题：Node.js，编程，JavaScript，Highload \
+https://twitter.com/ImpressAppSrv
+
 <img src="https://twitter.com/mourner/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **弗拉基米尔·阿加福金**
@@ -1604,7 +1610,7 @@ https://twitter.com/ken_wheeler
 
 <img src="https://twitter.com/GantLaborde/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Glove Laborde ** \
+**手套Laborde ** \
 主题：JavaScript，React Native，Leadership，Redux，开源，工具，公开演讲\
 https://twitter.com/GantLaborde
 

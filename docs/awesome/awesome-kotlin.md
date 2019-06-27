@@ -145,6 +145,7 @@
 * [codecentric/hikaku](https://github.com/codecentric/hikaku) - 一个库，用于测试REST-API的实现是否符合其规范.
 * [serpro69/kotlin-faker](https://github.com/serpro69/kotlin-faker) - 在kotlin写的红宝石faker宝石端口
 * [skrapeit/skrape.it](https://github.com/skrapeit/skrape.it) -  DSL驱动的HTML / XML解析器库，可以对渲染的HTML模板进行有意义的测试.
+* [krzema12/PlotAssert](https://github.com/krzema12/PlotAssert) - 测试你的功能的形状！
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
 * [Kodein-Framework/Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI) - 无痛Kotlin依赖注射.
@@ -204,7 +205,7 @@
 * [Ganet/rxaerospike](https://github.com/Ganet/rxaerospike) - 用于aerospike-client-java的RxJava2包装器.
 * [Raizlabs/DBFlow](https://github.com/Raizlabs/DBFlow) - 一个超快速，功能强大且非常简单的ORM android数据库库，可以为您编写数据库代码.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - 用于postgres / mysql的mauricio异步驱动程序的Kotlin / Gradle端口.
-* [shyiko/levelkt](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
+* [shyiko/levelkt](https://github.com/shyiko/levelkt) - 用于Kotlin和/或Java 8+的LevelDB客户端.
 * [SubiyaCryolite/jds](https://github.com/SubiyaCryolite/jds)   -  Jenesis Data Store：动态，跨平台，高性能的ORM数据映射器.  旨在帮助快速开发和数据挖掘.
 * [dizitart/potassium-nitrite](https://github.com/dizitart/nitrite-database/tree/master/potassium-nitrite) - 亚硝酸钾是亚硝酸盐数据库的kotlin扩展，这是一个开源的nosql嵌入式文档存储，有像api这样的mongodb.
 * [pm-dev/kotlin-gremlin-ogm](https://github.com/pm-dev/awesome-kotlin) -  Kotlin-gremlin-ogm是一个类型安全的对象/图形映射库，用于启用Gremlin的图形数据库.
@@ -489,7 +490,7 @@
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
 * [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - 将适配器模式和DiffUtil引入Google Maps和MapBox的库.
-* [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - 简单的android库，呈现动画摩天轮
+* [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
 * [ehsunshine/colored-time-selector](https://github.com/ehsunshine/colored-time-selector)   - 智能彩色时间选择器.  用户可以通过方便的彩色范围选择器选择空闲时间.
 * [yundom/kache](https://github.com/yundom/kache) - 用Kotlin编写的轻量级缓存库.
 * [adrielcafe/KBus](https://github.com/adrielcafe/KBus) - 使用Kotlin和RxJava 2制作的死亡简单EventBus for Android
@@ -528,7 +529,7 @@
 * [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 带闪光灯，变焦且无广告的相机.
 * [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - 可以使用不同颜色绘制的画布.
 * [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 用于浏览和编辑文件和目录的简单文件管理器.
-* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 用于查看没有广告的照片和视频的图库.
+* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 * [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 用于添加没有广告的快速笔记的简单文本字段.
 * [ahong222/happy21](https://github.com/ahong222/happy21) - 一个简单的黑杰克游戏与kotlin写
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - 广泛的Kotlin Android Utils系列
@@ -584,7 +585,7 @@
 
 ### <a name="kotlin-javascript-build-tools"></a>Build Tools <sup>[Back ⇈](#kotlin-javascript-build-tools-subcategory)</sup>
 * [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - 用于前端开发的Gradle Kotlin插件.
-* [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) -  Kotlin webpack loader.
+* [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
 
 ### <a name="kotlin-javascript-integration"></a>Integration <sup>[Back ⇈](#kotlin-javascript-integration-subcategory)</sup>
 * [kotlin/ts2kt](https://github.com/kotlin/ts2kt) - 将TypeScript定义文件转换为Kotlin声明（存根）.
@@ -757,7 +758,7 @@
 * [Fayoum Kotlin User Group](https://www.facebook.com/kdgfayoum/) - 埃及
 * [Johannesburg Kotlin User Group](https://www.meetup.com/Kotlin-Software-Development-Meetup/) - 南非
 * [Lagos Kotlin User Group](https://www.meetup.com/Lagos-Kotlin-Meetup/) - 尼日利亚
-* [Lome Kotlin User Group](https://www.facebook.com/groups/1825278611119862/) - Togo
+* [Lome Kotlin User Group](https://www.facebook.com/groups/1825278611119862/) - 多哥
 * [Minya Kotlin User Group](https://www.facebook.com/kotlinminya/) - 埃及
 * [Nairobi Kotlin User Group](https://www.meetup.com/KotlinKenya/) - 肯尼亚
 * [Noun Kotlin User Group](https://www.meetup.com/Noun-Kotlin-User-Group/) - 喀麦隆
@@ -805,7 +806,7 @@
 ### <a name="articles-blog-posts-january-2017"></a>January 2017 <sup>[Back ⇈](#articles-blog-posts-january-2017-subcategory)</sup>
 * [Leveraging TornadoFX to the fullest](http://kotlin.link/articles/-.html) - 埃德温镇
 * [Why I prefer Kotlin](http://kotlin.link/articles/-.html) - 格雷厄姆考克斯
-* [Kanvas: generating a simple IDE from your ANTLR grammar](http://kotlin.link/articles/-.html) - Federico Tomassetti
+* [Kanvas: generating a simple IDE from your ANTLR grammar](http://kotlin.link/articles/-.html) -  Federico Tomassetti
 * [How I built my first Kotlin-VertX-Hibernate stack](http://kotlin.link/articles/-.html) -  Jan Vladimir Mostert
 * [Introducing Kotlin support in Spring Framework 5.0](http://kotlin.link/articles/-.html) - SébastienDeleuze
 * [I wrote my website in Kotlin](http://kotlin.link/articles/-.html) - 刘易斯莱茵河
@@ -876,7 +877,7 @@
 ### <a name="articles-blog-posts-september-2016"></a>September 2016 <sup>[Back ⇈](#articles-blog-posts-september-2016-subcategory)</sup>
 * [Kotlin census: call to action](http://kotlin.link/articles/-.html) - 罗曼贝洛夫
 * [Building DSL Instead of an IDE Plugin](http://kotlin.link/articles/-.html) - 尤金佩特伦科
-* [Building a compiler for your own language: validation](http://kotlin.link/articles/-.html) - Federico Tomassetti
+* [Building a compiler for your own language: validation](http://kotlin.link/articles/-.html) -  Federico Tomassetti
 * [Kotlin vs Java: Compilation speed](http://kotlin.link/articles/-.html) -  AJ Alt
 * [Crafting Log4j Configuration DSL](http://kotlin.link/articles/-.html) - 尤金佩特伦科
 * [A Developer’s Look at Kotlin](http://kotlin.link/articles/-.html) - 大卫博尔顿

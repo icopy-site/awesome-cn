@@ -111,7 +111,7 @@ it.
 部门]（http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department） - 
 错误的日历会计的后果.
 -  [ISO-8601，YYYY，yyyy，为什么你的年份可能会如此 
-错误]（https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/） - 
+wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -
 字符串格式化日期很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有关日期和时间（特别是UTC）的边缘情况，您可能没有想到.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “以UTC格式存储日期”并不总是正确的做法.
@@ -141,7 +141,7 @@ RFC]（https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-ad
 ## Human Identity
 
 -  [虚假关于
-Names](https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/) -
+姓名]（https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/） - 
 开始这一切的文章.
 - 关于性别的虚假： [#1](https://gist.github.com/garbados/f82604ea639e0e47bf44) &
 [#2](https://medium.com/gender-2-0/falsehoods-programmers-believe-about-gender-f9a3512b4c9c) -
@@ -247,7 +247,7 @@ code.
 ## Science
 
 -  [关于制度的虚假]
-Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html) -
+测量]（https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe-about-systems-of-measurement.html） - 
 使用测量系统并在它们之间进行转换.
 
 
@@ -257,7 +257,7 @@ Measurement](https://www.stevemoser.org/posts/dev/falsehoods-programmers-believe
 任命]（https://twitter.com/oliver_dw/status/737930439575404544） - 
 设计选举制度有其自己的技巧.
 -  [关于女性的虚假]
-Tech]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477） - 关于女性的神话
+Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
 在STEM（科学，技术，工程，数学）行业.
 
 
@@ -300,12 +300,15 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 - [Falsehoods About Search](https://opensourceconnections.com/blog/2019/05/29/falsehoods-programmers-believe-about-search/) -
 为什么搜索（包括分析，标记化，突出显示）具有欺骗性
 complex.
+- [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个讲话可能被称为关于用户名（和其他标识符）的谎言.
 
 
 ## Typography
 
 - [Falsehoods About Fonts](https://github.com/RoelN/Font-Falsehoods) -
 关于Web和桌面应用程序中排版的假设.
+- [Truths programmers should know about case](https://www.b-list.org/weblog/2018/nov/26/case/) - 完全相反
+关于案例主题的falshoods格式（如大写和小写文本）. 
 
 
 ## Contributing

@@ -104,7 +104,6 @@ _Libraries和frameworks._
 ### Operating Systems
 _Operating Systems和Linux发行版._
 
-- [Antergos](https://www.patreon.com/antergos) -  Linux发行版.
 - [Elementary OS](https://www.patreon.com/elementary) -  Ubuntu变种. 
 - [GhostBSD](https://www.patreon.com/GhostBSD) - 以桌面为中心的BSD OS.
 - [LineageOS](https://www.paypal.me/LineageOS) -  CyanogenMod的叉子. 
@@ -139,6 +138,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Andreas Pardeike](https://www.patreon.com/pardeike) - 编程教程，游戏和mods.
 - [Andrius Štikonas](https://liberapay.com/stikonas) -  KDE贡献者，主要是KDE分区管理器
 - [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎以及更多项目
+- [byuu](https://www.patreon.com/byuu) - 模拟器和游戏保存.
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - 维护Visual Studio Code的CMake工具，创建视频教程.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.

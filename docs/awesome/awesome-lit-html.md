@@ -51,9 +51,9 @@
 
 这些不是lit-html本身的实现，而是官方LitElement基类的社区扩展.
 
-- [@dabolus/localized-lit-element](https://www.npmjs.com/package/@dabolus/localized-lit-element) -  LitElement扩展，提供简单的l10n开箱即用.
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - 与Apollo GraphQL的LitElement集成.
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -  LitElement的小型mixin可通过属性getter轻松更改事件.
+- [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -  LitElement扩展，提供简单的l10n开箱即用.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 
 ## Components
@@ -107,6 +107,8 @@
 
 ## Blogs
 
+- [A gentle introduction to lit-html](https://dev.to/julcasans/a-gentle-introduction-to-lit-html-3d74)
+- [lit-html templates from zero to hero](https://dev.to/julcasans/lit-html-templates-from-zero-to-hero-2afm)
 - [Building a chat with Twilio, lit-html, Parcel and TypeScript](https://dev.to/dkundel/building-a-chat-with-twilio-lit-html-parcel-and-typescript-1jo1)
 - [Making a fullstack CRUD app with LitHTML, Redux, Express, and Webpack](https://medium.com/@pascalschilp/making-a-fullstack-crud-app-with-lithtml-redux-express-and-webpack-fe7e5cf8b3ef)
 - [The future of Polymer & lit-html](https://43081j.com/2018/08/future-of-polymer)

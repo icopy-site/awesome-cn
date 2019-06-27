@@ -485,6 +485,11 @@
 
 - [XSRFProbe](https://github.com/0xInfection/XSRFProbe) -  Prime CSRF审计与开发工具包 [@0xInfection](https://github.com/0xinfection).
 
+<a name="tools-ssrf"></a>
+#### Server-Side Request Forgery
+
+- [Open redirect/SSRF payload generator](https://tools.intigriti.io/redirector/) - 打开重定向/ SSRF有效负载生成器 [intigriti](https://www.intigriti.com/).
+
 <a name="tools-leaking"></a>
 ### Leaking
 
@@ -520,7 +525,7 @@
 ### Proxy
 
 - [Charles](https://www.charlesproxy.com/) -  HTTP代理/ HTTP监视器/反向代理，使开发人员能够查看其计算机和Internet之间的所有HTTP和SSL / HTTPS流量.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
+- [mitmproxy](https://github.com/mitmproxy/mitmproxy) - 支持交互式TLS的拦截HTTP代理，用于渗透测试人员和软件开发人员 [@mitmproxy](https://github.com/mitmproxy).
 
 <a name="tools-webshell"></a>
 ### Webshell
@@ -582,7 +587,7 @@
 - [@cure53berlin](https://twitter.com/cure53berlin) - [Cure53](https://cure53.de/) 是一家德国网络安全公司.
 - [@XssPayloads](https://twitter.com/XssPayloads) -  JavaScript意外用法的仙境，等等.
 - [@kinugawamasato](https://twitter.com/kinugawamasato) - 日本网络穿透器.
-- [@h3xstream](https://twitter.com/h3xstream/) - 安全研究员，对网络安全，加密，测试，静态分析感兴趣，但最重要的是，萨米是我的英雄.
+- [@h3xstream](https://twitter.com/h3xstream/) - Security Researcher, interested in web security, crypto, pentest, static analysis but most of all, samy is my hero.
 - [@garethheyes](https://twitter.com/garethheyes) - 英文网络穿透者.
 - [@hasegawayosuke](https://twitter.com/hasegawayosuke) - 日本javascript安全研究员.
 

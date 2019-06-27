@@ -110,6 +110,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [turkish-number](https://github.com/izniburak/turkish-number) - 将整数转换为土耳其语
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -  libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
 
+## Cryptography
+ * [cox](https://github.com/didactic-drunk/cox) -  libsodium crypto API的水晶包装
+ * [openssl.cr](https://github.com/z64/openssl.cr) - 此库为OpenSSL库提供绑定
+
 ## Data Formats
  * [BinData](https://github.com/spider-gazelle/bindata) - 二进制数据解析器帮助器 [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) 解析器
  * [config.cr](https://github.com/chris-huxtable/config.cr) - 易于使用的配置格式解析器
@@ -139,7 +143,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) -  MonetDB的绑定
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) -  Crystal的MySQL连接器
  * [crystal-pg](https://github.com/will/crystal-pg) - 一个Postgres司机
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - 功能齐全的Redis客户端
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -  RethinkDB / RebirthDB的驱动程序
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -  SQLite3绑定
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -  EventQL驱动程序
@@ -193,7 +197,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - 使用Kemal和WebSocket构建实时应用程序
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - 此存储库显示，如何在几秒钟内发布开源应用程序，这些应用程序将kemal框架作为heroku app发布
- * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - 用Crystal，Kemal和MySQL编写的博客
+ * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - 使用Kemal和React构建实时Web应用程序
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) - 使用Kemal和Vue.js构建实时Web应用程序
  * [lattice-core-card-game](https://github.com/jasonl99/card_game) - 针对（基于WebSocket的）网格核心的演示Web应用程序
@@ -279,7 +283,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [cibyl](https://github.com/senselogic/CIBYL) - 轻量级花括号语言，编译为Ruby和Crystal
  * [cltk](https://github.com/ziprandom/cltk) -  Ruby Language Toolkit的水晶端口
  * [cppize](https://github.com/unn4m3d/cppize) -  Crystal-to-C ++转换器
- * [crisp](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [crisp](https://github.com/rhysd/Crisp) - 用Crystal实现的Lisp方言
  * [crow](https://github.com/geppetto-apps/crow) - 透明/编译Crystal到 [Flow](https://flow.org/)
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
@@ -300,7 +304,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Machine Learning
  * [ai4cr](https://github.com/drhuffman12/ai4cr) - 人工智能（基于https://github.com/SergioFierens/ai4r）
  * [Cadmium](https://github.com/watzon/cadmium) -  NLP库严重依赖 [natural](https://github.com/NaturalNode/natural)
- * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-fann](https://github.com/NeuraLegion/crystal-fann) -  FANN（快速人工神经网络）绑定
  * [crystal-learn](https://github.com/pbrusco/crystal-learn) - 类似Sklearn的机器学习库
  * [shainet](https://github.com/NeuraLegion/shainet) -  SHAInet（纯晶体中的神经网络）
  * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - 绑定 [TensorFlow](https://github.com/tensorflow/tensorflow)
@@ -317,7 +321,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 实现断路器模式
  * [compiled_license](https://github.com/elorest/compiled_license) - 在没有代码的情况下将二进制文件复制到系统或容器时，将许可证编译为二进制文件以便与MIT兼容
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -  Crystal的Web框架，大部分都出自Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - 表情符号库
@@ -558,7 +562,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [DPPM](https://github.com/DFabric/dppm) - 一种简单，通用的方式来安装和管理应用程序（主要是Linux）
 
 ## Editor Plugins
- * Atom
+ *原子
    * [crystal-tools](https://atom.io/packages/crystal-tools) - 在Crystal编译器中启用内置工具
    * [language-crystal-actual](https://atom.io/packages/language-crystal-actual) -  Atom中的Crystal语言支持
  * Emacs

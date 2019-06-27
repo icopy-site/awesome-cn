@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="TheJambo/awesome-testing"></div>
-![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
+![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
 ## Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;精选的测试软件，扩展和资源列表
 
@@ -40,9 +40,9 @@
 - [Software Testing: An ISTQB-BCS Certified Tester Foundation guide](https://amzn.to/2LY8ibJ) - 我去预订全新的测试人员.
 - [Agile Testing: A Practical Guide](https://amzn.to/2n1K2aG) - 如何指导那些希望过渡到敏捷作为测试人员以及作者如何在他们的敏捷团队中工作的人.
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 关于构建探索性测试和设计测试的非常好的书.
-- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解最常用的测试技术，即现在使用的域测试（也称为边界分析和等价类划分），其中有许多示例可以变得更好.
+- [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解目前使用的最常见的测试技术，即域测试（也称为边界分析和等价类划分），其中有许多示例可以变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本非常有用的可用性测试书.
-- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - 关于软件测试的最好的书之一，分为现在适用的一小部分课程.
+- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - 关于软件测试的最佳书籍之一，分为现在适用的一小部分课程.
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - 关于我们如何制定决策以及如何进行实验（实验==测试）.
 
@@ -69,7 +69,7 @@
 ### Useful References
 - [The Original](https://github.com/sindresorhus/awesome) - 令人敬畏的精彩列表清单.
 - [Learn to Code](https://github.com/karlhorky/learn-to-program) - 为那些希望转向自动化的人学习编码
-- [Application Security](https://github.com/paragonie/awesome-appsec) - 令人难以置信的广泛，但你会找到符合条件的东西.
+- [Application Security](https://github.com/paragonie/awesome-appsec) - 令人难以置信的广泛，但你会找到适合该法案的东西.
 - [Selenium](https://github.com/christian-bromann/awesome-selenium) - 如果你知道自己想要什么，那么比搜索谷歌更好.
 - [Security](https://github.com/sbilly/awesome-security) - 这主要集中在基础设施上，但如果您正在测试一系列系统，这非常有用.
 - [Awesome Software Quality](https://github.com/ligurio/awesome-software-quality) - 免费软件测试和验证资源列表.
@@ -79,7 +79,7 @@
 - [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
 - [Testers.io](http://www.testers.io/)   - 社区懒散的测试人员讨论一切和咆哮.  大部分都是咆哮.
 - [Software Testing Conferences](http://testingconferences.org/) - 软件测试会议和研讨会的清单.
-- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常错误的待办事项列表，以促进面对面的采访.
+- [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常错误的待办事项清单，以促进面对面的采访.
 
 ## Contributing
 查看*真棒测试* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
