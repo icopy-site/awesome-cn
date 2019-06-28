@@ -120,7 +120,7 @@ ORMs
 Wrappers
 --------
 
-*：明星： [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
+*：明星： [postmodern](http://marijnhaverbeke.nl/postmodern/)   - 用于与PostgreSQL交互的库.  [ZLIB] [33].
 * [cl-sqlite](https://github.com/dmitryvk/cl-sqlite)   -  SQLite的绑定.  公共区域.
 * [cl-memcached](https://github.com/quasi/cl-memcached)   -  Memcached对象缓存系统的快速，线程安全的接口.  [外籍] [14].
 * [cl-mongo](https://github.com/fons/cl-mongo)   -  MongoDB客户端.  [外籍] [14].
@@ -386,7 +386,7 @@ Beginner
 --------
 
 * [Learn X in Y minutes - Where X = Common Lisp](https://learnxinyminutes.com/docs/common-lisp/) - 小型Common Lisp教程，涵盖了必需品.
-* [Practical Common Lisp] [206]  -  Common Lisp的一个很好的介绍性文本，附带实例.
+ * [Practical Common Lisp] [206]  -  Common Lisp的一个很好的介绍性文本，附带实例.  更好地阅读 [a Firefox add-on](https://github.com/vale981/practical-cl-beautified).
 * [Common LISP: A Gentle Introduction to Symbolic Computation](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/dst/www/LispBook/index.html) - 对语言的一个很好的介绍.
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm)   - 一套很好的入门教程;  包括交互式示例.
 * [Successful Lisp](http://successful-lisp.blogspot.com/) - 一本适合初学者的好书，有一些编程背景.
@@ -507,8 +507,8 @@ HTTP客户端
 
 HTTP服务器
 ------------
-* [Clack](https://github.com/fukamachi/clack)   - 受Rack和WSGI启发的Web应用程序环境.  [LLGPL] [8].  为所选的Web服务器提供统一的界面（默认为Hunchentoot）.
-*：明星： [Hunchentoot](http://weitz.de/hunchentoot/)   -  Web服务器.  [2条款BSD] [207]
+* [Clack](https://github.com/fukamachi/clack)   - 受Rack和WSGI启发的Web应用程序环境.  [LLGPL] [8].  为所选的Web服务器提供统一的界面（默认为Hunchentoot）.  随着更多 [getting started guide](https://jasom.github.io/clack-tutorial/pages/getting-started-with-clack/).
+*：明星： [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve](https://github.com/franzinc/aserve)   -  AllegroServe;  一个Web服务器.  [LLGPL] [8].
 * [wookie](https://github.com/orthecreedence/wookie)   - 异步HTTP服务器.  [外籍] [14].
 * [woo](https://github.com/fukamachi/woo)   -  libev上的快速非阻塞HTTP服务器.  [MIT] [200].
@@ -571,7 +571,7 @@ HTML生成器和模板
 * [cl-markup](https://github.com/arielnetworks/cl-markup)   - 现代标记生成库.  [LLGPL] [8].
 * [eco](https://github.com/eudoxia0/eco)   - 快速，灵活，设计师友好的模板引擎.  [外籍] [14].
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
-* [clip](https://shinmera.github.io/clip)   -  HTML模板处理器，其中模板以HTML编写.  [艺术许可2.0] [51].
+* [clip](https://shinmera.github.io/clip) - An HTML template processor where the templates are written in HTML. [Artistic License 2.0][51].
 
 URI动作
 ------------
@@ -779,7 +779,7 @@ Scripting
 supports a full development environment, including dynamic file
  加载和调试.  GDB的修改版本用于调试WCL
 程序，为混合语言调试提供支持.
-* [replic](https://github.com/vindarel/replic/) - helpers to turn existing code into a readline application, with a focus on defining the completion of the commands' arguments. Also comes as a ready to use executable, that transforms a user's lispy init file into readline commands. [MIT][200].
+* [replic](https://github.com/vindarel/replic/)   - 帮助者将现有代码转换为readline应用程序，重点是定义命令参数的完成.  也是一个随时可用的可执行文件，它将用户的lispy init文件转换为readline命令.  [MIT] [200].
 * [cl-all](https://github.com/shinmera/cl-all)   - 在多个实现中运行Lisp代码段的脚本.  这使您可以快速比较实现行为和差异.  [艺术许可2.0] [51].
 
 文本编辑器资源
@@ -916,7 +916,7 @@ CSV
 * [chronicity](https://github.com/chaitanyagupta/chronicity)   - 自然语言日期和时间解析，用于解析“从现在开始3天”等字符串.  [BSD_3Clause] [15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
  持续时间处理库建立在本地时间之上.  [MIT] [200].
-* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date)   -  Common Lisp中的其他日期例程，基于ISO 8601字符串表示.  [LLGPL] [8].
+* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
 
 数据验证
 ---------------
@@ -1048,7 +1048,7 @@ Other
 XML
 ===
 
-* [CXML](https://common-lisp.net/project/cxml/) - XML parser, with a range of extension libraries. [LLGPL][8].
+* [CXML](https://common-lisp.net/project/cxml/)   -  XML解析器，具有一系列扩展库.  [LLGPL] [8].
  * [丰满] [71]  - 宽松的XML解析器.  [艺术许可2.0] [51].
 * [xpath](https://github.com/sharplispers/xpath) ([homepage](https://common-lisp.net/project/plexippus-xpath/atdoc/index.html)   -  XML路径语言（XPath）版本1.0的实现.  [BSD_2Clause] [17].
 * [s-xml](http://cliki.net/S-XML)   - 一个基本的解析器.  [LLGPL] [8].

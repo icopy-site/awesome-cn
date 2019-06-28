@@ -88,7 +88,7 @@
 - [Unity](https://unity3d.com/) [Mac，Win]  - 游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]  - 开源，实时协作WebGL引擎.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]  - 用于构建签名距离函数的GLSL库.
-- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing是一组类，它们在使用最少量的代码编写时执行繁重的任务.
+- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing，是一组类，它们在使用最少量的代码编写时执行繁重的任务.
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]  - 开源，现场图形，Swift框架，由Metal提供支持.
 
 ### Visual Programming Languages
@@ -213,7 +213,7 @@
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) - 使用three.js介绍WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - ÍñigoQuílez收集现场编码视频.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -  Bruno Imbrizi在WebExpo 2016上使用帆布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者研讨会.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - 关于创建3D游戏OpenG的初学者教程系列.
@@ -221,6 +221,7 @@
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - 我如何学会停止担忧和爱线性代数.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) - 由Steven Wittens谈论WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) - 扎克利伯曼的激动人心的谈话.
+- [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -  FITC由Matt DesLauriers谈论他对生成艺术的热情.
 
 
 ### Articles • Tutorials
@@ -315,7 +316,7 @@
 
 ### Quick References • Cheatsheets
 
-- [Shaderific GLSL](http://www.shaderific.com/glsl/) - OpenGL ES shading language reference.
+- [Shaderific GLSL](http://www.shaderific.com/glsl/) -  OpenGL ES着色语言参考.
 - [The Book of Shaders Glossary](https://thebookofshaders.com/glossary/) -  Shader词汇表主题.
 - [gltut glossary pages: 1](https://paroj.github.io/gltut/Basics/Intro%20Glossary.html), [2](https://paroj.github.io/gltut/Basics/Tut01%20Glossary.html), [3](https://paroj.github.io/gltut/Basics/Tut02%20Glossary.html), [4](https://paroj.github.io/gltut/Positioning/Tut04%20Glossary.html), [5](https://paroj.github.io/gltut/Positioning/Tut05%20Glossary.html), [6](https://paroj.github.io/gltut/Positioning/Tut06%20Glossary.html), [7](https://paroj.github.io/gltut/Positioning/Tut07%20Glossary.html), [8](https://paroj.github.io/gltut/Positioning/Tut08%20Glossary.html) -  OpenGL 3D编程术语表.
 - [Canvas Cheatsheet](https://skilled.co/html-canvas/images/HTML_Canvas_Cheatsheet.pdf) - 快速和可视的帆布备忘单.
