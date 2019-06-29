@@ -56,6 +56,7 @@ HPGL是一种基于串行/文本的协议，大多数旧笔绘图仪使用，甚
 - [d3-hpgl](https://github.com/aubergene/d3-hpgl) -  HTML Canvas API的适配器，因此您可以使用流行的输出HPGL [D3](https://d3js.org) 图书馆.
 - [HPGL Viewer](https://github.com/drskullster/HPGLViewer) - 使用JavaScript和HTML5画布的HPGL Viewer.
 - [HPGL Sender](https://github.com/LgHS/hpgl-sender) - 用于预览HPGL并将其发送到绘图仪的Web界面.
+- [HPGLGraphics](https://github.com/ciaron/HPGLGraphics) - 用于编写HPGL文件的Processing库.
 
 ### G-code
 
@@ -164,6 +165,7 @@ HPGL是一种基于串行/文本的协议，大多数旧笔绘图仪使用，甚
 - [AxiDraw Subreddit](https://www.reddit.com/r/axidraw)
 - [Generative Art Subreddit](https://www.reddit.com/r/generative)
 - [Chiplotle-discuss](https://lists.columbia.edu/mailman/listinfo/chiplotle-discuss) -  Chiplotle HPGL Python库的相当不活跃的邮件列表，带有一些普通的绘图仪说话.
+- [Plotter People](https://plotterpeople.github.io/) - 与会谈和绘图艺术画廊的现场聚会（SF和纽约市到目前为止）.
 
 ## Plotter Art For Sale
 

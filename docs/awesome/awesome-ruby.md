@@ -161,7 +161,7 @@
 * [Betty](https://github.com/pickhardt/betty)   - 为您的命令行提供类似英语的友好界面.  不记得命令？  问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) - 扩展String类或使用方法添加ColorizedString以设置文本颜色，背景颜色和文本效果.
 * [colorls](https://github.com/athityakumar/colorls) - 美化`ls`命令，使用颜色和字体很棒的图标.
-* [formatador](https://github.com/geemus/formatador) -  STDOUT文本格式.
+* [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
 * [Paint](https://github.com/janlelis/paint) - 设置ANSI终端颜色的简单快捷方式.
 * [Pastel](https://github.com/peter-murach/pastel) - 终端输出样式，直观，干净的API.
 * [Ru](https://github.com/tombenner/ru) - 你的shell中的Ruby.
@@ -205,6 +205,7 @@
 * [Rubycritic](https://github.com/whitesmith/rubycritic) -  Ruby代码质量记者.
 * [Scientist](https://github.com/github/scientist) - 用于仔细重构关键路径的Ruby库.
 * [SimpleCov](https://github.com/colszowka/simplecov) -  Ruby 1.9+的代码覆盖范围，具有强大的配置库和跨测试套件的自动合并范围.
+* [Sorbet](https://github.com/sorbet/sorbet) -  Ruby的静态类型检查器.
 * [Suture](https://github.com/testdouble/suture) - 一个Ruby gem，可帮助您重构遗留代码.
 * [Traceroute](https://github.com/amatsuda/traceroute) - 一个Rake任务gem，可以帮助您找到Rails 3+应用程序的死路径和操作
 
@@ -303,7 +304,7 @@
 ## Database Drivers
 
 * [Cassandra Driver](https://github.com/datastax/ruby-driver) -  Apache Cassandra的纯ruby驱动程序，具有异步io和可配置的负载平衡，重新连接和重试策略.
-* [DataObjects](https://github.com/datamapper/do) - An attempt to rewrite existing Ruby database drivers to conform to one, standard interface.
+* [DataObjects](https://github.com/datamapper/do) - 尝试重写现有的Ruby数据库驱动程序以符合一个标准接口.
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) -  MongoDB Ruby驱动程序.
 * [mysql2](https://github.com/brianmario/mysql2) - 一个用于Ruby的现代，简单且非常快速的Mysql库（绑定到libmysql）.
 * [Neography](https://github.com/maxdemarzi/neography) -  Neo4j Rest API的瘦Ruby包装器.
@@ -377,7 +378,7 @@
 * [Einhorn](https://github.com/stripe/einhorn)   -  Einhorn将打开一个或多个共享套接字并运行您的进程的多个副本.  您可以无缝地重新加载代码，动态重新配置Einhorn等.
 * [Itamae](https://github.com/itamae-kitchen/itamae) - 灵感来自Chef的简单轻量级配置管理工具.
 * [Kochiku](https://github.com/square/kochiku) -  Kochiku是一个用于测试自动化的分布式平台.
-* [Lita](https://www.lita.io/) - ChatOps for Ruby: A pluggable chat bot framework usable with any chat service.
+* [Lita](https://www.lita.io/) -  Ruby的ChatOps：可与任何聊天服务一起使用的可插入聊天机器人框架.
 * [Logstash](https://github.com/elastic/logstash) - 日志/事件传输，处理，管理，搜索.
 * [Mina](https://github.com/mina-deploy/mina) - 真正快速的部署和服务器自动化工具.
 * [Puppet](https://github.com/puppetlabs/puppet) - 适用于Linux，Unix和Windows系统的自动管理引擎，可根据集中式规范执行管理任务（如添加用户，安装软件包和更新服务器配置）.
@@ -543,7 +544,7 @@
 
 * [ginatra](https://github.com/NARKOZ/ginatra) -  Git存储库的Web前端.
 * [git-auto-bisect](https://github.com/grosser/git-autobisect) - 找到破坏主人的提交.
-* [git_reflow](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
+* [git_reflow](https://github.com/reenhanced/gitreflow) - 敏捷团队的自动化质量控制工作流程.
 * [git-spelunk](https://github.com/osheroff/git-spelunk) - 挖掘git责备历史.
 * [git-up](https://github.com/aanand/git-up) - 获取并重新绑定所有本地跟踪的远程分支.
 * [git-whence](https://github.com/grosser/git-whence) - 查找提交来自哪个合并.
@@ -571,7 +572,7 @@
 * [Nokogiri](https://nokogiri.org) - 具有XPath和CSS选择器支持的HTML，XML，SAX和Reader解析器.
 * [Oga](https://github.com/YorickPeterse/oga)   - 用Ruby编写的XML / HTML解析器.  Oga不需要libxml等系统库，因此可以更轻松，更快地在各种平台上安装.
 * [Ox](https://github.com/ohler55/ox) - 快速XML解析器和Object marshaller.
-* [ROXML](https://github.com/Empact/roxml) - 使用注释样式类方法，通过Nokogiri或LibXML在Ruby和XML之间自定义映射和双向编组.
+* [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
 ## HTTP Clients and tools
 
@@ -621,7 +622,7 @@
 
 ## IRB
 
-* [Clipboard](https://github.com/janlelis/clipboard) - 访问Linux，MacOS和Windows上的系统剪贴板.
+* [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Hirb](https://github.com/cldwalker/hirb)   - 控制台/ irb的迷你视图框架，即使在其影响下也易于使用.  控制台好东西包括一个无包装表，自动寻呼机，树和菜单.
 * [irbtools](https://github.com/janlelis/irbtools) -  Ruby IRB的改进.
 * [Looksee](https://github.com/oggy/looksee)   - 用于说明对象的祖先和方法查找路径的工具.  方便探索不熟悉的代码库.
@@ -670,7 +671,7 @@
 * [fastlane](https://github.com/fastlane/fastlane) - 将所有iOS部署工具连接到一个简化的工作流程中.
 * [Ruboto](https://github.com/ruboto/ruboto) - 使用Ruby语言和库为Android开发完整的独立应用程序的平台.
 * [RubyMotion](http://www.rubymotion.com) - 革命性的工具链，可让您快速开发和测试适用于iPhone，iPad，Mac和Android的完整原生iOS和OS X应用程序.
-* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) -  iOS，Android和Windows Phone推送通知变得简单.
+* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
 * [Rpush](https://github.com/rpush/rpush) -  Ruby推送通知服务，支持Apple推送通知服务，Google云消息传递，亚马逊设备消息传递和Windows Phone推送通知服务.
 * [webpush](https://github.com/zaru/webpush) - 用于Web推送协议的加密实用程序
 
@@ -731,13 +732,13 @@
 * [Ohm](https://github.com/soveran/ohm) -  Redis的Object-hash映射库.
 * [Perpetuity](https://github.com/jgaskins/perpetuity) - 使用Data Mapper模式的Ruby对象的持久性gem.
 * [Redis-Objects](https://github.com/nateware/redis-objects) -  Redis Objects通过redis gem上的薄层将Redis数据类型映射到Ruby对象，为Redis提供Rubyish接口.
-* [ROM](https://github.com/rom-rb/rom) - Ruby Object Mapper (ROM) is an experimental Ruby library with the goal to provide powerful object mapping capabilities without limiting the full power of your datastore.
+* [ROM](https://github.com/rom-rb/rom) -  Ruby Object Mapper（ROM）是一个实验性的Ruby库，其目标是提供强大的对象映射功能，而不会限制数据存储的全部功能.
 * [Sequel](https://github.com/jeremyevans/sequel) -  Sequel是一个简单，灵活，功能强大的Ruby数据库访问工具包.
 
 ## ORM/ODM Extensions
 
 *审计和版本控制
-  * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) - ActiveRecord plugin allowing you to hide and restore records without actually deleting them.
+  * [ActsAsParanoid](https://github.com/ActsAsParanoid/acts_as_paranoid) -  ActiveRecord插件允许您隐藏和恢复记录而不实际删除它们.
   * [Audited](https://github.com/collectiveidea/audited) -  Audited是ActiveRecord和MongoMapper的ORM扩展，用于记录模型的所有更改.
   * [Destroyed At](https://github.com/dockyard/ruby-destroyed_at) - 允许您“销毁”对象而不删除记录或相关记录.
   * [Discard](https://github.com/jhawthorn/discard) - 一个简单的ActiveRecord mixin，用于添加用于标记丢弃记录的约定.
@@ -968,7 +969,7 @@
 * [Searchlogic](https://github.com/binarylogic/searchlogic) - 基于对象的搜索，常见的命名范围以及ActiveRecord的其他有用的命名范围工具.
 * [Sunspot](https://github.com/sunspot/sunspot) - 一个Ruby库，用于与Solr搜索引擎进行富有表现力的强大交互.
 * [textacular](https://github.com/textacular/textacular)   - 公开PostgreSQL的全文搜索功能，并允许您声明全文索引.  Textacular使用named_scope方法扩展ActiveRecord，使搜索变得轻松有趣！
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - 用于将ActiveRecord连接到Sphinx全文搜索工具的库.
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
 
 ## Security
 
@@ -1167,7 +1168,7 @@
 * [Phusion Passenger](https://www.phusionpassenger.com) - 快速而强大的Web服务器和应用程序服务器.
 * [Puma](https://github.com/puma/puma) -  Ruby的现代并发Web服务器.
 * [Rack](http://rack.github.io)   - 一个常见的Ruby Web服务器接口.  它本身就是一个规范和实用程序库，但所有Ruby Web服务器都实现了这个接口.
-* [Reel](https://github.com/celluloid/reel) -  Celluloid :: IO支持的Web服务器.
+* [Reel](https://github.com/celluloid/reel) - Celluloid::IO-powered web server.
 * [Thin](http://code.macournoyer.com/thin) - 微小，快速和有趣的HTTP服务器.
 * [TorqueBox](https://github.com/torquebox/torquebox) - 基于JBoss AS7和JRuby构建的Ruby应用服务器.
 * [Unicorn](http://unicorn.bogomips.org) - 用于快速客户端和Unix的机架HTTP服务器.
@@ -1178,7 +1179,7 @@
 * [Faye](http://faye.jcoglan.com/ruby.html) - 一组用于在Web客户端之间进行简单发布 - 订阅消息传递的工具.
 * [Firehose](https://github.com/firehoseio/firehose) - 构建实时Ruby Web应用程序.
 * [Slanger](https://github.com/stevegraham/slanger) - 与Pusher库兼容的Open Pusher实现.
-* [RenderSync](https://github.com/chrismccord/render_sync) - Real-time Rails Partials.
+* [RenderSync](https://github.com/chrismccord/render_sync) - 实时Rails部分.
 * [Websocket-Rails](https://github.com/websocket-rails/websocket-rails) - 轻松地在Rails应用程序内创建内置WebSocket服务器，并且还支持流式HTTP.
 
 ## Services and Apps

@@ -42,7 +42,7 @@
   * [FSharp.Data.GraphQL](https://github.com/fsprojects/FSharp.Data.GraphQL) -  FSharp实现Facebook GraphQL查询语言 [https://fsprojects.github.io/FSharp.Data.GraphQL](https://fsprojects.github.io/FSharp.Data.GraphQL).
   * [parser](https://github.com/graphql-dotnet/parser) -  .NET中GraphQL的词法分析器和解析器.
   * [tanka-graphql](https://github.com/pekkah/tanka-graphql) - 支持SignalR，Apollo，模式操作以及Apollo和graphql-js中熟悉的其他功能的GraphQL执行和服务器库
-* [halcyon](https://github.com/visualeyes/halcyon) -  ASP.NET的HAL实现.
+* [halcyon](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
 * [JSON API .NET Core](https://github.com/Research-Institute/json-api-dotnet-core) - 构建json：api兼容API的框架，目标是消除RESTful样板.
 * [LightNode](https://github.com/neuecc/LightNode) - 基于OWIN构建的Micro RPC / REST Framework [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [NetCoreStack.Proxy](https://github.com/NetCoreStack/Proxy) - 适用于.NET Standard 2.0的类型安全的分布式REST库（NetCoreStack Flying Proxy）
@@ -125,6 +125,7 @@
 ### Authentication and Authorization
 * [AspNet.Security.OpenIdConnect.Server](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - 面向OWIN / Katana和ASP.NET Core的OpenID Connect / OAuth2服务器框架.
 * [Auth0](https://github.com/auth0/auth0.net) - 托管，企业级现代身份平台.
+* [Casbin.NET](https://github.com/casbin-net/Casbin.NET) - 支持C，ACL，RBAC，ABAC等访问控制模型的授权库#
 * [Cierge](https://github.com/PwdLess/Cierge)   -  Cierge是一个OpenID Connect服务器，用于处理用户注册，登录，配置文件，管理，社交登录等.  Cirege不使用密码，而是使用魔术链接/代码和外部登录来验证您的用户.
 * [Identity](https://github.com/aspnet/Identity) -  ASP.NET Core Identity是用于构建ASP.NET Core Web应用程序的成员资格系统，包括成员资格，登录名和用户数据.
 * [IdentityServer](https://github.com/IdentityServer/IdentityServer4) -  IdentityServer for ASP.NET Core 1.0和2.0
@@ -197,7 +198,7 @@
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS)   - 开源ASP.NET Core 2.0 CMS.  它目前支持MySQL并计划实现MSSQL，SQLite和PostgreSQL.  此外，它是一个模块化CMS支持主题，皮肤，自定义布局，小部件，多语言（En，BN）.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - 用于ASP.NET核心和实体框架核心的轻量级且不显眼的开源CMS.
 * [Platformus](https://github.com/Platformus) - 基于ASP.NET Core 1.0和ExtCore框架的免费，开源和跨平台CMS.
-* [Squidex](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
+* [Squidex](https://github.com/Squidex/squidex) - 无头CMS，基于MongoDB，CQRS和事件采购.
 * [Swastika I/O Core CMS](https://github.com/Swastika-IO/Swastika-IO-Core)   - 开源ASP.NET Core 2.x CMS.  它目前支持MS SQL并计划在不久的将来实现MSSQL，SQLite.  它有许多开箱即用的功能，如多语言支持，主题，模板......
 * [Weapsy](https://github.com/Weapsy/Weapsy)   - 基于DDD和CQRS的开源ASP.NET核心CMS.  它支持开箱即用的MSSQL，MySQL，SQLite和PostgreSQL.
 * [ZKEACMS](https://github.com/SeriaWei/ZKEACMS.Core) - 视觉设计，通过拖放建立网站.

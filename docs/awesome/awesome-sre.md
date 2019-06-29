@@ -101,6 +101,7 @@
 * [Solving Reliability Fears with Site Reliability Engineering](https://www.youtube.com/watch?v=ZcZtU_TiFEM)
 * [SRE vs. DevOps: competing standards or close friends?](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends)
 * [如何避免捕获最好的团队的5个SRE实施陷阱]（）
+* [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -118,6 +119,8 @@
 * [The Ultimate Guide to Structuring a 90-Day Onboarding Plan](https://medium.com/swlh/the-ultimate-guide-to-structuring-a-90-day-onboarding-plan-c91af947376)
 * [SRE fundamentals: SLIs, SLAs and SLOs](https://cloud.google.com/blog/products/gcp/sre-fundamentals-slis-slas-and-slos)
 * [How to Get Into SRE](https://blog.alicegoldfuss.com/how-to-get-into-sre/)
+* [Do you have an SRE team yet? How to start and assess your journey](https://cloud.google.com/blog/products/devops-sre/how-to-start-and-assess-your-sre-journey)
+* [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
@@ -139,6 +142,8 @@
 * [Distributed Systems Observability](http://distributed-systems-observability-ebook.humio.com/)
 * [Real-World SRE](https://www.packtpub.com/web-development/real-world-sre)
 * [Seeking SRE](http://shop.oreilly.com/product/0636920063964.do)
+* [What is SRE?](https://www.verizondigitalmedia.com/e-book/oreilly-what-is-sre/)
+* [Engineering Reliable Mobile Applications: Strategies for Developing Resilient Native Mobile Applications](https://landing.google.com/sre/resources/practicesandprocesses/engineering-reliable-mobile-applications/)
 
 ## Hiring
 * [SRE Hiring](https://www.usenix.org/conference/srecon15/program/presentation/fong)
@@ -269,6 +274,7 @@
 * [Atlassian Incident Handbook](https://www.atlassian.com/software/jira/ops/handbook)
 * [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 * [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
+* [Better On-Call the SRE way](https://vimeo.com/344516642)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)

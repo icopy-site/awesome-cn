@@ -62,7 +62,7 @@
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - 使用Javascript和HTML5分析和比较图像.
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - 使用Chrome的视觉回归测试框架 [Mocha](https://mochajs.org/) 和 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - 简单的视觉回归测试 [Ember](https://emberjs.com/).
-- [AET](https://github.com/Cognifide/aet) - 可扩展的测试工具，提供可视化回归测试，可访问性和性能验证，标记分析等.
+- [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
 - [Wendigo](https://github.com/angrykoala/wendigo) - 基于Puppeteer的面向测试的浏览器自动化库.
 - [Loki](https://github.com/oblador/loki) - 在docker等人中使用Chrome进行故事书的视觉回归测试.
 - [Zombie.js](http://zombie.js.org/) - 使用Node.js进行疯狂快速的无头全栈测试.
@@ -94,6 +94,7 @@
 - [Visual Knight](https://visual-knight.io/) - 基于云的可视化测试平台，具有测试工具的实时结果.
 - [Axcept](https://axcept.io)   - 测试整个团队.  最多100个并行测试.  端点模拟.  代码覆盖范围. 
 - [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和DOM更改比较和回归.
+- [Vidiff](https://vidiff.com) - 跨阶段的基于云的视觉回归测试.
 
 ## Blog posts
 
@@ -114,7 +115,7 @@
 
 - [CSS Regression Testing with Wraith](https://youtu.be/gE_19L0l2q0) - 截屏视频：幽灵的基本介绍，截图比较工具.
 - [Visual Regression Testing with Shoov](https://youtu.be/CBBiJ6YlXLc) - 如何设置shoov并完成第一次测试.
-- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) - Talk by Jon Bellah on how to use PhantomCSS during wordpress development.
+- [Visual Regression Testing with PhantomCSS](https://youtu.be/Vp8vnXMjIfw) -  Jon Bellah谈论如何在wordpress开发过程中使用PhantomCSS.
 - [Visual Regression Testing: Sanity Checks With BackstopJS](https://youtu.be/l8lGj8Zh0k4) - 使用代码演示和最佳实践的截屏视频.
 - [Screenster Tutorial](https://youtu.be/Zy8y_dGzZXI) - 有关如何使用Screenster创建可视化自动化测试的教程.
 - [Look-alike - visual regression testing tool](https://youtu.be/vTyoQuC0To8) - 演示看起来相似的Chrome扩展程序，它是如何工作的以及它的构建方式和原因.

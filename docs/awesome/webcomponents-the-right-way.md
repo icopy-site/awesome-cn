@@ -159,16 +159,23 @@
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - 使用函数和钩子创建基于Web组件的接口的小型库.
+- [haunted](https://github.com/matthewp/haunted) - 针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
+- [reLift-HTML](https://github.com/mardix/relift-html) - 小型（3kb）视图库，允许创建Web组件并使HTML页面具有反应性.
 - [osagai](https://github.com/HenriqueLimas/osagai) - 以功能方式创建Web组件的小型库.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - 允许通过中间件功能以功能方式创建Web组件的库.
 - [ullr](https://github.com/aggre/ullr) - 用于使用函数式编程构建Web组件的库.
+
+### Compilers
+
+- [Stencil](https://stenciljs.com) - 生成Web组件的编译器.
+- [Svelte](https://svelte.dev) -  Cyber​​netically增强的Web应用程序（可以选择生成Web组件）.
 
 ### Other
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - 使用Typescript创建本机自定义元素，而不使用任何第三方库.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - 从预执行组件生成/注册自定义元素.
-- [remount](https://github.com/rstacruz/remount) - 使用自定义元素将React组件安装到DOM.
+- [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
 
 ## Component Libraries
 
@@ -210,11 +217,6 @@
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
-## Compilers
-
-- [Stencil](https://stenciljs.com/docs/introduction/) - 生成Web组件的编译器.
-- [Svelte](https://svelte.technology/guide#custom-elements) - 可配置为生成自定义元素的编译器.
-
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - 由Ben Farrell预订，可在Manning早期发布计划中找到.
@@ -245,6 +247,7 @@
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
+- [webcomponents.dev](https://webcomponents.dev) - 您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
@@ -323,7 +326,7 @@
       <td align="center">
         <a href="https://twitter.com/web_components">
           <img width="80" height="80" src="https://pbs.twimg.com/profile_images/836671393844572160/eRcwt6Fw_80x80.jpg">
-          <div>Web Components</div>
+          <div> Web组件</div>
         </a>
       </td>
     </tr>
