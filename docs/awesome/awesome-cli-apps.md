@@ -130,8 +130,9 @@
 - [SAWS](https://github.com/donnemartin/saws) - 增压的AWS CLI.
 - [s3cmd](https://github.com/s3tools/s3cmd) - 全功能S3客户端.
 - [lstags](https://github.com/ivanilves/lstags) - 跨不同的注册表同步Docker镜像.
-- [pm2](https://pm2.io/runtime/) -  Node.js的生产过程管理器
+- [pm2](https://pm2.io/runtime/) -  Node.js的生产流程管理器
 - [dockly](https://github.com/lirantal/dockly) - 以交互方式管理Docker容器.
+- [ops](https://github.com/nanovms/ops) -  Unikernel编译和编排工具.
 
 ### Release
 

@@ -17,7 +17,7 @@
 - [BlockPop](https://github.com/vnen/blockpop) - 一个简单的突破克隆.
 - [Bombs](https://github.com/randyyaj/Bombs)   - 简单的手机游戏.  你需要触摸炸弹来化解它们.
 - [Breakable](https://github.com/didier-v/breakable)   - 类似突破的游戏.  与Godot 3.0兼容.
-- [Drone Commander](https://github.com/securas/Drone_Commander)   - 命令成群的无人机对抗外星人.  专为CGA JAM而制造.
+- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)   - 详细世界中的探索性平台游戏.  面向年轻球员.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - 平台游戏为A Game By It Cover 2015 Game Jam制作.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - 炸弹人克隆在幻想世界.
@@ -67,7 +67,7 @@
 ### Text tutorials
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - A step-by-step introduction to Godot.
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - 对Godot的逐步介绍.
 
 ### Video tutorials
 
@@ -90,6 +90,7 @@
 
 * Stuff集成到Godot核心（C ++）.*
 
+- [FMOD Integration](https://github.com/alexfonseka/godot-fmod-integration) - 模块将FMOD音频引擎集成到戈多.
 - [godot-anl](https://github.com/Xrayez/godot-anl) - 包装纸 [Accidental Noise Library](https://github.com/JTippetts/accidental-noise-library) 具有视觉噪音编辑支持.
 - [godot-python](https://github.com/touilleMan/godot-python) - 对Godot 3的Python支持.
 - [godot-enet-better](https://github.com/Faless/godot-enet-better) - 使用Godot进行高性能多人游戏的更好的ENet模块.
@@ -113,6 +114,7 @@
 - [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) - 模拟CRT显示的Godot着色器.
 - [Easing Script](https://github.com/impmja/godot-easing) - 罗伯特·彭纳（Robert Penner）缓和方程式的一个端口.
 - [Escoria](https://github.com/godotengine/escoria) - 点击冒险游戏框架.
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) - 在GDScript中使用FMOD音频引擎的插件.
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
 - [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.

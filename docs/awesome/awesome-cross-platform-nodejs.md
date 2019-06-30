@@ -68,7 +68,7 @@
 - [shelljs](https://github.com/shelljs/shelljs) - 跨平台的Unix shell命令.
 - [node-windows](https://github.com/coreybutler/node-windows) -  Windows支持Node.js脚本（守护进程，事件日志，UAC等）.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -  Windows回退的各种日志级别的彩色符号.
-- [figures](https://github.com/sindresorhus/figures) - Unicode symbols with Windows fallbacks.
+- [figures](https://github.com/sindresorhus/figures) - 带有Windows回退的Unicode符号.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 跨平台复制/粘贴.
 
 ### Environment
@@ -89,6 +89,7 @@
 - [chokidar](https://github.com/paulmillr/chokidar) - 改进了跨平台文件监视.
 - [graceful-fs](https://github.com/isaacs/node-graceful-fs) - 改进了`fs`模块，特别是在Windows上.
 - [any-path](https://github.com/bcoe/any-path) - 从对象获取值时，可以互换使用Windows和POSIX路径.
+- [dev-null-cli](https://github.com/sindresorhus/dev-null-cli) - 跨平台`/ dev / null`.
 
 ### Signals
 
@@ -99,6 +100,10 @@
 
 - [ps-list](https://github.com/sindresorhus/ps-list) - 获取正在运行的进程
 - [process-exists](https://github.com/sindresorhus/process-exists) - 检查是否存在进程.
+
+### Streams
+
+- [noop-stream](https://github.com/sindresorhus/noop-stream) - 跨平台`fs.createReadStream（&#39;/ dev / null&#39;）`.
 
 ### Desktop UI
 

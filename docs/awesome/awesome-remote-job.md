@@ -184,6 +184,7 @@
   1. [Zdalnie.io](https://zdalnie.io) 波兰和欧洲的远程工作
 
 ## Job boards aggregators
+  1. [Findwork](https://findwork.dev/) 通过Glassdoor（评论）和Crunchbase（资金）抓取多个招聘广告并丰富招聘信息.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)    - 来自多个董事会和雇主网站的汇总，对位置，工作类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [GoRemote.io](https://goremote.io/)
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程JavaScript作业

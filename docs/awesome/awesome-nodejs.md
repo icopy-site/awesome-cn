@@ -125,7 +125,7 @@
 
 ### HTTP
 
-- [got](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+- [got](https://github.com/sindresorhus/got) - 内置`http`模块的更好接口.
 - [gh-got](https://github.com/sindresorhus/gh-got) - `got`与GitHub API交互的便捷包装器.
 - [axios](https://github.com/mzabriskie/axios) - 基于Promise的HTTP客户端（也适用于浏览器）.
 - [request](https://github.com/request/request) - 简化的HTTP请求客户端.
@@ -244,8 +244,8 @@
 
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
-- [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的信用模板语言.
+- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
+- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
@@ -313,7 +313,7 @@
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - 承诺图书馆，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) -  Promisify回调式函数.
 	- [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
-	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 使用expire和prefetch记忆承诺返回函数.
+	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
@@ -373,6 +373,7 @@
 - [pica](https://github.com/nodeca/pica)   - 纯JS中的高品质和快速调整大小（lanczos3）.  当没有像素化允许时，替代canvas drawImage（）.
 - [jimp](https://github.com/oliver-moran/jimp) - 纯JavaScript中的图像处理.
 - [probe-image-size](https://github.com/nodeca/probe-image-size) - 无需完整下载即可获取大多数图像格式的大小.
+- [qrcode](https://github.com/soldair/node-qrcode) -  QR码和条形码生成器.
 
 
 ### Text
@@ -424,7 +425,7 @@
 
 ### URL
 
-- [normalize-url](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
+- [normalize-url](https://github.com/sindresorhus/normalize-url) - 规范化URL.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) - 人性化URL：http：//sindresorhus.com→sindresorhus.com.
 - [url-unshort](https://github.com/nodeca/url-unshort) - 展开缩短的网址.
 - [speakingurl](https://github.com/pid/speakingurl) - 使用音译从字符串生成slug.
@@ -458,7 +459,7 @@
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - 网络抓取工具.
 - [nearley](https://github.com/Hardmath123/nearley) - 简单，快速，强大的JavaScript解析.
-- [binary-extract](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+- [binary-extract](https://github.com/juliangruber/binary-extract) - 从JSON缓冲区中提取值而不解析整个事物.
 - [Stylecow](https://github.com/stylecow/stylecow)   - 解析，操作和转换现代CSS，使其与所有浏览器兼容.  插件可扩展.
 - [js-yaml](https://github.com/nodeca/js-yaml) - 非常快的YAML解析器.
 - [xml2js](https://github.com/Leonidas-from-XIV/node-xml2js) -  XML到JavaScript对象转换器.
@@ -493,7 +494,7 @@
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获得可用的端口.
 - [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共IP地址.
-- [getmac](https://github.com/bevry/getmac) - Get the computer MAC address.
+- [getmac](https://github.com/bevry/getmac) - 获取计算机MAC地址.
 - [DHCP](https://github.com/infusion/node-dhcp) -  DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯JS中的Netcat端口.
 
@@ -515,7 +516,7 @@
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)   - 用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  与ActiveRecord类似.
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用promises的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) - 具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) - 在SQL查询构建器Knex上构建的轻量级ORM.
@@ -611,6 +612,7 @@
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能Redis支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能Redis消息队列.
 - [sqs-consumer](https://github.com/bbc/sqs-consumer) - 在没有样板的情况下构建基于Amazon Simple Queue Service（SQS）的应用程序.
+- [better-queue](https://github.com/diamondio/better-queue) - 无法使用Redis时，简单高效的作业队列.
 
 
 ### Node.js management
@@ -619,6 +621,7 @@
 - [nave](https://github.com/isaacs/nave) -  Node.js的虚拟环境.
 - [nodeenv](https://github.com/ekalinin/nodeenv) - 与Python的virtualenv兼容的Node.js虚拟环境.
 - [nvm for Windows](https://github.com/coreybutler/nvm-windows) -  Windows的版本管理.
+- [nodenv](https://github.com/nodenv/nodenv)   - 版本管理器，类似于Ruby的rbenv.  它支持自动版本切换.
 
 
 ### Natural language processing
@@ -689,7 +692,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获得超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取supervillain名称.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获得一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍·͈༝·͈₎◞̑̑ෆ⃛（=ↀωↀ=）✧（^·O·^）布鲁诺”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`（·͈༝·͈）◞（=ↀωↀ=）✧（^·o·^）“&#39;`
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特，星球大战和神奇宝贝等书呆子主题中获取数据.
 
 
@@ -710,7 +713,7 @@
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -  Memoize函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用.
-- [import-fresh](https://github.com/sindresorhus/import-fresh) - 绕过缓存导入模块.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串/缓冲区/流中删除UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
 - [ssh2](https://github.com/mscdex/ssh2) -  SSH2客户端和服务器模块.

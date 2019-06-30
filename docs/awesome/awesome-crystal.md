@@ -111,8 +111,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [wkhtmltopdf-crystal](https://github.com/blocknotes/wkhtmltopdf-crystal) -  libwkhtmltox的绑定/包装（HTML到PDF /图像转换器）
 
 ## Cryptography
- * [cox](https://github.com/didactic-drunk/cox) -  libsodium crypto API的水晶包装
  * [openssl.cr](https://github.com/z64/openssl.cr) - 此库为OpenSSL库提供绑定
+ * [sodium.cr](https://github.com/didactic-drunk/sodium.cr) -  libsodium crypto API的水晶包装
 
 ## Data Formats
  * [BinData](https://github.com/spider-gazelle/bindata) - 二进制数据解析器帮助器 [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) 解析器
@@ -288,7 +288,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring

@@ -157,12 +157,13 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 ## Tools
 * [astro](https://github.com/uber/astro/) -  Astro是一种用于将多个Terraform执行作为单个命令进行管理的工具.
 * [atlantis](https://github.com/runatlantis/atlantis) - 通过GitHub在Terraform上进行协作的统一工作流程.
-* [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
+* [blast radius](https://github.com/28mm/blast-radius) - Interactive visualizations of Terraform dependency graphs.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.
-* [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - Small tool to convert an IAM Policy in JSON format into a Terraform aws_iam_policy_document
+* [iam-policy-json-to-terraform](https://github.com/flosell/iam-policy-json-to-terraform) - 将JSON格式的IAM策略转换为Terraform的小工具aws_iam_policy_document
 * [k2tf](https://github.com/sl1pm4t/k2tf) -  Kubernetes YAML到Terraform HCL转换器.
 * [json2hcl](https://github.com/kvz/json2hcl) - 将JSON转换为HCL，反之亦然.
 * [modules.tf](https://modules.tf/) - 基础设施作为代码生成器 - 来自使用的可视化图表 [Cloudcraft.co](https://cloudcraft.co/app) 到Terraform. [Source code](https://github.com/antonbabenko/modules.tf-lambda).
+* [para](https://github.com/paraterraform/para) - 缺少第三方插件管理器和Terraform / Terragrunt的“瑞士军刀” - 只有一个工具可以促进所有工作流程.
 * [pre-commit-terraform](https://github.com/antonbabenko/pre-commit-terraform) - 预先提交git钩子来处理Terraform配置（自动格式化，验证，更新文档）.
 * [python-terrafile](https://github.com/claranet/python-terrafile) - 系统地管理来自Github的外部模块以用于Terraform.
 * [ruby-terraform](https://github.com/infrablocks/ruby_terraform) - 用于调用terraform命令的简单Ruby包装器.

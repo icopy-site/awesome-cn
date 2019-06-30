@@ -213,6 +213,7 @@
 - [Brandy](https://getbrandy.io) - 菜单栏的品牌资产管理器.
 - [Cacher](https://www.cacher.io) - 具有Gist同步功能的基于云的团队代码段管理器.
 - [MusicPlus](https://musicplus.io) - 适用于macOS和Windows的免费音乐应用.
+- [Mingo](https://mingo.io) -  MongoDB GUI.
 
 ### Samples
 
