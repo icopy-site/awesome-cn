@@ -117,7 +117,7 @@ Because editing LaTeX code with notepad is not awesome.
 - [CaTeX](https://github.com/Alexis-benoist/CaTeX) - 注意连接LaTeX文档以正确合并前导码.
 - [Pandoc](https://pandoc.org)   - 该程序几乎可以将任何文档格式（LaTeX，DOC，markdown，...）转换为几乎任何其他格式.  一个很好的工具，可以帮助使用多种格式的工作流程.  ！[源码] [源码]
 - [Codecogs Eqn Editor](https://www.codecogs.com/latex/eqneditor.php) - 在线LaTeX公式编辑器，允许您生成包含方程的数字.
-- [LaTeXiT](https://www.chachatelier.fr/latexit/)   -  LaTeXit是一个方程编辑器，可以轻松地将渲染的方程式（如PDF，PNG，...）拖放到Mac上的非LaTeX文档中.  ！[苹果] [苹果]
+- [LaTeXiT](https://www.chachatelier.fr/latexit/)   -  LaTeXit是一个方程式编辑器，可以轻松地将渲染的方程（如PDF，PNG，...）拖放到Mac上的非LaTeX文档中.  ！[苹果] [苹果]
 - [KLaTeXFormula](https://klatexformula.sourceforge.io)   -  LaTeXit的跨平台替代方案.  ！[源码] [源码]
 - [EqualX](http://equalx.sourceforge.net)   - 图形LaTeX公式编辑器.  ！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
 - [ChkTeX](http://baruch.ev-en.org/proj/chktex/)   -  LaTeX文档的Linter / code checker.  ！[源码] [源码]
@@ -175,6 +175,10 @@ TikZ是一个很棒的包，有许多插件，允许您从LaTeX文档中创建�
 ### Typography
 
 - [microtype](https://ctan.org/pkg/microtype) - 此软件包通过启用边距字距调整和字体扩展来改善文档的外观.
+
+### Presentations, Slides
+
+- [nics](https://nics.nilcons.com/)   -  Beamer的一种自以为是的替代方案，我们创建的希望是默认情况下使常见任务变得非常简单和精美.  有很棒的文档和详细的备忘单，可以帮助您入门.
 
 ## Templates
 

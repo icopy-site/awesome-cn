@@ -21,6 +21,9 @@
 
 *用于创建CTF挑战的工具*
 
+- [Kali Linux CTF Blueprints](https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf) - 有关构建，测试和自定义自己捕获旗帜挑战的在线书籍.
+
+
 ## Forensics
 
 *用于创建取证挑战的工具*

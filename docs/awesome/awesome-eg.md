@@ -34,7 +34,7 @@
 
 - [CSS Diner](https://flukeout.github.io/) - 这是一个帮助你学习CSS选择器的小游戏.
 - [CSS Grid Garden](http://cssgridgarden.com/) - 用于学习CSS网格布局的游戏.
-- [Flexbox Defense](http://www.flexboxdefense.com/) - 与其他塔防游戏不同，您必须使用CSS定位塔！
+- [Flexbox Defense](http://www.flexboxdefense.com/) - 与其他塔防游戏不同，你必须使用CSS定位你的塔！
 - [Flexbox Froggy](http://flexboxfroggy.com/) - 学习CSS flexbox的游戏.
 - [Flexbox with Webflow](https://www.flexboxgame.com/) - 在28个交互级别中学习和掌握flexbox，无需编写代码.
 
@@ -58,6 +58,7 @@
 ## Music
 
 - [Learning Music](https://learningmusic.ableton.com) - 通过Ableton的互动网站探索音乐的基础知识.
+- [Learning Synths](https://learningsynths.ableton.com/) - 学习使用合成器（或合成器）的基础知识.
 - [Pianu](https://pianu.com) - 学习如何在浏览器中弹钢琴.
 
 ## Programming

@@ -66,7 +66,7 @@ Menu
 -----------------------------------------------------------------------
 
 
-Starting Point
+初始点
 =======================================================================
 
 *标志着旅程开始的地方*
@@ -144,6 +144,7 @@ Installers
 
 * Kubernetes团队发布的Stable Kubernetes官方发布说明*
 
+* [Kubernetes-1.15](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.15.md)
 * [Kubernetes-1.14](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.14.md)
 * [Kubernetes-1.13](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.13.md)
 * [Kubernetes-1.12](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG-1.12.md)
@@ -280,7 +281,7 @@ Installers
 
   - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
   - [Draft](https://draft.sh) - 开发人员使用Kubernetes创建云原生应用程序的工具
-  - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
+  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
@@ -498,6 +499,7 @@ Projects
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - 用于监控和可视化K8指标，日志，应用程序跟踪等的开源解决方案.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
+* [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - 简单的服务，侦听Kubernetes API服务器并生成有关对象状态的指标.
 
 ## Testing
 
@@ -685,6 +687,7 @@ Projects
 ## Desktop applications
 
 * [Kubernetic](https://kubernetic.com/)
+* [Kube Forwarder](http://kube-forwarder.pixelpoint.io) - 一个开源的Kubernetes端口转发管理器
 
 ## Mobile applications
 

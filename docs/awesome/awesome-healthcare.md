@@ -9,6 +9,7 @@
   * [Bahmni](http://www.bahmni.org/) - 医院系统.
   * [Cottage Med](http://www.cottagemed.org/cottage-med) - 由医生设计的电子病历软件.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) -  CaboLabs EHRServer
+  * [ERPNext](https://erpnext.com/healthcare) -  ERPNext Healthcare模块可帮助您管理患者，约会，咨询和实验室测试以及计费
   * [GNU Health](http://health.gnu.org/) - 电子病历，医院管理和健康信息系统.
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - 电子医疗记录软件.
   * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) - 通用，最小化，基于标准，面向服务的openEHR临床数据存储.
@@ -81,7 +82,7 @@
   * [CareKit](https://github.com/carekit-apple/CareKit/) -  CareKit是一个开源软件框架，用于创建可帮助人们更好地理解和管理健康状况的应用程序.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - 符合FDA，HIPPA和HL7标准的应用程序的流星.
   * [FHIRBase](http://fhirbase.github.io) - 基于FHIR标准的存储.
-  * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -  FHIR标准的.NET Core实现.
+  * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - 在GoLang通用FHIR服务器实现.
   * [Opal](http://opal.openhealthcare.org.uk/) - 构建临床应用的框架.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 软件框架，可以轻松地为医学研究或其他研究项目创建应用程序.
@@ -91,6 +92,7 @@
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - 用Java编写的OpenEHR库
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) -  DICOM工具包
+  * [dicom](https://github.com/suyashkumar/dicom) -  Go中的高性能DICOM医学图像分析器
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - 适用于.NET，.NET Core，通用Windows，Android，iOS，Mono和Unity的DICOM
   * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) -  HL7 FHIR的官方.NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) -  FHIR的JavaScript客户端.
@@ -122,7 +124,7 @@
   * [Open cancer](http://opencancer.net/) - 癌症数据管理.
 
 ### Integration
-  * [Mirth Connect](https://www.mirth.com) - Cross-platform interface engine that enables bi-directional sending of HL7 messages between systems and applications.
+  * [Mirth Connect](https://www.mirth.com) - 跨平台接口引擎，支持在系统和应用程序之间双向发送HL7消息.
   * [OpenHIM](http://openhim.org/) - 健康信息调解员.
   * [Open Source Mirth Transforms](https://github.com/daticahealth/Mirth-Transforms) - 开源转换，使基于Mirthconnect的集成更容易.
 
@@ -159,3 +161,6 @@
 
 ### Compliance
 * [HIPAA Compliance Policies](https://github.com/catalyzeio/policies) - 使用受保护的健康信息的公司尽可能简化合规性.
+
+### Asset Management
+* [Tapirx](https://github.com/virtalabs/tapirx) - 网络医疗设备发现和识别.

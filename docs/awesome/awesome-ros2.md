@@ -229,6 +229,10 @@
 
 -  ROS 2实际功能概述的当前状态 [Slides](https://static1.squarespace.com/static/51df34b1e4b08840dcfd2841/t/5ce6c85ca4222fe0ccbd5309/1558628472094/2019-05-07_Current_Status_of_ROS_2.pdf)
 
+### 2019
+
+- 采用Xilinx和H-ROS的机器人模块化（赛灵思公司） [Video](https://www.xilinx.com/video/events/robot-modularity-with-xilinx-and-h-ros.html)
+
 ### ROSCon JP 2018 (english slide presentations only)
 
   -  ROS的下一步是什么？  （从幻灯片24开始） [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)

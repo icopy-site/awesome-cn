@@ -61,6 +61,7 @@
 + [Finnish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-fi.md)
 + [German](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-de.md)
 + [Italian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-it.md)
++ [Korean](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-ko.md)
 + [Polish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-pl.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-pt_BR.md)
 + [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-ru.md)
