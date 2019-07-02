@@ -43,8 +43,8 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -  NFO文件的简单查看器，具有预设字体和编码设置的文本编辑器以及可点击的超链接支持.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 扫描文档和PDF的个人文档管理器.
-- [Easy Ebook Viewer](https://github.com/michaldaniel/Ebook-Viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
 - [Bookworm](https://github.com/babluboy/bookworm) - 简单，专注的电子书阅读器，在GNOME中看起来很棒.
 - [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
 - [Pdftag](https://github.com/arrufat/pdftag) -  PDF的简单元数据编辑器
@@ -91,10 +91,6 @@
 - [GNOMIT](https://source.ind.ie/gnome/gnomit) - 简单的Git提交消息编辑器 
 - [Password Safe](https://gitlab.gnome.org/World/PasswordSafe) -  GNOME的密码管理器
 
-### System
-
-- [systemd Manager](https://github.com/mmstick/systemd-manager) - 控制和管理systemd的工具.
-
 ### Others
 
 - [Luminance](http://craigcabrey.com/luminance/) - 飞利浦Hue客户端.
@@ -118,7 +114,7 @@
 
 ### Applets
 
-- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - Applet that let you deactivate the GNOME lock screen.
+- [Cafeine](https://extensions.gnome.org/extension/517/caffeine/) - 允许您停用GNOME锁定屏幕的Applet.
 - [Removable Drive Menu](https://extensions.gnome.org/extension/7/removable-drive-menu/) - 状态菜单显示可移动驱动器.
 - [OpenWeather](https://extensions.gnome.org/extension/750/openweather/) - 天气小程序.
 - [Focusli](https://github.com/felipeborges/gnome-shell-extension-focusli) - 环境噪音小程序.

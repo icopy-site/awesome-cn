@@ -83,7 +83,7 @@
 - [elgalu/docker-selenium](https://github.com/elgalu/docker-selenium) -  Docker中的Selenium，支持Chrome和Firefox以及视频录制功能.
 - [Ggr](https://github.com/aerokube/ggr) - 用于创建大型Selenium集群的轻量级负载平衡器.
 - [SeleniumHQ/docker-selenium](https://github.com/SeleniumHQ/docker-selenium) - 使用Chrome和Firefox的Selenium独立服务器，集线器和节点配置的Docker镜像.
-- [Selenoid](https://github.com/aerokube/selenoid) - 轻量级Selenium中心实现在Docker容器中启动浏览器.
+- [Selenoid](https://github.com/aerokube/selenoid) - 轻量级Selenium hub实现在Docker容器中启动浏览器.
 - [zalando/zalenium](https://github.com/zalando/zalenium) - 允许任何人拥有一次性和灵活的Selenium Grid基础设施
 - [bravostudiodev/bravo-grid](https://github.com/bravostudiodev/bravo-grid) -  Selenium Grid Extras的Docker镜像/设置（参见Selenium Grid部分），用于提供远程Sikuli测试/自动执行和网格节点文件上载/下载支持.
 
@@ -97,7 +97,7 @@
 
 - [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) -  Firefox驱动程序（适用于FF &lt;v48）包含在下载中提供的selenium-server-standalone.jar中.
 - [Geckodriver](https://github.com/mozilla/geckodriver) -  Firefox驱动程序（用于FF&gt; v48），受Selenium支持&gt; = v3
-- [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) -  ChromeDriver是一个独立的服务器，它为Chromium实现了WebDriver的线路协议.
+- [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) -  ChromeDriver是一个独立的服务器，它为Chromium实现了WebDriver的有线协议.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) -  InternetExplorerDriver是一个独立的服务器，它实现了WebDriver的有线协议.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) -  Edge的Microsoft Webdriver服务器
 - [Safari](https://github.com/SeleniumHQ/selenium/wiki/SafariDriver)   -  SafariDriver实现为Safari浏览器扩展.  驱动程序反转传统的客户端/服务器关系，并使用WebSockets与WebDriver客户端通信（仅支持Safari &lt;= v9，所有与macOS Sierra一起使用的新Safari版本都附带Apple集成的SafariDriver）.
@@ -131,7 +131,7 @@
 
 ### Selenium Grid
 
-- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 一个框架，提供除基本Selenium Grid之外的其他功能，如视频录制.
+- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
 - [SeLion](https://github.com/paypal/SeLion) - 用于运行Selenium测试的（Java）框架，具有超出基本Selenium Grid功能的其他功能，尤其是稳定性改进等.
 - [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) -  Selenium Grid的一组扩展，提供其他功能，如远程运行Sikuli测试/自动化，在网格节点上上传/下载文件.
 
@@ -140,6 +140,7 @@
 - [Sauce Labs](https://saucelabs.com)   - 跨浏览器测试非常棒.  在300多个OS /浏览器平台上进行Selenium测试，移动测试，JS单元测试.  免费入门.
 - [Browserstack](https://www.browserstack.com/)   - 测试您的网站在真实浏览器上的跨浏览器兼容性.  即时访问多个桌面和移动浏览器.  获得免费试用.
 - [TestingBot](https://testingbot.com) -  TestingBot通过云中的Selenium提供简单的跨浏览器测试.
+- [Aerokube Browsers](https://browsers.aerokube.com) -  Lightning快速在线Selenium测试平台，具有无限的计费方案和合理的价格.
 
 ### Device Farms
 
@@ -157,7 +158,7 @@
 
 ### Blogs
 
-- [Official Selenium Blog](https://seleniumhq.wordpress.com/) - The official blog by SeleniumHQ.
+- [Official Selenium Blog](https://seleniumhq.wordpress.com/) -  SeleniumHQ的官方博客.
 - [Elemental Selenium](http://elementalselenium.com/) - 关于如何像专业人士一样使用Selenium的免费每周一次的电子邮件.
 - [Assert Selenium](http://www.assertselenium.com/) -  Selenium Automation以正确的方式 - 仅限Selenium的博客.
 - [SauceLabs Blog](https://saucelabs.com/blog) - 由SauceLabs策划的博客

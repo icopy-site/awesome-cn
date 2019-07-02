@@ -150,6 +150,7 @@
 - [OSM StreetComplete](https://github.com/westnordost/StreetComplete) - 适用于Android的Surveyor应用程序，允许用户轻松地为OpenStreetMap做出贡献.
 - [Mozilla Ichnaea](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/ichnaea) - 从其他来源（蓝牙，手机或WiFi，GeoIP等）获取地理位置坐标的API.
 - [Mozilla Stumbler](http://location.services.mozilla.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/MozStumbler) - 扫描仪，为我们的众包位置数据库收集GPS和无线网络数据.
+- [Qwant Maps](https://www.qwant.com/maps/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/QwantResearch/qwantmaps/) - 基于OpenStreetMap的地图应用程序，尊重您的隐私.
 
 ## Gamification
 
@@ -159,7 +160,7 @@
 ## Health
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) - 改变您的在线习惯，设定目标，尝试干预，查看进度.
-- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -  Redshift根据周围环境调整屏幕的色温.
+- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -  Safe Eyes是Linux用户减少和防止重复性劳损（RSI）的工具.
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - 应用程序，加强记忆丧失的人与接近他们的人之间的关系.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 用于创建和维护良好习惯的Android应用程序.
@@ -177,13 +178,13 @@
 
 ## Happiness
 
-- [Happy DB](https://rit-public.github.io/HappyDB/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rit-public/HappyDB) -  HappyDB是一个拥有10万多群众欢乐时刻的语料库.
+- [Happy DB](https://rit-public.github.io/HappyDB/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
 
 ## Inclusiveness
 
 - [Post-Meritocracy Manifesto](https://postmeritocracy.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/CoralineAda/postmeritocracy) - 精英管理后世界中软件开发人员的价值观和原则.
 - [AlexJS](https://alexjs.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/get-alex/alex) - 捕捉不敏感，不体谅写作.
-- [Buster](https://github.com/dessant/buster) - Browser extension and Captcha Solver for Humans.
+- [Buster](https://github.com/dessant/buster) - 浏览器扩展和人类的Captcha解算器.
 
 ## Awareness
 
@@ -197,7 +198,7 @@
 - [OpenWPM](https://webtap.princeton.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/openwpm) - 普林斯顿网络透明度和问责制项目，一个隐私测量框架.
 - [Email Privacy Tester](https://www.emailprivacytester.com/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/mikecardwell/ept3) - 根据许多已知的跟踪技术检查您的电子邮件提供商和客户端保
 - [Browser Autofill Phishing](https://github.com/anttiviljami/browser-autofill-phishing) - 演示对用户隐藏的自动填充表单字段的网络钓鱼.
-- [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - Browser extension to help ProPublica collect political advertising on Facebook.
+- [Facebook Political Ad Collector](https://www.propublica.org/article/help-us-monitor-political-ads-online) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/propublica/facebook-political-ads) - 浏览器扩展，以帮助ProPublica在Facebook上收集政治广告.
 - [Who Targets Me?](https://whotargets.me/en/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/WhoTargetsMe/Who-Targets-Me) - 一种浏览器扩展程序，用于跟踪哪些实体正在定位具有广告的受众特征.
 
 ## Censorship

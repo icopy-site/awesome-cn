@@ -825,7 +825,7 @@ const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
 ```js
 const dropRightWhile =（arr，func）=&gt; {
   let rightIndex = arr.length;
-  while（rightIndex-- &amp;&amp;！func（arr [rightIndex]））;
+  while (rightIndex-- && !func(arr[rightIndex]));
   return arr.slice（0，rightIndex + 1）;
 };
 ```
@@ -1111,7 +1111,7 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 <summary>Examples</summary>
 
 ```js
- indexOfAl（[1,2,3,1,2,3]，1）;  // [0,3]
+ indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
  indexOfA11（[1,2,3]，4）;  // []
 ```
 
@@ -1289,7 +1289,7 @@ const intersection =（a，b）=&gt; {
 ```js
 const intersectionBy =（a，b，fn）=&gt; {
   const s = new Set（b.map（fn））;
-  return a.filter(x => s.has(fn(x)));
+  return a.filter（x =&gt; s.has（fn（x）））;
 };
 ```
 
@@ -1467,7 +1467,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
 
 
 
-使用函数将数组的值映射到对象，其中键 - 值对由原始值作为键和映射值组成.
+使用函数将数组的值映射到对象，其中键 - 值对由作为键的字符串化值和映射值组成.
 
  使用匿名内部函数作用域来声明未定义的内存空间，使用闭包来存储返回值.  使用一个新的`Array`来存储数组，其中包含函数的数据集，并使用逗号运算符返回第二步，而无需从一个上下文移动到另一个上下文（由于闭包和操作顺序）.
 
@@ -1985,7 +1985,7 @@ const shank =（arr，index = 0，delCount = 0，... elements）=&gt;
   ARR
     .slice（0，index）
     .concat（元素）
-    .concat（arr.slice（index + delCount））;
+    .concat(arr.slice(index + delCount));
 ```
 
 <details>
@@ -2192,7 +2192,7 @@ const arr = [0,1,2,3,4,5,6,7,8,9,10];
 ```js
 const symmetricDifference =（a，b）=&gt; {
   const sA = new Set（a），
-    sB = new Set（b）;
+    sB = new Set(b);
   return [... a.filter（x =&gt;！sB.has（x）），... b.filter（x =&gt;！sA.has（x））];
 };
 ```
@@ -2495,7 +2495,7 @@ const uniqueElements = arr =&gt; [... new Set（arr）];
 根据提供的比较器函数返回数组的所有唯一值.
 
 根据比较器函数`fn`，使用`Array.prototype.reduce（）`和`Array.prototype.some（）`作为一个只包含每个值的第一个唯一出现的数组.
-比较器函数有两个参数：被比较的两个元素的值.
+The comparator function takes two arguments: the values of the two elements being compared.
 
 ```js
 const uniqueElementsBy = (arr, fn) =>
@@ -2529,7 +2529,7 @@ uniqueElementsBy(
 从右侧开始，根据提供的比较器函数返回数组的所有唯一值.
 
 根据比较器函数`fn`，使用`Array.prototype.reduceRight（）`和`Array.prototype.some（）`作为一个只包含每个值的最后一个唯一出现的数组.
-比较器函数有两个参数：被比较的两个元素的值.
+The comparator function takes two arguments: the values of the two elements being compared.
 
 ```js
 const uniqueElementsByRight =（arr，fn）=&gt;
@@ -2940,7 +2940,7 @@ const createEventHub =（）=&gt;（{
   },
   on（event，handler）{
     if（！this.hub [event]）this.hub [event] = [];
-    this.hub[event].push(handler);
+    this.hub [事件] .push（处理程序）;
   },
   off（事件，处理程序）{
     const i =（this.hub [event] || []）.findIndex（h =&gt; h === handler）;
@@ -3256,7 +3256,7 @@ const httpsRedirect =（）=&gt; {
 
 ### insertAfter
 
-Inserts an HTML string after the end of the specified element.
+在指定元素结束后插入HTML字符串.
 
 使用&#39;el.insertAdjacentHTML（）`和`&#39;afterend&#39;的位置来解析`htmlString`并在`el`结束后插入它.
 
@@ -3296,7 +3296,7 @@ const insertBefore =（el，htmlString）=&gt; el.insertAdjacentHTML（&#39;befo
 
 ### isBrowserTabFocused
 
-Returns `true` if the browser tab of the page is focused, `false` otherwise.
+如果页面的浏览器选项卡是聚焦的，则返回“true”，否则返回“false”.
 
 使用Page Visibility API引入的`Document.hidden`属性来检查页面的浏览器选项卡是可见还是隐藏.
 
@@ -3612,7 +3612,7 @@ let outsideVariable = 50;
 平滑滚动到页面顶部.
 
 使用`document.documentElement.scrollTop`或`document.body.scrollTop`与顶部保持距离.
-Scroll by a fraction of the distance from the top. Use `window.requestAnimationFrame()` to animate the scrolling.
+ 滚动距离顶部一小部分距离.  使用`window.requestAnimationFrame（）`来动画滚动.
 
 ```js
 const scrollToTop =（）=&gt; {
@@ -4209,6 +4209,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -4462,7 +4463,7 @@ const hz =（fn，iterations = 100）=&gt; {
 // 10,000元素数组
 const numbers = Array(10000)
   .填（）
-  .map((_, i) => i);
+  .map（（_，i）=&gt; i）;
 
 //具有相同目标的测试函数：总结数组中的元素
 const sumReduce =（）=&gt; numbers.reduce（（acc，n）=&gt; acc + n，0）;
@@ -4592,7 +4593,7 @@ const greetHello = partial（greet，&#39;Hello&#39;）;
 使用扩展运算符（```）将`partials`附加到`fn`的参数列表中.
 
 ```js
-const partialRight =（fn，... partials）=&gt;（... args）=&gt; fn（... args，... partials）;
+const partialRight = (fn, ...partials) => (...args) => fn(...args, ...partials);
 ```
 
 <details>
@@ -5129,7 +5130,7 @@ const gcd =（... arr）=&gt; {
 省略第三个参数`step`，使用默认值`2`.
 
 ```js
-const geometricProgression = (end, start = 1, step = 2) =>
+const geometricProgression =（end，start = 1，step = 2）=&gt;
   Array.from（{length：Math.floor（Math.log（end / start）/ Math.log（step））+ 1}）.map（
     （v，i）=&gt; start * step ** i
   );
@@ -6335,7 +6336,7 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+      ? Object.keys(obj).reduce((acc, current) => {
         const val = obj [current];
         acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
@@ -6770,7 +6771,7 @@ const users = {
 
 比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和严格比较来确定第一个对象中是否存在所有键并具有相同的值.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`并进行严格比较，以确定第一个对象中是否存在所有键并具有相同的值.
 
 ```js
 const matches =（obj，source）=&gt;
@@ -6830,7 +6831,7 @@ matchesWith(
 ```js
 const merge =（... objs）=&gt;
   [... OBJ文件].降低（
-    （acc，obj）=&gt;
+    (acc, obj) =>
       Object.keys（obj）.reduce（（a，k）=&gt; {
          acc [k] = acc.hasOwnProperty（k）？  [] .concat（acc [k]）.concat（obj [k]）：obj [k];
         返回acc;
@@ -6860,7 +6861,7 @@ const other = {
 
 ### nest
 
-给定彼此链接的平面对象数组，它将递归地嵌套它们.
+Given a flat array of objects linked to one another, it will nest them recursively.
 用于嵌套注释，例如reddit.com上的注释.
 
 使用递归.
@@ -7445,7 +7446,7 @@ const escapeRegExp = str =&gt; str.replace（/ [.* +？^ $ {}（）| [\] \\] / g
 <summary>Examples</summary>
 
 ```js
-escapeRegExp('(test)'); // \\(test\\)
+ escapeRegExp（ &#39;（试验）&#39;）;  // \\（test \\）
 ```
 
 </details>
@@ -8391,7 +8392,7 @@ const isPrimitive = val =&gt; Object（val）！== val;
 
 ### isPromiseLike
 
-Returns `true` if an object looks like a [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)，`false`否则.
+如果对象看起来像是，则返回“true” [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)，`false`否则.
 
 检查对象是否不是“null”，它的`typeof`匹配`object`或`function`，如果它有`.then`属性，它也是``function`.
 
@@ -8788,7 +8789,7 @@ httpPost(
 
 ### isBrowser
 
-确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
+Determines if the current runtime environment is a browser so that front-end modules can run on the server (Node) without throwing errors.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
 `typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.

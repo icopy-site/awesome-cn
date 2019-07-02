@@ -525,13 +525,12 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [project (voronkovich)](https://github.com/voronkovich/project.plugin.zsh) - 用于管理项目的插件.
 * [proxy-plugin](https://github.com/escalate/oh-my-zsh-proxy-plugin) - 用于管理代理shell环境设置的别名.
 * [proxy](https://github.com/SukkaW/zsh-proxy) - 配置代理设置.
-* [pure-agnoster](https://github.com/yourfin/pure-agnoster)   - 纯粹和agnoster的混搭.  有`git`装饰，适用于深色和浅色的背景.
-* [purs](https://github.com/xcambar/purs) - 一个 [Pure](https://github.com/sindresorhus/pure)-inspired提示符 [Rust](https://www.rust-lang.org/).
 * [pyenv-lazy-load](https://github.com/erikced/zsh-pyenv-lazy-load) - 在ZSH中加载延迟加载`pyenv`的插件.
 * [pyenv-lazy](https://github.com/davidparsson/zsh-pyenv-lazy)   - 懒惰加载pyenv.  最初的`eval&#39;$（pyenv init  - ）“`在第一次调用`pyenv`时执行.
 * [q (cal2195)](https://github.com/cal2195/q) - 用于ZSH shell的`vim`-like宏寄存器.
 * [q (tomsquest)](https://github.com/tomsquest/q.plugin.zsh) - 为/删除/删除临时文件 [Q](https://github.com/y0ssar1an/q)，脏调试工具.
 * [quoter](https://github.com/pxgamer/quoter-zsh) - 打开新的终端会话时显示随机引用.
+* [quotify](https://github.com/damofthemoon/zsh-quotify) - 启动时显示来自我们对的鼓舞人心的编码引号.
 * [randeme](https://github.com/ex-surreal/randeme)   - 为每个会话选择一个随机主题.  如果您不喜欢所选择的主题，您可以运行`randeme_rm`以永远不再显示该主题.
 * [razer-status-code](https://github.com/michaelmcallister/razer-status-code) - 改变你的颜色 [Razer Mouse](https://openrazer.github.io/)  根据上次执行的命令的状态.  需要OpenRazer linux驱动程序.
 * [rbenv (ELLIOTTCABLE)](https://github.com/ELLIOTTCABLE/rbenv.plugin.zsh) - 来自oh-my-zsh的rbenv插件的快速分支.
@@ -945,7 +944,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) - 主题灵感来自robbyrussell [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme) 主题.
 * [lambda-gitster](https://github.com/ergenekonyigit/lambda-gitster) - 包含`git`信息的极简主义提示.
 * [lambda-mod](https://github.com/halfo/lambda-mod-zsh-theme) - 一个简单的ZSH主题，针对`git`使用进行了优化.
-* [lambda-pure](https://github.com/marszall87/lambda-pure) - 基于Pure的最小ZSH主题，添加了NodeJS版本.
+* [lambda-pure](https://github.com/marszall87/lambda-pure) - A minimal ZSH theme, based on Pure, with added NodeJS version.
 * [lambda](https://github.com/halfo/lambda-mod-zsh-theme/) - 为使用兼容unicode的字体和终端应用程序的`git`用户优化的ZSH主题.
 * [lambdav](https://github.com/vkaracic/lambdav-zsh-theme) -  Lambda和Fishy主题的组合.
 * [lazyprodigy](https://github.com/drewlustro/lazyprodigy-zsh-theme) - 针对黑暗终端进行了优化，具有适用于本地和远程系统的变体.
@@ -1021,7 +1020,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [phi φ](https://github.com/LasaleFamine/phi-zsh-theme) -  ZSH灵感和分叉的干净简单的主题 [Lambda (Mod) ZSH Theme](https://github.com/halfo/lambda-mod-zsh-theme).
 * [pi](https://github.com/tobyjamesthomas/pi) - 带有`git`状态装饰的极简主题.
 * [plain](https://github.com/jimeh/plain.zsh-theme) -  ZSH的简单主题，显示基本的`git`信息.
-* [planet](https://github.com/borb/planet-zsh) - A slimmed down version of [steef](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) 从 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
+* [planet](https://github.com/borb/planet-zsh) - 精简版 [steef](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) 从 [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh).
 * [platypus](https://github.com/fdv/platypus) - 鸭嘴兽是FrédéricdeVillamil使用的oh-my-zsh简单方便的主题.
 * [pointer](https://github.com/gpinkard/pointer-zsh-theme) - 显示工作目录，最后一个命令的返回状态和`git`当前分支.
 * [poncho](https://github.com/RainyDayMedia/oh-my-zsh-poncho) -  RDM的基本oh-my-zsh自定义主题.
@@ -1050,10 +1049,12 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [prompt-powerline](https://github.com/Valodim/zsh-prompt-powerline) - 一个相当重量级的ZSH提示，基于流行的同名vim插件的powerline字体，适用于黑暗的背景.
 * [prompt_j2](https://github.com/malinoskj2/prompt_j2) - Has a dynamic exit status indicator, can change to two lines dynamically to display context.
 * [punctual](https://github.com/dannynimmo/punctual-zsh-theme) - 易于定制，受到影响 [spaceship](https://github.com/denysdovhan/spaceship-prompt).
+* [pure-agnoster](https://github.com/yourfin/pure-agnoster)   - 纯粹和agnoster的混搭.  有`git`装饰，适用于深色和浅色的背景.
 * [pure](https://github.com/sindresorhus/pure) - 漂亮，简约，快速的ZSH提示.
 * [purien](https://github.com/sinetoami/purien) - 基于的漂亮提示 [pure](https://github.com/sindresorhus/pure) 提示，受到启发 [alien-minimal](https://github.com/eendroroy/alien-minimal) 和 [filthy](https://github.com/molovo/filthy).
 * [purify](https://github.com/banminkyoz/purify) - 简单，快速和酷炫的提示.
 * [purity](https://github.com/petermbenjamin/purity) - 受到robbyrussell主题+纯粹提示的启发.
+* [purs](https://github.com/xcambar/purs) - 一个 [Pure](https://github.com/sindresorhus/pure)-inspired提示写在 [Rust](https://www.rust-lang.org/).
 * [pustelto](https://github.com/Pustelto/shell_theme) - 丰富多彩的主题灵感来自于 [Spaceship](https://github.com/denysdovhan/spaceship-prompt) 主题，包括`git`装饰.
 * [qoomon](https://github.com/qoomon/zsh-theme-qoomon)   - 针对深色背景进行了优化，包括`git`信息.  主题回购包括iTerm 2和终端颜色设置.
 * [racotecnic](https://github.com/elboletaire/zsh-theme-racotecnic) - 基于af-magic和posh-git.
@@ -1217,7 +1218,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 
 ### [Zgen](https://github.com/tarjoilija/zgen)
 
-大多数这些插件都可以通过将`zgen load githubuser / reponame`添加到您正在执行其他`zgen load`调用的同一函数中的.zshrc文件来安装.Zgen将在您执行时自动克隆存储库`zgen save`.
+大多数这些插件都可以通过将`zgen load githubuser / reponame`添加到您正在执行其他`zgen load`调用的同一函数中的.zshrc文件来安装.Zgen将在您执行某个时自动克隆存储库`zgen save`.
 
 ### [zplug](https://github.com/zplug/zplug)
 

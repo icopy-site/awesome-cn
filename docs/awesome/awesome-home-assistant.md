@@ -141,7 +141,7 @@ _Anyone可以创建一个附加组件，以下内容由社区创建._
 * [Log Viewer](https://github.com/hassio-addons/addon-log-viewer) - 基于浏览器的实时日志查看实用程序.
 * [Tautulli](https://github.com/hassio-addons/addon-tautulli) - 监控并从Plex服务器获取统计信息.
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - 简单，优雅，功能丰富的CCTV / NVR适用于您的相机.
-* [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - Create documents containing live code, equations, visualizations, and explanatory text.
+* [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - 创建包含实时代码，方程式，可视化和说明文本的文档.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - 将快照备份到Google云端硬盘.
 * [ADB](https://github.com/hassio-addons/addon-adb) -  Android Debug Bridge服务器程序.
 * [Glances](https://github.com/hassio-addons/addon-glances) - 用Python编写的跨平台系统监视工具.
@@ -216,6 +216,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) - 显示电池实体的电池电量.
 * [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) - 在实体行上显示多个实体状态或属性.
 * [Toggle Lock Entity Row](https://github.com/thomasloven/lovelace-toggle-lock-entity-row) - 显示带锁的切换，避免错误切换.
+* [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) - 互动小米真空吸尘器地图，就像Mi Home应用程序一样.
 
 ### Alternative Dashboards
 
@@ -387,7 +388,7 @@ interwebs._
  各自所有者的财产.  所有公司，产品和服务名称
 此列表中使用的仅用于识别目的.
 
-使用这些名称，徽标，商标和品牌并不意味着认可.
+Use of these names, logos, trademarks, and brands does not imply endorsement.
 
 ## License
 

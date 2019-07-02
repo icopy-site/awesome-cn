@@ -625,7 +625,7 @@ AWS Repos：
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - 使用SQS和ECS扩展Lambda.
 * [lambda-refarch-fileprocessing :fire::fire:](https://github.com/awslabs/lambda-refarch-fileprocessing) - 用于实时文件处理的参考架构.
 * [lambda-refarch-iotbackend :fire::fire:](https://github.com/awslabs/lambda-refarch-iotbackend) - 用于创建IoT后端的参考架构.
-* [lambda-refarch-mobilebackend :fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - 用于创建移动后端的参考架构.
+* [lambda-refarch-mobilebackend :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - 用于创建移动后端的参考架构.
 * [lambda-refarch-webapp :fire::fire::fire:](https://github.com/awslabs/lambda-refarch-webapp) - 用于创建Web应用程序的参考体系结构.
 
 社区回购：

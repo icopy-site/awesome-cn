@@ -34,7 +34,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3-flame-graph](https://github.com/spiermar/d3-flame-graph) - 来自分层数据的火焰图
 - [d3-funnel](https://github.com/jakezatecky/d3-funnel) - 漏斗和金字塔图表库
 - [d3-gridding](https://github.com/romsson/d3-gridding) - 使用网格的图表模型
-- [d3-heatmap](https://github.com/tj/d3-heatmap) - Heatmap
+- [d3-heatmap](https://github.com/tj/d3-heatmap) - 热图
 - [d3-horizon-chart](https://github.com/kmandov/d3-horizon-chart) -  Horizo​​n图表模块
 - [d3-line](https://github.com/tj/d3-line) - 折线图
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - 动态/静态消息序列图
@@ -72,6 +72,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [uvCharts](https://github.com/imaginea/uvCharts)  - 支持许多不同的图表类型[酒吧，区域，馅饼，堆叠，线，极地，甜甜圈]
 - [vega](https://github.com/vega/vega) - 可视化语法
 - [vega-lite](https://github.com/vega/vega-lite) - 交互式图形的高级语法
+- [vega-lite-api](https://github.com/vega/vega-lite-api) -  Vega-Lite的JavaScript API.
 - [venn.js](https://github.com/benfred/venn.js) - 面积比例维恩和欧拉图
 - [visavail](https://github.com/flrs/visavail) - 时间数据可用性可视化
 - [vizabi](https://github.com/vizabi/vizabi) - 构建可视化数据探索工具的框架[bubble，map，line，bar，sankey，donut]
@@ -178,7 +179,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [dragit](https://github.com/romsson/dragit) - 用于启用数据图形操作的工具包
 - [d3moji](https://github.com/mathisonian/d3moji) - 一流的表情符号支持
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - 词云
-- [d3-context-menu](https://github.com/patorjk/d3-context-menu) - 助手创建上下文菜单
+- [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - 实施引力（或力场式排斥）
 - [d3-force-reuse](https://github.com/twosixlabs/d3-force-reuse) - 通过重用力逼近来更快地实现力导向的图形布局
 - [d3-resume](https://github.com/glena/d3-resume) - 恢复可视化工具
@@ -193,6 +194,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 
 ## Server side
 - [d3-node](https://github.com/d3-node/d3-node) - 静态图表和地图生成
+- [Kyrix](https://github.com/tracyhenry/Kyrix) - 具有自动服务器端扩展支持的交互式平移/缩放可视化. 
 
 ## Code Editors
 - [d3-snippets](https://github.com/martgnz/d3-snippets) -  Atom的片段

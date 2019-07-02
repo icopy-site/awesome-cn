@@ -7,7 +7,7 @@
 
 &gt;精选的CircuitPython指南，视频，库，框架，软件和资源的精选列表.
 
-[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写简洁的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
+[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写干净简单的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
 
 
 
@@ -87,6 +87,7 @@
 
 ## News
 
+- [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/)，2019年7月1日.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - 为Python的核心开发人员PyCon 2019讨论CircuitPython.
 - [Five Things You Didn't Know Python Could Do](https://www.youtube.com/watch?v=HNrMjH9Yuv4) -  YouTube视频，2019年6月19日.
 - [PyCon2019 Keynote - Light Up Your Life - With Python and LEDs](https://www.youtube.com/watch?v=35mXD40SvXM)  作者：Nina Zakharenko.  Python打开了一个与可穿戴电子产品一起工作的全新世界.  幻灯片是 [also available](https://speakerdeck.com/nnja/preso-c22944f3-ce78-4ced-8a34-f866656bf6c8).

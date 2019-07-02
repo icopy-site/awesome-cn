@@ -39,6 +39,7 @@
 - [cglib](https://github.com/cglib/cglib) - 字节码生成库.
 - [Javassist](https://jboss-javassist.github.io/javassist) - 尝试简化字节码编辑.
 - [Mixin](https://github.com/SpongePowered/Mixin) - 使用真实Java代码在运行时处理字节码.
+- [Perses](https://github.com/nicolasmanic/perses) - 根据混沌工程原理动态注入字节码级别的故障/延迟. 
 
 ### Caching
 
@@ -102,7 +103,7 @@
 *为重复代码生成模式的工具，以减少冗长和错误倾向.*
 
 - [ADT4J](https://github.com/sviperll/adt4j) - 用于代数数据类型的JSR-269代码生成器.
-- [Auto](https://github.com/google/auto) - Generates factory, service, and value classes.
+- [Auto](https://github.com/google/auto) - 生成工厂，服务和值类.
 - [FreeBuilder](https://github.com/google/FreeBuilder) - 自动生成Builder模式.
 - [Immutables](https://immutables.github.io) - 注释处理器，用于生成简单，安全和一致的值对象.
 - [JavaPoet](https://github.com/square/javapoet) - 用于生成源文件的API.
@@ -144,7 +145,7 @@
 
 - [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv) - 杰克逊扩展用于读写CSV.
 - [opencsv](http://opencsv.sourceforge.net) - 简单的CSV解析器.
-- [Super CSV](https://super-csv.github.io/super-csv) - 功能强大的CSV解析器，支持Dozer，Joda-Time和Java 8.
+- [Super CSV](https://super-csv.github.io/super-csv) - Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
 - [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers)   - 最快速，功能最强大的解析器之一.  还提供TSV和固定宽度记录的解析器.
 
 ### Database
@@ -200,7 +201,7 @@
 
 ### Date and Time
 
-*与处理日期和时间相关的图书馆.*
+*Libraries related to handling date and time.*
 
 - [Almanac Converter](https://github.com/hypotemoose/almanac-converter) - 不同日历系统之间的简单转换.
 - [iCal4j](https://github.com/ical4j/ical4j) - 解析并构建iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) 数据模型.
@@ -252,7 +253,7 @@
 - [Quasar](https://www.paralleluniverse.co/quasar) -  JVM的轻量级线程和actor.
 - [resilience4j](https://github.com/resilience4j/resilience4j) - 功能容错库.
 - [ScaleCube](https://github.com/scalecube/scalecube) - 基于SWIM和八卦协议的可嵌入集群成员库.
-- [Zuul](https://github.com/Netflix/zuul) - 提供动态路由，监控，弹性，安全性等的网关服务.
+- [Zuul](https://github.com/Netflix/zuul) - A gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Distributed Transactions
 
@@ -282,7 +283,7 @@
 *协助处理办公文档格式的图书馆.*
 
 - [Apache POI](https://poi.apache.org/) - 支持OOXML（XLSX，DOCX，PPTX）以及OLE2（XLS，DOC或PPT）.
-- [documents4j](http://documents4j.com) - API for document format conversion using third-party converters such as MS Word.
+- [documents4j](http://documents4j.com) - 使用MS Word等第三方转换器进行文档格式转换的API.
 - [docx4j](https://www.docx4java.org/trac/docx4j) - 创建和操作Microsoft Open XML文件.
 - [zerocell](https://github.com/creditdatamw/zerocell) - 基于注释的API，用于将Excel工作表中的数据读入POJO，重点是减少开销.
 
@@ -629,6 +630,7 @@
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) -  XML / XHTML和CSS 2.1渲染器.
 -  [iText！[c]]（https://itextpdf.com） - 以编程方式创建PDF文件.
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - 复杂的报告引擎.
+- [Open HTML to PDF](https://github.com/danfickle/openhtmltopdf) - 正确支持基于flyingsaucer和Apache PDFBox的现代PDF标准.
 
 ### Performance analysis
 
@@ -795,7 +797,7 @@
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭据，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 
@@ -840,7 +842,7 @@
 - [Awaitility](https://github.com/jayway/awaitility) - 用于同步异步操作的DSL.
 - [ConcurrentUnit](https://github.com/jhalterman/concurrentunit) - 用于测试多线程和异步应用程序的工具包.
 - [GreenMail](http://www.icegreen.com/greenmail)   - 用于集成测试的内存中电子邮件服务器.  支持SMTP，POP3和IMAP，包括SSL.
-- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) - Native bindings for Hoverfly, a proxy which allows you to simulate HTTP services.
+- [Hoverfly Java](https://github.com/SpectoLabs/hoverfly-java) -  Hoverfly的本机绑定，一种允许您模拟HTTP服务的代理.
 - [REST Assured](https://github.com/jayway/rest-assured) - 用于轻松测试REST / HTTP服务的DSL.
 
 #### BDD

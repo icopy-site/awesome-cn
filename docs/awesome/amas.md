@@ -46,14 +46,14 @@
 - [Hugo Giraudel](https://github.com/hugogiraudel/ama) -  CSS妖精，Sass黑客，边缘精神.
 - [Will Binns-Smith](https://github.com/wbinnssmith/ama)   -  Bitbucket的JavaScript.  做互联网的事情.
 - [Lauri Tervonen](https://github.com/mollikka/ama) - 芬兰的CS＆SE大学学生.
-- [Matija Marohnić](https://github.com/silvenon/ama) - From modding Warcraft to frontend design/development and nerdiness for Node.js build tools.
+- [Matija Marohnić](https://github.com/silvenon/ama) - 从修改魔兽到前端设计/开发和Node.js构建工具的神经质.
 - [Kyle Robinson Young](https://github.com/shama/ama) - 做东西，喜欢熊.
 - [Trent Oswald](https://github.com/therebelrobot/ama) - 网络事物的制造商 [@Mashape](http://mashape.com) 和 [nodejs/website](https://github.com/nodejs/iojs.org).
 - [Una Kravets](https://github.com/una/ama) - 前端开发人员，Sass事物，开发社区和开源设计.
 - [Chris Missal](https://github.com/chrismissal/ama)   - 德克萨斯州奥斯汀的互联网事务制造商.  傻瓜，书呆子和OSS爱好者.
 - [Acho Arnold](https://github.com/najela/ama) - 充满激情的全栈Web开发人员 [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 - [Rob Furlong](https://github.com/robbbz/ama) - 通过网络，自由职业者制作很酷的东西.
-- [Honza Bittner](https://github.com/tenhobi/ama) - 学生来 [FIT CTU](http://fit.cvut.cz/en)，达特爱人.
+- [Honza Bittner](https://github.com/tenhobi/ama) - 学生来 [FIT CTU](http://fit.cvut.cz/en), Dart lover.
 - [Jan Sanchez](https://github.com/jansanchez/ama)   - 前端开发人员.  css-url-versioner的创建者，开源贡献者.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - 目前在西班牙的一名学生正在进行任何使用C ++，Rust，JavaScript和TypeScript的开发.
 - [Richard Littauer](https://github.com/RichardLitt/ama)   - 全栈开发人员，语言学家，有时还有数字游牧民族.  使用麻省理工学院媒体实验室创建了Na&#39;vi词典，NodeSchool组织者，用户醉酒.
@@ -94,7 +94,7 @@
 - [Seth Alexander](https://github.com/itzsaga/ama) - 免费Code Camper，Burgeoning Dev，所有JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - 工程副总裁 [Shape Security](https://shapesecurity.com/)，作者 [Esprima](https://github.com/jquery/esprima) 和 [PhantomJS](http://phantomjs.org).
 - [Rob Thomas](https://github.com/xrobau/ama)   -  VoIP开发人员，IPv6和安全宣传员，DevOps的支持者.  目前在 [Sangoma](https://www.sangoma.com).
-- [Amit Merchant](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
+- [Amit Merchant](https://github.com/amitmerchant1990/ama) - 使用JavaScript，PHP和Java的全栈开发人员.
 - [William Oliveira](https://github.com/woliveiras/ama) - 前端开发人员（巴西人）使用JavaScript，Angular，Stylus，Gulp，Git等.阅读更多关于我的信息 [my blog](http://woliveiras.com.br).
 - [Unbug Lee](https://github.com/unbug/ama) - 作者 [MIHTool](http://www.mihtool.com) 和 [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon](https://github.com/tiborsimon/ama) - 电气工程师，软件极客，DSP，iOS，vimmer，吉他手，骑车人，跑步者， [tiborsimon.io](https://tiborsimon.io).
@@ -150,7 +150,7 @@
 - [Ali Spittel](https://github.com/aspittel/ama) - 教学代码，Python和JavaScript开发人员，博主.
 - [Khen Daniel](https://github.com/thekhenzie/ama)  - 软件工程师.  有抱负的摄影师.  黑客.
 - [Riza Fahmi](https://github.com/rizafahmi/ama)   - 开发人员，导师，演讲者.  课程总监，联合创始人Hacktiv8 Coding Bootcamp.
-- [Sergey Sova](https://github.com/sergeysova/ama)   - 生锈的情人.  导师.  自由职业者.  反应开发者.
+- [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
 - [Omar Bahareth](https://github.com/obahareth/ama) - 软件工程主管 [Tam](https://tamhub.com) ，导师，全栈开发人员，目前正在深入研究Ruby和Elixir，并慢慢进入Go和Rust.  位于沙特阿拉伯.
 - [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - 谷歌Chrome团队的工程经理领导Web性能.
 - [CY Lim](https://github.com/cylim/ama) - 全栈JavaScript数字游牧民族.
@@ -163,8 +163,9 @@
 - [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - 所有在一个开发人员.
 - [Frances Coronel](https://github.com/fvcproductions/ama) - 开源爱好者，Slack的软件工程师，Techqueria.org的董事会成员.
-- [Wendell Hu](https://github.com/wendzhue/ama) - 阿里巴巴的前端开发人员. 
+- [Wendell Hu](https://github.com/wendzhue/ama) - 阿里巴巴的前端开发人员.
 - [KimSia Sim](https://github.com/simkimsia/ama) - 独立开发者， [blogger](https://simkimsia.com)， 的主人 [business apps agency](https://oppoin.com) .  总部设在新加坡.
+- [Jim Lesperance](https://github.com/cooljl31/ama) - 充满激情的全栈开发者，狗❤️并喜欢旅游.
 
 #### Ask these organizations anything!
 

@@ -50,11 +50,11 @@
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
-- [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
+- [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
 - [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的断开链接.  ！[免费软件] [免费软件图标]
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的破损链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
-- [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
+- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - 最终的REST客户端.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater)   - 一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) - 一个现代的PostgreSQL客户端.
@@ -83,7 +83,7 @@
 ### Editors
 
 - [CotEditor](https://coteditor.com)   -  macOS的轻量级纯文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/coteditor/CotEditor/）！[免费软件] [免费软件图标]
-- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS)   -  Emacs端口作为macOS应用程序工作.  [！[开源软件] [OSS图标]]（https://emacsformacosx.com/download/emacs-sources/）！[免费软件] [免费软件图标]
+- [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS)   -  Emacs端口可用作macOS应用程序.  [！[开源软件] [OSS图标]]（https://emacsformacosx.com/download/emacs-sources/）！[免费软件] [免费软件图标]
 - [MacVim](https://github.com/macvim-dev/macvim)   -  Vim，文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/macvim-dev/macvim）！[免费软件] [免费软件图标]
 - [Sublime Text 3](http://www.sublimetext.com/) - 复杂的文本编辑器.
 - [TextMate](https://macromates.com/)   - 图形文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/textmate/textmate）
@@ -108,7 +108,7 @@
 
 ### Games
 
-- [Battle for Wesnoth](http://www.wesnoth.org/)   - 回合制战术策略游戏，包括单人和在线多人战斗.  [！[开源软件] [OSS图标]]（https://github.com/wesnoth）！[免费软件] [免费软件图标]
+- [Battle for Wesnoth](http://www.wesnoth.org/)   - 回合制战术战略游戏，包括单人和在线多人战斗.  [！[开源软件] [OSS图标]]（https://github.com/wesnoth）！[免费软件] [免费软件图标]
 - [Boxer](http://boxerapp.com/)   -  DOS游戏模拟器适合您的Mac.  [！[开源软件] [OSS图标]]（https://github.com/alunbestor/Boxer）！[免费软件] [免费软件图标]
 - [Dolphin](https://dolphin-emu.org)   - 适用于任天堂GameCube和Wii游戏的强大的开源模拟器.  [！[开源软件] [OSS图标]]（https://github.com/dolphin-emu/dolphin）！[免费软件] [免费软件图标]
 - [OpenEmu](http://openemu.org/)   - 多个视频游戏系统.  [！[开源软件] [OSS图标]]（https://github.com/OpenEmu/OpenEmu）！[免费软件] [免费软件图标]
@@ -126,7 +126,7 @@
 - [Image2icon](http://www.img2icnsapp.com)   - 从图片中创建和个性化图标.  ！[免费软件] [免费软件图标]
 - [macSVG](https://macsvg.org/)   - 为Web，移动和动画设计和编辑SVG内容.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 用于创建精确，美观图形的应用程序.
-- [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
+- [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能的Photoshop替代品.
 - [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用程序，尤其适用于UI，Web和移动设计.
 - [Sketch Toolbox](http://sketchtoolbox.com/)   -  Sketch的超级简单插件管理器.  [！[开源软件] [OSS图标]]（https://github.com/buzzfeed/Sketch-Toolbox）
 - [xScope](http://xscopeapp.com/) - 用于测量，检查和测试屏幕图形和布局的工具.
@@ -155,7 +155,7 @@
 - [Instant Translate](https://insttranslate.com/mac) - 从菜单栏中翻译100多种语言的语音和文本.
 - [Karabiner](https://pqrs.org/osx/karabiner/)   - 功能强大的键盘定制器.  [！[开源软件] [OSS图标]]（https://github.com/tekezo/Karabiner）！[免费软件] [免费软件图标]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行例行操作.
-- [Keytty](http://keytty.com) - Enables you to control your mouse with a few key strokes. Mouse Keys Alternative.
+- [Keytty](http://keytty.com)   - 使您可以通过几个击键来控制鼠标.  鼠标键替代.
 - [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 只需使用键盘即可启动应用程序，导航文件夹，操作文件，控制Mac等等.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 适用于Mac，iPad和iPhone的令人难以置信的任务管理平台.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - 非常适合收集信息，概述想法，为任何类型的写作添加结构等等.
@@ -169,7 +169,7 @@
 - [Simplenote](https://simplenote.com/)   - 基于云的同步的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
 - [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
 - [Telephone](http://www.64characters.com/telephone/)   -  SIP软电话.  通过Internet或公司网络拨打电话.  [！[开源软件] [OSS图标]]（https://github.com/eofster/Telephone）！[免费软件] [免费软件图标]
-- [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [TextExpander](https://smilesoftware.com/textexpander) - 为常用文本和图片创建自定义键盘快捷键.
 - [Timing](https://timingapp.com/)   -  Mac的自动时间和生产力跟踪.  帮助您保持正常工作，并确保如果您按小时计费，则不会丢失计费时间.
 
 
@@ -196,7 +196,7 @@
 - [Arthur](http://arthur-osx.com/) - 安全地优化Mac的一些隐藏设置.
 - [Artify](https://github.com/NghiaTranUIT/artify-macos)   - 一个macOS X应用程序，专门为每个人带来18世纪的艺术.  [！[开源软件] [OSS图标]]（https://github.com/NghiaTranUIT/artify-macos）！[免费软件] [免费软件图标]
 - [Bartender](https://www.macbartender.com/) - 整理菜单栏应用程序.
-- [Batch Image Resizer](http://www.ironstarmedia.co.uk/resources/osx-image-resizer/)   - 在计算机上快速调整大量图像的大小.  ！[免费软件] [免费软件图标]
+- [Batch Image Resizer](http://www.ironstarmedia.co.uk/resources/osx-image-resizer/) - Resize a large number of images quickly on your computer. ![Freeware][Freeware Icon]
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 使用Mac键盘上的媒体键控制基于Web的媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/beardedspice/beardedspice）！[免费软件] [免费软件图标]
 - [BetterZip](https://macitbetter.com/) - 一个功能强大且功能齐全的归档管理器.
 - [BitBar](https://github.com/matryer/bitbar)   - 将任何脚本的输出显示到菜单栏.  [！[开源软件] [OSS图标]]（https://github.com/matryer/bitbar）！[免费软件] [免费软件图标]
@@ -216,7 +216,6 @@
 - [gfxCardStatus](https://gfx.io/)   - 菜单栏应用程序，用于监控和切换MacBook Pro上的集成和独立GPU.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
 - [Gray](https://github.com/zenangst/Gray)   - 只需点击一下按钮，即可在每个应用程序的基础上选择浅色外观和深色外观.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
 - [Helium](http://heliumfloats.com/)   - 浮动浏览器窗口，允许您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
-- [InsomniaX](http://semaja2.net/projects/insomniaxinfo/)   - 防止macOS自动进入休眠状态（关闭盖子或空闲超时）.  ！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)   -  Mac上的Unsplash数千张令人惊叹的照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
 - [iStat Menus](https://bjango.com/mac/istatmenus/) - 您的菜单栏的高级系统监视器.
 - [Kawa](https://github.com/noraesae/kawa)   - 带有快捷方式的更好的输入源切换器.  [！[开源软件] [OSS图标]]（https://github.com/noraesae/kawa）！[免费软件] [免费软件图标]
@@ -224,14 +223,14 @@
 - [Keka](http://www.kekaosx.com/en/)   - 压缩并从许多存档文件格式中提取.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/keka/files/）！[免费软件] [免费软件图标]
 - [Knock](http://www.knocktounlock.com)   - 快速安全地解锁您的Mac.  ！[免费软件] [免费软件图标]
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/)   - 创建，管理和调试launchd服务.  ！[免费软件] [免费软件图标]
-- [Loading](http://bonzaiapps.com)   - 查看应用在Mac菜单栏中何时使用您的网络.  [！[开源软件] [OSS图标]]（https://github.com/BonzaiThePenguin/Loading/）！[免费软件] [免费软件图标]
+- [Loading](http://bonzaiapps.com)   - 查看应用程序何时在Mac菜单栏中使用您的网络.  [！[开源软件] [OSS图标]]（https://github.com/BonzaiThePenguin/Loading/）！[免费软件] [免费软件图标]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - 保护您的隐私.
 - [MacDown](http://macdown.uranusjr.com/)   -  Markdown编辑.  [！[开源软件] [OSS图标]]（https://github.com/MacDownApp/macdown）！[免费软件] [免费软件图标]
 - [Mackup](https://github.com/lra/mackup)   - 保持应用程序设置同步.  [！[开源软件] [OSS图标]]（https://github.com/lra/mackup）！[免费软件] [免费软件图标]
 - [MacPass](https://macpass.github.io/)   - 密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
 - [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/HEAD/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   - 方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
-- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)   - 用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
+- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
 - [Monodraw](http://monodraw.helftone.com/) - 强大的ASCII艺术编辑器.
 - [Mounty](http://enjoygineering.com/mounty/) - 一种在读写模式下在macOS 10.9+下重新安装写保护NTFS卷的小工具.
 - [Noizio](http://noiz.io/) - 环境声音均衡器，可放松或提高工作效率.
@@ -246,7 +245,7 @@
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) - 自动从Internet下载网站.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)   - 管理窗口大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)   - 防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - 使Caps Lock键变得更智能，这样当钥匙意外被激活并且即使你不想要你开始催促时，你也可以选择大喊大叫的文本并再次按下键以立即修复它的情况而不是键入一切都在重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - 使Caps Lock键变得更加智能，以便当键意外被激活并且即使你不想要你开始叫喊时，你也可以选择大喊大叫的文本并再次按下键以立即修复它的情况而不是键入一切都在重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) - 美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理您的SSH隧道，与macOS Keychain紧密集成，安全直观.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - 远程控制另一台计算机.
@@ -296,7 +295,7 @@
 - [Awesome macOS Command Line](https://github.com/herrbischoff/awesome-osx-command-line) - 使用macOS终端shell做一些很棒的事情.
 - [m-cli](https://github.com/rgcr/m-cli) - 用于macOS的瑞士军刀.
 - [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) - 用于开发人员的macOS命令行工具.
-- [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) -  Apple的官方手册页参考，其中列出了第1节中的所有常规命令.
+- [Mac macOS Manual Pages](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/) - Apple's official man page reference which lists all general commands in Section 1.
 - [mas](https://github.com/mas-cli/mas)   -  Mac App Store的CLI.  [！[开源软件] [OSS图标]]（https://github.com/mas-cli/mas）！[免费软件] [免费软件图标]
 
 ## macOS Utilities

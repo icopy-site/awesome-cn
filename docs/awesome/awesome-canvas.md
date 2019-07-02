@@ -27,7 +27,7 @@
 
 
 * [30.000 particles](http://codepen.io/soulwire/full/Ffvlo) [[show me the code](http://codepen.io/soulwire/pen/Ffvlo)]•使用Canvas 2D创建高性能粒子的研究结果.
-* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)]•此演示是一个完整的8位色彩循环引擎的实现，实时渲染到HTML5 Canvas中.
+* [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)]•此演示是一个完整的8位色彩循环引擎的实现，可以实时渲染到HTML5 Canvas中.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)]•参考使用画布制作装载机.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)]•关于如何使用canvas创建圆环的一个很好的例子.
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) （谷歌Chrome强烈推荐）•这个演示使用球形环境映射技术呈现Apple iPod的3D模型.
@@ -67,7 +67,7 @@
 
 ### To draw using canvas
 
-- [Akihabara](http://www.kesiev.com/akihabara/) 是用于使用Javascript和canvas标签制作基于像素的游戏的HTML5游戏库.
+- [Akihabara](http://www.kesiev.com/akihabara/) HTML5游戏库是使用Javascript和canvas标签制作基于像素的游戏.
 - [ChemDoodle](http://web.chemdoodle.com/) 是一个开源化学和化学信息学工具包，其中canvas用于解决常见的化学相关任务，以各种不同的方式显示分子.
 - [EaselJS](https://createjs.com/easeljs)  是一个JavaScript库，可以轻松地使用HTML5 Canvas元素.  适用于创建游戏，生成艺术和其他高度图形化的体验.  EaselJS是CreateJS的一部分 -  CreateJS是一个模块化的库和工具，它们可以一起或独立地通过HTML5在开放Web技术上实现丰富的交互式内容.
 - [d3](https://github.com/d3/d3)  （或D3.js）是一个JavaScript库，用于使用Web标准可视化数据.  D3可帮助您使用SVG，Canvas和HTML将数据变为现实.
@@ -89,7 +89,7 @@
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
 - [Visualize](https://github.com/filamentgroup/jQuery-Visualize) 是一个JQuery插件，使用HTML canvas元素从表格数据创建图表和图形.
-
+- [zDog](https://github.com/metafizzy/zdog) - 平面，圆形，设计师友好的伪3D引擎，适用于帆布和SVG
 
 ### For other purposes, but still use canvas
 - [React Canvas](https://github.com/Flipboard/react-canvas)   - 高性能 <canvas>  渲染React组件.
