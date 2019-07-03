@@ -125,6 +125,7 @@
 * [liner](https://github.com/peterh/liner) - 为命令行界面使用类似readline的库.
 * [mitchellh/cli](https://github.com/mitchellh/cli) -  Go库用于实现命令行界面.
 * [mow.cli](https://github.com/jawher/mow.cli) - 使用复杂的标志和参数解析和验证来构建用于构建CLI应用程序的库.
+* [ops](https://github.com/nanovms/ops) -  Unikernel Builder / Orchestrator.
 * [pflag](https://github.com/spf13/pflag) - 直接替换Go的标志包，实现POSIX / GNU样式 - 标志.
 * [readline](https://github.com/chzyer/readline) - 纯粹的golang实现，在MIT许可下提供GNU-Readline中的大多数功能.
 * [sand](https://github.com/Zaba505/sand) - 用于创建解释器的简单API等等.
@@ -828,7 +829,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [gone/log](https://github.com/One-com/gone/tree/master/log) - 快速，可扩展，功能齐全，std-lib源兼容的日志库.
 * [journald](https://github.com/ssgreg/journald) - 实现systemd Journal的本机API以进行日志记录.
 * [log](https://github.com/aerogo/log) -  O（1）日志记录系统，允许您将一个日志连接到多个写入程序（例如stdout，文件和TCP连接）.
-* [log](https://github.com/apex/log) - Structured logging package for Go.
+* [log](https://github.com/apex/log) -  Go的结构化日志包.
 * [log](https://github.com/go-playground/log) -  Go的简单，可配置和可扩展的结构化日志记录.
 * [log](https://github.com/teris-io/log) -  Go的结构化日志界面干净地将日志记录外观与其实现分开.
 * [log-voyage](https://github.com/firstrow/logvoyage) - 用golang编写的全功能日志saas.
@@ -1184,7 +1185,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 *用于包和依赖管理的非官方库.*
 
 * [gigo](https://github.com/LyricalSecurity/gigo) - 用于golang的类似PIP的依赖工具，支持私有存储库和哈希.
-* [glide](https://github.com/Masterminds/glide)   - 轻松管理您的golang供应商和销售包裹.  灵感来自Maven，Bundler和Pip等工具.
+* [glide](https://github.com/Masterminds/glide) - Manage your golang vendor and vendored packages with ease. Inspired by tools like Maven, Bundler, and Pip.
 * [godep](https://github.com/tools/godep) -  go的依赖工具，godep通过修复它们的依赖关系来帮助重复构建包.
 * [gom](https://github.com/mattn/gom) - 去经理 - 捆绑去.
 * [goop](https://github.com/nitrous-io/goop) - 受Bundler启发的Go（golang）简单依赖管理器.

@@ -175,7 +175,7 @@
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) - “Go Meta Linter”的替代方案：GolangCI-Lint是一个直接聚合器.
 * [golint](https://github.com/golang/lint) - 在Go源代码中打印出编码风格错误.
 * [goreporter](https://github.com/wgliang/goreporter) - 同时运行许多短路并将其输出规范化为报告.
-* [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - An interactive tool to analyze Golang goroutine dump.
+* [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) - 分析Golang goroutine转储的交互式工具.
 * [gosimple](https://github.com/dominikh/go-tools/tree/master/cmd/gosimple) - 报告代码简化.
 * [gotype](https://golang.org/x/tools/cmd/gotype) - 类似于Go编译器的语法和语义分析.
 * [ineffassign](https://github.com/gordonklaus/ineffassign) - 检测Go代码中的无效分配
@@ -185,6 +185,7 @@
 * [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) - 运行staticcheck，gosimple和unused，共享工作.
 * [misspell](https://github.com/client9/misspell) - 查找通常拼写错误的英语单词.
 * [nakedret](https://github.com/alexkohler/nakedret) - 找到裸体回报.
+* [nargs](https://github.com/alexkohler/nargs) - 在函数声明中查找未使用的参数.
 * [prealloc](https://github.com/alexkohler/prealloc) - 查找可能预先分配的切片声明.
 * [revive](https://github.com/mgechev/revive)   -  Go的快速，可配置，可扩展，灵活和美观的linter.  直接替换golint.
 * [safesql](https://github.com/stripe/safesql) -  Golang的静态分析工具，可防止SQL注入.
@@ -192,7 +193,7 @@
 * [test](http://golang.org/pkg/testing/) - 从stdlib测试模块显示测试失败的位置.
 * [testify](https://github.com/stretchr/testify) - 显示失败的证词断言的位置.
 * [unconvert](https://github.com/mdempsky/unconvert) - 检测冗余类型转换.
-* [unimport](https://github.com/alexkohler/unimport) - 查找不必要的导入别名
+* [unimport](https://github.com/alexkohler/unimport) - Finds unnecessary import aliases
 * [unparam](https://github.com/mvdan/unparam) - 查找未使用的功能参数.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - 查找未使用的变量.
 * [varcheck](https://github.com/opennota/check) - 查找未使用的全局变量和常量.
@@ -286,7 +287,7 @@
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 一组使用图论的静态分析和重构工具
 * [parallel-lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - 此工具检查PHP文件的语法比使用更高级别的输出进行串行检查更快.
 * [Parse](https://github.com/psecio/parse) - 静态安全扫描程序
-* [pdepend](https://pdepend.org/) - 计算软件指标，如PHP代码的圈复杂度.
+* [pdepend](https://pdepend.org/) - Calculates software metrics like cyclomatic complexity for PHP code.
 * [phan](https://github.com/etsy/phan) - 来自etsy的现代静态分析仪
 * [PHP Assumptions](https://github.com/rskuipers/php-assumptions) - 检查弱假设
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) - 根据PSR-1，PSR-2和Symfony标准等标准修复代码.
@@ -344,6 +345,7 @@
 * [radon](https://github.com/rubik/radon) - 一个Python工具，用于计算源代码中的各种指标
 * [vulture](https://github.com/jendrikseipp/vulture) - 在Python代码中查找未使用的类，函数和变量
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - 有史以来最严格，最自以为是的蟒蛇皮
+* [wily](https://github.com/tonybaloney/wily) - 用于归档，探索和绘制Python源代码复杂性的命令行工具
 * [xenon](https://github.com/rubik/xenon) - 使用监控代码复杂性 [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers

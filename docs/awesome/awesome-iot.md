@@ -63,7 +63,7 @@
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) -  AllJoyn是一个开源软件框架，使设备和应用程序可以轻松地相互发现和通信.
  - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
  - [Astarte](https://github.com/astarte-platform/astarte)   -  Astarte是一个用Elixir编写的开源IoT平台.  它是一个交钥匙解决方案，包含将设备机群连接到一组远程应用程序所需的一切.  它可以执行数据建模，自动数据缩减，实时事件，并为您提供在现代物联网平台中可能期望的任何功能.  目前，使用提供的SDK即可支持Linux和ESP32设备.
- - [Blynk](http://www.blynk.cc)   -  Blynk是一个为连接的东西创建iOS和Android应用程序的平台.  只需拖放小部件（就在智能手机上），您就可以轻松地为所有项目构建图形界面.  支持以太网，WiFi，蓝牙，GSM / GPRS，USB /串行连接，支持Arduino，Raspberry，ARM mbed，Particle，RedBear等各种原型平台.
+ - [Blynk](http://www.blynk.cc)   -  Blynk是一个为连接的东西创建iOS和Android应用程序的平台.  只需拖放小部件（就在智能手机上），您就可以轻松地为所有项目构建图形界面.  支持以太网，WiFi，蓝牙，GSM / GPRS，USB /串行连接，以及Arduino，Raspberry，ARM mbed，Particle，RedBear等各种原型平台.
  - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
  - [Eclipse Smarthome](https://eclipse.org/smarthome/)   -  Eclipse SmartHome框架设计用于在嵌入式设备上运行，例如Raspberry Pi，BeagleBone Black或Intel Edison.  它需要符合Java 7的JVM和OSGi（4.2+）框架，例如Eclipse Equinox.
  - [Freedomotic](http://www.freedomotic.com)   -  Freedomotic是一个开源，灵活，安全的物联网（IoT）开发框架，可用于构建和管理现代智能空间.  它面向私人（家庭自动化）以及商业用户（智能零售环境，环境感知营销，监控和分析等）.  用Java编写，它可以与众所周知的标准楼宇自动化协议以及“自己动手”解决方案进行交互.
@@ -73,7 +73,7 @@
  - [Mihini](https://wiki.eclipse.org/Mihini)   -  Mihini的主要目标是提供在Linux之上运行的嵌入式运行时，它公开了用于构建M2M应用程序的高级API.  Mihini旨在通过促进访问M2M系统的I / O，提供通信层等，实现轻松便携的开发.
  - [OpenHAB](http://www.openhab.org/)   -  openHAB运行时是一组部署在OSGi框架（Equinox）上的OSGi包.  因此，它是纯Java解决方案，需要运行JVM.  它基于OSGi，提供高度模块化的架构，甚至允许在运行时添加和删除功能，而无需停止服务.
  - [Gobot](http://gobot.io/) -  Gobot是一个用Go编程语言编写的机器人，物理计算和物联网框架.
- - [Home Assistant](https://github.com/home-assistant/home-assistant) -  Home Assistant是一个在Python 3上运行的家庭自动化平台.Home Assistant的目标是能够跟踪和控制家中的所有设备，并提供自动控制的平台.
+ - [Home Assistant](https://github.com/home-assistant/home-assistant) -  Home Assistant是一个在Python 3上运行的家庭自动化平台.Home Assistant的目标是能够跟踪和控制家中的所有设备，并提供自动化控制的平台.
  - [Lightweight MQTT Machine Network](http://lwmqn.github.io/)   -  LWMQN是一个开源项目，遵循OMA LWM2M v1.0规范的一部分，并使用基于IP的智能对象模型来满足机器网络管理的最低要求.  它提供了服务器端和机器端库，可以使用JavaScript和Node.js进行全栈IoT开发.  另见：IPSO联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
  - [Thingsboard IoT Gateway](https://github.com/thingsboard/thingsboard-gateway) - 开源IoT网关 - 使用OPC-UA和MQTT协议将连接到传统和第三方系统的设备与Thingsboard IoT平台集成.
  - [Pimatic](https://pimatic.org/)   -  Pimatic是一个在node.js上运行的家庭自动化框架.  它为家庭控制和自动化任务提供了一个通用的可扩展平台.
@@ -86,7 +86,7 @@
  - [IFTTT](https://ifttt.com/)   -  IFTTT是一种基于Web的服务，允许用户创建简单条件语句链，称为“食谱”，这些条件语句是基于对Gmail，Facebook，Instagram和Pinterest等其他Web服务的更改而触发的.  IFTTT是“If This Then That”的缩写（发音为“gift”而没有“g”）.
  - [Huginn](https://github.com/cantino/huginn) -  Huginn是一个用于构建代理的系统，可以在线为您执行自动化任务.
  - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
- - [Losant](https://losant.com)   -  Losant是一款易于使用且功能强大的开发人员平台，旨在帮助您快速安全地构建复杂的连接解决方​​案.  Losant使用REST和MQTT等开放式通信标准来提供从一个到数百万个设备的连接.  Losant提供强大的数据收集，聚合和可视化功能，有助于理解和量化大量传感器数据.  Losant的拖放工作流程编辑器允许您无需编程即可触发操作，通知和机器对机器通信.
+ - [Losant](https://losant.com)   -  Losant是一款易于使用且功能强大的开发人员平台，旨在帮助您快速，安全地构建复杂的连接解决方​​案.  Losant使用REST和MQTT等开放式通信标准来提供从一个到数百万个设备的连接.  Losant提供强大的数据收集，聚合和可视化功能，有助于理解和量化大量传感器数据.  Losant的拖放工作流程编辑器允许您无需编程即可触发操作，通知和机器对机器通信.
  - [MicroServiceBus.com](https://microservicebus.com)   -  MicroServiceBus.com是Azure，AWS和IBM IoT Hub的设备管理平台，可与GitHub，ServiceNow，Cisco Jasper等集成.  它提供免费（有限）版本以及企业产品.
  - [DreamFactory](http://www.dreamfactory.com) -  DreamFactory是一个免费的开源REST API平台，适用于移动，Web和IoT应用程序.
  - [I1820](https://i1820.github.io/)   -  I1820是一个免费的开源平台，提供基于MQTT的发现，数据收集和配置服务.  I1820实现了用于控制事物的REST API，它将所有收集的数据存储在名为InfluxDB的时间序列数据库中.
@@ -104,6 +104,7 @@
  - [Pi4J](http://pi4j.com/) -  Pi4j旨在为Java程序员提供友好的面向对象的I / O API和实现库，以访问Raspberry Pi平台的完整I / O功能.
  - [WiringPi](http://wiringpi.com/) -  WiringPi是一个用C语言编写的GPIO访问库，用于Raspberry Pi中使用的BCM2835.
  - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
+ - [ops](https://ops.city/) - 一个免费的开源工具，用于构建，运行和部署Linux应用程序作为unikernel.
  - [SmartObject](https://github.com/PeterEB/smartobject)   - 智能对象类，可帮助您在JavaScript应用程序中创建IPSO智能对象.  另见：IPSO联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
 #### Miscellaneous
@@ -227,7 +228,7 @@ iBeacon是Apple标准化的协议，于2013年在Apple全球开发者大会上�
 
  PJON®（填充抖动操作网络）是一种兼容Arduino的多主机多媒体网络协议.  它提出了一个标准，它被设计为一个框架，并实现了一个完全软件模拟的网络协议栈，可以很容易地在许多架构上交叉编译，如ATtiny，ATmega，ESP8266，ESP32，STM32，Teensy，Raspberry Pi，Linux，Windows x86和Apple机器.  它是快速，易于理解地构建设备网络的有效工具.  访问维基和文档，了解有关PJON标准的更多信息.
 
-&gt; PJON用于数千种设备，其社区已经遍布全球，因为有以下6个关键因素：新技术，多媒体支持，更高的安全性，更高的可靠性，高灵活性和低成本.
+&gt; PJON用于数千种设备，由于以下6个关键因素，其社区已遍布全球：新技术，多媒体支持，更高的安全性，更高的可靠性，高灵活性和低成本.
 
 #### <img width="50" src="https://stomp.github.io/images/project-logo.png" /> - [STOMP](https://stomp.github.io/)
 
@@ -265,7 +266,7 @@ OPC-UA不仅是工业自动化的协议，也是一种允许工业环境的语�
 - [ETSI M2M](http://www.etsi.org/technologies-clusters/technologies/m2m) -  ETSI技术委员会正在制定机器对机器通信标准.
 - [OneM2M](http://www.onem2m.org/) -  oneM2M的目的和目标是开发技术规范，满足对可以轻松嵌入各种硬件和软件的通用M2M服务层的需求，并依靠将现场的无数设备与全球M2M应用服务器连接起来.
 - [OPCUA](https://opcfoundation.org/) -  OPC统一架构（OPC UA）是OPC基金会开发的用于互操作性的工业M2M通信协议.
-- [OCF](https://openconnectivity.org/) -  OCF，开放连接基金会，基于约束应用协议（CoAP）为物联网（IoT）中涉及的设备开发标准和认证.
+- [OCF](https://openconnectivity.org/) -  OCF，开放连接基金会，开发基于约束应用协议（CoAP）的物联网（IoT）相关设备的标准和认证.
 
 ### Alliances
 
@@ -307,7 +308,7 @@ OPC-UA不仅是工业自动化的协议，也是一种允许工业环境的语�
 
 #### [Getting Started with Bluetooth Low Energy: Tools and Techniques for Low-Power Networking](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511) (2014) *by [Kevin Townsend](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Carles Cufí](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription), [Akiba](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription) and [Robert Davidson](http://www.amazon.com/Getting-Started-Bluetooth-Low-Energy/dp/1491949511#productDescription)* [4.5]
 
- &gt;本书提供了有关设备如何使用Ble进行相互通信的可靠，高级概述.  您将学习有用的低成本工具，用于开发和测试支持Ble的移动应用程序和嵌入式固件，并使用各种开发平台（包括面向应用程序开发人员的iOs和Android以及面向产品设计人员和硬件工程师的嵌入式平台）获取示例.
+ &gt;本书提供了有关设备如何使用Ble进行相互通信的可靠，高级概述.  您将学习有用的低成本工具，用于开发和测试支持Ble的移动应用程序和嵌入式固件，并使用各种开发平台（包括iOs和Android）为应用程序开发人员和产品设计人员和硬件工程师的嵌入式平台提供示例.
 
 #### [Smart Things: Ubiquitous Computing User Experience Design](http://www.amazon.com/Smart-Things-Ubiquitous-Computing-Experience/dp/0123748992) (2010) *by [Mike Kuniavsky](http://www.amazon.com/Mike-Kuniavsky/e/B001K8LTGU/ref=dp_byline_cont_book_1)* [4.5]
 

@@ -136,6 +136,7 @@
 - [Arkency](https://blog.arkency.com/) - 来自Ruby专家的各种DDD，CQRS，事件采购相关文章.
 - [Svaťa Šimara](http://svatasimara.cz/) -  DDD系列 - 语言，领域，建模，基础设施，PHP实现
 - [Martin Havlišta](https://xhafan.com/blog/) - DDD, CQRS, TDD blog posts with code samples in C# .NET  
+- [Khalil Stemmler](https://khalilstemmler.com/articles/categories/domain-driven-design) -  DDD系列介绍，并讨论如何使用TypeScript实现DDD
 
 ## Sample Projects
 

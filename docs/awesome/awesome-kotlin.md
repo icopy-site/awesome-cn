@@ -169,7 +169,7 @@
 * [arrow-kt/arrow](https://github.com/arrow-kt/arrow) -  Kotlin标准库的功能伴侣.
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) -  Kotlin的RxJava绑定.
 * [kittinunf/Result](https://github.com/kittinunf/Result) -  Kotlin运营成功/失败的建模.
-* [brianegan/bansa](https://github.com/brianegan/bansa) - 受到Elm＆Redux启发的Kotlin和Java的状态容器.
+* [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) -  Kotlin的Redux直接港口.
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - 用于Kotlin + Android的Reduxjs的“电池包含”端口
 * [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - 一个用于建模成功或失败操作的结果monad  - 受Elm，Rust和Haskell的启发.
@@ -195,7 +195,7 @@
 * [cheptsov/kotlin-nosql](https://github.com/cheptsov/kotlin-nosql) -  Kotlin的NoSQL数据库查询和访问库.
 * [jankotek/mapdb](https://github.com/jankotek/mapdb)   -  MapDB提供由磁盘存储或堆外内存支持的并发映射，集和队列.  它是一种快速且易于使用的嵌入式Java数据库引擎.
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) -  Kotlin中一个方便的数据库访问库.
-* [andrewoma/kwery](https://github.com/andrewoma/kwery) -  Kwery是Kotlin的SQL库.
+* [andrewoma/kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 * [square/sqldelight](https://github.com/square/sqldelight) - 从CREATE TABLE语句生成Java模型.
 * [x2bool/kuery](https://github.com/x2bool/kuery) - 使用Kotlin键入安全SQL.
 * [Litote/kmongo](https://github.com/Litote/kmongo) -  KMongo  -  Mongo的Kotlin工具包
@@ -287,7 +287,7 @@
 * [moove-it/fakeit](https://github.com/moove-it/fakeit) - 生成可在Android开发环境中使用的真实假数据（如姓名，电子邮件，日期，国家/地区）.
 * [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - 用于可读循环的简单实用程序库.
 * [phxql/aleksa](https://github.com/phxql/aleksa) -  Aleksa是在Kotlin写Alexa Skills的小框架.
-* [TicketmasterMobileStudio/actions-on-google-kotlin](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin)   - 官方Node.js SDK到Kotlin的端口.  完整的所有功能和测试以及几乎相同的API.
+* [TicketmasterMobileStudio/actions-on-google-kotlin](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
 * [cretz/asmble](https://github.com/cretz/asmble) - 将WebAssembly编译为JVM和其他WASM工具.
 * [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) -  Kotlin的一个很好的解析器组合库
 * [Kotlin/kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - 在Kotlin中使用原子操作的惯用方法.
@@ -405,7 +405,7 @@
 * [jenkinsci/doktor-plugin](https://github.com/jenkinsci/doktor-plugin) -  Jenkins插件，用于将自动文档上传到Confluence.
 * [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) -  Gradle插件，以帮助构建和测试Jenkins管道共享库.
 * [kpspemu/kpspemu](https://github.com/kpspemu/kpspemu) - 用Kotlin编写的多平台（JS和JVM）PSP仿真器.
-* [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Visual profile for software engineers written in Kotlin.
+* [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - 用Kotlin编写的软件工程师的视觉资料.
 * [chrislo27/RhythmHeavenRemixEditor](https://github.com/chrislo27/RhythmHeavenRemixEditor) - 使用libGDX和Kotlin为Rhythm Heaven系列设计的音频自定义混音编辑器.
 * [Poweranimal/PowerCollections](https://github.com/Poweranimal/PowerCollections) - 强大的收藏，集合，列表和地图.
 * [neworld/gradle-jdeploy-plugin](https://github.com/neworld/gradle-jdeploy-plugin) -  Gradle插件，通过npmjs.com发布JVM应用程序
@@ -490,7 +490,7 @@
 * [line/clay](https://github.com/line/clay) -  Clay是一个Android库项目，提供图像修剪，最初是LINE Creators Studio的UI组件.
 * [WindSekirun/RichUtilsKt](https://github.com/WindSekirun/RichUtilsKt) - 用Kotlin编写的Android Developer的Advancement Utils.
 * [TradeMe/MapMe](https://github.com/TradeMe/MapMe) - 将适配器模式和DiffUtil引入Google Maps和MapBox的库.
-* [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - Simple android library to present an animated ferris wheel
+* [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) - 简单的android库，呈现动画摩天轮
 * [ehsunshine/colored-time-selector](https://github.com/ehsunshine/colored-time-selector)   - 智能彩色时间选择器.  用户可以通过方便的彩色范围选择器选择空闲时间.
 * [yundom/kache](https://github.com/yundom/kache) - 用Kotlin编写的轻量级缓存库.
 * [adrielcafe/KBus](https://github.com/adrielcafe/KBus) - 使用Kotlin和RxJava 2制作的死亡简单EventBus for Android
@@ -505,6 +505,8 @@
 * [inshiro/Skate](https://github.com/inshiro/skate) - 一个简单易用的Android片段堆栈控制器
 * [cortinico/slidetoact](https://github.com/cortinico/slidetoact) - 用Kotlin编写的简单的“幻灯片解锁”材料小部件
 * [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - 为您的Android应用程序制作一个很酷的/材质介绍 - 现在所有在Kotlin！
+* [adrielcafe/PufferDB](https://github.com/adrielcafe/pufferdb) - 由Protobuf和Coroutines提供支持的Android和JVM键值存储.
+* [adrielcafe/HAL](https://github.com/adrielcafe/hal) - 适用于Android和JVM的非确定性有限状态机，不会让您失望.
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - 使用MVP架构的kotlin上的android开发框架.
@@ -529,7 +531,7 @@
 * [SimpleMobileTools/Simple-Camera](https://github.com/SimpleMobileTools/Simple-Camera) - 带闪光灯，变焦且无广告的相机.
 * [SimpleMobileTools/Simple-Draw](https://github.com/SimpleMobileTools/Simple-Draw) - 可以使用不同颜色绘制的画布.
 * [SimpleMobileTools/Simple-File-Manager](https://github.com/SimpleMobileTools/Simple-File-Manager) - 用于浏览和编辑文件和目录的简单文件管理器.
-* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
+* [SimpleMobileTools/Simple-Gallery](https://github.com/SimpleMobileTools/Simple-Gallery) - 用于查看没有广告的照片和视频的图库.
 * [SimpleMobileTools/Simple-Notes](https://github.com/SimpleMobileTools/Simple-Notes) - 用于添加没有广告的快速笔记的简单文本字段.
 * [ahong222/happy21](https://github.com/ahong222/happy21) - 一个简单的黑杰克游戏与kotlin写
 * [AllanWang/KAU](https://github.com/AllanWang/KAU) - 广泛的Kotlin Android Utils系列
@@ -665,7 +667,7 @@
 * [Dubai Kotlin User Group](https://www.facebook.com/kotlindubai/) - 阿拉伯联合酋长国
 * [Hefei Kotlin User Group](http://weibo.com/kotlinhfug) - 中国
 * [Hyderabad Kotlin User Group](https://www.facebook.com/KotlinHyd/) - 印度
-* [Indonesia Kotlin User Group](https://www.facebook.com/groups/395469687469099/) - Indonesia
+* [Indonesia Kotlin User Group](https://www.facebook.com/groups/395469687469099/) - 印度尼西亚
 * [Indore Kotlin User Group](https://www.meetup.com/kotlinindore/) - 印度
 * [Israel Kotlin User Group](https://www.facebook.com/groups/107080706530829/) - 以色列
 * [Istanbul Kotlin User Group](https://www.meetup.com/Kotlin-%C4%B0stanbul/) - 火鸡
@@ -822,7 +824,7 @@
 * [Kotlin: как сделать жизнь Java-разработчика легче?](http://kotlin.link/articles/-.html) -  Stanislav Sinitsky，Alexander Mikhalchenko
 * [Kotlin: How to Make a Java Developer's Life Easier?](http://kotlin.link/articles/-.html) -  Stanislav Sinitsky，Alexander Mikhalchenko
 * [Thinking Functionally](http://kotlin.link/articles/-.html) - 刘易斯莱茵河
-* [Building microservices with Kotlin and Spring Boot](http://kotlin.link/articles/-.html) - 加布里埃尔弗朗西斯科
+* [Building microservices with Kotlin and Spring Boot](http://kotlin.link/articles/-.html) - Gabriel Francisco
 * [Kotlin 1.1-M04 is here!](http://kotlin.link/articles/-.html) - 伊利亚切尔尼科夫
 * [Kotlin in Practice with Spring Boot and Vaadin](http://kotlin.link/articles/-.html) -  Philipp Hauer
 * [Concurrency Primitives in Kotlin](http://kotlin.link/articles/-.html) -  Egor Andreevich

@@ -228,6 +228,7 @@ Code
 *：那么： [KiwiJS](http://www.kiwijs.org/)   - 一个有趣和友好的开源HTML5游戏引擎.  有人称之为HTML5游戏引擎的WordPress
 *：那么： [LibGDX](https://libgdx.badlogicgames.com/) - 功能强大（完全免费）的Java库，代码一次，在桌面，Android，Web和iOS上运行游戏.
 *：那么： [LimeJS](http://www.limejs.com/) -  HTML5游戏框架，用于为所有现代触摸屏构建快速的原生体验游戏
+*：那么： [LITIengine](http://litiengine.com/)   -  2D Java游戏引擎.  它提供了使用普通java创建基于图块的2D游戏的所有基础设施
 *：那么： [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service.
 * ：自由： [LuaStudio](http://scormpool.com/luastudio) - 使用Lua / LuaJIT制作2D / 3D游戏的跨平台框架/开发工具，兼容iOS，Android，Mac和Windows设备.
 * ：自由： [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - 亚马逊Lumberyard是一个深度集成的免费AAA游戏引擎
@@ -259,7 +260,7 @@ Code
 *：money_with_wings： [Pixel Vision 8](https://twitter.com/PixelVision8) - 一个旨在模拟您最喜欢的8位控制台的框架.
 *：那么： [PixiJS](http://www.pixijs.com/)   - 是一款新推出的HTML5游戏渲染器 - 于2013年初首次发布.该引擎的主要吸引力在于它使用WebGL来提高性能.  如果不支持WebGL，则引擎会回退到标准画布.
 *：那么： [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台HTML5游戏开发的2D JavaScript物理引擎.
-*：money_with_wings： [PlayCanvas](https://playcanvas.com/) - A WebGL Game Engine.
+*：money_with_wings： [PlayCanvas](https://playcanvas.com/) -  WebGL游戏引擎.
 *：那么： [Polycode](http://polycode.org) - 用C ++创建游戏的开源框架（使用Lua绑定）.
 *：那么： [Processing](https://www.processing.org/) -  Processing是一种编程语言，适用于艺术家，设计师和研究人员的开发环境.
 *：那么： [PuzzleScript](http://www.puzzlescript.net/) - 开源HTML5益智游戏引擎.
@@ -452,7 +453,7 @@ Ads
 * [AdMob by Google](https://www.google.com.br/admob/) - 谷歌的移动广告和货币化服务.
 * [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
 * [Appodeal](http://www.appodeal.com/) - 针对移动应用的程序化广告中介解决方案.
-* [ChartBoost](https://www.chartboost.com/) - 货币化，分析平台.
+* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
 * [RevMob](https://www.revmobmobileadnetwork.com/) - 货币化和广告解决方案.
 * [Unity Ads](https://unity3d.com/pt/services/ads) -  Unity3D官方广告SDK.
 * [Vungle](https://vungle.com/) - 视频广告服务.

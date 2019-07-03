@@ -65,6 +65,7 @@
 - [Using the React DevTools Profiler to Diagnose React App Performance Issues](https://www.netlify.com/blog/2018/08/29/using-the-react-devtools-profiler-to-diagnose-react-app-performance-issues/)
 - [Top 5 Practices to Boost React Performance](https://www.codementor.io/blizzerand/top-5-practices-to-boost-react-performance-jv6zr89ep)
 - [React is Slow, React is Fast: Optimizing react Apps in Practice](https://medium.com/dailyjs/react-is-slow-react-is-fast-optimizing-react-apps-in-practice-394176a11fba)
+- [Rendering large lists with react-window](https://addyosmani.com/blog/react-window/)
 
 ##### React Internals
 
@@ -136,7 +137,7 @@
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
 - [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
 - [react-big-calendar](https://intljusticemission.github.io/react-big-calendar/examples/index.html) - 日历组件
 - [react-datepicker](https://reactdatepicker.com/) -  ReactJS Datepicker
@@ -229,6 +230,7 @@
 - [react-dashboard - isomorphic admin dashboard template (React.js, Bootstrap, Node.js, GraphQL, React Router, Babel, Webpack, Browsersync)](https://github.com/flatlogic/react-dashboard)
 - [reactponsive - Responsive utils in all the flavors for your favorite framework](https://github.com/jmlweb/reactponsive)
 - [react-svg - A React component that injects SVG into the DOM](https://github.com/tanem/react-svg)
+- [react-window - React components for efficiently rendering large lists and tabular data](https://github.com/bvaughn/react-window)
 
 ##### React for Command Line
 
@@ -291,6 +293,7 @@
 - [refract](https://github.com/fanduel-oss/refract) - 利用反应式编程的强大功能为组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
+- [react-extras](https://github.com/sindresorhus/react-extras) - 使用React的有用组件和实用程序
 
 ##### React Integration
 

@@ -64,9 +64,10 @@
 ### Shell
 
 - [execa](https://github.com/sindresorhus/execa) - &#39;child_process.{execFile，exec}`的跨平台实现.
+- [gulp-execa](https://github.com/ehmicky/gulp-execa) -  Gulp.js中的跨平台命令执行
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - &#39;child_process.spawn（）`的跨平台实现.
 - [shelljs](https://github.com/shelljs/shelljs) - 跨平台的Unix shell命令.
-- [node-windows](https://github.com/coreybutler/node-windows) -  Windows支持Node.js脚本（守护进程，事件日志，UAC等）.
+- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -  Windows回退的各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有Windows回退的Unicode符号.
 - [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 跨平台复制/粘贴.

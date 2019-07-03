@@ -42,6 +42,7 @@
 - [apple-touchbar](https://github.com/rodrigobdz/fish-apple-touchbar) - 自定义你 [Touch Bar](https://developer.apple.com/design/human-interface-guidelines/macos/touch-bar/touch-bar-overview) 在iTerm2中.
 - [jorgebucaran/nvm](https://github.com/jorgebucaran/fish-nvm) -  Pure-fish Node.js版本管理器.
 - [fabioantunes/nvm](https://github.com/FabioAntunes/fish-nvm) - 带完成的nvm包装器（另见 [brigand/fast-nvm](https://github.com/brigand/fast-nvm-fish)).
+- [jbonjean/re-search](https://github.com/jbonjean/re-search) - 更多readline（或bash），如增量历史搜索.
 
 ### Articles, tutorials, guides
 

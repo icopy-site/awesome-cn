@@ -208,8 +208,9 @@
 
 ### C/C++ Libraries
 
-* [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - 使用C和C ++ API的C ++中的GraphQL查询解析器.
+* [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - A GraphQL query parser in C++ with C and C++ APIs.
 * [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) -  C ++ GraphQL架构服务生成器.
+* [CaffQL](https://github.com/caffeinetv/CaffQL) - 从GraphQL内省查询生成C ​​++客户端类型和请求/响应序列化.
 
 <a name="lib-go" />
 
@@ -467,7 +468,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用graphql-ruby公开Rails应用程序.
 * [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用GitHub的GraphQL API的示例Rails应用程序.
-* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - Barebones starter kit for Relay application with Rails GraphQL server.
+* [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 使用Rails GraphQL服务器进行中继应用的Barebones入门套件.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) -  graphql，relay和标准rails应用程序驱动的演示weblog.
 * [to_eat_app]（https://github.com/jcdavison/to_eat_app） - 一个示例graphql / rails / relay应用程序，包含相关的由3部分组成的系列文章.
 * [agoo-demo](https://github.com/ohler55/agoo/tree/develop/example/graphql) - 使用Agoo服务器演示简单的GraphQL应用程序.

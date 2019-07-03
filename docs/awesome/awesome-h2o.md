@@ -61,11 +61,11 @@
 - [Identifying IT purchases anomalies in the Brazilian government procurement system using deep learning](http://ieeexplore.ieee.org/document/7838233/?reload=true)  Silvio L. Domingos，Rommel N. Carvalho，Ricardo S. Carvalho，Guilherme N. Ramos.  （2016）
 - [Predicting recovery of credit operations on a Brazilian bank](http://ieeexplore.ieee.org/abstract/document/7838243/)  RogérioG.Lopes，Rommel N. Carvalho，Marcelo Ladeira，Ricardo S. Carvalho.  （2016）
 - [Deep learning anomaly detection as support fraud investigation in Brazilian exports and anti-money laundering](http://ieeexplore.ieee.org/abstract/document/7838276/)  Ebberth L. Paula，Marcelo Ladeira，Rommel N. Carvalho，ThiagoMarzagão.  （2016）
-- [Deep learning and association rule mining for predicting drug response in cancer](http://dx.doi.org/10.1101/070490)  Konstantinos N. Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O. Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G. Gorgoulis.  （2016）
+- [Deep learning and association rule mining for predicting drug response in cancer](https://doi.org/10.1101/070490)  Konstantinos N. Vougas，Thomas Jackson，Alexander Polyzos，Michael Liontos，Elizabeth O. Johnson，Vassilis Georgoulias，Paul Townsend，Jiri Bartek，Vassilis G. Gorgoulis.  （2016）
 - [The value of points of interest information in predicting cost-effective charging infrastructure locations](http://www.rsm.nl/fileadmin/Images_NEW/ECFEB/The_value_of_points_of_interest_information.pdf)  StéphanieFlorenceVisser.  （2016）
 - [Adaptive modelling of spatial diversification of soil classification units. Journal of Water and Land Development](https://www.degruyter.com/downloadpdf/j/jwld.2016.30.issue-1/jwld-2016-0029/jwld-2016-0029.xml)  KrzysztofUrbański，StanisławGruszczyńsk.  （2016）
 - [Scalable ensemble learning and computationally efficient variance estimation](http://www.stat.berkeley.edu/~ledell/papers/ledell-phd-thesis.pdf)  Erin LeDell.  （2015）
-- [Superchords: decoding EEG signals in the millisecond range](https://dx.doi.org/10.7287/peerj.preprints.1265v1)  Rogerio Normand，Hugo Alexandre Ferreira.  （2015）
+- [Superchords: decoding EEG signals in the millisecond range](https://doi.org/10.7287/peerj.preprints.1265v1)  Rogerio Normand，Hugo Alexandre Ferreira.  （2015）
 - [Understanding random forests: from theory to practice](https://github.com/glouppe/phd-thesis)  Gilles Louppe.  （2014）
 
 ## Benchmarks

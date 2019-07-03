@@ -157,10 +157,10 @@
   * [gtmetrix.com](https://gtmetrix.com/) - 优化网站的报告和全面建议
   * [browserling.com](https://www.browserling.com/) - 实时交互式跨浏览器测试，在Vista下以1024 x 768分辨率在MS IE 9上免费使用3分钟
   * [shields.io](https://shields.io) - 开源项目的质量元数据标记
-  * [beanstalkapp.com](https://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
+  * [beanstalkapp.com](https://beanstalkapp.com/) - 编写，审查和部署代码的完整工作流程，1个用户的免费帐户和1个100 MB存储库
   * [testanywhere.co](https://testanywhere.co/) - 持续自动测试网站或网络应用程序，并在早期阶段捕获错误，每月免费1,000次测试
   * [blamewarrior.com](https://blamewarrior.com/) - 自动为新拉取请求分配审阅者的工具，并跟踪开源的免费审查流程统计
-  * [gerrithub.io](https://review.gerrithub.io/) — Gerrit code review for GitHub repositories for free
+  * [gerrithub.io](https://review.gerrithub.io/) - 免费为GitHub存储库提供Gerrit代码审查
   * [reviewable.io](https://reviewable.io/) -  GitHub存储库的代码审查，免费用于公共或个人回购
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [golangci.com](https://golangci.com) - 针对GitHub拉取请求的自动Go（golang）代码审查服务.
@@ -182,7 +182,7 @@
   * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
   * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
-  * [appveyor.com](https://www.appveyor.com/) — CD service for Windows, free for Open Source
+  * [appveyor.com](https://www.appveyor.com/) - 适用于Windows的CD服务，适用于开源
   * [github.com](https://github.com/ligurio/Continuous-Integration-services) - 持续集成服务的比较
   * [ftploy.com](https://ftploy.com/) -  1个无限制部署的项目
   * [deployhq.com](https://www.deployhq.com/) -  1个项目，每天10次部署（30个建立分钟/月）
@@ -204,7 +204,7 @@
 ## Security and PKI
 
   * [pyup.io](https://pyup.io)   - 针对安全漏洞的Monitory Python依赖项并自动更新它们.  免费为一个私人项目，无限制的开源项目.
-  * [threatconnect.com](https://www.threatconnect.com)   - 威胁情报：它专为正在开始了解网络威胁情报的个人研究人员，分析师和组织而设计.  最多可免费使用3个用户
+  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
   * [crypteron.com](https://www.crypteron.com/) - 云优先，开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io) -  Snyk发现并报告了包中的几个漏洞.限制为1个私有项目（开源项目无限制）
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
@@ -212,10 +212,10 @@
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
   * [auth0.com](https://auth0.com/)   - 免费开发SSO.  最多2个社交身份提供商用于闭源项目.
   * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
-  * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
+  * [ssllabs.com](https://www.ssllabs.com/ssltest/) — Very deep analysis of the configuration of any SSL web server
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
+  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
@@ -284,7 +284,7 @@
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
-  * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Free for up to 20 checks.
+  * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
   * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
   * [assertible.com](https://assertible.com)   - 自动API测试和监控.  团队和个人的免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)   - 强大的警报和随叫随到的管理，可以运行永远在线的服务.  最多可免费使用5个用户.
@@ -345,7 +345,7 @@
   * [jsdelivr.com](https://www.jsdelivr.com/) - 面向开发人员和网站管理员的OSS（JS，CSS，字体）的CDN，接受PR以添加更多内容
   * [developers.google.com](https://developers.google.com/speed/libraries/) -  Google Hosted Libraries是最受欢迎的开源JavaScript库的内容分发网络
   * [asp.net](https://www.asp.net/ajax/cdn/) -  Microsoft Ajax CDN托管流行的第三方JavaScript库，例如jQuery，使您可以轻松地将它们添加到Web应用程序中
-  * [toranproxy.com](https://toranproxy.com/)   -  Packagist和GitHub的代理.  永远不会失败CD.  免费供个人使用，1位开发人员，不支持
+  * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
   * [incapsula.com](https://www.incapsula.com/) - 免费CDN和DDoS保护
   * [Web Support Revolution](https://w.tools/) - 免费CDN，备份，防火墙，防病毒和监控.
   * [section.io](https://www.section.io/)   - 一种简单的方法来启动和管理完整的Varnish Cache解决方案.  据说永远免费为一个网站
@@ -362,13 +362,13 @@
   * [bluemix.net](https://console.ng.bluemix.net/) -  IBM PaaS，每月免费津贴
   * [outsystems.com](https://www.outsystems.com/) - 用于内部部署或云端的企业Web开发PaaS，免费的“个人环境”产品允许无限制的代码和高达1 GB的数据库
   * [scn.sap.com](https://scn.sap.com/docs/DOC-56411)   -  SAP提供的内存平台即服务产品.  免费开发人员帐户附带1 GB结构化，1 GB非结构化，1 GB Git数据，并允许您运行HTML5，Java和HANA XS应用程序
-  * [mendix.com](https://www.mendix.com/) — Rapid Application Development for Enterprises, unlimited number of free sandbox environments supporting 10 users, 100 MB of files and 100 MB database storage each
+  * [mendix.com](https://www.mendix.com/) - 企业快速应用程序开发，无限数量的免费沙箱环境，支持10个用户，100 MB文件和100 MB数据库存储
   * [pythonanywhere.com](https://www.pythonanywhere.com/)   - 云Python应用托管.  初学者帐户是免费的，1个Python web应用程序位于your-username.pythonanywhere.com域，512 MB私有文件存储，一个MySQL数据库
   * [configure.it](https://www.configure.it/) - 移动应用开发平台，2个项目免费，功能有限，但没有资源限制
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
-  * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
+  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
 
 ## BaaS
@@ -433,7 +433,7 @@
   * [freenom.com](https://freenom.com/)   - 免费域名提供商.  免费获取FQDN.
   * [duckdns.org](http://duckdns.org/)   - 免费层上最多5个域的免费DDNS.  使用各种设置的配置指南.
   * [1984.is](https://www.1984.is/product/freedns/) - 使用API​​提供免费DNS服务，还包括许多其他免费DNS功能.
-  * [Cloudflare](https://www.cloudflare.com/)   - 免费DNS.  无限数量的doamins.
+  * [Cloudflare](https://www.cloudflare.com/)   - 免费DNS.  无限数量的域名.
 
 ## IaaS
 
@@ -457,7 +457,7 @@
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
+   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
@@ -615,7 +615,7 @@
 
   * [braintreepayments.com](https://braintreepayments.com/)   - 信用卡，Paypal，Venmo，比特币，Apple Pay，...集成.  单笔和经常性付款.  首个50,000美元免费
   * [currencylayer.com](https://currencylayer.com/) - 为您的企业提供可靠的汇率和货币换算，每月免费提供1,000个API请求
-  * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
+  * [vatlayer.com](https://vatlayer.com/) - 即时增值税号码验证和欧盟增值税率API，每月免费100 API请求
   * [fraudlabspro.com](https://www.fraudlabspro.com)   - 帮助商家防止付款欺诈和退款.  免费微计划每月提供500个查询.
   * [currencystack.io](https://currencystack.io/) -  154种货币的生产 - 实时汇率.  
 ## Docker Related
