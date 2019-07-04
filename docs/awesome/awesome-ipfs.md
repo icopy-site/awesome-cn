@@ -77,6 +77,7 @@
 - [Pathephone](https://pathephone.github.io) - 分布式音乐流媒体应用.
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - 使用window.ipfs的演示应用程序，由IPFS Companion Web扩展提供，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - 使用window.ipfs的IPv4 IPFS对等体的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
+- [Peergos](https://peergos.org) - 端到端加密，对等文件存储和共享. [Source](https://github.com/Peergos/Peergos)
 - [Philes](https://philes.co) - 一个简单的基于浏览器的IPFS记事本应用程序. [Source](https://github.com/chrismatthieu/philes)
 - [Pinata](https://pinata.cloud) - 通过Pinata的REST API和IPFS工具包构建和管理您的dapp.
 - [Playback](https://mafintosh.github.io/playback/)   -  IPFS播放支持.  这允许将IPFS中的视频投射到Chromecast.

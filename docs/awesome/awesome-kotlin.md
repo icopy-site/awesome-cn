@@ -89,6 +89,10 @@
 * [Android Apprentice - Darryl Bayliss & Tom Blankenship](https://store.raywenderlich.com/products/android-apprentice) - 使用Kotlin开始Android编程
 * [Hands-on Design Patterns with Kotlin - Alexey Soshin](https://www.amazon.com/Hands-Design-Patterns-Kotlin-applications/dp/1788998014) - 本书介绍了如何使用Kotlin中的传统，反应和并发设计模式构建可扩展的应用程序
 * [Building Spring Boot Applications with the Kotlin Programming Language](https://www.manning.com/livevideo/building-spring-boot-applications-with-the-kotlin-programming-language) - 一个liveVideo课程，教您使用Spring Boot编写干净，简洁，易于维护的Kotlin代码.
+* [Kotlin Bootcamp for Programmers - Google](https://www.udacity.com/course/kotlin-bootcamp-for-programmers--ud9011) - 开发人员的语言基础
+* [Developing Android Apps with Kotlin - Google](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012) - 使用Kotlin创建简洁，安全且高性能的应用程序
+* [Kotlin for Android Developers](https://www.udacity.com/course/kotlin-for-android-developers--ud888) - 将Android应用程序从Java转换为Kotlin
+* [Kotlin for Java Developers - JetBrains](https://www.coursera.org/learn/kotlin-for-java-developers) - 针对Java开发人员的详细Kotlin入门课程
 
 ## <a name="libraries-frameworks"></a>Libraries/Frameworks <sup>[Back ⇈](#libraries-frameworks-category)</sup>
 ### <a name="libraries-frameworks-web"></a>Web <sup>[Back ⇈](#libraries-frameworks-web-subcategory)</sup>
@@ -126,7 +130,7 @@
 * [nhaarman/mockito-kotlin](https://github.com/nhaarman/mockito-kotlin) - 使用Mockito和Kotlin.
 * [robstoll/atrium](https://github.com/robstoll/atrium) -  Kotlin支持i18n的多平台断言库.
 * [MarkusAmshove/Kluent](https://github.com/MarkusAmshove/Kluent) -  Kotlin的流利断言图书馆.
-* [winterbe/expekt](https://github.com/winterbe/expekt) -  Kotlin的BDD断言库.
+* [winterbe/expekt](https://github.com/winterbe/expekt) - BDD assertion library for Kotlin.
 * [kotlintest/kotlintest](https://github.com/kotlintest/kotlintest) -  KotlinTest是一款灵活而全面的测试工具，适用于Kotlin生态系统，其基础上受到了极好的Scalatest的启发.
 * [dmcg/konsent](https://github.com/dmcg/konsent) -  Kotlin的验收测试库.
 * [EPadronU/balin](https://github.com/EPadronU/balin)   -  Balin是Kotlin的浏览器自动化库.  它基本上是一个受Geb启发的Selenium-WebDriver包装库.
@@ -169,7 +173,7 @@
 * [arrow-kt/arrow](https://github.com/arrow-kt/arrow) -  Kotlin标准库的功能伴侣.
 * [ReactiveX/RxKotlin](https://github.com/ReactiveX/RxKotlin) -  Kotlin的RxJava绑定.
 * [kittinunf/Result](https://github.com/kittinunf/Result) -  Kotlin运营成功/失败的建模.
-* [brianegan/bansa](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
+* [brianegan/bansa](https://github.com/brianegan/bansa) - 受到Elm＆Redux启发的Kotlin和Java的状态容器.
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) -  Kotlin的Redux直接港口.
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) - 用于Kotlin + Android的Reduxjs的“电池包含”端口
 * [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - 一个用于建模成功或失败操作的结果monad  - 受Elm，Rust和Haskell的启发.
@@ -195,7 +199,7 @@
 * [cheptsov/kotlin-nosql](https://github.com/cheptsov/kotlin-nosql) -  Kotlin的NoSQL数据库查询和访问库.
 * [jankotek/mapdb](https://github.com/jankotek/mapdb)   -  MapDB提供由磁盘存储或堆外内存支持的并发映射，集和队列.  它是一种快速且易于使用的嵌入式Java数据库引擎.
 * [seratch/kotliquery](https://github.com/seratch/kotliquery) -  Kotlin中一个方便的数据库访问库.
-* [andrewoma/kwery](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
+* [andrewoma/kwery](https://github.com/andrewoma/kwery) -  Kwery是Kotlin的SQL库.
 * [square/sqldelight](https://github.com/square/sqldelight) - 从CREATE TABLE语句生成Java模型.
 * [x2bool/kuery](https://github.com/x2bool/kuery) - 使用Kotlin键入安全SQL.
 * [Litote/kmongo](https://github.com/Litote/kmongo) -  KMongo  -  Mongo的Kotlin工具包
@@ -287,9 +291,9 @@
 * [moove-it/fakeit](https://github.com/moove-it/fakeit) - 生成可在Android开发环境中使用的真实假数据（如姓名，电子邮件，日期，国家/地区）.
 * [czyzby/kotlin-times](https://github.com/czyzby/kotlin-times) - 用于可读循环的简单实用程序库.
 * [phxql/aleksa](https://github.com/phxql/aleksa) -  Aleksa是在Kotlin写Alexa Skills的小框架.
-* [TicketmasterMobileStudio/actions-on-google-kotlin](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
+* [TicketmasterMobileStudio/actions-on-google-kotlin](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin)   - 官方Node.js SDK到Kotlin的端口.  完整的所有功能和测试以及几乎相同的API.
 * [cretz/asmble](https://github.com/cretz/asmble) - 将WebAssembly编译为JVM和其他WASM工具.
-* [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) -  Kotlin的一个很好的解析器组合库
+* [h0tk3y/better-parse](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 * [Kotlin/kotlinx.atomicfu](https://github.com/Kotlin/kotlinx.atomicfu) - 在Kotlin中使用原子操作的惯用方法.
 * [vjames19/kotlin-futures](https://github.com/vjames19/kotlin-futures) - 扩展函数的集合，使JVM Future，CompletableFuture，ListenableFuture API更具功能性和Kotlin之类.
 * [kunalsheth/units-of-measure](https://github.com/kunalsheth/units-of-measure) -  Kotlin的类型安全的尺寸分析库.
@@ -341,7 +345,7 @@
 * [kotlin-graphics/openvr](https://github.com/kotlin-graphics/openvr) -  OpenVR绑定
 * [kotlin-graphics/assimp](https://github.com/kotlin-graphics/assimp) - 打开资产导入库端口
 * [kotlin-graphics/imgui](https://github.com/kotlin-graphics/imgui) -  imgui的jvm端口
-* [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - 子弹口
+* [kotlin-graphics/bullet](https://github.com/kotlin-graphics/bullet) - bullet port
 * [GlimpseFramework/glimpse-framework](https://github.com/GlimpseFramework/glimpse-framework) -  OpenGL变得简单.
 * [java-opengl-labs/modern-jogl-examples](https://github.com/java-opengl-labs/modern-jogl-examples) -  JLMcKesson（jogl）的“学习现代3D图形编程”端口
 * [java-opengl-labs/learn-OpenGL](https://github.com/java-opengl-labs/learn-OpenGL) -  https://learnopengl.com/ tutorial（lwjgl）的端口
@@ -587,7 +591,7 @@
 
 ### <a name="kotlin-javascript-build-tools"></a>Build Tools <sup>[Back ⇈](#kotlin-javascript-build-tools-subcategory)</sup>
 * [Kotlin/kotlin-frontend-plugin](https://github.com/Kotlin/kotlin-frontend-plugin) - 用于前端开发的Gradle Kotlin插件.
-* [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) - Kotlin webpack loader.
+* [huston007/kotlin-loader](https://github.com/huston007/kotlin-loader) -  Kotlin webpack loader.
 
 ### <a name="kotlin-javascript-integration"></a>Integration <sup>[Back ⇈](#kotlin-javascript-integration-subcategory)</sup>
 * [kotlin/ts2kt](https://github.com/kotlin/ts2kt) - 将TypeScript定义文件转换为Kotlin声明（存根）.
@@ -939,7 +943,7 @@
 
 ### <a name="articles-blog-posts-may-2016"></a>May 2016 <sup>[Back ⇈](#articles-blog-posts-may-2016-subcategory)</sup>
 * [JMock and Kotlin](http://kotlin.link/articles/-.html) - 邓肯麦格雷戈
-* [Testing in Kotlin](http://kotlin.link/articles/-.html) - 斯蒂芬塞缪尔
+* [Testing in Kotlin](http://kotlin.link/articles/-.html) - Stephen Samuel
 * [Kosent](http://kotlin.link/articles/-.html) - 邓肯麦格雷戈
 * [Kotlin 1.0.2 is Here](http://kotlin.link/articles/-.html) - 德米特里·杰梅罗夫
 * [Gradle Elevates the Build to First-Class Programming With Kotlin Language](http://kotlin.link/articles/-.html) -  BusinessWire
@@ -960,7 +964,7 @@
 * [Keddit — Part 7: Infinite Scroll: Higher-Order functions & Lambdas](http://kotlin.link/articles/-.html) -  Juan Ignacio Saravia
 * [The Kobalt diaries: Automatic Android SDK management](http://kotlin.link/articles/-.html) - CédricBeust
 * [Making Android Development Easier](http://kotlin.link/articles/-.html) -  Maan Najjar
-* [Kotlin for Scala Developers](http://kotlin.link/articles/-.html) - 斯蒂芬塞缪尔
+* [Kotlin for Scala Developers](http://kotlin.link/articles/-.html) - Stephen Samuel
 * [Kotlin Post-1.0 Roadmap](http://kotlin.link/articles/-.html) - 德米特里·杰梅罗夫
 * [Few thoughts about Kotlin and why I like it so much](http://kotlin.link/articles/-.html) -  Dhananjay Nene
 * [Performance comparison - building Android UI with code (Anko) vs XML Layout.](http://kotlin.link/articles/-.html) - 安德鲁Drobyazko

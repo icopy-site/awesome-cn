@@ -275,6 +275,7 @@
 * [PagerDuty Incident Response Handbook](https://response.pagerduty.com/)
 * [Avoiding Burnout for SREs](https://blog.zenduty.com/blog/2019/05/02/Avoiding-SRE-Burnout)
 * [Better On-Call the SRE way](https://vimeo.com/344516642)
+* [Managing Incidents at Monzo](https://www.youtube.com/watch?v=ZqwVlsIonIw)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
@@ -397,26 +398,11 @@
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) - 在慕尼黑啤酒节市区的SRE聚会.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
-* [Brendan Gregg](https://twitter.com/brendangregg)
-* [Caitie McCaffrey](https://twitter.com/caitie)
-* [Charity Majors](https://twitter.com/mipsytipsy)
-* [Cindy Sridharan](https://twitter.com/copyconstruct)
-* [Dave Hahn](https://twitter.com/relix42)
-* [Highscal](https://twitter.com/highscal)
-* [Jennifer Petoff](https://twitter.com/jennski)
-* [Jesse Dearing](https://twitter.com/JesseDearing)
-* [Jonah Horowitz](https://twitter.com/jonahhorowitz)
-* [Julia Evans](https://twitter.com/b0rk)
-* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
-* [Niall Murphy](https://twitter.com/niallm)
-* [Nick Craver](https://twitter.com/Nick_Craver)
+* [Google SRE Twitter Account](https://twitter.com/googlesre) -  Google的SRE Twitter帐户.
 * [SREBook](https://twitter.com/SREBook) - 网站可靠性工程手册的官方推特账号.
-* [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作手册的官方Twitter帐户.
 * [SREcon](https://twitter.com/SREcon) -  SRECon的官方推特账号.
-* [Tammy Bütow](https://twitter.com/tammybutow)
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom)
-* [Todd Underwood](https://twitter.com/tmu)
+* [SREWorkbook](https://twitter.com/SREWorkbook) - 网站可靠性工作手册的官方Twitter帐户.
+* [The SRE Dev](https://twitter.com/The_SRE_Dev) - 来自SRE的相关帖子 [dev.to](https://dev.to). 
 * [Twitter SRE](https://twitter.com/TwitterSRE) -  Twitter的SRE团队的官方推特账号.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) -  SRE每周时事通讯的官方推特账号.
 * [USENIX Association](https://twitter.com/usenix) - 官方USENIX推特账户.

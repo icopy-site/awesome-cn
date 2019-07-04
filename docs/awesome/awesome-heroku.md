@@ -39,6 +39,7 @@ Heroku的分析......
 - “文章” [Automating our Heroku deployments from Jenkins](https://www.paulfurley.com/automating-heroku-deployments-from-jenkins/) - 解释如何自动执行部署的某些部分，例如启用维护模式，将数据库从生产复制到暂存，运行迁移以进行分段等.
 - “问题” [How do you ignore files when deploying to Heroku?](http://stackoverflow.com/questions/12523435/how-do-i-ignore-folders-and-files-when-pushing-to-heroku-with-a-rails-app) - 关于`.gitignore`这个功能的常见问题的答案.
 - “文章” [Six Tips for Mastering your Procfile](https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779) - 改进运行Heroku流程的方法.
+- “文章” [Deploying Django to Heroku With Docker](https://testdriven.io/blog/deploying-django-to-heroku-with-docker/) - 看看如何通过Heroku Container Runtime将Dockang的Django应用程序部署到Heroku
 
 
 

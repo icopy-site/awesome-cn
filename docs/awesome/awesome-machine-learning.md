@@ -1011,6 +1011,7 @@ be
 * [Pydata book](https://github.com/wesm/pydata-book) - 由O&#39;Reilly Media出版的Wes McKinney撰写的“Python for Data Analysis”的材料和IPython笔记本
 * [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) - 流行的机器学习算法的Python示例，解释了交互式Jupyter演示和数学
 * [Prodmodel](https://github.com/prodmodel/prodmodel) - 构建数据科学管道的工具.
+* [the-elements-of-statistical-learning](https://github.com/maitbayev/the-elements-of-statistical-learning) - 此存储库包含Jupyter笔记本，它们实现了本书中的算法和教科书的摘要.
 
 <a name="python-neural-networks"></a>
 #### Neural Networks

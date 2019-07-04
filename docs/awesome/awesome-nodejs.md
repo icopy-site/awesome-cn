@@ -156,6 +156,7 @@
 - [ctrace](https://github.com/automation-stack/ctrace) - 格式良好且改进的跟踪系统调用和信号.
 - [leakage](https://github.com/andywer/leakage) - 写内存泄漏测试.
 - [llnode](https://github.com/nodejs/llnode) - 事后分析工具，允许您检查对象并从崩溃的Node.js进程中获取见解.
+- [thetool](https://github.com/sfninja/thetool) - 以Chrome DevTools友好格式为您的应用捕获不同的CPU，内存和其他配置文件.
 
 
 ### Logging
@@ -244,7 +245,7 @@
 
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
-- [handlebars.js](https://github.com/wycats/handlebars.js) - Superset of Mustache templates which adds powerful features like helpers and more advanced blocks.
+- [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
 - [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
@@ -313,7 +314,7 @@
 	- [Bluebird](https://github.com/petkaantonov/bluebird) - 承诺图书馆，专注于创新功能和性能.
 	- [pify](https://github.com/sindresorhus/pify) -  Promisify回调式函数.
 	- [delay](https://github.com/sindresorhus/delay) - 延迟承诺指定的时间.
-	- [promise-memoize](https://github.com/nodeca/promise-memoize) - Memoize promise-returning functions, with expire and prefetch.
+	- [promise-memoize](https://github.com/nodeca/promise-memoize) - 使用expire和prefetch记忆承诺返回函数.
 	- [valvelet](https://github.com/lpinca/valvelet) - 限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) - 同时映射承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
@@ -453,7 +454,7 @@
 - [parse-json](https://github.com/sindresorhus/parse-json) - 解析JSON有更多有用的错误.
 - [URI.js](https://github.com/medialize/URI.js) -  URL变异.
 - [PostCSS](https://github.com/postcss/postcss) -  CSS解析器/字符串化器.
-- [JSONStream](https://github.com/dominictarr/JSONStream) - 流式JSON.parse和stringify.
+- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
@@ -516,13 +517,13 @@
 	- [Massive](https://github.com/robconery/massive-js) -  PostgreSQL数据访问工具.
 	- [Mongoose](https://github.com/Automattic/mongoose) - 优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) - 与数据存储无关的工具，可显着简化与一个或多个数据库的交互.
-	- [OpenRecord](https://github.com/PhilWaldmann/openrecord) - ORM for PostgreSQL, MySQL, SQLite3 and RESTful datastores. Similar to ActiveRecord.
+	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)   - 用于PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  与ActiveRecord类似.
 	- [pg-promise](https://github.com/vitaly-t/pg-promise) - 使用promises的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) - 具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) - 在SQL查询构建器Knex上构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) - 用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
 - 查询构建器
-	- [Knex](https://github.com/tgriesser/knex) -  PostgreSQL，MySQL和SQLite3的查询构建器，设计灵活，可移植，使用起来很有趣.
+	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
 - 其他
 	- [NeDB](https://github.com/louischatriot/nedb) - 用JavaScript编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) - 由Lodash提供支持的小型JavaScript数据库.

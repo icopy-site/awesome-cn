@@ -45,7 +45,7 @@
 
 ## Free Music Scores
 
-* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - 与lilypond排列的音乐集合（主要是室内音乐和大提琴音乐）.
+* [cellist/Lilypond-Sheet-Music](https://github.com/cellist/Lilypond-Sheet-Music) - 一系列带有lilypond的音乐（主要是室内音乐和大提琴音乐）.
 * [ciconia/music](https://github.com/ciconia/music) - 大部分巴洛克音乐的集合，JS Bach的大量神圣作品，以lilypond / ripple编码.
 * [CPDL](http://www.cpdl.org/) - 合唱公共领域图书馆包含超过20K的免费声乐乐谱.
 * [Éditions Nicolas Sceaux](https://github.com/nsceaux/nenuvar) - 巴洛克音乐乐谱（主要是法国音乐），使用lilypond排版.
@@ -75,7 +75,7 @@
 * [Lilypond Snippet Repository](http://lsr.di.unimi.it/) -  Lilypond片段在线数据库的想法，功能和黑客.
 * [Lilyvm](https://github.com/olsonpm/lilyvm) -  Lilypond版本管理器.
 * [Lydown](https://github.com/ciconia/lydown) - 基于Lilypond的音乐符号的现代语言.
-* [Lyp](https://github.com/noteflakes/lyp) -  Lilypond瑞士军刀 - 轻松安装包，管理多个版本的Lilypond，以及其他高级用户工具.
+* [Lyp](https://github.com/noteflakes/lyp) -  Lilypond瑞士军刀 - 轻松安装包，管理Lilypond的多个版本，以及其他高级用户工具.
 * [MuseScore](https://github.com/musescore/MuseScore) - 免费的开源音乐符号和合成软件.
 * [MusicKit](https://github.com/venturemedia/musickit) -  iOS和OSX的音乐表格渲染.
 * [NOTATIO](http://notat.io/) - 一个致力于音乐符号练习的论坛.
@@ -104,6 +104,7 @@
 * [Music Suite](http://music-suite.github.io/docs/ref/) - 基于Haskell的广义音乐符号和理论的语言.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - 合理的合成和组合语言.
 * [OpenMusic](http://repmus.ircam.fr/openmusic/home) - 一种基于Lisp的可视化编程语言.
+* [Orca](https://github.com/hundredrabbits/Orca) - 音乐的现场编程环境.
 * [Overtone](https://github.com/overtone/overtone/) - 用于设计合成器和与音乐协作的开源工具包.
 * [Platonic Music Engine](http://www.platonicmusicengine.com/) - 用Lua编写的开源音乐生成框架.
 * [Pure Data](http://puredata.info/) - 用于音频和其他多媒体的可视化编程语言.
@@ -136,7 +137,7 @@
 * [Awesome sheet music](https://github.com/adius/awesome-sheet-music) - 精选的乐谱软件，图书馆和资源的精选列表.
 * [Awesome WebAudio](https://github.com/notthetup/awesome-webaudio) - 精选的WebAudio包和资源的精选列表.
 
-其他令人惊讶的精彩列表可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）列表.
+其他惊人的令人敬畏的名单可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）列表.
 
 ## License
 

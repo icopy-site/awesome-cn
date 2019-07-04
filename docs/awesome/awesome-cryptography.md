@@ -112,6 +112,7 @@
 - [libsodium](https://github.com/jedisct1/libsodium) - 现代且易于使用的加密库.
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - 相当全面的模块化和便携式加密工具包.
 - [libVES.c](https://github.com/vesvault/libVES.c) - 通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络进行安全恢复.
+- [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)   - 小型，独立且快速的开源加密库.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3和基于配对的密码学.
 - [monocypher](http://loup-vaillant.fr/projects/monocypher/) - 小巧，便携，易于使用的加密库，受libsodium和TweetNaCl的启发.
 - [NaCl](https://nacl.cr.yp.to/) - 用于网络通信，加密，解密，签名等的高速库.
 - [OpenSSL](https://github.com/openssl/openssl) -  TLS / SSL和加密库.
@@ -286,7 +287,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [paramiko](http://www.paramiko.org/) -  SSHv2协议的Python实现，提供客户端和服务器功能.
 - [Privy](https://github.com/ofek/privy) - 一个简单，快速的lib，可以正确地密码保护您的数据.
 - [pycryptodome](https://github.com/Legrandin/pycryptodome) - 低级加密原语的自包含Python包.
-- [PyElliptic](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+- [PyElliptic](https://github.com/yann2192/pyelliptic)   -  Python OpenSSL包装器.  适用于ECC，AES，HMAC，Blowfish的现代加密技术.
 - [pynacl](https://github.com/pyca/pynacl) -  Python绑定到网络和加密（NaCl）库.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 

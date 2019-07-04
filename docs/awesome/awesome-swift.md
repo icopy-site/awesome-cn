@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  983 |  2019年7月2日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  986 |  2019年7月3日
 
 
 
@@ -136,7 +136,7 @@
 ### Accessibility
 [back to top](#readme) 
 
-* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
+* [Capable](https://github.com/chrs1885/Capable) - 跟踪辅助功能，以改善您的特定残障人士的应用程序.
 
 ### AI
 *基于AI的项目（机器学习，神经网络等）的Libs.* [back to top](#readme) 
@@ -223,7 +223,7 @@
 * [AudioKit](https://github.com/audiokit/AudioKit) - 强大的音频合成，处理和分析，没有陡峭的学习曲线.
 * [AudioPlayer](https://github.com/delannoyk/AudioPlayer) - 围绕AVPlayer的包装器，具有一些很酷的功能.
 * [AudioPlayerSwift](https://github.com/tbaranes/AudioPlayerSwift) -  AudioPlayer是一个简单的类，用于在iOS，OS X和tvOS应用程序中播放音频（基本和高级用法）.
-* [Beethoven](https://github.com/vadymmarkov/Beethoven) - An audio processing library for pitch detection of musical signals.
+* [Beethoven](https://github.com/vadymmarkov/Beethoven) - 用于音乐信号的音调检测的音频处理库.
 * [MusicKit](https://github.com/benzguo/MusicKit) - 组成和转换音乐的框架.
 * [Soundable](https://github.com/ThXou/Soundable) -  Soundable允许您以非常简单的方式单独和按顺序播放声音.
 * [SwiftySound](https://github.com/adamcichy/SwiftySound) - 简单的库，让您只需一行代码即可播放声音.
@@ -309,7 +309,7 @@
 * [CommandLine](https://github.com/jatoben/CommandLine) ：penguin： - 用于创建命令行界面的库.
 * [Guaka](https://github.com/nsomar/Guaka) ：penguin： - 智能和美观（POSIX兼容）命令行框架.
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin： -  readline的零依赖替换.
-* [Progress.swift](https://github.com/jkandzi/Progress.swift) ：企鹅： - 在命令行中添加漂亮的进度条.
+* [Progress.swift](https://github.com/jkandzi/Progress.swift) :penguin: - Add beautiful progress bars to your command line.
 * [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin： - 一个可用于开发CLI的强大框架.
 * [Swiftline](https://github.com/nsomar/Swiftline) - 一组帮助您创建命令行应用程序的工具.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) ：penguin： - 用于生成文本表的轻量级库.
@@ -418,7 +418,7 @@
 *其他保存数据的方法* [back to top](#readme) 
 
 * [CoreXLSX](https://github.com/MaxDesiatov/CoreXLSX) -  Excel电子表格（XLSX）格式支持.
-* [CSVParser](https://github.com/Nero5023/CSVParser) :penguin: - Fast parser for CSV.
+* [CSVParser](https://github.com/Nero5023/CSVParser) ：企鹅： -  CSV的快速解析器.
 * [Disk](https://github.com/saoudrizwan/Disk) -  iOS的令人愉快的框架，可以轻松地保存结构，图像和数据.
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) - 通过支持订阅和本地缓存，简化了对CloudKit的访问.
 * [KeyPathKit](https://github.com/vincent-pradeilles/KeyPathKit) -  KeyPathKit提供了一种使用类型化键路径操作数据的无缝语法.
@@ -446,7 +446,12 @@
 
 * [GRDB.swift](https://github.com/groue/GRDB.swift) - 一个多功能的SQLite工具包.
 * [SQLite.swift](https://github.com/stephencelis/SQLite.swift)   - 包装SQLite3的框架.  小.  简单.  安全.
-* [SQLiteDB](https://github.com/FahimF/SQLiteDB) - SQLite wrapper.
+* [SQLiteDB](https://github.com/FahimF/SQLiteDB) -  SQLite包装器.
+
+#### TOML
+*汤姆的明显，最小的语言.* [back to top](#readme) 
+
+* [TOMLDecoder](https://github.com/dduan/TOMLDecoder) - 最新的TOML标准，已解码.
 
 #### XML
 *如果您更喜欢管理XML数据格式的条目，这里有一些有用的库* [back to top](#readme) 
@@ -481,7 +486,7 @@
 * [SwiftDate](https://github.com/malcommac/SwiftDate) - 轻松的NSDate管理.
 * [SwiftMoment](https://github.com/akosma/SwiftMoment) - 时间和日历操作库.
 * [Time](https://github.com/dreymonde/Time) - 由泛型驱动的类型安全时间计算.
-* [Timepiece](https://github.com/naoty/Timepiece) - Intuitive NSDate extensions.
+* [Timepiece](https://github.com/naoty/Timepiece) - 直观的NSDate扩展.
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
 ### Dependency Injection
@@ -499,7 +504,7 @@
 * [Weaver](https://github.com/scribd/Weaver) - 一个声明性的，易于使用且安全的依赖注入框架.
 
 ### Device
-*一组用于识别您设备的库.* [back to top](#readme) 
+*A collection of libs to recognize your device.* [back to top](#readme) 
 
 * [Device](https://github.com/Ekhoo/Device) - 用于检测当前设备和屏幕尺寸的轻型工具.
 * [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级库，用于检测已使用的设备.
@@ -565,6 +570,7 @@
 * [FileProvider](https://github.com/amosavian/FileProvider) - 用于iOS / tvOS和macOS的LocalManager，iCloud和Remote（WebDAV / FTP / Dropbox / OneDrive / SMB2）文件的FileManager替换.
 * [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) - 用于观察本地和远程文件更改的微框架.
 * [PathKit](https://github.com/kylef/PathKit) ：企鹅： - 轻松的路径操作.
+* [Pathos](https://github.com/dduan/Pathos) ：企鹅： - 高效的Unix文件管理.
 
 ### Fonts
 *一组字体相关的片段.* [back to top](#readme) 
@@ -927,7 +933,7 @@
 
 * [BlueCryptor](https://github.com/IBM-Swift/BlueCryptor) -  IBM的跨平台加密库.
 * [BlueRSA](https://github.com/IBM-Swift/BlueRSA) -  IBM的跨平台RSA加密库.
-* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) ：企鹅： - 加密相关的功能和帮助.
+* [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的Common Crypto库的包装器.
 * [JOSESwift](https://github.com/airsidemobile/JOSESwift) -  JOSE标准JWS，JWE和JWK的框架.
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) - 适用于iOS和Mac的CCCryptor（Apple的AES加密）包装器.
@@ -1380,6 +1386,7 @@
 * [AZTableViewController](https://github.com/AfrozZaheer/AZTableViewController) - 将分页与占位符视图集成的优雅而简单的方法.
 * [CollapsibleTableSectionViewController](https://github.com/jeantimex/CollapsibleTableSectionViewController) - 用于支持表视图中可折叠部分的库.
 * [DGElasticPullToRefresh](https://github.com/gontovnik/DGElasticPullToRefresh) - 弹性拉动刷新.
+* [DiffableDataSources](https://github.com/ra1028/DiffableDataSources) - 用于向后移植UITableView / UICollectionViewDiffableDataSource的库.
 * [DTTableViewManager](https://github.com/DenTelezhkin/DTTableViewManager) - 面向协议的UITableView管理，由泛型和相关类型提供支持.
 * [ExpandableCell](https://github.com/younatics/ExpandableCell)   - 完全重构的YNExapnadableCell更简洁，无错误.  最容易使用适用于iOS的可扩展和可折叠单元.  您可以随意自定义可扩展的UITableViewCell.  之所以使用ExpandableCell是因为insertRows和deleteRows很难使用.  只是inheirt ExpandableDelegate.
 * [ExpyTableView](https://github.com/okhanokbay/ExpyTableView) - 只需实现一种方法，即可扩展表格视图.
@@ -1442,7 +1449,7 @@
 * [Prototope](http://khan.github.io/Prototope/) - 用于原型设计的轻量级接口库，桥接到JS.
 * [R.swift](https://github.com/mac-cain13/R.swift) - 获取强大类型，自动完成的资源（如图像，单元格和segue）的工具.
 * [RandomKit](https://github.com/nvzqz/RandomKit/) ：企鹅： - 随机数据生成.
-* [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - 预览新闻，文章和全文的提取器.
+* [ReadabilityKit](https://github.com/exyte/ReadabilityKit) - Preview extractor for news, articles and full-texts.
 * [ResourceKit](https://github.com/bannzai/ResourceKit) - 启用自动完成使用资源.
 * [Result](https://github.com/antitypical/Result) - 键入建模任意操作的成功/失败.
 * [Runes](https://github.com/thoughtbot/Runes) - 功能操作符：flatMap，map，apply.
@@ -1507,7 +1514,7 @@
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - 导出和转码媒体.
 * [Player](https://github.com/piemonte/Player) -  iOS视频播放器，用于播放和流媒体的简单组件.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 使用UIView轻松使用视频播放器，管理再现速率，屏幕截图和回调 - 代表播放器状态.
-* [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 修剪和裁剪视频.
+* [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - Trim and crop videos.
 * [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) -  FFmpeg C API的包装器.
 * [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - 易于使用UIView子类来实现视频背景.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - 简单的iOS视频播放器，支持播放本地和网络，后台播放模式，播放时自动缓存.

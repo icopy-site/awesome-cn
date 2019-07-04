@@ -105,6 +105,9 @@
 - [Starting an Appium Server Programmatically Using AppiumServiceBuilder](https://appiumpro.com/editions/71)
 - [Simulating Slow Internet Connections on Android Emulators with Appium](https://appiumpro.com/editions/72)
 - [Working with Multile Webviews in Android Hybrid Apps](https://appiumpro.com/editions/73)
+- [Automating Custom IoT Devices With Appium, Part 1](https://appiumpro.com/editions/74)
+- [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
+- [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.
