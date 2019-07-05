@@ -71,6 +71,9 @@
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) 作者：Jeremy Howard  -  Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)  由教授  Bhiksha Raj（2017）
 27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 作者：Andrew Ng（2019）
+28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
+29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - 免费的五周末计划，让自学者学习CNN，LSTM，RNN，VAE，GAN，DQN，A3C等深度学习架构的基础知识（2019）
+30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -  OpenAI免费深度强化学习课程（2019年）
 
 ### Videos and Lectures
 
@@ -344,7 +347,7 @@
 43. [FG-NET Facial Aging Database](http://sting.cycollege.ac.cy/~alanitis/fgnetaging/index.htm)   - 数据库包含1002个面部图像，显示不同年龄的科目.  （格式：jpg）
 44. [FVC2000 Fingerprint Databases](http://bias.csr.unibo.it/fvc2000/)   -  FVC2000是第一个国际指纹验证算法竞赛.  四个指纹数据库构成了FVC2000基准测试（总共3520个指纹）.
 45. [Biometric Systems Lab](http://bias.csr.unibo.it/research/biolab) - 博洛尼亚大学
-46. [Face and Gesture images and image sequences](http://www.fg-net.org) - 面部和手势的几个图像数据集，这些数据集是用于基准测试的基础真实注释
+46. [Face and Gesture images and image sequences](http://www.fg-net.org) - Several image datasets of faces and gestures that are ground truth annotated for benchmarking
 47. [German Fingerspelling Database](http://www-i6.informatik.rwth-aachen.de/~dreuw/database.html)   - 该数据库包含35个手势，由1400个图像序列组成，这些图像序列包含在非均匀日光照明条件下记录的20个不同人的手势.  （格式：mpg，jpg）  
 48. [Language Processing and Pattern Recognition](http://www-i6.informatik.rwth-aachen.de/)
 50. [Groningen Natural Image Database](http://hlab.phys.rug.nl/archive.html) -  4000+ 1536x1024（16位）校准室外图像（格式：自制软件）
@@ -419,7 +422,7 @@
 132. [Yale Face Database B](http://cvc.yale.edu/projects/yalefacesB/yalefacesB.html)   - 在576个观察条件下观察到的10个对象的5760个单光源图像（9个构成×64个照明条件）.  （格式：PGM） 
 133. [Center for Computational Vision and Control](http://cvc.yale.edu/)
 134. [DeepMind QA Corpus](https://github.com/deepmind/rc-data)   - 来自CNN和DailyMail的文本QA语料库.  总共超过300K文件. [Paper](http://arxiv.org/abs/1506.03340) 以供参考.
-135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) - YouTube-8M is a large-scale labeled video dataset that consists of 8 million YouTube video IDs and associated labels from a diverse vocabulary of 4800 visual entities.
+135. [YouTube-8M Dataset](https://research.google.com/youtube8m/) -  YouTube-8M是一个大型标记视频数据集，由800万个YouTube视频ID和来自4800个视觉实体的不同词汇表的相关标签组成.
 136. [Open Images dataset](https://github.com/openimages/dataset) - “打开图像”是一个数据集，其中约有900万个网址，这些网址已使用超过6000个类别的标签进行注释.
 137. [Visual Object Classes Challenge 2012 (VOC2012)](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/index.html#devkit) -  VOC2012数据集，包含12k图像，带有20个注释类，用于对象检测和分割.
 138. [Fashion-MNIST](https://github.com/zalandoresearch/fashion-mnist)   -  MNIST，如时尚产品数据集，由60,000个示例的训练集和10,000个示例的测试集组成.  每个示例都是28x28灰度图像，与10个类别的标签相关联. 
@@ -501,7 +504,7 @@
 1.  [Netron](https://github.com/lutzroeder/netron) - 用于深度学习和机器学习模型的Visualizer
 2.  [Jupyter Notebook](http://jupyter.org) - 基于Web的交互式计算笔记本环境
 3.  [TensorBoard](https://github.com/tensorflow/tensorboard) -  TensorFlow的可视化工具包
-4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - Develop, debug and deploy deep learning and AI solutions
+4.  [Visual Studio Tools for AI](https://visualstudio.microsoft.com/downloads/ai-tools-vs) - 开发，调试和部署深度学习和AI解决方案
 
 ### Miscellaneous
 

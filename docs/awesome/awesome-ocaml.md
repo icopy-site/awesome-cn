@@ -95,6 +95,7 @@
 ## Program analysis
 - [BAP](https://github.com/BinaryAnalysisPlatform/bap) -  BAP是一个针对二进制程序的逆向工程和程序分析平台.
 - [BinCat](https://github.com/airbus-seclab/bincat) -  BinCat是一个二进制代码静态分析工具包.
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) -  cwe_checker在二进制可执行文件中查找易受攻击的模式.
 
 ## Compilers and Compiler Tools
 

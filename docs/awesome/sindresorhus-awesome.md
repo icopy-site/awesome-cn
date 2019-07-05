@@ -45,6 +45,7 @@
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) - 移动应用程序开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) - 虚拟机，允许您为Linux系统编写更高效，更强大的跟踪和监视.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -  Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
@@ -210,7 +211,7 @@
 - [WebGL](https://github.com/sjfricke/awesome-webgl#readme) - 用于渲染3D图形的JavaScript API.
 - [Preact](https://github.com/ooade/awesome-preact#readme) - 应用程序框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
-- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
+- [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的React应用程序的框架.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
@@ -605,7 +606,7 @@
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
-- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及使用什么条件.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用和功能的技术堆栈.
 
 

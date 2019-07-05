@@ -173,6 +173,7 @@
 - [BinWalk](https://github.com/devttys0/binwalk) - 分析，反向工程和提取固件映像.
 - [Boomerang](https://github.com/nemerle/boomerang) - 将x86二进制文件反编译为C.
 - [ctf_import](https://github.com/docileninja/ctf_import) - 从剥离的二进制跨平台运行基本功能
+- [cwe_checker](https://github.com/fkie-cad/cwe_checker) -  cwe_checker在二进制可执行文件中查找易受攻击的模式
 - [Frida](https://github.com/frida/) - 动态代码注入
 - [GDB](https://www.gnu.org/software/gdb/) -  GNU项目调试器
 - [GEF](https://github.com/hugsy/gef) -  GDB插件

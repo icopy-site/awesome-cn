@@ -770,6 +770,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [archie](https://github.com/dcavalcante/archie)   -  Arch Linux启发了ZSH主题.  基于 [norm](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/norm.zsh-theme) 主题.
 * [arity](https://github.com/hybras/Arity-Zsh-Theme)   -  Arity是一个简单的主题，旨在提高可读性并概览一目了然.  包括路径和`git`装饰.
 * [aronhoyer](https://github.com/aronhoyer/zsh-theme) - 极简主义主题与右侧`git`状态装饰.
+* [arrow-minimal](https://github.com/maxim-usikov/arrow-minimal.zsh-theme) - 带有`git`装饰的最小ZSH主题.
 * [asciigit](https://github.com/cemsbr/asciigit) - 不希望使用带有额外字形的字体的`git`用户的仅ASCII主题.
 * [asq](https://github.com/AugustoQueiroz/asq-theme) - 基于 [theunraveler](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#theunraveler).
 * [astral](https://github.com/alphabetum/astral) - 禅模式的深色背景主题.
@@ -1220,7 +1221,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 
 ### [Zgen](https://github.com/tarjoilija/zgen)
 
-大多数这些插件都可以通过将`zgen load githubuser / reponame`添加到您正在执行其他`zgen load`调用的同一函数中的.zshrc文件来安装.Zgen将在您执行某个时自动克隆存储库`zgen save`.
+大多数这些插件都可以通过将`zgen load githubuser / reponame`添加到您正在执行其他`zgen load`调用的同一函数中的.zshrc文件来安装.Zgen将在您执行时自动克隆存储库`zgen save`.
 
 ### [zplug](https://github.com/zplug/zplug)
 

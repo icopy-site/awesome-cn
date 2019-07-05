@@ -398,7 +398,7 @@
     * [gomemcache](https://github.com/bradfitz/gomemcache/) - 用于Go编程语言的memcache客户端库.
     * [gorethink](https://github.com/dancannon/gorethink) - 转到RethinkDB的语言驱动程序.
     * [goriak](https://github.com/zegl/goriak) - 去Riak KV的语言驱动程序.
-    * [mgo](https://github.com/globalsign/mgo) - （未维护）Go语言的MongoDB驱动程序，它根据标准Go语言在非常简单的API下实现丰富且经过良好测试的功能选择.
+    * [mgo](https://github.com/globalsign/mgo) - （未维护）Go语言的MongoDB驱动程序，它根据标准Go习惯用非常简单的API实现了丰富且经过良好测试的功能选择.
     * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) -  Go语言的官方MongoDB驱动程序.
     * [neo4j](https://github.com/cihangir/neo4j) - 休息Neo4j的API绑定Golang.
     * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) -  Neo4j的REST客户端在golang.
@@ -1687,6 +1687,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [goid](https://github.com/jakehl/goid) - 生成并解析符合RFC4122的V4 UUID.
 * [sno](https://github.com/muyo/sno) - 具有嵌入式元数据的紧凑，可排序且快速的唯一ID.
 * [ulid](https://github.com/oklog/ulid) - 实施ULID（通用唯一词典可排序标识符）.
+* [uniq](https://gitlab.com/skilstak/code/uniq/go) - 没有麻烦安全，快速的唯一标识符与命令. 
 * [uuid](https://github.com/agext/uuid) - 使用快速或加密质量的随机节点标识符生成，编码和解码UUID v1.
 * [uuid](https://github.com/gofrs/uuid)   - 通用唯一标识符（UUID）的实现.  支持UUID的创建和解析.  积极维护satori uuid的分叉.
 * [wuid](https://github.com/edwingeng/wuid) - 极快的唯一编号生成器，比UUID快10-135倍.

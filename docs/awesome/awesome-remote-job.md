@@ -115,7 +115,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     作者：Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
+     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
   1. [Distributed Teams](https://oduinn.com/book/).
      作者：John O&#39;Duinn，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -234,7 +234,7 @@
   7. [hackerrank.com](https://www.hackerrank.com/) - 代码学习和招聘的在线平台也提供工作机会
 
 ## Events
-  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) -  10天撤退
+  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
   1. [Project Getaway](http://www.projectgetaway.com) -  30天撤退
 
 ## Newsletters
@@ -263,7 +263,7 @@
   1. [Alley](https://alley.co/jobs/)   - 数字代理.  我们是战略家，研究人员，设计师和开发人员，为出版商，非营利机构，博物馆和品牌制作定制数字体验.
   1. [ALICE](https://www.aliceplatform.com/careers/)   - 远程友好的初创公司.  我们正在为酒店业创建全球运营平台.  ALICE为世界上最好的酒店提供卓越的客户体验.
   1. [Ameego](http://ameego.ca/) - 餐厅安排软件.
-  1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
+  1. [Arkency](http://blog.arkency.com/join-our-team/) -  Rails和React.js专家，完全远程/异步.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
   1. [AT&T](https://att.jobs) - 差不多 [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) 远程工作.
   1. [Auth0](https://auth0.com/jobs) - 为开发人员提供零摩擦认证和授权.
@@ -338,7 +338,7 @@
   1. [Healthfinch](http://www.healthfinch.com/careers/)   - 使医疗保健系统更加可用.  总部设在美国威斯康星州麦迪逊市.  Ruby，Javascript.
   1. [Heap](https://heapanalytics.com/careers/jobs) - 网络和移动分析，我们的8个队友中有2个是远程的.
   1. [Help Scout](https://www.helpscout.net/careers/) - 为坚持愉快客户体验的团队提供服务台.
-  1. [Heroku](https://www.heroku.com/careers) - PaaS Cloud, makes devs' experience awesome, Ruby, Erlang, Javascript, Golang, Python.
+  1. [Heroku](https://www.heroku.com/careers) -  PaaS Cloud，让开发者体验真棒，Ruby，Erlang，Javascript，Golang，Python.
   1. [Honeybadger](https://www.honeybadger.io/)   -  Ruby.  100％遥控.
   1. [Hotjar](https://careers.hotjar.com/) - 分析和反馈工具.
   1. [Hubstaff](https://hubstaff.com/jobs) - 具有多个集成的时间跟踪解决方案.
@@ -383,12 +383,12 @@
   1. [NinjaCat](https://www.ninjacat.io/jobs) - 领先数字代理商的报告，监控和呼叫跟踪平台.
   1. [Niteo](https://niteo.co/careers) - 十年前的SaaS工作室，充满了创意，构建智能解决方案，为小型企业提供在线服务.
   1. [NodeSource](https://nodesource.com/about) -  NodeSource致力于为Node.js创建可持续发展的生态系统.
-  1. [ofri](https://www.ofri.ch/job_openings) - 瑞士在线市场，将房主与优质家居装修专业人士联系起来.
+  1. [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
   1. [Olark](https://www.olark.com/jobs) - 聊天支持漏斗.
   1. [onTheGo Systems](https://www.onthegosystems.com/jobs/) -  WordPress开发人员，支持者和营销工作.
   1. [Onyo](http://www.onyo.com) - 在纯粹的快乐中改变外出就餐的体验.
   1. [OpenCraft](http://opencraft.com/) - 开放edX开发（自由软件MOOC项目）.
-  1. [Owsy](http://owsy.com/careers/) - International studio focused on creating products for financial service firms.
+  1. [Owsy](http://owsy.com/careers/) - 国际工作室专注于为金融服务公司创造产品.
   1. [Parknav](https://parknav.com) - 使用AI智能停车
   1. [Parsely](http://www.parsely.com/jobs/) - 分析解决方案
   1. [Particular Software (NServiceBus)](https://particular.net/careers) - Enterprise Service Bus, Messaging, C#, Open Source
@@ -494,6 +494,7 @@
   1. [Flowdock](https://www.flowdock.com/)   - 团队的基于浏览器的群聊.  与GitHub，Jira，Jenkins等集成.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) - 聊天系统，共享桌面和视频通话.
   1. [IRCCloud](https://www.irccloud.com) - 具有永久存储功能的基于浏览器的IRC客户端.
+  1. [Jitsi](https://jitsi.org) - 多平台开源视频会议
   1. [Matrix](https://github.com/ResultadosDigitais/matrix) -  Matrix是分布式团队的在线开源工作场所.
   1. [Mumble](https://wiki.mumble.info/) Mumble是一个开源语音聊天软件
   1. [Precursor](https://precursorapp.com) - 具有实时协作的简单原型设计和头脑风暴Web应用程序.

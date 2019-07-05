@@ -247,7 +247,7 @@ const flip = fn =&gt;（首先，......休息）=&gt; fn（...休息，第一次
 <summary>Examples</summary>
 
 ```js
-让a = {name：&#39;John Smith&#39;};
+let a = { name: 'John Smith' };
 让b = {};
 const mergeFrom = flip（Object.assign）;
 let mergePerson = mergeFrom.bind（null，a）;
@@ -486,7 +486,7 @@ const all =（arr，fn = Boolean）=&gt; arr.every（fn）;
 使用严格比较运算符比较数组中的元素，该运算符不考虑“NaN”自我不等式.
 
 ```js
-const allEqual = arr =&gt; arr.every（val =&gt; val === arr [0]）;
+const allEqual = arr => arr.every(val => val === arr[0]);
 ```
 
 <details>
@@ -618,7 +618,7 @@ const chunk =（arr，size）=&gt;
 
 ### compact
 
-从数组中删除falsey值.
+从数组中删除虚假值.
 
 使用`Array.prototype.filter（）`来过滤掉虚假值（`false`，`null`，`0`，````，`undefined`和`NaN`）.
 
@@ -655,7 +655,7 @@ const countBy = (arr, fn) =>
 <summary>Examples</summary>
 
 ```js
- countBy（[6.1,4.2,6.3]，Math.floor）;  // {4：1,6：2}
+countBy([6.1, 4.2, 6.3], Math.floor); // {4: 1, 6: 2}
  countBy（[&#39;one&#39;，&#39;two&#39;，&#39;three&#39;]，&#39;length&#39;）;  // {3：2,5：1}
 ```
 
@@ -825,7 +825,7 @@ const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
 ```js
 const dropRightWhile =（arr，func）=&gt; {
   let rightIndex = arr.length;
-  while (rightIndex-- && !func(arr[rightIndex]));
+  while（rightIndex-- &amp;&amp;！func（arr [rightIndex]））;
   return arr.slice（0，rightIndex + 1）;
 };
 ```
@@ -942,7 +942,7 @@ const filterNonUniqueBy =（arr，fn）=&gt;
 ```js
 filterNonUniqueBy(
   [
-    { id: 0, value: 'a' },
+    {id：0，值：&#39;a&#39;}，
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -959,10 +959,10 @@ filterNonUniqueBy(
 
 返回提供的函数返回truthy值的最后一个元素.
 
-使用`Array.prototype.filter（）`删除`fn`返回falsey值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
+使用`Array.prototype.filter（）`删除`fn`返回falsy值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
 
 ```js
-const findLast =（arr，fn）=&gt; arr.filter（fn）.pop（）;
+const findLast = (arr, fn) => arr.filter(fn).pop();
 ```
 
 <details>
@@ -980,7 +980,7 @@ const findLast =（arr，fn）=&gt; arr.filter（fn）.pop（）;
 返回提供的函数返回truthy值的最后一个元素的索引.
 
 使用`Array.prototype.map（）`将每个元素映射到具有索引和值的数组.
-使用`Array.prototype.filter（）`删除`fn`返回falsey值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
+使用`Array.prototype.filter（）`删除`fn`返回falsy值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
 
 ```js
 const findLastIndex =（arr，fn）=&gt;
@@ -1034,7 +1034,7 @@ const flatten =（arr，depth = 1）=&gt;
 ```js
 const forEachRight =（arr，callback）=&gt;
   ARR
-    .slice（0）
+    .slice(0)
     .相反（）
     .forEach（回调）;
 ```
@@ -1068,7 +1068,7 @@ const groupBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
- groupBy（[6.1,4.2,6.3]，Math.floor）;  // {4：[4.2]，6：[6.1,6.3]}
+groupBy([6.1, 4.2, 6.3], Math.floor); // {4: [4.2], 6: [6.1, 6.3]}
  groupBy（[&#39;one&#39;，&#39;two&#39;，&#39;three&#39;]，&#39;length&#39;）;  // {3：[&#39;one&#39;，&#39;two&#39;]，5：[&#39;three&#39;]}
 ```
 
@@ -1234,7 +1234,7 @@ const initializeArrayWithValues =（n，val = 0）=&gt; Array（n）.fill（val�
 
 ### initializeNDArray
 
-Create a n-dimensional array with given value.
+创建具有给定值的n维数组.
 
 使用递归.
 使用`Array.prototype.map（）`生成行，其中每个行都是使用`initializeNDArray`初始化的新数组.
@@ -1599,7 +1599,7 @@ const offset =（arr，offset）=&gt; [... arr.slice（offset），... arr.slice
 
 ```js
  偏移量（[1,2,3,4,5]，2）;  // [3,4,5,1,2]
- 偏移量（[1,2,3,4,5]， -  2）;  // [4,5,1,2,3]
+offset([1, 2, 3, 4, 5], -2); // [4, 5, 1, 2, 3]
 ```
 
 </details>
@@ -1985,7 +1985,7 @@ const shank =（arr，index = 0，delCount = 0，... elements）=&gt;
   ARR
     .slice（0，index）
     .concat（元素）
-    .concat(arr.slice(index + delCount));
+    .concat（arr.slice（index + delCount））;
 ```
 
 <details>
@@ -2192,7 +2192,7 @@ const arr = [0,1,2,3,4,5,6,7,8,9,10];
 ```js
 const symmetricDifference =（a，b）=&gt; {
   const sA = new Set（a），
-    sB = new Set(b);
+    sB = new Set（b）;
   return [... a.filter（x =&gt;！sB.has（x）），... b.filter（x =&gt;！sA.has（x））];
 };
 ```
@@ -2376,7 +2376,7 @@ const takeWhile =（arr，func）=&gt; {
 ```js
 const toHash =（object，key）=&gt;
   Array.prototype.reduce.call(
-    宾语，
+    object,
     （acc，data，index）=&gt;（（acc [！key？index：data [key]] = data），acc），
     {}
   );
@@ -2456,7 +2456,7 @@ const unionBy =（a，b，fn）=&gt; {
 创建一个`Set`，其中包含`a`的所有值和`b`中的值，比较器在`a`中找不到匹配，使用`Array.prototype.findIndex（）`.
 
 ```js
-const unionWith =（a，b，comp）=&gt;
+const unionWith = (a, b, comp) =>
   Array.from（new Set（[... a，... b.filter（x =&gt; a.findIndex（y =&gt; comp（x，y））=== -1）]））;
 ```
 
@@ -2495,10 +2495,10 @@ const uniqueElements = arr =&gt; [... new Set（arr）];
 根据提供的比较器函数返回数组的所有唯一值.
 
 根据比较器函数`fn`，使用`Array.prototype.reduce（）`和`Array.prototype.some（）`作为一个只包含每个值的第一个唯一出现的数组.
-The comparator function takes two arguments: the values of the two elements being compared.
+比较器函数有两个参数：被比较的两个元素的值.
 
 ```js
-const uniqueElementsBy = (arr, fn) =>
+const uniqueElementsBy =（arr，fn）=&gt;
   arr.reduce（（acc，v）=&gt; {
     if（！acc.some（x =&gt; fn（v，x）））acc.push（v）;
     返回acc;
@@ -2511,7 +2511,7 @@ const uniqueElementsBy = (arr, fn) =>
 ```js
 uniqueElementsBy(
   [
-    { id: 0, value: 'a' },
+    {id：0，值：&#39;a&#39;}，
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -2529,7 +2529,7 @@ uniqueElementsBy(
 从右侧开始，根据提供的比较器函数返回数组的所有唯一值.
 
 根据比较器函数`fn`，使用`Array.prototype.reduceRight（）`和`Array.prototype.some（）`作为一个只包含每个值的最后一个唯一出现的数组.
-The comparator function takes two arguments: the values of the two elements being compared.
+比较器函数有两个参数：被比较的两个元素的值.
 
 ```js
 const uniqueElementsByRight =（arr，fn）=&gt;
@@ -2545,7 +2545,7 @@ const uniqueElementsByRight =（arr，fn）=&gt;
 ```js
 uniqueElementsByRight(
   [
-    { id: 0, value: 'a' },
+    {id：0，值：&#39;a&#39;}，
     {id：1，价值：&#39;b&#39;}，
     {id：2，value：&#39;c&#39;}，
     {id：1，价值：&#39;d&#39;}，
@@ -2575,7 +2575,7 @@ const uniqueSymmetricDifference =（a，b）=&gt; [
 
 ```js
  uniqueSymmetricDifference（[1,2,3]，[1,2,4]）;  // [3,4]
- uniqueSymmetricDifference（[1,2,2]，[1,3,1]）;  // [2,3]
+uniqueSymmetricDifference([1, 2, 2], [1, 3, 1]); // [2, 3]
 ```
 
 </details>
@@ -2724,7 +2724,7 @@ const zipObject =（props，values）=&gt;
 
 ```js
  zipObject（[&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]，[1,2]）;  // {a：1，b：2，c：undefined}
-zipObject(['a', 'b'], [1, 2, 3]); // {a: 1, b: 2}
+ zipObject（[&#39;a&#39;，&#39;b&#39;]，[1,2,3]）;  // {a：1，b：2}
 ```
 
 </details>
@@ -2870,11 +2870,11 @@ const copyToClipboard = str =&gt; {
 ```js
 const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
   让current = start，
-    _step = (end - start) * step < 0 ? -step : step,
+     _step =（结束 - 开始）*步&lt;0？  -step：step，
     timer = setInterval（（）=&gt; {
       当前+ = _step;
       document.querySelector（selector）.innerHTML = current;
-      if (current >= end) document.querySelector(selector).innerHTML = end;
+      if（current&gt; = end）document.querySelector（selector）.innerHTML = end;
       if（current&gt; = end）clearInterval（timer）;
     }，Math.abs（Math.floor（duration /（end  -  start））））;
   返回时间;
@@ -2924,7 +2924,7 @@ const el = createElement（
 
 
 
-Creates a pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
+创建一个pub / sub（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
 
 使用`Object.create（null）`创建一个空的`hub`对象，该对象不从`Object.prototype`继承属性.
 对于`emit`，基于`event`参数解析处理程序数组，然后通过传入数据作为参数，使用`Array.prototype.forEach（）`运行每个处理程序.
@@ -2989,7 +2989,7 @@ const currentURL =（）=&gt; window.location.href;
 <summary>Examples</summary>
 
 ```js
-currentURL(); // 'https://google.com'
+ CURRENTURL（）;  //&#39;https://google.com&#39;
 ```
 
 </details>
@@ -3107,7 +3107,7 @@ formToObject(document.querySelector('#form')); // { email: 'test@email.com', nam
 ```js
 const getImages =（el，includeDuplicates = false）=&gt; {
   const images = [... el.getElementsByTagName（&#39;img&#39;）].map（img =&gt; img.getAttribute（&#39;src&#39;））;
-  return includeDuplicates ? images : [...new Set(images)];
+   return includeDuplicates？  图像：[...新集（图像）];
 };
 ```
 
@@ -3198,7 +3198,7 @@ const hashBrowser = val =&gt;
       view = new DataView（h）;
     for（let i = 0; i &lt;view.byteLength; i + = 4）
       hexes.push（（&#39;00000000&#39;+ view.getUint32（i）.toString（16））.slice（-8））;
-    return hexes.join('');
+    return hexes.join（&#39;&#39;）;
   });
 ```
 
@@ -3494,7 +3494,7 @@ const prefix = prop =&gt; {
 在每个动画帧上调用提供的回调.
 
 使用递归. 
-Provided that `running` is `true`, continue invoking `window.requestAnimationFrame()` which invokes the provided callback. 
+如果`running`是&#39;true`，则继续调用`window.requestAnimationFrame（）`，它调用提供的回调. 
 使用两个方法`start`和`stop`返回一个对象，以允许手动控制录制. 
 省略第二个参数`autoStart`，在调用函数时隐式调用`start`.
 
@@ -3516,8 +3516,8 @@ const recordAnimationFrames =（callback，autoStart = true）=&gt; {
       if（running）run（）;
     });
   };
-  if (autoStart) start();
-  return { start, stop };
+  if（autoStart）start（）;
+  return {start，stop};
 };
 ```
 
@@ -3571,7 +3571,7 @@ const runAsync = fn =&gt; {
        类型：&#39;application / javascript;  字符集= UTF-8&#39;
     })
   );
-  return new Promise((res, rej) => {
+  返回新的Promise（（res，rej）=&gt; {
     worker.onmessage =（{data}）=&gt; {
       res（data），worker.terminate（）;
     };
@@ -3595,7 +3595,7 @@ const longRunningFunction =（）=&gt; {
 };
 /*
   注意：由于该函数在不同的上下文中运行，因此不支持闭包.
-  The function supplied to `runAsync` gets stringified, so everything becomes literal.
+  提供给`runAsync`的函数被字符串化，所以一切都变成了文字.
   必须在里面定义所有变量和函数.
 */
  runAsync（longRunningFunction）.然后（的console.log）;  // 209685000000
@@ -3701,7 +3701,7 @@ const show =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#3
 
 平滑地将调用它的元素滚动到浏览器窗口的可见区域.
 
-使用`.scrollIntoView`方法滚动元素. 
+Use `.scrollIntoView` method to scroll the element. 
 将`{behavior：&#39;smooth&#39;}`传递给`.scrollIntoView`，使其顺畅滚动.
 
 ```js
@@ -3908,7 +3908,7 @@ const getMeridiemSuffixOfInteger = num =&gt;
        ？  12 +&#39;pm&#39;
       ：num &lt;12
          ？  （num％12）+&#39;am&#39;
-        : (num % 12) + 'pm';
+        ：（无论12％）PM“;
 ```
 
 <details>
@@ -4040,7 +4040,7 @@ const array = [
 
 结果以明天的日期的字符串表示.
 
-使用`new Date（）`获取当前日期，使用`Date.getDate（）`递增1，并使用`Date.setDate（）`将值设置为结果. 
+Use `new Date()` to get the current date, increment by one using `Date.getDate()` and set the value to the result using `Date.setDate()`. 
 使用`Date.prototype.toISOString（）`以`yyyy-mm-dd`格式返回一个字符串.
 
 ```js
@@ -4139,7 +4139,7 @@ const bindKey =（context，fn，... boundArgs）=&gt;（... args）=&gt;
 ```js
 const freddy = {
   用户：&#39;fred&#39;，
-  问候：功能（问候，标点符号）{
+  greet: function(greeting, punctuation) {
     return greeting +&#39;&#39;+ this.user + punctuation;
   }
 };
@@ -4204,6 +4204,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
 
 
 
@@ -4475,7 +4476,7 @@ const sumForLoop =（）=&gt; {
 
 //`sumForLoop`快了近10倍
  Math.round（HZ（sumReduce））;  // 572
- Math.round（HZ（sumForLoop））;  // 4784
+Math.round(hz(sumForLoop)); // 4784
 ```
 
 </details>
@@ -4593,7 +4594,7 @@ const greetHello = partial（greet，&#39;Hello&#39;）;
 使用扩展运算符（```）将`partials`附加到`fn`的参数列表中.
 
 ```js
-const partialRight = (fn, ...partials) => (...args) => fn(...args, ...partials);
+const partialRight =（fn，... partials）=&gt;（... args）=&gt; fn（... args，... partials）;
 ```
 
 <details>
@@ -4767,7 +4768,7 @@ const uncurriedAdd = uncurry（add，3）;
 const unfold =（fn，seed）=&gt; {
   let result = []，
     val = [null，seed];
-  while（（val = fn（val [1]）））result.push（val [0]）;
+  while ((val = fn(val[1]))) result.push(val[0]);
   返回结果;
 };
 ```
@@ -4891,7 +4892,7 @@ const binomialCoefficient =（n，k）=&gt; {
   if（k &lt;0 || k&gt; n）返回0;
   if（k === 0 || k === n）返回1;
   if（k === 1 || k === n  -  1）返回n;
-  if (n - k < k) k = n - k;
+  if（n  -  k &lt;k）k = n  -  k;
   让res = n;
   for（let j = 2; j &lt;= k; j ++）res * =（n  -  j + 1）/ j;
   返回Math.round（res）;
@@ -5004,7 +5005,7 @@ const distance =（x0，y0，x1，y1）=&gt; Math.hypot（x1  -  x0，y1  -  y0�
 ```js
 const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
   const [a，b] =评级;
-  const expectedScore =（self，opponent）=&gt; 1 /（1 + 10 **（（对手 - 自我）/ 400））;
+  const expectedScore = (self, opponent) => 1 / (1 + 10 ** ((opponent - self) / 400));
   const newRating =（rating，i）=&gt;
     （selfRating || rating）+ kFactor *（i  -  expectedScore（i？a：b，i？b：a））;
   if（ratings.length === 2）返回[newRating（a，1），newRating（b，0）];
@@ -5335,7 +5336,7 @@ const luhnCheck = num =&gt; {
 <summary>Examples</summary>
 
 ```js
- luhnCheck（ &#39;4485275742308327&#39;）;  //真
+luhnCheck('4485275742308327'); // true
  luhnCheck（6011329933655299）;  //假
  luhnCheck（123456789）;  //假
 ```
@@ -5543,7 +5544,7 @@ const radsToDegrees = rad =&gt;（rad * 180.0）/ Math.PI;
 
 ### randomIntArrayInRange
 
-返回指定范围内的n个随机整数的数组.
+Returns an array of n random integers in the specified range.
 
 使用`Array.from（）`创建一个特定长度的空数组，`Math.random（）`来生成一个随机数并将其映射到所需的范围，使用`Math.floor（）`使它成为一个整数.
 
@@ -5707,7 +5708,7 @@ const sum =（... arr）=&gt; [... arr] .reduce（（acc，val）=&gt; acc + val
 使用`Array.prototype.map（）`将每个元素映射到`fn`，`Array.prototype.reduce（）`返回的值，将每个值添加到累加器，用值“0”初始化.
 
 ```js
-const sumBy =（arr，fn）=&gt;
+const sumBy = (arr, fn) =>
   arr.map（typeof fn ===&#39;function&#39;？fn：val =&gt; val [fn]）.reduce（（acc，val）=&gt; acc + val，0）;
 ```
 
@@ -5752,14 +5753,14 @@ const sumPower =（end，power = 2，start = 1）=&gt;
 
 ### toSafeInteger
 
-Converts a value to a safe integer.
+将值转换为安全整数.
 
 使用`Math.max（）`和`Math.min（）`来找到最接近的安全值.
 使用`Math.round（）`转换为整数.
 
 ```js
 const toSafeInteger = num =&gt;
-  Math.round（Math.max（Math.min（num，Number.MAX_SAFE_INTEGER），Number.MIN_SAFE_INTEGER））;
+  Math.round(Math.max(Math.min(num, Number.MAX_SAFE_INTEGER), Number.MIN_SAFE_INTEGER));
 ```
 
 <details>
@@ -6272,7 +6273,7 @@ const a = {foo：&#39;bar&#39;，obj：{a：1，b：2}};
 const deepFreeze = obj =&gt;
   Object.keys（OBJ）.forEach（
     prop =&gt;
-       ！（obj [prop] instanceof Object）||  Object.isFrozen（obj [prop]）？  null：deepFreeze（obj [prop]）
+      !(obj[prop] instanceof Object) || Object.isFrozen(obj[prop]) ? null : deepFreeze(obj[prop])
    ）||  Object.freeze（OBJ）;
 ```
 
@@ -6336,7 +6337,7 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-      ? Object.keys(obj).reduce((acc, current) => {
+       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
              val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
@@ -6723,7 +6724,7 @@ const myObj = {Name：&#39;Adam&#39;，sUrnAME：&#39;Smith&#39;};
 ```js
 const mapKeys =（obj，fn）=&gt;
   Object.keys（obj）.reduce（（acc，k）=&gt; {
-    acc [fn（obj [k]，k，obj）] = obj [k];
+    acc[fn(obj[k], k, obj)] = obj[k];
     返回acc;
   }, {});
 ```
@@ -6771,7 +6772,7 @@ const users = {
 
 比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`并进行严格比较，以确定第一个对象中是否存在所有键并具有相同的值.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和严格比较来确定第一个对象中是否存在所有键并具有相同的值.
 
 ```js
 const matches =（obj，source）=&gt;
@@ -6793,7 +6794,7 @@ const matches =（obj，source）=&gt;
 
 根据提供的函数，比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-Use `Object.keys(source)` to get all the keys of the second object, then `Array.prototype.every()`, `Object.hasOwnProperty()` and the provided function to determine if all keys exist in the first object and have equivalent values.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和提供的函数来确定第一个是否存在所有键对象并具有等效值.
 如果未提供任何功能，则将使用相等运算符比较值.
 
 ```js
@@ -6831,7 +6832,7 @@ matchesWith(
 ```js
 const merge =（... objs）=&gt;
   [... OBJ文件].降低（
-    (acc, obj) =>
+    （acc，obj）=&gt;
       Object.keys（obj）.reduce（（a，k）=&gt; {
          acc [k] = acc.hasOwnProperty（k）？  [] .concat（acc [k]）.concat（obj [k]）：obj [k];
         返回acc;
@@ -6861,7 +6862,7 @@ const other = {
 
 ### nest
 
-Given a flat array of objects linked to one another, it will nest them recursively.
+给定彼此链接的平面对象数组，它将递归地嵌套它们.
 用于嵌套注释，例如reddit.com上的注释.
 
 使用递归.
@@ -6961,7 +6962,7 @@ const omit =（obj，arr）=&gt;
 
 ### omitBy
 
- 创建一个由给定函数返回falsey的属性组成的对象.  使用两个参数调用该函数：（value，key）.
+ 创建一个由给定函数返回falsy的属性组成的对象.  使用两个参数调用该函数：（value，key）.
 
 使用`Object.keys（obj）`和`Array.prototype.filter（）`来删除`fn`返回truthy值的键.
 使用`Array.prototype.reduce（）`将过滤后的密钥转换回具有相应键值对的对象.
@@ -7040,7 +7041,7 @@ const pick =（obj，arr）=&gt;
 
  创建一个由给定函数返回truthy的属性组成的对象.  使用两个参数调用该函数：（value，key）.
 
-使用`Object.keys（obj）`和`Array.prototype.filter（）`来删除`fn`返回falsey值的键.
+使用`Object.keys（obj）`和`Array.prototype.filter（）`来删除`fn`返回伪值的键.
 使用`Array.prototype.reduce（）`将过滤后的密钥转换回具有相应键值对的对象.
 
 ```js
@@ -7069,9 +7070,9 @@ const pickBy =（obj，fn）=&gt;
 ```js
 const renameKeys =（keysMap，obj）=&gt;
   Object.keys（OBJ）.降低（
-    （acc，key）=&gt;（{
+    (acc, key) => ({
       ... ACC，
-       ...... {[KeymarksMap [key] ||  关键]：obj [key]}
+      ...{ [keysMap[key] || key]: obj[key] }
     }),
     {}
   );
@@ -7362,7 +7363,7 @@ const CSVToJSON =（data，delimiter =&#39;，&#39;）=&gt; {
     .split（ &#39;\ n&#39;）
     .map（v =&gt; {
       const values = v.split（delimiter）;
-      return titles.reduce（（obj，title，index）=&gt;（（obj [title] = values [index]），obj），{}）;
+      return titles.reduce((obj, title, index) => ((obj[title] = values[index]), obj), {});
     });
 };
 ```
@@ -7515,7 +7516,7 @@ const isAbsoluteURL = str =&gt; /^ [az] [ -  z0-9 + .-] *：/.test(str）;
 <summary>Examples</summary>
 
 ```js
- isAbsoluteURL（ &#39;https://google.com&#39;）;  //真
+isAbsoluteURL('https://google.com'); // true
  isAbsoluteURL（ &#39;ftp://www.myserver.net&#39;）;  //真
  isAbsoluteURL（ &#39;/富/巴&#39;）;  //假
 ```
@@ -7798,7 +7799,7 @@ const sortCharactersInString = str =&gt; [... str] .sort（（a，b）=&gt; a.lo
 使用`String.prototype.split（）`和正则表达式来匹配换行符并创建一个数组.
 
 ```js
-const splitLines = str =&gt; str.split（/ \ r？\ n /）;
+const splitLines = str => str.split(/\r?\n/);
 ```
 
 <details>
@@ -7866,7 +7867,7 @@ const stripHTMLTags = str =&gt; str.replace（/ &lt;[^&gt;] *&gt; / g，&#39;&#3
 
 ### toCamelCase
 
-将字符串转换为camelcase.
+Converts a string to camelcase.
 
 将字符串分解为单词并将它们组合起来，使用正则表达式将每个单词的第一个字母大写.
 
@@ -7875,7 +7876,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？ | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7905,7 +7906,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？ | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -7934,7 +7935,7 @@ const toKebabCase = str =&gt;
 constSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？ | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -7962,7 +7963,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？ | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8789,7 +8790,7 @@ httpPost(
 
 ### isBrowser
 
-Determines if the current runtime environment is a browser so that front-end modules can run on the server (Node) without throwing errors.
+确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
 `typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.
@@ -9098,7 +9099,7 @@ const toOrdinalSuffix = num =&gt; {
 
 如果给定值是数字，则返回“true”，否则返回“false”.
 
-将`！isNaN（）`与`parseFloat（）`结合使用来检查参数是否为数字.
+Use `!isNaN()` in combination with `parseFloat()` to check if the argument is a number.
 使用`isFinite（）`来检查数字是否有限.
 使用`Number（）`来检查强制是否成立.
 
