@@ -35,6 +35,7 @@
 ### Routing
 - [Preact Router](https://github.com/developit/preact-router) -  Preact的URL路由器.
 - [Preact Route Async](https://github.com/mjanssen/preact-route-async) - 一个（440b gzip）路由组件，支持异步加载页面组件.
+- [Wouter](https://github.com/molefrog/wouter) - 用于Preact / React的微型（1KB gzip）路由器，具有类似React Router的API.
 
 ### Components
 - [Preact Material Components](https://github.com/prateekbh/preact-material-components) - “用于网络的材料组件”的预制包装.

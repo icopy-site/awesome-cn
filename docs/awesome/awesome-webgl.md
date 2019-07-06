@@ -36,6 +36,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Codeflow](http://codeflow.org/tags/webgl.html) - 许多关于不同技巧和技巧的博客.
 * [Real-Time Rendering](http://www.realtimerendering.com/blog/tag/webgl/) - 这是本书_Real-Time Rendering_的博客.
 * [WebGL Insights](http://webglinsights.blogspot.com/) - 这是_WebGL Insights_一书的博客.
+* [WebGL Month](https://github.com/lesnitsky/webgl-month) - 一个月的每日WebGL教程.
 
 ### Books
 
@@ -112,7 +113,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) -  Chrome DevTools扩展程序，可帮助您在浏览器中实时编辑着色器.
+* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - 轻松探索WebGL和WebGL2场景并排除故障.
 * [Webgl Insight](https://github.com/3Dparallax/insight) -  Chrome扩展WebGL调试工具包，提供多种功能.
 
@@ -212,7 +213,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 ### References
 
-> WebVR references
+&gt; WebVR参考
 
 * [Browser Support](https://webvr.rocks/) - 显示浏览器，耳机和操作系统的支持.
 * [Mozilla VR](https://mixedreality.mozilla.org/) -  Mozilla的官方WebVR页面.

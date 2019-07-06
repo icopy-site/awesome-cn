@@ -5,7 +5,7 @@
 
 &gt;精选的Web组件资源的精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 将其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
@@ -162,7 +162,7 @@
 - [haunted](https://github.com/matthewp/haunted) - 针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [reLift-HTML](https://github.com/mardix/relift-html) - 小型（3kb）视图库，允许创建Web组件并使HTML页面具有反应性.
-- [osagai](https://github.com/HenriqueLimas/osagai) - 以功能方式创建Web组件的小型库.
+- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - 允许通过中间件功能以功能方式创建Web组件的库.
 - [ullr](https://github.com/aggre/ullr) - 用于使用函数式编程构建Web组件的库.
 
@@ -175,7 +175,7 @@
 
 - [custom-element-ts](https://github.com/geocine/custom-elements-ts) - 使用Typescript创建本机自定义元素，而不使用任何第三方库.
 - [preact-custom-element](https://github.com/bspaulding/preact-custom-element) - 从预执行组件生成/注册自定义元素.
-- [remount](https://github.com/rstacruz/remount) - Mount React components to the DOM using custom elements.
+- [remount](https://github.com/rstacruz/remount) - 使用自定义元素将React组件安装到DOM.
 
 ## Component Libraries
 
@@ -250,6 +250,7 @@
 - [webcomponents.dev](https://webcomponents.dev) - 您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - 分析Web组件并发出文档/诊断的CLI.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.

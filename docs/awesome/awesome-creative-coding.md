@@ -2,7 +2,7 @@
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-&gt;精心策划的精彩列表 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 资源主要用于初学者/中间体.
+> Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 资源主要用于初学者/中间体.
 
  创意编码与编程系统不同.  目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码 - 这已经成为描述**作为代码**的艺术品的家喻用语.
 
@@ -64,7 +64,7 @@
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) -  Coursera的计算机图形学课程.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - 选择涵盖p5.js，TensorFlow，Max / Jitter和ChucK的Kadenze课程.
 - [Think. Create. Code](https://www.edx.org/course/think-create-code-adelaidex-code101x-2) - 使用ProcessingJS学习编程的EDX课程.
-- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) - FutureLearn course on programming with Processing.
+- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) -  FutureLearn有关使用Processing编程的课程.
 - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) -  Coursera关于创意编码和处理的课程.
 - [Imaginary Institute](https://imaginary-institute.com/) - 学习如何创建华丽的交互式图形.
 - [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - 使用计算机编程作为创作学科来生成声音，图像，动画等.
@@ -81,14 +81,14 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-- [Processing](https://processing.org) [跨平台]  - 计算机编程语言和视觉艺术IDE.
+- [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
 - [Cinder](https://libcinder.org/) [跨平台]  - 用C ++开发专业品质的创意编码的开源库.
 - [openFrameworks](http://openframeworks.cc/) [跨平台]  - 用于创意编码的开源C ++工具包.
 - [C4](http://www.c4ios.com) [iOS]  - 适用于iOS的开源创意编码框架.
 - [Unity](https://unity3d.com/) [Mac，Win]  - 游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]  - 开源，实时协作WebGL引擎.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]  - 用于构建签名距离函数的GLSL库.
-- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing，是一组类，它们在使用最少量的代码编写时执行繁重的任务.
+- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing是一组类，它们在使用最少量的代码编写时执行繁重的任务.
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]  - 开源，现场图形，Swift框架，由Metal提供支持.
 
 ### Visual Programming Languages
@@ -200,7 +200,8 @@
 - [MFGD - Fragment Shaders](https://www.youtube.com/playlist?list=PLW3Zl3wyJwWMpFSRpeMmSBGDShbkiV1Cq) - 有关片段着色器的YouTube播放列表.
 - [Shaders Laboratory](https://www.youtube.com/channel/UCDk9-aPr8zQzwi4ylnuoJ6w) - 关于着色器的YouTube频道.
 - [Makin' Stuff Look Good](https://www.youtube.com/channel/UCEklP9iLcpExB8vp_fWQseg) - 关于着色器案例研究的YouTube频道.
-- [openFrameworks tutorials](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - 关于openFrameworks的YouTube播放列表.
+-[openFrameworks Tutorial Series](https://www.youtube.com/watch?v=dwt2NAd1ZYY&list=PL4neAtv21WOlqpDzGqbGM_WN2hc5ZaVv7) -  YouTube系列学习openFrameworks
+- [openFrameworks tutorial](https://www.youtube.com/watch?v=IKSTo_0pB28&index=51&list=PL4neAtv21WOmrV8z9rSzL20QpdLU1zJLr) - 关于openFrameworks的YouTube播放列表 - 未更新[2015].
 - [Shader Tutorial Series](https://www.youtube.com/watch?v=HIvNePu7UEE&list=PL4neAtv21WOmIrTrkNO3xCyrxg4LKkrF7) - 使用Visual Studio Code的有关着色器的YouTube播放列表.
 - [Kha Tutorial Series](https://www.youtube.com/watch?v=5Uxht76ODtQ&list=PL4neAtv21WOmmR5mKb7TQvEQHpMh1h0po) - 关于Kha框架的YouTube播放列表，内置于Haxe.
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) - 关于WebGL 2.0的YouTube播放列表.
@@ -213,7 +214,7 @@
 ### Talks
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) - 使用three.js介绍WebGL.
-- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - Collection of live coding videos by Íñigo Quílez.
+- [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - ÍñigoQuílez收集现场编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -  Bruno Imbrizi在WebExpo 2016上使用帆布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者研讨会.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - 关于创建3D游戏OpenG的初学者教程系列.
@@ -243,7 +244,7 @@
 - [Three glslify example](https://github.com/mattdesl/three-glslify-example) - 关于如何在glslify中使用three.js的示例.
 - [WebGL Beyond Dom](https://github.com/gregtatum/talk-webgl-beyond-dom) -  Greg Tatum使用Regl解释了WebGL的基本知识.
 - [FBO particles](http://barradeau.com/blog/?p=621) -  @nicoptere关于FBO / GPGPU颗粒的文章.
-- [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - Article about ray marching with three.js by @nicoptere.
+- [Ray marching (with THREE.js)](http://barradeau.com/blog/?p=575) - 关于@nicoptere使用three.js射线游行的文章.
 - [Custom shaders with Three.JS](https://csantosbh.wordpress.com/2014/01/09/custom-shaders-with-three-js-uniforms-textures-and-lighting/) - 介绍three.js中的自定义着色器，制服，纹理和灯光.
 - [An intro to modern OpenGL](http://duriansoftware.com/joe/An-intro-to-modern-OpenGL.-Chapter-1:-The-Graphics-Pipeline.html) - 现代OpenGL简介的第一部分.
 - [Modern OpenGL Series](https://github.com/tomdalling/opengl-series) - 对一些OpenGL术语的良好介绍.
@@ -291,7 +292,7 @@
 - [Fun Programming](http://funprogramming.org/) - 学习编写简单程序的创意编码.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - 在Creative Applications上发布的C4简介.
 - [COSMOS](http://www.c4ios.com/cosmos/) - 使用C4设计，编程和启动应用程序的端到端教程.
-- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - 粒子物理解释.
+- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - 研究使用可视化来理解，解释和调试算法.
 - [Adventures in Game Development World](http://ruh.li/) - 易于理解游戏开发的文章集，但也与创意编码相关.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - 引导随机数的微小指南.
@@ -326,7 +327,7 @@
 - [3D Maths Cheat Sheet](http://antongerdelan.net/teaching/3dprog1/maths_cheat_sheet.pdf) -  Anton Gerdelan的数学作弊表，来自他的OpenGL书籍.
 - [docs.GL](http://docs.gl/) - 改进官方OpenGL文档.
 - [OpenGL Shading Language](https://www.khronos.org/opengl/wiki/OpenGL_Shading_Language) -  Khronos Group GLSL wiki.
-- [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - PDF Reference Card for the OpenGL 4.3 API.
+- [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) -  OpenGL 4.3 API的PDF参考卡.
 - [Easings](http://easings.net/) - 交互式宽松功能备忘单.
 - [The newbie's PBR Cheat Sheet](https://www.artstation.com/artwork/YeBr3) - 关于PBR的短而甜美的视觉概述.
 - [PixelSpirit](http://pixelspiritdeck.com/) - 塔罗牌背面的GLSL库，供学习和参考.
@@ -373,7 +374,7 @@
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - 用数学绘画的原则.
 - [Learning Maths again](https://github.com/silviopaganini/maths) -  JS和GLSL数学片段的集合.
 - [Eases](https://github.com/mattdesl/eases) -  Grab-bag模块化缓动方程式.
-- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - 可视化不同的运动方程.
+- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - 矩阵乘法可视化.
 - [Algebra rules](http://algebrarules.com/) - 基本代数最有用的规则.
 - [Immersive Math](http://immersivemath.com/ila/index.html) - 完全交互式线性代数.

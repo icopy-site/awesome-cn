@@ -15,14 +15,14 @@
 * [Rambda](https://github.com/selfrefactor/rambda) - 在10kB以下更快的替代Ramda.
 * [Folktale](http://folktale.origamitower.com/) - 用于JavaScript函数编程的标准库.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - 一个实例 [Lodash](https://github.com/lodash/lodash) 将其方法包装起来，以生成不可变的，自动curried，iteratee-first，data-last方法.
-* [functional.js](http://functionaljs.com) - 轻量级功能JavaScript库，便于currying和无点/默认编程.
-* [101](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
+* [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+* [101](https://github.com/tjmehta/101) - 一个现代的模块化JavaScript实用程序库，可以很好地与vanilla JavaScript方法配合使用.
 * [fnuc](https://github.com/algesten/fnuc) -  CoffeeScript（和JavaScript）的功能库，用于促进功能组合和更高阶的功能.
 * [barely-functional](https://github.com/cullophid/barely-functional) - 使用原生ES5 / 6操作的小型（2.7kb）函数编程库.
 * [bluebird-promisell](https://github.com/zhangchiqing/bluebird-promisell) - 承诺的实用函数编程库.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) - 功能导向的实用程序库，有点基于Haskell的Prelude模块.
 * [preludejs](https://github.com/alanrsoares/prelude-js) -  JavaScript的硬核功能编程.
-* [1-liners](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
+* [1-liners](https://github.com/1-liners/1-liners)   - 功能性工具，不能简单.  这款简约实用多功能腰带采用手工精制而成，充满爱与关怀.
 * [fn-curry](https://github.com/thunklife/fn-curry) - 一个简单的函数来理解函数.
 * [curry](https://github.com/thisables/curry) - 使用函数绑定语法来调整函数.
 * [compose-function](https://github.com/stoeffel/compose-function) - 从较小的功能中编写新功能.
@@ -33,7 +33,7 @@
 * [trifl](https://github.com/algesten/trifl) - 具有单向数据流和虚拟dom的功能用户界面库.
 * [funcy](https://github.com/bramstein/funcy)   - 在JavaScript中添加功能模式匹配的实验.  _Experimental_：triangular_flag_on_post：
 * [date-fp](https://github.com/cullophid/date-fp)   - 用于处理JavaScript日期的功能实用程序库.  date-fp中的所有函数都是纯粹的，自动调整的，不会改变它们应用的日期对象.
-* [js-joda](https://github.com/js-joda/js-joda) - 一个不可变的日期和时间库，它提供基于ISO8601日历的简单，域驱动和干净的API.
+* [js-joda](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
 * [\_part\_](https://github.com/AutoSponge/_part_) - 通过将本机方法作为部分应用函数提供来鼓励函数式编程的微型库.
 * [claire](https://github.com/robotlolita/claire) - 基于属性的测试库，用于清楚地指定代码不变量和行为.
 * [FPO.js](https://github.com/getify/fpo)   -  Kyle Simpson的JavaScript库（又名getify）.  支持命名参数样式方法.
@@ -47,6 +47,7 @@
 * [fpEs](https://github.com/TeaEntityLab/fpEs/) - 一个小型库提供简单的基本FP和模式匹配/ sumtype和MonadIO / Rx＆可选的Javascript用法
 * [Creed](http://blog.briancavalier.com/creed/) - 具有高级功能的复杂和功能强大的异步：协程，承诺，ES2015迭代，幻想 - 土地.
 * [TGrid](https://github.com/samchon/tgrid) - 网格计算框架，网络和线程扩展 [TSTL](https://github.com/samchon/tstl)，支持RFC（远程函数调用）.
+* [Ferrum](https://github.com/adobe/ferrum)   -  Iterator库，支持对象作为iterables，lazy evaulation和`pipe（）`;  在JS中实现Traits（来自Rust）/ Type Classes（来自Haskell）
 
 ### Data Structures
 
@@ -85,7 +86,7 @@
 * [crocks](https://github.com/evilsoft/crocks) - 一系列流行的代数数据类型，其主要目标是策划并提供每种类型之间的通用接口，以及实现运行所需的所有辅助功能.
 * [kudo-js](https://github.com/blitzritz/kudojs) - 一个小实用程序库，带有一组代数数据类型和辅助函数，可帮助您在Javascript函数编程风格中编写代码
 * [purify](https://github.com/gigobyte/purify) - 针对ADT的TypeScript功能编程库
-* [MojiScript](https://github.com/joelnet/MojiScript)- an async-first, opinionated, and functional language designed to have 100% compatibility with JavaScript engines
+* [MojiScript](https://github.com/joelnet/MojiScript)- 一种异步优先，自以为是，功能强大的语言，旨在与JavaScript引擎100％兼容
 * [Pratica](https://github.com/rametta/pratica) - 小型，简单，易用的FP数据类型，适用于需要快速发送可靠代码的实用且高效的开发人员.
 * [Tifi](https://github.com/mobily/tifi)   -  Tifi是一个用于TypeScript函数式编程的库.  它解决了“undefined”和“null”都存在的问题.  Tifi的灵感来自于选项数据类型的OCaml / Reason实用程序.
 
@@ -214,4 +215,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Christoph Hermann](http://stoeffel.github.io/) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.

@@ -723,8 +723,9 @@
 * [bolt](https://github.com/SebastianSzturo/bolt) - 简单快速的http代理.
 * [cauldron](https://github.com/meh/cauldron) - 作为库的HTTP / SPDY服务器.
 * [Crawler](https://github.com/fredwu/crawler) -  Elixir中的高性能网络爬虫.
+* [Crawly](https://github.com/oltarasenko/crawly) -  Elixir的高级Web爬行和抓取框架.
 * [elli](https://github.com/knutin/elli) -  Elli是一个Web服务器，您可以在Erlang应用程序中运行以公开HTTP API.
-* [etag_plug](https://github.com/Zeeker/etag_plug) - 简单易用的浅ETag插头.
+* [etag_plug](https://github.com/sascha-wolf/etag_plug) - 简单易用的浅ETag插头.
 * [explode](https://github.com/pkinney/explode) - 一个简单的实用程序，用于响应基于插件和Phoenix的应用程序中的标准HTTP / JSON错误有效负载.
 * [exvcr](https://github.com/parroty/exvcr) - 针对Elixir的HTTP请求/响应记录库，受VCR的启发.
 * [fuzzyurl](https://github.com/gamache/fuzzyurl.ex)   - 用于解析，构造和通配符匹配URL的Elixir库.  也适用于 [Ruby](https://github.com/gamache/fuzzyurl.rb) 和 [JavaScript](https://github.com/gamache/fuzzyurl.js).

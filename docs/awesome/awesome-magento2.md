@@ -65,6 +65,7 @@
 - [Magento 2 Composer Repository](https://github.com/EaDesgin/m2-ComposerRepo) -  Composer Repository Manager，用于销售Magento 2扩展，并为订购的包提供作曲家安装.
 - [MageVulnDB](https://github.com/gwillem/magevulndb) - 具有已知安全问题的第三方Magento扩展的中央存储库.
 - [Magento 2 Debug](https://github.com/clawrock/magento2-debug) - 用于调试Magento 2性能问题的Profiler.
+- [Magento 2 Prometheus Exporter](https://github.com/run-as-root/magento2-prometheus-exporter) - 普通Magento数据的普罗米修斯出口商.
 
 ### Deployment
 

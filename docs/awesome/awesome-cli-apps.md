@@ -10,11 +10,11 @@
 &gt;精选的命令行应用列表.
 
 灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
-<h4 align="center">  <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">查看一些错过剪辑的应用.</a> <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22"><br></a>  <a href="https://github.com/agarrharr/awesome-cli-apps/pulls?q=is%3Apr+is%3Aopen+sort%3Acreated-asc+label%3A%22on+hold%22">如果你认为他们应该被添加给他们一些爱，那就拍他们：thumbsup：或者给他们一个：明星：！</a> </h4>
 
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,7 +53,6 @@
 ### Video
 
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - 从YouTube.com和许多其他视频网站下载视频.
-- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 从终端观看macOS原生画中画播放器中的电影.
 - [streamlink](https://github.com/streamlink/streamlink) - 将各种网站的流提取到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -  Youtube播放器.
 - [mpv](https://mpv.io) - 高级视频播放器.
@@ -64,7 +63,7 @@
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
+- [Dwarf Fortress](http://www.bay12games.com/dwarves) -  Roguelike建设和管理模拟.
 
 ## Development
 
@@ -118,7 +117,6 @@
 
 ### Database
 
-- [cycli](https://github.com/nicolewhite/cycli) - 具有自动完成和语法突出显示功能的Neo4j客户端.
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -  Postgres客户端具有自动完成和语法突出显示功能.
 
@@ -133,6 +131,7 @@
 - [pm2](https://pm2.io/runtime/) -  Node.js的生产流程管理器
 - [dockly](https://github.com/lirantal/dockly) - 以交互方式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -  Unikernel编译和编排工具.
+- [lazydocker](https://github.com/jesseduffield/lazydocker) - 简单的docker / docker-compose接口.
 
 ### Release
 
@@ -232,6 +231,7 @@
 
 ### macOS
 
+- [open-pip-cli](https://github.com/albinekb/open-pip-cli) - 观看画中画播放器中的视频.
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - 获取应用的路径.
 - [bundle-id-cli](https://github.com/sindresorhus/bundle-id-cli) - 从包名称中获取包标识符：Safari→com.apple.Safari.
 - [bundle-name-cli](https://github.com/sindresorhus/bundle-name-cli) - 从包标识符中获取包名称：com.apple.Safari→Safari.
@@ -262,7 +262,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 
 ### Theming and Customization
 
@@ -401,7 +401,7 @@
 
 ## Screensavers
 
-- [cmatrix](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen.
+- [cmatrix](https://github.com/Treri/cmatrix) - 显示滚动的“矩阵”屏幕.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 显示在屏幕上增长的随机管道.
 - [YuleLog](https://github.com/Duroktar/YuleLog) - 基于终端的圣诞节YuleLog壁炉.
 - [cli-fireplace](https://github.com/dolsup/cli-fireplace) - 显示数字壁炉.
@@ -429,7 +429,6 @@
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)   - 哈希变得简单.  获取文本或标准输入的哈希值.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有Chrome标签，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用Levenshtein距离算法测量两个弦之间的差异.
-- [maybe](https://github.com/p-e-w/maybe) - 在决定是否真的希望它发生之前，先看一下程序的作用.
 - [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
 - [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
@@ -446,11 +445,11 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [Qalculate](https://github.com/Qalculate/libqalculate)   - 计算非三元数学表达式.  单位转换，符号计算等.
 
 ### Emoji
 
-- [emoj](https://github.com/sindresorhus/emoj) - 在命令行中从文本中查找相关的表情符号.
+- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
 - [oji](https://github.com/xxczaki/oji) - 交互式文本表情符号制作者.
 
