@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
-## Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest) [![Chat](https://img.shields.io/badge/-chat%20on%20gitter-ff0066.svg)](https://gitter.im/fish-shell/fish-shell)
+## Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest)
 
  友情<a href="https://github.com/fish-shell/fish-shell" title="鱼">交互式shell</a>的最精彩包，提示和资源的精选列表.
 
@@ -30,7 +30,7 @@
 - [bax](https://github.com/jorgebucaran/fish-bax) - 运行bash脚本，重放鱼类中的环境变化（另请参阅 [bass](https://github.com/edc/bass)).
 - [done](https://github.com/franciscolourenco/done) - 长时间进程完成后自动接收通知.
 - [mock](https://github.com/matchai/fish-mock) - 快速而强大的功能模拟.
-- [spark](https://github.com/jorgebucaran/fish-spark) - 纯鱼火花线▂▃▅▂▇发电机.
+- [spark](https://github.com/jorgebucaran/fish-spark) - 纯鱼火花线发生器：▂▃▅▂▇在你的壳中.
 - [gitnow](https://github.com/joseluisq/gitnow) - 一组实用程序功能，用于加速您的git工作流程.
 - [pisces](https://github.com/laughedelic/pisces) - 在命令行中自动关闭括号，大括号，引号和其他配对符号.
 - [getopts](https://github.com/jorgebucaran/fish-getopts)   -  CLI选项解析器;  替代 [argparse](https://fishshell.com/docs/current/commands.html#argparse) 鱼内置.

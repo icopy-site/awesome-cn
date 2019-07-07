@@ -98,7 +98,7 @@
 * [Helix QAC](https://www.perforce.com/products/helix-qac)  ：copyright： - 嵌入式软件的企业级静态分析.  支持MISRA，CERT和AUTOSAR编码标准.
 * [IKOS](https://github.com/nasa-sw-vnv/ikos) - 基于LLVM的C / C ++代码的声音静态分析器
 * [include-gardener](https://github.com/feddischson/include_gardener) - a static analyzer for C/C++/Obj-C to create a graph (in dot or graphml format) which shows all `#include` relations of a given set of files.
-* [LDRA](https://ldra.com/) ：copyright： - 包含静态分析（TBVISION）的工具套件，适用于各种标准，包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
+* [LDRA](https://ldra.com/) ：copyright： - 包括静态分析（TBVISION）到各种标准的工具套件，包括MISRA C＆C ++，JSF ++ AV，CWE，CERT C，CERT C ++和自定义规则.
 * [oclint](http://oclint.org/) -  C / C ++代码的静态分析
 * [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) ：copyright： - 识别C和C ++嵌入式软件中的运行时错误，并发问题，安全漏洞和其他缺陷.
 * [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) ：copyright： - 提供代码验证，证明在C和C ++源代码中没有溢出，被零除，越界数组访问以及某些其他运行时错误.
@@ -168,7 +168,7 @@
 * [go-critic](https://github.com/go-critic/go-critic) - 转到源代码linter，维护当前未在其他链接中实现的检查.
 * [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#.
 * [go/ast](https://golang.org/pkg/go/ast/) - 包ast声明用于表示Go包的语法树的类型.
-* [goconst](https://github.com/jgautheron/goconst) - 查找可以用常量替换的重复字符串.
+* [goconst](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
 * [gocyclo](https://github.com/fzipp/gocyclo) - 计算Go源代码中函数的圈复杂度.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - 检查代码是否格式正确，无法进一步简化.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 检查丢失或未引用的包导入.
@@ -193,7 +193,7 @@
 * [test](http://golang.org/pkg/testing/) - 从stdlib测试模块显示测试失败的位置.
 * [testify](https://github.com/stretchr/testify) - 显示失败的证词断言的位置.
 * [unconvert](https://github.com/mdempsky/unconvert) - 检测冗余类型转换.
-* [unimport](https://github.com/alexkohler/unimport) - Finds unnecessary import aliases
+* [unimport](https://github.com/alexkohler/unimport) - 查找不必要的导入别名
 * [unparam](https://github.com/mvdan/unparam) - 查找未使用的功能参数.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - 查找未使用的变量.
 * [varcheck](https://github.com/opennota/check) - 查找未使用的全局变量和常量.
@@ -499,6 +499,7 @@
 ## Binaries
 
 * [BinSkim](https://github.com/Microsoft/binskim) - 二进制静态分析工具，为Windows便携式可执行文件提供安全性和正确性结果.
+* [cwe_checker](https://github.com/fkie-cad/cwe_checker) -  cwe_checker在二进制可执行文件中查找易受攻击的模式.
 * [Jakstab](https://github.com/jkinder/jakstab) -  Jakstab是一个基于抽象解释的集成反汇编和静态分析框架，用于设计可执行文件分析和恢复可靠的控制流图.
 * [Twiggy](https://github.com/rustwasm/twiggy)   - 分析二进制的调用图以分析代码大小.  目标是减少二进制文件.
 
@@ -577,7 +578,7 @@
 ## Markdown
 
 * [markdownlint](https://github.com/DavidAnson/markdownlint) - 用于Markdown / CommonMark文件的基于Node.js的样式检查器和lint工具.
-* [mdl](https://github.com/mivok/markdownlint) - 检查Markdown文件和标记样式问题的工具.
+* [mdl](https://github.com/mivok/markdownlint) - A tool to check Markdown files and flag style issues.
 
 ## Mobile
 

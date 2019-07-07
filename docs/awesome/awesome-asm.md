@@ -68,6 +68,7 @@ Books
 ----------
 * [Unix Assembly Language Programming](http://www.int80h.org)
 * [Linux Assembly](http://asm.sourceforge.net/)
+* [Linux Kernel](https://github.com/cirosantilli/linux-kernel-module-cheat)
 * [PPR: Learning Assembly Language](http://c2.com/cgi/wiki?LearningAssemblyLanguage)
 * [Assembly Language Programming Examples](http://www.azillionmonkeys.com/qed/asmexample.html)	
 * [Authoring Windows Applications In Assembly Language](http://www.grc.com/smgassembly.htm)
@@ -75,6 +76,7 @@ Books
 * [Introduction to programming using Linux assembly language](http://www.programminggroundup.blogspot.fi/)
 * [x86 Assembly Guide](http://www.cs.virginia.edu/~evans/cs216/guides/x86.html)
 * [x86 Assembly Wikibook](https://en.wikibooks.org/wiki/X86_Assembly)
+* [x86-bare-metal-examples](https://github.com/cirosantilli/x86-bare-metal-examples)
 * [x86 Disassembly Wikibook](https://en.wikibooks.org/wiki/X86_Disassembly)
 * [Software written primarily in assembly language](https://en.wikipedia.org/wiki/Category:Software_written_primarily_in_assembly_language)
 * [Novice and Advanced Assembly resources for x86 Platform](http://www.intel-assembler.it/portale/indice.asp)

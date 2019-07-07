@@ -45,7 +45,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
 - [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
@@ -58,11 +58,14 @@
 - [mpv](https://mpv.io) - 高级视频播放器.
 
 ### Movies
+
 - [moviemon](https://github.com/iCHAIT/moviemon) - 关于你电影的一切.
 - [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较电影.
 
 ### Games
 
+- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
+- [Cataclysm-DDA](https://cataclysmdda.org) - 在后世界末日的世界中设置回合制生存游戏.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves) -  Roguelike建设和管理模拟.
 
 ## Development
@@ -95,7 +98,7 @@
 - [surge](https://surge.sh) - 将目录部署到Web.
 - [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
-- [wp-cli](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more.
+- [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
@@ -228,6 +231,7 @@
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
+- [pipe_exec](https://github.com/koraa/pipe_exec) - 从stdin，管道和ttys运行可执行文件而不创建临时文件.
 
 ### macOS
 
@@ -262,7 +266,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽.
 
 ### Theming and Customization
 
@@ -316,7 +320,7 @@
 
 ### Deleting, Copying, and Renaming
 
-- [trash-cli](https://github.com/sindresorhus/trash-cli) - 将文件和目录移动到废纸篓.
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.
@@ -356,7 +360,7 @@
 - [happyfinder](https://github.com/hugows/hf) - （另一个）命令行的模糊文件查找器.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
-- [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可以与任何列表一起使用：文件/目录，命令历史，进程，主机名，书签，git提交等.
+- [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
 - [fselect](https://github.com/jhspetersson/fselect) - 使用类似SQL的查询查找文件.
 
 ## Version Control
@@ -449,7 +453,7 @@
 
 ### Emoji
 
-- [emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoj](https://github.com/sindresorhus/emoj) - 在命令行中从文本中查找相关的表情符号.
 - [emoji-finder](https://github.com/dematerializer/emoji-finder) - 通过命令行快速查找表并将表情符号复制到剪贴板.
 - [oji](https://github.com/xxczaki/oji) - 交互式文本表情符号制作者.
 

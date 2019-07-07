@@ -8,7 +8,7 @@
 ### Introductions
 
 * [Getting started with dotfiles](https://medium.com/@webprolific/getting-started-with-dotfiles-43c3602fd789) ([L. Kappert](https://github.com/webpro))
-* [Getting started with dotfiles](https://medium.com/@driesvints/getting-started-with-dotfiles-76bf046d035c) ([D. Vints](https://github.com/driesvints))
+* [Getting started with dotfiles](https://driesvints.com/blog/getting-started-with-dotfiles/) ([D. Vints](https://github.com/driesvints))
 * [Managing your dotfiles](https://medium.com/@webprolific/managing-your-dotfiles-7d2725297304)
 * [Dotfiles Are Meant to Be Forked](https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/)
 * [Dotfile discovery](https://wynnnetherland.com/journal/dotfiles-discovery/)
@@ -89,7 +89,7 @@
 * [Ansible](https://www.ansible.com) - 极其简单的配置管理，应用程序部署，任务执行和多节点编排引擎.
 * [chezmoi](https://github.com/twpayne/chezmoi) - 在多台计算机上安全地管理您的dotfiles.
 * [dotbot](https://github.com/anishathalye/dotbot) - 引导你的dotfiles的工具.
-* [dotdrop](https://github.com/deadc0de6/dotdrop) - 保存您的dotfiles一次，在任何地方部署它们.
+* [dotdrop](https://github.com/deadc0de6/dotdrop) - 保存一次dotfiles，将它们部署到各处.
 * [dotfiles](https://github.com/jbernard/dotfiles) - 在$ HOME中轻松管理dotfile符号链接的工具.
 * [Ellipsis](https://github.com/ellipsis/ellipsis) -  dotfiles的包管理器.
 * [fresh](https://freshshell.com)   - 保持你的dotfiles新鲜.  Fresh是一种将shell配置（别名，函数等）从其他人配置到您自己的配置文件中的工具.

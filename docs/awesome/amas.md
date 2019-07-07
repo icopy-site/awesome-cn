@@ -166,6 +166,7 @@
 - [Wendell Hu](https://github.com/wendzhue/ama) - 阿里巴巴的前端开发人员.
 - [KimSia Sim](https://github.com/simkimsia/ama) - 独立开发者， [blogger](https://simkimsia.com)， 的主人 [business apps agency](https://oppoin.com) .  总部设在新加坡.
 - [Jim Lesperance](https://github.com/cooljl31/ama) - 充满激情的全栈开发者，狗❤️并喜欢旅游.
+- [Greg Edelston](https://github.com/gredelston/ama)   -  Google的软件工程师.  禅宗佛教和即兴情人.
 
 #### Ask these organizations anything!
 

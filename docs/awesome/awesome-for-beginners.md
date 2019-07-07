@@ -101,7 +101,7 @@
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好的第一贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载以及浏览器中页面之间的无缝转换.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
-- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  通用服务器呈现的React应用程序的简约框架
+- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
@@ -131,6 +131,10 @@
 
 - [Julia Language: Help wanted](https://github.com/JuliaLang/julia/labels/help%20wanted)  _（标签：求助）_ <br>  “像Python一样移动，像C一样运行” - 一种全新的技术计算方法！
 - [Julia Language: Good first issue](https://github.com/JuliaLang/julia/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  “像Python一样移动，像C一样运行” - 一种全新的技术计算方法！
+
+## Kotlin
+
+- [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kotlin的多平台断言库
 
 ## Perl
 
@@ -187,7 +191,7 @@
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架
@@ -201,7 +205,6 @@
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  JavaScript的超集，用于编译以清理JavaScript输出.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种新型工具，它将代码编辑器的简单性与开发人员的核心编辑 - 构建 - 调试周期所需的工具相结合.
-- [TSLint](https://github.com/palantir/tslint/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种可扩展的静态分析工具，可检查TypeScript代码的可读性，可维护性和功能性错误.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一个贡献）_ <br>  TSLint的ESLint规则.
 
 ## Contribute
@@ -212,4 +215,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
