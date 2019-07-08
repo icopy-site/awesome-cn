@@ -30,13 +30,15 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [Starlette](https://github.com/encode/starlette) - 用于构建高性能服务的轻量级ASGI框架/工具包.
 * [uvicorn](https://github.com/encode/uvicorn) - 闪电般快速的ASGI服务器.
 * [FastAPI](https://github.com/tiangolo/fastapi)   - 基于类型提示的高性能Python 3.6+ API框架.  由Starlette和Pydantic提供支持.
+* [Bocadillo](https://bocadilloproject.github.io) - 适用于所有人的快速，可扩展且实时的Web API.
 
 ## Message Queues
 
 *使用消息队列实现应用程序的库.*
 
 * [aioamqp](https://github.com/Polyconseil/aioamqp) - 使用asyncio实现AMQP.
-* [aiozmq](https://github.com/aio-libs/aiozmq) -  Asyncio（pep 3156）与ZeroMQ集成.
+* [pyzmq](https://github.com/zeromq/pyzmq) -  ZeroMQ的Python绑定.
+* [aiozmq](https://github.com/aio-libs/aiozmq) - 替代Asyncio与ZeroMQ的集成.
 * [crossbar](https://github.com/crossbario/crossbar) -  Crossbar.io是分布式和微服务应用程序的网络平台.
 * [asyncio-nats](https://github.com/nats-io/asyncio-nats) -  NATS消息传递系统的客户端.
 * [aiokafka](https://github.com/aio-libs/aiokafka) -  Apache Kafka的客户端.
@@ -68,6 +70,13 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [AsyncSSH](https://github.com/ronf/asyncssh) - 提供SSHv2协议的异步客户端和服务器实现.
 * [aiodns](https://github.com/saghul/aiodns) -  asyncio的简单DNS解析器
 
+## GraphQL
+
+*用于构建GraphQL服务器的库.*
+
+* [Ariadne](https://ariadnegraphql.org) - 用于实现GraphQL服务器的Schema-first Python库.
+* [Tartiflette](https://tartiflette.io/) - 构建在`libgraphqlparser`之上的Schema-first Python 3.6+ GraphQL引擎.
+
 ## Testing
 
 *用于测试基于asyncio的应用程序的库.*
@@ -93,6 +102,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [aiorun](https://github.com/cjrh/aiorun) - 一个`run（）`函数，它处理启动和正常关闭的所有常用样板.
 * [aioserial](https://github.com/changyuheng/aioserial) - 直接替换 [pySerial](https://github.com/pyserial/pyserial).
 * [aiozipkin](https://github.com/aio-libs/aiozipkin) - 使用zipkin的asyncio分布式跟踪工具
+* [ruia](https://github.com/howie6879/ruia) - 基于asyncio的异步网络抓取微框架.
 
 ## Writings
 
@@ -105,12 +115,13 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [AsyncIO for the Working Python Developer](https://hackernoon.com/asyncio-for-the-working-python-developer-5c468e6e2e8e) - 从基本示例到URL提取的简单介绍异步编程.
 * [Test limits of Python aiohttp](https://pawelmhm.github.io/asyncio/python/aiohttp/2016/04/22/asyncio-aiohttp.html) - 使用python-aiohttp发出100万个请求.
 * [ASGI (Asynchronous Server Gateway Interface)](https://asgi.readthedocs.io/en/latest/) -  WSGI的精神继承者，旨在提供异步功能的Python Web服务器，框架和应用程序之间的标准接口.
+* [First Principles Introduction to Asyncio](https://hackernoon.com/a-simple-introduction-to-pythons-asyncio-595d9c9ecf8c) -  asyncio内部工作原理的首要原则介绍. 
 
 ## Talks
 
 *记录有关asyncio的精彩演讲.*
 
-* [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) -  PyCon Brasil 2015主题演讲（David Beazley）.
+* [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
 * [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) -  8部分代码演练（Philip Guo）.
 * [Async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8&t=132s) -  EuroPython 2016（Yury Selivanov）.
 * [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) -  PyOhio 2016主题演讲（David Beazley）.

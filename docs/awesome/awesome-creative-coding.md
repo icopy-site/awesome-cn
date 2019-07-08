@@ -81,7 +81,7 @@
 
 ### Frameworks • Libraries • Ecosystems
 
-- [Processing](https://processing.org) [Cross-platform] - Computer programming language and IDE for visual arts.
+- [Processing](https://processing.org) [跨平台]  - 计算机编程语言和视觉艺术IDE.
 - [Cinder](https://libcinder.org/) [跨平台]  - 用C ++开发专业品质的创意编码的开源库.
 - [openFrameworks](http://openframeworks.cc/) [跨平台]  - 用于创意编码的开源C ++工具包.
 - [C4](http://www.c4ios.com) [iOS]  - 适用于iOS的开源创意编码框架.
@@ -100,7 +100,7 @@
 - [Vuo](http://vuo.org/) [Mac]  - 实时交互式媒体编程环境.
 - [Max](https://cycling74.com/products/max/) [Mac，Win]  - 媒体的可视化编程语言.
 - [Pure Data](https://puredata.info/) [跨平台]  - 用于多媒体的开源可视化编程语言.
-- [i-score](http://www.i-score.org) [跨平台]  - 用于控制创意编码库和工具包的交互式音序器.
+- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [tooll](http://tooll.io/) [Win]  - 用于创建交互式3D内容和动画的开源工具.
 - [XOD](https://xod.io/) [跨平台]  - 基于微控制器项目的开源可视化编程语言和环境.
 - [Isadora](https://troikatronix.com) [跨平台]  - 基于场景的媒体控制软件，集成投影映射器.
@@ -164,12 +164,13 @@
 - [Turtletoy](https://turtletoy.net/)   - 用于生成代码的简约API和在线展示.  （JavaScript）
 - [ShaderGif](https://shadergif.com/) - 使用代码（WebGL1 / 2，JavaScript Canvas和P5.js）制作的艺术的开源主页.
 - [P5LIVE](https://teddavis.org/p5live/) -  p5.js实时编码环境.
+- [NEORT](https://neort.io/popular) - 创意编码器的数字艺术平台（Fragment Shader，Javascript Canvas）.
 
 ### Hardware
 
 - [Arduino](https://www.arduino.cc/) - 用于构建数字设备和交互式对象的开源微控制器套件.
 - [Raspberry Pi](https://www.raspberrypi.org/) - 小型单板计算机.
-- [Puck.js](https://www.puck-js.com/) - 可以无线编程的开源JavaScript微控制器.
+- [Puck.js](https://www.puck-js.com/) - Open source JavaScript microcontroller you can program wirelessly.
 - [BeagleBoard](http://beagleboard.org/) - 低功耗开源单板计算机.
 - [Makey Makey](http://www.makeymakey.com/) - 将日常物品变成触摸板并将它们与互联网结合起来.
 - [Tessel](https://tessel.io/) - 易于使用的运行JavaScript的微控制器.
@@ -292,7 +293,7 @@
 - [Fun Programming](http://funprogramming.org/) - 学习编写简单程序的创意编码.
 - [Creative-coding on iOS with C4](http://www.creativeapplications.net/tutorials/creative-coding-on-ios-with-c4-tutorial/) - 在Creative Applications上发布的C4简介.
 - [COSMOS](http://www.c4ios.com/cosmos/) - 使用C4设计，编程和启动应用程序的端到端教程.
-- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - Particle physics explained.
+- [Particle Physics](https://www.khanacademy.org/partner-content/pixar/effects/particle-physics/a/start-here-fx) - 粒子物理解释.
 - [Visualizing Algorithms](https://bost.ocks.org/mike/algorithms/) - 研究使用可视化来理解，解释和调试算法.
 - [Adventures in Game Development World](http://ruh.li/) - 易于理解游戏开发的文章集，但也与创意编码相关.
 - [Shepherding random numbers](http://inconvergent.net/shepherding-random-numbers/) - 引导随机数的微小指南.

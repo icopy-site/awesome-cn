@@ -63,6 +63,13 @@
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - 书.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
 
+## Cheat Sheets
+* [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
+* [Princeton DS Cheat Sheet](https://algs4.cs.princeton.edu/cheatsheet/)
+* [CLRS in short](https://sinon.org/algorithms//#data-structures)
+* [Rice university DS couse in short](https://www.clear.rice.edu/comp160/data1.html)
+* [Useful Reddit thread](https://www.reddit.com/r/learnprogramming/comments/3gpvyx/algorithms_and_data_structures_cheat_sheets/)
+
 ## Github Libraries
 
 *在各种编程语言中实现最经典的算法*
@@ -77,6 +84,7 @@
     * [by @xtaci](https://github.com/xtaci/algorithms)
     * [by @PetarV-](https://github.com/PetarV-/Algorithms)
     * [by @faheel](https://github.com/faheel/Algos)
+    * [by @sslotin](http://github.com/sslotin/algo)
 * [Erlang](https://github.com/aggelgian/erlang-algorithms)
 * [Go](https://github.com/arnauddri/algorithms)
 * Java

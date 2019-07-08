@@ -45,7 +45,7 @@
 
 - [facebook-cli](https://github.com/specious/facebook-cli) -  Facebook命令行界面.
 - [TTYtter](https://github.com/oysttyer/oysttyer) -  Twitter客户端.
-- [Rainbowstream](https://github.com/DTVD/rainbowstream) - A smart and nice Twitter client on the terminal.
+- [Rainbowstream](https://github.com/DTVD/rainbowstream) - 终端上一个聪明而漂亮的Twitter客户端.
 - [RTV](https://github.com/michael-lazar/rtv) - 从您的终端浏览Reddit.
 - [WeeChat](https://weechat.org/) - 快速，轻松，可扩展的聊天客户端.
 - [irssi](https://github.com/irssi/irssi) -  IRC聊天客户端.
@@ -64,9 +64,8 @@
 
 ### Games
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - 矮人要塞是部分建筑和管理模拟，部分roguelike，独立视频游戏.
-- [Cataclysm-DDA](https://cataclysmdda.org) - 在后世界末日的世界中设置回合制生存游戏.
 - [Dwarf Fortress](http://www.bay12games.com/dwarves) -  Roguelike建设和管理模拟.
+- [Cataclysm-DDA](https://cataclysmdda.org) - 在后世界末日的世界中设置回合制生存游戏.
 
 ## Development
 
@@ -104,7 +103,7 @@
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
 - [mevn-cli](http://github.com/madlabsinc/mevn-cli) -  MEVN（Mongo Express Vue Node）应用程序的光速设置.
-- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) -  vanila JS的静态站点生成器.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - 香草JS的脚手架实用程序.
 - [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - 检查域是否已启动.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过http轻松提供本地目录.
@@ -266,7 +265,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
 
 ### Theming and Customization
 

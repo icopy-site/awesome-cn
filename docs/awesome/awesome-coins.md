@@ -20,7 +20,7 @@
 
  自己很难挖出一枚硬币，有点像赌博，所以人们通常选择加入一个游泳池（通常使用“stratum”协议进行协调） - 这会奖励你的工作，即使你没有找不到任何东西，因为你帮助了成千上万的人，其中一些确实找到了阻挡.  然后根据池的规则拆分块.
 
-有些人 [rent hashing power](https://www.nicehash.com/?refby=386829) 从农场开始，或者玩“区块链彩票”，试图自己找到硬币块，或者他们将农场指向一个游泳池，就像一个典型的家庭矿工 - 除了他们拥有极高的计算能力，如果他们愿意为此付钱.
+有些人 [rent hashing power](https://www.nicehash.com/?refby=386829) 从农场开始，或者玩“区块链彩票”，试图自己找到硬币块，或者他们将农场指向一个游泳池，就像典型的家庭矿工一样 - 除非他们拥有极高的计算能力，如果他们愿意为此付钱.
 
 希望有助于澄清事情.
 
@@ -30,7 +30,7 @@
 - [Internet Archive](https://archive.org) ** BTC **：`1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 - [The Pirate Bay](https://thepiratebay.org) ** BTC **：`129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 - [xkcd](https://xkcd.com) ** BTC **：`14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
-- [this repo](https://github.com/kennethreitz/awesome-coins) **BTC**: `1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
+- [this repo](https://github.com/kennethreitz/awesome-coins) ** BTC **：`1Me2iXTJ91FYZhrGvaGaRDCBtnZ4KdxCug`
 
 ## ☤ Coin Market Tools & Utilities
 
@@ -81,7 +81,7 @@
 -  ** ETC **：https：//etc.nanopool.org/
 -  ** ZCL **：https：//2miners.com/zcl-mining-pool
 - **ZEN**: https://2miners.com/zen-mining-pool
--  ** ZEC **：https：//2miners.com/zec-mining-pool
+- **ZEC**: https://2miners.com/zec-mining-pool
 
 ## ☤ Hashing Power for Rent
 
@@ -124,6 +124,7 @@
 - [Bittrex](https://bittrex.com) - 所有货币的钱包，与所有货币进行交易.
 - [Qvolta](https://qvolta.com) - 在全球范围内销售和购买加密资产，以获取本地支付方式.
 - [Coinwale](https://coinwale.com) - 匿名加密货币交换.
+- [ExchangeRates.Pro](https://exchangerates.pro) - 全球交易所的价格比较，包括P2P市场.
 
 
 ## ☤ Universal GUI Apps
@@ -179,7 +180,7 @@
 - `Nist5`（Talkcoin，** TAC **）
 - “NeoScrypt”（Phoenixcoin（** PXC **），Imperialcoin（** IPC **），Feathercoin（** FTC **），UFOcoin（** UFO **），Guncoin（** GUN **），宝莱坞币（** BDC **），Orbitcoin（** ORB **），Halcyon（** HAL **））
 - `Lyra2RE`（VertCoin / ** VTC **，CryptoCoin）
-- `WhirlpoolX`（Vanillacoin / ** VNL **）
+- “WhirlpoolX”（Vanillacoin / ** VNL **）
 - `Qubit`（QuibitCoin / ** Q2C **）
 - `Quark`（** QRK **）
 - `Axiom`（Axiom Coin / ** AXIOM **）
@@ -197,7 +198,7 @@
 - &#39;Pascal&#39;（** PASC **）
 - `X11Gost`（SIBCOin / ** SIB **）
 - `Sia`（** SC **）
-- `Blake2`s（NevaCoin，一个硬币，那一刹，TajCoin）
+- `Blake2`s（NevaCoin，Some Coin，Verge，TajCoin）
 - “臭鼬”（Signatum Coin / ** SIGT **）
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)

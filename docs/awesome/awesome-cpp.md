@@ -156,7 +156,7 @@
 *并发和多线程*
 
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)   - 用于并行内核加速的抽象库.  [LGPLv3 +]
-* [ArrayFire](https://github.com/arrayfire/arrayfire) - A general purpose GPU library. [BSD]
+* [ArrayFire](https://github.com/arrayfire/arrayfire)   - 通用GPU库.  [BSD]
 * [Async++](https://github.com/Amanieu/asyncplusplus)   -  C ++ 11的轻量级并发框架，受Microsoft PPL库和N3428 C ++标准提案的启发.  [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
 * [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
@@ -208,7 +208,7 @@
 *加密和加密库*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
-* [BeeCrypt](http://beecrypt.sourceforge.net/)   - 便携式快速加密库.  [LGPLv2.1 +]
+* [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
 * [Botan](http://botan.randombit.net/)   -  C ++的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)   - 加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)   -  C ++ 11仅限标头的消息摘要（哈希）库.  [公共区域]
@@ -257,7 +257,7 @@
 * [SOCI](https://github.com/SOCI/soci)   -  C ++的数据库抽象层.  [BSL-1.0]
 * [SQLite](http://www.sqlite.org/)   - 一个完全嵌入的，功能齐全的关系数据库，只需几百kk就可以包含在您的项目中.  [公共区域]
 * [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)   -  SQLiteC ++（SQLiteCpp）是一个智能且易于使用的C ++ SQLite3包装器.  [MIT]
-* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp) - Header only C++14 wrapper around sqlite library. [MIT]
+* [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)   - 仅针对sqlite库的头文件C ++ 14包装器.  [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)   - 用于现代C ++的SQLite ORM light header only库.  [BSD -3-第]
 * [sqlpp11](https://github.com/rbock/sqlpp11)   - 用于SQL查询和C ++结果的类型安全的嵌入式域特定语言.  [BSD-2-第]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)   - 快速密集和稀疏多维数组DBMS.  [MIT] [website](https://tiledb.io/)
@@ -337,7 +337,7 @@
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
 * [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
 * [nana](http://nanapro.org/en-us/)   -  Nana是一个用于现代C ++风格的GUI编程的跨平台库.  [促进]
-* [NanoGui](https://github.com/wjakob/nanogui)   - 适用于OpenGL 3.x或更高版本的简约跨平台小部件库.  [BSD]
+* [NanoGui](https://github.com/wjakob/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
 * [nuklear](https://github.com/vurtun/nuklear)   - 单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)   -  Qt绘制小部件，没有进一步的依赖性.  [GPLv3的]
 * [Qwt](http://qwt.sourceforge.net/)   -  Qt Widgets for Technical Applications.  [基于LGPL]
@@ -426,6 +426,7 @@
 ## JSON
 
 * [Boost.PropertyTree](http://www.boost.org/doc/libs/1_55_0/doc/html/property_tree.html)   - 属性树解析器/生成器，可用于解析XML / JSON / INI / Info文件.  [促进]
+* [cJSON](https://github.com/DaveGamble/cJSON) -  ANSI C中的超轻量级JSON解析器.[MIT]
 * [frozen](https://github.com/cesanta/frozen)   - 用于C / C ++的JSON解析器和生成器.  [GPL和GPL2]
 * [Jansson](https://github.com/akheron/jansson)   - 用于编码，解码和操作JSON数据的C库.  [MIT]
 * [jbson](https://github.com/chrismanning/jbson)   -  jbson是一个用于构建和迭代BSON数据的库，以及C ++ 14中的JSON文档.  [促进]
@@ -447,7 +448,8 @@
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
 * [QJson](https://github.com/flavio/qjson)   - 基于qt的库，可将JSON数据映射到QVariant对象.  [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
-* [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
+* [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
+* [simdjson](https://github.com/lemire/simdjson)   - 极快的JSON库，可以每秒解析千兆字节的JSON.  [Apache的2.0]
 * [taoJSON](https://github.com/taocpp/json)   - 零依赖C ++标头专用JSON库.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
 * [YAJL](https://github.com/lloyd/yajl) -  C中的快速流式JSON解析库[ISC]
@@ -513,7 +515,7 @@
 * [QuantLib](https://github.com/lballabio/quantlib)   - 用于量化融资的免费/开源库.  [改良BSD] [website](http://quantlib.org/)
 * [StatsLib](https://github.com/kthohr/stats)   - 仅限C ++头的统计分布函数库.  [Apache2的] [website](https://www.kthohr.com/statslib.html)
 * [SymEngine](https://github.com/symengine/symengine)   - 快速符号操作库，用C ++重写SymPy的核心.  [MIT]
-* [TinyExpr](https://github.com/codeplea/tinyexpr) - A C library for parsing and evaluating math expressions from strings. [zlib]
+* [TinyExpr](https://github.com/codeplea/tinyexpr)   - 用于从字符串中解析和评估数学表达式的AC库.  [ZLIB]
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用C ++库，包括欧几里德，投影，保形，时空（等）.
 * [Wykobi](http://www.wykobi.com/)   - 高效，健壮且易于使用的C ++ 2D / 3D计算几何例程的C ++库.  [MIT]
@@ -633,7 +635,7 @@
 
 ## Regular Expression
 
-* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
+* [CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)   - 简化C ++正则表达式.  [MIT]
 * [CTRE](https://github.com/hanickadot/compile-time-regular-expressions)   - 编译时间PCRE（几乎）兼容的正则表达式匹配器.  [MIT]
 * [Hyperscan](https://github.com/intel/hyperscan)   -  Hyperscan是英特尔的高性能多重正则表匹配库.  提供大量正则表达式（最多数万个）的同时匹配.  通常用于DPI库堆栈.  [BSD]
 * [Oniguruma](https://github.com/kkos/oniguruma)   - 一个现代而灵活的正则表达式库，支持各种字符编码.  [BSD]
@@ -646,7 +648,7 @@
 ## Robotics
 
 * [MOOS-IvP](http://moos-ivp.org) - 一组开源C ++模块，用于在机器人平台，特别是自动船用车辆上提供自主权.
-* [MRPT](http://www.mrpt.org/)   - 移动机器人编程工具包.  [BSD]
+* [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)   - 用于机器人运动学，运动规划和控制的独立C ++库.  [BSD]
 * [RobWork](http://www.robwork.dk/apidoc/nightly/rw/index.html)   - 用于模拟和控制机器人系统的C ++库集合.  [Apache2的]
@@ -836,7 +838,7 @@
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -  GNU调试器.
 * [LLDB](http://lldb.llvm.org/) -  LLDB调试器.
-* [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程shell，包含MDB元数据库.
+* [Metashell](https://metashell.readthedocs.org) - An interactive template metaprogramming shell which includes the MDB metadebugger.
 * [Valgrind](http://valgrind.org/) - 用于内存调试，内存泄漏检测和分析的工具.
 * [x64dbg](http://x64dbg.com/) - 用于Windows的开源x64 / x32调试器.
 
@@ -846,7 +848,7 @@
 * [Anjuta DevStudio](http://anjuta.org/)   -  GNOME IDE.  [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) - 基于JetBrains的IntelliJ IDEA平台构建的Objective-C，C，C ++和JavaScript开发IDE.
 * [Cevelop](https://www.cevelop.com) - 基于Eclipse CDT的跨平台C和C ++ IDE以及其他插件.
-* [CLion](http://www.jetbrains.com/clion/) - Cross-platform C and C++ IDE from JetBrains.
+* [CLion](http://www.jetbrains.com/clion/) -  JetBrains的跨平台C和C ++ IDE.
 * [Code::Blocks](http://www.codeblocks.org/) - 免费的C，C ++和Fortran IDE.
 * [CodeLite](http://codelite.org/)   - 另一个跨平台，免费的C和C ++ IDE.  [插件除外的GPL2]
 * [color_coded](https://github.com/jeaye/color_coded)   - 基于libclang的突出显示的vim插件.  [MIT]
@@ -860,10 +862,10 @@
 * [Microsoft Visual Studio](https://www.visualstudio.com/) -  Microsoft的IDE.
 * [NetBeans](https://netbeans.org/) - 主要用Java开发的IDE，也包括其他语言，特别是PHP，C / C ++和HTML5.
 * [Qt Creator](http://www.qt.io/developers/) ：zap： - 跨平台的C ++，JavaScript和QML IDE，它是Qt SDK的一部分.
-* [rtags](https://github.com/Andersbakken/rtags) - A c/c++ client/server indexer with for integration with emacs based on clang.
+* [rtags](https://github.com/Andersbakken/rtags) - 用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
 * [Xcode](https://developer.apple.com/xcode/) - 由Apple开发.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) -  YouCompleteMe是Vim的快速，类型，模糊搜索代码完成引擎.
-* [cquery](https://github.com/cquery-project/cquery/) - 用于vscode，emacs，vim等的C ++代码完成引擎.
+* [cquery](https://github.com/cquery-project/cquery/) - A C++ code completion engine for vscode, emacs, vim, etc.
 
 ## Build Systems
 
@@ -962,7 +964,7 @@
 ## Talks
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) ：zap： -  C ++会议.
-* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) -  Vittorio Romeo的CppCon 2014演讲.
+* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
 
 ## Videos
@@ -1038,7 +1040,7 @@
 * [Inqlude](http://inqlude.org/) -  Qt库存档.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机科学界的论文阅读和讨论.
 * [awesome-algorithms](https://github.com/tayllan/awesome-algorithms) - 精心学习和/或练习算法的地方的精选列表.
-* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - A lot of screencasts, recordings of user group gatherings and conference talks.
+* [awesome-talks](https://github.com/JanVanRyswyck/awesome-talks) - 大量的截屏视频，用户组聚会和会议对话的录音.
 * [Projects](https://github.com/karan/Projects) - 任何人都可以用任何编程语言解决的实际项目列表.
 * [Awesome interview questions](https://github.com/MaximAbramchuck/awesome-interviews) - 最流行技术（包括C和C ++）的面试问题列表.
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap： - 单文件C / C ++库列表.

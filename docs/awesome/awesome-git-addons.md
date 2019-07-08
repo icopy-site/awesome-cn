@@ -10,7 +10,7 @@ $ git bla
 
  &gt; _“你不必知道一切.  你只需要知道必要时在哪里找到它.“（John Brunner）_
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) list thing.
 
  **注意**：某些命令可能无法开箱即用.  您可能需要运行安装后脚本来添加别名或手动添加它们.
 
@@ -220,7 +220,7 @@ $ git ignore build“* .o”“* .log”
 ### info
 
 ```
-$ go info
+$ git信息
 
     ## 远程网址：
 
@@ -264,7 +264,7 @@ $ git fork LearnBoost / expect.js
 $ git发布0.1.0
 ...释放0.1.0
 关于分支发展
-Your branch is up-to-date with 'origin/development'.
+您的分支机构与“原产地/开发”保持同步.
 无需提交，工作目录清理
 总计0（delta 0），重用0（delta 0）
 要https://github.com/tj/git-extras.git
@@ -361,7 +361,7 @@ $ git功能完成依赖项
 
 ```
 $ git local-commits
-commit 5f00a3c1bb71876ebdca059fac96b7185dea5467
+提交5f00a3c1bb71876ebdca059fac96b7185dea5467
 合并：7ad3ef9 841af4e
 作者：Blaine Bublitz <blaine@iceddev.com>
 日期：2015年8月20日星期四11:35:15 -0700
@@ -447,8 +447,8 @@ README.md
 ### merge-repo
 
 ```
-$ go merge-repo git@github.com:tj / git-extras.git master.
-go fetch git@github.com:tj / git-extras.git master
+$ git merge-repo git@github.com:tj / git-extras.git master.
+git fetch git@github.com:tj / git-extras.git master
 警告：没有常见的提交
 remote：计数对象：3507，完成.
 remote：压缩对象：100％（5/5），完成.
@@ -457,7 +457,7 @@ remote：总计3507（delta 1），重用0（delta 0），pack-reused 3502
 解决增量：100％（1986/1986），完成.
 来自github.com:tj/git-extras
  *分支主控 - &gt; FETCH_HEAD
-添加&#39;dir-merge-repo.E95m0gj&#39;
+添加了dir&#39;git-merge-repo.E95m0gj&#39;
 没有保存的本地更改
 ```
 
@@ -529,7 +529,7 @@ $ git流量支持
 
 ```
 $ git up
-获取原点
+Fetching origin
 4.0快进......
 在上游之前改变日志
 掌握快进......
@@ -543,10 +543,10 @@ $ git up
 
 ```
 $ git clone schacon / ticgit
-转到克隆：//github.com/schacon/ticgit.git
+&gt; git clone git：//github.com/schacon/ticgit.git
 
 $ git clone -p schacon / ticgit
-&gt; go clone git@github.com:schacon/ticgit.git
+&gt; git clone git@github.com:schacon / ticgit.git
 
 $ Git的克隆福利
 &gt; git clone git@github.com/YOUR_USER/resque.git
@@ -556,7 +556,7 @@ $ Git的克隆福利
 
 ```
 $ git remote add rtomayko
-> git remote add rtomayko git://github.com/rtomayko/CURRENT_REPO.git
+&gt; git remote add rtomayko git：//github.com/rtomayko/CURRENT_REPO.git
 
 $ git remote add -p rtomayko
 &gt; git remote add rtomayko git@github.com:rtomayko/ CURRENT_REPO.git
@@ -575,7 +575,7 @@ $ git fetch mislav
 $ git fetch mislav，xoebus
 &gt; git remote add mislav ...
 &gt; git remote add xoebus ...
-&gt; git fetch --multiple mislav xoebus
+> git fetch --multiple mislav xoebus
 ```
 
 ### cherry-pick
@@ -597,9 +597,9 @@ $ git cherry-pick mislav @ sha
 ### am
 
 ```
-$ git am https://github.com/github/hub/pull/55
+$ am转到https://github.com/github/hub/pull/55
 [通过API下载补丁]
-转到/tmp/55.patch
+&gt;转到上午/tmp/55.patch
 
 $ git am --ignore-whitespace https://github.com/davidbalbert/hub/commit/fdb9921
 [通过API下载补丁]
@@ -881,7 +881,7 @@ $ git发布新
 ### List open issues
 
 ```
-$ git issue list
+$ git问题列表
 7dfa5b7从编辑器输入的问题
 e6a95c9从命令行输入新问题
 ```
@@ -967,7 +967,7 @@ remote：总计60（delta 8），重用60（delta 8），pack-reused 0
 ### List open issues
 
 ```
-$ git issue list
+$ git问题列表
 7dfa5b7从编辑器输入的问题
 e6a95c9从命令行输入新问题
 ```
@@ -1047,7 +1047,7 @@ Fast-forward
 ### List open issues
 
 ```
-$ git issue list
+$ git问题列表
 7dfa5b7从编辑器输入的问题
 abc9adc在另一台主机上添加了问题
 e6a95c9从命令行输入新问题
@@ -1167,7 +1167,7 @@ $ git最近
 ## [git-test](https://github.com/spotify/git-test)
 
 ```
-$ go test -v
+$ git test -v
 4.0 ^ origin / 4.0 ^ origin / master将测试2次提交
 iter commit tree结果
 0000 57af4b0 f5ef0d8通过（缓存）
@@ -1352,7 +1352,7 @@ $ git我
 
     本地副本？  在主人？  分店名称
    ................ [合并].  EC-242
-   ..... [本地] ... [合并.  CommonJS的，lazyload
+  .....[local]....[merged]. commonjs-lazyload
   ..... [local] ............. enqueue-gpt
   ......................... defunct-ios-app-nag
   ..... [本地] ............. factor-bundles
@@ -1398,7 +1398,7 @@ $ git recursive-blame version package.json
 1) {
 2）“名字”：“有角”，
 3）“版本”：“2.0.0-alpha.42”，
-4）“branchPattern”：“2.0.*”，
+4） “分支图案”：” * 2.0&quot; .
 5）“描述”：“Angular 2  - 现代网络应用程序的Web框架”，
 6）“主页”：“https://github.com/angular/angular”，
 7）“bug”：“https://github.com/angular/angular/issues”，
@@ -1416,7 +1416,7 @@ $ git recursive-blame version package.json
 1) {
 2）“名字”：“有角”，
 3）“版本”：“2.0.0-alpha.41”，
-4）“branchPattern”：“2.0.*”，
+4） “分支图案”：” * 2.0&quot; .
 5）“描述”：“Angular 2  - 现代网络应用程序的Web框架”，
 6）“主页”：“https://github.com/angular/angular”，
 7）“bug”：“https://github.com/angular/angular/issues”，
@@ -1702,7 +1702,7 @@ a1097116  - 将版本添加到自述文件（14小时前） <Steve Mao>
 ## [commitizen](https://github.com/commitizen/cz-cli)
 
 ```
-$ git cz
+$ go cz
 cz-cli@2.9.6, cz-conventional-changelog@1.2.0
 
 
@@ -1727,7 +1727,7 @@ TBD
 ## [git-fs](https://github.com/freddi301/git-fs)
 
 ```
-$ go fs
+$ git fs
 在./git/fs上挂载只读文件系统
 ```
 
@@ -1747,13 +1747,13 @@ $ git url
 
 gitu://ҝjȩMżEäḝЃȣϟṈӛŀї
 
-$ go url -r v1.0
+$ git url -r v1.0
 编码... INPUT是下一段：
 
 协议：https
 网站：github.com
 回复：zdharma / git-url
-Revision:  v1.0
+修订版：v1.0
 
 gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
 
@@ -1799,7 +1799,7 @@ $ git签名添加--push v1.0.0
 已更新标签&#39;v1.0.0&#39;（已为4de5afd）
 枚举对象：4，完成.
 计数对象：100％（4/4），完成.
-Delta压缩使用多达8个线程
+Delta compression using up to 8 threads
 压缩对象：100％（3/3），完成.
  写入对象：100％（3/3），906字节|  906.00 KiB / s，完成了.
 总计3（delta 1），重用0（delta 0）
@@ -1840,6 +1840,29 @@ $ git签名显示v1.0.0
  01234567890ABCDEF |  VALIDSIG |  终极|  11月10日星期六13:16:10东京2018年|  史蒂夫毛 <maochenyan@gmail.com>
  ```
 
+## [git-profile](https://github.com/dm3ch/git-profile-manager)
+
+```
+## add a work profile
+$ git profile添加工作
+姓名：姓名姓
+电子邮件：name@work-domain.com
+签名密钥：
+配置工作已成功添加
+
+## add a personal profile
+$ git profile add home -n“Name Surname”-e name@gmail.com
+Profile home已成功添加
+
+## list out our saved profiles
+$ git个人资料列表
+现有资料：
+work
+home
+
+## set the current git repository user to the home profile
+$ git profile使用工作
+## Currently there will be no output in case of success
 
 ## License
 

@@ -448,7 +448,7 @@ Community
 * [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
 * [common-lisp.net](https://common-lisp.net)
 * [lisp-lang.org](https://lisp-lang.org/)
-* [Lisp Discord Server](https://discord.gg/T5D2EAJ)
+* [Lisp Discord Server](https://discord.gg/hhk46CE)
 * [#lisp](http://log.irc.tymoon.eu/freenode/lisp) 在Freenode上 - 主要的Common Lisp IRC频道.
 
 图书馆经理
