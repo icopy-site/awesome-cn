@@ -228,7 +228,7 @@
 
 #### GTFS Realtime
 
-- [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime) .  也有 [Español](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
+- [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime). Also available in [Español](https://github.com/google/transit/tree/master/gtfs-realtime/spec/es).
 - [GTFS-realtime Autodoc](https://laidig.github.io/gtfs-rt-autodoc/index.html) - 自动生成的GTFS实时文档，由官方生成 [GTFS-realtime protocol buffer specification](https://github.com/google/transit/blob/master/gtfs-realtime/proto/gtfs-realtime.proto) 并包括一些扩展.
 
 #### GTFS Realtime Libraries & Demo Apps
@@ -266,6 +266,7 @@
 - [SoundTransit 到GTFS实时](https://github.com/bdferris/onebusaway-sound-transit-realtime) - 转换文本文件源 [Sound Transit](http://www.soundtransit.org/) 到GTFS实时
 - [Civic Transit](https://github.com/jestin/CivicTransit) - 屏幕刮擦 [KCATA’s](http://www.kcata.org/) TransitMaster WebWatch安装可生成GTFS实时源.
 - [GTFS-realtime VehiclePositions to GTFS-realtime TripUpdates (TransitClock)](http://thetransitclock.org)   -  Java应用程序，可以使用原始车辆位置并以GTFS实时等格式生成预测时间.  以前称为“过境时期”.
+- [gtfs-realtime-translators](https://github.com/Intersection/gtfs-realtime-translators)   - 基于Python的工具，用于将自定义到达API格式转换为GTFS实时.  截至2019年7月，它支持LA Metro和SEPTA.
 
 #### GTFS Realtime Utilities
 
@@ -283,7 +284,7 @@
 - [SIRI 2.0 Autodoc](https://laidig.github.io/siri-20-java/doc/) - 从（令人难以置信的）带注释的SIRI 2.0模式定义中自动生成的文档.
 - [King County Metro Legacy AVL to SIRI](https://github.com/bdferris/onebusaway-king-county-metro/tree/master/onebusaway-king-county-metro-legacy-avl-to-siri) - 基于Java的转换工具 [King County Metro's](http://metro.kingcounty.gov/) 传统的AVL格式到SIRI.
 - [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源的Android库，用于与RESTful SIRI接口进行交互，以获取实时传输数据，例如当前正在使用的数据. [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
-- [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki) - Android-compatible Plain Old Java Objects (POJOSs) used for data binding (deserliazing XML/JSON) responses for SIRI v1.3 APIs.  Used by the [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
+- [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki)   - 与Android兼容的Plain Old Java Objects（POJOS），用于SIRI v1.3 API的数据绑定（deserliazing XML / JSON）响应.  由...使用 [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - 用Python 3编写的SIRI 2.0的简单验证器.
 
 ### Other multimodal data formats

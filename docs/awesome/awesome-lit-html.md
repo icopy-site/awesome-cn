@@ -27,7 +27,7 @@
 
 - [lit-element](https://www.npmjs.com/package/lit-element) - 用于创建快速，轻量级Web组件的简单基类.
 - [@gluon/gluon](https://www.npmjs.com/package/@gluon/gluon) - 用于构建Web组件和应用程序的轻量级库.
-- [lit-any](https://github.com/wikibus/lit-any) -  Partials库，它使用lit-html从较小的模板组成视图和表单.
+- [@lit-any/core](https://github.com/hypermedia-app/lit-any-core) -  Partials库，它使用lit-html从较小的模板组成视图和表单.
 - [lit-html-element](https://www.npmjs.com/package/lit-html-element) - 使用lit-html创建Web组件的基类.
 - [fit-html](https://www.npmjs.com/package/fit-html) -  lit-html，Web组件和Redux的组合.
 - [lit-html-brackets](https://www.npmjs.com/package/lit-html-brackets) - 一个lit-html扩展，使用类似于Angular的模板语法的括号语法.
@@ -55,6 +55,7 @@
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -  LitElement的小型mixin可通过属性getter轻松更改事件.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -  LitElement扩展，提供简单的l10n开箱即用.
 - [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
+- [nextbone](https://www.npmjs.com/package/nextbone) - 使用ES类和装饰器重新设想Backbone，以便与LitElement一起使用.
 
 ## Components
 
@@ -128,6 +129,7 @@
 - [lit-ntml](https://github.com/motss/lit-ntml) - 在lit.html的启发下，Node.js中SSR的轻量级和现代模板.
 - [htm](https://github.com/developit/htm) -  Hyperscript Tagged Markup：使用标准标记模板的JSX替代方案，具有编译器支持.
 - [lite-html](https://github.com/ruphin/lite-html) -  VirtualDOM渲染引擎的现代替代品.
+- [picohtml](https://github.com/stepanvanzuriak/picohtml) - 强大的~2kB（gzip）HTML模板字符串.
 
 ## Other awesome resources
 

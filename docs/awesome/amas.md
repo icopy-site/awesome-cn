@@ -167,6 +167,7 @@
 - [KimSia Sim](https://github.com/simkimsia/ama) - 独立开发者， [blogger](https://simkimsia.com)， 的主人 [business apps agency](https://oppoin.com) .  总部设在新加坡.
 - [Jim Lesperance](https://github.com/cooljl31/ama) - 充满激情的全栈开发者，狗❤️并喜欢旅游.
 - [Greg Edelston](https://github.com/gredelston/ama)   -  Google的软件工程师.  禅宗佛教和即兴情人.
+- [Chris Otto](https://github.com/chrisotto6/ama) - 测试工程师，创建者 [VSCodeFitNesse](https://marketplace.visualstudio.com/items?itemName=chrisotto.vscodefitnesse) 和 [blogger](https://www.chrisotto.tech).
 
 #### Ask these organizations anything!
 

@@ -105,7 +105,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Maestro](https://github.com/toscanini/maestro) ：头骨： -  Maestro提供了轻松启动，协调和管理多个Docker容器的能力 [@tascanini](https://github.com/toscanini)
 - [percheron](https://github.com/ashmckenzie/percheron) ：头骨： - 用肌肉和智力组织你的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
 - [plash](https://github.com/ihucos/plash) - 容器运行和构建引擎 - 在docker中运行.
-- [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose) :skull: - Docker composition tool with idempotency features for deploying apps composed of multiple containers. By [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
+- [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull： - 具有idempotency功能的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull： - 扩展的Dockerfile构建器.  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
 - [Stacker](https://github.com/stacker/stacker-cli)   -  Docker撰写模板.  Stacker提供了一个基于Docker Compose的抽象层和一个更好的DX（开发人员体验）.
 - [Smalte](https://github.com/roquie/smalte)   - 动态配置需要在docker容器中进行静态配置的应用程序.  通过 [@roquie](https://github.com/roquie)
@@ -326,7 +326,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockerize](https://github.com/jwilder/dockerize) -  [@jwilder] [jwilder]简化在docker容器中运行应用程序的实用程序
 - [GoSu](https://github.com/tianon/gosu) - 以此特定用户身份运行此特定应用程序，然后退出管道（入口点脚本工具） [@tianon](https://github.com/tianon)
 - [is-docker](https://github.com/sindresorhus/is-docker) -  [@sindresorhus] [sindresorhus]检查进程是否在Docker容器内运行
-- [lstags](https://github.com/ivanilves/lstags) - sync Docker images across registries by [@ivanilves](https://github.com/ivanilves)
+- [lstags](https://github.com/ivanilves/lstags) - 通过注册表同步Docker镜像 [@ivanilves](https://github.com/ivanilves)
 - [NVIDIA-Docker](https://github.com/NVIDIA/nvidia-docker) -  [@NVIDIA] [nvidia]的Docker NVIDIA Container Runtime
 - [su-exec](https://github.com/ncopa/su-exec)   - 这是一个简单的工具，只需执行具有不同权限的程序.  该程序将直接执行，而不是像小孩一样运行，如su和sudo，这可以避免TTY和信号问题.  为什么重塑gosu？  这与gosu或多或少完全相同，但它只有10kb而不是1.8MB.  通过 [ncopa](https://github.com/ncopa)
 - [supercronic](https://github.com/aptible/supercronic) -  crontab兼容的作业运行器，专门设计用于在容器中运行 [@aptible](https://github.com/aptible/)
@@ -348,7 +348,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [docker-replay](https://github.com/bcicen/docker-replay)   - 从运行容器生成`docker run`命令和选项.  通过 [bcicen](https://github.com/bcicen)
 - [DockerMake](https://github.com/avirshup/DockerMake)   - 适用于复杂软件堆栈的可重现的Docker镜像构建系统.  通过 [@avirshup](https://github.com/avirshup)
 - [DockerSlim](https://github.com/docker-slim/docker-slim) 缩小胖Docker图像，创建尽可能小的图像.
-- [Dockly](https://github.com/swipely/dockly) - Dockly is a gem made to ease the pain of packaging an application in Docker by [@swipely](https://github.com/swipely/)
+- [Dockly](https://github.com/swipely/dockly) -  Dockly是一个宝石，用于减轻在Docker中打包应用程序的痛苦 [@swipely](https://github.com/swipely/)
 - [dockramp](https://github.com/jlhawn/dockramp) ：头骨： - 概念证明：客户端驱动的Docker Image Builder [@jlhawn](https://github.com/jlhawn)
 - [HPC Container Maker](https://github.com/NVIDIA/hpc-container-maker) - 从高级Python配方生成Dockerfiles，包括[@NVIDIA] [nvidia]的高性能计算组件构建块
 - [img](https://github.com/genuinetools/img) -  [@genuinetools] [genuinetools]的独立，无守护进程，无特权的Dockerfile和OCI兼容的容器映像构建器
@@ -357,6 +357,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [MicroBadger](https://microbadger.com) - 分析图像的内容并添加元数据标签
 - [packer](https://www.packer.io/docs/builders/docker.html) -  Hashicorp工具，用于构建机器映像，包括与配置管理工具（如chef，puppet，ansible）集成的docker映像
 - [portainer](https://github.com/duedil-ltd/portainer) - 用于构建Docker镜像的Apache Mesos框架 [@duedil-ltd](https://github.com/duedil-ltd)
+- [Production-Ready Python Containers :heavy_dollar_sign:](https://pythonspeed.com/products/pythoncontainer/) - 用于为Python应用程序创建生产就绪Docker镜像的模板.
 - [runlike](https://github.com/lavie/runlike) - 通过运行容器生成`docker run`命令和选项 [@lavie](https://github.com/lavie)
 - [SkinnyWhale](https://github.com/djosephsen/skinnywhale) ：头骨： -  Skinnywhale帮助你制作更小的（如兆字节）Docker容器.
 - [Smith](https://github.com/oracle/smith) - 一个Micocontainer Builder，可以在构建映像后执行多阶段构建[Oracle] [oracle]
@@ -479,7 +480,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dobi](https://github.com/dnephin/dobi)   -  Docker应用程序的构建自动化工具.  通过 [@dnephin](https://github.com/dnephin)
 - [DockerBuildManagement](https://github.com/DIPSAS/DockerBuildManagement)   -  Build Management是一个python应用程序，随pip一起安装.  该应用程序通过配置描述如何构建，测试，运行或发布容器化解决方案的单个yaml文件，可以轻松管理基于Docker的构建系统.
 - [Docker Missing Tools](https://github.com/nandoquintana/docker-missing-tools)   - 一组bash命令，用于快捷典型的docker dev-ops.  在代码存储库中创建典型帮助程序脚本（如“build.sh”和“deploy.sh”）的替代方法.  通过 [@NandoQuintana](https://github.com/nandoquintana).
-- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - 在OS X上使用Docker的高效开发环境 [@brikis98](https://github.com/brikis98)
+- [Docker osx dev](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
 - [Docker-Arch](https://github.com/Ph3nol/Docker-Arch)   - 从1个简单的YAML文件生成Web / CLI项目Dockerized开发环境.  通过 [@Ph3nol](https://github.com/ph3nol)
 - [Docker-sync](https://github.com/EugenMayer/docker-sync) - 大幅提升表现（[50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance) ）在Mac OS X / Windows和Linux上使用Docker进行开发时，将代码共享到容器中.  通过 [@EugenMayer](https://github.com/EugenMayer)
 - [docker-vm](https://github.com/shyiko/docker-vm) - 简单而透明的替代boot2docker（由Vagrant支持） [@shyiko](https://github.com/shyiko)
@@ -526,7 +527,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Azk](https://github.com/azukiapp/azk) - 在本地计算机上协调开发环境 [@azukiapp](https://github.com/azukiapp)
 - [Beluga](https://github.com/cortexmedia/Beluga)  ：skull： - 用于在单个服务器或少量服务器上部署docker容器的CLI.  通过 [@cortextmedia](https://github.com/cortexmedia)
 - [dexec](https://github.com/docker-exec/dexec) - 用Go编写的命令行界面，用于运行Docker Exec映像的代码.
-- [docker-do](https://github.com/benzaita/docker-do) - 无忧无虑的码头运行，如`env`，但对于docker来说 [@benzaita](https://github.com/benzaita)
+- [dockerized](https://github.com/benzaita/dockerized-cli) - Seamlessly execute commands in a container.
 - [Dray](https://github.com/CenturyLinkLabs/dray) -  [@CenturyLinkLabs] [centurylinklabs]管理基于容器的工作流程执行的引擎
 - [FuGu](https://github.com/mattes/fugu) -  Docker运行包装器而没有编排 [@mattes](https://github.com/mattes)
 - [Shutit](https://github.com/ianmiell/shutit) - 用于构建和维护复杂Docker部署的工具 [@ianmiell](https://github.com/ianmiell)
@@ -587,6 +588,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
 - [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition)
 - [Docker dev bookmarks](https://www.bookmarks.dev/search?q=docker) - 使用标签 [docker](https://www.bookmarks.dev/tagged/docker)
+- [Docker packaging guide for Python](https://pythonspeed.com/docker/) - 关于Python的Docker包装细节的一系列详细文章.
 
 ## Awesome Lists
 
@@ -695,7 +697,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [inspec]：https：//github.com/inspec/inspec
 [jessfraz]：https：//github.com/jessfraz
 [jpetazzo]：https：//github.com/jpetazzo
-[jwilder]：https：//github.com/jwilder
+[jwilder]: https://github.com/jwilder
 [kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https：//github.com/jwilder/nginx-proxy
@@ -704,7 +706,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [progrium]：https：//github.com/progrium
 [ramitsurana]：https：//github.com/ramitsurana
 [rancher]：https：//github.com/rancher
-[旅行社]：https：//github.com/sindresorhus/awesome
+[回家旅行]：https：//github.com/sindresorhus/awesome
 [spotify]：https：//github.com/spotify
 [vegasbrianc]：https：//github.com/vegasbrianc
 [vfarcic]：https：//github.com/vfarcic

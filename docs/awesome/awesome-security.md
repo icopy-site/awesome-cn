@@ -60,7 +60,7 @@
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - 规范的令人敬畏的蜜罐列表.
 - [HoneyPy](https://github.com/foospidy/HoneyPy)   -  HoneyPy是一种低到中等交互蜜罐.  它易于：使用插件部署，扩展功能，以及应用自定义配置.
 - [Dionaea](https://www.edgis-security.org/honeypot/dionaea/) -  Dionaea应该是一个nepenthes继承者，将python作为脚本语言嵌入，使用libemu检测shellcode，支持ipv6和tls.
-- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
+- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间，以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
 - [Amun](https://github.com/zeroq/amun) - 基于Amun Python的低交互蜜罐.
 - [Glastopf](http://glastopf.org/)   -  Glastopf是一个蜜罐，可模拟数千个漏洞，从针对Web应用程序的攻击中收集数据.  其背后的原理非常简单：回复利用Web应用程序的攻击者的正确响应.
 - [Kippo](https://github.com/desaster/kippo) -  Kippo是一个中等交互式SSH蜜罐，用于记录暴力攻击，最重要的是，攻击者执行的整个shell交互.
@@ -290,6 +290,7 @@
 ### Other Security Awesome Lists
 
 - [Android Security Awesome](https://github.com/ashishb/android-security-awesome) -  android安全相关资源的集合.
+- [Awesome ARM Exploitation](https://github.com/HenryHoggard/awesome-arm-exploitation) -  ARM开发资源的精选列表.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf) -  CTF框架，库，资源和软件的精选列表.
 - [Awesome Cyber Skills](https://github.com/joe-shenouda/awesome-cyber-skills) - 精选的黑客环境列表，您可以合法安全地训练您的网络技能.
 - [Awesome Hacking](https://github.com/carpedm20/awesome-hacking) - 精选黑客教程，工具和资源的精选列表.
@@ -301,6 +302,7 @@
 - [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response) - 事件响应资源的策划列表.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking) - 此列表适用于希望了解Web应用程序安全性但没有起点的任何人.
 - [Awesome Threat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - 策划的威胁情报资源列表.
+- [Awesome Threat Modeling](https://github.com/redshiftzero/awesome-threat-modeling) - 威胁建模资源的策划列表.
 - [Awesome Pentest Cheat Sheets](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - 收集用于测试的备忘单
 - [Awesome Industrial Control System Security](https://github.com/mpesen/awesome-industrial-control-system-security) - 与工业控制系统（ICS）安全相关的精选资源列表.
 - [Awesome YARA](https://github.com/InQuest/awesome-yara) - A curated list of awesome YARA rules, tools, and people.

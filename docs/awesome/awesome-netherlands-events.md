@@ -11,13 +11,14 @@
 
 ---
 
-想看到更多的精彩？ [Follow us on Twitter](https://twitter.com/madeawkward).
+想看到更多的精彩吗？ [Follow us on Twitter](https://twitter.com/madeawkward).
 
 
 ---
 
 ## Rotterdam
 - [Makersclub](http://makersclubrdam.com/) - 没有议程的双月休闲饮酒.
+- [EuRuKo](https://euruko2018.org/) - 关于Ruby的年度欧洲会议（2019年）.
 - [NodeSchool](http://www.meetup.com/nodeschool-rotterdam/) - 关于学习Node.js的每月聚会.
 - [Crowdsource](http://rdamsenieuwe.nl/thema/crowd-force) - 创业公司的众包创意.
 
@@ -30,6 +31,8 @@
 - [Amsterdam-rb](https://www.meetup.com/amsterdam-rb/) - 活跃的Ruby聚会，频繁的大型活动.
 - [Amsterdam-Elixir](https://www.meetup.com/Amsterdam-Elixir) - 每月Elixir聚会.
 - [Amsterdam-Rust](https://www.meetup.com/Rust-Amsterdam) -  Rust周围的每月聚会和研讨会.
+- [Lead Developers Amsterdam](https://www.meetup.com/Lead-Developers-Amsterdam) - 主要开发人员，技术主管，章节负责人和高级工程师前往领导职位. 
+- [DevOps Day Amsterdam](https://www.devopsdays.org/events/2019-amsterdam/welcome/) - 开发，运营，质量保证，信息安全，管理和领导力.
 - [React Amsterdam](https://react.amsterdam) -  React Amsterdam是一个 [Meetup group](https://www.meetup.com/React-Amsterdam/) 关于React的所有事情的全天会议（4月21日）.
 - [Webcrafters](https://webcrafters.xyz) - 双周聚会，你可以在你的sideproject上工作.
 

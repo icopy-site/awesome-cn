@@ -1,7 +1,5 @@
 <div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
 
-## This project is required a new maintainer [MAINTAINER WANTED ❤️](https://github.com/isRuslan/awesome-elm/issues/172)
-
 
 
 &gt;社区驱动的有用Elm教程，库和软件列表.

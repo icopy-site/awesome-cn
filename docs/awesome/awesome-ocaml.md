@@ -135,7 +135,7 @@
 
 -  **图书馆**：
   - [Lwt](http://ocsigen.org/lwt/) -  OCaml的协作线程库.
-  - [Async](http://janestreet.github.io/) - 与核心库一起使用的monadic并发库.
+  - [Async](https://opensource.janestreet.com/async/) - 与核心库一起使用的monadic并发库.
 -  **文章**：
   - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
   - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)

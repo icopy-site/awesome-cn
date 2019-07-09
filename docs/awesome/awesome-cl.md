@@ -12,7 +12,7 @@ _awesome_ Common Lisp库的精选列表.
 对于很棒的*软件*，请参阅 [lisp-lang.org's success stories](http://lisp-lang.org/success/) 和 [awesome-cl-software](https://github.com/azzamsa/awesome-cl-software) 名单.
 
 此处列出的所有库均可从[Quicklisp] [16]获得，除非
-stated otherwise. The ones marked with a :star: are so widespread and
+ 另有说明.  标有星号的那些：如此广泛而且
  他们成为社区标准的坚实.  你不能错
  他们.  这就是Quicklisp，BordeauxThreads和
  这样.  用a表示的库是我们喜欢和想要的库
@@ -328,6 +328,7 @@ CLOS扩展
 
 *：明星： [closer-mop](http://cliki.net/closer-mop)   - 兼容层，可纠正许多缺失或不正确的MOP功能.  [外籍] [14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std)   - 快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
+* [specialization-store](https://github.com/markcox80/specialization-store/)   - 基于类型的通用函数.  简化的BSD许可证变体.
 
 
 Iteration
@@ -445,7 +446,7 @@ Advanced
 Community
 ---------
 
-* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - subreddit about Common Lisp
+* [/r/Common_Lisp](https://www.reddit.com/r/Common_Lisp/) - 关于Common Lisp的subreddit
 * [common-lisp.net](https://common-lisp.net)
 * [lisp-lang.org](https://lisp-lang.org/)
 * [Lisp Discord Server](https://discord.gg/hhk46CE)
@@ -502,16 +503,20 @@ HTTP客户端
 *  [Dexador](https://github.com/fukamachi/dexador) - 旨在实现的HTTP客户端 [replacing Drakma](http://quickdocs.org/dexador/) ，  [带] [200].
 * [Carrier](https://github.com/orthecreedence/carrier)   - 基于cl-async和fast-http构建的轻量级异步HTTP客户端.  [MIT] [200].
 * [fast-http](https://github.com/fukamachi/fast-http) - A fast HTTP
- Common Lisp的请求/响应解析器.  [MIT] [200].
+request/response parser for Common Lisp. [MIT][200].
 
 
 HTTP服务器
 ------------
 * [Clack](https://github.com/fukamachi/clack)   - 受Rack和WSGI启发的Web应用程序环境.  [LLGPL] [8].  为所选的Web服务器提供统一的界面（默认为Hunchentoot）.  随着更多 [getting started guide](https://jasom.github.io/clack-tutorial/pages/getting-started-with-clack/).
-*：明星： [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
+*：明星： [Hunchentoot](http://weitz.de/hunchentoot/)   -  Web服务器.  [2条款BSD] [207]
 * [aserve](https://github.com/franzinc/aserve)   -  AllegroServe;  一个Web服务器.  [LLGPL] [8].
 * [wookie](https://github.com/orthecreedence/wookie)   - 异步HTTP服务器.  [外籍] [14].
 * [woo](https://github.com/fukamachi/woo)   -  libev上的快速非阻塞HTTP服务器.  [MIT] [200].
+
+### Hunchentoot plugins
+
+* [easy-routes](https://github.com/mmontone/easy-routes)   -  Hunchentoot顶部的路线处理系统.  它支持基于HTTP方法的分派，从url路径中提取的参数，装饰器，从路由名称生成的url等[MIT] [200].
 
 ### Clack plugins
 
@@ -571,7 +576,7 @@ HTML生成器和模板
 * [cl-markup](https://github.com/arielnetworks/cl-markup)   - 现代标记生成库.  [LLGPL] [8].
 * [eco](https://github.com/eudoxia0/eco)   - 快速，灵活，设计师友好的模板引擎.  [外籍] [14].
 * [cl-closure-template](https://github.com/archimag/cl-closure-template)   - 实施Google的Closure模板.  [LLGPL] [8].
-* [clip](https://shinmera.github.io/clip) - An HTML template processor where the templates are written in HTML. [Artistic License 2.0][51].
+* [clip](https://shinmera.github.io/clip)   -  HTML模板处理器，其中模板以HTML编写.  [艺术许可2.0] [51].
 
 URI动作
 ------------
@@ -585,7 +590,7 @@ URI动作
 Javascript
 ----------
 
-*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
+*：明星： [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
@@ -673,7 +678,7 @@ Others
 * [Postmaster](https://github.com/eudoxia0/postmaster)   - 简单易用的SMTP / IMAP库.  [外籍] [14].
 * [cl-selenium-webdriver](https://github.com/TatriX/cl-selenium-webdriver/) -  Selenium 2.0的绑定库.
 
-数值和科学
+Numerical and Scientific
 ========================
 
 * [numcl](https://github.com/numcl/numcl)   -  Common Lisp中的Numpy克隆.  [LGPL3] [9].
@@ -770,13 +775,13 @@ Scripting
 * [shcl](https://github.com/bradleyjensen/shcl)   -  Common Lisp中类似POSIX的shell.  [Apache2.0的] [51].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) - 允许数百个Lisp
-应用程序可以立即实现，同时允许
+applications to be realistically available at once, while allowing
  其中几个同时运行.  WCL完成了这个
 提供Common Lisp作为可以链接的Unix共享库
  Lisp和C代码可以生成高效的应用程序.  例如，
 可执行的规范“Hello World！”的Lisp版本
  程序在32位x86 Linux上只需要20k字节.  WCL也
-supports a full development environment, including dynamic file
+支持完整的开发环境，包括动态文件
  加载和调试.  GDB的修改版本用于调试WCL
 程序，为混合语言调试提供支持.
 * [replic](https://github.com/vindarel/replic/)   - 帮助者将现有代码转换为readline应用程序，重点是定义命令参数的完成.  也是一个随时可用的可执行文件，它将用户的lispy init文件转换为readline命令.  [MIT] [200].
@@ -833,7 +838,7 @@ supports a full development environment, including dynamic file
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) -  Jupyter笔记本的Common Lisp内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 * [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)   -  Jupyter的Common Lisp内核以及用于构建Jupyter内核的库，基于Robert Dodier的Maxima-Jupyter，它基于Frederic Peschanski的cl-jupyter.  [MIT] [200].
 * [Darkmatter](https://github.com/tamamu/darkmatter) - 一个
-   笔记本式的Common Lisp环境.  [MIT] [200].
+  notebook-style Common Lisp environment. [MIT][200].
 
 ## REPLs ##
 
@@ -875,7 +880,7 @@ Tools
    条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
-  一个简短的函数被调用，多少次和多少次
+  a stubbed function was called, how many times and with which
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)   - 基于QuickCheck的随机属性测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮助者
@@ -916,7 +921,7 @@ CSV
 * [chronicity](https://github.com/chaitanyagupta/chronicity)   - 自然语言日期和时间解析，用于解析“从现在开始3天”等字符串.  [BSD_3Clause] [15].
 * [local-time-duration](https://github.com/enaeher/local-time-duration) -
  持续时间处理库建立在本地时间之上.  [MIT] [200].
-* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date) - Miscellaneous date routines in Common Lisp, based around the ISO 8601 string representation. [LLGPL][8].
+* [iso-8601-date](https://gitlab.com/DataLinkDroid/iso-8601-date)   -  Common Lisp中的其他日期例程，基于ISO 8601字符串表示.  [LLGPL] [8].
 
 数据验证
 ---------------
@@ -955,7 +960,7 @@ REPL的常见任务（打印文档，打印外部符号，
 ---------------------
 
 *：明星： [uiop](http://quickdocs.org/uiop/) 和它的`pathname`包
-  (replaces [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
+  （取代 [cl-fad](http://weitz.de/cl-fad/) ）.  uiop是ASDF3的一部分
    并且因此在许多实施方式中被运送.  [MIT] [200].
 * [osicat](https://common-lisp.net/project/osicat/) - 类似POSIX的系统上的轻量级操作系统接口（目录迭代和删除，环境变量，文件权限等）[Expat] [14].
 * [pathname-utils](https://github.com/Shinmera/pathname-utils) - 一个
