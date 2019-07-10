@@ -104,6 +104,7 @@
   * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) - 与Java Hapi HL7库桥接的节点模块.
   * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) -  Redox的HL7 v2的开源版本到模式化的JSON解析器.
   * [php-fhir](https://github.com/dcarbone/php-fhir) - 用于从HL7 FHIR规范创建PHP类的工具
+  * [pynetdicom](https://github.com/pydicom/pynetdicom) -  DICOM网络协议的Python实现
   * [Python HL7](https://github.com/johnpaulett/python-hl7) - 用于将HL7版本2.x的消息解析为Python对象的简单库.
   * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) - 支持FHIR协议上的SMART的FHIR服务器的灵活Python客户端
   * [Ruby FHIR](https://github.com/fhir-crucible/fhir_client) -  Ruby中的FHIR客户端实现.

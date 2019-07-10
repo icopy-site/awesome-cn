@@ -24,11 +24,14 @@
 - [Full Page Screenshot](https://chrome.google.com/webstore/detail/full-page-screen-capture/fdpohaocaechififmbbbbbknoalclacl) - 当PrintScreen不够大时.
 - [Form Filler](https://chrome.google.com/webstore/detail/form-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) - 每次填写大型表格都会让人感到烦恼，加快虚拟数据的速度.
 - [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi) - 根据字段类型建议值.
-- [Check All](https://chrome.google.com/webstore/detail/check-all/hcajloodonmplhncgandpgjgagckkdhn)   - “全选”通常不可用.  为什么不带自己的？
+- [Check All](https://chrispederick.com/work/web-developer/)   - “全选”通常不可用.  为什么不带自己的？
 - [MyWords](https://addons.mozilla.org/en-US/firefox/addon/mywords/) - 方便的扩展，可用于保存您经常使用的常用片段（Jira表，测试数据等），以便轻松输入.
 - [Xmind](http://www.xmind.net/) - 用于记录测试的最佳（免费）Mindmapping工具.
 - [TestLink](https://github.com/TestLinkOpenSourceTRMS/testlink-code) - 开源测试用例管理系统
 - [Fluxguard](https://fluxguard.com) - 屏幕截图像​​素和DOM更改比较和回归.
+- [recheck-web](https://github.com/retest/recheck-web) - 开源变更比较工具与本地Golden Masters，git-like ignore语法和“牢不可破的selenium”测试.
+- [Kiwi TCMS](https://github.com/kiwitcms/Kiwi) - 开源测试用例管理系统
+- [Captura](https://github.com/MathewSachin/Captura) - 开源视频录制工具
 
 ### Other
 - [Colour Blindness Simulator](https://altreus.github.io/colourblind/) - 立即模拟所有类型的色盲！
@@ -76,7 +79,7 @@
 - [Awesome Cucumber](https://github.com/virajkulkarni14/awesome-cucumber) - 一个（相对较新的）精选的黄瓜和小黄瓜相关资源列表.
 
 ## Others
-- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - A collaborative playlist from testers for when the red mist descends.
+- [Testers Rage Playlist](https://play.spotify.com/user/sanchezni/playlist/5yzT0HrymwEeO8ckqgkPiW) - 来自测试人员的协作播放列表，用于红雾下降时.
 - [Testers.io](http://www.testers.io/)   - 社区懒散的测试人员讨论一切和咆哮.  大部分都是咆哮.
 - [Software Testing Conferences](http://testingconferences.org/) - 软件测试会议和研讨会的清单.
 - [Software Testing Interview Tool](https://github.com/TheJambo/ToDoInterviewTest) - 一个非常错误的待办事项清单，以促进面对面的采访.
@@ -86,7 +89,7 @@
 
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
-&gt;为了营造一个开放和热情的环境，我们就像
+>In the interest of fostering an open and welcoming environment, we as
 贡献者和维护者承诺参与我们的项目和
 我们的社区为每个人提供无骚扰的体验，无论年龄，身体
 大小，残疾，种族，性别认同和表达，经验水平，

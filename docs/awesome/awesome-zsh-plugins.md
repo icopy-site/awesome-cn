@@ -880,7 +880,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [geometryHostInfo](https://github.com/Fuzen-py/GeometryHostInfo) 添加主机信息到 [geometry](https://github.com/geometry-zsh/geometry) 主题.
 * [gideon](https://github.com/userhiren/oh-my-zsh-gideon-theme) - 灵感来自 [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme)，包括`git`装饰，IP地址，主机和路径.
 * [gimbo](https://github.com/gimbo/gimbo.zsh-theme) - 一种变体 [purepower](https://github.com/romkatv/dotfiles-public/blob/master/.purepower)  具有更多功能，一点眼睛糖果和上下文敏感的额外线条.  包括`git`状态装饰，历史编号，用户名/主机名上下文，目录状态，失败时最后一个命令的状态，以及Python virtualenv名称（如果存在）.
-* [gime](https://github.com/nralbrecht/gimezsh) - A simplistic theme for ZSH with `git` integration. Inspired by the [gitsome theme](https://github.com/mtully/gitsome).
+* [gime](https://github.com/nralbrecht/gimezsh)   - 使用`git`集成的ZSH的简单主题.  灵感来自于 [gitsome theme](https://github.com/mtully/gitsome).
 * [girazz](https://github.com/mdentremont/girazz) - 对gnzh主题的修改，将“vi”模式添加到正确的提示中.
 * [git-prompt](https://github.com/olivierverdier/zsh-git-prompt)   - 显示有关当前`git`存储库的信息.  特别是分支名称，与远程分支的区别，暂存或更改的文件数等.
 * [gitsome](https://github.com/mtully/gitsome) - 使用`git`信息的超级简单提示，针对 [Flat Terminal](https://github.com/ahmetsulek/flat-terminal) 配色方案.
@@ -944,8 +944,9 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [kumavis](https://github.com/kumavis/kumavis-zsh-theme)   -  Agnoster前叉针对日晒终端进行了优化.  需要与powerline兼容的字体.
 * [kw](https://github.com/Kwpolska/kw.zsh-theme) - 带有`git`和`hg`状态信息的彩色主题，能够将主机特定颜色添加到主机名.
 * [lagune](https://github.com/noplay/lagune) - 最小的ZSH主题.
-* [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) - 主题灵感来自robbyrussell [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme)  主题.  包括`git`状态装饰.
+* [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) - 主题灵感来自robbyrussell [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme) theme. Includes `git` status decorations.
 * [lambda-gitster](https://github.com/ergenekonyigit/lambda-gitster) - 包含`git`信息的极简主义提示.
+* [lambda-minimal](https://github.com/sohnryang/lambda-minimal-theme) - 基于lambda的简单主题，带有`git`状态和virtualenv信息.
 * [lambda-mod](https://github.com/halfo/lambda-mod-zsh-theme) - A simple ZSH theme, optimized for `git` usage.
 * [lambda-pure](https://github.com/marszall87/lambda-pure) - 基于Pure的最小ZSH主题，添加了NodeJS版本.
 * [lambda](https://github.com/halfo/lambda-mod-zsh-theme/) - 为使用兼容unicode的字体和终端应用程序的`git`用户优化的ZSH主题.

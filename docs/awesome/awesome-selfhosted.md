@@ -996,7 +996,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [Coppermine](http://coppermine-gallery.net/)   - 与各种公告板集成的多语种照片库.  包括上传批准和受密码保护的相册.  （[Demo](http://coppermine-gallery.net/demo/cpg15x/), [Source Code](https://github.com/coppermine-gallery/cpg1.6.x)）``GPL-3.0``PHP`
 - [CumulusClips](http://cumulusclips.org/)   - 您自己的视频共享网站，其中包含CumulusClips视频共享脚本.  您可以构建一个YouTube克隆，用户可以在其中上传，评分和评论视频等等.  （[Demo](https://tube.devosi.org/)）``GPL-2.0``PHP`
 - [Gallery CSS](https://benschwarz.github.io/gallery-css/)   -  Gallery.css是所有CSS.  思考：简单，可维护且易于理解的画廊，而不使用Javascript.  （[Source Code](https://github.com/benschwarz/gallery-css)）`MIT`` CSS`
-- [Lychee](http://lychee.electerious.com/)   - 开源网格和基于专辑的照片管理系统.  （[Source Code](https://github.com/electerious/Lychee)）`MIT`` PHP`
+- [Lychee](https://lycheeorg.github.io/)   - 开源网格和基于专辑的照片管理系统.  （[Source Code](https://github.com/LycheeOrg/Lychee)）`MIT`` PHP`
 - [MediaDrop](https://mediadrop.video/)   - 视频，音频和播客发布平台.  （[Source Code](https://github.com/mediadrop/mediadrop)）``GPL-3.0`Python`
 - [Mediagoblin](http://mediagoblin.org)   - 任何人都可以运行的免费软件媒体发布平台.  您可以将其视为Flickr，YouTube，SoundCloud等的分散替代品（[Source Code](https://savannah.gnu.org/projects/mediagoblin)) `AGPL-3.0` `Python`
 - [MinigalNano](https://github.com/sebsauvage/MinigalNano)   -  MinigalNano是一个非常简单的图库.  它遵循KISS原则，非常易于安装.  MinigalNano没有网络管理界面：您只需将图像上传到服务器上的照片文件夹中（使用FTP，SFTP）.  `AGPL-3.0``PHP`

@@ -1,11 +1,14 @@
 <div class="github-widget" data-repo="folkswhocode/awesome-diversity"></div>
-## Awesome Diversity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome Diversity 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://github.com/comunidad-tecnologica/comunidad-tecnologica)
 
  ：sparkles：精选的技术多样性文章，网站和资源的精选列表.  ：闪耀：
 
  该清单包含有关多样性的各种资源，更具体地说是技术的多样性，包括职位，会谈，可操作资源，会议，社交媒体倡导者等.  该清单的目标是为那些愿意在日常行动中做得更好的科技公司和社区提供快速访问多样性的信息，使科技行业成为一个更具包容性的地方，以及寻求进一步阅读主题的个人他们可能会对技术领域的多样性和公平性感兴趣.
 
-**Always work in progress.**
+**始终在进行中.**
 
 
 - [Diverse Figures In Tech History](https://github.com/folkswhocode/awesome-diversity/blob/master//FIGURES.md)
@@ -33,13 +36,13 @@
 - [Diversity Charter](http://diversitycharter.org/) - 宪章表明你关心多样性.
 - [Django Girls](https://djangogirls.org/) - 非营利组织和一个赋予和帮助妇女组织编程研讨会的社区.
 - [EquitableTech](http://equitabletech.com) - 致力于开发多样化技术的非营利组织，专注于开源.
-- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建热情，包容，多元化的文化.
+- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建欢迎，包容，多样化的文化.
 - [Fund Club](http://joinfundclub.com/) - 基金俱乐部为众多心理健康，多元化，包容性，反骚扰等举措筹集资金.
 - [Geek Girls Carrots](http://gocarrots.org) - 自2011年以来吸引女性参与科技事业.
 - [Girl Develop It](https://www.girldevelopit.com/) - 非营利组织，旨在为有兴趣学习网络和软件开发的女性提供价格合理且无判断力的机会.
 - [Girl Gamers](https://www.reddit.com/r/GirlGamers/) - 女性社区讨论游戏，极客文化中的女性以及因性别而产生的经历.
 - [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) - 免费为女孩和妇女提供技术相关课程的组织，如3-D Tinkercad设计.
-- [Girls Who Code](https://girlswhocode.com/) - 旨在缩小技术性别差距的组织.
+- [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - 为技术人员提供包容性公司列表.
 - [Hack The Hood](http://www.hackthehood.org/) - 非营利性组织，向技术职业介绍有色人种的低收入青年.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - 计划将年轻的黑人男性与他们所需的一切联系起来，成为高绩效的企业家和技术专家.
@@ -79,9 +82,9 @@
 以下是特别努力包容性和鼓励多样性的事件清单
 
 - [ACT-W National Conference](http://www.act-w.org/) - 由ChickTech主办，ACT-W National致力于为您提供职业发展，领导力，技术和多元化方面的鼓舞人心和可行的教育.
-- [AlterConf](https://alterconf.com/) -  AlterConf是一个旅行会议系列，为边缘化人群以及在技术和游戏行业中支持他们的人提供安全机会.
+- [AlterConf](https://alterconf.com/) -  AlterConf是一个旅行会议系列，为边缘化人群以及在技术和游戏行业中为他们提供支持的人提供安全的机会.
 - [Elixir With Love](https://www.elixir-with-love.com/) -  Elixir With Love是一个积极主动的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多元化的Elixir社区.
-- [Lambda World](http://www.lambda.world/)   -  Lambda World是一个功能性编程会议，其意识形态赋予了技术领域中代表性不足的少数群体.  在这种思维方式中，我们采取了一些行动，例如创建补助金以支付门票和住宿，举办包容性研讨会，以及让个人发现难以远离家人，提供旅游活动以及像婴儿床和婴儿车.
+- [Lambda World](http://www.lambda.world/)   -  Lambda World是一个功能性编程会议，其意识形态赋予了技术领域中代表性不足的少数群体.  在这种思维模式中，我们采取了一些行动，例如创建补助金以支付门票和住宿，举办包容性研讨会，以及让个人发现难以远离家人，提供旅游活动以及像婴儿床和婴儿车.
 - [DDD Europe](https://dddeurope.com)   -  Domain-Driven Design Europe专注于软件设计和建模.  他们对多样性和改善活动有着惊人的承诺.
 
 ## Ally Resources
@@ -122,7 +125,7 @@
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) -  Allyson Kapin.
 - [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - 作者：Karolina Szczur.
-- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - 由FarukAteş.
+- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - 由Faruk Ates提供.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) - 由Rachel Nabors撰写.
 - [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - 由Stephen Turban，Laura Freeman和Ben Waber
 - [Advice For Women In Tech Who Are Tired Of Talking About Women In Tech](https://blog.valerieaurora.org/2018/03/11/advice-for-women-in-tech-who-are-tired-of-talking-about-women-in-tech/) - 由瓦莱丽奥罗拉.
@@ -141,6 +144,7 @@
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -  Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - 通过
 将埃文斯和Sinduja Rangarajan.
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) - 作者：MaríaAriasdeReynaDomínguez.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -  Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - 由温迪李.
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - AndréArko.
@@ -176,7 +180,7 @@
 - [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) -  Madhushree Ghosh
 - [White Fragility In Teaching And Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) -  Mary Jo Madda
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) -  Melissa McEwen.
-- [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - 杰西亨普尔.
+- [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - 作者Jessi Hempel.
 - [Why Diverse Teams Matter](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter) -  Brad McLain，Catherine Ashcraft和Lucy Sanders.
 - [Why Doesn't My Company Get Credit For Tackling Gender Diversity?](https://medium.com/projectinclude/why-doesnt-my-company-get-credit-for-tackling-gender-diversity-b38f0c63a33b) - 作者：Ellen K. Pao.
 - [Why Don't European Girls Like Science Or Technology?](https://news.microsoft.com/europe/features/dont-european-girls-like-science-technology/) - 由微软.
@@ -201,6 +205,7 @@
 - [Diversity In Tech: Building Inclusivity](https://www.youtube.com/watch?v=XAiDY3k50D8) - 由马克辛威廉姆斯.
 - [Enforcing Your Code Of Conduct: Effective Incident Response](https://www.youtube.com/watch?v=nizfHxg8y3o) - 作者：Audrey Eschright.
 - [Going Beyong The Pipeline Problem](https://www.facebook.com/getpantheon/videos/1904727832878526/?permPage=1) - 由万神殿.
+- [Intro To Accessibility](https://www.youtube.com/watch?v=qQj4JLfQvtI) -  Eric Bailey.
 - [Software Art Thou: Debugging The Tech Industry](https://www.youtube.com/watch?v=zjjvIaYMd0o) - 莉娜莱因哈德.
 - [The Future Of STEM Depends On Diversity ](https://www.youtube.com/watch?v=-v8aDo4dV3Q) -  Nicole Cabrera Salazar.
 - [Why We Need Diversity In Technology](https://www.youtube.com/watch?v=OOQfQwxCOF0) - 由Rebekah Michael提供.

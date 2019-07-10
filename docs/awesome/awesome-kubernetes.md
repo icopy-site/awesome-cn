@@ -11,8 +11,7 @@ Awesome-Kubernetes
 [![Documentation Status](https://readthedocs.org/projects/awesome-kubernetes-by-ramitsurana/badge/?version=latest)](https://awesome-kubernetes-by-ramitsurana.readthedocs.io/en/latest/?badge=latest)
 
 
-精选kubernetes来源的精选列表
-灵感来自 [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
+灵感来自于受欢迎的kubernetes来源的精选列表 [@sindresorhus' awesome](https://github.com/sindresorhus/awesome)
 
 ![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
 
@@ -23,7 +22,7 @@ Awesome-Kubernetes
 没有这些的帮助 [amazing contributors](https://github.com/ramitsurana/awesome-kubernetes/graphs/contributors),
  建立这个令人敬畏的回购永远不可能.  非常感谢你们 ！！
 
-**感谢Gitbook.这个精彩的列表现在可以下载并以书的形式阅读.请查看 - &gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep分享!! **
+ **感谢Gitbook.这个精彩的列表现在可以下载并以书的形式阅读.  看看 - &gt; https://www.gitbook.com/book/ramitsurana/awesome-kubernetes/ .Keep Learning Keep Sharing !! **
 
  **如果您在此处看到不再维护或不适合的包或项目，请提交拉取请求以改进此文件.  谢谢！**
 
@@ -104,7 +103,7 @@ Installers
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) - 在MAC（Edge Channel）上本地运行Kubernetes和Docker
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - 在Windows PC上运行Kubernetes和Docker（Edge Channel）
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
-* [k3s](https://github.com/rancher/k3s) - Lightweight Kubernetes. Easy to install, half the memory, all in a binary less than 40mb
+* [k3s](https://github.com/rancher/k3s)   - 轻量级Kubernetes.  易于安装，内存的一半，所有二进制文件都小于40mb
 * [kind](https://kind.sigs.k8s.io) - 使用Docker容器“节点”运行本地Kubernetes集群的工具
 * [Kops](https://github.com/kubernetes/kops) - 不可知操作系统 -  AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - 不可知的骨头 - 不可知云
@@ -281,7 +280,7 @@ Installers
 
   - [DevSpace](https://github.com/covexo/devspace) - 直接在任何Kubernetes集群内构建，测试和运行代码
   - [Draft](https://draft.sh) - 开发人员使用Kubernetes创建云原生应用程序的工具
-  - [Eclipse Che](https://github.com/eclipse/che) - cloud development workspaces with SSH and multi-user support
+  - [Eclipse Che](https://github.com/eclipse/che) - 具有SSH和多用户支持的云开发工作区
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
@@ -591,7 +590,7 @@ Projects
 ## Custom Schedulers
 
 * [bashScheduler](https://github.com/rothgar/bashScheduler) - 用bash写
-* [escheduler](https://github.com/agonzalezro/escheduler) - 写在长生不老药
+* [escheduler](https://github.com/agonzalezro/escheduler) - Written in elixir
 * [firmament](https://github.com/camsas/firmament)
 * [ksched](https://github.com/coreos/ksched) - 基于实验流程的调度程序
 * [Scheduler](https://github.com/kelseyhightower/scheduler) - 基于成本的调度程序
@@ -759,7 +758,7 @@ Projects
 * [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -  Authenticaton webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供商.
 * [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) - The Kubernetes Bench for Security is a Go application that checks whether Kubernetes is deployed according to security best practices.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - 寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - 帮助构建自适应和细粒度的pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) - 为在Kubernetes上运行的pod提供不同的AWS IAM角色
@@ -800,7 +799,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
-* [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
+* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
 * [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重复的机器学习和对kubernetes的深度学习
@@ -826,7 +825,7 @@ Projects
 
 * [kompose](https://github.com/kubernetes/kompose)
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
-* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) -  Jsonnet / Kubecfg的Kubernetes对象的通用库，其中包含用于无痛覆盖的数组映射的对象.
+* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kubeval](https://github.com/garethr/kubeval)
 

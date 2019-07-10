@@ -43,6 +43,7 @@
 以下库允许使用lit-html作为渲染器，同时还提供诸如的替代方案 [HyperHTML](https://github.com/WebReflection/hyperHTML) 或JSX.
 
 - [@corpuscule/lit-html-renderer](https://www.npmjs.com/package/@corpuscule/lit-html-renderer) - 基于lit-html的渲染器 [Corpuscule](https://github.com/corpusculejs/corpuscule).
+- [@helikopter/render-lit-html](https://www.npmjs.com/package/@helikopter/render-lit-html) - 基于lit-html的渲染器 [Helicopter](https://github.com/briancavalier/helikopter).
 - [@moleculejs/molecule-lit](https://www.npmjs.com/package/@moleculejs/molecule-lit) - 基于lit-html的渲染器 [Molecule](https://github.com/Molecule-JS/MoleculeJS).
 - [@skatejs/element-lit-html](https://www.npmjs.com/package/@skatejs/element-lit-html) - 基于lit-html的渲染器 [SkateJS](https://github.com/skatejs/skatejs).
 - [icomponent-lit](https://www.npmjs.com/package/icomponent-lit) - 基于lit-html的渲染器 [icomponent](https://github.com/prasannavl/icomponent).
@@ -59,6 +60,7 @@
 
 ## Components
 
+- [Clever components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - 用于查看OpenAPI 3.0和Swagger 2.0 Spec的Web组件
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生API的企业级糖！

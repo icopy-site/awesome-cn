@@ -279,6 +279,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dry](https://github.com/moncho/dry) -  Docker容器的交互式CLI [@moncho](https://github.com/moncho)
 - [DVM](https://github.com/howtowhale/dvm) -  Docker版本管理器 [@howtowhale](https://github.com/howtowhale)
 - [goinside](https://github.com/iamsoorena/goinside)   - 轻松进入正在运行的docker容器.  通过 [@iamsoorena](https://github.com/iamsoorena)
+- [lazydocker](https://github.com/jesseduffield/lazydocker)   - 管理所有码头工人的更懒惰的方式.  一个简单的终端UI，用于docker和docker-compose，用go写入gocui库.  通过 [@jesseduffield](https://github.com/jesseduffield)
 - [MultiDocker](https://github.com/marty90/multidocker) - 创建一个安全的多用户Docker机器，将每个用户隔离到一个独立的容器中.
 - [ns-enter](https://github.com/jpetazzo/nsenter) - 没有更多的ssh，通过[@jpetazzo] [jpetazzo]输入容器的名称空间
 - [Powerline-Docker](https://github.com/adrianmo/powerline-docker) - 用于显示Docker容器状态的电力线段 [@adrianmo](https://github.com/adrianmo)

@@ -5,11 +5,11 @@
 
 &gt;精选的Web组件资源的精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 将其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
-&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -162,7 +162,7 @@
 - [haunted](https://github.com/matthewp/haunted) - 针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [reLift-HTML](https://github.com/mardix/relift-html) - 小型（3kb）视图库，允许创建Web组件并使HTML页面具有反应性.
-- [osagai](https://github.com/HenriqueLimas/osagai) - Tiny library for creating Web Components in a functional way.
+- [osagai](https://github.com/HenriqueLimas/osagai) - 以功能方式创建Web组件的小型库.
 - [Switzerland](https://github.com/Wildhoney/Switzerland) - 允许通过中间件功能以功能方式创建Web组件的库.
 - [ullr](https://github.com/aggre/ullr) - 用于使用函数式编程构建Web组件的库.
 
@@ -182,6 +182,7 @@
 - [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
 - [AMP HTML](https://github.com/ampproject/amphtml) - 用于构建具有可靠和快速性能的Web页面的Web组件库.
 - [carbon-custom-elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用Custom Elements和Shadow DOM构建的Carbon Design System的实验变体.
+- [clever-components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -  ELMS：LN为任何项目生成Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
@@ -247,6 +248,7 @@
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
+- [Vaadin Directory](https://vaadin.com/directory) - 发布，讨论和评估Web组件
 - [webcomponents.dev](https://webcomponents.dev) - 您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.

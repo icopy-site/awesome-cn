@@ -4,7 +4,7 @@
 一个“令人敬畏”的Ionic资源列表 
 
 ### Ionic
-&gt;“Ionic是一款美观的开源前端SDK，用于开发具有Web技术的混合移动应用程序.”
+&gt;“Ionic是一款美观的开源前端SDK，用于开发采用Web技术的混合移动应用程序.”
 
 ##### Current Ionic version: 
 [![npm version](https://badge.fury.io/js/ionic-framework.svg)](https://badge.fury.io/js/ionic-framework)
@@ -84,6 +84,8 @@
 * [Getting Familiar with Local Notifications in Ionic](http://www.joshmorony.com/getting-familiar-with-local-notifications-in-ionic-2/)
 * [Create a Nearby Places List with Google Maps in Ionic – Part 1](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-1/)
 * [Create a Nearby Places List with Google Maps in Ionic – Part 2](http://www.joshmorony.com/create-a-nearby-places-list-with-google-maps-in-ionic-2-part-2/)
+
+#### Payment Gateway Integrations
 
 #### Backend as a Service
 * [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)

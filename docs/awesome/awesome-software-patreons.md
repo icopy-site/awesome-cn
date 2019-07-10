@@ -30,7 +30,8 @@ _Projects以开源许可证发布._
 - [Duplicati](https://opencollective.com/duplicati) - 备份客户端
 - [Flarum](https://opencollective.com/flarum/) - 论坛平台.
 - [FreeCAD](https://salt.bountysource.com/teams/freecad) - 参数化3D建模器主要用于设计任何尺寸的现实物体.
-- [Godot Engine](https://www.patreon.com/godotengine) - 完整的3D引擎.  
+- [Godot Engine](https://www.patreon.com/godotengine) - 完整的3D引擎. 
+- [HaxeFlixel](https://www.patreon.com/haxeflixel) - 跨平台2D游戏引擎.
 - [HaxeUI](https://www.patreon.com/haxeui) - 用户界面工具包.
 - [Homebrew](https://www.patreon.com/homebrew) -  macOS的软件包管理器.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) -  D＆D桌面角色扮演游戏战斗追踪器.
@@ -47,7 +48,7 @@ _Projects以开源许可证发布._
 - [MissKey](https://www.patreon.com/syuilo) - 联邦微博平台.
 - [MuseScore](https://www.patreon.com/musescore) - 乐谱软件.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) -  NativeScript和Vue的原生移动应用程序.
-- [Neovim](https://salt.bountysource.com/teams/neovim) - Vim-fork focused on extensibility and usability.
+- [Neovim](https://salt.bountysource.com/teams/neovim) -  Vim-fork专注于可扩展性和可用性.
 - [OctoPrint](https://www.patreon.com/foosel) -  3D打印机的Web界面.
 - [OfBorg](https://www.patreon.com/ofborg) - 用于测试NixOS的工具.
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高品质的视频编辑和合成软件
@@ -123,6 +124,7 @@ _Games和游戏相关的项目._
 - [Cxbx-reloaded](https://www.patreon.com/LukeUsher) - 适用于Windows的Xbox模拟器.
 - [Libretro Team](https://www.patreon.com/libretro) -  Libretro，RetroArch和Lakka. 
 - [Lutris](https://www.patreon.com/lutris) - 游戏发射器和平台.
+- [Play!](https://www.patreon.com/jpd002) -  PS2模拟器.
 - [Rpcs3](https://www.patreon.com/Nekotekina) -  PS3模拟器.
 - [Xenia](https://www.patreon.com/xenia_project) -  Xbox 360模拟器.
 
@@ -140,7 +142,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎以及更多项目
 - [byuu](https://www.patreon.com/byuu) - 模拟器和游戏保存.
 - [Colby Pike](https://www.patreon.com/vector_of_bool) - 维护Visual Studio Code的CMake工具，创建视频教程.
-- [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
+- [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - 使用Go编程语言的工具.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) -  Uncomplicate的创建者，一系列用于AI，ML和GPU高性能计算的Clojure库.

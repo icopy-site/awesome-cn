@@ -208,7 +208,7 @@
 *加密和加密库*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
-* [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
+* [BeeCrypt](http://beecrypt.sourceforge.net/)   - 便携式快速加密库.  [LGPLv2.1 +]
 * [Botan](http://botan.randombit.net/)   -  C ++的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)   - 加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)   -  C ++ 11仅限标头的消息摘要（哈希）库.  [公共区域]
@@ -337,7 +337,7 @@
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
 * [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
 * [nana](http://nanapro.org/en-us/)   -  Nana是一个用于现代C ++风格的GUI编程的跨平台库.  [促进]
-* [NanoGui](https://github.com/wjakob/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
+* [NanoGui](https://github.com/wjakob/nanogui)   - 适用于OpenGL 3.x或更高版本的简约跨平台小部件库.  [BSD]
 * [nuklear](https://github.com/vurtun/nuklear)   - 单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)   -  Qt绘制小部件，没有进一步的依赖性.  [GPLv3的]
 * [Qwt](http://qwt.sourceforge.net/)   -  Qt Widgets for Technical Applications.  [基于LGPL]
@@ -444,13 +444,14 @@
 * [libjson](https://github.com/vincenthz/libjson)   -  C中的JSON解析器和打印机库，易于与任何模型集成.  [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/)   - 轻量级JSON库.  [？]
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap： - 通用配置库解析器[BSD-2-Clause]
+* [parson](https://github.com/kgabis/parson) -  Parson是用C编写的轻量级json库.[MIT]
 * [PicoJSON](https://github.com/kazuho/picojson)   -  C ++中的头文件，JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
 * [QJson](https://github.com/flavio/qjson)   - 基于qt的库，可将JSON数据映射到QVariant对象.  [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
-* [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
+* [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
 * [simdjson](https://github.com/lemire/simdjson)   - 极快的JSON库，可以每秒解析千兆字节的JSON.  [Apache的2.0]
-* [taoJSON](https://github.com/taocpp/json)   - 零依赖C ++标头专用JSON库.  [MIT]
+* [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
 * [YAJL](https://github.com/lloyd/yajl) -  C中的快速流式JSON解析库[ISC]
 
@@ -678,7 +679,7 @@
 * [libffi](https://github.com/libffi/libffi)   - 便携式外部功能接口库.  [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)   - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [MIT]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)   - 一个轻量级，无依赖的库，用于将Lua绑定到C ++.  [MIT]
-* [luacxx](https://github.com/dafrito/luacxx)   - 用于创建Lua绑定的C ++ 11 API.  [MIT]
+* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [nbind](https://github.com/charto/nbind)   - 神奇的标题，使您的C ++库可以从JavaScript访问.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [pybind11](https://github.com/pybind/pybind11)   -  C ++ 11和Python之间的无缝可操作性.  [BSD]
@@ -712,7 +713,7 @@
 
 * [libvpx](http://www.webmproject.org/code/)   -  VP8 / VP9 Codec SDK.  [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)   - 一个完整的跨平台解决方案，用于录制，转换和流式传输音频和视频.  [LGPL2 / GPL2]
-* [libde265](https://github.com/strukturag/libde265)   - 打开h.265视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
+* [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)   - 打开h.265视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
 * [OpenH264](https://github.com/cisco/openh264)   - 开源H.264编解码器.  [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/)   - 免费和开放的视频压缩格式.  [BSD]
@@ -720,7 +721,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp)   -  C中的“有趣”VM让我们看看这是怎么回事.  [GPLv3的]
+* [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. [GPLv3]
 * [MicroPython](https://github.com/micropython/micropython)   - 旨在将Python 3.x的实现放在微控制器上.  [MIT]
 * [TinyVM](https://github.com/jakogut/tinyvm) - 一个用纯ANSI C编写的小巧，快速，轻量级的虚拟机.[MIT]
 
@@ -759,7 +760,7 @@
 ## Miscellaneous
 *有用的库或工具不适合上述类别或可能尚未归类*
 
-* [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
+* [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
 * [Better String](http://bstring.sourceforge.net)   -  C的字符串库的替代方法，它更具功能性，并且没有缓冲区溢出溢出问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
@@ -838,7 +839,7 @@
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -  GNU调试器.
 * [LLDB](http://lldb.llvm.org/) -  LLDB调试器.
-* [Metashell](https://metashell.readthedocs.org) - An interactive template metaprogramming shell which includes the MDB metadebugger.
+* [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程shell，包含MDB元数据库.
 * [Valgrind](http://valgrind.org/) - 用于内存调试，内存泄漏检测和分析的工具.
 * [x64dbg](http://x64dbg.com/) - 用于Windows的开源x64 / x32调试器.
 
@@ -865,7 +866,7 @@
 * [rtags](https://github.com/Andersbakken/rtags) - 用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
 * [Xcode](https://developer.apple.com/xcode/) - 由Apple开发.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) -  YouCompleteMe是Vim的快速，类型，模糊搜索代码完成引擎.
-* [cquery](https://github.com/cquery-project/cquery/) - A C++ code completion engine for vscode, emacs, vim, etc.
+* [cquery](https://github.com/cquery-project/cquery/) - 用于vscode，emacs，vim等的C ++代码完成引擎.
 
 ## Build Systems
 
@@ -964,7 +965,7 @@
 ## Talks
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) ：zap： -  C ++会议.
-* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
+* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) -  Vittorio Romeo的CppCon 2014演讲.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
 
 ## Videos
@@ -972,8 +973,8 @@
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 * [Hi Def [HD]中的令人敬畏的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C） - 一套针对初学者和新程序员的详细C编程语言教程.
-* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过VoidRealms.
-* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过VoidRealms.
+* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
+* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -  TheNewBoston官方Buckys C ++编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是新波士顿的C ++编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 使用Qt教程的newboston C ++ GUI官方播放列表.
