@@ -53,7 +53,7 @@ _Projects以开源许可证发布._
 - [OfBorg](https://www.patreon.com/ofborg) - 用于测试NixOS的工具.
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高品质的视频编辑和合成软件
 - [OMP](https://www.patreon.com/openmusicplayer) - 音乐播放器.
-- [Oni](https://www.patreon.com/onivim) - 模态代码编辑器.
+- [Oni](https://www.patreon.com/onivim) - Modal code editor.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - 视频录制和直播软件
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - 用于构建信息建模的工具.
 - [openage](https://liberapay.com/SFTtech/) - 实时战略游戏引擎
@@ -112,7 +112,6 @@ _Operating Systems和Linux发行版._
 - [Parrot](https://www.patreon.com/parrot) - 与安全相关的Debian发行版. 
 - [Redox OS](https://www.patreon.com/redox_os) - 用Rust编写的操作系统.
 - [Serenity OS](https://www.patreon.com/serenityos) - 用于x86的图形化Unix操作系统，具有90年代的美学效果.
-- [Solus](https://www.patreon.com/solus) -  Linux发行版. 
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -  Ubuntu变种. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - 触控友好的Ubuntu移动版.
 
@@ -141,8 +140,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Andrius Štikonas](https://liberapay.com/stikonas) -  KDE贡献者，主要是KDE分区管理器
 - [Attogram Project](https://www.patreon.com/attogram) - 共享媒体标记器，开放式翻译引擎以及更多项目
 - [byuu](https://www.patreon.com/byuu) - 模拟器和游戏保存.
-- [Colby Pike](https://www.patreon.com/vector_of_bool) - 维护Visual Studio Code的CMake工具，创建视频教程.
-- [Daniël Klabbers](https://www.patreon.com/luceos) - Contributor to Flarum and other PHP projects.
+- [Daniël Klabbers](https://www.patreon.com/luceos) -  Flarum和其他PHP项目的贡献者.
 - [Dave Täht](https://www.patreon.com/dtaht) - 致力于改善互联网.
 - [Dominik Honnef](https://www.patreon.com/dominikh) - 使用Go编程语言的工具.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) -  Uncomplicate的创建者，一系列用于AI，ML和GPU高性能计算的Clojure库.
@@ -163,7 +161,6 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Kozec](https://www.patreon.com/kozec) -  Syncthing-GTK和SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -  FreeCAD贡献者和Debian打包者.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) -  Inkscape贡献者.
-- [Mathias Buus](https://www.patreon.com/mafintosh) - 各种JavaScript模块.
 - [Max Howell](https://www.patreon.com/mxcl) -  Homebrew的创建者，PromiseKit的维护者以及Apple平台的众多其他项目.
 - [Michal Čihař](https://liberapay.com/nijel/) -  Weblate和phpMyAdmin的贡献者.
 - [Nate Graham](https://liberapay.com/ngraham) -  KDE撰稿人.
@@ -181,12 +178,10 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Sam Hewitt](https://www.patreon.com/snwh) - 开源设计师.
 - [Scarlett Clark](https://www.patreon.com/sgclark) -  KDE撰稿人.
 - [Scott Lahteine](https://www.patreon.com/thinkyhead) -  3D打印机Marlin固件的贡献者.
-- [Sébastien Vercammen](https://www.patreon.com/sebastienvercammen) - 各种游戏相关项目.
 - [Sindre Sorhus](https://www.patreon.com/sindresorhus) - 无数的开源项目.
 - [skypjack](https://www.patreon.com/skypjack) - 诸如uvw和EnTT之类的C ++库
 - [Steve Purcell](https://www.patreon.com/sanityinc) -  MELPA lisp包存档和其他软件工具.
 - [Steven Troughton-Smith](https://www.patreon.com/steventroughtonsmith) - 各种iOS / macOS软件. 
-- [Steven Van Impe](https://www.patreon.com/svanimpe) - 各种Swift项目的作者，编辑和撰稿人. 
 - [Stjepan Glavina](https://www.patreon.com/stjepang) -  Rust的Crossbeam
 - [Tanu Kaskinen](https://www.patreon.com/tanuk), [#2](https://liberapay.com/tanuk) -  PulseAudio声音服务器贡献者. 
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) - 使用Inkscape矢量图形编辑器.
@@ -249,7 +244,6 @@ _硬件相关项目和制造商._
 - [Damien Maguire](https://www.patreon.com/evbmw) - 电动汽车项目.
 - [Espruino](https://www.patreon.com/espruino) - 用于微控制器的JavaScript解释器.
 - [Frank Buss](https://www.patreon.com/frankbuss) -  FPGA和其他硬件项目.
-- [Jantje](https://www.patreon.com/jantje) -  Sloeber插件和Arduino视频.
 - [Micah Elizabeth Scott](https://www.patreon.com/scanlime) - 视频和硬件. 
 - [Pinout.xyz](https://www.patreon.com/gadgetoid) - 各种微控制器的引脚图.
 - [Professor Abrasive](https://www.patreon.com/prof_abrasive) - 复古游戏. 

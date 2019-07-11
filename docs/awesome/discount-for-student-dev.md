@@ -63,7 +63,7 @@
 
 ## CI / CD
 
-  * [Travis CI](https://travis-ci.org) [免费]  - 私人构建（通常每月69美元），而您可以通过学生获得 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Travis CI](https://travis-ci.org) [免费]  - 私人建设（通常每月69美元），而您可以通过学生获得 [Github Student Developer Pack](https://education.github.com/pack).
   * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) [FREE / CREDIT]  - 免费学生计划，可访问最多五个私人存储库的StyleCI.
   * [Semaphore](http://semaphoreci.com/docs/education-plans.html) [免费/折扣]  - 为符合条件的学校和机构提供25％折扣的学生和教育工作者免费帐户.
 
@@ -74,7 +74,7 @@
 ## Management Systems
 
   * [Bitnami](https://bitnami.com)  [FREE]  - 只需单击即可安装云应用程序.  商业3计划（通常为49美元/月）一年可通过 [Github Student Developer Pack](https://education.github.com/pack).
-  * [Yellow Circle](http://www.yellowcircle.net) [FREE]  - 通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载平衡器和存储设备，为各级学生和教师提供免费的在线沙箱，以学习和练习IT，网络和编程技能.
+  * [Yellow Circle](http://www.yellowcircle.net) [FREE]  - 通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载平衡器和存储设备，为各级学生和教师提供免费的在线沙盒，以学习和练习IT，网络和编程技能.
   * [Orchestrate](https://orchestrate.io/)  [FREE]  -  Orchestrate是一个完整的数据库产品组合，包括通过API搜索，时间序列事件，地理定位和图形查询.  您可以在公共云（例如CenturyLink数据中心）中托管数据，也可以使用Orchestrate Enterprise的专用群集. [Github Student Developer Pack](https://education.github.com/pack) 会员可获得免费开发者帐户（通常每月49美元）.
   * [Vertabelo](http://www.vertabelo.com/)  [FREE]  - 功能齐全的数据库设计在线工具.  免费教育目的.
 
@@ -84,11 +84,11 @@
 
 ## Localization
 
-  * [Transifex](https://www.transifex.com) [FREE / CREDIT]- A localization platform for translating digital content. 1 Free Year worth $99/month available via [Github Student Developer Pack](https://education.github.com/pack).
+  * [Transifex](https://www.transifex.com)  [FREE / CREDIT]  - 用于翻译数字内容的本地化平台.  1个免费年份，每月价值99美元 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Programming Help
 
-  * [HackHands](https://hackhands.com/education/)  [CREDIT]  - 全天候实时编程帮助.  学生通过平台学分25美元 [Github Student Developer Pack](https://education.github.com/pack).
+  * [HackHands](https://hackhands.com/education/)  [CREDIT]  - 实时编程帮助全天候提供.  学生通过平台学分25美元 [Github Student Developer Pack](https://education.github.com/pack).
   * [Evernote](https://evernote.com/students)  [折扣]  - 从任何地方捕获，整理和分享笔记.  Evernote Premium全年享受50％的折扣.
 
 
@@ -135,12 +135,16 @@
 
 ## Software Packs
 
-  * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/)  [FREE / DISCOUNT]  -  Imagine是一个Microsoft程序，通过提供访问Microsoft软件的学习，教学和研究目的来支持技术教育.  目前包括SQL Server 2012,2014和2016;  DataCenter，Standard和Essentials以及Windows 8.1 Embedded Industry Pro中的Windows Server 2008 R2,2012 R2和2016.  还提供免费的Azure App服务计划（无信用卡）.  大多数学生也有资格通过他们学校获得免费的Windows 10许可证 [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
+  * [Microsoft Imagine (formerly DreamSpark)](https://imagine.microsoft.com/)  [FREE / DISCOUNT]  -  Imagine是一个微软计划，通过提供访问Microsoft软件的学习，教学和研究目的来支持技术教育.  目前包括SQL Server 2012,2014和2016;  DataCenter，Standard和Essentials以及Windows 8.1 Embedded Industry Pro中的Windows Server 2008 R2,2012 R2和2016.  还提供免费的Azure App服务计划（无信用卡）.  大多数学生也有资格通过他们学校获得免费的Windows 10许可证 [OnTheHub WebStore](http://onthehub.com/download/free-software/windows-10-education-for-students/).
   * [Microsoft Office 365 Education](https://www.microsoft.com/en-au/education/products/office/default.aspx) [FREE]  - 免费访问Microsoft Office 365软件，包括Word，Excel，PowerPoint，OneNote和团队，供学生和教师使用.
   * [Intel Tools for Students](https://software.intel.com/en-us/qualify-for-free-software/student) [免费]  - 免费使用精选的英特尔®软件开发产品，包括：英特尔®XDK，英特尔®视频专业分析器，英特尔®SystemStudio，英特尔®ParallelStudio XE Composer版和英特尔®ParallelStudio XE集群版（包括Fortran）和C / C ++）.
   * [IBM Student Developer Community](https://developer.ibm.com/students/)  [FREE]  - 轻松访问开发下一个伟大事物所需的工具.  享受IBM强大的技术和战略资源.
   * [Figure Eight](https://www.figure-eight.com/) [FREE]  -  CrowdFlower现在是图八.图八是数据科学和机器学习团队必不可少的人机对话AI平台.
   * [Exploratory](https://exploratory.io/) [FREE]  - 探索者的简单UI体验使任何人都可以使用数据科学中最新和最先进的创新来发现深刻的见解.学生注册可用于定价.
+
+## Learning Resources
+ * [Association of Computing Machinery with Digital Library](https://www.acm.org)  [折扣]  - 通常每年访问ACM及其数字图书馆的费用为198美元，但是，目前的IT和计算机科学专业学生每年只需42美元即可获得.  数字图书馆允许访问O&#39;Reilly的在线学习平台，该平台通常每月花费39美元.  O&#39;Reilly的在线学习平台就像Netflix一样，用于学习材料，包括Pearson，O&#39;Reilly，No Starch Press等出版商的书籍和视频课程.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

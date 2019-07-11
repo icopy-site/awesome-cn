@@ -293,7 +293,7 @@ YAML
 
 * [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
 *：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
-* [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
+* [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
 * [cl-algebraic-data-type](https://github.com/tarballs-are-good/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
 *：明星： [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
@@ -538,7 +538,7 @@ Web框架
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)   - 构建现代Web应用程序的框架.  [外籍] [14].
 * [ningle](https://github.com/fukamachi/ningle)   - 超级微型Web框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，一个扩展的和noob友好的ningle（更容易处理查询参数）.  [MIT] [200].
-* [radiance](https://github.com/Shirakumo/radiance)   -  Web应用程序环境和框架.  [艺术许可2.0] [51].
+* [radiance](https://github.com/Shirakumo/radiance) - A web application environment and framework . [Artistic License 2.0][51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)   - 基于Flack构建的基于Clack的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)   - 一个基于Clack构建的RESTful Web框架，其中路由只是函数，HTTP条件只是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)   - 用于编写REST Web API的库.  功能验证包括模式，日志记录，缓存，权限或身份验证注释，Swagger文档等.[MIT] [200].
@@ -775,7 +775,7 @@ Scripting
 * [shcl](https://github.com/bradleyjensen/shcl)   -  Common Lisp中类似POSIX的shell.  [Apache2.0的] [51].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) - 允许数百个Lisp
-applications to be realistically available at once, while allowing
+应用程序可以立即实现，同时允许
  其中几个同时运行.  WCL完成了这个
 提供Common Lisp作为可以链接的Unix共享库
  Lisp和C代码可以生成高效的应用程序.  例如，
@@ -838,7 +838,7 @@ applications to be realistically available at once, while allowing
 * [cl-jupyter](https://github.com/fredokun/cl-jupyter) -  Jupyter笔记本的Common Lisp内核 [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
 * [common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter)   -  Jupyter的Common Lisp内核以及用于构建Jupyter内核的库，基于Robert Dodier的Maxima-Jupyter，它基于Frederic Peschanski的cl-jupyter.  [MIT] [200].
 * [Darkmatter](https://github.com/tamamu/darkmatter) - 一个
-  notebook-style Common Lisp environment. [MIT][200].
+   笔记本式的Common Lisp环境.  [MIT] [200].
 
 ## REPLs ##
 
@@ -928,6 +928,7 @@ CSV
 
 * [ratify](https://github.com/Shinmera/ratify)   - 用于批准，验证和解析输入的实用程序集合.  [艺术许可2.0] [51].
 * [clavier](https://github.com/mmontone/clavier)   -  Common Lisp的通用验证库.  [MIT] [200].
+* [sanity-clause](https://github.com/fisxoj/sanity-clause)   -  Common Lisp的数据序列化/合同库.  模式可以是属性列表或基于类，允许在`make-instance`期间检查插槽的类型.  [LLGPL] [8].
 
 开发者工具
 -------------------
@@ -1036,7 +1037,7 @@ Other
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.
 *：明星： [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
-* [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
+* [glyphs](https://github.com/ahungry/glyphs/) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
 * [mixalot](https://github.com/ahefner/mixalot)   - 松散耦合的音频库集合.  未指定许可证.
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].

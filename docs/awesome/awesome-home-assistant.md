@@ -73,7 +73,7 @@ _有多种方式可以与家庭助理社区联系.
 ### Other channels
 
 * [Dr. ZZs](https://www.facebook.com/groups/1969622823351838/) -  Zzs博士的Facebook小组.
-* [Community Hassio Add-ons Discord](https://discord.me/hassioaddons) - Get support on the Community Hassio Add-ons.
+* [Community Hassio Add-ons Discord](https://discord.me/hassioaddons) - 获得社区Hassio附加组件的支持.
 * [ESPHome Discord](https://discord.gg/KhAMKrd) - 获得DIY ESPHome项目的支持.
 
 ## Public Configurations
@@ -98,7 +98,7 @@ _有多种方式可以与家庭助理社区联系.
 
 ## Hass.io
 
-_Hass.io是一个完整的操作系统，将负责安装和
+_Hass.io is a complete operating system that will take care of installing and
 更新Home Assistant，并从前端进行管理._
 
 * [Hass.io Beginner's Guide](https://www.youtube.com/watch?v=qnCRcGTznXs) - ：tv：关于入门的优秀分步指南（基于HassOS）.
@@ -203,7 +203,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Card Modder](https://github.com/thomasloven/lovelace-card-modder) - 为你的Lovelace卡设计风格.
 * [Bar Card](https://github.com/Gluwc/bar-card) - 可定制的动画酒吧卡.
 * [Calendar Card](https://github.com/rdehuyss/homeassistant-lovelace-google-calendar-card) - 一张不错的Google日历卡.
-* [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) -  Ccontrol一个分叉的daapd实例.
+* [forked-daapd Card](https://github.com/kalkih/forked-daapd-card) - 控制分叉的daapd实例.
 * [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) - 在一个显示两个仪表.
 * [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) - 具有高级设置的日历卡.
 * [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) - 小米吸尘器（及其他）的详细卡片.

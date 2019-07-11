@@ -10,7 +10,7 @@ $ git bla
 
  &gt; _“你不必知道一切.  你只需要知道必要时在哪里找到它.“（John Brunner）_
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
  **注意**：某些命令可能无法开箱即用.  您可能需要运行安装后脚本来添加别名或手动添加它们.
 
@@ -222,7 +222,7 @@ $ git ignore build“* .o”“* .log”
 ```
 $ git信息
 
-    ## 远程网址：
+    ## Remote URLs:
 
     origin git@github.com:sampleAuthor / git-extras.git（fetch）
     来源git@github.com:sampleAuthor / git-extras.git（推）
@@ -261,7 +261,7 @@ $ git fork LearnBoost / expect.js
 ### release
 
 ```
-$ git发布0.1.0
+$ git release 0.1.0
 ...释放0.1.0
 关于分支发展
 您的分支机构与“原产地/开发”保持同步.
@@ -427,7 +427,7 @@ $ git reset-file README.md HEAD ^
 $ git pr 226
 来自https://github.com/tj/git-extras
  * [new ref] refs / pulls / 226 / head  - &gt; pr / 226
-切换到分支&#39;pr / 226&#39;
+Switched to branch 'pr/226'
 ```
 
 ### root
@@ -529,7 +529,7 @@ $ git流量支持
 
 ```
 $ git up
-Fetching origin
+获取原点
 4.0快进......
 在上游之前改变日志
 掌握快进......
@@ -575,7 +575,7 @@ $ git fetch mislav
 $ git fetch mislav，xoebus
 &gt; git remote add mislav ...
 &gt; git remote add xoebus ...
-> git fetch --multiple mislav xoebus
+&gt; git fetch --multiple mislav xoebus
 ```
 
 ### cherry-pick
@@ -1352,7 +1352,7 @@ $ git我
 
     本地副本？  在主人？  分店名称
    ................ [合并].  EC-242
-  .....[local]....[merged]. commonjs-lazyload
+   ..... [本地] ... [合并.  CommonJS的，lazyload
   ..... [local] ............. enqueue-gpt
   ......................... defunct-ios-app-nag
   ..... [本地] ............. factor-bundles
@@ -1398,7 +1398,7 @@ $ git recursive-blame version package.json
 1) {
 2）“名字”：“有角”，
 3）“版本”：“2.0.0-alpha.42”，
-4） “分支图案”：” * 2.0&quot; .
+4）“branchPattern”：“2.0.*”，
 5）“描述”：“Angular 2  - 现代网络应用程序的Web框架”，
 6）“主页”：“https://github.com/angular/angular”，
 7）“bug”：“https://github.com/angular/angular/issues”，
@@ -1416,7 +1416,7 @@ $ git recursive-blame version package.json
 1) {
 2）“名字”：“有角”，
 3）“版本”：“2.0.0-alpha.41”，
-4） “分支图案”：” * 2.0&quot; .
+4）“branchPattern”：“2.0.*”，
 5）“描述”：“Angular 2  - 现代网络应用程序的Web框架”，
 6）“主页”：“https://github.com/angular/angular”，
 7）“bug”：“https://github.com/angular/angular/issues”，
@@ -1841,28 +1841,34 @@ $ git签名显示v1.0.0
  ```
 
 ## [git-profile](https://github.com/dm3ch/git-profile-manager)
-
+### add a work profile
 ```
-## add a work profile
 $ git profile添加工作
 姓名：姓名姓
 电子邮件：name@work-domain.com
 签名密钥：
 配置工作已成功添加
+```
 
-## add a personal profile
+### add a personal profile
+```
 $ git profile add home -n“Name Surname”-e name@gmail.com
 Profile home已成功添加
+```
 
-## list out our saved profiles
+### list out our saved profiles
+```
 $ git个人资料列表
 现有资料：
 work
 home
+```
 
-## set the current git repository user to the home profile
+### set the current git repository user to the home profile
+```
 $ git profile使用工作
-## Currently there will be no output in case of success
+```
+目前，如果成功，将没有输出
 
 ## License
 

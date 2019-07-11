@@ -75,6 +75,7 @@
 * [picostyle/picostyle](https://github.com/picostyle/picostyle) - 用于Hyperapp和Picodom的0.3 KB CSS-in-JS库.
 * [shershen08/single-spa-hyperapp](https://github.com/shershen08/single-spa-hyperapp) - 在单一spa应用程序中使用Hyperapp的包装器
 * [elisherer/hyperapp-forms](https://github.com/elisherer/hyperapp-forms) - 表单状态管理库（类似于redux-form）
+* [johnkazer/hyperapp-pug](https://github.com/johnkazer/hyperapp-pug) -  Hyperapp的包装器，它允许您使用Pug模板而不是JSX或hyperscript.
 
 ## Testing
 

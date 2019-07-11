@@ -43,9 +43,10 @@
 ### Documents
 
 - [NFO Viewer](https://github.com/otsaloma/nfoview) -  NFO文件的简单查看器，具有预设字体和编码设置的文本编辑器以及可点击的超链接支持.
-- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - Personal document manager for scanned documents and PDFs.
+- [Paperwork](https://gitlab.gnome.org/World/OpenPaperwork/paperwork) - 扫描文档和PDF的个人文档管理器.
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) - 现代GTK Python应用程序，可轻松读取ePub文件.
 - [Bookworm](https://github.com/babluboy/bookworm) - 简单，专注的电子书阅读器，在GNOME中看起来很棒.
+- [Foliate](https://github.com/johnfactotum/foliate) - 简单而现代的GTK电子书阅读器
 - [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
 - [Pdftag](https://github.com/arrufat/pdftag) -  PDF的简单元数据编辑器
 
@@ -96,6 +97,10 @@
 - [Luminance](http://craigcabrey.com/luminance/) - 飞利浦Hue客户端.
 - [razerCommander](https://github.com/GabMus/razerCommander) - 用于管理Razer外围设备的控制中心.
 
+## Third-party Apps Plugins
+
+- [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) - 使用Adwaita将Firefox集成到基于GNOME的桌面中.
+
 ## GTK Modules and Systems
 
 - [Plotinus](https://github.com/p-e-w/plotinus) -  GTK3应用程序的命令调色板.
@@ -139,6 +144,7 @@
 - [No Title Bar](https://extensions.gnome.org/extension/1267/no-title-bar/) - 合并活动栏和最大化窗口的标题栏.
 - [gTile](https://github.com/vibou/vibou.gTile) - 为GNOME Shell带来更高级的平铺.
 - [Shellshape](http://gfxmonk.net/shellshape/) -  GNOME Shell的平铺窗口扩展.
+- [PaperWM](https://github.com/paperwm/PaperWM) -  GNOME Shell的平铺可滚动窗口管理.
 
 ### Docks and Panels
 - [Dash-to-Dock](https://micheleg.github.io/dash-to-dock/) - 将GNOME Dash转换为功能齐全的Dock.
@@ -180,6 +186,10 @@
 - [Zukitwo](https://github.com/lassekongo83/zuki-themes)   -  Skeumorphic灰色主题，zuki主题套件的一部分.  （GTK，与Zuki-Shell合作开发shell主题）.
 
 ## Icons
+
+### Adwaita-based
+
+- [GNOME++](https://github.com/Bonandry/gnome-plus) - 第三方图标主题，基于GNOME 3.32的Adwaita
 
 ### Material Icons
 
@@ -246,7 +256,7 @@
 
 ### Documentations
 
-- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - 开始为GNOME做贡献的完美场所.
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
 - [GNOME Developer Center](https://developer.gnome.org/) - 包含所有官方GNOME文档.
 - [Valadoc](https://valadoc.org/) - 有关Vala的文档.
 - [GJS Documentation](http://devdocs.baznga.org/) -  JavaScript GTK绑定的文档.

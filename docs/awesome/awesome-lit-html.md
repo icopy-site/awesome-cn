@@ -64,6 +64,7 @@
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - 用于查看OpenAPI 3.0和Swagger 2.0 Spec的Web组件
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生API的企业级糖！
+- [Weightless](https://github.com/andreasbm/weightless) - 高质量的Web组件，占地面积小.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) - 出现手绘元素的集合.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -  chartjs的Web组件.
 
@@ -75,10 +76,15 @@
 
 ## IDE Plugins
 
-- [VSCode lit-html plugin](https://github.com/mjbvz/vscode-lit-html) -  lit-html模板字符串的语法高亮和IntelliSense.
-- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) - 另一个VSCode扩展，它在ES6多行字符串中添加了对HTML的语法突出显示支持.
+- [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) -  lit-html模板字符串的语法高亮和IntelliSense.
+- [vscode-lit-plugin](https://github.com/runem/vscode-lit-plugin) -  lit-html的语法高亮，类型检查和代码完成.
+- [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) -  VSCode扩展，为ES6多行字符串中的HTML提供语法突出显示.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) -  lit-html的语法高亮和缩进.
-- [TypeScript lit-html Plugin](https://github.com/Microsoft/typescript-lit-html-plugin) -  TypeScript服务器插件，为lit-html模板字符串添加IntelliSense.
+
+## TypeScript Plugins
+
+- [ts-lit-plugin](https://github.com/runem/ts-lit-plugin)   - 为lit-html添加类型检查和代码完成的插件.  由`vscode-lit-plugin`使用.
+- [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin)   -  TypeScript服务器插件，为lit-html添加IntelliSense.  由`vscode-lit-html`使用.
 
 ## Tools
 
