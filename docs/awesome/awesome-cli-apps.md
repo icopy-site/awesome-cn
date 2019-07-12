@@ -79,6 +79,7 @@
 - [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman发电机的脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [grip](https://github.com/joeyespo/grip) - 在提交之前使用GitHub样式预览markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -  ncurses中的基本转换和位操纵器.
+- [foy](https://github.com/zaaack/foy) - 轻量级通用任务运行器/构建工具.
 
 ### Text Editors
 

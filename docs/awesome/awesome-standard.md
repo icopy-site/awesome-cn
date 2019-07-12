@@ -87,6 +87,7 @@
 - **[aStandard](https://npmjs.com/package/a-standard)**  - 为babel和es7制定的更严格的标准
 - **[standard-own](https://npmjs.com/package/standard-own)**  - 标准但具有更多定制和个别规则.
 - **[standard-focus](https://www.npmjs.com/package/standard-focus)**  - 一次关注一个错误.
+- **[standa](https://www.npmjs.com/package/standa)**没有JSX规则的标准.
 
 PR欢迎！
 

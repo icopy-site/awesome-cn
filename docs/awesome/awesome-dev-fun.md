@@ -64,6 +64,7 @@
 - [is-thirteen](https://github.com/jezen/is-thirteen) - 检查数字是否等于13.
 - [Pettier](https://github.com/coleturner/pettier) - 更漂亮的配置随机化选项，并在空格和制表符之间任意切换 
 - [not-paid.js](https://github.com/kleampa/not-paid) - 为body标签添加不透明度并每天增加它，直到它们的网站完全消失. 
+- [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) - 通过调整弹出窗口大小来播放的长号. 
 
 
 ## PHP

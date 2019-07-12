@@ -153,7 +153,7 @@
 * [doorman](https://github.com/BlakeWilliams/doorman) - 使Elixir身份验证简单灵活的工具.
 * [github_oauth](https://github.com/lidashuang/github_oauth) - 一个简单的github oauth库.
 * [goth](https://github.com/peburrows/goth) - 通过Google Cloud API为服务器到服务器应用程序提供的OAuth 2.0库.
-* [guardian](https://github.com/ueberauth/guardian) - 用于Elixir应用程序的身份验证框架.
+* [guardian](https://github.com/ueberauth/guardian) - An authentication framework for use with Elixir applications.
 * [htpasswd](https://github.com/kevinmontuori/Apache.htpasswd) -  Elixir中的Apache htpasswd文件读取器/写入器.
 * [mojoauth](https://github.com/mojolingo/mojo-auth.ex) -  Elixir中的MojoAuth实现.
 * [oauth2](https://github.com/scrogson/oauth2) -  Elixir的OAuth 2.0客户端库.
@@ -511,6 +511,7 @@
 * [butler_cage](https://github.com/keathley/butler_cage) - 一个Butler插件，用于显示Nick Cage的愚蠢照片.
 * [butler_tableflip](https://github.com/keathley/butler_tableflip) - 用管家翻转桌子.
 * [changelog.com](https://github.com/thechangelog/changelog.com) - 运行使用Phoenix 1.4构建的changelog.com的CMS.
+* [coderplanets.com](https://github.com/coderplanets/coderplanets_server) - 使用Phoenix 1.4和Absinthe构建的coderplanets.com的GraphQL api.
 * [dice](https://github.com/stocks29/dice) - 在Elixir掷骰子.
 * [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) 是一种有趣，简单的方法来开始使用elixir编程语言.
 * [ex_chain](https://github.com/eljojo/ex_chain) - 简单的马尔可夫链，使用Elixir生成有趣的推文.
@@ -613,7 +614,7 @@
 * [phoenix_pubsub_redis](https://github.com/phoenixframework/phoenix_pubsub_redis) -  Phoenix框架的Redis PubSub适配器.
 * [phoenix_pubsub_vernemq](https://github.com/larshesel/phoenix_pubsub_vernemq) -  Phoenix框架的VerneMQ MQTT pubsub适配器.
 * [phoenix_slime](https://github.com/slime-lang/phoenix_slime) - 凤凰城的超薄模板支持.
-* [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth)   -  Phoenix的令牌认证解决方案.  适用于API或单页应用程序.
+* [phoenix_token_auth](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug](https://github.com/elixir-lang/plug) -  Web应用程序之间可组合模块的规范和便利.
 * [plug_accesslog](https://github.com/mneudert/plug_accesslog) - 用于写入访问日志的插件.
 * [plug_and_play](https://github.com/henrik/plug_and_play) - 设置具有较少样板的插头应用程序.
@@ -827,7 +828,7 @@
 * [Monkey](https://github.com/fabrik42/writing_an_interpreter_in_elixir) -  Elixir为类似js的Monkey编程语言实现解释器和REPL.
 
 ## Lexical analysis
-*All about lexical analyser, lexer, scanner, tokenizer or compiler.*
+*所有关于词法分析器，词法分析器，扫描仪，标记器或编译器.*
 
 * [ex_abnf](https://github.com/marcelog/ex_abnf) -  Elixir中ABNF文法的解析器.
 * [lex_luthor](https://github.com/jamesotron/lex_luthor) -  LexLuthor是Elixir中的Lexer，它使用宏来生成可重复使用的词法分析器.
@@ -962,7 +963,7 @@
 * [Woolly](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ## Networking
-*使用网络相关内容的库和工具.*
+*Libraries and tools for using network related stuff.*
 
 * [asn](https://github.com/ephe-meral/asn) - 可用于从IP映射到AS到ASN.
 * [chatter](https://github.com/dbeck/chatter_ex) - 基于UDP多播和TCP混合的安全消息广播.
@@ -1195,7 +1196,7 @@
 
 * [clamxir](https://github.com/ramortegui/clamxir) - 用于长生不老药的ClamAV包装.
 * [pwned](https://github.com/thiamsantos/pwned) - 检查您的密码是否已被确认.
-* [safetybox](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
+* [safetybox](https://github.com/aforward/safetybox) -  Elixir的面向安全的辅助函数.
 * [sobelow](https://github.com/nccgroup/sobelow) -  Phoenix Framework的以安全为中心的静态分析.
 * [ssl_verify_fun](https://github.com/deadtrickster/ssl_verify_fun.erl) - 收集Erlang的ssl验证函数.
 
@@ -1435,7 +1436,7 @@
 * [govtrack](https://github.com/walterbm/govtrack-elixir) - 简单的Elixir包装纸 [govtrack.us](https://www.govtrack.us/developers) API.
 * [gringotts](https://github.com/aviabird/gringotts) -  Elixir和Phoenix Framework的完整支付库类似于 [ActiveMerchant](https://github.com/activemerchant/active_merchant) 来自Ruby世界.
 * [hexoku](https://github.com/JonGretar/Hexoku) - 针对Elixir项目的Heroku API客户端和Heroku Mix任务.
-* [honeywell](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
+* [honeywell](https://github.com/jeffutter/honeywell-elixir) -  Honeywell Lyric，Round和Water Leak＆Freeze Detector API的客户.
 * [kane](https://github.com/peburrows/kane) - 一个 [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) -  Keen.io API客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) - 使用Google的URL Shortener API创建短URL的Elixir库.
@@ -1597,7 +1598,7 @@
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - 这本书打算成为Fred Hebert（2014）在战争时期如何成为Erlang军医的小指南.
 * [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - 打开强大的新技术之门，让您从根本上以全新的方式思考Web开发（2017）.
 * [Getting Started - Elixir](https://github.com/potatogopher/elixir-getting-started) -  Elixir入门教程（2016）的PDF，MOBI和EPUB文档.
-* [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - 语言的温和介绍，以及Simon St. Laurent和J. David Eisenberg（2013）的大量代码示例和练习.
+* [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
 * [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)   - 不要以强制性思维方式登上Elixir火车！  要充分利用函数式语言，您需要在功能上思考（2017）.
 * [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/book/cmelixir/metaprogramming-elixir) - 彻底解释如何利用Elixir的元编程功能来改进你的Elixir编码，Chris McCord（2015）.
 * [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)   - 本书展示了Rails开发人员如何从他们现有的知识中学习凤凰.  作者：Elvio Vicosa（2017）.
@@ -1697,7 +1698,7 @@
 ## Websites
 *有用的Elixir相关网站.*
 
-* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - A walk through the Elixir language in 30 exercises.
+* [30 Days of Elixir](https://github.com/seven1m/30-days-of-elixir) - 在30个练习中漫步Elixir语言.
 * [BEAM Community](http://beamcommunity.github.io/) - 从分布式系统，到Erlang VM上的强大服务器和语言设计.
 * [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - 一个主要由Elixir帖子组成的博客.
 * [Elixir Career](https://elixir.career/) -  Elixir的工作委员会和Elixir开发人员社区.

@@ -174,7 +174,7 @@
 -  ** AndFTP **  - 替代FTP客户端应用程序. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 -  **家用遥控器**  - 控制鼠标/键盘，音量，管理下载/上传文件，自定义命令，终端，将来执行任务，控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 -  ** Kore Remote **  - 控制Kodi的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
-  -  ** RasPi Check **  - 检查Pi统计数据 - 频率，温度，电压等系统信息（可用内存，运行时，磁盘状态）.  您还可以重新启动或暂停Raspberry Pi并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
+- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 -  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表（m3u，pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 -  **屏幕流镜像**  - 直接将手机屏幕流式传输到Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 -  ** Termius **  -  Pi最干净的SSH客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
@@ -196,7 +196,7 @@
 - [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - 在macOS和Raspberry Pi之间建立连接网络.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) -  Time Machine备份服务器.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) -  Node.js项目用libspotify控制Spotify＆Slack.
-- [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - Guide to setup an ADC (DC++) Hub on Raspberry Pi.
+- [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) - 在Raspberry Pi上设置ADC（DC ++）集线器的指南.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - 使用图像识别和Google的Inception识别特定对象.
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - 明确指导如何使用Docker设置集群，使用Docker Compose分发服务以及使用Letsencrypt签署有效的SSL证书.
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - 良好的初学者 - 使用Beacon技术的指南.

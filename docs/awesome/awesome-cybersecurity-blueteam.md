@@ -5,13 +5,14 @@
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是识别信息技术系统中的安全缺陷，验证安全措施的有效性以及监控系统以确保实施的防御措施在未来仍然有效的个人群体.  虽然不是排他性的，但这个列表却严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
- 您的贡献和建议是衷心的♥欢迎.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+ 您的贡献和建议是衷心的♥欢迎.  （✿◕‿◕）  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 
 ## Automation
 
 - [Autosnort](https://github.com/da667/Autosnort) - 一系列bash shell脚本，旨在在各种Linux发行版上安装功能齐全，完全更新的独立snort传感器和您选择的IDS事件审查控制台.
+- [DShell](https://github.com/USArmyResearchLab/Dshell) - 用Python编写的可扩展网络取证分析框架，可以快速开发插件，以支持解析网络数据包捕获.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -  VirusTotal.com API的PowerShell接口.
 - [censys-python](https://github.com/censys/censys-python) -  Censys REST API的Python包装器.
 - [python-dshield](https://github.com/rshipp/python-dshield) -  Internet Storm Center / DShield API的Pythonic接口.
@@ -178,7 +179,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Transport-layer defenses
 
-- [Certbot](https://certbot.eff.org/) - 免费工具，自动发布和更新TLS证书 [LetsEncrypt Root CA](https://letsencrypt.org/) 使用配置各种Web和电子邮件服务器软件的插件.
+- [Certbot](https://certbot.eff.org/) - 免费工具，自动发布和更新TLS证书 [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - 用于服务器端检测TLS拦截事件的Golang库.
 - [OpenVPN](https://openvpn.net/) - 开源，基于SSL / TLS的虚拟专用网络（VPN）.
 - [Tor](https://torproject.org/) - 审查规避和匿名覆盖网络，提供分布式，加密验证的名称服务（`.onion`域名），以增强发布者的隐私和服务可用性.
@@ -193,7 +194,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-windows#security](https://github.com/Awesome-Windows/Awesome#security) 和 [awesome-windows-domain-hardening](https://github.com/PaulSec/awesome-windows-domain-hardening).
 
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - 禁用许多有风险的Windows功能的实用程序.
-- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) attack tool when attempting to compromise a Microsoft Exchange server.
+- [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时的攻击工具.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 针对Microsoft的审核Windows主机的根证书存储区 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
 - [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - 从主机名列表中建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - 组策略对象，合规性检查和配置工具，为安全部署和维护最新版本的Windows 10提供自动且灵活的方法.

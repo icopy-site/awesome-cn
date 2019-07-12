@@ -279,6 +279,7 @@
 * [CMocka](https://cmocka.org/)   -  C的单元测试框架，支持模拟对象.  [Apache2的]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/)   -  JUnit的C ++端口.  [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html)   -  CMake测试驱动程序.  [BSD]
+* [dbg-macro](https://github.com/sharkdp/dbg-macro)   - 用于C ++的dbg（...）宏.  [MIT]
 * [Deleaker](http://www.deleaker.com) - 用于资源泄漏检测的工具，包括内存，GDI和句柄泄漏.
 * [fff](https://github.com/meekrosoft/fff)   - 用于创建假C函数的微框架.  [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)   - 用于编写和使用C ++模拟类的库.  [BSD]

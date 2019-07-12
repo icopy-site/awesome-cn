@@ -53,14 +53,15 @@
 这些不是lit-html本身的实现，而是官方LitElement基类的社区扩展.
 
 - [@apollo-elements/lit-apollo](https://www.npmjs.com/package/@apollo-elements/lit-apollo) - 与Apollo GraphQL的LitElement集成.
+- [@collaborne/lit-flexbox-literals](https://www.npmjs.com/package/@collaborne/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 - [@morbidick/lit-element-notify](https://www.npmjs.com/package/@morbidick/lit-element-notify) -  LitElement的小型mixin可通过属性getter轻松更改事件.
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -  LitElement扩展，提供简单的l10n开箱即用.
-- [lit-flexbox-literals](https://github.com/T-Knott-Mesh/lit-flexbox-literals) - 提供从中移植的LitElement CSS文字和类 [@polymer/iron-flex-layout](https://github.com/PolymerElements/iron-flex-layout).
 - [nextbone](https://www.npmjs.com/package/nextbone) - 使用ES类和装饰器重新设想Backbone，以便与LitElement一起使用.
 
 ## Components
 
 - [Clever components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
+- [Ink Components](https://github.com/ink-components/ink-components) - 用于交互式科学写作的Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
 - [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) - 用于查看OpenAPI 3.0和Swagger 2.0 Spec的Web组件
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 基于原生API的企业级糖！
