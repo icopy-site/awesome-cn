@@ -181,7 +181,7 @@
   * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
   * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
-  * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
+  * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](https://www.appveyor.com/) - 适用于Windows的CD服务，适用于开源
   * [github.com](https://github.com/ligurio/Continuous-Integration-services) - 持续集成服务的比较
   * [ftploy.com](https://ftploy.com/) -  1个无限制部署的项目
@@ -343,6 +343,7 @@
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) - 用于bootstrap，bootswatch和fontawesome.io的CDN
   * [cdnjs.com](https://cdnjs.com/) - 用于JavaScript库，CSS库，SWF，图像等的CDN
   * [jsdelivr.com](https://www.jsdelivr.com/) - 面向开发人员和网站管理员的OSS（JS，CSS，字体）的CDN，接受PR以添加更多内容
+  * [raw.githack.com](https://raw.githack.com/) -  ** rawgit.com **的现代替代品，它只使用Clouflare托管文件 
   * [developers.google.com](https://developers.google.com/speed/libraries/) -  Google Hosted Libraries是最受欢迎的开源JavaScript库的内容分发网络
   * [asp.net](https://www.asp.net/ajax/cdn/) -  Microsoft Ajax CDN托管流行的第三方JavaScript库，例如jQuery，使您可以轻松地将它们添加到Web应用程序中
   * [toranproxy.com](https://toranproxy.com/)   -  Packagist和GitHub的代理.  永远不会失败CD.  免费供个人使用，1位开发人员，不支持
@@ -483,7 +484,7 @@
    * [huboard.com](https://huboard.com/) - 针对您的GitHub问题的即时项目管理，免费开源
    * [taiga.io](https://taiga.io/) - 面向初创公司和敏捷开发人员的项目管理平台，免费开源
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
-   * [github.com](https://github.com/) — In addition to its Git storage facility, GitHub offers basic issue tracking
+   * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
    * [acunote.com](https://acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
    * [gliffy.com](https://gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
@@ -532,7 +533,7 @@
 
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
@@ -590,7 +591,7 @@
    * [analytics.google.com](https://analytics.google.com/) - 谷歌分析
    * [heapanalytics.com](https://heapanalytics.com/)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
    * [sematext.com](https://sematext.com//search-analytics) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
-   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限测试
+   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限的测试
    * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费

@@ -99,7 +99,7 @@
 * [Feeds 2](http://www.feedsapp.com/)   - 密切关注您最喜欢的网站和Mac的菜单栏中的RSS源.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nfarina/feeds）
 * [Leaf](http://www.rockysandstudio.com/) - 令人惊叹的新闻阅读器致力于帮助您享受每日新闻并轻松管理您的订阅.
 * [ReadKit](http://readkitapp.com/)   - 支持所有主要提供商的Mac read-later客户端：Instapaper，Pocket和Readability.  更重要的是，ReadKit也是一个功能齐全的RSS阅读器.
-* [Reeder 3](http://reederapp.com/mac/)   -  Feedbin，Feedly，Feed Wrangler等新闻阅读器.  ！[免费软件] [免费软件图标]
+* [Reeder 4](http://reederapp.com/)   -  Feedbin，Feedly，Feed Wrangler等新闻阅读器.  ！[免费软件] [免费软件图标]
 * [Vienna](http://viennarss.github.io/) - 适用于Mac OS X的RSS / Atom阅读器.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/ViennaRSS/vienna-rss）
 
 #### Others
@@ -189,7 +189,7 @@
 
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
-* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[Freeware] [Freeware Icon]
+* [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
 * [Katalon Studio](https://www.katalon.com)   - 简化API，Web，移动自动化测试免费.  强大的.  跨平台.  来自160个国家的自动化测试人员使用YouTube频道，GitHub存储库.！[免费软件] [免费软件图标]
 
 #### Network Analysis

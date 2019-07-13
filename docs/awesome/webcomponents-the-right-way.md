@@ -152,6 +152,7 @@
 - [Lightning Web Components](https://github.com/salesforce/lwc) - 超快速，企业级Web组件基础.
 - [Omi](https://github.com/Tencent/omi) -  4kb JavaScript中的下一代Web框架（Web组件+ JSX +代理+存储+路径更新）.
 - [Polymer](https://polymer-library.polymer-project.org) -  Polymer Project作者的原始Web组件库.
+- [readymade](https://github.com/readymade-ui/readymade) - 用于使用装饰器开发Web组件的JavaScript微库.
 - [Skate](https://github.com/skatejs/skatejs) -  Web组件库，专注于功能渲染管道和小占用空间.
 - [slim.js](https://github.com/slimjs/slim.js) - 基于现代标准的快速，强大的前端微框架.
 - [Smart Custom Element](https://github.com/HTMLElements/smart-custom-element) - 用于使用简单API创建自定义元素的UI库.

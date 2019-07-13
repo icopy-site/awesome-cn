@@ -34,7 +34,7 @@
 
 - [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - 用于构建ROS2 + OpenSplice CE容器的dockerfile. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - 用于使用OpenJDK和Android构建ros2_java的Dockerfiles. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
-- [microROS/docker](https://github.com/microROS/docker) - 与Docker相关的材料，用于设置，配置和开发微型ROS硬件.
+- [micro-ROS/docker](https://github.com/micro-ROS/docker) - 与Docker相关的材料，用于设置，配置和开发微型ROS硬件.
 
 ### Ecosystem
 
@@ -55,7 +55,7 @@
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的ROS包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的2D和3D实时同步定位和映射（SLAM）. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
 - [vision_opencv](https://github.com/ros2/vision_opencv) - 用于连接ROS2和OpenCV的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros2/vision_opencv.svg)
-- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) - Generic Keyboard Teleop for ROS2. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
+- [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -  ROS2的通用键盘Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控器. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros2/navigation) -  ROS2导航堆栈. ![navigation](https://img.shields.io/github/stars/ros2/navigation.svg)
 - [diagnostics](https://github.com/bponsler/diagnostics/tree/ros2-devel) -  ROS2原始ROS1诊断的分叉版本（仅限诊断_updater）. ![diagnostics](https://img.shields.io/github/stars/bponsler/diagnostics.svg)
@@ -67,10 +67,11 @@
 - [ros2_moving_object](https://github.com/intel/ros2_moving_object) - 根据Object Analytics“ros2_object_analytics”生成的消息寻址移动对象. ![ros2_moving_object](https://img.shields.io/github/stars/intel/ros2_moving_object.svg)
 - [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) - 用于OpenVINO™CV API的ROS2包装（人类视觉仿真）. ![ros2_openvino_toolkit](https://img.shields.io/github/stars/intel/ros2_openvino_toolkit.svg)
 - [ros2_grasp_library](https://github.com/intel/ros2_grasp_library) - 可能是掌握图书馆:). ![ros2_grasp_library](https://img.shields.io/github/stars/intel/ros2_grasp_library.svg)
-- [apriltag2_node](https://github.com/christianrauch/apriltag2_node) - 用于AprilTag检测的ROS2节点. ![apriltag2_node](https://img.shields.io/github/stars/christianrauch/apriltag2_node.svg)
+- [apriltag_ros](https://github.com/christianrauch/apriltag_ros) - 用于AprilTag检测的ROS2节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) - 将浏览器桥接到ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) -  ros2_message_filters根据过滤器需要满足的条件混合各种消息，并从ROS message_filters的ROS2移植中获取. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
 - [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -  Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+- [ros2_pytorch](https://github.com/klintan/ros2_pytorch) -  PyTorch中用于计算机视觉任务的ROS2节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -  ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) -  ROS 2和微ROS的系统模式.
 
@@ -83,14 +84,14 @@
 
 ### "System" bindings
 
-- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) -  ROS2的Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
+- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -  Node.js版本的ROS2.0客户端. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - 该项目使ROS2能够使用RIOT操作系统在微控制器上运行. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
 
 ### Driver layer
 
 - [Autoware.IO](https://www.autoware.io/) -  Autoware.IO提供异构硬件参考平台，支持将成员公司的解决方案集成到支持Autoware.Auto和Autoware.AI软件堆栈的平台上.
-- [ros2_xmlrpc](https://github.com/aarushsesto/ros2_xmlrpc) - 带有xmlrpc的ros2接口包，使用Sesto API与Sesto服务器通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc.svg)
+- [ros2_xmlrpc_interface](https://github.com/aarushsesto/ros2_xmlrpc_interface) - 带有xmlrpc的ros2接口包，使用Sesto API与Sesto服务器通信. ![ros2_xmlrpc](https://img.shields.io/github/stars/aarushsesto/ros2_xmlrpc_interface.svg)
 - [cozmo_driver_ros2](https://github.com/FurqanHabibi/cozmo_driver_ros2) -  ROS2的非官方Anki Cozmo节点. ![cozmo_driver_ros2](https://img.shields.io/github/stars/FurqanHabibi/cozmo_driver_ros2.svg)
 - [sphero_ros2](https://github.com/athackst/sphero_ros2) -  ROS2 sphero驱动程序. ![sphero_ros2](https://img.shields.io/github/stars/athackst/sphero_ros2.svg)
 - [flock2](https://github.com/clydemcqueen/flock2) -  DJI Tello无人机的ROS2驱动程序. ![flock2](https://img.shields.io/github/stars/clydemcqueen/flock2.svg)
@@ -104,7 +105,8 @@
 - [ros2_android_drivers](https://github.com/esteve/ros2_android_drivers) - 为几个Android传感器收集ROS2驱动程序. ![ros2_android_drivers](https://img.shields.io/github/stars/esteve/ros2_android_drivers.svg)
 - [ros2_intel_realsense](https://github.com/intel/ros2_intel_realsense) - 用于英特尔®实感™设备的ROS2包装器. ![ros2_intel_realsense](https://img.shields.io/github/stars/intel/ros2_intel_realsense.svg)
 - [raspicam2_node](https://github.com/christianrauch/raspicam2_node) -  Raspberry Pi相机模块的ROS2节点. ![raspicam2_node](https://img.shields.io/github/stars/christianrauch/raspicam2_node.svg)
-- [HRIM](https://github.com/erlerobot/HRIM) - 机器人模块的标准接口.
+- [ros2_track_imu](https://github.com/klintan/ros2_track_imu) - 用于TrackIMU IMU传感器的ROS2节点![ros2_track_imu](https://img.shields.io/github/stars/klintan/ros2_track_imu.svg).
+- [HRIM](https://github.com/AcutronicRobotics/HRIM) - 机器人模块的标准接口.
 - [FIROS2](https://github.com/eProsima/FIROS2) -  ROS2可集成工具，专注于ROS2和FIWARE之间的相互通信. ![FIROS2](https://img.shields.io/github/stars/eProsima/FIROS2.svg)
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) -  ROS2上的Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) - 用于MiniRys机器人的ROS2软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
@@ -123,7 +125,7 @@
 - [rclgo](https://github.com/juaruipav/rclgo) - 用于Go的ROS客户端库. ![rclgo](https://img.shields.io/github/stars/juaruipav/rclgo.svg)
 - [rclpy](https://github.com/ros2/rclpy) - 用于Python的ROS客户端库. ![rclpy](https://img.shields.io/github/stars/ros2/rclpy.svg)
 - [rcljava](https://github.com/esteve/ros2_java/tree/master/rcljava) - 用于Java的ROS客户端库. ![rcljava](https://img.shields.io/github/stars/esteve/ros2_java.svg)
-- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - ROS Client Library for Node.js. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -  Node.js的ROS客户端库. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [rclobjc](https://github.com/esteve/ros2_objc) - 用于Objective C的ROS客户端库（适用于iOS）. ![rclobjc](https://img.shields.io/github/stars/esteve/ros2_objc.svg)
 - [rclc](https://github.com/ros2/rclc) - 用于C的ROS客户端库. ![rclc](https://img.shields.io/github/stars/ros2/rclc.svg)
 - [ros2_rust](https://github.com/esteve/ros2_rust) -  ROS2的Rust绑定. ![ros2_rust](https://img.shields.io/github/stars/esteve/ros2_rust.svg)
@@ -160,7 +162,7 @@
 
 ### DDS communication mechanism implementations
 
-- [Connext DDS](https://www.rti.com/products/dds)   - 用于开发和集成IIoT系统的连接软件.  ：heavy_dollar_sign：
+- [Connext DDS](https://www.rti.com/products/connext-dds-professional)   - 用于开发和集成IIoT系统的连接软件.  ：heavy_dollar_sign：
 - [Fast-RTPS](https://github.com/eProsima/Fast-RTPS) -  RTPS标准的实施（RTPS是DDS的有线互操作性协议）. ![Fast-RTPS](https://img.shields.io/github/stars/eProsima/Fast-RTPS.svg)
 - [OpenSplice](https://github.com/ADLINK-IST/opensplice) - 实施OMG DDS标准. ![opensplice](https://img.shields.io/github/stars/ADLINK-IST/opensplice.svg) ：heavy_dollar_sign：
 - [CoreDX DDS](http://www.twinoakscomputing.com/coredx) -  Twin Oaks Computing，Inc ..的实施：heavy_dollar_sign：
@@ -181,7 +183,7 @@
 
 ## Operating systems
 
-- [NuttX](https://github.com/microROS/NuttX) -  NuttX正式用于微型ROS的叉子.
+- [NuttX](https://github.com/micro-ROS/NuttX) -  NuttX正式用于微型ROS的叉子.
 - [RIOT](https://github.com/RIOT-OS/RIOT) -  RIOT是一种实时多线程操作系统（......）实时功能，占用内存小，（......）API提供部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - 适用于多核处理器的POSIX兼容实时操作系统，有望在未来支持AUTOSAR.
 
@@ -205,6 +207,7 @@
   - [Bouncy package status](http://repo.ros2.org/status_page/ros_bouncy_default.html) -  ROS Bouncy包的状态.
   - [Ardent package status](http://repo.ros2.org/status_page/ros_ardent_default.html) -  ROS2 Ardent包的状态.
 - [ROS2 Buildfarm](http://build.ros2.org) - 构建信息（Jenkins构建农场）.
+- [ROS2 CLI cheats sheet](https://github.com/artivis/ros2_cheats_sheet/blob/master/cli/cli_cheats_sheet.pdf) -  ROS 2命令行界面的备忘单.
 
 ## Community
 
@@ -253,7 +256,7 @@
 - 性能测试 - 通信中间件性能测量工具
 - 适用于Android，iOS和通用Windows平台的ROS2：演示ROS2的可移植性，跨平台和跨语言功能
 - 在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
-- 面向ROS 2微控制器元交叉编译
+- Towards ROS 2 microcontroller meta cross-compilation
 -  Node.js客户端和Web桥为ROS 2.0做好准备
 -  RCLAda：ROS2的Ada客户端库
 
@@ -318,7 +321,7 @@ DDS安全.
 ### Robotics Capture the Flag (RCTF)
 
 - [RCTF playground](https://rctf.aliasrobotics.com/) - 在线游乐场，从您的浏览器挑战机器人安全.
-- [rctf-list](https://github.com/aliasrobotics/rctf-list) -  Robotics CTF（RCTF）场景列表.
+- [rctf-list](https://github.com/aliasrobotics/RCTF) -  Robotics CTF（RCTF）场景列表.
 - [Robot Bug Bounty Programs (RBBP)](https://www.aliasrobotics.com/bounties.htm) - 报告漏洞或漏洞并由顶级机器人公司获得报酬.
 
 ## License

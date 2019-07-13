@@ -47,10 +47,10 @@
 * [pgAdmin](https://www.pgadmin.org/) -  PostgreSQL管理和管理GUI.
 * [pgModeler](https://pgmodeler.io/) -  pgModeler是一个开源的PostgreSQL数据库建模器.
 * [pgweb](https://github.com/sosedoff/pgweb) - 用Go编写的基于Web的PostgreSQL数据库浏览器.
-* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) -  PostgreSQL的Premier Web管理工具.
+* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird](https://github.com/Paxa/postbird) - 用于macOS的PostgreSQL客户端.
 * [Postico](https://eggerapps.at/postico/) - 用于macOS的现代PostgreSQL客户端（商业软件）.
-* [PSequel](http://www.psequel.com/) - 简洁的界面，可快速执行常见的PostgreSQL任务（商业软件）.
+* [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
 * [SQL Tabs](http://www.sqltabs.com/) - 用JS编写的PostgreSQL跨平台桌面客户端.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - 用于macOS（商业软件）的简单，强大的PostgreSQL管理器.
 * [temBoard](https://github.com/dalibo/temboard) - 基于Web的PostgreSQL GUI和监控.
@@ -67,6 +67,7 @@
 * [pgcli](https://github.com/dbcli/pgcli) -  Postgres CLI具有自动完成和语法突出显示功能
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - 内置的PostgreSQL CLI客户端
 * [psql2csv](https://github.com/fphilipe/psql2csv) - 在psql中运行查询并将结果输出为CSV
+* [nancy](https://gitlab.com/postgres-ai-team/nancy) -  Nancy CLI是一种在云端或内部部署中管理自动数据库实验的统一方法
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - 基于PostgreSQL的可扩展开源数据库集群.
@@ -100,7 +101,7 @@
 * [PG\_Themis](https://github.com/cossacklabs/pg_themis) -  Postgres绑定作为加密库Themis的扩展，在PgSQL方面提供各种安全服务.
 * [zomboDB](https://github.com/zombodb/zombodb) - 通过使用Elasticsearch支持的索引实现高效全文搜索的扩展.
 * [pgMemento](https://github.com/pgMemento/pgMemento) - 使用PL / pgSQL编写的触发器和服务器端函数为PostgreSQL数据库内的数据提供审计跟踪.
-* [Timescale](https://www.timescale.com/) - 与Postgres完全兼容的开源时间序列数据库，作为扩展分发
+* [TimescaleDB](https://www.timescale.com/) - 与Postgres完全兼容的开源时间序列数据库，作为扩展分发
 * [pgTAP](https://pgtap.org/) -  Postgres的数据库测试框架
 * [HypoPG](https://github.com/HypoPG/hypopg) -  HypoPG提供假设/虚拟索引功能.
 * [pgRouting](https://github.com/pgRouting/pgrouting) -  pgRouting扩展了PostGIS / PostgreSQL地理空间数据库，以提供地理空间路由和其他网络分析功能.
@@ -125,10 +126,11 @@
 * [pgbadger](https://github.com/darold/pgbadger) - 快速PostgreSQL日志分析器.
 * [PgBouncer](http://pgbouncer.github.io) -  PostgreSQL的轻量级连接池.
 * [pgCenter](https://github.com/lesovsky/pgcenter) - 为各种统计信息，管理任务，重新加载服务，查看日志文件以及取消或终止数据库后端提供方便的界面.
-* [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - Real time replica from MySQL to PostgreSQL with optional type override migration and migration capabilities.
+* [pg_chameleon](https://github.com/the4thdoctor/pg_chameleon) - 从MySQL到PostgreSQL的实时副本，可选类型覆盖迁移和迁移功能.
 * [pgclimb](https://github.com/lukasmartinelli/pgclimb) - 将PostgreSQL中的数据导出为不同的数据格式.
 * [pgfutter](https://github.com/lukasmartinelli/pgfutter) - 以简单的方式将CSV和JSON导入PostgreSQL.
 * [PGInsight](http://pginsight.io/) -  CLI工具，可以轻松深入挖掘PostgreSQL数据库.
+* [pg_insights](https://github.com/lob/pg_insights) - 用于监控Postgres数据库运行状况的便捷SQL.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程读取和写入数据.
 * [pgMustard](https://www.pgmustard.com/) - 现代用户界面
 对于`EXPLAIN ANALYSE`，它还提供了性能提示（商业软件）.
@@ -149,6 +151,7 @@
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - 比较数据库模式的工具，具有接受一些持久性差异的能力
 * [graphql-engine](https://github.com/hasura/graphql-engine) - 通过PostgreSQL获取即时实时GraphQL API.
 * [sqlcheck](https://github.com/jarulraj/sqlcheck)   - 自动检测常见的SQL反模式.  这种反模式通常会减慢查询速度.  因此，解决这些问题将有助于加快查询速度.
+* [postgres-checkup](https://gitlab.com/postgres-ai-team/postgres-checkup) - 新一代诊断工具，允许用户收集对Postgres数据库健康状况的深入分析.
 
 ### Language bindings
 * Common Lisp： [Postmodern](https://github.com/marijnh/Postmodern)
@@ -171,7 +174,7 @@
 * [Amazon RDS for PostgreSQL](https://aws.amazon.com/rds/postgresql/) -  PostgreSQL的Amazon Relational Database Service（RDS）
 * [Azure Database for PostgreSQL](https://azure.microsoft.com/en-us/services/postgresql/)   - 用于PostgreSQL的Azure数据库提供完全托管的企业级社区PostgreSQL数据库即服务.  它提供内置HA，弹性扩展和Azure生态系统的本机集成.
 * [Citus Cloud](https://www.citusdata.com/product/cloud) - 生产等级将PostgreSQL扩展为一项服务，支持实时工作负载和分割多租户应用程序.
-* [Compose](https://www.compose.com/databases/postgresql) - PostgreSQL as a service in AWS, Google Cloud Platform, and IBM Cloud; plans range from $17.5/month for 1GB storage and scale at $12/GB beyond that. Free trial for 30 days available.
+* [Compose](https://www.compose.com/databases/postgresql)   -  PostgreSQL作为AWS，Google Cloud Platform和IBM Cloud中的服务;  1GB存储的计划范围为每月17.5美元，超过12美元/ GB的规模.  免费试用30天.
 * [Database Labs](https://www.databaselabs.io) - 在几分钟内获得一个可投入生产的云PostgreSQL服务器，每月20美元，包括备份，监控，补丁和全天候技术支持.
 * [DigitalOcean Managed Databases](https://www.digitalocean.com/products/managed-databases/)   - 完全托管的PostgreSQL数据库.  没有免费的计划.  起价15美元/月.  具有时间点恢复的每日备份.  具有自动故障转移功能的备用节点.
 * [ElephantSQL](https://www.elephantsql.com/)   - 提供数据库，包括用于较小项目的共享服务器和概念证明，以及企业级多服务器设置.  免费计划最多5个数据库，每个20 MB.

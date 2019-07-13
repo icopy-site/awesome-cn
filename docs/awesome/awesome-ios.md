@@ -413,7 +413,7 @@
 * [Shallows](https://github.com/dreymonde/Shallows) - 您的轻量级持久性工具箱.
 * [StorageManager](https://github.com/iAmrSalman/StorageManager) - 使用FileManager作为数据库的安全简便方法.
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -  RealmSwift的安全且简单的包装.
-* [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - An easy and very light way to store and retrieve -reasonable amount- of Codable objects, in a couple lines of code!
+* [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 使用几行代码存储和检索合理数量的Codable对象的简单而轻松的方法！
 * [PropertyKit](https://github.com/metasmile/PropertyKit) - 适用于iOS，macOS和tvOS的Protocol-First，Type和Key-Safe Swift属性
 * [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - 使用几行代码将Codable对象存储和检索到各种持久层！
 * [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) - 优雅的库，用于管理Swift中视图和模型之间的交互.
@@ -548,7 +548,7 @@
 * [FileExplorer](https://github.com/Augustyniak/FileExplorer) - 强大的iOS文件浏览器，允许用户选择和删除文件和/或目录.
 * [ZIPFoundation](https://github.com/weichsel/ZIPFoundation) -  Swift中轻松的ZIP处理
 * [AppFolder](https://github.com/dreymonde/AppFolder) -  AppFolder是一个轻量级框架，可让您在应用程序容器内设计友好的，强类型的目录.
-* [ZipZap](https://github.com/pixelglow/ZipZap) - 适用于iOS，macOS和tvOS的zip文件I / O库.
+* [ZipZap](https://github.com/pixelglow/ZipZap) - zip file I/O library for iOS, macOS and tvOS.
 * [AMSMB2](https://github.com/amosavian/AMSMB2) - Swift framework to connect SMB 2/3 shares for iOS.
 
 ## Functional Programming
@@ -565,6 +565,7 @@
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions)   - 带有可选类型扩展的Swiftμframework.  并[e]
 * [Argo](https://github.com/thoughtbot/Argo) -  Swift的功能JSON解析库
 * [Runes](https://github.com/thoughtbot/Runes) -  Swix操作符用于Swift中的monadic函数.
+* [Bow](https://github.com/bow-swift/bow) -  Swift的类型化函数编程伴随库.
 
 ## Games
 * [Sage](https://github.com/nvzqz/Sage) -  Swift的跨平台国际象棋库.
@@ -766,7 +767,7 @@
 * [TinyConstraints](https://github.com/roberthein/TinyConstraints) - 使汽车布局更甜美，供人类使用的语法糖.
 * [MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)   -  MyLayout是一个由Objective-C实现的强大的iOS UI框架.  它将功能与Android Layout，iOS AutoLayout，SizeClass，HTML CSS float和flexbox以及bootstrap集成在一起.
 * [SugarAnchor](https://github.com/ashikahmad/SugarAnchor)   - 相同的原生NSLayoutAnchor和NSLayoutConstraints;  但具有更自然和易读的语法糖.  Typesafe，简洁易读.
-* [Anchors](https://github.com/onmyway133/Anchors) - 适用于iOS 8+和macOS 10.10+的声明式，可扩展，强大的自动布局
+* [Anchors](https://github.com/onmyway133/Anchors) - Declarative, extensible, powerful Auto Layout for iOS 8+ and macOS 10.10+
 * [PinLayout](https://github.com/layoutBox/PinLayout)   - 快速Swift视图布局，无需自动布局.  没有魔法，纯粹的代码，完全控制和快速的炽热.  简洁的语法，直观，可读和可链接.  [式IO / MACOS / tvOS] 
 * [SnapLayout](https://github.com/sp71/SnapLayout)   - 简洁的自动布局API，可以轻松更新现有约束，从而实现程序化约束.  并[e]
 * [Cupcake](https://github.com/nerdycat/Cupcake) - 为iOS创建和布局UI组件的简便方法.
@@ -1113,7 +1114,7 @@
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) - 适用于Mac和iOS的异步套接字网络库.
 * [Siesta](https://bustoutsolutions.github.io/siesta/)   -  RESTful资源的优雅抽象，解决有状态的混乱.  基于回调和委托的网络的替代方案.
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用Swift重写了用Swift重写的Apple的Reachability
-* [OctopusKit](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke RESTful web service APIs.
+* [OctopusKit](https://github.com/icoco/OctopusKit) - 用于调用RESTful Web服务API的简单但优雅的解决方案.
 * [Moya](https://github.com/Moya/Moya) - 用Swift编写的网络抽象层.
 * [TWRDownloadManager](https://github.com/chasseurmic/TWRDownloadManager) - 基于NSURLSession的现代下载管理器，用于处理多个文件的异步下载，管理和持久性.
 * [HappyDns](https://github.com/qiniu/happy-dns-objc)   - 一个Dns库，支持自定义DNS服务器，dnspod httpdns.  仅支持A记录.
@@ -1191,7 +1192,7 @@
 ### Push Notifications
 
 * [Orbiter](https://github.com/mattt/Orbiter) - 推送iOS通知注册.
-* [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
+* [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - 自动生成和续订推送通知配置文件.
 * [Knuff](https://github.com/KnuffApp/Knuff) -  Apple推送通知服务（APNS）的调试应用程序.
 * [FBNotifications](https://github.com/facebook/FBNotifications) -  Facebook Analytics应用程序内通知框架.
 * [NWPusher](https://github.com/noodlewerk/NWPusher) - 使用Apple推送通知服务（APN）的macOS和iOS应用程序和框架
@@ -1408,6 +1409,7 @@
 * [RxAlamoRecord](https://github.com/Daltron/RxAlamoRecord) 结合AlamoRecord和RxSwift库的强大功能，创建一个网络层，使得与API的交互比以往任何时候都更容易被动.
 * [CwlSignal](https://github.com/mattgallagher/CwlSignal) 用于反应式编程的Swift框架.
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) - 可以订阅的可观察序列的轻量级实现.
+* [Bindy](https://github.com/MaximKotliar/Bindy) - 简单，轻量级的快速绑定，支持KVO和易于阅读的语法.
 
 ### React-Like
 * [Render](https://github.com/alexdrone/Render) -  Swift和UIKit a la React.
@@ -1514,7 +1516,7 @@
 * [SAPinViewController](https://github.com/siavashalipour/SAPinViewController)   - 简单易用的默认iOS PIN屏幕.  这个简单的库允许您绘制完全可自定义的PIN屏幕，与iOS默认PIN视图相同.  我创建这个库的灵感来自THPinViewController，但SAPinViewController完全在Swift中实现.  此外，创建此库的主要目的是提供简单，易用且完全可自定义的PIN屏幕.
 * [TOPasscodeViewController](https://github.com/timoliver/TOPasscodeViewController) - 适用于iOS的模态密码输入和验证视图控制器
 * [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - 使用BiometricAuthentication在您的应用中使用Apple FaceID或TouchID身份验证
-* [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - 可自定义的验证码textField，用于电话验证码，密码等.
+* [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - A customizable verification code textField for phone verification codes, passwords etc.
 * [🗄 Vault](https://github.com/umbri/Vault) - 用于密码和其他敏感数据的简单安全容器
 * [Virgil SWIFT PFS SDK](https://github.com/VirgilSecurity/virgil-sdk-pfs-x) - 一个SDK，允许开发人员将完美前向保密（PFS）技术添加到他们的数字解决方案中，以保护以前拦截的流量不被解密，即使主私钥被泄露.
 * [Virgil Security Objective-C/Swift SDK](https://github.com/VirgilSecurity/virgil-sdk-x) - 一个SDK，允许开发人员为其现有的数字解决方案添加完整的端到端安全性，以符合HIPAA和GDPR标准，并使用Virgil API.
@@ -1674,7 +1676,7 @@
 * [Specta](https://github.com/specta/specta) -  Objective-C＆Cocoa的轻量级TDD / BDD框架.
 * [Quick](https://github.com/Quick/Quick) -  Swift和Objective-C的行为驱动开发框架.
 * [XcodeCoverage](https://github.com/jonreid/XcodeCoverage) -  Xcode项目的代码覆盖率.
-* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs)   - 轻松存根网络请求！  使用虚假网络数据和自定义响应时间，响应代码和标题测试您的应用程序！
 * [Dixie](https://github.com/Skyscanner/Dixie) -  Dixie是一个用于改变对象行为的开源Objective-C测试框架.
 * [gh-unit](https://github.com/gh-unit/gh-unit) -  Objective-C的测试框架.
 * [Nimble](https://github.com/Quick/Nimble) -  Swift和Objective-C的Matcher框架
@@ -2247,7 +2249,7 @@
 * [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) - 易于使用的下拉菜单，支持图像.
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - 动画，多选项菜单按钮.
 * [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift)   -  iOS幻灯片菜单查看基于Google+，iQON，Feedly，Ameba iOS应用程序.  它是用纯粹的Swift编写的.
-* [SideMenu](https://github.com/jonkykong/SideMenu)   - 受Facebook欢迎的Swift简单侧边菜单控制.  左右两侧.  大量的自定义和动画选项.  可以在Storyboard中实现，无需代码.
+* [SideMenu](https://github.com/jonkykong/SideMenu) - Simple side menu control in Swift inspired by Facebook. Right and Left sides. Lots of customization and animation options. Can be implemented in Storyboard with no code.
 * [CategorySliderView](https://github.com/cemolcay/CategorySliderView)   - 用于选择类别的滑块视图.  添加任何UIView类型作为类别项视图.  完全可定制
 * [MKDropdownMenu](https://github.com/maxkonovalov/MKDropdownMenu) - 适用于iOS的下拉菜单，具有许多可自定义的参数以满足任何需求.
 * [ExpandingMenu](https://github.com/monoqlo/ExpandingMenu) -  ExpandingMenu是用Swift编写的iOS菜单按钮.
@@ -2330,7 +2332,7 @@
 * [MIBlurPopup](https://github.com/MarioIannotta/MIBlurPopup) -  MIBlurPopup让您创建具有模糊背景的惊人弹出窗口.
 * [LNPopupController](https://github.com/LeoNatan/LNPopupController) - 用于将视图控制器呈现为其他视图控制器弹出窗口的框架，非常类似于Apple Music和Podcasts应用程序.
 * [PopupWindow](https://github.com/shin8484/PopupWindow) -  PopupWindow是一个简单的Popup，在Swift中使用另一个UIWindow.
-* [SHPopup](https://github.com/iamshezad/SHPopup) - SHPopup is a simple lightweight library for popup view.
+* [SHPopup](https://github.com/iamshezad/SHPopup) -  SHPopup是一个用于弹出视图的简单轻量级库.
 * [Popover](https://github.com/corin8823/Popover)   -  Popover是一个像Facebook应用程序一样的气球库.  它是用纯粹的快速写的.
 * [SwiftEntryKit](https://github.com/huri000/SwiftEntryKit)   - 适用于iOS的高度可定制的弹出窗口，警报和横幅演示者.  它提供各种预设，并以纯Swift编写.
 * [FFPopup](https://github.com/JonyFang/FFPopup) - ⛩FFPopup是一个轻量级库，用于将自定义视图显示为弹出窗口.
@@ -2530,7 +2532,7 @@
 * [GenericDataSource](https://github.com/GenericDataSource/GenericDataSource) - 用于Swift中UITableView / UICollectionView的数据源实现的通用小型可重用组件.
 * [PagingView](https://github.com/KyoheiG3/PagingView) - 无限分页，智能自动布局，类似于UIKit的接口.
 * [DataSources](https://github.com/muukii/DataSources)   - 类型安全的数据驱动的List-UI框架.  （我们也可以使用ASCollectionNode）
-* [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个UICollectionViews拖放数据.
+* [KDDragAndDropCollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging & Dropping data across multiple UICollectionViews.
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) - 在集合视图部分之间快速滚动的组件
 * [CollectionKit](https://github.com/SoySauceLab/CollectionKit) - 用于构建可重用数据驱动集合组件的现代Swift框架.
 * [AZCollectionViewController](https://github.com/AfrozZaheer/AZCollectionViewController) - 在CollectionView中将分页与虚拟视图集成的简便方法，可在几分钟内完成Instagram发现.
@@ -2616,7 +2618,7 @@ CollectionView，在几分钟内发现Instagram.
 * [RPFloatingPlaceholders](https://github.com/iwasrobbed/RPFloatingPlaceholders) - 带有占位符的UITextField和UITextView子类，当使用文本填充字段时，占位符将更改为浮动标签.
 * [CurrencyTextField](https://github.com/richa008/CurrencyTextField) -  UITextField自动格式化文本以货币格式显示.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation) -  UITextField-Navigation为您的UITextFields键盘添加了next，previous和done按钮.[e]
-* [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield
+* [AutoCompleteTextField](https://github.com/nferocious76/AutoCompleteTextField) - 自动完成建议文本字段
 * [PLCurrencyTextField](https://github.com/nonameplum/PLCurrencyTextField) - 以正确方式支持货币的UITextField.
 * [PasswordTextField](https://github.com/PiXeL16/PasswordTextField) - 带有可切换图标的自定义TextField，用于显示或隐藏密码并实施良好的密码策略
 * [AnimatedTextInput](https://github.com/jobandtalent/AnimatedTextInput) -  iOS的动画UITextField和UITextView替代品
@@ -2712,7 +2714,7 @@ CollectionView，在几分钟内发现Instagram.
  * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) - 此iOS框架允许设置在应用程序内，或者不在“设置”应用程序中.
  * [MMWormhole](https://github.com/mutualmobile/MMWormhole) -  iOS应用和扩展之间的消息传递.
  * [DefaultStringConvertible](https://github.com/jessesquires/DefaultStringConvertible) -  Swift类型的默认CustomStringConvertible实现[e]
- * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) -  FluxCapacitor可通过协议和类型轻松实现Flux设计模式.
+ * [FluxCapacitor](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias.
  * [VTAcknowledgementsViewController](https://github.com/vtourraine/VTAcknowledgementsViewController) - 准备使用CocoaPods的“Acknowledgements”/“Licenses”/“Credits”视图控制器.
  * [Closures](https://github.com/vhesener/Closures) -  UIKit和Foundation的Swifty闭包.
  * [WhatsNew](https://github.com/BalestraPatrick/WhatsNew) - 在应用更新后展示类似于Pages，Numbers和Keynote的新功能
@@ -3059,6 +3061,7 @@ CollectionView，在几分钟内发现Instagram.
 * [LearnAppMaking](https://learnappmaking.com) -  LearnAppMaking帮助应用开发者构建，推出和营销iOS应用.
 * [iOS Development with Swift in Motion ](https://www.manning.com/livevideo/ios-development-with-swift-lv) - 这个现场视频课程锁定语言基础知识，然后提供有趣的例子和练习，以建立和练习您的知识和技能.
 * [Conferences.digital](https://github.com/zagahr/Conferences.digital) - 在本机macOS应用中观看会议视频.
+* [DaddyCoding](https://www.daddycoding.com) -  iOS教程，从初学者到高级
 
 ### iOS UI Template
 * [iOS UI Design Kit](https://www.invisionapp.com/inside-design/design-resources/tethr/)

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="dustinspecker/awesome-eslint"></div>
 ## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
+[<img src="https://eslint.org/assets/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
 &gt;一系列令人敬畏的ESLint配置，插件等.
 

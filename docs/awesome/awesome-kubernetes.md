@@ -483,7 +483,7 @@ Projects
 * [Instana](https://instana.com)
 * [kail](https://github.com/boz/kail)   -  Kubernetes日志查看器.  Streams从所有匹配pod的所有容器中记录.
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
-* [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubedash](https://github.com/kubernetes/kubedash) -  **不推荐使用的**存储库已存档且只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
 * [Kubespy](https://github.com/pulumi/kubespy) - 由Pulumi提供实时观察Kubernetes资源的工具.
 * [Kubetail](https://github.com/johanhaleby/kubetail)

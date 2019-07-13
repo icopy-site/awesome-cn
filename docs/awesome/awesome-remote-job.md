@@ -169,6 +169,7 @@
   1. [Remotees](https://remotees.com/)
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
+  1. [Remote People](https://remotepeople.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Slasify](https://slasify.com/en/) - 包括亚洲的远程技术，艺术/设计和营销机会，全球薪资服务. 
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
