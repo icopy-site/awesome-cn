@@ -54,7 +54,7 @@
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 &gt;玩家都是作为盟友开始探索充满危险，陷阱，物品和预兆的鬼屋.
-&gt;随着玩家前往大厦的新部分，随机选择房间瓷砖并放置在游戏板上.
+> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
 &gt;最终“出没”开始，一个玩家通常“背叛”其他玩家并占据鬼魂，怪物或其他敌人的一面，而剩下的玩家合作打败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
@@ -84,7 +84,7 @@
  |  2  -  6 |  8 |  10-20米|
 
 ### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
- &gt;建立一个独角兽军队.  背叛你的朋友.  独角兽现在是你的朋友.
+> Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
@@ -257,6 +257,16 @@
 | ------: | -------: | -----: |
  |  2 |  5 |  5-120米|
 
+### [Commonspoly](https://commonspoly.cc/)
+
+ &gt; Commonspoly是一个有趣的策略和回合制RPG游戏，游戏玩家共同努力保护他们的世界不被投机者接管.  这场比赛就像在大富翁游戏中所做的那样.  因为在Commonspoly拥有私人物品是不受欢迎的，将私有货物转换为公共或社区拥有的货物将是参与者的任务.  游戏真的很有趣，因为它是一个反对善恶的坑，游戏中的投机者角色描绘了邪恶.  投机者绕过游戏并试图撤消辩护人的努力.  此外，该游戏是在同行生产许可证下发布的，可以免费下载并在家中打印播放.
+
+![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
+
+ |  球员|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  4  -  8 |  7 |  30-90米|
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
@@ -287,7 +297,7 @@
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  4  -  16 |  8 |  45米|
+|  4 - 16 |        8 |    45m |
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
@@ -301,7 +311,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
-> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
+ &gt; Munchkin是关于地牢冒险的大型纸牌游戏......没有任何愚蠢的角色​​扮演的东西.  你和你的朋友竞争杀死怪物并抓住魔法物品.  什么神奇的物品！  穿角质头盔和踢屁股的靴子.  挥动凝固汽油弹的工作人员...或者也许是血腥肢解的电锯.  从屠宰盆栽植物和流口水泥开始，一路走到钚龙...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -401,6 +411,6 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内，任何和/或所有版权均已被免除
-related or neighboring rights to this work.
+相关或相邻的权利.
 
 [contrib-guide]：contributions.md

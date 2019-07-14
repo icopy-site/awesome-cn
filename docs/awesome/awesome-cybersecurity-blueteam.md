@@ -5,7 +5,7 @@
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是识别信息技术系统中的安全缺陷，验证安全措施的有效性以及监控系统以确保实施的防御措施在未来仍然有效的个人群体.  虽然不是排他性的，但这个列表却严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
- 您的贡献和建议是衷心的♥欢迎.  （✿◕‿◕）  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+ 您的贡献和建议是衷心的♥欢迎.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 
 
@@ -74,6 +74,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [CIRTKit](https://github.com/opensourcesec/CIRTKit) - 基于Viper构建的可编写脚本的数字取证和事件响应（DFIR）工具包.
 - [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - 网络安全事件管理平台，可轻松创建，跟踪和报告网络安全事件.
+- [Rekall](http://www.rekall-forensic.com/) - 先进的取证和事件响应框架.
 - [TheHive](https://thehive-project.org/) - 可扩展，免费的安全事件响应平台，旨在使SOC，CSIRT和CERT的生活更轻松，与MISP紧密集成.
 - [threat_note](https://github.com/defpoint/threat_note) - 由Defense Point Security构建的Web应用程序，使安全研究人员能够添加和检索与其研究相关的指标.
 
@@ -167,7 +168,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源数据集合并组合成一种可自定义的标准化CSV格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - 可扩展的工具，用于从威胁源（包括Twitter，RSS源或其他来源）中提取和聚合IOC.
-- [Unfetter](https://nsacyber.github.io/unfetter/) - 利用Mitre的ATT和CK框架，确定安全状况的防御性差距.
+- [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
 - [Viper](https://github.com/viper-framework/viper) - 二进制分析和管理框架，可轻松组织恶意软件并利用样本.
 
 ## Tor Onion service defenses
@@ -179,7 +180,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Transport-layer defenses
 
-- [Certbot](https://certbot.eff.org/) - 免费工具，自动发布和更新TLS证书 [LetsEncrypt Root CA](https://letsencrypt.org/) with plugins that configure various Web and e-mail server software.
+- [Certbot](https://certbot.eff.org/) - 免费工具，自动发布和更新TLS证书 [LetsEncrypt Root CA](https://letsencrypt.org/) 使用配置各种Web和电子邮件服务器软件的插件.
 - [MITMEngine](https://github.com/cloudflare/mitmengine) - 用于服务器端检测TLS拦截事件的Golang库.
 - [OpenVPN](https://openvpn.net/) - 开源，基于SSL / TLS的虚拟专用网络（VPN）.
 - [Tor](https://torproject.org/) - 审查规避和匿名覆盖网络，提供分布式，加密验证的名称服务（`.onion`域名），以增强发布者的隐私和服务可用性.

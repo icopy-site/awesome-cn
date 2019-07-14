@@ -177,7 +177,7 @@
 - [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client)   - 用于测试HTTP / REST端点的原生Apple macOS应用程序.  ！[objective_c_icon] 
 - [FilterShop](https://github.com/KrisYu/FilterShop)   -  macOS App探索CoreImage过滤器.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)   -  macOS应用程序生成应用程序图标.  ！[javascript_icon] 
-- [Iconizer](https://github.com/raphaelhanneken/iconizer) - Create Xcode image catalogs (xcassets) on the fly.  ![swift_icon] 
+- [Iconizer](https://github.com/raphaelhanneken/iconizer)   - 即时创建Xcode图像目录（xcassets）.  ！[swift_icon] 
 - [Icons.app](https://github.com/SAP/macos-icon-generator) - 用于macOS的应用程序，旨在生成各种状态下现有应用程序的一致大小的图标，摇晃（摇晃）等！[objective_c_icon] 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)   - 逾期Swift重写注入.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
@@ -377,6 +377,13 @@
 - [macGist](https://github.com/Bunn/macGist)   - 简单的应用程序将粘贴板项目发送到GitHub的Gist.  ！[swift_icon] 
 - [syncthing-macosx](https://github.com/syncthing/syncthing-macos)   -  Frugal nativemacOS macOS Syncthing应用程序包.  ！[objective_c_icon] 
 
+### Player
+- [IINA](https://github.com/iina/iina)   - 适用于macOS的现代视频播放器.  ！[swift_icon] 
+- [MPlayerX](https://github.com/niltsh/MPlayerX) - Media player on macOS.  ![objective_c_icon] 
+- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus)   - 用于带有头部跟踪的PSVR的macOS的3D 180/360视频播放器.  ！[objective_c_icon] 
+- [Movie Monad](https://github.com/lettier/movie-monad)   - 使用Haskell构建的桌面视频播放器，使用GStreamer和GTK +.  ！[haskell_icon] 
+- [mpv](https://github.com/mpv-player/mpv)   - 基于MPlayer / mplayer2的视频播放器.  ！[c_icon] 
+
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod)   - 简单，漂亮的播客应用程序.  ！[javascript_icon] 
 - [Doughnut](https://github.com/CD1212/Doughnut) - 用于mac的播客播放器和库！[swift_icon] 
@@ -390,7 +397,7 @@
 - [ClipMenu](https://github.com/naotaka/ClipMenu)   -  macOS的剪贴板管理器.  ！[objective_c_icon] 
 - [Clocker](https://github.com/n0shake/Clocker)   - 通过时区规划和组织的macOS应用程序.  ！[objective_c_icon] 
 - [ControlPlane](https://github.com/dustinrue/ControlPlane)   - 根据您的位置或您的工作自动执行任务.  ！[objective_c_icon] 
-- [Flycut](https://github.com/TermiT/flycut)   - 为开发人员提供简洁的剪贴板管理器  ！[objective_c_icon] 
+- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.  ![objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder)   - 在macOS中记录快捷方式，如Alfred.app.  ！[swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple)   - 适用于iOS和macOS的Kiwix，基于Swift构建.  ！[swift_icon] 
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas)   -  macOS应用程序记下并连接想法.  ！[swift_icon] 
@@ -401,7 +408,7 @@
 - [Quicksilver](https://github.com/quicksilver/Quicksilver)   -  Quicksilver是一款快速的macOS生产力应用程序，可让您快速，优雅地控制Mac.  ！[objective_c_icon] 
 - [Quickwords](https://github.com/quickwords/quickwords)   - 在几秒钟内写出任何东西.  创建可以替换文本，执行繁琐任务等的代码段.  ！[javascript_icon]！[javascript_icon]！[css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol)   -  macOS应用程序阻止您自己访问分散注意力的网站等一段预定的时间.  它无法通过应用程序或重新启动来撤消 - 您必须等待计时器用完.  ！[objective_c_icon] 
-- [Speed Reader](https://github.com/LumingYin/SpeedReader) - Read faster with the power of silencing vocalization with SpeedReader. ![swift_icon] 
+- [Speed Reader](https://github.com/LumingYin/SpeedReader)   - 使用SpeedReader进行静音发声，更快速地阅读.  ！[swift_icon] 
 - [StickyNotes](https://github.com/LumingYin/StickyNotes)   - 在AppKit中实现的Windows 10-esque Sticky Notes应用程序.  ！[swift_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) -  OS X的任务计时器.！[objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app)   - 适用于Mac的Simple Timer应用程序.  ！[swift_icon] 
@@ -491,7 +498,7 @@
 - [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
 
 ### Utilities
-- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -  iOS和Android的一键式截图，视频录制，应用程序安装！[swift_icon] 
+- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - 安装磁盘映像等档案！[swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 使用Mac键盘上的媒体键控制基于Web的媒体播放器.  ！[objective_c_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop)   - 用于mac和其他平台的安全密码管理器.  ！[javascript_icon] 
@@ -549,7 +556,7 @@
 - [Quick Caption](https://github.com/LumingYin/Caption)   - 无需手动输入时间码即可转录和生成字幕文件（SRT，ASS和FCPXML）.  ！[swift_icon] 
 - [QuickLook Video](https://github.com/Marginal/QLVideo)   - 此软件包允许macOS Finder显示大多数类型视频文件的缩略图，静态QuickLook预览，封面和元数据.  ！[objective_c_icon] 
 - [Subler](https://bitbucket.org/galad87/subler/src)   -  Subler是一个macOS应用程序，用于复用和标记mp4文件.  ！[objective_c_icon] 
-- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator) - macOS application to insert quizzes within video playback and play those videos to receiving devices using the LISNR API.  ![swift_icon] 
+- [Vid Quiz Creator](https://github.com/sahil-a/vidquizcreator)   -  macOS应用程序，用于在视频播放中插入测验，并使用LISNR API将这些视频播放到接收设备.  ！[swift_icon] 
 - [WebTorrent Desktop](https://github.com/webtorrent/webtorrent-desktop) - Streaming torrent app. For Mac, Windows, and Linux.  ![javascript_icon] 
 - [Yoda](https://github.com/whoisandy/yoda)   -  Nifty macOS应用程序，可让您从YouTube浏览和下载视频.  ！[javascript_icon] 
 

@@ -135,6 +135,7 @@
 - [dockly](https://github.com/lirantal/dockly) - 以交互方式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -  Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - 简单的docker / docker-compose接口.
+- [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
 
 ### Release
 
@@ -205,16 +206,14 @@
 
 ## Utilities
 
-- [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测Buffer / Uint8Array的归档类型.
-- [battery-level](https://github.com/gillstrom/battery-level) - 获取当前的电池电量.
+- [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - 获取当前的电池电量.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - 更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
 - [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
 - [yank](https://github.com/mptre/yank) -  Yank终端输出到剪贴板.
-- [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
 - [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
 - [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上下载并安装Google Web Fonts.
 - [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
-- [share-cli](https://github.com/marionebl/share-cli) - 与本地网络共享文件.
 - [wego](https://github.com/schachmat/wego) - 得到天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
@@ -227,7 +226,6 @@
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 在没有浏览器的情况下搜索真棒列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
 - [Ultimate Plumber](https://github.com/akavel/up) - 使用实时预览编写Linux管道.
-- [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
 - [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
@@ -338,6 +336,7 @@
 - [transmission-cli](https://transmissionbt.com) - 命令行的Torrent客户端.
 - [ffsend](https://github.com/timvisee/ffsend) - 功能齐全的CLI [Firefox Send](https://send.firefox.com/) - 简单和私密的文件共享.
 - [webtorrent-cli](https://github.com/feross/webtorrent-cli) - 流媒体客户端.
+- [share-cli](https://github.com/marionebl/share-cli) - 与本地网络共享文件.
 
 ### Directory Listing
 
@@ -422,6 +421,7 @@
 - [ponysay](https://github.com/erkin/ponysay) - 小马改写了cowsay.
 - [yosay](https://github.com/yeoman/yosay) - 像cowsay，但对于自耕农.
 - [lolcat](https://github.com/busyloop/lolcat) - 以彩虹色输出文本.
+- [text-meme](https://github.com/beatfreaker/text-meme-cli) - 生成文本模因.
 
 ## Other
 

@@ -18,23 +18,19 @@
 *一些用榆树写的好应用程序.*
 
 * [Builtwithelm](http://builtwithelm.co/) - 使用elm构建的网站，其中包含使用Elm构建的项目和应用程序列表.
-* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) - 用榆树写的双人格斗游戏.
-* [Vessel](https://github.com/slawrence/vessel) - 用榆树写的“隧道”游戏！
-* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - 用榆树写的可配置滑动益智游戏.
-* [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 全栈榆树应用程序与CRUD操作，身份验证，路由，分页等. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
+* [Elm Example App](https://github.com/sporto/elm-example-app) - 在Elm学习基础知识的小型SPA示例
+* [TodoMVC](https://github.com/evancz/elm-todomvc) - 正确实施TodoMVC应用程序.
 * [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - 具有JSON API持久性的裸机，模块化，文档齐全的todo应用程序.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) -  TodoMVC的Fork展示了start-app， [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) 和Firebase作为后端.
-* [\<elm-ement\>](https://github.com/ohanhi/elm-ement) - 自定义元素的最小示例.
-* [Elm Playground](http://elm-playground.maciejsmolinski.com/) - 为了通过实例学习而实施的小榆树项目.
 * [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) - 在Electron中对Elm TodoMVC应用程序进行了记录和测试.
 * [Gipher](https://github.com/matthieu-beteille/gipher) - 一个类似Tinder的应用程序，用于使用elm和firebase构建的GIF！
-* [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - 使用Kotlin编程语言和Anko库使用Elm Architecture实现的示例Android应用程序.
 * [Collection of examples](https://github.com/halfzebra/elm-examples) - 为现实世界的Elm应用程序提供高级技术的示例集合.
-* [Elm Flatris](https://github.com/w0rm/elm-flatris) -  Elm语言v0.18中的Flatris克隆.
+* [\<elm-ement\>](https://github.com/ohanhi/elm-ement) - 自定义元素的最小示例.
+* [Elm Playground](http://elm-playground.maciejsmolinski.com/) - 为了通过实例学习而实施的小榆树项目.
+* [Elm Architecture in Android](https://github.com/glung/elm-architecture-android) - 使用Kotlin编程语言和Anko库使用Elm Architecture实现的示例Android应用程序.
 * [Elm + Phoenix + Webpack](https://github.com/ronanyeah/elm-phoenix-example) - 最小的Elm + Phoenix设置，使用webpack而不是Brunch.
-* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 全栈榆树应用程序与CRUD操作，身份验证，路由，分页等. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 * [Spotify Mapper](https://github.com/FidelisClayton/elm-spotify-mapper) - 与Spotify Api集成的Elm应用程序，用于搜索和探索新的艺术家.
-* [Elm Hangman](https://github.com/puemos/elm-hangman) - 用榆树写的刽子手游戏.
 * [Pokelmon](https://github.com/brenopanzolini/pokelmon) - 榆树项目消费PokéAPI.
 * [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) - 使用Django（后端）和Elm（前端）的JSON Web令牌（JWT）身份验证.
 * [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) - 在Elm中构建的Chrome扩展程序，显示所有巴西交易所的比特币价值.
@@ -42,8 +38,17 @@
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) - 使用Elm和HTML5 Drag＆Drop API构建的看板（trello-like）
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) - 纯SPA（带路线）探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) - 使用官方Hacker-News API使用Elm版本0.18构建的渐进式Web应用程序
-* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)   - 在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com)  展示如何建立一个“选择你自己的冒险”游戏;  适合初学者.  **榆树v.0.19 **
-+ [Seeds](https://github.com/andrewMacmurray/seeds-game)  是用** Elm v.0.19 **编写的“连接点”游戏.  在线播放： [seedsgame.com](https://www.seedsgame.com)
+* [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)   - 在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com) shows how to build a "chose your own adventure" game; perfect for beginners. **Elm v.0.19**
+
+### Games
+
+* [Elm Joust](https://github.com/stefankreitmayer/elm-joust) - 用榆树写的双人格斗游戏.
+* [Vessel](https://github.com/slawrence/vessel) - 用榆树写的“隧道”游戏！
+* [Elm shooter](https://github.com/sporto/elm-shooter) - 侧滚动式弹射器
+* [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - 用榆树写的可配置滑动益智游戏.
+* [Elm Flatris](https://github.com/w0rm/elm-flatris) -  Elm语言v0.18中的Flatris克隆.
+* [Elm Hangman](https://github.com/puemos/elm-hangman) - 用榆树写的刽子手游戏.
+* [Seeds](https://github.com/andrewMacmurray/seeds-game)  是用** Elm v.0.19 **编写的“连接点”游戏.  在线播放： [seedsgame.com](https://www.seedsgame.com)
 
 
 
@@ -84,23 +89,30 @@
 
 ## Articles
 
- *阅读要领.  查看官方Elm博客： [elm-lang.org/blog](http://elm-lang.org/blog)*
+*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/blog)*
 
-* [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - 榆树中的虚拟DOM.
-* [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - 使用Elm中的游戏从命令式编程转换为函数式编程.
-* [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
-* [Introduction to Rx](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - 您一直缺少的反应式编程简介.
-* [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - 面向移动到Elm的Web开发人员的一系列笔记.
-* [Introducing Elm to JS Web Apps](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app) - 一篇文章，通过将Elm与现有的Javascript框架集成，解释如何开始使用Elm
+### Why Elm?
+
+* [Side-effects of Elm in production](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html?utm_campaign=Elm%20Weekly&utm_medium=email&utm_source=Revue%20newsletter) -  Bellroy的经验报告
 * [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - 团队如何使用Elm为客户构建关键业务Web应用程序.
-* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - 一篇文章，描述如何将遵循Elm架构的代码组织成独立的功能，如何在功能之间进行通信，以及如何将这些功能组合在一起以组装更大的功能.
-* [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612)   - 一篇博客文章，描述了减少TEA样板的可能方法.  对于组件库和任何有兴趣看到功能类型可以做的惊人事情的人都很有用.
-* [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - 榆树系列教育教程.
-* [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - 真实地看待榆树的位置，并不优于其他选择.
+* [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - 使用Elm中的游戏从命令式编程转换为函数式编程.
+* [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - 榆树中的虚拟DOM.
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - 瑞典创业公司对榆树发展的一些看法.
+
+### Misc
+
+* [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
+
+### Outdated (Not relevant for current Elm architecture)
+
+* [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - 面向移动到Elm的Web开发人员的一系列笔记.
+* [Elm & Components](https://medium.com/p/elm-components-3d9c00c6c612)   - 一篇博客文章，描述了减少TEA样板的可能方法.  对于组件库和任何有兴趣看到功能类型可以做的惊人事情的人都很有用.
+* [Composing Features and Behaviours in the Elm Architecture](https://github.com/foxdonut/adventures-reactive-web-dev/tree/master/client-elm#composing-features-and-behaviours-in-the-elm-architecture) - 一篇文章，描述如何将遵循Elm架构的代码组织成独立的功能，如何在功能之间进行通信，以及如何将这些功能组合在一起以组装更大的功能.
+* [Getting Started with Elm](https://medium.com/@diamondgfx/getting-started-with-elm-11d7a53b1a78) - 榆树系列教育教程.
+* [Elm & Guarantees](https://medium.com/@debois/elm-guarantees-92a66679f7bd) - 真实地看待榆树的位置，并不优于其他选择.
 
 
 
@@ -108,27 +120,43 @@
 
 *观看关于榆树的精彩演讲*
 
-* [Evan Czaplicki: Let's be mainstream! User focused design in Elm](https://www.youtube.com/watch?v=oYk8CKH7OhE) - 来自榆树之父关于语言背后哲学的一次谈话.
-* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production](http://www.youtube.com/watch?v=FV0DXNB94NE) - 谈论榆树和在生产中使用它的初步步骤.
-* [Richard Feldman: Effects as Data](https://www.youtube.com/watch?v=6EdXaWfoslc) - 谈谈榆树如何管理副作用.
-* [Jamison Dance: Rethinking All Practices - Building Applications in Elm](https://www.youtube.com/watch?v=txxKx_I39a8) -  React.js Conf 2016上有关Elm必须教授JavaScript世界以及为什么JS开发人员应该考虑尝试它的演讲.
-* [Richard Feldman: Introduction to Elm](https://www.youtube.com/watch?v=3_M2G9U51GA) - 一个讲述榆树的广泛，高级的介绍.
+### Playlists
+
+* [Elm in the Spring 2019](https://www.youtube.com/channel/UC_wKoNegfKbmVIPg7YYKLWQ) - Jun 2019
+* [Oslo Elm Day 2019](https://www.youtube.com/playlist?list=PLcAzxXzXQlPbalOfueVbHCRSo26ksIXiF) -  2019年2月
+* [Elm Conf 2018](https://www.youtube.com/watch?v=28OdemxhfbU&list=PLglJM3BYAMPHuB7zrYkH2Kin2vQOkr2xW) - 来自elm-conf 2018的所有谈话
+* [Elm Conf 2017](https://www.youtube.com/playlist?list=PLglJM3BYAMPFTT61A0Axo_8n0s9n9CixA) - 来自elm-conf 2017的所有谈话
+* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - 来自elm-conf 2016的所有谈话
+
+### Misc
+
+* [Dillon Kearns: Types Without Borders | 2018](https://www.youtube.com/watch?v=memIRXFSNkU) -  elm-conf 2018使用GraphQL等外部模式讨论端到端的类型安全性.
+* [Jamison Dance: Rethinking All Practices - Building Applications in Elm | 2016](https://www.youtube.com/watch?v=txxKx_I39a8) -  React.js Conf 2016上有关Elm必须教授JavaScript世界以及为什么JS开发人员应该考虑尝试它的演讲.
+* [Richard Feldman: Introduction to Elm | 2016](https://www.youtube.com/watch?v=3_M2G9U51GA) - 一个讲述榆树的广泛，高级的介绍.
+* [Amitai Burstein: Frontend with Guarantees | 2016](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - 来自You Gotta Love Frontend 2016的演讲
+* [Jessica Kerr: Adventures in Elm | 2016](https://www.youtube.com/watch?v=cgXhMc8M4X4) - 在2016年芝加哥GOTO上谈论功能性编程与Elm的结合.
+* [Aaron VonderHaar: Codevember | 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - 榆树直播视频示例.
+* [Richard Feldman: Making impossible states impossible | 2016](https://www.youtube.com/watch?v=IcgmSRJHu_8) - 谈论在Elm中建模数据结构的方式，使无效状态不可代表
+* [Richard Feldman: Effects as Data | 2015](https://www.youtube.com/watch?v=6EdXaWfoslc) - 谈谈榆树如何管理副作用.
+* [Richard Feldman: Make the Back-End Team Jealous: Elm in Production | 2015](http://www.youtube.com/watch?v=FV0DXNB94NE) - 谈论榆树和在生产中使用它的初步步骤.
+* [Evan Czaplicki: Let's be mainstream! User focused design in Elm | 2015](https://www.youtube.com/watch?v=oYk8CKH7OhE) - 来自榆树之父关于语言背后哲学的一次谈话.
+
+### Tutorials
+
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) -  Egghead的Elm视频培训，其中许多都是免费的.
 * [jadams's training videos](https://www.dailydrip.com/topics/elm) - 一系列精美的榆树训练视频系列，其中许多都是免费的.
 * [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - 将Elm中的所有语法和基本思想作为通用编程语言进行演练.
-* [Elm Conf 2016](https://www.youtube.com/channel/UCOpGiN9AkczVjlpGDaBwQrQ) - 来自elm-conf 2016的所有谈话
-* [Amitai Burstein: Frontend with Guarantees](https://www.youtube.com/watch?v=FgaoOgJ5CAU) - 来自You Gotta Love Frontend 2016的演讲
-* [Jessica Kerr: Adventures in Elm](https://www.youtube.com/watch?v=cgXhMc8M4X4) - 在2016年芝加哥GOTO上谈论功能性编程与Elm的结合.
-* [Aaron VonderHaar: Codevember 2016 ](https://www.youtube.com/playlist?list=PLDA4wlOlLJvXAEsJDje4hdLazsihZiQNf) + [ElmLive](https://www.youtube.com/playlist?list=PLDA4wlOlLJvWSYo3KiEa4q4ETkXpTaKlw) - 榆树直播视频示例.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
-* [Richard Feldman: Making impossible states impossible](https://www.youtube.com/watch?v=IcgmSRJHu_8) - 谈论在Elm中建模数据结构的方式，使无效状态不可代表
-* [Dillon Kearns: Types Without Borders](https://www.youtube.com/watch?v=memIRXFSNkU) -  elm-conf 2018使用GraphQL等外部模式讨论端到端的类型安全性.
 
 
 
 ## Podcasts
 
 *收听有关榆树的播客*
+
+* [Elm Town](https://elmtown.github.io/) - 关于榆树社区居民的播客.
+
+### Individual episodes
 
 * [Elixir Fountain Evan Czaplicki 2016-07-11](https://soundcloud.com/elixirfountain/elixir-fountain-evan-czaplicki-2016-07-11) - 与Evan Czaplicki的榆树.
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - 理查德费尔德曼和泰莎凯利.
@@ -140,7 +168,6 @@
 * [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - 使用Elm，ClojureScript，Om和React进行功能编程.
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - 榆树编程语言.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - 榆树再访.
-* [Elm Town](https://elmtown.github.io/) - 关于榆树社区居民的播客.
 * [Full Stack Radio 44](http://www.fullstackradio.com/44)   - 榆树到底是什么？  在这一集中，乔尔克莱蒙谈到了榆树和函数式编程.
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - 理查德费尔德曼讨论了榆树与React.js的比较
 
@@ -233,14 +260,19 @@
 
 *新榆树项目的良好起点.*
 
+* [create-elm-app](https://github.com/halfzebra/create-elm-app) - 创建没有构建配置的Elm应用程序.
+* [elm-live](https://github.com/wking-io/elm-live)   -  Elm灵活的开发服务器.  包括实时重新加载.
+* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -  Elm webpack 4启动模板.
+* [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 显示Elm 0.19和Webpack的热模块重新加载的示例
+
+### Outdated
+
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - 用于编写Elm应用程序的简单Webpack设置.
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) -  Elm应用程序的全功能基础项目：Webpack，HMR，ES6，JS和Elm测试，语义UI，示例代码等.
 * [elmkit](https://github.com/khusnetdinov/elmkit)   - 基于Brunch的轻量级网络应用程序设置.  包括早午餐，热模块更换，榆树，Scss，榆树测试.
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) - 一个简单的Makefile，可以创建Elm应用程序.
-* [create-elm-app](https://github.com/halfzebra/create-elm-app) - 创建没有构建配置的Elm应用程序.
 * [elm-init](https://github.com/JustusAdam/elm-init) - 新Elm项目的交互式设置.
 * [elm-new](https://github.com/simonewebdesign/elm-new) - 基于模板生成初始项目支架.
-* [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -  Elm webpack 4启动模板.
 * [elm-webpack-starter-kid](https://github.com/FranzSkuffka/elm-webpack-starter-kid) - 一个非常非常基本的elm + webpack 4模板.
 
 
@@ -268,6 +300,13 @@
 * [IRC](http://webchat.freenode.net/?channels=elm) - 询问有关elm freenode的问题.
 * [Slack](http://elmlang.herokuapp.com/) - 榆树社区.
 
+
+## Conferences
+
+* [Elm Conf](https://2019.elm-conf.com/)
+* [Elm Europe](https://2019.elmeurope.org/)
+* [Elm in the spring](https://www.elminthespring.org/)
+* [Oslo Elm day](https://osloelmday.no/)
 
 
 ## Who to follow

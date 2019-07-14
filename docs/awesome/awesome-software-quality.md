@@ -329,6 +329,7 @@
     - [SQL basics](https://ankiweb.net/shared/info/40406665)
     - [Distributed Computing](https://ankiweb.net/shared/info/1688786699)
     - [Learn how to design large-scale systems](https://github.com/donnemartin/system-design-primer)
+- [Testing Mnemonics Game](http://mnemonics.brainforit.com/)
 - [The Deadlock Empire: Slay dragons, learn concurrency!](https://deadlockempire.github.io)
 - [Learn TLA](https://learntla.com/introduction/)
 - [tla_workshop](https://github.com/parlarjb/tla_workshop)

@@ -263,7 +263,7 @@ Installers
   - [Platform9](http://platform9.com)
   - [OpenShift Online](http://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
-  - [StackPoint Cloud](http://stackpoint.io/)
+  - [NetApp Kubernetes Service (formerly StackPoint Cloud)](https://cloud.netapp.com/kubernetes-service)
   - [Hasura](https://hasura.io/)
   - [ELASTX](https://www.elastx.se/)
 

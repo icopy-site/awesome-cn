@@ -29,6 +29,14 @@
 - [Slack Team](https://slofile.com/slack/pico-8) -  PICO-8闲聊.
 - [Discord Server](https://discord.gg/EwQ86eq) -  PICO-8 Discord聊天.
 
+## DemoScene
+
+- [Pico-8 demos on Demozoo](https://demozoo.org/platforms/81/) 
+- [Pico-8 demos on Pouet](http://www.pouet.net/prodlist.php?platform%5B%5D=PICO-8) 
+- [Article with demoscene effects code](https://medium.com/swlh/creativity-through-limitation-pico-8-fantasy-console-175294e13332) 
+- [Pico-8 demos on Youtube](https://www.youtube.com/results?search_query=pico+8+demoscene) 
+
+
 ## Resources
 
 - [Official Manual](https://www.lexaloffle.com/pico-8.php?page=manual)   -  pico-8.txt的占位符转储！  （正确的手册即将推出）.
@@ -116,7 +124,7 @@
 - [Sharing the love](https://www.youtube.com/watch?v=AmMYWD2Zbso)   - 使用PICO-8制作游戏.  linux conf au 2017  - 澳大利亚霍巴特
 
 ## Clones
-- [TIC-80 by Nesbox](https://nesbox.itch.io/tic) -  Tiny Computer，可在HTML 5，Windows，Linux 32 / 64bit，Android和MacOSX上使用
+- [TIC-80 by Nesbox](https://nesbox.itch.io/tic) -  Tiny Computer，适用于HTML 5，Windows，Linux 32 / 64bit，Android和MacOSX
 - [PicoLove](https://github.com/gamax92/picolove) - LÖVE的Pico-8重新实现.
 - [LIKO-12](https://github.com/RamiLego4Game/LIKO-12) - 使用LÖVE和96kb RAM制作的开源幻想电脑.
 - [PX8](https://github.com/Gigoteur/PX8) -  Rust中的开源幻想控制台（128x128像素）（支持Python / LUA代码）.

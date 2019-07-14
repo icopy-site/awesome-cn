@@ -452,7 +452,7 @@
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
 * [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
 * [simdjson](https://github.com/lemire/simdjson)   - 极快的JSON库，可以每秒解析千兆字节的JSON.  [Apache的2.0]
-* [taoJSON](https://github.com/taocpp/json) - Zero-dependency C++ header-only JSON library. [MIT]
+* [taoJSON](https://github.com/taocpp/json)   - 零依赖C ++标头专用JSON库.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
 * [YAJL](https://github.com/lloyd/yajl) -  C中的快速流式JSON解析库[ISC]
 
@@ -610,10 +610,10 @@
 ## Physics
 *动力学模拟引擎*
 
-* [Box2D](https://github.com/erincatto/Box2D)   - 用于游戏的2D物理引擎.  [BSD-等]
+* [Box2D](https://github.com/erincatto/Box2D) - A 2D physics engine for games. [BSD-like]
 * [Bullet](https://github.com/bulletphysics/bullet3)   - 游戏的3D物理引擎.  [ZLIB] [website](http://bulletphysics.org)
 * [Chipmunk](https://github.com/slembcke/Chipmunk2D)   - 快速轻巧的2D游戏物理库.  [MIT] [website](https://chipmunk-physics.net/)
-* [LiquidFun](https://github.com/google/liquidfun)   - 用于游戏的2D物理引擎.  [BSD-等]
+* [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games. [BSD-like]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)   - 用于物理环境实时仿真的集成解决方案.  [ZLIB]
 * [ODE](http://www.ode.org/)   - 开放动态引擎 - 用于模拟刚体动力学的开源高性能库.  [BSD＆LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)   -  Box2D的openFrameworks包装器.  [BSD-等]
@@ -722,7 +722,7 @@
 
 ## Virtual Machines
 
-* [CarpVM](https://github.com/tekknolagi/carp) - "interesting" VM in C. Let's see how this goes. [GPLv3]
+* [CarpVM](https://github.com/tekknolagi/carp)   -  C中的“有趣”VM让我们看看这是怎么回事.  [GPLv3的]
 * [MicroPython](https://github.com/micropython/micropython)   - 旨在将Python 3.x的实现放在微控制器上.  [MIT]
 * [TinyVM](https://github.com/jakogut/tinyvm) - 一个用纯ANSI C编写的小巧，快速，轻量级的虚拟机.[MIT]
 
@@ -907,14 +907,14 @@
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.
 * [Linticator](http://linticator.com) -  Eclipse CDT集成Pc- / FlexeLint.
-* [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
+* [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
 
 ## Coding Style Tools
 
 * [Artistic Style](http://astyle.sourceforge.net/) - A tool to format C/C++/C#/Obj-C/Java code. Also known as astyle.
 * [ClangFormat](http://clang.llvm.org/docs/ClangFormat.html) - 格式化C / C ++ / Obj-C代码的工具.
 * [Clang-Tidy](http://clang.llvm.org/extra/clang-tidy.html) - 基于Clang的C ++ linter工具.
-* [Uncrustify](https://github.com/bengardner/uncrustify) - 代码美化.
+* [Uncrustify](https://github.com/uncrustify/uncrustify) - 代码美化.
 
 ## Resources
 *各种资源，如书籍，网站和文章，用于提高您的C ++开发技能和知识.*
@@ -932,6 +932,7 @@
 * [CppCon 2016 Presentation Materials](https://github.com/CppCon/CppCon2016) -  CppCon 2016演示材料.
 * [CppCon 2015 Presentation Materials](https://github.com/CppCon/CppCon2015) -  CppCon 2015演示材料.
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) -  CppCon 2014演讲材料.
+* [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) - 介绍材料于C ++ Now 2019年发表.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - 介绍材料在C ++ Now 2018年展出.
 * [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) -  2017年C ++上的演讲材料.
 * [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) -  2016年C ++上的演讲材料.
