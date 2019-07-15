@@ -100,7 +100,6 @@
 * GUI前端和应用*
 
 - [Adminer](https://www.adminer.org/) - 单个PHP文件中的数据库管理.
-- [DataGrip](https://www.jetbrains.com/datagrip/) -  JetBrains的数据库和SQL的跨平台IDE.
 - [HeidiSQL](http://www.heidisql.com/) - 适用于Windows的MySQL GUI前端.
 - [mycli](https://github.com/dbcli/mycli) - 具有AutoCompletion和语法突出显示的MySQL终端客户端.
 - [MySQL Shell](https://dev.mysql.com/downloads/shell/) -  MySQL的高级客户端和代码编辑器，支持MySQL服务器和MySQL InnoDB集群（AdminAPI）的开发和管理，具有交互式JavaScript，Python或SQL接口.

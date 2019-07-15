@@ -88,7 +88,7 @@
 - [TallyLab](https://tallylab.com/) - 本地优先的端到端加密数据日记应用程序，用于捕获，分析和共享有关任何和所有内容的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -  Temporal是一个易于使用的API和平台，用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -  Textile Photos是一款安全的移动数码钱包，适用于您的照片. [Source](https://github.com/textileio/textile-mobile)
-- [ToDo List Demo](https://ipfs.io/ipfs/QmfFaH6dGibQ5JwEdsujeHBzsmHUsFRB5kU9P8nzPyzMv2/) - 使用windows.ipfs的ToDo List演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
+- [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - 使用windows.ipfs的ToDo List演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [ujo](http://ujomusic.com/) - 音乐家的区块链市场.
 - [uport](https://uport.me/#home) -  Uport是一个移动的，自我主权的身份和密钥管理系统，建立在以太坊区块链上.
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - 支持IPFS的xfce-screenshooter分支！

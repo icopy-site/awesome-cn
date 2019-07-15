@@ -5,7 +5,7 @@
 
 ## What is this about?
 
-在过去的十年中，函数式编程因其具有新的功能而获得了新的功能
+在过去的十年中，功能性编程由于其获得了新的发现
 有些人会说，声明性特征对并行计算非常有效
 并用于整个用途 [Moores Law](https://en.wikipedia.org/wiki/Moore%27s_law).
 
@@ -17,7 +17,7 @@
 
 ### Blog posts
 - [Personal thoughts on the current functional programming bandwagon](http://www.akitaonrails.com/2015/10/28/personal-thoughts-on-the-current-functional-programming-bandwagon) 
-尽管有这个名字，但这篇文章实际上澄清了一些关于功能编程的概念，解释了FP的一些历史以及命令式语言中FPs功能的实现，并讨论了声明性编程的所有大惊小怪以及为什么它在最后变得如此受欢迎数年.
+尽管有这个名字，这篇文章实际上澄清了一些关于功能编程的概念，解释了FP的一些历史以及命令式语言中FP的功能实现，并讨论了声明式编程的所有大惊小怪以及为什么它在最后变得如此受欢迎数年.
 - [A Monad in Practicality - Controlling Time](http://robotlolita.me/2014/03/20/a-monad-in-practicality-controlling-time.html)
 - [A Monad in Practicality - First Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html)
 - [How to desugar Haskell Code](http://www.haskellforall.com/2014/10/how-to-desugar-haskell-code.html)
@@ -67,6 +67,7 @@
 - [Erik Meijer: Functional Programming](https://www.youtube.com/watch?v=z0N1aZ6SnBk)
 - [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 - [Philip Wadler and Erik Meijer: On Programming Language Theory and Practice](https://www.youtube.com/watch?v=9SBR_SnrEiI)
+- [Kotlin for Android & Java Developers](https://www.manning.com/livevideo/kotlin-for-android-and-java-developers) - 关于Kotlin的LiveVideo课程：功能编程，面向对象以及在Kotlin中构建Android应用程序.
 
 ### Lectures
 - [C9 Lectures: Dr. Erik Meijer - Functional Programming Fundamentals](https://www.youtube.com/playlist?list=PLTA0Ta9Qyspa5Nayx0VCHj5AHQJqp1clD) - 来自Haskell的创作者之一的系列讲座
@@ -89,6 +90,7 @@
 - [Intro SML](http://www.it.dtu.dk/introSML/) - 本书的代码，更正和信息：`使用SML编程简介
 - [Functional Programming In JavaScript](https://github.com/busypeoples/functional-programming-javascript) -  JavaScript中的函数编程资源列表.
 - [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - 为FP提供词汇表的项目，使学习FP更容易.
+- [Bow](https://github.com/bow-swift/bow) -  Swift中用于类型化函数编程的伴随库.
 
 ### People
 

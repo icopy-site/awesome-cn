@@ -86,7 +86,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   _[An Introduction to Exponential Random Graph Modeling](https://uk.sagepub.com/en-gb/eur/an-introduction-to-exponential-random-graph-modeling/book237737)_, by Jenine K. Harris (2014).
 -   _[Knoten und Kanten. Soziale Netzwerkanalyse in Wirtschafts- und Migrationsforschung](http://www.transcript-verlag.de/978-3-8376-1311-7/knoten-und-kanten)_, edited by Markus Gamper and Linda Reschke, in German (2010).
 -   _[Knoten und Kanten 2.0. Soziale Netzwerkanalyse in Medienforschung und Kulturanthropologie](http://www.transcript-verlag.de/978-3-8376-1927-0/knoten-und-kanten-2.0)_, edited by Markus Gamper, Linda Reschke and Michael Schönhuth, in German (2012).
-  -  _ [结和边缘III.  社交网络分析，历史和政治研究（）_，由马库斯·甘珀，琳达雷什克和貂在德语和英语（2015年）编辑.
+  -  _ [结和边缘III.  历史与政治研究中的社会网络分析]（），由Markus Gamper，Linda Reschke和MartenDüring编辑，德语和英语（2015）.
 -  _Inference Network Analysis_，由Skyler J. Cranmer，Bruce A. Desmarais和Jason Morgan（即将出版）.
 -   _[Multilevel Network Analysis for the Social Sciences](https://www.springer.com/fr/book/9783319245188)_, edited by Emmanuel Lazega and Tom A.B. Snijders (2016).
 -   _[Multivariate Network Visualization](https://www.springer.com/us/book/9783319067926)_, edited by Andreas Kerren, Helen C. Purchase and Matthew O. Ward (2014).
@@ -164,7 +164,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [Networks (Economics)](https://ocw.mit.edu/courses/economics/14-15j-networks-spring-2018/)，由Mardavij Roozbehani和Evan Sadler（麻省理工学院，2018年）.
     -   [Networks (Economics)](https://hdl.handle.net/1721.1/119628)，由Daron Acemoglu和Asu Ozdaglar（麻省理工学院，2009年）.
 -   [Network Science (Computer Science)](http://www.cc.gatech.edu/~dovrolis/Courses/NetSci/)，Constantine Dovrolis  - 大多数开放获取读数（Georgia Tech，2015）.
--   [Network Science (Physics)](https://www.barabasilab.com/course)，由艾伯特·拉斯洛·巴拉巴西，肖恩·科尼利厄斯和罗伯塔·辛纳屈（东北大学，2015年）.
+-   [Network Science (Physics)](https://www.barabasilab.com/course)，Albert-LászlóBarabási，Sean Cornelius和Roberta Sinatra（东北大学，2015）.
 -   [Political Networks: Methods and Applications](http://vanity.dss.ucdavis.edu/~maoz/networks/Spring%202011/pol279-11.htm)，Zeev Maoz（加州大学戴维斯分校，2012年）.
 -   [Social and Economic Networks: Models and Analysis](https://www.coursera.org/course/networksonline)，Matthew O. Jackson（斯坦福大学，Coursera，2015）.
 -   [Social Network Analysis](https://www.coursera.org/course/sna)，由Lada Adamic（密歇根大学通过Coursera，尚未运行）.
@@ -258,7 +258,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [Networks, Computation, and Social Dynamics Lab](http://www.ncasd.org/)   - 由Carter T. Butts领导.  的一部分 [Center for Networks and Relational Analysis](http://relationalanalysis.org/) （CNRA）在加州大学尔湾分校.
 -   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - 拥有网络科学博士学位课程.
 -   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - 由Albert-LászlóBarabási领导.
--   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - 由Alessandro Vespignani领导.
+-   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - 非营利性生态网络研究小组（“食物网”）.
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
 -   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
@@ -275,7 +275,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [Complex Networks](http://www.complexnetworks.fr/) - 总部设在巴黎的研究小组.
 -   [Cx-Nets](http://www.cxnets.org/) - 四个复杂网络研究小组之间的虚拟合作.
 -   [Data Science Group](http://datasciencegroup.pl/) - 弗罗茨瓦夫的研究小组，研究复杂网络和其他网络相关主题.
--   [Digital Humanities](http://cmb.huma-num.fr/) - 柏林Marc Bloch中心的跨学科研究小组，拥有许多网络科学项目.
+-   [Digital Humanities](http://cmb.huma-num.fr/) - Interdisciplinary group of researchers at the Marc Bloch Centre in Berlin, with many network science projects.
 -   [Forschungscluster der Universitäten Trier und Mainz “Gesellschaftliche Abhängigkeiten und soziale Netzwerke”](http://www.netzwerk-exzellenz.uni-trier.de/)， 在德国.
 -   [GDR Analyse de réseaux en sciences humaines et sociales](https://arshs.hypotheses.org/) - 法国研究小组，资金支持社会科学家网络分析培训和研讨会.
 -   [Historical Network Research (HNR)](http://historicalnetworkresearch.org/) - 对历史研究网络分析感兴趣的学者平台.
@@ -310,11 +310,11 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 
 -   [Analyse de réseaux et histoire](https://www.cairn.info/revue-d-histoire-moderne-et-contemporaine-2005-2-page-88.htm)，法语（_回顾现代和当代历史_，2005）.
 -   [Analyser les réseaux du passé en archéologie et en histoire](https://journals.openedition.org/nda/2300)，用法语（_The Archaeology_，2014）.
-  -  [历史研究网络分析的形式化方法：为什么和怎么样？  （（Http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&amp;download=yes），德语：在网络历史记录[为什么和如何形式化方法][preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527) ;  _ÖsterreichischeZeitschriftfürGeschichtswissenschaften_，2012）.
+  -  [历史上网络分析的形式化方法：为什么以及如何？  （（Http://www.studienverlag.at/data.cfm?vpath=openaccess/oezg-12012-lemercier&amp;download=yes），德语：在网络历史记录[为什么和如何形式化方法][preprint in English](http://halshs.archives-ouvertes.fr/halshs-00521527) ;  _ÖsterreichischeZeitschriftfürGeschichtswissenschaften_，2012）.
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) （_Programming Historian_，2015）.
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006) ;  _IET Systems Biology_，2007）.
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/)，法语（_History and Computer Science_，2015）.
-  -  [简介：oùenest l&#39;analyzederéseauxenhistoire？  [简介：在什么时候网络分析是历史]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法语（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
+  -  [简介：oùenest l&#39;analyzederéseauxenhistoire？  [简介：历史上的网络分析在什么时候？]]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法文（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) （_Complexity_，2002）.
 -   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) （参见The Historian&#39;s Macroscope_，2013）.
 -   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) （_Anualual of Anthropology_，2014）.
@@ -553,7 +553,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 
 ### Julia
 
--   [BayesNets.jl](https://github.com/sisl/BayesNets.jl) - 与贝叶斯网络协同工作的包.
+-   [BayesNets.jl](https://github.com/sisl/BayesNets.jl) - Package to work with Bayesian networks.
     -   [Smile.jl](https://github.com/sisl/Smile.jl) - 朱莉娅包装纸 [Smile C++ library](http://www.bayesfusion.com/smile-engine)，它涵盖贝叶斯网络和影响图表.
 -   [EcologicalNetwork.jl](https://github.com/PoisotLab/EcologicalNetwork.jl) - 用于计算生态网络结构测量的包.
 -   [EvolvingGraphs](https://github.com/weijianzhang/EvolvingGraphs.jl) - 用于创建，操纵和研究与时间相关的网络的包.
@@ -599,7 +599,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - 用于将文献计量学数据转换为作者和引文网络的Python包.
 -   [networkx](http://networkx.github.io/) - 用于创建，操作和研究复杂网络的结构，动态和功能的Python包.
     -   [Implementing an ERGM from Scratch in Python](https://gist.github.com/dmasad/8509304)，使用networkx和numpy（2014）.
-    -   [nxviz](https://github.com/ericmjl/nxviz/) -  NetworkX的可视化包.
+    -   [nxviz](https://github.com/ericmjl/nxviz/) - Visualization package for NetworkX.
 -   [npartite](https://github.com/ike002jp/npartite) - 用于在n-partite网络中进行社区检测的Python算法.
 -   [PyGraphistry](https://github.com/graphistry/pygraphistry) - 用于提取，转换和直观探索大图的Python库.
 -   [python-igraph](http://igraph.org/python/) -  igraph网络分析包的Python版本.
@@ -714,14 +714,14 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [Basic and Advanced Network Visualization with Gephi and R](http://kateto.net/sunbelt2016) (2016).
 -   [Interactive and Dynamic Network Visualization in R](http://curleylab.psych.columbia.edu/netviz/) 和JavaScript库（2016）.
 -   [Nodegoat and Palladio: Introductory Workshop](https://www.academia.edu/11450425/Nodegoat_and_Palladio_Introductory_Workshop_by_Emmanuelle_Chaze) - 针对人文主义者（2015年）.
--   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - 涵盖igraph，网络，networkD3和ndtv包（2015）.
+-   [Static and Dynamic Network Visualization with R](http://kateto.net/network-visualization) - 涵盖igraph，网络，ggraph，网络，networkD3，ndtv，threejs和visNetwork包（2019）.
 
 ## Varia
 
 &gt;不适合其他类别的资源.
 
 -   [+100 herramientas para el análisis de redes sociales](http://www.k-government.com/2016/06/28/100-herramientas-analisis-redes-sna-ars/) - 网络分析的各种应用的长列表，西班牙语短语描述.
--   [Awesome graph embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 图表嵌入论文的完整列表，包括标题，作者，论文链接和参考实现.
+-   [Awesome graph classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - 图表嵌入论文的完整列表，包括标题，作者，论文链接和参考实现.
 -   [Awesome community detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 完整的社区检测论文清单，包括标题，作者，论文链接和参考实施.
 -   [Centrality Measures as a Signature of Roles in Rousseau’s _Les Confessions_](http://yro.ch/centrality-measures-signature-roles-rousseaus-les-confessions/) - 分析现实世界的角色网络.
 -   [Cheat Sheet: Social Network Analysis for Humanists](https://cvcedhlab.hypotheses.org/106) - 组装和操作网络数据时要记住的基本概念.
@@ -834,7 +834,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 - 从 [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
     -   [Taming Complexity](http://barabasi.com/f/182.pdf).
     -   [The Network Takeover](http://barabasi.com/f/362.pdf).
--   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
+-   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - “network _science_”如何出现.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 一系列博客帖子早于“网络科学”的出现作为流行语，但触及的问题与目前正在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - Review of network science books published in 2002-2003.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - 预测网络科学中的下一篇被高度引用的论文.

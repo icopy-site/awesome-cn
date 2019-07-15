@@ -120,7 +120,18 @@
  |  开发者| [Taskade Inc.](https://taskade.com/about)                          |
  |  成本|  免费增值（_ $ 0-10 /月_）|
  |  平台|  macOS，Windows，iOS，Android，Chrome扩展，Firefox插件，网络|
-| URL       | https://www.taskade.com                                            |
+ |  网址|  https://www.taskade.com |
+
+### Notejoy
+
+一个简单，直观的协作记笔记应用程序，使您可以专注于笔记而不是围绕这些笔记的过程.
+
+ |  财产|  价值|
+|-----------|--------------------------------------------------------------------|
+ |  开发者| [Sachin Rekhi](https://www.linkedin.com/in/sachinrekhi/), [Ada Chen Rekhi](https://www.linkedin.com/in/adachen/)                                           |
+ |  成本|  免费增值（_ $ 0-12 /月_）|
+ |  平台|  macOS，Windows，iOS，Android，web |
+ |  网址|  https://notejoy.com |
 
 ## Articles
 
@@ -171,7 +182,7 @@
 |-------------------------------------------------------------------------------------|--------------|---------------------------------------------------------------------------|-------------|
 | <img alt="Masters of Scale" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-masters-of-scale.jpeg" width="100px" />  |  里德霍夫曼|  https://mastersofscale.com/ |  公司如何从零增长到数十亿？  传奇的硅谷投资者/企业家里德霍夫曼与着名的创始人一起测试他的理论.  嘉宾包括Facebook的Mark Zuckerberg和Sheryl Sandberg，Netflix的Reed Hastings，Google的Eric Sc​​hmidt，Spanx的Sara Blakely.  凭借原创音乐和欢快的故事，这个节目听起来就像你听过的一样.  |
 | <img alt="The Product Podcast" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-product.jpg" width="100px" />         |  多个|  https://itunes.apple.com/us/podcast/the-product-podcast/id1219400787?mt=2 |  这是您的产品管理播客，其中包含来自Google，Facebook，LinkedIn，Spotify，Twitter和其他科技公司/初创公司的PM.  如果您是想要学习最新最佳实践的经理，设计师，工程师，企业家或营销人员，请收听.  |
-| <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/startup |  你永远听不到的商业起源故事.  |
+| <img alt="StartUp" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-startup.webp" width="100px" />                   | Multiple     | https://www.gimletmedia.com/startup                                       | The business origin story you never get to hear. |
 | <img alt="How I Built This" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-how-i-built.jpg" width="100px" />        |  盖伊拉兹|  https://www.npr.org/podcasts/510313/how-i-built-this |  Guy Raz潜入了一些世界知名公司背后的故事.  我是如何建立的这将围绕创新者，企业家和理想主义者以及他们建立的运动进行叙事.  |
 | <img alt="The Pitch" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-pitch.webp" width="100px" />                    |  多个|  https://www.gimletmedia.com/the-pitch |  真正的企业家向真正的投资者倾诉 - 真钱.  |
 | <img alt="ReWork" src="https://raw.githubusercontent.com/dend/awesome-product-management/master/media/pod-rework.png" width="100px" />                       |  多个|  https://rework.fm/ |  Basecamp播客关于更好的工作和经营方式.  我们为您带来Basecamp的联合创始人和其他企业主的故事和非传统智慧.  |

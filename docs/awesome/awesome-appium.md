@@ -108,6 +108,7 @@
 - [Automating Custom IoT Devices With Appium, Part 1](https://appiumpro.com/editions/74)
 - [Automating Custom IoT Devices With Appium, Part 2](https://appiumpro.com/editions/75)
 - [Testing React Native Apps with Appium](https://appiumpro.com/editions/76)
+- [Optimizing WebDriverAgent Startup Performance](https://appiumpro.com/editions/77)
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - 对于APPI教程初学者（Android和iOS）.

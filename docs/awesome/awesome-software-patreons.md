@@ -53,7 +53,7 @@ _Projects以开源许可证发布._
 - [OfBorg](https://www.patreon.com/ofborg) - 用于测试NixOS的工具.
 - [Olive](https://www.patreon.com/olivevideoeditor) - 高品质的视频编辑和合成软件
 - [OMP](https://www.patreon.com/openmusicplayer) - 音乐播放器.
-- [Oni](https://www.patreon.com/onivim) - Modal code editor.
+- [Oni](https://www.patreon.com/onivim) - 模态代码编辑器.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) - 视频录制和直播软件
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) - 用于构建信息建模的工具.
 - [openage](https://liberapay.com/SFTtech/) - 实时战略游戏引擎
@@ -105,7 +105,8 @@ _Libraries和frameworks._
 ### Operating Systems
 _Operating Systems和Linux发行版._
 
-- [Elementary OS](https://www.patreon.com/elementary) -  Ubuntu变种. 
+- [Elementary OS](https://www.patreon.com/elementary) -  Ubuntu变种.
+- [FreeDOS](https://www.patreon.com/freedos) - 兼容MS-DOS的操作系统.
 - [GhostBSD](https://www.patreon.com/GhostBSD) - 以桌面为中心的BSD OS.
 - [LineageOS](https://www.paypal.me/LineageOS) -  CyanogenMod的叉子. 
 - [Linux Lite](https://www.patreon.com/linuxlite) -  Linux发行版.
@@ -154,7 +155,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Franck Nijhof](https://www.patreon.com/frenck) - 创建Home Assistant附加组件并帮助完成主项目.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) -  IndieWeb领域的项目，Koype以及对其他开源项目的贡献.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - 创建C ++库和标准提案.
-- [Joey Hess](https://www.patreon.com/joeyh) -  git-annex，keysafe，其他Linux软件.
+- [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
 - [Johann-S](https://www.patreon.com/jservoire) -  Bootstrap JavaScript开发人员和各种插件和项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) - 各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -  GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
