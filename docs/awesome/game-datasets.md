@@ -1,9 +1,9 @@
 <div class="github-widget" data-repo="leomaurodesenv/game-datasets"></div>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
- 在计算机科学中，人工智能（AI）是由机器演示的智能.  它的定义是人工智能研究，作为对“智能代理人”的研究：任何能够感知其环境并采取行动实现其目标的设备.  _Russell et.  al（2016）_   
+ 在计算机科学中，人工智能（AI）是由机器演示的智能.  其定义，人工智能研究作为“智能代理人”的研究：任何感知其环境并采取行动实现其目标的设备_Russell等.  al（2016）_.   
 
- Withal，数据挖掘（DM）是发现涉及机器学习，统计和数据库系统方法的数据集（或数据集）模式的过程;  DM专注于提取数据集的信息.  _Han（2011）_  
+ Withal，数据挖掘（DM）是发现涉及机器学习，统计和数据库系统方法的数据集（或数据集）模式的过程;  DM专注于提取数据集的信息_Han（2011）_.  
 
  此存储库可作为任何想要使用**人工智能**或**数据挖掘**在数字游戏中应用的人的指南！  在这里，您将找到一系列可用于构建_application_或_dataset_的数据集，工具和材料.  
 
@@ -13,6 +13,8 @@
  Han，J.，Pei，J.，Kamber，M.（2011）.  _Data mining：概念和技术_.  爱思唯尔.  
 
  Russell，SJ，Norvig，P.（2016）.  _人工智能：一种现代的方法_.  马来西亚;  培生教育有限公司.  
+ Yannakakis，GN，Togelius，J.（2018）.  _人工智能和游戏_.  斯普林格.  
+
 
 **Contributing**  
 
@@ -78,7 +80,8 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - 星际争霸游戏比赛.
 - [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - 文字冒险游戏比赛. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) - 国际象棋引擎.
-- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
+- [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - 赛车模拟器.
+- [Vindinium](https://github.com/leomaurodesenv/vindinium) - 基于roguelike比赛的多人转弯. [Documentation](https://pythonhosted.org/vindinium/).
 - [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - 末日游戏比赛. [Website](http://vizdoom.cs.put.edu.pl/).
 
 ### Mobile
@@ -123,7 +126,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - 来自侠盗猎车手5游戏的2D和3D图像.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - 收集卡片.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - 甲板的收集.
-- [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - 球员和球队数据.
+- [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - 游戏数据.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - 卡片数据.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - 历史民意调查数据.

@@ -26,7 +26,7 @@
 
 * [andross](https://github.com/pfirsich/andross) - 用于2D骨骼/骨骼动画的Lua库，带有Löve后端
 * [anim8](https://github.com/kikito/anim8) - 动画库
-* [chiro](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
+* [chiro](https://github.com/bjornbytes/chiro) - 便利包装 [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) - LÖVE中Aseprite动画的解析器/渲染器
 * [skeletor](https://github.com/pelevesque/skeletor) -  2D骨骼动画系统
 * [Walt](https://github.com/davisdude/Walt) - 动画库
@@ -50,6 +50,7 @@
 * [LoveDebug](https://github.com/Ranguna/LOVEDEBUG) - 内联控制台式调试器实用程序
 * [lurker](https://github.com/rxi/lurker) - 自动交换在正在运行的游戏中更改了Lua文件
 * [LÖVE API](https://github.com/love2d-community/love-api) -  Lua表中LÖVE的完整API文档
+* [LÖVE TypeScript Definitions](https://github.com/hazzard993/love-typescript-definitions) - 用TypeScript写LÖVE游戏
 * [MakeLove](https://github.com/instilledbee/MakeLove) - 通过实时监控变更为您的项目自动构建（仅限Windows）
 
 ## Drawing
@@ -60,6 +61,7 @@
 * [Autobatch](https://github.com/rxi/autobatch) - 小型LÖVE模块，可自动使用SpriteBatches
 * [HSLUV](https://github.com/hsluv/hsluv-lua) -  Lua实施HSLuv（人性化的HSL替代品）
 * [Maid64](https://github.com/adekto/maid64) - LÖVE的低分辨率缩放器
+* [Push](https://github.com/Ulydev/push) - LÖVE的简单分辨率处理库
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的拼写行星渲染
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器
 * [svglover](https://github.com/globalcitizen/svglover) - 用于在LÖVE中导入和显示简单SVG的库
@@ -80,8 +82,9 @@
 
 * [astray](https://github.com/SiENcE/astray) -  Astray是一个基于lua的迷宫，房间和地牢生成库，用于地牢爬虫和roguelike视频游戏
 * [cartographer](https://github.com/tesselode/cartographer) - 小型瓷砖地图装载机和抽屉.
-* [hump](https://github.com/vrld/hump) - 用LÖVE开发游戏的工具集（Gamestates，Timers / Tweens，Vectors，Classes，Signals，Cameras）
+* [hump](https://github.com/vrld/hump)   - 用LÖVE开发游戏的工具集（游戏状态，定时器/补间，矢量，类，信号，相机）.  回购是不活跃的，但改进正在进行中 [this fork](https://github.com/HDictus/hump/tree/temp-master) （分支临时主人）
 * [knife](https://github.com/airstruck/knife) - 为Lua（类，状态机，绑定，链，协同程序，事件，记忆，实体，测试，计时器）收集有用的微模块
+* [shard](https://github.com/MineGame159/shard) - 收集有用的迷你模块
 * [lovely-windows](https://github.com/flamendless/lovely-windows) - 用于虚拟窗口的窗口/屏幕管理器模块.
 * [love-state-switcher](https://github.com/nekromoff/love-state-switcher) - LuaLÖVEEngine的状态切换器类
 * [lue](https://github.com/Ulydev/lue) -  lue是一个LÖVE库，可让您在游戏中显示色调效果
@@ -174,7 +177,7 @@
 * [LÖVR](https://github.com/bjornbytes/lovr) - LÖVE用于虚拟现实设备
 
 ## Publishing
-*Guides to distributing LÖVE games in 3rd party stores*
+*在第三方商店分发LÖVE游戏的指南*
 
 * [Love-Snap-Template](https://github.com/popey/love-snap-template) - 用于包装LÖVE游戏的模板，用于在Snappy商店中分发
 * [AppImageKit](https://github.com/AppImage/AppImageKit)   - 使用AppImageKit，您可以将LÖVE游戏打包为AppImages，这些游戏运行在基于Linux的常见操作系统上，例如RHEL，CentOS，Ubuntu，Fedora，debian和衍生产品;  一个游戏=一个文件
@@ -224,7 +227,7 @@
 * [CatUI](https://github.com/wilhantian/catui) - LÖVE的轻量级GUI库
 * [GOOi](https://github.com/tavuntu/gooi) - 面向Android的GUI库
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - LÖVE的有状态GUI库
-* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) -  0.10图形库的图书馆
+* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui](https://github.com/slages/love-imgui) - 用于LÖVE游戏引擎的imgui模块
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - LÖVE游戏的轻量级即时模式GUI
 * [Patchy](https://github.com/excessive/patchy) -  9patch库
@@ -240,9 +243,9 @@
 * [cargo](https://github.com/bjornbytes/cargo) - 资产经理
 * [chance.lua](http://ejmr.github.io/chance.lua/) - 用于生成随机数据的库
 * [Classic](https://github.com/rxi/classic) -  Lua的一个小类模块
-* [Flirt](https://github.com/Alloyed/flirt)   - LÖVE版本经理;  允许在同一台机器上的多个版本的引擎之间切换
+* [Flirt](https://github.com/Alloyed/flirt)   - LÖVE版本经理;  允许在同一台机器上切换多个版本的引擎
 * [GifCat](https://github.com/WetDesertRock/GifCat) - 一个简单的模块，用于保存LÖVE的GIF
-* [i18n](https://github.com/excessive/i18n) - 旨在帮助您本地化游戏的国际化库
+* [i18n](https://github.com/excessive/i18n) - 旨在帮助您本地化游戏的国际化图书馆
 * [Ini Parser](https://github.com/FivosM/ini_parser) - 通用ini配置解析器
 * [log.lua](https://github.com/rxi/log.lua) - 用于可配置日志输出的库
 * [love-loader](https://github.com/kikito/love-loader) - 线程资源加载
@@ -253,6 +256,7 @@
 * [Luvent](https://github.com/ejmr/Luvent) - 简单的事件驱动编程
 * [ParticleEditor](https://github.com/MusouCrow/ParticleEditor) - LÖVE的粒子编辑
 * [splashy](https://github.com/videah/splashy) - 启动画面库
+* [ShakeDetectorLua](https://github.com/azoyan/ShakeDetectorLua) - 使用加速度计数据进行Lua编写的抖动设备检测
 * [tick](https://github.com/bjornbytes/tick) - LÖVE运行循环的有用时序调整
 
 ## Tutorials
@@ -263,7 +267,7 @@
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - 关于在LÖVE游戏中使用Tiled创建的地图的文章
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - 关于如何通过nooowaay进行突破克隆的完整教程
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - 使用LÖVE（Snake，Sokoban，Tetris等）制作简单游戏的教程
-* [Introduction to Game Development](https://cs50.harvard.edu/games/2019/spring/) - 哈佛大学CS50扩展（2018年春季）
+* [Introduction to Game Development](https://cs50.harvard.edu/games/2019/spring/) - 哈佛大学的CS50扩展（2018年春季）
 
 ## IDEs
 *集成开发环境和文本编辑器插件*
@@ -275,7 +279,7 @@
 	* [language-lua](https://atom.io/packages/language-lua) -  Atom中的Lua语言支持
 	* [linter-luacheck](https://github.com/AtomLinter/linter-luacheck) -  Lint Lua在飞行中，使用luacheck
 	* [Löve Launcher](https://atom.io/packages/love-launcher) - 无需离开Atom即可为当前项目启动LÖVE
-	* [Löve IDE](https://atom.io/packages/love-ide) - 此软件包自动安装几个实用程序，用于在Atom中编写Love2D游戏
+	* [Löve IDE](https://atom.io/packages/love-ide) - 这个软件包自动安装了几个用于在Atom中编写Love2D游戏的工具
 		* [Autocomplete Löve](https://atom.io/packages/autocomplete-love) - LÖVE的自动完成和片段
 		* [Hyperclick Löve](https://atom.io/packages/hyperclick-love) - LÖVE的Hyperclick提供程序，显示维基
 		* [linter-luaparse](https://atom.io/packages/linter-luaparse) -  Atom中的Lua语法错误检查
@@ -300,7 +304,7 @@
 * [Sublime Text](https://www.sublimetext.com)   -  Sublime Text是一个用于代码，标记和散文的复杂文本编辑器.  您会喜欢光滑的用户界面，非凡的功能和惊人的性能.
 	* [Package Manager](https://packagecontrol.io/) -  Sublime Text包管理器，可以非常简单地查找，安装和保持包最新.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法突出显示，自动完成和构建系统.
-	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供Lua代码的linting和静态分析.
+	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
 
 ## Contributing
 
@@ -310,6 +314,6 @@
 
 * [awesome-lua](https://github.com/LewisJEllis/awesome-lua) - 像这样的列表，但更一般，包含所有Lua的用途
 * [awesome-love-shaders](https://github.com/karai17/awesome-love-shaders) - 一系列设计用于LÖVE的着色器
-* [awesome-pico8](https://github.com/felipebueno/awesome-PICO-8) -  PICO-8资源，教程，工具等的精选列表
+* [awesome-pico8](https://github.com/pico-8/awesome-PICO-8) -  PICO-8资源，教程，工具等的精选列表
 
 其他很棒的列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.

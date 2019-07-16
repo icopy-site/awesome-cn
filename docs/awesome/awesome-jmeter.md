@@ -60,6 +60,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 - [JMeter Training Course @ BlazeMeter](http://info.blazemeter.com/jmeter-training-course)
 - [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial)
 - [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
+- [JMeter: Performance and Load Testing @ Michael Smith on LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
 
 ## Best Practices
 
@@ -94,7 +95,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 - 工具和插件
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) -  Ant任务，用于自动运行JMeter测试计划.
     - [JMeter Maven Plugin](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) -  Maven插件，提供在构建过程中运行JMeter测试的能力.
-    - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) -  Jenkins插件，用于从JMeter捕获报告，并生成具有性能和稳健性趋势报告的图表.
+    - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) -  Jenkins插件从JMeter捕获报告，并生成图表，其中包含性能和稳健性的趋势报告.
     - [TeamCity Performance Tests Analysis Plugin](https://github.com/jtorgan/jmeter_plugin)
     -  Bamboo JMeter聚合器插件： [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) -  Bamboo插件，用于收集，断言和绘制JMeter测试结果.
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - 用于收集JMeter性能测试结果并在Sonar仪表板中显示的插件.

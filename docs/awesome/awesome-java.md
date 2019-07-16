@@ -497,7 +497,7 @@
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - 为严肃的商业目的严肃的商人制作的FizzBu​​zz的严肃实施.
 - [J2ObjC](https://github.com/google/j2objc) - 用于将Android库移植到iOS的Java-to-Objective-C转换器.
 - [JavaCV](https://github.com/bytedeco/javacv) -  OpenCV，FFmpeg等Java接口.
-- [JavaX](http://javax.ai1.lol) - 重点发展Java，重点是简单性.
+- [JavaX](http://javax.botcompany.de) - 重点发展Java，重点是简单性.
 - [JBake](http://jbake.org) - 静态网站生成器.
 - [JBot](https://github.com/ramswaroop/jbot) - 构建聊天机器人的框架.
 - [JCuda](http://jcuda.org) -  JCuda为CUDA和CUDA相关库提供Java绑定.
@@ -626,7 +626,7 @@
 - [Apache FOP](https://xmlgraphics.apache.org/fop) - 从XSL-FO创建PDF.
 - [Apache PDFBox](https://pdfbox.apache.org) - 用于创建和操作PDF的工具箱.
 - [Dynamic Jasper](http://dynamicjasper.com) -  JasperReports的抽象层.
-- [DynamicReports](http://dynamicreports.org) - 简化JasperReports.
+- [DynamicReports](https://github.com/dynamicreports/dynamicreports) - 简化JasperReports.
 - [flyingsaucer](https://github.com/flyingsaucerproject/flyingsaucer) -  XML / XHTML和CSS 2.1渲染器.
 -  [iText！[c]]（https://itextpdf.com） - 以编程方式创建PDF文件.
 - [JasperReports](https://community.jaspersoft.com/project/jasperreports-library) - 复杂的报告引擎.
@@ -797,7 +797,7 @@
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭据，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 

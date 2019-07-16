@@ -53,7 +53,7 @@ CoWorking办公室非常棒，但通常需要长期通勤，如果您正在寻�
 
 网页：https：//metalab.at
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rathausstraße 6, 1010 Wien](https://metalab.at/)  |  只要有一名关键成员，所有时间都在场
 
@@ -66,11 +66,11 @@ Wifi | Power | Address | Open Hours
 
 #### Workshop Café
 
-> Fantastic coffee shop, delicious 'Quiche', lots of tables.
+&gt;很棒的咖啡馆，美味的&#39;乳蛋饼&#39;，很多桌子.
 
 网页：https：//www.facebook.com/WorkshopCafeBelgium/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Av Louise, 146 1050 Brussels](https://goo.gl/maps/hsGKR1Ytn6N2)  |  周一至周日8：00-19：00
 
@@ -99,7 +99,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//grama.cc/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  问|  ✔| [Rua Sorocaba 190, Botafogo, Rio de Janeiro](https://goo.gl/maps/vPa8ZRbAjUx)  |  周一至周五11：00-20：00，请求不同的时间
 
@@ -116,7 +116,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//foursquare.com/v/фабрика-дъга/541969e5498e5713ab53d2ff
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [10 Veslets str., Sofia, Bulgaria](https://goo.gl/maps/XWFWmDT3nF62)  |  周一至周五8：00-22：00，周六10：00-22：00，周日10：00-20：00
 
@@ -127,7 +127,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//soho.bg/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [4 Iskar str., Sofia, Bulgaria](https://goo.gl/maps/X5X42uPqFJu)   |  周一至周五9：00-19：00
 
@@ -143,7 +143,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//activspaces.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [ActivSpaces Buea, Fako Ship Plaza](https://activspaces.com/)  |  周一至周五8：00-21：00，周六至周日9：30-18：00
 
@@ -185,11 +185,11 @@ Wifi | Power | Address | Open Hours
 
 #### Copenhagen Coffee Lab
 
-&gt;烤自己的咖啡
+> Roasts and sells their own coffee
 
 网页：http：//copenhagencoffeelab.com/kaffebaren/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✘ | ✔ | [Boldhusgade 6, 1062 København K](https://goo.gl/maps/nN7zjHsSmcU2)  |  周一至周五7：30-17：00，周六11：00-17：00
 
@@ -199,23 +199,23 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//coffeecollective.dk/bars/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✘ | ✔ | [Godthåbsvej 34B, 2000 Frederiksberg](https://goo.gl/maps/pTQ1iiZqJuF2)  |  周一至周五7：30-19：00，周六9：00-18：00，周日10：00-18：00
 
 #### Emmerys (Store Kongensgade)
 
-网页：http：//www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/cafebutik.html
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Store Kongensgade 97, 1264 København K](https://goo.gl/maps/BPXXzi37DfE2) |
 
 #### Emmerys (Store Strandstræde)
 
-网页：http：//www.emmerys.dk/cafebutik.html
+Webpage: http://www.emmerys.dk/cafebutik.html
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Store Strandstræde 21, 1255 København K](https://goo.gl/maps/rsYsgqpWugy) |
 
@@ -225,7 +225,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.paludan-cafe.dk
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Fiolstræde 10, 1171 København](https://goo.gl/maps/BaqeGzohcdC2)  |  周一至周五9：00-22：00，周六至周日10：00-22：00
 
@@ -235,7 +235,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.riccos.dk
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  睡觉| [Sluseholmen 28, 2450 København SV](https://goo.gl/maps/3w6ZXGg6EUo)  |  周一至周日8：00-17：45
 
@@ -245,7 +245,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.bevars.dk
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2)  |  周一9：30-23：00，周二至周三9：30-24：00，周日9：30-2：00，周五9：30-3：00，周六10：00-3：00，周日10： 00-21：30
 
@@ -255,7 +255,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//cafenutid.dk
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw)  |  周一（仅限开放），周五至周五9：00-20：00，周三13：00-22：00，周日13：00-18：00
 
@@ -270,7 +270,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/CafeShopSouthPigalle
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [53 Avenue Trudaine, 75009 Paris](https://goo.gl/maps/RRm5Qdx2k3u)  |  周一至周五7：30-18：30，周六至周日：9：00-18：30
 
@@ -278,7 +278,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.tripadvisor.com/Restaurant_Review-g187147-d1171207-Reviews-Le_Progres-Paris_Ile_de_France.html
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [7 Rue des Trois Frères, 75018 Paris](https://goo.gl/maps/EPuXWaLcKa22) |
 
@@ -288,7 +288,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.cafeloustic.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [40 Rue Chapon, 75003 Paris](https://goo.gl/maps/UaCpEQj8YAS2)  |  周一至周五8：00-18：00，周六9：00-18：00，周日10：00-18：00
 
@@ -300,7 +300,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.anticafe.eu/louvre
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [10 Rue Richelieu, 75001 Paris](https://goo.gl/maps/RAFpjLLeSPJ2)  |  周一至周五9：00-22：30，周六至周日10：00-2：30
 
@@ -312,7 +312,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.anticafe.eu/beaubourg
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [79 Rue Quincampoix 75003 Paris](https://goo.gl/maps/S9GT8mH6oYT2)  |  周一至周五9：00-22：30，周六至周日10：00-9：30
 
@@ -324,7 +324,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www-bsg.univ-paris1.fr
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [10 place du Panthéon (Rue Valette) 75005 Paris](https://goo.gl/maps/UpYmgQVLzML2)  |  周一至周六上午10:00至下午10:00
 
@@ -342,7 +342,7 @@ Wifi | Power | Address | Open Hours
 网页：https：//www.c-base.org/
 维基百科：https：//en.wikipedia.org/wiki/C-base
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn)  |  变量
 
@@ -352,7 +352,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.schillerbar.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Herrfurthstraße 7, 12049 Berlin](https://goo.gl/maps/LzTzgA64Jpv)  |  周一至周日09：00-00：00
 
@@ -362,7 +362,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//sanktoberholz.de/en/coffee/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD)  |  周一至周四08：00-00：00，周五08：03：00，周六09：00-3：00，周日09：00-00：00
 
@@ -375,7 +375,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  （仅限eduroam）|  ✔| [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2)  |  周一至周四9:00至17:00;  周五9:00至15:00
 
@@ -387,7 +387,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [blog.attraktor.org](https://blog.attraktor.org/)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Eschelsweg 4, 22767 Hamburg](https://goo.gl/maps/hYt8h5hKfgF2) | [Variable](https://blog.attraktor.org/tuerstatus-faq/)
 
@@ -397,7 +397,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [hamburg.ccc.de](https://www.hamburg.ccc.de/)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Zeiseweg 9, 22765 Hamburg](https://goo.gl/maps/kBtfZNjEfjv) | [Variable](https://wiki.hamburg.ccc.de/Calendar)
 
@@ -408,7 +408,7 @@ Wifi | Power | Address | Open Hours
  &gt;大学旁边;  在本地hackspace下面
 &gt;自制蛋糕和糕点;
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krautgasse 26, 07743 Jena](https://goo.gl/maps/kGtrdrehFHy)  |  周一至周五07：30-19：00;  周六10：00-17：00
 
@@ -420,7 +420,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [lostweekend.de](http://lostweekend.de)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Schellingstr. 3, 80799 Munich](https://goo.gl/maps/XjseoLrhLS92)  |  周一至周五8：00-20：00;  周六10：00-20：00;  太阳12：00-18：00
 
@@ -435,7 +435,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/PinkCoffeeHK
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Shop 305, D2 Place, Lai Chi Kok](https://goo.gl/maps/SuyKBeM86752)  |  周一至周五8：00-21：00，周六至周日9：30-18：00
 
@@ -452,7 +452,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.whiteboard.cafe， [Zomato](https://www.zomato.com/whiteboardcafe)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Plot 15/1, 1st Floor, Sector 2, Opposite Cyber Gateway, Hitech City, Hyderabad](https://goo.gl/maps/XkwPfawQWrp)  |  周一至周日8：00-22：00
 
@@ -465,11 +465,11 @@ Wifi | Power | Address | Open Hours
 
 #### Cafe Peru
 
-> Nice little coffee, they have home-made pastries and good coffee (it is hidden in a beautiful location)
+&gt;漂亮的小咖啡，他们有自制的糕点和好咖啡（它藏在一个美丽的地方）
 
 网页：http：//www.caffeperu.it/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Via di Monserrato, 46, 00186 Roma](https://goo.gl/maps/HXioZUdXoPS2)  |  周一至周六6：00-14：00，周五至周六6：00-14：30，周日9：00-21：00
 
@@ -486,7 +486,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.trunkcoffee.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [2 Chome-28 Izumi, Higashi Ward, Nagoya, Aichi Prefecture](https://goo.gl/maps/HbL87xYSzsA2) | 月～木／9:30-21:00　金／9:30-22:00
 　土／9:00-22:00　日・祝／9:00-19:00
@@ -501,7 +501,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.fuglen.com/japanese/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [1 Chome-16-11 Tomigaya, 渋谷区 Tokyo 151-0063, Japan](https://goo.gl/maps/QyW3BodxKiK2)  |  周一至周二：上午8点至晚上10点，周三至周四：上午8点至凌晨1点，周五：上午8点至凌晨2点，周六：上午9点至凌晨2点，周日：上午9点至凌晨12点
 
@@ -511,7 +511,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.osscafe.net/ja/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [〒155-0033 Tokyo, Setagaya, Daita, 6 Chome−11−14, G1](https://goo.gl/maps/ek2VPvXcVjA2)  |  每日：10：00-20：00.  星期五休息.
 
@@ -522,7 +522,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//unir-coffee-akasaka.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky)  |  每日：00：00-23：59
 
@@ -543,7 +543,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.vaga.lt/draugyste-knygynas-gedimino-pr-2-vilnius-/knygynas
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Gedimino pr. 2-4, Vilnius 01103, Lithuania](https://goo.gl/maps/cyxVp2RshEy) | 9–21
 
@@ -560,7 +560,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [dwazezaken.nl](http://www.dwazezaken.nl/)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Prins Hendrikkade 50, 1012 AC Amsterdam, Netherlands](https://goo.gl/maps/fZ1feyFpyMn)  |  周一至周六9：00-00：00，周日9：00-17：30
 
@@ -570,7 +570,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.deysbreeker.nl/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Weesperzijde 23, 1091 EC Amsterdam, Netherlands](http://goo.gl/qLPEjU)  |  太阳周四上午8点至凌晨1点，周五至周六上午8点至凌晨2点
 
@@ -582,7 +582,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [kekdelft.nl](http://www.kekdelft.nl/)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Voldersgracht 27, Delft, Netherlands](https://goo.gl/maps/PUKMd1YMKPD2)  |  周一至周五8：30-18：00，周六至周日9：00-18：00
 
@@ -661,7 +661,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.karmaroasters.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 12, 31-123 Kraków](https://goo.gl/maps/Q7GAvneeUiu)  |  周一至周五8：00-20：00，周六至周日10：00-19：00
 
@@ -671,7 +671,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Dolnych Młynów 3. 31-000 Kraków](https://goo.gl/maps/WY8CapFQ2N72)  |  周一至周五6：30-21：00，周六至周日7：30-20：00
 
@@ -681,7 +681,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/BlossomCoffeeAndFood/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv)  |  周一至周六8：00-20：00，周日8：00-19：00
 
@@ -691,7 +691,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/cafelisboa.krakow/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92)  |  周一至周三08：00-20：00，周五08：00-21：00，周六至周日10：00-20：00
 
@@ -701,7 +701,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/TEKTURAcafe/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Krupnicza 7, 33-332 Kraków](https://goo.gl/maps/UJ3uijZZAcA2)  |  周一至周日08：00-21：00
 
@@ -711,7 +711,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.coffeecorner.pl/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Pawia 5a, 31-154 Kraków](https://goo.gl/maps/XkhhquuUZ252)  |  周一至周日05：00-22：00
 
@@ -721,7 +721,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//ogniwo.org/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Paulińska 28, first floor, 31-065 Kraków](https://goo.gl/maps/Xhwzcabr9Wp)  |  周一至周日16：00-22：00
 
@@ -733,7 +733,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//kafo.info/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Józefa Wieczorka 14, 44-100 Gliwice](https://goo.gl/maps/3KBX4BrxovL2)  |  周一至周五7：00-20：00，周六9：00-20：00，周日10：00-20：00
 
@@ -750,7 +750,7 @@ Wifi | Power | Address | Open Hours
 
 Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.pt)
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr)  |  星期二，星期日20：00-01：00，周五至周六20：00-2：00
 
@@ -763,7 +763,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/Nordicocoffeeshop/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. do Anjo 90A, 4700-305 Braga](https://goo.gl/maps/L2yeswCyJoG2)  |  周一：12-19h，周三至周六：10：3​​0-19：00，周日：11-17h
 
@@ -775,7 +775,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.starbucks.pt/store-locator/search/location/Braga%2C%20Portugal/detail/1021430
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Shopping Liberdade Street Fashion, Avenida da Liberdade, Braga, 4710-251](https://goo.gl/maps/oknJVz1HrS42)  |  周四至周五8:00至23:00，周五至周六08：00至01:00
 
@@ -786,7 +786,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz)  |  周一至周日的8:00至21:00
 
@@ -797,9 +797,9 @@ Wifi | Power | Address | Open Hours
 
 网页：N / A.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92)  |  周一至周四7:30至21:00，周五至周六7:30至22:00，周日7:30至14:00
+✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92)  |  周一至周五7:30至21:00，周五至周六7:30至22:00，周日7:30至14:00
 
 ![](http://www.speedtest.net/result/5678886940.png)
 
@@ -809,7 +809,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.novaarcada.pt/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Avenida de Lamas, nº 100 União de Freguesias Real, Dume e Semelhe 4700 Braga](https://goo.gl/maps/gGLiRqiWK9k)  |  周一至周四，周日10:00至23:00;  周五至周六10:00至24:00
 
@@ -829,24 +829,13 @@ Wifi | Power | Address | Open Hours
 
 Wifi pw：`ilovenicolau`
 
-#### Café Tati
-
-&gt;良好的自制食品，友好的人民和良好的氛围.
-
-网页：http：//www.cafetati.blogspot.dk
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [1200 371, R. Ribeira Nova 36, 1200-371 Lisboa](https://goo.gl/maps/mhZJSFpJPuL2) |
-
 #### Choupana Café
 
 网页：http：//4sq.com/XuO7me
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12)  |  周日7:00至20:00
-
 
 #### Confeitaria Lisboa
 
@@ -864,7 +853,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✘ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
@@ -876,7 +865,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.lerdevagar.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Desenvolvimento e PatrocínioRua Rodrigues Faria,n. 103 - Ed. G - 0.3, 1300-501 LISBOA](https://goo.gl/maps/AgAc47QqSts) |
 
@@ -888,7 +877,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//4sq.com/1dQaY6h
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
@@ -912,7 +901,7 @@ Wifi pw：`涂鸦`
 
 网页：http：//www.opaonosso.pt/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. Marquês Sá da Bandeira 46, 1050-149 Lisboa, Portugal](https://goo.gl/maps/FD69tn3WZ2G2) |
 
@@ -938,7 +927,7 @@ Wifi pw：`葡萄牙语`
 
 网页：http：//www.poiscafe.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
 
@@ -980,7 +969,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/wishslowcoffeehouse
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Rodrigues Faria, 103 - Espaço G2 1300-501 Lisbon](https://goo.gl/maps/h5rSLnrrEmx) |
 
@@ -992,11 +981,21 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.merceariadocampo.pt/en_GB/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Saraiva de Carvalho - 115 R/C, 1250-242 Lisboa](https://goo.gl/maps/AX6XdBCy2bN2)  |  周一至周四08：00  -  00：00，周五至周六的09:00至02:00
 
 ![](http://www.speedtest.net/result/7297518934.png)
+
+####  Eric Kayser
+
+&gt;开放空间即使在户外使用wifi和漂亮的蛋糕，有时可能会很吵 
+
+网页：https：//www.facebook.com/erickayserportugal
+
+ Wifi |  电源|  地址|  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [Amoreiras Plaza Rua Professor, R. Carlos Alberto da Mota Pinto 9, 1250-252 Lisboa](https://goo.gl/maps/zxuU8HZMJbRwNpPWA)  |  周六至周五08：00-20：00，周一至周五07:30至20:30
 
 ## Porto
 
@@ -1006,7 +1005,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.bop.pt
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [R. da Firmeza 575, Porto, Portugal](https://goo.gl/maps/wpxTd6PzQEw)  |  星期一中午12:30  - 凌晨1:00，星期二至星期五上午10:00  - 凌晨1:00
 
@@ -1018,7 +1017,7 @@ Wifi | Power | Address | Open Hours
 
 网页：（duasdeletra.pt）[http://duasdeletra.pt/]
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Passeio de São Lázaro Nº 48, Porto, Portugal](https://goo.gl/maps/ouhN2fTzyKG2)  |  周一至周四上午10:00至晚上10:00，周五至周六上午10:00至凌晨12:00，周日下午02:00至晚上8:00
 
@@ -1030,7 +1029,7 @@ Wifi | Power | Address | Open Hours
 
 网页：embaixadaporto.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Praça de Carlos Alberto 121, Porto, Portugal](https://goo.gl/maps/EkUoagQm5Ym) |
 
@@ -1042,7 +1041,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//4sq.com/28XN73L
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Av. de Camilo 325, Porto, Portugal](https://goo.gl/maps/aVZ1cFWQatT2)  |  周一至周五上午8:30至下午7:00，周六上午10:00至下午7:00
 
@@ -1054,9 +1053,29 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.moustache.pt/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Praça Carlos Alberto 104, Porto, Portugal](https://goo.gl/maps/sRRxzxuGLhB2)  |  周一至周五的8:00至20:00，周四至周六的8:00至2:00，周日的14:00至20:00
+
+#### Café Candelabro
+
+&gt;位于波尔图市中心的咖啡馆，图书馆和书店.
+
+Webpage: https://www.cafecandelabro.com/
+
+ Wifi |  电源|  地址|  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua da Conceição 2, Porto, Portugal](https://goo.gl/maps/fDQuuCgAZPZSgdgt7)  |  周六下午4:00  - 凌晨2:00，周日下午4:00  - 凌晨12:00，周一下午1:00  - 凌晨2:00，周二 - 周五上午10:30  - 凌晨2:00
+
+#### Café Vitória
+
+&gt;餐厅和咖啡厅就位于波尔图市中心，后面有一个漂亮的花园.
+
+网页：http：//www.cafevitoria.com/
+
+ Wifi |  电源|  地址|  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rua de José Falcão 156, Porto, Portugal](https://goo.gl/maps/HT8dioSQPnDGecsMA)  |  星期六下午2:00  - 凌晨2:00，星期日休息，星期一 - 星期四中午12:00  - 凌晨1:00，星期五中午12:00  - 凌晨2:00
 
 ## Viana do Castelo
 
@@ -1066,7 +1085,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//pt.foursquare.com/v/pastelaria-jardim/4f1c28e5e4b08fa665830c09 <Paste>
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Joao Tomas da Costa, Viana do Castelo 4900-509, Portugal](https://goo.gl/maps/bpfWKYvfsTk) |
 
@@ -1078,7 +1097,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//pt.foursquare.com/v/casinha-boutique-caf%C3%A9/53909128498ec1bfd0cfcb7a
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua Cândido Dos Reis, N° 20](https://goo.gl/maps/bpfWKYvfsTk) |
 
@@ -1097,7 +1116,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/JWCEverton/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2)  |  周一至周五上午8:30至下午6点，周六至周日上午10点至下午6点
 
@@ -1107,7 +1126,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//breadandhearth.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys)  |  每日上午8:30至晚上9:30
 
@@ -1119,7 +1138,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.jimmymonkey.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2)  |  每日上午7:00至下午6:00
 
@@ -1150,7 +1169,7 @@ Google地图：https：//goo.gl/maps/osWKar7YQfm
 
 Naver地图：http：//naver.me/FjThMRso
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [478, Gangnam-daero, Gangnam-gu, Seoul, Republic of Korea](https://goo.gl/maps/osWKar7YQfm)  |  每天24小时
 
@@ -1169,7 +1188,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//4sq.com/14xZ71H
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Marià Aguiló, 99, 08005 Barcelona Catalonia](https://goo.gl/maps/qZg6gmvAL4A2) |
 
@@ -1181,7 +1200,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//espaijoliu.tumblr.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
 
@@ -1194,7 +1213,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//frenesicafe.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | -------------- | -------
 ✔ | ✔ | [Carrer del Comte d’Urgell, 115](https://goo.gl/maps/1DTErmADkkz)  |  星期一：星期四，星期四：9-19，周五至周日：10-17
 
@@ -1204,7 +1223,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//federalcafe.es/barcelona-gotic/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | -------------- | -------
 ✔ | ✔ | [Passatge de la Pau, 11](https://goo.gl/maps/o8dbgysDLbw) |
 
@@ -1216,7 +1235,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.26grados.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
 
@@ -1237,7 +1256,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//cafefatoljen.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  ✔|  Götgatan14,11846斯德哥尔摩，瑞典|  9-23
 
@@ -1247,7 +1266,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//cafepascal.se
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  一些|  Norrtullsgatan 4,113 29 Stockholm，Sweden |  7-19
 
@@ -1259,7 +1278,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//www.facebook.com/cafelinne/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  一些|  Svartbäcksgatan22,75332 Uppsala，Sweden |  8-22
 
@@ -1276,7 +1295,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.borealcoffee.ch/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  ✔|  一些插头|  Talacker 41 CH-8001Zürich|  周一至周五：07：00  -  19:00周六 - 周日：09：00-19：00
 
@@ -1293,7 +1312,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//istanbulhs.org
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Eğitim Mh. Muratpaşa Cd. Altay Apt. No:11/A Kadıköy](https://istanbulhs.org/wiki/iletisim/) |
 
@@ -1305,7 +1324,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.denizlihs.org/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Çamlaraltı Mah. Hüseyin Yılmaz Cad. No:67 Pamukkale/Denizli](https://www.google.com.tr/maps/@37.7382126,29.0916182,18z)| 24/7
 
@@ -1324,9 +1343,9 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//london.hackspace.org.uk/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw)  |  24/7（仅限会员）
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
 
 ## Scotland
 
@@ -1338,7 +1357,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//edinburghhacklab.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [1 Summerhall, Edinburgh, EH9 1PL](https://goo.gl/maps/JNmhHj7JoVn)  |  每周二开放一晚
 
@@ -1348,7 +1367,7 @@ Wifi | Power | Address | Open Hours
 
 网页：www.brewlabcoffee.co.uk
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [6-8 South College Street, Edinburgh, EH8 9AA](https://goo.gl/maps/zBEETf2NjaB2)  |  周一至周五8：00-18：00，周六至周日9：00-18：00
 
@@ -1367,7 +1386,7 @@ Wifi | Power | Address | Open Hours
 
 &gt;当地的艺术，一些食物，一种朋克/肮脏，很多人在他们的电脑上，每周7天，每天24小时
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔| [21 E Broadway Blvd, Tucson, AZ 85701](https://goo.gl/maps/WUJjwGczYS42) |24/7
 
@@ -1380,7 +1399,7 @@ Wifi | Power | Address | Open Hours
 &gt;随意的牛主题咖啡馆和熟食店，有很多一楼和二楼的座位，
 &gt;字面意思是距太平洋一块.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [34 Washington Blvd, Venice, CA 90292](https://goo.gl/maps/Swe3G5wnFuy) |早上6点 - 晚上9点
 
@@ -1391,7 +1410,7 @@ Wifi | Power | Address | Open Hours
  &gt;非常加利福尼亚人和悠闲.  当地人有美食的常见地点
 &gt;和冰淇淋.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔ | [300 Carlsbad Village Dr #211, Carlsbad, CA 92008](https://goo.gl/maps/x9ReUJVpnYD2)  |  上午7点至晚上10点
 
@@ -1401,7 +1420,7 @@ Wifi | Power | Address | Open Hours
 
 &gt;红色的墙壁在咖啡馆设置了氛围，艺术和现场音乐通常提供咖啡和小吃
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [201 Castro St, Mountain View, CA 94041](https://goo.gl/maps/PGtEs1GB6Wo)  |  周一至周四7：00-22：00，周五7：00-23：00，周六8：00-23：00，周日8：00-20：00
 
@@ -1411,7 +1430,7 @@ Wifi | Power | Address | Open Hours
 
 &gt;巨大，富有艺术气息的空间，充足的电源插座，多样化的座位和坚固的无线网络.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [4210 Telegraph Ave, Oakland, CA 94609](https://goo.gl/maps/QWCffXaT5482)  |  上午8点至晚上7点
 
@@ -1420,7 +1439,7 @@ Wifi | Power | Address | Open Hours
  &gt;非常阳光，舒适的地方，提供美味的咖啡和食物.  就在街角
 &gt;为了最佳观看人群.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [5401 College Ave, Oakland, CA 94618](https://goo.gl/maps/fHX4zid3HH72)  |  平日：早上6点至下午6点，周末：早上7点至下午6点
 
@@ -1432,7 +1451,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//hanahaus.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [456 University Ave, Palo Alto, CA 94301](https://goo.gl/maps/B2Q66N7tdvP2)  |  周一至周五7：00-19：00，周六至周日8：00-19：00
 
@@ -1454,7 +1473,7 @@ Wifi | Power | Address | Open Hours
 
  &gt;宽敞的空间，有很多座位，很多插头，不是很好的WiFi.  在夏季，由于没有交流/良好的空气流动，它可能会变得安静.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
   ✔ | ✔| [1890 Bryant St, San Francisco, CA 94110](https://goo.gl/maps/6i2sppYKZ2P2)  |  周一至周五7：30-16：00，周六8：00-16：00，周日10：00-16：00
 
@@ -1464,7 +1483,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//sightglasscoffee.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  没有|  没有| [270 7th St, San Francisco, CA 94103](https://goo.gl/maps/Lr63kJgk43M2)  |  周一至周日7：00-19：00
 
@@ -1474,7 +1493,7 @@ Wifi | Power | Address | Open Hours
 
 网页：https：//blackhammerbrewing.com
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [544 Bryant St, San Francisco, CA 94107](https://goo.gl/maps/8VoTSniJ5FC2)  |  周一至周日12：00-23：00
 
@@ -1487,7 +1506,7 @@ Wifi | Power | Address | Open Hours
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ----- | ------- | ----------
-ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2)  |  周一至周五7：30-22：00，周五至周六8：00-00：00，周日8：00-21：00
+ 问|  ✔|  ✔| [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2)  |  周一至周五7：30-22：00，周五至周六8：00-00：00，周日8：00-21：00
 
 ### Santa Monica, CA <a id="santa-monica-ca"></a>
 
@@ -1511,7 +1530,7 @@ ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfD
 
 网页：http：//dolcecasacafe.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [4947 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/eNmG3ETExt92)  |  周一至周五7：00-16：00，周六至周日8：00-15：00
 
@@ -1521,7 +1540,7 @@ Wifi | Power | Address | Open Hours
 
 网页：http：//www.perfectcupchicago.com/
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [4700 N Damen Ave, Chicago, IL 60625](https://goo.gl/maps/CVzWt8xiXyG2)  |  周一至周五6：30-20：00，周六至周日7：00-20：00
 
@@ -1531,7 +1550,7 @@ Wifi | Power | Address | Open Hours
 
  &gt;阁楼般的深夜咖啡馆，包括piroshki和empanadas等馅饼，以及越南咖啡.  BYOB.
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [239 W Read St, Baltimore, MD 21201](https://goo.gl/maps/yfasgrqVjjJ2)  |  7天早上7点至凌晨3点
 
@@ -1627,7 +1646,7 @@ Notes:
 
 #### Yoghut
 
- &gt;很棒的咖啡，acai碗和泡茶.  从来没有拥挤或嘈杂如此，如果你享受和平和非常黑客的好处.
+> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
 
 网页：https：//yoghut.com/
 
@@ -1734,12 +1753,12 @@ Notes:
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ------ | ------- | ----------
-ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm)  |  周一至周日8：00-22：00
+ 问|  ✔|  ✔| [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQaXynm)  |  周一至周日8：00-22：00
 
 #### Fix Coffeehouse
 
 &gt;咖啡厅，啤酒和绿湖的好位置
 
-Wifi | Power | Address | Open Hours
+ Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
  问|  ✔| [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2)  |  周一至周五6：00-21：00，周六7：00-21：00，周日7：00-20：00

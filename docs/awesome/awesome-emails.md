@@ -9,7 +9,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;一系列令人敬畏的框架，模板，工具，工作流程等等，以构建更好的电子邮件.
+> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
 
 ## Frameworks
@@ -33,7 +33,7 @@
 - [Cerberus](https://github.com/TedGoas/Cerberus) - 很少有响应式电子邮件模式.
 - [Antwort](https://github.com/internations/antwort) -  Antwort为电子邮件提供响应式布局，既适合客户端宽度又适应客户端宽度.
 - [Responsive HTML Template](https://github.com/charlesmudy/responsive-html-email-template) - 此模板旨在适用于所有主要电子邮件平台，并使用媒体查询构建，使其能够响应支持媒体查询的智能手机.
-- [HTML Email Templates](https://www.htmlemailtemplates.net/) - Responsive HTML email templates for Startups & SaaS.
+- [HTML Email Templates](https://www.htmlemailtemplates.net/) - 用于Startups和SaaS的响应式HTML电子邮件模板.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - 五个预先测试的模板，适用于任何邮件服务
 - [Grunt Email Boilerplate](https://github.com/dwightjack/grunt-email-boilerplate) - 用于创建电子邮件的Grunt模板.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - 响应式电子邮件的模式和模块集合.
@@ -133,6 +133,7 @@ VML和CSS.
 - [MailCatcher](https://mailcatcher.me/) 本地虚假SMTP服务器（基于Ruby）
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端的priacy功能（加载远程内容）的工具
 - [Mail Tester](https://www.mail-tester.com/) - 测试你的电子邮件的垃圾邮件
+- [Sendtest.email](https://sendtest.email/)   - 在发送之前测试您的HTML电子邮件，⚡4email或文本版本.  以隐私为重点，无需注册！
 
 ## Learning
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) -  Justine Jordan和Jason Rodriguez的响应式电子邮件课程.

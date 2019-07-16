@@ -143,7 +143,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [crystal-monetdb-libmapi](https://github.com/puppetpies/crystal-monetdb-libmapi) -  MonetDB的绑定
  * [crystal-mysql](https://github.com/crystal-lang/crystal-mysql) -  Crystal的MySQL连接器
  * [crystal-pg](https://github.com/will/crystal-pg) - 一个Postgres司机
- * [crystal-redis](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
+ * [crystal-redis](https://github.com/stefanwille/crystal-redis) - 功能齐全的Redis客户端
  * [crystal-rethinkdb](https://github.com/kingsleyh/crystal-rethinkdb) -  RethinkDB / RebirthDB的驱动程序
  * [crystal-sqlite3](https://github.com/crystal-lang/crystal-sqlite3) -  SQLite3绑定
  * [eventql-crystal](https://github.com/measurechina/eventql-crystal) -  EventQL驱动程序
@@ -197,7 +197,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -  Serdar Dogruyol博客的Crystal＆Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) - 使用Kemal和WebSocket构建实时应用程序
  * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) - 此存储库显示，如何在几秒钟内发布开源应用程序，这些应用程序将kemal框架作为heroku app发布
- * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL
+ * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) - 用Crystal，Kemal和MySQL编写的博客
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) - 使用Kemal和React构建实时Web应用程序
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) - 使用Kemal和Vue.js构建实时Web应用程序
  * [lattice-core-card-game](https://github.com/jasonl99/card_game) - 针对（基于WebSocket的）网格核心的演示Web应用程序
@@ -216,7 +216,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - 轻质DI容器
  * [crystal-mime](https://github.com/spalger/crystal-mime) - 水晶的Mimetypes
  * [device_detector](https://github.com/creadone/device_detector) - 用户代理字符串检测设备的分片
- * [Exception Page](https://github.com/crystal-loot/exception_page) -  Crystal Web库和框架的特殊异常页面
+ * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 履行
  * [kave](https://github.com/jwoertink/kave) -  Kemal API版本扩展
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - 使用JWT通过HTTP头令牌进行身份验证的Kemal中间件
@@ -248,7 +248,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
 
 ## HTML/XML Parsing
- * [crystagiri](https://github.com/madeindjs/Crystagiri) - 像Html读者/解析器 [Nokogiri](https://github.com/sparklemotion/nokogiri) 红宝石宝石
+ * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) 红宝石宝石
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - 绑定 [Gumbo](https://github.com/google/gumbo-parser)，一个由Google制作的HTML5解析库
  * [hq.cr](https://github.com/maiha/hq.cr) -  crystal-xml的简单包装
  * [myhtml](https://github.com/kostya/myhtml) - 包含CSS选择器的快速HTML5分析器
@@ -288,10 +288,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
+ * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 库帮助自动生成仪表板
  * [crometheus](https://gitlab.com/ezrast/crometheus) - 一个 [Prometheus](https://prometheus.io/) 客户端库
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - 拖尾日志文件
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - 结构化记录器 [Fluentd](https://www.fluentd.org/)
@@ -321,7 +322,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [callbacks](https://github.com/vladfaust/callbacks.cr) - 富有表现力的回调模块
  * [circuit_breaker](https://github.com/TPei/circuit_breaker) - 实现断路器模式
  * [compiled_license](https://github.com/elorest/compiled_license) - 在没有代码的情况下将二进制文件复制到系统或容器时，将许可证编译为二进制文件以便与MIT兼容
- * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
+ * [crystal-binary_parser](https://github.com/DanSnow/crystal-binary_parser) - 二进制解析器
  * [crystal-web-framework-stars](https://github.com/isaced/crystal-web-framework-stars) -  Crystal的Web框架，大部分都出自Github
  * [crz](https://github.com/dhruvrajvanshi/crz) - 函数式编程库
  * [emoji.cr](https://github.com/veelenga/emoji.cr) - 表情符号库
@@ -333,6 +334,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [m3u8](https://github.com/akiicat/m3u8) - 为HTTP Live Streaming生成并解析m3u8播放列表
  * [manual-generator](https://github.com/blocknotes/manual-generator) - 从文档站点生成PDF手册的工具
  * [message_verifier.cr](https://github.com/danielwestendorf/message_verifier.cr) - 验证并生成Rails`ActiveSupport :: MessageVerifier`签名的令牌
+ * [monads](https://github.com/alex-lairan/monads) -  Monad实施
  * [pangu.cr](https://github.com/isaced/pangu.cr) -  Crystal中的偏执文本间距
  * [pinger](https://github.com/spider-gazelle/pinger) -  Ping IP地址和DNS条目，无需sudo
  * [port_midi](https://github.com/jimm/crystal_port_midi) - 用于PortMIDI跨平台MIDI I / O库的Crystal C绑定
@@ -454,6 +456,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Spec](https://crystal-lang.org/api/Spec.html) -  spec框架（Crystal stdlib）
  * [spectator](https://gitlab.com/arctic-fox/spectator) - 功能丰富的规范框架，使用现代期望语法
  * [timecop.cr](https://github.com/crystal-community/timecop.cr)   - 使用`Time.now`进行模拟的库.  灵感来自于 [timecop ruby gem](https://github.com/travisjeffery/timecop)
+ * [vcr](https://github.com/spoved/vcr.cr) - 晶体的HTTP捕获和重放实现
  * [webdriver_pump](https://github.com/bwilczek/webdriver_pump)   - 页面对象库.  灵感来自Ruby [WatirPump](https://github.com/bwilczek/watir_pump)
  * [webmock.cr](https://github.com/manastech/webmock.cr) - 用于存根“HTTP :: Client”请求的库
 
@@ -473,6 +476,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [gitlab.cr](https://github.com/icyleaf/gitlab.cr) -  GitLab API包装器
  * [google_maps_api](https://github.com/fridgerator/google_maps_api) -  Google Maps API
  * [hncr](https://github.com/Gangwolf/hncr) - 黑客新闻API包装器
+ * [kube-client.cr](https://github.com/spoved/kube-client.cr) -  Kubernetes API客户端
  * [mixpanel-crystal](https://github.com/petoem/mixpanel-crystal) - 用于向Mixpanel发送事件的库
  * [nexmo-crystal](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) 客户
  * [open_exchange_rates](https://github.com/osfx/open_exchange_rates) - 访问的图书馆 [Open Exchange Rates](https://openexchangerates.org/) API

@@ -266,6 +266,7 @@ Installers
   - [NetApp Kubernetes Service (formerly StackPoint Cloud)](https://cloud.netapp.com/kubernetes-service)
   - [Hasura](https://hasura.io/)
   - [ELASTX](https://www.elastx.se/)
+  - [Nirmata](https://www.nirmata.com/)
 
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)

@@ -38,10 +38,9 @@
 - [dapple](https://github.com/nexusdev/dapple) -  Dapple是一家Solidity开发商多功能工具，旨在管理日益复杂的互联智能合约系统.
 - [digx](https://www.dgx.io/) -  Digix是一个基于以太坊和IPFS的资产标记化平台.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -  Discussify为任何人加入和参与提供实时，点对点和永久性的讨论平台.
-- [DtinyUrl](http://t.bdaily.club) - 基于ipfs的分散式网址缩短服务 [Source](https://github.com/facert/dtinyurl)
+- [DtinyUrl](http://t.bdaily.club) - 基于IPFS的分散式URL缩短服务. [Source](https://github.com/facert/dtinyurl)
 - [dtube](https://d.tube) - 与steem.it集成的分布式视频共享，使用ipfs进行后端存储.
 - [enzypt.io](https://enzypt.io/) - 通过以太坊和IPFS购买和销售文件的网站. [Source](https://github.com/flex-dapps/enzypt)
-- [Eternum](https://www.eternum.io/) - 带有易于使用的API的付费钉扎服务.
 - [Ethlance](http://ethlance.com) - 建立在以太坊和IPFS上的第一个完全分散的就业市场平台. [Source](https://github.com/madvas/ethlance)
 - [git-ipfs-rehost](https://github.com/whyrusleeping/git-ipfs-rehost) - 在ipfs中重新托管你的git repos的脚本.
 - [Global Upload](https://globalupload.io/) -  IPFS的文件传输服务，将文件上传到分布式Web的未来.
@@ -69,7 +68,6 @@
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -  Dolphin File Manager的服务菜单，用于将文件上载到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) - 审查抵制死人的开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - 基于Pandoc的标记编辑器/预览器/转换器，移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
-- [NodeFort.io](https://www.nodefort.io) - 基于Web的IPFS节点托管服务.
 - [OpenBazaar](https://www.openbazaar.org/) - 这个新版本（v2.0）建立在IPFS之上，即使离线时，买家也可以访问Openbazaar商店.
 - [Orbit](https://orbit.chat) -  IPFS上的分布式对等聊天应用程序. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - 分布式共享经济市场，其中包含存储在IPFS上的图像，元数据和ERC 725数据. [Source](https://github.com/OriginProtocol/demo-dapp)
@@ -79,7 +77,6 @@
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - 使用window.ipfs的IPv4 IPFS对等体的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Peergos](https://peergos.org) - 端到端加密，对等文件存储和共享. [Source](https://github.com/Peergos/Peergos)
 - [Philes](https://philes.co) - 一个简单的基于浏览器的IPFS记事本应用程序. [Source](https://github.com/chrismatthieu/philes)
-- [Pinata](https://pinata.cloud) - 通过Pinata的REST API和IPFS工具包构建和管理您的dapp.
 - [Playback](https://mafintosh.github.io/playback/)   -  IPFS播放支持.  这允许将IPFS中的视频投射到Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 使用window.ipfs的~76KB演示聊天应用程序，由IPFS Companion Web扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布它们.
@@ -131,6 +128,12 @@
 - [World Wide Web History Project](https://ipfs.io/ipfs/QmRTSA1UFHSx3z7taNRwUVM8AjB2EQwKvyZu3BfJg9QRtZ)  [Source](https://github.com/ipfs/archives/issues/159)
 - [xkcd](https://ipfs.io/ipns/xkcd.hacdias.com)  [Source](https://github.com/ipfs/archives/issues/21)
 - [yarchive.net](https://ipfs.io/ipfs/QmdA5WkDNALetBn4iFeSepHjdLGJdxPBwZyY47ir1bZGAK)  [Source](https://github.com/ipfs/archives/issues/76)
+
+## Services
+
+- [Eternum](https://www.eternum.io/) - 带有易于使用的API的付费钉扎服务.
+- [NodeFort.io](https://www.nodefort.io) - 基于Web的IPFS节点托管服务.
+- [Pinata](https://pinata.cloud) - 通过Pinata的REST API和IPFS工具包构建和管理您的dapp.
 
 ## Tools
 

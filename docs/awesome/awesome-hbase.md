@@ -80,6 +80,7 @@
 #### Transactions
 
 * [Haeinsa](https://github.com/VCNC/haeinsa) -  HBase的多行/多表事务库.
+* [HBase-QoD](https://github.com/algarecu/hbase-0.94.8-qod) -  HBase细粒度事务DC间复制的矢量字段一致性.
 * [Omid](https://github.com/yahoo/omid) -  HBase的交易支持.
 * [Tephra](http://tephra.incubator.apache.org) -  HBase之上的全球一致性交易.
 * [Themis](https://github.com/XiaoMi/themis) - 基于Google Percolator的HBase的跨行/跨表交易.
