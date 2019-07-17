@@ -37,6 +37,7 @@
 - [ce-decorators](https://www.npmjs.com/package/ce-decorators) - 用于基于装饰器提议和lit-html构建Web组件的TypeScript库.
 - [@appnest/lit-translate](https://www.npmjs.com/package/@appnest/lit-translate) - 轻量级i18n库提供lit-html指令.
 - [haunted](https://www.npmjs.com/package/haunted) -  React的Hooks API，但适用于标准Web组件和hyperHTML或lit-html.
+- [functional-web-component](https://www.npmjs.com/package/functional-web-component) - 像React这样的功能组件，但是对于Web组件.
 
 ### Renderers
 
@@ -60,6 +61,7 @@
 
 ## Components
 
+- [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用Web组件构建的Carbon Design System的实验变体.
 - [Clever components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
 - [Ink Components](https://github.com/ink-components/ink-components) - 用于交互式科学写作的Web组件.
@@ -75,6 +77,7 @@
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -  Polymer团队的入门模板.
 - [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - 基于Open Web Components Recommendations的Starter应用程序.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) - 使用TypeScript中的最新LitElement开发下一个自定义元素的生成器.
+- [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) - 使用`@ rxdi`，lit-html，GraphQL，依赖注入构建客户端应用程序.
 
 ## IDE Plugins
 

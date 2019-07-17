@@ -13,6 +13,7 @@
  Han，J.，Pei，J.，Kamber，M.（2011）.  _Data mining：概念和技术_.  爱思唯尔.  
 
  Russell，SJ，Norvig，P.（2016）.  _人工智能：一种现代的方法_.  马来西亚;  培生教育有限公司.  
+
  Yannakakis，GN，Togelius，J.（2018）.  _人工智能和游戏_.  斯普林格.  
 
 

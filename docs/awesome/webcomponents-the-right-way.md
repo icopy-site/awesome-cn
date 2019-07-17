@@ -9,7 +9,7 @@
 
 
 
-&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) and maintained by [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -160,6 +160,7 @@
 ### Functional
 
 - [atomico](https://github.com/atomicojs/atomico) - 使用函数和钩子创建基于Web组件的接口的小型库.
+- [functional-web-component](https://github.com/wtnbass/functional-web-component) - 像React这样的功能组件，但是对于Web组件.
 - [haunted](https://github.com/matthewp/haunted) - 针对Web组件实现的React的Hooks API.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [reLift-HTML](https://github.com/mardix/relift-html) - 小型（3kb）视图库，允许创建Web组件并使HTML页面具有反应性.

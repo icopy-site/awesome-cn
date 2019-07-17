@@ -122,7 +122,7 @@
 - [Nano](https://github.com/pasztorpisti/nano) - 简约的，与传输无关且对测试友好的微服务框架.
 - [Negroni](https://github.com/codegangsta/negroni) -  Golang的惯用HTTP中间件.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - 实时/ REST后端服务.
-- [RPCX](https://github.com/smallnest/rpcx) - 基于.NET / RPC的分布式RPC服务框架，如阿里巴巴Dubbo和微博莫坦.
+- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
 - [Sleepy](https://github.com/dougblack/sleepy) -  REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - 服务路由，负载平衡和过滤应用程序.
 
@@ -141,12 +141,13 @@
 - [Friboo](https://github.com/zalando/friboo) - 用于在Clojure中编写微服务的实用程序库，支持Swagger和OAuth.
 - [Liberator](http://clojure-liberator.github.io/liberator/) - 帮助您将数据公开为资源的库，同时自动遵守HTTP规范的所有相关要求.
 - [Modularity](https://modularity.org/) -  JUXT基于Clojure的模块化系统.
-- [System](https://github.com/danielsz/system) - Built on top of Stuart Sierra's component library, offers a set of readymade components.
+- [System](https://github.com/danielsz/system) - 建立在Stuart Sierra的组件库之上，提供一组现成组件.
 - [Tesla](https://github.com/otto-de/tesla-microservice) - 一些Otto.de的Clojure微服务的共同基础.
 
 #### Java
 
 - [Airlift](https://github.com/airlift/airlift) - 用Java构建REST服务的框架.
+- [Armeria](https://line.github.io/armeria/) - 基于Java 8，Netty，Thrift和gRPC构建的开源异步HTTP / 2 RPC / REST客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - 高性能的线程间消息传递库.
 - [Dropwizard](https://dropwizard.github.io/) - 用于开发操作友好，高性能，RESTful Web服务的Java框架.
 - [Dubbo](http://dubbo.io/) - 由阿里巴巴开源的高性能，基于Java的RPC框架.
@@ -270,6 +271,7 @@
 
 ### Configuration and Discovery
 
+- [Central Dogma](https://line.github.io/centraldogma/) - 基于Git，ZooKeeper和HTTP / 2的开源高可用版本控制服务配置库.
 - [Consul](https://www.consul.io/)   - 轻松实现服务发现和配置.  分布式，高可用性和数据中心感知.
 - [ContainerPilot](https://github.com/joyent/containerpilot) - 用于自动发现和配置在容器中运行的应用程序的服务.
 - [Denominator](https://github.com/Netflix/denominator) - 使用java或bash可移植地控制DNS云.
@@ -399,7 +401,7 @@
 - [Login With](https://github.com/lipp/login-with) - 无状态登录 - 使用Google，FB，Github等微服务器.
 - [OAuth](http://oauth.net/2/)   - 为Web应用程序，桌面应用程序，移动电话和客厅设备提供特定的授权流程.  许多实现.
 - [OpenID Connect](http://openid.net/developers/libraries/) - 实现当前OpenID规范和相关规范的库，产品和工具.
-- [OSIAM](https://github.com/osiam/osiam) - 实施OAuth 2.0和SCIMv2的开源身份和访问管理.
+- [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
 - [SCIM](http://www.simplecloud.info/) - 跨域身份管理系统.
 - [Vault](https://www.vaultproject.io/) - 在现代计算中保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.
 
@@ -448,7 +450,7 @@
 - [Parquet](https://parquet.apache.org/) - 无论选择何种数据处理框架，数据模型或编程语言，Hadoop生态系统中的任何项目都可使用列式存储格式.
 - [Reborn](https://github.com/reborndb/reborn) - 分布式数据库与redis协议完全兼容.
 - [RethinkDB](http://rethinkdb.com/) - 开源，可扩展的数据库，使构建实时应用程序更容易.
-- [Secure Scuttlebutt](https://github.com/ssbc/docs) - 消息馈送的P2P数据库.
+- [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
 - [Tachyon](http://tachyon-project.org/) - 以内存为中心的分布式存储系统，可跨群集框架以内存速度实现可靠的数据共享.
 - [Voldemort](https://github.com/voldemort/voldemort) -  Amazon DynamoDB的开源克隆
 -  [VoltDB！[c]]（https://www.voltdb.com/） - 符合内存ACID的分布式数据库.
@@ -478,7 +480,7 @@
 - [RAML](http://raml.org/) -  RESTful API建模语言，一种简单而简洁的描述实际RESTful API的方法.
 - [ReDoc](https://github.com/Rebilly/ReDoc) -  OpenAPI / Swagger生成的API文档.
 - [Slate](https://github.com/tripit/slate) - 适用于API的精美静态文档.
-- [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - Document RESTful services by combining hand-written documentation with auto-generated snippets produced with Spring MVC Test.
+- [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - 通过将手写文档与使用Spring MVC Test生成的自动生成的片段相结合，记录RESTful服务.
 - [Swagger](http://swagger.io/) -  RESTful API的简单而强大的表示形式.
 
 ## Standards / Recommendations
@@ -487,13 +489,13 @@
 
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - 万维网架构，第一卷.
 - [RFC3986](https://tools.ietf.org/html/rfc3986) - 统一资源标识符（URI）：通用语法.
-- [RFC6570](https://tools.ietf.org/html/rfc6570) - 模板URI.
+- [RFC6570](https://tools.ietf.org/html/rfc6570) -  URI模板.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) -  URI设计和所有权.
 
 ### HTTP/1.1
 
 - [RFC7230](https://tools.ietf.org/html/rfc7230) - 消息语法和路由.
-- [RFC7231](https://tools.ietf.org/html/rfc7231) - 语义和内容.
+- [RFC7231](https://tools.ietf.org/html/rfc7231) - Semantics and Content.
 - [RFC7232](https://tools.ietf.org/html/rfc7232) - 条件请求.
 - [RFC7233](https://tools.ietf.org/html/rfc7233) - 范围请求.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) - 缓存.
@@ -624,13 +626,13 @@
 
 ### Books
 
-- [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf) :small_orange_diamond:<sup>PDF</sup> - Building Microservices: Designing Fine-grained Systems. Sam Newman. Preview Edition.
+- [Building Microservices](https://www.nginx.com/wp-content/uploads/2015/01/Building_Microservices_Nginx.pdf)  ：small_orange_diamond： <sup>PDF</sup> - 构建微服务：设计细粒度系统.  山姆纽曼.  预览版.
 - [Istio in Action](https://www.manning.com/books/istio-in-action) - 教您如何实现功能齐全的基于Istio的服务网格来管理微服务应用程序.
 - [Microservice Architecture: Aligning Principles, Practices, and Culture](http://shop.oreilly.com/product/0636920050308.do) - 微服务战略和设计的实用建议.
 - [Microservices in Action](https://www.manning.com/books/microservices-in-action) - 一本关于构建和部署基于微服务的应用程序的实用书籍.
 - [Microservice Patterns](https://www.manning.com/books/microservice-patterns) - 教授如何使用微服务架构构建应用程序以及如何将单片应用程序重构为微服务.
 - [Microservices from Theory to Practice](http://www.redbooks.ibm.com/abstracts/sg248275.html?Open)   - 从理论到实践的微服务：使用微服务方法在IBM Bluemix中创建应用程序.  IBM红皮书出版物.
-- [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - This O’Reilly report defines the unique characteristics of cloud native application architectures such as microservices and twelve-factor applications.
+- [Migrating to Cloud Native Application Architectures](http://pivotal.io/platform/migrating-to-cloud-native-application-architectures-ebook) - 此O&#39;Reilly报告定义了云本机应用程序体系结构的独特特征，例如微服务和十二因素应用程序.
 - [Testing Microservices with Mountebank](https://www.manning.com/books/testing-microservices-with-mountebank) - 使用mountebank提供服务虚拟化的测试策略，促进微服务的独立发布
 - [The Art of Scalability](http://theartofscalability.com/)   - 可扩展性的艺术：现代企业的可扩展Web架构，流程和组织.  Martin L. Abbott，Michael T. Fisher.
 - [The New Stack eBook Series](http://thenewstack.io/ebookseries/) -  Docker和Container生态系统的综合概述.

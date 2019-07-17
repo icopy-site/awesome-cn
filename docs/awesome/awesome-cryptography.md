@@ -58,10 +58,12 @@
 - [Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html) - 从现代计算机科学的角度编写的密码学入门级处理.
 - [OpenSSL Cookbook](https://www.feistyduck.com/library/openssl-cookbook/) - 关于OpenSSL的书.
 - [Practical Cryptography for Developers](https://cryptobook.nakov.com) - 开发人员友好的现代密码学书籍（哈希，MAC代码，对称和非对称密码，密钥交换，椭圆曲线，数字签名），包含大量代码示例.
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography/) - 本书教您应用加密技术，以便在系统和应用程序的各个层面理解和应用安全性.
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯安德森写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) -  Jean-Philippe Aumasson对现代加密的实用介绍.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - 本书提供了有关计算机和互联网安全的各种主题的综合指南.
-- [Understanding Cryptography](http://www.crypto-textbook.com/)   - 经常被忽视的是，这本书对初学者来说是一个福音.  它包含了每章末尾的大量练习，旨在强化概念和巩固思想.
+- [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+
 
 ### Courses
 
@@ -113,7 +115,7 @@
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - 相当全面的模块化和便携式加密工具包.
 - [libVES.c](https://github.com/vesvault/libVES.c) - 通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络进行安全恢复.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)   - 小型，独立且快速的开源加密库.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3和基于配对的密码学.
-- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - 小巧，便携，易于使用的加密库，受libsodium和TweetNaCl的启发.
+- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - 用于网络通信，加密，解密，签名等的高速库.
 - [OpenSSL](https://github.com/openssl/openssl) -  TLS / SSL和加密库.
 - [PolarSSL](https://tls.mbed.org/) -  PolarSSL使开发人员能够轻松地在其（嵌入式）产品中包含加密和SSL / TLS功能，以最小的编码占用空间来实现此功能.
@@ -133,7 +135,7 @@
 
 ### C-sharp
 
-- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - 通用加密库.
+- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
 - [libsodium-net](https://github.com/adamcaudill/libsodium-net) - 安全加密库，libsodium for .NET端口.
 - [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - 许多标准加密算法的.NET Framework实现.
 - [PCLCrypto](https://github.com/AArnott/PCLCrypto) - 提供由平台实现的算法的加密API，包括将它们暴露给可移植库.
@@ -252,7 +254,7 @@ algorithm.
 - [Crypto.jl](https://github.com/danielsuo/Crypto.jl) - 包含OpenSSL的库，但也有纯Julia实现供参考.
 - [MbedTLS.jl](https://github.com/JuliaWeb/MbedTLS.jl) -  mbed TLS和加密C库周围的包装.
 - [Nettle.jl](https://github.com/staticfloat/Nettle.jl) - 朱莉娅包装荨麻加密哈希/
-encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as well as AES encryption/decryption.
+加密库提供MD5，SHA1，SHA2散列和HMAC功能，以及AES加密/解密.
 - [SHA.jl](https://github.com/staticfloat/SHA.jl) -  Performant，100％native-julia SHA1，SHA2- {224,256,384,512}实现.
 
 ### Lua
@@ -324,7 +326,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Swift
 
 - [CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) - 使用Swift编程语言实现的Swift的加密相关函数和帮助程序.
-- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的包装 [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) library written in Swift.
+- [IDZSwiftCommonCrypto](https://github.com/iosdevzone/IDZSwiftCommonCrypto) -  Apple的包装 [CommonCrypto](https://opensource.apple.com/source/CommonCrypto/) 用Swift编写的库.
 - [OpenSSL](https://github.com/Zewo/OpenSSL) - 适用于OS X和Linux的Swift OpenSSL.
 - [SweetHMAC](https://github.com/jancassio/SweetHMAC) - 使用HMAC算法轻松且易于使用Swift类加密字符串.
 - [Swift-Sodium](https://github.com/jedisct1/swift-sodium) - 用于iOS和OS X的常见加密操作的Sodium库的Swift接口.
@@ -372,7 +374,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ## License
 
-`awesome-cryptography` [@sobolevn](https://github.com/sobolevn)
+`awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
 
 在法律允许的范围内，与CC0相关联的人
 `awesome-cryptography`已放弃所有版权及相关或邻近

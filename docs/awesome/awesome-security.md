@@ -7,7 +7,7 @@
 
 灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python).
 
-谢谢大家 [contributors](https://github.com/sbilly/awesome-security/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
+Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
 
 ------
@@ -60,7 +60,7 @@
 - [awesome-honeypots](https://github.com/paralax/awesome-honeypots) - 规范的令人敬畏的蜜罐列表.
 - [HoneyPy](https://github.com/foospidy/HoneyPy)   -  HoneyPy是一种低到中等交互蜜罐.  它易于：使用插件部署，扩展功能，以及应用自定义配置.
 - [Dionaea](https://www.edgis-security.org/honeypot/dionaea/) -  Dionaea应该是一个nepenthes继承者，将python作为脚本语言嵌入，使用libemu检测shellcode，支持ipv6和tls.
-- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间，以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
+- [Conpot](http://conpot.org/)   -  ICS / SCADA蜜罐.  Conpot是一款低交互式服务器端工业控制系统蜜罐，易于部署，修改和扩展.  通过提供一系列常见的工业控制协议，我们创建了构建您自己的系统的基础知识，能够模拟复杂的基础设施，以说服对手他刚刚找到了一个巨大的工业综合体.  为了提高欺骗性能力，我们还提供了服务器自定义人机界面以增加蜜罐攻击面的可能性.  可以人为地延迟服务的响应时间以模拟系统在恒定负载下的行为.  因为我们提供完整的协议栈，所以可以使用高效的HMI访问Conpot，也可以使用真实硬件进行扩展.  Conpot是在Honeynet项目的保护下开发的，并且是在一些非常大的巨头的肩膀上开发的.
 - [Amun](https://github.com/zeroq/amun) - 基于Amun Python的低交互蜜罐.
 - [Glastopf](http://glastopf.org/)   -  Glastopf是一个蜜罐，可模拟数千个漏洞，从针对Web应用程序的攻击中收集数据.  其背后的原理非常简单：回复利用Web应用程序的攻击者的正确响应.
 - [Kippo](https://github.com/desaster/kippo) -  Kippo是一个中等交互式SSH蜜罐，用于记录暴力攻击，最重要的是，攻击者执行的整个shell交互.
@@ -120,7 +120,7 @@
 - `docker pull owasp / zap2docker-stable`  -  [official OWASP ZAP](https://github.com/zaproxy/zaproxy)
 - `docker pull wpscanteam / wpscan`  -  [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
 - `docker pull remnux / metasploit`  -  [docker-metasploit](https://hub.docker.com/r/remnux/metasploit/)
-- `docker pull citizenstig / dvwa`  -  [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
+- `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
 - `docker pull wpscanteam / vulnerabilitywordpress`  -  [Vulnerable WordPress Installation](https://hub.docker.com/r/wpscanteam/vulnerablewordpress/)
 - `docker pull hmlio / vaas-cve-2014-6271`  -  [Vulnerability as a service: Shellshock](https://hub.docker.com/r/hmlio/vaas-cve-2014-6271/)
 - `docker pull hmlio / vaas-cve-2014-0160`  -  [Vulnerability as a service: Heartbleed](https://hub.docker.com/r/hmlio/vaas-cve-2014-0160/)
@@ -166,7 +166,7 @@
 
 ### Forensics
 
-- [grr](https://github.com/google/grr) - GRR Rapid Response is an incident response framework focused on remote live forensics.
+- [grr](https://github.com/google/grr) -  GRR快速响应是一个专注于远程实时取证的事件响应框架.
 - [Volatility](https://github.com/volatilityfoundation/volatility) - 基于Python的内存提取和分析框架.
 - [mig](http://mig.mozilla.org/)   -  MIG是一个在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -  * ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
@@ -257,7 +257,7 @@
 
 ### Online resources
 
-- [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - Complete list of security related operating systems
+- [Security related Operating Systems @ Rawsec](http://rawsec.ml/en/security-related-os/) - 完整的安全相关操作系统列表
 - [Best Linux Penetration Testing Distributions @ CyberPunk](https://n0where.net/best-linux-penetration-testing-distributions/) - 主要渗透测试分布的描述
 - [Security @ Distrowatch](http://distrowatch.com/search.php?category=Security) - 致力于讨论，审查和跟上开源操作系统的网站
 
@@ -284,6 +284,7 @@
 - [How to Hack Like a Pornstar](https://books2read.com/u/bWzdBx) - 分步进入BANK的一步一步流程，Sparc Flow，2017  
 - [How to Hack Like a Legend](https://amzn.to/2uWh1Up) - 一个黑客的故事闯入一个秘密的离岸公司，Sparc Flow，2018年  
 - [How to Investigate Like a Rockstar](https://books2read.com/u/4jDWoZ) - 实现真正的危机，掌握法医分析的秘密，Sparc Flow，2017
+- [Real World Cryptography](https://www.manning.com/books/real-world-cryptography) - 这本早期访问的书籍教您应用加密技术，以便在系统和应用程序的各个层面理解和应用安全性.
 
 ## Other Awesome Lists
 

@@ -218,18 +218,13 @@
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻头条.
-- [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成代码的精美图像.
 - [pass](https://www.passwordstore.org) - 标准的unix密码管理器.
 - [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
 - [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 在没有浏览器的情况下搜索真棒列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
-- [Ultimate Plumber](https://github.com/akavel/up) - 使用实时预览编写Linux管道.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
-- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
-- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
-- [pipe_exec](https://github.com/koraa/pipe_exec) - 从stdin，管道和ttys运行可执行文件而不创建临时文件.
 
 ### macOS
 
@@ -244,7 +239,7 @@
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开一个网站.
 
-### Terminal Utilities
+### Terminal Sharing Utilities
 
 - [gotty](https://github.com/yudai/gotty) - 将您的终端作为Web应用程序共享.
 - [localtunnel](https://github.com/localtunnel/localtunnel) - 将您的本地主机暴露给世界，以便于测试和共享.
@@ -256,7 +251,6 @@
 - [tmate](https://tmate.io/) - 即时终端（tmux）共享.
 - [warp](https://github.com/spolu/warp) - 安全简单的终端共享.
 - [OverTime](https://github.com/diit/overtime-cli) - 远程团队的时间重叠表.
-- [undollar](https://github.com/ImFeelingDucky/undollar) - 剥离复制粘贴终端命令之前的&#39;$&#39;.
 
 ### Network Utilities
 
@@ -273,6 +267,15 @@
 - [themer](https://github.com/mjswensen/themer) - 为您的编辑器，终端，壁纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) - 将来自unplash.com的随机/查询图像应用为桌面墙纸.
 - [pywal](https://github.com/dylanaraps/pywal) - 生成并更改颜色方案，然后在系统范围内将它们应用于您喜爱的所有程序.
+
+### Shell Utilities
+
+- [has](https://github.com/kdabir/has) - 检查路径上是否存在各种命令及其版本.
+- [Ultimate Plumber](https://github.com/akavel/up) - 使用实时预览编写Linux管道.
+- [fkill-cli](https://github.com/sindresorhus/fkill-cli) - 简单的跨平台流程杀手.
+- [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
+- [undollar](https://github.com/ImFeelingDucky/undollar) - 剥离复制粘贴终端命令之前的&#39;$&#39;.
+- [pipe_exec](https://github.com/koraa/pipe_exec) - 从stdin，管道和ttys运行可执行文件而不创建临时文件.
 
 ## Command Line Learning
 
