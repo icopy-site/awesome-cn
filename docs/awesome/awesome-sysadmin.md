@@ -40,6 +40,7 @@
 * [Barman](http://www.pgbarman.org) - 用于PostgreSQL服务器灾难恢复的备份和恢复管理器.
 * [BorgBackup](https://github.com/borgbackup/borg) - 一个叉子 [Attic](https://attic-backup.org) 重复数据删除用Python编写的备份程序.
 * [Burp](http://burp.grke.org/) - 网络备份和恢复程序.
+* [Duplicati](http://www.duplicati.com) - 多个后端，加密，web-ui和多操作系统备份工具.
 * [Duplicity](http://duplicity.nongnu.org/) - 使用rsync算法加密带宽高效的备份.
 * [Elkarbackup](https://github.com/elkarbackup/elkarbackup) - 基于RSnapshot的备份解决方案，具有简单的Web界面
 * [Lsyncd](https://github.com/axkibe/lsyncd) - 文件监视器，它生成一个进程来同步更改（默认情况下为rsync）.
@@ -75,7 +76,7 @@
 
 ## Client management
 
-*Managing software on desktop computers.*
+*在台式计算机上管理软件.*
 
 * [Chocolatey](https://chocolatey.org/) - 基于.NET / PS编写的Windows CLI包管理器 [NuGet](https://www.nuget.org/).
 * [just-install](http://just-install.it/) - 用于下载和静默安装MSI文件的Python脚本.
@@ -301,8 +302,10 @@
 * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - 用于管理存储在LDAP目录中的条目（例如，用户，组，DHCP设置）的Web前端.
 * [OpenID Connect](http://openid.net/developers/libraries/) -  OAuth 2.0之上的简单身份层.
 * [OSIAM](http://osiam.github.io/) - 安全身份管理解决方案，提供基于REST的身份验证和授权服务.
+* [Pomerium](https://www.pomerium.io/) - 受BeyondCorp启发的身份和上下文感知访问代理.
 * [Samba](https://www.samba.org/) -  Active Directory和CIFS协议实现.
 * [BounCA](https://bounca.org/) - 用于创建自签名证书的个人SSL密钥/证书颁发机构基于Web的工具.
+* [easy-rsa](https://github.com/OpenVPN/easy-rsa) - 用于构建和管理PKI CA的bash脚本.
 
 ## IT Asset Management
 
@@ -363,6 +366,7 @@
 * [Munin](http://munin-monitoring.org/) - 网络资源监控工具.
 * [Naemon](http://www.naemon.org/) - 基于Nagios 4核心的网络监控工具，具有性能增强和新功能.
 * [Nagios](https://www.nagios.org/) - 计算机系统，网络和基础设施监控软件应用.
+* [NetXMS](https://www.netxms.org/)   - 开源网络和基础设施监控和管理.  （[Source Code](https://github.com/netxms/netxms))
 * [Observium](http://www.observium.org/)   - 服务器和网络设备的SNMP监控.  在linux上运行.
 * [OMD](http://omdistro.org/) - 开放监测分布.
 * [Performance Co-Pilot](http://pcp.io) - 轻量级，分布式系统性能和分析框架.
@@ -374,7 +378,7 @@
 * [rtop](https://github.com/rapidloop/rtop) - 基于SSH的交互式远程系统监控工具.
 * [Sensu](https://sensuapp.org/) - 监测框架.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - 以美丽的方式显示和监控您的服务器统计信息.
-* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - 服务器状态网站脚本，显示正常运行时间（天），免费RAM，免费硬盘
+* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
 * [Shinken](http://www.shinken-monitoring.org/) - 另一个监测框架.
 * [SWMP - Server Web Monitor Page](https://swmp.ml/) - 响应迅速，令人赏心悦目的Linux服务器统计信息仪表板.（[Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) -  Multibackend监控Web界面，支持Naemon，Nagios，Icinga和Shinken.
@@ -525,8 +529,10 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 * [Cachet](https://cachethq.io) - 用PHP编写的状态页面系统.
 * [Stashboard](http://www.stashboard.org) - 云服务和API的状态页面.
+* [Statusfy](https://statusfy.co/) - 用于呈现关键服务更新的现代状态页面.
 * [System Status Dashboard (SSD)](http://www.system-status-dashboard.com/) - 有关组织基础架构健康状况的概述.
 * [Staytus](http://staytus.co/) -  Staytus是一个完整的解决方案，用于发布有关Web应用程序，网络或服务的任何问题的最新信息.
+* [vigil](https://github.com/valeriansaliou/vigil)   - 微服务状态页面.  监视分布式基础架构并向Slack发送警报.  写在Rust.
 
 ## Troubleshooting
 
@@ -562,7 +568,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 * [OpenNebula](http://opennebula.org/) - 灵活的企业云变得简单.
 * [OpenNode](http://opennodecloud.com) - 构建开源基础架构管理软件并实施云系统.
 * [oVirt](http://www.ovirt.org/) - 管理虚拟机，存储和虚拟网络.
-* [Packer](https://www.packer.io/) - 用于从单一源配置为多个平台创建相同机器映像的工具.
+* [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - 虚拟化管理解决方案.
 * [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
 * [Vagrant](https://www.vagrantup.com/) - 构建完整开发环境的工具.
@@ -644,11 +650,11 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 *软件包存储库.*
 
-* [AlternativeTo](http://alternativeto.net) - Find alternatives to software you know and discover new software.
+* [AlternativeTo](http://alternativeto.net) - 寻找您认识的软件的替代品并发现新的软件.
 
 ### Debian-based distributions
 
-* [Dotdeb](https://www.dotdeb.org/) - 使用LAMP的存储库更新了Debian的软件包.
+* [deb.sury.org](https://deb.sury.org/) - 使用LAMP的存储库更新了Debian和Ubuntu的软件包.
 
 ### RPM-based distributions
 

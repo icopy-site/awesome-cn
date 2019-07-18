@@ -70,13 +70,10 @@
 ## Development
 
 - [bcal](https://github.com/jarun/bcal) - 用于存储转换和计算的字节计算器.
-- [boilr](https://github.com/tmrts/boilr) - 从样板模板创建项目.
 - [cgasm](https://github.com/bnagy/cgasm) - 提供x86组装文档.
-- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从模板创建项目.
 - [legit](https://github.com/captainsafia/legit) - 将开源许可证生成为文件或文件头.
 - [mklicense](https://github.com/cezaraugusto/mklicense) - 使用自定义信息轻松创建自定义LICENSE文件.
 - [rebound](https://github.com/shobrook/rebound) - 当您收到编译器错误时，在终端中获取堆栈溢出结果.
-- [yo](https://github.com/yeoman/yo)   - 用于运行Yeoman发电机的脚手架工具.  有成千上万的即用型发电机，创建一个自己的发电机非常容易.
 - [grip](https://github.com/joeyespo/grip) - 在提交之前使用GitHub样式预览markdown文件.
 - [bitwise](https://github.com/mellowcandle/bitwise) -  ncurses中的基本转换和位操纵器.
 - [foy](https://github.com/zaaack/foy) - 轻量级通用任务运行器/构建工具.
@@ -103,8 +100,6 @@
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
-- [mevn-cli](http://github.com/madlabsinc/mevn-cli) -  MEVN（Mongo Express Vue Node）应用程序的光速设置.
-- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - 香草JS的脚手架实用程序.
 - [Discharge](https://github.com/brandonweiss/discharge) - 将静态网站部署到Amazon S3.
 - [reachable](https://github.com/italolelis/reachable) - 检查域是否已启动.
 - [simplehttp](https://github.com/snwfdhmp/simplehttp) - 通过http轻松提供本地目录.
@@ -152,6 +147,14 @@
 - [pkg-dir-cli](https://github.com/sindresorhus/pkg-dir-cli) - 找到npm包的根目录.
 - [npm-check-updates](https://github.com/tjunnone/npm-check-updates) - 查找比package.json允许的更新版本的软件包依赖项.
 - [updates](https://github.com/silverwind/updates) - 灵活的npm依赖更新工具.
+
+### Boilerplate
+
+- [yo](https://github.com/yeoman/yo) - 用于运行Yeoman发电机的脚手架工具.
+- [boilr](https://github.com/tmrts/boilr) - 从样板模板创建项目.
+- [cookiecutter](https://github.com/audreyr/cookiecutter) - 从模板创建项目.
+- [mevn-cli](http://github.com/madlabsinc/mevn-cli) -  MEVN（Mongo Express Vue Node）应用程序的光速设置.
+- [scaffold-static](https://github.com/jamesgeorge007/scaffold-static) - 香草JS的脚手架实用程序.
 
 ## Productivity
 

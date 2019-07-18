@@ -9,7 +9,7 @@
 
 
 
-&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -183,11 +183,12 @@
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
 - [AMP HTML](https://github.com/ampproject/amphtml) - 用于构建具有可靠和快速性能的Web页面的Web组件库.
-- [carbon-custom-elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用Custom Elements和Shadow DOM构建的Carbon Design System的实验变体.
-- [clever-components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
+- [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) - 使用Web组件构建的Carbon Design System的实验变体.
+- [Clever components](https://github.com/CleverCloud/clever-components) -  Clever Cloud制作的Web组件集合.
 - [Elix](https://github.com/elix/elix) - 用于常见用户界面模式的高质量，可定制的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents/) -  ELMS：LN为任何项目生成Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) - 作为Web组件实现的Material Design.
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -  Microsoft Graph的Web组件的集合.
 - [PatternFly Elements](https://github.com/patternfly/patternfly-elements) - 灵活轻量级Web组件的集合，以及构建它们的工具.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) - 组件库，在本机API之上提供企业级糖.
 - [Vaadin components](https://github.com/vaadin/vaadin) - 用于构建业务Web应用程序的不断发展的高质量Web组件集.

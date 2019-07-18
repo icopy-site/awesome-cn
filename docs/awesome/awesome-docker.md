@@ -139,7 +139,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dozzle](https://github.com/amir20/dozzle) - 使用浏览器或移动设备实时监控容器日志. [@amir20](https://github.com/amir20)
 - [Dynatrace](https://www.dynatrace.com/technologies/docker-monitoring/) ：heavy_dollar_sign： - 在不安装代理或修改Run命令的情况下监视容器化应用程序
 - [Glances](https://github.com/nicolargo/glances) - 一个用Python编写的跨平台基于curses的系统监视工具 [@nicolargo](https://github.com/nicolargo)
-- [Grafana Docker Dashboard Template](https://grafana.com/dashboards/179) -  Docker，Grafana和Prometheus堆栈的模板[@vegasbrianc] [vegasbrianc]
+- [Grafana Docker Dashboard Template](https://grafana.com/grafana/dashboards/179) -  Docker，Grafana和Prometheus堆栈的模板[@vegasbrianc] [vegasbrianc]
 - [InfluxDB, cAdvisor, Grafana](https://github.com/vegasbrianc/docker-monitoring) -  [@vegasbrianc] [vegasbrianc]将InfluxDB时间序列数据库与Grafana和cAdvisor结合使用
 - [LogJam](https://github.com/gocardless/logjam) -  Logjam是一个日志转发器，用于侦听本地端口，通过UDP接收日志条目，并将这些消息转发到日志收集服务器（例如logstash）上 [@gocardless](https://github.com/gocardless)
 - [Logspout](https://github.com/gliderlabs/logspout) -  [@gliderlabs] [gliderlabs]记录Docker容器日志的路由
@@ -707,7 +707,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [progrium]：https：//github.com/progrium
 [ramitsurana]：https：//github.com/ramitsurana
 [rancher]：https：//github.com/rancher
-[回家旅行]：https：//github.com/sindresorhus/awesome
+[旅行社]：https：//github.com/sindresorhus/awesome
 [spotify]：https：//github.com/spotify
 [vegasbrianc]：https：//github.com/vegasbrianc
 [vfarcic]：https：//github.com/vfarcic

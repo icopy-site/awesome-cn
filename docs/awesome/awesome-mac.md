@@ -133,7 +133,7 @@
   * [WebStorm](http://www.jetbrains.com/webstorm/)   -  JetBrains最智能的JavaScript IDE.  **免费**为学生，检查 [here](https://www.jetbrains.com/student/) 了解更多信息.
 * [Haskell for Mac](http://haskellformac.com)   -  Haskell的现代开发环境.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/haskell-development-platform/id841285201）
 * [NetBeans IDE](https://netbeans.org/)   - 免费和开源IDE，主要用于Java开发，但支持许多其他语言和框架.  [！[开源软件] [OSS图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
-* [Visual Studio Code](https://code.visualstudio.com/) - 微软的免费和开源编辑器，TypeScript友好， [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)   - 功能齐全的IDE **免费**适用于学生，开源和个人开发人员.  ！[免费软件] [免费软件图标]
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/)   - 用于iOS / macOS开发的基本IDE.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id497799835）
@@ -172,6 +172,7 @@
 * [StarUML](http://staruml.io) - 强大的UML应用程序.
 * [Swiftify](https://objectivec2swift.com/#/xcode-extension/) -  Objective-C到Swift代码转换器和Xcode＆Finder扩展.
 * [SwitchHosts](https://oldj.github.io/SwitchHosts/)   - 用于主机管理和切换的免费和开源应用程序.  [！[开源软件] [OSS图标]]（https://github.com/oldj/SwitchHosts）！[免费软件] [免费软件图标]
+* [SYM](https://github.com/zqqf16/SYM)   - 用于表示iOS崩溃日志的GUI应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/zqqf16/SYM）
 * [TeXstudio](http://www.texstudio.org)   - 用于创建LaTeX文档的集成写入环境.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/texstudio/）！[免费软件] [免费软件图标]
 * [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   - 在任何Mac上使用触控栏.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Visual Paradigm](https://www.visual-paradigm.com/) - 用于敏捷的一体化UML，SysML，BPMN建模平台，EA TOGAF ADM流程管理.
@@ -241,7 +242,7 @@
 * [Taskbook](https://github.com/klaussinani/taskbook)   - 命令行栖息地的任务，板和注释.  [！[开源软件] [OSS图标]]（https://github.com/klaussinani/taskbook）！[免费软件] [免费软件图标]
 * [Terminus](https://github.com/Eugeny/terminus)   - 免费终端工具，使用TypeScript构建，深受Hyper的启发.  [！[开源软件] [OSS图标]]（https://github.com/Eugeny/terminus）！[免费软件] [免费软件图标]
 * [Termius](https://www.termius.com/)   - 免费的终端工具，可与Windows平台上的xshell相媲美.  ！[免费软件] [免费软件图标]
-* [TextQL](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV. [![Open-Source Software][OSS Icon]](https://github.com/dinedal/textql) ![Freeware][Freeware Icon]
+* [TextQL](https://github.com/dinedal/textql)   - 对CSV或TSV等结构化文本执行SQL.  [！[开源软件] [OSS图标]]（https://github.com/dinedal/textql）！[免费软件] [免费软件图标]
 * [tmux](https://github.com/tmux/tmux)   - “终端多路复用器”，它允许从单个终端访问和控制多个终端（或窗口）.  tmux旨在成为GNU屏幕等程序的简单，现代，BSD许可的替代方案.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
 * [trash](https://github.com/sindresorhus/trash)   - 将文件和目录移动到废纸篓.  ！[开源软件] [OSS图标]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
@@ -421,7 +422,7 @@
 * [JPEGmini](http://www.jpegmini.com/)   - 在不影响质量的前提下，将图像尺寸缩小高达80％.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/jpegmini-lite/id525742250）！[免费软件] [免费软件图标]
 * [Mark Man](http://getmarkman.com/) - 快速测量和规格.
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具.
-* [Resize Master](http://www.boltnev.com/resizemaster/)   - 批量调整大小并快速轻松地为图像添加水印.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/resize-master/id1025306797）
+* [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797)
 * [RightFont](http://rightfontapp.com/) - 在Mac，Dropbox或Google Drive上预览，同步，安装和管理字体.
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享您的颜色的最佳方式.
 * [Snagit](https://www.techsmith.com/snagit.html) - 简单，强大的屏幕捕获软件和屏幕录像机.
@@ -454,7 +455,7 @@
 * [Skype](https://www.skype.com/)   - 提供视频聊天和语音呼叫服务的跨平台应用程序.  用户可以交换图像，文本，视频和任何其他数字文档.
 * [Slack](https://slack.com/)   - 团队协作和沟通的绝佳工具.  ！[免费软件] [免费软件图标]
 * [Teambition](https://www.teambition.com)   - 团队协作工具，包括许多功能，如任务计划，计划，文件共享，即时讨论以及与其他团队成员协作时所需的一切.  ！[免费软件] [免费软件图标]
-* [Telegram](https://desktop.telegram.org) - Messaging app with a focus on speed and security.
+* [Telegram](https://desktop.telegram.org) - 消息应用程序，专注于速度和安全性.
 * [Textual](https://www.codeux.com/textual)   - 互联网中继聊天（IRC）客户端.  [！[开源软件] [OSS图标]]（https://github.com/Codeux-Software/Textual）
 * [WeChat](https://itunes.apple.com/app/wechat/id836500024?mt=12)   - 适用于Mac的官方微信应用.  ！[免费软件] [免费软件图标]！[App Store] [app-store Icon]
 * [WeeChat](https://weechat.org/)   - 可扩展的命令行聊天客户端.  ！[免费软件] [免费软件图标]
@@ -526,7 +527,7 @@
 * [Synfig Studio](http://synfig.org)   -  Synfig Studio是免费的开源2D动画软件.  [！[开源软件] [OSS图标]]（https://github.com/synfig/synfig）！[免费软件] [免费软件图标]
 * [VLC](http://www.videolan.org/index.html)   - 免费，开源，跨平台的多媒体播放器以及播放大多数多媒体文件，DVD，音频CD，VCD和各种流媒体协议的框架.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/videolan/vlc）
 * [VOX Player](https://vox.rocks/mac-music-player)   - 适用于Mac和iPhone的高清音频播放器.  音乐听起来更好！  ！[免费软件] [免费软件图标]
-* [XLD](http://tmkk.undo.jp/xld/index_e.html)   - 解码，转换和播放各种“无损”音频文件的工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://code.google.com/archive/p/xld/source）
+* [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
 * [MusicPlus](https://musicplus.io)   - 免费搜索，播放和下载音乐.  ！[免费软件] [免费软件图标]
 
 ## Download Management Tools
@@ -790,7 +791,7 @@
 
 ## QuickLook Plugins [![Awesome List][awesome-list Icon]](https://github.com/sindresorhus/quick-look-plugins#readme)
 
-* [QuicklookStephen](https://github.com/whomwah/qlstephen) - Preview plain text files without or with unknown file extension. such as README、INSTALL、Capfile、CHANGELOG...`brew cask install qlstephen`
+* [QuicklookStephen](https://github.com/whomwah/qlstephen)   - 预览没有或具有未知文件扩展名的纯文本文件.  例如README，INSTALL，Capfile，CHANGELOG ......`brew cask install qlstephen`
 
 ## Third Party App Markets
 
