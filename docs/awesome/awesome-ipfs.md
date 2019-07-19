@@ -15,7 +15,7 @@
 
  欢迎每个人提交他们新的awesome-ipfs项目.  为了在此列表中添加元素，您需要修改`/ data`中的文件，然后在发布拉取请求之前运行一个简单的`make build`作为自述文件，并自动生成网站.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做到这一点.
 
-**注意**：如果要直接编辑README文件（而不是项目/链接），则需要修改 [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
+**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
 
 ## Apps
 
@@ -68,6 +68,7 @@
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -  Dolphin File Manager的服务菜单，用于将文件上载到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) - 审查抵制死人的开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - 基于Pandoc的标记编辑器/预览器/转换器，移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
+- [Minerva](https://github.com/bdchain/Minerva) -  Minerva是Apache Drill的存储插件，它连接IPFS的分散存储和Drill灵活的查询引擎.
 - [OpenBazaar](https://www.openbazaar.org/) - 这个新版本（v2.0）建立在IPFS之上，即使离线时，买家也可以访问Openbazaar商店.
 - [Orbit](https://orbit.chat) -  IPFS上的分布式对等聊天应用程序. [Source](https://github.com/haadcode/orbit)
 - [Origin Protocol](https://demo.originprotocol.com/) - 分布式共享经济市场，其中包含存储在IPFS上的图像，元数据和ERC 725数据. [Source](https://github.com/OriginProtocol/demo-dapp)
@@ -88,6 +89,7 @@
 - [ToDo List Demo](https://ipfs.io/ipfs/QmSGQrmvHe6fFiWdV2H8YnhLaoX4qe5nYEmJfUFx6LdUYa/) - 使用windows.ipfs的ToDo List演示应用程序. [Source](https://github.com/ipfs-shipyard/demo-ipfs-todo)
 - [ujo](http://ujomusic.com/) - 音乐家的区块链市场.
 - [uport](https://uport.me/#home) -  Uport是一个移动的，自我主权的身份和密钥管理系统，建立在以太坊区块链上.
+- [Wistful Books](https://wistfulbooks.com/) - 单页离线应用程序，用于享受librivox.org有声读物. [Source](https://github.com/smwa/wistfulbooks)
 - [xfce-screenshooter-ipfs-support](https://github.com/amar-laksh/xfce-screenshooter-ipfs-support) - 支持IPFS的xfce-screenshooter分支！
 
 ## Articles
@@ -142,6 +144,7 @@
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -  Dillo Web浏览器的IPFS集成.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，增加了对Gatsby网站部署到IPFS的支持.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向IPFS推送/拉出存储库
+- [git-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) -  go-stellar-ipfs是一个库，它是Stellar和IPFS之间的桥梁.
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - 这是一个简单的webtool，用于将URL添加到IPFS节点.
 - [ipcat](https://github.com/noffle/ipcat) - ：cat2：检索IPFS对象数据并将其发送到stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) -  IPFS支持的Docker Registry

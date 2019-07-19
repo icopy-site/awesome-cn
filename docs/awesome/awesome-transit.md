@@ -286,6 +286,7 @@
 - [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki) - 一个开源的Android库，用于与RESTful SIRI接口进行交互，以获取实时传输数据，例如当前正在使用的数据. [MTA Bus Time API](http://bustime.mta.info/wiki/Developers/SIRIIntro).
 - [SIRI 1.3 POJOs (Android-compatible)](https://github.com/CUTR-at-USF/onebusaway-siri-api-v13-pojos/wiki)   - 与Android兼容的Plain Old Java Objects（POJOS），用于SIRI v1.3 API的数据绑定（deserliazing XML / JSON）响应.  由...使用 [SIRI REST Client](https://github.com/CUTR-at-USF/SiriRestClient/wiki).
 - [pysiri2validator](https://github.com/laidig/pysiri2validator) - 用Python 3编写的SIRI 2.0的简单验证器.
+- [Edwig](https://github.com/af83/edwig) - 使用SIRI协议进行实时公共传输数据交换的golang服务器.
 
 ### Other multimodal data formats
 

@@ -1075,7 +1075,7 @@
 * [VideoPager](https://github.com/entotsu/VideoPager) - 分页视频UI和一些控制组件可用.
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) -  NYT360Video播放从AVPlayer流式传输的360度视频.
 * [swift-360-videos](https://github.com/gsabran/DDDKit) -  Pure swift（无SceneKit）3D库，专注于视频和360.
-* [ABMediaView](https://github.com/andrewboryk/ABMediaView) -  UIImageView子类，用于插入图像，视频，GIF和音频显示，具有全屏和最小化功能，可在右下角显示.
+* [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 用于插入式图像，视频，GIF和音频显示的UIImageView子类，具有全屏和最小化功能，可在右下角显示.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 一组UI元素，用于修剪，裁剪和选择视频内的帧.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) -  Swift中的简单iOS视频播放器，支持播放本地和网络，后台播放模式.
 * [YoutubeKit](https://github.com/rinov/YoutubeKit) - 完全支持Youtube IFrame API和YoutubeDataAPI的视频播放器，可轻松创建Youtube应用.
@@ -1268,7 +1268,7 @@
 * [Unbox](https://github.com/JohnSundell/Unbox) - 易于使用的Swift JSON解码器
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - 将JSON转换为Swift对象.
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - 懒惰地将JSON反序列化为强类型的Swift对象
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是一个用于macOS的桌面应用程序，它允许您将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter.
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是一个用于macOS的桌面应用程序，它使您能够将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter.
 * [Elevate](https://github.com/Nike-Inc/Elevate) -  Elevate是一个JSON解析框架，它利用Swift使解析变得简单，可靠和可组合.
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)   -  JSON和模型之间的快速，方便和非侵入式转换.  您的模型类不需要扩展另一个基类.  您无需修改​​任何模型文件.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -  Alamofire扩展，使用ObjectMapper将JSON响应数据转换为快速对象
@@ -1305,7 +1305,7 @@
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) - 使用Swift的`Codable`协议的XML编码器和解码器.
 
 ### Other Parsing
-* [WKZombie](https://github.com/mkoehnke/WKZombie)   -  WKZombie是一个用于iOS / macOS的Swift框架，可以在网站内导航和收集数据，而无需用户界面或API，也称为无头浏览器.  它可用于运行自动化测试或使用Javascript操纵网站.
+* [WKZombie](https://github.com/mkoehnke/WKZombie)   -  WKZombie是一个用于iOS / macOS的Swift框架，可以在网站内导航并收集数据，而无需用户界面或API，也称为无头浏览器.  它可用于运行自动化测试或使用Javascript操纵网站.
 * [URLPreview](https://github.com/itsmeichigo/URLPreview) - 用于显示网页预览信息的NSURL扩展程序
 * [FeedKit](https://github.com/nmdias/FeedKit) - 用Swift编写的RSS和Atom提要解析器
 * [Erik](https://github.com/phimage/Erik)   -  Erik是一个基于WebKit的无头浏览器.  无头浏览器允许运行功能测试，使用javascript访问和操作网页.
@@ -2524,7 +2524,7 @@
 * [StickyCollectionView-Swift](https://github.com/matbeich/StickyCollectionView-Swift) - 用于呈现重叠单元格的UICollectionView布局.
 * [TLIndexPathTools](https://github.com/SwiftKickMobile/TLIndexPathTools) -  TLIndexPathTools是一小组类，可以极大地简化表和集合视图.
 * [IGListKit](https://github.com/Instagram/IGListKit) - 数据驱动的UICollectionView框架，用于构建快速灵活的列表.
-* [FlexibleCollectionViewController](https://github.com/dimpiax/FlexibleCollectionViewController) -  Swift通用集合视图控制器库，具有功能的外部数据处理，如确定与indexPath相关的单元的reuseIdentifier，用于显示的请求单元的配置和单元选择处理程序等
+* [FlexibleCollectionViewController](https://github.com/dimpiax/FlexibleCollectionViewController) - 通用集合视图控制器的Swift库，具有功能的外部数据处理，如确定与indexPath相关的单元的reuseIdentifier，用于显示的请求单元的配置和单元选择处理程序等
 * [ASCollectionView](https://github.com/abdullahselek/ASCollectionView) - 受Airbnb启发的Swift系列视图.
 * [GLTableCollectionView](https://github.com/giulio92/GLTableCollectionView) -  Netflix和App Store，如UITableView和UICollectionView
 * [EditDistance](https://github.com/kazuhiro4949/EditDistance) -  UITableView和UICollectionView的增量更新工具
@@ -2757,7 +2757,7 @@ CollectionView，在几分钟内发现Instagram.
 * [AwesomeSpotlightView](https://github.com/aleksandrshoshiashvili/AwesomeSpotlightView)   - 创建精彩教程或教育用户使用应用程序的工具.  或者只是在屏幕上突出显示内容  用Swift写的.
 * [SwiftyOnboard](https://github.com/juanpablofernandez/SwiftyOnboard) - 为项目添加入门的简单方法.
 * [WVWalkthroughView](https://github.com/praagyajoshi/WVWalkthroughView) - 用于轻松创建演练以帮助用户入职的实用程序.
-* [SwiftyGuideOverlay](https://github.com/saeid/SwiftyGuideOverlay) - 通过app UI轻松快捷地显示介绍/说明，无需任何实时的附加图像！
+* [SwiftyOverlay](https://github.com/saeid/SwiftyOverlay) - 通过app UI轻松快捷地显示介绍/说明，无需任何实时的附加图像！
 * [SwiftyOnboardVC](https://github.com/chaser79/SwiftyOnboardVC) - 轻量级漫游控制器，它使用视图控制器作为其子视图，使定制无止境.
 * [Minamo](https://github.com/yukiasai/Minamo) - 用Swift编写的简单教练标记库.
 * [Material Showcase iOS](https://github.com/aromajoin/material-showcase-ios) - 适用于iOS应用程序的优雅而美观的展示.
@@ -2827,7 +2827,7 @@ CollectionView，在几分钟内发现Instagram.
 * [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的小框架和命令行工具，用于与SourceKit交互.
 * [Localizations](https://github.com/athiercelin/localizations) - 管理Xcode项目本地化的macOS应用程序.
 * [xcbuild](https://github.com/facebook/xcbuild) -  Xcode兼容的构建工具.
-* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段的可执行文件，它将// TODO：或// SERIOUS之类的注释标记为警告或错误，以便它们显示在Xcode Issue Navigator中.
+* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段中的可执行文件，它将// TODO：或// SERIOUS之类的注释标记为警告或错误，以便它们显示在Xcode Issue Navigator中.
 * [SwiftCompilationPerformanceReporter](https://github.com/tumblr/SwiftCompilationPerformanceReporter) - 为特定目标中的慢速Swift编译路径生成自动报告
 * [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 为Swift构建时间分析器
 * [Duration](https://github.com/SwiftStudies/Duration) - 一个简单的Swift软件包，用于测量和报告操作所需的时间

@@ -3,15 +3,15 @@
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
      /    ││  │──│  │  / ╭─╯/ ╭──╯ /    \ │   │   │  / ╭─╯              _|_|_
-    │ø│││││/╰─（\─╮│││──│/╰─╮/ O \
-    │││││││╭─╯\ __││的││\ _ /││╭─╯\_______/
+    │││││││││││││││││││/ /
+    ││╭╭╭╭╭││││││││││││││││││││││││││││││││││││││││││││││││││││││_______/
     │  _  ││  `  '  ││   ╰─╮/  \ ││      ││   │   ││   ╰─╮               /   \
     │  │  │ \      / │     │\    │ \    / │   │   ││     │               \/   \
     ╰──┴──╯  ╰──╯─╯  ╰─────╯ ╰───╯  ╰──╯  ╰───╯───╯╰─────╯               /'---'\
                                                                     ____/  |     \_____
       ╭───╮╭───╮  ╭──────╮   ╭──╮      ╭──╮ ╭───╮╭────╮  ╭───╮╭───╮      __/\____/      \_
      /    ││    \ │      │   │   \    / ╭─╯/ ╭──╯╰╮  ╭╯ /    ││    \          |            \
-    │的││││││_ \ /╰─（\─╮│││╭──╯││_ / \ __ / \“_
+    （╮╮╭╭╭╭╭╭╭╭╭╭╭╭╭││/ /
     │││││╰─╯╯─╯│D││╭─╯\___│││││││││/ / __
     │  _  ││  │  │  │  │     │     ││   ╰─╮/  \ │ │  │ │  ╰─ ││  │  │       \        \_\_________\
     │  │  ││  │  │  │  │     │     ││     │\    │╭╯  ╰╮│     ││  │  │        \          \     \
@@ -48,7 +48,7 @@ Ant Design的官方项目和资源.
 
 - [Antd Init](https://github.com/ant-design/antd-init) -  Ant设计样板生成器（仅用于演示，使用dva-cli）.
 - [Dva Cli](https://github.com/dvajs/dva-cli) - 基于创建Ant设计项目 [Dva.js](https://github.com/dvajs/dva)， 一个
-  基于Redux和React的轻量级前端框架，受到启发 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
+  基于Redux和React的轻量级前端框架，灵感来自于 [Elm](http://elm-lang.org) 和 [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - 非常有用的Ant Design工具列表，用于创建文档，创建新组件，构建工具等等.
 - [Antd Tools Docs](http://ant-tool.github.io/) -  Ant Tools的文档.
 - [iConfig Ant Design](https://github.com/hutxs/iconfig-antd) - 通过一些有用的转换快速获得新项目的Boilerplate.
@@ -62,6 +62,10 @@ Ant Design的官方项目和资源.
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - 用于生成自定义主题文件的webpack插件.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - 一个简单的脚本，用于生成特定主题的文件，可以在任何环境中使用.
 
+### Dark Theme
+- [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) -  Ant Design的黑暗主题变量.
+- [ant-dark-theme](https://github.com/Kuechlin/ant-dark-theme) -  Ant Design的黑暗主题变量.
+
 ## Related Projects
 
 Ant Design系列项目.
@@ -69,7 +73,7 @@ Ant Design系列项目.
 - [Grammar of Graphics](https://g2.alipay.com/) - 纯javascript，强大的大数据语义图生成工具，提供一组图形语法，允许用户使用简单的语法构建无数的图表并集成大量的统计工具，（[Read more](https://github.com/antvis/feedback)).
 - [Ant Visualization](https://antv.alipay.com/)   - 专业数据可视化规范，旨在将数年有价值的数据模式组工作放在探索数据可视化的过程中，与所有需要数据可视化理论的人分享.  AntV由几个部分，数据，设计规范和图表使用规则组成，（[Read more](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) - 高效的运动设计解决方案，符合Ant设计可视化规范和React实现.
-- [Ant UX](http://ux.ant.design/) - 使用创建用于UX设计的站点地图模板 [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) 要么 [Axure](http://www.axure.com/) .  这是一个图书馆，可以帮助设计师定义，完善和最终确定其产品的页面间逻辑.
+- [Ant UX](http://ux.ant.design/) - 使用创建用于UX设计的站点地图模板 [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) 要么 [Axure](http://www.axure.com/) .  这是一个库，可以帮助设计人员定义，完善和最终确定其产品的页间逻辑.
 
 ## Angular
 
@@ -86,7 +90,7 @@ Ant Design系列项目.
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -  Vue.js 2.5.0+的Ant设计.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - 使用Vue.js和Ant Design构建漂亮的UI组件.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - 在Vue.js中构建的Ant设计UI组件.
-- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -  Ant设计的Vue.js版本.
+- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -  Vue.js版本的Ant Design.
 - [antue](https://github.com/zzuu666/antue) - 一组企业级Vue UI组件，完全遵循Ant设计规范.
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 使用Vue实现Ant Design Pro
 

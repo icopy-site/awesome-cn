@@ -244,6 +244,7 @@
 * [Termius](https://www.termius.com/)   - 免费的终端工具，可与Windows平台上的xshell相媲美.  ！[免费软件] [免费软件图标]
 * [TextQL](https://github.com/dinedal/textql)   - 对CSV或TSV等结构化文本执行SQL.  [！[开源软件] [OSS图标]]（https://github.com/dinedal/textql）！[免费软件] [免费软件图标]
 * [tmux](https://github.com/tmux/tmux)   - “终端多路复用器”，它允许从单个终端访问和控制多个终端（或窗口）.  tmux旨在成为GNU屏幕等程序的简单，现代，BSD许可的替代方案.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
+* [tmuxinator](https://github.com/tmuxinator/tmuxinator)   - 轻松管理复杂的tmux会话.  [！[开源软件] [OSS图标]]（https://github.com/tmuxinator/tmuxinator）
 * [trash](https://github.com/sindresorhus/trash)   - 将文件和目录移动到废纸篓.  ！[开源软件] [OSS图标]
 * [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
 * [VisiData](https://visidata.org)   - 终端电子表格多功能工具，用于发现和排列数据.  [！[开源软件] [OSS图标]]（https://github.com/saulpw/visidata）！[免费软件] [免费软件图标]

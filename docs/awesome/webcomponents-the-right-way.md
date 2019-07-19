@@ -3,13 +3,13 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的Web组件资源的精选列表.
+> A curated list of awesome Web Components resources.
 
 [Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
-> Web Components the Right Way was made with love by [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
+&gt;网络组件正确的方式是由爱 [Mateus Ortiz](https://twitter.com/mteusortiz) 并维护 [Serhii Kulykov](https://twitter.com/serhiikulykov)
 
 ## Specifications
 
@@ -221,6 +221,11 @@
 
 - [Aurelia Web Components plugin](https://github.com/aurelia/web-components)
 
+## Tools
+
+- [Cypress Daywalker](https://github.com/JaySunSyn/cypress-daywalker) - 赛普拉斯的Web组件和Shadow DOM支持.
+- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - 分析Web组件并发出文档/诊断的CLI.
+
 ## Books
 
 - [Web Components in Action](https://www.manning.com/books/web-components-in-action) - 由Ben Farrell预订，可在Manning早期发布计划中找到.
@@ -255,7 +260,6 @@
 - [webcomponents.dev](https://webcomponents.dev) - 您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.
-- [web-component-analyzer](https://github.com/runem/web-component-analyzer) - 分析Web组件并发出文档/诊断的CLI.
 - [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
 - [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.

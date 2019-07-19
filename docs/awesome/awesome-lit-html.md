@@ -59,6 +59,10 @@
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -  LitElement扩展，提供简单的l10n开箱即用.
 - [nextbone](https://www.npmjs.com/package/nextbone) - 使用ES类和装饰器重新设想Backbone，以便与LitElement一起使用.
 
+### Other
+
+- [@feature-hub/dom](https://www.npmjs.com/package/@feature-hub/dom) - 建设图书馆 [Feature Hub](https://github.com/sinnerschrader/feature-hub) 使用Web组件的集成商.
+
 ## Components
 
 - [Amber Components](https://github.com/bitrockteam/amber-components) -  Amber Design System的Web Components实现.
@@ -134,15 +138,20 @@
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
 
+## Projects
+
+- [DevWeb Content Firehose](https://devwebfeed.appspot.com/)
+
 ## Inspired Solutions
 
  这些库不依赖于lit-html，但受其一些概念的启发.  他们使用&#39;html`标记
 模板文字，并利用相同的好处 [IDE Plugins](#ide-plugins) 用于语法高亮.
 
+- [htm](https://github.com/developit/htm) -  Hyperscript Tagged Markup：使用标准标记模板的JSX替代方案，具有编译器支持.
 - [hybrids](https://github.com/hybridsjs/hybrids) - 用于使用简单和功能API创建Web组件的UI库.
 - [lit-ntml](https://github.com/motss/lit-ntml) - 在lit.html的启发下，Node.js中SSR的轻量级和现代模板.
-- [htm](https://github.com/developit/htm) -  Hyperscript Tagged Markup：使用标准标记模板的JSX替代方案，具有编译器支持.
 - [lite-html](https://github.com/ruphin/lite-html) -  VirtualDOM渲染引擎的现代替代品.
+- [modulor-html](https://github.com/modulor-js/modulor-html) - 缺少Web组件的模板引擎.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - 强大的~2kB（gzip）HTML模板字符串.
 
 ## Other awesome resources

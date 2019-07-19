@@ -3,13 +3,13 @@
 
 > Static program analysis is the analysis of computer software that is performed without actually executing programs — [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
 
- 这是静态分析工具和代码质量检查器的集合.  非常欢迎拉动请求！  
+ 这是静态分析工具和代码质量检查器的集合.  非常欢迎拉动请求！
 
  *：copyright：代表专有软件.  所有其他工具都是开源的.
 *：警告：表示社区不建议使用此工具
   新项目已经过时或不再维护.
 
-还看看姐妹项目， [awesome-dynamic-analysis](https://github.com/mre/awesome-dynamic-analysis).  
+还看看姐妹项目， [awesome-dynamic-analysis](https://github.com/mre/awesome-dynamic-analysis).
 
 
 
@@ -57,7 +57,7 @@
 
 
 
-  
+
 
 ---
 
@@ -168,7 +168,7 @@
 * [go-critic](https://github.com/go-critic/go-critic) - 转到源代码linter，维护当前未在其他链接中实现的检查.
 * [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#.
 * [go/ast](https://golang.org/pkg/go/ast/) - 包ast声明用于表示Go包的语法树的类型.
-* [goconst](https://github.com/jgautheron/goconst) - Finds repeated strings that could be replaced by a constant.
+* [goconst](https://github.com/jgautheron/goconst) - 查找可以用常量替换的重复字符串.
 * [gocyclo](https://github.com/fzipp/gocyclo) - 计算Go源代码中函数的圈复杂度.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - 检查代码是否格式正确，无法进一步简化.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 检查丢失或未引用的包导入.
@@ -384,6 +384,7 @@
 * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) -  Ruby的静态代码分析
 * [rubycritic](https://github.com/whitesmith/rubycritic) -  Ruby代码质量记者
 * [SandiMeter](https://github.com/makaroni4/sandi_meter) - 用于检查Sandi Metz规则的Ruby代码的静态分析工具.
+* [Sorbet](https://github.com/sorbet/sorbet) - 为Ruby设计的快速，强大的类型检查器
 
 ## Rust
 
@@ -461,7 +462,7 @@
 * [Depends](https://github.com/multilang-depends/depends) - 分析Java，C / C ++，Ruby的代码元素的综合依赖性.
 * [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 * [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
-* [Goodcheck](https://github.com/sideci/goodcheck) - 基于Regexp的可定制linter 
+* [Goodcheck](https://github.com/sideci/goodcheck) - 基于Regexp的可定制linter
 * [graudit](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/)   - 关于GitHub拉取请求中的样式违规的评论.  支持Coffeescript，Go，HAML，JavaScript，Ruby，SCSS和Swift.
 * [imhotep](https://github.com/justinabrahms/imhotep) - 评论进入您的存储库的提交并检查语法错误和一般lint警告.
@@ -509,7 +510,7 @@
 * [anchore](https://anchore.io/) - 发现，分析和认证容器图像
 * [clair](https://github.com/coreos/clair) - 容器的漏洞静态分析
 * [collector](https://github.com/banyanops/collector) - 在容器内运行任意脚本，并收集有用的信息
-* [dagda](https://github.com/eliasgranderubio/dagda) - 对docker映像/容器中的已知漏洞执行静态分析.
+* [dagda](https://github.com/eliasgranderubio/dagda) - Perform static analysis of known vulnerabilities in docker images/containers.
 * [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) -  Lint并验证Dockerfile标签
 * [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) - 更智能的Dockerfile linter，帮助您构建最佳实践Docker镜像
 * [kube-score](https://github.com/zegl/kube-score) -  Kubernetes对象定义的静态代码分析.

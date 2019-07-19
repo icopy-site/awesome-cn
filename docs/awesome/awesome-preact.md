@@ -75,6 +75,7 @@
 - [MU Forms](https://github.com/mobiushorizons/mu-forms) - 用于P（r）eact的死简单表单库.
 - [Pimg](https://github.com/ooade/pimg)   - 渐进式图像组件;  用于延迟加载图像.
 - [Preact Component Console](https://github.com/haensl/preact-component-console)   - 控制台模拟器.  通过动态延迟模拟打字.
+- [Preact Translate](https://github.com/DenysVuika/preact-translate) -  Preact的Minimalistic翻译（i18n）库.
 
 ### Libraries
 - [Redux Zero](https://github.com/concretesolutions/redux-zero) - 基于Redux的轻量级状态容器，具有单个存储而不具有reducer.

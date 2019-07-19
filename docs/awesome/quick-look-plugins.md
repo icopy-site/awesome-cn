@@ -13,7 +13,7 @@
 #### Install all
 
 ```
-brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize webpquicklook suspicious-package quicklookase qlvideo
+brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize suspicious-package quicklookase qlvideo
 ```
 
 ### Manually
@@ -84,15 +84,6 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/qlImageSize.png)](https://github.com/Nyx0uf/qlImageSize)
 
 
-### [WebP](https://github.com/dchest/webp-quicklook)
-
-&gt;预览WebP图像
-
-运行`brew cask install webpquicklook`或 [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
-
-[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
-
-
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
 
 &gt;预览标准Apple安装程序包的内容
@@ -149,6 +140,17 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlimagesize we
 运行`brew cask install quicklook-pat`或 [download manually](https://github.com/pixelrowdies/quicklook-pat/releases)
 
 [![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/quicklook-pat.png)](https://github.com/pixelrowdies/quicklook-pat)
+
+
+### [WebP](https://github.com/dchest/webp-quicklook)
+
+&gt;预览WebP图像
+
+&gt;注意：这已经被`qlImageSize`覆盖了，所以这个插件只在你不喜欢`qlImageSize的情况下列出 
+
+运行`brew cask install webpquicklook`或 [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
+
+[![](https://raw.githubusercontent.com/sindresorhus/quick-look-plugins/master/screenshots/WebP.png)](https://github.com/dchest/webp-quicklook)
 
 
 ## License

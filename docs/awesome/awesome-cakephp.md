@@ -109,7 +109,7 @@
 ## Environment
 *环境插件.*
 
-- [Environments plugin](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
+- [Environments plugin](https://github.com/josegonzalez/cakephp-environments) - 处理环境的插件.
 - [Gourmet/Aroma plugin](https://github.com/gourmet/aroma) - 基于数据库的配置.
 - [Settings plugin](https://github.com/cakemanager/cakephp-settings) - 通过数据库管理设置的插件.
 - [Setup plugin](https://github.com/dereuromark/cakephp-setup) - 处理非常基本环境的插件.
@@ -293,6 +293,7 @@
 - [Muffin/Throttle plugin](https://github.com/usemuffin/throttle) - 用于速率限制（API）请求的插件.
 - [Recaptcha plugin](https://github.com/agiletechvn/Recaptcha) - 简单轻巧的Google Recaptcha v2.
 - [Recaptcha Mailhide plugin](https://github.com/mirko-pagliai/cakephp-recaptcha-mailhide) - 一个允许您使用reCAPTCHA隐藏电子邮件地址的插件.
+- [StopSpam plugin](https://github.com/mirko-pagliai/cakephp-stop-spam) - 一个插件，允许您检查用户名，电子邮件地址或IP地址是否已被报告为垃圾邮件发送者.
 
 ## SEO
 *搜索引擎优化.*
@@ -322,10 +323,10 @@
 
 - [Address plugin](https://github.com/drmonkeyninja/cakephp-address) - 输出标记地址的地址助手.
 - [Bake plugin](https://github.com/cakephp/bake) - 提供代码生成功能.
-- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - A Bootstrap 3 plugin with support for LESS.
+- [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - 支持LESS的Bootstrap 3插件.
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) -  Bootstrap 3集成.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - 用于生成XLSX文件的Excel视图.
-- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - 前端框架FormHelper扩展.
+- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) - 添加 [CommonMark](http://commonmark.org) （降价）对模型和视图的支持.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - 可轻松生成CSV的视图类.
 - [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - 支持HTML5 datalist元素，可以在关联模型中创建新条目.
@@ -346,7 +347,7 @@
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - 自动查找代码问题/气味并自动修复CS错误.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP灯具.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -  Fixtures插件，用于读取现有灯具并创建表/插入数据，以便快速启动app.
-- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - 通过减少插入量（仅限mysql）运行测试套件时更有效地插入灯具.
+- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) 支持CakePHP夹具记录.
 
 ## Third Party APIs

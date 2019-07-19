@@ -38,7 +38,7 @@
     *亚马逊SNS  - 每月发布100万
     * Amazon Cloudwatch  -  10个自定义指标和10个警报
     * Amazon Glacier  -  10GB长期对象存储
-    * Amazon SQS  -  100万个消息队列请求
+    * Amazon SQS - 1 million messaging queue requests
     * Amazon CodeBuild  - 每月100分钟的构建时间
     *亚马逊代码提交 - 每月5个活跃用户
     *亚马逊代码管道 - 每月1个活动管道
@@ -71,6 +71,8 @@
   * [perforce.com](https://www.perforce.com/products/helix-teamhub) - 免费的1GB Cloud和Git，Mercurial或SVN存储库.
   * [projectlocker.com](https://projectlocker.com) - 一个50 MB空间的免费私人项目（Git和Subversion）
   * [ionicframework.com](https://ionicframework.com/appflow) - 使用Ionic开发应用程序的回购和工具，您也有离子回购
+  * [gitea.com](https://www.gitea.com/) - 无限制的公共和私人Git回购
+  * [codeberg.org](https://codeberg.org/) - 无限制的公共和私人Git回购
 
 ## APIs, Data and ML
   * [ProxyCrawl](https://proxycrawl.com/)   - 无需代理，基础设施或浏览器即可抓取和抓取网站.  我们为您解决验证码并防止您被阻止.  前1000个电话是免费的.
@@ -92,7 +94,7 @@
   * [Apify](https://www.apify.com/)   -  Web抓取和自动化平台，可让您创建提取网站数据的API.  免费套餐，每月抓取10k次，保留7天.
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
-  * [tamber](https://tamber.com) — Put deep-learning powered recommendations in your app. Free 5k monthly active users.
+  * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
   * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
@@ -113,7 +115,7 @@
 
 ## Tools for Teams and Collaboration
 
-  * [scinote.net](https://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
+  * [scinote.net](https://scinote.net)   - 科学的数据管理和团队协作.  一个团队拥有无限数量的用户，备份和1 GB存储空间
   * [appear.in](https://appear.in/) - 免费点击一次视频对话
   * [meet.jit.si](https://meet.jit.si/) - 免费点击视频对话，屏幕共享
   * [flowdock.com](https://www.flowdock.com/) - 聊天和收件箱，最多5人的团队免费
@@ -163,6 +165,7 @@
   * [reviewable.io](https://reviewable.io/) -  GitHub存储库的代码审查，免费用于公共或个人回购
   * [sonarcloud.io](https://sonarcloud.io) — Automated source code analysis for Java, JavaScript, C/C++, C#, VB.NET, PHP, Objective-C, Swift, Python, Groovy and even more languages, free for Open Source
   * [golangci.com](https://golangci.com) - 针对GitHub拉取请求的自动Go（golang）代码审查服务.
+  * [lgtm.com](https://lgtm.com) — Continuous security analysis for Java, Python, JavaScript, TypeScript, C#, C and C++, free for Open Source
 
 ## Code Search and Browsing
 
@@ -173,6 +176,7 @@
 
 ## CI / CD
 
+  * [ligurio/Continuous-Integration-services](https://github.com/ligurio/Continuous-Integration-services) - 持续集成服务的比较
   * [dev.azure.com](https://azure.microsoft.com/services/devops/pipelines/) -  10个免费并行作业，无限分钟，适用于Linux，macOS和Windows的开源
   * [codefresh.io](https://codefresh.io) - 终身免费计划：1个版本，1个环境，共享服务器，无限制的公共回购
   * [codeship.com](https://codeship.com/) -  100个私人构建/月，5个私有项目，无限制的开源
@@ -180,9 +184,8 @@
   * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
   * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
-  * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
+  * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](https://www.appveyor.com/) - 适用于Windows的CD服务，适用于开源
-  * [github.com](https://github.com/ligurio/Continuous-Integration-services) - 持续集成服务的比较
   * [ftploy.com](https://ftploy.com/) -  1个无限制部署的项目
   * [deployhq.com](https://www.deployhq.com/) -  1个项目，每天10次部署（30个建立分钟/月）
   * [styleci.io](https://styleci.io/) - 仅限公共GitHub存储库
@@ -203,7 +206,7 @@
 ## Security and PKI
 
   * [pyup.io](https://pyup.io)   - 针对安全漏洞的Monitory Python依赖项并自动更新它们.  免费为一个私人项目，无限制的开源项目.
-  * [threatconnect.com](https://www.threatconnect.com) — Threat intelligence: It is designed for individual researchers, analysts and organizations who are starting to learn about cyber threat intelligence. Free up to 3 Users
+  * [threatconnect.com](https://www.threatconnect.com)   - 威胁情报：它专为正在开始了解网络威胁情报的个人研究人员，分析师和组织而设计.  最多可免费使用3个用户
   * [crypteron.com](https://www.crypteron.com/) - 云优先，开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io) -  Snyk发现并报告了包中的几个漏洞.限制为1个私有项目（开源项目无限制）
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
@@ -214,11 +217,11 @@
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
-  * [duo.com](https://duo.com/) — Two-factor authentication (2FA) for website or app. Free 10 users, all authentication methods, unlimited, integrations, hardware tokens
+  * [duo.com](https://duo.com/)   - 网站或应用程序的双因素身份验证（2FA）.  免费10个用户，所有身份验证方法，无限制，集成，硬件令牌
   * [tinfoilsecurity.com](https://www.tinfoilsecurity.com/)   - 自动漏洞扫描.  免费计划允许每周XSS扫描
   * [acunetix.com](https://www.acunetix.com/free-network-security-scanner/) -  3个目标的免费漏洞和网络扫描
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
-  * [foxpass.com](https://www.foxpass.com/)   - 托管LDAP和RADIUS.  轻松按用户登录服务器，VPN和无线网络.  10位用户免费
+  * [foxpass.com](https://www.foxpass.com/) — Hosted LDAP and RADIUS. Easy per-user logins to servers, VPNs and wireless networks. Free for 10 users
   * [opswat.com](https://www.opswat.com/) - 安全监控计算机，设备，应用程序，配置，......免费25位用户和30天的历史记录
   * [bitninja.io](https://bitninja.io/) - 通过黑名单保护僵尸网络，免费计划仅报告每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) - 身份即服务（IDaaS），单点登录身份提供商，云SSO IdP，3个公司应用和5个个人应用，无限用户
@@ -239,7 +242,7 @@
 
   * [bugfender.com](https://bugfender.com/) - 每天免费提供100k对数线，24小时保留
   * [humio.com](https://www.humio.com/) - 最多2 GB /天，保留7天
-  * [logentries.com](https://logentries.com/) - 最多5 GB /月，保留7天
+  * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) - 对于单个用户免费，请参阅lite选项
   * [logz.io](https://logz.io/) - 免费最多1 GB /天，保留3天
   * [papertrailapp.com](https://papertrailapp.com/) -  48小时搜索，7天存档，100 MB /月
@@ -251,7 +254,7 @@
 
   * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
   * [getlocalization.com](https://www.getlocalization.com/) - 免费公共项目
-  * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
+  * [webtranslateit.com](https://webtranslateit.com/) — Free up to 500 strings
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
   * [crowdin.com](https://crowdin.com/) - 无限制的项目，无限的字符串和开源的合作者
@@ -294,7 +297,7 @@
 
   * [rollbar.com](https://rollbar.com/) - 例外和错误监控，每月5,000个错误的免费计划，无限用户，30天保留期
   * [bugsnag.com](https://bugsnag.com/) - 初次试用后每月最多可免费提供2,000个错误
-  * [sentry.io](https://sentry.io/)   -  Sentry实时跟踪应用程序异常，有一个小的免费计划.  如果是自我托管，可以免费，不受限制地使用
+  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
 
 ## Search
 
@@ -335,6 +338,7 @@
   * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
   * [migadu.com](https://www.migadu.com/) - 电子邮件托管（Webmail，SMTP，IMAP，...） - 免费计划限制为10个外发邮件/天
   * [socketlabs.com](https://www.socketlabs.com) - 第一个月免费发送40k封电子邮件，然后每月免费发送2000封电子邮件
+  * [postmarkapp.com](https://postmarkapp.com/) -  100封电子邮件/月免费，无限制的DMARC每周摘要
 
 ## CDN and Protection
 
@@ -345,13 +349,15 @@
   * [raw.githack.com](https://raw.githack.com/) -  ** rawgit.com **的现代替代品，它只使用Clouflare托管文件 
   * [developers.google.com](https://developers.google.com/speed/libraries/) -  Google Hosted Libraries是最受欢迎的开源JavaScript库的内容分发网络
   * [asp.net](https://www.asp.net/ajax/cdn/) -  Microsoft Ajax CDN托管流行的第三方JavaScript库，例如jQuery，使您可以轻松地将它们添加到Web应用程序中
-  * [toranproxy.com](https://toranproxy.com/) — Proxy for Packagist and GitHub. Never fail CD. Free for personal use, 1 developer, no support
+  * [toranproxy.com](https://toranproxy.com/)   -  Packagist和GitHub的代理.  永远不会失败CD.  免费供个人使用，1位开发人员，不支持
   * [incapsula.com](https://www.incapsula.com/) - 免费CDN和DDoS保护
   * [Web Support Revolution](https://w.tools/) - 免费CDN，备份，防火墙，防病毒和监控.
   * [section.io](https://www.section.io/)   - 一种简单的方法来启动和管理完整的Varnish Cache解决方案.  据说永远免费为一个网站
   * [netdepot.com](https://www.netdepot.com/cdn/) - 首个100 GB免费/月
   * [speeder.io](https://speeder.io/)   - 使用KeyCDN.  自动图像优化和免费CDN提升.  免费，不需要任何服务器更改
-  * [jare.io](http://www.jare.io)   - 您应该使用您的GitHub帐户登录并注册您的域名.  使用AWS CloudFront
+  * [jare.io](http://www.jare.io)   - 用于图像的CDN.  使用AWS CloudFront
+  * [unpkg.com](https://unpkg.com/) - 关于npm的所有内容的CDN
+  * [staticaly.com](https://staticaly.com/) -  Git repos的CDN（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
 
 ## PaaS
 
@@ -368,7 +374,7 @@
   * [zeit.co/now](https://zeit.co/now)   -  Node.js，静态站点和Docker部署的托管平台.  OSS项目限制为3个并发实例，1 GB存储和1 GB带宽（源文件在公共URL上公开）
   * [sandstorm.io](https://sandstorm.io/)   -  Sandstorm是一个用于个人和私有云的开源操作系统.  免费计划提供200 MB存储空间和5粒免费
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
-  * [glitch.com](https://glitch.com/) — Free unlimited public/private hosting with features such as code sharing and real-time collaboration
+  * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份. 
 
 ## BaaS
@@ -406,7 +412,7 @@
   * [sanity.io](https://www.sanity.io/)   - 使用React构建的可定制MIT许可编辑器的结构化内容的托管后端.  无限的项目.  每个项目免费提供3个用户，2个数据集，500k API CDN请求，5GB资产
   * [pantheon.io](https://pantheon.io/)   -  Drupal和WordPress托管，自动化DevOps和可扩展的基础架构.  开发人员和代理商免费
   * [acquia.com](https://www.acquia.com/)   - 托管Drupal网站.  开发人员免费套餐.  免费开发工具（如Acquia Dev Desktop）也可用
-  * [readthedocs.org](https://readthedocs.org/) — Free documentation hosting with versioning, PDF generation and more
+  * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
   * [contentful.com](https://www.contentful.com/)   - 内容即服务.  云中的内容管理和交付API.  每月3个用户，3个存储库和100,000个API请求免费
   * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，只有170多个可用的主要预定义块，没有字体，没有favicon和没有自定义域
@@ -415,7 +421,7 @@
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
   * [opeNode.io](https://www.openode.io/) - 开源项目的免费云托管.
   * [kuber.host](https://kuber.host/) -  Kubernetes主持免费计划
-  * [cloudno.de](https://cloudno.de/) -  Node.js应用程序的免费云托管.
+  * [cloudno.de](https://cloudno.de/) — Free cloud hosting for Node.js apps.
   * [heliohost.org](https://www.heliohost.org) - 社区为所有人提供免费托管服务.
 
 ## DNS
@@ -448,7 +454,7 @@
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
@@ -458,7 +464,7 @@
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
-   * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
+   * [scaledrone.com](https://www.scaledrone.com/)   - 推送消息服务.  最多可同时连接20个连接和每天100,000条消息
    * [pusher.com](https://pusher.com/)   - 实时消息服务.  最多可同时连接100个连接和每天200,000条消息
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302](https://github.com/ripienaar/free-for-dev/blob/master/stun:stun.l.google.com:19302) -  Google STUN
    * [https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp](https://github.com/ripienaar/free-for-dev/blob/master/stun:global.stun.twilio.com:3478?transport=udp) -  Twilio STUN
@@ -467,7 +473,7 @@
    * [cloudamqp.com](https://www.cloudamqp.com/)   -  RabbitMQ即服务.  Little Lemur计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队消息，不同AZ的多个节点
    * [serveo.net](https://serveo.net/) - 使用SSH隧道快速将任何本地端口暴露在伺服子域的公共互联网上，包括通过HTTP重放请求的SSH GUI.
    * [ZeroTier](https://www.zerotier.com)   -  FOSS管理虚拟以太网作为服务.  免费计划的100个客户端的无限端到端加密网络.  桌面/移动/ NA的客户;  用于配置自定义路由规则和批准私有网络上的新客户端节点的Web界面.
-   * [Hamachi](https://www.vpn.net/) -  LogMeIn Hamachi是一种托管VPN服务，可让您安全地将类似局域网的网络扩展到分布式团队，免费计划允许最多5人的无限网络
+   * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi is a hosted VPN service that lets you securely extend LAN-like networks to distributed teams with free plan allows unlimited networks with up to 5 peoples
    * [webhookrelay.com](https://webhookrelay.com)   - 管理，调试，扇出并将所有webhook代理到公共或内部（即：localhost）目的地.  此外，通过获取公共HTTP端点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080`），通过隧道公开在专用网络中运行的服务器.
 
 ## Issue Tracking and Project Management
@@ -532,7 +538,7 @@
 
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
