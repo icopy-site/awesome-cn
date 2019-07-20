@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  991 |  2019年7月18日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  993 |  2019年7月19日
 
 
 
@@ -36,6 +36,7 @@
 ### Style Guides
 [back to top](#readme) 
 
+* [Airbnb](https://github.com/airbnb/swift) -  Airbnb的官方风格指南.
 * [Google](https://google.github.io/swift/) - 此样式指南基于Apple出色的Swift标准库样式，并结合了Google内多个Swift项目的使用反馈.
 * [LinkedIn](https://github.com/linkedin/swift-style-guide) -  LinkedIn的官方风格指南.
 * [Raywenderlich](https://github.com/raywenderlich/swift-style-guide) -  Raywenderlich指南，必读.
@@ -109,7 +110,7 @@
 
 ## Patterns
 
-* [App Architecture](https://github.com/objcio/app-architecture) - A sample Code of the App Architecture Book.
+* [App Architecture](https://github.com/objcio/app-architecture) -  App Architecture Book的示例代码.
 * [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) - 使用RxSwift的iOS应用程序的清洁体系结构示例.
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift) - 设计模式.
 * [Reactant](https://github.com/Brightify/Reactant) -  Reactant是iOS的反应式架构.
@@ -299,7 +300,7 @@
 * [Hue](https://github.com/zenangst/Hue) -  Hue是您需要的一体化着色实用程序.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)   - 使用ANSI转义码在终端中显示样式和颜色文本.  符合ECMA标准48.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 为`UIColor`常量自动生成`enums`的工具.
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -  HEX颜色处理作为UIColor的扩展.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -  Hex到UIColor转换器.
 * [UIGradient](https://github.com/dqhieu/UIGradient) - 一个简单而强大的库，用于使用渐变图层，图像，颜色.
 
@@ -539,10 +540,10 @@
 * [Bond](https://github.com/DeclarativeHub/Bond) - 绑定框架.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - 承诺和未来的lib.
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - 使用Apple的组合框架处理UI事件.
-* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures) - 🔗Futures & Promises. Easy to use. Highly combinable.
+* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)   - 期货和承诺.  使用方便.  高度可组合.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - 事件发射器和侦听器的实现.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - 未来/承诺图书馆.
-* [Katana](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
+* [Katana](https://github.com/BendingSpoons/katana-swift) - 将应用程序写入React和Redux.
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) - 可以订阅的可观察序列的轻量级实现.
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
@@ -626,7 +627,7 @@
 * [Bluejay](https://github.com/steamclock/bluejay) - 构建可靠蓝牙LE应用程序的简单框架.
 * [BluetoothKit](https://github.com/rhummelmose/BluetoothKit) - 使用BLE在iOS / OSX设备之间轻松通信.
 * [RxBluetoothKit](https://github.com/polidea/RxBluetoothKit) - 适用于RxSwift的iOS和OSX蓝牙库.
-* [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+* [SwiftyBluetooth](https://github.com/jordanebelanger/SwiftyBluetooth) - 基于CoreBluetooth的简单可靠的封装包装.
 
 #### Camera
 *令人敬畏的相机库* [back to top](#readme) 
@@ -766,7 +767,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
 
 ### Location
 [back to top](#readme) 
@@ -995,6 +996,7 @@
 #### Mock
 [back to top](#readme) 
 
+* [AutoMockable](https://github.com/vincent-pradeilles/AutoMocker) - 利用类型系统的框架，可以轻松创建数据类型的模拟实例.
 * [Cuckoo](https://github.com/Brightify/Cuckoo) - 首个无样板模拟框架.
 * [Kakapo](https://github.com/devlucky/Kakapo) - 动态模拟服务器行为和响应.
 * [Mockingjay](https://github.com/kylef/Mockingjay) - 一个优雅的库，可以轻松地存根HTTP请求.
@@ -1154,7 +1156,7 @@
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - 适用于iOS的漂亮警报控制器.
 * [Loaf](https://github.com/schmidyy/Loaf) - 简单的iOS Toast框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在iOS中显示高度可自定义的应用通知横幅的最简单方法.
-* [PMAlertController](https://github.com/pmusolino/PMAlertController) -  PMAlertController是UIAlertController的优秀和可定制的替代品.
+* [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
 * [PopupDialog](https://github.com/orderella/PopupDialog)   - 一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - 动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) - 具有导航功能的操作表，例如Flipboard App.
@@ -1187,14 +1189,14 @@
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 可爱的动画按钮.
 * [ExpandableButton](https://github.com/DimaMishchenko/ExpandableButton) - 可定制且易于使用的可扩展按钮.
 * [Floaty](https://github.com/kciter/Floaty) - 适用于iOS的浮动操作按钮.
-* [LGButton](https://github.com/loregr/LGButton) - 本机UIControl的完全可自定义的子类，允许您创建漂亮的按钮而无需编写任何代码行.
+* [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - 带有漂亮动画的单选按钮.
 * [MultiToggleButton](https://github.com/yonat/MultiToggleButton) -  UIButton子类，实现点击切换按钮文本（如相机闪光灯和计时器按钮）.
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)   - 改进后的下载按钮.  这有点像Netflix的应用程序下载按钮的逆向工程.
 * [PMSuperButton](https://github.com/pmusolino/PMSuperButton) - 具有超强功能的强大UIButton，可从Storyboard自定义.
 * [RadioGroup](https://github.com/yonat/RadioGroup) - 缺少iOS单选按钮组.
 * [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - 动画社交分享按钮控制iOS.
-* [TransitionButton](https://github.com/AladinWay/TransitionButton) - 用于加载和转换动画的UIButton子类.
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 
 #### Calendar
 [back to top](#readme) 
@@ -1354,7 +1356,7 @@
 * [PanSlip](https://github.com/k-lpmg/PanSlip) - 使用PanGesture关闭UIViewController和UIView上的视图.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) -  Pinterest风格转型.
 * [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - 基于Swift的库提供了一系列ViewController转换，其中包含许多简洁的切割动画.
-* [SPLarkController](https://github.com/IvanVorobei/SPLarkController)   - 两个控制器之间的自定义转换  翻译为顶部.
+* [SPLarkController](https://github.com/IvanVorobei/SPLarkController)   - 两个控制器之间的自定义转换  转换为顶部.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController)   - 现在播放Apple Music的控制器.  可定制的高度.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - 将动画过渡到崩溃的视图控制器变成小块.
 * [Transition](https://github.com/Touchwonders/Transition) - 轻松交互式可中断自定义ViewController转换.
@@ -1404,7 +1406,7 @@
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) - 在集合视图部分之间快速滚动的组件.
 * [SelectionList](https://github.com/yonat/SelectionList) - 基于UITableView的简单单选或多选清单.
 * [Shoyu](https://github.com/yukiasai/Shoyu) - 更简单的方式来表示UITableView的结构.
-* [SwiftyComments](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
+* [SwiftyComments](https://github.com/tsucres/SwiftyComments) - 可扩展/可折叠单元格的嵌套层次结构，可轻松构建优雅的讨论线程.
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 基于Stock.app股票的可滑动UITableViewCell.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - 一个组件，允许您在UITableView的数据集为空时自定义视图.
 * [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - 适用于iOS的令人敬畏的可扩展，可折叠的tableview单元格.
@@ -1514,7 +1516,7 @@
 * [Cabbage](https://github.com/VideoFlint/Cabbage) - 构建在AVFoundation之上的视频合成框架.
 * [Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi) - 使用OpenGLES叠加Alpha通道视频动画播放器视图.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - 自定义AVPlayerLayer视图和转换播放器，具有良好的效果，如YouTube和Facebook.
-* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 适用于iOS的功能强大且完全可定制的媒体播放器.
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - 导出和转码媒体.
 * [Player](https://github.com/piemonte/Player) -  iOS视频播放器，用于播放和流媒体的简单组件.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 使用UIView轻松使用视频播放器，管理再现速率，屏幕截图和回调 - 代表播放器状态.

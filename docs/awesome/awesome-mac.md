@@ -41,7 +41,7 @@
 * [Emacs](https://www.emacswiki.org/emacs/EmacsForMacOS) - A popular text editor used mainly on Unix-based systems by programmers, scientists, engineers, students, and system administrators. [![Open-Source Software][OSS Icon]](https://git.savannah.gnu.org/cgit/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/emacs-tw/awesome-emacs#readme)
 * [LightTable](http://lighttable.com/)   - 下一代代码编辑器.  [！[开源软件] [OSS图标]]（https://github.com/LightTable/LightTable）！[免费软件] [免费软件图标]
 * [micro](https://micro-editor.github.io)   - 现代直观的基于终端的文本编辑器.  [！[开源软件] [OSS图标]]（https://github.com/ory/editor）！[免费软件] [免费软件图标]
-* [ONI](https://github.com/onivim/oni)   - 由Neovim驱动的IDE.  [！[开源软件] [OSS图标]]（https://github.com/onivim/oni）！[免费软件] [免费软件图标]
+* [ONI](https://github.com/onivim/oni) - IDE powered by Neovim. [![Open-Source Software][OSS Icon]](https://github.com/onivim/oni) ![Freeware][Freeware Icon]
 * [Sublime Text](http://www.sublimetext.com/3)   - 用于代码，标记和散文的复杂文本编辑器.  你会喜欢光滑的用户界面，非凡的功能和惊人的性能， [Sublime Text Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#sublime-text-plugin). [![Awesome List][awesome-list Icon]](https://github.com/dreikanter/sublime-bookmarks#readme)
 * [TextMate](https://macromates.com)   - 将Apple的操作系统方法引入文本编辑器的编辑器.  [！[开源软件] [OSS图标]]（https://github.com/textmate/textmate）！[免费软件] [免费软件图标]
 * [Vim](http://www.vim.org/) - 高度可配置的文本编辑器，可以非常有效地创建和更改任何类型的文本， [Vim Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vim-plugin). [![Open-Source Software][OSS Icon]](https://github.com/vim/vim) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/mhinz/vim-galore#readme)
@@ -178,7 +178,7 @@
 * [Visual Paradigm](https://www.visual-paradigm.com/) - 用于敏捷的一体化UML，SysML，BPMN建模平台，EA TOGAF ADM流程管理.
 * [Woodpecker](http://www.woodpeck.cn)   - 在Mac上查看iOS应用程序的Sandbox文件，UserDefaults，Keychain项目.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/woodpecker/id1333548463）
 * [WWDC](https://github.com/insidegui/WWDC)   -  Mac OS非官方WWDC应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/insidegui/WWDC）
-* [zeplin](https://www.zeplin.io/) - Collaboration tool for work between designers and developers. ![Freeware][Freeware Icon]
+* [zeplin](https://www.zeplin.io/)   - 用于设计人员和开发人员之间工作的协作工具.  ！[免费软件] [免费软件图标]
 
 #### Regular Expression Editors
 
@@ -246,7 +246,7 @@
 * [tmux](https://github.com/tmux/tmux)   - “终端多路复用器”，它允许从单个终端访问和控制多个终端（或窗口）.  tmux旨在成为GNU屏幕等程序的简单，现代，BSD许可的替代方案.  [！[开源软件] [OSS图标]]（https://github.com/tmux/tmux）
 * [tmuxinator](https://github.com/tmuxinator/tmuxinator)   - 轻松管理复杂的tmux会话.  [！[开源软件] [OSS图标]]（https://github.com/tmuxinator/tmuxinator）
 * [trash](https://github.com/sindresorhus/trash)   - 将文件和目录移动到废纸篓.  ！[开源软件] [OSS图标]
-* [Upterm](https://github.com/railsware/upterm) - Upterm (formerly Black Screen) is an IDE in the world of terminals. Strictly speaking, it's both a terminal emulator and an interactive shell based on Electron. ![Open-Source Software][OSS Icon]
+* [Upterm](https://github.com/railsware/upterm)   -  Upterm（以前的Black Screen）是终端世界中的IDE.  严格来说，它既是终端仿真器，也是基于Electron的交互式shell.  ！[开源软件] [OSS图标]
 * [VisiData](https://visidata.org)   - 终端电子表格多功能工具，用于发现和排列数据.  [！[开源软件] [OSS图标]]（https://github.com/saulpw/visidata）！[免费软件] [免费软件图标]
 * [Zsh](https://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/zsh/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/unixorn/awesome-zsh-plugins#readme)
 
@@ -335,6 +335,7 @@
 * [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 适用于Mac的专业图形设计软件.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 适用于Mac的专业图像编辑软件.
 * [Alchemy](http://al.chemy.org/)   - 实验性，开源绘图应用程序，重点是创建概念艺术.  [！[开源软件] [OSS图标]]（http://svn.al.chemy.org/）
+* [Amadine](https://amadine.com) - 一个矢量绘图应用程序，具有图形设计师所需的一切，包裹在一个整洁和直观的界面中.
 * [Art Text 3](https://www.belightsoft.com/art-text/) - 这是专为字体，排版，文本模型和各种艺术文字效果而调整的图形设计软件.
 * [Blender](https://www.blender.org/)   - 免费和开放的3D创作软件.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://developer.blender.org/）
 * [Colorpicker](https://colorpicker.crea-th.at)   -  Colorpicker是一款完整的开源色彩处理工具，具有拾取功能！  [！[开源软件] [OSS图标]]（https://github.com/toinane/colorpicker）！[免费软件] [免费软件图标]
@@ -370,7 +371,7 @@
 
 * [Adobe XD (Experience Design)](http://www.adobe.com/products/experience-design.html) - 首个用于设计和原型化网站和移动应用程序的一体化跨平台工具.
 * [Axure RP 8](http://www.axure.com) - 一个工具中的原型，规格和图表.
-* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - 线框工具，可帮助您更快，更智能地工作.
+* [Balsamiq Mockups](https://balsamiq.com/products/mockups/) - Wire-framing tool that helps you work faster and smarter.
 * [Flinto](https://www.flinto.com/) - 快速创建移动，桌面或Web应用程序的交互式原型.
 * [Framer](http://framerjs.com/) - 交互式原型制作工具.
 * [Justinmind](http://www.justinmind.com) - 适用于网络和移动应用的原型平台.
@@ -600,7 +601,7 @@
 
 ## Proxy and VPN Tools
 
-* [Algo](https://github.com/trailofbits/algo) - Personal IPSEC VPN in the cloud. [![Open-Source Software][OSS Icon]](https://github.com/trailofbits/algo)
+* [Algo](https://github.com/trailofbits/algo)   - 云中的个人IPSEC VPN.  [！[开源软件] [OSS图标]]（https://github.com/trailofbits/algo）
 * [FreeVPN Plus](https://www.freevpn.pw)   - 适用于Mac的免费VPN客户端.  ！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https://github.com/jaywcjlove/awesome-mac/blob/master/itunes.apple.com/app/freevpn-加无限免费VPN-的-MAC / id1202726435）
 * [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG)   - 下一代ShadowsocksX.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/qiuyuzhou/ShadowsocksX-NG）
@@ -653,7 +654,7 @@
 * [AirServer](http://www.airserver.com/Download) - 适用于Mac，PC和Xbox One的最先进的屏幕镜像软件接收器.
 * [ControlPlane](http://www.controlplaneapp.com/)   - 管理Mac的配置文件.  根据许多可用的证据来源确定您的位置或您正在做的事情，然后根据您的偏好自动重新配置您的Mac.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven)   - 统一macOS DNS，因此使用glibc的应用程序可以使用本机堆栈解析DNS.  主要用于VPN.  [！[开源软件] [OSS图标]]（https://github.com/greenboxal/dns-heaven）！[免费软件] [免费软件图标]
-* [HTTrack](http://www.httrack.com)   - 用于下载整个网站和离线浏览的有用工具.  ！[免费软件] [免费软件图标]
+* [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) -  Mac的缓存清理器[！[开源软件] [OSS图标]]（https://github.com/kaunteya/MacCacheCleaner）！[免费软件] [免费软件图标]
 * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) - 谷歌助手为macOS [！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）！[免费软件] [免费软件图标]
 * [Manta](https://getmanta.app/)   - 灵活的发票桌面应用程序，具有漂亮和可自定义的模板.  [！[开源软件] [OSS图标]]（https://github.com/hql287/Manta）！[免费软件] [免费软件图标]

@@ -98,7 +98,7 @@ _有多种方式可以与家庭助理社区联系.
 
 ## Hass.io
 
-_Hass.io is a complete operating system that will take care of installing and
+_Hass.io是一个完整的操作系统，将负责安装和
 更新Home Assistant，并从前端进行管理._
 
 * [Hass.io Beginner's Guide](https://www.youtube.com/watch?v=qnCRcGTznXs) - ：tv：关于入门的优秀分步指南（基于HassOS）.
@@ -122,7 +122,7 @@ _Add-ons是易于安装的服务，可以扩展功能
 _Anyone可以创建一个附加组件，以下内容由社区创建._
 
 * [SSH & Web Terminal](https://github.com/hassio-addons/addon-ssh) - 具有大量预装有用工具的SSH和基于Web的终端.
-* [Pi-hole](https://github.com/hassio-addons/addon-pi-hole) - 广告网络广告拦截.
+* [Pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Network-wide ad blocking.
 * [UniFi Controller](https://github.com/hassio-addons/addon-unifi) -  UniFi控制器允许您使用Web浏览器管理UniFi网络.
 * [Node-RED](https://github.com/hassio-addons/addon-node-red) - 物联网的基于流的编程.
 * [Plex Media Server](https://github.com/hassio-addons/addon-plex) - 您录制的媒体组织精美，随时可以播放.
@@ -194,7 +194,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Mini Media Player](https://github.com/kalkih/mini-media-player) - 简约的媒体播放器卡.
 * [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - 简约的传感器图形卡.
 * [Button card](https://github.com/kuuji/button-card) - 实体的按钮卡.
-* [Slideshow card](https://github.com/zsarnett/slideshow-card) - 动态幻灯片显示图像或卡片.
+* [Slideshow card](https://github.com/zsarnett/slideshow-card) - Dynamic slideshow of images or cards.
 * [Swiper card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - 轻击/滑动多张卡片.
 * [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - 添加滑块以调整，例如，lovelace实体卡中的灯光亮度.
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - 一种直观的方式来表示您的家庭正在消耗或生产的力量.
@@ -217,6 +217,8 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) - 在实体行上显示多个实体状态或属性.
 * [Toggle Lock Entity Row](https://github.com/thomasloven/lovelace-toggle-lock-entity-row) - 显示带锁的切换，避免错误切换.
 * [Xiaomi Vacuum Map Card](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Xiaomi-Vacuum-Map-card) - 互动小米真空吸尘器地图，就像Mi Home应用程序一样.
+* [Home Feed Card](https://github.com/gadgetchnnel/lovelace-home-feed-card) - 以Feed样式显示持久性通知，日历事件和实体的组合.
+* [Config Template Card](https://github.com/custom-cards/config-template-card) - 允许在Lovelace中使用模板.
 
 ### Alternative Dashboards
 
@@ -240,6 +242,7 @@ _由社区创建的Home Assistant的附加组件._
 * [HACS](https://custom-components.github.io/hacs/) - 这是您的自定义集成（组件）和插件（lovelace元素）需求的管理器.
 * [breaking_changes](https://github.com/custom-components/breaking_changes) - 组件，用于根据加载的组件显示当前发布版本中的潜在break_changes.
 * [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) - 昼夜节律灯光可以使您的换色灯与全天常规自然发生的色温同步.
+* [HASS Aarlo](https://github.com/twrecked/hass-aarlo)   - 异步Arlo集成.  与Arlo网站类似;  监控所有基站，摄像机和门铃的事件和状态. 
 
 ## DIY
 
@@ -264,7 +267,7 @@ _由社区创建的Home Assistant的附加组件._
 * [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) - 使用ESP8266和MQTT双向使用IR和433mhz.
 * [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) - 使用ESP8266，伺服和MQTT自动化窗帘.
 * [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - 具有多个DIY项目的Hackster频道.
-* [ESP MQTT Digital LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - 用于BRUH的JSON Light组件的WS2811 LED条纹.
+* [ESP MQTT Digital LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - WS2811 LED Stripe for the JSON Light Component from BRUH.
 * [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) - 基于ESP8266的床存在检测.
 * [NFC Scanner](https://github.com/klaasnicolaas/ha_nfc_scanner) - 使用ESP8266，PN532和MQTT构建NFC标签/卡片扫描仪.
 * [ESP32-Cam Facebox](https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/) - 将ESP32-CAM，HA和Facebox连接在一起，以获得便宜的面部识别/家庭监控解决方案.
@@ -293,7 +296,7 @@ _坐下，放松，观察和学习._
 * [The Hook Up](https://www.youtube.com/channel/UC2gyzKcHbYfqoXA5xbyGXtQ) - 教程等，一般还有关于家庭自动化的视频.
 * [HASSCASTS](https://www.youtube.com/channel/UCGOCeqMJnLvr-5C-ypUw7IQ) - 提示，技巧和教程，主要转移到实时流.
 * [JuanMTech](https://www.youtube.com/juanmtech) - 易于关注的操作视频，产品评论等.
-* [vCloudInfo](https://www.youtube.com/vCloudInfo) - Publishes videos based on his home and GitHub repository.
+* [vCloudInfo](https://www.youtube.com/vCloudInfo) - 根据他的家和GitHub存储库发布视频.
 * [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) - 关于硬件项目和Tasmota自动化的教程.
 * [Sognare](https://www.youtube.com/channel/UC3sknm_GUCDESM7EmVvkgzg)   - 住在船上！  教程，讨论和访谈.
 * [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) - 教程和评论：相机，家庭网络，ESP8266板，Node-RED.
@@ -326,7 +329,7 @@ _Valuable链接，不适合上述任何类别（还有！）.
 * [Home Assistant Companion](https://itunes.apple.com/us/app/home-assistant-open-source-home-automation/id1099568401?mt=8) -  iPhone / iPad / iOS App远程控制和监控您的家庭.
 * [Mi Flora via MQTT daemon](https://github.com/ThomDietrich/miflora-mqtt-daemon) - 通过MQTT收集和传输小米米弗洛拉工厂传感器数据.
 * [hassctl](https://github.com/dale3h/hassctl) - 简单的命令行实用程序，可帮助调试配置.
-* [rhasspy](https://github.com/synesthesiam/rhasspy-assistant) - 开发自定义语音助理的工具包.
+* [rhasspy](https://github.com/synesthesiam/rhasspy) - 开发自定义语音助理的工具包.
 * [Fully Kiosk Browser](https://www.ozerov.de/fully-kiosk-browser/) - 高度可配置的Android Kiosk浏览器和应用启动器.
 * [Hassio Vagrant](https://github.com/hassio-addons/hassio-vagrant) - 为开发附加组件而创建的Vagrant box原创.
 * [AppDaemon](https://github.com/home-assistant/appdaemon) -  Home Assistant的Python应用程序.
@@ -388,7 +391,7 @@ interwebs._
  各自所有者的财产.  所有公司，产品和服务名称
 此列表中使用的仅用于识别目的.
 
-Use of these names, logos, trademarks, and brands does not imply endorsement.
+使用这些名称，徽标，商标和品牌并不意味着认可.
 
 ## License
 

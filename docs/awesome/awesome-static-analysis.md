@@ -287,7 +287,7 @@
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 一组使用图论的静态分析和重构工具
 * [parallel-lint](https://github.com/JakubOnderka/PHP-Parallel-Lint) - 此工具检查PHP文件的语法比使用更高级别的输出进行串行检查更快.
 * [Parse](https://github.com/psecio/parse) - 静态安全扫描程序
-* [pdepend](https://pdepend.org/) - Calculates software metrics like cyclomatic complexity for PHP code.
+* [pdepend](https://pdepend.org/) - 计算软件指标，如PHP代码的圈复杂度.
 * [phan](https://github.com/etsy/phan) - 来自etsy的现代静态分析仪
 * [PHP Assumptions](https://github.com/rskuipers/php-assumptions) - 检查弱假设
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) - 根据PSR-1，PSR-2和Symfony标准等标准修复代码.
@@ -384,7 +384,7 @@
 * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) -  Ruby的静态代码分析
 * [rubycritic](https://github.com/whitesmith/rubycritic) -  Ruby代码质量记者
 * [SandiMeter](https://github.com/makaroni4/sandi_meter) - 用于检查Sandi Metz规则的Ruby代码的静态分析工具.
-* [Sorbet](https://github.com/sorbet/sorbet) - 为Ruby设计的快速，强大的类型检查器
+* [Sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
 
 ## Rust
 
@@ -475,12 +475,12 @@
 * [Pronto](https://github.com/prontolabs/pronto)   - 对您的更改进行快速自动代码审查.  支持40多种不同语言的跑步者，包括Clang，Elixir，JavaSCript，PHP，Ruby等
 * [pre-commit](https://github.com/pre-commit/pre-commit) - 用于管理和维护多语言预提交挂钩的框架.
 * [PT.PM](https://github.com/PositiveTechnologies/PT.PM) - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
-* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：copyright： -  a（[conditionally free](https://www.viva64.com/en/b/0457/) for FOSS) static analysis of C/C++ and C# code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list).
+* [PVS-Studio](https://www.viva64.com/en/pvs-studio/) ：copyright： -  a（[conditionally free](https://www.viva64.com/en/b/0457/) for FOSS) static analysis of C/C++, C#, and Java code. For advertising purposes [you can propose a large FOSS project for analysis by PVS employees](https://github.com/viva64/pvs-studio-check-list).
 * [Reviewdog](https://github.com/haya14busa/reviewdog) - 用于在任何代码托管服务中发布任何linter的评论评论的工具.
 * [Security Code Scan](https://security-code-scan.github.io/) - Security code analyzer for C# and VB.NET. Detects various security vulnerability patterns: SQLi, XSS, CSRF, XXE, Open Redirect, etc.
 * [Semmle QL and LGTM](https://semmle.com/)  ：copyright： - 使用源代码查询查找安全漏洞，变体和关键代码质量问题.  自动PR代码审查;  免费为公众GitHub / Bitbucket回购： [LGTM.com](https://LGTM.com).
 * [shipshape](https://github.com/google/shipshape) - 静态程序分析平台，允许自定义分析仪通过通用接口插入
-* [SonarQube](http://www.sonarqube.org/) -  SonarQube是一个管理代码质量的开放平台.
+* [SonarQube](http://www.sonarqube.org/) - SonarQube is an open platform to manage code quality.
 * [STOKE](https://github.com/StanfordPL/stoke)   - 用于x86_64指令集的编程语言无关的随机优化器.  它使用随机搜索来探索所有可能的程序转换的极高维度空间
 * [Synopsys](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - A commercial static analysis platform that allows for scanning of multiple languages (C/C++, Android, C#, Java, JS, PHP, Python, Node.JS, Ruby, Fortran, and Swift)
 * [TscanCode](https://github.com/Tencent/TscanCode) - A fast and accurate static analysis solution for C/C++, C#, Lua codes provided by Tencent. Using GPLv3 license.
@@ -510,7 +510,7 @@
 * [anchore](https://anchore.io/) - 发现，分析和认证容器图像
 * [clair](https://github.com/coreos/clair) - 容器的漏洞静态分析
 * [collector](https://github.com/banyanops/collector) - 在容器内运行任意脚本，并收集有用的信息
-* [dagda](https://github.com/eliasgranderubio/dagda) - Perform static analysis of known vulnerabilities in docker images/containers.
+* [dagda](https://github.com/eliasgranderubio/dagda) - 对docker映像/容器中的已知漏洞执行静态分析.
 * [Docker Label Inspector](https://github.com/garethr/docker-label-inspector) -  Lint并验证Dockerfile标签
 * [Haskell Dockerfile Linter](https://github.com/lukasmartinelli/hadolint) - 更智能的Dockerfile linter，帮助您构建最佳实践Docker镜像
 * [kube-score](https://github.com/zegl/kube-score) -  Kubernetes对象定义的静态代码分析.
@@ -579,7 +579,7 @@
 ## Markdown
 
 * [markdownlint](https://github.com/DavidAnson/markdownlint) - 用于Markdown / CommonMark文件的基于Node.js的样式检查器和lint工具.
-* [mdl](https://github.com/mivok/markdownlint) - A tool to check Markdown files and flag style issues.
+* [mdl](https://github.com/mivok/markdownlint) - 检查Markdown文件和标记样式问题的工具.
 
 ## Mobile
 

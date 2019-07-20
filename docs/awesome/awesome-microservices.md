@@ -13,7 +13,7 @@
 - [Deis](http://deis.io/) - 公共云和私有云的开源应用程序平台.
 - [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
 - [Hook.io](https://hook.io) - 微服务和webhook托管的开源提供商.
--  [KintoHub！[c]]（https://www.kintohub.com） - 微服务包管理器使开发人员能够轻松构建和共享云就绪功能.
+- [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
 -  [Lightbend！[c]]（https://www.lightbend.com/） - 用于在JVM上构建可扩展的反应系统的平台.
 - [Mantl](https://github.com/mantl/mantl) - 快速部署全球分布式服务的平台.
 - [Netflix OSS](https://netflix.github.io/) -  Netflix开源软件生态系统.
@@ -155,7 +155,7 @@
 - [Ja-micro](https://github.com/Sixt/ja-micro) - 用于构建微服务的轻量级Java框架（与go-micro兼容）.
 - [Jersey](https://jersey.github.io/)   -  Java中的RESTful服务.  JAX-RS参考实现.
 - [Micronaut](http://micronaut.io/) - 基于JVM的现代化全堆栈框架，用于构建模块化，易于测试的微服务应用程序.
-- [MSF4J](https://github.com/wso2/msf4j) - 高吞吐量和低内存占用Java微服务框架.
+- [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
 - [QBit](https://github.com/advantageous/qbit) - 用于构建微服务的反应式编程库.
 - [Ratpack](https://ratpack.io/)   - 一组Java库，可以实现快速，高效，可演化和经过良好测试的HTTP应用程序.  提供了对Groovy语言的特定支持.
 - [Restlet](http://restlet.com/) - 帮助Java开发人员构建遵循REST架构风格的Web API.
@@ -184,7 +184,7 @@
 - [Cote](https://github.com/dashersw/cote) - 用于构建零配置微服务的Node.js库.
 - [Express](http://expressjs.com/) -  Node.js的快速，无偏见，极简主义的Web框架
 - [FeathersJS](http://feathersjs.com/) - 适用于现代应用程序的开源REST和实时API层.
-- [Graft](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
+- [Graft](https://github.com/GraftJS/graft) - 通过微服务的全栈javascript.
 - [Hapi](http://hapijs.com/) - 用于构建应用程序和服务的丰富框架.
 - [Hudson Taylor](https://github.com/hudson-taylor/hudson-taylor) - 用于构建自动记录的，经过良好验证的服务的库集.
 - [Koa](http://koajs.com/) -  Node.js的下一代Web框架
@@ -239,6 +239,10 @@
 - [Scorched](https://github.com/wardrop/Scorched) -  Ruby的轻量级Web框架.
 - [Sinatra](http://www.sinatrarb.com/) -  Sinatra是一款DSL，可以轻松快速地在Ruby中创建Web应用程序.
 
+## Frontend
+
+- [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - 关于Micro Frontends的精选资源列表.
+
 ## Capabilities
 
 ### API Gateways / Edge Services
@@ -290,7 +294,7 @@
 
 -  [AWS Step Functions！[c]]（https://aws.amazon.com/step-functions/） - 使用可视化工作流协调分布式应用程序和微服务的组件.
 -  [Azuqua！[c]]（https://azuqua.com/） - 分布式应用程序的编排和治理平台.
-- [Conductor](https://github.com/Netflix/conductor) - A microservices orchestration engine.
+- [Conductor](https://github.com/Netflix/conductor) - 微服务编排引擎.
 - [Fission Workflows](https://github.com/fission/fission-workflows) - 基于工作流程的可靠功能组合，适用于无服务器功能.
 
 ### Elasticity
@@ -339,7 +343,7 @@
 - [Eventuate](http://eventuate.io/) - 开发异步微服务的平台，解决分布式数据管理问题.
 - [Kafka](http://kafka.apache.org/) - 作为分布式提交日志重新考虑发布 - 订阅消息传递.
 - [Malamute](https://github.com/zeromq/malamute) -  ZeroMQ企业消息代理.
-- [Mist](https://github.com/nanopack/mist) - 基于标签的分布式发布/订阅服务.
+- [Mist](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
 - [Mosca](http://www.mosca.io/) -  MQTT代理作为模块.
 - [Mosquitto](http://mosquitto.org/) - 实现MQTT协议的开源消息代理.
 - [Nanomsg](http://nanomsg.org/) - 套接字库，提供几种用于构建分布式系统的通用通信模式.
@@ -450,7 +454,7 @@
 - [Parquet](https://parquet.apache.org/) - 无论选择何种数据处理框架，数据模型或编程语言，Hadoop生态系统中的任何项目都可使用列式存储格式.
 - [Reborn](https://github.com/reborndb/reborn) - 分布式数据库与redis协议完全兼容.
 - [RethinkDB](http://rethinkdb.com/) - 开源，可扩展的数据库，使构建实时应用程序更容易.
-- [Secure Scuttlebutt](https://github.com/ssbc/docs) - P2P database of message-feeds.
+- [Secure Scuttlebutt](https://github.com/ssbc/docs) - 消息馈送的P2P数据库.
 - [Tachyon](http://tachyon-project.org/) - 以内存为中心的分布式存储系统，可跨群集框架以内存速度实现可靠的数据共享.
 - [Voldemort](https://github.com/voldemort/voldemort) -  Amazon DynamoDB的开源克隆
 -  [VoltDB！[c]]（https://www.voltdb.com/） - 符合内存ACID的分布式数据库.
