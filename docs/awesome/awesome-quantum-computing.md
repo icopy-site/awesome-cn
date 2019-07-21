@@ -19,6 +19,7 @@
 - [CNOT](https://cnot.io/) - 易于理解，逐步介绍量子计算概念.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -  Rigetti Computing的SDK教程.
 - [Documentation for Strawberry Fields](https://strawberryfields.readthedocs.io/en/latest/) - 关于量子计算的光子连续变量方法的背景信息，以及Xanadu SDK的教程.
+- [D-Wave Leap](https://www.dwavesys.com/take-leap) - 演示和教育资源以及访问D-Wave的量子计算机.
 - [IBM Q Full User Guide](https://quantumexperience.ng.bluemix.net/qx/tutorial?sectionId=full-user-guide&page=introduction) - 简短的教程，提供量子计算和IBM Q的温和介绍.
 - [John Preskill's Notes on Quantum Computation](http://www.theory.caltech.edu/~preskill/ph219/index.html#lecture) -  John Preskill撰写的加州理工学院量子计算课程物理219 /计算机科学219的注释.
 - [Nielsen and Chuang](https://workedproblems.wordpress.com/category/nielsenchuang/) - 关于量子算法问题的工作实例.
@@ -46,14 +47,15 @@
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+- [Cirq](https://github.com/quantumlib/Cirq) - 用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - 在线量子作曲家在真实量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
+- [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -  D-Wave用于使用Python在量子计算机上进行开发的SDK.
 - [Project Q](http://projectq.ch/) - 在Python中实现量子计算的框架.
-- [pyQuil](https://github.com/rigetticomputing/pyquil) - 使用Quil进行量子编程的Python库.
+- [pyQuil](https://github.com/rigetticomputing/pyquil) - 使用Quil by Rigetti进行量子编程的Python库.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)   - 用于量子计算机的旧式C语言.  只有一个模拟器和调试器.
-- [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) - 用于使用OpenQASM和IBM Q Experience的软件开发工具包.
-- [Qiskit.js](https://github.com/QISKit/qiskit-js) - 用于JavaScript的Qiskit.
+- [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) -  IBM的软件开发工具包，用于处理OpenQASM和IBM Q Experience.
+- [Qiskit.js](https://github.com/QISKit/qiskit-js) -  IBM制作的JavaScript的Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) - 高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - 基于Web的量子编程IDE和模拟器.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - 用于量子计算的嵌入式，可扩展的函数式编程语言.
@@ -83,7 +85,7 @@
 
 ## Papers
 
-- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - 近期量子计算机中量子辅助机器学习的机遇和挑战.
+- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - 量子机器学习和量子计算对数据挖掘意味着什么.
 
 ## Videos

@@ -307,7 +307,7 @@ const fn = overArgs（（x，y）=&gt; [x，y]，[square，double]）;
 
 为异步函数执行从左到右的函数组合.
 
-使用`Array.prototype.reduce（）`和spread运算符（```）使用`Promise.then（）`执行从左到右的函数组合.
+Use `Array.prototype.reduce()` with the spread operator (`...`) to perform left-to-right function composition using `Promise.then()`.
 这些函数可以返回以下组合：简单值，“Promise”，或者它们可以定义为通过`await`返回的`async`.
 所有功能必须是一元的.
 
@@ -326,7 +326,7 @@ const sum = pipeAsyncFunctions（
   async x =&gt;（等待x）+ 4
 );
 （async（）=&gt; {
-   console.log（等待sum（5））;  // 15（一秒钟后）
+  console.log(await sum(5)); // 15 (after one second)
 })();
 ```
 
@@ -786,7 +786,7 @@ const drop =（arr，n = 1）=&gt; arr.slice（n）;
 
 ```js
  掉落（[1,2,3]）;  // [2,3]
- 掉落（[1,2,3]，2）;  // [3]
+drop([1, 2, 3], 2); // [3]
  掉落（[1,2,3]，42）;  // []
 ```
 
@@ -1460,7 +1460,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]）;  //&#39;abc&#39;
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]，&#39;abcd&#39;）;  // &#39;A B C D&#39;
  longestItem（[1,2,3]，[1,2]，[1,2,3,4,5]）;  // [1,2,3,4,5]
-longestItem([1, 2, 3], 'foobar'); // 'foobar'
+ longestItem（[1,2,3]，&#39;foobar&#39;）;  //&#39;foobar&#39;
 ```
 
 </details>
@@ -1516,7 +1516,7 @@ const maxN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; b  -  a）
 ### minN
 
 从提供的数组中返回`n`最小元素.
-如果`n`大于或等于提供的数组长度，则返回原始数组（按升序排序）.
+If `n` is greater than or equal to the provided array's length, then return the original array (sorted in ascending order).
 
 使用`Array.prototype.sort（）`结合扩展运算符（`...`）来创建数组的浅层克隆并按升序对其进行排序.
 使用`Array.prototype.slice（）`来获取指定数量的元素.
@@ -1975,7 +1975,7 @@ const sampleSize =（[... arr]，n = 1）=&gt; {
 
 具有相同的功能 [`Array.prototype.splice()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice)，但返回一个新数组而不是改变原始数组.
 
-在删除现有元素和/或添加新元素后，使用`Array.prototype.slice（）`和`Array.prototype.concat（）`获取包含新内容的新数组.
+Use `Array.prototype.slice()` and `Array.prototype.concat()` to get a new array with the new contents after removing existing elements and/or adding new elements.
 省略第二个参数`index`，从&#39;0&#39;开始.
 省略第三个参数`delCount`，删除`0`元素.
 省略第四个参数`elements`，以便不添加任何新元素.
@@ -1985,7 +1985,7 @@ const shank =（arr，index = 0，delCount = 0，... elements）=&gt;
   ARR
     .slice（0，index）
     .concat（元素）
-    .concat(arr.slice(index + delCount));
+    .concat（arr.slice（index + delCount））;
 ```
 
 <details>
@@ -2435,7 +2435,7 @@ const union =（a，b）=&gt; Array.from（new Set（[... a，... b]））;
 ```js
 const unionBy =（a，b，fn）=&gt; {
   const s = new Set（a.map（fn））;
-  return Array.from(new Set([...a, ...b.filter(x => !s.has(fn(x)))]));
+  return Array.from（new Set（[... a，... b.filter（x =&gt;！s.has（fn（x）））]））;
 };
 ```
 
@@ -2940,7 +2940,7 @@ const createEventHub =（）=&gt;（{
   },
   on（event，handler）{
     if（！this.hub [event]）this.hub [event] = [];
-    this.hub [事件] .push（处理程序）;
+    this.hub[event].push(handler);
   },
   off（事件，处理程序）{
     const i =（this.hub [event] || []）.findIndex（h =&gt; h === handler）;
@@ -3075,7 +3075,7 @@ const elementIsVisibleInViewport =（el，partiallyVisible = false）=&gt; {
 将一组表单元素编码为“对象”.
 
 使用`FormData`构造函数将HTML`form`转换为`FormData`，`Array.from（）`转换为数组.
-Collect the object from the array, using `Array.prototype.reduce()`.
+使用`Array.prototype.reduce（）`从数组中收集对象.
 
 ```js
 const formToObject = form =&gt;
@@ -3612,7 +3612,7 @@ let outsideVariable = 50;
 平滑滚动到页面顶部.
 
 使用`document.documentElement.scrollTop`或`document.body.scrollTop`与顶部保持距离.
-Scroll by a fraction of the distance from the top. Use `window.requestAnimationFrame()` to animate the scrolling.
+ 滚动距离顶部一小部分距离.  使用`window.requestAnimationFrame（）`来动画滚动.
 
 ```js
 const scrollToTop =（）=&gt; {
@@ -3705,7 +3705,7 @@ const show =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#3
 将`{behavior：&#39;smooth&#39;}`传递给`.scrollIntoView`，使其顺畅滚动.
 
 ```js
-const smoothScroll = element =&gt;
+const smoothScroll = element =>
   document.querySelector（元件）.scrollIntoView（{
     行为：&#39;顺畅&#39;
   });
@@ -3989,11 +3989,11 @@ const isSameDate =（dateA，dateB）=&gt; dateA.toISOString（）=== dateB.toIS
 导致特定日期的布尔表示.
 
 首先传递特定日期对象.
-使用`Date.getDay（）`检查工作日然后返回一个布尔值.
+使用`Date.getDay（）`通过使用模运算符然后返回布尔值来检查工作日.
 
 ```js
 const isWeekday =（t = new Date（））=&gt; {
-  return t.getDay（）&gt; = 1 &amp;&amp; t.getDay（）&lt;= 5;
+  return t.getDay（）％6！== 0;
 };
 ```
 
@@ -4012,11 +4012,11 @@ const isWeekday =（t = new Date（））=&gt; {
 导致特定日期的布尔表示.
 
 首先传递特定日期对象.
-使用`Date.getDay（）`来检查周末然后返回一个布尔值.
+使用`Date.getDay（）`根据返回的日期检查周末为0  -  6，使用模运算然后返回一个布尔值.
 
 ```js
 const isWeekend =（t = new Date（））=&gt; {
-   return t.getDay（）=== 0 ||  t.getDay（）=== 6;
+  return t.getDay（）％6 === 0;
 };
 ```
 
@@ -4275,6 +4275,8 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 <summary>Examples</summary>
 
 ```js
+
+
 
 
 
@@ -5201,7 +5203,7 @@ const gcd =（... arr）=&gt; {
 ### geometricProgression
 
 初始化一个数组，其中包含指定范围内的数字，其中`start`和`end`是包含的，两个术语之间的比率是`step`.
-Returns an error if `step` equals `1`.
+如果`step`等于`1`，则返回错误.
 
 使用`Array.from（）`，`Math.log（）`和`Math.floor（）`来创建一个所需长度的数组，`Array.prototype.map（）`来填充所需的值.范围.
 省略第二个参数`start`，使用默认值`1`.
@@ -5219,7 +5221,7 @@ const geometricProgression =（end，start = 1，step = 2）=&gt;
 
 ```js
  geometricProgression（256）;  // [1,2,4,8,16,32,64,128,256]
- geometricProgression（256,3）;  // [3,6,12,24,48,96,192]
+geometricProgression(256, 3); // [3, 6, 12, 24, 48, 96, 192]
  geometricProgression（256,1,4）;  // [1,4,16,64,256]
 ```
 
@@ -5738,7 +5740,7 @@ const sdbm = str =&gt; {
 
 ```js
 const standardDeviation =（arr，usePopulation = false）=&gt; {
-  const mean = arr.reduce((acc, val) => acc + val, 0) / arr.length;
+  const mean = arr.reduce（（acc，val）=&gt; acc + val，0）/ arr.length;
   返回Math.sqrt（
     arr.reduce（（acc，val）=&gt; acc.concat（（val  -  mean）** 2），[]）.reduce（（acc，val）=&gt; acc + val，0）/
       （arr.length  - （usePopulation？0：1））
@@ -6342,7 +6344,7 @@ const a = {foo：&#39;bar&#39;，obj：{a：1，b：2}};
 
 ### deepFreeze
 
-深度冻结一个物体.
+Deep freezes an object.
 
 在`instanceof`对象的传递对象的所有未冻结属性上递归调用`Object.freeze（obj）`.
 
@@ -6562,7 +6564,7 @@ findKey(
   {
     巴尼：{年龄：36岁，活跃：真}，
     fred：{年龄：40岁，活跃：假}，
-    pebbles: { age: 1, active: true }
+    鹅卵石：{年龄：1，活跃：真}
   },
   o =&gt; o [&#39;有效&#39;]
  ）;  //&#39;barney&#39;
@@ -6577,7 +6579,7 @@ findKey(
 否则返回`undefined`.
 
 使用`Object.keys（obj）`获取对象的所有属性，`Array.prototype.reverse（）`来反转它们的顺序，使用`Array.prototype.find（）`来测试每个键提供的函数 - 价值对.
-The callback receives three arguments - the value, the key and the object.
+回调接收三个参数 - 值，键和对象.
 
 ```js
 const findLastKey =（obj，fn）=&gt;
@@ -6594,7 +6596,7 @@ findLastKey(
   {
     巴尼：{年龄：36岁，活跃：真}，
     fred：{年龄：40岁，活跃：假}，
-    pebbles: { age: 1, active: true }
+    鹅卵石：{年龄：1，活跃：真}
   },
   o =&gt; o [&#39;有效&#39;]
  ）;  //&#39;鹅卵石&#39;
@@ -6702,7 +6704,7 @@ function Foo() {
   this.b =（）=&gt; 2;
 }
 Foo.prototype.c =（）=&gt; 3;
-functions(new Foo()); // ['a', 'b']
+ 函数（new Foo（））;  // [&#39;a&#39;，&#39;b&#39;]
  函数（new Foo（），true）;  // [&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]
 ```
 
@@ -6717,7 +6719,7 @@ functions(new Foo()); // ['a', 'b']
 
 ```js
 const get =（from，... selectors）=&gt;
-  [...选择器] .map（s =&gt;
+  [...selectors].map(s =>
     小号
       .replace（/ [[（[^ \ [\]] *）\] / g，&#39;.$ 1.&#39;）
       .分裂（&#39;.&#39;）
@@ -7339,7 +7341,7 @@ const byteSize = str =&gt; new Blob（[str]）.size;
 
 ```js
 const capitalize =（[first，... rest]，lowerRest = false）=&gt;
-  first.toUpperCase（）+（lowerRest？rest.join（&#39;&#39;）.toLowerCase（）：rest.join（&#39;&#39;））;
+  first.toUpperCase() + (lowerRest ? rest.join('').toLowerCase() : rest.join(''));
 ```
 
 <details>
@@ -7781,7 +7783,7 @@ const palindrome = str =&gt; {
 
 ```js
 const pluralize =（val，word，plural = word +&#39;s&#39;）=&gt; {
-  const _pluralize = (num, word, plural = word + 's') =>
+  const _pluralize =（num，word，plural = word +&#39;s&#39;）=&gt;
      [1，-1] .includes（Number（num））？  单词：复数;
   if（typeof val ===&#39;object&#39;）return（num，word）=&gt; _pluralize（num，word，val [word]）;
   return _pluralize（val，word，plural）;
@@ -7853,7 +7855,7 @@ const reverseString = str =&gt; [... str] .reverse（）.join（&#39;&#39;）;
 
 按字母顺序对字符串中的字符进行排序.
 
-使用扩展运算符（`...`），`Array.prototype.sort（）`和`String.localeCompare（）`来排序`str`中的字符，使用`String.prototype.join（&#39;&#39;）重新组合`.
+Use the spread operator (`...`), `Array.prototype.sort()` and  `String.localeCompare()` to sort the characters in `str`, recombine using `String.prototype.join('')`.
 
 ```js
 const sortCharactersInString = str =&gt; [... str] .sort（（a，b）=&gt; a.localeCompare（b））.join（&#39;&#39;）;
@@ -8173,7 +8175,7 @@ const words =（str，pattern = / [^ a-zA-Z  - ] + /）=&gt; str.split（pattern
 
 ```js
 const getType = v =&gt;
-  v === undefined ? 'undefined' : v === null ? 'null' : v.constructor.name.toLowerCase();
+   v === undefined？  &#39;undefined&#39;：v === null？  &#39;null&#39;：v.constructor.name.toLowerCase（）;
 ```
 
 <details>
@@ -8472,7 +8474,7 @@ const isPrimitive = val =&gt; Object（val）！== val;
 
 如果对象看起来像是，则返回“true” [`Promise`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)，`false`否则.
 
-检查对象是否不是“null”，它的`typeof`匹配`object`或`function`，如果它有`.then`属性，它也是``function`.
+Check if the object is not `null`, its `typeof` matches either `object` or `function` and if it has a `.then` property, which is also a `function`.
 
 ```js
 const isPromiseLike = obj =&gt;
@@ -8627,7 +8629,7 @@ const cloneRegExp = regExp =&gt; new RegExp（regExp.source，regExp.flags）;
 
 ```js
 正则表达式=常数/ Lorem存有/ GI;
- regExp2 =常数cloneRegExp（正则表达式）;  // / Lorem存有/ GI
+const regExp2 = cloneRegExp(regExp); // /lorem ipsum/gi
 ```
 
 </details>
@@ -8867,7 +8869,7 @@ httpPost(
 
 ### isBrowser
 
-Determines if the current runtime environment is a browser so that front-end modules can run on the server (Node) without throwing errors.
+确定当前运行时环境是否为浏览器，以便前端模块可以在服务器（节点）上运行而不会抛出错误.
 
 对`window`和`document`的`typeof`值使用`Array.prototype.includes（）`（通常只在浏览器环境中可用的全局变量，除非它们是明确定义的），如果其中一个，则返回`true`他们是&#39;未定义&#39;.
 `typeof`允许检查全局变量是否存在而不抛出`ReferenceError`.
@@ -9145,7 +9147,7 @@ const toDecimalMark = num =&gt; num.toLocaleString（&#39;en-US&#39;）;
 
 为数字添加序数后缀.
 
-Use the modulo operator (`%`) to find values of single and tens digits.
+使用模运算符（`％`）查找单个和十位数的值.
 找出哪些序数模式数字匹配.
 如果在青少年模式中找到数字，请使用青少年序数.
 
@@ -9213,7 +9215,7 @@ const yesNo =（val，def = false）=&gt;
  YESNO（ &#39;Y&#39;）;  //真
  YESNO（ &#39;是&#39;）;  //真
  YESNO（ &#39;否&#39;）;  //假
-yesNo('Foo', true); // true
+ yesNo（&#39;Foo&#39;，true）;  //真
 ```
 
 </details>

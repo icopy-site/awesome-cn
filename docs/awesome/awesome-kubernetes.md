@@ -119,14 +119,14 @@ Installers
 * [matchbox](https://github.com/coreos/matchbox) -  CoreOS  - 网络启动和提供容器Linux集群（例如etcd3，Kubernetes，更多）.
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) - 安装在42种Linux上的单个k8包
-* [Minikube](https://github.com/kubernetes/minikube) - 在当地运行Kubernetes
+* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [RKE](https://github.com/rancher/rke) - 不可知的骨头 - 不可知云
 * [sealos](https://github.com/fanux/sealos) -  HA安装程序的简单安装程序
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd`操作系统 - 不可知云
 * [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
 * [Typhoon](https://typhoon.psdn.io/) -  Linux容器 - 云不可知
-
+* [aks-engine](https://github.com/Azure/aks-engine) -  AKS Engine是在Azure上配置自我管理的Kubernetes集群的最简单方法.
 
 
 主要资源
@@ -249,7 +249,6 @@ Installers
 * [Fleet Unit Files for Kubernetes on CoreOS](http://blog.michaelhamrah.com/2015/06/fleet-unit-files-for-kubernetes-on-coreos/) 通过 [Michael Hamrah](https://twitter.com/mhamrah)
 * [Kubernetes Container Orchestration through Java APIs](http://keithtenzer.com/2015/05/04/kubernetes-container-orchestration-through-java-apis/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 * [Docker Clustering Tools Compared: Kubernetes vs Docker Swarm](http://technologyconversations.com/2015/11/04/docker-clustering-tools-compared-kubernetes-vs-docker-swarm/)
-* [Why Docker and Google Kubernetes Are Like PaaS Done Right](http://www.sdxcentral.com/articles/news/why-docker-and-google-kubernetes-are-like-paas-done-right/2015/08/)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
 * [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
@@ -297,6 +296,7 @@ Installers
   - [NetApp Kubernetes Service](https://cloud.netapp.com/kubernetes-service)
   - [OpenShift - Container Platform](http://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](http://www.suse.com/betaprogram/caasp-beta/)
+  - [WorldSibu-Forma](https://worldsibu.tech/forma/) - 使用Kubernetes的多云远程区块链Infrastructure Orchestrator
 
 
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -  Kubernetes的阿里巴巴云容器服务
@@ -500,6 +500,8 @@ Projects
 * [The Elastic Stack](https://www.elastic.co/docker-kubernetes-container-monitoring) - 用于监控和可视化K8指标，日志，应用程序跟踪等的开源解决方案.
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - 简单的服务，侦听Kubernetes API服务器并生成有关对象状态的指标.
+* [loki](https://github.com/grafana/loki) -  Loki是一个水平可扩展，高可用性，多租户的日志聚合系统，灵感来自Prometheus.
+* [Loghouse](https://github.com/flant/loghouse) - 有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言处理它们并通过Web UI在线监视它们.
 
 ## Testing
 
@@ -531,6 +533,7 @@ Projects
 * [Jenkins X](http://jenkins-x.io/) - 针对Kubernetes的自动CI / CD，使用GITOps促销和预览环境，使用最佳OSS工具，如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow
 * [Apollo](https://github.com/logzio/apollo) - 开源应用程序，为团队提供自助服务UI，以便为Kubernetes创建和部署服务.
 * [Argo CD](https://github.com/argoproj/argo-cd) -  Kubernetes的声明式持续部署.
+* [autoapply](https://github.com/autoapply/autoapply) - 自动将更改从Git存储库应用到Kubernetes集群
 * [Buildkite](https://github.com/buildkite/charts) - 精益CI / CD云托管控制平面与您的基础架构上的代理.
 * [Codefresh](https://codefresh.io/) -  Kubernetes CI / CD平台（带有私有Docker和Helm Chart存储库）
 * [GitLab](http://blog.lwolf.org/post/how-to-easily-deploy-gitlab-on-kubernetes/)
@@ -547,6 +550,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
+* [Werf](https://github.com/flant/werf) -  Werf简化了构建脚本的开发，减少了提交构建时间并自动部署.
 
 ## Serverless Implementations
 
@@ -587,11 +591,13 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - 使用StatefulSets和管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
+* [Addon-operator](https://github.com/flant/addon-operator) - 向helm图表添加钩子和值，以增强helm的功能并将图表转换为智能模块，这些模块可自行配置并响应群集中的更改.
+* [Shell-operator](https://github.com/flant/shell-operator) - 用于在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
 
 * [bashScheduler](https://github.com/rothgar/bashScheduler) - 用bash写
-* [escheduler](https://github.com/agonzalezro/escheduler) - Written in elixir
+* [escheduler](https://github.com/agonzalezro/escheduler) - 写在长生不老药
 * [firmament](https://github.com/camsas/firmament)
 * [ksched](https://github.com/coreos/ksched) - 基于实验流程的调度程序
 * [Scheduler](https://github.com/kelseyhightower/scheduler) - 基于成本的调度程序
@@ -728,6 +734,7 @@ Projects
 * [Nulecule](https://github.com/projectatomic/nulecule)
 * [Psykube](https://github.com/commercialtribe/psykube)
 * [Skaffold](https://github.com/GoogleCloudPlatform/skaffold) - 命令行工具，有助于Kubernetes应用程序的持续开发.
+* [kubedog](https://github.com/flant/kubedog) -  Kubedog是一个库和cli实用程序，允许在CI / CD部署管道中观察和跟踪kubernetes资源.
 
 ## Configuration
 
@@ -757,8 +764,8 @@ Projects
 * [Authenticator](https://github.com/heptio/authenticator) - 使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - 广泛采用统一Kubernetes网络政策和Istio应用政策的开源实施.
 * [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
-* [Guard](https://github.com/appscode/guard) -  Authenticaton webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供商.
-* [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
+* [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
+* [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - 寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - 帮助构建自适应和细粒度的pod安全策略.
@@ -800,7 +807,7 @@ Projects
 ## Machine Learning
 
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
-* [kubeflow](https://github.com/google/kubeflow) - Machine Learning Toolkit for Kubernetes.
+* [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重复的机器学习和对kubernetes的深度学习
@@ -826,7 +833,7 @@ Projects
 
 * [kompose](https://github.com/kubernetes/kompose)
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
-* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) - Generic library of Kubernetes objects for Jsonnet/Kubecfg with object to array mapping for painless overrides.
+* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) -  Jsonnet / Kubecfg的Kubernetes对象的通用库，其中包含用于无痛覆盖的数组映射的对象.
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kubeval](https://github.com/garethr/kubeval)
 
@@ -846,6 +853,8 @@ Projects
 * [burry.sh](https://github.com/mhausenblas/burry.sh) - 针对etcd，zookeeper和consul的Cloud Native备份和恢复
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
+## Policy Management
+* [Kyverno](https://github.com/nirmata/kyverno) -  Kubernetes原生政策管理
 
 ## Plugins
 

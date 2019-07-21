@@ -30,7 +30,7 @@
 - [Erlang/OTP](https://github.com/erlang/otp) - 用于构建具有高可用性要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) - 用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -  Flogo是一个开源框架，用于简化构建高效和现代无服务器功能和边缘微服务.
-- [GPars](https://github.com/GPars/GPars) -  JVM的并发和并行框架.
+- [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
 - [Grenache](https://github.com/bitfinexcom/grenache) - 基于Bittorent-DHT的微服务框架，支持多个传输上的REQ / REP和PUB / SUB模式.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) -  JVM的反应性微服务.
@@ -122,7 +122,7 @@
 - [Nano](https://github.com/pasztorpisti/nano) - 简约的，与传输无关且对测试友好的微服务框架.
 - [Negroni](https://github.com/codegangsta/negroni) -  Golang的惯用HTTP中间件.
 - [Neutrino](https://github.com/neutrinoapp/neutrino) - 实时/ REST后端服务.
-- [RPCX](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
+- [RPCX](https://github.com/smallnest/rpcx) - 基于.NET / RPC的分布式RPC服务框架，如阿里巴巴Dubbo和微博莫坦.
 - [Sleepy](https://github.com/dougblack/sleepy) -  REST for go.
 - [Vamp-router](https://github.com/magneticio/vamp-router) - 服务路由，负载平衡和过滤应用程序.
 
@@ -163,6 +163,8 @@
 - [Spring Boot](http://projects.spring.io/spring-boot/) - 使创建独立的，生产级的基于Spring的应用程序变得容易.
 
 #### Kotlin
+
+- [Http4k](https://www.http4k.org/) - 使用纯Kotlin编写的轻量级但功能齐全的HTTP工具包，可以以功能和一致的方式提供和服务HTTP服务.
 - [Ktor](https://ktor.io/) - 使用Kotlin编程语言在连接系统中构建异步服务器和客户端的框架.
 
 #### Scala
@@ -239,7 +241,7 @@
 - [Scorched](https://github.com/wardrop/Scorched) -  Ruby的轻量级Web框架.
 - [Sinatra](http://www.sinatrarb.com/) -  Sinatra是一款DSL，可以轻松快速地在Ruby中创建Web应用程序.
 
-## Frontend
+## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - 关于Micro Frontends的精选资源列表.
 
@@ -343,7 +345,7 @@
 - [Eventuate](http://eventuate.io/) - 开发异步微服务的平台，解决分布式数据管理问题.
 - [Kafka](http://kafka.apache.org/) - 作为分布式提交日志重新考虑发布 - 订阅消息传递.
 - [Malamute](https://github.com/zeromq/malamute) -  ZeroMQ企业消息代理.
-- [Mist](https://github.com/nanopack/mist) - A distributed, tag-based pub/sub service.
+- [Mist](https://github.com/nanopack/mist) - 基于标签的分布式发布/订阅服务.
 - [Mosca](http://www.mosca.io/) -  MQTT代理作为模块.
 - [Mosquitto](http://mosquitto.org/) - 实现MQTT协议的开源消息代理.
 - [Nanomsg](http://nanomsg.org/) - 套接字库，提供几种用于构建分布式系统的通用通信模式.
@@ -388,6 +390,7 @@
 - [Hystrix](https://github.com/Netflix/Hystrix) - 延迟和容错库旨在隔离对远程系统，服务和第三方库的访问点，停止级联故障并在无法避免故障的复杂分布式系统中实现弹性.
 - [Pathod](http://pathod.net/) - 为折磨HTTP客户端和服务器而制造的恶意.
 - [Raft Consensus](http://raftconsensus.github.io/)   - 旨在易于理解的共识算法.  它在容错和性能方面与Paxos相当.
+- [Resilience4j](https://github.com/resilience4j/resilience4j) - 为Java8和函数式编程设计的容错库.
 - [Resilient HTTP](http://resilient-http.github.io/) - 智能HTTP客户端，具有超强功能，如容错，动态服务器发现，自动平衡和反应恢复，专为分布式系统而设计.
 - [Saboteur](https://github.com/tomakehurst/saboteur) - 导致故意的网络混乱以获得更好的恢复能力.
 - [Semian](https://github.com/Shopify/semian) -  Ruby的弹性工具包可以快速失败.
@@ -405,7 +408,7 @@
 - [Login With](https://github.com/lipp/login-with) - 无状态登录 - 使用Google，FB，Github等微服务器.
 - [OAuth](http://oauth.net/2/)   - 为Web应用程序，桌面应用程序，移动电话和客厅设备提供特定的授权流程.  许多实现.
 - [OpenID Connect](http://openid.net/developers/libraries/) - 实现当前OpenID规范和相关规范的库，产品和工具.
-- [OSIAM](https://github.com/osiam/osiam) - Open source identity and access management implementing OAuth 2.0 and SCIMv2.
+- [OSIAM](https://github.com/osiam/osiam) - 实施OAuth 2.0和SCIMv2的开源身份和访问管理.
 - [SCIM](http://www.simplecloud.info/) - 跨域身份管理系统.
 - [Vault](https://www.vaultproject.io/) - 在现代计算中保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.
 
@@ -494,16 +497,17 @@
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - 万维网架构，第一卷.
 - [RFC3986](https://tools.ietf.org/html/rfc3986) - 统一资源标识符（URI）：通用语法.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) -  URI模板.
-- [RFC7320](https://tools.ietf.org/html/rfc7320) -  URI设计和所有权.
+- [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
 
 ### HTTP/1.1
 
 - [RFC7230](https://tools.ietf.org/html/rfc7230) - 消息语法和路由.
-- [RFC7231](https://tools.ietf.org/html/rfc7231) - Semantics and Content.
+- [RFC7231](https://tools.ietf.org/html/rfc7231) - 语义和内容.
 - [RFC7232](https://tools.ietf.org/html/rfc7232) - 条件请求.
 - [RFC7233](https://tools.ietf.org/html/rfc7233) - 范围请求.
 - [RFC7234](https://tools.ietf.org/html/rfc7234) - 缓存.
 - [RFC7235](https://tools.ietf.org/html/rfc7235) - 身份验证.
+- [RFC7807](https://tools.ietf.org/html/rfc7807) -  HTTP API的问题详细信息.
 
 ### HTTP/2
 
@@ -542,7 +546,7 @@
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)   -  JSON超文本应用程序语言（HAL）是一种标准，它建立了使用JSON表达超媒体控件（如链接）的约定.  <sup>草案</sup>
 - [Hydra](http://www.hydra-cg.com/) - 可互操作，超媒体驱动的Web API规范.
 - [GraphQL](http://graphql.org/)   - 用于构建客户端应用程序的查询语言，通过提供直观，灵活的语法和系统来描述其数据需求和交互.  <sup>草案</sup>
-- [WADL](http://www.w3.org/Submission/wadl/) -  Web应用程序描述语言规范.
+- [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
 - [WSDL](http://www.w3.org/TR/wsdl20/) -  Web服务描述语言版本2.0规范.
 
 ### Data Formats
@@ -650,7 +654,7 @@
 ### Sites & Organizations
 
 - [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会构建可持续生态系统，围绕一系列高质量项目培养社区，这些项目将容器作为微服务架构的一部分进行编排.
-- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - 云原生技术的互动环境.
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - Interactive landscape of cloud native technologies.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) -  Martin Fowler选择的文章，视频，书籍和播客可以教你更多关于微服务架构风格的内容.
 - [Microservice Patterns](http://microservices.io/) - 微服务架构模式和最佳实践.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - 微服务主要是反模式和陷阱.

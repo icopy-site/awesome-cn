@@ -46,7 +46,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  有了 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)   - 声音和音乐计算系统.  包括Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)   -  Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供了与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic相同的功能 - 一系列创建和操作声音的功能，主要针对作曲家（无论如何都是在CLM的情况下）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和抒情的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和lispy的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal)   -  OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) - 一个存储库
 古代版的Common Music（版本2.12.0），大概是最后一个
@@ -347,7 +347,7 @@ Lambda shorthands
 
 * [fn](https://github.com/cbaggers/fn)   - 几个lambda速记宏.  `（fn *（+ _ _）） - &gt;（lambda（_）（+ _ _））`.  公共区域.
 * [f-underscore](http://quickdocs.org/f-underscore/api)   - 一个功能编程工具库.  `（f_（+ _ _）） - &gt;（lambda（_）（+ _ _））`.  公共区域.
-* [cl-chump](https://github.com/windymelt/cl-punch/)   - 类似Scala的匿名lambda文字.  `（mapcar ^（* 2 _）&#39;（1 2 3 4 5））`.  [MIT] [200].
+* [cl-punch](https://github.com/windymelt/cl-punch/)   - 类似Scala的匿名lambda文字.  `（mapcar ^（* 2 _）&#39;（1 2 3 4 5））`.  [MIT] [200].
 
 
 另见CL21和Rutils.
