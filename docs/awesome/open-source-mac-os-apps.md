@@ -55,7 +55,7 @@
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos)   -  Scrobble乙烯基，收音机，电影到Last.fm.  ！[objective_c_icon] 
 - [Sonora](https://github.com/sonoramac/Sonora)   - 最小，设计精美的macOS音乐播放器.  ！[objective_c_icon] 
 - [SpotMenu](https://github.com/kmikiy/SpotMenu)   - 菜单栏中的Spotify和iTunes.  ！[objective_c_icon]！[swift_icon] 
-- [SpotSpot](https://github.com/will-stone/SpotSpot) - Spotify mini-player for macOS.  ![javascript_icon] 
+- [SpotSpot](https://github.com/will-stone/SpotSpot)   -  Spotify macOS的迷你播放器.  ！[javascript_icon] 
 - [Suohai](https://github.com/Sunnyyoung/Suohai)   -  macOS的音频输入/输出源锁定.  ！[swift_icon] 
 - [Tickeys](https://github.com/yingDev/Tickeys)   - 即时音频反馈打字.  macOS版本.  ！[rust_icon] 
   -  [[Un] MuteMic]（https://github.com/CocoaHeadsBrasil/MuteUnmuteMic） - 用于静音和取消静音麦克风输入音量的macOS应用程序.  适合播客.  ！[objective_c_icon]！[c_icon] 
@@ -532,6 +532,7 @@
 - [ToTheTop](https://github.com/zenangst/ToTheTop)   - 小型macOS应用程序，可帮助您滚动到顶部.  ！[swift_icon] 
 - [calibre](https://github.com/kovidgoyal/calibre)   - 跨平台电子书经理.  ！[python_icon] 
 - [iOScanX](https://github.com/alessiomaffeis/iOScanX)   - 用于半自动iOS应用程序分析和评估的Cocoa应用程序.  ！[objective_c_icon]！[c_icon] 
+- [mac-sound-fix](https://github.com/dragstor/mac-sound-fix) - Mac Sound Re-Enabler.  ![swift_icon] 
 - [wechsel](https://github.com/friedrichweise/wechsel)   - 使用键盘管理蓝牙连接.  ！[swift_icon] 
 - [Übersicht](https://github.com/felixhageloh/uebersicht)   - 密切关注您的机器和世界上发生的事情.  ！[objective_c_icon] 
 

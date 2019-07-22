@@ -36,7 +36,7 @@
 * [script.js](https://github.com/ded/script.js) - 异步JavaScript加载器和依赖管理器.
 * [systemjs](https://github.com/systemjs/systemjs) - 符合AMD，CJS和ES6规范的模块加载器.
 * [LodJS](https://github.com/yanhaijing/lodjs) - 基于AMD的模块加载器.
-* [ESL](https://github.com/ecomfe/esl) - 首先是模块加载器浏览器，支持懒惰定义和AMD.
+* [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - 轻量级JavaScript模块系统.
 
 
@@ -74,7 +74,7 @@
 
 ### Coverage
 
-* [istanbul](https://github.com/gotwarlost/istanbul) - Yet another JS code coverage tool.
+* [istanbul](https://github.com/gotwarlost/istanbul) - 又一个JS代码覆盖工具.
 * [blanket](https://github.com/alex-seville/blanket)   - 一个简单的JavaScript代码覆盖库.  浏览器和nodejs易于安装和使用.
 * [JSCover](https://github.com/tntim96/JSCover) -  JSCover是一个测量JavaScript程序代码覆盖率的工具.
 
@@ -197,7 +197,7 @@
 * [processing.js](http://processingjs.org/) -  Processing.js使您的数据可视化使用Web标准并且没有任何插件.
 * [envisionjs](https://github.com/HumbleSoftware/envisionjs) - 动态HTML5可视化.
 * [rickshaw](https://github.com/shutterstock/rickshaw) - 用于创建交互式实时图的JavaScript工具包.
-* [flot](https://github.com/flot/flot) - Attractive JavaScript charts for jQuery.
+* [flot](https://github.com/flot/flot) -  jQuery的迷人JavaScript图表.
 * [morris.js](https://github.com/morrisjs/morris.js) - 漂亮的时间序列线图.
 * [nvd3](https://github.com/novus/nvd3) - 为d3.js构建可重复使用的图表和图表组件.
 * [svg.js](https://github.com/wout/svg.js) - 用于操作和动画SVG的轻量级库.
@@ -214,6 +214,7 @@
 * [BabylonJS](https://github.com/BabylonJS/Babylon.js) - 使用HTML 5和WebGL构建3D游戏的框架.
 * [recharts](https://github.com/recharts/recharts) - 使用React和D3构建的重新定义的图表库.
 * [GraphicsJS](https://www.graphicsjs.org) - 基于SVG / VML技术的直观API轻量级JavaScript图形库.
+* [mxGraph](https://github.com/jgraph/mxgraph) - 图表库，可以快速创建交互式图形和图表应用程序，这些应用程序可以在其供应商支持的任何主要浏览器中本机运行.
 
 还有一些很棒的商业图书馆，比如 [amchart](https://www.amcharts.com/), [anychart](http://www.anychart.com), [plotly](https://plot.ly/)，和 [highchart](http://www.highcharts.com/).
 
@@ -314,7 +315,7 @@
 
 
 ## Date
-*日期图书馆.*
+*Date Libraries.*
 
 * [moment](https://github.com/moment/moment) - 在JavaScript中解析，验证，操作和显示日期.
 * [moment-timezone](https://github.com/moment/moment-timezone) - 时区支持moment.js.
@@ -334,7 +335,7 @@
 * [voca](https://github.com/panzerdp/voca) - 终极JavaScript字符串库
 * [selecting](https://github.com/EvandroLG/selecting) - 允许您访问用户选择的文本的库.
 * [underscore.string](https://github.com/epeli/underscore.string) -  Underscore.js JavaScript库的字符串操作扩展.
-* [string.js](https://github.com/jprichardson/string.js) - 额外的JavaScript字符串方法.
+* [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 * [he](https://github.com/mathiasbynens/he) - 用JavaScript编写的强大的HTML实体编码器/解码器.
 * [multiline](https://github.com/sindresorhus/multiline) -  JavaScript中的多行字符串.
 * [query-string](https://github.com/sindresorhus/query-string) - 解析和字符串化URL查询字符串.
@@ -712,7 +713,7 @@
 ## Gesture
 
 * [hammer.js](https://github.com/hammerjs/hammer.js) - 用于多点触控手势的JavaScript库.
-* [touchemulator](https://github.com/hammerjs/touchemulator) - Emulate touch input on your desktop.
+* [touchemulator](https://github.com/hammerjs/touchemulator) - 模拟桌面上的触摸输入.
 * [Dragula](https://github.com/bevacqua/dragula/) - 拖放这么简单就好疼.
 
 
@@ -771,7 +772,7 @@
 * [textillate](https://github.com/jschr/textillate) -  CSS3文本动画的简单插件.
 * [move.js](https://github.com/visionmedia/move.js) -  CSS3支持的JavaScript动画框架.
 * [animatable](https://github.com/LeaVerou/animatable) - 一个属性，两个值，无限的可能性.
-* [shuffle-images](https://github.com/peachananr/shuffle-images) - 以创造性方式改变图像的最简单方法http://www.thepetedesign.com/demos/shuffle-images_demo.html
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js)   - 使用jQuery进行不显眼的页面转换.  http://smoothstate.com/
 * [Anime.js](http://animejs.com) -  JavaScript动画引擎http://animejs.com.
 * [Mo.js](http://mojs.io) - 用于网站的运动图形工具带http://mojs.io.

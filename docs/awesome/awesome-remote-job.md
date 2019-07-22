@@ -228,7 +228,7 @@
   1. [andreis/interview](https://github.com/andreis/interview) - 您在编码面试中所需的一切
   2. [awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions) - 精选的面试问题列表
   3. [interviewing.io](https://interviewing.io/) - 在技术面试中变得很棒
-  4. [karat.io](https://karat.io/practice) - 与专业面试官进行免费练习编码面试
+  4. [karat.io](https://karat.com/) - 与专业面试官进行免费练习编码面试
   4. [pramp](https://pramp.com) - 与其他候选人一起练习编码访谈（表格的两面）
   5. [remoteinterview.io](https://www.remoteinterview.io/) - 编码测试和配对编程面试工具
   6. [skillmeter.com](https://skillmeter.com/) - 招聘人员和公司的在线技能测试平台

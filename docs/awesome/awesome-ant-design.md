@@ -31,7 +31,7 @@ Ant Design是一种中间件设计语言，由Ant Financial的经验技术部门
 
 Ant Design的官方项目和资源.
 
-- [Ant Design](http://ant.design/) - 企业级UI设计语言和基于React的实现.
+- [Ant Design](http://ant.design/) - An Enterprise-class UI design language and React-based implementation.
 - [Ant Design Pro](http://pro.ant.design/) - 面向企业应用程序的开箱即用UI解决方案：fire :: fire :: fire：
 - [Ant Design Mobile](http://mobile.ant.design/) - 可配置的移动UI规范和基于React的实现.
 - [Ant Design of React](http://react-component.github.io/badgeboard/) - 基于React开箱即用的优雅UI组件.
@@ -62,8 +62,10 @@ Ant Design的官方项目和资源.
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - 用于生成自定义主题文件的webpack插件.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - 一个简单的脚本，用于生成特定主题的文件，可以在任何环境中使用.
 
-### Dark Theme
+### Themes
+
 - [ant-design-dark-theme](https://github.com/ant-design/ant-design-dark-theme) -  Ant Design的黑暗主题变量.
+- [ant-design-aliyun-theme](https://github.com/ant-design/ant-design-aliyun-theme) -  Aliyun控制台Ant设计的主题变量.
 - [ant-dark-theme](https://github.com/Kuechlin/ant-dark-theme) -  Ant Design的黑暗主题变量.
 
 ## Related Projects
@@ -100,12 +102,16 @@ Ant Design系列项目.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - 基于antd表的无限滚动组件，支持虚拟滚动和高性能
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - 基于draft-Js和ant设计的开源丰富的反应编辑器.
-- [React Grid](https://github.com/kagawagao/react-grid) **[Deprecated]** - Grid React UI Component based on Ant Design.
+- [React Grid](https://github.com/kagawagao/react-grid) ** [已弃用] **  - 基于Ant设计的网格反应UI组件.
 - [Antd Kit](https://github.com/huhulab/antd-kit) - 高级Ant设计组件.
 - [antd-data-table](https://github.com/NewbeeFE/antd-data-table) - 组合antd表和表单的组件，用于执行数据的搜索，显示和操作作业.
 - [ngx-recursive-form](https://github.com/hsbalar/ngx-recursive-form) - 基于使用Ant Design构建的json输入的角度递归形式.
 - [antd-amplify-react](https://github.com/mzohaibqc/antd-amplify-react) - 用于Aws Amplify for Authentication的Ant设计组件的集合
 - [antd-password-input-strength](https://github.com/Kombustor/antd-password-input-strength) - 具有密码强度指示符的AntD输入组件.
+
+## React Hooks
+
+- [Sunflower(🌻)](https://github.com/ant-design/sunflower) React Hooks的集合返回antd的组件.
 
 ## Applications
 
@@ -145,12 +151,14 @@ Ant Design系列项目.
 - [Typescript React With Mobx Starter](https://github.com/YDJ-FE/ts-react-webpack) - 带有打字稿，反应，mobx，antd和webpack的初学者模板.
 - [React-PWA, PawJS and AntDesign](https://github.com/Atyantik/example-pawjs-ant-design) - 具有SEO，PWA，SSR，Skeleton，占位符等的可插拔样板，作为其众多功能中的一部分.
 - [Create React App + Ant Design](https://github.com/ant-design/create-react-app-antd) - 在create-react-app中使用antd而不弹出
+- [ScaffoldHub.io](https://scaffoldhub.io) - 使用MongoDB，SQL或Firebase Firestore生成fullstack React + Ant设计应用程序.
 
 ## Non-JavaScript Libraries
 
 为非JavaScript语言编写的库列表.
 
 - [Antizer](https://github.com/priornix/antizer) -  Ant设计库 [ClojureScript](https://clojurescript.org/)，一种不可变的函数式语言，可以交叉编译为JavaScript.
+- [syn-antd](https://gitlab.com/synqrinus/syn-antd) -  Ant设计包装 [ClojureScript](https://clojurescript.org/) 和 [Reagent](https://github.com/reagent-project/reagent) 运用 [shadow-cljs](http://shadow-cljs.org/)  树木摇晃的支持.  与其他ClojureScript库一样，它可以交叉编译为JavaScript.
 
 ## Electron
 

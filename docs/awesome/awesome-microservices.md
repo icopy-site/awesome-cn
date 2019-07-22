@@ -11,9 +11,10 @@
 - [Ballerina](https://ballerina.io) - 云原生编程语言.
 - [Cocaine](https://github.com/cocaine) - 云平台，使您能够构建自己的PaaS云.
 - [Deis](http://deis.io/) - 公共云和私有云的开源应用程序平台.
-- [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
+- [Express Serverless](https://www.express-serverless.io/) - 开源，Kubernetes本地，微服务和无服务器平台.
+- [Fabric8](http://fabric8.io/)   - 基于Docker，Kubernetes和Jenkins的开源微服务平台.  使创建，编辑，部署和管理微服务变得更加容易，并且更快.
 - [Hook.io](https://hook.io) - 微服务和webhook托管的开源提供商.
-- [KintoHub ![c]](https://www.kintohub.com) - Microservice package manager empowering developers to easily build and share cloud ready features.
+-  [KintoHub！[c]]（https://www.kintohub.com） - 微服务包管理器使开发人员能够轻松构建和共享云就绪功能.
 -  [Lightbend！[c]]（https://www.lightbend.com/） - 用于在JVM上构建可扩展的反应系统的平台.
 - [Mantl](https://github.com/mantl/mantl) - 快速部署全球分布式服务的平台.
 - [Netflix OSS](https://netflix.github.io/) -  Netflix开源软件生态系统.
@@ -26,11 +27,11 @@
 
 - [Akka](http://akka.io/) - 用于在JVM上构建高度并发，分布式和弹性的消息驱动应用程序的工具包和运行时.
 -  [Axon！[c]]（https://axoniq.io/） - 端到端的开发和基础架构平台，可在JVM上轻松开发和运行任何DDD，CQRS和Event Sourcing应用程序.
-- [Baratine](http://baratine.io/) - 用于构建松散耦合的POJO微服务网络的平台.
+- [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
 - [Erlang/OTP](https://github.com/erlang/otp) - 用于构建具有高可用性要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) - 用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -  Flogo是一个开源框架，用于简化构建高效和现代无服务器功能和边缘微服务.
-- [GPars](https://github.com/GPars/GPars) - Concurrency and parallelism framework for the JVM.
+- [GPars](https://github.com/GPars/GPars) -  JVM的并发和并行框架.
 - [Grenache](https://github.com/bitfinexcom/grenache) - 基于Bittorent-DHT的微服务框架，支持多个传输上的REQ / REP和PUB / SUB模式.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
 - [Lagom](https://github.com/lagom/lagom) -  JVM的反应性微服务.
@@ -109,7 +110,7 @@
 - [Goa](https://github.com/goadesign/goa) -  Go中基于设计的HTTP微服务.
 - [Gocraft](https://github.com/gocraft/web)   - 用于构建Web应用程序的工具包.  包括路由，中间件堆栈，日志记录和监控.
 - [Goji](https://goji.io/) -  Go的简约灵活的请求多路复用器.
-- [Go kit](https://github.com/go-kit/kit) - 用于现代企业中微服务的分布式编程工具包.
+- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
 - [Go-micro](https://github.com/micro/go-micro) - 可插拔的RPC微服务框架.
 - [Gopencils](https://github.com/bndr/gopencils) - 使用Go轻松使用REST API.
 - [Gorilla](http://www.gorillatoolkit.org/) -  Go编程语言的Web工具包.
@@ -155,7 +156,7 @@
 - [Ja-micro](https://github.com/Sixt/ja-micro) - 用于构建微服务的轻量级Java框架（与go-micro兼容）.
 - [Jersey](https://jersey.github.io/)   -  Java中的RESTful服务.  JAX-RS参考实现.
 - [Micronaut](http://micronaut.io/) - 基于JVM的现代化全堆栈框架，用于构建模块化，易于测试的微服务应用程序.
-- [MSF4J](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
+- [MSF4J](https://github.com/wso2/msf4j) - 高吞吐量和低内存占用Java微服务框架.
 - [QBit](https://github.com/advantageous/qbit) - 用于构建微服务的反应式编程库.
 - [Ratpack](https://ratpack.io/)   - 一组Java库，可以实现快速，高效，可演化和经过良好测试的HTTP应用程序.  提供了对Groovy语言的特定支持.
 - [Restlet](http://restlet.com/) - 帮助Java开发人员构建遵循REST架构风格的Web API.
@@ -249,12 +250,15 @@
 
 ### API Gateways / Edge Services
 
+&gt;请注意 [data and control plane](https://blog.envoyproxy.io/service-mesh-data-plane-vs-control-plane-2774e720f7fc) 此时组件未分类.
+
 - [Amalgam8](https://github.com/amalgam8) - 用于多语言微服务的基于内容的路由结构.
 - [Ambassador](https://www.getambassador.io) - 基于Envoy构建的微服务的Kubernetes原生API网关.
 - [Annon](https://github.com/nebo15/annon.api) - 开源API网关，内置API管理，身份验证和Elixir编写的状态页面.
 - [Caddy](https://caddyserver.com/) - 具有自动HTTPS的可扩展HTTP / 2 Web服务器.
 - [Camel](http://camel.apache.org/) - 使您能够以各种特定于域的语言定义路由和中介规则，包括基于Java的流畅API，Spring或Blueprint XML配置文件以及Scala DSL.
 - [Envoy](https://github.com/lyft/envoy) - 来自Lyft开发人员的开源边缘和服务代理.
+- [Express Gateway](https://www.express-gateway.io/) - 基于Express.js构建的微服务API网关.
 - [Fabio](https://github.com/eBay/fabio) - 一种快速，现代，零配置的负载均衡HTTP / S路由器，用于部署由Consul管理的微服务.
 - [HAProxy](http://www.haproxy.org/) - 可靠，高性能的TCP / HTTP负载均衡器.
 - [Istio](https://istio.io/) - 一个连接，管理和保护微服务的开放平台.
@@ -321,7 +325,7 @@
 - [Fenzo](https://github.com/Netflix/Fenzo) -  Mesos框架的可扩展调度程序.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler)   - 用于企业级工作负载自动化的开源解决方案.  它用于启动可执行文件和shell脚本以及自动运行数据库过程.
 - [Rundeck](http://rundeck.org/)   - 作业调度程序和Runbook自动化.  启用对现有脚本和工具的自助访问.
-- [Schedulix](http://www.schedulix.org/en) - 开源企业作业调度系统为高级系统环境中IT流程的专业自动化奠定了突破性的标准.
+- [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
 
 ### Logging
 
@@ -484,7 +488,7 @@
 - [Aglio](https://github.com/danielgtaylor/aglio) - 具有主题支持的API Blueprint渲染器，可输出静态HTML.
 - [API Blueprint](https://apiblueprint.org/)   - 适用于整个API生命周期的工具.  用它来与他人讨论您的API.  自动生成文档.  或者是测试套件.  甚至是一些代码.
 - [Apidoc](https://github.com/mbryzek/apidoc) -  REST服务的美丽文档.
-- [RAML](http://raml.org/) -  RESTful API建模语言，一种简单而简洁的描述实际RESTful API的方法.
+- [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
 - [ReDoc](https://github.com/Rebilly/ReDoc) -  OpenAPI / Swagger生成的API文档.
 - [Slate](https://github.com/tripit/slate) - 适用于API的精美静态文档.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - 通过将手写文档与使用Spring MVC Test生成的自动生成的片段相结合，记录RESTful服务.
@@ -497,7 +501,7 @@
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - 万维网架构，第一卷.
 - [RFC3986](https://tools.ietf.org/html/rfc3986) - 统一资源标识符（URI）：通用语法.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) -  URI模板.
-- [RFC7320](https://tools.ietf.org/html/rfc7320) - URI Design and Ownership.
+- [RFC7320](https://tools.ietf.org/html/rfc7320) -  URI设计和所有权.
 
 ### HTTP/1.1
 
@@ -543,7 +547,7 @@
 
 ### Service Discovery
 
-- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)   -  JSON超文本应用程序语言（HAL）是一种标准，它建立了使用JSON表达超媒体控件（如链接）的约定.  <sup>草案</sup>
+- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - 可互操作，超媒体驱动的Web API规范.
 - [GraphQL](http://graphql.org/)   - 用于构建客户端应用程序的查询语言，通过提供直观，灵活的语法和系统来描述其数据需求和交互.  <sup>草案</sup>
 - [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
@@ -623,7 +627,7 @@
 
 ### Tutorials
 
-- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - 一个关于如何用Python和Flask构建的微服务取代老化的Java项目的故事.
+- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
 - [Developing and Testing Microservices With Docker](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker) - 创建简单的Docker打包的Node微服务所涉及的过程示例.
 - [Game On!](https://game-on.org/) - 在老式的基于文本的冒险游戏的背景下解释微服务架构.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - 关于无服务器架构的逐步演示驱动的讨论.
@@ -654,7 +658,7 @@
 ### Sites & Organizations
 
 - [Cloud Native Computing Foundation](https://www.cncf.io/) - 云原生计算基金会构建可持续生态系统，围绕一系列高质量项目培养社区，这些项目将容器作为微服务架构的一部分进行编排.
-- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - Interactive landscape of cloud native technologies.
+- [CNCF Cloud Native Interactive Landscape](https://landscape.cncf.io/) - 云原生技术的互动环境.
 - [Microservices Resource Guide](http://martinfowler.com/microservices/) -  Martin Fowler选择的文章，视频，书籍和播客可以教你更多关于微服务架构风格的内容.
 - [Microservice Patterns](http://microservices.io/) - 微服务架构模式和最佳实践.
 - [Microservice Antipatterns and Pitfalls](https://www.oreilly.com/ideas/microservices-antipatterns-and-pitfalls) - 微服务主要是反模式和陷阱.

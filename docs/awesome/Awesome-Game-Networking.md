@@ -11,7 +11,7 @@
 
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) - 来自Riot Games的Viscarious通过WiFi与以太网指标进行互联网连接.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -  Gabriel Gambetta的客户端预测，实体插值，滞后补偿文章.
-- [Gaffer on Games](https://gafferongames.com/) -  Glenn Fiedler可靠的UDP协议和游戏网络开发文章.
+- [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) -  Glenn Fiedler可靠的UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://gameserverarchitecture.com/) -  Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) - 由Ilya Grigorik提供的关于现代网络协议的精彩免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -  Armin Ronacher对战地3在多人游戏中的射击机制的分析.
