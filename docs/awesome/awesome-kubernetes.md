@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
- 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015包.  查看发布列以获取更多信息.
+ 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015捆绑包.  查看发布列以获取更多信息.
 
 -----------------------------------------------------------------------
 
@@ -121,7 +121,7 @@ Installers
 * [MicroK8s](https://github.com/ubuntu/microk8s) - 安装在42种Linux上的单个k8包
 * [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 * [RKE](https://github.com/rancher/rke) - 不可知的骨头 - 不可知云
-* [sealos](https://github.com/fanux/sealos) -  HA安装程序的简单安装程序
+* [sealos](https://github.com/fanux/sealos) - 简单的省级HA安装程序
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd`操作系统 - 不可知云
 * [Supergiant](http://supergiant.io/) -  CoreOS  - 不可知云
 * [Terraform](https://github.com/kz8s/tack) -  CoreOS  -  AWS
@@ -256,7 +256,7 @@ Installers
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
 
-管理Kubernets
+管理Kubernetes
 =======================================================================
 
   - [Platform9](http://platform9.com)
@@ -302,11 +302,11 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -  Kubernetes的阿里巴巴云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) - 亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -  Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernets
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
    - [IKS](https://www.ibm.com/cloud/container-service) -  IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
-   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -  OVH管理在Kubernet
+   - [OVH Managed Kubernetes](https://www.ovh.co.uk/kubernetes/) -  OVH管理Kubernetes
    - [Rackspace](https://www.rackspace.com/en-in) -  Rackspace
    - [VMware Cloud PKS](https://cloud.vmware.com/vmware-cloud-pks)
 
@@ -809,7 +809,7 @@ Projects
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
 * [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
-* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernet中ML / MXNet的工具.
+* [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernetes上ML / MXNet的工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重复的机器学习和对kubernetes的深度学习
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架
 * [TensorFlow k8s](https://github.com/tensorflow/k8s)
@@ -854,11 +854,17 @@ Projects
 * [kube-backup](https://github.com/pieterlange/kube-backup) - 将kubernetes状态同步到git.
 
 ## Policy Management
+
 * [Kyverno](https://github.com/nirmata/kyverno) -  Kubernetes原生政策管理
 
 ## Plugins
 
 * [Krew - Plugin Manager](https://github.com/kubernetes-sigs/krew/)
+* [Kboom](https://github.com/mhausenblas/kboom)
+
+## Debug
+
+* [Kubectl-Debug](https://github.com/aylei/kubectl-debug)
 
 覆盆子皮
 =======================================================================

@@ -75,8 +75,13 @@
 * [bitcoin_tools](https://github.com/sr-gi/bitcoin_tools)  用于构建和分析事务和脚本（标准和自定义）的Python库.  附带一个UTXO集分析工具.  包括几个示例和详尽的文档. 
 
 ## Java Libraries
+&gt;请注意，您也可以使用 [Scala libraries](#scala-libraries) 在Java中
 * [BitcoinJ](https://bitcoinj.github.io)
 * [XChange](https://github.com/knowm/XChange) 提供简单一致的API的库，用于与50多个比特币货币交换进行交互.
+
+## Scala libraries
+&gt;请注意，您也可以使用 [Java libraries](#java-libraries) 在斯卡拉
+* [Bitcoin-S](https://bitcoin-s.org) 用于比特币应用程序的Scala / JVM工具包，包括比特币数据结构，事务签名，强类型`bitcoind` / Eclair RPC客户端等等
 
 ## .Net Libraries
 * [NBitcoin](https://github.com/MetacoSA/NBitcoin)用于.NET框架的综合比特币库.

@@ -63,6 +63,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 
 - [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]  - 分布式，分区，复制的提交日志服务，它提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java]  - 分布式pub-sub消息传递平台，具有非常灵活的消息传递模型和直观的客户端API.
+- [brooklin](https://github.com/linkedin/Brooklin/) [Java]  - 一种分布式系统，用于在各种异构源和目标系统之间传输数据，具有从Linkedin（替换数据总线）大规模的高可靠性和吞吐量.
 - [camus](https://github.com/linkedin/camus) [Java]  -  Linkedin的Kafka  - &gt; HDFS管道.
 - [databus](https://github.com/linkedin/databus) [Java]  -  Linkedin的源不可分的变更数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java]  - 分布式，可靠且可用的服务，用于高效收集，聚合和移动大量日志数据.
@@ -70,7 +71,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go]  - 快速磁盘支持的消息传递解决方案
 - [nsq](https://github.com/nsqio/nsq) [Go]  - 旨在大规模运营的实时分布式消息传递平台，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]  - 用于收集，聚合和分派大量应用程序事件（包括日志数据）的数据管道服务.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可以读取和写入大量的端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可读取和写入大量端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
 
 ### Online Machine Learning 
 

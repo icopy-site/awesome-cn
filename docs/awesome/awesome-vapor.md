@@ -60,7 +60,7 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [SwiftyBeaver Provider](https://github.com/vapor-community/swiftybeaver-provider) - 用于Vapor的SwiftyBeaver日志提供程序，服务器端Swift Web框架.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Telesign Provider](https://github.com/vapor-community/telesign-provider) -  Vapor的Telesign供应商.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [UAPusher](https://github.com/nodes-vapor/push-urban-airship) - 使用Urban Airship发送推送通知.
-- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Mailgun Service](https://github.com/twof/VaporMailgunService) - 与Vapor一起使用以发送电子邮件的服务.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor Mailgun Service](https://github.com/vapor-community/VaporMailgunService) - 与Vapor一起使用以发送电子邮件的服务.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor OAuth](https://github.com/brokenhandsio/vapor-oauth) - 用于Vapor的OAuth2提供程序库.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor OAuth Fluent](https://github.com/brokenhandsio/vapor-oauth-fluent) -  Vapor OAuth的流利实现.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Vapor reCAPTCHA](https://github.com/gotranseo/vapor-recaptcha) - 使用Vapor验证Google reCAPTCHAs.
@@ -131,6 +131,7 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [VaporBerlin](https://github.com/MartinLasek/vaporberlinBE) -  VaporBerlin的聚会网站的后端.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Vapor Chat](https://github.com/vapor-community/chat-example) - 使用Vapor构建的实时聊天客户端，具有iOS应用程序.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [ServerSide.swift](http://www.serversideswift.info/) - 全球服务器端Swift会议的会议网站.
+- ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Swifttube](https://github.com/ahmetws/swifttube) - 在一个地方策划iOS会议视频.
 
 ## License
 

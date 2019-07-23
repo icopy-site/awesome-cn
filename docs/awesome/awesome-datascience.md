@@ -347,6 +347,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Ryan Orban](https://twitter.com/ryanorban) - 数据科学家，遗传创作者，硬件爱好者
 - [Sean J. Taylor](https://twitter.com/seanjtaylor)   - 社会科学家.  黑客.  Facebook数据科学团队.  关键词：实验，因果推理，统计学，机器学习，经济学.
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
+- [Harsh B. Gupta](https://twitter.com/harshbg) -  BBVA Compass的数据科学家 
 - [Spencer Nelson](https://twitter.com/spenczar_n) - 数据书呆子
 - [Talha Oz](https://twitter.com/tozCSS)   - 喜欢ABM，SNA，DM，ML，NLP，HI，Python，Java.  顶级百分位kaggler /数据科学家
 - [Tasos Skarlatidis](https://twitter.com/anskarl)   - 复杂事件处理，大数据，人工智能和机器学习.  热衷于编程和开源.

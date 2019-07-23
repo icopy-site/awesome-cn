@@ -214,7 +214,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
   -  Antoine Caron |  18年1月18日 -  [Webpack : an unexpected journey](https://medium.zenika.com/webpack-an-unexpected-journey-26f987efd1c5)
   - 安德鲁韦尔奇|  10月23日 -  18日 -  [An Annotated webpack 4 Config for Frontend Web Development](https://nystudio107.com/blog/an-annotated-webpack-4-config-for-frontend-web-development)
-  - GáborSoós|  17年4月24日 -  [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
+ GáborSoós  17年4月24日 -  [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
   -  Mark Erikson |  07年3月7日 -  [Declaratively Rendering Earth in 3D, Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
   -  Joseph Zimmerman |  2月2日至17日 -  [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   -  Jamund Ferguson |  12月22日 -  16日 -  [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
@@ -234,6 +234,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
 ### Videos
 
+  -  Colt Steele通过Youtube |  3月7日至2019年 -  [Learn Webpack Course](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
   -  Naomi A. Jacobs通过BuzzJS 2.0 2017 |  2月27日至2017年 -  [Webpack: It's Not Magic](https://www.youtube.com/watch?v=_QEM9kdV-b0)
   - 杰克富兰克林在HalfStack2016 |  18-Nov-16 | [Seamless client side JavaScript w/ Webpack](https://opbeat.com/community/posts/seamless-client-side-javascript-with-webpack-by-jack-franklin)
   -  Emil Oberg通过YouTube |  2016年11月4日 -  [Introduction to Webpack 2, what is it?](https://www.youtube.com/watch?v=C_ZtQClrVYw)
@@ -242,7 +243,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   - 来自First Principles的前端中心Webpack |  18年8月22日 -  [Intro to Webpack](https://www.youtube.com/watch?v=WQue1AN93YU)
   -  AngularAir的肖恩·拉金|  03年8月3日 -  [ngAir 75 - Webpack 2 with Sean Larkin.](https://plus.google.com/events/c76mih8qcjj0ffocpdlcbegvejs)
   -  Eric Clemmons与Kent C. Dodds聊天  01年7月1日 -  [Webpack HMR.](https://www.youtube.com/watch?v=PthDwpgrhmQ)
-  -  Mirko Nasato（第五部分系列）  07年6月7日 -  [Angular2 with Webpack Project Setup.](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p)
+  -  Mirko Nasato（5部分系列）|  07年6月7日 -  [Angular2 with Webpack Project Setup.](https://www.youtube.com/playlist?list=PLgGUMhSgtxJyIQ4vI3BzlCzZLHL79Ew6p)
   -  Nodevember的Jonathan Creamer |  05年12月15日 -  [Advanced WebPack.](https://www.youtube.com/watch?v=MzVFrIAwwS8)
   -  Kyle Robinson Young |  08年7月8日 -  [Getting Started with Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
   -  Tasveer Singh在TorontoJS Tech Talk |  09年4月9日 -  [Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)

@@ -340,11 +340,13 @@
 * [Nines are Not Enough: Meaningful Metrics for Clouds](https://ai.google/research/pubs/pub48033)
 * [How many nines is my storage system?](https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d)
 * [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
+* [The Tyranny of the SLA](https://www.youtube.com/watch?v=4cPqLuIXBnw)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
 * [South Bay SRE Meetup - Netflix Cloud Performance Team](https://youtu.be/uQ0flQOtQEA)
 * [Software Performance Analysis Guided By SLOs](https://medium.com/dm03514-tech-blog/sre-performance-analysis-tuning-methodology-using-a-simple-http-webserver-in-go-d475460f27ca)
+* [A framework for pragmatic performance engineering](https://mterwill.com/posts/framework-for-performance-engineering/)
 
 ## Programming
 * [Go Language for Ops and Site Reliability Engineering](http://www.oreilly.com/pub/e/2712)

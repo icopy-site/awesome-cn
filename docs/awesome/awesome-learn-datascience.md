@@ -65,7 +65,7 @@
 
 - [Template folder structure for organizing Data Science projects](https://github.com/drivendata/cookiecutter-data-science)
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - 包含Data Science的大多数重要Python包.
-- [Natural Language Toolkit](http://www.nltk.org/) - 用于处理基于文本的数据的库的集合.
+- [Spacy](https://spacy.io/) - 用于处理基于文本的数据的开源工具包.
 - [LightGBM gradient boosting framework](https://github.com/Microsoft/LightGBM) - 成功应用于许多Kaggle挑战赛.
 - [Amazon AWS](https://aws.amazon.com/) - 租用云服务器以获得更多耗时的计算（r4.xlarge服务器是一个很好的起点）.
 

@@ -8,7 +8,7 @@
 
 ## [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
- 连接索引和报告的列表，可以帮助您更好地了解谁可以访问通信基础架构以及使用什么条件.  公共领域中的所有信息.
+ 连接索引，地图和报告的列表，可以帮助您更好地了解谁可以访问通信基础架构以及使用什么条件.  公共领域中的所有信息.
 
 <sub>更多关于我的连接</sub> [website](https://manypossibilities.net) 或者 [twitter](https://twitter.com/stevesong).</sub>
 
@@ -49,8 +49,8 @@
 - [ITU Interactive Transmission Map](http://www.itu.int/itu-d/tnd-map-public/) - 国际电联的地面光纤和微波网络在线地图.
 - [GSMA Mobile Coverage Maps @ Mobile World Live](http://maps.mobileworldlive.com/) - 有些过时但仍然有用的移动网络覆盖地图，逐个国家/地区.
 - [Hurricane Electric 3D map](http://he.net/3d-map/) - 海底电缆和Hurrican Electric Point of Presence（POPs）和路线的交互式3D地图.
-- [OECD - National Broadband Maps](http://www2.compareyourcountry.org/broadband) - 经合组织国家的国家宽带地图.
 - [GSMA Mobile Network Coverage Maps](https://www.mobilecoveragemaps.com) - （2019）提供最准确的移动覆盖地图，目前涵盖加纳，尼日利亚，卢旺达，乌干达，坦桑尼亚和赞比亚.
+- [nperf Mobile coverage maps](https://www.nperf.com/en/map) - 基于从中收集的数据的移动覆盖 [nperf app](https://www.nperf.com/en/nperf-applications/).
 
 ## Periodic Global Connectivity Reports
 
@@ -60,7 +60,7 @@
 - [GSMA Mobile Economy](https://www.gsma.com/mobileeconomy/) - [2019 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2019.pdf) [2018 pdf](https://manypossibilities.net/report-archives/GSMA_The_Mobile_Economy_2018.pdf).
 - 宽带委员会：宽带状况（[2018](https://www.broadbandcommission.org/publications/Pages/SOB-2018.aspx))  ([2017](http://www.broadbandcommission.org/publications/Pages/SOB-2017.aspx))
 - 国际电联衡量信息社会 - （[2018](https://www.itu.int/en/ITU-D/Statistics/Documents/events/wtis2018/MISR-2018-Vol-1-E.PDF))  ([2017](https://www.itu.int/en/ITU-D/Statistics/Pages/publications/mis2017.aspx))
-- [GSMA - State of Mobile Internet Connectivity 2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf)
+-  GSMA  - 移动互联网连接状态（[2019](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2019/07/GSMA-State-of-Mobile-Internet-Connectivity-Report-2019.pdf)) ([2018](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2018/09/State-of-Mobile-Internet-Connectivity-2018.pdf))
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
 - [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
@@ -69,7 +69,7 @@
 - [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) - （2017年第1季度）大型CDN公司的连接报告.
 - [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) - （2016）研究信息和通信技术（ICT）在推动创新方面的作用，并包括网络就绪指数.
 - 联合国电子政务调查 [2018](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2018) [2016](https://publicadministration.un.org/egovkb/en-us/Reports/UN-E-Government-Survey-2016) - 全球电子政务和电子参与发展指数. 
-- [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - 最新数据更新：2018年6月28日.
+- [OECD Broadband Portal](https://www.oecd.org/internet/broadband/broadband-statistics/) - 最新数据更新：2019年7月9日.
 - [AfterAccess - Mobile & Internet Use in the Global South](http://afteraccess.net/wp-content/uploads/After-Access-Website-layout-r1.pdf) - 全球南方16个发展中国家的公共领域的家庭和个人对ICT接入和使用的全国代表性调查的信息图表亮点.
 
 

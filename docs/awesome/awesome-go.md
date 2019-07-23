@@ -358,7 +358,7 @@
 * [gendry](https://github.com/didi/gendry) - 非侵入式SQL构建器和强大的数据绑定器.
 * [godbal](https://github.com/xujiajun/godbal)   - 数据库抽象层（dbal）for go.  支持SQL构建器并轻松获得结果.
 * [goqu](https://github.com/doug-martin/goqu) - 惯用SQL构建器和查询库.
-* [igor](https://github.com/galeone/igor) -  PostgreSQL的抽象层，支持高级功能并使用类似gorm的语法.
+* [igor](https://github.com/galeone/igor) - Abstraction layer for PostgreSQL that supports advanced functionality and uses gorm-like syntax.
 * [ormlite](https://github.com/pupizoid/ormlite) - 轻量级包，包含一些类似ORM的功能和sqlite数据库的帮助程序.
 * [ozzo-dbx](https://github.com/go-ozzo/ozzo-dbx) - 强大的数据检索方法以及与数据库无关的查询构建功能.
 * [scaneo](https://github.com/variadico/scaneo) - 生成Go代码以将数据库行转换为任意结构.
@@ -1371,6 +1371,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [dbcleaner](https://github.com/khaiql/dbcleaner) - 清理数据库以进行测试，灵感来自Ruby中的`database_cleaner`.
     * [dsunit](https://github.com/viant/dsunit) -  SQL，NoSQL，结构化文件的数据存储测试.
     * [endly](https://github.com/viant/endly) - 声明式端到端功能测试.
+    * [flute](https://github.com/suzuki-shunsuke/flute) -  HTTP客户端测试框架.
     * [frisby](https://github.com/verdverm/frisby) -  REST API测试框架.
     * [ginkgo](http://onsi.github.io/ginkgo/) -  Go的BDD测试框架.
     * [go-carpet](https://github.com/msoap/go-carpet) - 用于查看终端中测试覆盖范围的工具.
@@ -1519,7 +1520,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-marathon](https://github.com/gambol99/go-marathon) - 去图书馆与Mesosphere的Marathon PAAS互动.
 * [go-myanimelist](https://github.com/nstratos/go-myanimelist) - 去客户端库访问 [MyAnimeList API](http://myanimelist.net/modules.php?go=api).
 * [go-sophos](https://github.com/esurdam/go-sophos) - 去客户端库 [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) 没有依赖关系.
-* [go-sptrans](https://github.com/sergioaugrod/go-sptrans) - 转到SPTrans Live API的客户端库.
+* [go-sptrans](https://github.com/sergioaugrod/go-sptrans) - 转到SPTrans Live Eye API的客户端库.
 * [go-telegraph](https://gitlab.com/toby3d/telegraph) - Telegraph publishing platform API client.
 * [go-trending](https://github.com/和ygrunwald/go-trending) - 去图书馆进行访问 [trending repositories](https://github.com/trending) 和 [developers](https://github.com/trending/developers) 在Github.
 * [go-twitch](https://github.com/knspriggs/go-twitch) - 去客户端与Twitch v3 API进行交互.
@@ -1909,7 +1910,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [generic](https://github.com/usk81/generic) -  Go的灵活数据类型.
 * [genny](https://github.com/cheekybits/genny) -  Go优雅的仿制药.
 * [gocontracts](https://github.com/Parquery/gocontracts) - 通过将代码与文档同步，将合同设计带给Go.
-* [gonerics](http://github.com/bouk/gonerics) - Idiomatic Generics in Go.
+* [gonerics](http://github.com/bouk/gonerics) -  Go中的惯用仿制药.
 * [gotests](https://github.com/cweill/gotests) - 从源代码生成Go测试.
 * [gounit](https://github.com/hexdigest/gounit) - 使用您自己的模板生成Go测试.
 * [hasgo](https://github.com/DylanMeeus/hasgo) - 为切片生成Haskell启发的函数.
