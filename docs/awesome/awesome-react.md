@@ -131,7 +131,7 @@
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -  React的可调整大小和可拖动的组件
 - [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -  React的可调整大小的组件
@@ -208,6 +208,7 @@
 - [react-instantsearch](https://github.com/algolia/react-instantsearch) -  Algolia快速搜索React和React Native应用程序
 - [uppy](https://github.com/transloadit/uppy) - 用于Web浏览器的下一个开源文件上传器
 - [react-motion](https://github.com/chenglou/react-motion) - 一个解决动画问题的弹簧
+- [react-esi](https://github.com/dunglas/react-esi) -  React Edge Side包含
 
 ##### React Integration
 
@@ -373,6 +374,7 @@
 - [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
+- [reaviz](https://github.com/jask-oss/reaviz) - 基于D3.js的React数据可视化库
 
 ---
 

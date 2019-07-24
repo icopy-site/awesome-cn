@@ -27,7 +27,6 @@
 ## Image - Metadata/Text
 *将图像数据作为输入并输出有关图像的有用信息的模型.*
  * ** TextDetection **  - 使用Vision内置模型实时检测文本.  [下载]（）| [Demo](https://github.com/tucan9389/TextDetection-CoreML) | [Reference](https://developer.apple.com/documentation/vision)
- * ** TextRecognition **  - 使用ML Kit实时内置模型识别文本.  [下载]（）| [Demo](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
 * ** PhotoAssessment **  - 使用Core ML和Metal进行照片评估. [Download](https://github.com/yulingtianxia/PhotoAssessment/blob/master/PhotoAssessment-Sample/Sources/NIMANasnet.mlmodel) | [Demo](https://github.com/yulingtianxia/PhotoAssessment) | [Reference](https://arxiv.org/abs/1709.05424)
 * ** PoseEstimation **  - 估计手机图片中的人体姿势. [Download](https://github.com/edvardHua/PoseEstimationForMobile/tree/master/release) | [Demo](https://github.com/tucan9389/PoseEstimation-CoreML) | [Reference](https://github.com/edvardHua/PoseEstimationForMobile)
 * ** MobileNet **  - 检测图像中存在的主要对象. [Download](https://github.com/hollance/MobileNet-CoreML/raw/master/MobileNet.mlmodel) | [Demo](https://github.com/hollance/MobileNet-CoreML) | [Reference](https://arxiv.org/abs/1704.04861)
@@ -48,6 +47,7 @@
 * ** RN1015k500 **  - 预测拍摄照片的位置. [Download](https://s3.amazonaws.com/aws-bigdata-blog/artifacts/RN1015k500/RN1015k500.mlmodel) | [Demo](https://github.com/awslabs/MXNet2CoreML_iOS_sample_app) | [Reference](https://aws.amazon.com/blogs/ai/estimating-the-location-of-images-using-mxnet-and-multimedia-commons-dataset-on-aws-ec2)
 * **裸露**  - 将图像分类为NSFW（裸色）或SFW（非裸色）
  [Download](https://drive.google.com/open?id=0B5TjkH3njRqncDJpdDB1Tkl2S2s) | [Demo](https://github.com/ph1ps/Nudity-CoreML) | [Reference](https://github.com/yahoo/open_nsfw)
+ * ** TextRecognition（ML Kit）**  - 使用ML Kit实时内置模型识别文本.  [下载]（）| [Demo](https://github.com/tucan9389/TextRecognition-MLKit) | [Reference](https://firebase.google.com/docs/ml-kit/ios/recognize-text)
 
 
 ## Image - Image

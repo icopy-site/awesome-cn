@@ -117,6 +117,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) - 具有自动完成和语法突出显示的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -  Postgres客户端具有自动完成和语法突出显示功能.
+- [sqlline](https://github.com/julianhyde/sqlline) - 用于通过JDBC发出SQL的Shell.
 
 ### Devops
 

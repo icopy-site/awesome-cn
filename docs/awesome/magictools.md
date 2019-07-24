@@ -214,7 +214,7 @@ Code
 * [Hive3D](http://www.eyelead.com/hive/) - 实时协作3D引擎.
 *：那么： [Horde3D](http://www.horde3d.org/) - 小型开源3D渲染引擎.
 *：那么： [iio.js](https://github.com/iioinc/iio.js) - 一个javascript库，可加速HTML5 Canvas应用程序的创建和部署
-* ：钱袋子： [ImpactJS](http://impactjs.com/) -  Impact是一款JavaScript游戏引擎，可让您为桌面和移动浏览器开发出令人惊叹的HTML5游戏.
+*：那么： [ImpactJS](http://impactjs.com/) -  Impact是一款JavaScript游戏引擎，可让您为桌面和移动浏览器开发出令人惊叹的HTML5游戏.
 * ：自由： [Inform7](http://inform7.com/) - 基于自然语言的交互式小说设计系统.
 *：那么： [Ink](http://www.inklestudios.com/ink/) - 用于编写交互式叙事的脚本语言.
 *：那么： [Irrlicht](http://irrlicht.sourceforge.net/) - 用C ++编写的开源高性能实时3D引擎.

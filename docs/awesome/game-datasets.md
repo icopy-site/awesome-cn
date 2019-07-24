@@ -61,7 +61,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) -  Roguelike冒险.
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - 战斗游戏的控制器.
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - 飞行模拟器.
-- [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - 预测球员行为的竞争.
+- [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - 预测球员行为的竞争. [Paper](https://arxiv.org/abs/1802.02301).
 - [General Video Game AI](http://www.gvgai.net/) - 用于一般视频游戏的控制器. [Paper](https://arxiv.org/abs/1802.10363).
 - [Hanabi Competition](http://hanabi.aiclash.com/) - 棋盘游戏比赛.
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - 纸牌游戏比赛.
@@ -70,6 +70,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [Malmo](https://github.com/Microsoft/malmo) - 建立在平台之上的平台 [Minecraft](https://www.minecraft.net/en-us/) 游戏.
 - [microRTS](https://github.com/santiontanon/microrts) -  RTS比赛. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](http://minidungeons.com/) - 程序性地牢式游戏.
+- [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - 合作游戏关卡编辑器. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - 吃豆人游戏比赛. [Website](https://github.com/leomaurodesenv/game-datasets/blob/master/www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) -  Liero（类似于Worms）游戏.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - 超级马里奥比赛.

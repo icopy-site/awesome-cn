@@ -7,14 +7,14 @@
     <br />
 </div>
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sporto/awesome-elm.svg)](https://travis-ci.org/sporto/awesome-elm)
+
 &gt;社区驱动的有用Elm教程，库和软件列表.
 
-灵感来自于 [awesome](#more-awesome)  列出的东西.  随意<a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+灵感来自于 [awesome](#more-awesome)  列出的东西.  随意<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
 
 
-- <a href="https://github.com/isRuslan/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献指南</a>
+- <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献指南</a>
 
 
 ## Examples
@@ -87,7 +87,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - 关于榆树的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) - 榆树常见问题解答 [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - 关于在Elm中构建应用程序从认证到调用API的教程.
 
 
@@ -110,7 +110,7 @@
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
 
 ### Outdated articles (Not relevant for current Elm architecture)
 
@@ -170,7 +170,7 @@
 * [Functional Geekery 33](https://www.functionalgeekery.com/functional-geekery-episode-33-richard-feldman-and-tessa-kelly/) - 理查德费尔德曼和泰莎凯利.
 * [The Changelog 218](https://changelog.com/218/) - 榆树与Evan Czaplicki和Richard Feldman
 * [The Changelog 191](https://changelog.com/191/) - 与理查德费尔德曼的榆树和功能编程.
-* [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - Elm with Richard Feldman and Srinivas Rao.
+* [Software Engineering Daily](http://softwareengineeringdaily.com/2015/11/03/elm-with-richard-feldman-and-srinivas-rao/) - 榆树与Richard Feldman和Srinivas Rao.
 * [JavaScript Jabber 175](https://devchat.tv/js-jabber/175-jsj-elm-with-evan-czaplicki-and-richard-feldman) - 榆树与Evan Czaplicki和Richard Feldman.
 * [Ruby Rogues 212](https://devchat.tv/ruby-rogues/212-rr-elm-with-richard-feldman-and-evan-czaplicki) - 榆树与Richard Feldman和Evan Czaplicki.
 * [The Web Platform Podcast 15](http://thewebplatform.libsyn.com/functional-programming-with-elm-clojurescript-om-and-react) - 使用Elm，ClojureScript，Om和React进行功能编程.
@@ -217,7 +217,6 @@
 ### Run Elm
 
 * [Ellie](https://ellie-app.com/) - 榆树现场编辑
-* [runelm.io](https://runelm.io) - 共享和运行Elm代码的地方.
 * [Online REPL](http://elmrepl.cuberoot.in) -  ELM在线REPL
 * [run-elm](https://github.com/jfairbank/run-elm) - 从命令行运行Elm代码
 * [elm-instant](https://atom.io/packages/elm-instant)   -  atom包从编辑器中尝试你的榆树代码.  提供可视REPL和预览窗格.
@@ -249,7 +248,7 @@
 
 ### IntelliJ
 
-* [elm-plugin](https://plugins.jetbrains.com/plugin/8192) -  IntelliJ IDEA的Elm插件.
+* [elm-plugin](https://github.com/klazuka/intellij-elm) -  IntelliJ IDEA的Elm插件.
 
 ### Sublime Text
 
@@ -329,6 +328,7 @@
 * [Elchemy](https://github.com/wende/elchemy) - 使用静态类型的类似Elm的语法编写Elixir代码
 * [Elmish](https://github.com/elmish/elmish) - Elm-like abstractions for F# apps
 * [Fabulous](https://github.com/fsprojects/Fabulous) - F# Functional App Development, using declarative dynamic UI
+* [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Redux](https://redux.js.org/introduction/prior-art) -  JavaScript应用程序的可预测状态容器.
 
@@ -348,7 +348,7 @@
 
  *免费关注新的更新.  使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
-<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://pbs.twimg.com/profile_images/696721467954692096/U9mNRM_j_400x400.png" width="100" /></a>
+<a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---
 [Official Elm](https://twitter.com/elmlang) | [Evan Czaplicki](https://twitter.com/czaplic) | [Richard Feldman](https://twitter.com/rtfeldman) | [Elm Weekly](https://twitter.com/elmweekly)
 
@@ -369,5 +369,3 @@
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-在法律允许的范围内， [@isRuslan](https://github.com/isRuslan) 已放弃对此作品的所有版权及相关或相邻权利.

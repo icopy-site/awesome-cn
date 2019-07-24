@@ -53,6 +53,7 @@
 * [Markdown Editor](https://codepen.io/ismamz/pen/wpNvmy) - 使用`localStorage`的简单降价编辑器（使用`dangerouslySetInnerHTML`）.
 * [Type The Tao Te Ching](https://github.com/callum-oakley/type-the-tao-te-ching) - 一个打字练习应用程序，其中包含道德经的段落.
 * [Serafeim's Hyperapp Tutorial](https://github.com/spapas/hyperapp-tutorial)   - 一个相当大的应用程序，可用作实际教程;  使用Django / DRF API.
+* [Home Away From Home](https://homeawayfromhome.online) - 与外国人会面的社交网络和为国外居民提供的资源.
 
 
 ## Utilities
@@ -84,4 +85,4 @@
 ## Other
 
 * [Deployable](https://github.com/lukejacksonn/deployable) - 使用Hyperapp构建的可随时部署的静态Web应用程序模板.
-* [Linkcast](https://github.com/ajaxtown/linkcast) - 使用Hyperapp构建的Chrome扩展程序，可以在组中共享链接并与脱机功能进行社交.
+* [Linkcast](https://github.com/ajaxtown/linkcast) - 使用Hyperapp构建的chrome扩展，可以在群组中共享链接并与离线功能进行社交.

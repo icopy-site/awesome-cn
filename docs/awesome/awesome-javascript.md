@@ -147,7 +147,7 @@
 * [Hatch.js](https://github.com/inventures/hatchjs) - 具有社交功能的CMS平台.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - 基于Node.js的快速简约CMS.
 * [Nodizecms](https://github.com/nodize/nodizecms) - 适用于CoffeeScript爱好者的CMS.
-* [Cody](https://github.com/jcoppieters/cody) - CMS with WSYWYG editor.
+* [Cody](https://github.com/jcoppieters/cody) - 使用WSYWYG编辑器的CMS.
 * [PencilBlue](https://github.com/pencilblue/pencilblue/) -  CMS和博客平台.
 
 ## Templating Engines
@@ -276,7 +276,7 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - 功能强大的CSV库，支持解析CSV文件/字符串以及导出为CSV.
-* [jBinary](https://github.com/jDataView/jBinary) - 具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
+* [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -  Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -  JavaScript PDF生成.
 
@@ -499,7 +499,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) - 带内置装载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 使用CSS动画加载微调器的集合
 
-除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)和发电机一样 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/)和发电机一样 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -644,7 +644,7 @@
 * [Magnific-Popup](https://github.com/dimsemenov/Magnific-Popup) - 轻便且响应迅速的灯箱脚本，专注于性能.
 * [jquery-popbox](https://github.com/gristmill/jquery-popbox) -  jQuery PopBox UI元素.
 * [jquery.avgrund.js](https://github.com/voronianski/jquery.avgrund.js) - 一个jQuery插件，带有弹出窗口的新模态概念.
-* [vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
+* [vex](https://github.com/HubSpot/vex) - 一个高度可配置且易于设计的现代对话库.
 * [bootstrap-modal](https://github.com/jschr/bootstrap-modal)   - 扩展默认的Bootstrap Modal类.  响应，可堆叠，ajax等.
 * [css-modal](https://github.com/drublic/css-modal) - 由纯CSS构建的模态.
 * [jquery-popup-overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 用于响应和可访问的模态窗口和工具提示的jQuery插件.
@@ -804,6 +804,7 @@
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - 从工作和个人经验中提取的JavaScript SDK设计指南
 * [Spotify SDK](https://github.com/loverajoel/spotify-sdk) - 面向实体的SDK，可与Spotify Web API配合使用.
+* [Square Node.js SDK](https://github.com/square/connect-nodejs-sdk/) - 用于支付和其他Square API的JavaScript客户端库.
 
 
 ## Misc

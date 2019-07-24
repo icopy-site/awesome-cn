@@ -246,7 +246,7 @@
 - [marko](https://github.com/marko-js/marko) - 基于HTML的模板引擎，可将模板编译为CommonJS模块，并支持流式，异步呈现和自定义标签.
 - [nunjucks](https://github.com/mozilla/nunjucks) - 具有继承，异步控制等的模板引擎（jinja2启发）.
 - [handlebars.js](https://github.com/wycats/handlebars.js) -  Mustpers模板的Superset，它增加了强大的功能，如助手和更高级的块.
-- [EJS](https://github.com/mde/ejs) - 简单的captinionated模板语言.
+- [EJS](https://github.com/mde/ejs) - 简单的不受任何影响的模板语言.
 - [Pug](https://github.com/pugjs/pug) - 受Haml影响的高性能模板引擎.
 
 
@@ -323,7 +323,7 @@
 	- [RxJS](https://github.com/ReactiveX/RxJS) - 反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - 将Observable转换为Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
-- 流
+- Streams
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
 - 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
@@ -382,7 +382,7 @@
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略ansi转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将短划线/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -  Escape RegExp特殊字符.
 - [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
@@ -441,7 +441,7 @@
 - [is-my-json-valid](https://github.com/mafintosh/is-my-json-valid) - 使用代码生成的JSON Schema验证器非常快.
 - [property-validator](https://github.com/nettofarah/property-validator) -  Express的简易财产验证.
 - [schema-inspector](https://github.com/Atinux/schema-inspector) -  JSON API清理和验证.
-- [ajv](https://github.com/epoberezkin/ajv)   - 最快的JSON Schema验证器.  支持v5提案.
+- [ajv](https://github.com/epoberezkin/ajv)   - 最快的JSON Schema验证器.  支持v5，v6和v7提案.
 
 
 ### Parsing
@@ -641,7 +641,7 @@
 - [node-mac](https://github.com/coreybutler/node-mac) - 将脚本作为本机Mac守护程序运行并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) - 将脚本作为本机系统服务运行并登录到syslog.
 - [node-windows](https://github.com/coreybutler/node-windows) - 将脚本作为本机Windows服务运行并登录到事件查看器.
-- [supervisor](https://github.com/petruisfan/node-supervisor) - 当脚本崩溃时重新启动脚本，或者在`* .js`文件发生更改时重新启动脚本.
+- [supervisor](https://github.com/petruisfan/node-supervisor) - 当脚本崩溃时重新启动脚本或在`* .js`文件更改时重新启动.
 - [Phusion Passenger](https://github.com/phusion/passenger) - 友好的流程管理器，直接集成到Nginx.
 
 

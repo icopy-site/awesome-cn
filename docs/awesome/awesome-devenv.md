@@ -89,7 +89,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [highlight-selected](https://github.com/richrace/highlight-selected) - 双击一个单词以在整个打开的文件中突出显示它.
 * [minimap](https://github.com/atom-minimap/minimap) - 完整源代码的图形化地图（预览）.
 * [minimap-git-diff](https://github.com/atom-minimap/minimap-git-diff) -  Atom git-diff软件包的小地图绑定.
-* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - A minimap binding for the highlight-selected package.
+* [minimap-highlight-selected](https://github.com/atom-minimap/minimap-highlight-selected) - 高亮选择包的小地图绑定.
 * [atom-project-manager](https://github.com/danielbrodin/atom-project-manager) - 轻松访问所有项目并使用项目特定设置和选项进行管理.
 * [atom-tree-view-git-status](https://github.com/subesokun/atom-tree-view-git-status) - 在Atom树视图中显示Git存储库状态.
 * [atom-pigments](https://github.com/abe33/atom-pigments) - 用于在项目和文件中显示颜色的Atom包.
@@ -108,7 +108,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - 在编辑器窗口的边缘显示已更改/添加的行.
 * [jsFormat](https://github.com/jdc0589/JsFormat) -  Javascript格式.
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) -  LiveReload插件.
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) -  Markdown语法理解和良好的配色方案.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
 * [Package Control](https://sublime.wbond.net/installation) -  Sublime Text包管理器.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - 用于运行Ruby测试的插件.
 * [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements)   -  Sublime Text侧栏的增强功能.  文件和文件夹.
@@ -120,6 +120,15 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 
 * [keymap](https://github.com/jondot/keymaps/) - 混合Vim / ReSharper / Intellij键映射
 
+### Visual Studio Code
+
+* [Dev Git Repo](https://github.com/Microsoft/vscode) -  VS Code的Github代码库 
+* [Monaco Editor Git Repo](https://github.com/microsoft/monaco-editor) - 基于浏览器的底层编辑器的Github代码库
+
+#### Extensions
+* [VS Code Extension Marketplace](https://marketplace.visualstudio.com/search?target=VSCode&category=All%20categories) - 扩展的官方网站
+* [Python extension](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - 官方Python扩展
+* [Sync settings](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) -  VS代码设置的设置和扩展同步的出色扩展
 
 ## Git
 *用于制作令人敬畏的Git体验的工具和附件*
@@ -222,3 +231,4 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
   `watch`  - 注意它作为一项服务.
 * [Zappr](https://github.com/zalando/zappr) - 通过启用/禁用拉取请求批准检查，构建GitHub集成以增强项目工作流程.
 * [ergo](https://github.com/cristianoliveira/ergo) - 简化了在不同端口上运行的多个本地服务的管理.
+* [Prodmodel](https://github.com/prodmodel/prodmodel) - 构建数据科学管道的工具.

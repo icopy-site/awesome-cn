@@ -145,7 +145,7 @@
 - [dillo-ipfs](https://git.scuttlebot.io/%25C35b%2BMlZ%2Fy5TT1e7SG66eNKEIdX5DRl9PRUxbhvO89k%3D.sha256) -  Dillo Web浏览器的IPFS集成.
 - [gatsby-plugin-ipfs](https://github.com/moxystudio/gatsby-plugin-ipfs) - 通过确保资产是相对的，增加了对Gatsby网站部署到IPFS的支持.
 - [git-remote-ipfs](https://github.com/cryptix/git-remote-ipfs) - 从/向IPFS推送/拉出存储库
-- [git-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) -  go-stellar-ipfs是一个库，它是Stellar和IPFS之间的桥梁.
+- [go-stellar-ipfs](https://github.com/aanupam23/go-stellar-ipfs) -  go-stellar-ipfs是一个库，它是Stellar和IPFS之间的桥梁.
 - [http2ipfs](https://github.com/jbenet/http2ipfs-web) - 这是一个简单的webtool，用于将URL添加到IPFS节点.
 - [ipcat](https://github.com/noffle/ipcat) - ：cat2：检索IPFS对象数据并将其发送到stdout.
 - [IPDR](https://github.com/miguelmota/ipdr) -  IPFS支持的Docker Registry
