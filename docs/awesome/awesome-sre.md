@@ -102,6 +102,7 @@
 * [SRE vs. DevOps: competing standards or close friends?](https://cloud.google.com/blog/products/gcp/sre-vs-devops-competing-standards-or-close-friends)
 * [How to Avoid the 5 SRE Implementation Traps that Catch Even the Best Teams](https://thenewstack.io/how-to-avoid-the-5-sre-implementation-traps-that-catch-even-the-best-teams/)
 * [Reliability Engineering – The Essential Discipline for Complex Systems](https://vimeo.com/344515149)
+* [The Modern Site Reliability Workbench on Top of OCI](https://www.youtube.com/watch?v=bC5dIPzNH24)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -389,7 +390,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
+* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.

@@ -32,8 +32,8 @@
 
 代码意味着成为扩展的一部分.
 
-- [webext-options-sync](https://github.com/bfred-it/webext-options-sync) - 帮助您管理和自动保存您的分机选项.
-- [webext-inject-on-install](https://github.com/bfred-it/webext-inject-on-install)   - 安装扩展时自动将内容脚本添加到现有选项卡.  Chrome + Firefox.
+- [webext-options-sync](https://github.com/fregante/webext-options-sync) - 帮助您管理和自动保存您的分机选项.
+- [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install)   - 安装扩展时自动将内容脚本添加到现有选项卡.  Chrome + Firefox.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - 用途 [redux](https://github.com/reactjs/redux) 用于管理WebExtension的状态
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -  Polyfill支持`browser`命名空间中基于标准化promise的API.
 
@@ -59,7 +59,7 @@
 ## Boilerplates
 
 - [create-webextension](https://github.com/rpl/create-webextension) -  Yarn WebExtension生成器.
-- [extensionizr.com](http://extensionizr.com) -  Web UI，可帮助您创建初始配置和文件.
+- [extensionizr.com](https://extensionizr.com) -  Web UI，可帮助您创建初始配置和文件.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) -  WebExtension生成器，可以创建跨浏览器Web扩展开发所需的一切.
 - [react-chrome-extension-boilerplate](https://github.com/jhen0409/react-chrome-extension-boilerplate) - 使用热重新加载反应样板.
 
@@ -74,6 +74,6 @@
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Federico Brigante](http://bfred.it) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Federico Brigante](https://bfred.it) 已放弃对此作品的所有版权及相关或相邻权利.

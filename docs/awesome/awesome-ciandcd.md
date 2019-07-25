@@ -17,6 +17,7 @@ devops
 * [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 * [continuousdelivery](http://continuousdelivery.com)  
 * [software integration](https://en.wikipedia.org/wiki/System_integration)  
+* [ci/cd pipeline](https://semaphoreci.com/blog/cicd-pipeline)
 * [devopsdays](http://www.devopsdays.org)  
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
 * [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
@@ -31,7 +32,7 @@ devops
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  准备工作，可扩展  
 和开发人员友好的构建服务器开箱即用  
 * [bamboo](https://www.atlassian.com/software/bamboo)   Bamboo不仅仅运行构建和测试.  它连接问题，提交，测试结果和部署，以便整个产品团队可以使用整个图片  
-* [go](http://www.go.cd)  自动化和简化构建测试 - 发布周期，以便无忧，持续地交付产品  
+* [go (the old snap-ci)](https://www.gocd.org/)  自动化和简化构建测试 - 发布周期，以便无忧，持续地交付产品  
 * [hudson](http://hudson-ci.org)  詹金斯的前一个  
 * [openbuildservice](http://openbuildservice.org)   开放构建服务（OBS）是一个通用系统，用于以自动，一致和可重现的方式从源构建和分发二进制包.  您可以为各种操作系统和硬件架构发布软件包以及更新，附加组件，设备和整个发行版  
 * [buildbot](http://trac.buildbot.net)    Buildbot是一个持续集成系统，旨在自动化构建/测试周期.  通过每次更改某些内容时自动重建和测试树，在其他开发人员因故障而感到不便之前，可以快速查明构建问题  
@@ -39,13 +40,14 @@ devops
 * [FinalBuilder](https://www.finalbuilder.com/)   使用FinalBuilder可以简化Build流程的自动化.  使用FinalBuilder，您无需编辑xml或编写脚本.  可视化地定义和调试构建脚本，然后使用Windows调度程序安排它们，或者将它们与Continua CI，Jenkins或任何其他CI服务器集成  
 * [VisualBuild](http://www.kinook.com/VisBuildPro/)  Visual Build使开发人员和构建主人能够轻松创建自动化，可重复的构建过程  
 * [cruisecontrol](http://www.cruisecontrolnet.org)  CruiseControl.NET，一种自动持续集成服务器，使用.NET Framework实现  
-* [continuum](http://continuum.apache.org/) Apache Continuum™是一款企业级持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统集成等功能  
+* [continuum](http://continuum.apache.org/) Apache Continuum™是一款企业级可持续集成服务器，具有自动构建，发布管理，基于角色的安全性以及与流行的构建工具和源代码管理系统集成等功能  
 * [quickbuild](http://www.pmease.com/)   GitHub集成.  Perforce搁置支持.  Coverity报告呈现.  颠覆外部变更检索.  资源访问信息.  显示等待步骤的原因.  自定义构建和请求列.  最喜欢的仪表板列表.  可继承的环境变量.还有更多......  
 * [rexify](http://www.rexify.org//)  perl部署和配置管理  
 * [SimpleCI](https://github.com/simpleci/simpleci)  基于Docker的自托管ci系统.  支持分布式构建缓存，外部提供程序（GCE），实时构建日志等.  
 * [pulse](http://zutubi.com) 没有免费版本.  
 * [PHP Censor](https://github.com/php-censor/php-censor) 用于PHP项目的开源自托管持续集成服务器.  
 * [rundeck](http://rundeck.org) Rundeck具有细粒度访问控制，内置作业调度程序，以及定义将命令和脚本分派给节点的工作流的功能.  
+* [cds](https://ovh.github.io/cds) CDS是一个用Go（lang）编写的企业级持续交付和DevOps自动化平台.  
 
 ## Online Build System
 在线构建发布系统  
@@ -59,7 +61,7 @@ devops
 * [buildbox](https://buildkite.com/)  简单的自托管持续集成  
 * [drone](https://drone.io) 基于Docker构建的开源持续集成平台  
 * [appveyor](http://www.appveyor.com)  繁忙Windows的持续集成和部署服务  
-* [snap-ci](https://snap-ci.com) 轻松构建，随时部署   
+* ~~[snap-ci](https://snap-ci.com) 轻松构建，在你想要的时候部署~~.
 * [codeship](https://codeship.com)  持续集成和交付变得简单  
 * [githost](https://githost.io)  无痛GitLab CE和CI主机  
 * [testling](https://ci.testling.com) 每次推送自动浏览器测试  
@@ -73,6 +75,7 @@ devops
 * [flow.ci](https://flow.ci/) -  flow.ci，为塑造未来的创新者提供持续集成和交付服务.
 * [Bitrise](https://www.bitrise.io/)  基于云的持续集成和移动交付，适用于OSS  
 * [Cirrus CI](https://cirrus-ci.org) 免费开源，支持Linux，Windows，macOS和FreeBSD，灵活的托管CI服务  
+* [semaphoreci](https://semaphoreci.com) 持续的集成和交付平台为世界上最好的工程团队提供动力  
 
 
 ## Monitoring
@@ -141,7 +144,7 @@ devops
 ## Static Check
 软件静态检查工具  
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) 维基页面  
-* [coverity](http://www.coverity.com/)  Continually measure and improve code quality and security across your development organization  
+* [coverity](http://www.coverity.com/)  持续衡量和改善整个开发组织的代码质量和安全性  
 * [fxcop](http://msdn.microsoft.com/en-us/library/bb429476%28VS.80%29.aspx)  FxCop是一个分析托管代码程序集（面向.NET Framework公共语言运行库的代码）的应用程序，并报告有关程序集的信息，例如可能的设计，本地化，性能和安全性改进  
 * [cpd](http://pmd.sourceforge.net/pmd-4.3.0/cpd.html)  重复的代码很难找到，特别是在大型项目中.  但是PMD的复制/粘贴检测器（CPD）可以为您找到它  
 * [sonar](http://www.sonarqube.org)  SonarQube是一个管理代码质量的开放平台  
@@ -193,7 +196,7 @@ Software performance analysis tools
 软件交付工具  
 * [sl-release](https://xebialabs.com/products/xl-release)   协调您的持续交付管道.  简单.  灵活.  端至端  
 * [archiva](http://archiva.apache.org/index.cgi)   Apache Archiva™是一个可扩展的存储库管理软件，可帮助您处理自己的个人或企业范围的构建工件库.  它是构建工具（如Maven，Continuum和ANT）的完美伴侣  
-* [nexus](http://www.sonatype.com/nexus)  使用存储库管理器（也称为组件管理器）可帮助软件开发团队在操作的速度，效率和质量方面实现简单的提升  
+* [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet是一个机器包管理器，有点像apt-get，但在构建时考虑到了Windows  
 * [herd](https://github.com/russss/Herd) 基于Twitter的谋杀案的单命令bittorrent分发系统     
 * [murder](https://github.com/lg/murder)  大型服务器使用来自twitter.com的BitTorrent和BitTornado库进行部署  

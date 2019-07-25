@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
- 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015捆绑包.  查看发布列以获取更多信息.
+ 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015包.  查看发布列以获取更多信息.
 
 -----------------------------------------------------------------------
 
@@ -478,7 +478,7 @@ Projects
 * [BotKube](https://github.com/infracloudio/botkube) - 可帮助您监控Kubernetes集群，调试关键部署并为标准实践提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://instana.com)
@@ -642,7 +642,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - 通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
@@ -757,6 +757,7 @@ Projects
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
 * [thesus](https://github.com/heptiolabs/theseus) - 用于比较Kubernetes对象集的命令行实用程序和可导入程序包
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)   - 一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
+* [ytt](https://github.com/k14s/ytt) -  YAML模板工具，适用于YAML结构，允许您专注于您的数据，而不是如何正确地逃避它.
 
 ## Security
 
@@ -765,7 +766,7 @@ Projects
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - 广泛采用统一Kubernetes网络政策和Istio应用政策的开源实施.
 * [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
-* [kiam](https://github.com/uswitch/kiam) -  Allows cluster users to associate AWS IAM roles to Pods.
+* [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - 寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) - 帮助构建自适应和细粒度的pod安全策略.

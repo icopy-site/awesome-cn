@@ -251,6 +251,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [auto-color-ls](https://github.com/gretzky/auto-color-ls) - 使用`colorls`自动列出目录.
 * [auto-fu.zsh](https://github.com/hchbaw/auto-fu.zsh)   - 自动完整单词和列表选择.  最初由y.fujii incr-0.2.zsh <y-fujii at mimosa-pudica.net>  .
 * [auto-ls](https://github.com/desyncr/auto-ls) - 当cding到一个新目录时自动`ls`.
+* [auto-notify](https://github.com/MichaelAquilina/zsh-auto-notify) - 在长时间运行的任务完成后自动发送通知.
 * [autodotenv](https://github.com/nocttuam/autodotenv) - 当你“cd”到包含`.env`文件的目录时，会提示你加载变量.
 * [autoenv-extended](https://github.com/zpm-zsh/autoenv) - 扩展版本 [zsh-autoenv](https://github.com/Tarrasch/zsh-autoenv) 插入.
 * [autoenv](https://github.com/Tarrasch/zsh-autoenv) - 如果一个目录包含一个`.env`文件，它会在你`cd`时自动执行.

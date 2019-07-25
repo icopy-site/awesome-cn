@@ -63,6 +63,7 @@
 - [fre:ac](https://github.com/enzo1982/freac)   -  fre：ac音频转换器项目.  ！[cpp_icon] 
 - [iTunes-Volume-Control](https://github.com/alberti42/iTunes-Volume-Control)   - 此应用程序允许您使用音量增大和音量减小热键来控制iTunes音量.  ！[objective_c_icon] 
 - [jmc](https://github.com/jcm93/jmc)   -  jmc是新的macOS媒体组织者.  ！[swift_icon] 
+- [shairport-sync](https://github.com/mikebrady/shairport-sync)   -  macOS / Linux / FreeBSD / OpenBSD Airplay音频接收器.  ！[c_icon]！[cpp_icon] 
 - [waveSDR](https://github.com/getoffmyhack/waveSDR)   - 使用RTL-SDR USB设备的macOS本机桌面软件定义无线电应用程序.  ！[swift_icon] 
 
 ### Backup
@@ -153,7 +154,7 @@
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)   -  KubeSwitch在Mac的菜单栏中列出mac上可用的kubernetes集群上下文.  ！[swift_icon] 
 - [Lantern](https://github.com/BurntCaramel/Lantern)   - 用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites)   - 用于macOS列出本地Bonjour网站的简单菜单栏（状态栏）应用程序（因为Safari 11不再具有Bonjour书签）.  ！[swift_icon] 
-- [Mockup Generator](https://github.com/andypotts/mockup-generator)   -  Mockup Generator是一个使用AngularJS / Electron构建的macOS应用程序，它位于您的菜单栏中，允许您捕获您喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
+- [Mockup Generator](https://github.com/andypotts/mockup-generator)   -  Mockup Generator是一个使用AngularJS / Electron构建的macOS应用程序，位于菜单栏中，允许您捕获您喜爱的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
 - [Now Desktop](https://github.com/zeit/now-desktop)   - 直接从托盘菜单创建部署.  ！[javascript_icon] 
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader)   - 用于将文件上载到Amazon Web Services的简单macOS应用程序.  ！[javascript_icon] 
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect)   -  macOS app允许您访问iTunesConnect.  ！[swift_icon] 

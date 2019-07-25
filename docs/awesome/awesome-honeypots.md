@@ -22,6 +22,7 @@
     - [Elastic honey](https://github.com/jordan-wright/elastichoney) - 简单的Elasticsearch蜜罐.
     - [HoneyMysql](https://github.com/xiaoxiaoleo/HoneyMysql) - 简单的Mysql蜜罐项目.
     - [MongoDB-HoneyProxy](https://github.com/Plazmaz/MongoDB-HoneyProxy) -  MongoDB蜜罐代理.
+    - [MongoDB-HoneyProxyPy](https://github.com/jwxa2015/MongoDB-HoneyProxyPy) -  python3的MongoDB蜜罐代理.
     - [NoSQLpot](https://github.com/torque59/nosqlpot) - 在NoSQL风格的数据库上构建的蜜罐框架.
     - [mysql-honeypotd](https://github.com/sjinks/mysql-honeypotd) - 用C.编写的低交互MySQL蜜罐.
     - [MysqlPot](https://github.com/schmalle/MysqlPot) -  MySQL蜜罐，还处于早期阶段.
@@ -72,7 +73,7 @@
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互Python蜜罐.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 低交互蜜罐，用于检测Oracle融合中间件的Oracle WebLogic Server组件中的CVE-2017-10271.
     - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) -  WhiteFace的基于Twisted的蜜罐.
-    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) -  Honeycomb的插件存储库，Cymmetria的蜜罐框架.
+    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
     - [honeyntp](https://github.com/fygrave/honeyntp) -  NTP记录器/蜜罐.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 观察相机蜜罐.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) -  FTP蜜罐.
@@ -117,7 +118,7 @@
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) -  Python脚本，将下载存储为Kippo SSH蜜罐数据库中的URL的所有恶意文件.
 
 - 分布式传感器部署
-    - [Modern Honey Network](https://github.com/threatstream/mhn) - 多snort和蜜罐传感器管理，使用VM网络，小型SNORT安装，隐身dionaeas和集中式服务器进行管理.
+    - [Modern Honey Network](https://github.com/threatstream/mhn) -  Multi-snort和蜜罐传感器管理，使用虚拟机网络，小型SNORT安装，隐秘的dionaeas和集中式服务器进行管理.
 
 - 网络分析工具
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - 重播网络数据包.
@@ -200,7 +201,7 @@
     - [slipm-honeypot](https://github.com/rshipp/slipm-honeypot) - 简单的低交互端口监控蜜罐.
     - [telnet-iot-honeypot](https://github.com/Phype/telnet-iot-honeypot) - 用于捕获僵尸网络二进制文件的Python telnet蜜罐.
     - [telnetlogger](https://github.com/robertdavidgraham/telnetlogger) - 用于跟踪Mirai僵尸网络的Telnet蜜罐.
-    - [vnclowpot](https://github.com/magisterquis/vnclowpot) - Low interaction VNC honeypot.
+    - [vnclowpot](https://github.com/magisterquis/vnclowpot) - 低交互VNC蜜罐.
 
 
 -  IDS签名生成
@@ -217,7 +218,7 @@
 - 中央管理工具
     - [PHARM](http://www.nepenthespharm.com/) - 管理，报告和分析分布式Nepenthes实例.
 
-- 网络连接分析仪
+- Network connection analyzer
     - [Impost](http://impost.sourceforge.net/) - 网络安全审计工具，旨在分析受感染和/或易受攻击的守护进程背后的取证. 
 
 - 蜜罐部署
@@ -297,7 +298,7 @@
 - 一台pcap分析仪
     - [Honeysnap](https://projects.honeynet.org/honeysnap/)
 
-- Network traffic redirector
+- 网络流量重定向器
     - [Honeywall](https://projects.honeynet.org/honeywall/)
 
 - 具有混合内容的蜜罐分布
@@ -309,7 +310,7 @@
 - 文件雕刻
     - [TestDisk & PhotoRec](https://www.cgsecurity.org/)
 
-- 塞贝克
+- 伤口
     - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - 基于QEMU的Sebek，一种用于高交互蜜罐的数据捕获工具.
     - [Sebek](https://projects.honeynet.org/sebek/) - 数据抓取.
     - [xebek](https://code.google.com/archive/p/xebek/) -  Sebek是Xen.

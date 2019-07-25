@@ -24,7 +24,7 @@
 * [Builtwithelm](http://builtwithelm.co/) - 使用elm构建的网站，其中包含使用Elm构建的项目和应用程序列表.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 全栈榆树应用程序与CRUD操作，身份验证，路由，分页等. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 * [Elm Example App](https://github.com/sporto/elm-example-app) - 在Elm学习基础知识的小型SPA示例
-* [TodoMVC](https://github.com/evancz/elm-todomvc) - 正确实施TodoMVC应用程序.
+* [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 * [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - 具有JSON API持久性的裸机，模块化，文档齐全的todo应用程序.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) -  TodoMVC的Fork展示了start-app， [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) 和Firebase作为后端.
 * [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) - 在Electron中对Elm TodoMVC应用程序进行了记录和测试.
@@ -87,7 +87,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - 构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - 关于榆树的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) - 榆树常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) - 关于在Elm中构建应用程序从认证到调用API的教程.
 
 
@@ -157,6 +157,13 @@
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
 
 
+## News
+
+* [Official Elm News](https://elm-lang.org/news) - 官方榆树博客
+* [Elm Weekly](http://www.elmweekly.nl/) - 关于榆树的每周通讯
+* [Elm News](https://elm-news.com/) - 所有榆树新闻在一个地方
+* [Elm Greenwood](https://elm-greenwood.com/) - 榆树包发布
+* [Elm Reddit](https://www.reddit.com/r/elm/) -  Reddit的榆树新闻
 
 ## Podcasts
 

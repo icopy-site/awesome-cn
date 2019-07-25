@@ -36,7 +36,7 @@
 - [Cron Scheduler](https://github.com/kiwicommerce/magento2-cron-scheduler) - 管理面板中运行crons的概述.
 - [MageSpecialist DevTools for Magento 2](https://github.com/magespecialist/m2-MSP_DevTools) 开发人员工具栏
 - [mage2.docker](https://github.com/aliuosio/mage2.docker) - 此安装程序为Magento 2安装基本的docker容器.如果在.env中设置了标志，也可以下载magento 2文件和样本数据.
-
+- [markshust/docker-magento](https://github.com/markshust/docker-magento) -  Mark Shust为Magento设计的Docker配置
 
 ---
 
@@ -256,7 +256,7 @@
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) -  Magento的开发者博客.
 - [Magento 2 Code Samples](https://github.com/magento/magento2-samples) - 在Magento 2中引入和演示新技术的样本.
 - [Magento 2 DevBox](https://github.com/magento/magento2devbox-web) - 由Magento建造的Dockerbox.
-- Magento Masters 2017
+-  Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - 首席技术官 [elgentos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops) - 自由职业者 [neoshops](http://neoshops.de/)
   - [Tony Brown](https://commercehero.io/tonegolf71) - 技术总监 [space48](http://www.space48.com/)
@@ -306,7 +306,7 @@
 &gt; ** Magento Extension Developers Network（ExtDN）**
 &gt; Magento扩展开发人员网络（ExtDN）是一个经过审核的扩展开发人员网络，其核心业务是
  &gt;开发和销售优质的Magento扩展.  我创建了ExtDN，为Magento扩展带来了责任和信任
- &gt;市场.  ExtDN成员同意对高标准的编码，版权和商业行为负责.
+> market. ExtDN members agree to hold themselves accountable to high standards of coding, copyright and business conduct.
 
 解释 [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-about-magento-extensions.html)
 
