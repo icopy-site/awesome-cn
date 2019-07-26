@@ -62,7 +62,7 @@
 - [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) - 剑桥大学计算机安全教授罗斯安德森写了一本非凡的教科书.
 - [Serious Cryptography](https://nostarch.com/seriouscrypto) -  Jean-Philippe Aumasson对现代加密的实用介绍.
 - [The Cryptoparty Handbook](https://unglue.it/work/141611/) - 本书提供了有关计算机和互联网安全的各种主题的综合指南.
-- [Understanding Cryptography](http://www.crypto-textbook.com/) - Often overlooked, this book is a boon for beginners to the field. It contains plenty of exercises at the end of each chapter, aimed at reinforcing concepts and cementing ideas.
+- [Understanding Cryptography](http://www.crypto-textbook.com/)   - 经常被忽视的是，这本书对初学者来说是一个福音.  它包含了每章末尾的大量练习，旨在强化概念和巩固思想.
 
 
 ### Courses
@@ -135,7 +135,7 @@
 
 ### C-sharp
 
-- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
+- [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - 通用加密库.
 - [libsodium-net](https://github.com/adamcaudill/libsodium-net) - 安全加密库，libsodium for .NET端口.
 - [Microsoft .NET Framework Cryptography Model](https://docs.microsoft.com/en-us/dotnet/standard/security/cryptography-model) - 许多标准加密算法的.NET Framework实现.
 - [PCLCrypto](https://github.com/AArnott/PCLCrypto) - 提供由平台实现的算法的加密API，包括将它们暴露给可移植库.
@@ -180,7 +180,7 @@
 
 ### Go
 
-- [crypto](https://golang.org/pkg/crypto/) - 官方网站资源.
+- [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 密码安全的在线投票.
 - [dedis/crypto](https://github.com/dedis/crypto) -  Go语言的高级加密库.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) -  Google的Keyczar密码库到Go的端口.
@@ -217,10 +217,11 @@
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于Emscripten编译的libsodium例程的纯Javascript高级API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行OpenSSL RSA加密，解密和密钥生成的Javascript库.
 - [JShashes](https://github.com/h2non/jshashes) - 用于node.js和浏览器的快速且无依赖关系的加密散列库（支持MD5，SHA1，SHA256，SHA512，RIPEMD，HMAC）.
-- [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA-Sign JavaScript Library）是一个支持RSA / RSAPSS / ECDSA / DSA签名/验证的无源加密库.
+- [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/NodeJS-Howto) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) -  libsodium编译为纯JavaScript，方便包装.
 - [libVES.js](https://github.com/vesvault/libVES) - 通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络进行安全恢复.
+- - [milagro-crypto-js](https://github.com/apache/incubator-milagro-crypto-js)   -  MCJS是一个符合标准的JavaScript加密库，除随机种子源外没有外部依赖性.  兼容nodejs和浏览器.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3，基于配对的密码学和新希望.
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - 用于NodeJS的bcrypt.
 - [OpenPGP.js](https://github.com/openpgpjs/openpgpjs) -  JavaScript的OpenPGP实现.
 - [PolyCrypt](https://github.com/polycrypt/polycrypt) -  WebCrypto API的纯JS实现.
@@ -364,7 +365,7 @@ algorithm.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) - 一系列应用的加密挑战，从非常基本的挑战开始，例如十六进制到基数64挑战，并逐渐增加抽象代数的难度.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - 密码学概述.
 - [IACR](https://www.iacr.org/) - 国际密码学研究协会是一个非营利性科学组织，其目的是进一步研究密码学和相关领域.
-- [Learn Cryptography](https://learncryptography.com/) - 致力于帮助人们了解他们日常使用的加密系统的方式和原因，而无需实现保护和保护隐私的工作.
+- [Learn Cryptography](https://learncryptography.com/) - Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - 此subreddit旨在用于围绕强加密理论和实践的链接和讨论.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - 此规范描述了用于在Web应用程序中执行基本加密操作的JavaScript API，例如散列，签名生成和验证以及加密和解密.
 
@@ -374,7 +375,7 @@ algorithm.
 
 ## License
 
-`awesome-cryptography` by [@sobolevn](https://github.com/sobolevn)
+`awesome-cryptography` [@sobolevn](https://github.com/sobolevn)
 
 在法律允许的范围内，与CC0相关联的人
 `awesome-cryptography`已放弃所有版权及相关或邻近

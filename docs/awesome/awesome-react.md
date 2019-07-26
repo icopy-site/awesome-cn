@@ -120,7 +120,8 @@
 - [ant-design](https://github.com/ant-design/ant-design) - 具有自然和确定性值的设计系统
 - [blueprint](https://github.com/palantir/blueprint) - 基于React的Web工具包
 - [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - 用于构建Microsoft Web体验的React组件
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 使用React构建的最流行的前端框架
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 使用React构建的Bootstrap组件
+- [reactstrap](https://github.com/reactstrap/reactstrap) - 简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - 官方Semantic-UI-React集成
 
 ##### React Awesome Components

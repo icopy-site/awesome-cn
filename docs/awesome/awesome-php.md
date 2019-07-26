@@ -45,7 +45,7 @@
 * [PPI Framework 2](https://github.com/ppi) - 互操作性框架.
 * [Symfony](https://symfony.com/) - 由单个组件（SF）组成的框架.
 * [Yii2](https://github.com/yiisoft/yii2/) - 另一个PHP框架.
-* [Zend Framework 2](https://framework.zend.com) - 由单个组件（ZF2）组成的另一个框架.
+* [Zend Framework 3](https://framework.zend.com/learn) - 由各个组成部分组成的框架（ZF3）.
 * [Ice](https://www.iceframework.org/) - 另一个简单快速的PHP框架作为C扩展提供.
 
 ### Framework Extras
@@ -66,7 +66,7 @@
 
 * [Aura](http://auraphp.com/) - 独立组件，完全脱离彼此和任何框架.
 * [CakePHP Plugins](https://plugins.cakephp.org/) -  CakePHP插件的目录.
-* [Hoa Project](https://hoa-project.net/En/) - Another package of PHP components.
+* [Hoa Project](https://hoa-project.net/En/) - 另一个PHP组件包.
 * [League of Extraordinary Packages](https://thephpleague.com/) -  PHP包开发组.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - 制作Symfony的组件.
 * [Zend Framework 2 Components](https://docs.zendframework.com/) - 构成Zend Framework的组件.
@@ -78,6 +78,7 @@
 * [Lumen](https://lumen.laravel.com) -  Laravel的微框架.
 * [Radar](https://github.com/radarphp/Radar.Adr) -  PHP的Action-Domain-Responder实现.
 * [Slim](https://www.slimframework.com/) - 另一个简单的微框架.
+* [Expressive](https://getexpressive.org/) -  Zend的微框架.
 
 ### Micro Framework Extras
 *与微框架和路由器相关的附加功能.*
@@ -108,7 +109,7 @@
 * [Plates](http://platesphp.com/) - 本机PHP模板库.
 * [Smarty](https://www.smarty.net/) - 补充PHP的模板引擎.
 * [Twig](https://twig.symfony.com/) - 全面的模板语言.
-* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) -  Jade模板语言的PHP实现.
 
 ### Static Site Generators
 
@@ -133,7 +134,7 @@
 
 * [Embed](https://github.com/oscarotero/Embed) - 来自任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络刮刀.
-* [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider.
+* [PHP Spider](https://github.com/mvdbos/php-spider) - 可配置且可扩展的PHP Web蜘蛛.
 
 ### Middlewares
 *使用中间件构建应用程序的库.*
@@ -153,7 +154,7 @@
 * [Uri](https://github.com/thephpleague/uri) - 另一个URL操作库.
 
 ### Email
-*Libraries for sending and parsing email.*
+*用于发送和解析电子邮件的库.*
 
 * [CssToInlineStyles](https://github.com/tijsverkoyen/CssToInlineStyles) - 用于在电子邮件模板中内联CSS的库.
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 电子邮件回复解析器库.
@@ -175,7 +176,7 @@
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - 压缩档案的统一读写器.
 
 ### Streams
-*用于处理流的库.*
+*Libraries for working with streams.*
 
 * [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象的流包装器库.
 
@@ -210,7 +211,6 @@
 * [Atoum](https://github.com/atoum/atoum) - 一个简单的测试库.
 * [Behat](http://docs.behat.org/en/v2.5/) - 行为驱动开发（BDD）测试框架.
 * [Codeception](https://github.com/Codeception/Codeception) - 完整的堆栈测试框架.
-* [DBUnit](https://github.com/sebastianbergmann/dbunit) -  PHPUnit的数据库测试库.
 * [Faker](https://github.com/fzaninotto/Faker) - 假数据生成器库.
 * [HTTP Mock](https://github.com/InterNations/http-mock) - 用于在单元测试中模拟HTTP请求的库.
 * [Kahlan](https://github.com/kahlan/kahlan) - 完整堆栈单元/ BDD测试框架，内置存根，模拟和代码覆盖支持.
@@ -305,7 +305,7 @@
 
 * [Exakat](https://github.com/exakat/exakat) -  PHP的静态分析引擎.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具.
-* [phan](https://github.com/phan/phan) - 基于PHP 7+和php-ast扩展的静态分析器.
+* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -  PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 用于创建可自定义依赖关系图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态度量库.
@@ -343,7 +343,7 @@
 ### Build Tools
 *项目构建和自动化工具.*
 
-* [Box](https://github.com/box-project/box2) - 用于构建PHAR文件的实用程序.
+* [Box](https://github.com/humbug/box) - 用于构建PHAR文件的实用程序.
 * [Construct](https://github.com/jonathantorres/construct) -  PHP项目/微包生成器.
 * [Phing](https://www.phing.info/) - 受Apache Ant启发的PHP项目构建系统.
 
@@ -445,10 +445,9 @@
 * [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM（L5）.
 * [LazyRecord](https://github.com/corneltek/LazyRecord) - 快速ORM，旨在实现简单性，可扩展性和性能.
 * [Pomm](https://github.com/chanmix51/Pomm) -  PostgreSQL的对象模型管理器.
-* [Propel](http://propelorm.org/) - 快速的ORM，迁移库和查询构建器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 轻量级，无配置的ORM.
-* [Spot2](https://github.com/spotorm/spot2) -  MySQL数据文件夹ORM.
+* [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
 
 ### Migrations
 用于帮助管理数据库模式和迁移的库.
@@ -494,7 +493,7 @@
 * [CLIFramework](https://github.com/c9s/CLIFramework)   - 命令行框架支持zsh / bash完成生成，子命令和选项约束.  它还支持phpbrew.
 * [CLImate](https://github.com/thephpleague/climate) - 用于输出颜色和特殊格式的库.
 * [Commando](https://github.com/nategood/commando) - 另一个简单的命令行opt解析器.
-* [Cron Expression](https://github.com/mtdowling/cron-expression) - A library to calculate cron run dates.
+* [Cron Expression](https://github.com/mtdowling/cron-expression) - 用于计算cron运行日期的库.
 * [GetOpt](https://github.com/getopt-php/getopt-php) - 命令行opt解析器.
 * [GetOptionKit](https://github.com/c9s/GetOptionKit) - 另一个命令行opt解析器.
 * [Hoa Console](https://github.com/hoaproject/Console) - 另一个命令行库.
@@ -521,7 +520,7 @@
 *用于处理标记的库.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - 快速且可扩展的Markdown解析器.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) -  Markdown解析器，支持完整 [CommonMark spec](https://spec.commonmark.org/).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
 * [Emoji](https://github.com/heyupdate/Emoji) - 将unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将HTML转换为Markdown.
@@ -597,7 +596,6 @@
 *实施数据结构或存储技术的库.*
 
 * [Cake Collection](https://github.com/cakephp/collection) - 简单的集合库（CP）.
-* [Collections](https://github.com/italolelis/collections) -  PHP的集合抽象库.
 * [Fractal](https://github.com/thephpleague/fractal) - 用于将复杂数据结构转换为JSON输出的库.
 * [Ginq](https://github.com/akanehara/ginq) - 另一个基于.NET LINQ的PHP库.
 * [JsonMapper](https://github.com/cweiske/jsonmapper) - 将嵌套JSON结构映射到PHP类的库.
@@ -704,7 +702,7 @@
 * [PuPHPet](https://puphpet.com/) - 用于构建PHP开发虚拟机的Web工具.
 * [Puppet](https://puppet.com/) - 服务器自动化框架和应用程序.
 * [Vagrant](https://www.vagrantup.com/) - 便携式开发环境实用程序.
-* [Docker](https://www.docker.com/) - 集装箱化平台.
+* [Docker](https://www.docker.com/) - A containerization platform.
 
 ### Virtual Machines
 *替代PHP虚拟机.*
@@ -808,7 +806,7 @@
 * [Nomad PHP Lightning Talks](https://www.youtube.com/c/nomadphp) -  PHP社区成员进行10到15分钟的闪电会谈.
 * [PHP UK Conference](https://www.youtube.com/user/phpukconference/videos) - 来自PHP英国会议的视频集.
 * [Programming with Anthony](https://www.youtube.com/playlist?list=PLM-218uGSX3DQ3KsB5NJnuOqPqc5CW2kW) - 安东尼费拉拉的视频系列.
-* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history) - 一篇讲述Facebook的Keith Adams的PHP优势的演讲.
+* [Taking PHP Seriously](https://www.infoq.com/presentations/php-history/) - 一篇讲述Facebook的Keith Adams的PHP优势的演讲.
 
 ### PHP Podcasts
 *播客专注于PHP主题.*

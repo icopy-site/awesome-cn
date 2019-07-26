@@ -206,6 +206,7 @@
 * [Stackable.js](https://github.com/johnpolacek/stacktable.js/) - 在小屏幕上堆叠表格.
 * [Stupid Table Sort](https://github.com/joequery/Stupid-Table-Plugin) - 一个愚蠢的小而简单的jQuery表分类器插件.
 * [tableExport.jquery.plugin](https://github.com/hhurz/tableExport.jquery.plugin) - 将HTML表导出为JSON，XML，CSV，TXT，SQL，Word，Excel，PNG或PDF.
+* [jquery.table-shrinker](https://github.com/VagnerDomingues/jquery.table-shrinker) - 以正确的方式使HTML表在所有设备上响应！
 
 
 ### Time and Date

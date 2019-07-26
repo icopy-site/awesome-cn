@@ -3,7 +3,7 @@
 
 人工智能（AI）课程，书籍，视频讲座和论文的精选列表.
 
-Contributions most welcome.
+贡献最受欢迎.
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
 
@@ -11,7 +11,9 @@ Contributions most welcome.
 
 
 ## Courses
-
+* [MIT: Intro to Deep Learning](https://introtodeeplearning.com) - 麻省理工学院设计的七天训练营，介绍深度学习方法和应用
+* [Deep Blueberry: Deep Learning book](https://mithi.github.io/deep-blueberry) - 免费的五周末计划，让自学者学习CNN，LSTM，RNN，VAE，GAN，DQN，A3C等深度学习架构的基础知识
+* [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -  OpenAI免费深度强化学习课程
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) -  MIT AI课程
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - 初学者的课程，学习没有框架的深度学习和神经网络.
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)   - 学习人工智能的基础知识.  课程由Peter Norvig经营
@@ -21,7 +23,7 @@ Contributions most welcome.
 * [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧.
 * [Deep Learning](https://in.udacity.com/course/deep-learning--ud730/) - 深度学习世界的入门课程. 
 * [Stanford Statistical Learning](http://online.stanford.edu/course/statistical-learning-winter-2014)   - 关于机器学习的入门课程，重点是：线性和多项式回归，逻辑回归和线性判别分析;  交叉验证和引导，模型选择和正则化方法（脊和套索）;  非线性模型，样条和广义加性模型;  基于树木的方法，随机森林和提升;  支持向量机.
-* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - Georgia Tech's course on Artificial Intelligence focussing on Symbolic AI.
+* [Knowledge Based Artificial Intelligence](https://www.udacity.com/course/knowledge-based-ai-cognitive-systems--ud409) - 佐治亚理工学院关于人工智能的课程，重点是符号AI.
 * [Deep RL Bootcamp Lectures](https://sites.google.com/view/deep-rl-bootcamp/lectures) -  Deep Reinforcement Bootcamp讲座 -  2017年8月
 * [Machine Learning Crash Course By Google](https://developers.google.com/machine-learning/crash-course/ml-intro) 机器学习速成课程包括一系列课程，包括视频讲座，实际案例研究和动手练习练习.
 * [Python Class By Google](https://developers.google.com/edu/python/)  对于想要学习Python的一点编程经验的人来说，这是一个免费课程.  该课程包括书面材料，讲座视频和许多代码练习，以练习Python编码.
@@ -43,10 +45,12 @@ Contributions most welcome.
 * [Deep Reinforcement Learning in Action](https://www.manning.com/books/deep-reinforcement-learning-in-action) -  Deep Reinforcement Learning in Action向您介绍深度强化学习的基本概念和术语，以及将其实施到您自己的项目中所需的实用技能和技巧.
 * [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) -  Grokking Deep Reinforcement Learning介绍了这种强大的机器学习方法，使用示例，插图，练习和清晰的教学. 
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action教您构建功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
+* [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - 关于如何使用Python创建实用NLP应用程序的早期访问书. 
+* [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - 早期访问书，介绍最有价值的机器学习技术.
 
 ## Books
 
-[Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - 早期访问书，提供机器学习和使用R编程语言的基础知识.
+* [Machine Learning for Mortals (Mere and Otherwise)](https://www.manning.com/books/machine-learning-for-mortals-mere-and-otherwise) - 早期访问书，提供机器学习和使用R编程语言的基础知识.
 
 ## Programming
 
@@ -61,7 +65,7 @@ Contributions most welcome.
 * [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)   - 我们的最终发明探索了对不断追求高级AI的危险.  直到现在，人类情报还没有竞争对手.  我们可以与智力相形见绌的众生共存吗？  他们会允许我们吗？
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - 谷歌工程总监雷·库兹威尔（Ray Kurzweil）探索了对大脑进行逆向工程的过程，以准确理解大脑是如何工作的，然后利用这些知识创建出色的智能机器.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)   -  1980年由philospher John Searle撰写的论文，其中包含着名的“中国室”思想实验.  可能是对拥有“心灵”或“意识”的强AI概念的最着名的攻击，以及对AI和心灵哲学交叉感兴趣的人的有趣阅读.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称性和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - 麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何影响犯罪，战争，正义，就业，社会以及我们在近期和远期都能成为人类的感觉.
 
 
@@ -70,7 +74,7 @@ Contributions most welcome.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - 本课程提供机器学习和统计模式识别的广泛介绍.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)   - 本书涵盖了人类活动的计算机模拟，如解决问题和理解自然语言;  计算机视觉;  AI工具和技术;  人工智能编程介绍;  符号和神经网络认知模型;  心灵和智慧的本质;  以及人工智能和认知科学的社会影响.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html)   - 马文·明斯基关于我们思想如何运作的开创性工作.  许多符号AI概念都是从这个基础中衍生出来的.
-* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前人工智能使用的一些教育含义，以帮助解决问题和完成任务.
+* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - 关于人工智能和机器学习的一组页面.
@@ -109,8 +113,8 @@ Contributions most welcome.
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - 免费的专业和深入的机器学习和数据科学视频教程和课程的集合
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - 免费的专业和深入的人工智能视频教程和课程的集合
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - 一系列免费的专业和深入的深度学习视频教程和课程
-* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - 入门级机器学习速成课程
-* [Awesome Graph Embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - 从图形结构化数据中学习
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
+* [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - 从图形结构化数据中学习
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 聚类图结构化数据
 * [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - 机器学习会议的决策树文件
 * [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - 机器学习会议的梯度提升论文
@@ -128,33 +132,34 @@ Contributions most welcome.
 ## Journals
 
 * [AI & Society](http://www.springer.com/journal/146)
+* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
+* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
 * [Annals of Mathematics and Artifical Intelligence](http://www.springer.com/journal/10472)
 * [Applicable Algebra in Engineering, Communication and Computing](http://www.springer.com/journal/200)
+* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
 * [Applied Intelligence](http://www.springer.com/journal/10489)
+* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
 * [Artificial Intelligence Review](http://www.springer.com/journal/10462)
+* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
 * [Automated Software Engineering](http://www.springer.com/journal/10515)
 * [Autonomous Agents and Multi-Agent Systems](http://www.springer.com/journal/10458)
 * [Computational and Mathematical Organization Theory ](http://www.springer.com/journal/10588)
+* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
 * [Evolutionary Intelligence](http://www.springer.com/journal/12065)
+* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
+* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
 * [Intelligent Industrial Systems](http://www.springer.com/engineering/robotics/journal/40903)
+* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
+* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
+* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
 * [Journal of Automated Reasoning](http://www.springer.com/journal/10817)
-* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
 * [Journal of Intelligent Information Systems ](http://www.springer.com/journal/10844)
+* [Journal on Data Semantics ](http://www.springer.com/journal/13740)
+* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 * [Minds and Machines](http://www.springer.com/journal/11023)
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
-* [Artificial Intelligence](http://www.elsevier.com/locate/artint)
-* [Journal of Artificial Intelligence Research](http://www.cs.washington.edu/research/)
-* [AI Magazine](http://www.aaai.org/Magazine/magazine.php)
-* [EXPERT—IEEE Intelligent Systems](http://ieeexplore.ieee.org/servlet/opac?punumber=9670)
-* [International Journal of Intelligent Systems](http://www.interscience.wiley.com/jpages/0884-8173/)
-* [Applied Artificial Intelligence](http://www.tandf.co.uk/journals/tf/08839514.html)
-* [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
-* [Journal of Experimental and Theoretical Artificial Intelligence ](http://www.tandf.co.uk/journals/tf/0952813X.html)
-* [Artificial Intelligence for Engineering Design, Analysis and Manufacturing](http://journals.cambridge.org/action/displayJournal?jid=AIE)
-* [AI Communications](http://iospress.metapress.com/openurl.asp?genre=journal&issn=0921-7126)
-* [International Journal on Artificial Intelligence Tools](http://www.worldscinet.com/journals/ijait/ijait.shtml)
-* [Electronic Transactions on Artificial Intelligence](http://www.etaij.org/)
-* [IEEE Transactions Automation Science and Engineering](http://www.ieee-ras.org/publications/t-ase)
+
 
 ## Competitions
 
@@ -162,6 +167,10 @@ Contributions most welcome.
 * [AI Challenge](http://aichallenge.org)
 * [AI Games](http://theaigames.com)
 * [Building JS robots](http://fightcodegame.com/)
+
+## Newsletters
+
+* [AI Digest](https://aidigest.net/) .  每周通讯，以跟上人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
 
 ## Misc
 

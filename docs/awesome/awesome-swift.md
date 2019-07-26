@@ -150,7 +150,7 @@
 [back to top](#readme) 
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - 用于编写算法和概率模型的工具集.
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 算法和数据结构，以及解释.
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
 * [SwiftLCS](https://github.com/Frugghi/SwiftLCS) ：企鹅： - 实施最长的公共子序列（LCS）算法.
 
 ### Analytics
@@ -300,7 +300,7 @@
 * [Hue](https://github.com/zenangst/Hue) -  Hue是您需要的一体化着色实用程序.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)   - 使用ANSI转义码在终端中显示样式和颜色文本.  符合ECMA标准48.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 为`UIColor`常量自动生成`enums`的工具.
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -  HEX颜色处理作为UIColor的扩展.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -  Hex到UIColor转换器.
 * [UIGradient](https://github.com/dqhieu/UIGradient) - 一个简单而强大的库，用于使用渐变图层，图像，颜色.
 
@@ -1204,7 +1204,6 @@
 * [CalendarView](https://github.com/mmick66/CalendarView) - 日历组件，它具有垂直和水平布局（和滚动）以及本机日历事件的显示.
 * [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - 用于选择日期和时间的更好的iOS UI组件.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) -  UI日历交易.
-* [Koyomi](https://github.com/shoheiyokoyama/Koyomi) - 简单的可自定义日历组件.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - 类似GitHub的工作贡献时间表.
 
 #### Cards

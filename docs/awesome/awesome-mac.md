@@ -131,9 +131,9 @@
   * [PyCharm](https://www.jetbrains.com/pycharm/) - 功能强大的Python IDE，具有专业版和社区版.
   * [Rider](https://www.jetbrains.com/rider/) - Cross-Platform C# IDE. It is an alternative to Visual Studio by Microsoft with the additional benefit of getting Resharper features that are not available on Visual Studio for Mac.
   * [WebStorm](http://www.jetbrains.com/webstorm/)   -  JetBrains最智能的JavaScript IDE.  **免费**为学生，检查 [here](https://www.jetbrains.com/student/) 了解更多信息.
-* [Haskell for Mac](http://haskellformac.com)   -  Haskell的现代开发环境.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/haskell-development-platform/id841285201）
+* [Haskell for Mac](http://haskellformac.com) - A Modern Development Environment for Haskell. [![App Store][app-store Icon]](https://itunes.apple.com/app/haskell-development-platform/id841285201)
 * [NetBeans IDE](https://netbeans.org/)   - 免费和开源IDE，主要用于Java开发，但支持许多其他语言和框架.  [！[开源软件] [OSS图标]]（https://netbeans.org/community/sources/）！[免费软件] [免费软件图标]
-* [Visual Studio Code](https://code.visualstudio.com/) - Microsoft's free & open-source editor, TypeScript friendly, [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
+* [Visual Studio Code](https://code.visualstudio.com/) - 微软的免费和开源编辑器，TypeScript友好， [VSCode Plugins](https://github.com/jaywcjlove/awesome-mac/blob/master/editor-plugin.md#vscode-plugin). [![Open-Source Software][OSS Icon]](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/viatsko/awesome-vscode#readme)
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)   - 功能齐全的IDE **免费**适用于学生，开源和个人开发人员.  ！[免费软件] [免费软件图标]
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/)   - 用于iOS / macOS开发的基本IDE.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id497799835）
@@ -182,7 +182,7 @@
 
 #### Regular Expression Editors
 
-* [Patterns](http://krillapps.com/patterns/) - Regular expression editor.
+* [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器.
 * [Regex](https://motionobj.com/regex/) - 正则表达式测试工具，强调简单性.
 * [RegExRX](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - 正则表达式的开发工具.
 
@@ -270,7 +270,7 @@
 * [Cornerstone](http://www.zennaware.com/cornerstone/) - 强大的版本控制和华丽的界面.
 * [Fork](https://git-fork.com/)   - 适用于Mac的快速友好的Git客户端.  ！[免费软件] [免费软件图标]
 * [Git Cola](https://git-cola.github.io/)   - 功能强大，快速，轻量级和友好的Git GUI.  对于那些咖啡因上瘾的用户.  ！[开源软件] [OSS图标]
-* [Gitbar](https://github.com/Shikkic/gitbar)   - 开源，在菜单栏上显示Github贡献统计数据.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Shikkic/gitbar）
+* [Gitbar](https://github.com/Shikkic/gitbar) - Open-source，display Github contribution statistics on your menu bar. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/Shikkic/gitbar)
 * [GitFinder](https://gitfinder.com/)   - 具有Finder集成功能的Mac快速轻量级Git客户端.  ！[免费软件] [免费软件图标]
 * [GitHub Desktop](https://desktop.github.com/)   - 官方GitHub GUI.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）
 * [GitKraken](https://www.gitkraken.com/) - 适用于Windows，Mac和Linux的最流行的Git GUI.
@@ -297,7 +297,7 @@
 
 * [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) - 用于在Microsoft系列本地和云数据平台（如MSSQL Server）上使用的跨平台数据库工具！[免费软件] [免费软件图标]
 * [Base 2](http://menial.co.uk/base/) - 用于创建，设计，编辑和浏览SQLite 3数据库文件的应用程序.
-* [Bdash](https://github.com/bdash-app/bdash) - Modern SQL client application, supports MySQL, PostgreSQL (Redshift) and  BigQuery.[![Open-Source Software][OSS Icon] ](https://github.com/bdash-app/bdash) ![Freeware][Freeware Icon]
+* [Bdash](https://github.com/bdash-app/bdash) - 现代SQL客户端应用程序，支持MySQL，PostgreSQL（Redshift）和BigQuery.[！[开源软件] [OSS图标]]（https://github.com/bdash-app/bdash）！[免费软件] [免费软件]图标]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin)   - 强大的Chrome应用程序来管理您的MySQL.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yoichiro/chrome_mysql_admin）
 * [Core Data Editor](https://github.com/ChristianKienle/Core-Data-Editor)   - 核心数据编辑器使您可以轻松查看，编辑和分析应用程序的数据.  [！[开源软件] [OSS图标]]（https://github.com/luin/medis）！[免费软件] [免费软件图标]
 * [DB Browser for SQLite](http://sqlitebrowser.org/)   -  SQLite数据库浏览器的官方主页.  [！[开源软件] [OSS图标]]（https://github.com/sqlitebrowser/sqlitebrowser）！[免费软件] [免费软件图标]
@@ -309,7 +309,7 @@
 * [Keylord](https://protonail.com) - 用于Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端.
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) -  MDB工具，用于打开，读取，导出MDB文件到其他格式和数据库.
 * [Medis](http://getmedis.com)   -  Redis的GUI管理器.  [！[开源软件] [OSS图标]]（https://github.com/luin/medis）
-* [Mingo](https://mingo.io/) - 易于使用的MongoDB GUI具有令人兴奋的功能.
+* [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - 简单的MongoDB GUI.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/)   - 在Mac上开始使用mongoDB的最简单方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/gcollazo/mongodbapp）
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
@@ -318,7 +318,7 @@
 * [pgModeler](https://pgmodeler.io)   - 是一个专为PostgreSQL设计的开源数据建模工具.  [！[开源软件] [OSS图标]]（https://github.com/pgmodeler/pgmodeler）！[免费软件] [免费软件图标]
 * [Postgres.app](http://postgresapp.com/)   - 在Mac上开始使用PostgreSQL的最简单方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/PostgresApp/PostgresApp）
 * [Postico](https://eggerapps.at/postico/) - 适用于Mac的现代PostgreSQL客户端.
-* [PSequel](http://www.psequel.com/) - PostgreSQL GUI tool for Mac OS X. ![Freeware][Freeware Icon]
+* [PSequel](http://www.psequel.com/) - 适用于Mac OS X的PostgreSQL GUI工具.[免费软件] [免费软件图标]
 * [RedisClient](https://github.com/UUGU/redis-client-app)   -  Mac，Windows和Linux上的Redis客户端应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/UUGU/redis-client-app）
 * [RedisDesktopManager](http://redisdesktop.com)   -  Redis的跨平台GUI管理工具.  [！[开源软件] [OSS图标]]（https://github.com/uglide/RedisDesktopManager）！[免费软件] [免费软件图标]
 * [Sequel Pro](http://www.sequelpro.com/) - 适用于Mac OS X的MySQL数据库管理.[！[开源软件] [OSS图标]]（https://github.com/sequelpro/sequelpro）！[免费软件] [免费软件图标]
@@ -410,7 +410,7 @@
 
 #### Other Tools
 
-* [APNGb](https://github.com/mancunianetz/APNGb)   -  PNG图像汇编/反汇编应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mancunianetz/APNGb）！[免费软件] [免费软件图标]
+* [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
 * [Assetizr](https://assetizr.com)   - 调整图像大小并针对Web和移动应用程序优化它们.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&amp;mt=12）
 * [Couleurs](http://couleursapp.com)   - 简单的应用程序，用于抓取和调整您在屏幕上看到的颜色.  ！[免费软件] [免费软件图标]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 采色工具，支持Retina.
@@ -424,7 +424,7 @@
 * [JPEGmini](http://www.jpegmini.com/)   - 在不影响质量的前提下，将图像尺寸缩小高达80％.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/jpegmini-lite/id525742250）！[免费软件] [免费软件图标]
 * [Mark Man](http://getmarkman.com/) - 快速测量和规格.
 * [Preset Brewery](https://www.presetbrewery.com) - 将Lightroom预设转换为Adobe Camera Raw的工具.
-* [Resize Master](http://www.boltnev.com/resizemaster/) - Batch resize and watermark your images fast and easy.  [![App Store][app-store Icon]](https://itunes.apple.com/app/resize-master/id1025306797)
+* [Resize Master](http://www.boltnev.com/resizemaster/)   - 批量调整大小并快速轻松地为图像添加水印.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/resize-master/id1025306797）
 * [RightFont](http://rightfontapp.com/) - 在Mac，Dropbox或Google Drive上预览，同步，安装和管理字体.
 * [Sip](http://theolabrothers.com/) - 收集，整理和分享您的颜色的最佳方式.
 * [Snagit](https://www.techsmith.com/snagit.html) - 简单，强大的屏幕捕获软件和屏幕录像机.
@@ -506,7 +506,7 @@
 * [Hydrogen](http://hydrogen-music.org/)   - 专为GNU / Linux而设计的简单直观的基于模式的鼓编程.  [！[开源软件] [OSS图标]]（https://github.com/hydrogen-music/hydrogen）
 * [iFFmpeg](http://www.iffmpeg.com/)   - 适用于macOS的综合媒体工具.  为每个人提供高质量的视频编码.
 * [IINA](https://lhc70000.github.io/iina/)   -  macOS的现代视频播放器.  基于mpv，强大的媒体播放器项目.  [！[开源软件] [OSS图标]]（https://github.com/lhc70000/iina）！[免费软件] [免费软件图标]
-* [Kodi](https://kodi.tv/)   - 屡获殊荣的免费和开源（GPL）软件媒体中心，用于播放视频，音乐，图片，游戏等.  [！[开源软件] [OSS图标]]（https://github.com/xbmc/xbmc）！[免费软件] [免费软件图标]
+* [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
 * [LMMS](https://www.lmms.io)  LMMS以前是“Linux MultiMedia Studio”，是一个功能强大的数字音频工作站，设计类似于FL Studio（以前的Fruity Loops）.  [！[开源软件] [OSS图标]]（https://github.com/lmms/lmms）！[免费软件] [免费软件图标]
 * [LosslessCut](https://github.com/mifi/lossless-cut)   - 使用ffmpeg进行快速无损视频和音频修剪的跨平台工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mifi/lossless-cut）
 * [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  [！[开源软件] [OSS图标]]（https://github.com/ddddxxx/LyricsX）[！[App Store] [app-store Icon]]（https://itunes.apple.com/我们/ app / lyricsx / id1254743014？mt = 12）！[免费软件] [免费软件图标]
@@ -529,7 +529,7 @@
 * [Synfig Studio](http://synfig.org)   -  Synfig Studio是免费的开源2D动画软件.  [！[开源软件] [OSS图标]]（https://github.com/synfig/synfig）！[免费软件] [免费软件图标]
 * [VLC](http://www.videolan.org/index.html)   - 免费，开源，跨平台的多媒体播放器以及播放大多数多媒体文件，DVD，音频CD，VCD和各种流媒体协议的框架.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/videolan/vlc）
 * [VOX Player](https://vox.rocks/mac-music-player)   - 适用于Mac和iPhone的高清音频播放器.  音乐听起来更好！  ！[免费软件] [免费软件图标]
-* [XLD](http://tmkk.undo.jp/xld/index_e.html) - Tool to decode, convert and play various 'lossless' audio files. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://code.google.com/archive/p/xld/source)
+* [XLD](http://tmkk.undo.jp/xld/index_e.html)   - 解码，转换和播放各种“无损”音频文件的工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://code.google.com/archive/p/xld/source）
 * [MusicPlus](https://musicplus.io)   - 免费搜索，播放和下载音乐.  ！[免费软件] [免费软件图标]
 
 ## Download Management Tools
@@ -642,7 +642,7 @@
 #### File Organization Tools
 
 * [BetterZip 3](https://macitbetter.com/)   - 存档工具支持ZIP，TAR，TGZ，TBZ，TXZ（新），7-ZIP，RAR.  ！[免费软件] [免费软件图标]
-* [eZip](http://ezip.awehunt.com)   - 免费的macOS归档程序，功能简洁但功能齐全.  支持流行的格式，如RAR，ZIP，7Z，BZ2，GZ等.适用于Mojave dark-mode和QuickLook.  ！[免费软件] [免费软件图标]
+* [eZip](http://ezip.awehunt.com)   - 易于使用，功能丰富的macOS存档程序.  支持流行的格式，如RAR，ZIP，7Z，BZ2，GZ等.适用于Mojave dark-mode和QuickLook.  ！[免费软件] [免费软件图标]
 * [Hazel](https://www.noodlesoft.com)   -  Mac的自动文件组织.  负责任和精美的设计.
 * [Keka](https://www.keka.io)   -  macOS的文件存档.  压缩：7Z，ZIP，TAR，GZIP，BZIP2，XZ LZIP，DMG，ISO.  提取：7Z，ZIP，RAR，TAR，GZIP，BZIP2，XZ，LZIP，DMG，ISO，LZMA，EXE，CAB，WIM，PAX，JAR，APK，APPX，CPGZ，CPIO.  [！[开源软件] [OSS图标]]（https://github.com/aonez/Keka）！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https： //itunes.apple.com/app/keka/id470158793）
 * [muCommander](http://www.mucommander.com)   - 具有双窗格界面的轻量级文件管理器.  [！[开源软件] [OSS图标]]（https://github.com/mucommander/mucommander）！[免费软件] [免费软件图标]
@@ -733,6 +733,7 @@
 * [fman](https://fman.io) - 第一个用于集成Sublime Text功能的双窗格文件管理器.
 * [ForkLift](http://binarynights.com/forklift/) - 用于macOS的最先进的双窗格文件管理器和文件传输客户端.
 * [Path Finder](http://www.cocoatech.com/pathfinder/) - 文件管理应用程序.
+* [QSpace](https://qspace.awehunt.com)   - 干净，高效的多视图文件管理器.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/id1469774098）
 * [TotalFinder](http://totalfinder.binaryage.com/) -  Chrome风格的Finder替代品.
 * [XtraFinder](https://www.trankynam.com/xtrafinder/)   - 添加标签并剪切到Mac Finder.  ！[免费软件] [免费软件图标]
 
@@ -773,7 +774,7 @@
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 用于管理SSH连接的应用程序.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持Mac的凉爽和健康.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 与Mac上NTFS格式的驱动器完全读写兼容.
-* [Overkill](https://github.com/KrauseFx/overkill-for-mac) - 连接iPhone时停止打开iTunes.
+* [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
 
 ## Gaming Software
 
@@ -818,7 +819,7 @@
 ### Genuine Sites
 
 * [alternativeTo](http://alternativeto.net/)   - 也是一个非常好的社区.  如果您正在寻找一些替代应用程序** FOR ** Windows或其他平台，请查看此站点.
-* [Slant](https://www.slant.co) - I personally recommend this. This is a platform where you can compare apps side-by-side, you might get an idea by seeing other users recommendations. Please contribute if you find an application from this list!
+* [Slant](https://www.slant.co)   - 我个人推荐这个.  这是一个可以并排比较应用程序的平台，您可以通过查看其他用户的建议获得一个想法.  如果您从此列表中找到应用程序，请提供帮助！
 *另外， [Quora](https://www.quora.com/), [Reddit](https://www.reddit.com)， 你知道该怎么做.
 * App Shopper：[http://appshopper.com/](http://appshopper.com/)
 * MacUpdate：[https://www.macupdate.com/](https://www.macupdate.com/)
@@ -827,7 +828,7 @@
 ### Pirated software download site blacklist
  *拒绝我的盗版.  软件供应商可以访问这些地方的权利.*
 
-* AppKed：~~`http：//www.macbed.com` ~~
+* AppKed：~~`http://www.macbed.com`~~
 * Softasm：~~`https：//softasm.com/` ~~
 
 ## Podcasts

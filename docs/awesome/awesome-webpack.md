@@ -30,7 +30,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 ### Documentation
 
 - [Webpack 1.x](http://webpack.github.io/docs/) -  Webpack 1.x文档
-- [Webpack 2.x](https://webpack.js.org//) -  Webpack 2.x文档
+- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
 
 ### Community
 
@@ -181,6 +181,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [webpack-inject-plugin](https://github.com/adierkens/webpack-inject-plugin)   - 一个webpack插件，用于动态地将代码注入到bundle中.   -  * Maintainer *：`Adam Dierkens` [！[Github] [githubicon]]（https://github.com/adierkens）
 - [Public Path Manipulation Plugin](https://github.com/agoldis/webpack-require-from) - 在运行时控制动态加载资源的`publicPath`  -  * Maintainer *：`Andrew Goldis` [！[Github] [githubicon]]（https://github.com/agoldis）
 - [Build Notifier Plugin](https://github.com/roccoc/webpack-build-notifier)   - 显示构建错误和警告的操作系统级别通知.   -  *维护者*：`Rocco Cataldo` [！[Github] [githubicon]]（https://github.com/roccoc）
+- [CSS Cleanup Webpack Plugin](https://github.com/do-web/css-cleanup-webpack-plugin) - 删除重复和未使用的css规则的插件 -  * Maintainer *：`Dominik Weber` [！[Github] [githubicon]]（https://github.com/do-web）
 - [Chrome Extension Reloader](https://github.com/rubenspgcavalcante/webpack-chrome-extension-reloader) - 开发Chrome扩展时热重新加载 -  *维护者*：`Rubens PG Cavalcante` [！[Github] [githubicon]]（https://github.com/rubenspgcavalcante）[！[Twitter] [twittericon]]（https： //twitter.com/rubenspgc）
 - [Htmls Webpack Plugin](https://github.com/zaaack/htmls-webpack-plugin) ：用于webpack的简单快速的多htmls生成插件.   -  *维护者*：`Zack Young` [！[Github] [githubicon]]（https://github.com/zaaack）[！[Twitter] [twittericon]]（https://twitter.com/ZaaackYoung）
 - [Mini css extract plugin](https://github.com/webpack-contrib/mini-css-extract-plugin):
@@ -229,7 +230,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   - 安迪Ccs |  02年1月2日 -  [Webpack and Docker for Development and Deployment.](https://medium.com/@andyccs/webpack-and-docker-for-development-and-deployment-ae0e73243db4#.2yutcm8s4)
   -  Jonathan Creamer |  08年6月8日 -  [Advanced WebPack Part 3 - Creating a custom notifier plugin.](http://jonathancreamer.com/advanced-webpack-part-3-creating-a-custom-notifier-plugin)
   - 纳德会|  07  -  15  -  [Beginner’s guide to Webpack.](https://medium.com/@dabit3/beginner-s-guide-to-webpack-b1f1a3638460#.xb01fcsoq)
-- Jonathan Creamer | 02-Sept-15 - [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
+  -  Jonathan Creamer |  02-9月15日 -  [Advanced WebPack Part 1 - The CommonsChunk Plugin.](http://jonathancreamer.com/advanced-webpack-part-1-the-commonschunk-plugin/)
   -  Maxime Fabre |  16-Oct-15  -  [Webpack your bags.](https://blog.madewithlove.be/post/webpack-your-bags/?utm_content=buffer480f4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ### Videos

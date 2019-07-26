@@ -114,7 +114,7 @@
 * [Authority](https://github.com/nathanl/authority) -  ORM中立的方式来授权您的Rails应用程序中的操作.
 * [CanCanCan](https://github.com/CanCanCommunity/cancancan) - 继续使用CanCan，Ruby on Rails的授权Gem.
 * [Declarative Authorization](https://github.com/stffn/declarative_authorization) - 授权Rails插件，使用声明性DSL在一个地方指定授权规则.
-* [Pundit](https://github.com/elabs/pundit) - 通过OO设计和纯Ruby类的最小授权.
+* [Pundit](https://github.com/elabs/pundit) - Minimal authorization through OO design and pure Ruby classes.
 
 ## Automation
 
@@ -161,7 +161,7 @@
 * [Betty](https://github.com/pickhardt/betty)   - 为您的命令行提供类似英语的友好界面.  不记得命令？  问贝蒂.
 * [colorize](https://github.com/fazibear/colorize) - 扩展String类或使用方法添加ColorizedString以设置文本颜色，背景颜色和文本效果.
 * [colorls](https://github.com/athityakumar/colorls) - 美化`ls`命令，使用颜色和字体很棒的图标.
-* [formatador](https://github.com/geemus/formatador) - STDOUT text formatting.
+* [formatador](https://github.com/geemus/formatador) -  STDOUT文本格式.
 * [Paint](https://github.com/janlelis/paint) - 设置ANSI终端颜色的简单快捷方式.
 * [Pastel](https://github.com/peter-murach/pastel) - 终端输出样式，直观，干净的API.
 * [Ru](https://github.com/tombenner/ru) - 你的shell中的Ruby.
@@ -177,6 +177,7 @@
 * [AWS SDK for Ruby](https://github.com/aws/aws-sdk-ruby) - 适用于Ruby的官方AWS SDK.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - 多提供商Rails引擎，提供对云存储中文件的访问.
 * [Fog](https://github.com/fog/fog) -  Ruby云服务库.
+* [humidifier](https://github.com/kddeisz/humidifier) - 以编程方式生成和管理AWS CloudFormation模板，堆栈和更改集.
 
 ## CMS
 * [Alchemy CMS](https://alchemy-cms.com) - 功能强大，用户友好且灵活的开源Rails CMS.
@@ -201,7 +202,6 @@
 * [Pronto](https://github.com/mmozuras/pronto) - 对您的更改进行快速自动代码审查.
 * [rails_best_practices](https://github.com/railsbp/rails_best_practices) - 用于rails项目的代码度量工具.
 * [Reek](https://github.com/troessner/reek) -  Ruby的代码气味检测器.
-* [RuboCop](https://github.com/rubocop-hq/rubocop) - 基于社区Ruby样式指南的静态代码分析器.
 * [Rubycritic](https://github.com/whitesmith/rubycritic) -  Ruby代码质量记者.
 * [Scientist](https://github.com/github/scientist) - 用于仔细重构关键路径的Ruby库.
 * [SimpleCov](https://github.com/colszowka/simplecov) -  Ruby 1.9+的代码覆盖范围，具有强大的配置库和跨测试套件的自动合并范围.
@@ -209,9 +209,14 @@
 * [Suture](https://github.com/testdouble/suture) - 一个Ruby gem，可帮助您重构遗留代码.
 * [Traceroute](https://github.com/amatsuda/traceroute) - 一个Rake任务gem，可以帮助您找到Rails 3+应用程序的死路径和操作
 
+## Code Formatting
+
+* [prettier](https://github.com/prettier/plugin-ruby) - 一个更漂亮的Ruby语言插件.
+* [RuboCop](https://github.com/rubocop-hq/rubocop) - 基于社区Ruby样式指南的静态代码分析器.
+
 ## Code Highlighting
 
-* [CodeRay](https://github.com/rubychan/coderay) - 为所选语言快速轻松地语法突出显示.
+* [CodeRay](https://github.com/rubychan/coderay) - Fast and easy syntax highlighting for selected languages.
 * [pygments.rb](https://github.com/tmm1/pygments.rb) -  Python pygments语法高亮显示的Ruby包装器.
 * [Rouge](https://github.com/jneen/rouge) - 与Pygments兼容的纯Ruby代码荧光笔.
 
@@ -271,7 +276,7 @@
 * [normalize_country](https://github.com/sshaw/normalize_country) - 将国家/地区名称和代码转换为标准，包括XML，CSV和DB的转换程序.
 * [Phonelib](https://github.com/daddyz/phonelib) - 使用Google libphonenumber库数据进行电话验证和格式化的Ruby gem.
 * [Phony](https://github.com/floere/phony) - 快速国际电话号码（E164标准）规范化，分割和格式化.
-* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) - Postal code / zipcode validation for Rails, supporting 233 country codes.
+* [validates_zipcode](https://github.com/dgilperez/validates_zipcode) -  Rails的邮政编码/邮政编码验证，支持233个国家/地区代码.
 
 ## CRM
 
@@ -354,7 +359,7 @@
 ## Debugging Tools
 
 * [Byebug](https://github.com/deivid-rodriguez/byebug) - 一个简单易用，功能丰富的Ruby 2调试器.
-* [did_you_mean](https://github.com/yuki24/did_you_mean) - 向错误消息添加类，方法和属性建议.
+* [did_you_mean](https://github.com/yuki24/did_you_mean) - Adds class, method & attribute suggestions to error messages.
 * [Pry Byebug](https://github.com/deivid-rodriguez/pry-byebug) - 通过byebug撬导航命令.
 * [pry-rails](https://github.com/rweng/pry-rails)   - 避免重复自己，使用pry-rails而不是将初始化程序复制到每个rails项目.  这是一个小宝石，导致rails控制台打开撬.  因此，它取决于撬.
 * [Rails Footnotes](https://github.com/josevalim/rails-footnotes) -  Rails脚注在您的应用程序中显示脚注，以便于调试，例如会话，请求参数，cookie，过滤器链，路由，查询等.
@@ -435,7 +440,7 @@
 * [Gepub](https://github.com/skoji/gepub) -  Ruby的通用EPUB库：支持EPUB 3.
 * [Git Scribe](https://github.com/schacon/git-scribe) - 基本上是编写电子书的最佳方式.
 * [Mobi](https://github.com/jkongie/mobi) - 一种读取MOBI格式元数据的Ruby方法.
-* [Review](https://github.com/kmuto/review) -  Re：VIEW是灵活的文档格式/转换系统.
+* [Review](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system.
 
 ## Email
 
@@ -479,7 +484,7 @@
 ## Error Handling
 
 * [Airbrake](https://github.com/airbrake/airbrake) - 用于Ruby on Rails的官方Airbrake库（以及其他基于Rack的框架）.
-* [Better Errors](https://github.com/charliesome/better_errors) -  Rack应用程序的错误页面更好.
+* [Better Errors](https://github.com/charliesome/better_errors) - Better error page for Rack apps.
 * [Bugsnag](https://github.com/bugsnag/bugsnag-ruby) -  Rails，Sinatra，Rack和普通Ruby应用程序的错误监控.
 * [Errbit](https://github.com/errbit/errbit) - 开源，自托管错误捕获器.
 * [Exception Handler](https://github.com/richpeck/exception_handler) - 自定义错误页面.
@@ -516,7 +521,7 @@
 ## Form Builder
 
 * [Abracadabra](https://github.com/TrevorHinesley/abracadabra) - 只需单击即可与完全兼容的Rails表单交换文本的gem.
-* [Cocoon](https://github.com/nathanvda/cocoon)   - 使用jQuery的动态嵌套表单变得简单;  使用formtastic，simple_form或默认表单.
+* [Cocoon](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
 * [Formtastic](https://github.com/justinfrench/formtastic) - 具有语义丰富且可访问标记的Rails表单构建器插件.
 * [Rails Bootstrap Forms](https://github.com/bootstrap-ruby/rails-bootstrap-forms) -  Rails表单构建器，使用Twitter Bootstrap 3+创建漂亮的表单非常容易.
 * [Reform](https://github.com/apotonick/reform)   - 为您提供带有验证和嵌套模型设置的表单对象.  它完全与框架无关，并不关心您的数据库.
@@ -572,12 +577,12 @@
 * [Nokogiri](https://nokogiri.org) - 具有XPath和CSS选择器支持的HTML，XML，SAX和Reader解析器.
 * [Oga](https://github.com/YorickPeterse/oga)   - 用Ruby编写的XML / HTML解析器.  Oga不需要libxml等系统库，因此可以更轻松，更快地在各种平台上安装.
 * [Ox](https://github.com/ohler55/ox) - 快速XML解析器和Object marshaller.
-* [ROXML](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
+* [ROXML](https://github.com/Empact/roxml) - 使用注释样式类方法，通过Nokogiri或LibXML在Ruby和XML之间自定义映射和双向编组.
 
 ## HTTP Clients and tools
 
 * [excon](https://github.com/excon/excon)   - 可用，快速，简单的Ruby HTTP 1.1.  它作为一般的HTTP客户端非常有用，特别适合在API客户端中使用.
-* [Faraday](https://github.com/lostisland/faraday) -  HTTP客户端lib，它通过许多适配器（例如Net :: HTTP）提供通用接口，并在处理请求/响应周期时包含Rack中间件的概念.
+* [Faraday](https://github.com/lostisland/faraday) -  HTTP客户端lib，通过许多适配器（如Net :: HTTP）提供通用接口，并在处理请求/响应周期时包含Rack中间件的概念.
 * [Device Detector](https://github.com/podigee/device_detector) - 精确且快速的用户代理解析器和设备检测器，由最大和最新的用户代理数据库提供支持.
 * [Http Client](https://github.com/nahi/httpclient) - 在Ruby中提供类似libwww-perl（LWP）的功能.
 * [HTTP](https://github.com/httprb/http) -  HTTP Gem：用于发出HTTP请求的简单Ruby DSL.
@@ -622,7 +627,7 @@
 
 ## IRB
 
-* [Clipboard](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
+* [Clipboard](https://github.com/janlelis/clipboard) - 访问Linux，MacOS和Windows上的系统剪贴板.
 * [Hirb](https://github.com/cldwalker/hirb)   - 控制台/ irb的迷你视图框架，即使在其影响下也易于使用.  控制台好东西包括一个无包装表，自动寻呼机，树和菜单.
 * [irbtools](https://github.com/janlelis/irbtools) -  Ruby IRB的改进.
 * [Looksee](https://github.com/oggy/looksee)   - 用于说明对象的祖先和方法查找路径的工具.  方便探索不熟悉的代码库.
@@ -647,7 +652,7 @@
 
 * [AI4R](https://github.com/sergiofierens/ai4r) - 涵盖多个人工智能领域的算法.
 * [Awesome Machine Learning with Ruby](https://github.com/arbox/machine-learning-with-ruby) -  Ruby机器学习链接和资源的策划列表.
-* [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
+* [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) -  PredictionIO Ruby SDK提供了一个方便的API，可以快速记录用户的行为并检索用户的个性化预测.
 * [rb-libsvm](https://github.com/febeling/rb-libsvm)   -  LIBSVM的Ruby语言绑定.  SVM是一种机器学习和分类算法.
 * [ruby-fann](https://github.com/tangledpath/ruby-fann) - 用于与FANN（快速人工神经网络）连接的Ruby库.
 * [rumale](https://github.com/yoshoku/rumale) - 具有类似于Scikit-Learn的接口的机器学习库.
@@ -671,9 +676,9 @@
 * [fastlane](https://github.com/fastlane/fastlane) - 将所有iOS部署工具连接到一个简化的工作流程中.
 * [Ruboto](https://github.com/ruboto/ruboto) - 使用Ruby语言和库为Android开发完整的独立应用程序的平台.
 * [RubyMotion](http://www.rubymotion.com) - 革命性的工具链，可让您快速开发和测试适用于iPhone，iPad，Mac和Android的完整原生iOS和OS X应用程序.
-* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
+* [Ruby Push Notifications](https://github.com/calonso/ruby-push-notifications) -  iOS，Android和Windows Phone推送通知变得简单.
 * [Rpush](https://github.com/rpush/rpush) -  Ruby推送通知服务，支持Apple推送通知服务，Google云消息传递，亚马逊设备消息传递和Windows Phone推送通知服务.
-* [webpush](https://github.com/zaru/webpush) - 用于Web推送协议的加密实用程序
+* [webpush](https://github.com/zaru/webpush) - Encryption Utilities for Web Push protocol
 
 ## Money
 
@@ -946,7 +951,7 @@
   * [BioRuby](https://github.com/bioruby/bioruby) - 用于开发生物信息学软件的库.
   * [bloomfilter-rb](https://github.com/igrigorik/bloomfilter-rb) -  Ruby中的BloomFilter：本机计数过滤器+ Redis计数/非计数过滤器.
   * [decisiontree](https://github.com/igrigorik/decisiontree) - 一个ruby库，它实现了决策树学习的ID3（信息增益）算法.
-* Utilities
+*实用程序
   * [algorithms](https://github.com/kanwei/algorithms) - 包含何时使用特定结构/算法的文档的库.
   * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持UTF-8字符串的Jaro-Winkler距离算法的Ruby＆C实现.
   * [primes-utils](https://github.com/jzakiya/primes-utils) - 一个Rubygem，它提供了一套非常快速的实用方法，用于测试和生成素数.
@@ -969,7 +974,7 @@
 * [Searchlogic](https://github.com/binarylogic/searchlogic) - 基于对象的搜索，常见的命名范围以及ActiveRecord的其他有用的命名范围工具.
 * [Sunspot](https://github.com/sunspot/sunspot) - 一个Ruby库，用于与Solr搜索引擎进行富有表现力的强大交互.
 * [textacular](https://github.com/textacular/textacular)   - 公开PostgreSQL的全文搜索功能，并允许您声明全文索引.  Textacular使用named_scope方法扩展ActiveRecord，使搜索变得轻松有趣！
-* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - A library for connecting ActiveRecord to the Sphinx full-text search tool.
+* [Thinking Sphinx](https://github.com/pat/thinking-sphinx) - 用于将ActiveRecord连接到Sphinx全文搜索工具的库.
 
 ## Security
 
@@ -1114,9 +1119,9 @@
 * [soundcloud-ruby](https://github.com/soundcloud/soundcloud-ruby) - 适用于Ruby的官方SoundCloud API包装器.
 * [t](https://github.com/sferik/t) -  Twitter的命令行电源工具.
 * [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具.
-* [tweetstream](https://github.com/tweetstream/tweetstream) - 一个用于使用Twitter的Streaming API的简单库.
+* [tweetstream](https://github.com/tweetstream/tweetstream) - A simple library for consuming Twitter's Streaming API.
 * [twilio-ruby](https://github.com/twilio/twilio-ruby) - 用于使用Twilio REST API并生成有效TwiML的模块.
-* [twitter](https://github.com/sferik/twitter) -  Twitter API的Ruby接口.
+* [twitter](https://github.com/sferik/twitter) - A Ruby interface to the Twitter API.
 * [wikipedia](https://github.com/kenpratt/wikipedia-client) -  Wikipedia API的Ruby客户端.
 * [Yt](https://github.com/Fullscreen/yt) - 面向对象的YouTube API V3的Ruby客户端.
 
@@ -1163,12 +1168,13 @@
 
 ## Web Servers
 
+* [Agoo](https://github.com/ohler55/agoo) - 用于Ruby的高性能HTTP服务器，包括GraphQL和WebSocket支持.
 * [Goliath](https://github.com/postrank-labs/goliath) - 非阻塞的Ruby Web服务器框架.
 * [Iodine](https://github.com/boazsegev/iodine) - 针对Linux / BDS / macOS和Ruby MRI优化的非阻塞HTTP和Websocket Web服务器.
 * [Phusion Passenger](https://www.phusionpassenger.com) - 快速而强大的Web服务器和应用程序服务器.
 * [Puma](https://github.com/puma/puma) -  Ruby的现代并发Web服务器.
 * [Rack](http://rack.github.io)   - 一个常见的Ruby Web服务器接口.  它本身就是一个规范和实用程序库，但所有Ruby Web服务器都实现了这个接口.
-* [Reel](https://github.com/celluloid/reel) - Celluloid::IO-powered web server.
+* [Reel](https://github.com/celluloid/reel) -  Celluloid :: IO支持的Web服务器.
 * [Thin](http://code.macournoyer.com/thin) - 微小，快速和有趣的HTTP服务器.
 * [TorqueBox](https://github.com/torquebox/torquebox) - 基于JBoss AS7和JRuby构建的Ruby应用服务器.
 * [Unicorn](http://unicorn.bogomips.org) - 用于快速客户端和Unix的机架HTTP服务器.

@@ -31,7 +31,7 @@
 
 #### IRC
 
--  IRC频道在`irc.freenode.org`上： [#composer](https://webchat.freenode.net/?channels=composer) 对于用户和 [#composer-dev](https://webchat.freenode.net/?channels=composer-dev) 发展.
+-  IRC频道在`irc.freenode.org`上： [#composer](https://webchat.freenode.net/#composer) 对于用户和 [#composer-dev](https://webchat.freenode.net/#composer-dev) 发展.
 
 ---------------------------------------------------------
 
@@ -78,6 +78,7 @@
 - [PHP Inc](https://github.com/krakphp/php-inc) - 自动包含autoload和autoload-dev文件，以便于在编写器加载的应用程序中使用函数和分组定义.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - 使您可以在不同的编写器存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - 防止将开发包添加到require和进入生产环境中.
+- [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - 一次防止多个安装或更新操作.
 
 ## Tools
 

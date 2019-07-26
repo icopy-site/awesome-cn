@@ -73,7 +73,7 @@
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互Python蜜罐.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 低交互蜜罐，用于检测Oracle融合中间件的Oracle WebLogic Server组件中的CVE-2017-10271.
     - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) -  WhiteFace的基于Twisted的蜜罐.
-    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) -  Honeycomb的插件存储库，Cymmetria的蜜罐框架.
     - [honeyntp](https://github.com/fygrave/honeyntp) -  NTP记录器/蜜罐.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 观察相机蜜罐.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) -  FTP蜜罐.
@@ -99,6 +99,7 @@
     - [NOVA](https://github.com/DataSoft/Nova) - 使用蜜罐作为探测器，看起来像一个完整的系统.
     - [OpenFlow Honeypot (OFPot)](https://github.com/upa/ofpot) - 将未使用的IP的流量重定向到基于POX构建的蜜罐.
     - [OpenCanary](https://github.com/thinkst/opencanary) - 模块化和分散式蜜罐守护程序，运行多个服务版本的服务，在服务（ab）使用时发出警报.
+    - [ciscoasa_honeypot](https://github.com/cymmetria/ciscoasa_honeypot) 用于Cisco ASA组件的低交互蜜罐，能够检测CVE-2018-0101，DoS和远程代码执行漏洞. 
     - [miniprint](https://github.com/sa7mon/miniprint) - 中型交互式打印机蜜罐.
 
 - 僵尸网络C2工具
@@ -117,8 +118,8 @@
 - 恶意软件收集器
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) -  Python脚本，将下载存储为Kippo SSH蜜罐数据库中的URL的所有恶意文件.
 
-- 分布式传感器部署
-    - [Modern Honey Network](https://github.com/threatstream/mhn) -  Multi-snort和蜜罐传感器管理，使用虚拟机网络，小型SNORT安装，隐秘的dionaeas和集中式服务器进行管理.
+- Distributed sensor deployment
+    - [Modern Honey Network](https://github.com/threatstream/mhn) - 多snort和蜜罐传感器管理，使用VM网络，小型SNORT安装，隐身dionaeas和集中式服务器进行管理.
 
 - 网络分析工具
     - [Tracexploit](https://code.google.com/archive/p/tracexploit/) - 重播网络数据包.
