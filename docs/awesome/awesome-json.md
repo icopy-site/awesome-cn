@@ -23,6 +23,7 @@
 * [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github](https://github.com/tulios/json-viewer)） - 这是一个用于打印JSON和JSONP的Chrome扩展程序.
 * [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) ([github](https://github.com/platy/json-browser/)） - 在JSON模式的帮助下浏览JSON Web.
 * [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github](https://github.com/rapee/jsonfinder)） - 像在Finder中一样浏览.
+* [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related?hl=en) - 一个开源Chrome扩展程序，用于浏览带有语法突出显示和折叠的JSON，或者作为可视图形.
 
 **Firefox**
 * [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
@@ -301,7 +302,7 @@
 * [ObjectPath](http://objectpath.org/)   - 半结构化数据的敏捷查询语言.  （蟒蛇）
 * [DefiantJS](https://www.defiantjs.com/)   - 使用XPath表达式进行快速搜索，并使用XSL进行转换.  （JavaScript）
 * [JSONSelect](https://github.com/lloyd/JSONSelect)   - 类似CSS的选择器.  （JavaScript）
-* [JSONPath](https://goessner.net/articles/JsonPath/)   -  XPath实现.  （使用Javascript / PHP）
+* [JSONPath](https://goessner.net/articles/JsonPath/)   -  XPath实现.  （Java脚本/ PHP）
 * [searchjs](https://github.com/deitch/searchjs) - 基于类似json SQL的语言进行过滤的库.
 * [json-rel](https://github.com/slurmulon/json-where) -  JSON中的透明引用.
 * [JSONata](http://jsonata.org/) -  Node-RED中使用的查询和转换语言，支持函数表达式.

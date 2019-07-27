@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="mojoaxel/awesome-regression-testing"></div>
 ## Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的视觉回归测试资源列表.
+> Curated list of awesome visual regression testing resources.
 
  回归测试是一种软件测试，用于验证先前开发和测试的软件在更改或与其他软件接口后仍然执行相同的操作.  回归测试的目的是确保软件的更改不会引入新的错误.
 
@@ -42,6 +42,7 @@
 - [CSSCritic](https://github.com/cburgmer/csscritic) - 轻量级CSS回归测试.
 - [Spectre](https://github.com/wearefriday/spectre) - 提供图像比较功能和管理界面，用于管理屏幕截图.
 - [Shoov](https://github.com/shoov/shoov) - 关注Drupal 7站点的UI回归和功能测试.
+- [qd_screenshottests](https://www.drupal.org/project/qd_screenshottests) - 基于CasperJS的UI回归和功能测试，重点关注Drupal 8站点.
 - [OcularJS](https://github.com/mmacartney10/ocularjs) - 用途 [PhantomJS](https://github.com/ariya/phantomjs).
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) -  WebdriverCSS位于顶部 [Webdriver.io](https://github.com/webdriverio/webdriverio/) 并挂钩 [Selenium](https://github.com/SeleniumHQ/selenium).
 - [Look-alike](https://github.com/kdzwinel/Look-alike) - 用于获取和比较屏幕截图的Chrome扩展程序.
@@ -62,7 +63,7 @@
 - [ResembleJS](https://github.com/Huddle/Resemble.js) - 使用Javascript和HTML5分析和比较图像.
 - [Muppeteer](https://github.com/HuddleEng/Muppeteer) - 使用Chrome的视觉回归测试框架 [Mocha](https://mochajs.org/) 和 [Puppeteer](https://github.com/GoogleChrome/puppeteer).
 - [ember-visual-test](https://github.com/Cropster/ember-visual-test) - 简单的视觉回归测试 [Ember](https://emberjs.com/).
-- [AET](https://github.com/Cognifide/aet) - Scalable testing tool providing visual regression testing, accessibility and performance validation, markup analysis and more.
+- [AET](https://github.com/Cognifide/aet) - 可扩展的测试工具，提供可视化回归测试，可访问性和性能验证，标记分析等.
 - [Wendigo](https://github.com/angrykoala/wendigo) - 基于Puppeteer的面向测试的浏览器自动化库.
 - [Loki](https://github.com/oblador/loki) - 在docker等人中使用Chrome进行故事书的视觉回归测试.
 - [Zombie.js](http://zombie.js.org/) - 使用Node.js进行疯狂快速的无头全栈测试.

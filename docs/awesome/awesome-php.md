@@ -109,7 +109,7 @@
 * [Plates](http://platesphp.com/) - 本机PHP模板库.
 * [Smarty](https://www.smarty.net/) - 补充PHP的模板引擎.
 * [Twig](https://twig.symfony.com/) - 全面的模板语言.
-* [Tale Jade](https://github.com/Talesoft/tale-jade) -  Jade模板语言的PHP实现.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
 
 ### Static Site Generators
 
@@ -122,11 +122,11 @@
 
 * [Buzz](https://github.com/kriswallsmith/Buzz) - 另一个HTTP客户端.
 * [Guzzle](https://github.com/ziadoz/awesome-php/blob/master/ https://github.com/guzzle/guzzle) - 全面的HTTP客户端.
-* [HTTPFul](https://github.com/nategood/httpful) - 可链接的HTTP客户端.
 * [HTTPlug](http://httplug.io) -  HTTP客户端抽象，不绑定到特定实现.
 * [PHP VCR](https://php-vcr.github.io/) - 用于记录和重放HTTP请求的库.
 * [Requests](https://github.com/rmccue/Requests) - 一个简单的HTTP库.
 * [Retrofit](https://github.com/tebru/retrofit-php) - 用于简化REST API客户端创建的库.
+* [Symfony HTTP Client](https://github.com/symfony/http-client) - 同步或异步获取HTTP资源的组件.
 * [zend-diactoros](https://github.com/zendframework/zend-diactoros) -  PSR-7 HTTP消息实现.
 
 ### Scraping
@@ -134,6 +134,7 @@
 
 * [Embed](https://github.com/oscarotero/Embed) - 来自任何Web服务或页面的信息提取器.
 * [Goutte](https://github.com/FriendsOfPHP/Goutte) - 一个简单的网络刮刀.
+* [Symfony Panther](https://github.com/symfony/panther) - 用于PHP和Symfony的浏览器测试和Web爬网库.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 可配置且可扩展的PHP Web蜘蛛.
 
 ### Middlewares
@@ -160,7 +161,7 @@
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 电子邮件回复解析器库.
 * [Email Validator](https://github.com/nojacko/email-validator) - 一个小型电子邮件地址验证库.
 * [Fetch](https://github.com/tedious/Fetch) -  IMAP库.
-* [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化
+* [Mautic](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案.
 * [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) 和 [M和rill](https://www.m和rill.com).
 * [SwiftMailer](https://swiftmailer.symfony.com) - 邮件解决方案.
@@ -176,7 +177,7 @@
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - 压缩档案的统一读写器.
 
 ### Streams
-*Libraries for working with streams.*
+*用于处理流的库.*
 
 * [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象的流包装器库.
 
@@ -238,7 +239,6 @@
 * [SemaphoreCI](https://semaphoreci.com/) - 开源和私有项目的持续集成平台.
 * [Shippable](https://www.shippable.com/) - 基于Docker的开源和私有项目的持续集成平台.
 * [Travis CI](https://travis-ci.org/) - 持续集成平台.
-* [Wercker](https://devcenter.wercker.com/) - 持续集成平台.
 
 ### Documentation
 *用于生成项目文档的库.*
@@ -305,7 +305,7 @@
 
 * [Exakat](https://github.com/exakat/exakat) -  PHP的静态分析引擎.
 * [Mondrian](https://github.com/Trismegiste/Mondrian) - 使用图论的代码分析工具.
-* [phan](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan](https://github.com/phan/phan) - 基于PHP 7+和php-ast扩展的静态分析器.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -  PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 用于创建可自定义依赖关系图的工具.
 * [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态度量库.
@@ -334,7 +334,8 @@
 * [PHP Console](https://github.com/Seldaek/php-console) - 一个Web调试控制台.
 * [PHP Debug Bar](http://phpdebugbar.com/) - 调试工具栏.
 * [PHPBench](https://github.com/phpbench/phpbench) - 基准框架.
-* [Tideways.io](https://tideways.com/) - 监控和分析工具
+* [PHPSpy](https://github.com/adsr/phpspy) - 低开销的采样分析器.
+* [Tideways.io](https://tideways.com/) - 监控和分析工具.
 * [Tracy](https://github.com/nette/tracy) - 简单的错误检测，记录和时间测量库.
 * [xDebug](https://github.com/xdebug/xdebug) -  PHP的调试和配置文件工具.
 * [XHProf](https://github.com/phacility/xhprof) - 最初由Facebook开发的分析工具.
@@ -373,7 +374,7 @@
 
 * [GeoCoder](https://geocoder-php.org/) - 地理编码库.
 * [GeoJSON](https://github.com/jmikola/geojson) -  GeoJSON实现.
-* [GeoTools](https://github.com/thephpleague/geotools) - 与地理相关的工具库.
+* [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理图书馆.
 
 ### Date and Time
@@ -387,7 +388,6 @@
 
 ### Event
 *事件驱动的库或实现非阻塞事件循环.*
-
 * [Amp](https://github.com/amphp/amp) - 事件驱动的非阻塞I / O库.
 * [Broadway](https://github.com/broadway/broadway) - 事件源和CQRS库.
 * [Cake Event](https://github.com/cakephp/event) - 事件调度程序库（CP）.
@@ -400,6 +400,7 @@
 * [Ratchet](https://github.com/ratchetphp/Ratchet) -  Web套接字库.
 * [React](https://github.com/reactphp/react) - 事件驱动的非阻塞I / O库.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - 反应式扩展库.
+* [Swoole](https://github.com/swoole/swoole-src) - 一个事件驱动的异步和并发网络通信框架，具有用C语言编写的PHP的高性能.
 * [Workerman](https://github.com/walkor/Workerman) - 事件驱动的非阻塞I / O库.
 
 ### Logging
@@ -442,12 +443,11 @@
 * [Cake ORM](https://github.com/cakephp/orm) -  Object-Relational Mapper，使用DataMapper模式（CP）实现.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - 一系列Doctrine行为扩展.
 * [Doctrine](https://www.doctrine-project.org/) - 全面的DBAL和ORM.
-* [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM（L5）.
-* [LazyRecord](https://github.com/corneltek/LazyRecord) - 快速ORM，旨在实现简单性，可扩展性和性能.
+* [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
 * [Pomm](https://github.com/chanmix51/Pomm) -  PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 轻量级，无配置的ORM.
-* [Spot2](https://github.com/spotorm/spot2) - A MySQL datamapper ORM.
+* [Spot2](https://github.com/spotorm/spot2) -  MySQL数据文件夹ORM.
 
 ### Migrations
 用于帮助管理数据库模式和迁移的库.
@@ -462,7 +462,7 @@
 *使用“NoSQL”后端的库.*
 
 * [PHPMongo](https://github.com/sokil/php-mongo) -  MongoDB ORM.
-* [Predis](https://github.com/nrk/predis) - 功能齐全的Redis库.
+* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
 
 ### Queue
 *用于处理事件和任务队列的库.*
@@ -520,7 +520,7 @@
 *用于处理标记的库.*
 
 * [Cebe Markdown](https://github.com/cebe/markdown) - 快速且可扩展的Markdown解析器.
-* [CommonMark PHP](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](https://spec.commonmark.org/).
+* [CommonMark PHP](https://github.com/thephpleague/commonmark) -  Markdown解析器，支持完整 [CommonMark spec](https://spec.commonmark.org/).
 * [Decoda](https://github.com/milesj/decoda) - 轻量级标记解析器库.
 * [Emoji](https://github.com/heyupdate/Emoji) - 将unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将HTML转换为Markdown.
@@ -629,6 +629,19 @@
 * [Aura.Intl](https://github.com/auraphp/Aura.Intl) - 提供国际化（I18N）工具，特别是面向包的每个区域的消息转换.
 * [Cake I18n](https://github.com/cakephp/i18n) - 日期和数字的消息转换和本地化（CP）
 
+### Serverless
+*帮助构建无服务器Web应用程序的库和工具.*
+
+* [Bref](https://bref.sh/) -  AWS Lambda上的无服务器PHP.
+* [OpenWhisk](http://openwhisk.apache.org/) - 开源无服务器云平台.
+* [Serverless Framework](https://serverless.com/framework/) - 用于构建无服务器应用程序的开源框架.
+
+## Configuration
+*用于配置的库和工具.**
+
+* [PHP Dotenv](https://github.com/vlucas/phpdotenv) - 从.env`文件中解析并加载环境变量.
+* [Symfony Dotenv](https://github.com/symfony/dotenv)- 从.env`文件中解析并加载环境变量.
+
 ### Third Party APIs
 *用于访问第三方API的库.*
 
@@ -676,7 +689,7 @@
 * [Slimdump](https://github.com/webfactory/slimdump) - 一个简单的MySQL转储工具.
 * [Spork](https://github.com/kriswallsmith/spork) - 一个分叉库的过程.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 允许序列化闭包的库.
-* [Symfony VarDumper](https://symfony.com/doc/current/components/var_dumper.html) - 可变自卸车组件（SF）.
+* [Symfony VarDumper](https://github.com/symfony/var-dumper) - 可变自卸车组件（SF）.
 * [Underscore](https://anahkiasen.github.io/underscore-php/) -  Underscore JS库的PHP端口.
 * [Whoops](https://github.com/filp/whoops) - 一个漂亮的错误处理库.
 
@@ -702,7 +715,7 @@
 * [PuPHPet](https://puphpet.com/) - 用于构建PHP开发虚拟机的Web工具.
 * [Puppet](https://puppet.com/) - 服务器自动化框架和应用程序.
 * [Vagrant](https://www.vagrantup.com/) - 便携式开发环境实用程序.
-* [Docker](https://www.docker.com/) - A containerization platform.
+* [Docker](https://www.docker.com/) - 集装箱化平台.
 
 ### Virtual Machines
 *替代PHP虚拟机.*
@@ -752,7 +765,7 @@
 * [PHP Mentoring](https://php-mentoring.org/) - 点对点PHP导师组织.
 * [PHP Package Development Standards](http://php-pds.com) -  PHP的包开发标准.
 * [PHP School](https://www.phpschool.io/) -  PHP的开源学习.
-* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) -  PHP安全性指南.
+* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
 * [PHP The Right Way](https://phptherightway.com/) -  PHP最佳实践快速参考指南.
 * [PHP UG](https://php.ug) - 帮助人们找到最近的PHP用户组（UG）的网站.
 * [PHP Versions](http://phpversions.info/) - 列出几个流行的Web主机上可用的PHP版本.

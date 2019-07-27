@@ -34,7 +34,7 @@
 
 - [webext-options-sync](https://github.com/fregante/webext-options-sync) - 帮助您管理和自动保存您的分机选项.
 - [webext-inject-on-install](https://github.com/fregante/webext-inject-on-install)   - 安装扩展时自动将内容脚本添加到现有选项卡.  Chrome + Firefox.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - 用途 [redux](https://github.com/reactjs/redux) 用于管理WebExtension的状态
+- [redux-webext](https://github.com/ivantsov/redux-webext) - 用途 [redux](https://github.com/reactjs/redux) 用于管理WebExtension的状态.
 - [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) -  Polyfill支持`browser`命名空间中基于标准化promise的API.
 
 ## Tools
@@ -42,7 +42,7 @@
 可帮助您管理扩展程序的应用.
 
 - [Chrome Webstore Upload](https://github.com/DrewML/chrome-webstore-upload-cli) - 通过cli（或Travis，自动）将扩展程序上传到Chrome网上应用店.
-- [mozilla/web-ext](https://github.com/mozilla/web-ext) 用于帮助构建，运行和测试WebExtensions的命令行工具.
+- [mozilla/web-ext](https://github.com/mozilla/web-ext) - 用于帮助构建，运行和测试WebExtensions的命令行工具.
 - [chromepet](https://github.com/ZenHubIO/chromepet) - 在您的新版本发布时收到通知.
 - [chrome-ext-downloader](https://github.com/jiripospisil/chrome-ext-downloader) - 在Chrome网上应用店下载任何扩展程序，了解他们是如何做到的.
 - [unzip-crx](https://github.com/peerigon/unzip-crx) - 解压谷歌Chrome（crx）文件.
@@ -58,6 +58,7 @@
 
 ## Boilerplates
 
+- [browser-extension-template](https://github.com/notlmn/browser-extension-template) - 带有webpack，选项处理程序和自动发布的Barebones样板文件.
 - [create-webextension](https://github.com/rpl/create-webextension) -  Yarn WebExtension生成器.
 - [extensionizr.com](https://extensionizr.com) -  Web UI，可帮助您创建初始配置和文件.
 - [generator-web-extension](https://github.com/HaNdTriX/generator-web-extension) -  WebExtension生成器，可以创建跨浏览器Web扩展开发所需的一切.

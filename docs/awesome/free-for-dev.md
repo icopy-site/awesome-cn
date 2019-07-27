@@ -227,7 +227,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [bitninja.io](https://bitninja.io/) - 通过黑名单保护僵尸网络，免费计划仅报告每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) - 身份即服务（IDaaS），单点登录身份提供商，云SSO IdP，3个公司应用和5个个人应用，无限用户
   * [logintc.com](https://www.logintc.com/) - 推送通知的双因素身份验证（2FA），10个用户免费，VPN，网站和SSH
-  * [report-uri.io](https://report-uri.io/) -  CSP和HPKP违规报告
+  * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
   * [cloudsploit.com](https://cloudsploit.com/) - 亚马逊网络服务（AWS）安全和合规性审计和监控
   * [Have I been pwned?](https://haveibeenpwned.com) - 用于获取有关违规信息的REST API.
   * [Internet.nl](https://internet.nl) - 测试现代互联网标准，如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
@@ -427,7 +427,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
 
 ## DNS
 
-  * [freedns.afraid.org](https://freedns.afraid.org/) — Free DNS hosting
+  * [freedns.afraid.org](https://freedns.afraid.org/) - 免费DNS托管
   * [dns.he.net](https://dns.he.net/) - 具有动态DNS支持的免费DNS托管服务
   * [luadns.com](https://www.luadns.com/) - 免费DNS托管，3个域名，所有功能都有合理的限制
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
@@ -540,7 +540,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [landen.co](https://www.landen.co)   - 为您的创业公司生成，编辑和发布漂亮的网站和登录页面.  所有没有代码.  免费套餐允许您拥有一个网站，可完全自定义并在网络上发布.
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
@@ -596,6 +596,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
 ## Analytics, Events and Statistics
 
    * [analytics.google.com](https://analytics.google.com/) - 谷歌分析
+   * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) - 免费热图工具，以了解UI / UX.
    * [heapanalytics.com](https://heapanalytics.com/)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
    * [sematext.com](https://sematext.com//search-analytics) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
    * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限的测试

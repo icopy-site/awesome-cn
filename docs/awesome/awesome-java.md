@@ -359,6 +359,7 @@
 
 *协助创建HTTP请求和/或绑定响应的库.*
 
+- [Armeria](https://github.com/line/armeria) - 基于Java 8，Netty，HTTP / 2，Thrift和gRPC构建的异步RPC / REST客户端/服务器库.
 - [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) - 异步HTTP和WebSocket客户端库.
 - [Feign](https://github.com/Netflix/feign) - 受Retrofit，JAXRS-2.0和WebSocket启发的HTTP客户端绑定器.
 - [OkHttp](https://square.github.io/okhttp) -  HTTP + SPDY客户端.
@@ -393,6 +394,7 @@
 - [Thumbnailator](https://github.com/coobird/thumbnailator) - 高质量的缩略图生成库.
 - [TwelveMonkeys](https://github.com/haraldk/TwelveMonkeys) - 插件集合，扩展了支持的图像文件格式的数量.
 - [ZXing](https://github.com/zxing/zxing) - 多格式1D / 2D条形码图像处理库.
+- [image-comparison](https://github.com/romankh3/image-comparison) - 比较具有相同尺寸的两个图像，并通过绘制矩形在视觉上显示差异.
 
 ### JSON
 
@@ -746,7 +748,7 @@
 - [rest.li](https://github.com/linkedin/rest.li) - 使用类型安全绑定和异步，非阻塞IO构建强大，可扩展的RESTful架构的框架，其中包含端到端开发人员工作流程，可促进清洁实践，统一界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -  JAX-RS规范的完全认证和可移植实现.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -  JBoss Netty HTTP堆栈上的瘦包装器，提供扩展和性能.
-- [Restlet Framework](https://github.com/restlet/restlet-framework-java) - 具有强大路由和过滤功能的先锋框架，以及统一的客户端和服务器API.
+- [Restlet Framework](https://github.com/restlet/restlet-framework-java) - Pioneering framework with powerful routing and filtering capabilities, and a unified client and server API.
 - [Spark](http://sparkjava.com) -  Sinatra灵感的框架.
 - [Crnk](http://www.crnk.io) - 实施JSON API规范，以构建面向资源的REST端点，包括排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等.
 - [Swagger](https://swagger.io) - 与REST API的标准，语言无关的接口.
@@ -797,7 +799,7 @@
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭据，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 
@@ -930,7 +932,7 @@
 - [Guava](https://github.com/google/guava) - 集合，缓存，基元支持，并发库，通用注释，字符串处理，I / O等.
 - [JADE](http://jade.tilab.com) - 用于构建和调试多代理系统的框架和环境.
 - [JavaVerbalExpressions](https://github.com/VerbalExpressions/JavaVerbalExpressions) - 有助于构建困难的正则表达式的库.
-- [JGit](https://eclipse.org/jgit) - A lightweight, pure Java library implementing the Git version control system.
+- [JGit](https://eclipse.org/jgit) - 实现Git版本控制系统的轻量级纯Java库.
 - [minio-java](https://github.com/minio/minio-java) - 提供简单的API以访问任何与Amazon S3兼容的对象存储服务器.
 - [Protégé](https://protege.stanford.edu) - 提供本体编辑器和构建基于知识的系统的框架.
 - [Underscore-java](https://github.com/javadev/underscore-java) -  Underscore.js函数的端口.

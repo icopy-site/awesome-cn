@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  992 |  2019年7月23日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  991 |  2019年7月26日
 
 
 
@@ -150,7 +150,7 @@
 [back to top](#readme) 
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - 用于编写算法和概率模型的工具集.
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures, with explanations.
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 算法和数据结构，以及解释.
 * [SwiftLCS](https://github.com/Frugghi/SwiftLCS) ：企鹅： - 实施最长的公共子序列（LCS）算法.
 
 ### Analytics
@@ -300,7 +300,7 @@
 * [Hue](https://github.com/zenangst/Hue) -  Hue是您需要的一体化着色实用程序.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)   - 使用ANSI转义码在终端中显示样式和颜色文本.  符合ECMA标准48.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 为`UIColor`常量自动生成`enums`的工具.
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -  HEX颜色处理作为UIColor的扩展.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -  Hex到UIColor转换器.
 * [UIGradient](https://github.com/dqhieu/UIGradient) - 一个简单而强大的库，用于使用渐变图层，图像，颜色.
 
@@ -511,7 +511,7 @@
 * [Device](https://github.com/Ekhoo/Device) - 用于检测当前设备和屏幕尺寸的轻型工具.
 * [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级库，用于检测已使用的设备.
 * [DeviceKit](https://github.com/devicekit/DeviceKit) -  DeviceKit是UIDevice的值类型替代品.
-* [Luminous](https://github.com/andrealufino/Luminous) - 获取有关设备的所有信息.
+* [Luminous](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
 * [Thingy](https://github.com/bojan/Thingy) - 现代设备检测和查询库.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) -  UIDevice扩展，填补缺少的部分.
 
@@ -543,7 +543,7 @@
 * [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)   - 期货和承诺.  使用方便.  高度可组合.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - 事件发射器和侦听器的实现.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - 未来/承诺图书馆.
-* [Katana](https://github.com/BendingSpoons/katana-swift) - 将应用程序写入React和Redux.
+* [Katana](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
 * [LightweightObservable](https://github.com/fxm90/LightweightObservable) - 可以订阅的可观察序列的轻量级实现.
 * [NoticeObserveKit](https://github.com/marty-suzuki/NoticeObserveKit) -  NoticeObserveKit是类型安全的NotificationCenter包装器，它将通知类型与信息类型相关联.
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
@@ -672,7 +672,7 @@
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示带触摸或基于运动的控件的球形或圆柱形全景图库.
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - 完全可自定义的照片查看器ViewController，可显示受Facebook照片查看器启发的单张照片或照片集.
 * [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) -  Facebook专辑照片选择器.
-* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - 一种简单的图像播放方式.
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 * [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) - 一个现代，简单和零依赖的照片选择器，具有优雅和可定制的图像编辑器
 * [gifu](https://github.com/kaishin/gifu) - 高性能的动画GIF支持iOS.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) -  GPUImage 2是一个获得BSD许可的GPU加速视频和图像处理框架.
@@ -707,7 +707,7 @@
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - 裁剪任何形状的图像.
 
 ### Key Value Coding
-*用于键值编码的库* [back to top](#readme) 
+*Libraries for key-value coding* [back to top](#readme) 
 
 
 ### Keyboard
@@ -1156,7 +1156,7 @@
 * [KRAlertController](https://github.com/krimpedance/KRAlertController) - 适用于iOS的漂亮警报控制器.
 * [Loaf](https://github.com/schmidyy/Loaf) - 简单的iOS Toast框架.
 * [NotificationBanner](https://github.com/Daltron/NotificationBanner) - 在iOS中显示高度可自定义的应用通知横幅的最简单方法.
-* [PMAlertController](https://github.com/pmusolino/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
+* [PMAlertController](https://github.com/pmusolino/PMAlertController) -  PMAlertController是UIAlertController的优秀和可定制的替代品.
 * [PopupDialog](https://github.com/orderella/PopupDialog)   - 一个简单的，可自定义的弹出对话框.  替换UIAlertController警报样式.
 * [SCLAlertView](https://github.com/vikmeup/SCLAlertView-Swift) - 动画警报视图.
 * [Sheet](https://github.com/ParkGwangBeom/Sheet) - 具有导航功能的操作表，例如Flipboard App.
@@ -1195,7 +1195,7 @@
 * [PMSuperButton](https://github.com/pmusolino/PMSuperButton) - 具有超强功能的强大UIButton，可从Storyboard自定义.
 * [RadioGroup](https://github.com/yonat/RadioGroup) - 缺少iOS单选按钮组.
 * [SwiftShareBubbles](https://github.com/takecian/SwiftShareBubbles) - 动画社交分享按钮控制iOS.
-* [TransitionButton](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+* [TransitionButton](https://github.com/AladinWay/TransitionButton) - 用于加载和转换动画的UIButton子类.
 
 #### Calendar
 [back to top](#readme) 
@@ -1240,7 +1240,7 @@
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类，它可以更新自己，使以前的格式更容易.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
 * [Nantes](https://github.com/instacart/Nantes) -  TTTAttributedLabel替换.
-* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字的标签视图.
+* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
 * [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
 * [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -  iOS的三角形角标签视图.
@@ -1514,7 +1514,7 @@
 * [Cabbage](https://github.com/VideoFlint/Cabbage) - 构建在AVFoundation之上的视频合成框架.
 * [Kitsunebi](https://github.com/noppefoxwolf/Kitsunebi) - 使用OpenGLES叠加Alpha通道视频动画播放器视图.
 * [MMPlayerView](https://github.com/MillmanY/MMPlayerView) - 自定义AVPlayerLayer视图和转换播放器，具有良好的效果，如YouTube和Facebook.
-* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
+* [MobilePlayer](https://github.com/mobileplayer/mobileplayer-ios) - 适用于iOS的功能强大且完全可定制的媒体播放器.
 * [NextLevelSessionExporter](https://github.com/NextLevel/NextLevelSessionExporter) - 导出和转码媒体.
 * [Player](https://github.com/piemonte/Player) -  iOS视频播放器，用于播放和流媒体的简单组件.
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 使用UIView轻松使用视频播放器，管理再现速率，屏幕截图和回调 - 代表播放器状态.
@@ -1526,4 +1526,4 @@
 
 ### Contributing
 
-请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors); you rock!!
+请快速浏览一下 [contribution guidelines](https://github.com/matteocrippa/awesome-swift/blob/master/.github/CONTRIBUTING.md)  第一.  如果您在此处看到不再维护或不合适的软件包或项目，请提交拉取请求以改进此文件.  谢谢你们 [contributors](https://github.com/matteocrippa/awesome-swift/graphs/contributors) ;  你摇滚!!

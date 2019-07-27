@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="meitar/awesome-cybersecurity-blueteam"></div>
 ## Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-&gt;为网络安全蓝队提供了一系列精彩的资源，工具和其他闪亮的东西.
+> A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是识别信息技术系统中的安全缺陷，验证安全措施的有效性以及监控系统以确保实施的防御措施在未来仍然有效的个人群体.  虽然不是排他性的，但这个列表却严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
@@ -18,6 +18,7 @@
 - [python-dshield](https://github.com/rshipp/python-dshield) -  Internet Storm Center / DShield API的Pythonic接口.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - 用于构建与恶意软件沙箱的集成的最小，一致的Python API.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - 用于序列化和反序列化结构化威胁信息eXpression（STIX）JSON内容的Python API，以及用于常见任务的更高级API.
+- [libcrafter](https://github.com/pellegre/libcrafter) - 高级C ++网络数据包嗅探和制作库.
 
 ## Communications security (COMSEC)
 
@@ -106,6 +107,8 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## Network Security Monitoring (NSM)
 
+也可以看看 [awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools).
+
 - [Bro](https://www.bro.org/) - 强大的网络分析框架，侧重于安全监控.
 - [ChopShop](https://github.com/MITRECND/chopshop) - 帮助分析师创建和执行基于pynids的解码器和APT行业探测器的框架.
 - [Maltrail](https://github.com/stamparm/maltrail) - 恶意网络流量检测系统.
@@ -168,7 +171,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源数据集合并组合成一种可自定义的标准化CSV格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - 可扩展的工具，用于从威胁源（包括Twitter，RSS源或其他来源）中提取和聚合IOC.
-- [Unfetter](https://nsacyber.github.io/unfetter/) - Identifies defensive gaps in security posture by leveraging Mitre's ATT&CK framework.
+- [Unfetter](https://nsacyber.github.io/unfetter/) - 利用Mitre的ATT和CK框架，确定安全状况的防御性差距.
 - [Viper](https://github.com/viper-framework/viper) - 二进制分析和管理框架，可轻松组织恶意软件并利用样本.
 
 ## Tor Onion service defenses
