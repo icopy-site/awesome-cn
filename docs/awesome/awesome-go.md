@@ -302,7 +302,7 @@
 * [goleveldb](https://github.com/syndtr/goleveldb) - 实施 [LevelDB](https://github.com/google/leveldb) Go中的键/值数据库.
 * [gorocksdb](https://github.com/kapitan-k/gorocksdb) -  Gorocksdb是一个包装 [RocksDB](https://rocksdb.org) 写在Go.
 * [groupcache](https://github.com/golang/groupcache) -  Groupcache是​​一个缓存和缓存填充库，在许多情况下用作memcached的替代品.
-* [influxdb](https://github.com/influxdb/influxdb) - 用于指标，事件和实时分析的可扩展数据存储.
+* [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 * [ledisdb](https://github.com/siddontang/ledisdb) -  Ledisdb是一款基于LevelDB的高性能NoSQL，如Redis.
 * [levigo](https://github.com/jmhodges/levigo) -  Levigo是LevelDB的Go包装器.
 * [moss](https://github.com/couchbase/moss) -  Moss是一个简单的LSM键值存储引擎，用100％Go编写.
@@ -382,7 +382,7 @@
     * [go-sqlite3](https://github.com/mattn/go-sqlite3) - 用于使用数据库/ sql的SQL的SQLite3驱动程序.
     * [gofreetds](https://github.com/minus5/gofreetds)   -  Microsoft MSSQL驱动程序.  去封装 [FreeTDS](http://www.freetds.org).
     * [goracle](https://github.com/go-goracle/goracle) - 使用ODPI-C驱动程序的Go的Oracle驱动程序.
-    * [pgx](https://github.com/jackc/pgx) - PostgreSQL driver supporting features beyond those exposed by database/sql.
+    * [pgx](https://github.com/jackc/pgx) -  PostgreSQL驱动程序支持数据库/ sql暴露的功能.
     * [pq](https://github.com/lib/pq) - 用于数据库/ sql的Pure Go Postgres驱动程序.
 
 * NoSQL数据库
@@ -402,7 +402,7 @@
     * [gomemcache](https://github.com/bradfitz/gomemcache/) - 用于Go编程语言的memcache客户端库.
     * [gorethink](https://github.com/dancannon/gorethink) - 转到RethinkDB的语言驱动程序.
     * [goriak](https://github.com/zegl/goriak) - 去Riak KV的语言驱动程序.
-    * [mgo](https://github.com/globalsign/mgo) - （未维护）Go语言的MongoDB驱动程序，它根据标准Go语言在非常简单的API下实现丰富且经过良好测试的功能选择.
+    * [mgo](https://github.com/globalsign/mgo) - （未维护）Go语言的MongoDB驱动程序，它根据标准Go习惯用非常简单的API实现了丰富且经过良好测试的功能选择.
     * [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) -  Go语言的官方MongoDB驱动程序.
     * [neo4j](https://github.com/cihangir/neo4j) - 休息Neo4j的API绑定Golang.
     * [Neo4j-GO](https://github.com/davemeehan/Neo4j-GO) -  Neo4j的REST客户端在golang.
@@ -495,7 +495,7 @@
 
 *实现电子邮件创建和发送的库和工具.*
 
-* [chasquid](https://blitiri.com.ar/p/chasquid) - 用Go编写的SMTP服务器.
+* [chasquid](https://blitiri.com.ar/p/chasquid) - SMTP server written in Go.
 * [douceur](https://github.com/aymerick/douceur) -  HTML电子邮件的CSS内联.
 * [email](https://github.com/jordan-wright/email) -  Go强大而灵活的电子邮件库.
 * [go-dkim](https://github.com/toorop/go-dkim) -  DKIM库，用于签署和验证电子邮件.
@@ -682,7 +682,7 @@
 * [oversight](https://cirello.io/oversight) -  Oversight是Erlang监督树的完整实现.
 * [parallel-fn](https://github.com/rafaeljesus/parallel-fn) - 并行运行功能.
 * [pool](https://github.com/go-playground/pool) - 有限的消费者goroutine或无限goroutine池，更容易goroutine处理和取消.
-* [queue](https://github.com/AnikHasibul/queue)   - 为您提供类似队列组可访问性的`sync.WaitGroup`.  帮助您限制和限制goroutines，等待所有goroutines的结束等等.
+* [queue](https://github.com/AnikHasibul/queue)   - 为您提供类似于队列组可访问性的`sync.WaitGroup`.  帮助您限制和限制goroutines，等待所有goroutines的结束等等.
 * [routine](https://github.com/x-mod/routine) - 使用上下文，支持进行例行控制：Main，Go，Pool和一些有用的Executors.
 * [semaphore](https://github.com/kamilsk/semaphore) - 基于通道和上下文的锁定/解锁操作超时的信号量模式实现.
 * [semaphore](https://github.com/marusama/semaphore) - 基于CAS的快速可调整大小的信号量实现（比基于通道的信号量实现更快）.
@@ -1391,7 +1391,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [GoSpec](https://github.com/orfjackal/gospec) -  Go编程语言的BDD风格测试框架.
     * [gospecify](https://github.com/stesla/gospecify)   - 这提供了用于测试Go代码的BDD语法.  任何使用过像rspec这样的库的人都应该很熟悉.
     * [gosuite](https://github.com/pavlo/gosuite) - 通过利用Go1.7的Subtests为轻量级测试套件提供设置/拆卸设施以“测试”.
-    * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - A collection of packages to augment the go testing package and support common patterns.
+    * [gotest.tools](https://github.com/gotestyourself/gotest.tools) - 一组包，用于扩充go测试包并支持常见模式.
     * [Hamcrest](https://github.com/rdrdr/hamcrest) - 声明性Matcher对象的流畅框架，当应用于输入值时，会生成自描述结果.
     * [httpexpect](https://github.com/gavv/httpexpect) - 简明，声明且易于使用的端到端HTTP和REST API测试.
     * [jsonassert](https://github.com/kinbiko/jsonassert) - 用于验证您的JSON有效负载是否已正确序列化的包.
@@ -1713,6 +1713,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [govalidator](https://github.com/thedevsaddam/govalidator)   - 使用简单的规则验证Golang请求数据.  受到Laravel的请求验证的启发.
 * [jio](https://github.com/faceair/jio) -  jio是一个类似的json模式验证器 [joi](https://github.com/hapijs/joi).
 * [ozzo-validation](https://github.com/go-ozzo/ozzo-validation) - 支持使用通常的代码构造中指定的可配置和可扩展的验证规则来验证各种数据类型（结构，字符串，映射，切片等），而不是结构标记.
+* [terraform-validator](https://github.com/thazelart/terraform-validator) -  Terraform的规范和约定验证器.
 * [validate](https://github.com/gookit/validate)   -  Go包用于数据验证和过滤.  支持验证Map，Struct，Request（Form，JSON，url.Values，Uploaded Files）数据和更多功能.
 * [validate](https://github.com/gobuffalo/validate) - 此包提供了为Go应用程序编写验证的框架.
 * [validator](https://github.com/go-playground/validator) - 进行结构和场验证，包括交叉场，交叉结构，地图，切片和阵列潜水.

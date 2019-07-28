@@ -69,7 +69,7 @@
 * [Hoa Project](https://hoa-project.net/En/) - 另一个PHP组件包.
 * [League of Extraordinary Packages](https://thephpleague.com/) -  PHP包开发组.
 * [Symfony Components](https://symfony.com/doc/master/components/index.html) - 制作Symfony的组件.
-* [Zend Framework 2 Components](https://docs.zendframework.com/) - 构成Zend Framework的组件.
+* [Zend Framework Components](https://docs.zendframework.com/) - 构成Zend Framework的组件.
 
 ### Micro Frameworks
 *微框架和路由器.*
@@ -161,7 +161,7 @@
 * [Email Reply Parser](https://github.com/willdurand/EmailReplyParser) - 电子邮件回复解析器库.
 * [Email Validator](https://github.com/nojacko/email-validator) - 一个小型电子邮件地址验证库.
 * [Fetch](https://github.com/tedious/Fetch) -  IMAP库.
-* [Mautic](https://github.com/mautic/mautic) - Email marketing automation
+* [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个邮件解决方案.
 * [Stampie](https://github.com/Stampie/Stampie) - 电子邮件服务库，如 [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) 和 [M和rill](https://www.m和rill.com).
 * [SwiftMailer](https://swiftmailer.symfony.com) - 邮件解决方案.
@@ -231,14 +231,14 @@
 ### Continuous Integration
 *用于持续集成的库和应用程序.*
 
-* [CircleCI](https://circleci.com) - 持续集成平台.
+* [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitlabCi](https://about.gitlab.com/product/continuous-integration/)   - 让GitLab CI测试，构建，部署您的代码.  TravisCi喜欢.
 * [Jenkins](https://jenkins.io/index.html) - 一个持续的集成平台 [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 用PHP编写并由Docker提供支持的持续集成客户端.
 * [PHPCI](https://github.com/dancryer/phpci) -  PHP的开源持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 开源和私有项目的持续集成平台.
 * [Shippable](https://www.shippable.com/) - 基于Docker的开源和私有项目的持续集成平台.
-* [Travis CI](https://travis-ci.org/) - 持续集成平台.
+* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
 
 ### Documentation
 *用于生成项目文档的库.*
@@ -431,7 +431,8 @@
 
 * [PHPPowerPoint](https://github.com/PHPOffice/PHPPresentation) - 用于使用Microsoft PowerPoint演示文稿的库.
 * [PHPWord](https://github.com/PHPOffice/PHPWord) - 用于处理Microsoft Word文档的库.
-* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 用于读写电子表格文件的纯PHP库（PHPExcel的后继者）
+* [PHPSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet) - 用于读取和编写电子表格文件的纯PHP库（PHPExcel的后继者）.
+* [Spout](https://github.com/box/spout) - 以快速，可扩展的方式读写电子表格文件（CSV，XLSX和ODS）.
 
 ### Database
 *使用对象关系映射（ORM）或数据映射技术与数据库交互的库.*
@@ -559,7 +560,7 @@
 
 * [Assert](https://github.com/beberlei/assert)   - 具有丰富断言的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - 提供验证和清理对象和数组的工具.
-* [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库（CP）.
+* [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
 * [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的图书馆，适用于许多国家/地区.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](http://json-schema.org) 验证库.
@@ -720,7 +721,7 @@
 ### Virtual Machines
 *替代PHP虚拟机.*
 
-* [Hack](https://hacklang.org/) -  HHVM的编程语言，可与PHP无缝互操作.
+* [Hack](https://hacklang.org/) -  HHVM的编程语言.
 * [HHVM](https://github.com/facebook/hhvm) -  Facebook的虚拟机，运行时和PHP JIT.
 
 ### Text Editors and IDEs
@@ -765,7 +766,7 @@
 * [PHP Mentoring](https://php-mentoring.org/) - 点对点PHP导师组织.
 * [PHP Package Development Standards](http://php-pds.com) -  PHP的包开发标准.
 * [PHP School](https://www.phpschool.io/) -  PHP的开源学习.
-* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) - A guide to PHP security.
+* [PHP Security](https://phpsecurity.readthedocs.io/en/latest/index.html) -  PHP安全性指南.
 * [PHP The Right Way](https://phptherightway.com/) -  PHP最佳实践快速参考指南.
 * [PHP UG](https://php.ug) - 帮助人们找到最近的PHP用户组（UG）的网站.
 * [PHP Versions](http://phpversions.info/) - 列出几个流行的Web主机上可用的PHP版本.

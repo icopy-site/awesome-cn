@@ -34,6 +34,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [The Terraform Book](https://terraformbook.com/)
 * [Getting Started with Terraform, 2nd ed.](https://www.amazon.com/Getting-Started-Terraform-production-infrastructure/dp/1788623533/)
 * [Infrastructure as Code](http://shop.oreilly.com/product/0636920039297.do)
+* [Terraform in Action](https://www.manning.com/books/terraform-in-action)
 
 ## Tutorials and Blog Posts
 
@@ -52,7 +53,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Deploying Discourse with Terraform](https://www.hashicorp.com/blog/terraform-discourse.html) - 显示Terraform如何在一个命令中在DigitalOcean上创建正在运行的Discourse实例.
 * [Easily Deploy A Seneca Microservice to ECS with Wercker and Terraform: Part I](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/), [II](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-ii/) & [III](http://chiefy.github.io/easily-deploy-a-seneca-microservice-to-ecs-with-wercker-and-terraform-part-i/) - 说明如何将Terraform整合到微服务部署管道中.
 * [Terraforming 1Password](https://blog.agilebits.com/2018/01/25/terraforming-1password/) -  1Password如何从CloudFormation迁移到Terraform.
-* [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - Illustrates how easy it is to use the OpenStack Terraform provider to deploy a web server.
+* [Tutorial: How to Use Terraform to Deploy OpenStack Workloads](http://www.stratoscale.com/blog/openstack/tutorial-how-to-use-terraform-to-deploy-openstack-workloads/) - 说明使用OpenStack Terraform提供程序部署Web服务器是多么容易.
 * [Zero Downtime Updates with HashiCorp Terraform](https://www.hashicorp.com/blog/zero-downtime-updates-with-terraform) - 确保基础架构的零停机时间.
 
 ### Multi-Environment Configuration
@@ -88,7 +89,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成SSH密钥对（公钥/私钥）.
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - 在RDS上创建PostgreSQL.
 * [terraform-aws-secure-baseline](https://github.com/nozaq/terraform-aws-secure-baseline) - 使用基于CIS Amazon Web Services Foundations的安全基准配置设置您的AWS账户.
-* [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) -  Terraform计划将ssh堡垒部署为AWS上的无状态服务.
+* [terraform-aws-ssh-bastion-service](https://github.com/joshuamkite/terraform-aws-ssh-bastion-service) - Terraform plan to deploy ssh bastion as a stateless service on AWS.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - 使用Terraform在AWS ECS上规定Jenkins.
 * [terraform-google-project-factory](https://github.com/terraform-google-modules/terraform-google-project-factory) - 使用共享VPC，IAM，API等创建和配置意见的Google Cloud Platform项目.
 * [terraform-static-website-s3-cloudfront](https://github.com/sjevs/terraform-static-website-s3-cloudfront) - 根据变量在AWS S3和Cloudfront上创建静态网站.
@@ -234,6 +235,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [Atom terraform-lookup](https://atom.io/packages/terraform-lookup)
 * [Emacs terraform-mode](https://github.com/syohex/emacs-terraform-mode)
 * [Intellij](https://plugins.jetbrains.com/plugin/7808-hashicorp-terraform--hcl-language-support)
+* [Terraform-lsp](https://github.com/juliosueiras/terraform-lsp) （Terraform的语言服务器协议）
 * [Vim-Terraform](https://github.com/hashivim/vim-terraform)
 * [Vim-Terraform-Completion](https://github.com/juliosueiras/vim-terraform-completion)
 * [VS Code](https://marketplace.visualstudio.com/items?itemName=mauve.terraform)

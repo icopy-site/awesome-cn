@@ -10,7 +10,7 @@
   EOSIO软件使企业能够快速构建和部署基于区块链的高性能和高安全性应用程序.
 </p>
 
-<p>  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论. </p>
+<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
 
 
 
@@ -266,7 +266,7 @@ EOSIO学习资源.
 - [EOS Go](https://www.youtube.com/c/EOSGo)   -  ESO Go社区会议，播客，直播.  新闻和讨论.
 - [The Awakenment](https://www.youtube.com/channel/UCphVYR2CHULYHf59ZSQMEag) - 觉醒频道，关于EOSIO平台功能和新闻的讨论.
 - [Investing with a difference](https://www.youtube.com/channel/UC6SxkB3kM4uNs_yIU0Lqo_w) -  EOSIO生态系统概述，新闻和市场讨论.
-- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg) - Dallas Rushing channel. User related content and news.
+- [Dallas Rushing](https://www.youtube.com/channel/UCMiOtNUmlOO0V01wXK8p0Kg)   - 达拉斯冲通道.  用户相关内容和新闻.
 - [nsjames](https://www.youtube.com/user/grandmoren1) - 分散相关内容.
 - [Crypto Dunker](https://www.youtube.com/user/clamantfever)   -  Crypto Dunker频道.  EOSIO DApps相关内容和新闻.
 - [EOS Authority](https://www.youtube.com/channel/UCCBylil96ibgcBC1FDcMouw)   -  EOS当局.  有用的教程，开发人员相关.
@@ -337,6 +337,7 @@ EOSIO专注于交流.
 - [DEXEOS](https://dexeos.io/) - 分散，测试版，Airdrops友好.
 - [EOSDAQ](https://eosdaq.com/) - 分散，Airdrops友好.
 - [EOSfinex](https://www.eosfinex.com/) - 分散，正在发展中.
+- [EOSSWAP](https://eosswap.io) - 分散的原子EOS令牌交换.
 
 
 ## Forks

@@ -328,6 +328,7 @@
 * [bellybutton](https://github.com/hchasestevens/bellybutton) - 支持自定义项目特定规则的linting引擎
 * [Black](https://github.com/ambv/black) - 毫不妥协的Python代码格式化程序
 * [cohesion](https://github.com/mschwager/cohesion) - 用于测量Python类内聚力的工具
+* [Dlint](https://github.com/duo-labs/dlint) - 确保Python代码安全的工具
 * [jedi](https://github.com/davidhalter/jedi) - 用于Python的自动完成/静态分析库
 * [linty fresh](https://github.com/lyft/linty_fresh) - 解析lint错误并将其作为拉取请求的注释报告给Github
 * [mccabe](https://github.com/PyCQA/mccabe) - 检查McCabe的复杂性
@@ -384,7 +385,7 @@
 * [ruby-lint](https://github.com/YorickPeterse/ruby-lint) -  Ruby的静态代码分析
 * [rubycritic](https://github.com/whitesmith/rubycritic) -  Ruby代码质量记者
 * [SandiMeter](https://github.com/makaroni4/sandi_meter) - 用于检查Sandi Metz规则的Ruby代码的静态分析工具.
-* [Sorbet](https://github.com/sorbet/sorbet) - A fast, powerful type checker designed for Ruby
+* [Sorbet](https://github.com/sorbet/sorbet) - 为Ruby设计的快速，强大的类型检查器
 
 ## Rust
 

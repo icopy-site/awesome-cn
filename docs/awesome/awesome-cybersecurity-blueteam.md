@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="meitar/awesome-cybersecurity-blueteam"></div>
 ## Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-> A collection of awesome resources, tools, and other shiny things for cybersecurity blue teams.
+&gt;为网络安全蓝队提供了一系列精彩的资源，工具和其他闪亮的东西.
 
 [Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是识别信息技术系统中的安全缺陷，验证安全措施的有效性以及监控系统以确保实施的防御措施在未来仍然有效的个人群体.  虽然不是排他性的，但这个列表却严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
@@ -135,6 +135,15 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [Computer Aided Investigative Environment (CAINE)](https://caine-live.net/) - 意大利GNU / Linux实时发布，预先打包许多数字取证和证据收集工具.
 - [Security Onion](https://securityonion.net/) - 用于入侵检测，企业安全监控和日志管理的免费和开源GNU / Linux发行版.
 
+## Phishing awareness and reporting
+
+也可以看看 [awesome-pentest § Social Engineering Tools](https://github.com/meitar/awesome-pentest#social-engineering-tools).
+
+- [Gophish](https://getgophish.com/) - 强大的开源网络钓鱼框架，可以轻松测试您的组织的网络钓鱼风险.
+- [King Phisher](https://github.com/securestate/king-phisher) - 通过模拟真实世界的网络钓鱼攻击来测试和提升用户意识的工具.
+- [NotifySecurity](https://github.com/certsocietegenerale/NotifySecurity) -  Outlook加载项用于帮助您的用户向安全团队报告可疑电子邮件.
+- [Swordphish](https://github.com/certsocietegenerale/swordphish-awareness) - 允许创建和管理（虚假）网络钓鱼活动的平台，旨在培训人们识别可疑邮件. 
+
 ## Preparedness training and wargaming
 
 （也称为*对手仿真*，*威胁模拟*或类似.）
@@ -168,7 +177,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [DATA](https://github.com/hadojae/DATA) - 凭证网络钓鱼分析和自动化工具，可以直接接收可疑的网络钓鱼URL或触发包含此类URL的观察到的网络流量.
 - [Forager](https://github.com/opensourcesec/Forager) - 使用Python3构建的多线程威胁情报收集功能，具有简单的基于文本的配置和数据存储，易于使用和数据可移植性.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过被动映射，计算和报告您的ICS / SCADA网络拓扑和端点，提供工业控制系统（ICS）和监控和数据采集（SCADA）的IP网络态势感知.
-- [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源数据集合并组合成一种可自定义的标准化CSV格式.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - 可扩展的工具，用于从威胁源（包括Twitter，RSS源或其他来源）中提取和聚合IOC.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - 利用Mitre的ATT和CK框架，确定安全状况的防御性差距.

@@ -215,7 +215,7 @@
 * [bat](https://github.com/sharkdp/bat)   - 一个带有语法高亮和Git集成的`cat（1）`克隆.  [！[开源软件] [OSS图标]]（https://github.com/sharkdp/bat）！[免费软件] [免费软件图标]
 * [cmus](https://cmus.github.io/)   - 适用于类Unix操作系统的小型，快速且功能强大的控制台音乐播放器.  [！[开源软件] [OSS图标]]（https://github.com/cmus）！[免费软件] [免费软件图标]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)   - 外观漂亮的终端仿真器，模仿旧的阴极显示器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Swordfish90/cool-retro-term）
-* [dark-mode](https://github.com/sindresorhus/dark-mode)   - 从命令行控制暗模式.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
+* [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect)   - 使用类似SQL的查询查找文件.  [！[开源软件] [OSS图标]]（https://github.com/jhspetersson/fselect）
 * [Glances](https://github.com/nicolargo/glances)   -  Glances是一个基于curses的跨平台系统监控工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nicolargo/glances）
@@ -226,6 +226,7 @@
 * [iTerm2](http://www.iterm2.com) -  iTerm2是一个令人惊叹的OS X终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)   - 通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
 * [job](https://github.com/liujianping/job)   -  JOB，让你的短期指挥作为一项长期工作.  [！[开源软件] [OSS图标]]（https://github.com/liujianping/job）！[免费软件] [免费软件图标]
+* [kitty](https://github.com/kovidgoyal/kitty)   - 跨平台，快速，功能齐全，基于GPU的终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/kovidgoyal/kitty）！[免费软件] [免费软件图标]
 * [lnav](http://lnav.org)   - 日志文件导航器.  [！[开源软件] [OSS图标]]（https://github.com/tstack/lnav）！[免费软件] [免费软件图标]
 * [m-cli](https://github.com/rgcr/m-cli)   - 用于macOS的瑞士军刀.  [！[开源软件] [OSS图标]]（https://github.com/rgcr/m-cli）！[免费软件] [免费软件图标]
 * [Mac-CLI](https://github.com/guarinogabriel/Mac-CLI)   - 管理Mac的终极工具.  自动化OS X系统的使用.  [！[开源软件] [OSS图标]]（https://github.com/guarinogabriel/Mac-CLI）！[免费软件] [免费软件图标]
@@ -332,7 +333,7 @@
 #### Design Tools
 
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 出色的Mac OS X图片和照片编辑器，专为人类而设计.
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 适用于Mac的专业图形设计软件.
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 适用于Mac的专业图像编辑软件.
 * [Alchemy](http://al.chemy.org/)   - 实验性，开源绘图应用程序，重点是创建概念艺术.  [！[开源软件] [OSS图标]]（http://svn.al.chemy.org/）
 * [Amadine](https://amadine.com) - 一个矢量绘图应用程序，具有图形设计师所需的一切，包裹在一个整洁和直观的界面中.
@@ -348,7 +349,7 @@
 * [Krita](https://krita.org/en/)   - 面向概念艺术家，数字画家和插图画家的开源数字绘画软件.  [！[开源软件] [OSS图标]]（https://github.com/KDE/krita）！[免费软件] [免费软件图标]
 * [macSVG](https://macsvg.org/)   - 设计HTML5 SVG艺术和动画.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
 * [MagicaVoxel](https://ephtracy.github.io/) - 免费，轻量级的8位体素编辑器和交互式路径追踪渲染器.
-* [Monodraw](http://monodraw.helftone.com)   - 专为Mac设计的强大的ASCII艺术编辑器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/monodraw/id920404675） 
+* [Monodraw](http://monodraw.helftone.com)   - 专为Mac设计的强大的ASCII艺术编辑器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/monodraw/id920404675）
 * [MyPaint](http://mypaint.org/) - 简单的绘图和绘画程序，适用于Wacom风格的图形平板电脑.[！[开源软件] [OSS图标]]（https://github.com/mypaint）！[免费软件] [免费软件图标]
 * [Nik Collection](https://nikcollection.dxo.com/) -  DxO的Nik Collection.
 * [Paintbrush](http://paintbrush.sourceforge.net/)   - 位图图像编辑器.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/paintbrush/files/）！[免费软件] [免费软件图标]
@@ -506,7 +507,7 @@
 * [Hydrogen](http://hydrogen-music.org/)   - 专为GNU / Linux而设计的简单直观的基于模式的鼓编程.  [！[开源软件] [OSS图标]]（https://github.com/hydrogen-music/hydrogen）
 * [iFFmpeg](http://www.iffmpeg.com/)   - 适用于macOS的综合媒体工具.  为每个人提供高质量的视频编码.
 * [IINA](https://lhc70000.github.io/iina/)   -  macOS的现代视频播放器.  基于mpv，强大的媒体播放器项目.  [！[开源软件] [OSS图标]]（https://github.com/lhc70000/iina）！[免费软件] [免费软件图标]
-* [Kodi](https://kodi.tv/) - Award-winning free and open-source (GPL) software media center for playing videos, music, pictures, games, and more. [![Open-Source Software][OSS Icon]](https://github.com/xbmc/xbmc) ![Freeware][Freeware Icon]
+* [Kodi](https://kodi.tv/)   - 屡获殊荣的免费和开源（GPL）软件媒体中心，用于播放视频，音乐，图片，游戏等.  [！[开源软件] [OSS图标]]（https://github.com/xbmc/xbmc）！[免费软件] [免费软件图标]
 * [LMMS](https://www.lmms.io)  LMMS以前是“Linux MultiMedia Studio”，是一个功能强大的数字音频工作站，设计类似于FL Studio（以前的Fruity Loops）.  [！[开源软件] [OSS图标]]（https://github.com/lmms/lmms）！[免费软件] [免费软件图标]
 * [LosslessCut](https://github.com/mifi/lossless-cut)   - 使用ffmpeg进行快速无损视频和音频修剪的跨平台工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/mifi/lossless-cut）
 * [LyricsX](https://github.com/ddddxxx/LyricsX)   -  iTunes，Spotify和Vox的歌词.  [！[开源软件] [OSS图标]]（https://github.com/ddddxxx/LyricsX）[！[App Store] [app-store Icon]]（https://itunes.apple.com/我们/ app / lyricsx / id1254743014？mt = 12）！[免费软件] [免费软件图标]
@@ -633,7 +634,7 @@
 * [Bartender](https://www.macbartender.com) - 组织或隐藏Mac上的菜单栏图标.
 * [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 允许您使用Mac键盘上的媒体键控制基于Web的媒体播放器（SoundCloud，YouTube等）和一些本机应用程序.  [！[开源软件] [OSS图标]]（https://github.com/beardedspice/beardedspice）！[免费软件] [免费软件图标]
 * [BitBar](https://getbitbar.com/)   - 将任何脚本或程序的输出放在Mac OS X菜单栏中.  [！[开源软件] [OSS图标]]（https://github.com/matryer/bitbar）！[免费软件] [免费软件图标]
-* [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Mortennn/Dozer） 
+* [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Mortennn/Dozer）
 * [iGlance](https://github.com/Moneypulation/iGlance)   - 状态栏的macOS系统监视器.  [！[开源软件] [OSS图标]]（https://github.com/Moneypulation/iGlance）[！[免费软件] [免费软件图标]]（https://github.com/Moneypulation/iGlance）
 * [Itsycal](https://www.mowglii.com/itsycal/)   -  Mac菜单栏的微小日历.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/sfsam/itsycal）
 * [Streaker](https://github.com/jamieweavis/streaker)   -  GitHub贡献条纹跟踪菜单应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jamieweavis/streaker）
@@ -774,7 +775,7 @@
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 用于管理SSH连接的应用程序.
 * [TG Pro](https://www.tunabellysoftware.com/tgpro/) - 温度监控，风扇控制和硬件诊断，帮助您保持Mac的凉爽和健康.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) - 与Mac上NTFS格式的驱动器完全读写兼容.
-* [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.
+* [Overkill](https://github.com/KrauseFx/overkill-for-mac) - 连接iPhone时停止打开iTunes.
 
 ## Gaming Software
 
