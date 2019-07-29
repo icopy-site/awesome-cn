@@ -1,7 +1,5 @@
 <div class="github-widget" data-repo="ashishb/android-security-awesome"></div>
-android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
-========================
-
+## android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 
 android安全相关资源的集合.
 
@@ -10,18 +8,17 @@ android安全相关资源的集合.
 
 ### Online Analyzers
 
-
 1. [AndroTotal](http://andrototal.org/)
-4. [Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)
 5. [Appknox](https://www.appknox.com/) - 不是免费
-6. [IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - 不是免费
 7. [NVISO ApkScan](https://apkscan.nviso.be/)
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) - 最大128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) - 不是免费
 12. [AppCritique](https://appcritique.boozallen.com) - 上传您的Android APK并获得全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)   - 用于Android和iOS移动应用程序的移动应用程序安全性测试的企业工具.  Lab Automated对云中的实际设备进行动态和静态分析，以便在几分钟内返回结果.  不是免费
-14. [AMAaaS](https://amaaas.com)   -  Android恶意软件分析即服务.  裸机服务为Android应用程序提供静态和动态分析.  MalwarePot的产品（https://malwarepot.com/index.php/AMAaaS） - 免费.
+14. [AMAaaS](https://amaaas.com)   -  Android恶意软件分析即服务.  裸机服务为Android应用程序提供静态和动态分析.  一种产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).Free
+4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
+6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) - 不是免费的~~
 15. ~~[Visual Threat](https://www.visualthreat.com/) - 不再是Android app分析器~~
 15. ~~[Tracedroid](http://tracedroid.few.vu.nl/)~~
 15. ~~[habo](https://habo.qq.com/) -  10 /天~~
@@ -38,11 +35,10 @@ android安全相关资源的集合.
 26. ~~[Dexter](https://dexter.dexlabs.org/)~~
 27. ~~[MobiSec Eacus](http://www.mobiseclab.org/eacus.jsp)~~
 28. ~~[Fireeye](https://fireeye.ijinshan.com/)- 最多60MB 15 /天~~
- 
+
 ### Static Analysis Tools
 
-
-1.  [Androwarn](https://github.com/maaaaz/androwarn/) - 检测并警告用户Android应用程序开发的潜在恶意行为.
+1. [Androwarn](https://github.com/maaaaz/androwarn/) - 检测并警告用户Android应用程序开发的潜在恶意行为.
 2. [ApkAnalyser](https://github.com/sonyxperiadev/ApkAnalyser)
 3. [APKInspector](https://github.com/honeynet/apkinspector/)
 4. [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
@@ -67,7 +63,6 @@ android安全相关资源的集合.
 
 ### App Vulnerability Scanners
 
-
 1. [QARK](https://github.com/linkedin/qark/) -  LinkedIn的QARK是应用程序开发人员扫描应用程序的安全问题
 2. [AndroBugs](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail](https://github.com/google/nogotofail)
@@ -75,9 +70,8 @@ android安全相关资源的集合.
 
 ### Dynamic Analysis Tools
 
-1.  [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2.  [Androl4b](https://github.com/sh4hin/Androl4b)- 用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
-3. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - （linux发行版）早先它用来做一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
+1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
+2. [Androl4b](https://github.com/sh4hin/Androl4b)- 用于评估Android应用程序，逆向工程和恶意软件分析的虚拟机
 4. [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - 移动安全框架是一种智能的，一体化的开源移动应用程序（Android / iOS）自动笔测试框架，能够执行静态，动态分析和Web API测试.
 5. [AppUse](https://appsec-labs.com/AppUse/) - 用于测试的自定义构建
 6. [Cobradroid](https://thecobraden.com/projects/cobradroid/) - 用于恶意软件分析的自定义映像
@@ -102,10 +96,10 @@ android安全相关资源的集合.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) - 用于移动应用程序Pentesting和移动恶意软件分析的虚拟机
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) - 移动应用程序逆向工程和分析框架
 30. [Taintdroid](http://appanalysis.org) - 需要AOSP编译
+3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - （linux发行版）早先它用来做一个 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) -  ARE（android逆向工程）不再处于活跃开发状态了~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
 32. ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
-
 
 ### Reverse Engineering
 
@@ -159,7 +153,7 @@ android安全相关资源的集合.
 
 1. [Google play crawler (Java)](https://github.com/Akdeniz/google-play-crawler)
 2. [Google play crawler (Python)](https://github.com/egirault/googleplay-api)
-3. [Google play crawler (Node) ](https://github.com/dweinstein/node-google-play) - 从官方Google Play商店获取应用详情并下载应用.
+3. [Google play crawler (Node)](https://github.com/dweinstein/node-google-play) - 从官方Google Play商店获取应用详情并下载应用.
 4. [Aptoide downloader (Node)](https://github.com/dweinstein/node-aptoide) - 从Aptoide第三方Android市场下载应用程序
 5. [Appland downloader (Node)](https://github.com/dweinstein/node-appland) - 从Appland第三方Android市场下载应用程序
 6. [Apkpure](https://apkpure.com/)   - 在线apk下载器.  还提供自己的应用程序供下载.
@@ -184,7 +178,7 @@ android安全相关资源的集合.
 
 ### Research Papers
 
-1. [Exploit Database](https://www.exploit-db.com/papers/) 
+1. [Exploit Database](https://www.exploit-db.com/papers/)
 2. [Android security related presentations](https://github.com/jacobsoo/AndroidSlides)
 3. [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
@@ -194,18 +188,16 @@ android安全相关资源的集合.
 
 ### Others
 
-1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg) 
+1. [OWASP Mobile Security Testing Guide Manual](https://github.com/OWASP/owasp-mstg)
 2. [doridori/Android-Security-Reference](https://github.com/doridori/Android-Security-Reference)
 3. [android app security checklist](https://github.com/b-mueller/android_app_security_checklist)
 4. [Mobile App Pentest Cheat Sheet](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 5. ~~[Mobile Security Reading Room](https://mobile-security.zeef.com) - 阅览室，其中包含有关移动渗透测试，移动恶意软件，移动取证和各种移动安全相关主题的分类技术阅读材料~~
-6.  ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
+6. ~~[Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)~~
 
-
-## <a name="exploits"></a>Exploits/Vulnerabilities/Bugs
+## <a name="exploits"/></a>Exploits/Vulnerabilities/Bugs
 
 ### List
-
 
 1. [Android Security Bulletins](https://source.android.com/security/bulletin/)
 2. [Android's reported security vulnerabilities](https://www.cvedetails.com/vulnerability-list/vendor_id-1224/product_id-19997/Google-Android.html)
@@ -215,7 +207,6 @@ android安全相关资源的集合.
 6. [Exploit Database](https://www.exploit-db.com/search/?action=search&q=android) - 点击搜索
 7. [Vulnerability Google Doc](https://docs.google.com/spreadsheet/pub?key=0Am5hHW4ATym7dGhFU1A4X2lqbUJtRm1QSWNRc3E0UlE&single=true&gid=0&output=html)
 8. [Google Android Security Team’s Classifications for Potentially Harmful Applications (Malware)](https://source.android.com/security/reports/Google_Android_Security_PHA_classifications.pdf)
-
 
 ### Malware
 
@@ -237,4 +228,5 @@ android安全相关资源的集合.
 2. [Android Reports and Resources](https://github.com/B3nac/Android-Reports-and-Resources) -  Android Hackerone列出的报告和其他资源
 
 ## Contributing
+
 欢迎您的贡献！

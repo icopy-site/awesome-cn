@@ -36,13 +36,13 @@
 - [Diversity Charter](http://diversitycharter.org/) - 宪章表明你关心多样性.
 - [Django Girls](https://djangogirls.org/) - 非营利组织和一个赋予和帮助妇女组织编程研讨会的社区.
 - [EquitableTech](http://equitabletech.com) - 致力于开发多样化技术的非营利组织，专注于开源.
-- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建欢迎，包容，多样化的文化.
+- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建热情，包容，多元化的文化.
 - [Fund Club](http://joinfundclub.com/) - 基金俱乐部为众多心理健康，多元化，包容性，反骚扰等举措筹集资金.
 - [Geek Girls Carrots](http://gocarrots.org) - 自2011年以来吸引女性参与科技事业.
 - [Girl Develop It](https://www.girldevelopit.com/) - 非营利组织，旨在为有兴趣学习网络和软件开发的女性提供价格合理且无判断力的机会.
 - [Girl Gamers](https://www.reddit.com/r/GirlGamers/) - 女性社区讨论游戏，极客文化中的女性以及因性别而产生的经历.
 - [Girls In Tech Global Classroom](http://globalclassroom.girlsintech.org) - 免费为女孩和妇女提供技术相关课程的组织，如3-D Tinkercad设计.
-- [Girls Who Code](https://girlswhocode.com/) - Organization which aims to close the gender gap in technology.
+- [Girls Who Code](https://girlswhocode.com/) - 旨在缩小技术性别差距的组织.
 - [GoodForPoc](https://github.com/GoodForPoC/GoodForPoC) - 为技术人员提供包容性公司列表.
 - [Hack The Hood](http://www.hackthehood.org/) - 非营利性组织，向技术职业介绍有色人种的低收入青年.
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) - 计划将年轻的黑人男性与他们所需的一切联系起来，成为高绩效的企业家和技术专家.
@@ -82,7 +82,7 @@
 以下是特别努力包容性和鼓励多样性的事件清单
 
 - [ACT-W National Conference](http://www.act-w.org/) - 由ChickTech主办，ACT-W National致力于为您提供职业发展，领导力，技术和多元化方面的鼓舞人心和可行的教育.
-- [AlterConf](https://alterconf.com/) -  AlterConf是一个旅行会议系列，为边缘化人群以及在技术和游戏行业中为他们提供支持的人提供安全的机会.
+- [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
 - [Elixir With Love](https://www.elixir-with-love.com/) -  Elixir With Love是一个积极主动的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多元化的Elixir社区.
 - [Lambda World](http://www.lambda.world/)   -  Lambda World是一个功能性编程会议，其意识形态赋予了技术领域中代表性不足的少数群体.  在这种思维模式中，我们采取了一些行动，例如创建补助金以支付门票和住宿，举办包容性研讨会，以及让个人发现难以远离家人，提供旅游活动以及像婴儿床和婴儿车.
 - [DDD Europe](https://dddeurope.com)   -  Domain-Driven Design Europe专注于软件设计和建模.  他们对多样性和改善活动有着惊人的承诺.
@@ -108,7 +108,7 @@
 - [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - 作者：Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) - 由Kat Matfield撰写.
 - [How A Common Interview Question Fuels The Gender Pay Gap (And How To Stop It)](https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) - 克莱尔·凯恩·米勒.
-- [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) -  Michael Schultz.
+- [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - 妮可桑切斯.
 - [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - 尼克道格拉斯.
 - [Increase Diversity In Our Speaker Line Up](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - SoledadPenadés.
@@ -147,7 +147,7 @@
 - [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) - 作者：MaríaAriasdeReynaDomínguez.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -  Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - 由温迪李.
-- [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - AndréArko.
+- [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - 安德烈阿尔科.
 - [How To Maintain A Predominantly White Workplace](https://qz.com/work/1334187/how-to-maintain-a-predominantly-white-workplace/) - 由Leniece Flowers Brissett.
 - [I'm Not Your Guy, Dude: Why Language Really Does Matter](https://hub.wiley.com/community/exchanges/educate/blog/2017/03/05/i-m-not-your-guy-dude-why-language-really-does-matter) - 黛安·鲁比诺.
 - [If You Can't Find A Spouse Who Supports Your Career, Stay Single](https://hbr.org/2017/10/if-you-cant-find-a-spouse-who-supports-your-career-stay-single) - 由Avivah Wittenberg-Cox提供.
@@ -158,7 +158,7 @@
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) -  Suzannah Weiss.
 - [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - 在Tobbe Gyllebring.
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - 盲人软件工程师Tuukka Ojala.
-- [Stop Saying That Diversity Means Lowering The Bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) - By Leah Fessler.
+- [Stop Saying That Diversity Means Lowering The Bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) -  Leah Fessler.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) - 作者：Joy Ebertz.
 - [Striving To Be Seen: Black Girl Gamers On Twitch](https://www.engadget.com/2018/08/15/black-girl-gamers-twitch-partner-communities/) - 杰西卡康迪特.
 - [Struggling For Investments, Silicon Valley Women Reluctant To Speak Out On Harassment](https://www.npr.org/sections/alltechconsidered/2017/11/16/564498133/struggling-for-investments-silicon-valley-women-reluctant-to-speak-out-on-harass) -  Laura Sydell.
@@ -167,17 +167,18 @@
 - [The Do's And Don'ts Of Being A Good Ally](http://theangryblackwoman.com/2009/10/01/the-dos-and-donts-of-being-a-good-ally/) - 通过Karnythia.
 - [The Other Diversity Dividend](https://hbr.org/2018/07/the-other-diversity-dividend) -  Paul Gompers和Silpa Kovvali.
 - [The Perverse Incentives That Help Incels Thrive In Tech](https://www.wired.com/story/ellen-pao-the-perverse-incentives-that-help-incels-thrive-in-tech/) - 作者：Ellen Pao.
-- [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) -  Sheelah Kolhatkar
+- [The Tech Industry's Gender-Discrimination Problem](https://www.newyorker.com/magazine/2017/11/20/the-tech-industrys-gender-discrimination-problem) -  Sheelah Kolhatkar.
 - [There’s A Big Difference Between An Intention To Be Inclusive And A Strategy](https://qz.com/work/1308410/theres-a-big-difference-between-an-intention-to-be-inclusive-and-a-strategy/) - 由Kim Crayton撰写.
 - [This Is How Sexism Works In Silicon Valley My Lawsuit Failed. Others won't.](https://www.thecut.com/2017/08/ellen-pao-silicon-valley-sexism-reset-excerpt.html) - 作者：Ellen Pao.
 - [ThoughtWorks' Insights On Inclusivity](https://www.thoughtworks.com/insights/inclusivity):
   - [Inclusion Is Everyone's Business: Q&A For Individuals](https://www.thoughtworks.com/insights/blog/inclusion-everyone-s-business-qa-part-1).
   - [Inclusion Is Everyone's Business: Q&A For Companies](https://www.thoughtworks.com/insights/blog/inclusion-everyones-business-qa-companies).
 - [Tools For White Guys Who Are Working For Social Change](http://xyonline.net/content/tools-white-guys-who-are-working-social-change-and-other-people-socialized-society-based) - 克里斯克拉斯.
+- [Trans-Inclusive Design](http://alistapart.com/article/trans-inclusive-design/) - 艾琳怀特.
 - [True Diversity Is Intersectional](https://medium.com/projectinclude/true-diversity-is-intersectional-2282b8da8882) - 作者：Ellen Pao.
 - [We Need More Radical Solutions For Diversity And Inclusion](https://medium.com/projectinclude/we-need-more-radical-solutions-for-diversity-and-inclusion-26edaf4ab5a4) - 作者：Ellen K. Pao.
 - [What Does It Mean To Be A Feminist Coder In 2018?](https://dev.to/xrwang/what-does-it-mean-to-be-a-feminist-coder-in-2018--25i3) - 由Xiaowei R. Wang撰写.
-- [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) -  Madhushree Ghosh
+- [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) -  Madhushree Ghosh.
 - [White Fragility In Teaching And Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) -  Mary Jo Madda
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) -  Melissa McEwen.
 - [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - 作者Jessi Hempel.
@@ -193,7 +194,7 @@
 - [Why Your Efforts To Fix Your Pipeline Aren’t Fixing Your Pipeline](https://chelseatroy.com/2018/04/12/why-your-efforts-to-fix-your-pipeline-arent-fixing-your-pipeline/) - 切尔西特洛伊.
 - [Women And Minorities Are Penalized For Promoting Diversity](https://hbr.org/2016/03/women-and-minorities-are-penalized-for-promoting-diversity) - 由Stefanie K. Johnson和David R. Hekman撰写.
 - [You Can’t Just Hit The Diversity Button](https://medium.com/projectinclude/you-cant-just-hit-the-diversity-button-94b7043372a9) - 由Project Include的LauraI.Gómez撰写.
-- [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) - By Leah Fessler.
+- [Your Company's Slack Is Probably Sexist](https://work.qz.com/1128150/your-companys-slack-is-probably-sexist/) -  Leah Fessler.
 
 ## Talks
 

@@ -17,7 +17,7 @@
 
 ### `.ssh/config`
 
-* [`assh` a.k.a `advanced-ssh-config`](https://github.com/moul/advanced-ssh-config) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars)]（https://github.com/moul/advanced-ssh-config） - 透明包装器（ProxyCommand），它将正则表达式，别名，网关，包括动态主机名添加到* SSH *和`ssh-config`.
+* [`assh`](https://github.com/moul/assh) [![stars](https://img.shields.io/github/stars/moul/advanced-ssh-config.svg?style=social&label=stars) ]（https://github.com/moul/advanced-ssh-config） - 透明包装器（ProxyCommand），它将正则表达式，别名，网关，包括动态主机名添加到* SSH *和`ssh-config`.  _以前：`advanced-ssh-config`_
 * [storm](https://github.com/emre/storm) [![stars](https://img.shields.io/github/stars/emre/storm.svg?style=social&label=stars)]（https://github.com/emre/storm） - 像老板一样管理你的* SSH *.
 * [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) [![stars](https://img.shields.io/github/stars/gaqzi/ansible-ssh-config.svg?style=social&label=stars)]（https://github.com/gaqzi/ansible-ssh-config） - 让* Ansible *管理`ssh_config`.
 * [ec2ssh](https://github.com/mirakui/ec2ssh) [![stars](https://img.shields.io/github/stars/mirakui/ec2ssh.svg?style=social&label=stars)]（https://github.com/mirakui/ec2ssh） -  * AWS EC2 *的`ssh_config`管理器.
@@ -32,6 +32,7 @@
 
 ### Servers
 
+* [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)]（https://github.com/moul/sshportal） - 简单，有趣，透明的SSH（＆Telnet）堡垒服务器
 * [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)]（https://github.com/moul/ssh2docker） -  * SSH *服务器到Docker容器.
 * [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere） - 一个知道你是谁的A * SSH *服务器.  `$ ssh whoami.filippo.io`.
 * [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)]（https://github.com/gliderlabs/sshfront） - 可编程* SSH *前端.
@@ -44,7 +45,7 @@
 ### Network
 
 * [Mosh](https://mosh.mit.edu) - 移动外壳.
-* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)]（https://github.com/libfuse/sshfs） - 基于* SSH *文件传输协议的文件系统客户端.
+* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)](https://github.com/libfuse/sshfs) - Filesystem client based on the *SSH* File Transfer Protocol.
 * [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars)]（https://github.com/inconshreveable/ngrok） - 对localhost的内省隧道.
 * [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars)]（https://github.com/progrium/localtunnel） - 将本地主机服务器暴露给Internet.
 * [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars) ]（https://github.com/apenwarr/sshuttle） - 透明代理服务器，作为一个穷人的* VPN *.  转发`ssh`.  不需要管理员.  适用于* Linux *和* MacOS *.  支持* DNS隧道*.
@@ -55,6 +56,7 @@
 * [autossh](http://www.harding.motd.ca/autossh/) - 网络中断后自动重新生成* SSH *会话.
 * [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars)]（https://github.com/aluzzardi/wssh） -  * SSH *到WebSockets Bridge.
 * [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars)]（https://github.com/vieux/docker-volume-sshfs） - `sshfs` docker volume plugin.
+* [quicssh](https://github.com/moul/quicssh) [![stars](https://img.shields.io/github/stars/moul/quicssh.svg?style=social&label=stars)]（https://github.com/moul/quicssh） -  SSH的QUIC代理
 
 ### Multiplexers
 
@@ -103,6 +105,7 @@
 * [GateOne](https://github.com/liftoff/GateOne) [![stars](https://img.shields.io/github/stars/liftoff/GateOne.svg?style=social&label=stars)]（https://github.com/liftoff/GateOne） - 支持HTML5的终端模拟器和* SSH *客户端.
 * [KeyBox](https://github.com/skavanagh/KeyBox) [![stars](https://img.shields.io/github/stars/skavanagh/KeyBox.svg?style=social&label=stars)]（https://github.com/skavanagh/KeyBox） - 基于Web的* SSH *控制台，集中管理对系统的管理访问.
 * [Apache Guacamole](https://guacamole.incubator.apache.org/)   -  Apache Guacamole是一个基于HTML5的无客户端远程桌面网关.  它支持VNC，RDP和SSH等标准协议.
+* [SSHmon](https://github.com/hpello/sshmon) [![stars](https://img.shields.io/github/stars/hpello/sshmon.svg?style=social&label=stars)]（https://github.com/hpello/sshmon） - 用于监控SSH连接和建立端口转发的实时GUI.
 
 ### Testing / Honeypots
 
@@ -116,7 +119,7 @@
 
 ### Alternatives to *SSH*
 
-* [GoTTY](https://github.com/yudai/gotty) [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=stars)](https://github.com/yudai/gotty) - Share your terminal as web application.
+* [GoTTY](https://github.com/yudai/gotty) [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=stars)]（https://github.com/yudai/gotty） - 将您的终端共享为Web应用程序.
 * [telnet](http://www.telnet.org/htm/faq.htm) - 未加密的网络协议和用于连接远程计算机和发出命令的应用程序.
 * [rsh](https://en.wikipedia.org/wiki/Remote_Shell) - 用于连接远程计算机和发出命令的未加密网络协议和应用程序.
 
@@ -129,6 +132,7 @@
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)]（https://github.com/pkg/sftp） -  * SFTP *支持go.crypto / ssh包.
   * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars)]（https://github.com/shazow/go-sshkit） - 用于在Go中构建* SSH *服务器和客户端的工具包.
   * [Socker](https://github.com/cosiner/socker) [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social&label=stars)]（https://github.com/cosiner/socker） -  Go库用于简化* SSH *的使用.
+  * [go-sshkeys](https://github.com/moul/go-sshkeys) -  Golang SSH密钥处理库
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - 纯* java *，* BSD *许可，* SSH2 *客户端库.
 * Javascript / Node.js

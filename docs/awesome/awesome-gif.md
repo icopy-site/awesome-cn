@@ -1,21 +1,9 @@
 <div class="github-widget" data-repo="davisonio/awesome-gif"></div>
-## [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+## Awesome GIF [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-&gt;精选的精选列表 [GIF](https://en.wikipedia.org/wiki/GIF) 资源
+&gt;精选的精选列表 [GIF](https://en.wikipedia.org/wiki/GIF) 资源.
 
-<p align="center">
-<b><a href="#contents">Contents</a></b>
-·
-<b><a href="#use">Use</a></b>
-·
-<b><a href="#authors">Authors</a></b>
-·
-<b><a href="#license--credits">License & Credits</a></b>
-</p>
-
-这是与图形交换格式（GIF）图像格式相关的工具，脚本，库，示例和其他资源的列表.
-
-![](https://davison.io/assets/img/awesome-gif-logo.gif)
+与图形交换格式（GIF）相关的工具，脚本，库，示例和其他资源的列表.
 
 
 
@@ -23,8 +11,8 @@
 
 - [FFmpeg](https://www.ffmpeg.org)
 - [ImageMagick](http://www.imagemagick.org/script/index.php)
-- [GraphicsMagick](http://www.graphicsmagick.org/) -  GraphicsMagick通常比ImageMagick更快
-- [MoviePy](http://zulko.github.io/moviepy/) - 用于视频编辑的Python模块
+- [GraphicsMagick](http://www.graphicsmagick.org/) -  GraphicsMagick通常比ImageMagick更快.
+- [MoviePy](http://zulko.github.io/moviepy/) - 用于视频编辑的Python模块.
 
 ### Utilities
 
@@ -33,10 +21,9 @@
 - [Gifify (not the same)](https://github.com/jclem/gifify) - 将屏幕录制转换为GIF
 - [Gifsicle](https://github.com/kornelski/giflossy) - 有损GIF压缩机
 - [Gifs](https://github.com/jglovier/gifs) -  GIF的存放地点
-- [Gifshot](https://github.com/yahoo/gifshot) - 雅虎从媒体创建动画GIF  -  [demo](http://yahoo.github.io/gifshot/)
+- [Gifshot](https://github.com/yahoo/gifshot)   - 由雅虎从媒体创建动画GIF.  （[demo](http://yahoo.github.io/gifshot/))
 - [Gifsockets](https://github.com/videlalvaro/gifsockets) - 使用动画GIF作为传输的实时通信库
 - [X-gif](https://github.com/geelen/x-gif) - 用于灵活GIF播放的Web组件
-- [gifme](https://github.com/holman/gifme) - 生成动画GIF
 - [GifW00t](https://github.com/yaronn/GifW00t) -  JavaScript网络录音机
 - [gif-machine](https://github.com/lelandbatey/gif-machine) - 从Youtube视频创建GIF
 - [gifstreaming](https://github.com/jbochi/gifstreaming) - 实时视频流服务器
@@ -130,7 +117,7 @@
 #### Swift
 
 -  [SwiftyGif]（https://github.com/kirualex/SwiftyGif） - 高性能且易于使用的Gif引擎
-- [Gifu](https://github.com/kaishin/gifu) - 在Swift中为iOS动画GIF支持
+- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
 - [SwiftGif](https://github.com/swiftgif/SwiftGif) - 支持GIF的UIImage扩展
 
 ### GUI
@@ -138,7 +125,7 @@
 - [Glyph](http://www.glyph.video/) - 用于从视频生成无缝循环GIF和电影图的工具
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs](https://github.com/orta/GIFs) - 用于查找GIF的Mac App
-- [VineGifR](https://github.com/esten/VineGifR) -  Mac应用程序将Vine视频转换为GIF
+- [VineGifR](https://github.com/caraesten/VineGifR ) -  Mac应用程序将Vine视频转换为GIF
 - [GifPro](https://github.com/unixpickle/GifPro) - 适用于Mac的GIF编码器
 - [AnimatedGif](https://github.com/Waitsnake/AnimatedGif) - 用于播放GIF的Mac屏幕保护程序
 
@@ -157,7 +144,6 @@
 ### Community
 
 - [Giphy.com](https://giphy.com)
-- [Gifme.io](http://gifme.io)
 - [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
@@ -172,7 +158,7 @@
 
 FFmpeg
 ```bash
-ffmpeg -f image2 -i image%d.jpg animated.gif
+ffmpeg -f image2 -i image％d.jpg animated.gif
 ```
 
 Imagemagick
@@ -335,7 +321,7 @@ youtube-dl https://www.youtube.com/watch?v=V2XpsaLqXc8
 
 #### Grabbing each frame of an HTML5 Canvas
 
-using [PhantomJS](http://phantomjs.org/)
+Using [PhantomJS](https://phantomjs.org).
 
 这个例子 [canvas](http://www.effectgames.com/demos/canvascycle/?sound=0).
 
@@ -376,21 +362,21 @@ function（status）{
 
 - 使用<kbd>命令</kbd> + <kbd>F</kbd>搜索内容
 
-## Authors
+## Credits
 
 **[Craig Davison](https://davison.io)**
 
-[![](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20davisonio)](https://github.com/davisonio) [![](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
+[![GitHub](https://img.shields.io/github/followers/davisonio.svg?style=social&label=Follow%20@davisonio)](https://github.com/davisonio) [![Twitter](https://img.shields.io/twitter/follow/davisonio.svg?style=social)](https://twitter.com/davisonio)
 
-非常感谢 [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors) .  ：拍：
+...and [contributors](https://github.com/davisonio/awesome-gif/graphs/contributors).
 
-**欢迎捐款！**查看 [Contributing Guidelines](https://github.com/davisonio/awesome-gif/blob/master/CONTRIBUTING.md) .  ：raised_hands：
+**[Contributions are welcome!](https://github.com/davisonio/awesome-gif/blob/master/contributing.md)**
 
-## License & Credits
+## License
 
 除非另有说明：
 
-- 版权所有©2017+ [Craig Davison](https://davison.io) .  发布下 [CC0 1.0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+- 版权所有©2017+ [Craig Davison](https://davison.io) .  许可下 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).
 
 基于 [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 

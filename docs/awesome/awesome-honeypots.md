@@ -72,8 +72,8 @@
     - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) - 高交互SMB服务蜜罐，能够捕获类似于类似恶意软件的恶意软件.
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互Python蜜罐.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 低交互蜜罐，用于检测Oracle融合中间件的Oracle WebLogic Server组件中的CVE-2017-10271.
-    - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) -  WhiteFace的基于Twisted的蜜罐.
-    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) -  Honeycomb的插件存储库，Cymmetria的蜜罐框架.
+    - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - Twisted based honeypot for WhiteFace.
+    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
     - [honeyntp](https://github.com/fygrave/honeyntp) -  NTP记录器/蜜罐.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 观察相机蜜罐.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) -  FTP蜜罐.
@@ -118,7 +118,7 @@
 - 恶意软件收集器
     - [Kippo-Malware](https://bruteforcelab.com/kippo-malware) -  Python脚本，将下载存储为Kippo SSH蜜罐数据库中的URL的所有恶意文件.
 
-- Distributed sensor deployment
+- 分布式传感器部署
     - [Modern Honey Network](https://github.com/threatstream/mhn) - 多snort和蜜罐传感器管理，使用VM网络，小型SNORT安装，隐身dionaeas和集中式服务器进行管理.
 
 - 网络分析工具
@@ -219,7 +219,7 @@
 - 中央管理工具
     - [PHARM](http://www.nepenthespharm.com/) - 管理，报告和分析分布式Nepenthes实例.
 
-- Network connection analyzer
+- 网络连接分析仪
     - [Impost](http://impost.sourceforge.net/) - 网络安全审计工具，旨在分析受感染和/或易受攻击的守护进程背后的取证. 
 
 - 蜜罐部署
@@ -311,11 +311,6 @@
 - 文件雕刻
     - [TestDisk & PhotoRec](https://www.cgsecurity.org/)
 
-- 伤口
-    - [Qebek](https://projects.honeynet.org/sebek/wiki/Qebek) - 基于QEMU的Sebek，一种用于高交互蜜罐的数据捕获工具.
-    - [Sebek](https://projects.honeynet.org/sebek/) - 数据抓取.
-    - [xebek](https://code.google.com/archive/p/xebek/) -  Sebek是Xen.
-
 -  win32的行为分析工具
     - [Capture BAT](https://www.honeynet.org/node/315)
 
@@ -392,7 +387,7 @@
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Cuckoo](https://cuckoosandbox.org/) - 领先的开源自动恶意软件分析系统.
     - [Pylibemu](https://github.com/buffer/pylibemu) - 自由用Cython包装.
-    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - 基于PHP 5.x脚本沙箱 [funcall](https://pecl.php.net/package/funcall).
+    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall).
     - [dorothy2](https://github.com/m4rco-/dorothy2) - 用Ruby编写的恶意软件/僵尸网络分析框架.
     - [imalse](https://github.com/hbhzwj/imalse) - 集成的MALware模拟器和仿真器.
     - [libemu](https://github.com/buffer/libemu) -  Shellcode仿真库，对shellcode检测很有用.
@@ -409,7 +404,7 @@
 - 前端
     - [DionaeaFR](https://github.com/rubenespadas/DionaeaFR) - 前网到Dionaea低交互蜜罐.
     - [Django-kippo](https://github.com/jedie/django-kippo) - 用于kippo SSH Honeypot的Django应用程序.
-    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - Full featured script to visualize statistics from a Shockpot honeypot. 
+    - [Shockpot-Frontend](https://github.com/GovCERT-CZ/Shockpot-Frontend) - 全功能脚本，可以显示来自Shockpot蜜罐的统计数据. 
     - [Tango](https://github.com/aplura/Tango) - 与Splunk的蜜罐情报.
     - [Wordpot-Frontend](https://github.com/GovCERT-CZ/Wordpot-Frontend) - 全功能脚本，可以显示Wordpot蜜罐中的统计信息.
     - [honeyalarmg2](https://github.com/schmalle/honeyalarmg2) - 用于显示蜜罐警报的简化UI.
@@ -426,7 +421,6 @@
     - [HpfeedsHoneyGraph](https://github.com/yuchincheng/HpfeedsHoneyGraph) - 可视化应用程序可视化hpfeeds日志.
     - [Kippo stats](https://github.com/mfontani/kippo-stats) -  Mojolicious应用程序显示您的kippo SSH蜜罐的统计信息.
     - [Kippo-Graph](https://bruteforcelab.com/kippo-graph) - 全功能脚本，可以显示Kippo SSH蜜罐中的统计信息.
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) -  Sebek数据可视化.
     - [The Intelligent HoneyNet](https://github.com/jpyorre/IntelligentHoneyNet) - 从蜜罐中创建可操作的信息.
     - [ovizart](https://github.com/oguzy/ovizart) - 网络流量的可视化分析.
 

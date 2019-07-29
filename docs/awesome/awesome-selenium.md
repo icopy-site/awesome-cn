@@ -18,7 +18,7 @@
 - [CasperJS](http://casperjs.org/) - 开源导航脚本和测试实用程序.
 - [Zombie.js](http://zombie.js.org/) - 疯狂快速，无头全栈测试.
 - [DalekJS](http://dalekjs.com/) - 自动跨浏览器测试.
-- [SlimerJS](http://slimerjs.org/) - 面向Web开发人员的脚本式浏览器.
+- [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
 - [Nightwatch](http://nightwatchjs.org/) - 高效，直接的Javascript端到端测试.
 - [yiewd](https://github.com/jlipps/yiewd)   - 使用最新的Harmony生成器的WD.js包装器！  用yield来摆脱回调金字塔.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - 为开发人员提供高效的测试环境以进行单元测试（主要是AngularJS）.
@@ -49,6 +49,7 @@
 - [Pomade](https://github.com/saucelabs/pomade) - 用于Selenium测试的SauceLabs集成测试运行器.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - 有状态的程序化网页浏览.
 - [Robot](http://robotframework.org/) -  Robot Framework是用于验收测试和ATDD的通用测试自动化框架.
+- [behave-webdriver](https://github.com/spyoungtech/behave-webdriver) 使用Selenium和Python进行行为驱动的测试.
 
 #### Java
 
@@ -131,7 +132,7 @@
 
 ### Selenium Grid
 
-- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - A framework that provides additional features beyond the basic Selenium Grid like video recording.
+- [Selenium Grid Extras](https://github.com/groupon/Selenium-Grid-Extras) - 一个框架，提供除基本Selenium Grid之外的其他功能，如视频录制.
 - [SeLion](https://github.com/paypal/SeLion) - 用于运行Selenium测试的（Java）框架，具有超出基本Selenium Grid功能的其他功能，尤其是稳定性改进等.
 - [Selenium Grid Extensions](https://github.com/sterodium/selenium-grid-extensions) -  Selenium Grid的一组扩展，提供其他功能，如远程运行Sikuli测试/自动化，在网格节点上上传/下载文件.
 

@@ -303,7 +303,7 @@
 ### JSON
 
 - [jq](https://github.com/stedolan/jq) - 命令行JSON处理器.
-- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
+- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，不是替换）.
 - [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
 - [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)   - 从JSON中删除评论.  允许您在JSON文件中使用注释！
@@ -322,10 +322,11 @@
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - 整理文件，想象一下即时清理下载内容.
 - [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
+- [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
 ### Deleting, Copying, and Renaming
 
-- [trash-cli](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
+- [trash-cli](https://github.com/sindresorhus/trash-cli) - 将文件和目录移动到废纸篓.
 - [empty-trash-cli](https://github.com/sindresorhus/empty-trash-cli) - 清空垃圾.
 - [del-cli](https://github.com/sindresorhus/del-cli) - 删除文件和文件夹.
 - [cpy-cli](https://github.com/sindresorhus/cpy-cli) - 复制文件.

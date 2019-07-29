@@ -26,6 +26,7 @@
 * [Pacifica](https://www.thinkpacifica.com/)   - 与支持性社区一起应对压力，焦虑和抑郁的日常工具.  基于认知行为疗法和正念冥想.
 * [Quirk](https://getquirk.app/) - 适用于iOS的开源移动认知行为疗法（CBT）应用程序.
 * [Three Good Things](https://three-good-things.glitch.me/) - 每天早上写下你生活中的三件好事.
+* [we are ANXIO.us](http://weareanxio.us) - 精神健康和健康应用程序的集合，以及资源.
 
 ## Articles
 
@@ -37,6 +38,7 @@
 * [Developer Depression: Isolation Is The Biggest Problem](https://thenextweb.com/insider/2012/10/20/are-developers-depressed/#gref) - 作者Lauren Maffeo.
 * [Developers: How to Overcome Imposter Syndrome](https://medium.com/learn-love-code/developers-how-to-overcome-imposter-syndrome-48edee803cf4) - 作者：Abhishek Pillai.
 * [Do Not Disturb](https://joebell.co.uk/blog/do-not-disturb/) - 乔·贝尔
+* [Encouraging Wellness in a Remote Workpalce](https://dev.to/desi/encouraging-wellness-in-a-remote-workplace-17m5) - 由Desi Rottman撰写.
 * [For The Developers With Anxiety, And Everyone Else](https://medium.com/envato/for-the-developers-with-anxiety-and-everyone-else-834cc2517eba) - 由Daine Mawer.
 * [How I Beat Impostor Syndrome And Stopped Feeling Like A Fake](http://codingmindfully.com/how-i-beat-impostor-syndrome/) - 由Daragh Byrne撰写.
 * [How I Conquered Anxiety And Learned To LOVE Coding](https://skillcrush.com/2015/06/18/eliminate-your-coding-anxiety/) - 乔伊斯明子.
@@ -63,11 +65,11 @@
 * [Tips For Dealing With Developer Stress](https://www.airpair.com/javascript/posts/tips-for-dealing-with-developer-stress) -  Rich McLaughlin.
 * [Tips To Maintain Your Mental Health As A Software Developer](https://www.brightdevelopers.com/tips-maintain-mental-health-software-developer/) - 由Steven To.
 * [We Need To Talk About Developers And Depression](https://www.creativebloq.com/web-design/we-need-talk-about-developers-and-depression-101413045) -  Greg Baugues.
-* [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) -  Daniel Graziotin，Fabian Fagerholm，Xiaofeng Wang和Pekka Abrahamssone.
+* [What Happens When Software Developers Are (un)Happy](https://www.sciencedirect.com/science/article/pii/S0164121218300323) -  Daniel Graziotin，Fabian Fagerholm，Xiaofeng Wang和Pekka Abrahamsson.
 * [What It's Like Being A Developer With Schizoaffective Disorder](https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei) - 弗里斯
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - 作者：Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - 由Theodora S. Abigail撰写.
-* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - 作者：Muhammed Rajeef M K.
+* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
 
 ## Books
 
@@ -120,13 +122,13 @@
 * [A Conversation About Mental Health In Tech - Distill 2014](https://vimeo.com/105802592) -  Ed Finkler，Greg Baugues，John Dalton和Paddy Foran.
 * [Advocating For Mental Health At Work - AnxietyTech 2018](https://www.youtube.com/watch?v=GfTSrtJgemQ) - 杰西卡·迪万托博士.
 * [Anxiety & Calm Technology - AnxietyTech 2018](https://www.youtube.com/watch?v=hhliVWI4mCY) - 由Amber Case提供.
-* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - 作者：AnastasiaLópezDor.
+* [Authentic Developer - Droidcon Berlin 2018](https://www.youtube.com/watch?v=k6tROMj_rIQ) - 作者：AnastasiaLópezDornak.
 * [Beyond Burnout: Mental Health And Neurodiversity In Engineering - DevOpsDays Boston 2018](https://www.youtube.com/watch?v=NGiy02nEcG8) - 詹姆斯梅克尔.
-* [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - By April Wensel.
+* [Cultivating Compassionate Tech Communities - AnxietyTech 2018](https://www.youtube.com/watch?v=4COZk8IjbJs) - 四月文塞尔.
 * [Debugging Our Feelings: Cognitive Behavioural Therapy For Developers - Peers Conference 2018](https://vimeo.com/253833709) - 杰米斯特拉坎.
 * [Developers And Depression - Codeland NYC 2017](https://www.youtube.com/watch?v=us4w6lBV30Y) -  Greg Baugues.
 * [Developers, Entrepreneurs And Depression - Business Of Software 2015](https://www.youtube.com/watch?v=zUQjZZJjKsY) -  Greg Baugues.
-* [Emotional Intelligence For Engineers - ngAtlanta 2018](https://www.youtube.com/watch?v=SJnVhkEx8Cs) - By April Wensel.
+* [Emotional Intelligence For Engineers - ngAtlanta 2018](https://www.youtube.com/watch?v=SJnVhkEx8Cs) - 四月文塞尔.
 * [Fight Tech With Tech - AnxietyTech 2018](https://www.youtube.com/watch?v=DDka7_Yaaw4) - 由帕梅拉福克斯.
 * [Getting Therapy To Those Who Need It Most - AnxietyTech 2018](https://www.youtube.com/watch?v=O4AWH5o1NVk) -  Shawn Kernes.
 * [Hacking With My Anxiety - AnxietyTech 2018](https://www.youtube.com/watch?v=8tB6Eo8iJ70) - 布莱恩休斯.
@@ -139,7 +141,7 @@
 * [Looking After Your Mental Health, A Guide For Software Developers - PHP Yorkshire 2018](https://www.youtube.com/watch?v=ITY3RAg_PW0) - 马克·莱顿.
 * [Mental Health In Development - PyCon Australia 2016](https://www.youtube.com/watch?v=P4wWbHvNAvY) -  Eloise Macdonald-Meyer.
 * [Modern Mindfulness - Hey! 2016](https://www.youtube.com/watch?v=Dc2JkIXfx8I) - 乔·贝尔
-* [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - By April Wensel.
+* [Programmers Don't Like People...Or Do They? - Node.js Interactive 2018](https://www.youtube.com/watch?v=HPFuHS6aPhw) - 四月文塞尔.
 * [Self Care: Avoiding Burnout - AnxietyTech 2018](https://www.youtube.com/watch?v=P4eR419RgVc) - 由Shemika Lamare.
 * [Stress & Depression, A Taboo In Our Time - GOTO 2017](https://www.youtube.com/watch?v=jGG6Wip_PGg) - 由Gitte Klitgaard撰写.
 * [Stronger Than Fear: Mental Health In The Developer Community - ElixirDaze 2017](https://www.youtube.com/watch?v=7CoEDFOXJQo) - 艾德芬克勒.
