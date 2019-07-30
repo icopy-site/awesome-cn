@@ -75,6 +75,7 @@
 - [Tricks for your calculator](https://www.youtube.com/watch?v=3GfuVDtGhWo)
 - [How to use scientific calculator?](https://www.youtube.com/watch?v=3GfuVDtGhWo)
 - [Scott Flansburg, the human calculator](https://www.youtube.com/watch?v=WhtvLpi8Z1M)
+- [15 Year Old Yaashwin Sarawanan is a human calculator | Asia's Got Talent 2019](https://www.youtube.com/watch?v=kvymoFdjuHw)
 
 ---
 

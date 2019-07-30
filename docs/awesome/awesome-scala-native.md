@@ -48,6 +48,7 @@
 * [libsoup](https://github.com/jokade/scalanative-libsoup) - 绑定 [libsoup](https://wiki.gnome.org/Projects/libsoup) HTTP客户端/服务器库.
 * [libui](https://github.com/lolgab/scalaui) - 基于GUI的GUI框架 [libui](https://github.com/andlabs/libui).
 * [GStreamer](https://github.com/jokade/scalanative-gstreamer) - 绑定 [GStreamer](https://gstreamer.freedesktop.org) 多媒体框架.
+* [Qt](https://github.com/jokade/scalanative-qt5) - 绑定 [Qt](https://www.qt.io).
 
 ## File Formats and Parsers
 * [msgpack4z](https://github.com/msgpack4z/msgpack4z-native) - 实施 [MessagePack](https://msgpack.org/)，二进制序列化格式.

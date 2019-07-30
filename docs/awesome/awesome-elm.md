@@ -24,7 +24,7 @@
 * [Builtwithelm](http://builtwithelm.co/) - 使用elm构建的网站，其中包含使用Elm构建的项目和应用程序列表.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - 全栈榆树应用程序与CRUD操作，身份验证，路由，分页等. [Code](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 * [Elm Example App](https://github.com/sporto/elm-example-app) - 在Elm学习基础知识的小型SPA示例
-* [TodoMVC](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [TodoMVC](https://github.com/evancz/elm-todomvc) - 正确实施TodoMVC应用程序.
 * [TodoMVC with JSON API](https://github.com/andrewsuzuki/elm-todo-rest-api) - 具有JSON API持久性的裸机，模块化，文档齐全的todo应用程序.
 * [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) -  TodoMVC的Fork展示了start-app， [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial) 和Firebase作为后端.
 * [TodoMVC in Electron](https://github.com/nirgn975/Elmctron) - 在Electron中对Elm TodoMVC应用程序进行了记录和测试.
@@ -95,12 +95,12 @@
 
 ## Articles
 
- *阅读要领.  查看官方Elm博客： [elm-lang.org/blog](http://elm-lang.org/blog)*
+*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/blog)*
 
 ### Why Elm?
 
 * [Side-effects of Elm in production](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html?utm_campaign=Elm%20Weekly&utm_medium=email&utm_source=Revue%20newsletter) -  Bellroy的经验报告
-* [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - 团队如何使用Elm为客户构建关键业务Web应用程序.
+* [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
 * [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - 使用Elm中的游戏从命令式编程转换为函数式编程.
 * [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - 榆树中的虚拟DOM.
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - 瑞典创业公司对榆树发展的一些看法.
@@ -110,7 +110,7 @@
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
 
 ### Outdated articles (Not relevant for current Elm architecture)
 
@@ -209,7 +209,7 @@
 
 ## Tools
 
-* Elm平台周围的工具.*
+*与榆树有关的有用工具.*
 
 * [Elm Live](https://elm-live.com/)   -  Elm灵活的开发服务器.  包括实时重载！
 * [Elm Format](https://github.com/avh4/elm-format) - 遵守自动榆木代码格式化程序 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
@@ -220,6 +220,8 @@
 * [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - 从Elm生成Typescript定义.
 * [HTML to Elm](http://mbylstra.github.io/html-to-elm/)   - 将HTML转换为Elm Html.  将应用程序移植到Elm时很有用.
 * [Dependabot](https://dependabot.com) - 自动更新elm-package.json的PR.
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - 榆树离线文档预览器 
+* [Quicktype](https://github.com/quicktype/quicktype) - 从JSON生成JSON解码器和编码器
 
 ### Run Elm
 

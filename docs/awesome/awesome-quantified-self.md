@@ -17,7 +17,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Quantified Self](http://quantifiedself.com/) - 官方网站.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - 自我监督和量化新闻.
 - [Wearables Database](http://vandrico.com/wearables/) - 每个身体部位可用的可穿戴设备列表.
-- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [Wolfram Connected Devices Project](http://devices.wolfram.com/) -  IoT和量化自我设备列表.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - 量化自我研究和创新项目.
 
 ## Articles & Blogs
@@ -47,7 +47,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ## Applications and Platforms
 
 ### Fitness
-- [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
+- [Runkeeper](http://runkeeper.com/) - 户外健身活动追踪器（iOS和Android）.
 - [Endomondo](https://www.endomondo.com/) - 体育和健康统计跟踪器（iOS和Android）.
 - [Runtastic](https://www.runtastic.com/) - 跑步，骑行和健身GPS追踪器（iOS和Android）.
 - [EveryMove Fit](http://everymovefit.com/) - 社交健身和目标跟踪平台（iOS和Android）.
@@ -58,7 +58,6 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [RoadGoat](https://www.roadgoat.com/) - 旅行跟踪，与此处列出的许多平台（Web）的自动集成.
 - [Swarm](https://www.swarmapp.com/) - 通过GPS（iOS和Android）进行兴趣点自动检查.
 - [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) - 通过GPS（iOS）跟踪您的移动和访问过的地点.
-- [Moves](https://moves-app.com/) - 生活中的活动日记，现在关闭（iOS和Android）.  
 
 ### Aggregators & Dashboards
 - [Memento Labs](https://mementolabs.io) - 使用可穿戴设备和A / B测试的个性化健康和保健行动计划. 
@@ -102,7 +101,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Taskade](https://www.taskade.com/)   - 简单易用的任务，清单和备注.  （网络，iOS和Android）.
 
 ### Habits
-- [Habitica](https://habitica.com) - 一个习惯跟踪应用程序，可以像角色扮演游戏（Web，iOS和Android）一样对待您的目标.
+- [Habitica](https://habitica.com) - A habit tracking app which treats your goals like a role playing game (Web, iOS & Android).
 - [HabitBull](http://www.habitbull.com/) - 一个简单的移动习惯跟踪应用程序，用于构建和跟踪条纹（iOS和Android）.
 - [Strides](http://www.stridesapp.com/) - 使用SMART目标设置（Web，iOS）跟踪您的目标，习惯和项目的应用程序.
 - [Habit List](http://habitlist.com/) - 创造良好习惯，打破坏习惯，打造更好的你（iOS）.
@@ -122,7 +121,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ### Media Consumption
 - [Goodreads](https://www.goodreads.com/) - 允许用户跟踪书籍并与其他读者（Web，iOS，Android）进行网络评级. 
-- [Last.fm](http://www.last.fm/) - 通过桌面和移动应用程序或连接到音乐服务（Web，iOS，Android）来跟踪您收听的音乐.
+- [Last.fm](http://www.last.fm/) - Track the music you listen to by scrobbling via desktop and mobile apps or by connecting to music services (Web, iOS, Android).
 - [Trakt](https://trakt.tv/) - 自动跟踪您正在观看的电视和电影（网络，媒体播放器）.
 - [Pocket](https://getpocket.com/)  - 让您保存文章以便稍后阅读（Web，iOS，Android）.
 - [PhotoStats](http://www.photostats.io/) - 使用机器学习（iOS，Android）进行可视化，分析和自动标记的照片跟踪.

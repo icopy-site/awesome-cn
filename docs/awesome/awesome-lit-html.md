@@ -154,6 +154,7 @@
 - [lit-ntml](https://github.com/motss/lit-ntml) - 在lit.html的启发下，Node.js中SSR的轻量级和现代模板.
 - [lite-html](https://github.com/ruphin/lite-html) -  VirtualDOM渲染引擎的现代替代品.
 - [modulor-html](https://github.com/modulor-js/modulor-html) - 缺少Web组件的模板引擎.
+- [nanohtml](https://github.com/choojs/nanohtml) - 浏览器的HTML模板字符串，支持节点中的服务器端渲染.
 - [picohtml](https://github.com/stepanvanzuriak/picohtml) - 强大的~2kB（gzip）HTML模板字符串.
 
 ## Other awesome resources

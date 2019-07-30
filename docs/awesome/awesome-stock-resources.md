@@ -18,7 +18,7 @@
 * [ABSFreePic](http://absfreepic.com/) - 高分辨率和完全免费的照片库存网站.
 * [Altphotos](https://altphotos.com) - 每日添加精心挑选的免费高分辨率照片.
 * [Barn Images](https://barnimages.com/) -  Barn Images为您提供免费的高分辨率非库存照片.
-* [CC0 Photo](http://cc0.photo/) -  CC0.photo是由Raffael Herrmann发起的一个项目，为您提供免费照片.
+* [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
 * [Creative Commons Search](http://search.creativecommons.org/) - 跨多个图书馆的元搜索，以查找适应性/可编辑的图像
 * [Crow the Stone](http://crowthestone.tumblr.com/) - 免费照片以您想要的任何方式使用.
 * [Cupcake](http://cupcake.nilssonlee.se/) - 免费做任何你想要的照片 [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
@@ -127,6 +127,7 @@
 
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) Flickr Commons上的大英图书馆馆藏提供了对数百万公共领域图像的访问.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) 来自旧书的大量插图集.
+* [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) 您可以想象和创建的每个项目的开源插图.
 
 ## Vector Graphics
 
@@ -142,7 +143,7 @@
 
 ## Videos
 
-A selection of websites offering high quality video stock.
+精选的网站提供高品质的视频库存.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/)  为您的主页提供美丽，免费的CC0许可视频.  每周一7个新视频.
 * [Distill](http://www.wedistill.io/)   - 为您的个人和商业用途免费提供精选的高清视频.  每10天10个免费高清视频.

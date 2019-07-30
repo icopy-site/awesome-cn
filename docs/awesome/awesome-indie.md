@@ -336,6 +336,7 @@
 - **[Marketing for Developers](https://justinjackson.withcoach.com/marketing-for-developers-the-book)** [$] by [Justin Jackson](https://twitter.com/mijustin).
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
+- **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
 
 ##### Other
 

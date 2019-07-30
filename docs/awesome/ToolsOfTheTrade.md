@@ -5,7 +5,7 @@
 
 ##### Background
 
-2010年，美味的创始人Joshua Schachter， [posted the following](https://news.ycombinator.com/item?id=1769910) 在黑客新闻：
+In 2010, Joshua Schachter, the founder of Delicious, [posted the following](https://news.ycombinator.com/item?id=1769910) 在黑客新闻：
 
  &gt;当我第一次开始美味时，我们必须自己承载大部分服务.  CVS，邮件，邮件列表等等
 >
@@ -65,7 +65,7 @@
 | [BitBucket Issues](https://bitbucket.org) | [@bitbucket](https://twitter.com/bitbucket)  |  $ 10 /月 -  $ 200 /月，无限私人代码库|  在云中托管，管理和共享Git和Mercurial存储库.  免费，无限制的私有存储库，最多可供5位开发人员使用，可以灵活地进行扩展和编码，不受任何限制.  |
 | [BugHerd](https://bugherd.com) | [@bugherd](https://twitter.com/bugherd) | $29/mo - $180/mo | Turn client feedback into actionable tasks. BugHerd lets you quickly see, at a glance, how your project is going and what everyone is working on. The task board lets you keep team members in sync by assigning and scheduling tasks with a simple drag and drop. |
 | [Bugify](https://bugify.com) | [@bugify](https://twitter.com/bugify)  |  $ 59.00 |  自托管问题管理系统.  一次性支付.  用PHP编写.  |
-| [GitHub Issues](https://github.com) | [@GitHub](https://twitter.com/GitHub) | $7/mo - $50/mo | Build software better, together. GitHub is the largest code host on the planet with over 13.2 million repositories. Large or small, every repository comes with the same powerful tools. These tools are open to the community for public projects and secure for private projects. |
+| [GitHub Issues](https://github.com) | [@GitHub](https://twitter.com/GitHub)  |  7美元/月 -  50美元/月|  一起构建更好的软件.  GitHub是全球最大的代码主机，拥有超过1320万个存储库.  无论大小，每个存储库都带有相同的强大工具.  这些工具对社区开放，用于公共项目，并为私人项目提供安全保障.  |
 | [GitLab Issues](https://about.gitlab.com) | [@gitlab](https://twitter.com/gitlab)  |  免费|  GitLab是一个开源软件，用于协作全球100,000多个组织使用的代码.  GitLab.com上无限制的私有存储库或托管您自己的实例.  企业版包括深度LDAP支持.  |
 | [Huboard](https://huboard.com) | [@huboard](https://twitter.com/huboard)  |  7美元/月 -  24美元/月|  GitHub问题为GitHub存储库做了很棒的即时项目管理
 | [JIRA](https://www.atlassian.com/software/jira) | [@JIRA](https://twitter.com/JIRA)  |  10美元/月托管 -  10美元/年自托管|  JIRA是团队规划和构建优质产品的跟踪器.  成千上万的团队选择JIRA来捕获和组织问题，分配工作并跟踪团队活动.  在您的办公桌上或随时随地使用新的移动界面，JIRA可帮助您的团队完成工作.  |
@@ -93,9 +93,9 @@
 | [Redmine](https://www.redmine.org)  |   -  |   -  |  灵活的项目管理Web应用程序  使用Ruby on Rails框架编写，它是跨平台和跨数据库的.  |
 | [JIRA Agile](https://www.atlassian.com/software/jira/agile) | [@jira](https://twitter.com/JIRA)  |  10美元/月 -  30美元/月|  梦想大，工作聪明，交付快.  @JIRA，@ Conffence，@ Bitbucket等的制造商.  用于规划，协作，编码和支持的软件.  专为团队而设
 | [Tom's Planner](https://www.tomsplanner.com) | [@tomsplanner](https://twitter.com/tomsplanner)  |  9美元/月 -  19美元/月|  Tom&#39;s Planner是在线甘特图软件，允许任何人通过简单的拖放操作在线创建，协作和共享甘特图.  它基于Web，非常直观且易于使用.  |
-| [LeanKit](https://leankit.com) | [@leankit](https://twitter.com/leankit)  |  $ 15 /月 -  $ 19 /月|  即时项目可见性.  在LeanKit中，您可以将组织的流程映射到虚拟白板上.  在每块板上，工艺步骤表示为垂直和水平通道.  卡片代表工作项目，团队成员在完成工作份额时更新并从全面移动.  管理人员和客户只需查看董事会，而不必询问状态报告.  全球范围内的电路板更新在几秒钟内即可显示，电子邮件警报和RSS源可用，因此您和您的团队可以立即采取措施解决问题，然后再解决严重问题.  |
+| [LeanKit](https://leankit.com) | [@leankit](https://twitter.com/leankit)  |  $ 15 /月 -  $ 19 /月|  即时项目可见性.  在LeanKit中，您可以将组织的流程映射到虚拟白板上.  在每块板上，工艺步骤表示为垂直和水平通道.  卡片代表工作项目，团队成员在完成工作份额时更新并从全面移动.  管理人员和客户只需查看董事会，而不必询问状态报告.  全球各地都可以看到电路板更新，电子邮件警报和RSS源可供使用，因此您和您的团队可以立即采取措施解决问题，然后再解决严重问题.  |
 | [Breeze](https://www.breeze.pm) | [@BreezeTeam](https://twitter.com/BreezeTeam)  |  29美元/月 -  129美元/月|  组织和跟踪一切.  Breeze向您展示了正在进行的工作，谁正在研究什么，工作流程中的内容以及花费的时间.  |
-| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp) | $8/mo - $48/mo | Piece of mind for freelancers. We built Cushion as a team of freelancers who always had trouble planning and managing our year—constantly taking on too much work and never thinking to take a break. |
+| [Cushion](https://cushionapp.com/) | [@cushionapp](https://twitter.com/cushionapp)  |  8美元/月 -  48美元/月|  自由职业者的心灵.  我们建立了Cushion作为一个自由职业者团队，他们总是很难规划和管理我们的一年 - 不断承担太多的工作，从不考虑休息.  |
 | [Clickup](https://clickup.com) | [@clickup_app](https://twitter.com/clickup_app) | $0 - $5/mo | ClickUp's #1 rated productivity software is making more productive projects with a beautifully designed and intuitive platform. |
 
 ### Time Tracking
@@ -106,8 +106,8 @@
 | [Clockify](https://clockify.me) | [@clockify](https://twitter.com/clockify)  |  免费|  Clockify是唯一的100％空闲时间跟踪软件，只需点击一下即可让您和您的团队跟踪时间.  它像Toggl一样工作，但提供无限的功能和无限的用户.  |
 | [Hubstaff](https://hubstaff.com) | [@hubstaff](https://twitter.com/Hubstaff)  |  免费 -  $ 9 /月|  Hubstaff是时间跟踪软件，旨在使远程团队管理更加有效和高效.  您只需注册，下载我们直观的桌面应用程序并按下开始按钮即可开始跟踪时间.  |
 | [Tickspot](https://www.tickspot.com/) | [@tickspot](https://twitter.com/tickspot)  |  免费 -  $ 149 /月|  直观的时间跟踪软件，帮助您的团队运行更有利可图的项目.  无论您喜欢iOS，Android，Apple Watch还是台式电脑，Tick都是追踪时间的最简单方式.  |
-| [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org) | self-hosted | Kimai is a Free open source timetracker. It tracks work time and prints out a summary of your activities on demand. Yearly, monthly, daily, by customer, by project, by action, etc. |
-| [Timetrap](https://github.com/samg/timetrap)  |   -  |  免费|  简单的开源命令行时间跟踪|
+| [Kimai](https://www.kimai.org/) | [@kimai_org](https://twitter.com/kimai_org)  |  自托管|  Kimai是一个免费的开源时间跟踪器.  它跟踪工作时间并根据需要打印出您的活动摘要.  每年，每月，每日，按客户，按项目，按行动等
+| [Timetrap](https://github.com/samg/timetrap) | - | Free | simple open source command line time tracking |
 
 ### App Developer Tools
 
@@ -211,17 +211,19 @@
 | [Bamboo](https://www.atlassian.com/software/bamboo) | [@atlassian](https://twitter.com/atlassian)  |  10美元/月 -  1000美元/月|  Bamboo不仅仅运行构建和测试.  它连接问题，提交，测试结果和部署，因此整个产品团队都可以使用 - 从项目经理，开发人员和测试人员到系统管理员.  |
 | [Buildkite (Buildbox)](https://buildkite.com) | [@buildkite](https://twitter.com/buildkite)  |  $ 15 / dev / mo |  半托管持续集成和部署.  Buildkite使用您自己的基础架构来运行构建，以便您可以测试任何语言或运行任何部署脚本.  您可以根据需要运行任意数量的并行代理（和构建）.  |
 | [Crucible](https://www.atlassian.com/software/crucible) | [@atlassian](https://twitter.com/atlassian)  |  $ 10 /月 -  $ 8000 /月|  代码审查系统.  使用Crucible灵活的审核工作流程审核代码，讨论变更，分享知识并识别缺陷.  它的代码审查对于Git，Subversion，CVS，Perforce等都很容易.  |
-| [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp)  |  0美元/月 -  50美元/月|  工作服与您的持续集成服务器配合使用，为您提供测试覆盖历史记录和统计信息.  它与任何语言集成，并且是免费的开源.  |
+| [Coveralls](https://coveralls.io) | [@coverallsapp](https://twitter.com/coverallsapp)  |  0美元/月 -  50美元/月|  工作服与您的持续集成服务器配合使用，为您提供测试覆盖历史记录和统计信息.  它集成了任何语言，并且是免费的开源.  |
 | [Testributor](http://about.testributor.com) | [@testributor](https://twitter.com/testributor)  |  免费|  Testributor是一个开源的持续集成平台.  托管版本可免费使用，包括开源和私有项目.  |
 | [Wercker](https://www.oracle.com/corporate/acquisitions/wercker/) | [@wercker](https://twitter.com/wercker)  |  0美元/月 -  350美元/月|  Wercker是用于Kubernetes和微服务部署的Docker-Native CI / CD自动化平台.  |
 | [Monkey Test It](https://monkeytest.it) | [@monkeytestit](https://twitter.com/monkeytestit)  |  0美元/月 -  199美元/月|  自动化网站检查工具，可以在用户访问之前捕获网站上的错误（链接损坏，缺少图像，JS错误等）.  与Slack，大多数CI系统，webooks集成，并支持内置调度.  |
 | [Concourse](https://concourse-ci.org) | [@concourseci](https://twitter.com/concourseci)  |  免费|  Concourse是一个开源的连续事物.  Concourse以简单的资源，任务和工作机制为基础，提供了一种自动化的通用方法，使其非常适合CI / CD.  |
+| [PullRequest](https://www.pullrequest.com) | [@pullrequestinc](https://twitter.com/pullrequestinc)  |  $ 33 + / 10分钟|  由静态分析支持的经过审查的专业审核人员进行代码审查服务
+
 
 ### Dashboards
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [Geckoboard](https://www.geckoboard.com) | [@geckoboard](https://twitter.com/geckoboard)  |  17美元/月 -  899美元/月|  认识Geckoboard.  这是您的关键数据，在一个地方.  Geckoboard监控您的业务的重要标志 - 不要等待，因为它发生在业务仪表板上.  关注重要事项并更快地对重要事件做出反应.  |
+| [Geckoboard](https://www.geckoboard.com) | [@geckoboard](https://twitter.com/geckoboard) | $17/mo - $899/mo | Meet Geckoboard. It's Your Key Data, In One Place. Geckoboard monitors your business’s vital signs – don’t wait, see it live on a business dashboard as it happens. Focus on what matters and react faster to important events. |
 | [Telemetry](https://www.telemetrytv.com) | [@telemetrytv](https://twitter.com/telemetrytv)  |  9美元/月 -  749美元/月|  使用可与大多数现代语言配合使用的简单REST API，在大屏幕电视，台式计算机，移动设备和嵌入式系统上构建具有强大可视化效果的实时仪表板.  |
 | [Dashing](http://dashing.io)  |   -  |   -  |  Dashing是一个基于Sinatra的框架，可以让您构建漂亮的仪表板.  |
 | [Klipfolio](https://www.klipfolio.com) | [@klipfolio](https://twitter.com/klipfolio)  |  $ 5 / user / mo  -  $ 20 / user / mo |  满足您的业务仪表板.  连接到任何数据服务，将您的密钥号码放在一个仪表板上.  将数据分配给可视化以显示数字背后的故事.  通过与团队中的每个人共享仪表板来培养数据驱动的文化.  |
@@ -249,7 +251,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter)  |  免费 -  129美元/月，具体取决于应用程序数量和所有者数量|  分发iOS，Android，Windows Phone和Mac OS应用程序.  包括分析，用户反馈和崩溃报告.  |
+| [HockeyApp](https://www.hockeyapp.net) | [@VSAppCenter](https://twitter.com/VSAppCenter) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps. Includes analytics, user feedback and crash reports. |
 | [Setapp](https://setapp.com) | [@setapp](https://twitter.com/setapp)  |  9.99美元/月|  Setapp是一个单一的订阅，为macOS提供了大量优质应用程序
 
 ### Log Monitoring
@@ -259,7 +261,8 @@
 | [Fluentd](https://www.fluentd.org) | [@fluentd](https://twitter.com/fluentd)  |   -  |  设置一次，收集更多.  Fluentd是一个专为处理数据流而设计的开源数据采集器.  150多个插件可立即使您能够存储日志管理，大数据分析等数据
 | [Flume](https://github.com/apache/flume) | - | - | - |
 | [Graylog](https://www.graylog.org) | [@graylog2](https://twitter.com/graylog2)  |   -  |  经过实地测试的开源数据分析系统在全球范围内使用和信任.  搜索您的日志，创建图表，发送报告以及在发生事件时收到警报.  全部在数据中心的现有JVM上运行.  |
-| [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries) | $16/mo - $245/mo | Log Management & Analytics Made Easy. Logentries provides an easy-to-use cloud service for log management and analytics. |
+| [LogDNA](https://logdna.com) | [@logdna](https://twitter.com/LogDNA)  |  免费 -  $ 3 / gb |  日志管理现代化：任何平台上任何卷的实时日志聚合，监控和分析.  |
+| [LogEntries](https://logentries.com) | [@logentries](https://twitter.com/logentries)  |  $ 16 /月 -  $ 245 /月|  日志管理和分析变得轻松.  Logentries为日志管理和分析提供易于使用的云服务.  |
 | [Loggly](https://www.loggly.com) | [@loggly](https://twitter.com/loggly)  |  49美元/月 -  349美元/月|  更快地解决运营问题.  Loggly帮助以云为中心的组织 - 构建和管理面向云的应用程序的组织 - 更快地解决操作问题.  |
 | [Logstash](https://www.elastic.co/products/logstash) | [@logstash](https://twitter.com/logstash)  |   -  |  从任何源发送日志，解析它们，获取正确的时间戳，索引它们并搜索它们.  Logstash是用于管理事件和日志的工具.  您可以使用它来收集日志，解析它们并存储它们以供以后使用（例如，用于搜索）.  说到搜索，Logstash附带了一个Web界面，用于搜索和钻取所有日志.  |
 | [Papertrail](https://papertrailapp.com) | [@papertrailapp](https://twitter.com/papertrailapp)  |  7美元/月 -  230美元/月|  无挫折的日志管理.  在几秒钟内开始.  使用Papertrail的省时日志工具，灵活的系统组，团队范围的访问，长期存档，图表和分析导出，监控webhooks和45秒设置.  |
@@ -272,11 +275,13 @@
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
 | [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta)  |  免费至$ 119 /月|  针对Web应用程序的全栈应用程序监控.  通过查看事务，错误，浏览器指标，主机指标等，了解代码，网络和最终用户，尤其是针对多语言和面向服务的应用程序.  |
+| [DripStat](https://dripstat.com) | [@DripStat](https://twitter.com/dripstat)  |  20美元/月|  Java的应用程序监视.  下一代Java APM.  整个堆栈的完全可见性.  专为Java设计.  支持SQL数据库，MongoDB和Cassandra.  |
+| [AppNeta](https://www.appneta.com) | [@AppNeta](https://twitter.com/AppNeta)  |  免费至$ 119 /月|  针对Web应用程序的全栈应用程序监控.  通过查看事务，错误，浏览器指标，主机指标等，了解代码，网络和最终用户，尤其是针对多语言和面向服务的应用程序.  |
 | [DripStat](https://www.dripstat.com/) | [@DripStat](https://twitter.com/dripstat)  |  20美元/月|  Java的应用程序监视.  下一代Java APM.  整个堆栈的完全可见性.  专为Java设计.  支持SQL数据库，MongoDB和Cassandra.  |
 | [New Relic](https://newrelic.com) | [@NewRelic](https://twitter.com/NewRelic)  |  $ 149 /月|  应用程序监控所有Web应用程序.  它是关于从您的软件产生的数十亿指标中获取可操作的实时业务洞察，包括用户点击流，移动活动，最终用户体验和交易.  |
 | [AppSignal](https://appsignal.com) | [@AppSignal](https://twitter.com/AppSignal)  |  49美元/月 -  259美元/月|  更好地监控您的Rails应用程序.  通过平均值和第90百分位测量值获取有关您网站性能的详细统计信息.  |
 | [Instrumental](https://instrumentalapp.com) | [@instrumental](https://twitter.com/instrumental)  |  150美元/月 -  750美元/月|  实时监控您的应用程序.  工具用于以极其高的规模监控指标.  以每秒500,000个指标和更高的速度，它甚至没有打破汗水
-| [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp)  |  12美元/月 -  159美元/月|  简单的JavaScript错误跟踪.  Atatus是一个简单的错误跟踪和正常运行时间监控系统.  添加两行代码，并实时了解应用程序中发生的任何错误.  |
+| [Atatus](https://www.atatus.com) | [@atatusapp](https://twitter.com/atatusapp) | $12/mo - $159/mo | Simple JavaScript Error Tracking. Atatus is a simple error tracking and uptime monitoring system. Add two lines of code and get alerted on any errors that occurs in your application in realtime. |
 
 ### Load Testing
 
@@ -317,7 +322,7 @@
 | [Tender](https://tenderapp.com/) | [@tenderapp](https://twitter.com/tenderapp)  |  9美元/月 -  99美元/月|  更好，更简单的客户支持软件.  全力支持您的客户！  通过公共论坛，您可以为用户提供公共空间，以讨论常见问题并获得反馈，同时仍将某些类别保密（计费，订单等）.  高级用户可以订阅类别和新讨论，并帮助其他客户.  |
 | [Enchant](https://www.enchant.com) | [@enchant](https://twitter.com/enchant)  |  9美元/月|  就像类固醇上的gmail一样！  附魔是一个强大的帮助台，可以帮助您的团队为每一位客户提供卓越的支持.  对于您的客户，它只是电子邮件.  他们永远不会看到票号，也永远不会登录任何东西！  |
 | [Freshdesk](https://freshdesk.com) | [@freshdesk](https://twitter.com/freshdesk)  |  $ 16 /月 -  $ 70 /月|  提供卓越客户支持所需的一切.  Freshdesk让您不会盲目追究问题并控制客户支持问题.  |
-| [UserDeck](https://userdeck.com) | [@user_deck](https://twitter.com/user_deck) | $0 - $25/mo | Customer support software that embeds into your existing website. |
+| [UserDeck](https://userdeck.com) | [@user_deck](https://twitter.com/user_deck)  |  $ 0  -  $ 25 /月|  嵌入现有网站的客户支持软件.  |
 | [Sirportly](https://sirportly.com) | [@sirportly](https://twitter.com/sirportly)  |  £0  - £15 /月|  拓展业务并提供世界级的客户支持.  只需几分钟即可设置您的服务台.  与您的其他软件工具集成，利用自动化规则和宏将您的客户支持提升到一个新的水平，变得更专业，更注重客户，并通过Sirportly将您的客户变成狂热的粉丝.  |
 | [Olark](https://www.olark.com/) | [@olark](https://twitter.com/olark) | - | - |
 | [SnapEngage](https://snapengage.com/) | [@snapengage](https://twitter.com/snapengage)  |  每次集成定制定价，或每月81美元|  高度定制的实时聊天集成|
@@ -345,6 +350,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
+| [Exchange Rate API](https://www.exchangerate-api.com)  |   -  |  免费|  自2010年以来一直用于获取货币汇率的简单API.免费套餐没有注册或请求限制.  |
 | [Filestack](https://www.filestack.com) | [@FileStack](https://twitter.com/FileStack)  |  0美元/月 -  49美元/月|  轻松，强大的文件上传.  从Internet上的任何位置连接，存储和处理任何文件
 | [Open Exchange Rates](https://openexchangerates.org)  |   -  |  12美元/月 -  97美元/月|  实时汇率和货币转换JSON API.  一个简单易用的JSON格式汇率API，支持HTTPS和JSONP，包含示例，指南和完整文档.  |
 | [FormAPI](https://formapi.io) | [@form_api](https://twitter.com/form_api)  |  49美元/月 -  249美元/月|  PDF面向开发人员的服务.  使程序员可以轻松填写​​和签署PDF文档.  如果您需要生成大量合同，发票等，可以节省大量的开发时间
@@ -354,7 +360,7 @@
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
 | [Elasticsearch](https://www.elastic.co/products/elasticsearch) | [@elastic](https://twitter.com/elastic)  |   -  |  端到端的搜索和分析平台.  无限多才多艺.  通过结合广受欢迎的Elasticsearch，Logstash和Kibana，我们创建了一个端到端堆栈，可以从几乎任何类型的结构化和非结构化数据源实时提供可操作的洞察.  Elasticsearch ELK堆栈由每个开源产品背后的工程师构建和支持，使搜索和分析数据变得前所未有的简单.  |
-| [Swiftype](https://swiftype.com) | [@Swiftype](https://twitter.com/swiftype) | Free - $250/mo, Enterprise Plans available | Swiftype is a hosted website search service, available as a web crawler or as an API integration. API clients are available for major frameworks and languages, plugins are available for major third party platforms. |
+| [Swiftype](https://swiftype.com) | [@Swiftype](https://twitter.com/swiftype)  |  免费 - 每月250美元，企业计划可用|  Swiftype是一种托管网站搜索服务，可用作网络爬虫或API集成.  API客户端可用于主要框架和语言，插件可用于主要的第三方平台.  |
 | [Algolia](https://www.algolia.com) | [@Algolia](https://twitter.com/Algolia)  |  49美元/月 -  449美元/月|  构建实时搜索.  Algolia是一个完全托管的搜索服务，可作为REST API使用.  API客户端也可用于所有主要框架，平台和语言.  |
 | [Apache Solr](https://lucene.apache.org/solr/)  |   -  |   -  |  一个开源搜索平台，基于Apache Lucene并与之共同发布.  |
 | [Amazon Cloudsearch](https://aws.amazon.com/cloudsearch/)  |   -  |   -  |  搜索SaaS |
@@ -379,9 +385,9 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [Launchrock](https://www.launchrock.com) | [@launchrock](https://twitter.com/launchrock) | $49/mo - $199/mo | Even if you know how to code a web page with HTML, you'll love how much faster it is with our landing page builder. Load up your logo and graphic assets, set up a few base colors from your brand palette and publish away. |
+| [Launchrock](https://www.launchrock.com) | [@launchrock](https://twitter.com/launchrock)  |  49美元/月 -  199美元/月|  即使您知道如何使用HTML对网页进行编码，您也会喜欢我们的目标网页构建器的速度.  加载您的徽标和图形资源，从您的品牌调色板设置一些基色并发布.  |
 | [Unbounce](https://unbounce.com) | [@unbounce](https://twitter.com/unbounce)  |  49美元/月 -  199美元/月|  Unbounce使营销人员能够独立于技术团队，提高他们的效率和产生销售的能力.  生成高转换率的登陆页面，而不会处理IT瓶颈.  了解Unbounce如何增强您的广告系列并最大限度地提高营销支出.  |
-| [LeadPages](https://www.leadpages.net/) | [@Leadpages](https://twitter.com/Leadpages)  |  25美元/月 -  199美元/月|  使用行业领先的登录页面构建器以及随附的潜在客户生成和选择加入工具套件，生成潜在客户并增加收入.  |
+| [LeadPages](https://www.leadpages.net/) | [@Leadpages](https://twitter.com/Leadpages) | $25/mo - $199/mo | Generate leads and increase revenue using the industry-leading landing page builder with accompanying suite of lead generation and opt-in tools. |
 | [Instapage](https://instapage.com/) | [@Instapage](https://twitter.com/Instapage)  |  29美元/月 -  127美元/月|  用于优化广告支出的目标网页解决方案.  构建，集成，协作和优化.  |
 | [KickoffLabs](https://kickofflabs.com) | [@kickofflabs](https://twitter.com/kickofflabs)  |  29美元/月 -  99美元/月|  停止构建登录页面.  开始构建更智能的广告系列  将客户发送到与他们交谈的定制页面.  让他们参与注册表格，新闻通讯以及 - 最重要的是 - 一个非常酷，独特的REWARD系统，用于推荐客户.  |
 | [Prefinery](https://www.prefinery.com) | [@prefinery](https://twitter.com/prefinery)  |  $ 19 /月 -  399美元/月|  无压力的Beta邀请和管理.  Prefinery是针对严肃产品发布的测试版邀请和管理.  您需要的不仅仅是登录页面 - 将您的测试版外包给Prefinery！  |
@@ -466,6 +472,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
+| [AudienceOps](https://audienceops.com) | [@AudienceOps](https://twitter.com/AudienceOps)  |  850美元/月 -  1700美元/月|  AudienceOps处理您的整个内容策略，以便您可以专注于您的产品.  |
 | [Visual.ly](https://visual.ly) | [@Visually](https://twitter.com/Visually)  |  195美元/月 -  994美元/月|  品牌的原始视觉内容.  我们只与最优秀的创意人才合作.  成千上万的设计师，记者，动画师和开发人员随时准备帮助您实现目标，并将您的项目提升到新的水平.  |
 | [Canva](https://www.canva.com) | [@canva](https://twitter.com/canva)  |   -  |  根据您选择的图像，为免费或几块钱设计带有文字和图形的精彩社交媒体图像
 
@@ -494,7 +501,7 @@
 | [Tinkerpop](https://tinkerpop.apache.org/)  |   -  |   -  |  图形空间中的开源软件产品.  |
 | [Vertabelo](http://www.vertabelo.com) | [@vertabelo](https://twitter.com/Vertabelo)  |   -  |  基于Web的数据库设计工具.  Vertabelo允许您直观地设计PostgreSQL，MySQL，Oracle，SQL Server，SQLite和IBM DB2的数据库模型.  您可以从SQL，XML或使用逆向工程工具导入现有数据库结构.  设计模型后，您可以为各种ORM生成SQL脚本或即用型代码（Propel，jOOQ，SQLAlchemy或 [Vertabelo Mobile ORM](http://mobile-orm.vertabelo.com/)). |
 | [TablePlus](https://tableplus.io) | [@TablePlus](https://twitter.com/TablePlus)  |  $ 0  -  $ 49 |  具有直观GUI工具的现代本机客户端，用于创建，访问，查询和编辑多个数据库：MySQL，PostgreSQL，SQLite，Microsoft SQL Server，Amazon Redshift，MariaDB，CockroachDB，Vertica，Cassandra，Oracle和Redis.  |
-| [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin) | Free | An all-in-one tool for database version management. It allows you to set up a local database server of any versions within a click. |
+| [DBngin](https://dbngin.com) | [@DBngin](https://twitter.com/dbngin)  |  免费|  用于数据库版本管理的一体化工具.  它允许您在单击中设置任何版本的本地数据库服务器.  |
 
 
 ### Accounting/Invoicing
@@ -506,7 +513,7 @@
 | [PaySimple](https://paysimple.com) | [@PaySimple](https://twitter.com/PaySimple)  |  $ 34.95 /月|  简化您的账单和收款方式.  PaySimple是行业领先的支付管理解决方案提供商.  PaySimple使您能够自动计费，收取和存入所有付款，从而简化了结算和收款流程.  我们定制的安全ASP解决方案包括自动定期计费，电子支票处理，直接借记和信用卡处理等一些最低费率.  |
 | [FreshBooks](https://www.freshbooks.com) | [@freshbooks](https://twitter.com/freshbooks)  |  $ 19.95 /月 -  $ 39.95 /月|  会计为您，非会计师.  FreshBooks简单直观，因此会计并不令人生畏.  此外，在美国东部时间周一上午9点​​至下午6点，周一至周五，您可以随时与真实的现场人士交谈.  |
 | [FreeAgent](https://www.Freeagent.com) | [@Freeagent](https://twitter.com/Freeagent)  |  20美元/月|  超过35,000名自由职业者和小型企业信任的会计软件.  通过电子银行对账单协调进出业务的资金，并建立月度余额图表.  |
-| [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale)  |  $ 15.00 |  介绍BLINKSALE无限.  一个计划.  一个价格.  无限的一切.  Blinksale让你看起来最好.  有十几个发票设计和感谢信，你一定会把你的最好的一面.  每次.  |
+| [Blinksale](https://www.blinksale.com) | [@blinksale](https://twitter.com/blinksale) | $15.00 | INTRODUCING BLINKSALE UNLIMITED. ONE PLAN. ONE PRICE. UNLIMITED EVERYTHING. Blinksale makes you look your best. With over a dozen invoice designs & thank you notes, you’re sure to put your best foot forward. Every time. |
 | [Cashboard](https://cashboardapp.com/) | [@cashboard](https://twitter.com/cashboard)  |  8.25美元/月 -  250美元/月|  全球数以万计的自由时间跟踪和发票软件.  Cashboard是我们设计用来纠正这种情况的工具.  它适用于我们的软件咨询，我们认为它也适合您.  经过许多不眠之夜的努力，我们在2007年春天推出了Cashboard.  这是将估算，发票，时间跟踪和在线支付结合到一个工具中的第一个解决方案.  |
 | [Paydirt](https://paydirtapp.com) | [@paydirtapp](https://twitter.com/paydirtapp)  |  8美元/月 -  149美元/月|  智能时间跟踪更轻松的发票在线支付.  在Paydirt中，您只需点击一下即可从任何页面启动计时器.  没有繁琐的菜单.  没有导航.  只是每个任务的开始按钮.  |
 | [inDinero](https://www.indinero.com) | [@indinero](https://twitter.com/indinero) | - | - |
@@ -514,6 +521,8 @@
 | [Xero](https://www.xero.com) | [@Xero](https://twitter.com/xero/) | - | - |
 | [Fast409A](https://Fast409A.io) | [@ltse](https://twitter.com/ltse)  |  2000美元（取决于启动资金阶段）|  Fast409A.io流程融合了最好的软件和人类专业知识.  每个409A评估需要一个小时或更短的时间来提交，以几天而不是几周的时间交付，并根据您的个人创业的细微差别进行定制.  |
 | [Runway](https://startuprunway.io) | [@ltse](https://twitter.com/ltse)  |  免费|  大多数创业公司都因现金流失而死亡.  跑道是一种简单，直观的方式来规划和管理您的创业公司最宝贵的资源，探索方案并跟踪计划与实际支出.  |
+| [WaveApps](https://www.waveapps.com/) | [@WaveHQ](https://twitter.com/WaveHQ)  |  免费|  预算初创公司会喜欢这个免费的会计软件（只支付交易，发票和工资单的正常价格）|
+| [InvoiceNinja](https://www.invoiceninja.com/) | [@invoiceninja](https://twitter.com/invoiceninja)  |  免费，8美元，12美元  您可以自己托管并使用白标签或在线进行服务，具体取决于您的预算.  |
 
 ### Privacy Policy, Terms & Conditions, Legal Documents
 
@@ -666,7 +675,7 @@
 | [Convo](https://www.convo.com/) | [@convo](https://twitter.com/convo) | - | - |
 | [Zoom](https://www.zoom.us/) | [@zoom_us](https://twitter.com/zoom_us) | - | - |
 | [Telegram](https://telegram.org/) | [@telegram](https://twitter.com/telegram) | - | - |
-| [Matrix](https://matrix.org/) | [@matrixdotorg](https://twitter.com/matrixdotorg)  |   -  |  分散式开源聊天协议 [bridges to everywhere](https://matrix.org/docs/projects/try-matrix-now.html#application-services) |
+| [Matrix](https://matrix.org/) | [@matrixdotorg](https://twitter.com/matrixdotorg) | - | Decentralised Open Source chat protocol with [bridges to everywhere](https://matrix.org/docs/projects/try-matrix-now.html#application-services) |
 
 
 ### Remote Collaboration
@@ -767,6 +776,7 @@
 |:--------|:--------|:--------|:------------|
 | [OpenCage Geocoder](https://opencagedata.com/) | [@OpenCageData](https://twitter.com/opencagedata)  |  $ 0-1000 /月|  正向和反向地理编码API，使用开放数据.  全球报道.  慷慨的免费试用版大多数编程语言的许多教程和库
 | [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro)  |   -  |   -  |  来自Google的地理编码API，注册时需要信用卡
+| [Pelias](https://pelias.io) | [@pelias_geocoder](https://twitter.com/pelias_geocoder)  |  免费等级，因使用情况而异  一个模块化的开源地理编码器，构建于Elasticsearch之上，用于快速准确的全局搜索
 
 
 ### Heroku Tools
@@ -876,9 +886,9 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [AccuRanker](https://www.accuranker.com/) | [@AccuRanker](https://twitter.com/accuranker) | - | - |
+| [AccuRanker](https://www.accuranker.com/) | - | - | - |
 | [Ahrefs](https://ahrefs.com) | [@ahrefs](https://twitter.com/ahrefs)  |  $ 79 /月 -  $ 2500 /月|  Ahrefs提供了一个完整的数字营销套件，其中包含用于分析反向链接，分析网站，排名跟踪，内容探索等工具.  |
-| [SerpBook](https://serpbook.com) | [@SerpBook](https://twitter.com/serpbook) | - | - |
+| [SerpBook](https://serpbook.com) | - | - | - |
 | [WooRank](https://www.woorank.com) | [@woorank](https://twitter.com/woorank)  |  免费 -  $ 49 /月|  WooRank会分析您的网站以获得优化最佳实践，并展示它在竞争中的排名.  其实时品牌报告由150多个数据点组成，可帮助您即时发现影响流量，可用性和转化的关键问题.  同步您的分析，社交帐户和关键字，以实现更强大的跟踪效果.  |
 | [Moz](https://moz.com) | [@moz](https://twitter.com/moz)  |  99美元/月 -  599美元/月|  Moz为您提供有效进行搜索引擎优化所需的所有工具.  在网站优化评分，竞争对手跟踪，反向链接分析，排名跟踪和用户可用的更多功能.  |
 | [KWFinder](https://kwfinder.com/) | [@mangools_com](https://twitter.com/mangools_com)  |  $ 30 + / mo |  关键字研究工具|
@@ -928,7 +938,7 @@
 |:--------|:--------|:--------|:------------|
 | [EasyCron](https://www.easycron.com) | - | - | - |
 | [IFTTT](https://ifttt.com) | [@IFTTT](https://twitter.com/ifttt) | - | - |
-| [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier)  |  99美元/月 -  15美元/月|  超级大国让你的工作完成.  Zap是两个应用程序之间的链接（“触发器”和“动作”）.  Zaps每隔几分钟就会在后台自动运行，代表您移动和管理数据.  只有现场Zaps可以计入您的限制 - 您可以根据需要拥有尽可能多的暂停和未完成的Zaps.  例如，一个Zap可能是“每次收到新电子邮件时发送短信”.  |
+| [Zapier](https://zapier.com) | [@Zapier](https://twitter.com/zapier) | $99/mo - $15/mo | Superpowers to get your work done. A Zap is a link between two apps (a "trigger" and an "action"). Zaps run automatically in the background every few minutes to move and manage data on your behalf. Only live Zaps count against your limit — you can have as many paused and unfinished Zaps as you'd like. For example, one Zap might be "Send me an SMS every time I get a new email". |
 | [Integromat](https://www.integromat.com) | [@integromat](https://twitter.com/integromat)  |  免费&lt;1000次操作或100 MB /月，从$ 9 / mo |支付  自动执行任务并连接到几乎任何应用或服务.  功能强大的工具集，具有错误处理，迭代器，聚合器，路由器，函数，数据存储等功能
 | [Dead Man's Snitch](https://deadmanssnitch.com) | [@DeadMansSnitch](https://twitter.com/deadmanssnitch)  |  免费 -  $ 49 /月|  监视计划任务（如cron）和服务心跳.  让您轻松了解特定工作失败的时间和原因.  |
 
@@ -944,7 +954,7 @@
 
  |  服务|  Twitter |  定价|  说明|
 |:--------|:--------|:--------|:------------|
-| [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev)  |  $ 295 /月 -  $ 495 /月|  提高工程团队透明度的指标|
+| [Static Object](https://www.staticobject.com) | [@StaticObjectDev](https://twitter.com/StaticObjectDev) | $295/mo - $495/mo | Metrics that enhance transparency for engineering teams |
 | [Gitprime](https://www.gitprime.com/) | [@GitPrime](https://twitter.com/GitPrime)  |  $ 749 /月 -  $ 2,549 /月|  数据驱动工程领导者的背景指标|
 
 ### Business Cards and Print Material
@@ -962,7 +972,9 @@
 | [Prezi](https://prezi.com/) | [@prezi](https://twitter.com/prezi) | - | - |
 | [markpress](https://github.com/gamell/markpress)  |   -  |   -  |  Markdown文件的HTML演示文稿|
 | [Reveal.js](https://github.com/hakimel/reveal.js)  |   -  |   -  |  灵活的HTML呈现框架，用于创建漂亮的幻灯片|
-| [Slides](https://slides.com/) | [@slides](https://twitter.com/slides) | Free - $20/mo | Online editor built with Reveal.js that includes a graphical interface |
+| [Impress.js](https://github.com/impress/impress.js/) |   -  |   -  |  基于CSS3转换和转换的演示框架受到Prezi |的启发
+| [Slides](https://slides.com/)  |   -  |  免费 -  $ 20 /月|  使用Reveal.js构建的在线编辑器，包括图形界面|
+| [SlideShare](https://www.slideshare.net/) | [@slideshare](https://twitter.com/SlideShare)  |  免费|  通过演示文稿，信息图表，文档等分享您所了解和喜爱的内容
 
 ### Fundraising / Investor Relations
  |  服务|  Twitter |  定价|  说明|

@@ -236,7 +236,7 @@ Code
 *：那么： [Lums](https://github.com/lums-proj/Lums)   - 用C ++ 11编写的2D / 3D框架.  非常高效和现代.  仍处于重大发展阶段.
 *：那么： [LÖVE](http://love2d.org) -  Lua 2D游戏引擎.
 *：那么： [MINX](https://github.com/GearChicken/MINX) - 用C ++编写的开源2D游戏框架（以XNA的风格）
-*：那么： [MOAI](http://getmoai.com/) - 跨平台框架，专为游戏开发者设计，使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*：那么： [MOAI](http://getmoai.com/) - 跨平台框架，专为游戏开发人员设计，使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
 *：那么： [Magnum](http://magnum.graphics/) - 用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *：那么： [Matter.js](http://brm.io/matter-js/) - 用于网络的2D物理引擎.
 *：那么： [MelonJS](http://melonjs.org) - 开源轻量级HTML5游戏引擎.
@@ -439,6 +439,7 @@ Audio
 *：那么： [Doom](https://github.com/id-Software/DOOM)
 *：那么： [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/)
 *：那么： [NetHack](https://github.com/NetHack/NetHack)
+*：那么： [OpenTTD](https://github.com/OpenTTD/OpenTTD)
 *：那么： [Prince of Persia](https://github.com/jmechner/Prince-of-Persia-Apple-II)
 *：那么： [Quake 2](https://github.com/id-Software/Quake-2)
 *：那么： [Quake III Arena](https://github.com/id-Software/Quake-III-Arena)

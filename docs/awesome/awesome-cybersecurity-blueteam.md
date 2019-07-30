@@ -199,8 +199,10 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ## macOS-based defenses
 
-* [macOS Fortress](https://github.com/essandess/macOS-Fortress) - 自动配置内核级，操作系统级和客户端级安全功能，包括为macOS进行私有化代理和防病毒扫描.
-* [Stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置macOS安全设置.
+- [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙.
+- [Stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置macOS安全设置.
+- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - 自动配置内核级，操作系统级和客户端级安全功能，包括为macOS进行私有化代理和防病毒扫描.
+
 
 ## Windows-based defenses
 

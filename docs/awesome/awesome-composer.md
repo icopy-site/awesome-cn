@@ -90,7 +90,8 @@
 - [Composer-Normalize](https://github.com/localheinz/composer-normalize) - 该插件通过重组和排序条目（规范化）有助于保持`composer.json`文件的一致性.
 - [Composer-Service](https://github.com/pborreli/composer-service) - 使您可以在远程服务器上将Composer作为服务运行.
 - [Composer PreferLowest Checker](https://github.com/dereuromark/composer-prefer-lowest) - 严格地将composer.json的指定最小版本与prefer-lowest composer update命令选项实际使用的版本进行比较.
-- [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) -  Composer的Bash / Shell自动完成脚本.
+- [Bramus/Composer-Autocomplete](https://github.com/bramus/composer-autocomplete) -  Composer的Bash / Shell自动完成脚本.
+- [Composer/Xdebug-Handler](https://github.com/composer/xdebug-handler) - 帮助您重新启动CLI进程而不加载xdebug扩展.
 
 ## Scripts
 

@@ -5,7 +5,7 @@
 
 灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
 
-如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
+If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
 如果您希望贡献，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，并按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上，当创建一个新的“first-timers-only”问题时会收到通知.
 
@@ -49,7 +49,6 @@
 ## Go
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  开源应用程序容器引擎
-- [Apex](https://github.com/apex/apex/labels/contrib%20(easy) ）_（标签：contrib（简单））_ <br>  轻松构建，部署和管理AWS Lambda功能
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  一个快速灵活的静态站点生成器，在GoLang中充满了爱
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy)  _（标签：E-easy）_ <br>  可扩展，可生存，非常一致的SQL数据库
 - [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  Kubernetes包装经理
@@ -64,7 +63,7 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  开源，分布式，RESTful搜索引擎.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  桌面应用程序从SWING转移到JavaFX.  专注于代码质量：使用代码质量工具，如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  允许用户将图片从Android手机/平板电脑上传到Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _(label: Onboarding)_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费wiki软件平台，其设计强调可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费wiki软件平台，其设计强调可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  没有编码的API Automation，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins友好.
 
 ## JavaScript
@@ -110,7 +109,6 @@
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
-- [Operation Code](https://github.com/OperationCode/operationcode_frontend/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  Operation Code是一个非盈利组织，通过指导，奖学金和提供支持性社区帮助退伍军人及其家人进入科技行业.
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一种使用Web技术构建的开源屏幕录像机
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：求助）_ <br>  用于增强Reddit浏览体验的浏览器扩展.
@@ -146,7 +144,7 @@
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie)  _（标签：新手）_ <br>  用PHP编写的MySQL管理界面.
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：求助）_ <br>  Matomo是领先的Free / Libre开放式分析平台.
-- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  为GitHub组织增压！
+- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 
 ## Python
@@ -216,4 +214,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
