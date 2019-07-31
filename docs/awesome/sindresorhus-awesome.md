@@ -61,7 +61,7 @@
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) - 云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但能够做更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台GUI应用程序框架.
-- [WebExtensions](https://github.com/bfred-it/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
+- [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
@@ -114,7 +114,7 @@
 - [Clojure](https://github.com/razum2um/awesome-clojure#readme)
 - [ClojureScript](https://github.com/hantuzun/awesome-clojurescript#readme)
 - [Elixir](https://github.com/h4cc/awesome-elixir#readme)
-- [Elm](https://github.com/isRuslan/awesome-elm#readme)
+- [Elm](https://github.com/sporto/awesome-elm#readme)
 - [Erlang](https://github.com/drobakowski/awesome-erlang#readme)
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
@@ -135,7 +135,7 @@
 - [PHP](https://github.com/ziadoz/awesome-php#readme) - 服务器端脚本语言.
 	- [Composer](https://github.com/jakoch/awesome-composer#readme) - 包裹经理.
 - [Pascal](https://github.com/Fr0sT-Brutal/awesome-pascal#readme)
-- [Assembler](https://github.com/jaspergould/awesome-asm#readme)
+- [Assembler](https://github.com/lurumdare/awesome-asm#readme)
 - [AutoHotkey](https://github.com/ahkscript/awesome-AutoHotkey#readme)
 - [AutoIt](https://github.com/J2TeaM/awesome-AutoIt#readme)
 - [Crystal](https://github.com/veelenga/awesome-crystal#readme)
@@ -164,7 +164,7 @@
 	- [React Hooks](https://github.com/glauberfc/awesome-react-hooks#readme) - 一种新功能，允许您在不编写类的情况下使用状态和其他React功能.
 - [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way#readme)
 - [Polymer](https://github.com/Granze/awesome-polymer#readme) - 用于开发Web组件的JavaScript库.
-- [Angular](https://github.com/gdi2290/awesome-angular#readme) - 应用程序框架.
+- [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于XML的矢量图像格式.
@@ -212,7 +212,7 @@
 - [Preact](https://github.com/ooade/awesome-preact#readme) - 应用程序框架.
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - 服务器呈现的React应用程序的框架.
-- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
+- [Hyperapp](https://github.com/jorgebucaran/awesome-hyperapp#readme) - 用于构建Web应用程序的小型JavaScript库.
 - [lit-html](https://github.com/web-padawan/awesome-lit-html#readme) - 用于JavaScript的HTML模板库.
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
@@ -244,7 +244,7 @@
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) - 用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) - 用于构建，更改和版本化基础架构的工具.
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) -  Swift中的服务器端开发.
-- [Dash](https://github.com/Acrotrend/awesome-dash#readme) -  Python Web应用程序框架.
+- [Dash](https://github.com/ucg8j/awesome-dash#readme) -  Python Web应用程序框架.
 
 
 ## Computer Science
@@ -452,7 +452,7 @@
 - [Robotics](https://github.com/Kiloreux/awesome-robotics#readme)
 - [Internet of Things](https://github.com/HQarroum/awesome-iot#readme)
 - [Electronics](https://github.com/kitspace/awesome-electronics#readme) - 适用于电子工程师和业余爱好者.
-- [Bluetooth Beacons](https://github.com/beaconinside/awesome-beacon#readme)
+- [Bluetooth Beacons](https://github.com/squaremetrics/awesome-beacon#readme)
 - [Electric Guitar Specifications](https://github.com/gitfrage/guitarspecs#readme) - 建立自己的电吉他的清单.
 
 
@@ -463,6 +463,7 @@
 - [OKR Methodology](https://github.com/domenicosolazzo/awesome-okr#readme) - 目标设定和沟通最佳实践.
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) - 领导人员并成为技术公司/环境中的经理.
 - [Indie](https://github.com/mezod/awesome-indie#readme) - 独立的开发商业务.
+- [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) - 黑客新闻公司使用的工具.
 
 
 ## Work
@@ -513,11 +514,10 @@
 - [Sketch](https://github.com/diessica/awesome-sketch#readme) - 为macOS设计应用程序.
 - [Boilerplate Projects](https://github.com/melvin0008/awesome-projects-boilerplates#readme)
 - [Readme](https://github.com/matiassingers/awesome-readme#readme)
-- [Tools](https://github.com/cjbarber/ToolsOfTheTrade#readme)
 - [Design and Development Guides](https://github.com/NARKOZ/guides#readme)
 - [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs#readme)
 - [Self Hosted](https://github.com/Kickball/awesome-selfhosted#readme)
-- [FOSS Production Apps](https://github.com/johnfaucett/awesome-foss-apps#readme)
+- [FOSS Production Apps](https://github.com/DataDaoDe/awesome-foss-apps#readme)
 - [Gulp](https://github.com/alferov/awesome-gulp#readme) - 任务选手.
 - [AMA](https://github.com/sindresorhus/amas#readme) - 问我什么.
 	- [Answers](https://github.com/stoeffel/awesome-ama-answers#readme)
@@ -529,7 +529,7 @@
 - [Data Visualization](https://github.com/fasouto/awesome-dataviz#readme)
 - [Social Media Share Links](https://github.com/vinkla/shareable-links#readme)
 - [Microservices](https://github.com/mfornos/awesome-microservices#readme)
-- [Unicode](https://github.com/jagracey/Awesome-Unicode#readme) -  Unicode标准，怪癖，包和资源.
+- [Unicode](https://github.com/Wisdom/Awesome-Unicode#readme) -  Unicode标准，怪癖，包和资源.
 	- [Code Points](https://github.com/Codepoints/awesome-codepoints#readme)
 - [Beginner-Friendly Projects](https://github.com/MunGell/awesome-for-beginners#readme)
 - [Katas](https://github.com/gamontal/awesome-katas#readme)
@@ -579,7 +579,7 @@
 - [Homematic](https://github.com/hobbyquaker/awesome-homematic#readme) - 智能家居设备.
 - [Ledger](https://github.com/sfischer13/awesome-ledger#readme) - 命令行上的双重记帐.
 - [Uncopyright](https://github.com/johnjago/awesome-uncopyright#readme) - 公共领域的作品.
-- [Crypto Currency Tools & Algorithms](https://github.com/kennethreitz/awesome-coins#readme) - 数字货币，其中加密用于管理单位的生成和验证转移.
+- [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) - 数字货币，其中加密用于管理单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为免费开源项目提供工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创建更好，更一致的设计和体验.

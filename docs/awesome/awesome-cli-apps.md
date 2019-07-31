@@ -96,7 +96,7 @@
 - [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
@@ -190,7 +190,7 @@
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) - 终端的快速笔记应用程序.
 - [eureka](https://github.com/simeg/eureka) - 无需离开终端即可存储您的想法.
 - [sncli](https://github.com/insanum/sncli) -  Simplenote客户.
-- [td-cli](https://github.com/darrikonn/td-cli) - 一个todo经理，负责组织和管理多个项目的待办事项.
+- [td-cli](https://github.com/darrikonn/td-cli) -  TODO经理，负责跨多个项目组织和管理您的TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) - 交互式看板/任务经理.
 - [taskbook](https://github.com/klaussinani/taskbook) - 命令行栖息地的任务，板和注释.
 
@@ -211,21 +211,14 @@
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
-- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - 获取当前的电池电量.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - 更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
-- [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
-- [yank](https://github.com/mptre/yank) -  Yank终端输出到剪贴板.
-- [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
-- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上下载并安装Google Web Fonts.
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
 - [wego](https://github.com/schachmat/wego) - 得到天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
 - [getnews.tech](https://github.com/omgimanerd/getnews.tech) - 从各种新闻媒体获取新闻头条.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 生成代码的精美图像.
-- [pass](https://www.passwordstore.org) - 标准的unix密码管理器.
-- [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
-- [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
+- [pass](https://www.passwordstore.org) - 密码管理员.
 - [awesome-finder](https://github.com/mingrammer/awesome-finder) - 在没有浏览器的情况下搜索真棒列表.
 - [mdv](https://github.com/axiros/terminal_markdown_viewer) - 样式的终端降价查看器.
 - [shallow-backup](https://github.com/alichtman/shallow-backup) -  Git集成备份工具.
@@ -242,6 +235,7 @@
 - [active-win-cli](https://github.com/sindresorhus/active-win-cli) - 获取活动窗口的标题/ ID /等.
 - [stronghold](https://github.com/alichtman/stronghold) - 从终端配置安全设置.
 - [website-popup-cli](https://github.com/sindresorhus/website-popup-cli) - 在弹出窗口中打开一个网站.
+- [dark-mode](https://github.com/sindresorhus/dark-mode) - 切换暗模式.
 
 ### Terminal Sharing Utilities
 
@@ -262,7 +256,7 @@
 - [is-reachable-cli](https://github.com/beatfreaker/is-reachable-cli) - 检查主机名是否可访问.
 - [speedtest-net](https://github.com/ddsol/speedtest.net) - 使用speedtest.net测试互联网连接速度和ping.
 - [speed-test](https://github.com/sindresorhus/speed-test) - 具有不同UI的`speedtest-net`包装器.
-- [speedtest-cli](https://github.com/sivel/speedtest-cli) - Test internet bandwidth using speedtest.net.
+- [speedtest-cli](https://github.com/sivel/speedtest-cli) - 使用speedtest.net测试互联网带宽.
 
 ### Theming and Customization
 
@@ -280,6 +274,16 @@
 - [task-spooler](http://vicerveza.homeunix.net/~viric/soft/ts) - 用于线性执行的队列作业.
 - [undollar](https://github.com/ImFeelingDucky/undollar) - 剥离复制粘贴终端命令之前的&#39;$&#39;.
 - [pipe_exec](https://github.com/koraa/pipe_exec) - 从stdin，管道和ttys运行可执行文件而不创建临时文件.
+
+### System Interaction Utilities
+
+- [battery-level-cli](https://github.com/gillstrom/battery-level-cli) - 获取当前的电池电量.
+- [brightness-cli](https://github.com/kevva/brightness-cli) - 更改屏幕亮度（[windows](https://github.com/sondreb/win-brightness)).
+- [yank](https://github.com/mptre/yank) -  Yank终端输出到剪贴板.
+- [screensaver](https://github.com/gillstrom/screensaver) - 启动屏幕保护程序.
+- [google-font-installer](https://github.com/lordgiotto/google-font-installer) - 在本地计算机上下载并安装Google Web Fonts.
+- [neofetch](https://github.com/dylanaraps/neofetch) - 系统信息工具.
+- [Glances](https://nicolargo.github.io/glances) - 系统监控工具.
 
 ## Command Line Learning
 
@@ -320,7 +324,7 @@
 - [ranger](https://github.com/ranger/ranger) - 具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - 功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - 整理文件，想象一下即时清理下载内容.
-- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
+- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它还从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
 - [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
 
@@ -367,7 +371,7 @@
 - [happyfinder](https://github.com/hugows/hf) - （另一个）命令行的模糊文件查找器.
 - [find-up-cli](https://github.com/sindresorhus/find-up-cli) - 通过走父目录查找文件.
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
-- [fzf](https://github.com/junegunn/fzf) - A general purpose command-line fuzzy finder, can be used with any list: files/directories, command history, processes, hostnames, bookmarks, git commits, etc.
+- [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可以与任何列表一起使用：文件/目录，命令历史，进程，主机名，书签，git提交等.
 - [fselect](https://github.com/jhspetersson/fselect) - 使用类似SQL的查询查找文件.
 
 ## Version Control

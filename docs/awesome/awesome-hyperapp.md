@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="hyperapp/awesome-hyperapp"></div>
+<div class="github-widget" data-repo="jorgebucaran/awesome-hyperapp"></div>
 ## <img height=24 src=https://cdn.rawgit.com/JorgeBucaran/f53d2c00bafcf36e84ffd862f0dc2950/raw/882f20c970ff7d61aa04d44b92fc3530fa758bc0/Hyperapp.svg?sanitize=true> Awesome Hyperapp
 
 &gt; 1 kB用于构建Web应用程序的JavaScript库.
@@ -10,7 +10,7 @@
 
 <!-- /TOC -->
 
- 要贡献，分叉此存储库，添加您的惊人条目并向我们发送PR.  看到 [CONTRIBUTING](https://github.com/hyperapp/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
+ 要贡献，分叉此存储库，添加您的惊人条目并向我们发送PR.  看到 [CONTRIBUTING](https://github.com/jorgebucaran/awesome-hyperapp/blob/master//CONTRIBUTING.md) 欲获得更多信息.
 
 ## Official Resources
 

@@ -46,7 +46,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  有了 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)   - 声音和音乐计算系统.  包括Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)   -  Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供了与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic相同的功能 - 一系列创建和操作声音的功能，主要针对作曲家（无论如何都是在CLM的情况下）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和lispy的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和抒情的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal)   -  OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) - 一个存储库
 古代版的Common Music（版本2.12.0），大概是最后一个
@@ -110,7 +110,7 @@ ORMs
 * [datafly](https://github.com/fukamachi/datafly)   - 轻量级数据库库.  [3条款BSD] [15].
 * [sxql](https://github.com/fukamachi/sxql)   - 用于生成SQL的DSL.  [3条款BSD] [15].
 
-持久对象数据库
+Persistent object databases
 ---------------------------
 
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) -  RAM中具有事务日志记录持久性的基于CLOS的lisp-only数据库. [licence](http://bknr.net/html/license.html) .  （另见“Common Lisp Recipes”第21章）
@@ -257,7 +257,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 Implementations
 ===============
 
-*：明星： [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
+*：明星： [SBCL](http://www.sbcl.org/index.html) - A fork of CMUCL; compiles to machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
 *：明星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)   -  Embeddable Common Lisp;  编译成C. [GNU LGPL2.1] [11].
 * [ABCL](https://common-lisp.net/project/armedbear/)   - 武装熊Common Lisp;  以JVM为目标，编译为字节码.  [标准一致性] [4].  [GNU GPL3] [2] [Classpath exception] [3].
@@ -293,9 +293,9 @@ YAML
 
 * [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
 *：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
-* [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
+* [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
-* [cl-algebraic-data-type](https://github.com/tarballs-are-good/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
+* [cl-algebraic-data-type](https://github.com/stylewarning/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
 *：明星： [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
 * [str](https://github.com/vindarel/cl-str)   - 一个现代，简单和一致的字符串操作库.  [MIT] [200].
 *  [trivial-types](https://github.com/m2ym/trivial-types)   - 提供缺少但重要的类型定义，例如`proper-list`，`association-list`，`property-list`和`tuple`.  [LLGPL] [8].
@@ -538,7 +538,7 @@ Web框架
   示例项目： [Quickdocs](https://github.com/quickdocs)
 * [hh-web](https://github.com/hargettp/hh-web)   - 构建现代Web应用程序的框架.  [外籍] [14].
 * [ningle](https://github.com/fukamachi/ningle)   - 超级微型Web框架.  [LLGPL] [8]. [ninglex](https://github.com/defunkydrummer/ninglex) ，一个扩展的和noob友好的ningle（更容易处理查询参数）.  [MIT] [200].
-* [radiance](https://github.com/Shirakumo/radiance) - A web application environment and framework . [Artistic License 2.0][51].
+* [radiance](https://github.com/Shirakumo/radiance)   -  Web应用程序环境和框架.  [艺术许可2.0] [51].
 * [Lucerne](https://github.com/eudoxia0/lucerne)   - 基于Flack构建的基于Clack的最小Web框架.  [MIT] [200].
 * [Snooze](https://github.com/joaotavora/snooze)   - 一个基于Clack构建的RESTful Web框架，其中路由只是函数，HTTP条件只是Lisp条件.  [LLGPL] [8].
 * [cl-rest-server](https://github.com/mmontone/cl-rest-server)   - 用于编写REST Web API的库.  功能验证包括模式，日志记录，缓存，权限或身份验证注释，Swagger文档等.[MIT] [200].
@@ -719,6 +719,7 @@ Numerical and Scientific
   一个Common Lisp库提供了一种产生线程和存在的方法
    当他们中的任何一个崩溃并死亡时通知  [MIT] [200].
 * [cl-gearman](https://github.com/taksatou/cl-gearman) - 一个图书馆 [Gearman](http://gearman.org/)  分布式工作系统.  [LLGPL] [8].
+* [swank-crew](https://github.com/brown/swank-crew)   - 使用Swank Client实现的分布式计算框架.  [BSD_3Clause] [15].
 
 
 事件处理
@@ -1023,7 +1024,7 @@ Plotting
    octave或matlab的绘图命令.  [GPL3] [2].
 * [eazy-gnuplot](https://github.com/guicho271828/eazy-gnuplot) - 一个
    lispy，无结构的Gnuplot库.  随着它
-  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLPPL] [8]
+  [cookbook](http://guicho271828.github.io/eazy-gnuplot/) .  [LLGPL] [8]
 
 
 Other

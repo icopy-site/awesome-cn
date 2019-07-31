@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="johnfaucett/awesome-foss-apps"></div>
+<div class="github-widget" data-repo="DataDaoDe/awesome-foss-apps"></div>
 ## Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;按类别组织的精选生产级免费和开源软件的精选列表.

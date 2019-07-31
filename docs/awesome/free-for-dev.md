@@ -7,7 +7,7 @@
 
  此特定列表的范围仅限于基础结构开发人员（系统管理员，DevOps从业者等）可能会发现有用的内容.  我们喜欢那里的所有免费服务，但最好保持主题.  有时候这是一条灰线，所以这有点自以为是;  如果我不接受你的贡献，不要被冒犯.
 
-This list is the result of Pull Requests, reviews, ideas and work done by 500+ people, you too can help by sending [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
+此列表是由500多人完成的Pull请求，评论，想法和工作的结果，您也可以通过发送来帮助 [Pull Requests](https://github.com/ripienaar/free-for-dev) 添加更多服务或删除其产品已更改或已停用的服务.
 
 你可以找到列表 [GitHub](https://github.com/ripienaar/free-for-dev) 或在专门的网站上 [free-for.dev](https://free-for.dev/).
 
@@ -51,7 +51,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
     * Active Directory  -  500,000个对象
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
-    * Microsoft IoT Hub  - 每天8,000条消息
+    * Microsoft IoT Hub - 8,000 messages per day
     *负载均衡器 -  1个免费公共负载均衡IP（VIP）
     *通知中心 -  100万推送通知
     *带宽 - 每月5GB出口
@@ -123,7 +123,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [slack.com](https://slack.com/) - 对于具有某些功能限制的无限用户免费
   * [gitter.im](https://gitter.im/)   - 聊天，GitHub.  无限制的公共和私人房间，最多25人的团队免费
   * [hangouts.google.com](https://hangouts.google.com/) - 所有会话的一个地方，免费，需要一个Google帐户
-  * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
+  * [seafile.com](https://www.seafile.com/)   - 私人或云存储，文件共享，同步，讨论.  私人版本已满.  云版仅有1 GB
   * [yammer.com](https://www.yammer.com/) - 独立的私人社交网络或MS Office 365.免费提供更少的管理工具和用户管理功能
   * [helpmonks.com](https://helpmonks.com/) - 团队共享收件箱，开源和非营利组织免费
   * [typetalk.in](https://www.typetalk.in/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
@@ -182,7 +182,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [codefresh.io](https://codefresh.io) - 终身免费计划：1个版本，1个环境，共享服务器，无限制的公共回购
   * [codeship.com](https://codeship.com/) -  100个私人构建/月，5个私有项目，无限制的开源
   * [circleci.com](https://circleci.com/) - 免费进行一次并发构建
-  * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
+  * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
   * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
@@ -208,13 +208,13 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
 
   * [pyup.io](https://pyup.io)   - 针对安全漏洞的Monitory Python依赖项并自动更新它们.  免费为一个私人项目，无限制的开源项目.
   * [threatconnect.com](https://www.threatconnect.com)   - 威胁情报：它专为正在开始了解网络威胁情报的个人研究人员，分析师和组织而设计.  最多可免费使用3个用户
-  * [crypteron.com](https://www.crypteron.com/) — Cloud-first, developer-friendly security platform prevents data breaches in .NET and Java applications
+  * [crypteron.com](https://www.crypteron.com/) - 云优先，开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io) -  Snyk发现并报告了包中的几个漏洞.限制为1个私有项目（开源项目无限制）
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
   * [auth0.com](https://auth0.com/)   - 免费开发SSO.  最多2个社交身份提供商用于闭源项目.
-  * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
+  * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
@@ -227,7 +227,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [bitninja.io](https://bitninja.io/) - 通过黑名单保护僵尸网络，免费计划仅报告每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) - 身份即服务（IDaaS），单点登录身份提供商，云SSO IdP，3个公司应用和5个个人应用，无限用户
   * [logintc.com](https://www.logintc.com/) - 推送通知的双因素身份验证（2FA），10个用户免费，VPN，网站和SSH
-  * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
+  * [report-uri.io](https://report-uri.io/) -  CSP和HPKP违规报告
   * [cloudsploit.com](https://cloudsploit.com/) - 亚马逊网络服务（AWS）安全和合规性审计和监控
   * [Have I been pwned?](https://haveibeenpwned.com) - 用于获取有关违规信息的REST API.
   * [Internet.nl](https://internet.nl) - 测试现代互联网标准，如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
@@ -253,7 +253,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
 
 ## Translation Management
 
-  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
+  * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
   * [getlocalization.com](https://www.getlocalization.com/) - 免费公共项目
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
@@ -274,10 +274,10 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [uptimerobot.com](https://uptimerobot.com/) - 网站监控，50台免费监控
   * [statuscake.com](https://www.statuscake.com/) - 网站监控，无限制免费测试
   * [bmc.com](https://www.bmc.com/truesightpulse/) - 最多10台服务器的1秒分辨率
-  * [ghostinspector.com](https://ghostinspector.com/)   - 免费网站和Web应用程序监控.  单个用户，每月100次测试
+  * [ghostinspector.com](https://ghostinspector.com/) — Free website and web application monitoring. Single user, 100 test runs/month
   * [sematext.com](https://sematext.com/) -  24小时免费指标，无限数量的服务器，10个自定义指标，500,000个自定义指标数据点，无限制的仪表板，用户等
   * [stathat.com](https://www.stathat.com/) - 免费开始10个统计数据，没有过期
-  * [skylight.io](https://www.skylight.io/) - 免费获得前100,000个请求（仅限Rails）
+  * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
   * [appdynamics.com](https://www.appdynamics.com/) -  24小时免费指标，应用程序性能管理代理仅限于一个Java，一个.NET，一个PHP和一个Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/)   - 监控cron工作.  1个免费窃听（监视器），如果您推荐其他人注册，则更多
   * [librato.com](https://www.librato.com/) - 以60秒的分辨率免费提供100个指标
@@ -315,7 +315,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) - 面向开发人员的电子邮件验证和验证API，每月10,000个免费API请求
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
-  * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
+  * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
@@ -333,7 +333,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [kickbox.io](https://kickbox.io/) - 验证100封免费电子邮件，提供实时API
   * [inumbo.com](http://inumbo.com/) - 基于SMTP的垃圾邮件过滤器，10位用户免费
   * [biz.mail.ru](https://biz.mail.ru/) - 每个自定义域使用DNS托管的5,000个邮箱，每个25 GB
-  * [sendpulse.com](https://sendpulse.com) — 50 emails free/hour, first 12,000 emails/month free
+  * [sendpulse.com](https://sendpulse.com) - 每月免费发送50封电子邮件，每月免费发送12,000封电子邮件
   * [pepipost.com](https://pepipost.com) - 第一个月免费发送30k封电子邮件，然后免费发送前100封电子邮件
   * [elasticemail.com](https://elasticemail.com)   - 每天100封免费电子邮件.  通过API以0.09美元的价格发送1,000封电子邮件（按需付费）.
   * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
@@ -431,17 +431,22 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
   * [dns.he.net](https://dns.he.net/) - 具有动态DNS支持的免费DNS托管服务
   * [luadns.com](https://www.luadns.com/) - 免费DNS托管，3个域名，所有功能都有合理的限制
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
-  * [selectel.com](https://selectel.com/services/dns/) - 免费DNS托管，任播，10个地理区域
+  * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
   * [cloudns.net](https://www.cloudns.net/) - 免费DNS托管最多3个域，无限记录
   * [ns1.com](https://ns1.com/) - 数据驱动的DNS，自动流量管理，100万个免费查询
   * [zonewatcher.com](https://zonewatcher.com)   - 自动备份和DNS更改监控.  1个域名免费
-  * [namecheap.com](https://www.namecheap.com/domains/freedns.aspx)   - 免费DNS.  域名数量没有限制
+  * [namecheap.com](https://www.namecheap.com/domains/freedns/)   - 免费DNS.  域名数量没有限制
   * [dynu.com](https://www.dynu.com/) - 免费的动态DNS服务
   * [noip](https://www.noip.com/) - 动态DNS服务，每30天免费提供最多3个主机名
   * [freenom.com](https://freenom.com/)   - 免费域名提供商.  免费获取FQDN.
   * [duckdns.org](http://duckdns.org/)   - 免费层上最多5个域的免费DDNS.  使用各种设置的配置指南.
   * [1984.is](https://www.1984.is/product/freedns/) - 使用API​​提供免费DNS服务，还包括许多其他免费DNS功能.
   * [Cloudflare](https://www.cloudflare.com/)   - 免费DNS.  无限数量的域名.
+  * [biz.mail.ru](https://biz.mail.ru) - 最多5,000名用户的免费电子邮件和DNS托管服务
+  * [pointhq.com](https://pointhq.com/developer) -  Heroku上的免费DNS托管.
+  * [dnspod.com](https://www.dnspod.com/) - 免费DNS托管.
+  * [entrydns.net](https://entrydns.net/) - 具有动态DNS支持的免费DNS托管服务.
+  * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) - 免费DNS托管.
 
 ## IaaS
 
@@ -455,7 +460,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
@@ -558,7 +563,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
    * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
    * [geocod.io](https://geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
-   * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
+   * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
@@ -587,7 +592,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
    * [codepen.io](https://codepen.io/) -  CodePen是网络前端的游乐场
    * [repl.it](https://repl.it/) - 用于各种程序语言的云编码环境
    * [codesandbox.io](https://codesandbox.io/) -  React，Vue，Angular，Preact等在线游乐场
-   * [stackblitz.com](https://stackblitz.com/) — Online VS Code IDE for Angular & React
+   * [stackblitz.com](https://stackblitz.com/) - 用于Angular和React的在线VS Code IDE
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持
    * [Coder](https://coder.com)   - 为您提供围绕Visual Studio Code构建的完整开发环境的平台.  在免费套餐中，您将获得2GB的项目和2 GB的容器空间以及5小时的快速时间，如果启用，则可以动态扩展容器.
    * [gitpod.io](https://gitpod.io)   -  GitHub项目的即时，可随时编码的开发环境.  免费开源.
@@ -605,7 +610,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费
    * [metrica.yandex.com](https://metrica.yandex.com/) - 无限制的免费分析
    * [hotjar.com](https://hotjar.com/) - 每个站点：每天2,000页的视图，3个热图，3个月的数据存储，...
-   * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
+   * [imprace.com](https://imprace.com/)   - 着陆页分析以及提高跳出率的建议.  免费5个登陆页面/域名
    * [optimizely.com](https://optimizely.com) -  A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用程序
    * [expensify.com](https://expensify.com/) - 费用报告，免费个人报告批准工作流程
    * [Moesif](https://www.moesif.com)   -  REST和GraphQL的API分析.  （最多可免费拨打500,000次API调用）
@@ -619,7 +624,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 500+ p
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
+  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
 
 ## Payment / Billing Integration
 

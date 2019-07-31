@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="kennethreitz/awesome-coins"></div>
+<div class="github-widget" data-repo="Zheaoli/awesome-coins"></div>
 ## ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)
@@ -18,7 +18,7 @@
 
  硬币存放在钱包中.  这些可以在线，在您的本地计算机上，甚至在一张纸上托管.
 
- 自己很难挖出一枚硬币，有点像赌博，所以人们通常选择加入一个游泳池（通常使用“stratum”协议进行协调） - 这会奖励你的工作，即使你没有找不到任何东西，因为你帮助了成千上万的人，其中一些确实找到了阻挡.  然后根据池的规则拆分块.
+ 自己很难挖出一枚硬币，有点像赌博，所以人们通常选择加入一个游泳池（通常使用“stratum”协议来协调） - 这会奖励你的工作，即使你没有找不到任何东西，因为你帮助了成千上万的人，其中一些确实找到了阻挡.  然后根据池的规则拆分块.
 
 有些人 [rent hashing power](https://www.nicehash.com/?refby=386829) 从农场开始，或者玩“区块链彩票”，试图自己找到硬币块，或者他们将农场指向一个游泳池，就像典型的家庭矿工一样 - 除非他们拥有极高的计算能力，如果他们愿意为此付钱.
 
@@ -189,16 +189,16 @@
 - `Blake256r8`（Blake Coin / ** BLC **）
 - `Blake256r14`（Blake Coin / ** BLC **）
 - `Blake256r8vnl`（Blake Coin / ** BLC **）
-- `Hodl`（HodlCoin / ** HODL **）
+- `Hodl`（HodlCoin / ** WATCH **）
 - `DaggerHashimoto`（以太坊/ ** ETH **）
 - `Decred`（** DCR **）
 - `CryptoNight`（** XCN **，仅限CPU）
 - `Lbry`（** LBC **）
 - `Equihash`（Zcash / ** XEC **，ZClassic，** HUSH **，Komodo）
-- &#39;Pascal&#39;（** PASC **）
+- `Pascal`（** PASC **）
 - `X11Gost`（SIBCOin / ** SIB **）
 - `Sia`（** SC **）
-- `Blake2`s（NevaCoin，Some Coin，Verge，TajCoin）
+- `Blake2`s（NevaCoin，Someone Coin，Verge，TajCoin）
 - “臭鼬”（Signatum Coin / ** SIGT **）
 
 [(others)](https://github.com/kennethreitz/awesome-coins/blob/master/other.md)

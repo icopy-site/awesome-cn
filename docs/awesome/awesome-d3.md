@@ -40,7 +40,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [d3-message-sequence](https://github.com/koudelka/d3-message-sequence) - 动态/静态消息序列图
 - [d3-timeline](https://github.com/commodityvectors/d3-timeline) - 响应时间表图表
 - [d3-timeseries](https://github.com/mcaule/d3-timeseries) - 时间序列图表库
-- [d3-x3dom](https://github.com/jamesleesaunders/d3-x3dom) - 可重复使用的X3DOM图表和数据组件[bubble，bar，surfacearea，scatterplot]
+- [d3-x3d](https://github.com/jamesleesaunders/d3-x3d) - 带有D3和X3D的数据驱动3D图表[气泡，条形，表面区域，散点图，区域]
 - [d3fc](https://github.com/d3fc/d3fc) - 交互式图表组件的集合[line，bar，stacked，scatter，candlestick，ohlc]
 - [d3plus](https://github.com/alexandersimoes/d3plus) - 扩展库，可轻松创建可视化[散点图，堆叠图，线条，条形图，饼图，网络图，气泡图，方框图，地图图]
 - [d3panels](https://github.com/kbroman/d3panels) - 具有链接刷牙的交互式图表[点，散点图，线，热图，直方图]

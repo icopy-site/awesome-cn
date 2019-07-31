@@ -25,7 +25,7 @@ them.
   （C，BSD，GitHub）
 - [LAPACK](https://www.netlib.org/lapack/) - 用于求解线性方程组，线性系统最小二乘解，特征值问题和奇异值问题的例程.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
-- [Eigen](https://eigen.tuxfamily.org/index.php?title=Main_Page) - 线性代数的C ++模板库.
+- [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) - 线性代数的C ++模板库.
   （C ++，MPL 2， [BitBucket](https://bitbucket.org/eigen/eigen))
 - [Ginkgo](https://ginkgo-project.github.io/) - 高性能多核线性代数库，专注于稀疏系统.
   （100 ++，BSD， [GitHub](https://github.com/ginkgo-project/ginkgo))
@@ -34,12 +34,12 @@ them.
 ## Multi-purpose toolkits
 
 - [PETSc](https://www.mcs.anl.gov/petsc/) - 由PDE建模的科学应用并行解决方案的数据结构和例程.
-  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/petsc/petsc/src))
+  （C，2条款BSD， [BitBucket](https://bitbucket.org/petsc/petsc/src))
 - [DUNE Numerics](https://www.dune-project.org) - 使用基于网格的方法解决PDE的工具箱.
   （C ++，GPL 2， [GitLab](https://gitlab.dune-project.org/core/))
 - [SciPy](https://www.scipy.org) - 用于统计，优化，集成，线性代数，傅里叶变换，信号和图像处理，ODE求解器等的Python模块.
   （Python，主要是BSD， [GitHub](https://github.com/scipy/scipy/))
-- [NumPy](https://www.numpy.org) - 使用Python进行科学计算所需的基础包.
+- [NumPy](https://numpy.org/) - 使用Python进行科学计算所需的基础包.
   （Python，BSD， [GitHub](https://github.com/numpy/numpy))
 
 
@@ -111,8 +111,10 @@ them.
   （C，主要是BSD， [GitHub](https://github.com/xiaoyeli/superlu))
 - [KryPy](https://github.com/andrenarchy/krypy) - 用于求解线性代数系统的Krylov子空间方法.
   （Python，MIT，GitHub）
-- [PyAMG](https://pyamg.github.io) -  Python中的代数多重网格求解器.
+- [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
   （Python，麻省理工学院， [GitHub](https://github.com/pyamg/pyamg))
+- [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - 高性能预处理器和求解器库.
+  （C，Apache 2.0 / MIT， [GitHub](https://github.com/hypre-space/hypre))
 
 
 ## Other libraries and tools
@@ -137,7 +139,7 @@ them.
 - [accupy](https://github.com/nschloe/accupy) -  Python的准确总和和点积.
   （Python，MIT，GitHub）
 - [SLEPc](http://slepc.upv.es) - 特征值问题计算的可扩展库.
-  (C, 2-clause BSD, [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
+  （C，2条款BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
 - [Chebfun](https://www.chebfun.org/) - 具有大约15位精度的功能计算.
   （MATLAB，BSD， [GitHub](https://github.com/chebfun/chebfun))
 - [pyMOR](https://pymor.org/) - 使用Python减少模型顺序.

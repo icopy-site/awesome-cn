@@ -84,7 +84,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - 命令行选项处理（Crystal stdlib）
 
 ## CLI Utils
- * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
+ * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
  * [tallboy](https://github.com/epoch/tallboy) - 生成ASCII字符表，支持在多列上生成单元格
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
@@ -157,6 +157,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [migrate](https://github.com/vladfaust/migrate.cr) - 具有事务的更简单的数据库迁移工具
  * [migro](https://github.com/aisrael/migro) - 数据库迁移工具，允许在YAML或原始SQL中指定迁移
 
+## Dependency Injection
+* [syringe](https://github.com/Bonemind/syringe) - 用于水晶的简单基本依赖注入分片
+
 ## Development Tools
  * [docker-crystal](https://github.com/aca-labs/docker-crystal) -  Crystal CLI的Docker包装器
  * [guardian](https://github.com/f/guardian) -  Crystal和非Crystal库的文件更改监视器
@@ -216,12 +219,12 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Crystal-DI](https://github.com/funk-yourself/crystal-di) - 轻质DI容器
  * [crystal-mime](https://github.com/spalger/crystal-mime) - 水晶的Mimetypes
  * [device_detector](https://github.com/creadone/device_detector) - 用户代理字符串检测设备的分片
- * [Exception Page](https://github.com/crystal-loot/exception_page) - An exceptional exception page for Crystal web libraries and frameworks
+ * [Exception Page](https://github.com/crystal-loot/exception_page) -  Crystal Web库和框架的特殊异常页面
  * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 履行
  * [kave](https://github.com/jwoertink/kave) -  Kemal API版本扩展
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) - 使用JWT通过HTTP头令牌进行身份验证的Kemal中间件
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) -  Kemal的MonetDB数据连接
- * [kemal-session](https://github.com/kemalcr/kemal-session) - 凯末尔的会话交易
+ * [kemal-session](https://github.com/kemalcr/kemal-session) - 会议正在交易凯末尔
  * [mime-types.cr](https://github.com/jwaldrip/mime-types.cr) -  Ruby MIME类型库的一个端口
  * [multi-auth](https://github.com/msa7/multi_auth) - 标准化的多提供商OAuth2身份验证（受omniauth启发）
  * [praetorian](https://github.com/ilanusse/praetorian) - 受Pundit启发的极简授权库
@@ -248,12 +251,13 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
 
 ## HTML/XML Parsing
- * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri](https://github.com/sparklemotion/nokogiri) 红宝石宝石
+ * [crystagiri](https://github.com/madeindjs/Crystagiri) - 像Html读者/解析器 [Nokogiri](https://github.com/sparklemotion/nokogiri) 红宝石宝石
  * [gumbo-crystal](https://github.com/blocknotes/gumbo-crystal) - 绑定 [Gumbo](https://github.com/google/gumbo-parser)，一个由Google制作的HTML5解析库
  * [hq.cr](https://github.com/maiha/hq.cr) -  crystal-xml的简单包装
  * [myhtml](https://github.com/kostya/myhtml) - 包含CSS选择器的快速HTML5分析器
 
 ## HTTP
+ * [Cable](https://github.com/cable-cr/cable) - 一个与Crystal无关的ActionCable“端口”，与ActionCable JS Client 100％兼容
  * [cossack](https://github.com/crystal-community/cossack) - 简单灵活的HTTP客户端
  * [crest](https://github.com/mamantoha/crest) - 简单的HTTP和REST客户端，受Ruby的RestClient gem的启发
  * [crul](https://github.com/porras/crul) - 命令行HTTP客户端
@@ -268,7 +272,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) -  HTTP服务器（Crystal stdlib）
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) -  HTTP WebSocket客户端（Crystal stdlib）
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - 将HTTP GET / POST参数解析添加为类似哈希的对象
- * [ngrok.cr](https://github.com/watzon/ngrok.cr) -  Ngrok包装纸
+ * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
  * [params](https://github.com/vladfaust/params.cr) - 强类型HTTP params解析模块
  * [resp-crystal](https://github.com/soveran/resp-crystal) - 轻量级RESP客户端
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
@@ -276,7 +280,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - 绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
  * [stumpy_gif](https://github.com/stumpycr/stumpy_gif) - 写（动画）GIF图像
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -  Charly编程语言
@@ -498,7 +502,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [athena](https://github.com/blacksmoke16/athena) - 基于模块化，注释，面向API的框架，内置参数转换
  * [kemal](https://github.com/kemalcr/kemal)   -  Lightning Fast，超级简单的Web框架.  灵感来自Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - 一个WebSocket优先的面向对象框架（基于Kemal）
- * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，花更多时间在代码上而不是调试和编写测试
+ * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，并花更多时间在代码上而不是调试和编写测试
  * [onyx-rest](https://github.com/onyxframework/rest) -  REST API框架，具有类型安全的参数和独立的业务和渲染层，基于 [onyx-http](https://github.com/onyxframework/http)
  * [raze](https://github.com/samueleaton/raze) - 模块化，轻型Web框架
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - 一个专注于速度和可扩展性的Rails esque Web框架
@@ -579,7 +583,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
    * [sublime-crystal](https://github.com/crystal-lang-tools/sublime-crystal) - 用于崇高文本的Crystal语法高亮显示
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -  Crystal语法高亮，编译，格式化命令，片段
- *来到
+ 我来了
    * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) -  Vim插件，为carc.in提供实用功能
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - 对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 对Slang Templating Engine的Vim文件类型支持

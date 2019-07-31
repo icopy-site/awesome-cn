@@ -1,7 +1,7 @@
-<div class="github-widget" data-repo="gdi2290/awesome-angular"></div>
+<div class="github-widget" data-repo="PatrickJS/awesome-angular"></div>
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/gdi2290/awesome-angular/master/media/awesome-angular2.png" alt="Awesome Angular 2" />
+    <img src="https://raw.githubusercontent.com/PatrickJS/awesome-angular/master/media/awesome-angular2.png" alt="Awesome Angular 2" />
   </a>
 </p>
 

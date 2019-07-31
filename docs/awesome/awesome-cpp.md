@@ -208,7 +208,7 @@
 *加密和加密库*
 
 * [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
-* [BeeCrypt](http://beecrypt.sourceforge.net/)   - 便携式快速加密库.  [LGPLv2.1 +]
+* [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
 * [Botan](http://botan.randombit.net/)   -  C ++的加密库.  [BSD-2]
 * [Crypto++](https://github.com/weidai11/cryptopp)   - 加密方案的免费C ++类库.  [促进] [website](http://www.cryptopp.com/)
 * [digestpp](https://github.com/kerukuro/digestpp)   -  C ++ 11仅限标头的消息摘要（哈希）库.  [公共区域]
@@ -284,7 +284,7 @@
 * [fff](https://github.com/meekrosoft/fff)   - 用于创建假C函数的微框架.  [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md)   - 用于编写和使用C ++模拟类的库.  [BSD]
 * [Google Test](https://github.com/google/googletest)   -  Google C ++测试框架.  [BSD]
-* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)   - 多平台调试堆，可用于跟踪内存错误.  [BSD]
+* [ig-debugheap](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - 用C编写测试.[GPL2]
 * [MemTrack](http://www.almostinfinite.com/memtrack.html) - 使用C ++跟踪内存分配.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview)   - 具有多个平台的Web视图的Profiler.  [公共区域]
@@ -339,7 +339,7 @@
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
 * [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
 * [nana](http://nanapro.org/en-us/)   -  Nana是一个用于现代C ++风格的GUI编程的跨平台库.  [促进]
-* [NanoGui](https://github.com/wjakob/nanogui)   - 适用于OpenGL 3.x或更高版本的简约跨平台小部件库.  [BSD]
+* [NanoGui](https://github.com/wjakob/nanogui) - A minimalistic cross-platform widget library for OpenGL 3.x or higher. [BSD]
 * [nuklear](https://github.com/vurtun/nuklear)   - 单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)   -  Qt绘制小部件，没有进一步的依赖性.  [GPLv3的]
 * [Qwt](http://qwt.sourceforge.net/)   -  Qt Widgets for Technical Applications.  [基于LGPL]
@@ -451,7 +451,7 @@
 * [qt-json](https://github.com/gaudecker/qt-json)   - 用于将JSON数据解析为QVariant层次结构的简单类，反之亦然.  [GPLv3的]
 * [QJson](https://github.com/flavio/qjson)   - 基于qt的库，可将JSON数据映射到QVariant对象.  [LGPL2]
 * [RapidJSON](https://github.com/miloyip/rapidjson)  ：zap： - 一个快速的JSON解析器/生成器，用于C ++，同时具有SAX / DOM样式API.  [MIT]
-* [sajson](https://github.com/chadaustin/sajson)   - 适用于C ++ 11的轻量级，极高性能的JSON解析器.  [MIT]
+* [sajson](https://github.com/chadaustin/sajson) - Lightweight, extremely high-performance JSON parser for C++11. [MIT]
 * [simdjson](https://github.com/lemire/simdjson)   - 极快的JSON库，可以每秒解析千兆字节的JSON.  [Apache的2.0]
 * [taoJSON](https://github.com/taocpp/json)   - 零依赖C ++标头专用JSON库.  [MIT]
 * [ujson](https://bitbucket.org/awangk/ujson)   - μjson是一个小型的C ++ 11，UTF-8，JSON库.  [MIT]
@@ -568,7 +568,6 @@
 * [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
 * [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
 * [libhttpserver](https://github.com/etr/libhttpserver)   - 用于创建嵌入式Rest HTTP服务器的C ++库（以及更多）.  [LGPL2.1]
-* [libjingle](https://code.google.com/p/libjingle/)   - 谷歌谈话语音和P2P互操作性库.  [BSD]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
 * [libquic](https://github.com/devsisters/libquic)   - 从Chromium的QUIC实现中提取的QUIC协议库.  [BSD]
@@ -611,10 +610,10 @@
 ## Physics
 *动力学模拟引擎*
 
-* [Box2D](https://github.com/erincatto/Box2D) - A 2D physics engine for games. [BSD-like]
+* [Box2D](https://github.com/erincatto/Box2D)   - 用于游戏的2D物理引擎.  [BSD-等]
 * [Bullet](https://github.com/bulletphysics/bullet3)   - 游戏的3D物理引擎.  [ZLIB] [website](http://bulletphysics.org)
 * [Chipmunk](https://github.com/slembcke/Chipmunk2D)   - 快速轻巧的2D游戏物理库.  [MIT] [website](https://chipmunk-physics.net/)
-* [LiquidFun](https://github.com/google/liquidfun) - A 2D physics engine for games. [BSD-like]
+* [LiquidFun](https://github.com/google/liquidfun)   - 用于游戏的2D物理引擎.  [BSD-等]
 * [Newton Dynamics](https://github.com/MADEAPPS/newton-dynamics)   - 用于物理环境实时仿真的集成解决方案.  [ZLIB]
 * [ODE](http://www.ode.org/)   - 开放动态引擎 - 用于模拟刚体动力学的开源高性能库.  [BSD＆LGPL]
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)   -  Box2D的openFrameworks包装器.  [BSD-等]
@@ -627,10 +626,10 @@
 
 * [Better Enums](https://github.com/aantron/better-enums)   - 反射枚举（字符串，迭代）.  单头.  [BSD] [website](http://aantron.github.io/better-enums/)
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)   - 使用clang的C ++反射.  [MIT]
-* [CPFG](https://github.com/cpgf/cpgf) - A C++03 library for reflection, callback and script binding. [Apache2] [website](http://www.cpgf.org/)
+* [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum)   - 仅限标头的C ++ 17库为枚举（字符串，字符串，迭代）提供静态反射，可以使用任何枚举类型而无需任何宏或样板代码.  [MIT]
-* [meta](https://github.com/skypjack/meta)   -  C ++中的头文件，非侵入式和无宏运行时反射系统.  [MIT]
+* [meta](https://github.com/skypjack/meta)   -  C ++中仅头文件，非侵入式和无宏运行时运行时反射系统.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
@@ -651,7 +650,7 @@
 ## Robotics
 
 * [MOOS-IvP](http://moos-ivp.org) - 一组开源C ++模块，用于在机器人平台，特别是自动船用车辆上提供自主权.
-* [MRPT](http://www.mrpt.org/) - Mobile Robot Programming Toolkit. [BSD]
+* [MRPT](http://www.mrpt.org/)   - 移动机器人编程工具包.  [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) - Point Cloud Library is a standalone, large scale, open project for 2D/3D image and point cloud processing [BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)   - 用于机器人运动学，运动规划和控制的独立C ++库.  [BSD]
 * [RobWork](http://www.robwork.dk/apidoc/nightly/rw/index.html)   - 用于模拟和控制机器人系统的C ++库集合.  [Apache2的]
@@ -681,7 +680,7 @@
 * [libffi](https://github.com/libffi/libffi)   - 便携式外部功能接口库.  [MIT] [website](https://sourceware.org/libffi/)
 * [Lua](http://www.lua.org/)   - 用于配置文件和基本应用程序脚本的最小且快速的脚本引擎.  [MIT]
 * [LuaBridge](https://github.com/vinniefalco/LuaBridge)   - 一个轻量级，无依赖的库，用于将Lua绑定到C ++.  [MIT]
-* [luacxx](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
+* [luacxx](https://github.com/dafrito/luacxx)   - 用于创建Lua绑定的C ++ 11 API.  [MIT]
 * [nbind](https://github.com/charto/nbind)   - 神奇的标题，使您的C ++库可以从JavaScript访问.  [MIT]
 * [PHP-CPP](https://github.com/CopernicaMarketingSoftware/PHP-CPP)   - 使用C ++构建PHP扩展的库.  [Apache2的] [website](http://www.php-cpp.com/)
 * [pybind11](https://github.com/pybind/pybind11)   -  C ++ 11和Python之间的无缝可操作性.  [BSD]
@@ -715,7 +714,7 @@
 
 * [libvpx](http://www.webmproject.org/code/)   -  VP8 / VP9 Codec SDK.  [BSD]
 * [FFmpeg](https://www.ffmpeg.org/)   - 一个完整的跨平台解决方案，用于录制，转换和流式传输音频和视频.  [LGPL2 / GPL2]
-* [libde265](https://github.com/strukturag/libde265) - Open h.265 video codec implementation. [LGPL] [website](http://www.libde265.org/)
+* [libde265](https://github.com/strukturag/libde265)   - 打开h.265视频编解码器实现.  [LGPL] [website](http://www.libde265.org/)
 * [x265](https://bitbucket.org/multicoreware/x265/wiki/Home)   - 打开h.265视频编解码器实现.  [GPL2] [website](https://x265.readthedocs.io/en/default/)
 * [OpenH264](https://github.com/cisco/openh264)   - 开源H.264编解码器.  [BSD] [website](http://www.openh264.org/)
 * [Theora](http://www.theora.org/)   - 免费和开放的视频压缩格式.  [BSD]
@@ -762,7 +761,7 @@
 ## Miscellaneous
 *有用的库或工具不适合上述类别或可能尚未归类*
 
-* [access_profiler](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
+* [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
 * [Better String](http://bstring.sourceforge.net)   -  C的字符串库的替代方法，它更具功能性，并且没有缓冲区溢出溢出问题.  还包括一个C ++包装器.  [BSD，GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)   - 管理信号和插槽系统的实现.  [促进]
@@ -841,7 +840,7 @@
 * [Comparison of debuggers](https://en.wikipedia.org/wiki/Comparison_of_debuggers) - 来自维基百科的调试器列表.
 * [GDB](https://www.gnu.org/software/gdb/) -  GNU调试器.
 * [LLDB](http://lldb.llvm.org/) -  LLDB调试器.
-* [Metashell](https://metashell.readthedocs.org) - 交互式模板元编程shell，包含MDB元数据库.
+* [Metashell](https://metashell.readthedocs.org) - An interactive template metaprogramming shell which includes the MDB metadebugger.
 * [Valgrind](http://valgrind.org/) - 用于内存调试，内存泄漏检测和分析的工具.
 * [x64dbg](http://x64dbg.com/) - 用于Windows的开源x64 / x32调试器.
 
@@ -868,7 +867,7 @@
 * [rtags](https://github.com/Andersbakken/rtags) - 用于与基于clang的emacs集成的c / c ++客户端/服务器索引器.
 * [Xcode](https://developer.apple.com/xcode/) - 由Apple开发.
 * [YouCompleteMe](https://valloric.github.io/YouCompleteMe/) -  YouCompleteMe是Vim的快速，类型，模糊搜索代码完成引擎.
-* [cquery](https://github.com/cquery-project/cquery/) - 用于vscode，emacs，vim等的C ++代码完成引擎.
+* [cquery](https://github.com/cquery-project/cquery/) - A C++ code completion engine for vscode, emacs, vim, etc.
 
 ## Build Systems
 
@@ -900,7 +899,7 @@
 
 * [Cppcheck](http://cppcheck.sourceforge.net/)   - 用于静态C / C ++代码分析的工具.   -  [source](https://github.com/danmar/cppcheck)
 * [CppDepend](https://www.cppdepend.com/) - 通过分析和可视化代码依赖性，定义设计规则，执行影响分析以及比较不同版本的代码，简化管理复杂C / C ++代码库的过程.
-* [cpplint](https://github.com/cpplint/cpplint) - 遵循Google的C ++样式指南的C ++样式检查器.
+* [cpplint](https://github.com/cpplint/cpplint) - A C++ style checker following Google's C++ style guide.
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [cpp-dependencies](https://github.com/tomtom-international/cpp-dependencies) - Tool to check C++ #include dependencies (dependency graphs created in .dot format). [Apache]
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - 用于clang分析的工具包括C和C ++源文件. [website](https://include-what-you-use.org/)
@@ -908,7 +907,7 @@
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.
 * [Linticator](http://linticator.com) -  Eclipse CDT集成Pc- / FlexeLint.
-* [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - A list of tools for static code analysis from Wikipedia.
+* [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
 
 ## Coding Style Tools
 
@@ -968,7 +967,7 @@
 ## Talks
 
 * [CppCon Talks](https://www.youtube.com/user/CppCon/videos) ：zap： -  C ++会议.
-* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) -  Vittorio Romeo的CppCon 2014演讲.
+* [Quick game development with C++11/C++14](https://github.com/SuperV1234/cppcon2014) - CppCon 2014 talk by Vittorio Romeo.
 * [Presentation on Hana for C++Now 2015](https://github.com/ldionne/hana-cppnow-2015)
 
 ## Videos
@@ -976,8 +975,8 @@
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
 * [Hi Def [HD]中的令人敬畏的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C） - 一套针对初学者和新程序员的详细C编程语言教程.
-* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - by VoidRealms.
-* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - by VoidRealms.
+* [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) - 通过VoidRealms.
+* [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) - 通过VoidRealms.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -  TheNewBoston官方Buckys C ++编程教程播放列表.
 * [C++ Programming Tutorials from thenewboston](https://www.youtube.com/playlist?list=PLF541C2C1F671AEF6) - 这些都是新波士顿的C ++编程教程.
 * [C++ GUI with Qt Playlist](https://www.youtube.com/playlist?list=PLD0D54219E5F2544D) - 使用Qt教程的newboston C ++ GUI官方播放列表.

@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="jagracey/Awesome-Unicode"></div>
+<div class="github-widget" data-repo="Wisdom/Awesome-Unicode"></div>
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
@@ -8,8 +8,8 @@
 
 &gt;精选的Unicode花絮，包和资源的精选列表.
 
-*请阅读 [contribution guidelines](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) 在贡献之前.*
-*关键的Unicode术语定义在 [glossary](https://github.com/jagracey/Awesome-Unicode/blob/master/GLOSSARY.md).*
+*请阅读 [contribution guidelines](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) 在贡献之前.*
+*关键的Unicode术语定义在 [glossary](https://github.com/Wisdom/Awesome-Unicode/blob/master/GLOSSARY.md).*
 
 <br><br>
 
@@ -140,7 +140,7 @@ The Unicode characterset is divided into 17 core segments called "planes", which
 
 ## Myths of Unicode
 *来自马克戴维斯 [Unicode Myths](http://macchiato.com/slides/UnicodeMyths.pdf) 幻灯片.*
-- **Unicode is simply a 16-bit code** - Some people are under the misconception that Unicode is simply a 16-bit code where each character takes 16 bits and therefore there are 65,536 possible characters. This is not, actually, correct. It is the single most common myth about Unicode, so if you thought that, don't feel bad.
+  -  ** Unicode只是一个16位代码**  - 有些人误以为Unicode只是一个16位代码，每个字符占16位，因此有65,536个可能的字符.  实际上，这不是正确的.  这是关于Unicode的最常见的神话，所以如果你这么想，不要感到难过.
 
   -  **您可以使用任何未分配的代码点供内部使用**  - 否.最后，该孔将填充不同的字符.  而是使用私人使用或非人物.
 
@@ -151,7 +151,7 @@ The Unicode characterset is divided into 17 core segments called "planes", which
 
 -  **案例映射是1-1 **  - 不.它们也可以是：
   - 一对多：（ß→SS）
-  - 上下文：（...Σ↔... AND AND ...Σ...↔... f ...）
+  - 上下文:( ...↔... f AND ... F ...↔... f ...）
   - 区域敏感:(我AND AND和↔↔i）
 
 
@@ -236,7 +236,7 @@ Unicode联盟发布了一个 [general punctuation chart](http://www.unicode.org/
 
  ** U + 3164 HANGUL FILLER **字符显示为前进的空白字符.  如果不明确，则将角色渲染为完全不可见（并且不前进，即“零宽度”） [supported in rendering](http://unicode.org/faq/unsup_char.html) .  这意味着永远不应该显示丑陋的字符替换（ ）符号.
 
- 我还不确定为什么指定U + 3164这样做.  有趣的是，在版本1.1（1993）中将U + 3164添加到Unicode中 - 因此该联盟必须有大量时间来考虑它.  无论如何，这里有几个例子.
+ 我还不确定为什么指定U + 3164这样做.  有趣的是，在版本1.1（1993）中将U + 3164添加到Unicode中 - 因此联盟必须有很多时间来考虑它.  无论如何，这里有一些例子.
 
 ```javascript
 &gt; varᅟ=&#39;foo&#39;;
@@ -245,7 +245,7 @@ undefined
 'foo'
 
 
-&gt;是ㅤ=警惕;
+&gt; varㅤ=警报;
 undefined
 &gt; var foo =&#39;bar&#39;
 undefined
@@ -260,7 +260,7 @@ undefined
 
 ```
 <br>
- **注意：**我在Ubuntu和OS X上用以下方法测试了U + 3164渲染：`node`，`php`，`ruby`，`python3.5`，`scala`，`vim`，`猫`，`chrome` +`github gist`.  Atom是唯一通过（错误地）显示空框失败的系统.  我还没有在Emacs和Sublime上测试它.  根据我的理解，Unicode Consortium不会重新分配或重命名字符或代码点，但可能会被说服改变ID_Start / ID_Continue等字符属性.
+**NOTE:** I've tested U+3164 rendering on Ubuntu and OS X with the following: `node`, `php`, `ruby`, `python3.5`, `scala` ,`vim`, `cat`, `chrome`+`github gist`. Atom is the only system that fails by (incorrectly) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.
 
 
 <br>
@@ -271,7 +271,7 @@ undefined
 
  零宽度连接器（ZWJ）是一种非打印字符，用于某些复杂脚本（如阿拉伯语脚本或任何印度语脚本）的计算机排版.  当放置在两个原本不连接的字符之间时，ZWJ会使它们以连接的形式打印出来.
 
- 零宽度非连接器（ZWNJ）是一种非打印字符，用于编写使用连字的书写系统.  当放置在两个字符之间时，否则它们将被连接成一个结扎线，ZWNJ使它们分别以它们的最终形式和初始形式打印.  这也是空格字符的效果，但是当希望将单词保持在一起或者将单词与其语素连接时，使用ZWNJ.
+ 零宽度非连接器（ZWNJ）是一种非打印字符，用于使用连字的书写系统的计算机化.  当放置在两个字符之间时，否则它们将被连接成一个结扎线，ZWNJ使它们分别以它们的最终形式和初始形式打印.  这也是空格字符的效果，但是当希望将单词保持在一起或者将单词与其语素连接时，使用ZWNJ.
 
 
 
@@ -282,11 +282,11 @@ undefined
 &gt;&#39;a \ u {0308}&#39;
  “A”
 
-> 'a\u{20DE}\u{0308}'
- “点击”
+&gt;&#39;a \ u {20DE} \ u {0308}&#39;
+ “A⃞̈”
 
-&gt;&#39;a \ u {20DE} \ u {0408} \ u {20DD}&#39;&#39;
- “点击”
+&gt;&#39;a \ u {20DE} \ u {0308} \ u {20DD}&#39;
+ “A⃞̈⃝”
 
 //修改不可见的字符
 &gt;&#39;\ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u {200E} \ u { 200E}”
@@ -323,11 +323,11 @@ undefined
 
   -  **字符串长度通常通过计算代码点来确定.**这意味着代理对将计为两个字符.  组合多个变音符号可以堆叠在相同的字符上.  `a +̈==̈a`，增加长度，而只产生一个字符.
 
--  **类似地，逆转字符串通常是一项非常重要的任务.**同样，代理对和变音符号必须一起反转. [ES Reverser](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
+-  **类似地，逆转字符串通常是一项非常重要的任务.**同样，代理对和变音符号必须一起反转. [ES Reverser](https://github.com/mathiasbynens/esrever) 提供了一个很好的解决方案
 
 -  **大小写映射并不总是一对一.**它们也可以是：
   - 一对多：（ß→SS）
-  - 上下文：（...Σ↔... AND AND ...Σ...↔... f ...）
+  - 上下文:( ...↔... f AND ... F ...↔... f ...）
   - 区域敏感:(我AND AND和↔↔i）
 
 
@@ -347,7 +347,7 @@ undefined
 | [U+01F0](https://codepoints.net/U+01F0?lang=en)  |  `ǰ`|  带卡隆的拉丁文小写字母J |  `j`，`̌`|  U + 006A，U + 030C |
 | [U+0390](https://codepoints.net/U+0390?lang=en)  |  ``` |  带有DIALYTIKA和TONOS的希腊小写字母IOTA |  `ι`，`̈`，``|  U + 03B9，U + 0308，U + 0301 |
 | [U+03B0](https://codepoints.net/U+03B0?lang=en)  |  `ΰ`|  带有DIALYTIKA和TONOS的GREEK小写字母|  `υ`，`̈`，``|  U + 03C5，U + 0308，U + 0301 |
-| [U+0587](https://codepoints.net/U+0587?lang=en)  |  `和`|  亚美尼亚小型LIGATURE ECH YIWN  `````````  U + 0565，U + 0582 |
+| [U+0587](https://codepoints.net/U+0587?lang=en)  |  `和`|  ARMENIAN小型LIGATURE ECH YIWN |  `e`，```  U + 0565，U + 0582 |
 | [U+1E96](https://codepoints.net/U+1E96?lang=en)  |  `ẖ`|  带有线条的拉丁文小写字母H |  `h`，``|  U + 0068，U + 0331 |
 | [U+1E97](https://codepoints.net/U+1E97?lang=en)  |  `ẗ`|  带有DIAERESIS的拉丁文小写字母|  `t`，`̈`|  U + 0074，U + 0308 |
 | [U+1E98](https://codepoints.net/U+1E98?lang=en)  |  `ẘ`|  带上环的拉丁文小写字母W |  `w`，`̊`|  U + 0077，U + 030A |
@@ -358,81 +358,81 @@ undefined
 | [U+1F52](https://codepoints.net/U+1F52?lang=en)  |  `ὒ`|  带有PSILI和VARIA的GREEK小写字母UPS  `υ`，`̓`，``|  U + 03C5，U + 0313，U + 0300 |
 | [U+1F54](https://codepoints.net/U+1F54?lang=en)  |  `ὔ`|  带PSILI和OXIA的希腊小写字母|  `υ`，`̓`，``|  U + 03C5，U + 0313，U + 0301 |
 | [U+1F56](https://codepoints.net/U+1F56?lang=en)  |  `ὖ`|  带PSILI和PERISPOMENI的GREEK小写字母UPS  `υ`，`̓`，``|  U + 03C5，U + 0313，U + 0342 |
-| [U+1F80](https://codepoints.net/U+1F80?lang=en)  |  `ᾀ`|  希腊小写字母阿尔法与PSILI和YPOGEGRAMMENI |  `α`，`i` |  U + 1F00，U + 03B9
+| [U+1F80](https://codepoints.net/U+1F80?lang=en)  |  `ᾀ`|  希腊小写字母阿尔法与PSILI和YPOGEGRAMMENI |  `ἀ`，`i`  U + 1F00，U + 03B9 |
 | [U+1F81](https://codepoints.net/U+1F81?lang=en)  |  `ᾁ`|  GREEK小写字母ALPHA与DASIA和YPOGEGRAMMENI |  `ἁ`，`ι`|  U + 1F01，U + 03B9 |
 | [U+1F82](https://codepoints.net/U+1F82?lang=en)  |  `ᾂ`|  希腊小写字母阿尔法与PSILI和VARIA和YPOGEGRAMMENI |  `ἂ`，`ι`|  U + 1F02，U + 03B9 |
 | [U+1F83](https://codepoints.net/U+1F83?lang=en)  |  `ᾃ`|  GREEK小写字母ALPHA与DASIA和VARIA和YPOGEGRAMMENI |  `ἃ`，`ι`|  U + 1F03，U + 03B9 |
-| [U+1F84](https://codepoints.net/U+1F84?lang=en)  |  `ᾄ`|  希腊小写字母阿尔法与PSILI和OXIA和YPOGEGRAMMENI |  ``，```  U + 1F04，U + 03B9
+| [U+1F84](https://codepoints.net/U+1F84?lang=en)  |  `ᾄ`|  希腊小写字母阿尔法与PSILI和OXIA和YPOGEGRAMMENI |  `ἄ`，`i`  U + 1F04，U + 03B9 |
 | [U+1F85](https://codepoints.net/U+1F85?lang=en)  |  `ᾅ`|  GREEK小写字母ALPHA与DASIA和OXIA和YPOGEGRAMMENI |  `ἅ`，`ι`|  U + 1F05，U + 03B9 |
-| [U+1F86](https://codepoints.net/U+1F86?lang=en)  | |  `ᾆ`|  希腊小写字母阿尔法与PSILI和性能和YPOGEGRAMMENI |  `ἆ`，```|  U + 1F06，U + 03B9 |
+| [U+1F86](https://codepoints.net/U+1F86?lang=en)  |  `ᾆ`|  希腊小写字母阿尔法与PSILI和PERISPOMENI和YPOGEGRAMMENI |  `ἆ`，`ι`|  U + 1F06，U + 03B9 |
 | [U+1F87](https://codepoints.net/U+1F87?lang=en)  |  `ᾇ`|  GREEK小写字母ALPHA与DASIA和PERISPOMENI和YPOGEGRAMMENI |  `ἇ`，`ι`|  U + 1F07，U + 03B9 |
-| [U+1F88](https://codepoints.net/U+1F88?lang=en)  |  `ᾈ`|  希腊大写字母阿尔法与PSILI和PROSEGEGRAMMENI  `α`，`i` |  U + 1F00，U + 03B9
+| [U+1F88](https://codepoints.net/U+1F88?lang=en)  |  `ᾈ`|  希腊大写字母阿尔法与PSILI和PROSGEGRAMMENI |  `ἀ`，`i`  U + 1F00，U + 03B9 |
 | [U+1F89](https://codepoints.net/U+1F89?lang=en)  |  `ᾉ`|  希腊大写字母ALPHA与DASIA和PROSGEGRAMMENI |  `ἁ`，`ι`|  U + 1F01，U + 03B9 |
 | [U+1F8A](https://codepoints.net/U+1F8A?lang=en)  |  `ᾊ`|  希腊大写字母阿尔法与PSILI和VARIA和PROSGEGRAMMENI |  `ἂ`，`ι`|  U + 1F02，U + 03B9 |
 | [U+1F8B](https://codepoints.net/U+1F8B?lang=en)  |  `ᾋ`|  希腊资本字母ALPHA与DASIA和VARIA以及PROSGEGRAMMENI |  `ἃ`，`ι`|  U + 1F03，U + 03B9 |
-| [U+1F8C](https://codepoints.net/U+1F8C?lang=en)  |  `ᾌ`|  希腊大写字母阿尔法与PSILI和OXIA和PROSEGEGRAMMENI |  ``，```  U + 1F04，U + 03B9
-| [U+1F8D](https://codepoints.net/U+1F8D?lang=en)  |  `ᾍ`|  希腊资本字母ALPHA与DASIA和OXIA和PROSEGEGRAMMENI |  `ἅ`，`i` |  U + 1F05，U + 03B9
-| [U+1F8E](https://codepoints.net/U+1F8E?lang=en) | `ᾎ`       | GREEK CAPITAL LETTER ALPHA WITH PSILI AND PERISPOMENI AND PROSGEGRAMMENI | `ἆ`, `ι`         | U+1F06, U+03B9         |
+| [U+1F8C](https://codepoints.net/U+1F8C?lang=en)  |  `ᾌ`|  希腊大写字母阿尔法与PSILI和OXIA和PROSGEGRAMMENI |  `ἄ`，`i`  U + 1F04，U + 03B9 |
+| [U+1F8D](https://codepoints.net/U+1F8D?lang=en)  |  `ᾍ`|  希腊资本字母ALPHA与DASIA和OXIA以及PROSGEGRAMMENI |  `ἅ`，`i`  U + 1F05，U + 03B9 |
+| [U+1F8E](https://codepoints.net/U+1F8E?lang=en)  |  `ᾎ`|  希腊大写字母阿尔法与PSIL和PERISPOMENI和PROSGEGRAMMENI |  `ἆ`，`ι`|  U + 1F06，U + 03B9 |
 | [U+1F8F](https://codepoints.net/U+1F8F?lang=en)  |  `ᾏ`|  希腊资本字母ALPHA与DASIA和PERISPOMENI和PROSGEGRAMMENI |  `ἇ`，`ι`|  U + 1F07，U + 03B9 |
-| [U+1F90](https://codepoints.net/U+1F90?lang=en)  |  `ᾐ`|  ETA与PSILI和YPOGEGRAMMENI希腊小写字母  `ἠ`，`i` |  U + 1F20，U + 03B9
-| [U+1F91](https://codepoints.net/U+1F91?lang=en)  |  `ᾑ`|  ETA与DASIA和YPOGEGRAMMENI希腊小写字母  ```，```  U + 1F21，U + 03B9
-| [U+1F92](https://codepoints.net/U+1F92?lang=en)  |  `ᾒ`|  希腊小写字母ETA与PSILI和VARIA和YPOGEGRAMMENI |  `ἢ`，`i` |  U + 1F22，U + 03B9
+| [U+1F90](https://codepoints.net/U+1F90?lang=en)  |  `ᾐ`|  与PSILI和YPOGEGRAMMENI的GREEK小写字母ETA |  `ἠ`，`i`  U + 1F20，U + 03B9 |
+| [U+1F91](https://codepoints.net/U+1F91?lang=en)  |  `ᾑ`|  与DASIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `ἡ`，`i`  U + 1F21，U + 03B9 |
+| [U+1F92](https://codepoints.net/U+1F92?lang=en)  |  `ᾒ`|  希腊小写字母ETA与PSILI和VARIA和YPOGEGRAMMENI |  `ἢ`，`i`  U + 1F22，U + 03B9 |
 | [U+1F93](https://codepoints.net/U+1F93?lang=en)  |  `ᾓ`|  与DASIA和VARIA以及YPOGEGRAMMENI的GREEK小写字母ETA |  `ἣ`，`ι`|  U + 1F23，U + 03B9 |
-| [U+1F94](https://codepoints.net/U+1F94?lang=en)  |  `ᾔ`|  与PSILI，OXIA和YPOGEGRAMMENI的GREEK小写字母ETA  `ἤ`，`i` |  U + 1F24，U + 03B9
-| [U+1F95](https://codepoints.net/U+1F95?lang=en)  |  `ᾕ`|  与DASIA，OXIA和YPOGEGRAMMENI的GREEK小写字母ETA  `ἥ`，`i` |  U + 1F25，U + 03B9
-| [U+1F96](https://codepoints.net/U+1F96?lang=en)  |  `ᾖ`|  与PSILI，PERISPOMENI和YPOGEGRAMMENI的希腊小写字母ETA |  `ἦ`，`i` |  U + 1F26，U + 03B9
-| [U+1F97](https://codepoints.net/U+1F97?lang=en)  |  `ᾗ`|  希腊与DASIA，PERISPOMENI和YPOGEGRAMMENI的小写字母|  `ἧ`，`i` |  U + 1F27，U + 03B9 |
-| [U+1F98](https://codepoints.net/U+1F98?lang=en)  |  `ᾘ`|  与PSILI和PROSEGEGRAMMENI的大写字母ETA  `ἠ`，`i` |  U + 1F20，U + 03B9
-| [U+1F99](https://codepoints.net/U+1F99?lang=en)  |  `ᾙ`|  与DASIA和PROSGEGRAMMENI的希腊大写字母  ```，```  U + 1F21，U + 03B9
-| [U+1F9A](https://codepoints.net/U+1F9A?lang=en)  |  `ᾚ`|  希腊大写字母ETA与PSILI和VARIA和PROSGEGRAMMENI |  `ἢ`，`i` |  U + 1F22，U + 03B9
+| [U+1F94](https://codepoints.net/U+1F94?lang=en)  |  `ᾔ`|  希腊与PSILI，OXIA和YPOGEGRAMMENI的小写字母ETA |  `ἤ`，`i`  U + 1F24，U + 03B9 |
+| [U+1F95](https://codepoints.net/U+1F95?lang=en)  |  `ᾕ`|  与DASIA，OXIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `ἥ`，`i`  U + 1F25，U + 03B9 |
+| [U+1F96](https://codepoints.net/U+1F96?lang=en)  |  `ᾖ`|  与PSILI，PERISPOMENI和YPOGEGRAMMENI的GREEK小写字母ETA |  `ἦ`，`i`  U + 1F26，U + 03B9 |
+| [U+1F97](https://codepoints.net/U+1F97?lang=en)  |  `ᾗ`|  与DASIA，PERISPOMENI和YPOGEGRAMMENI的GREEK小写字母ETA |  `ἧ`，`i`  U + 1F27，U + 03B9 |
+| [U+1F98](https://codepoints.net/U+1F98?lang=en)  |  `ᾘ`|  与PSILI和PROSGEGRAMMENI的希腊大写字母ETA |  `ἠ`，`i`  U + 1F20，U + 03B9 |
+| [U+1F99](https://codepoints.net/U+1F99?lang=en)  |  `ᾙ`|  与DASIA和PROSGEGRAMMENI的希腊大写字母ETA |  `ἡ`，`i`  U + 1F21，U + 03B9 |
+| [U+1F9A](https://codepoints.net/U+1F9A?lang=en)  |  `ᾚ`|  希腊大写字母ETA与PSILI和VARIA和PROSGEGRAMMENI |  `ἢ`，`i`  U + 1F22，U + 03B9 |
 | [U+1F9B](https://codepoints.net/U+1F9B?lang=en)  |  `ᾛ`|  与DASIA和VARIA以及PROSGEGRAMMENI的希腊大写字母ETA |  `ἣ`，`ι`|  U + 1F23，U + 03B9 |
-| [U+1F9C](https://codepoints.net/U+1F9C?lang=en)  |  `ᾜ`|  与PSILI和OXIA以及PROSEGEGRAMMENI的希腊大写字母ETA |  `ἤ`，`i` |  U + 1F24，U + 03B9
-| [U+1F9D](https://codepoints.net/U+1F9D?lang=en)  |  `ᾝ`|  希腊与OXIA和PROSEGEGRAMMENI的希腊大写字母|  `ἥ`，`i` |  U + 1F25，U + 03B9
-| [U+1F9E](https://codepoints.net/U+1F9E?lang=en)  |  `ᾞ`|  与PSILI和PERISPOMENI以及PROSGEGRAMMENI的希腊资本信函ETA |  `ἦ`，`i` |  U + 1F26，U + 03B9
-| [U+1F9F](https://codepoints.net/U+1F9F?lang=en)  |  `ᾟ`|  与DASIA和PERISPOMENI以及PROSGEGRAMMENI的希腊大写字母|  `ἧ`，`i` |  U + 1F27，U + 03B9 |
-| [U+1FA0](https://codepoints.net/U+1FA0?lang=en)  |  `ᾠ`|  欧米茄与PSILI和YPOGEGRAMMENI希腊小写字母  `ὠ`，`i` |  U + 1F60，U + 03B9
-| [U+1FA1](https://codepoints.net/U+1FA1?lang=en)  |  `ᾡ`|  GREEK小写字母欧米茄与DASIA和YPOGEGRAMMENI  ```````  U + 1F61，U + 03B9
+| [U+1F9C](https://codepoints.net/U+1F9C?lang=en)  |  `ᾜ`|  与PSILI和OXIA以及PROSGEGRAMMENI的希腊大写字母ETA |  `ἤ`，`i`  U + 1F24，U + 03B9 |
+| [U+1F9D](https://codepoints.net/U+1F9D?lang=en)  |  `ᾝ`|  与DASIA和OXIA以及PROSGEGRAMMENI的希腊大写字母ETA |  `ἥ`，`i`  U + 1F25，U + 03B9 |
+| [U+1F9E](https://codepoints.net/U+1F9E?lang=en)  |  `ᾞ`|  希腊大写字母ETA与PSILI和PERISPOMENI和PROSGEGRAMMENI |  `ἦ`，`i`  U + 1F26，U + 03B9 |
+| [U+1F9F](https://codepoints.net/U+1F9F?lang=en)  |  `ᾟ`|  与DASIA和PERISPOMENI以及PROSGEGRAMMENI的希腊大写字母ETA |  `ἧ`，`i`  U + 1F27，U + 03B9 |
+| [U+1FA0](https://codepoints.net/U+1FA0?lang=en)  |  `ᾠ`|  希腊小写字母欧米茄与PSILI和YPOGEGRAMMENI |  `ὠ`，`i`  U + 1F60，U + 03B9 |
+| [U+1FA1](https://codepoints.net/U+1FA1?lang=en)  |  `ᾡ`|  GREEK小写字母欧米茄与DASIA和YPOGEGRAMMENI |  `ὡ`，`i`  U + 1F61，U + 03B9 |
 | [U+1FA2](https://codepoints.net/U+1FA2?lang=en)  |  `ᾢ`|  希腊小写字母欧米茄与PSILI和VARIA和YPOGEGRAMMENI |  `ὢ`，`ι`|  U + 1F62，U + 03B9 |
 | [U+1FA3](https://codepoints.net/U+1FA3?lang=en)  |  `ᾣ`|  GREEK小写字母欧米茄与DASIA和VARIA和YPOGEGRAMMENI |  `ὣ`，`ι`|  U + 1F63，U + 03B9 |
-| [U+1FA4](https://codepoints.net/U+1FA4?lang=en)  |  `ᾤ`|  希腊小小写字母欧米茄与PSILI和OXIA和YPOGEGRAMMENI |  `ὤ`，`i` |  U + 1F64，U + 03B9
+| [U+1FA4](https://codepoints.net/U+1FA4?lang=en)  |  `ᾤ`|  希腊小小写字母欧米茄与PSILI和OXIA和YPOGEGRAMMENI |  `ὤ`，`i`  U + 1F64，U + 03B9 |
 | [U+1FA5](https://codepoints.net/U+1FA5?lang=en)  |  `ᾥ`|  GREEK小写字母欧米茄与DASIA和OXIA和YPOGEGRAMMENI |  `ὥ`，`ι`|  U + 1F65，U + 03B9 |
 | [U+1FA6](https://codepoints.net/U+1FA6?lang=en)  |  `ᾦ`|  GREEK小写字母欧米茄与PSILI和PERISPOMENI和YPOGEGRAMMENI |  `ὦ`，`ι`|  U + 1F66，U + 03B9 |
 | [U+1FA7](https://codepoints.net/U+1FA7?lang=en)  |  `ᾧ`|  GREEK小写字母欧米茄与DASIA和PERISPOMENI和YPOGEGRAMMENI |  `ὧ`，`ι`|  U + 1F67，U + 03B9 |
-| [U+1FA8](https://codepoints.net/U+1FA8?lang=en)  |  `ᾨ`|  欧米茄与PSILI和PROSGEGRAMMENI  `ὠ`，`i` |  U + 1F60，U + 03B9
-| [U+1FA9](https://codepoints.net/U+1FA9?lang=en)  |  `ᾩ`|  与DASIA和PROSEGEGRAMMENI的希腊大写字母欧米茄  ```````  U + 1F61，U + 03B9
-| [U+1FAA](https://codepoints.net/U+1FAA?lang=en)  |  `ᾪ`|  希腊大写字母欧米茄与PSILI和VARIA和PROSEGEGRAMMENI |  `ὢ`，`i` |  U + 1F62，U + 03B9
+| [U+1FA8](https://codepoints.net/U+1FA8?lang=en)  |  `ᾨ`|  希腊大写字母欧米茄与PSILI和PROSGEGRAMMENI |  `ὠ`，`i`  U + 1F60，U + 03B9 |
+| [U+1FA9](https://codepoints.net/U+1FA9?lang=en)  |  `ᾩ`|  希腊大写字母欧米茄与DASIA和PROSGEGRAMMENI |  `ὡ`，`i`  U + 1F61，U + 03B9 |
+| [U+1FAA](https://codepoints.net/U+1FAA?lang=en)  |  `ᾪ`|  希腊大写字母欧米茄与PSILI和VARIA和PROSGEGRAMMENI |  `ὢ`，`i`  U + 1F62，U + 03B9 |
 | [U+1FAB](https://codepoints.net/U+1FAB?lang=en)  |  `ᾫ`|  与DASIA和VARIA以及PROSGEGRAMMENI的希腊大写字母欧米茄|  `ὣ`，`ι`|  U + 1F63，U + 03B9 |
-| [U+1FAC](https://codepoints.net/U+1FAC?lang=en)  |  `ᾬ`|  希腊大写字母欧米茄与PSILI和OXIA和PROSEGEGRAMMENI |  `ὤ`，`i` |  U + 1F64，U + 03B9
-| [U+1FAD](https://codepoints.net/U+1FAD?lang=en)  |  `ᾭ`|  希腊大陆与OXIA和PROSEGEGRAMMENI的大写字母欧米茄|  `ὥ`，`i` |  U + 1F65，U + 03B9 |
-| [U+1FAE](https://codepoints.net/U+1FAE?lang=en)  |  `ᾮ`|  希腊大写字母欧米茄与PSILI和PERISPOMENI和PROSEGEGRAMMENI |  `ὦ`，`i` |  U + 1F66，U + 03B9
-| [U+1FAF](https://codepoints.net/U+1FAF?lang=en)  | |  `ᾯ`|  希腊大写字母欧米茄与DASIA和PERPUBLIC以及PROSGEGRAMMENI |  `ὧ`，```|  U + 1F67，U + 03B9 |
+| [U+1FAC](https://codepoints.net/U+1FAC?lang=en)  |  `ᾬ`|  希腊大写字母欧米茄与PSILI和OXIA和PROSGEGRAMMENI |  `ὤ`，`i`  U + 1F64，U + 03B9 |
+| [U+1FAD](https://codepoints.net/U+1FAD?lang=en)  |  `ᾭ`|  与DASIA和OXIA以及PROSGEGRAMMENI的希腊大写字母欧米茄|  `ὥ`，`i`  U + 1F65，U + 03B9 |
+| [U+1FAE](https://codepoints.net/U+1FAE?lang=en)  |  `ᾮ`|  希腊大写字母欧米茄与PSILI和PERISPOMENI和PROSGEGRAMMENI |  `ὦ`，`i`  U + 1F66，U + 03B9 |
+| [U+1FAF](https://codepoints.net/U+1FAF?lang=en)  |  `ᾯ`|  希腊大写字母欧米茄与DASIA和PERISPOMENIA和PROSGEGRAMMENI |  `ὧ`，`ι`|  U + 1F67，U + 03B9 |
 | [U+1FB2](https://codepoints.net/U+1FB2?lang=en)  |  `ᾲ`|  带有VARIA和YPOGEGRAMMENI的GREEK小写字母|  `ὰ`，`ι`|  U + 1F70，U + 03B9 |
-| [U+1FB3](https://codepoints.net/U+1FB3?lang=en)  |  `ᾳ`|  希腊小写字母ALPHA与YPOGEGRAMMENI |  `α`，`i` |  U + 03B1，U + 03B9
-| [U+1FB4](https://codepoints.net/U+1FB4?lang=en)  |  `ᾴ`|  希腊小写字母阿尔法与OXIA和YPOGEGRAMMENI |  `d`，`i` |  U + 03AC，U + 03B9
+| [U+1FB3](https://codepoints.net/U+1FB3?lang=en)  |  `ᾳ`|  希腊小写字母ALPHA与YPOGEGRAMMENI |  `a`，`i`  U + 03B1，U + 03B9 |
+| [U+1FB4](https://codepoints.net/U+1FB4?lang=en)  |  `ᾴ`|  希腊小写字母阿尔法与OXIA和YPOGEGRAMMENI |  `d`，`i`  U + 03AC，U + 03B9 |
 | [U+1FB6](https://codepoints.net/U+1FB6?lang=en)  |  `ᾶ`|  GREEK小写字母ALPHA与PERISPOMENI |  `α`，``|  U + 03B1，U + 0342 |
-| [U+1FB7](https://codepoints.net/U+1FB7?lang=en)  |  `ᾷ`|  GREEK小写字母ALPHA与外围和YPOGEGRAMMENI |  `α`，``，```  U + 03B1，U + 0342，U + 03B9
-| [U+1FBC](https://codepoints.net/U+1FBC?lang=en)  |  `ᾼ`|  希腊大写字母ALPHA与PROSGEGRAMMENI  `α`，`i` |  U + 03B1，U + 03B9
-| [U+1FC2](https://codepoints.net/U+1FC2?lang=en)  |  `ῂ`|  ETA WITH VARIA和YPOGEGRAMMENI GREEK小写字母  `ὴ`，`i` |  U + 1F74，U + 03B9
-| [U+1FC3](https://codepoints.net/U+1FC3?lang=en)  |  `ῃ`|  与YPOGEGRAMMENI的希腊小写字母ETA  ```，```  U + 03B7，U + 03B9
-| [U+1FC4](https://codepoints.net/U+1FC4?lang=en)  |  `ῄ`|  ETA与OXIA和YPOGEGRAMMENI希腊小写字母  `或`，`j`  U + 03AE，U + 03B9
+| [U+1FB7](https://codepoints.net/U+1FB7?lang=en)  |  `ᾷ`|  GREEK小写字母ALPHA与PERISPOMENI和YPOGEGRAMMENI |  `a`，``，`i`  U + 03B1，U + 0342，U + 03B9 |
+| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `ᾼ`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `ι`         | U+03B1, U+03B9         |
+| [U+1FC2](https://codepoints.net/U+1FC2?lang=en)  |  `ῂ`|  带有VARIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `ὴ`，`i`  U + 1F74，U + 03B9 |
+| [U+1FC3](https://codepoints.net/U+1FC3?lang=en)  |  `ῃ`|  与YPOGEGRAMMENI的GREEK小写字母ETA |  `n`，`i`  U + 03B7，U + 03B9 |
+| [U+1FC4](https://codepoints.net/U+1FC4?lang=en)  |  `ῄ`|  与OXIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `或`，`我`  U + 03AE，U + 03B9 |
 | [U+1FC6](https://codepoints.net/U+1FC6?lang=en)  |  `ῆ`|  与PERISPOMENI的GREEK小写字母ETA |  `η`，``|  U + 03B7，U + 0342 |
-| [U+1FC7](https://codepoints.net/U+1FC7?lang=en)  |  `ῇ`|  ETA与PERISPOMENI和YPOGEGRAMMENI希腊小写字母  ```，``，```  U + 03B7，U + 0342，U + 03B9
-| [U+1FCC](https://codepoints.net/U+1FCC?lang=en)  |  `ῌ`|  与PROSGEGRAMMENI的希腊大写字母ETA  ```，```  U + 03B7，U + 03B9
+| [U+1FC7](https://codepoints.net/U+1FC7?lang=en)  |  `ῇ`|  与PERISPOMENI和YPOGEGRAMMENI的GREEK小写字母ETA |  `n`，``，`i`  U + 03B7，U + 0342，U + 03B9 |
+| [U+1FCC](https://codepoints.net/U+1FCC?lang=en)  |  `ῌ`|  与PROSGEGRAMMENI的GREEK CAPITAL LETTER ETA |  `n`，`i`  U + 03B7，U + 03B9 |
 | [U+1FD2](https://codepoints.net/U+1FD2?lang=en)  |  `ῒ`|  带有DIALYTIKA和VARIA的希腊小写字母IOTA |  `ι`，`̈`，``|  U + 03B9，U + 0308，U + 0300 |
-| [U+1FD3](https://codepoints.net/U+1FD3?lang=en)  |  `我`|  IOTA与DIALYTICS和OXIA GREEK小写字母  ```````````  U + 03B9，U + 0308，U + 0301 |
+| [U+1FD3](https://codepoints.net/U+1FD3?lang=en)  |  ``` |  带有DIALYTICS和OXIA的GREEK小写字母IOTA |  `j`，`̈`，``|  U + 03B9，U + 0308，U + 0301 |
 | [U+1FD6](https://codepoints.net/U+1FD6?lang=en)  |  `ῖ`|  带有PERISPOMENI的GREEK小写字母IOTA |  `ι`，``|  U + 03B9，U + 0342 |
-| [U+1FD7](https://codepoints.net/U+1FD7?lang=en)  | |  `ῗ`|  带有催化和公共的GREEK小写字母地球|  ```，``，```  U + 03B9，U + 0308，U + 0342 |
+| [U+1FD7](https://codepoints.net/U+1FD7?lang=en)  |  `ῗ`|  带有催化剂和PERISPOMENI的希腊小写字母IOTA |  `ι`，`̈`，``|  U + 03B9，U + 0308，U + 0342 |
 | [U+1FE2](https://codepoints.net/U+1FE2?lang=en)  |  `ῢ`|  带有DIALYTIKA和VARIA的GREEK小写字母UPS  `υ`，`̈`，``|  U + 03C5，U + 0308，U + 0300 |
 | [U+1FE3](https://codepoints.net/U+1FE3?lang=en)  |  `ΰ`|  带有DIALYTIKA和OXIA的GREEK小写字母|  `υ`，`̈`，``|  U + 03C5，U + 0308，U + 0301 |
 | [U+1FE4](https://codepoints.net/U+1FE4?lang=en)  |  `ῤ`|  希腊小写字母RHO与PSILI |  `ρ`，`̓`|  U + 03C1，U + 0313 |
 | [U+1FE6](https://codepoints.net/U+1FE6?lang=en)  |  `ῦ`|  带有PERISPOMENI的GREEK小写字母UPS  `υ`，``|  U + 03C5，U + 0342 |
-| [U+1FE7](https://codepoints.net/U+1FE7?lang=en)  | |  `ῧ`|  具有催化性能的GREEK小写字母UPS  ```，``，```  U + 03C5，U + 0308，U + 0342 |
+| [U+1FE7](https://codepoints.net/U+1FE7?lang=en)  |  `ῧ`|  GREEK小写字母UPSILON与催化剂和PERISPOMENI |  `υ`，`̈`，``|  U + 03C5，U + 0308，U + 0342 |
 | [U+1FF2](https://codepoints.net/U+1FF2?lang=en)  |  `ῲ`|  GREEK小写字母OMEGA与VARIA和YPOGEGRAMMENI |  `ὼ`，`ι`|  U + 1F7C，U + 03B9 |
-| [U+1FF3](https://codepoints.net/U+1FF3?lang=en)  |  `ῳ`|  希腊小写字母欧米茄与YPOGEGRAMMENI  `ω`，`i` |  U + 03C9，U + 03B9
-| [U+1FF4](https://codepoints.net/U+1FF4?lang=en)  |  `ῴ`|  欧米茄与OXIA和YPOGEGRAMMENI希腊小写字母  `о`，```|  U + 03CE，U + 03B9
+| [U+1FF3](https://codepoints.net/U+1FF3?lang=en)  |  `ῳ`|  希腊小写字母欧米茄与YPOGEGRAMMENI |  “哦”，“我”  U + 03C9，U + 03B9 |
+| [U+1FF4](https://codepoints.net/U+1FF4?lang=en)  |  `ῴ`|  GREEK小写字母欧米茄与OXIA和YPOGEGRAMMENI |  “哦”，“我”  U + 03CE，U + 03B9 |
 | [U+1FF6](https://codepoints.net/U+1FF6?lang=en)  |  `ῶ`|  GREEK小写字母欧米茄与PERISPOMENI |  `ω`，``|  U + 03C9，U + 0342 |
-| [U+1FF7](https://codepoints.net/U+1FF7?lang=en)  |  `ῷ`|  欧米茄绿色小写字母与外围和YPOGEGRAMMENI |  `ω`，``，```  U + 03C9，U + 0342，U + 03B9
-| [U+1FFC](https://codepoints.net/U+1FFC?lang=en)  |  `ῼ`|  希腊大写字母欧米茄与PROSGEGRAMMENI  `ω`，`i` |  U + 03C9，U + 03B9
+| [U+1FF7](https://codepoints.net/U+1FF7?lang=en)  |  `ῷ`|  GREEK小写字母欧米茄与PERISPOMENI和YPOGEGRAMMENI |  `哦`，``，`i` |  U + 03C9，U + 0342，U + 03B9 |
+| [U+1FFC](https://codepoints.net/U+1FFC?lang=en)  |  `ῼ`|  希腊大写字母欧米茄与PROSGEGRAMMENI |  “哦”，“我”  U + 03C9，U + 03B9 |
 | [U+FB00](https://codepoints.net/U+FB00?lang=en)  |  `ff` |  LATIN SMALL LIGATURE FF |  `f`，`f` |  U + 0066，U + 0066 |
 | [U+FB01](https://codepoints.net/U+FB01?lang=en)  |  `Fi` |  小LATIN结扎|  `Vereinigungsbedingte，`| IC资料|  U + 0066 U + 0069 |
 | [U+FB02](https://codepoints.net/U+FB02?lang=en)  |  `Fl` |  小LATIN结扎|  `Vereinigungsbedingte，`l` |  U + 0066 U + 006C |
@@ -440,11 +440,11 @@ undefined
 | [U+FB04](https://codepoints.net/U+FB04?lang=en)  |  `Ffl` |  拉丁小结扎FFL |  `Vereinigungsbedingte，`vereinigungsbedingte，`l` |  U + 0066 U + 0066 U + 006C |
 | [U+FB05](https://codepoints.net/U+FB05?lang=en)  |  `ft` |  LATIN SMALL LIGATURE LONG ST |  `s`，`t` |  U + 0073，U + 0074 |
 | [U+FB06](https://codepoints.net/U+FB06?lang=en)  |  `st` |  LATIN SMALL LIGATURE ST |  `s`，`t` |  U + 0073，U + 0074 |
-| [U+FB13](https://codepoints.net/U+FB13?lang=en)  |  请|  ARMENIAN SMALL LIGATURE我现在|  ```````  U + 0574，U + 0576 |
-| [U+FB14](https://codepoints.net/U+FB14?lang=en)  |  ```  亚美尼亚小男人ECH |  ```````````  U + 0574，U + 0565 |
-| [U+FB15](https://codepoints.net/U+FB15?lang=en)  |  ````  亚美尼亚小男人|  ``````  U + 0574，U + 056B |
-| [U+FB16](https://codepoints.net/U+FB16?lang=en)  |  | | | |  现在，亚美尼亚小型LVEATURE现已发展  ```````  U + 057E，U + 0576 |
-| [U+FB17](https://codepoints.net/U+FB17?lang=en)  |  `Mkh` |  亚美尼亚小男人XEH |  ````````````  U + 0574，U + 056D |
+| [U+FB13](https://codepoints.net/U+FB13?lang=en)  |  `մն`|  亚美尼亚小型LIGATURE男士现在|  `m`，`n` |  U + 0574，U + 0576 |
+| [U+FB14](https://codepoints.net/U+FB14?lang=en)  |  `մե`|  亚美尼亚小男人ECH |  `m`，`e` |  U + 0574，U + 0565 |
+| [U+FB15](https://codepoints.net/U+FB15?lang=en)  |  `մի`|  亚美尼亚小男人INI |  `m`，`by` |  U + 0574，U + 056B |
+| [U+FB16](https://codepoints.net/U+FB16?lang=en)  |  `վն`|  现在，亚美尼亚小型LVEATURE现已发展  `s`，`n` |  U + 057E，U + 0576 |
+| [U+FB17](https://codepoints.net/U+FB17?lang=en)  |  `մխ`|  亚美尼亚小男人XEH |  `m`，`k` |  U + 0574，U + 056D |
 
 
 
@@ -460,7 +460,7 @@ undefined
 
 ## Emojis
 * [Unicode Consortium's Emoji Chart](http://www.unicode.org/emoji/charts/full-emoji-list.html)
-* [Emojipedia](http://emojipedia.org/) - Information about specific emoji, news blog.
+* [Emojipedia](http://emojipedia.org/) - 有关特定表情符号，新闻博客的信息.
 * [emojitracker](http://emojitracker.com/) - 在Twitter上使用实时表情符号.
 * [World Translation Foundation](http://www.emojifoundation.com/) - 一种将书面文字推广，探索和翻译成表情符号图形字母的方法.
 * [Can I Emoji?](http://caniemoji.com/android-2/) - 显示iOS，Android和Windows上本机表情符号支持的当前状态.
@@ -492,7 +492,7 @@ undefined
  |  U + 1F3FC |  EMOJI MODIFY FITZPATRICK TYPE-3 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3-bw.png"   height="20" width="20"> |
  |  U + 1F3FD |  EMOJI MODIFY FITZPATRICK TYPE-4 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4-bw.png"   height="20" width="20"> |
  |  U + 1F3FE |  EMOJI MODIFY FITZPATRICK TYPE-5 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png"   height="20" width="20"> |
- |  U + 1F3FF |  EMOJI MODIFY FITZPATRICK TYPE-6 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png"   height="20" width="20"> |
+| U+1F3FF | EMOJI MODIFIER FITZPATRICK TYPE-6   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png"   height="20" width="20"> |
 
 
 
@@ -529,7 +529,7 @@ String.prototype.reverseⵑ= function（）{..};
 
 Number.prototype.isTrueɁ= function（）{..};
 
-是WhatDoesThisDoɁɁɁɁ= 42
+varWhatDoesThisDoɁɁɁɁ= 42
 ```
 
 
@@ -541,25 +541,25 @@ Number.prototype.isTrueɁ= function（）{..};
 varπ= Math.PI;
 
 //有时候，你只需要使用JavaScript的坏部分：
-var th__v = eval;
+var th_tha = eval;
 
 //代码，你没有工作？！
-varŁ_that益ಠ_ლ= 42;
+varლ_th益th_ლ= 42;
 
 //用于函数式编程的JavaScript库怎么样？
 varλ= function（）{};
 
 //为了正义而混淆无聊的变量名称
-var was =&#39;heh&#39;;
+var =“heh”;
 
 // ...或者只是随机组成
-是Ꙭൽↈⴱ=&#39;呵呵&#39;;
+varꙬൽↈⴱ=&#39;huh&#39;;
 
 //虽然完全有效，但这在大多数浏览器中都不起作用：
-var foo = 200 bar = 42;
+var foo = bar = 42;
 
 //这不是*按位左移（`&lt;&lt;`）：
-其中〱〱= 2;
+var〱〱= 2;
 //但是，这是：
 〱〱 << 〱〱; // 8
 
@@ -567,8 +567,8 @@ var foo = 200 bar = 42;
 varprice_9̶9̶_89=&#39;便宜&#39;;
 
 //带罗马数字的乐趣
-其中Ⅳ= 4;
-其中Ⅴ= 5;
+varⅣ= 4;
+varⅤ= 5;
 Ⅳ + Ⅴ; // 9
 
 //克苏鲁在这里
@@ -589,7 +589,7 @@ varHͫ̆̒̐ͣ̊̄ͯ͗͏̵̗̻̰̠̬͝E̴̷̬͎̘͇͍̾ͦ͊͒͊̓̓̐_̫̠̩̭̤
 ```
 
 ```css
-.That_through {
+Thatha {
 	border: 1px solid #f00;
 }
 
@@ -630,7 +630,7 @@ function wonky（str）{
 }
 
 function transformTag（tagIdOrElem，tagType）{
-     var elem =（tagIdOrElem instanceof HTMLElement）？  tagIdOrElem：document.getElementById（tagIdOrElement）;
+     var elem =（tagIdOrElem instanceof HTMLElement）？  tagIdOrElem：document.getElementById（tagIdOrElem）;
     if（！elem ||！（elem instanceof HTMLElement））return;
     var children = elem.childNodes;
     var parent = elem.parentNode;
@@ -755,7 +755,7 @@ function testContinue（str）{
 | [Sinhala](https://wikipedia.org/wiki/Sinhala)                                                                               |  U + 0D80 |  U + 0DFF |  （90）|
 | [Thai](https://wikipedia.org/wiki/Thai)                                                                                     |  U + 0E00 |  U + 0E7F |  （87）|
 | [Lao](https://wikipedia.org/wiki/Lao)                                                                                       |  U + 0E80 |  U + 0EFF |  （67）|
-| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                               |  U + 0F00 |  U + 0FFF |  （211）|
+| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                              | U+0F00   | U+0FFF   | (211)         |
 | [Myanmar](https://wikipedia.org/wiki/Myanmar)                                                                               |  U + 1000 |  U + 109F |  （160）|
 | [Georgian](https://wikipedia.org/wiki/Georgian)                                                                             |  U + 10A0 |  U + 10FF |  （88）|
 | [Hangul Jamo](https://wikipedia.org/wiki/Hangul_Jamo)                                                                       |  U + 1100 |  U + 11FF |  （256）|
@@ -804,7 +804,7 @@ function testContinue（str）{
 | [Optical Character Recognition](https://wikipedia.org/wiki/Optical_Character_Recognition)                                   |  U + 2440 |  U + 245F |  （11）|
 | [Enclosed Alphanumerics](https://wikipedia.org/wiki/Enclosed_Alphanumerics)                                                 |  U + 2460 |  U + 24FF |  （160）|
 | [Box Drawing](https://wikipedia.org/wiki/Box_Drawing)                                                                       |  U + 2500 |  U + 257F |  （128）|
-| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                 |  U + 2580 |  U + 259F |  （32）|
+| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                | U+2580   | U+259F   | (32)          |
 | [Geometric Shapes](https://wikipedia.org/wiki/Geometric_Shapes)                                                             |  U + 25A0 |  U + 25FF |  （96）|
 | [Miscellaneous Symbols](https://wikipedia.org/wiki/Miscellaneous_Symbols)                                                   |  U + 2600 |  U + 26FF |  （256）|
 | [Dingbats](https://wikipedia.org/wiki/Dingbats)                                                                             |  U + 2700 |  U + 27BF |  （192）|
@@ -866,7 +866,7 @@ function testContinue（str）{
 | [Latin Extended-E](https://wikipedia.org/wiki/Latin_Extended-E)                                                             |  U + AB30 |  U + AB6F |  （54）|
 | [Cherokee Supplement](https://wikipedia.org/wiki/Cherokee_Supplement)                                                       |  U + AB70 |  U + ABBF |  （80）|
 | [Meetei Mayek](https://wikipedia.org/wiki/Meetei_Mayek)                                                                     |  U + ABC0 |  U + ABFF |  （56）|
-| [Hangul Syllables](https://wikipedia.org/wiki/Hangul_Syllables)                                                            | U+AC00   | U+D7AF   | (2)           |
+| [Hangul Syllables](https://wikipedia.org/wiki/Hangul_Syllables)                                                             |  U + AC00 |  U + D7AF |  （2）|
 | [Hangul Jamo Extended-B](https://wikipedia.org/wiki/Hangul_Jamo_Extended-B)                                                 |  U + D7B0 |  U + D7FF |  （72）|
 | [High Surrogates](https://wikipedia.org/wiki/High_Surrogates)                                                               |  U + D800 |  U + DB7F |  （2）|
 | [High Private Use Surrogates](https://wikipedia.org/wiki/High_Private_Use_Surrogates)                                       |  U + DB80 |  U + DBFF |  （2）|
@@ -983,7 +983,7 @@ function testContinue（str）{
 | [CJK Compatibility Ideographs Supplement](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement)               |  U + 2F800 |  U + 2FA1F |  （542）|
 | [Tags](https://wikipedia.org/wiki/Tags)                                                                                     |  U + E0000 |  U + E007F |  （97）|
 | [Variation Selectors Supplement](https://wikipedia.org/wiki/Variation_Selectors_Supplement)                                 |  U + E0100 |  U + E01EF |  （240）|
-| [Supplementary Private Use Area-A](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A)                             |  U + F0000 |  U + FFFFF |  （4）|
+| [Supplementary Private Use Area-A](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A)                            | U+F0000  | U+FFFFF  | (4)           |
 | [Supplementary Private Use Area-B](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-B)                             |  U + 100000 |  U + 10FFFF |  （4）|
 
 
@@ -997,7 +997,7 @@ Unicode标准规定了以下基本原则：
 * **逻辑顺序**  - 双向文本是按逻辑顺序存储的字符，而不是代表的方式
 * **效率**  - 文档必须高效且完整.
  * **统一**  - 如果不同的文化或语言使用相同的字符，则只能包含一次.  这一点是
- * **字符，而不是字形**  - 只能编码字符，而不是字形.  简而言之，字形是实际的图形
+ * **字符，不是字形**  - 只能编码字符，而不是字形.  简而言之，字形是实际的图形
  * **动态构图**  - 新角色可以由其他已经标准化的角色组成.  例如，字符“Ä”可以由“A”和dieresis符号（“¨”）组成.
 * **语义**  - 必须明确定义包含的字符并区别于其他字符.
  * **稳定性**  - 一旦定义的字符永远不会被删除或其代码点被重新分配.  如果出现错误，则不推荐使用代码点.
@@ -1031,12 +1031,12 @@ Unicode标准规定了以下基本原则：
 
 ## Contributing
 
-查看*令人敬畏的Unicode * [contribution guide](https://github.com/jagracey/Awesome-Unicode/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+查看*令人敬畏的Unicode * [contribution guide](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 
 ## Code of Conduct
 
-见 [Code of Conduct](https://github.com/jagracey/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
+见 [Code of Conduct](https://github.com/Wisdom/Awesome-Unicode/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
 &gt;为了营造一个开放和热情的环境，我们就像
 贡献者和维护者承诺参与我们的项目和
 我们的社区为每个人提供无骚扰的体验，无论年龄，身体
@@ -1050,4 +1050,4 @@ Unicode标准规定了以下基本原则：
 在法律允许的范围内，[
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
  已放弃对此作品的所有版权及相关或邻接权利.  见
-[license file](https://github.com/jagracey/Awesome-Unicode/blob/master/LICENSE) 详情.
+[license file](https://github.com/Wisdom/Awesome-Unicode/blob/master/LICENSE) 详情.

@@ -1,7 +1,7 @@
-<div class="github-widget" data-repo="isRuslan/awesome-elm"></div>
+<div class="github-widget" data-repo="sporto/awesome-elm"></div>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/isRuslan/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
+    <img src="https://raw.githubusercontent.com/sporto/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
     <h1>令人敬畏的榆树</h1>
     <br />
     <br />
@@ -95,7 +95,7 @@
 
 ## Articles
 
-*Read the essentials. Check the official Elm blog: [elm-lang.org/blog](http://elm-lang.org/blog)*
+ *阅读要领.  查看官方Elm博客： [elm-lang.org/blog](http://elm-lang.org/blog)*
 
 ### Why Elm?
 
@@ -110,7 +110,7 @@
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
 
 ### Outdated articles (Not relevant for current Elm architecture)
 
@@ -216,12 +216,17 @@
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle)   - 查询有关elm源文件中的值的信息.  由大多数编辑器插件使用.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - 用于Elm编程语言的Linter.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
-* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - 为Elm生成OpenApi类型.
-* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - 从Elm生成Typescript定义.
-* [HTML to Elm](http://mbylstra.github.io/html-to-elm/)   - 将HTML转换为Elm Html.  将应用程序移植到Elm时很有用.
 * [Dependabot](https://dependabot.com) - 自动更新elm-package.json的PR.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - 榆树离线文档预览器 
+
+### Code Generators
+
+* [HTML to Elm](http://mbylstra.github.io/html-to-elm/)   - 将HTML转换为Elm Html.  将应用程序移植到Elm时很有用.
+* [OpenApi Generator](https://github.com/OpenAPITools/openapi-generator) - 为Elm生成OpenApi类型.
+* [Elm Typescript Interop](https://github.com/dillonkearns/elm-typescript-interop) - 从Elm生成Typescript定义.
 * [Quicktype](https://github.com/quicktype/quicktype) - 从JSON生成JSON解码器和编码器
+* [JSON Schema to Elm](https://github.com/dragonwasrobot/json-schema-to-elm) - 从JSON模式规范生成Elm类型，JSON解码器，JSON编码器和模糊测试
+* [Elm Bridge](https://github.com/agrafix/elm-bridge) - 从Haskell生成Elm类型
 
 ### Run Elm
 

@@ -1,4 +1,4 @@
-<div class="github-widget" data-repo="bfred-it/Awesome-WebExtensions"></div>
+<div class="github-widget" data-repo="fregante/Awesome-WebExtensions"></div>
 ## Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;精选资源的精选列表 [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) 发展.
