@@ -217,6 +217,7 @@
 - [JAMstack](https://github.com/automata/awesome-jamstack#readme) - 基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
 - [Mobile Web Development](https://github.com/myshov/awesome-mobile-web-development#readme) - 创造出色的移动网络体验.
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) -  UI组件的开发环境.
+- [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 
 
 ## Back-End Development
@@ -542,7 +543,7 @@
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -  Node.js CLI框架.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - 低开销，跨平台的3D图形和计算API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - 排版语言.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - 经济学家的入门套件.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
@@ -606,7 +607,7 @@
 - [Product Design](https://github.com/teoga/awesome-product-design#readme) - 设计从最初概念到生产的产品.
 - [Prisma](https://github.com/catalinmiron/awesome-prisma#readme) - 将数据库转换为GraphQL API.
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
-- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - Better understand who has access to telecommunication and internet infrastructure and on what terms.
+- [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及使用什么条件.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用和功能的技术堆栈.
 
 

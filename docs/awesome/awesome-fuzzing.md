@@ -19,6 +19,11 @@
 - [Open Source Fuzzing Tools, 1st Edition](https://www.amazon.com/Open-Source-Fuzzing-Tools-Rathaus/dp/1597491950/) (2007)
 
 
+## Talks
+- [Effective File Format Fuzzing](https://youtu.be/qTTwqFRD1H8)，黑帽欧洲2016
+- [Adventures in Fuzzing](https://www.youtube.com/watch?v=SngK4W4tVc0)，纽约大学讲座2018
+- [Fuzzing with AFL](https://www.youtube.com/watch?v=DFQT1YxvpDo)，NDC会议2018年
+
 ## Papers
 为了达到明确的范围，我选择在最后的4个程序中包括关于模糊测试的出版物
 2008年1月至2019年7月举行的主要安全会议.
@@ -132,6 +137,7 @@
 - [domato](https://github.com/googleprojectzero/domato) - 来自DOM的模糊器 [Google Project Zero](https://github.com/googleprojectzero). [Blog Post.](https://googleprojectzero.blogspot.com/2017/09/the-great-dom-fuzz-off-of-2017.html)
 - [fuzzilli](https://github.com/googleprojectzero/fuzzilli) - 由SamuelGroß编写的（覆盖）指导的Javascript引擎模糊器.
 - [CodeAlchemist](https://github.com/SoftSec-KAIST/CodeAlchemist) -  JavaScript引擎模糊器，由KAIST SoftSec Lab编写.
+- [test-each](https://github.com/ehmicky/test-each) - 使用不同的输入重复测试.
 ### Network protocol
 - [T-Fuzz](https://github.com/HexHive/T-Fuzz) -  T-Fuzz利用覆盖引导的模糊器生成输入.
 - [TLS-Attacker](https://github.com/RUB-NDS/TLS-Attacker) - 用于分析TLS库的基于Java的框架.
