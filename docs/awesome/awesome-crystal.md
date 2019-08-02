@@ -91,7 +91,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 
 ## Code Analysis and Metrics
- * [ameba](https://github.com/veelenga/ameba) - 静态代码分析工具
+ * [ameba](https://github.com/crystal-ameba/ameba) - 静态代码分析工具
  * [trashman](https://github.com/Groogy/trashman) -  Crystal应用程序的简单内存分析器
 
 ## Configuration

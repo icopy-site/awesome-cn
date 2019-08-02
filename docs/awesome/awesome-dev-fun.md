@@ -51,8 +51,8 @@
 - [Fapfap.js](http://fapfapjs.io) - 为DIY爱好者手工制作的JavaScript框架.
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) -  JavaScript错误Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - 从Stack Overflow自动完成您的JS.
-- [Object.toSting()](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
-- [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级声音，高性能，踢屁股的类固醇JavaScript库.
+- [Object.toSting()](https://github.com/teropa/to-sting) - 将Sting的图像记录到开发控制台.
+- [Sarcasm](https://github.com/komlev/sarcasm) - 讽刺是一种简单易用，包含电池，不含意见，易于上手，轻巧，可靠，方便，简单易用，用户友好，超级音速，笨拙，类似激素的JavaScript库.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) - 通用，跨文化和用户友好的方式显示数字.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -  H9RBS.js（v0.0001）是一个灵活的，无依赖，轻量级，设备无关，模块化，烘焙，组件框架MVC库鞋带，可以帮助您启动响应式基于CSS的应用程序架构骨干kitcheninkink tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) - 世界上最小，最快的JavaScript库.
@@ -105,6 +105,7 @@
 - [Corporate Bullshit/Buzzword Generator API](https://github.com/sameerkumar18/corporate-bs-generator-api) - 企业废话生成器随机选择短语，这可以帮助您的应用程序在旋转，流行语和模糊性至高无上的行业中取得领先.
 - [shoutcloud.io](http://shoutcloud.io/)   - 所有大写作为服务.  ⬆️
 - [Make My Link Longer](https://make-my-link-longer.glitch.me/) - 您一直需要的URL-elongator.
+- [eafd](https://github.com/doesdev/eafd)   - 当你没有这些话时.  Snoop确实如此.  粗俗的音频发生器（或者不粗俗，只是一个）
 
 
 ## Browser extensions
@@ -131,7 +132,7 @@
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity)   - 最大限度地提高您的“生产力”！  由懒虫为懒虫制作的生产力套件.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 动画管道终端屏幕保护程序.
 - [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) -  ZSH的Chuck Norris财富插件.
-- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 责备别人的坏代码.
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - 像黑客帝国那样在终端上制造数字雨.
 - [Gosleap](https://github.com/koriroys/gosleap) - 让Ryan Gosling跳过你的屏幕.
 

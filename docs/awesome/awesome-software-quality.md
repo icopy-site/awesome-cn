@@ -59,7 +59,7 @@
 * [Handbook of Software Reliability Engineering](http://www.cse.cuhk.edu.hk/~lyu/book/reliability/)
 * [Mutation Testing: Better Code by Making Bugs](https://leanpub.com/mutationtesting) -  Filip van Laenen
 * [The Tao of Testing. A Field Manual for Software Engineers.](https://jasonpolites.github.io/tao-of-testing/index-1.1.html) -  Jason Polites
-* [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) -  Rikard Endgren
+* [The Little Black Book On Test Design](http://thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf) - 理查德恩格伦
 * [Generating Software Tests. Breaking Software for Fun and Profit.](https://www.fuzzingbook.org/) - 作者：Andreas Zeller，Rahul Gopinath，MarcelBöhme，Gordon Fraser和Christian Holler
 * [Software Testing and Analysis: Process, Principles, and Techniques](http://ix.cs.uoregon.edu/~michal/book/Samples/book.pdf) -  Mauro Pezze，Michal Young（[slides](http://ix.cs.uoregon.edu/~michal/book/))
 * [Software Testing Glossary](https://testitquickly.com/2016/12/14/software-testing-glossary/)
@@ -114,7 +114,7 @@
 * [Alloy Documentation](http://alloy.mit.edu/alloy/documentation.html) - 丹尼尔杰克逊
 * [Introduction to Spin](http://spinroot.com/spin/Man/) - 多位作者
 *软件基础： [4.0](https://www.cis.upenn.edu/~bcpierce/sf/sf-4.0/), [current](https://www.cis.upenn.edu/~bcpierce/sf/current/index.html), [draft](https://softwarefoundations.cis.upenn.edu/draft/)
-, [epub](https://github.com/carliros/software-foundations-book) -  Benjamin C. Pierce＆Co
+, [epub](https://github.com/carliros/software-foundations-book) -  Benjamin C. Pierce＆Co.
 * [Verified Functional Algorithms](http://www.cs.princeton.edu/~appel/vfa/) -  Andrew W. Appel
 * [Foundations of Computer Science](https://www.cl.cam.ac.uk/teaching/1998/FoundsCS/) - 拉里保尔森博士
 * [Principles of Model Checking](https://pdfs.semanticscholar.org/f126/9591359fddc20f95da10c7bd4c054080b447.pdf) -  Christel Baier，Joost-Pieter Katoen
@@ -147,7 +147,7 @@
 #### Тестирование ПО
 
 * [Test-Driven Development in Practice](https://github.com/risik/tdd-book) - 谢尔盖鲍里索夫
-* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) -  Sviatoslav Kulikov
+* [Тестирование программного обеспечения. Базовый курс.](http://svyatoslav.biz/software_testing_book/) -  Svetoslav Kulikov
 * [Всё, что вам нужно знать о форматах отчётов в тестировании ПО](https://gist.github.com/ligurio/6efa8576e175fa0fb5d04cfe5c85a2a5) - 谢尔盖布朗尼科夫
 * [Руководство по тестированию пользовательского опыта для сайтов, мобильных приложений и прототипов](https://uxcrowd.ru/file/guide.pdf)
 * [Автоматизация тестирования от «А» до «Ы»](https://alpaev.com/testautomation/) -  Gennadiy Alpaev
@@ -158,7 +158,6 @@
 
 * [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) -  A.M.Mironov
 * http://is.ifmo.ru/verification/
-* [Тестирование на основе моделей](http://panda.ispras.ru/~kuliamin/mbt-course.html)   -  V.V.  Kulyamyn
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
 ## Courses
@@ -297,7 +296,7 @@
 * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
 * [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
 *学校测试： [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
-* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) -  Kulyamin Victor
+* [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) -  Victor Kulyamin
 * [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - 谢尔盖安德列夫
 * [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) - 该课程基于官方培训计划“认证软件测试员基础水平”ISTQB，旨在为认证考试做准备
 
@@ -308,9 +307,8 @@
 * [Формальные методы обеспечения качества ПО](http://kspt.icc.spbstu.ru/2010/course/quality)
 * [Верификация программного обеспечения](http://www.intuit.ru/studies/courses/1040/209/info)
 * [Software Verification](http://compsciclub.ru/courses/softwareverification/2008-spring/)
-* [Теория соответствия для систем с блокировками и разрушением](http://panda.ispras.ru/~kuliamin/docs/ConfTheory-book-2008.pdf)   -  I.B.  Burdonov，A.S.  Kosachev，V.V.  Kulyamin
-* [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf)   -  AS  Kamkin
-* [Методы верификации программного обеспечения](http://www.ict.edu.ru/ft/005645/62322e1-st09.pdf)   -  V.V.  Kulyamyn
+* [Введение в формальные методы верификации программ](http://sp.cs.msu.ru/courses/vmp/kamkin_mc2018.pdf)   -  A.S.  Kamkin
+* [Методы верификации программного обеспечения](https://www.ispras.ru/publications/2008/methods_of_software_verification/)   -  V.V.  Kulyamyn
 
 
 ## Workshops and interactive learning tools

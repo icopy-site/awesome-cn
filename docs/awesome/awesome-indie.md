@@ -140,7 +140,11 @@
 - **[How I Built This](https://www.npr.org/podcasts/510313/how-i-built-this)**
 
   由播客主持的播客 [Guy Raz](https://twitter.com/guyraz) 初创公司创始人讲述他们的故事.
-    
+
+- **[Build your SaaS](https://saas.transistor.fm/)**
+
+   在2019年构建SaaS需要什么？  播客 [Jon Buda](https://twitter.com/jonbuda) 和 [Justin Jackson](https://twitter.com/mijustin) 随着他们成长Transistor.fm.
+
 ### Talks
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** [David Heinemeier Hansson](https://twitter.com/dhh)
@@ -337,6 +341,7 @@
 - **[Hackers&Painters](http://www.paulgraham.com/hackpaint.html)** [$] by [Paul Graham](http://www.paulgraham.com/).
 - **[The $100 Startup](http://100startup.com/)** [$] by [Chris Guillebeau](https://chrisguillebeau.com/).
 - **[Technical Blogging (2nd Edition)](https://pragprog.com/book/actb2/technical-blogging-second-edition)** [$] by [Antonio Cangiano](https://antoniocangiano.com/).
+- **[The Mom Test](http://momtestbook.com/)** [$] by [Rob Fitzpatrick](https://robfitz.com/).
 
 ##### Other
 

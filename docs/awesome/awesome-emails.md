@@ -9,7 +9,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
+&gt;一系列令人敬畏的框架，模板，工具，工作流程等等，以构建更好的电子邮件.
 
 
 ## Frameworks
@@ -78,6 +78,7 @@ VML和CSS.
 
 ## Articles
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) -  By Lee Munroe撰写的电子邮件设计工作流程.
+- [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - 撰写有效电子邮件的提示
 
 ## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - 全球每个流行的移动，网络和桌面电子邮件客户端的CSS支持的完整细分.
@@ -102,7 +103,7 @@ VML和CSS.
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
 - [Mailchimp](http://mailchimp.com/resources/) - 来自Mailchimp的超级棒的资源
 - [Litmus Resources](https://litmus.com/resources) - 通过Litmus资源了解最新的电子邮件新闻和趋势.
-- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) -  Campaign Monitor资源将立即让您成为专家.
+- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) -  MailChimp电子邮件设计参考
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 有关如何构建自己的电子邮件服务器的教程

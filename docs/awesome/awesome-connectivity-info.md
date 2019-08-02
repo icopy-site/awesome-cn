@@ -77,13 +77,14 @@
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
 - [GSMA Mobile Economy - West Africa](https://www.gsma.com/r/mobileeconomy/west-africa/) (2019)
+- [GSMA Mobile Economy - Sub-Saharan Africa](https://www.gsma.com/mobileeconomy/sub-saharan-africa/) (2018)
+- [GSMA Mobile Economy - Latin America](https://www.gsma.com/r/mobileeconomy/latam/) (2018)
 - [African Telecommunications Infrastructure Development @manypossibilities.net](https://manypossibilities.net/series/africa-telecom-infrastructure/) (2018)
+- [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - （2018年第3季度）有关语音/短信篮，1GB数据篮和Value For Money捆绑包的定价信息.
 - [GSMA Mobile Economy - Africa](https://www.gsma.com/mobileeconomy/africa/) (2016)
 - [Opera - State of the Mobile Web Africa](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) - 2016.
 - [Ericsson Mobility Report - Sub-Saharan Africa](https://manypossibilities.net/report-archives/EricssonMobilityReport-nov-2015-regional-report-sub-saharan-africa.pdf) (2015)
-- [RIA Africa Mobile Pricing (RAMP) Indices Portal](https://researchictafrica.net/ramp_indices_portal/) - （2018年第3季度）有关语音/短信篮，1GB数据篮和Value For Money捆绑包的定价信息.
 - [Open Signal - State of Mobile Networks Reports](http://opensignal.com/reports/) - 报告涵盖基于OpenSignal数据收集的国家/地区.
 - [Lions go digital: The Internet’s transformative potential in Africa](https://www.mckinsey.com/industries/high-tech/our-insights/lions-go-digital-the-internets-transformative-potential-in-africa) - （2013年）全球咨询公司麦肯锡关于互联网在非洲的潜在影响的报告.
 

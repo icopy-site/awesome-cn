@@ -170,6 +170,7 @@
 *身份验证，授权和其他安全相关的库.*
 
   * [Buddy](https://github.com/funcool/buddy)
+  * [caesium](https://github.com/lvh/caesium) （libsodium绑定）
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
 
