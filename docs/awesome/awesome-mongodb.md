@@ -248,7 +248,6 @@ Services:
  - [GrandNode](https://github.com/grandnode/grandnode) - 使用ASP.NET构建的多平台电子商务购物车
  - [Leanote](https://github.com/leanote/leanote) - 用Go构建的Evernote克隆
  - [NodeBB](https://github.com/NodeBB/NodeBB) - 基于Node.js的论坛软件（“为现代网络打造”）
- - [Quokka](https://github.com/rochacbruno/quokka) - 使用Flask构建的Python CMS
  - [Reaction](https://github.com/reactioncommerce/reaction) - 使用ES6构建的事件驱动的实时商务平台
  - [SaaS Boilerplate](https://github.com/async-labs/saas) - 用于SaaS产品的Boilerplate，使用TypeScript，React和Express构建
  - [uptime](https://github.com/fzaninotto/uptime) - 使用Node.js和Bootstrap构建的远程监控应用程序

@@ -54,6 +54,7 @@
 - [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) -  Jupyter的UI小部件.
 - [ipyvolume](https://github.com/maartenbreddels/ipyvolume) - 基于小部件和WebGL在Jupyter中对Python进行3D绘图.
 - [itk-jupyter-widgets](https://github.com/InsightSoftwareConsortium/itk-jupyter-widgets) - 交互式小部件，可在2D和3D中显示图像.
+- [jp_doodle](https://github.com/AaronWatters/jp_doodle) - 用于在2D和3D中构建专用交互式图表的基础设施.
 - [jupyter-gmaps](https://github.com/pbugnion/gmaps) -  Jupyter笔记本中Google Maps的交互式可视化库.
 - [mpld3](http://mpld3.github.io) - 结合Matplotlib和D3js vor交互式数据可视化.
 - [pyecharts](https://github.com/pyecharts/pyecharts) - 用于的Python接口 [ECharts](https://github.com/apache/incubator-echarts) 可视化库.

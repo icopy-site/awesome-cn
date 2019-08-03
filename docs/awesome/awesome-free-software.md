@@ -7,7 +7,7 @@
 
 -GNU项目
 
- &gt; RMS的最佳宣传一直是他的黑客行为.  所以这对我们所有人来说都是如此;  对于我们这个小部落之外的世界其他地方而言，我们软件的卓越性对于开放性和自由性来说，比任何高度抽象的抽象原则都更具说服力.  所以下次RMS或其他任何人敦促你“谈论自由”时，我建议你回答“闭嘴并向他们展示代码”.
+ &gt; RMS的最佳宣传一直是他的黑客行为.  所以这对我们所有人来说都是如此;  对于我们这个小部落之外的世界其他地方而言，我们的软件的卓越性对于开放性和自由性来说，比任何高度抽象的抽象原则都更具有说服力.  所以下次RMS或其他任何人敦促你“谈论自由”时，我建议你回答“闭嘴并向他们展示代码”.
 
 —[Eric Raymond](https://www.linuxtoday.com/developer/1999062802310NWSM)
 
@@ -76,7 +76,7 @@
 ### Operating Systems
 
 - [Debian](https://www.debian.org/)   - 最早的类UNIX操作系统之一，致力于将非自由软件保留在其系统之外.  （[DFSG](https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines))
-- [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
+- [Devuan](https://devuan.org/)   - 没有systemd的Debian之叉.  （[Licenses](https://devuan.org/os/source-code))
 - [PureOS](https://pureos.net/)   -  FSF认可了Debian的衍生产品.  （多个许可证）
 - [LineageOS](https://lineageos.org/)   - 适用于手机和平板电脑的Android发行版以及CyanogenMod的继任者.  （多个许可证）
 
@@ -131,6 +131,7 @@
 
 ### Web Applications
 
+- [Dnote](https://dnote.io/)   - 一个简单的端到端加密笔记本电脑，用于保护隐私.  （[GNU AGPLv3](https://framagit.org/chocobozzz/PeerTube/blob/develop/LICENSE))
 - [Etherpad](http://etherpad.org/)   - 实时协作文档编辑.  （[Apache License 2.0](https://github.com/ether/etherpad-lite/blob/develop/LICENSE))
 - [Ghost](https://ghost.org/)   - 用于构建和运行在线出版物的Hackable平台.  （[MIT](https://github.com/TryGhost/Ghost/blob/master/LICENSE))
 - [GitLab](https://about.gitlab.com/installation/)   - 整个代码生命周期的Git存储库管理器.  （[MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
@@ -166,7 +167,7 @@
 - [Purism](https://puri.sm/) - 隐私，安全和自由的计算机和软件.
 - [Raptor Computing Systems](https://raptorcs.com/) - 使用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
 - [Technoethical](https://tehnoetic.com/) - 与免费操作系统兼容的笔记本电脑，适配器和移动设备.
-- [ThinkPenguin](https://www.thinkpenguin.com/) - 不包含专有软件的现代笔记本电脑，台式机和打印机.
+- [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
 - [Vikings](https://vikings.net/) - 由Libreboot固件，libre软件和绿色能源提供支持的托管公司，也销售硬件.
 
 ### Hardware Resources

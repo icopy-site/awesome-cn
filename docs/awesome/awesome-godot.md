@@ -15,9 +15,9 @@
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - 简单的自上而下移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) - 一个简单的突破克隆.
-- [Bombs](https://github.com/randyyaj/Bombs)   - 简单的手机游戏.  你需要触摸炸弹来化解它们.
+- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Breakable](https://github.com/didier-v/breakable)   - 类似突破的游戏.  与Godot 3.0兼容.
-- [Drone Commander](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM.
+- [Drone Commander](https://github.com/securas/Drone_Commander)   - 命令成群的无人机对抗外星人.  专为CGA JAM而制造.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)   - 详细世界中的探索性平台游戏.  面向年轻球员.
 - [Dolphin Island 2](https://github.com/janmarcano/Dolphin-Island-2) - 平台游戏为A Game By It Cover 2015 Game Jam制作.
 - [DynaDungeons](https://github.com/akien-mga/dynadungeons) - 炸弹人克隆在幻想世界.
@@ -118,6 +118,7 @@
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) - 戈多的Font Awesome插件.
 - [gdstats](https://github.com/droxmusic/gdstats/) - 用于常见统计分布的伪随机数生成器库.
 - [gdutils](https://github.com/GodotExplorer/gdutils) - 用GDScript编写的Godot实用程序.
+- [godotccd](https://github.com/TheSHEEEP/godotccd) - 使用libccd在Godot中进行快速3D碰撞检查.
 - [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -  Phoenix Framework的Channels API的GDScript和Godot Engine实现.
 - [Godot NExt](https://github.com/willnationsdev/godot-next) -  Godot的一组基本节点扩展.
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 戈多的通知中心.

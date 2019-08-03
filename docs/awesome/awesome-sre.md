@@ -213,6 +213,7 @@
 * [Google Cloud Production Guideline](https://medium.com/google-cloud/production-guideline-9d5d10c8f1e)
 * [production readiness](https://jbd.dev/prod-readiness/)
 * [Trust By Design: The Fusion of Operational Maturity and Risk Modeling](https://www.youtube.com/watch?v=Vvd3uvNvMns)
+* [Top Seven Myths of Robust Systems](https://www.verica.io/top-seven-myths-of-robust-systems/)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -286,6 +287,7 @@
 * [Code Yellow: When Operations Isn’t Perfect](https://devops.com/code-yellow-when-operations-isnt-perfect/)
 * [MTTR is dead, long live CIRT](https://opensource.com/article/19/7/measure-operational-performance)
 * [Extended Dreyfus Model for Incident Lifecycles](https://github.com/preed/incident-lifecycle-model)
+* [Inhumanity of Root Cause Analysis](https://www.verica.io/inhumanity-of-root-cause-analysis/)
 
 ## Post-Mortem
 * [A collection of post-mortems](https://github.com/danluu/post-mortems)
@@ -390,7 +392,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
+* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.

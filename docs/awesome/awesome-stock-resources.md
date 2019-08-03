@@ -146,7 +146,6 @@
 精选的网站提供高品质的视频库存.
 
 * [Coverr](http://coverr.co/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/)  为您的主页提供美丽，免费的CC0许可视频.  每周一7个新视频.
-* [Distill](http://www.wedistill.io/)   - 为您的个人和商业用途免费提供精选的高清视频.  每10天10个免费高清视频.
 * [Life of Vids](http://www.lifeofvids.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 免费版税视频，剪辑和循环.
 * [Mazwai](http://mazwai.com/)   - 丰富的免费创意公共高清视频剪辑和片段.  检查每个视频的许可条款.
 * [Pexels Videos](https://videos.pexels.com/) - [:copyright:](https://creativecommons.org/publicdomain/zero/1.0/) 完全免费，CC0许可股票视频.
@@ -175,7 +174,7 @@ CSS和基于图像的模式资源的混合.
 
 自由和开源字体资源的混合.
 
-* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - 展示Google网站字体目录中最好的字体.
+* [Beautiful Web Type](https://beautifulwebtype.com) - 展示Google网站字体目录中最好的字体.
 * [Brick](https://github.com/alfredxing/brick) -  Webfonts实际上看起来不错.
 * [Font Fabric](http://www.fontfabric.com/category/free/) -  Font Fabric的免费字体.
 * [Font Squirrel](https://www.fontsquirrel.com) - 精心挑选的字体免费用于商业用途.

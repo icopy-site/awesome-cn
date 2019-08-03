@@ -287,6 +287,7 @@ Installers
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
+  - [Tilt](https://github.com/windmilleng/tilt)
 
 
   - [Canonical Distribution of Kubernetes - CDK](https://www.ubuntu.com/kubernetes)
@@ -349,6 +350,7 @@ MOOC课程/教程
   - [Kubernetes By Example by OpenShift Team](http://kubernetesbyexample.com)
   - [Kubernetes Tutorial by Tutorialspoint](http://www.tutorialspoint.com/kubernetes/)
   - [Imperative vs. Declarative — a Kubernetes Tutorial](https://medium.com/payscale-tech/imperative-vs-declarative-a-kubernetes-tutorial-4be66c5d8914) 通过 [Adrien Trouillaud](https://github.com/adrienjt/)
+  - [Learning Kubernetes, The Chinese Taoist Way](https://github.com/caicloud/kube-ladder)
 
 实例探究
 =======================================================================
@@ -478,11 +480,11 @@ Projects
 * [BotKube](https://github.com/infracloudio/botkube) - 可帮助您监控Kubernetes集群，调试关键部署并为标准实践提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://instana.com)
-* [kail](https://github.com/boz/kail)   -  Kubernetes日志查看器.  Streams从所有匹配pod的所有容器中记录.
+* [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -  **不推荐使用的**存储库已存档且只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
@@ -642,13 +644,13 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - 通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
 * [Kuryr](https://github.com/openstack/kuryr-kubernetes)
 * [Linen](https://github.com/John-Lin/linen-cni)
-* [Multus-cni](https://github.com/Intel-Corp/multus-cni) - 多宿主下面
+* [Multus-cni](https://github.com/Intel-Corp/multus-cni) -  cni下的多宿主
 * [Network-Controller](https://github.com/linkernetworks/network-controller) - 打开vSwitch，与Kubernetes pod关联的多个网络接口
 * [NSX-T](https://www.vmware.com/products/nsx/cloud-native-apps.html) - 支持负载均衡和分布式防火墙的CNI插件.
 * [Nuage](https://github.com/nuagenetworks/nuage-kubernetes)
@@ -721,6 +723,7 @@ Projects
 * [StackStorm](https://github.com/StackStorm/st2)
 * [stern](https://github.com/wercker/stern) - 多个容器和容器日志拖尾
 * [Vikube](https://github.com/c9s/vikube.vim) - 来自Vim的Vim的Kubernetes业务
+* [K9s](https://github.com/derailed/k9s) -  Kubernetes CLI管理你的风格集群！
 
 ## Application deployment orchestration
 
@@ -809,7 +812,6 @@ Projects
 
 * [FfDL](https://github.com/IBM/FfDL) - 深度学习平台，在Kubernetes上提供TensorFlow，Caffe，PyTorch等服务
 * [kubeflow](https://github.com/google/kubeflow) -  Kubernetes机器学习工具包.
-* [MLT](https://github.com/IntelAI/mlt) - 机器学习容器模板：易于使用的容器和kubernetes对象模板.
 * [mxnet-operator](https://github.com/deepinsight/mxnet-operator) -  Kubernetes上ML / MXNet的工具.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 一个开源平台，用于可重复的机器学习和对kubernetes的深度学习
 * [seldon-core](https://github.com/SeldonIO/seldon-core) - 用于在Kubernetes上部署机器学习模型的开源框架

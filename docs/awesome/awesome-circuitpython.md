@@ -7,7 +7,7 @@
 
 &gt;精选的CircuitPython指南，视频，库，框架，软件和资源的精选列表.
 
-[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写干净简单的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
+[CircuitPython](https://learn.adafruit.com/welcome-to-circuitpython/what-is-circuitpython)  是Adafruit的MicroPython分支，旨在简化低成本微控制器的实验和教育.  通过不需要任何前期桌面软件下载，它可以比以往更轻松地开始原型设计.  使用CircuitPython，您可以编写简洁的Python代码来控制硬件，而不必使用复杂的低级语言，如C或C ++（Arduino用于编程）.  这对初学者来说很棒！
 
 
 
@@ -53,6 +53,7 @@
 - [For developers, Mu: A Python Code Editor](http://mu.readthedocs.io/en/latest/) -  Mu的文档.
 - [Using Microsoft VSCode for CircuitPython](https://blog.adafruit.com/2019/01/02/using-visual-studio-code-to-program-circuitpython-with-an-adafruit-neotrellis-m4-adafruit-neotrellis-circuitpython/) - 博客文章讨论过程.
 - [A helper for CircuitPython development with Atom](https://github.com/s-light/CircuitPython_Atom_helper) - 帮助者 [Atom editor](https://atom.io/).
+- [Thonny, a Python IDE for beginners](https://thonny.org/) - 支持CircuitPython和MicroPython的编辑器.
 
 ## Hardware
 
