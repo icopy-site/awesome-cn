@@ -172,12 +172,12 @@
 - [Mini Diary](https://github.com/samuelmeuli/mini-diary) - 简单安全的日记应用程序.
 - [Unsplash Wallpapers](https://github.com/soroushchehresa/unsplash-wallpapers) - 从Unsplash设置桌面壁纸.
 - [Motrix](https://github.com/agalwood/Motrix) - 下载管理器.
+- [Franz](https://github.com/meetfranz/franz) -  Skype，Slack，Hangouts，WhatsApp，Grape，Telegram，FB Messenger，Hipchat在同一个应用程序中.
 
 ### Closed Source
 
 - [GitKraken](http://www.gitkraken.com) -  Git客户端.
 - [1Clipboard](http://1clipboard.io) - 通用剪贴板管理器.
-- [Franz](http://meetfranz.com) -  Skype，Slack，Hangouts，WhatsApp，Grape，Telegram，FB Messenger，Hipchat在同一个应用程序中.
 - [Postman](https://www.getpostman.com) - 创建和发送HTTP请求.
 - [Slack](https://medium.com/ben-and-dion/how-slack-built-a-well-loved-product-going-against-peter-thiel-and-native-app-fashion-2abbbe5a022f) - 桌面版.
 - [Avocode](http://avocode.com) - 分享设计和协作.

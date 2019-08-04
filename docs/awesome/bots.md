@@ -27,6 +27,7 @@
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [WeChat](https://admin.wechat.com/)
 * [VKontakte](https://new.vk.com/dev/bizmessages)
+* [Hangouts Chat](https://developers.google.com/hangouts/chat/concepts/)
 
 ## Tools For Building Bots
 * [wit.ai ](https://wit.ai/) - 轻松创建人类可以聊天的基于文本或语音的机器人.
@@ -39,7 +40,7 @@
 * [Dexter](https://rundexter.com/app/spreadsheet-bot) - 获取一个Slack机器人，响应您自己的Google表格中的答案.
 * [Converse AI](http://www.converse.ai/) - 使用智能聊天机器人技术即时回应客户问题.
 * [Gupshup](https://www.gupshup.io/developer/home) - 在任何渠道上构建和部署机器人的最简单，最快捷的方式.
-* [Haven OnDemand](https://dev.havenondemand.com/apis) - 它们是与沃森类似的API，但有很好的文档记录，并且有免费增值版本.
+* [Haven OnDemand](https://dev.havenondemand.com/apis) - 它们与沃森的API类似，但有很好的文档记录，并且有免费增值版本.
 * [Recast.AI](https://recast.ai) - 面向开发人员的协作机器人平台：轻松构建会话机器人.
 * [ChatterBot](https://github.com/gunthercox/ChatterBot) - 基于机器学习的会话对话引擎，用Python构建
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - 对文本块使用情绪分析，为对话机器人添加决策树逻辑.

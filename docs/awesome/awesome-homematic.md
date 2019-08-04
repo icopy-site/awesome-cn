@@ -118,8 +118,7 @@
 ## Misc
 
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - 用于平板安装的框架.
-* [Ersatzteil für Heizkörperthermostat](https://www.thingiverse.com/thing:3522194) - 用于3D打印的stl文件
-* [Gehäuse für RaspberryPi mit RFI-RF-MOD](https://www.thingiverse.com/thing:3117290) - 用于3D打印的stl文件
+* [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) -  Homematic周围的各个部分可以打印自己.
 
 ## Contribute
 

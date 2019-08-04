@@ -52,7 +52,7 @@
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - 用于集成Nette Tracy Debugger的Laravel软件包
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - 在网络浏览器中运行工匠
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - 与Laravel路线一样的邮差工具
-* [Laravel Tail](https://github.com/spatie/laravel-tail) - 缺少尾部命令
+* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
 * [Larvel Telescope](https://github.com/laravel/telescope) -  Laravel Telescope是Laravel框架的优雅调试助手
 
 ##### Authentication & Authorization
@@ -93,7 +93,7 @@
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) -  jQuery DataTables API
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - 根据网站访问者的IP地址确定网站访问者的位置
 * [Laravel Hashids](https://github.com/vinkla/laravel-hashids) - 使用生成唯一的非顺序ID [Hashids](http://hashids.org/php/)
-* [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - 作为您的一个用户进行身份验证的程序包
+* [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - 作为您的某个用户进行身份验证的程序包
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) -  CommonMark markdown解析器
 * [Laravel Menu](https://github.com/spatie/laravel-menu) -  Laravel的Html菜单生成器
 * [Laravel Talk](https://github.com/nahid/talk) - 实时用户消息系统
@@ -106,6 +106,7 @@
 * [Purifier](https://github.com/mewebstudio/purifier) -  HTML过滤器
 * [Revisionable](https://github.com/VentureCraft/revisionable) - 为Eloquent模型创建修订历史记录
 * [SEOTools](https://github.com/artesaos/seotools) - 帮助一些常见的SEO技术
+* [Page Cache](https://github.com/JosephSilber/page-cache) - 将响应缓存为磁盘上的静态文件，以便快速加载页面
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - 存储在JSON文件中的持久配置设置
 * [Friendship](https://github.com/hootlex/laravel-friendships) - 友谊管理系统
 * [Teamwork](https://github.com/mpociot/teamwork) - 用户与邀请系统的团队关联
@@ -133,6 +134,7 @@
 * [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - 基于ORM的文件上传管理器
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - 导入和导出Excel和CSV文件
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) -  Laravel的快速XLSX，CSV和ODT导入和导出
+* [Laravolt Avatar](https://github.com/laravolt/avatar) - 插入n播放头像，将名称，电子邮件和任何其他字符串转换为美丽的头像（或gravatar），毫不费力.
 
 ##### Integration with Javascript
 
@@ -178,7 +180,7 @@
 * [Dingo API](https://github.com/dingo/api) - 用于开发RESTful API的多用途工具包
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - 添加CORS（跨源资源共享）标头支持
 * [Laravel Fractal](https://github.com/spatie/laravel-fractal) - 使用Fractal输出复杂，灵活的AJAX / RESTful数据结构
-* [Laravel GraphQL](https://github.com/Folkloreatelier/laravel-graphql) - 支持中继，雄辩的模型，验证和GraphiQL
+* [Laravel GraphQL](https://github.com/rebing/graphql-laravel) - 支持中继，雄辩的模型，验证和GraphiQL
 * [Lighthouse](https://github.com/nuwave/lighthouse) -  Laravel的新兴GraphQL库
 * [Laravel Responder](https://github.com/flugger/laravel-responder) - 使用Fractal构建自定义API响应
 
@@ -207,6 +209,7 @@
 * [Horizon](https://github.com/laravel/horizon) - 使用简单的Web UI监视和配置队列
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - 排队作业失败时收到通知
 * [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - 功能强大且易于配置的正常运行时间和ssl监视器
+* [Larametrics](https://github.com/aschmelyun/larametrics) -  Laravel应用程序的自托管指标和通知平台
 
 ##### Localization
 
@@ -239,7 +242,7 @@
 * [Laragon](https://laragon.org/) -  Windows上的独立开发环境
 * [Stacker](https://github.com/Maxlab/stacker) -  Docker上本地Web开发的环境
 * [Devilbox](https://github.com/cytopia/devilbox) - 适用于每个PHP版本的dockerized和通用LAMP / MEAN堆栈
-* [Vessel](https://vessel.shippingdocker.com) -  Laravel的简单Docker开发环境.
+* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
 
 ## Application Hosting
 
@@ -254,6 +257,7 @@
 
 ## Application Deployment
 
+* [Deployer](https://deployer.org/) - 一个开箱即用的支持Laravel的部署工具
 * [Envoyer](https://envoyer.io/) - 为PHP和Laravel项目提供零停机时间Deployer
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - 任务运行器和部署包
 
@@ -291,6 +295,7 @@
 * [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
 * [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
+* [LaraShout](https://larashout.com/)
 
 ## Videos
 
@@ -324,7 +329,7 @@
 
 * [Laracon US 2018](https://www.youtube.com/watch?v=3eyftAR5ilo&list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
 * [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
-* [Larcaon US 2017](https://streamacon.com/video/laracon-us-2017)
+* [Laracon US 2017](https://streamacon.com/video/laracon-us-2017)
 * [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
 * [Laracon US 2016](https://streamacon.com/video/laracon-us-2016)
 * [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
@@ -335,13 +340,13 @@
 
 ## Books
 
-* [Laravel Starter](https://www.packtpub.com/web-development/laravel-starter) 作者Shawn McCool
+* [Laravel Starter](https://www.amazon.com/Laravel-Starter-Shawn-McCool-ebook/dp/B00ABFQ0AS) 作者Shawn McCool
 * [Laravel: Code Happy](https://leanpub.com/codehappy) by Dayle Rees
 * [Laravel: Code Bright](https://leanpub.com/codebright) by Dayle Rees
 * [Laravel: Code Smart](https://leanpub.com/codesmart) by Dayle Rees
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel) 泰勒奥特威尔
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) 克里斯托弗皮特和泰勒奥特威尔
-* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way
+* [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) 作者：Jeffrey Way
 * [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/) 亚当沃坦
 * [Implementing Laravel](https://leanpub.com/implementinglaravel) 作者：Chris Fidao
 * [Getting Stuff Done with Laravel 4](https://leanpub.com/gettingstuffdonelaravel) 作者Chuck Heintzelman
@@ -361,7 +366,7 @@
 * [Design Patterns with PHP and Laravel](https://leanpub.com/larasign) 由Kelt Dockins提供
 * [Mastering Laravel](https://www.packtpub.com/web-development/mastering-laravel) 作者：Christopher John Pecoraro
 * [How to Build Real-Time Laravel Apps with Pusher](http://pusher-community.github.io/real-time-laravel/) 由Pusher
-* [Learning Laravel's Eloquent](https://www.packtpub.com/web-development/learning-laravel%E2%80%99s-eloquent) 作者：Francesco Malatesta
+* [Learning Laravel's Eloquent](https://www.amazon.com/Learning-Laravels-Eloquent-Francesco-Malatesta-ebook/dp/B00YSILQ6C) 作者：Francesco Malatesta
 * [Laravel 5 Learn Easy](https://leanpub.com/laravel5learneasy) 由Sanjib Sinha
 * [Laravel and AngularJS](https://leanpub.com/laravel-and-angularjs) 作者：Daniel Schmitz和Daniel Pedrinha Georgii
 * [Laravel Collections Unraveled](https://leanpub.com/laravelcollectionsunraveled) 杰夫马德森
@@ -372,7 +377,7 @@
 * [Laravel Up & Running](https://www.amazon.com/gp/product/1491936088) 作者Matt Stauffer
 * [Laravel Companion](https://leanpub.com/laravelcompanion-secondedition) 在Johnathon Koster
 * [Deploy Laravel on AWS with CloudFormation](https://leanpub.com/laravel-aws) 作者Lionel Martin
-* [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) 作者：Ega Radiegtya
+* [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) 作者：Ega Rad installya
 * [Servers for Hackers](https://book.serversforhackers.com) 作者：Chris Fidao
 * [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) 安东尼戈尔
 
@@ -396,9 +401,10 @@
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen)
 * [Laravel Zero - Console application](https://github.com/laravel-zero/laravel-zero)
 * [Apiato](https://github.com/apiato/apiato)
-* [Laravel Adminpanel - A Laravel 5 Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
+* [Laravel Adminpanel](https://github.com/viralsolani/laravel-adminpanel)
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate)
-* [Laravel Enso - SPA Admin Panel built with Bulma, VueJS and Laravel](https://github.com/laravel-enso/enso)
+* [Laravel Enso](https://github.com/laravel-enso/enso)
+* [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) 
 
 ## Codebases for Reference
 
@@ -417,7 +423,10 @@
 * [Voten](https://github.com/voten-co/voten) -  21世纪的实时社交书签
 * [Monica](https://github.com/monicahq/monica) - 个人关系管理系统
 * [Snipe-IT](https://github.com/snipe/snipe-it) -  IT资产/许可证管理系统
-* [Akaunting](https://github.com/akaunting/akaunting) - Accounting software for small businesses and freelancers
+* [Akaunting](https://github.com/akaunting/akaunting) - 面向小型企业和自由职业者的会计软件
+* [Torch](https://github.com/mattstauffer/Torch) - 在非Laravel应用程序中使用每个Illuminate组件的示例
+* [Pixelfed](https://github.com/pixelfed/pixelfed) - 由ActivityPub联盟提供支持的免费和道德照片共享平台
+
 
 
 * [OctoberCMS](https://github.com/octobercms/october)
@@ -445,7 +454,7 @@
 
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))
+* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/register))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
@@ -463,26 +472,26 @@
 * [Laravel Global Community](https://www.facebook.com/groups/group.laravel/)
 * [Laravel Russia](https://laravel.ru/) ([VK group](http://m.vk.com/laravel_rus))
 * [Laravel France](https://laravel.fr/)
-* [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [Google+](https://plus.google.com/communities/116661672628675028624), [GitHub](https://github.com/laravelbrasil))
-* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
-* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
+* [Laravel Bangladesh](https://www.facebook.com/groups/LaravelBanglaDesh/)
+* [Laravel Indonesia](http://id-laravel.com/) ([Facebook](https://www.facebook.com/groups/laravel/), [Telegram](https://t.me/laravelindonesia))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook](https://www.facebook.com/groups/laravelbrasil/), [Slack](http://slack.laravel.com.br), [Telegram](https://telegram.me/laravelbr), [GitHub](https://github.com/laravelbrasil))
+* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook](https://www.facebook.com/groups/laravelturkiye/))
+* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](https://phphub.org/)
-* [Laravel Taiwan](https://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Taiwan](https://laravel.tw/) ([Facebook](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
-* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook group](https://www.facebook.com/groups/laravelkorea/))
-* [Laravel Japan](http://laravel.jp/) ([Facebook group](https://www.facebook.com/groups/laravel.jp/))
-* [Laravel Tokyo](https://laravel.tokyo/) ([Facebook group](https://www.facebook.com/groups/laraveltokyo/))
+* [Laravel Korea](https://www.laravel.co.kr/) ([Facebook](https://www.facebook.com/groups/laravelkorea/))
+* [Laravel Japan](http://laravel.jp/) ([Facebook](https://www.facebook.com/groups/laravel.jp/))
 * [Laravel Malaysia](https://www.facebook.com/groups/laravel.my/)
-* [Laravel Algeria Facebook Group](https://www.facebook.com/groups/LaravelAlgeria/)
-* [Laravel Greece](http://www.laravel.gr) ([Facebook page](https://www.facebook.com/laravelgr))
-* [Laravel Middle East](http://laravelme.com/) ([Facebook page](https://www.facebook.com/laravelme))
+* [Laravel Algeria](https://www.facebook.com/groups/LaravelAlgeria/)
+* [Laravel Greece](http://www.laravel.gr) ([Facebook](https://www.facebook.com/laravelgr))
+* [Laravel Middle East](http://laravelme.com/) ([Facebook](https://www.facebook.com/laravelme))
 * [Laravel Georgia](https://www.facebook.com/groups/laravel.georgia/)
 * [Laravel Italy](http://laravel-italia.it)
-* [Laravel Viet Nam](https://www.facebook.com/groups/vietnam.laravel/)
+* [Laravel Vietnam](https://www.facebook.com/groups/vietnam.laravel/)
 * [Laravel Slovenia](https://www.facebook.com/groups/laravelslovenija/)
 * [Laravel Hungary](https://laravel.hu)
-* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook page](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
+* [Laravel Cameroon](https://laravelcm.com/) ([Slack](https://laravelcm.slack.com), [GitHub](https://github.com/laravelcm), [Facebook](https://www.facebook.com/laravelcm), [Twitter](https://twitter.com/laravelcm))
 
 ##### Meetups
 

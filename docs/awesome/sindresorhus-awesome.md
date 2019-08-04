@@ -77,6 +77,7 @@
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) - 基于Google Cloud Platform构建的应用开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) - 一套软件库和工具，可帮助您构建机器人应用程序.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) - 可视化和存储来自任何设备的数据.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - 您的站点的CDN，DNS，DDoS保护和安全性.
 
 
 ## Programming Languages
@@ -167,7 +168,7 @@
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于XML的矢量图像格式.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
@@ -543,7 +544,7 @@
 - [Vorpal](https://github.com/vorpaljs/awesome-vorpal#readme) -  Node.js CLI框架.
 - [Vulkan](https://github.com/vinjn/awesome-vulkan#readme) - 低开销，跨平台的3D图形和计算API.
 - [LaTeX](https://github.com/egeerardyn/awesome-LaTeX#readme) - 排版语言.
-- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - An economist's starter kit.
+- [Economics](https://github.com/antontarasenko/awesome-economics#readme) - 经济学家的入门套件.
 - [Funny Markov Chains](https://github.com/sublimino/awesome-funny-markov#readme)
 - [Bioinformatics](https://github.com/danielecook/Awesome-Bioinformatics#readme)
 - [Cheminformatics](https://github.com/hsiaoyi0504/awesome-cheminformatics#readme) - 应用于化学问题的信息学技术.
@@ -584,7 +585,7 @@
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) - 创建一个更具包容性和多样化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) - 为免费开源项目提供工具和服务的公司.
 - [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - 创建更好，更一致的设计和体验.
-- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - Ensures changes did not break the functionality or style.
+- [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) - 确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) - 上座部佛教传统的教诲.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) - 开源Java应用程序性能管理工具.
 - [Open Source Maintainers](https://github.com/nayafia/awesome-maintainers#readme) - 成为开源维护者的经验.
