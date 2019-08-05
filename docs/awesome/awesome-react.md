@@ -123,6 +123,7 @@
 - [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 使用React构建的Bootstrap组件
 - [reactstrap](https://github.com/reactstrap/reactstrap) - 简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - 官方Semantic-UI-React集成
+- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - 用于React的Font Awesome 5组件库
 
 ##### React Awesome Components
 
@@ -132,7 +133,7 @@
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -  React的可调整大小和可拖动的组件
 - [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -  React的可调整大小的组件

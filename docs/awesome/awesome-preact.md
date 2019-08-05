@@ -28,6 +28,7 @@
 - [Preact Simple Starter](https://github.com/ooade/PreactSimpleStarter) - 具有Preact，Preact-mdl和Webpack2的PWA简单入门.
 - [Preact Offline Starter](https://github.com/lukeed/preact-starter) - 使用Preact构建SPA / PWA /离线前端应用程序的Webpack2样板.
 - [TypeScript Preact Starter](https://github.com/nickytonline/ts-preact-starter) - 使用TypeScript进行Preact的Barebones入门项目.
+- [TypeScript PWA Preact Starter](https://github.com/bmitchinson/preact-typescript-pwa-starter) - 带TypeScript和SASS的PWA入门（131kb）
 - [Preact Redux SSR Example](https://github.com/csbun/preact-redux-ssr-example) - 使用Redux示例进行服务器端渲染.
 - [Preact PWA](https://github.com/ezekielchentnik/preact-pwa) -  PWA专注于原始性能，服务器端渲染，预渲染，redux，express，汇总.
 - [Preact Boilerplate](https://github.com/therealparmesh/preact-boilerplate) - 绝对最小的Preact启动项目，由Parcel提供支持.

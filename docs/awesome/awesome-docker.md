@@ -507,7 +507,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ### Serverless
 
 - [AMP](https://github.com/appcelerator-archive/amp)  ：skull： -  Docker的开源统一CaaS / FaaS平台，包括电池.  通过 [@Appcelerator](https://github.com/appcelerator-archive)
-- [Apache OpenWhisk](https://github.com/apache/incubator-openwhisk)   - 无服务器的开源云平台，可响应任何规模的事件执行功能.  通过 [@apache](https://github.com/apache)
+- [Apache OpenWhisk](https://github.com/apache/openwhisk)   - 无服务器的开源云平台，可响应任何规模的事件执行功能.  通过 [@apache](https://github.com/apache)
 - [Docker-Lambda](https://github.com/lambci/docker-lambda)   - 复制实时AWS Lambda环境的Docker镜像和测试运行器.  通过 [@lamb-ci](https://github.com/lambci)
 - [Funker](https://github.com/bfirsh/funker-example-voting-app)   - 作为Docker容器示例投票应用程序的功能.  通过 [@bfirsh](https://github.com/bfirsh)
 - [IronFunctions](https://github.com/iron-io/functions) - 无服务器微服务平台FaaS（Funcitons即服务），它使用Docker容器运行任何语言或AWS Lambda函数
@@ -563,7 +563,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Giant Swarm](https://giantswarm.io/)  ：heavy_dollar_sign： - 简单的微服务基础设施.  在几秒钟内部署您的容器.
 - [Google Container Engine](https://cloud.google.com/kubernetes-engine/docs/) ：heavy_dollar_sign： - 由[Kubernetes] [kubernetes]提供支持的Google云计算上的Docker容器.
 - [Jelastic Cloud](https://jelastic.cloud/)  ：heavy_dollar_sign： - “易于使用”的容器托管平台，具有自动垂直和水平缩放功能.  全球超过50家托管服务提供商.
-- [Mesosphere DC/OS](https://mesosphere.com/product/) ：heavy_dollar_sign： - 基于Apache Mesos构建的数据和容器的集成平台 [@mesosphere](https://mesosphere.com)
+- [Mesosphere DC/OS](https://d2iq.com/solutions/mesosphere) ：heavy_dollar_sign： - 基于Apache Mesos构建的数据和容器的集成平台 [@mesosphere](https://d2iq.com)
 - [OpenShift Dedicated](https://www.openshift.com/products/dedicated/) ：heavy_dollar_sign： - 一个托管的[OpenShift] [openshift]集群，用于运行由Red Hat管理的Docker容器.
 - [Sloppy.io](https://sloppy.io/en/) ：heavy_dollar_sign： - 用于容器部署和托管的一体化解决方案 - 在德国制造和托管
 - [Triton](https://www.joyent.com/) ：heavy_dollar_sign： -  Joyent的弹性容器本地基础结构.

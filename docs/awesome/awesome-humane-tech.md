@@ -62,7 +62,7 @@
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PrivacyScore/PrivacyScore) - 网络隐私测量平台.
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) - 用于配置和加强Firefox隐私，安全性和反指纹识别的user.js模板.
 - [user.js](https://github.com/pyllyukko/user.js) - 配置Firefox以加强浏览器设置并使其更安全.
-- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - 浏览器扩展模拟内容交付网络以改善您的在线隐私.
+- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - 浏览器扩展允许通过更改User-Agent标头来构建另一个浏览器.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) - 浏览器扩展，在指定的时间间隔后自动替换User-Agent.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) - 更改域时自动隐藏引用者的浏览器扩展.
@@ -73,13 +73,14 @@
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -  Android应用程序捕获并加密您键入的文本，然后将其传递给实际的应用程序.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Addon，使您能够根据IPv4 / 6范围选择和阻止前5大云公司.
 - [Librefox](https://github.com/intika/Librefox) - 旨在强制实施Firefox隐私和安全而不需要项目的项目.
-- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) - 浏览器扩展，自动将加速移动页面（AMP）重定向到实际的HTML页面. 
+- [amp2html](https://www.daniel.priv.no/web-extensions/amp2html.html) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/da2x/amp2html) - 浏览器扩展，自动将加速移动页面（AMP）重定向到实际的HTML页面.
+- [Location Privacy](https://guardianproject.info/apps/info.guardianproject.locationprivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/guardianproject/LocationPrivacy) - 共享位置链接的隐私过滤器.
 
 ## Tracking
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前线基金会的隐私獾会阻止间谍广告和隐形追踪器.
 - [uBlock Origin](https://github.com/gorhill/uBlock)   - 适用于各种浏览器的有效阻止程序附加组件.  快速，有力，精益.
-- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - 分析Android应用程序中的隐私问题.
+- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -  Exodus Privacy应用程序，可让您了解应用程序中嵌入了哪些跟踪器.
 - [Exodify](https://exodify.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FacettsOpen/exodify)   - 想知道某个应用是否在追踪你？  现在，您可以直接在Play商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - 将您的在线生活分为彩色编码选项卡，以保护您的隐私.
@@ -135,6 +136,9 @@
 - [Neocities](https://neocities.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/neocities/neocities) - 社交网络，带回网络失去的个人创造力.
 - [Osada](https://zotlabs.com/osada/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://framagit.org/macgirvin/osada) - 一个社交网络，旨在成为绑定大部分分散网络的粘合剂.
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) -  Selenium脚本删除所有Facebook墙帖.
+- [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新Twitter UI的最小主题.
+- [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个开源评论平台，专注于更好的对话.
+- [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - 生成一个假的应用程序来替换任何上瘾的应用程序.
 
 ## Freedom
 
@@ -160,7 +164,7 @@
 ## Health
 
 - [Stanford HabitLab](https://habitlab.stanford.edu/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/habitlab/habitlab) - 改变您的在线习惯，设定目标，尝试干预，查看进度.
-- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) - Redshift adjusts the color temperature of your screen according to your surroundings.
+- [redshift](http://jonls.dk/redshift) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/jonls/redshift) -  Redshift根据周围环境调整屏幕的色温.
 - [Safe Eyes](http://slgobinath.github.io/SafeEyes/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/slgobinath/SafeEyes) -  Safe Eyes是Linux用户减少和防止重复性劳损（RSI）的工具.
 - [Prisma Care](https://prisma.care/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Prisma/mobile-app) - 应用程序，加强记忆丧失的人与接近他们的人之间的关系.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 用于创建和维护良好习惯的Android应用程序.
@@ -178,7 +182,7 @@
 
 ## Happiness
 
-- [Happy DB](https://rit-public.github.io/HappyDB/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rit-public/HappyDB) - HappyDB is a corpus of 100,000+ crowd-sourced happy moments.
+- [Happy DB](https://rit-public.github.io/HappyDB/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/rit-public/HappyDB) -  HappyDB是一个拥有10万多群众欢乐时刻的语料库.
 
 ## Inclusiveness
 

@@ -266,35 +266,25 @@
 * [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([Chinese version](https://cs.phphub.org/))
 * [Laravel Tricks](http://laravel-tricks.com/)
 
-## Articles, Tutorials, Blogs etc.
+## Tutorials & Blogs
 
-* [Tuts+](https://code.tutsplus.com/categories/laravel)
-* [SitePoint](https://www.sitepoint.com/php/laravel-php/)
-* [Medium](https://medium.com/tag/laravel/latest)
-* [Scotch](https://scotch.io/tag/laravel)
 * [Taylor Otwell](http://taylorotwell.com/)
-* [Digital Ocean](https://www.digitalocean.com/community/search?q=laravel&type=tutorials)
+* [Tuts+](https://code.tutsplus.com/categories/laravel)
+* [Medium](https://medium.com/tag/laravel/latest)
+* [Laravel Daily](https://laraveldaily.com/)
+* [Scotch](https://scotch.io/tag/laravel)
+* [Digital Ocean](https://www.digitalocean.com/community/search?q=laravel&primary_filter=newest&type=tutorials)
 * [Matt Stauffer](https://mattstauffer.co/blog)
-* [Mohamed Said](https://themsaid.com/)
 * [Vegi Bit](https://vegibit.com/tag/laravel/)
-* [Andrews Ang](http://blog.kongnir.com/category/laravel-2/)
-* [Eric Barnes](https://ericlbarnes.com/tag/laravel/)
 * [Neon Tsunami](https://www.neontsunami.com/tags/laravel)
-* [Stidges](https://blog.stidges.com/)
 * [Dor.ky](https://dor.ky/tag/laravel/)
 * [Stillat](https://stillat.com/explore/categories/laravel-5)
 * [Easy Laravel Book Blog](http://www.easylaravelbook.com/blog/)
-* [Laravel Tips](https://laraveltips.wordpress.com/)
-* [Codingo Tuts](https://tuts.codingo.me/category/web-development/laravel)
 * [Laraveles](http://laraveles.com/blog/) （ES）
-* [Styde](https://styde.net/cursos/) （ES）
-* [Laravel Daily](http://laraveldaily.com/blog/)
-* [Freek Van der Herten](https://murze.be/tag/laravel/)
+* [Styde](https://styde.net/category/laravel-5/) （ES）
 * [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 * [Laravel Best Practices](https://github.com/alexeymezenin/laravel-best-practices)
-* [KernelDev](https://www.kerneldev.com/category/web-development/laravel/)
 * [Pusher Laravel Tutorials](https://pusher.com/tutorials?tag=Laravel)
-* [Josip Crnkovic](https://crnkovic.me/tag/laravel/)
 * [LaraShout](https://larashout.com/)
 
 ## Videos
@@ -327,15 +317,17 @@
 
 ##### Videos
 
-* [Laracon US 2018](https://www.youtube.com/watch?v=3eyftAR5ilo&list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
-* [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
-* [Laracon US 2017](https://streamacon.com/video/laracon-us-2017)
+* [Laracon EU 2018](https://www.youtube.com/playlist?list=PLMdXHJK-lGoC64wnqvm6v1R5dsuAV-MpS)
+* [Laracon US 2018](https://www.youtube.com/playlist?list=PL-yJve--iT5oM2LgF37VXsBb8Os4ZulIc)
+* [Laracon EU 2017](https://www.youtube.com/playlist?list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
+* [Laracon US 2017](https://www.youtube.com/playlist?list=PL-yJve--iT5oaLQA6OI8TWLVSOBP1qhs3)
 * [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
-* [Laracon US 2016](https://streamacon.com/video/laracon-us-2016)
+* [Laracon US 2016](https://www.youtube.com/playlist?list=PL-yJve--iT5o9fH_cRY0u6P751pcF59GK)
 * [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
-* [Laracon EU 2014](http://laracon.eu/2014/#schedule)
-* [Laracon US 2014](http://userscape.com/laracon/2014/)
-* [Laracon EU 2013](http://laracon.eu/2013/talks/)
+* Laracon US 2015
+* [Laracon EU 2014](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCYhxlU3OJ5bOGhcKtDMkcN)
+* [Laracon US 2014](https://www.youtube.com/channel/UCRawXmZv30Vf_MivyPYb_GQ/videos)
+* [Laracon EU 2013](https://www.youtube.com/playlist?list=PLMdXHJK-lGoB-CIVsiQt0WU8WcYrb5eoe)
 * [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
 
 ## Books

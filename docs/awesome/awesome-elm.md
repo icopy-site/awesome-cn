@@ -100,7 +100,7 @@
 ### Why Elm?
 
 * [Side-effects of Elm in production](http://nonullpointers.com/posts/2019-05-28-side-effects-of-elm-in-production.html?utm_campaign=Elm%20Weekly&utm_medium=email&utm_source=Revue%20newsletter) -  Bellroy的经验报告
-* [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
+* [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - 团队如何使用Elm为客户构建关键业务Web应用程序.
 * [FP with games in Elm](https://github.com/Dobiasd/articles/blob/master/switching_from_imperative_to_functional_programming_with_games_in_Elm.md) - 使用Elm中的游戏从命令式编程转换为函数式编程.
 * [Blazing Fast HTML](http://elm-lang.org/blog/blazing-fast-html) - 榆树中的虚拟DOM.
 * [Move fast and don’t break things. Running a startup on Elm](https://medium.com/the-ahead-story/move-fast-and-dont-break-things-running-a-startup-on-elm-b5491082fe8b#.c534m1e1t) - 瑞典创业公司对榆树发展的一些看法.
@@ -110,7 +110,7 @@
 * [Learning FP the hard way](https://gist.github.com/ohanhi/0d3d83cf3f0d7bbea9db) - 榆树语言的经验.
 * [Blog of Brian Hicks](https://www.brianthicks.com)  - 一个关于榆树的各种主题的博客.
 * [Introduction to The Elm Architecture and How to Build our First Application](https://css-tricks.com/introduction-elm-architecture-build-first-application/) - 描述Elm架构以及如何构建简单应用程序的文章
-* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - A Bachelor’s thesis about functional programming for frontend development with the focus on Elm.
+* [Functional Programming for Web Frontend by Jan Luxemburk](https://drive.google.com/file/d/0BzfJvCA4sXjQNjJwd2twQUFOU0k/view) - 关于前端开发的函数式编程的学士论文，重点是Elm.
 
 ### Outdated articles (Not relevant for current Elm architecture)
 
@@ -153,7 +153,7 @@
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) -  Egghead的Elm视频培训，其中许多都是免费的.
 * [jadams's training videos](https://www.dailydrip.com/topics/elm) - 一系列精美的榆树训练视频系列，其中许多都是免费的.
-* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - 将Elm中的所有语法和基本思想作为通用编程语言进行演练.
+* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
 
 
@@ -251,7 +251,7 @@
 ### Atom
 
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) -  Atom编辑器的Elm代码linter.
-* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - 榆树为Atom提供的片段.
+* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
 * [atom-language-elm](https://atom.io/packages/language-elm) -  Atom编辑器的语法高亮和自动完成.
 * [elmjutsu](https://atom.io/packages/elmjutsu) -  Atom编辑器的自动完成，定义，查找用法，重命名符号等.
 * [atom-elm-navigator](https://atom.io/packages/elm-navigator) - 侧面板，可帮助导航到项目中的任何功能，类型定义或端口.
@@ -304,6 +304,7 @@
 * [elm-live](https://github.com/wking-io/elm-live)   -  Elm灵活的开发服务器.  包括实时重新加载.
 * [elm-webpack-4-starter](https://github.com/romariolopezc/elm-webpack-4-starter) -  Elm webpack 4启动模板.
 * [example-elm-hot-webpack](https://github.com/klazuka/example-elm-hot-webpack) - 显示Elm 0.19和Webpack的热模块重新加载的示例
+* [Elm Batteries](https://github.com/cedricss/elm-batteries) -  Elm，Parcel，Cypress和Netlify的项目模板和生成器  
 
 ### Outdated Boilerplates
 

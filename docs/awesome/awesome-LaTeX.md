@@ -22,6 +22,7 @@
 - [pdfTeX](https://www.tug.org/applications/pdftex/)   - 立即生成PDF文件而不是DVI文件的TeX编译器（现在，这是许多用户的标准编译器）.  ！[源码] [源码]
 - [XeTeX](http://xetex.sourceforge.net)   -  TeX编译器提供比TeX / pdfTeX更好的unicode和字体支持（即您可以使用操作系统的字体而不是仅使用TeX字体）.  ！[源码] [源码]
 - [LuaTeX](http://www.luatex.org)   - （La）TeX编译器，支持用于编写脚本的Lua代码，并且比标准TeX / pdfTeX改进了unicode和字体支持.  ！[源码] [源码]
+- [tectonic](https://tectonic-typesetting.github.io/en-US/)   - 由XeTeX和TeXLive提供支持的现代自包含（La）TeX编译器.  ！[源码] [源码]
 
 ### LaTeX formulas on the web
 
