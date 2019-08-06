@@ -11,14 +11,14 @@
 
 ## Automation
 
-- [Autosnort](https://github.com/da667/Autosnort) - 一系列bash shell脚本，旨在在各种Linux发行版上安装功能齐全，完全更新的独立snort传感器和您选择的IDS事件审查控制台.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - 用Python编写的可扩展网络取证分析框架，可以快速开发插件，以支持解析网络数据包捕获.
+- [MultiScanner](https://github.com/mitre/multiscanner) - 用Python编写的文件分析框架，通过自动运行一套工具并聚合输出，帮助评估一组文件.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -  VirusTotal.com API的PowerShell接口.
 - [censys-python](https://github.com/censys/censys-python) -  Censys REST API的Python包装器.
+- [libcrafter](https://github.com/pellegre/libcrafter) - 高级C ++网络数据包嗅探和制作库.
 - [python-dshield](https://github.com/rshipp/python-dshield) -  Internet Storm Center / DShield API的Pythonic接口.
 - [python-sandboxapi](https://github.com/InQuest/python-sandboxapi) - 用于构建与恶意软件沙箱的集成的最小，一致的Python API.
 - [python-stix2](https://github.com/oasis-open/cti-python-stix2) - 用于序列化和反序列化结构化威胁信息eXpression（STIX）JSON内容的Python API，以及用于常见任务的更高级API.
-- [libcrafter](https://github.com/pellegre/libcrafter) - 高级C ++网络数据包嗅探和制作库.
 
 ## Communications security (COMSEC)
 
@@ -165,6 +165,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 也可以看看 [awesome-sysadmin#monitoring](https://github.com/n1trux/awesome-sysadmin#monitoring).
 
 - [Icinga](https://icinga.com/) - 模块化重新设计Nagios，具有可插拔的用户界面和一组扩展的数据连接器，收集器和报告工具.
+- [Locust](https://locust.io/) - 开源负载测试工具，您可以使用Python代码定义用户行为，并使用数百万个并发用户来支持您的系统.
 - [Nagios](https://nagios.org) - 流行的网络和服务监控解决方案和报告平台.
 - [OpenNMS](https://opennms.org/) - 免费且功能丰富的网络监控系统，支持多种配置，各种警报机制（电子邮件，XMPP，SMS）和众多数据收集方法（SNMP，HTTP，JDBC等）.
 - [osquery](https://github.com/facebook/osquery) - 用于macOS，Windows和Linux的操作系统检测框架，将操作系统公开为高性能关系数据库，可以使用类似SQL的语法进行查询.
@@ -177,7 +178,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [DATA](https://github.com/hadojae/DATA) - 凭证网络钓鱼分析和自动化工具，可以直接接收可疑的网络钓鱼URL或触发包含此类URL的观察到的网络流量.
 - [Forager](https://github.com/opensourcesec/Forager) - 使用Python3构建的多线程威胁情报收集功能，具有简单的基于文本的配置和数据存储，易于使用和数据可移植性.
 - [GRASSMARLIN](https://github.com/nsacyber/GRASSMARLIN) - 通过被动映射，计算和报告您的ICS / SCADA网络拓扑和端点，提供工业控制系统（ICS）和监控和数据采集（SCADA）的IP网络态势感知.
-- [MLSec Combine](https://github.com/mlsecproject/combine) - Gather and combine multiple threat intelligence feed sources into one customizable, standardized CSV-based format.
+- [MLSec Combine](https://github.com/mlsecproject/combine) - 将多个威胁情报源数据集合并组合成一种可自定义的标准化CSV格式.
 - [Malware Information Sharing Platform and Threat Sharing (MISP)](https://misp-project.org/) - 用于收集，存储，分发和共享网络安全指标的开源软件解决方案.
 - [ThreatIngestor](https://github.com/InQuest/ThreatIngestor) - 可扩展的工具，用于从威胁源（包括Twitter，RSS源或其他来源）中提取和聚合IOC.
 - [Unfetter](https://nsacyber.github.io/unfetter/) - 利用Mitre的ATT和CK框架，确定安全状况的防御性差距.
@@ -201,7 +202,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙.
 - [Stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置macOS安全设置.
-- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - 自动配置内核级，操作系统级和客户端级安全功能，包括为macOS进行私有化代理和防病毒扫描.
+- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
 
 
 ## Windows-based defenses

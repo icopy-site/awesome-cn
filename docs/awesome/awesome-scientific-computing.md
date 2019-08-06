@@ -85,7 +85,7 @@ them.
   （C / C ++ / Fortran / Java / Python，[自定义开源
   许可证（https://www.unidata.ucar.edu/software/netcdf/copyright.html），
   [GitHub](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) - 用于存储和管理数据的数据模型，库和文件格式.
+- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
   （C / Fortran，BSD）
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) - 可扩展数据模型和格式，用于在高性能计算代码和工具之间交换科学数据.
   （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
@@ -104,6 +104,7 @@ them.
 - [dmsh](https://github.com/nschloe/dmsh) - 由distmesh启发的非结构化三角网格的简单生成器.
   （Python，MIT，GitHub）
 - [pmp-library](http://www.pmp-library.org/)   - 多边形网格处理库.  （C ++，麻省理工学院与雇主免责声明， [GitHub](https://github.com/pmp-library/pmp-library/))
+- [Mmg](https://www.mmgtools.org/)   - 用于重新网格化的强大，开源和多学科软件.  （C，LGPL 3， [GitHub](https://github.com/MmgTools/mmg))
 
 ## Sparse linear solvers
 
@@ -111,7 +112,7 @@ them.
   （C，主要是BSD， [GitHub](https://github.com/xiaoyeli/superlu))
 - [KryPy](https://github.com/andrenarchy/krypy) - 用于求解线性代数系统的Krylov子空间方法.
   （Python，MIT，GitHub）
-- [PyAMG](https://pyamg.github.io) - Algebraic Multigrid Solvers in Python.
+- [PyAMG](https://pyamg.github.io) -  Python中的代数多重网格求解器.
   （Python，麻省理工学院， [GitHub](https://github.com/pyamg/pyamg))
 - [hypre](https://computing.llnl.gov/projects/hypre-scalable-linear-solvers-multigrid-methods) - 高性能预处理器和求解器库.
   （C，Apache 2.0 / MIT， [GitHub](https://github.com/hypre-space/hypre))

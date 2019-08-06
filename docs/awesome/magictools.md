@@ -80,7 +80,6 @@ Graphics
 #### Character Generators
 
 * ：自由： [Charas](http://charas-project.net/index.php) -  Charas是RPG Maker的charset生成器.
-* ：自由： [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - 精灵字符生成器
 *：那么： [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - 基于LPC（Liberated Pixel Cup）图形的精灵字符生成器
 
 #### Tile/Level Editors
@@ -236,7 +235,7 @@ Code
 *：那么： [Lums](https://github.com/lums-proj/Lums)   - 用C ++ 11编写的2D / 3D框架.  非常高效和现代.  仍处于重大发展阶段.
 *：那么： [LÖVE](http://love2d.org) -  Lua 2D游戏引擎.
 *：那么： [MINX](https://github.com/GearChicken/MINX) - 用C ++编写的开源2D游戏框架（以XNA的风格）
-*：那么： [MOAI](http://getmoai.com/) - 跨平台框架，专为游戏开发人员设计，使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
+*：那么： [MOAI](http://getmoai.com/) - 跨平台框架，专为游戏开发者设计，使用C ++，OpenGL和Lua脚本创建iOS，Android，Windows，Linux，Chrome和OSX游戏.
 *：那么： [Magnum](http://magnum.graphics/) - 用C ++ 11编写的轻量级模块化2D / 3D图形/游戏引擎
 *：那么： [Matter.js](http://brm.io/matter-js/) - 用于网络的2D物理引擎.
 *：那么： [MelonJS](http://melonjs.org) - 开源轻量级HTML5游戏引擎.

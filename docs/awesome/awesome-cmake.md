@@ -51,7 +51,7 @@
 * [Book](https://leanpub.com/effective-cmake) - 有效的CMake：写出更好的CMake的实用建议（尚未完全编写）.
 * [Web Book](https://cliutils.gitlab.io/modern-cmake/) - 现代CMake简介.
 * [YouTube Series](https://vector-of-bool.github.io/2018/08/12/cmake-good.html)   - 如何做好.  [```[CC0-1.0]```] [CC0-1.0]
-* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的CMake（[slides & examples](https://github.com/Bagira80/More-Modern-CMake)- 作者：Deniz Bahadir，Meeting C ++ 2018.
+* [Lecture](https://www.youtube.com/watch?v=y7ndUhdQuU8) - 更现代的CMake（[slides & examples](https://github.com/Bagira80/More-Modern-CMake)） -  Deniz Bahadir，Meeting C ++ 2018.
 * [Article](https://cristianadam.eu/20190223/modifying-the-default-cmake-build-types/)   - 修改默认的CMake构建类型/标志，工具链和补丁 - 哦，我的！   - 克里斯蒂安亚当.
 
 ## Package Management / Build Systems
@@ -64,7 +64,7 @@
 * [fips](https://github.com/floooh/fips)   - 用于分布式多平台C / C ++项目的高级构建系统/依赖关系管理.  [```[MIT]```] [MIT]
 * [Ninja](https://github.com/ninja-build/ninja)   - 在两个主要方面构建与其他系统不同的系统：它旨在使其输入文件由更高级别的构建系统（如CMake）生成，并且旨在尽可能快地运行构建.  [```[APACHE2]```] [APACHE2]
 * [vcpkg](https://github.com/Microsoft/vcpkg)   - 获取和构建C ++开源库的工具.  在内部使用CMake作为构建脚本语言.  [```[MIT]```] [MIT]
-* [pmm](https://github.com/vector-of-bool/pmm)   -  PMM是CMake的一个模块，用于管理包管理器.  [```[MIT]```] [MIT]
+* [pmm](https://github.com/AnotherFoxGuy/pmm)   -  PMM是CMake的一个模块，用于管理包管理器.  [```[MIT]```] [MIT]
 * [cpm](https://github.com/TheLartians/CPM)   - 免安装的CMake + git依赖管理器.  [```[MIT]```] [MIT]
 
 ## Modules
@@ -83,7 +83,7 @@
 * [FindWiX](https://github.com/apriorit/FindWiX) - 用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 包裹 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]```] [BSD3子句]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) - 额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD3子句]
-* [CMakeCM](https://github.com/vector-of-bool/CMakeCM)   -  CMake社区模块.  ```[NO LICENSE]```
+* [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM)   -  CMake社区模块.  ```[NO LICENSE]```
 * [Metabench](https://github.com/ldionne/metabench)   - 用于编译时微基准测试的CMake模块.  [```[BOOST]```] [BOOST]
 
 ## Utility Scripts

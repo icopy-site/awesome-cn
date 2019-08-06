@@ -31,13 +31,14 @@
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
-- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次通过电子邮件通讯，为设计人员和开发人员提供有用的提示，技巧和资源.
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  一个快速的JavaScript提示，每隔一周发送到您的收件箱.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和网页设计时事通讯，专注于工具.
 - [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
 - [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter) .  一系列令人敬畏的浏览器端JavaScript库，资源和闪亮的东西.
 - [TypeScript Weekly](https://www.typescript-weekly.com/) .  每周最好的TypeScript链接，就在您的框中.
 - [JSter](http://jster.net/blog) .  每两周一次没有废话列表的精选JavaScript链接到您的邮箱. [Subscribe](https://us7.list-manage.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
+- [Best of JavaScript](https://weekly.bestofjs.org/) 关于与Node.js和网络平台相关的最受欢迎的开源项目的每周排名.
 
 #### React
 
@@ -144,7 +145,7 @@
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter) .  介绍Swift by Sundell每月简报！
 - [iOS Goodies](https://ios-goodies.com) .  每周iOS时事通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) .  最好的iOS开发，营销，Swift，设计和Xcode链接. [Archive](https://indieiosfocus.com/issues).
-- [Swift Developments](https://andybargh.com/swiftdevelopments/) .  每周策划的时事通讯，包含精选的最新链接，视频，工具和教程，供有兴趣使用Swift设计和开发自己的iOS，macOS，watchOS和tvOS应用的人们使用.
+- [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
 
 ### Go
 
@@ -161,7 +162,7 @@
 
 - [Ruby Weekly](https://rubyweekly.com/) .  每日一次的免费电子邮件汇总Ruby新闻和文章.
 - [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多内容，每周五发送到您的收件箱.
+- [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多信息，每周五发送到您的收件箱.
 - [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) .  一系列令人敬畏的Ruby宝石，工具，框架和软件.
 
@@ -177,7 +178,7 @@
 
 ### Python
 
-- [Python Weekly](https://www.pythonweekly.com/) .  每周免费通讯，内容包括与Python相关的策划新闻，文章，新版本，工作等.
+- [Python Weekly](https://www.pythonweekly.com/) .  一个免费的每周时事通讯，内容包括与Python相关的策划新闻，文章，新版本，工作等.
 - [Weekly Python Newsletter](https://importpython.com/newsletter/) .  每周Python简报，包含收件箱中提供的Python文章，项目，视频，推文. [Archive](https://importpython.com/newsletter/archive/).
 - [Pycoders Weekly](https://pycoders.com/) .  周五免费的每周电子邮件通讯，对那些对python开发感兴趣的人和有关python的各种主题.
 - [Awesome Python Newsletter](https://python.libhunt.com/newsletter) .  每周概述最受欢迎的Python新闻，文章和包.
@@ -211,7 +212,7 @@
 ### Rust
 
 - [This Week in Rust](https://this-week-in-rust.org) .  随时了解Rust社区的活动，学习资源和最新发展. [Archive](https://this-week-in-rust.org/blog/archives/index.html).
-- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter). A curated list of Rust libraries and resources.
+- [Awesome Rust Newsletter](https://rust.libhunt.com/newsletter) .  Rust库和资源的精选列表.
 
 ### C++
 
@@ -264,7 +265,7 @@
 
 ### Redis
 
-- [Redis Watch](https://redislabs.com/resources/redis-watch-archive/). Periodic newsletter about everything and anything Redis.
+- [Redis Watch](https://redislabs.com/resources/redis-watch-archive/) .  关于一切和任何事情的定期通讯Redis.
 
 ### NoSQL
 
@@ -310,7 +311,7 @@
 - [Android Weekly](https://androidweekly.net/) 免费通讯，帮助您保持最新的Android开发.
 - [Awesome Android Newsletter](https://android.libhunt.com/newsletter) .  精选的Android软件包和资源的精选列表.
 - [Weekly Xamarin](http://weeklyxamarin.com) .  Xamarin开发.
-- [Flutter Weekly](https://flutterweekly.net/) .  由颤动的粉丝播出的每周简报.
+- [Flutter Weekly](https://flutterweekly.net/) .  由颤动的粉丝播放的每周简报.
 
 ## Artificial Intelligence / Machine Learning / Big Data
 
@@ -366,12 +367,12 @@
 
 ## Miscellaneous
 
-- [Founder Weekly](http://www.founderweekly.com/). A free weekly newsletter for entrepreneurs featuring best curated content, must read articles, how to guides, tips and tricks, resources, events and more.
+- [Founder Weekly](http://www.founderweekly.com/) .  为企业家提供免费的每周时事通讯，包括最佳策展内容，必须阅读文章，如何指导，提示和技巧，资源，事件等.
 - [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://foundersgrid.com/) .  针对创业公司创始人的每周简报，汇集了创业生态系统中的最佳资源.
-- [Software Lead Weekly](http://softwareleadweekly.com/) .  每周一封的免费电子邮件，适合关心人，文化和领导力的忙碌人士.
+- [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 - [Hacking Revenue](http://hackingrevenue.com/) .  每周发送一封电子邮件，其中包含精心策划的见解，以扩展您的业务.
 - [Changelog Nightly](https://changelog.com/nightly) .  每天晚上10点CT发一封电子邮件，发现GitHub上最热门的新回购.
 - [Code Cartoons](https://tinyletter.com/codecartoons) .  通过电子邮件通过漫画学习代码.

@@ -124,6 +124,7 @@
 * [How SRE teams are organized, and how to get started](https://cloud.google.com/blog/products/devops-sre/how-sre-teams-are-organized-and-how-to-get-started)
 * [Why SRE Documents Matter](https://queue.acm.org/detail.cfm?id=3283589)
 * [How to get started with site reliability engineering (SRE)](https://www.oreilly.com/ideas/how-to-get-started-with-site-reliability-engineering-sre)
+* [Duties of a Site Reliability Engineering Manager](https://victorops.com/blog/duties-of-a-site-reliability-engineering-manager)
 
 ## Books
 * [Practical Linux Infrastructure](https://www.apress.com/us/book/9781484205129)
@@ -392,7 +393,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
+* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.

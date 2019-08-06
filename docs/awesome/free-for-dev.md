@@ -51,7 +51,7 @@
     * Active Directory  -  500,000个对象
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
-    * Microsoft IoT Hub - 8,000 messages per day
+    * Microsoft IoT Hub  - 每天8,000条消息
     *负载均衡器 -  1个免费公共负载均衡IP（VIP）
     *通知中心 -  100万推送通知
     *带宽 - 每月5GB出口
@@ -122,6 +122,7 @@
   * [flowdock.com](https://www.flowdock.com/) - 聊天和收件箱，最多5人的团队免费
   * [slack.com](https://slack.com/) - 对于具有某些功能限制的无限用户免费
   * [gitter.im](https://gitter.im/)   - 聊天，GitHub.  无限制的公共和私人房间，最多25人的团队免费
+  * [Discord](https://discordapp.com/)   - 与公共/私人客房和VoIP服务聊天.  免费为无限用户.
   * [hangouts.google.com](https://hangouts.google.com/) - 所有会话的一个地方，免费，需要一个Google帐户
   * [seafile.com](https://www.seafile.com/)   - 私人或云存储，文件共享，同步，讨论.  私人版本已满.  云版仅有1 GB
   * [yammer.com](https://www.yammer.com/) - 独立的私人社交网络或MS Office 365.免费提供更少的管理工具和用户管理功能
@@ -147,7 +148,7 @@
   * [codeclimate.com](https://codeclimate.com/)   - 自动代码审查，免费开源和无限组织拥有的私人回购（最多4个合作者）.  学生和机构也免费.
   * [houndci.com](https://houndci.com/) - 关于GitHub的评论提交了关于代码质量的免费开源
   * [coveralls.io](https://coveralls.io/) - 显示免费的开源测试覆盖率报告
-  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) - 连续检测平台，免费开源
+  * [scrutinizer-ci.com](https://scrutinizer-ci.com/) — Continuous inspection platform, free for Open Source
   * [codecov.io](https://codecov.io/) - 代码覆盖工具（SaaS），免费开源和1个免费私人回购
   * [insight.sensiolabs.com](https://insight.sensiolabs.com/) -  PHP / Symfony项目的代码质量，开源免费
   * [codacy.com](https://codacy.com/) -  PHP，Python，Ruby，Java，JavaScript，Scala，CSS和CoffeeScript的自动代码审查，免费提供无限制的公共和私有存储库
@@ -172,7 +173,7 @@
 
   * [codota.com](https://www.codota.com/)   -  Codota通过提供从世界上所有代码中学到的见解，帮助开发人员更快地创建更好的软件.  插件可用.
   * [libraries.io](https://libraries.io/) - 针对32个不同包管理器的搜索和依赖关系更新通知，免费提供开源
-  * [sourcegraph.com](https://sourcegraph.com/) -  Java，Go，Python，Node.js等，代码搜索/交叉引用，开源免费
+  * [sourcegraph.com](https://sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
   * [searchcode.com](https://searchcode.com/) - 全面的基于文本的代码搜索，免费开源
 
 ## CI / CD
@@ -214,7 +215,7 @@
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
   * [auth0.com](https://auth0.com/)   - 免费开发SSO.  最多2个社交身份提供商用于闭源项目.
-  * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
+  * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
@@ -315,7 +316,7 @@
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) - 面向开发人员的电子邮件验证和验证API，每月10,000个免费API请求
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
-  * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
+  * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
   * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
@@ -336,7 +337,7 @@
   * [sendpulse.com](https://sendpulse.com) - 每月免费发送50封电子邮件，每月免费发送12,000封电子邮件
   * [pepipost.com](https://pepipost.com) - 第一个月免费发送30k封电子邮件，然后免费发送前100封电子邮件
   * [elasticemail.com](https://elasticemail.com)   - 每天100封免费电子邮件.  通过API以0.09美元的价格发送1,000封电子邮件（按需付费）.
-  * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
+  * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) - 电子邮件托管（Webmail，SMTP，IMAP，...） - 免费计划限制为10个外发邮件/天
   * [socketlabs.com](https://www.socketlabs.com) - 第一个月免费发送40k封电子邮件，然后每月免费发送2000封电子邮件
   * [postmarkapp.com](https://postmarkapp.com/) -  100封电子邮件/月免费，无限制的DMARC每周摘要
@@ -359,6 +360,7 @@
   * [jare.io](http://www.jare.io)   - 用于图像的CDN.  使用AWS CloudFront
   * [unpkg.com](https://unpkg.com/) - 关于npm的所有内容的CDN
   * [staticaly.com](https://staticaly.com/) -  Git repos的CDN（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
+  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) - 免费CDN和DDoS保护
 
 ## PaaS
 
@@ -431,12 +433,12 @@
   * [dns.he.net](https://dns.he.net/) - 具有动态DNS支持的免费DNS托管服务
   * [luadns.com](https://www.luadns.com/) - 免费DNS托管，3个域名，所有功能都有合理的限制
   * [domain.yandex.com](https://domain.yandex.com/domains_add/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
-  * [selectel.com](https://selectel.com/services/dns/) — Free DNS hosting, anycast, 10 geo zones
+  * [selectel.com](https://selectel.com/services/dns/) - 免费DNS托管，任播，10个地理区域
   * [cloudns.net](https://www.cloudns.net/) - 免费DNS托管最多3个域，无限记录
   * [ns1.com](https://ns1.com/) - 数据驱动的DNS，自动流量管理，100万个免费查询
   * [zonewatcher.com](https://zonewatcher.com)   - 自动备份和DNS更改监控.  1个域名免费
   * [namecheap.com](https://www.namecheap.com/domains/freedns/)   - 免费DNS.  域名数量没有限制
-  * [dynu.com](https://www.dynu.com/) - 免费的动态DNS服务
+  * [dynu.com](https://www.dynu.com/) — Free dynamic DNS service
   * [noip](https://www.noip.com/) - 动态DNS服务，每30天免费提供最多3个主机名
   * [freenom.com](https://freenom.com/)   - 免费域名提供商.  免费获取FQDN.
   * [duckdns.org](http://duckdns.org/)   - 免费层上最多5个域的免费DDNS.  使用各种设置的配置指南.
@@ -545,9 +547,9 @@
   * [landen.co](https://www.landen.co)   - 为您的创业公司生成，编辑和发布漂亮的网站和登录页面.  所有没有代码.  免费套餐允许您拥有一个网站，可完全自定义并在网络上发布.
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
-  * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
+  * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
@@ -563,7 +565,7 @@
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
    * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
    * [geocod.io](https://geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
-   * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
+   * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
    * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
@@ -624,7 +626,7 @@
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
 
 ## Payment / Billing Integration
 
@@ -664,6 +666,6 @@
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) - 面向开发人员的免费开源软件中心
-  * [getawesomeness](https://getawesomeness.herokuapp.com) - 从GitHub中获取所有令人惊叹的精彩内容......一定要看
+  * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack)   - 为学生提供免费服务.  需要注册
   * [Framacloud](https://degooglisons-internet.org/en/list/) - 法国非盈利组织的Free / Libre开源软件和SaaS列表 [Framasoft](https://framasoft.org/en/).

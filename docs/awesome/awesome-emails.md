@@ -49,6 +49,7 @@
 - [Bulletproof Email Buttons](http://buttons.cm/) - 使用逐步增强的VML和CSS设计华丽的按钮.
 - [Bulletproof Background Images](http://backgrounds.cm/) - 在HTML电子邮件中使用坚如磐石的背景图像，并提供一些帮助.
 - [Stripo.email](https://stripo.email/) - 在线拖放和HTML电子邮件构建器，无需任何HTML技能即可快速创建专业且响应迅速的电子邮件模板.
+- [MySigMail Card](https://mysigmail.com/card/) - 免费的拖放构建器可帮助您直观，快速地创建电子邮件模板.
 
 VML和CSS.
 - [TestSubject](http://zurb.com/playground/testsubject) - 测试您的电子邮件主题行如何出现在最流行的移动设备上.
@@ -103,7 +104,7 @@ VML和CSS.
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
 - [Mailchimp](http://mailchimp.com/resources/) - 来自Mailchimp的超级棒的资源
 - [Litmus Resources](https://litmus.com/resources) - 通过Litmus资源了解最新的电子邮件新闻和趋势.
-- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
+- [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) -  Campaign Monitor资源将立即让您成为专家.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) -  MailChimp电子邮件设计参考
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 有关如何构建自己的电子邮件服务器的教程
@@ -147,7 +148,7 @@ VML和CSS.
 
 ### Contribution
 建议和PR欢迎！ 
-如果您想贡献，请阅读 [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
 ### More Awesome
 -  [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - 这是所有最好的Javascript书籍的精选列表.

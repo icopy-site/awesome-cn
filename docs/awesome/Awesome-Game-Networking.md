@@ -2,9 +2,10 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-游戏网络是计算机网络的一个子集，涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，带宽优化以及多人在线游戏编程中涉及的更多技术.
+游戏网络是计算机网络的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，反作弊，负载均衡，带宽优化等
+- 以及涉及多人在线游戏编程的更多技术.
 
-阅读后请随时参与 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！
+**请在阅读后随意提供_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
 
 
 ## Articles
@@ -39,7 +40,7 @@
 - [Unreal Engine 4 Framework & Network](http://www.nafonso.com/home/unreal-framework-network) -  Nuno Afonso简要介绍Unreal的游戏网络框架.
 - [Unreal Engine 4 Network Compendium](http://cedric-neukirchen.net/Downloads/Compendium/UE4_Network_Compendium_by_Cedric_eXi_Neukirchen.pdf) - 有关UE4网络的详细摘要以及Cedric Neukirchen的示例.
 - [Unreal Engine 4 Networking and Multiplayer](https://docs.unrealengine.com/en-us/Gameplay/Networking) - 官方UE4游戏网络框架文档维基.
-- RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - 快速射击游戏中的Pixonic客户端.
+- RU [Как мы писали сетевой код мобильного PvP шутера](https://habr.com/ru/company/pixonic/blog/415959/) - 在快速射击游戏中关于客户端的Pixonic.
 
 ## Talks
 
@@ -54,7 +55,7 @@
   - [2015 / Game Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking) - 来自Respawn Entertainment的Glenn Fiedler的演讲.
   - [2015 / Networking Gameplay and AI in Assassin's Creed Unity](http://www.gdcvault.com/play/1022168/Networking-Gameplay-and-AI-in) - 来自Ubisoft的Charles Lefebvre的演讲.
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - 来自索尼的Claire Blackshaw的高级设计方法.
-  - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) -  Activision的Benjamin Goyette的详细技术.
+  - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Detailed techniques by Benjamin Goyette from Activision.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - 模拟，确定性，响应性和精确性.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) -  Michael Stallone在Mortal Kombat和Injustice 2中的回滚网络.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) -  Jared Cone详细介绍了Rocket League的物理和网络.
@@ -72,12 +73,13 @@
 ## Tutorials
 
 - 虚幻引擎
-  - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - Introduction to implementing networked movement features.
+  - [Authoritative Networked Character Movement](https://wiki.unrealengine.com/Authoritative_Networked_Character_Movement) - 实施网络运动功能的介绍.
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) - 来自Epic Games的Wes Bunn的蓝图多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) - （付费）Tom Looman的C ++多人游戏开发教程系列.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - （付费）Sam Pattuzzi的C ++在线游戏开发教程系列.
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -  Maik Hilfer的Steam支持的蓝图多人游戏教程.
 - 团结
+  - [DarkRift2 Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - 使用MateriaGame的DarkRift2制作简单的网状弹力球.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
   - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) -  Unity提供的基于UNET的多人游戏网络教程.
 
@@ -90,11 +92,12 @@
   - [yojimbo](https://github.com/networkprotocol/yojimbo) - 可靠的UDP网络库，用于具有专用服务器的客户端/服务器游戏.
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) - 具有身份验证，配置文件，大厅，Unity聊天功能的后端框架.
-  - [ForgeNetworking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) -  Unity专注于实时多人网络解决方案.
+  - [DarkRift Networking](https://www.darkriftnetworking.com/) -  Unity专注于多线程多人网络解决方案.
+  - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) -  Unity专注于实时多人网络解决方案.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) - 可靠的UDP网络库（.NET）.
   - [LiteNetLib](https://github.com/RevenantX/LiteNetLib) -  Lite可靠的UDP网络库（.NET / Mono）.
   - [MLAPI](https://mlapi.network) - 将网络库与Unity的许多内置功能混合搭配.
-  - [PhotonEngine](https://photonengine.com) - 混合多人游戏网络平台（SaaS，云）.
+  - [Photon Engine](https://photonengine.com) - 混合多人游戏网络平台（SaaS，云）.
   - [SocketWeaver](https://socketweaver.com) - 为Unity引擎（SaaS）设计的多人云服务.
 -  Java
   - [SmartFoxServer](http://smartfoxserver.com/) - 具有高级内置功能的大型多人游戏服务器.

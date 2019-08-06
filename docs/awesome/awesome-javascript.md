@@ -36,7 +36,7 @@
 * [script.js](https://github.com/ded/script.js) - 异步JavaScript加载器和依赖管理器.
 * [systemjs](https://github.com/systemjs/systemjs) - 符合AMD，CJS和ES6规范的模块加载器.
 * [LodJS](https://github.com/yanhaijing/lodjs) - 基于AMD的模块加载器.
-* [ESL](https://github.com/ecomfe/esl) - Module loader browser first, support lazy define and AMD.
+* [ESL](https://github.com/ecomfe/esl) - 首先是模块加载器浏览器，支持懒惰定义和AMD.
 * [modulejs](https://github.com/lrsjng/modulejs) - 轻量级JavaScript模块系统.
 
 
@@ -108,7 +108,7 @@
 
 * [angular.js](https://github.com/angular/angular.js) - 针对网络应用的HTML增强功能.
 * [aurelia](http://aurelia.io) - 适用于移动，桌面和Web的JavaScript客户端框架.
-* [backbone](https://github.com/jashkenas/backbone) - 为您的JS应用程序提供模型，视图，集合和事件的一些骨干.
+* [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的Web应用程序的JavaScript框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单，数据库无处不在的数据线上纯javascript Web框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代DOM操作.
@@ -276,9 +276,10 @@
 *用于处理文件的库.*
 
 * [Papa Parse](https://github.com/mholt/PapaParse) - 功能强大的CSV库，支持解析CSV文件/字符串以及导出为CSV.
-* [jBinary](https://github.com/jDataView/jBinary) - High-level I/O (loading, parsing, manipulating, serializing, saving) for binary files with declarative syntax for describing file types and data structures.
+* [jBinary](https://github.com/jDataView/jBinary) - 具有声明性语法的二进制文件的高级I / O（加载，解析，操作，序列化，保存），用于描述文件类型和数据结构.
 * [diff2html](https://github.com/rtfpessoa/diff2html) -  Git diff输出解析器和漂亮的HTML生成器.
 * [jsPDF](https://github.com/MrRio/jsPDF) -  JavaScript PDF生成.
+* [PDF.js](https://github.com/mozilla/pdf.js) -  JavaScript中的PDF阅读器.
 
 
 ## Functional Programming
@@ -298,7 +299,7 @@
 *反应式编程库，以扩展JavaScript的功能.*
 
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) -  JavaScript的Reactive Extensions.
-* [Bacon](https://github.com/baconjs/bacon.js) - 用于JavaScript的FRP（功能反应式编程）库.
+* [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for JavaScript.
 * [Kefir](https://github.com/pozadi/kefir) - 受到Bacon.js和RxJS启发的JavaScript的FRP库，专注于高性能和低内存消耗.
 * [Highland](http://highlandjs.org/) - 重新思考JavaScript实用程序带，Highland轻松管理同步和异步代码，仅使用标准JavaScript和类似Node的Streams.
 * [Most.js](https://github.com/cujojs/most) - 高性能FRP库.
@@ -388,7 +389,7 @@
 
 * [i18next](https://github.com/i18next/i18next) - 使用JavaScript轻松实现国际化（i18n）.
 * [polyglot](https://github.com/airbnb/polyglot.js) - 小型i18n助手库.
-* [babelfish](https://github.com/nodeca/babelfish/) -  i18n具有人性化的API并内置复数支持.
+* [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
 
 ## Control Flow
 
@@ -499,7 +500,7 @@
 * [Ladda](https://github.com/hakimel/Ladda) - 带内置装载指示器的按钮.
 * [css-loaders](https://github.com/lukehaas/css-loaders) - 使用CSS动画加载微调器的集合
 
-Besides libraries, there're [Collection on Codepen](http://codepen.io/collection/HtAne/)和发电机一样 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
+除了图书馆，还有 [Collection on Codepen](http://codepen.io/collection/HtAne/)和发电机一样 [Ajaxload](http://www.ajaxload.info/), [Preloaders](http://preloaders.net/) 和 [CSSLoad](http://cssload.net/).
 
 
 ## Validation
@@ -753,7 +754,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 在您的网站上添加一个超级简单的旋转文本，几乎没有标记.
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -  Text Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - 使文本大小响应！
- * [FitText.js](https://github.com/davatron5000/FitText.js) - 用于充气网络类型的jQuery插件.
+ * [FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
  * [Lettering.js](https://github.com/davatron5000/Lettering.js) - 一个轻量级，易于使用的JavaScript` <span>注入器，用于激进的Web排版.</span>
 
 
@@ -772,7 +773,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [textillate](https://github.com/jschr/textillate) -  CSS3文本动画的简单插件.
 * [move.js](https://github.com/visionmedia/move.js) -  CSS3支持的JavaScript动画框架.
 * [animatable](https://github.com/LeaVerou/animatable) - 一个属性，两个值，无限的可能性.
-* [shuffle-images](https://github.com/peachananr/shuffle-images) - The Simplest Way to shuffle through images in a Creative Way http://www.thepetedesign.com/demos/shuffle-images_demo.html
+* [shuffle-images](https://github.com/peachananr/shuffle-images) - 以创造性方式改变图像的最简单方法http://www.thepetedesign.com/demos/shuffle-images_demo.html
 * [smoothState.js](https://github.com/miguel-perez/smoothState.js)   - 使用jQuery进行不显眼的页面转换.  http://smoothstate.com/
 * [Anime.js](http://animejs.com) -  JavaScript动画引擎http://animejs.com.
 * [Mo.js](http://mojs.io) - 用于网站的运动图形工具带http://mojs.io.

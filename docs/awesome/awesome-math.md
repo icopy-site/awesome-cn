@@ -110,7 +110,7 @@
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) -  Thomas Streicher
 * [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - 哈罗德西蒙斯
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) -  Steve Awodey（卡内基梅隆大学）
-* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) -  B.义务
+* [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) -  B.功能
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔巴尔，查尔斯威尔斯
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) - 迈克尔巴尔，查尔斯威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) - 彼得弗雷德
@@ -169,7 +169,7 @@
 * [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) -  F.奥吉尔
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson，Robert A. Beezer（奥斯汀州立大学）
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - 罗伯特豪利特
-* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) -  EH Connell（迈阿密大学）
+* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
 * [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - 罗伯特阿什
 * [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - 本尼迪克特格罗斯
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - 本尼迪克特格罗斯
@@ -197,6 +197,7 @@
 * [Introduction to vectors and tensors, Vol 2: vector and tensor analysis](http://oaktrust.library.tamu.edu/handle/1969.1/3609) - 王炜博士，王敏
 * [Introduction to Applied Linear Algebra](https://web.stanford.edu/~boyd/vmls/vmls.pdf) -  Stephen Boyd（斯坦福大学），Lieven Vandenberghe（加州大学洛杉矶分校）
 * [Linear Algebra Done Wrong](https://www.math.brown.edu/~treil/papers/LADW/LADW_2017-09-04.pdf) - 谢尔盖特里尔
+* [Immersive Linear Algebra](http://immersivemath.com/ila/index.html) - J.Ström，K.Åström和T. Akenine-Möller
 
 ### Ring Theory
 
@@ -293,7 +294,7 @@
 * [Mathematical Analysis Vol II](http://www.trillia.com/zakon-analysisII.html) -  Elias Zakon
 * [Advanced Calculus](http://www.math.harvard.edu/~shlomo/docs/Advanced_Calculus.pdf) -  Lynn Loomis，Schlomo Sternberg
 * [ Analysis of Functions of a Single Variable](http://spot.colorado.edu/~baggett/analysis.html) -  Lawerence Baggett
-* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - 和Sloject
+* [The Calculus of Functions of Several Variables](http://www.synechism.org/wp/the-calculus-of-functions-of-several-variables/) - 还有Sloughter
 * [A ProblemText in Advanced Calculus](http://web.pdx.edu/~erdman/PTAC/problemtext_pdf.pdf) -  John M. Erdman
 * [Calculus and Linear Algebra. Vol. 1](http://hdl.handle.net/2027/spo.5597602.0001.001) - 威尔弗雷德卡普兰，唐纳德J.刘易斯
 * [Calculus and Linear Algebra. Vol. 2](https://quod.lib.umich.edu/s/spobooks/5597602.0002.001) - 威尔弗雷德卡普兰，唐纳德J.刘易斯
@@ -345,11 +346,11 @@
 
 ### Ordinary Differential Equations
 
-* [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - 和Sloject
+* [Difference Equations To Differential Equations](http://www.synechism.org/wp/difference-equations-to-differential-equations/) - 还有Sloughter
 * [Ordinary Differential Equation](https://www.math.uni-bielefeld.de/~grigor/odelec2008.pdf) -  Alexander Grigorian（比勒费尔德大学）
 * [Ordinary Differential Equations: Lecture Notes](http://www.cs.bgu.ac.il/~leonid/ode_bio_files/Ionascu_LectNotes.pdf) -  Eugen J. Ionascu
 * [Ordinary Differential Equations](http://www.math.lmu.de/~philip/publications/lectureNotes/ODE.pdf) - 彼得菲利普
-* [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - 加布里埃尔纳吉
+* [Ordinary Differential Equations](http://users.math.msu.edu/users/gnagy/teaching/ode.pdf) - 加布里埃尔大帝
 * [Ordinary Differential Equations and Dynamical Systems](http://www.mat.univie.ac.at/~gerald/ftp/book-ode/ode.pdf) -  Gerald Teschl
 * [Notes on Differential Equations](http://leipper.org/manuals/zip-fill/dn-difeq-notes.pdf) - 鲍勃特雷尔
 * [Elementary Differential Equations](http://digitalcommons.trinity.edu/mono/8/) -  William F. Trench
@@ -422,7 +423,7 @@
 
 ## Signal processing
 
-* [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) - Sophocles J. Orfanidis (Rutgers University)
+* [Introduction to Signal Processing](http://www.ece.rutgers.edu/~orfanidi/intro2sp/orfanidis-i2sp.pdf) -  Sophocles J. Orfanidis（罗格斯大学）
 * [Foundations of Signal Processing](http://www.fourierandwavelets.org/FSP_v1.1_2014.pdf) -  Martin Vetterli，Jelena Kovacevic，Vivek K Goyal
 * [An Introduction to Statistical Signal Processing](https://ee.stanford.edu/~gray/sp.pdf) -  Robert M. Gray，Lee D. Davisson
 * [Linear algebra, signal processing, and wavelets. A unified approach.](https://www.uio.no/studier/emner/matnat/math/MAT-INF2360/v15/kompendium/applinalgpython.pdf) - ØyvindRyan（奥斯陆大学）

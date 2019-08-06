@@ -2,7 +2,7 @@
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-> Carefully curated list of awesome [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 资源主要用于初学者/中间体.
+&gt;精心策划的精彩列表 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 资源主要用于初学者/中间体.
 
  创意编码与编程系统不同.  目标是创造一些富有表现力的东西而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码 - 这已经成为描述**作为代码**的艺术品的家喻用语.
 
@@ -22,8 +22,8 @@
 - [Generative Design](http://www.generative-gestaltung.de/) - 使用Processing进行可视化，编程和创建.
 - [The Nature of Code](http://natureofcode.com/) - 使用Processing模拟自然系统.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - 实际介绍平面设计的新基础.
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 使用OpenGL进行图形渲染的系列教程.
-- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) -  Designer的Processing，Arduino和openFrameworks指南.
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
+- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - 面向程序员，视觉艺术家或设计师的openFrameworks初学者指南.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) -  openFrameworks的高级深度指南.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - 尝试设计问题以创建3D动画，GUI等.
@@ -70,7 +70,7 @@
 - [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - 使用计算机编程作为创作学科来生成声音，图像，动画等.
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - 使用JavaScript和ProcessingJS库创建绘图和动画.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - 结合JS，ProcessingJS和数学概念来模拟程序中的自然
-- [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - 了解如何使用Processing读取，映射和说明数据.
+- [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - 加入信息设计师Nicholas Felton在Processing的世界.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - 加入Nicholas Felton，为数据可视化提供智能，全面和鼓舞人心的介绍.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - 与Joshua Davis一起学习生成艺术和艺术处理.
@@ -89,6 +89,10 @@
 - [PlayCanvas](https://playcanvas.com/) [跨平台]  - 开源，实时协作WebGL引擎.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]  - 用于构建签名距离函数的GLSL库.
 - [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing是一组类，它们在使用最少量的代码编写时执行繁重的任务.
+- [nannou](http://nannou.cc/)
+[跨平台]  -  Rust语言的开源创意编码框架
+- [thi.ng](http://thi.ng/)
+[跨平台]  - 用于Clojure和ClojureScript语言的开源计算设计工具集合
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]  - 开源，现场图形，Swift框架，由Metal提供支持.
 
 ### Visual Programming Languages
@@ -100,7 +104,7 @@
 - [Vuo](http://vuo.org/) [Mac]  - 实时交互式媒体编程环境.
 - [Max](https://cycling74.com/products/max/) [Mac，Win]  - 媒体的可视化编程语言.
 - [Pure Data](https://puredata.info/) [跨平台]  - 用于多媒体的开源可视化编程语言.
-- [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
+- [i-score](http://www.i-score.org) [跨平台]  - 用于控制创意编码库和工具包的交互式音序器.
 - [tooll](http://tooll.io/) [Win]  - 用于创建交互式3D内容和动画的开源工具.
 - [XOD](https://xod.io/) [跨平台]  - 基于微控制器项目的开源可视化编程语言和环境.
 - [Isadora](https://troikatronix.com) [跨平台]  - 基于场景的媒体控制软件，集成投影映射器.
@@ -161,6 +165,7 @@
 - [GlslEditor](http://editor.thebookofshaders.com/) - 简单的WebGL片段着色器编辑器.
 - [OpenProcessing](https://www.openprocessing.org/) - 创建并试验算法设计，处理和P5.js.
 - [P5.js Editor](https://editor.p5js.org/) -  P5.js的在线网络编辑器.
+- [LiveCodeLab](http://livecodelab.net) - 为VJ，音乐家，教师，学生，孩子们提供“按需运行”工具.
 - [Turtletoy](https://turtletoy.net/)   - 用于生成代码的简约API和在线展示.  （JavaScript）
 - [ShaderGif](https://shadergif.com/) - 使用代码（WebGL1 / 2，JavaScript Canvas和P5.js）制作的艺术的开源主页.
 - [P5LIVE](https://teddavis.org/p5live/) -  p5.js实时编码环境.
@@ -170,7 +175,7 @@
 
 - [Arduino](https://www.arduino.cc/) - 用于构建数字设备和交互式对象的开源微控制器套件.
 - [Raspberry Pi](https://www.raspberrypi.org/) - 小型单板计算机.
-- [Puck.js](https://www.puck-js.com/) - Open source JavaScript microcontroller you can program wirelessly.
+- [Puck.js](https://www.puck-js.com/) - 可以无线编程的开源JavaScript微控制器.
 - [BeagleBoard](http://beagleboard.org/) - 低功耗开源单板计算机.
 - [Makey Makey](http://www.makeymakey.com/) - 将日常物品变成触摸板并将它们与互联网结合起来.
 - [Tessel](https://tessel.io/) - 易于使用的运行JavaScript的微控制器.
@@ -343,12 +348,12 @@
 ### Subreddits
 
 - [r/creativecoding](https://www.reddit.com/r/creativecoding/) - 分享和讨论使用计算机编程作为创造性学科.
-- [r/raytraycing](https://www.reddit.com/r/raytracing/) - 光线追踪的Subreddit.
+- [r/raytraycing](https://www.reddit.com/r/raytracing/) - 光线追踪的子网.
 - [r/opengl](https://www.reddit.com/r/opengl/) - 在所有平台上有关OpenGL的新闻和讨论.
 - [r/graphicsprogramming](https://www.reddit.com/r/GraphicsProgramming/) - 关于图形编程的Subreddit.
 - [r/processing](https://www.reddit.com/r/processing/) - 处理上的Subreddit.
-- [r/shaders](https://www.reddit.com/r/shaders/) - 着色器上的Subreddit.
-- [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - 程序生成的从属.
+- [r/shaders](https://www.reddit.com/r/shaders/) - 着色器上的子网.
+- [r/proceduralgeneration](https://www.reddit.com/r/proceduralgeneration/) - 关于程序生成的子网.
 - [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - 关于机器学习的Subreddit.
 
 ### Slack
@@ -375,7 +380,7 @@
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - 用数学绘画的原则.
 - [Learning Maths again](https://github.com/silviopaganini/maths) -  JS和GLSL数学片段的集合.
 - [Eases](https://github.com/mattdesl/eases) -  Grab-bag模块化缓动方程式.
-- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
+- [Math for Motion](https://soulwire.co.uk/math-for-motion/) - 可视化不同的运动方程.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - 矩阵乘法可视化.
 - [Algebra rules](http://algebrarules.com/) - 基本代数最有用的规则.
 - [Immersive Math](http://immersivemath.com/ila/index.html) - 完全交互式线性代数.
@@ -485,7 +490,7 @@
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - 精选的OpenGL库，调试器和资源的精选列表.
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - 精选WebGL库，资源等的精选列表.
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
 - [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - 精选HTML5画布的精选列表，包括示例，相关文章和帖子.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - 关于音频可视化的策划列表.
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选的计算机视觉资源列表.

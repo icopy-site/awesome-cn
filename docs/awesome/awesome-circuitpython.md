@@ -33,6 +33,7 @@
 
 - [Getting started with Circuit Playground Express by Mike Barela](https://www.amazon.com/Getting-Started-Adafruit-Circuit-Playground-dp-1680454889/dp/1680454889/ref=mt_paperback) （或作为订单的一部分购买 [the Adafruit store](https://www.adafruit.com/product/3944)） -  Circuit Playground Express的介绍和讨论，包括通过CircuitPython，MakeCode和Arduino进行编程.
 - [CircuitPython Development Workshop by Agus Kurniawan](https://www.amazon.com/CircuitPython-Development-Workshop-Agus-Kurniawan-ebook/dp/B07H2BDQLD/)   - 本书可以帮助您开始CircuitPython开发.  本书使用Adafruit ItsyBitsy M0 Express板进行开发.
+- [CircuitPython for beginners with Adafruit Circuit Playground Express & Mu](https://twitter.com/AoyamaProd/status/1157775643750232064) - 作者的日语 [Aoyama_PROD](https://twitter.com/AoyamaProd) 来自2019年9月 [TechBookFest](https://techbookfest.org/).
 - [Programming with MicroPython - by Nicholas H. Tollervey, includes CircuitPython](https://www.adafruit.com/product/3706) - 讨论MicroPython语言.
 - [Wearable Tech Projects by Sophy Wong](https://store.rpipress.cc/collections/books/products/wearable-tech-projects-2019) - 包含许多使用CircuitPython的可穿戴项目.
 
@@ -88,6 +89,7 @@
 
 ## News
 
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) -  [keynote talk at PyOhio](https://www.pyohio.org/2019/presentations/126)，2019年7月27日，Kattni Rembor.
 - [Control servos with CircuitPython and Raspberry Pi](https://blog.adafruit.com/2019/07/27/issue-84-the-magpi-magazinethe-magpi-magazine-control-servos-with-circuitpython-and-raspberry-pi-by-makermelissa-themagpi-raspberry_pi-circuitpython-blinka/) -  MagPi杂志，第84期，Melissa LeBlanc-Williams，2019年7月.
 - [PyDev of the Week: Scott Shawcroft](https://www.blog.pythonlibrary.org/2019/07/01/pydev-of-the-week-scott-shawcroft/)，2019年7月1日.
 - [Scott Shawcroft: History of CircuitPython](https://pyfound.blogspot.com/2019/05/scott-shawcroft-history-of-circuitpython.html) - 为Python的核心开发人员PyCon 2019讨论CircuitPython.
@@ -147,12 +149,12 @@
 - [ASK AN ENGINEER, Wednesday 8pm ET on YouTube LIVE](https://www.youtube.com/adafruit/live) - 关于电子产品的最长的Youtube现场直播节目，每周在“Python on hardware segment”期间有关CircuitPython的信息.
 
 ## Swag
- - [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) -  CircuitPython发布的第4版海报，以北欧为特色.
- - [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) -  CircuitPython发布版本3海报.
+- [CircuitPython 4 release poster](https://www.adafruit.com/product/4082) -  CircuitPython发布的第4版海报，以北欧为特色.
+- [CircuitPython 3 release poster](https://www.adafruit.com/product/3793) -  CircuitPython发布版本3海报.
 - [Blinka the CircuitPython Limited Edition Enamel Pin](https://www.adafruit.com/product/3680) - 带有CircuitPython吉祥物的珐琅针.
 - [Blinka the CircuitPython Sticker](https://www.adafruit.com/product/3725) - 贴有CircuitPython吉祥物Blinka的贴纸.
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - 一个以Blinka角色为特色的临时纹身.
- - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - 以Blinka为特色的CircuitPlayground挂绳.
+- [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - 以Blinka为特色的CircuitPlayground挂绳.
 
 ## Contributing
 
