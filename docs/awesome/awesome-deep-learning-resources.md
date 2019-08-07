@@ -23,7 +23,7 @@
  关于计算机科学硬件中指数级进展率的摩尔定律现在对GPU的影响比CPU更大，因为原子晶体管的微小物理限制.  我们正在转向并行架构
 [[read more](https://www.quora.com/Does-Moores-law-apply-to-GPUs-Or-only-CPUs) ].  深度学习通过使用GPU在开发过程中利用并行体系结构.  最重要的是，深度学习算法可以使用量子计算，并在将来应用于机器 - 大脑界面.
 
-I find that the key of intelligence and cognition is a very interesting subject to explore and is not yet well understood. Those technologies are promising.
+ 我发现智力和认知的关键是一个非常有趣的探索主题，尚未得到很好的理解.  这些技术很有希望.
 
 
 <a name="online-classes" />
@@ -53,7 +53,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Predictions made by Ray Kurzweil](https://en.wikipedia.org/wiki/Predictions_made_by_Ray_Kurzweil) -  Ray Kurzweil制作的中长期未来预测清单.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - 必须阅读Andrej Karpathy的帖子 - 这是我学习RNN的动力，它展示了它在最基本的NLP形式中可以实现的目标.
 - [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) - 重新审视神经元如何映射信息.
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - 解释LSTM细胞的内部运作，并且结论中有一些有趣的联系.
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Explains the LSTM cells' inner workings, plus, it has interesting links in conclusion.
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) - 对于视觉动画很有趣，作为一个例子，它是一个很好的介绍注意机制.
 - [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html) - 很棒的音频聚类 - 由Spotify的实习生发布.
 - [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html) -  Parsey McParseface的诞生，一个神经语法树解析器.
@@ -71,6 +71,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
  - [Improving Language Understanding with Unsupervised Learning](https://blog.openai.com/language-unsupervised/) -  SOTA跨越许多NLP任务，来自无人监督的大型语料库预训练.
  - [NLP's ImageNet moment has arrived](https://thegradient.pub/nlp-imagenet/) - 所有冰雹NLP的ImageNet时刻. 
  - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/) - 了解NLP ImageNet时刻的不同方法. 
+ - [Uncle Bob's Principles Of OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod) - 不仅需要SOLID原则来执行干净的代码，而且无可比拟的REP，CCP，CRP，ADP，SDP和SAP原则对于开发必须捆绑在不同分离包中的大型软件非常重要.
  
 <a name="practical-resources" />
 
@@ -79,6 +80,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
+- [Neuraxle, a framwework for machine learning pipelines](https://github.com/Neuraxio/Neuraxle) - 构建和部署机器学习项目的最佳框架，并且与大多数框架兼容（例如：Scikit-Learn，TensorFlow，PyTorch，Keras等）.
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - 最知名的深度学习框架，包括高级和低级，同时保持灵活性.
 - [skflow](https://github.com/tensorflow/skflow) -  TensorFlow包装器 -  scikit-learn.
 - [Keras](https://keras.io/) -  Keras是另一个深度学习框架，如TensorFlow，它主要是高级的.
@@ -102,7 +104,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.html) -  ML的数据集.
 - [Cornell Movie--Dialogs Corpus](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html) - 这可以用于聊天机器人.
 - [SQuAD The Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) - 可以在线探索的问答数据集，以及在该数据集上表现良好的模型列表.
-- [LibriSpeech ASR corpus](http://www.openslr.org/12/) - 具有平衡性别和扬声器的巨大免费英语语音数据集，似乎是高质量的.
+- [LibriSpeech ASR corpus](http://www.openslr.org/12/) - 具有平衡性别和扬声器的巨大免费英语语音数据集，似乎具有高品质.
 - [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) - 一个很棒的公共数据集列表.
 - [SentEval: An Evaluation Toolkit for Universal Sentence Representations](https://arxiv.org/abs/1803.05449) - 一个Python框架，用于对许多数据集（NLP任务）上的句子表示进行基准测试. 
 - [ParlAI: A Dialog Research Software Platform](https://arxiv.org/abs/1705.06476) - 另一个Python框架，用于对许多数据集（NLP任务）上的句子表示进行基准测试.
@@ -122,8 +124,8 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Artificial Neural Networks: Mathematics of Backpropagation](http://briandolhansky.com/blog/2013/9/27/artificial-neural-networks-backpropagation-part-4) - 以数学方式描绘背景.
 - [Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs](https://www.youtube.com/watch?v=56TYLaQN4N8) - 正确解释了RNN图的展开，并揭示了关于梯度下降算法的潜在问题.
 - [Gradient descent algorithms in a saddle point](http://sebastianruder.com/content/images/2016/09/saddle_point_evaluation_optimizers.gif) - 可视化不同的优化器如何与鞍点相互作用.
-- [Gradient descent algorithms in an almost flat landscape](https://devblogs.nvidia.com/wp-content/uploads/2015/12/NKsFHJb.gif) - 可视化不同的优化器如何与几乎平坦的景观进行交互.
-- [Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg) - 好的，我已经在上面列出了Andrew NG的Coursera课程，但是这个视频特别适合作为介绍并定义了梯度下降算法.
+- [Gradient descent algorithms in an almost flat landscape](https://devblogs.nvidia.com/wp-content/uploads/2015/12/NKsFHJb.gif) - 可视化不同的优化器如何与几乎平坦的景观相互作用.
+- [Gradient Descent](https://www.youtube.com/watch?v=F6GSRDoB-Cg) - 好的，我已经在上面列出了Andrew NG的Coursera课程，但是这个视频作为介绍特别相关，并定义了梯度下降算法.
 - [Gradient Descent: Intuition](https://www.youtube.com/watch?v=YovTqTY-PYY) - 从上一个视频得到的内容：现在添加直觉.
 - [Gradient Descent in Practice 2: Learning Rate](https://www.youtube.com/watch?v=gX6fZHgfrow) - 如何调整神经网络的学习率.
 - [The Problem of Overfitting](https://www.youtube.com/watch?v=u73PU6Qwl1I) - 对过度拟合以及如何解决该问题的一个很好的解释.
@@ -135,7 +137,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 
 ### Complex Numbers & Digital Signal Processing
 
-好的，信号处理可能与深度学习没有直接关系，但研究它对于开发基于信号的神经架构有更多的直觉是有趣的.
+好的，信号处理可能与深度学习没有直接关系，但研究它对于在开发基于信号的神经架构方面有更多的直觉是有趣的.
 
 - [Window Functions](https://en.wikipedia.org/wiki/Window_function) - 维基百科页面列出了一些已知的窗口函数 - 请注意 [Hann-Poisson window](https://en.wikipedia.org/wiki/Window_function#Hann%E2%80%93Poisson_window) 对于贪婪的爬山算法（例如梯度下降）特别有趣. 
 - [MathBox, Tools for Thought Graphical Algebra and Fourier Analysis](https://acko.net/files/gltalks/toolsforthought/) - 傅立叶分析的新面貌.
@@ -182,8 +184,8 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) - 用于3D模型生成的3D-GAN和来自嵌入的有趣3D家具算法（想像word2vec单词算术与3D家具表示）.
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) - 令人难以置信的快速分布式CNN培训.
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -  2017年CVPR最佳论文奖，对CIFAR-10，CIFAR-100和SVHN数据集的最新表现进行了改进，这种新的神经网络架构被命名为DenseNet.
-- [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - 融合了U-Net和DenseNet的思想，这种新的神经网络特别适用于图像分割中的大型数据集.
-- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) - 在一些示例中，使用损失中的距离度量来确定对象属于哪个类.
+- [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - 融合U-Net和DenseNet的思想，这个新的神经网络特别适用于图像分割中的大型数据集.
+- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) - Use a distance metric in the loss to determine to which class does an object belongs to from a few examples.
 
 <a name="attention-mechanisms" />
 
@@ -218,7 +220,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4) - 关于注意力机制的阅读小组的讨论（论文：通过共同学习对齐和翻译的神经机器翻译）.
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) - 正确概括Tensors如何工作，但只是观看一些视频已经有助于掌握概念.
 - [Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) - 我发现有趣或有用的深度学习视频列表，这是一些东西的混合.
-- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) - 我编写的关于DFT / FFT，STFT和拉普拉斯变换的YouTube播放列表 - 我对我的软件工程学士学位不满，不包括信号处理课程（量子物理课除外）.
+- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) - A YouTube playlist I composed about DFT/FFT, STFT and the Laplace transform - I was mad about my software engineering bachelor not including signal processing classes (except a bit in the quantum physics class).
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) - 我编写的另一个YouTube播放列表，这次是关于各种CS主题.
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) -  Siraj提供有关深度学习的有趣，快节奏的视频教程.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - 一些研究论文的有趣和浅薄的概述，例如关于WaveNet或神经样式转移.

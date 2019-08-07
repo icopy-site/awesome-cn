@@ -77,7 +77,7 @@
 - [Finicky](https://github.com/johnste/finicky)   - 始终打开正确的浏览器.  ！[swift_icon] 
 - [Helium](https://github.com/JadenGeller/Helium)   -  macOS的浮动浏览器窗口.  ！[objective_c_icon]！[swift_icon] 
 - [Kaktus Browser](https://github.com/kaktus/kaktus)   - 具有简约设计的实验性网络浏览器.  运行Windows，macOS和Linux.  ！[javascript_icon] 
-- [browserosaurus](https://github.com/will-stone/browserosaurus)   -  macOS工具，提示您在打开链接时选择浏览器.  ！[javascript_icon] 
+- [browserosaurus](https://github.com/will-stone/browserosaurus)   -  macOS工具，提示您在打开链接时选择浏览器.  ！[javascript_icon】 
 - [otter-browser](https://github.com/OtterBrowser/otter-browser)   -  Otter Browser旨在使用Qt5重现经典Opera（12.x）UI的最佳方面.  ！[cpp_icon] 
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac)   - 适用于macOS和iOS的安全考试浏览器.  ！[c_icon] 
 
@@ -184,7 +184,7 @@
 - [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)   - 直观的应用程序，以在屏幕上显示透明图像.  ！[swift_icon] 
 - [Localizable.strings](https://github.com/ralcr/Localizable.strings)   - 用于本地化iOS和macOS项目的Mac应用程序.  ！[swift_icon] 
-- [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor)   - 简单的macOS编辑器应用程序，允许您并排编辑所有翻译，以帮助您管理iOS应用程序本地化.  ！[swift_icon] 
+- [Localization Editor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations by allowing you to edit all the translations side by side.  ![swift_icon] 
 - [Localizations](https://github.com/athiercelin/Localizations)   -  Localizations是一个macOS应用程序，用于管理您的Xcode项目本地化文件（.strings）.  ！[swift_icon] 
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   -  macOS app，方便访问系统颜色面板.  ！[swift_icon] 
 - [Notarize](https://github.com/macmade/Notarize) -  macOS的公证状态监控工具，支持多个开发人员帐户！[swift_icon] 
@@ -248,6 +248,7 @@
 - [Finder Go](https://github.com/onmyway133/FinderGo)   -  macOS app和Finder Sync Extension从Finder打开Terminal，iTerm，Hyper.  ！[swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode)   -  Finder工具栏应用程序，用于在Visual Studio代码中打开当前文件夹.  ！[objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)   - ✨用于macOS的Finder工具栏应用程序，用于打开终端，iTerm或Hyper中的当前目录.  ！[swift_icon] 
+- [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)   - 开发人员有用的Quick Look插件列表.  ！[objective_c_icon]！[c_icon] 
 
 ### Games
 - [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)   - 回合制战术战略游戏，包括单人和在线多人战斗.  ！[cpp_icon] 
@@ -318,7 +319,7 @@
 - [KubeContext](https://github.com/turkenh/KubeContext)   - 在Mac上导入，管理和切换Kubernetes上下文.  ！[swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters)   - 用于macOS的CPU，内存，磁盘和网络监视工具.  ！[objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness)   -  macOS app改变菜单栏上的屏幕亮度.  ！[javascript_icon] 
-- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control)   - 夜班控制是一个简单的macOS菜单栏应用程序，用于控制夜班.  它的目的是带来夜班失踪的f.lux功能，例如禁用某些应用的夜班.  ！[swift_icon] 
+- [Night Shift Control](https://github.com/isaiasmatewos/night-shift-control)   - 夜班控制是一个简单的macOS菜单栏应用程序，用于控制夜班.  它的目的是带来夜班失踪的f.lux功能，例如禁用某些应用的夜班.  ！[swift_icon】 
 - [PSIBar](https://github.com/nikhilsh/PSIBar)   - 快速入侵PSI macOS状态栏应用程序.  ！[swift_icon] 
 - [Quickeys](https://github.com/alexrosenfeld10/Quickeys)   - 一个mac菜单栏应用程序，通过快速下拉菜单提供记笔记功能.  ！[swift_icon] 
 - [SensibleSideButtons](https://github.com/archagon/sensible-side-buttons)   - 小菜单栏实用程序，可让您使用第三方鼠标的侧面按钮在各种应用程序中导航.  ！[objective_c_icon]！[c_icon] 
@@ -398,7 +399,7 @@
 - [ClipMenu](https://github.com/naotaka/ClipMenu)   -  macOS的剪贴板管理器.  ！[objective_c_icon] 
 - [Clocker](https://github.com/n0shake/Clocker)   - 通过时区规划和组织的macOS应用程序.  ！[objective_c_icon] 
 - [ControlPlane](https://github.com/dustinrue/ControlPlane)   - 根据您的位置或您的工作自动执行任务.  ！[objective_c_icon] 
-- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.  ![objective_c_icon] 
+- [Flycut](https://github.com/TermiT/flycut)   - 为开发人员提供简洁的剪贴板管理器  ！[objective_c_icon] 
 - [KeyHolder](https://github.com/Clipy/KeyHolder)   - 在macOS中记录快捷方式，如Alfred.app.  ！[swift_icon] 
 - [Kiwix](https://github.com/kiwix/apple)   - 适用于iOS和macOS的Kiwix，基于Swift构建.  ！[swift_icon] 
 - [Linked Ideas](https://github.com/fespinoza/LinkedIdeas)   -  macOS应用程序记下并连接想法.  ！[swift_icon] 
@@ -414,7 +415,7 @@
 - [Thyme](https://github.com/joaomoreno/thyme) -  OS X的任务计时器.！[objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app)   - 适用于Mac的Simple Timer应用程序.  ！[swift_icon] 
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319)   - 适用于Windows，Mac和Linux的Toggl Desktop应用程序.  ！[cpp_icon] 
-- [TrelloApp](https://github.com/jlong/TrelloApp)   - 用Swift编写的Trello.com的非官方包装应用程序.  对于特定于站点的浏览器，这几乎是“Hello World”.  ！[swift_icon] 
+- [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial wrapper application for Trello.com written in Swift. This is almost a "Hello World" for a site specific browser.  ![swift_icon] 
 - [Watson](https://github.com/TailorDev/Watson)   - 用于时间跟踪的CLI应用程序.  ！[python_icon] 
 - [Whale](https://github.com/1000ch/whale)   - 非官方的Trello应用程序.  ！[javascript_icon] 
 - [Yomu](https://github.com/sendyhalim/Yomu)   -  macOS的漫画阅读器应用程序.  ！[swift_icon] 
@@ -499,7 +500,7 @@
 - [Touch Emoji](https://github.com/lessmess-dev/touch-emoji)   -  MacBook Pro Touch Bar的表情符号选择器.  ！[swift_icon] 
 
 ### Utilities
-- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) - One-click screenshots, video recordings, app installation for iOS and Android  ![swift_icon] 
+- [Android tool for Mac](https://github.com/mortenjust/androidtool-mac) -  iOS和Android的一键式截图，视频录制，应用程序安装！[swift_icon] 
 - [Archive Mounter](https://github.com/ivoronin/ArchiveMounter) - 安装磁盘映像等档案！[swift_icon] 
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 使用Mac键盘上的媒体键控制基于Web的媒体播放器.  ！[objective_c_icon] 
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop)   - 用于mac和其他平台的安全密码管理器.  ！[javascript_icon] 
@@ -549,7 +550,7 @@
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX)   - 用于macOS的Acid Cam v2扭曲视频以创造艺术.  ！[cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents)   -  macOS的非官方Apple Events应用程序.  ！[objective_c_icon] 
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)   - 在Mac上免费观看您最喜爱的开发者大会上最新最好的视频的最佳方式.  ！[swift_icon] 
-- [Datamosh](https://github.com/roecrew/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] 
+- [Datamosh](https://github.com/maelswarm/Datamosh)   - 在macOS上Datamosh你的视频.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)   - 用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
 - [Gifted](https://github.com/vdel26/gifted)   - 快速轻松地将任何短视频转换为动画GIF.  ！[objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake)   -  HandBrake是一款适用于Linux，Mac和Windows的视频转码器.  ！[c_icon] 

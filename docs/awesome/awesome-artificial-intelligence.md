@@ -47,6 +47,7 @@
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action教您构建功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
 * [Real-World Natural Language Processing](https://www.manning.com/books/real-world-natural-language-processing) - 关于如何使用Python创建实用NLP应用程序的早期访问书. 
 * [Grokking Machine Learning](https://www.manning.com/books/grokking-machine-learning) - 早期访问书，介绍最有价值的机器学习技术.
+* [Elements of AI (Part 1) - Reaktor/University of Helsinki](https://www.elementsofai.com/) -  AI简介是一个免费的在线课程，适合所有有兴趣了解AI的人，AI可能（并且不可能）的人，以及它如何影响我们的生活 - 无需复杂的数学或编程.
 
 ## Books
 
@@ -65,7 +66,7 @@
 * [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)   - 我们的最终发明探索了对不断追求高级AI的危险.  直到现在，人类情报还没有竞争对手.  我们可以与智力相形见绌的众生共存吗？  他们会允许我们吗？
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - 谷歌工程总监雷·库兹威尔（Ray Kurzweil）探索了对大脑进行逆向工程的过程，以准确理解大脑是如何工作的，然后利用这些知识创建出色的智能机器.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)   -  1980年由philospher John Searle撰写的论文，其中包含着名的“中国室”思想实验.  可能是对拥有“心灵”或“意识”的强AI概念的最着名的攻击，以及对AI和心灵哲学交叉感兴趣的人的有趣阅读.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称性和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - 麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何影响犯罪，战争，正义，就业，社会以及我们在近期和远期都能成为人类的感觉.
 
 
@@ -74,7 +75,7 @@
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - 本课程提供机器学习和统计模式识别的广泛介绍.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)   - 本书涵盖了人类活动的计算机模拟，如解决问题和理解自然语言;  计算机视觉;  AI工具和技术;  人工智能编程介绍;  符号和神经网络认知模型;  心灵和智慧的本质;  以及人工智能和认知科学的社会影响.
 * [Society of Mind](http://aurellem.org/society-of-mind/index.html)   - 马文·明斯基关于我们思想如何运作的开创性工作.  许多符号AI概念都是从这个基础中衍生出来的.
-* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - This book is designed to help preservice and inservice teachers learn about some of the educational implications of current uses of Artificial Intelligence as an aid to solving problems and accomplishing tasks.
+* [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前人工智能使用的一些教育含义，以帮助解决问题和完成任务.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
 * [Golden Artificial Intelligence](https://golden.com/wiki/Cluster%3A_Artificial_intelligence) - 关于人工智能和机器学习的一组页面.
@@ -82,7 +83,7 @@
 
 ## Code
 
-* [AIMACode](https://github.com/aimacode)   -  Common Lisp，Java，Python中“人工智能：现代方法”的源代码.  更多来.
+* [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
 * [FANN](http://leenissen.dk/fann/wp/) - 快速人工神经网络库，原生于C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica)   -  Douglas Hosftadter的流体概念和创意类比博士的源代码.  项目.
 
@@ -113,7 +114,7 @@
 * [Professional and In-Depth Machine Learning Video Courses](https://freecoursesite.com/?s=Machine+Learning+Data+Science) - 免费的专业和深入的机器学习和数据科学视频教程和课程的集合
 * [Professional and In-Depth Artificial Intelligence Video Courses](https://freecoursesite.com/?s=Artificial+Intelligence) - 免费的专业和深入的人工智能视频教程和课程的集合
 * [Professional and In-Depth Deep Learning Video Courses](https://freecoursesite.com/?s=Deep+Learning) - 一系列免费的专业和深入的深度学习视频教程和课程
-* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - Introductory level machine learning crash course
+* [Introduction to Machine Learning](https://developers.google.com/machine-learning/crash-course/ml-intro) - 入门级机器学习速成课程
 * [Awesome Graph Classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - 从图形结构化数据中学习
 * [Awesome Community Detection](https://github.com/benedekrozemberczki/awesome-community-detection) - 聚类图结构化数据
 * [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - 机器学习会议的决策树文件

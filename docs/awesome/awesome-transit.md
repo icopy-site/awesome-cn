@@ -179,6 +179,7 @@
 - [Make GTFS](https://github.com/mrcagney/make_gtfs) - 一个Python库，用于根据基本路径信息生成GTFS
 - [trread](https://github.com/r-gtfs/trread) -  R的传输（GTFS）文件阅读器 
 - [ESRI public-transit-tools](https://github.com/Esri/public-transit-tools) - 用于在ArcGIS中处理公共交通数据的工具（需要ArcGIS许可证）.
+- [CGTFS](https://github.com/rakhack/cgtfs)   - 用于读取静态GTFS源的C库.  支持将解压缩的源读取到应用程序内存或SQLite数据库中.
 
 #### GTFS Converters
 

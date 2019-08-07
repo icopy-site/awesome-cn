@@ -64,13 +64,12 @@
 - [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics) -  Coursera的计算机图形学课程.
 - [Kadenze Creative Coding](http://try.kadenze.com/creative-coder/) - 选择涵盖p5.js，TensorFlow，Max / Jitter和ChucK的Kadenze课程.
 - [Think. Create. Code](https://www.edx.org/course/think-create-code-adelaidex-code101x-2) - 使用ProcessingJS学习编程的EDX课程.
-- [Creative Coding](https://www.futurelearn.com/courses/creative-coding) -  FutureLearn有关使用Processing编程的课程.
 - [Creative Programming for Digital Media & Mobile Apps](https://www.coursera.org/learn/digitalmedia) -  Coursera关于创意编码和处理的课程.
 - [Imaginary Institute](https://imaginary-institute.com/) - 学习如何创建华丽的交互式图形.
 - [Future Learn: Creative Coding](https://www.futurelearn.com/courses/creative-coding) - 使用计算机编程作为创作学科来生成声音，图像，动画等.
 - [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming) - 使用JavaScript和ProcessingJS库创建绘图和动画.
 - [Advanced JS: Natural Simulations](https://www.khanacademy.org/computing/computer-programming/programming-natural-simulations) - 结合JS，ProcessingJS和数学概念来模拟程序中的自然
-- [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - Learn how to read, map, and illustrate data with Processing.
+- [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) - 了解如何使用Processing读取，映射和说明数据.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) - 加入信息设计师Nicholas Felton在Processing的世界.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) - 加入Nicholas Felton，为数据可视化提供智能，全面和鼓舞人心的介绍.
 - [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - 与Joshua Davis一起学习生成艺术和艺术处理.
@@ -88,7 +87,7 @@
 - [Unity](https://unity3d.com/) [Mac，Win]  - 游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]  - 开源，实时协作WebGL引擎.
 - [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]  - 用于构建签名距离函数的GLSL库.
-- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing是一组类，它们在使用最少量的代码编写时执行繁重的任务.
+- [HYPE](http://www.hypeframework.org/) [跨平台]  -  HYPE_processing，是一组类，它们在使用最少量的代码编写时执行繁重的任务.
 - [nannou](http://nannou.cc/)
 [跨平台]  -  Rust语言的开源创意编码框架
 - [thi.ng](http://thi.ng/)
@@ -262,7 +261,7 @@
 - [On ray casting, ray tracing, ray marching and the like](http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm)  - 标题说明了一切.  Adok介绍.
 - [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - 关于着色器和其他计算机图形相关主题的文章.
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - 非常好的介绍基本软件渲染的工作原理.
-- [WebGL Tutorials](http://www.webgltutorials.org/) - 网站上有很好的WebGL教程.
+- [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - 关于如何创建几何对象的初学者介绍.
 - [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/)   - 了解如何使用three.js将正弦波添加到圆圈中.  （[oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - 关于WebGL，Three.js和Three.bas的系列教程.

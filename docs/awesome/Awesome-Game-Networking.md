@@ -47,7 +47,7 @@
 - 游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
   - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
-  - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
+  - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 300K Players in One World by Kristjan Jonsson from CCP Games.
   - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - 来自Crytek的Peter Hall的程序员事后调查.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -  Halo中的游戏网络：来自Bungie的David Aldridge.
   - [2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) - 来自En Masse Ent的Patrick Wyatt的演讲.
@@ -55,7 +55,7 @@
   - [2015 / Game Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking) - 来自Respawn Entertainment的Glenn Fiedler的演讲.
   - [2015 / Networking Gameplay and AI in Assassin's Creed Unity](http://www.gdcvault.com/play/1022168/Networking-Gameplay-and-AI-in) - 来自Ubisoft的Charles Lefebvre的演讲.
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) - 来自索尼的Claire Blackshaw的高级设计方法.
-  - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) - Detailed techniques by Benjamin Goyette from Activision.
+  - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) -  Activision的Benjamin Goyette的详细技术.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - 模拟，确定性，响应性和精确性.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) -  Michael Stallone在Mortal Kombat和Injustice 2中的回滚网络.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) -  Jared Cone详细介绍了Rocket League的物理和网络.
@@ -79,7 +79,7 @@
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) - （付费）Sam Pattuzzi的C ++在线游戏开发教程系列.
   - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -  Maik Hilfer的Steam支持的蓝图多人游戏教程.
 - 团结
-  - [DarkRift2 Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - 使用MateriaGame的DarkRift2制作简单的网状弹力球.
+  - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) - 使用MateriaGame的DarkRift2制作简单的网状弹力球.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) - AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
   - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) -  Unity提供的基于UNET的多人游戏网络教程.
 
@@ -127,6 +127,7 @@
 - [Fiddler](https://www.telerik.com/fiddler)   -  Web调试代理服务器.  （Windows，macOS，Linux）
 - [netem](https://wiki.linuxfoundation.org/networking/netem)   - 用于测试协议的网络仿真.  （Linux）
 - [Network Link Conditioner](https://nshipster.com/network-link-conditioner/)   - 网络环境模拟实用程序.  （macOS，iOS）
+- [Network Protocol Analyzer](https://www.softperfect.com/products/networksniffer/)   - 用于分析，调试，维护和监控连接的工具.  （视窗）
 - [Network Simulator (ns)](https://www.nsnam.org)   - 针对研究和教育用途的网络模拟器.  （macOS，Linux）
 - [Postman](https://www.getpostman.com/)   -  Web API调试客户端.  （Windows，macOS，Linux）
 - [Wireshark](https://www.wireshark.org/)   - 网络流量分析工具.  （Windows，macOS，Linux）

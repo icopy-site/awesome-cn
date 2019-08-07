@@ -12,7 +12,7 @@
 
  科技和社交媒体对我们的社会产生了重大影响.  虽然许多创新技术发明正在改善我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem)一个由特里斯坦哈里斯领导的深受关注的前技术内幕人士组成的世界级团队创造了 [The Center of Humane Technology](https://humanetech.com) .  我们的愿景是：
 
-&gt; **无处不在的人道技术，刺激人类蓬勃发展，人类蓬勃发展.**
+> **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
 
  此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
@@ -62,7 +62,7 @@
 - [PrivacyScore](https://privacyscore.org) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/PrivacyScore/PrivacyScore) - 网络隐私测量平台.
 - [ghacks user.js](https://github.com/ghacksuserjs/ghacks-user.js) - 用于配置和加强Firefox隐私，安全性和反指纹识别的user.js模板.
 - [user.js](https://github.com/pyllyukko/user.js) - 配置Firefox以加强浏览器设置并使其更安全.
-- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - Browser extension that emulates Content Delivery Networks to improve your online privacy.
+- [Decentraleyes](https://decentraleyes.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://git.synz.io/Synzvato/decentraleyes) - 浏览器扩展模拟内容交付网络以改善您的在线隐私.
 - [User-Agent Switcher](https://addons.mozilla.org/en-GB/firefox/addon/uaswitcher/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/ntninja/user-agent-switcher) - 浏览器扩展允许通过更改User-Agent标头来构建另一个浏览器.
 - [Random User-Agent](https://github.com/tarampampam/random-user-agent) - 浏览器扩展，在指定的时间间隔后自动替换User-Agent.
 - [Smart Referer](https://addons.mozilla.org/en-GB/firefox/addon/smart-referer/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/meh/smart-referer) - 更改域时自动隐藏引用者的浏览器扩展.
@@ -80,7 +80,7 @@
 
 - [Privacy Badger](https://www.eff.org/privacybadger) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/EFForg/privacybadger) - 电子前线基金会的隐私獾会阻止间谍广告和隐形追踪器.
 - [uBlock Origin](https://github.com/gorhill/uBlock)   - 适用于各种浏览器的有效阻止程序附加组件.  快速，有力，精益.
-- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - Analyzes privacy concerns in Android applications.
+- [Exodus Privacy](https://exodus-privacy.eu.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/exodus-privacy/exodus) - 分析Android应用程序中的隐私问题.
 - [Exodus Android App](https://github.com/Exodus-Privacy/exodus-android-app) -  Exodus Privacy应用程序，可让您了解应用程序中嵌入了哪些跟踪器.
 - [Exodify](https://exodify.org/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/FacettsOpen/exodify)   - 想知道某个应用是否在追踪你？  现在，您可以直接在Play商店中看到它.
 - [Firefox Multi-Account Containers](https://addons.mozilla.org/en-GB/firefox/addon/multi-account-containers/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/mozilla/multi-account-containers) - 将您的在线生活分为彩色编码选项卡，以保护您的隐私.
@@ -96,6 +96,8 @@
 - [Cookie-AutoDelete](https://github.com/Cookie-AutoDelete/Cookie-AutoDelete) - 浏览器扩展，一旦选项卡关闭，就会删除cookie，除非站点是allowListed.
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - 使用130规则从地图栏URL中删除跟踪元素的插件.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pi-hole/pi-hole) -  DNS sinkhole，用于阻止本地网络上的广告或跟踪器，而无需安装任何客户端软件.
+- [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/heiseonline/shariff) - 使网站用户能够分享他们喜欢的内容，而不会影响他们的隐私.
+- [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
 
 ## Consent
 
@@ -138,7 +140,6 @@
 - [DeleteFB](https://github.com/weskerfoot/DeleteFB) -  Selenium脚本删除所有Facebook墙帖.
 - [Minimal Twitter](https://twang.dev/minimal-twitter/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/thomaswangio/minimal-twitter) - 新Twitter UI的最小主题.
 - [Talk](https://coralproject.net/talk/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/coralproject/talk) - 一个开源评论平台，专注于更好的对话.
-- [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - 生成一个假的应用程序来替换任何上瘾的应用程序.
 
 ## Freedom
 
@@ -179,6 +180,7 @@
 - [Jobs Done](https://jobs-done.now.sh/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/skidding/jobs-done) - 一个由Deep Work启发的结束工作日的仪式应用程序.
 - [Break Timer](https://github.com/tom-james-watson/breaktimer) -  Chrome / Firefox扩展程序，用于定期休息，防止RSI，眼睛疲劳和疲劳.
 - [MindBell](https://www.dknapps.de/mindbell/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/udamken/mindbell) -  Android的正念铃和冥想计时器.
+- [Detoxify](https://detoxify.app/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/sandoche/Detoxify-app) - 生成一个假的应用程序来替换任何上瘾的应用程序.
 
 ## Happiness
 

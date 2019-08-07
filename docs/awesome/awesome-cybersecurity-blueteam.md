@@ -11,6 +11,7 @@
 
 ## Automation
 
+- [Ansible Lockdown](https://ansiblelockdown.io/) - 经过审查和积极维护的信息安全主题Ansible角色的策划集合.
 - [DShell](https://github.com/USArmyResearchLab/Dshell) - 用Python编写的可扩展网络取证分析框架，可以快速开发插件，以支持解析网络数据包捕获.
 - [MultiScanner](https://github.com/mitre/multiscanner) - 用Python编写的文件分析框架，通过自动运行一套工具并聚合输出，帮助评估一组文件.
 - [Posh-VirusTotal](https://github.com/darkoperator/Posh-VirusTotal) -  VirusTotal.com API的PowerShell接口.
@@ -127,7 +128,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Firewall appliances or distributions
 
-- [OPNsense](https://opnsense.org/) - 基于FreeBSD的防火墙和路由平台.
+- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
 - [pfSense](https://www.pfsense.org/) - 防火墙和路由器FreeBSD分发.
 
 ## Operating System distributions
@@ -202,7 +203,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 - [LuLu](https://objective-see.com/products/lulu.html) - 免费的macOS防火墙.
 - [Stronghold](https://github.com/alichtman/stronghold) - 从终端轻松配置macOS安全设置.
-- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - Automated configuration of kernel-level, OS-level, and client-level security features including privatizing proxying and anti-virus scanning for macOS.
+- [macOS Fortress](https://github.com/essandess/macOS-Fortress) - 自动配置内核级，操作系统级和客户端级安全功能，包括为macOS进行私有化代理和防病毒扫描.
 
 
 ## Windows-based defenses

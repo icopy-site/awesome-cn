@@ -74,6 +74,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [flowchart](http://www.ctan.org/tex-archive/graphics/pgf/contrib/flowchart) - 使用TikZ绘制流程图的形状.
 -   [forest](http://www.ctan.org/tex-archive/graphics/pgf/contrib/forest) - 绘制（语言）树木.
 -   [grafcet](http://www.ctan.org/tex-archive/graphics/pgf/contrib/grafcet) - 使用TikZ绘制Grafcet / SFC.
+-   [graph35](https://ctan.org/tex-archive/graphics/graph35) - 绘制几个卡西欧计算器的按键和屏幕项目.
 -   [harveyballs](http://www.ctan.org/tex-archive/graphics/pgf/contrib/harveyballs) - 使用TikZ创建Harvey Balls.
 -   [hf-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hf-tikz) - 突出公式和公式部分的简单方法.
 -   [hobby](http://www.ctan.org/tex-archive/graphics/pgf/contrib/hobby) -  Pobby / TikZ的Hobby算法的实现.
@@ -82,6 +83,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [logicpuzzle](http://www.ctan.org/tex-archive/graphics/pgf/contrib/logicpuzzle) - 排版（基于网格）逻辑谜题.
 -   [makeshape](http://www.ctan.org/tex-archive/graphics/pgf/contrib/makeshape) - 声明新的PGF形状.
 -   [neuralnetwork](http://www.ctan.org/tex-archive/graphics/pgf/contrib/neuralnetwork) - 神经网络的图形绘制.
+-   [pixelart](https://ctan.org/pkg/pixelart) - 绘制像素艺术图片的包.
 -   [pgf-blur](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-blur) -  PGF / TikZ包装，用于“模糊”阴影.
 -   [pgf-pie](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-pie) - 使用PGF绘制饼图.
 -   [pgf-soroban](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgf-soroban) - 使用TikZ / PGF创建soroban的图像.
@@ -91,7 +93,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [pgfgantt](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfgantt) - 用TikZ绘制甘特图.
 -   [pgfplots](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pgfplots) - 载荷，轮，格式和后处理数值表.
 -   [prooftrees](http://www.ctan.org/tex-archive/graphics/pgf/contrib/prooftrees) - 基于森林的证明树（符号逻辑）.
--   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - 用于PGF图片间连接的e-pTEX驱动程序.
+-   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - 用于PGF图像间连接的e-pTEX驱动程序.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - 绘制Reo频道和电路.
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - 用于直边和罗盘图的TikZ库.
 -   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - 用于绘制交换架构的TikZ库.
