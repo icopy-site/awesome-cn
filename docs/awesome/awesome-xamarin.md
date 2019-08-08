@@ -25,12 +25,12 @@
 ## Async
 
 - [AsyncEx ★1,253](https://github.com/StephenCleary/AsyncEx) -  async / await的帮助程序库.
-- [LinqToAwait ★98](https://github.com/paulcbetts/LinqToAwait) - 基于任务的LINQ，旨在与async / await一起使用.
+- [LinqToAwait ★99](https://github.com/anaisbetts/LinqToAwait) - 基于任务的LINQ，旨在与async / await一起使用.
 
 
 ## Charts
 
-- [MicroCharts ★765](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+- [MicroCharts ★1052](https://github.com/dotnet-ad/Microcharts) - 创建跨平台（Xamarin，Windows，...）简单图表.
 - [MPAndroidChart/iOSCharts ★6](https://github.com/bulubuloa/Ultimate-Xamarin-Forms-KIT) - 在Xamarin Forms中使用MPAndroidChart / iOSCharts绑定支持.
 - [OxyPlot ★1,311](https://github.com/oxyplot/oxyplot) - 用于.NET的跨平台绘图库.
 
@@ -44,9 +44,9 @@
 
 ## Database
 
-- [Akavache ★1,692](https://github.com/reactiveui/akavache) - 本机应用程序的异步键值存储.
+- [Akavache ★1,692](https://github.com/reactiveui/akavache) - An Asynchronous Key-Value Store for Native Applications.
 - [Breeze ★63](https://github.com/Breeze/breeze.sharp) - 面向富客户端应用程序开发人员的数据管理库.
-- [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - Lightweight embedded NoSQL database.
+- [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - 轻量级嵌入式NoSQL数据库.
 - [Lager ★2](https://github.com/ghuntley/Lager) - 使用Akavache作为存储后端的跨平台设置存储.
 - [Massive ★1,708](https://github.com/FransBouma/Massive) - 数据库表的“包装器”，并广泛使用System.Dynamic.
 - [Realm ★690](https://github.com/realm/realm-dotnet) - 直接在手机，平板电脑或可穿戴设备内运行的移动数据库.
@@ -57,7 +57,7 @@
 ## Fody
 
 - [Fody ★2,150](https://github.com/Fody/Fody) - 用于编织.net组件的可扩展工具.
-	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties.
+	- [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/src) - Automatically generates DependencyProperty boilerplate from simple C# properties.
 	- [PropertyChanged.Fody ★820](https://github.com/Fody/PropertyChanged/) - 在编译时将INotifyPropertyChanged代码注入属性.
 	- [ReactiveUI.Fody ★105](https://github.com/kswoll/ReactiveUI.Fody) - 为属性和ObservableAsPropertyHelper属性生成RaisePropertyChange通知.
 
@@ -139,7 +139,7 @@
 - [MvvmNano ★46](https://github.com/aspnetde/MvvmNano) - 使用❤为Xamarin.Forms制作的小而智能的MVVM框架.
 - [Prism ★2,365](https://github.com/prismlibrary/prism) - 跨平台MVVM开发框架.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) -  Rx MVVM框架.
-- [Wires ★28](https://github.com/aloisdeniel/Wires) -  Wires是一个简单的绑定库.
+- [Wires ★28](https://github.com/dotnet-ad/Wires) -  Wires是一个简单的绑定库.
 
 
 ## Network
@@ -149,7 +149,7 @@
 - [Flurl ★1,295](https://github.com/tmenier/Flurl) -  Flurl是一个现代的，流畅的，异步的，可测试的，可移植的，充满流行语的URL构建器和HTTP客户端库.
 - [Fusillade ★216](https://github.com/reactiveui/Fusillade) - 一组HttpMessageHandlers，使您的移动应用程序更高效，响应更快.
 - [Messaging ★1](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - 使用默认消息传递应用程序拨打电话，发送短信或发送电子邮件.
-- [ModernHttpClient ★607](https://github.com/paulcbetts/ModernHttpClient) - 使用移动优化的库（NSURLSession / OkHttp）加速HTTP请求.
+- [ModernHttpClient ★642](https://github.com/anaisbetts/ModernHttpClient) - 使用移动优化的库（NSURLSession / OkHttp）加速HTTP请求.
 - [NFC ★14](https://github.com/smstuebe/xamarin-nfc) - 用于阅读NFC标签的Xamarin插件.
 - [Push Notification ★1](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - 简单的跨平台插件，用于处理推送通知事件，例如在Android和iOS上注册，取消注册和消息到达.
 - [Reachability ★25](https://github.com/has-taiar/Reachability.Net) - 在线/离线连接检查.
@@ -161,7 +161,7 @@
 
 ## Reactive
 
-- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - 本机应用程序的异步键值存储.
+- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - An Asynchronous Key-Value Store for Native Applications.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) -  Rx MVVM框架.
 - [Refit ★2,762](https://github.com/reactiveui/refit) -  Refit是一个受Square的Retrofit库启发的图书馆，它将您的REST API变成了一个实时界面.
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - 在Reactive Extensions下提供MVVM和异步支持功能.
@@ -193,7 +193,7 @@
 ## Tools
 
 - [Cheeseknife ★53](https://github.com/MarcelBraghetto/Cheeseknife) -  Xamarin.Android的视图注入库.
-- [GradleBindings ★103](https://github.com/EgorBo/Xamarin.GradleBindings) -  Visual Studio扩展，用于引用Android项目中的gradle libs.
+- [GradleBindings ★103](https://github.com/EgorBo/Xamarin.GradleBindings) -  Visual Studio扩展，用于引用Android项目中的gradle库.
 - [Material icons generator plugin - Xamarin Studio ★14](https://github.com/interisti/xs-material-icons-generator) - 向android项目添加材质图标.
 - [Material icons generator plugin - Visual Studio](https://github.com/interisti/vs-material-icons-generator) - 向android项目添加材质图标.
 - [Mutatio ★18](https://github.com/yuv4ik/Mutatio) - 用于Mac加载项/扩展的Visual Studio，用于将旧PCL自动转换为.NET Standard 2.0定向项目.
@@ -206,15 +206,15 @@
 
 ## UI
 
-- [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - 用于使用密码锁定应用程序的Xamarin组件.
+- [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) -  Xamarin.Forms应用程序的美丽XAML页面.
+- [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) -  Signature Pad使Xamarin.iOS，Xamarin.Android和Windows上的签名捕获，保存，导出和显示非常简单.
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - 用于Xamarin.Forms，Xamarin.iOS和Xamarin.Android应用程序的丰富的UI组件和文件格式库.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) -  Xamarin.Forms的触摸效果.
-- [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) - 用于Xamarin的Telerik UI提供了更多70个控件，可以从单个代码库为iOS，Android和UWP构建具有专业外观的现代移动应用程序.
+- [Telerik UI for Xamarin](https://www.telerik.com/xamarin-ui) - 用于Xamarin的Telerik UI提供了更多70个控件，可以从单个代码库为iOS，Android和UWP构建专业外观的现代移动应用程序.
 - [Showcase View](https://github.com/DigitalSa1nt/Xama.JTPorts.ShowcaseView)   -  _Xamarin.Android_原生展示视图.  易于使用的可自定义的展示案例视图，带有圆形显示动画.
 - [Animated Circle Loading View](https://github.com/DigitalSa1nt/Xama.JTPorts.AnimatedCircleLoadingView) - 确定/不确定加载视图动画.
-
-
+- [Animated Icon Button](https://github.com/HankiDesign/DOFavoriteButton.Xamarin) -  Xamarin.iOS的动画图标按钮.
 
 ## Wearable
 
@@ -230,7 +230,7 @@
 - [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - 在Xamarin.Forms项目中显示圆形图像的简单而优雅的方式.
 - [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - 提供从您的Xamarin.Forms项目访问Windows Phone，iOS和Android上指南针的简单方法.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - 简单的跨平台插件，可与移动设备的屏幕方向配合使用.
-- [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - 在Xamarin.Forms项目中获取设备方向或收到方向更改通知的简单方法.
+- [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - 获取设备方向或在Xamarin.Forms项目中获得方向更改通知的简单方法.
 - [NControl ★243](https://github.com/chrfalch/NControl) -  Xamarin.Forms控制NGraphics.
 - [MvxForms ★8](https://github.com/MobiliTips/MvxPlugins) - 使用Xamarin.Forms的MVVMCross插件.
 - [PullToRefreshLayout ★134](https://github.com/jamesmontemagno/Xamarin.Forms-PullToRefreshLayout) - 在Xamarin.Forms中拉动以刷新ScrollView或ListView.

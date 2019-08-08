@@ -21,7 +21,7 @@
 *（HTML，CSS，JavaScript，SQL）*
 
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
-**用于如何构建网站和应用程序的商业**平台
+**商业**平台，用于如何构建网站和应用程序的课程
 *（网页设计，前端Web开发，Rails，iOS，Android，PHP）*
 
 #### [Learn CSS Layout](https://learnlayout.com/)
@@ -58,7 +58,7 @@
 
 #### [Free Code Camp](https://www.freecodecamp.org/)
  **免费**学习编码并帮助公益组织.  一个开源社区的人，他们学习编码和帮助非营利组织.
-*(HTML, CSS, Javascript, Databases, Git & GitHub, Node.js, React.js, D3.js)*
+*（HTML，CSS，Javascript，数据库，Git和GitHub，Node.js，React.js，D3.js）*
 
 #### [Vertabelo Academy](https://academy.vertabelo.com/)
 **免费** SQL课程，互动练习和测验\
@@ -67,6 +67,14 @@
 #### [GitHub Learning Lab](https://lab.github.com/)
  **免费**自学，互动项目，学习Git和GitHub.  由GitHub的培训团队创建和维护.
 *（Git，GitHub）*
+
+#### [Programming Historian](https://programminghistorian.org/en/lessons/)
+** Free ** Peer回顾了数字人文主义者的入门课程.
+*（Python，R，Unity，QGIS，HTML，正则表达式）*
+
+#### [Software Carpentry](https://software-carpentry.org/lessons/)
+**免费**研究人员的基础编码和数据科学技能.
+*（Python，R，OpenRefine，Unix Shell，Git）*
 
 ## Intermediate
 
@@ -87,7 +95,7 @@
 *（HTML，CSS，JavaScript，Ruby，Rails）*
 
 #### Lynda.com [Developer](https://www.lynda.com/Developer-training-tutorials/50-0.html), [Web](https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html)
-**免费增加**平台，用于网络开发和中级编程的视频课程
+**Freemium** platform for video courses on web development and intermediate programming\
 *（HTML，CSS，JavaScript，编程基础，系统管理......）*
 
 #### [Thinkful](https://www.thinkful.com/)

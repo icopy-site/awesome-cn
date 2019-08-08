@@ -5,7 +5,7 @@
 
 Python [asyncio](https://docs.python.org/3/library/asyncio.html) 使用Python 3.4引入标准库的模块提供了使用协同程序编写单线程并发代码，通过套接字和其他资源多路复用I / O访问，运行网络客户端和服务器以及其他相关原语的基础结构.
 
-Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特别是在Python社区和2016年3月发布的Python 3.4.
+Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特别是在Python社区以及2014年3月发布的Python 3.4.
 因此，很难让自己与最精彩的软件包保持同步.
 在这里找到一些*很棒的*包，如果你错过了一个，我们指望你 [create an Issue or a Pull Request](https://github.com/timofurrer/awesome-asyncio/blob/master/CONTRIBUTING.md) 提出你的建议.
 
@@ -51,7 +51,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - 具有sqlalchemy核心支持的Asyncpg.
 * [aiopg](https://github.com/aio-libs/aiopg/) - 用于访问PostgreSQL数据库的库.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - 用于访问MySQL数据库的库
-* [aioodbc](https://github.com/aio-libs/aioodbc) - 用于访问ODBC数据库的库.
+* [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor](https://github.com/mongodb/motor) -  MongoDB的异步Python驱动程序.
 * [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis客户端（PEP 3156）.
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - 用于Python asyncio的Redis客户端（PEP 3156）.
@@ -121,7 +121,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 
 *记录有关asyncio的精彩演讲.*
 
-* [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) - PyCon Brasil 2015 keynote (David Beazley).
+* [Topics of Interest (Python Asyncio)](https://youtu.be/ZzfHjytDceU) | [screencast](https://youtu.be/lYe8W04ERnY) | [slides](https://speakerdeck.com/dabeaz/topics-of-interest-async) -  PyCon Brasil 2015主题演讲（David Beazley）.
 * [Python Asynchronous I/O Walkthrough](https://www.youtube.com/playlist?list=PLpEcQSRWP2IjVRlTUptdD05kG-UkJynQT) | [blog post](http://pgbovine.net/python-async-io-walkthrough.htm) -  8部分代码演练（Philip Guo）.
 * [Async/await in Python 3.5 and why it is awesome](https://www.youtube.com/watch?v=m28fiN9y_r8&t=132s) -  EuroPython 2016（Yury Selivanov）.
 * [Fear and Awaiting in Async: A Savage Journey to the Heart of the Coroutine Dream](https://www.youtube.com/watch?v=E-1Y4kSsAFc) | [screencast](https://www.youtube.com/watch?v=Bm96RqNGbGo) -  PyOhio 2016主题演讲（David Beazley）.

@@ -201,7 +201,7 @@
 *用于存储和解析配置选项的库.*
 
 * [configobj](https://github.com/DiffSK/configobj) - 带验证的INI文件解析器.
-* [configparser](https://docs.python.org/3/library/configparser.html) - （Python标准库）THIS文件是一个解析器.
+* [configparser](https://docs.python.org/3/library/configparser.html) - （Python标准库）THIS解析器文件.
 * [profig](https://profig.readthedocs.io/en/default/) - 通过价值转换配置多种格式.
 * [python-decouple](https://github.com/henriquebastos/python-decouple) - 严格地将设置与代码分开.
 
@@ -243,7 +243,7 @@
 * [bqplot](https://github.com/bloomberg/bqplot) -  Jupyter笔记本的交互式绘图库
 * [Dash](https://plot.ly/products/dash/) - 建立在Flask之上，React和Plotly针对分析Web应用程序.
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
-* [ggplot](https://github.com/yhat/ggpy) - 与ggplot2相同的API用于R.
+* [plotnine](https://github.com/has2k1/plotnine) - 基于ggplot2的Python图形语法.
 * [Matplotlib](http://matplotlib.org/) -  Python 2D绘图库.
 * [Pygal](http://www.pygal.org/en/latest/) -  Python SVG Charts Creator.
 * [PyGraphviz](https://pypi.org/project/pygraphviz/) -  Python接口 [Graphviz](http://www.graphviz.org/).
@@ -366,7 +366,7 @@
     * [mrjob](https://github.com/Yelp/mrjob) - 在Hadoop或Amazon Web Services上运行MapReduce作业.
     * [Ray](https://github.com/ray-project/ray/) - 用于并行和分布式Python的系统，它统一了机器学习生态系统.
 *流处理
-    * [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 这是Python.
+    * [faust](https://github.com/robinhood/faust) - 流处理库，移植来自的想法 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) - 通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
 
 ## Distribution
@@ -420,7 +420,7 @@
 *崇高的文字
     * [anaconda](https://github.com/DamnWidget/anaconda) -  Anaconda在功能齐全的Python开发IDE中将您的Sublime Text 3变为现实.
     * [SublimeJEDI](https://github.com/srusskih/SublimeJEDI) - 一个令人敬畏的自动完成库Jedi的Sublime Text插件.
-*来到
+我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) - 用于Python的Jedi自动完成库的Vim绑定.
     * [python-mode](https://github.com/python-mode/python-mode) - 用于将Vim转换为Python IDE的一体化插件.
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - 包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.

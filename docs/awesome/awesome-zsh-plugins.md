@@ -297,9 +297,9 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [cmd-architect](https://github.com/psprint/zsh-cmd-architect) - 根据历史记录以及使用多字查询提示，移动，删除，添加命令段和搜索历史记录来构建命令.
 * [colored-man-pages-mod](https://github.com/zuxfoucault/colored-man-pages_mod) - 分叉 [robbyrussell/oh-my-zsh/plugins/colored-man-pages](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh) .  着色`man`输出.
 * [colored-man-pages](https://github.com/ael-code/zsh-colored-man-pages) - 着色`man`页面.
+* [colorize](https://github.com/zpm-zsh/colorize) - 着色各种程序的输出.
 * [colors (Tarrasch)](https://github.com/Tarrasch/zsh-colors)   - 使从CLI中着色文本变得更容易.  `red foo`正常运作.
 * [colors (zpm-zsh)](https://github.com/zpm-zsh/colors) - 增强ZSH的颜色.
-* [colorize](https://github.com/zpm-zsh/colorize) - 着色各种程序的输出.
 * [command-not-found](https://github.com/Tarrasch/zsh-command-not-found) -  oh-my-zsh命令未找到插件的镜像，因此您不必包含所有omz.
 * [command-note](https://github.com/KKRainbow/zsh-command-note.plugin) - 记录复杂的命令并对它们进行评论.
 * [command-time](https://github.com/popstas/zsh-command-time) - 显示ZSH和中的长命令的执行时间 [powerlevel9k](https://github.com/bhilburn/powerlevel9k).
@@ -521,9 +521,9 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [plugin-vscode](https://github.com/wuotr/zsh-plugin-vscode) -  Visual Studio Code插件，macOS，Windows和Linux的文本编辑器.
 * [plugin](https://github.com/darrenbutcher/plugin)   - 从样板模板创建自定义的oh-my-zsh插件.  非常哦-my-zsh为中心，生成的插件需要编辑才能与其他框架一起使用.
 * [poetry](https://github.com/darvid/zsh-poetry) - 自动激活和停用 [Poetry](https://poetry.eustace.io/)- 创建python virtualenvs.
+* [pr-cwd](https://github.com/zpm-zsh/pr-cwd)   - 使用当前工作目录创建全局变量.  插件集成了 [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks).
 * [pr-eol](https://github.com/zpm-zsh/pr-eol) - 显示可以嵌入提示中的EOL符号.
 * [pr-exec-time](https://github.com/zpm-zsh/pr-exec-time) - 添加可用于显示上次命令运行的执行时间的变量.
-* [pr-cwd](https://github.com/zpm-zsh/pr-cwd)   - 使用当前工作目录创建全局变量.  插件集成了 [jocelynmallon/zshmarks](https://github.com/jocelynmallon/zshmarks).
 * [pr-git](https://github.com/zpm-zsh/pr-git) - 使用可在提示中显示的`git`状态信息创建全局变量.
 * [pr-is-root](https://github.com/zpm-zsh/pr-is-root) - 设置以root用户身份运行时可在自定义提示中使用的环境变量.
 * [pr-jobs](https://github.com/zpm-zsh/pr-jobs) - 创建一个环境变量，可用于在自定义提示中显示后台作业信息.
@@ -670,8 +670,8 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [antibody-completion](https://github.com/sinetoami/antibody-completion) - 此插件提供完成 [Antibody](https://github.com/getantibody/antibody) 插件管理器.
 * [appspec](https://github.com/perlpunk/App-AppSpec-p5) - 根据YAML规范为Bash和ZSH生成完成
 * [autopkg-zsh-completion](https://github.com/fuzzylogiq/autopkg-zsh-completion) -  autopkg的完成.
-* [aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) - 为aws_manager CLI添加完成.
 * [aws-plugin](https://github.com/eastokes/aws-plugin-zsh) - 为`awscli`添加完成支持，以管理AWS配置文件/区域并在提示中显示它们.
+* [aws_manager_plugin](https://github.com/EslamElHusseiny/aws_manager_plugin) - 为aws_manager CLI添加完成.
 * [berkshelf-zsh-plugin](https://github.com/berkshelf/berkshelf-zsh-plugin) - 为berkshelf添加标签完成.
 * [better-npm-completion](https://github.com/lukechilds/zsh-better-npm-completion) - 更好的标签完成`npm`.
 * [bosh-zsh-autocompletion](https://github.com/krujos/bosh-zsh-autocompletion) - 添加BOSH自动完成功能.

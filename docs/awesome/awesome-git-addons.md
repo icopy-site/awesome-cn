@@ -64,7 +64,7 @@ $ git努力
 
   .gitattributes ............................... 3 3
   .gitignore ................................... 265 226
-  .mail文件夹................................... 47 47
+  .mailmap ..................................... 47 40
 ```
 
 ### authors
@@ -171,7 +171,7 @@ $ git fresh-branch docs
 ```
 $ git guilt`git log --until =“3周前”--format =“％H”-n 1` HEAD
 保罗·施雷伯+++++++++++++++++++++++++++++++++++++++++++++（349）
-spacewander ++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++
+spacewander +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ ++
 Mark Eissler ++++++++++++++++++++++++++++++++++
 ```
 
@@ -362,7 +362,7 @@ $ git功能完成依赖项
 ```
 $ git local-commits
 提交5f00a3c1bb71876ebdca059fac96b7185dea5467
-合并：7ad3ef9 841af4e
+去：7ad3ef9 841af4e
 作者：Blaine Bublitz <blaine@iceddev.com>
 日期：2015年8月20日星期四11:35:15 -0700
 
@@ -398,7 +398,7 @@ $ git缺少大师
 ### lock
 
 ```
-$ config lock / database.yml lock
+$ git lock config / database.yml
 ```
 
 ### locked
@@ -411,7 +411,7 @@ config/database.yml
 ### unlock
 
 ```
-$ un config / database.yml git
+$ git unlock config / database.yml
 ```
 
 ### reset-file
@@ -569,7 +569,7 @@ $ git remote add origin
 
 ```
 $ git fetch mislav
-&gt; git remote add mislev git：//github.com/mislav/REPO.git
+&gt; git remote add mislav git：//github.com/mislav/REPO.git
 &gt; git fetch mislav
 
 $ git fetch mislav，xoebus
@@ -582,14 +582,14 @@ $ git fetch mislav，xoebus
 
 ```
 $ git cherry-pick https://github.com/mislav/REPO/commit/SHA
-&gt; git remote add -f --no-tags match：//github.com/mislav/REPO.git
+&gt; git remote add -f --no-tags mislav git：//github.com/mislav/REPO.git
 &gt; git cherry-pick SHA
 
-$ git cherry-pick mislav @ sha
+$ git cherry-pick mislav @ SHA
 &gt; git remote add -f --no-tags mislav git：//github.com/mislav/CURRENT_REPO.git
 &gt; git cherry-pick SHA
 
-$ git cherry-pick mislav @ sha
+$ git cherry-pick mislav @ SHA
 &gt; git fetch mislav
 &gt; git cherry-pick SHA
 ```
@@ -641,7 +641,7 @@ $ git checkout https://github.com/github/hub/pull/73
 ### merge
 
 ```
-$ git去https://github.com/github/hub/pull/73
+$ git转到https://github.com/github/hub/pull/73
 &gt; git fetch git：//github.com/mislav/hub.git + refs / heads / feature：refs / remotes / mislav / feature
 > git merge mislav/feature --no-ff -m 'Merge pull request #73 from mislav/feature...'
 ```
@@ -785,7 +785,7 @@ $ git imerge继续
 ### imerge finish
 
 ```
-$ git imerge完成
+完成$ git imerge
 之前的HEAD位置是fcbe161 ... imerge&#39;next&#39;：自动合并19-57
 切换到分支&#39;下一步&#39;
 [next 23362e6]将4.0合并为master（使用imerge）
@@ -839,7 +839,7 @@ $ git imerge autofill
 ### imerge simplify
 
 ```
-$ git imerge简化
+简化$ git imerge
 之前的HEAD位置是4d19598 ... imerge&#39;next&#39;：自动合并20-57
 切换到分支&#39;下一步&#39;
 [next 6c308aa]将4.0合并为master（使用imerge）
@@ -1370,7 +1370,7 @@ $ git墨水
     - 工作但不提供任何收益
 •hbsfy ................................................ 2015-10-21
 ✓主人................................................ 2015年10月22日
-•有ads4 .................................................. 2015年10月22日
+•ads4 .............................................. 2015年10月22日
 •remove-equalize_content_height ........................ 2015-10-21
 •移除 - 驱除....................................... 2015-10-21
     - 需要干燥驱除功能
@@ -1475,7 +1475,7 @@ $ git fire
 
 ## [git-town](https://github.com/Originate/git-town)
 
-TBD
+待定 - 公关欢迎！
 
 
 ## [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
@@ -1557,7 +1557,7 @@ gpg：gpg-agent在此会话中不可用
 
 &gt;防止您将密码和其他敏感信息提交给git存储库.
 
-TBD
+待定 - 公关欢迎！
 
 
 ## [git-fixup](https://github.com/keis/git-fixup)
@@ -1655,12 +1655,12 @@ $ git用户
 
 ## [gitsome](https://github.com/donnemartin/gitsome)
 
-TBD
+待定 - 公关欢迎！
 
 
 ## [git-hound](https://github.com/ezekg/git-hound)
 
-TBD
+待定 - 公关欢迎！
 
 
 ## [git-recall](https://github.com/Fakerr/git-recall)
@@ -1722,7 +1722,7 @@ cz-cli@2.9.6, cz-conventional-changelog@1.2.0
 
 ## [git-fresh](https://github.com/imsky/git-fresh)
 
-TBD
+待定 - 公关欢迎！
 
 ## [git-fs](https://github.com/freddi301/git-fs)
 
@@ -1760,7 +1760,7 @@ gitu://ŪĪАϔEäḝЃȣϟṈӛŀї
 $ git url -q -p lib/common.sh	# -q - quiet, -p - path
 gitu://eḶȸṋ0oǗȟЗÛjȩMżEäḝЃȣϟṈӛŀї
 
-$ git url //eḶȸṋ0oǗȟZûjȩMıEäḝħöbass
+$ git url //eḶȸṋ0oǗȟZÛjȩMżEäḝЃȣϟṈӛŀі
 解码... OUTPUT是：
 
 协议：https
@@ -1775,7 +1775,7 @@ https://github.com/zdharma/git-url
 ### git guclone
 
 ```
-$ git guclone ghosts
+$ git guclone
 克隆URL https://github.com/zdharma/git-url用于修订版v1.0
 
 克隆到&#39;git-url&#39;......
@@ -1869,6 +1869,11 @@ home
 $ git profile使用工作
 ```
 目前，如果成功，将没有输出
+
+## [git-revise](https://github.com/mystor/git-revise)
+
+待定 - 公关欢迎！
+
 
 ## License
 

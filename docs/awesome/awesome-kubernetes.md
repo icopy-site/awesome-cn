@@ -284,6 +284,7 @@ Installers
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
+  - [Okteto](https://github.com/okteto/okteto)   - 直接在任何Kubernetes集群中开发.  不需要提交，构建或推送.
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
@@ -480,11 +481,11 @@ Projects
 * [BotKube](https://github.com/infracloudio/botkube) - 可帮助您监控Kubernetes集群，调试关键部署并为标准实践提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://instana.com)
-* [kail](https://github.com/boz/kail) - Kubernetes Log Viewer. Streams logs from all containers of all matching pods.
+* [kail](https://github.com/boz/kail)   -  Kubernetes日志查看器.  Streams从所有匹配pod的所有容器中记录.
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -  **不推荐使用的**存储库已存档且只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
@@ -626,7 +627,7 @@ Projects
 * [Apache Ignite](https://apacheignite.readme.io/docs/kubernetes-deployment) - 以内存为中心的分布式数据库，缓存，处理平台
 * [Cassandra / DataStax](http://blog.kubernetes.io/2016/07/thousand-instances-of-cassandra-using-kubernetes-pet-set.html)
 * [CockroachDB](http://www.cockroachlabs.com/blog/running-cockroachdb-on-kubernetes/)
-* [Crate](http://crate.io/docs/scale/kubernetes/)
+* [CrateDB](https://crate.io/docs/crate/guide/en/latest/deployment/containers/kubernetes.html)
 * [Hazelcast](http://ppires.wordpress.com/2014/12/24/clustering-hazelcast-on-kubernetes/)
 * [Minio](http://minio.io)
 * [MongoDB](http://www.mongodb.com/blog/post/running-mongodb-as-a-microservice-with-docker-and-kubernetes)
@@ -644,7 +645,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - 通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
+* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)

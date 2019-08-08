@@ -50,7 +50,6 @@
 	6. [Unit Test](#Unit-Test)   
 11. [Tools](#Tools) 
 	1. [Verification](#Verification)   
-	2. [Generation](#Generation)   
 12. [Libraries](#Libraries)   
 	1. [Math](#Math)   
 	2. [Algorithms, Containers and Protocols](#Algorithms-Containers-and-Protocols)   
@@ -110,7 +109,7 @@
 
 #### Online books
 - [ada-wikibook](https://en.wikibooks.org/wiki/Ada_Programming) -  Wikibooks上的Ada编程书.
-- [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -  Ada Distilled for Ada 2005.
+- [ada-distilled](http://www.adaic.org/wp-content/uploads/2010/05/Ada-Distilled-24-January-2011-Ada-2005-Version.pdf) -  Ada 2005有Distilled.
 - [ada-craft](https://www.adaic.org/resources/add_content/docs/craft/html/contents.htm) -  Ada 95：面向对象编程的工艺.
 - [ada-cpp-java](https://learn.adacore.com/books/Ada_For_The_CPP_Java_Developer/index.html) -  Ada for C ++或Java Developer.
 - [spark-guidance](https://www.adacore.com/books/implementation-guidance-spark) - 采用SPARK的实施指南.
@@ -165,7 +164,7 @@
 - [object-ada](https://www.ptc.com/en/products/developer-tools/objectada) -  PTC ObjectAda是一系列广泛的本机和交叉开发工具和运行时环境.
 - [apex-ada](https://www.ptc.com/en/products/developer-tools/apexada) -  PTC ApexAda是业界最受欢迎的Ada和混合Ada / C / C ++应用程序开发环境之一.
 - [greenhills-ada](https://www.ghs.com/products/ada_optimizing_compilers.html) -  Green Hills Software提供业界首个经过全面验证的Ada Cross Compilers系列，用于实时目标.
-- [hac](https://sourceforge.net/projects/hacadacompiler/) - 实验在那里有一个完整的编译器.
+- [hac](https://sourceforge.net/projects/hacadacompiler/) - 实验有一个完全编译器.
 - [byron](https://github.com/OneWingedShark/Byron) -  Byron项目是一个社区驱动的Ada编译器，工具链和IDE系统.
 
 #### Online
@@ -272,7 +271,7 @@
 #### Unit Test
 - [ahven](http://ahven.stronglytyped.org/) -  Ahven是一个简单的单元测试库和Ada编程框架.
  lanugage.  它是在JUnit和AUnit的一些想法之后松散建模的.
-- [aunit](http://libre.adacore.com/tools/aunit/) - 有一个框架单元测试.
+- [aunit](http://libre.adacore.com/tools/aunit/) - 有一个单元测试框架.
 - [testing](https://github.com/Entomy/Testing) -  Ada单元测试和测量框架.
 - [gnatbdd](https://github.com/briot/gnatbdd) -  Ada中的行为驱动开发.
 
@@ -295,6 +294,9 @@
 - [fmt](http://www.inspirel.com/fmt/)   -  Formal Methods Toolkit是Mathematica的一组扩展包，支持软件.  与建模，验证和Ada代码生成相关的工程活动.
 - [automate](https://github.com/Blady-Com/Automate) - 有限状态机发生器.
 - [ajunitgen](https://github.com/mosteo/ajunitgen) - 在Ada中生成与JUnit兼容的XML报告.
+
+#### UML
+- [AdaML](https://github.com/rocher/AdaML) -  Ada定制的UML建模语言.
 
 ## Libraries
 
@@ -359,7 +361,7 @@
 - [gela](https://github.com/reznikmm/gela) - 有一个代码分析器.
 - [anagram](https://github.com/reznikmm/anagram) - 语法处理和解析器生成Ada库.
 - [ada-pretty](https://github.com/reznikmm/ada-pretty) -  Ada的漂亮打印库.
-- [increment](https://github.com/reznikmm/increment) -  Ada中的增量分析.
+- [increment](https://github.com/reznikmm/increment) - 是的增量分析.
 - [ada-lexer](http://www.christ-usch-grein.homepage.t-online.de/Ada/Lexer.html) - 用Ada编写的词法分析器，它将表示Ada程序的字符流转换为特定于语言的标记流.
 - [parse-args](https://github.com/jhumphry/parse_args) - 简单的命令行参数解析.
 - [aforth](https://github.com/samueltardieu/aforth) - 用Ada编写的Embeddable Forth解释器.
@@ -507,7 +509,7 @@
 - [florist](https://www.cs.fsu.edu/~baker/florist.html) -  POSIX Ada绑定，IEEE标准1003.5（b，c）.
 - [sdlada](https://github.com/Lucretia/sdlada) -  Ada 2012绑定到SDL 2.
 - [pcsc-ada](http://www.codelabs.ch/pcscada)   -  PCSC / Ada为PC / SC中间件提供了厚厚的Ada绑定.  该库允许用Ada编写的程序使用SCard API与智能卡通信.
-- [ada-lua](https://github.com/AdaCore/ada-lua) - 对Lua有约束力.
+- [ada-lua](https://github.com/AdaCore/ada-lua) -  Lua有绑定.
 - [ada-base](http://jrmarino.github.io/AdaBase/) - 用Ada编写的MySQL，PostgreSQL和SQLite的厚数据库绑定.
 - [apq-base](http://www.ravenports.com/catalog/bucket_F2/apq-base/standard/) -  APQ是一个用Ada95编写的数据库接口库.
 - [cuda-ada](https://codelabs.ch/cuda-ada/index.html) -  CUDA / Ada是一个绑定NVIDIA的CUDA并行计算平台和编程模型的Ada.
@@ -520,13 +522,13 @@
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - 与NanoVG绑定.
 - [ada-soundio](https://github.com/raph-amiard/ada-soundio) -  libsoundio有绑定.
 - [win32ada](https://github.com/AdaCore/win32ada) -  Windows库有一个API.
-- [wposix](https://github.com/AdaCore/wposix) - 有一个Windows POSIX绑定.
+- [wposix](https://github.com/AdaCore/wposix) - 有Windows POSIX绑定.
 - [lalg](https://github.com/jhumphry/LALG) - 与密集线性代数包的接口.
 - [zeromq-ada](https://github.com/persan/zeromq-Ada.git) - 绑定到ZeroMQ comunications-library.    
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - 用于Microsft NetFramework Api的Ada绑定.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - 用于Microsft NetFramework Api的Ada绑定（NetFrameworkCore上的包装）.
-- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -  Microsft WinRT Api有绑定.
-- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - 有Microsoft Win32 Fire的绑定.
+- [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -  Microsft WinRT Fire有绑定.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -  Microsoft Win32 API有绑定.
 - [adasockets](https://github.com/samueltardieu/adasockets) -  IPv4套接字库（TCP，UDP和多播）.
 - [areadline](https://github.com/samueltardieu/areadline) - 读取线库的Ada接口.
 - [oto](https://github.com/darkestkhan/oto) -  Ada绑定到OpenAL，尝试在使用Ada类型时模仿原始API.

@@ -86,7 +86,7 @@
 - [Alpha](https://github.com/farjump/raspberry-pi) - 使用GDB与此系统级GDB服务器远程加载，调试和测试裸机程序.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) -  macOS应用程序，可以轻松地将图像安装/备份/恢复到SD卡上.
 - [CusDeb](https://cusdeb.com/en/) - 用于创建安装了特定包的自定义映像的Web UI.
-- [Etcher](https://www.etcher.io/) -  SD卡刻录机应用程序，对最终用户来说简单，可扩展到开发人员，并可在任何平台上运行.
+- [balenaEtcher](https://www.balena.io/etcher/) -  SD卡刻录机应用程序，对最终用户来说简单，可扩展到开发人员，并可在任何平台上运行.
 - [HealthyPi](https://github.com/Protocentral/HealthyPi) -  HAT包括重要的健康监测，如心电图，呼吸，脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) -  8MB的Wifi AP +客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/)，使用REST API同时控制wifi客户端和站点模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 设置Pi Zero以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
@@ -175,7 +175,7 @@
 -  **家用遥控器**  - 控制鼠标/键盘，音量，管理下载/上传文件，自定义命令，终端，将来执行任务，控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 -  ** Kore Remote **  - 控制Kodi的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
 - **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
--  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表（m3u，pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+-  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表中的流（m3u，pls）. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 -  **屏幕流镜像**  - 直接将手机屏幕流式传输到Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 -  ** Termius **  -  Pi最干净的SSH客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 -  ** Tubio **  - 直接将网络视频投射到Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)

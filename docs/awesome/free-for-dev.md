@@ -48,7 +48,7 @@
     *应用服务 -  10个网络，移动或API应用
     *功能 - 每月100万个请求
     * DevTest Labs  - 实现快速，简单和精简的开发测试环境
-    * Active Directory  -  500,000个对象
+    * Active Directory - 500,000 objects
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
     * Microsoft IoT Hub  - 每天8,000条消息
@@ -129,7 +129,7 @@
   * [typetalk.com](https://www.typetalk.com/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
   * [talky.io](https://talky.io/)   - 免费群聊视频.  匿名.  点对点.  无需插件，注册或付款
   * [helplightning.com](https://www.helplightning.com/)   - 通过增强现实帮助视频.  免费，无需分析，加密，支持
-  * [evernote.com](https://evernote.com/)   - 组织信息的工具.  分享您的笔记并与他人一起工作
+  * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
@@ -223,12 +223,13 @@
   * [bitninja.io](https://bitninja.io/) - 通过黑名单保护僵尸网络，免费计划仅报告每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) - 身份即服务（IDaaS），单点登录身份提供商，云SSO IdP，3个公司应用和5个个人应用，无限用户
   * [logintc.com](https://www.logintc.com/) - 推送通知的双因素身份验证（2FA），10个用户免费，VPN，网站和SSH
-  * [report-uri.io](https://report-uri.io/) — CSP and HPKP violation reporting
+  * [report-uri.io](https://report-uri.io/) -  CSP和HPKP违规报告
   * [cloudsploit.com](https://cloudsploit.com/) - 亚马逊网络服务（AWS）安全和合规性审计和监控
   * [Have I been pwned?](https://haveibeenpwned.com) - 用于获取有关违规信息的REST API.
   * [Internet.nl](https://internet.nl) - 测试现代互联网标准，如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
   * [Mozilla Observatory](https://observatory.mozilla.org/) - 查找并修复站点中的安全漏洞.
   * [Shieldfy](https://shieldfy.io) - 面向开发人员的Web应用程序防火墙和漏洞检测，每月免费计划多达10万个请求.
+  * [Sqreen](https://www.sqreen.com/)   -  Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用程序和300万个请求.
 
 ## Management System
 
@@ -249,7 +250,7 @@
 
 ## Translation Management
 
-  * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
+  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
@@ -316,7 +317,7 @@
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
   * [mailjet.com](https://www.mailjet.com/) - 每月6,000封电子邮件免费
   * [sendinblue.com](https://www.sendinblue.com/) - 每月9,000封电子邮件免费
-  * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
+  * [mailtrap.io](https://mailtrap.io/) - 用于开发的虚假SMTP服务器，包含1个收件箱的免费计划，50条消息，没有团队成员，2封电子邮件/秒，没有转发规则
   * [zoho.com](https://www.zoho.com/mail/) - 最多25个用户的免费电子邮件管理和协作
   * [Yandex.Connect](https://connect.yandex.com/pdd/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
   * [moosend.com](https://moosend.com/)   - 邮件列表管理服务.  创业公司免费开户6个月
@@ -429,7 +430,7 @@
   * [cloudns.net](https://www.cloudns.net/) - 免费DNS托管最多3个域，无限记录
   * [ns1.com](https://ns1.com/) - 数据驱动的DNS，自动流量管理，100万个免费查询
   * [zonewatcher.com](https://zonewatcher.com)   - 自动备份和DNS更改监控.  1个域名免费
-  * [namecheap.com](https://www.namecheap.com/domains/freedns/) — Free DNS. No limit on number of domains
+  * [namecheap.com](https://www.namecheap.com/domains/freedns/)   - 免费DNS.  域名数量没有限制
   * [dynu.com](https://www.dynu.com/) - 免费的动态DNS服务
   * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
   * [freenom.com](https://freenom.com/)   - 免费域名提供商.  免费获取FQDN.
@@ -493,7 +494,7 @@
    * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
+   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
@@ -566,7 +567,7 @@
 ## Package Build System
 
    * [build.opensuse.org](https://build.opensuse.org/) - 多个发行版的包构建服务（SUSE，EL，Fedora，Debian等）
-   * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) — Mock-based RPM build service for Fedora and EL
+   * [copr.fedorainfracloud.org](https://copr.fedorainfracloud.org) - 针对Fedora和EL的基于模拟的RPM构建服务
    * [help.launchpad.net](https://help.launchpad.net/Packaging) -  Ubuntu和Debian构建服务
 
 ## IDE and Code Editing
@@ -597,7 +598,7 @@
    * [heap.io](https://heap.io)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
    * [sematext.com](https://sematext.com/cloud/) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
    * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限的测试
-   * [mixpanel.com](https://mixpanel.com/) — Free 25,000 points or 200,000 with their badge on your site
+   * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费
    * [metrica.yandex.com](https://metrica.yandex.com/) - 无限制的免费分析
@@ -643,7 +644,7 @@
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
   * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制
-  * [screenshotlayer.com](https://screenshotlayer.com/)   - 捕获任何网站的高度可定制的快照.  每月免费100次快照
+  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
   * [screenshotmachine.com](https://www.screenshotmachine.com/) - 捕获100个快照/月，png，gif和jpg，包括全长捕获，而不仅仅是主页
   * [readme.com](https://readme.com/) - 开源的免费文档很简单：参见 [here](https://readme.readme.io/docs/open-source).
   * [formaholic.com](https://formaholic.com)   - 简单的表单端点.  非常适合静态网站
