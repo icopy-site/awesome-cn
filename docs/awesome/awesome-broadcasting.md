@@ -3,7 +3,7 @@
 为广播公司制作精彩的开源资源的精选列表.
 
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 ## Codecs
 
 * [FLAC](https://www.xiph.org/flac/) - 免费无损音频编码，由一些广播公司用于音频交换，存储.
@@ -22,7 +22,7 @@
 
 ## Connected TVs
 
-* [Cross-Platform Authentication](http://ebu.io/project/cpa) -  CPA提供了一个开放标准，用于将任何媒体设备与在线身份相关联.
+* [Cross-Platform Authentication](https://ebu.io/project/cpa) -  CPA提供了一个开放标准，用于将任何媒体设备与在线身份相关联.
 * [HbbPlayer](https://github.com/Samsung/HbbPlayer) - 符合HbbTV和W3C规范的应用程序，可以从URL播放媒体.
 * [TAL](http://bbc.github.io/tal/) - 电视应用层（TAL）是一个开源库，用于构建连接电视设备的应用程序.
 
@@ -48,18 +48,18 @@
 
 ## Animation, Graphics & Video Playout
 
-* [Aurena](https://github.com/thaytan/aurena) - A network distributed media playback system.
+* [Aurena](https://github.com/thaytan/aurena) - 网络分布式媒体播放系统.
 * [Blender](https://developer.blender.org/diffusion/) - 支持3D建模，动画，动作跟踪，视频编辑等的3D创作套件.
 * [CasparCG](http://www.casparcg.com/) - 专业的图形和视频播出软件，自2006年以来在24/7广播中得到验证.
-* [i-Score](http://i-score.org/) - 免费的开源中间媒体音序器.
 * [Macadam](https://github.com/Streampunk/macadam) - 支持HTML / CSS的Blackmagic Node.js绑定（通过 [Electron](https://electronjs.org/)）和SVG（通过 [Sevruga](https://github.com/Streampunk/sevruga)）图形.
 * [Open Playout Automation](https://github.com/jaskie/PlayoutAutomation) - 基于CasparCG的MCR播放系统.
+* [ossia](https://ossia.io/) - 免费的开源中间媒体音序器.
 * [Sofie - TV Automation](https://github.com/nrkno/Sofie-TV-automation) - 用于新闻广播的MOS驱动自动化系统，具有许多用于例如设备控制的库.
 
 ## Hybrid Radio
 
 * [RadioDNS for Node.js](https://github.com/bbc/node-radiodns) - 在node.js中执行RadioDNS解析和服务查找.
-* [RadioDNS Manager](https://github.com/ebu/radiodns-plugit) - 管理混合无线电服务的平台，例如RadioVIS，RadioEPG和Service Follow.
+* [RadioDNS Manager](https://github.com/ebu/radiodns-manager) - 管理混合无线电服务的平台，例如RadioVIS，RadioEPG和Service Follow.
 * [RadioTag.js](https://github.com/ebu/radiotag.js) -  JavaScript中的RadioTag客户端库.
 * [RadioVIS Demo](https://github.com/bbc/RadioVisDemo) -  Python中的RadioVIS客户端应用程序.
 * [RadioVIS Html Player](https://github.com/ebu/radiovis-html5player) - 使用WebSocket的RadioVIS播放器.
@@ -68,35 +68,36 @@
 ## LiveIP
 *音频/视频IP和流媒体*
 
-* [butt](https://danielnoethen.de/) - broadcast using this tool (butt) is an easy to use, multi OS streaming tool. It supports SHOUTcast and Icecast.
+* [butt](https://danielnoethen.de/)   - 使用此工具（butt）进行广播是一种易于使用的多操作系统流媒体工具.  它支持SHOUTcast和Icecast.
 * [Cool Mic](https://coolmic.net/) -  Android音频直播Icecast源客户端应用.
 * [DarkIce](http://www.darkice.org/) - 从音频接口记录和编码的实时音频流，并发送到流服务器.
 * [Icecast](http://icecast.org/) - 支持Ogg（Vorbis和Theora），Opus，WebM和MP3的流媒体（音频/视频）服务器.
-* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）的IP音频贡献.
+* [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - 在瑞典成立的一个项目，旨在发布专业无线电广播的开源软件.
+* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）进行IP音频贡献.
 * [OpenOB](https://jamesharrison.github.io/openob/) - 基于Opus的无线电贡献链接和演播室 - 发射机链接的开放式外部广播项目.
-* [PJSIP](http://www.pjsip.org/) - 开源多媒体库，实现SIP，SDP，RTP，STUN，TURN和ICE.
+* [PJSIP](https://www.pjsip.org/) - 开源多媒体库，实现SIP，SDP，RTP，STUN，TURN和ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - 用于从Linux广播实时音频的简单工具集.
 
 ## Media Players
 
 * [Dash.js](https://github.com/ebu/dash.js) - 通过Javascript和兼容浏览器播放MPEG DASH的参考客户端实现.
-* [GPAC](http://gpac.wp.mines-telecom.fr/home/) - 多媒体播放器，打包器和工具.
+* [GPAC](https://gpac.wp.imt.fr/home/) - 多媒体播放器，打包器和工具.
 * [IDJC](http://idjc.sourceforge.net/) - 拥有两个主要媒体播放器的GTK + Shoutcast / Icecast客户端.
 * [Kodi](https://github.com/xbmc/xbmc) - 用于数字媒体的软件媒体播放器和娱乐中心.
 * [Media4DPlayer](https://github.com/ebu/media4Dplayer) -  HTML5播放器专注于可访问性.
 * [MPD](https://www.musicpd.org/) - 用于播放音乐的灵活，强大的服务器端应用程序.
 * [mpg123](https://www.mpg123.de/) - 快速控制台MPEG音频播放器和解码器库.
 * [Mixxx](https://www.mixxx.org/) - 免费的开源DJ软件.
-* [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - 基于浏览器的音频波形可视化.
+* [Peaks.js](https://waveform.prototyping.bbc.co.uk/) - 基于浏览器的音频波形可视化.
 * [rx-player](https://github.com/canalplus/rx-player) - 支持MPEG-DASH和SmoothStreaming的HTML5 / Javascript视频播放器.
 * [VLC](http://www.vlc.org) - 简单，快速和强大的媒体播放器.
 
 ## Metadata
 
-* [BMXlib](http://sourceforge.net/projects/bmxlib/)   - 用于读取和写入广播媒体文件的库和实用程序.  主要支持MXF文件格式.
+* [BMXlib](https://sourceforge.net/projects/bmxlib/)   - 用于读取和写入广播媒体文件的库和实用程序.  主要支持MXF文件格式.
 * [EBUCore](https://github.com/ebu/ebucore) -  Github用于维护 [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) -  Python中的NMOS注册和发现以及设备连接管理.
-* [jebu-core](https://github.com/mikrosimage/jebu-core) -  Java端口 [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU核心元数据，包括 [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
+* [jebu-core](https://github.com/mikrosimage/jebu-core) -  Java端口 [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU核心元数据，包括 [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm](https://github.com/irt-open-source/libadm) - 处理C ++ 11库的音频定义模型（ITU-R BS.2076）.
 * [MAJ API](https://github.com/AMWA-TV/maj) - 用于读写MXF和AAF文件的纯Java库.
 * [NMOS](https://github.com/sony/nmos-cpp) - 用C ++编写的NMOS（网络媒体开放规范）注册表和节点（IS-04，IS-05）.
@@ -108,12 +109,12 @@
 * [BeaqleJS](https://github.com/HSU-ANT/beaqlejs) - 为主观音频质量评估创建基于浏览器的听力测试的框架.
 * [Jack Meter](https://github.com/njh/jackmeter) - 用于JACK的基于文本控制台的DPM（数字峰值仪表）.
 * [JACK Meterbridge](http://plugin.org.uk/meterbridge/) -  JACK的图形音频表的集合（弹道可能不正确）.
-* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/index.html) -  JACK图形音频表的集合，包括VU，PPM和 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度米.
+* [Jmeters](http://kokkinizita.linuxaudio.org/linuxaudio/downloads/index.html) -  JACK图形音频表的集合，包括VU，PPM和 [EBU R 128](https://tech.ebu.ch/publications/r128) 响度米.
 * [LTC-tools](https://github.com/x42/ltc-tools) - 处理线性时间码（LTC）并转换为MIDI时间码（MTC）的工具集合.
-* [MediaConch](https://mediaarea.net/MediaConch/) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
+* [MediaConch](https://mediaarea.net/MediaConch) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 方便地统一显示视频和音频文件的最相关技术和标签数据.
-* [MXF Inspect](http://www.myriadbits.com/) - 用于显示MXF（Material eXchange Format）文件内部结构的Windows工具.
-* [Pi Audio Monitor](https://github.com/martim01/pam) -  Raspberry Pi的音频监控，支持S / PDIF，AES3，AES67，Livewire和Ravenna.
+* [MXF Inspect](https://www.myriadbits.com/) - 用于显示MXF（Material eXchange Format）文件内部结构的Windows工具.
+* [Pi Audio Monitor](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
 * [Photon](https://github.com/Netflix/photon) - 实施SMPTE互操作主模式（IMF）标准.
 * [QCTools](https://github.com/bavc/qctools) - 用于视频保存的质量控制工具，用于分析数字化视频文件.
 * [Rotter](https://github.com/njh/rotter) - 记录JACK的传输/音频记录器.
@@ -138,58 +139,58 @@
 * [L-SMASH](https://github.com/l-smash/l-smash/) - 严格符合规范的ISOBMFF库，具有完整的DASH多路复用支持.
 * [LibAV](https://libav.org/) - 开源音频和视频处理工具.
 * [libbw64](https://github.com/irt-open-source/libbw64) - 仅标题广播Wave 64（ITU-R BS.2088）C ++ 11库.
-* [Libebur128](http://github.com/jiixyj/libebur128) - 实现响度归一化的EBU R 128标准的库.
+* [Libebur128](https://github.com/jiixyj/libebur128) - 实现响度归一化的EBU R 128标准的库.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - 一组用于分析，可视化和校正响度的应用程序.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - 用于在浏览器（和NodeJS）中处理MP4文件的JavaScript库.
-* [MXFLib](http://sourceforge.net/projects/mxflib) - 用于读取和写入MXF文件的多平台C ++库.
-* [OBS-Studio](https://github.com/jp9000/obs-studio) - 用于直播和屏幕录制的软件.
+* [MXFLib](https://sourceforge.net/projects/mxflib/) - 用于读取和写入MXF文件的多平台C ++库.
+* [OBS-Studio](https://github.com/obsproject/obs-studio) - 用于直播和屏幕录制的软件.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - 从开源组件构建的广播编码器.
 * [rgain](https://bitbucket.org/fk/rgain) - 工具和Python库，用于读取，写入和计算Replay Gain.
 * [rtmp](https://github.com/c-bata/rtmp) - 在Go中服务器实现Adobe的RTMP 1.0协议.
 * [Snowmix](https://sourceforge.net/projects/snowmix/) - 现场视频混音器.
 * [SoX](http://sox.sourceforge.net/) - 瑞士军刀的声音处理程序.
-* [TuttleOFX](http://www.tuttleofx.org/) - 基于OpenFX插件标准的开源图像处理框架.
+* [TuttleOFX](https://github.com/tuttleofx/TuttleOFX) - 基于OpenFX插件标准的开源图像处理框架.
 * [UPipe](https://github.com/cmassiot/upipe/) - 主要设计为多媒体播放器，转码器或流光的核心.
 * [VideoContext](https://github.com/bbc/videocontext) - 用于创建交互式和响应式网络视频的实验性HTML5 / WebGL库.
 * [Voctomix](https://github.com/voc/voctomix) - 基于Python和GStreamer的可定制会议录制/混音/流媒体软件.
 
 ## Network & Storage Testing
 
-* [BBC Media Storage Meter](http://sourceforge.net/projects/msmeter/) - 用于测试网络附加（专业媒体）存储的应用程序.
+* [BBC Media Storage Meter](https://sourceforge.net/projects/msmeter/) - 用于测试网络附加（专业媒体）存储的应用程序.
 * [Fio](https://github.com/axboe/fio) - 灵活的I / O测试仪
 * [iPerf3](https://iperf.fr/) -  TCP，UDP和SCTP网络带宽测量工具.
 * [SMPTE 2110-20 Analyzer](https://github.com/ebu/smpte2110-analyzer) - 分析器检查根据SMPTE ST 2110生成的网络数据包.
 
 ## Radio Production
 
-* [Airtime](https://www.sourcefabric.org/en/airtime/) - 远程广播自动化的无线电管理应用（通过基于网络的时间表）.
+* [Airtime](https://github.com/sourcefabric/airtime) - 远程广播自动化的无线电管理应用（通过基于网络的时间表）.
 * [Ardour](https://ardour.org/) - 数字音频工作站.
-* [Audacity](http://audacity.sourceforge.net/) - 用于录制和编辑声音的跨平台软件.
-* [AzuraCast](http://github.com/AzuraCast/AzuraCast) - 自托管网络电台管理套件.
+* [Audacity](https://www.audacityteam.org/) - 用于录制和编辑声音的跨平台软件.
+* [AzuraCast](https://github.com/AzuraCast/AzuraCast) - 自托管网络电台管理套件.
 * [LibreTime](http://libretime.org/) - 无线电广播和自动化平台（Airtime分支）.
-* [Liquidsoap](https://github.com/savonet/liquidsoap) - 用于多媒体流的瑞士军刀（[documentation](http://liquidsoap.fm/index.html)).
+* [Liquidsoap](https://github.com/savonet/liquidsoap) - 用于多媒体流的瑞士军刀（[documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) 开源LPFM IPTV广播自动化. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - 用于管理和浏览音频存档的ruby应用程序.
-* [Rivendell](http://www.rivendellaudio.org/) - 完整的无线电广播自动化解决方案，翻译成多种语言并在全球范
+* [Rivendell](https://github.com/ElvishArtisan/rivendell) - 完整的无线电广播自动化解决方案，翻译成多种语言并在全球范 
 
 ## Software-defined radio
 
 * [GNU Radio](https://www.gnuradio.org/) - 软件开发工具包，提供信号处理模块以实现软件无线电.
 * [Gqrx SDR](http://gqrx.dk/) - 开源软件定义的无线电接收器（SDR）.
 * [ODR-mmbTools](https://www.opendigitalradio.org)   -  CRC-mmbTools的分支.  添加实时，DAB +，关联数据，分布式基础架构，SFN.
-* [rtl-sdr](http://osmocom.org/projects/sdr/wiki/rtl-sdr) - 将基于Realtek RTL2832的DVB加密狗转换为SDR接收器.
+* [rtl-sdr](https://osmocom.org/projects/rtl-sdr/wiki/rtl-sdr) - 将基于Realtek RTL2832的DVB加密狗转换为SDR接收器.
 * [welle.io](https://www.welle.io/) - 开源DAB和DAB +软件定义无线电（SDR），支持airspy和rtlsdr.
 
 ## Subtitling
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - 分析视频文件并生成独立字幕文件的工具.
-* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev)   - 在HTML / CSS叠加中使用EBU-TT-D字幕的dash.js fork.  后来添加到了 [dash.js](https://github.com/ebu/dash.js).
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的EBU-TT-D XML Schema，支持EBU Tech 3380的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - 用于生成，测试和分发的组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 字幕.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) -  GStreamer管道解析和呈现EBU-TT-D（TTML）字幕的方法.
 * [imscJS](https://github.com/sandflow/imscJS) - 用于将IMSC1文本和图像配置文件呈现为HTML5的JavaScript库.
 * [IRT EBU-TT-D Application Samples](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) -  EBU-TT-D样本文件，PNG图像和mp4视频作为渲染参考.
-* [Subtitle Edit](http://www.nikse.dk/SubtitleEdit) - 字幕编辑.
+* [Subtitle Edit](https://www.nikse.dk/SubtitleEdit) - 字幕编辑.
 * [Subtitling Conversion Framework (SCF)](https://github.com/Irt-Open-Source/scf)   - 用于转换字幕格式的模块，包括  EBU STL和EBU-TT文件.
 * [Timed Text Toolkit (ttt)](https://github.com/skynav/ttt) - 支持/使用W3C定时文本标记语言（TTML）的工具.
 
@@ -208,14 +209,14 @@
 ## Blogs
 
 * [BBC News Labs](https://github.com/BBC-News-Labs) - 来自BBC新闻实验室的开源项目.
-* [BBC R&D](http://bbc.co.uk/rd)   -  BBC研究与发展.  查看每周笔记.
-* [3D CineCast](http://3dcinecast.blogspot.ch/) - 关于新媒体技术的策展.
-* [Canal+](http://canalplus.github.io/) -  CANAL +开源社区.
+* [BBC R&D](https://www.bbc.co.uk/rd)   -  BBC研究与发展.  查看每周笔记.
+* [3D CineCast](http://3dcinecast.blogspot.com/) - 关于新媒体技术的策展.
+* [Canal+](https://developers.canal-plus.com/) -  CANAL +开源社区.
 * [IRT Lab](https://lab.irt.de/) -  IRT博客发布所有数字视听媒体技术的发展和演示.
 * [The Netflix Tech Blog](http://techblog.netflix.com/) -  Netflix博客，专注于技术和技术问题.
-* [Youtube Engineering and Developers Blog](http://youtube-eng.blogspot.com) -  YouTube上的工程师和开发人员正在发生什么.
+* [Youtube Engineering and Developers Blog](https://youtube-eng.googleblog.com/) -  YouTube上的工程师和开发人员正在发生什么.
 
-<!-- This page is available on http://ebu.io/opensource -->
+<!-- This page is available on https://ebu.io/opensource -->
 
 ## Contributing
 请参阅 [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) 详情.

@@ -84,7 +84,7 @@ _有多种方式可以与家庭助理社区联系.
 * [Carlo Costanzo](https://github.com/CCOSTAN/Home-AssistantConfig#logo) - 可能是那里记录最多的配置.
 * [DubhAd](https://github.com/DubhAd/Home-AssistantConfig) - 也称为Tinkerer共享他的配置文件.
 * [geekofweek](https://github.com/geekofweek/homeassistant) - 拥有超过300多个自动化.
-* [Isabella Gross Alström](https://github.com/isabellaalstrom/HomeAssistantConfiguration) -  Hass.io，Intel NUC，Ubuntu，Docker，Lovelace UI.
+* [Isabella Gross Alström](https://github.com/isabellaalstrom/home-assistant-config) -  Hass.io，Intel NUC，Ubuntu，Docker，Lovelace UI.
 * [Mahasri Kalavala](https://github.com/skalavala/mysmarthome) - 令人印象深刻的设置，许多不同的硬件协同工作.
 * [stanvx](https://github.com/stanvx/Home-Assistant-Configuration) - 使用AppDaemon和HA Floorplan的完整设置.
 * [Vasiley](https://github.com/Vasiley/Home-Assistant-Main) - 运行两个协同工作的实例.

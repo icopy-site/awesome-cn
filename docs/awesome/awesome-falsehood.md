@@ -44,7 +44,7 @@ subtleties.
 音乐]（https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html） - 
 可能在编纂音乐时做出错误的假设.
 - [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) –
-关于艺术的常见误解.
+Common misconceptions about art.
 
 
 ## Business
@@ -111,7 +111,7 @@ it.
 部门]（http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department） - 
 错误的日历会计的后果.
 -  [ISO-8601，YYYY，yyyy，为什么你的年份可能会如此 
-wrong](https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/) -
+错误]（https://ericasadun.com/2018/12/25/iso-8601-yyyy-yyyy-and-why-your-year-may-be-wrong/） - 
 字符串格式化日期很难.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有关日期和时间（特别是UTC）的边缘情况，您可能没有想到.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “以UTC格式存储日期”并不总是正确的做法.
@@ -183,7 +183,7 @@ be.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 关于您在国际化时需要记住的事项的视频
 code.
-- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 字符编码不一定令人困惑，但它有助于拥有一套基本的知识
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
 
 
 ## Multimedia
@@ -257,7 +257,7 @@ code.
 任命]（https://twitter.com/oliver_dw/status/737930439575404544） - 
 设计选举制度有其自己的技巧.
 -  [关于女性的虚假]
-Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
+Tech]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477） - 关于女性的神话
 在STEM（科学，技术，工程，数学）行业.
 
 
@@ -301,6 +301,7 @@ CSVs]（https://donatstudios.com/Falsehoods-Programmers-Believe-About-CSVs） -
 为什么搜索（包括分析，标记化，突出显示）具有欺骗性
 complex.
 - [Hi! My name is...](https://www.youtube.com/watch?v=NIebelIpdYk) - 这个讲话可能被称为关于用户名（和其他标识符）的谎言.
+- [Myths about /dev/urandom](https://www.2uo.de/myths-about-urandom)   - 关于/ dev / urandom和/ dev / random的一些事情会一再重复.  他们仍然是假的.
 
 
 ## Typography

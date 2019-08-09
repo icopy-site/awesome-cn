@@ -15,7 +15,7 @@
 
  ** _如果您看到此处的链接不再（不再），那么您可以通过提交[pull request] [editreadme]来改进此文件来修复它.  谢谢！_**
 
- 此列表的创建者和维护者不接受任何形式的付款以接受任何贡献者所做的更改.  此页面不是任何方式的官方Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献.  这个回购的目标是索引开源项目，而不是为了获利.
+The creators and maintainers of this list do not receive any form of payment to accept a change made by any contributor. This page is not an official Docker product in any way. It is a list of links to projects and is maintained by volunteers. Everybody is welcome to contribute. The goal of this repo is to index open-source projects, not to advertise for profit.
 
 所有链接都经过监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
 
@@ -103,7 +103,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [elsy](https://github.com/cisco/elsy) - 基于Docker和Docker Compose的自以为是的多语言构建工具
 - [habitus](https://github.com/cloud66-oss/habitus) -  Docker的构建流程工具 [@cloud66](https://github.com/cloud66)
 - [Maestro](https://github.com/toscanini/maestro) ：头骨： -  Maestro提供了轻松启动，协调和管理多个Docker容器的能力 [@tascanini](https://github.com/toscanini)
-- [percheron](https://github.com/ashmckenzie/percheron) ：头骨： - 用肌肉和智力组织你的Docker容器 [@ashmckenzie](https://github.com/ashmckenzie)
+- [percheron](https://github.com/ashmckenzie/percheron) :skull: - Organise your Docker containers with muscle and intelligence by [@ashmckenzie](https://github.com/ashmckenzie)
 - [plash](https://github.com/ihucos/plash) - 容器运行和构建引擎 - 在docker中运行.
 - [rocker-compose](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/grammarly/rocker-compose)  ：skull： - 具有idempotency功能的Docker组合工具，用于部署由多个容器组成的应用程序.  通过 [@https://github.com/veggiemonk/awesome-docker/blob/master/grammarly](https://github.com/veggiemonk/awesome-docker/blob/master/grammarly)
 - [rocker](https://github.com/grammarly/rocker)  ：skull： - 扩展的Dockerfile构建器.  支持多个FROM，MOUNTS，模板等 [grammarly](https://github.com/grammarly).
@@ -153,7 +153,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 -  [Calico-Docker] [calico]  -  Calico是一个纯粹的第3层虚拟网络，允许多个泊坞主机上的容器相互通信.
 - [Flannel](https://github.com/coreos/flannel/)   -  Flannel是一个虚拟网络，为每个主机提供一个子网，用于容器运行时.  由[@coreos] [coreos]
-- [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  [@microsoft] [https://github.com/Microsoft/]
+- [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  通过[@Microsoft] [https://github.com/Microsoft]
 - [netshoot](https://github.com/nicolaka/netshoot) -  netshoot容器具有一组强大的网络工具，可帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
 - [Pipework](https://github.com/jpetazzo/pipework)   -  Linux容器的软件定义网络，Pipework使用“普通”LXC容器，以及令人敬畏的Docker.  由[@jpetazzo] [jpetazzo]
 -  [Weave] [weave]（Docker网络） -  Weave创建一个虚拟网络，连接跨多个主机部署的Docker容器.
@@ -389,7 +389,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Linter
 
-- [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - A tool to keep an eye on your docker images size.
+- [docker-image-size-limit](https://github.com/wemake-services/docker-image-size-limit) - 一种监视码头图像大小的工具.
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) -  Dockerfiles的基于规则的&#39;linter&#39; [@projectatomic](https://github.com/projectatomic)
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - 一个节点模块，用于分析Dockerfile并查找常见的陷阱，错误并帮助实施最佳实践 [@replicatedhq](https://github.com/replicatedhq)
 - [dockfmt](https://github.com/jessfraz/dockfmt) ：构造： -  [@jessfraz] [jessfraz]的Dockerfile格式化程序和解析器
@@ -699,7 +699,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 [inspec]：https：//github.com/inspec/inspec
 [jessfraz]：https：//github.com/jessfraz
 [jpetazzo]：https：//github.com/jpetazzo
-[jwilder]: https://github.com/jwilder
+[jwilder]：https：//github.com/jwilder
 [kubernetes]：https：//kubernetes.io
 [nvidia]：https：//github.com/nvidia
 [nginxproxy]：https：//github.com/jwilder/nginx-proxy

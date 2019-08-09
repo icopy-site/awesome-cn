@@ -30,7 +30,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 ### Documentation
 
 - [Webpack 1.x](http://webpack.github.io/docs/) -  Webpack 1.x文档
-- [Webpack 2.x](https://webpack.js.org//) - Webpack 2.x Documentation
+- [Webpack 2.x](https://webpack.js.org//) -  Webpack 2.x文档
 
 ### Community
 
@@ -71,7 +71,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [json Loader](https://github.com/webpack/json-loader) ：用于Webpack的json loader模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [mermaid Loader](https://github.com/popul/mermaid-loader): [mermaid](http://knsv.github.io/mermaid/)  Webpack的加载程序模块（图表）.   -  *维护者*：`Paul Musso` [！[Github] [githubicon]]（https://github.com/popul）
 - [wasm loader](https://github.com/ballercat/wasm-loader) ：用于Webpack的wasm二进制加载器模块.   -  *维护者*：`Arthur Buldauskas` [！[Github] [githubicon]]（https://github.com/wasm-loader）
-- [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack) ：图像最小化webpack的加载器+插件.   -  * Maintainer *：`itgalaxy inc.[！[Github] [githubicon]]（https://github.com/itgalaxy）
+- [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack): Image minimizing loader + plugin for webpack. -- *Maintainer*: `itgalaxy inc.` [![Github][githubicon]](https://github.com/itgalaxy)
 - [Bin Exec Loader](https://github.com/milewski/bin-exec-loader) ：通过任何二进制文件管道任何文件   -  *维护者*：`Rafael Milewski` [！[Github] [githubicon]]（https://github.com/milewski）
 - [GraphQL Loader](https://github.com/stephen/graphql-loader) ：`.graphql`文件加载器.   -  *维护者*：`Stephen Wan` [！[Github] [githubicon]]（https://github.com/stephen）
 - [C/C++ Loader](https://github.com/ClickSimply/cpp-wasm-loader) ：以最小的捆绑膨胀加载本机C / C ++文件.   -  *维护者*：`Scott Lott` [！[Github] [githubicon]]（https://github.com/ClickSimply）
@@ -85,14 +85,14 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Underscore Loader](https://github.com/emaphp/underscore-template-loader)   - 下划线和Lodash模板加载器.   -  *维护者*：&#39;Emmanuel Antico` [！[Github] [githubicon]]（https://github.com/emaphp）[！[Twitter] [twittericon]]（https://twitter.com/emaphp）
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader)   -  Angular1模板加载器.   -  *维护者*：`Toby Rahilly` [！[Github] [githubicon]]（https://github.com/WearyMonkey）
 - [ngInlineStylesLoader](https://github.com/seveves/ng-inline-styles-loader) ：优化角度组件的内联css.   -  *维护者*：`Severin Friede` [！[Github] [githubicon]]（https://github.com/seveves）
-- [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) 内联SVG到HTML  -  * Maintainer *：`Zhicheng Wang` [！[Github] [githubicon]]（https://github.com/asnowwolf）
+- [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader)   - 聚合物元件的装载机.   -  *维护者*：`Rob Dodson` [！[Github] [githubicon]]（https://github.com/robdodson） - `Chad Killingsworth` [！[Github] [githubicon]]（https：// github .com / ChadKillingsworth） - `Bryan Coulter` [！[Github] [githubicon]]（https://github.com/bryandcoulter）
 - [Tag Loader](https://github.com/riot/tag-loader)   -  Riot标签文件的加载器.   -  *维护者*：&#39;防暴队&#39;[！[Github] [githubicon]]（https://github.com/riot）[！[Twitter] [twittericon]]（https://twitter.com/riotjs_）
 - [Twig Loader](https://github.com/zimmo-be/twig-loader)   -  Twig模板加载器.   -  *维护者*：`Zimmo.be Team` [！[Github] [githubicon]]（https://github.com/zimmo-be）
 
 #### Styles
 
-- [Style Loader](https://github.com/webpack/style-loader): Style loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [Style Loader](https://github.com/webpack/style-loader) ：用于Webpack的样式加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [PostCSS Loader](https://github.com/postcss/postcss-loader) ：用于Webpack的PostCSS加载程序.   -  * Maintainer *：`PostCSS Team` [！[Github] [githubicon]]（https://github.com/postcss)[！[Twitter] [twittericon]]（https://twitter.com/PostCSS）
 - [CSS Loader](https://github.com/webpack/css-loader) ：Webpack的CSS加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [SASS Loader](https://github.com/jtangelder/sass-loader) ：Webpack的SASS加载程序.   -  *维护者*：`Jorik Tangelder` [！[Github] [githubicon]]（https://github.com/jtangelder）[！[Twitter] [twittericon]]（https://twitter.com/jorikdelaporik）
@@ -110,7 +110,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader) ：在Webpack包中加载Bootstrap样式.   -  * Maintainer *：`ShakaCode Team` [！[Github] [githubicon]]（https://github.com/shakacode）[！[Twitter] [twittericon]]（https://twitter.com/shakacode）
 - [PostHTML Loader](https://github.com/posthtml/posthtml-loader) ：用于Webpack的PostHTML加载器.   -  * Maintainer *：`PostHTML Team` [！[Github] [githubicon]]（https://github.com/posthtml)[！[Twitter] [twittericon]]（https://twitter.com/PostHTML）
 - [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader) ：用于Elm编程语言的Webpack加载器.   -  *维护者*：`Richard Feldman` [！[Github] [githubicon]]（https://github.com/rtfeldman）[！[Twitter] [twittericon]]（https://twitter.com/rtfeldman）
-- [Fengari Loader](https://github.com/fengari-lua/fengari-loader/): Run Lua code using [Fengari](https://fengari.io) .   -  *维护者*：`Daurnimator` [！[Github] [githubicon]]（https://github.com/daurnimator）[！[Twitter] [twittericon]]（https://twitter.com/daurnimator）
+- [Fengari Loader](https://github.com/fengari-lua/fengari-loader/)：使用运行Lua代码 [Fengari](https://fengari.io) .   -  *维护者*：`Daurnimator` [！[Github] [githubicon]]（https://github.com/daurnimator）[！[Twitter] [twittericon]]（https://twitter.com/daurnimator）
 
 #### Utility
 
@@ -122,7 +122,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Worker Loader](https://github.com/webpack/worker-loader) ：Webpack的Worker loader模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Resolve URL Loader](https://github.com/bholloway/resolve-url-loader) ：解析url（）语句中的相对路径.   -  *维护者*：`Ben Holloway` [！[Github] [githubicon]]（https://github.com/bholloway）
 - [Import Loader](https://github.com/webpack/imports-loader) ：为Webpack导入加载程序模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [SourceMap Loader](https://github.com/webpack/source-map-loader) ：从模块中提取sourceMappingURL注释.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
+- [SourceMap Loader](https://github.com/webpack/source-map-loader): Extract sourceMappingURL comments from modules. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders)   - 将加载器数组转换为单个加载器字符串.   -  * Maintainer *：`James Friend` [！[Github] [githubicon]]（https://github.com/jsdf）
 - [Icon Font Loader](https://github.com/vusion/icon-font-loader)   - 将svgs转换为CSS中的字体图标.   -  *维护者*：`Forrest R. Zhao` [！[Github] [githubicon]]（https://github.com/rainfore）
 - [Icons Loader](https://www.npmjs.com/package/icons-loader)   - 从SVG依赖项生成iconfont.   -  *维护者*：`Mike Vercoelen` [！[Github] [githubicon]]（https://github.com/mikevercoelen）
@@ -188,6 +188,8 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 轻量级CSS提取插件 -  * Maintainer *：`Webpack Contrib` [！[Github] [githubicon]]（https://github.com/webpack-contrib）
 - [build-hash-webpack-plugin](https://github.com/Cosium/build-hash-webpack-plugin)  对于每个构建，Webpack都会生成内存中的哈希，以便知道两个构建输出是否相同.  此插件将描述的构建哈希写入单独的json文件中.   -  *维护者*：`RédaHousniAlaoui` [！[Github] [githubicon]]（https://github.com/reda-alaoui）[！[Twitter] [twittericon]]（https://twitter.com / alaouirda）
 - [webpack-hook-plugin](https://github.com/tienne/webpack-hook-plugin) - 在webpack构建之前或之后运行任何shell命令 -  * Maintainer *：`David Kwon` [！[Github] [githubicon]]（https://github.com/tienne）
+- [Dynamic Vendor Webpack Plugin](https://github.com/bios21/dynamic-vendor-webpack-plugin)   - 为您提供了一种通过动态变量和特定代码拆分导入供应商的方法.   -  *维护者*`Lilian Saget-Lethias` [！[Github] [githubicon]]（https://github.com/bios21）[！[Twitter] [twittericon]]（https://twitter.com/lsagetlethias ）
+- [Define Variable Webpack Plugin](https://github.com/bios21/define-variable-webpack-plugin)   - 增强DefinePlugin以在实际变量中存储定义的东西.   -  *维护者*`Lilian Saget-Lethias` [！[Github] [githubicon]]（https://github.com/bios21）[！[Twitter] [twittericon]]（https://twitter.com/lsagetlethias ）
 
 
 ### Webpack Tools
@@ -206,6 +208,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Webpack Chain](https://github.com/mozilla-neutrino/webpack-chain) ：用于生成和简化mod的链接API.  Webpack 2配置.   -  *维护者*：`Eli Perelman` [！[Github] [githubicon]]（https://github.com/eliperelman）
 - [Speed Measure Plugin](https://github.com/stephencookdev/speed-measure-webpack-plugin)   - 测量webpack插件和加载器的速度.   -  *维护者*：`Stephen Cook` [！[Github] [githubicon]]（https://github.com/stephencookdev）
 - [packtracker.io](https://packtracker.io/?utm_source=github&utm_medium=awesome-webpack&utm_campaign=social) - 对每次提交进行Webpack捆绑分析，将webpack统计信息报告给每个提取请求.
+- [BundleStats](https://github.com/bundle-stats/bundle-stats)   - 生成捆绑报告（大小，资产，模块）并比较不同构建之间的结果.   -  *维护者*：`Vio` [！[Github] [githubicon]]（https://github.com/vio)[！[Twitter] [twittericon]]（https://twitter.com/vio）
 
 
 
@@ -220,10 +223,10 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   -  Joseph Zimmerman |  2月2日至17日 -  [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
   -  Jamund Ferguson |  12月22日 -  16日 -  [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
   - 肖恩T.拉金|  21-Jul-16  -  [Learn and Debug webpack with Chrome Dev Tools!.](https://medium.com/webpack/webpack-bits-learn-and-debug-webpack-with-chrome-dev-tools-da1c5b19554#.gpoentuxe)
-  -  Raja Rao DV |  16年4月10日 -  [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
+ 错误的Raja Rao DV？  16年4月10日 -  [Webpack  —  The Confusing Parts.](https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9#.qmfmplobc)
   - 安德鲁雷|  09年4月9日 -  [Webpack: When To Use and Why.](http://blog.andrewray.me/webpack-when-to-use-and-why/)
   -  Jonathan Creamer |  25年2月25日 -  [WebPack Code splitting with ES6 and Babel 6.](http://jonathancreamer.com/webpack-code-splitting-with-es6-and-babel-6/)
-  -  Grgur Grisogono |  16年2月15日 -  [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
+  -  Gregory Grisogono |  15年2月15日 -  [Webpack 2 Tree Shaking Configuration.](https://medium.com/modus-create-front-end-development/webpack-2-tree-shaking-configuration-9f1de90f3233#.5pddvz5lz)
   -  Ilya Zayats |  07年2月7日 -  [How to split your apps by routes with Webpack.](https://medium.com/@somebody32/how-to-split-your-apps-by-routes-with-webpack-36b7a8a6231#.iy99i4f7r)
   -  Sebastian De Deyne |  04年2月16日 -  [Adventure Time With Webpack.](https://sebastiandedeyne.com/posts/2016/adventure-time-with-webpack)
   -  Jonathan Creamer |  1月10日至16日 -  [Advanced WebPack Part 2 - Code Splitting.](http://jonathancreamer.com/advanced-webpack-part-2-code-splitting)

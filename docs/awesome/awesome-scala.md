@@ -138,7 +138,7 @@
 
 ## Cryptography
 
-*Cryptography and Encryption Libraries.*
+*加密和加密库.*
 
 * [Scrypto ★ 50 ⧗ 4](https://github.com/ScorexProject/scrypto) - 通用加密框架.
 * [TSec ★ 27 ⧗ 0](https://github.com/jmcardon/tsec) - 类型安全，功能性，通用加密库
@@ -357,7 +357,7 @@
 * [Quicklens ★ 245 ⧗ 0](https://github.com/adamw/quicklens) - 使用优雅的API修改深层嵌套的案例类字段
 * [Rapture](http://rapture.io/) ([repo](https://github.com/propensive/rapture)） - 用于常见日常编程任务（I / O，JSON，i18n等）的库集合
 * [Records for Scala ★ 125 ⧗ 55](https://github.com/scala-records/scala-records) - 基于结构细化类型和宏的Scala标记记录.
-* [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) - Simple refinement types with compile- and runtime checking
+* [refined ★ 447 ⧗ 3](https://github.com/fthomas/refined) - 具有编译和运行时检查的简单细化类型
 * [Resolvable ★ 0 ⧗ 94](https://github.com/stanch/resolvable) - 一个库，用于优化从多个格式的多个端点获取不可变数据结构.
 * [Squid ★ 88 ⧗ 9](https://github.com/epfldata/squid) - 类型安全的元编程框架，带有类型，卫生的准引号.
 * **[Scala Async ★ 778 ⧗ 0](https://github.com/scala/async)**  -  Scala的异步编程工具.
@@ -387,7 +387,7 @@
 * [Google4s ★ 7 ⧗ 3](https://github.com/toknapp/google4s/) -  Scala中Google云服务的精简功能库（KMS，云存储，PubSub）
 * [mailgun4s ★ 7 ⧗ 4](https://github.com/outr/mailgun4s) - 围绕Mailgun API的Scala包装器
 * [media4s ★ 5 ⧗ 3](https://github.com/outr/media4s) - 围绕ffmpeg，ffprobe，ImageMagick以及与媒体相关的其他工具的Scala命令行包装器.
-* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - 一个可提高程序性能的Scala编译器插件 -  [see the project web site](http://scala-miniboxing.org) - 减少盒子
+* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - 减少盒子
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) -  Scala开源量化交易平台
 * [Ostinato ★ 27 ⧗ 7](https://github.com/marianogappa/ostinato) - 在服务器（Scala）和浏览器（ScalaJS）上运行的国际象棋库
 * [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - Simplified wrapper to create PDFs in Scala.
@@ -420,7 +420,7 @@
 * HTTP客户端的Scala库和包装器.*
 
 * [Akka HTTP ★ 306 ⧗ 1](https://github.com/akka/akka-http) -  Streaming-first HTTP服务器/模块 [Akka](https://github.com/akka/akka).
-* [Dispatch ★ 366 ⧗ 6](https://github.com/dispatch/reboot)   - 用于异步HTTP交互的库.  它为Java提供了Scala词汇表 [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
+* [Dispatch ★ 366 ⧗ 6](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 1005 ⧗ 3](https://github.com/finagle/finch)**  - 纯功能REST API [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - 实现快速，类型安全的HTTP Web服务 [Finagle](https://github.com/twitter/finagle).
 * **[Http4s ★ 732 ⧗ 3](https://github.com/http4s/http4s)**  -  HTTP的最小惯用Scala接口.

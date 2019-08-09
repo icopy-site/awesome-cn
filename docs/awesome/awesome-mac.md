@@ -120,7 +120,7 @@
 
 * [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based on Intellij IDEA. [![Open-Source Software][OSS Icon]](http://tools.android.com/) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/balsikandar/Android-Studio-Plugins#readme)
 * [Deco IDE](https://www.decoide.org)   - 构建React Native应用程序的最佳IDE.  [！[开源软件] [OSS图标]]（https://github.com/decosoftware/deco-ide）！[免费软件] [免费软件图标]
-* [Eclipse](https://www.eclipse.org) - Popular open-source IDE, mainly for Java but with plugin support for a wide array of languages and platforms. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [Eclipse](https://www.eclipse.org)   - 流行的开源IDE，主要用于Java，但支持各种语言和平台的插件.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Espresso](http://espressoapp.com/)   -  Mac的网页编辑器又回来了.  对于那些制作令人愉快，创新和快速网站的人.
 * [JetBrains Toolbox App](https://www.jetbrains.com/toolbox/)   - 管理已安装的JetBrains工具，下载新工具并打开最近的项目.  ！[免费软件] [免费软件图标]
   * [AppCode](https://www.jetbrains.com/objc/) - 用于iOS / macOS开发的智能IDE
@@ -142,6 +142,7 @@
 
 * [BetterRename](http://www.publicspace.net/BetterRename/)   - 市场上功能最强大，最完整的Mac文件重命名应用程序.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/better-rename-9/id414209656）
 * [Beyond Compare](http://www.scootersoftware.com/)   - 使用简单，功能强大的命令比较文件和文件夹，这些命令专注于您感兴趣的差异，并忽略您不感兴趣的差异.  ！[免费软件] [免费软件图标]
+* [Bidbar](https://www.getbidbar.com) - 从菜单栏管理bash命令并使用键盘快捷键运行它们.
 * [Cacher](https://www.cacher.io/) - 基于云的团队支持代码片段管理器，具有Gist同步，VSCode / Atom / Sublime软件包和Mac / Windows / Linux / Web客户端.
 * [canSnippet](https://www.cansnippet.com/) - 功能强大的代码段管理工具，可在整个操作系统上运行，始终可通过简单的键盘快捷方式访问.
 * [CodeKit](https://codekitapp.com/) -  Web开发工具，可以自动编译Less，Sass，CoffeeScript，TypeScript，Jade和JavaScript，自动刷新浏览器等等.
@@ -215,7 +216,7 @@
 * [bat](https://github.com/sharkdp/bat)   - 一个带有语法高亮和Git集成的`cat（1）`克隆.  [！[开源软件] [OSS图标]]（https://github.com/sharkdp/bat）！[免费软件] [免费软件图标]
 * [cmus](https://cmus.github.io/)   - 适用于类Unix操作系统的小型，快速且功能强大的控制台音乐播放器.  [！[开源软件] [OSS图标]]（https://github.com/cmus）！[免费软件] [免费软件图标]
 * [cool-retro-term](https://github.com/Swordfish90/cool-retro-term)   - 外观漂亮的终端仿真器，模仿旧的阴极显示器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Swordfish90/cool-retro-term）
-* [dark-mode](https://github.com/sindresorhus/dark-mode) - Control dark mode from the command-line. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+* [dark-mode](https://github.com/sindresorhus/dark-mode)   - 从命令行控制暗模式.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [Fish Shell](https://fishshell.com/) - Smart and user-friendly terminal, which is similar with zsh. [![Awesome List][awesome-list Icon]](https://github.com/fisherman/awesome-fish-shell#readme)
 * [fselect](https://github.com/jhspetersson/fselect)   - 使用类似SQL的查询查找文件.  [！[开源软件] [OSS图标]]（https://github.com/jhspetersson/fselect）
 * [Glances](https://github.com/nicolargo/glances)   -  Glances是一个基于curses的跨平台系统监控工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nicolargo/glances）
@@ -333,7 +334,7 @@
 #### Design Tools
 
 * [Acorn](https://secure.flyingmeat.com/acorn/) - 出色的Mac OS X图片和照片编辑器，专为人类而设计.
-* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Professional graphic design software for Mac.
+* [Affinity Designer](https://affinity.serif.com/en-us/designer/) - 适用于Mac的专业图形设计软件.
 * [Affinity Photo](https://affinity.serif.com/en-us/photo/) - 适用于Mac的专业图像编辑软件.
 * [Alchemy](http://al.chemy.org/)   - 实验性，开源绘图应用程序，重点是创建概念艺术.  [！[开源软件] [OSS图标]]（http://svn.al.chemy.org/）
 * [Amadine](https://amadine.com) - 一个矢量绘图应用程序，具有图形设计师所需的一切，包裹在一个整洁和直观的界面中.
@@ -516,7 +517,7 @@
 * [Movie Catcher](https://evilcult.github.io/moviecatcher/)   - 电影电影和在线观看离线下载软件，用百度云进行离线下载和在线播放.  [！[开源软件] [OSS图标]]（https://github.com/EvilCult/moviecatcher）
 * [mpv](https://www.mpv.io/)   - 免费，开源和跨平台的媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/mpv-player/mpv）！[免费软件] [免费软件图标]
 * [MuseScore](https://musescore.org/)   - 免费的开源音乐符号软件.  [！[开源软件] [OSS图标]]（https://github.com/musescore/MuseScore）！[免费软件] [免费软件图标]
-* [Natron](https://natron.fr/)   - 开源合成软件.  基于节点图.  功能类似于Adobe After Effects和The Foundry的Nuke.  [！[开源软件] [OSS图标]]（https://github.com/MrKepzie/Natron）
+* [Natron](https://natron.fr/) - Open-source compositing software. Node-graph based. Similar in functionality to Adobe After Effects and Nuke by The Foundry. [![Open-Source Software][OSS Icon]](https://github.com/MrKepzie/Natron)
 * [Perian](http://perian.org/#download)   - （**不再处于活跃开发状态**）~~让QuickTime播放所有常见格式的免费插件~~.  [！[开源软件] [OSS图标]]（https://github.com/MaddTheSane/perian）
 * [Playback](https://mafintosh.github.io/playback/)   - 实验视频播放器.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/mafintosh/playback）
 * [Popcorn Time](https://popcorntime.sh)   - 立即观看洪流电影，这个爆米花时间服务永远不会被取消.  下载并享受.  ！[免费软件] [免费软件图标]
@@ -646,7 +647,7 @@
 * [eZip](http://ezip.awehunt.com)   - 易于使用，功能丰富的macOS存档程序.  支持流行的格式，如RAR，ZIP，7Z，BZ2，GZ等.适用于Mojave dark-mode和QuickLook.  ！[免费软件] [免费软件图标]
 * [Hazel](https://www.noodlesoft.com)   -  Mac的自动文件组织.  负责任和精美的设计.
 * [Keka](https://www.keka.io)   -  macOS的文件存档.  压缩：7Z，ZIP，TAR，GZIP，BZIP2，XZ LZIP，DMG，ISO.  提取：7Z，ZIP，RAR，TAR，GZIP，BZIP2，XZ，LZIP，DMG，ISO，LZMA，EXE，CAB，WIM，PAX，JAR，APK，APPX，CPGZ，CPIO.  [！[开源软件] [OSS图标]]（https://github.com/aonez/Keka）！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https： //itunes.apple.com/app/keka/id470158793）
-* [muCommander](http://www.mucommander.com)   - 具有双窗格界面的轻量级文件管理器.  [！[开源软件] [OSS图标]]（https://github.com/mucommander/mucommander）！[免费软件] [免费软件图标]
+* [muCommander](http://www.mucommander.com) - Lightweight file manager with a dual-pane interface. [![Open-Source Software][OSS Icon]](https://github.com/mucommander/mucommander) ![Freeware][Freeware Icon]
 * [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver)   - 用于标记和归档任务的好工具.  [！[开源软件] [OSS图标]]（https://github.com/JulianKahnert/PDF-Archiver）[！[App Store] [app-store Icon]]（https://itunes.apple. COM /应用程序/ PDF的archivar / id1352719750）
 * [The Unarchiver](https://theunarchiver.com/)   - 取消归档许多不同类型的归档文件.  [！[开源软件] [OSS图标]]（https://bitbucket.org/kosovan/theunarchiver）！[免费软件] [免费软件图标]
 
@@ -710,7 +711,7 @@
 * [Divvy](http://mizage.com/divvy/) - 凭借其惊人的Divvy Grid系统，窗口管理处于最佳状态.
 * [Magnet](http://magnet.crowdcafe.com/)   - 窗口管理器，使您的工作空间井井有条  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/id441258766）
 * [Moom](http://manytricks.com/moom/) - 允许您使用鼠标或键盘轻松移动和缩放窗口或其他显示器.
-* [ShiftIt](https://github.com/fikovnik/ShiftIt)   - 在OSX中管理窗口大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
+* [ShiftIt](https://github.com/fikovnik/ShiftIt) - Managing window size and position in OSX. [![Open-Source Software][OSS Icon]](https://github.com/fikovnik/ShiftIt) ![Freeware][Freeware Icon]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) - 强大的，以键盘为中心的窗口管理.
 * [Slate](https://github.com/jigish/slate)   - 类似于Divvy和SizeUp的窗口管理应用程序（除了更好和免费！）.  （**需要配置文件**）[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jigish/slate）
 * [Spectacle](https://www.spectacleapp.com)   - 使用简单且可自定义的键盘快捷键移动和调整窗口大小.  [！[开源软件] [OSS图标]]（https://github.com/eczarny/spectacle）！[免费软件] [免费软件图标]
@@ -721,7 +722,7 @@
 * [1Password](https://1password.com/) - 跨平台密码管理工具.
 * [Authy](https://authy.com)   - 双因素身份验证令牌管理器，可在您的设备上进行备份和同步.  ！[免费软件] [免费软件图标]
 * [Bitwarden](https://bitwarden.com)   - 适用于Mac OS，iOS和浏览器的开源密码管理工具.  [！[开源软件] [OSS图标]]（https://github.com/bitwarden）！[免费软件] [免费软件图标]
-* [Buttercup](https://buttercup.pw/) - The Password Manager You Deserve ![Freeware][Freeware Icon]
+* [Buttercup](https://buttercup.pw/) - 您应得的密码管理器！[免费软件] [免费软件图标]
 * [Dashlane](https://www.dashlane.com)   - 基于云的密码管理器，具有屡获殊荣的设计.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/dashlane-password-manager/id552383089）
 * [Enpass](https://www.enpass.io/)   - 云集成的跨平台密码管理工具.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/enpass-password-manager/id455566716）
 * [Keeweb](https://keeweb.info/)   - 与KeePass兼容的免费跨平台密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/keeweb/keeweb）！[免费软件] [免费软件图标]
@@ -767,7 +768,7 @@
 * [Monity](http://www.monityapp.com/) -  OS X的系统监视小部件.
 * [Mounty](http://enjoygineering.com/mounty/)   - 在读写模式下在Mac OS X 10.9+下重新安装写保护的NTFS卷的小工具.  ！[免费软件] [免费软件图标]
 * [NitroShare](https://nitroshare.net/)   - 跨平台网络文件传输实用程序.  [！[开源软件] [OSS图标]]（https://github.com/nitroshare/nitroshare-desktop）！[免费软件] [免费软件图标]
-* [Noti](https://noti.center/)   - 在Mac上接收Android通知（使用Pushbullet）.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti）！[免费软件] [免费软件图标]
+* [Noti](https://noti.center/) - Receive Android notifications on your Mac (with Pushbullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more)   - 显示驱动器上的文件，按大小排序.  它可用于查找和删除未使用的文件.  ！[免费软件] [免费软件图标]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html)   - 多功能实用程序，用于验证磁盘和文件，运行清理和系统维护任务，配置隐藏选项等.  ！[免费软件] [免费软件图标]
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) -  macOS Sierra中对NTFS的读/写访问权限.
