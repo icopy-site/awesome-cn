@@ -42,7 +42,7 @@
 - [Cakebrew](https://www.cakebrew.com/)   -  Homebrew GUI应用程序.  [！[开源软件] [OSS图标]]（https://github.com/brunophilipe/Cakebrew）！[免费软件] [免费软件图标]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client)   - 用于测试REST端点的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 - [Dash](https://kapeli.com/dash) -  API文档浏览器和代码片段管理器.
-- [Flawless App](https://flawlessapp.io/) - 用于iOS模拟器内移动应用程序视觉质量检查的macOS工具.
+- [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
 - [Gas Mask](https://github.com/2ndalpha/gasmask)   - 简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)   - 菜单栏上的开源github贡献统计数据.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
@@ -52,7 +52,7 @@
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
 - [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
 - [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
+- [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的破损链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
 - [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
 - [Paw](https://luckymarmot.com/paw) - 最终的REST客户端.
@@ -200,7 +200,7 @@
 - [BeardedSpice](https://github.com/beardedspice/beardedspice)   - 使用Mac键盘上的媒体键控制基于Web的媒体播放器.  [！[开源软件] [OSS图标]]（https://github.com/beardedspice/beardedspice）！[免费软件] [免费软件图标]
 - [BetterZip](https://macitbetter.com/) - 一个功能强大且功能齐全的归档管理器.
 - [BitBar](https://github.com/matryer/bitbar)   - 将任何脚本的输出显示到菜单栏.  [！[开源软件] [OSS图标]]（https://github.com/matryer/bitbar）！[免费软件] [免费软件图标]
-- [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html)   - 严格刻录数据/音频/视频CD和DVD，包括复制.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/burn-osx/code/HEAD/tree/）！[免费软件] [免费软件图标]
+- [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html)   - 严格刻录数据/音频/视频CD和DVD，包括复制.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/）！[免费软件] [免费软件图标]
 - [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)   - 了解你的捷径.  ！[免费软件] [免费软件图标]
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner)   - 自动从剪贴板中删除文本格式.  [！[开源软件] [OSS图标]]（https://github.com/Zuehlke/Clipboard_Cleaner）！[免费软件] [免费软件图标]
 - [CommandQ](https://clickontyler.com/commandq/) - 再也不会意外退出应用程序.
@@ -228,7 +228,7 @@
 - [MacDown](http://macdown.uranusjr.com/)   -  Markdown编辑.  [！[开源软件] [OSS图标]]（https://github.com/MacDownApp/macdown）！[免费软件] [免费软件图标]
 - [Mackup](https://github.com/lra/mackup)   - 保持应用程序设置同步.  [！[开源软件] [OSS图标]]（https://github.com/lra/mackup）！[免费软件] [免费软件图标]
 - [MacPass](https://macpass.github.io/)   - 密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
-- [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/HEAD/tree/）！[免费软件] [免费软件图标]
+- [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/ci/master/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   - 方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)   - 用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
 - [Monodraw](http://monodraw.helftone.com/) - 强大的ASCII艺术编辑器.
@@ -271,11 +271,11 @@
 - [Amethyst](http://ianyh.com/amethyst/)   - 窗口管理器（自动保持网格大小为网格）.  [！[开源软件] [OSS图标]]（https://github.com/ianyh/Amethyst）！[免费软件] [免费软件图标]
 - [Divvy Window Manager](http://mizage.com/divvy/) - 用于平铺窗户的窗口管理.
 - [Hammerspoon](http://www.hammerspoon.org/)   - 非常强大的macOS脚本引擎.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
-- [kwm](https://koekeishiya.github.io/kwm/)   - 具有焦点的平铺窗口管理器跟随鼠标.  [！[开源软件] [OSS图标]]（https://github.com/koekeishiya/kwm）！[免费软件] [免费软件图标]
 - [Moom](https://manytricks.com/moom/) - 移动和缩放窗口，超轻量和可定制.
 - [Phoenix](https://github.com/kasper/phoenix)   - 使用JavaScript编写脚本的轻量级窗口和应用程序管理器.  [！[开源软件] [OSS图标]]（https://github.com/Hammerspoon/hammerspoon）！[免费软件] [免费软件图标]
 - [Spectacle](https://www.spectacleapp.com/)   - 无需使用鼠标即可轻松组织窗口.  [！[开源软件] [OSS图标]]（https://github.com/eczarny/spectacle）！[免费软件] [免费软件图标]
 - [Stay](https://cordlessdog.com/stay/) - 显示更改时调整窗口大小/位置.
+- [yabai](https://github.com/koekeishiya/yabai)   - 具有焦点的平铺窗口管理器跟随鼠标.  [！[开源软件] [OSS图标]]（https://github.com/koekeishiya/yabai）！[免费软件] [免费软件图标]
 
 ### Others
 
@@ -350,7 +350,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 * [MIDAS](https://github.com/etsy/MIDAS)   - 入侵检测分析系统.  [！[开源软件] [OSS图标]]（https://github.com/etsy/MIDAS）
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [！[开源软件] [OSS图标]]（https://github.com/drduh/OS-X-Security-and-Privacy-Guide）
 * [OSXCollector](https://github.com/Yelp/osxcollector)   - 法医证据收集和分析工具包.  [！[开源软件] [OSS图标]]（https://github.com/Yelp/osxcollector）！[免费软件] [免费软件图标]
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
+* [santa](https://github.com/google/santa)   - 二进制白名单/黑名单系统.  [！[开源软件] [OSS图标]]（https://github.com/google/santa）！[免费软件] [免费软件图标]
 * [Shimo](https://www.shimovpn.com) - 适用于Mac的全功能VPN客户端.
 * [SimpleumSafe](https://simpleum.com/) - 使用macOS或iOS加密，组织和同步文件.
 * [tinc](https://www.tinc-vpn.org)   - 安全网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
@@ -396,7 +396,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 
 ## Contribute
 
-贡献是最受欢迎的，请坚持 [Contribution Guidelines](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/contributing.md) 和我们 [Code of Conduct](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/CODE_OF_CONDUCT.md).
+Contributions are most welcome, please adhere to the [Contribution Guidelines](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/contributing.md) 和我们 [Code of Conduct](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/CODE_OF_CONDUCT.md).
 
 请考虑退房 [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) 被包括.
 

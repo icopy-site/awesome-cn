@@ -81,7 +81,7 @@
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - 了解如何使用Elm构建反应式Web应用程序.
-* [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - 了解如何为Elm创建本机JavaScript模块.
+* [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - 关于基础知识和高级主题的系列文章.
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - 语言功能的高概述.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
@@ -153,7 +153,7 @@
 
 * [Egghead.io: Elm videos](https://egghead.io/technologies/elm) -  Egghead的Elm视频培训，其中许多都是免费的.
 * [jadams's training videos](https://www.dailydrip.com/topics/elm) - 一系列精美的榆树训练视频系列，其中许多都是免费的.
-* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - Walk through all the syntax and basic ideas in Elm as a general programming language.
+* [Elm Basics](https://www.youtube.com/watch?v=g48K6ABfRzA) - 将Elm中的所有语法和基本思想作为通用编程语言进行演练.
 * [Greg Ziegan: Elm live coding videos ](https://www.youtube.com/channel/UCJt-EkypIn-HoxNhoHqXmIA) - 在youtube上实时编码视频.
 
 
@@ -346,6 +346,7 @@
 * [Bolero](https://fsbolero.io/) - F# in WebAssembly using Elmish
 * [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * [Redux](https://redux.js.org/introduction/prior-art) -  JavaScript应用程序的可预测状态容器.
+* [Bucklescript-TEA](https://github.com/OvermindDL1/bucklescript-tea) 榆树建筑基于OCaml / Reason和 [Bucklescript](https://bucklescript.github.io/)
 
 
 

@@ -120,7 +120,7 @@ them.
 
 ## Other libraries and tools
 
-- [FFTW](http://www.fftw.org) - 一维或多维的离散傅里叶变换，任意输入大小，以及实数和复数数据.
+- [FFTW](http://www.fftw.org) - 一维或多维的离散傅立叶变换，任意输入大小，以及实数和复数数据.
   （C，GPL2， [GitHub](https://github.com/FFTW/fftw3))
 - [Qhull](http://www.qhull.org) - 凸壳，Delaunay三角剖分，Voronoi图，关于点的半空间交点，最远位置的Delaunay三角剖分，以及最远位置的Voronoi图.
   （C / C ++， [custom open source license](http://www.qhull.org/COPYING.txt),
@@ -145,6 +145,8 @@ them.
   （MATLAB，BSD， [GitHub](https://github.com/chebfun/chebfun))
 - [pyMOR](https://pymor.org/) - 使用Python减少模型顺序.
   （Python，2条款BSD， [GitHub](https://github.com/pymor/pymor/))
+- [cvxpy](https://www.cvxpy.org/) - 凸优化问题的建模语言.
+  （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
 
 
 ## Community

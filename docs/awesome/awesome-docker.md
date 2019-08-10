@@ -133,7 +133,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [dockprom](https://github.com/stefanprodan/dockprom) - 使用Prometheus，Grafana，cAdvisor，NodeExporter和AlertManager的Docker主机和容器监控 [@stefanprodan](https://github.com/stefanprodan)
 - [Docker-Alertd](https://github.com/deltaskelta/docker-alertd) - 根据docker容器资源使用情况/统计信息监控和发送警报
 - [Docker-Flow-Monitor](https://github.com/docker-flow/docker-flow-monitor) -  [@vfarcic] [vfarcic]自动更新或部署新服务时重新配置Prometheus
-- [Docker-Fluentd](https://github.com/kiyoto/docker-fluentd)   -  Docker容器记录其他容器的日志.  可以使用Fluentd by聚合在同一主机上运行的Docker容器的日志 [@kiyoto](https://github.com/kiyoto)
 - [Dockerana](https://github.com/dockerana/dockerana) ：skull： -  Graphite和Grafana的打包版本，专门针对Docker的指标.
 - [DockProc](https://gitlab.com/n0r1sk/dockproc) - 对processlevel上的容器进行I / O监控.
 - [Dozzle](https://github.com/amir20/dozzle) - 使用浏览器或移动设备实时监控容器日志. [@amir20](https://github.com/amir20)
@@ -153,7 +152,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 -  [Calico-Docker] [calico]  -  Calico是一个纯粹的第3层虚拟网络，允许多个泊坞主机上的容器相互通信.
 - [Flannel](https://github.com/coreos/flannel/)   -  Flannel是一个虚拟网络，为每个主机提供一个子网，用于容器运行时.  由[@coreos] [coreos]
-- [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  通过[@Microsoft] [https://github.com/Microsoft]
+- [Freeflow](https://github.com/Microsoft/Freeflow)   -  Linux上的高性能容器覆盖网络.  启用RDMA（在InfiniBand和RoCE上）并加速TCP到裸机性能.  通过 [@Microsoft](https://github.com/Microsoft)
 - [netshoot](https://github.com/nicolaka/netshoot) -  netshoot容器具有一组强大的网络工具，可帮助解决Docker网络问题 [@nicolaka](https://github.com/nicolaka)
 - [Pipework](https://github.com/jpetazzo/pipework)   -  Linux容器的软件定义网络，Pipework使用“普通”LXC容器，以及令人敬畏的Docker.  由[@jpetazzo] [jpetazzo]
 -  [Weave] [weave]（Docker网络） -  Weave创建一个虚拟网络，连接跨多个主机部署的Docker容器.

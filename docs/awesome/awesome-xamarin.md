@@ -44,7 +44,7 @@
 
 ## Database
 
-- [Akavache ★1,692](https://github.com/reactiveui/akavache) - An Asynchronous Key-Value Store for Native Applications.
+- [Akavache ★1,692](https://github.com/reactiveui/akavache) - 本机应用程序的异步键值存储.
 - [Breeze ★63](https://github.com/Breeze/breeze.sharp) - 面向富客户端应用程序开发人员的数据管理库.
 - [Couchbase.Lite ★299](https://github.com/couchbase/couchbase-lite-net) - 轻量级嵌入式NoSQL数据库.
 - [Lager ★2](https://github.com/ghuntley/Lager) - 使用Akavache作为存储后端的跨平台设置存储.
@@ -161,7 +161,7 @@
 
 ## Reactive
 
-- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - An Asynchronous Key-Value Store for Native Applications.
+- [Akavache ★1,692](https://github.com/reactiveui/Akavache) - 本机应用程序的异步键值存储.
 - [ReactiveUI ★3,917](https://github.com/reactiveui/ReactiveUI) -  Rx MVVM框架.
 - [Refit ★2,762](https://github.com/reactiveui/refit) -  Refit是一个受Square的Retrofit库启发的图书馆，它将您的REST API变成了一个实时界面.
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - 在Reactive Extensions下提供MVVM和异步支持功能.
@@ -193,6 +193,7 @@
 ## Tools
 
 - [Cheeseknife ★53](https://github.com/MarcelBraghetto/Cheeseknife) -  Xamarin.Android的视图注入库.
+- [IconFont2Code ★52](https://github.com/andreinitescu/IconFont2Code) - Generates a C# class with the glyph Unicode values in your font file (.ttf/.otf).
 - [GradleBindings ★103](https://github.com/EgorBo/Xamarin.GradleBindings) -  Visual Studio扩展，用于引用Android项目中的gradle库.
 - [Material icons generator plugin - Xamarin Studio ★14](https://github.com/interisti/xs-material-icons-generator) - 向android项目添加材质图标.
 - [Material icons generator plugin - Visual Studio](https://github.com/interisti/vs-material-icons-generator) - 向android项目添加材质图标.
@@ -207,7 +208,7 @@
 ## UI
 
 - [Essential UI Kit ★130](https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms) -  Xamarin.Forms应用程序的美丽XAML页面.
-- [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode.
+- [Passcode ★13](https://github.com/kevinskrei/XamarinPasscode) - 用于使用密码锁定应用程序的Xamarin组件.
 - [SignaturePad ★117](https://github.com/xamarin/SignaturePad) -  Signature Pad使Xamarin.iOS，Xamarin.Android和Windows上的签名捕获，保存，导出和显示非常简单.
 - [Syncfusion Components](https://www.syncfusion.com/xamarin-ui-controls) - 用于Xamarin.Forms，Xamarin.iOS和Xamarin.Android应用程序的丰富的UI组件和文件格式库.
 - [XamEffects ★53](https://github.com/mrxten/XamEffects) -  Xamarin.Forms的触摸效果.
@@ -227,7 +228,7 @@
 - [AdvancedTimer ★35](https://github.com/ufuf/AdvancedTimer) - 实现Timer对象及其方法以扩展对定时器的支持.
 - [Android AppCompat ★34](https://github.com/nativecode-dev/oss-xamarin) - 现在为Xamarin.Forms应用程序提供Material Design主题，无需黑客攻击.
 - [BadgeView ★31](https://github.com/SuavePirate/BadgeView) - 一个简单的Xamarin.Forms控件来显示圆形徽章.
-- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - 在Xamarin.Forms项目中显示圆形图像的简单而优雅的方式.
+- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
 - [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - 提供从您的Xamarin.Forms项目访问Windows Phone，iOS和Android上指南针的简单方法.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - 简单的跨平台插件，可与移动设备的屏幕方向配合使用.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - 获取设备方向或在Xamarin.Forms项目中获得方向更改通知的简单方法.
@@ -287,7 +288,7 @@
 ## Websites
 
 - [Planet Xamarin](https://www.planetxamarin.com)   - 来自Xamarin社区成员的内容聚合器.  当您可以订阅一个方便的RSS源时，为什么单独订阅？  如果RSS不是你的事，请按照 [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) 使用社区的最新内容自动更新的帐户.
-- [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - 用于学习Xamarin的精选资源列表.
+- [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
 - [Weekly Xamarin](http://weeklyxamarin.com)   - 每周精心挑选最好的Xamarin开发链接.  由Geoffrey Huntley策划并于每周五出版.  自由.
 
 

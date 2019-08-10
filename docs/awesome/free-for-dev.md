@@ -48,7 +48,7 @@
     *应用服务 -  10个网络，移动或API应用
     *功能 - 每月100万个请求
     * DevTest Labs  - 实现快速，简单和精简的开发测试环境
-    * Active Directory - 500,000 objects
+    * Active Directory  -  500,000个对象
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
     * Microsoft IoT Hub  - 每天8,000条消息
@@ -129,7 +129,7 @@
   * [typetalk.com](https://www.typetalk.com/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
   * [talky.io](https://talky.io/)   - 免费群聊视频.  匿名.  点对点.  无需插件，注册或付款
   * [helplightning.com](https://www.helplightning.com/)   - 通过增强现实帮助视频.  免费，无需分析，加密，支持
-  * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
+  * [evernote.com](https://evernote.com/)   - 组织信息的工具.  分享您的笔记并与他人一起工作
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
@@ -211,7 +211,7 @@
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
-  * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
+  * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
@@ -250,7 +250,7 @@
 
 ## Translation Management
 
-  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
+  * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
@@ -455,7 +455,7 @@
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
@@ -491,10 +491,10 @@
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
    * [acunote.com](https://www.acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
-   * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
+   * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
+   * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
@@ -509,7 +509,7 @@
    * [Instabug](https://instabug.com)   - 针对移动应用的全面错误报告和应用内反馈SDK.  免费计划最多1个应用程序和1个成员.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - 免费为期一年的Office 365 E3订阅开发/测试.
    * [senseitool.com](https://www.senseitool.com/) - 敏捷的回顾工具 - 免费.
-   * [Gitlab](https://gitlab.com) - Offers basic issue tracking for projects.
+   * [Gitlab](https://gitlab.com) - 为项目提供基本问题跟踪.
 
 
 
@@ -538,7 +538,7 @@
   * [landen.co](https://www.landen.co)   - 为您的创业公司生成，编辑和发布漂亮的网站和登录页面.  所有没有代码.  免费套餐允许您拥有一个网站，可完全自定义并在网络上发布.
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
@@ -556,7 +556,7 @@
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
    * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
    * [geocod.io](https://www.geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
-   * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
+   * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
    * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://www.giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://www.mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
@@ -613,11 +613,12 @@
    * [mousestats.com](https://www.mousestats.com/) -  1个网站免费100个会话/月
    * [hotjar.com](https://www.hotjar.com/) - 每个站点：每天2,000页的视图，3个热图，3个月的数据存储，...
    * [usersurge.com](https://www.usersurge.com/) - 个人每月250K次会议.
+   * [smartlook.com](https://www.smartlook.com/) - 免费的网络和移动应用程序包（1500个会话/月），3个热图，1个漏斗，1个月的数据历史记录
 
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
+  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
 
 ## Payment / Billing Integration
 
@@ -644,7 +645,7 @@
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
   * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制
-  * [screenshotlayer.com](https://screenshotlayer.com/) — Capture highly customizable snapshots of any website. Free 100 snapshots/month
+  * [screenshotlayer.com](https://screenshotlayer.com/)   - 捕获任何网站的高度可定制的快照.  每月免费100次快照
   * [screenshotmachine.com](https://www.screenshotmachine.com/) - 捕获100个快照/月，png，gif和jpg，包括全长捕获，而不仅仅是主页
   * [readme.com](https://readme.com/) - 开源的免费文档很简单：参见 [here](https://readme.readme.io/docs/open-source).
   * [formaholic.com](https://formaholic.com)   - 简单的表单端点.  非常适合静态网站
@@ -655,7 +656,7 @@
   * [SurveyMonkey.com](https://www.surveymonkey.com)   - 创建在线调查.  在线分析结果.  免费计划每次调查仅允许10个问题和100个回复.
 
 ## Other Free Resources
-  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) - 面向开发人员的免费开源软件中心
+  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers
   * [getawesomeness](https://getawesomeness.herokuapp.com) - 从GitHub中获取所有令人惊叹的精彩内容......一定要看
   * [education.github.com](https://education.github.com/pack)   - 为学生提供免费服务.  需要注册
   * [Framacloud](https://degooglisons-internet.org/en/list/) - 法国非盈利组织的Free / Libre开源软件和SaaS列表 [Framasoft](https://framasoft.org/en/).
