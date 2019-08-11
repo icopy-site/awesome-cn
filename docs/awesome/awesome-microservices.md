@@ -27,14 +27,14 @@
 
 - [Akka](http://akka.io/) - 用于在JVM上构建高度并发，分布式和弹性的消息驱动应用程序的工具包和运行时.
 -  [Axon！[c]]（https://axoniq.io/） - 端到端的开发和基础架构平台，可在JVM上轻松开发和运行任何DDD，CQRS和Event Sourcing应用程序.
-- [Baratine](http://baratine.io/) - Platform for building a network of loosely-coupled POJO microservices.
+- [Baratine](http://baratine.io/) - 用于构建松散耦合的POJO微服务网络的平台.
 - [Erlang/OTP](https://github.com/erlang/otp) - 用于构建具有高可用性要求的大规模可扩展软实时系统的编程语言.
 - [Finagle](http://twitter.github.io/finagle) - 用于JVM的可扩展RPC系统，用于构建高并发服务器.
 - [Flogo](https://github.com/TIBCOSoftware/flogo) -  Flogo是一个开源框架，用于简化构建高效和现代无服务器功能和边缘微服务.
 - [GPars](https://github.com/GPars/GPars) -  JVM的并发和并行框架.
 - [Grenache](https://github.com/bitfinexcom/grenache) - 基于Bittorent-DHT的微服务框架，支持多个传输上的REQ / REP和PUB / SUB模式.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-- [Lagom](https://github.com/lagom/lagom) -  JVM的反应性微服务.
+- [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
 - [Light-4j](https://github.com/networknt/light-4j) - 高吞吐量，低延迟，小内存占用和更高效的微服务平台.
 - [Micro](https://micro.mu/) - 微服务开发运行时.
 - [Microserver](https://github.com/aol/micro-server) -  Java 8本机，零配置，基于标准，战斗强化库，以运行Java REST微服务.
@@ -177,7 +177,7 @@
 - [Play](https://www.playframework.com/) -  Java和Scala的高速Web框架.
 - [Scalatra](http://scalatra.org/) - 简单，易用和免费的网络微框架.
 - [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - 用于在Scala中构建servlet应用程序的Micro-web框架.
-- [Squbs](http://paypal.github.io/squbs/) - 一套组件，可在大规模，受管理的云环境中实现Akka和Akka HTTP应用程序/服务的标准化和操作.
+- [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
 
 ### Node.js
 
@@ -186,6 +186,7 @@
 - [ClaudiaJS](https://claudiajs.com/) - 易于将Node.js项目部署到AWS Lambda和API Gateway.
 - [Cote](https://github.com/dashersw/cote) - 用于构建零配置微服务的Node.js库.
 - [Express](http://expressjs.com/) -  Node.js的快速，无偏见，极简主义的Web框架
+- [Fastify](https://www.fastify.io/) - 为Node.js提供快速且低开销的Web框架.
 - [FeathersJS](http://feathersjs.com/) - 适用于现代应用程序的开源REST和实时API层.
 - [Graft](https://github.com/GraftJS/graft) - 通过微服务的全栈javascript.
 - [Hapi](http://hapijs.com/) - 用于构建应用程序和服务的丰富框架.
@@ -245,6 +246,7 @@
 ## Frontend / UI
 
 - [Awesome Micro Frontends](https://github.com/ChristianUlbrich/awesome-microfrontends) - 关于Micro Frontends的精选资源列表.
+- [Micro Frontends](https://micro-frontends.org) - 将微服务理念扩展到前端开发.
 
 ## Capabilities
 
@@ -345,6 +347,7 @@
 - [Apollo](http://activemq.apache.org/apollo/) - 从原始ActiveMQ的基础构建的更快，更可靠，更易于维护的消息传递代理.
 - [Ascoltatori](https://github.com/mcollina/ascoltatori) - 节点的发布/订阅库.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - 简单，快速的工作队列.
+- [Crossbar](https://github.com/crossbario/crossbar)   - 用于分布式和微服务应用的开源网络平台.  它实现了开放的Web应用程序消息传递协议（WAMP）.
 - [Disque](https://github.com/antirez/disque) - 分布式消息代理.
 - [Eventuate](http://eventuate.io/) - 开发异步微服务的平台，解决分布式数据管理问题.
 - [Kafka](http://kafka.apache.org/) - 作为分布式提交日志重新考虑发布 - 订阅消息传递.
@@ -550,7 +553,7 @@
 - [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
 - [Hydra](http://www.hydra-cg.com/) - 可互操作，超媒体驱动的Web API规范.
 - [GraphQL](http://graphql.org/)   - 用于构建客户端应用程序的查询语言，通过提供直观，灵活的语法和系统来描述其数据需求和交互.  <sup>草案</sup>
-- [WADL](http://www.w3.org/Submission/wadl/) - The Web Application Description Language specification.
+- [WADL](http://www.w3.org/Submission/wadl/) -  Web应用程序描述语言规范.
 - [WSDL](http://www.w3.org/TR/wsdl20/) -  Web服务描述语言版本2.0规范.
 
 ### Data Formats
@@ -607,7 +610,7 @@
 - [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) - 声明分布式计算机系统不可能同时提供以下所有三个保证：一致性，可用性和分区容差.
 - [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)   - 包含二十四种在云托管应用程序中有用的设计模式.  包括：断路器，竞争消费者，CQRS，事件采购，关守，缓存旁边等.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - 将软件应用程序设计为可独立部署的服务的特定方式.
-- [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - 相似之处，差异以及我们从这里开始的地方.
+- [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - Similarities, differences, and where we go from here.
 - [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) - 关于微服务方法的一些问题的重要建议.
 - [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - 微服务入门.
 - [Microservices Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - 思考mircoservices建筑风格的成本和收益指南.
@@ -627,7 +630,7 @@
 
 ### Tutorials
 
-- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - A story of how an aging Java project was replaced with a microservice built with Python and Flask.
+- [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - 一个关于如何用Python和Flask构建的微服务取代老化的Java项目的故事.
 - [Developing and Testing Microservices With Docker](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker) - 创建简单的Docker打包的Node微服务所涉及的过程示例.
 - [Game On!](https://game-on.org/) - 在老式的基于文本的冒险游戏的背景下解释微服务架构.
 - [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - 关于无服务器架构的逐步演示驱动的讨论.
@@ -654,6 +657,7 @@
   +第4册：使用Docker和容器进行网络，安全和存储.
   +第5册：使用Docker和容器进行监控和管理.
 - [The Tao of Microservices](https://www.manning.com/books/the-tao-of-microservices) - 教授理解如何将微服务架构应用于您自己的实际项目的途径.
+- [Micro Frontends in Action](https://www.manning.com/books/micro-frontends-in-action) - 一本实用指南，讲授如何与多个独立团队一起开发大型软件项目.
 
 ### Sites & Organizations
 

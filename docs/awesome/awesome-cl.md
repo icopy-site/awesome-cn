@@ -92,7 +92,7 @@ Cryptocurrencies
 ================
 
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)   - 使用Monero加密货币的Common Lisp工具箱.  [GPL3] [2].  不在Quicklisp.
-* [emotiq](https://github.com/emotiq/emotiq)   - 采用创新的自然语言方法实现智能合约的下一代区块链.  [MIT] [200]
+* [emotiq](https://github.com/emotiq/emotiq)   - 采用创新的自然语言方法实现智能合约的下一代区块链.  [MIT] [200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)   - 解析文件中包含的区块链，并将其部分数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)   - 该程序为您提供在10分钟，24小时，31天，90天和1年内生成POS或POW块的概率，以及可预期的奖励.  Qt中的GUI  [GPL3] [2].  不在Quicklisp.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)   - 基于区块链数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp.
@@ -276,7 +276,7 @@ JSON
 ====
 
 * [cl-json](https://github.com/hankhero/cl-json)   -  JSON编码器和解码器.  [外籍] [14].
-* [jsown](https://github.com/madnificent/jsown)   -  JSON格式的读写器.  [外籍] [14]
+* [jsown](https://github.com/madnificent/jsown)   -  JSON格式的读写器.  [外籍] [14].
 * [json-mop](https://github.com/gschjetne/json-mop)   - 用于桥接CLOS和JSON对象的元类.  [MIT] [200].
 
 另见 [extensive comparison](https://sites.google.com/site/sabraonthehill/home/json-libraries) JSON库.
@@ -520,7 +520,7 @@ HTTP服务器
 
 ### Clack plugins
 
-* [clack-errors](https://github.com/eudoxia0/clack-errors)   -  Clack的错误页面中间件.  [LLGPL〕[8].
+* [clack-errors](https://github.com/eudoxia0/clack-errors)   -  Clack的错误页面中间件.  [LLGPL] [8].
 * [clath](https://github.com/BnMcGn/clath) - 单点登录
    克拉克的中间件.  它允许使用OAuth1.0a，OAuth2进行基本登录
    和OpenID.  在撰写本文时，它支持来自的身份验证
@@ -638,7 +638,10 @@ Deployment
 * [deploy](https://shinmera.github.io/deploy)   - 用于Lisp应用程序二进制部署的工具包，以及对外部共享库的额外支持.  [艺术许可2.0] [51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)   - 使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
 
-也可以看看 [Heliohost](https://www.heliohost.org/) 免费托管解决方案.
+也可以看看：
+
+- [Heliohost](https://www.heliohost.org/) 免费托管解决方案.
+- [Platform.sh](https://platform.sh/blog/2019/lisp/) 有Common Lisp支持.
 
 Monitoring
 ----------
@@ -666,7 +669,7 @@ Monitoring
 * [cl-pushover](https://github.com/TeMPOraL/cl-pushover)   - 与Pushover的Common Lisp绑定.  [MIT] [200].
 * [humbler](https://github.com/Shinmera/humbler)   -  Tumblr API接口.  [艺术许可2.0] [51].
 *[multiposter](https://github.com/Shinmera/multiposter) - 同时发布到多个服务.
-* [stripe-client](https://github.com/ruricolist/cl-stripe-client)   -  Stripe支付系统的客户.  [MIT] [-200].
+* [stripe-client](https://github.com/ruricolist/cl-stripe-client)   -  Stripe支付系统的客户.  [MIT] [200].
 
 Others
 ------
@@ -773,7 +776,7 @@ Scripting
    Common Lisp中的`libcurses`接口.  它既提供原料，
   通过CFFI向libcurses的低级接口，以及更高级别的接口
    lispier接口.  [带] [200].
-* [shcl](https://github.com/bradleyjensen/shcl)   -  Common Lisp中类似POSIX的shell.  [Apache2.0的].[51].
+* [shcl](https://github.com/bradleyjensen/shcl)   -  Common Lisp中类似POSIX的shell.  [Apache2.0的] [51].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
 * [WCL](https://github.com/wadehennessey/wcl) - 允许数百个Lisp
 应用程序可以立即实现，同时允许
@@ -1032,7 +1035,7 @@ Other
 
 这包含任何不适合其他类别的内容.
 
-* [babel](https://github.com/cl-babel/babel)   - 字符集编码/解码库.  [外籍]〔14〕.
+* [babel](https://github.com/cl-babel/babel)   - 字符集编码/解码库.  [外籍] [14].
 * [chipz](https://github.com/froydnj/chipz)   - 解压缩库.  [3条款BSD] [15].
 * [cl-cuda](https://github.com/takagi/cl-cuda)   - 在Common Lisp程序中使用NVIDIA CUDA的库.  [LLGPL] [8].
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.

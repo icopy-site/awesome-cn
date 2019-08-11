@@ -26,7 +26,7 @@ devops
 用于软件构建和发布，持续集成和持续交付的系统  
 * [Jenkins](http://jenkins-ci.org)  可扩展的开源持续集成服务器  
 * [Solano CI](https://www.solanolabs.com)   通过获得专利的自动并行化，实现更快的持续集成和部署.  查看结果快10到80倍.  14天免费试用.  无需信用卡.
-* [Concourse](https://concourse.ci) 管道被定义为单个声明性配置文件，而不是无数的复选框
+* [Concourse](https://concourse-ci.org) 管道被定义为单个声明性配置文件，而不是无数的复选框
 * [BuildForge](https://jazz.net/downloads/rational-build-forge/)  自动化并加速构建和发布流程  
 * [ElectricFlow](http://electric-cloud.com/products/electricflow/)   ElectricFlow / ElectricCommander为分布式团队提供对基础架构，工具链和流程的共享控制和可视性.  它加速并自动化软件交付流程，以实现跨许多构建测试部署管道的敏捷性，可预测性和安全性  
 * [Teamcity](http://www.jetbrains.com/teamcity/index.html)  准备工作，可扩展  
@@ -47,7 +47,8 @@ devops
 * [pulse](http://zutubi.com) 没有免费版本.  
 * [PHP Censor](https://github.com/php-censor/php-censor) 用于PHP项目的开源自托管持续集成服务器.  
 * [rundeck](http://rundeck.org) Rundeck具有细粒度访问控制，内置作业调度程序，以及定义将命令和脚本分派给节点的工作流的功能.  
-* [cds](https://ovh.github.io/cds) CDS是一个用Go（lang）编写的企业级持续交付和DevOps自动化平台.  
+* [cds](https://ovh.github.io/cds) CDS是一个用Go（lang）编写的企业级持续交付和DevOps自动化平台.
+* [Drone CI](https://drone.io/)  无人机是一种基于容器技术的持续交付系统.  Drone使用简单的YAML配置文件（docker-compose的超集）来定义和执行Docker容器中的Pipelines.
 
 ## Online Build System
 在线构建发布系统  
@@ -133,7 +134,7 @@ devops
 * [scons](http://www.scons.org)   SCons是一个开源软件构建工具 - 即下一代构建工具.  将SCons视为经典Make实用程序的改进的跨平台替代品，其具有类似于autoconf / automake和ccache等编译器缓存的集成功能.  简而言之，SCons是一种更简单，更可靠，更快速的软件构建方式  
 * [cmake](https://cmake.org/)   cmake提供强大的跨平台软件开发解决方案.  了解我们如何帮助您的团队有效管理软件项目的构建，测试和打包过程  
 * [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)   Microsoft Build Engine是一个用于构建应用程序的平台.  此引擎（也称为MSBuild）为项目文件提供XML模式，该模式控制构建平台如何处理和构建软件.  Visual Studio使用MSBuild，但它不依赖于Visual Studio.  通过在项目或解决方案文件上调用msbuild.exe，您可以在未安装Visual Studio的环境中编排和构建产品  
-* [ant](http://ant.apache.org)   Ant可以用于引导任何类型的过程，可以根据目标和任务来描述.  Ant的主要已知用法是构建Java应用程序.  
+* [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
 * [maven](http://maven.apache.org)   Apache Maven是一个软件项目管理和理解工具.  基于项目对象模型（POM）的概念，Maven可以从一个中心信息管理项目的构建，报告和文档.  
 * [gradle](http://gradle.org/)    Gradle是构建自动化的演变.  Gradle可以自动构建，测试，发布，部署以及更多软件包或其他类型的项目，例如生成的静态网站，生成的文档或其他任何内容.  
 * [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)    如果构建和测试需要很长时间才能完成，则持续交付不是连续的.  ElectricAccelerator可将构建和测试速度提高20倍，从而缩短产品上市时间，提高基础架构利用率和开发人员的工作效率  
@@ -196,7 +197,7 @@ Software performance analysis tools
 软件交付工具  
 * [sl-release](https://xebialabs.com/products/xl-release)   协调您的持续交付管道.  简单.  灵活.  端至端  
 * [archiva](http://archiva.apache.org/index.cgi)   Apache Archiva™是一个可扩展的存储库管理软件，可帮助您处理自己的个人或企业范围的构建工件库.  它是构建工具（如Maven，Continuum和ANT）的完美伴侣  
-* [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
+* [nexus](http://www.sonatype.com/nexus)  使用存储库管理器（也称为组件管理器）可帮助软件开发团队在操作的速度，效率和质量方面实现简单的提升  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet是一个机器包管理器，有点像apt-get，但在构建时考虑到了Windows  
 * [herd](https://github.com/russss/Herd) 基于Twitter的谋杀案的单命令bittorrent分发系统     
 * [murder](https://github.com/lg/murder)  大型服务器使用来自twitter.com的BitTorrent和BitTornado库进行部署  

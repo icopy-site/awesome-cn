@@ -84,6 +84,7 @@
 - [vim](https://github.com/vim/vim) -  Vim  - 无处不在的文本编辑器.
 - [neovim](https://github.com/neovim/neovim) -  Vim fork专注于可扩展性和可用性.
 - [kakoune](https://github.com/mawww/kakoune) - 受vim启发的模态编辑器.
+- [micro](https://github.com/zyedidia/micro) - 简单直观的编辑器.
 
 ### Web Development
 
@@ -96,7 +97,7 @@
 - [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
-- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - Parse git diffs as JSON and generate pretty HTML.
+- [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
 - [HTTPie](https://github.com/jkbrzt/httpie) - 用户友好的HTTP客户端.
 - [serve](https://github.com/zeit/serve) - 易于使用的静态文件服务器，具有https，CORS和GZIP压缩等功能.
 - [add-gitignore](https://github.com/TejasQ/add-gitignore) - 根据您的需要以交互方式为您的项目生成.gitignore.
@@ -159,7 +160,7 @@
 
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传截图到imgur.
+- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Capture and upload screenshots to imgur.
 - [bitly-client](https://github.com/specious/bitly-client) - 有点客户.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您已完成的工作.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频覆盖和多显示器支持的ffmpeg截屏视频.
@@ -180,7 +181,8 @@
 
 - [Timetrap](https://github.com/samg/timetrap) - 简单的命令行时间跟踪器.
 - [moro](https://github.com/omidfi/moro) - 跟踪工作时间的简单工具.
-- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 时间跟踪实用程序，简单的秒表，基于日历的回填和灵活的报告.
+- [Timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - 具有简单秒表，基于日历的回填和灵活报告的实用程序.
+- [Watson](https://github.com/TailorDev/Watson) - 为客户生成报告并管理您的时间.
 
 ### Note Taking and Lists
 
@@ -211,7 +213,7 @@
 ## Utilities
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
-- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
 - [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
 - [wego](https://github.com/schachmat/wego) - 得到天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
@@ -307,14 +309,14 @@
 ### JSON
 
 - [jq](https://github.com/stedolan/jq) - 命令行JSON处理器.
-- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，不是替换）.
+- [jp](https://github.com/therealklanni/jp) - 只需在命令行上解析并钻取JSON，并支持jsonpath和stdin流（jq兼容，而不是替换）.
 - [fx](https://github.com/antonmedv/fx) - 命令行JSON查看器.
 - [vj](https://github.com/busyloop/vj) - 使JSON人类可读.
 - [strip-json-comments-cli](https://github.com/sindresorhus/strip-json-comments-cli)   - 从JSON中删除评论.  允许您在JSON文件中使用注释！
 
 ### Text
 
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)   - 解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli等工具操作的JSON.
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
 - [figlet](http://www.figlet.org/) - 使用ASCII字符创建大文本.
 
 ## Files and Directories
@@ -324,9 +326,9 @@
 - [ranger](https://github.com/ranger/ranger) - 具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) - 功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) - 整理文件，想象一下即时清理下载内容.
-- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它还从mutt中借用了一些有用的想法.
+- [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
-- [lf](https://github.com/gokcehan/lf) - Fast, extensively customizable file manager.
+- [lf](https://github.com/gokcehan/lf) - 快速，可广泛定制的文件管理器.
 
 ### Deleting, Copying, and Renaming
 
@@ -341,7 +343,7 @@
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - 用于监视文件系统更改的CLI.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - 检测文件或标准输入的文件类型.
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
-- [bat](https://github.com/sharkdp/bat) - 具有语法突出显示的cat克隆.
+- [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
 - [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.
@@ -373,6 +375,7 @@
 - [ripgrep](https://github.com/BurntSushi/ripgrep) - 面向行的搜索工具，以递归方式在当前目录中搜索正则表达式模式.
 - [fzf](https://github.com/junegunn/fzf) - 通用命令行模糊查找器，可以与任何列表一起使用：文件/目录，命令历史，进程，主机名，书签，git提交等.
 - [fselect](https://github.com/jhspetersson/fselect) - 使用类似SQL的查询查找文件.
+- [fd](https://github.com/sharkdp/fd) - “查找”的简单，快速和用户友好的替代方案.
 
 ## Version Control
 

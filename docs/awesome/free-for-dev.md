@@ -178,10 +178,10 @@
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - 持续集成服务的比较
   * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) -  10个免费并行作业，无限分钟，适用于Linux，macOS和Windows的开源
   * [codefresh.io](https://codefresh.io) - 终身免费计划：1个版本，1个环境，共享服务器，无限制的公共回购
-  * [codeship.com](https://codeship.com/) -  100个私人构建/月，5个私有项目，无限制的开源
+  * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [circleci.com](https://circleci.com/) - 免费进行一次并发构建
   * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
-  * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
+  * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
   * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
   * [appveyor.com](https://www.appveyor.com/) - 适用于Windows的CD服务，适用于开源
@@ -211,7 +211,7 @@
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
   * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
-  * [ringcaptcha.com](https://ringcaptcha.com/) — Tools to use phone number as id, available for free
+  * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
   * [alienvault.com](https://www.alienvault.com/open-threat-exchange/reputation-monitor) - 揭示网络中受损的系统
@@ -442,6 +442,8 @@
   * [dnspod.com](https://www.dnspod.com/) - 免费DNS托管.
   * [entrydns.net](https://entrydns.net/) - 具有动态DNS支持的免费DNS托管服务.
   * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) - 免费DNS托管.
+  * [zoneedit.com](https://www.zoneedit.com/free-dns/) - 具有动态DNS支持的免费DNS托管.
+  * [zilore.com](https://zilore.com/ru/dns) - 免费DNS托管.
 
 ## IaaS
 
@@ -491,7 +493,7 @@
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
    * [acunote.com](https://www.acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
-   * [gliffy.com](https://www.gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
+   * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
    * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
@@ -543,7 +545,7 @@
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
-  * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
+  * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://www.figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://www.designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
@@ -656,7 +658,7 @@
   * [SurveyMonkey.com](https://www.surveymonkey.com)   - 创建在线调查.  在线分析结果.  免费计划每次调查仅允许10个问题和100个回复.
 
 ## Other Free Resources
-  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) — A hub of free and Open Source software for developers
+  * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) - 面向开发人员的免费开源软件中心
   * [getawesomeness](https://getawesomeness.herokuapp.com) - 从GitHub中获取所有令人惊叹的精彩内容......一定要看
   * [education.github.com](https://education.github.com/pack)   - 为学生提供免费服务.  需要注册
   * [Framacloud](https://degooglisons-internet.org/en/list/) - 法国非盈利组织的Free / Libre开源软件和SaaS列表 [Framasoft](https://framasoft.org/en/).

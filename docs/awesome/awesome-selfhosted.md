@@ -578,7 +578,6 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 #### File transfer/synchronization
 
 - [Git Annex](https://git-annex.branchable.com/)   - 计算机，服务器，外部驱动器之间的文件同步.  （[Source Code](https://git.joeyh.name/index.cgi/git-annex.git/)）``GPL-3.0``Haskell`
-- [Gossa](https://github.com/pldubouilh/gossa)   -  Gossa是一个轻松简单的文件服务器.  `MIT``Go`
 - [Kinto](https://kinto.readthedocs.org)   -  Kinto是一种具有同步和共享功能的极简主义JSON存储服务.  （[Source Code](https://github.com/Kinto)）`Apache-2.0``Python`
 - [Nextcloud](https://nextcloud.com/) - 访问和共享您的文件，日历，联系人，邮件和 [more](https://apps.nextcloud.com/)  根据您的条款，从任何设备.  （[Demo](https://demo.nextcloud.com/), [Source Code](https://github.com/nextcloud/server)）`AGPL-3.0``PHP`
 - [OpenSSH/SFTP](http://www.openssh.com/)   - 安全文件传输程序.  （[Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.bin/ssh)）`BSD-2-Clause``C`
@@ -656,6 +655,7 @@ _Command-line file upload_
 - [filebrowser](https://filebrowser.xyz/)   -  Web文件管理器，可用作中间件或独立应用程序.  （[Source Code](https://github.com/filebrowser/filebrowser)）``Apache-2.0``Go / VueJS`
 - [Filestash](https://www.filestash.app/)   - 一个Web文件管理器，可让您在任何位置管理数据：FTP，SFTP，WebDAV，Git，S3，Minio，Dropbox或Google Drive.  （[Demo](https://demo.filestash.app/), [Source Code](https://github.com/mickael-kerjean/filestash)）`AGPL-3.0``Go`
 - [goBrowser](https://github.com/xataz/gobrowser)   - 简单的http文件浏览器.  `GPL-3.0``Go`
+- [Gossa](https://github.com/pldubouilh/gossa)   -  Gossa是一个轻松简单的文件服务器.  `MIT``Go`
 - [h5ai](https://larsjung.de/h5ai/)   - 用于HTTP Web服务器的现代文件索引器，专注于您的文件.  目录以吸引人的方式显示，并且通过不同的视图，面包屑和树概述来增强浏览目录.  （[Demo](https://larsjung.de/h5ai/demo/), [Source Code](https://github.com/lrsjng/h5ai)）`MIT`` PHP`
 - [IFM](https://github.com/misterunknown/ifm)   - 单脚本文件管理器.  `MIT``PHP`
 - [ResourceSpace](https://www.resourcespace.com)   -  ResourceSpace开源数字资产管理软件是一种简单，快速，免费的方式来组织您的数字资产.  （[Demo](https://www.resourcespace.com/trial), [Source Code](https://www.resourcespace.com/svn)）`其他``PHP`

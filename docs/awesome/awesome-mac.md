@@ -73,6 +73,7 @@
 * [Agenda](https://agenda.com/)   - 以日期为重点的笔记记录应用程序，用于规划和记录您的项目.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id1287445660?mt=12）
 * [Boostnote](https://boostnote.io/)   - 为程序员制作的笔记应用程序.  [！[开源软件] [OSS图标]]（https://github.com/BoostIO/Boostnote）
 * [Evernote](https://evernote.com/)   - 臭名昭着的笔记应用程序，可在许多平台上使用.  ！[免费软件] [免费软件图标]
+* [FSNotes](https://fsnot.es/)   -  File System Notes是一个现代笔记管理器，原生于macOS和iOS.  [！[开源软件] [OSS图标]]（https://github.com/glushchenko/fsnotes)[！[App Store] [app-store Icon]]（https://apps.apple.com/ GB /应用/ fsnotes / id1277179284？MT = 12）
 * [Inkdrop](https://www.inkdrop.info/) - 构建在Electron之上的Markdown爱好者的笔记本应用程序.
 * [Joplin](https://joplin.cozic.net/)   - 具有markdown支持的跨平台开源记事本和具有同步功能的待办事项列表管理器.  [！[开源软件] [OSS图标]]（https://github.com/laurent22/joplin）！[免费软件] [免费软件图标]
 * [MarginNote](https://marginnote.com/) - 深入的PDF和EPUB阅读，学习，管理和记笔记应用程序.
@@ -192,7 +193,7 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
 * [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
-* [Katalon Studio](https://www.katalon.com)   - 简化API，Web，移动自动化测试免费.  强大的.  跨平台.  来自160个国家的自动化测试人员使用YouTube频道，GitHub存储库.！[免费软件] [免费软件图标]
+* [Katalon Studio](https://www.katalon.com)   - 简化API，Web，移动自动化测试免费.  强大的.  交叉平台.  来自160个国家的自动化测试人员使用YouTube频道，GitHub存储库.！[免费软件] [免费软件图标]
 
 #### Network Analysis
 
@@ -311,7 +312,7 @@
 * [Keylord](https://protonail.com) - 用于Redis，Bolt，LevelDB和Memcached键值数据库的桌面GUI客户端.
 * [MDB Explorer](http://www.macexplorer.co/en/mdb-explorer.php) -  MDB工具，用于打开，读取，导出MDB文件到其他格式和数据库.
 * [Medis](http://getmedis.com)   -  Redis的GUI管理器.  [！[开源软件] [OSS图标]]（https://github.com/luin/medis）
-* [Mingo](https://mingo.io/) - Easy to use MongoDB GUI with mind-blowing features.
+* [Mingo](https://mingo.io/) - 易于使用的MongoDB GUI具有令人兴奋的功能.
 * [Mongo Management Studio](http://www.litixsoft.de/english/mms/) - 简单的MongoDB GUI.
 * [mongoDB.app](https://gcollazo.github.io/mongodbapp/)   - 在Mac上开始使用mongoDB的最简单方法.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/gcollazo/mongodbapp）
 * [MongoDB](https://www.mongodb.com) - MongoDB is a document database with the scalability and flexibility that you want with the querying and indexing that you need. [![Open-Source Software][OSS Icon]](https://github.com/gcollazo/mongodbapp) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/ramnes/awesome-mongodb#desktop)
@@ -471,7 +472,7 @@
 * [Foxmail](http://www.foxmail.com/mac/en)   - 快速电子邮件客户端  ！[免费软件] [免费软件图标]
 * [MailTags](https://smallcubed.com/mt/) - 使用标签来组织电子邮件和日程安排.
 * [N1](https://www.nylas.com/)   - 可扩展的开源邮件应用程序，开发人员免费，Pro为7美元/月.  ！[开源软件] [OSS图标]
-* [Nylas Mail](https://nylas.com/nylas-mail/)   - 基于现代网络构建的可扩展桌面邮件应用程序.  [！[开源软件] [OSS图标]]（https://github.com/nylas/nylas-mail）！[免费软件] [免费软件图标]
+* [Nylas Mail](https://nylas.com/nylas-mail/) - Extensible desktop mail app built on the modern web.  [![Open-Source Software][OSS Icon]](https://github.com/nylas/nylas-mail) ![Freeware][Freeware Icon]
 * [Polymail](https://polymail.io/)   - 简单，美观和强大的电子邮件客户端.  ！[免费软件] [免费软件图标]
 * [Postbox](https://www.postbox-inc.com) - 功能强大，简单而美观的电子邮件客户端，需要支付许可证费用.
 * [Spark](https://sparkmailapp.com/)   - 快速电子邮件客户端  适用于Mac OS和iOS.！[免费软件] [免费软件图标]
