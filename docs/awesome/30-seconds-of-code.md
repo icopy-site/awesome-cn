@@ -326,7 +326,7 @@ const sum = pipeAsyncFunctions（
   async x =&gt;（等待x）+ 4
 );
 （async（）=&gt; {
-  console.log(await sum(5)); // 15 (after one second)
+   console.log（等待sum（5））;  // 15（一秒钟后）
 })();
 ```
 
@@ -398,7 +398,7 @@ const rearg =（fn，indexes）=&gt;（... args）=&gt; fn（... indexes.map（i
 <summary>Examples</summary>
 
 ```js
-被重启=后方（
+var rearged = rearg（
   function（a，b，c）{
     返回[a，b，c];
   },
@@ -698,7 +698,7 @@ const deepFlatten = arr =&gt; [] .concat（... arr.map（v =&gt;（Array.isArray
 <summary>Examples</summary>
 
 ```js
- deepflat（[1，[2]，[[3]，4]，5]）;  // [1,2,3,4,5]
+ deepFlatten（[1，[2]，[[3]，4]，5]）;  // [1,2,3,4,5]
 ```
 
 </details>
@@ -825,7 +825,7 @@ const dropRight =（arr，n = 1）=&gt; arr.slice（0，-n）;
 ```js
 const dropRightWhile =（arr，func）=&gt; {
   let rightIndex = arr.length;
-  while（rightIndex-- &amp;&amp;！func（arr [rightIndex]））;
+  while (rightIndex-- && !func(arr[rightIndex]));
   return arr.slice（0，rightIndex + 1）;
 };
 ```
@@ -898,7 +898,7 @@ const filterFalsy = arr =&gt; arr.filter（Boolean）;
 <summary>Examples</summary>
 
 ```js
- filterFalsy（[&#39;&#39;，true，{}，false，&#39;sample&#39;，1,0]）;  // [true，{}，&#39;sample&#39;，1]
+filterFalsy(['', true, {}, false, 'sample', 1, 0]); // [true, {}, 'sample', 1]
 ```
 
 </details>
@@ -908,7 +908,7 @@ const filterFalsy = arr =&gt; arr.filter（Boolean）;
 
 过滤掉数组中的非唯一值.
 
-Use `Array.prototype.filter()` for an array containing only the unique values.
+使用`Array.prototype.filter（）`表示只包含唯一值的数组.
 
 ```js
 const filterNonUnique = arr =&gt; arr.filter（i =&gt; arr.indexOf（i）=== arr.lastIndexOf（i））;
@@ -981,13 +981,14 @@ const findLast =（arr，fn）=&gt; arr.filter（fn）.pop（）;
 
 使用`Array.prototype.map（）`将每个元素映射到具有索引和值的数组.
 使用`Array.prototype.filter（）`删除`fn`返回falsy值的元素，&#39;Array.prototype.pop（）`来获取最后一个.
+`-1`是未找到时的默认值.
 
 ```js
 const findLastIndex =（arr，fn）=&gt;
-  ARR
+  （ARR
     .map（（val，i）=&gt; [i，val]）
     .filter（（[i，val]）=&gt; fn（val，i，arr））
-    .pop（）[0];
+     .pop（）||  [-1]）[0];
 ```
 
 <details>
@@ -995,6 +996,7 @@ const findLastIndex =（arr，fn）=&gt;
 
 ```js
  findLastIndex（[1,2,3,4]，n =&gt; n％2 === 1）;  // 2（值3的索引）
+ findLastIndex（[1,2,3,4]，n =&gt; n === 5）;  // -1（未找到时的默认值）
 ```
 
 </details>
@@ -1089,7 +1091,7 @@ const head = arr =&gt; arr [0];
 <summary>Examples</summary>
 
 ```js
-head([1, 2, 3]); // 1
+ 头（[1,2,3]）;  // 1
 ```
 
 </details>
@@ -1111,8 +1113,8 @@ const indexOfAll =（arr，val）=&gt; arr.reduce（（acc，el，i）=&gt;（el
 <summary>Examples</summary>
 
 ```js
- indexOfA11（[1,2,3,1,2,3]，1）;  // [0,3]
- indexOfA11（[1,2,3]，4）;  // []
+ indexOfAll（[1,2,3,1,2,3]，1）;  // [0,3]
+ indexOfAll（[1,2,3] 4）;  // []
 ```
 
 </details>
@@ -1259,7 +1261,7 @@ const initializeNDArray =（val，... args）=&gt;
 
 ### intersection
 
-Returns a list of elements that exist in both arrays.
+返回两个数组中存在的元素列表.
 
 从`b`创建一个`Set`，然后在`a`上使用`Array.prototype.filter（）`来保存`b`中包含的值.
 
@@ -1371,7 +1373,7 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
          ？  acc + val + end
         ：i === arr.length  -  1
            ？  acc + val
-          ：acc + val + separator，
+          : acc + val + separator,
     ''
   );
 ```
@@ -1677,7 +1679,7 @@ const permutations = arr =&gt; {
 _（对于不改变原始数组的片段，请参阅 [`without`](#without))_
 
 ```js
-const pull = (arr, ...args) => {
+const pull =（arr，... args）=&gt; {
    让argState = Array.isArray（args [0]）？  args [0]：args;
   let pull = arr.filter（（v，i）=&gt;！argState.includes（v））;
   arr.length = 0;
@@ -1807,7 +1809,7 @@ const reducedFilter =（data，keys，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
-const date = [
+const data = [
   {
     id：1，
     名字：&#39;john&#39;，
@@ -2003,7 +2005,7 @@ const names = [&#39;alpha&#39;，&#39;bravo&#39;，&#39;charlie&#39;];
 
 ### shuffle
 
-随机化数组值的顺序，返回一个新数组.
+Randomizes the order of the values of an array, returning a new array.
 
 使用 [Fisher-Yates algorithm](https://github.com/30-seconds/30-seconds-of-code#shuffle) 重新排序数组的元素.
 
@@ -2724,7 +2726,7 @@ const zipObject =（props，values）=&gt;
 
 ```js
  zipObject（[&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]，[1,2]）;  // {a：1，b：2，c：undefined}
-zipObject(['a', 'b'], [1, 2, 3]); // {a: 1, b: 2}
+ zipObject（[&#39;a&#39;，&#39;b&#39;]，[1,2,3]）;  // {a：1，b：2}
 ```
 
 </details>
@@ -2778,7 +2780,7 @@ zipWith(
 
 ```js
 const arrayToHtmlList =（arr，listID）=&gt;
-  （el =&gt;（
+  （=&gt;（
     (el = document.querySelector('#' + listID)),
      （el.innerHTML + = arr.map（item =&gt;` <li>  $ {}项 </li>  `）.加入（ &#39;&#39;））
   ))();
@@ -2817,7 +2819,7 @@ const bottomVisible =（）=&gt;
 
 
 
- ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，该API仍然是实验性的，但将来应该使用而不是此片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
+ ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，这仍然是实验性的，但应该在将来使用，而不是使用此代码片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
 
 将字符串复制到剪贴板. 
 仅在用户操作的结果下工作（即在“click”事件监听器内）.
@@ -2837,7 +2839,7 @@ const copyToClipboard = str =&gt; {
   el.style.left =&#39; -  9999px&#39;;
   document.body.appendChild（EL）;
   const selected =
-     document.getSelection（）.rangeCount&gt; 0？  document.getSelection（）getRangeAt（0）：false;
+     document.getSelection（）.rangeCount&gt; 0？  document.getSelection（）.getRangeAt（0）：false;
   el.select();
   document.execCommand（ &#39;复制&#39;）;
   document.body.removeChild（EL）;
@@ -2877,7 +2879,7 @@ const counter =（selector，start，end，step = 1，duration = 2000）=&gt; {
       if（current&gt; = end）document.querySelector（selector）.innerHTML = end;
       if（current&gt; = end）clearInterval（timer）;
     }，Math.abs（Math.floor（duration /（end  -  start））））;
-  返回时间;
+  返回计时器;
 };
 ```
 
@@ -2903,7 +2905,7 @@ counter('#my-id', 1, 1000, 5, 2000); // Creates a 2-second timer for the element
 ```js
 const createElement = str =&gt; {
   const el = document.createElement（&#39;div&#39;）;
-  ElderHTML = str;
+  el.innerHTML = str;
   return el.firstElementChild;
 };
 ```
@@ -2924,7 +2926,7 @@ const el = createElement（
 
 
 
-创建一个pub / sub（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
+Creates a pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
 
 使用`Object.create（null）`创建一个空的`hub`对象，该对象不从`Object.prototype`继承属性.
 对于`emit`，基于`event`参数解析处理程序数组，然后通过传入数据作为参数，使用`Array.prototype.forEach（）`运行每个处理程序.
@@ -3132,7 +3134,7 @@ const getImages =（el，includeDuplicates = false）=&gt; {
 ```js
 const getScrollPosition =（el = window）=&gt;（{
    x：el.pageXOffset！== undefined？  el.pageXOffset：el.scrollLeft，
-   并且：el.pageYOffset！== undefined？  el.pageYOffset：el.scrollTop
+   y：el.pageYOffset！== undefined？  el.pageYOffset：el.scrollTop
 });
 ```
 
@@ -3381,7 +3383,7 @@ Removes an event listener from an element.
 省略第四个参数`opts`使用`false`或根据添加事件监听器时使用的选项指定它.
 
 ```js
-const off =（el，可能，fn，opts = false）=&gt; el.removeEventListener（可能，fn，opts）;
+const off =（el，evt，fn，opts = false）=&gt; el.removeEventListener（evt，fn，opts）;
 ```
 
 <details>
@@ -3517,7 +3519,7 @@ const recordAnimationFrames =（callback，autoStart = true）=&gt; {
     });
   };
   if（autoStart）start（）;
-  return { start, stop };
+  return {start，stop};
 };
 ```
 
@@ -3836,7 +3838,7 @@ const formatDuration = ms =&gt; {
     毫秒：Math.floor（ms）％1000
   };
   return Object.entries（time）
-    .filter（choice =&gt; choice [1]！== 0）
+    .filter（val =&gt; val [1]！== 0）
     .map（（[key，val]）=&gt;`$ {val} $ {key} $ {val！== 1？&#39;s&#39;：&#39;&#39;}`）
     .join（&#39;，&#39;）;
 };
@@ -4290,6 +4292,7 @@ const checkProp =（predicate，prop）=&gt; obj =&gt; !!谓词（obj [prop]）;
 
 
 
+
 const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[]）;  //假
  lengthIs4（[1,2,3,4]）;  //真
@@ -4711,7 +4714,7 @@ const delay = d =&gt; new Promise（r =&gt; setTimeout（r，d））;
 
 ### sleep
 
-Delays the execution of an asynchronous function.
+延迟异步函数的执行.
 
 延迟执行`async`函数的一部分，通过将其置于睡眠状态，返回一个`Promise`.
 
@@ -4948,7 +4951,7 @@ const averageBy =（arr，fn）=&gt;
 <summary>Examples</summary>
 
 ```js
- averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 5
+ averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 5
  averageBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 5
 ```
 
@@ -5184,7 +5187,7 @@ const fibonacci = n =&gt;
 
 ```js
 const gcd =（... arr）=&gt; {
-  const _gcd =（x，y）=&gt;（！和？x：gcd（y，x％y））;
+  const _gcd =（x，y）=&gt;（！y？x：gcd（y，x％y））;
   return [... arr] .reduce（（a，b）=&gt; _gcd（a，b））;
 };
 ```
@@ -5348,7 +5351,7 @@ const isNegativeZero = val =&gt; val === 0 &amp;&amp; 1 / val === -Infinity;
 ```js
 const isPrime = num =&gt; {
   const boundary = Math.floor（Math.sqrt（num））;
-  for（is i = 2; i &lt;= boundary; i ++）if（num％i === 0）return false;
+  for（var i = 2; i &lt;= boundary; i ++）if（num％i === 0）return false;
   返回是否&gt; = 2;
 };
 ```
@@ -5458,7 +5461,7 @@ const maxBy =（arr，fn）=&gt; Math.max（... arr.map（typeof fn ===&#39;func
 <summary>Examples</summary>
 
 ```js
- maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]或=&gt; on）;  // 8
+ maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 8
  maxBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 8
 ```
 
@@ -6052,7 +6055,7 @@ const hashNode = val =&gt;
 
 ```js
 const isDuplexStream = val =&gt;
-  选择！==零&amp;&amp;
+  val！== null &amp;&amp;
   typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._read ===&#39;function&#39;&amp;&amp;
@@ -6081,7 +6084,7 @@ const Stream = require（&#39;stream&#39;）;
 
 ```js
 const isReadableStream = val =&gt;
-  选择！==零&amp;&amp;
+  val！== null &amp;&amp;
   typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._read ===&#39;function&#39;&amp;&amp;
@@ -6149,7 +6152,7 @@ const isTravisCI =（）=&gt;&#39;process TR中的&#39;TRAVIS&#39;和process.env
 
 ```js
 const isWritableStream = val =&gt;
-  选择！==零&amp;&amp;
+  val！== null &amp;&amp;
   typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._write ===&#39;function&#39;&amp;&amp;
@@ -6388,9 +6391,9 @@ const deepGet =（obj，keys）=&gt; keys.reduce（（xs，x）=&gt;（xs &amp;&
 
 ```js
 let index = 2;
-const dat = {
+const data = {
   foo：{
-    [1,2,3]，
+    口：[1,2,3]，
     吧：{
       巴兹：[&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]
     }
@@ -6502,7 +6505,7 @@ const dig =（obj，target）=&gt;
 <summary>Examples</summary>
 
 ```js
-const dat = {
+const data = {
   1级： {
     level2：{
       level3：&#39;一些数据&#39;
@@ -6699,7 +6702,7 @@ const functions =（obj，inherited = false）=&gt;
 <summary>Examples</summary>
 
 ```js
-function Foo() {
+function Foo（）{
   this.a =（）=&gt; 1;
   this.b =（）=&gt; 2;
 }
@@ -6851,7 +6854,7 @@ const users = {
 
 比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`并进行严格比较，以确定第一个对象中是否存在所有键并具有相同的值.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和严格比较来确定第一个对象中是否存在所有键并具有相同的值.
 
 ```js
 const matches =（obj，source）=&gt;
@@ -6862,7 +6865,7 @@ const matches =（obj，source）=&gt;
 <summary>Examples</summary>
 
 ```js
- 匹配（{age：25，hair：&#39;long&#39;，beard：true}，{hair：&#39;long&#39;，beard：true}）;  //真
+matches({ age: 25, hair: 'long', beard: true }, { hair: 'long', beard: true }); // true
  match（{hair：&#39;long&#39;，beard：true}，{age：25，hair：&#39;long&#39;，beard：true}）;  //假
 ```
 
@@ -6929,7 +6932,7 @@ const object = {
   b：1
 };
 const other = {
-  并且：{z：3}，
+  和：{of：3}，
   b：[2,3]，
   c：&#39;foo&#39;
 };
@@ -7151,7 +7154,7 @@ const renameKeys =（keysMap，obj）=&gt;
   Object.keys（OBJ）.降低（
     （acc，key）=&gt;（{
       ... ACC，
-       ...... {[KeymarksMap [key] ||  关键]：obj [key]}
+       ...... {[keysMap [key] ||  关键]：obj [key]}
     }),
     {}
   );
@@ -7252,7 +7255,7 @@ transform(
 
 ### truthCheckCollection
 
-Checks if the predicate (second argument) is truthy on all elements of a collection (first argument).
+检查谓词（第二个参数）是否对集合的所有元素（第一个参数）都是真实的.
 
 使用`Array.prototype.every（）`来检查每个传递的对象是否具有指定的属性，以及它是否返回truthy值.
 
@@ -7287,7 +7290,7 @@ const unflattenObject = obj =&gt;
         JSON.parse（
           '{' +
             keys.map（（v，i）=&gt;（i！== keys.length  -  1？`“$ {v}”：{`：`“$ {v}”：`））.join（&#39;&#39;） +
-            obj [k] +
+            vol [k] +
             &#39;}&#39;.重复（keys.length）
         )
       );
@@ -7485,7 +7488,7 @@ const decapitalize =（[first，... rest]，upperRest = false）=&gt;
 
 转义字符串以在HTML中使用.
 
-使用带有regexp的`String.prototype.replace（）`，该regexp与需要转义的字符匹配，使用回调函数使用字典（对象）将每个字符实例替换为其关联的转义字符.
+使用带有regexp的`String.prototype.replace（）`，该regexp匹配需要转义的字符，使用回调函数使用字典（对象）将每个字符实例替换为其关联的转义字符.
 
 ```js
 const escapeHTML = str =&gt;
@@ -7574,7 +7577,7 @@ const indentString =（str，count，indent =&#39;&#39;）=&gt; str.replace（/ 
 <summary>Examples</summary>
 
 ```js
- indentString（“LOREM \夹口”，2）;  // &#39;LOREM \ n很&#39;
+indentString('Lorem\nIpsum', 2); // '  Lorem\n  Ipsum'
  indentString（ &#39;LOREM \咬&#39;，2， &#39;_&#39;）;  // __Lorem \ n__Ipsum“
 ```
 
@@ -7588,7 +7591,7 @@ const indentString =（str，count，indent =&#39;&#39;）=&gt; str.replace（/ 
 使用正则表达式来测试字符串是否是绝对URL.
 
 ```js
-const isAbsoluteURL = str =&gt; /^ [az] [ -  z0-9 + .-] *：/.test(str）;
+const isAbsoluteURL = str =&gt; /^ [az] [az0-9 + .-] *：/.test(str）;
 ```
 
 <details>
@@ -7626,7 +7629,7 @@ const isAnagram =（str1，str2）=&gt; {
 <summary>Examples</summary>
 
 ```js
- isAnagram（&#39;iceman&#39;，&#39;cinema&#39;）;  //真
+isAnagram('iceman', 'cinema'); // true
 ```
 
 </details>
@@ -7669,7 +7672,7 @@ const isUpperCase = str =&gt; str === str.toUpperCase（）;
 <summary>Examples</summary>
 
 ```js
-isUpperCase('ABC'); // true
+ isUpperCase（ &#39;ABC&#39;）;  //真
  isLowerCase（ &#39;A3 @ $&#39;）;  //真
  isLowerCase（ &#39;AB4&#39;）;  //假
 ```
@@ -7892,7 +7895,7 @@ const splitLines = str =&gt; str.split（/ \ r？\ n /）;
 
 
 
- ⚠️**警告**：此函数的执行时间随每个字符呈指数增长.  任何超过8到10个字符的内容都会导致浏览器挂起，因为它会尝试解决所有不同的组合.
+ ⚠️**警告**：此函数的执行时间随每个字符呈指数增长.  超过8到10个字符的任何内容都会导致浏览器在尝试解决所有不同组合时挂起.
 
 生成字符串的所有排列（包含重复项）.
 
@@ -7955,7 +7958,7 @@ const toCamelCase = str =&gt; {
   让s =
     str &amp;&amp;
     海峡
-      .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+      .match（/ [AZ] {2，}（？= [AZ] + [0-9] * | \ b）| [AZ] + [az] + [0-9] * | [AZ] | [0-9] + / g）
       .map（x =&gt; x.slice（0,1）.toUpperCase（）+ x.slice（1）.toLowerCase（））
       .加入（&#39;&#39;）;
   return s.slice（0,1）.toLowerCase（）+ s.slice（1）;
@@ -7985,7 +7988,7 @@ const toCamelCase = str =&gt; {
 const toKebabCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] + [0-9] * | \ b）| [AZ] + [az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;-&#39;）;
 ```
@@ -8011,10 +8014,10 @@ const toKebabCase = str =&gt;
 将字符串分解为单词并将它们组合使用regexp将`_`添加为分隔符.
 
 ```js
-constSnakeCase = str =&gt;
+const toSnakeCase = str =&gt;
   str &amp;&amp;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] + [0-9] * | \ b）| [AZ] + [az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.toLowerCase（））
     .加入（&#39;_&#39;）;
 ```
@@ -8042,7 +8045,7 @@ constSnakeCase = str =&gt;
 ```js
 const toTitleCase = str =&gt;
   海峡
-    .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | b）| [AZ]？[az] + [0-9] * | [AZ] | [0-9] + / g）
+    .match（/ [AZ] {2，}（？= [AZ] + [0-9] * | \ b）| [AZ] + [az] + [0-9] * | [AZ] | [0-9] + / g）
     .map（x =&gt; x.charAt（0）.toUpperCase（）+ x.slice（1））
     .join（&#39;&#39;）;
 ```
@@ -8114,7 +8117,7 @@ unescapeHTML('&lt;a href=&quot;#&quot;&gt;Me &amp; you&lt;/a&gt;'); // '<a href=
 
 
 
-将所有给定的URL段连接在一起，然后规范化生成的URL.
+Joins all given URL segments together, then normalizes the resulting URL.
 
 使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后使用各种regexp调用一系列`String.prototype.replace（）`来规范化生成的URL（删除双斜杠，为协议添加适当的斜杠） ，在参数前删除斜杠，将参数与&#39;&#39;＆&#39;组合，并规范化第一个参数分隔符）.
 
@@ -8649,7 +8652,7 @@ const coalesce =（... args）=&gt; args.find（_ =&gt;！[undefined，null] .in
 <summary>Examples</summary>
 
 ```js
- 合并（null，undefined，&#39;&#39;，NaN，&#39;Waldo&#39;）;  //“”
+coalesce(null, undefined, '', NaN, 'Waldo'); // ""
 ```
 
 </details>
@@ -8714,7 +8717,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    （a，v）=&gt;（（和[v.slice（0，v.indexOf（&#39;=&#39;））] = v.slice（v.indexOf（&#39;=&#39;）+ 1））
+    （a，v）=&gt;（（[v.slice（0，v.indexOf（&#39;=&#39;））]）= v.slice（v.indexOf（&#39;=&#39;）+ 1）），
     {}
   );
 ```
@@ -8838,7 +8841,7 @@ const newPost = {
   userId：1，
   id：1337，
   标题：&#39;Foo&#39;，
-  身体：酒吧吧
+  身体：&#39;酒吧吧&#39;
 };
 const data = JSON.stringify（newPost）;
 httpPost(
@@ -9152,7 +9155,7 @@ const toDecimalMark = num =&gt; num.toLocaleString（&#39;en-US&#39;）;
 如果在青少年模式中找到数字，请使用青少年序数.
 
 ```js
-const toOrdinalSuffix = num =&gt; {
+const toOrdinalSuffix = num => {
   const int的= parseInt函数（NUM）;
     digits = [int％10，int％100]，
     ordinals = [&#39;st&#39;，&#39;nd&#39;，&#39;rd&#39;，&#39;th&#39;]，

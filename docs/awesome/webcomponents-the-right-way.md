@@ -5,7 +5,7 @@
 
 &gt;精选的Web组件资源的精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 将其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
@@ -117,7 +117,7 @@
 ### HTML Templates
 
 - [&lt;template&gt;: The Content Template element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/template)
-- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots))
+- [Using templates and slots (MDN)](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_templates_and_slots)
 
 ### Best Practices
 
@@ -241,6 +241,7 @@
   - [Part 4: Polymer Library](https://dev.to/bennypowers/lets-build-web-components-part-4-polymer-library-4dk2)
   - [Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
   - [Part 6: Gluon](https://dev.to/bennypowers/lets-build-web-components-part-6-gluon-27ll)
+  - [Part 7: Hybrids](https://dev.to/bennypowers/lets-build-web-components-part-7-hybrids-187l)
 
 - “** Web组件：从零到英雄**”由 [Pascal Schilp](https://github.com/thepassle)
   - [Part 1: An introduction to writing raw Web Components](https://dev.to/thepassle/web-components-from-zero-to-hero-4n4m)

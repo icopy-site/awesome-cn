@@ -375,10 +375,10 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [gimme](https://github.com/folixg/gimme-ohmyzsh-plugin) - 使用gimme管理Go安装.
 * [git-add-remote](https://github.com/caarlos0/git-add-remote) - 轻松将上游遥控器添加到您的`git`前叉.
 * [git-aliases (mdumitru)](https://github.com/mdumitru/git-aliases) - 中断版本的版本 [oh-my-zsh](http://ohmyz.sh/) 所以其他框架的用户不必导入所有的oh-my-zsh.
-* [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) - 为常用的`git`命令组合创建许多有用的别名.
+* [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) - Creates a lot of useful aliases for combinations of commonly used `git` commands.
 * [git-complete-urls](https://github.com/rapgenic/zsh-git-complete-urls) - 增强`git`完成以包括在遥控器完成（例如来自`git clone`）剪贴板中的任何URL.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) - 作为插件打包的额外`git`帮助程序脚本.
-* [git-ignore](https://github.com/laggardkernel/git-ignore)   - 从gitignore.io **离线**生成`.gitignore`文件.  `fzf`，完成，预览集成.
+* [git-ignore](https://github.com/laggardkernel/git-ignore) - Generates `.gitignore` files from gitignore.io **offline**. `fzf`, completion, preview integrated.
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) - 添加在GitHub上打开当前分支中的文件夹的功能.
 * [git-plugin](https://github.com/rcruzper/zsh-git-plugin) - 为`git`添加一些功能.
 * [git-prompt-useremail](https://github.com/mroth/git-prompt-useremail) - 为`git` user.email添加提示符.
@@ -449,7 +449,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [kubernetes](https://github.com/Dbz/zsh-kubernetes) - 添加 [kubernetes](https://kubernetes.io) 辅助函数和别名.
 * [laradock-workspace](https://github.com/rluders/laradock-workspace-zsh) - 提供接口 [Laradock](http://laradock.io/)的工作空间.
 * [laravel](https://github.com/crazybooot/laravel-zsh-plugin) - 为Laravel 5,5.1,5.2和5.3添加快捷方式.
-* [last-working-directory (mdumitru)](https://github.com/mdumitru/last-working-dir) - 中断版本的版本 [oh-my-zsh](http://ohmyz.sh/) so users of other frameworks don't have to import all of OMZ.
+* [last-working-directory (mdumitru)](https://github.com/mdumitru/last-working-dir) - 中断版本的版本 [oh-my-zsh](http://ohmyz.sh/) 所以其他框架的用户不必导入所有OMZ.
 * [lazyload](https://github.com/qoomon/zsh-lazyload) - 延迟加载命令并加快ZSH的启动时间.
 * [lesaint-git](https://github.com/lesaint/lesaint-git) - 为Oh-My-Zsh兼容的框架替换`git`插件.
 * [lesaint-mvn](https://github.com/lesaint/lesaint-mvn) - 用于oh-my-zsh的Maven插件.
@@ -883,7 +883,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [fritz](https://github.com/fritzccc/fritz-zsh-theme)   - 适用于深色背景.  包括`git`状态装饰.
 * [frlo](https://github.com/fiorillo/frlo) - 使用计算机的主机名来提供（希望）独特的三色主题，以便在您的提示中显示，这样您就可以一眼就知道您登录的是哪台计算机.
 * [funkyberlin](https://github.com/Ottootto2010/funkyberlin-zsh-theme) - 丰富的双线主题，支持`​​git`和`svn`.
-* [furio](https://github.com/hectorpalmatellez/furio-theme) - 叉子 [Cloud](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/cloud.zsh-theme) oh-my-zsh theme. with different colors and emojis.
+* [furio](https://github.com/hectorpalmatellez/furio-theme) - 叉子 [Cloud](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/cloud.zsh-theme)  哦，我的主题.  不同的颜色和表情符号.
 * [furry-umbrella](https://github.com/kb10uy/zsh-theme-furry-umbrella) - 丰富多彩的主题，在黑暗的背景下更好地工作.
 * [garrett](https://github.com/chauncey-garrett/zsh-prompt-garrett) -  Prezto在您需要的时候提示您需要的信息.
 * [gawaine](https://github.com/nicolaracco/gawaine.zsh-theme)   -  Nicola Racco的主题.  需要`rvm`和`git`插件.
@@ -957,13 +957,13 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [kw](https://github.com/Kwpolska/kw.zsh-theme) - 带有`git`和`hg`状态信息的彩色主题，能够将主机特定颜色添加到主机名.
 * [kyuu](https://github.com/arturoalviar/kyuu-zsh-theme)   - 一个简单的主题，第一个字符是九（kyuu），数字9.主要颜色是蓝色，带有洋红色的重音.  包括`git`状态装饰.
 * [lagune](https://github.com/noplay/lagune) - 最小的ZSH主题.
-* [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) - 主题灵感来自robbyrussell [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme)  主题.  包括`git`状态装饰.
+* [lambda (cdimascio)](https://github.com/cdimascio/lambda-zsh-theme) - 受到robbyrussell的启发 [lambda](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/lambda.zsh-theme)  主题.  包括`git`状态装饰.
+* [lambda (halfo)](https://github.com/halfo/lambda-mod-zsh-theme/) - 为使用兼容unicode的字体和终端应用程序的`git`用户优化的ZSH主题.
 * [lambda-gitster](https://github.com/ergenekonyigit/lambda-gitster) - 包含`git`信息的极简主义提示.
 * [lambda-minimal](https://github.com/sohnryang/lambda-minimal-theme) - 基于lambda的简单主题，带有`git`状态和virtualenv信息.
 * [lambda-mod](https://github.com/halfo/lambda-mod-zsh-theme) - 一个简单的ZSH主题，针对`git`使用进行了优化.
 * [lambda-pure](https://github.com/marszall87/lambda-pure) - 基于Pure的最小ZSH主题，添加了NodeJS版本.
-* [lambda](https://github.com/halfo/lambda-mod-zsh-theme/) - 为使用兼容unicode的字体和终端应用程序的`git`用户优化的ZSH主题.
-* [lambdav](https://github.com/vkaracic/lambdav-zsh-theme) -  Lambda和Fishy主题的组合.
+* [lambda-v](https://github.com/vkaracic/lambdav-zsh-theme) -  Lambda和Fishy主题的组合，包括`git`状态装饰.
 * [lazyprodigy](https://github.com/drewlustro/lazyprodigy-zsh-theme) - 针对黑暗终端进行了优化，具有适用于本地和远程系统的变体.
 * [leafia](https://github.com/Ghostrick/leafia-prompt) -  Leafy prezto主题，显示`git`状态信息.
 * [lewis](https://github.com/lewisflude/oh-my-lewis)   - 黑色，白色和红色主题.  显示`git`状态信息.
@@ -1118,6 +1118,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [silver](https://github.com/reujab/silver) - 一个跨壳可定制的类似电力线的提示，受到了很大的启发 [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) .  一个更快的生锈端口 [bronze](https://github.com/reujab/bronze) .  需要 [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts).
 * [simpalt](https://github.com/m-lima/simpalt) -  ZSH的信息丰富的小足迹主题.
 * [simple-agnoster](https://github.com/iwat/simple-agnoster.zsh-theme) - 电源线灵感的简单主题与`git`装饰.
+* [simple](https://github.com/pavdmyt/simple-oh-my-zsh-theme) - 基于的极简主题 [robbyrussel](https://github.com/robbyrussell/oh-my-zsh/wiki/Themes#robbyrussell) 在iTerm的窗口标题栏中嵌入`git`状态信息，而不是在提示符中使用空格.
 * [simplex](https://github.com/feddamisch/zsh-theme-simplex) - 一个简单的主题与右侧`git`装饰.
 * [simplezsh](https://github.com/fr0zn/simplezsh) - 使用`git`信息显示的最小主题.
 * [sinon](https://github.com/k-kinzal/oh-my-zsh-sinon-theme)   -  k-kinzal的sinon主题.  包括`git`状态装饰.
@@ -1160,6 +1161,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [traffic](https://github.com/fcce/traffic-zsh-theme) -  ZSH的黑暗主题.
 * [trajan](https://github.com/denisinla/trajan-zsh-theme) -  ZSH的黑暗主题.
 * [trinity](https://github.com/de-luca/Trinity) - 基于的简单主题 [geometry](https://github.com/geometry-zsh/geometry) .  包括`git`装饰.
+* [tsotra](https://github.com/nylo-andry/zsh-themes) - 极简主题，包括`git`状态装饰，k8s上下文和`rvm`状态.
 * [tvline](https://github.com/thvitt/tvline) - 源自 [agnoster's theme](https://gist.github.com/agnoster/3712874)，添加powerline字体增强功能.
 * [ultimate](https://github.com/b4b4r07/ultimate) - 使用`git`指示器，vim模式指示器和缩短路径的极简主题.
 * [vanan](https://github.com/avano/vanan-zsh-theme) - 极简主题主题与黑色终端的`git`信息.

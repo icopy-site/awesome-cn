@@ -26,8 +26,8 @@
 - [tigon](https://github.com/caskdata/tigon) [C ++ / Java]  - 基于Hadoop和HBase构建的高吞吐量实时流处理框架.
 - [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java]  - 使用交互式prototying shell SOL（Stream Operator Language）进行简单优雅的流处理
 Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
-- [Trill](https://github.com/Microsoft/trill) [.NET/C#] Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
-- [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python]  - 超快速弹性数据处理引擎.  大数据或快速数据 - 无需大惊小怪，无需Java.
+- [Trill](https://github.com/Microsoft/trill) [.NET/C#] - Trill is a high-performance one-pass in-memory streaming analytics engine from Microsoft Research.
+- [Wallaroo](https://github.com/WallarooLabs/wallaroo)  [Python]  - 一个快速的流处理框架.  Wallaroo可以轻松实时响应数据.  通过消除基础架构的复杂性，从原型到生产从未如此简单.
 
 ### Streaming Library
 
@@ -39,7 +39,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Streamline](https://github.com/hortonworks/streamline)  [Java]  -  Hortonworks的Stream Analytics Framework，旨在作为Storm等现有流媒体解决方案的包装器.  旨在允许用户拖放流组件以专注于业务逻辑.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]  -  Airbnb的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala]  -  Scala的轻量级Reactive Streams基础架构工具包.
-- [Streamz](https://github.com/python-streamz/streamz) [Python]  - 用于构建管道以管理连续数据流的轻量级库 - 支持涉及分支，连接，流控制，反馈，背压等的复杂管道.
+- [Streamz](https://github.com/python-streamz/streamz)  [Python]  - 一个轻量级库，用于构建管道以管理连续的数据流;  支持复杂的管道，包括分支，连接，流量控制，反馈，背压等.
 
 ### Streaming Application
 
@@ -56,7 +56,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Apache Beam](https://github.com/apache/beam) [Java]  - 统一模型和一组特定于语言的SDK，用于定义和执行数据处理工作流，以及数据提取和集成流程，支持企业集成模式（EIP）和域特定语言（DSL），由Google开源.
 - [coast](https://github.com/bkirwi/coast) [Scala]  - 一种在Samza之上构建DAG并提供完全一次语义的DSL.
 - [Esper](https://github.com/espertechinc/esper) [Java]  - 用于复杂事件处理（CEP）和事件序列分析的组件.
-- [Streamparse](https://github.com/Parsely/streamparse) [Python]  - 允许您通过Apache Storm针对实时数据流运行Python代码.
+- [Streamparse](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
 - [summingbird](https://github.com/twitter/summingbird) [Scala]  - 允许您编写看起来像本机Scala或Java集合转换的MapReduce程序的库，并在许多着名的分布式MapReduce平台上执行它们，包括Storm和Scalding.
 
 ### Data Pipeline
@@ -69,7 +69,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [flume](https://github.com/apache/flume) [Java]  - 分布式，可靠且可用的服务，用于高效收集，聚合和移动大量日志数据.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java]  - 淘宝网高可用，高性能的分布式邮件系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go]  - 快速磁盘支持的消息传递解决方案
-- [nsq](https://github.com/nsqio/nsq) [Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
+- [nsq](https://github.com/nsqio/nsq) [Go]  - 旨在大规模运营的实时分布式消息传递平台，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]  - 用于收集，聚合和分派大量应用程序事件（包括日志数据）的数据管道服务.
 - [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可读取和写入大量端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
 
@@ -89,7 +89,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [squall](https://github.com/epfldata/squall) [Java]  -  Squall在Storm之上执行SQL查询以进行在线处理.
 - [StreamCQL](https://github.com/Zhiqiang-He/StreamCQL) [Java]  - 实时计算系统上的连续查询语言.
 - [KSQL](https://github.com/confluentinc/ksql) [Java]  -  Apache Kafka的流式SQL引擎.
-- [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/) [.NET]用于处理流数据的大规模可扩展SQL引擎
+
 
 ### Benchmark
 

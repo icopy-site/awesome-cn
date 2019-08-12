@@ -44,6 +44,9 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge)   - 项目标志.  有用的徽章和链接（网站，文档，演示）.  截图.  功能列表.  有关安装，开发和测试的分步说明.  链接到贡献指南.  好的移动摘要.
 - [vhesener/Closures](https://github.com/vhesener/Closures)   - 项目徽标，认知漏斗，动画示例.  颜色协调.  清洁文档.
 - [release-it/release-it](https://github.com/release-it/release-it)   - 使用演示GIF清楚地了解项目功能.  徽章.  可扩展的TOC.  用法说明和示例.  贡献指南.  详细发布.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select)   - 使用GIF屏幕截图清除自述文件以进行快速演示.  多个徽章，简洁的ToC，在线游乐场，故事书，详细说明等.
+
+
 
 ## Articles
 
@@ -57,7 +60,7 @@
 
 - [Common Readme](https://github.com/noffle/common-readme)   -  Node的常见自述文件样式.  包括指南和自述文件生成器.
 - [Feedmereadmes](https://github.com/lappleapple/feedmereadmes) - 自述文件编辑和项目分析/反馈.
-- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame) - Helps show recognition to repo contributors on README. Features new/trending/top contributors. Updates every hour.
+- [Hall-of-fame](https://github.com/sourcerer-io/hall-of-fame)   - 帮助在README上表达对回购贡献者的认可.  具有新/趋势/顶级贡献者.  每小时更新一次.
 - [Make a README](https://www.makeareadme.com/)   - 编写自述文件的指南.  包含带有实时Markdown渲染的可编辑模板.
 - [README best practices](https://github.com/jehna/readme-best-practices) - 从中​​复制粘贴README.md的地方
 - [readme-md-generator](https://github.com/kefranabg/readme-md-generator) - 生成漂亮的README.md文件的CLI
@@ -69,7 +72,7 @@
  在README中嵌入动画gif可以快速演示您的项目的作用并吸引读者的注意力.  以下是一些可以帮助您快速为项目创建GIF的程序：
 
 - [Gifox](https://gifox.io) -  ** 4.99美元**  - 最干净的用户界面，热键，许多高级功能
-- [Giphy Capture](https://giphy.com/apps/giphycapture) -  **免费**  - 轻松上传到giphy.com，有点烦人的用户体验.
+- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
 - [LICEcap](https://www.cockos.com/licecap/) -  **免费**  - 不太直观，更多功能
 - [Recordit](https://recordit.co/) -  **免费**  - 简单，干净的用户界面，但自动上传到 [recordit.co](https://recordit.co/)
 - [Peek](https://github.com/phw/peek) -  **免费**  - 简单易用的Linux用户.
