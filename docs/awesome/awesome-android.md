@@ -39,7 +39,7 @@
 - [HelloCharts](https://github.com/lecho/hellocharts-android) - 图表和图形库，支持缩放，滚动和动画.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 支持按手势缩放和拖动的Android图表和图形库.
 - [ArcChartView](https://github.com/imaNNeoFighT/ArcChartView) - 绘制创意统计弧图.
-- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - Data visualization library, Interactive charts.
+- [AnyChart](https://github.com/AnyChart/AnyChart-Android) - 数据可视化库，交互式图表.
 
 ### Cloud Services
 
@@ -94,6 +94,7 @@
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于Android项目的灵活，易用，一体化应用程序介绍库.
 - [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与API 8+兼容的Material Design Calendar
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
+- [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView)   - 具有平滑过卷的小型自定义视图.  您可以添加带缩放背景的标题
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠列表视图项的内容时提供了一个奇特的动画.
@@ -168,7 +169,7 @@
 
 - [Picasso](https://github.com/square/picasso) - 适用于Android的强大图像下载和缓存库.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - 异步，开箱即用的图像加载和缓存.
-- [Glide](https://github.com/bumptech/glide) - 适用于Android的图像加载和缓存库，专注于平滑滚动，由Google推荐.
+- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
 - [Fresco](https://github.com/facebook/fresco) - 用于管理图像及其使用内存的Android库.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) -  Glide Bitmap Pool是一个用于重用位图内存的内存管理库.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) -  Android库，可让您为Android选择多个图像，视频或语音
@@ -213,7 +214,7 @@
 - [IceSoap](https://github.com/AlexGilleran/IceSoap) - 适用于Android的简单，异步，基于注释的SOAP.
 - [node-android](https://github.com/InstantWebP2P/node-android) - 在Android上运行Node.js.
 - [HappyDns](https://github.com/qiniu/happy-dns-android)   - 一个Dns库，用户可以使用自定义DNS服务器，dnspod httpdns.  仅支持A记录.
-- [RESTMock](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
+- [RESTMock](https://github.com/andrzejchm/RESTMock) - 用于在Android Instrumentation测试中模拟API响应的HTTP Web服务器.
 - [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) - 一个完整的快速Android网络库，也支持HTTP / 2.
 
 ### Logger
@@ -251,7 +252,7 @@
 
 ### REST
 
-- [Retrofit](http://square.github.io/retrofit/) -  Retrofit将您的REST API转换为Java接口.
+- [Retrofit](https://square.github.io/retrofit/) -  Retrofit将您的REST API转换为Java接口.
 - [Spring for Android - Rest Template](https://github.com/spring-projects/spring-android) - 适用于Android的Rest客户端.
 
 ### Testing
@@ -316,7 +317,7 @@
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) -  Android Chat和Messaging SDK，用于在Android应用程序中添加实时聊天和应用程序内消息.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)   -  Qiscus SDK是一个轻量级且功能强大的Android聊天库.  Qiscus SDK将允许您轻松地将Qiscus引擎与您的应用程序集成，以制作出酷炫的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)   -  Kommunicate在android中提供开源实时聊天sdk.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用程序内消息，以获得客户支持.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/CometChat/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat为实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
 
 #### Custom Dialog
 
@@ -342,6 +343,10 @@
 - [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) - 基于简单注释的API来处理运行时权限.
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) - 由RxJava支持的Android运行时权限.
 - [NoPermission](https://github.com/NoNews/NoPermission)   - 用于权限请求的简单Android库.  仅由一个班组成.
+
+### Payments
+
+- [Square In-App Payments for Android](https://developer.squareup.com/docs/in-app-payments-sdk/build-on-android) - 通过数字钱包和存储卡支持将Square支付集成到您的移动应用程序中，以便快速结账.
 
 ### Other
 
@@ -391,10 +396,10 @@
 - [android-blogs](https://github.com/vbauer/android-blogs) - 列出有关Android的博客.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - 关于Retrofit，Picasso，Glide和Gson的广泛Android教程.
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) -  Cheatsheet关于Android开发的提示和技巧.
-- [Droid Talks](http://www.droidtalks.pro/) - 按主题分类的令人敬畏的Android会话和学习资源.
 - [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - 准备测试的材料集合.
-- [Google Developers Training](https://developers.google.com/training/android/) -  Google Developers官方培训页面列出了适合初学者和经验丰富的开发人员的各种有用的学习资源.
+- [Google Developers Training](https://developer.android.com/courses/) -  Google Developers官方培训页面列出了适合初学者和经验丰富的开发人员的各种有用的学习资源.
 - [Mindorks](https://mindorks.com/) - 成为一个完整而快乐的Android开发人员.
+- [AndroidVille](https://ayusch.com/)   - 成为更好的Android工程师.  一个致力于Android开发的网站，涵盖RxJava，Android Zygote等高级主题.
 
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -  Android架构蓝图项目演示了帮助解决或避免常见安卓问题的策略.
@@ -411,7 +416,7 @@
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) - 大型android库列表
-- [Square libraries](http://square.github.io/#android) - 方形的多个高质量库.
+- [Square libraries](https://square.github.io/) - 方形的多个高质量库.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - 您的Android工具箱.
 - [Android Store](https://mindorks.com/android/store) - 搜索Android库，项目和工具.
 
@@ -450,7 +455,7 @@
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife在Kotlin中编写的Android视图注入
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - 一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-- [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级库，提供有用的扩展，以消除Android SDK中的样板代码.
+- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - 使用Uncle Bob干净的架构，Kotlin语言和最新的Android技术的基础项目.
 - [Koin](https://insert-koin.io/) -  Kotlin的轻量级依赖注入框架

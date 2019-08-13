@@ -48,7 +48,7 @@
     *应用服务 -  10个网络，移动或API应用
     *功能 - 每月100万个请求
     * DevTest Labs  - 实现快速，简单和精简的开发测试环境
-    * Active Directory  -  500,000个对象
+    * Active Directory - 500,000 objects
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
     * Microsoft IoT Hub  - 每天8,000条消息
@@ -129,7 +129,7 @@
   * [typetalk.com](https://www.typetalk.com/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
   * [talky.io](https://talky.io/)   - 免费群聊视频.  匿名.  点对点.  无需插件，注册或付款
   * [helplightning.com](https://www.helplightning.com/)   - 通过增强现实帮助视频.  免费，无需分析，加密，支持
-  * [evernote.com](https://evernote.com/)   - 组织信息的工具.  分享您的笔记并与他人一起工作
+  * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
@@ -181,7 +181,7 @@
   * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
   * [circleci.com](https://circleci.com/) - 免费进行一次并发构建
   * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
-  * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
+  * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
   * [semaphoreci.com](https://semaphoreci.com/) - 免费开源，每月100个私人构建
   * [shippable.com](https://app.shippable.com/) - 每月150个私人建筑，1个建筑集装箱，私人和公共回购免费
   * [appveyor.com](https://www.appveyor.com/) - 适用于Windows的CD服务，适用于开源
@@ -229,7 +229,7 @@
   * [Internet.nl](https://internet.nl) - 测试现代互联网标准，如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
   * [Mozilla Observatory](https://observatory.mozilla.org/) - 查找并修复站点中的安全漏洞.
   * [Shieldfy](https://shieldfy.io) - 面向开发人员的Web应用程序防火墙和漏洞检测，每月免费计划多达10万个请求.
-  * [Sqreen](https://www.sqreen.com/)   -  Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用程序和300万个请求.
+  * [Sqreen](https://www.sqreen.com/)   -  Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用和300万个请求.
 
 ## Management System
 
@@ -250,7 +250,7 @@
 
 ## Translation Management
 
-  * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
+  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
@@ -393,7 +393,7 @@
   * [zapier.com](https://zapier.com/)   - 连接您使用的应用程序，以自动执行任务.  5次，每15分钟100次，每月100次
   * [stackstorm.com](https://stackstorm.com/) - 针对应用，服务和工作流的事件驱动自动化，免费无流量，访问控制，LDAP，......
   * [simperium.com](https://simperium.com/)   - 即时自动地移动数据，多平台，无限制地发送和存储结构化数据，最多  每月2,500名用户
-  * [pushcrew.com](https://pushcrew.com/)   - 推送通知服务.  最多2000个订阅者的无限通知
+  * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
   * [streamdata.io](https://streamdata.io/)   - 将任何REST API转换为事件驱动的流API.  免费计划多达100万条消息和10个并发连接
   * [posthook.io](https://posthook.io/)   - 作业调度服务.  允许您安排特定时间的请求.  500个预定请求/月免费.
   * [paraio.com](https://paraio.com)   - 具有灵活身份验证，全文搜索和缓存的后端服务API.  免费提供1个应用程序，1GB应用程序数据.
@@ -411,7 +411,7 @@
   * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
   * [contentful.com](https://www.contentful.com/)   - 内容即服务.  云中的内容管理和交付API.  每月3个用户，3个存储库和100,000个API请求免费
-  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，只有170多个可用的主要预定义块，没有字体，没有favicon和没有自定义域
+  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，仅有170多个可用的主要预定义块，没有字体，没有favicon，也没有自定义域
   * [surge.sh](https://surge.sh/)   - 前端开发人员的静态Web发布.  具有自定义域支持的无限网站
   * [neocities.org](https://neocities.org) - 静态，1 GB免费存储，200 GB带宽.
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
@@ -457,11 +457,11 @@
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
    * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
-   * [FaunaDB](https://fauna.com/) -  FaunaDB是一个分布式，多模型，符合ACID标准且可全局扩展的数据库，免费套餐提供5 GB
+   * [FaunaDB](https://fauna.com/) - 无服务器云数据库，具有原生GraphQL，多模型访问和每日免费层高达5GB
 
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
@@ -496,7 +496,7 @@
    * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
+   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
@@ -540,12 +540,12 @@
   * [landen.co](https://www.landen.co)   - 为您的创业公司生成，编辑和发布漂亮的网站和登录页面.  所有没有代码.  免费套餐允许您拥有一个网站，可完全自定义并在网络上发布.
   * [pixlr.com](https://pixlr.com/) - 商业级别的免费在线浏览器编辑器
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
-  * [cloudconvert.com](https://cloudconvert.com/)   - 转换任何东西.  支持208种格式，包括gif视频
+  * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
   * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
-  * [marvelapp.com](https://marvelapp.com/) — Design, prototyping and collaboration, free limited for 3 projects
+  * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
   * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://www.figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://www.designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
@@ -558,7 +558,7 @@
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
    * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
    * [geocod.io](https://www.geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
-   * [gogeo.io](https://gogeo.io/) — Maps and geospatial services with an easy to use API and support for big data
+   * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
    * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://www.giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://www.mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
@@ -620,7 +620,7 @@
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
 
 ## Payment / Billing Integration
 

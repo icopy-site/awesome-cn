@@ -60,7 +60,7 @@
 ### Movies
 
 - [moviemon](https://github.com/iCHAIT/moviemon) - 关于你电影的一切.
-- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较电影.
+- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
 
 ### Games
 
@@ -160,7 +160,7 @@
 
 ## Productivity
 
-- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - Capture and upload screenshots to imgur.
+- [AutoScreenshotUploader](https://github.com/yask123/AutoScreenshotUploader) - 捕获并上传截图到imgur.
 - [bitly-client](https://github.com/specious/bitly-client) - 有点客户.
 - [doing](https://github.com/ttscoff/doing/) - 跟踪您正在做的事情并跟踪您已完成的工作.
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - 具有视频覆盖和多显示器支持的ffmpeg截屏视频.
@@ -316,7 +316,7 @@
 
 ### Text
 
-- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [parse-columns-cli](https://github.com/sindresorhus/parse-columns-cli)   - 解析文本列，如unix命令的输出.  返回可以使用jq或underscore-cli等工具操作的JSON.
 - [figlet](http://www.figlet.org/) - 使用ASCII字符创建大文本.
 
 ## Files and Directories
@@ -329,6 +329,7 @@
 - [Vifm](https://vifm.info/) -  Vifm是一个基于ncurses的文件管理器，其中vi类似于keybindings / modes / options / commands / configuration，它也从mutt中借用了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) - 文件浏览器和磁盘使用分析器，具有出色的桌面集成
 - [lf](https://github.com/gokcehan/lf) - 快速，可广泛定制的文件管理器.
+- [fff](https://github.com/dylanaraps/fff) - 快速，简单的文件管理器.
 
 ### Deleting, Copying, and Renaming
 
@@ -343,7 +344,7 @@
 - [chokidar-cli](https://github.com/kimmobrunfeldt/chokidar-cli) - 用于监视文件系统更改的CLI.
 - [file-type-cli](https://github.com/sindresorhus/file-type-cli) - 检测文件或标准输入的文件类型.
 - [DocToc](https://github.com/thlorenz/doctoc)   - 为本地git存储库中的markdown文件生成目录.  链接与github或其他站点生成的锚点兼容.
-- [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting.
+- [bat](https://github.com/sharkdp/bat) - 具有语法突出显示的cat克隆.
 - [NCDu](https://dev.yorhel.nl/ncdu) - 具有ncurses接口的磁盘使用分析器.
 - [unix-permissions](https://github.com/ehmicky/unix-permissions) - 瑞士军刀用于Unix权限
 - [rclone](https://github.com/ncw/rclone) - 与各种云提供商（Dropbox，Google Drive，Onedrive等）之间的文件同步.
@@ -456,7 +457,7 @@
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我&#39;爱&#39;独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - 将匹配的双引号转换为单引号：我“爱”独角兽→我爱&#39;独角兽.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - 用于Python中GDB的模块化可视化界面.
-- [hget](https://github.com/bevacqua/hget) - 从终端以纯文本格式呈现网站.
+- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - 一个Node.js CLI应用程序，显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) - 卡路里和体重跟踪器.
 - [trino](https://github.com/eneserdogan/trino) -  Trino CLI允许快速轻松地翻译在命令行中输入的单词和短语.
@@ -464,7 +465,7 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
-- [Qalculate](https://github.com/Qalculate/libqalculate)   - 计算非三元数学表达式.  单位转换，符号计算等.
+- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
 
 ### Emoji
 

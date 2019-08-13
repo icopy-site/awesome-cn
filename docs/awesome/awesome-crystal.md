@@ -84,10 +84,11 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [OptionParser](https://crystal-lang.org/api/OptionParser.html) - 命令行选项处理（Crystal stdlib）
 
 ## CLI Utils
- * [cride](https://github.com/j8r/cride) - A light CLI text editor/IDE
+ * [cride](https://github.com/j8r/cride) - 轻量级CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) - 简单且可自定义的进度条
  * [tallboy](https://github.com/epoch/tallboy) - 生成ASCII字符表，支持在多列上生成单元格
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) - 简单的ASCII表生成器
+ * [terminimal](https://github.com/aca-labs/terminimal) - 一个用于为人类构建终端应用程序的小型CLI工具包
  * [todo](https://git.sceptique.eu/Sceptique/todo) -  Todo列表在命令行中工作
 
 ## Code Analysis and Metrics
@@ -118,6 +119,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [BinData](https://github.com/spider-gazelle/bindata) - 二进制数据解析器帮助器 [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) 解析器
  * [config.cr](https://github.com/chris-huxtable/config.cr) - 易于使用的配置格式解析器
  * [crinder](https://github.com/c910335/crinder) - 基于类的json渲染器
+ * [Crystar](https://github.com/naqvis/crystar) -  Tar档案格式的读者和作者
  * [CSV](https://crystal-lang.org/api/CSV.html) - 解析和生成逗号分隔值（Crystal stdlib）
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) - 将文件前端内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -  GeoIP2阅读器
@@ -257,6 +259,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [myhtml](https://github.com/kostya/myhtml) - 包含CSS选择器的快速HTML5分析器
 
 ## HTTP
+ * [arachnid](https://github.com/watzon/arachnid) - 强大的网络抓取框架
  * [Cable](https://github.com/cable-cr/cable) - 一个与Crystal无关的ActionCable“端口”，与ActionCable JS Client 100％兼容
  * [cossack](https://github.com/crystal-community/cossack) - 简单灵活的HTTP客户端
  * [crest](https://github.com/mamantoha/crest) - 简单的HTTP和REST客户端，受Ruby的RestClient gem的启发
@@ -272,7 +275,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [HTTP::Server](https://crystal-lang.org/api/HTTP/Server.html) -  HTTP服务器（Crystal stdlib）
  * [HTTP::WebSocket](https://crystal-lang.org/api/HTTP/WebSocket.html) -  HTTP WebSocket客户端（Crystal stdlib）
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) - 将HTTP GET / POST参数解析添加为类似哈希的对象
- * [ngrok.cr](https://github.com/watzon/ngrok.cr) - Ngrok wrapper
+ * [ngrok.cr](https://github.com/watzon/ngrok.cr) -  Ngrok包装纸
  * [params](https://github.com/vladfaust/params.cr) - 强类型HTTP params解析模块
  * [resp-crystal](https://github.com/soveran/resp-crystal) - 轻量级RESP客户端
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
@@ -280,7 +283,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Image processing
  * [magickwand-crystal](https://github.com/blocknotes/magickwand-crystal) - 绑定 [MagickWand](https://www.imagemagick.org/script/magick-wand.php)，ImageMagick处理库的C接口
  * [stumpy_gif](https://github.com/stumpycr/stumpy_gif) - 写（动画）GIF图像
- * [stumpy_png](https://github.com/stumpycr/stumpy_png) - Read and write PNG images
+ * [stumpy_png](https://github.com/stumpycr/stumpy_png) - 读写PNG图像
 
 ## Implementations/Compilers
  * [charly](https://github.com/charly-lang) -  Charly编程语言
@@ -415,7 +418,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - 受MATLAB和SciPy.linalg启发的线性代数库
- * [predict.cr](https://github.com/RX14/predict.cr) - 使用sgp4模型的卫星预测库
+ * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [stats](https://git.sceptique.eu/Sceptique/stats) - 统计分布的表达实施
 
 ## Search
@@ -426,7 +429,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - 模板使水晶成为OpenFaaS中的一等公民
- * [FaaStRuby](https://faastruby.io) - 用于Ruby和Crystal的无服务器软件开发平台.
+ * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - 在Google Cloud Functions中管理Crystal的执行
 
 ## System
@@ -466,7 +469,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - 以各种方式获取AWS凭据
- * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - 此库使用AWS v4签署您的HTTP请求
+ * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -  AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署HTTP ::请求对象并生成预先签署的帖子表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -  Bugsnag异常通知程序和sidekiq中间件
@@ -502,7 +505,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [athena](https://github.com/blacksmoke16/athena) - 基于模块化，注释，面向API的框架，内置参数转换
  * [kemal](https://github.com/kemalcr/kemal)   -  Lightning Fast，超级简单的Web框架.  灵感来自Sinatra
  * [lattice-core](https://github.com/jasonl99/lattice-core) - 一个WebSocket优先的面向对象框架（基于Kemal）
- * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，并花更多时间在代码上而不是调试和编写测试
+ * [lucky](https://github.com/luckyframework/lucky) - 尽早捕获错误，忘记大多数性能问题，花更多时间在代码上而不是调试和编写测试
  * [onyx-rest](https://github.com/onyxframework/rest) -  REST API框架，具有类型安全的参数和独立的业务和渲染层，基于 [onyx-http](https://github.com/onyxframework/http)
  * [raze](https://github.com/samueleaton/raze) - 模块化，轻型Web框架
  * [spider-gazelle](https://github.com/spider-gazelle/spider-gazelle) - 一个专注于速度和可扩展性的Rails esque Web框架

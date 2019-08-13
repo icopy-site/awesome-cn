@@ -20,7 +20,7 @@
 ### Overview
 
 - [Eta](https://eta-lang.org/) - 官方网站.
-- [GitHub](https://github.com/typelead/eta) -  GitHub上的Eta
+- [GitHub](https://github.com/typelead/eta) -  GitHub上的Eta.
 - [Philosophy](http://blog.ezyang.com/2018/09/hiw18-lets-go-mainstream-with-eta/) - 访谈Eta发展背后的理念.
 
 ### First Steps
@@ -45,7 +45,7 @@
 - [Documentation](https://eta-lang.org/docs/) - 和文件.
 - [Tutorials](https://eta-lang.org/docs/tutorials) - 和教程.
 - [FAQ](https://eta-lang.org/docs/faq) - 经常问的问题.
-- [Tour of Eta](https://tour.eta-lang.org/) - 和.简介.
+- [Tour of Eta](https://tour.eta-lang.org/) -  Eta简介.
 - [Eta Cheatsheets](https://eta-lang.org/docs/cheatsheets) - 并参考.
 - [Eta Blog: Java I](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - 使用Eta和Java，第一部分.
 - [Eta Blog: Java II](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - 使用Eta和Java，第二部分.
@@ -56,14 +56,13 @@
 ## Community
 
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - 和谷歌集团.
-- [Gitter](https://gitter.im/typelead/eta) -  Gitter通道.
+- [Gitter](https://gitter.im/typelead/eta) - 网格通道.
 - [Slack](https://slack.eta-lang.org/) - 松弛的通道.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) -  IRC频道.
-- [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - 班加罗尔和聚会.
 
 ## Twitter
 - [Eta](https://twitter.com/eta_lang) - 官方Twitter帐户.
-- [TypeLead](https://twitter.com/typelead) - 公司背后和.
+- [TypeLead](https://twitter.com/typelead) -  Eta背后的公司.
 - [Rahul Muttineni](https://twitter.com/rahulmutt) -  Eta的创建者和TypeLead的CTO.
 
 ## Information

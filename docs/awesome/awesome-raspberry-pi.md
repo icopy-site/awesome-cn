@@ -64,7 +64,7 @@
 - [OSMC](https://osmc.tv/) - 基于Kodi的开源媒体中心.
 - [PiDeck](http://pideck.com/) - 小型DVS系统，允许您使用时间码乙烯基控制数字音乐文件.
 - [PiNet](http://pinet.org.uk/) - 管理Raspberry Pi教室的系统.
-- [PirateBox](https://piratebox.cc/raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
+- [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - 官方支持的Raspberry Pi OS，基于Debian，可作为精简版.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
 - [Recalbox](https://www.recalbox.com) - 在Raspberry Pi上拖放轻量级复古游戏和媒体中心.
@@ -87,7 +87,7 @@
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) -  macOS应用程序，可以轻松地将图像安装/备份/恢复到SD卡上.
 - [CusDeb](https://cusdeb.com/en/) - 用于创建安装了特定包的自定义映像的Web UI.
 - [balenaEtcher](https://www.balena.io/etcher/) -  SD卡刻录机应用程序，对最终用户来说简单，可扩展到开发人员，并可在任何平台上运行.
-- [HealthyPi](https://github.com/Protocentral/HealthyPi) -  HAT包括重要的健康监测，如心电图，呼吸，脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
+- [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) -  HAT包括重要的健康监测，如心电图，呼吸，脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) -  8MB的Wifi AP +客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/)，使用REST API同时控制wifi客户端和站点模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - 设置Pi Zero以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) - 用于将Raspberry Pi设置为OpenVPN服务器的Shell脚本.

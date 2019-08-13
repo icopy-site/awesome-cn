@@ -397,6 +397,11 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![GitHub Pull Request Monitor](https://raw.githubusercontent.com/erichbehrens/pull-request-monitor/master/images/statusBarItems.png)
 
+## [GitLab Workflow](https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow)
+ &gt;添加GitLab侧边栏图标以查看问题，合并请求和其他GitLab资源.  您还可以查看GitLab CI / CD管道的结果，并检查`.gitlab-ci.yml`的语法.
+
+![GitLab Workflow](https://gitlab.com/fatihacet/gitlab-vscode-extension/raw/master/src/assets/_issues-in-vscode.png)
+
 ## [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 &gt;流行图标字体的片段，如Font Awesome，Ionicons，Glyphicons，Octicons，Material Design Icons等等！
@@ -875,7 +880,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [GitHub Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
 
-Visual Studio Code的GitHub主题.
+GitHub Theme for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/thomaspink.theme-github">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/thomaspink.theme-github.png" width="600" />
@@ -1041,7 +1046,7 @@ VS代码社区中各种人员的Twitter帐户列表
 
 ![azure-tools-vscode](https://raw.githubusercontent.com/johnpapa/vscode-azure-functions-tools/master/images/json-schema-function.gif)
 
-- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -  Markdown Preview Enhanced是一个扩展，为您提供许多有用的功能，如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.它的很多想法都受到Markdown Preview的启发加上和RStudio Markdown.
+- [Mark down preview](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) -  Markdown Preview Enhanced是一个扩展，为您提供许多有用的功能，如自动滚动同步，数学排版，美人鱼，PlantUML，pandoc，PDF导出，代码块，演示文稿编写器等.它的很多想法都受到Markdown预览的启发加上和RStudio Markdown.
 
 ## Online Courses
 

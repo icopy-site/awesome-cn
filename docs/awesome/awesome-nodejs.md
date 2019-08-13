@@ -4,6 +4,19 @@
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
 	</div>
 	<br>
+	<p>
+		<sup>特别感谢：</sup>
+		<br>
+		<br>
+		<a href="https://segment.com">
+			<img src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/segment-logo.svg?sanitize=true" width="160" alt="Segment">
+		</a>
+	</p>
+	<p>
+		<sup>
+			 使用Segment节省设置分析的时间.  <a href="https://segment.com/jobs">我们正在招聘！</a>
+		</sup>
+	</p>
 	<br>
 	<br>
 	<a href="https://awesome.re">
@@ -323,7 +336,7 @@
 	- [RxJS](https://github.com/ReactiveX/RxJS) - 反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) - 将Observable转换为Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
-- Streams
+- 流
 	- [Highland.js](https://github.com/caolan/highland) - 使用标准JavaScript和类似节点的流，只需轻松管理同步和异步代码.
 - 回调
 	- [each-async](https://github.com/sindresorhus/each-async) - 像forEach一样的异步并发迭代器.
@@ -382,7 +395,7 @@
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略ansi转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将短划线/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -  Escape RegExp特殊字符.
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
@@ -641,7 +654,7 @@
 - [node-mac](https://github.com/coreybutler/node-mac) - 将脚本作为本机Mac守护程序运行并登录到控制台应用程序.
 - [node-linux](https://github.com/coreybutler/node-linux) - 将脚本作为本机系统服务运行并登录到syslog.
 - [node-windows](https://github.com/coreybutler/node-windows) - 将脚本作为本机Windows服务运行并登录到事件查看器.
-- [supervisor](https://github.com/petruisfan/node-supervisor) - 当脚本崩溃时重新启动脚本或在`* .js`文件更改时重新启动.
+- [supervisor](https://github.com/petruisfan/node-supervisor) - 当脚本崩溃时重新启动脚本，或者在`* .js`文件发生更改时重新启动脚本.
 - [Phusion Passenger](https://github.com/phusion/passenger) - 友好的流程管理器，直接集成到Nginx.
 
 
@@ -693,7 +706,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) - 获得超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) - 获取supervillain名称.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) - 获得一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`（·͈༝·͈）◞（=ↀωↀ=）✧（^·o·^）“&#39;`
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍·͈༝·͈₎◞̑̑ෆ⃛（=ↀωↀ=）✧（^·o·^）ノ“`.
 - [nerds](https://github.com/SkyHacks/nerds) - 从哈利波特，星球大战和神奇宝贝等书呆子主题中获取数据.
 
 
@@ -730,7 +743,7 @@
 - [dotenv](https://github.com/motdotla/dotenv) - 从.env文件加载环境变量.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - 从远程git仓库获取标签.
 - [semver](https://github.com/npm/node-semver) - 语义版本解析器.
-- [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
+- [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.

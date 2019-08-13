@@ -14,6 +14,7 @@
 - [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify)   - 项目标志.  简约描述它是什么.  该项目的GIF演示.  主要特点.  如何安装指南.  学分.
 - [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant)   - 多个徽章.  清洁徽标.  简单的安装说明.  清晰的项目概述以及原理图.  GIF演示.  广泛的代码示例.
 - [ngcolombia/medellin](https://github.com/ngcolombia/medellin)   - 项目横幅.  统计数据的徽章.  放置得很好的表情符号.  贡献者的照片.
+- [Armync/Arminc-AutoExec](https://github.com/ArmynC/ArminC-AutoExec/) -  Rich Markdown功能，现代布局，清晰描述，符合推荐的社区标准.
 - [athityakumar/colorls](https://github.com/athityakumar/colorls)   - 多个徽章.  清理截图.  简单的安装说明.  TOC便于导航.  良好的贡献者指南.
 - [ccostan/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig)   - 项目横幅.  徽章.  轻松导航.
 - [choojs/choo](https://github.com/choojs/choo)   - 徽章，干净，清晰.  美丽的小菜单折叠与有用的链接.  其中的常见问题解答主要问题.  支持者.  好语言.
@@ -31,8 +32,9 @@
 - [NSRare/NSGIF](https://github.com/NSRare/NSGIF)   - 项目标志.  GIF演示.  用法艺术品.  使用代码示例.
 - [sidneycadot/oeis](https://github.com/sidneycadot/oeis)   - 概述.  所需依赖项列表.  回购中所有文件的完整列表及其功能.  它是如何联系在一起的视觉图形.
 - [php-censor/php-censor](https://github.com/php-censor/php-censor) - 多个徽章，项目徽标，屏幕截图，分步安装和升级说明，TOC以便于导航.
+- [Rebilly/redoc](https://github.com/Redocly/redoc) - 多个徽章，项目徽标，现场演示链接，关键功能的GIF动画，TL; DR使用.
 - [React on lambda](https://github.com/sultan99/react-on-lambda) - 项目徽标，漫画，以呈现主要想法，徽章，带有代码片段的示例，演示项目，api文档，编辑器配置.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat)   -  GIF演示.  带有屏幕截图的简易安装和设置部分.  建立徽章.  用例的很好的例子.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)   - 清洁项目徽标.  顶部简要说明.  Sankey图，快速链接，徽章，操作系统特定图标，TOC，详细发布更改日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion)   - 项目标志.  建立徽章.  多种编程语言的文档结构.  用法示例.
 - [shama/gaze](https://github.com/shama/gaze)   - 项目标志.  简洁描述.  功能列表.  使用部分.  常问问题.  很棒的API文档.  发布历史记录
@@ -72,7 +74,7 @@
  在README中嵌入动画gif可以快速演示您的项目的作用并吸引读者的注意力.  以下是一些可以帮助您快速为项目创建GIF的程序：
 
 - [Gifox](https://gifox.io) -  ** 4.99美元**  - 最干净的用户界面，热键，许多高级功能
-- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
+- [Giphy Capture](https://giphy.com/apps/giphycapture) -  **免费**  - 轻松上传到giphy.com，有点烦人的用户体验.
 - [LICEcap](https://www.cockos.com/licecap/) -  **免费**  - 不太直观，更多功能
 - [Recordit](https://recordit.co/) -  **免费**  - 简单，干净的用户界面，但自动上传到 [recordit.co](https://recordit.co/)
 - [Peek](https://github.com/phw/peek) -  **免费**  - 简单易用的Linux用户.

@@ -73,7 +73,7 @@
 * [DarkIce](http://www.darkice.org/) - 从音频接口记录和编码的实时音频流，并发送到流服务器.
 * [Icecast](http://icecast.org/) - 支持Ogg（Vorbis和Theora），Opus，WebM和MP3的流媒体（音频/视频）服务器.
 * [IRIS Broadcast](https://github.com/IrisBroadcast/irisbroadcast.github.io/) - 在瑞典成立的一个项目，旨在发布专业无线电广播的开源软件.
-* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）进行IP音频贡献.
+* [Kamailio](http://www.kamailio.org/) - 开放式SIP服务器，通常用于使用SIP（EBU ACIP）的IP音频贡献.
 * [OpenOB](https://jamesharrison.github.io/openob/) - 基于Opus的无线电贡献链接和演播室 - 发射机链接的开放式外部广播项目.
 * [PJSIP](https://www.pjsip.org/) - 开源多媒体库，实现SIP，SDP，RTP，STUN，TURN和ICE.
 * [trx](http://www.pogo.org.uk/~mark/trx/) - 用于从Linux广播实时音频的简单工具集.
@@ -171,7 +171,7 @@
 * [Liquidsoap](https://github.com/savonet/liquidsoap) - 用于多媒体流的瑞士军刀（[documentation](https://www.liquidsoap.info/doc.html)).
 * [OpenBroadcaster](https://openbroadcaster.com/) 开源LPFM IPTV广播自动化. [Server and Player code here](https://github.com/openbroadcaster).
 * [RAAR](https://github.com/radiorabe/raar) - 用于管理和浏览音频存档的ruby应用程序.
-* [Rivendell](https://github.com/ElvishArtisan/rivendell) - 完整的无线电广播自动化解决方案，翻译成多种语言并在全球范 
+* [Rivendell](https://github.com/ElvishArtisan/rivendell) - 完整的无线电广播自动化解决方案，翻译成多种语言并在全球范
 
 ## Software-defined radio
 

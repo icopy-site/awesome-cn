@@ -17,7 +17,7 @@
 * [ASP.NET Core Documentation](https://docs.asp.net/en/latest/) - 官方ASP.NET核心文档站点.
 * [.NET Core Documentation](https://docs.microsoft.com/en-us/dotnet/articles/welcome) - Home of the technical documentation for .NET Core, C#, F# and Visual Basic, including basic concepts, getting started instructions, tutorials and samples.
 * [.NET Core SDK](https://www.microsoft.com/net/core) -  .NET Core SDK是由Microsoft和.NET社区维护的通用开发平台 [GitHub](https://github.com/dotnet/core).
-* [.NET Platform Standard](https://github.com/dotnet/corefx/blob/master/Documentation/architecture/net-platform-standard.md) - 旧版本和新版本的.NET之间存在差异.
+* [.NET Platform Standard](https://github.com/dotnet/corefx/blob/1719a3fe2a5c81b67a4909787da4a02fb0d0d419/Documentation/architecture/net-platform-standard.md) - 旧版本和新版本的.NET之间存在差异.
 * [Introducing .NET Standard 2.0](https://blogs.msdn.microsoft.com/dotnet/2016/09/26/introducing-net-standard) - 描述.NET Standard 2.0的内容以及当前.NET Standard缺失部分的路线图.
 * [Clean Code .NET/.NET Core](https://github.com/thangchung/clean-code-dotnet) - 适用于.NET / .NET Core的Clean Code概念.
 
@@ -150,7 +150,7 @@
 * [Nethermind](https://github.com/NethermindEth/nethermind) -  .NET Core以太坊客户端
 * [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) - Simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework.
 * [Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
-* [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - 以隐私为重点，符合ZeroLink标准的比特币钱包.
+* [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - 以隐私为中心，符合ZeroLink标准的比特币钱包.
 
 ### Bot
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
@@ -393,7 +393,7 @@
 * [Accord](https://github.com/accord-net/framework) -  .NET的机器学习，计算机视觉，统计和通用科学计算.
 * [ML.NET](https://github.com/dotnet/machinelearning) - 跨平台开源机器学习框架，使.NET开发人员可以访问机器学习 [http://dot.net/ml](http://dot.net/ml).
 * [Spreads](https://github.com/Spreads/Spreads/) - 用于数据流实时和探索性分析的系列和面板.
-* [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - TensorFlow API for .NET languages.
+* [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp) - 适用于.NET语言的TensorFlow API.
 * [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - 借助量子力学的思想，从单个例子​​生成itmap和tilemap.
 * [SiaNet](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend 
 
@@ -448,6 +448,7 @@
 * [LibSass Host](https://github.com/Taritsyn/LibSassHost) -  .NET包装器 [libSass](http://sass-lang.com/libsass) 能够支持虚拟文件系统的库.
 * [markdig](https://github.com/lunet-io/markdig) - 快速，强大，兼容CommonMark，可扩展的Markdown处理器，适用于.NET.
 * [NReco.LambdaParser](https://github.com/nreco/lambdaparser) - 将字符串表达式（公式，方法调用，条件）解析为LINQ表达式树，可以编译为lambda并进行求值.
+* [NuGet Trends](https://github.com/NuGetTrends/nuget-trends) - 有NuGet包下载统计数据的网站.
 * [Otp.NET](https://github.com/kspearrin/Otp.NET) - An implementation TOTP RFC 6238 and HOTP RFC 4226 in C#.
 * [pose](https://github.com/tonerdo/pose) - 用委托替换任何.NET方法（包括静态和非虚拟）
 * [PuppeteerSharp](https://github.com/kblok/puppeteer-sharp) -  Puppeteer Sharp是官方Node.JS Puppeteer API的.NET端口.
@@ -468,7 +469,7 @@
   * [Guard](https://github.com/safakgur/guard) - 高性能，可扩展的参数验证库.
   * [Valit](https://github.com/valit-stack/Valit)   -  .NET Core的简单验证.  代码周围不再有if语句.  写一些漂亮而干净的流利验证器吧！
 * [warden-stack](https://github.com/warden-stack)   - 针对您的应用程序，资源和基础架构的“健康检查”.  让守望者守在手表上.
-* [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -  ASP.NET核心渐进式Web应用程序.
+* [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) - ASP.NET Core Progressive Web Apps.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - 用于提取元数据和下载Youtube视频和播放列表的终极库.
 
@@ -646,7 +647,7 @@
 * [NSubstitute](https://github.com/nsubstitute/NSubstitute) -  .NET模拟框架的友好替代品.
 * [nunit](https://github.com/nunit/dotnet-test-nunit) - 用于.NET Core的NUnit测试运行器.
 * [shouldly](https://github.com/shouldly/shouldly) - 应该测试.NET  - 断言*应该*的方式！ [http://shouldly.readthedocs.org/en/latest](http://shouldly.readthedocs.org/en/latest)
-* [SpecFlow](https://github.com/techtalk/SpecFlow/tree/DotNetCore)   - 用于.NET的实用BDD解决方案.  它使用Gherkin规范语言并集成到Visual Studio中.
+* [SpecFlow](https://github.com/techtalk/SpecFlow)   - 用于.NET的实用BDD解决方案.  它使用Gherkin规范语言并集成到Visual Studio中.
 * [Storyteller](https://github.com/storyteller/Storyteller) -  .NET的可执行规范 [http://storyteller.github.io](http://storyteller.github.io).
 * [Stubbery](https://markvincze.github.io/Stubbery/) - 一个用于在.NET中创建和运行Api存根的简单库.
 * [Testavior](https://github.com/geeklearningio/Testavior) -  Testavior是一个轻量级的解决方案，可帮助您开发ASP.NET Core的行为测试.
