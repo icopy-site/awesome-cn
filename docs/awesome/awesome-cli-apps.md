@@ -60,7 +60,7 @@
 ### Movies
 
 - [moviemon](https://github.com/iCHAIT/moviemon) - 关于你电影的一切.
-- [movie](https://github.com/mayankchd/movie) - Get movie info or compare movies.
+- [movie](https://github.com/mayankchd/movie) - 获取电影信息或比较电影.
 
 ### Games
 
@@ -94,7 +94,7 @@
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从CSS中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到Web.
-- [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
+- [acmetool](https://github.com/hlandau/acme) - An automatic certificate acquisition tool for ACME (Let's Encrypt).
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
@@ -195,6 +195,7 @@
 - [td-cli](https://github.com/darrikonn/td-cli) -  TODO经理，负责跨多个项目组织和管理您的TODO.
 - [taskell](https://github.com/smallhadroncollider/taskell) - 交互式看板/任务经理.
 - [taskbook](https://github.com/klaussinani/taskbook) - 命令行栖息地的任务，板和注释.
+- [dnote](https://github.com/dnote/dnote) - 简单的交互式笔记本电脑.
 
 ### Finance
 
@@ -214,7 +215,7 @@
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
 - [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
-- [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
+- [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
 - [wego](https://github.com/schachmat/wego) - 得到天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
@@ -465,7 +466,7 @@
 - [xiringuito](https://github.com/ivanilves/xiringuito)   - “穷人的VPN”.  基于SSH的“VPN”，易于安装，但性能低于真正的VPN.
 - [nasa-cli](https://github.com/xxczaki/nasa-cli) - 从您的终端下载NASA的每日图片.
 - [googlr](https://github.com/Camji55/googlr) - 从命令行搜索Google.
-- [Qalculate](https://github.com/Qalculate/libqalculate) - Calculate non-trival math expressions. Unit conversions, symbolic calculations and more.
+- [Qalculate](https://github.com/Qalculate/libqalculate)   - 计算非三元数学表达式.  单位转换，符号计算等.
 
 ### Emoji
 

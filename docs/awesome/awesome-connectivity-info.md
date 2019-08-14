@@ -20,7 +20,7 @@
 
 **[`^        back to top        ^`](#)**
 
-- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - （2016）衡量各国采用移动互联网的四个推动因素：基础设施，可负担性，消费者就绪和内容.
+- [GSMA Mobile Connectivity Index](https://www.mobileconnectivityindex.com/) - （2018）衡量各国对移动互联网采用的四个推动因素：基础设施，可负担性，消费者就绪和内容.
 - [A4AI Affordability Drivers Index](http://a4ai.org/affordability-report/data/) - （2017）经济实惠互联网接入联盟的互联网负担能力指数（[A4AI](https://a4ai.org)).
 - [A4AI Mobile Broadband Data Costs](https://a4ai.org/mobile-broadband-pricing-data/) - （2017）宽带数据价格（1GB移动预付费）占人均GNI的百分比.
 - [Facebook/EIU Inclusive Internet Index](https://theinclusiveinternet.eiu.com/) - （2019）索引衡量互联网连接的可用性，可负担性，相关性和准备情况.

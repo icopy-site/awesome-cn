@@ -18,7 +18,7 @@
 
 [![instabug-github](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
 &gt;我们强烈建议集成Instabug的框架，因为他们在SDK中编译了许多强大的功能，可以为每个错误/崩溃报告提供有用且丰富的数据.
- 他们消除了调试的麻烦，因为SDK会自动附加屏幕截图，屏幕录像，设备详细信息，网络日志和每个错误报告的重复步骤，从而加快开发过程.  Instabug为所有付费计划提供超棒的ios社区**独家** 15％折扣**. [**Go to 5-minute installation guide.**](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+ 他们消除了调试的麻烦，因为SDK会自动附加屏幕截图，屏幕录制，设备详细信息，网络日志和每个错误报告的重复步骤，从而加快开发过程.  Instabug为所有付费计划提供超棒的ios社区**独家** 15％折扣**. [**Go to 5-minute installation guide.**](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ## How to Use
@@ -85,7 +85,7 @@
   *优雅的URL路由，导航框架，深层链接等*
 
 * [WAAppRouting](https://github.com/Wasappli/WAAppRouting)   -  iOS路由正确完成.  使用已解析的参数处理URL识别和控制器显示.  在一行中，控制器堆栈自动保留！
-* [DeepLinkKit](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+* [DeepLinkKit](https://github.com/button/DeepLinkKit) - 一个出色的路线匹配，基于块的方式来处理您的深层链接.
 * [IntentKit](https://github.com/intentkit/IntentKit) - 在iOS应用中处理第三方URL方案的更简单方法.
 * [JLRoutes](https://github.com/joeldev/JLRoutes) - 使用简单的基于块的API的iOS URL路由库.
 * [IKRouter](https://github.com/IanKeen/IKRouter) -  URLScheme路由器，支持为关联的url参数自动创建UIViewControllers，以允许创建导航堆栈
@@ -309,7 +309,7 @@
 * [TFTColor](https://github.com/burhanuddin353/TFTColor) -  RGB和CMKY十六进制字符串和十六进制值的简单扩展（ObjC和Swift）.
 * [CostumeKit](https://github.com/jakemarsh/CostumeKit) - 用于主题应用程序的基本类型.
 * [CSS3ColorsSwift](https://github.com/WorldDownTown/CSS3ColorsSwift) - 具有CSS3颜色名称的UIColor扩展.
-* [Colorify](https://github.com/czater/Colorify) - 简单而强大的色彩库，包括2017年最新，最时尚的色彩.
+* [Colorify](https://github.com/czater/Colorify) - Simple, yet powerful color library that includes latest and most trendy colors from 2017.
 * [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 使用Swift内置的直观iOS颜色选择器.
 * [Lorikeet](https://github.com/valdirunars/Lorikeet) - 轻量级Swift框架，用于美观的色彩方案生成和CIE色差计算.
 * [Gestalt](https://github.com/regexident/Gestalt) - 一个非侵入式轻量级iOS应用程序库，支持动画主题切换.
@@ -561,7 +561,7 @@
 * [Funky](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift.
 * [LlamaKit](https://github.com/LlamaKit/LlamaKit) - 必备功能Swift工具的集合.
 * [Oriole](https://github.com/tptee/Oriole)   - 作为Swift协议扩展实现的功能实用带.  并[e]
-* [Prelude](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools.
+* [Prelude](https://github.com/robrix/Prelude) - Swiftμframework的简单函数编程工具.
 * [Swiftx](https://github.com/typelift/Swiftx) - Functional data types and functions for any project.
 * [Swiftz](https://github.com/typelift/Swiftz) -  Swift中的函数编程.
 * [OptionalExtensions](https://github.com/RuiAAPeres/OptionalExtensions)   - 带有可选类型扩展的Swiftμframework.  并[e]
@@ -1077,7 +1077,7 @@
 * [VideoPager](https://github.com/entotsu/VideoPager) - 分页视频UI和一些控制组件可用.
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) -  NYT360Video播放从AVPlayer流式传输的360度视频.
 * [swift-360-videos](https://github.com/gsabran/DDDKit) -  Pure swift（无SceneKit）3D库，专注于视频和360.
-* [ABMediaView](https://github.com/andrewboryk/ABMediaView) -  UIImageView子类，用于插入图像，视频，GIF和音频显示，具有全屏和最小化功能，可在右下角显示.
+* [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 用于插入式图像，视频，GIF和音频显示的UIImageView子类，具有全屏和最小化功能，可在右下角显示.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 一组UI元素，用于修剪，裁剪和选择视频内的帧.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) -  Swift中的简单iOS视频播放器，支持播放本地和网络，后台播放模式.
 * [YoutubeKit](https://github.com/rinov/YoutubeKit) - 完全支持Youtube IFrame API和YoutubeDataAPI的视频播放器，可轻松创建Youtube应用.
@@ -1253,7 +1253,7 @@
 * [JASON](https://github.com/delba/JASON) -  JSON解析具有出色的性能和方便的运算符.
 * [Gloss](https://github.com/hkellaway/Gloss) -  Swift中一个闪亮的JSON解析库.
 * [Cereal](https://github.com/Weebly/Cereal) -  Swift对象序列化
-* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator)   - 使用SwiftyJSON或ObjectMapper从JSON生成Swift模型文件.  支持NSCoding并提供模型的JSON字符串表示方法.
+* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - 使用可编码支持从JSON生成Swift 5模型文件.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) -  Swift中无忧无虑的JSON编码和解码
 * [Tailor](https://github.com/zenangst/Tailor) - 根据您的需求量身定制的超快速便捷的物体映射器.
 * [alexander](https://github.com/hodinkee/alexander) - 用Swift编写的一个非常简单的JSON助手.
@@ -1517,7 +1517,7 @@
 * [BiometricAuth](https://github.com/vasilenkoigor/BiometricAuth) - 应用程序中生物识别身份验证的简单框架（通过TouchID）
 * [SAPinViewController](https://github.com/siavashalipour/SAPinViewController)   - 简单易用的默认iOS PIN屏幕.  这个简单的库允许您绘制完全可自定义的PIN屏幕，与iOS默认PIN视图相同.  我创建这个库的灵感来自THPinViewController，但SAPinViewController完全在Swift中实现.  此外，创建此库的主要目的是提供简单，易用且完全可自定义的PIN屏幕.
 * [TOPasscodeViewController](https://github.com/timoliver/TOPasscodeViewController) - 适用于iOS的模态密码输入和验证视图控制器
-* [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - Use Apple FaceID or TouchID authentication in your app using BiometricAuthentication
+* [BiometricAuthentication](https://github.com/rushisangani/BiometricAuthentication) - 使用BiometricAuthentication在您的应用中使用Apple FaceID或TouchID身份验证
 * [KKPinCodeTextField](https://github.com/kolesa-team/ios_pinCodeTextField) - 可自定义的验证码textField，用于电话验证码，密码等.
 * [🗄 Vault](https://github.com/umbri/Vault) - 用于密码和其他敏感数据的简单安全容器
 * [Virgil SWIFT PFS SDK](https://github.com/VirgilSecurity/virgil-sdk-pfs-x) - 一个SDK，允许开发人员将完美前向保密（PFS）技术添加到他们的数字解决方案中，以保护以前拦截的流量不被解密，即使主私钥被泄露.
@@ -2037,7 +2037,7 @@
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) - 非常简单的UIAlertView替代方案.
 * [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - 像Swarm应用程序一样的动画警报库.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) - 可自定义的简单警报和简单的Swift ActionSheet
-* [Hokusai](https://github.com/ytakzk/Hokusai) - 一个Swift库，提供一个有弹性的行动表
+* [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet
 * [SwiftNotice](https://github.com/johnlui/SwiftNotice) -  SwiftNotice是一个GUI库，用于显示用纯Swift编写的各种弹出窗口（HUD），适合任何滚动视图.
 * [SwiftOverlays](https://github.com/peterprokop/SwiftOverlays) -  SwiftOverlays是一个Swift GUI库，用于显示各种弹出窗口和通知
 * [SwiftyDrop](https://github.com/morizotter/SwiftyDrop) -  SwiftyDrop是一个轻量级的纯Swift简单而美观的下拉消息.
@@ -2246,7 +2246,7 @@
 * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - 这是适用于iOS应用的弹簧幻灯片菜单
 * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - 以Swift编写的幻灯片菜单，灵感来自幻灯片菜单素材设计.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 带图像和块的UIMenuItem（闭包）
-* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - 用Swift编写的优雅下拉菜单显示在导航栏下方，用于在用户单击导航标题时显示相关项目列表.
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - 用Swift编写的优雅下拉菜单显示在导航栏下方，以便在用户单击导航标题时显示相关项目的列表.
 * [ALRadialMenu](https://github.com/AlexLittlejohn/ALRadialMenu)   - 带弹簧动画的径向/圆形菜单.  写得很快
 * [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) - 易于使用的下拉菜单，支持图像.
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - 动画，多选项菜单按钮.
@@ -2340,7 +2340,7 @@
 * [FFPopup](https://github.com/JonyFang/FFPopup) - ⛩FFPopup是一个轻量级库，用于将自定义视图显示为弹出窗口.
 
 ### ProgressView
-* [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - 使用Swift开发的iOS自定义注释显示仪表的进度
+* [ProgressMeter](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift
 * [GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) -  Swift中可自定义的进度指示器库.
 
 ### Pull to Refresh
@@ -2829,7 +2829,7 @@ CollectionView，在几分钟内发现Instagram.
 * [SourceKitten](https://github.com/jpsim/SourceKitten) - 一个可爱的小框架和命令行工具，用于与SourceKit交互.
 * [Localizations](https://github.com/athiercelin/localizations) - 管理Xcode项目本地化的macOS应用程序.
 * [xcbuild](https://github.com/facebook/xcbuild) -  Xcode兼容的构建工具.
-* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段的可执行文件，它将// TODO：或// SERIOUS之类的注释标记为警告或错误，以便它们显示在Xcode Issue Navigator中.
+* [XcodeIssueGenerator](https://github.com/doubleencore/XcodeIssueGenerator) - 可以放置在运行脚本构建阶段中的可执行文件，它将// TODO：或// SERIOUS之类的注释标记为警告或错误，以便它们显示在Xcode Issue Navigator中.
 * [SwiftCompilationPerformanceReporter](https://github.com/tumblr/SwiftCompilationPerformanceReporter) - 为特定目标中的慢速Swift编译路径生成自动报告
 * [BuildTimeAnalyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - 为Swift构建时间分析器
 * [Duration](https://github.com/SwiftStudies/Duration) - 一个简单的Swift软件包，用于测量和报告操作所需的时间
@@ -2875,7 +2875,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Zolang](https://github.com/Zolang/Zolang) - 用于在iOS，Android和Tools之间共享逻辑的编程语言.
 * [xavtool](https://github.com/gabrielrobert/xavtool) - 用于自动增加iOS / Android应用程序版本的命令行实用程序.
 * [Cutter](https://cutter.albemala.me/) - 从单个模板开始为所有屏幕尺寸生成iOS启动图像（启动画面）的工具.
-* [nef](https://github.com/bow-swift/nef) -  Xcode Playground的一组命令行工具：允许您编写文档的编译时验证，编写为Xcode Playgrounds，生成markdown文件，与Jekyll集成以构建微型网站和Carbon导出代码片段.
+* [nef](https://github.com/bow-swift/nef) -  Xcode Playground的一组命令行工具：允许您编写文档的编译时验证，编写为Xcode Playgrounds，生成markdown文件，与Jekyll集成以构建微型网站，以及Carbon导出代码片段.
 
 ## Rapid Development
 

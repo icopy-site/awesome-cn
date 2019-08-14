@@ -18,7 +18,7 @@
 * [ABSFreePic](http://absfreepic.com/) - 高分辨率和完全免费的照片库存网站.
 * [Altphotos](https://altphotos.com) - 每日添加精心挑选的免费高分辨率照片.
 * [Barn Images](https://barnimages.com/) -  Barn Images为您提供免费的高分辨率非库存照片.
-* [CC0 Photo](http://cc0.photo/) - CC0.photo is a project initiated by Raffael Herrmann, which serves you with free photos.
+* [CC0 Photo](http://cc0.photo/) -  CC0.photo是由Raffael Herrmann发起的一个项目，为您提供免费照片.
 * [Creative Commons Search](http://search.creativecommons.org/) - 跨多个图书馆的元搜索，以查找适应性/可编辑的图像
 * [Crow the Stone](http://crowthestone.tumblr.com/) - 免费照片以您想要的任何方式使用.
 * [Cupcake](http://cupcake.nilssonlee.se/) - 免费做任何你想要的照片 [Jonas Nilsson Lee](https://twitter.com/nilsson_jonas).
@@ -26,7 +26,7 @@
 * [Fancy Crave](http://fancycrave.com/) - 每天添加两个新图像.
 * [FindA.Photo](http://finda.photo/) - 通过关键字和颜色搜索数以千计的CC0照片.
 * [Free Nature Stock](http://freenaturestock.com/) - 免版税，使用它们，但你想要，自然股票照片.
-* [Freely Photos](https://freelyphotos.com/) - 完全免费的高品质基督教股票摄影. 
+* [Freely Photos](https://freelyphotos.com/) - 完全免费的高品质基督教股票摄影.
 * [Furious Camera](http://furiouscamera.com/)   - 用于个人和商业项目的免费生活Hi-Fi照片.  每天都有新照片.
 * [Gratisography](https://gratisography.com/)   - 免费的高分辨率图片，您可以在个人和商业项目中使用.  每周新增图片.
 * [Jay Mantri](http://jaymantri.com/)   - 免费图片.  做任何事情.  制造魔法.
@@ -125,6 +125,7 @@
 
 插图资源的集合，包含历史存档，当代和公共域资产的混合.
 
+* [Biodiversity Heritage Library](https://www.flickr.com/people/biodivlibrary/) [:copyright:](https://creativecommons.org/publicdomain/mark/1.0/) [:copyright:](https://creativecommons.org/licenses/by/2.0/)  公共域和归因（CC BY 2.0）许可证的混合.  近150,000个地球上生活的精美历史插图. 
 * [British Library Illustration Archive](https://www.flickr.com/photos/britishlibrary/) - [:copyright:](http://www.bl.uk/aboutus/terms/copyright/index.html) Flickr Commons上的大英图书馆馆藏提供了对数百万公共领域图像的访问.
 * [Old Book Illustrations](https://www.oldbookillustrations.com/) - [:copyright:](https://www.oldbookillustrations.com/terms-of-use/) 来自旧书的大量插图集.
 * [unDraw](https://undraw.co/) - [:copyright:](https://undraw.co/license) 您可以想象和创建的每个项目的开源插图.
@@ -138,6 +139,7 @@
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) 找到免费的矢量，PSD，图标和照片.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) 一个有趣的小社区的矢量爱好者共享免费矢量图形.
 * [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) 为您的项目免费提供CC Attribution 4.0徽标设计.
+* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) 免费和大CC归因 -  ShareAlike 4.0矢量包与手绘涂鸦的演示文稿，社交媒体，博客文章等. 
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo是为您的下一个设计项目发现Sketch App资源的好地方.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) 发现并从插图社区下载免费矢量艺术.
 
@@ -159,6 +161,7 @@
 CSS和基于图像的模式资源的混合.
 
 * [CSS3 Patterns Gallery](http://lea.verou.me/css3patterns/) - 基于CSS3的可重复模式.
+* [Hero Patterns](http://www.heropatterns.com/) - 免费CC Attribution 4.0可重复SVG背景模式的集合.
 * [Low Poly Images](https://digital.com/blog/best-low-poly-generators/) - 低聚图像生成器的集合.
 * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - 基于图像的背景纹理和图案.
 * [The Pattern Library](http://thepatternlibrary.com/) - 大胆，明亮和时髦的可重复图案的集合.
@@ -177,10 +180,10 @@ CSS和基于图像的模式资源的混合.
 * [Beautiful Web Type](https://beautifulwebtype.com) - 展示Google网站字体目录中最好的字体.
 * [Brick](https://github.com/alfredxing/brick) -  Webfonts实际上看起来不错.
 * [Font Fabric](http://www.fontfabric.com/category/free/) -  Font Fabric的免费字体.
-* [Font Squirrel](https://www.fontsquirrel.com) - 精心挑选的字体免费用于商业用途.
+* [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - 用于Web字体的免费托管应用程序编程接口的交互式目录.
 * [Impallari](http://www.impallari.com/) -  Libre字体项目 [Pablo Impallari](https://github.com/impallari).
-* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) 一个在无噪声环境中开源字体的新平台. 
+* [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) 一个在无噪声环境中开源字体的新平台.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - 开源型铸造厂.
 * [Canva Font Combinations (Type Genius)](https://www.canva.com/font-combinations/) - 神奇的配对工具.
 
@@ -192,7 +195,7 @@ CSS和基于图像的模式资源的混合.
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL&_sc=1) 147 8位复古风格webfont图标的web和移动
 * [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) 图标集的300多个图标，这是一部分 [inuit.css](https://github.com/csswizardry/inuit.css).
-* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/)  认识Devicons，一个为开发人员制作的标志性字体，代码jedis，忍者，HTTPsters，福音传教士和书呆子（原文如此）.  100个图标准备好在您的下一个项目中使用.   
+* [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/)  认识Devicons，一个为开发人员制作的标志性字体，代码jedis，忍者，HTTPsters，福音传教士和书呆子（原文如此）.  100个图标准备好在您的下一个项目中使用.
 * [Iconfinder](https://www.iconfinder.com/)   -  Iconfinder为数百万设计师和开发人员提供了漂亮的图标.  大多数图标在归属下可用.  有关详细信息，请参阅各个许可
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](https://choosealicense.com/licenses/mit/) MIT授权图标字体.
 * [Fontello](http://fontello.com/) - [:copyright:](https://github.com/fontello/fontello/wiki/What-about-license%3F)   -  Fontello是一种将矢量图像快速打包到webfonts的工具.  还包括一部分股票图标.
@@ -204,6 +207,7 @@ CSS和基于图像的模式资源的混合.
 * [Material Design Icons](https://material.io/icons/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) 谷歌的材料图标.
 * [Octicons](https://octicons.github.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) GitHub的图标.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web&_sc=1) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) 在SVG中设置223标记的图标.
+* [Pathlove Icons](https://pathlove.com/icons/) - [:copyright:](https://creativecommons.org/licenses/by-nc-nd/4.0/)  100多个可爱和充满活力的图标.  免费用于个人和商业用途;  需要归属.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](https://choosealicense.com/licenses/mit/) 图标集超过60个社交品牌.
 * [Standart](https://standart.io/) -  Standart：用于项目的免费SVG图标.
 * [Topcoat Icons](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) 图标由 [Topcoat](http://topcoat.io/).

@@ -99,6 +99,7 @@
 * [AMWA IS-04 and IS-05](https://github.com/bbc/nmos-joint-ri) -  Python中的NMOS注册和发现以及设备连接管理.
 * [jebu-core](https://github.com/mikrosimage/jebu-core) -  Java端口 [EBU Tech 3293](https://tech.ebu.ch/publications/tech3293) EBU核心元数据，包括 [Audio Definition Model](https://tech.ebu.ch/publications/tech3364).
 * [libadm](https://github.com/irt-open-source/libadm) - 处理C ++ 11库的音频定义模型（ITU-R BS.2076）.
+* [libklvanc](https://github.com/stoth68000/libklvanc) - 用于从SDI和SMPTE ST 2110-40（CEA-708，AFD，SCTE-104等）提取辅助数据的C库.
 * [MAJ API](https://github.com/AMWA-TV/maj) - 用于读写MXF和AAF文件的纯Java库.
 * [NMOS](https://github.com/sony/nmos-cpp) - 用C ++编写的NMOS（网络媒体开放规范）注册表和节点（IS-04，IS-05）.
 * [SDPoker](https://github.com/Streampunk/sdpoker) - 用于测试SMPTE ST2110 SDP文件的CLI工具和库.

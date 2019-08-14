@@ -740,7 +740,7 @@ AWS Repos：
 * [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - 与S3兼容的对象存储服务器.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - 通过Python并行上传/下载到S3.
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - 适用于各种云存储提供商（如S3）的Rsync.
-* [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) -  S3磁盘使用（du）实用程序.
+* [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) -  S3磁盘使用（您）实用程序.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) -  Gulp插件.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - 快速，并发，流式访问，包括CLI.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) -  CLI工具，允许您创建分布式，分散式和版本化的存储库.
@@ -854,7 +854,7 @@ AWS Repos：
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) -  AWS Mobile SDK博客中的示例.
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - 来自自定进度实验室的Android Snake游戏.
 * [aws-quickstart](https://github.com/aws-quickstart/) -  AWS Quick Start的官方存储库.
-* [aws-spot-labs :fire::fire:](https://github.com/awslabs/aws-spot-labs) - 使用AWS Spot实例的最佳实践.
+* [aws-spot-labs :fire::fire::fire:](https://github.com/awslabs/aws-spot-labs) - 使用AWS Spot实例的最佳实践.
 * [aws-training-demo :fire:](https://github.com/awslabs/aws-training-demo) - 技术培训师社区的演示.
 * [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - 来自re：Invent 2012的Meme生成应用程序.
 * [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) - 来自RailsConf 2013的海马演示.

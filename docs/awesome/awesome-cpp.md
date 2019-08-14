@@ -258,7 +258,7 @@
 * [MongoDB C Driver](https://github.com/mongodb/mongo-c-driver) - 用于C的MongoDB客户端库.[Apache2]
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)   -  MongoDB的C ++驱动程序.  [Apache2的]
 * [MongoDB Libbson](https://github.com/mongodb/libbson)   -  BSON实用程序库.  [Apache2的]
-* [MySQL++](http://www.tangentsoft.net/mysql++/) - A C++ wrapper for MySQL's C API. [LGPL]
+* [MySQL++](http://www.tangentsoft.net/mysql++/)   - 用于MySQL C API的C ++包装器.  [LGPL]
 * [nanodbc](https://github.com/nanodbc/nanodbc)   - 本机C ODBC API的小型C ++包装器.  [MIT]
 * [ODB](https://www.codesynthesis.com/products/odb/)   - 用于C ++的开源，跨平台和跨数据库对象关系映射（ORM）系统.  [GPL第二]
 * [redis3m](https://github.com/luca3m/redis3m)   -  hiredis的包装，具有干净的C ++接口，支持标记和即用型模式.  [Apache2的]
@@ -355,7 +355,7 @@
 * [iup](https://www.tecgraf.puc-rio.br/iup)   - 用于构建图形用户界面的多平台工具包.  [MIT]
 * [libRocket](http://librocket.com/)   -  libRocket是一个C ++ HTML / CSS游戏界面中间件.  [MIT]
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
-* [MyGUI](http://mygui.info/) - Fast, flexible and simple GUI. [MIT]
+* [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
 * [nana](http://nanapro.org/en-us/)   -  Nana是一个用于现代C ++风格的GUI编程的跨平台库.  [促进]
 * [NanoGui](https://github.com/wjakob/nanogui)   - 适用于OpenGL 3.x或更高版本的简约跨平台小部件库.  [BSD]
 * [nuklear](https://github.com/vurtun/nuklear)   - 单头ANSI C gui库.  [公共区域]
@@ -368,7 +368,7 @@
 
 ## Graphics
 
-* [assimp](https://github.com/assimp/assimp) - Open Asset Import Library (assimp) is a cross-platform 3D model import library which aims to provide a common API for different 3D asset file formats. [BSD-3-Clause] [website](http://www.assimp.org)
+* [assimp](https://github.com/assimp/assimp)   - 开放资产导入库（assimp）是一个跨平台的3D模型导入库，旨在为不同的3D资产文件格式提供通用API.  [BSD -3-第] [website](http://www.assimp.org)
 * [bgfx](https://github.com/bkaradzic/bgfx)   - 跨平台渲染库.  [BSD]
 * [Blend2D](https://github.com/blend2d/blend2d)   - 由JIT编译器驱动的2D矢量图形引擎.  [zlib的] [website](https://blend2d.com/)
 * [bs::framework](https://github.com/GameFoundry/bsf)   - 用于开发实时图形应用程序的Modern C ++ 14库.  [MIT]
@@ -501,6 +501,7 @@
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
 * [Fido](https://github.com/FidoProject/Fido)   - 用于嵌入式电子和机器人的高度模块化的C ++机器学习库.  [MIT] [website](http://fidoproject.github.io/)
 * [flashlight](https://github.com/facebookresearch/flashlight)   - 来自Facebook AI Research的快速，灵活的机器学习库，完全用C ++编写，基于ArrayFire张量库.  [BSD -3-第] [website](https://fl.readthedocs.io/en/latest/)
+* [libsvm](https://github.com/cjlin1/libsvm)   - 支持向量机的简单，易用，高效的库.  [BSD -3-第] [website](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [MeTA](https://github.com/meta-toolkit/meta)   - 现代C ++数据科学工具包.  [MIT] [website](https://meta-toolkit.org/)
 * [Minerva](https://github.com/dmlc/minerva)   - 快速灵活的深度学习系统.  [Apache2的]
 * [mlpack](https://github.com/mlpack/mlpack)   - 可扩展的c ++机器学习库.  [LGPLv3] [website](http://www.mlpack.org/)
@@ -508,7 +509,7 @@
 * [Recommender](https://github.com/GHamrouni/Recommender)   - 使用协同过滤（CF）的产品推荐/建议的C库.  [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib)   -  RNNLIB是用于序列学习问题的递归神经网络库.  [GPLv3的]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)   - 幕府将军学习工具箱.  [GPLv3的]
-* [sofia-ml](https://code.google.com/p/sofia-ml/)   - 用于机器学习的快速增量算法套件.  [Apache2的]
+* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
 * [VLFeat](https://github.com/vlfeat/vlfeat)   -  VLFeat开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-第] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)   - 可扩展，可移植和分布式梯度提升（GBDT，GBRT或GBM）库，适用于Python，R，Java，Scala，C ++等.  在单机，Hadoop，Spark，Flink和DataFlow上运行.  [Apache2的]
 
@@ -587,8 +588,8 @@
 * [ENet](https://github.com/lsalzman/enet)   - 可靠的UDP网络库.  [MIT] [website](http://enet.bespin.org/)
 * [evpp](https://github.com/Qihoo360/evpp)   - 使用TCP / UDP / HTTP协议的C ++高性能网络.  [BSD]
 * [H2O](https://github.com/h2o/h2o)   - 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2.  它也可以用作库.  [MIT]
-* [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
-* [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
+* [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
+* [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libhttpserver](https://github.com/etr/libhttpserver)   - 用于创建嵌入式Rest HTTP服务器的C ++库（以及更多）.  [LGPL2.1]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
@@ -627,7 +628,7 @@
 * [MuPDF](https://mupdf.com/)   - 轻量级PDF，XPS和电子书查看器.  [AGPL /商业]
 * [PoDoFo](http://podofo.sourceforge.net/)   - 使用PDF文件格式的库.  [LGPL]
 * [Poppler](https://poppler.freedesktop.org/)   - 基于xpdf-3.0代码库的开源多后端PDF渲染库.  [在GPLv2 / GPLv3的]
-* [Xpdf](https://www.xpdfreader.com/)   -  Xpdf是一个免费的PDF查看器和工具包，包括文本提取器，图像转换器，HTML转换器等.  [GPL v2 / GPL v3]
+* [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
 * [DynaPDF](http://www.dynaforms.com/)   - 易于使用的PDF生成库.  [商业]
 
 ## Physics
@@ -721,7 +722,7 @@
 * [cereal](https://github.com/USCiLab/cereal)   - 用于序列化的C ++ 11库.  [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec)   - 仅限头文件的C ++ 11库，用于编码/解码base64，base32和hex，具有一致，灵活的API.  [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)   - 内存高效的序列化库.  [Apache2的]
-* [MessagePack](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C and C++. [Apache2] [website](http://msgpack.org/)
+* [MessagePack](https://github.com/msgpack/msgpack-c)   - 用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2的] [website](http://msgpack.org/)
 * [nanopb](https://github.com/nanopb/nanopb) -  ANSI C中的小代码大小的协议缓冲区实现.[Zlib]
 * [protobuf](https://github.com/protocolbuffers/protobuf)   - 协议缓冲区 - 谷歌的数据交换格式.  [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) -  C中的协议缓冲器实现.[BSD]
@@ -958,7 +959,7 @@
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) - 介绍材料于C ++ Now 2019年发表.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - 介绍材料在C ++ Now 2018年展出.
 * [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) -  2017年C ++上的演讲材料.
-* [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) - Presentation materials presented at C++Now 2016.
+* [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) -  2016年C ++上的演讲材料.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - 在C ++ Now 2015上展示的演示材料.
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - 在C ++ Now 2014上展示的演示材料.
 * [C++Now 2013 Presentations](https://github.com/boostcon/cppnow_presentations_2013) -  C ++ Now 2013上的演示材料.
@@ -1021,7 +1022,7 @@
 * [C++ Quiz](http://q.viva64.com/) -  C ++测验，您建议在开源项目的代码片段中查找错误.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - 每个工作日都会提示最常见的C ++错误以及从PVS-Studio团队解决这些错误的方法.
-* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - 用户排名在线教程银行网站，显示多个课程，以学习C ++.
+* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
 
 ## Weblogs
 *有用的C或C ++相关的博客.*
