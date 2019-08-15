@@ -22,7 +22,7 @@
 * [Why Framer.js Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606#.846k6rca6) -  Pedro Carmo为什么Framer是设计师应该开始使用的工具.
 
 ## Videos
-* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) -  Koen Bok和Jorn van Dijk就Framer进行了简短的演讲和问答，其中也包括了一般的原型设计和市场上各种设计工具的讨论.
+* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) -  Koen Bok和Jorn van Dijk就Framer进行了简短的演讲和问答，其中还包括一般的原型设计和市场上各种设计工具的讨论.
 * [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - 讨论流行设计工具的创建者（包括Framer的Koen Bok）关于原型设计的价值，为设计师设计产品的经验教训以及UX工具的未来.
 
 ## Tutorials
@@ -59,7 +59,7 @@
 * [Framer for UX Design](https://www.lynda.com/FramerJS-tutorials/UX-Design-Tools-Framer/562923-2.html) -  Emmanuel Henri展示了如何使用非编码Framer工具以及编程的使用如何适合UX设计过程.
 * [Framer Crash Course](https://www.youtube.com/playlist?list=PLWlUJU11tp4f41p4dzizVkjjTQ38kA0wG) -  Crash课程学习Framer的设计和代码基础知识.
 * [designers.how Framer Courses](https://designers.how/topics/framer) - 基础和更高级的Framer课程列表.
-* [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - 系列视频，引导您在Framer中使用动手项目进行设计和编码 [Cordova Putra](https://twitter.com/cordova)
+* [Framer Studio for Beginners: A Comprehensive Guide](https://www.youtube.com/playlist?list=PLIZVb6Yuw91yGUNbSNEHvWWHkdol6SJUW) - 系列视频，通过动手实践的项目引导您在Framer中进行设计和编码 [Cordova Putra](https://twitter.com/cordova)
 
 ## Books
 * [CoffeeScript for Framer](http://coffeescript-for-framerjs.com) 通过 [Tessa Thornton](https://twitter.com/tessthornton)
@@ -68,7 +68,7 @@
 ## Examples
 * [Framer Experiments by Ed Chao](http://thatedchao.com/published/2014/10/27/framer.html) - 来自Dropbox设计师的下载链接的几个很棒的例子.
 * [HSL Color Picker](http://share.framerjs.com/ft0uwf1jweid/) -  Framer团队的HSL颜色选择器.
-* [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - 使用Color class by进行iOS切换 [Jorn van Dijk](https://twitter.com/jornvandijk).
+* [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) -  iOS使用Color类进行切换 [Jorn van Dijk](https://twitter.com/jornvandijk).
 
 ## Modules
 * [framer-googlefonts](https://github.com/peteschaffner/framer-googlefonts) - 适用于Framer原型的Google Fonts加载程序模块.
@@ -99,12 +99,12 @@
 * [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) - 为此模块提供一系列图像，并将它们以圆形路径平均旋转.
 * [framer-colour-transition](https://github.com/nickmangos/framer-colour-transition) - 用于转换图层背景颜色的成帧器模块.
 * [framer-webview](https://github.com/peteschaffner/framer-webview) -  Framer的Web视图模块.
-* [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) -  Framer的iOS状态栏模块.
+* [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) -  Framer的Ajax模块.
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) -  Framer的填充模块.
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - 用于Web SpeechSynthesis的Framer模块.
 * [Comment-for-Framer](https://github.com/awt2542/Comment-for-Framer) - 用于在原型中进行注释的Framer模块.
-* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) -  FramerJS的简单控制器，允许您仅使用几行代码在视图之间进行转换.
+* [framer-viewNavigationController](https://github.com/chriscamargo/framer-viewNavigationController) -  FramerJS的简单控制器，允许您使用几行代码在视图之间进行转换.
 * [Layers-for-Framer](https://github.com/awt2542/Layers-for-Framer) -  Framer模块，可以更轻松地在项目中查找图层.
 * [Framer-Highlightr](https://github.com/jonahvsweb/Framer-Highlightr) - 自定义Framer模块，显示原型中可点击图层的热点.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - 模块和相应的Sketch插件，使得在Framer中使用SVG路径变得微不足道.
@@ -148,8 +148,8 @@
 * [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - 用于游戏手柄驱动的UI原型的模块.
 * [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - 成帧反馈模块使您可以更轻松地使用反馈消息进行原型设计.
 * [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) -  Framer Module将Android的底部导航添加到您的项目中.
-* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) -  Framer模块，当在桌面浏览器或Framer Studio（但不在设备上）显示时，为手机/平板电脑添加旋转按钮.
-* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - A module that allows you to easily manage keyboard input.
+* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) -  Framer模块，当在桌面浏览器或Framer Studio（但不在设备上）显示时，向手机/平板电脑添加旋转按钮.
+* [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - 一个模块，可让您轻松管理键盘输入.
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - 用于在设计模式下将设计转换为完全可扩展的代码类的模块，无需单行代码！
 * [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) -  Framer模块，为您的Framer项目提供更好的音频支持.
 * [Framer Status Bar Module](https://github.com/walnuttea/statusBar-module) - 用于初始化Framer应用程序中状态栏的模块.
@@ -162,9 +162,8 @@
 
 
 ## UI Libraries
-* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) -  iOS 11公开发布中的GUI元素模板.
+* [iOS 11 iPhone GUI](https://github.com/facebookincubator/ios-11-gui-for-framer) -  iOS 11公开发行版中的GUI元素模板.
 * [Framework](https://github.com/steveruizok/framework) -  Framer的通用组件套件.
-* [Flare](https://gumroad.com/l/DbsPj) - 使用Flare UI工具包的交互式原型.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) -  Kenny Chen的博客，有许多很棒的例子，教程.

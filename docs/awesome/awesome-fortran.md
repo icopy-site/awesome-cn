@@ -4,7 +4,7 @@
 
 
 ## Functional Libraries
-* [Functional Frotran](https://github.com/wavebitscientific/functional-fortran) - 现代Fortran的功能编程.
+* [Functional Fortran](https://github.com/wavebitscientific/functional-fortran) - 现代Fortran的功能编程.
 
 
 ## Graphics Libraries
@@ -21,7 +21,7 @@
 *用于计算和其他数学运算的库.*
 
 * [BLAS](http://www.netlib.org/blas/) - 应用程序编程接口标准，用于发布库以执行基本线性代数运算，例如向量和矩阵乘法.
-* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) -  CERN计划库是CERN中央计算机上以源代码和目标代码形式维护和提供的大量通用库和模块的集合
+* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) -  CERN计划库是在CERN中央计算机上以源代码和目标代码形式维护和提供的大量通用库和模块的集合
 * [EISPACK](http://www.netlib.org/eispack/) - 用FORTRAN编写的用于矩阵的特征值和特征向量的数值计算的软件库
 * [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - 便携式，基于对象的Fortran接口 [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
 * [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) -  IMSL Fortran数值库是高性能计算商业数学和统计库的标准
@@ -54,6 +54,7 @@
 * [FRUIT](https://sourceforge.net/projects/fortranxunit/) -  FORTRAN单元测试框架，用FORTRAN 95编写
 * [Ftunit](http://flibs.sourceforge.net/ftnunit.html) -  Arjen Markus的Fortran单元测试框架
 * [pFUnit](https://sourceforge.net/projects/pfunit/)   - 来自NASA和NGC TASC的开发人员对Fortran进行MPI扩展的单元测试框架.  使用并行代码和面向对象的设计.
+* [Vegetables](https://gitlab.com/everythingfunctional/vegetables) - 为了更健康的代码库，请吃蔬菜
 
 ## Encoding-Decoding
 *使用Fortran语言编码和解码数据的库.*
@@ -111,7 +112,7 @@
 
 ## Other Awesome Lists
 
-其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+其他惊人的令人敬畏的名单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
 
 ## Contributing
 

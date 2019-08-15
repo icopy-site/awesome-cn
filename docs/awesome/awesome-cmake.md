@@ -81,6 +81,7 @@
 * [FindICU.cmake](https://github.com/julp/FindICU.cmake)   -  CMake模块，用于查找Unicode（ICU）库的国际组件.  [```[BSD2]```] [BSD2子句]
 * [FindTBB](https://github.com/justusc/FindTBB)   - 用于英特尔线程构建模块的CMake查找模块.  [```[MIT]```] [MIT]
 * [FindWiX](https://github.com/apriorit/FindWiX) - 用于建筑的CMake模块 [Windows Installer](https://en.wikipedia.org/wiki/Windows_Installer) 包裹 [WiX toolset](http://wixtoolset.org) .  [```[BSD3]```] [BSD3子句]
+* [FindIDL](https://github.com/apriorit/FindIDL) - 用于建筑的CMake模块 [IDL](https://docs.microsoft.com/en-us/windows/win32/midl/interface-definition-idl-file) 使用MIDL生成CLR DLL的文件 [Tlbimp](https://docs.microsoft.com/en-us/dotnet/framework/tools/tlbimp-exe-type-library-importer) ，  [```[W]```] [带]
 * [cmake-modules](https://github.com/hanjianwei/cmake-modules) - [hanjianwei](https://github.com/hanjianwei) 的CMake模块集合.  [```[MIT]```] [MIT]
 * [YCM](https://github.com/robotology/ycm) - 额外的CMake模块 [Yet Another Robot Platform](https://github.com/robotology/yarp)  和朋友.  [```[BSD3]```] [BSD3子句]
 * [CMakeCM](https://github.com/AnotherFoxGuy/CMakeCM)   -  CMake社区模块.  ```[NO LICENSE]```

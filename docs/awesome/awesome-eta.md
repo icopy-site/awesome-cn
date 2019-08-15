@@ -75,7 +75,6 @@
 ### Blogs
 
 - [Eta programming language](https://blog.eta-lang.org/) - 官方博客.
-- [TypeLead](https://blog.typelead.com/) -  Eta背后的公司博客.
 - [Eta on Android](https://brianmckenna.org/blog/eta_android) - 发布关于在Android上使用Eta的信息.
 
 ### Conferences
@@ -88,7 +87,9 @@
 
 ### Talks
 
+- [Introduction to Eta](https://www.youtube.com/watch?v=hmDLNO7Gkxs) -  Eta的创造者介绍.
 - [Introduction to Eta](https://brianmckenna.org/files/presentations/lambdajam-2017-eta.pdf) - 语言及其起源的介绍.
+- [Haskell for JVM](https://www.youtube.com/watch?v=P1dmHKJ2vak) - 在LambdaConf上谈论将语言移植到JVM.
 - [Using Eta](https://speakerdeck.com/filippovitale/using-eta-for-what-you-dont-like-writing-in-scala) -  Eta和Scala的比较.
 - [Eta Fibers](https://rahulmutt.github.io/slides/fuconf17-eta-fibers/slides.html#1) -  JVM上的并发.
 - [ICFP Videos](https://www.youtube.com/channel/UCwRL68qZFfub1Ep1EScfmBw) - 关于函数式编程的视频.
@@ -97,6 +98,7 @@
 
 ## Tools
 
+- [IntelliJ Eta](https://github.com/typelead/intellij-eta) -  IntelliJ插件.
 - [sbt](https://github.com/typelead/sbt-eta) - 将Eta集成到Scala中的插件.
 - [gradle](https://github.com/typelead/gradle-eta) -  Eta项目的Gradle插件.
 

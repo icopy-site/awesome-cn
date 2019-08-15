@@ -163,7 +163,7 @@ Contributions are welcome!
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-python-sample)
 * [Install](http://github.com/boto/boto#installation)
-* [Docs](http://docs.pythonboto.org/en/latest/)
+* [Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
 
 相关回购：
@@ -316,7 +316,7 @@ AWS Repos：
 * [dbcli/athenacli](https://github.com/dbcli/athenacli) - 适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - 增压的AWS命令行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - 轻松命令行访问Amazon EC2，S3，SQS，ELB和SDB.
-* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -  Go中EC2，IAM和S3的强大CLI.
+* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用Go编写的安全存储AWS凭证的工具.
 
 ### CloudFormation
@@ -988,46 +988,45 @@ AWS指南：
 
 ### Case Studies: Powered by AWS
 
-* [Adobe](https://aws.amazon.com/solutions/case-studies/adobe/?pg=main-customer-success-page)
+* [Adobe](https://aws.amazon.com/solutions/case-studies/adobe/)
 * [AdRoll](https://aws.amazon.com/solutions/case-studies/adroll/)
-* [Airbnb](https://aws.amazon.com/solutions/case-studies/airbnb/?pg=main-customer-success-page)
+* [Airbnb](https://aws.amazon.com/solutions/case-studies/airbnb/)
 * [Autodesk](https://aws.amazon.com/solutions/case-studies/autodesk/)
-* [AWS](http://aws.amazon.com/)
 * [Citrix](https://aws.amazon.com/solutions/case-studies/citrix/)
-* [Comcast](https://aws.amazon.com/solutions/case-studies/comcast/?pg=main-customer-success-page)
+* [Comcast](https://aws.amazon.com/solutions/case-studies/comcast/)
 * [Coursera](https://aws.amazon.com/solutions/case-studies/coursera/)
 * [Docker](https://aws.amazon.com/solutions/case-studies/docker/)
-* [Dow Jones](https://aws.amazon.com/solutions/case-studies/dow-jones/?pg=main-customer-success-page)
+* [Dow Jones](https://aws.amazon.com/solutions/case-studies/dow-jones/)
 * [Dropbox](https://www.dropbox.com/)
 * [Dropcam](https://aws.amazon.com/solutions/case-studies/dropcam/)
-* [Expedia](https://aws.amazon.com/solutions/case-studies/expedia/?pg=main-customer-success-page)
-* [Foursquare](https://aws.amazon.com/solutions/case-studies/foursquare/?pg=main-customer-success-page)
+* [Expedia](https://aws.amazon.com/solutions/case-studies/expedia/)
+* [Foursquare](https://aws.amazon.com/solutions/case-studies/foursquare/)
 * [IMDb](https://aws.amazon.com/solutions/case-studies/imdb/)
-* [Instrumental](https://instrumentalapp.com/blog/aws-kinesis/) - 深入挖掘Kinesis作为队列系统
+* [Instrumental](https://instrumentalapp.com/blog/aws-kinesis/)
 * [Intuit](https://aws.amazon.com/solutions/case-studies/soasta-intuit/)
 * [Johnson & Johnson](https://aws.amazon.com/solutions/case-studies/johnson-and-johnson/)
-* [Lionsgate](https://aws.amazon.com/solutions/case-studies/lionsgate/?pg=main-customer-success-page)
-* [mlbam](https://aws.amazon.com/solutions/case-studies/major-league-baseball-mlbam/?pg=main-customer-success-page)
-* [NASA](https://aws.amazon.com/solutions/case-studies/nasa-jpl-curiosity/?pg=main-customer-success-page)
-* [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/?pg=main-customer-success-page)
-* [Nike](https://aws.amazon.com/solutions/case-studies/nike/)
-* [Nokia](https://aws.amazon.com/solutions/case-studies/nokia/?pg=main-customer-success-page)
+* [Lionsgate](https://aws.amazon.com/solutions/case-studies/lionsgate/)
+* [mlbam](https://aws.amazon.com/solutions/case-studies/major-league-baseball-mlbam/)
+* [NASA](https://aws.amazon.com/solutions/case-studies/nasa-jpl-curiosity/)
+* [Netflix](https://aws.amazon.com/solutions/case-studies/netflix/)
+* [Nike](https://web.archive.org/web/20150910200649/http://aws.amazon.com/solutions/case-studies/nike/)
+* [Nokia](https://web.archive.org/web/20161210062336/https://aws.amazon.com/solutions/case-studies/nokia/)
 * [PBS](https://aws.amazon.com/solutions/case-studies/pbs/)
-* [Pfizer](https://aws.amazon.com/solutions/case-studies/pfizer/?pg=main-customer-success-pagel)
+* [Pfizer](https://web.archive.org/web/20161210034734/https://aws.amazon.com/solutions/case-studies/pfizer/)
 * [Philips](https://aws.amazon.com/solutions/case-studies/philips/)
-* [Reddit](https://www.reddit.com/)
-* [Samsung](https://aws.amazon.com/solutions/case-studies/samsung/?pg=main-customer-success-page)
+* [Reddit](https://web.archive.org/web/20150905070945/https://aws.amazon.com/solutions/case-studies/reddit/)
+* [Samsung](https://aws.amazon.com/solutions/case-studies/samsung/)
 * [Siemens](https://aws.amazon.com/solutions/case-studies/siemens/)
-* [Slack](https://aws.amazon.com/solutions/case-studies/slack/?pg=main-customer-success-page)
-* [Spotify](https://www.spotify.com)
-* [Swiftkey](https://aws.amazon.com/solutions/case-studies/swiftkey/)
+* [Slack](https://aws.amazon.com/solutions/case-studies/slack/)
+* [Spotify](https://web.archive.org/web/20180608043124/https://aws.amazon.com/solutions/case-studies/spotify/)
+* [Swiftkey](https://web.archive.org/web/20160410051253/https://aws.amazon.com/solutions/case-studies/swiftkey/)
 * [The Weather Company](https://aws.amazon.com/solutions/case-studies/the-weather-company/)
 * [Ticketmaster](https://aws.amazon.com/solutions/case-studies/ticketmaster/)
-* [Time Inc](https://aws.amazon.com/solutions/case-studies/time-inc/?pg=main-customer-success-page)
-* [Twilio](https://www.twilio.com/)
+* [Time Inc](https://aws.amazon.com/solutions/case-studies/time-inc/)
+* [Twilio](https://aws.amazon.com/solutions/case-studies/twilio/)
 * [U.S. Department of State](https://aws.amazon.com/solutions/case-studies/exchangesconnect/)
 * [Ubisoft](https://aws.amazon.com/solutions/case-studies/ubisoft/)
-* [Yelp](https://aws.amazon.com/solutions/case-studies/yelp-docker/?pg=main-customer-success-page)
+* [Yelp](https://aws.amazon.com/solutions/case-studies/yelp-docker/)
 * [Zillow](https://aws.amazon.com/solutions/case-studies/zillow/)
 
 ## Social
@@ -1045,26 +1044,25 @@ AWS指南：
 AWS博客：
 
 * [Official Blog](https://aws.amazon.com/blogs/aws/)
-    * [Brasil](http://aws.typepad.com/brasil/)
-    * [China](http://blog.csdn.net/awschina)
-    * [Germany](http://aws.typepad.com/awsaktuell/)
-    * [Japan](http://aws.typepad.com/aws_japan/)
+    * [Brasil](https://aws.amazon.com/pt/blogs/aws-brasil/)
+    * [China](https://aws.amazon.com/cn/blogs/china/)
+    * [Germany](https://aws.amazon.com/de/blogs/germany/)
+    * [Japan](https://aws.amazon.com/jp/blogs/news/)
     * [Korea](http://aws.amazon.com/ko/blogs/korea/)
-* [Application Management](http://blogs.aws.amazon.com/application-management)
-* [Architecture](http://www.awsarchitectureblog.com/)
-* [Big Data](https://blogs.aws.amazon.com/bigdata/)
+* [DevOps](https://aws.amazon.com/blogs/devops/)
+* [Architecture](https://aws.amazon.com/blogs/architecture/)
+* [Big Data](https://aws.amazon.com/blogs/big-data/)
 * [Compute](https://aws.amazon.com/blogs/compute/)
-* [Mobile](https://mobile.awsblog.com/)
-* [SES](http://sesblog.amazon.com/)
-* [Java](http://java.awsblog.com/)
-* [PHP](http://blogs.aws.amazon.com/php/)
-* [Ruby](http://ruby.awsblog.com/)
-* [Security](http://blogs.aws.amazon.com/security/)
+* [Mobile](https://aws.amazon.com/blogs/mobile/)
+* [Messaging](https://aws.amazon.com/blogs/messaging-and-targeting/)
+* [Java](https://aws.amazon.com/blogs/developer/category/programing-language/java/)
+* [PHP](https://aws.amazon.com/blogs/developer/category/programing-language/php/)
+* [Ruby](https://aws.amazon.com/blogs/developer/category/programing-language/ruby/)
+* [.NET](https://aws.amazon.com/blogs/developer/category/programing-language/dot-net/)
+* [Security](https://aws.amazon.com/blogs/security/)
 * [Startup](https://medium.com/aws-activate-startup-blog)
-* [.NET](http://blogs.aws.amazon.com/net/)
 * [Partner Network](https://aws.amazon.com/blogs/apn/)
 * [SAP](https://aws.amazon.com/blogs/awsforsap/)
-* [Startup collection](https://medium.com/aws-activate-startup-blog)
 
 社区博客：
 
@@ -1073,7 +1071,6 @@ AWS博客：
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [AWS Geek](https://www.awsgeek.com/)
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Twitter Influencers
 

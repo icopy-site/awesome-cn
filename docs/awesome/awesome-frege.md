@@ -24,10 +24,9 @@
 ### First Steps
 
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - 在命令行上使用Frege的第一步.
-- [REPL](http://try.frege-lang.org/) - 在网络上编辑和运行弗雷格代码.
 - [Examples](https://github.com/Frege/frege/tree/master/examples) - 一些代码示例.
 - [Template](https://github.com/tfausak/fregexample) - 弗雷格项目的模板.
-- [Trending](https://github.com/trending?l=frege) - 在GitHub上推广项目.
+- [Trending](https://github.com/trending?l=frege) - 在GitHub上展示项目.
 
 ### Comparisons
 
@@ -47,7 +46,7 @@
 
 ### Chat
 
-- [Gitter](https://gitter.im/Frege/frege) -  Gitter通道.
+- [Gitter](https://gitter.im/Frege/frege) - 网格通道.
 - [IRC](https://webchat.freenode.net/?channels=%23frege) -  IRC频道.
 
 ### Questions
@@ -68,7 +67,7 @@
 - [InfoQ](https://www.infoq.com/news/2015/08/frege-haskell-for-jvm) -  InfoQ关于弗雷格的文章.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Articles) - 关于弗雷格维基的更多文章列表.
 - [Frege Programming Language](http://fregepl.blogspot.com) -  Ingo Wechsung的博客.
-- [Frege Posts](https://www.canoo.com/blog/tag/frege/) -  Dierk King的博客.
+- [JAXenter](https://jaxenter.de/frege-haskell-jvm-54617) - 采访Ingo Wechsung（德国）.
 
 ### Books
 
@@ -136,6 +135,7 @@
 ### Games
 
 - [2048](https://github.com/tfausak/fr2048) - 弗雷格克隆2048年.
+- [frech](https://github.com/Ingo60/frech) - 全功能的国际象棋引擎.
 
 ### Media
 
@@ -152,7 +152,7 @@
 ### Build Tools
 
 - [Leiningen](http://leiningen.org/) -  Frege和Clojure的项目自动化.
-- [Leiningen Template](https://github.com/Frege/frege-lein-template) - 所请求项目的模板.
+- [Leiningen Template](https://github.com/Frege/frege-lein-template) - 自由职业项目的模板.
 - [gottlob](https://github.com/mchav/gottlob) - 为Frege构建工具.
 
 ### IDEs
@@ -165,7 +165,6 @@
 
 - [Console REPL](https://github.com/Frege/frege-repl) - 控制台上的REPL.
 - [GUI REPL](https://github.com/Dierk/frepl-gui) - 基于GUI的REPL.
-- [Web REPL](http://try.frege-lang.org/) - 基于Web的REPL.
 
 ### Unit Testing
 

@@ -47,7 +47,6 @@
 
 ## Social
 
-- [Reddit](https://www.reddit.com/r/ledger/) -  Ledger subreddit.
 - [Twitter](https://twitter.com/LedgerTips) - 使用提示.
 - [Google Group](https://groups.google.com/forum/#!forum/ledger-cli) -  Ledger Google Group.
 - [Stack Exchange](https://money.stackexchange.com/search?q=ledger-cli) - 标记“个人理财和货币堆栈”.
