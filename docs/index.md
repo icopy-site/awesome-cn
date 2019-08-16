@@ -11,7 +11,7 @@
                         <path style="line-height:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;block-progression:tb;isolation:auto;mix-blend-mode:normal" d="M 5 3 C 3.9069372 3 3 3.9069372 3 5 L 3 19 C 3 20.093063 3.9069372 21 5 21 L 19 21 C 20.093063 21 21 20.093063 21 19 L 21 12 L 19 12 L 19 19 L 5 19 L 5 5 L 12 5 L 12 3 L 5 3 z M 14 3 L 14 5 L 17.585938 5 L 8.2929688 14.292969 L 9.7070312 15.707031 L 19 6.4140625 L 19 10 L 21 10 L 21 3 L 14 3 z" font-weight="400" font-family="sans-serif" white-space="normal" overflow="visible"/>
                     </svg>
                 </div>
-                <input id="url" type="text" placeholder="英文文档URL"/>
+                <input id="urlInput" type="text" placeholder="英文文档URL"/>
             </div>
             <div class="input-field second-wrap">
                 <button class="btn-search" type="button" onclick='go()' >构建</button>
@@ -22,19 +22,7 @@
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
 <script type="text/javascript">
-    function go() {
-        var url = $("#url").val();
-        if (!url.startsWith("http")) {
-            url = "http://" + url;
-        }
-        var targetUrl = "https://"+"icopy.site/" + url;
-        try {
-            var urlAddress = new URL(url);
-            window.location = targetUrl;
-        } catch (e) {
-            $("#status").text("URL 不合法");
-        }
-    }
+ function go() {var url = $("#urlInput").val();if (!url.startsWith("http")) {url = "http://" + url;}var targetUrl = "https://"+"icopy.site/" + url;try {var urlAddress = new URL(url);window.location = targetUrl;} catch (e) {$("#status").text("URL 不合法");}}
 </script>
 
 ### 地址栏URL前加icopy.site/
