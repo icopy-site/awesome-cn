@@ -173,6 +173,7 @@ android安全相关资源的集合.
 11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) -  android-vts扫描设备中的漏洞集
 13. [AppMon](https://github.com/dpnishant/appmon)  -  AppMon是一个自动化框架，用于监视和篡改本机macOS，iOS和Android应用程序的系统API调用.  它以弗里达为基础.
+14. [Internal Blue](https://github.com/seemoo-lab/internalblue) - 基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

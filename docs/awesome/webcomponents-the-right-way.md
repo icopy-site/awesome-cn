@@ -260,6 +260,11 @@
 - [Frontend Happy Hour, episode 62: Web Components - shots of shadow DOM](https://frontendhappyhour.com/episodes/web-components-shots-of-shadow-dom/)
 - [Real Talk JavaScript, episode 7: Custom Web Components with Rob Wormald](https://realtalkjavascript.simplecast.fm/eaf3db9e)
 
+## Benchmarks
+
+- [web-components-benchmark](https://vogloblinsky.github.io/web-components-benchmark/) - 使用各种示例的基准Web组件技术.
+- [web-components-todo](https://wc-todo.firebaseapp.com/) - 用于基准目的的不同Web组件库中构建的相同todo应用程序.
+
 ## Miscellaneous
 
 - [bruck](https://github.com/Heydon/bruck) - 使用Web组件和Houdini Paint API构建的原型系统.
@@ -267,9 +272,7 @@
 - [webcomponents.dev](https://webcomponents.dev) - 您的Web组件工作室.
 - [webcomponents.org](http://webcomponents.org/) - 讨论和分享网络组件.
 - [webcomponents.news](http://webcomponents.news) - 展示Web组件的文章，教程，微库和网站的集合.
-- [web-components-benchmark](https://github.com/vogloblinsky/web-components-benchmark) - 使用各种Web组件技术的Todo列表应用程序的基准测试.
 - [web-components-examples](https://github.com/mdn/web-components-examples) - 与MDN Web组件文档相关的一系列Web组件示例.
-- [web-components-todo](https://github.com/shprink/web-components-todo) - 使用各种Web组件技术构建的简单待办事项列表.
 
 ## History
 

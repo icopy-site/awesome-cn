@@ -41,6 +41,7 @@
 * [Thue](https://github.com/jcolag/Thue) -  * Matrioshka *语言基于对半Thue语法的非确定性字符串重写.
 * [Unary](https://esolangs.org/wiki/Unary) - 基于Brainfuck的语言，其中所有命令均为0.
 * [Velato](http://velato.net) - 使用MIDI文件作为源的语言，程序由音符的音高和顺序定义.
+* [Vigil](https://github.com/munificent/vigil) - 只有Vigil真正保持警惕，不允许代码无法通过程序规范.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) - 随时随地做事的语言.
 * [Whitespace](http://web.archive.org/web/20150623025348/http://compsoc.dur.ac.uk/whitespace) - 仅使用白色字符（空格，制表符和换行符）.
 * [Z](https://esolangs.org/wiki/Z) - 仅使用字母z.
@@ -57,7 +58,7 @@
 
 ## Articles
 
-* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - 一系列文章，解释编译器和解释器的基础知识以及如何构建一个.
+* [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) - 系列文章，解释编译器和解释器的基础知识以及如何构建一个.
 * [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) -  Yevgeniy Brikman的一篇文章，描述了不常用的不同编程范式.
 
 ## Community

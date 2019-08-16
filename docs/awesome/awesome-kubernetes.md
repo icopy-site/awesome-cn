@@ -690,6 +690,7 @@ Projects
 ## Web applications
 
 * [Kubernator](https://github.com/smpio/kubernator)
+* [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - 报告Kubernetes集群和pod资源请求与使用情况并生成静态HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - 基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
 * [Polaris](https://github.com/reactiveops/polaris) -  Kubernetes最佳实践的开源仪表板
 

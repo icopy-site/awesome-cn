@@ -16,10 +16,11 @@
 - [Arduino](https://www.arduino.cc/)   -  Arduino是一个基于易于使用的硬件和软件的开源电子平台.  它适用于任何进行交互式项目的人.
 - [BeagleBoard](http://beagleboard.org/) -  BeagleBoard是由德州仪器（TI）与Digi-Key和Newark element14联合生产的低功耗开源硬件单板计算机.
 - [Dragonboard](https://developer.qualcomm.com/hardware/dragonboard-410c)   -  Arrow Electronics的产品DragonBoard 410c是基于中端Qualcomm®Snapdragon™410E处理器的开发板.  它具有先进的处理能力，Wi-Fi，蓝牙连接和GPS，所有这些都装在一张信用卡大小的电路板上.
+- [ESP32](https://www.espressif.com/en/products/hardware/esp32/overview)   -  ESP32，ESP8266的继任者.  ESP32充满了硬件功能.  高速双核处理器以及众多内置外围设备将取代互连产品中的微控制器.
 - [HummingBoard](https://www.solid-run.com/freescale-imx6-family/hummingboard/) -  HummingBoard是基于1GHz Freescale i.MX6 SoC的三个基于Linux和Android的开源SBC系列，具有类似Pi的26针I / O连接器.
 - [Intel Galileo](https://www-ssl.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html) - 英特尔®GalileoGen 2主板是基于英特尔®架构的Arduino *认证开发和原型开发板系列中的第一款，专为制造商，学生，教育工作者和DIY电子爱好者设计.
 - [Microduino](https://www.microduino.cc/)   -  Microduino和mCookie为各个年龄段的制造商，设计师，工程师，学生和好奇的修补匠带来功能强大，小巧，可堆叠的电子硬件.  构建开源项目或创建新的项目.
-- [Node MCU (ESP 8266)](http://nodemcu.com/index_en.html)   -  NodeMCU是一个开源的物联网平台.  它使用Lua脚本语言.  它基于eLua项目，基于ESP8266 SDK 0.9.5构建.
+- [Node MCU (ESP 8266)](http://www.nodemcu.com/index_en.html)   -  NodeMCU是一个开源的物联网平台.  它使用Lua脚本语言.  它基于eLua项目，基于ESP8266 SDK 0.9.5构建.
 - [OLinuXino](https://www.olimex.com/Products/OLinuXino/open-source-hardware) -  OLinuXino是一款开源软件和开源硬件低成本（30欧元）Linux工业级单板计算机，带有GPIO，能够在-25°C至+ 85°C的温度范围内运行.
 - [Odroid](http://www.hardkernel.com/)   -  ODROID表示Open + Droid.  它是硬件和软件的开发平台.
 - [Particle](https://www.particle.io) - 一套硬件和软件工具，可帮助您制作物联网产品的原型，扩展和管理.
@@ -95,6 +96,7 @@
  - [VerneMQ](https://github.com/erlio/vernemq)   -  VerneMQ是一个高性能的分布式MQTT代理，可连接物联网，M2M，移动和Web应用程序.  它在商用硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle)   - 具有高级功能的开源后端，如实时发布/订阅或地理围栏以及支持MQTT，LoRaWAN等的多协议接口.  （[Website](https://kuzzle.io/solutions/technologies/iot-backend/))
  - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
+ - [EMQ X](https://github.com/emqx/emqx) - 可扩展且可靠的实时MQTT消息传递引擎，适用于5G时代的物联网.
 
 #### Libraries and Tools
 
@@ -104,6 +106,7 @@
  - [Pi4J](http://pi4j.com/) -  Pi4j旨在为Java程序员提供友好的面向对象的I / O API和实现库，以访问Raspberry Pi平台的完整I / O功能.
  - [WiringPi](http://wiringpi.com/) -  WiringPi是一个用C语言编写的GPIO访问库，用于Raspberry Pi中使用的BCM2835.
  - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
+ - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化MQTT主题的工具，MQTT瑞士军刀.
  - [ops](https://ops.city/) - 一个免费的开源工具，用于构建，运行和部署Linux应用程序作为unikernel.
  - [SmartObject](https://github.com/PeterEB/smartobject)   - 智能对象类，可帮助您在JavaScript应用程序中创建IPSO智能对象.  另见：IPSO联盟 [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
 
