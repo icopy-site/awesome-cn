@@ -83,7 +83,7 @@
 * [Maximilian](https://github.com/micknoise/Maximilian)   -  C ++音频和音乐DSP库.  [MIT]
 * [OpenAL](http://www.openal.org/)   - 开放音频库 - 跨平台音频API.  [BSD / LGPL /商业]
 * [miniaudio](https://github.com/dr-soft/miniaudio)   - 单文件音频播放和捕获库.  [授予许可]
-* [Opus](http://opus-codec.org/) - A totally open, royalty-free, highly versatile audio codec. [BSD]
+* [Opus](http://opus-codec.org/)   - 完全开放，免版税，高度通用的音频编解码器.  [BSD]
 * [PortAudio](http://www.portaudio.com/)   -  PortAudio是一个免费的跨平台开源音频I / O库.  [MIT]
 * [SELA](https://github.com/sahaRatul/sela)   -  SimplE无损音频.  [MIT]
 * [SoLoud](https://github.com/jarikomppa/soloud)   - 轻松便携的游戏音频引擎.  [ZLIB]
@@ -243,7 +243,7 @@
 ## CSV
 *用于解析逗号分隔值（CSV）文件的库*
 
-* [csv](https://github.com/p-ranav/csv)   - 用于现代C ++的CSV.  [MIT]
+* [csv](https://github.com/p-ranav/csv) - CSV for modern C++. [MIT]
 * [Fast C++ CSV Parser](https://github.com/ben-strasser/fast-cpp-csv-parser)   - 用于读取CSV文件的小巧，易用且快速的标头库.  [BSD -3-第]
 * [Vince's CSV Parser](https://github.com/vincentlaucsb/csv-parser)   - 一个快速，独立的流式C ++ 17 CSV解析器，带有可选的类型转换和统计信息.  [MIT]
 
@@ -261,12 +261,12 @@
 * [MySQL++](http://www.tangentsoft.net/mysql++/)   - 用于MySQL C API的C ++包装器.  [LGPL]
 * [nanodbc](https://github.com/nanodbc/nanodbc)   - 本机C ODBC API的小型C ++包装器.  [MIT]
 * [ODB](https://www.codesynthesis.com/products/odb/)   - 用于C ++的开源，跨平台和跨数据库对象关系映射（ORM）系统.  [GPL第二]
-* [redis3m](https://github.com/luca3m/redis3m)   -  hiredis的包装，具有干净的C ++接口，支持标记和即用型模式.  [Apache2的]
+* [redis3m](https://github.com/luca3m/redis3m) - Wrapper of hiredis with clean C++ interface, supporting sentinel and ready to use patterns. [Apache2]
 * [RocksDB](https://github.com/facebook/rocksdb)   - 嵌入式键值存储，可从Facebook快速存储.  [BSD]
 * [SimDB](https://github.com/LiveAsynchronousVisualizedArchitecture/simdb) - 高性能，共享内存，无锁，跨平台，单文件，最小依赖，C ++ 11键值存储[Apache2]
 * [SOCI](https://github.com/SOCI/soci)   -  C ++的数据库抽象层.  [BSL-1.0]
 * [SQLite](http://www.sqlite.org/)   - 一个完全嵌入的，功能齐全的关系数据库，只需几百kk就可以包含在您的项目中.  [公共区域]
-* [SQLiteC++](https://github.com/SRombauts/SQLiteCpp)   -  SQLiteC ++（SQLiteCpp）是一个智能且易于使用的C ++ SQLite3包装器.  [MIT]
+* [SQLiteC++](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper. [MIT]
 * [sqlite_modern_cpp](https://github.com/SqliteModernCpp/sqlite_modern_cpp)   - 仅针对sqlite库的头文件C ++ 14包装器.  [MIT]
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm)   - 用于现代C ++的SQLite ORM light header only库.  [BSD -3-第]
 * [sqlpp11](https://github.com/rbock/sqlpp11)   - 用于SQL查询和C ++结果的类型安全的嵌入式域特定语言.  [BSD-2-第]
@@ -426,7 +426,7 @@
 ## Internationalization
 
 * [gettext](http://www.gnu.org/software/gettext/)   -  GNU&#39;gettext&#39;.  [GPL2]
-* [IBM ICU](http://site.icu-project.org/)   - 一组提供Unicode和全球化支持的C / C ++和Java库.  [ICU]
+* [IBM ICU](http://site.icu-project.org/) - A set of C/C++ and Java libraries providing Unicode and Globalization support. [ICU]
 * [libiconv](http://www.gnu.org/software/libiconv/)   - 不同字符编码之间的编码转换库.  [GPL]
 * [utf8.h](https://github.com/sheredom/utf8.h)   -  C和C ++的单头utf8字符串函数.  [授予许可]
 * [utf8proc](https://github.com/JuliaStrings/utf8proc)   - 用于处理UTF-8 Unicode数据的干净C库.  [MIT]
@@ -481,7 +481,7 @@
 
 * [Blackhole](https://github.com/3Hren/blackhole)   - 基于属性的日志记录框架，旨在实现快速，模块化和高度可定制.  [MIT]
 * [Boost.Log](http://www.boost.org/doc/libs/1_56_0/libs/log/doc/html/index.html)   - 设计非常模块化和可扩展.  [促进]
-* [Easylogging++](https://github.com/easylogging/easyloggingpp)   - 仅用于单头，非常轻量级的高性能日志库，适用于C ++ 11（或更高版本）应用程序.  [MIT] [website](https://muflihun.github.io/easyloggingpp)
+* [Easylogging++](https://github.com/easylogging/easyloggingpp)   - 适用于C ++ 11（或更高版本）应用程序的极轻量级高性能日志记录库.  [MIT] [website](https://muflihun.github.io/easyloggingpp)
 * [G3log](https://github.com/KjellKod/g3log)   - 具有动态接收器的异步记录器.  [公共区域]
 * [glog](https://github.com/google/glog) -  Google日志记录模块的C ++实现.
 * [Log4cpp](http://log4cpp.sourceforge.net/)   - 用于灵活记录到文件，syslog，IDSA和其他目的地的C ++类库.  [LGPL]
@@ -509,7 +509,7 @@
 * [Recommender](https://github.com/GHamrouni/Recommender)   - 使用协同过滤（CF）的产品推荐/建议的C库.  [BSD]
 * [RNNLIB](https://github.com/szcom/rnnlib)   -  RNNLIB是用于序列学习问题的递归神经网络库.  [GPLv3的]
 * [SHOGUN](https://github.com/shogun-toolbox/shogun)   - 幕府将军学习工具箱.  [GPLv3的]
-* [sofia-ml](https://code.google.com/p/sofia-ml/) - The suite of fast incremental algorithms for machine learning. [Apache2]
+* [sofia-ml](https://code.google.com/p/sofia-ml/)   - 用于机器学习的快速增量算法套件.  [Apache2的]
 * [VLFeat](https://github.com/vlfeat/vlfeat)   -  VLFeat开源库实现了流行的计算机视觉算法，专门用于图像理解和局部特征提取和匹配.  [BSD-2-第] [website](http://www.vlfeat.org/)
 * [xgboost](https://github.com/dmlc/xgboost)   - 可扩展，可移植和分布式梯度提升（GBDT，GBRT或GBM）库，适用于Python，R，Java，Scala，C ++等.  在单机，Hadoop，Spark，Flink和DataFlow上运行.  [Apache2的]
 
@@ -529,7 +529,7 @@
 * [GLM](https://github.com/g-truc/glm)   - 仅与头部相关的C ++数学库，它与OpenGL的GLSL数学匹配并互操作.  [MIT] [website](https://glm.g-truc.net/)
 * [GMTL](http://ggt.sourceforge.net/)   - 图形数学模板库是以通用方式实现图形基元的工具集合.  [GPL2]
 * [GMP](https://gmplib.org/)   - 用于任意精度算术的AC库，对有符号整数，有理数和浮点数进行操作.  [LGPL3和GPL2]
-* [linalg.h](https://github.com/sgorsten/linalg)   - 用于C ++的单头，公共域，短矢量数学库.  [授予许可]
+* [linalg.h](https://github.com/sgorsten/linalg) - Single header, public domain, short vector math library for C++. [Unlicense]
 * [MIRACL](https://github.com/CertiVox/MIRACL)   -  Multiprecision Integer和Rational算术加密库.  [AGPL]
 * [muparser](http://beltoforion.de/article.php?a=muparser)   -  muParser是一个用C ++编写的可扩展的高性能数学表达式解析器库.  [MIT]
 * [LibTomMath](https://github.com/libtom/libtommath) - 完全用C语言编写的免费开源便携式数字理论多精度整数库.[PublicDomain＆WTFPL] [website](http://www.libtom.net/)
@@ -542,7 +542,7 @@
 * [TinyExpr](https://github.com/codeplea/tinyexpr)   - 用于从字符串中解析和评估数学表达式的AC库.  [ZLIB]
 * [Vc](https://github.com/VcDevel/Vc)   - 用于C ++的SIMD矢量类.  [BSD]
 * [Versor](http://versor.mat.ucsb.edu/) - 几何代数的（快速）通用C ++库，包括欧几里德，投影，保形，时空（等）.
-* [Wykobi](http://www.wykobi.com/)   - 高效，健壮且易于使用的C ++ 2D / 3D计算几何例程的C ++库.  [MIT]
+* [Wykobi](http://www.wykobi.com/) - A C++ library of efficient, robust and simple to use C++ 2D/3D oriented computational geometry routines. [MIT]
 * [xtensor](https://github.com/QuantStack/xtensor)   - 受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3条款] [website](http://quantstack.net/xtensor)
 
 ## Memory Allocation
@@ -588,8 +588,8 @@
 * [ENet](https://github.com/lsalzman/enet)   - 可靠的UDP网络库.  [MIT] [website](http://enet.bespin.org/)
 * [evpp](https://github.com/Qihoo360/evpp)   - 使用TCP / UDP / HTTP协议的C ++高性能网络.  [BSD]
 * [H2O](https://github.com/h2o/h2o)   - 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2.  它也可以用作库.  [MIT]
-* [HTTP Parser](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
-* [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
+* [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
+* [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
 * [libhttpserver](https://github.com/etr/libhttpserver)   - 用于创建嵌入式Rest HTTP服务器的C ++库（以及更多）.  [LGPL2.1]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]
 * [libpcap](https://github.com/the-tcpdump-group/libpcap)   - 用于网络流量捕获的便携式C / C ++库.  [BSD] [website](https://www.tcpdump.org/)
@@ -628,7 +628,7 @@
 * [MuPDF](https://mupdf.com/)   - 轻量级PDF，XPS和电子书查看器.  [AGPL /商业]
 * [PoDoFo](http://podofo.sourceforge.net/)   - 使用PDF文件格式的库.  [LGPL]
 * [Poppler](https://poppler.freedesktop.org/)   - 基于xpdf-3.0代码库的开源多后端PDF渲染库.  [在GPLv2 / GPLv3的]
-* [Xpdf](https://www.xpdfreader.com/) - Xpdf is a free PDF viewer and toolkit, including a text extractor, image converter, HTML converter, and more. [GPL v2/GPL v3]
+* [Xpdf](https://www.xpdfreader.com/)   -  Xpdf是一个免费的PDF查看器和工具包，包括文本提取器，图像转换器，HTML转换器等.  [GPL v2 / GPL v3]
 * [DynaPDF](http://www.dynaforms.com/)   - 易于使用的PDF生成库.  [商业]
 
 ## Physics
@@ -677,7 +677,7 @@
 * [MRPT](http://www.mrpt.org/)   - 移动机器人编程工具包.  [BSD]
 * [PCL](https://github.com/PointCloudLibrary/pcl) -  Point Cloud Library是一个独立的大规模开放项目，用于2D / 3D图像和点云处理[BSD] [website](http://www.pointclouds.org/)
 * [Robotics Library (RL)](http://www.roboticslibrary.org/)   - 用于机器人运动学，运动规划和控制的独立C ++库.  [BSD]
-* [RobWork](https://gitlab.com/sdurobotics/RobWork) - A collection of C++ libraries for simulation and control of robot systems. [Apache2] [website](http://www.robwork.dk/)
+* [RobWork](https://gitlab.com/sdurobotics/RobWork)   - 用于模拟和控制机器人系统的C ++库集合.  [Apache2的] [website](http://www.robwork.dk/)
 * [ROS](http://wiki.ros.org/)   -  Robot Operating System提供库和工具，帮助软件开发人员创建机器人应用程序.  [BSD]
 
 ## Scientific Computing
@@ -686,7 +686,7 @@
 * [FFTW](http://www.fftw.org/)   - 用于在一个或多个维度上计算DFT的AC库.  [GPL]
 * [GSL](http://www.gnu.org/software/gsl/)   -  GNU科学图书馆.  [GPL]
 * [TileDB](https://github.com/TileDB-Inc/TileDB)   - 快速密集和稀疏多维数组DBMS.  [MIT] [website](https://tiledb.io/)
-* [Trilinos](https://github.com/trilinos/Trilinos)   - 高性能PDE求解器.  [BSD]
+* [Trilinos](https://github.com/trilinos/Trilinos) - High performance PDE solvers. [BSD]
 * [Torch](https://github.com/torch/torch7)   - 一种科学计算框架，广泛支持将GPU放在首位的机器学习算法.  [BSD -3-第] [website](http://torch.ch/)
 
 ## Scripting
@@ -719,12 +719,12 @@
 
 * [Bond](https://github.com/Microsoft/bond)   - 用于处理模式化数据的开源跨平台框架.  [MIT]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)   - 快速数据交换格式和基于功能的RPC系统.  [MIT] [website](https://capnproto.org/)
-* [cereal](https://github.com/USCiLab/cereal)   - 用于序列化的C ++ 11库.  [BSD]
+* [cereal](https://github.com/USCiLab/cereal) - A C++11 library for serialization. [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec)   - 仅限头文件的C ++ 11库，用于编码/解码base64，base32和hex，具有一致，灵活的API.  [MIT]
 * [FlatBuffers](https://github.com/google/flatbuffers)   - 内存高效的序列化库.  [Apache2的]
 * [MessagePack](https://github.com/msgpack/msgpack-c)   - 用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2的] [website](http://msgpack.org/)
 * [nanopb](https://github.com/nanopb/nanopb) -  ANSI C中的小代码大小的协议缓冲区实现.[Zlib]
-* [protobuf](https://github.com/protocolbuffers/protobuf)   - 协议缓冲区 - 谷歌的数据交换格式.  [BSD]
+* [protobuf](https://github.com/protocolbuffers/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) -  C中的协议缓冲器实现.[BSD]
 * [SimpleBinaryEncoding](https://github.com/real-logic/simple-binary-encoding)   - 为低延迟应用程序编码和解码二进制格式的应用程序消息.  [Apache2的]
 * [upb](https://github.com/protocolbuffers/upb) -  C中的小型protobuf实现.[BSD]
@@ -815,7 +815,7 @@
 * [semver.c](https://github.com/h2non/semver.c) - 一个semver解析器并以ANSI C渲染.[MIT]
 * [Serial Communication Library](https://github.com/wjwwood/serial)   - 用C ++编写的跨平台串行端口库.  [MIT]
 * [sigslot](http://sigslot.sourceforge.net/)   -  C ++信号/插槽库.  [公共区域]
-* [SimpleSignal](https://github.com/larspensjo/SimpleSignal) - High performance C++11 signals. [PublicDomain]
+* [SimpleSignal](https://github.com/larspensjo/SimpleSignal)   - 高性能C ++ 11信号.  [公共区域]
 * [Stage](https://github.com/rtv/Stage)   - 移动机器人模拟器.  [GPL2]
 * [stdman](https://github.com/jeaye/stdman)  格式化的C ++ 11/14 stdlib手册页（来自cppreference）.  [MIT]
 * [stb](https://github.com/nothings/stb)  ：zap： - 一系列用于C / C ++的单文件库.  [公共区域]
@@ -872,10 +872,10 @@
 * C或C ++标称IDE列表.*
 
 * [Anjuta DevStudio](http://anjuta.org/)   -  GNOME IDE.  [GPL3]
-* [AppCode](http://www.jetbrains.com/objc/) - an IDE for Objective-C, C, C++, and JavaScript development built on JetBrains’ IntelliJ IDEA platform.
+* [AppCode](http://www.jetbrains.com/objc/) - 基于JetBrains的IntelliJ IDEA平台构建的Objective-C，C，C ++和JavaScript开发IDE.
 * [Cevelop](https://www.cevelop.com) - 基于Eclipse CDT的跨平台C和C ++ IDE以及其他插件.
 * [CLion](http://www.jetbrains.com/clion/) -  JetBrains的跨平台C和C ++ IDE.
-* [Code::Blocks](http://www.codeblocks.org/) - 免费的C，C ++和Fortran IDE.
+* [Code::Blocks](http://www.codeblocks.org/) - A free C, C++ and Fortran IDE.
 * [CodeLite](http://codelite.org/)   - 另一个跨平台，免费的C和C ++ IDE.  [插件除外的GPL2]
 * [color_coded](https://github.com/jeaye/color_coded)   - 基于libclang的突出显示的vim插件.  [MIT]
 * [Dev-C++](http://sourceforge.net/projects/orwelldevcpp/) - 便携式C / C ++ / C ++ 11 IDE.
@@ -883,7 +883,7 @@
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
 * [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
-* [juCi++](https://github.com/cppit/jucipp) - Cross-platform, lightweight C++ IDE with libclang integration. [MIT]
+* [juCi++](https://github.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
 * [KDevelop](https://www.kdevelop.org/) - 免费的开源IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) -  Microsoft的IDE.
 * [NetBeans](https://netbeans.org/) - 主要用Java开发的IDE，也包括其他语言，特别是PHP，C / C ++和HTML5.
@@ -1022,7 +1022,7 @@
 * [C++ Quiz](http://q.viva64.com/) -  C ++测验，您建议在开源项目的代码片段中查找错误.
 * [Udemy C++ Courses and Tutorials](https://www.udemy.com/topic/C-plus-plus-tutorials/)
 * [C++ Hints](http://cpphints.com/) - 每个工作日都会提示最常见的C ++错误以及从PVS-Studio团队解决这些错误的方法.
-* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - A user ranked online tutorial bank site displaying multiple courses to learn C++ from.
+* [C++ tutorial](https://hackr.io/tutorials/learn-c-plus-plus) - 用户排名在线教程银行网站，显示多个课程，以学习C ++.
 
 ## Weblogs
 *有用的C或C ++相关的博客.*

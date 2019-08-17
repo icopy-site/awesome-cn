@@ -244,7 +244,6 @@
 #### GTFS Realtime Validators
 
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator)   - 南佛罗里达大学城市交通研究中心开发的GTFS实时验证工具.  还包括一个集成版本 [gtfs-validator](https://github.com/conveyal/gtfs-validator) 工具.
-- [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - 托管版本 [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
 #### GTFS Realtime (and Other Real-time API) Archival Tools
 

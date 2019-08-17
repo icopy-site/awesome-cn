@@ -78,6 +78,7 @@
 - [LICEcap](https://www.cockos.com/licecap/) -  **免费**  - 不太直观，更多功能
 - [Recordit](https://recordit.co/) -  **免费**  - 简单，干净的用户界面，但自动上传到 [recordit.co](https://recordit.co/)
 - [Peek](https://github.com/phw/peek#readme) -  **免费**  - 简单易用的Linux用户.
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) -  **免费**  - 开源，可自定义的用户界面和易于编辑的GIF，易于上手.
 - [ttystudio](https://github.com/chjj/ttystudio#readme) -  **免费**  - 对于命令行工具，终端到GIF记录器减去头痛.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) -  **免费**  - 比其他颜色更鲜艳的颜色，但仍然保持低尺寸
 

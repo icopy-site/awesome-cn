@@ -28,7 +28,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 ## Admins
 *管理数据库，权限等的工具*
 
-* [hss](https://github.com/snwfdhmp/hss) - 再也不要输入烦人的ssh命令.
+* [hss](https://github.com/six-ddc/hss) - 再也不要输入烦人的ssh命令.
 * [MongoHub](https://github.com/fotonauts/MongoHub-Mac/releases) - 用于mongo的原生OSx客户端
 * [Robomongo](http://robomongo.org/) -  MongoDB的跨平台管理员
 
