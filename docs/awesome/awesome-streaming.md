@@ -3,6 +3,10 @@
 
 精彩的精选列表 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html)  框架，应用程序，读数和其他资源.  灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
 
+## Website
+
+[https://manuzhang.github.io/awesome-streaming/](https://manuzhang.github.io/awesome-streaming/) 是一个更有活力的网站，你可以在这里找到很棒的项目的**更新**.
+
 
 
 ### Streaming Engine
@@ -71,7 +75,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go]  - 快速磁盘支持的消息传递解决方案
 - [nsq](https://github.com/nsqio/nsq) [Go]  - 旨在大规模运营的实时分布式消息传递平台，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]  - 用于收集，聚合和分派大量应用程序事件（包括日志数据）的数据管道服务.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可读取和写入大量端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可以读取和写入大量的端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
 
 ### Online Machine Learning 
 

@@ -47,7 +47,7 @@
 - 游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) - 来自Valve的Yahn Bernier详细介绍了游戏网络.
   - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) - 由Stephen Detwiler和来自ngmoco的James Marr讲话:).
-  - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 300K Players in One World by Kristjan Jonsson from CCP Games.
+  - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) - 来自CCP Games的Kristjan Jonsson在“同一个世界”中的300K玩家.
   - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) - 来自Crytek的Peter Hall的程序员事后调查.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -  Halo中的游戏网络：来自Bungie的David Aldridge.
   - [2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) - 来自En Masse Ent的Patrick Wyatt的演讲.
@@ -59,6 +59,7 @@
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) - 模拟，确定性，响应性和精确性.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) -  Michael Stallone在Mortal Kombat和Injustice 2中的回滚网络.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) -  Jared Cone详细介绍了Rocket League的物理和网络.
+  - [2019 / Quantum Deep Dive](https://vimeo.com/335798361/2f90c04a30) - 来自退出游戏的Eric的光子量子确定性网络引擎.
 - 虚幻引擎直播
   - [Replication Graph](https://www.youtube.com/watch?v=CDnNAAzgltw) -  Epic的开发团队演示了UE 4.20的新复制图功能.
   - [Server Optimizations](https://www.youtube.com/watch?v=mT8VUVuk-CY) -  Ryan Gerleve和Dave Ratti将讨论UE4中的服务器优化技术.
@@ -66,7 +67,7 @@
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - 来自Sandbox Interactive的David Salz的Albion MMO架构.
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - 来自Exit Games的Christof Wegmann的多人游戏架构比较.
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - 来自Unity的Peter Andreasen的Netcode演讲.
-- 其他
+- Other
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - 聊天关于Guild Wars，暗黑破坏神，星际争霸由Pat Wyatt建立的网络.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - 来自Blizzard的Tim Ford和Philip Orwig的Overwatch网络代码.
 

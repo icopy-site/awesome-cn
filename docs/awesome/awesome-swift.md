@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  991 |  2019年7月26日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  988 |  2019年8月17日
 
 
 
@@ -138,7 +138,7 @@
 ### Accessibility
 [back to top](#readme) 
 
-* [Capable](https://github.com/chrs1885/Capable) - 跟踪辅助功能，以改善您的特定残障人士的应用程序.
+* [Capable](https://github.com/chrs1885/Capable) - Track accessibility features to improve your app for people with certain disabilities.
 
 ### AI
 *基于AI的项目（机器学习，神经网络等）的Libs.* [back to top](#readme) 
@@ -175,7 +175,7 @@
 * [Kinieta](https://github.com/mmick66/kinieta) - 适用于iOS的简单动画引擎，具有直观的API和可读代码.
 * [lottie-ios](https://github.com/airbnb/lottie-ios) - 用于本机渲染After Effects矢量动画的iOS库.
 * [Pastel](https://github.com/cruisediary/Pastel) - 像Instagram一样的渐变动画效果.
-* [Poi](https://github.com/HideakiTouhara/Poi) -  Poi让你像使用tinder UI一样使用卡片UI.你可以像tableview方法一样使用它.
+* [Poi](https://github.com/HideakiTouhara/Poi) - Poi makes you use card UI like tinder UI .You can use it like tableview method.
 * [Presentation](https://github.com/hyperoslo/Presentation) - 一个库，可以帮助您制作教程，发行说明和动画页面.
 * [Pulsator](https://github.com/shu223/pulsator) -  iOS的脉冲动画.
 * [Sica](https://github.com/cats-oss/Sica)   - 简单的界面核心动画.  以顺序或并行方式运行类型安全的动画.
@@ -300,7 +300,7 @@
 * [Hue](https://github.com/zenangst/Hue) -  Hue是您需要的一体化着色实用程序.
 * [PrettyColors](https://github.com/jdhealy/PrettyColors)   - 使用ANSI转义码在终端中显示样式和颜色文本.  符合ECMA标准48.
 * [SwiftGen-Colors](https://github.com/SwiftGen/SwiftGen#uicolor) - 为`UIColor`常量自动生成`enums`的工具.
-* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) - HEX color handling as an extension for UIColor.
+* [SwiftHEXColors](https://github.com/thii/SwiftHEXColors) -  HEX颜色处理作为UIColor的扩展.
 * [UIColor-Hex-Swift](https://github.com/yeahdongcn/UIColor-Hex-Swift) -  Hex到UIColor转换器.
 * [UIGradient](https://github.com/dqhieu/UIGradient) - 一个简单而强大的库，用于使用渐变图层，图像，颜色.
 
@@ -511,7 +511,7 @@
 * [Device](https://github.com/Ekhoo/Device) - 用于检测当前设备和屏幕尺寸的轻型工具.
 * [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级库，用于检测已使用的设备.
 * [DeviceKit](https://github.com/devicekit/DeviceKit) -  DeviceKit是UIDevice的值类型替代品.
-* [Luminous](https://github.com/andrealufino/Luminous) - Get everything you need to know about the device.
+* [Luminous](https://github.com/andrealufino/Luminous) - 获取有关设备的所有信息.
 * [Thingy](https://github.com/bojan/Thingy) - 现代设备检测和查询库.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) -  UIDevice扩展，填补缺少的部分.
 
@@ -672,7 +672,7 @@
 * [CTPanoramaView](https://github.com/scihant/CTPanoramaView) - 显示带触摸或基于运动的控件的球形或圆柱形全景图库.
 * [DTPhotoViewerController](https://github.com/tungvoduc/DTPhotoViewerController) - 完全可自定义的照片查看器ViewController，可显示受Facebook照片查看器启发的单张照片或照片集.
 * [FacebookImagePicker](https://github.com/floriangbh/FacebookImagePicker) -  Facebook专辑照片选择器.
-* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
+* [FlexibleImage](https://github.com/kawoou/FlexibleImage) - 一种简单的图像播放方式.
 * [FMPhotoPicker](https://github.com/tribalmedia/FMPhotoPicker) - 一个现代，简单和零依赖的照片选择器，具有优雅和可定制的图像编辑器
 * [gifu](https://github.com/kaishin/gifu) - 高性能的动画GIF支持iOS.
 * [GPUImage 2](https://github.com/BradLarson/GPUImage2) -  GPUImage 2是一个获得BSD许可的GPU加速视频和图像处理框架.
@@ -767,7 +767,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
 
 ### Location
 [back to top](#readme) 
@@ -949,7 +949,7 @@
 [back to top](#readme) 
 
 * [keychain-swift](https://github.com/evgenyneu/keychain-swift) -  Helper功能可以安全地保存Keychain中的文本，适用于iOS，OS X，tvOS和watchOS.
-* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - 适用于iOS和OS X的Keychain的简单包装器.
+* [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) - Simple wrapper for Keychain that works on iOS and OS X.
 * [Latch](https://github.com/endocrimes/Latch) - 适用于iOS的简单钥匙扣包装.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) - 一个功能强大，面向协议的库，用于处理iOS Keychain.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) -  iOS Keychain的简单静态包装器，允许您以与用户默认值类似的方式使用它.
@@ -1188,7 +1188,7 @@
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 可爱的动画按钮.
 * [ExpandableButton](https://github.com/DimaMishchenko/ExpandableButton) - 可定制且易于使用的可扩展按钮.
 * [Floaty](https://github.com/kciter/Floaty) - 适用于iOS的浮动操作按钮.
-* [LGButton](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
+* [LGButton](https://github.com/loregr/LGButton) - 本机UIControl的完全可自定义的子类，允许您创建漂亮的按钮而无需编写任何代码行.
 * [LTHRadioButton](https://github.com/rolandleth/LTHRadioButton) - 带有漂亮动画的单选按钮.
 * [MultiToggleButton](https://github.com/yonat/MultiToggleButton) -  UIButton子类，实现点击切换按钮文本（如相机闪光灯和计时器按钮）.
 * [NFDownloadButton](https://github.com/LeonardoCardoso/NFDownloadButton)   - 改进后的下载按钮.  这有点像Netflix的应用程序下载按钮的逆向工程.
@@ -1240,7 +1240,7 @@
 * [KDEDateLabel](https://github.com/delannoyk/KDEDateLabel) - 一个UILabel子类，它可以更新自己，使以前的格式更容易.
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) -  UILabel的优美变形效果.
 * [Nantes](https://github.com/instacart/Nantes) -  TTTAttributedLabel替换.
-* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 标签视图，用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字.
+* [NumberMorphView](https://github.com/me-abhinav/NumberMorphView) - 用于显示可以使用称为数字补间或数字变形的技术转换或动画的数字的标签视图.
 * [SMIconLabel](https://github.com/anatoliyv/SMIconLabel) - 从左侧或右侧放置图像的UILabel.
 * [Translucid](https://github.com/Ekhoo/Translucid) - 轻量级库，将图像设置为文本背景.
 * [TriLabelView](https://github.com/mukeshthawani/TriLabelView) -  iOS的三角形角标签视图.
@@ -1251,7 +1251,7 @@
 * [AKSwiftSlideMenu](https://github.com/ashishkakkad8/AKSwiftSlideMenu) - 幻灯片菜单（抽屉）.
 * [CircleMenu](https://github.com/Ramotion/circle-menu) -  CircleMenu是一个简单，优雅的UI菜单，具有圆形布局和材料设计动画.
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - 滑动侧面菜单.
-* [FanMenu](https://github.com/exyte/fan-menu) - Menu with a circular layout based on Macaw.
+* [FanMenu](https://github.com/exyte/fan-menu) - 基于Macaw的圆形布局菜单.
 * [FlowingMenu](https://github.com/yannickl/FlowingMenu) - 交互式视图过渡到显示具有流动和弹跳效果的菜单.
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) - 断头台式菜单.
 * [HHFloatingView](https://github.com/hemangshah/HHFloatingView) - 适用于您的应用的易于使用和设置浮动视图.
@@ -1261,7 +1261,6 @@
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 具有图像和块（闭包）支持的`UIMenuItem`.
 * [Pagemenu](https://github.com/PageMenu/PageMenu) - 启用分页视图控制器.
 * [PagingKit](https://github.com/kazuhiro4949/PagingKit) -  PagingKit提供可自定义的菜单UI.
-* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) - 具有可自定义菜单的分页视图控制器.
 * [Panels](https://github.com/antoniocasero/Panels) - 面板是一个可以轻松地将滑动面板添加到应用程序的框架.
 * [Parchment](https://github.com/rechsteiner/Parchment) - 具有高度可自定义菜单的分页视图控制器，构建在UICollectionView上.
 * [PopMenu](https://github.com/CaliCastle/PopMenu) - 适用于iOS的酷炫且可自定义的弹出式动作表.
@@ -1292,7 +1291,6 @@
 
 * [AREK](https://github.com/ennioma/arek) -  AREK是一种干净且易于使用的包装，超过任何iOS许可.
 * [Permission](https://github.com/delba/Permission) - 在iOS上请求权限的统一API.
-* [PermissionScope](https://github.com/nickoneill/PermissionScope) - 以潜望镜为灵感的方式来寻求iOS权限.
 * [SPPermission](https://github.com/IvanVorobei/SPPermission) - 使用本机UI和交互式动画的简单请求权限.
 
 #### StackView
@@ -1368,13 +1366,12 @@
 * [CardsLayout](https://github.com/filletofish/CardsLayout) - 尼斯卡设计的自定义CollectionView布局.
 * [CarLensCollectionViewLayout](https://github.com/netguru/CarLensCollectionViewLayout) - 易于使用的集合视图布局，用于卡式动画.
 * [CenteredCollectionView](https://github.com/BenEmdon/CenteredCollectionView) - 一个轻量级的UICollectionViewLayout，用于分页和居中它的单元格.
-* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) - 选择时带复选框的UICollectionViewCell，不选择时为空圆 - 如Photos.app&#39;选择&#39;模式.
+* [CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) - 选择时带复选框的UICollectionViewCell和不选择时的空心圆 - 如Photos.app&#39;选择&#39;模式.
 * [CollectionViewShelfLayout](https://github.com/pitiphong-p/CollectionViewShelfLayout) -  UICollectionViewLayout子类将其项显示为类似于App Store Feature选项卡的项目行，而没有嵌套的UITableView / UICollectionView hack.
 * [Drag and Drop UICollectionView](https://github.com/mmick66/KDDragAndDropCollectionView) - 跨多个UICollectionViews拖放数据.
 * [FSPagerView](https://github.com/WenchaoD/FSPagerView)   - 优雅的屏幕幻灯片库.  它对于制作横幅视图，产品展示，欢迎/指南页面，屏幕/ ViewController滑块非常有用.
 * [Gliding Collection](https://github.com/Ramotion/gliding-collection) -  Gliding Collection是UICollectionView控制器的流畅，流畅，可定制的决策.
 * [GravitySlider](https://github.com/ApplikeySolutions/GravitySlider) - 标准UICollectionView流程布局的美丽替代方案.
-* [RAReorderableLayout](https://github.com/ra1028/RAReorderableLayout) -  UICollectionView布局，可以通过拖放移动项目.
 * [ShelfView-iOS](https://github.com/tdscientist/ShelfView-iOS) -  iOS自定义视图，可在书架上显示书籍.
 * [SimpleSource](https://github.com/Squarespace/simple-source ) - 简单且类型安全的iOS表和集合视图.
 * [SwiftSpreadsheet](https://github.com/stuffrabbit/SwiftSpreadsheet) - 完全可自定义的电子表格CollectionViewLayout.
@@ -1404,7 +1401,7 @@
 * [SectionScrubber](https://github.com/3lvis/SectionScrubber) - 在集合视图部分之间快速滚动的组件.
 * [SelectionList](https://github.com/yonat/SelectionList) - 基于UITableView的简单单选或多选清单.
 * [Shoyu](https://github.com/yukiasai/Shoyu) - 更简单的方式来表示UITableView的结构.
-* [SwiftyComments](https://github.com/tsucres/SwiftyComments) - 可扩展/可折叠单元格的嵌套层次结构，可轻松构建优雅的讨论线程.
+* [SwiftyComments](https://github.com/tsucres/SwiftyComments) - Nested hierarchy of expandable/collapsible cells to easily build elegant discussion threads.
 * [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) - 基于Stock.app股票的可滑动UITableViewCell.
 * [WLEmptyState](https://github.com/wizeline/WLEmptyState) - 一个组件，允许您在UITableView的数据集为空时自定义视图.
 * [YNExpandableCell](https://github.com/younatics/YNExpandableCell) - 适用于iOS的令人敬畏的可扩展，可折叠的tableview单元格.
@@ -1520,7 +1517,7 @@
 * [PlayerView](https://github.com/davidlondono/PlayerView) - 使用UIView轻松使用视频播放器，管理再现速率，屏幕截图和回调 - 代表播放器状态.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 修剪和裁剪视频.
 * [SwiftFFmpeg](https://github.com/sunlubo/SwiftFFmpeg) -  FFmpeg C API的包装器.
-* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - 易于使用UIView子类来实现视频背景.
+* [SwiftVideoBackground](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) - 简单的iOS视频播放器，支持播放本地和网络，后台播放模式，播放时自动缓存.
 
 

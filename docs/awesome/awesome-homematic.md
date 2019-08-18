@@ -30,6 +30,7 @@
 * [Direktverknüpfungen im Expertenmodus](https://www.youtube.com/watch?v=1B4iwtK1Rmo) -  Frank Grass讲座.
 * [Virtuelle Aktorkanäle](https://www.youtube.com/watch?v=Cwxwtig6Q1I) -  Frank Grass讲座.
 * [Script Documentation](http://www.wikimatic.de/wiki/Script_Dokumentation) - 非官方的主题脚本参考.
+* [Keymatic Konfiguration](https://homematic-forum.de/forum/viewtopic.php?f=31&t=19196) -  rewe0815在Homematic论坛上的贡献.
 
 ## Mobile Apps
 
@@ -45,7 +46,7 @@
 
 * [debmatic](https://github.com/alexreinert/debmatic) - 在基于Debian的amd64，armhf和arm64系统上安装Homematic OCCU（Debian，Ubuntu，Raspbian，Armbian）
 * [Homegear](https://homegear.eu/index.php/Main_Page) - 免费和开源程序，可将智能家居设备与家庭自动化软件或您自己的脚本连接.
-* [piVCCU](https://github.com/alexreinert/piVCCU) - 将原始Homematic CCU固件安装在运行Raspbian Jessie或Stretch的Raspberry Pi上的虚拟容器（lxc）中.
+* [piVCCU](https://github.com/alexreinert/piVCCU) - 将原始Homematic CCU固件安装在Raspbian或Armbian上的虚拟容器（lxc）中.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - 轻量级，基于OCCU和Linux / buildroot的发行版，用于在RaspberryPi等嵌入式设备上运行HomeMatic CCU.
 
 
@@ -119,6 +120,7 @@
 
 * [Tablet Wallmount](https://homematic-forum.de/forum/viewtopic.php?f=18&t=49421) - 用于平板安装的框架.
 * [Homematic 3D Druck Collection auf Thingiverse](https://www.thingiverse.com/hobbyquaker/collections/homematic) -  Homematic周围的各个部分可以打印自己.
+
 
 ## Contribute
 

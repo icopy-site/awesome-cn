@@ -181,7 +181,7 @@
 * [Woodpecker](http://www.woodpeck.cn)   - 在Mac上查看iOS应用程序的Sandbox文件，UserDefaults，Keychain项目.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/woodpecker/id1333548463）
 * [WWDC](https://github.com/insidegui/WWDC)   -  Mac OS非官方WWDC应用程序.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/insidegui/WWDC）
 * [zeplin](https://www.zeplin.io/)   - 用于设计人员和开发人员之间工作的协作工具.  ！[免费软件] [免费软件图标]
-
+* [Nib Unlocker](https://apps.apple.com/by/app/nib-unlocker/id1475697086) -  .nib to .xib converter [！[App Store] [app-store Icon]]（https://apps.apple.com/by/app/nib-unlocker/id1475697086?mt=12）
 #### Regular Expression Editors
 
 * [Patterns](http://krillapps.com/patterns/) - 正则表达式编辑器.
@@ -193,7 +193,7 @@
 * [Cocoa Rest Client](https://mmattozzi.github.io/cocoa-rest-client/)   - 用于测试HTTP / REST端点的免费，开源，原生Apple OS X应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 * [Insomnia](https://insomnia.rest/)   - 最直观的跨平台REST API客户端.  [！[开源软件] [OSS图标]]（https://github.com/getinsomnia/insomnia）！[免费软件] [免费软件图标]
 * [Postman](https://www.getpostman.com) - 强大的GUI平台，使您的API开发更快更容易，从构建API请求到测试，文档和共享.！[免费软件] [免费软件图标]
-* [Katalon Studio](https://www.katalon.com)   - 简化API，Web，移动自动化测试免费.  强大的.  交叉平台.  来自160个国家的自动化测试人员使用YouTube频道，GitHub存储库.！[免费软件] [免费软件图标]
+* [Katalon Studio](https://www.katalon.com)   - 简化API，Web，移动自动化测试免费.  强大的.  跨平台.  来自160个国家的自动化测试人员使用YouTube频道，GitHub存储库.！[免费软件] [免费软件图标]
 
 #### Network Analysis
 
@@ -223,7 +223,7 @@
 * [Glances](https://github.com/nicolargo/glances)   -  Glances是一个基于curses的跨平台系统监控工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nicolargo/glances）
 * [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12)   -  Go2Shell打开Finder中当前目录的终端窗口.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12）
 * [htop](https://github.com/hishamhm/htop)   -  htop是Unix系统的交互式文本模式进程查看器.  它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
-* [httpie](https://httpie.org) - 现代命令行HTTP客户端 - 用户友好的卷曲替代方案，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，扩展等[！[开源软件] [OSS图标]]（https：// github .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
+* [httpie](https://httpie.org) - 现代命令行HTTP客户端 - 用户友好的卷曲替代方案，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，扩展等[[[开源软件] [OSS图标]]（https：// github .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
 * [hyper](https://hyper.is)   - 基于Web技术构建的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 * [iTerm2](http://www.iterm2.com) -  iTerm2是一个令人惊叹的OS X终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)   - 通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]

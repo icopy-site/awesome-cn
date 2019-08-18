@@ -50,11 +50,11 @@
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
-- [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
+- [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的破损链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs). [![Open-Source Software][OSS Icon]](https://github.com/KnuffApp/Knuff) ![Freeware][Freeware Icon]
+- [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
 - [Paw](https://luckymarmot.com/paw) - 最终的REST客户端.
 - [Pods Updater](https://github.com/kizitonwose/PodsUpdater)   - 一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) - 一个现代的PostgreSQL客户端.
@@ -135,6 +135,7 @@
 ### News Readers
 
 - [hacker-menu](https://hackermenu.io/)   - 黑客新闻发送到桌面.  [！[开源软件] [OSS图标]]（https://github.com/jingweno/hacker-menu）！[免费软件] [免费软件图标]
+- [NetNewsWire](https://ranchero.com/netnewswire/)   - 原始作者重新获取的经典RSS阅读器，并为现代macOS重写.  [！[开源软件] [OSS图标]]（https://github.com/brentsimmons/NetNewsWire）！[免费软件] [免费软件图标]
 - [ReadKit](http://readkitapp.com/) - 即使您处于离线状态，也可以在一个地方提供所有Instapaper，Pocket等.
 - [Reeder 3](http://reederapp.com/mac/) - 与Feedbin，Feedly和其他流行服务集成的新闻阅读器.
 - [Vienna](http://viennarss.github.io/)   -  RSS / Atom新闻阅读器.  [！[开源软件] [OSS图标]]（https://github.com/ViennaRSS/vienna-rss）！[免费软件] [免费软件图标]
@@ -156,7 +157,7 @@
 - [Karabiner](https://pqrs.org/osx/karabiner/)   - 功能强大的键盘定制器.  [！[开源软件] [OSS图标]]（https://github.com/tekezo/Karabiner）！[免费软件] [免费软件图标]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行例行操作.
 - [Keytty](http://keytty.com)   - 使您可以通过几个击键来控制鼠标.  鼠标键替代.
-- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 只需使用键盘即可启动应用程序，导航文件夹，操作文件，控制Mac等等.
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 适用于Mac，iPad和iPhone的令人难以置信的任务管理平台.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - 非常适合收集信息，概述想法，为任何类型的写作添加结构等等.
 - [Paste](http://pasteapp.me) - 为Mac复制和粘贴的新方法.
@@ -396,7 +397,7 @@ Ansible playbook，用于从干净的macOS安装配置开发和桌面环境.
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [Contribution Guidelines](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/contributing.md) 和我们 [Code of Conduct](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/CODE_OF_CONDUCT.md).
+贡献是最受欢迎的，请坚持 [Contribution Guidelines](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/contributing.md) 和我们 [Code of Conduct](https://github.com/iCHAIT/awesome-macOS/blob/master/.github/CODE_OF_CONDUCT.md).
 
 请考虑退房 [pull requests that need more votes](https://github.com/iCHAIT/awesome-macOS/pulls?q=is%3Apr+is%3Aopen+label%3A%22needs+endorsement%22) 被包括.
 

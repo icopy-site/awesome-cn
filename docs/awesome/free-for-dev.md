@@ -48,7 +48,7 @@
     *应用服务 -  10个网络，移动或API应用
     *功能 - 每月100万个请求
     * DevTest Labs  - 实现快速，简单和精简的开发测试环境
-    * Active Directory - 500,000 objects
+    * Active Directory  -  500,000个对象
     * Active Directory B2C  - 每月存储50,000个用户
     * Azure DevOps  -  5个活跃用户
     * Microsoft IoT Hub  - 每天8,000条消息
@@ -129,7 +129,7 @@
   * [typetalk.com](https://www.typetalk.com/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
   * [talky.io](https://talky.io/)   - 免费群聊视频.  匿名.  点对点.  无需插件，注册或付款
   * [helplightning.com](https://www.helplightning.com/)   - 通过增强现实帮助视频.  免费，无需分析，加密，支持
-  * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
+  * [evernote.com](https://evernote.com/)   - 组织信息的工具.  分享您的笔记并与他人一起工作
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
@@ -178,7 +178,7 @@
   * [ligurio/awesome-ci](https://github.com/ligurio/awesome-ci) - 持续集成服务的比较
   * [Azure Pipelines](https://azure.microsoft.com/services/devops/pipelines/) -  10个免费并行作业，无限分钟，适用于Linux，macOS和Windows的开源
   * [codefresh.io](https://codefresh.io) - 终身免费计划：1个版本，1个环境，共享服务器，无限制的公共回购
-  * [codeship.com](https://codeship.com/) — 100 private builds/month, 5 private projects, unlimited for Open Source
+  * [codeship.com](https://codeship.com/) -  100个私人构建/月，5个私有项目，无限制的开源
   * [circleci.com](https://circleci.com/) - 免费进行一次并发构建
   * [stackahoy.io](https://stackahoy.io)   -  100％免费.  无限制的部署，分支和构建
   * [travis-ci.org](https://travis-ci.org/) - 免费使用公共GitHub存储库
@@ -229,7 +229,7 @@
   * [Internet.nl](https://internet.nl) - 测试现代互联网标准，如IPv6，DNSSEC，HTTPS，DMARC，STARTTLS和DANE
   * [Mozilla Observatory](https://observatory.mozilla.org/) - 查找并修复站点中的安全漏洞.
   * [Shieldfy](https://shieldfy.io) - 面向开发人员的Web应用程序防火墙和漏洞检测，每月免费计划多达10万个请求.
-  * [Sqreen](https://www.sqreen.com/)   -  Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用和300万个请求.
+  * [Sqreen](https://www.sqreen.com/)   -  Web应用程序和API的应用程序安全监视和保护（RASP，WAF等）.  免费提供1个应用程序和300万个请求.
 
 ## Management System
 
@@ -250,7 +250,7 @@
 
 ## Translation Management
 
-  * [lingohub.com](https://lingohub.com/) — Free up to 3 users, always free for Open Source
+  * [lingohub.com](https://lingohub.com/) - 最多可免费使用3个用户，开源免费
   * [webtranslateit.com](https://webtranslateit.com/) - 最多500个字符串
   * [transifex.com](https://www.transifex.com/) - 免费开源
   * [oneskyapp.com](https://www.oneskyapp.com/) - 最多5个用户的有限免费版，免费开源
@@ -310,7 +310,7 @@
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) - 面向开发人员的电子邮件验证和验证API，每月10,000个免费API请求
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
-  * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
+  * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
@@ -331,7 +331,7 @@
   * [sendpulse.com](https://sendpulse.com) - 每月免费发送50封电子邮件，每月免费发送12,000封电子邮件
   * [pepipost.com](https://pepipost.com) - 第一个月免费发送30k封电子邮件，然后免费发送前100封电子邮件
   * [elasticemail.com](https://elasticemail.com)   - 每天100封免费电子邮件.  通过API以0.09美元的价格发送1,000封电子邮件（按需付费）.
-  * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
+  * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) - 电子邮件托管（Webmail，SMTP，IMAP，...） - 免费计划限制为10个外发邮件/天
   * [socketlabs.com](https://www.socketlabs.com) - 第一个月免费发送40k封电子邮件，然后每月免费发送2000封电子邮件
   * [postmarkapp.com](https://postmarkapp.com/) -  100封电子邮件/月免费，无限制的DMARC每周摘要
@@ -353,7 +353,9 @@
   * [jare.io](http://www.jare.io)   - 用于图像的CDN.  使用AWS CloudFront
   * [unpkg.com](https://unpkg.com/) - 关于npm的所有内容的CDN
   * [staticaly.com](https://staticaly.com/) -  Git repos的CDN（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
-  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) - 免费CDN和DDoS保护
+  * [bitmitigate.com](https://bitmitigate.com/website-suite.html) - 免费CDN，DDoS保护和SSL证书
+  * [ddos-guard.net](https://ddos-guard.net/store/web) - 免费CDN，DDoS保护和SSL证书 
+  * [ovh.ie](https://www.ovh.ie/ssl-gateway/) - 免费DDos保护和SSL证书
 
 ## PaaS
 
@@ -393,7 +395,7 @@
   * [zapier.com](https://zapier.com/)   - 连接您使用的应用程序，以自动执行任务.  5次，每15分钟100次，每月100次
   * [stackstorm.com](https://stackstorm.com/) - 针对应用，服务和工作流的事件驱动自动化，免费无流量，访问控制，LDAP，......
   * [simperium.com](https://simperium.com/)   - 即时自动地移动数据，多平台，无限制地发送和存储结构化数据，最多  每月2,500名用户
-  * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
+  * [pushcrew.com](https://pushcrew.com/)   - 推送通知服务.  最多2000个订阅者的无限通知
   * [streamdata.io](https://streamdata.io/)   - 将任何REST API转换为事件驱动的流API.  免费计划多达100万条消息和10个并发连接
   * [posthook.io](https://posthook.io/)   - 作业调度服务.  允许您安排特定时间的请求.  500个预定请求/月免费.
   * [paraio.com](https://paraio.com)   - 具有灵活身份验证，全文搜索和缓存的后端服务API.  免费提供1个应用程序，1GB应用程序数据.
@@ -411,7 +413,7 @@
   * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
   * [contentful.com](https://www.contentful.com/)   - 内容即服务.  云中的内容管理和交付API.  每月3个用户，3个存储库和100,000个API请求免费
-  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，仅有170多个可用的主要预定义块，没有字体，没有favicon，也没有自定义域
+  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，只有170多个可用的主要预定义块，没有字体，没有favicon和没有自定义域
   * [surge.sh](https://surge.sh/)   - 前端开发人员的静态Web发布.  具有自定义域支持的无限网站
   * [neocities.org](https://neocities.org) - 静态，1 GB免费存储，200 GB带宽.
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
@@ -428,7 +430,7 @@
   * [Yandex.Connect](https://connect.yandex.com/pdd/) - 免费电子邮件和DNS托管，最多可容纳1,000名用户
   * [selectel.com](https://selectel.com/services/dns/) - 免费DNS托管，任播，10个地理区域
   * [cloudns.net](https://www.cloudns.net/) - 免费DNS托管最多3个域，无限记录
-  * [ns1.com](https://ns1.com/) - 数据驱动的DNS，自动流量管理，100万个免费查询
+  * [ns1.com](https://ns1.com/) - 数据驱动的DNS，自动流量管理，500k免费查询
   * [zonewatcher.com](https://zonewatcher.com)   - 自动备份和DNS更改监控.  1个域名免费
   * [namecheap.com](https://www.namecheap.com/domains/freedns/)   - 免费DNS.  域名数量没有限制
   * [dynu.com](https://www.dynu.com/) - 免费的动态DNS服务
@@ -492,11 +494,11 @@
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
-   * [acunote.com](https://www.acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
+   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
    * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
-   * [Azure DevOps](https://azure.microsoft.com/services/devops/) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
+   * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
    * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
@@ -542,7 +544,7 @@
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
   * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
-  * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
+  * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
@@ -579,7 +581,7 @@
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，基于Linux的容器通过功能齐全的基于Web的终端，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费套餐包括1GB RAM和每个容器10GB存储，5个容器插槽）
    * [cocalc.com](https://cocalc.com/)   - （以前在cloud.sagemath.com上的SageMathCloud） - 云中的协作计算.  浏览器访问完整的Ubuntu，内置协作和大量免费软件，用于数学，科学，数据科学，预装：Python，LaTeX，Jupyter笔记本，SageMath，scikitlearn等
    * [wakatime.com](https://wakatime.com/) - 使用文本编辑器插件，免费的有限计划量化您的编码活动的自我指标
-   * [apiary.io](https://apiary.io/) - 具有即时API模拟和生成文档的协作设计API（免费提供无限API蓝图和无限用户，一个管理员帐户和托管文档）
+   * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/)   -  Mockable是一个简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务允许您快速定义REST API或SOAP端点，并让它们返回JSON或XML数据
    * [fakejson.com](https://fakejson.com/)   -  FakeJSON可帮助您使用其API快速生成虚假数据.  发出API请求，描述您想要的内容以及您希望的内容.  API以JSON格式返回所有内容.  加快进入市场的创意流程并假冒它直到你成功.
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
@@ -609,6 +611,7 @@
    * [optimizely.com](https://www.optimizely.com) -  A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用程序
    * [expensify.com](https://www.expensify.com/) - 费用报告，免费个人报告批准工作流程
    * [Moesif](https://www.moesif.com)   -  REST和GraphQL的API分析.  （最多可免费拨打500,000次API调用）
+   * [quantcast.com](https://www.quantcast.com/products/measure-audience-insights/) - 无限制的免费分析
 
 ## Visitor Session Recording
    * [inspectlet.com](https://www.inspectlet.com/) -  1个网站免费100个会话/月
@@ -620,7 +623,7 @@
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
+  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
 
 ## Payment / Billing Integration
 

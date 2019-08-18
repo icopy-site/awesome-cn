@@ -104,6 +104,7 @@
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - 用于lit-html模板字符串的ESLint插件.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -  Rollup插件，用于缩小标记模板字符串中的HTML.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - 用于导入CSS文件的Rollup插件，因为LitElement标记了`css`模板字符串.
+- [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -  Rollup插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) - 用于Webpack的LitElement单文件组件加载器.
 - [generator-lit-element](https://github.com/sebs/generator-lit-element) - 用于创建基于LitElement的自定义元素的Yeoman生成器.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - 用于构建，测试和发布vanilla Web Components的CLI工具.
