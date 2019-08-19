@@ -514,7 +514,7 @@
 *在您的go代码中嵌入其他语言.*
 
 * [agora](https://github.com/PuerkitoBio/agora) -  Go中的动态类型，可嵌入编程语言.
-* [anko](https://github.com/mattn/anko) - 用Go编写的可编写脚本的解释器.
+* [anko](https://github.com/mattn/anko) - Scriptable interpreter written in Go.
 * [binder](https://github.com/alexeyco/binder) - 转到Lua绑定库，基于 [gopher-lua](https://github.com/yuin/gopher-lua).
 * [expr](https://github.com/antonmedv/expr) - 可以评估表达式的引擎.
 * [gentee](https://github.com/gentee/gentee) - 可嵌入脚本编程语言.
@@ -770,7 +770,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 ## IoT (Internet of Things)
 
-*用于物联网编程设备的库.*
+*Libraries for programming devices of the IoT.*
 
 * [connectordb](https://github.com/connectordb/connectordb) - 量化自我和物联网的开源平台.
 * [devices](https://github.com/goiot/devices) - 物联网设备库套件，x / exp / io实验.
@@ -913,7 +913,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [Commander](https://github.com/jeroenrinzema/commander) - 支持各种“方言”的高级事件驱动的消费者/制作者，例如Apache Kafka.
 * [dbus](https://github.com/godbus/dbus) -  D-Bus的Native Go绑定.
 * [drone-line](https://github.com/appleboy/drone-line) - 发送 [Line](https://at.line.me/en) 使用二进制，docker或Drone CI的通知.
-* [emitter](https://github.com/olebedev/emitter) - Emits events using Go way, with wildcard, predicates, cancellation possibilities and many other good wins.
+* [emitter](https://github.com/olebedev/emitter) - 使用Go方式发布事件，包括通配符，谓词，取消可能性和许多其他好的胜利.
 * [event](https://github.com/agoalofalife/event) - 模式观察者的实施.
 * [EventBus](https://github.com/asaskevich/EventBus) - 具有异步兼容性的轻量级事件总线.
 * [gaurun-client](https://github.com/osamingo/gaurun-client) - 用Go编写的Gaurun客户端.
@@ -960,7 +960,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-excel](https://github.com/szyhf/go-excel) - 一个简单而轻便的阅读器，可以像桌子一样读取与数据库类似的Excel.
 * [goxlsxwriter](https://github.com/fterrag/goxlsxwriter) -  Golang绑定libxlsxwriter写XLSX（Microsoft Excel）中的文件.
 * [xlsx](https://github.com/tealeg/xlsx) - 用于简化读取Go程序中最新版Microsoft Excel使用的XML格式的库.
-* [xlsx](https://github.com/plandem/xlsx) - 在Go程序中快速安全地读取/更新现有Microsoft Excel文件的方法.
+* [xlsx](https://github.com/plandem/xlsx) - 快速安全地读取/更新Go程序中现有的Microsoft Excel文件.
 
 ## Miscellaneous
 
@@ -1089,7 +1089,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [dhcp6](https://github.com/mdlayher/dhcp6) - 包dhcp6实现DHCPv6服务器，如RFC 3315中所述.
 * [dns](https://github.com/miekg/dns) - 去图书馆使用DNS.
 * [ether](https://github.com/songgao/ether) - 用于发送和接收以太网帧的跨平台Go包.
-* [ethernet](https://github.com/mdlayher/ethernet) - 包以太网实现IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标记的编组和解组.
+* [ethernet](https://github.com/mdlayher/ethernet) - 包以太网实现了IEEE 802.3以太网II帧和IEEE 802.1Q VLAN标记的编组和解组.
 * [fasthttp](https://github.com/valyala/fasthttp) - 包fasthttp是Go的快速HTTP实现，比net / http快10倍.
 * [fortio](https://github.com/fortio/fortio)   - 加载测试库和命令行工具，高级回显服务器和Web UI.  允许指定设置的每秒查询负载和记录延迟直方图以及其他有用的统计信息并对其进行图形化.  Tcp，Http，gRPC.
 * [ftp](https://github.com/jlaffaye/ftp) - 包ftp实现了一个FTP客户端，如中所述 [RFC 959](http://tools.ietf.org/html/rfc959).
@@ -1390,7 +1390,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
     * [go-testdeep](https://github.com/maxatome/go-testdeep) - 非常灵活的golang深度比较，扩展了go测试包.
     * [go-vcr](https://github.com/dnaeon/go-vcr) - 记录并重放您的HTTP交互，以进行快速，确定和准确的测试.
     * [goblin](https://github.com/franela/goblin) - 摩卡喜欢Go的测试框架.
-    * [gocheck](http://labix.org/gocheck) - More advanced testing framework alternative to gotest.
+    * [gocheck](http://labix.org/gocheck) - 更高级的测试框架替代gotest.
     * [GoConvey](https://github.com/smartystreets/goconvey/) - 具有Web UI和实时重新加载的BDD风格框架.
     * [gocrest](https://github.com/corbym/gocrest) - Composable hamcrest-like matchers for Go assertions.
     * [godog](https://github.com/DATA-DOG/godog) - 像Go的BDD框架一样的Cucumber或Behat.
@@ -1581,7 +1581,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 
 * [abutil](https://github.com/bahlo/abutil) - 经常使用的Golang助手的收集.
 * [apm](https://github.com/topfreegames/apm) - 使用HTTP API的Golang应用程序的进程管理器.
-* [backscanner](https://github.com/icza/backscanner) - 类似于bufio.Scanner的扫描程序，但它以相反的顺序读取和返回行，从给定位置开始并向后移动.
+* [backscanner](https://github.com/icza/backscanner) - 类似于bufio.Scanner的扫描程序，但它以相反的顺序读取和返回行，从给定位置开始向后移动.
 * [blank](https://github.com/Henry-Sarabia/blank) - 验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) - 用于从样板模板创建项目的超快CLI工具.
 * [chyle](https://github.com/antham/chyle) - 使用具有多种配置可能性的git存储库的Changelog生成器.
@@ -1653,7 +1653,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [mmake](https://github.com/tj/mmake) - 现代制作.
 * [moldova](https://github.com/StabbyCutyou/moldova) - 用于基于输入模板生成随机数据的实用程序.
 * [mole](https://github.com/davrodpin/mole) -  cli app轻松创建ssh隧道.
-* [mssqlx](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight and auto balancing in mind.
+* [mssqlx](https://github.com/linxGnu/mssqlx)   - 数据库客户端库，任何主从属的代理，主主结构.  轻量化和自动平衡.
 * [multitick](https://github.com/VividCortex/multitick) - 用于对齐的代码的多路复用器.
 * [myhttp](https://github.com/inancgumus/myhttp) - 使用超时支持发出HTTP GET请求的简单API.
 * [okrun](https://github.com/xta/okrun) - 去运行错误压路机.
@@ -1774,12 +1774,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [mango](https://github.com/paulbellamy/mango) -  Mango是Go的模块化Web应用程序框架，受Rack和PEP333的启发.
 * [Microservice](https://github.com/claygod/microservice) - 用Golang编写的用于创建微服务的框架.
 * [neo](https://github.com/ivpusic/neo) -  Neo是极简单且快速的Go Web Framework，具有极其简单的API.
-* [nio](https://github.com/go-nio/nio) - 现代，简约且高效的Go HTTP框架.
 * [patron](https://github.com/beatlabs/patron) -  Patron是一个遵循最佳云实践的微服务框架，专注于生产力.
 * [Resoursea](https://github.com/resoursea/api) - 用于快速编写基于资源的服务的REST框架.
 * [REST Layer](http://rest-layer.io) - 在数据库之上构建REST / GraphQL API的框架，主要是代码配置.
 * [Revel](https://github.com/revel/revel) -  Go语言的高效Web框架.
 * [rex](https://github.com/goanywhere/rex) -  Rex是一个基于gorilla / mux的模块化开发库，与`net / http`完全兼容.
+* [route](https://github.com/goroute/route) - 简单而强大的HTTP请求多路复用器.
 * [rux](https://github.com/gookit/rux) - 用于构建golang HTTP应用程序的简单快速的Web框架.
 * [tango](https://github.com/lunny/tango) -  Go的微型和可插拔Web框架.
 * [tigertonic](https://github.com/rcrowley/go-tigertonic) -  Go框架，用于构建受Dropwizard启发的JSON Web服务.
@@ -1877,7 +1877,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [go-outdated](https://github.com/firstrow/go-outdated) - 显示过期软件包的控制台应用程序.
 * [goast-viewer](https://github.com/yuroyoro/goast-viewer) - 基于Web的Golang AST可视化.
 * [GoCover.io](http://gocover.io/) -  GoCover.io提供任何golang包作为服务的代码覆盖率.
-* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 自动修复（添加，删除）Go导入的工具.
+* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Tool to fix (add, remove) your Go imports automatically.
 * [GolangCI](https://golangci.com/)   -  GolangCI是一个针对GitHub拉取请求的自动Golang代码审查服务.  服务是开源的，开源项目是免费的.
 * [GoLint](https://github.com/golang/lint) -  Golint是Go源代码的linter.
 * [Golint online](http://go-lint.appspot.com/) - 在线提示使用golint包在GitHub，Bitbucket和Google Project Hosting上获取源文件.

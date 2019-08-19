@@ -62,8 +62,8 @@
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但能够做更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台GUI应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
@@ -168,7 +168,7 @@
 - [Angular](https://github.com/PatrickJS/awesome-angular#readme) - 应用程序框架.
 - [Backbone](https://github.com/sadcitizen/awesome-backbone#readme) - 应用程序框架.
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) - 用于网站和网络应用程序的标记语言.
-- [SVG](https://github.com/willianjusten/awesome-svg#readme) - XML-based vector image format.
+- [SVG](https://github.com/willianjusten/awesome-svg#readme) - 基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
 - [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
 - [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
@@ -340,6 +340,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) - 游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) - 沙盒视频游戏.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) - 游戏中人工智能的材料和数据集.
+- [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) -  Java游戏框架.
 
 
 ## Development Environment
@@ -485,6 +486,7 @@
 - [Network Analysis](https://github.com/briatte/awesome-network-analysis#readme)
 - [PCAPTools](https://github.com/caesar0301/awesome-pcaptools#readme)
 
+
 ## Decentralized Systems
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) - 面向软件开发人员的比特币服务和工具.
@@ -494,6 +496,12 @@
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) - 智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) - 用于人工智能和机器学习的区块链项目.
 - [EOSIO](https://github.com/DanailMinchev/awesome-eosio#readme) - 支持工业规模应用程序的分散式操作系统.
+
+
+## Higher Education
+
+- [Computational Neuroscience](https://github.com/eselkin/awesome-computational-neuroscience#readme) - 利用计算方法研究神经系统的多学科科学.
+
 
 ## Miscellaneous
 
@@ -610,6 +618,7 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) - 设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) - 更好地了解谁可以访问电信和互联网基础设施以及使用什么条件.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) - 用于构建不同应用和功能的技术堆栈.
+- [IRC](https://github.com/davisonio/awesome-irc#readme) - 开源消息传递协议.
 
 
 ## Related

@@ -61,6 +61,7 @@
     * [Minessence](https://vinnylingham.com/) / Vinny Lingham，Civic.com的联合创始人兼首席执行官
     * [CryptoOracle](https://medium.com/crypto-oracle) / Lou Kerner
     * [CryptoCurrencyHub](https://cryptocurrencyhub.io/)
+    * [Build Blockchain](https://www.buildblockchain.tech/newsletter/issues/)
     * Hackernoon
       * [Blockchain](https://hackernoon.com/blockchain/home)
       * [Bitcoin](https://hackernoon.com/bitcoin/home)
@@ -196,7 +197,7 @@
 - `Lbry`（** LBC **）
 - `Equihash`（Zcash / ** XEC **，ZClassic，** HUSH **，Komodo）
 - `Pascal`（** PASC **）
-- `X11Gost`（SIBCOin / ** SIB **）
+- `X11Gost`（SIBCoin / ** SIB **）
 - `Sia`（** SC **）
 - `Blake2`s（NevaCoin，Someone Coin，Verge，TajCoin）
 - “臭鼬”（Signatum Coin / ** SIGT **）
@@ -408,7 +409,7 @@
 - **[ETH](http://coinbin.org/eth)**：`0x1321Ec9c7550a7c44ef3e583930556c6557411d1`
 - **[LTC](http://coinbin.org/ltc)**：`Lbyje2eiSMPfE1Ux6BYJuzN9CS7Nj78Hpu`
 - **[LBC](http://coinbin.org/lbc)**：`bYDCRLb2Pcp1V25sRZs1LJkVnaddsNVCAQ`
-- **[SC](http://coinbin.org/sc)**：`f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884`
+- **[SC](http://coinbin.org/sc)**：```f23294ad70d2315f68a3265331508a44cd5363b8365f4ece91efd2365548b8f0760d34a8f884&#39;&#39;
 
 Or, [Say Thanks!](http://saythanks.io/to/kennethreitz)
 

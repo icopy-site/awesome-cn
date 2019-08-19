@@ -67,7 +67,7 @@ Graphics
 * ：自由： [PNGGauntlet](http://pnggauntlet.com/) - 为更快的网站粉碎PNG
 * ：自由： [PNGoo](https://pngquant.org/PNGoo.0.1.1.zip) - 用于批量转换的Windows GUI.
 *：那么： [Pngyu](http://nukesaq88.github.io/Pngyu/) - 简单的PNG图像文件压缩工具.
-*：那么： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/) — Mac and Windows. Comparison with "Save for Web"
+*：那么： [SuperPNG Photoshop plug-in](http://www.fnordware.com/superpng/)   -  Mac和Windows.  与“为Web节省”的比较
 *：money_with_wings： [TinyPNG](https://tinypng.com/) -  PNG图像的高级有损压缩，可保持完整的Alpha透明度.
 
 #### Texture Tools
@@ -96,6 +96,7 @@ Graphics
 * ：钱袋子： [Spine](http://esotericsoftware.com/) -  Spine致力于2D动画，提供高效的工作流程，既可以创建出色的动画，也可以将其集成到游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) - 精灵动画的现代工具.
 *：那么： [DragonBones](http://dragonbones.com) -  Flash的开源2D骨架动画解决方案
+* ：钱袋子： [Mixamo](https://www.mixamo.com/#/) - 用于3D人形模型的自动装配和动画的工具，    
 
 #### Vector/Image Editor
 
@@ -209,7 +210,7 @@ Code
 * [Grid](http://www.planimeter.org/grid-sdk/) -  Lua游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) - 跨平台游戏引擎，提供功能强大且通用的多平台运行时技术.
 *：那么： [HaxeFlixel](http://haxeflixel.com/) - 更轻松，更自由地创建跨平台游戏.
-*：那么： [Heaps](https://heaps.io/) - 用于高性能游戏的跨平台图形.
+*：那么： [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
 * [Hive3D](http://www.eyelead.com/hive/) - 实时协作3D引擎.
 *：那么： [Horde3D](http://www.horde3d.org/) - 小型开源3D渲染引擎.
 *：那么： [iio.js](https://github.com/iioinc/iio.js) - 一个javascript库，可加速HTML5 Canvas应用程序的创建和部署
@@ -255,6 +256,7 @@ Code
 *：那么： [Panda3D](https://www.panda3d.org/) - 用于Python和C ++程序的3D渲染和游戏开发的框架.
 *：那么： [PandaJS](http://www.pandajs.net/) - 开源HTML5引擎.
 *：那么： [Phaser](http://phaser.io/) - 免费和快速的2D游戏框架，用于为桌面和移动Web浏览器制作HTML5游戏，支持Canvas和WebGL渲染.
+*：那么： [phina.js](http://phinajs.com/) - 一个JavaScript游戏库，可以轻松创建游戏和工具.
 *：那么： [Piston](http://www.piston.rs/) - 用Rust编写的模块化开源游戏引擎.
 *：money_with_wings： [Pixel Vision 8](https://twitter.com/PixelVision8) - 一个旨在模拟您最喜欢的8位控制台的框架.
 *：那么： [PixiJS](http://www.pixijs.com/)   - 是一款新推出的HTML5游戏渲染器 - 于2013年初首次发布.该引擎的主要吸引力在于它使用WebGL来提高性能.  如果不支持WebGL，则引擎会回退到标准画布.
