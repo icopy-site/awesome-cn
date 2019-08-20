@@ -318,6 +318,7 @@
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)   -  Qiscus SDK是一个轻量级且功能强大的Android聊天库.  Qiscus SDK将允许您轻松地将Qiscus引擎与您的应用程序集成，以制作出酷炫的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)   -  Kommunicate在android中提供开源实时聊天sdk.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用程序内消息，以获得客户支持.
 - [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
+- [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/)   - 使用CometChat Pro在几分钟内在Kotlin构建一对一的Android聊天应用程序.  本教程讨论登录，获取联系人列表，用户状态指示器，发送/接收消息等功能.
 
 #### Custom Dialog
 
@@ -387,7 +388,7 @@
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 来自Googler Chet Hasae和其他人的一系列文章回答了最常见的问题：“在开发Android应用程序时要记住哪些重要规则？”.
 - [Android Hive Tutorials](https://www.androidhive.info) - 非常好的初学者教程.
 - [Android Weekly](https://androidweekly.net) - 包含有关Android的每周信息的时事通讯.
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他资产的生成器.
+- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - 在真实设备图稿中包装应用程序截图.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - 通过UI / UX中的Google Developer Expert为您提供各种设计资源.
@@ -455,7 +456,7 @@
 - [Kotterknife](https://github.com/JakeWharton/kotterknife) - 基于ButterKnife在Kotlin中编写的Android视图注入
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) - 一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) - 一系列编程挑战，有助于提高白板编码和解决问题的能力.
-- [KAndroid](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+- [KAndroid](https://github.com/pawegio/KAndroid) - 轻量级库，提供有用的扩展，以消除Android SDK中的样板代码.
 - [RxKotlin/Pocket](https://github.com/RxKotlin/Pocket) - 此应用程序可以帮助用户轻松保存链接，并可以每周导出到Evernote.
 - [Android Clean Architecture - Kotlin](https://github.com/patrickyin/clean-architecture-android-kotlin) - 使用Uncle Bob干净的架构，Kotlin语言和最新的Android技术的基础项目.
 - [Koin](https://insert-koin.io/) -  Kotlin的轻量级依赖注入框架

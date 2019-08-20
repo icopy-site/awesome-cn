@@ -12,7 +12,7 @@
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - 感觉好极了Stevie Wonder这款适用于Android的模拟器.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - 糟糕可怕的软键盘，可以在每次按下时随机键盘.
+- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
 - [holdr](https://github.com/starakaj/holdr) - 解决了解何时拿着手机的问题.
 
 
@@ -115,6 +115,7 @@
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) - 阻止任何非广告内容.
 - [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)   -  Youtube Notch Mode是一个镀铬扩展，可以将iPhone X顶部看到的丑陋的黑色切口添加到每个Youtube视频中.  为什么？  因为它更漂亮.
 - [Github XP](https://github.com/martenbjork/github-xp)   -  Microsoft + GitHub =❤️.  通过为您的GitHub体验一些Windows XP风格使其正式化.
+- [Netflix Hangouts](https://netflixhangouts.com) - 观看Netflix的工作，看起来像是在参加电话会议.
 
 
 ## CLI
@@ -132,7 +133,7 @@
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity)   - 最大限度地提高您的“生产力”！  由懒虫为懒虫制作的生产力套件.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 动画管道终端屏幕保护程序.
 - [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) -  ZSH的Chuck Norris财富插件.
-- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
+- [git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - 责备别人的坏代码.
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - 像黑客帝国那样在终端上制造数字雨.
 - [Gosleap](https://github.com/koriroys/gosleap) - 让Ryan Gosling跳过你的屏幕.
 

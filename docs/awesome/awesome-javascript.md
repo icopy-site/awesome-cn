@@ -316,7 +316,7 @@
 
 
 ## Date
-*Date Libraries.*
+*日期图书馆.*
 
 * [moment](https://github.com/moment/moment) - 在JavaScript中解析，验证，操作和显示日期.
 * [moment-timezone](https://github.com/moment/moment-timezone) - 时区支持moment.js.
@@ -390,6 +390,7 @@
 * [i18next](https://github.com/i18next/i18next) - 使用JavaScript轻松实现国际化（i18n）.
 * [polyglot](https://github.com/airbnb/polyglot.js) - 小型i18n助手库.
 * [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+* [ttag](https://github.com/ttag-org/ttag) - 基于ES6标记模板和良好的旧GNU gettext的现代javascript i18n本地化库.
 
 ## Control Flow
 
@@ -839,7 +840,7 @@ http://www.listjs.com
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 易于阅读，快速参考JS最佳实践，可接受的编码标准以及Web上的链接.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费JavaScript电子书目录.
 * [Superhero.js](http://superherojs.com) - 有关创建，测试和维护大型JavaScript代码库的资源集合.
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - 简化的JavaScript术语是一种社区驱动的尝试，用一些简单的词语解释当前JavaScript生态系统的流行语.
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 通过一系列步骤发布JavaScript开源库的综合指南.
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - 通过各种用户排名的在线教程在线学习Javascript.
 

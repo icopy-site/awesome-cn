@@ -50,6 +50,7 @@
 - [Kali Linux](https://www.offensive-security.com/kali-linux-arm-images/) - 针对ARM设备的渗透测试和道德黑客Linux发行版.
 - [Kano OS](http://developers.kano.me/downloads/) - 用于探索，创建和播放的开源操作系统 - 适用于Raspberry Pi和新的Pi 3.
 - [Lakka](http://lakka.tv) - 完全基于RetroArch构建的Raspberry Pi上的复古游戏.
+- [Manjaro](https://manjaro.org/download/) -  Raspberry Pi的友好，开源的Linux发行版.
 - [Minibian](https://minibianpi.wordpress.com/) - 最小的Raspbian（比Jessie Lite轻）.
 - [MoodleBox](https://moodlebox.net/) -  MoodleBox在Raspberry Pi上提供了Moodle学习管理系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - 将单板计算机变成视频监控系统的Linux发行版.
@@ -175,7 +176,7 @@
 -  **家用遥控器**  - 控制鼠标/键盘，音量，管理下载/上传文件，自定义命令，终端，将来执行任务，控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 -  ** Kore Remote **  - 控制Kodi的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
 - **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
--  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表中的流（m3u，pls）. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
+-  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表（m3u，pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 -  **屏幕流镜像**  - 直接将手机屏幕流式传输到Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 -  ** Termius **  -  Pi最干净的SSH客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)
 -  ** Tubio **  - 直接将网络视频投射到Pi. [Android](https://play.google.com/store/apps/details?id=com.aesoftware.tubio)

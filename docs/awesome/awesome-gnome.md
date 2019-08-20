@@ -28,6 +28,7 @@
 - [Eolie](https://gitlab.gnome.org/World/eolie) - 使用垂直选项卡的Web浏览器.
 - [Geary](https://wiki.gnome.org/Apps/Geary) -  GNOME的现代邮件客户端，最初由Yorba创建.
 - [FeedReader](https://jangernert.github.io/FeedReader/) -  RSS提要阅读器.
+- [GNOME Feeds](https://gitlab.com/gabmus/gnome-feeds) -  GNOME的RSS / Atom提要阅读器.
 - [Corebird](http://corebird.baedert.org/) -  Twitter客户端.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) -  GNOME的Reddit客户端.
 - [Ring-GTK](https://ring.cx/) - 用于Ring的GTK / GNOME客户端，一种安全的通信工具.
@@ -168,6 +169,7 @@
 - [Materia](https://github.com/nana-4/materia-theme)   - 基于GNOME / GTK +的桌面环境的类似Material Design的主题.  （GTK，壳牌）
 - [Adapta](https://github.com/adapta-project/adapta-gtk-theme)   - 基于材料设计指南的自适应GTK +主题.  （GTK，壳牌）
 - [Vimix](https://github.com/vinceliuice/vimix-gtk-themes) -  GTK 3，GTK 2和Gnome-Shell的平面材料设计主题.
+- [Plata](https://gitlab.com/tista500/plata-theme) - 基于Material Design Refresh的Gtk主题.
 
 ### Flat
 

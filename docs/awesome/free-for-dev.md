@@ -200,6 +200,7 @@
   * [everystep-automation.com](https://www.everystep-automation.com/) - 记录和重放在Web浏览器中执行的所有步骤并创建脚本，...免费使用更少的选项
   * [Applitools.com](https://applitools.com/)   - 针对Web，本机移动和桌面应用的智能视觉验证.  与几乎所有自动化解决方案（如Selenium和Karma）和远程跑步者（Sauce Labs，Browser Stack）集成.  免费开源.  针对每周检查点数有限的单个用户的免费套餐.
   * [checkbot.io](https://www.checkbot.io/)   - 浏览器扩展，测试您的网站是否遵循50+ SEO，速度和安全最佳实践.  小型网站的免费套餐.
+  * [testingbot.com](https://testingbot.com/) -  Selenium浏览器和设备测试， [free for Open Source](https://testingbot.com/open-source)
 
 ## Security and PKI
 
@@ -413,7 +414,7 @@
   * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
   * [contentful.com](https://www.contentful.com/)   - 内容即服务.  云中的内容管理和交付API.  每月3个用户，3个存储库和100,000个API请求免费
-  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，只有170多个可用的主要预定义块，没有字体，没有favicon和没有自定义域
+  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，仅有170多个可用的主要预定义块，没有字体，没有favicon，也没有自定义域
   * [surge.sh](https://surge.sh/)   - 前端开发人员的静态Web发布.  具有自定义域支持的无限网站
   * [neocities.org](https://neocities.org) - 静态，1 GB免费存储，200 GB带宽.
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
@@ -601,7 +602,7 @@
    * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) - 免费热图工具，以了解UI / UX.
    * [heap.io](https://heap.io)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
    * [sematext.com](https://sematext.com/cloud/) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
-   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限的测试
+   * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限测试
    * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费

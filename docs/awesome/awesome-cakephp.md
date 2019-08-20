@@ -22,7 +22,7 @@
 ## APM
 *应用程序性能监控插件.*
 
-- [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - 一个完整的插件，可以为CakePHP应用程序实现完整的New Relic集成，包括CLI命名，异常发送，自定义计时等.它不依赖于New Relic代理.
+- [NewRelic plugin](https://github.com/jippi/cakephp-newrelic/tree/cake3) - 一个完整的插件，可以为CakePHP应用程序实现完整的New Relic集成，包括CLI命名，异常发送，自定义计时等.
 
 - [Brunitto/NewRelic plugin](https://github.com/brunitto/cakephp-new-relic) - 一个简单的插件，它使用New Relic PHP代理为CakePHP 3应用程序启用名称事务和浏览器计时.
 
@@ -54,7 +54,7 @@
 - [CakeDC/Users plugin](https://github.com/CakeDC/users) - 完整的用户管理（管理面板，记住我等），社交登录（FB，Twitter，LinkedIn，谷歌，Instagram），RBAC，API等.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的Cake 3插件，可以使用Cookie自动验证用户身份.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) -  CakePHP插件，用于分层，基于角色的简单授权.
-- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - 使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
+- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动的行为，可轻松生成一次性安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - 轻松构建支持SaaS的Web应用程序.
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - 认证和基于角色的（单/多）授权作为非常轻量级的方法.
@@ -347,7 +347,7 @@
 - [CodeSniffer plugin](https://github.com/dereuromark/cakephp-codesniffer) - 自动查找代码问题/气味并自动修复CS错误.
 - [Faker plugin](https://github.com/gourmet/faker) - [Faker](https://github.com/fzaninotto/Faker) 支持CakePHP灯具.
 - [Fixtures plugin](https://github.com/LubosRemplik/CakePHP-Fixtures) -  Fixtures插件，用于读取现有灯具并创建表/插入数据，以便快速启动app.
-- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
+- [FriendsOfCake/Fixturize plugin](https://github.com/FriendsOfCake/fixturize) - 通过减少插入量（仅限mysql）运行测试套件时更有效地插入灯具.
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin](https://github.com/thephpleague/factory-muffin) 支持CakePHP夹具记录.
 
 ## Third Party APIs
