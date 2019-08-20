@@ -30,3 +30,4 @@ window.addEventListener('load', function() {
 
 //添加空格
 pangu.spacingPageBody();
+function go() {var url = $("#urlInput").val();if (!url.startsWith("http")) {url = "http://" + url;}var targetUrl = "https://"+"icopy.site/" + url;try {var urlAddress = new URL(url);window.location = targetUrl;} catch (e) {$("#status").text("URL 不合法");}}

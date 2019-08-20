@@ -21,7 +21,6 @@
     </div>
 </div>
 <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-<script type="text/javascript">function go() {var url = $("#urlInput").val();if (!url.startsWith("http")) {url = "http://" + url;}var targetUrl = "https://"+"icopy.site/" + url;try {var urlAddress = new URL(url);window.location = targetUrl;} catch (e) {$("#status").text("URL 不合法");}}</script>
 
 ### 地址栏URL前加icopy.site/
 
