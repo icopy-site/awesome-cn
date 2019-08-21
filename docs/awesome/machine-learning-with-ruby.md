@@ -195,6 +195,12 @@ the word using the `#RubyML` hash tag!
   Naive Bayes文本分类实现为OmniCat分类器策略.
   <sup>[[dep: bundled](#bundled)]</sup>
 
+### Gradient boosting
+
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) -  XGBoost的Ruby绑定
+- [xgb](https://github.com/ankane/xgb) -  XGBoost的Ruby绑定
+- [lightgbm](https://github.com/ankane/lightgbm) -  LightGBM的Ruby绑定
+
 ## Applications of machine learning
 
 - [phashion](https://github.com/westonplatter/phashion) -

@@ -79,9 +79,10 @@
 - [Mobile Web Performance Auditing](https://www.youtube.com/watch?v=WrA85a4ZIaM) -  Paul Lewis如何审核网站上的性能问题.
 
 
-## Performance Auditing Tools
+## Auditing Tools
 
 - [Lighthouse](https://github.com/GoogleChrome/lighthouse) - 分析Web应用程序和网页的工具.
+- [Mobile-Friendly Test](https://search.google.com/test/mobile-friendly) - 用于测试您的网站是否适合移动设备的工具.
 - [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights) - 分析页面的工具，并提供增加下载速度的建议.
 - [PageSpeed](https://www.modpagespeed.com) - 自动优化站点的Web服务器模块.
 - [Site Speed Checker](https://www.thinkwithgoogle.com/feature/mobile) - 将移动网站的速度与其他网站进行比较.

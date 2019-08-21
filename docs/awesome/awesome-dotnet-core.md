@@ -67,7 +67,7 @@
 * [AsyncEx](https://github.com/StephenCleary/AsyncEx) -  async / await的帮助程序库.
 * [Aeron.NET](https://github.com/AdaptiveConsulting/Aeron.NET) - 高效可靠的UDP单播，UDP多播和IPC消息传输 -  Aeron的.NET端口.
 * [akka.net](https://github.com/akkadotnet/akka.net) - 用于在.NET和Mono上构建高度并发，分布式和容错的事件驱动应用程序的工具包和运行时.
-* [Aggregates.NET](https://github.com/volak/Aggregates.NET) -  Aggregates.NET是一个框架，可以帮助开发人员将优秀的NServiceBus和EventStore库集成在一起.
+* [Aggregates.NET](https://github.com/volak/Aggregates.NET) - Aggregates.NET is a framework to help developers integrate the excellent NServiceBus and EventStore libraries together.
 * [ASP.NET MVC](https://github.com/aspnet/Mvc) - 模型视图控制器框架，用于构建动态网站，清晰地分离关注点，包括合并的MVC，Web API和带Razor的Web页面.
 * [Butterfly Server .NET](https://github.com/firesharkstudios/butterfly-server-dotnet)   - 允许用最少的工作量构建实时Web应用程序和本机应用程序.  定义Web API和Subscription API，以自动同步所连接客户端的数据集.
 * [CAP](https://github.com/dotnetcore/CAP) - 具有本地持久消息功能的EventBus，用于SOA或微服务架构中的系统集成.
@@ -81,9 +81,9 @@
 * [DotnetSpider](https://github.com/dotnetcore/DotnetSpider)   -  DotnetSpider，一个类似于WebMagic和Scrapy的.NET标准网络爬行库.  它是.NET的轻量级，高效且快速的高级Web爬行和抓取框架.
 * [DotNetty](https://github.com/Azure/DotNetty) -  netty端口，事件驱动的异步网络应用程序框架.
 * [dotvvm](https://github.com/riganti/dotvvm) - 用于Web Apps的开源MVVM框架.
-* [ElectronNET](https://github.com/ElectronNET/Electron.NET) - 使用ASP.NET NET Core构建跨平台桌面应用程序.
+* [ElectronNET](https://github.com/ElectronNET/Electron.NET) - Build cross platform desktop apps with ASP.NET NET Core.
 * [EmbedIO](https://github.com/unosquare/embedio) - 用于.NET Framework和.NET Core的基于模块的小型跨平台Web服务器.
-* [Ether.Network](https://github.com/Eastrall/Ether.Network) -  Ether.Network是一个开源网络库，允许开发人员通过TCP / IP协议创建简单，快速和可扩展的套接字服务器或客户端应用程序.
+* [Ether.Network](https://github.com/aloisdg/Ether.Network) -  Ether.Network是一个开源网络库，允许开发人员通过TCP / IP协议创建简单，快速和可扩展的套接字服务器或客户端应用程序.
 * [EventFlow](https://github.com/eventflow/EventFlow) -  Async /等待.NET的第一个CQRS + ES和DDD框架.
 * [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files.
 * [ExtCore](https://github.com/ExtCore) - 基于ASP.NET Core 1.0创建模块化和可扩展Web应用程序的免费，开源和跨平台框​​架.
@@ -93,7 +93,7 @@
 * [Halibut](https://github.com/OctopusDeploy/Halibut) - 使用基于SSL的JSON-RPC的.NET安全通信堆栈.
 * [MagicOnion](https://github.com/neuecc/MagicOnion) - 适用于.NET，.NET Core和Unity的基于gRPC的HTTP / 2 RPC流式处理框架.
 * [MassTransit](https://github.com/MassTransit/MassTransit) -  .NET分布式应用程序框架. 
-* [microdot](https://github.com/gigya/microdot) - An open source .NET microservices framework.
+* [microdot](https://github.com/gigya/microdot) - 开源.NET微服务框架.
 * [MoreLINQ](https://github.com/morelinq/MoreLINQ) -  LINQ to Objects的扩展.
 * [Nancy](https://github.com/NancyFx/Nancy) - 用于在.NET和Mono上构建基于HTTP的服务的轻量级，低仪式框架.
 * [opencvsharp](https://github.com/shimat/opencvsharp) -  OpenCV的.NET Framework包装器.
@@ -150,7 +150,7 @@
 * [Nethermind](https://github.com/NethermindEth/nethermind) -  .NET Core以太坊客户端
 * [StratisBitcoinFullNode](https://github.com/stratisproject/StratisBitcoinFullNode) - Simple and affordable end-to-end solutions for development, testing and deployment of native C# blockchain applications on the .Net framework.
 * [Trezor.Net](https://github.com/MelbourneDeveloper/Trezor.Net) - Cross platform C# library for talking to the Trezor Hardwarewallet
-* [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - 以隐私为中心，符合ZeroLink标准的比特币钱包.
+* [WalletWasabi](https://github.com/zkSNACKs/WalletWasabi) - 以隐私为重点，符合ZeroLink标准的比特币钱包.
 
 ### Bot
 * [BotSharp](https://github.com/SciSharp/BotSharp) - The Open Source AI Chatbot Platform Builder in 100% C# Running in .NET Core with Machine Learning algorithm.
@@ -190,7 +190,7 @@
 * [Stack Exchange Redis](https://github.com/StackExchange/StackExchange.Redis) - High performance general purpose redis client for .NET languages (C# etc).
 
 ### CMS
-* [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - 令人敬畏的CMS Core是一个开源CMS，使用ASP.Net Core和ReactJS构建，考虑到模块分离问题，并提供最新的技术趋势，如.Net Core，React，Webpack，SASS，后台作业，消息队列.
+* [Awesome-CMS-Core](https://github.com/SaiGonSoftware/Awesome-CMS-Core) - 令人敬畏的CMS Core是一个开源CMS，使用ASP.Net Core和ReactJS构建，考虑到模块分离问题，并提供最新的技术趋势，如.Net Core，React，Webpack，SASS，后台作业，Message Queue.
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) -  ASP.NET应用程序提供常见的博客功能.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry)   - 开源.NET Core CMS和模块化应用程序框架.  代码优先，不引人注目且可扩展.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - 我们正在实时编码流中处理的简单ASP.NET核心wiki.
@@ -212,7 +212,7 @@
   * [StyleCopAnalyzers](https://github.com/DotNetAnalyzers/StyleCopAnalyzers) - 使用.NET编译器平台的StyleCop规则.
 *指标
   * [AppMetrics](https://github.com/alhardy/AppMetrics) -  App Metrics是一个开源和跨平台的.NET库，用于记录和报告应用程序中的指标并报告其健康状况.
-  * [Audit.NET](https://github.com/thepirat000/Audit.NET) - 审核.NET对象更改的小框架.
+  * [Audit.NET](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
   * [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - 强大的.NET库，用于基准测试.
   * [coverlet](https://github.com/tonerdo/coverlet) - 用于.NET Core的跨平台代码覆盖库.
   * [Foundatio](https://github.com/exceptionless/Foundatio#metrics) - 内存，redis，StatsD和Metrics.NET实现中的通用接口.
@@ -235,7 +235,7 @@
 ### Compilers, Transpilers and Languages
 * [Fable](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler.
 * [fparsec](https://github.com/stephan-tolksdorf/fparsec) - A parser combinatory library for F# and C#.
-* [IL2C](https://github.com/kekyo/IL2C) - A translator for ECMA-335 CIL/MSIL to C language.
+* [IL2C](https://github.com/kekyo/IL2C) -  ECMA-335 CIL / MSIL到C语言的翻译.
 * [Mond](https://github.com/Rohansi/Mond) - A dynamically typed scripting language written in C# with a REPL, debugger, and simple embedding API.
 * [peachpie](https://github.com/peachpiecompiler/peachpie) -  .NET的开源PHP编译器.
 * [Pidgin](https://github.com/benjamin-hodgson/Pidgin) - A lightweight, fast and flexible parsing library for C#, developed at Stack Overflow.
@@ -312,7 +312,7 @@
 ### Exceptions
 * [Demystifier](https://github.com/benaadams/Ben.Demystifier) - 对堆栈跟踪的高性能理解（使错误日志更高效）.
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - 无异常的.NET客户端
-* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) - GlobalExceptionHandlerDotNet allows you to configure exception handling as a convention with your ASP.NET Core application pipeline as opposed to explicitly handling them within each controller action.
+* [GlobalExceptionHandlerDotNet](https://github.com/JosephWoodward/GlobalExceptionHandlerDotNet) -  GlobalExceptionHandlerDotNet允许您将异常处理配置为ASP.NET Core应用程序管道的约定，而不是在每个控制器操作中显式处理它们.
 
 ### Functional Programming
 * [CSharpFunctionalExtensions](https://github.com/vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.
@@ -345,7 +345,7 @@
 ### GUI
 * [Avalonia](https://github.com/AvaloniaUI/Avalonia) - 多平台.NET UI框架（以前称为Perspex）.
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - 基于Avalonia的文本编辑器组件分叉 [AvalonEdit](https://github.com/icsharpcode/AvalonEdit)
-* [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) - 库在控制台程序中创建进度条
+* [ShellProgressBar](https://github.com/Mpdreamz/shellprogressbar) - library to create progress bars in console programs
 * [Qml.Net](https://github.com/pauldotknopf/Qml.Net) - 用于Mono / .NET / .NET Core的跨平台Qml / .NET集成.
 * [WinApi](https://github.com/prasannavl/WinApi) - 一个简单，直接，超薄的CLR库，用于高性能Win32 Native Interop，具有自动化，窗口，DirectX，OpenGL和Skia助手.
 
@@ -365,7 +365,7 @@
 ### IOC
 * [AutoDI](https://github.com/Keboo/AutoDI) - 使用IL编织的超快编译时依赖注入.
 * [Autofac](https://github.com/autofac/Autofac) - 上瘾的.NET IoC容器.
-* [Castle.Windsor](https://github.com/castleproject/Windsor) Castle Windsor is a best of breed, mature Inversion of Control container available for .NET.
+* [Castle.Windsor](https://github.com/castleproject/Windsor) Castle Windsor是适用于.NET的最佳品牌，成熟的Inversion of Control容器.
 * [DryIoc](https://github.com/dadhi/DryIoc) - 快速，小巧，功能齐全的IoC Container for .NET.
 * [Grace](https://github.com/ipjohnson/Grace) -  Grace是一款功能丰富的依赖注入容器，其设计考虑了易用性和性能.
 * [Inyector](https://github.com/davidrevoledo/Inyector) -  AspNetCore的依赖注入自动化 
@@ -398,7 +398,7 @@
 * [SiaNet](https://github.com/SciSharp/SiaNet) - A C# deep learning library, human friendly, CUDA/OpenCL supported, well structured, easy to extend 
 
 ### Mail
-* [FluentEmail](https://github.com/lukencode/FluentEmail) -  .NET和.NET Core的一体化电子邮件发件人
+* [FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET and .NET Core
 * [MailBody](https://github.com/doxakis/MailBody) - 使用流畅的界面（.NET）创建交易电子邮件.
 * [MailKit](https://github.com/jstedfast/MailKit) - 用于IMAP，POP3和SMTP的跨平台.NET库.
 * [MailMergeLib](https://github.com/axuno/MailMergeLib) -  SMTP邮件客户端库，为文本，内联图像和附件提供舒适的邮件合并功能，以及发送邮件的良好吞吐量和容错能力.
@@ -469,7 +469,7 @@
   * [Guard](https://github.com/safakgur/guard) - 高性能，可扩展的参数验证库.
   * [Valit](https://github.com/valit-stack/Valit)   -  .NET Core的简单验证.  代码周围不再有if语句.  写一些漂亮而干净的流利验证器吧！
 * [warden-stack](https://github.com/warden-stack)   - 针对您的应用程序，资源和基础架构的“健康检查”.  让守望者守在手表上.
-* [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) - ASP.NET Core Progressive Web Apps.
+* [WebEssentials.AspNetCore.ServiceWorker](https://github.com/madskristensen/WebEssentials.AspNetCore.ServiceWorker) -  ASP.NET核心渐进式Web应用程序.
 * [Xabe.FFmpeg](https://github.com/tomaszzmuda/Xabe.FFmpeg) - .NET Standard wrapper for FFmpeg. It allows to process media without know how FFmpeg works, and can be used to pass customized arguments to FFmpeg from C# application.
 * [YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - 用于提取元数据和下载Youtube视频和播放列表的终极库.
 
@@ -560,7 +560,7 @@
 ### SDKs
 * [AWS SDK](https://github.com/aws/aws-sdk-net)   -  Amazon Web Services（AWS）.NET Core SDK组件.  每个AWS服务都有自己的NuGet包.
 * [azure-event-hubs-dotnet](https://github.com/azure/azure-event-hubs-dotnet) -  Azure事件中心的.NET标准客户端库.
-* Blockchain clients
+*区块链客户
   * [Bittrex.Net](https://github.com/JKorf/Bittrex.Net) - C# .Net wrapper for the Bittrex web API including all features easily accessible and usable.
   * [Binance.Net](https://github.com/JKorf/Binance.Net) -  Binance Web API的.Net API包装器.
 * [CakeMail.RestClient](https://github.com/Jericho/CakeMail.RestClient)   -  CakeMail API的客户端.  允许您发送交易电子邮件，批量电子邮件，管理列表和联系人等.
@@ -605,7 +605,7 @@
 * [bond](https://github.com/Microsoft/bond)   - 用于处理模式化数据的跨平台框架.  它支持跨语言的序列化和强大的通用机制，可以有效地处理数据.  Bond广泛用于Microsoft的高规模服务.
 * [Channels](https://github.com/davidfowl/Channels) - 基于推送的.NET Streams.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - 用于帮助读写CSV文件的库.
-* [Edi.Net](https://github.com/indice-co/EDI.Net) - EDI Serializer/Deserializer. Supports EDIFact, X12 and TRADACOMS format.
+* [Edi.Net](https://github.com/indice-co/EDI.Net)   -  EDI串行器/解串器.  支持EDIFact，X12和TRADACOMS格式.
 * [ExtendedXmlSerializer](https://github.com/wojtpl2/ExtendedXmlSerializer) - 用于.NET的扩展Xml Serializer.
 * [Jil](https://github.com/kevin-montrose/Jil) - 基于Sigil构建的快速.NET JSON（De）串行器.
 * MessagePack 
@@ -697,7 +697,7 @@
 
 ### Web Socket
 * [Fleck](https://github.com/statianzo/Fleck) - Fleck is a WebSocket server implementation in C#. Fleck requires no inheritance, container, or additional references.
-* [SignalR Server](https://github.com/aspnet/signalr) - Real-time web functionality for web apps, including server-side push.
+* [SignalR Server](https://github.com/aspnet/signalr) -  Web应用程序的实时Web功能，包括服务器端推送.
 * [SuperSocket](https://github.com/kerryjiang/SuperSocket) - 轻量级，跨平台和可扩展的套接字服务器应用程序框架.
 * [WampSharp](https://github.com/Code-Sharp/WampSharp) - C# implementation of [The Web Application Messaging Protocol](http://wamp-proto.org/) - 提供远程过程调用和通过WebSockets发布/订阅的消息传递模式的协议.
 * [websocket-manager](https://github.com/radu-matei/websocket-manager) -  ASP .NET Core的实时库.
@@ -718,7 +718,7 @@
 ## Starter Kits
 * [Arch](https://github.com/Arch) -  .NET Core库的集合，由嵌入.NET Core中所有新东西的软件架构师创建.
   * [AutoHistory](https://github.com/Arch/AutoHistory) -  Microsoft.EntityFrameworkCore的插件，支持自动记录数据更改历史记录.
-* [AspNetCore-Angular2-Universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal) - 跨平台 - 用于SEO，Bootstrap，i18n国际化（ngx-translate），Webpack，TypeScript，带Karma的单元测试，WebAPI REST设置，SignalR，Swagger文档等的服务器端呈现！
+* [AspNetCore-Angular2-Universal](https://github.com/MarkPieszak/aspnetcore-angular2-universal) - 跨平台 - 具有服务器端呈现的SEO，Bootstrap，i18n国际化（ngx-translate），Webpack，TypeScript，单元测试w / Karma，WebAPI REST设置，SignalR，Swagger文档等等！
 * [ASP.NET Core Starter Kit](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
 * [aspnetcore-spa generator](https://github.com/aspnet/JavaScriptServices) -  Yeoman生成器构建一个全新的ASP.NET Core单页面应用程序，在客户端上使用Angular 2 / React / React和Redux / Knockout / Aurelia.
 * [ASP.Net Core Vue Starter](https://github.com/MarkPieszak/aspnetcore-Vue-starter) -  Asp.NETCore 2.0 Vue 2（ES6）SPA入门套件，包含路由，Vuex等！
@@ -726,15 +726,16 @@
 * [dotNetify](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.
 * [generator-aspnet](https://github.com/OmniSharp/generator-aspnet) - 用于ASP.NET Core的yo生成器.
 * [Nucleus](https://github.com/alirizaadiyahsi/Nucleus) -  Vue启动应用程序模板，在后端使用ASP.NET Core API分层体系结构和基于JWT的身份验证
-* [react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate) - 使用ASP.NET Core 1构建同构React应用程序的起点，利用现有技术.
+* [react-aspnet-boilerplate](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
 * [saaskit](https://github.com/saaskit/saaskit) - 用于构建SaaS应用程序的开发人员工具包.
+* [serverlessDotNetStarter](https://github.com/pharindoko/serverlessDotNetStarter) 用于在基于无服务器框架的AWS云中开发和部署lambda函数的入门工具包.
 
 ## Sample Projects
 *微服务和服务网格
   * [coolstore-microservices ](https://github.com/vietnam-devs/coolstore-microservices) - 使用Istio服务网格的基于Kubernetes的多语言微服务应用程序
   * [distributed-playground](https://github.com/jvandevelde/distributed-playground) - 分布式服务游乐场，包括Vagrant，Consul，Docker和ASP.NET Core.
   * [DNC-DShop](https://github.com/devmentors)   - 分布式.NET Core项目和免费课程.  （DDD，CQRS，RabbitMQ，MongoDB，Redis，监控，记录，CI，CD）
-  * [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) - 使用.NET Core（EF Core，MediatR，Marten，Eureka，Ocelot，RabbitMQ，Polly，ElasticSearch，Dapper）和博客文章系列在微服务架构中制作的简化保险销售系统.
+  * [dotnetcore-microservices-poc](https://github.com/asc-lab/dotnetcore-microservices-poc) -  simplified insurance sales system made in a microservices architecture using .NET Core (EF Core, MediatR, Marten, Eureka, Ocelot, RabbitMQ, Polly, ElasticSearch, Dapper) with blog post series.
   * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - 基于微服务架构和容器的参考应用.
   * [InMemoryCQRSReplication](https://github.com/Aaronontheweb/InMemoryCQRSReplication) -  Akka.NET参考架构 -  CQRS + Sharding +内存中复制
   * [magazine-website](https://github.com/thangchung/magazine-website) - 杂志网站（使用.NET Core，ASP.NET Core，EF Core），应用DDD，CQRS，微服务，异步编程.
@@ -744,7 +745,7 @@
   * [AlbumViewerVNext](https://github.com/RickStrahl/AlbumViewerVNext) -  West Wind Album Viewer ASP.NET 5示例.
   * [allReady](https://github.com/HTBox/allReady) - 开源解决方案的重点是提高当地社区人道主义和灾害响应组织提供的准备活动的意识，效率和影响. [http://www.htbox.org/projects/allready](http://www.htbox.org/projects/allready)
   * [AspNet5GeoElasticsearch](https://github.com/damienbod/AspNet5GeoElasticsearch) -  ASP.NET Core MVC Geo Elasticsearch Swashbuckle Swagger.
-  * [aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - 使用ASP.NET Core实现服务发现模式的示例.
+  * [aspnet-servicediscovery-patterns](https://github.com/cecilphillip/aspnet-servicediscovery-patterns) - Samples of implementing Service Discovery patterns with ASP.NET Core.
   * [AspNetAuthorizationWorkshop](https://github.com/blowdart/AspNetAuthorizationWorkshop) - 一个研讨会，用于浏览ASP.NET核心授权中的各个新部分
   * [BikeSharing360 Suite of Apps from Microsoft](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/) 发布了12月Connect 2016大会，这是一套针对企业用户和消费者（自行车骑手）的一套复杂的互通应用程序： [Mobile Apps](https://github.com/Microsoft/BikeSharing360_MobileApps), [Backend Services](https://github.com/Microsoft/BikeSharing360_BackendServices), [Websites](https://github.com/Microsoft/BikeSharing360_Websites), [Single Container Apps](https://github.com/Microsoft/BikeSharing360_SingleContainer), [Multi Container Apps](https://github.com/Microsoft/BikeSharing360_MultiContainer), [Cognitive Services Kiosk App](https://github.com/Microsoft/BikeSharing360_CognitiveServicesKioskApp),
  [Azure Bot App](https://github.com/Microsoft/BikeSharing360_BotApps).
@@ -766,7 +767,7 @@
   * [PhotoGallery](https://github.com/chsakell/aspnet5-angular2-typescript) - 使用ASP.NET Core，Angular 2和TypeScript的跨平台单页应用程序 [http://wp.me/p3mRWu-11L](http://wp.me/p3mRWu-11L).
   * [Practical ASP.NET Core](https://github.com/dodyg/practical-aspnetcore) - 每日更新的ASP.NET核心功能和设施的微量样本.
   * [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - 使用Clean Architecture的原始SQL和DDD的.NET Core REST API CQRS实现.
-  * [StarWars](https://github.com/JacekKosciesza/StarWars) - 使用GraphQL for .NET，ASP.NET Core，Entity Framework Core的GraphQL“星球大战”示例.
+  * [StarWars](https://github.com/JacekKosciesza/StarWars) - GraphQL 'Star Wars' example using GraphQL for .NET, ASP.NET Core, Entity Framework Core.
  
 ## Articles
 * 基础知识

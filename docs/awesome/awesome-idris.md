@@ -29,6 +29,7 @@
 * [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/)
 * [Programming in Martin-Löf's Type Theory](http://www.cse.chalmers.se/research/group/logic/book/book.pdf)
 * [Software Foundations](https://idris-hackers.github.io/software-foundations/pdf/sf-idris-2018.pdf) - 回购是 [here](https://github.com/idris-hackers/software-foundations).
+* [Gentle Introduction to Dependent Types with Idris](https://leanpub.com/gidti)
 
 ### Papers
 

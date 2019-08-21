@@ -22,7 +22,7 @@
 - [Generative Design](http://www.generative-gestaltung.de/) - 使用Processing进行可视化，编程和创建.
 - [The Nature of Code](http://natureofcode.com/) - 使用Processing模拟自然系统.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - 实际介绍平面设计的新基础.
-- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - Series of tutorials on using OpenGL to do graphical rendering.
+- [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 使用OpenGL进行图形渲染的系列教程.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - 面向程序员，视觉艺术家或设计师的openFrameworks初学者指南.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) -  openFrameworks的高级深度指南.
@@ -93,6 +93,7 @@
 - [thi.ng](http://thi.ng/)
 [跨平台]  - 用于Clojure和ClojureScript语言的开源计算设计工具集合
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]  - 开源，现场图形，Swift框架，由Metal提供支持.
+- [OPENRNDR](https://openrndr.org/) [跨平台]  - 用Kotlin编写的创意编码的开源库.
 
 ### Visual Programming Languages
 
@@ -149,11 +150,11 @@
 - [Modul8](http://www.modul8.ch/) [Mac]  - 实时视频混合和合成.
 - [Resolume](https://resolume.com/) [Mac，Win]  - 实时混合数字视频和效果.
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac]  -  VJ软件，专为实时高清视频混合和合成而设计，具有模块化用户界面.
-- [VirtualMapper](https://github.com/baku89/VirtualMapper) - 用于投影映射的实时预览工具.
+- [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
 
 ### Online
 
-- [Shadertoy](https://www.shadertoy.com/) - 与世界构建和共享着色器并获得灵感.
+- [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
 - [GLSLbin](http://glslb.in/) - 碎片着色器沙箱，支持glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - 在线着色器编辑器和库.
 - [Shdr Editor](http://shdr.bkcore.com/) - 在线着色器编辑器.
@@ -220,7 +221,7 @@
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) - 使用three.js介绍WebGL.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - ÍñigoQuílez收集现场编码视频.
-- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -  Bruno Imbrizi在WebExpo 2016上使用帆布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
+- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者研讨会.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - 关于创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) - 谈谈技术型艺术家如何在财务上做到这一点.
@@ -261,7 +262,7 @@
 - [On ray casting, ray tracing, ray marching and the like](http://www.hugi.scene.org/online/hugi37/hugi%2037%20-%20coding%20adok%20on%20ray%20casting,%20ray%20tracing,%20ray%20marching%20and%20the%20like.htm)  - 标题说明了一切.  Adok介绍.
 - [Sun and Black Cat](http://sunandblackcat.com/other.php?l=eng) - 关于着色器和其他计算机图形相关主题的文章.
 - [Writing a small software renderer](http://blog.simonrodriguez.fr/articles/18-02-2017_writing_a_small_software_renderer.html) - 非常好的介绍基本软件渲染的工作原理.
-- [WebGL Tutorials](http://www.webgltutorials.org/) - Website with a really good collection of WebGL tutorials.
+- [WebGL Tutorials](http://www.webgltutorials.org/) - 网站上有很好的WebGL教程.
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - 关于如何创建几何对象的初学者介绍.
 - [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/)   - 了解如何使用three.js将正弦波添加到圆圈中.  （[oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - 关于WebGL，Three.js和Three.bas的系列教程.
@@ -402,7 +403,7 @@
 - [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) -  Greg Tatum对矩阵的介绍.
 - [Making Things With Maths](https://acko.net/tv/wdcode/) - 由Steven Wittens谈论bezier曲线，程序生成，物理引擎和分形.
 - [MyPhysicsLab](https://www.myphysicslab.com/) - 交互式实时物理模拟，配方器和代码.
-- [Intuitive Math](https://intuitive-math.club/) - 线性代数和几何等字段的解释，旨在帮助您为正在发生的事情建立视觉直觉.
+- [Intuitive Math](https://intuitive-math.club/) - 对“线性代数”和“几何”等字段的解释，旨在帮助您为正在发生的事情制定视觉直觉.
 - [L-systems](https://github.com/arendsee/lsystems) - 用于L系统的Haskell包.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - 线性插值简介（也称为mix / lerp）.
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - 关于游戏数学向量的深入文章.
@@ -489,7 +490,7 @@
 ## Related
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) - 精选的OpenGL库，调试器和资源的精选列表.
-- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+- [Awesome webgl](https://github.com/sjfricke/awesome-webgl) - 精选WebGL库，资源等的精选列表.
 - [Awesome canvas](https://github.com/raphamorim/awesome-canvas) - 精选HTML5画布的精选列表，包括示例，相关文章和帖子.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) - 关于音频可视化的策划列表.
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选的计算机视觉资源列表.

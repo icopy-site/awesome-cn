@@ -213,6 +213,7 @@
 - [EtreCheck](http://etrecheck.com)   - 输出系统信息和配置，以获得Apple支持专业人员的更多信息帮助.  [！[开源软件] [OSS图标]]（https://github.com/etresoft/EtreCheck）！[免费软件] [免费软件图标]
 - [Fanny](http://fannywidget.com/)   - 通知中心小部件和菜单栏应用程序，用于监控Mac的风扇和CPU温度.  [！[开源软件] [OSS图标]]（https://github.com/DanielStormApps/Fanny）！[免费软件] [免费软件图标]
 - [Finicky](https://johnste.github.io/finicky/)   - 允许您设置规则的应用程序，用于决定为每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
+- [Flotato](https://flotato.com/) - 将任何网站用作漂亮的Mac应用程序.
 - [Fluid](http://fluidapp.com/) - 将Web应用程序转换为Mac应用程序.
 - [gfxCardStatus](https://gfx.io/)   - 菜单栏应用程序，用于监控和切换MacBook Pro上的集成和独立GPU.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
 - [Gray](https://github.com/zenangst/Gray)   - 只需点击一下按钮，即可在每个应用程序的基础上选择浅色外观和深色外观.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]

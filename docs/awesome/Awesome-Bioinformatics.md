@@ -83,7 +83,7 @@
 
 ### Sequence Alignment
 
-__De新对齐___
+__新对齐___
 
 __DNA重新测序___
 
@@ -163,6 +163,7 @@ __DNA重新测序___
 * __[PHAT](https://github.com/chgibb/PHAT)__  - 指向并单击，跨平台套件，用于分析和可视化下一代测序数据集.
 * __[pileup.js](https://github.com/hammerlab/pileup.js)__  - 可用于生成交互式和高度可定制的基于Web的基因组浏览器的JavaScript库.
 * __[scribl](https://github.com/chmille4/Scribl)_ _  - 用于绘制基于画布的基因图的JavaScript库.  该 [Homepage](http://chmille4.github.io/Scribl/) 有例子.
+* __[Lucid Align](https://lucidalign.com/)__  - 现代序列比对查看器
 
 ### Circos Related
 
@@ -186,7 +187,7 @@ __DNA重新测序___
 * [A 10-Step Guide to Party Conversation For Bioinformaticians](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2013-14-1-104) - 这是一个循序渐进的指南，介绍如何向不参与该领域的人传达概念，当被问到这样的问题时：“那么，你做了什么？”
 * [A History Of Bioinformatics (In The Year 2039)](https://www.youtube.com/watch?v=uwsjwMO-TEA) -  C. Titus Brown谈到他从2039年开始回顾生物信息学的一次演讲.他的笔记可以在这里找到 [here](http://ivory.idyll.org/blog/2014-bosc-keynote.html).
 * [A farewell to bioinformatics](http://madhadron.com/posts/2012-03-26-a-farewell-to-bioinformatics.html) - 对生物信息学状态的批判性观点.
-* [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) -  Keith Bradnam博士“认为向一群着名的生物信息学家提出一系列简单的问题以评估他们对当前生物信息学研究状况的感受可能是有益的，并且可能会得到他们对他们有用的东西的任何提示.生物信息学的职业生涯.“
+* [A Series of Interviews with Notable Bioinformaticians](http://www.acgt.me/blog/2014/3/25/101-questions-a-new-series-of-interviews-with-notable-bioinformaticians) -  Keith Bradnam博士“认为向一群着名的生物信息学家提出一系列简单的问题以评估他们对生物信息学研究现状的看法可能是有益的，并且可能会得到关于对他们有用的东西的任何提示.生物信息学的职业生涯.“
 * [Open Source Society University on Bioinformatics](https://github.com/ossu/bioinformatics) - 希望通过世界上最好的大学免费完成自己时间的生物信息学课程的人们的坚实途径.
 * [Rosalind](http://rosalind.info/) - 罗莎琳德是一个通过解决问题来学习生物信息学的平台.
 * [A guide for the lonely bioinformatician](http://www.opiniomics.org/a-guide-for-the-lonely-bioinformatician/) - 本指南面向生物信息学家，旨在指导他们实现更好的职业发展.
@@ -226,7 +227,7 @@ __DNA重新测序___
 
 ### Blogs
 
-* [ACGT](http://www.acgt.me/) -  Keith Bradnam博士撰写了关于生物学，基因组学和人类对生物信息学的伪造使用对人类的持续威胁的想法.
+* [ACGT](http://www.acgt.me/) -  Keith Bradnam博士撰写了关于生物学，基因组学和人类对生物信息学的虚假使用的持续威胁的想法.
 * [Opiniomics](http://www.opiniomics.org/) -  Mick Watson博士撰写了关于生物信息学，基因组和生物学的文章.
 * [Bits of DNA](https://liorpachter.wordpress.com/) -  Lior Pachter博士撰写关于计算生物学的评论和评论.
 * [it is NOT junk](http://www.michaeleisen.org/blog/) -  Michael Eisen博士写了“关于基因组，DNA，进化，开放科学，棒球和其他重要事物的博客”
@@ -234,7 +235,7 @@ __DNA重新测序___
 ### Miscellaneous
 
 * [The Leek group guide to genomics papers](https://github.com/jtleek/genomicspapers/) - 专业策划的基因组学论文，以加快基因组学，RNA-seq，统计学（用于基因组学），软件开发等方面的速度.
-* [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) - “本文介绍了数百个免费视频课程的目录，这些课程对于那些希望扩展生物信息学和计算生物学知识的人来说具有潜在的兴趣.这些课程分为11个主题领域，模仿大学系，并附有评论和职业建议. “
+* [A New Online Computational Biology Curriculum](https://doi.org/10.1371/journal.pcbi.1003662) - “本文介绍了数百个免费视频课程的目录，这些课程对于那些希望扩展生物信息学和计算生物学知识的人来说具有潜在的兴趣.这些课程分为11个学科领域，模仿大学系，并附有评论和职业建议. “
 * [How Perl Saved the Human Genome Project](http://www.foo.be/docs/tpj/issues/vol1_2/tpj0102-0001.html) -  Lincoln D. Stein关于Perl编程语言在人类基因组计划中的重要性的轶事.
 * [Educational Papers from Nature Biotechnology and PLoS Computational Biology](https://liacs.leidenuniv.nl/~hoogeboomhj/mcb/nature_primer.html) - 关于计算生物学和生物信息学中使用的各种方法的引物和简短教育文章的链接页.
 * [The PeerJ Bioinformatics Software Tools Collection](https://peerj.com/collections/45-bioinformatics-software/) - 收集由Keith Crandall和Claus White策划的工具，旨在整理PeerJ中最有趣，最具创新性和相关性的生物信息学工具文章.

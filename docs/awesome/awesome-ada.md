@@ -222,6 +222,7 @@
 - [world-cup-sokerban](https://github.com/fastrgv/WorldCupSokerban) - 这是一款以Windows，Mac OS-X和GNU Linux运行的足球主题3D推箱子益智游戏.
 - [pasta](http://pasta.phyrama.com/)  - 意大利面条！  是一个“匹配-3”类型的游戏.
 - [buttons](https://github.com/andreacervetti/buttons) - 简单的Gtkada Button Mania游戏.
+- [mine-detector](https://github.com/jrcarter/Mine_Detector) - 探雷器：一种从不需要猜测的探雷游戏.
 
 
 ## Frameworks
@@ -347,7 +348,7 @@
 - [increment](https://github.com/reznikmm/increment) - 该软件包提供增量分析算法和相关数据结构.
 
 #### Patterns
-- [ada-promises](https://github.com/briot/Ada-promises)   - 在Ada中实施承诺.  类型安全，高效，线程安全.
+- [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - 作业的任务池系统.
 - [rxada](https://github.com/mosteo/rxada) -  Ada 2012实施Rx方法.
 
@@ -538,7 +539,7 @@
 - [ada-libsecret](https://github.com/stcarrez/ada-libsecret) - 用于libsecret库的Ada绑定.
 - [ada-bfd](https://github.com/stcarrez/ada-bfd)   -  Ada BFD是GNU Binutils BFD库的Ada绑定.  它允许使用GNU BFD读取二进制ELF，COFF文件.
 - [boehmgc-ada](https://github.com/ytomino/boehmgc-ada) -  Ada绑定到Boehm-Demers-Weiser保守的垃圾收集器.
-- [player-ada](https://github.com/mosteo/player-ada) - Ada bindings for the player robotic platform.
+- [player-ada](https://github.com/mosteo/player-ada) - 玩家机器人平台的Ada绑定.
 - [dl-ada](https://github.com/mosteo/dl-ada) - 与libdl的最小绑定.
 - [ada-nanovg](https://github.com/raph-amiard/ada-nanovg) - 与NanoVG绑定.
 - [free-type-ada](https://github.com/flyx/FreeTypeAda) -  Ada 2005的FreeType绑定.
