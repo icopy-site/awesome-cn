@@ -74,7 +74,7 @@ Some [Content Management System](#content-management-systems-cms) 解决方案�
 - [Gladys](https://gladysproject.com)   -  Gladys是一个开源的家庭助手，在你的Raspberry Pi上运行.  （[Source Code](https://github.com/GladysProject/Gladys)）`MIT``Nodejs`
 - [Headphones](https://github.com/rembo10/headphones)   - 用Python编写的NZB和Torrent自动音乐下载器.  它支持SABnzbd，NZBget，Transmission，μTorrent，Deluge和Blackhole.  `GPL-3.0``Python`
 - [Healthchecks](https://healthchecks.io/)   -  Django应用程序，它会监听ping并在ping延迟时发送警报.  （[Source Code](https://github.com/healthchecks/healthchecks)）`BSD-3-Clause``Python`
-- [Home Assistant](https://home-assistant.io/) - Open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/home-assistant)）`MIT``Python`
+- [Home Assistant](https://home-assistant.io/)   - 开源家庭自动化平台.  （[Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/home-assistant)）`MIT``Python`
 - [homebank-converter](https://github.com/Binnette/homebank-converter)   - 将导出银行文件转换为兼容的Homebank csv的Web应用程序.  （[Demo](http://binnette.github.io/homebank-converter/)）`AGPL-3.0``HTML5`
 - [HRConvert2](https://www.honestrepair.net/index.php/hrconvert2/)   - 拖放文件转换服务器，具有基于会话的身份验证，自动临时文件维护和日志记录功能.  （[Demo](https://www.honestrepair.net/index.php/convert/), [Source Code](https://github.com/zelon88/HRConvert2)）``GPL-3.0``PHP`
 - [Huginn](https://github.com/cantino/huginn)   - 允许您构建代表您监控和操作的代理.  `MIT``Ruby`
@@ -209,7 +209,7 @@ _CalDAV或CardDAV客户._
 - [Synapse](http://matrix.org/docs/projects/server/synapse.html) - 服务器 [Matrix](https://matrix.org/) ，分散持续沟通的开放标准.  （[Source Code](https://github.com/matrix-org/synapse)）`Apache-2.0``Python`
   - [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html)   -  Web客户端旨在展示Matrix功能，并参考Matrix标准的实现.  （[Source Code](https://github.com/matrix-org/matrix-angular-sdk)）`Apache-2.0``Javascript`
   - [Riot.im](http://riot.im)   - 适用于Web，iOS和Android的全功能Matrix客户端.  （[Source Code](https://github.com/vector-im/riot-web)）`Apache-2.0``Javascript`
-- [Syndie](https://www.syndie.de)   -  Syndie是一个用于运行分布式论坛的libre系统.  `CC0-1.0``Java`
+- [Syndie](https://syndie.de)   -  Syndie是一个用于运行分布式论坛的libre系统.  `CC0-1.0``Java`
 - [TextBelt](https://github.com/typpo/textbelt)  `⚠` - 外发短信API，使用特定于运营商的网关免费发送短信，无需广告.  `MIT``Javascript`
 - [Tox](https://tox.chat/)   - 具有音频和视频聊天功能的分布式安全信使.  （[Source Code](https://github.com/irungentoo/toxcore)）``GPL-3.0`` C`
 - [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/)   - 有效的点对点视频聊天.  （[Source Code](https://github.com/trailofbits/tubertc)）`MIT`` Javascript`
@@ -248,7 +248,7 @@ _MTAs / SMTP服务器_
 - [MailHog](https://github.com/mailhog/MailHog)   - 小Golang可执行文件，它运行SMTP MTA网关，接受Web界面中的所有邮件和显示.  用于调试或开发.  `MIT``Go`
 - [OpenSMTPD](https://opensmtpd.org/)   -  OpenBSD项目中的安全SMTP服务器实现.  （[Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)）`ISC``C`
 - [Postfix](http://www.postfix.org/)   - 快速，易于管理和安全的Sendmail替代.  `IPL-1.0``C`
-- [Qmail](http://www.qmail.org/top.html)   - 安全Sendmail替换.  （[Source Code](https://sources.debian.net/src/netqmail/1.06-5/)）`CC0-1.0``C`
+- [Qmail](https://cr.yp.to/qmail.html)   - 安全Sendmail替换.  （[Source Code](https://sources.debian.net/src/netqmail/1.06-5/)）`CC0-1.0``C`
 - [Sendmail](http://www.sendmail.com/sm/open_source/)   - 邮件传输代理（MTA）.  `Sendmail``C`
 - [Slimta](http://slimta.org)   - 基于Python构建的邮件传输库.  （[Source Code](https://github.com/slimta/python-slimta)）`MIT``Python`
 
@@ -367,7 +367,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [Symphony](https://hacpai.com/)   - 用Java编写的现代社区（论坛/ SNS /博客）平台.  （[Source Code](https://github.com/b3log/symphony)）``GPL-3.0``Java`
 - [Talkyard](https://www.talkyard.io/)   - 创建一个社区，您的用户可以在其中提出建议并回答问题.  并进行友好的开放式讨论和聊天（Slack / StackOverflow / Discourse / Reddit / Disqus混合）.  （[Demo](https://www.talkyard.io/forum/latest), [Source Code](https://github.com/debiki/talkyard)）`AGPL-3.0``Scale`
 - [Telescope](http://www.telescopeapp.org/)   - 使用Meteor构建的开源社交新闻应用程序.  （[Demo](http://demo.telescopeapp.org/), [Source Code](https://github.com/TelescopeJS/Telescope)）`MIT``Nodejs`
-- [Tokumei](https://tokumei.co/)   - 匿名微博平台.  （[Demo](https://demo.tokumei.co/), [Source Code](https://gitlab.com/tokumei/tokumei)）`ISC`` rc`
+- [Tokumei](https://tokumei.co/)   - 匿名微博平台.  （[Source Code](https://gitlab.com/tokumei/tokumei)）`ISC`` rc`
 - [Thredded](https://thredded.org)   - 论坛，功能丰富，简单.  （[Demo](https://thredded.org/thredded), [Source Code](https://github.com/thredded/thredded)）`MIT``Ruby`
 - [twister](http://twister.net.co/)   - 完全分散的P2P微博平台，利用比特币和BitTorrent协议的自由软件实现.  （[Source Code](https://github.com/miguelfreitas/twister-core)）`MIT`` C ++`
 - [Vanilla Forums](https://vanillaforums.org/)   - 简单灵活的论坛软件.  （[Source Code](https://github.com/vanilla/vanilla)）``GPL-2.0``PHP`
@@ -450,7 +450,6 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [Redaxscript](https://redaxscript.com)   - 用于MySQL，SQLite和PostgreSQL的超轻量级CMS.  （[Demo](https://demo.redaxscript.com/login), [Source Code](https://github.com/redaxmedia/redaxscript)）``GPL-3.0``PHP`
 - [Roadiz](https://www.roadiz.io/)   - 基于节点系统的现代CMS，可以处理多种类型的服务.  （[Source Code](https://github.com/roadiz/roadiz)）`MIT`` PHP`
 - [SilverStripe](https://www.silverstripe.org)   - 易于使用的CMS与强大的MVC框架底层.  （[Demo](http://demo.silverstripe.org/), [Source Code](https://github.com/silverstripe)）`BSD-3-Clause``PHP`
-- [Sphido](http://www.sphido.org/)   - 用于PHP的快速，轻量级平面文件CMS.  （[Source Code](https://github.com/sphido/cms)）`MIT`` PHP`
 - [SPIP](http://www.spip.net/fr)   - 互联网出版系统，旨在协作工作，多语言环境和网络作者的简单使用.  （[Source Code](https://core.spip.net/projects/spip/repository)）``GPL-2.0``PHP`
 - [Squidex](http://squidex.io)   - 无头CMS，基于MongoDB，CQRS和事件采购.  （[Demo](http://cloud.squidex.io), [Source Code](https://github.com/Squidex/squidex)）`MIT``.NET`
 - [Strapi](https://strapi.io/)   - 最先进的开源内容管理框架（headless-CMS），可以毫不费力地构建功能强大的API.  （[Source Code](https://github.com/strapi/strapi)）`MIT``Nodejs`
@@ -561,7 +560,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
 - [Sismics Reader](http://sismics.com/reader/)   - 免费和开源的阅读器，包括所有主要的谷歌阅读器功能.  （[Demo](https://www.sismics.com/reader/#!/demo), [Source Code](https://github.com/sismics/reader)）``GPL-2.0``Java`
 - [Stringer](https://github.com/swanson/stringer)   - 正在进行中的自我托管，反社会RSS阅读器.  `MIT``Ruby`
 - [Temboz](https://github.com/fazalmajid/temboz)   - 双列馈送阅读器强调过滤功能，以管理信息过载.  `MIT``Python`
-- [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss)   - 基于Web的开源新闻源（RSS / Atom）阅读器和聚合器.  （[Demo](http://framanews.org/)）``GPL-3.0``PHP`
+- [Tiny Tiny RSS](https://tt-rss.org)   - 基于Web的开源新闻源（RSS / Atom）阅读器和聚合器.  （[Demo](http://framanews.org/), [Source Code](https://git.tt-rss.org/fox/tt-rss)）``GPL-3.0``PHP`
   - [gritttt-rss](http://gritttt-rss.nicolashoening.de/)   -  Tiny Tiny RSS的更多功能.  （[Source Code](https://github.com/nhoening/gritttt-rss)）`BSD-2-Clause``Python`
   - [ttrss-mobile](https://github.com/mboinet/ttrss-mobile)   -  Tiny Tiny RSS的移动webapp.  `AGPL-3.0``Javascript`
   - [ttrss-reader](https://github.com/kucrut/ttrss-reader)   -  TTRSS的轻量级和响应式客户端.  `GPL-2.0``Javascript`
@@ -605,7 +604,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 - [instant.io](https://github.com/feross/instant.io)   - 通过WebTorrent进行流式文件传输.  （[Demo](https://instant.io)）`MIT``Nodejs`
 - [Magnetico](https://github.com/boramalper/magnetico)   -  Magnetico是第一个专为最终用户设计的自主（自托管）BitTorrent DHT搜索引擎套件.  `AGPL-3.0``Python`
 - [Magnetissimo](https://github.com/sergiotapia/magnetissimo)   - 搜索引擎，索引所有流行的torrent网站.  `MIT``Elixir`
-- [Opentracker](http://erdgeist.org/arts/software/opentracker/)   - 开放和免费的bittorrent跟踪器.  它旨在最小化资源使用，并打算在您的wlan路由器上运行.  （[Source Code](http://erdgeist.org/gitweb/opentracker/)）`啤酒软件``C`
+- [Opentracker](http://erdgeist.org/arts/software/opentracker/)   - 开放和免费的bittorrent跟踪器.  它旨在最小化资源使用，并打算在您的wlan路由器上运行.  （[Source Code](http://erdgeist.org/gitweb/opentracker/)) `Beerware` `C`
 - [peerflix-server](https://github.com/asapach/peerflix-server)   - 下载torrent文件并提供直接链接下载或直接链接流.  `MIT``Nodejs`
 - [qBittorrent](https://www.qbittorrent.org/)   - 免费的跨平台bittorrent客户端，具有用于远程访问的功能丰富的Web UI.  （[Source Code](https://github.com/qbittorrent/qBittorrent)) `GPL-2.0` `C++`
 - [rartracker](https://github.com/swetorrentking/rartracker)   - 完整的私人bittorrent跟踪器.  `WTFPL``PHP`
@@ -679,7 +678,7 @@ _Games，游戏服务器和控制面板._
 - [battlecraft](https://github.com/jbreindel/battlecraft)   - 完全分布式多人浏览器游戏.  （[Demo](http://battlecraft.online)）`Apache-2.0``Erlang`
 - [Clumsy Bird](https://github.com/ellisonleao/clumsy-bird)   - 着名的Flappy Bird Game的MelonJS端口.  （[Demo](http://ellisonleao.github.io/clumsy-bird/)）`MIT``Nodejs`
 - [elevatorsaga](http://play.elevatorsaga.com/)   - 电梯编程游戏.  （[Source Code](https://github.com/magwo/elevatorsaga)）`MIT`` Javascript`
-- [Hextris](https://github.com/Hextris/hextris)   - 受俄罗斯方块启发的快节奏HTML5益智游戏.  （[Demo](http://hextris.io/)）``GPL-3.0``HTML5`
+- [Hextris](https://github.com/Hextris/hextris)   - 受俄罗斯方块启发的快节奏HTML5益智游戏.  （[Demo](https://hextris.github.io/hextris)）``GPL-3.0``HTML5`
 - [Lila](https://lichess.org/)   - 使用官方iOS和Android客户端应用程序为lichess.org提供支持的永久免费，无用和开源的国际象棋服务器.  （[Source Code](https://github.com/ornicar/lila)）`AGPL-3.0``Scale`
 - [Posio](https://github.com/abrenaut/posio)   - 地理多人游戏.  （[Demo](https://posio.abrenaut.com/)）`MIT``Python`
 - [RconCli](https://github.com/gorcon/rcon-cli)   - 使用RCON协议在远程Valve Source专用服务器上执行查询的CLI.  `MIT``Go`

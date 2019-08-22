@@ -17,7 +17,7 @@
 	- 网络/网络相关
 	- 数据库
 	- GUI
-	-  OS
+	- 操作系统
 	- 游戏
 	- 视频
 	- 图像处理
@@ -158,14 +158,14 @@
 
 *综合发展环境.*
 
-* [Mono-D](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
+* [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
 * [Visual D](https://github.com/dlang/visuald) -  D编程语言的Visual Studio扩展.
 * [DDT](http://ddt-ide.github.io/) - 用于D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)   -  D编程语言的独立自动完成程序.  可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用.  看到 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Coedit](https://github.com/BBasile/Coedit) - 用于D编程语言的IDE，其编译器，工具和库.
 * [Dlang IDE](https://github.com/buggins/dlangide) -  D语言IDE基于 [DlangUI](https://github.com/buggins/dlangui) .  这是纯粹的D实现.
+* [D Language Server](https://github.com/d-language-server/dls) -  D的语言服务器协议（LSP）实现.为具有LSP支持的任何编辑器添加现代IDE功能（VSCode，Sublime，Atom，Emacs，Vim / Neovim）
 
- 
 ## Lexers, Parsers, Parser Generators
 
 * [libdparse](https://github.com/Hackerpilot/libdparse) -  AD语言词法分析器和解析器，（可能）未来的标准D解析器/词法分析器.
@@ -216,6 +216,7 @@
 * [grpc](https://github.com/huntlabs/grpc-dlang) - 用于D编程语言的Grpc，基于hunt-http库.
 * [kissrpc](https://github.com/huntlabs/kissrpc) - 快速，轻便，基于平板缓冲的rpc框架.
 * [Hprose](https://github.com/hprose/hprose-d) - 一个非常新的RPC Library for D，它现在支持25种以上的语言.
+* [Apache Thrift](https://thrift.apache.org/)   - 轻量级，与语言无关，功能强大的RPC框架.  Thrift为数据传输，数据序列化，代码生成和应用程序级处理提供了清晰的抽象.  [Dub package](http://code.dlang.org/packages/apache-thrift)
 
 *Gossip*
 
@@ -277,7 +278,6 @@
 ## GUI Libs
 *用于处理图形用户界面应用程序的库.*
 
-
 * [DLangUI](https://github.com/buggins/dlangui)   - 用于D编程语言的跨平台GUI.  我的个人偏好，因为它是用D（不是绑定）编写的，而且是跨平台的.  DLangUI在IDE中也有很好的展示 [DLangIDE](https://github.com/buggins/dlangide).
 * [GtkD](https://github.com/gtkd-developers/GtkD)   -  GtkD是GTK +的D绑定和OO包装器.  GtkD是积极维护的，目前是D中最稳定的GUI库.
 * [DWT](https://github.com/d-widget-toolkit/dwt)   - 用于创建跨平台GUI应用程序的库.  GWT是Java的SWT库的一个端口.DWT被提升为D的半标准GUI库，但遗憾的是还没有流行起来.
@@ -292,7 +292,7 @@
 
 *用D *编写的操作系统
 
-* [PowerNex](https://github.com/Vild/PowerNex) - 用D编写的内核 
+* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
 * [Trinix](https://github.com/Bloodmanovski/Trinix) - 用D编写的x64 PC混合操作系统
 * [XOmB](https://github.com/xomboverlord/xomb) - 用D编写的外部操作系统
 

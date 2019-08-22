@@ -53,6 +53,7 @@
 * [Gradoop](https://github.com/dbs-leipzig/gradoop) - 基于Flink和HBase构建的可扩展图形分析的研究框架.
 * [HGraphDB](https://github.com/rayokota/hgraphdb) -  HBase作为TinkerPop图数据库.
 * [JanusGraph](http://janusgraph.org/) - 可扩展的图形数据库，支持Cassandra，HBase，Google Cloud Bigtable和BerkeleyDB.
+* [NebulaGraph](https://github.com/vesoft-inc/nebula) - 高性能分布式Graph数据库.
 * [S2Graph](http://s2graph.incubator.apache.org) - 基于HBase构建的高性能分布式图形数据库.
 
 #### SQL/OLAP

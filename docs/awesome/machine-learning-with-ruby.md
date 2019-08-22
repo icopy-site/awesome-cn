@@ -20,7 +20,7 @@
 
 这个策划列表包含[_awesome _] [awesome]库，
 关于[机器学习]的数据源，教程和演示文稿[ml]
-利用[Ruby] [ruby]编程语言.
+utilizing the [Ruby][ruby] programming language.
 
 此列表中的许多有用资源来自于开发
 [红宝石科学基金会] [sciruby]，我们的[贡献者] [贡献者]和
@@ -100,7 +100,7 @@ the word using the `#RubyML` hash tag!
   Ruby中的Machine Learninig工具包，具有广泛的实现算法
   （SVM，Logistic回归，线性回归，随机森林等）和
   接口类似于Python中的[Scikit-Learn] [scikit].
-- [eps](https://github.com/ankane/eps) - Bayesian Classification and Linear Regression with exports
+- [eps](https://github.com/ankane/eps) - 带出口的贝叶斯分类和线性回归
   运用 [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) and an alternative backend 运用 [GSL][gsl].
 
 ### Neural networks
@@ -197,9 +197,15 @@ the word using the `#RubyML` hash tag!
 
 ### Gradient boosting
 
-- [xgboost](https://github.com/PairOnAir/xgboost-ruby) -  XGBoost的Ruby绑定
-- [xgb](https://github.com/ankane/xgb) -  XGBoost的Ruby绑定
-- [lightgbm](https://github.com/ankane/lightgbm) -  LightGBM的Ruby绑定
+- [xgboost](https://github.com/PairOnAir/xgboost-ruby) - 
+  XGBoost的Ruby绑定.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [xgb](https://github.com/ankane/xgb) - 
+  XGBoost的Ruby绑定.
+  <sup>[[dep: XGBoost](#xgboost)]</sup>
+- [lightgbm](https://github.com/ankane/lightgbm) - 
+  LightGBM的Ruby绑定.
+  <sup>[[dep: LightGBM](#lightgbm)]</sup>
 
 ## Applications of machine learning
 
@@ -349,6 +355,10 @@ the word using the `#RubyML` hash tag!
 
 ## Related Resources
 
+- <a name="lightgbm"></a>
+  [LightGBM](https://github.com/microsoft/LightGBM)
+- <a name="xgboost"></a>
+  [XGBoost](https://github.com/dmlc/xgboost)
 - <a name="gls"></a>
   [GSL（GNU科学图书馆）] [gls]
 - <a name="opencv"></a>
