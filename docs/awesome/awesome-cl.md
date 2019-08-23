@@ -257,7 +257,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 Implementations
 ===============
 
-*：明星： [SBCL](http://www.sbcl.org/index.html) - A fork of CMUCL; compiles to machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
+*：明星： [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
 *：明星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)   -  Embeddable Common Lisp;  编译成C. [GNU LGPL2.1] [11].
 * [ABCL](https://common-lisp.net/project/armedbear/)   - 武装熊Common Lisp;  以JVM为目标，编译为字节码.  [标准一致性] [4].  [GNU GPL3] [2] [Classpath exception] [3].
@@ -293,7 +293,7 @@ YAML
 
 * [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
 *：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
-* [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
+* [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
 * [cl-algebraic-data-type](https://github.com/stylewarning/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
 *：明星： [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
@@ -306,7 +306,7 @@ YAML
 *：明星： [cl-interpol](http://www.cliki.net/cl-interpol)   - 一组允许字符串插值的读者修改.  未指定许可证.
 * [arrow-macros](https://github.com/hipeta/arrow-macros)   - 类似Clojure的线程宏.  [MIT] [200].
 * [dissect](https://shinmera.github.io/dissect) - 很多时候
-  项目使用“琐碎的回溯”系统，只给他们一个
+  projects use the “trivial-backtrace” system that just gives them a
   带有回溯的字符串，Dissect允许你捕获，步进和
   完全检查各种Lisp上的堆栈跟踪
    实现.  对于日志记录和其他情况也非常有用
@@ -415,7 +415,7 @@ Reference
 * [Common Lisp Quick Reference](http://clqr.boundp.org/index.html)   -  ANSI CL规格的蒸馏口袋版本.  可以PDF格式下载.
 * [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm)   -  Common Lisp HyperSpec;  ANSI CL标准，以超文本形式.
 * [CLOS MOP specification](https://clos-mop.hexstreamsoft.com/) - 元对象协议艺术第5章和第6章的现代公共领域在线版本
-* [Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) -  Common Lisp规范的最终草案，格式良好的PDF.
+* [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) -  Common Lisp规范的标准草案，带有侧边栏的格式良好的PDF.
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) -  ANSI规范之前的Common Lisp的原始标准.
 * [Minispec](https://lamberta.github.io/minispec/)   - 一个更友好但不太完整的CLHS版本.  还包含一些常用CL库（如Alexandria）的文档.
 * [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) -  CLHS的简化版本.
@@ -503,7 +503,7 @@ HTTP客户端
 *  [Dexador](https://github.com/fukamachi/dexador) - 旨在实现的HTTP客户端 [replacing Drakma](http://quickdocs.org/dexador/) ，  [带] [200].
 * [Carrier](https://github.com/orthecreedence/carrier)   - 基于cl-async和fast-http构建的轻量级异步HTTP客户端.  [MIT] [200].
 * [fast-http](https://github.com/fukamachi/fast-http) - A fast HTTP
-request/response parser for Common Lisp. [MIT][200].
+ Common Lisp的请求/响应解析器.  [MIT] [200].
 
 
 HTTP服务器
@@ -528,7 +528,7 @@ HTTP服务器
 * [clack-pretend](https://github.com/BnMcGn/clack-pretend) - 测试
    和调试工具.  [Apache2.0的] [89].
 * [hermetic](https://github.com/eudoxia0/hermetic)   - 基于Clack的Web应用程序的安全性.  [外籍] [14].
-* [live-reload](https://github.com/knobo/live-reload)   - 为clack重新加载原型.  [LLGPL] [8].
+* [live-reload](https://github.com/knobo/live-reload) - Live reload prototype for clack. [LLGPL][8].
 * [clack-static-asset-middleware](https://github.com/fisxoj/clack-static-asset-middleware)   - 一个破解缓存的静态资产中间件.  [MIT] [200].
 
 Web框架
@@ -884,7 +884,7 @@ Tools
    条件，固定装置和重启.  [艺术许可2.0] [51].
 * [Mockingbird](https://github.com/Chream/mockingbird) - 一个小
    Common Lisp的存根和模拟库.  也可以检查一下
-  a stubbed function was called, how many times and with which
+  一个简短的函数被调用，多少次和多少次
    参数.  [带] [200].
 * [Check-it](https://github.com/DalekBaldwin/check-it)   - 基于QuickCheck的随机属性测试.  [LLGPL] [8].
 * [cl-coveralls](https://github.com/fukamachi/cl-coveralls) - 帮助者
@@ -1052,7 +1052,7 @@ Other
 * [texp](http://mr.gy/software/texp/)   - 用于生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)   - 微小的基准测试库.  [艺术许可2.0] [51].
 * [trivial-garbage](https://github.com/trivial-garbage/trivial-garbage)   - 便携式终结器，弱哈希表和弱指针API.  公共区域.
-* [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/)   - 用于执行基于UTF-8的I / O的小型库.  在Quicklisp上不可用.  未指定许可证.
+* [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/)   - 用于执行基于UTF-8的I / O的小型库.  BSD.
 
 
 XML

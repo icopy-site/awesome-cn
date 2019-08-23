@@ -5,7 +5,7 @@
 
 &gt;精选的Web组件资源的精选列表.
 
-[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重复使用的自定义元素 - 将其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
+[Web Components](https://developer.mozilla.org/en-US/docs/Web/Web_Components) - 一套不同的技术，允许您创建可重用的自定义元素 - 将其功能与其他代码封装在一起 - 并在您的Web应用程序中使用它们.
 
 
 
@@ -217,6 +217,10 @@
 
 - [Create & Publish Web Components With Vue CLI 3](https://vuejsdevelopers.com/2018/05/21/vue-js-web-component/)
 - [Get started with Vue web components](https://medium.com/@royprins/get-started-with-vue-web-components-593b3d5b3200)
+
+### Ember
+
+- [ember-shadow-dom](https://github.com/knownasilya/ember-shadow-dom)
 
 ### Aurelia
 

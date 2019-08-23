@@ -65,6 +65,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - 绑定和扩展库 [termbox](https://github.com/nsf/termbox) （终端UI库）
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) -  X11绑定
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) -  libxdo的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
+ * [zstd-cr](https://github.com/BlackHabanero/zstd-cr) - 绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) -  Bloom过滤器的实现

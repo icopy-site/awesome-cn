@@ -80,6 +80,7 @@
  - [Pimatic](https://pimatic.org/)   -  Pimatic是一个在node.js上运行的家庭自动化框架.  它为家庭控制和自动化任务提供了一个通用的可扩展平台.
  - [IOTA](https://iota.org/)   - 用于物联网的开源分布式分类账协议.  使用有向无环图（DAG）而不是区块链.
  - [MyController](https://github.com/mycontroller-org/mycontroller)   - 开源控制器.  MyController.org是家庭，办公室或任何地方的物联网自动化控制器.
+ - [Mozilla WebThings](https://iot.mozilla.org/) - 用于通过Web监控设备的开放平台.
 
 #### Middlewares
 
@@ -95,7 +96,7 @@
  - [Thingsboard](https://thingsboard.io)   - 开源IoT平台.  物联网解决方案的设备管理，数据收集，处理和可视化.
  - [VerneMQ](https://github.com/erlio/vernemq)   -  VerneMQ是一个高性能的分布式MQTT代理，可连接物联网，M2M，移动和Web应用程序.  它在商用硬件上水平和垂直扩展，以支持大量并发发布者和消费者，同时保持低延迟和容错.
  - [Kuzzle](https://github.com/kuzzleio/kuzzle)   - 具有高级功能的开源后端，如实时发布/订阅或地理围栏以及支持MQTT，LoRaWAN等的多协议接口.  （[Website](https://kuzzle.io/solutions/technologies/iot-backend/))
- - [DevicePilot](https://www.devicepilot.com) - Operational analytics for connected devices (includes free-forever tier).
+ - [DevicePilot](https://www.devicepilot.com) - 连接设备的运营分析（包括永久免费分层）.
  - [EMQ X](https://github.com/emqx/emqx) - 可扩展且可靠的实时MQTT消息传递引擎，适用于5G时代的物联网.
 
 #### Libraries and Tools
@@ -103,7 +104,7 @@
  - [Cylon.js](http://cylonjs.com/)   -  Cylon.js是机器人，物理计算和物联网的JavaScript框架.  这使得命令机器人和设备非常容易.
  - [Luvit](https://luvit.io/)   -  Luvit实现了与Node.js相同的API，但是在Lua中！  虽然这个框架并不直接涉及物联网开发，但它仍然是快速构建功能强大且内存效率高的嵌入式Web应用程序的一种很好的方法.
  - [Johnny-Five](http://johnny-five.io/)   -  Johnny-Five是最初的JavaScript Robotics编程框架.  Johnny-Five于2012年由Bocoup发布，由一群充满激情的软件开发人员和硬件工程师维护.
- - [Pi4J](http://pi4j.com/) -  Pi4j旨在为Java程序员提供友好的面向对象的I / O API和实现库，以访问Raspberry Pi平台的完整I / O功能.
+ - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
  - [WiringPi](http://wiringpi.com/) -  WiringPi是一个用C语言编写的GPIO访问库，用于Raspberry Pi中使用的BCM2835.
  - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化MQTT主题的工具，MQTT瑞士军刀.
@@ -207,7 +208,7 @@ The Datagram Transport Layer Security (DTLS) communications protocol provides co
  &gt; DTLS允许基于数据报的应用程序以[由谁？]设计的方式进行通信，以防止窃听，篡改或消息伪造.  DTLS协议基于面向流的传输层安全性（TLS）协议，旨在提供类似的安全保证.
 
 
-<i>Eddystone is a beacon technology profile released by Google in July 2015. The open source, cross-platform software gives users location and proximity data via Bluetooth low-energy beacon format.</i> <b>Eddystone是Google于2015年7月发布的信标技术配置文件。开源的跨平台软件通过蓝牙低能量信标格式为用户提供位置和接近度数据。</b> <i>-</i> <b> - </b> [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
+ Eddystone是Google于2015年7月发布的信标技术配置文件.开源的跨平台软件通过蓝牙低能量信标格式为用户提供位置和接近度数据.   -  [Wikipedia](https://en.wikipedia.org/wiki/Eddystone_(Google))
 
  &gt;虽然类似于Apple在2013年发布的iBeacon，但Eddystone适用于Android和iOS，而iBeacon仅限于iOS平台.  这两种软件的实际应用是，企业所有者可以根据智能手机的实时位置来定位潜在客户.
 
@@ -256,7 +257,7 @@ iBeacon是Apple标准化的协议，于2013年在Apple全球开发者大会上�
 &gt;本节重新组合了一系列与物联网世界密切相关的精彩技术.
 
 
-Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
+ 近场通信（NFC）是一组协议，其使得电子设备能够通过一起触摸设备或使它们接近通常10cm或更小的距离来彼此建立无线电通信.   -  [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
 OPC-UA不仅是工业自动化的协议，也是一种允许工业环境的语义描述和对象建模的技术.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
@@ -278,7 +279,7 @@ OPC-UA不仅是工业自动化的协议，也是一种允许工业环境的语�
 - [IPSO Alliance](http://www.ipso-alliance.org/) -  IPSO联盟通过培养意识，提供教育，促进行业，开展研究以及更好地了解知识产权及其在物联网中的作用，为行业发展奠定了基础.
 - [LoRa Alliance](https://www.lora-alliance.org/)   -  LoRa联盟是一个开放的非营利性会员协会，相信现在的物联网时代.  它由行业领导者发起，其使命是将全球部署的低功耗广域网（LPWAN）标准化，以实现物联网（IoT），机器对机器（M2M），智能城市和工业应用.
 - [OPC Foundation](https://opcfoundation.org/about/opc-foundation/mission-statement/)   -  OPC基金会的使命是管理一个全球组织，用户，供应商和联盟在这个组织中协作，为工业自动化中的多供应商，多平台，安全和可靠的互操作性创建数据传输标准.  为了支持这一使命，OPC基金会
-创建和维护规范，通过认证测试确保符合OPC规范，并与行业领先的标准组织合作.
+creates and maintains specifications, ensures compliance with OPC specifications via certification testing and collaborates with industry-leading standards organizations.
 - [Thread Group](http://threadgroup.org/) - 由Nest，三星，ARM，飞思卡尔，Silicon Labs，Big Ass Fans和耶鲁的成员组成的Thread Group推动了Thread网络协议的发展.
 - [Wi-Fi Alliance](https://www.wi-fi.org/) -  Wi-FiAlliance®是一个由多家公司组成的全球性公司网络，这些公司组成了一个全球性的非营利性协会，旨在通过新的无线网络技术推动最佳用户体验 - 无论品牌如何.
 - [Zigbee Alliance](http://www.zigbee.org/) -  ZigBee联盟是一个由大约450名成员组成的开放式非营利性协会，致力于开发创新，可靠且易于使用的ZigBee标准.

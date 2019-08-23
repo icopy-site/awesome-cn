@@ -8,16 +8,38 @@
 
 
 
-> Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
+&gt;用于创建应用程序的有用资源 [Salesforce](https://login.salesforce.com/)
 
 *灵感来自 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  您可能还想阅读完整 [awesome-list](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Salesforce ?
-真棒是一个很棒的项目开始 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) .  他创建了一个项目，列出了机器中最酷的链接，并通过在一个地方编译它们来组织它们.  后来，这个项目引起了轰动，世界各地的开发者社区开始编写令人敬畏的页面（致力于他们最喜欢的技术）.
+真棒是一个很棒的项目开始 [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on  [Github](https://github.com/sindresorhus) .  他创建了一个项目，列出了机器中最酷的链接，并通过在一个地方编译它们来组织它们.  后来，这个项目引起了轰动，世界各地的开发者社区开始编写令人敬畏的页面（致力于他们最喜欢的技术）.
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 并确保您的列表符合.
+
+## The Fiery Meter of AWSome
+
+* 0100+星的回复::火：
+* 0200+星的回购:: fire :: fire：
+*使用0500+星的回复:: fire :: fire :: fire：
+* 1000+星的回购:: fire :: fire :: fire :: fire：
+* 2000+星的回购:: fire :: fire :: fire :: fire :: fire：
+
+没有关于“AWSome的火热仪表”的回购仍然很棒，请参阅[关于Repo AWSomeness的说明]
+
+## A Note on Repo AWSomeness
+
+列出的每个回购符至少满足以下要求之一：
+
+*拥有100多颗星的社区撰写的回购
+*社区担保回购&lt;100星
+*官方回购 [aws](https://github.com/aws) 要么 [awslabs](https://github.com/awslabs)
+
+ 社区回购的100多颗星不是一个严格的要求，它只是初始编译的指南.  如果您可以保证&lt;100星的回购的真棒，并且您可以解释为什么应该列出，请提交拉动请求.
+
+ 拉取请求可能会在一段时间内保持打开状态，让社区进入并为其提供担保.  来自的官方回购 [aws](https://github.com/aws) 要么 [awslabs](https://github.com/awslabs)  如果社区愿意，可以删除.  看看 [awesome manifesto](https://github.com/sindres要么hus/awesome/blob/master/awesome.md).
 
   阅读相关的真棒页面：
    * [Awesome Lighting](https://github.com/mailtoharshit/awesome-lighting)
@@ -36,7 +58,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 之前流行的Mavansmate编辑（http://mavensmate.com/）现已停止发展.
 
-* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - 基于Eclipse平台，由Salesforce.com支持和打包
+* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [ASIDE.IO](https://www.aside.io) - 在线编辑器，快速并快速连接到任何Salesforce组织.
 * [WelkinSuite for Windows](https://welkinsuite.com/) -  force.com应用程序的桌面编辑器，免费使用，支付费用.
 * [C9.IO](https://get.c9.io/salesforce/) - 在线编辑器，快速连接到任何Salesforce组织.
@@ -45,7 +67,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Plugins for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
 
-* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - 基于Eclipse平台，由Salesforce.com支持和打包
+* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- 用于在GitHub的Atom文本编辑器中构建Salesforce.com/Force.com/Salesforce1应用程序的MavensMate插件
 * Visual Studio代码
   * [ForceCode](https://github.com/celador/ForceCode) 是Salesforce开发的Visual Studio代码扩展
@@ -53,7 +75,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)-  TextMate的Apex插件.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-  Force.com的VIM插件.
 * [Force.com CLI](https://force-cli.heroku.com/)-  Force.com的命令行界面.
-* [HaoIDE](https://github.com/xjsender/haoide) -  Force.com的Sublime插件
+* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - 用于IntelliJ IDEA的Force.com集成
 * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate)  Mavensmate扩展VS代码.  Mavansmate的主要项目现在已不再有效，因此该插件可能用途有限.
 
@@ -67,7 +89,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) -  ApexMocks是Force.com Apex语言的模拟框架.它源于着名的Java模拟框架Mockito的灵感.  
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) -  ApexMocks是Force.com Apex语言的一个模拟框架.它源于众所周知的Java模拟框架Mockito的灵感.  
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
@@ -122,7 +144,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Force DI](https://github.com/afawcett/force-di) - 通用 [dependency injection](https://en.wikipedia.org/wiki/Dependency_injection) （DI）库，支持在运行时注入Apex，Visualforce，Lightning和Flows.
 * [Query.apex](https://github.com/Click-to-Cloud/Query.apex/) -  Salesforce.com平台上的SOQL查询构建器，它支持复杂条件，字段和命名空间管理，子关系查询和函数式编程样式编码.
 
-* [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch)   - 可以通过从上一批的`finish（）`方法调用后续批处理来链接Apex批处理.  但是这种硬编码使得这种模式不灵活.  很难从外部构建链，从中央类构建更直接，也不依赖于业务逻辑构建运行时.
+* [Apex Chainable Batch](https://github.com/rsoesemann/apex-chainable-batch)   - 可以通过从上一批的`finish（）`方法调用后续批处理来链接Apex批处理.  但是这种硬编码使得这种模式不灵活.  很难从外部构建链，从中央类构建更新，也不依赖于业务逻辑构建运行时.
 
 
 
@@ -159,7 +181,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [SOQooLio](https://soqool.io/)- 用于查询，排序和导出Salesforce数据的Web应用程序.
 
-* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) -  Sweet.apex是Apex开发的下一代产品，它将Apex类的Sweet Apex（功能丰富的类Apex代码）转换为.
+* [Sweet.apex](https://github.com/Click-to-Cloud/Sweet.apex/) -  Sweet.apex是Apex开发的下一代产品，它将Apex类的Sweet Apex（功能丰富的Apex代码）转换为.
 
 * [soql-parser-js](https://github.com/paustint/soql-parser-js) - 用于解析SOQL查询，编写SOQL查询和格式化SOQL查询的JavaScript库.
 
@@ -181,7 +203,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ## Javascript Libraries for Salesforce
 
-* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) - 它封装了对Salesforce在异步JavaScript函数调用中提供的各种API的访问.与其他Salesforce API库不同，它旨在为服务器端和客户端应用程序提供集成接口，因此您不必重写类似的逻辑不同的库只用于在不同的环境中运行.此外，它还有一个有用的命令行界面（CLI），它提供交互式控制台（REPL），因此您可以轻松学习使用.
+* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) - 它封装了对Salesforce在异步JavaScript函数调用中提供的各种API的访问.与其他Salesforce API库不同，它旨在为服务器端和客户端应用程序提供集成接口，因此您不必重写类似的逻辑不同的库只用于在不同的环境中运行.此外，它还有一个有用的命令行界面（CLI），它提供了交互式控制台（REPL），因此您可以毫不费力地学习使用.
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
@@ -245,7 +267,7 @@ AngularJS Pack： [Get Started](https://developer.salesforce.com/mobile/getting-
 
 
 ## Troubleshooting and queries
- * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  ：丰富多样的电路板可供讨论几乎所有关于平台的内容.  找到正确的板[这里].
+ * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers)  ：丰富多样的电路板可用于讨论几乎任何有关平台的内容.  找到正确的板[这里].
  * [Tweet](https://twitter.com/hashtag/askforce): Force.com community is pretty active on Twitter, tweet your question with hash #askforce
  * [StackOverFlow](http://stackoverflow.com/questions/tagged/salesforce)：使用正确的标签（如apex，visualforce和salesforce）发布您的问题，以获得快速响应.
  * [StackExchange](http://salesforce.stackexchange.com/) ：Salesforce Stack Exchange是Salesforce管理员，实施专家，开发人员和中间任何人的问答网站.  它是100％免费的，无需注册.
@@ -294,7 +316,7 @@ AngularJS Pack： [Get Started](https://developer.salesforce.com/mobile/getting-
 * [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) - 也称为Enreeco或ForceLogic.Ultra极客科技爱好者雇佣军软件开发人员和Salesforce爱好者. [Read More](http://enree.co/)
 * [Peter Knolle](http://peterknolle.com/)   -  Peter Knolle喜欢使用各种不同的技术.  经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)  
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)-  Force.com MVP＆Architect  - 对S1和Javascript充满热情，由Profession建立建筑师，现在是公司的所有者，专注于salesforce Consulting [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
-* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 7 Salesforce Certificates, MVP and Technical Architect working on platform since 2008 [Read More](http://jitendrazaa.com/)
+* [Jitendra Zaa](http://www.jitendrazaa.com/blog/)- 自2008年以来，7个Salesforce证书，MVP和技术架构师在平台上工作 [Read More](http://jitendrazaa.com/)
 * [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/)  -  Mohit是Codescience.com上的CodeScience.  他以出色的贡献而闻名 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有9x Salesforce认证. 
 * [The Wizard News](https://thewizardnews.com/) - 向导新闻是由Brian Kwong创建的博客，视频和播客的中心位置 - 即Salesforce Wizard.
 
