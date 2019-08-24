@@ -175,7 +175,7 @@ Tools
 ## Python ##
 
 * [burgled-batteries](https://github.com/pinterface/burgled-batteries)   -  Python和Common Lisp之间的桥梁.  目标是Lisp程序可以使用Python库.  在Quicklisp上不可用.  未指定许可证.
-* [cl4py](https://github.com/marcoheisig/cl4py)   - 库cl4py（发音为clappy）允许Python程序调用Common Lisp库.  [MIT] [200].
+* [cl4py](https://github.com/marcoheisig/cl4py)   - 库cl4py（发音为clappy）允许Python程序调用Common Lisp库.  [MIT】【200].
 * [py4cl](https://github.com/bendudson/py4cl)   - 允许Common Lisp代码访问Python库的库.  它基本上与cl4py相反.  [MIT] [200].
 * [cl-python](https://github.com/metawilm/cl-python)   -  Common Lisp中的Python实现.  [LLGPL] [8].
 
@@ -257,7 +257,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 Implementations
 ===============
 
-*：明星： [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
+*：明星： [SBCL](http://www.sbcl.org/index.html) - A fork of CMUCL; compiles to machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
 *：明星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)   -  Embeddable Common Lisp;  编译成C. [GNU LGPL2.1] [11].
 * [ABCL](https://common-lisp.net/project/armedbear/)   - 武装熊Common Lisp;  以JVM为目标，编译为字节码.  [标准一致性] [4].  [GNU GPL3] [2] [Classpath exception] [3].
@@ -293,7 +293,7 @@ YAML
 
 * [cl21](https://github.com/cl21/cl21)   - 将Common Lisp推向21世纪的实验项目.  [外籍] [14].
 *：明星： [alexandria](https://common-lisp.net/project/alexandria/)   - 通用实用程序库.  公共区域.
-* [serapeum](https://github.com/TBRSS/serapeum/) - Another general-purpose utility library. [Expat][14].
+* [serapeum](https://github.com/TBRSS/serapeum/)   - 另一个通用实用程序库.  [外籍] [14].
 * [anaphora](https://common-lisp.net/project/anaphora/)   - 一系列照应宏.  公共区域.
 * [cl-algebraic-data-type](https://github.com/stylewarning/cl-algebraic-data-type)   - 用于以与Haskell或ML类似的精神定义代数数据类型的库.  [3条款BSD] [15].
 *：明星： [optima](https://github.com/m2ym/optima)   - 优化的模式匹配库.  [LLGPL] [8].
@@ -706,6 +706,7 @@ Numerical and Scientific
    他们.  [AGPL] [89].
 * [cmu-infix](https://github.com/rigetti/cmu-infix) - 用于在Common Lisp中编写中缀数学符号的库.
 * [cl-ana](https://github.com/ghollisjr/cl-ana)   -  Common Lisp数据分析库，强调模块化和概念清晰度.  它旨在成为分析小规模和大规模数据集的通用框架，包括分档数据分析和可视化.  [GNU GPL3] [2].
+* [linear-programming](https://neil-lindquist.github.io/linear-programming/)   - 用于解决线性编程问题的库.  [MIT] [200].
 
 
 并行和并发

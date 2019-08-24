@@ -72,7 +72,7 @@
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - 基于mgo的ODM
  - [mgo](https://github.com/globalsign/mgo) - 社区围棋司机
- - [minquery](https://github.com/icza/minquery) - 分页的MongoDB游标
+ - [minquery](https://github.com/icza/minquery) - MongoDB cursor that paginates
  - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - 官方围棋司机
 
 ### Haskell
@@ -127,9 +127,9 @@
 
 ### Python
  - [Flask-Stupe](https://github.com/numberly/flask-stupe) -  Flask扩展，为Flask添加PyMongo支持
+ - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 惯用且友好但功能强大的ODM（无模式）
  - [MongoEngine](https://github.com/MongoEngine/mongoengine) - 在PyMongo之上的ODM
  - [MongoLog](https://github.com/puentesarrin/mongodb-log) -  MongoDB日志处理程序
- - [Mongo-Thingy](https://github.com/numberly/mongo-thingy) - 惯用且友好但功能强大的ODM（无模式）
  - [Motor](https://github.com/mongodb/motor) - 用于Tornado或asyncio的非阻塞Python驱动程序
  - [PyMongo](https://github.com/mongodb/mongo-python-driver) - 官方（和推荐）Python驱动程序
  - [minimongo](https://github.com/slacy/minimongo) - 轻量级，无模式，Pythonic面向对象的界面
@@ -209,12 +209,12 @@ Services:
 
 ### Monitoring
  - [check_mongodb](https://github.com/dalenys/check_mongodb) -  Nagios插件（在Bash中）
- - [Mongoop](https://github.com/Lujeni/mongoop) - 长时间的操作监控和警报
- - [Motop](https://github.com/tart/motop) -  MongoDB顶级克隆
- - [mtop](https://github.com/beaufour/mtop) - 另一个顶级克隆
  - [mongo-monitor](https://github.com/dwmkerr/mongo-monitor) - 简单的监控CLI
  - [mongo-munin](https://github.com/erh/mongo-munin) - 收集Munin插件
+ - [Mongoop](https://github.com/Lujeni/mongoop) - 长时间的操作监控和警报
  - [mongomon](https://github.com/pcdummy/mongomon) - 更多Munin插件
+ - [Motop](https://github.com/tart/motop) -  MongoDB顶级克隆
+ - [mtop](https://github.com/beaufour/mtop) - 另一个顶级克隆
  - [nagios-plugin-mongodb](https://github.com/mzupan/nagios-plugin-mongodb) -  Nagios插件（在Python中）
  - [Percona Monitoring and Management](https://www.percona.com/software/database-tools/percona-monitoring-and-management) - 用于管理和监控数据库性能的免费开源平台
 
@@ -230,6 +230,7 @@ Services:
  - [adminMongo](https://github.com/mrvautin/adminMongo) - 基于Web的用户界面，用于处理连接和数据库需求
  - [mongo-express](https://github.com/mongo-express/mongo-express) - 使用Express构建的基于Web的管理界面
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - 使用Django构建的管理界面
+ - [Mongoku](https://github.com/huggingface/Mongoku) - 用于Web的MongoDB客户端
  - [mongri](https://github.com/dongri/mongri) - 用JavaScript编写的基于Web的用户界面
  - [Rockmongo](https://github.com/iwind/rockmongo) - 用于MongoDB的PHPMyAdmin
 

@@ -5,7 +5,8 @@
 
 &gt;用于创建应用程序的有用资源 [Electron](https://electronjs.org)
 
-你可能还喜欢 [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs).
+- [Who is hiring?](https://github.com/sindresorhus/awesome-electron/issues/612)
+- [Who wants to be hired?](https://github.com/sindresorhus/awesome-electron/issues/613)
 
 
 
@@ -422,6 +423,11 @@
 ## Contribute
 
  欢迎捐款！  阅读 [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) 第一.
+
+
+## Related
+
+- [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 
 ## License

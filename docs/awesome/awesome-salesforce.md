@@ -14,7 +14,7 @@
 
 
 ## What is Awesome Salesforce ?
-真棒是一个很棒的项目开始 [Sindre Sorhus](https://github.com/sindresorhus) who is most popular person on  [Github](https://github.com/sindresorhus) .  他创建了一个项目，列出了机器中最酷的链接，并通过在一个地方编译它们来组织它们.  后来，这个项目引起了轰动，世界各地的开发者社区开始编写令人敬畏的页面（致力于他们最喜欢的技术）.
+真棒是一个很棒的项目开始 [Sindre Sorhus](https://github.com/sindresorhus) 谁是最受欢迎的人  [Github](https://github.com/sindresorhus) .  他创建了一个项目，列出了机器中最酷的链接，并通过在一个地方编译它们来组织它们.  后来，这个项目引起了轰动，世界各地的开发者社区开始编写令人敬畏的页面（致力于他们最喜欢的技术）.
 
 ## What makes for an awesome list?
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) 并确保您的列表符合.
@@ -27,7 +27,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * 1000+星的回购:: fire :: fire :: fire :: fire：
 * 2000+星的回购:: fire :: fire :: fire :: fire :: fire：
 
-没有关于“AWSome的火热仪表”的回购仍然很棒，请参阅[关于Repo AWSomeness的说明]
+不在“AWSome的火热仪表”上的回购仍然可以很棒
 
 ## A Note on Repo AWSomeness
 
@@ -35,7 +35,6 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 *拥有100多颗星的社区撰写的回购
 *社区担保回购&lt;100星
-*官方回购 [aws](https://github.com/aws) 要么 [awslabs](https://github.com/awslabs)
 
  社区回购的100多颗星不是一个严格的要求，它只是初始编译的指南.  如果您可以保证&lt;100星的回购的真棒，并且您可以解释为什么应该列出，请提交拉动请求.
 
@@ -51,14 +50,14 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 ### Salesforce Developer Free Edition Signup
-* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - 注册免费开发者帐户.
+* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
 
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
 之前流行的Mavansmate编辑（http://mavensmate.com/）现已停止发展.
 
-* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - Based on Eclipse Platform, supported and packaged by Salesforce.com
+* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) - 基于Eclipse平台，由Salesforce.com支持和打包
 * [ASIDE.IO](https://www.aside.io) - 在线编辑器，快速并快速连接到任何Salesforce组织.
 * [WelkinSuite for Windows](https://welkinsuite.com/) -  force.com应用程序的桌面编辑器，免费使用，支付费用.
 * [C9.IO](https://get.c9.io/salesforce/) - 在线编辑器，快速连接到任何Salesforce组织.
@@ -67,7 +66,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Plugins for Salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/forceplug.png" align="right" width="220">
 
-* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - Based on Eclipse Platform, supported and packaged by Salesforce.com
+* [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) - 基于Eclipse平台，由Salesforce.com支持和打包
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- 用于在GitHub的Atom文本编辑器中构建Salesforce.com/Force.com/Salesforce1应用程序的MavensMate插件
 * Visual Studio代码
   * [ForceCode](https://github.com/celador/ForceCode) 是Salesforce开发的Visual Studio代码扩展
@@ -75,7 +74,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [ApexMate](https://github.com/superfell/ApexMate)-  TextMate的Apex插件.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-  Force.com的VIM插件.
 * [Force.com CLI](https://force-cli.heroku.com/)-  Force.com的命令行界面.
-* [HaoIDE](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com
+* [HaoIDE](https://github.com/xjsender/haoide) -  Force.com的Sublime插件
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) - 用于IntelliJ IDEA的Force.com集成
 * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate)  Mavensmate扩展VS代码.  Mavansmate的主要项目现在已不再有效，因此该插件可能用途有限.
 
@@ -114,7 +113,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-  该库已由五个库扩展<br/>
+  This library has been extended by five libraries <br/>
   * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
   * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
   * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
@@ -159,7 +158,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon是一个Force.com应用程序，使您能够构建和运行Selenium测试，以在Salesforce组织中使用Visualforce / Javascript验证自定义UI页面.
 
-* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- 适用于Android，iOS，WP8和Amazon Fire OS的Cordova Push Notifications Plugin
+* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
 
 * [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 

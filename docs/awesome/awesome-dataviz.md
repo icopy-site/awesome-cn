@@ -16,7 +16,7 @@
 - [dc.js](https://github.com/dc-js/dc.js) 是一个多维图表，可以与crossfilter本地工作.
 - [Dimple](http://dimplejs.org/) - 面向对象的业务分析API.
 - [Dygraphs](http://dygraphs.com/) - 适用于大型数据集的交互式折线图库.
-- [Echarts](https://github.com/ecomfe/echarts) - 高度可定制的交互式图表，可用于大型数据集. [React wrapper](https://github.com/hustcc/echarts-for-react)
+- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper](https://github.com/hustcc/echarts-for-react)
 - [Epoch](https://github.com/epochjs/epoch) - 完美的创建实时图表.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - 针对时间序列数据进行了优化.
 - [NVD3](https://github.com/novus/nvd3) - 用d3.js编写的可重用图表库.
@@ -84,15 +84,17 @@
 ## Python tools
 - [altair](https://altair-viz.github.io/) - 基于Vega-Lite的声明性统计可视化.
 - [bokeh](http://bokeh.pydata.org/en/latest/) - 用于Python的交互式Web绘图.
+- [Chartify](https://github.com/spotify/chartify) -  Bokeh包装器，使数据科学家可以轻松创建图表.
 - [diagram](https://github.com/tehmaze/diagram) - 使用UTF-8字符的文本模式图
 - [ggplot](https://github.com/yhat/ggpy) - 基于的绘图系统 [R's](#r-tools) GGPLOT2.
 - [glumpy](https://github.com/glumpy/glumpy) -  OpenGL科学可视化库.
-- [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
+- [holoviews](http://holoviews.org/) - 来自注释数据的复杂和声明性可视化.
 - [mayai](http://docs.enthought.com/mayavi/mayavi/) -  Python中的交互式科学数据可视化和3D绘图.
 - [matplotlib](http://matplotlib.org/) -  2D绘图库.
 - [missingno](https://github.com/ResidentMario/missingno) - 提供灵活的数据可视化工具集，可以基于matplotlib快速直观地总结数据集的完整性.
 - [plotly](https://plot.ly/python/) - 基于互动网络的可视化 [plotly.js](https://github.com/plotly/plotly.js)
 - [PyQtGraph](http://www.pyqtgraph.org/) - 交互式实时2D / 3D /图像绘图和科学/工程小部件.
+- [PyVista](https://github.com/pyvista/pyvista) - 通过Visualization Toolkit（VTK）的简化界面进行3D绘图和网格分析
 - [seaborn](https://seaborn.pydata.org/) - 一个用于制作有吸引力且信息丰富的统计图形的库.
 - [toyplot](http://toyplot.readthedocs.io/en/stable/) - 用于Python的儿童大小的绘图工具包，具有成人大小的目标.
 - [veusz](https://veusz.github.io/) -  Python多平台GUI绘图工具和图形库
@@ -100,7 +102,7 @@
 - [vtk](https://www.vtk.org/) - 包含Python界面的3D计算机图形，图像处理和可视化.
 
 ## R tools
-- [ggplot2](http://ggplot2.org/) - 基于图形语法的绘图系统.
+- [ggplot2](https://ggplot2.tidyverse.org/) - 基于图形语法的绘图系统.
 - [ggvis](http://ggvis.rstudio.com/) - 数据可视化包，其语法类似于ggplot2，允许您创建丰富的交互式图形.
 - [lattice](http://lattice.r-forge.r-project.org) -  R的格子图形
 - [plotly](https://github.com/ropensci/plotly) - 交互式图表（包括向ggplot2输出添加交互性），制图和简单的网络图

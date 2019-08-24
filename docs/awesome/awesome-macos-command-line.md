@@ -544,7 +544,7 @@ sudo systemsetup -setstartupdisk / System / Library / CoreServices
 
 #### Show All Attached Disks and Partitions
 ```bash
-讨论艺术
+有争议的艺术
 ```
 
 #### View File System Usage
@@ -958,7 +958,7 @@ networksetup -listallhardwareports
 
 #### Show Current Screen Resolution
 ```bash
- system_profiler SPDisplaysDataType |  grep决议
+ system_profiler SPDisplaysDataType |  扣押决议
 ```
 
 #### Show CPU Brand String
@@ -1026,11 +1026,11 @@ sudo systemsetup -setrestartfreeze on
 连接MagSafe时播放iOS充电声音.
 ```bash
 ## Enable
-默认写入com.apple.PowerChime ChimeOnAllHardware -bool true &amp;&amp; \ t
+默认写com.apple.PowerChime ChimeOnAllHardware -bool true &amp;&amp; \
 打开/System/Library/CoreServices/PowerChime.app
 
 ## Disable (Default)
-默认写入com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \ t
+默认写com.apple.PowerChime ChimeOnAllHardware -bool false &amp;&amp; \
 killall PowerChime
 ```
 
@@ -1058,7 +1058,7 @@ defaults write -g NSAutomaticSpellingCorrectionEnabled -bool true
 默认值写入NSGlobalDomain AppleKeyboardUIMode -int 0
 
 ## All controls
-默认值写入NSGlobalDomain AppleKeyboardUIMode -in 3
+默认值写入NSGlobalDomain AppleKeyboardUIMode -int 3
 ```
 
 #### Key Repeat
@@ -1260,7 +1260,7 @@ curl -s https://api.ipify.org&amp;&amp; echo
 #### Show Network Interface Information
 `scutil`命令的未记录标志.
 ```bash
-scutil --nwi
+scutil  -  nwi
 ```
 
 ### TFTP
@@ -1732,6 +1732,12 @@ sudo nvram boot-args =“ -  x”
 sudo nvram boot-args =“”
 ```
 
+### Save Dialogs
+显着改善了保存对话框中现在相当慢的动画.
+```bash
+默认值写入NSGlobalDomain NSWindowResizeTime .001
+```
+
 ### Screenshots
 
 #### Take Delayed Screenshot
@@ -1871,7 +1877,6 @@ sudo systemsetup setusingnetworktime on
 ## Disable
 sudo systemsetup setusingnetworktime off
 ```
-
 
 
 ## Terminal

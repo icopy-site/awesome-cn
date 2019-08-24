@@ -11,7 +11,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  991 |  2019年8月21日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  991 |  2019年8月23日
 
 
 
@@ -216,7 +216,7 @@
 * Libs帮助苹果应用程序商店，应用程序购买和收据验证.* [back to top](#readme) 
 
 * [InAppPurchase](https://github.com/jinSasaki/InAppPurchase) -  In App Purchase的简单，轻量级和安全框架.
-* [merchantkit](https://github.com/benjaminmayo/merchantkit) - A modern In-App Purchases management framework for iOS.
+* [merchantkit](https://github.com/benjaminmayo/merchantkit) - 适用于iOS的现代应用内购买管理框架.
 * [SwiftyStoreKit](https://github.com/bizz84/SwiftyStoreKit) - 轻量级应用内购买框架.
 
 ### Audio
@@ -313,7 +313,7 @@
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin： -  readline的零依赖替换.
 * [nef](https://github.com/bow-swift/nef) - 一组命令行工具，可让您对编写为Xcode Playground的文档进行编译时验证.
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) ：企鹅： - 在命令行中添加漂亮的进度条.
-* [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin： - 一个可用于开发CLI的强大框架.
+* [SwiftCLI](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
 * [Swiftline](https://github.com/nsomar/Swiftline) - 一组帮助您创建命令行应用程序的工具.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) ：penguin： - 用于生成文本表的轻量级库.
 
@@ -370,7 +370,7 @@
 * [Freddy](https://github.com/bignerdranch/Freddy) - 用于解析JSON的可重用框架.
 * [Genome](https://github.com/LoganWright/Genome) - 一个简单的，类型安全的，故障驱动的映射库，用于将JSON序列化到模型.
 * [Gloss](https://github.com/hkellaway/Gloss) ：企鹅： - 闪亮的JSON解析库.
-* [HandyJSON](https://github.com/alibaba/handyjson) - A handy JSON-object serialization/deserialization library.
+* [HandyJSON](https://github.com/alibaba/handyjson) - 一个方便的JSON对象序列化/反序列化库.
 * [Himotoki](https://github.com/ikesyo/Himotoki) - 类型安全的JSON解码库.
 * [JASON](https://github.com/delba/JASON) -  JSON解析具有出色的性能和方便的运算符.
 * [JSONCodable](https://github.com/matthewcheok/JSONCodable) - 无忧JSON编码和解码.
@@ -379,7 +379,7 @@
 * [ObjectMapper](https://github.com/tristanhimmelman/ObjectMapper) -  JSON对象映射器.
 * [PMJSON](https://github.com/postmates/PMJSON) -  JSON编码/解码库.
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - A lib for JSON with error handling.
-* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) - OSX app to generate models for JSON.
+* [SwiftyJSONAccelerator](https://github.com/insanoid/SwiftyJSONAccelerator) -  macOS app为JSON生成Swift 5模型（使用Codeable）.
 * [Unbox](https://github.com/JohnSundell/Unbox) - 易于使用的JSON解码器.
 
 #### Key Value Store
@@ -513,7 +513,7 @@
 * [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级库，用于检测已使用的设备.
 * [DeviceKit](https://github.com/devicekit/DeviceKit) -  DeviceKit是UIDevice的值类型替代品.
 * [Luminous](https://github.com/andrealufino/Luminous) - 获取有关设备的所有信息.
-* [Thingy](https://github.com/bojan/Thingy) - 现代设备检测和查询库.
+* [Thingy](https://github.com/bojan/Thingy) - A modern device detection and querying library.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) -  UIDevice扩展，填补缺少的部分.
 
 ### Documentation
@@ -550,13 +550,13 @@
 * [Notificationz](https://github.com/SwiftKitz/Notificationz) - 通过提供简单，可定制的适配器帮助您拥有`NSNotificationCenter`.
 * [Observable](https://github.com/roberthein/Observable) - 观察价值观的最简单方法.
 * [PMKVObserver](https://github.com/postmates/PMKVObserver/) - 现代线程安全和类型安全的键值观察.
-* [PromiseKit](https://github.com/mxcl/PromiseKit) - 异步承诺编程lib.
+* [PromiseKit](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
 * [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)   -  ReactiveCocoa（RAC）是一个受功能反应式编程启发的Cocoa框架.  它提供了用于组合和转换值流的API.
 * [ReactorKit](https://github.com/ReactorKit/ReactorKit) - 反应式和单向应用架构的框架.
 * [ReSwift](https://github.com/ReSwift/ReSwift) - 单向数据流.
 * [RxReduce](https://github.com/RxSwiftCommunity/RxReduce)   - 反应性实现状态容器模式（如Redux）.  它基于状态不变性和单向数据流的简单概念.
 * [RxSwift](https://github.com/ReactiveX/RxSwift) -  Microsoft Reactive Extensions（Rx）.
-* [Signals](https://github.com/artman/Signals) - Replaces delegates and notifications.
+* [Signals](https://github.com/artman/Signals) - 替换代表和通知.
 * [Snail](https://github.com/UrbanCompass/Snail) - 一个Observables框架.
 * [SwiftEventBus](https://github.com/cesarferreira/SwiftEventBus) - 针对iOS优化的发布/订阅事件总线.
 * [Tempura](https://github.com/BendingSpoons/tempura-swift) - 受Redux和MVVM启发的iOS开发的整体方法.
@@ -769,7 +769,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
 
 ### Location
 [back to top](#readme) 
@@ -1053,7 +1053,7 @@
 
 * [AECoreDataUI](https://github.com/tadija/AERecord) - 核心数据驱动的UI.
 * [AGCircularPicker](https://github.com/agilie/AGCircularPicker) - 用于创建控制器的有用组件，旨在管理任何计算参数.
-* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - 滚动UIScrollView之后的可滚动UINavigationBar.
+* [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 * [BadgeHub](https://github.com/jogendra/BadgeHub)   - 让任何UIView成为一个完整的动画通知中心.  这是一种快速向UIView添加通知徽章图标的方法.
 * [BatteryView](https://github.com/yonat/BatteryView) - 简单的电池形UIView.
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) - 使用SpriteKit进行可刷新的刷新视图.
@@ -1102,7 +1102,7 @@
 * [Mandoline](https://github.com/blueapron/Mandoline) -  iOS选择器视图，可满足您的所有“挑选”需求.
 * [MantleModal](https://github.com/canalesb93/MantleModal) - 一个简单的模态资源，它使用UIScrollView允许用户通过向下拖动来关闭模态.
 * [Material](https://github.com/CosmicMind/Material) - 使用Material，动画和图形框架为Google的Material Design和Apple的Flat UI展示您的创造力.
-* [Material Components for iOS](https://github.com/material-components/material-components-ios) - Modular and customizable Material Design UI components for iOS
+* [Material Components for iOS](https://github.com/material-components/material-components-ios) - 适用于iOS的模块化和可自定义的Material Design UI组件
 * [MaterialKit](https://github.com/nghialv/MaterialKit) - 材料设计组件.
 * [MediaBrowser](https://github.com/younatics/MediaBrowser) - 简单的iOS照片和视频浏览器，带有可选的网格视图，标题和选择.
 * [MediumScrollFullScreen](https://github.com/pixyzehn/MediumScrollFullScreen) - 中型滚动式菜单栏.
@@ -1205,7 +1205,7 @@
 
 * [CalendarKit](https://github.com/richardtop/CalendarKit) - 完全可定制的日历日视图.
 * [CalendarView](https://github.com/mmick66/CalendarView) - 日历组件，它具有垂直和水平布局（和滚动）以及本机日历事件的显示.
-* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - 用于选择日期和时间的更好的iOS UI组件.
+* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) -  UI日历交易.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - 类似GitHub的工作贡献时间表.
 
@@ -1293,7 +1293,7 @@
 [back to top](#readme) 
 
 * [AREK](https://github.com/ennioma/arek) -  AREK是一种干净且易于使用的包装，超过任何iOS许可.
-* [Permission](https://github.com/delba/Permission) - 在iOS上请求权限的统一API.
+* [Permission](https://github.com/delba/Permission) - A unified API to ask for permissions on iOS.
 * [SPPermission](https://github.com/IvanVorobei/SPPermission) - 使用本机UI和交互式动画的简单请求权限.
 
 #### StackView
@@ -1460,7 +1460,7 @@
 * [Solar](https://github.com/ceeK/Solar) - 计算给定位置的日出和日落时间.
 * [SpriteKit+Spring](https://github.com/ataugeron/SpriteKit-Spring) -  SpriteKit API使用SKAction重现UIView的弹簧动画.
 * [Sugar](https://github.com/hyperoslo/Sugar) - 与你的可可相得益彰的甜点.
-* [swift-protobuf](https://github.com/apple/swift-protobuf) :penguin: - A plugin and runtime library for using Google's Protocol Buffer.
+* [swift-protobuf](https://github.com/apple/swift-protobuf) ：penguin： - 使用Google协议缓冲区的插件和运行时库.
 * [Swiftbot](https://github.com/noppefoxwolf/Swiftbot) - 在松弛时运行swift代码.
 * [SwifterSwift](https://github.com/SwifterSwift/SwifterSwift) - 一个包含500多个原生扩展的便捷集合，可提高您的工作效率.
 * [SwiftGen-Storyboard](https://github.com/SwiftGen/SwiftGen#uistoryboard) - 为所有Storyboard，Scenes和Segues常量+适当的便利访问器自动生成`enums`的工具.

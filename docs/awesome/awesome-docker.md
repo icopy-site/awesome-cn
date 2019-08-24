@@ -282,6 +282,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [lazydocker](https://github.com/jesseduffield/lazydocker)   - 管理所有码头工人的更懒惰的方式.  一个简单的终端UI，用于docker和docker-compose，用go写入gocui库.  通过 [@jesseduffield](https://github.com/jesseduffield)
 - [MultiDocker](https://github.com/marty90/multidocker) - 创建一个安全的多用户Docker机器，将每个用户隔离到一个独立的容器中.
 - [ns-enter](https://github.com/jpetazzo/nsenter) - 没有更多的ssh，通过[@jpetazzo] [jpetazzo]输入容器的名称空间
+- [Pdocker](https://github.com/https://github.com/veggiemonk/awesome-docker/blob/master/g31s/Pdocker) - 一个简单的工具，用于管理和维护Docker，用于个人项目 [@https://github.com/veggiemonk/awesome-docker/blob/master/g31s](https://github.com/veggiemonk/awesome-docker/blob/master/g31s)
 - [Powerline-Docker](https://github.com/adrianmo/powerline-docker) - 用于显示Docker容器状态的电力线段 [@adrianmo](https://github.com/adrianmo)
 - [proco](https://github.com/shiwaforce/poco)   -  Proco将帮助您使用简单的YAML配置文件组织和管理任何复杂的Docker，Docker-Compose，Kubernetes项目，以缩短从查找项目到在本地环境中初始化项目的路线.  通过 [@shiwaforce](https://github.com/shiwaforce)
 - [reg](https://github.com/genuinetools/reg) -  [@genuinetools] [原工具]的Docker注册表v2命令行客户端
@@ -497,7 +498,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Garbage Collection
 
-- [caduc](https://github.com/tjamet/caduc) - 最近没有使用的码头工垃圾收集器清理工具
+- [caduc](https://github.com/tjamet/caduc) - 最近没有使用的码头工人垃圾收集器清洁工具
 - [Docker Clean](https://github.com/ZZROTDesign/docker-clean) - 一个清理Docker容器，图像和卷的脚本 [@zzrotdesign](https://github.com/ZZROTDesign)
 - [Docker-cleanup](https://github.com/meltwater/docker-cleanup) - 自动Docker镜像，容器和卷清理 [@meltwater](https://github.com/meltwater)
 - [docker-custodian](https://github.com/Yelp/docker-custodian)   - 让docker主机保持整洁.  通过 [@Yelp](https://github.com/Yelp)
