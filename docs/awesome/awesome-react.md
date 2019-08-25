@@ -133,7 +133,7 @@
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -  React的可调整大小和可拖动的组件
 - [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -  React的可调整大小的组件
@@ -373,10 +373,16 @@
 - [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 - [react-stockcharts - Highly customizable stock charts with ReactJS and d3](https://github.com/rrag/react-stockcharts)
 - [Number Picture - Low-level building blocks for constructing animated visualizations with React & D3.](http://numberpicture.com/build)
-- [VictoryJS - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
+- [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
 - [reaviz](https://github.com/jask-oss/reaviz) - 基于D3.js的React数据可视化库
+- [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
+- [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
+- [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
+- [echarts-for-react - A very simple ECharts wrapper for React.](https://github.com/hustcc/echarts-for-react)
+- [Chartify - React plugin for building charts using CSS.](https://github.com/kis/chartify)
+- [Semiotic - A data visualization framework combining React and D3.](https://github.com/nteract/semiotic)
 
 ---
 

@@ -61,7 +61,7 @@ ZSH框架，插件，教程和主题的集合，灵感来自各种精彩的列�
 
 ### [fresh](https://github.com/freshshell/fresh)
 
- ** fresh **是一种将shell配置（别名，函数等）从其他人配置到您自己的配置文件中的工具.  我们还支持ackrc和gitconfig等文件.  可以将它想象为您的点文件的Bundler.
+**fresh** is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files. We also support files such as ackrc and gitconfig. Think of it as Bundler for your dot files.
 
 ### [oh-my-zsh](https://ohmyz.sh/)
 
@@ -88,7 +88,7 @@ ZSH框架，插件，教程和主题的集合，灵感来自各种精彩的列�
   *本地插件，只需指定目录路径即可.
 *高度可配置的安装方法使用 [handlebars](http://handlebarsjs.com/) 模板.
 *超快并行安装.
-*配置文件使用 [TOML](https://github.com/toml-lang/toml) 句法.
+* Configuration file using [TOML](https://github.com/toml-lang/toml) 句法.
 *使用锁定文件可以更快地加载插件.
 
 ### [Toasty](https://github.com/5paceToast/toasty-zsh)
@@ -292,7 +292,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [cdr](https://github.com/willghatch/zsh-cdr) - 轻松设置ZSH的cdr.
 * [change-case](https://github.com/mtxr/zsh-change-case)   - 用于在命令行中快速交换大小写的插件.  ：墨镜：
 * [check-deps](https://github.com/zpm-zsh/check-deps)   -  ZSH插件的助手，允许他们展示如何安装任何缺少的依赖项.  适用于Debian（以及Ubuntu等衍生产品），Arch及其衍生产品，Nodejs和ZSH插件，如果您使用的话 [zpm](https://github.com/zpm-zsh/zpm) 框架.
-* [clean-project](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
+* [clean-project](https://github.com/wwilsman/zsh-clean-project)   - 从项目中删除文件（默认情况下自动）.  用于保持`.DS_Store`和`Thumbs.db`文件混乱您的目录.
 * [clipboard](https://github.com/zpm-zsh/clipboard)   - 添加跨平台帮助程序功能以访问系统剪贴板.  适用于macOS，X11（和Wayland）和Cygwin.
 * [cmd-architect](https://github.com/psprint/zsh-cmd-architect) - 根据历史记录以及使用多字查询提示，移动，删除，添加命令段和搜索历史记录来构建命令.
 * [code-review](https://github.com/xorkevin/code-review-zsh) - 在`git merge-base target_branch base_branch`和`target_branch`上启动`git difftool`.
@@ -596,6 +596,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [title](https://github.com/zpm-zsh/title) - 允许您设置终端窗口标题.
 * [titles](https://github.com/jreese/zsh-titles) - 自动窗口和标签标题 [tmux](https://tmux.github.io) 和xterm兼容的终端.
 * [tmux-fork](https://github.com/sharktamer/zsh-tmux) oh-my-zsh tmux插件的独立分支.
+* [tmux-multisession](https://github.com/nichus/zsh-tmux-multisession) - 插件 [tmux](https://tmux.github.io) 支持单个服务器进程上的多个会话.
 * [tmux-rename](https://github.com/sei40kr/zsh-tmux-rename) - 改名 [tmux](https://tmux.github.io) 窗户自动.
 * [tmux-simple](https://github.com/TBSliver/zsh-plugin-tmux-simple) - 简单的插件使用 [tmux](https://tmux.github.io) 与ZSH.
 * [tmux-vim-integration](https://github.com/jsahlen/tmux-vim-integration.plugin.zsh) - 从相邻的`tmux`窗格打开正在运行的`vim`（或NeoVim）会话中的文件.
@@ -1128,7 +1129,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [simplezsh](https://github.com/fr0zn/simplezsh) - 使用`git`信息显示的最小主题.
 * [sinon](https://github.com/k-kinzal/oh-my-zsh-sinon-theme)   -  k-kinzal的sinon主题.  包括`git`状态装饰.
 * [sixlive](https://github.com/sixlive/sixlive-zsh-theme)   - 这个主题有一个独特的目录列表.  在`git`项目中，目录显示的范围限定为当前存储库根目录.
-* [sk9](https://github.com/skeiter9/sk9-zsh) - Skeiter9's ZSH theme.
+* [sk9](https://github.com/skeiter9/sk9-zsh) -  Skeiter9的ZSH主题.
 * [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -  Atom，Prism和ZSH的主题收藏，灵感来自He-Man的Skeletor和宇宙大师.
 * [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) - 针对黑暗终端进行了优化，显示“git”状态装饰.
 * [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) -  ZSH主题灵感源自 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).

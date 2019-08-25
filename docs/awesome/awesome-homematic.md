@@ -45,6 +45,7 @@
 ## CCU Alternatives
 
 * [debmatic](https://github.com/alexreinert/debmatic) - 在基于Debian的amd64，armhf和arm64系统上安装Homematic OCCU（Debian，Ubuntu，Raspbian，Armbian）
+* [docker-ccu](https://github.com/angelnu/docker-ccu) -  Homematic CCU固件运行为 [Docker](https://www.docker.com) 手臂上的容器和（模拟）x86.
 * [Homegear](https://homegear.eu/index.php/Main_Page) - 免费和开源程序，可将智能家居设备与家庭自动化软件或您自己的脚本连接.
 * [piVCCU](https://github.com/alexreinert/piVCCU) - 将原始Homematic CCU固件安装在Raspbian或Armbian上的虚拟容器（lxc）中.
 * [RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - 轻量级，基于OCCU和Linux / buildroot的发行版，用于在RaspberryPi等嵌入式设备上运行HomeMatic CCU.
@@ -82,6 +83,7 @@
 
 ## Interfacing Software
 
+* [homebridge-homematic](https://github.com/thkl/homebridge-homematic) -  Homematic插件 [homebridge](https://homebridge.io)，一个轻量级NodeJS服务器，您可以在家庭网络上运行，模拟iOS HomeKit API.
 * [node-red-contrib-ccu](https://github.com/rdmtc/node-red-contrib-ccu) - [Node-RED](https://nodered.org) Homematic CCU的节点.
 
 

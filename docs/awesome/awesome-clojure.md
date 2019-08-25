@@ -312,10 +312,11 @@
   * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
-## Natural Language Processing
+## Text Processing
 
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
   * [postagga](https://github.com/turbopape/postagga)
+  * [beagle](https://github.com/tokenmill/beagle)
 
 ## Parsing
 

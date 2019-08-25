@@ -3,7 +3,7 @@
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-> A curated list of awesome things related to Ruby on Rails
+&gt;与Ruby on Rails相关的精彩内容的精选列表
 
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
@@ -44,6 +44,7 @@
 
 ### Apps Made with Rails
 
+- [ActiveWorkflow](https://github.com/automaticmode/active_workflow) - 基于软件代理的智能流程和工作流自动化平台
 - [adopt-a-hydrant](https://github.com/codeforamerica/adopt-a-hydrant) -  Ruby on Rails应用程序，允许公民“采用”公民基础设施，如消防栓
 - [AirCasting](https://github.com/HabitatMap/AirCasting) - 使用智能手机记录，映射和共享健康和环境数据的平台 [:earth_africa:](http://aircasting.org)
 - [alaveteli](https://github.com/mysociety/alaveteli) - 为您所在的司法辖区提供信息自由请求系统  [:earth_africa:](http://alaveteli.org)
@@ -133,7 +134,7 @@
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - 旨在免费教授Web开发的项目  [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - “完成任务”应用程序  [:earth_africa:](http://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - 轻量级，易于使用的电子商务平台，专为独立交易者和中小企业设计  
-- [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - 在线协作和众包项目开发的平台 [:earth_africa:](https://www.agileventures.org/)
+- [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - 政府内部：英国政府如何运作，它在做什么，以及如何参与其中  
 
 ### Tutorials

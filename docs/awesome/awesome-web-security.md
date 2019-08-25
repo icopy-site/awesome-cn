@@ -164,6 +164,12 @@
 - [AWS PENETRATION TESTING PART 1. S3 BUCKETS](https://www.virtuesecurity.com/aws-penetration-testing-part-1-s3-buckets/) - 写 [VirtueSecurity](https://www.virtuesecurity.com/).
 - [AWS PENETRATION TESTING PART 2. S3, IAM, EC2](https://www.virtuesecurity.com/aws-penetration-testing-part-2-s3-iam-ec2/) - 写 [VirtueSecurity](https://www.virtuesecurity.com/).
 
+<a name="azure"></a>
+### Azure
+
+- [Common Azure Security Vulnerabilities and Misconfigurations](https://rhinosecuritylabs.com/cloud-security/common-azure-security-vulnerabilities/) - 写 [@rhinobenjamin](https://twitter.com/rhinobenjamin).
+- [Cloud Security Risks (Part 1): Azure CSV Injection Vulnerability](https://rhinosecuritylabs.com/azure/cloud-security-risks-part-1-azure-csv-injection-vulnerability/) - 写 [@spengietz](https://twitter.com/spengietz).
+
 <a name="fingerprint"></a>
 ### Fingerprint
 
@@ -380,6 +386,7 @@
 ### Auditing
 
 - [prowler](https://github.com/Alfresco/prowler) - 用于AWS安全评估，审核和强化的工具 [@Alfresco](https://github.com/Alfresco).
+- [slurp](https://github.com/hehnope/slurp) - 评估S3存储桶的安全性 [@hehnope](https://github.com/hehnope).
 - [A2SV](https://github.com/hahwul/a2sv) - 自动扫描到SSL漏洞 [@hahwul](https://github.com/hahwul).
 
 <a name="tools-command-injection"></a>
@@ -442,6 +449,7 @@
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - 用于黑盒应用程序故障注入和资源发现的攻击模式和基元的字典.
 - [dirhunt](https://github.com/Nekmo/dirhunt) - 优化的Web爬虫，用于搜索和分析站点的目录结构 [@nekmo](https://github.com/Nekmo).
 - [ssltest](https://www.ssllabs.com/ssltest/)   - 在线服务，对公共互联网上任何SSL Web服务器的配置进行深入分析.  由...提供 [Qualys SSL Labs](https://www.ssllabs.com).
+- [fuzz.txt](https://github.com/Bo0oM/fuzz.txt) - 有潜在危险的文件 [@Bo0oM](https://github.com/Bo0oM).
 
 <a name="tools-scanning"></a>
 ### Scanning
@@ -501,6 +509,7 @@
 - [CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) -  Chrome扩展程序和Express服务器，利用CSS的键盘记录功能 [@maxchehab](https://github.com/maxchehab).
 - [pwngitmanager](https://github.com/allyshka/pwngitmanager) - 测试者的Git经理 [@allyshka](https://github.com/allyshka).
 - [snallygaster](https://github.com/hannob/snallygaster) - 用于扫描HTTP服务器上的秘密文件的工具 [@hannob](https://github.com/hannob).
+- [LinkFinder](https://github.com/GerbenJavado/LinkFinder) -  Python脚本，用于在JavaScript文件中查找端点 [@GerbenJavado](https://github.com/GerbenJavado).
 
 <a name="tools-detecting"></a>
 ### Detecting
@@ -573,7 +582,7 @@
 - [Blog of Osanda](https://osandamalith.com/) - 安全研究和逆向工程.
 - [BRETT BUERHAUS](https://buer.haus/) - 针对应用程序安全性的漏洞披露和疏忽.
 - [n0tr00t](https://www.n0tr00t.com/) - ~# n0tr00t Security Team.
-- [OpnSec](https://opnsec.com/) - 开放思想安全！
+- [OpnSec](https://opnsec.com/) - Open Mind Security!
 - [LoRexxar](https://lorexxar.cn/) - 带着对技术的敬畏之心成长，不安于一隅...
 - [Wfox](http://sec2hack.com/) - 技术宅，热衷各种方面.
 - [RIPS Technologies](https://blog.ripstech.com/tags/security/) -  PHP漏洞的注释.
@@ -587,9 +596,10 @@
 - [@cure53berlin](https://twitter.com/cure53berlin) - [Cure53](https://cure53.de/) 是一家德国网络安全公司.
 - [@XssPayloads](https://twitter.com/XssPayloads) -  JavaScript意外用法的仙境，等等.
 - [@kinugawamasato](https://twitter.com/kinugawamasato) - 日本网络穿透器.
-- [@h3xstream](https://twitter.com/h3xstream/) - Security Researcher, interested in web security, crypto, pentest, static analysis but most of all, samy is my hero.
+- [@h3xstream](https://twitter.com/h3xstream/) - 安全研究员，对网络安全，加密，测试，静态分析感兴趣，但最重要的是，萨米是我的英雄.
 - [@garethheyes](https://twitter.com/garethheyes) - 英文网络穿透者.
 - [@hasegawayosuke](https://twitter.com/hasegawayosuke) - 日本javascript安全研究员.
+- [@shhnjk](https://twitter.com/shhnjk) -  Web和浏览器安全研究员.
 
 ## Practices
 
@@ -654,6 +664,9 @@
 - [Why Facebook's api starts with a for loop](https://dev.to/antogarand/why-facebooks-api-starts-with-a-for-loop-1eob?fbclid=IwAR0BQ7RmYGzQzsL33IJ2LM7lmlH0OSuIuxKLebUUBi1D51R-9UOnHrW0DQg) - 写 [@AntoGarand](https://twitter.com/AntoGarand).
 - [How I could have stolen your photos from Google - my first 3 bug bounty writeups](https://blog.avatao.com/How-I-could-steal-your-photos-from-Google/) - 写 [@gergoturcsanyi](https://twitter.com/gergoturcsanyi).
 - [An example why NAT is NOT security](https://0day.work/an-example-why-nat-is-not-security/) - 写 [@0daywork](https://twitter.com/@0daywork).
+- [WEB APPLICATION PENETRATION TESTING NOTES](https://techvomit.net/web-application-penetration-testing-notes/) - 写 [Jayson](https://techvomit.net/).
+- [Hacking with a Heads Up Display](https://segment.com/blog/hacking-with-a-heads-up-display/) - 写 [David Scrobonia](https://segment.com/blog/authors/david-scrobonia/).
+- [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) - 写 [@slashcrypto](https://twitter.com/slashcrypto).
 
 ## Code of Conduct
 

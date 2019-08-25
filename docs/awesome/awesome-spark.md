@@ -29,6 +29,8 @@ Apache Spark的用户可以选择不同的Python，R，Scala和Java编程语言�
 
 ### SQL Data Sources
 
+SparkSQL有 [serveral built-in Data Sources](https://spark.apache.org/docs/latest/sql-data-sources-load-save-functions.html#manually-specifying-options)  对于文件.  这些包括`csv`，`json`，`parquet`，`orc`和`avro`.  它还支持JDBC数据库以及Apache Hive.  可以通过包含下面列出的软件包或编写自己的软件包来添加其他数据源. 
+
 
 ### Bioinformatics
 
