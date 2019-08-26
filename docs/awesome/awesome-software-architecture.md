@@ -55,12 +55,13 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 ## Frameworks
 
-### Scrum
+### Agile
 
 - [Scrum](https://www.scrumguides.org/) - 开发和维护复杂产品的框架.
 - [SAFe](https://www.scaledagileframework.com/) - 可扩展的敏捷框架.
 - [Nexus](https://www.scrum.org/resources/scaling-scrum) -  Scrum的共同创建者Ken Schwaber表示，可扩展的Scrum. 
-- [The death of Agile](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - “敏捷”如何摆脱敏捷性的基本原则，以及我们需要做些什么来解决问题.
+- [The death of Agile, by Allen Holub](https://www.youtube.com/watch?v=HZyRQ8Uhhmk&feature=youtu.be) - “敏捷”如何摆脱敏捷性的基本原则，以及我们需要做些什么来解决问题.
+- [Agile Architecture, by Allen Holub](https://www.youtube.com/watch?v=0kRCFVGpX7k) + ([part 2](https://www.youtube.com/watch?v=txbS0WJC1bo)） - 我们如何在敏捷世界中使用架构. 
 ### Lean software development
 
 - [Wikipedia: Lean Software Development](https://en.wikipedia.org/wiki/Lean_software_development) - 为软件开发领域翻译精益制造.

@@ -119,7 +119,7 @@ Installers
 * [matchbox](https://github.com/coreos/matchbox) -  CoreOS  - 网络启动和提供容器Linux集群（例如etcd3，Kubernetes，更多）.
 * [MetalK8s](https://github.com/scality/metalk8s) -  CentOS  -  On-Prem  - 云不可知 -  [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) - 安装在42种Linux上的单个k8包
-* [Minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
+* [Minikube](https://github.com/kubernetes/minikube) - 在当地运行Kubernetes
 * [RKE](https://github.com/rancher/rke) - 不可知的骨头 - 不可知云
 * [sealos](https://github.com/fanux/sealos) - 简单的省级HA安装程序
 * [Simplekube](https://github.com/valentin2105/Simplekube) - `systemd`操作系统 - 不可知云
@@ -304,7 +304,7 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -  Kubernetes的阿里巴巴云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) - 亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -  Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernetes
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
    - [IKS](https://www.ibm.com/cloud/container-service) -  IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
@@ -326,6 +326,7 @@ Installers
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
   - [teresa](https://github.com/luizalabs/teresa) - 在Kubernetes之上运行的简单PAAS.
   - [WSO2](http://wso2.com)
+  - [Z.A.R.V.I.S.](https://zarvis.ai) - 免费将Github项目部署到托管Kubernetes
 
 互动学习环境
 =======================================================================
@@ -481,7 +482,7 @@ Projects
 * [BotKube](https://github.com/infracloudio/botkube) - 可帮助您监控Kubernetes集群，调试关键部署并为标准实践提供建议的应用程序
 * [Datadog](http://www.datadoghq.com/)
 * [eventrouter](https://github.com/heptiolabs/eventrouter) - 简单的内省kubernetes服务，将事件转发到指定的接收器.
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
 * [Grafana Kubernetes App](https://github.com/grafana/kubernetes-app)
 * [Heapster](https://github.com/kubernetes/heapster)
 * [Instana](https://instana.com)
@@ -524,7 +525,7 @@ Projects
 
 ## Continuous Delivery
 
-* Build-test-deploy自动化工作流程软件，旨在使工程师的生产环境更加稳定，生活更美好*
+*Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
 
 * [Jenkins](https://jenkins.io)
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) 通过 [Carlos Sanchez](https://www.twitter.com/csanchez)
@@ -645,7 +646,7 @@ Projects
 * [cni-ipvlan-vpc-k8s](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) - 通过Kube资源动态控制DNS记录
-* [Goldpinger](https://github.com/bloomberg/goldpinger) display, monitor and alert on inter-cluster connectivity
+* [Goldpinger](https://github.com/bloomberg/goldpinger) 集群间连接的显示，监控和警报
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
@@ -718,7 +719,7 @@ Projects
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) - 在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-* [kubens](https://github.com/ahmetb/kubectx) - 在kubectl上的命名空间之间切换
+* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [kubensx](https://github.com/shyiko/kubensx) -  Kubernetes的简单群集/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - 解决kubectl
@@ -770,7 +771,7 @@ Projects
 * [Authenticator](https://github.com/heptio/authenticator) - 使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) - 广泛采用统一Kubernetes网络政策和Istio应用政策的开源实施.
 * [Dex](https://github.com/coreos/dex) -  Kubernetes的OpenID和OAuth
-* [Guard](https://github.com/appscode/guard) - Authenticaton webhook server with support for Github, Gitlab, Google, Azure and LDAP (AD) as identity providers.
+* [Guard](https://github.com/appscode/guard) -  Authenticaton webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供商.
 * [kiam](https://github.com/uswitch/kiam) - 允许集群用户将AWS IAM角色与Pod关联.
 * [kube-bench](https://github.com/aquasecurity/kube-bench) -  Kubernetes Bench for Security是一个Go应用程序，用于检查是否根据安全最佳实践部署了Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) - 寻找Kubernetes集群中的安全漏洞.

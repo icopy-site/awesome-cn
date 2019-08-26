@@ -258,7 +258,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [Networks, Computation, and Social Dynamics Lab](http://www.ncasd.org/)   - 由Carter T. Butts领导.  的一部分 [Center for Networks and Relational Analysis](http://relationalanalysis.org/) （CNRA）在加州大学尔湾分校.
 -   [Northeastern University Network Science Institute](http://www.networkscienceinstitute.org/) - 拥有网络科学博士学位课程.
 -   [Northeastern University Center for Complex Network Research](https://www.northeastern.edu/research/centers/center-for-complex-network-research-ccnr/) - 由Albert-LászlóBarabási领导.
--   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - Led by Alessandro Vespignani.
+-   [Northeastern University MOBS Lab - Laboratory for the Modeling of Biological and Socio-technical Systems](http://www.mobs-lab.org/) - 由Alessandro Vespignani领导.
 -   [Pacific Ecoinformatics and Computational Ecology Lab](http://foodwebs.org/) - 非营利性生态网络研究小组（“食物网”）.
 -   [Peter J. Mucha’s Research Group at the University of North Carolina at Chapel Hill](http://mucha.web.unc.edu/networks/).
 -   [Social Network Analysis Group at Stanford](http://sna.stanford.edu/).
@@ -314,7 +314,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [From Hermeneutics to Data to Networks: Data Extraction and Network Visualization of Historical Sources](http://programminghistorian.org/lessons/creating-network-diagrams-from-historical-sources) （_Programming Historian_，2015）.
 -   [Graph Theory and Networks in Biology](https://doi.org/10.1049/iet-syb:20060038) ([preprint](http://arxiv.org/abs/q-bio/0604006) ;  _IET Systems Biology_，2007）.
 -   [Introduction à la visualisation de données : l’analyse de réseau en histoire](http://www.martingrandjean.ch/introduction-visualisation-de-donnees-analyse-de-reseau-histoire/)，法语（_History and Computer Science_，2015）.
-  -  [简介：oùenest l&#39;analyzederéseauxenhistoire？  [简介：历史上的网络分析在什么时候？]]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法文（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
+  -  [简介：oùenest l&#39;analyzederéseauxenhistoire？  [简介：历史中的网络分析在哪里？]]（http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/299），法文（[also in Spanish](http://revistes.uab.cat/redes/article/view/v21-bertran-guzziheeb-lemercier/298) ;  _REDES_，2011）.
 -   [Networks and History](http://onlinelibrary.wiley.com/doi/10.1002/cplx.10054/abstract) （_Complexity_，2002）.
 -   [Networks in Historical Research](http://www.themacroscope.org/?page_id=308) （参见The Historian&#39;s Macroscope_，2013）.
 -   [Networks of Power in Archaeology](http://www.annualreviews.org/doi/abs/10.1146/annurev-anthro-102313-025901) （_Anualual of Anthropology_，2014）.
@@ -407,7 +407,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 
 -   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm)，Pascal Cristofoli，法语 - 根据大规模和在线数据回顾关系社会学和网络分析的现状（_Réseaux_，2008）.
 -   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau，James A. Kitts和Martina Morris  - 可访问的指数随机图建模逻辑和应用介绍（_Demography_，2001）.
--   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)，作者：Peter S. Bearman，James Moody和Katherine Stovel--应用于情感和性关系网络的拓扑网络分析的典型例子（_American Journal of Sociology_，2004）.
+-   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)作者：Peter S. Bearman，James Moody和Katherine Stovel--应用于情感和性关系网络的拓扑网络分析的典型例子（_American Journal of Sociology_，2004）.
 -   [Coauthorship and Citation Patterns in the _Physical Review_](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814)，作者Travis Martin _et al._  - 通过时间网络分析进行科学出版生产力和协作的高度典型研究（[preprint](http://arxiv.org/abs/1304.0473) ;  _Physical Review E_，2013）.
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf)，作者：Jon Kleinberg  - 讨论互联网和社交媒体背景下的小世界影响和社会传染（_Communications of the ACM_，2008）.
 -   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm)，迈克尔夏娃（[English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS) ;  _Networks，2002）.
@@ -795,6 +795,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
       -   [Social Contagion, Information Cascades, Diffusion of Innovations, Etc.](http://bactra.org/notebooks/social-contagion.html)
       -   [Social Networks](http://bactra.org/notebooks/social-networks.html).
       -   [Stochastic Block Models](http://bactra.org/notebooks/stochastic-block-models.html).
+            - 也可以看看： [An Annotated Bibliography on Stochastic Blockmodels](https://www.alexpghayes.com/blog/an-annotated-bibliography-on-stochastic-block-models/) (2019).
 -  Daniel Little关于社会科学哲学的博客文章：
       -   [Networks](http://understandingsociety.blogspot.com/search/label/networks).
       -   [Social Networks](http://understandingsociety.blogspot.com/search/label/social%20networks).
@@ -834,7 +835,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 - 从 [Albert-László Barabási’s review articles](http://barabasi.com/publications/1/review-articles):
     -   [Taming Complexity](http://barabasi.com/f/182.pdf).
     -   [The Network Takeover](http://barabasi.com/f/362.pdf).
--   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - “network _science_”如何出现.
+-   [The Invasion of the Physicists](http://www.sciencedirect.com/science/article/pii/S0378873304000309) - How “network _science_” came up.
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks 和 Netwars](http://bactra.org/weblog/347.html) 和 [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - 一系列博客帖子早于“网络科学”的出现作为流行语，但触及的问题与目前正在该标题下讨论的问题相同.
 -   [The ‘New’ Science of Networks](https://www.jstor.org/stable/29737693) - Review of network science books published in 2002-2003.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - 预测网络科学中的下一篇被高度引用的论文.

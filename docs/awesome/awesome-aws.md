@@ -896,7 +896,7 @@ AWS Repos：
 * [meducation/propono :fire::fire:](https://github.com/meducation/propono) -  Ruby中易于使用的pub / sub.
 * [mozilla/awsbox :fire::fire::fire:](https://github.com/mozilla/awsbox) -  EC2之上的轻量级PaaS，用于部署节点应用程序.
 * [Netflix/aminator :fire::fire::fire:](https://github.com/Netflix/aminator) - 用于创建EBS AMI的工具.
-* [Netflix/archaius :fire::fire::fire::fire:](https://github.com/Netflix/archaius) - 用于配置管理API的库.
+* [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - 用于配置管理API的库.
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - 用于应用程序部署和云管理的Web界面.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - 使用自动缩放和文档最佳实践的工具.
 * [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - 弹性工具，可帮助应用程序容忍随机实例故障.

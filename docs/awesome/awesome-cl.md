@@ -110,12 +110,12 @@ ORMs
 * [datafly](https://github.com/fukamachi/datafly)   - 轻量级数据库库.  [3条款BSD] [15].
 * [sxql](https://github.com/fukamachi/sxql)   - 用于生成SQL的DSL.  [3条款BSD] [15].
 
-Persistent object databases
+持久对象数据库
 ---------------------------
 
 * [bknr.datastore](https://github.com/hanshuebner/bknr-datastore) -  RAM中具有事务日志记录持久性的基于CLOS的lisp-only数据库. [licence](http://bknr.net/html/license.html) .  （另见“Common Lisp Recipes”第21章）
-* [elephant](https://common-lisp.net/project/elephant/)   -  Elephant是Common Lisp的持久对象数据库，具有完整的事务语义.  [LLGPL] [8].
 * [ubiquitous](https://github.com/Shinmera/ubiquitous)   - 提供易于使用的持久配置存储的库.  [艺术许可2.0] [51].
+* [cl-prevalence](https://common-lisp.net/project/cl-prevalence/)   - 内存数据库系统.  对象普遍性的实现，其中业务对象保存在内存中，并记录事务以进行系统恢复. [github fork](https://github.com/40ants/cl-prevalence) .  [LLGPL] [8].
 
 Wrappers
 --------
@@ -175,7 +175,7 @@ Tools
 ## Python ##
 
 * [burgled-batteries](https://github.com/pinterface/burgled-batteries)   -  Python和Common Lisp之间的桥梁.  目标是Lisp程序可以使用Python库.  在Quicklisp上不可用.  未指定许可证.
-* [cl4py](https://github.com/marcoheisig/cl4py)   - 库cl4py（发音为clappy）允许Python程序调用Common Lisp库.  [MIT】【200].
+* [cl4py](https://github.com/marcoheisig/cl4py)   - 库cl4py（发音为clappy）允许Python程序调用Common Lisp库.  [MIT] [200].
 * [py4cl](https://github.com/bendudson/py4cl)   - 允许Common Lisp代码访问Python库的库.  它基本上与cl4py相反.  [MIT] [200].
 * [cl-python](https://github.com/metawilm/cl-python)   -  Common Lisp中的Python实现.  [LLGPL] [8].
 
@@ -248,7 +248,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 [good documentation and a tutorial](https://github.com/plkrueger/CocoaInterface/blob/master/Documentation/UserInterfaceTutorial.pdf).
 * [McCLIM](https://common-lisp.net/project/mcclim/)   -  Common Lisp Interface Manager的实现，版本II.  [GNU LGPL2.1] [11].
 * [cl-webkit](https://github.com/joachifm/cl-webkit)   - 与WebKitGTK +的绑定.  还为应用程序添加了Web浏览功能，充分利用了WebKit浏览引擎的强大功能.  [MIT] [200].
-* [ftw](https://github.com/fjames86/ftw)   -  Win32 GUI库.  [MIT] [200].
+* [ftw](https://github.com/fjames86/ftw) - A Win32 GUI library. [MIT][200].
 * [cl-xul](https://github.com/mmontone/cl-xul)   -  Mozilla XUL绑定.  [外籍] [14].
 * [eql, eql5, eql5-android](https://gitlab.com/eql)   - 嵌入在ECL中的嵌入式Qt4和Qt5 Lisp嵌入在Qt中.  EQL5端口到Android平台.  [MIT] [200].
 * [bodge-nuklear](https://github.com/borodust/bodge-nuklear) - 包裹在上面 [Nuklear](https://github.com/vurtun/nuklear)  即时模式GUI库.  [MIT] [200].
@@ -257,7 +257,7 @@ Windows动态使用Lisp代码并绕过典型的Xcode
 Implementations
 ===============
 
-*：明星： [SBCL](http://www.sbcl.org/index.html) - A fork of CMUCL; compiles to machine code. [Standard compliance][13]. Public domain, with some parts under [Expat][14] and [3-clause BSD][15].
+*：明星： [SBCL](http://www.sbcl.org/index.html)   -  CMUCL的一个分支;  编译成机器代码.  [标准合规] [13].  公共领域，[Expat] [14]和[3-clause BSD] [15]下的部分内容.
 *：明星： [CCL](https://github.com/CodyReichert/awesome-cl/blob/master///ccl.clozure.com/)   -  Clozure Common Lisp;  仅编译器实现，生成本机代码.  [LLGPL] [8].
 * [ECL](https://common-lisp.net/project/ecl/)   -  Embeddable Common Lisp;  编译成C. [GNU LGPL2.1] [11].
 * [ABCL](https://common-lisp.net/project/armedbear/)   - 武装熊Common Lisp;  以JVM为目标，编译为字节码.  [标准一致性] [4].  [GNU GPL3] [2] [Classpath exception] [3].
@@ -329,6 +329,9 @@ CLOS扩展
 *：明星： [closer-mop](http://cliki.net/closer-mop)   - 兼容层，可纠正许多缺失或不正确的MOP功能.  [外籍] [14].
 * [defclass-std](https://github.com/EuAndreh/defclass-std)   - 快速编写DEFCLASS表单的快捷方式宏.  [LLGPL] [8].
 * [specialization-store](https://github.com/markcox80/specialization-store/)   - 基于类型的通用函数.  简化的BSD许可证变体.
+* [inlined-generic-function](https://github.com/guicho271828/inlined-generic-function) -
+ 将Static Dispatch的速度带到CLOS.  [LLGPL] [8].
+* [static-dispatch](https://github.com/alex-gutev/static-dispatch)   - 允许静态（在编译时）而不是动态（运行时）执行标准泛型函数调度.  这类似于C ++和Java等语言中的“重载”.  [MIT] [200].
 
 
 Iteration
@@ -569,7 +572,7 @@ Web框架
 HTML生成器和模板
 -----------------------------
 *  [spinneret](https://github.com/ruricolist/spinneret)   -  Common Lisp HTML5生成器.  [外籍] [14].
-* [flute](https://github.com/ailisp/flute) - 一个易于组合的HTML5生成库
+* [flute](https://github.com/ailisp/flute) - An easily composable HTML5 generation library with the
    最简单的语法.  [MIT] [200].
 *：明星： [cl-who](http://weitz.de/cl-who/)   - 古老的HTML生成器.  [FreeBSD的] [39].
 *：明星： [Djula](https://github.com/mmontone/djula)   -  Django的Common Lisp模板引擎端口.  [外籍] [14].
@@ -681,7 +684,7 @@ Others
 * [Postmaster](https://github.com/eudoxia0/postmaster)   - 简单易用的SMTP / IMAP库.  [外籍] [14].
 * [cl-selenium-webdriver](https://github.com/TatriX/cl-selenium-webdriver/) -  Selenium 2.0的绑定库.
 
-Numerical and Scientific
+数值和科学
 ========================
 
 * [numcl](https://github.com/numcl/numcl)   -  Common Lisp中的Numpy克隆.  [LGPL3] [9].
@@ -775,7 +778,7 @@ Scripting
    和符合ANSI标准的终端上的表格.  [GPL3] [2].
 * [cl-charms](https://github.com/HiTECNOLOGYs/cl-charms) - 一个
    Common Lisp中的`libcurses`接口.  它既提供原料，
-  通过CFFI向libcurses的低级接口，以及更高级别的接口
+  low-level interface to libcurses via CFFI, and a more higher-level
    lispier接口.  [带] [200].
 * [shcl](https://github.com/bradleyjensen/shcl)   -  Common Lisp中类似POSIX的shell.  [Apache2.0的] [51].
 * [cl-progress-bar](https://github.com/sirherrbatka/cl-progress-bar/)   - 进度条，就像在Quicklisp中一样！  [MIT] [200].
@@ -879,7 +882,7 @@ Tools
 
 *：明星： [FiveAM](https://github.com/sionescu/fiveam)   - 简单的回归测试框架.  [FreeBSD的] [39].
 * [CLUnit](https://github.com/tgutu/clunit)   - 单元测试库.  [外籍] [14].
-* [Rove](https://github.com/fukamachi/rove)   -  Rove是Common Lisp应用程序的单元测试框架.  它的目的是成为继承者 [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
+* [Rove](https://github.com/fukamachi/rove) - Rove is a unit testing framework for Common Lisp applications. It is intended to be a successor of [Prove](https://github.com/fukamachi/prove) .  [3条款BSD] [15].
 * [Parachute](https://github.com/Shinmera/parachute) - 可扩展
    和交叉兼容的测试框架.  有了测试依赖性，
    条件，固定装置和重启.  [艺术许可2.0] [51].
@@ -909,6 +912,7 @@ Configuration
 
 *  [py-configparser](https://common-lisp.net/project/py-configparser/)   - 读取和编写Python的类似ConfigParser的配置文件.  [MIT] [200].
 * [envy](https://github.com/fukamachi/envy)   - 配置切换器.  [FreeBSD的] [39].
+* [chameleon](https://github.com/sheepduke/chameleon/)   - 随附配置文件支持的配置管理库.  [MIT] [200].
 
 CSV
 ---
@@ -1003,10 +1007,13 @@ Logging
 
 *：明星： [log4cl](https://github.com/sharplispers/log4cl/)   -  Log4J之后的Logging框架模型.  [Apache2.0的] [89].  与Slime高级集成.
 * [verbose](https://shinmera.github.io/verbose)   - 快速且高度可配置的日志框架.  [艺术许可2.0] [51].
+* [a-cl-logger](https://github.com/AccelerationNet/a-cl-logger)   - 日志库提供不仅仅是字符串的上下文敏感日志记录，而不仅仅是本地文件或输出流.  具有logstash支持，json支持，记录器层次结构，上下文敏感日志记录，作为可检查演示文稿打印的对象，......
 
 致第三方：
 
 * [cl-fluent-logger](https://github.com/fukamachi/cl-fluent-logger) - 一个Common Lisp结构化记录器 [Fluentd](https://www.fluentd.org/).
+
+也可以看看： [extensive comparison of logging libraries](https://sites.google.com/site/sabraonthehill/comparison-of-lisp-logging-libraries).
 
 
 Markdown
@@ -1042,14 +1049,14 @@ Other
 * [corona](https://github.com/eudoxia0/corona) - 从Common Lisp http://eudoxia.me/corona [MIT] [200]创建和管理虚拟机.
 *：明星： [esrap](https://github.com/scymtym/esrap)   -  Packrat解析器.  [外籍] [14].
 * [fast-io](https://github.com/rpav/fast-io)   - 快速八位字节矢量/流I / O.  [3条款BSD] [15].
-* [glyphs](https://github.com/ahungry/glyphs/) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
+* [glyphs](https://github.com/ahungry/glyphs/)   - 一个用于在某些地方减少Common Lisp冗长的库.  [GNU GPL3] [2].
 * [iolib](https://github.com/sionescu/iolib)   -  I / O库.  [外籍] [14].
 * [mixalot](https://github.com/ahefner/mixalot)   - 松散耦合的音频库集合.  未指定许可证.
 * [named-readtables](https://github.com/melisgl/named-readtables)   - 提供可读命名空间，类似于包命名空间.  [3条款BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)   - 以生产力为重点，可扩展/可编程的Web浏览器.  [3条款BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)   - 用于创建压缩数据的库.  [FreeBSD的] [39].
 * [simple-currency](https://github.com/a0-prw/simple-currency)   - 使用欧洲央行公布的每日信息的货币转换库.  [FreeBSD的] [39].
-* [template](https://bitbucket.org/tarballs_are_good/template)   - 模板和函数库，类似于C ++.  [3条款BSD] [15].
+* [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].
 * [texp](http://mr.gy/software/texp/)   - 用于生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)   - 微小的基准测试库.  [艺术许可2.0] [51].
 * [trivial-garbage](https://github.com/trivial-garbage/trivial-garbage)   - 便携式终结器，弱哈希表和弱指针API.  公共区域.

@@ -187,7 +187,6 @@
 ## Job boards aggregators
   1. [Findwork](https://findwork.dev/) 通过Glassdoor（评论）和Crunchbase（资金）抓取多个招聘广告并丰富招聘信息.
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)    - 来自多个董事会和雇主网站的汇总，对位置，工作类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
-  1. [GoRemote.io](https://goremote.io/)
   1. [JS Remotely](https://jsremotely.com/) - 一块板上的所有远程JavaScript作业
   1. [Remote 4 Me](https://remote4me.com/) - 科技和非技术远程工作的聚合器.
   1. [Remote OK](https://remoteok.io/) - 为远程位置刮取许多工作板馈送.
@@ -207,7 +206,7 @@
   1. [HubBOG](http://hubbog.com/)   -  Coworking Space + Startup Accelerator.  波哥大，哥伦比亚
   1. [Hus24](http://hus24.org/en/) - 在瑞典收集空间
   1. [Mokrin House](http://www.mokrinhouse.com/) - 在塞尔维亚农村地区的合作和共用空间
-  1. [Nest Copenhagen](http://nestcopenhagen.dk) - 在丹麦哥本哈根的Colving空间
+  1. [Nest Copenhagen](http://nestcopenhagen.dk) - 在丹麦哥本哈根的合作空间
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - 在墨西哥收集空间
   1. [Nomad House](https://nomadhouse.io) - 全球游牧住房网络
   1. [nomadicHUB](http://nomadichub.com) - 在异国情调的地方收集和共用空间
@@ -235,7 +234,7 @@
   7. [hackerrank.com](https://www.hackerrank.com/) - 代码学习和招聘的在线平台也提供工作机会
 
 ## Events
-  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) - 10 days retreat
+  1. [deceler8](https://sierraymar.exposure.co/decelerate-bali) -  10天撤退
   1. [Project Getaway](http://www.projectgetaway.com) -  30天撤退
 
 ## Newsletters
@@ -371,6 +370,7 @@
   1. [Mapbox](https://www.mapbox.com/jobs/) - 为各种平台映射集成工具.
   1. [MCFTech](https://www.mcftech.com/careers/) - 帮助您成功运营业务的应用程序.
   1. [MeetEdgar](https://meetedgar.com/careers/)   - 自动社交分享.  美国遥控器.
+  1. [Mixmax](https://careers.mixmax.com/) - 与超级大国发送电子邮件.
   1. [Mobile Jazz](https://mobilejazz.com/)   - 我们是一支由高技能工程师，设计师和营销专家组成的专业团队，致力于打造更加美丽的数字世界.  我们是一家远程友好公司，总部位于巴塞罗那.
   1. [Modern Tribe](http://tri.be/about/join-our-team/)   - 一个现代化的数字代理商.  所有自由职业者.  所有专家.
   1. [Modus Create](https://moduscreate.com/)   -  Modus是一个由世界级人才驱动的数字设计建造机构.  PHP，Javascript.
@@ -468,7 +468,7 @@
     - 程序员： [telecommuting](http://programmers.stackexchange.com/questions/tagged/telecommuting?sort=votes) / [home](http://programmers.stackexchange.com/questions/tagged/home?sort=votes)
 
 ## Communities
-1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) -  Subreddit.
+1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - 子网.
 1. [##remotes](https://github.com/remotesclub/remotes) -  IRC频道（[web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - 旅行远程工作人员.
 1. [Remote Year](http://www.remoteyear.com/) - 旅行技术人员1年.
@@ -510,7 +510,7 @@
 
 #### Project Management
   1. [Asana](https://asana.com/) - 项目管理适用于分布式团队.
-  1. [Clubhouse](https://clubhouse.io/) - 软件开发团队的项目管理.
+  1. [Clubhouse](https://clubhouse.io/) - Project management for software development teams.
   1. [Harvest](https://www.getharvest.com/) - 时间跟踪
   1. [Hitask](https://hitask.com/) - 团队的简单任务和项目管理.
   1. [Pinitto.me](https://pinitto.me) - 轻量级实时无限虚拟软木板应用程序（开源）.

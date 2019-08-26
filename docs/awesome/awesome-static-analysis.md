@@ -81,6 +81,7 @@
 
 ## C/C++
 
+* [Astrée](https://www.absint.com/astree/index.htm) ：copyright： - 基于C / C ++抽象解释，检测内存，类型和并发缺陷以及MISRA违规的声音静态分析器.
 * [CBMC](http://www.cprover.org/cbmc/) - 用于C程序的有界模型检查器，用户定义的断言，标准断言，若干覆盖度量分析
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - 铿锵静态分析
 * [CMetrics](https://github.com/MetricsGrimoire/CMetrics) - 测量C文件的大小和复杂性
@@ -231,7 +232,7 @@
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - 检查已知的，公开披露的漏洞的依赖关系.
 * [qulice](https://www.qulice.com/) - 结合了一些（预先配置的）静态分析工具（checkstyle，PMD，Findbugs，......）.
 * [Soot](https://sable.github.io/soot/) - 用于分析和转换Java和Android应用程序的框架.
-* [Spoon](https://github.com/INRIA/spoon)   - 库为Java编写自己的静态分析和架构规则检查器.  可以集成在Maven和Gradle中.
+* [Spoon](https://github.com/INRIA/spoon) - Library to write your own static analyses and architectural rule checkers for Java. Can be integrated in Maven and Gradle.
 * [SpotBugs](https://spotbugs.github.io/)   -  SpotBugs是FindBugs的继任者.  用于静态分析的工具，用于查找Java代码中的错误.
 
 ## JavaScript
@@ -316,7 +317,7 @@
 * [PHPStan](https://github.com/phpstan/phpstan) -  PHP静态分析工具 - 发现代码中的错误而不运行它！
 * [Progpilot](https://github.com/designsecurity/progpilot) - 用于安全目的的静态分析工具
 * [Psalm](https://getpsalm.org/) - 用于在PHP应用程序中查找类型错误的静态分析工具
-* [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - Visualizes metrics and source code
+* [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - 可视化指标和源代码
 * [RIPS](https://www.ripstech.com/) ：copyright： - 用于PHP脚本漏洞的静态源代码分析器
 * [Tuli](https://github.com/ircmaxell/Tuli) - 静态分析引擎
 * [twig-lint](https://github.com/asm89/twig-lint) -  twig-lint是你的twig文件的lint工具.

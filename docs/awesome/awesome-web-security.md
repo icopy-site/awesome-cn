@@ -93,6 +93,12 @@
 
 - [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) - 写 [@jrozner](https://medium.com/@jrozner).
 
+<a name="clickjacking"></a>
+### Clickjacking
+
+- [Clickjacking](https://www.imperva.com/learn/application-security/clickjacking/) - 写 [Imperva](https://www.imperva.com/).
+- [X-Frame-Options: All about Clickjacking?](https://github.com/cure53/Publications/blob/master/xfo-clickjacking.pdf?raw=true) - 写 [Mario Heiderich](http://www.slideshare.net/x00mario).
+
 <a name="ssrf"></a>
 ### SSRF - Server-Side Request Forgery
 
@@ -243,6 +249,11 @@
 - [Stealing CSRF tokens with CSS injection (without iFrames)](https://github.com/dxa4481/cssInjection) - 写 [@dxa4481](https://github.com/dxa4481).
 - [Cracking Java’s RNG for CSRF - Javax Faces and Why CSRF Token Randomness Matters](https://blog.securityevaluators.com/cracking-javas-rng-for-csrf-ea9cacd231d2) - 写 [@rramgattie](https://blog.securityevaluators.com/@rramgattie).
 
+<a name="tricks-clickjacking"></a>
+### Clickjacking
+
+- [Clickjackings in Google worth 14981.7$](https://medium.com/@raushanraj_65039/google-clickjacking-6a04132b918a) - 写 [@raushanraj_65039](https://medium.com/@raushanraj_65039).
+
 <a name="tricks-rce"></a>
 ### Remote Code Execution
 
@@ -392,7 +403,7 @@
 <a name="tools-command-injection"></a>
 ### Command Injection
 
-- [commix](https://github.com/commixproject/commix) - 自动化一体化操作系统命令注入和利用工具 [@commixproject](https://github.com/commixproject).
+- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool by [@commixproject](https://github.com/commixproject).
 
 <a name="tools-reconnaissance"></a>
 ### Reconnaissance
@@ -582,7 +593,7 @@
 - [Blog of Osanda](https://osandamalith.com/) - 安全研究和逆向工程.
 - [BRETT BUERHAUS](https://buer.haus/) - 针对应用程序安全性的漏洞披露和疏忽.
 - [n0tr00t](https://www.n0tr00t.com/) - ~# n0tr00t Security Team.
-- [OpnSec](https://opnsec.com/) - Open Mind Security!
+- [OpnSec](https://opnsec.com/) - 开放思想安全！
 - [LoRexxar](https://lorexxar.cn/) - 带着对技术的敬畏之心成长，不安于一隅...
 - [Wfox](http://sec2hack.com/) - 技术宅，热衷各种方面.
 - [RIPS Technologies](https://blog.ripstech.com/tags/security/) -  PHP漏洞的注释.
@@ -667,6 +678,8 @@
 - [WEB APPLICATION PENETRATION TESTING NOTES](https://techvomit.net/web-application-penetration-testing-notes/) - 写 [Jayson](https://techvomit.net/).
 - [Hacking with a Heads Up Display](https://segment.com/blog/hacking-with-a-heads-up-display/) - 写 [David Scrobonia](https://segment.com/blog/authors/david-scrobonia/).
 - [Alexa Top 1 Million Security - Hacking the Big Ones](https://slashcrypto.org/data/itsecx2018.pdf) - 写 [@slashcrypto](https://twitter.com/slashcrypto).
+- [The bug bounty program that changed my life](http://10degres.net/the-bugbounty-program-that-changed-my-life/) - 写 [Gwen](http://10degres.net/).
+- [List of bug bounty writeups](https://pentester.land/list-of-bug-bounty-writeups.html) - 写 [Mariem](https://pentester.land/).
 
 ## Code of Conduct
 

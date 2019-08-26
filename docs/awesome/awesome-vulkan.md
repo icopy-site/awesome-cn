@@ -148,7 +148,8 @@ drm/kms.
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid)   - 高速C ++ 17 Vulkan游戏引擎.  [MIT]
-*  [bsf](https://github.com/GameFoundry/bsf)   - 用于开发实时图形应用程序的Modern C ++ 14库.  [MIT]
+*  [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - 跨平台，图形API不可知，“自带引擎/框架”样式渲染库. [[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
+*  [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
 *  [Cinder](https://github.com/cinder/Cinder) 和 [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007) ，  [BSD]
 *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)   - 一个支持OpenGL / GLES，Direct3D11 / 12和Vulkan的现代跨平台低级图形库.  [Apache许可证2.0]
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109)   - 在SDL_vulkan.h中添加了跨平台的Vulkan图形支持.  [ZLIB]
@@ -166,7 +167,7 @@ drm/kms.
 *  [V-EZ](https://github.com/GPUOpen-LibrariesAndSDKs/V-EZ)   - 针对Professional Workstation ISV的Vulkan API的轻量级中间件层.  [MIT]
 *  [Google's vulkan-cpp-library](https://github.com/google/vulkan-cpp-library)   - 使用C ++ 11进行内存，资源管理，类型和线程安全以及系统独立性的Vulkan抽象库.  [阿帕奇]
 *  [Vookoo](https://github.com/andy-thomason/Vookoo)   -  Vookoo是一组无依赖项的实用程序，用于帮助构建和更新Vulkan图形数据结构.  [MIT]
-*  [vpp](https://github.com/nyorain/vpp) - Modern C++ Vulkan Abstraction focused on performance and a straightforward interface. [MIT]
+*  [vpp](https://github.com/nyorain/vpp)   - 现代C ++ Vulkan Abstraction专注于性能和简单的界面.  [MIT]
 *  [Intrinsic Engine](https://github.com/begla/Intrinsic)   -  Intrinsic是一款基于Vulkan的跨平台图形和游戏引擎.  [Apache许可证2.0]
 *  [glo / OpenGL Overload](https://github.com/g-truc/glo) - 在Vulkan之上的OpenGL实现.
 *  [Skia](https://skia.googlesource.com/skia) - 谷歌的2D图形库有一个 [Vulkan](https://skia.org/user/special/vulkan) [backend](https://github.com/google/skia/tree/master/src/gpu/vk)，在跨平台演示 [sample application](https://skia.org/user/sample/viewer) 有自己 [window library](https://github.com/google/skia/tree/master/tools/viewer) .  [BSD 3条款] [website](https://skia.org)
