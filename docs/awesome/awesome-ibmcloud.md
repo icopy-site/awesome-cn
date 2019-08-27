@@ -48,8 +48,9 @@
 
 *使用Cloud Foundry部署和管理您的应用程序.*
 
-* [cf-web-golang](https://github.com/victorshinya/cf-web-golang) - 使用Golang和Cloud Foundry启动您的网站.
 * [generator-swiftserver](https://github.com/IBM-Swift/generator-swiftserver) -  Kitura REST Web服务服务器的生成器.
+* [go-cloud](https://github.com/victorshinya/go-cloud) -  Golang样板代码，用于对云平台进行基准测试以托管Go应用程序.
+* [go-website](https://github.com/victorshinya/go-website) - 使用Golang服务器部署您的网站.
 * [ibm-cloud-go](https://github.com/IBM-Cloud/bluemix-go) -  Go库用于访问IBM Cloud API.
 * [insurance-bot](https://github.com/IBM-Cloud/insurance-bot) - 基于消息的保险体验.
 * [kitura](https://github.com/IBM-Swift/Kitura) -  Swift Web框架和HTTP服务器.
@@ -74,7 +75,7 @@
 *使用IBM Cloud Functions（IBM Cloud上的Apache OpenWhisk）部署和管理您的操作/功能.*
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - 使用IBM Watson和IBM Cloud Functions在视频中发现黑暗数据.
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - 使用IBM Cloud Functions构建的用于图像标记和面部检测的iOS应用程序示例.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - 使用无服务器服务（无服务器架构/功能即服务）构建您自己的聊天机器人.
 
 ## Watson
@@ -123,7 +124,7 @@
 * [Getting Started with IBM Cloud](https://cloud.ibm.com/docs/overview/ibm-cloud-platform.html) - 什么是IBM Cloud平台？
 * [IBM Cloud Blog](https://www.ibm.com/blogs/bluemix) -  IBM Cloud的方法，新闻和公告.
 * [IBM Cloud What's new](https://www.ibm.com/cloud-computing/learn-more/new/) - 及时了解最新的IBM Cloud产品和服务.
-* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - How-tos and learning for IBM Cloud platform and its services in Brazilian Portuguese.
+* [IBM Developer Brasil on Medium](https://medium.com/ibmdeveloperbr) - 以巴西葡萄牙语提供的IBM Cloud平台及其服务的方法和学习方法.
 * [IBM Watson on Medium](https://medium.com/ibm-watson) -  IBM Watson on Medium的方法，新闻和公告.
 
 ## YouTube Channels

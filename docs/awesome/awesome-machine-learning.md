@@ -794,7 +794,7 @@ be
 * [python-ucto](https://github.com/proycon/python-ucto) -  Python绑定到ucto（一种基于unicode的基于规则的各种语言的标记化器）.
 * [python-frog](https://github.com/proycon/python-frog)   -  Python绑定到Frog，一个荷兰语的NLP套件.  （pos标记，lemmatisation，依赖解析，NER）
 * [python-zpar](https://github.com/EducationalTestingService/python-zpar) -  Python绑定 [ZPar](https://github.com/frcchang/zpar)，英语的统计词性标注器，连续性解析器和依赖性解析器.
-* [colibri-core](https://github.com/proycon/colibri-core) -  Python绑定到C ++库，以快速和内存高效的方式提取和使用基本的语言结构，如n-gram和skipgrams.
+* [colibri-core](https://github.com/proycon/colibri-core) -  Python绑定到C ++库，以快速且内存有效的方式提取和使用基本的语言结构，如n-gram和skipgrams.
 * [spaCy](https://github.com/explosion/spaCy) - 使用Python和Cython的工业强度NLP.
 * [PyStanfordDependencies](https://github.com/dmcc/PyStanfordDependencies) - 用于将Penn Treebank树转换为斯坦福依赖关系的Python接口.
 * [Distance](https://github.com/doukremt/distance)   -  Levenshtein和汉明距离计算.  ** [已过时] **
@@ -821,7 +821,7 @@ be
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) - &gt;神经网络，变压器和模型的精选集合，使您的机器学习更快，更有效.
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  可以找到文档 [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml)   - 用于生产和分析的自动化机器学习.  让您专注于ML的有趣部分，同时输出生产就绪代码，以及数据集和结果的详细分析.  包括对NLP，XGBoost，CatBoost，LightGBM的支持，以及即将深入学习. 
-* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型存储到NoSQL数据存储区中.
+* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型，存储到NoSQL数据存储区中.
 * [XGBoost](https://github.com/dmlc/xgboost) -  eXtreme Gradient Boosting（Tree）库的Python绑定.
 * [Apache SINGA](https://singa.apache.org) - 用于开发开源机器学习库的Apache Incubating项目.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - 在Python中使用概率编程预订/ iPython笔记本.
@@ -913,6 +913,7 @@ be
 * [MiraiML](https://github.com/arthurpaulino/miraiml)：用于连续和自动机器学习的异步引擎，专为实时使用而构建.
 * [numpy-ML](https://github.com/ddbourgin/numpy-ml)：用numpy编写的ML模型的参考实现
 * [creme](https://github.com/creme-ml/creme)：在线机器学习的框架.
+* [Neuraxle](https://github.com/Neuraxio/Neuraxle)：提供正确抽象的框架，以简化ML管道的研究，开发和部署.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization

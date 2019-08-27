@@ -87,7 +87,7 @@
 * [Sublime Text + R-Box](http://github.com/randy3k/R-Box/) -  Sublime Text 2/3的附加软件包.
 * [TextMate + r.tmblundle](https://github.com/textmate/r.tmbundle) -  TextMate 1/2的附加软件包.
 * [StatET](http://www.walware.de/goto/statet) - 基于Eclipse的IDE for R.
-* [Revolution R Enterprise](https://mran.microsoft.com/) -  Revolution R将免费提供给学术用户，商业软件将专注于大数据，大规模多处理器功能.
+* [Microsoft R](https://mran.microsoft.com/) -  Revolution R将免费提供给学术用户，商业软件将专注于大数据，大规模多处理器功能.
 * [R Commander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - 提供基本图形用户界面的包.
 * [Deducer](http://www.deducer.org/pmwiki/pmwiki.php?n=Main.DeducerManual?from=Main.HomePage) - 菜单驱动的数据分析GUI，带有数据编辑器等电子表格.
 * [Radiant](https://radiant-rstats.github.io/docs) - 基于Shiny的独立于平台的基于浏览器的界面，用于R中的业务分析.
@@ -428,7 +428,7 @@ Data
 * [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - 处理遗传数据的类和方法.
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - 用于人口和家庭数据遗传数据分析的综合方案.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - 系统发育和进化分析.
-* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图很容易.
+* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图变得容易.
 * [lme4](https://github.com/lme4/lme4) - 广义混合效果模型.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - 混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观察的分析相关.
 * [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - 广义混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观测的分析相关.

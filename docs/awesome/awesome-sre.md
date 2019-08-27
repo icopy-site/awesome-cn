@@ -348,6 +348,7 @@
 * [How many nines is my storage system?](https://medium.com/@jamesacowling/how-many-nines-is-my-storage-system-7d16e852d56d)
 * [Don't follow the sun.](https://lethain.com/dont-follow-the-sun/)
 * [The Tyranny of the SLA](https://www.youtube.com/watch?v=4cPqLuIXBnw)
+* [Backblaze Durability is 99.999999999% — And Why It Doesn’t Matter](https://www.backblaze.com/blog/cloud-storage-durability/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -393,7 +394,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
+* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.

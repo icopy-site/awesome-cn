@@ -20,7 +20,7 @@
 
 这个策划列表包含[_awesome _] [awesome]库，
 关于[机器学习]的数据源，教程和演示文稿[ml]
-utilizing the [Ruby][ruby] programming language.
+利用[Ruby] [ruby]编程语言.
 
 此列表中的许多有用资源来自于开发
 [红宝石科学基金会] [sciruby]，我们的[贡献者] [贡献者]和
@@ -122,12 +122,15 @@ the word using the `#RubyML` hash tag!
 - [rann](https://github.com/mikecmpbll/rann) -
   使用backprop实现灵活的Ruby ANN（通过时间，用于循环使用）
   网），梯度检查，adagrad和并行批处理执行.
+
+### Deep learning
+
 - [tensor_stream](https://github.com/jedld/tensor_stream) -
   为TensorFlow for Ruby进行的基础和独立重新实现.
 - [red-chainer](https://github.com/red-data-tools/red-chainer) -
   Ruby的深度学习框架.
 - [tensorflow](https://github.com/somaticio/tensorflow.rb) -  Ruby绑定 [TensorFlow](https://www.tensorflow.org/).
-
+- [ruby-dnn](https://github.com/unagiootoro/ruby-dnn) - 简单深入学习Ruby.
 
 ### Kernel methods
 
@@ -265,7 +268,7 @@ the word using the `#RubyML` hash tag!
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
   -  _建立机器学习技术的推荐引擎_ [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
-  - ：sparkles：_SciRuby机器学习：当前状态和未来_ by [Kenta Murata](https://twitter.com/mrkn)
+  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
   -  _Ruby圆桌会议：Tensorflow_简介 [RubyThursday](https://rubythursday.com/)

@@ -84,7 +84,7 @@
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - 最知名的深度学习框架，包括高级和低级，同时保持灵活性.
 - [skflow](https://github.com/tensorflow/skflow) -  TensorFlow包装器 -  scikit-learn.
 - [Keras](https://keras.io/) -  Keras是另一个深度学习框架，如TensorFlow，它主要是高级的.
-- [carpedm20's repositories](https://github.com/carpedm20) - 许多有趣的神经网络架构由韩国人Taehoon Kim，AKA carpedm20实施.
+- [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
 - [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) - 神经图灵机TensorFlow实现.
 - [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) -  TensorFlow中的转学习教程，用于从预训练的CNN（AlexNet 2012）的高级嵌入中获得愿景.
 - [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - 关于在时间序列上使用LSTM进行分类的我的教程.
@@ -94,6 +94,7 @@
 - [ML / DL repositories I starred](https://github.com/guillaume-chevalier?direction=desc&page=1&q=machine+OR+deep+OR+learning+OR+rnn+OR+lstm+OR+cnn&sort=stars&tab=stars&utf8=%E2%9C%93) -  GitHub充满了很好的代码示例和项目.
 - [Smoothly Blend Image Patches](https://github.com/Vooban/Smoothly-Blend-Image-Patches) - 顺利补丁合并 [semantic segmentation with a U-Net](https://vooban.com/en/tips-articles-geek-stuff/satellite-image-segmentation-workflow-with-u-net/).
 - [Self Governing Neural Networks (SGNN): the Projection Layer](https://github.com/guillaume-chevalier/SGNN-Self-Governing-Neural-Networks-Projection-Layer) - 通过这种方式，您可以在深度学习模型中使用单词而无需培训或加载嵌入.
+- [Neuraxle](https://github.com/Neuraxio/Neuraxle) -  Neuraxle是一个机器学习（ML）库，用于构建整洁的管道，为简化ML应用程序的研究，开发和部署提供正确的抽象.
 
 <a name="some-datasets" />
 
@@ -185,7 +186,7 @@
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) - 令人难以置信的快速分布式CNN培训.
 - [Densely Connected Convolutional Networks](https://arxiv.org/pdf/1608.06993.pdf) -  2017年CVPR最佳论文奖，对CIFAR-10，CIFAR-100和SVHN数据集的最新表现进行了改进，这种新的神经网络架构被命名为DenseNet.
 - [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/pdf/1611.09326.pdf) - 融合U-Net和DenseNet的思想，这个新的神经网络特别适用于图像分割中的大型数据集.
-- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) - Use a distance metric in the loss to determine to which class does an object belongs to from a few examples.
+- [Prototypical Networks for Few-shot Learning](https://arxiv.org/pdf/1703.05175.pdf) - 在一些示例中，使用损失中的距离度量来确定对象属于哪个类.
 
 <a name="attention-mechanisms" />
 
@@ -220,7 +221,7 @@
 - [Attention Mechanisms in Recurrent Neural Networks (RNNs) - IGGG](https://www.youtube.com/watch?v=QuvRWevJMZ4) - 关于注意力机制的阅读小组的讨论（论文：通过共同学习对齐和翻译的神经机器翻译）.
 - [Tensor Calculus and the Calculus of Moving Surfaces](https://www.youtube.com/playlist?list=PLlXfTHzgMRULkodlIEqfgTS-H1AY_bNtq) - 正确概括Tensors如何工作，但只是观看一些视频已经有助于掌握概念.
 - [Deep Learning & Machine Learning (Advanced topics)](https://www.youtube.com/playlist?list=PLlp-GWNOd6m4C_-9HxuHg2_ZeI2Yzwwqt) - 我发现有趣或有用的深度学习视频列表，这是一些东西的混合.
-- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) - A YouTube playlist I composed about DFT/FFT, STFT and the Laplace transform - I was mad about my software engineering bachelor not including signal processing classes (except a bit in the quantum physics class).
+- [Signal Processing Playlist](https://www.youtube.com/playlist?list=PLlp-GWNOd6m6gSz0wIcpvl4ixSlS-HEmr) - 我编写的关于DFT / FFT，STFT和拉普拉斯变换的YouTube播放列表 - 我对我的软件工程学士学位不满，不包括信号处理课程（量子物理课除外）.
 - [Computer Science](https://www.youtube.com/playlist?list=PLlp-GWNOd6m7vLOsW20xAJ81-65C-Ys6k) - 我编写的另一个YouTube播放列表，这次是关于各种CS主题.
 - [Siraj's Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/videos?view=0&sort=p&flow=grid) -  Siraj提供有关深度学习的有趣，快节奏的视频教程.
 - [Two Minute Papers' Channel](https://www.youtube.com/user/keeroyz/videos?sort=p&view=0&flow=grid) - 一些研究论文的有趣和浅薄的概述，例如关于WaveNet或神经样式转移.

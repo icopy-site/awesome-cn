@@ -125,7 +125,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 
 ### [zoppo](https://github.com/zoppo/zoppo)
 
- ** Zoppo **是ZSH的残缺配置框架.  正如一句意大利语所说的那样：“chi va con lo zoppo，impara a zoppicare”，我们意识到我们正在瘫痪行走，现在我们将变得瘫痪.
+ ** Zoppo **是ZSH的残缺配置框架.  正如一句意大利语所说的那样：“chi va con lo zoppo，impara a zoppicare”，我们意识到我们正在瘫痪行走，现在我们将变得残废.
 
 ### [zpacker](https://github.com/happyslowly/zpacker)
 
@@ -278,6 +278,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [bitbucket-git-helpers](https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh) - 添加帮助程序脚本以允许您创建bitbucket PR或在当前分支中打开目录.
 * [blackbox](https://github.com/StackExchange/blackbox) - [Stack Exchange](https://stackexchange.com)用于将密钥/凭证安全地存储在`git`存储库中的工具包.
 * [branch-manager](https://github.com/elstgav/branch-manager) - 用于管理`git`分支的插件.
+* [brew](https://github.com/wolffaxn/brew-zsh-plugin) - 独立插件 [Homebrew](https://brew.sh/) 包管理器.
 * [browse-commit](https://github.com/adolfoabegg/browse-commit) - 一个插件，允许您从命令行打开浏览器中的任何提交.
 * [bumblebee](https://github.com/Niverton/zsh-bumblebee-plugin) - 一个在命令行中切换optirun的插件.
 * [calc](https://github.com/arzzen/calc.plugin.zsh) -  ZSH的计算器.
@@ -393,6 +394,7 @@ zapack是一个基本的快速最小ZSH插件加载器.
 * [gitgo](https://github.com/ltj/gitgo) - 从命令行（仅限macOS）在浏览器中打开Github / Gitlab存储库.
 * [gitignore](https://github.com/voronkovich/gitignore.plugin.zsh) - 用于创建`.gitignore`文件的插件.
 * [gitio](https://github.com/denysdovhan/gitio-zsh) - 一个ZSH插件，用于生成GitHub短URL [git.io](https://git.io).
+* [gitsterv2](https://github.com/xakraz/gisterv2-zsh-theme) - 分叉 [original Gitster](https://github.com/robbyrussell/oh-my-zsh/wiki/External-themes#gitster).
 * [gitsync](https://github.com/washtubs/gitsync) -  ZSH插件，用于改善在多台计算机上的同一存储库上开发的人员的工作流程.
 * [goenv](https://github.com/bbenne10/goenv) - 与Python的virtualenvwrapper类似，管理`$ GOPATH`的Antigen插件.
 * [going_places](https://github.com/or17191/going_places) - 一个有助于使用，创建和维护shell位置列表的插件.

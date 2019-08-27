@@ -133,7 +133,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   _[The Chessboard and the Web. Strategies of Connection in a Networked World](http://yalebooks.yale.edu/book/9780300215649/chessboard-and-web)_, by Anne-Marie Slaughter (2017); applies network science to world politics.
 -   _[Towards Relational Sociology](https://www.routledge.com/products/9780415480147)_, by Nick Crossley (2011).
   -  _ [事物的联系.  网络与网络的文化史[物联网.  网络和网络的文化历史]]（http://www.kulturverlag-kadmos.de/buch/die-verbundenheit-der-dinge.html），SebastianGießmann，德语（2014）.
-  -  _ [国家社会主义下的隐蔽社交网络.  （http://www.degruyter.com/view/product/432196）_：柏林支持网络的受迫害的犹太人[起源和受迫害的犹太人柏林援助网络的工作方法隐藏的社会网络在国家社会主义]的生成和操作，作者MartenDüring，德语（2015; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
+  -  _ [国家社会主义下的隐蔽社交网络.  柏林辅助网络对受迫害犹太人的出现和运作[http://www.degruyter.com/view/product/432196] _国家社会主义隐藏的社会网络：柏林的起源和工作方法，作者MartenDüring，德语（2015; [related publications](http://martenduering.com/research/covert-networks-during-the-holocaust/) 和 [video presentation in English](https://www.youtube.com/watch?v=SlQ7stSU-9w)).
 -   _[Visualisierung komplexer Strukturen. Grundlagen der Darstellung mehrdimensionaler Netzwerke](http://www.campus.de/buecher-campus-verlag/wissenschaft/soziologie/visualisierung_komplexer_strukturen-2467.html)_, by Lothar Krempel, in German.
 
 ## Conferences
@@ -407,7 +407,7 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 
 -   [Aux sources des grands réseaux d’interactions. Retour sur quelques propriétés déterminantes des réseaux sociaux issus de corpus documentaires](https://www.cairn.info/revue-reseaux1-2008-6-page-21.htm)，Pascal Cristofoli，法语 - 根据大规模和在线数据回顾关系社会学和网络分析的现状（_Réseaux_，2008）.
 -   [Birds of a Feather, Or Friend of a Friend? Using Exponential Random Graph Models to Investigate Adolescent Social Networks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2831261/)，作者：Steven M. Goodreau，James A. Kitts和Martina Morris  - 可访问的指数随机图建模逻辑和应用介绍（_Demography_，2001）.
--   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)作者：Peter S. Bearman，James Moody和Katherine Stovel--应用于情感和性关系网络的拓扑网络分析的典型例子（_American Journal of Sociology_，2004）.
+-   [Chains of Affection: The Structure of Adolescent Romantic and Sexual Networks](http://www.soc.duke.edu/~jmoody77/chains.pdf)，作者：Peter S. Bearman，James Moody和Katherine Stovel--应用于情感和性关系网络的拓扑网络分析的典型例子（_American Journal of Sociology_，2004）.
 -   [Coauthorship and Citation Patterns in the _Physical Review_](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.88.012814)，作者Travis Martin _et al._  - 通过时间网络分析进行科学出版生产力和协作的高度典型研究（[preprint](http://arxiv.org/abs/1304.0473) ;  _Physical Review E_，2013）.
 -   [The Convergence of Social and Technological Networks](https://www.cs.cornell.edu/home/kleinber/cacm08.pdf)，作者：Jon Kleinberg  - 讨论互联网和社交媒体背景下的小世界影响和社会传染（_Communications of the ACM_，2008）.
 -   [Deux traditions d’analyse des reseaux sociaux](https://www.cairn.info/revue-reseaux1-2002-5-page-183.htm)，迈克尔夏娃（[English version](https://www.academia.edu/14524365/THE_TWO_TRADITIONS_OF_NETWORK_ANALYSIS) ;  _Networks，2002）.
@@ -631,7 +631,8 @@ __注意：__搜索“@”将返回此页面上列出的所有Twitter帐户.
 -   [ggnetwork](https://CRAN.R-project.org/package=ggnetwork) - 使用ggplot2绘制网络对象的多重几何方法.
 -   [ggraph](https://CRAN.R-project.org/package=ggraph)   - 以ggplot2的精神构建的图形图形语法.  另见：`tidygraph` R包.
 -   [graphlayouts](https://cran.r-project.org/package=graphlayouts) - 基于概念的布局算法 [stress majorization](https://doi.org/10.1007/978-3-540-31843-9_25).
-    -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/)
+    -   [Introducing graphlayouts with Game of Thrones](http://blog.schochastics.net/post/introducing-graphlayouts-with-got/).
+    -   [Network Visualizations in R using ggraph and graphlayouts](http://mr.schochastics.net/netVizR.html).
 -   [hergm](https://CRAN.R-project.org/package=hergm) - 估计和模拟具有局部依赖性的分层指数族随机图模型（HERGM）.
 -   [hierformR](https://CRAN.R-project.org/package=hierformR) - 确定社交网络随时间发展形成社会等级的路径和状态.
 -   [igraph](http://igraph.org/r/) - 网络分析工具的集合.

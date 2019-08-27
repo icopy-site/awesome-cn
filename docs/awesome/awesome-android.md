@@ -92,14 +92,14 @@
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - 美丽的装载栏.
 - [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) - 简介/进入/演练/开始屏幕.
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于Android项目的灵活，易用，一体化应用程序介绍库.
-- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与API 8+兼容的Material Design Calendar
+- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
 - [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView)   - 具有平滑过卷的小型自定义视图.  您可以添加带缩放背景的标题
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠列表视图项的内容时提供了一个奇特的动画.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - 图标和颜色的祝酒词.
-- [DotLoader](https://github.com/bhargavms/DotLoader) - 带Dots的可自定义加载动画.
+- [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - 符合材料设计规格的可自定义滑块小部件.
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - 从材料设计指南中实现功能发现的点击目标.
 - [ShowCaseView](https://github.com/mreram/ShowCaseView) -  ShowcaseView库旨在通过引人注目的平面叠加层向用户突出显示和展示应用程序的特定部分.
@@ -117,6 +117,7 @@
 - [Flashbar](https://github.com/aritraroy/Flashbar) - 适用于Android的高度可定制，功能强大且易于使用的警报库.
 - [YuanaItemSettingView](https://github.com/andhikayuana/YuanaItemSettingView) -  Android的可自定义项目设置视图.
 - [Gradients](https://github.com/bakhtiyork/gradients) - 精选渐变的精选集合.
+- [OneAdapter](https://github.com/ironSource/OneAdapter) - 带有多个模块和挂钩的RecyclerView适配器，可简化和增强使用，同时防止常见错误.
 
 #### Paginate
 - [NoPaginate](https://github.com/NoNews/NoPaginate) - 简单的Android分页库
@@ -317,7 +318,7 @@
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) -  Android Chat和Messaging SDK，用于在Android应用程序中添加实时聊天和应用程序内消息.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)   -  Qiscus SDK是一个轻量级且功能强大的Android聊天库.  Qiscus SDK将允许您轻松地将Qiscus引擎与您的应用程序集成，以制作出酷炫的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)   -  Kommunicate在android中提供开源实时聊天sdk.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用程序内消息，以获得客户支持.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)   - 使用CometChat在几分钟内为您的应用（和网站）添加语音，视频和文字聊天功能.  CometChat的SDK包含一个完整的现成UI，因此您无需花费任何时间构建一个！  这还不是全部，CometChat为实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，信用扣除等提供开箱即用的支持.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/)   - 使用CometChat Pro在几分钟内在Kotlin构建一对一的Android聊天应用程序.  本教程讨论登录，获取联系人列表，用户状态指示器，发送/接收消息等功能.
 
 #### Custom Dialog
@@ -388,7 +389,7 @@
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 来自Googler Chet Hasae和其他人的一系列文章回答了最常见的问题：“在开发Android应用程序时要记住哪些重要规则？”.
 - [Android Hive Tutorials](https://www.androidhive.info) - 非常好的初学者教程.
 - [Android Weekly](https://androidweekly.net) - 包含有关Android的每周信息的时事通讯.
-- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - Generator for icons and other assets.
+- [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) - 在真实设备图稿中包装应用程序截图.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - 通过UI / UX中的Google Developer Expert为您提供各种设计资源.

@@ -223,7 +223,7 @@
 * [Glances](https://github.com/nicolargo/glances)   -  Glances是一个基于curses的跨平台系统监控工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nicolargo/glances）
 * [Go2Shell](https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12)   -  Go2Shell打开Finder中当前目录的终端窗口.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/cn/app/go2shell/id445770608?mt=12）
 * [htop](https://github.com/hishamhm/htop)   -  htop是Unix系统的交互式文本模式进程查看器.  它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
-* [httpie](https://httpie.org) - 现代命令行HTTP客户端 - 用户友好的卷曲替代方案，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，扩展等[[[开源软件] [OSS图标]]（https：// github .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
+* [httpie](https://httpie.org) - 现代命令行HTTP客户端 - 用户友好的卷曲替代方案，具有直观的UI，JSON支持，语法突出显示，类似wget的下载，扩展等[！[开源软件] [OSS图标]]（https：// github .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
 * [hyper](https://hyper.is)   - 基于Web技术构建的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 * [iTerm2](http://www.iterm2.com) -  iTerm2是一个令人惊叹的OS X终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)   - 通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
@@ -282,7 +282,7 @@
 * [OhMyStar](https://ohmystarapp.com/)  管理，探索和分享您的Github Stars的美妙而有效的方式.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
 * [SmartGit](http://www.syntevo.com/smartgit/) - 支持Git客户端.
 * [SourceTree](https://www.sourcetreeapp.com/)   - 适用于Windows或Mac的免费Git和Mercurial客户端.  ！[免费软件] [免费软件图标]
-* [Sublime Merge](https://www.sublimemerge.com/) -  Git client, from the makers of Sublime Text.
+* [Sublime Merge](https://www.sublimemerge.com/) - 来自Sublime Text制造商的Git客户端.
 * [Tower2](https://www.git-tower.com/) - 适用于Mac和Windows的最强大的Git客户端.
 * [Versions](http://www.versionsapp.com/) -  Mac Subversion（SVN）客户端.
 * [GitUp](http://gitup.co/) - 一个简单而强大的Git客户端.[！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
@@ -393,7 +393,7 @@
 * [SimpleMind](https://simplemind.eu/) - 跨平台思维导图工具的全球领导者.
 * [WriteMapper](https://writemapper.com/) - 立即从想法到最终草案.
 * [XMind](http://www.xmind.net) - 这个星球上最受欢迎的思维导图工具.
-* [yGraph Editor](https://www.yworks.com/products/yed) - 高质量的图表变得简单.
+* [yGraph Editor](https://www.yworks.com/products/yed) - High quality diagrams made easy.
 
 #### Screencapturing Software
 
@@ -413,7 +413,7 @@
 
 #### Other Tools
 
-* [APNGb](https://github.com/mancunianetz/APNGb) - PNG image assembler/disassembler app. [![Open-Source Software][OSS Icon]](https://github.com/mancunianetz/APNGb) ![Freeware][Freeware Icon]
+* [APNGb](https://github.com/mancunianetz/APNGb)   -  PNG图像汇编/反汇编应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mancunianetz/APNGb）！[免费软件] [免费软件图标]
 * [Assetizr](https://assetizr.com)   - 调整图像大小并针对Web和移动应用程序优化它们.  ！[Freeware] [Freeware Icon] [！[App Store] [app-store Icon]]（https://itunes.apple.com/de/app/assetizr/id1449126727?l=en&amp;mt=12）
 * [Couleurs](http://couleursapp.com)   - 简单的应用程序，用于抓取和调整您在屏幕上看到的颜色.  ！[免费软件] [免费软件图标]
 * [Frank DeLoupe](http://jumpzero.com/frank/) - 采色工具，支持Retina.
@@ -448,7 +448,7 @@
 * [Caprine](https://github.com/sindresorhus/caprine)   - 第三方以隐私为重点的Facebook Messenger应用.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标]
 * [DingTalk](https://www.dingtalk.com/en)   - 全球500多万家企业和组织使用的免费，强大和专业的办公工具.  ！[免费软件] [免费软件图标]
 * [Discord](https://discordapp.com/) - 游戏玩家的一体化语音和文字聊天，免费，安全，可在桌面和手机上使用.
-* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/)  基于Web的聊天的基于多协议的包装器.  一个应用程序，23个信使服务.  ！[免费软件] [免费软件图标]
+* [Franz](http://meetfranz.com/) - [Electron](http://electron.atom.io/) based, multi-protocol wrapper for web-based chat. One application, 23 messenger services. ![Freeware][Freeware Icon]
 * [Gitter](https://gitter.im)   - 面向开发人员和GitHub用户的即时消息和聊天室系统.  开发人员友好，支持Markdown语法.
 * [Keybase](https://keybase.io/)   - 为每个人提供安全的群组，文件和聊天！  [！[开源软件] [OSS图标]]（https://github.com/keybase）！[免费软件] [免费软件图标]
 * [LimeChat](http://limechat.net/mac/) - 适用于Mac OS X的开源IRC客户端.[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/psychs/limechat）
@@ -585,11 +585,14 @@
 * [iTranslate](http://www.itranslate.com/)   - 使用内置浏览器或iTranslate Safari扩展程序即时翻译整个网站，使用40多种语言.  ！[免费软件] [免费软件图标]
 * [Ludwig](https://ludwig.guru) - 语言搜索引擎，可以帮助您更好地用英语写作.
 
+## Encryption
+
+* [macOS Quick Lock](https://github.com/alichtman/macOS-quick-lock)   - 您将使用的最简单的文件加密工具.  与macOS紧密集成，以及开源，因此您可以信任它.  [！[开源软件] [OSS图标]]（https://github.com/alichtman/macOS-quick-lock）！[免费软件] [免费软件图标]
+
 ## Security Tools
 
 * [BlockBlock](https://objective-see.com/products/blockblock.html)   - 我：“只要持续安装任何东西，请提醒我.”  BlockBlock：“你懂了”
 * [Dylib Hijack Scanner](https://objective-see.com/products/dhs.html) - 简单的实用程序，它将扫描您的计算机以查找易受dylib劫持或被劫持的应用程序.
-* [Encrypto](https://macpaw.com/encrypto) - 用于加密文件和文件夹的免费加密工具
 * [KextViewer](https://objective-see.com/products/kextviewr.html) - 查看OS内核中加载的所有模块.
 * [KnockKnock](https://objective-see.com/products/knockknock.html) - 查看Mac上持续安装的内容.
 * [LinkLiar](http://halo.github.io/LinkLiar)   - 用于macOS的链路层MAC欺骗GUI.  [！[开源软件] [OSS图标]]（https://github.com/halo/LinkLiar）！[免费软件] [免费软件图标]
@@ -606,7 +609,7 @@
 
 * [Algo](https://github.com/trailofbits/algo)   - 云中的个人IPSEC VPN.  [！[开源软件] [OSS图标]]（https://github.com/trailofbits/algo）
 * [FreeVPN Plus](https://www.freevpn.pw)   - 适用于Mac的免费VPN客户端.  ！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https://github.com/jaywcjlove/awesome-mac/blob/master/itunes.apple.com/app/freevpn-加无限免费VPN-的-MAC / id1202726435）
-* [Lantern](https://getlantern.org) - Free application that delivers fast, reliable and secure access to the open internet. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/getlantern/lantern)
+* [Lantern](https://getlantern.org)   - 免费应用程序，提供快速，可靠和安全的访问开放互联网.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/getlantern/lantern）
 * [ShadowsocksX-NG](https://github.com/qiuyuzhou/ShadowsocksX-NG)   - 下一代ShadowsocksX.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/qiuyuzhou/ShadowsocksX-NG）
 * [ShadowsocksX](http://shadowsocks.org/)   - 安全socks5代理，旨在保护您的互联网流量.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/shadowsocks/shadowsocks）
 * [Shimo](https://www.shimovpn.com/) - 适用于Mac的VPN客户端.
@@ -655,7 +658,7 @@
 #### General Tools
 
 * [AirServer](http://www.airserver.com/Download) - 适用于Mac，PC和Xbox One的最先进的屏幕镜像软件接收器.
-* [ControlPlane](http://www.controlplaneapp.com/)   - 管理Mac的配置文件.  根据许多可用的证据来源确定您的位置或您正在做的事情，然后根据您的偏好自动重新配置您的Mac.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
+* [ControlPlane](http://www.controlplaneapp.com/) - Manages configuration profiles for your Mac. Determines where you are or what you are doing based on a number of available evidence sources and then automatically reconfigures your Mac based on your preferences. [![Open-Source Software][OSS Icon]](https://github.com/dustinrue/ControlPlane) ![Freeware][Freeware Icon]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven)   - 统一macOS DNS，因此使用glibc的应用程序可以使用本机堆栈解析DNS.  主要用于VPN.  [！[开源软件] [OSS图标]]（https://github.com/greenboxal/dns-heaven）！[免费软件] [免费软件图标]
 * [HTTrack](http://www.httrack.com) - Useful tool for downloading a whole website and offline browsing. ![Freeware][Freeware Icon]
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) -  Mac的缓存清理器[！[开源软件] [OSS图标]]（https://github.com/kaunteya/MacCacheCleaner）！[免费软件] [免费软件图标]
@@ -674,7 +677,7 @@
 * [Focus](https://masterbuilders.io)   - 美丽的番茄钟时间经理.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/us/app/focus-productivity-timer/id777233759?mt=12）
 * [Nozbe](https://nozbe.com)   - 适用于个人和团队的强大GTD应用程序，支持每台Apple设备（Mac，iPhone，iPad，Watch）.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/pl/app/nozbe-tasks-projects-team/id508957583?mt=12）
 * [OmniFocus](https://www.omnigroup.com/omnifocus/) - 由OmniGroups制作的Nice GTD应用程序.
-* [Taskade](https://www.taskade.com) - Real-time collaborative editor for teams.
+* [Taskade](https://www.taskade.com) - 团队的实时协作编辑器.
 * [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
 * [Things](https://culturedcode.com/things/)   - 令人愉快且易于使用的任务管理器.  （**屡获殊荣的App **）
 * [Todoist](https://todoist.com/mac)   - 跨平台待办事项列表应用程序.  ！[免费软件] [免费软件图标]
@@ -768,7 +771,7 @@
 * [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)   - 替代咖啡因，更好地支持Mac中的暗模式.  [！[开源软件] [OSS图标]]（https://github.com/newmarcel/KeepingYouAwake）
 * [Monity](http://www.monityapp.com/) -  OS X的系统监视小部件.
 * [Mounty](http://enjoygineering.com/mounty/)   - 在读写模式下在Mac OS X 10.9+下重新安装写保护的NTFS卷的小工具.  ！[免费软件] [免费软件图标]
-* [NitroShare](https://nitroshare.net/)   - 跨平台网络文件传输实用程序.  [！[开源软件] [OSS图标]]（https://github.com/nitroshare/nitroshare-desktop）！[免费软件] [免费软件图标]
+* [NitroShare](https://nitroshare.net/) - Cross-platform network file transfer utility. [![Open-Source Software][OSS Icon]](https://github.com/nitroshare/nitroshare-desktop) ![Freeware][Freeware Icon]
 * [Noti](https://noti.center/) - Receive Android notifications on your Mac (with Pushbullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti) ![Freeware][Freeware Icon]
 * [OmniDiskSweeper](https://www.omnigroup.com/more)   - 显示驱动器上的文件，按大小排序.  它可用于查找和删除未使用的文件.  ！[免费软件] [免费软件图标]
 * [OnyX](https://www.titanium-software.fr/en/onyx.html)   - 多功能实用程序，用于验证磁盘和文件，运行清理和系统维护任务，配置隐藏选项等.  ！[免费软件] [免费软件图标]
@@ -831,7 +834,7 @@
 ### Pirated software download site blacklist
  *拒绝我的盗版.  软件供应商可以访问这些地方的权利.*
 
-* AppKed：~~`http://www.macbed.com`~~
+* AppKed：~~`http：//www.macbed.com` ~~
 * Softasm：~~`https：//softasm.com/` ~~
 
 ## Podcasts

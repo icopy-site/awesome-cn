@@ -1321,8 +1321,8 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
       我=== arr.length  -  2
          ？  acc + val + end
         ：i === arr.length  -  1
-         ？  acc + val
-        ：acc + val + separator，
+           ？  acc + val
+          ：acc + val + separator，
     ''
   );
 ```
@@ -3755,10 +3755,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
-     ？  12 +&#39;pm&#39;
-    ：num &lt;12
-     ？  （num％12）+&#39;am&#39;
-    ：（无论12％）PM“;
+       ？  12 +&#39;pm&#39;
+      ：num &lt;12
+         ？  （num％12）+&#39;am&#39;
+        ：（无论12％）PM“;
 ```
 
 <details>
@@ -4922,11 +4922,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
-    ? 1
-    ：n *阶乘（n  -  1）;
+      ? 1
+      ：n *阶乘（n  -  1）;
 ```
 
 <details>
@@ -6065,8 +6065,8 @@ const deepClone = obj =&gt; {
   return Array.isArray（obj）&amp;&amp; obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-     ？  Array.from（OBJ）
-    ：克隆;
+       ？  Array.from（OBJ）
+      ：克隆;
 };
 ```
 
@@ -6150,13 +6150,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
         返回acc;
       }, {})
-    ：obj;
+      ：obj;
 ```
 
 <details>
@@ -6225,9 +6225,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if（acc！== undefined）return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if（acc！== undefined）return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -7177,7 +7177,7 @@ const decapitalize =（[first，... rest]，upperRest = false）=&gt;
 
 转义字符串以在HTML中使用.
 
-使用带有regexp的`String.prototype.replace（）`，该regexp与需要转义的字符匹配，使用回调函数使用字典（对象）将每个字符实例替换为其关联的转义字符.
+使用带有regexp的`String.prototype.replace（）`，该regexp匹配需要转义的字符，使用回调函数使用字典（对象）将每个字符实例替换为其关联的转义字符.
 
 ```js
 const escapeHTML = str =&gt;
