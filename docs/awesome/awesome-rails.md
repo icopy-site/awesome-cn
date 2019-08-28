@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="ekremkaraca/awesome-rails"></div>
-## AwesomeRails
+![awesome-rails](https://raw.githubusercontent.com/ekremkaraca/awesome-rails/master/./.github/awesome-rails.png)
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 

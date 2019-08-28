@@ -6,7 +6,7 @@
   <img width="500" src="https://raw.githubusercontent.com/automata/awesome-jamstack/master/media/jamstack-full-logo.svg?sanitize=true" alt="JAMstack">
   <br /><br /><br />
   <p>
-    <strong>JAMstack</strong> ：名词&#39;jam-stak&#39;\ <br />
+    <strong>JAMstack</strong> ：名词\&#39;jam-stack&#39;\ <br />
     基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
   </p>
   <br /><br />
@@ -102,10 +102,11 @@
 
 - [Disqus](https://disqus.com) - 全球评论系统，可改善网站讨论并连接网络上的对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件可让人们使用他们的Facebook帐户评论您网站上的内容.
+- [Utterances](https://utteranc.es/)   - 基于GitHub问题构建的轻量级注释小部件.  将GitHub问题用于博客评论，维基页面等.
 
 ### Forms
 
-- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - 通过在部署时直接解析HTML文件，对构建时间进行内置表单处理.
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
 
 ### E-commerce
 
@@ -124,7 +125,7 @@
 ### Database
 
 - [GraphQL](https://graphql.org) -  API的查询语言和用于使用现有数据完成这些查询的运行时.
-- [Graphcool](https://graph.cool) - Open-source and self-hosted backend-as-a-service to develop serverless GraphQL backends.
+- [Graphcool](https://graph.cool) - 开源和自托管后端即服务，以开发无服务器的GraphQL后端.
 - [FaunaDB](https://fauna.com) - 关系NoSQL数据库，在云或内部部署中具有联接，索引和多区域ACID事务.
 
 ### Automation

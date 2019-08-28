@@ -13,12 +13,12 @@
 
 - [Apache Apex](https://github.com/apache/apex-core) [Java]  - 大数据流和批处理的统一平台.
 - [Apache Flink](https://github.com/apache/flink) [Java]  - 用于高吞吐量，低延迟数据流处理的系统，支持有状态计算，数据驱动窗口语义和迭代流处理.
-- [Apache Gearpump](https://github.com/apache/incubator-gearpump) [Scala]  - 基于Akka构建的轻量级实时分布式流媒体引擎.
 - [Apache Samza](https://github.com/apache/samza) [Scala / Java]  - 基于Kafka（消息传递，存储）和YARN（容错，处理器隔离，安全性和资源管理）构建的分布式流处理框架.
 - [Apache Spark Streaming](https://github.com/apache/spark) [Scala]  - 可以轻松构建可扩展的容错流应用程序.
 - [Apache Storm](https://github.com/apache/storm)  [Clojure / Java]  - 分布式实时计算系统.  Storm是对Hadoop进行批量处理的流处理. 
 - [AthenaX](https://github.com/uber/AthenaX) [Java]  - 优步在生产中使用的流分析框架
 - [Faust](https://github.com/robinhood/faust) [Python]  - 流处理库，将想法从Kafka Streams移植到Python
+- [Gearpump](https://github.com/gearpump/gearpump) [Scala]  - 基于Akka构建的轻量级实时分布式流媒体引擎.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java]  - 基于Hazelcast构建的通用分布式数据处理引擎.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell]  - 基于Storm的精确一次语义的分布式流处理.
 - [heron](https://github.com/apache/incubator-heron)   -  Twitter的实时分析平台，与Storm完全API兼容.  在Twitter上，风暴已被Heron取代.
@@ -75,7 +75,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [Go]  - 快速磁盘支持的消息传递解决方案
 - [nsq](https://github.com/nsqio/nsq) [Go]  - 旨在大规模运营的实时分布式消息传递平台，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]  - 用于收集，聚合和分派大量应用程序事件（包括日志数据）的数据管道服务.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可以读取和写入大量的端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]  - 连续的大数据摄取基础设施，可读取和写入大量端点，包括S3，JDBC，Hadoop，Kafka，Cassandra等等.
 
 ### Online Machine Learning 
 

@@ -146,7 +146,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [NexClipper](https://github.com/NexClipper/NexClipper) -  NexClipper是专门用于Docker，Apache Mesos，Marathon，DC / OS，Mesosphere，Kubernetes的容器监控和性能管理解决方案 [@Nexclipper](https://github.com/NexClipper)
 - [Out-of-the-box Host/Container Monitoring/Logging/Alerting Stack](https://github.com/uschtwill/docker_monitoring_logging_alerting)   -  Docker主机和容器监控，日志记录和开箱即用的警报，使用cAdvisor，Prometheus，Grafana进行监控，Elasticsearch，Kibana和Logstash进行日志记录，使用elastalert和Alertmanager进行警报.  设置在5分钟.  生产使用的安全模式，内置[自动Nginx反向代理（jwilder）] [nginxproxy].
 - [SwarmAlert](https://github.com/gpulido/SwarmAlert) - 监视Docker Swarm并在发现没有运行正常服务任务的容器时发送Pushover警报.
-- [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)   -  Zabbix模块，提供运行容器，CPU /内存/ blk IO / net容器指标的发现.  还支持Systemd Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此它的性能比任何脚本解决方案都要好（~10x）.
+- [Zabbix Docker module](https://github.com/monitoringartist/Zabbix-Docker-Monitoring)   -  Zabbix模块，提供运行容器，CPU /内存/ blk IO / net容器指标的发现.  还支持Systemd Docker和LXC执行驱动程序.  它是一个动态链接的共享对象库，因此其性能比任何脚本解决方案都要好（~10x）.
 - [Zabbix Docker](https://github.com/gomex/docker-zabbix) - 使用zabbix LLD功能自动监控容器.
 
 ### Networking
@@ -196,7 +196,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [OpenShift][openshift] - An open source PaaS built on [Kubernetes][kubernetes] and optimized for Dockerized app development and deployment by [Red Hat](https://www.redhat.com/en)
 - [Tsuru](https://github.com/tsuru/tsuru) -  Tsuru是一个可扩展的开源平台即服务软件
 - [Workflow](https://github.com/deis/workflow) -  Kubernetes的开源PaaS [Deis](https://github.com/deis) .  以前是Deis v1.
-- [ZEIT Now](https://github.com/zeit/now-cli) ：heavy_dollar_sign： -  Node.js应用程序或具有Dockerfile的任何应用程序的通用无服务器单命令部署.
+- [ZEIT Now](https://github.com/zeit/now) ：heavy_dollar_sign： -  Node.js应用程序或具有Dockerfile的任何应用程序的通用无服务器单命令部署.
 
 ### Reverse Proxy
 
@@ -498,7 +498,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ### Garbage Collection
 
-- [caduc](https://github.com/tjamet/caduc) - 最近没有使用的码头工人垃圾收集器清洁工具
+- [caduc](https://github.com/tjamet/caduc) - 最近没有使用的码头工垃圾收集器清理工具
 - [Docker Clean](https://github.com/ZZROTDesign/docker-clean) - 一个清理Docker容器，图像和卷的脚本 [@zzrotdesign](https://github.com/ZZROTDesign)
 - [Docker-cleanup](https://github.com/meltwater/docker-cleanup) - 自动Docker镜像，容器和卷清理 [@meltwater](https://github.com/meltwater)
 - [docker-custodian](https://github.com/Yelp/docker-custodian)   - 让docker主机保持整洁.  通过 [@Yelp](https://github.com/Yelp)
@@ -608,7 +608,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dealing with linked containers dependency in docker-compose](http://brunorocha.org/python/dealing-with-linked-containers-dependency-in-docker-compose.html) 通过 [@rochacbruno](https://github.com/rochacbruno)
 - [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) 关于在生产中运行Docker你应该知道什么（2016年4月11日发布）**必须看到**
 - [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) -  [@jessfraz] [jessfraz]的最有趣的方式**了解码头工人 [presentation](https://www.youtube.com/watch?v=1qlLUf7KtAw) 关于它@ DockerCon 2015
-- [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://blogs.flexera.com/cloud/cloud-management-best-practices/docker-vs-vms-combining-both-for-cloud-portability-nirvana/)
+- [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.flexera.com/blog/cloud/cloud-management-best-practices/docker-vs-vms-combining-both-for-cloud-portability-nirvana/)
 - [Don't Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd) 通过 [@King Chung Huang](https://github.com/kinghuang)
 - [GUI Apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) 通过[@fgrehm] [fgrehm]
 

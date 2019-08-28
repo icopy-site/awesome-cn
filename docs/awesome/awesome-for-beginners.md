@@ -5,7 +5,7 @@
 
 灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
 
-If you are a maintainer for open-source projects, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
+如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
 
 如果您希望贡献，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，并按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上，当创建一个新的“first-timers-only”问题时会收到通知.
 
@@ -28,6 +28,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome)  _（标签：统计：贡献欢迎）_ <br>  使用数据流图进行可扩展机器学习的计算
 - [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用OpenGL和GLSL的音乐可视化工具库.  有使用Qt5，SDL，emscripten，iTunes，Kodi的应用程序. 
+- [Roc](https://github.com/roc-project/roc/labels/help%20wanted)  _（标签：求助）_ <br>  用于通过网络进行实时音频流传输的工具包.
 
 ## Clojure
 
@@ -172,6 +173,7 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 - [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：级别：首发）_ <br>  有史以来最严格，最自以为是的蟒蛇皮！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个开源聊天操作框架.
+- [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  灵活而强大的Python数据分析/操作库，提供类似于R data.frame对象，统计函数等的标记数据结构
 
 ## Ruby
 
@@ -214,4 +216,4 @@ If you are a maintainer for open-source projects, add the label `first-timers-on
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.
+To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.

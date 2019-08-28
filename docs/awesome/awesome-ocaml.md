@@ -1,5 +1,5 @@
 <div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
-令人敬畏的OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/rizo/awesome-ocaml)
+令人敬畏的OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
 =============
 
 <img src="https://raw.githubusercontent.com/ocaml-community/awesome-ocaml/master/colour-logo.png" width="70%" />
@@ -209,8 +209,7 @@
   - [ocp-indent](http://www.typerex.org/ocp-indent.html) -  OCaml的缩进工具，可以从Emacs和Vim等编辑器中使用.
     - [Vim plugin](https://github.com/def-lkb/ocp-indent-vim).
 -  **代码覆盖率**：
-  - [Bisect](http://bisect.x9c.fr/)
-  - [Bisect_ppx](https://github.com/rleonid/bisect_ppx) 上一个工具的最新分支.
+  - [Bisect_ppx](https://github.com/aantron/bisect_ppx)
 
 
 ## Exercises
@@ -271,7 +270,7 @@
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
 - [mikmatch](https://github.com/mjambon/mikmatch) - 使用regexp扩展OCaml模式匹配
-- [Inlined records in constructors](http://www.lexifi.com/blog/ocaml/inlined-records-constructors)
+- [Inlined records in constructors](https://www.lexifi.com/ocaml/inlined-records-constructors/)
 - [Algebraic Data Types](https://espertech.wordpress.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
 - [OCaml Style Guide (by Jane Street)](https://opensource.janestreet.com/standards/) - 另见：[[1]]（https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html），[[2]]（http://www.cs. cornell.edu/Courses/cs312/2001sp/style.html），[[3]]（https://www.seas.upenn.edu/~cis120/current/programming_style.shtml）.
@@ -301,7 +300,7 @@
 -  **文章**：
   - [A Guide to Extension Points in OCaml](http://whitequark.org/blog/2014/04/16/a-guide-to-extension-points-in-ocaml/)
   - [Extension Points, or how OCaml is becoming more like Lisp](https://blogs.janestreet.com/extension-points-or-how-ocaml-is-becoming-more-like-lisp)
-  - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/ocaml/syntax-extensions-without-camlp4-lets-do-it/)
+  - [Syntax extensions without Camlp4: let's do it!](https://www.lexifi.com/ocaml/syntax-extensions-without-camlp4-lets-do-it/)
   - [Reading Camlp4 – Ambassador to the Computers](https://ambassadortothecomputers.blogspot.com/p/reading-camlp4.html)
 -  **语法扩展**：
   - [ppx_import](https://github.com/ocaml-ppx/ppx_import) -  Import是一种语法扩展，允许从其他编译的接口文件中提取类型或签名.
@@ -353,7 +352,7 @@
   - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - 适用于Windows的opam存储库和实验版本.
   - [makorel](https://github.com/sagotch/makorel) - 轻松发布OPAM包.
   - [esy](https://github.com/esy/esy) - 使用Reason / OCaml进行本机开发的package.json工作流.
-  
+
 -  **构建工具**：
   - [Oasis](http://oasis.forge.ocamlcore.org/)   - 在OCaml项目中集成配置，构建和安装系统的工具.  它有助于在构建系统中创建标准入口点，并允许外部工具轻松分析项目.
     - [oasis2opam](https://github.com/ocaml/oasis2opam) - 将OASIS元数据转换为OPAM包描述的工具.
