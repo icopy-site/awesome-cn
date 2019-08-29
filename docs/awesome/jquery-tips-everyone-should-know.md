@@ -48,6 +48,19 @@ if（typeof jQuery ==&#39;undefined&#39;）{
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Check Whether an Element Exists
+
+在使用HTML元素之前，您需要确保它是DOM的一部分.
+
+```javascript
+if ($("#selector").length) {
+  //用元素做点什么
+}
+```
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ### Use `.on()` Binding Instead of `.click()`
 
 使用`.on（）`比使用`.click（）`有一些优势，例如添加多个事件的能力......
@@ -101,7 +114,7 @@ $（&#39;.container&#39;）.on（&#39;click&#39;，&#39;.back-to-top&#39;，func
 
 ```javascript
 $ .preloadImages = function（）{
-  for（is i = 0; in &lt;arguments.length; i ++）{
+  for（var i = 0; i &lt;arguments.length; i ++）{
      $（” <img>  &#39;）.attr（&#39;src&#39;，arguments [i]）;
   }
 };
@@ -129,7 +142,7 @@ $（&#39;img&#39;）.on（&#39;load&#39;，function（）{
 
 ### Fix Broken Images Automatically
 
- 如果您碰巧在您的网站上发现了破损的图片链接，那么逐个替换它们可能会很痛苦.  这段简单的代码可以省去很多麻烦：
+ 如果您碰巧在您的网站上发现了破损的图片链接，那么逐一替换它们可能会很痛苦.  这段简单的代码可以省去很多麻烦：
 
 ```javascript
 $（&#39;img&#39;）.on（&#39;error&#39;，function（）{
@@ -198,7 +211,7 @@ $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
 
 ### Disabling Input Fields
 
- 有时您可能希望禁用表单或其文本输入之一的提交按钮，直到用户执行了某个操作（例如，选中“我已阅读术语”复选框）.  将“disabled”属性添加到输入中，以便在需要时启用它：
+At times you may want the submit button of a form or one of its text inputs to be disabled until the user has performed a certain action (e.g., checking the "I've read the terms" checkbox). Add the `disabled` attribute to your input so you can enable it when you want:
 
 ```javascript
 $（&#39;input [type =“submit”]&#39;）.prop（&#39;disabled&#39;，true）;
@@ -449,7 +462,7 @@ $（document）.ready（function（）{
 })
 ```
 
-......你也可以为特定元素做同样的事情：
+...你也可以为特定元素做同样的事情：
 
 ```javascript
 $（document）.ready（function（）{
@@ -460,6 +473,10 @@ $（document）.ready（function（）{
 ```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+
+
+
 
 
 ## Support

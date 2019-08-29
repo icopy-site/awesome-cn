@@ -83,6 +83,7 @@
 - [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布它们.
 - [qri](https://qri.io) - 数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
+- [SimpleID](https://simpleid.xyz/) - 用于向您的应用添加以太坊身份验证和内容固定的开发人员工具. [Source](https://github.com/simplesecure/)
 - [TallyLab](https://tallylab.com/) - 本地优先的端到端加密数据日记应用程序，用于捕获，分析和共享有关任何和所有内容的数据.
 - [Temporal](https://github.com/RTradeLtd/Temporal) -  Temporal是一个易于使用的API和平台，用于将IPFS和其他分布式/分散式存储技术集成到企业应用程序中
 - [Textile Photos](https://www.textile.photos) -  Textile Photos是一款安全的移动数码钱包，适用于您的照片. [Source](https://github.com/textileio/textile-mobile)
@@ -96,7 +97,6 @@
 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
-- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
@@ -111,6 +111,7 @@
 - 2015-09-13: [Introduction to IPFS](http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example) 
 - 2015-09-10: [First Steps Toward Implementing Distributed Permanent Web With IPFS](https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/) 
 - 2015-09-08: [HTTP is obsolete. It's time for the distributed, permanent web](https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html) 
+- [Downloading nodejs versions with nvm/n over IPFS](https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc) 
 
 ## Datasets
 
@@ -169,6 +170,7 @@
 - [IPRedirect](https://github.com/JayBrown/IPRedirect)   - 用于将IPFS / IPNS地址重定向到本地网关的浏览器用户脚本.  这应该适用于尚未为其编写扩展的任何浏览器，并且支持用户脚本.
 - [ipscend](https://github.com/diasdavid/ipscend) - 用于在IPFS中托管Web应用程序和静态网站的工具
 - [mahuta](https://github.com/ConsenSys/Mahuta) -  Mahuta是一种即插即用服务，适用于您的微服务架构，允许收集，存储和索引IPFS数据并提供搜索功能（全文，查询）.
+- [orbit-db](https://github.com/orbitdb/orbit-db) -  OrbitDB是一个无服务器，分布式，对等数据库，它使用IPFS作为其数据存储，IPFS Pubsub自动与同行数据库同步.
 - [pinbot](https://github.com/whyrusleeping/pinbot) - 通过IRC固定内容
 - [Public gateway status checker](https://ipfs.fooock.com/) - 用于检查IPFS网关的公共状态的Web应用程序，包括延迟和网关可写状态. [Source](https://github.com/fooock/ipfs-gateway-checker)
 - [Siderus Orion](https://orion.siderus.io) - 易于使用的IPFS桌面客户端，适用于macOS，Windows和Linux [Source](https://github.com/Siderus/Orion)

@@ -15,7 +15,7 @@
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 小型且高度便携的检测测试，映射到Mitre ATT和CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)   - 自动战术技术和程序.  手动重新运行复杂序列以进行回归测试，产品评估，为研究人员生成数据.
 * [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队合作达到一个新的水平.
-* [Caldera](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project.
+* [Caldera](https://github.com/mitre/caldera)   - 自动对手仿真系统，可在Windows企业网络中执行折衷后的对抗行为.  它使用计划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预配置对手模型在运营期间生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)   - 模块化，菜单驱动，跨平台工具，用于构建可重复，延时，分布式安全事件.  轻松为Blue Team演习和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，分心和诱饵，以支持和扩展他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 用于进行对抗性模拟的信息安全准备工具.
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 轻量级实用程序，用于生成恶意网络流量，并帮助安全团队评估安全控制和网络可见性.
@@ -33,7 +33,7 @@
 * [Envdb](https://github.com/mephux/envdb)   -  Envdb将您的生产，开发，云等环境转变为数据库集群，您可以使用osquery作为基础进行搜索.  它使用（群集）节点代理包装osquery进程，该代理可以与中央位置进行通信.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于Windows的应用程序，提供工作流程自动化，案例管理和安全响应功能.
 * [GRR Rapid Response](https://github.com/google/grr)   - 事件响应框架侧重于远程实时取证.  它由安装在目标系统上的python代理（客户端）和可以管理代理并与代理通信的python服务器基础结构组成.
-* [Kolide Fleet](https://kolide.com/fleet)   - 为安全专家量身定制的最先进的主机监控平台.  利用Facebook经过实战考验的osquery项目，Kolide可以快速回答大问题.
+* [Kolide Fleet](https://kolide.com/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions.
 * [Limacharlie](https://github.com/refractionpoint/limacharlie) - 由一系列小型项目组成的端点安全平台，它们协同工作，为您提供跨平台（Windows，OSX，Linux，Android和iOS）低级环境，用于管理和将其他模块推送到内存中以扩展其功能.
 * [Mozilla Investigator (MIG)](http://mig.mozilla.org/)   - 在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 * [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理流程并促进事件处理程序的实时活动.
@@ -155,7 +155,7 @@
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - 允许用户在Windows，Linux和OS X上使用YARA扫描IOC的磁盘和内存.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用特制的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关MySQL的取证数据.
-* [Scout2](https://nccgroup.github.io/Scout2/) - 安全工具，可让Amazon Web Services管理员评估其环境的安全状况.
+* [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 用于从云服务获取取证数据的命令行实用程序.
 * [Stenographer](https://github.com/google/stenographer)   - 数据包捕获解决方案，旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包的子集的简单，快速访问.  它可以存储尽可能多的历史记录，管理磁盘使用情况，以及在磁盘限制被触发时删除.  它非常适合在事件发生之前和事件期间捕获流量，而无需明确需要存储所有网络流量.
 * [sqhunter](https://github.com/0x4d31/sqhunter)   - 基于osquery和Salt Open（SaltStack）的威胁猎手，可以发出临时或分布式查询，而无需osquery的tls插件.  sqhunter允许您查询打开的网络套接字并根据威胁情报源进行检查.
@@ -202,7 +202,7 @@
 ### Windows Evidence Collection
 
 * [AChoir](https://github.com/OMENScan/AChoir) - 框架/脚本工具，用于标准化和简化Windows脚本实时采集实用程序的过程.
-* [Binaryforay](http://binaryforay.blogspot.co.il/p/software.html) - List of free tools for win forensics (http://binaryforay.blogspot.co.il/).
+* [Binaryforay](http://binaryforay.blogspot.co.il/p/software.html) -  win forensics免费工具列表（http://binaryforay.blogspot.co.il/）.
 * [Crowd Response](http://www.crowdstrike.com/community-tools/)   - 轻量级Windows控制台应用程序，旨在帮助收集事件响应和安全约定的系统信息.  它具有众多模块和输出格式.
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector)   - 在实时Windows系统上收集不同人工制品并将结果记录在csv文件中的工具.  通过对这些人工制品的分析，可以检测到早期的妥协.
 * [Fast Evidence Collector Toolkit (FECT)](https://github.com/jipegit/FECT)   -  Light事件响应工具包，用于收集可疑Windows计算机上的证据.  基本上它是由非技术精明的人与熟练工事件处理程序一起使用.
@@ -211,6 +211,7 @@
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)   -  Mandiant的免费工具，用于收集主机系统数据并报告妥协指标（IOC）的存在.  仅支持Windows.
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)   - 来自Fidelis Cyber​​security的免费工具，它使用OpenIOC和YARA规则来报告端点的状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner测量系统的状态，并在运行完成时生成任何匹配规则的报告.  仅限Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) - 使用yara规则和其他指标（IOC）扫描终点的免费红外扫描仪.
+* [MEERKAT](https://github.com/TonyPhipps/Meerkat) - 基于PowerShell的Windows分类和threathunting.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时Windows系统的快速事件概述.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/)   -  PSRecon使用PowerShell（v2或更高版本）从远程Windows主机收集数据，将数据组织到文件夹中，散列所有提取的数据，散列PowerShell和各种系统属性，并将数据发送给安全团队.  数据可以推送到共享，通过电子邮件发送或保留在本地.

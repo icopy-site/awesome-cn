@@ -75,7 +75,7 @@
 
 - [Remix](http://getremix.com/) - 一个允许公交机构轻松规划路线的网络应用程序.
 - [AC Transit RestroomFinder](https://github.com/actransitorg/ACTransit.RestroomFinder) - 使用GPS和屏幕地图，为公交运营商和现场工作人员确定最近的授权洗手间.
-- [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) - 该应用程序支持学区对运输和维护员工的培训操作，主要是公交运营商和重型教练机构（学徒和旅程），尽管该系统支持新课程和学徒计划.
+- [AC Transit Training and Education Department (TED) application](https://github.com/actransitorg/ACTransit.Training) - 该应用程序支持学区对运输和维护员工的培训操作，主要是公交运营商和重型教练机械师（学徒和旅程），尽管该系统支持新课程和学徒计划.
 - [AC Transit Customer Relations application (CusRel)](https://github.com/actransitorg/ACTransit.CusRel) - Public transit ticketing system for customer issues and feedback with: inter-departmental routing with notifications, department/person assigments, simple workflow, ticket searching, pre-canned reports, daily reminders and more.
 - [TransAM](http://camsys.software/products/transam)   - 公共交通机构的开源资产管理平台.  开源 [on Github](https://github.com/camsys/transam_core).
 - [RidePilot](https://github.com/camsys/ridepilot) - 开源计算机辅助调度和调度（CASD）软件系统，以满足小规模人类服务运输机构的需求（更多信息，请参阅 [Cambridge Systematics's marketing site](http://camsys.software/products/ridepilot)).
@@ -114,7 +114,7 @@
 
 #### Native Apps (open source)
 
--  OneBusAway应用程序 -  [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-iphone), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219)
+-  OneBusAway应用程序 -  [Android](https://play.google.com/store/apps/details?id=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [Fire Phone](http://www.amazon.com/gp/mas/dl/android?p=com.joulespersecond.seattlebusbot) [*(source code)*](https://github.com/OneBusAway/onebusaway-android), [iOS](https://itunes.apple.com/us/app/onebusaway/id329380089)  [*(source code)*](https://github.com/OneBusAway/onebusaway-iphone), [Windows Phone](https://www.microsoft.com/en-us/store/apps/onebusaway/9nblggh0cbd9) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows-phone), [Windows 8](https://www.microsoft.com/en-us/store/apps/onebusaway/9wzdncrdm5pc) [*(source code)*](https://github.com/OneBusAway/onebusaway-windows8), [Google Glass GDK](https://github.com/OneBusAway/onebusaway-android/pull/219) [*(source code)*](https://github.com/OneBusAway/onebusaway-android/pull/219), [Alexa skill](https://www.amazon.com/OneBusAway/dp/B01ELVUYCW/) [*(source code)*](https://github.com/OneBusAway/onebusaway-alexa)
 - [OpenTripPlanner Android](https://github.com/CUTR-at-USF/OpenTripPlanner-for-Android/wiki) - 适用于Android的Android应用 [OpenTripPlanner](http://www.opentripplanner.org/)
 - [OpenTripPlanner iOS](https://github.com/opentripplanner/OpenTripPlanner-iOS) - 一个iOS应用程序 [OpenTripPlanner](http://www.opentripplanner.org/)
 - [Transportr](https://github.com/grote/Transportr) 一款使用的Android应用 [public-transport-enabler](https://github.com/schildbach/public-transport-enabler) 为了连接到全球许多不同的传输网络.
@@ -297,7 +297,7 @@
     - [gbfs R package](https://github.com/ds-civic-data/gbfs) - 与R中的GBFS源交互的功能，允许用户为指定的城市/自行车共享程序保存和累积整齐的.rds数据集.
 - [GTFS-ride](https://github.com/ODOT-PTS/GTFS-ride) - 通过俄勒冈州交通部和俄勒冈州立大学合作开发的开放式固定路线交通乘客数据标准.
 - [Managed and Tolled Lanes Feed Specification (MTLFS)](https://github.com/vta/Managed-and-Tolled-Lanes-Feed-Specification) - 建议包含托管和收费车道收费规范（MTLFS）的模式，并定义由所开发的所有文件中使用的字段 [Santa Clara Valley Transportation Authority](http://www.vta.org/).
-- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 基于GTFS的运输网络格式*车辆和容量数据*适用于Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的动态运输建模.
+- [GTFS-plus](https://github.com/osplanning-data-standards/GTFS-PLUS) - 基于GTFS的运输网络格式*车辆和容量数据*适用于由Puget Sound地区委员会，UrbanLabs LLC，LMZ LLC和旧金山县交通管理局开发的动态运输建模.
 - [Dyno-Demand](https://github.com/osplanning-data-standards/dyno-demand) - 基于GTFS的旅行需求数据格式，侧重于个人乘客*需求*，适用于旧金山县交通管理局，LMZ LLC和UrbanLabs LLC开发的动态网络建模.
 - [Dyno-Path](https://github.com/osplanning-data-standards/dyno-path) - （正在开发中 - 见 [this post](https://github.com/osplanning-data-standards/GTFS-PLUS/pull/52#issuecomment-331231000)）个别乘客*轨迹的数据*.
 - [GTFS-stat](https://github.com/osplanning-data-standards/GTFS-STAT) -  GTFS公交网络的扩展，其中包含由UrbanLabs LLC和旧金山县交通管理局开发的性能数据的附加文件.

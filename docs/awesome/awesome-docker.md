@@ -608,7 +608,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Dealing with linked containers dependency in docker-compose](http://brunorocha.org/python/dealing-with-linked-containers-dependency-in-docker-compose.html) 通过 [@rochacbruno](https://github.com/rochacbruno)
 - [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) 关于在生产中运行Docker你应该知道什么（2016年4月11日发布）**必须看到**
 - [Docker Containers on the Desktop](https://blog.jessfraz.com/post/docker-containers-on-the-desktop/) -  [@jessfraz] [jessfraz]的最有趣的方式**了解码头工人 [presentation](https://www.youtube.com/watch?v=1qlLUf7KtAw) 关于它@ DockerCon 2015
-- [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.flexera.com/blog/cloud/cloud-management-best-practices/docker-vs-vms-combining-both-for-cloud-portability-nirvana/)
+- [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.flexera.com/blog/cloud/2014/09/docker-vs-vms-combining-both-for-cloud-portability-nirvana/)
 - [Don't Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd) 通过 [@King Chung Huang](https://github.com/kinghuang)
 - [GUI Apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) 通过[@fgrehm] [fgrehm]
 
