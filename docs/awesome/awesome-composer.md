@@ -75,10 +75,11 @@
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - 下载并安装NodeJS和npm作为composer包. 
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin)   - 将所有作曲家供应商包装在您自己的命名空间中.  用于WordPress插件.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - 该插件生成一个`vendor / preload.php`文件来预热Opcache.
-- [PHP Inc](https://github.com/krakphp/php-inc) - 自动包含autoload和autoload-dev文件，以便于在编写器加载的应用程序中使用函数和分组定义.
+- [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - 使您可以在不同的编写器存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - 防止将开发包添加到require和进入生产环境中.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - 一次防止多个安装或更新操作.
+- [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) - 仅使用`url`和`path`下载外部资源（ZI​​P / TAR文件）的轻量级机制.
 
 ## Tools
 
@@ -177,7 +178,11 @@ Private Packagist]（http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain
 
 ## Packagist
 
-- [Packagist Mirror from Brazil](https://github.com/Webysther/packagist-mirror) - 这是一个维护稳定版本 [packagist crawler](https://github.com/hirak/packagist-crawler).
+[Packagist](https://packagist.org) 是PHP包存储库.
+
+### Setup a Packagist Mirror 
+
+- [Packagist Mirror](https://github.com/Webysther/packagist-mirror)   - 此脚本有助于设置包装镜像.  它是维护和稳定的版本 [Packagist Crawler](https://github.com/hirak/packagist-crawler).
 - [Docker Image](https://github.com/Webysther/packagist-mirror-docker) - 此Docker镜像有助于创建自定义的包装镜像.
 - [Packagist Mirror from Indonesia](https://github.com/IndraGunawan/packagist-mirror) - 另一种创建包装镜像的实现.
 
@@ -192,14 +197,15 @@ Private Packagist]（http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain
 - 非洲
   - 南非 -  [https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za](https://github.com/jakoch/awesome-composer/blob/master/packagist.co.za)
 - 亚洲
-  - 中国 -  [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/)
+  - 中国 -  [php.cnpkg.org](https://php.cnpkg.org), [https://pkg.phpcomposer.com/](https://pkg.phpcomposer.com/), [https://mirrors.aliyun.com/composer/](https://mirrors.aliyun.com/composer/)
+  - 印度 -  [https://packagist.in/](https://packagist.in/)
   - 印尼 -  [packagist.phpindonesia.id](https://packagist.phpindonesia.id)
   - 日本 - [packagist.jp](https://packagist.jp)
 
 ## Composer Repositories
 
 ### Private Packagist
-- [Private Packagist Cloud](https://packagist.com) - A Composer Repository as a Service for private packages and to mirror packages from other repositories.
+- [Private Packagist Cloud](https://packagist.com) - 作为私有包的服务的Composer存储库，以及镜像来自其他存储库的包.
 - [Private Packagist Enterprise](https://packagist.com) - 私有包装的内部部署自托管版本.
 - [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client)   -  Private Packagist API的PHP客户端.  客户端处理身份验证，签名生成和对所有端点的访问.
 
@@ -207,7 +213,7 @@ Private Packagist]（http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain
 
 - [WordPress Packagist](https://wpackagist.org/) - 将WordPress插件和主题目录镜像为Composer存储库.
 - [Asset Packagist](https://asset-packagist.org/) - 允许将Bower和NPM软件包安装为本机Composer软件包.
-- [Firegento](http://packages.firegento.com/) - 提供Magento模块的Composer存储库.
+- [Firegento](https://packages.firegento.com/) - 提供Magento模块的Composer存储库.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) -  Drupal 7和8核心，模块和主题的Composer存储库.
 - [Satis Server](https://github.com/lukaszlach/satis-server) - 此docker容器提供Satis服务器，使您能够运行私有的，自托管的Composer存储库，支持Git，Mercurial和Subversion，HTTP API，HTTPs支持，webhook处理程序和预定构建.
 - [Cloudsmith](https://cloudsmith.io) - 完全托管的包管理SaaS，支持PHP / Composer（以及许多其他）.

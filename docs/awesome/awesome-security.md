@@ -171,6 +171,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [mig](http://mig.mozilla.org/)   -  MIG是一个在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -  * ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
 - [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的CLI实用程序和Python API.
+- [Meerkat](https://github.com/TonyPhipps/Meerkat) - 基于PowerShell的Windows工件集合，用于威胁搜索和事件响应.
 
 ## Threat Intelligence
 

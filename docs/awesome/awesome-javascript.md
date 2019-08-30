@@ -108,7 +108,7 @@
 
 * [angular.js](https://github.com/angular/angular.js) - 针对网络应用的HTML增强功能.
 * [aurelia](http://aurelia.io) - 适用于移动，桌面和Web的JavaScript客户端框架.
-* [backbone](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
+* [backbone](https://github.com/jashkenas/backbone) - 为您的JS应用程序提供模型，视图，集合和事件的一些骨干.
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的Web应用程序的JavaScript框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单，数据库无处不在的数据线上纯javascript Web框架.
 * [ractive](https://github.com/ractivejs/ractive) - 下一代DOM操作.
@@ -156,7 +156,7 @@
 * [mustache.js](https://github.com/janl/mustache.js) -  JavaScript中{{mustaches}}的最小模板.
 * [handlebars.js](https://github.com/wycats/handlebars.js/) - 胡子模板语言的扩展.
 * [nunjucks](https://mozilla.github.io/nunjucks/) - 来自Mozilla的JavaScript丰富而强大的模板语言.
-* [hogan.js](https://github.com/twitter/hogan.js) -  Mustache模板语言的编译器.
+* [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
 * [doT](https://github.com/olado/doT) -  nodejs和浏览器的最快+简洁的JavaScript模板引擎.
 * [dustjs](https://github.com/linkedin/dustjs/) - 浏览器和node.js的异步模板.
 * [eco](https://github.com/sstephenson/eco/) - 嵌入式CoffeeScript模板.
@@ -255,7 +255,7 @@
 
 ## Documentation
 
-* [DevDocs](http://devdocs.io/) 是一个一体化的API文档阅读器，具有快速，有条理和一致的界面.
+* [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
 * [dexy](http://www.dexy.it/) 是一种自由形式的文化文档工具，用于编写包含代码的任何类型的技术文档.
 * [docco](http://jashkenas.github.io/docco/) 是一个快速，肮脏，百行，文字编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从样式表生成文档和样式指南文档.
@@ -299,7 +299,7 @@
 *反应式编程库，以扩展JavaScript的功能.*
 
 * [RxJs](https://github.com/Reactive-Extensions/RxJS) -  JavaScript的Reactive Extensions.
-* [Bacon](https://github.com/baconjs/bacon.js) - FRP (functional reactive programming) library for JavaScript.
+* [Bacon](https://github.com/baconjs/bacon.js) - 用于JavaScript的FRP（功能反应式编程）库.
 * [Kefir](https://github.com/pozadi/kefir) - 受到Bacon.js和RxJS启发的JavaScript的FRP库，专注于高性能和低内存消耗.
 * [Highland](http://highlandjs.org/) - 重新思考JavaScript实用程序带，Highland轻松管理同步和异步代码，仅使用标准JavaScript和类似Node的Streams.
 * [Most.js](https://github.com/cujojs/most) - 高性能FRP库.
@@ -389,7 +389,7 @@
 
 * [i18next](https://github.com/i18next/i18next) - 使用JavaScript轻松实现国际化（i18n）.
 * [polyglot](https://github.com/airbnb/polyglot.js) - 小型i18n助手库.
-* [babelfish](https://github.com/nodeca/babelfish/) - i18n with human friendly API and built in plurals support.
+* [babelfish](https://github.com/nodeca/babelfish/) -  i18n具有人性化的API并内置复数支持.
 * [ttag](https://github.com/ttag-org/ttag) - 基于ES6标记模板和良好的旧GNU gettext的现代javascript i18n本地化库.
 
 ## Control Flow
@@ -447,7 +447,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - 用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) - 用于JavaScript驱动的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - 一个jQuery插件，可以轻松使用RESTful API.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -  Ruby on Rails API的自负REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
 
 ## Streaming
 
@@ -560,11 +560,11 @@
 * [sly](https://github.com/darsain/sly) - 用于单向滚动的JavaScript库，具有基于项目的导航支持.
 * [vegas](https://github.com/jaysalvat/vegas)   - 一个jQuery插件，可以为您的网页添加漂亮的全屏背景.  它甚至允许幻灯片播放.
 * [Sequence](https://github.com/IanLunn/Sequence) -  CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) - 使用HTML轻松创建精美演示文稿的框架.
+* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [impress.js](https://github.com/impress/impress.js) - 这是一个基于现代浏览器中CSS3转换和转换功能的演示框架，并受到prezi.com背后的想法的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -  DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -  Strut  - 一个Impress.js和Bespoke.js演示编辑器
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 适用于移动和桌面的JavaScript图像库，模块化，独立于框架.
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - 具有CSS动画的响应式滑块jQuery插件.
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，易于定制.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 一个带有自适应彩色figcaption和导航的滑块的jQuery插件.
@@ -628,6 +628,7 @@
 * [Countable](https://github.com/RadLikeWhoa/Countable) - 一个JavaScript函数，用于向HTML元素添加实时段落，字和字符计数.
 * [card](https://github.com/jessepollak/card) - 在一行代码中更好地使您的信用卡表格.
 * [stretchy](https://github.com/LeaVerou/stretchy) - 表单元素自动调整，应该是它的方式.
+* [analytics](https://github.com/davidwells/analytics) - 轻量级，可扩展的分析库，旨在与任何第三方分析提供商合作，以跟踪页面查看，自定义事件和识别用户.
 
 
 ## Tips
@@ -755,7 +756,7 @@
  * [simple-text-rotator](https://github.com/peachananr/simple-text-rotator) - 在您的网站上添加一个超级简单的旋转文本，几乎没有标记.
  * [novacancy.js](https://github.com/chuckyglitch/novacancy.js) -  Text Neon Golden效果jQuery插件.
  * [jquery-responsive-text](https://github.com/ghepting/jquery-responsive-text) - 使文本大小响应！
- * [FitText.js](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type.
+ * [FitText.js](https://github.com/davatron5000/FitText.js) - 用于充气网络类型的jQuery插件.
  * [Lettering.js](https://github.com/davatron5000/Lettering.js) - 一个轻量级，易于使用的JavaScript` <span>注入器，用于激进的Web排版.</span>
 
 
@@ -840,7 +841,7 @@ http://www.listjs.com
 * [braziljs/js-the-right-way](https://github.com/braziljs/js-the-right-way/) - 易于阅读，快速参考JS最佳实践，可接受的编码标准以及Web上的链接.
 * [JSbooks](https://github.com/revolunet/JSbooks) - 免费JavaScript电子书目录.
 * [Superhero.js](http://superherojs.com) - 有关创建，测试和维护大型JavaScript代码库的资源集合.
-* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - Simplified JavaScript Jargon is a community-driven attempt at explaining the loads of buzzwords making the current JavaScript ecosystem in a few simple words.
+* [SJSJ](https://github.com/HugoGiraudel/SJSJ) - 简化的JavaScript术语是一种社区驱动的尝试，用一些简单的词语解释当前JavaScript生态系统的流行语.
 * [How to Write an Open Source JavaScript Library](https://github.com/sarbbottam/write-an-open-source-js-lib) - 通过一系列步骤发布JavaScript开源库的综合指南.
 * [Jaavascript tutorial](https://hackr.io/tutorials/learn-javascript) - 通过各种用户排名的在线教程在线学习Javascript.
 

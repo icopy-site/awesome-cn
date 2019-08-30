@@ -1321,8 +1321,8 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
       我=== arr.length  -  2
          ？  acc + val + end
         ：i === arr.length  -  1
-           ？  acc + val
-          ：acc + val + separator，
+         ？  acc + val
+        ：acc + val + separator，
     ''
   );
 ```
@@ -3755,10 +3755,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
-       ？  12 +&#39;pm&#39;
-      ：num &lt;12
-         ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+     ？  12 +&#39;pm&#39;
+    ：num &lt;12
+     ？  （num％12）+&#39;am&#39;
+    ：（无论12％）PM“;
 ```
 
 <details>
@@ -4922,11 +4922,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
-      ? 1
-      ：n *阶乘（n  -  1）;
+    ? 1
+    ：n *阶乘（n  -  1）;
 ```
 
 <details>
@@ -6065,8 +6065,8 @@ const deepClone = obj =&gt; {
   return Array.isArray（obj）&amp;&amp; obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-       ？  Array.from（OBJ）
-      ：克隆;
+     ？  Array.from（OBJ）
+    ：克隆;
 };
 ```
 
@@ -6150,13 +6150,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
         返回acc;
       }, {})
-      ：obj;
+    ：obj;
 ```
 
 <details>
@@ -6225,9 +6225,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if（acc！== undefined）return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if（acc！== undefined）return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>
@@ -6905,7 +6905,7 @@ const a = {x：true，y：1};
 
 ```js
 const size = val =>
-  Array.isArray（VAL）
+  Array.isArray（val）
      ？  val.length
     ：val &amp;&amp; typeof val ===&#39;object&#39;
      ？  val.size ||  val.length ||  Object.keys（VAL）.长度
@@ -8779,7 +8779,7 @@ const toDecimalMark = num =&gt; num.toLocaleString（&#39;en-US&#39;）;
 
 ```js
 const toOrdinalSuffix = num =&gt; {
-  const int的= parseInt函数（NUM）;
+  const int的= parseInt函数（NUM个）;
     digits = [int％10，int％100]，
     ordinals = [&#39;st&#39;，&#39;nd&#39;，&#39;rd&#39;，&#39;th&#39;]，
     oPattern = [1,2,3,4]，

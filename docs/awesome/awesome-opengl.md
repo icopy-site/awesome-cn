@@ -82,7 +82,7 @@
 
 * [gl3w](https://github.com/skaslev/gl3w) - 简单的OpenGL核心配置文件加载器.
 * [glad](https://github.com/Dav1dde/glad) - 基于官方规格的多轮廓装载机 - 发电机.
-* [glbindify](https://github.com/nnesse/glbindify) - 用于为OpenGL，wgl和glX生成C绑定的Commmand行工具.
+* [glbindify](https://github.com/nnesse/glbindify) - 用于为OpenGL，wgl和glX生成C绑定的命令行工具.
 * [glbinding](https://github.com/cginternals/glbinding) - 配置文件加载器利用C ++ 11功能提供类型安全性.
 * [GLEW](http://glew.sourceforge.net) - 用于加载OpenGL扩展的成熟跨平台库.
 * [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - 用Lua编写的多轮廓加载器 - 生成器.
@@ -111,7 +111,7 @@
 
 * OpenGL视频教程*
 
-* [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - 关于现代OpenGL和Qt的理解教程.
+* [Jamie King](https://www.youtube.com/playlist?list=PLRwVmtr-pp06qT6ckboaOhnm9FxmzHpbY) - 关于现代OpenGL和Qt的综合教程.
 * [MakingGamesWithBen](https://www.youtube.com/playlist?list=PLSPw4ASQYyymu3PfG9gxywSPghnSMiOAW) - 关于OpenGL和游戏开发的视频教程（循序渐进）.
 * [SIGGRAPH](https://www.youtube.com/user/ACMSIGGRAPH/playlists) - 关于计算机图形的热门会议.
 * [TheChernoProject](https://www.youtube.com/playlist?list=PLlrATfBNZ98foTJPJ_Ev03o2oq3-GGOS2) -  C ++中的OpenGL简介

@@ -37,6 +37,7 @@
 
 - [CTFd](https://github.com/isislab/CTFd) - 从纽约大学Tandon的ISISLab主持危险风格CTF的平台
 - [FBCTF](https://github.com/facebook/fbctf) - 举办Facebook旗帜比赛的平台
+- [Haaukins](https://github.com/aau-network-security/haaukins)- 用于安全教育的高度可访问和自动化虚拟化平台
 - [HackTheArch](https://github.com/mcpa-stlouis/hack-the-arch) -  CTF评分平台
 - [Mellivora](https://github.com/Nakiami/mellivora) - 用PHP编写的CTF引擎
 - [NightShade](https://github.com/UnrealAkama/NightShade) - 一个简单的安全CTF框架
@@ -71,7 +72,7 @@
 
 ## Attacks
 
-*用于执行各种攻击的工具*
+*Tools used for performing various kinds of attacks*
 
 - [Bettercap](https://github.com/bettercap/bettercap) - 执行MITM（中间人）攻击的框架.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - 攻击第2层上的各种协议
@@ -83,7 +84,7 @@
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - 自动化模块化密码分析工具
 - [Hash Extender](https://github.com/iagox86/hash_extender) - 用于执行散列长度扩展攻击的实用工具
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - 破解PkZip加密的工具
-- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
+- [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - 用于恢复具有各种攻击的RSA私钥的工具
 - [RSATool](https://github.com/ius/rsatool) - 生成具有p和q知识的私钥
 - [XORTool](https://github.com/hellman/xortool) - 分析多字节xor密码的工具
 

@@ -156,6 +156,15 @@
 - [Blinka the CircuitPython Temporary Tattoo](https://www.adafruit.com/product/2600) - 一个以Blinka角色为特色的临时纹身.
 - [CircuitPlayground lanyard](https://www.adafruit.com/product/3987) - 以Blinka为特色的CircuitPlayground挂绳.
 
+## Talks
+
+- [MicroPython & the Internet of Things](https://youtu.be/EvGhPmPPzko) -  2016年GOTO上的Damien George的MicroPython和物联网
+- [Changing Lives through Open Source, Passion and Mentoring](https://youtu.be/-bBHXimlfPQ) - 通过开源，激情和指导改变生活，Kattni Rembor在2019年Pyohio发表主题演讲
+- [CircuitPython: Python on hardware](https://youtu.be/rN7kvWuAt7k) -  CircuitPython：PyCon Canada的Dave Astels在硬件上的Python
+- [Lighting Macro Photographs with CircuitPython](https://youtu.be/JAgCZ70Q3sg) - 由澳大利亚PyCon的Stacy Morse用CircuitPython拍摄微距照片 
+- [Embedded Programming for everyone using MicroPython and CircuitPython](https://youtu.be/LRvh1UDTbU0) -  Ayan Pahwa在FOSSASIA峰会上使用MicroPython和CircuitPython的每个人的嵌入式编程
+- [Writing fast and efficient MicroPython](https://youtu.be/hHec4qL00x0) - 由Damien George在澳大利亚PyCon编写快速高效的MicroPython
+
 ## Contributing
 
  欢迎提供贡献和建议！  请提出拉取请求以修改Awesome CircuitPython.

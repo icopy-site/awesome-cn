@@ -80,7 +80,7 @@
 * [node-restify](https://github.com/restify/node-restify) - 框架专门用于REST API.
 * [Sails.js](http://sailsjs.org/) -  Node.js Web框架嵌入命令以自动生成REST API.
 * [mers](https://github.com/jspears/mers) - 快速服务将Mongoose finders暴露为RESTful API.
-* [Baucis](https://github.com/wprl/baucis) - 基于Mongoose实体构建可扩展的REST API.
+* [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -  JavaScript的同构资源引擎.
 * [loopback](http://loopback.io/) - 强大的Node.js框架，用于创建API并轻松连接到后端数据源.
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务Web框架，可让您通过RESTful资源，套接字和灵活的插件控制您的数据.
@@ -115,7 +115,7 @@
 ### Python
 
 * [Django REST framework](http://www.django-rest-framework.org/) - 功能强大且灵活的工具包，可轻松构建Web API.
-* [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
+* [django-tastypie](http://tastypieapi.org/) - 为Django应用程序创建美味的API.
 * [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) -  Flask扩展，用于为使用SQLAlchemy（或Flask-SQLAlchemy）定义的数据库模型生成ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量且快速的API框架.
@@ -164,7 +164,6 @@
 
 ### Querying
 
-* [Hurl.it](https://www.hurl.it/) - 使用简单的基于Web的HTTP客户端发出HTTP请求 - 比如云中的“curl”.
 * [httpie](https://github.com/jkbrzt/httpie) - 命令行HTTP客户端，比`curl`更加开发友好.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) -  Chrome扩展程序对于手动测试REST API至关重要.
 * [resty](https://github.com/micha/resty) - 可以在管道中使用的小命令行REST客户端（bash或zsh）.
@@ -174,6 +173,7 @@
 * [HTTP Prompt](https://github.com/eliangcs/http-prompt) -  HTTP Prompt是一个交互式命令行HTTP客户端，具有基于HTTPie和prompt_toolkit的自动完成和语法突出显示功能.
 * [rest-assured](https://github.com/rest-assured/rest-assured) - 用于轻松测试REST服务的Java DSL.
 * [Insomnia](https://github.com/getinsomnia/insomnia) - 跨平台HTTP和GraphQL客户端
+* [ExtendsClass](https://extendsclass.com/rest-client-online.html) - 使用简单的基于Web的HTTP客户端发出HTTP请求.
 * [TestMace](https://testmace.com) - 用于API自动化测试的跨平台简单但功能强大的IDE.
 
 ### Mocking
