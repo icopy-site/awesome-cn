@@ -367,7 +367,6 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol)/[IPBX](https:/
 - [Socialhome](https://socialhome.network)   - 联合和分散的配置文件构建器和社交网络引擎.  （[Demo](https://socialhome.network/), [Source Code](https://github.com/jaywink/socialhome)) `AGPL-3.0` `Python`
 - [Symphony](https://hacpai.com/)   - 用Java编写的现代社区（论坛/ SNS /博客）平台.  （[Source Code](https://github.com/b3log/symphony)）``GPL-3.0``Java`
 - [Talkyard](https://www.talkyard.io/)   - 创建一个社区，您的用户可以在其中提出建议并回答问题.  并进行友好的开放式讨论和聊天（Slack / StackOverflow / Discourse / Reddit / Disqus混合）.  （[Demo](https://www.talkyard.io/forum/latest), [Source Code](https://github.com/debiki/talkyard)）`AGPL-3.0``Scale`
-- [Telescope](http://www.telescopeapp.org/)   - 使用Meteor构建的开源社交新闻应用程序.  （[Demo](http://demo.telescopeapp.org/), [Source Code](https://github.com/TelescopeJS/Telescope)）`MIT``Nodejs`
 - [Tokumei](https://tokumei.co/)   - 匿名微博平台.  （[Source Code](https://gitlab.com/tokumei/tokumei)）`ISC`` rc`
 - [Thredded](https://thredded.org)   - 论坛，功能丰富，简单.  （[Demo](https://thredded.org/thredded), [Source Code](https://github.com/thredded/thredded)）`MIT``Ruby`
 - [twister](http://twister.net.co/)   - 完全分散的P2P微博平台，利用比特币和BitTorrent协议的自由软件实现.  （[Source Code](https://github.com/miguelfreitas/twister-core)）`MIT`` C ++`
@@ -1174,7 +1173,7 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://g
 
 ### UX testing
 
-- [Uier](https://github.com/sjoerdvanderhoorn/Uier)   - 使用Selenium执行测试或UI自动化的无代码或低代码用户体验测试编辑和管理.  Uier往往是Applitools，Endtest，Ghost Inspector，Usetrace，Screenster和其他许多人的免费自助式替代品.  `Apache-2.0``Nodejs`
+- [Uier](https://github.com/sjoerdvanderhoorn/Uier)   - 使用Selenium执行测试或UI自动化的无代码或低代码用户体验测试编辑和管理.  Uier倾向于成为Applitools，Endtest，Ghost Inspector，Usetrace，Screenster和许多其他人的免费自助式替代品.  `Apache-2.0``Nodejs`
 - [Selenoid](http://aerokube.com/selenoid/latest/)   - 轻量级Selenium hub实现在Docker容器中启动浏览器.  （[Source Code](https://github.com/aerokube/selenoid)）``Apache-2.0``Go`
 - [Zalenium](https://github.com/zalando/zalenium)   - 允许任何人拥有基于Docker的一次性和灵活的Selenium Grid基础设施，包括视频录制，实时预览和在线/离线仪表板.  `Apache-2.0``Java / Shell`
 

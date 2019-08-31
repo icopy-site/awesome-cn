@@ -87,7 +87,7 @@ Ubuntu Core是大规模云容器部署的完美系统，为世界上最受欢迎
 * [OSv](http://osv.io/)  
  OSv是专为云设计的开源操作系统.  从头开始构建，轻松部署和管理，具有卓越的性能.
 * [HypriotOS](http://blog.hypriot.com/about/)  
- 基于Debian的最小操作系统，针对运行Docker进行了优化.  它使任何Raspberry Pi上的Docker很容易使用. 
+ 最小的基于Debian的操作系统，针对运行Docker进行了优化.  它使任何Raspberry Pi上的Docker很容易使用. 
 * [MCL](https://mcl.host)  
  MCL（* Minimal Container Linux *）是一个从头开始的最小的Linux操作系统，专门用于运行容器.  它占地面积小~50MB，可在几秒钟内启动.  它目前已经过优化，可以运行Docker.
 
@@ -133,7 +133,7 @@ LMCTFY是Google容器堆栈的开源版本，它提供Linux应用程序容器.
 * [cc-oci-runtime](https://github.com/01org/cc-oci-runtime)  
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
 * [railcar](https://github.com/oracle/railcar)  
- Railcar是opencontainers计划的运行时规范的生锈实现.  它类似于参考实现runc，但它完全实现了生锈以保证内存安全，而不需要垃圾收集器或多线程的开销.
+ Railcar是opencontainers计划的运行时规范的生锈实现.  它类似于参考实现runc，但是为了内存安全而完全实现，不需要垃圾收集器或多线程的开销.
 * [Kata Containers](https://katacontainers.io/)  
 Kata Containers是一个新的开源项目，构建了极其轻量级的虚拟机，可以无缝地插入容器生态系统.
 * [plash](https://github.com/ihucos/plash/)  
@@ -199,6 +199,8 @@ Whaler旨在将Docker镜像反向工程到创建它的Dockerfile中.
 用于探索泊坞窗图像中每个图层的工具.
 * [go-containerregistry](https://github.com/google/go-containerregistry)  
 使用库和CLI来处理容器注册表.
+* [kaniko](https://github.com/GoogleContainerTools/kaniko)  
+kaniko是一个从Dockerfile，容器或Kubernetes集群内构建容器映像的工具.
 
 ## Dashboard
 
@@ -355,4 +357,4 @@ Docker mounts these file systems into the container as "read-only" mount points.
 * [sysdig-container-ecosystem](https://github.com/draios/sysdig-container-ecosystem)  
  至少可以说，围绕容器和微服务出现的令人敬畏的新技术的生态系统可能有点压倒性.  我们认为我们可以提供帮助：欢迎来到集装箱生态系统项目.
 * [doger.io](http://doger.io/)  
- 此页面试图记录Linux上容器的细节.  这不仅限于希望在自己的代码中实现容器或使用类似容器的程序员，还包括想要更好地处理容器如何在“引擎盖下”工作的系统管理员和用户. 
+ 此页面试图记录Linux上容器的细节.  这不仅限于希望在自己的代码中实现容器或使用类似容器的程序员，还包括希望更好地处理容器如何在“引擎盖下”工作的系统管理员和用户. 
