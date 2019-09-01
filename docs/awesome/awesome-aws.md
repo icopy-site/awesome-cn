@@ -583,7 +583,7 @@ AWS Repos：
 
 社区回购：
 
-* [vsespb/mt-aws-glacier :fire::fire:](https://github.com/vsespb/mt-aws-glacier) -  Perl Multithreaded Multipart同步到Glacier.
+* [vsespb/mt-aws-glacier :fire::fire::fire:](https://github.com/vsespb/mt-aws-glacier) -  Perl Multithreaded Multipart同步到Glacier.
 
 ### Kinesis
 

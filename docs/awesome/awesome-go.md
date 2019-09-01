@@ -117,7 +117,7 @@
 * [flaggy](https://github.com/integrii/flaggy) - 一个强大的惯用标志包，具有出色的子命令支持.
 * [flagvar](https://github.com/sgreben/flagvar) -  Go的标准`flag`包的标志参数类型的集合.
 * [go-arg](https://github.com/alexflint/go-arg) -  Go中基于struct的参数解析.
-* [go-commander](https://github.com/yitsushi/go-commander) - 使用库来简化CLI工作流程.
+* [go-commander](https://github.com/yitsushi/go-commander) - 转到库以简化CLI工作流程.
 * [go-flags](https://github.com/jessevdk/go-flags) -  go命令行选项解析器.
 * [go-getoptions](https://github.com/DavidGamba/go-getoptions) -  Go选项解析器的灵感来自于Perl的GetOpt :: Long的灵活性.
 * [gocmd](https://github.com/devfacet/gocmd) -  Go库用于构建命令行应用程序.
@@ -151,7 +151,7 @@
 * [colourize](https://github.com/TreyBastian/colourize) - 在终端中使用ANSI颜色文本库.
 * [ctc](https://github.com/wzshiming/ctc) - 非侵入式跨平台终端颜色库不需要修改Print方法.
 * [go-ataman](https://github.com/workanator/go-ataman) -  Go库，用于在终端中呈现ANSI彩色文本模板.
-* [go-colorable](https://github.com/mattn/go-colorable) - Colorable writer for windows.
+* [go-colorable](https://github.com/mattn/go-colorable) -  Windows的着名作家.
 * [go-colortext](https://github.com/daviddengcn/go-colortext) - 转到终端的彩色输出库.
 * [go-isatty](https://github.com/mattn/go-isatty) -  isatty为golang.
 * [go-prompt](https://github.com/c-bata/go-prompt) - 用于构建强大的交互式提示的库，受到启发 [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit).
@@ -1313,6 +1313,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [jsoniter](https://github.com/json-iterator/go) - 高性能100％兼容直接替代“encoding / json”.
 * [mapstructure](https://github.com/mitchellh/mapstructure) - 使用库将通用映射值解码为本机Go结构.
 * [php_session_decoder](https://github.com/yvasiyarov/php_session_decoder) -  GoLang库，用于处理PHP会话格式和PHP Serialize / Unserialize函数.
+* [pletter](https://github.com/vimeda/pletter) - 为消息代理程序包装原型消息的标准方法.
 * [structomap](https://github.com/tuvistavie/structomap) - 库可以轻松动态地从静态结构生成地图.
 
 ## Server Applications
@@ -1829,7 +1830,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 全面的清单.
 * [fasthttprouter](https://github.com/buaazp/fasthttprouter)   - 来自`httprouter`的高性能路由器.  第一个路由器适合`fasthttp`.
 * [FastRouter](https://github.com/razonyang/fastrouter) - 用Go编写的快速，灵活的HTTP路由器.
 * [gocraft/web](https://github.com/gocraft/web) -  Go中的Mux和中间件包.
-* [Goji](https://github.com/goji/goji) -  Goji是一个简约灵活的HTTP请求多路复用器，支持`net / context`.
+* [Goji](https://github.com/goji/goji) - Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.
 * [GoRouter](https://github.com/vardius/gorouter) -  GoRouter是一个服务器/ API微型框架，HTTP请求路由器，多路复用器，多路复用器，为请求路由器提供支持`net / context`的中间件.
 * [gowww/router](https://github.com/gowww/router) -  Lightning fast HTTP路由器与net / http.Handler接口完全兼容.
 * [httprouter](https://github.com/julienschmidt/httprouter)   - 高性能路由器.  使用此标准http处理程序构成一个非常高性能的Web框架.
