@@ -69,6 +69,7 @@
 
 - [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
 - [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) - 对Godot的逐步介绍.
+- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)   - 用于创建客户端 - 服务器多人游戏的教程.  包括在Google Compute Platform上托管服务器的教程.
 
 ### Video tutorials
 
@@ -125,7 +126,7 @@
 - [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - 戈多的通知中心.
 - [GodotTIE](https://github.com/henriquelalves/GodotTIE) - 用于控制文本输出的文本界面引擎（如在RPG对话框中）.
 - [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) - 处理大量草，叶和其他植被的插件.
-- [gterm](https://github.com/TeddyDD/gterm) -  GUI控件，绘制类似于\ * nix终端仿真器的东西.
+- [gterm](https://github.com/TeddyDD/gterm) - GUI control that draws something similar to \*nix terminal emulators.
 - [GUT](https://github.com/bitwes/Gut) - 在GDScript中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) - 合并多边形.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) - 单纯形确定性噪声函数.
@@ -146,7 +147,7 @@
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - 语法高亮显示.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - 语法高亮显示.
 - [Vim](https://github.com/calviken/vim-gdscript3)   - 语法高亮，自动完成和linting.  还支持Godot着色器语言.
-- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - 具有丰富的功能，使您的编程体验尽可能舒适.
 
 ## Godot script editor syntax themes
 
