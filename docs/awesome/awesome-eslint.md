@@ -45,7 +45,7 @@
 - [Lodash template](https://github.com/ota-meshi/eslint-plugin-lodash-template) -  Lodash模板/下划线模板的插件.
 - [Meteor](https://github.com/dferber90/eslint-plugin-meteor) - 流星特定的linting规则.
 - [Mongodb](https://github.com/nfroidure/eslint-plugin-mongodb) -  Mongodb原生Node.js驱动程序linting规则.
-- [Ramda](https://github.com/ramda/eslint-plugin-ramda) -  Ramda特定的linting规则.
+- [Ramda](https://github.com/ramda/eslint-plugin-ramda) - Ramda specific linting rules.
 - [React](https://github.com/yannickcr/eslint-plugin-react) -  React和JSX的Linting规则.
 - [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) -  React Hooks的Linting规则.
 - [React Native](https://github.com/Intellicode/eslint-plugin-react-native) -  React Native特定的linting规则.
@@ -66,10 +66,11 @@
 - [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) - 在HTML中使用Linting for JavaScript` <script>` tags.
 - [import](https://github.com/benmosher/eslint-plugin-import) - 使用ES2015 +导入/导出语法，并防止拼写错误的文件路径和导入名称.
 - [JSON](https://github.com/azeemba/eslint-plugin-json) - 提示您的JSON文件.
+- [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format)   -  Lint，格式化和自动修复您的JSON文件.  对你的`package.json`进行排序.
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -  Markdown中的Linting JavaScript.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -  Node.js的Linting规则（检查导入路径，ES语法，......）.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 一个用于检查文件顶部并修复它们的eslint规则！
-- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
+- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - 检测错误和可疑模式的规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -  ESLint的SQL linting规则.
 - [TypeLint](https://github.com/yarax/typelint) - 介绍基于现有模式（Swagger，Redux）的类型和对对象属性的linting访问，防止“未定义”错误.
@@ -101,12 +102,19 @@
 - [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) - 针对ESLint的特定于交换机案例的linting规则.
 
 ### Testing Tools
+
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -  AVA的Linting规则.
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - 柴的Linting规则.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
 - [Jest](https://github.com/jest-community/eslint-plugin-jest) - 对于Jest的Linting规则.
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - 赛普拉斯的Linting规则.
+
+### Formatters
+
+- [eslint-formatter-git-log](https://github.com/JamieMason/eslint-formatter-git-log) - 具有Git Author，Date和Hash的ESLint Formatter.
+- [eslint-formatter-github](https://github.com/hipstersmoothie/eslint-formatter-github) - 直接在拉取请求中查看ESLint错误和警告.
+- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 输出ESLint导致GitLab代码质量结果.
 
 ## Preconfigured Tools with ESLint Set up
 
@@ -129,7 +137,6 @@
 - [eslint-watch](https://github.com/rizowski/eslint-watch) - 使用监视模式运行ESLint.
 - [codacy-eslint](https://github.com/codacy/codacy-eslint) -  Docker用于 [Codacy](https://www.codacy.com) 运行ESLint.
 - [esprint](https://github.com/pinterest/esprint) - 跨多个线程运行ESLint.
-- [eslint-formatter-gitlab](https://gitlab.com/remcohaszing/eslint-formatter-gitlab) - 输出ESLint导致GitLab代码质量结果.
 
 ## Developing for ESLint
 
