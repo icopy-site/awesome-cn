@@ -23,7 +23,7 @@
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - 全民健康和医院信息系统.
   * [OpenClinic](http://openclinic.sourceforge.net/) - 医疗记录系统.
   * [OpenEMR](http://www.open-emr.org/) - 电子健康记录和医疗实践管理应用程序.
-  * [OpenEyes](http://www.openeyes.org.uk) - 眼科电子病历应用.
+  * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
   * [Open Hospital](https://sourceforge.net/projects/openhospital/) - 针对贫困农村医院的电子病历软件.
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - 为NHS设计的完整患者管理系统.
   * [OpenMRS](http://openmrs.org/) - 企业电子病历系统平台.
@@ -72,7 +72,6 @@
   * [OpenMolar](http://openmolar.com/) - 牙科实践管理软件. 
 
 ### Laboratory
-  * [Bika](https://www.bikalims.org/)   -  LIMS.   - 被SENAITE取代（见下文）
   * [OpenELIS](https://sites.google.com/site/openelisglobal/) - 全球卫生实验室信息系统.
   * [SENAITE](https://www.senaite.com) - 实验室信息管理系统.
 
@@ -82,7 +81,7 @@
   * [CareKit](https://github.com/carekit-apple/CareKit/) -  CareKit是一个开源软件框架，用于创建可帮助人们更好地理解和管理健康状况的应用程序.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - 符合FDA，HIPPA和HL7标准的应用程序的流星.
   * [FHIRBase](http://fhirbase.github.io) - 基于FHIR标准的存储.
-  * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) - A .NET Core implementation of the FHIR standard.
+  * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -  FHIR标准的.NET Core实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - 在GoLang通用FHIR服务器实现.
   * [Opal](http://opal.openhealthcare.org.uk/) - 构建临床应用的框架.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 软件框架，可以轻松地为医学研究或其他研究项目创建应用程序.
@@ -91,12 +90,14 @@
 
 ### Libraries
   * [Archie](https://github.com/openehr/archie) - 用Java编写的OpenEHR库
+  * [Asymmetrik FHIR API Server](https://github.com/Asymmetrik/node-fhir-server-core) -  HL7 FHIR规范的安全休息实现
   * [DCMTK](https://dicom.offis.de/dcmtk.php.en) -  DICOM工具包
   * [dicom](https://github.com/suyashkumar/dicom) -  Go中的高性能DICOM医学图像分析器
+  * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) - A C# DICOM Library
   * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) - 适用于.NET，.NET Core，通用Windows，Android，iOS，Mono和Unity的DICOM
   * [FHIR .NET API](https://github.com/FirelyTeam/fhir-net-api) -  HL7 FHIR的官方.NET API.
   * [fhir.js](https://github.com/FHIR/fhir.js) -  FHIR的JavaScript客户端.
-  * [https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers](https://github.com/kakoni/awesome-healthcare/blob/master/FHIR protocol buffers) - 用于FHIR的Google协议缓冲区实现.
+  * [FHIR protocol buffers](https://github.com/google/fhir) - 用于FHIR的Google协议缓冲区实现.
   * [HAPI FHIR](https://github.com/jamesagnew/hapi-fhir) -  HL7 FHIR客户端和服务器的Java API.
   * [Hearth](https://github.com/jembi/hearth) - 符合FHIR标准的快速服务器，专注于纵向数据存储.
   * [Health data standards](https://github.com/projectcypress/health-data-standards)   - 用于生成和使用各种医疗保健相关格式的Ruby库.  这些包括HITSP C32，QRDA类别I和QRDA类别III.
@@ -165,3 +166,6 @@
 
 ### Asset Management
 * [Tapirx](https://github.com/virtalabs/tapirx) - 网络医疗设备发现和识别.
+
+### Logistics
+* [OpenLIMS](https://openlmis.org) - 用于管理健康商品供应链的开源，基于网络的电子物流管理信息系统（LMIS）软件

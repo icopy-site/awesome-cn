@@ -89,24 +89,24 @@
 ## IDE Plugins
 
 - [vscode-lit-html](https://github.com/mjbvz/vscode-lit-html) -  lit-html模板字符串的语法高亮和IntelliSense.
-- [vscode-lit-plugin](https://github.com/runem/vscode-lit-plugin) -  lit-html的语法高亮，类型检查和代码完成.
+- [vscode-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/vscode-lit-plugin) -  lit-html的语法高亮，类型检查和代码完成.
 - [es6-string-html](https://github.com/mydesireiscoma/es6-string-html) -  VSCode扩展，为ES6多行字符串中的HTML提供语法突出显示.
 - [vim-html-template-literals](https://github.com/jonsmithers/vim-html-template-literals) -  lit-html的语法高亮和缩进.
 
 ## TypeScript Plugins
 
-- [ts-lit-plugin](https://github.com/runem/ts-lit-plugin)   - 为lit-html添加类型检查和代码完成的插件.  由`vscode-lit-plugin`使用.
+- [ts-lit-plugin](https://github.com/runem/lit-analyzer/tree/master/packages/ts-lit-plugin)   - 为lit-html添加类型检查和代码完成的插件.  由`vscode-lit-plugin`使用.
 - [typescript-lit-html-plugin](https://github.com/Microsoft/typescript-lit-html-plugin)   -  TypeScript服务器插件，为lit-html添加IntelliSense.  由`vscode-lit-html`使用.
 
 ## Tools
 
 - [babel-plugin-template-html-minifier](https://github.com/cfware/babel-plugin-template-html-minifier) -  Babel插件，用于缩小标记模板字符串中的HTML.
 - [eslint-plugin-lit](https://github.com/43081j/eslint-plugin-lit) - 用于lit-html模板字符串的ESLint插件.
+- [lit-analyzer](https://github.com/runem/lit-analyzer/tree/master/packages/lit-analyzer) -  CLI类型检查lit-html模板中的绑定.
 - [rollup-plugin-minify-html-literals](https://github.com/asyncLiz/rollup-plugin-minify-html-literals) -  Rollup插件，用于缩小标记模板字符串中的HTML.
 - [rollup-plugin-lit-css](https://github.com/bennypowers/rollup-plugin-lit-css) - 用于导入CSS文件的Rollup插件，因为LitElement标记了`css`模板字符串.
 - [rollup-plugin-postcss-lit](https://github.com/umbopepato/rollup-plugin-postcss-lit) -  Rollup插件，用于在LitElement组件中加载PostCSS处理的样式表.
 - [lit-loader](https://github.com/PolymerX/lit-loader) - 用于Webpack的LitElement单文件组件加载器.
-- [generator-lit-element](https://github.com/sebs/generator-lit-element) - 用于创建基于LitElement的自定义元素的Yeoman生成器.
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) - 用于构建，测试和发布vanilla Web Components的CLI工具.
 - [open-wc](https://github.com/open-wc) - 一组建议，以帮助您生成，测试，lint，演示和发布Web组件.
 

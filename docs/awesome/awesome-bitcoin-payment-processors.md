@@ -57,9 +57,7 @@
 
 ## 💝 Donations are always appreciated!
 
-BTC：3DJGzZnhHzNA7sKday7hjSWG6uveuG2hUA
-
-通过闪电BTC： [tippin.me/@alex_kaul](https://tippin.me/@alex_kaul)
+捐赠比特币：https：//donate.alexkaul.com/bitcoin-payment-processors
 
 ## License
 

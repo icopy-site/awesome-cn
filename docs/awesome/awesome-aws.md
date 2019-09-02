@@ -521,7 +521,7 @@ AWS Repos：
 * [blox :fire::fire::fire:](https://github.com/blox/blox) - 用于在ECS上构建自定义调度程序的开源工具.
 * [ecs-blue-green-deployment :fire::fire:](https://github.com/awslabs/ecs-blue-green-deployment) -  ECS上的蓝绿色部署.
 * [ecs-cloudwatch-logs](https://github.com/awslabs/ecs-cloudwatch-logs) - 使用Amazon ECS和Amazon CloudWatch日志从博客获得的资产.
-* [ecs-demo-php-simple-app](https://github.com/awslabs/ecs-demo-php-simple-app) - 简单的PHP应用程序.
+* [ecs-demo-php-simple-app :fire:](https://github.com/awslabs/ecs-demo-php-simple-app) - 简单的PHP应用程序.
 * [ecs-mesos-scheduler-driver :fire:](https://github.com/awslabs/ecs-mesos-scheduler-driver) - 集成Apache月.
 * [ecs-refarch-continuous-deployment :fire::fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - 使用CodePipeline持续部署到ECS的参考架构.
 * [ecs-task-kite](https://github.com/awslabs/ecs-task-kite) - 用于任务间通信的简单大使容器.
@@ -583,7 +583,7 @@ AWS Repos：
 
 社区回购：
 
-* [vsespb/mt-aws-glacier :fire::fire:](https://github.com/vsespb/mt-aws-glacier) -  Perl Multithreaded Multipart同步到Glacier.
+* [vsespb/mt-aws-glacier :fire::fire::fire:](https://github.com/vsespb/mt-aws-glacier) -  Perl Multithreaded Multipart同步到Glacier.
 
 ### Kinesis
 
@@ -742,7 +742,7 @@ AWS Repos：
 * [ncw/rclone :fire::fire::fire::fire::fire:](https://github.com/ncw/rclone) - 适用于各种云存储提供商（如S3）的Rsync.
 * [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) -  S3磁盘使用（您）实用程序.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) -  Gulp插件.
-* [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - 快速，并发，流式访问，包括CLI.
+* [rlmcpherson/s3gof3r :fire::fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - 快速，并发，流式访问，包括CLI.
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) -  CLI工具，允许您创建分布式，分散式和版本化的存储库.
 * [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - 允许Linux和Mac OS X通过FUSE安装S3存储桶.
 * [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - 用于管理S3和CloudFront的CLI.

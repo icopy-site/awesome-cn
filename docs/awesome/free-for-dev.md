@@ -95,13 +95,14 @@
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
-  * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
+  * [IP Geolocation](https://ipgeolocation.io/) -  IP Geolocation API  - 针对每月30k请求（1k /天）限制的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
   * [IP2Location](https://www.ip2location.com)   - 免费IP地理定位服务.  LITE数据库可免费下载.  在服务器中导入数据库并执行本地查询以确定城市，坐标和ISP信息.
   * [FraudLabs Pro](https://www.fraudlabspro.com)   - 筛选信用卡付款欺诈的订单交易.  此REST API将根据订单的输入参数检测所有可能的欺诈特征.  Free Micro计划每月有500笔交易.
   * [IPList](https://www.iplist.cc)   - 查找有关任何IP地址的详细信息，例如地理IP信息，地址，主机名和ASN详细信息.  个人和企业用户免费.
-  * [IPTrace](https://iptrace.io) - 一个令人尴尬的简单API，为您的企业提供可靠且有用的IP地理位置数据.
+  * [IPTrace](https://iptrace.io) - 一个令人尴尬的简单API，为您的企业提供可靠和有用的IP地理位置数据.
+  * [Clarifai](https://www.clarifai.com)   - 用于自定义面部识别和检测的图像API.  能够训练AI模型.  免费计划每月有5000个电话.
 
 
 
@@ -133,7 +134,7 @@
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
-  * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
+  * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [flock.com](https://flock.com)   - 团队沟通的更快捷方式.  免费无限消息，频道，用户，应用和集成
   * [Igloo](https://www.igloosoftware.com/) - 用于共享文档，博客和日历等的内部门户.最多可供10位用户免费使用.
   * [riot.im](https://about.riot.im/)   - 基于Matrix构建的分散式通信工具.  群聊，直接消息传递，加密文件传输，语音和视频聊天，以及与其他服务的轻松集成.
@@ -211,7 +212,7 @@
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
-  * [auth0.com](https://auth0.com/) — Hosted free for development SSO. Up to 2 social identity providers for closed-source projects.
+  * [auth0.com](https://auth0.com/)   - 免费开发SSO.  最多2个社交身份提供商用于闭源项目.
   * [ringcaptcha.com](https://ringcaptcha.com/) - 使用电话号码作为身份证的工具，免费提供
   * [ssllabs.com](https://www.ssllabs.com/ssltest/) - 对任何SSL Web服务器的配置进行非常深入的分析
   * [qualys.com](https://www.qualys.com/forms/freescan/owasp/) - 查找Web应用程序漏洞，审核OWASP风险
@@ -244,7 +245,7 @@
   * [logentries.com](https://logentries.com/) - 最多5 GB /月，保留7天
   * [loggly.com](https://www.loggly.com/) - 对于单个用户免费，请参阅lite选项
   * [logz.io](https://logz.io/) - 免费最多1 GB /天，保留3天
-  * [papertrailapp.com](https://papertrailapp.com/) -  48小时搜索，7天存档，100 MB /月
+  * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [rollbar.com](https://rollbar.com) - 每月免费最多5000个活动，保留30天
   * [sematext.com](https://sematext.com/logsene) - 免费最多500 MB /天，保留7天
   * [sumologic.com](https://www.sumologic.com/) - 免费最多500 MB /天，保留7天
@@ -295,7 +296,7 @@
 
   * [rollbar.com](https://rollbar.com/) - 例外和错误监控，每月5,000个错误的免费计划，无限用户，30天保留期
   * [bugsnag.com](https://www.bugsnag.com/) - 初次试用后每月最多可免费提供2,000个错误
-  * [sentry.io](https://sentry.io/)   -  Sentry实时跟踪应用程序异常，有一个小的免费计划.  如果是自我托管，可以免费，不受限制地使用
+  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
 
 ## Search
 
@@ -361,7 +362,7 @@
 ## PaaS
 
   * [engineyard.com](https://www.engineyard.com/) -  Engine Yard提供500个免费小时
-  * [appharbor.com](https://appharbor.com/) — A .Net PaaS that provides 1 free worker
+  * [appharbor.com](https://appharbor.com/) - 提供1名免费工作人员的.Net PaaS
   * [heroku.com](https://www.heroku.com/) - 在云端托管您的应用，免费提供单一流程应用
   * [firebase.google.com](https://firebase.google.com) - 构建实时应用程序，免费计划有100个最大连接，10 GB数据传输，1 GB数据存储，1 GB主机存储和10 GB主机传输
   * [IBM Cloud](https://cloud.ibm.com/login) -  IBM PaaS，每月免费津贴
@@ -375,6 +376,7 @@
   * [gearhost.com](https://www.gearhost.com/pricing)   - 适用于.NET和PHP应用程序的平台.  在资源有限的共享服务器上免费提供256 MB RAM
   * [glitch.com](https://glitch.com/) - 免费无限制的公共/私人托管，具有代码共享和实时协作等功能
   * [gigalixir.com](https://gigalixir.com/) - 对于Elixir / Phoenix应用程序，Gigalixir提供1个永不休眠的免费实例和免费级PostgreSQL数据库，限制为2个连接，10,000行，无备份.
+  * [workers.dev](https://workers.dev)   - 在Cloudflare的全球网络上免费部署无服务器代码.  使用workers.dev子域每天100,000个免费请求.
 
 ## BaaS
 
@@ -435,7 +437,7 @@
   * [zonewatcher.com](https://zonewatcher.com)   - 自动备份和DNS更改监控.  1个域名免费
   * [namecheap.com](https://www.namecheap.com/domains/freedns/)   - 免费DNS.  域名数量没有限制
   * [dynu.com](https://www.dynu.com/) - 免费的动态DNS服务
-  * [noip](https://www.noip.com/) — a dynamic dns service that allows up to 3 hostnames free with confirmation every 30 days
+  * [noip](https://www.noip.com/) - 动态DNS服务，每30天免费提供最多3个主机名
   * [freenom.com](https://freenom.com/)   - 免费域名提供商.  免费获取FQDN.
   * [duckdns.org](https://www.duckdns.org/)   - 免费层上最多5个域的免费DDNS.  使用各种设置的配置指南.
   * [1984.is](https://www.1984.is/product/freedns/) - 使用API​​提供免费DNS服务，还包括许多其他免费DNS功能.
@@ -460,9 +462,9 @@
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
-   * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
+   * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
    * [FaunaDB](https://fauna.com/) - 无服务器云数据库，具有原生GraphQL，多模型访问和每日免费层高达5GB
 
@@ -495,7 +497,7 @@
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
-   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
+   * [acunote.com](https://www.acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
    * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
@@ -510,7 +512,7 @@
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud)   - 基于时间跟踪，敏捷板上的附件以及许多其他改进进行搜索.  10个用户5 GB免费
    * [plan.io](https://plan.io/)   - 使用Repository Hosting和mor选项进行项目管理.  10位客户和500MB存储空间可供2位用户免费使用
    * [taskade.com](https://www.taskade.com/) - 团队的实时协作任务列表和大纲
-   * [zenkit.com](https://zenkit.com)   - 项目管理和协作工具.  最多可免费使用5个成员，5 GB附件.
+   * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com)   - 针对移动应用的全面错误报告和应用内反馈SDK.  免费计划最多1个应用程序和1个成员.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - 免费为期一年的Office 365 E3订阅开发/测试.
    * [senseitool.com](https://www.senseitool.com/) - 敏捷的回顾工具 - 免费.
@@ -545,7 +547,7 @@
   * [imagebin.ca](https://imagebin.ca/) - 图像的Pastebin
   * [cloudconvert.com](https://cloudconvert.com/)   - 将任何东西转换成任何东  支持208种格式，包括gif视频
   * [resizeappicon.com](https://resizeappicon.com/) - 一项简单的服务，用于调整和管理您的应用图标
-  * [vectr.com](https://vectr.com/) — Free Design App For Web + Desktop
+  * [vectr.com](https://vectr.com/) - 适用于Web +桌面的免费设计应用程序
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
@@ -624,7 +626,7 @@
 
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)   - 使用SMS网关，通过创新可靠的方法验证免费增值手机号码.  每天免费10次尝试和15次验证
-  * [numverify.com](https://numverify.com/) — Global phone number validation and lookup JSON API. 250 API requests/month
+  * [numverify.com](https://numverify.com/)   - 全球电话号码验证和查找JSON API.  250个API请求/月
 
 ## Payment / Billing Integration
 

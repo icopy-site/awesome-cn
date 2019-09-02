@@ -83,6 +83,7 @@ VML和CSS.
 
 ## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - 全球每个流行的移动，网络和桌面电子邮件客户端的CSS支持的完整细分.
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - 使用模块化电子邮件模板系统
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - 本指南简要概述了我们从管理邮件服务器中学到的电子邮件最佳实践.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/)   - 我查看了50个响应式零售电子邮件的导航.  这是我发现的模式的细分.
 
@@ -95,6 +96,7 @@ VML和CSS.
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 - [Stripo.email Blog](http://www.emailmonks.com/blog/) - 电子邮件营销和电子邮件设计博客
 - [HTML Email Blog](https://htmlemail.io/blog/)
+- [Build Better Blog](https://blocksedit.com/content-code/) - 电子邮件营销中的设计和内容制作
 
 ## Copy
 - [Email Copy](http://www.goodemailcopy.com/) - 伟大公司的电子邮件副本.
@@ -130,7 +132,7 @@ VML和CSS.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 用咕噜声向Litmus发送电子邮件测试
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - 通过gulp向Litmus发送电子邮件测试
 - [SPAM mailtester](http://www.mail-tester.com/) - 测试你的电子邮件的垃圾邮件
-- [MailTrap](https://mailtrap.io) - 虚假的SMTP服务器，用于测试，查看和共享电子邮件，而不会向真实客户发送垃圾邮件.
+- [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
 - [MailHog](https://github.com/mailhog/MailHog) 本地虚假SMTP服务器（基于Go）
 - [MailCatcher](https://mailcatcher.me/) 本地虚假SMTP服务器（基于Ruby）
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端的priacy功能（加载远程内容）的工具
@@ -148,7 +150,7 @@ VML和CSS.
 
 ### Contribution
 建议和PR欢迎！ 
-If you want to contribute, please read the [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
+如果您想贡献，请阅读 [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 
 ### More Awesome
 -  [Awesome JS Books](https://github.com/jonathandion/awesome-js-books) - 这是所有最好的Javascript书籍的精选列表.

@@ -527,6 +527,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
 ## Unofficial
+ * [Crystal Programming Discord Server](https://discord.gg/YPGkQ5A) - 专用于Crystal Programming Language的非官方Discord服务器
  * [Russian-speaking Telegram Group](https://t.me/crystal_ru) - 欢迎，同志们！
 
 ## Resources
