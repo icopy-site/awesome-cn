@@ -62,6 +62,7 @@ Ant Design的官方项目和资源.
 
 - [antd-theme-webpack-plugin](https://github.com/mzohaibqc/antd-theme-webpack-plugin) - 用于生成自定义主题文件的webpack插件.
 - [antd-theme-generator](https://github.com/mzohaibqc/antd-theme-generator) - 一个简单的脚本，用于生成特定主题的文件，可以在任何环境中使用.
+- [dynamic-antd-theme](https://github.com/luffyZh/dynamic-antd-theme) - 一个简单的插件，动态改变蚂蚁设计主题，无论是less还是css. 
 
 ### Themes
 
@@ -99,7 +100,7 @@ Ant Design系列项目.
 
 ## Components
 
-使用Ant Design构建的UI组件列表.
+A list of UI components built with Ant Design.
 
 - [antd-table-infinity](https://github.com/Leonard-Li777/antd-table-infinity) - 基于antd表的无限滚动组件，支持虚拟滚动和高性能
 - [react-lz-editor](https://github.com/leejaen/react-lz-editor) - 基于draft-Js和ant设计的开源丰富的反应编辑器.
@@ -170,7 +171,7 @@ Ant Design系列项目.
 ## Icons
 
 - [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons)
-- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
+- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) -  Ant Design和Ant Design Mobile的高级图标字体.
 
 ## Design Tools and Resources
 

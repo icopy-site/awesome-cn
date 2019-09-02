@@ -4,7 +4,7 @@
 
 一系列令人敬畏的初学者友好项目.
 
-灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和 [YourFirstPR](http://yourfirstpr.github.io/) 项目.
+灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和YourFirstPR项目.
 
 如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
 
@@ -82,7 +82,7 @@
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  允许你拆分的Angular指令！
 - [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  JavaScript的最小功能历史库.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：第一次撰稿人）_ <br>  通过在许多Javascript应用程序中实现Todo，帮助您选择MV \ *框架.
-- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门bug）_ <br>  一个用于Web的开源代码编辑器，用JavaScript，HTML和CSS编写.
+- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：easy-pick）_ <br>  一个脱机优先的JavaScript客户端利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript中的模式.
@@ -193,7 +193,7 @@
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
+- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架
