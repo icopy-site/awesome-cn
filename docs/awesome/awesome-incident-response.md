@@ -15,7 +15,7 @@
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) -  Windows批处理脚本，它使用一组工具和输出文件使系统看起来好像已被泄露.
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 小型且高度便携的检测测试，映射到Mitre ATT和CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP)   - 自动战术技术和程序.  手动重新运行复杂序列以进行回归测试，产品评估，为研究人员生成数据.
-* [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，它将使您的网络分析培训课程，事件响应演练和红色团队合作达到一个新的水平.
+* [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - Software for defensive security training, which will bring your network analysis training sessions, incident response drills and red team engagements to a new level.
 * [Caldera](https://github.com/mitre/caldera)   - 自动对手仿真系统，可在Windows企业网络中执行折衷后的对抗行为.  它使用计划系统和基于对抗战术，技术和常识（ATT＆CK™）项目的预配置对手模型在运营期间生成计划.
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire)   - 模块化，菜单驱动，跨平台工具，用于构建可重复，延时，分布式安全事件.  轻松为Blue Team演习和传感器/警报映射创建自定义事件链.  红队可以制造诱饵事件，分心和诱饵，以支持和扩展他们的行动.
 * [Metta](https://github.com/uber-common/metta) - 用于进行对抗性模拟的信息安全准备工具.
@@ -63,7 +63,7 @@
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager)   - 取证工具，其主要目的是从任何类型的磁盘预览可恢复的数据.  FTK Imager还可以在32位和64位系统上获取实时内存和分页文件.
 * [Bitscout](https://github.com/vitaly-kamluk/bitscout)   -  Vitaly Kamluk的Bitscout帮助您构建完全可信的可定制LiveCD / LiveUSB图像，用于远程数字取证（或者您选择的任何其他任务）.  它意味着系统的所有者是透明和可监控的，具有法律声音，可定制和紧凑.
 * [GetData Forensic Imager](http://www.forensicimager.com/) - 基于Windows的程序，将以下列常见取证文件格式之一获取，转换或验证取证图像.
-* [Guymager](http://guymager.sourceforge.net) - 免费的取证成像器，用于在Linux上进行媒体采集.
+* [Guymager](http://guymager.sourceforge.net) - Free forensic imager for media acquisition on Linux.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) -  Magnet Forensics的ACQUIRE允许在Windows，Linux和OS X以及移动操作系统上执行各种类型的磁盘采集.
 
 ### Evidence Collection
@@ -112,11 +112,11 @@
 * [Evolve](https://github.com/JamesHabben/evolve) -  Volatility Memory取证框架的Web界面.
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - 具有嵌套虚拟机管理程序支持的Windows x64高级内存分析.
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - 计算机内存分析工具.
-* [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
+* [LiME](https://github.com/504ensicsLabs/LiME) - 可加载内核模块（LKM），允许从基于Linux和Linux的设备（以前称为DMD）获取易失性存储器.
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html)   - 免费内存取证软件，帮助事件响应者在现场记忆中发现邪恶.  Memoryze可以获取和/或分析存储器图像，并且在实时系统上，可以在其分析中包括页面文件.
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html)   -  Memoryze for Mac是Memoryze，但随后是Mac.  但是，功能数量较少.
-* [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples.
-* [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution.
+* [Rekall](http://www.rekall-forensic.com/) - 用于从易失性存储器（RAM）样本中提取数字伪像的开源工具（和库）.
+* [Responder PRO](http://www.countertack.com/responder-pro) -  Responder PRO是行业标准的物理内存和自动恶意软件分析解决方案.
 * [Volatility](https://github.com/volatilityfoundation/volatility) - 高级内存取证框架.
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - 研究人员的自动化工具可以减少二进制提取阶段的所有猜测和手动任务，或者帮助研究人员完成记忆分析调查的第一步.
 * [VolDiff](https://github.com/aim4r/VolDiff) - 基于波动率的恶意软件内存占用分析.
@@ -177,13 +177,18 @@
 
 ### Sandboxing/reversing tools
 
+* [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) -  Android恶意软件分析即服务，在原生Android环境中执行.
+* [Any Run](https://app.any.run/) - 交互式在线恶意软件分析服务，用于使用任何环境对大多数类型的威胁进行动态和静态研究.
 * [Cuckoo](https://github.com/cuckoobox) - 开源高度可配置的沙盒工具.
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - 由社区开发的重度修改的Cuckoo叉子.
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) - 用于控制布谷鸟修改沙箱的Python库.
-* [Hybrid-Analysis](https://www.hybrid-analysis.com/) -  Payload Security免费强大的在线沙箱.
-* [Malwr](https://malwr.com) - 免费的在线恶意软件分析服务和社区，由Cuckoo Sandbox提供支持.
+* [Hybrid-Analysis](https://www.hybrid-analysis.com/) -  CrowdStrike免费强大的在线沙盒.
+* [Intezer](https://analyze.intezer.com/#/) -  Intezer Analyze潜入Windows二进制文件，以检测与已知威胁的微代码相似性，以便提供准确且易于理解的结果.
+* [Joe Sandbox (Community)](https://www.joesandbox.com/)   -  Joe Sandbox检测并分析Windows，Android，Mac OS，Linux和iOS上的潜在恶意文件和URL是否存在可疑活动;  提供全面详细的分析报告.
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - 静态分析框架，自动化从多种不同文件格式中提取关键特征的过程.
 * [Metadefender Cloud](https://www.metadefender.com) - 免费威胁情报平台，提供多扫描，数据清理和文件漏洞评估.
+* [Reverse.IT](https://www.reverse.it/) - 由CrowdStrike提供的混合分析工具的替代域.
+* [Valkyrie Comodo](https://valkyrie.comodo.com) -  Valkyrie使用运行时行为和文件中的数百个功能来执行分析.
 * [Viper](https://github.com/viper-framework/viper) - 基于Python的二进制分析和管理框架，适用于Cuckoo和YARA.
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - 用于日志的开源可视化库和命令行工具（Cuckoo，Procmon，更多内容）.
 
@@ -208,7 +213,7 @@
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector)   - 在实时Windows系统上收集不同人工制品并将结果记录在csv文件中的工具.  通过对这些人工制品的分析，可以检测到早期的妥协.
 * [Fast Evidence Collector Toolkit (FECT)](https://github.com/jipegit/FECT)   -  Light事件响应工具包，用于收集可疑Windows计算机上的证据.  基本上它是由非技术精明的人与熟练工事件处理程序一起使用.
 * [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪Windows内核的工具.
-* [IREC](https://binalyze.com/products/irec-free/) - All-in-one IR Evidence Collector which captures RAM Image, $MFT, EventLogs, WMI Scripts, Registry Hives, System Restore Points and much more. It is FREE, lightning fast and easy to use.
+* [IREC](https://binalyze.com/products/irec-free/)   - 一体化IR证据收集器，可捕获RAM映像，$ MFT，EventLogs，WMI脚本，注册表配置单元，系统还原点等等.  它是免费的，闪电般快速且易于使用.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)   -  Mandiant的免费工具，用于收集主机系统数据并报告妥协指标（IOC）的存在.  仅支持Windows.
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)   - 来自Fidelis Cyber​​security的免费工具，它使用OpenIOC和YARA规则来报告端点的状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner测量系统的状态，并在运行完成时生成任何匹配规则的报告.  仅限Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) - 使用yara规则和其他指标（IOC）扫描终点的免费红外扫描仪.
@@ -216,5 +221,5 @@
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时Windows系统的快速事件概述.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 使用PowerShell的Live disk取证平台.
 * [PSRecon](https://github.com/gfoss/PSRecon/)   -  PSRecon使用PowerShell（v2或更高版本）从远程Windows主机收集数据，将数据组织到文件夹中，散列所有提取的数据，散列PowerShell和各种系统属性，并将数据发送给安全团队.  数据可以推送到共享，通过电子邮件发送或保留在本地.
-* [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - 用Perl编写的开源工具，用于从Registry中提取/解析信息（键，值，数据）并将其呈现用于分析.
+* [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - 适用于Windows的IR收集器.
