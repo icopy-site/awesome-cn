@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="frenck/awesome-home-assistant"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Home Assistant
 
 <div align="center">
@@ -54,14 +55,14 @@ Home Assistant目前_recommends_ Hass.io方法.
 
 * [Hass.io](https://www.home-assistant.io/getting-started/) - 使用Docker托管环境进行安装（推荐方法）.
 * [Docker](https://www.home-assistant.io/docs/installation/docker/) - 在Docker上安装.
-* [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - 安装Hassbian.
+* [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - Installing Hassbian.
 * [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) - 使用Python虚拟环境手动安装.
 
 ## Need Help?
 
 _有多种方式可以与家庭助理社区联系.
 如果您有问题，需要帮助，想要申请功能，这没关系，
-或者只是说&#39;嗨&#39;._
+or just say ‘Hi’._
 
 ### Official channels
 
@@ -122,7 +123,7 @@ _Add-ons是易于安装的服务，可以扩展功能
 _Anyone可以创建一个附加组件，以下内容由社区创建._
 
 * [SSH & Web Terminal](https://github.com/hassio-addons/addon-ssh) - 具有大量预装有用工具的SSH和基于Web的终端.
-* [Pi-hole](https://github.com/hassio-addons/addon-pi-hole) - Network-wide ad blocking.
+* [Pi-hole](https://github.com/hassio-addons/addon-pi-hole) - 广告网络广告拦截.
 * [UniFi Controller](https://github.com/hassio-addons/addon-unifi) -  UniFi控制器允许您使用Web浏览器管理UniFi网络.
 * [Node-RED](https://github.com/hassio-addons/addon-node-red) - 物联网的基于流的编程.
 * [Plex Media Server](https://github.com/hassio-addons/addon-plex) - 您录制的媒体组织精美，随时可以播放.
@@ -194,7 +195,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Mini Media Player](https://github.com/kalkih/mini-media-player) - 简约的媒体播放器卡.
 * [Mini Graph Card](https://github.com/kalkih/mini-graph-card) - 简约的传感器图形卡.
 * [Button card](https://github.com/kuuji/button-card) - 实体的按钮卡.
-* [Slideshow card](https://github.com/zsarnett/slideshow-card) - Dynamic slideshow of images or cards.
+* [Slideshow card](https://github.com/zsarnett/slideshow-card) - 动态幻灯片显示图像或卡片.
 * [Swiper card](https://community.home-assistant.io/t/lovelace-swiper-card/72447?u=frenck) - 轻击/滑动多张卡片.
 * [Slider Entity Row](https://github.com/thomasloven/lovelace-slider-entity-row) - 添加滑块以调整，例如，lovelace实体卡中的灯光亮度.
 * [Power Wheel Card](https://github.com/gurbyz/custom-cards-lovelace/tree/master/power-wheel-card) - 一种直观的方式来表示您的家庭正在消耗或生产的力量.
@@ -210,7 +211,7 @@ _Lovelace允许人们在它上面构建自定义卡片，你可以
 * [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - 受Google Material Design启发的简约天气卡.
 * [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) - 与Floorplan中的实体互动.
 * [Home Card](https://github.com/postlund/home-card) - 快速浏览一下您家的状态.
-* [Banner Card](https://github.com/nervetattoo/banner-card) - 一个蓬松的可链接横幅，互动式的扫视，为您的家庭仪表板增添色彩.
+* [Banner Card](https://github.com/nervetattoo/banner-card) - A fluffy linkable banner with interactive glances to spice up your home dashboards.
 * [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) - 显示来自Plex，Kodi，Radarr，Sonarr和Trakt等服务的即将播出的剧集和电影.
 * [Spotify Card](https://github.com/custom-cards/spotify-card) - 列出并选择Spotify上当前可用的设备和用户顶级播放列表.
 * [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) - 显示电池实体的电池电量.
@@ -267,7 +268,7 @@ _由社区创建的Home Assistant的附加组件._
 * [433mhz/IR Bidirectional Gateway](https://community.home-assistant.io/t/433mhz-infrared-ir-to-and-from-mqtt-on-esp8266/6779?u=frenck) - 使用ESP8266和MQTT双向使用IR和433mhz.
 * [esp8266MQTTBlinds](https://community.home-assistant.io/t/esp8266-window-blinds-mqtt/14863?u=frenck) - 使用ESP8266，伺服和MQTT自动化窗帘.
 * [Home Assistant's Hackster.io](https://www.hackster.io/home-assistant?f=1#_=_) - 具有多个DIY项目的Hackster频道.
-* [ESP MQTT Digital LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - WS2811 LED Stripe for the JSON Light Component from BRUH.
+* [ESP MQTT Digital LEDs](https://github.com/bruhautomation/ESP-MQTT-JSON-Digital-LEDs) - 用于BRUH的JSON Light组件的WS2811 LED条纹.
 * [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) - 基于ESP8266的床存在检测.
 * [NFC Scanner](https://github.com/klaasnicolaas/ha_nfc_scanner) - 使用ESP8266，PN532和MQTT构建NFC标签/卡片扫描仪.
 * [ESP32-Cam Facebox](https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/) - 将ESP32-CAM，HA和Facebox连接在一起，以获得便宜的面部识别/家庭监控解决方案.

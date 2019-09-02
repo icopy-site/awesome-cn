@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="mojoaxel/awesome-regression-testing"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> Curated list of awesome visual regression testing resources.
+&gt;精选的视觉回归测试资源列表.
 
  回归测试是一种软件测试，用于验证先前开发和测试的软件在更改或与其他软件接口后仍然执行相同的操作.  回归测试的目的是确保软件的更改不会引入新的错误.
 
@@ -136,11 +137,11 @@
 
 ### Contributing
 
-见 [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+See the [Contribution Guide](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 ### Code of Conduct
 
-见 [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
+See the [Code of Conduct](https://github.com/mojoaxel/awesome-regression-testing/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
 &gt;为了营造一个开放和热情的环境，我们就像
 贡献者和维护者承诺参与我们的项目和
 我们的社区为每个人提供无骚扰的体验，无论年龄，身体

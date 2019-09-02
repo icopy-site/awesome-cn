@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="melvin0008/awesome-projects-boilerplates"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的样板和模板清单，以提高生产力.
@@ -60,7 +61,7 @@
     - [React Redux minimal](https://github.com/flexdinesh/react-redux-boilerplate) 最小的React-Redux样板，包含所有最佳实践
     - [React Redux Universal Hot Example](https://github.com/erikras/react-redux-universal-hot-example) 使用express，react，redux，webpack和react-transform的通用webapp的入门样板
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) 使用3REE堆栈（React，Redux，RethinkDB，Express）+ PostCSS的通用应用程序的Boilerplate
-    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate showing how to create a production-ready Hyperapp application.
+    - [hyperapp-boilerplate](https://github.com/tzellman/hyperapp-boilerplate) Boilerplate显示如何创建生产就绪的Hyperapp应用程序.
     - [Backbone Boilerplates](https://github.com/addyosmani/backbone-boilerplates) Addy Osmani的Backbone Boilerplates.
     - [Yeoman Backbone Generator](https://github.com/yeoman/generator-backbone) Backoman的Yeoman发电机.
     - [benm](https://github.com/shorttompkins/benm) 使用Backbone.js，ExpressJS，node.js，MongoDB的Boilerplate Web应用程序.
@@ -140,7 +141,7 @@
 - [Open Designs](http://www.opendesigns.org/) 开源WebDesign模板
 - [Open Web Design](http://www.openwebdesign.org/) 共享免费网页设计模板的设计师和网站所有者社区
 - [OSWD](http://www.oswd.org/) 共享符合标准的免费网页设计模板的平台
-- [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App生成器样板.
+- [Jekyll Starter Kit](https://github.com/nirgn975/generator-jekyll-starter-kit) Jekyll Progressive Web App generator boilerplate.
 - [HTML5 UP!](https://html5up.net/) 响应式HTML5和CSS3站点模板.
 - [Gulp front](https://zoxon.github.io/gulp-front/) 基于gulp，pug，stylus和babel的前端样板和框架
 

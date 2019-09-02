@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="MFatihMAR/Awesome-Game-Networking"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 游戏网络是计算机网络的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，反作弊，负载均衡，带宽优化等
-- 以及涉及多人在线游戏编程的更多技术.
+&mdash; and many more techniques involved in multiplayer online game programming.
 
 **请在阅读后随意提供_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
 
@@ -67,7 +68,7 @@
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) - 来自Sandbox Interactive的David Salz的Albion MMO架构.
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) - 来自Exit Games的Christof Wegmann的多人游戏架构比较.
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) - 来自Unity的Peter Andreasen的Netcode演讲.
-- Other
+- 其他
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) - 聊天关于Guild Wars，暗黑破坏神，星际争霸由Pat Wyatt建立的网络.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) - 来自Blizzard的Tim Ford和Philip Orwig的Overwatch网络代码.
 

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-observables"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Observables [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;安 [Observable](https://github.com/zenparsing/es-observable)  是一个随着时间推移到来的集合.  Observable可用于模拟基于推送的数据源，例如事件，计时器间隔，异步请求和动画.  可以使用类似数组的方法转换，组合和使用Observable.

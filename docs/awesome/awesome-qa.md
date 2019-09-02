@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="seriousmac/awesome-qa"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Question Answering [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) 
 
 _A的精选清单 __[Question Answering (QA)](https://en.wikipedia.org/wiki/Question_answering)__科目是信息检索和自然语言处理（NLP）领域的计算机科学学科，用于机器学习和深度学习_
 
-_信息检索和自然语言处理问答的策展 - 机器学习和深度学习_ <br/>
+信息检索和自然语言处理中的问答环节 - 从机器学习到深度学习<br/>
 _问答系统主题的精选列表，是信息检索和自然语言处理领域的计算机科学学科 - 使用机器学习和深度学习_
 
 
@@ -74,7 +75,7 @@ Lanugage分析
  |  |  数据集|  语言|  组织者|  自|  最高排名|  型号|  状态|  过度人性化|
 |---|------------------|---------------|---------------------|-------|-------------------------|-------------------------|--------|------------------------|
 | 0 | [Story Cloze Test](http://cs.rochester.edu/~nasrinm/files/Papers/lsdsem17-shared-task.pdf)  |  英语|  大学.  罗切斯特|  2016 |  msap |  逻辑回归|  关闭|  x |
- |  1 |  MS MARCO |  英语|  微软|  2016 |  NLP研究NLP |  MARK |  关闭|  
+ |  1 |  MS MARCO |  英语|  微软|  2016 |  袁福道研究NLP |  MARS |  关闭|  o |
  |  2 |  MS MARCO V2 |  英语|  微软|  2018年|  NTT Media Intelli.  实验室.  |  面膜问答风格|  打开|  x |
 | 3 | [SQuAD](https://arxiv.org/abs/1606.05250)             |  英语|  大学.  斯坦福大学|  2018年|  XLNet（单一型号）| XLNet团队|  关闭|  o |
 | 4 | [SQuAD 2.0](https://rajpurkar.github.io/SQuAD-explorer/)         |  英语|  大学.  斯坦福大学|  2018年|  HIT与iFLYTEK研究联合实验室|  BERT + DAE + AoA（合奏）|  打开|  o |
@@ -91,7 +92,7 @@ Lanugage分析
     ：在文本中仅显示您想要的内容
   - ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf)，Octavian-Eugen Ganea和Thomas Hofmann，2017年.
   - ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf)，Minjoon Seo，Aniruddha Kembhavi，Ali Farhadi，Hananneh Hajishirzi，ICLR，2017.
-  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf)，Matthew Francis-Landau，Greg Durrett和Dan Klei，NAACL-HLT 2016.
+  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
     - https://GitHub.com/matthewfl/nlp-entity-convnet
   - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
   - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/)，IBM Journal of Research and Development，DA Ferrucci，2012.
@@ -122,7 +123,7 @@ Lanugage分析
 - [Question Answering - Natural Language Processing](https://youtu.be/Kzi6tE4JaGo)   - 由Dragomir Radev，博士.  |  密歇根大学|  2016年
 
 ## Slides
-- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)   - 作者：Scott Wen-ans Yih＆Hao Ma |  微软研究院|  2016年
+- [Question Answering with Knowledge Bases, Web and Beyond](https://github.com/scottyih/Slides/blob/master/QA%20Tutorial.pdf)   - 作者：Scott Wen-tau Yih和Hao Ma |  微软研究院|  2016年
 - [Question Answering](https://hpi.de/fileadmin/user_upload/fachgebiete/plattner/teaching/NaturalLanguageProcessing/NLP2017/NLP8_QuestionAnswering.pdf)   - 博士  玛丽安娜内维斯|  哈索普拉特纳研究所|  第二千〇十七
 
 ## Dataset Collections
@@ -147,7 +148,7 @@ Lanugage分析
   - 论文：https：//arxiv.org/abs/1611.09268
 - [MultiRC](https://cogcomp.org/multirc/)
   - 短段和多句话题的数据集
-  - Paper: http://cogcomp.org/page/publication_view/833 
+  - 论文：http：//cogcomp.org/page/publication_view/833 
 - [NarrativeQA](https://github.com/deepmind/narrativeqa)
   - 它包括维基百科摘要的文档列表，完整故事的链接以及问题和答案.
   - 论文：https：//arxiv.org/pdf/1712.07040v1.pdf
@@ -155,7 +156,7 @@ Lanugage分析
   - 机器理解数据集
   - 论文：https：//arxiv.org/pdf/1611.09830.pdf
 - [Qestion-Answer Dataset by CMU](http://www.cs.cmu.edu/~ark/QA-data/)
-  - This is a corpus of Wikipedia articles, manually-generated factoid questions from them, and manually-generated answers to these questions, for use in academic research. These data were collected by Noah Smith, Michael Heilman, Rebecca Hwa, Shay Cohen, Kevin Gimpel, and many students at Carnegie Mellon University and the University of Pittsburgh between 2008 and 2010.
+    - 这是维基百科文章的语料库，由他们手动生成的仿真问题，以及手动生成的这些问题的答案，用于学术研究.  这些数据由Noah Smith，Michael Heilman，Rebecca Hwa，Shay Cohen，Kevin Gimpel以及2008年至2010年期间卡内基梅隆大学和匹兹堡大学的许多学生收集.
 - [SQuAD1.0](https://rajpurkar.github.io/SQuAD-explorer/)
   - 斯坦福问答数据集（SQUAD）是一个阅读理解数据集，由群体工作者在一组维基百科文章中提出的问题组成，其中每个问题的答案是来自相应阅读段落的文本或跨度的一部分，或者问题可能无法回答.
   - 论文：https：//arxiv.org/abs/1606.05250
@@ -185,11 +186,11 @@ Lanugage分析
 ### MS Research's publication within 5 years
 - 2018
   - “人与人交流中的表征和支持问题回答”，小杨，Ahmed Hassan Awadallah，Madian Khabsa，Wei Wang，Miaosen Wang，ACM SIGIR，2018.
-  - ["FigureQA: An Annotated Figure Dataset for Visual Reasoning"](https://arxiv.org/abs/1710.07300)，Samira Ebrahimi Kahou，Vincent Michalski，Adam Atkinson，Kadar，Adam Trischler，Yoshua Bengio，ICLR，2018
+  - ["FigureQA: An Annotated Figure Dataset for Visual Reasoning"](https://arxiv.org/abs/1710.07300)，Samira Ebrahimi Kahou，Vincent Michalski，Adam Atkinson，Akos Rate，Adam Trischler，Yoshua Bengio，ICLR，2018
 - 2017
   - "Multi-level Attention Networks for Visual Question Answering", Dongfei Yu, Jianlong Fu, Tao Mei, Yong Rui, CVPR, 2017.
   - “问答和问题产生的联合模型”，王彤，Xingdi（Eric）Yuan，Adam Trischler，ICML，2017.
-  - “机器理解中转移学习的两阶段综合网络”，David Golub，黄宝森，何晓东，李登，EMNLP，2017.
+  - "Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension", David Golub, Po-Sen Huang, Xiaodong He, Li Deng, EMNLP, 2017.
   - “问题 - 用语法解释的表达方式回答”，Hamid Palangi，Paul Smolensky，何晓东，李登， 
   - “基于搜索的顺序问题回答的神经结构学习”，Mohit Iyyer，Wen-tau Yih，Chang-Wei Chang，ACL，2017.
 - 2016
@@ -199,7 +200,7 @@ Lanugage分析
   - ["Table Cell Search for Question Answering"](https://dl.acm.org/citation.cfm?id=2883080), Sun, Huan and Ma, Hao and He, Xiaodong and Yih, Wen-tau and Su, Yu and Yan, Xifeng, WWW, 2016.
 - 2015
   - ["WIKIQA: A Challenge Dataset for Open-Domain Question Answering"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/YangYihMeek_EMNLP-15_WikiQA.pdf)，Yi Yang，Wen-tau Yih和Christopher Meek，EMNLP，2015.
-  - ["Web-based Question Answering: Revisiting AskMSR"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/AskMSRPlusTR_082815.pdf)，Chen-Tse Tsai，Wen-tau Yih和Christopher JC Burges，MSR-TR，2015.
+  - ["Web-based Question Answering: Revisiting AskMSR"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/AskMSRPlusTR_082815.pdf)，Chen-Chang Tsai，Wen-tau Yih和Christopher JC Burges，MSR-TR，2015.
   - ["Open Domain Question Answering via Semantic Enrichment"](https://dl.acm.org/citation.cfm?id=2741651), Huan Sun, Hao Ma, Wen-tau Yih, Chen-Tse Tsai, Jingjing Liu, and Ming-Wei Chang, WWW, 2015.
 - 2014
   - ["An Overview of Microsoft Deep QA System on Stanford WebQuestions Benchmark"](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/Microsoft20Deep20QA.pdf), Zhenghao Wang, Shengquan Yan, Huaming Wang, and Xuedong Huang, MSR-TR, 2014.
@@ -213,7 +214,7 @@ Lanugage分析
     - ["Building Large Machine Reading-Comprehension Datasets using Paragraph Vectors"](https://arxiv.org/pdf/1612.04342.pdf)，Radu Soricut和Nan Ding，2018.
   - 句子代表
     - ["An efficient framework for learning sentence representations"](https://arxiv.org/pdf/1803.02893.pdf)，Lajanugen Logeswaran，Honglak Lee，ICLR，2018.
-  - ["Did the model understand the question?"](https://arxiv.org/pdf/1805.05492.pdf)，Pramod K. Mudrakarta和Ankur Taly和Mukund Sundararajan以及K​​edar Dhhamdhere，ACL，2018年.
+  - ["Did the model understand the question?"](https://arxiv.org/pdf/1805.05492.pdf)，Pramod K. Mudrakarta和Ankur Taly和Mukund Sundararajan以及K​​edar Dhamdhere，ACL，2018年.
 - 2017
   - ["Analyzing Language Learned by an Active Question Answering Agent"](https://arxiv.org/pdf/1801.07537.pdf)，Christian Buck和Jannis Bulian以及Massimiliano Ciaramita和Wojciech Gajewski以及Andrea Gesmundo和Neil Houlsby以及Wei Wang，NIPS，2017.
   - ["Learning Recurrent Span Representations for Extractive Question Answering"](https://arxiv.org/pdf/1611.01436.pdf)，Kenton Lee和Shimi Salant以及Tom Kwiatkowski和Ankur Parikh以及Dipanjan Das和Jonathan Berant，ICLR，2017年.

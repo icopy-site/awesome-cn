@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ramitsurana/awesome-kubernetes"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Awesome-Kubernetes
 =======================================================================
 
@@ -104,7 +105,7 @@ Installers
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) - 在Windows PC上运行Kubernetes和Docker（Edge Channel）
 * [Juju](https://jujucharms.com/canonical-kubernetes) -  Ubuntu  -  Cloud Agnostic
 * [k3s](https://github.com/rancher/k3s)   - 轻量级Kubernetes.  易于安装，内存的一半，所有二进制文件都小于40mb
-* [kind](https://kind.sigs.k8s.io) - 使用Docker容器“节点”运行本地Kubernetes集群的工具
+* [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
 * [Kops](https://github.com/kubernetes/kops) - 不可知操作系统 -  AWS
 * [Kube-ansible](https://github.com/kairen/kube-ansible) - 不可知的骨头 - 不可知云
 * [Kube-aws](https://github.com/coreos/kube-aws) -  CoreOS  -  AWS
@@ -305,7 +306,7 @@ Installers
    - [Alibaba Cloud](https://www.alibabacloud.com/product/kubernetes) -  Kubernetes的阿里巴巴云容器服务
    - [AWS EKS](https://aws.amazon.com/eks/) - 亚马逊弹性容器服务
    - [Azure AKS](https://docs.microsoft.com/en-us/azure/aks/) -  Azure Kubernetes服务
-   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) - DigitalOcean Kubernetes
+   - [DigitalOcean](https://www.digitalocean.com/products/kubernetes/) -  DigitalOcean Kubernetes
    - [GKE](https://cloud.google.com/container-engine/) -  Google Kubernetes Engine
    - [IKS](https://www.ibm.com/cloud/container-service) -  IBM Cloud Kubernetes服务
    - [OKE](https://cloud.oracle.com/containers/kubernetes-engine) -  Oracle Kubernetes Engine
@@ -527,7 +528,7 @@ Projects
 
 ## Continuous Delivery
 
-*Build-test-deploy automated workflow software designed to make production environments more stable and life better for engineers*
+* Build-test-deploy自动化工作流程软件，旨在使工程师的生产环境更加稳定，生活更美好*
 
 * [Jenkins](https://jenkins.io)
    * [Jenkins-Kubernetes Plugin](https://github.com/jenkinsci/kubernetes-plugin) 通过 [Carlos Sanchez](https://www.twitter.com/csanchez)
@@ -568,7 +569,7 @@ Projects
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [OpenWhisk](https://github.com/openwhisk)
-* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - 允许节点由其他服务和提供商支持.
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
 
 ## Operators
 
@@ -721,7 +722,7 @@ Projects
 * [kubectld](https://github.com/rancher/kubectld)
 * [kubectx](https://github.com/ahmetb/kubectx) - 在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-* [kubens](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
+* [kubens](https://github.com/ahmetb/kubectx) - 在kubectl上的命名空间之间切换
 * [kubensx](https://github.com/shyiko/kubensx) -  Kubernetes的简单群集/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - 解决kubectl
@@ -893,7 +894,7 @@ Books
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
-* [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier
+* [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修帕尔默
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书）由Leverege Developers提供
 * [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito，Hui-Chuan Chloe Lee，Ke-Jou Carol Hsu

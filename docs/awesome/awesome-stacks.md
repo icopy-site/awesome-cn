@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stackshareio/awesome-stacks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 <a href="https://awesomestacks.dev/"><img alt="Pink sunglasses with text Awesome Stacks" width="680px" src="https://raw.githubusercontent.com/stackshareio/awesome-stacks/master/src/images/awesome-stacks-logo-github.png"></a>
 <br><br>
@@ -171,7 +172,7 @@ Firebase的React Starter Kit是一个流行的项目模板（又名样板，用�
 
 - [Algolia](https://algolia.com/) - [🛠](https://stackshare.io/algolia) - 托管搜索API，最多可免费提供10,000条记录.
 - [DocSearch](https://community.algolia.com/docsearch) - [🐙](https://github.com/algolia/docsearch-scraper) - 抓取网站并将其上传到索引.
-- [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙](https://github.com/algolia/gatsby-plugin-algolia) - Use GraphQL to specify Gatsby object to index with Algolia (beta).
+- [gatsby-plugin-algolia](https://www.gatsbyjs.org/packages/gatsby-plugin-algolia/) - [🐙](https://github.com/algolia/gatsby-plugin-algolia) - 使用GraphQL指定Gatsby对象与Algolia（beta）进行索引.
 - [hugo-algolia](https://github.com/replicatedhq/hugo-algolia) - [🐙](https://github.com/replicatedhq/hugo-algolia) - 从Hugo静态站点生成并发送索引，以便与Algolia一起使用.
 - [instantsearch.js](https://www.algolia.com/doc/guides/building-search-ui/what-is-instantsearch/js/) - [🐙](https://github.com/algolia/instantsearch.js) - 用于构建高性能和即时搜索体验的JavaScript库.
 
@@ -199,7 +200,7 @@ Firebase的React Starter Kit是一个流行的项目模板（又名样板，用�
 - [Rails](https://rubyonrails.org/) - [🛠](https://stackshare.io/rails) - [🐙](https://github.com/rails/rails) - 一个成熟的Web应用程序框架，侧重于简单性和生产力.
 - [React](https://reactjs.org/) - [🛠](https://stackshare.io/react) - [🐙](https://github.com/facebook/react) - 可以在客户端和服务器端使用React组件.
 - [GraphQL Ruby](https://graphql-ruby.org/) - [🛠](https://stackshare.io/graphql-ruby) - [🐙](https://github.com/rmosolgo/graphql-ruby) -  GraphQL规范的Ruby服务器实现.
-- [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) - A powerfully extensible GraphQL JavaScript client.
+- [Apollo Client](https://dev.apollodata.com/) - [🛠](https://stackshare.io/apollo) - [🐙](https://github.com/apollographql/apollo-client) - 强大的可扩展GraphQL JavaScript客户端.
 - [Heroku](https://heroku.com) - [🛠️](https://stackshare.io/heroku) 开发人员友好的Web应用程序基础架构提供程
 
 ##### Resources
@@ -215,7 +216,7 @@ Firebase的React Starter Kit是一个流行的项目模板（又名样板，用�
 - [DynamoDB](http://aws.amazon.com/dynamodb/) - [🛠️](https://stackshare.io/amazon-dynamodb) - 完全托管的NoSQL数据库服务.
 - [Amazon Cognito](https://aws.amazon.com/cognito/) - [🛠️](https://stackshare.io/amazon-cognito) - 通过移动设备安全地管理和同步用户的应用数据.
 - [Amazon S3](https://aws.amazon.com/s3/) - [🛠️](https://stackshare.io/amazon-s3) - 随时随地在网络上存储和检索任何数量的数据.
-- [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - 带有React，React Native Extensions的JavaScript开源库.
+- [AWS Amplify](https://aws-amplify.github.io/) - [🛠️](https://stackshare.io/aws-amplify) - JavaScript Open Source Library with React, React Native Extensions.
 - [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - [🛠️](https://stackshare.io/amazon-cloudfront) - 具有低延迟和高数据传输速度的内容交付.
 - [Create React App](https://facebook.github.io/create-react-app/) - [🛠](https://stackshare.io/create-react-app) - [🐙](https://github.com/facebook/create-react-app) - 通过运行一个命令设置现代Web应用程序.
 
@@ -326,7 +327,7 @@ Stack用于使用Google Cloud服务部署和管理Docker容器化应用程序集
 
 Kafka-Spark-Cassandra管道用于处理传入事件的消防.
 
-- [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙](https://github.com/apache/kafka) - 分布式，容错，高吞吐量的pub-sub消息系统.
+- [Kafka](http://kafka.apache.org/) - [🛠](https://stackshare.io/kafka) - [🐙](https://github.com/apache/kafka) - Distributed, fault tolerant, high throughput pub-sub messaging system.
 - [Apache Spark](https://spark.apache.org) - [🛠](https://stackshare.io/spark) - [🐙](https://github.com/apache/spark) - 用于大规模数据处理的快速通用引擎.
 - [Cassandra](http://cassandra.apache.org) - [🛠](https://stackshare.io/cassandra) - [🐙](https://github.com/apache/cassandra) - 高度可扩展的分区行存储.
 

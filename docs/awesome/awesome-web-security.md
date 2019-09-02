@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="qazbnm456/awesome-web-security"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70">](https://www.w3.org/TR/html5/)
@@ -403,7 +404,7 @@
 <a name="tools-command-injection"></a>
 ### Command Injection
 
-- [commix](https://github.com/commixproject/commix) - Automated All-in-One OS command injection and exploitation tool by [@commixproject](https://github.com/commixproject).
+- [commix](https://github.com/commixproject/commix) - 自动化一体化操作系统命令注入和利用工具 [@commixproject](https://github.com/commixproject).
 
 <a name="tools-reconnaissance"></a>
 ### Reconnaissance
@@ -455,7 +456,7 @@
 
 - [wfuzz](https://github.com/xmendez/wfuzz) -  Web应用程序bruteforcer by [@xmendez](https://github.com/xmendez).
 - [charsetinspect](https://github.com/hack-all-the-things/charsetinspect) - 检查多字节字符集的脚本，用于查找具有特定用户定义属性的字符 [@hack-all-the-things](https://github.com/hack-all-the-things).
-- [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator) - 将IP转换为DWORD IP的简单工具 [@OsandaMalith](https://github.com/OsandaMalith).
+- [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator) - Simple tool to convert the IP to a DWORD IP by [@OsandaMalith](https://github.com/OsandaMalith).
 - [domato](https://github.com/google/domato) -  DOM模糊器 [@google](https://github.com/google).
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - 用于黑盒应用程序故障注入和资源发现的攻击模式和基元的字典.
 - [dirhunt](https://github.com/Nekmo/dirhunt) - 优化的Web爬虫，用于搜索和分析站点的目录结构 [@nekmo](https://github.com/Nekmo).

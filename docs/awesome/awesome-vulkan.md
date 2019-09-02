@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="vinjn/awesome-vulkan"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
@@ -120,7 +121,7 @@
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
     *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
-*  [nvpro-samples](https://github.com/nvpro-samples) -  NVIDIA DesignWorks样片. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
+*  [nvpro-samples](https://github.com/nvpro-samples) - NVIDIA DesignWorks Samples. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
     *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) - 简单的vulkan渲染示例.
     *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) -  OpenGL和Vulkan比较使用ve技术和渲染CAD场景 [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) 关于它.
     *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - 使用&#39;工作线程&#39;渲染3D的Vulkan示例.
@@ -149,7 +150,7 @@ drm/kms.
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid)   - 高速C ++ 17 Vulkan游戏引擎.  [MIT]
 *  [bgfx](https://github.com/bkaradzic/bgfx#bgfx---cross-platform-rendering-library) - 跨平台，图形API不可知，“自带引擎/框架”样式渲染库. [[BSD-2-clause](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
-*  [bsf](https://github.com/GameFoundry/bsf) - Modern C++14 library for the development of real-time graphical applications. [MIT]
+*  [bsf](https://github.com/GameFoundry/bsf)   - 用于开发实时图形应用程序的Modern C ++ 14库.  [MIT]
 *  [Cinder](https://github.com/cinder/Cinder) 和 [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007) ，  [BSD]
 *  [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)   - 一个支持OpenGL / GLES，Direct3D11 / 12和Vulkan的现代跨平台低级图形库.  [Apache许可证2.0]
 *  [SDL](https://discourse.libsdl.org/t/sdl-2-0-6-released/23109)   - 在SDL_vulkan.h中添加了跨平台的Vulkan图形支持.  [ZLIB]

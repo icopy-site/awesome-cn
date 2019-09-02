@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="web-padawan/awesome-lit-html"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome lit-html [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;精选的lit-html资源的精选列表.
@@ -125,7 +126,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-与lit-html创作者Justin Fagnani合作的一集.
+An episode with the lit-html creator Justin Fagnani.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -  Justin Fagnani作为嘉宾的另一集.
 
 ## Blogs

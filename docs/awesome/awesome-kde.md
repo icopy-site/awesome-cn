@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="francoism90/awesome-kde"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome KDE [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/francoism90/awesome-kde/master/media/logo-kde-grey.svg?sanitize=true" align="right" width="144">](http://www.kde.org)
@@ -36,7 +37,7 @@
 
 - [Gwenview](https://www.kde.org/applications/graphics/gwenview/) -  KDE快速且易于使用的图像查看器.
 - [Okular](https://www.kde.org/applications/graphics/okular/) - 通用文档查看器.
-- [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - An application for capturing desktop screenshots 📌.
+- [Spectacle](https://www.kde.org/applications/graphics/spectacle/) - 捕获桌面屏幕截图的应用程序.
 - [KolourPaint](https://www.kde.org/applications/graphics/kolourpaint/)   - 一个简单的绘画程序，可以快速创建光栅图像.  它可用作修饰工具和简单的图像编辑任务.
 - [Krita](https://www.kde.org/applications/graphics/krita/) - 为概念艺术家，插图画家，遮罩和纹理艺术家以及VFX行业设计的绘画工具.
 - [digiKam](https://www.digikam.org/) - 具有开源功能的专业照片管理.
@@ -85,7 +86,7 @@
 - [KTurtle](https://www.kde.org/applications/education/kturtle/) - 教育编程环境，旨在使学习如何尽可能简单地编程.
 - [Qt Designer](http://doc.qt.io/qt-5/qtdesigner-manual.html) - 使用Qt Widgets设计和构建图形用户界面（GUI）的Qt工具.
 - [Umbrello](https://umbrello.kde.org/) -  UML Modeller是一个基于KDE技术的统一建模语言（UML）图程序.
-- [Okteta](https://www.kde.org/applications/utilities/okteta/) -  Hex Editor.
+- [Okteta](https://www.kde.org/applications/utilities/okteta/) - Hex Editor 📌.
 
 ## Customization
 
@@ -131,8 +132,8 @@
 ## Documentation
 
 - [KDE Wikis](https://wiki.kde.org/) -  KDE wiki是KDE桌面，应用程序，团队，活动等的信息和文档的来源.
-- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) -  Arch Linux KDE Wiki.
-- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) -  Gentoo KDE Wiki.
+- [ArchWiki](https://wiki.archlinux.org/index.php/KDE) -  Arch Linux KDE Wiki
+- [Gentoo Wiki](https://wiki.gentoo.org/wiki/KDE) -  Gentoo KDE Wiki
 
 ## Articles
 
@@ -145,7 +146,7 @@
 
 ## Communities
 
-- [Kreddit](https://www.reddit.com/r/kde/) -  Reddit上的KDE社区.
+- [Kreddit](https://www.reddit.com/r/kde/) Reddit上的KDE社区.
 - [KDE Store](https://store.kde.org/) - 官方KDE商店，供开发人员共享等离子定制.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/kde) - 用“kde”标记的问题.
 

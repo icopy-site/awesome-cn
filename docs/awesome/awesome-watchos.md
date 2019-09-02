@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="yenchenlin/awesome-watchos"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/yenchenlin1994/awesome-watchos/master/resources/title.png" width="500">
 =========================
 
@@ -143,7 +144,7 @@
 * [WatchKit Resources](https://twitter.com/WatchKitSources)
 
 ## Other Awesome Lists
-其他令人惊讶的精彩列表可以在
+其他惊人的令人敬畏的名单可以在
  * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
  * [Open Source apps](https://github.com/dkhamsing/open-source-ios-apps) 开源ios应用程序列表
  *太棒了

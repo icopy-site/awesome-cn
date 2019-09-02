@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stefanbuck/awesome-browser-extensions-for-github"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 GitHub的精彩浏览器扩展的精选列表.
@@ -89,7 +90,7 @@ Octohint为GitHub添加了IntelliSense提示功能.
 </details>
 
 
-轻松浏览已在GitHub上编辑的文件中的更改.
+Easily navigate through the changes in a file that has been edited on GitHub.
 
 <details><summary>Screenshots</summary>
 
@@ -157,7 +158,7 @@ OctoEdit是一个浏览器扩展，它为GitHub中的注释编辑区域添加了
 为GitHub添加各种有用的功能：
 
 1.单击文件图标下载任何文件.
-2. Show tooltip of your unread notifications.
+2.显示未读通知的工具提示.
 3.显示回购大小.
 4.如果有GitHub页面，则显示“GH页面”链接按钮.
 5.在2/4/8空格之间自定义选项卡大小.

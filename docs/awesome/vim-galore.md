@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mhinz/vim-galore"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align='center'>
   <br /><br /><br />
   <img src='https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/logo-vim-galore.png' alt='vim-galore logo' />
@@ -306,7 +307,7 @@ exclusively.
  |  `：xmap` |  `：xnoremap` |  `：xunmap` |  视觉|
  |  `：cmap` |  `：cnoremap` |  `：cunmap` |  命令行|
  |  `：omap` |  `：onoremap` |  `：ounmap` |  operator-pending |
- |  `：imap` |  `：inoremap` |  `：iunmap` |  插入|
+ |  `：imap` |  `：定理``  `：iunmap` |  插入|
 
 例如，这仅定义了正常模式的映射：
 
@@ -361,7 +362,7 @@ Help:
 
     ：h键符号
     ：h映射
-    :h 05.3
+    ：h 05.3
 
 ## Mapleader
 
@@ -425,7 +426,7 @@ Vim提供以下寄存器：
 用`y`猛拉并用&#39;p` /`P`粘贴，但请记住Vim区分
  字符和线性视觉选择.  见`：h linewise`.
 
-**Example: linewise**
+**示例：linewise **
 
 `yy`（或只是&#39;Y`）猛拉当前行，将光标移动到其他地方，使用
 `p`粘贴在当前行&#39;P`下面以粘贴它.
@@ -462,7 +463,7 @@ Vim提供以下寄存器：
 范围的使用非常直观，所以这里有一些例子（使用`：d`
 作为`：delete`的缩写形式：
 
- |  命令|  行作用于|
+| Command | Lines acted on |
 |---------|----------------|
  |  `：d` |  当前行.  |
  |  `：.d` |  当前行.  |
@@ -522,7 +523,7 @@ Help:
  |  标记|  设置为.. |  用法|
 |-------|----------|-------|
  |  `a`  - `z` |  用户|  本地到文件，因此仅在一个文件中有效.  跳到小写标记，表示在当前文件中跳转.  |
- |  `A`  - `Z` |  用户|  全局，因此在文件之间有效.  也称为_file marks_.  跳转到文件标记可能会切换到另一个缓冲区.  |
+| `A` - `Z` | User | Global, thus valid between files. Also called _file marks_. Jumping to a file mark may switch to another buffer. |
  |  `0`  - `9` |  viminfo |  `0`是最后写入viminfo文件时的位置.  实际上，这意味着最后一个Vim进程结束.  `1`是第二个最后一个Vim进程结束时的位置，依此类推.  |
 
 在标记前放置```/`g&#39;`或``````````````````````
@@ -533,7 +534,7 @@ Help:
 文件，请参阅`：h viminfo-&#39;`.
 
  使用`mM`记住文件标记为“M”的当前位置.  切换到另一个
-buffer and switch back via `'M` or `` `M ``.
+缓冲并通过&#39;&#39;M`或```M``切换回来.
 
 其他动议包括：
 
@@ -625,7 +626,7 @@ Help:
 操作员只需对选择进行操作，例如`Vjd`.
 
 像运动一样，操作员需要计算，例如`2gUw`来计算当前的其余部分
- 单词和下一个大写.  由于运动和操作员需要计数，
+word and the next one uppercase. Since motions and operators take counts,
 `2gU2w`同样适用并执行两次`gU2w`.
 
  对于所有可用的运算符，请参见`：h operator`.  使用`：set tildeop`来制作`~`
@@ -714,7 +715,7 @@ customization.
 `％`，`（`，`）`，`[[`，`]]`，`{`，`}`，`：s`，`：tag`，`L`，`M`，`H `和命令
 开始编辑新文件.
 
-| List       | List all entries | Go to older position | Go to newer position |
+ |  清单|  列出所有条目|  去旧位置|  转到更新的位置|
 |------------|------------------|----------------------|----------------------|
  |  跳转列表|  `：跳跃`|  `[COUNT] <c-o>  `|  `[COUNT] <c-i>  `|
  |  变更清单|  `：更改`|  `[count] g;`|  `[count] g，`|
@@ -809,7 +810,7 @@ Help:
 
  quickfix列表是保存文件位置的数据结构.  实质上，
 quickfix列表中的每个条目都包含文件路径，行号和
-optional column, and a description.
+可选列和说明.
 
 典型的用例是汇编编译器错误或grep工具的结果.
 
@@ -1006,7 +1007,7 @@ Help:
 制作当前Vim实例的快照并将其保存在会话文件中.
  让我强调一下：它保存了现状;  保存后完成的一切
  session不会成为会话文件的一部分.  要“更新”会话，只需写入
-它再次出来.
+it out again.
 
 这使它非常适合保存_projects_并且易于切换
 them.
@@ -1045,7 +1046,7 @@ Help:
  |  `：set` |  `：setlocal` |  缓冲区或窗口|  `：h local-options` |
  |  `：map` |  `：地图 <buffer>  `|  缓冲区|  `：h：map-local` |
  |  `：autocmd` |  `：autocmd * <buffer>  `|  缓冲区|  `：h autocmd-buflocal` |
- |  `：cd` |  `：lcd` |  窗口|  `：h：lcd` |
+| `:cd`      | `:lcd`                | window           | `:h :lcd`             |
  |  ` <leader>  `|  ` <localleader>  `|  缓冲区|  `：h maplocalleader` |
 
 [Variables also have different scopes](https://vimhelp.appspot.com/usr_41.txt.html#41.2).
@@ -1151,12 +1152,12 @@ something).
 8.命令定义在`：h command- *`中讨论，所以使用：h command-bar
     找出&#39;！&#39;  自定义命令的参数.
 
-9.窗口管理命令总是以CTRL-W开头，所以你找到了
+9. Window management commands always start with CTRL-W, so you find the
    在`：h CTRL-W_ *`的相应帮助（例如`：h CTRL-W_p`用于切换到
     以前访问过的窗口）.  您也可以访问`：h windows.txt`并阅读
    如果你正在寻找窗口处理命令，你的方式通过.
 
-10. Ex commands always start with ":", so `:h :s` covers the ":s" command.
+10. Ex命令总是以“：”开头，所以`：h：s`覆盖“：s”命令.
 
 11.键入主题后使用CTRL-D，让Vim尝试完成所有可用的操作
     话题.
@@ -1195,7 +1196,7 @@ something).
 
  21.可以直接在帮助中查找错误代码.  `：h E297`带你
      完全符合错误消息的描述.  然而，有时那些
-    错误代码没有描述，而是列在Vim命令中
+    error codes are not described, but rather are listed at the Vim command that
      通常会导致这一点  例如`：h hE128`直接带你到`：function`
     命令.
 
@@ -1374,7 +1375,7 @@ CLIPBOARD.
 计划A： <ctrl+c>
 程序A：断言CLIPBOARD的所有权
 方案B： <ctrl+v>
-Program B: note that ownership of CLIPBOARD is hold by Program A
+计划B：注意CLIPBOARD的所有权由计划A持有
 程序B：从程序A请求数据
 程序A：响应请求并将数据发送到程序B.
 程序B：从程序A接收数据并将其插入窗口
@@ -1390,7 +1391,7 @@ Program B: note that ownership of CLIPBOARD is hold by Program A
 closes.
 
 使用`“* p`粘贴PRIMARY选择或`”+ y1G`将整个文件拉到
-the CLIPBOARD selection.
+CLIPBOARD选择.
 
 如果您碰巧一直访问两个寄存器中的一个，请考虑使用：
 
@@ -1423,7 +1424,7 @@ Help:
 autocmd BufReadPost *
     \ if line（“&#39;\”“）&gt; 1 &amp;&amp; line（”&#39;\“”）&lt;= line（“$”）|
     \执行“normal！g` \”“|
-    \ ENDIF
+    \ endif
 ```
 
 读：如果标记“”包含的行号大于第1行但不大于行1
@@ -1445,7 +1446,7 @@ autocmd BufReadPost *
 由您来决定这是否有用.
 
 您可以使用`：set nobackup nowritebackup`完全禁用备份，但是您
-shouldn't need to nowadays. `'writebackup'` is a security feature that makes
+ 现在不应该这样.  `&#39;writebackup&#39;`是一个安全功能
 确保你没有丢失原始文件，以防它保存失败，
 无论你是否保留备份文件.
 
@@ -1464,7 +1465,7 @@ Vim知道创建备份的不同方法：_copying_和_renaming_.
     1. Vim缓冲区的内容被写入名为的新文件
     原始文件.
 
-有关所有细节的详细信息，请参阅`：h&#39;backupcopy&#39;.
+See `:h 'backupcopy'` for all the nitty-gritty details.
 
 ---
 
@@ -1499,7 +1500,7 @@ $ diff -u / tmp / foo-backup / tmp / foo
 
 编辑文件时，未保存的更改将写入交换文件.
 
- 使用`：swapname`获取当前交换文件的名称.  用`：set禁用它们
+Get the name of the current swap file with `:swapname`. Disable them with `:set
 noswapfile`.
 
 交换文件会更新所有200个字符或未输入任何内容
@@ -1560,7 +1561,7 @@ set directory = $ HOME / .vim / files / swap //
 设置updatecount = 100
 “撤消文件
 设置undofile
-set undodir = $ HOME / .vim / files / undo /
+set undodir     =$HOME/.vim/files/undo/
 “viminfo文件
 set viminfo =&#39;100，n $ HOME / .vim / files / info / viminfo
 ```
@@ -1631,7 +1632,7 @@ Real插件管理器公开可帮助您安装和更新插件的命令
  所以一个简单的例子就是` <c-v>  3jItext <esc>  `.
 
 如果您有不同长度的行并且想要向右追加相同的文本
-after the end of each line, do this: `<c-v>3j$Atext<esc>`.
+ 在每一行结束后，执行以下操作：` <c-v>  3J $ Atext <esc>  `.
 
 有时您需要在当前结束后将光标放在某处
  线.  默认情况下你不能这样做，但你可以设置`virtualedit`选项：
@@ -1706,7 +1707,7 @@ Go的插件经常提供称为`：Fmt`的辅助命令
 - 这个全球符号的定义是什么？
 - 这个变量在哪里得到它的价值？
 - 源文件中的这个功能在哪里？
-- What functions call this function?
+- 什么函数调用此函数？
 - 此功能调用哪些功能？
 - “空间不足”的信息来自哪里？
 - 目录结构中的源文件在哪里？
@@ -1869,7 +1870,7 @@ set-option -ga terminal-overrides&#39;，xterm-256color：Tc&#39;
 - 对于大多数人来说，第一行应该是相同的，并表示`$ TERM`
   使用_within_ tmux.
 - 第二行将tmux特定的`Tc`（真彩色）功能添加到
-   `xterm-256color`的其他terminfo条目.  显然这是假设
+  other terminfo entries of `xterm-256color`. Obviously this assumes that the
   用户正在使用tmux的`TERM = xterm-256color` _outside_.
 
 所以，这是启用真彩色的清单：
@@ -1879,7 +1880,7 @@ set-option -ga terminal-overrides&#39;，xterm-256color：Tc&#39;
   - 确保您的colorscheme具有GUI的颜色定义.  （它应该包含
   带有&#39;guifg`和`guibg`的行.）
 - 确保您选择的终端仿真器支持真彩色.
-  - 使用tmux？  配置它以添加`Tc`功能.
+- Using tmux? Configure it to add the `Tc` capability.
 
 终端中颜色的流行参考：
 https://gist.github.com/XVilka/8346728
@@ -1978,7 +1979,7 @@ See [Vim Wiki: Disable beeping](http://vim.wikia.com/wiki/Disable_beeping).
 ## Quickly edit your macros
 
  这是一个真正的宝石！  映射采用寄存器（或默认为“*”）并打开
-it in the cmdline-window. Hit `<cr>` when you're done editing for setting the
+ 它在cmdline窗口中.  点击` <cr>  `当你完成编辑设置时
 register.
 
 我经常使用它来纠正我在录制宏时所犯的错别字.
@@ -2195,7 +2196,7 @@ Help:
 
 ## General tips
 
-如果您遇到奇怪的行为，请尝试像这样重现：
+If you encounter a strange behaviour, try reproducing it like this:
 
 ```
 vim -u NONE -N
@@ -2295,7 +2296,7 @@ Vim提供了在运行时进行性能分析的内置功能，是一种很好的�
 `：profile`命令需要一堆子命令来指定内容
 profile.
 
-If you want to profile _everything_, do this:
+如果您想要分析_everything_，请执行以下操作：
 
 ```
 ：profile start /tmp/profile.log
@@ -2305,7 +2306,7 @@ If you want to profile _everything_, do this:
 <quit Vim>
 ```
 
-Vim keeps the profiling information in memory and only writes it out to the
+Vim将分析信息保存在内存中，只将其写入内存
  退出时的日志文件.  （Neovim使用`：profile dump`修复了此问题）.
 
  看看`/ tmp / profile.log`.  分析期间执行的所有代码
@@ -2376,7 +2377,7 @@ familiar.
 在编译中，Vim提供了超级有用的`：syntime`命令.
 
 ```vim
-：罪是
+：syntime是
  “打了 <c-l>  几次重绘窗口，导致语法规则再次应用
 ：syntime off
 ：syntime报告
@@ -2449,7 +2450,7 @@ latter.
  |  getscript |  `let g：loaded_getscriptPlugin = 1` |  `：h pi_getscript` |
  |  gzip |  `let g：loaded_gzip = 1` |  `：h pi_gzip` |
  |  logipat |  `let g：loaded_logipat = 1` |  `：h pi_logipat` |
- |  匹配对|  `let g：loaded_match pairs = 1` |  `：h pi_paren` |
+ |  配对|  `let g：loaded_matchparen = 1` |  `：h pi_paren` |
  |  netrw |  `let g：loaded_netrwPlugin = 1` |  `：h pi_netrw` |
  |  rrhelper |  `let g：loaded_rrhelper = 1` |  `：e $ VIMRUNTIME / plugin / rrhelper.vim` |
  |  拼写文件|  `let g：loaded_spellfile_plugin = 1` |  `：h spellfile.vim` |
@@ -2544,8 +2545,8 @@ When [Bill Joy](https://en.wikipedia.org/wiki/Bill_Joy) 创建
  |  典型的罪魁祸首|  为什么？  |  解？  |
 |-----------------|------|-----------|
  |  `：设置cursorlines` |  导致所有行重绘.  |  `：设置nocursorline` |
- |  `：set cursorcolumn` |  导致所有行重绘.  |  `：设置nocursorcolumn` |
- |  `：设置relativenumber` |  导致所有行重绘.  |  `：设置norelativenumber` |
+| `:set cursorcolumn`      | Causes all lines to redraw. | `:set nocursorcolumn` |
+| `:set relativenumber`    | Causes all lines to redraw. | `:set norelativenumber` |
  |  `：设置foldmethod = syntax` |  如果语法文件已经很慢，这会使情况变得更糟.  |  `：set foldmethod = manual`，`：set foldmethod = marker`或 [FastFold](https://github.com/Konfekt/FastFold) |
  |  `：设置synmaxcol = 3000` |  由于内部表示，Vim一般存在长线问题.  列到列3000之前的列.|  `：设置synmaxcol = 200` |
  |  matchparen.vim |  默认加载.  使用正则表达式查找附带的括号.  |  禁用插件：`：h matchparen` |
@@ -2587,7 +2588,7 @@ $ vim -n -u NONE -i NONE -N
 up?
 
 只有通过`cmd + v`，`shift-insert`，`middle-click`等粘贴时才会发生这种情况.
- 因为那时你只是在终端模拟器上抛出文本.  Vim没有
+because then you're just throwing text at the terminal emulator. Vim doesn't
 知道你刚刚粘贴了文本，它认为你是一个非常快速的打字员.
 因此，它试图缩进行并失败.
 
@@ -2601,7 +2602,7 @@ up?
 为你做的插件：
 [bracketed-paste](https://github.com/ConradIrwin/vim-bracketed-paste).
 
-Additional read from the same author as the plugin:
+与插件相同的其他读物：
 [here](http://cirw.in/blog/bracketed-paste).
 
 ** Neovim **：Neovim试图让所有这些更加无缝和集合
@@ -2626,7 +2627,7 @@ database.
 当映射之间存在歧义时发生：
 
 ```vim
-：nnoremap，a：echo&#39;foo&#39; <cr>
+:nnoremap ,a  :echo 'foo'<cr>
 ：nnoremap，ab：echo&#39;bar&#39; <cr>
 ```
 
@@ -2696,7 +2697,7 @@ it.
 
 ## Vim script? Vimscript? VimL?
 
-`Vim script`, `Vimscript`, and `VimL` all refer to the same thing: The
+`Vim script`，`Vimscript`和`VimL`都指的是同一个东西：The
  用于编写Vim脚本的编程语言.  即使
 [8.0.360](https://github.com/vim/vim/commit/b544f3c81f1e6a50322855681ac266ffaa8e313c)
 将所有对“VimL”的引用更改为“Vim脚本”，现在可以考虑了

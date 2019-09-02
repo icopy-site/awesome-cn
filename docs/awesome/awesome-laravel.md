@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="chiraggude/awesome-laravel"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 &gt; Laravel生态系统中精选的书签，包，教程，视频和其他很酷的资源的精选列表.
@@ -52,7 +53,7 @@
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - 用于集成Nette Tracy Debugger的Laravel软件包
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - 在网络浏览器中运行工匠
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - 与Laravel路线一样的邮差工具
-* [Laravel Tail](https://github.com/spatie/laravel-tail) - The missing tail command
+* [Laravel Tail](https://github.com/spatie/laravel-tail) - 缺少尾部命令
 * [Larvel Telescope](https://github.com/laravel/telescope) -  Laravel Telescope是Laravel框架的优雅调试助手
 
 ##### Authentication & Authorization
@@ -143,7 +144,7 @@
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - 使用验证规则，消息，FormRequest和验证器来验证客户端的表单
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) -  Pjax中间件
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - 用于将变量导出到JavaScript的Blade指令
-* [Ziggy](https://github.com/tightenco/ziggy) - 在JavaScript中使用Laravel命名路由
+* [Ziggy](https://github.com/tightenco/ziggy) - Use your Laravel named routes in JavaScript
 
 ##### Databases, ORMs, Migrations & Seeding
 
@@ -226,9 +227,9 @@
 ##### Third-party Service Integration
 
 * [Laravel Analytics](https://github.com/spatie/laravel-analytics) - 从Google Analytics中检索综合浏览量和其他数据
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) -  DigitalOceanV2桥
+* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) - DigitalOceanV2 bridge
 * [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) -  PHP GitHub API桥
-* [Laravel Instagram](https://github.com/vinkla/laravel-instagram) -  Instagram API桥
+* [Laravel Instagram](https://github.com/vinkla/laravel-instagram) -  Instagram桥API
 * [Laravel Newsletter](https://github.com/spatie/laravel-newsletter) - 使用Mailchimp发送简报
 * [Laravel Pusher](https://github.com/vinkla/laravel-pusher) -  Pusher API桥
 
@@ -242,7 +243,7 @@
 * [Laragon](https://laragon.org/) -  Windows上的独立开发环境
 * [Stacker](https://github.com/Maxlab/stacker) -  Docker上本地Web开发的环境
 * [Devilbox](https://github.com/cytopia/devilbox) - 适用于每个PHP版本的dockerized和通用LAMP / MEAN堆栈
-* [Vessel](https://vessel.shippingdocker.com) - Simple Docker development environments for Laravel.
+* [Vessel](https://vessel.shippingdocker.com) -  Laravel的简单Docker开发环境.
 
 ## Application Hosting
 

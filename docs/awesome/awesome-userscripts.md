@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="brunocvcunha/awesome-userscripts"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 Awesome Userscripts的精选列表.
 
-用户脚本可以改善您的浏览体验，并通过添加功能，使其更易于使用或消除令人讨厌的位来开辟更多可能性，从而使您访问的网站更加完美.
+用户脚本可以改善您的浏览体验，并通过添加功能，使其更易于使用或消除烦人的位，开辟了更多可能性，使您访问的网站更好.
 
 
 

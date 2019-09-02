@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="TalAter/awesome-progressive-web-apps"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Progressive Web Apps资源集合.
@@ -100,7 +101,7 @@
 
 ## Awesome Performance
 
-- [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/) -  Google的绩效学习门户网站，包含有关优化您的网络应用程序以获得性能的丰富知识.
+- [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/) -  Google的绩效学习门户网站，其中包含有关优化网络应用程序以获得性能的丰富知识.
 - [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/) -  Gang of Pauls对RAIL的开创性介绍.
 - [Website Performance Optimization](https://udacity.com/ud884) - 关于优化网站速度的免费Udacity课程.
 - [Browser Rendering Optimization](https://udacity.com/ud860) - 免费的Udacity课程，帮助您创建保持无抖动60fps性能的Web应用程序.

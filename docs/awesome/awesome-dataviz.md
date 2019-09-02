@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fasouto/awesome-dataviz"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome dataviz 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
@@ -16,7 +17,7 @@
 - [dc.js](https://github.com/dc-js/dc.js) 是一个多维图表，可以与crossfilter本地工作.
 - [Dimple](http://dimplejs.org/) - 面向对象的业务分析API.
 - [Dygraphs](http://dygraphs.com/) - 适用于大型数据集的交互式折线图库.
-- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper](https://github.com/hustcc/echarts-for-react)
+- [Echarts](https://github.com/ecomfe/echarts) - 高度可定制的交互式图表，可用于大型数据集. [React wrapper](https://github.com/hustcc/echarts-for-react)
 - [Epoch](https://github.com/epochjs/epoch) - 完美的创建实时图表.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - 针对时间序列数据进行了优化.
 - [NVD3](https://github.com/novus/nvd3) - 用d3.js编写的可重用图表库.
@@ -59,7 +60,7 @@
 - [Vis.js](http://visjs.org/) - 动态可视化库，包括时间轴，网络和图形（2D和3D）.
 
 ## Android tools
-- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - 动画圆形轮图库.
+- [DecoView](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
 - [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - 功能强大且易于使用的图表库.
 - [WilliamChart](https://github.com/diogobernardino/WilliamChart) - 简单的图表库.
 

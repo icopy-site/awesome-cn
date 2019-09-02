@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sjfricke/awesome-webgl"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/sjfricke/awesome-webgl/master/webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
@@ -103,7 +104,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 &gt;用于开发和调试WebGL的工具
 
 * [Khronos Dev Tools](https://github.com/KhronosGroup/WebGLDeveloperTools) - 有用的WebGL开发人员工具，旨在用作ES6模块.
-* [Spector.js](https://spector.babylonjs.com/) - 用于探索和排除WebGL场景故障的不可知JavaScript框架.
+* [Spector.js](https://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - 受gDEBugger和PIX启发的工具，目的是使高级WebGL应用程序的开发更容易.
 * [WebGl Playground](http://jessevdk.github.io/webgl-play/)   - 编辑器允许您以方便的方式同时处理JavaScript代码和GLSL顶点/片段着色器（如果有的话）.  一切都按照您的意愿进行组织，格式化和突出显示.
 * [WebGL Report](http://webglreport.com/?v=1) - 查看浏览器支持WebGL的详细信息.
@@ -113,7 +114,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+* [GLSL Shader Editor Extension](https://github.com/spite/ShaderEditorExtension) -  Chrome DevTools扩展程序，可帮助您在浏览器中实时编辑着色器.
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - 轻松探索WebGL和WebGL2场景并排除故障.
 * [Webgl Insight](https://github.com/3Dparallax/insight) -  Chrome扩展WebGL调试工具包，提供多种功能.
 
@@ -241,7 +242,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 * [Phenomenon](https://github.com/vaneenige/phenomenon) - 非常小的低级WebGL库，提供了提供高性能体验的基本要素.
 
 ### Maps and Visualizations
-* [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
+* [Cesium](https://cesiumjs.org/) - 用于世界级3D地球仪和地图的开源库.
 * [Deck.gl](http://deck.gl/) -  React的WebGL覆盖套件，提供一组高性能的数据可视化覆盖.
 * [Luma.gl](https://luma.gl/) - 基于WebGL2的动力框架，用于GPU驱动的数据可视化和计算.
 * [xeogl](http://xeogl.org/) -  WebGL上的数据驱动3D可视化引擎.
@@ -274,7 +275,7 @@ WebGL程序包括用JavaScript编写的控制代码和在计算机图形上执�
 ### Others
 * [Babylon.js](https://www.babylonjs.com/) - 使用HTML5，WebGL和Web Audio构建3D游戏的完整JavaScript框架.
 * [Blend4Web](https://www.blend4web.com/en/) - 用于Internet上交互式3D可视化的工具.
-* [ClayGL](http://claygl.xyz/) - 用于构建可扩展Web3D应用程序的WebGL图形库.
+* [ClayGL](http://claygl.xyz/) - WebGL graphic Library for building scalable Web3D applications.
 * [CopperLicht](https://www.ambiera.com/copperlicht/index.html) - 用于创建游戏和3D应用程序的JavaScript库和WebGL 3D引擎.
 * [GLGE](http://www.glge.org/) - 旨在简化WebGL使用的Javascript库.
 * [Lightgl.js](https://github.com/evanw/lightgl.js) - 轻量级和明确的库，以帮助原型.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="n1trux/awesome-sysadmin"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!--
   标题：令人敬畏的系统管理员
   描述：精选的开源系统管理员资源的精选列表.
@@ -162,14 +163,14 @@
 
 *持续集成/部署软件.*
 
-- [Buildbot](http://buildbot.net/)   - 基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）``GPL-2.0`Python`
+- [Buildbot](http://buildbot.net/)   - 基于Python的工具包，用于持续集成.  （[Source Code](https://github.com/buildbot/buildbot)）``GPL-2.0``Python`
 - [CapsuleCD](https://analogj.github.io/capsulecd-slides/)   - 用于自动化软件包/库发布的CD脚本（npm，cookbooks，gem，pip，jar等）.  （[Source Code](https://github.com/AnalogJ/capsulecd)）`MIT``Go`
 - [Concourse](https://concourse.ci/)   -  Concourse是一种CI工具，可将管道视为头等对象，并在此过程中的每一步都包含容器.  （[Demo](https://ci.concourse.ci/), [Source Code](https://github.com/concourse/concourse)）``Apache-2.0``Go`
 - [drone](https://drone.io/)   -  Drone是一个基于Docker的持续交付平台，用Go编写.  （[Source Code](https://github.com/drone/drone)）``Apache-2.0``Go`
 - [Factor](http://www.factor.io/)   - 以编程方式定义和运行工作流，以连接配置管理，源代码管理，构建，持续集成，持续部署和通信工具.  （[Source Code](https://github.com/factor-io/factor)）`MIT``Ruby`
 - [GitLab CI](https://about.gitlab.com/gitlab-ci/)   -  Gitlab内置的全功能CI / CD解决方案.  （[Source Code](https://gitlab.com/gitlab-org/gitlab-ce) `MIT`` Ruby`
 - [GoCD](http://www.go.cd/)   - 持续交付服务器.  （[Source Code](https://github.com/gocd/gocd)）`Apache-2.0``Java / Ruby`
-- [GolangCI](https://golangci.com/)   - 与GitHub拉取请求集成的Go的开源自动代码审查服务.  （[Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
+- [GolangCI](https://golangci.com/) - Open Source automated code review service for Go integrated with GitHub pull requests. ([Source Code](https://github.com/golangci/golangci)）`AGPL-3.0``Go`
 - [Jenkins](https://jenkins-ci.org/)   - 持续集成服务器.  （[Source Code](https://github.com/jenkinsci/jenkins/)）`MIT``Java`
 - [Laminar](http://laminar.ohwg.net)   - 快速，轻便，简单且灵活的持续集成.  （[Source Code](https://github.com/ohwgiles/laminar)）``GPL-3.0``C ++`
 - [PHP Censor](https://github.com/php-censor/php-censor)   - 用于PHP项目的开源自托管持续集成服务器.  `BSD-2-Clause``PHP`
@@ -297,12 +298,12 @@
 ### Tools and web interfaces
 
 * [Fusion Directory](https://www.fusiondirectory.org) - 改进基于OpenLDAP的服务和公司目录的管理.
-* [Indieauth](https://indieauth.com/) - Sign in with your domain name (using the rel-me-auth protocol).
+* [Indieauth](https://indieauth.com/) - 使用您的域名登录（使用rel-me-auth协议）.
 * [Libravatar](https://www.libravatar.org/) -  Libravatar是一项服务，可将您的头像（个人资料图片）发送到其他网站.
 * [LDAP Account Manager (LAM)](https://www.ldap-account-manager.org/lamcms/) - 用于管理存储在LDAP目录中的条目（例如，用户，组，DHCP设置）的Web前端.
 * [OpenID Connect](http://openid.net/developers/libraries/) -  OAuth 2.0之上的简单身份层.
-* [OSIAM](http://osiam.github.io/) - 安全身份管理解决方案，提供基于REST的身份验证和授权服务.
-* [Pomerium](https://www.pomerium.io/) - 受BeyondCorp启发的身份和上下文感知访问代理.
+* [OSIAM](http://osiam.github.io/) - Secure identity management solution providing REST based services for authentication and authorization.
+* [Pomerium](https://www.pomerium.io/) - An identity and context aware access-proxy inspired by BeyondCorp.
 * [Samba](https://www.samba.org/) -  Active Directory和CIFS协议实现.
 * [BounCA](https://bounca.org/) - 用于创建自签名证书的个人SSL密钥/证书颁发机构基于Web的工具.
 * [easy-rsa](https://github.com/OpenVPN/easy-rsa) - 用于构建和管理PKI CA的bash脚本.
@@ -322,7 +323,7 @@
 
 *日志管理工具：收集，解析，可视化...... *
 
-* [Elasticsearch](https://www.elastic.co/) - 基于Lucene的文档存储，主要用于日志索引，存储和分析.
+* [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
 * [Fluentd](http://www.fluentd.org/) - 日志收集器和托运人.
 * [Flume](https://flume.apache.org/) - 分布式日志收集和聚合系统.
 * [GoAccess](http://goaccess.io/)   - 在终端或浏览器中运行的实时Web日志分析器和交互式查看器.  （[Source Code](https://github.com/allinurl/goaccess)）`MIT`` C`
@@ -378,7 +379,7 @@
 * [rtop](https://github.com/rapidloop/rtop) - 基于SSH的交互式远程系统监控工具.
 * [Sensu](https://sensuapp.org/) - 监测框架.
 * [ServerStatus BotoX](https://github.com/BotoX/ServerStatus) - 以美丽的方式显示和监控您的服务器统计信息.
-* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
+* [ServerStatus moejda](https://github.com/mojeda/ServerStatus) - 服务器状态网站脚本，显示正常运行时间（天），免费RAM，免费硬盘
 * [Shinken](http://www.shinken-monitoring.org/) - 另一个监测框架.
 * [SWMP - Server Web Monitor Page](https://swmp.ml/) - 响应迅速，令人赏心悦目的Linux服务器统计信息仪表板.（[Source Code](https://github.com/fuzzymannerz/swmp))
 * [Thruk](http://www.thruk.org/) -  Multibackend监控Web界面，支持Naemon，Nagios，Icinga和Shinken.
@@ -496,7 +497,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
   * [adminer](https://www.adminer.org/) - 单个PHP文件中的数据库管理（[Source code](https://github.com/vrana/adminer))
 * [Percona Server](https://www.percona.com/software) - 增强的，免费的MySQL替代品.
 * [PostgreSQL](http://www.postgresql.org/) - 对象关系数据库管理系统（ORDBMS）.
-* [PostgreSQL-XL](http://www.postgres-xl.org/) - Scalable PostgreSQL-based database cluster.
+* [PostgreSQL-XL](http://www.postgres-xl.org/) - 可扩展的基于PostgreSQL的数据库集群.
 * [SQLite](http://sqlite.org/) - 实现自包含，无服务器，零配置，事务性SQL DBS的库.
 
 ## Remote Management
@@ -568,9 +569,9 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 * [OpenNebula](http://opennebula.org/) - 灵活的企业云变得简单.
 * [OpenNode](http://opennodecloud.com) - 构建开源基础架构管理软件并实施云系统.
 * [oVirt](http://www.ovirt.org/) - 管理虚拟机，存储和虚拟网络.
-* [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
+* [Packer](https://www.packer.io/) - 用于从单一源配置为多个平台创建相同机器映像的工具.
 * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - 虚拟化管理解决方案.
-* [QEMU](http://www.qemu.org/) - QEMU is a generic machine emulator and virtualizer.
+* [QEMU](http://www.qemu.org/) -  QEMU是一个通用的机器模拟器和虚拟器.
 * [Vagrant](https://www.vagrantup.com/) - 构建完整开发环境的工具.
 * [VirtualBox](https://www.virtualbox.org/) -  Oracle Corporation的虚拟化产品.
 * [Xen](http://www.xenproject.org/) - 用于32/64位Intel / AMD（IA 64）和PowerPC 970架构的虚拟机监视器.
@@ -632,7 +633,7 @@ NoSQL服务器的比较：http：//kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs
 
 *为社会人士.*
 
-* [ArsTechnica OpenForum](http://arstechnica.com/civis/) - 连接到大型新闻网站的IT论坛.
+* [ArsTechnica OpenForum](http://arstechnica.com/civis/) – IT Forum which is attached to a large news site.
 * [Reddit](https://www.reddit.com) - 真的，真的很大的公告板系统.
   * [/r/Linux](https://www.reddit.com/r/linux) - 有关Linux的新闻和信息.
   * [/r/LinuxQuestions](https://www.reddit.com/r/linuxquestions)

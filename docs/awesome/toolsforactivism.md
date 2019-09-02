@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="drewrwilson/toolsforactivism"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
@@ -50,7 +51,7 @@
 
  * [Where@](https://github.com/the-learning-collective/whereat-macroid) - 一个移动应用程序，帮助抗议者在游行期间实时互相通信
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)） - 用于确定您的作品是否为有效模板的设计工具
- * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+ * [Day of Action](https://github.com/handsupwalkout/handsupwalkout.github.io)   - 非常粗糙的工具，用于协调高中学生的一天行动.  一个更通用的工具的起点，以运行一天的行动活动
  * [Umbrella App](https://github.com/securityfirst/Umbrella_android)   - 一个开源Android应用程序，提供有关数字和物理安全主题的课程和清单，从发送安全邮件到处理物理监视和安全地参加抗议.  还包括用于响应安全事件和订阅源的表单，以确保用户及时了解其所在区域的最新安全信息.  还提供西班牙语和中文.
  * [Code Corps](https://github.com/code-corps) - 代码团队希望提供将人们与具有社会影响力的项目联系起来的工具，促进众筹，并为那些从事项目工作的人提供支持 
 
@@ -62,7 +63,7 @@
 
 ## How do I contribute to this list
 
- 知道应该在此列表中的工具吗？  以下是添加方法：
+Have an idea of a tool that should be on this list? Here's how you can add it:
   * **熟悉github？**根据您的建议发送拉取请求.  如果你不确定该怎么做，就不要出汗了.  见下文.
   * **不熟悉github？**您可以通过单击右侧的“问题”选项卡并添加新问题（就像评论一样）在此页面上发表评论.  仅供参考，您需要创建一个github帐户.
 

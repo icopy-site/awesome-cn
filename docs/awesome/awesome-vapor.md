@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Cellane/awesome-vapor"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vapor [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-logo.png" align="right" width="150">](https://vapor.codes)
@@ -41,7 +42,7 @@
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Lingo Vapor](https://github.com/vapor-community/Lingo-Vapor) -  Lingo的Vapor提供程序 -  Swift本地化库.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Local Storage](https://github.com/gperdomor/local-storage) - 使用本地文件系统的存储驱动程序
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [MailCore](https://github.com/LiveUI/MailCore) - 通过SMTP，MailGun和SendGrid发送电子邮件.
-- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) – An alternative codable ORM for MongoDB.
+- ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Meow](https://github.com/OpenKitten/Meow) -  MongoDB的替代可编码ORM.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [MongoKitten](https://github.com/OpenKitten/MongoKitten) -  Swift中的MongoDB驱动程序.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Pagination](https://github.com/vapor-community/pagination) - 简单的蒸汽3分页.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Paginator](https://github.com/nodes-vapor/paginator) - 查询Vapor和Fluent的分页.
@@ -77,7 +78,7 @@
 - [Ether](https://github.com/Ether-CLI/Ether) -  Swift包管理器的命令行界面.
 - [Heroku buildpack: curl with HTTP/2 support](https://github.com/vzsg/heroku-buildpack-curl-http2)
 - [Ice](https://github.com/jakeheis/Ice)   -  Swift开发人员友好的包管理器;  与Swift Package Manager 100％兼容.
-- [Sourcery](https://github.com/krzysztofzablocki/Sourcery) -  Swift的元编程，停止编写样板代码.
+- [Sourcery](https://github.com/krzysztofzablocki/Sourcery) – Meta-programming for Swift, stop writing boilerplate code.
 - ![v2](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-2.png) [Sourcery Templates](https://github.com/nodes-vapor/sourcery-templates) - 使用Sourcery的元编程构建Vapor项目.
 - ![v3](https://raw.githubusercontent.com/Cellane/awesome-vapor/master/img/vapor-3.png) [Sublimate](https://github.com/gabrielepalma/sublimate) - 基于Sourcery的同步和身份验证的快速原型设计.
 - [Swifter](https://github.com/LiveUI/Swifter) - 一个macOS工具，可以帮助您管理Xcode项目，并让您快速访问DerivedData文件夹清理和管理.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="myshov/awesome-mobile-web-development"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Mobile Web Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 创建优质移动网络体验所需的一切.
@@ -18,7 +19,7 @@
 - [Cache-Control for Civilians](https://csswizardry.com/2019/03/cache-control-for-civilians/) - 如何设置Cache-Control以实现最佳响应时间.
 - [Designing Websites for iPhone X](https://webkit.org/blog/7929/designing-websites-for-iphone-x/) - 如何处理iPhone X上的“缺口”.
 - [Developing Mobile Web Applications: When, Why, and How](https://www.toptal.com/android/developing-mobile-web-apps-when-why-and-how) - 移动Web开发的良好高级概述.
-- [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) - 一个图表，显示JavaScript在哪些情况下不可用.
+- [Everyone has JavaScript, right?](https://kryogenix.org/code/browser/everyonehasjs.html) - A diagram that shows in which cases JavaScript can be unavailable.
 - [Get Started with Remote Debugging Android Devices](https://github.com/myshov/awesome-mobile-web-development/blob/master/ https://developers.google.com/web/tools/chrome-devtools/remote-debugging/) - 使用Chrome DevTools在Adroid上调试您的Web应用程序.
 - [Guidelines For Mobile Web Development](https://www.smashingmagazine.com/guidelines-for-mobile-web-development/) - 关于移动网络开发的好文章的汇编.
 - [How To Poison The Mobile User](https://www.smashingmagazine.com/2016/10/how-to-poison-the-mobile-user/) - 移动网站上的负面做法概述.
@@ -106,8 +107,8 @@
 - [Fastclick](https://github.com/ftlabs/fastclick) - 在旧浏览器中删除300毫秒延迟.
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) - 使用IntersectionObserver API的高性能，轻量级和可配置的延迟加载器
 - [React Dates](https://github.com/airbnb/react-dates) - 一个易于国际化，适合移动设备的日期选择器React库.
-- [Shiny](https://github.com/rikschennink/shiny) - Shiny reflections for mobile websites
-- [Slideout](https://github.com/Mango/slideout) - 适用于您的移动网络应用的独立轻量级导航菜单。
+- [Shiny](https://github.com/rikschennink/shiny) - 移动网站的闪亮反思
+- [Slideout](https://github.com/Mango/slideout) - 适用于您的移动网络应用的独立轻量级导航菜单.
 - [Swiper](https://github.com/nolimits4web/swiper) - 最现代化的移动触摸滑块，具有硬件加速转换功能.
 - [Web Inspector Remote (Weinre)](https://www.npmjs.com/package/weinre) - 用于在非主流浏览器中调试站点的Web检查器.
 - [Web Starter Kit](https://github.com/google/web-starter-kit) - 多设备网站的工作流程.

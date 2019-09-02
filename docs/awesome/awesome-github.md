@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="phillipadsmith/awesome-github"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
 
 
@@ -15,7 +16,7 @@
 
 这就是说，这个清单 -  [Awesome GitHub](https://github.com/phillipadsmith/awesome-github) - 试图记录那些令人敬畏的方面：GitHub已经成为的一切 - 远远超出了今天的Git，以及GitHub八年前开始的地方.
 
-The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) 为了 [2015 Mozilla Festival](https://2015.mozillafestival.org/) .  我后来偶然了解到Mozilla Festival本身正在使用 [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program)   - 审核提案，为曲目和主题分配会话等等.  还有一个例子，说明如何使用GitHub来制作精彩内容.
+这个清单的灵感来自于 [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) 为了 [2015 Mozilla Festival](https://2015.mozillafestival.org/) .  我后来偶然了解到Mozilla Festival本身正在使用 [GitHub issues to manage the program](https://github.com/mozilla/mozfest-program)   - 审核提案，为曲目和主题分配会话等等.  还有一个例子，说明如何使用GitHub来制作精彩内容.
 
 ------
 
@@ -39,7 +40,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - 这是正确的，与SVG相同的想法，但对于Photoshop文件！
 - [GitHub Government Community](https://github.com/government/welcome) - 有关加入GitHub的信息 [government community](https://government.github.com/) - 一个协作社区，用于分享促进开源，开放数据和开放政府工作的最佳实践.
 - [Classroom for GitHub](https://classroom.github.com) - 您在GitHub上的课程作业.
-- [MOOC in Spanish](https://miriadax.net/web/gitmooc) - 马德里理工大学西班牙语入门课程（MOOC）
+- [MOOC in Spanish](https://miriadax.net/web/gitmooc) - Introductory course (MOOC) in Spanish from Madrid Polytechnical University
 
 ## Resources for those already familiar with GitHub
 

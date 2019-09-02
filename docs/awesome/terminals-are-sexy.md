@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="k4m4/terminals-are-sexy"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Terminals_Are_Sexy_Logo](https://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](https://terminalsare.sexy/)
 
 ## Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -42,7 +43,7 @@
 * [pumice](https://github.com/ryutamaki/pumice) -  zsh的轻量级插件管理器.
 * [pure](https://github.com/sindresorhus/pure) - 漂亮，简约，快速的ZSH提示.
 * [slimzsh](https://github.com/changs/slimzsh) -  ZSH的小型可用配置.
-* [zeesh](https://github.com/zeekay/zeesh) - 跨平台Zsh框架.
+* [zeesh](https://github.com/zeekay/zeesh) - 跨平台的Zsh框架.
 * [zgen](https://github.com/tarjoilija/zgen) -  ZSH的轻量级简单插件管理器.
 * [zilsh](https://github.com/zilsh/zilsh) -  Zsh配置系统旨在吸引更多的电力用户，并遵循vim-pathogen的简单方法.
 * [zim](https://github.com/Eriner/zim) -  Zsh配置框架，具有超快的速度和模块化扩展.
@@ -56,13 +57,13 @@
 * [zshdb](https://github.com/rocky/zshdb) -  ZSH调试器.
 * [ztanesh](https://github.com/miohtama/ztanesh) - 旨在通过ztanesh项目提供的配置提高UNIX命令行体验和工作效率.
 * [zulu](https://github.com/zulu-zsh/zulu) -  ZSH 5+的总环境经理.
-* [zunit](https://github.com/molovo/zunit) - Powerful unit testing framework for ZSH.
+* [zunit](https://github.com/molovo/zunit) -  ZSH强大的单元测试框架.
 
 ### Bash
 
 * [aliases](https://github.com/sebglazebrook/aliases) -  bash shell的上下文，动态，有组织的别名.
 * [bash-it](https://github.com/Bash-it/bash-it) - 社区Bash命令和脚本的集合.
-* [bash-powerline](https://github.com/riobard/bash-powerline) - 纯Bash脚本中的电力线样式Bash提示.
+* [bash-powerline](https://github.com/riobard/bash-powerline) - 纯Bash脚本中的电力线式Bash提示.
 * [bash-sensible](https://github.com/mrzool/bash-sensible) - 尝试更好的Bash默认值.
 * [bashtrap](https://github.com/barryclark/bashstrap) - 快速修改OSX终端的方法.
 * [hstr](https://github.com/dvorka/hstr) -  Bash History Suggest Box.
@@ -165,7 +166,7 @@
 * [emacs](https://www.gnu.org/software/emacs/) - 具有命令行和图形用户界面的跨平台文本编辑器.
     * [spacemacs](http://spacemacs.org) - 社区驱动的emacs分发.
 * [jed](https://www.jedsoft.org/jed/) - 适用于Unix，VMS，MSDOS，OS / 2，BeOS，QNX和win9X / NT平台的免费文本编辑器.
-* [kakoune](https://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
+* [kakoune](https://kakoune.org/) - 具有多个选择和正交设计的模态编辑器.
 * [micro](https://github.com/zyedidia/micro) - 现代直观的基于终端的文本编辑器.
 * [nano](https://www.nano-editor.org/) - 使用命令行界面的类Unix计算系统或操作环境的文本编辑器.
 * [slap](https://github.com/slap-editor/slap) - 类似Sublime的基于终端的文本编辑器.
@@ -200,9 +201,9 @@
 * [glances](https://github.com/nicolargo/glances) - 顶级/ htop替代品.
 * [googler](https://github.com/jarun/googler) - 从您的终端搜索Google.
 * [haxor-news](https://github.com/donnemartin/haxor-news) - 像haxor一样浏览黑客新闻.
-* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - 用于管理作为二进制文件分发的macOS应用程序的CLI工作流程.
+* [homebrew-cask](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [howdoi](https://github.com/gleitz/howdoi) - 命令行中的即时代码答案和示例
-* [htop](https://hisham.hm/htop/) - 顶级命令的酷炫外观和交互式过程查看器“替换”.
+* [htop](https://hisham.hm/htop/) - 顶级命令的酷炫外观和交互式流程查看器“替换”.
 * [hub](https://hub.github.com/) -  git的命令行包装器，可以轻松使用GitHub.
 * [imgp](https://github.com/jarun/imgp) - 多核批量图像缩放器和旋转器.
 * [jq.node](https://github.com/FGRibreau/jq.node) -  shell中的命令行JSON /字符串处理器，JavaScript和Lodash.
@@ -222,7 +223,7 @@
 * [streamlink](https://github.com/streamlink/streamlink) - 用于将各种网站的流提取到您选择的视频播放器的CLI.
 * [taskwarrior](https://taskwarrior.org/) - 命令行TODO列表管理器.
 * [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - 代码搜索工具类似于ack，但速度更快.
-* [tig](https://github.com/jonas/tig) -  git的文本模式界面.
+* [tig](https://github.com/jonas/tig) - Text mode interface for git.
 * [tiv](https://github.com/stefanhaustein/TerminalImageViewer) - 文本模式终端图像查看器.
 * [tldr](https://github.com/tldr-pages/tldr/) - 简化和社区驱动的手册页.
 * [tmux](https://tmux.github.io/) - 终端多路复用器.

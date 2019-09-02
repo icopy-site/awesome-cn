@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="automata/awesome-jamstack"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <br /><br />
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat.svg" /></a>
@@ -106,7 +107,7 @@
 
 ### Forms
 
-- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - Built-in form handling on building time by parsing HTML files directly at deploy time.
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - 通过在部署时直接解析HTML文件，对构建时间进行内置表单处理.
 
 ### E-commerce
 

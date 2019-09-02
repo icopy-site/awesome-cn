@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="iJackUA/awesome-vagrant"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vagrant
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
@@ -39,7 +40,7 @@
 * [vagrant-host-shell](https://github.com/phinze/vagrant-host-shell) -  VM启动时在主机上运行命令的vagrant配置程序.
 * [vagrant-ansible-local](https://github.com/jaugustin/vagrant-ansible-local)  允许直接从来宾VM为您的VM配置ansible playbooks.
 * [sahara](https://github.com/jedi4ever/sahara) - 轻松管理VM状态（在试验软件堆栈时提交/回滚）.
-* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - 向Vagrant guest虚拟机添加“注册”和“注销”功能，以获取具有订阅模式的系统（如Red Hat Enterprise Linux）的更新.
+* [vagrant-registration](https://github.com/projectatomic/adb-vagrant-registration) - 为Vagrant guest虚拟机添加“注册”和“注销”功能，以便在具有订阅模型的系统（如Red Hat Enterprise Linux）上进行更新.
 * [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - 使您能够更轻松地访问由提供的功能和服务 [Atomic Developer Bundle (ADB)](https://github.com/projectatomic/adb-atomic-developer-bundle).
 * [vagrant-scp](https://github.com/invernizzi/vagrant-scp) - 通过SCP将文件复制到Vagrant VM.
 
@@ -88,7 +89,7 @@
 
 * [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) 由Mitchell Hashimoto撰写.
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) 作者：Erika Heidi.
-* [Pro Vagrant](https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/) 作者：Wlodzimierz Gajda.
+* [Pro Vagrant](https://www.amazon.com/Pro-Vagrant-Wlodzimierz-Gajda/dp/1484200748/) 到Wlodzimierz Gajda.
 * [Creating Development Environments with Vagrant](http://shop.oreilly.com/product/9781849519182.do) / [2nd Edition](http://shop.oreilly.com/product/9781784397029.do) 作者：Michael Peacock
 * [Vagrant Virtual Development Environment Cookbook](http://shop.oreilly.com/product/9781784393748.do) 由查德汤普森
 

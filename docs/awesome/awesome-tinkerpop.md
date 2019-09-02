@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mohataher/awesome-tinkerpop"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ![alt tag](https://raw.githubusercontent.com/mohataher/awesome-tinkerpop/master/tinkerpop-splash.png)
@@ -118,7 +119,7 @@ Github上只有精彩的TinkerPop库的精选列表.
 * [The Gremlin Console](http://tinkerpop.apache.org/docs/current/tutorials/the-gremlin-console/) - 讨论Gremlin控制台的使用案例和使用模式.
 * [Gremlin Recipes](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/recipes/) - 参考常见的遍历模式和样式.
 * [Gremlin Language Variants](http://tinkerpop.apache.org/docs/3.2.1-SNAPSHOT/tutorials/gremlin-language-variants/) - 学习如何使用宿主编程语言嵌入Gremlin.
-* [SQL2Gremlin](http://sql2gremlin.com/) - 使用SQL查询数据时找到的典型模式学习Gremlin.
+* [SQL2Gremlin](http://sql2gremlin.com/) - Learn Gremlin using typical patterns found when querying data with SQL.
 * [Getting Started with Graph Databases](https://academy.datastax.com/demos/getting-started-graph-databases) - 将关系数据库与图形数据库和SQL与Gremlin进行比较.
 * [Graph](https://github.com/krlawrence/graph) - 图形数据库，Gremlin和TinkerPop  - 教程.
 

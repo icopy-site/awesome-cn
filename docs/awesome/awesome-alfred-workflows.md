@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="derimagia/awesome-alfred-workflows"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
 	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
 	<br>
@@ -33,7 +34,7 @@ Awesome Alfred Workflows的精选列表.
 - [ng](https://github.com/SamVerschueren/alfred-ng) - 搜索 [angular.io](https://angular.io) 文档.
 - [Package Managers](https://github.com/willfarrell/alfred-pkgman-workflow) - 包裹回购搜索.
 - [Packagist](https://github.com/vinkla/alfred-packagist) - 使用搜索PHP包 [Packagist](https://packagist.org).
-- [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出，搜索和打开Source Tree存储库.
+- [Source Tree](https://github.com/zhaocai/alfred2-sourcetree-workflow) - 列出，搜索和打开源树存储库.
 - [VagrantUP](https://github.com/m1keil/alfred-vagrant-workflow) - 使用Alfred2列出和控制Vagrant环境.
 
 ## Text Manipulation

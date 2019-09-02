@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="squaremetrics/awesome-beacon"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的iBeacon和Eddystone蓝牙信标资源，开源项目，库，工具和教程的精选列表.
@@ -42,7 +43,7 @@
 
 ## iBeacon Resources by Apple
 
-&gt; **面向开发人员的iBeacon ** iBeacon来自欢迎人们参加体育赛事以提供有关附近博物馆展览的信息，开启了一个新的地理位置感知世界，以及iOS设备和iBeacon硬件之间无数互动的机会.
+&gt; **适用于开发人员的iBeacon ** iBeacon来自欢迎人们参加体育赛事以提供有关附近博物馆展览的信息，开启了地理位置感知的新世界，以及iOS设备和iBeacon硬件之间无数互动的机会.
 
 * [iBeacon for Developers](https://developer.apple.com/ibeacon)
 * [Getting Started with iBeacon (PDF) ](https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf)

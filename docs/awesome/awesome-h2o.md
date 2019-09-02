@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="h2oai/awesome-h2o"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome H2O [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Powered by H2O.ai](https://img.shields.io/badge/powered%20by-h2oai-yellow.svg)](https://github.com/h2oai/)
 
 [<img src="https://rawgit.com/h2oai/awesome-h2o/master/h2o_logo.png" align="right" width="100">](https://raw.githubusercontent.com/h2oai/h2o-3)
@@ -34,12 +35,12 @@
 ## Books
 
 - [Hands on Time Series with R](https://www2.packtpub.com/big-data-and-business-intelligence/hands-time-series-analysis-r)  拉米克里斯平.  （2019）
-- [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh  （2016）
+- [Machine Learning Using R](https://www.amazon.com/Machine-Learning-Using-Karthik-Ramasubramanian/dp/1484223330)  Karthik Ramasubramanian，Abhishek Singh.  （2016）
 - [Practical Machine Learning with H2O: Powerful, Scalable Techniques for Deep Learning and AI](https://www.amazon.com/Practical-Machine-Learning-H2O-Techniques/dp/149196460X)  达伦库克.  （2016）
 - [Disruptive Analytics](http://link.springer.com/book/10.1007/978-1-4842-1311-7)  托马斯丁斯莫尔.  （2016）
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://web.stanford.edu/~hastie/CASI/)  Bradley Efron，Trevor Hastie.  （2016）
 - [R Deep Learning Essentials](https://www.packtpub.com/big-data-and-business-intelligence/r-deep-learning-essentials)  Joshua F. Wiley.  （2016）
-- [Spark in Action](https://www.manning.com/books/spark-in-action)  PetarZečević，MarkoBonaći.  （2016）
+- [Spark in Action](https://www.manning.com/books/spark-in-action)  Petar Zecevic，Marko Bonaqi.  （2016）
 - [Handbook of Big Data](https://www.crcpress.com/Handbook-of-Big-Data/Buhlmann-Drineas-Kane-van-der-Laan/p/book/9781482249071) PeterBühlmann，Petros Drineas，Michael Kane，Mark J. van der Laan（2015）
 
 ## Research Papers
@@ -48,12 +49,12 @@
 - [Extending MLP ANN hyper-parameters Optimization by using Genetic Algorithm](https://ieeexplore.ieee.org/document/8489520/authors#authors)   Fernando Itano，Miguel Angelo de Abreu de Sousa，Emilio Del-Moral-Hernandez.  （2018）
 - [askMUSIC: Leveraging a Clinical Registry to Develop a New Machine Learning Model to Inform Patients of Prostate Cancer Treatments Chosen by Similar Men](https://doi.org/10.1016/j.eururo.2018.09.050)  Gregory B. Auffenberg，Khurshid R. Ghani，Shreyas Ramani，Etiowo Usoro，Brian Denton，Craig Rogers，Benjamin Stockton，David C. Miller，Karandeep Singh.  （2018）
 - [Machine Learning Methods to Perform Pricing Optimization.  A Comparison with Standard GLMs](http://www.variancejournal.org/articlespress/articles/Machine-Spedicato.pdf)  Giorgio Alfredo Spedicato，Christophe Dutang和Leonardo Petrini.  （2018）
-- [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergius Stirenko，Yuri Gordienko.  （2017）
+- [Comparative Performance Analysis of Neural Networks Architectures on H2O Platform for Various Activation Functions](https://arxiv.org/abs/1707.04940)  Yuriy Kochura，Sergii Stirenko，Yuri Gordienko.  （2017）
 - [Algorithmic trading using deep neural networks on high frequency data](https://link.springer.com/chapter/10.1007/978-3-319-66963-2_14)  AndrésArévalo，JaimeNiño，德国Hernandez，Javier Sandoval，DiegoLeón，ArbeyAragón.  （2017）
 - [Generic online animal activity recognition on collar tags](https://dl.acm.org/citation.cfm?id=3124407)  Jacob W. Kamminga，Helena C. Bisby，Duc V. Le，Nirvana Meratnia，Paul JM Havinga.  （2017）
 - [Robust and flexible estimation of data-dependent stochastic mediation effects: a proposed method and example in a randomized trial setting](https://arxiv.org/pdf/1707.09021.pdf)  Kara E. Rudolph，Oleg Sofrygin，Wenjing Zheng和Mark J. van der Laan.  （2017）
 - [Automated versus do-it-yourself methods for causal inference: Lessons learned from a data analysis competition](https://arxiv.org/abs/1707.02641)  Vincent Dorie，Jennifer Hill，Uri Shalit，Marc Scott，Dan Cervone.  （2017）
-- [Using deep learning to predict the mortality of leukemia patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf)  Reena Shaw Muthalaly  （2017）
+- [Using deep learning to predict the mortality of leukemia patients](https://qspace.library.queensu.ca/bitstream/handle/1974/15929/Muthalaly_Reena%20S_201707_MSC.pdf)  Reena Shaw Muthalaly.  （2017）
 - [Use of a machine learning framework to predict substance use disorder treatment success](http://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0175383&type=printable)  Laura Acion，Diana Kelmansky，Mark van der Laan，Ethan Sahker，DeShauna Jones，Stephan Arnd.  （2017）
 - [Ultra-wideband antenna-induced error prediction using deep learning on channel response data](https://www.kn.e-technik.tu-dortmund.de/.cni-bibliography/publications/cni-publications/Tiemann2017a.pdf)  Janis Tiemann，Johannes Pillmann，Christian Wietfeld.  （2017）
 - [Inferring passenger types from commuter eigentravel matrices](http://www.tandfonline.com/doi/abs/10.1080/21680566.2017.1291377?journalCode=ttrb20)  Erika Fille T. Legara，Christopher P. Monterola.  （2017）

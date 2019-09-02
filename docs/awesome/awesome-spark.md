@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="awesome-spark/awesome-spark"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
 
 ## Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -43,7 +44,7 @@ SparkSQL有 [serveral built-in Data Sources](https://spark.apache.org/docs/lates
 
 ### Graph Processing
 
-* [SparklingGraph](http://sparkling.ml) <img src="https://img.shields.io/github/last-commit/sparkling-graph/sparkling-graph.svg"> - 库扩展GraphX功能，具有多种功能，可用于图形分析（度量，生成器，链接预测等）.
+* [SparklingGraph](http://sparkling.ml) <img src="https://img.shields.io/github/last-commit/sparkling-graph/sparkling-graph.svg"> - 库扩展GraphX功能，具有在图形分析中有用的多种功能（测量，生成器，链接预测等）.
 
 ### Machine Learning Extension
 

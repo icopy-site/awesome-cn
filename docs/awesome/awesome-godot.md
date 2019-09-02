@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Calinou/awesome-godot"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Godot [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Godot Engine logo](https://raw.githubusercontent.com/Calinou/awesome-godot/master/godot-logo.svg?sanitize=true)](https://godotengine.org)
@@ -15,7 +16,7 @@
 
 - [Blipshift](https://github.com/GaidamakUA/blipshift) - 简单的自上而下移动平台游戏（Godot 3.1）.
 - [BlockPop](https://github.com/vnen/blockpop) - 一个简单的突破克隆.
-- [Bombs](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
+- [Bombs](https://github.com/randyyaj/Bombs)   - 简单的手机游戏.  你需要触摸炸弹来化解它们.
 - [Breakable](https://github.com/didier-v/breakable)   - 类似突破的游戏.  与Godot 3.0兼容.
 - [Drone Commander](https://github.com/securas/Drone_Commander)   - 命令成群的无人机对抗外星人.  专为CGA JAM而制造.
 - [Captain Holetooth](https://github.com/Hirnbix/captain-holetooth)   - 详细世界中的探索性平台游戏.  面向年轻球员.
@@ -145,7 +146,7 @@
 - [Kakoune](https://github.com/Skytrias/gdscript-kak) - 语法高亮显示.
 - [Sublime Text](https://github.com/beefsack/GDScript-sublime) - 语法高亮显示.
 - [Vim](https://github.com/calviken/vim-gdscript3)   - 语法高亮，自动完成和linting.  还支持Godot着色器语言.
-- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - 具有丰富的功能，使您的编程体验尽可能舒适.
+- [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
 ## Godot script editor syntax themes
 

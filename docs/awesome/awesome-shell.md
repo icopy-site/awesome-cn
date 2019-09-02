@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="alebcay/awesome-shell"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
@@ -26,7 +27,7 @@
 
 * [bash](https://www.gnu.org/software/bash/) -  GNU Project的shell（Bourne Again SHell）
 * [elvish](https://elv.sh/) - 友好，富有表现力的shell功能，如匿名功能和数据结构
-* [fish](https://fishshell.com) - Smart and user-friendly command line shell
+* [fish](https://fishshell.com) - 智能且用户友好的命令行shell
 * [osh](https://www.oilshell.org) - 兼容Bash，使用称为Oil的新/现代Unix shell语言
 * [shenv](https://github.com/shenv/shenv) - 简单的shell版本管理
 * [xiki](http://xiki.org) - 使shell控制台更加友好和强大
@@ -69,7 +70,7 @@
 * [has](https://github.com/kdabir/has) - `has`帮助您检查路径上各种命令行工具及其版本的存在
 * [how2](https://github.com/santinic/how2)   - `how2`找到了在unix shell中做某事的最简单方法.  它就像`man`，但你可以用自然语言查询它.
 * [hhighlighter](https://github.com/paoloantinori/hhighlighter) - 在命令输出中着色单词
-* [hr](https://github.com/LuRsT/hr) - `<hr />` for your terminal
+* [hr](https://github.com/LuRsT/hr)   - ` <hr />  `为你的终端
 * [hss](https://github.com/six-ddc/hss) - 具有自动完成和异步执行功能的交互式并行ssh客户端
 * [hstr](https://github.com/dvorka/hstr) -  Bash History Suggest Box
 * [jump](https://github.com/gsamokovarov/jump) -  Jump通过了解您的习惯，帮助您更快地浏览文件系统.
@@ -78,7 +79,7 @@
 * [lazy-cd](https://github.com/pedramamini/lazy-cd) - 用于文件系统的书签导航的简单bash命令，完成bash-completion.
 * [lf.sh](https://github.com/suewonjp/lf.sh) - 快速搜索较少打字的文件并执行更多操作（点击，复制剪贴板的路径等）
 * [Lmod](https://lmod.readthedocs.io/en/latest/) - 基于Lua的环境模块，可在向后兼容的同时增强基于Tcl的模块（与模块相比）
-* [loop](https://github.com/Miserlou/Loop) - Write and control complex loops with as one-liners
+* [loop](https://github.com/Miserlou/Loop) - 使用单行编写和控制复杂循环
 * [marker](https://github.com/pindexis/marker) - 为shell命令添加书签
 * [mackup](https://github.com/lra/mackup/) - 保持应用程序设置同步（OS X / Linux）
 * [modules](http://modules.sourceforge.net/) - 管理shell环境的经典Tcl环境模块（与Lmod，direnv和autoenv相比）
@@ -93,7 +94,7 @@
 * [screen](https://www.gnu.org/software/screen/) -  GNU终端多路复用器
 * [shell-history](https://github.com/pawamoy/shell-history) - 使用Highcharts可视化您的shell使用情况
 * [SHML](https://github.com/odb/shml) - 终端的样式框架（Shell标记语言）
-* [slugify](https://github.com/benlinton/slugify) - 将文件名和目录转换为Web友好格式的命令
+* [slugify](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman](https://github.com/tokozedg/sman) - ：bug：命令行代码段管理器
 * [spark](https://github.com/holman/spark) - ▂▃▅▂▇在你的shell中
 * [shark](https://github.com/jorgebucaran/fish-spark) - ▂▃▅迷你线发生器
@@ -262,7 +263,7 @@
 * [terjira](https://github.com/keepcosmos/terjira) -  Jira的命令行电动工具
 * [transfer.sh](https://transfer.sh/) - 快速上传和共享shell中的文件
 * [vl](https://github.com/ellisonleao/vl) - 文本文档上的URL链接检查器
-* [wego](https://github.com/schachmat/wego) - 终端的天气应用程序
+* [wego](https://github.com/schachmat/wego) - Weather app for the terminal
 * [whales](https://github.com/Gueils/whales) - 自动停靠应用程序的工具
 * [whereami](https://github.com/rafaelrinaldi/whereami) - 从CLI获取您的地理位置信息
 * [wttr.in](https://github.com/chubin/wttr.in) - ：partially_sunny：检查天气的正确方法（curl wttr.in）

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="danielecook/Awesome-Bioinformatics"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的生物信息学 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/danielecook/Awesome-Bioinformatics.svg?branch=master)](https://travis-ci.org/danielecook/Awesome-Bioinformatics)
 ======================
 
@@ -56,7 +57,7 @@
 * __[bcbio-nextgen](https://github.com/chapmanb/bcbio-nextgen)__  - 电池包括用于变体和RNA-Seq分析的基因组分析管道，结构变体调用，注释和预测.
 * __[BigDataScript](https://pcingola.github.io/BigDataScript/)__  - 跨系统脚本语言，用于处理不同大小和功能的计算机系统中的大数据管道.
 * __[Bpipe](http://docs.bpipe.org)__  - 一种用于定义管道阶段并将它们链接在一起以形成管道的小语言.
-* __[Common Workflow Language](http://www.commonwl.org/)__  - 用于描述分析工作流程和工具的规范，这些工作流程和工具可在各种软件和硬件环境（从工作站到集群，云和高性能计算（HPC）环境）中移植和扩展.
+* __[Common Workflow Language](http://www.commonwl.org/)__ - a specification for describing analysis workflows and tools that are portable and scalable across a variety of software and hardware environments, from workstations to cluster, cloud, and high performance computing (HPC) environments.
 * __[Cromwell](https://github.com/broadinstitute/cromwell)__  - 面向科学工作流程的工作流管理系统.
 * __[Galaxy](https://usegalaxy.org/)_ _  - 一个流行的开源，基于Web的数据密集型生物医学研究平台.  具有多种功能，从数据分析到工作流管理再到可视化工具.
 * __[GATK Queue](https://gatkforums.broadinstitute.org/gatk/discussion/1288/howto-run-queue-for-the-first-time)__  - 与GATK本身一起工作的流水线系统以及其他高通量序列分析软件.
@@ -101,7 +102,7 @@ __DNA重新测序___
 * __[Bamtools](https://github.com/pezmaster31/bamtools)__  - 用于处理BAM文件的工具集合.
 * __[mergesam](https://github.com/DarwinAwardWinner/mergesam)__  - 自动执行常见的SAM和BAM转换.
 * __[mosdepth](https://github.com/brentp/mosdepth)__  -  WGS，外显子组或靶向测序的快速BAM / CRAM深度计算
-* __[SAMstat](https://github.com/TimoLassmann/samstat)__  - 显示下一代测序的序列统计数据.
+* __[SAMstat](https://github.com/TimoLassmann/samstat)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq](https://github.com/zd1/telseq)__  -  Telseq是一种从全基因组序列数据中估计端粒长度的工具.
 
 ### VCF File Utilities
@@ -139,7 +140,7 @@ __DNA重新测序___
 
 #### Tools
 
-* __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF](https://github.com/jamescasbon/PyVCF) 使用Cython获得速度.
+* __[cyvcf](https://github.com/arq5x/cyvcf)__  - 港口 [pyVCF](https://github.com/jamescasbon/PyVCF) 使用Cython获得速度.
 * __[cyvcf2](https://github.com/brentp/cyvcf2)_ _  -  Cython + HTSlib ==快速VCF解析;  解析比pyVCF更快.
 * __[pyBedTools](https://github.com/daler/pybedtools)__  -  Python包装器 [bedtools](https://github.com/arq5x/bedtools).
 * __[pyfaidx](https://github.com/mdshw5/pyfaidx)__  -  Pythonic访问FASTA文件.
@@ -157,7 +158,7 @@ __DNA重新测序___
 * __[BioJS](http://biojs.net/)__  -  BioJS是一个包含数百个JavaScript组件的库，使您能够使用当前的Web技术可视化和处理数据.
 * __[Circleator](https://github.com/jonathancrabtree/Circleator)__  - 使用BioPerl和SVG对基因组相关数据进行灵活的圆形可视化.
 * __[DNAism](https://github.com/drio/dnaism)__  - 用于DNA数据的基于D3的基于D3的JavaScript库的Horizo​​n chart.
-* __[IGV js](https://www.broadinstitute.org/igv)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
+* __[IGV js](https://www.broadinstitute.org/igv)_ _  - 基于Java的浏览器.  用于基因组数据和注释的快速，高效，可扩展的可视化工具.  处理大 [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
 * __[Island Plot](https://github.com/lairdm/islandplot)_ _  -  D3基于JavaScript的基因组查看器.  构造SVG.
 * __[JBrowse](https://jbrowse.org)__  - 通过插件和跟踪自定义高度可定制的JavaScript基因组浏览器
 * __[PHAT](https://github.com/chgibb/PHAT)__  - 指向并单击，跨平台套件，用于分析和可视化下一代测序数据集.

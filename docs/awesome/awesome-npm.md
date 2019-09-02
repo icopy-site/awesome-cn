@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-npm"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 &gt;太棒了 [npm](https://www.npmjs.com) 资源和提示
 
@@ -31,7 +32,7 @@
 ### Web
 
 - [npms](https://npms.io) - 精湛的包装搜索，使用a深入分析包装质量 [myriad of metrics](https://npms.io/about).
-	- [npm-introspect](http://npm-introspect.z3d.tech) - A npms-based utility for visually exploring the quality of package dependencies.
+	- [npm-introspect](http://npm-introspect.z3d.tech) - 基于npms的实用程序，用于直观地探索包依赖性的质量.
 - [npmsearch](http://npmsearch.com) - 快速包裹搜索，根据星标，家属，发布频率等指标进行排名.
 - [node-modules](http://node-modules.com) - 基于您的GitHub社交图的个性化包搜索.
 - [NodeICO](https://nodei.co/) - 包裹徽章.
@@ -102,7 +103,7 @@
 - [normalize-package-data](https://github.com/npm/normalize-package-data) - 规范化包元数据.
 - [pkg-conf](https://github.com/sindresorhus/pkg-conf) - 从最近的package.json获取命名空间配置.
 - [npm-run-path](https://github.com/sindresorhus/npm-run-path) - 在终端中按名称运行本地安装的二进制文件，如全局二进制文件.
-- [local-npm](https://github.com/nolanlawson/local-npm) - 使用npm [offline](https://addyosmani.com/blog/using-npm-offline/).
+- [local-npm](https://github.com/nolanlawson/local-npm) - 使用海拔高度 [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe](https://github.com/zeke/npe) - 用于检查和编辑package.json中的属性的CLI.
 - [engine-deps](https://github.com/samccone/engine-deps) - 轻松管理Node.js特定于版本的依赖项.
 - [enpeem-search](https://github.com/amovah/enpeem-search) - 通过抓取npm网络搜索来搜索包.
@@ -176,7 +177,7 @@ $ npm install --save-dev ava
 
 ### Run scripts
 
-你很容易 [run scripts](https://docs.npmjs.com/cli/run-script)  使用npm将它们添加到package.json中的``scripts``字段并使用`npm run运行它们 <script-name>  `.  运行`npm run`查看可用的脚本.  本地安装包的二进制文件可在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)），所以你可以按名称运行它们.
+你很容易 [run scripts](https://docs.npmjs.com/cli/run-script)  使用npm将它们添加到package.json中的``scripts``字段并使用`npm run运行它们 <script-name>  `.  运行`npm run`查看可用的脚本.  本地安装包的二进制文件可在 [PATH](https://en.wikipedia.org/wiki/PATH_(variable)), so you can run them by name.
 
 ```json
 {
@@ -277,7 +278,7 @@ npm附带预定义 [lifecyle scripts](https://docs.npmjs.com/misc/scripts) 如�
 		“测试”：“ava”
 	},
 	“devDependencies”：{
-		“ava”：“^ 1.0.0”
+		“水”：“^ 1.0.0”
 	}
 }
 ```
@@ -302,7 +303,7 @@ $ npm开始
 	},
 	“devDependencies”：{
 		“eslint”：“^ 4.19.0”，
-		“ava”：“^ 1.0.0”
+		“水”：“^ 1.0.0”
 	}
 }
 ```

@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="Famolus/awesome-sass"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
 
 ## Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;精选的精选列表 [Sass](http://sass-lang.com/) 和 [SCSS](http://sass-lang.com/) frameworks, libraries, style guides, articles, 和 resources.
+&gt;精选的精选列表 [Sass](http://sass-lang.com/) and [SCSS](http://sass-lang.com/) 框架，库，样式指南，文章和资源.
 
 - 使用<kbd>命令</kbd> + <kbd>F</kbd>或<kbd>ctrl</kbd> + <kbd>F</kbd>搜索关键字.
 - 欢迎提供，请参阅 [contribution guide](https://github.com/Famolus/awesome-sass/blob/master/contributing.md).
@@ -63,7 +64,7 @@
 - [include-media](http://include-media.com/) - 简单，优雅和可维护的媒体查询.
 - [mq-scss](https://github.com/Dan503/mq-scss) - 一个极其强大但易于使用的Sass媒体查询mixin.
 - [Sass MediaQueries](http://rafalbromirski.github.io/sass-mediaqueries/) - 为Sass收集有用的媒体查询mixins（包括iOS设备，电视等）.
-- [Sass MQ](https://github.com/sass-mq/sass-mq) - Sass mixin that helps you compose media queries in an elegant way.
+- [Sass MQ](https://github.com/sass-mq/sass-mq) -  Sass mixin，可帮助您以优雅的方式撰写媒体查询.
 
 ### Color
 - [brand-colors](http://brand-colors.com/) -  Sass，Less，Stylus和CSS提供1100多种流行品牌颜色.
@@ -78,7 +79,7 @@
 - [Typi](https://github.com/zellwk/typi) -  Sass mixin使响应式排版变得容易.
 
 ### Animation
-- [Animate.scss](https://github.com/geoffgraham/animate.scss) - 丹伊甸港 [Animate.css](https://daneden.github.io/animate.css/) 为SASS.
+- [Animate.scss](https://github.com/geoffgraham/animate.scss) - 丹伊登的港口 [Animate.css](https://daneden.github.io/animate.css/) 为SASS.
 - [Hover](http://ianlunn.github.io/Hover/)   - 收集CSS3动力悬停动画效果，应用于链接，按钮，徽标，SVG，特色图像等.  提供CSS，Sass和LESS.
 - [Kf](https://kf-sass.com) -  Sass mixin库，用于从地图创建基于关键帧的动画.
 - [Sass Burger](https://github.com/jorenvanhee/sass-burger) -  Sass mixin用于创建动画汉堡包图标.

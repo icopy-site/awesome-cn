@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ziadoz/awesome-php"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
 
 精选的PHP库，资源和闪亮的东西的精选列表.
@@ -109,7 +110,7 @@
 * [Plates](http://platesphp.com/) - 本机PHP模板库.
 * [Smarty](https://www.smarty.net/) - 补充PHP的模板引擎.
 * [Twig](https://twig.symfony.com/) - 全面的模板语言.
-* [Tale Jade](https://github.com/Talesoft/tale-jade) - A PHP implementation of the Jade template language.
+* [Tale Jade](https://github.com/Talesoft/tale-jade) -  Jade模板语言的PHP实现.
 
 ### Static Site Generators
 
@@ -209,7 +210,7 @@
 
 * [Alice](https://github.com/nelmio/alice) - 富有表现力的夹具生成库.
 * [AspectMock](https://github.com/Codeception/AspectMock) -  PHPUnit / Codeception的模拟框架.
-* [Atoum](https://github.com/atoum/atoum) - 一个简单的测试库.
+* [Atoum](https://github.com/atoum/atoum) - A simple testing library.
 * [Behat](http://docs.behat.org/en/v2.5/) - 行为驱动开发（BDD）测试框架.
 * [Codeception](https://github.com/Codeception/Codeception) - 完整的堆栈测试框架.
 * [Faker](https://github.com/fzaninotto/Faker) - 假数据生成器库.
@@ -231,14 +232,14 @@
 ### Continuous Integration
 *用于持续集成的库和应用程序.*
 
-* [CircleCI](https://circleci.com) - A continuous integration platform.
+* [CircleCI](https://circleci.com) - 持续集成平台.
 * [GitlabCi](https://about.gitlab.com/product/continuous-integration/)   - 让GitLab CI测试，构建，部署您的代码.  TravisCi喜欢.
 * [Jenkins](https://jenkins.io/index.html) - 一个持续的集成平台 [PHP support](http://jenkins-php.org/index.html).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 用PHP编写并由Docker提供支持的持续集成客户端.
 * [PHPCI](https://github.com/dancryer/phpci) -  PHP的开源持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 开源和私有项目的持续集成平台.
 * [Shippable](https://www.shippable.com/) - 基于Docker的开源和私有项目的持续集成平台.
-* [Travis CI](https://travis-ci.org/) - A continuous integration platform.
+* [Travis CI](https://travis-ci.org/) - 持续集成平台.
 
 ### Documentation
 *用于生成项目文档的库.*
@@ -274,7 +275,7 @@
 * [Password Policy](https://github.com/ircmaxell/password-policy) - 用于PHP和JavaScript的密码策略库.
 * [Password Validator](https://github.com/jeremykendall/password-validator) - 用于验证和升级密码哈希的库.
 * [Password-Generator](https://github.com/hackzilla/password-generator) -  PHP库生成随机密码.
-* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - 用于生成和验证密码的库.
+* [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [phpass](https://www.openwall.com/phpass/) - 便携式密码哈希框架.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 基于Zxcvbn JS的真实的PHP密码强度估算库.
 
@@ -308,7 +309,7 @@
 * [phan](https://github.com/phan/phan) - 基于PHP 7+和php-ast扩展的静态分析器.
 * [PHPCompatibility](https://github.com/PHPCompatibility/PHPCompatibility) -  PHP CodeSniffer的PHP兼容性检查器.
 * [PhpDependencyAnalysis](https://github.com/mamuz/PhpDependencyAnalysis) - 用于创建可自定义依赖关系图的工具.
-* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - 静态度量库.
+* [PHP Metrics](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration](https://github.com/monque/PHP-Migration) - 用于PHP版本迁移的静态分析器.
 * [PHPStan](https://github.com/phpstan/phpstan) -  PHP静态分析工具.
 * [Psalm](https://github.com/vimeo/psalm) - 用于在PHP应用程序中查找错误的静态分析工具.
@@ -374,7 +375,7 @@
 
 * [GeoCoder](https://geocoder-php.org/) - 地理编码库.
 * [GeoJSON](https://github.com/jmikola/geojson) -  GeoJSON实现.
-* [GeoTools](https://github.com/thephpleague/geotools) - A library of geo-related tools.
+* [GeoTools](https://github.com/thephpleague/geotools) - 与地理相关的工具库.
 * [PHPGeo](https://github.com/mjaschen/phpgeo) - 一个简单的地理图书馆.
 
 ### Date and Time
@@ -424,7 +425,7 @@
 * [Dompdf](https://github.com/dompdf/dompdf) -  HTML到PDF转换器.
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - 用于从XML生成PDF和图像的库.
 * [Snappy](https://github.com/KnpLabs/snappy) -  PDF和图像生成库.
-* [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - 将HTML转换为PDF的工具.
+* [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - A tool to convert HTML to PDF.
 
 ### Office
 *用于处理办公室文件的图书馆.*
@@ -444,11 +445,11 @@
 * [Cake ORM](https://github.com/cakephp/orm) -  Object-Relational Mapper，使用DataMapper模式（CP）实现.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - 一系列Doctrine行为扩展.
 * [Doctrine](https://www.doctrine-project.org/) - 全面的DBAL和ORM.
-* [Eloquent](https://github.com/illuminate/database) - A simple ORM (L5).
+* [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM（L5）.
 * [Pomm](https://github.com/chanmix51/Pomm) -  PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 轻量级，无配置的ORM.
-* [Spot2](https://github.com/spotorm/spot2) -  MySQL数据文件夹ORM.
+* [Spot2](https://github.com/spotorm/spot2) -  MySQL数据目录ORM.
 
 ### Migrations
 用于帮助管理数据库模式和迁移的库.
@@ -463,7 +464,7 @@
 *使用“NoSQL”后端的库.*
 
 * [PHPMongo](https://github.com/sokil/php-mongo) -  MongoDB ORM.
-* [Predis](https://github.com/nrk/predis) - A feature complete Redis library.
+* [Predis](https://github.com/nrk/predis) - 功能齐全的Redis库.
 
 ### Queue
 *用于处理事件和任务队列的库.*
@@ -526,7 +527,7 @@
 * [Emoji](https://github.com/heyupdate/Emoji) - 将unicode字符和名称转换为表情符号图像的库.
 * [HTML to Markdown](https://github.com/thephpleague/html-to-markdown) - 将HTML转换为Markdown.
 * [HTML5 PHP](https://github.com/Masterminds/html5-php) -  HTML5解析器和序列化器库.
-* [Parsedown](https://github.com/erusev/parsedown) - 另一个Markdown解析器.
+* [Parsedown](https://github.com/erusev/parsedown) - Another Markdown parser.
 * [PHP Markdown](https://github.com/michelf/php-markdown) -  Markdown解析器.
 
 ### Strings
@@ -560,8 +561,8 @@
 
 * [Assert](https://github.com/beberlei/assert)   - 具有丰富断言的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - 提供验证和清理对象和数组的工具.
-* [Cake Validation](https://github.com/cakephp/validation) - Another validation library (CP).
-* [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库.
+* [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库（CP）.
+* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的图书馆，适用于许多国家/地区.
 * [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](http://json-schema.org) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML，JSON和XML的模式验证库.

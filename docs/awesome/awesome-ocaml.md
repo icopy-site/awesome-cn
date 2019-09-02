@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ocaml-community/awesome-ocaml"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的OCaml [![Build Status](https://travis-ci.org/ocaml-community/awesome-ocaml.svg?branch=master)](https://travis-ci.org/ocaml-community/awesome-ocaml)
 =============
 
@@ -37,7 +38,7 @@
 - [combine](https://github.com/backtracking/combine)   - 用于组合学的OCaml库 <https://www.lri.fr/~filliatr/combine/>  .
 - [Decompress](https://github.com/mirage/decompress) -  Zlib的纯OCaml实现.
 - [Ke](https://github.com/mirage/ke) - 在OCaml中快速实现队列（FIFO）.
-- [Duff](https://github.com/mirage/duff) - 由P. MacDonald在OCaml中实施Rabin的指纹和delta压缩（与...相同） [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
+- [Duff](https://github.com/mirage/duff) - Implementation of Rabin's fingerprint and delta compression by P. MacDonald in OCaml (same as [libXdiff](http://www.xmailserver.org/xdiff-lib.html)
 
 
 ## Application Libraries
@@ -72,7 +73,7 @@
 - [More OCaml: Algorithms, Methods, and Diversions](https://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/)   - 在更多OCaml中，John Whitington使用OCaml进行了函数式编程的蜿蜒之旅，介绍了各种语言特性并描述了一些经典算法.  本书以一个处理PDF文件生成的大型工作示例结束.  每章都有问题以及有效的答案和提示.
 - [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html)  作者：Allen Downey和Nicholas Monje  - 如何像计算机一样思考科学家是一本基于OCaml语言的入门编程教科书.  它是Allen Downey对Think Python的修改版本.  它适用于新手编程，也适合那些了解某些编程但希望学习面向函数范式编程的人，或者那些只想学习OCaml的人.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) 作者：J.Whitington  - 来自Very Beginning的OCaml将吸引新的程序员和有经验的程序员，他们渴望探索OCaml等功能语言.
-- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here](https://github.com/MassD/pearls).
+- [Pearls of Functional Algorithm Design](https://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383)  作者：Richard Bird  - 它总结了函数编程领域的30个硬算法问题.  虽然它适用于Haskell，但算法问题非常有趣，并且尝试在OCaml中解决它们也有助于思考函数式编程.  OCaml中的部分解决方案是 [here](https://github.com/MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) 由Y. Minsky，A.Madhavapeddy和J. Hickey撰写 - 为群众提供功能性编程.
 - [Unix System Programming in OCaml](https://ocaml.github.io/ocamlunix/) 由X. Leroy和D.Rémy撰写 - 介绍Unix系统编程，重点介绍进程之间的通信.
 - [Using, Understanding, and Unraveling OCaml](https://caml.inria.fr/pub/docs/u3-ocaml) - 本书描述了OCaml语言及其强大类型系统背后的理论基础.
@@ -222,7 +223,7 @@
 ## Formal Software Verification
 
 - [Coq](https://coq.inria.fr/)   -  Coq是一种正式的证明管理系统.  它提供了一种形式语言来编写数学定义，可执行算法和定理，以及用于机器检查证明的半交互式开发的环境.
-- [Why3](http://why3.lri.fr/)   -  Why3是演绎程序验证的平台.  它为规范和编程提供了丰富的语言，称为WhyML，并依赖于自动和交互式的外部定理证明来排除验证条件.
+- [Why3](http://why3.lri.fr/) – Why3 is a platform for deductive program verification. It provides a rich language for specification and programming, called WhyML, and relies on external theorem provers, both automated and interactive, to discharge verification conditions.
 - [Alt-Ergo](http://alt-ergo.lri.fr/) -  Alt-Ergo是一个开源SMT求解器，专门用于证明在程序验证环境中生成的数学公式.
 
 
@@ -370,7 +371,7 @@
 （_注意：从更容易使用到更灵活的排序._）
 
 -  **图书馆**：
-  - [Parmap](http://rdicosmo.github.io/parmap/) - 提供易于使用的平行地图和折叠功能.
+  - [Parmap](http://rdicosmo.github.io/parmap/) — Provides easy-to-use parallel map and fold functions.
   - [ForkWork](https://github.com/mlin/forkwork) - 一个简单的库，用于分叉子进程在多个核上执行工作.
   - [Functory](http://functory.lri.fr/About.html) - 分布式计算库，它以无缝方式促进可并行化计算的分布式执行.
   - [Rpc.Parallel](https://github.com/janestreet/rpc_parallel) - 用于在一组计算机上生成进程并在它们之间传递类型消息的库.
@@ -414,7 +415,7 @@
 
 ## Security and Cryptography
 
-- [ocaml-tls](https://github.com/mirleft/ocaml-tls) - 纯OCaml中的T​​LS.
+- [ocaml-tls](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 - [Digestif](https://github.com/mirage/digestif) -  OCaml和C中的哈希算法（如SHA *或BLAKE2 *）.
 - [cryptokit](https://github.com/xavierleroy/cryptokit) -  OCaml的Cryptokit库提供了各种加密原语，可用于在安全敏感的应用程序中实现加密协议.
 - [nocoiner](https://github.com/marcoonroad/nocoiner) - 用于多方计算的承诺计划库，例如在线拍卖和赌博.
@@ -491,9 +492,9 @@
     模块（http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/index.html）
     在Ocamlnet的手册中.
   - [tyxml](http://ocsigen.org/tyxml) - 库构建有效（根据W3C规范）Html和Svg树.
-  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
+  - [js_of_ocaml](http://ocsigen.org/js_of_ocaml)   -  Js_of_ocaml是对Javascript的OCaml字节码的编译器.  它使得在Web浏览器中运行Ocaml程序成为可能.
     - [commonjs_of_ocaml](https://github.com/AngryLawyer/commonjs_of_ocaml) - 从js_of_ocaml项目轻松导入和导出CommonJS模块.
-  - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
+  - [BuckleScript](https://github.com/bloomberg/bucklescript)   -  BuckleScript是OCaml的后端，用于生成可调试的Javascript.  它使OCaml能够以无缝方式集成Javascript平台.
   - [ocaml-uri](https://github.com/mirage/ocaml-uri) -  RFC3986 URI解析库.
   - [Goji](https://github.com/klakplok/goji) - 用于JavaScript库的OCaml绑定生成器.
   - [Syndic](https://github.com/Cumulus/Syndic) -  RSS和Atom feed解析

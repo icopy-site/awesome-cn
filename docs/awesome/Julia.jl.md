@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="svaksha/Julia.jl"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) 汇总和策划用于编程的知识资源的decibans [Julia](https://github.com/JuliaLang)，一种通用编程语言，可满足高性能数值分析和计算科学的需求.

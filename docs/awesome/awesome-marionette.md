@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sadcitizen/awesome-marionette"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; marionette.js的资源列表
@@ -88,7 +89,7 @@
 
 - [Marionette Require Boilerplate](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Marionette Contact Manager](https://github.com/dmytroyarmak/marionette-contact-manager) - 继续开发“Backbone Contact Manager”，但使用Marionette.js
-- [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - 一个轻量级的样板最初基于“Marionette Require Boilerplate”投影，与Gulp.js集成而不是Grunt.js
+- [Marionette, Require, and Gulp.js Boilerplate](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - 一个轻量级的样板最初基于“Marionette Require Boilerplate”项目，与Gulp.js集成而不是Grunt.js
 - [MarionetteJS + RequireJS + Twitter Bootstrap](https://github.com/ajaxray/marionette-boilerplate)   - 让我们开始跳舞吧！  这个样板是一个现成的设置，可以在几分钟内启动您的下一个很棒的JavaScript应用程序
 - [Marionette Gentle Introduction](https://github.com/davidsulc/marionette-gentle-introduction)
 - [Marionette Wires](https://github.com/thejameskyle/marionette-wires)

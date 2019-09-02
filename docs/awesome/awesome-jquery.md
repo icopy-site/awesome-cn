@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="petk/awesome-jquery"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome jQuery
 
 <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
@@ -71,7 +72,7 @@
 
 * [jQuery Foundation](https://jquery.org/) - 提供jQuery和许多其他项目回家和支持.
 * [jQuery Source Viewer](https://j11y.io/jquery/) - 浏览jQuery方法实现.
-* [Alternative jQuery Documentation Browser](http://jqapi.com/) - 更快捷地浏览jQuery文档.
+* [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 * [TodoMVC](https://github.com/tastejs/todomvc)   - 帮助您选择JavaScript框架.  在多个流行的JavaScript MV *框架中创建的相同Todo应用程序包括 [jQuery](http://todomvc.com/examples/jquery/).
 * [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
 * [Programming Community Curated Resources for Learning jQuery](https://hackr.io/tutorials/learn-jquery)
@@ -180,7 +181,7 @@
 * [jBox](https://github.com/StephanWagner/jBox) - 功能强大且灵活的插件，可以处理所有模态窗口，工具提示和通知.
 * [jQuery Modal](https://github.com/kylefox/jquery-modal) - 显示模态窗口的简单轻量级方法.
 * [jQuery Popup Overlay](https://github.com/vast-engineering/jquery-popup-overlay) - 响应式和可访问的模态窗口和工具提示.
-* [Lightbox](https://github.com/lokesh/lightbox2/) - JavaScript library used to overlay images on top of the current page.
+* [Lightbox](https://github.com/lokesh/lightbox2/) - 用于在当前页面顶部叠加图像的JavaScript库.
 * [Magnific Popup](https://github.com/dimsemenov/Magnific-Popup) - 快速，轻便，响应迅速的灯箱插件.
 * [SweetAlert](https://github.com/t4t5/sweetalert) -  JavaScript的警报的美丽替代品.
 * [tipso](https://github.com/object505/tipso) - 轻量级响应式jQuery Tooltip插件.
@@ -287,7 +288,7 @@
 * PHP：
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - 教程如何将BowerPHP，Mini-Asset和Robo.li组合到PHP前端资产构建管道中.
     * [symfony-collection](https://github.com/ninsuo/symfony-collection) -  jQuery插件，管理从Symfony2集合添加，删除和移动元素.
-* Python:
+* Python：
     * [django-static-jquery](https://pypi.org/project/django-static-jquery/) -  jQuery打包在一个方便的Django应用程序中，以加快新的应用程序和部署.
 * Ruby：
     * [jquery-rails](https://github.com/rails/jquery-rails) - 一个使用Rails自动使用jQuery的gem.
@@ -306,7 +307,7 @@
 * [Reddit](https://www.reddit.com/r/jquery) - 讨论和分享新闻，文章，插件和教程，涵盖jQuery Core，jQuery UI，jQuery Mobile和其他相关项目.
 * [Quora](https://www.quora.com/jQuery) - 在Quora网站上提问并回答问题.
 * [Meetup](https://www.meetup.com/topics/jquery/) - 参与当地活动.
-* [Twitter](https://twitter.com/jquery) -  Twitter上jQuery团队的官方新闻和更新.
+* [Twitter](https://twitter.com/jquery) - Official news and updates from the jQuery team on Twitter.
 
 
 ## Alternatives

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ironcev/awesome-roslyn"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
     <a href="https://github.com/dotnet/roslyn">
         <img src="https://raw.githubusercontent.com/ironcev/awesome-roslyn/master/images/awesome-roslyn-logo.png" alt="Awesome Roslyn" width="500">
@@ -20,7 +21,7 @@
 ## Books
 很棒的书籍，为您提供Roslyn的良好开端.
 
-- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn) - *Free e-book* by Alessandro Del Sole and the perfect book to start with. Explains Roslyn APIs and afterward focuses on writing analyzers and refactorings.
+- [Roslyn Succinctly](https://www.syncfusion.com/ebooks/roslyn)   -  * Alessandro Del Sole的免费电子书*以及完美的书籍.  解释Roslyn API，然后重点介绍编写分析器和重构.
 - [.NET Development Using the Compiler API](https://www.apress.com/la/book/9781484221105)   - 由Jason Bock预订.  除了分析器和重构之外，它还解释了脚本API，并对Compiler API的未来进行了有趣的反思.
 - [Roslyn Cookbook](https://www.packtpub.com/application-development/roslyn-cookbook) - Book by Manish Vasani, a member of the Roslyn analyzers team. After covering analyzers, refactorings, and scripting in detail, the book goes in-depth explaining how to develop new C# language features and contribute to the Roslyn source code.
 

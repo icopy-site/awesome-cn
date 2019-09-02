@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="tobiasbueschel/awesome-pokemon"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
     <img alt="Awesome Pokémon" src="https://raw.githubusercontent.com/tobiasbueschel/awesome-pokemon/master/logo.png" width="700">
@@ -78,7 +79,7 @@
 
 ## Resources & Others
 #### Communities
-- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - 神奇宝贝GO Subreddit.
+- [/r/pokemongo](https://www.reddit.com/r/pokemongo/) - 神奇宝贝GO子网.
 - [/r/pokemongodev](https://www.reddit.com/r/pokemongodev) - 逆向工程游戏/ API.
 - [/r/thesilphroad](https://www.reddit.com/r/thesilphroad) - 非常深入的游戏讨论等.
 - [RazerGo](https://go.razerzone.com/) - 本地化的神奇宝贝GO聊天.

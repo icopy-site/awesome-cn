@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sger/ElixirBooks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Contents
 ====
@@ -67,7 +68,7 @@ Contents
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/4181m33RmQL._SX415_BO1,204,203,200_.jpg" width="120px"/>
 
-> This book is the introduction to Elixir for experienced programmers, completely updated for Elixir 1.6 and beyond. Explore functional programming without the academic overtones (tell me about monads just one more time). Create concurrent applications, but get them right without all the locking and consistency headaches. Meet Elixir, a modern, functional, concurrent language built on the rock-solid Erlang VM. Elixir’s pragmatic syntax and built-in support for metaprogramming will make you productive and keep you interested for the long haul. Maybe the time is right for the Next Big Thing. Maybe it’s Elixir.
+ &gt;本书是Elixir对经验丰富的程序员的介绍，完全针对Elixir 1.6及更高版本进行了更新.  探索没有学术色彩的函数式编程（再次告诉我monad）.  创建并发应用程序，但在没有所有锁定和一致性问题的情况下正确应用它们.  遇见Elixir，一种基于坚如磐石的Erlang VM构建的现代，功能性并发语言.  Elixir的实用语法和对元编程的内置支持将使您高效并让您对长期感兴趣.  也许时间适合下一件大事.  也许是Elixir.
 
 ### [Learn You Some Erlang for Great Good](http://learnyousomeerlang.com)
 
@@ -163,7 +164,7 @@ Contents
 
 <img src="https://www.packtpub.com/sites/default/files/B08557.png" width="120px"/>
 
- 在本书中，您将学习如何在Erlang的OTP和使用Elixir自己的抽象之上构建坚如磐石的文件托管服务，这些抽象允许您构建易于并行和分发的应用程序.  您将使用GenStage处理文件上传，然后您将通过实施DSL来简化它.  您将使用Phoenix将您的应用程序公开给全世界.  完成实施后，您将学习如何将您的应用程序带到云中，使用Kubernetes自动部署，扩展和管理它.  最后，但并非最不重要的是，通过学习如何彻底测试并在应用程序上线时监控应用程序，您将保持高枕无忧.
+In this book you will learn how to build a rock-solid file hosting service on top of both Erlang’s OTP and using Elixir own abstractions, that allow you to build applications that are easy to parallelize and distribute. You'll use GenStage to process file uploads, and you'll then simplify it by implementing a DSL. You will use Phoenix to expose your application to the world. Upon finishing implementation, you will learn how to take your application to the cloud, using Kubernetes to automatically deploy, scale and manage it. Last, but not least, you will keep your peace of mind by both learning how to thoroughly test and then monitor your application when it goes live.
 
 **Web开发**
 ---
@@ -190,7 +191,7 @@ Contents
 
 <img src="https://elixirforum.com/uploads/default/original/2X/3/3cb36d46e9598b8d21ac061e67335d034c849e30.jpg" width="120px"/>
 
- 作为构建现代Web应用程序的无与伦比的平台，Elixir和Phoenix正在产生巨大的兴奋.  使用Elixir和OTP构建有状态的Web应用程序时，充分利用它们.  模拟没有ORM或数据库的域实体.  使用OTP行为管理服务器状态并保持代码清洁.  Phoenix Web界面上的层，而不将其耦合到业务逻辑.  打开强大的新技术之门，让您从根本上以全新的方式思考Web开发.
+Elixir and Phoenix are generating tremendous excitement as an unbeatable platform for building modern web applications. Make the most of them as you build a stateful web app with Elixir and OTP. Model domain entities without an ORM or a database. Manage server state and keep your code clean with OTP Behaviours. Layer on a Phoenix web interface without coupling it to the business logic. Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways.
 
 ### [Elixir and Elm Tutorial](https://leanpub.com/elixir-elm-tutorial)
 
@@ -231,7 +232,7 @@ Contents
 
 Contributing
 ====
-Your contributions are always welcome, just follow [the rules](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
+欢迎您的贡献，请关注 [the rules](https://github.com/sger/ElixirBooks/blob/master/CONTRIBUTING.md)!
 
 License
 ====

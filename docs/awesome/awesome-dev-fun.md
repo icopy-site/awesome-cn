@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mislavcimpersak/awesome-dev-fun"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;有趣的库/包/语言的精选列表，没有真正的目的，但让开发人员轻笑.
@@ -12,7 +13,7 @@
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - 感觉好极了Stevie Wonder这款适用于Android的模拟器.
-- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
+- [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) - 糟糕可怕的软键盘，可以在每次按下时随机键盘.
 - [holdr](https://github.com/starakaj/holdr) - 解决了解何时拿着手机的问题.
 
 
@@ -129,7 +130,7 @@
 - [genact](https://github.com/svenstaro/genact) -  shell的无意义活动生成器.
 - [fat](https://github.com/drummyfish/fat) - 扩展您的文件.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) - 一个命令行工具，可重现1992年电影“运动鞋”中的着名数据解密效果.
-- [sudont](https://github.com/cbondurant/sudont) - 授予超级用户权限，然后不执行任何操作.
+- [sudont](https://github.com/cbondurant/sudont) - Grants superuser permission, then does nothing.
 - [Sudo-Productivity](https://github.com/kyle8998/Sudo-Productivity)   - 最大限度地提高您的“生产力”！  由懒虫为懒虫制作的生产力套件.
 - [pipes.sh](https://github.com/pipeseroni/pipes.sh) - 动画管道终端屏幕保护程序.
 - [Chucknorris](https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins#chucknorris) -  ZSH的Chuck Norris财富插件.

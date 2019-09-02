@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="arslanbilal/git-cheat-sheet"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Git和Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
 ===============
 <hr>
@@ -111,12 +112,12 @@ $ git clone http://domain.com/user/repo.git
 
 ##### Create a new local repository in the current directory:
 ```
-$ go init
+$ git init
 ```
 
 ##### Create a new local repository in a specific directory:
 ```
-$ go init <directory>
+$ git init <directory>
 ```
 
 <hr>
@@ -227,7 +228,7 @@ $ git stash drop
 
 ##### A text search on all files in the directory:
 ```
-$ git“你好”
+$ git抓住了“你好”
 ```
 
 ##### In any version of a text search:
@@ -462,7 +463,7 @@ $ git mergetool
 
 ##### Merge branch into your current HEAD:
 ```
-$ git去了<branch>
+$ git有效<branch>
 ```
 
 ##### Rebase your current HEAD onto &lt;branch&gt;:<br>
@@ -488,7 +489,7 @@ $ git add <resolved-file>
 ```
 
 ```
-$ git rm <resolved-file>
+$ go rm <resolved-file>
 ```
 
 ##### Squashing commits:

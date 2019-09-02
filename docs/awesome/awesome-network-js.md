@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Kikobeats/awesome-network-js"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 &gt;纯JS编写的网络层资源列表.
@@ -9,7 +10,7 @@
 
 * [airpaste](https://github.com/mafintosh/airpaste) -  1-1使用mdns自动发现其他对等体的网络管道.
 * [blecat](https://github.com/mafintosh/blecat) -  1-1蓝牙低能耗管道.
-* [deejay](https://github.com/mafintosh/deejay) - 向同一网络上的每个人广播的音乐播放器.
+* [deejay](https://github.com/mafintosh/deejay) - 播放给同一网络上的每个人的音乐播放器.
 * [dhtkv](https://github.com/maxogden/dhtkv) - 用于在bittorrent主线DHT中存储任意键/值数据的CLI.
 * [gun](https://github.com/amark/gun) - 实时，分散，离线优先的图形数据库引擎.
 * [hyperpipe](https://github.com/mafintosh/hyperpipe) - 分布式输入/输出管道.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ibaaj/awesome-OpenSourcePhotography"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome-OpenSourcePhotography
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -15,7 +16,7 @@
 
 ## Camera Firmware Mods 
 
-- [CHDK](http://chdk.wikia.com/wiki/CHDK) - *Canon Hack Development Kit, for Canon cameras.* 
+- [CHDK](http://chdk.wikia.com/wiki/CHDK) -  *适用于佳能相机的Canon Hack开发套件.* 
 - [Magic Lantern](http://magiclantern.fm/) -  *一项软件增强功能，为佳能DSLR相机提供更多功能.*
 - [Autoexec Hack](https://github.com/KonradIT/autoexechack) -  * GoPro相机的黑客程序汇编.*
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) -  *更改Panasonic相机的视频录制参数.*
@@ -76,7 +77,7 @@
 - [Lychee](http://lychee.electerious.com/) -  *一个外观漂亮且易于使用的照片管理系统，您可以在服务器上运行，管理和共享照片.*
 - [Simple Gallery](https://github.com/SimpleMobileTools/Simple-Gallery/) -  * Android画廊应用程序，用于查看类似于Android库存库的照片和视频，支持文件复制/移动/重命名/删除/共享.*
 - [Leaf Pic](https://github.com/HoraApps/LeafPic/) -  *材料设计的android gallery替代品.*
-- [A Photo Manager](https://github.com/k3b/APhotoManager/) -  *管理Android上的本地照片：图库，带照片地图的地理标签，标签，查找，排序，查看，复制，删除，发送，... *
+- [A Photo Manager](https://github.com/k3b/APhotoManager/) -  *在Android上管理本地照片：图库，带照片地图的地理标签，标签，查找，排序，查看，复制，删除，发送，... *
 ## EXIF Editors
 
 - [ExifTool](http://owl.phy.queensu.ca/~phil/exiftool/) -  *用于读取，写入和操作图像，音频和视频元数据的程序.*
@@ -154,7 +155,7 @@ ffmpeg -i video.avi -r 5 -qscale 3 tmp / images / image-％3d.jpg
 pto_gen -o tmp / hugin.pto tmp / images / * .jpg
 cpfind --multirow -o tmp / hugin.pto tmp / hugin.pto
 cpclean -o tmp / hugin.pto tmp / hugin.pto
-linefind -o tmp / hugin.pto tmp / hugin.pto
+linefind -o tmp/hugin.pto tmp/hugin.pto
 autooptimiser -a -l -s -m -o tmp / hugin.pto tmp / hugin.pto
 pano_modify -o tmp / hugin.pto --center --fov = AUTO --canvas = 70％tmp / hugin.pto
 pto2mk -o tmp / hugin.mk -p tmp / output tmp / hugin.pto

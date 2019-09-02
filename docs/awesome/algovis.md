@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="enjalot/algovis"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =======
 
@@ -37,7 +38,7 @@ algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78
 
 ## Libraries & tools
 
-* [Tailspin](http://will.thimbleby.net/algorithms/doku.php) ：JS中的JS解释器，它运行算法并让可视化检查局部变量.  记录历史记录以允许倒退.
+* [Tailspin](http://will.thimbleby.net/algorithms/doku.php) ：JS中的JS解释器，它运行算法并让可视化检查局部变量.  记录历史以允许后退.
 * [Vamonos](http://rosulek.github.io/vamonos/)：使用伪代码显示给读者和下面的JS版本的算法可视化，以及一些有用的小部件来显示伪代码，调用堆栈，数据结构
 * [Algomation](http://www.algomation.com/)：算法可视化，使用JS生成器在算法执行和浏览器事件循环之间传递控制
 * [Algorithm Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)

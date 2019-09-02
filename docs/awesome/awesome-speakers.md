@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="karlhorky/awesome-speakers"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Speakers [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;编程和设计社区中令人敬畏的演讲者
@@ -17,13 +18,13 @@
 
 <img src="https://twitter.com/onejsninja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Adebayo Opesanya ** \ t
+**赔率优惠**
 主题：JavaScript，Node.js，打字稿，测试，社区，\
 https://twitter.com/onejsninja
 
 <img src="https://twitter.com/codebeast/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**基督徒男孩**
+** Christian Cats **
 主题：JavaScript，React，Vue，Angular，Progressive Web Apps，CSS，Standards \
 https://twitter.com/codebeast
 
@@ -207,13 +208,13 @@ https://twitter.com/zellwk
 
 <img src="https://twitter.com/glenmaddern/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Glen Maddern ** \ t
+** Glen Maddern ** \
 主题：CSS，样式组件，React，JavaScript \
 https://twitter.com/glenmaddern
 
 <img src="https://twitter.com/fox/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Karolina Rat **
+** Karolina Szczur ** \
 主题：CSS，HTML，Web，包容性，多样性\
 https://twitter.com/fox
 
@@ -237,7 +238,7 @@ https://twitter.com/philnash
 
 <img src="https://twitter.com/ddprrt/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Stefan Baumgartner **
+**Stefan Baumgartner**\
 主题：Web Ops，JavaScript，CSS，工具\
 https://twitter.com/ddprrt
 
@@ -283,19 +284,19 @@ https://twitter.com/glnnrys
 
 <img src="https://twitter.com/mrozilla/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Jan Hruby ** \ t
+** Jan Hruby
 主题：React，Redux，JS in JS，React Native，Serverless，GraphQL \
 https://twitter.com/mrozilla
 
 <img src="https://twitter.com/bebraw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**JuhoVepsäläinen** \ t
+**JuhoVepsäläinen** \
 主题：3D图形，商业，反应，webpack，写作\
 https://twitter.com/bebraw
 
 <img src="https://twitter.com/karlhorky/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Karl Horky ** \ t
+** Karl Horky
 主题：工具，标准，交叉性，OSS，心理学
 https://twitter.com/karlhorky
 
@@ -307,7 +308,7 @@ https://twitter.com/mmatuzo
 
 <img src="https://twitter.com/mxbck/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**MaxBöck**
+**MaxBöck** \
 主题：CSS，JavaScript，Progressive Web Apps \
 https://twitter.com/mxbck
 
@@ -319,7 +320,7 @@ https://twitter.com/mxstbr
 
 <img src="https://twitter.com/nikgraf/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Nik Graf ** \
+**尼克图**
 主题：ReasonML，无服务器，GraphQL，虚拟现实，React \
 https://twitter.com/nikgraf
 
@@ -343,7 +344,7 @@ https://twitter.com/ferakpeter
 
 <img src="https://twitter.com/defuex/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Timo Obereder ** \ t
+** Timo Obereder ** \
 主题：React，Composition，Android，RXJava，Kotlin \
 https://twitter.com/defuex
 
@@ -373,7 +374,7 @@ https://twitter.com/rstankov
 
 <img src="https://twitter.com/mafintosh/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Mathias Buus **
+** Mathias Buus ** \
 主题：Peer to Peer，Node.js \
 https://twitter.com/mafintosh
 
@@ -385,7 +386,7 @@ https://twitter.com/enthusiasto
 
 <img src="https://twitter.com/terezk_a/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Tereza Sokol ** \ t
+** Tereza Sokol
 主题：榆树，可视化\
 https://twitter.com/terezk_a
 
@@ -395,7 +396,7 @@ https://twitter.com/terezk_a
 
 <img src="https://pbs.twimg.com/profile_images/875429349574537217/JZi26Mju_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
-** Juha Lindstedt ** \ t
+** Juha Lindstedt **
 主题：JavaScript，RE：DOM，渐进式Web应用程序，性能，标准，CSS，Node.js \
 https://twitter.com/pakastin
 
@@ -419,7 +420,7 @@ https://twitter.com/EmmanuelDemey
 
 <img src="https://twitter.com/manekinekko/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Wassim Chegham **
+Wassim Chegham **
 主题：Angular，JavaScript，Progressive Web Apps，Chatbots，Firebase，Cloud，物联网\
 https://twitter.com/manekinekko
 
@@ -457,13 +458,13 @@ https://twitter.com/iamsapegin
 
 <img src="https://twitter.com/sonniesedge/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Charlie Owen**\
+**查理欧文**
 主题：CSS，辅助功能
 https://twitter.com/sonniesedge
 
 <img src="https://twitter.com/hermagrini/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**HernánMagrini**
+**HernánMagrini** \
 主题：网络性能，服务工作者
 https://twitter.com/hermagrini
 
@@ -493,7 +494,7 @@ https://twitter.com/oleg008
 
 <img src="https://twitter.com/robinpokorny/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Robin Pokorny **
+** Robin Humble ** \
 主题：Jest，React，AMP，Elm \
 https://twitter.com/robinpokorny
 
@@ -517,7 +518,7 @@ https://twitter.com/Srushtika
 
 <img src="https://twitter.com/yoshuawuyts/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Yoshua Wuyts**\
+** Yoshua Wuyts **
 主题：框架，简洁性，标准，图书馆\
 https://twitter.com/yoshuawuyts
 
@@ -589,7 +590,7 @@ https://twitter.com/fhinkel
 
 <img src="https://twitter.com/mathias/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Mathias Bynens **
+** Mathias Bynens ** \
 主题：JavaScript（TC39），V8，Chrome \
 https://twitter.com/mathias
 
@@ -653,7 +654,7 @@ https://twitter.com/augeva
 
 <img src="https://twitter.com/barryosull/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**巴里奥沙利文**
+** Barry O&#39;Sullivan **
 主题：PHP，测试，领域驱动设计，事件采购\
 https://twitter.com/barryosull
 
@@ -707,7 +708,7 @@ https://twitter.com/Lynsey_Duncan
 
 <img src="https://twitter.com/princessmaja/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Maja Grubic **
+** Maja Grubic ** \
 主题：Node.js，JavaScript，React，Monitoring，D3，SVG \
 https://twitter.com/princessmaja
 
@@ -755,7 +756,7 @@ https://twitter.com/serifritsch
 
 <img src="https://twitter.com/malyw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Serg Hospodarets ** \ t
+** Serg Hospodarets **
 主题：JavaScript，CSS，CSS Houdini \
 https://twitter.com/malyw
 
@@ -850,7 +851,7 @@ https://twitter.com/carmenpopoviciu
 
 <img src="https://twitter.com/chidinmako/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Chidinma Kalu ** \ t
+** Chidinma Kalu ** \
 主题：JavaScript，TypeScript，Python，机器学习\
 https://twitter.com/chidinmako
 
@@ -932,7 +933,7 @@ https://twitter.com/antonbabenko
 
 <img src="https://twitter.com/kejt_bw/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**KasiaJastrzębska**
+**KasiaJastrzębska** \
 主题：React，Redux，Async，JS in JS，ClojureScript \
 https://twitter.com/kejt_bw
 
@@ -952,7 +953,7 @@ https://twitter.com/szynszyliszys
 
 <img src="https://twitter.com/kaapa_s/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**KacperSokołowski**
+**KacperSokołowski** \
 主题：JavaScript，安全，服务工作者\
 https://twitter.com/kaapa_s
 
@@ -966,7 +967,7 @@ https://twitter.com/kdzwinel
 
 <img src="https://twitter.com/tlakomy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**TomaszŁakomy**
+**TomaszŁakomy** \
 主题：React，虚拟现实，jQuery \
 https://twitter.com/tlakomy
 
@@ -974,13 +975,13 @@ https://twitter.com/tlakomy
 
 <img src="https://twitter.com/aganaplocha/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Aga Naplocha ** \ t
+** Aga Naplocha **
 主题：CSS，教学Web技术
 https://twitter.com/aganaplocha
 
 <img src="https://twitter.com/tomasz_ducin/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Tomasz Ducin **
+** Tomasz Ducin ** \
 主题：JavaScript，TypeScript，React，Angular，RxJS，Async，Architecture \
 https://twitter.com/tomasz_ducin
 
@@ -1006,7 +1007,7 @@ https://twitter.com/thymikee
 
 <img src="https://avatars1.githubusercontent.com/u/7837457?s=400&v=4" height="70px" width="70px" align="left" alt="" />
 
-** Mike Chudziak **
+** Mike Chudziak ** \
 主题：React，React Native，iOS，Android \
 https://twitter.com/michal_chudziak
 
@@ -1045,14 +1046,14 @@ https://twitter.com/daviddias
 <img src="https://pbs.twimg.com/profile_images/825505237926506496/mhpudjxs_400x400.jpg" height="70px" width="70px" align="left" alt="" />
 
 ** Miguel Andrade **
-主题：男人，JavaScript \ t
+主题：男人，JavaScript \
 https://twitter.com/maskedwarrior
 
 ## Romania 🇷🇴
 
 <img src="https://twitter.com/martonkodok/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**MártonKodok** \ t
+**马丁科多克**
 主题：BigQuery，数据库，基于语音的界面，云，架构\
 https://twitter.com/martonkodok
 
@@ -1138,7 +1139,7 @@ https://twitter.com/D3DVincent
 
 <img src="https://twitter.com/erikras/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Erik Rasmussen **
+** Erik Rasmussen ** \
 主题：React，Redux，Redux-Form，Forms \
 https://twitter.com/erikras
 
@@ -1154,7 +1155,7 @@ https://twitter.com/g33konaut
 
 <img src="https://twitter.com/thefubhy/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**Sebastian Siemssen**\
+** Sebastian Siemssen **
 主题：React，GraphQL，工具\
 https://twitter.com/thefubhy
 
@@ -1320,7 +1321,7 @@ https://twitter.com/LukeB_UK
 
 <img src="https://twitter.com/lady_ada_king/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**有玫瑰炮**
+**有一个玫瑰炮**
 主题：HTML，CSS，JavaScript，WebVR，Web技术，渐进式Web应用程序
 https://twitter.com/lady_ada_king
 
@@ -1338,7 +1339,7 @@ https://twitter.com/alex_lobera
 
 <img src="https://twitter.com/iotwatch/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Alexandra Deschamps-Sonsino ** \ t
+** Alexandra Deschamps-Sonsino ** \
 主题：物联网，智能家居，连接设备
 https://twitter.com/iotwatch
 
@@ -1368,7 +1369,7 @@ https://twitter.com/bodil
 
 <img src="https://twitter.com/chris_noring/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**克里斯·诺林**
+** Chris Noring ** \
 主题：JavaScript，RxJS，Angular，React \
 https://twitter.com/chris_noring
 
@@ -1444,7 +1445,7 @@ https://twitter.com/heydonworks
 
 <img src="https://twitter.com/ninjanails/profile_image?size=original" height="70px" width="auto" align="left" />
 
-** Star Davies ** \ t
+** Seren Davies **
 主题：可访问性
 https://twitter.com/ninjanails
 
@@ -1480,7 +1481,7 @@ https://twitter.com/AurelienLoyer
 
 <img src="https://twitter.com/shehackspurple/profile_image?size=original" height="70px" width="70px" align="left" alt="">
 
-**问Janca ** \
+**问更多**
 主题：InfoSec，Web App Security \
 https://twitter.com/shehackspurple
 
@@ -1546,7 +1547,7 @@ https://twitter.com/mjackson
 
 <img src="https://twitter.com/levibostian/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Levi Bostian ** \ t
+** Levi Bostian **
 主题：Android，RxJava，Kotlin，Freelancing，Swift，iOS，Productivity，Startups，Bootstrapping
 https://twitter.com/levibostian
 
@@ -1654,13 +1655,13 @@ https://twitter.com/jaredpalmer
 
 <img src="https://twitter.com/jensimmons/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Just Simmons ** \ t
+**席梦思只**
 主题：设计，CSS，HTML，Web \
 https://twitter.com/jensimmons
 
 <img src="https://twitter.com/joe_sepi/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-**乔孤独**
+**乔是孤独的**
 主题：开源，社区，Node.js，JavaScript \
 https://twitter.com/joe_sepi
 
@@ -1684,7 +1685,7 @@ https://twitter.com/kosamari
 
 <img src="https://twitter.com/peggyrayzis/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Peggy Rayzis ** \
+** Peggy Rayzis **
 主题：React，React Native，GraphQL \
 https://twitter.com/peggyrayzis
 
@@ -1835,7 +1836,7 @@ https://twitter.com/bcherny
 <img src="https://twitter.com/brynn/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 ** Brynn Evans ** \
-主题：设计，管理
+Topics: Design, Management\
 https://twitter.com/brynn
 
 <img src="https://twitter.com/cordeliadillon/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1852,7 +1853,7 @@ https://twitter.com/standardista
 
 <img src="https://twitter.com/fvcproductions/profile_image?size=original" height="70px" width="70px" align="left" alt="Frances Coronel" />
 
-** Frances Coronel **
+** Frances上校**
 主题：渐进式Web应用程序，TypeScript，Web设计，开源\
 https://twitter.com/fvcproductions
 
@@ -1888,7 +1889,7 @@ https://twitter.com/lisaychuang
 
 <img src="https://twitter.com/mike_matas/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Mike Matas ** \ t
+** Mike Matas **
 主题：人机界面设计
 https://twitter.com/mike_matas
 
@@ -1925,7 +1926,7 @@ https://twitter.com/sarah_edo
 <img src="https://twitter.com/sgrove/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **肖恩格罗夫**
-主题：GraphQL，ReasonML，OCaml \
+Topics: GraphQL, ReasonML, OCaml\
 https://twitter.com/sgrove
 
 <img src="https://twitter.com/stefsull/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
@@ -1980,7 +1981,7 @@ https://twitter.com/obetomuniz
 
 <img src="https://twitter.com/fdaciuk/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Fernando Daciuk ** \ t
+** Fernando Daciuk **
 主题：React，JavaScript \
 https://twitter.com/fdaciuk
 

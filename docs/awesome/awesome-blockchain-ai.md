@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="steven2358/awesome-blockchain-ai"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Blockchain AI  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;人工智能和机器学习区块链项目的精选列表.
@@ -32,7 +33,7 @@
 - [SingularityNET](https://singularitynet.io/) -  SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都备份AI算法.
 - [Intuition Fabric](https://intuitionfabric.com) -  Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络实现对AI的访问民主化.
 - [Cerebrum](https://cerebrum.world/)   -  Cerebrum是众包机器学习的分散平台.  Cerebrum使任何人都可以加密他们的数据并主持机器学习竞赛，以利用众包机器学习模型. 
-- [OpenMined](https://openmined.org/)   -  OpenMined是一个专注于为分散的数据和情报所有权构建开源技术的社区.  通过OpenMined，AI可以接受从未访问过的数据的培训.
+- [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
 - [Effect.ai](https://effect.ai) -  Effect.ai是一个区块链驱动的分散式平台，用于人工智能开发和AI相关服务.
 - [Decentralized Machine Learning](https://decentralizedml.com/) -  DML旨在创建基于区块链的分散式机器学习协议和生态系统.
 - [Raven Protocol](https://www.ravenprotocol.com/) -  Raven Protocol是一种分散的分布式深度学习培训协议.
@@ -44,7 +45,7 @@
 
 ## Blockchains for data
 
-- [Ocean Protocol](https://oceanprotocol.com/)   - 海洋议定书是一种分散的数据交换协议，它允许人们共享数据并从中获利，同时保证所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据的存储（即谁拥有什么），数据本身的链接等等.
+- [Ocean Protocol](https://oceanprotocol.com/)   - 海洋议定书是一种分散的数据交换协议，允许人们共享数据并从中获利，同时保证所有参与者的控制，可审计性，透明度和合规性.  它的网络处理元数据的存储（即谁拥有什么），数据本身的链接等等.
 - [Neuromation](https://neuromation.io/) - 合成数据集生成和算法训练平台.
 - [BOTTOS AI](https://bottos.org/) - 分散式AI数据共享网络，使用基于共识的应用程序平台，允许AI项目收集培训数据.
 - [Computable](https://www.computable.io/) - 用于人工智能应用的分散式数据市场.
@@ -67,7 +68,7 @@
 
 ## Blockchains for AI in medicine
 
-- [doc.ai](https://doc.ai/about) - doc.ai aims to decentralize precision medicine on the blockchain by using AI.
+- [doc.ai](https://doc.ai/about) -  doc.ai旨在通过使用AI将精准医学分散到区块链上.
 - [BurstIQ](https://www.burstiq.com/) - 医疗保健数据市场.
 
 ## Blockchains for AI in supply chains

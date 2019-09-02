@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dhamaniasad/awesome-postgres"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
@@ -36,7 +37,7 @@
 * [Adminer](https://www.adminer.org/) - 用PHP编写的全功能数据库管理工具.
 * [OmniDB](https://omnidb.org/en/) - 开源协作环境
 用于数据库管理
-* [DataGrip](https://www.jetbrains.com/datagrip/) - 具有高级工具集和良好的跨平台经验的IDE（商业软件）.
+* [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
 * [Datazenit](https://datazenit.com/) - 基于Web的PostgreSQL GUI（商业软件）.
 * [DBeaver](https://dbeaver.io/) - 通用数据库管理器，对PostgreSQL提供出色的支持.
 * [dbglass](http://dbglass.web-pal.com) - 使用Electron构建的PostgreSQL跨平台桌面客户端.
@@ -47,10 +48,10 @@
 * [pgAdmin](https://www.pgadmin.org/) -  PostgreSQL管理和管理GUI.
 * [pgModeler](https://pgmodeler.io/) -  pgModeler是一个开源的PostgreSQL数据库建模器.
 * [pgweb](https://github.com/sosedoff/pgweb) - 用Go编写的基于Web的PostgreSQL数据库浏览器.
-* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [phpPgAdmin](https://github.com/phppgadmin/phppgadmin) -  PostgreSQL的Premier Web管理工具.
 * [Postbird](https://github.com/Paxa/postbird) - 用于macOS的PostgreSQL客户端.
 * [Postico](https://eggerapps.at/postico/) - 用于macOS的现代PostgreSQL客户端（商业软件）.
-* [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
+* [PSequel](http://www.psequel.com/) - 简洁的界面，可快速执行常见的PostgreSQL任务（商业软件）.
 * [SQL Tabs](http://www.sqltabs.com/) - 用JS编写的PostgreSQL跨平台桌面客户端.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - 用于macOS（商业软件）的简单，强大的PostgreSQL管理器.
 * [temBoard](https://github.com/dalibo/temboard) - 基于Web的PostgreSQL GUI和监控.
@@ -132,7 +133,7 @@
 * [PGInsight](http://pginsight.io/) -  CLI工具，可以轻松深入挖掘PostgreSQL数据库.
 * [pg_insights](https://github.com/lob/pg_insights) - 用于监控Postgres数据库运行状况的便捷SQL.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程读取和写入数据.
-* [pgMustard](https://www.pgmustard.com/) - 现代用户界面
+* [pgMustard](https://www.pgmustard.com/) - A modern user interface
 对于`EXPLAIN ANALYSE`，它还提供了性能提示（商业软件）.
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池，复制，负载平衡和限制超连接的中间件.
 * [pgsync](https://github.com/ankane/pgsync) - 将PostgreSQL数据同步到本地计算机的工具.
@@ -167,7 +168,7 @@
 * Python： [psycopg2](https://pypi.org/project/psycopg2/)
 * Ruby： [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
 *锈： [rust-postgresql](https://github.com/sfackler/rust-postgres)
-* Lua： [luapgsql](https://github.com/arcapos/luapgsql)
+*位置： [luapgsql](https://github.com/arcapos/luapgsql)
 
 ### PaaS *(PostgreSQL as a Service)*
 * [Aiven PostgreSQL](https://aiven.io/postgresql)   -  PostgreSQL作为AWS，Azure，DigitalOcean，Google Cloud和UpCloud中的服务;  计划范围从每月19美元的单节点实例到大型高可用性设置，免费试用两周.
@@ -203,7 +204,7 @@
 * [Andrew Dunstan's PostgreSQL and Technical blog](http://adpgtech.blogspot.com/search/label/PostgreSQL/)
 * [Bruce Momjian's PostgreSQL blog](http://momjian.us/main/blogs/pgblog.html)
 * [Craig Kerstiens PostgreSQL posts](http://www.craigkerstiens.com/categories/postgres/) - 关于PostgreSQL的一些帖子很酷的功能，提示和技巧.
-* [Database Soup](http://www.databasesoup.com/search/label/postgresql/) -  Josh Berkus博客.
+* [Database Soup](http://www.databasesoup.com/search/label/postgresql/) -  Josh Berkus的博客.
 * [Michael Paquier's blog](https://paquier.xyz/)
 * [Robert Haas' blog](http://rhaas.blogspot.com/search/label/postgresql/)
 * [select * from depesz;](https://www.depesz.com/tag/postgresql/) -  Hubert Lubaczewski的博客.
@@ -223,7 +224,7 @@
 * [Postgres Weekly](https://postgresweekly.com/) - 每周简报，其中包含与PostgreSQL相关的文章，新闻和回购.
 
 ### Videos
-* [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) -  Citus相关视频
+* [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - 其他相关视频
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB相关视频
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - 会议视频
 

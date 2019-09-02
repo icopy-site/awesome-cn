@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="alferov/awesome-gulp"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的精选列表 [gulp](https://github.com/gulpjs/gulp) 资源，插件和样板，以实现更好的开发工作流程自动化.
@@ -226,7 +227,7 @@
 - [del](https://github.com/sindresorhus/del) - 使用globs删除文件/文件夹.
 - [gulp-exec](https://github.com/robrich/gulp-exec) - 运行shell命令.
 - [gulp-strip-debug](https://github.com/sindresorhus/gulp-strip-debug) - 从JavaScript代码中删除控制台，警报和调试器语句.
-- [gulp-cssimport](https://github.com/unlight/gulp-cssimport) - 解析CSS文件，查找导入，获取链接文件的内容并用它替换import语句.
+- [gulp-cssimport](https://github.com/unlight/gulp-cssimport) - 解析CSS文件，查找导入，抓取链接文件的内容并用它替换import语句.
 - [gulp-inline-css](https://github.com/jonkemp/gulp-inline-css) - 将CSS属性内联到HTML文件的style属性中.
 - [gulp-gh-pages](https://github.com/shinnn/gulp-gh-pages) - 将内容发布到Github页面.
 - [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - 添加AngularJS依赖注入注释 [ng-annotate](https://github.com/olov/ng-annotate).
@@ -252,7 +253,7 @@
 - [hapi-ninja](https://github.com/poeticninja/hapi-ninja) -  Node.js，Hapi和Swig样板.
 - [laravel-5-boilerplate](https://github.com/rappasoft/laravel-5-boilerplate) -  Laravel 5样板项目.
 - [react-starterkit](https://github.com/wbkd/react-starterkit) -  React入门套件，包含react-router，Reflux，jest，webpack，gulp和Stylus.
-- [gulp-front](https://github.com/zoxon/gulp-front) - 基于gulp，哈巴狗，手写笔，postcss，webpack和babel的前端样板和模块化BEM css框架.
+- [gulp-front](https://github.com/zoxon/gulp-front) - Frontend boilerplate and modular BEM css framework based on gulp, pug, stylus, postcss, webpack and babel.
 - [Front End Starter](https://github.com/Puritanic/Frontend-Starter-Kit) - 由Gulp，HTML5 bolierplate，Sass，PostCss和Webpack（用于Babel转换）提供支持的前端项目的样板.
 
 ### Yeoman Generators
@@ -261,9 +262,9 @@
 - [generator-gulp-angular](https://github.com/Swiip/generator-gulp-angular) - 用于AngularJS的Yeoman发电机.
 - [generator-react-gulp-browserify](https://github.com/randylien/generator-react-gulp-browserify)   - 用于React库的Yeoman Generator.  它包括gulp，Browserify，Browsersync和Bootstrap.
 - [generator-node-gulp](https://github.com/youngmountain/generator-node-gulp) -  Node.js模块生成器，包括gulp和Mocha.
-- [generator-gulp-bootstrap](https://github.com/niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass.
+- [generator-gulp-bootstrap](https://github.com/niallobrien/generator-gulp-bootstrap) - 用于Bootstrap，gulp和libsass的Yeoman生成器.
 - [generator-angulpify](https://github.com/jgoux/generator-angulpify) - 涉及AngularJS，gulp和Browserify的Yeoman生成器.
-- [generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - 用于Ionic Projects的Yeoman发电机.
+- [generator-ionic-gulp](https://github.com/tmaximini/generator-ionic-gulp) - 用于Ionic项目的Yeoman发电机.
 - [generator-gulp-plugin-boilerplate](https://github.com/sindresorhus/generator-gulp-plugin-boilerplate) - 脚手架出来了 [gulp plugin boilerplate](https://github.com/sindresorhus/gulp-plugin-boilerplate).
 - [generator-jekyllized](https://github.com/sondr3/generator-jekyllized) -  Jekyll工作流程，包括gulp，Sass，AutoPrefixer，资产优化和缓存清除等等.
 

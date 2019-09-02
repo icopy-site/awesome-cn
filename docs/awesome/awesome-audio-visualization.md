@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="willianjusten/awesome-audio-visualization"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <img id="awesome-audio-visualization" src="https://raw.githubusercontent.com/willianjusten/awesome-audio-visualization/master/logo-aav.gif" alt="Logo AAV">
 </p>
@@ -59,11 +60,11 @@
 - [Pareidolia](https://www.uberviz.io/viz/pareidolia/) - 威尼斯人Snares的“不幸”WebGL Visualizer.
 - [Soundviz](http://work.bartekdrozdz.com/soundviz/) - 具有Leap Motion交互性的5种不同声音可视化效果.
 - [Splice](https://www.uberviz.io/viz/splice/) - 使用Splice即将推出的可视化API的时间码数据的实时交互式音乐可视化工具.
-- [Typatone](http://www.typatone.com/) - Make music while you write.
+- [Typatone](http://www.typatone.com/) - 写作时制作音乐.
 - [Yume](http://unseen-music.com/yume/) -  Helios&#39;“Yume”专辑的竞选活动.
 - [Spins](http://mattdesl.github.io/spins/) - 由Matt DesLauriers在极坐标中渲染波形的Audio Visualizer.
-- [Silk](http://mattdesl.github.io/codevember/21.html) -  Matt DesLauriers的3D Audio Visualizer.
-- [Wave](http://mattdesl.github.io/codevember/3.html) -  Matt DesLauriers的3D Audio Visualizer.
+- [Silk](http://mattdesl.github.io/codevember/21.html) - 3D Audio Visualizer by Matt DesLauriers.
+- [Wave](http://mattdesl.github.io/codevember/3.html) - 3D Audio Visualizer by Matt DesLauriers.
 - [Binaural](http://mattdesl.github.io/codevember/6.html) - 使用Matt DesLauriers的双声道和混响音频效果进行实验.
 - [Beatgrid](http://mattdesl.github.io/codevember/8.html) - 使用Matt DesLauriers的音频节拍检测实验.
 - [Party](http://mattdesl.github.io/codevember/13.html) -  Matt DesLauriers的2D Audio Visualizer.
@@ -72,7 +73,7 @@
 - [Audio Cloud](http://ma77os.cc/lab/audio-cloud/) - 基于快速傅里叶变换谱的音频分析的反应粒子系统.
 - [Glitch](http://naivesound.com/glitch/) - 用于从数学中制作音乐的算法合成器.
 - [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) -  Clara Rockmore生日的涂鸦.
-- [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - OndřejŽára的声音烟花.
+- [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) - 由Alejandro Mantecon Guillen从你的github存储库创建音乐.
 - [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - 使用鼠标，Qwerty键盘或MIDI键盘进行游戏，并观看灯光与您的音乐共舞.
 - [Mmorph](http://mmorph.massivemusic.com/) - 探索在浏览器内外提供交互式音乐的新方式.
@@ -141,7 +142,7 @@
 - [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/) - 使用Joe Harry的音序器创建音乐.
 - [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - 基于Luigi Mannoni的HTML5 AudioContext API的ThreeJS / WebGL Soundcloud播放器/可视化器.
 - [Oscilator](http://codepen.io/easwee/pen/sFpmo) - 由AnejGorkič从HTML5音频API测试振荡器节点.
-- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) - 10th contribution for codevember 2015 by Patrick Heng.
+- [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) -  Patrick Heng为Codevember 2015做的第10次贡献.
 - [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
 - [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - 使用p5.js 3D元素和Soundcloud API进行音频可视化
 - [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) -  Tim Pietrusky使用惊人的分析仪进行音频可视化.

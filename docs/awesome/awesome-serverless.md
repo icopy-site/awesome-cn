@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="pmuens/awesome-serverless"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;关于无服务器的所有资源的策划列表.
@@ -13,7 +14,7 @@
 
 ## General
 
-- [Serverless.com](http://serverless.com) - Serverless.com homepage.
+- [Serverless.com](http://serverless.com) -  Serverless.com主页.
 - [Documentation](http://docs.serverless.com) -  Serverless.com文档.
 - [Forum](http://forum.serverless.com) - 官方无服务器论坛.
 - [Meetups](http://serverlessmeetups.com) - 列出所有官方无服务器聚会.
@@ -24,7 +25,7 @@
 - [Serverless Summit](http://inserverless.com) - 关于无服务器技术/计算的会议.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - 无服务器框架插件的目录.
 - [OpenEvents](https://openevents.io) - 以通用方式描述事件数据的规范.
-- [The power of serverless](https://thepowerofserverless.info) - 概述为什么无服务器是一个很好的选择 - 特别是对于前端开发人员.
+- [The power of serverless](https://thepowerofserverless.info) - Overview why serverless is a great choice - especially for frontend developers.
 
 ## Blogs
 

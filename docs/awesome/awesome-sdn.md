@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sdnds-tw/awesome-sdn"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
 关于软件定义网络（SDN）的精彩列表
@@ -20,7 +21,7 @@ MPLS和SDN等功能
 - [SONiC](https://azure.github.io/SONiC/) - 云中开放网络的软件
 SONiC
 - [Stratum](https://stratumproject.org/) - 用于软件定义网络的开源，独立于硅的交换机操作系统
-- [OpenWrt](https://openwrt.org/) - 是针对嵌入式设备的Linux操作系统.
+- [OpenWrt](https://openwrt.org/) -  Is a Linux Operating System targeting embedded devices.
 
 
 ## Install Environment
@@ -60,7 +61,7 @@ SONiC
 
 - [lighty.io core](https://github.com/PantheonTechnologies/lighty-core) -  lighty.io核心组件 - 用于构建基于Java的SDN控制器的开源开发框架.
 - [NOX](https://github.com/noxrepo/nox) - 基于C ++的软件定义网络（* SDN *）控制应用程序的开源开发平台.
-- [POX](https://github.com/noxrepo/pox) - 基于Python的软件定义网络（* SDN *）控制应用程序的开源开发平台.
+- [POX](https://github.com/noxrepo/pox) - An open source development platform for Python-based software-defined networking (*SDN*) control applications.
 - [NodeFlow](https://github.com/gaberger/NodeFLow) -  OpenFlow控制器节点样式.
 - [ONOS](http://onosproject.org) - 开放网络操作系统.
 - [OpenDaylight](https://www.opendaylight.org) -  OpenDaylight平台
@@ -101,7 +102,7 @@ SONiC
 - [loxigen](https://github.com/floodlight/loxigen) -  LoxiGen是一种为多种语言生成OpenFlow协议库的工具.
 - [openfaucet](https://github.com/rlenglet/openfaucet) -  openfaucet是OpenFlow 1.0.0的纯Python实现
 协议，基于Twisted.
-- [oflib-node](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
+- [oflib-node](https://github.com/TrafficLab/oflib-node)   -  Oflib-node是Node的OpenFlow协议库.  它在OpenFlow有线协议消息和Javascript对象之间进行转换.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - 低级OpenFlow数据包编组/解组和IO操作的Java实现.
 - [nettle](https://github.com/AndreasVoellmy/openflow) - 用于处理OpenFlow协议的Haskell库.
 - [OCaml OpenFlow](https://github.com/frenetic-lang/ocaml-openflow) -  OpenFlow的序列化和协议库.
@@ -112,8 +113,8 @@ SONiC
 - [oftest](https://github.com/floodlight/oftest) -  OpenFlow测试框架
 - [STS](https://ucb-sts.github.com/sts/) -  SDN故障排除系统，模拟网络设备，允许以编程方式生成测试用例.
 - [nice-of](https://code.google.com/archive/p/nice-of/) - 用于测试NOX控制器平台的OpenFlow控制器应用程序的工具.
-- [OpenSDNCore](http://www.opensdncore.org/) - 经过NFV / SDN环境测试测试.
-- [Cbenech](https://github.com/mininet/oflops/tree/master/cbench) - Benchmarking tool for controllers
+- [OpenSDNCore](http://www.opensdncore.org/) -  NFV / SDN环境的虚拟化测试平台.
+- [Cbenech](https://github.com/mininet/oflops/tree/master/cbench) - 控制器基准测试工具
 - [ptf](https://github.com/p4lang/ptf) - 基于单元测试的基于python的数据平面测试框架.
 
 ## NFV

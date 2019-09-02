@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="AchoArnold/discount-for-student-dev"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 这是软件（SaaS，PaaS，IaaS等）的折扣列表以及恰好是学生的开发人员的其他产品.
 这个清单受到了很大的启发 [free-for-dev list](https://github.com/ripienaar/free-for-dev).
@@ -74,7 +75,7 @@
 ## Management Systems
 
   * [Bitnami](https://bitnami.com)  [FREE]  - 只需单击即可安装云应用程序.  商业3计划（通常为49美元/月）一年可通过 [Github Student Developer Pack](https://education.github.com/pack).
-  * [Yellow Circle](http://www.yellowcircle.net) [FREE]  - 通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载平衡器和存储设备，为各级学生和教师提供免费的在线沙盒，以学习和练习IT，网络和编程技能.
+  * [Yellow Circle](http://www.yellowcircle.net) [FREE]  - 通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载平衡器和存储设备，为各级学生和教师提供免费的在线沙箱，以学习和练习IT，网络和编程技能.
   * [Orchestrate](https://orchestrate.io/)  [FREE]  -  Orchestrate是一个完整的数据库产品组合，包括通过API搜索，时间序列事件，地理定位和图形查询.  您可以在公共云（例如CenturyLink数据中心）中托管数据，也可以使用Orchestrate Enterprise的专用群集. [Github Student Developer Pack](https://education.github.com/pack) 会员可获得免费开发者帐户（通常每月49美元）.
   * [Vertabelo](http://www.vertabelo.com/)  [FREE]  - 功能齐全的数据库设计在线工具.  免费教育目的.
 
@@ -99,7 +100,7 @@
 
 ## Security
 
-  * [NameCheap](https://namecheap.com/) [折扣]  - 一年SSL证书（通常为9美元/年） [Github Student Developer Pack](https://education.github.com/pack).
+  * [NameCheap](https://namecheap.com/) [DISCOUNT] - One year SSL certificate (normally $9/year) via [Github Student Developer Pack](https://education.github.com/pack).
   * [Shodan](https://www.shodan.io/)  [免费/信用]  - 免费升级（通常为49美元），以获得完全访问所有shodan提供的所有内容+ 100出口信用.  注册时只需使用您的学术电子邮件地址即可.
 
 ## Software Modeling Tools

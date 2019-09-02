@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="paralax/awesome-honeypots"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Honeypots [![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选蜜罐的精选列表，以及相关组件等等，分为Web，服务等类别，重点关注免费和开源项目.
@@ -72,8 +73,8 @@
     - [SMB Honeypot](https://github.com/r0hi7/HoneySMB) - 高交互SMB服务蜜罐，能够捕获类似于类似恶意软件的恶意软件.
     - [Tom's Honeypot](https://github.com/inguardians/toms_honeypot) - 低交互Python蜜罐.
     - [WebLogic honeypot](https://github.com/Cymmetria/weblogic_honeypot) - 低交互蜜罐，用于检测Oracle融合中间件的Oracle WebLogic Server组件中的CVE-2017-10271.
-    - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) - Twisted based honeypot for WhiteFace.
-    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) - Plugin repository for Honeycomb, the honeypot framework by Cymmetria.
+    - [WhiteFace Honeypot](https://github.com/csirtgadgets/csirtg-honeypot) -  WhiteFace的基于Twisted的蜜罐.
+    - [honeycomb_plugins](https://github.com/Cymmetria/honeycomb_plugins) -  Honeycomb的插件存储库，Cymmetria的蜜罐框架.
     - [honeyntp](https://github.com/fygrave/honeyntp) -  NTP记录器/蜜罐.
     - [honeypot-camera](https://github.com/alexbredo/honeypot-camera) - 观察相机蜜罐.
     - [honeypot-ftp](https://github.com/alexbredo/honeypot-ftp) -  FTP蜜罐.
@@ -129,7 +130,7 @@
 
 - 低交互蜜罐（路由器后门）
     - [Honeypot-32764](https://github.com/knalli/honeypot-for-tcp-32764) - 路由器后门的蜜罐（TCP 32764）.
-    - [WAPot](https://github.com/lcashdol/WAPot) - 可用于观察指向家用路由器的流量的蜜罐.
+    - [WAPot](https://github.com/lcashdol/WAPot) - Honeypot that can be used to observe traffic directed at home routers.
 
 - 蜜网农场交通重定向器
     - [Honeymole](https://web.archive.org/web/20100326040550/http://www.honeynet.org.pt:80/index.php/HoneyMole) - 部署多个传感器，将流量重定向到集中的蜜罐集合.
@@ -182,7 +183,7 @@
     - [Honeyd](https://github.com/provos/honeyd) - 见 [honeyd tools](#honeyd-tools).
     - [Honeysink](http://www.honeynet.org/node/773) - 开源网络sinkhole，提供检测和防止给定网络上的恶意流量的机制.
     - [Hontel](https://github.com/stamparm/hontel) -  Telnet Honeypot.
-    - [KFSensor](http://www.keyfocus.net/kfsensor/) - 基于Windows的蜜罐入侵检测系统（IDS）.
+    - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS).
     - [LaBrea](http://labrea.sourceforge.net/labrea-info.html) - 接管未使用的IP地址，并创建对蠕虫，黑客和其他互联网居民具有吸引力的虚拟服务器.
     - [MTPot](https://github.com/Cymmetria/MTPot) - 开源Telnet Honeypot，专注于Mirai恶意软件.
     - [SIREN](https://github.com/blaverick62/SIREN) - 半智能HoneyPot网络 -  HoneyNet智能虚拟环境.
@@ -382,12 +383,12 @@
 
 ## Network and Artifact Analysis
 
-- 沙盒
+- Sandbox
     - [Argos](http://www.few.vu.nl/argos/) - 用于捕获零日攻击的模拟器.
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Cuckoo](https://cuckoosandbox.org/) - 领先的开源自动恶意软件分析系统.
     - [Pylibemu](https://github.com/buffer/pylibemu) - 自由用Cython包装.
-    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall).
+    - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - 基于PHP 5.x脚本沙箱 [funcall](https://pecl.php.net/package/funcall).
     - [dorothy2](https://github.com/m4rco-/dorothy2) - 用Ruby编写的恶意软件/僵尸网络分析框架.
     - [imalse](https://github.com/hbhzwj/imalse) - 集成的MALware模拟器和仿真器.
     - [libemu](https://github.com/buffer/libemu) -  Shellcode仿真库，对shellcode检测很有用.

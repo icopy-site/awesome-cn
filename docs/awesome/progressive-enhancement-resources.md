@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jbmoelker/progressive-enhancement-resources"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  关于渐进增强的全面资源集合.  从概念和策略到特征检测和测试方法.  完成（代码）示例列表.
@@ -37,7 +38,7 @@
 
  在尝试增强体验之前，您需要确保环境能够增强.  您可以通过执行功能检测来测试它：
 
-* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)） - 使用JS方法或CSS声明本地测试是否支持特定的CSS功能.
+* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)) - Natively test if specific CSS feature is supported using JS method or CSS declaration.
 * [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) - 检测哪些ES2015功能可用.
 * [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) - 只有当`[requiredFeatures]`求值为true时才渲染SVG元素.
 * [Modernizr](https://modernizr.com/) - 广泛的功能检测套件（支持自定义构建）.
@@ -142,6 +143,6 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-[Jasper Moelker](https://twitter.com/jbmoelker) waives all rights to this work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+[Jasper Moelker](https://twitter.com/jbmoelker) 在法律允许的范围内，根据版权法放弃全球范围内对本作品的所有权利，包括所有相关和邻接权利.
 
 您可以复制，修改，分发和执行工作，即使是出于商业目的，也可以不经许可.

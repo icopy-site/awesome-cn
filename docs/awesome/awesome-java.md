@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="akullpp/awesome-java"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精选的Java框架，库和软件的精选列表.
@@ -55,7 +56,7 @@
 *与CLI相关的所有库.*
 
 - [ASCII Table](https://github.com/vdmeer/asciitable) - 用ASCII绘制表格的库.
-- [Airline](https://github.com/airlift/airline) - 用于解析类似Git的命令行参数的基于注释的框架.
+- [Airline](https://github.com/airlift/airline) - Annotation-based framework for parsing Git-like command-line arguments.
 - [args4j](http://args4j.kohsuke.org) - 用于解析命令行参数的小型库.
 - [Jansi](https://github.com/fusesource/jansi) -  ANSI转义码，用于格式化控制台输出.
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形基元.
@@ -145,7 +146,7 @@
 
 - [jackson-dataformat-csv](https://github.com/FasterXML/jackson-dataformat-csv) - 杰克逊扩展用于读写CSV.
 - [opencsv](http://opencsv.sourceforge.net) - 简单的CSV解析器.
-- [Super CSV](https://super-csv.github.io/super-csv) - Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
+- [Super CSV](https://super-csv.github.io/super-csv) - 功能强大的CSV解析器，支持Dozer，Joda-Time和Java 8.
 - [uniVocity-parsers](https://github.com/uniVocity/univocity-parsers)   - 最快速，功能最强大的解析器之一.  还提供TSV和固定宽度记录的解析器.
 
 ### Database
@@ -172,7 +173,7 @@
 - [Liquibase](http://www.liquibase.org) - 独立于数据库的库，用于跟踪，管理和应用数据库模式更改.
 - [MapDB](http://www.mapdb.org) - 嵌入式数据库引擎，提供磁盘或堆外内存支持的并发集合.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -  MariaDB的启动器，不需要安装或外部依赖.
-- [OrientDB](https://orientdb.com/orientdb) - 在Hazelcast之上编写的可嵌入分布式数据库.
+- [OrientDB](https://orientdb.com/orientdb) - Embeddable distributed database written on top of Hazelcast.
 - [Presto](https://github.com/prestodb/presto) - 用于大数据的分布式SQL查询引擎.
 - [Querydsl](http://www.querydsl.com) -  Typesafe统一查询.
 - [Realm](https://github.com/realm/realm-java) - 移动数据库直接在手机，平板电脑或可穿戴设备内运行.
@@ -201,7 +202,7 @@
 
 ### Date and Time
 
-*Libraries related to handling date and time.*
+*与处理日期和时间相关的图书馆.*
 
 - [Almanac Converter](https://github.com/hypotemoose/almanac-converter) - 不同日历系统之间的简单转换.
 - [iCal4j](https://github.com/ical4j/ical4j) - 解析并构建iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) 数据模型.
@@ -253,7 +254,7 @@
 - [Quasar](https://www.paralleluniverse.co/quasar) -  JVM的轻量级线程和actor.
 - [resilience4j](https://github.com/resilience4j/resilience4j) - 功能容错库.
 - [ScaleCube](https://github.com/scalecube/scalecube) - 基于SWIM和八卦协议的可嵌入集群成员库.
-- [Zuul](https://github.com/Netflix/zuul) - A gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Zuul](https://github.com/Netflix/zuul) - 提供动态路由，监控，弹性，安全性等的网关服务.
 
 ### Distributed Transactions
 
@@ -348,7 +349,7 @@
 *关于高性能计算的一切，从集合到特定的库.*
 
 - [Agrona](https://github.com/real-logic/Agrona) - 高性能应用程序中常见的数据结构和实用程序方法.
-- [Disruptor](https://lmax-exchange.github.io/disruptor) - Inter-thread messaging library.
+- [Disruptor](https://lmax-exchange.github.io/disruptor) - 线程间消息库.
 - [Eclipse Collections](https://github.com/eclipse/eclipse-collections) - 受Smalltalk启发的收藏框架.
 - [fastutil](http://fastutil.di.unimi.it) - 快速和紧凑的特定类型集合.
 - [HPPC](https://labs.carrotsearch.com/hppc.html) - 原始收藏品.
@@ -411,7 +412,7 @@
 - [jsoniter](http://jsoniter.com) - 具有迭代器和延迟解析API的快速灵活的库.
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare)   - 基于Jackson的流API的JSON解析和序列化库.  优于GSON＆Jackson的图书馆.
 - [Moshi](https://github.com/square/moshi) - 现代JSON库，不那么自以为是，并使用List和Map等内置类型.
-- [Yasson](https://github.com/eclipse/yasson) - 类和JSON文档之间的绑定层，类似于JAXB.
+- [Yasson](https://github.com/eclipse/yasson) - Binding layer between classes and JSON documents similar to JAXB.
 
 ### JSON Processing
 
@@ -445,7 +446,7 @@
 - [Graylog](https://www.graylog.org) - 适用于扩展角色和权限管理的开源聚合器.
 - [Kibana](https://www.elastic.co/products/kibana)   - 分析和可视化日志文件.  某些功能需要付款.
 - [Logback](https://logback.qos.ch) - 通过Groovy提供有趣配置选项的强大日志库.
-- [Logbook](https://github.com/zalando/logbook) - 用于HTTP请求和响应记录的可扩展开源库.
+- [Logbook](https://github.com/zalando/logbook) - 用于HTTP请求和响应记录的可扩展的开源库.
 - [Logstash](https://www.elastic.co/products/logstash) - 用于管理日志文件的工具.
 - [p6spy](https://github.com/p6spy/p6spy) - 无需更改代码即可为所有JDBC事务记录日志.
 - [SLF4J](https://www.slf4j.org) - 抽象层/简单的伐木门面.
@@ -458,12 +459,12 @@
 
 - [Apache Flink](https://flink.apache.org) - 快速，可靠，大规模的数据处理引擎.
 - [Apache Mahout](https://mahout.apache.org) - 可扩展的算法，侧重于协同过滤，聚类和分类.
-- [Apache Spark](https://spark.apache.org) - 数据分析集群计算框架.
+- [Apache Spark](https://spark.apache.org) - Data analytics cluster-computing framework.
 - [DatumBox](http://www.datumbox.com) - 为自然语言处理提供多种算法和预训练模型.
 - [DeepDive](http://deepdive.stanford.edu) - 从非结构化数据创建结构化信息，并将其集成到现有数据库中.
 - [Deeplearning4j](https://deeplearning4j.org) - 分布式和多线程深度学习库.
 - [H2O](https://www.h2o.ai) - 用于统计大数据的分析引擎.
-- [JSAT](https://github.com/EdwardRaff/JSAT) - 支持多线程执行的预处理，分类，回归和聚类算法.
+- [JSAT](https://github.com/EdwardRaff/JSAT) - Algorithms for pre-processing, classification, regression, and clustering with support for multi-threaded execution.
 - [Oryx 2](https://github.com/OryxProject/oryx)   - 构建实时，大规模机器学习应用程序的框架.  包括用于协作过滤，分类，回归和群集的端到端应用程序.
 - [Smile](https://haifengl.github.io/smile) - 统计机器智能和学习引擎提供一组机器学习算法和可视化库.
 - [Weka](https://www.cs.waikato.ac.nz/ml/weka) - 从预处理到可视化的数据挖掘任务的算法集合.
@@ -481,7 +482,7 @@
 - [Apache Qpid](https://qpid.apache.org) -  Apache Qpid使消息传递工具可以说AMQP并支持多种语言和平台.
 - [EventBus](https://github.com/greenrobot/EventBus) - 简单的发布/订阅事件总线.
 - [Hermes](http://hermes.allegro.tech) - 建立在Kafka之上的快速可靠的消息代理.
-- [JeroMQ](https://github.com/zeromq/jeromq) -  ZeroMQ的实施.
+- [JeroMQ](https://github.com/zeromq/jeromq) - Implementation of ZeroMQ.
 - [Nakadi](https://github.com/zalando/nakadi) - 在Kafka之上提供RESTful API.
 - [RabbitMQ Java client](https://github.com/rabbitmq/rabbitmq-java-client) -  RabbitMQ客户端.
 - [Smack](https://github.com/igniterealtime/Smack) - 跨平台XMPP客户端库.
@@ -501,7 +502,7 @@
 - [JavaCV](https://github.com/bytedeco/javacv) -  OpenCV，FFmpeg等Java接口.
 - [JavaX](http://javax.botcompany.de) - 重点发展Java，重点是简单性.
 - [JBake](http://jbake.org) - 静态网站生成器.
-- [JBot](https://github.com/ramswaroop/jbot) - 构建聊天机器人的框架.
+- [JBot](https://github.com/ramswaroop/jbot) - Framework for building chatbots.
 - [JCuda](http://jcuda.org) -  JCuda为CUDA和CUDA相关库提供Java绑定.
 - [Jimfs](https://github.com/google/jimfs) - 内存文件系统.
 - [Joda-Money](http://www.joda.org/joda-money) -  JDK未提供的基本货币和金钱类以及算法.
@@ -543,7 +544,7 @@
 - [LeakCanary](https://github.com/square/leakcanary) - 内存泄漏检测.
 - [Failsafe Actuator](https://github.com/zalando-incubator/failsafe-actuator) - 在Spring-Boot环境中开箱即用监控故障安全断路器.
 - [Glowroot](https://glowroot.org) - 开源Java APM.
-- [inspectIT](http://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
+- [inspectIT](http://www.inspectit.rocks)   - 通过可以即时更改的挂钩捕获详细的运行时信息.  它支持通过OpenTracing API跟踪多个系统，并可以将数据与最终用户监控相关联.
   -  [Instrumental！[c]]（https://instrumentalapp.com） - 实时Java应用程序性能监控.  具有免费开发账户的商业服务.
 - [JavaMelody](https://github.com/javamelody/javamelody) - 绩效监测和分析.
 - [Jaeger client](https://github.com/jaegertracing/jaeger-client-java) -  Jaeger客户.
@@ -708,7 +709,7 @@
 - [SCXML](http://commons.apache.org/proper/commons-scxml) - 旨在创建和维护Java SCXML引擎的State Chart XML规范的实现.
 - [Validator](http://commons.apache.org/proper/commons-validator) - 用于在xml文件中定义验证器和验证规则的框架.
 - [VFS](http://commons.apache.org/proper/commons-vfs) - 虚拟文件系统组件，用于将文件，FTP，SMB，ZIP等视为单个逻辑文件系统.
-- [Weaver](http://commons.apache.org/proper/commons-weaver) - 提供一种简单的方法来增强（编织）编译的字节码.
+- [Weaver](http://commons.apache.org/proper/commons-weaver) - Provides an easy way to enhance (weave) compiled bytecode.
 
 #### Other
 
@@ -722,7 +723,7 @@
 *帮助管理操作系统进程的库.*
 
 - [ch.vorburger.exec](https://github.com/vorburger/ch.vorburger.exec) - 围绕Apache Commons Exec的便捷API.
-- [zt-exec](https://github.com/zeroturnaround/zt-exec) - Provides a unified API to Apache Commons Exec and ProcessBuilder.
+- [zt-exec](https://github.com/zeroturnaround/zt-exec) - 为Apache Commons Exec和ProcessBuilder提供统一的API.
 - [zt-process-killer](https://github.com/zeroturnaround/zt-process-killer) - 通过PID停止从Java或系统进程启动的进程.
 
 ### Reactive libraries
@@ -748,7 +749,7 @@
 - [rest.li](https://github.com/linkedin/rest.li) - 使用类型安全绑定和异步，非阻塞IO构建强大，可扩展的RESTful架构的框架，其中包含端到端开发人员工作流程，可促进清洁实践，统一界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -  JAX-RS规范的完全认证和可移植实现.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -  JBoss Netty HTTP堆栈上的瘦包装器，提供扩展和性能.
-- [Restlet Framework](https://github.com/restlet/restlet-framework-java) - Pioneering framework with powerful routing and filtering capabilities, and a unified client and server API.
+- [Restlet Framework](https://github.com/restlet/restlet-framework-java) - 具有强大路由和过滤功能的先锋框架，以及统一的客户端和服务器API.
 - [Spark](http://sparkjava.com) -  Sinatra灵感的框架.
 - [Crnk](http://www.crnk.io) - 实施JSON API规范，以构建面向资源的REST端点，包括排序，过滤，分页，链接，对象图，类型安全，批量更新，集成等.
 - [Swagger](https://swagger.io) - 与REST API的标准，语言无关的接口.
@@ -764,7 +765,7 @@
 - [JGraphT](https://github.com/jgrapht/jgrapht) - 图形库，提供数学图论理论对象和算法.
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化的库（主要是Swing）并与节点边图交互.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算，可视化和数字信号分析的库.
-- [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供称为DataFrame的多功能二维内存高效表格数据结构，以便为JVM上的科学计算实现高效的内存分析.
+- [Morpheus](http://www.zavtech.com/morpheus/docs) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
 - [Orson-Charts](https://github.com/jfree/orson-charts) - 生成各种3D图表，可以使用Swing和JavaFX显示或导出为PDF，SVG，PNG和JPEG.
 - [Tablesaw](https://github.com/lwhite1/tablesaw) - 包括数据框架，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)   - 用于绘制数据的轻量级库.  可以使用许多可自定义的图表类型.
@@ -799,14 +800,14 @@
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭据，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 
-*Libraries that handle serialization with high efficiency.*
+*高效处理序列化的库.*
 
 - [FlatBuffers](https://github.com/google/flatbuffers) - 内存高效的序列化库，可以访问序列化数据而无需解压缩和解析.
-- [FST](https://github.com/RuedigerMoeller/fast-serialization) -  JDK兼容的高性能对象图序列化.
+- [FST](https://github.com/RuedigerMoeller/fast-serialization) - JDK-compatible, high-performance object graph serialization.
 - [Kryo](https://github.com/EsotericSoftware/kryo) - 快速有效的对象图序列化框架.
 - [MessagePack](https://github.com/msgpack/msgpack-java) - 高效的二进制序列化格式.
 - [PHP Serializer](https://github.com/marcospassos/java-php-serializer) - 以PHP序列化格式序列化对象.
@@ -828,7 +829,7 @@
 
 - [Handlebars.java](https://jknack.github.io/handlebars.java) - 无逻辑和语义的胡须模板.
 - [Jade4J](https://github.com/neuland/jade4j) - 实施帕格（以前称为翡翠）.
-- [Jtwig](http://jtwig.org) - Modular, configurable and fully tested template engine.
+- [Jtwig](http://jtwig.org) - 模块化，可配置且经过全面测试的模板引擎.
 - [Pebble](https://pebbletemplates.io)   - 受Twig的启发，并以其继承功能和易于阅读的语法分离.  它附带内置自动安全功能，用于安全性，并包含对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) - 优化，内存效率和快速模板引擎，生成静态类型的普通对象.
 - [Thymeleaf](http://www.thymeleaf.org) - 旨在成为JSP的替代品并适用于XML文件.
@@ -943,7 +944,7 @@
 
 - [jabba](https://github.com/shyiko/jabba)   - 受nvm启发的Java Version Manager.  支持Mac OS X，Linux和Windows.
 - [jenv](https://github.com/gcuisinier/jenv)   - 受rbenv启发的Java Version Manager.  可以全局配置还是按项目配置.  在Debian和Mac OS X上测试过.
-- [SDKMan](https://github.com/sdkman/sdkman-cli) - Java Version Manager inspired by RVM and rbenv. Supports UNIX-based platforms and Windows.
+- [SDKMan](https://github.com/sdkman/sdkman-cli)   - 受RVM和rbenv启发的Java Version Manager.  支持基于UNIX的平台和Windows.
 
 ### Web Crawling
 

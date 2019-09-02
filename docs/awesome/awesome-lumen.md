@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="unicodeveloper/awesome-lumen"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 &gt;策划的资源列表：书籍，视频，关于使用流明的文章（Laravel的PHP Microframework）
@@ -56,7 +57,7 @@
 * [Lumen Vendor Publish](https://github.com/laravelista/lumen-vendor-publish) - 供应商发布Lumen框架命令.
 * [Lumen Make](https://github.com/michaelbonds/lumen-make) - 将大部分make命令从Laravel连接到Lumen. 
 * [Lumen File Manager](https://github.com/nordsoftware/lumen-file-manager) -  Lumen PHP框架的文件管理器模块.
-* [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - 为Lumen 5.2带来基本身份验证.
+* [Lumen 5.2 HTTP Basic Auth Guard](https://github.com/arubacao/http-basic-auth-guard) - 为Lumen 5.2带来基本认证.
 * [Larasupport](https://github.com/irazasyed/larasupport) - 为流明和其他助手添加Laravel包支持.
 * [REST API With Lumen](https://github.com/hasib32/rest-api-with-lumen) - 用于Lumen微框架的RESTful API样板.
 * [Lumen Passport](https://github.com/dusterio/lumen-passport) - 让Laravel Passport与Lumen合作.

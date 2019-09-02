@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="johnjago/awesome-theravada"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Theravada [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
@@ -52,7 +53,7 @@
 ## Forums
 
 - [Discuss & Discover](https://discourse.suttacentral.net/) -  SuttaCentral早期佛教文本的论坛.
-- [Dhamma Wheel](https://dhammawheel.com/) - 讨论有关上座部佛教的各种主题.
+- [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
 - [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - 向澳大利亚Dhammaloka市中心的成员询问并向他们学习.
 
 ## Organizations
@@ -155,7 +156,7 @@
 - [Buddhist Fellowship](https://www.youtube.com/user/buddhistfellowshipsg/videos) - 来自非宗派佛教组织的同名视频.
 - [Buddhist Society of Western Australia](https://www.youtube.com/user/BuddhistSocietyWA/videos) - 在Dhammaloka佛教中心与僧侣和尼姑会谈.
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos)   - 与来自世界各地的非专业观众进行现场讲座和问答.  （英语）
-- [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
+- [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - 来自Thanissaro Bhikkhu的更长的音频讲座.
 - [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - 受尊敬的学者，佛教僧侣和哲学家的鼓舞和启发话语.
 - [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) -  Ajahn Nyanamoli Thero的简短Q＆A dhamma会谈.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - 来自伦敦佛教寺院的讲座，讲座和教育材料.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="XamSome/awesome-xamarin"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome-Xamarin [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 用于Xamarin Android / iOS / Windows / OSX的主观现代/有趣且理想的开源库/工具的精选书签集合
@@ -287,8 +288,8 @@
 
 ## Websites
 
-- [Planet Xamarin](https://www.planetxamarin.com)   - 来自Xamarin社区成员的内容聚合器.  当您可以订阅一个方便的RSS源时，为什么单独订阅？  如果RSS不是你的事，请按照 [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) 使用社区的最新内容自动更新的帐户.
-- [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - A curated list of resources for learning Xamarin.
+- [Planet Xamarin](https://www.planetxamarin.com) - An aggregat要么 of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) 要么 [Facebook](https://www.facebook.com/planetxamarin/) 使用社区的最新内容自动更新的帐户.
+- [Programming Community Curated Resources For Learning Xamarin](https://hackr.io/tutorials/learn-xamarin) - 用于学习Xamarin的精选资源列表.
 - [Weekly Xamarin](http://weeklyxamarin.com)   - 每周精心挑选最好的Xamarin开发链接.  由Geoffrey Huntley策划并于每周五出版.  自由.
 
 

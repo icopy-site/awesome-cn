@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ohenley/awesome-ada"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="400px"  src="https://raw.githubusercontent.com/ohenley/files/master/awesome-ada/awesome_ada_logo.svg" alt="Awesome">
 </div>
@@ -99,7 +100,7 @@
 ## Education
 
 #### Entry Point
-- [learn](https://learn.adacore.com/) - Interactive learning platform designed to teach the Ada and SPARK programming languages.
+- [learn](https://learn.adacore.com/) - 旨在教授Ada和SPARK编程语言的交互式学习平台.
 
 #### Tutorials
 - [adacore-video-tutorials](https://www.youtube.com/playlist?list=PLkoa8uxigENkneyEEeDWVPgpMhPc9IJ7o) -  AdaCore大学视频教程.
@@ -140,7 +141,7 @@
 
 #### Questions and Answers
 - [comp-lang-ada](https://groups.google.com/forum/#!forum/comp.lang.ada) - 有一个Usenet新闻组/论坛.
-- [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) - Ada at Stack Overflow.
+- [stack-overflow-ada-tag](https://stackoverflow.com/questions/tagged/ada) -  Stack Overflow上的Ada.
 
 #### News and Resources
 - [adacore-blog](https://blog.adacore.com/) - 深入了解AdaCore生态系统.
@@ -314,7 +315,7 @@
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) -  Deque / buffer泛型，由构造块组成，可以以各种方式组合以创建更高的抽象缓冲区.
 - [pragmarc](https://github.com/jrcarter/PragmARC) -  PragmAda S / W Engineering的PragmAda可重用组件（PragmARCs）.
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - 这是Ada的加密库，带有一个很好的API，是为i386和x86_64硬件架构编写的.
-- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - 在SPARK中实施的加密库.
+- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
 - [booch95](https://sourceforge.net/projects/booch95/) -  Ada 95 Booch组件是Grady Booch的C ++组件的一个端口.
 - [ada-id](https://github.com/anthony-arnold/AdaID) - 用于生成UUID的简单Ada库.
 - [ada-ga](https://github.com/frett27/Ada-GA) -  Ada的遗传算法实现.
@@ -348,7 +349,7 @@
 - [increment](https://github.com/reznikmm/increment) - 该软件包提供增量分析算法和相关数据结构.
 
 #### Patterns
-- [ada-promises](https://github.com/briot/Ada-promises) - Implementing promises in Ada. Type-safe, efficient, thread-safe.
+- [ada-promises](https://github.com/briot/Ada-promises)   - 在Ada中实施承诺.  类型安全，高效，线程安全.
 - [reqrep-task-pools](https://github.com/jhumphry/Reqrep_Task_Pools) - 作业的任务池系统.
 - [rxada](https://github.com/mosteo/rxada) -  Ada 2012实施Rx方法.
 
@@ -412,7 +413,7 @@
 - [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - 为Ada2005和2012提供流实用程序.
 - [ssprep](https://github.com/persan/ssprep.git) - 类似于jinja但使用的可扩展模板引擎 [template-parser](https://github.com/AdaCore/templates-parser) 用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) -  Ada的开源许可库.
-- [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的记录功能，可在Ada程序中输出到控制台.
+- [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，从文件夹层次结构中选取一个文件，其概率与其大小成比例.
 - [cstrings](https://github.com/mosteo/cstrings) - 与C字符串交互的便捷子程序.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 将Ada Conformity Assessment Authority上共享的CVS存储库导入Git存储库的工具.
@@ -463,7 +464,7 @@
 ## Applications
 
 #### Office
-- [azip](https://azip.sourceforge.io) - 免费的便携式Zip Archive Manager.
+- [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager.
 - [texcad](https://texcad.sourceforge.io) -  TeXCAD是用于在LaTeX中绘制或修饰{picture}的程序.
 - [cbsg](http://cbsg.sf.net) - 企业废话发电机.
 
@@ -529,7 +530,7 @@
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - 用于Microsft NetFramework Api的Ada绑定.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - 用于Microsft NetFramework Api的Ada绑定（NetFrameworkCore上的包装）.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -  Microsft WinRT Fire有绑定.
-- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -  Microsoft Win32 API有绑定.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
 - [adasockets](https://github.com/samueltardieu/adasockets) -  IPv4套接字库（TCP，UDP和多播）.
 - [areadline](https://github.com/samueltardieu/areadline) - 读取线库的Ada接口.
 - [oto](https://github.com/darkestkhan/oto) -  Ada绑定到OpenAL，尝试在使用Ada类型时模仿原始API.

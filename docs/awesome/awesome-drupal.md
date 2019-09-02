@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="nirgn975/awesome-drupal"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
@@ -58,7 +59,7 @@
 - [IMCE](https://www.drupal.org/project/imce) -  IMCE是一个支持个人目录和配额的图像/文件上传器和浏览器.
 - [Date](https://www.drupal.org/project/date) - 包含灵活的日期/时间字段类型日期字段和其他模块可以使用的日期API.
 - [Devel](https://www.drupal.org/project/devel) - 模块套件，包含模块开发人员和模块的乐趣.
-- [Migrate](https://www.drupal.org/project/migrate) - Provides a flexible framework for migrating content into Drupal from other sources.
+- [Migrate](https://www.drupal.org/project/migrate) - 提供灵活的框架，用于将内容从其他来源迁移到Drupal.
 - [Entity validator](https://www.drupal.org/project/entity_validator) - 允许您定义插件并设置方法以验证您正在处理的对象.
 - [Webform](https://www.drupal.org/project/webform) -  Webform是在Drupal中进行表单和调查的模块.
 - [WYSIWYG](https://www.drupal.org/project/wysiwyg) - 允许使用客户端编辑器编辑内容.
@@ -159,4 +160,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Nir Galon](http://nirgn.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.

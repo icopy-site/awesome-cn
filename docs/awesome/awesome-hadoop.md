@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="youngwookim/awesome-hadoop"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的Hadoop和Hadoop生态系统资源列表.  灵感来自 [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin)
@@ -60,7 +61,7 @@
 * [Apache Atlas](http://atlas.incubator.apache.org/) - 元数据标记和谱系捕获，支持复杂的业务数据分类
 * [Apache Kudu](https://kudu.apache.org/) -  Kudu提供快速插入/更新和高效柱状扫描的组合，可在单个存储层上实现多个实时分析工作负载，从而补充HDFS和Apache HBase.
 * [Confluent Schema registry for Kafka](https://github.com/confluentinc/schema-registry)   -  Schema Registry为您的元数据提供服务层.  它提供了一个RESTful接口，用于存储和检索Avro架构.
-* [Hortonworks Schema Registry](https://github.com/hortonworks/registry) -  Schema Registry是构建元数据存储库的框架.
+* [Hortonworks Schema Registry](https://github.com/hortonworks/registry) - Schema Registry is a framework to build metadata repositories.
 
 ## Workflow, Lifecycle and Governance
 
@@ -248,4 +249,4 @@
 * [Spark Summit](https://databricks.com/sparkaisummit)
 
 ## Other Awesome Lists
-其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness) 和 [awesome](https://github.com/sindresorhus/awesome) 名单.
+其他惊人的令人敬畏的名单可以在 [awesome-awesomeness](https://github.com/bay和in/awesome-awesomeness) 和 [awesome](https://github.com/sindresorhus/awesome) 名单.

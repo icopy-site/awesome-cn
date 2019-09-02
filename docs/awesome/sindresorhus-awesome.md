@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/awesome"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
@@ -62,8 +63,8 @@
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) - 信用卡大小的计算机，旨在教孩子们编程，但能够做更多.
 - [Qt](https://github.com/JesseTG/awesome-qt#readme) - 跨平台GUI应用程序框架.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) - 跨浏览器扩展系统.
-- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
-- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - Create apps for different TV platforms.
+- [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) - 在Ruby中编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
+- [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) - 为不同的电视平台创建应用程序.
 - [GNOME](https://github.com/Kazhnuz/awesome-gnome#readme) - 适用于Linux的简单且无干扰的桌面环境.
 - [KDE](https://github.com/francoism90/awesome-kde#readme) - 一个致力于创建开放且用户友好的计算体验的免费软件社区.
 - [.NET](https://github.com/quozd/awesome-dotnet#readme)
@@ -404,7 +405,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) - 像素级数字艺术.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - 用于录制，转换和流式传输音频和视频的跨平台解决方案.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - 可下载的SVG / PNG /字体图标项目.
 
 
@@ -421,7 +422,7 @@
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) - 主要是关于CSS  - 语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) - 了解如何成为更好的产品经理.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - 为您提供明确的途径，以提高您的知识和技能.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
 
 
 ## Security

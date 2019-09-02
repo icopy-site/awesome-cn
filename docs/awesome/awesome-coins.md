@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Zheaoli/awesome-coins"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star)](https://github.com/kennethreitz/awesome-coins)
@@ -26,7 +27,7 @@
 
 ## ☤ Support Causes You Care About
 
-- [Wikileaks](https://wikileaks.org) ** BTC **：`1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
+- [Wikileaks](https://wikileaks.org) **BTC**: `1HB5XMLmzFVj8ALj6mfBsbifRoD4miY36v`
 - [Internet Archive](https://archive.org) ** BTC **：`1Archive1n2C579dMsAu3iC6tWzuQJz8dN`
 - [The Pirate Bay](https://thepiratebay.org) ** BTC **：`129TQVAroeehD9fZpzK51NdZGQT4TqifbG`
 - [xkcd](https://xkcd.com) ** BTC **：`14Tr4HaKkKuC1Lmpr2YMAuYVZRWqAdRTcr`
@@ -82,7 +83,7 @@
 -  ** ETC **：https：//etc.nanopool.org/
 -  ** ZCL **：https：//2miners.com/zcl-mining-pool
 - **ZEN**: https://2miners.com/zen-mining-pool
-- **ZEC**: https://2miners.com/zec-mining-pool
+-  ** ZEC **：https：//2miners.com/zec-mining-pool
 
 ## ☤ Hashing Power for Rent
 

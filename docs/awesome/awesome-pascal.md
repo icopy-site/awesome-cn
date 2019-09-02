@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Fr0sT-Brutal/awesome-pascal"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Pascal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的Delphi，FreePascal和其他* Pascal框架，库，资源和闪亮的东西的精选列表.  受到令人敬畏的......的启发.
@@ -241,7 +242,7 @@
 
 * [delphi-slackbot](https://github.com/monde-sistemas/delphi-slackbot) .  `[Delphi]`Delphi库发送消息 [Slack](https://slack.com) 使用slackbot.
 
-* [Kitto](https://github.com/EtheaDev/kitto) .  `[Delphi]`允许基于可以映射到任何数据库的数据模型创建富Internet应用程序.  客户端部分使用ExtJS（通过ExtPascal库）创建一个完全AJAX应用程序，允许您在很短的时间内构建标准和高级数据操作表单.  Kitto针对Delphi开发人员，他们需要创建Web应用程序而无需深入研究HTML，CSS，Javascript的复杂性或学习使用ExtJS等特定库，但如果需要，它允许访问裸机.
+* [Kitto](https://github.com/EtheaDev/kitto). `[Delphi]` Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, Javascript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
 
 * [Daraja Framework](https://github.com/michaelJustin/daraja-framework) .  `[Delphi]``[FPC]`Object Pascal的轻量级HTTP服务器框架（Delphi 2009+ / Free Pascal 3.0）.  通过支持实现RESTful服务 [daraja-restful](https://github.com/michaelJustin/daraja-restful) extension.
 
@@ -551,7 +552,7 @@
 * [KDS XML](http://sourceforge.net/projects/kdsxml) .  `[Delphi]`用于流式解析，验证和生成XML的类库.  它是用Object Pascal / Delphi编写的，适用于Win32（Delphi）和Linux（Kylix）.  部分内容取决于SAX for Pascal接口规范.
 // *似乎死了.*
 
-* [XML Partner](http://sourceforge.net/projects/tpxmlpartner) .  `[Delphi]`通过本机易于使用的VCL和CLX组件，帮助将Borland Delphi，C ++ Builder和Kylix项目的XML功能增加.  这些功能强大的组件简化了创建，修改和解析XML数据文档的过程.
+* [XML Partner](http://sourceforge.net/projects/tpxmlpartner) .  `[Delphi]`通过原生易用的VCL和CLX组件，帮助将Borland Delphi，C ++ Builder和Kylix项目的XML功能增加.  这些功能强大的组件简化了创建，修改和解析XML数据文档的过程.
 // *好像死了，退房 [this](http://www.songbeamer.com/delphi) 可能是更新版本的页面.*
 
 * [Open XML](http://www.philo.de/xml/downloads.shtml) .  `[Delphi]`提供各种方法，组件和基础类.  它可以用于Win32 / Kylix以及.NET开发.
@@ -601,7 +602,7 @@
 
 
 ## Language
-*Tools for Pascal and other languages*
+* Pascal和其他语言的工具*
 
 * [Next Delphi Yacc & Lex](https://github.com/RomanYankovsky/ndyacclex) .  `[Delphi]`用于Delphi的解析器生成器工具集.
 

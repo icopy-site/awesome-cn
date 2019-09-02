@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ekremkaraca/awesome-rails"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![awesome-rails](https://raw.githubusercontent.com/ekremkaraca/awesome-rails/master/./.github/awesome-rails.png)
 
 [![Awesome](https://cdn.combinatronics.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
@@ -68,7 +69,7 @@
 - [crabgrass-core](https://github.com/riseuplabs/crabgrass-core) - 专为活动家团体设计的网络应用程序，可以更好地在线协作
 - [crowdAI](https://github.com/crowdAI/crowdai) - 利用开放数据为开放式科学而战，这是一个机器学习挑战平台. [:earth_africa:](https://www.crowdai.org/)
 - [CrowdtiltOpen](https://github.com/Crowdtilt/CrowdtiltOpen) - 开源众筹平台
-- [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) - 免费的浏览器内编码 - 道场 [:earth_africa:](http://cyber-dojo.org)
+- [cyberdojo](https://github.com/cyber-dojo/cyber-dojo) -  Free in-browser coding-dojo [:earth_africa:](http://cyber-dojo.org)
 - [danbooru](https://github.com/r888888888/danbooru) - 用Rails 3编写的可标记图像板 [:earth_africa:](http://testbooru.donmai.us)
 - [dgi-db](https://github.com/griffithlab/dgi-db) -  Rails前端到Genome Institute的药物基因互作数据库
 - [diaspora](https://github.com/diaspora/diaspora) - 分布式和上下文社交网络 [:earth_africa:](https://diasporafoundation.org)
@@ -134,7 +135,7 @@
 - [theodinproject](https://github.com/TheOdinProject/theodinproject) - 旨在免费教授Web开发的项目  [:earth_africa:](https://www.theodinproject.com/)
 - [tracks](https://github.com/TracksApp/tracks) - “完成任务”应用程序  [:earth_africa:](http://www.getontracks.org)
 - [trado](https://github.com/Jellyfishboy/trado) - 轻量级，易于使用的电子商务平台，专为独立交易者和中小企业设计  
-- [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [:earth_africa:](https://www.agileventures.org/)
+- [WebsiteOne](https://github.com/AgileVentures/WebsiteOne) - 在线协作和众包项目开发的平台 [:earth_africa:](https://www.agileventures.org/)
 - [whitehall](https://github.com/alphagov/whitehall) - 政府内部：英国政府如何运作，它在做什么，以及如何参与其中  
 
 ### Tutorials

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="JesseTG/awesome-qt"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/JesseTG/awesome-qt/ef9f71a9/qt.svg" align="right" width="100">](https://www.qt.io)
@@ -57,14 +58,14 @@
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator)   -  Qt绝不会锁定你提供的IDE，但它与框架的紧密集成使它成为一个很好的销售.  除此之外，它还提供了UI设计器，建模工具，文档浏览器以及强大的QML支持（如果您涉及到这类内容）.  还有一个插件系统，但遗憾的是第三方插件很少.
   - [Qt Designer](https://doc.qt.io/qt-5/qtdesigner-manual.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/designer) - 如果您只是设计接口并让其他人将它们连接到逻辑，则GUI设计器可作为单独的应用程序使用.
   - [Qt Assistant](https://doc.qt.io/qt-5/qtassistant-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/assistant) - 就此而言，文档查看器也是如此.
-- [Qt Visual Studio Add-in](https://doc.qt.io/archives/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - 如果您更喜欢坚持使用Visual Studio，这个加载项可以让您这样做.
+- [Qt Visual Studio Add-in](https://doc.qt.io/archives/vs-addin) [:octocat:](https://github.com/qt-labs/vstools) - 如果你更喜欢坚持使用Visual Studio，这个加载项可以让你这样做.
 - [Qt Linguist](https://doc.qt.io/qt-5/qtlinguist-index.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/linguist) - Qt provides excellent internationalization/localization support, and this tool is very much responsible for it.  Write translatable strings in your code with special macros, and this tool will aggregate them all for you so you or your translator(s) can broaden your software's audience.
 - [Qt Installer Framework](https://doc.qt.io/qtinstallerframework) [:octocat:](https://github.com/qtproject/installer-framework)   - 似乎没有人谈论这个问题，但Qt还提供了一种为应用程序编写安装程序的方法.  不支持创建macOS磁盘映像，应用程序包或Linux软件包，因此在考虑项目的分发时请注意这一点.
   - [`macdeployqt`](https://doc.qt.io/qt-5/osx-deployment.html) [:octocat:](https://github.com/qt/qttools/tree/dev/src/macdeployqt) - 为Qt项目生成macOS应用程序包.
-- [qmake](https://doc.qt.io/qt-5/qmake-manual.html) [:octocat:](https://github.com/qt/qtbase/tree/dev/qmake) - 为Qt设计的捆绑构建系统，但它可用于非Qt项目.
+- [qmake](https://doc.qt.io/qt-5/qmake-manual.html) [:octocat:](https://github.com/qt/qtbase/tree/dev/qmake) - 为Qt设计的捆绑构建系统，尽管它可以用于非Qt项目.
 - [qbs](https://doc.qt.io/qbs) [:octocat:](https://github.com/qt-labs/qbs) - 如果QML更符合您的风格，请考虑使用此备用构建系统.
 - [Emulator](https://doc.qt.io/emulator) - 别忘了Qt的移动支持！
-- ``qtdiag&#39; [:octocat:](https://github.com/qt/qttools/tree/dev/src/qtdiag)   - 命令行工具，可以打印出与Qt安装和系统有关的大量信息.  没有链接，因为没有专门的网页;  只需在命令行上运行`qtdiag`.  非常适合排除故障
+- `qtdiag` [:octocat:](https://github.com/qt/qttools/tree/dev/src/qtdiag)   - 命令行工具，可以打印出与Qt安装和系统有关的大量信息.  没有链接，因为没有专门的网页;  只需在命令行上运行`qtdiag`.  非常适合排除故障
 - `qmleasing` [:octocat:](https://github.com/qt/qtdeclarative/tree/dev/tools/qmleasing) - 允许您制作适合QML的缓动曲线，但如果您了解基础数学，则无法在其他地方使用结果数字.
 
 ### Third-Party Tools
@@ -72,7 +73,7 @@
 - [CMake](https://doc.qt.io/qt-5/cmake-manual.html) [:octocat:](https://github.com/Kitware/CMake) - 通用C ++构建工具恰好有很好的Qt支持.
 - [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray) [:octocat:](https://github.com/KDAB/GammaRay)   - 用于Qt构建软件的强大调试器和通用检测工具.  允许您检查和操作`QObject`层次结构，查看对象属性，在运行时编辑窗口小部件，远，*远*更多.  两句话模糊不能正义，认真检查出来.
 - [moc-ng](https://github.com/woboq/moc-ng) [:octocat:](https://github.com/woboq/moc-ng) - 与mt版本二进制兼容的`moc`的替代实现.
-- [Qt-Inspector](https://github.com/robertknight/Qt-Inspector) [:octocat:](https://github.com/robertknight/Qt-Inspector) - 具有与GammaRay类似目标的检查工具，尽管更简单.
+- [Qt-Inspector](https://github.com/robertknight/Qt-Inspector) [:octocat:](https://github.com/robertknight/Qt-Inspector) - 具有与GammaRay类似目标的检查工具，虽然简单得多.
 - [SIP](https://www.riverbankcomputing.com/software/sip) [:package:](https://www.riverbankcomputing.com/hg/sip)   - 为C或C ++库生成Python绑定.  对Qt信号和插槽有特殊支持，并用于创建 [PyQt](https://riverbankcomputing.com/software/pyqt).
 - [linuxdeployqt](https://github.com/probonopd/linuxdeployqt) [:octocat:](https://github.com/probonopd/linuxdeployqt) - 允许您将基于Qt的应用程序捆绑为AppDir或 [AppImage](http://appimage.org) ，使其可以发送给许多桌面Linux发行版的用户.  类似于官方的`windeployqt`和`macdeployqt`工具，但适用于Linux.
 
@@ -80,7 +81,7 @@
 
  本节介绍可以使用C ++以外的主要语言创建Qt软件的软件.  允许在Qt应用程序中运行时编写脚本的库列在下面 [Integrations](#integrations).
 
-- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - 可以说是Qt与另一种语言最全面和众所周知的结合.
+- [Python (via PyQt)](https://riverbankcomputing.com/software/pyqt) [:package:](https://www.riverbankcomputing.com/software/pyqt/download5) - Arguably the most comprehensive and well-known binding of Qt to another language.
 - [Python (via PySide)](https://wiki.qt.io/PySide) [:package:](https://code.qt.io/cgit/pyside/pyside.git) -  Python的另一个绑定，已被Qt项目正式采用.
 - [Ring (via RingQt)](http://ring-lang.sourceforge.net/doc/qt.html) [:octocat:](https://github.com/ring-lang/ring/tree/master/extensions/ringqt) - 说实话，我也从未听说过这种语言.
 - [Mono/.NET languages (via QtSharp)](https://github.com/ddobrev/QtSharp) [:octocat:](https://github.com/ddobrev/QtSharp) - Experimental wrapper for Qt that allows it to be used by .NET-based languages such as C#.  Young, but active.
@@ -89,7 +90,7 @@
 
 ## Libraries
 
- 本节介绍两种第三方库;  提供自己全新功能的那些（例如小部件，处理特定文件格式），以及提供与现有软件集成的那些（例如脚本语言，REST API的客户端，已建立协议的实现）.
+This section describes two kinds of third-party libraries; those that provide their own brand-new functionality (e.g. widgets, dealing with particular file formats), and those that provide integrations with existing software (e.g. scripting languages, clients for REST APIs, implementations of established protocols).
 
 
 ### Integrations
@@ -169,7 +170,7 @@
   - [QMetaType knows your types](https://woboq.com/blog/qmetatype-knows-your-types.html) -  C ++不具备良好的运行时类型信息，因此Qt带来了自己的.
   - [C++11 in Qt5](https://woboq.com/blog/cpp11-in-qt5.html)   - 停止编写类似2003年的C ++;  了解如何利用Qt应用程序中的最新C ++功能.
   - [C++14 for Qt programmers](https://woboq.com/blog/cpp14-in-qt.html) - `s / 2003/2011 /`
-  - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html)   - 字符串文字广泛用于许多应用程序;  如果你能让他们更快地访问它会不会很好？
+  - [QStringLiteral explained](https://woboq.com/blog/qstringliteral.html)   - 字符串文字广泛用于许多应用程序;  如果你能让它们更快地访问，那不是很好吗？
   - [Nicer debug output in Qt using QT_MESSAGE_PATTERN](https://woboq.com/blog/nice-debug-output-with-qt.html) - 能够读取应用程序的日志非常好.
 - [KDAB](https://www.kdab.com/category/blogs) -  *另一家专门研究Qt的咨询公司.
   - [GammaRay: Taking a deep look into your Qt application](https://www.youtube.com/watch?v=JcoFk_PVhdk) - 谈论 [GammaRay](https://www.kdab.com/development-resources/qt-tools/gammaray)  以及它如何帮助您剖析您的Qt应用程序.  2016年QtCon上的演讲 [Volker Krause](https://github.com/vkrause).
@@ -200,7 +201,7 @@
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - 以消费者为中心的虚拟化
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator)   - 吃东西吃狗粮的东西.  在上市 [official tools](#official-tools)，但不在这里列出它感觉不对.
 - [Rolisteam](http://www.rolisteam.org) [:octocat:](https://github.com/Rolisteam/rolisteam) - 用于远程角色扮演游戏的虚拟桌面.
-- [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
+- [RUBE](https://www.iforce2d.net/rube) - 任何使用Box2D物理引擎的游戏的关卡设计工具。
 - [TeamSpeak](https://www.teamspeak.com) - 当游戏玩家希望在不支持游戏的游戏中进行语音聊天时，他们会使用此功能.
 - [Telegram Desktop](https://desktop.telegram.org) [:octocat:](https://github.com/telegramdesktop/tdesktop)   - 保证你的谈话得好，你会提高潜在窃听者的血压.  桌面客户端使用Qt并且是开源的.
 - [Tiled](http://www.mapeditor.org) [:octocat:](https://github.com/bjorn/tiled)   - 也许是世界上最受欢迎的tilemap编辑器.  适合游戏中的关卡设计.
@@ -209,13 +210,13 @@
 - [Vuo](https://vuo.org) [:octocat:](https://github.com/vuo/vuo) - 用于交互式媒体的实时可视化编程语言.
 - [Wireshark](https://www.wireshark.org) [:package:](https://code.wireshark.org/review/gitweb?p=wireshark.git;a=tree)   - 那里最流行的数据包嗅探器.  你*将*用于善而不是邪恶，对吧？
 - [Wolfram Mathematica](https://www.wolfram.com/mathematica) - 编程语言，符号计算器和工程师最好的朋友.
-- [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - Sega Saturn emulator.
+- [Yabause](https://yabause.org) [:octocat:](https://github.com/Yabause/yabause) - 现在是土星模拟器.
 
 还有一个官方陈列室 [here](https://showroom.qt.io)，让开发人员提交自己的Qt驱动的应用程序进行显示.
 
 ## Other Relevant Awesome Lists
 
- 如果你熟悉Awesome，你就会知道有非常多种资源，其实用性取决于你的项目.  但是，如果您正在开发Qt应用程序，那么您几乎肯定也想要查看这些应用程序.
+ 如果您熟悉Awesome，您就会知道有非常多种资源，其实用性取决于您的项目.  但是，如果您正在开发Qt应用程序，那么您几乎肯定也想要查看这些应用程序.
 
 - [Awesome C/C++](https://github.com/fffaraz/awesome-cpp)   - 没有理由不能使用不是为Qt设计的C ++库.  有时它们甚至可能比Qt提供的更好地满足您的需求.
 - [Awesome C](https://github.com/aleksandar-todorovic/awesome-c)   -  C库也是如此;  当你在这里时，他们可能想要了解那些RAII技术.

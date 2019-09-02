@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Friz-zy/awesome-linux-containers"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Linux Containers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -102,7 +103,7 @@ Ubuntu Core是大规模云容器部署的完美系统，为世界上最受欢迎
 * [MultiDocker](https://github.com/marty90/multidocker)  
 创建一个安全的多用户Docker机器，其中每个用户被隔离到一个独立的容器中.
 * [Lithos](https://github.com/tailhook/lithos/)  
- Lithos是一个用于运行服务的过程监控器和容器.  它不是用于系统初始化，而是试图成为构建容器编排的基础工具.
+Lithos is a process supervisor and containerizer for running services. It is not intended to be system init, but rather tries to be a base tool to build container orchestration.
 * [containerd](https://containerd.io/)  
 一个容器运行时，可以管理一个完整的容器生命周期 - 从映像传输/存储到容器执行，监督和网络.
 
@@ -267,7 +268,7 @@ docker.sock的代理，用于强制实施访问控制和隔离权限.
 
 1）定期申请
 
-*总是不信任 - &gt;知道
+* always untrusted -> know it
 * suid bit  - &gt; mount with nosuid
 *限制可用的系统调用 - &gt; seccomp-bpf，grsec
  *泄漏到另一个容器（名称空间，文件系统中的错误） - &gt;每个容器内部具有不同uid的用户名称空间：容器中的1000  - 外部的14293和15398;  安全模块，如selinux或apparmor
@@ -296,9 +297,9 @@ CAP_MAC_OVERRIDE忽略内核MAC策略
 CAP_MAC_ADMIN配置MAC配置  
 CAP_SYSLOG修改内核printk行为  
 CAP_NET_ADMIN配置网络  
-CAP_SYS_ADMIN 	Catch all  
+CAP_SYS_ADMIN抓住所有  
  使用/ proc，/ sys  - &gt; remount ro，drop cap_sys_admin;  安全模块，如selinux或apparmor;  这个fs的某些部分是“名称空间感知”  
-Docker mounts these file systems into the container as "read-only" mount points.  
+Docker将这些文件系统作为“只读”挂载点安装到容器中.  
  .  / SYS  
  .  的/ proc / SYS  
  .  / PROC / SysRq的触发  

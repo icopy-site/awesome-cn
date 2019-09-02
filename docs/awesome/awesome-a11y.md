@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="brunopulis/awesome-a11y"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)

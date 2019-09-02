@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Solido/awesome-flutter"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [<img src="https://user-images.githubusercontent.com/1295961/45949308-cbb2f680-bffb-11e8-8054-28c35ed6d132.png" align="center" width="850">](https://flutter.dev/)
 
 <p align="center">
@@ -119,7 +120,7 @@
 
 - [Contact Picker](https://github.com/goderbauer/contact_picker) [42⭐]  - 从地址簿中挑选联系方式 [Michael Goderbauer](https://github.com/goderbauer).
 - [StaggeredGridView](https://github.com/letsar/flutter_staggered_grid_view) [932⭐]  -  GridView与可变大小的瓷砖 [Romain Rastel](https://github.com/letsar).
-- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [235⭐]  - 动画径向菜单 [Victor Choueiri](https://github.com/xqwzts).
+- [Radial Menu](https://github.com/xqwzts/flutter_radial_menu) [235⭐] - Animated Radial Menu by [Victor Choueiri](https://github.com/xqwzts).
 - [Tinder Cards](https://github.com/Ivaskuu/tinder_cards) [303⭐]  -  Tinder喜欢刷卡效果 [Ivascu Adrian](https://github.com/Ivaskuu).
 - [Login Animation](https://github.com/GeekyAnts/flutter-login-home-animation) [638⭐]  - 从登录到家的平滑动画 [Ruchika Gupta](https://github.com/geekruchika).
 - [Flip Panel](https://github.com/hnvn/flutter_flip_panel) [235⭐]  - 带有内置动画的翻转面板 [HungHD](https://github.com/hnvn).
@@ -326,7 +327,7 @@
 ## Templates
 
 - [Movie Details](https://github.com/FlutterRocks/movie-details-ui) [275⭐]  - 电影详情页面 [Iiro Krankka](https://github.com/roughike).
-- [Mates](https://github.com/CodemateLtd/FlutterMates) [337⭐]  - 如何从randomuser.me API加载配置文件和一个漂亮的配置文件详细信息页面 [Iiro Krankka](https://github.com/roughike).
+- [Mates](https://github.com/CodemateLtd/FlutterMates) [337⭐] - How to load profiles from the randomuser.me API and a nice profile details page by [Iiro Krankka](https://github.com/roughike).
 - [Weather](https://github.com/alessandroaime/Weather) [117⭐]  - 天气应用程序，学习如何使用Canvas和动画 [Alessandro Aime](https://github.com/alessandroaime).
 - [TodoMVC](https://github.com/brianegan/flutter_architecture_samples) [3711⭐]  -  TODO应用程序准备好了不同的风格：Vanilla，Redux，built_redux [Brian Egan](https://github.com/brianegan).
 - [Restaurant Menu](https://github.com/braulio94/menu_flutter) [433⭐]  - 餐厅菜单 [Braulio Cassule](https://github.com/braulio94).
@@ -412,7 +413,7 @@
 
 ### Services
 
-- [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) [89⭐] - Plugin to easily integrate with dialogflow by [Victor Rances](https://github.com/VictorRancesCode/).
+- [Dialogflow](https://github.com/VictorRancesCode/flutter_dialogflow) [89⭐]  - 插件可轻松与对话框流程集成 [Victor Rances](https://github.com/VictorRancesCode/).
 - [Intercom](https://pub.dev/packages/intercom) [22⭐]  - 通过以下方式为您的应用添加内部通信集成 [Maido Kaara](https://github.com/v3rm0n).
 - [OneSignal](https://github.com/OneSignal/OneSignal-Flutter-SDK) [229⭐]  - 推送通知服务 [OneSignal](https://github.com/OneSignal).
 - [Place Dialog](https://github.com/pinkfish/flutter_places_dialog) [44⭐]  - 地方选择器对话框将地点返回给应用程序 [David Bennett](https://github.com/pinkfish).
@@ -435,8 +436,8 @@
 #### Redux / ELM / Dependency Injection
 
 - [Built redux](https://github.com/davidmarne/flutter_built_redux)  [74⭐]  - 自动订阅您的redux商店.  基于构建的模式 [David Marne](https://github.com/davidmarne).
-- [Redux.dart](https://github.com/johnpryan/redux.dart) [320⭐] - Port of Redux to Dart with an ecosystem of middleware, Flutter integrations, 和 time traveling dev tools by [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects).
-- [Redux](https://github.com/brianegan/flutter_redux) [979⭐]  - 可与之合作 [redux.dart](https://github.com/johnpryan/redux.dart)，允许您轻松使用Redux Store来构建Widgets的实用程序.
+- [Redux.dart](https://github.com/johnpryan/redux.dart) [320⭐]  -  Redux到Dart的端口，具有中间件生态系统，Flutter集成和时间旅行开发工具 [John Ryan](https://github.com/johnpryan) 和 [Brian Egan](https://gitlab.com/users/brianegan/projects).
+- [Redux](https://github.com/brianegan/flutter_redux) [979⭐] - Built to work with [redux.dart](https://github.com/johnpryan/redux.dart)，允许您轻松使用Redux Store来构建Widgets的实用程序.
 - [Inject](https://github.com/google/inject.dart) [493⭐]  -  Google编译时依赖注入.
 - [Flux](https://github.com/google/flutter_flux) [317⭐]  -  Google实施的Flux框架.
 - [Fish](https://github.com/alibaba/fish-redux) [4988⭐]  - 阿里巴巴Redux的实施.
@@ -533,7 +534,7 @@
 - [Launcher Icons](https://github.com/franzsilva/flutter_launcher_icons) - 轻松生成启动器图标 [Mark O'Sullivan](https://github.com/MarkOSullivan94) 和 [Franz Silva](https://github.com/franzsilva).
 - [Redux Starter/Code Generator](https://github.com/hillelcoren/flutter-redux-starter) [211⭐]  - 具有Redux支持的入门项目和代码生成器 [Hillel Coren](https://twitter.com/hillelcoren).
 - [FlutterIcon](http://fluttericon.com/) [117⭐]  - 图标集生成器 [Mike Hoolehan](https://github.com/ilikerobots).
-- [FVM](https://github.com/leoafarias/fvm) [51⭐] - Flutter Version Management: A simple cli to manage Flutter SDK versions.
+- [FVM](https://github.com/leoafarias/fvm) [51⭐]  -  Flutter版本管理：管理Flutter SDK版本的简单cli.
 - [Flutter Debugger](https://github.com/blankapp/flutter-debugger) [98⭐]  - 基于的调试Flutter应用程序的独立应用程序 [Flipper](https://github.com/facebook/flipper) 通过 [JianyingLi](https://github.com/lijy91).
 - [genLang](https://github.com/KingWu/gen_lang) [30⭐]  - 国际化的代码生成器 [King Wu](https://github.com/KingWu).
 

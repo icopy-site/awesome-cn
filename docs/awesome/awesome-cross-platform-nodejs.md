@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="bcoe/awesome-cross-platform-nodejs"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img src="https://raw.githubusercontent.com/bcoe/awesome-cross-platform-nodejs/master/logo.svg?sanitize=true" width="500"/>
   <br>
@@ -67,10 +68,10 @@
 - [gulp-execa](https://github.com/ehmicky/gulp-execa) -  Gulp.js中的跨平台命令执行
 - [cross-spawn](https://github.com/IndigoUnited/node-cross-spawn) - &#39;child_process.spawn（）`的跨平台实现.
 - [shelljs](https://github.com/shelljs/shelljs) - 跨平台的Unix shell命令.
-- [node-windows](https://github.com/coreybutler/node-windows) - Windows support for Node.js scripts (daemons, eventlog, UAC, etc).
+- [node-windows](https://github.com/coreybutler/node-windows) -  Windows支持Node.js脚本（守护进程，事件日志，UAC等）.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -  Windows回退的各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) - 带有Windows回退的Unicode符号.
-- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 跨平台复制/粘贴.
+- [clipboardy](https://github.com/sindresorhus/clipboardy) / [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - Cross-platform copy/paste.
 
 ### Environment
 

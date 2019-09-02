@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="phalcon/awesome-phalcon"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Phalcon
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -129,7 +130,7 @@
 
 ## Events
 
-*Event management.*
+*事件管理.*
 
 * [Phact](https://github.com/wandersonwhcr/phact) - 使用Phalcon Framework进行简单的事件传播
 
@@ -255,7 +256,7 @@
 
 *各种脚手架工具.*
 
-* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - 用于Phalcon多模块应用的Yeoman发生器
+* [generator-phalcon](https://github.com/michaelkrone/generator-phalcon) - Yeoman generator for Phalcon Multi-Module Applications
 * [phalcon-bootstrap](https://github.com/JimmDiGrizli/phalcon-bootstrap) -  Bootstrap组件，用于快速开始在Phalcon Framework上开发应用程序
 
 
@@ -364,7 +365,7 @@
 
 ## Websites
 
-* [Built With](https://builtwith.phalconphp.com/) - 使用Phalcon Framework构建的应用程序，演示和项目库
+* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
 * [Phalcon Blog](https://blog.phalconphp.com/) -  Phalcon博客
 * [Phalconist](https://github.com/phalcon/phalconist) -  Phalconist上Phalcon Framework的资源目录
 

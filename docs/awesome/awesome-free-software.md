@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="johnjago/awesome-free-software"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
@@ -167,7 +168,7 @@
 - [Purism](https://puri.sm/) - 隐私，安全和自由的计算机和软件.
 - [Raptor Computing Systems](https://raptorcs.com/) - 使用IBM POWER9处理器和OpenBMC固件的台式机，主板和其他部件.
 - [Technoethical](https://tehnoetic.com/) - 与免费操作系统兼容的笔记本电脑，适配器和移动设备.
-- [ThinkPenguin](https://www.thinkpenguin.com/) - Modern laptops, desktops, and printers that contain no proprietary software.
+- [ThinkPenguin](https://www.thinkpenguin.com/) - 不包含专有软件的现代笔记本电脑，台式机和打印机.
 - [Vikings](https://vikings.net/) - 由Libreboot固件，libre软件和绿色能源提供支持的托管公司，也销售硬件.
 
 ### Hardware Resources
@@ -201,7 +202,7 @@
 
 ### Events
 
-- [LibrePlanet](https://libreplanet.org/) - 关于自由软件的年度会议.
+- [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
 - [Software Freedom Day](https://en.wikipedia.org/wiki/Software_Freedom_Day) - 全球年度免费软件庆祝活动，旨在提高对自由软件及其优点的认识.
 
 ### Licensing

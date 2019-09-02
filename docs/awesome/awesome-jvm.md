@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="deephacks/awesome-jvm"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的JVM低级，性能和非框架相关内容的精选列表.
@@ -40,7 +41,7 @@
 * [Clojure](http://clojure.org/)   -  Rich Hickey创作的Lisp方言.  动态类型，强调函数式编程.
 * [Erjang](http://www.erjang.org) - 基于JVM的Erlang VM.
 * [Eta](http://eta-lang.org/) -  JVM上纯粹，懒惰，强类型的函数式编程语言.
-* [Frege](https://github.com/Frege/frege) -  Haskell精神中的纯函数式编程语言.
+* [Frege](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
 * [gojava](https://github.com/sridharv/gojava) -  Go包的Java绑定.
 * [Golo](http://golo-lang.org/) - 一种简单的动态语言，广泛使用`invokedynamic`.
 * [Groovy](http://www.groovy-lang.org/) - 可选的类型和动态语言，具有静态类型和静态编译功能.
@@ -56,7 +57,7 @@
 * [Rembulan](https://github.com/mjanicek/rembulan) -  Rembulan是JVM的Lua 5.3实现，用纯Java编写，具有最小的依赖性.
 * [Renjin](http://www.renjin.org/) - 用于R语言的基于JVM的解释器，用于统计分析
 * [Scala](http://www.scala-lang.org/) - 强大而静态的编程语言，结合了面向对象和函数式编程思想.
-* [Xtend](http://www.eclipse.org/xtend/) -  Java的灵活和富有表现力的方言，它编译成Java 5源代码.
+* [Xtend](http://www.eclipse.org/xtend/) - Flexible and expressive dialect of Java, which compiles into Java 5 source code.
 
 ## Machine Learning
 * [Deeplearning4j](https://deeplearning4j.org/) - 用于JVM的开源，分布式深度学习库.
@@ -69,7 +70,7 @@
 
 * [Agera](https://github.com/google/agera) -  Google的Android反应式编程.
 * [Agrona](https://github.com/real-logic/Agrona) - 构建高性能应用程序时常见的数据结构和实用程序方法库.
-* [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
+* [Apache Arrow](http://arrow.apache.org/) - 用于柱状内存分析的高性能跨系统数据层.
 * [bloofi](https://github.com/lemire/bloofi) - 多维Bloom过滤器的Java实现
 * [Cap’n Proto](https://capnproto.org/) - 疯狂快速的数据交换格式和基于功能的RPC系统.
 * [caffeine](https://github.com/ben-manes/caffeine) -  Java 8的高性能缓存库.
@@ -149,7 +150,7 @@
 
 * [Antlr](http://www.antlr.org/) - 用于读取，处理，执行或翻译结构化文本或二进制文件的分析器生成器.
 * [auto](https://github.com/google/auto) -  Java的源代码生成器集合.
-* [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
+* [Apache Calcite](http://calcite.apache.org/docs/) - 动态数据管理框架和SQL解析器插件.
 * [Checker Framework](http://types.cs.washington.edu/checker-framework/) - 编译器插件，可以发现错误或验证其缺失.
 * [compile-testing](https://github.com/google/compile-testing) -  javac和注释处理器的测试工具.
 * [derive4j](https://github.com/derive4j/derive4j) - 代数数据类型构造函数，模式匹配，态射，光学和类型类.
@@ -193,7 +194,7 @@
 * [Chronicle-Network](https://github.com/OpenHFT/Chronicle-Network) - 高性能网络库.
 * [comcast](https://github.com/tylertreat/comcast) - 模拟糟糕的网络连接.
 * [gor](https://github.com/buger/gor) - 实时HTTP流量重放.
-* [gRPC](http://www.grpc.io/) - 高性能，开源，通用的RPC框架，将移动和HTTP / 2放在第一位.
+* [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
 * [jRT](https://github.com/LatencyUtils/jRT) - 测量java应用程序对基于套接字的请求的响应时间.
 * [JXIO](https://github.com/accelio/JXIO) -  AccelIO上的Java API（C库），一种针对硬件加速优化的高性能异步可靠消息传递和RPC库.
 * [K3PO](https://github.com/k3po/k3po) - 创建任意网络流量和行为，以验证网络端点是否正常运行.
@@ -204,7 +205,7 @@
 * [proteus-java](https://github.com/netifi-proteus/proteus-java) - 基于RSocket的Proteus Java Client.
 * [reactive-grpc](https://github.com/salesforce/reactive-grpc) - 反应性gRPC是一套用于将gRPC与Reactive Streams编程库一起使用的库.
 * [RSocket](http://rsocket.io/) -  RSocket是一种二进制协议，用于字节流传输，如TCP，WebSockets和Aeron.
-* [SimianArmy](https://github.com/Netflix/SimianArmy) - 弹性工具，有助于确保您的应用程序可以容忍随机实例故障.
+* [SimianArmy](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j](https://github.com/kaitoy/pcap4j) - 使用libpcap捕获，制作和发送数据包的Java库.
 * [pig](https://github.com/rafael-santiago/pig) -  Linux数据包制作工具.
 * [tcpdump](http://www.tcpdump.org/) - 用于网络流量捕获的数据包分析器
@@ -254,7 +255,7 @@
 * [HdrLogProcessing](https://github.com/nitsanw/HdrLogProcessing) - 用于HDR直方图日志操作的实用程序.
 * [heapster](https://github.com/mariusae/heapster) -  JVM的生产堆分析.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - 在没有安全点样本偏差的情况下采样JVM分析器.
-* [jamm](https://github.com/jbellis/jamm) - 测量实际对象内存使用情况，包括JVM开销.
+* [jamm](https://github.com/jbellis/jamm) - 测量实际对象内存使用，包括JVM开销.
 * [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - 用于收集有关正在运行的Java应用程序的诊断和分析数据的工具，几乎没有性能开销.
 * [java-sizeof](https://github.com/dweiss/java-sizeof) -  Java的内存消耗估算器.
 * [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - 实验性工具和测试，以帮助研究JVM，类库和硬件中的并发支持的正确性.
@@ -263,7 +264,7 @@
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) - 日志分析/可视化Java HotSpot JIT编译.
 * [jitwatch-intellij](https://github.com/yole/jitwatch-intellij) -  IntelliJ IDEA的JITWatch插件.
 * [jHiccup](http://www.azul.com/jhiccup/) -  jHiccup是一个开源工具，旨在测量与应用程序底层Java运行时平台相关的暂停和停顿.
-* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - 用Java和其他语言编写的针对JVM的微基准测试.
+* [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - 用Java和其他语言编写的微基准测试目标JVM.
 * [jmh-compare-gui](https://github.com/akarnokd/jmh-compare-gui) - 用于比较JMH结果的GUI.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - 分析JVM中的实际对象布局方案，占用空间和引用.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - 帮助解决性能瓶颈，确定内存泄漏并了解线程问题.
@@ -312,8 +313,8 @@
 * [jvm.go](https://github.com/zxh0/jvm.go) - 用Go编写的JVM.
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm)   - 用于iOS本机开发的C源转换器的开源Java字节码.  设计作为一部分 [Codename One](https://www.codenameone.com/) WORA为移动项目.
 * [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) - 提前针对iOS，Mac OSX和Linux的JVM字节码编译器.
-* [Zing](https://www.azul.com/products/zing/) - 唯一可以消除大型堆大小的Java垃圾收集暂停的JVM.
-* [Zulu](https://www.azul.com/products/zulu/) - The only certified multi-platform build of OpenJDK: Free, 100% open source Java.
+* [Zing](https://www.azul.com/products/zing/) - 唯一可以消除大型堆大小的Java垃圾回收暂停的JVM.
+* [Zulu](https://www.azul.com/products/zulu/) - 唯一经过认证的OpenJDK多平台版本：免费，100％开源Java.
 
 ## Resources
 
@@ -349,7 +350,7 @@
 * [hotspot-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-dev) -  HotSpot开发邮件列表.
 * [hotspot-gc-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev) - 关于HotSpot垃圾收集器开发的技术讨论.
 * [mechanical-sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) - 讨论如何以同情的方式编码并测量底层堆栈/平台，以便提取出良好的性能.
-* [Performance Java User's Group](https://plus.google.com/u/0/communities/107178245817384004088/) - 对于希望将系统推向新水平的专业Java *开发人员*
+* [Performance Java User's Group](https://plus.google.com/u/0/communities/107178245817384004088/) - 对于希望将系统提升到新水平的专业Java *开发人员*
 * [Virtual Machine Meetup 2017](http://vmmeetup.github.io/2017/) - 讨论托管语言执行领域的最新研究和发展的场所. 
 
 ## Media
@@ -410,7 +411,7 @@
 * [Dávid Karnok](http://akarnokd.blogspot.se/) - 关于高级RxJava博客的RxJava提交者.
 * [Doug Lea](http://g.oswego.edu/) -  Java内存模型的作者.
 * [Gil Tene](https://twitter.com/giltene) -  Azul Systems.
-* [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
+* [Heinz Kabutz](https://twitter.com/heinzkabutz) -  250多位Java专家通讯的作者.
 * [Ivan Krylov](https://twitter.com/JohnWings) -  JVM专家.
 * [Jake Wharton](https://twitter.com/JakeWharton) -  Square，谷歌，开源黑客.
 * [John Rose](https://blogs.oracle.com/jrose/) -  HotSpot开发人员.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="alexk111/awesome-bitcoin-payment-processors"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Bitcoin Payment Processors [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
  一系列令人敬畏的比特币支付处理器和使用它们的商家的故事.  为什么他们很棒？

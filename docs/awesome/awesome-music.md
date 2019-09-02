@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ciconia/awesome-music"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩音乐库，工具，框架和软件的分类集合.
@@ -99,7 +100,7 @@
 * [Faust](http://faust.grame.fr/) - 专为实时信号处理和合成而设计的函数式编程语言.
 * [IanniX](https://github.com/iannix/IanniX) - 基于Iannis Xenakis工作的图形化开源音序器，用于数字艺术.
 * [Inscore](http://inscore.sourceforge.net/) - 设计交互式增强音乐乐谱的环境.
-* [Leipzig](https://github.com/ctford/leipzig) -  Overtone的合成库.
+* [Leipzig](https://github.com/ctford/leipzig) - a composition library for Overtone.
 * [music21](http://web.mit.edu/music21/) - 计算音乐学工具包.
 * [Music Suite](http://music-suite.github.io/docs/ref/) - 基于Haskell的广义音乐符号和理论的语言.
 * [Nyquist](https://www.cs.cmu.edu/~music/nyquist/) - 合理的合成和组合语言.
@@ -115,7 +116,7 @@
 
 ## Music Theory Teaching
 
-* [Artusi](https://www.artusi.xyz) - Interactive music theory exercises.
+* [Artusi](https://www.artusi.xyz) - 互动音乐理论练习.
 * [Four Score and More](https://fourscoreandmore.org/) - 根据分数量身定制的音乐理论练习.
 * [musictheory.net](https://www.musictheory.net) - 课程和练习
 * [OpenMusicTheory](http://openmusictheory.com/) - 一种不断增长的在线“教科书”，用于音乐理论和听觉技巧.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="raphamorim/awesome-canvas"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -30,7 +31,7 @@
 * [Canvas Colour Cycling](http://www.effectgames.com/demos/canvascycle/) [[show me the code](http://www.effectgames.com/effect/article.psp.html/joe/Old_School_Color_Cycling_with_HTML5)]•此演示是一个完整的8位色彩循环引擎的实现，可以实时渲染到HTML5 Canvas中.
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)]•参考使用画布制作装载机.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)]•关于如何使用canvas创建圆环的一个很好的例子.
-* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) （谷歌Chrome强烈推荐）•这个演示使用球形环境映射技术呈现Apple iPod的3D模型.
+* [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
 * [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code](https://github.com/raphamorim/canvas-experiments)]•布料3D效果叉.
 * [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code](https://github.com/raphamorim/canvas-experiments) ]•实验显示如何生成随机粒子.  非常简单的同化代码.
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)]•关于使用光线行进和距离场（也称为“球体追踪”）渲染技术生成程序3D场景的GPU渲染着色器实验的示例.
@@ -55,7 +56,7 @@
 * [Star Time Lapse Effect](https://fralonra.github.io/star-time-lapse/demo/) [[show me the code](https://github.com/fralonra/star-time-lapse)]•使用画布创建星形延时天空的示例.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)]•关于在画布中生成2D树的演示.
 * [Trigonoparty!](https://ramesaliyev.com/trigonoparty) [[show me the code](https://github.com/ramesaliyev/trigonoparty)]•简单的三角学可视化.
-* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
+* [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) •基于块的HTML5视频销毁，最好在基于webkit的浏览器中查看.
 * [Wipers](http://cssdeck.com/labs/full/oluh99m6) [[show me the code](http://cssdeck.com/labs/oluh99m6)]•刮水器用帆布接受生活.
 * [3D Lorenz Atractor](http://cssdeck.com/labs/full/3d-lorenz-atractor) [[show me the code](http://cssdeck.com/labs/3d-lorenz-atractor)]•一个简单的画布示例，显示了Lorenz atractor
 * [3D Movement in HTML5 Canvas](http://cssdeck.com/labs/full/xtunjekt) [[show me the code](http://cssdeck.com/labs/xtunjekt)]•关于矢量位置和运动的极好例子.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="opencompany/awesome-open-company"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一个由社区策划的精彩列表 [open companies](#what-is-an-open-company),
 灵感来自众多 [awesome-x lists](https://github.com/sindresorhus/awesome) 在那里.

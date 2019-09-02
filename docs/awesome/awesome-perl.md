@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hachiojipm/awesome-perl"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的Perl5框架，库和软件的精选列表.  灵感来自 [awesome-go](https://github.com/avelino/awesome-go).
@@ -36,7 +37,7 @@
 
 * [Benchmark](https://metacpan.org/pod/Benchmark)
 * [Dumbbench](https://metacpan.org/pod/Dumbbench)
-* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - 多进程基准测试
+* [Parallel::Benchmark](https://metacpan.org/pod/Parallel::Benchmark) - Benchmark in multiprocesses
 
 ## Caches
 
@@ -360,7 +361,7 @@
 * [Template::Toolkit](https://metacpan.org/pod/Template::Toolkit) - 非常流行的模板处理系统
 * [Text::MicroTemplate](https://metacpan.org/pod/Text::MicroTemplate) - 使用纯Perl和核心模块编写的快速，简单和安全的模板引擎.
 * [Text::MicroTemplate::Extended](https://metacpan.org/pod/Text::MicroTemplate::Extended) - 扩展文本:: MicroTemplate.
-* [Text::Template](https://metacpan.org/pod/Text::Template) - Templates with embedded perl
+* [Text::Template](https://metacpan.org/pod/Text::Template) - 带有嵌入式perl的模板
 * [Text::Xslate](https://metacpan.org/pod/Text::Xslate)   - 使用XS加快模板引擎.  支持多种语法.
 * [Tiffany](https://metacpan.org/pod/Tiffany)   - 模板引擎的通用接口.  它使得使用多个模板引擎变得容易.
 * [Template::Magic](https://metacpan.org/pod/Template::Magic) - 运行时值与模板的魔术合并.

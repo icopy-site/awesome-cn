@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="addyosmani/es6-tools"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 ## Transpilers
 
@@ -13,7 +14,7 @@
 * [defs](https://github.com/olov/defs) -  ES6块范围的const并将变量赋予ES3变量
 * [es6_module_transpiler-rails](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) -  Rails资产管道中的ES6模块
 * [Some Sweet.js macros](https://github.com/jlongster/es6-macros) 从ES6编译到ES5
-* Bitovi [transpile](https://github.com/stealjs/transpile) - 将ES6转换为AMD，CJS和StealJS.
+*比特 [transpile](https://github.com/stealjs/transpile) - 将ES6转换为AMD，CJS和StealJS.
 * [regexpu](https://github.com/mathiasbynens/regexpu) - 将支持Unicode的ES6正则表达式转换为ES5
 * [Lebab](https://github.com/mohebifar/lebab) - 将ES5代码转换为ES6（近似值）
 
@@ -118,7 +119,7 @@
 ## Polyfills
 
 * [core-js](https://github.com/zloirock/core-js) - 用于ES6的模块化和紧凑型polyfill，包括符号，映射，集合，迭代器，Promises，setImmediate，Array泛型等.标准库使用者 [Babel](https://github.com/babel/babel).
-* [es6-shim](https://github.com/paulmillr/es6-shim) - 几乎所有新的ES6方法 - 来自Map，Set，String，Array，Object，Object.is等等.
+* [es6-shim](https://github.com/paulmillr/es6-shim) - 几乎所有新的ES6方法 - 来自Map，Set，String，Array，Object，Object.is等.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 *聚合物 [WeakMap shim](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith`](https://github.com/mathiasbynens/String.prototype.startsWith)

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="miguelmota/awesome-amazon-alexa"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 &gt;策划的精彩资源列表 [Amazon Alexa](https://developer.amazon.com/alexa) 平台.
 
@@ -19,7 +20,7 @@
 - [ask-alexa-pykit](https://github.com/anjishnu/ask-alexa-pykit) - 用于开发Amazon Echo ASK技能的极简主义SDK.
 - [alexa-skill-kit](https://github.com/stojanovic/alexa-skill-kit) - 借助AWS Lambda轻松实现Alexa Skill开发的库.
 - [alexa-home](https://github.com/zachfeldman/alexa-home) - 使用Amazon Echo控制家庭！
-- [go-alexa](https://github.com/mikeflynn/go-alexa) - A collection of Amazon Echo / Alexa tools for Go development.
+- [go-alexa](https://github.com/mikeflynn/go-alexa) - 用于Go开发的Amazon Echo / Alexa工具集合.
 - [AlexaAndroid](https://github.com/willblaschko/AlexaAndroid) - 用于抽象访问Android应用程序的Amazon Alexa服务的库和示例应用程序.
 - [arduino-esp8266-alexa-wemo-switch](https://github.com/kakopappa/arduino-esp8266-alexa-wemo-switch) - 采用Arduino D1 Mini制作的Amazon Alexa + WeMos切换器.
 - [MacLexa](https://github.com/kunal732/MacLexa) - 将亚马逊的Alexa放入Mac系统托盘，使用Alexa语音服务并使用Swift构建.
@@ -42,7 +43,7 @@
 - [amazon-alexa-php](https://github.com/MiniCodeMonkey/amazon-alexa-php) - 亚马逊Alexa PHP库.
 - [alexa-app](https://github.com/develpr/alexa-app) - 使用Laravel和Lumen更轻松地创建Amazon Alexa Skills Kit（ASK）应用程序的类集.
 - [Virtual Alexa](https://github.com/bespoken/virtual-alexa) - 用于单元测试的Alexa仿真器.
-- [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) -  ASK命令行界面（ASK CLI）是一种管理Alexa技能和相关AWS Lambda功能的工具.
+- [ASK CLI](https://developer.amazon.com/docs/smapi/quick-start-alexa-skills-kit-command-line-interface.html) -  ASK命令行界面（ASK CLI）是您管理Alexa技能和相关AWS Lambda功能的工具.
 
 ## NPM Modules
 
@@ -92,7 +93,7 @@
 - [EchoMovieDialog](https://github.com/patanoia/EchoMovieDialog) -  Amazon Echo技能：Alexa使用电影引号参与对话.
 - [alexa-coho](https://github.com/amzn/alexa-coho) - 使用Lighting API为Alexa Connected Home构建技能适配器的示例代码.
 - [asana-alexa-skill](https://github.com/dasevilla/asana-alexa-skill) -  Asana的Alexa Skill.
-- [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) - Ask Alexa to randomly pick white or black cards from Cards Against Humanity.
+- [alexa-against-humanity](https://github.com/radiantnode/alexa-against-humanity) - 让Alexa从Cards Against Humanity随机挑选白卡或黑卡.
 - [echo-venmo](https://github.com/AbhiAgarwal/echo-venmo) -  Venmo的Amazon Echo技巧.
 - [Uber-Alexa-Skill](https://github.com/objectiveSee/Uber-Alexa-Skill) - 一个Alexa技能，可以调用Uber.
 - [npmAlexa](https://github.com/stevengill/npmAlexa) -  Alexa应用程序是ping NPM API.
@@ -111,11 +112,11 @@
 ## Boilerplates
 
 - [skill-sample-nodejs-fact](https://github.com/alexa/skill-sample-nodejs-fact) - 此Alexa示例技能是基本事实技能的模板.
-- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - 一个Alexa技能示例，演示如何在3P技能中播放长形音频.
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - 一个Alexa技能样本，演示如何在3P技能中播放长形音频.
 - [skill-sample-nodejs-petmatch](https://github.com/alexa/skill-sample-nodejs-petmatch) - 此Alexa Skill Kit示例演示了如何使用对话管理和实体解析来构建技能.
 - [skill-sample-nodejs-team-lookup](https://github.com/alexa/skill-sample-nodejs-team-lookup) -  Alexa技能示例，展示如何构建团队查找技能.
-- [skill-sample-nodejs-city-guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - 一个Alexa技能示例，展示如何建立一个具有单个城市的地标和新闻的技能.
-- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - 一个Alexa技能示例，演示如何在3P技能中播放长形音频.
+- [skill-sample-nodejs-city-guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - 一个Alexa技能样本，展示如何建立一个具有单个城市的地标和新闻的技能.
+- [skill-sample-nodejs-audio-player](https://github.com/alexa/skill-sample-nodejs-audio-player) - 一个Alexa技能样本，演示如何在3P技能中播放长形音频.
 - [skill-sample-nodejs-highlowgame](https://github.com/alexa/skill-sample-nodejs-highlowgame) - 此Alexa示例技能是基本高低游戏技能的模板.
 - [skill-sample-nodejs-howto](https://github.com/alexa/skill-sample-nodejs-howto) - 本教程将首次介绍Alexa技能开发人员使用名为“Minecraft Helper”的模板创建基于参数的技能所涉及的所有必要步骤.
 - [skill-sample-nodejs-feed](https://github.com/alexa/skill-sample-nodejs-feed) -  Alexa技能模板，帮助创建阅读RSS / Atom提要的技能.
@@ -123,7 +124,7 @@
 - [skill-sample-nodejs-calendar-reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader) -  Alexa技能示例，显示如何从.ICS文件导入日历数据.
 - [skill-sample-nodejs-trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - 这个Alexa示例技能是一个琐事风格游戏的模板，保持得分.
 - [skill-sample-nodejs-quiz-game](https://github.com/alexa/skill-sample-nodejs-quiz-game) -  Alexa技能示例，展示如何构建测验游戏技能.
-- [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - 该项目演示了如何使用帐户链接和个人语音代码构建与Salesforce数据集成的Alexa私人技能.
+- [skill-sample-nodejs-salesforce](https://github.com/alexa/skill-sample-nodejs-salesforce) - This project demonstrates how to build an Alexa private skill that integrates with your Salesforce data, utilizing account linking and a personal voice code.
 
 ## Prototyping
 
@@ -214,7 +215,7 @@
 
 - [Unofficial Alexa Slack](http://www.alexaslack.com)   - 一组专注于亚马逊Alexa的聊天频道，支持硬件和软件.  欢迎开发人员，设计师，营销人员，商业人士，业余爱好者，学生以及其他技术专业人士参与.
 - [Storyline community](https://www.facebook.com/groups/storylinecommunity/) -  Alexa开发者的Facebook社区围绕Storyline构建，这是一种无需编码即可创建语音应用的工具.
-- [Alexa Dev Days](https://developer.amazon.com/alexa/devday)   -  Alexa Dev Days是来自亚马逊的免费互动活动，由英特尔赞助.  参与实践课程，学习如何创建语音体验，并了解最新的UI设计和行业趋势.  所有级别的学员都可以加入我们的培训课程，研讨会，现场演示以及与Alexa专家和同行建立联系.
+- [Alexa Dev Days](https://developer.amazon.com/alexa/devday) - Alexa Dev Days are free, interactive events from Amazon and sponsored by Intel. Engage in hands-on sessions where you will learn to create voice experiences and hear the latest on UI design and industry trends. Learners of all levels can join us for training sessions, workshops, live demos, and networking with Alexa experts and your peers.
 
 ## Influencers
 

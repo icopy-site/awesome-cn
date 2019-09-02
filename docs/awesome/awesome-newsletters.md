@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="zudochkin/awesome-newsletters"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Newsletters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/zudochkin/awesome-newsletters.svg)](https://travis-ci.org/zudochkin/awesome-newsletters)
 
 精选新闻通讯的精选列表.
@@ -23,15 +24,15 @@
 ### General Web Development
 
 - [Weekend Reading](https://tinyletter.com/assaf) .  关于Web开发，设计和启动生活的每周电子邮件.
-- [Web Development Reading List](https://wdrl.info) .  本通讯分享了Web开发的最新文章.
+- [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 - [Fullweb Weekly](http://fullweb.io/) .  针对fullstack Web开发人员的每周简报.  它每周向您发送有关Web前端和后端，devops和用户体验的前5个链接.
-- [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周简报，讨论围绕网络平台的有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
+- [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/) .  每两周在您的收件箱中获取最新的节目新闻，酷图书馆和生产力提示.
 
 ### JavaScript
 
 - [JavaScript Weekly](https://javascriptweekly.com/) .  每日一次的免费电子邮件汇总JavaScript新闻和文章. [Archive](https://javascriptweekly.com/issues).
-- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
+- [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/) .  每月两次通过电子邮件通讯，为设计人员和开发人员提供有用的提示，技巧和资源.
 - [A Drip of JavaScript](http://adripofjavascript.com/index.html) .  一个快速的JavaScript提示，每隔一周发送到您的收件箱.
 - [Web Tools Weekly](https://webtoolsweekly.com/) .  Web Tools Weekly是一个前端开发和网页设计时事通讯，专注于工具.
 - [ES.next News](http://esnextnews.com/) .  每周由Axel Raushmayer博士和Johannes Weber策划的5个ECMAScript.next链接.
@@ -145,7 +146,7 @@
 - [The Swift by Sundell](https://www.swiftbysundell.com/newsletter) .  介绍Swift by Sundell每月简报！
 - [iOS Goodies](https://ios-goodies.com) .  每周iOS时事通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) .  最好的iOS开发，营销，Swift，设计和Xcode链接. [Archive](https://indieiosfocus.com/issues).
-- [Swift Developments](https://andybargh.com/swiftdevelopments/). Weekly curated newsletter containing a hand picked selection of the latest links, videos, tools and tutorials for people interested in designing and developing their own iOS, macOS, watchOS and tvOS apps using Swift.
+- [Swift Developments](https://andybargh.com/swiftdevelopments/) .  每周策划的时事通讯，包含精选的最新链接，视频，工具和教程，供有兴趣使用Swift设计和开发自己的iOS，macOS，watchOS和tvOS应用的人们使用.
 
 ### Go
 
@@ -350,7 +351,7 @@
 - [ChangeLog Weekly](https://changelog.com/weekly) .  每周一期的时事通讯，涵盖了所有可以触及开源雷达的内容.
 - [GitHub News](https://www.gitlogs.com/) .  通过峰值检测算法检测GitHub上的顶级趋势回购.
 - 收件箱中的灵感 [TED](https://www.ted.com/newsletter).
-- 我们热爱的项目归档 [KickStarter](https://www.kickstarter.com/newsletters).
+- Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
 - [Startup Digest](https://www.startupdigest.com/reading-lists) .  来自世界各地的精选阅读材料，根据您​​的兴趣定制.
 - 免费的每周简报，包括与域名，开发，货币化，如何指南，提示和技巧，资源，活动等相关的最佳和手工策划链接. [This Week in Domains](http://www.thisweekindomains.com/)
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每周三为您带来一个全新的，鼓舞人心的早晨例程.
@@ -372,7 +373,7 @@
 - [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
 - [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.
 - [Founders Grid](https://foundersgrid.com/) .  针对创业公司创始人的每周简报，汇集了创业生态系统中的最佳资源.
-- [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
+- [Software Lead Weekly](http://softwareleadweekly.com/) .  每周一封的免费电子邮件，适合关心人，文化和领导力的忙碌人士.
 - [Hacking Revenue](http://hackingrevenue.com/) .  每周发送一封电子邮件，其中包含精心策划的见解，以扩展您的业务.
 - [Changelog Nightly](https://changelog.com/nightly) .  每天晚上10点CT发一封电子邮件，发现GitHub上最热门的新回购.
 - [Code Cartoons](https://tinyletter.com/codecartoons) .  通过电子邮件通过漫画学习代码.

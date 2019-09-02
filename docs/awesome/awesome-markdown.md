@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="BubuAnabelas/awesome-markdown"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
@@ -117,7 +118,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [MarkRight](https://github.com/dvcrn/markright)   -  Minimalistic github风格的Markdown编辑器.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 - [Mark Text](https://github.com/marktext/marktext/)   - 下一代Markdown编辑器（使用Electron构建）.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 - [PileMd](https://pilemd.com/)   -  Markdown Note App.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
-- [StackEdit](https://stackedit.io/) - In-browser markdown editor. ![Globe][globe]
+- [StackEdit](https://stackedit.io/)   - 浏览器内标记编辑器.  ！[环球] [全球]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) - 可扩展的GFM Markdown WYSIWYG编辑器！[全球] [全球]
 - [Typora](https://typora.io/)   - 最小的Markdown编辑器.  ！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
 
@@ -134,7 +135,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 &gt;允许您编辑，转换，导出，_et al._您的Markdown文档的工具.
 
-- [Classeur](http://classeur.io/)   -  Classeur是一个编写简单笔记以及技术文档和博客的新平台.  ！[环球] [全球]
+- [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. ![Globe][globe]
 - [Dillinger](https://dillinger.io/)   -  Dillinger是一款支持云端，移动就绪的离线存储，AngularJS支持的HTML5 Markdown编辑器.  ！[环球] [全球]
 - [GitDown](https://github.com/gajus/gitdown)   -  GitHub的Markdown预处理器.  ：octocat：
 - [HackMD](https://hackmd.io)   -  HackMD允许您在所有平台上创建实时协作Markdown备注.  ！[环球] [全球]
@@ -203,7 +204,7 @@ _[Icon pack by Icons8](https://icons8.com)_
 <!--Definitions-->
 
 [globe]：h​​ttps：//maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png&#39;Globe&#39;
-[android-os]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png&#39;Android OS&#39;
+[android他们]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png&#39;Android OS&#39;
 [ios-logo]：https：//maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png&#39;iOS Logo&#39;
 [apple]：https：//maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png&#39;Apple&#39;
 [linux]：https：//maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png&#39;Linux&#39;

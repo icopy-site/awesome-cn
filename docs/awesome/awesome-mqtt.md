@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hobbyquaker/awesome-mqtt"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome MQTT
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -108,7 +109,7 @@
 * [mqtt-elements](https://github.com/mqttjs/mqtt-elements) - 用于MQTT的聚合物元素.
 * [mqtt-rs](https://github.com/zonyitoo/mqtt-rs) -  Rust的MQTT协议库.
 * [mqtt-stats](https://github.com/gambitcomminc/mqtt-stats) - 用于监控MQTT主题统计信息的订户客户端
-* [mqtt-wrapper](https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper) - Polymer Element that wraps other Elements and links them to MQTT topics.
+* [mqtt-wrapper](https://www.webcomponents.org/element/hobbyquaker/mqtt-wrapper/elements/mqtt-wrapper) - 包含其他元素并将它们链接到MQTT主题的Polymer Element.
 * [mqtt.dart](https://github.com/jnguillerme/mqtt.dart) -  Dart mqtt客户端.
 * [MQTT.js](https://github.com/mqttjs) -  Node.js的MQTT客户端.
 * [mqtt](https://github.com/jeffallen/mqtt) -  Go中的MQTT客户端，服务器和负载测试器.
@@ -280,7 +281,7 @@
 #### Messaging
 
 * [mqtt-irc-bot](https://github.com/dobermai/mqtt-irc-bot) -  MQTT到IRC / IRC到MQTT桥或机器人.
-* [mqttwarn](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notify pluggable services.
+* [mqttwarn](https://github.com/jpmens/mqttwarn) - 订阅MQTT主题（使用通配符）并通知可插拔服务.
 * [twitter-to-mqtt](https://github.com/knolleary/twitter-to-mqtt) - 一个python守护程序，它使用Twitter Streaming API访问推文并将它们重新发布到MQTT主题.
 
 
@@ -317,7 +318,7 @@
 * [HelloIoT](https://github.com/adrianromero/helloiot) -  HelloIoT是MQTT客户端和仪表板应用程序.
 * [HOMR-REACT](https://github.com/klauserber/homr-react) - 可配置的MQTT可视化.
 * [IoT OnOff](https://www.iot-onoff.com/) - 可配置的iOS / Android应用程序.
-* [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) - 易于定制的控制面板 -  MQTT客户端.
+* [Linear MQTT Dashboard](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 * [MMM-mqtt](https://github.com/javiergayala/MMM-mqtt)   - 这是MagicMirror²的扩展.  它提供了订阅MQTT主题并显示它们的能力.
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) -  Android应用程序：通过该应用程序，您可以为支持MQTT的物联网智能家居设备和应用程序创建仪表板.
 * [mqtt-panel](https://github.com/fabaff/mqtt-panel) -  MQTT的Web界面.
@@ -340,7 +341,7 @@
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/hobbyquaker/awesome-mqtt/blob/master/contributing.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/hobbyquaker/awesome-mqtt/blob/master/contributing.md) first.
 
 
 ## License

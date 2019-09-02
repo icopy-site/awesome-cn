@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ashishb/android-security-awesome"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 
 android安全相关资源的集合.
@@ -79,7 +80,7 @@ android安全相关资源的集合.
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - 相当于基于Stub的代码注入，但没有对二进制文件进行任何修改
 12. [Inspeckage](https://github.com/ac-pm/Inspeckage)   -  Android Package Inspector  - 使用api钩子进行动态分析，启动未导出的活动等等.  （Xposed模块）
-13. [Android Hooker](https://github.com/AndroidHooker/hooker) - 动态Java代码检测（需要Substrate Framework）
+13. [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
 14. [ProbeDroid](https://github.com/ZSShen/ProbeDroid) - 动态Java代码检测
 15. [Android Tamer](https://androidtamer.com/) - 适用于Android安全专业人员的虚拟/实时平台
 16. [DECAF](https://github.com/sycurelab/DECAF) - 基于QEMU的动态可执行代码分析框架（DroidScope现在是DECAF的扩展）

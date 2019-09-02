@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dreikanter/sublime-bookmarks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/)  是一个跨平台的文本和源代码编辑器，带有Python应用程序编程接口.  其功能可通过插件扩展.  大多数扩展包都有免费软件许可证，并且是社区构建和维护的.   -  [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
@@ -62,10 +63,10 @@
 - [Glue](https://github.com/chrissimpkins/glue) -  Sublime Text 2和3的跨平台，可扩展插件，可将您喜欢的编辑器连接到shell.
 - [File Navigator](https://github.com/csch0/SublimeText-File-Navigator) - 键盘友好的文件导航器和管理器.
 - [Synesthesia](https://github.com/dariusf/synesthesia) - 用于突出显示漂亮颜色的文本的插件.
-- [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
+- [StyleToken](https://github.com/vcharnahrebel/style-token) - 允许突出显示具有不同颜色的某些文本（类似于Notepad ++“样式标记”功能）.
 - [Origami](https://github.com/SublimeText/Origami)   - 按你喜欢的方式拆分窗户！  创建新窗格，删除窗格，从窗格移动和克隆视图.
 - [Sync Settings](https://github.com/mfuentesg/SyncSettings) - 保持Sublime Text配置同步的跨平台解决方案
-- [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser)   - 抛弃侧边栏并使用键盘在普通标签中浏览文件，就像亲！  也， [Dired](https://en.wikipedia.org/wiki/Dired) 允许您使用ST提供的强大文本编辑功能修改目录结构.
+- [SublimeFileBrowser](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) 允许您使用ST提供的强大文本编辑功能修改目录结构.
 - [PackageResourceViewer](https://github.com/skuroda/PackageResourceViewer)   - 查看和编辑Sublime包资源.  扩展和主题开发很有帮助.
 
 ### Ruby Profile
@@ -146,7 +147,7 @@ Plugins:
 - [Soda](http://buymeasoda.github.io/soda-theme/) - 黑暗和轻松的自定义UI主题.
 - [Spacegray](http://kkga.github.io/spacegray/)   -  Sublime Text 2/3的一组自定义UI主题.  这都是关于炒作和最小化的.  采用不同口味，配以Base16配色方案.  http://kkga.github.io/spacegray
 - [Cobalt2](https://github.com/wesbos/cobalt2) - 功能齐全的Sublime Text蓝色主题
-- [Flatland](https://github.com/thinkpixellab/flatland) -  Sublime Text 2和3的简单主题和附带的配色方案.它主要来自Soda，是Sublime任何自定义主题开发的正确起点.
+- [Flatland](https://github.com/thinkpixellab/flatland) -  Sublime Text 2和3的简单主题和伴随的配色方案.它主要来自Soda，是Sublime任何自定义主题开发的正确起点.
 - [Material theme](https://github.com/equinusocio/material-theme)   - 这个主题带来了Material Design的视觉语言.  http://equinsuocha.io/material-theme
 - [Comfort](https://github.com/devanshdalal/Comfort) - 崇高文本的精彩主题！
 - [Predawn](https://github.com/jamiewilson/predawn)   -  Sublime Text和Atom的黑暗界面和语法主题.  http://jamiewilson.io/predawn

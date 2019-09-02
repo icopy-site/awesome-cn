@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kdabir/awesome-groovy"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ==============
 
@@ -17,7 +18,7 @@
 ## IDE and Editor Support
 * [IntelliJ IDEA](http://www.jetbrains.com/idea/) -  Java平台最智能的IDE
 * [Groovy Web Console](http://groovyconsole.appspot.com) - 在线Groovy控制台
-* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) - LightTable Support
+* [LightTable Plugin](https://github.com/rundis/LightTable-Groovy) -  LightTable支持
 * [Sublime Text 2/3](https://gist.github.com/kdabir/2203530) - 从Sublime Text运行groovy脚本
 
 ## Web Frameworks
@@ -26,7 +27,7 @@
 * [Gaelyk](https://github.com/gaelyk/gaelyk) - 适用于Google App Engine Java的轻量级Groovy工具包
 * [Glide](https://github.com/kdabir/glide) - 快速在Google App Engine上创建精彩的应用程序
 * [Ratpack](https://github.com/ratpack/ratpack) -  JVM Web应用程序的工具包
-* [gServ](https://github.com/javaConductor/gserv) - 用于创建基于SPA和REST的微服务的Groovy工具包，无需容器（Tomcat，JBoss等）.
+* [gServ](https://github.com/javaConductor/gserv) - 一个Groovy工具包，用于创建基于SPA和REST的微服务，而无需容器（Tomcat，JBoss等）.
 * [Spring-Boot](https://projects.spring.io/spring-boot) -  Spring Boot可以轻松创建独立的，生产级的基于Spring的应用程序，您可以“只运行”
 * [Micronaut](http://micronaut.io/) - 由Grails团队创建的全新微服务框架
 
@@ -77,7 +78,7 @@
 
 ## Language Utilities
 * [Functionalgroovy](https://github.com/mperry/functionalgroovy) -  Groovy中的函数编程
-* [Groovy-stream](https://github.com/timyates/groovy-stream) - 为Streams提供流畅构建器的类集合（Lazy Groovy Generators）
+* [Groovy-stream](https://github.com/timyates/groovy-stream) - 为Streams（Lazy Groovy Generators）提供流畅构建器的类集合
 * [Flipside](https://github.com/johnnywey/flipside) - 简单的Groovy选项库
 * [groovy-common-extensions](https://github.com/timyates/groovy-common-extensions) - 允许您通过扩展系统添加对Groovy语言通常有用的内容
 * [groovy-extra-list-behaviour](https://github.com/dnahodil/groovy-extra-list-behaviour) - 通过扩展系统向列表添加额外的方法
@@ -98,7 +99,7 @@
 ## Scripting Tools
 * [EasyDokkaPlugin](https://github.com/Vorlonsoft/EasyDokkaPlugin) -  Gradle脚本插件，用于为Java和Kotlin生成Dokka文档引擎的文档
 * [GradleMavenPush](https://github.com/Vorlonsoft/GradleMavenPush) -  Gradle脚本插件，用于将Gradle工件上载到Maven存储库
-* [picocli](https://github.com/remkop/picocli)   - 用于CLI的解析器库和框架.  使用ANSI颜色的帮助.  自动完成.  嵌套子命令等.
+* [picocli](https://github.com/remkop/picocli) - Parser library and framework for CLI. Usage help with ANSI colors. Autocomplete. Nested subcommands and more.
 * [sshoogr](https://github.com/aestasit/sshoogr) - 用于通过SSH处理远程服务器的DSL库.
 
 

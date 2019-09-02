@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="MunGell/awesome-for-beginners"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一系列令人敬畏的初学者友好项目.
@@ -106,7 +107,7 @@
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
-- [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  建立伟大机器人的唯一理智方式.
+- [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue) _(label: good first issue)_ <br> The only sane way to build great bots.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
@@ -145,7 +146,7 @@
 - [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin/labels/newbie)  _（标签：新手）_ <br>  用PHP编写的MySQL管理界面.
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：求助）_ <br>  Matomo是领先的Free / Libre开放式分析平台.
-- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
+- [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  为GitHub组织增压！
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：适合初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 
 ## Python
@@ -192,7 +193,7 @@
 
 ## Rust
 
-- [Servo](https://github.com/servo/servo/labels/E-easy)  _（标签：E-easy）_ <br>  专为包括嵌入式使用在内的应用程序设计的浏
+- [Servo](https://github.com/servo/servo/labels/E-easy) _(label: E-easy)_ <br> A browser engine designed for applications including embedded use.
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架
@@ -216,4 +217,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内，作者已放弃对此作品的所有版权及相关或相邻权利.

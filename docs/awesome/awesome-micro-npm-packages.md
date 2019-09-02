@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="parro-it/awesome-micro-npm-packages"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精心设计的小型Node.js模块列表.
@@ -29,7 +30,7 @@
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - 递归展平数组或数组.
 * [dedupe](https://github.com/seriousManual/dedupe) - 从数组中删除重复项.
 * [array-range](https://github.com/mattdesl/array-range) - 创建具有给定范围的新数组.
-* [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
+* [arr-diff](https://github.com/jonschlinkert/arr-diff) - 返回一个只包含第一个数组中唯一值的数组，方法是使用严格相等的比例从其他数组中排除所有值.
 * [filled-array](https://github.com/sindresorhus/filled-array) - 返回填充了指定输入的数组
 * [map-array](https://github.com/parro-it/map-array) - 将对象键和值映射到数组中.
 * [in-array](https://github.com/jonschlinkert/in-array) - 如果数组中存在任何传递的值，则返回true  - 比使用indexOf更快.
@@ -64,7 +65,7 @@
 
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - 将毫秒转换为人类可读的字符串：1337000000→15d 11h 23m 20s.
 * [hirestime](https://github.com/seriousManual/hirestime) - 内置高分辨率计时器的包装器，简化了时间戳的计算.
-* [periods](https://github.com/timruffles/periods) - 为Javascript定义的时间段常量，以毫秒为单位.
+* [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha](https://github.com/taylorhakes/fecha) -  Javascript日期格式和解析.
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - 使用Akamai的时间参考服务获取参考时间.
 * [timeago.js](https://github.com/hustcc/timeago.js) - 一个小的（~1.7kb）库，用于用&#39;*** time ago`语句格式化日期.
@@ -114,8 +115,8 @@
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) -  Node streams2周围的微小包装器转换以避免显式的子类化噪声.
-* [through2-filter](https://github.com/brycebaril/through2-filter) - 用于为流创建Array.prototype.filter模拟的to2.
-* [through2-map](https://github.com/brycebaril/through2-map) - 用于为流创建Array.prototype.map模拟的to2.
+* [through2-filter](https://github.com/brycebaril/through2-filter) - 一个to2为流创建一个Array.prototype.filter模拟.
+* [through2-map](https://github.com/brycebaril/through2-map) - 一个to2为流创建一个Array.prototype.map模拟.
 * [stream-spigot](https://github.com/brycebaril/node-stream-spigot) - 可读流生成器，用于测试简单函数或将简单函数转换为可读流.
 * [concat-stream](https://github.com/maxogden/concat-stream) - 可串流，用于连接字符串或数据，并使用结果调用回调.
 * [JSONStream](https://github.com/dominictarr/JSONStream) - 流JSON.parse和stringify

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="markusschanta/awesome-jupyter"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 精彩的精选列表 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开源Web应用程序，允许您创建和共享包含实时代码，方程式，可视化和叙述文本的文档.
@@ -20,7 +21,7 @@
 - [Beaker](http://beakernotebook.com) - 从一种语言到另一种语言的无缝数据传输的开发环境.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) -  Docker中可立即运行的Jupyter应用程序的分层堆栈.
 - [Hydrogen](https://github.com/nteract/hydrogen) - 使用Jupyter内核在Atom中内联代码.
-- [Jupyter Notebook](https://github.com/jupyter/notebook) - 主要的Jupyter笔记本运行时.
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -  Jupyter的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) -  JupyterLab是Jupyter的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于Nix的框架，用于定义声明性和可重现的Jupyter环境.
@@ -75,7 +76,7 @@
 - [nbdime](https://github.com/jupyter/nbdime) - 用于差异和合并Jupyter笔记本的工具.
 - [nbinteract](https://www.nbinteract.com) - 从Jupyter笔记本创建交互式网页.
 - [nbflow](https://github.com/jhamrick/nbflow) - 使用Jupyter和Scons的一键式可重复工作流程.
-- [nbscan](https://github.com/conery/nbscan) - Search for and print cells contents of Jupyter notebooks.
+- [nbscan](https://github.com/conery/nbscan) - 搜索并打印Jupyter笔记本电脑的单元格内容.
 - [Nikola](https://getnikola.com) - 将笔记本电脑转换为网站的静态站点生成器.
 - [notedown](https://github.com/aaren/notedown/) - 将Jupyter笔记本转换为降价（和返回）.
 - [Papermill](https://github.com/nteract/papermill) - 用于参数化，执行和分析Jupyter笔记本的工具.

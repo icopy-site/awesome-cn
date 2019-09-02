@@ -1,8 +1,9 @@
 <div class="github-widget" data-repo="JanVanRyswyck/awesome-talks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome talks
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
- 有很多截屏视频，用户组会议录音和在线会议讲座.  我试着让自己每周至少看两次新的谈话，而且我已经做了很长时间了.  我创建了这个我非常喜欢观看的在线演讲列表.  每当我看到另一个非常值得讨论的*非常棒的话题时，我也会更新这个列表.  建议总是通过拉取请求来理解.  所以没有进一步的...
+ 有大量的截屏视频，用户组会议录音和在线会议讲座.  我试着让自己每周至少看两次新的谈话，而且我已经做了很长时间了.  我创建了这个我非常喜欢观看的在线演讲列表.  每当我看到另一个非常值得讨论的*非常棒的话题时，我也会更新这个列表.  建议总是通过拉取请求来理解.  所以没有进一步的...
 
 （没有特别的顺序）
 
@@ -124,7 +125,7 @@
 * [The Magic Tricks of Testing](https://www.youtube.com/watch?v=URSWYvyc42M) 作者：Sandi Metz ** [32:22]
 * [How To Stop Hating Your Tests](https://vimeo.com/145917204) by Justin Searls ** [43:39]
 * [Why You Don't Get Mock Objects](https://www.youtube.com/watch?v=R9FOchgTtLM) 作者：Gregory Moeck ** [44:42]
-* [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by ** Mev Hevery ** [32:07]
+* [The Clean Code Talks - Unit Testing](https://www.youtube.com/watch?v=wEhu57pih5w) by ** Misko Hevery ** [32:07]
 * [TDD and Software Design](https://www.youtube.com/watch?v=ty3p5VDcoOI) by ** JB Rainsberger和Sandro Mancuso **
 * [Integrated Tests Are a Scam](https://vimeo.com/80533536) by ** JB Rainsberger **
 

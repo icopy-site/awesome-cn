@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="DavidLambauer/awesome-magento2"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
 
 <h1 align="center">
@@ -159,7 +160,7 @@
 
 ### Infrastructure
 
-- [Fastly Extension](https://github.com/fastly/fastly-magento2) -  Magento 2快速集成.
+- [Fastly Extension](https://github.com/fastly/fastly-magento2) - Magento 2 fastly integration.
 - [Docker Magento 2](https://github.com/fballiano/docker-magento2) -  Magento2 + Varnish + PHP7 + Redis + SSL（集群就绪）.
 
 ### Mobile Application
@@ -306,7 +307,7 @@
 &gt; ** Magento Extension Developers Network（ExtDN）**
 &gt; Magento扩展开发人员网络（ExtDN）是一个经过审核的扩展开发人员网络，其核心业务是
  &gt;开发和销售优质的Magento扩展.  我创建了ExtDN，为Magento扩展带来了责任和信任
-> market. ExtDN members agree to hold themselves accountable to high standards of coding, copyright and business conduct.
+ &gt;市场.  ExtDN成员同意对高标准的编码，版权和商业行为负责.
 
 解释 [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-information-about-magento-extensions.html)
 

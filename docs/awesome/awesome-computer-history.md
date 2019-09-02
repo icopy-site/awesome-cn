@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="watson/awesome-computer-history"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
 由策展人保存的计算机历史视频，纪录片和相关民间传说的精选列表 [Thomas Watson](https://twitter.com/wa7son) .  灵感来自于 [awesome list thing](https://github.com/sindresorhus/awesome).
@@ -38,7 +39,7 @@
 ### Documentaries
 
 - [Hackers: Wizards of the Electronic Age](https://www.youtube.com/watch?v=cVCLowi4v7w) （1984） - 关于1984年黑客大会的纪录片[7.6/10](https://www.imdb.com/title/tt1191116/)</sup>
-- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) (1990) - With computer scientist Clifford Stoll <sup>[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
+- [The KGB, the Computer, and Me](https://www.youtube.com/watch?v=EcKxaq1FTac) （1990） - 与计算机科学家Clifford Stoll合作[8.0/10](https://www.imdb.com/title/tt0308449/)</sup>
 - [Triumph of the Nerds: The Rise of Accidental Empires](https://en.wikipedia.org/wiki/Triumph_of_the_Nerds) （1996） - 个人电脑的历史[8.5/10](https://www.imdb.com/title/tt0115398/)</sup>
 - [The Internet: Behind the Web](https://www.youtube.com/watch?v=M9ebkjWU6Z4) （2000） - 关于从1950年代到21世纪互联网发展的纪录片.
 - [Code Rush](https://www.youtube.com/watch?v=4Q7FTjhvZ7Y) （2000） -  Netscape的故事和Mozilla的诞生[7.3/10](https://www.imdb.com/title/tt0499004/)</sup>
@@ -69,7 +70,7 @@
 
 - [Steve Jobs - The Lost Interview](https://www.youtube.com/watch?v=TRZAJY23xio) （2012年） - 与史蒂夫·乔布斯（Steve Jobs）进行对话，因为他在离开苹果公司后成立了NeXT公司[8.1/10](https://www.imdb.com/title/tt2104994/)</sup>
 - [The Great 202 Jailbreak](https://www.youtube.com/watch?v=CVxeuwlvf8w) （2013） -  David Brailsford
-- [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) （2015） -  David Brailsford采访Brian Kernighan
+- [UNIX Special: Profs Kernighan & Brailsford](https://www.youtube.com/watch?v=vT_J6xc-Az0) (2015) - David Brailsford interviews Brian Kernighan
 
 ### Talks & Lectures
 
@@ -123,7 +124,7 @@ _真实事件的破坏版本_
 ### Announcements and Memos
 
 - [What would you like to see most in minix?](https://groups.google.com/forum/#!topic/comp.os.minix/dlNtH7RRrGA%5B1-25%5D) （1991） - 首次公开提及后来成为Linux的内容
-- [The Internet Tidal Wave](http://www.lettersofnote.com/2011/07/internet-tidal-wave.html) （1995年） - 比尔盖茨向微软内部所有执行人员发送的备忘录，指出互联网具有最高的重要性
+- [The Internet Tidal Wave](http://www.lettersofnote.com/2011/07/internet-tidal-wave.html) （1995） - 比尔盖茨向微软内部所有执行人员发布的关于为互联网分配最高重要性的备忘录
 - [A bike shed (any colour will do) on greener grass...](http://phk.freebsd.dk/sagas/bikeshed.html) （1999年） -  Poul-Henning Kamp创造了比克斯坦德这个词
 
 ## Source Code
@@ -136,7 +137,7 @@ _真实事件的破坏版本_
 
 ## Websites
 
-- [First website ever made](http://info.cern.ch/) （1990） -  CERN（欧洲核子研究组织）网站
+- [First website ever made](http://info.cern.ch/) （1990） - 欧洲核子研究组织（欧洲核子研究组织）网站
 - [The Amazing FishCam](http://fishcam.com/) （1994） -  Fishcam是网上第二台现场摄像机，也是现存最古老的摄像机网站
 
 ## License

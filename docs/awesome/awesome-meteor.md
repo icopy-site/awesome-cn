@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Urigo/awesome-meteor"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Meteor包，库和软件的精选列表.
@@ -40,14 +41,14 @@
 
 *模板助手*
 
-* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+* [aldeed:autoform](https://github.com/aldeed/meteor-autoform) -  UI组件和帮助程序，可以轻松创建具有自动插入和更新事件的基本表单，以及自动反应验证.
 * [aldeed:template-extension](https://github.com/aldeed/meteor-template-extension) -  Meteor包：替换已定义的模板，从其他模板继承帮助程序和事件.
 * [kadira:blaze-layout](https://github.com/kadirahq/blaze-layout) -  Blaze布局管理器（适用于Meteor FlowRouter）
 * [dispatch:scrollview](https://github.com/DispatchMe/meteor-scrollview) - 流星的高性能无限滚动视图
 * [themeteorites:blaze-magic-events](https://github.com/themeteorites/blaze-magic-events) - 将事件处理程序绑定到Meteor的Blaze的html元素的新方法
 * [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) - 流星MVVM
 * [webix:webix](https://github.com/dandv/meteor-webix) -  Meteor.js  -  Webix UI集成
-* [uniforms](https://github.com/vazco/uniforms) - 一堆React组件和帮助器，可以轻松生成和验证表单. [Seamlessly integrate with `aldeed:simple-schema` and `simpl-schema`](https://github.com/vazco/uniforms/blob/master/INTRODUCTION.md#quick-start).
+* [uniforms](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `aldeed:simple-schema` and `simpl-schema`](https://github.com/vazco/uniforms/blob/master/INTRODUCTION.md#quick-start).
 
 ## Users and Authentication
 

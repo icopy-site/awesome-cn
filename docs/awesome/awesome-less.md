@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="LucasBassetti/awesome-less"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
@@ -70,7 +71,7 @@
 ### Animation
 
 - [Animate](https://github.com/joshuapekera/animate) - 使用Less编写的CSS3关键帧动画库.
-- [Animate Less](https://github.com/machito/animate.less) - 丹伊甸港 [Animate.css](https://daneden.github.io/animate.css/) 少.
+- [Animate Less](https://github.com/machito/animate.less) - 丹伊登的港口 [Animate.css](https://daneden.github.io/animate.css/) 少.
 - [Cube Less](https://github.com/sparanoid/cube.less) - 仅使用CSS（Less）的3D（动画）立方体，最初由LeanCloud（又名AVOS Cloud）使用.
 - [Hover](http://ianlunn.github.io/Hover/) - 收集CSS3动力悬停动画效果，应用于链接，按钮，徽标，SVG，特色图像等.
 - [Less Burguer](https://github.com/MarkRabey/less-burger) - 港口 [Sass Burger](http://joren.co/sass-burger/) 少.
@@ -155,8 +156,8 @@
 - [Diamond](https://diamond.js.org) - 为Sass，Less和CSS构建的依赖管理.
 - [Eclipse Less Plugin](http://www.normalesup.org/~simonet/soft/ow/eclipse-less.html) - 该插件通过提供编辑和编译Less样式表的便捷功能扩展了Eclipse IDE.
 - [Eclipse Transpiler Plugin](https://github.com/gossi/eclipse-transpiler-plugin) -  Eclipse插件自动转换文件（Less，SASS，CoffeeScript等）.
-- [Emacs](https://github.com/purcell/less-css-mode) - 支持编译保存的Emacs模式.
-- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - Compile Less files to CSS using Grunt.
+- [Emacs](https://github.com/purcell/less-css-mode) - Emacs mode with support for compile-on-save.
+- [Grunt Contrib](https://github.com/gruntjs/grunt-contrib-less) - 使用Grunt将较少的文件编译为CSS.
 - [Grunt Lint](https://github.com/jgable/grunt-lesslint) - 使用Grunt的CSS Lint来抓取你的Less文件.
 - [Gulp Less](https://github.com/plus3network/gulp-less) -  Gulp插件.
 - [Hayaky](https://github.com/hayaku/hayaku) -  Hayaku是一系列有用的脚本，旨在快速进行前端Web开发.

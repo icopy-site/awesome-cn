@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="webpro/awesome-dotfiles"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome dotfiles
 
  精选的dotfiles资源列表.  灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
@@ -38,9 +39,9 @@
 
 ## Find dotfiles repos
 
- 那里有许多伟大的dotfiles repos，每个都包含自己的灵感和宝石.  我认为通过它们的最佳方法之一是 [searching GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
+There are many great dotfiles repos out there, each containing their own inspiration and gems. I think one of the best ways to go through them is by [searching GitHub for "dotfiles"](https://github.com/search?q=dotfiles&type=Repositories).
 
-Also see:
+另见：
 
 - [Google for "dotfiles"](https://www.google.nl/search?q=dotfiles)
 - [Archlinux collection](https://wiki.archlinux.org/index.php/Dotfiles)

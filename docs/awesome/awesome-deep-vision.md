@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kjw0612/awesome-deep-vision"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 灵感来自于计算机视觉的深度学习资源的精选列表 [awesome-php](https://github.com/ziadoz/awesome-php) 和 [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision).
@@ -35,7 +36,7 @@
 * VGG-Net [[网站]]（http://www.robots.ox.ac.uk/~vgg/research/very_deep/)[ [文件]]（http://arxiv.org/pdf/1409.1556）
   * Karen Simonyan和Andrew Zisserman，用于大规模视觉识别的超深卷积网络，ICLR，2015.
 * AlexNet [[论文]]（http://papers.nips.cc/book/advances-in-neural-information-processing-systems-25-2012）
-  * Alex Krizhevsky，Ilya Sutskever，Geoffrey E. Hinton，ImageNet Classification with Deep Convolutional Neural Networks，NIPS，2012.
+  * Alex Krizhevsky，Ilya Sutskever，Geoffrey E. Hinton，ImageNet分类与深度卷积神经网络，NIPS，2012.
 
 ### Object Detection
 ![object_detection](https://cloud.githubusercontent.com/assets/5226447/8452063/f76ba500-2022-11e5-8db1-2cd5d490e3b3.PNG)
@@ -56,11 +57,11 @@
   * Karel Lenc，Andrea Vedaldi，R-CNN减去R，arXiv：1506.06981.
 *拥挤场景中的端到端人员检测[[论文]]（http://arxiv.org/abs/1506.04878）
   * Russell Stewart，Mykhaylo Andriluka，在拥挤的场景中端到端的人物检测，arXiv：1506.04878.
-* You Only Look Once: Unified, Real-Time Object Detection [[Paper]](http://arxiv.org/abs/1506.02640), [[Paper Version 2]](https://arxiv.org/abs/1612.08242), [[C Code]](https://github.com/pjreddie/darknet), [[Tensorflow Code]](https://github.com/thtrieu/darkflow)
+*您只看一次：统一，实时对象检测[[纸张]]（http://arxiv.org/abs/1506.02640），[[纸张版本2]]（https://arxiv.org/abs/ 1612.08242），[[C Code]]（https://github.com/pjreddie/darknet），[[Tensorflow Code]]（https://github.com/thtrieu/darkflow）
   * Joseph Redmon，Santosh Divvala，Ross Girshick，Ali Farhadi，你只看一次：统一，实时物体检测，arXiv：1506.02640
   * Joseph Redmon，Ali Farhadi（第2版）
 *内外网[[论文]]（http://arxiv.org/abs/1512.04143）
-  * Sean Bell，C.Lawrence Zitnick，Kavita Bala，Ross Girshick，内外网：通过跳过池和回归神经网络检测上下文中的对象
+  * Sean Bell，C.Lawrence Zitnick，Kavita Bala，Ross Girshick，Inside-Outside Net：使用Skip Pooling和Recurrent Neural Networks检测上下文中的对象
 *深度剩余网络（现有技术水平）[[文件]]（http://arxiv.org/abs/1512.03385）
   * Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun, Deep Residual Learning for Image Recognition
 *具有多重多实例学习的弱监督对象本地化 [[Paper](http://arxiv.org/pdf/1503.00949.pdf)]
@@ -93,14 +94,14 @@
   * Chao Dong，Chen Change Loy，Kaiming He，Xiaoou Tang，使用Deep Convolutional Networks的图像超分辨率，arXiv：1501.00092.
 *非常深的超分辨率
   * Jiwon Kim，Jung Kwon Lee，Kyoung Mu Lee，使用非常深度卷积网络的精确图像超分辨率，arXiv：1511.04587,2015.[[论文]]（http://arxiv.org/abs/1511.04587）
-*深度递归卷积网络
+* Deeply-Recursive Convolutional Network
   * Jiwon Kim，Jung Kwon Lee，Kyoung Mu Lee，图像超分辨率的深度递归卷积网络，arXiv：1511.04491,2015.[[论文]]（http://arxiv.org/abs/1511.04491）
 * Casade-Sparse-Coding-Network
    * Zhaowen Wang，Ding Liu，Wei Han，Jianchao Yang和Thomas S. Huang，用于稀疏先验的图像超分辨率的深度网络.  ICCV，2015.[[论文]]（http://www.ifp.illinois.edu/~dingliu2/iccv15/iccv15.pdf）[[代码]]（http://www.ifp.illinois.edu/~ dingliu2 / iccv15 /）
 *超分辨率的感知损失
   * Justin Johnson，Alexandre Alahi，李飞飞，实时风格转移和超分辨率的感知损失，arXiv：1603.08155,2016.[[论文]]（http://arxiv.org/abs/1603.08155）[ [补充]]（http://cs.stanford.edu/people/jcjohns/papers/fast-style/fast-style-supp.pdf）
 * SRGAN
-  * Christian Ledig，Lucas Theis，Ferenc Huszar，Jose Caballero，Andrew Cunningham，Alejandro Acosta，Andrew Aitken，Alykhan Tejani，Johannes Totz，Zehan Wang，Wenzhe Shi，使用生成性对抗网络的照片般逼真的单图像超分辨率，arXiv： 1609.04802v3,2016.[[论文]]（https://arxiv.org/pdf/1609.04802v3.pdf）
+  * Christian Ledig，Lucas Theis，Ferenc Huszar，Jose Caballero，Andrew Cunningham，Alejandro Acosta，Andrew Aitken，Alykhan Tejani，Johannes Totz，Zehan Wang，Wenzhe Shi，使用生成对抗网络的逼真单图像超分辨率，arXiv： 1609.04802v3,2016.[[论文]]（https://arxiv.org/pdf/1609.04802v3.pdf）
 * 其他
   * Osendorfer，Christian，Hubert Soyer和Patrick van der Smagt，具有快速近似卷积稀疏编码的图像超分辨率，ICONIP，2014.[[Paper ICONIP-2014]]（http://brml.org/uploads/tx_sibibtex/ 281.pdf）
 
@@ -108,7 +109,7 @@
 *光流（FlowNet）[[论文]]（http://arxiv.org/pdf/1504.06852）
   * Philipp Fischer，Alexey Dosovitskiy，Eddy Ilg，PhilipHäusser，CanerHazırbaş，Vladimir Golkov，Patrick van der Smagt，Daniel Cremers，Thomas Brox，FlowNet：使用卷积网络学习光流，arXiv：1504.06852.
 *压缩文物减少[[Paper-arXiv15]]（http://arxiv.org/pdf/1504.06993）
-  * Chao Dong，Yubin Deng，Chen Change Loy，Xiaoou Tang，通过深度卷积网络减少压缩文物，arXiv：1504.06993.
+  * Chao Dong，Yubin Deng，Chen改变Loy，Xiaoou Tang，通过深度卷积网络减少压缩文物，arXiv：1504.06993.
 *模糊删除
   * Christian J. Schuler，Michael Hirsch，Stefan Harmeling，BernhardSchölkopf，学习Deblur，arXiv：1406.7444 [[论文]]（http://arxiv.org/pdf/1406.7444.pdf）
   *孙健，曹文飞，徐宗本，Jean Ponce，学习用于非均匀运动模糊去除的卷积神经网络，CVPR，2015 [[论文]]（http://arxiv.org/pdf/1503.00593）
@@ -152,7 +153,7 @@
    * Jifeng Dai，Kaiming He，Jian Sun，BoxSup：利用边界框监督卷积网络进行语义分割，arXiv：1503.01640.  （VOC2012排名第6）
 * POSTECH
    * Hyeonwoo Noh，Seunghoon Hong，Bohyung Han，学习语义分割的反卷积网络，arXiv：1505.04366.  [[论文]]（http://arxiv.org/pdf/1505.04366）（在VOC2012排名第7）
-   * Seunghoon Hong，Hyeonwoo Noh，Bohyung Han，用于半监督语义分割的解耦深度神经网络，arXiv：1506.04924.  [[纸张]]（http://arxiv.org/pdf/1506.04924）
+  * Seunghoon Hong, Hyeonwoo Noh, Bohyung Han, Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation, arXiv:1506.04924. [[Paper]](http://arxiv.org/pdf/1506.04924)
   * Seunghoon Hong，Junhyuk Oh，Bohyung Han和Honglak Lee，深度卷积神经网络的语义分割学习可转移知识，arXiv：1512.07928 [[Paper](http://arxiv.org/pdf/1512.07928.pdf)] [[Project Page](http://cvlab.postech.ac.kr/research/transfernet/)]
 *条件随机场作为回归神经网络[[论文]]（http://arxiv.org/pdf/1502.03240）
    * Shuai Zheng，Sadeep Jayasumana，Bernardino Romera-Paredes，Vibhav Vineet，Zhizhong Su，Dalong Du，Chang Huang，Philip HS Torr，Conditional Random Fields as Recurrent Neural Networks，arXiv：1502.03240.  （VOC2012排名第8）
@@ -163,8 +164,8 @@
   * Holger Caesar，Jasper Uijlings，Vittorio Ferrari，语义分割联合校准，arXiv：1507.01581.
   * Jonathan Long，Evan Shelhamer，Trevor Darrell，语义分割的完全卷积网络，CVPR，2015.
   * Bharath Hariharan，Pablo Arbelaez，Ross Girshick，Jitendra Malik，用于对象分割和细粒度本地化的Hypercolumns，CVPR，2015.
-* Deep Hierarchical Parsing
-  * Abhishek Sharma, Oncel Tuzel, David W. Jacobs, Deep Hierarchical Parsing for Semantic Segmentation, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf)
+*深层次分析
+  * Abhishek Sharma，Oncel Tuzel，David W. Jacobs，用于语义分割的深层次分析，CVPR，2015.[[论文]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Sharma_Deep_Hierarchical_Parsing_2015_CVPR_paper.pdf ）
 *学习场景标签的分层特征[[Paper-ICML12]]（http://yann.lecun.com/exdb/publis/pdf/farabet-icml-12.pdf) [[Paper-PAMI13]]（http：/ /yann.lecun.com/exdb/publis/pdf/farabet-pami-13.pdf）
   * Clement Farabet，Camille Couprie，Laurent Najman，Yann LeCun，场景解析与多尺度特征学习，纯度树和最佳封面，ICML，2012.
   * Clement Farabet，Camille Couprie，Laurent Najman，Yann LeCun，学习场景标签的等级特征，PAMI，2013.
@@ -174,7 +175,7 @@
 *普林斯顿
   * Fisher Yu，Vladlen Koltun，“扩张卷积的多尺度背景聚合”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.07122v2.pdf)]
  *大学  华盛顿，艾伦AI
-  *哈米德Izadinia，Fereshteh Sadeghi，桑托斯库马尔Divvala，艺珍财，阿里·法哈迪，ICCV，2015年“为语义分割，视觉蕴含和复述段短语表”， [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf)]
+  * Hamid Izadinia，Fereshteh Sadeghi，Santosh Kumar Divvala，Yejin Choi，Ali Farhadi，“Segment-Phrase Table的语义分割，视觉蕴涵和释义”，ICCV，2015， [[Paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Izadinia_Segment-Phrase_Table_for_ICCV_2015_paper.pdf)]
 * INRIA
   * Iasonas Kokkinos，“利用深度学习进行边界检测的边界”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.07386v2.pdf)]
 * UCSB
@@ -200,12 +201,12 @@
 * Leonid Pishchulin，Eldar Insafutdinov，Siyu Tang，Bjoern Andres，Mykhaylo Andriluka，Peter Gehler和Bernt Schiele，Deepcut：用于多人姿势估计的联合子集分区和标签，CVPR，2016.
 * Shih-En Wei，Varun Ramakrishna，Takeo Kanade和Yaser Sheikh，Convolutional姿势机器，CVPR，2016.
 *亚历杭德罗·纽厄尔，杨凯宇和贾登，用于人体姿势估计的堆叠沙漏网络，ECCV，2016.
-*托马斯·普菲斯特，詹姆斯·查尔斯和安德鲁·齐瑟曼，为视频中的人体姿势估计提供流畅的评论，ICCV，2015.
+*托马斯·普菲斯特，詹姆斯·查尔斯和安德鲁·齐瑟曼，视频中人类姿势评估的流动评论，ICCV，2015.
 * Jonathan J. Tompson，Arjun Jain，Yann LeCun，Christoph Bregler，卷积网络的联合训练和人体姿势估计的图形模型，NIPS，2014.
 
 ### Understanding CNN
 ![understanding](https://cloud.githubusercontent.com/assets/5226447/8452083/1aaa0066-2023-11e5-800b-2248ead51584.PNG)
-（来自Aravindh Mahendran，Andrea Vedaldi，通过颠倒他们理解深度图像表示，CVPR，2015年.）
+（来自Aravindh Mahendran，Andrea Vedaldi，通过反思他们理解深度图像表达，CVPR，2015年.）
 
 * Bolei Zhou，Aditya Khosla，Agata Lapedriza，Aude Oliva，Antonio Torralba，物体探测器出现在深度场景CNN，ICLR，2015年.[[arXiv Paper]]（http://arxiv.org/abs/1412.6856）
 * Alexey Dosovitskiy，Thomas Brox，使用卷积网络反转视觉表示，arXiv，2015年.[[论文]]（http://arxiv.org/abs/1506.02753）
@@ -220,14 +221,14 @@
 
 *加州大学洛杉矶分校/百度[[论文]]（http://arxiv.org/pdf/1410.1090）
   * Junhua Mao, Wei Xu, Yi Yang, Jiang Wang, Alan L. Yuille, Explain Images with Multimodal Recurrent Neural Networks, arXiv:1410.1090.
-* Toronto [[Paper]](http://arxiv.org/pdf/1411.2539)
+*多伦多[[论文]]（http://arxiv.org/pdf/1411.2539）
   * Ryan Kiros，Ruslan Salakhutdinov，Richard S. Zemel，使用多模态神经语言模型统一视觉语义嵌入，arXiv：1411.2539.
 *伯克利[[文件]]（http://arxiv.org/pdf/1411.4389）
   * Jeff Donahue，Lisa Anne Hendricks，Sergio Guadarrama，Marcus Rohrbach，Subhashini Venugopalan，Kate Saenko，Trevor Darrell，视觉识别和描述的长期循环卷积网络，arXiv：1411.4389.
 * Google [[论文]]（http://arxiv.org/pdf/1411.4555）
   * Oriol Vinyals，Alexander Toshev，Samy Bengio，Dumitru Erhan，Show and Tell：神经图像标题生成器，arXiv：1411.4555.
 *斯坦福[[网页]]（http://cs.stanford.edu/people/karpathy/deepimagesent/)[ [论文]]（http://cs.stanford.edu/people/karpathy/cvpr2015.pdf）
-  * Andrej Karpathy, Li Fei-Fei, Deep Visual-Semantic Alignments for Generating Image Description, CVPR, 2015.
+  * Andrej Karpathy，Li Fei-Fei，用于生成图像描述的深层视觉语义对齐，CVPR，2015.
 * UML / UT [[论文]]（http://arxiv.org/pdf/1412.4729）
   * Subhashini Venugopalan，Huijuan Xu，Jeff Donahue，Marcus Rohrbach，Raymond Mooney，Kate Saenko，使用深度回归神经网络将视频转换为自然语言，NAACL-HLT，2015.
 * CMU / Microsoft [[Paper-arXiv]]（http://arxiv.org/pdf/1411.5654）[[Paper-CVPR]]（http://www.cs.cmu.edu/~xinleic/papers/cvpr15_rnn .PDF）
@@ -256,7 +257,7 @@
     与排序典型相关分析“，ICCV，2015
 
 #### Video Captioning
-*伯克利[[网页]]（http://jeffdonahue.com/lrcn/）[[文件]]（http://arxiv.org/pdf/1411.4389.pdf）
+* Berkeley [[Web]](http://jeffdonahue.com/lrcn/) [[Paper]](http://arxiv.org/pdf/1411.4389.pdf)
   * Jeff Donahue，Lisa Anne Hendricks，Sergio Guadarrama，Marcus Rohrbach，Subhashini Venugopalan，Kate Saenko，Trevor Darrell，视觉识别和描述的长期循环卷积网络，CVPR，2015.
 * UT / UML / Berkeley [[论文]]（http://arxiv.org/pdf/1412.4729）
   * Subhashini Venugopalan，Huijuan Xu，Jeff Donahue，Marcus Rohrbach，Raymond Mooney，Kate Saenko，使用深度回归神经网络将视频转换为自然语言，arXiv：1412.4729.
@@ -281,7 +282,7 @@
 
 *弗吉尼亚理工大学/ MSR [[网站]]（http://www.visualqa.org/）[[论文]]（http://arxiv.org/pdf/1505.00468）
   * Stanislaw Antol，Aishwarya Agrawal，Jiasen Lu，Margaret Mitchell，Dhruv Batra，C.Lawrence Zitnick，Devi Parikh，VQA：Visual Question Answering，CVPR，2015 SUNw：Scene Understanding workshop.
-* MPI /伯克利[网络]（https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/ ）[[文件]]（http://arxiv.org/pdf/1505.01121）
+* MPI / Berkeley [[Web]]（https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/ ）[[文件]]（http://arxiv.org/pdf/1505.01121）
   * Mateusz Malinowski，Marcus Rohrbach，Mario Fritz，问问你的神经元：基于神经的方法来回答关于图像的问题，arXiv：1505.01121.
 *多伦多[[论文]]（http://arxiv.org/pdf/1505.02074）[[数据集]]（http://www.cs.toronto.edu/~mren/imageqa/data/cocoqa/）
   * Mengye Ren，Ryan Kiros，Richard Zemel，图像问题回答：视觉语义嵌入模型和新数据集，arXiv：1505.02074 / ICML 2015深度学习研讨会.
@@ -293,13 +294,13 @@
    * Yang，Z.，He，X.，Gao，J.，Deng，L.，＆Smola，A.（2015）.  用于图像问答的堆叠注意网络.  的arXiv：1511.02274.
 * MetaMind [[Paper](http://arxiv.org/pdf/1603.01417v1.pdf)]
    *熊，蔡明，Stephen Merity和Richard Socher.  “用于视觉和文本问答的动态内存网络.”  arXiv：1603.01417（2016）.
-* SNU + NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
+*请+ NAVER [[Paper](http://arxiv.org/abs/1606.01455)]
   * Jin-Hwa Kim，Sang-Woo Lee，Dong-Hyun Kwak，Min-Oh Heo，Jeonghee Kim，Jung-Woo Ha，Byoung-Tak Zhang，* Multimodal Residual Learning for Visual QA *，arXiv：1606：01455
-*加州大学伯克利分校+索尼 [[Paper](https://arxiv.org/pdf/1606.01847)]
+* UC Berkeley + Sony [[Paper](https://arxiv.org/pdf/1606.01847)]
   * Akira Fukui，Dong Huk Park，Daylen Yang，Anna Rohrbach，Trevor Darrell和Marcus Rohrbach，* Multimodal Compact双线性池用于视觉问答和视觉接地*，arXiv：1606.01847
 * Postech [[Paper](http://arxiv.org/pdf/1606.03647.pdf)]
   * Hyeonwoo Noh和Bohyung Han，*为VQA *训练经常性应答单位联合损失最小化，arXiv：1606.03647
-* SNU + NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
+*请+ NAVER [[Paper](http://arxiv.org/abs/1610.04325)]
   * Jin-Hwa Kim，Kyoung Woon On，Jeonghee Kim，Jung-Woo Ha，Byoung-Tak Zhang，* Hadamard低级双线性池化产品*，arXiv：1610.04325.
 
 ### Image Generation
@@ -315,7 +316,7 @@
   * Elman Mansimov，Emilio Parisotto，Jimmy Ba，Ruslan Salakhutdinov，“从注意的字幕中生成图像”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.02793v2.pdf)]
   * Jost Tobias Springenberg，“使用分类生成对抗网络的无监督和半监督学习”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.06390v1.pdf)]
   *哈里森爱德华兹，Amos Storkey，“与对手一起审查陈述”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.05897v3.pdf)]
-  *尊宫户，真一前田，正德小山，肯中江，信石井，“分布式平滑与虚拟对抗性训练”，ICLR 2016年， [[Paper](http://arxiv.org/pdf/1507.00677v8.pdf)]
+  * Takeru Miyato，Shin-ichi Maeda，Masanori Koyama，Ken Nakae，Shin Ishii，“分布式平滑与虚拟对抗训练”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1507.00677v8.pdf)]
   * Jun-Yan Zhu，Philipp Krahenbuhl，Eli Shechtman和Alexei A. Efros，“自然图像流形上的生成视觉操纵”，ECCV 2016. [[Paper](https://arxiv.org/pdf/1609.03552v2.pdf)] [[Code](https://github.com/junyanz/iGAN)] [[Video](https://youtu.be/9c4z6YsBGQ0)]
 *混合卷积网络和对抗网络
   * Alec Radford，Luke Metz，Soumith Chintala，“使用深度卷积生成对抗网络进行无监督表示学习”，ICLR 2016. [[Paper](http://arxiv.org/pdf/1511.06434.pdf)]
@@ -325,20 +326,20 @@
   * Scott Reed，Yi Zhang，Yuting Zhang，Honglak Lee，Deep Visual Analogy Making，NIPS，2015
   * Xiaolong Wang，David F. Fouhey，Abhinav Gupta，设计用于表面法线估计的深度网络，CVPR，2015.
   * Georgia Gkioxari，Jitendra Malik，Finding Action Tubes，CVPR，2015.
-  *张聪，李宏生，王小刚，杨小康，通过深度卷积神经网络进行跨场景人群计数，CVPR，2015.
+  *张聪，李宏生，王晓刚，杨小康，通过深度卷积神经网络的跨场景人群计数，CVPR，2015.
   *方王，乐康，李毅，基于轮廓的三维形状检索使用卷积神经网络，CVPR，2015.
 *弱监督分类
   * Samaneh Azadi，Jiashi Feng，Stefanie Jegelka，Trevor Darrell，“带有噪声标签的深度CNN的辅助图像正规化”，ICLR 2016， [[Paper](http://arxiv.org/pdf/1511.07069v2.pdf)]
 *艺术风格[[论文]]（http://arxiv.org/abs/1508.06576）[[代码]]（https://github.com/jcjohnson/neural-style）
   * Leon A. Gatys，Alexander S. Ecker，Matthias Bethge，艺术风格的神经算法.
 *人类凝视估计
-  * Xucong Zhang, Yusuke Sugano, Mario Fritz, Andreas Bulling, Appearance-Based Gaze Estimation in the Wild, CVPR, 2015. [[Paper]](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf) [[Website]](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/appearance-based-gaze-estimation-in-the-wild-mpiigaze/)
+  * Xucong Zhang，Yusuke Sugano，Mario Fritz，Andreas Bulling，“基于外观的野外凝视估计”，CVPR，2015年.[[论文]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/ Zhang_Appearance-Based_Gaze_Estimation_2015_CVPR_paper.pdf）[[Website]]（https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/gaze-based-human-computer-interaction/基于外观的注视估计-内式野生mpiigaze /）
 * 人脸识别
   * Yaniv Taigman，Ming Yang，Marc&#39;Aurelio Ranzato，Lior Wolf，DeepFace：在人脸验证方面缩小差距，CVPR，2014年.[[论文]]（https://www.cs.toronto.edu /~ranzato/publications/taigman_cvpr14.pdf）
   *孙奕，丁亮，王小刚，唐小鸥，DeepID3：极深度神经网络的人脸识别，2015.[[论文]]（http://arxiv.org/abs/1502.00873）
   * Florian Schroff，Dmitry Kalenichenko，James Philbin，FaceNet：用于人脸识别和聚类的统一嵌入，CVPR，2015.[[论文]]（http://arxiv.org/abs/1503.03832）
 *面部地标检测
-  * Yue Wu，Tal Hassner，KangGeon Kim，Gerard Medioni，Prem Natarajan，面部地标检测与调整卷积神经网络，2015年.[[论文]]（http://arxiv.org/abs/1511.04031）[[Project]] （http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/）
+  * Yue Wu，Tal Hassner，KangGeon Kim，Gerard Medioni，Prem Natarajan，面部地标检测与调整卷积神经网络，2015年.[[论文]]（http://arxiv.org/abs/1511.04031) [[Project]] （http://www.openu.ac.il/home/hassner/projects/tcnn_landmarks/）
 
 ## Courses
 *深度视觉

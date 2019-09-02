@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mmccaff/PlacesToPostYourStartup"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Places To Post Your Startup
@@ -40,8 +41,8 @@
 * Appoid  -  http://appiod.com/submit-app-for-review/
 * appPicker  -  http://www.apppicker.com/
 * Apps 400  -  http://apps400.com/submit-your-application-for-review
-* Apps Listo  -  http://appslisto.com/submit-your-app/
-* Apps Mom  -  http://appsmamma.com/submit-your-app/
+* Listo应用程序 -  http://appslisto.com/submit-your-app/
+*妈妈的应用程序 -  http://appsmamma.com/submit-your-app/
 * Apps Mirror  -  http://www.appsmirror.com/submit-your-app-for-review
 * AppsNow  -  http://appsnow.us/submit-app-for-review/
 * AppsThunder  -  http://appsthunder.com/submit-your-app/
@@ -78,7 +79,7 @@
 *获取应用程序 -  http://getapp.com/
 * Getworm  -  https://getworm.com/submit-startup
 * GitHustle  -  http://www.githustle.com
-*阵风 -  https://www.gust.com
+* Gust - https://www.gust.com
 * Hackerstreet  -  https://in.thehackerstreet.com/
 * Haro  -  https://www.helpareporter.com/sources/
 *我是电汇 -  http://www.iamwire.com/startups/user/register?uType=Entrepreneur
@@ -93,7 +94,7 @@
 *推出 -  https://launched.io/SubmitStartup
 *制造商更新 -  https://www.makerupdates.com/
 * MakeUseOf  -  http://www.makeuseof.com/about/
-*听 -  https://mapto.com/submit-totool
+* Maqtoob  -  https://maqtoob.com/submit-a-tool
 * Mevvy  -  https://mevvy.com/submit-app/
 *动员 -  https://www.moblized.com/vendors/register
 *网状 -  https://www.netted.net/contact-us/
@@ -101,7 +102,7 @@
 *下一个大什么 -  http://nextbigwhat.com/
 * Nibletz  -  http://www.nibletz.com/submit-startup
 *在应用程序 -  http://ontheapp.com/about/
-* Paggu  -  http://www.paggu.com/submit-your-startup/
+*下载 -  http://www.paggu.com/submit-your-startup/
 * pFind  -  http://www.pfind.com/submit
 * Postscapes  -  http://about.postscapes.com/tools
 * PreApps  -  http://www.preapps.com/
@@ -120,7 +121,7 @@
 * Softlaunched  -  https://www.softlaunched.com/
 *软件建议 -  https://softwareadvice-markets.questionpro.com/
 * Springwise  -  http://springwise.com/tipus/
-* SaaSHub  -  https://www.saashub.com/
+*订阅 -  https://www.saashub.com/
 * Saasified  -  https://saasified.co
 * Stack Share  -  http://stackshare.io/
 *启动HQ  -  https://starthq.com/apps/submit

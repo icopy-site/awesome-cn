@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="pehapkari/awesome-symfony-education"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Symfony Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Build Status](https://img.shields.io/travis/pehapkari/awesome-symfony-education/master.svg?style=flat-square)](https://travis-ci.org/pehapkari/awesome-symfony-education)
@@ -27,7 +28,7 @@
 ## Series for begginers
 
 * [Joyful Development with Symfony 3](https://symfonycasts.com/tracks/symfony3) [2016]由SymfonyCasts提供
-* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [在捷克语]
+* [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [二千零十六分之二千零十五​​] [捷克]
 * [Symfony 4.1 Jobeet Tutorial](https://jobeet-tutorial.readthedocs.io/en/latest/) [2018]
 
 ## Dependency Injection
@@ -105,7 +106,7 @@
 * [Symfony best practices](https://blog.kevingomez.fr/2014/04/08/symfony-best-practices/) [2014]
 * [Symfony tips and tricks](https://www.slideshare.net/javier.eguiluz/symfony-tips-and-tricks) [2014]
 * [Some Symfony 2 practices](https://emanueleminotto.github.io/blog/some-symfony-2-practices)
-* [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [英文]  -  by [@spicimedved](https://twitter.com/spicimedved)
+* [Výhody a nevýhody Symfony v bodech](https://devel.cz/otazka/nette-vs-symfony#answer-17973) [2014] [捷克语]  -  by [@spicimedved](https://twitter.com/spicimedved)
 
 
 ## Books

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="lnishan/awesome-competitive-programming"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的“竞争规划”，“算法”和“数据结构”资源的精选列表.
@@ -57,7 +58,7 @@
 | ★★☆ | [Algorithms - GeeksforGeeks](https://www.geeksforgeeks.org/fundamentals-of-algorithms/)  |  一个网站，上面有关于不同主题的精美文章的大型存档.  它是算法课程的一个很好的免费资源.  |
 | ★★☆ | [PEGWiki](http://wcipeg.com/wiki/Special:AllPages)  |  一个网站上有许多关于许多主题的深入的类似wiki的写作.  在我看来，这比维基百科上的要好得多.  |
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/)  |  一个很棒的众包教程平台.  还访问 [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
-| ★★☆ | [USA Computing Olympiad (USACO)](http://www.usaco.org/)  |  在其网站上包含几个培训页面，旨在以一种自己的节奏培养一种编程解决方案的技能，以解决困难和变化的算法问题.  |
+| ★★☆ | [USA Computing Olympiad (USACO)](http://www.usaco.org/)  |  在其网站上包含几个培训页面，旨在以一种自己的节奏发展一种编程解决方案的技能，以解决困难和变化的算法问题.  |
 | ★★☆ | [basecs](https://medium.com/basecs)  |  一个博客，提供有关基本算法和数据结构的深入插图教程.  |
 | ★★☆ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp)  |  初学者和中级概念的简短视频教程.  从各种CP博客上提供的最佳教程中选择高级教程.  |
 | ★☆☆ | [OLYMPIADS IN INFORMATICS](https://www.mii.lt/olympiads_in_informatics/index.html)  |  这是一本国际期刊，专注于为有才华的学生在教学和学习信息学领域工作的专业人士的研究和实践.  |
@@ -78,7 +79,7 @@
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO)  |  视频讲座来自 [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/) .  由Sergey Kulik，Kevin Charles Atienza和Anudeep Nekkanti等顶级竞争程序员提供的讲座.  主要通过将这些概念应用于实际的竞争性竞赛问题来专注于探索这些概念.  |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/)  |  一个很棒的课程 [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is) .  这些讲座以精美的幻灯片和一系列难以练习的问题为特色.  |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014)  |  一个关于基本主题的课程，包括好的演讲幻灯  |
-| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) 从 [Arabic Competitive Programming Youtube Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics by Mostafa Saad Ibrahim. |
+| ★☆☆ | [Materials (English)](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) 从 [Arabic Competitive Programming Youtube Channel](https://www.youtube.com/user/nobody123497)  |  一些材料（幻灯片和源代码）涵盖Mostafa Saad Ibrahim的各种算法主题.  |
 
 ### Open Courses for Algorithms and Data Structures
 
@@ -118,11 +119,11 @@
  |  ☆|  名称|  说明|
 | --- | --- | --- |
 | ★★☆ | [Discrete Mathematics and Its Applications](https://www.amazon.com/Discrete-Mathematics-Applications-Kenneth-Rosen/dp/0072899050) ，作者：Kenneth H. Rosen |  离散数学与竞争性编程密切相关.  本书提供了有关广泛主题的综合材料，包括：逻辑和证明，集合，函数，序列，矩阵，数论，递归，计数，Probablity，图形，树和布尔阿莱格拉，仅举几例.  |
-| ★★☆ | [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) ，由Ronald L. Graham，Donald E. Knuth，Oren Patashnik |  本书提供了对离散数学的更深入的了解，更多地侧重于与数字相关的主题.  |
+| ★★☆ | [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.com/Concrete-Mathematics-Foundation-Computer-Science/dp/0201558025) ，由Ronald L. Graham，Donald E. Knuth，Oren Patashnik |  这本书提供了对离散数学的更深入的了解，更多地侧重于与数字相关的主题.  |
 | ★★☆ | [Linear Algebra and Its Applications](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X/ref=sr_1_1?ie=UTF8&qid=1455475253&sr=8-1&keywords=Linear+Algebra+and+Its+Applications) ，David C. Lay，Steven R. Lay，Judi J. McDonald |  这本书在弥合物理系统（科学家和工程师）和抽象系统（数学家）之间的差距方面做得非常出色.  |
 | ★★☆ | [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html) ，Charles M. Grinstead，J.Laurie Snell |  这是一本写得很好的入门概率书.  ......这是免费 [download (pdf)](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/amsbook.mac.pdf)  （根据GNU自由文档许可证发布）.  |
 | ★★☆ | [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/How-Solve-It-Mathematical-Princeton/dp/069111966X) ，由G. Polya |  古老的经典.  在本书中，作者提供了一种创造性地解决问题的系统方法.  |
-| ★★☆ | [Intermediate Counting & Probability](https://artofproblemsolving.com/store/item/intermediate-counting) ，大卫帕特里克|  计数和概率论者的主题美国数学奥林匹克冠军大卫帕特里克，主题包括包含 - 排除，1-1对应，鸽子原则，建设性期望，斐波纳契数和加泰罗尼亚数，递归，条件概率，生成函数，图论等等.. |
+| ★★☆ | [Intermediate Counting & Probability](https://artofproblemsolving.com/store/item/intermediate-counting) ，大卫帕特里克|  计算和概率论者的主题美国数学奥林匹克冠军大卫帕特里克，主题包括包含 - 排除，1-1对应，鸽子原则，建设性期望，斐波纳契数和加泰罗尼亚数，递归，条件概率，生成函数，图论等等.. |
 
 
 ## Sites for Practice
@@ -136,7 +137,7 @@
 | ★★★ | [AtCoder](https://atcoder.jp)  |  AtCoder是一个新的但非凡的竞赛平台，由一群评价很高的日本竞争程序员创建.  |
 | ★★☆ | [CodeChef](https://www.codechef.com/)  |  CodeChef是Directi的非营利性教育计划.  它是一个全球竞争性的编程平台，拥有庞大的程序员社区，可以帮助学生和专业人员测试和提高他们的编码技能.  其目标是为学生和专业软件开发人员提供实践，竞争和改进的平台.  除此之外，它的目的是在年轻时接触学生，并在印度灌输编程文化.  |
 | ★★★ | [SPOJ](https://www.spoj.com/)  |  SPOJ平台以在线评判系统为中心.  它由问题制定者社区准备或从之前的编程竞赛中获取的问题数量惊人，其中一些是实践中的重大问题（参见 [Problem classifiers](#problem-classifiers)  部分）.  SPOJ还允许高级用户根据自己的规则组织竞赛.  |
-| ★★☆ | [Timus](http://acm.timus.ru/)  |  Timus Online Judge是俄罗斯最大的自动判断系统编程问题档案.  问题主要来自乌拉尔联邦大学，乌拉尔锦标赛，乌拉尔ACM ICPC分区域竞赛和彼得罗扎沃茨克训练营举办的比赛.  |
+| ★★☆ | [Timus](http://acm.timus.ru/) | Timus Online Judge is the largest Russian archive of programming problems with automatic judging system. Problems are mostly collected from contests held at the Ural Federal University, Ural Championships, Ural ACM ICPC Subregional Contests, and Petrozavodsk Training Camps. |
 | ★☆☆ | [HDU](http://acm.hdu.edu.cn/)  |  HDU是由杭州电子科技大学维护的在线评委.  它是中国IOI场景中许多经典问题的发源地.  |
 | ★★☆ | [Aizu Online Judge](http://judge.u-aizu.ac.jp/onlinejudge/index.jsp)  |  会津在线评委是由会津大学主办的比赛平台和问题档案.  它在日本的编程比赛中有很多很大的问题.  |
 | ★★☆ | [UVa](https://uva.onlinejudge.org/)  |  一个历史悠久的老派问题档案/在线评判.  这里有数千个问题，包括许多经典问题.  但是，强烈建议您练习 [uHunt](https://uhunt.onlinejudge.org/id/0)  遵循其“竞争性编程练习”部分.  |
@@ -144,7 +145,7 @@
 | ★★☆ | [POJ](http://poj.org/)  |  POJ是北京大学维护的许多重大问题的在线评委.  大多数中国竞争程序员开始他们的旅程.  该平台确实过时，因此可能会出现神秘的编译和运行时问题.  |
 | ★★☆ | [Project Euler](https://projecteuler.net/)  |  Euler项目具有一系列令人惊叹的良好数学问题.  它还举办一个人们可以讨论的论坛.  |
 | ★☆☆ | [Hackerearth](https://www.hackerearth.com/)  |  HackerEarth是一家位于印度班加罗尔的创业技术公司，提供招聘解决方案.  |
-| ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml)  |  COJ由位于古巴的信息科学大学（UCI，缩写为西班牙语）主持.  功能ACM ICPC和Progresive constest风格，主要来自加勒比海和拉丁美洲问题制定者，也有问题分类和比赛日历.  |
+| ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml)  |  COJ由位于古巴的信息科学大学（UCI，缩写为西班牙语）主持.  功能ACM ICPC和Progresive constest风格，主要来自加勒比海和拉丁美洲的问题制定者，也有问题分类器和比赛日历.  |
 | ★★☆ | [CS Academy](https://csacademy.com)  |  在竞争激烈的编程环境中，CS Academy是一位不断发展的在线评委，每两周举办一次比赛.  它支持实时聊天，交互式课程和集成的在线编辑器（实际上有效）.  |
 | ★★☆ | [Russian Code Cup](https://www.russiancodecup.ru/en/)  |  由Mail.Ru Group提供的编程竞赛.  比赛包括3个资格，1个淘汰和1个最后一轮.  对于每一轮参赛者，给出4-8个问题，必须在固定的时间内解决.  |
 | ★★☆ | [CodeFights](https://codesignal.com/)  |  CodeFights是一个竞争性编程实践和面试准备的网站.  它具有各种难度的日常挑战，问题存档和定期（每15分钟）迷你锦标赛.  适合初学者.  |
@@ -219,7 +220,7 @@
  |  ☆|  名称|  说明|
 | --- | --- | --- |
 | ★★☆ | [Power up C++ with the Standard Template Library - Topcoder: Part 1](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-1/), [Part 2](https://www.topcoder.com/community/data-science/data-science-tutorials/power-up-c-with-the-standard-template-library-part-2/)  |  关于基本C ++ STL的入门教程.  |
-| ★★☆ | [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217)  |  了解有关C ++ I / O优化的更多信息.  |
+| ★★☆ | [Yet again on C++ input/output - Codeforces](http://codeforces.com/blog/entry/5217) | Learn more about C++ I/O optimizations. |
 | ★★☆ | [C++ Tricks - Codeforces](http://codeforces.com/blog/entry/15643) ... [What are some cool C++ tricks to use in a programming contest? - Quora](https://www.quora.com/Competitive-Programming/What-are-some-cool-C++-tricks-to-use-in-a-programming-contest)  |  丰富的C ++技巧可用于竞争性编程.  请注意，应谨慎使用.  |
 | ★★★ | [C++ STL: Policy based data structures - Codeforces: Part 1](http://codeforces.com/blog/entry/11080), [Part 2](http://codeforces.com/blog/entry/13279)  |  详细介绍GNU C ++中实现的额外数据结构.  可以找到官方文档 [here](https://gcc.gnu.org/onlinedocs/libstdc++/ext/pb_ds/). |
 | ★☆☆ | [C++11 FAQ (English, Chinese, Russian, Japanese, Korean)](http://www.stroustrup.com/C++11FAQ.html)  |  由C ++的创建者Bjarne Stroustrup收集和编写的关于C ++ 11的常见问题解答列表.  |
@@ -231,7 +232,7 @@
 | ★★☆ | [How to read input in Java — tutorial - Codeforces](http://codeforces.com/blog/entry/7018)  |  了解如何更快地阅读输入.  对于那些打算使用Java进行竞争性编程的人来说，这是必读
 | ★★☆ | [How to sort arrays in Java and avoid TLE - Codeforces](http://codeforces.com/blog/entry/7108)  |  关于如何避免遇到最严重的快速排序的一些提示
 | ★★☆ | [BigNum arithmetic in Java — Let's outperform BigInteger! - Codeforces](http://codeforces.com/blog/entry/17235)  |  一个基本但更快的自定义BigInteger类|
-| ★★☆ | [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328) | A Java library for contests written by Alexey Dergunov (dalex). ArrayList, ArrayDeque, Heap, Sort, HashSet, HashMap, TreeSet, TreeMap, TreeList and pair classes are implemented |
+| ★★☆ | [EZ Collections, EZ Life (new Java library for contests) - Codeforces](http://codeforces.com/blog/entry/14328)  |  由Alexey Dergunov（dalex）撰写的竞赛Java库.  实现ArrayList，ArrayDeque，Heap，Sort，HashSet，HashMap，TreeSet，TreeMap，TreeList和pair类
 
 ### Miscellaneous
 
@@ -294,7 +295,7 @@
 | --- | --- |
 | | [Codeforces blogs](http://codeforces.com/) |
  |  Petr Mitrichev（Petr）| [Algorithms Weekly](https://petr-mitrichev.blogspot.com/) |
-| Makoto Soejima (rng_58) | [rng_58's blog](https://rng-58.blogspot.com) |
+| Makoto Soejima（rng_58）| [rng_58's blog](https://rng-58.blogspot.com) |
  |  Bruce Merry（bmerry）| [Entropy always increases](http://blog.brucemerry.org.za/) |
  |  PrzemysławDębiak（Psyho） [Psyho's blog](http://psyho.gg/) |
  |  Anudeep Nekkanti（anudeep2011）| [Namespace Anudeep ;)](https://blog.anudeep2011.com/) |
@@ -310,7 +311,7 @@
  |  名称（句柄）|  链接|
 | --- | --- |
  |  Petr Mitrichev（Petr）| [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA) |
- |  Ravindrababu Ravula的门讲座| [Youtube](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ) |
+ |  Ravindrababu Ravula by Gate Lectures | [Youtube](https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ) |
  |  Mostafa Saad Ibrahim（mostafa.saad.fci）| [Competitive Programming Youtube (Arabic Speech-English Text)](https://www.youtube.com/user/nobody123497) |
  |  Tushar Roy | [Youtube](https://www.youtube.com/user/tusharroy2525) ，有很多教程视频.  |
  |  GeeksforGeeks | [Youtube](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ) |
@@ -323,20 +324,20 @@
  |  Egor Kulikov（叶戈尔）| [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
  |  Adam Bardashevich（订阅者）| [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
  |  Bohdan Pryshchenko（I_love_Tanya_Romanova）| [Twitch](https://www.twitch.tv/lebron_stream), [Youtube](https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ) |
- |  Vladimir Smykalov（units.1.10）| [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
- |  亚历山大·阿巴斯（Alex7）| [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
+ |  Vladimir Smykalov（单位1.10） [Twitch](https://www.twitch.tv/enot110), [Youtube](https://www.youtube.com/channel/UCWEVsnIXiD5mgWM0LFwZBzA) |
+ |  Alexander Abbas（Alex7）| [Youtube](https://www.youtube.com/channel/UCQ5k0-BMFhfvfJQik1r5ZVw) |
  |  Mikhail Tikhomirov（Endagorion）| [Youtube](https://www.youtube.com/user/Endagorion/) |
 
 ### Quora
 &gt;参观 [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) ([Top 10 Most Viewed Writers](https://www.quora.com/topic/Competitive-Programming/writers)).
 
-| Important Community Figures | Description |
+ |  重要社区人物|  说明|
 | --- | --- |
 | [Bill Poucher](https://www.quora.com/profile/Bill-Poucher)  |  执行董事 [ACM-ICPC](https://icpc.baylor.edu) .  贝勒大学CS教授.  | 
 | [Michal Forišek (misof)](https://www.quora.com/profile/Michal-Fori%C5%A1ek)  |  组织者 [IPSC](https://ipsc.ksp.sk) 和 [IOI](https://ioinformatics.org/). CS Teacher at Comenius University in Slovakia. Algorithm 和 CS Education Researcher. Former highly-rated competitive programmer. |
-| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly)  |  创始人 [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com)  首席软件工程师.  前成员 [Google Code Jam](https://code.google.com/codejam/)  球队.  |
+| [Ahmed Aly (ahmed_aly)](https://www.quora.com/profile/Ahmed-Aly)  |  创始人 [A2OJ](https://www.quora.com/profile/Ahmed-Aly). [HackerRank](https://www.hackerrank.com)  首席软件工程师.  前成员 [Google Code Jam](https://code.google.com/codejam/) team. |
 
-| Competitive Programmers |  |  |  
+ |  竞争程序员|  |  |  
 | --- | --- | --- |  
 | [Thanh Trung Nguyen (I_love_Hoang_Yen)](https://www.quora.com/profile/Thanh-Trung-Nguyen) | [Brian Bi (bbi5291)](https://www.quora.com/profile/Brian-Bi) | [Jonathan Paulson (jonathanpaulson)](https://www.quora.com/profile/Jonathan-Paulson) |  
 | [Miguel Oliveira (mogers)](https://www.quora.com/profile/Miguel-Oliveira-2) | [Egor Suvorov (yeputons)](https://www.quora.com/profile/Egor-Suvorov) | [Michal Danilák (Mimino)](https://www.quora.com/profile/Michal-Danil%C3%A1k) |  

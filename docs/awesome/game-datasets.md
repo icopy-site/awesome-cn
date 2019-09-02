@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="leomaurodesenv/game-datasets"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  在计算机科学中，人工智能（AI）是由机器演示的智能.  其定义，人工智能研究作为“智能代理人”的研究：任何感知其环境并采取行动实现其目标的设备_Russell等.  al（2016）_.   
@@ -128,7 +129,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - 来自侠盗猎车手5游戏的2D和3D图像.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - 收集卡片.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - 甲板的收集.
-- [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
+- [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - 球员和球队数据.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - 游戏数据.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - 卡片数据.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - 历史民意调查数据.
@@ -150,7 +151,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) - 来自Super Mario Maker的网络数据.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - 专业级别的球员侦察.
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - 匹配数据流. [Paper](https://doi.org/10.1371/journal.pone.0075129).
-- [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - 比赛结果.
+- [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - 重播的聚合.
 - [StarData](https://github.com/TorchCraft/StarData) - 比赛，视频等 [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - 这个游戏的卡片.

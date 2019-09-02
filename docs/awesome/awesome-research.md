@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="emptymalei/awesome-research"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -44,7 +45,7 @@
 
 ### Pomodoro
 
-Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) to gain efficiency and probably health.
+Try [Pomodoro Technique](https://en.wikipedia.org/wiki/Pomodoro_Technique) 获得效率和健康.
 
 
 * [Pomotodo](https://pomotodo.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Chrome`）：todo list和pomodoro timer的混合，跨设备同步和每周报告[免费].
@@ -63,7 +64,7 @@ GTD（Getting Things Done）方法依赖于将计划任务和项目移出思想�
 
 * [Wunderlist](https://www.wunderlist.com) （`Cloud`，&#39;Mac`，`Win`，`Android`，`iOS`，`Win Store`，`Chrome OS`）：几乎完美的todo列表，合作和共享.
 * [Evernote](https://evernote.com/) （`Cloud`，`Mac`，`Win`，`Android`，`iOS`，`Win Store`）：不是那么轻巧，但仍然非常适合管理生活，特别是因为它有很多来自很多的集成其他服务.
-* [Anydo](https://www.any.do/) （`Cloud`，`Mac`，`Android`，`iOS`）：很好，因为它有一个非常好的日常审查，可以帮助用户记住该做什么.
+* [Anydo](https://www.any.do/) （`Cloud`，&#39;Mac`，`Android`，`iOS`）：很好，因为它有一个非常好的日常审查，可以帮助用户记住该做什么.
 * [Todoist](https://todoist.com/) （`Cloud`，&#39;Mac`，`Win`，`Android`，`iOS`）：Todoist发明了业力系统，可以跟踪完成的任务.
 * [Taskade](https://taskade.com/) （`Cloud`，&#39;Mac`，`Win`，`Chrome OS`，`Firefox`，`Android`，`iOS`）：Taskade是团队项目的协作任务列表和大纲.
 
@@ -81,7 +82,7 @@ GTD（Getting Things Done）方法依赖于将计划任务和项目移出思想�
 * [CoCalc (SageMathCloud)](https://cocalc.com/)：LaTeX，R，iPython笔记本等
 * [PiCloud](http://picloud.com) ：Python，但它被Dropbox收购并且已经关闭.  新网站是 [Multyvac](http://www.multyvac.com/).
 * [Multyvac](https://www.multyvac.com/)：有点像PiCloud的继任者，但肯定会更强大.
-* [WolframAlpha](https://www.wolframalpha.com/)：在线和搜索进行数学推导的优秀引擎.
+* [WolframAlpha](https://www.wolframalpha.com/)：优秀的引擎，可以在线进行数学推导和搜索.
 
 
 
@@ -292,7 +293,7 @@ Markdown，reStructuredText和LaTeX是三种选择的语言.
 * [ShareLaTeX](https://www.sharelatex.com/) （`Cloud`）：Dropbox和GitHub的集成，预览，合作，简单的UI.  它还提供了很多模板.
 * [Overleaf](https://www.overleaf.com/)（`Cloud`）：内置版本控制.
 * [Authorea](https://www.authorea.com/) （`Cloud`）：易于使用的UI.  支持Markdown和LaTeX.
-* [Papeeria](https://www.papeeria.com)（`Cloud`）：另一个在线LaTeX和Markdown，带有情节编译和协作.
+* [Papeeria](https://www.papeeria.com)(`Cloud`): Just another online LaTeX and Markdown with plot compiler and collaborations.
 * [JaxEdit](http://jaxedit.com/)（`Cloud`）：JaxEdit不提供完整的LaTeX支持，但对于简单的LaTeX文档和幻灯片来说已经足够了.
 
 
@@ -356,14 +357,14 @@ Markdown，reStructuredText和LaTeX是三种选择的语言.
 ### Keep The Notes
 
 
- 跟踪笔记的变化总是更好，** git **是一个不错的选择.  因此， [GitHub](http://github.com) is the almost perfect place.
+ 跟踪笔记的变化总是更好，** git **是一个不错的选择.  因此， [GitHub](http://github.com) 是几乎完美的地方.
 
 至于LaTeX， [latexdiff](http://www.ctan.org/tex-archive/support/latexdiff/) 是一个检查差异的工具.
 
 **某些程序允许您在服务器上保留降价记录.**
 
 * [Raneto](http://raneto.com/) ：Raneto是一个开源知识库平台，它使用静态Markdown文件为您的知识库提供支持.  这个看起来很漂亮.
-* [Realms](http://realms.io/): Git based wiki written in Python Inspired by Gollum, Ghost, and Dillinger. Basic authentication and registration included.
+* [Realms](http://realms.io/) ：用Python编写的基于Git的wiki，受到Gollum，Ghost和Dillinger的启发.  包括基本身份验证和注册.
 * [Tiddlywiki](http://tiddlywiki.com/)：一种独特的非线性笔记本，用于捕获，组织和共享复杂信息.
 * 其他 [static site generators](#static-generator).
 
@@ -475,7 +476,7 @@ Julia或Python语言，甚至支持R. [IPython Notebook/Jupyter](https://jupyter
   * [supervised-ipython-nbserver](https://github.com/writefaruq/supervised-ipython-nbserver) 是使用Django / Pinax的笔记本的多用户版本.
 * [Matlab](http://www.mathworks.com/products/matlab/)
 * [Maple](https://www.maplesoft.com/index.aspx?L=E)
-* [RStudio](https://www.rstudio.com/) （`R`）
+* [RStudio](https://www.rstudio.com/) (`R`)
 
 
 ### Scientific Computing
@@ -555,7 +556,7 @@ Julia或Python语言，甚至支持R. [IPython Notebook/Jupyter](https://jupyter
 * [Muji Sleep](http://sleep.muji.net/)（`iOS`，&#39;Android`）
 * [A Soft Murmur](http://asoftmurmur.com/) （`Web`）：多个轨道的自由混合;  简单的UI;  提供定时器;  曲折可用
 * [mynoise](https://mynoise.net/noiseMachines.php) （`iOS`，`Web`）：噪音发生器;  很多选择（实际上太多）;  详细的均衡器
-* [Rainy Cafe](http://rainycafe.com/)（“网络”）：没有太多可以说只是一个多雨的情绪和共同性的组合
+* [Rainy Cafe](http://rainycafe.com/)（“网络”）：不仅仅是说多雨的情绪和同性恋的结合
 * [Sleep Pillow](http://www.clearskyapps.com/portfolio/sleep) （`iOS`，`Mac`）：点击播放预装场景;  使用方便;  漂亮的设计
 * [A youtube audio track of coffee shop (really long)](https://www.youtube.com/watch?v=KZV9FmHOsRg)
 * [A youtube audio track of 10 hours rain fall](https://www.youtube.com/watch?v=s_2FDRtFOAw)
@@ -685,7 +686,7 @@ Julia或Python语言，甚至支持R. [IPython Notebook/Jupyter](https://jupyter
 
 **数学排版**
 
-* [Math into Type](https://github.com/emptymalei/awesome-research/blob/master/ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf) ：这是一本关于数学相关排版的好书.  这是版权材料.  请不要重新分发.
+* [Math into Type](https://github.com/emptymalei/awesome-research/blob/master/ftp://ftp.ams.org/pub/author-info/documentation/howto/mit-2.pdf): This is a great book for math related typography. This is copyright material. Please DO NOT redistribute.
 
 
 ## MISC

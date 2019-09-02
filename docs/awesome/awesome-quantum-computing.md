@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="desireevl/awesome-quantum-computing"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Quantum Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/desireevl/awesome-quantum-computing/master/logo.png" align="right" width="110">](https://en.wikipedia.org/wiki/Quantum_computing)
@@ -47,7 +48,7 @@
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
+- [Cirq](https://github.com/quantumlib/Cirq) - 用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - 在线量子作曲家在真实量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -  D-Wave用于使用Python在量子计算机上进行开发的SDK.
@@ -57,7 +58,7 @@
 - [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) -  IBM的软件开发工具包，用于处理OpenQASM和IBM Q Experience.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) -  IBM制作的JavaScript的Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) - 高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
-- [Quantum++](https://https://github.com/vsoftco/qpp) - 高性能的现代C ++ 11量子计算库.
+- [Quantum++](https://github.com/vsoftco/qpp) - 高性能的现代C ++ 11量子计算库.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - 基于Web的量子编程IDE和模拟器.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - 用于量子计算的嵌入式，可扩展的函数式编程语言.
 - [Qurry](https://github.com/LSaldyt/Qurry) - 基于功能和概率范式的量子概率编程语言.
@@ -113,4 +114,4 @@
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.

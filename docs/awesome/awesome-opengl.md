@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="eug/awesome-opengl"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
@@ -65,7 +66,7 @@
 * [freeGLUT](http://freeglut.sourceforge.net) - 成熟的库，允许创建/管理包含OpenGL上下文的窗口.
 * [GLFW](http://www.glfw.org) - 使用OpenGL上下文创建/交互窗口的现代库.
 * [GLFM](https://github.com/brackeen/glfm) - 为移动设备和Web提供OpenGL ES上下文和输入事件.
-* [glm](http://glm.g-truc.net/0.9.6/index.html) - 基于GLSL规范的图形软件数学库.
+* [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
 * [Magnum](https://github.com/mosra/magnum) - 它是现代OpenGL的2D / 3D图形引擎.
 * [MathFu](http://google.github.io/mathfu/) - 主要针对简单性和效率的游戏开发的C ++数学库.
 * [Newton](http://newtondynamics.com/forum/newton.php) - 这是一个跨平台的生活物理学.
@@ -139,7 +140,7 @@
 
 *类似的精彩列表*
 * [awesome](https://github.com/sindresorhus/awesome) - 精选列表的精选列表.
-* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision) - 精选计算机视觉资源的精选列表.
 * [awesome-webgl](https://github.com/sjfricke/awesome-webgl) - 精选WebGL库，资源等的精选列表.
 * [awesome-vulkan](https://github.com/vinjn/awesome-vulkan) - 精选的Vulkan项目和生态系统的精选列表.
 * [gamedev](https://github.com/ellisonleao/magictools) - 关于游戏开发的精彩列表.

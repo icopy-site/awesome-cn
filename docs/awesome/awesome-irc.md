@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="davisonio/awesome-irc"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IRC [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt;精选的精选列表 [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) 资源.
@@ -21,7 +22,7 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 - [CIRC](https://flackr.github.io/circ/)   - 使用chrome.sockets API直接连接到IRC服务器，无需代理.  （[source](https://github.com/flackr/circ)）``Chrome`
 - [Quassel](https://quassel-irc.org) - 分布式（客户端可以连接到永久在线的中央核心并从中分离.）[source](https://github.com/quassel/quassel)）`Linux`` macOS``Windows`
 - [Yaaic](https://www.yaaic.org)   - 多服务器/通道支持，SASL支持，平滑通道滚动/滑动.  （[source](https://github.com/pocmo/Yaaic)）``Android`
-- [Koko](https://github.com/KokoIRC/koko)   - 简约的设计，类似VIM的快捷方式，并以电子为基础.  `Windows``macOS`
+- [Koko](https://github.com/KokoIRC/koko) - Minimalistic design, VIM-like shortcuts and built on electron. `Windows` `macOS`
 - [relay.js](https://github.com/Fauntleroy/relay.js)   - 专注于使IRC不那么令人生畏和易于使用.  （[demo](http://demo.relayjs.com)）`Web`
 - [Circe](https://github.com/jorgenschaefer/circe)   - 用于Emacs，理智的默认值.  `Emacs`
 - [Smuxi](https://smuxi.im)   - 用户友好，基于GNOME / GTK +.  （[source](https://github.com/meebey/smuxi)）`Linux``Windows``macOS`
@@ -152,7 +153,7 @@ IRC（Internet Relay Chat）是一种开源协议，可用于通过渠道进行�
 
 ### Articles
 
-*Articles and blog posts about IRC.*
+*有关IRC的文章和博客文章.*
 
 - [Please don't use Slack for FOSS projects](https://drewdevault.com/2015/11/01/Please-stop-using-slack.html) -  Drew DeVault的博客.
 - [IRC Networks Under Systematic Attack From Governments](https://www.quakenet.org/articles/102-press-release-irc-networks-under-systematic-attack-from-governments) -  QuakeNet.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="brabadu/awesome-fonts"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的字体和排版资源列表.
@@ -14,7 +15,7 @@
 ## Free fonts
 
 #### Collections
-* [Font Squirrel](https://www.fontsquirrel.com/) - 来自各种代工厂的精选免费字体集合
+* [Font Squirrel](https://www.fontsquirrel.com/) - 来自各种代工厂的精选免费字体集
 * [Gidole](http://gidole.github.io/) - 开源，现代DIN
 * [Google Fonts](https://fonts.google.com/)
   * [Downloader for Google Fonts](https://github.com/qrpike/Web-Font-Load)
@@ -62,7 +63,7 @@
 * [emojify.js](https://github.com/emojione/emojify.js) - 用于将表情符号关键字转换为图像的Javascript模块
 * [emojify](https://github.com/mrowa44/emojify) - 命令行上的表情符号
 * [emojilib](https://github.com/muan/emojilib) - 表情符号关键字库
-* [emojillate](https://github.com/notwaldorf/emojillate) - 将图像映像为表情符号
+* [emojillate](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 * [emojione](https://github.com/emojione/emojione) -  EmojiOne™是开放式表情符号标准
 * [emojistatic](https://github.com/mroth/emojistatic) - 表情符号的CDN静态资产生成
 * [emojitracker](https://github.com/mroth/emojitracker) - 跟踪所有表情符号
@@ -101,7 +102,7 @@
 * [openwebicons](https://pfefferle.github.io/openwebicons/) - 因为Font Awesome没有RSS图标，只有一个图标的字体会有点无聊
 * [PaymentFont](https://paymentfont.com/) - 一个时尚的webfont包含所有主要支付运营商和方法的94个图标
 * [PE-Analog-Clock-icon-font](https://github.com/jhogue/PE-Analog-Clock-icon-font) - 一组用于显示时间戳的视觉（“模拟”）表示的图标
-* [stackicons](https://github.com/parkerbennett/stackicons) - 用于Stackicons-Social的Icon字体和基于Sass的构建工具包，支持多种按钮形状和CSS中独特的“多色”选项，适用于60多个社交品牌
+* [stackicons](https://github.com/parkerbennett/stackicons) -  Stackicons-Social的Icon字体和基于Sass的构建工具包，支持多种按钮形状和CSS中独特的“多色”选项，适用于60多个社交品牌
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - 正确完成的终极SVG图标集
 * [typicons.font](http://s-ings.com/typicons/) -  336像素完美，通用矢量图标在web字体工具包中
 * [weather-icons](http://erikflowers.github.io/weather-icons/) -  189个以Font Awesome为灵感的天气主题图标，为Bootstrap做好准备

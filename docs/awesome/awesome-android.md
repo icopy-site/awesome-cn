@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="JStumpp/awesome-android"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Android
 [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png">](https://raw.githubusercontent.com/jstumpp/awesome-android)
 
@@ -92,14 +93,14 @@
 - [ElasticProgressBar](https://github.com/michelelacorte/ElasticProgressBar) - 美丽的装载栏.
 - [EntryScreenManager](https://github.com/kunall17/EntryScreenManager) - 简介/进入/演练/开始屏幕.
 - [EasyIntro](https://github.com/meNESS/EasyIntro) - 适用于Android项目的灵活，易用，一体化应用程序介绍库.
-- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
+- [Material-Calendar-View](https://github.com/BlackBoxVision/material-calendar-view) - 与API 8+兼容的Material Design Calendar
 - [CrunchyCalendar](https://github.com/CleverPumpkin/CrunchyCalendar) - 具有无限滚动，日期范围选择和颜色自定义的材质日历窗口小部件.
 - [SmoothOverscrollableScrollView](https://github.com/vovaksenov99/OverscrollableScrollView)   - 具有平滑过卷的小型自定义视图.  您可以添加带缩放背景的标题
 - [SectionedRecyclerViewAdapter](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - 一个适配器，允许将RecyclerView拆分为带有页眉和/或页脚的章节.
 - [DragListView](https://github.com/woxblom/DragListView) - 拖放以重新排列列表，网格或板中的项目.
 - [Animated Expanding ListView](https://github.com/LeonardoCardoso/Animated-Expanding-ListView) - 动画扩展ListView在展开或折叠列表视图项的内容时提供了一个奇特的动画.
 - [TastyToast](https://github.com/yadav-rahul/TastyToast) - 图标和颜色的祝酒词.
-- [DotLoader](https://github.com/bhargavms/DotLoader) - A customizable loading animation with Dots.
+- [DotLoader](https://github.com/bhargavms/DotLoader) - 带Dots的可自定义加载动画.
 - [PodSlider](https://github.com/bhargavms/PodSLider) - 符合材料设计规格的可自定义滑块小部件.
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) - 从材料设计指南中实现功能发现的点击目标.
 - [ShowCaseView](https://github.com/mreram/ShowCaseView) -  ShowcaseView库旨在通过引人注目的平面叠加层向用户突出显示和展示应用程序的特定部分.
@@ -170,7 +171,7 @@
 
 - [Picasso](https://github.com/square/picasso) - 适用于Android的强大图像下载和缓存库.
 - [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) - 异步，开箱即用的图像加载和缓存.
-- [Glide](https://github.com/bumptech/glide) - An image loading and caching library for Android focused on smooth scrolling, Recommended by Google.
+- [Glide](https://github.com/bumptech/glide) - 适用于Android的图像加载和缓存库，专注于平滑滚动，由Google推荐.
 - [Fresco](https://github.com/facebook/fresco) - 用于管理图像及其使用内存的Android库.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) -  Glide Bitmap Pool是一个用于重用位图内存的内存管理库.
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) -  Android库，可让您为Android选择多个图像，视频或语音
@@ -227,7 +228,7 @@
 - [Logback Android](https://github.com/tony19/logback-android) -  Android的Logback端口，为Android应用程序提供高度可配置的日志框架.
 
 ### Notifications
-- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - 从远程JSON文件中提取通知，并在您的应用中显示它们.
+- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - 设置心跳间隔的方法和用户从GCM接收PushNotifications.
 
 ### Database
@@ -274,7 +275,7 @@
 
 - [Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) - 允许您计算两个位置之间的方向，并使用Google Directions API在Google地图上显示路线.
 - [Android Maps Extensions](https://github.com/mg6maciej/android-maps-extensions) - 扩展Google Maps Android API v2的功能，添加标记群集等功能
-- [MapScaleView](https://github.com/pengrad/MapScaleView) -  Google Maps Android API的比例尺
+- [MapScaleView](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 - [GLMap](https://globus.software)   - 使用MapCSS样式跨平台离线矢量地图.  包括离线搜索和离线导航.
 
 ### Utility
@@ -398,7 +399,7 @@
 - [android-blogs](https://github.com/vbauer/android-blogs) - 列出有关Android的博客.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - 关于Retrofit，Picasso，Glide和Gson的广泛Android教程.
 - [Android Tips & Tricks](https://github.com/nisrulz/android-tips-tricks) -  Cheatsheet关于Android开发的提示和技巧.
-- [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - 准备测试的材料集合.
+- [Associate Android Developer Certification Materials](https://github.com/Amejia481/Associate-Android-Developer-Certification) - A collection of materials for getting ready for the test.
 - [Google Developers Training](https://developer.android.com/courses/) -  Google Developers官方培训页面列出了适合初学者和经验丰富的开发人员的各种有用的学习资源.
 - [Mindorks](https://mindorks.com/) - 成为一个完整而快乐的Android开发人员.
 - [AndroidVille](https://ayusch.com/)   - 成为更好的Android工程师.  一个致力于Android开发的网站，涵盖RxJava，Android Zygote等高级主题.
@@ -420,7 +421,7 @@
 - [The Android Arsenal](https://android-arsenal.com/) - 大型android库列表
 - [Square libraries](https://square.github.io/) - 方形的多个高质量库.
 - [Awesome Android @LibHunt](https://android.libhunt.com) - 您的Android工具箱.
-- [Android Store](https://mindorks.com/android/store) - 搜索Android库，项目和工具.
+- [Android Store](https://mindorks.com/android/store) - Search Android Libraries, Projects, and Tools.
 
 ## Development Alternatives
 
@@ -450,7 +451,7 @@
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) -  Android上的Groovy简介.
 - [Groovy Language Support for Android](https://github.com/groovy/groovy-android-gradle-plugin) - 用于Android编译Groovy的Gradle插件.
-- [SwissKnife](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+- [SwissKnife](https://github.com/Arasthel/SwissKnife) - 一个多用途Groovy库，包含使用注释的Android视图注入和线程.
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) - 由JetBrains在Kotlin编写的Android for Android.

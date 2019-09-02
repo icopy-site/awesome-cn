@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="yissachar/awesome-dart"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 真棒飞镖 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ============
 
@@ -24,7 +25,7 @@
 
 ## Server Frameworks
 
-* [Jaguar](https://github.com/Jaguar-dart/jaguar) - 为快速，简单和可扩展性而构建的服务器框架.
+* [Jaguar](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
 * [Angel](https://github.com/angel-dart/angel) -  Angel是一个服务器端框架，专为全栈开发而设计，重点是代码共享，可扩展性和低学习曲线.
 * [Aqueduct](https://github.com/stablekernel/aqueduct) -  Aqueduct是一个功能齐全的服务器端框架，具有ORM，数据库迁移工具，OAuth 2.0实现，自动OpenAPI规范生成和多线程支持.
 * [Redstone](https://github.com/redstone-dart/redstone) -  Redstone是Dart的服务器端，元数据驱动的微框架.
@@ -81,7 +82,7 @@
 
 * [html](https://pub.dartlang.org/packages/html)   - 用于处理HTML文档的库.  以前称为html5lib.
 * [markdown](https://github.com/dart-lang/markdown) - 在客户端和服务器上将markdown分解为HTML.
-* [PetitParser](https://github.com/petitparser/dart-petitparser) -  PetitParser将来自无扫描解析，解析器组合器，解析表达式语法和packrat解析器的思想组合成模型语法和解析器，作为可动态重新配置的对象.
+* [PetitParser](https://github.com/petitparser/dart-petitparser) -  PetitParser将无扫描解析，解析器组合器，解析表达式语法和packrat解析器的思想组合成模型语法和解析器，作为可动态重新配置的对象.
 * [XML](https://pub.dartlang.org/packages/xml) - 用于解析，遍历，查询和构建XML文档的轻量级库.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - 基于流事件的XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) -  YAML的解析器.
@@ -144,7 +145,7 @@
 * [Vim Plugin](https://github.com/dart-lang/dart-vim-plugin) - 在Vim中为Dart突出显示语法
 * [Atom Plugin](https://atom.io/packages/atom-dart) -  Dart对Atom的支持.
 * [DartPad](https://dartpad.dartlang.org/) - 在线轻量级编辑器.
-* [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) - Dart support for Visual Studio Code.
+* [Dart Code](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code) -  Dart支持Visual Studio Code.
 * [Module Linker](http://fiatjaf.alhur.es/module-linker/#/dart) -  Chrome扩展程序，可在GitHub上添加指向模块导入语句的直接链接.
 
 ## Everything Else

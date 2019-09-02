@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="notthetup/awesome-webaudio"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WebAudio
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -30,7 +31,7 @@
 - [AudioKeys](https://github.com/kylestetz/AudioKeys) - 用于Web音频项目的QWERTY键盘.
 - [smoothfade](https://github.com/notthetup/smoothfade) - 用于在两个AudioNode之间平滑淡入的库.
 - [web-audio-test-api](https://github.com/mohayonao/web-audio-test-api) -  CI的Web音频测试库.
-- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - 用于声明性地操纵Web Audio API的库.
+- [virtual-audio-graph](https://github.com/benji6/virtual-audio-graph) - Library for declaratively manipulating the Web Audio API.
 - [javascript-karplus-strong](https://github.com/mrahtz/javascript-karplus-strong) -  Karplus-Strong吉他合成的JavaScript / Web Audio实现.
 - [XSound.js](https://github.com/Korilakkuma/XSound) - 完整堆栈库.
 - [osc-msg](https://github.com/mohayonao/osc-msg) - 具有容错功能的OSC消息解码器/编码器.

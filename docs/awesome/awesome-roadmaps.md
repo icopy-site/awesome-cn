@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="liuchong/awesome-roadmaps"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Roadmaps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 一份策划的路线图列表，主要是关于软件开发的，它为您提供了一条明确的途径来提高您的知识或技能.

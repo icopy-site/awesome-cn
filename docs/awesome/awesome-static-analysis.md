@@ -1,7 +1,8 @@
 <div class="github-widget" data-repo="mre/awesome-static-analysis"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
  ![Logo](https://raw.githubusercontent.com/mre/awesome-static-analysis/master/awesome.png)
 
-> Static program analysis is the analysis of computer software that is performed without actually executing programs — [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+&gt;静态程序分析是在没有实际执行程序的情况下执行的计算机软件分析 -  [Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
 
  这是静态分析工具和代码质量检查器的集合.  非常欢迎拉动请求！
 
@@ -73,7 +74,7 @@
 * [Codepeer](http://www.adacore.com/codepeer) - 检测运行时和逻辑错误
 * [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright： - 提供代码验证，证明没有溢出，被零除，越界数组访问以及源代码中的某些其他运行时错误.
 * [SPARK](http://www.spark-2014.org/about) ：copyright： -  Ada的静态分析和形式验证工具集
-* [Understand](https://scitools.com/ada-programming-essential/) :copyright: - IDE that provides code analysis, standards testing, metrics, graphing, dependency analysis and more for Ada and VHDL.
+* [Understand](https://scitools.com/ada-programming-essential/) ：copyright： - 为Ada和VHDL提供代码分析，标准测试，度量，图形，依赖性分析等的IDE.
 
 ## Awk
 
@@ -232,7 +233,7 @@
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - 检查已知的，公开披露的漏洞的依赖关系.
 * [qulice](https://www.qulice.com/) - 结合了一些（预先配置的）静态分析工具（checkstyle，PMD，Findbugs，......）.
 * [Soot](https://sable.github.io/soot/) - 用于分析和转换Java和Android应用程序的框架.
-* [Spoon](https://github.com/INRIA/spoon) - Library to write your own static analyses and architectural rule checkers for Java. Can be integrated in Maven and Gradle.
+* [Spoon](https://github.com/INRIA/spoon)   - 库为Java编写自己的静态分析和架构规则检查器.  可以集成在Maven和Gradle中.
 * [SpotBugs](https://spotbugs.github.io/)   -  SpotBugs是FindBugs的继任者.  用于静态分析的工具，用于查找Java代码中的错误.
 
 ## JavaScript
@@ -257,7 +258,7 @@
 * [standard](http://standardjs.com/) - 用于检查Javascript Styleguide问题的npm模块
 * [tern](https://github.com/ternjs/tern) - 用于深度跨编辑语言支持的JavaScript代码分析器
 * [xo](https://github.com/xojs/xo)   - 包含许多好东西的Opinionated但可配置的ESLint包装器.  强制执行严格且可读的代码.
-* [yardstick](https://github.com/calmh/yardstick) -  Javascript代码指标
+* [yardstick](https://github.com/calmh/yardstick) - Javascript code metrics
 
 ## Kotlin
 
@@ -336,7 +337,7 @@
 * [mypy](https://github.com/python/mypy) - 一种静态类型检查器，旨在结合鸭子类型和静态类型的好处，经常使用 [MonkeyType](https://github.com/Instagram/MonkeyType)
 * [py-find-injection](https://github.com/uber/py-find-injection) - 在Python代码中查找SQL注入漏洞
 * [pycodestyle](https://github.com/PyCQA/pycodestyle) - （以前称为“pep8”）根据PEP 8中的一些样式约定检查Python代码
-* [pydocstyle](https://github.com/PyCQA/pydocstyle) - check compliance with Python docstring conventions
+* [pydocstyle](https://github.com/PyCQA/pydocstyle) - 检查是否符合Python文档字符串约定
 * [pyflakes](https://github.com/pyflakes/pyflakes/) - 检查Python源文件是否有错误
 * [pylint](https://github.com/PyCQA/pylint)   - 查找编程错误，帮助强制执行编码标准并嗅探某些代码异味.  它还包括`pyreverse`（一个UML图生成器）和`symilar`（一个相似性检查器）.
 * [pyre-check](https://github.com/facebook/pyre-check) - 适用于大型Python代码库的快速，可扩展的类型检查器
@@ -404,11 +405,11 @@
 * [linter](https://github.com/HairyFotr/linter) --Linter是一个Scala静态分析编译器插件，它为各种可能的错误，低效率和样式问题添加了编译时检查.
 * [Scalastyle](http://www.scalastyle.org) -  Scalastyle检查您的Scala代码并指出它的潜在问题.
 * [scapegoat](https://github.com/sksamuel/scapegoat) - 用于静态代码分析的Scala编译器插件
-* [WartRemover](https://github.com/puffnfresh/wartremover) - a flexible Scala code linting tool.
+* [WartRemover](https://github.com/puffnfresh/wartremover) - 灵活的Scala代码linting工具.
 
 ## Shell
 
-* [i-Code CNES for Shell](https://github.com/lequal/i-CodeCNES) - An open source static code analysis tool for Shell and Fortran (77 and 90).
+* [i-Code CNES for Shell](https://github.com/lequal/i-CodeCNES) -  Shell和Fortran（77和90）的开源静态代码分析工具.
 * [shellcheck](https://github.com/koalaman/shellcheck) -  ShellCheck，一个静态分析工具，为bash / sh shell脚本提供警告和建议
 
 ## Solidity
@@ -474,7 +475,7 @@
 * [Kiuwan](https://www.kiuwan.com/code-security-sast/) :copyright: - Identify and remediate cyber threats in a blazingly fast, collaborative environment, with seamless integration in your SDLC. Python, C\C++, Java, C#, PHP and more
 * [oclint](https://github.com/oclint/oclint) - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷
 * [pfff](https://github.com/facebook/pfff) -  Facebook的工具，用于代码分析，可视化或保留多种语言的源代码转换
-* [PMD](https://pmd.github.io/) - 用于Java，Javascript，PLSQL，XML，XSL等的源代码分析器
+* [PMD](https://pmd.github.io/) - A source code analyzer for Java, Javascript, PLSQL, XML, XSL and others
 * [Pronto](https://github.com/prontolabs/pronto)   - 对您的更改进行快速自动代码审查.  支持40多种不同语言的跑步者，包括Clang，Elixir，JavaSCript，PHP，Ruby等
 * [pre-commit](https://github.com/pre-commit/pre-commit) - 用于管理和维护多语言预提交挂钩的框架.
 * [PT.PM](https://github.com/PositiveTechnologies/PT.PM) - An engine for searching patterns in the source code, based on Unified AST or UST. At present time C#, Java, PHP, PL/SQL, T-SQL, and JavaScript are supported. Patterns can be described within the code or using a DSL.
@@ -589,7 +590,7 @@
 
 * [android-lint-summary](https://github.com/passy/android-lint-summary) - 将多个项目的lint错误合并到一个输出中，一次检查多个子项目的lint结果.
 * [FlowDroid](https://github.com/secure-software-engineering/soot-infoflow-android) - 适用于Android应用程序的静态污点分析工具
-* [paprika](https://github.com/GeoffreyHecht/paprika) - 用于检测分析的Android应用程序中的某些代码气味的工具包.
+* [paprika](https://github.com/GeoffreyHecht/paprika) - A toolkit to detect some code smells in analyzed Android applications.
 * [qark](https://github.com/linkedin/qark) - 查找多个与安全相关的Android应用程序漏洞的工具
 
 ## Packages
@@ -650,9 +651,9 @@
 
 ## More collections
 
-* [go-tools](https://github.com/dominikh/go-tools) - 用于处理Go代码的工具和库的集合，包括链接和静态分析
+* [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
 * [linters](https://github.com/mcandre/linters) - 静态代码分析简介
-* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - 经过审核的有用PHP静态分析工具列表
+* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -  A reviewed list of useful PHP static analysis tools
 * [Tools for Tcl](https://wiki.tcl-lang.org/page/Static+syntax+analysis#95329c336da897c3dea8ab434ca30575f4529bf6f514c1519881bd126e1d1423) - 一个包含多个Tcl检查器和静态语法分析工具的wiki页面.
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) - 静态代码分析工具列表.
 

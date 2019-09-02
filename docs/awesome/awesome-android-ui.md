@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="wasabeef/awesome-android-ui"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Android UI / UX库列表
 ==================
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/wasabeef/awesome-android-ui)
@@ -10,7 +11,7 @@ Android UI / UX库列表
   -  _寻找iOS？  查看_ [cjwirth/awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui)
 
 ## Maintainers
-[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) didabeef]（https://github.com/wasabeef）  
+[![wasabeef](https://avatars0.githubusercontent.com/u/1833474?v=3&s=32) wasabeef]（https://github.com/wasabeef）  
 [![ogaclejapan](https://avatars0.githubusercontent.com/u/1496485?v=3&s=32) ogaclejapan]（https://github.com/ogaclejapan）
 
 ## Index `(light-weight pages)`

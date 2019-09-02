@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sporto/awesome-elm"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/sporto/awesome-elm/master/./assets/elm-logo.svg?sanitize=true" height="180" width="180" />
@@ -81,7 +82,7 @@
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - 了解如何使用Elm构建反应式Web应用程序.
-* [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
+* [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - 了解如何为Elm创建本机JavaScript模块.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - 关于基础知识和高级主题的系列文章.
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - 语言功能的高概述.
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - 用于向您介绍Erik Person的Elm编程语言的简短截屏视频.
@@ -184,7 +185,7 @@
 * [The Web Platform Podcast 76](http://thewebplatformpodcast.com/76-the-elm-programming-language) - 榆树编程语言.
 * [The Web Platform Podcast 108](http://thewebplatformpodcast.com/108-elm-revisited) - 榆树再访.
 * [Full Stack Radio 44](http://www.fullstackradio.com/44)   - 榆树到底是什么？  在这一集中，乔尔克莱蒙谈到了榆树和函数式编程.
-* [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - 理查德费尔德曼讨论了榆树与React.js的比较
+* [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
 
 ## Libraries
@@ -251,7 +252,7 @@
 ### Atom
 
 * [atom-linter-elm-make](https://atom.io/packages/linter-elm-make) -  Atom编辑器的Elm代码linter.
-* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - Elm snippets for Atom.
+* [atom-elm-snippets](https://github.com/chiefGui/atom-elm-snippets) - 榆树为Atom提供的片段.
 * [atom-language-elm](https://atom.io/packages/language-elm) -  Atom编辑器的语法高亮和自动完成.
 * [elmjutsu](https://atom.io/packages/elmjutsu) -  Atom编辑器的自动完成，定义，查找用法，重命名符号等.
 * [atom-elm-navigator](https://atom.io/packages/elm-navigator) - 侧面板，可帮助导航到项目中的任何功能，类型定义或端口.

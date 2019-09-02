@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="onurakpolat/awesome-analytics"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的分析平台，资源和其他令人敬畏的精选列表.  灵感来自 [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata). 
@@ -11,7 +12,7 @@
 
 * [Hotjar](https://www.hotjar.com/) - 真正了解您的网站和移动网站访问者的新方法.
 * [Matomo](https://matomo.org/) - 实时开源应用分析工具.
-* [Heap](https://heapanalytics.com/) - 跟踪您的应用用户，点击次数，表单提交以及其他任何内容.
+* [Heap](https://heapanalytics.com/) - tracks your app users, clicks, form submissions, and anything else.
 * [Opentracker](http://www.opentracker.net/) - 实时报告，地理位置用户跟踪.
 * [FoxMetrics](http://foxmetrics.com/) - 用于跟踪用户的操作和活动的分析.
 * [Adobe Analytics](https://www.adobe.com/analytics/web-analytics.html) - 将网络数据转化为每个人都可以采取行动的见解.
@@ -106,12 +107,12 @@
 
 * [Brandwatch](http://www.brandwatch.com/) - 社交媒体监控和分析.
 * [Falconsocial](http://www.falconsocial.com/) - 基于社交媒体和分析的通信平台.
-* [Quintly](https://www.quintly.com/) - web-based tool to help you track, benchmark and optimize your social media performance.
+* [Quintly](https://www.quintly.com/) - 基于网络的工具，可帮助您跟踪，衡量和优化您的社交媒体表现.
 * [Kred](http://kred.com/) - 类似Klout的社交媒体分析平台.
 * [Buffer](https://bufferapp.com/) - 社交媒体发布和分析平台.
 * [Topsy](http://topsy.com/) - 具有搜索功能的社交分析工具.
 * [SocialBlade](http://socialblade.com/) - 首映YouTube统计信息跟踪.
-* [Hootsuite](https://hootsuite.com/) - 社交媒体管理dashbaord
+* [Hootsuite](https://hootsuite.com/) - 社交媒体管理dashbaord.
 * [Sproutsocial](http://sproutsocial.com/) - 社交媒体管理和分析平台.
 
 ## Developer analytics

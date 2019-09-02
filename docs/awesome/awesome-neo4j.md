@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="neueda/awesome-neo4j"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 真棒Neo4j
 ==============
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -97,7 +98,7 @@ Neo4j图数据库.
 ## Docker
 
 - [docker-neo4j](https://github.com/neo4j/docker-neo4j) -  Neo4j图数据库的Docker镜像.
-- [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) - 立即启动和运行Neo4j集群.
+- [docker-neo4j-cluster](https://github.com/ekino/docker-neo4j-cluster) - Up & Running Neo4j cluster in no time.
 
 ## Full-text search
 
@@ -107,7 +108,7 @@ Neo4j图数据库.
 
 ## Import
 
-- [GraphAware Neo4j Importer](https://github.com/graphaware/neo4j-importer) - 用于复杂，业务逻辑繁重的高性能Neo4j的Java导入程序框架直接从SQL数据库，CSV文件等导入.
+- [GraphAware Neo4j Importer](https://github.com/graphaware/neo4j-importer) - 用于复杂，业务逻辑繁重的高性能Neo4j的Java导入器框架直接从SQL数据库，CSV文件等导入.
 - [neo4j-csv-firehose](https://github.com/sarmbruster/neo4j-csv-firehose) - 启用Neo4j的`LOAD CSV` Cypher命令以从其他数据源加载.
 - [neo4j-rdbms-import](https://github.com/jexp/neo4j-rdbms-import) -  Neo4j关系数据库的自动导入程序.
 - [Doc manager for Neo4j](https://github.com/neo4j-contrib/neo4j_doc_manager) -  Neo4j Doc Manager采用MongoDB文档，通过使用Mongo Connector指定的格式在Neo4j图形结构中提供它们，可以轻松查询它们之间的关系.
@@ -129,7 +130,7 @@ Neo4j图数据库.
 - [GraphAware Neo4j Expire](https://github.com/graphaware/neo4j-expire) -  GraphAware Expire是一个简单的库，可以在数据库到期或生存时间（TTL）时自动删除数据库中的节点和关系.
 - [Spatial](https://github.com/neo4j-contrib/spatial) -  Neo4j Spatial是Neo4j的实用程序库，可以促进数据的空间操作.
 - [Graphify](https://github.com/Graphify/graphify) -  Graphify是一个Neo4j非托管扩展，用于使用基于图形的分层模式识别进行文档和文本分类.
-- [neo4j-tx-participation](https://github.com/jexp/neo4j-tx-participation) - 这是一个Neo4j服务器扩展，使Neo4j REST-API参与由事务性Cypher端点启动的事务.
+- [neo4j-tx-participation](https://github.com/jexp/neo4j-tx-participation) - 这是一个Neo4j服务器扩展，使Neo4j REST-API参与事务性Cypher端点启动的事务.
 
 ## Stored Procedures
 
@@ -139,7 +140,7 @@ Neo4j图数据库.
 ## Development
 
 - [Maven repositories](https://m2.neo4j.org/index.html) -  Neo4j Maven存储库（发布，快照）.
-- [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)-  GraphAware Framework通过提供一个平台来加速Neo4j的开发，该平台用于构建有用的通用功能，特定于域的功能，分析功能，（迭代）图算法等.
+- [GraphAware Neo4j Framework](https://github.com/graphaware/neo4j-framework)-  GraphAware Framework通过提供一个平台来加速Neo4j的开发，该平台用于构建有用的通用功能和特定于域的功能，分析功能，（迭代）图算法等.
 - [cypher-dsl](https://github.com/neo4j-contrib/cypher-dsl) - 用于Cypher查询语言的Java DSL和可选的Query DSL模式.
 - [Liquigraph](https://github.com/liquigraph/liquigraph) - 数据库迁移管理工具，基于Liquibase的工作原理.
 - [blueprints](https://github.com/tinkerpop/blueprints)   -  Blueprints是属性图数据模型的接口，实现，ouplementations和测试套件的集合.  蓝图类似于JDBC，但对于图形数据库.
@@ -154,7 +155,7 @@ Neo4j图数据库.
 ## Shell
 
 - [cycli](https://github.com/nicolewhite/cycli) -  Cypher的命令行接口.
-- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) - A bunch of import/export tools for the neo4j-shell.
+- [neo4j-shell-tools](https://github.com/jexp/neo4j-shell-tools) -  neo4j-shell的一堆导入/导出工具.
 
 ## Visualization
 
@@ -168,7 +169,7 @@ Neo4j图数据库.
 - [Graphgen](http://graphgen.graphaware.com) - 基于Cypher DSL的图形生成引擎.
 - [store-utils](https://github.com/jexp/store-utils) - 用于压缩，复制，修复，分析Neo4j商店的实用程序.
 - [ineo](https://github.com/cohesivestack/ineo)- 一个简单但有用的Neo4j实例管理器.
-- [yFiles neo4j Graph Explorer](https://www.yworks.com/blog/neo4j-node-design) - 一个简单的免费在线工具，可视化您的图形数据和数据库模式.
+- [yFiles neo4j Graph Explorer](https://www.yworks.com/blog/neo4j-node-design) - 一个简单的免费在线工具，可视化您的图形数据和数据库架构.
 
 ## Learn
 

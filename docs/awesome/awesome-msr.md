@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dspinellis/awesome-msr"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Empirical Software Engineering [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 精心设计的数据集和工具存储库，可用于对软件系统进行基于证据的数据驱动研究.
 这种研究方法通常被称为 [experimental, or empirical software engineering](https://en.wikipedia.org/wiki/Experimental_software_engineering).
@@ -19,7 +20,7 @@
 
 - [SIR](http://sir.unl.edu/portal/index.php) - Software-artifact infrastructure repository; Java, C, C++, and C# software together with test suites and fault data.
 - [PROMISE](http://promise.site.uottawa.ca/SERepository/datasets-page.html) - 大约20个与软件工程研究相关的数据集.
-- [FLOSSmole](https://flossmole.org/collection_details) - Collaborative collection and analysis of free/libre/open source project data.
+- [FLOSSmole](https://flossmole.org/collection_details) - 免费/自由/开源项目数据的协作收集和分析.
 - [Zenodo](http://zenodo.org/) -  CERN开放存取库中的软件数据收集.
   - [Software Engineering Artifacts Can Really Assist Future Tasks](http://zenodo.org/communities/seacraft)
   - [Empirical Software Engineering](https://zenodo.org/communities/empirical-software-engineering/)
@@ -60,13 +61,13 @@
 ## Tools
 
 - [Boa](http://boa.cs.iastate.edu/) - 特定于域的语言和基础架构，可以简化挖掘软件存储库.
-- [ckjm](http://www.spinellis.gr/sw/ckjm/) -  Chidamber和Kemerer Java Metrics
+- [ckjm](http://www.spinellis.gr/sw/ckjm/) -  Chidamber和Kemerer Java Metrics.
 - [Coming](https://github.com/SpoonLabs/coming/) - 用于分析代码更改和从Git存储库挖掘更改模式实例的Java框架.
 - [CryptOSS](https://github.com/rvantonder/CryptOSS) - 为加密货币项目挖掘GitHub活动和市值数据.
 - [DbDeo](https://github.com/tushartushar/DbDeo) - 提取嵌入式SQL语句并检测数据库模式气味.
 - [Designite](http://www.designite-tools.com) - Compute source code metrics and detect a variety of implementation, design, and architecture smells for C#.
 - [DesigniteJava](https://github.com/tushartushar/DesigniteJava) - 计算源代码度量并检测Java的各种实现和设计气味.
-- [Diggit](https://github.com/jrfaller/diggit) - 用于分析Git存储库的Agile Ruby工具.
+- [Diggit](https://github.com/jrfaller/diggit) - Agile Ruby Tool to analyze Git repositories.
 - [GrimoireLab](http://grimoirelab.github.io/) - 用于软件开发分析的免费/自由/开源工具.
 - [MetricMiner](http://www.github.com/mauricioaniche/metricminer2) - 精益Java DSL从Git和SVN存储库中挖掘和提取数据（例如提交，开发，修改，差异）.
 - [Maven-miner](https://github.com/diverse-project/maven-miner) - 用于解析Maven Central中托管的整个Maven依赖图的Java工具和基础结构 [Neo4j](https://neo4j.com/) 图形.

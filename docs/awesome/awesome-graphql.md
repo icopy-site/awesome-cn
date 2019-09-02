@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="chentsulin/awesome-graphql"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;极好的GraphQL和中继列表
@@ -123,7 +124,7 @@
 * [graphql-factory](https://github.com/graphql-factory) - 从JSON定义创建GraphQL类型
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [GraphiteJS](https://github.com/graphitejs/server) -  GraphQl的框架NodeJS.
-* [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - The ultimate GraphQL scaffolding tool.
+* [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - 最终的GraphQL脚手架工具.
 * [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - 基于RxJS实现GraphQL并支持实时查询.
 
 #### Relay Related
@@ -147,7 +148,7 @@
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -  Ruby的GraphQL实现.
 * [graphql-client](https://github.com/github/graphql-client) - 用于声明，编写和执行GraphQL查询的Ruby库.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) -  graphql gem的查询批处理执行程序.
-* [agoo](https://github.com/ohler55/agoo) - 实现Facebook的GraphQL的Ruby Web服务器.
+* [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
 
 <a name="lib-php" />
 
@@ -202,7 +203,7 @@
 * [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)   -  Schema-first graphql-java便利库，可以轻松将您自己的实现作为数据解析器.  灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于JS.
 * [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 与框架无关的java servlet，用于通过GET，POST和分段上传公开graphql-java查询端点.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) -  Spring Framework GraphQL库.
-* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) -  GraphQL和GraphiQL Spring Framework启动程序.
 * [vertx-graphql-service-discovery](https://github.com/engagingspaces/vertx-graphql-service-discovery) - 异步GraphQL服务发现和查询您的微服务.
 * [vertx-dataloader](https://github.com/engagingspaces/vertx-dataloader) -  Facebook DataLoader端口，用于在集群GraphQL环境中进行高效的异步批处理和缓存
 * [graphql-spqr](https://github.com/leangen/GraphQL-SPQR) - 用于快速开发GraphQL服务的Java 8+ API.
@@ -213,7 +214,7 @@
 ### C/C++ Libraries
 
 * [libgraphqlparser](https://github.com/graphql/libgraphqlparser) - 使用C和C ++ API的C ++中的GraphQL查询解析器.
-* [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) - C++ GraphQL schema service generator.
+* [cppgraphqlgen](https://github.com/Microsoft/cppgraphqlgen) -  C ++ GraphQL架构服务生成器.
 * [CaffQL](https://github.com/caffeinetv/CaffQL) - 从GraphQL内省查询生成C ​​++客户端类型和请求/响应序列化.
 
 <a name="lib-go" />
@@ -244,7 +245,7 @@
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -  GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) -  GraphQL到IQueryable for .NET.
-* [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) -  .Net Core和.NET Framework的GraphQL服务器.
+* [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
 
 <a name="lib-elixir" />
 
@@ -476,7 +477,7 @@ Boactplate + React Native（iOS，Android），React（isomorphic，Material-UI�
 ### Ruby Examples
 
 * [graphql-ruby-demo](https://github.com/rmosolgo/graphql-ruby-demo) - 使用graphql-ruby公开Rails应用程序.
-* [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - 使用GitHub的GraphQL API的示例Rails应用程序.
+* [github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) - Example Rails app using GitHub's GraphQL API.
 * [relay-on-rails](https://github.com/nethsix/relay-on-rails) - 使用Rails GraphQL服务器进行中继应用的Barebones入门套件.
 * [relay-rails-blog](https://github.com/gauravtiwari/relay-rails-blog) -  graphql，relay和标准rails应用程序驱动的演示weblog.
 * [to_eat_app]（https://github.com/jcdavison/to_eat_app） - 一个示例graphql / rails / relay应用程序，包含相关的由3部分组成的系列文章.

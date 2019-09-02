@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ossu/computer-science"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Open Source Society University (OSSU)](http://i.imgur.com/kYYCXtC.png)
 
 <h3 align="center">开源社会大学</h3>
@@ -150,7 +151,7 @@ OSSU课程是一门完整的计算机科学教育**，使用在线资料.
 `微积分`
 `积分&#39;
 `序列和系列`
-`discrete mathematics`
+`离散数学`
 `基本统计&#39;
 `O-notation`
 `图论
@@ -246,14 +247,14 @@ and
 [Machine Learning](https://www.coursera.org/learn/machine-learning) |  11周|  4-6小时/周|  线性代数
 [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x) |  6周|  每周12小时|  C ++或Java，线性代数
 [Cryptography I](https://www.coursera.org/course/crypto) |  6周|  5-7小时/周|  线性代数，概率
-[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
+[Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)  |  6周|  每周8-10小时|  软件构建 - 面向对象设计
 [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx)  |  6-7周|  每周8-10小时|  软件工程：简介
 
 ## Advanced CS
 
 完成** Core CS中的每个必修课程**后，学生应根据兴趣选择Advanced CS的一系列课程.
 不是每个子类别的课程都需要采取.
-但是学生应该选择与他们打算进入的领域相关的每个*课程.
+但是学生应该选择与他们打算进入的领域相关的*每个*课程.
 
 然后，高级CS研究应以其中一个专业化结束 [Advanced applications](#advanced-applications).
 专业化的顶点如果被采用，可以作为 [Final project](#final-project)，如果课程的荣誉准则允许的话.
@@ -279,7 +280,7 @@ and
 [Software Testing](https://www.udacity.com/course/software-testing--cs258)  |  4周|  每周6小时|  编程经验
 [LAFF: Programming for Correctness](https://www.edx.org/course/laff-programming-correctness-utaustinx-ut-p4c-14-01x)  |  7周|  每周6小时|  线性代数
 [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344)  |  12周|   -  |  C，算法
-[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
+[Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) |  8周|  每周6小时|  Java中的软件工程
 
 ### Advanced math
 
@@ -337,7 +338,7 @@ and
 `computability`
 `事件驱动的并发`
 `automata`
-`分布式共享内存`
+`distributed shared memory`
 `共识算法&#39;
 `状态机复制`
 `计算几何理论`
@@ -381,7 +382,7 @@ and
 OSS大学**以项目为中心**.
 我们鼓励你为每门课程完成作业和考试，但真正重要的是你是否可以*用你的知识来解决现实问题.
 
-在您了解了所有Core CS以及与您相关的Advanced CS部分之后，您应该考虑使用您获得的知识可以解决的问题.
+在您了解了所有Core CS以及与您相关的高级CS部分之后，您应该考虑使用您获得的知识可以解决的问题.
 真正的项目工作不仅在简历上看起来很棒，项目将*验证*和*巩固*您的知识.
 你可以创建一些全新的东西，或者你可以通过网站找到需要帮助的现有项目
 [CodeTriage](https://www.codetriage.com/)
@@ -390,13 +391,13 @@ or
 
 另一个选择是使用Capstone项目从中获得一个专业化 [Advanced applications](#advanced-applications);
 这是否有意义取决于课程，项目，以及课程的荣誉准则是否允许您公开展示您的作品.
-在某些情况下，可能不允许;
+In some cases, it may not be permitted;
 不要**违反你的课程荣誉准则！
 
 将OSSU-CS徽章放入存储库的README中！
 [![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)
 
--  Markdown：`[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg)](https://github.com/ossu/computer-science)`
 -  HTML：`<img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation

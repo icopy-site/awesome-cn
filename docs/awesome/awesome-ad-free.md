@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="johnjago/awesome-ad-free"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 网络上流行服务的无广告替代品的精选列表.
 
-> Am I saying you should refrain from using an ad blocker? No. But consider offsetting your act of disobedience with an act of affirmative support. Vote with your wallet. Put some money behind the writing you like—whether it’s a website or a magazine or a newspaper. “But such-and-such website won’t let me pay for it.” Then discover something new.
+ &gt;我是说你应该避免使用广告拦截器吗？  不.但是考虑用肯定支持的行为抵消你的不服从行为.  用你的钱包投票.  在你喜欢的文字背后投入一些钱 - 无论是网站，杂志还是报纸.  “但是这样的网站不会让我付钱.”然后发现新的东西.
 
 -Matthew Butterick
 
@@ -23,7 +24,7 @@
 
 ### Communication
 
-- [FastMail](https://www.fastmail.com/) - 可靠的企业电子邮件，没有数据锁定.
+- [FastMail](https://www.fastmail.com/) - 可靠的企业电子邮件，无数据锁定.
 - [Jami](https://jami.net/) - 通过分布式服务进行电话，电话会议和媒体共享.
 - [Jitsi Meet](https://jitsi.org/jitsi-meet/) - 使用WebRTC保护视频会议和桌面共享.
 - [ProtonMail](https://protonmail.com/) - 免费加密电子邮件.
@@ -62,7 +63,7 @@
 - [Armstrong Economics](https://www.armstrongeconomics.com/uncategorized/no-advertising/) - 关于市场和全球经济的教育博客.
 - [Common Dreams](https://www.commondreams.org/) - 进步新闻网站.
 - [Consumerist](https://consumerist.com/) - 独立的消费者新闻和信息来源.
-- [Ello](https://ello.co/) - 不销售用户数据的创作者和艺术家的媒体平台.
+- [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
 - [Popular Resistance](https://popularresistance.org/) - 独立，非暴力和多元化的运动，以结束集中财富的力量，并将人类需求置于企业贪婪之前.
 - [RealSport](https://realsport101.com/)   - 球迷们在足球，篮球，板球，电子竞技，赛车运动以及大多数其他体育项目上撰写文章.  该网站致力于保持免受弹出窗口，虚假新闻，点击诱饵和广告的体验.
 - [The Conversation](https://theconversation.com/) - 由大学资助的高质量，经过认证的解释性新闻.
@@ -128,7 +129,7 @@
 ### Groups
 
 - [Anti-Advertising Agency](https://antiadvertisingagency.com/our-mission/) - 质疑广告在公共场所的目的和效果.
-- [Art Not Ads](http://artnotads.org) - 艺术家在城市景观中创造变化，但不是通过自己追逐广告.
+- [Art Not Ads](http://artnotads.org) - 艺术家在城市景观中创造变化，但不是通过追逐广告本身.
 - [Brandalism](http://brandalism.ch) - 颠覆城市空间广告的国际街头艺术集体.
 - [Coalition to Ban Billboard Blight](http://banbillboardblight.org) - 从广告牌的扩散中捍卫洛杉矶的城市景观.
 - [Digital Public Library Project](http://no-ads.ca/) - 推广可以取代广告资助媒体的数字公共图书馆系统.

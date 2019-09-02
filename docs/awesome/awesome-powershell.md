@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="janikvonrotz/awesome-powershell"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
@@ -165,7 +166,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 * [PowerShell Toolmaking (2 of 3) - Don Jones](https://www.youtube.com/watch?v=U849a17G7Ro) - 工具制造（2/3） - 唐·琼斯.
 * [PowerShell Toolmaking (3 of 3) - Don Jones](https://www.youtube.com/watch?v=GXdmjCPYYNM) - 工具制造（3/3） - 唐·琼斯.
 * [Sophisticated Techniques of Plain Text Parsing - Tobias Weltner](https://www.youtube.com/watch?v=Hkzd8spCfCU) - 文本解析的绝佳参考.
-* [Monad Manifesto Revisited - Jeffrey Snover](https://www.youtube.com/watch?v=j0EX5R2nnRI) - 杰弗里·斯诺弗（Jeffrey Snover）反思语言的起源及其发展方向.
+* [Monad Manifesto Revisited - Jeffrey Snover](https://www.youtube.com/watch?v=j0EX5R2nnRI) - Jeffrey Snover reflects on the beginnings of the language and where it's going.
 * [AD Forensics with PowerShell - Ashley McGlone](https://www.youtube.com/watch?v=VrDjiVbZZE8) - 许多与AD相关的脚本和分析技术.
 * [Windows PowerShell What's New in V2 - SAPIEN](https://www.youtube.com/watch?v=85Yrs5ezxHE&list=PL6ue9e1DXqDv74YTX91gYonfFsweNmrDK)   - 旧但金.  其中大部分仍然非常重要.
 * [All Things Microsoft PowerShell](https://www.youtube.com/watch?v=IHrGresKu2w&list=PLCGGtLsUjhm2k22nFHHdupAK0hSNZVfXi) - 另一种通用语言参考.
@@ -181,7 +182,7 @@ PowerShell是一种跨平台（Windows，Linux和macOS）自动化和配置工�
 
 * [AutoSPInstaller](https://autospinstaller.com/) - 自动SharePoint 2010-2019安装脚本.
 * [Client-side SharePoint](https://sharepointpowershell.codeplex.com/) -  SharePoint 2010,2013和Online的API.
-* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) - SPReplicator helps replicate SharePoint list data to/from CSV, SQL Server, SharePoint itself and more.
+* [SPReplicator](https://github.com/potatoqualitee/SPReplicator) -  SPReplicator有助于将CSV列表数据复制到CSV，SQL Server，SharePoint本身等等.
 
 ## SQL Server
 

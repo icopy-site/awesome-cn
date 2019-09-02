@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="git-tips/tips"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## git-tips
  &gt;收集`git-tips`，想添加你的提示？  查看 [contributing.md](https://github.com/git-tips/tips/blob/master/./contributing.md)
 
@@ -113,7 +114,7 @@ git checkout @ { -  1}
 
 ## Remove branches that have already been merged with master
 ```sh
- git branch --merged master |  grep -v&#39;^ \ *&#39;|  xargs -n 1 git branch -d
+git branch --merged master | grep -v '^\*' | xargs -n 1 git branch -d
 ```
 
 
@@ -522,7 +523,7 @@ git log --pretty = oneline --graph --decorate --all
 
 __Alternatives:__
 ```sh
-gitk  -  all
+gitk  - 所有
 ```
 
 
@@ -932,7 +933,7 @@ git log --show-notes =&#39;*&#39;
 
 ## Apply commit from another repository
 ```sh
- 去--git-dir = <source-dir>  /.git format-patch -k -1 --stout <SHA1>  |  去-3 -k
+ git --git-dir = <source-dir>  /.git format-patch -k -1 --stout <SHA1>  |  去-3 -k
 ```
 
 ## Specific fetch reference

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dylanrees/citizen-science"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Digital Tools for Citizen Science
 
  以下是精选软件和其他资源的精选列表，以帮助那些想要使用科学工具来赋予社区权力和/或实践各种形式的非机构科学的人.  它很大程度上受到了启发 [this repository](https://github.com/drewrwilson/toolsforactivism)  为活动家列出数字工具.  随意分享建议.  如果您将软件添加到列表中，则强烈建议使用免费和开源软件而不是专有软件.
@@ -20,7 +21,7 @@
  * [OpenSCAD](http://www.openscad.org/) -  3D建模软件.
  * [SageMath](https://cloud.sagemath.com/) - 开源的基于云的计算（类似于MATLAB和Mathematica）.
  * [GNU Octave](https://www.gnu.org/software/octave/) - 自由软件数值计算程序，类似于MATLAB.
- * [Dia](http://dia-installer.de/) - 用于制作图表的开源软件.
+ * [Dia](http://dia-installer.de/) - Open-source software for making diagrams.
  * [Gephi](https://gephi.org/) - 开放图形可视化平台.
  * [QGIS](http://www.qgis.org/en/site/) - 开放GIS软件.
  * [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/) - 用于将Minecraft模型文件转换为3D可打印.stl文件的工具
@@ -60,9 +61,9 @@
  * [OpenTrons](http://opentrons.com/) - 开源液体处理机器人.
  * [OpenPCR](http://openpcr.org/) - 开源PCR热循环仪.
  * [SGD](http://www.yeastgenome.org) - 斯坦福大学的Saccharomyces基因组数据库.
- * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
+ * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - 用于本地对齐的搜索工具.
  * [IORodeo](http://iorodeo.com/) - 出售廉价的开源恒电位仪，色度计和其他一些设备.
- * [BioSurplus](http://www.biosurplus.com/) - 二手生物实验室设备供应商.
+ * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
  * [DremelFuge](http://www.thingiverse.com/thing:1483) - 生物离心机，采用dremel附件的形式.
  * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - 一种超低成本的手动离心机，灵感来自旋转玩具的机械结构.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) -  DIY恒化器.
@@ -119,7 +120,7 @@
  * [Institutions for Civic Technoscience: How Critical Making is Transforming Environmental Research](https://www.researchgate.net/publication/263120833_Institutions_for_Civic_Technoscience_How_Critical_Making_is_Transforming_Environmental_Research)
  * [Citizen Science as an Ecological Research Tool: Challenges and Benefits](http://www.jstor.org/stable/pdf/27896218.pdf)
  * [Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition ](http://online.liebertpub.com/doi/10.1089/ees.2016.0223)
- * [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - 加州理工学院化学教授Jay A. Labinger关于科学家需要与重要科学研究学者合作的论文.
+ * [The Science Wars and the Future of the American Academic Profession](http://www.its.caltech.edu/~bi/labinger/nontechpdfs/7sciencewars.pdf) - 加州理工学院化学教授Jay A. Labinger的论文，关于科学家与重要科学研究学者交流的必要性.
  * [Science for the People](http://science-for-the-people.org/) -  20世纪60年代末/ 70年代初的激进科学运动，其文学作品由麻省大学阿默斯特分校的网站组织.
  * [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - 一篇文章，提供了一些历史和当前的科学批评，提出了科学工作的替代方法.
  * [Whole Earth Catalog](http://www.wholeearth.com/index.php) - 一个包含着名的20世纪60年代末和70年代早期制造商/生态杂志遗留物的网站.
@@ -161,16 +162,16 @@
  *社区驱动的科学实验室往往与传统实验室的运作方式不同.  他们以成员为主导和好奇心驱动的方法经常产生破坏传统学科的工作，例如生物艺术.  本节用于列出可能是也可能不是传统创客空间但是具有跨学科性*的空间.
  * [Coalesce: Center for Biological Arts](https://www.buffalo.edu/genomeenvironmentmicrobiome/coalesce.html) - 纽约州立大学布法罗分校的bioart工作室实验室.
  * [MIT Media Lab](http://www.media.mit.edu/) - 作为麻省理工学院一部分的跨学科艺术，科学和技术研究中心.
- * [Interspecifics](http://www.interspecifics.cc/) - 墨西哥城的一个集体，致力于艺术与科学交叉的项目，特别是与生物产生的声音相关的项目.
+ * [Interspecifics](http://www.interspecifics.cc/) - 墨西哥城的一个集体，致力于艺术与科学交叉的项目，特别是与生物学产生的声音相关的项目.
  * [Center for Science and the Imagination](http://csi.asu.edu/) - 亚利桑那州立大学艺术家和科学家之间的合作.
- * [STEM to STEAM](http://stemtosteam.org/) - 罗德岛设计学院的一项倡议，旨在为STEM教育带来更多艺术和设计.
+ * [STEM to STEAM](http://stemtosteam.org/) - 罗德岛设计学院的一项计划，旨在为STEM教育带来更多艺术和设计.
  * [The Waag Society](https://waag.org/en/) - 荷兰的一个协作艺术，科学和技术研究所.
 
 ## Funding and Support
 
 ### Financial Resources
  * [Experiment.com](https://experiment.com/) - 科学众筹平台.
- * [The Awesome Foundation](http://www.awesomefoundation.org/) - A nonprofit that funds awesome projects with microgrants $1000 at a time.
+ * [The Awesome Foundation](http://www.awesomefoundation.org/) - 一个非盈利组织，每次为微型项目提供1000美元的资金.
  * [Endeavorist](https://www.endeavorist.org/#!/) - 科学和技术的“好奇心网络”，将社交网络与众筹结合起来.
  * [Herb Society of America](http://www.herbsociety.org/support/grants-scholarships/grant-details.html) - 提供一些与小型非机构研究项目兼容的补助金.
  * [Seeding Labs](https://seedinglabs.org/) - 发展中国家实验室的设备和资金.
@@ -197,7 +198,7 @@
  * [Open source engineering software](http://www.appropedia.org/Open_source_engineering_software#Software_Listing) -  Appropedia上维护的大型列表.
  * [The Open Source Hardware Association](http://www.oshwa.org/) - 所有开放硬件的资源，包括设计和法律考虑因素.
  * [Biocanvas](http://biocanvas.net/) - 作为艺术的生物图像的集合.
- * [The Powercube](https://www.powercube.net/) - 社区组织者的一些文学和研讨会，用于理解权力和动员.
+ * [The Powercube](https://www.powercube.net/) - 社区组织者的一些文献和研讨会，用于理解权力和动员.
  * [Detroit Future City: A Field Guide to Working with Lots](https://dfc-lots.com/resources/) - 来自底特律的都市农业指南.
  
 ## Questions and Knowledge Gaps

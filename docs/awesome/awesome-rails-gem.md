@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hothero/awesome-rails-gem"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Rails Gem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一系列令人敬畏的Ruby Gems for Rails开发.
 
@@ -116,7 +117,7 @@
 * [Sucker Punch](https://github.com/brandonhilkert/sucker_punch) -  Sucker punch是一个单进程Ruby异步处理库.
 
 ## View Helper
-* [formtastic](https://github.com/justinfrench/formtastic) -  Formtastic是一个Rails FormBuilder DSL（带有一些其他好东西），可以更轻松地在Rails应用程序中创建美观，语义丰富，语法上很棒，易于管理且可以访问的HTML表单
+* [formtastic](https://github.com/justinfrench/formtastic) - Formtastic is a Rails FormBuilder DSL (with some other goodies) to make it far easier to create beautiful, semantically rich, syntactically awesome, readily stylable and wonderfully accessible HTML forms in your Rails applications
 * [Simple Form](https://github.com/plataformatec/simple_form)   - 简单的表单旨在尽可能灵活，同时帮助您使用强大的组件来创建表单.  Simple Form的基本目标是不触及定义布局的方式，让您找到更好的设计.
 * [Nested Form](https://github.com/ryanb/nested_form)   - 这是一个Rails gem，可以方便地在一个表单中管理多个嵌套模型.  它通过jQuery或Prototype以不引人注目的方式实现.  它也可以与Simple Form集成.
 * [meta-tags](https://github.com/kpumuk/meta-tags) -  Ruby on Rails应用程序的搜索引擎优化（SEO）插件.
@@ -150,7 +151,7 @@
 * [pry-rails](https://github.com/rweng/pry-rails)   - 避免重复自己，使用pry-rails而不是将初始化程序复制到每个rails项目.  这是一个小宝石，导致rails控制台打开撬.  因此，它取决于撬.
 * [awesome_print](https://github.com/awesome-print/awesome_print) -  Awesome Print是一个Ruby库，它可以完美地打印出全彩色的Ruby对象，并通过适当的缩进来暴露其内部结构.
 * [web-console](https://github.com/rails/web-console) -  Web Console是Ruby on Rails应用程序的调试工具.
-* [spring](https://github.com/rails/spring)   -  Spring是一个Rails应用程序预加载器.  它通过让您的应用程序在后台运行来加速开发，因此您无需在每次运行测试，rake任务或迁移时都启动它.
+* [spring](https://github.com/rails/spring)   -  Spring是一个Rails应用程序预加载器.  它通过让您的应用程序在后台运行来加速开发，因此您不必在每次运行测试，rake任务或迁移时都启动它.
 * [rails-footnotes](https://github.com/josevalim/rails-footnotes) -  Rails脚注在您的应用程序中显示脚注，以便于调试，例如会话，请求参数，cookie，过滤器链，路由，查询等.
 * [g](https://github.com/jugyo/g) - 使用terminal-notifier或growl，与Kernel.p类似的Kernel.g.
 * [terminal-notifier](https://github.com/julienXX/terminal-notifier) -  terminal-notifier是一个发送Mac OS X用户通知的命令行工具，可在Mac OS X 10.8及更高版本中使用.
@@ -178,7 +179,7 @@
 * [Database Cleaner](https://github.com/DatabaseCleaner/database_cleaner) -  Database Cleaner是一套用于在Ruby.Support ActiveRecord，DataMapper，Sequel，MongoMapper，Mongoid，CouchPotato，Ohm和Redis中清理数据库的策略.
 * [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers) -  Shoulda-matchers提供了几个用于测试常见Rails功能的匹配器.
 * [ResponseCodeMatchers](https://github.com/r7kamura/response_code_matchers) -  ResponseCodeMatchers提供rspec匹配器以匹配http响应代码.
-* [SimpleCov](https://github.com/colszowka/simplecov) - SimpleCov is a code coverage analysis tool for Ruby.
+* [SimpleCov](https://github.com/colszowka/simplecov) -  SimpleCov是Ruby的代码覆盖率分析工具.
 * [Timecop](https://github.com/travisjeffery/timecop) - 提供“时间旅行”和“时间冻结”功能的宝石，使得测试与时间相关的代码变得简单.
 * [VCR](https://github.com/vcr/vcr) - 记录测试套件的HTTP交互并在将来的测试运行期间重放它们，以进行快速，确定，准确的测试.
 

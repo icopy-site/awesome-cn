@@ -1,20 +1,21 @@
 <div class="github-widget" data-repo="Tom2718/Awesome-Ethereum"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <div align="center">
   <img width="250px" src="https://raw.githubusercontent.com/Tom2718/Awesome-Ethereum/master/./project_logo.jpg">
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum'>Ethereum</a> platform.
+关于与<a href='https://en.wikipedia.org/wiki/Ethereum'>以太坊</a>平台相关的所有内容的精彩列表.
 <br />
-Ethereum is an open-source, blockchain and smart contract computing platform.
+以太坊是一个开源，区块链和智能合约计算平台.
 <br/>
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 <br/>
 
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
+ 拉请求是受欢迎的！  但是，本着分散申请的精神，请确保您提交的产品不是付费应用产品.
 
 
 
@@ -22,135 +23,135 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 ## Documentation
 
-Official Ethereum Documentation.
+官方以太坊文献.
 
-- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
-- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
-- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- [GitHub Wiki](https://github.com/ethereum/wiki/wiki)   - 以太坊wiki涵盖与以太坊相关的所有事物.  所有事情的首选之地.
+- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - 以太坊的非技术性介绍性描述.
+- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf)   - 以太坊技术说明.  技术上过时，但很有趣.
 
 
 ## Programming
 
-- [OpenZeppelin](https://openzeppelin.org/) - Battle-tested framework of secure, reusable smart contracts.
-- [Truffle Framework](https://www.truffleframework.com/) - Development environment for blockchain applications.
-- [Ganache](https://truffleframework.com/ganache) - Personal Ethereum blockchain to run tests.
-- [Remix Online IDE](https://remix.ethereum.org/) - A useful in-browser IDE that can compile and publish smart contracts to various Ethereum networks. Includes a linter.
+- [OpenZeppelin](https://openzeppelin.org/) - 经过实战检验的安全，可重复使用的智能合约框架.
+- [Truffle Framework](https://www.truffleframework.com/) - 区块链应用程序的开发环境.
+- [Ganache](https://truffleframework.com/ganache) - 用于运行测试的个人以太坊区块链.
+- [Remix Online IDE](https://remix.ethereum.org/)   - 一个有用的浏览器IDE，可以编译和发布智能合约到各种以太网网络.  包括一个短绒.
 - [Embark Framework](https://github.com/embark-framework/embark) - 使用以太坊，IPFS和其他平台的无服务器分散式应用程序框架.
 
 
 ## Tutorials
 
-Step by step guides on using Ethereum.
+使用以太坊的分步指南.
 
-- [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
-- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - Build smart contracts on Ethereum using Truffle, testrpc and Solidity.
-- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - Smart contract tutorial with a focus on building up understanding before code.
-- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 10 part tutorial on how to write DApps.
-- [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - Informal guide to starting developing DApps.
-- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - Full stack DApps using various frameworks.
-- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - Gitbook for building on Ethereum that goes deeper into understanding technical functionality.
+- [CryptoZombies](https://cryptozombies.io/) - 学习通过构建自己的游戏来编码以太坊DApps.
+- [Hitchhikers Guide to Smart Contracts](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05) - 使用Truffle，testrpc和Solidity在以太坊上建立智能合约.
+- [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4) - 智能合约教程，重点是在代码之前建立理解.
+- [Parity DApp Tutorial](https://wiki.parity.io/Dapp-Tutorial) - 关于如何编写DApps的10部分教程.
+- [Start Ethereum DApp Development Career](https://www.reddit.com/r/ethereum/comments/9h0w83/start_ethereum_dapp_development_career_ultimate/) - 开始开发DApps的非正式指南.
+- [Full Stack DApp Tutorial Series](https://beta.kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series) - 使用各种框架的完整堆栈DApps.
+- [Ethereum Builders Guide](https://ethereumbuilders.gitbooks.io/guide/content/en/index.html) - 建立在以太坊上的Gitbook，更深入地了解技术功能.
 - [Learning Solidity Tutorial Series](https://karl.tech/learning-solidity-part-1-deploy-a-contract/) - Building smart contracts with Metamask and Remix IDE.
-- [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - Create a gambling DApp using Metamask, Truffle, Remix, React and IPFS.
-- [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - How to create smart contracts, deploy your own DApps, create tokens, and more — from beginner to intermediate topics.
+- [End to End DApp Tutorial](https://medium.com/@merunasgrincalaitis/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e) - 使用Metamask，Truffle，Remix，React和IPFS创建赌博DApp.
+- [Various Ethereum & Solidity Tutorials](https://www.codementor.io/learn/blockchain/solidity-tutorials) - 如何创建智能合约，部署自己的DApp，创建令牌等 - 从初级到中级主题.
 
 
 ## Code
 
-- [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
-- [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - Experimental smart contract programming language intended to replace Solidity.
+- [Solidity Documentation](https://solidity.readthedocs.io) - 智能合约的首选编程语言.
+- [Vyper Documentation](https://vyper.readthedocs.io/en/latest/index.html) - 旨在取代Solidity的实验性智能合约编程语言.
 
 
 ## Learning and MOOCs
 
-Learn about the theory behind Ethereum.
+了解以太坊背后的理论.
 
-- [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
-- [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - Ethereum wiki on best practices for safety in smart contracts.
-- [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) - Functional description of Ethereum accounts, gas and transactions.
-- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) - Practice hacking Smart Contracts.
-- [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum) - Syllabus to learn Ethereum.
+- [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - 关于以太坊的问题和解答.
+- [Smart contract safety](https://github.com/ethereum/wiki/wiki/Safety) - 以太坊wiki关于智能合约安全的最佳实践.
+- [Accounts, Transactions, Gas, and Block Gas Limits in Ethereum](https://hudsonjameson.com/2017-06-27-accounts-transactions-gas-ethereum/) - 以太坊账户，天然气和交易的功能描述.
+- [Ethernaut Smart Contract Capture the Flag](https://ethernaut.zeppelin.solutions/) - 练习黑客智能合约.
+- [Ethereum Syllabus](https://novicedock.com/learn/cryptocurrency/ethereum) - 学习以太坊的教学大纲.
 - [Cryptocurrency Security: University of Illinois 2016](http://soc1024.ece.illinois.edu/teaching/ece598am/fall2016/) - 加密货币安全课程.
-- [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/) - Stanford Bitcoin and Cryptocurrency Course.
-- [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - Digital currency introductory MOOC.
-- [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) - Introduction to Bitcoin and blockchain technology MOOC.
-- [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - Security related best practices for smart contracts.
+- [Stanford CS 251(p): Bitcoin and Crypto Currencies](https://crypto.stanford.edu/cs251_fall15/) - 斯坦福比特币和加密货币课程.
+- [Introduction to Digital Currencies: University of Nicosia](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - 数字货币入门MOOC.
+- [Bitcoin and Blockchain Technology: Concordia University](https://users.encs.concordia.ca/~clark/courses/1703-6630/index.html) - 比特币和区块链技术MOOC简介.
+- [Smart Contract Best Practices](https://consensys.github.io/smart-contract-best-practices/) - 智能合约的安全相关最佳实践.
 - [Low-Resource Eclipse Attacks on Ethereum’s Peer-to-Peer Network](https://www.cs.bu.edu/~goldbe/projects/eclipseEth.pdf)
 
 ## Philosophy
 
-The Ideas behind the Ethereum Project.
+以太坊项目背后的理念.
 
-- [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
-- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - Some of the core philosophies of Ethereum.
-- [Ethereum Improvement Proposals](https://eips.ethereum.org/) - Standards for the Ethereum platform, including core protocol specifications, client APIs, and contract standards.
+- [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - 智能合约安全攻击.
+- [Ethereum Wiki Philosophy](https://github.com/ethereum/ethereum.org/wiki/Philosophy) - 以太坊的一些核心哲学.
+- [Ethereum Improvement Proposals](https://eips.ethereum.org/) - 以太坊平台的标准，包括核心协议规范，客户端API和合同标准.
 
 
 ## Videos
 
-- [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
+- [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - 以太坊平台的介绍性说明.
 - [A Guide to Building Your First Decentralized Application (37:00)](https://www.youtube.com/watch?v=gSQXq2_j-mw)
-- [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) - Mostly older videos of Devcon 1 and before.
-- [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - Most up to date events and streams including the Ethereum Devcon conferences and dev meetings.
+- [Ethereum YouTube Channel](https://www.youtube.com/user/ethereumproject) -  Devcon 1及以前的大部分旧视频.
+- [Ethereum Foundation YouTube Channel](https://www.youtube.com/channel/UCNOfzGXD_C9YMYmnefmPH0g) - 最新的活动和流，包括以太坊Devcon会议和开发会议.
 
 ## Wallets
 
-- [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
-- [MyEtherWallet](https://www.myetherwallet.com/) - Online wallet service that interacts with the blockchain and performs several other useful functions.
-- [Mist](https://github.com/ethereum/mist) - Official Ethereum wallet - Browse and use Ðapps on the Ethereum network.
-- [MyCrypto](https://www.mycrypto.com) - Online wallet service that interacts with the blockchain and performs several other useful functions.
+- [MetaMask](https://metamask.io/) - 浏览器扩展，可以与Remix IDE交互并将事务发送到不同的测试网.
+- [MyEtherWallet](https://www.myetherwallet.com/) - 在线钱包服务，与区块链交互并执行其他一些有用的功能.
+- [Mist](https://github.com/ethereum/mist) - 官方以太坊钱包 - 浏览并使用以太坊网络上的Ðapps.
+- [MyCrypto](https://www.mycrypto.com) - 在线钱包服务，与区块链交互并执行其他一些有用的功能.
 
 ## Blockchain Utilities
 
-- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
-- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
-- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
-- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
+- [ETH Gas Station](https://ethgasstation.info/) - 检查交易当前天然气价格的工具.
+- [Etherscan](https://etherscan.io/) - 以太坊块浏览器与其他有用的块实用程序.
+- [Ethplorer](https://ethplorer.io/) - 以太坊块探险家.
+- [Etherchain](https://www.etherchain.org/) - 以太坊块探险家.
 
 ## Protocols
 
-Descriptions and implementations of Ethereum-related protocols.
+以太坊相关协议的描述和实现.
 
-- [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) - Swarm is a distributed storage platform and content distribution service.
-- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
-- [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
-  - Casper CBC - Correct by Construction for full Proof-of-Stake.
-    - [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
+- [Swarm](http://swarm-gateways.net/bzz:/theswarm.eth/) -  Swarm是一种分布式存储平台和内容分发服务.
+- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) -  DApps相互通信的通信协议.
+- [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - 股权实施证明.
+  -  Casper CBC  - 通过施工纠正完整的股权证明.
+    - [Code Repository](https://github.com/ethereum/cbc-casper) - 一类构造正确的共识协议的python实现.
     - [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
     - [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
-  - Casper FFG - Friendly Finality Gadget for PoS validation with Proof-of-Work.
-    - [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
-    - [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - Research paper detailing FFG.
+  -  Casper FFG  - 使用Proof-of-Work进行PoS验证的友好终极小工具.
+    - [Code Repository](https://github.com/ethereum/casper) -  FFG合同，相关软件和测试.
+    - [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - 详细介绍FFG的研究论文.
   - [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
-  - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
-- [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
-- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
-- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
-- zk-SNARKS - Verify knowledge of a secret without revealing it.
-  - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
-  - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
-  - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
-  - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
-  - [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - A short and practical introduction to using zk-SNARKs.
-- Token Bonding Curves (TBC) - Mathematically sound price-supply relationship curves.
-  - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
-  - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
-  - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
+  - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) -  FFG和CBC的Stack Exchange比较.
+- [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - 对计算资源进行分区，以便节点不必处理整个区块链.
+- [Web3.js](https://github.com/ethereum/web3.js) - 以太坊的JavaScript API.
+- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - 以太坊的工作证明算法.
+-  zk-SNARKS  - 验证秘密的知识而不泄露它.
+  - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) -  zk-SNARKS的实用概述.
+  - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) -  zk-SNARKS简介和智能合约的实施.
+  - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) -  zk-SNARKS的技术说明.
+  - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) -  zk-SNARKS的技术说明.
+  - [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - 使用zk-SNARKs的简短实用介绍.
+- 令牌绑定曲线（TBC） - 数学上合理的价格 - 供应关系曲线.
+  - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - 使用代码全面介绍TBC.
+  - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - 通过不可替代的代币和策展市场探索知识产权的普遍分配.
+  - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - 交互式绑定曲线webapp.
 
 
 ## Books
 
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
-- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - Learn Solidity development from concept to deployment.
-- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - Learn about Ethereum (and blockchains) from an IBM blockchain liason.
+- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - 开发人员指导以太坊的操作和使用.
+- [Introduction to Ethereum and Solidity](https://the-eye.eu/public/Books/qt.vidyagam.es/library/humble-bitcoin-bundle/Introducing%20Ethereum%20and%20Solidity_%20Foud%20Blockchain%20Programming%20for%20Beginners/Introducing%20Ethereum%20and%20Solidity_%20Foundatiin%20Programming%20for%20Beginners%20-%20Chris%20Dannen.pdf) - 学习从概念到部署的Solidity开发.
+- [Ethereum: Blockchains, Digital Assets, Smart Contracts, Decentralized Autonomous Organizations](https://www.goodreads.com/book/show/32762240-ethereum) - 从IBM区块链联系中了解以太坊（和区块链）.
 
 
 ## Misc
 
-- [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
-- [State of the DApps](https://www.stateofthedapps.com/) - A comprehensive list of the Decentralized Applications (DApps) on Ethereum.
-- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
-- [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
-- [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
+- [r/Ethereum](https://www.reddit.com/r/ethereum/) - 以太坊subreddit.
+- [State of the DApps](https://www.stateofthedapps.com/) - 以太坊上的分散应用程序（DApps）的完整列表.
+- [ETH Gas Station](https://ethgasstation.info/) - 检查交易当前天然气价格的工具.
+- [Week in Ethereum](http://www.weekinethereum.com/) - 每周在以太坊发生的所有事情的摘要.
+- [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - 通过meetup.com与当地的以太坊社区会面.
 - [Ethereum Wiki Page](https://theethereum.wiki/w/index.php/Main_Page)
 
 
@@ -164,12 +165,12 @@ Descriptions and implementations of Ethereum-related protocols.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) first.
-灵感来自 [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/Tom2718/Awesome-Ethereum/blob/master/contributing.md) 第一.
+灵感来自 [Awesome Python](https://github.com/vinta/awesome-python) 和 [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, @Tom2718 has waived all copyright and
-related or neighboring rights to this work.
+在法律允许的范围内，@ Tom2718已放弃所有版权和
+相关或相邻的权利.

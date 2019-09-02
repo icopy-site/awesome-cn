@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Wisdom/Awesome-Unicode"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
@@ -15,7 +16,7 @@
 
 ## Foreword
 
- Unicode真棒！  在Unicode之前，国际通信非常艰苦 - 每个人都在ASCII的上半部分（称为代码页）中定义了单独的扩展字符集，这些字符集会发生冲突 - 只是想想，德语发言者与韩语使用者协调使用127个字符的代码页.  值得庆幸的是，Unicode标准流行并统一了通信.  Unicode 8.0标准化来自超过129个脚本的超过120,000个字符 - 一些是现代的，一些是古老的，一些仍未解密.  Unicode处理从左到右和从右到左的文本，组合标记，包括各种文化，政治，宗教角色和表情符号.  Unicode非常人性化 - 最终被低估了.
+ Unicode真棒！  在Unicode之前，国际通信非常艰苦 - 每个人都在ASCII的上半部分（称为代码页）中定义了单独的扩展字符集，这些字符集会发生冲突 - 只是想想，德语发言者与韩语使用者协调使用127个字符的代码页.  值得庆幸的是，Unicode标准流行并统一了通信.  Unicode 8.0标准化来自超过129个脚本的超过120,000个字符 - 一些是现代的，一些是古老的，一些仍未解密.  Unicode处理从左到右和从右到左的文本，组合标记，并包括各种文化，政治，宗教角色和表情符号.  Unicode非常人性化 - 最终被低估了.
 
 <br>
 
@@ -62,7 +63,7 @@ The Unicode characterset is divided into 17 core segments called "planes", which
 |-----|-----------------------------------------|------------------------|
  |  1. |  **基本多语言平面** |  （U + 0000到U + FFFF）|
  |  2. |  **补充多语种飞机** |  （U + 10000到U + 1FFFF）|
- |  3. |  **补充表意平面** |  （U + 20000到U + 2FFFF）|
+| 3.  | **Supplementary Ideographic Plane**     | (U+20000 to U+2FFFF)   |
  |  4. |  第三纪表意平面|  （U + 30000到U + 3FFFF）|
  |  5. |  飞机5（未分配）|  （U + 40000到U + 4FFFF）|
  |  6. |  飞机6（未分配）|  （U + 50000到U + 5FFFF）|
@@ -221,7 +222,7 @@ Unicode联盟发布了一个 [general punctuation chart](http://www.unicode.org/
  |  `&#39;&#39;``  U + 202E |  将文本方向更改为从右到左：|
  |  `&#39;ꓸ&#39;`|  U + A4F8 LISU LETTER TONE MYA TI |与时代角色相似.  |
  |  `&#39;ꓹ&#39;`|  U + A4F9 LISU LETTER TONE NA PO |逗号字符的相似之处
-| `'ꓼ'` | U+A4FC LISU LETTER TONE MYA NA |A lookalike for the semi-colon character.|
+ |  `&#39;ꓼ&#39;`|  U + A4FC LISU LETTER TONE MYA NA |与分号字符相似.|
  |  `&#39;ꓽ&#39;`|  U + A4FD LISU LETTER TONE MYA JEU |与结肠角色相似.|
  |  `&#39;︀&#39;`|  **变量选择器**（U + FE00至U + FE0F＆U + E0100至U + E01EF）|  具有256个零宽度字符的块，其具有ID_Continue proprerty-意味着它们可以用于变量名称（不是第一个字母）.  这些特殊之处在于鼠标光标在组合字符时会传递它们 - 与大多数其他零宽度字符不同
  |  `&#39;ᅟ&#39;``  ** U + 115F HANGUL CHOSEONG FILLER ** |  通常它会产生一个空间.  如果在渲染中未明确支持，则渲染为零宽度（不可见）.  指定ID_Start |
@@ -236,7 +237,7 @@ Unicode联盟发布了一个 [general punctuation chart](http://www.unicode.org/
 
  ** U + 3164 HANGUL FILLER **字符显示为前进的空白字符.  如果不明确，则将角色渲染为完全不可见（并且不前进，即“零宽度”） [supported in rendering](http://unicode.org/faq/unsup_char.html) .  这意味着永远不应该显示丑陋的字符替换（ ）符号.
 
- 我还不确定为什么指定U + 3164这样做.  有趣的是，在版本1.1（1993）中将U + 3164添加到Unicode中 - 因此联盟必须有很多时间来考虑它.  无论如何，这里有一些例子.
+ 我还不确定为什么指定U + 3164这样做.  有趣的是，在版本1.1（1993）中将U + 3164添加到Unicode中 - 因此该联盟必须有大量时间来考虑它.  无论如何，这里有一些例子.
 
 ```javascript
 &gt; varᅟ=&#39;foo&#39;;
@@ -260,7 +261,7 @@ undefined
 
 ```
 <br>
-**NOTE:** I've tested U+3164 rendering on Ubuntu and OS X with the following: `node`, `php`, `ruby`, `python3.5`, `scala` ,`vim`, `cat`, `chrome`+`github gist`. Atom is the only system that fails by (incorrectly) displaying empty boxes. I have yet to test it out on Emacs and Sublime. From what I understand, the Unicode Consortium will not reassign or rename characters or codepoints, but may be convinced to change character properties like ID_Start/ID_Continue.
+ **注意：**我在Ubuntu和OS X上用以下方法测试了U + 3164渲染：`node`，`php`，`ruby`，`python3.5`，`scala`，`vim`，`猫`，`chrome` +`github gist`.  Atom是唯一通过（错误地）显示空框失败的系统.  我还没有在Emacs和Sublime上测试它.  根据我的理解，Unicode Consortium不会重新分配或重命名字符或代码点，但可能会被说服改变ID_Start / ID_Continue等字符属性.
 
 
 <br>
@@ -305,7 +306,7 @@ undefined
  |  ı|  0x0131 |  `我`|
  |  s |  0x017F |  `S` |
  |  ff |  0xFB00 |  `FF` |
- |  科幻|  0xFB01 |  `FI` |
+ |  fi |  0xFB01 |  `FI` |
  |  在|  0xFB02 |  `FL` |
  |  ffi |  0xFB03 |  `FFI` |
  |  ffl |  0xFB04 |  `FFL` |
@@ -360,7 +361,7 @@ undefined
 | [U+1F56](https://codepoints.net/U+1F56?lang=en)  |  `ὖ`|  带PSILI和PERISPOMENI的GREEK小写字母UPS  `υ`，`̓`，``|  U + 03C5，U + 0313，U + 0342 |
 | [U+1F80](https://codepoints.net/U+1F80?lang=en)  |  `ᾀ`|  希腊小写字母阿尔法与PSILI和YPOGEGRAMMENI |  `ἀ`，`i`  U + 1F00，U + 03B9 |
 | [U+1F81](https://codepoints.net/U+1F81?lang=en)  |  `ᾁ`|  GREEK小写字母ALPHA与DASIA和YPOGEGRAMMENI |  `ἁ`，`ι`|  U + 1F01，U + 03B9 |
-| [U+1F82](https://codepoints.net/U+1F82?lang=en)  |  `ᾂ`|  希腊小写字母阿尔法与PSILI和VARIA和YPOGEGRAMMENI |  `ἂ`，`ι`|  U + 1F02，U + 03B9 |
+| [U+1F82](https://codepoints.net/U+1F82?lang=en) | `ᾂ`       | GREEK SMALL LETTER ALPHA WITH PSILI AND VARIA AND YPOGEGRAMMENI          | `ἂ`, `ι`         | U+1F02, U+03B9         |
 | [U+1F83](https://codepoints.net/U+1F83?lang=en)  |  `ᾃ`|  GREEK小写字母ALPHA与DASIA和VARIA和YPOGEGRAMMENI |  `ἃ`，`ι`|  U + 1F03，U + 03B9 |
 | [U+1F84](https://codepoints.net/U+1F84?lang=en)  |  `ᾄ`|  希腊小写字母阿尔法与PSILI和OXIA和YPOGEGRAMMENI |  `ἄ`，`i`  U + 1F04，U + 03B9 |
 | [U+1F85](https://codepoints.net/U+1F85?lang=en)  |  `ᾅ`|  GREEK小写字母ALPHA与DASIA和OXIA和YPOGEGRAMMENI |  `ἅ`，`ι`|  U + 1F05，U + 03B9 |
@@ -411,7 +412,7 @@ undefined
 | [U+1FB4](https://codepoints.net/U+1FB4?lang=en)  |  `ᾴ`|  希腊小写字母阿尔法与OXIA和YPOGEGRAMMENI |  `d`，`i`  U + 03AC，U + 03B9 |
 | [U+1FB6](https://codepoints.net/U+1FB6?lang=en)  |  `ᾶ`|  GREEK小写字母ALPHA与PERISPOMENI |  `α`，``|  U + 03B1，U + 0342 |
 | [U+1FB7](https://codepoints.net/U+1FB7?lang=en)  |  `ᾷ`|  GREEK小写字母ALPHA与PERISPOMENI和YPOGEGRAMMENI |  `a`，``，`i`  U + 03B1，U + 0342，U + 03B9 |
-| [U+1FBC](https://codepoints.net/U+1FBC?lang=en) | `ᾼ`       | GREEK CAPITAL LETTER ALPHA WITH PROSGEGRAMMENI                           | `α`, `ι`         | U+03B1, U+03B9         |
+| [U+1FBC](https://codepoints.net/U+1FBC?lang=en)  |  `ᾼ`|  希腊大写字母ALPHA与PROSGEGRAMMENI |  `a`，`i`  U + 03B1，U + 03B9 |
 | [U+1FC2](https://codepoints.net/U+1FC2?lang=en)  |  `ῂ`|  带有VARIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `ὴ`，`i`  U + 1F74，U + 03B9 |
 | [U+1FC3](https://codepoints.net/U+1FC3?lang=en)  |  `ῃ`|  与YPOGEGRAMMENI的GREEK小写字母ETA |  `n`，`i`  U + 03B7，U + 03B9 |
 | [U+1FC4](https://codepoints.net/U+1FC4?lang=en)  |  `ῄ`|  与OXIA和YPOGEGRAMMENI的GREEK小写字母ETA |  `或`，`我`  U + 03AE，U + 03B9 |
@@ -442,7 +443,7 @@ undefined
 | [U+FB06](https://codepoints.net/U+FB06?lang=en)  |  `st` |  LATIN SMALL LIGATURE ST |  `s`，`t` |  U + 0073，U + 0074 |
 | [U+FB13](https://codepoints.net/U+FB13?lang=en)  |  `մն`|  亚美尼亚小型LIGATURE男士现在|  `m`，`n` |  U + 0574，U + 0576 |
 | [U+FB14](https://codepoints.net/U+FB14?lang=en)  |  `մե`|  亚美尼亚小男人ECH |  `m`，`e` |  U + 0574，U + 0565 |
-| [U+FB15](https://codepoints.net/U+FB15?lang=en)  |  `մի`|  亚美尼亚小男人INI |  `m`，`by` |  U + 0574，U + 056B |
+| [U+FB15](https://codepoints.net/U+FB15?lang=en) | `ﬕ`       | ARMENIAN SMALL LIGATURE MEN INI                                          | `մ`, `ի`         | U+0574, U+056B         |
 | [U+FB16](https://codepoints.net/U+FB16?lang=en)  |  `վն`|  现在，亚美尼亚小型LVEATURE现已发展  `s`，`n` |  U + 057E，U + 0576 |
 | [U+FB17](https://codepoints.net/U+FB17?lang=en)  |  `մխ`|  亚美尼亚小男人XEH |  `m`，`k` |  U + 0574，U + 056D |
 
@@ -477,7 +478,7 @@ undefined
  |  代码点|  食谱|  合并|
 |-------------|----------|----------|
  |  U + 1F469 U + 200D U + 2764 U + FE0F U + 200D U + 1F469 | <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/apple/apple_2764.png"> <img height="36" width="auto" alt="❤️‍" src="http://unicode.org/reports/tr51/images/other/zwj.png"> <img height="36" width="auto" alt="👩" src="http://unicode.org/reports/tr51/images/apple/apple_1f469.png"> | <img height="36" width="auto" alt="couple with heart: woman, woman" src="http://unicode.org/reports/tr51/images/apple/apple_1f469_200d_2764_fe0f_200d_1f469.png"> |
-| U + 1F468 U + 200D U + 1F468 U + 200D U + 1F467 U + 200D U + 1F466 |<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/c575db618a89c88624a8c3bdfe57eada064cbf14/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy%20-%20fallback%20-%20ZWJ.jpg">|<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy.png">|
+|U+1F468 U+200D U+1F468 U+200D U+1F467 U+200D U+1F466|<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/c575db618a89c88624a8c3bdfe57eada064cbf14/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy%20-%20fallback%20-%20ZWJ.jpg">|<img height="36" width="auto" src="https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/family%3B%20man%2C%20man%2C%20girl%2C%20boy.png">|
 
 此外，表情符号现在支持肤色修饰符.
 
@@ -492,7 +493,7 @@ undefined
  |  U + 1F3FC |  EMOJI MODIFY FITZPATRICK TYPE-3 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-3-bw.png"   height="20" width="20"> |
  |  U + 1F3FD |  EMOJI MODIFY FITZPATRICK TYPE-4 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-4-bw.png"   height="20" width="20"> |
  |  U + 1F3FE |  EMOJI MODIFY FITZPATRICK TYPE-5 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-5-bw.png"   height="20" width="20"> |
-| U+1F3FF | EMOJI MODIFIER FITZPATRICK TYPE-6   | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png"   height="20" width="20"> |
+ |  U + 1F3FF |  EMOJI MODIFY FITZPATRICK TYPE-6 | <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6.png"   height="20" width="20"> <img src="http://www.unicode.org/reports/tr51/images/other/swatch-type-6-bw.png"   height="20" width="20"> |
 
 
 
@@ -550,7 +551,7 @@ varლ_th益th_ლ= 42;
 varλ= function（）{};
 
 //为了正义而混淆无聊的变量名称
-var =“heh”;
+var \ u006F \ u006 \ u0061 \ u0061 \ u0074 =&#39;heh&#39;;
 
 // ...或者只是随机组成
 varꙬൽↈⴱ=&#39;huh&#39;;
@@ -755,7 +756,7 @@ function testContinue（str）{
 | [Sinhala](https://wikipedia.org/wiki/Sinhala)                                                                               |  U + 0D80 |  U + 0DFF |  （90）|
 | [Thai](https://wikipedia.org/wiki/Thai)                                                                                     |  U + 0E00 |  U + 0E7F |  （87）|
 | [Lao](https://wikipedia.org/wiki/Lao)                                                                                       |  U + 0E80 |  U + 0EFF |  （67）|
-| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                              | U+0F00   | U+0FFF   | (211)         |
+| [Tibetan](https://wikipedia.org/wiki/Tibetan)                                                                               |  U + 0F00 |  U + 0FFF |  （211）|
 | [Myanmar](https://wikipedia.org/wiki/Myanmar)                                                                               |  U + 1000 |  U + 109F |  （160）|
 | [Georgian](https://wikipedia.org/wiki/Georgian)                                                                             |  U + 10A0 |  U + 10FF |  （88）|
 | [Hangul Jamo](https://wikipedia.org/wiki/Hangul_Jamo)                                                                       |  U + 1100 |  U + 11FF |  （256）|
@@ -804,7 +805,7 @@ function testContinue（str）{
 | [Optical Character Recognition](https://wikipedia.org/wiki/Optical_Character_Recognition)                                   |  U + 2440 |  U + 245F |  （11）|
 | [Enclosed Alphanumerics](https://wikipedia.org/wiki/Enclosed_Alphanumerics)                                                 |  U + 2460 |  U + 24FF |  （160）|
 | [Box Drawing](https://wikipedia.org/wiki/Box_Drawing)                                                                       |  U + 2500 |  U + 257F |  （128）|
-| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                | U+2580   | U+259F   | (32)          |
+| [Block Elements](https://wikipedia.org/wiki/Block_Elements)                                                                 |  U + 2580 |  U + 259F |  （32）|
 | [Geometric Shapes](https://wikipedia.org/wiki/Geometric_Shapes)                                                             |  U + 25A0 |  U + 25FF |  （96）|
 | [Miscellaneous Symbols](https://wikipedia.org/wiki/Miscellaneous_Symbols)                                                   |  U + 2600 |  U + 26FF |  （256）|
 | [Dingbats](https://wikipedia.org/wiki/Dingbats)                                                                             |  U + 2700 |  U + 27BF |  （192）|
@@ -820,7 +821,7 @@ function testContinue（str）{
 | [Coptic](https://wikipedia.org/wiki/Coptic)                                                                                 |  U + 2C80 |  U + 2CFF |  （123）|
 | [Georgian Supplement](https://wikipedia.org/wiki/Georgian_Supplement)                                                       |  U + 2D00 |  U + 2D2F |  （40）|
 | [Tifinagh](https://wikipedia.org/wiki/Tifinagh)                                                                             |  U + 2D30 |  U + 2D7F |  （59）|
-| [Ethiopic Extended](https://wikipedia.org/wiki/Ethiopic_Extended)                                                          | U+2D80   | U+2DDF   | (79)          |
+| [Ethiopic Extended](https://wikipedia.org/wiki/Ethiopic_Extended)                                                           |  U + 2D80 |  U + 2DDF |  （79）|
 | [Cyrillic Extended-A](https://wikipedia.org/wiki/Cyrillic_Extended-A)                                                       |  U + 2DE0 |  U + 2DFF |  （32）|
 | [Supplemental Punctuation](https://wikipedia.org/wiki/Supplemental_Punctuation)                                             |  U + 2E00 |  U + 2E7F |  （67）|
 | [CJK Radicals Supplement](https://wikipedia.org/wiki/CJK_Radicals_Supplement)                                               |  U + 2E80 |  U + 2EFF |  （115）|
@@ -886,7 +887,7 @@ function testContinue（str）{
 | [Linear B Syllabary](https://wikipedia.org/wiki/Linear_B_Syllabary)                                                         |  U + 10000 |  U + 1007F |  （88）|
 | [Linear B Ideograms](https://wikipedia.org/wiki/Linear_B_Ideograms)                                                         |  U + 10080 |  U + 100FF |  （123）|
 | [Aegean Numbers](https://wikipedia.org/wiki/Aegean_Numbers)                                                                 |  U + 10100 |  U + 1013F |  （57）|
-| [Ancient Greek Numbers](https://wikipedia.org/wiki/Ancient_Greek_Numbers)                                                  | U+10140  | U+1018F  | (77)          |
+| [Ancient Greek Numbers](https://wikipedia.org/wiki/Ancient_Greek_Numbers)                                                   |  U + 10140 |  U + 1018F |  （77）|
 | [Ancient Symbols](https://wikipedia.org/wiki/Ancient_Symbols)                                                               |  U + 10190 |  U + 101CF |  （13）|
 | [Phaistos Disc](https://wikipedia.org/wiki/Phaistos_Disc)                                                                   |  U + 101D0 |  U + 101FF |  （46）|
 | [Lycian](https://wikipedia.org/wiki/Lycian)                                                                                 |  U + 10280 |  U + 1029F |  （29）|
@@ -911,8 +912,8 @@ function testContinue（str）{
 | [Phoenician](https://wikipedia.org/wiki/Phoenician)                                                                         |  U + 10900 |  U + 1091F |  （29）|
 | [Lydian](https://wikipedia.org/wiki/Lydian)                                                                                 |  U + 10920 |  U + 1093F |  （27）|
 | [Meroitic Hieroglyphs](https://wikipedia.org/wiki/Meroitic_Hieroglyphs)                                                     |  U + 10980 |  U + 1099F |  （32）|
-| [Meroitic Cursive](https://wikipedia.org/wiki/Meroitic_Cursive)                                                             |  U + 109A0 |  U + 109FF |  （90）|
-| [Kharoshthi](https://wikipedia.org/wiki/Kharoshthi)                                                                         |  U + 10A00 |  U + 10A5F |  （65）|
+| [Meroitic Cursive](https://wikipedia.org/wiki/Meroitic_Cursive)                                                            | U+109A0  | U+109FF  | (90)          |
+| [Kharoshthi](https://wikipedia.org/wiki/Kharoshthi)                                                                        | U+10A00  | U+10A5F  | (65)          |
 | [Old South Arabian](https://wikipedia.org/wiki/Old_South_Arabian)                                                           |  U + 10A60 |  U + 10A7F |  （32）|
 | [Old North Arabian](https://wikipedia.org/wiki/Old_North_Arabian)                                                           |  U + 10A80 |  U + 10A9F |  （32）|
 | [Manichaean](https://wikipedia.org/wiki/Manichaean)                                                                         |  U + 10AC0 |  U + 10AFF |  （51）|
@@ -965,7 +966,7 @@ function testContinue（str）{
 | [Arabic Mathematical Alphabetic Symbols](https://wikipedia.org/wiki/Arabic_Mathematical_Alphabetic_Symbols)                 |  U + 1EE00 |  U + 1EEFF |  （143）|
 | [Mahjong Tiles](https://wikipedia.org/wiki/Mahjong_Tiles)                                                                   |  U + 1F000 |  U + 1F02F |  （44）|
 | [Domino Tiles](https://wikipedia.org/wiki/Domino_Tiles)                                                                     |  U + 1F030 |  U + 1F09F |  （100）|
-| [Playing Cards](https://wikipedia.org/wiki/Playing_Cards)                                                                   |  U + 1F0A0 |  U + 1F0FF |  （82）|
+| [Playing Cards](https://wikipedia.org/wiki/Playing_Cards)                                                                  | U+1F0A0  | U+1F0FF  | (82)          |
 | [Enclosed Alphanumeric Supplement](https://wikipedia.org/wiki/Enclosed_Alphanumeric_Supplement)                             |  U + 1F100 |  U + 1F1FF |  （173）|
 | [Enclosed Ideographic Supplement](https://wikipedia.org/wiki/Enclosed_Ideographic_Supplement)                               |  U + 1F200 |  U + 1F2FF |  （57）|
 | [Miscellaneous Symbols and Pictographs](https://wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs)                   |  U + 1F300 |  U + 1F5FF |  （766）|
@@ -983,7 +984,7 @@ function testContinue（str）{
 | [CJK Compatibility Ideographs Supplement](https://wikipedia.org/wiki/CJK_Compatibility_Ideographs_Supplement)               |  U + 2F800 |  U + 2FA1F |  （542）|
 | [Tags](https://wikipedia.org/wiki/Tags)                                                                                     |  U + E0000 |  U + E007F |  （97）|
 | [Variation Selectors Supplement](https://wikipedia.org/wiki/Variation_Selectors_Supplement)                                 |  U + E0100 |  U + E01EF |  （240）|
-| [Supplementary Private Use Area-A](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A)                            | U+F0000  | U+FFFFF  | (4)           |
+| [Supplementary Private Use Area-A](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-A)                             |  U + F0000 |  U + FFFFF |  （4）|
 | [Supplementary Private Use Area-B](https://wikipedia.org/wiki/Supplementary_Private_Use_Area-B)                             |  U + 100000 |  U + 10FFFF |  （4）|
 
 
@@ -993,7 +994,7 @@ function testContinue（str）{
 
 Unicode标准规定了以下基本原则：
 
-* **Universal repertoire** 	 - Every writing system ever used shall be respected and represented in the standard
+* **通用曲目**  - 每个使用的书写系统都应得到尊重并在标准中表示
 * **逻辑顺序**  - 双向文本是按逻辑顺序存储的字符，而不是代表的方式
 * **效率**  - 文档必须高效且完整.
  * **统一**  - 如果不同的文化或语言使用相同的字符，则只能包含一次.  这一点是
@@ -1001,7 +1002,7 @@ Unicode标准规定了以下基本原则：
  * **动态构图**  - 新角色可以由其他已经标准化的角色组成.  例如，字符“Ä”可以由“A”和dieresis符号（“¨”）组成.
 * **语义**  - 必须明确定义包含的字符并区别于其他字符.
  * **稳定性**  - 一旦定义的字符永远不会被删除或其代码点被重新分配.  如果出现错误，则不推荐使用代码点.
-* **纯文本**  - 标准中的字符是文本，从不标记或元字符.
+* **Plain Text**			 - Characters in the standard are text and never mark-up or metacharacters.
 * **可转换性**  - 每个其他使用的编码应该可以用Unicode编码表示.
 
 注意：原理描述来自 [codepoints.net](https://codepoints.net/about#unicode)
@@ -1031,7 +1032,7 @@ Unicode标准规定了以下基本原则：
 
 ## Contributing
 
-查看*令人敬畏的Unicode * [contribution guide](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
+查看* Awesome Unicode * [contribution guide](https://github.com/Wisdom/Awesome-Unicode/blob/master/CONTRIBUTING.md) 有关如何贡献的详细信息.
 
 
 ## Code of Conduct
@@ -1041,7 +1042,7 @@ Unicode标准规定了以下基本原则：
 贡献者和维护者承诺参与我们的项目和
 我们的社区为每个人提供无骚扰的体验，无论年龄，身体
 大小，残疾，种族，性别认同和表达，经验水平，
-国籍，个人形象，种族，宗教或性别认同和取向.
+nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 
 ## License

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 去书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
@@ -21,7 +22,7 @@
 
  本书简要介绍了使用Go语言进行的计算机编程.  Go是一种通用编程语言，由Google设计，具有现代特性，清晰的语法和强大的文档齐全的通用库，使其成为学习第一种编程语言的理想语言.
 
-这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
+This book is free to [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
@@ -179,7 +180,7 @@ any specific language, so you'll find it accessible whether you're
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
- 众所周知，并发很难做到正确，但幸运的是，Go开源编程语言使得并发处理变得简单易行.  如果您是熟悉Go的开发人员，那么这本实用的书籍将演示最佳实践和模式，以帮助您将并发性纳入您的系统.
+ 众所周知，并发很难做到正确，但幸运的是，Go开源编程语言使得并发处理易于处理.  如果您是熟悉Go的开发人员，那么这本实用的书籍将演示最佳实践和模式，以帮助您将并发性纳入您的系统.
 
 
 **Web开发**

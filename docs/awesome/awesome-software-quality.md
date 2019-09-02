@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ligurio/awesome-software-quality"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## List of Free Software Testing Resources
 
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
@@ -141,7 +142,7 @@
 
 * [Черная книга менеджера](http://www.stratoplan.ru/free/mbb/) ([pdf](http://labs.stratoplan.ru/wmbook-03-01/black_book.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/black_book.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/black_book.mobi)）荣耀到潘克拉托夫
 * [Белая книжная полка менеджера](http://labs.stratoplan.ru/wmbook-03-01/) ([epub](http://labs.stratoplan.ru/wmbook-03-01/wmbook.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/wmbook.mobi), [zip](http://labs.stratoplan.ru/wmbook-03-01/wmbook.zip))
-*如何成为经理（[pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)） - 斯拉瓦潘克拉托夫，亚历山大奥尔洛夫
+*如何成为经理（[pdf](http://labs.stratoplan.ru/wmbook-03-01/it_manager.pdf), [epub](http://labs.stratoplan.ru/wmbook-03-01/it_manager.epub), [mobi](http://labs.stratoplan.ru/wmbook-03-01/it_manager.mobi)） - 荣耀到潘克拉托夫，亚历山大奥尔洛夫
 * [It starts with a great product](https://www.intercom.com/books/product-management)
 
 #### Тестирование ПО
@@ -156,7 +157,7 @@
 
 #### Формальные методы
 
-* [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) -  A.M.Mironov
+* [Верификация программ методом Model Checking](http://intsys.msu.ru/staff/mironov/modelchk.pdf) -  A.M.米罗诺夫
 * http://is.ifmo.ru/verification/
 * [Практикум по математической логике. Coq.](http://www.mi.ras.ru/~sk/lehre/coq/coq_pract.pdf)
 
@@ -295,10 +296,10 @@
 * [Software Testing 102](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v2.pdf)
 * [Software Testing 103](http://kspt.icc.spbstu.ru/media/files/people/akhin/lectures/Software-Testing-102v3.pdf)
 * [Тестирование ПО](http://kspt.icc.spbstu.ru/2014/course/software-testing)
-*学校测试： [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
+*测试学院： [Ручное тестирование и Автоматизация тестирования](https://academy.yandex.ru/events/testing/spb-2016/) ([Youtube](https://www.youtube.com/playlist?list=PLJMRN_6MT0JYItlUeor7YRa0r6-lI8MMR))
 * [Тестирование на основе моделей](https://www.lektorium.tv/course/22774) ([слайды](http://compsciclub.ru/media/slides/modelbasedtesting_2010_spring/2010_04_25_modelbasedtesting_2010_spring_m98ClS2.pdf)), [Youtube](https://www.youtube.com/playlist?list=PL-_cKNuVAYAU1LAGzq5S0ARQjXs3TAY3K) -  Victor Kulyamin
 * [Серия семинаров по тестированию (автоматизация)](https://www.youtube.com/playlist?list=PL-_cKNuVAYAV4VSQQK5AWMBImQ8kf6cnr) - 谢尔盖安德列夫
-* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) - 该课程基于官方培训计划“认证软件测试员基础水平”ISTQB，旨在为认证考试做准备
+* [Тестирование ПО: Базовый уровень](https://stepik.org/course/16478) - 该课程基于官方培训计划“认证基础软件测试人员”ISTQB，旨在为认证考试做准备
 
 #### Формальная верификация ПО
 

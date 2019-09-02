@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="tayllan/awesome-algorithms"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Algorithms
 
 精心策划的学习和/或练习算法的地方列表.
@@ -139,7 +140,7 @@
 * [Algo Muse](http://www.algomuse.appspot.com) - 基于研究的算法问题. 
 * [AtCoder](https://atcoder.jp/) - 日本编程竞赛网站.
 * [Baekjoon Online Judge](https://www.acmicpc.net/)   - 韩国在线评委.  10000多个问题.  支持60多种语言.
-* [CS Academy](https://csacademy.com/) - Holds online contests and IOI practice contests
+* [CS Academy](https://csacademy.com/) - 举办在线竞赛和IOI练习赛
 * [CodeChef](https://www.codechef.com/) - 更多问题和每月在线竞赛.
 * [Codeforces ](http://codeforces.com/) - 唯一的编程竞赛Web 2.0平台
 * [Codefights](https://codefights.com/) -  Practive编程并解决您的下一次技术面试
@@ -156,7 +157,7 @@
 * [Learneroo Algorithms Tutorials](https://www.learneroo.com/subjects/8) - 通过在线解决挑战来学习和练习算法.
 * [LeetCode](https://leetcode.com/) - 学习算法并准备面试.
 * [PKU JudgeOnline](http://poj.org/) - 中国在线评委.
-* [ProjectEuler](https://projecteuler.net/) - 可以使用算法解决的数学问题（或者只是铅笔，取决于你已经知道多少）.
+* [ProjectEuler](https://projecteuler.net/) - Mathematical problems that can be solved using algorithms (or just a pencil, depends on how much you already know).
 * [Rosalind](http://rosalind.info/problems/locations/) - 通过解决问题学习生物信息学和编程的平台.
 * [ShareCode.io ](https://sharecode.io/) - 在线评审和竞赛主持人在档案馆中有很多算法问题来练习.
 * [Snakify](https://snakify.org/) - 具有100多个算法问题的入门Python课程和逐步调试器（来自俄罗斯）.

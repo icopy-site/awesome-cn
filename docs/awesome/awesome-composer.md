@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jakoch/awesome-composer"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
@@ -75,7 +76,7 @@
 - [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) - 下载并安装NodeJS和npm作为composer包. 
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin)   - 将所有作曲家供应商包装在您自己的命名空间中.  用于WordPress插件.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) - 该插件生成一个`vendor / preload.php`文件来预热Opcache.
-- [PHP Inc](https://github.com/krakphp/php-inc) - Automatically includes files for autoload and autoload-dev to facilitate using functions and grouped definitions within composer loaded applications.
+- [PHP Inc](https://github.com/krakphp/php-inc) - 自动包含autoload和autoload-dev文件，以便于在编写器加载的应用程序中使用函数和分组定义.
 - [Composer Registry Manager](https://github.com/slince/composer-registry-manager) - 使您可以在不同的编写器存储库之间切换.
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) - 防止将开发包添加到require和进入生产环境中.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) - 一次防止多个安装或更新操作.
@@ -207,7 +208,7 @@ Private Packagist]（http://www.naderman.de/slippy/slides/2017-07-14-T3DD17-Gain
 ### Private Packagist
 - [Private Packagist Cloud](https://packagist.com) - 作为私有包的服务的Composer存储库，以及镜像来自其他存储库的包.
 - [Private Packagist Enterprise](https://packagist.com) - 私有包装的内部部署自托管版本.
-- [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client)   -  Private Packagist API的PHP客户端.  客户端处理身份验证，签名生成和对所有端点的访问.
+- [Private Packagist API Client](https://github.com/packagist/private-packagist-api-client) - A PHP client for the Private Packagist API. The client handles authentication, signature generation and access to all endpoints.
 
 ## Packagist-compatible repositories
 

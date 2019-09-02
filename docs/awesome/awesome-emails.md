@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jonathandion/awesome-emails"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
 	<br>
 	<img width="500" src="https://raw.githubusercontent.com/jonathandion/awesome-emails/master/masthead.png" alt="awesome emails">
@@ -83,7 +84,7 @@ VML和CSS.
 
 ## Design
 - [CSS Support](https://www.campaignmonitor.com/css/) - 全球每个流行的移动，网络和桌面电子邮件客户端的CSS支持的完整细分.
-- [Email Template Guide](https://blocksedit.com/email-template-guide/) - 使用模块化电子邮件模板系统
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - 本指南简要概述了我们从管理邮件服务器中学到的电子邮件最佳实践.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/)   - 我查看了50个响应式零售电子邮件的导航.  这是我发现的模式的细分.
 
@@ -132,7 +133,7 @@ VML和CSS.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 用咕噜声向Litmus发送电子邮件测试
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - 通过gulp向Litmus发送电子邮件测试
 - [SPAM mailtester](http://www.mail-tester.com/) - 测试你的电子邮件的垃圾邮件
-- [MailTrap](https://mailtrap.io) - A Fake SMTP Server to Test, View and Share emails without spamming real customers.
+- [MailTrap](https://mailtrap.io) - 虚假的SMTP服务器，用于测试，查看和共享电子邮件，而不会向真实客户发送垃圾邮件.
 - [MailHog](https://github.com/mailhog/MailHog) 本地虚假SMTP服务器（基于Go）
 - [MailCatcher](https://mailcatcher.me/) 本地虚假SMTP服务器（基于Ruby）
 - [Email Privacy Tester](https://www.emailprivacytester.com/) - 测试电子邮件客户端的priacy功能（加载远程内容）的工具

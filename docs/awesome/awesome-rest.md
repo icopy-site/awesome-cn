@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="marmelab/awesome-rest"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  关于RESTful API架构，开发，测试和性能的重要资源的协作列表.  随意为这个正在进行的列表做出贡献.
@@ -80,7 +81,7 @@
 * [node-restify](https://github.com/restify/node-restify) - 框架专门用于REST API.
 * [Sails.js](http://sailsjs.org/) -  Node.js Web框架嵌入命令以自动生成REST API.
 * [mers](https://github.com/jspears/mers) - 快速服务将Mongoose finders暴露为RESTful API.
-* [Baucis](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
+* [Baucis](https://github.com/wprl/baucis) - 基于Mongoose实体构建可扩展的REST API.
 * [flatiron/resourceful](https://github.com/flatiron/resourceful) -  JavaScript的同构资源引擎.
 * [loopback](http://loopback.io/) - 强大的Node.js框架，用于创建API并轻松连接到后端数据源.
 * [Feathers](http://feathersjs.com/) - 是一个实时的微服务Web框架，可让您通过RESTful资源，套接字和灵活的插件控制您的数据.
@@ -116,13 +117,13 @@
 
 * [Django REST framework](http://www.django-rest-framework.org/) - 功能强大且灵活的工具包，可轻松构建Web API.
 * [django-tastypie](http://tastypieapi.org/) - 为Django应用程序创建美味的API.
-* [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
+* [flask-restful](http://flask-restful.readthedocs.org/) -  Flask扩展，增加了对快速构建REST API的支持.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) -  Flask扩展，用于为使用SQLAlchemy（或Flask-SQLAlchemy）定义的数据库模型生成ReSTful API.
 * [hug](http://www.hug.rest/) - 轻量且快速的API框架.
 * [sandman](https://github.com/jeffknupp/sandman) - 用于现有数据库驱动系统的自动REST API.
 * [restless](http://restless.readthedocs.org/en/latest/) - 基于从TastyPie学到的经验教训的框架无关REST框架.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) -  REST API构建库（django等）.
-* [Python Eve](http://python-eve.org/)   -  Eve是一个专为人类设计的开源Python REST API框架.  它允许毫不费力地构建和部署高度可定制的，功能齐全的RESTful Web服务.
+* [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - 通过在运行时从它们生成生产就绪API，使RAML文件可执行.
 * [Flask-Potion](https://github.com/biosustain/potion)   -  Flask-Potion是一个功能强大的Flask扩展，用于构建RESTful JSON API.  它还提供了几个客户端，以便更轻松地访问API.
 * [apistar](https://github.com/encode/apistar) - 专为Python 3设计的智能Web API框架. 
@@ -139,7 +140,7 @@
 * [go-json-rest](https://github.com/ant0ine/go-json-rest) - “net / http”顶部的薄层，有助于轻松构建RESTful API.
 * [sleepy](https://github.com/dougblack/sleepy) - 用Go编写的RESTful微框架.
 * [restit](https://github.com/yookoala/restit) -  Go micro framework帮助编写RESTful API集成测试.
-* [go-relax](https://github.com/codehack/go-relax) - 用于构建RESTful API的可插入组件的框架.
+* [go-relax](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 * [go-rest](https://github.com/ungerik/go-rest) -  Go的小而邪恶的REST框架.
 * [go-restful](https://github.com/emicklei/go-restful) - 用于构建restful API的声明性高度可读框架.
 * [Goat](https://github.com/bahlo/goat) -  Go中的简约REST API服务器.

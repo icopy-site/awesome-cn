@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="zhaopuming/awesome-d"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ---
 
@@ -72,9 +73,9 @@
 * [Circular Studios](https://github.com/Circular-Studios)   - 我们是罗彻斯特理工学院的一组游戏开发人员，负责构建游戏和游戏技术.  主机 [Dash](https://github.com/Circular-Studios/Dash)，用D编写的3D游戏引擎，以及其他相关的库.
 * [d-gamedev-team](https://github.com/d-gamedev-team) -  gamedev相关回购的组织，包括一个名为的D gamedev工具包 [gfm](https://github.com/d-gamedev-team/gfm) 和 [opengl tutorial in D](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling)   - 以D为主要语言的职业建筑公司.  托管他们的开源项目.
-* [infognition](http://www.infognition.com/company.html)   -  Infognition是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术.  他们提供了几个用D语言编写的开源视频相关应用程序和工具 [bitbucket](https://bitbucket.org/infognition/) .  他们也在搬运他们的主要产品 - [Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
+* [infognition](http://www.infognition.com/company.html)   -  Infognition是一家自筹资金和自我维持的公司，专门为最终用户和开发人员提供视频处理和压缩技术.  他们提供了几个用D语言编写的开源视频相关应用程序和工具 [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) 从C / C ++到D.
 * [libmir](https://github.com/libmir) -  D的数字图书馆开发团队
-* [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) 组织.
+* [sociomantic labs](https://www.sociomantic.com)   - 柏林公司，专门从事在线广告的实时竞标.  主要赞助商 [annual D language conference](http://dconf.org) .  开源的大部分代码库都是其中的一部分 [tsunami](https://github.com/sociomantic-tsunami) 组织.
 * [Symmetry Investments](http://symmetryinvestments.com/) -  Symmetry Investments LP是一家投资管理公司，截至2018年12月31日，管理的资产约为47亿美元. [Symmetry Autumn of Code](https://dlang.org/blog/symmetry-autumn-of-code/) .  有赞助的发展 [excel-d](https://dlang.org/blog/2017/05/31/project-highlight-excel-d/), [dpp](https://github.com/atilaneves/dpp), [autowrap](https://github.com/kaleidicassociates/autowrap), [mir-algorithm](https://github.com/libmir/mir-algorithm)，以及其他各种项目.
 * [HuntLabs](https://www.huntlabs.net)   - 使用DLang的技术小组.  具有纯D语言实现，可快速开发服务器端应用程序并构建分布式系统服务.
 
@@ -159,7 +160,7 @@
 *综合发展环境.*
 
 * [Mono-D](https://github.com/aBothe/Mono-D) -  AD语言插件 [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/) .  有配音支持.
-* [Visual D](https://github.com/dlang/visuald) -  D编程语言的Visual Studio扩展.
+* [Visual D](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) - 用于D编程语言的Eclipse插件.
 * [DCD](https://github.com/Hackerpilot/DCD)   -  D编程语言的独立自动完成程序.  可以与vim，emacs，sublime text，textadept和zeus等编辑器一起使用.  看到 [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Coedit](https://github.com/BBasile/Coedit) - 用于D编程语言的IDE，其编译器，工具和库.
@@ -284,7 +285,7 @@
 * [tkD](https://github.com/nomad-software/tkd) - 基于Tcl / Tk的D编程语言的GUI工具包.
 * [dqml](https://github.com/filcuc/dqml) -  Q编程语言的Qt绑定.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) -  D绑定 [Sciter](http://sciter.com) - 跨平台HTML / CSS /脚本桌面UI工具包.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - 动态绑定 [libui](https://github.com/andlabs/libui)
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui](https://github.com/andlabs/libui)
 
 *注意*：您还可以找到GUI库列表 [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries)，但并非现在所有的库都得到了积极维护.
 
@@ -292,7 +293,7 @@
 
 *用D *编写的操作系统
 
-* [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
+* [PowerNex](https://github.com/Vild/PowerNex) - 用D编写的内核 
 * [Trinix](https://github.com/Bloodmanovski/Trinix) - 用D编写的x64 PC混合操作系统
 * [XOmB](https://github.com/xomboverlord/xomb) - 用D编写的外部操作系统
 
@@ -379,7 +380,7 @@
 ## Logging
 *小心打印.*
 
-- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) - Phobos's upcoming standard logging facility
+- [std.experimenatal.logger](https://dlang.org/phobos/std_experimental_logger.html) -  Phobos即将推出的标准测井设施
 - [dlogg](https://github.com/NCrashed/dlogg) - 使用延迟和延迟日志记录来记录并发应用程序和守护进程， [logrotate](http://linuxcommand.org/man_pages/logrotate8.html) 支持.
 
 ## Configuration

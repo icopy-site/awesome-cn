@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="xiaohanyu/awesome-tikz"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 很棒的TikZ
 ============
 
@@ -96,7 +97,7 @@ From [CTAN](http://www.ctan.org/tex-archive/graphics/pgf/contrib/):
 -   [pxpgfmark](http://www.ctan.org/tex-archive/graphics/pgf/contrib/pxpgfmark) - 用于PGF图像间连接的e-pTEX驱动程序.
 -   [reotex](http://www.ctan.org/tex-archive/graphics/pgf/contrib/reotex) - 绘制Reo频道和电路.
 -   [rulercompass](http://www.ctan.org/tex-archive/graphics/pgf/contrib/rulercompass) - 用于直边和罗盘图的TikZ库.
--   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - 用于绘制交换架构的TikZ库.
+-   [sa-tikz](http://www.ctan.org/tex-archive/graphics/pgf/contrib/sa-tikz) - TikZ library to draw switching architectures.
 -   [schemabloc](http://www.ctan.org/tex-archive/graphics/pgf/contrib/schemabloc) - 使用TikZ绘制框图.
 -   [scsnowman](http://www.ctan.org/tex-archive/graphics/pgf/contrib/scsnowman) - 使用TikZ的雪人变种.
 -   [setdeck](http://www.ctan.org/tex-archive/graphics/pgf/contrib/setdeck) -  Set的排版卡.

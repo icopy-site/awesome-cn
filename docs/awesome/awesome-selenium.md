@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="christian-bromann/awesome-selenium"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
 &gt;精心挑选的精选清单 [Selenium](http://www.seleniumhq.org/) [resources](#resources).
@@ -18,7 +19,7 @@
 - [CasperJS](http://casperjs.org/) - 开源导航脚本和测试实用程序.
 - [Zombie.js](http://zombie.js.org/) - 疯狂快速，无头全栈测试.
 - [DalekJS](http://dalekjs.com/) - 自动跨浏览器测试.
-- [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
+- [SlimerJS](http://slimerjs.org/) - 面向Web开发人员的脚本式浏览器.
 - [Nightwatch](http://nightwatchjs.org/) - 高效，直接的Javascript端到端测试.
 - [yiewd](https://github.com/jlipps/yiewd)   - 使用最新的Harmony生成器的WD.js包装器！  用yield来摆脱回调金字塔.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - 为开发人员提供高效的测试环境以进行单元测试（主要是AngularJS）.
@@ -150,7 +151,7 @@
 ### Web Scraping / Mining
 
 - [Scrapy](http://scrapy.org) -  ** Python **，主要是刮刀/采矿机 - 快速，记录良好，可与之链接 [Django Dynamic Scraper](http://django-dynamic-scraper.readthedocs.org/en/latest/) 对于不错的采矿部署，或 [Scrapy Cloud](http://scrapinghub.com/scrapy-cloud.html) 对于PaaS（无服务器）部署，在终端或服务器独立进程中工作，可以与** Celery **一起使用，构建在** Twisted **之上.
-- [Node-Crawler](https://github.com/sylvinus/node-crawler) -  ** Node.js **用于NodeJS +服务器端jQuery的Web Crawler / Spider.
+- [Node-Crawler](https://github.com/sylvinus/node-crawler) - **Node.js** Web Crawler/Spider for NodeJS + server-side jQuery.
 
 ### Specifications
 

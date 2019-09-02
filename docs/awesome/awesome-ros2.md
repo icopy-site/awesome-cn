@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fkromer/awesome-ros2"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Robot Operating System 2 (ROS 2) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/fkromer/awesome-ros2/master/ros_logo.svg?sanitize=true" align="right" width="86">](https://raw.githubusercontent.com/ros2/ros2/wiki)
@@ -84,7 +85,7 @@
 
 ### "System" bindings
 
-- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) - Android API for ROS2. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
+- [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) -  ROS2的Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
 - [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -  Node.js版本的ROS2.0客户端. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) - 该项目使ROS2能够使用RIOT操作系统在微控制器上运行. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
 
@@ -238,7 +239,7 @@
 
 ### ROSCon JP 2018 (english slide presentations only)
 
-  -  ROS的下一步是什么？  （从幻灯片24开始） [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
+- What's next for ROS? (from slide 24 onwards) [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
 
 ### ROSCon 2018
 
@@ -248,7 +249,7 @@
 - 自动驾驶车辆上的ROS 2
 -  RViz  - 迁移到ROS 2.0的故事
 - 推出ROS 2
-- 参与ROS 2开发
+- Getting involved in ROS 2 development
 - 计划规划：插件一路走下去
 - 利用ROS2中的DDS安全性
 -  Arm DDS安全库：为ROS2增加安全保障
@@ -256,7 +257,7 @@
 - 性能测试 - 通信中间件性能测量工具
 - 适用于Android，iOS和通用Windows平台的ROS2：演示ROS2的可移植性，跨平台和跨语言功能
 - 在基于嵌入式异构平台的混合关键机器人系统上集成ROS和ROS2
-- Towards ROS 2 microcontroller meta cross-compilation
+- 面向ROS 2微控制器元交叉编译
 -  Node.js客户端和Web桥为ROS 2.0做好准备
 -  RCLAda：ROS2的Ada客户端库
 

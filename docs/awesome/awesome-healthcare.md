@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kakoni/awesome-healthcare"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精选的开源医疗保健软件，库，工具和资源的精选列表.  每个环节都经过审查，以确保项目活跃，并为医疗机构，提供商，开发商，政策专家和/或研究科学家提供价值.
@@ -23,7 +24,7 @@
   * [Odoo Medical](https://github.com/OCA/vertical-medical) - 全民健康和医院信息系统.
   * [OpenClinic](http://openclinic.sourceforge.net/) - 医疗记录系统.
   * [OpenEMR](http://www.open-emr.org/) - 电子健康记录和医疗实践管理应用程序.
-  * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
+  * [OpenEyes](http://www.openeyes.org.uk) - 眼科电子病历应用.
   * [Open Hospital](https://sourceforge.net/projects/openhospital/) - 针对贫困农村医院的电子病历软件.
   * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) - 为NHS设计的完整患者管理系统.
   * [OpenMRS](http://openmrs.org/) - 企业电子病历系统平台.
@@ -83,7 +84,7 @@
   * [FHIRBase](http://fhirbase.github.io) - 基于FHIR标准的存储.
   * [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) -  FHIR标准的.NET Core实现.
   * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) - 在GoLang通用FHIR服务器实现.
-  * [Opal](http://opal.openhealthcare.org.uk/) - 构建临床应用的框架.
+  * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit](https://github.com/ResearchKit/ResearchKit) - 软件框架，可以轻松地为医学研究或其他研究项目创建应用程序.
   * [Spark](https://github.com/furore-fhir/spark) -  FHIR服务器.
   * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) - 适用于iOS和OS X的FHIR框架上的Swift SMART.

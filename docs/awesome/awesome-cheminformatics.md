@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hsiaoyi0504/awesome-cheminformatics"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cheminformatics [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;化学信息学（也称为化学信息学，化学信息学和化学信息学）是利用计算机和信息技术应用于化学领域的一系列问题.- [Wikipedia](https://en.wikipedia.org/wiki/Cheminformatics)

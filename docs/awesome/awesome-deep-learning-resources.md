@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="guillaume-chevalier/awesome-deep-learning-resources"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## [Awesome Deep Learning Resources](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  这是我最喜欢的深度学习资源的粗略列表.  我学习如何进行深度学习对我有用，我用它来重新讨论主题或参考.
@@ -53,7 +54,7 @@
 - [Predictions made by Ray Kurzweil](https://en.wikipedia.org/wiki/Predictions_made_by_Ray_Kurzweil) -  Ray Kurzweil制作的中长期未来预测清单.
 - [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) - 必须阅读Andrej Karpathy的帖子 - 这是我学习RNN的动力，它展示了它在最基本的NLP形式中可以实现的目标.
 - [Neural Networks, Manifolds, and Topology](http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/) - 重新审视神经元如何映射信息.
-- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - Explains the LSTM cells' inner workings, plus, it has interesting links in conclusion.
+- [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) - 解释LSTM细胞的内部运作，并且结论中有一些有趣的联系.
 - [Attention and Augmented Recurrent Neural Networks](http://distill.pub/2016/augmented-rnns/) - 对于视觉动画很有趣，作为一个例子，它是一个很好的介绍注意机制.
 - [Recommending music on Spotify with deep learning](http://benanne.github.io/2014/08/05/spotify-cnns.html) - 很棒的音频聚类 - 由Spotify的实习生发布.
 - [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](https://research.googleblog.com/2016/05/announcing-syntaxnet-worlds-most.html) -  Parsey McParseface的诞生，一个神经语法树解析器.
@@ -84,7 +85,7 @@
 - [TensorFlow's GitHub repository](https://github.com/tensorflow/tensorflow) - 最知名的深度学习框架，包括高级和低级，同时保持灵活性.
 - [skflow](https://github.com/tensorflow/skflow) -  TensorFlow包装器 -  scikit-learn.
 - [Keras](https://keras.io/) -  Keras是另一个深度学习框架，如TensorFlow，它主要是高级的.
-- [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
+- [carpedm20's repositories](https://github.com/carpedm20) - 许多有趣的神经网络架构由韩国人Taehoon Kim，AKA carpedm20实施.
 - [carpedm20/NTM-tensorflow](https://github.com/carpedm20/NTM-tensorflow) - 神经图灵机TensorFlow实现.
 - [Deep learning for lazybones](http://oduerr.github.io/blog/2016/04/06/Deep-Learning_for_lazybones) -  TensorFlow中的转学习教程，用于从预训练的CNN（AlexNet 2012）的高级嵌入中获得愿景.
 - [LSTM for Human Activity Recognition (HAR)](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - 关于在时间序列上使用LSTM进行分类的我的教程.
@@ -180,7 +181,7 @@
 - [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167v3.pdf) - 批量标准化（BN）：通过对整个批次求和，然后执行线性重新缩放和移动某个可训练量来标准化层的输出.
 - [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/pdf/1505.04597.pdf) -  U-Net是一种编码器 - 解码器CNN，它也具有跳过连接，适用于每像素级别的图像分割.
 - [Deep Residual Learning for Image Recognition](https://arxiv.org/pdf/1512.03385v1.pdf) - 具有批量标准化层的非常深的残余层 - 也称为“如何过度填充具有太多层的任何视觉数据集，并且在给定足够数据的情况下使任何视觉模型在识别时正常工作”.
-- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) - 使用剩余连接改进GoogLeNet.
+- [Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning](https://arxiv.org/pdf/1602.07261v2.pdf) - For improving GoogLeNet with residual connections.
 - [WaveNet: a Generative Model for Raw Audio](https://arxiv.org/pdf/1609.03499v2.pdf) - 基于扩张的因果卷积的新架构的史诗原始语音/音乐生成，以捕获更多的音频长度.
 - [Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling](https://arxiv.org/pdf/1610.07584v2.pdf) - 用于3D模型生成的3D-GAN和来自嵌入的有趣3D家具算法（想像word2vec单词算术与3D家具表示）.
 - [Accurate, Large Minibatch SGD: Training ImageNet in 1 Hour](https://research.fb.com/publications/ImageNet1kIn1h/) - 令人难以置信的快速分布式CNN培训.
@@ -199,7 +200,7 @@
 - [Effective Approaches to Attention-based Neural Machine Translation](https://arxiv.org/pdf/1508.04025.pdf) - 探索注意机制的不同方法.
 - [Matching Networks for One Shot Learning](https://arxiv.org/pdf/1606.04080.pdf) - 通过使用注意机制和查询将图像与其他图像进行比较以进行分类，以低数据进行一次性学习的有趣方式.
 - [Google’s Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://arxiv.org/pdf/1609.08144.pdf) -  2016年：在编码器/解码器上具有注意机制的堆叠残余LSTM对于NMT（神经机器翻译）是最佳的.
-- [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz) - 基于NTM的可微分存储器的改进：现在它是可微分神经计算机（DNC）.
+- [Hybrid computing using a neural network with dynamic external memory](http://www.nature.com/articles/nature20101.epdf?author_access_token=ImTXBI8aWbYxYQ51Plys8NRgN0jAjWel9jnR3ZoTv0MggmpDmwljGswxVdeocYSurJ3hxupzWuRNeGvvXnoO8o4jTJcnAyhGuZzXJ1GEaD-Z7E6X_a9R-xqJ9TfJWBqz) - Improvements on differentiable memory based on NTMs: now it is the Differentiable Neural Computer (DNC).
 - [Massive Exploration of Neural Machine Translation Architectures](https://arxiv.org/pdf/1703.03906.pdf) - 这使得对于在框架式seq2seq问题公式中进行NMT的边界有直觉.
 -  [通过在Mel谱图上调节WaveNet的自然TTS合成
 预测]（https://arxiv.org/pdf/1712.05884.pdf） -  A. [WaveNet](https://arxiv.org/pdf/1609.03499v2.pdf) 用作声码器的条件可以是来自Tacotron 2 LSTM神经网络的生成的Mel谱图，注意从文本生成整齐的音频.
@@ -243,4 +244,4 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Guillaume Chevalier](https://github.com/guillaume-chevalier) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Guillaume Chevalier](https://github.com/guillaume-chevalier) has waived all copyright and related or neighboring rights to this work.

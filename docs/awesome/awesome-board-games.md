@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="edm00se/awesome-board-games"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img src="https://raw.githubusercontent.com/edm00se/awesome-board-games/master/./assets/images/Jon_Board.png" alt="Jon and the Board Game of Westeros" title="you know nothing, Jon Snow">
   <br />
@@ -39,7 +40,7 @@
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  -  5 |  10 |  45米|
+|   2 - 5 |       10 |    45m |
 
 ### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
 
@@ -49,12 +50,12 @@
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  1  -  8 |  13 |  90米|
+|   1 - 8 |       13 |    90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
 &gt;玩家都是作为盟友开始探索充满危险，陷阱，物品和预兆的鬼屋.
-> As players journey to new parts of the mansion, room tiles are chosen at random and placed on the game board.\
+&gt;随着玩家前往大厦的新部分，随机选择房间瓷砖并放置在游戏板上.
 &gt;最终“出没”开始，一个玩家通常“背叛”其他玩家并占据鬼魂，怪物或其他敌人的一面，而剩下的玩家合作打败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
@@ -71,7 +72,7 @@
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  3  -  8  8 |  30米|
+ |  3  -  8 |  8 |  30米|
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -84,7 +85,7 @@
  |  2  -  6 |  8 |  10-20米|
 
 ### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
-> Build a Unicorn Army. Betray your friends. Unicorns are your friends now.
+ &gt;建立一个独角兽军队.  背叛你的朋友.  独角兽现在是你的朋友.
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
@@ -281,7 +282,7 @@
 
 ### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
 
- &gt;作为一个团体，将来自最近被谋杀的幽灵的信息用来解决这个合作伙伴的谋杀案.  初学者和经验丰富的游戏玩家同样可以轻松玩每场比赛.
+> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
@@ -297,7 +298,7 @@
 
  |  球员|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
-|  4 - 16 |        8 |    45m |
+ |  4  -  16 |  8 |  45米|
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 

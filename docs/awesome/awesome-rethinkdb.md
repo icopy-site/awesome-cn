@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="d3viant0ne/awesome-rethinkdb"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h3 align="center">
 	<img width="120" src="https://raw.githubusercontent.com/d3viant0ne/awesome-rethinkdb/master/media/rethinkdb.jpg" alt="RethinkDB">
 	<br>
@@ -42,7 +43,7 @@
 - [Thinky](https://github.com/neumino/thinky) -  RethinkDB的JavaScript ORM
  - 维护者：“米歇尔”  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/neumino) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/neumino) 
 - [JSData RethinkDB](https://github.com/js-data/js-data-rethinkdb) - 用于js-data ORM的RethinkDB适配器.
- - 维护者：`JS数据组织`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
+ - 维护者：`JS数据组织&#39;  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/js-data)
 
 ##### Extension Libraries
 
@@ -102,7 +103,7 @@
 ##### Technology Integrations
 
 - [Epiphy](https://github.com/kureikain/epiphy) - 轻量级RethinkDB ORM.
- - 维护者：`Vinh Quoc Nguyen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/kureikain) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kureikain)
+ - 维护者：``Vinh Quoc Nguyen`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/kureikain) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/kureikain)
 - [lotus-rethinkdb](https://github.com/angeloashmore/lotus-rethinkdb) -  Lotus :: Model的RethinkDB适配器.
  - 维护者：&#39;Angelo Ashmore`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/angeloashmore) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/angeloashmore)
 - [RabbitMQ](https://www.rethinkdb.com/docs/rabbitmq/ruby/) - 将RethinkDB与RabbitMQ集成
@@ -114,7 +115,7 @@
 
 ##### Drivers
 
-- [RethinkDB Java](http://rethinkdb.com/docs/install-drivers/java/) - 官方支持的Java驱动程序.
+- [RethinkDB Java](http://rethinkdb.com/docs/install-drivers/java/) - Officially Supported Java Driver.
  - 维护者：`RethinkDB Team`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/ https://github.com/rethinkdb) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/rethinkdb)
 - [Rethinker](https://github.com/futurechimp/rethinker) - 与官方RethinkDb Java驱动程序一起使用的简单序列化库.
  - 维护者：`Dave Hrycyszyn`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/futurechimp) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/futurechimp)

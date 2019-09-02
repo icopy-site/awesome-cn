@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="pazguille/offline-first"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 &gt;用于创建脱机优先Web应用程序的有用资源
@@ -7,7 +8,7 @@
 
 &gt;通过https://www.html5rocks.com/en/features/offline
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome) list thing.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 
 ## W3C Specification
@@ -25,7 +26,7 @@
 &gt;此规范定义了用于Web客户端中键值对数据的持久数据存储的API.
 
 ## Newsletter
-[The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef) .  每月一次的读者，其中包括离线优先，涵盖新离线用例的理论，技术和用户体验.
+[The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef) .  每月一次的读者，其中包括离线优先，涵盖了新的离线用例的理论，技术和用户体验.
 
 ## Posts
 
@@ -99,7 +100,7 @@
 （Spencer Carli  -  2017年2月8日）
 
 [Offline-First Web Application Using Redux and PouchDB](https://stories.jotform.com/offline-first-web-applications-d2d321444510)
-（BerkayAydın -  2017年1月30日）
+（Berkay Aydin  -  2017年1月30日）
 
 [Implementing "Save For Offline" with Service Workers.](https://una.im/save-offline)
 （One Kravets  -  2017年1月26日）
@@ -144,7 +145,7 @@
 （Jeff Posnick  -  2016年12月）
 
 [Service Worker, what are you?](https://medium.com/@kosamari/service-worker-what-are-you-ca0f8df92b65#.wc6eggecd)
-（丸子麻里子 -  2016年12月1日）
+（Mariko Kosaka-Dec 1,2016）
 
 [Designed to be offline-first](https://medium.com/hypertrack/designed-to-be-offline-first-def41a3668b8#.a0u11gp4j)
 （Arjun Attam  -  2016年11月29日）
@@ -177,7 +178,7 @@
 （TiagoSimões -  2016年10月20日）
 
 [Offline strategies come to the Service Worker Cookbook](https://hacks.mozilla.org/2016/10/offline-strategies-come-to-the-service-worker-cookbook/)
-（保存 -  2016年10月19日）
+（萨尔瓦 -  2016年10月19日）
 
 ["Instant Loading" with IndexedDB (Building a PWA, Part 2)](https://bitsofco.de/bitsofcode-pwa-part-2-instant-loading-with-indexeddb/)
 （Ire Aderinokun  -  2016年10月18日）
@@ -294,7 +295,7 @@
 （迈克尔威尔士 -  2016年1月20日）
 
 [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/)
-（Tal Ater  -  2016年1月19日）
+(Tal Ater - Jan 19, 2016)
 
 [Instant Web Application](https://glebbahmutov.com/blog/instant-web-application/)
 （Gleb Bahmutov  -  2015年12月24日）
@@ -512,7 +513,7 @@
 （Jake Archibald  -  2014年5月8日）
 
 [The BMEAN Stack and Offline-First Design](http://dailyjs.com/2014/04/10/bmean/)
-（Daishi Kato  -  2014年4月11日）
+（Daishi Kato-Apr 11,2014）
 
 [Do HTML5 apps have to be online all the time?](https://www.christianheilmann.com/2014/03/23/do-html5-apps-have-to-be-online-all-the-time/)
 （Christian Heilmann  -  2014年3月23日）
@@ -555,7 +556,7 @@
 [Chrome Offline Apps](https://developer.chrome.com/apps/offline_apps)
 
 [Offline Support is Valuable, and You Can’t Add it Later](http://aanandprasad.com/articles/offline/)
-（Aanand Prasad  -  2011年8月13日）
+(Aanand Prasad - Aug 13, 2011)
 
 [Offline-first web app design](https://unhosted.org/practice/29/Offline-first-web-app-design.html)
 （Michiel B. de Jong  -  2011）
@@ -610,7 +611,7 @@
 （Ola Gasidlo  -  2015年11月19日）
 
 [Taking Your Web Apps Offline](https://www.youtube.com/watch?v=EZF1EfjQlbo)
-（Mike Nitchie  -  2015年11月16日）
+（Mike Nitchie-Nov 16,2015）
 
 [There is a client-side proxy (ServiceWorker) in your browser!](https://www.youtube.com/watch?v=etACK2qbHfc)
 （Ilya Grigorik  -  2015年11月16日）
@@ -853,7 +854,7 @@
 
 [remoteStorage](https://remotestorage.io/)：支持remoteStorage的应用自动在您的所有设备上同步数据，从桌面到平板电脑，再到智能手机，甚至是电视.
 
-[pouchdb](https://pouchdb.com/): PouchDB is an open-source JavaScript database inspired by Apache CouchDB that is designed to run well within the browser.
+[pouchdb](https://pouchdb.com/)：PouchDB是一个受Apache CouchDB启发的开源JavaScript数据库，旨在在浏览器中运行良好.
 
 [Offline.js](http://github.hubspot.com/offline/docs/welcome/)：一个非常棒的JavaScript库，可在用户失去连接时改善应用程序的体验.
 

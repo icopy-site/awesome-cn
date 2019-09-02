@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="webpack-contrib/awesome-webpack"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h3 align="center">
 	<img width="355" src="https://raw.githubusercontent.com/webpack-contrib/awesome-webpack/master/media/awesome_webpack_branding.png" alt="awesome-webpack">
 	<br>
@@ -71,7 +72,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [json Loader](https://github.com/webpack/json-loader) ：用于Webpack的json loader模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [mermaid Loader](https://github.com/popul/mermaid-loader): [mermaid](http://knsv.github.io/mermaid/)  Webpack的加载程序模块（图表）.   -  *维护者*：`Paul Musso` [！[Github] [githubicon]]（https://github.com/popul）
 - [wasm loader](https://github.com/ballercat/wasm-loader) ：用于Webpack的wasm二进制加载器模块.   -  *维护者*：`Arthur Buldauskas` [！[Github] [githubicon]]（https://github.com/wasm-loader）
-- [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack): Image minimizing loader + plugin for webpack. -- *Maintainer*: `itgalaxy inc.` [![Github][githubicon]](https://github.com/itgalaxy)
+- [Imagemin Loader/Plugin](https://github.com/itgalaxy/imagemin-webpack) ：图像最小化webpack的加载器+插件.   -  * Maintainer *：`itgalaxy inc.[！[Github] [githubicon]]（https://github.com/itgalaxy）
 - [Bin Exec Loader](https://github.com/milewski/bin-exec-loader) ：通过任何二进制文件管道任何文件   -  *维护者*：`Rafael Milewski` [！[Github] [githubicon]]（https://github.com/milewski）
 - [GraphQL Loader](https://github.com/stephen/graphql-loader) ：`.graphql`文件加载器.   -  *维护者*：`Stephen Wan` [！[Github] [githubicon]]（https://github.com/stephen）
 - [C/C++ Loader](https://github.com/ClickSimply/cpp-wasm-loader) ：以最小的捆绑膨胀加载本机C / C ++文件.   -  *维护者*：`Scott Lott` [！[Github] [githubicon]]（https://github.com/ClickSimply）
@@ -85,7 +86,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Underscore Loader](https://github.com/emaphp/underscore-template-loader)   - 下划线和Lodash模板加载器.   -  *维护者*：&#39;Emmanuel Antico` [！[Github] [githubicon]]（https://github.com/emaphp）[！[Twitter] [twittericon]]（https://twitter.com/emaphp）
 - [ngTemplate Loader](https://github.com/WearyMonkey/ngtemplate-loader)   -  Angular1模板加载器.   -  *维护者*：`Toby Rahilly` [！[Github] [githubicon]]（https://github.com/WearyMonkey）
 - [ngInlineStylesLoader](https://github.com/seveves/ng-inline-styles-loader) ：优化角度组件的内联css.   -  *维护者*：`Severin Friede` [！[Github] [githubicon]]（https://github.com/seveves）
-- [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
+- [Markup-inline Loader](https://github.com/asnowwolf/markup-inline-loader) 内联SVG到HTML  -  * Maintainer *：`Zhicheng Wang` [！[Github] [githubicon]]（https://github.com/asnowwolf）
 - [Polymer Loader](https://github.com/webpack-contrib/polymer-webpack-loader)   - 聚合物元件的装载机.   -  *维护者*：`Rob Dodson` [！[Github] [githubicon]]（https://github.com/robdodson） - `Chad Killingsworth` [！[Github] [githubicon]]（https：// github .com / ChadKillingsworth） - `Bryan Coulter` [！[Github] [githubicon]]（https://github.com/bryandcoulter）
 - [Tag Loader](https://github.com/riot/tag-loader)   -  Riot标签文件的加载器.   -  *维护者*：&#39;防暴队&#39;[！[Github] [githubicon]]（https://github.com/riot）[！[Twitter] [twittericon]]（https://twitter.com/riotjs_）
 - [Twig Loader](https://github.com/zimmo-be/twig-loader)   -  Twig模板加载器.   -  *维护者*：`Zimmo.be Team` [！[Github] [githubicon]]（https://github.com/zimmo-be）
@@ -108,7 +109,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Awesome TypeScript Loader](https://github.com/s-panferov/awesome-typescript-loader) ：Webpack的令人敬畏的TS加载程序.   -  *维护者*：`Stanislav Panferov` [！[Github] [githubicon]]（https://github.com/s-panferov)[！[Twitter] [twittericon]]（https://twitter.com/巴贝尔）
 - [Coffee Loader](https://github.com/webpack/coffee-loader) ：用于Webpack的咖啡加载器模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Bootstrap Loader](https://github.com/shakacode/bootstrap-loader) ：在Webpack包中加载Bootstrap样式.   -  * Maintainer *：`ShakaCode Team` [！[Github] [githubicon]]（https://github.com/shakacode）[！[Twitter] [twittericon]]（https://twitter.com/shakacode）
-- [PostHTML Loader](https://github.com/posthtml/posthtml-loader) ：用于Webpack的PostHTML加载器.   -  * Maintainer *：`PostHTML Team` [！[Github] [githubicon]]（https://github.com/posthtml)[！[Twitter] [twittericon]]（https://twitter.com/PostHTML）
+- [PostHTML Loader](https://github.com/posthtml/posthtml-loader): PostHTML loader for Webpack. -- *Maintainer*: `PostHTML Team` [![Github][githubicon]](https://github.com/posthtml) [![Twitter][twittericon]](https://twitter.com/PostHTML)
 - [ELM Loader](https://github.com/rtfeldman/elm-webpack-loader) ：用于Elm编程语言的Webpack加载器.   -  *维护者*：`Richard Feldman` [！[Github] [githubicon]]（https://github.com/rtfeldman）[！[Twitter] [twittericon]]（https://twitter.com/rtfeldman）
 - [Fengari Loader](https://github.com/fengari-lua/fengari-loader/)：使用运行Lua代码 [Fengari](https://fengari.io) .   -  *维护者*：`Daurnimator` [！[Github] [githubicon]]（https://github.com/daurnimator）[！[Twitter] [twittericon]]（https://twitter.com/daurnimator）
 
@@ -122,7 +123,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Worker Loader](https://github.com/webpack/worker-loader) ：Webpack的Worker loader模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Resolve URL Loader](https://github.com/bholloway/resolve-url-loader) ：解析url（）语句中的相对路径.   -  *维护者*：`Ben Holloway` [！[Github] [githubicon]]（https://github.com/bholloway）
 - [Import Loader](https://github.com/webpack/imports-loader) ：为Webpack导入加载程序模块.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
-- [SourceMap Loader](https://github.com/webpack/source-map-loader): Extract sourceMappingURL comments from modules. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
+- [SourceMap Loader](https://github.com/webpack/source-map-loader) ：从模块中提取sourceMappingURL注释.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Combine Loader](https://www.npmjs.com/package/webpack-combine-loaders)   - 将加载器数组转换为单个加载器字符串.   -  * Maintainer *：`James Friend` [！[Github] [githubicon]]（https://github.com/jsdf）
 - [Icon Font Loader](https://github.com/vusion/icon-font-loader)   - 将svgs转换为CSS中的字体图标.   -  *维护者*：`Forrest R. Zhao` [！[Github] [githubicon]]（https://github.com/rainfore）
 - [Icons Loader](https://www.npmjs.com/package/icons-loader)   - 从SVG依赖项生成iconfont.   -  *维护者*：`Mike Vercoelen` [！[Github] [githubicon]]（https://github.com/mikevercoelen）
@@ -159,7 +160,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [Rewire Plugin](https://github.com/jhnns/rewire-webpack) ：Webpack包的依赖注入.   -  *维护者*：`Johannes Ewald` [！[Github] [githubicon]]（https://github.com/jhnns）[！[Twitter] [twittericon]]（https://twitter.com/Jhnnns）
 - [HTML Webpack Plugin](https://github.com/ampedandwired/html-webpack-plugin) ：简化HTML文件的创建.   -  *维护者*：`Jan Nicklas` [！[Github] [githubicon]]（https://github.com/jantimon）[！[Twitter] [twittericon]]（https://twitter.com/jantimon）
 - [Copy Webpack Plugin](https://github.com/kevlened/copy-webpack-plugin) ：复制webpack中的文件和目录.   -  *维护者*：`Len Boyette` [！[Github] [githubicon]]（https://github.com/kevlened）[！[Twitter] [twittericon]]（https://twitter.com/kevlened）
-- [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path) ：拆分路径Webpack插件.   -  *维护者*：`Bohdan Tkachenko` [！[Github] [githubicon]]（https://github.com/BohdanTkachenko）[！[Twitter] [twittericon]]（https://twitter.com/bohdantkachenko）
+- [Split By Path](https://github.com/BohdanTkachenko/webpack-split-by-path): Split By Path Webpack Plugin. -- *Maintainer*: `Bohdan Tkachenko` [![Github][githubicon]](https://github.com/BohdanTkachenko) [![Twitter][twittericon]](https://twitter.com/bohdantkachenko)
 - [SW Precache](https://github.com/goldhand/sw-precache-webpack-plugin)   - 生成服务工作者以预先缓存捆绑.   -  *维护者*：`Will Farley` [！[Github] [githubicon]]（https://github.com/goldhand）
 - [CoreJS Plugin](https://github.com/gdi2290/core-js-webpack-plugin)   -  Core-JS作为webpack插件.   -  *维护者*：`PatrickJS` [！[Github] [githubicon]]（https://github.com/gdi2290）
 - [Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer)   - 将捆绑包表示为交互式树图的实用程序.   -  *维护者*：`Yuriy Grunin` [！[Github] [githubicon]]（https://github.com/th0r）
@@ -170,7 +171,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 - [SVG Sprite Plugin](https://github.com/TodayTix/svg-sprite-webpack-plugin)   -  SVG精灵和图标的插件.   -  *维护者*：`Jeremy Tice`（[`TodayTix`](https://github.com/TodayTix)）[！[Github] [githubicon]]（https://github.com/jetpacmonkey）[！[Twitter] [twittericon]]（https://twitter.com/jetpacmonkey）
 - [Imagemin Webpack Plugin](https://github.com/Klathmon/imagemin-webpack-plugin)   - 使用Imagemin缩小图像.   -  *维护者*：`Gregory Benner` [！[Github] [githubicon]]（https://github.com/Klathmon）[！[Twitter] [twittericon]]（https://twitter.com/Klathmon）
 - [Prepack Webpack Plugin](https://github.com/gajus/prepack-webpack-plugin)   - 预包装的webpack插件.   -  *维护者*：`Gajus Kuizinas` [！[Github] [githubicon]]（https://github.com/gajus）
-- [Modules CDN Webpack Plugin](https://github.com/mastilver/modules-cdn-webpack-plugin) - Dynamically load your modules from a CDN. -- *Maintainer*: `Thomas Sileghem` [![Github][githubicon]](https://github.com/mastilver)
+- [Modules CDN Webpack Plugin](https://github.com/mastilver/modules-cdn-webpack-plugin)   - 从CDN动态加载模块.   -  *维护者*：`Thomas Sileghem` [！[Github] [githubicon]]（https://github.com/mastilver）
 - [Generate package.json Plugin](https://github.com/lostpebble/generate-package-json-webpack-plugin)   - 将部署`package.json`中的依赖项限制为仅捆绑包实际使用的依赖项.   -  *维护者*：`Paul Myburgh` [！[Github] [githubicon]]（https://github.com/lostpebble）
 - [Progressive Web App Manifest](https://github.com/arthurbergmz/webpack-pwa-manifest)   -  PWA清单管理器和生成器.   -  *维护者*：`Arthur A. Bergamaschi` [！[Github] [githubicon]]（https://github.com/arthurbergmz）
 - [Friendly errors](https://github.com/geowarin/friendly-errors-webpack-plugin)   - 识别某些类别的webpack错误并清除，聚合和优先级.   -  *维护者*：`Geoffroy Warin` [！[Github] [githubicon]]（https://github.com/geowarin）
@@ -194,7 +195,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
 
 ### Webpack Tools
 
-- [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware) ：用于争用实时捆绑包的中间件.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
+- [Webpack Dev Middleware](https://github.com/webpack/webpack-dev-middleware): Middleware which arguments a live bundle. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [Webpack Dev Server](https://github.com/webpack/webpack-dev-server) ：提供webpack应用程序.  更新浏览器.   -  * Maintainer *：`Webpack Team` [！[Github] [githubicon]]（https://github.com/webpack）
 - [Webpack Merge](https://github.com/survivejs/webpack-merge)   - 为Webpack设计的合并.   -  *维护者*：`JuhoVepsäläinen`[！[Github] [githubicon]]（https://github.com/bebraw）[！[Twitter] [twittericon]]（https://twitter.com/bebraw）
 - [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin)   - 使用Webpack自动安装和保存deps.   -  *维护者*：`Eric Clemmons` [！[Github] [githubicon]]（https://github.com/ericclemmons）[！[Twitter] [twittericon]]（https://twitter.com/ericclemmons）
@@ -251,7 +252,7 @@ webpack接受具有依赖关系的模块，并生成表示这些模块的静态�
   -  Nodevember的Jonathan Creamer |  05年12月15日 -  [Advanced WebPack.](https://www.youtube.com/watch?v=MzVFrIAwwS8)
   -  Kyle Robinson Young |  08年7月8日 -  [Getting Started with Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
   -  Tasveer Singh在TorontoJS Tech Talk |  09年4月9日 -  [Webpack.](https://www.youtube.com/watch?v=TaWKUpahFZM)
-  -  Mountain West JS的Jeremy Lund  28-Mar-15  -  [Gift Wrap Your Code with Webpack.](https://www.youtube.com/watch?v=ANMN9M9LhNQ)
+- Jeremy Lund at Mountain West JS | 28-Mar-15 - [Gift Wrap Your Code with Webpack.](https://www.youtube.com/watch?v=ANMN9M9LhNQ)
 
 ### Courses
 

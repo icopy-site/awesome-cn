@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ahkscript/awesome-AutoHotkey"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩的精选列表 [AutoHotkey](https://autohotkey.com/)  库，库分发，脚本，工具和资源.  受到另一个人的启发 [awesome lists](https://github.com/bayandin/awesome-awesomeness) .  请阅读 [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) 在贡献之前.
@@ -172,7 +173,7 @@
 * [Automatic Window Manager](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)   - 保存并恢复每个进程的最后一个窗口位置.  论坛帖子： [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=17907)
 * [bug.n](https://github.com/fuhsjr00/bug.n)   - 平铺窗口管理器.  论坛帖子： [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 * [Min2Tray](http://junyx.breadfan.de/Min2Tray/)   - 最小化窗口到托盘等.  论坛帖子： [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
-* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - 控制所有基本窗口交互，例如拖动，调整大小，最大化，最小化，关闭，对齐网格，“保持窗口纵横比”，将窗口向上滚动到其标题栏，透明度控制.
+* [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
 * [SnapX](https://github.com/benallred/SnapX/releases)   - 通过接管其热键（Win +左/右等）并对快照位置和大小提供更细粒度的控制来增强Windows / Aero Snap.  适用于多个显示器，分辨率和DPI级别.
 * [WindowPadX](https://github.com/hoppfrosch/WindowPadX)   - 在多监视器环境中提供一些有用功能的工具.  _WindowPadX是WindowPad的增强版，最初由Lexikos发布，​​请参阅原创论坛帖子： [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
 * [WindowSaver](https://github.com/KroniK907/WindowSaver)   - 在Windows10中保存和恢复窗口布局，支持虚拟桌面和更改显示器设置.  _WindowSaver是一个增强功能 [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) 作者：Paul Troiano_
@@ -195,7 +196,7 @@
 * [AutoHotkey](https://autohotkey.com/download/) -  AutoHotkey解释器安装程序和二进制文件.
 * [AutoHotkey DLL](https://github.com/HotKeyIt/ahkdll-v1-release/)   -  AutoHotkey.dll打开AutoHotkey世界到其他编程和脚本语言.  论坛帖子： [link](https://autohotkey.com/board/topic/39588-autohotkeydll/) .  文档 [link](http://hotkeyit.ahk4.net/files/AutoHotkey-txt.html).
 * [AutoHotkey build for CE](http://www.autohotkey.net/%7EMicha/AutohotkeyCE/AutoHotkeyCEUni.CAB)   -  Pocket PC / WinCE /智能手机的AutoHotkey.  论坛帖子： [link](https://autohotkey.com/board/topic/24776-autohotkey-for-pocket-pcs-wince-smartphones/) .  文档 [link](http://www.autohotkey.net/~Micha/AutohotkeyCE/html/index.htm).
-* [IronAHK](https://github.com/polyethene/IronAHK) - Cross platform .NET rewrite - *unfinished*.
+* [IronAHK](https://github.com/polyethene/IronAHK) - 跨平台.NET重写 -  *未完成*.
 
 ### Debugging
  * [[Class] Console]（https://autohotkey.com/boards/viewtopic.php?f=6&amp;t=2116） - 此类旨在简化脚本的调试，从简单的文本处理，到输出和记录数据和数组.  GitHub上 [link](https://github.com/AfterLemon/Class_Console).
@@ -233,7 +234,7 @@
 
 ### <a name="tools-others"></a>Others
 * [GoTo](https://autohotkey.com/board/topic/95009-) - 用于任何文本编辑器的插件，可帮助您跳转到活动文件中的标签，热键，热字符串和功能.
-* [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) - 允许在AHK源代码中跳转到令牌的插件.
+* [GoToTilla](https://gist.github.com/hoppfrosch/4b4943b1311fd6a92f02) -  Addon允许在AHK源代码中跳转到令牌.
 * [Context sensitive help in any editor](https://autohotkey.com/board/topic/94493-) - 任何文本编辑器的插件，通过按F1提供上下文相关帮助.
 * [CodeQuickTester](https://autohotkey.com/boards/viewtopic.php?f=6&t=6113) -  GeekDude  - 一款轻量级动态代码测试仪.
 * [iWB2 Learner](https://sourceforge.net/projects/ahkcn/files/Recommended/iWB2%20Learner/)   - 通过jethrow  -  iWB2 Learner是一个收集Internet Explorer网页信息的工具.  论坛帖子： [link](https://autohotkey.com/board/topic/84258-iwb2-learner-iwebbrowser2/)

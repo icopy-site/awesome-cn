@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="lucasviola/awesome-tech-videos"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 *来自youtube，vimeo等的精选科技视频列表，仅仅因为
@@ -60,7 +61,7 @@
 
 ### Functional Programming
 
-- [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) 在Bodil Stokke
+- [Functional Programming](https://www.youtube.com/watch?v=DHubfS8E--o) 作者：Bodil Stokke
 - [Learning Functional Programming without Growing a Neckbeard](https://www.youtube.com/watch?v=OOvL6QAxRK4) 由Kelsey Innis提供
 - [The Algebra of Algebraic Data Types](https://www.youtube.com/watch?v=YScIPA8RbVE) 克里斯泰勒
 - [Dont fear the Monad](https://www.youtube.com/watch?v=ZhuHCtR3xq8) 作者：Brian Beckman

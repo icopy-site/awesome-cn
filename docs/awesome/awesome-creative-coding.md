@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="terkelg/awesome-creative-coding"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -23,7 +24,7 @@
 - [The Nature of Code](http://natureofcode.com/) - 使用Processing模拟自然系统.
 - [Programming Design Systems](https://programmingdesignsystems.com/) - 实际介绍平面设计的新基础.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) - 使用OpenGL进行图形渲染的系列教程.
-- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) - Designer's Guide to Processing, Arduino, and openFrameworks.
+- [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) -  Designer的Processing，Arduino和openFrameworks指南.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) - 面向程序员，视觉艺术家或设计师的openFrameworks初学者指南.
 - [Mastering openFrameworks: Creative Coding Demystified](https://www.packtpub.com/application-development/mastering-openframeworks-creative-coding-demystified) -  openFrameworks的高级深度指南.
 - [Algorithms for Visual Design Using the Processing Language](https://www.amazon.com/Algorithms-Visual-Design-Processing-Language/dp/0470375485) - 尝试设计问题以创建3D动画，GUI等.
@@ -150,11 +151,11 @@
 - [Modul8](http://www.modul8.ch/) [Mac]  - 实时视频混合和合成.
 - [Resolume](https://resolume.com/) [Mac，Win]  - 实时混合数字视频和效果.
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac]  -  VJ软件，专为实时高清视频混合和合成而设计，具有模块化用户界面.
-- [VirtualMapper](https://github.com/baku89/VirtualMapper) - Realtime preview tool for projection mapping.
+- [VirtualMapper](https://github.com/baku89/VirtualMapper) - 用于投影映射的实时预览工具.
 
 ### Online
 
-- [Shadertoy](https://www.shadertoy.com/) - Build and share shaders with the world and get inspired.
+- [Shadertoy](https://www.shadertoy.com/) - 与世界构建和共享着色器并获得灵感.
 - [GLSLbin](http://glslb.in/) - 碎片着色器沙箱，支持glslify.
 - [GLSL Sandbox](http://glslsandbox.com/) - 在线着色器编辑器和库.
 - [Shdr Editor](http://shdr.bkcore.com/) - 在线着色器编辑器.
@@ -164,7 +165,7 @@
 - [Cyos](http://cyos.babylonjs.com/) - 在线着色器编辑器.
 - [GlslEditor](http://editor.thebookofshaders.com/) - 简单的WebGL片段着色器编辑器.
 - [OpenProcessing](https://www.openprocessing.org/) - 创建并试验算法设计，处理和P5.js.
-- [P5.js Editor](https://editor.p5js.org/) -  P5.js的在线网络编辑器.
+- [P5.js Editor](https://editor.p5js.org/) - Online web editor for P5.js.
 - [LiveCodeLab](http://livecodelab.net) - 为VJ，音乐家，教师，学生，孩子们提供“按需运行”工具.
 - [Turtletoy](https://turtletoy.net/)   - 用于生成代码的简约API和在线展示.  （JavaScript）
 - [ShaderGif](https://shadergif.com/) - 使用代码（WebGL1 / 2，JavaScript Canvas和P5.js）制作的艺术的开源主页.
@@ -221,8 +222,8 @@
 
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) - 使用three.js介绍WebGL.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) - ÍñigoQuílez收集现场编码视频.
-- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) - Bruno Imbrizi go through the use of canvas for creative coding at WebExpo 2016. Interactive slides [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
-- [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者研讨会.
+- [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -  Bruno Imbrizi在WebExpo 2016上使用帆布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
+- [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) - 滑行 [@williamapan](https://twitter.com/williamapan) from his Creative developer workshop at Gobelins.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) - 关于创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) - 谈谈技术型艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) - 我如何学会停止担忧和爱线性代数.
@@ -367,7 +368,7 @@
 ### Other
 
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) -  Iain和Seb讨论了创意编码的细节.
-- [realtimevfx.com](https://realtimevfx.com/) - 实时视觉特效社区.
+- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
 - [Data Stories](http://datastori.es/) - 关于数据可视化的播客.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) - 着色器和数学相关资源的精彩集合.
 
@@ -403,7 +404,7 @@
 - [Matrices for Creative Coding](https://www.youtube.com/watch?v=4k9wTfxfkJU&list=PLxaZqnd-OQM7k2Gp3xu02VzExGKMKgqY2) -  Greg Tatum对矩阵的介绍.
 - [Making Things With Maths](https://acko.net/tv/wdcode/) - 由Steven Wittens谈论bezier曲线，程序生成，物理引擎和分形.
 - [MyPhysicsLab](https://www.myphysicslab.com/) - 交互式实时物理模拟，配方器和代码.
-- [Intuitive Math](https://intuitive-math.club/) - 对“线性代数”和“几何”等字段的解释，旨在帮助您为正在发生的事情制定视觉直觉.
+- [Intuitive Math](https://intuitive-math.club/) - 线性代数和几何等字段的解释，旨在帮助您为正在发生的事情建立视觉直觉.
 - [L-systems](https://github.com/arendsee/lsystems) - 用于L系统的Haskell包.
 - [Linear Interpolation](https://mattdesl.svbtle.com/linear-interpolation) - 线性插值简介（也称为mix / lerp）.
 - [Practical use of Vector Math in Games](https://www.gamedev.net/articles/programming/math-and-physics/practical-use-of-vector-math-in-games-r2968/) - 关于游戏数学向量的深入文章.
@@ -444,7 +445,7 @@
 - [Raven Kwok](https://ravenkwok.tumblr.com/) - 视觉艺术家Raven Kwok的Tumblr.
 - [P5Art](http://p5art.tumblr.com/) - 在Processing中真的很好地收集了实验.
 - [Echophon](http://echophon.tumblr.com/) -  Tumblr带有视觉灵感.
-- [Bees & Bombs](https://beesandbombs.tumblr.com/) -  Dumb带有GIF的Tumblr.
+- [Bees & Bombs](https://beesandbombs.tumblr.com/) - Tumblr with gifs by Dave.
 - [DevArt](https://devart.withgoogle.com/) - 通过艺术家的代码庆祝艺术，推动创造力的可能性.
 - [Folds2d](http://folds2d.tumblr.com/) - 具有曲线，曲面，标量和矢量场的Tumblr.
 - [W:BLUT Inspiration](http://inspiration.wblut.com/) -  W：Blut收集GIF，链接和图像.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-electron"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Electron [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/sindresorhus/awesome-electron/master/electron-logo.svg?sanitize=true" align="right" width="100">](https://electronjs.org)
@@ -273,7 +274,7 @@
 - [electron-download](https://github.com/electron-userland/electron-download) - 从GitHub下载电子释放拉链.
 - [ipc-stream](https://github.com/jprichardson/electron-ipc-stream) -  IPC上的双工流.
 - [is-electron-renderer](https://github.com/jprichardson/is-electron-renderer) - 检查代码是否在`main`或`renderer`中运行.
-- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
+- [electron-osx-sign](https://github.com/electron-userland/electron-osx-sign) -  macOS应用程序的代码签名.
 - [electron-detach](https://github.com/parro-it/electron-detach) - 作为分离进程重新启动Electron应用程序.
 - [ember-electron](https://github.com/felixrieseberg/ember-electron) - 构建，测试和打包Ember应用程序.
 - [electrify](https://github.com/arboleya/electrify) - 打包流星应用程序.
@@ -308,7 +309,7 @@
 - [debugtron](https://github.com/pd4d10/debugtron) - 调试生产中基于电子的应用程序.
 - [electron-ssl-pinning](https://github.com/dialogs/electron-ssl-pinning) - 防止MITM.
 - [electron-better-ipc](https://github.com/sindresorhus/electron-better-ipc) - 简化的IPC通信.
-- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - 添加对Chrome扩展程序的支持.
+- [electron-chrome-extension](https://github.com/getstation/electron-chrome-extension) - Add support for Chrome extensions.
 - [electron-ipc-proxy](https://github.com/frankwallis/electron-ipc-proxy) - 浏览器窗口和主进程之间的透明异步远程处理.
 - [trilogy](https://github.com/citycide/trilogy) -  TypeScript SQLite数据库层，支持本机C ++和纯JavaScript后端.
 
@@ -328,7 +329,7 @@
 
 ## Components
 
-- [Photon](http://photonkit.com) - 用于构建漂亮应用程序的UI工具包.
+- [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
 - [React PhotonKit](https://github.com/react-photonkit/react-photonkit) - 使用React构建的Photon组件.
 - [menubar](https://github.com/maxogden/menubar) - 菜单栏应用程序框架.
 - [cookies](https://github.com/hstove/electron-cookies) - 增加了对`document.cookie`的支持.
@@ -356,7 +357,7 @@
 - [Auto-updating apps for macOS and Windows: The complete guide](https://medium.com/@svilen/auto-updating-apps-for-windows-and-osx-using-electron-the-complete-guide-4aa7a50b904c)
 - [How To Make Your Electron App Sexy](https://blog.dcpos.ch/how-to-make-your-electron-app-sexy)
 - [Building a desktop app with Electron, React, and Redux](https://anadea.info/blog/building-desktop-app-with-electron)
-- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - New Electron API to embed web apps with fewer bugs and improved performance.
+- [Introducing BrowserView for Electron](https://blog.figma.com/introducing-browserview-for-electron-7b40b4b493d5) - 新的Electron API，可以减少错误并提高性能，从而嵌入Web应用程序.
 - [Migrating Slack’s Desktop App to BrowserView](https://slack.engineering/growing-pains-migrating-slacks-desktop-app-to-browserview-2759690d9c7b) -  Slack用`BrowserView`，Redux，Rx和TypeScript重写了他们的Electron应用程序，以解决其性能问题.
 - [Bringing Native Performance to Electron](https://blog.realm.io/native-performance-electron-realm/) -  Realm用Electron重写了他们的数据库浏览器应用程序，以获得跨平台支持.
 - [Electron on the App Store](https://medium.com/@yoannm/pushing-electron-on-the-mac-appstore-early-stages-7dcb85936f92) - 关于制作和发布Electron应用程序到Mac App Store的旅程的5部分系列.

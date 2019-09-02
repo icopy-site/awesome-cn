@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="xen0l/awesome-dtrace"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的DTrace书籍，文章，视频，工具和资源的精选列表.
@@ -129,7 +130,7 @@
 
 #### Lua
 
-- [lua-usdt](https://github.com/chrisa/lua-usdt) -  Lua的糟糕债券.
+- [lua-usdt](https://github.com/chrisa/lua-usdt) - 利比亚并列Lua.
 
 #### Node.js
 

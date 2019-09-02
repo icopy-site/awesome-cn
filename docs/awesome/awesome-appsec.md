@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="paragonie/awesome-appsec"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  用于了解应用程序安全性的精选资源列表.  包含书籍，
@@ -179,7 +180,7 @@ have [other community projects](https://paragonie.com/projects) 可能是
 
 
 
-**发布**：1989年12月13日
+**Released**: December 13, 1989
 
 
 
@@ -476,7 +477,7 @@ Padriac Brady关于构建不易受XSS攻击的软件的建议
 ## Books and ebooks
 
 
-*保护PHP：核心概念*作为一些最常见安全术语的指南，并在每天PHP中提供它们的一些示例.
+*保护PHP：核心概念*作为一些最常见的安全术语的指南，并在每天PHP中提供它们的一些示例.
 
 ### [Using Libsodium in PHP Projects](https://paragonie.com/book/pecl-libsodium)
 
@@ -506,7 +507,7 @@ Padriac Brady关于构建不易受XSS攻击的软件的建议
 
 ### [psecio/gatekeeper](https://github.com/psecio/gatekeeper)
 
-A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
+一个安全的身份验证和授权库，用于实现基于角色的访问控制和Paragon Initiative Enterprises的推荐 [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
 ### [openwall/phpass](http://www.openwall.com/phpass/)
 
@@ -557,7 +558,7 @@ PádraicBrady是Zend Framework安全专家
 列出应避免使用的标准库功能，并引用其他特定于Python的章节.
 
 
-来自NoStarch出版社的贾斯汀塞茨的黑帽蟒蛇是一本伟大的进攻性安全思想书
+来自NoStarch Press的Justin Seitz的Black Hat Python是一本出色的攻击性安全思想书
 
 
 Violent Python向您展示了如何从对攻击性计算概念的理论理解转变为实际实现.

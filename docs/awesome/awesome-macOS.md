@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="iCHAIT/awesome-macOS"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;为macOS提供的精彩应用程序，软件，工具和闪亮产品的精选列表.
+> A curated list of awesome applications, softwares, tools and shiny things for macOS.
 
  &gt; *标有的项目！[开源软件] [OSS图标]是开源软件并链接到源代码.  标有！[免费软件] [免费软件图标]的项目是免费的（如免费啤酒）.*
 
@@ -21,7 +22,7 @@
 
 ### Backup
 - [Arq](https://www.arqbackup.com/) - 加密备份到亚马逊，Dropbox，谷歌，OneDrive等.
-- [Carbon Copy Cloner](http://bombich.com) - 将Mac的增量备份和完全可启动备份创建到外部存储.
+- [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
 
 ### Chat Clients
 
@@ -42,16 +43,16 @@
 - [Cakebrew](https://www.cakebrew.com/)   -  Homebrew GUI应用程序.  [！[开源软件] [OSS图标]]（https://github.com/brunophilipe/Cakebrew）！[免费软件] [免费软件图标]
 - [CocoaRestClient](https://mmattozzi.github.io/cocoa-rest-client)   - 用于测试REST端点的应用程序.  [！[开源软件] [OSS图标]]（https://github.com/mmattozzi/cocoa-rest-client）！[免费软件] [免费软件图标]
 - [Dash](https://kapeli.com/dash) -  API文档浏览器和代码片段管理器.
-- [Flawless App](https://flawlessapp.io/) - macOS tool for visual quality check of mobile app right inside iOS simulator.
+- [Flawless App](https://flawlessapp.io/) - 用于iOS模拟器内移动应用程序视觉质量检查的macOS工具.
 - [Gas Mask](https://github.com/2ndalpha/gasmask)   - 简单的主机文件管理器，允许编辑主机文件并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/2ndalpha/gasmask）！[免费软件] [免费软件图标]
 - [gitbar](https://github.com/Shikkic/gitbar)   - 菜单栏上的开源github贡献统计数据.  [！[开源软件] [OSS图标]]（https://github.com/Shikkic/gitbar）！[免费软件] [免费软件图标]
-- [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
+- [GitHub Desktop](https://desktop.github.com/)   - 使用GitHub的GUI.  ！[免费软件] [免费软件图标]
 - [GitUp](http://gitup.co/)   - 一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)   -  GitX的一个分支（变体），通过生产力导向的变化进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
-- [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon]](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
-- [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
+- [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
+- [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的破损链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
 - [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
@@ -103,7 +104,7 @@
 - [Path Finder](http://www.cocoatech.com/pathfinder/) - 一个强大的双窗格浏览器替代Finder.
 - [Quicklook-Plugins](https://github.com/sindresorhus/quick-look-plugins) - 额外的quicklook插件列表，可以在Finder中预览更多文件类型.
 - [TotalFinder](http://totalfinder.binaryage.com/) -  Finder的强大替代品.
-- [XtraFinder](https://www.trankynam.com/xtrafinder/) - Adds useful features to Finder. ![Freeware][Freeware Icon]
+- [XtraFinder](https://www.trankynam.com/xtrafinder/)   - 为Finder添加有用的功能.  ！[免费软件] [免费软件图标]
 
 
 ### Games
@@ -157,7 +158,7 @@
 - [Karabiner](https://pqrs.org/osx/karabiner/)   - 功能强大的键盘定制器.  [！[开源软件] [OSS图标]]（https://github.com/tekezo/Karabiner）！[免费软件] [免费软件图标]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) - 根据键盘，菜单，位置，添加的设备等触发器自动执行例行操作.
 - [Keytty](http://keytty.com)   - 使您可以通过几个击键来控制鼠标.  鼠标键替代.
-- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - Start applications, navigate folders, manipulate files, control your Mac and much more just by using the keyboard.
+- [LaunchBar](https://www.obdev.at/products/launchbar/index.html) - 只需使用键盘即可启动应用程序，导航文件夹，操作文件，控制Mac等等.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - 适用于Mac，iPad和iPhone的令人难以置信的任务管理平台.
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - 非常适合收集信息，概述想法，为任何类型的写作添加结构等等.
 - [Paste](http://pasteapp.me) - 为Mac复制和粘贴的新方法.
@@ -168,7 +169,7 @@
 - [Rocket](http://matthewpalmer.net/rocket/)   - 使用Slack风格的快捷键，可以更快，更轻松地输入表情符号.  ！[免费软件] [免费软件图标]
 - [SelfControl](https://selfcontrolapp.com/)   - 阻止访问分散注意力的网站.  [！[开源软件] [OSS图标]]（https://github.com/SelfControlApp/selfcontrol/）！[免费软件] [免费软件图标]
 - [Simplenote](https://simplenote.com/)   - 基于云的同步的简单跨平台笔记应用程序.  ！[免费软件] [免费软件图标]
-- [TaskPaper](https://www.taskpaper.com/) - 纯文本待办事项列表.
+- [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 - [Telephone](http://www.64characters.com/telephone/)   -  SIP软电话.  通过Internet或公司网络拨打电话.  [！[开源软件] [OSS图标]]（https://github.com/eofster/Telephone）！[免费软件] [免费软件图标]
 - [TextExpander](https://smilesoftware.com/textexpander) - 为常用文本和图片创建自定义键盘快捷键.
 - [Timing](https://timingapp.com/)   -  Mac的自动时间和生产力跟踪.  帮助您保持正常工作，并确保如果您按小时计费，则不会丢失计费时间.
@@ -232,7 +233,7 @@
 - [MacPass](https://macpass.github.io/)   - 密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
 - [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/ci/master/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   - 方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
-- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)   - 用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
+- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
 - [Monodraw](http://monodraw.helftone.com/) - 强大的ASCII艺术编辑器.
 - [Mounty](http://enjoygineering.com/mounty/) - 一种在读写模式下在macOS 10.9+下重新安装写保护NTFS卷的小工具.
 - [Noizio](http://noiz.io/) - 环境声音均衡器，可放松或提高工作效率.

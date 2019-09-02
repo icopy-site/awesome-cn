@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="lauris/awesome-scala"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 令人敬畏的斯卡拉 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
@@ -166,10 +167,10 @@
 
 *与json一起工作的图书馆.*
 
-* [argonaut](http://argonaut.io/) - Purely Functional JSON in Scala.
+* [argonaut](http://argonaut.io/) -  Scala中的纯功能JSON.
 * **[circe ★ 824 ⧗ 2](https://github.com/travisbrown/circe)**  - 基于Argonaut的JSON库，取决于Cats
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -  Json的scala diff / patch库
-* [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) -  Jackson的附加模块，以支持Scala特定的数据类型.
+* [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 252 ⧗ 4](https://github.com/non/jawn) - 快速json解析器（据他们说，与java gson / jackson速度竞争）.
 * **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)**  -  Project旨在提供其他scala json库使用的单个AST.
 * [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) - 用于编译时生成超快JSON编解码器的Scala宏.
@@ -216,7 +217,7 @@
 
 ## Science and Data Analysis
 
-*用于科学计算，数据分析和数字处理的图书馆.*
+*Libraries for scientific computing, data analysis and numerical processing.*
 
 * **[Algebird ★ 1478 ⧗ 0](https://github.com/twitter/algebird)**  -  Scala的抽象代数.
 * [Axle ★ 51 ⧗ 9](https://github.com/axlelang/axle) - 基于Spire的DSL，用于科学云计算.
@@ -261,7 +262,7 @@
 * **[Scalding ★ 2783 ⧗ 2](https://github.com/twitter/scalding)**  - 用于Hadoop MapReduce的级联抽象的Scala绑定.
 * [Schemer](https://github.com/indix/schemer)   -  CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) - 一个Scala API for [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
-* [Scrunch](http://crunch.apache.org/scrunch.html) - 一个Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了编写，测试和运行MapReduce管道的框架.
+* [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) 它提供了编写，测试和运行MapReduce管道的框架.
 * [Spark](http://spark.apache.org/)   - 闪电快速集群计算 - 迭代算法（内存缓存）比Hadoop快100倍，单通MapReduce作业比Hadoop快10倍.  与支持YARN的Hadoop集群兼容，可以在Mesos上运行，也可以在独立模式下运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) - 一个sbt插件，可帮助部署Apache Spark独立群集并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) - 基于Spark Streaming的实时聚合.
@@ -348,7 +349,7 @@
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)   - 一个迷你Scala实用程序库.  兼容功能编程初学者.  具有验证，monad变换器，HLists，Union类型.
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) - 用于定义不同Id类型的公共接口的库.
 * [Lamma ★ 70 ⧗ 8](https://github.com/maxcellent/lamma) - 用于生成日期和计划的Scala日期库.
-* [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) - Large off-heap arrays (> 2GB) and mmap files.
+* [LArray ★ 225 ⧗ 25](https://github.com/xerial/larray) - 大型堆外数组（&gt; 2GB）和mmap文件.
 * [Log4s](http://www.log4s.org/) - 快速，Scala友好的日志记录绑定 [SLF4J](http://slf4j.org/) .  使用宏来获得极致性能.
 * [LogStage ★ 75 ⧗ 0](https://github.com/7mind/izumi) - 使用[SLF4J]集成的Scala零工作结构记录器.
 * **[Monocle ★ 757 ⧗ 0](https://github.com/julien-truffaut/Monocle)**  - 用于纯函数操作不可变对象的光学/镜头库.
@@ -387,10 +388,10 @@
 * [Google4s ★ 7 ⧗ 3](https://github.com/toknapp/google4s/) -  Scala中Google云服务的精简功能库（KMS，云存储，PubSub）
 * [mailgun4s ★ 7 ⧗ 4](https://github.com/outr/mailgun4s) - 围绕Mailgun API的Scala包装器
 * [media4s ★ 5 ⧗ 3](https://github.com/outr/media4s) - 围绕ffmpeg，ffprobe，ImageMagick以及与媒体相关的其他工具的Scala命令行包装器.
-* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - A Scala compiler plugin that improves program performance -- [see the project web site](http://scala-miniboxing.org) - 减少盒子
+* [Miniboxing](https://github.com/miniboxing/miniboxing-plugin) - 一个可提高程序性能的Scala编译器插件 -  [see the project web site](http://scala-miniboxing.org) - 减少盒子
 * [Openquant ★ 73 ⧗ 0](https://github.com/openquant) -  Scala开源量化交易平台
 * [Ostinato ★ 27 ⧗ 7](https://github.com/marianogappa/ostinato) - 在服务器（Scala）和浏览器（ScalaJS）上运行的国际象棋库
-* [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - Simplified wrapper to create PDFs in Scala.
+* [pdf4s ★ 3 ⧗ 3](https://github.com/outr/pdf4s) - 简化包装器以在Scala中创建PDF.
 * [Play Swagger ★ 174 ⧗ 3](https://github.com/iheartradio/play-swagger) - 自动为Play REST API创建Swagger文档
 * [powerscala ★ 11 ⧗ 80](https://github.com/outr/powerscala) - 强大的框架，在Scala语言之上提供许多有用的实用程序和功能.
 * [pprint](https://github.com/lihaoyi/pprint) - 适用于Scala值和类型的漂亮打印机，便于阅读和调试
@@ -420,7 +421,7 @@
 * HTTP客户端的Scala库和包装器.*
 
 * [Akka HTTP ★ 306 ⧗ 1](https://github.com/akka/akka-http) -  Streaming-first HTTP服务器/模块 [Akka](https://github.com/akka/akka).
-* [Dispatch ★ 366 ⧗ 6](https://github.com/dispatch/reboot) - Library for asynchronous HTTP interaction. It provides a Scala vocabulary for Java’s [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
+* [Dispatch ★ 366 ⧗ 6](https://github.com/dispatch/reboot)   - 用于异步HTTP交互的库.  它为Java提供了Scala词汇表 [async-http-client](https://github.com/AsyncHttpClient/async-http-client).
 * **[Finch.io ★ 1005 ⧗ 3](https://github.com/finagle/finch)**  - 纯功能REST API [Finagle](https://github.com/twitter/finagle).
 * [Fintrospect ★ 37 ⧗ 0](http://fintrospect.io) - 实现快速，类型安全的HTTP Web服务 [Finagle](https://github.com/twitter/finagle).
 * **[Http4s ★ 732 ⧗ 3](https://github.com/http4s/http4s)**  -  HTTP的最小惯用Scala接口.
@@ -430,7 +431,7 @@
 * **[scalaj-http ★ 580 ⧗ 0](https://github.com/scalaj/scalaj-http)**  -  HttpURLConnection的简单scala包装器（包括OAuth支持）.
 * [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) -  Scala的XML数据绑定工具，支持W3C XML Schema（xsd）和Web服务描述语言（wsdl）作为输入文件.
 * [Spray](http://spray.io/) - 用于http交互的基于Actor的库.
-* [sttp](https://github.com/softwaremill/sttp) - 您一直想要的Scala HTTP客户端！
+* [sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) - 支持与websocket服务器进行双向通信的库.
 * [requests-scala ★ 326](https://github.com/lihaoyi/requests-scala) - 流行的Python请求HTTP客户端的Scala端口：灵活，直观且易于使用.
 
@@ -488,7 +489,7 @@
 * [sbt-updates ★ 316 ⧗ 3](https://github.com/rtimush/sbt-updates) - 显示sbt项目的依赖项更新.
 * [sbt-versions ★ 14 ⧗ 167](https://github.com/sksamuel/sbt-versions) - 插件，用于检查项目依赖项的更新版本.
 * [sbt-view ★ 7 ⧗ 18](https://github.com/nestorpersist/sbt-view) - 在浏览器窗口中查看ScalaDoc / JavaDoc.
-* **[sbteclipse ★ 632 ⧗ 0](https://github.com/typesafehub/sbteclipse)** - Create Eclipse project definitions from sbt builds.
+* **[sbteclipse ★ 632 ⧗ 0](https://github.com/typesafehub/sbteclipse)**  - 从sbt版本创建Eclipse项目定义.
 * [scala-clippy ★ 211 ⧗ 5](https://github.com/softwaremill/scala-clippy) -  Scala编译器错误的好建议和着色
 * [ScalaKata2 ★ 79 ⧗ 0](https://github.com/MasseGuillaume/ScalaKata2) -  Scala游乐场和文档工具.
 * [sbt-hepek ★ 5 ⧗ 0](https://github.com/sake92/sbt-hepek) - 使用Scala代码创建静态网站（将`object`渲染为文件！）.

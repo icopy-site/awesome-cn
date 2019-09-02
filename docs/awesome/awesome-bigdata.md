@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="onurakpolat/awesome-bigdata"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Big Data
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -120,7 +121,7 @@
 
  **注意**：业界存在一些术语混淆，两种不同的东西称为“柱状数据库”.  这里列出的一些是围绕“键 - 映射”数据模型构建的分布式持久性数据库：所有数据都有一个（可能是复合的）密钥，键值对的映射与之关联.  在一些系统中，多个这样的值映射可以与密钥相关联，并且这些映射被称为“列族”（其中值映射键被称为“列”）.
 
- 另一组也称为“柱状数据库”的技术的特点是它如何在磁盘或内存中存储数据 - 而不是以传统方式存储数据，其中给定密钥的所有列值彼此相邻存储，“逐行”，这些系统将所有*列*值相互存储.  因此，需要更多的工作来获取给定键的所有列，但是需要更少的工作来获取给定列的所有值.
+ 另一组也称为“柱状数据库”的技术的特征在于它如何在磁盘或内存中存储数据 - 而不是以传统方式存储数据，其中给定密钥的所有列值彼此相邻存储，“逐行”，这些系统将所有*列*值相互存储.  因此，需要更多的工作来获取给定键的所有列，但是需要更少的工作来获取给定列的所有值.
 
  前一组在这里被称为“关键地图数据模型”.  这些和之间的界限 [Key-value Data Model](#key-value-data-model) 商店相当模糊.
 
@@ -336,7 +337,7 @@
 * [Apache Zookeeper](http://zookeeper.apache.org/) - 流程管理的集中服务.
 * [Google Chubby](https://research.google.com/archive/chubby.html) - 松散耦合分布式系统的锁定服务.
 * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) - 用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或响应式Web服务的服务.
-* [Linkedin Norbert](https://engineering.linkedin.com/data) - cluster manager.
+* [Linkedin Norbert](https://engineering.linkedin.com/data) - 集群经理.
 * [Mara](https://github.com/mara/data-integration) - 简单易懂的ETL框架，介于普通脚本和Apache Airflow之间
 * [OpenMPI](https://www.open-mpi.org/) - 消息传递框架.
 * [Serf](https://www.serf.io/) - 用于服务发现和编排的分散式解决方案.
@@ -418,7 +419,7 @@
 * [Apache Ambari](http://ambari.apache.org/) -  Hadoop管理的运营框架.
 * [Apache Bigtop](http://bigtop.apache.org//) -  Hadoop生态系统的系统部署框架.
 * [Apache Helix](http://helix.apache.org/) - 集群管理框架.
-* [Apache Mesos](http://mesos.apache.org/) - cluster manager.
+* [Apache Mesos](http://mesos.apache.org/) - 集群经理.
 * [Apache Slider](https://github.com/apache/incubator-slider) - 是一个YARN应用程序，用于在YARN上部署现有的分布式应用程序.
 * [Apache Whirr](http://whirr.apache.org/) - 用于运行云服务的库集.
 * [Apache YARN](https://hortonworks.com/hadoop/yarn/) - 集群管理器.
@@ -559,7 +560,7 @@
 * [Arbor](https://github.com/samizdatco/arbor) - 使用web worker和jQuery的图形可视化库.
 * [Banana](https://github.com/LucidWorks/banana)   - 可视化存储在Solr中的日志和带时间戳的数据.  Kibana港.
 * [Bloomery](https://github.com/ufukomer/bloomery) -  Impala的Web UI.
-* [Bokeh](http://bokeh.pydata.org/en/latest/) - 功能强大的Python交互式可视化库，面向现代Web浏览器进行演示，目标是以D3.js的风格提供优雅，简洁的新颖图形构造，同时通过非常大或流式传输提供高性能交互功能数据集.
+* [Bokeh](http://bokeh.pydata.org/en/latest/) - 功能强大的Python交互式可视化库，面向现代Web浏览器进行演示，目标是以D3.js的风格提供优雅，简洁的新颖图形构造，同时通过非常大的流媒体或流媒体提供高性能交互功能数据集.
 * [C3](http://c3js.org/) - 基于D3的可重用图表库
 * [CartoDB](https://github.com/CartoDB/cartodb) - 地理空间数据库的开源或免费增值托管，具有强大的前端编辑功能和强大的API.
 * [chartd](http://chartd.co/) - 仅具有img标签的响应式视网膜兼容图表.
@@ -674,7 +675,7 @@
 * [Spark in Action](https://www.manning.com/books/spark-in-action) & [Spark in Action 2nd Ed.](https://www.manning.com/books/spark-in-action-second-edition)   -  Spark in Action教您使用Spark有效处理批量和流数据所需的理论和技能.  完全更新Spark 2.0.
 * [Kafka in Action](https://www.manning.com/books/kafka-in-action) -  Kafka in Action是一个快节奏的介绍，与Kafka合作的每个方面都需要真正获益.
 * [Fusion in Action](https://www.manning.com/books/fusion-in-action) -  Fusion in Action教您构建功能齐全的数据分析管道，包括文档和数据搜索以及分布式数据集群.
-* [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) -  Reactive Data Handling是由Manuel Bernhardt选择的五个精心挑选的章节的集合，它们向您介绍构建能够处理大数据负载的实时处理的反应式应用程序 - 免费电子书！ 
+* [Reactive Data Handling](https://www.manning.com/books/reactive-data-handling) - Reactive Data Handling is a collection of five hand-picked chapters, selected by Manuel Bernhardt, that introduce you to building reactive applications capable of handling real-time processing with large data loads--free eBook! 
 
 #### Distributed systems
 * [Distributed Systems for fun and profit](http://book.mixu.net/distsys/)   - 分布式系统理论.  包括有关时间和排序，复制和不可能性结果的部分.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hubtee/awesome-opensource-documents"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Open Source Documents
 
  这不是免费编程书籍的列表.  这是一个包含开源或开源许可文档，指南和书籍的策划列表，可以在同一许可下读取，使用，修改，翻译，重新分发甚至重写.
@@ -45,14 +46,14 @@
 [site-introtocom]：http：//www.computingbook.org/
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
 [site-pfpl]：http：//www.cs.cmu.edu/~rwh/plbook/
-[site-plai]：http：//cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
+[网站]：http：//cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
 [site-sicp]：https：//mitpress.mit.edu/sicp/full-text/book/book.html
 [site-htdp]：http：//www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]：https：//www.crypto101.io/
 [repo-crypto-101]：https：//github.com/crypto101/book
 [repo-littleosbook]：https：//github.com/littleosbook/littleosbook
 [site-littleosbook]：http：//littleosbook.github.io/
-[site-section]：http：//opendatastructures.org/
+[site-par]：http：//opendatastructures.org/
 [repo-ods]：https：//github.com/patmorin/ods
 [site-algorithm-etc]：http：//jeffe.cs.illinois.edu/teaching/algorithms/
 [site-michiel-structures]：http：//cglab.ca/~michiel/DiscreteStructures/
@@ -79,7 +80,7 @@
 [repo-jupyter-book]：https：//github.com/Carreau/jupyter-book
 [site-jupyter-book]：https：//carreau.gitbooks.io/jupyter-book/content/
 [site-jstatsoft]：http：//www.jstatsoft.org/index
-[站点baymh] http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[site-baymh]：http：//camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]：https：//github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
 [site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
 [site-abinn]：http：//www.dkriesel.com/en/science/neural_networks
@@ -127,7 +128,7 @@
 
 [repo-jeff-collision]：https：//github.com/jeffThompson/CollisionDetection
 [site-jeff-collision]：http：//www.jeffreythompson.org/collision-detection/
-[repo-hott-book]: https://github.com/HoTT/HoTT
+[repo-hott-book]：https：//github.com/HoTT/HoTT
 [site-hott-book]：http：//homotopytypetheory.org/
 
 
@@ -206,7 +207,7 @@
 [repo-http2-explanation]：https：//github.com/bagder/http2-explained
 [repo-browser-diet]：https：//github.com/zenorocha/browser-diet
 [site-browser-diet]：http：//browserdiet.com/
-[site-domain]：http：//domenlightenment.com/
+[site-domain-domain]：http：//domenlightenment.com/
 [site-restful-web-apis]：http：//restfulwebapis.org/rws.html
 [repo-north]：https：//github.com/north/north
 [site-north]：http：//pointnorth.io/
@@ -247,7 +248,7 @@
 * [数据新闻手册] [site-data-journalism-handbook]（cc-sa） - 数据新闻手册是一本免费的开源参考书，适用于对新兴数据新闻领域感兴趣的任何人
 * [D3.js简介] [repo-intro-to-d3]（[Site] [site-intro-to-d3]，Apache 2.0） - 本教程提供了D3.js的快速介绍，这是一个Javascript库，用于在浏览器中创建数据可视化.
 * [代码的性质] [repo-natureofcode]（[Site] [site-natureofcode]，cc-nc，LGPL） - 本书重点介绍使用Processing进行自然系统计算机模拟的编程策略和技术
-* [数据科学45分钟简介] [repo-data-science-45min]（公共领域） -  Ipython笔记本演示文稿，用于从基本编程，统计和机器学习技术入手
+* [数据科学45分钟简介] [repo-data-science-45min]（公共领域） -  Ipython笔记本演示文稿，用于开始基本编程，统计和机器学习技巧
 * [数据+设计] [repo-data-design]（[网站] [网站数据设计]，cc-nc-sa） - 准备和可视化信息的简单介绍
 * [D3 101截屏视频] [repo-d3-101-screencasts]（[网站] [网站-d3-101-截屏视频]，麻省理工学院） -  Curran Kelleher的D3.js截屏视频
 * [专题制图指南] [repo-themacg]（[网站] [site-themacg]，cc-nc） - 专题制图基本原则的简短友好指南.
@@ -296,11 +297,11 @@
 * [RxMarbles] [repo-rxmarbles]（[Site] [site-rxmarbles]，BSD） -  Rx Observables的交互图
 
 [site-rxmarbles]：http：//rxmarbles.com/
-[repo-rxmarbles]：https：//github.com/stattz/rxmarbles
+[repo-rxmarbles]：https：//github.com/staltz/rxmarbles
 [repo-npr-bp]：https：//github.com/nprapps/bestpractices
 [site-xyminutes]：https：//learnxinyminutes.com/
 [repo-xyminutes]：https：//github.com/adambard/learnxinyminutes-docs
-[repo-piece]：https：//github.com/peco/peco
+[rap-piece]：https：//github.com/peco/peco
 [repo-10up-bp]：https：//github.com/10up/Engineering-Best-Practices
 [site-10up-bp]: https://10up.github.io/Engineering-Best-Practices/
 [site-zguide]：http：//zguide.zeromq.org/
@@ -430,7 +431,7 @@
 * [通过示例] [repo-go-by-example]（cc） -  Go by Example是Go使用带注释的示例程序的实用介绍
 * [使用Golang构建Web应用程序] [repo-bwawg]（cc-sa） -  golang电子书介绍如何使用golang构建Web
 
-[repo-zawg]：https：//github.com/astaxie/build-web-application-without
+[repo-bwawg]：https：//github.com/astaxie/build-web-application-with-golang
 [repo-go-by-example]：https：//github.com/mmcgrana/gobyexample
 
 <a name='haskell'></a>
@@ -451,7 +452,7 @@
 *学习JavaScript设计模式（[Site] [site-ljdp]，cc-nc-nd） - 在本书中，我们将探索将经典和现代设计模式应用于JavaScript编程语言
 * [JavaScript-Garden] [repo-javascript-garden]（[Site] [site-javascript-garden]，麻省理工学院） - 关于JavaScript语言最古怪部分的文档集合
 * [ECMAScript 6特点] [repo-es6-features]（MIT） -  ECMAScript 6，也称为ECMAScript 2015，是ECMAScript标准的最新版本
-* [React Primer Draft] [repo-react-primer]（GNU） - 使用React构建单页应用程序的入门
+* [React Primer Draft][repo-react-primer] (GNU) - A primer for building Single-Page Applications with React
 * [Angular Style Guide] [repo-angular-style-guide]（MIT） -  Angular Style Guide：Angular开发团队通过良好实践提供一致性的起点
 * [JavaScript：正确的方式] [repo-jstherightway]（[Site] [site-jstherightway]，cc-nc-sa） - 这是一本旨在向新开发人员介绍JavaScript并帮助有经验的开发人员了解更多有关其最佳的指南做法
 * [Idiomatic JavaScript] [repo-idiomatic-js]（cc） - 编写一致，惯用JavaScript的原则
@@ -468,7 +469,7 @@
 * [stream-handbook] [repo-stream-handbook]（cc） - 如何用流编写节点程序
  * [你不知道JS] [repo-you-dont-know-js]（[Site] [site-you-dont-know-js]，cc-nc-nd） - 一本关于JavaScript的系列丛书.  @YDKJS在Twitter上.
 * [CasperJS] [repo-casperjs]（[Site] [site-casperjs]，麻省理工学院） -  CasperJS的文档
-* [Man.js指南] [repo-man]（[网站] [网站人]，麻省理工学院） -  Ember.js官方指南
+* [Ember.js指南] [repo-emberjs]（[网站] [site-emberjs]，麻省理工学院） -  Ember.js官方指南
 * [React Document] [repo-react]（[Site] [site-react]，cc） -  React的文档
 * [Flux Application Architecture] [repo-flux]（[Site] [site-flux]，cc） -  Flux应用程序架构的文件
 * [Redux Document] [repo-redux]（[Site] [site-redux]，麻省理工学院） -  Redux的文档
@@ -481,7 +482,7 @@
 [repo-react]：https：//github.com/facebook/react/tree/master/docs
 [site-react]：https：//facebook.github.io/react/docs/getting-started.html
 [repo-man]：https：//github.com/emberjs/guides/
-[site-man]：https：//guides.emberjs.com/v2.0.0/
+[site-human]：https：//guides.emberjs.com/v2.0.0/
 [site-casperjs]：https：//casperjs.readthedocs.org/en/latest/
 [repo-casperjs]：https：//github.com/n1k0/casperjs/blob/master/docs
 [site-you-dont-know-js]：https：//www.kickstarter.com/projects/getify/you-dont-know-js-book-series
@@ -726,7 +727,7 @@
 [site-phpmyadmin]：https：//phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
 [repo-omegat]：http：//sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
 [site-omegat]：http：//omegat.sourceforge.net/manual-standard/
-[repo]：https：//github.com/basho/basho_docs
+[涟漪]：https：//github.com/basho/basho_docs
 [site-riak]：http：//docs.basho.com/riak/latest/
 [site-sqlalchemy]：http：//docs.sqlalchemy.org/en/latest/index.html
 [repo-ansible-document]：https：//github.com/ansible/ansible/tree/devel/docsite
@@ -740,11 +741,11 @@
 <a name='korean'></a>
 ### Korean
 
- 本书面向不熟悉Python的读者以及之前从未编程的读者.Python（site-jump-to-python，cc-nc-nd）的.  我试图清楚地写出编程中使用的技术术语，并且我在不强调Python语言的个别特征的情况下解释了Python语言中与编程相关的问题.
+ *跳转到Python（[Site] [site-jump-to-python]，cc-nc-nd） - 这本书面向刚接触该语言的读者和那些从未编程过的人.做吧.  我试图解决编程中使用的技术术语，以便可以很容易地理解和解释它们，这样我就可以通过Python语言理解编程的一般方面，而不强调语言的个别特征.
 * [emacsbook] [repo-emacsbook]（cc-nc）
-*稳定，自由和有趣：韩国开源开发者的故事（[网站] [site-osdi]，cc-nc-nd）
+*不断，自由和有趣：韩国开源开发者谈话（[网站] [site-osdi]，cc-nc-nd）
 
-[site-hanged]：http：//osdi.insightbook.co.kr/
+[site-hanging]：http：//osdi.insightbook.co.kr/
 [repo-emacsbook]：https：//github.com/tsgates/emacsbook
 [site-jump-to-python]：https：//wikidocs.net/book/1
 
@@ -775,7 +776,7 @@
 ## Japanese
 
 * [Android开发培训课程] [repo-and-training]（[网站] [网站和培训]，Apache 2.0） - 用于Android应用开发的培训课程存储库
-* [Hatena教科书] [repo-hatena-book]（cc-nc-sa） -  Hatena培训教材
+* [Hatena教科书] [repo-hatena-book]（cc-nc-sa）-Hatena培训教材
 
 [repo-hatena-book]：https：//github.com/hatena/Hatena-Textbook
 [repo-and-training]：https：//github.com/mixi-inc/AndroidTraining

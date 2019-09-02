@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="J2TeaM/awesome-AutoIt"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome AutoIt
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -26,10 +27,10 @@
 
 - [Active Directory (by water)](https://www.autoitscript.com/forum/index.php?showtopic=106163)   - 广泛的库来控制和操作Windows活动目录.  链接到文档页面.
 - [GTK+ (by prazetto)](https://www.autoitscript.com/forum/index.php?showtopic=150231)   -  GTK + Framework |  窗口小部件.
-- [IUIAutomation MS framework (by junkew)](https://www.autoitscript.com/forum/index.php?showtopic=153520) -  IUIAutomation MS框架自动化chrome，FF，IE等.
+- [IUIAutomation MS framework (by junkew)](https://www.autoitscript.com/forum/index.php?showtopic=153520) - IUIAutomation MS framework to automate chrome, FF, IE etc.
 - [Java (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=87956)   - 在应用程序和Java应用程序之间创建访问桥.  允许您自动化某些Java应用程序.
 - [SAP (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=86574) -  SAP业务管理自动化.
-- [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) -  SAPWizard UDF.
+- [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) -  SAP向导UDF.
 - [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - 使用AutoIt代码构建您自己的服务.
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - 低级别控制无线局域网.
 - [AutoItMonkey](https://github.com/ohtejera/AutoItMonkey) -  AutoItMonkey是一个在Android模拟器或设备上运行的UDF，可生成用户事件的伪随机流，如点击，触摸或手势，以及许多系统级事件.
@@ -44,7 +45,7 @@
 - [_FF_AutoLogin (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=124330) - 这是FireFox和FF.au3的自动登录功能和登录功能生成器.
 - [_FF_DM (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=92035) -  UDF控制FireFox下载管理器（不是下载窗口）.
 - [_FF_FoxBox (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91650) -  UDF用FF.au3控制Fox！Box（AVM FRITZ！Box的Mozilla Firefox扩展）.
-- [_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665) - UDF to control Screengrab! (FireFox-AddOn) with FF.au3.
+- [_FF_Screengrab (by Stilgar)](https://www.autoitscript.com/forum/index.php?showtopic=91665)   -  UDF来控制Screengrab！  （FireFox-AddOn）与FF.au3.
 - [_HTML (by Stilgar)](https://www.autoitscript.com/forum/topic/124330-_htmlau3-v101/) - 从任何HTML（XML）源获取信息，无需任何浏览器.
 - [HTMLDocumentEvents (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=166542) - 跟踪IE文档事件.
 - [IEEx (by SmOke_N)](https://www.autoitscript.com/forum/index.php?showtopic=167035) - 带有一些Javascript选项的IE扩展库.
@@ -86,7 +87,7 @@
 - [LZMA (by trancexx)](https://www.autoitscript.com/forum/index.php?showtopic=87441) -  LZMA（原生Windows）.
 - [LZMA Compression (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=112273) -  LZMA压缩UDF.
 - [MessagePack (by Ward)](https://www.autoitscript.com/forum/index.php?showtopic=166634)   -  MessagePack是一种有效的二进制序列化格式.  它允许您在多种语言（如JSON）之间交换数据.  但它更快更小.
-- [Package (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=138838) - 包UDF.
+- [Package (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=138838) -  UDF包.
 - [pZip (by asdf8)](https://www.autoitscript.com/forum/index.php?showtopic=129529) -  PureZIP_L库UDF.
 - [UnRAR (by rasim)](https://www.autoitscript.com/forum/index.php?showtopic=76176) -  UnRAR.au3.
 - [Zip plugin (by eltorro)](https://www.autoitscript.com/forum/index.php?showtopic=44524) -  Zip插件.
@@ -112,7 +113,7 @@
 - [ExtMsgBox (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=109096) - 一个非常可定制的MsgBox替代品.  
 - [GUICtrlOnChangeRegister (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=105582) - 更改编辑内容时调用函数.  
 - [GUIExtender (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=145149) - 扩展和收缩GUI的各个部分（[original](https://www.autoitscript.com/forum/index.php?showtopic=117909)).  
-- [GUIFrame (by Melba23 & Kip)](https://www.autoitscript.com/forum/index.php?showtopic=119505) - Divide a GUI into adjustable frames.  
+- [GUIFrame (by Melba23 & Kip)](https://www.autoitscript.com/forum/index.php?showtopic=119505) - 将GUI划分为可调节框架.  
 - [GUI Panel (by FireFox)](https://www.autoitscript.com/forum/index.php?showtopic=144207) - 将子GUI作为面板ctrls进行管理.  
 - [Modern tray menu (by Holger)](https://www.autoitscript.com/forum/index.php?showtopic=20967) - 允许使用图标和颜色创建现代，精美的GUI和托盘菜单.  
 - [Pie chart (by Andreik)](https://www.autoitscript.com/forum/index.php?showtopic=161750) - 饼形图.  
@@ -134,7 +135,7 @@
 - [GUIHotkey (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=107965) -  UDF用于使用本机热键控件.
 - [GUIPager (by Mat)](https://www.autoitscript.com/forum/index.php?showtopic=111438) - 创建和控制本机寻呼机控件.
 - [Hotkey input control (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=90598) - 热键输入控件UDF库（非本机）.
-- [ListView Edit UDF (by Kanashius)](https://www.autoitscript.com/forum/index.php?showtopic=173932) - 此UDF可用于简单编辑Listview.
+- [ListView Edit UDF (by Kanashius)](https://www.autoitscript.com/forum/index.php?showtopic=173932) - This UDF can be used to simply edit an Listview.
 - [Marquees (by Melba23)](https://www.autoitscript.com/forum/index.php?showtopic=143711) - 制作纸条信息栏.
 - [Progressbar with GDIplus (by ProgAndy)](https://www.autoitscript.com/forum/index.php?showtopic=74649) - 您甚至可以使用完整纹理图像.
 - [Ribbon (by trancexx)](https://www.autoitscript.com/forum/index.php?showtopic=128242) - 用于Windows Ribbon框架的UDF.
@@ -252,7 +253,7 @@
 - [FoxIt Reader (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=75832) -  AU3中的PDF阅读器.
 - [MPDF (by taietel)](https://www.autoitscript.com/forum/index.php?showtopic=118827) - 从您的应用程序创建PDF.
 - [PDFCreator (by ptrex)](https://www.autoitscript.com/forum/index.php?showtopic=42776) -  PDFCreator的自动化允许您创建和操作PDF文件.
-- [PDFCreator (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=170550) - 带有工作EVENTs Handler的PDF文件的UDF for PDFCreator v1.xx.
+- [PDFCreator (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=170550) - 带有工作EVENTs Handler的PDFFreator v1.xx的UDF.
 - [_StringToPDF (by Tam0r)](https://www.autoitscript.com/forum/index.php?showtopic=32261) - 将字符串写入PDF文件并指定字体大小，类型等.
 
 ### Security
@@ -261,7 +262,7 @@
 
 ### Social Media and other Website API
 
-- [CrowdinAPI (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=169333) -  UDF使用 [crowdin.net website API](https://crowdin.com/page/api) 对于某些功能（创建项目，添加和更新文件，下载翻译或集成本地化）.
+- [CrowdinAPI (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=169333) - UDF using the [crowdin.net website API](https://crowdin.com/page/api) 对于某些功能（创建项目，添加和更新文件，下载翻译或集成本地化）.
 - [Dropbox authenticator (by Gimerly)](https://www.autoitscript.com/forum/files/file/290-dropbox-authenticator/) -  Dropbox身份验证器.
 - [Easypost (by dcat127)](https://www.autoitscript.com/forum/index.php?showtopic=158106) - 打印USPS邮资标签.
 - [eBay (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=114801) -  eBay UDF（函数GetItemStatus和来自“Shopping API”的GetSingleItem）.
@@ -277,7 +278,7 @@
 - [Teamspeak 3 (by chipDE)](https://www.autoitscript.com/forum/index.php?showtopic=113234) -  Teamspeak 3 UDF.
 - [TeamViewer API (by mLipok)](https://www.autoitscript.com/forum/index.php?showtopic=166205) -  TeamViewer API的UDF  - 一个适度的开端.
 - [TVmaze.com API (by BBs19)](https://www.autoitscript.com/forum/index.php?showtopic=166547) -  TVmaze.com API UDF（电视剧）.
-- [Twitter (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=116600) - Twitter UDF.
+- [Twitter (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=116600) -  Twitter UDF.
 - [Yahoo Weather (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=149247) -  YWeather UDF  -  Yahoo Weather API.
 - [Youtube Uploader (by BrettF)](https://www.autoitscript.com/forum/index.php?showtopic=112775) -  AYTU  -  AutoIt Youtube Uploader.
 
@@ -389,7 +390,7 @@
 ### Books
 
 - [AutoIt v3: Your Quick Guide](http://shop.oreilly.com/product/9780596515126.do) 作者：Andy Flesner（[Download PDF](https://www.google.com/search?q=AutoIt+v3%3A+Your+Quick+Guide+filetype%3Apdf)).
-- [Instant AutoIt Scripting](https://books.google.com.vn/books?id=TgY2-RSxhDUC) 来自Fez Laso的Emilio Aristides.
+- [Instant AutoIt Scripting](https://books.google.com.vn/books?id=TgY2-RSxhDUC) 作者：Emilio Aristides / Fez Laso.
 - [AutoIT Scripting For Beginners](https://books.google.com.vn/books?id=ugdeCgAAQBAJ) 通过Rajan.
 - [Learn To Program Using FREE Tools with AutoIt 1.2](https://www.autoitscript.com/forum/files/file/351-learn-to-program-using-free-tools-with-autoit/) 由Jfish.
 

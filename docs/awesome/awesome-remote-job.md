@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="lukasz-madon/awesome-remote-job"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩的精选列表 [remote working](https://en.wikipedia.org/wiki/Telecommuting) 资源.
@@ -115,7 +116,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     by Robert Pankowecki and Andrzej Krzywda (Arkency), 2014.
+     作者：Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      作者：John O&#39;Duinn，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -250,7 +251,7 @@
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人从不同角度攻击位置独立/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) -  Remote Works播客每两周发布一次，主持人Jonathan Sharp讨论围绕远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
+  1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins采访了人们，他们在思考分布式团队，远程工作以及如何支持快乐，高效，自由放养的员工.
   1. [Wide Teams](http://www.wideteams.com) - 每集与远程工作人员进行一对一的访谈，了解工作流程和实践
 
@@ -269,7 +270,7 @@
   1. [Auth0](https://auth0.com/jobs) - 为开发人员提供零摩擦认证和授权.
   1. [Authentic F & F](http://authenticff.com/) - 位于丹佛和明尼苏达州的独立设计和技术工作室
   1. [Aurity](https://www.aurity.co/) -  100％远程公司，专注于React和React Native.
-  1. [Automattic](https://automattic.com/work-with-us/) -  WordPress.com和Gravatar的制造商
+  1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/)   - 教育技术和数字出版.  我们拥有工具和流程，可以实现技术增强型教育所能提供的对人类潜力的积极影响
   1. [AvantStay](https://avantstay.com/careers) - 位于洛杉矶的短期租赁公司，拥有远程开发团队.
   1. [Axelerant](https://www.axelerant.com/careers)
@@ -300,7 +301,7 @@
   1. [ConsenSys](https://consensys.net/careers/) - 区块链软件技术公司，在世界各地设有办事处，在更多地方设有独立员工. 
   1. [Continu](http://www.continu.co/careers/) - 为现代团队提供持续学习软件.
   1. [Countly](https://count.ly/full-stack-node-js-developer) - 开源，企业移动/网络分析和营销平台.
-  1. [CRO Metrics](http://crometrics.com/jobs/) - 数据驱动的过期和增长计划.
+  1. [CRO Metrics](http://crometrics.com/jobs/) - Data-driven expirementation and growth programs.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java，.Net和DevOps职位.
   1. [Datadog](https://www.datadoghq.com/careers/)   - 易于使用和可扩展的监控系统，适用于现代和动态基础设施.  分布式团队在纽约，波士顿和巴黎设有办事处.  工程师遍布全球.
   1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
@@ -384,7 +385,7 @@
   1. [NinjaCat](https://www.ninjacat.io/jobs) - 领先数字代理商的报告，监控和呼叫跟踪平台.
   1. [Niteo](https://niteo.co/careers) - 十年前的SaaS工作室，充满了创意，构建智能解决方案，为小型企业提供在线服务.
   1. [NodeSource](https://nodesource.com/about) -  NodeSource致力于为Node.js创建可持续发展的生态系统.
-  1. [ofri](https://www.ofri.ch/job_openings) - A swiss online marketplace that connects homeowners with quality home improvement professionals.
+  1. [ofri](https://www.ofri.ch/job_openings) - 瑞士在线市场，将房主与优质家居装修专业人士联系起来.
   1. [Olark](https://www.olark.com/jobs) - 聊天支持漏斗.
   1. [onTheGo Systems](https://www.onthegosystems.com/jobs/) -  WordPress开发人员，支持者和营销工作.
   1. [Onyo](http://www.onyo.com) - 在纯粹的快乐中改变外出就餐的体验.
@@ -510,7 +511,7 @@
 
 #### Project Management
   1. [Asana](https://asana.com/) - 项目管理适用于分布式团队.
-  1. [Clubhouse](https://clubhouse.io/) - Project management for software development teams.
+  1. [Clubhouse](https://clubhouse.io/) - 软件开发团队的项目管理.
   1. [Harvest](https://www.getharvest.com/) - 时间跟踪
   1. [Hitask](https://hitask.com/) - 团队的简单任务和项目管理.
   1. [Pinitto.me](https://pinitto.me) - 轻量级实时无限虚拟软木板应用程序（开源）.
@@ -524,7 +525,7 @@
   1. [Fiverr](https://www.fiverr.com/) -  Fiverr是世界上最大的精益企业家自由服务市场，您可以雇佣远程工作人员为您完成小型任务.
   1. [Funretro](https://funretro.github.io/distributed) -  Funretro是分布式团队的回顾性在线董事会.
   1. [Listen to Wikipedia (Hatnote)](http://listen.hatnote.com) - 听听维基百科最近更改的声音.
-  1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
+  1. [Noisli](https://www.noisli.com/) -  Noisli有一系列不同的环境声音可以结合起来，以提高创造力和专注力.
   1. [musicforprogramming.net](https://musicforprogramming.net/) - “return”一系列用于收听的混音，而&#39;+ task +&#39;则用于帮助集中注意力并提高工作效率（也与其他活动兼容）.&#39;;`
   1. [Qbserve](https://qotoqot.com/qbserve/) - 时间跟踪自动化：自由项目跟踪，时间表，发票和实时生产力反馈（Mac）.
   1. [Realtime Board](https://realtimeboard.com/) - 分布式永久虚拟白板.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="veelenga/awesome-crystal"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center"><img src="https://raw.githubusercontent.com/veelenga/awesome-crystal/master/logo/logotype_horizontal.png" alt="awesome-crystal"></p>
 
 ## Awesome Crystal
@@ -250,7 +251,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) - 基于Bindgen的Crystal的Qt5绑定
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -  Crystal的死简单HTML表单构建器，内置支持许多流行的UI库，如Bootstrap
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
  * [html_builder](https://github.com/crystal-lang/html_builder) - 用于创建HTML的DSL
 
 ## HTML/XML Parsing
@@ -300,8 +301,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - 一个 [Grafana](https://grafana.com/) 库帮助自动生成仪表板
- * [crometheus](https://gitlab.com/ezrast/crometheus) - 一个 [Prometheus](https://prometheus.io/) 客户端库
+ * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) 库帮助自动生成仪表板
+ * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) 客户端库
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) - 拖尾日志文件
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) - 结构化记录器 [Fluentd](https://www.fluentd.org/)
  * [instana](https://github.com/instana/crystal-sensor) - 指标和分布式跟踪收集器 [Instana](https://www.instana.com/)
@@ -419,7 +420,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Science and Data analysis
  * [linalg](https://github.com/konovod/linalg) - 受MATLAB和SciPy.linalg启发的线性代数库
- * [predict.cr](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
+ * [predict.cr](https://github.com/RX14/predict.cr) - 使用sgp4模型的卫星预测库
  * [stats](https://git.sceptique.eu/Sceptique/stats) - 统计分布的表达实施
 
 ## Search
@@ -430,7 +431,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Serverless Computing
  * [crystal_openfaas](https://github.com/TPei/crystal_openfaas/) - 模板使水晶成为OpenFaaS中的一等公民
- * [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal.
+ * [FaaStRuby](https://faastruby.io) - 用于Ruby和Crystal的无服务器软件开发平台.
  * [gcf.cr](https://github.com/sam0x17/gcf.cr) - 在Google Cloud Functions中管理Crystal的执行
 
 ## System
@@ -470,7 +471,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 
 ## Third-party APIs
  * [aws-credentials](https://github.com/y2k2mt/aws-credentials) - 以各种方式获取AWS凭据
- * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - This library signs your HTTP requests using AWS v4
+ * [aws-signer.cr](https://github.com/beanieboi/aws-signer.cr) - 此库使用AWS v4签署您的HTTP请求
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -  AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署HTTP ::请求对象并生成预先签署的帖子表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -  Bugsnag异常通知程序和sidekiq中间件
@@ -589,7 +590,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -  Crystal语法高亮，编译，格式化命令，片段
  我来了
-   * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) -  Vim插件，为carc.in提供实用功能
+   * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) - Vim plugin to provide utility functions for carc.in
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - 对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 对Slang Templating Engine的Vim文件类型支持
  * Visual Studio代码

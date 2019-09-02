@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="glauberfc/awesome-react-hooks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome React Hooks [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [<img src="https://user-images.githubusercontent.com/15311858/47717137-ab421180-dc23-11e8-9ee8-a0de40260113.png">](https://reactjs.org/docs/hooks-intro.html)
@@ -22,8 +23,8 @@
 
 ## Tutorials/Articles/Workshops
 
-- [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM) - 丹·阿布拉莫夫和索菲·阿尔珀特.
-- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) - 还有阿布拉莫夫.
+- [React Today and Tomorrow and 90% Cleaner React](https://www.youtube.com/watch?v=dpw9EHDh2bM) - 和阿布拉莫夫和索菲阿尔珀特.
+- [Making Sense of React Hooks](https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889) - 和阿布拉莫夫
 - [React Hooks and Suspense](https://egghead.io/playlists/react-hooks-and-suspense-650307f2) -  Kent C. Dodds.
 - [React Hooks & testing: Stepping through React code](https://youtu.be/JQeB9miT9Wc) -  Kent C. Dodds.
 - [My Thoughts on React Hooks](https://youtu.be/gmF4k6P2va8) - 本阿瓦德
@@ -35,13 +36,13 @@
 - [React Hooks useContext](https://youtu.be/xWXxkFzgnFM) - 本阿瓦德
 - [Everything you need to know about React Hooks](https://medium.com/@vcarl/everything-you-need-to-know-about-react-hooks-8f680dfd4349) -  Carl Vitullo.
 - [Hooks in react-spring, a tutorial](https://medium.com/@drcmda/hooks-in-react-spring-a-tutorial-c6c436ad7ee4) - 保罗亨舍尔
-- [React Hooks: Notes Taken](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0) - TomášKonrády.
+- [React Hooks: Notes Taken](https://medium.com/@tomaskonrady/react-hooks-notes-taken-c42376af3ab0) - 托马斯康拉迪.
 - [Getting Started with React Hooks](https://scotch.io/tutorials/getting-started-with-react-hooks) - 克里斯塞维利亚.
 - [React hooks: not magic, just arrays](https://medium.com/@ryardley/react-hooks-not-magic-just-arrays-cd4f1857236e) - 鲁迪亚德利
 - [Why React’s new Hooks API is a game changer](https://itnext.io/why-reacts-hooks-api-is-a-game-changer-8731c2b0a8c) - 鲁迪亚德利
 - [Writing Custom React Hooks for GraphQL](https://medium.com/open-graphql/react-hooks-for-graphql-3fa8ebdd6c62) - 纳德会.
 - [Manage global state with React Hooks](https://medium.com/@Charles_Stover/manage-global-state-with-react-hooks-6065041b55b4) - 查尔斯斯托弗.
-- [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - 罗斯回合.
+- [React Hooks: Managing Web Sockets with useEffect and useState](https://medium.com/@rossbulat/react-hooks-managing-web-sockets-with-useeffect-and-usestate-2dfc30eeceec) - 圆罗斯.
 - [Primer on React Hooks](https://testdriven.io/blog/react-hooks-primer/) - 奥斯汀约翰斯顿.
 - [React Hooks - A deeper dive featuring useContext and useReducer](https://testdriven.io/blog/react-hooks-advanced/) - 奥斯汀约翰斯顿.
 - [Advanced React Hooks Workshop](https://github.com/kentcdodds/advanced-react-hooks) -  Kent C. Dodds.

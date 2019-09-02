@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="AllThingsSmitty/jquery-tips-everyone-should-know"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一组简单的技巧，以帮助您的jQuery游戏.
@@ -211,7 +212,7 @@ $（&#39;.btn&#39;）.on（&#39;hover&#39;，function（）{
 
 ### Disabling Input Fields
 
-At times you may want the submit button of a form or one of its text inputs to be disabled until the user has performed a certain action (e.g., checking the "I've read the terms" checkbox). Add the `disabled` attribute to your input so you can enable it when you want:
+ 有时您可能希望禁用表单或其文本输入之一的提交按钮，直到用户执行了某个操作（例如，选中“我已阅读术语”复选框）.  将“disabled”属性添加到输入中，以便在需要时启用它：
 
 ```javascript
 $（&#39;input [type =“submit”]&#39;）.prop（&#39;disabled&#39;，true）;
@@ -439,7 +440,7 @@ var ul = $('#list'),
 lis = $（&#39;li&#39;，ul）.get（）;
 
 lis.sort（function（a，b）{
-   return（$（a）.text（）.toUpperCase（）&lt;$（b）.text（）.toUpperCase（））？  -1：1;
+  return ($(a).text().toUpperCase() < $(b).text().toUpperCase()) ? -1 : 1;
 });
 
 ul.append(lis);

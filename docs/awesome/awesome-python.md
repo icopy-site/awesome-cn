@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="vinta/awesome-python"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Python框架，库，软件和资源的精选列表.
@@ -17,7 +18,7 @@
 * [django-jet](https://github.com/geex-arts/django-jet) -  Django管理界面的现代响应模板，具有改进的功能.
 * [django-suit](https://djangosuit.com/) - 替代Django管理界面（仅限非商业用途）.
 * [django-xadmin](https://github.com/sshwsfc/xadmin) - 直接替换Django管理员有很多好东西.
-* [flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask.
+* [flask-admin](https://github.com/flask-admin/flask-admin) -  Flask的简单且可扩展的管理界面框架.
 * [flower](https://github.com/mher/flower) -  Celery的实时监控和Web管理员.
 * [wooey](https://github.com/wooey/wooey) - 一个Django应用程序，它为Python脚本创建自动Web UI.
 
@@ -35,8 +36,8 @@
 *用于处理音频及其元数据的库.*
 
 *音频
-    * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
-    * [dejavu](https://github.com/worldveil/dejavu) - Audio fingerprinting and recognition.
+    * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹识别和识别.
     * [mingus](http://bspaans.github.io/python-mingus/) - 具有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音频特征提取，分类，分割和应用.
     * [pydub](https://github.com/jiaaro/pydub) - 使用简单易用的高级界面处理音频.
@@ -143,7 +144,7 @@
     * [docopt](http://docopt.org/) -  Pythonic命令行参数解析器.
     * [python-fire](https://github.com/google/python-fire) - 用于从绝对任何Python对象创建命令行界面的库.
     * [python-prompt-toolkit](https://github.com/jonathanslenders/python-prompt-toolkit) - 用于构建强大的交互式命令行的库.
-* Terminal Rendering
+*终端渲染
     * [asciimatics](https://github.com/peterbrittain/asciimatics) - 用于创建全屏文本UI的包（从交互式表单到ASCII动画）.
     * [bashplotlib](https://github.com/glamp/bashplotlib) - 在终端中制作基本图.
     * [colorama](https://pypi.org/project/colorama/) - 跨平台彩色终端文本.
@@ -359,7 +360,7 @@
 
 *分布式计算的框架和库.*
 
-* Batch Processing
+* 批量处理
     * [PySpark](https://pypi.org/project/pyspark/) - [Apache Spark](https://spark.apache.org/) Python API.
     * [dask](https://github.com/dask/dask) - 用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) - 一个模块，可帮助您构建批处理作业的复杂管道.
@@ -411,7 +412,7 @@
 * [python-currencies](https://github.com/Alir3z4/python-currencies) - 显示货币格式及其污秽货币.
 * [forex-python](https://github.com/MicroPyramid/forex-python) - 外汇汇率，比特币价格指数和货币兑换率.
 * [saleor](http://getsaleor.com/) -  Django的电子商务店面.
-* [shoop](https://www.shuup.com/en/) - 基于Django的开源电子商务平台.
+* [shoop](https://www.shuup.com/en/) - An open source E-Commerce platform based on Django.
 
 ## Editor Plugins and IDEs
 
@@ -559,7 +560,7 @@
 
 ## HTTP Clients
 
-*Libraries for working with HTTP.*
+*使用HTTP的库.*
 
 * [grequests](https://github.com/kennethreitz/grequests) - 请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) - 全面的HTTP客户端库.
@@ -574,7 +575,7 @@
 * [ino](http://inotool.org/) - 用于处理的命令行工具包 [Arduino](https://www.arduino.cc/).
 * [keyboard](https://github.com/boppreh/keyboard) - 在Windows和Linux上挂钩并模拟全局键盘事件.
 * [mouse](https://github.com/boppreh/mouse) - 在Windows和Linux上挂钩并模拟全局鼠标事件.
-* [Pingo](http://www.pingo.io/) - Pingo provides a uniform API to program devices like the Raspberry Pi, pcDuino, Intel Galileo, etc.
+* [Pingo](http://www.pingo.io/) -  Pingo为Raspberry Pi，pcDuino，Intel Galileo等程序设备提供统一的API.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) - 用于鼠标和键盘的跨平台控制的模块.
 * [scapy](https://github.com/secdev/scapy) - 精彩的数据包操作库.
 * [wifi](https://github.com/rockymeza/wifi) - 用于在Linux上使用WiFi的Python库和命令行工具.
@@ -650,7 +651,7 @@
 *用于生成和处理日志的库.*
 
 * [Eliot](https://github.com/ScatterHQ/eliot) - 记录复杂和分布式系统.
-* [logbook](http://logbook.readthedocs.io/en/stable/) - Logging replacement for Python.
+* [logbook](http://logbook.readthedocs.io/en/stable/) - 记录Python的替代品.
 * [logging](https://docs.python.org/3/library/logging.html) - （Python标准库）Python的日志记录工具.
 * [raven](https://github.com/getsentry/raven-python) - 用于Sentry的Python客户端，用于Web应用程序的日志/错误跟踪，崩溃报告和聚合平台.
 
@@ -696,7 +697,7 @@
     * [nltk](http://www.nltk.org/) - 构建Python程序以使用人类语言数据的领先平台.
     * [pattern](https://github.com/clips/pattern) - 用于Python的Web挖掘模块.
     * [polyglot](https://github.com/aboSamoor/polyglot) - 支持数百种语言的自然语言管道.
-    * [pytext](https://github.com/facebookresearch/pytext) - 基于PyTorch的自然语言建模框架.
+    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - 一个工具包，可以快速深入学习研究的NLP原型.
     * [spacy](https://spacy.io/) - 用于Python和Cython的工业级自然语言处理库.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - 斯坦福NLP集团的官方Python库，支持50多种语言.
@@ -764,7 +765,7 @@
 *本地PyPI存储库服务器和代理.*
 
 * [warehouse](https://github.com/pypa/warehouse) - 下一代Python包存储库（PyPI）.
-* [bandersnatch](https://github.com/pypa/bandersnatch/) - PyPI mirroring tool provided by Python Packaging Authority (PyPA).
+* [bandersnatch](https://github.com/pypa/bandersnatch/) -  Python Packaging Authority（PyPA）提供的PyPI镜像工具.
 * [devpi](https://github.com/devpi/devpi) -  PyPI服务器和打包/测试/发布工具.
 * [localshop](https://github.com/jazzband/localshop) - 本地PyPI服务器（自定义包和pypi的自动镜像）.
 
@@ -902,7 +903,7 @@
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) - 用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
     * [pyexcel](https://github.com/pyexcel/pyexcel) - 提供一个API，用于读取，操作和编写csv，ods，xls，xlsx和xlsm文件.
-    * [python-docx](https://github.com/python-openxml/python-docx) - 读取，查询和修改Microsoft Word 2007/2008 docx文件.
+    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
     * [python-pptx](https://github.com/scanny/python-pptx) - 用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) - 在LibreOffice / OpenOffice支持的任何文档格式之间进行转换.
     * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - 用于创建Excel .xlsx文件的Python模块.
@@ -1019,14 +1020,14 @@
 
 ## Third-party APIs
 
- *用于访问第三方服务API的库.  另见 [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
+*Libraries for accessing third party services APIs. Also see [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/) - 适用于所有云的Python库.
 * [boto3](https://github.com/boto/boto3) -  Amazon Web Services的Python接口.
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) -  Django的WordPress模型和视图.
 * [facebook-sdk](https://github.com/mobolic/facebook-sdk) -  Facebook平台Python SDK.
 * [google-api-python-client](https://github.com/google/google-api-python-client) - 适用于Python的Google API客户端库.
-* [gspread](https://github.com/burnash/gspread) -  Google Spreadsheets Python API.
+* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
 * [twython](https://github.com/ryanmcgrath/twython) -  Twitter API的Python包装器.
 
 ## URL Manipulation
@@ -1047,7 +1048,7 @@
 
 ## WSGI Servers
 
-*兼容WSGI的Web服务器.*
+*WSGI-compatible web servers.*
 
 * [bjoern](https://github.com/jonashaag/bjoern) - 异步，非常快，用C语言编写.
 * [gunicorn](https://github.com/benoitc/gunicorn) - 预分叉，部分用C语言写成.
@@ -1062,7 +1063,7 @@
 * [django-compressor](https://github.com/django-compressor/django-compressor) - 将链接和内联JavaScript或CSS压缩到单个缓存文件中.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -  Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -  Django的自定义存储后端集合.
-* [fanstatic](http://www.fanstatic.org/en/latest/) - 作为Python包，包，优化和提供静态文件依赖性.
+* [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 * [fileconveyor](http://wimleers.com/fileconveyor) - 用于检测文件并将文件同步到CDN，S3和FTP的守护程序.
 * [flask-assets](https://github.com/miracle2k/flask-assets) - 帮助您将webassets集成到Flask应用程序中.
 * [webassets](https://github.com/miracle2k/webassets) - 捆绑，优化和管理静态资源的唯一缓存清除URL.
@@ -1071,7 +1072,7 @@
 
 * [html2text](https://github.com/Alir3z4/html2text) - 将HTML转换为Markdown格式的文本.
 * [python-readability](https://github.com/buriy/python-readability) -  arc90可读性工具的快速Python端口.
-* [requests-html](https://github.com/kennethreitz/requests-html) - 用于人类的Pythonic HTML解析。
+* [requests-html](https://github.com/kennethreitz/requests-html) - 用于人类的Pythonic HTML解析.
 * [sumy](https://github.com/miso-belica/sumy) - 用于自动汇总文本文档和HTML页面的模块.
 * [textract](https://github.com/deanmalmgren/textract) - 从任何文档，Word，PowerPoint，PDF等中提取文本.
 * [toapi](https://github.com/gaojiuli/toapi) - 每个网站都提供API.

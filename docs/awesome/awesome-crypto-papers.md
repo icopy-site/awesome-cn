@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="pFarb/awesome-crypto-papers"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Crypto Papers  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的清单 [cryptography](https://en.wikipedia.org/wiki/Cryptography) 非密码学家的论文，文章，教程和howtos.
@@ -50,7 +51,7 @@
 #### General cryptographic interest
 
 * [Another Look at “Provable Security”](https://eprint.iacr.org/2004/152.pdf) -  Neal Koblitz等人对安全证明背后的形式主义和天真直觉的调查.
-* [The security impact of a new cryptographic library](https://cryptojedi.org/papers/coolnacl-20120725.pdf) - 关于NaCl的介绍性论文，讨论了实施密码学的重要方面，并将其用作安全系统中的一个更大的构建块，作者：Daniel J. Bernstein，Tanja Lange，Peter Schwabe.
+* [The security impact of a new cryptographic library](https://cryptojedi.org/papers/coolnacl-20120725.pdf) - 关于NaCl的介绍性文件，讨论了实施密码学的重要方面，并将其用作安全系统中的一个更大的构建块，Daniel J. Bernstein，Tanja Lange，Peter Schwabe.
 
 <hr>
 
@@ -78,7 +79,7 @@
 * [AES submission document on Rijndael](https://csrc.nist.gov/csrc/media/projects/cryptographic-standards-and-guidelines/documents/aes-development/rijndael-ammended.pdf#page=1) -  Joan Daemen和Vincent Rijmen的原始Rijndael提议.
 * [Ongoing Research Areas in Symmetric Cryptography](http://www.ecrypt.eu.org/ecrypt1/documents/D.STVL.3-2.5.pdf) -  ECRYPT密码学卓越网络正在进行的秘密密钥加密和哈希研究概述.
 * [伽罗瓦/计数器操作模式（GCM）
-]（http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&amp;rep=rep1&amp;type=pdf） -  David A. McGrew和John Viega介绍GCM的原创论文.
+]（http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.694.695&amp;rep=rep1&amp;type=pdf） - 由David A. McGrew和John Viega撰写的原始论文，介绍GCM.
 * [安全和性能
 Galois / Counter Mode（GCM）of Operation]（https://eprint.iacr.org/2004/193.pdf） -  GCM的设计，分析和安全性，更具体地说，AES GCM模式，作者David A. McGrew和约翰维耶加.
 
@@ -96,7 +97,7 @@ Galois / Counter Mode（GCM）of Operation]（https://eprint.iacr.org/2004/193.p
 * [RFC 2631: Diffie-Hellman Key Agreement](https://tools.ietf.org/html/rfc2631) - 以更多工程术语解释Diffie-Hellman方法.
 * [A Method for Obtaining Digital Signatures and Public-Key Cryptosystems](https://people.csail.mit.edu/rivest/Rsapaper.pdf) - 介绍RSA算法的原始论文. 
 * [RSA Algorithm](http://www.di-mgt.com.au/rsa_alg.html) - 相当教育解释RSA背后的每一点.
-* [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)   -  R. Merkle撰写的论文，早于“密码学的新方向”，虽然它是在它之后出版的.  Diffie-Hellman密钥交换是这种Merkle系统的实现.
+* [Secure Communications Over Insecure Channels ](http://www.merkle.com/1974/PuzzlesAsPublished.pdf)   -  R. Merkle的论文，早于“密码学的新方向”，尽管它是在它之后出版的.  Diffie-Hellman密钥交换是这种Merkle系统的实现.
 * [On the Security of Public Key Protocols ](http://www.cs.huji.ac.il/~dolev/pubs/dolev-yao-ieee-01056650.pdf) -  Dolev-Yao模型是一种形式模型，用于证明交互式加密协议的属性.
 * [How to Share a Secret](https://cs.jhu.edu/~sdoshi/crypto/papers/shamirturing.pdf) - 一种分享秘密的安全方法.
 * [Twenty Years of Attacks on the RSA Cryptosystem](http://crypto.stanford.edu/~dabo/pubs/papers/RSA-survey.pdf) -  Dan Boneh对攻击RSA及其内部的深入探究. 
@@ -120,7 +121,7 @@ Galois / Counter Mode（GCM）of Operation]（https://eprint.iacr.org/2004/193.p
 
 #### Zero Knowledge Proofs
 
-* [Proofs of knowledge](http://cseweb.ucsd.edu/~mihir/papers/pok.html) - 一篇研究知识证明和计算能力证明概念的论文，M. Bellare和O. Goldreich.
+* [Proofs of knowledge](http://cseweb.ucsd.edu/~mihir/papers/pok.html) - 一对调查知识证明和计算能力证明概念的论文，M. Bellare和O. Goldreich.
 * [How to construct zero-knowledge proof systems for NP](http://www.wisdom.weizmann.ac.il/~oded/gmw1.html) -  Goldreich，Micali和Wigderson的经典论文.
 * [Proofs that yield nothing but their validity and a Methodology of Cryptographic protocol design](http://www.math.ias.edu/~avi/PUBLICATIONS/MYPAPERS/GMW86/GMW86.pdf) -  Goldreich，Micali和Wigderson，与上述相关. 
 * [A Survey of Noninteractive Zero Knowledge Proof System and Its Applications](https://www.hindawi.com/journals/tswj/2014/560484/).
@@ -163,7 +164,7 @@ Galois / Counter Mode（GCM）of Operation]（https://eprint.iacr.org/2004/193.p
 
 * [Understanding cryptography: A textbook for Students and Practitioners](http://www.crypto-textbook.com/) - 教科书，伟大的讲座和要解决的问题.
 * [Crypto101](https://www.crypto101.io/) -  Crypto 101是一门关于密码学的入门课程，免费提供给所有年龄和技能水平的程序员.
-* [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) -  Rafael Pass，Abhi Shelat的讲义
+* [A Course in Cryptography](https://www.cs.cornell.edu/courses/cs4830/2010fa/lecnotes.pdf) -  Rafael Pass，Abhi Shelat的讲义.
 * [Lecture Notes on Cryptography](https://cseweb.ucsd.edu/~mihir/papers/gb.pdf) - 由Shafi Goldwasser（麻省理工学院），M.Bellare（加利福尼亚大学）着名的密码学讲座.
 * [Introduction to Cryptography by Christof Paar](https://www.youtube.com/watch?v=2aHkqB2-46k)   -  Christof Paar（德国波鸿大学）的视频课程.  用英语讲.
 * [Cryptography I](https://www.coursera.org/learn/crypto)   - 斯坦福大学Coursera课程，由教授授课.  丹·博姆. [Cryptography II](https://www.coursera.org/learn/crypto2) is still in development.

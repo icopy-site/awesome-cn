@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hantuzun/awesome-clojurescript"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      ALIGN = “右”/&gt;
 
@@ -60,7 +61,7 @@
 
 
 ### Document Object Model
-- [cljs-binding](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
+- [cljs-binding](https://github.com/fluentsoftware/cljs-binding) - 它将html元素绑定到ClojureScript函数.
 - [Crate](https://github.com/ibdknox/crate) -  Hiccup的ClojureScript实现.
 - [Dominator](https://github.com/dubiousdavid/dominator) -  ClojureScript中的Virtual-Dom.
 - [Dommy](https://github.com/plumatic/dommy) - 一个严肃的ClojureScript模板和DOM操作库.
@@ -172,7 +173,7 @@
 - [Luminus](http://www.luminusweb.net/) - 旨在提供强大，可扩展且易于使用的平台.
 - [Macchiato](https://github.com/macchiato-framework/macchiato-core) - 它旨在为Node.js提供一个易于使用的平台.
 - [Mies](https://github.com/swannodette/mies) - 最小的ClojureScript项目模板.
-- [Precept](https://github.com/CoNarrative/precept) - 声明性编程框架.
+- [Precept](https://github.com/CoNarrative/precept) - A declarative programming framework.
 - [re-frame](https://github.com/Day8/re-frame) -  Clojurescript中用于编写SPA的试剂框架.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) - 没有使用Boot的后端的ClojureScript模板.
 - [WebFUI](https://github.com/drcode/webfui) -  ClojureScript的客户端Web框架.

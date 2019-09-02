@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="markets/awesome-ruby"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div>
   <p align="center">
     <a href="https://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
@@ -42,11 +43,11 @@
 * [Administrate](https://github.com/thoughtbot/administrate) - 一个Rails引擎，可帮助您将Thoughtbot的超灵活管理仪表板组合在一起.
 * [bhf](http://antpaw.github.io/bhf/) - 一个简单易用的Rails-Engine-Gem，为受信任的用户提供管理界面.
 * [RailsAdmin](https://github.com/sferik/rails_admin) -  Rails引擎，提供易于使用的界面来管理数据.
-* [Trestle](https://github.com/TrestleAdmin/trestle) - A modern, responsive admin framework for Rails. Build a back-end in minutes that will grow with the needs of your application.
+* [Trestle](https://github.com/TrestleAdmin/trestle)   - 适用于Rails的现代响应式管理框架.  在几分钟内构建一个后端，随着应用程序的需求而增长.
 
 ## Analytics
 
-* [Ahoy](https://github.com/ankane/ahoy) - A solid foundation to track visits and events in Ruby, JavaScript, and native apps.
+* [Ahoy](https://github.com/ankane/ahoy) - 跟踪Ruby，JavaScript和本机应用程序中的访问和事件的坚实基础.
 * [Analytical](https://github.com/jkrall/analytical) - 用于管理rails应用中的多种分析服务的Gem.
 * [Gabba](https://github.com/hybridgroup/gabba) - 向Google Analytics发送服务器端通知的简单方法.
 * [Impressionist](https://github.com/charlotte-ruby/impressionist) - 跟踪展示次数和网页浏览量的Rails插件.
@@ -102,7 +103,7 @@
 * [Rodauth](https://github.com/jeremyevans/rodauth) -  Rack应用程序的身份验证和帐户管理框架.
 * [Shield](https://github.com/cyx/shield) - 用于路由和模型上下文的身份验证协议.
 * [Sorcery](https://github.com/Sorcery/sorcery) -  Rails 4和Rails的神奇身份验证5.
-* [warden](https://github.com/hassox/warden) - 通用机架认证框架.
+* [warden](https://github.com/hassox/warden) - General Rack Authentication Framework.
 * OAuth：
   * [Doorkeeper](https://github.com/doorkeeper-gem/doorkeeper) -  Rails的OAuth2提供程序.
   * [OAuth2](https://github.com/intridea/oauth2) -  OAuth 2.0协议的Ruby包装器.
@@ -284,7 +285,7 @@
 
 ## Cryptocurrencies and Blockchains
 
-* [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb)   - 使用加密哈希构建自己的区块链;  通过区块链，区块链，区块链一次一块地彻底改变世界.
+* [Blockchain Lite](https://github.com/openblockchains/blockchain.lite.rb) - Build your own blockchains with crypto hashes; revolutionize the world with blockchains, blockchains, blockchains one block at a time.
 * [Peatio](https://github.com/rubykube/peatio) - 大多数高级加密货币开源资产交换.
 
 ## Dashboards
@@ -311,7 +312,7 @@
 * [Cassandra Driver](https://github.com/datastax/ruby-driver) -  Apache Cassandra的纯ruby驱动程序，具有异步io和可配置的负载平衡，重新连接和重试策略.
 * [DataObjects](https://github.com/datamapper/do) - 尝试重写现有的Ruby数据库驱动程序以符合一个标准接口.
 * [mongo-ruby-driver](https://github.com/mongodb/mongo-ruby-driver) -  MongoDB Ruby驱动程序.
-* [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql).
+* [mysql2](https://github.com/brianmario/mysql2) - 一个用于Ruby的现代，简单且非常快速的Mysql库（绑定到libmysql）.
 * [Neography](https://github.com/maxdemarzi/neography) -  Neo4j Rest API的瘦Ruby包装器.
 * [Redic](https://github.com/amakawa/redic) - 轻量级Redis客户端.
 * [redis-rb](https://github.com/redis/redis-rb) - 一个试图与Redis的API一对一匹配的Ruby客户端，同时仍提供惯用的界面.
@@ -334,7 +335,7 @@
 * [Scenic](https://github.com/thoughtbot/scenic) -  Rails的版本化数据库视图.
 * [SchemaPlus](https://github.com/SchemaPlus/schema_plus) -  SchemaPlus为ActiveRecord提供了一系列增强功能和扩展
 * [SecondBase](https://github.com/customink/secondbase)   -  Rails的无缝第二数据库集成.  SecondBase通过扩展创建，迁移和测试应用程序的ActiveRecord任务，为Rails管理双数据库提供支持.
-* [Seedbank](https://github.com/james2m/seedbank) - Seedbank allows you to structure your Rails seed data instead of having it all dumped into one large file.
+* [Seedbank](https://github.com/james2m/seedbank) -  Seedbank允许您构建Rails种子数据，而不是将它们全部转储到一个大文件中.
 * [Seed dump](https://github.com/rroblak/seed_dump) -  Rails 4将数据库（部分）转储到db / seeds.rb的任务.
 * [Seed Fu](https://github.com/mbleigh/seed-fu) -  Rails的高级种子数据处理.
 * [Standby](https://github.com/kenn/standby) - 从备用数据库中读取ActiveRecord（以前称为Slavery）.
@@ -425,7 +426,7 @@
 * [Conekta](https://github.com/conekta/conekta-ruby) -  Conekta Ruby绑定.
 * [credit_card_validations](https://github.com/Fivell/credit_card_validations) - 用于验证信用卡号码，生成有效号码，Luhn支票的红宝石宝石.
 * [Koudoku](https://github.com/andrewculver/koudoku) - 使用Stripe对Ruby on Rails应用程序提供强大的订阅支持，包括开箱即用的定价页面，支付页面和订阅管理.
-* [Payola](https://github.com/peterkeen/payola) - 用于接受Stripe付款的Drop-in Rails引擎.
+* [Payola](https://github.com/peterkeen/payola) - Drop-in Rails engine for accepting payments with Stripe.
 * [Paypal Merchant SDK](https://github.com/paypal/merchant-sdk-ruby) - 适用于Ruby的官方Paypal商家SDK.
 * [Piggybak](https://github.com/piggybak/piggybak) - 用于Ruby on Rails的模块化，可扩展的开源电子商务解决方案.
 * [ROR Ecommerce](https://github.com/drhenner/ror_ecommerce) -  Rails电子商务平台.
@@ -475,7 +476,7 @@
 * [chruby](https://github.com/postmodern/chruby)   - 改变你目前的Ruby.  没有垫片，没有疯狂的选项或功能，~90 LOC.
 * [fry](https://github.com/terlar/fry) - 鱼的简单ruby版本管理器.
 * [gem_home](https://github.com/postmodern/gem_home) - 用于更改$ GEM_HOME的工具.
-* [rbenv](https://github.com/sstephenson/rbenv) - 使用rbenv为您的应用程序选择Ruby版本，并保证您的开发环境与生产相匹配.
+* [rbenv](https://github.com/sstephenson/rbenv) - Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.
 * [ruby-build](https://github.com/sstephenson/ruby-build) - 编译并安装Ruby.
 * [ruby-install](https://github.com/postmodern/ruby-install) - 安装Ruby，JRuby，Rubinius，MagLev或MRuby.
 * [RVM](https://rvm.io) -  RVM是一个命令行工具，允许您轻松地安装，管理和使用从解释器到多组宝石的多个ruby环境.
@@ -697,7 +698,7 @@
 ## Natural Language Processing
 
 * [Awesome NLP with Ruby](https://github.com/arbox/nlp-with-ruby) - 用Ruby完成的实用自然语言处理的绝佳列表.
-* [Parslet](http://kschiess.github.io/parslet/) - 用于构建PEG（Parsing Expression Grammar）方式的解析器的小型Ruby库.
+* [Parslet](http://kschiess.github.io/parslet/) - A small Ruby library for constructing parsers in the PEG (Parsing Expression Grammar) fashion.
 * [pocketsphinx-ruby](https://github.com/watsonbox/pocketsphinx-ruby) - 使用Pocketsphinx进行Ruby语音识别.
 * [Pragmatic Segmenter](https://github.com/diasks2/pragmatic_segmenter) -  Pragmatic Segmenter是一种基于规则的句子边界检测宝石，可以在多种语言中开箱即用.
 * [Ruby Natural Language Processing Resources](https://github.com/diasks2/ruby-nlp) - 收集Ruby自然语言处理（NLP）库，工具和软件的链接.
@@ -771,7 +772,7 @@
 * 多租户
   * [Acts As Tennant](https://github.com/ErwinM/acts_as_tenant) - 通过共享数据库策略将多租户添加到Rails应用程序.
   * [Apartment](https://github.com/influitive/apartment) -  Rails和ActiveRecord的多租户.
-  * [Milia](https://github.com/jekuno/milia) -  Rails的非侵入式多租户，支持开箱即用的Devise身份验证.
+  * [Milia](https://github.com/jekuno/milia) - Non-invasive multi-tenancy for Rails which supports Devise authentication out of the box.
 *社交
   * [Acts As Commentable](https://github.com/jackdempsey/acts_as_commentable) - 提供单个注释模型，可以附加到应用程序中的任何模型.
   * [Acts As Commentable with Threading](https://github.com/elight/acts_as_commentable_with_threading)   - 与acts_as_commentable类似;  但是，利用awesome_nested_set提供线程注释.
@@ -798,7 +799,7 @@
 *宝石
   * [Bundler](https://bundler.io) - 轻松管理应用程序的gem依赖项.
   * [RubyGems](https://rubygems.org) - 社区的宝石托管服务.
-  * [Cloudsmith](https://cloudsmith.io) - A fully managed package management SaaS with support for Rubygems (and many others).
+  * [Cloudsmith](https://cloudsmith.io) - 完全托管的软件包管理SaaS，支持Rubygems（以及许多其他软件）.
 *包和应用程序
   * [Berkshelf](https://github.com/berkshelf/berkshelf) - 厨师食谱经理.
   * [CocoaPods](https://github.com/CocoaPods/CocoaPods) -  Objective-C依赖管理器.
@@ -893,7 +894,7 @@
 
 * [Bootstrappers](https://github.com/xdite/bootstrappers) -  Bootstrappers使用Bootstrap模板和其他好东西生成基础Rails应用程序.
 * [Hobo](https://github.com/Hobo/hobo) -  Rails的Web应用程序构建器.
-* [orats](https://github.com/nickjj/orats) -  Opinionated rails应用程序模板.
+* [orats](https://github.com/nickjj/orats) - Opinionated rails application templates.
 * [Rails Composer](https://github.com/RailsApps/rails-composer) - 用于启动应用程序的类固醇Rails生成器.
 * [Raygun](https://github.com/carbonfive/raygun) - 使用已经完成的常见定制工具构建应用程序.
 * [Suspenders](https://github.com/thoughtbot/suspenders) -  Suspenders是在thinkbot上使用的基础Rails应用程序.
@@ -926,7 +927,7 @@
 
 ## Scientific
 
-* Bindings
+*绑定
   * [PyCall](https://github.com/mrkn/pycall.rb) - 从Ruby语言调用Python函数.
   * [ruby-opencv](https://github.com/ruby-opencv/ruby-opencv) -  Ruby的OpenCV包装器.
 *分类器
@@ -935,17 +936,17 @@
 *数据分析/结构
   * [daru](https://github.com/v0dro/daru) - 用于在纯Ruby中存储，分析，操作和可视化数据的库.
   * [Daru::View](https://github.com/SciRuby/daru-view) - 用于在Jupyter笔记本和Web应用程序上轻松交互式绘图的库.
-  * [Rgl](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
+  * [Rgl](https://github.com/monora/rgl) - 图形数据结构和算法的框架.
 *数值阵列
   * [NMatrix](https://github.com/sciruby/nmatrix) -  Ruby的快速数值线性代数库.
   * [Numo::NArray](https://github.com/ruby-numo/numo-narray) - 用于Ruby的N维数值数组.
   * [mdarray](https://github.com/rbotafogo/mdarray) - 为NubPy启发的JRuby实现的多维数组.
 * [SciRuby](https://github.com/sciruby/sciruby) -  Ruby / Rails中的科学计算工具.
   * [IRuby](https://github.com/SciRuby/iruby) -  Jupyter的Ruby内核.
-  * [statsample](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
+  * [statsample](https://github.com/sciruby/statsample) - 用于Ruby的基本和高级统计信息的套件.
   * [statsample-timeseries](https://github.com/sciruby/statsample-timeseries) -  Bioruby Statsample TimeSeries.
   * [statsample-glm](https://github.com/sciruby/statsample-glm) -  Statsample的广义线性模型扩展.
-  * [distribution](https://github.com/sciruby/distribution) - 统计分布多库包装器.
+  * [distribution](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [minimization](https://github.com/sciruby/minimization) - 纯Ruby上的最小化算法.
   * [rb-gsl](https://github.com/SciRuby/rb-gsl) -  GNU Scientific库的ruby接口，支持NMatrix.
 *具体
@@ -956,7 +957,7 @@
   * [algorithms](https://github.com/kanwei/algorithms) - 包含何时使用特定结构/算法的文档的库.
   * [jaro_winkler](https://github.com/tonytonyjan/jaro_winkler) - 支持UTF-8字符串的Jaro-Winkler距离算法的Ruby＆C实现.
   * [primes-utils](https://github.com/jzakiya/primes-utils) - 一个Rubygem，它提供了一套非常快速的实用方法，用于测试和生成素数.
-  * [Roots](https://github.com/jzakiya/roots) - 一个Rubygem，它提供实用程序来查找实数和复数值的所有第n个根.
+  * [Roots](https://github.com/jzakiya/roots) - A Rubygem which provides utilities to find all the nth roots of real and complex values.
   * [smarter_csv](https://github.com/tilo/smarter_csv) -  Ruby Gem可以更智能地将CSV文件导入为哈希数组.
 
 ## Search
@@ -1145,7 +1146,7 @@
 * [anemone](https://github.com/chriskite/anemone) - 用于抓取网站的Ruby库和CLI.
 * [LinkThumbnailer](https://github.com/gottfrois/link_thumbnailer)   -  Ruby gem，可从给定的URL生成缩略图图像和视频.  很像流行的社交网站链接预览.
 * [Mechanize](https://github.com/sparklemotion/mechanize) -  Mechanize是一个ruby库，可以轻松实现自动化Web交互.
-* [MetaInspector](https://github.com/jaimeiniesta/metainspector) - 用于网络抓取目的的Ruby gem.
+* [MetaInspector](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
 * [Upton](https://github.com/propublica/upton) - 包含电池的框架，便于刮网.
 * [Wombat](https://github.com/felipecsl/wombat) - 具有优雅DSL的Web刮刀，可从网页中分析结构化数据.
 
@@ -1207,10 +1208,10 @@
 * [Inch CI](https://inch-ci.org/) -  Ruby项目的文档徽章.
 * [Nanobox](https://github.com/nanobox-io/nanobox) - 用于创建可在任何地方部署的一致，隔离的Ruby环境的微型PaaS（μPaaS）https://nanobox.io.
 * [OctoLinker](https://github.com/OctoLinker/browser-extension) - 使用OctoLinker浏览器扩展程序有效地浏览GitHub.com上的项目.
-* [SemaphoreCI](https://semaphoreci.com) - Hosted continuous integration and deployment service for open source and private projects.
+* [SemaphoreCI](https://semaphoreci.com) - 为开源和私有项目提供持续的集成和部署服务.
 * [SideCI](https://www.sideci.com)   - 使用GitHub PR进行自动代码审查.   - 监控样式违规，质量，安全性，依赖性.
 * [Sqreen](https://www.sqreen.io/)   -  Ruby应用程序的自动化和实时安全性.  在30秒内保护您的应用程序.
-* [Travis CI.com](https://travis-ci.com) - Take care of running your tests and deploying your private apps.
+* [Travis CI.com](https://travis-ci.com) - 负责运行测试和部署私有应用程序.
 * [Travis CI.org](https://travis-ci.org) - 面向开源社区的分布式构建系统.
 * [Vexor CI](https://vexor.io) - 用于构建和测试软件的分布式云Web服务，这是一种针对具有按分钟付费计费模式的私有应用程序的持续集成工具.
 

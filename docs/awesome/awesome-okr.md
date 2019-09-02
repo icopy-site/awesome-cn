@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="domenicosolazzo/awesome-okr"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 有关OKR的精选资源列表
 
 OKR是设置和沟通公司，团队和员工目标并根据取得的成果衡量其进展的最佳实践.
-It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter and it make it easier to align all the employees around the company mission and vision.
+它被用于谷歌，Netflix，Zynga，LinkedIn，Twitter等几家公司，它使所有员工更容易与公司的使命和愿景保持一致.
 
 
 ## Basics
@@ -13,7 +14,7 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [Use a weekly status email](https://github.com/domenicosolazzo/practice-okr/blob/master/Weekly_Status_Email)：如何为您的OKR设置每周状态电子邮件.
 - [How to set OKRs](https://github.com/domenicosolazzo/practice-okr/blob/master/How_to_set_OKRs.md)：有关如何在公司中设置OKR的快速列表.
 - [Monday's and Friday's: The commitment square](https://github.com/domenicosolazzo/practice-okr/blob/master/Commitment-Square.md)：用于分析进展和路障的承诺广场再次成为OKR.
-- [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28)：优秀的文章用优步和Youtube的实例来描述OKR的基础.
+- [Fundamentals of OKR](https://medium.com/startup-tools/okrs-5afdc298bc28)：很好的文章用优步和Youtube的实例来描述OKR的基础.
 
 ## Slides
 
@@ -48,8 +49,8 @@ It is used in several companies like Google, Netflix, Zynga, LinkedIn, Twitter a
 - [How we make OKRs work at Pusher](https://blog.pusher.com/make-okrs-work/)：一篇关于OKR的对齐和透明性以及它如何帮助Pusher的精彩文章
 - [How to Easily Set Quarterly Team Objectives with OKRs at Pusher](https://blog.pusher.com/how-to-set-quartely-okrs-for-your-teams/)：Pusher关于如何设定季度团队目标的另一篇文章
 - [How we set goals at Upstart](http://blog.upstart.com/okrs-and-projects-how-we-set-goals-at-upstart/)：Upstart如何设置OKR并为整个公司设定目标
-- [Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process](http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/)：Sasha Lubomirsky如何设想OKR的未来
-- [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&)：采访Mark Pincus以及OKR如何帮助Zynga
+- [Manager OKRs, Maker OKRs: How I’d Change Google’s Goal Setting Process](http://hunterwalk.com/2013/03/01/manager-okrs-maker-okrs-how-id-change-googles-goal-setting-process/): How Sasha Lubomirsky envisions the future of OKRs
+- [Are You a C.E.O. of Something?](http://www.nytimes.com/2010/01/31/business/31corner.html?pagewanted=2&_r=4&)：对Mark Pincus的采访以及OKR如何帮助Zynga
 - [How to set & achieve meaningful OKRs](http://blog.kentonkivestu.com/goals-how-to-get-things-done)：本文介绍如何设置和实现有意义的OKR
 - [How to Make OKRs Actually Work at Your Startup](http://firstround.com/review/How-to-Make-OKRs-Actually-Work-at-Your-Startup/)：关于OKRs如何帮助Swipely的故事
 - [OKR Mistakes](http://eleganthack.com/okr-mistakes-and-how-to-fix-them/)：这是一篇重要的文章，描述了编写OKR时最常见的错误以及如何解决它们.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Siddharth11/Colorful"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/Siddharth11/Colorful/master/color-palette.gif" alt="header image">
 </p>
@@ -27,7 +28,7 @@ __用于选择下一个配色方案的精选资源的精选列表.__
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - 保持色度恒定并轻松选择调色板.
 - [Colorbrewer2](http://colorbrewer2.org/) - 用于热图和数据可视化的多色调和单色调调色板.
 - [Coolors](https://coolors.co/) - 为您的设计生成无限的调色板并共享.
-- [Flat UI Colors](http://flatuicolors.com/) -  UI颜色设置.
+- [Flat UI Colors](http://flatuicolors.com/) -  UI颜色集.
 - [Material Design Colors](http://www.materialui.co/) - 材料设计颜色，平面UI颜色和材料设计图标.
 - [Palettab](http://palettab.com/) - 每个标签（Chrome扩展程序）的新调色板和字体灵感.
 - [Paletton](http://paletton.com) - 配色方案设计师.

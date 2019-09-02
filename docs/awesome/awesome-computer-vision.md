@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jbhuang0604/awesome-computer-vision"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 ## Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的精彩计算机视觉资源列表，受到启发 [awesome-php](https://github.com/ziadoz/awesome-php).
@@ -36,7 +37,7 @@
 * [Pattern Classification](http://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693) -  Peter E. Hart，David G. Stork和Richard O. Duda 2000
 * [Machine Learning](http://www.amazon.com/Machine-Learning-Tom-M-Mitchell/dp/0070428077/) -  Tom M. Mitchell 1997
 * [Gaussian processes for machine learning](http://www.gaussianprocess.org/gpml/) -  Carl Edward Rasmussen和Christopher KI Williams 2005
-* [Learning From Data](https://work.caltech.edu/telecourse.html)- Yaser S. Abu-Mostafa, Malik Magdon-Ismail and Hsuan-Tien Lin 2012
+* [Learning From Data](https://work.caltech.edu/telecourse.html)-  Yaser S. Abu-Mostafa，Malik Magdon-Ismail和Hsuan-Tien Lin 2012
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) -  Michael Nielsen 2014
 * [Bayesian Reasoning and Machine Learning](http://www.cs.ucl.ac.uk/staff/d.barber/brml/) -  David Barber，剑桥大学出版社，2012年
 
@@ -163,7 +164,7 @@
 
 #### Learning and Vision
  * [Where machine vision needs help from machine learning](http://videolectures.net/colt2011_freeman_help/?q=computer%20vision) -  William T. Freeman（麻省理工学院）2011
- * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) -  Simon Lucey（CMU）2008
+ * [Learning in Computer Vision](http://videolectures.net/mlss08au_lucey_linv/) - Simon Lucey (CMU) 2008
  * [Learning and Inference in Low-Level Vision](http://videolectures.net/nips09_weiss_lil/?q=computer%20vision) -  Yair Weiss（耶路撒冷希伯来大学）2009
 
 #### Object Recognition
@@ -194,7 +195,7 @@
  * [Deep Learning](http://videolectures.net/kdd2014_salakhutdinov_deep_learning/?q=Hidden%20Markov%20model#) -  Ruslan Salakhutdinov（多伦多大学）
  * [Scaling up Deep Learning](http://videolectures.net/kdd2014_bengio_deep_learning/) -  Yoshua Bengio（蒙特利尔大学）
  * [ImageNet Classification with Deep Convolutional Neural Networks](http://videolectures.net/machine_krizhevsky_imagenet_classification/?q=deep%20learning) -  Alex Krizhevsky（多伦多大学）
- * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Lee LeCun（纽约大学/ Facebook研究）2014
+ * [The Unreasonable Effectivness Of Deep Learning](http://videolectures.net/sahd2014_lecun_deep_learning/) Yann LeCun（纽约大学/ Facebook研究）2014
  * [Deep Learning for Computer Vision](https://www.youtube.com/watch?v=qgx57X0fBdA) -  Rob Fergus（纽约大学/ Facebook研究）
  * [High-dimensional learning with deep network contractions](http://videolectures.net/sahd2014_mallat_dimensional_learning/) - StéphaneMallat（EcoleNormaleSupérieure）
  * [Graduate Summer School 2012: Deep Learning, Feature Learning](http://www.ipam.ucla.edu/programs/summer-schools/graduate-summer-school-deep-learning-feature-learning/?tab=schedule) -  IPAM，2012年
@@ -298,7 +299,7 @@ BM3D，KSVD，
  * [Single-Image Super Resolution via a Statistical Model](http://www.cs.technion.ac.il/~elad/Various/SingleImageSR_TIP14_Box.zip)
      * T. Peleg和M. Elad，基于稀疏表示的单图像超分辨率的统计预测模型，IEEE Transactions on Image Processing，Vol.  2014年6月23日第6期，第2569-2582页
  * [Sparse Coding for Super-Resolution](http://www.cs.technion.ac.il/~elad/Various/Single_Image_SR.zip)
-    * R. Zeyde，M.Elad和M. Protter使用稀疏表示，曲线和曲面进行单幅图像放大，阿维尼翁 - 法国，2010年6月24  -  30日（也出现在讲座 - 计算机笔记中 - 科学 -  LNCS）.
+    * R. Zeyde，M.Elad和M. Protter使用稀疏表示，曲线和曲面进行单幅图像放大，阿维尼翁 - 法国，2010年6月24日至30日（也出现在讲座 - 计算机笔记中 - 科学 -  LNCS）.
  * [Patch-wise Sparse Recovery](http://www.ifp.illinois.edu/~jyang29/ScSR.htm)
      * Jian Jiano Yang，John Wright，Thomas Huang和Yi Ma.  通过稀疏表示的图像超分辨率.  IEEE图像处理交易（TIP），第一卷.  19，2010年第11期.
  * [Neighbor embedding](http://www.jdl.ac.cn/user/hchang/doc/code.rar)
@@ -672,10 +673,10 @@ BM3D，KSVD，
  * [How to write a SIGGRAPH paper](http://www.slideshare.net/jdily/how-to-write-a-siggraph-paper) -  SIGGRAPH ASIA 2011课程
  * [Writing Research Papers](http://www.dgp.toronto.edu/~hertzman/advice/writing-technical-papers.pdf) -  Aaron Hertzmann（Adobe Research）
  * [How to Write a Paper for SIGGRAPH](http://www.computer.org/csdl/mags/cg/1987/12/mcg1987120062.pdf) - 吉姆·布林
- * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) -  Jim Sense（微软研究院）
+ * [How to Get Your SIGGRAPH Paper Rejected](http://www.siggraph.org/sites/default/files/kajiya.pdf) -  Jim Kajiya（微软研究院）
  * [How to write a SIGGRAPH paper](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/www.liyiwei.org/courses/how-siga11/liyiwei.pptx) - Li-Yi Wei (The University of Hong Kong)
  * [How to Write a Great Paper](http://www-hagen.informatik.uni-kl.de/~bertram/talks/getpublished.pdf) -  Martin Martin Hering  -  Bertram（不莱梅大学应用科学大学）
- * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) -  Takeo Igarashi（东京大学）
+ * [How to have a paper get into SIGGRAPH?](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/writings/siggraph.html) -Takeo Igarashi（东京大学）
  * [Good Writing](http://www.cs.cmu.edu/~pausch/Randy/Randy/raibert.htm) -  Marc H. Raibert（波士顿动力公司）
  * [How to Write a Computer Vision Paper](http://web.engr.illinois.edu/~dhoiem/presentations/How%20to%20Write%20a%20Computer%20Vison%20Paper.ppt) -  Derek Hoiem（UIUC）
  * [Common mistakes in technical writing](http://www.cs.dartmouth.edu/~wjarosz/writing.html) -  Wojciech Jarosz（达特茅斯学院）
@@ -704,7 +705,7 @@ BM3D，KSVD，
  * [Learn OpenCV](http://www.learnopencv.com/) - 萨蒂亚马利克
  * [Tombone's Computer Vision Blog](http://www.computervisionblog.com/) -  Tomasz Malisiewicz
  * [Computer vision for dummies](http://www.visiondummy.com/) -  Vincent Spruyt
- * [Andrej Karpathy blog](http://karpathy.github.io/) -  Andrej Karpathy
+ * [Andrej Karpathy blog](http://karpathy.github.io/) -  Andrei Karpathy
  * [AI Shack](http://aishack.in/) -  Utkarsh Sinha
  * [Computer Vision Talks](http://computer-vision-talks.com/) -  Eugene Khvedchenya
  * [Computer Vision Basics with Python Keras and OpenCV](https://github.com/jrobchin/Computer-Vision-Basics-with-Python-Keras-and-OpenCV) -  Jason Chin（西安大略大学）

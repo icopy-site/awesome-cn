@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="moul/awesome-ssh"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; * SSH *的精选列表 [apps](#apps), [libraries](#libraries) 和 [resources](#resources).
@@ -32,7 +33,7 @@
 
 ### Servers
 
-* [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)]（https://github.com/moul/sshportal） - 简单，有趣，透明的SSH（＆Telnet）堡垒服务器
+* [sshportal](https://github.com/moul/sshportal) [![stars](https://img.shields.io/github/stars/moul/sshportal.svg?style=social&label=stars)](https://github.com/moul/sshportal) - simple, fun, and transparent SSH (& Telnet) Bastion Server
 * [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars)]（https://github.com/moul/ssh2docker） -  * SSH *服务器到Docker容器.
 * [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ]（https://github.com/FiloSottile/whosthere） - 一个知道你是谁的A * SSH *服务器.  `$ ssh whoami.filippo.io`.
 * [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars)]（https://github.com/gliderlabs/sshfront） - 可编程* SSH *前端.
@@ -45,7 +46,7 @@
 ### Network
 
 * [Mosh](https://mosh.mit.edu) - 移动外壳.
-* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)](https://github.com/libfuse/sshfs) - Filesystem client based on the *SSH* File Transfer Protocol.
+* [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars)]（https://github.com/libfuse/sshfs） - 基于* SSH *文件传输协议的文件系统客户端.
 * [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars)]（https://github.com/inconshreveable/ngrok） - 对localhost的内省隧道.
 * [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars)]（https://github.com/progrium/localtunnel） - 将本地主机服务器暴露给Internet.
 * [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars) ]（https://github.com/apenwarr/sshuttle） - 透明代理服务器，作为一个穷人的* VPN *.  转发`ssh`.  不需要管理员.  适用于* Linux *和* MacOS *.  支持* DNS隧道*.

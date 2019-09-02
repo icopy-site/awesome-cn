@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="davidsonfellipe/awesome-wpo"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 [![MIT license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat)](https://davidsonfellipe.mit-license.org/)
@@ -38,7 +39,7 @@
 * [High Performance Browser Networking: What every web developer should know about networking and web performance](http://shop.oreilly.com/product/0636920028048.do) -  Ilya Grigorik
 * [High Performance JavaScript](http://shop.oreilly.com/product/9780596802806.do) -  Nicholas C. Zakas
 * [High Performance Web Sites: Essential Knowledge for Front-End Engineers](http://books.google.de/books/about/High_Performance_Web_Sites.html?id=jRVlgNDOr60C&redir_esc=y) - 史蒂夫索德斯
-* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) – Tom Barker
+* [High Performance Responsive Design: Building Faster Sites Across Devices](http://shop.oreilly.com/product/0636920033103.do) - 汤姆巴克
 * [Lean Websites](https://www.sitepoint.com/premium/books/lean-websites) - 芭芭拉·贝尔姆斯
 * [Time Is Money: The Business Value of Web Performance](http://shop.oreilly.com/product/0636920041450.do) -  Tammy Everts
 * [Using WebPagetest](http://shop.oreilly.com/product/0636920033592.do) -  Rick Viscomi，Andy Davies，Marcel Duran
@@ -103,11 +104,11 @@
 * [HP LoadRunner](http://www8.hp.com/us/en/software-solutions/loadrunner-load-testing/) -  Hewlett-Packard的自动化性能和测试自动化产品，用于应用程序负载测试：检查系统行为和性能，同时生成实际负载.
 * [Yandex.Tank](https://github.com/yandex/yandex-tank) - 面向高级Linux用户的可扩展开源负载测试工具，作为自动负载测试套件的一部分特别好.
 * [Yellow Lab Tools](http://yellowlab.tools) - 在线快速简便的工具，可以审核前端不良做法，揭示性能问题和配置文件JavaScript.
-* [Pagelocity](http://pagelocity.com/) - A web performance optimization and analysis tool.
+* [Pagelocity](http://pagelocity.com/) -  Web性能优化和分析工具.
 * [Varvy](https://varvy.com/pagespeed/) - 测试您的网站，看它是否符合Google的速度指南.
 * [Web Bloat Score Calculator](http://www.webbloatscore.com/) - 将页面大小与同一页面的压缩图像进行比较
 * [Speed Racer](https://github.com/ngryman/speedracer) - 使用Chrome headless收集库/应用程序的性能指标.
-* [Speedrank](https://speedrank.app/) - Speedrank monitors the performance of your website in the background. It displays Lighthouse reports over time and delivers recommendations for improvement. Speedrank is a paid product with 14-day-trial.
+* [Speedrank](https://speedrank.app/)   -  Speedrank在后台监控您网站的性能.  它会随着时间的推移显示Lighthouse报告并提供改进建议.  Speedrank是一款带有14天试用版的付费产品.
 
 ## Analyzers - API
 
@@ -126,7 +127,7 @@
 
 ## Benchmark - CSS
 
-* [CSS-perf](https://github.com/mdo/css-perf)   - 完全不科学的测试CSS性能的方法.  大多数这些测试将围绕确定有效CSS架构的方法和技术展开.  换句话说，我想知道在CSS策略的特定比较中最有效的方法.
+* [CSS-perf](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 
 ## Benchmark - Javascript
@@ -135,7 +136,7 @@
 * [JSPerf](http://jsperf.com/) -  jsPerf旨在提供一种简单的方法来创建和共享测试用例，通过运行基准来比较不同JavaScript代码段的性能.
 * [Benchmark.js](http://benchmarkjs.com/) - 强大的基准测试库，适用于几乎所有JavaScript平台，支持高分辨率计时器，并返回统计上显着的结果.
 * [JSlitmus](https://github.com/broofa/jslitmus) -  JSLitmus是一个用于创建临时JavaScript基准测试的轻量级工具.
-* [Matcha](https://github.com/logicalparadox/matcha)   -  Matcha允许您设计测量代码性能的实验.  建议每个工作台都关注您应用中的特定影响点.
+* [Matcha](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js](https://github.com/addyosmani/timing.js)   -  Timing.js是一小组帮助程序，用于使用Navigation Timing API来识别应用程序花费时间的位置.  可用作独立脚本，DevTools Snippet或bookmarklet.
 * [Stats.js](https://github.com/mrdoob/stats.js) - 此类提供了一个简单的信息框，可帮助您监控代码性能.
 * [PerfTests](https://github.com/kogarashisan/PerfTests) -  JavaScript继承模型的性能测试.
@@ -145,7 +146,7 @@
 ## Benchmark - PHP
 
 * [PHPench](https://github.com/mre/PHPench)   -  PHPench为PHP基准测试创建图形输出.  使用GnuPlot实时绘制任何函数的运行时，并从结果中创建一个图像.
-* [php-bench](https://github.com/jacobbednarz/php-bench) - 测量PHP代码块的基准和配置文件，同时测量性能足迹.
+* [php-bench](https://github.com/jacobbednarz/php-bench) - Benchmark and profile PHP code blocks whilst measuring the performance footprint.
 
 
 ## Bookmarklets
@@ -214,7 +215,7 @@
 * [ZopfliPNG](https://github.com/google/zopfli) - 用于优化PNG图像的命令行程序.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - 重新压缩png文件以获得尽可能小的大小.
 * [Leanify](https://github.com/JayXon/Leanify) - 轻量级无损文件缩小器/优化器.
-* [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
+* [Trimage](http://trimage.org/) - 用于无损优化PNG和JPG文件的跨平台工具.
 * [ImageEngine](https://imageengine.io) - 云服务，可以动态优化，调整大小和缓存图像，并提供出色的移动支持.
 
 
@@ -278,7 +279,7 @@
 * [UglifyJS2](https://github.com/mishoo/UglifyJS2) -  UglifyJS是一个用JavaScript编写的JavaScript解析器，缩小器，压缩器或美化工具包.
 * [CSSO](https://github.com/css/csso)   - 与其他人不同的CSS缩小器.  除了通常的缩小技术，它还可以执行CSS文件的结构优化，与其他缩小器相比，文件大小更小.
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) -  cssmin.js是YUICompressor的CSS minifier的JavaScript端口.
-* [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - 用于连接文件的Grunt插件.
+* [Grunt-contrib-concat](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify](https://github.com/gruntjs/grunt-contrib-uglify) - 用于连接和缩小Javascript文件的Grunt插件.
 * [Clean-css](https://github.com/jakubpawlowicz/clean-css) -  node.js的快速，高效且经过良好测试的CSS缩小器.
 * [Django-compressor](https://github.com/django-compressor/django-compressor) - 将链接和内联javascript或CSS压缩到单个缓存文件中.

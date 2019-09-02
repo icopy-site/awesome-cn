@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stoeffel/awesome-fp-js"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一个很棒的精选列表 [functional programming](https://en.wikipedia.org/wiki/Functional_programming)  JavaScript的代码和学习资源.  作为一种多范式编程语言，JavaScript可以用很多样式编写.  有了这些资源，我们希望帮助您更好地利用JavaScript支持以_functional_方式编写程序.
@@ -15,7 +16,7 @@
 * [Rambda](https://github.com/selfrefactor/rambda) - 在10kB以下更快的替代Ramda.
 * [Folktale](http://folktale.origamitower.com/) - 用于JavaScript函数编程的标准库.
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) - 一个实例 [Lodash](https://github.com/lodash/lodash) 将其方法包装起来，以生成不可变的，自动curried，iteratee-first，data-last方法.
-* [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
+* [functional.js](http://functionaljs.com) - 轻量级功能JavaScript库，便于currying和无点/默认编程.
 * [101](https://github.com/tjmehta/101) - 一个现代的模块化JavaScript实用程序库，可以很好地与vanilla JavaScript方法配合使用.
 * [fnuc](https://github.com/algesten/fnuc) -  CoffeeScript（和JavaScript）的功能库，用于促进功能组合和更高阶的功能.
 * [barely-functional](https://github.com/cullophid/barely-functional) - 使用原生ES5 / 6操作的小型（2.7kb）函数编程库.
@@ -38,7 +39,7 @@
 * [claire](https://github.com/robotlolita/claire) - 基于属性的测试库，用于清楚地指定代码不变量和行为.
 * [FPO.js](https://github.com/getify/fpo)   -  Kyle Simpson的JavaScript库（又名getify）.  支持命名参数样式方法.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) - 受Haskell的Parsec启发的Javascript解析器组合器实现
-* [fun-task](https://github.com/rpominov/fun-task)   - 用于管理JS中的异步代码的抽象.  任务类似于Promises，主要区别在于Tasks可以表示计算，而Promise只能表示计算结果.  具有Flow类型定义的船舶.
+* [fun-task](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
 * [most](https://github.com/cujojs/most) - 超高性能的反应式编程，可帮助您在值和事件流上组成异步操作，而不会产生许多副作用和可变共享状态的危险.
 * [zen-signals](https://github.com/joaomilho/zen-signals) - ☯最简单的信号库
 * [funfix](https://github.com/funfix/funfix) -  Funfix是一个用于JavaScript，TypeScript和Flow中的函数编程的类型类和数据类型的库.
@@ -54,7 +55,7 @@
 通过使用任务的正确数据结构来编写高性能代码.
 
 * [Icepick](https://github.com/aearly/icepick) 用于将冻结的JavaScript对象视为持久不可变集合的实用程序
-* [Immutable.js](https://github.com/facebook/immutable-js) - 不可变的持久数据收集.
+* [Immutable.js](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
 * [Immer](https://github.com/mweststrate/immer) -  Immer是一个基于写时复制机制的不可变状态的小包.
 * [Mori](https://github.com/swannodette/mori) -  ClojureScript的持久数据结构和支持API来自舒适的vanilla JavaScript.
 * [Baobab](https://github.com/Yomguithereal/baobab) - 具有游标的持久性和可选的不可变数据树.
@@ -150,7 +151,7 @@
 * [Lazy, composable, and modular JavaScript](https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript) - 使用ES6的四个新功能 - 迭代，生成器，胖箭头，以及与高阶函数，函数组合和延迟评估相结合，编写更清晰，更模块化的JavaScript.
 * [Why Ramda](http://fr.umio.us/why-ramda/)   - 对于那些不熟悉函数式编程的人来说，Ramda似乎没有任何用处.  但是，它确实提供了不同的编码风格，这种风格在纯函数式编程语言中被认为是理所当然的：Ramda使您可以通过功能组合轻松构建复杂的逻辑.
 * [Monads in JavaScript](https://curiosity-driven.org/monads-in-javascript) -  JavaScript中Monad设计模式的介绍.
-* [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html) - 浏览JavaScript中特定monadic结构的一些实际用例：使用`Maybe` monad处理简单的故障情况，并使用`Either` monad或`Validation` applicative functor建模更复杂的场景.
+* [A Monad in Practicality: First-Class Failures](http://robotlolita.me/2013/12/08/a-monad-in-practicality-first-class-failures.html) - 浏览JavaScript中特定monadic结构的一些实际用例：使用`Maybe` monad处理简单的失败案例，并使用`Either` monad或`Validation` applicative functor建模更复杂的场景.
 * [Functional programming](https://glebbahmutov.com/blog/tags/functional/) -  Gleb Bahmutov撰写的关于JavaScript函数式编程各方面的许多文章.
 * [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon) - 来自函数式编程世界的术语用JavaScript解释.
 * [Data Structures in JavaScript](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript/) - 一系列博客文章，重新实现JavaScript中的各种数据结构，以更好地了解它们的优点和缺点.
@@ -215,4 +216,4 @@
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Christoph Hermann](http://stoeffel.github.io/) 已放弃对此作品的所有版权及相关或相邻权利.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="websemantics/awesome-ant-design"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ```
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
@@ -31,7 +32,7 @@ Ant Design是一种中间件设计语言，由Ant Financial的经验技术部门
 
 Ant Design的官方项目和资源.
 
-- [Ant Design](http://ant.design/) - An Enterprise-class UI design language and React-based implementation.
+- [Ant Design](http://ant.design/) - 企业级UI设计语言和基于React的实现.
 - [Ant Design Pro](http://pro.ant.design/) - 面向企业应用程序的开箱即用UI解决方案：fire :: fire :: fire：
 - [Ant Design Mobile](http://mobile.ant.design/) - 可配置的移动UI规范和基于React的实现.
 - [Ant Design of React](http://react-component.github.io/badgeboard/) - 基于React开箱即用的优雅UI组件.
@@ -92,7 +93,7 @@ Ant Design系列项目.
 - [ant-design-vue](https://github.com/vueComponent/ant-design-vue) -  Vue.js 2.5.0+的Ant设计.
 - [Vue.js Beauty](https://github.com/FE-Driver/vue-beauty) - 使用Vue.js和Ant Design构建漂亮的UI组件.
 - [Vue.js Ant UI](https://github.com/kokoroX/vue-ant-ui) - 在Vue.js中构建的Ant设计UI组件.
-- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -  Vue.js版本的Ant Design.
+- [Ant Design Vue](https://github.com/lileilei/Ant-design-vue) -  Ant设计的Vue.js版本.
 - [antue](https://github.com/zzuu666/antue) - 一组企业级Vue UI组件，完全遵循Ant设计规范.
 - [vue-antd-admin](https://github.com/iczer/vue-antd-admin) - 使用Vue实现Ant Design Pro
 
@@ -169,7 +170,7 @@ Ant Design系列项目.
 ## Icons
 
 - [Official Ant Design Icons](http://github.com/ant-design/ant-design-icons)
-- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) -  Ant Design和Ant Design Mobile的高级图标字体.
+- [Ant Design Icons](https://github.com/fjc0k/ant-design-icons) - The premium icon font from Ant Design and Ant Design Mobile.
 
 ## Design Tools and Resources
 

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="shlomi-noach/awesome-mysql"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-mysql
 
 精选的MySQL免费和开源软件，库和资源的精选列表. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -24,7 +25,7 @@
 - [pstop](https://github.com/sjmudd/ps-top) - 一个类似于MySQL的顶级程序，从performance_schema收集，聚合和显示信息.
 ## Backup
 
-*Backup/restore/recovery tools*
+*备份/恢复/恢复工具*
 
 - [MyDumper](https://github.com/maxbube/mydumper) -  MySQL的逻辑，并行备份/转储工具
 - [MySQLDumper](http://www.mysqldumper.net/) - 基于开源Web的备份工具 - 对共享虚拟主机很有用
@@ -187,7 +188,7 @@
 
 ## Conferences
 
-* MySQL *及其周围的公开，定期会议*
+*Public, recurring conferences on and around MySQL*
 
 - [FOSDEM](https://fosdem.org/)   - 软件开发人员免费参加会议，分享想法和协作的活动.  每年，在布鲁塞尔.  提供“MySQL和朋友”房间.
 - [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) -  Oracle年度MySQL会议，作为Oracle Open World的一部分.

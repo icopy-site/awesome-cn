@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="micromata/awesome-css-learning"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://dzwonsemrish7.cloudfront.net/items/1Q3S3H0L1C1V2e2B2v3T/css3-logo.svg" width="125" align="right" alt="CSS Logo"></a>
 
 &gt;一个很棒的列表限于最好的CSS学习资源
@@ -34,7 +35,7 @@
 
 ## Selectors
 
-- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - 介绍您需要了解的非常基本的CSS选择器.
+- [Basic CSS Selectors](https://www.sitepoint.com/css-selectors/) - 介绍你需要知道的非常基本的CSS选择器.
 - [Advanced CSS Selectors](https://www.smashingmagazine.com/2009/08/taming-advanced-css-selectors/)   - 提升你的知识水平.  从属性选择器到CSS3伪类.
 - [CSS Dinner](https://flukeout.github.io) - 学习如何在这个有趣的小游戏中使用CSS选择器.
 
@@ -64,7 +65,7 @@
 - [Flexbox playground](https://codepen.io/enxaneta/full/adLPwv) - 在CodePen上使用Flexbox示例.
 - [Flexbox Defense](http://www.flexboxdefense.com) - 浏览器中的塔防游戏，可以充满乐趣地了解Flexbox.
 - [Flexbox Froggy](https://flexboxfroggy.com) - 通过青蛙和睡莲的有趣游戏了解Flexbox的所有基础知识.
-- [Flexbugs](https://github.com/philipwalton/flexbugs) - 社区策划的Flexbox问题列表以及针对它们的跨浏览器解决方法.
+- [Flexbugs](https://github.com/philipwalton/flexbugs) - 针对社区策划的Flexbox问题列表以及针对它们的跨浏览器解决方法.
 - [Flexbox Zombies](https://flexboxzombies.com) - 由故事情节驱动的培训课程，您可以使用Flexbox和弩来捕捉僵尸.
 
 ### Grid

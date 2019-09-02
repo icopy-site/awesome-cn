@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="neutraltone/awesome-stock-resources"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](https://raw.githubusercontent.com/neutraltone/awesome-stock-resources/master//img/splash.jpg)
@@ -139,7 +140,7 @@
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) 找到免费的矢量，PSD，图标和照片.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) 一个有趣的小社区的矢量爱好者共享免费矢量图形.
 * [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) 为您的项目免费提供CC Attribution 4.0徽标设计.
-* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) 免费和大CC归因 -  ShareAlike 4.0矢量包与手绘涂鸦的演示文稿，社交媒体，博客文章等. 
+* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. 
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo是为您的下一个设计项目发现Sketch App资源的好地方.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) 发现并从插图社区下载免费矢量艺术.
 
@@ -180,7 +181,7 @@ CSS和基于图像的模式资源的混合.
 * [Beautiful Web Type](https://beautifulwebtype.com) - 展示Google网站字体目录中最好的字体.
 * [Brick](https://github.com/alfredxing/brick) -  Webfonts实际上看起来不错.
 * [Font Fabric](http://www.fontfabric.com/category/free/) -  Font Fabric的免费字体.
-* [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
+* [Font Squirrel](https://www.fontsquirrel.com) - 精心挑选的字体免费用于商业用途.
 * [Google Fonts](https://fonts.google.com/) - 用于Web字体的免费托管应用程序编程接口的交互式目录.
 * [Impallari](http://www.impallari.com/) -  Libre字体项目 [Pablo Impallari](https://github.com/impallari).
 * [Open Type Foundry](http://open-foundry.com/hot30) - [:copyright:](http://open-foundry.com/about) 一个在无噪声环境中开源字体的新平台.
@@ -223,7 +224,7 @@ SVG图标资源的集合，可用于您的界面和网站设计.
 * [Game Icons](http://game-icons.net/) - [:copyright:](https://creativecommons.org/licenses/by/3.0/) 越来越多的SVG图标主要针对视频游戏.
 * [Iconmonstr](https://iconmonstr.com/) - [:copyright:](https://iconmonstr.com/license/) SVG和PNG格式的大量图标.
 * [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright:](https://github.com/djaiss/mapsicon#license) Mapsicon是世界上几乎每个国家的免费地图集，有11种不同的尺寸，范围从16x16像素到1024x1024像素，以及.svg格式.
-* [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
+* [Material Design Icons](https://www.materialui.co/icons) - 免费，材料设计风格图标的集合.
 * [Simple Icons](https://github.com/simple-icons/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) 流行品牌的SVG图标.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/)  超过150,000个图标由世界各地的创作者设计.  免费用户必须对创作者给予信任.
 
@@ -269,7 +270,7 @@ SVG图标资源的集合，可用于您的界面和网站设计.
 * [Bensound](https://www.bensound.com) - [:copyright:](https://www.bensound.com/licensing) Bensound版税免费音乐.
 * [ccMixter](http://ccmixter.org/) - [:copyright:](http://ccmixter.org/how-to-attribute-ccmixter-tracks) ccMixter.org提供超过30,000个原创曲目，可在YouTube视频，混音，移动应用，游戏等中自由使用.
 * [Free Loops](http://free-loops.com) - [:copyright:](http://free-loops.com/creative-commons-audio.php) 自由循环和音频剪辑.
-* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) 一个由高质量，合法音频下载指导的互动图书馆 [WFMU](https://wfmu.org/)，美国最着名的自由形式广播电台.
+* [Free Music Archive](http://freemusicarchive.org/) - [:copyright:](https://creativecommons.org/) An interactive library of high-quality, legal audio downloads directed by [WFMU](https://wfmu.org/)，美国最着名的自由形式广播电台.
 * [Freesound](https://freesound.org/) - [:copyright:](https://freesound.org/help/about/) 音频片段，样本，录音和哔哔声的协作数据库.
 * [Internet Archive’s Netlabels Collection](https://archive.org/details/netlabels) - [:copyright:](https://creativecommons.org/) Netlabels集合主机完整，可免费下载/流化.
 * [Jamendo](https://www.jamendo.com/start) - [:copyright:](https://creativecommons.org/) 独立音乐社区，收集大量创意公共音乐授权音乐.

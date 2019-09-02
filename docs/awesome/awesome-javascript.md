@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sorrycc/awesome-javascript"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一个很棒的浏览器端集合 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 图书馆，资源和闪亮的东西.
@@ -142,7 +143,7 @@
 
 * [KeystoneJS](https://github.com/keystonejs/keystone) - 功能强大的CMS和Web应用程序框架.
 * [Reaction Commerce](https://github.com/reactioncommerce/reaction) - 反应式CMS，实时架构和设计.
-* [Ghost](https://github.com/tryghost/Ghost) - 简单，强大的发布平台.
+* [Ghost](https://github.com/tryghost/Ghost) - simple, powerful publishing platform.
 * [We.js](https://github.com/wejs/we/) - 实时应用程序，网站或博客的框架.
 * [Hatch.js](https://github.com/inventures/hatchjs) - 具有社交功能的CMS平台.
 * [TaracotJS](https://github.com/xtremespb/taracotjs-generator/) - 基于Node.js的快速简约CMS.
@@ -156,14 +157,14 @@
 * [mustache.js](https://github.com/janl/mustache.js) -  JavaScript中{{mustaches}}的最小模板.
 * [handlebars.js](https://github.com/wycats/handlebars.js/) - 胡子模板语言的扩展.
 * [nunjucks](https://mozilla.github.io/nunjucks/) - 来自Mozilla的JavaScript丰富而强大的模板语言.
-* [hogan.js](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
+* [hogan.js](https://github.com/twitter/hogan.js) -  Mustache模板语言的编译器.
 * [doT](https://github.com/olado/doT) -  nodejs和浏览器的最快+简洁的JavaScript模板引擎.
 * [dustjs](https://github.com/linkedin/dustjs/) - 浏览器和node.js的异步模板.
 * [eco](https://github.com/sstephenson/eco/) - 嵌入式CoffeeScript模板.
 * [JavaScript-Templates](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js](https://github.com/jasonmoo/t.js) - 一个小的JavaScript模板框架，约400字节gzip压缩.
 * [Pug](https://github.com/pugjs/pug)   - 用于nodejs的强大，优雅，功能丰富的模板引擎.  （以前称为玉）
-* [EJS](https://github.com/mde/ejs) - 有效的JavaScript模板.
+* [EJS](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate](https://github.com/xtemplate/xtemplate) - 节点和浏览器的可扩展模板引擎库
 * [marko](https://github.com/marko-js/marko) - 一个快速，轻量级，基于HTML的模板引擎，用于Node.js和浏览器，具有异步，流，自定义标签和CommonJS模块作为编译输出.
 * [swig](http://paularmstrong.github.io/swig/) - 一个简单，功能强大且可扩展的Node.js和基于浏览器的JavaScript模板引擎.
@@ -244,7 +245,7 @@
 * [jsoneditor](https://github.com/josdejong/jsoneditor) - 基于Web的工具，用于查看，编辑和格式化JSON.
 * [vim.js](https://github.com/coolwanglu/vim.js) - 具有持久性`〜/ .vimrc`的Vim的JavaScript端口.
 * [Squire](https://github.com/neilj/Squire) -  HTML5富文本编辑器.
-* [TinyMCE](https://github.com/tinymce/tinymce) -  JavaScript Rich Text编辑器.
+* [TinyMCE](https://github.com/tinymce/tinymce) - The JavaScript Rich Text editor.
 * [trix](https://github.com/basecamp/trix)   - 用于日常写作的富文本编辑器.  通过Basecamp.
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - 轻量级且令人惊叹的WYSIWYG JavaScript编辑器.
 * [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架.
@@ -255,7 +256,7 @@
 
 ## Documentation
 
-* [DevDocs](http://devdocs.io/) is an all-in-one API documentation reader with a fast, organized, and consistent interface.
+* [DevDocs](http://devdocs.io/) 是一个一体化的API文档阅读器，具有快速，有条理和一致的界面.
 * [dexy](http://www.dexy.it/) 是一种自由形式的文化文档工具，用于编写包含代码的任何类型的技术文档.
 * [docco](http://jashkenas.github.io/docco/) 是一个快速，肮脏，百行，文字编程风格的文档生成器.
 * [styledocco](http://jacobrask.github.io/styledocco/) 从样式表生成文档和样式指南文档.
@@ -336,7 +337,7 @@
 * [voca](https://github.com/panzerdp/voca) - 终极JavaScript字符串库
 * [selecting](https://github.com/EvandroLG/selecting) - 允许您访问用户选择的文本的库.
 * [underscore.string](https://github.com/epeli/underscore.string) -  Underscore.js JavaScript库的字符串操作扩展.
-* [string.js](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
+* [string.js](https://github.com/jprichardson/string.js) - 额外的JavaScript字符串方法.
 * [he](https://github.com/mathiasbynens/he) - 用JavaScript编写的强大的HTML实体编码器/解码器.
 * [multiline](https://github.com/sindresorhus/multiline) -  JavaScript中的多行字符串.
 * [query-string](https://github.com/sindresorhus/query-string) - 解析和字符串化URL查询字符串.
@@ -447,7 +448,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) - 用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) - 用于JavaScript驱动的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) - 一个jQuery插件，可以轻松使用RESTful API.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) - An opinionated REST client for Ruby on Rails APIs.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -  Ruby on Rails API的自负REST客户端.
 
 ## Streaming
 
@@ -520,7 +521,7 @@
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) - 用于处理JavaScript中键盘快捷键的简单库.
 * [keymaster](https://github.com/madrobby/keymaster) - 用于定义和分派键盘快捷键的简单微库.
-* [Keypress](https://github.com/dmauro/Keypress) - 键盘输入捕获实用程序，其中任何键都可以是修饰键.
+* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 用于绑定键盘组合的JavaScript库，没有键码和键组合冲突的痛苦.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -  jQuery Hotkeys让您可以在代码中的任何位置观看键盘事件，几乎可以支持任何组合键.
 * [jwerty](https://github.com/keithamus/jwerty) - 精彩的键盘事件处理.
@@ -560,11 +561,11 @@
 * [sly](https://github.com/darsain/sly) - 用于单向滚动的JavaScript库，具有基于项目的导航支持.
 * [vegas](https://github.com/jaysalvat/vegas)   - 一个jQuery插件，可以为您的网页添加漂亮的全屏背景.  它甚至允许幻灯片播放.
 * [Sequence](https://github.com/IanLunn/Sequence) -  CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+* [reveal.js](https://github.com/hakimel/reveal.js) - 使用HTML轻松创建精美演示文稿的框架.
 * [impress.js](https://github.com/impress/impress.js) - 这是一个基于现代浏览器中CSS3转换和转换功能的演示框架，并受到prezi.com背后的想法的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -  DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -  Strut  - 一个Impress.js和Bespoke.js演示编辑器
-* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - 适用于移动和桌面的JavaScript图像库，模块化，独立于框架.
 * [jcSlider](https://github.com/JoanClaret/jcSlider) - 具有CSS动画的响应式滑块jQuery插件.
 * [basic-jquery-slider](https://github.com/jcobb/basic-jquery-slider) - 使用简单，主题简单，易于定制.
 * [jQuery.adaptive-slider](https://github.com/creative-punch/jQuery.adaptive-slider/) - 一个带有自适应彩色figcaption和导航的滑块的jQuery插件.
@@ -594,7 +595,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用此jQuery插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯JavaScript掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)   - 用于样式复选框和单选按钮的jQuery插件.  有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)   - 超轻量，可用，美观的自动完成，零依赖.   -  http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete
 
 ### Calendar
 
@@ -699,14 +700,14 @@
 * [Semantic UI](http://semantic-ui.com/) - 具有许多主题和元素的UI工具包.
 * [w2ui](http://w2ui.com/) - 一组用于数据驱动的Web应用程序前端开发的jQuery插件.
 * [fluidity](https://github.com/mrmrs/fluidity) - 世界上最小的完全响应的CSS框架.
-* [Ink](https://github.com/sapo/Ink) -  SAPO使用的HTML5 / CSS3框架，用于快速有效的网站设计和原型设计.
+* [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
 
 ## Boilerplates
 
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - 专业的前端模板，用于构建快速，强大且适应性强的Web应用程序或站点.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) - 一个前端模板，可帮助您构建快速，现代的移动Web应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) - 一个非常棒的前端框架，让您可以专注于构建您的网站或应用程序，同时保持非常容易使用.
- * [Cerberus](https://github.com/TedGoas/Cerberus)   - 响应式HTML电子邮件的一些简单但可靠的模式.  甚至在Outlook中.
+ * [Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) - 带有全宽背景图像的介绍页面，大胆的动画菜单以及导航背后的类似iOS的模糊效果.
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) - 方形单元的流体网格.
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) - 移动优先响应式网页设计的一个例子.
@@ -826,7 +827,7 @@ http://www.listjs.com
 * [grid](https://github.com/hootsuite/grid) - 拖放库，用于二维，可调整大小和响应式列表.
 * [jquery-match-height](https://github.com/liabru/jquery-match-height) -  jQuery的响应性相等高度插件.
 * [survey.js](https://github.com/surveyjs/surveyjs)   -  JavaScript Survey Engine.  它使用JSON进行调查元数据和结果.  http://surveyjs.org/
-* [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) - Resources to help figure out what native JavaScript method would be best to use at any given time
+* [Array Explorer](https://github.com/sdras/array-explorer) 和 [Object Explorer](https://sdras.github.io/object-explorer/) - 帮助确定在任何给定时间最适合使用本机JavaScript方法的资源
 * [Clipboard.js](https://clipboardjs.com/) - 没有Flash或使用Frameworks的“复制到剪贴板”.
 * [ky](https://github.com/sindresorhus/ky) - 基于浏览器Fetch API的简洁优雅的HTTP客户端.
 

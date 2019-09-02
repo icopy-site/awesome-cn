@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="pico-8/awesome-PICO-8"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome PICO-8 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -133,7 +134,7 @@
 
  大！  ：笑脸：
 
-请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) 第一.
+请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) first.
 
 ## License
 

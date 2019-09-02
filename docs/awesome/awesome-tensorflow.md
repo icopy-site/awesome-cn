@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jtoy/awesome-tensorflow"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/jtoy/awesome)
 
  精彩的TensorFlow实验，库和项目的精选列表.  受到令人敬畏的机器学习的启发.
@@ -23,7 +24,7 @@
 
 * [TensorFlow Tutorial 1](https://github.com/pkmital/tensorflow_tutorials) - 从TensorFlow的基础知识到稍微有趣的应用程序
 * [TensorFlow Tutorial 2](https://github.com/nlintz/TensorFlow-Tutorials)   - 基于Google的TensorFlow框架的深度学习简介.  这些教程是Newmu的Theano的直接端口
-* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - These tutorials are intended for beginners in Deep Learning and TensorFlow with well-documented code and YouTube videos.
+* [TensorFlow Tutorial 3](https://github.com/Hvass-Labs/TensorFlow-Tutorials) - 这些教程适用于深度学习和TensorFlow的初学者，其中包含详细记录的代码和YouTube视频.
 * [TensorFlow Examples](https://github.com/aymericdamien/TensorFlow-Examples) - 适用于初学者的TensorFlow教程和代码示例
 * [Sungjoon's TensorFlow-101](https://github.com/sjchoi86/Tensorflow-101) - 使用Jupyter Notebook用Python编写的TensorFlow教程
 * [Terry Um’s TensorFlow Exercises](https://github.com/terryum/TensorFlow_Exercises) - 从其他TensorFlow示例重新创建代码
@@ -31,7 +32,7 @@
 * [Classification on time series](https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition) - 在TensorFlow中使用LSTM对手机传感器数据进行递归神经网络分类
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - 构建您的第一个TensorFlow Android应用程序
 * [Predict time series](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - 学习在简单数据集上使用seq2seq模型，作为该体系结构提供的大量可能性的介绍
-* [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS)   -  SIRDS是一种在2D图像中呈现3D数据的方法.  它允许科学数据显示瀑布型图，由于透视没有隐藏线.
+* [Single Image Random Dot Stereograms](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
 * [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) -  2017年关于Tensorflow的斯坦福课程 -  [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 * [TensorFlow World](https://github.com/astorfi/TensorFlow-World) - 提供简明且随时可用的TensorFlow教程以及详细的文档.
 * [Effective Tensorflow](https://github.com/vahidk/EffectiveTensorflow)   -  TensorFlow howtos和最佳实践.  涵盖基础知识和高级主题.
@@ -76,7 +77,7 @@
 * [DQN-tensorflow](https://github.com/devsisters/DQN-tensorflow) - 由Devsisters.com通过OpenAI Gym实现DeepMind的“通过深度强化学习进行人机控制”的TensorFlow
 * [Policy Gradient](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_atari_pong.py) - 玩Atari Ping Pong
 * [Deep Q-Network](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_frozenlake_dqn.py) - 玩冰冻湖游戏
-* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - 扮演离散动作空间游戏的演员评论家（Cartpole）
+* [AC](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_cartpole_ac.py) - Actor Critic for Playing Discrete Action space Game (Cartpole)
 * [A3C](https://github.com/zsdonghao/tensorlayer/blob/master/example/tutorial_bipedalwalker_a3c_continuous_action.py) - 用于连续动作空间的异步优势演员评论家（A3C）（双足步行者）
 * [DAGGER](https://github.com/zsdonghao/Imitation-Learning-Dagger-Torcs) - 用于比赛 [Gym Torcs](https://github.com/ugo-nama-kun/gym_torcs)
 * [TRPO](https://github.com/jjkke88/RL_toolbox) - 对于连续和离散动作空间
@@ -172,7 +173,7 @@
 * [TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems](http://download.tensorflow.org/paper/whitepaper2015.pdf) - 本文描述了TensorFlow界面以及我们在Google上构建的该界面的实现
 * [TensorFlow Estimators: Managing Simplicity vs. Flexibility in High-Level Machine Learning Frameworks](https://arxiv.org/pdf/1708.02637.pdf)
 * [TF.Learn: TensorFlow's High-level Module for Distributed Machine Learning](https://arxiv.org/abs/1612.04251)
-* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - The study is performed on several types of deep learning architectures and we evaluate the performance of the above frameworks when employed on a single machine for both (multi-threaded) CPU and GPU (Nvidia Titan X) settings
+* [Comparative Study of Deep Learning Software Frameworks](http://arxiv.org/abs/1511.06435) - 该研究是在几种类型的深度学习架构上进行的，我们评估上述框架在单机器上用于（多线程）CPU和GPU（Nvidia Titan X）设置时的性能
 * [Distributed TensorFlow with MPI](http://arxiv.org/abs/1603.02339) - 在本文中，我们最近提出了使用消息传递接口（MPI）在大规模集群上执行的Google TensorFlow
 * [Globally Normalized Transition-Based Neural Networks](http://arxiv.org/abs/1603.06042) - 本文介绍了背后的模型 [SyntaxNet](https://github.com/tensorflow/models/tree/master/syntaxnet).
 * [TensorFlow: A system for large-scale machine learning](https://arxiv.org/abs/1605.08695) - 本文描述了与现有系统形成对比的TensorFlow数据流模型，并展示了引人注目的性能

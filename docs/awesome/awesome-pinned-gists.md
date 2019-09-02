@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="matchai/awesome-pinned-gists"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/4658208/57482610-14f64480-7273-11e9-862e-80d9fe332311.png" width="535">
   <h3 align="center">令人敬畏的固定精神</h3>

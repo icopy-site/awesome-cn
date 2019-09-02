@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dypsilon/frontend-dev-bookmarks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **为前端Web开发人员手动策划的资源集合.**
@@ -39,7 +40,7 @@
 
 + **[Cross Browser](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/cross-browser.md)**：跨浏览器是指网站，Web应用程序，HTML构造或客户端脚本在提供其所需功能的环境中运行的能力，以及在功能不存在或缺少时优雅地退出或降级的能力.
 + **[E-Mail](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/e-mail.md)**：准备基于HTML的电子邮件.
-+ **[Keyboard](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/keyboard.md)**：在Web浏览器中使用键盘输入.
++ **[Keyboard](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/keyboard.md)**: Working with keyboard input in a web browser.
 + **[Mobile](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/mobile.md)**：开发针对在智能手机和平板电脑设备上观看而优化的网站.
 + **[Printers](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/printers.md)**：通过CSS操作打印机输出.
 + **[Responsive Web Design (RWD)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/compatibility/responsive-web-design-rwd.md) **：RWD响应用户及其使用的设备的需求.  布局根据设备的大小和功能而变化.
@@ -47,7 +48,7 @@
 
 ## Ecosystem
 
-Important developers, companies, organizations and news sources.
+重要的开发人员，公司，组织和新闻来源.
 
 + **[Communities Around Projects](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/communities-around-projects.md) **：成功的开源项目吸引了许多制作插件，库，教程和其他资源的开发人员.  本节收集此类资源.
 + **[News](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/ecosystem/news.md)**：提供与前端Web开发相关的每日和每周新闻的网站和新闻简报.
@@ -70,7 +71,7 @@ Important developers, companies, organizations and news sources.
 + **[Templating Languages and Engines](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/templating-languages-and-engines.md) **：模板引擎是将程序逻辑和表示分成两个独立部分的工具.  这使得逻辑和表示的开发更容易，提高了灵活性并简化了修改和维护.
 + **[Transpiled Languages](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/transpiled-languages.md)**：抽象语言转换为原生的，浏览器支持的标准，如JavaScript或CSS.
 + **[Uniform Resource Identifier (URI)](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/uniform-resource-identifier-uri.md) **：URI是用于标识资源的字符串.  最常见的URI形式是统一资源定位器（URL）.
-+ **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md) **：Web Animations是一种新的JavaScript API，用于在Web上驱动动画内容.  通过统一SVG和CSS的动画功能，Web Animations解锁以前只能以声明方式使用的功能，并向开发人员展示强大的高性能动画功能.
++ **[Web Animations API](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/animation/web-animations-api.md) **：Web Animations是一种新的JavaScript API，用于在Web上驱动动画内容.  通过统一SVG和CSS的动画功能，Web Animations解锁以前只能以声明方式使用的功能，并向开发人员公开强大的高性能动画功能.
 + **[WebAssembly](https://github.com/dypsilon/frontend-dev-bookmarks/blob/master/languages-protocols-browser-apis/webassembly.md)**：WebAssembly旨在填补JavaScript迄今为止被占用的地方：一个可用作编译器目标的低级代码表示.
 
 ## User Interface Components

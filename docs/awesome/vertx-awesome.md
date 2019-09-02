@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="vert-x3/vertx-awesome"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/vert-x3/vertx-awesome/master/logo-sm.png" align="right" width="250">](http://vertx.io)
@@ -42,7 +43,7 @@
 * [Irked](https://github.com/GreenfieldTech/irked) -  Vert.x 3 Web和控制器框架的基于注释的配置.
 * [REST.VertX](https://github.com/zandero/rest.vertx) - 轻量级JAX-RS（RestEasy），用于Vert.x垂直的注释处理器.
 * [Atmosphere Vert.x](https://github.com/Atmosphere/atmosphere-vertx) -  JVM的实时客户端服务器框架，支持跨浏览器回退的WebSockets和服务器发送事件.
-* [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - 在Vert.x上运行应用程序.
+* [Vert.x Vaadin](https://github.com/mcollovati/vertx-vaadin) - 运行我在Vert.x上查找应用程序.
 * [Serverx](https://github.com/lukehutch/serverx) - 允许您仅使用路径处理程序注释快速轻松地设置Vert.x驱动的服务器.
 
 ## Authentication Authorisation
@@ -54,7 +55,7 @@
 
 *连接数据库的客户*
 
-* Relational Databases
+*关系数据库
   * [JDBC](https://raw.githubusercontent.com/vert-x3/vertx-jdbc-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 围绕JDBC数据源的异步接口.
   * [MySQL / PostgreSQL](https://raw.githubusercontent.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  MySQL / PostgreSQL的异步客户端.
   * [PostgreSQL](https://github.com/vietj/reactive-pg-client) - 反应性PostgreSQL客户端.
@@ -88,7 +89,7 @@
 
 * REST
   * [Vert.x REST Client](https://github.com/hubrick/vertx-rest-client) -  Vert.x的REST客户端，支持RxJava和请求缓存.
-  * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - 使用Vert.x进行Retrofit的高度可扩展的适配器.
+  * [Retrofit adapter for Vert.x](https://github.com/vietj/retrofit-vertx) - A highly scalable adapter for Retrofit with Vert.x.
 
 *消息
   * [AMQP 1.0](https://raw.githubusercontent.com/vert-x3/vertx-amqp-bridge) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 使用Vert.x Producer和Consumer API与AMQP 1.0服务器交互.
@@ -108,7 +109,7 @@
 
 * JavaEE
   * [JCA adaptor](https://raw.githubusercontent.com/vert-x3/vertx-jca) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 用于Vert.x事件总线的Java Connector Architecture Adapter.
-  * [Weld](https://github.com/weld/weld-vertx) - 将CDI编程模型引入Vert.x生态系统（将CDI观察者方法注册为Vert.x消息使用者，CDI驱动的Verticle，以声明方式定义路由等）.
+  * [Weld](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
 
 *流星
   * [Meteor](https://github.com/jmusacchio/vertxbus/) - 通过Vert.x事件总线支持流星集成.
@@ -264,7 +265,7 @@
 * [Vert.x Gentics Mesh Example](https://github.com/gentics/mesh-vertx-example) - 有关如何使用Gentics Mesh和把手构建基于模板的Web服务器的示例.
 * [HTTP/2 showcase](https://github.com/aesteve/http2-showcase) - 一个简单的演示，展示了当涉及巨大的延迟时，HTTP / 2如何能够显着改善用户体验.
 * [Vert.x Music Store](https://github.com/tsegismont/vertx-musicstore) - 关于如何使用RxJava构建Vert.x应用程序的示例应用程序.
-* [Crabzilla](https://github.com/crabzilla/crabzilla) - Yet another Event Sourcing experiment. A project exploring Vert.x to develop Event Sourcing / CQRS applications.
+* [Crabzilla](https://github.com/crabzilla/crabzilla)   - 又一个事件采购实验.  探索Vert.x以开发Event Sourcing / CQRS应用程序的项目.
 * [Vert.x PostgreSQL Starter](https://github.com/BillyYccc/vertx-postgresql-starter) - 使用Vert.x堆栈和PostgreSQL构建单一的CRUD RESTful Web服务的入门者.
 * [Cloud Foundry](https://github.com/amdelamar/vertx-cloudfoundry) - 用于部署到a的Vert.x示例 [Cloud Foundry](https://www.cloudfoundry.org/) 服务提供者.
 * [Knative](https://github.com/knative/docs/tree/master/serving/samples/helloworld-vertx) - 关于如何使用的示例应用程序 [Reactive Extensions Vert.x](https://github.com/vert-x3/vertx-rx) 同 [Knative](https://github.com/knative).

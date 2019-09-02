@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ebu/awesome-broadcasting"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 为广播公司制作精彩的开源资源的精选列表.
 
@@ -66,7 +67,7 @@
 * [RadioVIS Stomp Server](https://github.com/bbc/node-radiovis-stomp-server) - 用node.js编写的RadioVIS STOMP服务器.
 
 ## LiveIP
-*音频/视频IP和流媒体*
+*Audio/Video over IP & Streaming*
 
 * [butt](https://danielnoethen.de/)   - 使用此工具（butt）进行广播是一种易于使用的多操作系统流媒体工具.  它支持SHOUTcast和Icecast.
 * [Cool Mic](https://coolmic.net/) -  Android音频直播Icecast源客户端应用.
@@ -115,7 +116,7 @@
 * [MediaConch](https://mediaarea.net/MediaConch) -  Matroska，FFV1和PCM的实施检查员，政策检查员和记者.
 * [MediaInfo](https://mediaarea.net/en/MediaInfo) - 方便地统一显示视频和音频文件的最相关技术和标签数据.
 * [MXF Inspect](https://www.myriadbits.com/) - 用于显示MXF（Material eXchange Format）文件内部结构的Windows工具.
-* [Pi Audio Monitor](https://github.com/martim01/pam) - Audio Monitoring for Raspberry Pi, supports S/PDIF, AES3, AES67, Livewire and Ravenna.
+* [Pi Audio Monitor](https://github.com/martim01/pam) -  Raspberry Pi的音频监控，支持S / PDIF，AES3，AES67，Livewire和Ravenna.
 * [Photon](https://github.com/Netflix/photon) - 实施SMPTE互操作主模式（IMF）标准.
 * [QCTools](https://github.com/bavc/qctools) - 用于视频保存的质量控制工具，用于分析数字化视频文件.
 * [Rotter](https://github.com/njh/rotter) - 记录JACK的传输/音频记录器.
@@ -143,7 +144,7 @@
 * [Libebur128](https://github.com/jiixyj/libebur128) - 实现响度归一化的EBU R 128标准的库.
 * [Loudness Validator](https://github.com/mikrosimage/loudness_validator) - 一组用于分析，可视化和校正响度的应用程序.
 * [MP4Box.js](https://github.com/gpac/mp4box.js) - 用于在浏览器（和NodeJS）中处理MP4文件的JavaScript库.
-* [MXFLib](https://sourceforge.net/projects/mxflib/) - 用于读取和写入MXF文件的多平台C ++库.
+* [MXFLib](https://sourceforge.net/projects/mxflib/) - A multi-platform C++ library for reading and writing MXF files.
 * [OBS-Studio](https://github.com/obsproject/obs-studio) - 用于直播和屏幕录制的软件.
 * [Open Broadcast Encoder](https://github.com/ob-encoder) - 从开源组件构建的广播编码器.
 * [rgain](https://bitbucket.org/fk/rgain) - 工具和Python库，用于读取，写入和计算Replay Gain.
@@ -185,7 +186,7 @@
 ## Subtitling
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - 分析视频文件并生成独立字幕文件的工具.
-* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - dash.js fork with EBU-TT-D subtitles in HTML/CSS overlay. Later added to [dash.js](https://github.com/ebu/dash.js).
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev)   - 在HTML / CSS叠加中使用EBU-TT-D字幕的dash.js fork.  后来添加到了 [dash.js](https://github.com/ebu/dash.js).
 * [EBU-TT-D W3C XML Schema](https://github.com/ebu/ebu-tt-d-xsd/) - 信息丰富的EBU-TT-D XML Schema，支持EBU Tech 3380的实施.
 * [EBU-TT Live Interoperability Toolkit](https://github.com/ebu/ebu-tt-live-toolkit) - 用于生成，测试和分发的组件 [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) 字幕.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) -  GStreamer管道解析和呈现EBU-TT-D（TTML）字幕的方法.

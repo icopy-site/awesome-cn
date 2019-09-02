@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="awesome-css-group/awesome-css"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [awesome-link]：https：//github.com/sindresorhus/awesome
 [awesome-badge]：https：//cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis link]：https：//travis-ci.org/awesome-css-group/awesome-css
@@ -86,7 +87,7 @@
 * [Pure.css](http://purecss.io/) - 一组可在每个Web项目中使用的小型响应式CSS模块.
 * [Semantic UI](http://semantic-ui.com/) - 强大的框架，使用人性化的HTML.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - 轻量级，响应迅速且现代的CSS框架.
-* [Strawberry](https://github.com/jfet97/strawberry) - A set of common flexbox utilities focused on making your life easier and faster with nested flexboxes.
+* [Strawberry](https://github.com/jfet97/strawberry) - 一组常用的flexbox实用程序，专注于通过嵌套的flexbox使您的生活更轻松，更快捷.
 * [Tachyons](http://tachyons.io/) - 人类功能CSS.
 * [Tacit](https://yegor256.github.io/tacit/) - 用于平面设计零技能的假人的CSS框架.
 * [tailwindcss](https://github.com/tailwindcss/tailwindcss) - 用于快速UI开发的实用程序优先CSS框架.
@@ -288,7 +289,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Dave McFarland](https://twitter.com/davemcfarland) -  Web开发人员，CSS的作者：The Missing Manual，JavaScript＆jQuery.
 * [L. David Baron](https://twitter.com/davidbaron) -  Mozilla开发人员，CSS和W3C标准外交官.
 * [Daniel Glazman](https://twitter.com/glazou)   -  W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，多种语言，鸭子爱好者.  罗.  推文完全是我的.
-* [The Chris Eppstein](https://twitter.com/chriseppstein)   - 爱的爱.  仇恨恨.  有一个踢屁股的家庭.  写代码.  引领样式表技术@LinkedIn.
+* [The Chris Eppstein](https://twitter.com/chriseppstein) - Loves love. Hates hate. Has a kick-ass family. Writes code. Leads stylesheet tech @LinkedIn.
 * [앗킨스 탭](https://twitter.com/tabatkins) - 字面上Jenn Schiffer的妈妈.
 * [Natalie Weizenbaum](https://twitter.com/nex3)   -  Trans coder lady.  @SassCSS的首席设计师/开发人员，为@dart_lang上的@google工作.
 * [Brad Frost](https://twitter.com/brad_frost) - 网页设计师，演讲者，作家，顾问，音乐家.

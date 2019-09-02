@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hangtwenty/dive-into-machine-learning"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  **嗨，您好！  本指南适合您：**
@@ -40,7 +41,7 @@
 
  您只是使用[scikit-learn]对一些手写数字进行了分类.  整洁吧？
 
-[scikit-learn]是Python中机器学习的首选库. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html)  机器学习很难.  您会很高兴您的工具易于使用.
+[scikit-learn]是Python中机器学习的首选库. [It's used widely.](http://scikit-learn.org/stable/testimonials/testimonials.html) Machine learning is hard. You'll be glad your tools are easy to work with.
 
 [scikit-learn]：http：//scikit-learn.org/stable/index.html
 
@@ -81,7 +82,7 @@
 
 休息之前，先抓一些播客. 
 
-首先，下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  （2018）.  教授  多明戈斯写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) .  你也可以开始阅读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
+首先，下载 [an interview with Prof. Domingos on the _Data Skeptic_ podcast](https://dataskeptic.com/blog/episodes/2018/the-master-algorithm)  （2018）.  教授  周日写道 [the paper we read earlier](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) .  你也可以开始阅读他的书， [_The Master Algorithm_ by Prof. Pedro Domingos](https://www.goodreads.com/book/show/24612233-the-master-algorithm)，清晰易懂的机器学习概述. 
 
  接下来，订阅更多的机器学习和数据科学播客！  这些都是优秀的，省力的资源，您可以随意学习更多.  至 [learn effectively](https://www.coursera.org/learn/learning-how-to-learn)随着时间的推移，倾听大量的顶空. [Do not speed up your podcasts!](https://www.theringer.com/2017/8/2/16095364/inefficiency-week-podcasts-speed-comprehension-f0ea43949e42)
 
@@ -94,7 +95,7 @@
 
  想订阅更多播客？  这里 [a good listicle](https://towardsdatascience.com/5-data-science-ai-and-machine-learning-podcasts-to-listen-to-now-e5078b18d184) 的建议， [and another](https://mty.ai/blog/the-best-ai-podcasts/).
 
- 好！  休息一下，回来时精神焕发.
+OK! Take a break, come back refreshed.
 
 ----
 
@@ -103,9 +104,9 @@
 接下来，挑选**这些IPython笔记本中的一个或两个**并一起玩.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
-- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“演示基本数据调整，分析和可视化技术.显示监督机器学习技术的示例.”
+- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“演示基本数据调整，分析和可视化技术.展示有监督机器学习技术的例子.”
 - [Election Forecasting](https://github.com/jseabold/538model)：模型的复制 [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) 用于预测2012年美国总统选举_纽约时报_.
-- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“让我们假装我们正在为一家刚刚获得资助的创业公司工作，创建一个智能手机应用程序，通过智能手机拍摄的照片自动识别花卉种类.我们的数据科学负责人已经完成了创建演示机器学习的任务从花中进行四次测量的模型（萼片长度，萼片宽度，花瓣长度和花瓣宽度），并根据这些测量结果单独识别物种.“
+- [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“让我们假装我们正在为一家刚刚获得资助的创业公司工作，创建一个智能手机应用程序，通过智能手机拍摄的照片自动识别花卉种类.我们的数据科学主管负责创建演示机器学习从花中进行四次测量的模型（萼片长度，萼片宽度，花瓣长度和花瓣宽度），并根据这些测量结果单独识别物种.“
 -  ClickSecurity的“数据黑客”系列（谢谢 [hummus](https://github.com/hummus)!)
 	- [Detect Algorithmically Generated Domains](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb)
 	- [Detect SQL Injection](http://nbviewer.jupyter.org/github/ClickSecurity/data_hacking/blob/master/sql_injection/sql_injection.ipynb)
@@ -121,7 +122,7 @@
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
- _知道另一个伟大的笔记本吗？  请提交PR！_
+ _知道另一款优秀笔记本吗？  请提交PR！_
 
 ----
 
@@ -132,7 +133,7 @@
 ## [Recommended course: Prof. Andrew Ng's _Machine Learning_ on Coursera](https://www.coursera.org/learn/machine-learning)
 
 
-It's helpful if you decide on a pet project to play around with, as you go, so you have a way to apply your knowledge. You could use one of these [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) .  请记住，IPython Notebook是你的朋友.
+ 如果你决定一个宠物项目，你可以随时随地玩，这样你就有办法运用你的知识.  你可以使用其中一个 [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets) .  请记住，IPython Notebook是你的朋友.
 
  此外，您应该获取一本深入的教科书作为参考.  两个最佳选择是 [_Underst和ing Machine Learning_ ](http://www.cs.huji.ac.il/~shais/Underst和ingMachineLearning/copy.html) 和 _[Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)_. You'll see these recommended as reference textbooks. [You only need to use one of the two options as your main reference; here's some context/comparison to help you pick which one is right for you.](https://github.com/hangtwenty/dive-into-machine-learning/issues/29) 您可以在这些链接上免费下载每本书作为PDF  - 所以抓住它们吧！
 
@@ -184,7 +185,7 @@ It's helpful if you decide on a pet project to play around with, as you go, so y
 * [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 *以下是我发现的一些文档，特别有用，因为我继续学习：
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
-	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html), esp. [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
+	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)特别是 [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
 	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
 	* [Computational tools](http://p和as.pydata.org/p和as-docs/stable/computation.html) 和 [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
@@ -226,7 +227,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 ## Risks
 
 “机器学习系统自动学习程序
-数据.“Pedro Domingos，in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  您生成的程序将需要维护.  与任何更快地创建程序的方式一样，您可以使用 [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
+约会.“Pedro Domingos，in ["A Few Useful Things to Know about Machine Learning."](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)  您生成的程序将需要维护.  与任何更快地创建程序的方式一样，您可以使用 [technical debt](https://en.wikipedia.org/wiki/Technical_debt).
 
 这是摘要 [Machine Learning: The High-Interest Credit Card of Technical Debt](https://static.googleusercontent.com/media/research.google.com/en/us/pubs/archive/43146.pdf):
 
@@ -256,7 +257,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 你需要**练习.** [On Hacker News, user olympus commented to say you could use competitions to practice 和 evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](https://www.kaggle.com/competitions) 和 [ChaLearn](http://www.chalearn.org/)  是机器学习比赛的中心.  你可以找到一些 [examples of code for popular Kaggle competitions here](https://github.com/apeeyush/machine-learning) .  对于较小的练习， [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
-你还需要**理解.**你应该回顾一下Kaggle比赛获胜者对他们的解决方案所说的话， [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
+你还需要**理解.**你应该回顾一下Kaggle比赛获胜者对他们的解决方案所说的话， [for example, the "No Free Hunch" blog](http://blog.kaggle.com/) .  这些可能一开始就是你的头脑，但是一旦你开始理解和欣赏这些，你知道你到了某个地方.
 
  竞争和挑战只是实践的一种方式.  但是你不应该限制自己 - 而且你也应该理解这一点 [Machine Learning isn't **all** about Kaggle competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions).
 
@@ -270,7 +271,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
  你怎么能提出有趣的问题？  这是一种方式.  每个星期天， [browse datasets](https://github.com/caesar0301/awesome-public-datasets)  并写下一些问题.  另外，注册 [Data is Plural](https://tinyletter.com/data-is-plural) ，有趣数据集的通讯;  看看这些，数据集，写下问题.  保持好奇.  当一个问题启发你时，开始一项研究.
 
-这个建议，以做实践研究和从同行评审中学习，是基于 [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) with [Dr. Randal S. Olson](http://www.randalolson.com/) .  以下是奥尔森的更多建议， [quoted with permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
+这个建议，以做实践研究和从同行评审中学习，是基于 [a conversation](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-153934120) 同 [Dr. Randal S. Olson](http://www.randalolson.com/) .  以下是奥尔森的更多建议， [quoted 同 permission:](https://github.com/hangtwenty/dive-into-machine-learning/issues/11#issuecomment-154135498)
 
  &gt;我认为最好的建议是告诉人们总是清楚地展示他们的方法并避免过度解释他们的结果.  作为专家的一部分是知道很少有明确的答案，特别是当你使用真实数据时.
 
@@ -288,7 +289,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
  发布到任何一个，并要求反馈.  你会得到反馈.  你会学到很多东西.  当专家审查您的工作时，您将学到很多关于该领域的知识.  您还将练习一项关键技能：接受批判性反馈.
 
- 当我阅读关于我的Pull请求的反馈时，首先我重复一遍，“我不会得到防御，我不会得到防御，我不会得到防御.”  在阅读有关机器学习工作的评论之前，您可能希望这样做.
+ 当我阅读关于我的请求的反馈时，首先我重复一遍，“我不会得到防御，我不会得到防御，我不会得到防御.”  在阅读有关机器学习工作的评论之前，您可能希望这样做.
 
 ----
 
@@ -341,7 +342,7 @@ Spoiler：你应该尽可能地与UX专家合作！
 
 无论如何，当您决定进入深度学习时，这里有一些有用的资源.
 
- * ** [“与[深度学习”一起享受David Humphrey的乐趣.]（https://github.com/humphd/have-fun-with-machine-learning）**这是一个“获得成功”的绝佳方式你自己“和黑客第一.  然后你会感到很兴奋，继续...
+ * ** [“与[深度学习”一起享受David Humphrey的乐趣.]（https://github.com/humphd/have-fun-with-machine-learning）**这是一个很好的“获得成功的方式”你自己“和黑客第一.  然后你会感到很兴奋，继续...
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)！**有五门课程，作为一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) .  这些课程是他新创业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
 * **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)**谷歌快速，实用的机器学习介绍，涵盖了使用TensorFlow构建深度神经网络.
 * **[_Deep Learning_](http://www.deeplearningbook.org/)，麻省理工学院出版社出版的免费书籍.**伊恩·古德费罗，Yoshua Bengio和Aaron Courville
@@ -377,11 +378,11 @@ Spoiler：你应该尽可能地与UX专家合作！
 ## Finding Open-Source Libraries
 
 * 书签 **[awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)**，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) 机器学习库和软件.
-* 书签 [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) Python语言中的库和软件 - 有关机器学习的部分.
-* [TensorFlow](https://www.tensorflow.org/) 一直是 [really big deal.](https://news.ycombinator.com/item?id=10532957)  喜欢你的人会用TensorFlow做一些令人兴奋的事情.  这是一个框架.  框架可以帮助您管理复杂性.  请记住这条经验法则：**“更多数据胜过更聪明的算法”**（Domingos），无论你的工具有多酷.  另请注意，TensorFlow不是同类中唯一的机器学习框架：**[Check this great, detailed comparison of TensorFlow, Torch, 和 Theano.](https://github.com/zer0n/deepframeworks)** 也可以看看 [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) 和  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) .  另请参阅上面的深度学习部分.
+* 书签 [Pythonidae](https://github.com/svaksha/pythonidae/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) libraries and software in the Python language - with a section on Machine Learning.
+* [TensorFlow](https://www.tensorflow.org/) 一直是 [really big deal.](https://news.ycombinator.com/item?id=10532957)  喜欢你的人会用TensorFlow做一些令人兴奋的事情.  这是一个框架.  框架可以帮助您管理复杂性.  请记住这个经验法则：**“更多数据胜过更聪明的算法”**（Domingos），无论你的工具有多酷.  另请注意，TensorFlow不是同类中唯一的机器学习框架：**[Check this great, detailed comparison of TensorFlow, Torch, 和 Theano.](https://github.com/zer0n/deepframeworks)** 也可以看看 [Newmu/Theano-Tutorials](https://github.com/Newmu/Theano-Tutorials) 和  [nlintz/TensorFlow-Tutorials](https://github.com/nlintz/TensorFlow-Tutorials) .  另请参阅上面的深度学习部分.
     *另外，考虑一下 [Lore](https://github.com/instacart/lore/) .  “Lore是一个python框架，使机器学习[特别是深度学习]对于工程师来说是平易近人的，并且可以为数据科学家维护.” 
 *对于可能不在PyPI，GitHub等上的机器学习库，有 [MLOSS (Machine Learning Open Source Software)](http://mloss.org/software/) .  似乎有许多学术图书馆.
-* 书签 [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) Julia语言中的图书馆和软件 - 有关机器学习的部分.
+* 书签 [Julia.jl](https://github.com/svaksha/Julia.jl/blob/master/AI.md#machine-learning)，精选的清单 [awesome](https://github.com/bayandin/awesome-awesomeness) 朱莉娅语言中的图书馆和软件 - 有关机器学习的部分.
 * [CreativeAI.net](http://www.creativeai.net/) .  好吧不完全是_libraries_，但这通常很有趣，值得订阅...警告，很容易被吸进:)
 
 ----
@@ -390,12 +391,12 @@ Spoiler：你应该尽可能地与UX专家合作！
 
  以下是机器学习的其他指南.  它们可以是本指南的替代或补充.
 
-* ["How would your curriculum for a machine learning beginner look like?"](https://sebastianraschka.com/faq/docs/ml-curriculum.html)  作者：Sebastian Raschka.  精选的核心在线课程和书籍，用于开始机器学习和获取专业知识.  它将Raschka自己的书置于语境中， [_Python Machine Learning_](https://github.com/rasbt/python-machine-learning-book) （无论如何我都会联系到这里！）另见 [`pattern_classification` GitHub repository](https://github.com/rasbt/pattern_classification) 由作者维护，其中包含有关各种机器学习算法和各种数据科学相关资源的IPython笔记本.
+* ["How would your curriculum for a machine learning beginner look like?"](https://sebastianraschka.com/faq/docs/ml-curriculum.html) by Sebastian Raschka. A selection of the core online courses and books for getting started with machine learning and gaining expert knowledge. It contextualizes Raschka's own book, [_Python Machine Learning_](https://github.com/rasbt/python-machine-learning-book) （无论如何我都会联系到这里！）另见 [`pattern_classification` GitHub repository](https://github.com/rasbt/pattern_classification) 由作者维护，其中包含有关各种机器学习算法和各种数据科学相关资源的IPython笔记本.
 * [Materials for Learning Machine Learning](http://jacksimpson.co/materials-for-learning-machine-learning/) 杰克辛普森
 *云供应商提供的课程（可能特定于他们的工具/平台）
     * [Machine Learning Crash Course from Google](https://developers.google.com/machine-learning/crash-course/)  使用TensorFlow API.  这是Google快速，实用的机器学习入门，包括视频讲座，实际案例研究和动手练习练习等一系列课程.
     *  [Amazon AWS](https://aws.amazon.com/training/learning-paths/machine-learning/)  亚马逊向公众开放内部培训，并提供认证.  30门课程 -  45小时以上的内容.
-* [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  是另一个很好的介绍，如果你更熟悉Java或Scala，可能会更好.  它使用Smile（一种可在Java和Scala中使用的机器学习库）为开发人员引入机器学习.
+* [Machine Learning for Developers](http://xyclade.github.io/MachineLearning/)  是另一个很好的介绍，如果您对Java或Scala更熟悉，可能会更好.  它使用Smile（一种可在Java和Scala中使用的机器学习库）为开发人员引入机器学习.
 * [Example Machine Learning notebook, exercise, and guide](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)  Randal S. Olson博士.  在笔记本部分也提到过，但它与本指南的目标相似（向您介绍，并告诉您下一步该怎么做）.  丰富的“进一步阅读”部分.
 * [Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)  由Nam Vu.  这是为软件工程师设计的自上而下和结果优先的方法.
 *对于一些新闻来源，请查看 [Sam DeBrule's list](https://machinelearnings.co/a-humans-guide-to-machine-learning-e179f43b67a0) 这里.

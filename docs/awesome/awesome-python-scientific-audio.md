@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="faroit/awesome-python-scientific-audio"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/faroit/awesome-python-scientific-audio.svg?branch=master)](https://travis-ci.org/faroit/awesome-python-scientific-audio)
 
@@ -9,7 +10,7 @@
 
 ## Audio Related Packages
 
-- 包裹总数：72
+- Total number of packages: 72
 -  Python版本兼容性：  ![69](http://progressed.io/bar/96?title=python%202) ![63](http://progressed.io/bar/86?title=python%203) （²表示只有python 2的包，³表示只有python 3的包;剩下的包支持python 2 + 3）.
 
 #### Read-Write
@@ -92,13 +93,13 @@
 
 #### Deep Learning
 
-* [Kapre](https://github.com/keunwoochoi/kapre) [:octocat:](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - 硬音频预处理器
+* [Kapre](https://github.com/keunwoochoi/kapre) [:octocat:](https://github.com/keunwoochoi/kapre) [:package:](https://pypi.python.org/pypi/kapre) - 响亮的音频预处理器
 * [TorchAudio](https://github.com/pytorch/audio) [:octocat:](https://github.com/pytorch/audio) -  PyTorch音频加载器
 
 #### Symbolic Music - MIDI - Musicology
 
 * [Music21](http://web.mit.edu/music21/) [:octocat:](https://github.com/cuthbertLab/music21) [:package:](https://pypi.python.org/pypi/music21) - 计算机辅助音乐学工具包.
-* [Mido](https://mido.readthedocs.io/en/latest/) [:octocat:](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - Realtime MIDI wrapper.
+* [Mido](https://mido.readthedocs.io/en/latest/) [:octocat:](https://github.com/olemb/mido) [:package:](https://pypi.python.org/pypi/mido) - 实时MIDI包装.
 * [mingus](http://bspaans.github.io/python-mingus/)² [:octocat:](https://github.com/bspaans/python-mingus) [:package:](https://pypi.python.org/pypi/mingus/) - 具有MIDI文件和播放支持的高级音乐理论和符号包.
 * [Pretty-MIDI](http://craffel.github.io/pretty-midi/) [:octocat:](https://github.com/craffel/pretty-midi) [:package:](https://pypi.python.org/pypi/pretty-midi) - 实用功能，以美观/直观的方式处理MIDI数据.
 

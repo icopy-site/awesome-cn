@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="donnemartin/awesome-aws"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <p align="center">
   <img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/aws.png">
@@ -29,7 +30,7 @@ Python模块 [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tree/mas
 
 ## Contributing
 
-Contributions are welcome!
+欢迎捐款！
 
 回顾一下 [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
 
@@ -316,7 +317,7 @@ AWS Repos：
 * [dbcli/athenacli](https://github.com/dbcli/athenacli) - 适用于AWS Athena服务的CLI工具，可以执行自动完成和语法突出显示.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - 增压的AWS命令行界面.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - 轻松命令行访问Amazon EC2，S3，SQS，ELB和SDB.
-* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
+* [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) -  Go中EC2，IAM和S3的强大CLI.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - 用Go编写的安全存储AWS凭证的工具.
 
 ### CloudFormation
@@ -452,7 +453,7 @@ AWS Repos：
 * [aws-dynamodb-encryption-java :fire:](https://github.com/awslabs/aws-dynamodb-encryption-java) -  Java加密客户端.
 * [aws-dynamodb-examples :fire:](https://github.com/awslabs/aws-dynamodb-examples) - 使用Java SDK的示例.
 * [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - 存储和索引NASA JPL火星图像.
-* [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) -  Apache Tomcat的会话存储.
+* [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - 处理Ruby Web应用程序的会话.
 * [dynamodb-cross-region-library :fire::fire:](https://github.com/awslabs/dynamodb-cross-region-library) - 跨区域复制.
 * [dynamodb-geo :fire::fire:](https://github.com/awslabs/dynamodb-geo) - 用于创建和查询地理空间数据的库.
@@ -725,9 +726,9 @@ AWS Repos：
 
 社区回购：
 
-* [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - 实现经过身份验证的请求的代理.
+* [anomalizer/ngx_aws_auth :fire::fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 * [bloomreach/s4cmd :fire::fire::fire:](https://github.com/bloomreach/s4cmd) -  S3命令行工具，比大文件的S3cmd快.
-* [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+* [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - 上传流星文件.
 * [danilop/yas3fs :fire::fire::fire:](https://github.com/danilop/yas3fs) - 另一个受S3支持的文件系统，受到s3fs的启发.
 * [grippy/node-s3](https://github.com/grippy/node-s3) -  Node.js应用程序来管理存储桶.
 * [jubos/fake-s3 :fire::fire::fire::fire::fire:](https://github.com/jubos/fake-s3) - 模拟大多数命令的轻量级S3克隆.
@@ -746,7 +747,7 @@ AWS Repos：
 * [s3git/s3git :fire::fire::fire::fire:](https://github.com/s3git/s3git) -  CLI工具，允许您创建分布式，分散式和版本化的存储库.
 * [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - 允许Linux和Mac OS X通过FUSE安装S3存储桶.
 * [s3tools/s3cmd :fire::fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - 用于管理S3和CloudFront的CLI.
-* [schickling/git-s3 :fire::fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
+* [schickling/git-s3 :fire::fire:](https://github.com/schickling/git-s3) - 将git repo部署到存储桶.
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) -  CarrierWave适配器.
 * [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) -  S3的Maven Wagon.
 * [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) - 安装存储桶以在本地文件系统上使用.
@@ -803,7 +804,7 @@ AWS Repos：
 
 社区回购：
 
-* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - 大数据/数据科学笔记本.
+* [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
 * [everpeace/vagrant-mesos :fire::fire:](https://github.com/everpeace/vagrant-mesos) - 用Vagrant旋转你的Mesos集群.
 * [jhorey/ferry :fire::fire:](https://github.com/jhorey/ferry) - 使用Docker定义，运行和部署大数据应用程序.
 * [nathanmarz/storm-deploy :fire::fire::fire:](https://github.com/nathanmarz/storm-deploy) - 单击部署Storm集群.
@@ -826,7 +827,7 @@ AWS Repos：
 * [aws-sha256-agentcs](https://github.com/awslabs/aws-sha256-agentcs) -  SHA256代理兼容性扫描程序.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - 用于匿名注册的令牌自动售货机.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - 用于身份登记的令牌自动售货机.
-* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
+* [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) -  TLS / SSL协议的实现.
 
 社区回购：
 
@@ -839,7 +840,7 @@ AWS Repos：
 * [Netflix/security_monkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - 监控不安全配置的策略更改和警报.
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - 实施所有权和数据安全的工具.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - 在云中启动专用VPN服务器.
-* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - 在EC2和其他云服务上设置个人IPSEC VPN.
+* [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - 创建按需一次性OpenVPN端点.
 
 ### Accompanying Repos
@@ -884,7 +885,7 @@ AWS Repos：
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - 基于Node.js / ImageMagick的图像缩略图服务.
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - 高度可用，水平可扩展的排队和通知服务.
-* [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) -  AWS上的开源PaaS.
+* [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - 在单个网页上显示所有AWS资源.
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) -  Mac设置各种开发人员工具和AWS服务.
 * [dtan4/terraforming :fire::fire::fire::fire::fire:](https://github.com/dtan4/terraforming) - 将现有资源导出为Terraform样式（tf，tfstate）.

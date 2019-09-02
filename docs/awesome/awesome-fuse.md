@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fuse-compound/awesome-fuse"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)

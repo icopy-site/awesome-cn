@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="agarrharr/awesome-cli-apps"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
 </p>
@@ -33,7 +34,7 @@
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - 即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) - 通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) - 潘多拉客户端.
-- [somafm-cli](https://github.com/rockymadden/somafm-cli) - 在您的终端收听SomaFM.
+- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - 从SoundCloud下载曲目.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) - 音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) -  mpd客户端.
@@ -94,7 +95,7 @@
 - [strip-css-comments-cli](https://github.com/sindresorhus/strip-css-comments-cli) - 从CSS中删除评论.
 - [viewport-list-cli](https://github.com/kevva/viewport-list-cli) - 返回设备列表及其视口.
 - [surge](https://surge.sh) - 将目录部署到Web.
-- [acmetool](https://github.com/hlandau/acme) - An automatic certificate acquisition tool for ACME (Let's Encrypt).
+- [acmetool](https://github.com/hlandau/acme) -  ACME的自动证书获取工具（Let&#39;s Encrypt）.
 - [loadtest](https://github.com/alexfernandez/loadtest)   - 对选定的URL运行负载测试.  易于扩展至少为您自己的目的.
 - [wp-cli](https://github.com/wp-cli/wp-cli) - 管理WordPress安装，更新插件，设置多站点安装等等.
 - [diff2html-cli](https://github.com/rtfpessoa/diff2html-cli) - 将git diff作为JSON解析并生成漂亮的HTML.
@@ -132,7 +133,7 @@
 - [dockly](https://github.com/lirantal/dockly) - 以交互方式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -  Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) - 简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) - 用于日志格式的伪日志生成器，例如apache-common，apache错误和RFC3164 syslog.
+- [flog](http://github.com/mingrammer/flog) - A fake log generator for log formats such as apache-common, apache error and RFC3164 syslog.
 
 ### Release
 
@@ -215,7 +216,7 @@
 
 - [archive-type-cli](https://github.com/kevva/archive-type-cli) - 检测文件或标准输入的存档类型.
 - [s](https://github.com/zquestz/s) - 在终端中打开网络搜索.
-- [aria2](https://github.com/tatsuhiro-t/aria2) - HTTP, FTP, SFTP, BitTorrent and Metalink download utility.
+- [aria2](https://github.com/tatsuhiro-t/aria2) -  HTTP，FTP，SFTP，BitTorrent和Metalink下载实用程序.
 - [wego](https://github.com/schachmat/wego) - 得到天气.
 - [weather-cli](https://github.com/riyadhalnur/weather-cli) - 检查天气.
 - [mapscii](https://github.com/rastapasta/mapscii) - 终端地图查看器.
@@ -450,7 +451,7 @@
 - [HASHA -cli](https://github.com/sindresorhus/hasha-cli)   - 哈希变得简单.  获取文本或标准输入的哈希值.
 - [kill-tabs](https://github.com/sindresorhus/kill-tabs) - 杀死所有Chrome标签，以提高性能，减少电池使用量并节省内存.
 - [leven-cli](https://github.com/sindresorhus/leven-cli) - 使用Levenshtein距离算法测量两个弦之间的差异.
-- [mdlt](https://github.com/metadelta/mdlt) - 从命令行直接进行快速数学运算.
+- [mdlt](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli](https://github.com/djadmin/medium-cli) - 阅读 [medium.com](https://medium.com/) 终端内的故事，也提供了热门故事.
 - [open-shortcut-cli](https://github.com/sindresorhus/open-shortcut-cli) - 从浏览器中的Web快捷方式文件打开URL.
 - [shortcut-url-cli](https://github.com/sindresorhus/shortcut-url-cli) - 从Web快捷方式文件中获取URL.
@@ -458,7 +459,7 @@
 - [to-double-quotes](https://github.com/sindresorhus/to-double-quotes-cli) - 将匹配的单引号转换为双引号：我&#39;爱&#39;独角兽=&gt;我“爱”独角兽.
 - [to-single-quotes](https://github.com/sindresorhus/to-single-quotes-cli) - 将匹配的双引号转换为单引号：我“爱”独角兽→我爱&#39;独角兽.
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - 用于Python中GDB的模块化可视化界面.
-- [hget](https://github.com/bevacqua/hget) - Render websites in plain text from your terminal.
+- [hget](https://github.com/bevacqua/hget) - 从终端以纯文本格式呈现网站.
 - [google-wifi-status](https://github.com/joelgeorgev/google-wifi-status) - 一个Node.js CLI应用程序，显示您的Google Wifi / OnHub路由器的状态.
 - [calories](https://github.com/zupzup/calories) - 卡路里和体重跟踪器.
 - [trino](https://github.com/eneserdogan/trino) -  Trino CLI允许快速轻松地翻译在命令行中输入的单词和短语.

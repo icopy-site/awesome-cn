@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="victorshinya/awesome-ibmcloud"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
     <img width="270" height="251" src="https://raw.githubusercontent.com/victorshinya/awesome-ibmcloud/master/media/logo.png?raw=true" alt="Awesome IBM Cloud">
 </div>
@@ -75,7 +76,7 @@
 *使用IBM Cloud Functions（IBM Cloud上的Apache OpenWhisk）部署和管理您的操作/功能.*
 
 * [openwhisk-darkvisionapp](https://github.com/IBM-Cloud/openwhisk-darkvisionapp) - 使用IBM Watson和IBM Cloud Functions在视频中发现黑暗数据.
-* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - A sample iOS app for image tagging and face detection built with IBM Cloud Functions.
+* [openwhisk-visionapp](https://github.com/IBM-Cloud/openwhisk-visionapp) - 使用IBM Cloud Functions构建的用于图像标记和面部检测的iOS应用程序示例.
 * [serverless-chatbot](https://github.com/victorshinya/serverless-chatbot) - 使用无服务器服务（无服务器架构/功能即服务）构建您自己的聊天机器人.
 
 ## Watson
@@ -95,7 +96,7 @@
 * [personality-insights-nodejs](https://github.com/watson-developer-cloud/personality-insights-nodejs) -  IBM Watson Personality Insights Service的NodeJs应用程序示例.
 * [personality-insights-python](https://github.com/watson-developer-cloud/personality-insights-python) -  IBM Watson Personality Insights Service的示例Python应用程序.
 * [simple-chat-swift](https://github.com/watson-developer-cloud/simple-chat-swift) - 使用Watson Developer Cloud Swift SDK中的认知服务的iOS聊天应用程序.
-* [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - 用于在Web浏览器中使用IBM Watson Speech to Text和Text to Speech服务的库.
+* [speech-javascript-sdk](https://github.com/watson-developer-cloud/speech-javascript-sdk) - Library for using the IBM Watson Speech to Text and Text to Speech services in web browsers.
 * [speech-to-text-nodejs](https://github.com/watson-developer-cloud/speech-to-text-nodejs) - 示例Node.js IBM Watson语音到文本服务的应用程序.
 * [tone-analyzer-nodejs](https://github.com/watson-developer-cloud/tone-analyzer-nodejs) -  IBM Tone Analyzer服务的示例Node.js应用程序.
 * [visual-recognition-coreml](https://github.com/watson-developer-cloud/visual-recognition-coreml) - 使用Watson Visual Recognition和Core ML离线分类图像.
@@ -114,7 +115,7 @@
     * [unity-sdk](https://github.com/watson-developer-cloud/unity-sdk) -  Unity SDK以使用IBM Watson服务.
 * [with-watson](https://github.com/victorshinya/with-watson) - 运行Visual Recognition默认模型的iOS App.
 * [with-watson-custom-model](https://github.com/victorshinya/with-watson-custom-model) - 运行Visual Recognition自定义模型的iOS App.
-* [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) -  Celebrity Match应用程序使用Watson Personality Insights Service和Twitter数据来识别推特上的名人，这些推文的概念最接近您的推文.
+* [your-celebrity-match](https://github.com/watson-developer-cloud/your-celebrity-match) -  Celebrity Match应用程序使用Watson Personality Insights Service和Twitter数据识别推特上的名人，这些推文的概念最接近您的推文.
 
 ## Resources
 

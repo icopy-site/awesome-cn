@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="arbox/nlp-with-ruby"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/arbox/nlp-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
@@ -127,7 +128,7 @@ NLP管道以纯文本开头.
 
 #### Stemming
 
-词干是在信息检索中用来描述过程的术语
+Stemming is the term used in information retrieval to describe the process for
  将字形缩减为某种基本表示.  应该区分词干
 from [Lemmatization](#lemmatization) 因为`茎&#39;不一定有
 语言动机.
@@ -164,7 +165,7 @@ from [Lemmatization](#lemmatization) 因为`茎&#39;不一定有
 - [n_gram](https://github.com/reddavis/N-Gram) -
   N-Gram发生器.
 - [ruby-ngram](https://github.com/tkellen/ruby-ngram) -
-  将单词和短语分成ngrams.
+  Break words and phrases into ngrams.
 - [raingrams](https://github.com/postmodern/raingrams) -
   用纯Ruby编写的灵活通用的ngrams库.
 
@@ -198,7 +199,7 @@ from [Lemmatization](#lemmatization) 因为`茎&#39;不一定有
 
 ### Pragmatical Analysis
 - [SentimentLib](https://github.com/nzaillian/sentiment_lib) -
-  Simple extensible sentiment analysis gem.
+  简单的可扩展情绪分析宝石.
 
 ## High Level Tasks
 
@@ -315,7 +316,7 @@ from [Lemmatization](#lemmatization) 因为`茎&#39;不一定有
 - [naive_bayes](https://github.com/reddavis/Naive-Bayes) -
   简单的朴素贝叶斯分类器.
 - [nbayes](https://github.com/oasic/nbayes) -
-  功能齐全的Ruby实现朴素贝叶斯.
+  功能齐全的Ruby实现Naive Bayes.
 - [omnicat](https://github.com/mustafaturan/omnicat) -
   用于文本分类的通用机架框架.
 - [omnicat-bayes](https://github.com/mustafaturan/omnicat-bayes) -
@@ -463,7 +464,7 @@ from [Lemmatization](#lemmatization) 因为`茎&#39;不一定有
   - 在Ruby_中的_Clustering by [Colin Drake](https://twitter.com/colinfdrake)
     <sup>[[post](https://colindrake.me/post/k-means-clustering-in-ruby/)/)]</sup>
 - 2010
-  - _bayes_motel – Bayesian classification for Ruby_ by [Mike Perham](https://twitter.com/mperham)
+  -  _bayes_motel  -  Ruby_的贝叶斯分类 [Mike Perham](https://twitter.com/mperham)
     <sup>[[post](http://www.mikeperham.com/2010/04/28/bayes_motel-bayesian-classification-for-ruby/)]</sup>
 - 2009
   -  _将UEA-Lite Stemmer输出到Ruby_ [Jason Adams](https://twitter.com/ealdent)

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="rossant/awesome-math"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精彩数学资源的精选列表.
@@ -108,7 +109,7 @@
 ### Category Theory
 
 * [Introduction to Category Theory and Categorical Logic](http://www.mathematik.tu-darmstadt.de/~streicher/CTCL.pdf) -  Thomas Streicher
-* [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - 哈罗德西蒙斯
+* [An Introduction to Category Theory](http://www.cs.man.ac.uk/~hsimmons/zCATS.pdf) - Harold Simmons
 * [Category Theory](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.211.4754&rep=rep1&type=pdf) -  Steve Awodey（卡内基梅隆大学）
 * [Category Theory](http://www.mathematik.uni-muenchen.de/~pareigis/Vorlesungen/04SS/Cats1.pdf) -  B.功能
 * [Category Theory for Computing Science](https://web.archive.org/web/20181221233252/http://www.math.mcgill.ca/triples/Barr-Wells-ctcs.pdf) - 迈克尔巴尔，查尔斯威尔斯
@@ -169,7 +170,7 @@
 * [Algebraic Methods](http://www1.spms.ntu.edu.sg/~frederique/AA11.pdf) -  F.奥吉尔
 * [Abstract Algebra : Theory and Applications](http://abstract.ups.edu/download/aata-20150812.pdf) -  Thomas W. Judson，Robert A. Beezer（奥斯汀州立大学）
 * [An Undergraduate Course in Abstract Algebra](http://www.maths.usyd.edu.au/u/bobh/UoS/rfwhole.pdf) - 罗伯特豪利特
-* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) - E.H. Connell (University of Miami)
+* [Elements of Abstract and Linear Algebra](http://www.math.miami.edu/~ec/book) -  EH Connell（迈阿密大学）
 * [Abstract Algebra: The Basic Graduate Year](http://www.math.uiuc.edu/~r-ash/Algebra.html) - 罗伯特阿什
 * [Abstract Algebra: Harvard Extension (Archived)](https://web.archive.org/web/20150528171650/extension.harvard.edu/open-learning-initiative/abstract-algebra) - 本尼迪克特格罗斯
 * [Abstract Algebra: Harvard Extension Videos](https://www.youtube.com/playlist?list=PLA58AC5CABC1321A3) - 本尼迪克特格罗斯

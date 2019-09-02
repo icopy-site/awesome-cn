@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="uralbash/awesome-pyramid"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Pyramid
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![IRC
@@ -69,7 +70,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [Python Social Auth](https://github.com/omab/python-social-auth) - 社交
   认证/注册机制，支持大量
   [providers](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic](https://github.com/authomatic/authomatic) -  Simple yet powerful
+* [Authomatic](https://github.com/authomatic/authomatic) - 简单而强大
   Python Web应用程序的授权/身份验证客户端库.
 * [apex](https://github.com/cd34/apex) - 金字塔工具包，一个Pylons项目，
   使用Velruse（OAuth）和/或本地添加身份验证和授权
@@ -102,7 +103,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [pyramid_authstack](https://github.com/wichert/pyramid_authstack) - 使用
   使用Pyramid的多个身份验证策略.
 * [horus](https://github.com/Pylons/horus) - 用户注册和登录系统
-  用于金字塔Web框架.
+  for the Pyramid Web Framework.
 * [pyramid_yosai](https://github.com/YosaiProject/pyramid_yosai) -  Pyramid与安全框架的Python应用程序集成，其中包括授权（rbac权限和角色），身份验证（2fa totp），会话管理和广泛的审计跟踪https://yosaiproject.github.io/yosai/
 
 ## Caching & Session
@@ -126,7 +127,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 
 ## Debugging
 
-*帮助追捕错误的软件包.*
+*Packages that help hunt down bugs.*
 
 * [pyramid_debugtoolbar](https://github.com/Pylons/pyramid_debugtoolbar) -
   在开发金字塔时提供了一个有用的调试工具栏
@@ -172,9 +173,9 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 
 ## Media-Management
 
-* [pyramid_elfinder](https://github.com/uralbash/pyramid_elfinder) - This is
+* [pyramid_elfinder](https://github.com/uralbash/pyramid_elfinder) - 这是
   elfinder文件管理器的conector，为金字塔框架编写.
-* [pyramid_storage](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
+* [pyramid_storage](https://github.com/danjac/pyramid_storage) - 这是一个用于处理Pyramid框架应用程序中的文件上传的包.
 
 ## RESTful API
 
@@ -205,7 +206,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [pyramid_jsonapi](https://github.com/colinhiggs/pyramid-jsonapi) - 自动 
   创建一个 [JSON API](http://jsonapi.org/) 来自数据库的标准API使用
   sqlAlchemy ORM和金字塔框架.
-* [pyramid_apispec](https://github.com/ergo/pyramid_apispec) - 创建一个OpenAPI
+* [pyramid_apispec](https://github.com/ergo/pyramid_apispec) - Create an OpenAPI
   使用apispec和Marshmallow模式的规范文件.
 
 
@@ -253,7 +254,7 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 * [pyramid_zodbconn](https://github.com/Pylons/pyramid_zodbconn) -  ZODB
   Pyramid的数据库连接管理.
 * [pyramid_mongoengine](https://github.com/marioidival/pyramid_mongoengine) -
-  基于金字塔的基于烧瓶崇拜的包装
+  金字塔 -  mongoengine包基于烧瓶 -  mongoengine
 * [pyramid_mongodb](https://github.com/niallo/pyramid_mongodb) - 
   基本金字塔脚手架可以轻松使用MongoDB与Pyramid Web框架进行持久化
 * [pyramid-excel](https://github.com/pyexcel-webwares/pyramid-excel) -  pyramid-excel基于 [pyexcel](https://github.com/pyexcel/pyexcel)  并且可以通过HTTP协议以及文件系统轻松地使用/生成存储在excel文件中的信息.  该库可以将excel数据转换为列表列表，记录列表（字典），列表字典.  反之亦然.  因此，它可以让您专注于基于金字塔的Web开发中的数据，而不是文件格式.

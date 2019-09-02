@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="drobakowski/awesome-erlang"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer)](https://github.com/drobakowski/awesome-erlang)
 精选的令人敬畏的Erlang图书馆列表，资源和闪亮的东西 [awesome-elixir](https://github.com/h4cc/awesome-elixir).
 
@@ -37,7 +38,7 @@
 ## Web Framework Components
 *来自Web开发框架的独立组件.*
 
-* [cb_admin](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
+* [cb_admin](https://github.com/ChicagoBoss/cb_admin) - 芝加哥老板的管理界面.
 * [cb_websocket_controller](https://github.com/dkuhlman/cb_websocket_controller) - 用于为ChicagoBoss实现Websocket控制器的模板.
 * [giallo_session](https://github.com/kivra/giallo_session) -  Giallo Web框架的会话管理库.
 * [simple_bridge](https://github.com/nitrogen/simple_bridge) - 一个抽象层，为流行的Erlang Web服务器（Cowboy，Inets，Mochiweb，Webmachine和Yaws）提供统一的界面.
@@ -64,7 +65,7 @@
 * [lager](https://github.com/basho/lager) -  Erlang / OTP的日志框架.
 * [lager_amqp_backend](https://github.com/jbrisbin/lager_amqp_backend) -  AMQP RabbitMQ Lager后端.
 * [lager_hipchat](https://github.com/synlay/lager_hipchat) -  HipChat后端库存.
-* [lager_loggly](https://github.com/kivra/lager_loggly) -  Logly后端库存.
+* [lager_loggly](https://github.com/kivra/lager_loggly) -  Loggly后端库存.
 * [lager_smtp](https://github.com/blinkov/lager_smtp) - 用于贮藏的SMTP后端.
 * [lager_slack](https://github.com/furmanOFF/lager_slack) - 简单的Slack后端用于贮藏啤酒.
 * [logplex](https://github.com/heroku/logplex) -  Heroku日志路由器.
@@ -107,7 +108,7 @@
 
 * [erl-rstar](https://github.com/armon/erl-rstar) -  R * -tree空间数据结构的Erlang实现.
 * [GeoCouch](https://github.com/couchbase/geocouch) -  Couchbase和Apache CouchDB的空间扩展.
-* [Teles](https://github.com/armon/teles) - 用于操纵地理数据的Erlang网络服务.
+* [Teles](https://github.com/armon/teles) - An Erlang network service for manipulating geographic data.
 
 ## Debugging
 *用于调试代码和应用程​​序的库和工具.*
@@ -137,7 +138,7 @@
 *用于处理事件和任务队列的库.*
 
 * [dq](https://github.com/darach/dq) - 分布式容错队列库.
-* [ebqueue](https://github.com/rgrinberg/ebqueue) - 在erlang中使用简单的简单阻塞队列.
+* [ebqueue](https://github.com/rgrinberg/ebqueue) -  erlang中的小型简单阻塞队列.
 * [pqueue](https://github.com/okeuday/pqueue) -  Erlang优先级队列.
 * [tinymq](https://github.com/ChicagoBoss/tinymq) -  Erlang的小型内存消息队列.
 

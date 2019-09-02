@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sbilly/awesome-security"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Security
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -7,7 +8,7 @@
 
 灵感来自 [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python).
 
-Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
+谢谢大家 [contributors](https://github.com/sbilly/awesome-security/graphs/contributors) ，你很棒，没有你就不可能！  目标是建立一个由知名资源组成的分类社区驱动集合.
 
 
 ------
@@ -38,7 +39,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [Node Security Platform](https://nodesecurity.io/) - 类似的功能设置为Snyk，但在大多数情况下是免费的，而对其他人来说非常便宜.
 - [ntopng](http://www.ntop.org/products/traffic-analysis/ntop/) -  Ntopng是一个网络流量探测器，显示网络使用情况，类似于流行的顶级Unix命令.
 - [Fibratus](https://github.com/rabbitstack/fibratus)   -  Fibratus是一个用于探索和跟踪Windows内核的工具.  它能够捕获大部分Windows内核活动 - 进程/线程创建和终止，文件系统I / O，注册表，网络活动，DLL加载/卸载等等.  Fibratus有一个非常简单的CLI，它封装了启动内核事件流收集器，设置内核事件过滤器或运行名为filaments的轻量级Python模块的机制.
-- [opensnitch](https://github.com/evilsocket/opensnitch) - OpenSnitch is a GNU/Linux port of the Little Snitch application firewall
+- [opensnitch](https://github.com/evilsocket/opensnitch) -  OpenSnitch是Little Snitch应用防火墙的GNU / Linux端口
 
 ### IDS / IPS / Host IDS / Host IPS
 
@@ -167,7 +168,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 ### Forensics
 
 - [grr](https://github.com/google/grr) -  GRR快速响应是一个专注于远程实时取证的事件响应框架.
-- [Volatility](https://github.com/volatilityfoundation/volatility) - 基于Python的内存提取和分析框架.
+- [Volatility](https://github.com/volatilityfoundation/volatility) - Python based memory extraction and analysis framework.
 - [mig](http://mig.mozilla.org/)   -  MIG是一个在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 - [ir-rescue](https://github.com/diogo-fernan/ir-rescue) -  * ir-rescue *是Windows Batch脚本和Unix Bash脚本，用于在事件响应期间全面收集主机取证数据.
 - [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的CLI实用程序和Python API.
@@ -206,7 +207,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 - [ModSecurity](http://www.modsecurity.org/) -  ModSecurity是用于实时Web应用程序监视，日志记录和访问控制的工具包.
 - [NAXSI](https://github.com/nbs-system/naxsi) -  NAXSI是NGINX的开源，高性能，低规则维护WAF，NAXSI意味着Nginx Anti Xss和Sql Injection.
 - [sql_firewall](https://github.com/uptimejp/sql_firewall) PostgreSQL的SQL防火墙扩展
-- [ironbee](https://github.com/ironbee/ironbee)   -  IronBee是一个开源项目，用于构建通用Web应用程序安全传感器.  IronBee作为开发用于保护Web应用程序的系统的框架 - 用于构建Web应用程序防火墙（WAF）的框架.
+- [ironbee](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Scanning / Pentesting
 

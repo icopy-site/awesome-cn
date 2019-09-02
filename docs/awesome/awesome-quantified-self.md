@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="woop/awesome-quantified-self"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -17,7 +18,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Quantified Self](http://quantifiedself.com/) - 官方网站.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) - 自我监督和量化新闻.
 - [Wearables Database](http://vandrico.com/wearables/) - 每个身体部位可用的可穿戴设备列表.
-- [Wolfram Connected Devices Project](http://devices.wolfram.com/) - IoT and Quantified Self device list.
+- [Wolfram Connected Devices Project](http://devices.wolfram.com/) -  IoT和量化自我设备列表.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) - 量化自我研究和创新项目.
 
 ## Articles & Blogs
@@ -47,8 +48,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 ## Applications and Platforms
 
 ### Fitness
-- [Runkeeper](http://runkeeper.com/) - Outdoor fitness activity tracker (iOS & Android).
-- [Endomondo](https://www.endomondo.com/) - 体育和健康统计跟踪器（iOS和Android）.
+- [Runkeeper](http://runkeeper.com/) - 户外健身活动追踪器（iOS和Android）.
+- [Endomondo](https://www.endomondo.com/) - Sport and health statistics tracker (iOS & Android).
 - [Runtastic](https://www.runtastic.com/) - 跑步，骑行和健身GPS追踪器（iOS和Android）.
 - [EveryMove Fit](http://everymovefit.com/) - 社交健身和目标跟踪平台（iOS和Android）.
 - [Strava](https://www.strava.com/) - 体育活动跟踪和社交网络.
@@ -65,7 +66,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Google Fit](https://www.google.com/fit) - 开放生态系统以存储，访问和管理健身数据（Android）.
 - [Gyroscope](https://gyrosco.pe/) - 量化自我健康仪表板（网络和iOS）.
 - [Exist](https://exist.io/) - 在一个地方跟踪所有内容（网络，iOS和Android）.
-- [Zenobase](https://zenobase.com/) - 存储，汇总和可视化来自多个第三方来源（网络）的数据.
+- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
 - [Validic](https://validic.com/) - 基于云的平台，可连接来自数字医疗应用，设备和可穿戴设备的患者记录数据.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) - 将健康和健身数据加入单一的集中平台.
 - [IoTool](https://iotool.io/) - 用于自动化和数据收集的智能手机物联网平台.

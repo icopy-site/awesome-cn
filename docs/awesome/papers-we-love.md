@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="papers-we-love/papers-we-love"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
  **我们喜欢的论文**（* PWL *）是一个围绕阅读，讨论和学习更多关于学术计算机科学论文的社区.  该存储库充当社区可以找到的一些最佳论文的目录，将分散在Web上的文档汇集在一起​​.  你也可以访问 [Papers We Love site](http://paperswelove.org/) 了解更多信息.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kdeldycke/awesome-falsehood"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 一系列令人敬畏的虚假程序员信奉的精选列表.
@@ -44,7 +45,7 @@ subtleties.
 音乐]（https://literateprogrammer.blogspot.fr/2016/07/falsehoods-programmers-believe-about.html） - 
 可能在编纂音乐时做出错误的假设.
 - [Falsehoods About Art](http://artsy.github.io/blog/2018/04/18/programmer-misconceptions-about-art/) –
-Common misconceptions about art.
+关于艺术的常见误解.
 
 
 ## Business
@@ -183,7 +184,7 @@ be.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 关于您在国际化时需要记住的事项的视频
 code.
-- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - Character encoding doesn't have to be baffling, but it helps to have a basic set of knowledge
+- [Minimum to Know About Unicode and Character Sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) - 字符编码不一定令人困惑，但它有助于拥有一套基本的知识
 
 
 ## Multimedia
@@ -258,7 +259,7 @@ code.
 设计选举制度有其自己的技巧.
 -  [关于女性的虚假]
 Tech]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477） - 关于女性的神话
-在STEM（科学，技术，工程，数学）行业.
+in STEM (Science, Technology, Engineering, Math) industries.
 
 
 ## Software Engineering
@@ -271,7 +272,7 @@ Tech]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477） - 关于女性�
  硬.  构建构建软件的软件更难.
 -  [关于文件的神话
 路径]（https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/） - 
-文件系统和操作系统的多样性使文件路径比我们更难
+Diversity of file-systems and OSes makes file paths a little harder than we
 可能会想到.
 -  [关于REST的虚假信息
 API]（http://slinkp.com/falsehoods-programmers-believe-about-apis.html） - 

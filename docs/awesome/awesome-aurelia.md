@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="aurelia-contrib/awesome-aurelia"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <a href="https://github.com/behzad888/awesome" target="_blank">
     <img src="https://raw.githubusercontent.com/aurelia-contrib/awesome-aurelia/master/media/aurelia-awesome.png" alt="Awesome Aurelia" />
@@ -93,7 +94,7 @@
 * [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg) *这个工具叫做“Aurelia Inspector”
 * [vscode-extension](https://github.com/aurelia/vscode-extension) * VS Code编辑器的Aurelia扩展，提供HTML语法突出显示，语句完成和CLI集成.
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * VSCode的HTML，JavaScript和TypeScript代码段
-* [aurelia-update](https://github.com/SpoonX/aurelia-update) *轻松更新所有aurelia依赖项.
+* [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Aurelia-flavor模板HTML的完整性检查
 * [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) *原子的JavaScript和TypeScript片段
 * [aurelia-installer](https://github.com/kristianmandrup/aurelia-installer) *用于管理Aurelia组件和供应商库的CLI
@@ -227,7 +228,7 @@
 
 #### Aurelia Implementation
 
-* [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) *使用TinyAnimate实现Aurelia和动画师
+* [aurelia-animator-tinyanimate](https://github.com/gooy/aurelia-animator-tinyanimate) *使用TinyAnimate实现Aurelia基础动画师
 * [sukobuto/aurelia-tinymce-sample](https://github.com/sukobuto/aurelia-tinymce-sample) * Aurelia和TinyMCE的示例应用程序
 * [stamp-web/stamp-web-aurelia](https://github.com/stamp-web/stamp-web-aurelia) *使用Bootstrap在Aurelio中编写的下一代邮票Web编辑器
 * [aurelia-flickr-ts-memo-game](https://github.com/kst83/aurelia-flickr-ts-memo-game) *使用Flickr匹配TypeScript中使用Aurelia编写的游戏对类型

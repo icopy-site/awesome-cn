@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/amas"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome & Marvelous Amas [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) →问我什么
@@ -53,7 +54,7 @@
 - [Chris Missal](https://github.com/chrismissal/ama)   - 德克萨斯州奥斯汀的互联网事务制造商.  傻瓜，书呆子和OSS爱好者.
 - [Acho Arnold](https://github.com/najela/ama) - 充满激情的全栈Web开发人员 [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 - [Rob Furlong](https://github.com/robbbz/ama) - 通过网络，自由职业者制作很酷的东西.
-- [Honza Bittner](https://github.com/tenhobi/ama) - 学生来 [FIT CTU](http://fit.cvut.cz/en), Dart lover.
+- [Honza Bittner](https://github.com/tenhobi/ama) - 学生来 [FIT CTU](http://fit.cvut.cz/en)，达特爱人.
 - [Jan Sanchez](https://github.com/jansanchez/ama)   - 前端开发人员.  css-url-versioner的创建者，开源贡献者.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - 目前在西班牙的一名学生正在进行任何使用C ++，Rust，JavaScript和TypeScript的开发.
 - [Richard Littauer](https://github.com/RichardLitt/ama)   - 全栈开发人员，语言学家，有时还有数字游牧民族.  使用麻省理工学院媒体实验室创建了Na&#39;vi词典，NodeSchool组织者，用户醉酒.
@@ -147,10 +148,10 @@
 - [Chaitanya Giri](https://github.com/chaitanyagiri/ama) - 全栈开发人员，JavaScript &lt;3，空格选项卡，开源爱好者.
 - [Rishi Pithadiya](https://github.com/rishiip/ama) - 印度的全栈Ruby on Rails开发人员，开源爱好者.
 - [Byungjin Park](https://github.com/posquit0/ama) - 软件架构师，DevOps工程师，黑客，开源.
-- [Ali Spittel](https://github.com/aspittel/ama) - 教学代码，Python和JavaScript开发人员，博主.
+- [Ali Spittel](https://github.com/aspittel/ama) - Teaching code, Python and JavaScript developer, blogger.
 - [Khen Daniel](https://github.com/thekhenzie/ama)  - 软件工程师.  有抱负的摄影师.  黑客.
 - [Riza Fahmi](https://github.com/rizafahmi/ama)   - 开发人员，导师，演讲者.  课程总监，联合创始人Hacktiv8 Coding Bootcamp.
-- [Sergey Sova](https://github.com/sergeysova/ama) - Rust lover. Mentor. Freelancer. React developer.
+- [Sergey Sova](https://github.com/sergeysova/ama)   - 生锈的情人.  导师.  自由职业者.  反应开发者.
 - [Omar Bahareth](https://github.com/obahareth/ama) - 软件工程主管 [Tam](https://tamhub.com) ，导师，全栈开发人员，目前正在深入研究Ruby和Elixir，并慢慢进入Go和Rust.  位于沙特阿拉伯.
 - [Addy Osmani](https://dev.to/addyosmani/im-addy-osmani-ask-me-anything-596c) - 谷歌Chrome团队的工程经理领导Web性能.
 - [CY Lim](https://github.com/cylim/ama) - 全栈JavaScript数字游牧民族.
@@ -158,7 +159,7 @@
 - [Frédéric Harper](https://github.com/fharper/ama) - Developer Advocate at npm, former Mozilla & Microsoft one, Apress author, public speaker, #crazycatman & more.
 - [Emanuele Bartolesi](https://github.com/kasuken/ama)   - 全栈Web开发人员.  道德黑客.  初学者铁人三项运动员.
 - [Brad Garropy](https://bradgarropy.com/ama) - 自学成才 [Adobe](https://www.adobe.com), [blogger](https://bradgarropy.com), [streamer](https://youtube.com/bradgarropy), [tweeter](https://twitter.com/bradgarropy).
-- [Fabio Spampinato](https://github.com/fabiospampinato/ama) - 自学成才的全栈开发人员热衷于开源和赋予人们权力.
+- [Fabio Spampinato](https://github.com/fabiospampinato/ama) - Self-taught full-stack developer passionate about open source and empowering people.
 - [Eduards Sizovs](https://github.com/sizovs/ama) - 软件架构师， [blogger](https://sizovs.net), [trainer](https://principal.dev), [speaker](https://dev.tube/@eduardsi)，和 [conference organizer](https://devternity.com).
 - [Even Stensberg](https://github.com/evenstensberg/ama) -  OSS贡献者和开发者.
 - [Erdal TAŞKESEN](https://github.com/erdaltsksn/ama) - 所有在一个开发人员.

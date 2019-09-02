@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="machinomy/awesome-non-financial-blockchain"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Non-Financial Blockchain [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;策划区块链非金融应用程序的项目列表.
@@ -15,7 +16,7 @@
 
 ### Public Blockchain Identity
 
-- [Blockstack](https://blockstack.org)   - 用户控制数据的分散式无服务器应用程序平台.  包括身份.
+- [Blockstack](https://blockstack.org)   - 用于控制数据的分散式无服务器应用程序的平台.  包括身份.
 - [Evernym](http://www.evernym.com) - 建立在开源许可区块链之上的自我主权身份.
 - [Jolocom](https://jolocom.com) - 自我主权身份钱包.
 - [SIN](https://en.bitcoin.it/wiki/Identity_protocol_v1) - 提议的比特币身份协议.

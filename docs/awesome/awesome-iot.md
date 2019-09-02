@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="HQarroum/awesome-iot"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IoT
 
 <img src="https://raw.githubusercontent.com/HQarroum/awesome-iot/master/iot-logo.png" align="right" width="100">
@@ -62,14 +63,14 @@
 #### Frameworks
 
  - [AllJoyn](https://openconnectivity.org/developer/reference-implementation/alljoyn) -  AllJoyn是一个开源软件框架，使设备和应用程序可以轻松地相互发现和通信.
- - [Apple HomeKit](https://developer.apple.com/homekit/) - HomeKit is a framework for communicating with and controlling connected accessories in a user’s home.
+ - [Apple HomeKit](https://developer.apple.com/homekit/) -  HomeKit是用于与用户家中的连接附件进行通信和控制的框架.
  - [Astarte](https://github.com/astarte-platform/astarte)   -  Astarte是一个用Elixir编写的开源IoT平台.  它是一个交钥匙解决方案，包含将设备机群连接到一组远程应用程序所需的一切.  它可以执行数据建模，自动数据缩减，实时事件，并为您提供在现代物联网平台中可能期望的任何功能.  目前，使用提供的SDK即可支持Linux和ESP32设备.
  - [Blynk](http://www.blynk.cc)   -  Blynk是一个为连接的东西创建iOS和Android应用程序的平台.  只需拖放小部件（就在智能手机上），您就可以轻松地为所有项目构建图形界面.  支持以太网，WiFi，蓝牙，GSM / GPRS，USB /串行连接，以及Arduino，Raspberry，ARM mbed，Particle，RedBear等各种原型平台.
  - [Countly IoT Analytics](http://github.com/countly/countly-server) - Countly is a general purpose analytics platform for mobile and IoT devices, available as open source.
  - [Eclipse Smarthome](https://eclipse.org/smarthome/)   -  Eclipse SmartHome框架设计用于在嵌入式设备上运行，例如Raspberry Pi，BeagleBone Black或Intel Edison.  它需要符合Java 7的JVM和OSGi（4.2+）框架，例如Eclipse Equinox.
  - [Freedomotic](http://www.freedomotic.com)   -  Freedomotic是一个开源，灵活，安全的物联网（IoT）开发框架，可用于构建和管理现代智能空间.  它面向私人（家庭自动化）以及商业用户（智能零售环境，环境感知营销，监控和分析等）.  用Java编写，它可以与众所周知的标准楼宇自动化协议以及“自己动手”解决方案进行交互.
  - [Iotivity](https://www.iotivity.org/) -  IoTivity是一个开源软件框架，支持无缝的设备到设备连接，以满足物联网的新兴需求.
- - [Kura](https://eclipse.org/kura/) - Kura aims at offering a Java/OSGi-based container for M2M applications running in service gateways. Kura provides or, when available, aggregates open source implementations for the most common services needed by M2M applications.
+ - [Kura](https://eclipse.org/kura/)   -  Kura旨在为运行在服务网关中的M2M应用程序提供基于Java / OSGi的容器.  Kura提供或在可用时聚合M2M应用程序所需的最常见服务的开源实现.
  - [Lelylan](http://www.lelylan.com/)   -  Lelylan是一个基于轻量级微服务架构的物联网云平台.  Lelylan平台既与硬件无关，又与平台无关.  这意味着您可以连接任何硬件，从ESP8266到最专业的嵌入式硬件解决方案以及介于两者之间的所有内容 - 它可以在任何公共云，您自己的私有数据中心，甚至在混合环境中运行，无论是虚拟化还是裸机.
  - [Mihini](https://wiki.eclipse.org/Mihini)   -  Mihini的主要目标是提供在Linux之上运行的嵌入式运行时，它公开了用于构建M2M应用程序的高级API.  Mihini旨在通过促进访问M2M系统的I / O，提供通信层等，实现轻松便携的开发.
  - [OpenHAB](http://www.openhab.org/)   -  openHAB运行时是一组部署在OSGi框架（Equinox）上的OSGi包.  因此，它是纯Java解决方案，需要运行JVM.  它基于OSGi，提供高度模块化的架构，甚至允许在运行时添加和删除功能，而无需停止服务.
@@ -88,7 +89,7 @@
  - [IFTTT](https://ifttt.com/)   -  IFTTT是一种基于Web的服务，允许用户创建简单条件语句链，称为“食谱”，这些条件语句是基于对Gmail，Facebook，Instagram和Pinterest等其他Web服务的更改而触发的.  IFTTT是“If This Then That”的缩写（发音为“gift”而没有“g”）.
  - [Huginn](https://github.com/cantino/huginn) -  Huginn是一个用于构建代理的系统，可以在线为您执行自动化任务.
  - [Kaa](http://www.kaaproject.org/) - 用于快速创建物联网解决方案的开源中间件平台.
- - [Losant](https://losant.com)   -  Losant是一款易于使用且功能强大的开发人员平台，旨在帮助您快速，安全地构建复杂的连接解决方​​案.  Losant使用REST和MQTT等开放式通信标准来提供从一个到数百万个设备的连接.  Losant提供强大的数据收集，聚合和可视化功能，有助于理解和量化大量传感器数据.  Losant的拖放工作流程编辑器允许您无需编程即可触发操作，通知和机器对机器通信.
+ - [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
  - [MicroServiceBus.com](https://microservicebus.com)   -  MicroServiceBus.com是Azure，AWS和IBM IoT Hub的设备管理平台，可与GitHub，ServiceNow，Cisco Jasper等集成.  它提供免费（有限）版本以及企业产品.
  - [DreamFactory](http://www.dreamfactory.com) -  DreamFactory是一个免费的开源REST API平台，适用于移动，Web和IoT应用程序.
  - [I1820](https://i1820.github.io/)   -  I1820是一个免费的开源平台，提供基于MQTT的发现，数据收集和配置服务.  I1820实现了用于控制事物的REST API，它将所有收集的数据存储在名为InfluxDB的时间序列数据库中.
@@ -104,7 +105,7 @@
  - [Cylon.js](http://cylonjs.com/)   -  Cylon.js是机器人，物理计算和物联网的JavaScript框架.  这使得命令机器人和设备非常容易.
  - [Luvit](https://luvit.io/)   -  Luvit实现了与Node.js相同的API，但是在Lua中！  虽然这个框架并不直接涉及物联网开发，但它仍然是快速构建功能强大且内存效率高的嵌入式Web应用程序的一种很好的方法.
  - [Johnny-Five](http://johnny-five.io/)   -  Johnny-Five是最初的JavaScript Robotics编程框架.  Johnny-Five于2012年由Bocoup发布，由一群充满激情的软件开发人员和硬件工程师维护.
- - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
+ - [Pi4J](http://pi4j.com/) -  Pi4j旨在为Java程序员提供友好的面向对象的I / O API和实现库，以访问Raspberry Pi平台的完整I / O功能.
  - [WiringPi](http://wiringpi.com/) -  WiringPi是一个用C语言编写的GPIO访问库，用于Raspberry Pi中使用的BCM2835.
  - [Node-RED](http://nodered.org/) - 用于连接物联网的可视化工具.
  - [MQTT Explorer](https://thomasnordquist.github.io/MQTT-Explorer/) - 在主题层次结构中可视化MQTT主题的工具，MQTT瑞士军刀.
@@ -129,7 +130,7 @@
 
 #### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BluetoothLogo.svg/770px-BluetoothLogo.svg.png" /> - [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth) (Bluetooth Special Interest Group)
 
-Bluetooth is a wireless technology standard for exchanging data over short distances (using short-wavelength UHF radio waves in the ISM band from 2.4 to 2.485 GHz) from fixed and mobile devices, and building personal area networks (PANs). Invented by telecom vendor Ericsson in 1994, it was originally conceived as a wireless alternative to RS-232 data cables. It can connect several devices, overcoming problems of synchronization. - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
+ 蓝牙是一种无线技术标准，用于从固定和移动设备短距离交换数据（在2.4至2.485 GHz的ISM频段内使用短波UHF无线电波），以及构建个人局域网（PAN）.  由电信供应商爱立信于1994年发明，它最初被认为是RS-232数据线的无线替代品.  它可以连接多个设备，克服同步问题.   -  [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth)
 
 &gt;蓝牙由蓝牙特别兴趣小组（SIG）管理，该小组在电信，计算，网络和消费电子领域拥有超过25,000家成员公司.
 
@@ -143,7 +144,7 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
  扩展覆盖范围GSM IoT（EC-GSM-IoT）是一种基于标准的低功耗广域技术.  它基于eGPRS，设计用于物联网通信的高容量，长距离，低能耗和低复杂度的蜂窝系统.
 
- &gt; EC-GSM-IOT网络试验已经开始，计划于2017年首次推出商用.在所有主要移动设备，芯片组和模块制造商的支持下，EC-GSM-IoT网络将与2G，3G和2G共存4G移动网络.  它还将受益于所有安全和隐私移动网络功能，例如支持用户身份机密性，实体身份验证，机密性，数据完整性和移动设备识别.
+> The EC-GSM-IOT network trials have begun, with the first commercial launches planned for 2017. Supported by all major mobile equipment, chip set and module manufacturers, EC-GSM-IoT networks will co-exist with 2G, 3G, and 4G mobile networks. It will also benefit from all the security and privacy mobile network features, such as support for user identity confidentiality, entity authentication, confidentiality, data integrity, and mobile equipment identification.
 
 
  LoRaWAN广域网允许来自和连接对象的低比特率通信，从而参与物联网，机器到机器M2M和智能城市.   -  [Wikipedia](https://en.wikipedia.org/wiki/LoRaWAN)
@@ -203,7 +204,7 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
 #### [DTLS](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security) (IETF)
 
-The Datagram Transport Layer Security (DTLS) communications protocol provides communications security for datagram protocols.  - [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
+ 数据报传输层安全（DTLS）通信协议为数据报协议提供通信安全性.   -  [Wikipedia](https://fr.wikipedia.org/wiki/Datagram_Transport_Layer_Security)
 
  &gt; DTLS允许基于数据报的应用程序以[由谁？]设计的方式进行通信，以防止窃听，篡改或消息伪造.  DTLS协议基于面向流的传输层安全性（TLS）协议，旨在提供类似的安全保证.
 
@@ -250,7 +251,7 @@ iBeacon是Apple标准化的协议，于2013年在Apple全球开发者大会上�
 
  可扩展消息传递和存在协议（XMPP）是基于XML（可扩展标记语言）的面向消息的中间件的通信协议.   -  [Wikipedia](https://en.wikipedia.org/wiki/XMPP)
 
- &gt;它支持在任何两个或多个网络实体之间近乎实时地交换结构化但可扩展的数据.  该协议旨在可扩展，还用于发布 - 订阅系统，VoIP，视频，文件传输，游戏，物联网（IoT）应用（如智能电网）和社交网络服务的信令.
+> It enables the near-real-time exchange of structured yet extensible data between any two or more network entities. Designed to be extensible, the protocol has also been used for publish-subscribe systems, signalling for VoIP, video, file transfer, gaming, Internet of Things (IoT) applications such as the smart grid, and social networking services.
 
 ## Technologies
 
@@ -326,7 +327,7 @@ creates and maintains specifications, ensures compliance with OPC specifications
 
 - [A Simple Explanation Of 'The Internet Of Things' (Forbes)](http://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/) - 本文试图回答“物联网”究竟是什么以及它对我们产生的影响.
 - [IoT security. Is there an app for that ?](http://embedded-computing.com/21517-iot-security-is-there-an-app-for-that/) - 物联网世界大会调查物联网应用程序开发，安全性和商业模式.
-- [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - 在测试基于物联网的产品时管理参数排列的测试方法.
+- [The IoT Testing Atlas](http://iamqa.in/2015/10/04/The-IoT-Testing-Atlas/) - A testing methodology for managing the permutations of parameters while testing an IoT based product.
 
 
 ### Papers

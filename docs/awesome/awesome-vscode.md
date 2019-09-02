@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="viatsko/awesome-vscode"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <br/>
 <div align="center">
   <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
@@ -6,7 +7,7 @@
 <br/>
 <div align="center">
 
-令人愉快的策划清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 </div>
@@ -390,7 +391,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
  &gt;提供GitHub工作流程支持.  例如浏览项目，问题，文件（当前行），创建和管理拉取请求.  计划支持其他提供商（例如gitlab或bitbucket）.
-&gt;看看吧 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始使用此扩展程序的设置.
+&gt;看看吧 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
 &gt;此扩展程序使用GitHub api监控拉取请求的状态，并告知您何时合并或有人请求更改.
@@ -495,7 +496,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-&gt;允许您直接发送HTTP请求并在Visual Studio Code中查看响应.
+> Allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
@@ -832,7 +833,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [City Lights by Yummygum](https://vscodethemes.com/e/Yummygum.city-lights-theme)
 
-🏙 Yummygum's Official City Lights suite
+ Yummygum官方城市之光套房
 
 <a href="http://citylights.xyz">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/city-lights-yummygum.png" width="600" />
@@ -880,7 +881,7 @@ Dark VSCode主题灵感来自日本传统色彩和1000年前创作的诗歌.
 
 ### [GitHub Theme by Thomas Pink](https://vscodethemes.com/e/thomaspink.theme-github)
 
-GitHub Theme for Visual Studio Code.
+Visual Studio Code的GitHub主题.
 
 <a href="https://vscodethemes.com/e/thomaspink.theme-github">
   <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/./themes/screenshots/thomaspink.theme-github.png" width="600" />
@@ -1003,9 +1004,9 @@ Visual Studio Code的黑暗语法/工作台主题 - 针对SCSS，HTML，JS，TS�
 VS代码社区中各种人员的Twitter帐户列表
 
 - [@code](https://twitter.com/code) - 官方VS Code推特
-- [@auchenberg](https://twitter.com/auchenberg) - VS Code Program Manager
+- [@auchenberg](https://twitter.com/auchenberg) -  VS Code Program Manager
 - [@BenjaminPasero](https://twitter.com/BenjaminPasero) -  VS Code Dev
-- [@chrisdias](https://twitter.com/chrisdias) - VS Code Program Manager
+- [@chrisdias](https://twitter.com/chrisdias) -  VS Code Program Manager
 - [@_clarkio](https://twitter.com/_clarkio)   -  Developer Advocate @ Azure.  VS Code的发布者发布了高亮视频
 - [@eamodio](https://twitter.com/eamodio) -  GitLens的创作者
 - [@ErichGamma](https://twitter.com/ErichGamma) -  VS Code Dev

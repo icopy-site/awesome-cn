@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="timofurrer/awesome-asyncio"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精心策划的Python异步框架，库，软件和资源列表.
@@ -30,7 +31,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [Starlette](https://github.com/encode/starlette) - 用于构建高性能服务的轻量级ASGI框架/工具包.
 * [uvicorn](https://github.com/encode/uvicorn) - 闪电般快速的ASGI服务器.
 * [FastAPI](https://github.com/tiangolo/fastapi)   - 基于类型提示的高性能Python 3.6+ API框架.  由Starlette和Pydantic提供支持.
-* [Bocadillo](https://bocadilloproject.github.io) - 适用于所有人的快速，可扩展且实时的Web API.
+* [Bocadillo](https://bocadilloproject.github.io) - Fast, scalable and real-time capable web APIs for everyone.
 
 ## Message Queues
 
@@ -51,7 +52,7 @@ Asyncio并不是一种全新的技术，但它几年后似乎非常趋势 - 特�
 * [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) - 具有sqlalchemy核心支持的Asyncpg.
 * [aiopg](https://github.com/aio-libs/aiopg/) - 用于访问PostgreSQL数据库的库.
 * [aiomysql](https://github.com/aio-libs/aiomysql) - 用于访问MySQL数据库的库
-* [aioodbc](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+* [aioodbc](https://github.com/aio-libs/aioodbc) - 用于访问ODBC数据库的库.
 * [motor](https://github.com/mongodb/motor) -  MongoDB的异步Python驱动程序.
 * [aioredis](https://github.com/aio-libs/aioredis) - [aio-libs](https://github.com/aio-libs) Redis客户端（PEP 3156）.
 * [asyncio-redis](https://github.com/jonathanslenders/asyncio-redis) - 用于Python asyncio的Redis客户端（PEP 3156）.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="carpedm20/awesome-hacking"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精彩黑客的精选列表.  灵感来自 [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning/)
@@ -121,7 +122,7 @@
  * [Protobuf inspector](https://github.com/jmendeth/protobuf-inspector)
  * [DarunGrim](https://github.com/ohjeongwook/DarunGrim) - 可执行文件不同
  * [DBeaver](https://github.com/dbeaver/dbeaver) - 数据库编辑器.
- * [Dependencies](https://github.com/lucasg/Dependencies) - 一个FOSS替代Dependency Walker.
+ * [Dependencies](https://github.com/lucasg/Dependencies) - a FOSS replacement to Dependency Walker.
  * [PEview](http://wjradburn.com/software/) - 查看32位可移植可执行文件（PE）和组件对象文件格式（COFF）文件的结构和内容的快速简便方法
 * [BinText](https://web.archive.org/web/http://www.mcafee.com/kr/downloads/free-tools/bintext.aspx) - 一个小型，非常快速且功能强大的文本提取器，对程序员来说是特别感兴趣的.
 
@@ -149,7 +150,7 @@
  * [Paros](http://sourceforge.net/projects/paros/) - 用于评估Web应用程序漏洞的基于Java的HTTP / HTTPS代理
  * [pig](https://github.com/rafael-santiago/pig) -  Linux数据包制作工具
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) -  Zed攻击代理（ZAP）是一种易于使用的集成渗透测试工具，用于查找Web应用程序中的漏洞
- * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+ * [mitmsocks4j](https://github.com/Akdeniz/mitmsocks4j) - 用于Java的中间人SOCKS代理
  * [ssh-mitm](https://github.com/jtesta/ssh-mitm) -  SSH / SFTP中间人工具，用于记录交互式会话和密码.
  * [nmap](https://nmap.org/) -  Nmap（Network Mapper）是一种安全扫描程序
  * [Aircrack-ng](http://www.aircrack-ng.org/) -  802.11 WEP和WPA-PSK密钥破解程序

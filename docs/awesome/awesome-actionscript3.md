@@ -1,11 +1,12 @@
 <div class="github-widget" data-repo="robinrodricks/awesome-actionscript3"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
 ## Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; ActionScript 3和Adobe AIR的精选库和组件的精选列表.
 
-[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) 提供一组API来构建跨平台的桌面/移动应用程序和游戏. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript)  是AIR的编程语言.  默认情况下包含强大的本机功能，如文件系统，SQLite，传感器.  要添加缺少的功能，您可以构建以本机语言编码的ANE（Air Native Extensions）（例如，用于Windows的VC ++，用于Android的Java，用于iOS的Swift / Objective-C）.  要使用GPU渲染图形构建移动应用/游戏，请使用 [Starling](https://gamua.com/starling/) 框架和可选 [Feathers UI](https://feathersui.com/). Adobe AIR is very popular in the mobile gaming space.
+[Adobe AIR](https://en.wikipedia.org/wiki/Adobe_AIR) 提供一组API来构建跨平台的桌面/移动应用程序和游戏. [ActionScript 3](https://en.wikipedia.org/wiki/ActionScript)  是AIR的编程语言.  默认情况下包含强大的本机功能，如文件系统，SQLite，传感器.  要添加缺少的功能，您可以构建以本机语言编码的ANE（Air Native Extensions）（例如，用于Windows的VC ++，用于Android的Java，用于iOS的Swift / Objective-C）.  要使用GPU渲染图形构建移动应用/游戏，请使用 [Starling](https://gamua.com/starling/) 框架和可选 [Feathers UI](https://feathersui.com/) .  Adobe AIR在移动游戏领域非常受欢迎.
 
  欢迎捐款.  要添加有用的项目，只需创建一个 [Issue](https://github.com/hgupta9/awesome-actionscript3/issues).
 
@@ -65,11 +66,11 @@
 * [Feathers UI](https://feathersui.com/) -  Starling Framework的用户界面组件（[github](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow](https://github.com/artman/Flow) - 使用布局，效果，数据绑定和远程处理框架代替Flex.
 * [AS3Commons UI](https://github.com/AS3Commons/as3commons-ui) - 布局，焦点和键盘管理框架.
-* [Swiz](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
+* [Swiz](https://github.com/swiz/swiz-framework) - 使用AS3和Adobe Flex创建RIA的简单微架构.
 * [Hiddenwood](https://github.com/raweden/Project-Hiddenwood) - 为Web应用程序项目开发的用户界面库，以AS3和MVC模式编写.
 * [Elastic-Lists](https://github.com/MoritzStefaner/Elastic-Lists) - 用于构面浏览的流畅且强大的界面.
 * [Apache Flex®](https://flex.apache.org/)   - ApacheFlex®SDK是流行的Adobe Flex SDK的演变.  ApacheFlex®SDK是一个应用程序开发框架，可轻松为移动设备，Web浏览器和桌面平台构建基于Flash的应用程序.
-* [Apache Royale®](http://royale.apache.org/)   - ApacheRoyale®项目正在开发下一代ApacheFlex®SDK.  Royale的目标是允许在MXML和ActionScript中开发的应用程序不仅可以在Flash / AIR运行时运行，还可以在没有Flash的浏览器中本地运行，在移动设备上作为PhoneGap / Cordova应用程序运行，以及在嵌入式JS环境中运行作为Chromium Embedded Framework.  Royale有可能允许您的MXML和ActionScript代码在比Flash目前更多的地方运行.
+* [Apache Royale®](http://royale.apache.org/)   - ApacheRoyale®项目正在开发下一代ApacheFlex®SDK.  Royale的目标是允许使用MXML和ActionScript开发的应用程序不仅可以在Flash / AIR运行时运行，还可以在没有Flash的浏览器中本地运行，在移动设备上作为PhoneGap / Cordova应用程序运行，以及在嵌入式JS环境中运行作为Chromium Embedded Framework.  Royale有可能允许您的MXML和ActionScript代码在比Flash目前更多的地方运行.
 
 #### Game Frameworks
 
@@ -87,7 +88,7 @@
 
 #### 3D Frameworks
 
-* [AwayBuilder](http://awaytools.com/awaybuilder/) - 用于从各种来源导入，优化和烘焙3D资产的可视化工作流工具.
+* [AwayBuilder](http://awaytools.com/awaybuilder/) - Visual workflow tool to import, optimise and bake 3D assets from a variety of sources.
 * [Away3D](https://github.com/away3d/away3d-core-fp11) - 适用于Flash Player 11+的开源GPU加速3D引擎（[examples](https://github.com/away3d/away3d-examples-fp11)).
 * [Away3D OpenFL](https://github.com/away3d/away3d-core-openfl)   - 用于Neko，HTML5和本地CPP的Away3D.  （[examples](https://github.com/away3d/away3d-examples-openfl)).
 * [AwayPhysics FP11](https://github.com/away3d/awayphysics-core-fp11) -  Away Physics  -  Away3D FP 11的3D物理库（[examples](https://github.com/away3d/awayphysics-examples-fp11)).
@@ -101,7 +102,7 @@
 * [GTween](http://gskinner.com/libraries/gtween/) - 用于编程补间，动画和过渡的小而强大的库.
 * [DragonBones](http://dragonbones.github.io/) - 使用Starling的高速骨骼动画，以及从Flash Pro导出动画的工具.
 * [FlashEff2](http://www.flasheff.com/) - 具有100多种过渡和文本效果的首映程序化动画库.
-* [FlashEffNano](http://www.flasheffnano.com/) - 针对移动设备优化的FlashEff转换库，包含750种样式的20多种转换.
+* [FlashEffNano](http://www.flasheffnano.com/) - 针对移动设备优化的FlashEff转换库，具有750种样式的20多种转换.
 * [StarlingGAFPlayer](https://github.com/zenrobin/StarlingGAFPlayer) - 使用Starling（在Flash Pro中创作的动画）播放GAF动画.
 
 #### Signals
@@ -146,7 +147,7 @@
 * [DataTree](https://github.com/pol2095/Feathers-Extension-Tree) - 显示排列为可扩展树的分层数据.
 * [Canvas](https://github.com/pol2095/Feathers-Extension-Canvas) - 支持基本矢量绘图功能.
 * [CircleProgress](https://github.com/pol2095/Feathers-Extension-CircleProgress) - 使用径向进度条显示进度.
-* [ZoomableControl](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - 允许使用多点触控输入进行缩放.
+* [ZoomableControl](https://github.com/pol2095/Feathers-Extension-ZoomableControl) - Allows a pinch to zoom using the multitouch inputs.
 * [Toaster](https://github.com/pol2095/Feathers-Extension-Toaster)   - 关于小弹出窗口中的操作的简单反馈.  .
 * [Google Maps](https://github.com/ZwickTheGreat/feathers-maps) - 针对Starling的Google地图，针对移动设备进行了优化.
 
@@ -200,7 +201,7 @@
 #### Camera
 
 * [CameraDetection](https://github.com/cataclysmicrewind/CameraDetection) - 相机检测.
-* [Fluocam](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications.
+* [Fluocam](https://github.com/Fluocode/Fluocam) - 用于Starling应用程序的虚拟摄像头.
 * [WebcamRecorder](https://github.com/Stupeflix/WebcamRecorder) - 来自网络摄像头的无铬视频/音频/静态图像录制.
 * [FlashyWrappers](https://github.com/rainbowcreatures/FlashyWrappers) - 在Windows / Android / iOS / OSX上录制AIR应用程序的视频.
 
@@ -258,7 +259,7 @@
 * [AS3sfxr](https://github.com/SFBTom/as3sfxr) - 使用Flash Player 10的新声音和文件功能，从C ++到AS3的sfxr端口.
 * [AS3-audio](https://github.com/singuerinc/as3-audio) -  Actionscript中的音频管理.
 * [SiON](https://github.com/keim/SiON) -  Flash软件合成器.
-* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - 录制音频并保存为WAV.
+* [FlashWavRecorder](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV.
 * [Local-recorder](https://github.com/pauln/local-audio-recorder)   - 本地录音机（无需流媒体服务器）.  目前需要Flash Player 10.1或更高版本.
 * [Jukebox](https://github.com/AlwynW/Jukebox) -  Actionscript 3项目的音乐经理.
 * [Flod](https://github.com/photonstorm/Flod) -  Amiga SoundTracker（MOD）和FastTracker（XM）重播库.
@@ -424,7 +425,7 @@
 * [AIRkinect](https://github.com/AS3NUI/airkinect-2-core)   - 与Microsoft Kinect集成的ANE.  （[examples](https://github.com/AS3NUI/airkinect-2-examples)).
 * [KinectGate](https://github.com/cleoag/KinectGate) -  KinectSDK到AS3插座门.
 * [Kinect-Gestures](https://github.com/tonybeltramelli/Air-Kinect-Gesture-Lib) -  AIR Kinect手势库.
-* [OpenTSPS](https://github.com/labatrockwell/openTSPS)   -  TSPS是一个用于感知空间人员的跨平台工具包.  它对实时视频（Kinect，网络摄像头等）执行openCV操作，并以JSON（通过WebSockets），OSC，TUIO或TCP的形式发送给客户端.
+* [OpenTSPS](https://github.com/labatrockwell/openTSPS)   -  TSPS是一个用于感知太空人的跨平台工具包.  它对实时视频（Kinect，网络摄像头等）执行openCV操作，并以JSON（通过WebSockets），OSC，TUIO或TCP的形式发送给客户端.
 * [LeapMotionAS3](https://github.com/logotype/LeapMotionAS3) - 与LeapMotion传感器集成（提供手势，图像，骨架/骨骼@ 210 FPS）.
 
 #### Servers
@@ -471,7 +472,7 @@
 #### Protocols
 
 * [GIT](https://github.com/nexussays/git-as3) -  Git的客户端实现.
-* [AIRplay](https://github.com/mikkoh/AS3-Airplay) -  Apple的Airplay的客户端实施.
+* [AIRplay](https://github.com/mikkoh/AS3-Airplay) - Client-side implementation of Apple's Airplay.
 * [TeaTime](https://github.com/aemoncannon/croqodile) - 针对Croquet项目的TeaTime协议的AS3 / Erlang实现.
 * [XMPP](https://github.com/lyokato/as3xmppclient) -  XMPP库的客户端实现.
 * [XMPP](https://github.com/bluef/kuching) -  XMPP库的轻量级实现.
@@ -559,7 +560,7 @@
 * [JS](https://github.com/theturtle32/RhinoAS3) -  RhinoJS，Mozilla的Rhino JavaScript口译员.
 * [Simple JS](https://github.com/sixsided/Simplified-JavaScript-Interpreter) - 基于AS3的Javascript解释器.
 * [MIL](https://github.com/ser1zw/MIL) - 使用ActionScript编写的MIL语言VM和解释器.
-* [TALES](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
+* [TALES](https://github.com/oaubert/tales4as) -  ActionScript的TALES解释器.
 * [Scheme](https://github.com/hrundik/fScheme) -  ActionScript中的Scheme解释器.
 * [Lisp](https://github.com/rzubek/as_lisp) - 用ActionScript编写的Lisp方言，带有编译器和字节码解释器.
 * [Lisp Compiler](https://github.com/aemoncannon/las3r) -  AVM2的lisp编译器.
@@ -599,7 +600,7 @@
 * [Bluetooth](https://github.com/myflashlab/bluetooth-ANE) - 扫描其他设备，连接并配对，并在它们之间传输数据.
 * [GPS](https://github.com/myflashlab/GPS-ANE) - 通过自动检查最佳可用提供商，尽快获取当前设备的GPS位置.
 * [GoogleVR](https://github.com/myflashlab/GoogleVR-ANE) -  AIR开发人员可以使用Google Virtual Reality SDK.
-* [Joystick-ANE](https://github.com/StackAndHeap/joystick-ane) -  ANE操纵杆库
+* [Joystick-ANE](https://github.com/StackAndHeap/joystick-ane) -  ANE操纵杆库.
 * [AIRControl](https://github.com/AlexanderOMara/AIRControl) -  Adob​​e AIR游戏控制器ANE.
 * [AIROUYAController](https://github.com/gaslightgames/AIROUYAController) -  OUYA控制器的ANE.
 * [AIRKinectv2](https://github.com/Tastenkunst/AIRKinectv2) - 适用于Windows SDK的Microsoft Kinect v2的ANE.
@@ -624,9 +625,9 @@
 * [Baidu](https://github.com/lilili87222/baidu-ane-for-ios-and-android) - 适用于iOS和Android的百度ANE.
 
 #### Analytics ANE
-* [Admob](https://github.com/myflashlab/Admob-ANE) -  Admob ANE
+* [Admob](https://github.com/myflashlab/Admob-ANE) -  Admob ANE.
 * [GameServices](https://github.com/myflashlab/GameServices-ANE) - 适用于Android + iOS的Google游戏服务.
-* [MoPub](https://github.com/StickSports/MoPub-ANE) - 针对MoPub广告的ANE
+* [MoPub](https://github.com/StickSports/MoPub-ANE) - 针对MoPub广告的ANE.
 * [UMAnalytics](https://github.com/ColerYu/ANE-UMAnalytics) - 针对UMAnalytics SDK（iOS和Android）的ANE.
 * [Localytics](https://github.com/randori/ANE-Localytics) - 针对移动Adobe AIR应用程序（iOS和Android）的Localytics分析.
 * [Testflight](https://github.com/jlopez/ane-testflight) -  Apple TestFlight ANE.

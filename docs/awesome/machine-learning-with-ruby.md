@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="arbox/machine-learning-with-ruby"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/arbox/machine-learning-with-ruby/master/header.png" align="center">
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome#readme) [![Support Me](https://img.shields.io/badge/%F0%9F%92%97-Support%20Me-blue.svg?style=flat-square)](https://www.patreon.com/arbox)
@@ -240,7 +241,7 @@ the word using the `#RubyML` hash tag!
     ＆ [Yusaku Hatanaka ](https://twitter.com/hatappi)
     <sup>[[slides](https://speakerdeck.com/mrkn/deep-learning-programming-on-ruby) |
           [page](https://rubykaigi.org/2018/presentations/mrkn.html)]</sup>
-  - 如何在Ruby on Rails_中使用经过训练的Keras和TensorFlow机器学习模型 [Denis Sellu](https://twitter.com/denis_sellu)
+  - _How to use trained Keras and TensorFlow machine learning models within Ruby on Rails_ by [Denis Sellu](https://twitter.com/denis_sellu)
     <sup>[[post](https://www.cookieshq.co.uk/posts/how-to-use-trained-keras-and-tensorflow-machine-learning-models-within-ruby-on-rails)]</sup>
 - 2017
   - 关于JRuby_的科学计算 [Prasun Anand](https://twitter.com/prasun_anand)
@@ -268,7 +269,7 @@ the word using the `#RubyML` hash tag!
           [video](https://www.youtube.com/watch?v=T1nFQ49TyeA)]</sup>
   -  _建立机器学习技术的推荐引擎_ [Brian Sam-Bodden](https://twitter.com/bsbodden)
     <sup>[[video](https://www.youtube.com/watch?v=SRnM_P_ygqI)]</sup>
-  - :sparkles: _SciRuby Machine Learning: Current Status and Future_ by [Kenta Murata](https://twitter.com/mrkn)
+  - ：sparkles：_SciRuby机器学习：当前状态和未来_ by [Kenta Murata](https://twitter.com/mrkn)
     <sup>[[slides](https://speakerdeck.com/mrkn/sciruby-machine-learning-current-status-and-future) |
           [video: jp](https://www.youtube.com/watch?v=gfQ8XEy7vO4)]</sup>
   -  _Ruby圆桌会议：Tensorflow_简介 [RubyThursday](https://rubythursday.com/)

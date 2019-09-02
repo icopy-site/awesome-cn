@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mailtoharshit/awesome-salesforce"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
  
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
@@ -50,7 +51,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
 ### Salesforce Developer Free Edition Signup
-* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - Signup for Free Developer Account.
+* [Signup for Free Developer Account](https://developer.salesforce.com/signup) - 注册免费开发者帐户.
 
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
@@ -70,7 +71,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)- 用于在GitHub的Atom文本编辑器中构建Salesforce.com/Force.com/Salesforce1应用程序的MavensMate插件
 * Visual Studio代码
   * [ForceCode](https://github.com/celador/ForceCode) 是Salesforce开发的Visual Studio代码扩展
-  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) 为Apex和Visualforce，Go-To＆Peek定义和实时语法检查提供自动完成功能
+  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate](https://github.com/superfell/ApexMate)-  TextMate的Apex插件.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-  Force.com的VIM插件.
 * [Force.com CLI](https://force-cli.heroku.com/)-  Force.com的命令行界面.
@@ -113,7 +114,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=ffhttp-core"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a><br/>
 
-  This library has been extended by five libraries <br/>
+  该库已由五个库扩展<br/>
   * [Google Cloud Print](https://github.com/financialforcedev/ffhttp-googlecloudprint)
   * [Google Drive](https://github.com/financialforcedev/ffhttp-googledrive)
   * [Google Mirror](https://github.com/financialforcedev/ffhttp-googlemirror)
@@ -122,7 +123,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
   <b>该库的主要功能</b>
-    + HTTP标注的框架.
+    + Framework for HTTP callouts.
     + JSON序列化和反序列化基类.
     + OAuth Client  - 扩展基础AbstractClient以提供OAuth身份验证所需的标注.
 
@@ -158,7 +159,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon是一个Force.com应用程序，使您能够构建和运行Selenium测试，以在Salesforce组织中使用Visualforce / Javascript验证自定义UI页面.
 
-* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+* [Push Notification Plugin for iOS and Android](https://github.com/forcedotcom/PushPlugin)- 适用于Android，iOS，WP8和Amazon Fire OS的Cordova Push Notifications Plugin
 
 * [Salesforce1-Dev-Guide-Setup-Package](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
@@ -198,7 +199,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
 * [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements)   -  Mobile UI Elements是一个免费的开源Force.com（不支持）库，用于简化移动应用程序的开发.  该库基于Google的Polymer框架，为创建在智能手机和平板电脑上运行良好的HTML5应用提供了基本构建模块
-* [ForceServer](https://github.com/ccoenraets/force-server) - 它支持代理和Web服务器，ForceServer是一个简单的开发服务器，旨在在构建使用Salesforce OAuth和REST服务的应用程序时提供简单和集成的开发人员体验.
+* [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
 
 ## Javascript Libraries for Salesforce
 

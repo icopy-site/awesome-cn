@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stevemao/awesome-git-addons"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 扩展/增强git CLI的附加组件的精选列表.
@@ -222,7 +223,7 @@ $ git ignore build“* .o”“* .log”
 ```
 $ git信息
 
-    ## Remote URLs:
+    ## 远程网址：
 
     origin git@github.com:sampleAuthor / git-extras.git（fetch）
     来源git@github.com:sampleAuthor / git-extras.git（推）
@@ -261,7 +262,7 @@ $ git fork LearnBoost / expect.js
 ### release
 
 ```
-$ git release 0.1.0
+$ git发布0.1.0
 ...释放0.1.0
 关于分支发展
 您的分支机构与“原产地/开发”保持同步.
@@ -427,7 +428,7 @@ $ git reset-file README.md HEAD ^
 $ git pr 226
 来自https://github.com/tj/git-extras
  * [new ref] refs / pulls / 226 / head  - &gt; pr / 226
-Switched to branch 'pr/226'
+切换到分支&#39;pr / 226&#39;
 ```
 
 ### root
@@ -533,7 +534,7 @@ $ git up
 4.0快进......
 在上游之前改变日志
 掌握快进......
-回到4.0
+returning to 4.0
 ```
 
 
@@ -559,7 +560,7 @@ $ git remote add rtomayko
 &gt; git remote add rtomayko git：//github.com/rtomayko/CURRENT_REPO.git
 
 $ git remote add -p rtomayko
-&gt; git remote add rtomayko git@github.com:rtomayko/ CURRENT_REPO.git
+> git remote add rtomayko git@github.com:rtomayko/CURRENT_REPO.git
 
 $ git remote add origin
 &gt; git remote add origin git：//github.com/YOUR_USER/CURRENT_REPO.git
@@ -954,7 +955,7 @@ $ git issue git push -u origin master
 
 ```
 $ git issue clone git@github.com:dspinellis / gi-example.git my-issues
-克隆成&#39;.issues&#39;......
+Cloning into '.issues'...
 remote：计数对象：60，完成.
 remote：压缩对象：100％（42/42），完成.
 remote：总计60（delta 8），重用60（delta 8），pack-reused 0
@@ -1171,7 +1172,7 @@ $ git test -v
 4.0 ^ origin / 4.0 ^ origin / master将测试2次提交
 iter commit tree结果
 0000 57af4b0 f5ef0d8通过（缓存）
-0001 10ed389 434370f通过
+0001 10ed389 434370f pass
 ```
 
 
@@ -1567,13 +1568,13 @@ $ git diff --cached -U0
 diff --git a / README.md b / README.md
 index 0c700d1..7a57cef 100644
 --- a / README.md
-+++ b / README.md
++++ b/README.md
 @@ -1330 +1330 @@ $ git secret hide
  完成度的数.  所有1个文件都被隐藏.
  +完成.  所有3个文件都被隐藏.
 $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 24aa3d9c10cc02fe813dc83d1ac792cc2e7d705d [F]添加git-stats的截图<maochenyan@gmail.com>
-6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L]用文本改变了gif <mail@sobolevn.me>
+6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8 [L]改变了带文字的gif <mail@sobolevn.me>
 ```
 
 
@@ -1799,7 +1800,7 @@ $ git签名添加--push v1.0.0
 已更新标签&#39;v1.0.0&#39;（已为4de5afd）
 枚举对象：4，完成.
 计数对象：100％（4/4），完成.
-Delta compression using up to 8 threads
+Delta压缩使用多达8个线程
 压缩对象：100％（3/3），完成.
  写入对象：100％（3/3），906字节|  906.00 KiB / s，完成了.
 总计3（delta 1），重用0（delta 0）

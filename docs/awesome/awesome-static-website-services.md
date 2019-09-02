@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="agarrharr/awesome-static-website-services"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Static Website Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;静态网站的策划列表.
@@ -66,7 +67,7 @@
 - [Webtask by Auth0](https://webtask.io/) - 使用简单的HTTP在服务器上调用代码，比Lambda或Google更容易设置
 - [Azure Functions](https://azure.microsoft.com/en-us/services/functions/) - 由Microsoft  - 与Azure云上的Lambda相同的前提
 - [IronWorkers](https://www.iron.io/platform/ironworker/) - 通过Iron.io  - 在多语言集装箱化环境中运行代码，具有无限规模和简单定价
-- [IronFunctions](http://open.iron.io/) - 作者：Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有云，公共云或混合云.
+- [IronFunctions](http://open.iron.io/) - 通过Iron.io  -  IronFunctions是一个开源的无服务器计算平台，适用于任何云 - 私有云，公共云或混合云.
 - [OpenWhisk by IBM](https://console.ng.bluemix.net/openwhisk/) - 他们的BlueMix托管平台的一部分，以及开源，很好地与他们的Watson AI生态系统联系在一起
 - [StackPath EdgeEngine](https://www.stackpath.com/products/edgeengine/)   - 以您选择的语言将功能编写为服务，并将其部署到全球数据中心网络.  所有组网，包括智能路由和负载均衡，都由StackPath通过专用骨干网进行管理.
 - [Zeit Now](https://zeit.co/now#features) -  Zeit Now允许人们以他们选择的语言将功能编写为服务，并作为monorepo的一部分进行部署.
@@ -105,7 +106,7 @@
 
 - [Google Forms](https://www.google.com/forms/about/) - 将结果保存到Google表格中，并在提交时通过电子邮件发送给您.
 - [FormKeep](https://formkeep.com/)   - 付费 - 在漂亮的网络界面中查看表单提交.  它具有垃圾邮件过滤功能，并与Gmail，Trello和Basecamp等webhook集成.
-- [123 Contact Form](http://www.123contactform.com/)   - 连接到MailChimp，Salesforce和Google Drive等其他在线服务.  它还与支付处理器集成，包括安全性和分析.
+- [123 Contact Form](http://www.123contactform.com/) - Connects to other online services such at MailChimp, Salesforce, and Google Drive. It also integreates with payment Processers and includes security and analytics.
 - [FormAssembly](http://www.formassembly.com/) - 允许您构建任何类型的表单，其中包括复杂的分支逻辑和多个页面.
 - [FormSite](https://www.formsite.com/) - 表格buider，付款和表格管理.
 - [FormStack](https://www.formstack.com/) - 具有A / B测试，部分提交，分析和集成的表单.
@@ -171,7 +172,7 @@
 
 ## Payments
 
- - [MoneyButton](https://www.moneybutton.com/) - Website payments and donations using Bitcoin (Satoshi's Vision).
+ - [MoneyButton](https://www.moneybutton.com/) - 使用比特币（Satoshi的愿景）进行网站支付和捐赠.
  - [ShapeShift Shifty Button](https://info.shapeshift.io/tools/shifty-button) - 使用各种加密货币接受付款.
 
 ## Search

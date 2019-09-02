@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mark-rushakoff/awesome-influxdb"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 与之相关的精彩项目，库，工具等的精选列表 [InfluxDB](https://www.influxdata.com/).
@@ -20,7 +21,7 @@
 
 * [C#](https://github.com/influxdata/influxdb-csharp) - 用于高效地向InfluxDB发送点的.NET库
 * [Go](https://github.com/influxdata/influxdb1-client) - 转到InfluxDB 1.x的客户端
-* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
+* [Java](https://github.com/influxdata/influxdb-java) -  InfluxDB的Java客户端
 * [PHP](https://github.com/influxdata/influxdb-php) -  InfluxDB的PHP客户端
 * [Python](https://github.com/influxdata/influxdb-python) -  InfluxDB的Python客户端
 * [Rails](https://github.com/influxdata/influxdb-rails) -  Ruby on Rails绑定自动将指标写入InfluxDB
@@ -53,7 +54,7 @@
 
 主要或唯一目的是将数据提供给InfluxDB的工具.
 
-* [accelerometer2influx](https://github.com/CorpGlory/accelerometer2influx) -  Android应用程序，从您的手机加速计获取xyz轴指标，并将数据发送到InfluxDB.
+* [accelerometer2influx](https://github.com/CorpGlory/accelerometer2influx) -  Android应用程序，从您的手机加速度计获取xyz轴指标，并将数据发送到InfluxDB.
 * [agento](https://github.com/abrander/agento) - 客户端/服务器从Linux主机收集近实时指标
 * [aggregateD](https://github.com/ccpgames/aggregateD) - 一个 [dogstatsD](https://docs.datadoghq.com/guides/dogstatsd/) InfluxDB的灵感度量和事件聚合守护进程
 * [aprs2influxdb](https://github.com/FaradayRF/aprs2influxdb) - 接口火腿无线电APRS-IS服务器并将数据包数据保存到Influxdb数据库中
@@ -69,7 +70,7 @@
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - 轻量级 [mesos](https://mesos.apache.org/) InfluxDB的统计信息收集器
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to Influxdb货运代理
 * [node-opcua-logger](https://github.com/coussej/node-opcua-logger) - 从OPC UA服务器收集工业数据 
-* [ntp_checker](https://github.com/fss1/ntp_checker) - 比较内部NTP源并警告服务器之间的偏移是否超过可定义（分数）秒
+* [ntp_checker](https://github.com/fss1/ntp_checker) - 比较内部NTP源并警告服务器之间的偏移是否超过可定义（小数分）秒
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) - 通过InfluxDB观察Windows进程启动和停止的控制台应用程序
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - 定期将系统信息发送到Influxdb（使用python3 + psutil，因此它也适用于Windows）
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - 收集并发送系统（linux）信息到InfluxDB
@@ -98,7 +99,7 @@
 * [ioBroker](http://www.iobroker.net/) -  Homeautomation / IoT Platform使用Influxdb存储 [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
 * [jmxtrans](https://github.com/jmxtrans/jmxtrans) - 有效地在一端通过JMX与JVM通信以及在另一端可以想到的任何日志/监视/图形包之间缺少连接器.
 * [Apache JMeter](https://jmeter.apache.org/usermanual/realtime-results.html) - 流行的负载测试工具，您可以通过InfluxDBBackendListenerClient获取发送到后端的实时结果，允许您使用UDP或HTTP协议向InfluxDB后端发送指标（活动线程，响应时间......）
-* [logary](https://github.com/logary/logary) - 用于单声道和.Net的高性能，多目标日志记录，度量标准和健康检查库
+* [logary](https://github.com/logary/logary) - 用于单声道和.Net的高性能，多目标日志记录，度量和健康检查库
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - 使用便携式shell脚本收集和转发指标
 * [OpenHAB](https://www.openhab.org/) - 适用于家庭自动化所有事物的通用集成平台
 * [Riemann](https://github.com/riemann/riemann) -  Clojure中的网络事件流处理系统
@@ -158,7 +159,7 @@
 ### Dashboards and visualization
 
 * [Chronograf](https://github.com/influxdata/chronograf) - 官方InfluxDB数据可视化工具
-* [facette](https://github.com/facette/facette) - 时间序列数据可视化和图形软件
+* [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - 基于终端的InfluxDB仪表板
 * [grafana](https://github.com/grafana/grafana) -  Graphite，InfluxDB和OpenTSDB的华丽度量标准，仪表板和编辑器
 * [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - 用于Graphite-API的Graphite InfluxDB存储查找器

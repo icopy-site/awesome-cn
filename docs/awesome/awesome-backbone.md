@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sadcitizen/awesome-backbone"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; backbone.js的资源列表
@@ -16,7 +17,7 @@
 
 ## Tutorials and articles
 
-- [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) 作者：Julio Cesar Odes
+- [A pragmatic guide to Backbone.js apps](http://pragmatic-backbone.com/) 作者：Julio Cesar Ody
 - [Getting Started with Backbone](http://www.korenlc.com/backbone-js-tutorial-getting-started-with-backbone/) 作者：Koren Leslie Cohen
 - [A Complete Guide for Learning Backbone.js](http://www.codebeerstartups.com/2012/12/a-complete-guide-for-learning-backbone-js/) 作者：Mohit Jain
 - [Hello Backbone.js](http://jasongiedymin.github.io/hello-backbonejs/) 通过Artur Adib

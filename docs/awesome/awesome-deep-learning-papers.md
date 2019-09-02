@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="terryum/awesome-deep-learning-papers"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome - Most Cited Deep Learning Papers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -11,9 +12,9 @@
 
 ## Background
 
-在此列表之前，还存在其他*令人敬畏的深度学习列表*，例如， [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn) .  此外，在此列表出来后，深度学习初学者的另一个很棒的列表，称为 [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)，已被许多深度学习研究人员所创造和喜爱.
+在此列表之前，还存在其他*令人敬畏的深度学习列表*，例如， [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn) .  此外，在此列表出来后，另一个深度学习初学者的精彩列表，称为 [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)，已被许多深度学习研究人员所创造和喜爱.
 
- 虽然*路线图清单*包含了许多重要的深度学习论文，但是对我来说，阅读它们感觉压倒一切.  正如我在介绍中所提到的，我相信开创性的作品可以为我们提供课程，无论其应用领域如何.  因此，我想在这里介绍** 100篇深度学习论文**，作为深入学习深度学习的一个很好的起点.
+ 虽然*路线图清单*包含了许多重要的深度学习论文，但是对我来说，阅读它们感觉真是难以理解.  正如我在介绍中所提到的，我相信开创性的作品可以为我们提供课程，无论其应用领域如何.  因此，我想在这里介绍** 100篇深度学习论文**，作为深入学习深度学习的一个很好的起点.
 
 要每天获取新发布的论文的新闻，请关注我 [twitter](https://twitter.com/TerryUm_ML) 要么 [facebook page](https://www.facebook.com/terryum.io/)! 
 
@@ -28,21 +29,21 @@
 - **< 6 months** : *New Papers* (by discussion)
 -  ** 2016 **：+ 60引用或“2016年更多论文”
 -  ** 2015 **：+ 200引文
--  ** 2014 **：+ 400引文
+-  ** 2014 **：+ 400引用
 -  ** 2013 **：+ 600引用
 -  ** 2012 **：+800引用
 -  ** ~2012 **：*旧论文*（通过讨论）
 
  请注意，我们更喜欢开创性的深度学习论文，可以应用于各种研究而不是应用论文.  出于这个原因，一些符合标准的论文可能不被接受而其他论文可能会被接受.  这取决于论文的影响，适用于其他研究领域的研究稀缺性等.
 
-**We need your contributions!**
+**我们需要您的贡献！**
 
 如果您有任何建议（缺少论文，新论文，主要研究人员或拼写错误），请随时编辑并提出请求.
 （请阅读 [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) 有关进一步的说明，虽然只是让我知道论文的标题也可以对我们做出很大的贡献.）
 
 （更新）您可以下载所有前100篇论文 [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/fetch_papers.py) 并收集所有作者的姓名 [this](https://github.com/terryum/awesome-deep-learning-papers/blob/master/get_authors.py) .  也， [bib file](https://github.com/terryum/awesome-deep-learning-papers/blob/master/top100papers.bib)  所有前100篇论文都可用.  谢谢，doodhwala， [Sven](https://github.com/sunshinemyson) and [grepinsight](https://github.com/grepinsight)!
 
-+任何人都可以提供代码来获取前100篇论文作者的统计数据吗？
++ Can anyone contribute the code for obtaining the statistics of the authors of Top-100 papers?
 
 
 
@@ -70,10 +71,10 @@
 ### Optimization / Training Techniques
   -  **培训非常深的网络**（2015），R.Srivastava等.  [[PDF]]（http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf）
 -  **批量标准化：通过减少内部协变量转换加速深度网络培训**（2015），S.Loffe和C. Szegedy [[pdf]]（http://arxiv.org/pdf/1502.03167）
-  -  **深入研究整流器：超越图像网络分类的人类水平**（2015），K.He等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf）
+  -  **深入研究整流器：超越图像网络分类的人类表现**（2015），K.He等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf）
   -  **辍学：一种防止神经网络过度拟合的简单方法**（2014），N.Srivastava等.  [[PDF]]（http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf）
 -  ** Adam：一种随机优化方法**（2014），D.Kingma和J. Ba [[pdf]]（http://arxiv.org/pdf/1412.6980）
-  -  **通过阻止特征检测器的共同适应改善神经网络**（2012），G.Hinton等.  [[PDF]]（http://arxiv.org/pdf/1207.0580.pdf）
+  -  **通过阻止特征检测器的共同适应来改善神经网络**（2012），G.Hinton等.  [[PDF]]（http://arxiv.org/pdf/1207.0580.pdf）
 -  **随机搜索超参数优化**（2012）J.Bergstra和Y.Bengio [[pdf]]（http://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a）
 
 <!---[Key researchers] [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Christian Szegedy](https://scholar.google.ca/citations?hl=en&user=3QeF7mAAAAAJ), [Sergey Ioffe](https://scholar.google.ca/citations?user=S5zOyIkAAAAJ), [Kaming He](https://scholar.google.ca/citations?hl=en&user=DhtAFkwAAAAJ), [Diederik P. Kingma](https://scholar.google.ca/citations?hl=en&user=yyIoQu4AAAAJ)-->
@@ -122,7 +123,7 @@
 -  **用于生成图像描述的深度视觉语义对齐**（2015），A.Karpathy和L. Fei-Fei [[pdf]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers /Karpathy_Deep_Visual-Semantic_Alignments_2015_CVPR_paper.pdf）
   -  **显示，参与和讲述：视觉注意的神经图像标题生成**（2015），K.Xu等.  [[PDF]]（http://arxiv.org/pdf/1502.03044）
   -  **显示和告诉：神经图像标题生成器**（2015），O.Vinyals等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Vinyals_Show_and_Tell_2015_CVPR_paper.pdf）
-  -  **用于视觉识别和描述的长期复发卷积网络**（2015），J.Donahue等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf）
+  -  **用于视觉识别和描述的长期递归卷积网络**（2015），J.Donahue等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Donahue_Long-Term_Recurrent_Convolutional_2015_CVPR_paper.pdf）
   -  ** VQA：视觉问题回答**（2015），S.Antol等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf）
   -  ** DeepFace：弥补面部验证中人类绩效的差距**（2014），Y.Taigman等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf）：
   -  **使用卷积神经网络的大规模视频分类**（2014），A.Karpathy等.  [[PDF]]（http://vision.stanford.edu/pdf/karpathy14.pdf）
@@ -135,7 +136,7 @@
 
 ### Natural Language Processing / RNNs
   -  **命名实体识别的神经架构**（2016），G.Lample等.  [[PDF]]（http://aclweb.org/anthology/N/N16/N16-1030.pdf）
-  -  **探索语言建模的极限**（2016），R.Jozefowicz等.  [[PDF]]（http://arxiv.org/pdf/1602.02410）
+  -  **探索语言建模的局限性**（2016），R.Jozefowicz等.  [[PDF]]（http://arxiv.org/pdf/1602.02410）
   -  **阅读和理解教学机器**（2015），K.Hermann等.  [[PDF]]（http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf）
   -  **基于注意力的神经机器翻译的有效方法**（2015），M.Luong等.  [[PDF]]（https://arxiv.org/pdf/1508.04025）
   -  **条件随机场作为递归神经网络**（2015），S.Zheng和S. Jayasumana.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Conditional_Random_Fields_ICCV_2015_paper.pdf）
@@ -193,7 +194,7 @@
   -  **用于视觉和文本问答的动态记忆网络**（2016），C.Xiong等.  [[PDF]]（http://www.jmlr.org/proceedings/papers/v48/xiong16.pdf）
   -  **用于图像问答的堆叠注意网络**（2016），Z.Yang等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yang_Stacked_Attention_Networks_CVPR_2016_paper.pdf）
   -  **使用具有动态外部存储器的神经网络的混合计算**（2016），A.Graves等.  [[PDF]]（https://www.gwern.net/docs/2016-graves.pdf）
-  -  ** Google的神经机器翻译系统：缩小人机翻译的差距**（2016），Y.Wu等.  [[PDF]]（https://arxiv.org/pdf/1609.08144）
+  -  ** Google的神经机器翻译系统：缩小人机翻译之间的差距**（2016），Y.Wu等.  [[PDF]]（https://arxiv.org/pdf/1609.08144）
 
 * * *
 
@@ -265,7 +266,7 @@
 
 *(Lectures)*
 -  CS231n，用于视觉识别的卷积神经网络，斯坦福大学[[网页]]（http://cs231n.stanford.edu/）
-- CS224d, Deep Learning for Natural Language Processing, Stanford University [[web]](http://cs224d.stanford.edu/)
+-  CS224d，斯坦福大学自然语言处理深度学习[[网页]]（http://cs224d.stanford.edu/）
 -  Oxford Deep NLP 2017，自然语言处理深度学习，牛津大学[[网页]]（https://github.com/oxford-cs-deepnlp-2017/lectures）
 
 *(Tutorials)*
@@ -329,7 +330,7 @@
   - 信托区政策优化（2015），J.Schulman等.  [[PDF]]（http://www.jmlr.org/proceedings/papers/v37/schulman15.pdf）
 - 超短片段：用于视频分类的深层网络（2015）[[pdf]]（http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Ng_Beyond_Short_Snippets_2015_CVPR_paper.pdf）
   - 学习用于语义分割的反卷积网络（2015），H.Noh等.  [[PDF]]（https://arxiv.org/pdf/1505.04366v1）
-  - 利用三维卷积网络学习时空特征（2015），D.Tran等.  [[PDF]]（http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf）
+- Learning spatiotemporal features with 3d convolutional networks (2015), D. Tran et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
   - 通过深度可视化理解神经网络（2015），J.Yosinski等.  [[PDF]]（https://arxiv.org/pdf/1506.06579）
   - 对经常性网络架构的实证探索（2015），R.Jozefowicz等.  [[PDF]]（http://www.jmlr.org/proceedings/papers/v37/jozefowicz15.pdf）
   - 使用对侧网络的拉普拉斯金字塔的深层生成图像模型（2015），E.Denton等.  [[PDF]]（http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf）

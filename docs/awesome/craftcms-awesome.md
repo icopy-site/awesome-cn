@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="craftcms/awesome"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
   <img width="400" src="https://cdn.rawgit.com/chasegiunta/awesome-craft/master/awesome-craft.svg" alt="Awesome Craft CMS">
   <br><br>
@@ -160,7 +161,7 @@
 - [Introduction to Craft CMS](https://github.com/jeromecoupe/iad_craftcms_introduction) 作者：JérômeCoupé/ Webstoemp（在Github上）
 
 ##### Security
-- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - 里亚斯
+- [Enforcing better passwords in Craft CMS](https://rias.be/blog/enforcing-better-passwords-in-craft-cms) - 化妆
 - [Hardening Craft CMS Permissions](https://nystudio107.com/blog/hardening-craft-cms-permissions) 作者：Andrew Welch / nystudio107  -  2017年3月19日
 - [Hashing Redirect Params in Craft](https://mijingo.com/blog/hashing-redirect-params-in-craft) 作者：Ryan Irelan / Mijingo
 - [The Case of the Missing PHP Session](https://nystudio107.com/blog/the-case-of-the-missing-php-session) 作者：Andrew Welch / nystudio107  -  2017年10月3日
@@ -184,7 +185,7 @@
 - [Using Macros in Twig and Craft](https://mijingo.com/blog/using-macros-in-twig-and-craft) 作者：Ryan Irelan / Mijingo
 - [Using Variables in Twig and Craft CMS](https://mijingo.com/blog/using-variables-in-twig-and-craft-cms) 作者：Ryan Irelan / Mijingo
 - [Where am I in the Twig Loop?](https://mijingo.com/blog/where-am-i-in-the-twig-loop) 作者：Ryan Irelan / Mijingo
-- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) 作者：JérômeCoupé/ Webstemp  -  2015年7月15日
+- [Tips for Craft multilingual websites](https://www.webstoemp.com/blog/craft-multilingual-websites-tips/) 作者：JérômeCoupé/ Webstoemp  -  2015年7月15日
 - [Combined searches and filters using Craft](https://www.webstoemp.com/blog/combined-searches-and-filters-craft-cms/) 作者：JérômeCoupé/ Webstoemp  -  2016年2月17日
 - [SVG Sprites and Twig Macros in Craft CMS](https://caffeinecreations.ca/blog/svg-sprites-and-twig-macros-in-craft-cms/) 作者：Sean Smith / Caffeine Creations  - “2018年6月29日”
 - [Responsive tables in Craft](https://www.thebasement.be/responsive-tables-in-craft/) 作者：Jan D&#39;Hollander  - “2018年7月10日”
@@ -290,7 +291,7 @@
 - [Craft 3 Plugin Development](https://speakerdeck.com/brandonkelly/craft-3-plugin-development) 作者Brandon Kelly  -  2017年4月26日
 - [Crafting Modern SEO](https://speakerdeck.com/nystudio107/crafting-modern-seo) 作者：Andrew Welch  -  2017年10月23日
 - [Design Processes and Systems in Craft](https://www.slideshare.net/CourtneyBradford/design-processes-and-systems-in-craft-116882979) 作者：Courtney Bradford  - “2018年9月27日”
-- [Designers Guide to Craft CMS Plugins](https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins) - 由杰森梅奥 - “2016年11月3日”
+- [Designers Guide to Craft CMS Plugins](https://speakerdeck.com/bymayo/designers-guide-to-craft-cms-plugins) - by Jason Mayo - `3 Nov 2016`
 - [Dot All 2017 Keynote](https://speakerdeck.com/brandonkelly/dot-all-2017-keynote) 作者Brandon Kelly  -  2017年10月23日
 - [How to Migrate Legacy Content to Craft Without Losing Your Sanity](https://speakerdeck.com/jamesgreig/how-to-migrate-legacy-content-to-craft-without-losing-your-sanity) 作者James Greig  - “2018年9月28日”
 - [Intro to Craft](https://speakerdeck.com/philipzaengle/intro-to-craft) 作者：Philip Zaengle  -  2016年4月29日
@@ -300,7 +301,7 @@
 - [Multilingual Sites in Craft 3](https://speakerdeck.com/drifteaur/multilingual-sites-in-craft-3) 作者：Zoltan Varady  - “2018年9月27日”
 - [Running Craft as a 12-factor app on Heroku](https://drive.google.com/file/d/16SJp0c8FvXi3Xfr0WtgXtH7-rY_-BGoj/view) 作者：Bob Olde Hampsink  - “2018年9月27日”
 - [Scaling Craft CMS Sites for Large Launches](https://speakerdeck.com/mattweinberg/scaling-craft-cms-sites-for-large-launches) 作者：Matt Weinberg  - “2018年9月28日”
-- [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) by Brandon Kelly - `28 Sep 2018`
+- [State of Craft 2018](https://speakerdeck.com/brandonkelly/state-of-craft-2018) 作者：Brandon Kelly  - “2018年9月28日”
 - [The Art Of Plugin Development](https://speakerdeck.com/putyourlightson/the-art-of-plugin-development) 作者Ben Croker  - “2018年9月27日”
 - [Twig Super Power Roundup](https://speakerdeck.com/bymayo/twig-super-power-roundup-craft-cms-3) 作者：Jason Mayo  - “2018年11月1日”
 - [What’s the Deal with Craft CMS?](https://speakerdeck.com/brandonkelly/whats-the-deal-with-craft-cms) 作者Brandon Kelly  -  2016年4月21日

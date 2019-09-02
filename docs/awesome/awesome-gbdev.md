@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="gbdev/awesome-gbdev"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ![GameboyIcon](http://i.imgur.com/ROUq7NT.gif) Awesome Game Boy Development
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)
@@ -77,7 +78,7 @@
 ## Documentation
 
 - **[Game Boy Programming Manual](https://archive.org/download/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf)**  - 任天堂官方Game Boy编程和硬件手册.
-- [Pan Docs](http://gbdev.gg8.se/wiki/articles/Pan_Docs) - 历史综合技术参考，wikified，更正和更新.
+- [Pan Docs](http://gbdev.gg8.se/wiki/articles/Pan_Docs) - Historical comprehensive technical reference, wikified, corrected and updated.
 - [The Cycle-Accurate Game Boy Docs](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) -  AntonioND的精确文档，可以制作出精确周期的Game Boy模拟器.
 - [Game Boy: Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) 通过Gekkio.
 
@@ -220,7 +221,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [gbasm](https://github.com/BonsaiDen/gbasm) - 用于Game Boy z80汇编代码的基于JavaScript的编译器.
 - [tniASM](http://www.tni.nl/products/tniasm.html) - 宏组装.
 - [Assembler](https://github.com/ulrikdamm/Assembler) - 用Swift编写的汇编程序.
-- [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80](https://github.com/Bevinsky/clang-gbz80) - Clang/LLVM port to the GBZ80 CPU (similar to the deprecated [euclio/llvm-gbz80](https://github.com/euclio/llvm-gbz80)).
+- [llvm-gbz80](https://github.com/Bevinsky/llvm-gbz80) / [clang-gbz80](https://github.com/Bevinsky/clang-gbz80) -  Clang / LLVM端口到GBZ80 CPU（类似于不推荐使用 [euclio/llvm-gbz80](https://github.com/euclio/llvm-gbz80)).
 
 ### Emulators
 
@@ -257,7 +258,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [mmlgb](https://github.com/SimonLarsen/mmlgb) -  Nintendo Game Boy的MML解析器和GBDK声音驱动程序.
 - [XPMCK](https://github.com/bazzinotti/XPMCK) - 基于MML的音乐编译器，支持Game Boy和Game Boy Color.
 - [mgbdis](https://github.com/mattcurrie/mgbdis) - 具有RGBDS兼容输出的Game Boy ROM反汇编程序.
-- [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - An engine for creating games (expands GBDK).
+- [Retr0 GB](https://bitbucket.org/HellSuffering/retr0-gb/) - 用于创建游戏的引擎（扩展GBDK）.
 - [awake](https://github.com/devdri/awake) -  Game Boy反编译器.
 - [swapdump](https://github.com/sanqui/swapdump) -  Game Boy手机的诊断实用程序.
 - [Gameboy-LinkUp](https://github.com/JustinLloyd/Gameboy-LinkUp) -  Game Boy LinkUp串行有线网络项目.
@@ -289,7 +290,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 代码，效果，概念证明和一般非完整游戏的碎片.
 
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - 许多工作演示和来源.
-- [EmmaEwert's experiments](https://github.com/EmmaEwert/gameboy)   - 原型程序的集合，大多数只是玩弄.  其中包括日光效果，透明度和天气效果.
+- [EmmaEwert's experiments](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
 
 #### Timings
 
@@ -415,7 +416,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - 使用radare2对Game Boy ROM挑战进行逆向工程的演练.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - 关于拆解Link的Awakening DX的一系列博客文章.
 - [Reverse Engineering the GameBoy Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
-- [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - 一种简单的技术，允许您在大多数GB / SGB / CGB游戏中运行自定义代码，前提是您拥有ACE漏洞.
+- [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit.
 
 ### Game Disassemblies
 
@@ -444,7 +445,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [mGB](https://github.com/trash80/mGB) -  Game Boy墨盒程序，使Game Boy可以充当MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记载的Game Boy Color寄存器，昵称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - 基于Arduino的Game Boy墨盒读写器.
-- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf*ck interpreter.
+- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -  Brainf * ck翻译.
 - [gbfk](https://github.com/elseyf/gbfk) -  Brainf * ck解释器，带输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - 在原始硬件上播放时，为Game Boy游戏添加保存状态支持的补丁.
 - [gbcpu](https://github.com/jdeblese/gbcpu) - 实现Game Boy指令集和功能的CPU和外围设备.

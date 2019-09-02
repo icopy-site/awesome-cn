@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sindresorhus/awesome-nodejs"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
 	<div>
 		<img width="500" src="https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/media/logo.svg?sanitize=true" alt="Awesome Node.js">
@@ -75,7 +76,7 @@
 - [empty-trash](https://github.com/sindresorhus/empty-trash) - 清空垃圾.
 - [is-up](https://github.com/sindresorhus/is-up) - 检查网站是上升还是下降.
 - [is-online](https://github.com/sindresorhus/is-online) - 检查互联网连接是否已启动.
-- [public-ip](https://github.com/sindresorhus/public-ip) - 获取您的公共IP地址.
+- [public-ip](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli](https://github.com/sindresorhus/clipboard-cli) - 复制并粘贴终端.
 - [XO](https://github.com/xojs/xo) - 使用JavaScript幸福样式强制执行严格的代码样式.
 - [Standard](https://github.com/feross/standard) -  JavaScript标准风格 - 一种统治它们的风格.
@@ -142,7 +143,7 @@
 - [gh-got](https://github.com/sindresorhus/gh-got) - `got`与GitHub API交互的便捷包装器.
 - [axios](https://github.com/mzabriskie/axios) - 基于Promise的HTTP客户端（也适用于浏览器）.
 - [request](https://github.com/request/request) - 简化的HTTP请求客户端.
-- [wreck](https://github.com/hapijs/wreck) -  HTTP客户端实用程序.
+- [wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities.
 - [download](https://github.com/kevva/download) - 轻松下载和提取文件.
 - [http-proxy](https://github.com/nodejitsu/node-http-proxy) -  HTTP代理.
 - [superagent](https://github.com/visionmedia/superagent) -  HTTP请求库.
@@ -159,7 +160,7 @@
 - [ndb](https://github.com/GoogleChromeLabs/ndb) -  Chrome DevTools支持改进的调试体验.
 - [ironNode](https://github.com/s-a/iron-node) - 开箱即用的支持ES2015的Node.js调试器.
 - [node-inspector](https://github.com/node-inspector/node-inspector) - 基于Blink Developer Tools的调试器.
-- [debug](https://github.com/visionmedia/debug) - 微小的调试实用程序.
+- [debug](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [why-is-node-running](https://github.com/mafintosh/why-is-node-running) -  Node.js正在运行，但你不知道为什么？
 - [njsTrace](https://github.com/valyouw/njstrace) - 检测并跟踪代码，查看所有函数调用，参数，返回值以及每个函数所花费的时间.
 - [vstream](https://github.com/joyent/node-vstream) - 可检测的流混合来检查流的管道.
@@ -395,7 +396,7 @@
 - [iconv-lite](https://github.com/ashtuchkin/iconv-lite) - 转换字符编码.
 - [string-length](https://github.com/sindresorhus/string-length) - 获取字符串的实际长度 - 通过正确计算星体符号并忽略ansi转义码.
 - [camelcase](https://github.com/sindresorhus/camelcase) - 将短划线/点/下划线/空格分隔的字符串转换为camelCase：foo-bar→fooBar.
-- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+- [escape-string-regexp](https://github.com/sindresorhus/escape-string-regexp) -  Escape RegExp特殊字符.
 - [execall](https://github.com/sindresorhus/execall) - 在字符串中查找多个RegExp匹配项.
 - [splice-string](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string](https://github.com/sindresorhus/indent-string) - 缩进字符串中的每一行.
@@ -467,7 +468,7 @@
 - [parse-json](https://github.com/sindresorhus/parse-json) - 解析JSON有更多有用的错误.
 - [URI.js](https://github.com/medialize/URI.js) -  URL变异.
 - [PostCSS](https://github.com/postcss/postcss) -  CSS解析器/字符串化器.
-- [JSONStream](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
+- [JSONStream](https://github.com/dominictarr/JSONStream) - 流式JSON.parse和stringify.
 - [neat-csv](https://github.com/sindresorhus/neat-csv)   - 快速CSV解析器.  上面的回调接口.
 - [csv-parser](https://github.com/mafintosh/csv-parser) - 流式CSV解析器，旨在比其他人更快.
 - [PEG.js](https://github.com/pegjs/pegjs) - 简单的解析器生成器，可生成具有出色错误报告的快速解析器.
@@ -507,7 +508,7 @@
 ### Network
 
 - [get-port](https://github.com/sindresorhus/get-port) - 获得可用的端口.
-- [ipify](https://github.com/sindresorhus/ipify) - 获取您的公共IP地址.
+- [ipify](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [getmac](https://github.com/bevry/getmac) - 获取计算机MAC地址.
 - [DHCP](https://github.com/infusion/node-dhcp) -  DHCP客户端和服务器.
 - [netcat](https://github.com/roccomuso/netcat) - 纯JS中的Netcat端口.
@@ -536,7 +537,7 @@
 	- [Objection.js](https://github.com/Vincit/objection.js) - 在SQL查询构建器Knex上构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) - 用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
 - 查询构建器
-	- [Knex](https://github.com/tgriesser/knex) - Query builder for PostgreSQL, MySQL and SQLite3, designed to be flexible, portable, and fun to use.
+	- [Knex](https://github.com/tgriesser/knex) -  PostgreSQL，MySQL和SQLite3的查询构建器，设计灵活，可移植，使用起来很有趣.
 - 其他
 	- [NeDB](https://github.com/louischatriot/nedb) - 用JavaScript编写的嵌入式持久数据库.
 	- [Lowdb](https://github.com/typicode/lowdb) - 由Lodash提供支持的小型JavaScript数据库.
@@ -621,7 +622,7 @@
 - [bull](https://github.com/OptimalBits/bull) - 持久作业和消息队列.
 - [agenda](https://github.com/rschmukler/agenda) -  MongoDB支持的作业调度.
 - [idoit](https://github.com/nodeca/idoit) - 具有高级作业控制功能的Redis支持的作业队列引擎.
-- [node-resque](https://github.com/taskrabbit/node-resque) -  Redis支持的作业队列.
+- [node-resque](https://github.com/taskrabbit/node-resque) - Redis-backed job queue.
 - [rsmq](https://github.com/smrchy/rsmq) -  Redis支持的消息队列.
 - [bee-queue](https://github.com/bee-queue/bee-queue) - 高性能Redis支持的作业队列.
 - [RedisSMQ](https://github.com/weyoss/redis-smq) - 具有实时监控功能的简单高性能Redis消息队列.
@@ -667,7 +668,7 @@
 
 - [Acorn](https://github.com/ternjs/acorn) - 微小，快速的JavaScript解析器.
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) -  Babel中使用的JavaScript解析器.
-- [cherow](https://github.com/cherow/cherow) -  JavaScript解析器，专注于性能和稳定性.
+- [cherow](https://github.com/cherow/cherow) - JavaScript parser with focus on performance and stability.
 
 
 ### Static site generators
@@ -676,7 +677,7 @@
 - [Assemble](https://github.com/assemble/assemble/) -  Node.js，Grunt.js和Yeoman的静态站点生成器.
 - [DocPad](https://github.com/docpad/docpad) - 具有动态能力和巨大插件生态系统的静态站点生成器.
 - [Phenomic](https://github.com/phenomic/phenomic) - 基于React和Webpack生态系统的现代静态网站生成器.
-- [docsify](https://github.com/QingWei-Li/docsify) -  Markdown文档站点生成器，没有静态构建的HTML文件.
+- [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files.
 
 
 
@@ -727,7 +728,7 @@
 - [dot-prop](https://github.com/sindresorhus/dot-prop) - 使用点路径从嵌套对象获取属性.
 - [onetime](https://github.com/sindresorhus/onetime) - 只运行一次功能.
 - [mem](https://github.com/sindresorhus/mem) -  Memoize函数 - 一种优化技术，用于通过缓存具有相同输入的调用结果来加速连续函数调用.
-- [import-fresh](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
+- [import-fresh](https://github.com/sindresorhus/import-fresh) - 绕过缓存导入模块.
 - [strip-bom](https://github.com/sindresorhus/strip-bom) - 从字符串/缓冲区/流中删除UTF-8字节顺序标记（BOM）.
 - [os-locale](https://github.com/sindresorhus/os-locale) - 获取系统区域设置.
 - [ssh2](https://github.com/mscdex/ssh2) -  SSH2客户端和服务器模块.
@@ -743,7 +744,7 @@
 - [dotenv](https://github.com/motdotla/dotenv) - 从.env文件加载环境变量.
 - [remote-git-tags](https://github.com/sindresorhus/remote-git-tags) - 从远程git仓库获取标签.
 - [semver](https://github.com/npm/node-semver) - 语义版本解析器.
-- [Faker.js](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
+- [Faker.js](https://github.com/Marak/Faker.js) - 生成大量虚假数据.
 - [nodegit](https://github.com/nodegit/nodegit) - 本机绑定到Git.
 - [json-strictify](https://github.com/pigulla/json-strictify) - 安全地将值序列化为JSON而不会丢失数据或进入无限循环.
 - [resolve-from](https://github.com/sindresorhus/resolve-from) - 从给定路径解析像`require.resolve（）`这样的模块的路径.

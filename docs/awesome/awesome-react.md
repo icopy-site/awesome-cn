@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="enaqx/awesome-react"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 关于React生态系统的一系列令人敬畏的事情.
@@ -83,7 +84,7 @@
 ##### React Development Tools
 
 - [create-react-app](https://github.com/facebook/create-react-app) - 通过运行一个命令设置现代Web应用程序
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构Web应用程序样板
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
 - [react-devtools](https://github.com/facebook/react-devtools) - 检查Chrome和Firefox开发人员工具中的React组件层次结构
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - 实时调整React组件
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - 用于加载具有承诺的组件的更高阶组件
@@ -133,7 +134,7 @@
 - [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
 - [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
 - [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) - 反应可拖动组件
 - [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -  React的可调整大小和可拖动的组件
 - [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
 - [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -  React的可调整大小的组件

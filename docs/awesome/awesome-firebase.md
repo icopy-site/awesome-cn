@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jthegedus/awesome-firebase"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!-- badges -->
 <div align="center">
 
@@ -60,7 +61,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Angular Fire 2] [ng-fire]  -  Firebase和Angular的官方图书馆.
 -  [Re-base] [rebase]  - 用于构建React.js + Firebase应用程序的Relay灵感库.
   -  [React Redux Firebase] [react-redux-fb]  -  Firebase的Redux绑定.  包含用于React的高阶组件.
-- 🔌 [GatsbyJS Firebase Data Source][gatsby-fire] - Query your Firebase data right into your statically generated pages with Gatsby.
+-  [GatsbyJS Firebase数据源] [gatsby-fire]  - 使用Gatsby将您的Firebase数据直接查询到静态生成的页面.
   -  [Apollo Link Firebase] [apollo-link-fb]  - 为RealtimeDB提供本地GraphQL接口.  数据库在本地与设备同步，Apollo Link提供对本地数据库的查询.
 -  [Firebase的BuckleScript绑定] [bs-fb]  - 用于FireML的BuckleScript绑定，用于ReasonML项目.
   -  [Angular Firebase PWA] [ng-firestarter]  - 由Firebase提供支持的Angular PWA.  它可以作为学习此堆栈并推出更复杂功能的基础.
@@ -161,7 +162,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 <!-- Links -->
 
 [firebase]：https：//firebase.google.com
-[gcp-products]：https：//cloud.google.com/products
+[gcp-products]: https://cloud.google.com/products
 
 <!-- Featured (new releases) -->
 
@@ -183,19 +184,19 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 [fb-ui-react]：https：//github.com/firebase/firebaseui-web-react
 [geofire]：https：//github.com/firebase/geofire-js
 [firepad]：https：//github.com/FirebaseExtended/firepad
-[man-fire]：https：//github.com/firebase/emberFire
+[ember-fire]：https：//github.com/firebase/emberFire
 [fb-dart]：https：//github.com/FirebaseExtended/firebase-dart
 [polymer-fire]：https：//github.com/FirebaseExtended/polymerfire
 [view-fire]：https：//github.com/vuejs/vuefire
-[ng-fire]：https：//github.com/angular/angularfire2
-[fox]：https：//github.com/tylermcginnis/re-base
+[fire]：https：//github.com/angular/angularfire2
+[rebase]：https：//github.com/tylermcginnis/re-base
 [react-redux-fb]：https：//github.com/prescottprue/react-redux-firebase
 [gatsby-fire]: https://www.gatsbyjs.org/packages/gatsby-source-firebase/#gatsby-firebase-source
 [apollo-link-fb]：https：//github.com/Canner/apollo-link-firebase
 [bs-fb]：https：//github.com/avohq/bs-firebase
-[ng-firestarter]：https：//github.com/codediodeio/angular-firestarter
+[firestarter]：https：//github.com/codediodeio/angular-firestarter
 [firesql]：https：//github.com/jsayol/FireSQL
-[四个城市]：https：//github.com/IjzerenHein/firestorter
+[firestorter]：https：//github.com/IjzerenHein/firestorter
 [hosting-version-hist]: https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions
 [nextbase]：https：//github.com/martyan/nextbase
 
@@ -206,7 +207,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 [fb-flutter-fire]：https：//github.com/flutter/plugins/blob/master/FlutterFire.md
 [flutter]：https：//flutter.io/
 [rn-fb]：https：//github.com/invertase/react-native-firebase
-[rn-fb-fcm]：https：//github.com/evollu/react-native-fcm
+[rn-fb-fcm]: https://github.com/evollu/react-native-fcm
 [expo-fb]：https：//github.com/EvanBacon/expo-native-firebase
 [flutter-cal]：https：//github.com/mattgraham1/FlutterCalendar
 
@@ -220,7 +221,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 [geofire-objc]：https：//github.com/firebase/geofire-objc
 [fb-ui-ios]：https：//github.com/firebase/firebaseui-ios
-[mlkit-arcore]: https://github.com/FirebaseExtended/MLKit-ARCore
+[mlkit-arcore]：https：//github.com/FirebaseExtended/MLKit-ARCore
 [mlkit sheet]：https：//github.com/FirebaseExtended/MLKit-ARKit
 
 <!-- Server-side (Cloud Functions, BigQuery etc) -->
@@ -241,7 +242,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 [fb-ci]：https：//github.com/prescottprue/firebase-ci
 [vsfire]：https：//github.com/toba/vsfire
 [fb-firestore-snippets]：https：//github.com/peterhdd/firebase-firestore-snippets
-[fuego]：https：//github.com/sgarciac/fuego
+[火]：https：//github.com/sgarciac/fuego
 [firestore-rules-gen]：https：//github.com/FirebaseExtended/protobuf-rules-gen
 [firepit]：https：//github.com/abehaskins/firepit
 [fireward]：https：//github.com/bijoutrouvaille/fireward

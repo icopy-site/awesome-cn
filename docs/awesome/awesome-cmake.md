@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="onqtam/awesome-cmake"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
@@ -24,9 +25,9 @@
 * [Wiki](https://cmake.org/Wiki/CMake)
 * [Webinars](https://cmake.org/webinars/)
 * [Web Book](https://github.com/ruslo/CGold) -  CGold：Hitchhiker [Guide](https://cgold.readthedocs.io)  到了CMake.  [```[BSD2]```] [BSD2子句]
-* [Modern CMake](https://github.com/toeb/moderncmake) - Modern CMake **PDF** and samples by the creator of [cmakepp](https://github.com/toeb/cmakepp) ，  [```[W]```] [带]
+* [Modern CMake](https://github.com/toeb/moderncmake) - 现代CMake ** PDF **和样本由创作者 [cmakepp](https://github.com/toeb/cmakepp) ，  [```[W]```] [带]
 * [Article](http://foonathan.net/blog/2016/03/03/cmake-install.html) - 轻松支持CMake安装和find_package（）.
-* [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - 使用CMake和Git轻松管理C ++.
+* [Article](http://foonathan.net/blog/2016/07/07/cmake-dependency-handling.html) - Easy dependency management for C++ with CMake and Git.
 * [Article](https://steveire.wordpress.com/2016/08/09/opt-in-header-only-libraries-with-cmake/) - 使用CMake选择加入标题的库.
 * [Article](https://rix0r.nl/blog/2015/08/13/cmake-guide/) - 现代CMake的终极指南.
 * [Article](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/) - 常见的CMake反模式列表（从2013年开始，但仍然相关）.
@@ -44,7 +45,7 @@
     * [Basic CMake usage](https://codingnest.com/basic-cmake/).
     * [Basic CMake, part 2: libraries](https://codingnest.com/basic-cmake-part-2/).
 * [Lecture](https://www.youtube.com/watch?v=jt3meXdP-QI) -  CMake简介 - 作者：Florent Castelli，C ++ Sweden 2018.
-* [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - Some nice and accurate CMake tips.
+* [Article](http://bastian.rieck.me/blog/posts/2018/cmake_tips/) - 一些漂亮和准确的CMake技巧.
 * [Article](http://unclejimbo.github.io/2018/06/08/Modern-CMake-for-Library-Developers/) - 图书馆开发人员的现代CMake.
 * [Article](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1) - 有效的现代CMake：Manuel Binna对大多数良好实践的总结.
 * [Book](https://crascit.com/professional-cmake/) - 专业CMake：实用指南（付费）.
@@ -209,7 +210,7 @@
 [LGPL]：https：//www.gnu.org/licenses/lgpl-3.0.en.html
 [麻省理工学院]：https：//opensource.org/licenses/MIT
 [BOOST]：http：//www.boost.org/LICENSE_1_0.txt
-[BSD-2-Clause]：https：//opensource.org/licenses/BSD-2-Clause
+[BSD-2-Clause]: https://opensource.org/licenses/BSD-2-Clause
 [BSD-3-Clause]：https：//opensource.org/licenses/BSD-3-Clause
 [APACHE2]：http：//www.apache.org/licenses/LICENSE-2.0
 [CC0-1.0]：https：//creativecommons.org/publicdomain/zero/1.0/

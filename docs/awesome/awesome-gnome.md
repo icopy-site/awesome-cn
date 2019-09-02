@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Kazhnuz/awesome-gnome"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome GNOME [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/kazhnuz/awesome-gnome/master/images/gnome-logo.svg" align="right" width="150">](http://www.gnome.org)
@@ -54,7 +55,7 @@
 ### Multimedia
 
 - [Webmusic](https://github.com/badcel/webmusic) - 基于Web的音乐播放器，可将您喜爱的音乐服务集成到桌面中.
-- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于Web的音乐流媒体服务的运行时，提供更加原生的用户体验并与Linux桌面环境集成.
+- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
 - [Vocal](https://github.com/needle-and-thread/vocal) - 功能强大，美观，简单的播客客户端，适用于现代免费桌面.
 - [Celluloid](https://github.com/celluloid-player/celluloid) -  mpv的简单GTK +前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美妙的音乐应用.
@@ -258,7 +259,7 @@
 
 ### Documentations
 
-- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - Perfect place to start contributing to GNOME.
+- [GNOME Newcomers Wiki](https://wiki.gnome.org/Newcomers/) - 开始为GNOME做贡献的完美场所.
 - [GNOME Developer Center](https://developer.gnome.org/) - 包含所有官方GNOME文档.
 - [Valadoc](https://valadoc.org/) - 有关Vala的文档.
 - [GJS Documentation](http://devdocs.baznga.org/) -  JavaScript GTK绑定的文档.

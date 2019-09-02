@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ramnes/awesome-mongodb"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![Awesome MongoDB](https://raw.githubusercontent.com/ramnes/awesome-mongodb/master/logo.png)
 
 ## Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -72,7 +73,7 @@
 ### Go
  - [Bongo](https://github.com/go-bongo/bongo) - 基于mgo的ODM
  - [mgo](https://github.com/globalsign/mgo) - 社区围棋司机
- - [minquery](https://github.com/icza/minquery) - MongoDB cursor that paginates
+ - [minquery](https://github.com/icza/minquery) - 分页的MongoDB游标
  - [mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - 官方围棋司机
 
 ### Haskell
@@ -230,7 +231,7 @@ Services:
  - [adminMongo](https://github.com/mrvautin/adminMongo) - 基于Web的用户界面，用于处理连接和数据库需求
  - [mongo-express](https://github.com/mongo-express/mongo-express) - 使用Express构建的基于Web的管理界面
  - [mongoadmin](https://github.com/thomasst/mongoadmin) - 使用Django构建的管理界面
- - [Mongoku](https://github.com/huggingface/Mongoku) - 用于Web的MongoDB客户端
+ - [Mongoku](https://github.com/huggingface/Mongoku) - MongoDB client for the web
  - [mongri](https://github.com/dongri/mongri) - 用JavaScript编写的基于Web的用户界面
  - [Rockmongo](https://github.com/iwind/rockmongo) - 用于MongoDB的PHPMyAdmin
 

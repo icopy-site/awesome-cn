@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="RichardLitt/awesome-fantasy"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;幻想文学值得一读
@@ -53,7 +54,7 @@ Books:
 
  指环王是一个任务;  霍比特人是一个孩子的故事;  Silmarillion是一个历史.  这是为数不多的小说之一，一个展示折磨个人生活的故事.  这个故事大量借鉴了斯堪的纳维亚的传说，并将都灵作为托尔金创作中最悲惨的故事之一.  这是我最喜欢的所有书籍中的故事，我认为它对中土世界的整体世界有着最先进和美丽的外观.   -  [@RichardLitt](https://github.com/RichardLitt)
 
-&gt;在“指环王”之前很久就有中土世界的故事，本书中讲述的故事发生在西部灰色避风港之外的伟大国家：Treebeard曾经走过的地方，但是淹没在结束了世界第一时代的大灾难中.
+&gt;“指环王”之前有很多关于中土世界的故事，本书讲述的故事发生在西部灰色避风港之外的伟大国家：Treebeard曾经走过的地方，但是淹没在结束了世界第一时代的大灾难中.
 > 
  &gt;在那个遥远的时代，第一位黑魔王Morgoth居住在北方广阔的Angband堡垒 - 铁的地狱之中;  Túrin和他的妹妹Nienor的悲剧在Angband的恐惧和Morgoth对精灵的土地和秘密城市发动的战争的阴影下展开.
 > 
@@ -199,7 +200,7 @@ Books:
 
 #### [Mistborn](https://en.wikipedia.org/wiki/Mistborn_series) *by [Brandon Sanderson](https://en.wikipedia.org/wiki/Brandon_Sanderson)* [4.4]
 
- Mistborn三部曲（好吧，他计划制作三部曲的三部曲，第二部三部曲的最后两部将在明年左右发布）可能是他最知名的，也是一本很好的读物.  我会推荐他所有的东西，但我认为原来的Mistborn可能是最好的起点（一个，它们更短！）.   -  [@CWSpear](https://github.com/CWSpear)
+ Mistborn三部曲（好吧，他计划制作三部曲三部曲，第二部三部曲的最后两部分将在明年左右发布）可能是他最知名的，也是一本很好的读物.  我会推荐他所有的东西，但我认为原来的Mistborn可能是最好的起点（一个，它们更短！）.   -  [@CWSpear](https://github.com/CWSpear)
 
  我此刻只阅读了第一部三部曲，但我喜欢它;  神奇的系统做得很好，角色很有说服力，我们有一些强大的女性领导，并且有很多阴谋和情节设置.  布兰登·桑德森（Brandon Sanderson）相当擅长改变他们的头脑，阅读起来很有趣 - 我的许多原始投诉现在变成了对书籍的赞美.  我期待着阅读更多内容.   -  [@RichardLitt](https://github.com/RichardLitt)
 
@@ -252,7 +253,7 @@ Books:
 
  我完全同意，无论这些书多长，都没关系.  他们太棒了.  神奇的系统是复杂的，布兰登所关注的角色有自己的小插图和一些令人敬畏的东西.  这是经典的90年代的幻想，但仍然非常好.  这个世界对于幻想来说也很新颖 - 不再是英格兰式的环境，而是一种不同的景观.   -  [@RichardLitt](https://github.com/RichardLitt)
 
- &gt; Brandon Sanderson的史诗般的幻想循环讲述了Roshar的故事，这是一个充满石头和暴风雨的世界.  不可思议的强大风暴席卷岩石地形.  自被称为“骑士天辉”的十个神圣命令垮台以来已有几个世纪，但他们的碎片和碎片仍然存在：神秘的剑和盔甲将普通人变成几乎无敌的战士.  随着对这些神奇武器控制的野蛮战争，一个名为“国王之路”的古老文本讲述了古代，骑士辐射，也许是战争的真正原因.  骑士辐射必须再次站立.
+ &gt; Brandon Sanderson的史诗般的幻想循环讲述了Roshar的故事，这是一个充满石头和暴风雨的世界.  不可思议的强大风暴席卷岩石地形.  自被称为骑士天辉的十个神圣命令垮台以来，已有几个世纪，但他们的碎片和碎片仍然存在：神秘的剑和盔甲将普通人变成几乎无敌的战士.  随着对这些神奇武器控制的野蛮战争，一个名为“国王之路”的古老文本讲述了古代，骑士辐射，也许是战争的真正原因.  骑士辐射必须再次站立.
 
 Books:
  * [The Way of Kings](https://www.goodreads.com/book/show/7235533-the-way-of-kings) [4.61]：开火：
@@ -374,7 +375,7 @@ Books:
 
  我发现Jirel作为20世纪30年代纸浆幻想的女主角迷人.  在她的冒险经历中，Jirel的反对者不断寻求使她受害，将她当作诱饵，引诱她或压倒她.  她常常无法逃避目击或甚至成为可怕事物的一部分，但她采取了这些不可能的情况，并以自己的方式面对它们.  我认为这是一个很好的选择，总是逃避危险或使用女性诡计走出角落.  Jirel在身体和情感上都很有能力，而不是一个全知或超自然的幸运.  摩尔描绘了非常生动的奇幻境界和生物画面.  我认为这些故事很好地转化为图画小说.  这个系列是一个迷人的传统剑和巫术故事，值得一读.   -  [@thejessleigh](https://github.com/thejessleigh)
 
- &gt; CL Moore创建了Joiry的统治者Jirel，以回应30年代纸浆杂志中强劲的全睾丸激素血腥故事，但Jirel并不是反柯南.  她是一个善良的天主教女孩，顽固地有目的，无情地追求敌人或复仇，顽固和有点愚蠢，不能被仅仅身体上的吸引力分散注意力.  事实上，在Jirel的世界里，美丽=颓废=腐败.  如果今天写的这些故事，Jirel不可避免地会有很多热门的性爱，但是在1934年至1939年之间首次发表在“怪异故事”中，性吸引力大多只是生动地暗示.  没有损失.  Jirel穿越不自然的风景和与超自然对手的战斗仍然很精彩，虽然新人Red Sonja和Xena现在更有名，但Jirel在链子邮件和护胫中扮演着原始的，不屈不挠的红头发女郎，摇摆她的“伟大的两个 - 剑刃.“
+ &gt; CL Moore创建了Joiry的统治者Jirel，以回应30年代纸浆杂志中强劲的全睾丸激素血腥故事，但Jirel并不是反柯南.  她是一个善良的天主教女孩，顽固地有目的，无情地追求敌人或复仇，顽固和有点愚蠢，不能被仅仅身体上的吸引力分散注意力.  事实上，在Jirel的世界里，美丽=颓废=腐败.  如果今天写的这些故事，Jirel不可避免地会有很多热门的性爱，但是在1934年至1939年之间首次发表在“怪异故事”中，性吸引力大多只是生动地暗示.  没有损失.  Jirel通过不自然的风景旅行和与超自然对手的战斗仍然很精彩，虽然新人Red Sonja和Xena现在更有名，但Jirel却是连锁邮件和护胫中的典型，不屈不挠的红头发女郎，摆动她的“伟大的两个 - 剑刃.“
 
 #### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] :fire:
 

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="LewisJEllis/awesome-lua"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Lua [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的Lua精选清单 [packages](#packages) 和 [resources](#resources).
@@ -31,7 +32,7 @@
 
 
 ### Package Managers
-- [LuaRocks](https://luarocks.org/)   - 事实上的工具，用于将Lua模块安装为名为“rocks”的软件包，以及公共摇滚存储库和网站.  很像npm或pip.
+- [LuaRocks](https://luarocks.org/)   - 事实上的工具，用于将Lua模块安装为名为“rocks”的软件包，以及公共岩石存储库和网站.  很像npm或pip.
 
 
 ### Build Tools and Standalone Makers
@@ -78,7 +79,7 @@
 
 
 ### Game Development
-- 电晕
+- 皇冠
   - [Coronium](https://develephant.github.io/coronium-core-docs/) - 支持分析，数据对象，用户管理等的简单云平台.
 - 爱
   - [awesome-love2d](https://github.com/love2d-community/awesome-love2d) - 像这样的列表，但专注于游戏开发和LÖVE平台.
@@ -93,7 +94,7 @@
   - [bump.lua](https://github.com/kikito/bump.lua) - 最小的基于矩形的碰撞检测，可处理隧道和基本的碰撞分辨率.
   - [HardonCollider](http://vrld.github.io/HardonCollider/) - 检测任意类型的任意定位和旋转形状之间的碰撞.
 - 补间
-  - [flux](https://github.com/rxi/flux) - 一个快速，轻量级的Lua补间库，具有缓动功能和将补间组合在一起的能力.
+  - [flux](https://github.com/rxi/flux) - 一个快速，轻量级的Lua补间库，具有缓动功能和将补间组合在一起的功能.
   - [tween.lua](https://github.com/kikito/tween.lua) - 用于补间的小型库，具有多种缓动功能.
 - 例子
   - [termtris](https://github.com/tylerneylon/termtris) - 一个俄罗斯方块克隆，以文化风格编写，“强调学习能力”.
@@ -132,9 +133,9 @@
 
 
 ### Command-line Utilities
-- [ansicolors](https://github.com/kikito/ansicolors.lua) - Simple function for printing to the console in color.
+- [ansicolors](https://github.com/kikito/ansicolors.lua) - 用于以彩色打印到控制台的简单功能.
 - [cliargs](https://github.com/amireh/lua_cliargs) - 一个简单的命令行参数解析模块.
-- [lua-term](https://github.com/hoelzro/lua-term) - 终端操作和操作.
+- [lua-term](https://github.com/hoelzro/lua-term) - Terminal operations and manipulations.
 - [argparse](https://github.com/mpeterv/argparse) - 一个功能丰富的命令行解析器，受到argparse for Python的启发.
 
 ### Concurrency and Multithreading
@@ -159,7 +160,7 @@
 
 ### Documentation
 - [LDoc](http://stevedonovan.github.io/ldoc/) - 文档生成器，现代化和扩展 [LuaDoc](http://keplerproject.github.io/luadoc/).
-- [Locco](http://rgieseke.github.io/locco/) -  Lua港口 [Docco](http://ashkenas.com/docco/)，“快速，肮脏，百行，文字编程风格的文档生成器”.
+- [Locco](http://rgieseke.github.io/locco/) - 两个端口 [Docco](http://ashkenas.com/docco/)，“快速，肮脏，百行长，文化编程风格的文档生成器”.
 - [docroc](https://github.com/bjornbytes/docroc) - 将注释解析到Lua表中以生成文档.
 
 
@@ -215,10 +216,10 @@
 -  LPeg
   - [LPeg](http://www.inf.puc-rio.br/~roberto/lpeg/) -  Lua的模式匹配库，基于解析表达式语法.
   - [lpeg_patterns](https://github.com/daurnimator/lpeg_patterns) - 一系列LPeg模式.
-  - [LuLPeg](https://github.com/pygy/LuLPeg) - A pure Lua implementation of LPeg v0.12.
+  - [LuLPeg](https://github.com/pygy/LuLPeg) -  LPeg v0.12的纯Lua实现.
   - [LPegLJ](https://github.com/sacek/LPegLJ) -  LPeg v1.0的纯LuaJIT实现.
   - [LPegLabel](https://github.com/sqmedeiros/lpeglabel) -  LPeg的扩展，增加了对标记失败的支持.
-- [lyaml](https://github.com/gvvaughan/lyaml) - YAML encoding/decoding via binding to LibYAML.
+- [lyaml](https://github.com/gvvaughan/lyaml) - 通过绑定到LibYAML进行YAML编码/解码.
 - [lunamark](https://github.com/jgm/lunamark)   - 将Markdown转换为其他文本格式，包括HTML和LaTeX.  使用LPeg进行快速解析.
 - [LXSH](https://github.com/xolox/lua-lxsh) - 用LPeg编写的词法分析器和语法荧光笔的集合.
 - [lua-pb](https://github.com/Neopallium/lua-pb) -  Protocol Buffers实现.
@@ -305,7 +306,7 @@
 - [kpie](https://github.com/skx/kpie) - 用于处理窗口的脚本实用程序.
 - [lumail](https://lumail.org/) - 基于控制台的邮件客户端，具有广泛的脚本功能.
 - [AwesomeWM](https://awesomewm.org/) - 一个高度可配置和可扩展的X窗口管理器，由Lua编写和配置.
-- [Textadept](https://foicica.com/textadept/) - 非常轻量级，可定制的跨平台编辑器，（大部分）编写（由Lua编写）.
+- [Textadept](https://foicica.com/textadept/) - 非常轻量级，可定制的跨平台编辑器，（主要）编写（由Lua编写）.
 - [KoReader](https://github.com/koreader/koreader) - 电子书阅读器应用程序支持PDF，DJVU，EPUB，FB2等，可在Kindle，Kobo，PocketBook和Android设备上运行.
 
 
@@ -330,7 +331,7 @@
 ### References
 - [Reference Manual](http://www.lua.org/manual/5.3/) -  Lua语言的官方定义.
 - [lua-users wiki](http://lua-users.org/wiki/) - 社区维护的大量Lua信息和资源，是官方网站的补充.
-- [Lua Unofficial FAQ](http://www.luafaq.org/) - 回答各种与Lua相关的问题，包括许多形式的“如何做” ___?'.
+- [Lua Unofficial FAQ](http://www.luafaq.org/) - 回答各种与Lua相关的问题，包括许多形式的“如何” ___?'.
 
 
 ### Glossaries
@@ -354,7 +355,7 @@
 ### Articles
 - [Embedding Lua in C](https://debian-administration.org/article/264/Embedding_a_scripting_language_inside_your_C/C_code)   - 将Lua嵌入C程序的入门演练.  有点过时了，但仍然是一个很棒的演练.
 - [Lua: Good, bad, and ugly parts](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts) - 由ZeroBraneStudio的作者全面总结Lua的优点，不同，不良和丑陋的方面，包括许多微妙的怪癖.
-- [Lua states, libraries, coroutines and memory](http://www.thijsschreijer.nl/blog/?p=693) - 图表并解释了一些更高级的Lua VM概念，特别是在与C接口时.
+- [Lua states, libraries, coroutines and memory](http://www.thijsschreijer.nl/blog/?p=693) - Diagrams and explains some more advanced concepts of the Lua VM, particularly when interfacing with C.
 
 
 ### Talks & Slides

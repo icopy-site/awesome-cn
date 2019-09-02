@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="humanetech-community/awesome-humane-tech"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <br/><br/>
 
@@ -12,7 +13,7 @@
 
  科技和社交媒体对我们的社会产生了重大影响.  虽然许多创新技术发明正在改善我们的生活，但人们越来越意识到这些趋势带来的负面影响，例如社交媒体成瘾，心理健康问题和社会侵蚀.  讲话 [these problems](https://humanetech/problem)一个由特里斯坦哈里斯领导的深受关注的前技术内幕人士组成的世界级团队创造了 [The Center of Humane Technology](https://humanetech.com) .  我们的愿景是：
 
-> **Ubiquitous Humane Technology that Stimulates Humans to Flourish and Humanity to Thrive.**
+&gt; **无处不在的人道技术，刺激人类蓬勃发展，人类蓬勃发展.**
 
  此列表侧重于（主要是开源）项目，这些项目与人道科技主题直接相关.  请阅读 [guidelines for contributing](https://github.com/humanetech-community/awesome-humane-tech/blob/master/contributing.md) 在发送PR之前.
 
@@ -35,7 +36,7 @@
 - [Ethical OS Toolkit](https://ethicalos.org/) - 预测当今技术未来影响的指南.
 - [ACM Code of Ethics](https://ethics.acm.org/) - 计算机协会的道德规范和职业行为准则.
 - [Ethics Pledge](https://www.datafordemocracy.org/pledge) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/Data4Democracy/ethics-resources) - 旨在将我们的道德框架和原则纳入您的数据工作的全球倡议.
-- [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - 建立道德考虑体验的可选誓言.
+- [Hippocratic Oath for Technologists](https://mkdale.github.io/techoath/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/MKDale/techoath) - An optional oath for building ethically considered experiences.
 - [IoT Design Manifesto](https://www.iotmanifesto.com/) - 参与开发物联网的每个人的行为准则
 - [switching.social](https://switching.social/) - 流行的社交应用程序的道德，易用和隐私意识的替代品.
 - [The Critical Engineering Manifesto](https://criticalengineering.org/) - 批判性思维概念的宣言应用于工程态度.
@@ -69,7 +70,7 @@
 - [Canvas Blocker](https://addons.mozilla.org/en-GB/firefox/addon/canvasblocker/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/kkapsner/CanvasBlocker/) - 浏览器扩展，可防止通过Javascript Canvas API进行指纹识别.
 - [Disable WebRTC](https://addons.mozilla.org/en-GB/firefox/addon/happy-bonobo-disable-webrtc/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/ChrisAntaki/disable-webrtc-firefox) - 浏览器扩展以禁用WebRTC以避免从VPN后面泄露您的IP地址.
 - [Syncthing](https://syncthing.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/syncthing/syncthing/) - 取代专有云服务，以跨多个设备同步文件，分散.
-- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - 一种点对点即时通讯工具，旨在使普通用户轻松获得安全和隐私.
+- [Tox](https://tox.chat/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/TokTok/c-toxcore) - A peer-to-peer instant messenger aimed at making security and privacy easy to obtain for regular users.
 - [Oversec](https://www.oversec.io/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/oversecio/oversec) -  Android应用程序捕获并加密您键入的文本，然后将其传递给实际的应用程序.
 - [Cloud Firewall](https://addons.mozilla.org/en-US/firefox/addon/cloud-firewall/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/gkrishnaks/cloud-firewall) -  Addon，使您能够根据IPv4 / 6范围选择和阻止前5大云公司.
 - [Librefox](https://github.com/intika/Librefox) - 旨在强制实施Firefox隐私和安全而不需要项目的项目.
@@ -97,7 +98,7 @@
 - [ClearURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/gitlab.svg?sanitize=true" width="16"/>](https://gitlab.com/KevinRoebert/ClearUrls/blob/master/README.md) - 使用130规则从地图栏URL中删除跟踪元素的插件.
 - [Pi-hole](https://pi-hole.net/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/pi-hole/pi-hole) -  DNS sinkhole，用于阻止本地网络上的广告或跟踪器，而无需安装任何客户端软件.
 - [Shariff](http://heiseonline.github.io/shariff/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/heiseonline/shariff) - 使网站用户能够分享他们喜欢的内容，而不会影响他们的隐私.
-- [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) - jQuery plugin for adding social share buttons that don't allow social sites to track users.
+- [Social Share Privacy](http://panzi.github.io/SocialSharePrivacy/) [<img src="https://raw.githubusercontent.com/humanetech-community/awesome-humane-tech/master/logo/github.svg?sanitize=true" width="16"/>](https://raw.githubusercontent.com/panzi/SocialSharePrivacy) - 用于添加不允许社交网站跟踪用户的社交分享按钮的jQuery插件.
 
 ## Consent
 

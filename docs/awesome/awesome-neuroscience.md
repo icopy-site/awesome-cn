@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="analyticalmonk/awesome-neuroscience"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <!-- ![Awesome Neuroscience](https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png) -->
 <img src="https://raw.githubusercontent.com/analyticalmonk/awesome-neuroscience/master/./AWESOME2.png" width="50%">
 
@@ -35,7 +36,7 @@
 
 ### C++
 
-- [Brayns](https://github.com/BlueBrain/Brayns)   - 可以执行神经元的光线跟踪渲染的简约可视化器.  射线追踪可以帮助突出神经回路的区域，其中细胞彼此接触并且正在创建突触，从而更好地理解个体细胞和随后的大脑功能.
+- [Brayns](https://github.com/BlueBrain/Brayns)   - 可以执行神经元的光线跟踪渲染的简约可视化器.  射线追踪可以帮助突出神经回路的区域，其中细胞彼此接触并且正在创建突触，从而更好地理解个体细胞以及随后的大脑功能.
 
 ### JavaScript
 - [Brainbrowser](https://github.com/aces/brainbrowser) - 图书馆揭示一组基于网络的三维可视化工具，主要针对神经影像学.
@@ -79,7 +80,7 @@ MOOC可以在学院或大学课程上进行图案化，也可以不那么有条�
 - [Comp-neuro](http://www.tnb.ua.ac.be/mailman/listinfo/comp-neuro) - 邮件列表旨在解决计算神经科学一般领域中涉及的广泛研究方法和问题. 
 
 ### Miscellaneous
-- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - High-quality open neuroscience datasets.
+- [Awesome Public Datasets - Neuroscience](https://github.com/awesomedata/awesome-public-datasets#neuroscience) - 高质量的开放式神经科学数据集.
 - [McCulloch & Pitts Neural Net Simulator](https://justinmeiners.github.io/neural-nets-sim/) - 基于神经元的历史计算模型的模拟器.
 - [ModelDB](https://senselab.med.yale.edu/ModelDB/default.cshtml) - 可搜索的计算神经科学模型数据库.
 - [NeuronDB](https://senselab.med.yale.edu/NeuronDB) - 可搜索的三种类型神经元特性的数据库：电压门控电导，神经递质受体和神经递质物质.
@@ -88,7 +89,7 @@ MOOC可以在学院或大学课程上进行图案化，也可以不那么有条�
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/contributing.md) 第一.
+ 欢迎捐款！  阅读 [contribution guidelines](https://github.com/analyticalmonk/awesome-neuroscience/blob/master/contributing.md) first.
 
 
 ## License

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="lurumdare/awesome-asm"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assembler)
 ----------
 
@@ -17,7 +18,7 @@ Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assem
  |  * YASM * |  http://yasm.tortall.net/ |  是Intel x86架构的汇编程序和反汇编程序.  Yasm完全改写了Netwide Assembler（NASM）.  |
  |  * ILASM  -  IL汇编程序* |  http://msdn.microsoft.com/en-us/library/496e4ekx%28v=VS.100%29.aspx |  ILAsm（IL Assembler）从公共中间语言（CIL）代码生成可移植可执行（PE）文件
  |  * PeachPy * |  https://github.com/Maratyszcza/PeachPy |  是一个嵌入在Python中的x86-64汇编程序，它面向高性能计算受众.  PeachPy可以从同一个源生成Windows，Linux，Mac OS X，Native Client和Go的目标文件或程序集列表.
- |  * FLASM * |  http://www.nowrap.de/flasm |  Flasm是Flash ActionScript字节码的免费命令行汇编程序/反汇编程序.  它允许您更改任何SWF.  Flasm完全支持Macromedia Flash 8及更早版本生成的SWF.  |
+| *FLASM*                            | http://www.nowrap.de/flasm                                   | Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier. |
  |  * XEDParse * |  https://github.com/x64dbg/XEDParse |  XEDParse是一个开源（LGPLv3）库，用于将单个x86（-x64）指令从文本组合到字节.  有助于集成到逆向工程框架中以快速组装指令.  |
  |  * HLA * |  http://www.plantation-productions.com/Webster/HighLevelAsm/index.html |  高级程序集（HLA）是由Randall Hyde开发的汇编语言.  它允许使用更高级的语言结构来帮助初学者和高级程序集开发人员.  |
 
@@ -32,7 +33,7 @@ Awesome Assembler [[wiki]](https://en.wikipedia.org/wiki/Assembly_language#Assem
  |  *免疫调试器* |  http://debugger.immunityinc.com |  Immunity Debugger是一种强大的编写漏洞，分析恶意软件和反向工程二进制文件的新方法.  它建立在具有功能图形的可靠用户界面之上，这是业界第一个堆分析工具.  |
  |  *料斗* |  http://www.hopperapp.com |  Hopper是一个二进制反汇编器，反编译器和调试器，用于32位和64位可执行文件.  Hopper可以拆卸Mac（Intel 32/64），iOS（ARM / Intel），PE（PE32 / 32 + / 64）和ELF（Intel 32/64和ARM）.  |
  |  * WinDbg * |  http://www.windbg.org |  WinDbg是Microsoft Windows的多用途调试器，由Microsoft作为Windows调试工具的一部分在Web上发布.  |
-| *Syser*              | <https://github.com/marakew/syser>                           | Syser Kernel Debugger is designed for Windows NT Family based on X86 platform. It is a kernel debugger with full-graphical interfaces and supports assembly debugging and source code debugging. |
+ |  * Syser * | <https://github.com/marakew/syser>  |  Syser内核调试器专为基于X86平台的Windows NT系列而设计.  它是一个内核调试器，具有全图形界面，支持汇编调试和源代码调试.  |
  |  * Radare2 * |  http://rada.re |  用于逆向工程和分析二进制文件的开源完整框架;  由一组可以与命令行一起使用或独立使用的小实用程序组成.  |
  |  * ILDASM * | <https://docs.microsoft.com/en-us/dotnet/framework/tools/ildasm-exe-il-disassembler>  |  .NET反汇编程序|
  |  *** dnSpy *** | <https://github.com/0xd4d/dnSpy>  |  .NET调试器和汇编编辑器|

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="AllThingsSmitty/css-protips"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" width="200" alt="light bulb icon">
 </p>
@@ -96,7 +97,7 @@ html {
 
 ```css
 / *添加边框* /
-.nav li {
+.nav on {
   border-right: 1px solid #666;
 }
 ```
@@ -206,7 +207,7 @@ html,
 
 ### Comma-Separated Lists
 
-Make list items look like a real, comma-separated list:
+使列表项看起来像一个真实的逗号分隔列表：
 
 ```css
 ul&gt; li：not（：last-child）:: after {
@@ -278,7 +279,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ```css
 * + * {
-  margin-top：1.5em;
+  margin-top: 1.5em;
 }
 ```
 
@@ -497,7 +498,7 @@ p {
 
 ### Hide Autoplay Videos That Aren't Muted
 
- 这对于自定义用户样式表来说是一个很好的技巧.  避免在加载页面时使用自动播放的视频中的声音使用户超载.  如果声音没有静音，请不要显示视频：
+ 对于自定义用户样式表，这是一个很好的技巧.  避免在加载页面时使用自动播放的视频中的声音使用户超载.  如果声音没有静音，请不要显示视频：
 
 ```css
 video [autoplay]：not（[muted]）{

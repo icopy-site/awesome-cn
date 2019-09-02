@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="love2d-community/awesome-love2d"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 一个分类的社区驱动的高品质，令人敬畏的集合 [LÖVE](http://love2d.org) 图书馆，项目和资源.
 
 
@@ -24,7 +25,7 @@
 ## Animation
 *动画与框架管理图书馆*
 
-* [andross](https://github.com/pfirsich/andross) - 用于2D骨骼/骨骼动画的Lua库，带有Löve后端
+* [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend
 * [anim8](https://github.com/kikito/anim8) - 动画库
 * [chiro](https://github.com/bjornbytes/chiro) - 便利包装 [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) - LÖVE中Aseprite动画的解析器/渲染器
@@ -65,7 +66,7 @@
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的拼写行星渲染
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器
 * [svglover](https://github.com/globalcitizen/svglover) - 用于在LÖVE中导入和显示简单SVG的库
-* [Tove2d](https://github.com/poke1024/tove2d) - LÖVE的动画矢量图形
+* [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
 * [deep](https://github.com/Nikaoto/deep)   - 添加Z轴;  允许您排队操作和绘制调用
 
 ## Entity
@@ -227,7 +228,7 @@
 * [CatUI](https://github.com/wilhantian/catui) - LÖVE的轻量级GUI库
 * [GOOi](https://github.com/tavuntu/gooi) - 面向Android的GUI库
 * [Gspöt](https://notabug.org/pgimeno/Gspot) - LÖVE的有状态GUI库
-* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
+* [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) -  0.10图形库的图书馆
 * [Love Imgui](https://github.com/slages/love-imgui) - 用于LÖVE游戏引擎的imgui模块
 * [Löve-Nuklear](https://github.com/keharriso/love-nuklear) - LÖVE游戏的轻量级即时模式GUI
 * [Patchy](https://github.com/excessive/patchy) -  9patch库
@@ -304,7 +305,7 @@
 * [Sublime Text](https://www.sublimetext.com)   -  Sublime Text是一个用于代码，标记和散文的复杂文本编辑器.  您会喜欢光滑的用户界面，非凡的功能和惊人的性能.
 	* [Package Manager](https://packagecontrol.io/) -  Sublime Text包管理器，可以非常简单地查找，安装和保持包最新.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法突出显示，自动完成和构建系统.
-	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - Provides linting and static analysis of your Lua code.
+	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供Lua代码的linting和静态分析.
 
 ## Contributing
 

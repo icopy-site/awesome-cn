@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ChromeDevTools/awesome-chrome-devtools"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome chrome-devtools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt; Chrome DevTools生态系统中令人敬畏的工具和资源
@@ -63,11 +64,11 @@
 - 走： [chromedp](https://github.com/chromedp/chromedp) - 使用Go中的Chrome DevTools协议驱动浏览器的高级操作和任务
 - 走： [cdp](https://github.com/mafredri/cdp) - 协议的Golang库
 - 走： [gcd](https://github.com/wirepair/gcd) -  Go中的另一个客户端库
-- 走： [godet](https://github.com/raff/godet) - 也不同，也是Go.
+- 走： [godet](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools)   - 协议包装器生成器，可以通过编辑手柄模板进行自定义.  包括.Net核心模板.
 -  Ruby： [ChromeRemote](https://github.com/cavalle/chrome_remote/) -  Ruby中Chrome DevTools协议的客户端实现
 - 科特林： [chrome-reactive-kotlin](https://github.com/wendigo/chrome-reactive-kotlin) -  Kotlin中的反应式（rxjava 2.x）低级客户端库
-- Clojure: [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools)   - 协议的Clojure库.  CDP包装器API是自动生成的，并将在CDP协议更改时更新.
+-  Clojure： [clj-chrome-devtools](https://github.com/tatut/clj-chrome-devtools)   - 协议的Clojure库.  CDP包装器API是自动生成的，并将在CDP协议更改时更新.
 -  PHP： [chrome-devtools-protocol](https://github.com/jakubkulhan/chrome-devtools-protocol) - 协议的PHP客户端库.
 
 ## Developing with the protocol
@@ -149,4 +150,4 @@
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-这个很棒的列表在Creative Commons 0下被许可到公共领域.有关更多信息，请参阅 [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) 文件.
+这个很棒的列表在Creative Commons 0下被授权到公共领域.有关更多信息，请参阅 [license](https://github.com/ChromeDevTools/awesome-chrome-devtools/blob/master/LICENSE) 文件.

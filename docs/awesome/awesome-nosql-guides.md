@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="erictleung/awesome-nosql-guides"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome NoSQL Guides [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
  &gt;“NoSQL（最初指的是&#39;非SQL&#39;或&#39;非关系&#39;）数据库提供了一种存储和检索数据的机制，该机制是以关系数据库中使用的表格关系之外的方式建模的.”   -  [Wikipedia](https://en.wikipedia.org/wiki/NoSQL)

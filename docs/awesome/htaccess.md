@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="phanan/htaccess"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 一组有用的.htaccess片段，全部集中在一个地方.
 
@@ -16,15 +17,15 @@
 注意：假设您已安装并启用了“mod_rewrite”.
 
 ### Force www
-```apacheconf
+``apacheconf
 RewriteEngine on
 RewriteCond％{HTTP_HOST} ^ example \ .com [NC]
 RewriteRule ^（.*）$ http://www.example.com/$1 [L，R = 301，NC]
 ```
 
 ### Force www in a Generic Way
-```apacheconf
-RewriteCond％{HTTP_HOST}！^ $
+``apacheconf
+RewriteCond %{HTTP_HOST} !^$
  RewriteCond％{HTTP_HOST}！^ www \.  [NC]
 RewriteCond％{HTTPS} s ^ on（s）|
 RewriteRule ^ http％1：//www.% {HTTP_HOST}％{REQUEST_URI} [R = 301，L]
@@ -33,14 +34,14 @@ RewriteRule ^ http％1：//www.% {HTTP_HOST}％{REQUEST_URI} [R = 301，L]
 
 ### Force non-www
 It’s [still](http://www.sitepoint.com/domain-www-or-no-www/) [open](https://devcenter.heroku.com/articles/apex-domains) [for](http://yes-www.org/) [debate](http://no-www.org/) 无论是www还是非www都是要走的路，所以如果你碰巧是裸域的粉丝，那么你去：
-```apacheconf
+``apacheconf
 RewriteEngine on
 RewriteCond％{HTTP_HOST} ^ www \ .example \ .com [NC]
 RewriteRule ^（.*）$ http://example.com/$1 [L，R = 301]
 ```
 
 ### Force non-www in a Generic Way
-```apacheconf
+``apacheconf
 RewriteEngine on
 RewriteCond％{HTTP_HOST} ^ www \.
 RewriteCond％{HTTPS} s ^ on（s）| off
@@ -49,7 +50,7 @@ RewriteRule ^％1％3％{REQUEST_URI} [R = 301，L]
 ```
 
 ### Force HTTPS
-```apacheconf
+``apacheconf
 RewriteEngine on
 RewriteCond％{HTTPS}！on
 RewriteRule（.*）https：//％{HTTP_HOST}％{REQUEST_URI}
@@ -65,20 +66,20 @@ RewriteRule（.*）https：//％{HTTP_HOST}％{REQUEST_URI}
 
 ### Force HTTPS Behind a Proxy
 如果您的服务器前面有代理执行TLS终止，则非常有用.
-```apacheconf
+``apacheconf
 RewriteCond％{HTTP：X-Forwarded-Proto}！https
 RewriteRule（.*）https：//％{HTTP_HOST}％{REQUEST_URI}
 ```
 
 ### Force Trailing Slash
-```apacheconf
+``apacheconf
 RewriteCond％{REQUEST_URI} /+ [^\.]+$
 RewriteRule ^（.+ [^ /]）$％{REQUEST_URI} / [R = 301，L]
 ```
 
 ### Remove Trailing Slash
  这个片段将以斜杠结尾的路径重定向到非斜线终止的对应物（实际目录除外），例如`http：// www.example.com / blog /`到`http://www.example.com/ blog`.  对于SEO来说这很重要，因为它是 [recommended](http://overit.com/blog/canonical-urls) 为每个页面都有一个规范的URL.
-```apacheconf
+``apacheconf
 RewriteCond％{REQUEST_FILENAME}！-d
 RewriteCond％{REQUEST_URI}（.+）/ $
 RewriteRule ^％1 [R = 301，L]
@@ -86,19 +87,19 @@ RewriteRule ^％1 [R = 301，L]
 [Source](https://stackoverflow.com/questions/21417263/htaccess-add-remove-trailing-slash-from-url#27264788)
 
 ### Redirect a Single Page
-```apacheconf
+``apacheconf
 重定向301 /oldpage.html http://www.example.com/newpage.html
 重定向301 /oldpage2.html http://www.example.com/folder/
 ```
 [Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
 
 ### Redirect Using RedirectMatch
-```apacheconf
+``apacheconf
 RedirectMatch 301 /subdirectory(.*)http://www.newsite.com/newfolder/$1
 RedirectMatch 301 ^ /（.*）.htm $ /$1.html
 RedirectMatch 301 ^ / 200（[0-9]）/（[^ 01]）（.*）$ / $ 2 $ 3
 RedirectMatch 301 ^ / category /(.*)$ / $ 1
-RedirectMatch 301 ^ /（.*）/ htaccesselite-ultimate-htaccess-article.html（.*）/ htaccess / htaccess.html
+RedirectMatch 301 ^/(.*)/htaccesselite-ultimate-htaccess-article.html(.*) /htaccess/htaccess.html
 RedirectMatch 301 ^ /（.*）.html / 1 /(.*)/$1.html$2
 RedirectMatch 301 ^ / manual /(.*)$ http://www.php.net/manual/$1
 RedirectMatch 301 ^ / dreamweaver /(.*)$ / tools / $ 1
@@ -107,18 +108,18 @@ RedirectMatch 301 ^ / z /(.*)$ http://static.askapache.com/$1
 [Source](http://www.askapache.com/htaccess/301-redirect-with-mod_rewrite-or-redirectmatch.html#301_Redirects_RedirectMatch)
 
 ### Alias a Single Directory
-```apacheconf
+``apacheconf
 RewriteEngine On
 RewriteRule ^ source-directory /(.*）/ target-directory / $ 1 [R = 301，L]
 ```
 
 ### Alias Paths to Script
-```apacheconf
+``apacheconf
 FallbackResource /index.fcgi
 ```
- 此示例在某个目录中有一个`index.fcgi`文件，该目录中未能解析文件名/目录的任何请求都将被发送到`index.fcgi`脚本.  如果你希望`baz.foo / some / path`由`baz.foo / index.fcgi`（也支持对`baz.foo`的请求）处理，同时保持`baz.foo/css/，那就太好了. style.css`等.  从PATH_INFO环境变量访问原始路径，这将暴露给您的脚本环境.
+ 此示例在某个目录中有一个`index.fcgi`文件，该目录中未能解析文件名/目录的任何请求都将被发送到`index.fcgi`脚本.  如果你希望`baz.foo / some / path`由`baz.foo / index.fcgi`（它也支持对`baz.foo`的请求）处理，同时保持`baz.foo/css/，这是很好的. style.css`等.  从PATH_INFO环境变量访问原始路径，这将暴露给您的脚本环境.
 
-```apacheconf
+``apacheconf
 RewriteEngine On
 RewriteRule ^ $ index.fcgi / [QSA，L]
 RewriteCond％{REQUEST_FILENAME}！ -  f
@@ -128,14 +129,14 @@ RewriteRule ^（.*）$ index.fcgi / $ 1 [QSA，L]
 这是一个效率较低的FallbackResource指令版本（因为使用`mod_rewrite`比处理`FallbackResource`指令更复杂），但它也更灵活.
 
 ### Redirect an Entire Site
-```apacheconf
+``apacheconf
 重定向301 / http://newsite.com/
 ```
  这种方式与链接完好无损.  那就是`www.oldsite.com / some / crazy / link.html`将成为`www.newsite.com / some / crazy / link.html`.  当您将网站“移动”到新域时，这非常有用. [Source](http://css-tricks.com/snippets/htaccess/301-redirects/)
 
 ### Alias “Clean” URLs
 此代码段允许您使用“干净”的URL  - 没有PHP扩展名的URL，例如`example.com / users`而不是`example.com / users.php`.
-```apacheconf
+``apacheconf
 RewriteEngine On
 RewriteCond％{SCRIPT_FILENAME}！-d
 RewriteRule ^（[^.] +）$ $ 1.php [NC，L]
@@ -144,14 +145,14 @@ RewriteRule ^（[^.] +）$ $ 1.php [NC，L]
 
 ### Exclude URL from Redirection
  此代码段允许您从重定向中排除URL.  例如，如果您有重定向规则设置但想要排除robots.txt，那么搜索引擎可以按预期访问该URL.
-```apacheconf
+``apacheconf
 RewriteEngine On
 RewriteRule ^ robots.txt  -  [L]
 ```
 
 ## Security
 ### Deny All Access
-```apacheconf
+``apacheconf
 ## Apache 2.2
 拒绝所有人
 
@@ -162,7 +163,7 @@ RewriteRule ^ robots.txt  -  [L]
  但是等等，这也会阻止你的内容！  因此介绍......
 
 ### Deny All Access Except Yours
-```apacheconf
+``apacheconf
 ## Apache 2.2
 命令拒绝，允许
 拒绝所有人
@@ -177,7 +178,7 @@ RewriteRule ^ robots.txt  -  [L]
 现在当然有一个反转版本：
 
 ### Allow All Access Except Spammers'
-```apacheconf
+``apacheconf
 ## Apache 2.2
 命令拒绝，允许
 从xxx.xxx.xxx.xxx拒绝
@@ -191,20 +192,20 @@ RewriteRule ^ robots.txt  -  [L]
 
 ### Deny Access to Hidden Files and Directories
  隐藏文件和目录（名称以点`.`开头的那些文件和目录）应该保护大部分时间（如果不是全部的话）.  例如：`.htaccess`，`.htpasswd`，`.git`，`.hg` ...
-```apacheconf
+``apacheconf
 RewriteCond％{SCRIPT_FILENAME} -d [OR]
 RewriteCond％{SCRIPT_FILENAME} -f
  RewriteRule“（^ | /）\.”  - [F]
 ```
 
 或者，你可以提出一个“未找到”错误，给攻击者毫无头绪：
-```apacheconf
+``apacheconf
 RedirectMatch 404 /\..*$
 ```
 
 ### Deny Access to Backup and Source Files
 这些文件可能会被某些文本/ HTML编辑器（如Vi / Vim）留下，如果暴露给公众，会造成很大的安全隐患.
-```apacheconf
+``apacheconf
 <FilesMatch "(\.(bak|config|dist|fla|inc|ini|log|psd|sh|sql|swp)|~)$">
     ## Apache 2.2
     订单允许，拒绝
@@ -218,12 +219,12 @@ RedirectMatch 404 /\..*$
 [Source](https://github.com/h5bp/server-configs-apache)
 
 ### Disable Directory Browsing
-```apacheconf
+``apacheconf
 选项全部 - 索引
 ```
 
 ### Disable Image Hotlinking
-```apacheconf
+``apacheconf
 RewriteEngine on
 ## Remove the following line if you want to block blank referrer too
 RewriteCond％{HTTP_REFERER}！^ $
@@ -238,7 +239,7 @@ RewriteRule \.（jpe？g | png | gif | bmp）$  -  [NC，F，L]
 
 ### Disable Image Hotlinking for Specific Domains
 有时您只想禁用某些坏人的图像热链接.
-```apacheconf
+``apacheconf
 RewriteEngine on
 RewriteCond％{HTTP_REFERER} ^ https？：//（.+ \.）？badsite \ .com [NC，OR]
 RewriteCond％{HTTP_REFERER} ^ https？：//（.+ \.）？badsite2 \ .com [NC，OR]
@@ -256,7 +257,7 @@ htpasswd -c /home/fellowship/.htpasswd boromir
 ```
 
 然后您可以使用它进行身份验证：
-```apacheconf
+``apacheconf
 AuthType Basic
 AuthName“一个不简​​单”
 AuthUserFile /home/fellowship/.htpasswd
@@ -264,7 +265,7 @@ AuthUserFile /home/fellowship/.htpasswd
 ```
 
 ### Password Protect a File or Several Files
-```apacheconf
+``apacheconf
 AuthName“一个仍然不简单”
 AuthType Basic
 AuthUserFile /home/fellowship/.htpasswd
@@ -281,7 +282,7 @@ AuthUserFile /home/fellowship/.htpasswd
 ### Block Visitors by Referrer
 这会拒绝所有来自（引用）特定域的用户的访问权限.
 [Source](http://www.htaccess-guide.com/deny-visitors-by-referrer/)
-```apacheconf
+``apacheconf
 RewriteEngine on
 ## Options +FollowSymlinks
 RewriteCond％{HTTP_REFERER} somedomain \ .com [NC，OR]
@@ -291,14 +292,14 @@ RewriteRule.*  -  [F]
 
 ### Prevent Framing the Site
 当仍允许为特定URI构建框架时，这可以防止网站被框起（即放入“iframe”标签）.
-```apacheconf
+``apacheconf
 SetEnvIf Request_URI“/ starry-night”allow_framing = true
 标题设置X-Frame-Options SAMEORIGIN env =！allow_framing
 ```
 
 ## Performance
 ### Compress Text Files
-```apacheconf
+``apacheconf
 <IfModule mod_deflate.c>
 
     # 对受损标头强制压缩.
@@ -313,7 +314,7 @@ SetEnvIf Request_URI“/ starry-night”allow_framing = true
     # 压缩标记有以下MIME类型之一的所有输出
     # （对于2.3.7以下的Apache版本，您不需要启用`mod_filter`
     #   并可以删除` <IfModule mod_filter.c>  `和` </IfModule>  `线
-    #  as `AddOutputFilterByType` is still in the core directives).
+    #  因为`AddOutputFilterByType`仍在核心指令中）.
     <IfModule mod_filter.c>
         AddOutputFilterByType DEFLATE application / atom + xml \
                                       应用程序/ javascript \
@@ -342,8 +343,8 @@ SetEnvIf Request_URI“/ starry-night”allow_framing = true
 ### Set Expires Headers
  _Expires headers_告诉浏览器他们是应该从服务器请求特定文件还是从缓存中获取它.  建议将静态内容的expires头设置为将来的某些内容.
 
-如果您不使用基于文件名的缓存清除来控制版本控制，请考虑将CSS和JS等资源的缓存时间缩短到1周. [Source](https://github.com/h5bp/server-configs-apache)
-```apacheconf
+如果您不使用基于文件名的缓存清除来控制版本控制，请考虑将CSS和JS等资源的缓存时间缩短为1周. [Source](https://github.com/h5bp/server-configs-apache)
+``apacheconf
 <IfModule mod_expires.c>
     ExpiresActive on
     ExpiresDefault“访问加1个月”
@@ -369,7 +370,7 @@ SetEnvIf Request_URI“/ starry-night”allow_framing = true
     ExpiresByType应用程序/ javascript“访问加1年”
 
   # 清单文件
-    ExpiresByType application/x-web-app-manifest+json   "access plus 0 seconds"
+    ExpiresByType application / x-web-app-manifest + json“access plus 0 seconds”
     ExpiresByType text / cache-manifest“access plus 0 seconds”
 
   # 媒体
@@ -397,7 +398,7 @@ SetEnvIf Request_URI“/ starry-night”allow_framing = true
 
 ### Turn eTags Off
 通过删除`ETag`标头，您可以禁用缓存和浏览器来验证文件，因此它们被迫依赖于您的`Cache-Control`和`Expires`标头. [Source](http://www.askapache.com/htaccess/apache-speed-etags.html)
-```apacheconf
+``apacheconf
 <IfModule mod_headers.c>
     标题未设置ETag
 </IfModule>
@@ -407,7 +408,7 @@ FileETag无
 ## Miscellaneous
 
 ### Set PHP Variables
-```apacheconf
+``apacheconf
 php_value <key><val>
 
 ## For example:
@@ -416,15 +417,15 @@ php_value max_execution_time 240
 ```
 
 ### Custom Error Pages
-```apacheconf
+``apacheconf
 ErrorDocument 500“休斯顿，我们遇到了问题.”
 ErrorDocument 401 http://error.example.com/mordor.html
 ErrorDocument 404 /errors/halflife3.html
 ```
 
 ### Force Downloading
-有时您想强制浏览器下载某些内容而不是显示它.
-```apacheconf
+有时您希望强制浏览器下载某些内容而不是显示它.
+``apacheconf
 <Files *.md>
     ForceType应用程序/八位字节流
     标题设置内容处理附件
@@ -435,7 +436,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Prevent Downloading
 有时您希望强制浏览器显示某些内容而不是下载它.
-```apacheconf
+``apacheconf
 <FilesMatch "\.(tex|log|aux)$">
     标题集设置Content-Type text / plain
 </FilesMatch>
@@ -443,7 +444,7 @@ ErrorDocument 404 /errors/halflife3.html
 
 ### Allow Cross-Domain Fonts
 CDN服务的webfonts可能无法在Firefox或IE中使用 [CORS](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing) .  这个片段解决了这个问题.
-```apacheconf
+``apacheconf
 <IfModule mod_headers.c>
     <FilesMatch "\.(eot|otf|ttc|ttf|woff|woff2)$">
         标题集Access-Control-Allow-Origin“*”
@@ -454,7 +455,7 @@ CDN服务的webfonts可能无法在Firefox或IE中使用 [CORS](https://en.wikip
 
 ### Auto UTF-8 Encode
 您的文本内容应始终采用UTF-8编码，不是吗？
-```apacheconf
+``apacheconf
 ## Use UTF-8 encoding for anything served text/plain or text/html
 AddDefaultCharset utf-8
 
@@ -466,7 +467,7 @@ AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 ### Switch to Another PHP Version
  如果您在共享主机上，则可能安装了多个版本的PHP，有时您需要特定版本的网站.  以下代码段应该为您切换PHP版本.
 
-```apacheconf
+``apacheconf
 AddHandler应用程序/ x-httpd-php56 .php
 
 ## Alternatively, you can use AddType
@@ -476,7 +477,7 @@ AddType application / x-httpd-php56 .php
 ### Disable Internet Explorer Compatibility View
  IE中的兼容性视图可能会影响某些网站的显示方式.  以下代码段应强制IE使用边缘渲染引擎并禁用兼容性视图.
 
-```apacheconf
+``apacheconf
 <IfModule mod_headers.c>
     BrowserMatch MSIE是-msie
     标头设置X-UA兼容IE =边缘env = is-msie
@@ -486,7 +487,7 @@ AddType application / x-httpd-php56 .php
 ### Serve WebP Images
 If [WebP images](https://developers.google.com/speed/webp/?csw=1) 支持并且在与要提供的jpg / png图像相同的位置找到扩展名为.webp且名称相同的图像，然后提供WebP图像.
 
-```apacheconf
+``apacheconf
 RewriteEngine On
 RewriteCond％{HTTP_ACCEPT} image / webp
 RewriteCond％{DOCUMENT_ROOT} / $ 1.webp -f

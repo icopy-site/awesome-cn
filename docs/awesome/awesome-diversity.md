@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="folkswhocode/awesome-diversity"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Diversity 
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -29,14 +30,14 @@
 - [Code 2040](http://www.code2040.org/) - 通过各种计划和奖学金，Code2040是一项伟大的计划，为黑人和拉丁裔人才创造技术机会.
 - [Codebar](https://codebar.io/) -  Codebar是一项非营利性计划，通过定期编程研讨会促进多元化技术社区的发展.
 - [Code Liberation](http://codeliberation.org/) -  Code Liberation推动女性，非二元，女性和女性识别人员创造数字游戏和创造性技术，以实现STEAM领域的多样化.
-- [Consensual Software](http://consensualsoftware.com/) - 一个开源项目，倡导在软件设计中更好地使用同意.
+- [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
 - [Dear Tech People](http://www.deartechpeople.com) -  100家顶级科技公司的种族和性别多样性排名.
 - [Dev Color](https://www.devcolor.org/) - 一个旨在推动Black软件工程师职业发展的非营利组织.
 - [Diversify Tech](https://www.diversifytech.co/) - 为技术人员中代表性不足的人提供的资源集合.
 - [Diversity Charter](http://diversitycharter.org/) - 宪章表明你关心多样性.
 - [Django Girls](https://djangogirls.org/) - 非营利组织和一个赋予和帮助妇女组织编程研讨会的社区.
 - [EquitableTech](http://equitabletech.com) - 致力于开发多样化技术的非营利组织，专注于开源.
-- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建热情，包容，多元化的文化.
+- [FrameShift Consulting](https://frameshiftconsulting.com/) -  FrameShift开放源自他们梦幻般的盟友技能研讨会，会议事件响应材料和许多其他资源，允许扩大创建欢迎，包容，多样化的文化.
 - [Fund Club](http://joinfundclub.com/) - 基金俱乐部为众多心理健康，多元化，包容性，反骚扰等举措筹集资金.
 - [Geek Girls Carrots](http://gocarrots.org) - 自2011年以来吸引女性参与科技事业.
 - [Girl Develop It](https://www.girldevelopit.com/) - 非营利组织，旨在为有兴趣学习网络和软件开发的女性提供价格合理且无判断力的机会.
@@ -82,7 +83,7 @@
 以下是特别努力包容性和鼓励多样性的事件清单
 
 - [ACT-W National Conference](http://www.act-w.org/) - 由ChickTech主办，ACT-W National致力于为您提供职业发展，领导力，技术和多元化方面的鼓舞人心和可行的教育.
-- [AlterConf](https://alterconf.com/) - AlterConf is a traveling conference series that provides safe opportunities for marginalized people and those who support them in the tech and gaming industries.
+- [AlterConf](https://alterconf.com/) -  AlterConf是一个旅行会议系列，为边缘化人群以及在技术和游戏行业中为他们提供支持的人提供安全的机会.
 - [Elixir With Love](https://www.elixir-with-love.com/) -  Elixir With Love是一个积极主动的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多元化的Elixir社区.
 - [Lambda World](http://www.lambda.world/)   -  Lambda World是一个功能性编程会议，其意识形态赋予了技术领域中代表性不足的少数群体.  在这种思维模式中，我们采取了一些行动，例如创建补助金以支付门票和住宿，举办包容性研讨会，以及让个人发现难以远离家人，提供旅游活动以及像婴儿床和婴儿车.
 - [DDD Europe](https://dddeurope.com)   -  Domain-Driven Design Europe专注于软件设计和建模.  他们对多样性和改善活动有着惊人的承诺.
@@ -91,7 +92,7 @@
 
 以下是各种类型资源（会谈，文件，博客文章等）的集合，以便成为任何多样性努力的盟友.
 
-- [Better Male Allies](https://code.likeagirl.io/@betterallies) - 像女孩一样的代码.
+- [Better Male Allies](https://code.likeagirl.io/@betterallies) - By Code Like a Girl.
 - [Inclusion At Work](https://inclusionatwork.co) - 詹妮弗金.
 - [Resources For Allies](https://github.com/larahogan/ally-resources) - 劳拉霍根.
 
@@ -108,13 +109,13 @@
 - [Fundamentals of Effective Allyship](https://medium.com/@fox/fundamentals-of-effective-allyship-468bd0afe89b) - 作者：Karolina Szczur.
 - [Gender Decoder For Job Ads](http://gender-decoder.katmatfield.com/) - 由Kat Matfield撰写.
 - [How A Common Interview Question Fuels The Gender Pay Gap (And How To Stop It)](https://www.nytimes.com/2018/05/01/upshot/how-a-common-interview-question-fuels-the-gender-pay-gap-and-how-to-stop-it.html) - 克莱尔·凯恩·米勒.
-- [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) - By Michael Schultz.
+- [How Organizations Can Become More Inclusive Of People With Disabilities](https://opensource.com/article/17/12/diversity-and-inclusion) -  Michael Schultz.
 - [How To Build Inclusive Culture](https://medium.com/@nmsanchez/how-to-build-inclusive-culture-360160f417a1) - 妮可桑切斯.
 - [How To Fight Sexism On Your Company's Slack](https://lifehacker.com/how-to-fight-sexism-on-your-companys-slack-1821302639) - 尼克道格拉斯.
 - [Increase Diversity In Our Speaker Line Up](https://github.com/lnug/feedback/issues/107#issuecomment-296282498) - SoledadPenadés.
 - [On Improving Diversity In Hiring](https://cate.blog/2017/09/28/on-improving-diversity-in-hiring/) - 凯特·休斯顿
 - [So, You Just Learned There Are Issues With The Tech Industry. Now What?](https://github.com/stephmarx/so-you-just-learned) - 由Stephanie Slattery.
-- [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - 像女孩一样的代码.
+- [Top 10 Everyday Actions Any Hiring Manager Can Do To Diversify Their Candidate Pipeline](https://code.likeagirl.io/are-you-even-trying-69e270ef283f) - By Code Like a Girl.
 - [Tracking Compensation And Promotion Inequity](http://larahogan.me/blog/inclusion-math/) - 劳拉霍根.
 - [What Does Sponsorship Look Like?](http://larahogan.me/blog/what-sponsorship-looks-like/) - 劳拉霍根.
 - [You Have A Culture Problem. Here's How To Avoid A Diversity Disaster](https://medium.com/projectinclude/you-have-a-culture-problem-heres-how-to-avoid-a-diversity-disaster-178eaecd7e3f) - 作者：Ellen K. Pao.
@@ -144,7 +145,7 @@
 - [Getting Free Of Toxic Tech Culture](https://blog.valerieaurora.org/2018/01/17/getting-free-of-toxic-tech-culture/) -  Valerie Aurora和Susan Wu.
 - [Hidden Figures: How Silicon Valley Keeps Diversity Data Secret](https://www.revealnews.org/article/hidden-figures-how-silicon-valley-keeps-diversity-data-secret/amp/) - 通过
 将埃文斯和Sinduja Rangarajan.
-- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) - 作者：MaríaAriasdeReynaDomínguez.
+- [How Can I Get A Diverse And Inclusive Team?](https://delawen.com/es/2019/06/how-can-i-get-a-diverse-team/) - ReynaDomínguez的MaríaArias.
 - [How "Good Intent" Undermines Diversity And Inclusion](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/) -  Annalee.
 - [How Tech's Lack Of Diversity Leads To Racist Software](http://www.sfgate.com/business/amp/How-tech-s-lack-of-diversity-leads-to-racist-6398224.php) - 由温迪李.
 - [How To Be An Ally](https://andre.arko.net/2013/12/04/how-to-be-an-ally/) - 安德烈阿尔科.
@@ -156,7 +157,7 @@
 - [Not Applicable: What Your Job Post Is Really Saying](https://where.coraline.codes/blog/not_applicable/) - 作者：Coraline Ada.
 - [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) - 由雷切尔托马斯.
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) -  Suzannah Weiss.
-- [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - 在Tobbe Gyllebring.
+- [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) - 由Tobbe Gyllebring撰写.
 - [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) - 盲人软件工程师Tuukka Ojala.
 - [Stop Saying That Diversity Means Lowering The Bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) -  Leah Fessler.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) - 作者：Joy Ebertz.
@@ -179,7 +180,7 @@
 - [We Need More Radical Solutions For Diversity And Inclusion](https://medium.com/projectinclude/we-need-more-radical-solutions-for-diversity-and-inclusion-26edaf4ab5a4) - 作者：Ellen K. Pao.
 - [What Does It Mean To Be A Feminist Coder In 2018?](https://dev.to/xrwang/what-does-it-mean-to-be-a-feminist-coder-in-2018--25i3) - 由Xiaowei R. Wang撰写.
 - [What I Learned From The Fall Of Ellen Pao](https://www.damemagazine.com/2018/03/15/what-i-learned-from-the-fall-of-ellen-pao/) -  Madhushree Ghosh.
-- [White Fragility In Teaching And Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) -  Mary Jo Madda
+- [White Fragility In Teaching And Education Technology](https://www.edsurge.com/news/2018-08-23-white-fragility-in-teaching-and-education-an-interview-with-dr-robin-diangelo) -  Mary Jo Madda.
 - [Who Killed The Junior Developer?](https://medium.com/@melissamcewen/who-killed-the-junior-developer-33e9da2dc58c) -  Melissa McEwen.
 - [Why Are There Few Women In Tech? Watch A Recruiting Session](https://www.wired.com/story/why-are-there-few-women-in-tech-watch-a-recruiting-session/) - 作者Jessi Hempel.
 - [Why Diverse Teams Matter](http://er.educause.edu/articles/2016/5/why-diverse-teams-matter) -  Brad McLain，Catherine Ashcraft和Lucy Sanders.

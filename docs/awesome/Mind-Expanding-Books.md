@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hackerkid/Mind-Expanding-Books"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Mind Expanding Books
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![project chat](https://img.shields.io/badge/zulip-join_chat-brightgreen.svg)](https://books.zulipchat.com)
@@ -101,7 +102,7 @@
  |  非理性人：存在主义哲学研究  威廉巴雷特| [4.09](https://www.goodreads.com/book/show/83321.Irrational_Man) |  |  
  |  无限的开始：改变世界的解释  大卫德意志| [4.08](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) |  |  
  |  我们生活的隐喻|  乔治拉克夫，马克约翰逊| [4.08](https://www.goodreads.com/book/show/34459.Metaphors_We_Live_By) | 2003 |  
-| Grit | Angela Duckworth | [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
+ |  砂砾|  安吉拉达克沃思| [4.08](https://www.goodreads.com/book/show/27213329-grit) | 2016 |  
  |  捍卫食物：食者的宣言|  迈克尔波兰| [4.07](https://www.goodreads.com/book/show/315425.In_Defense_of_Food) | 2008 |  
  |  空白石板：现代否认人性|  Steven Pinker | [4.07](http://www.goodreads.com/book/show/5752.The_Blank_Slate) | 2003 |  
  |  西方哲学史|  Bertrand Russell | [4.06](https://www.goodreads.com/book/show/243685.A_History_of_Western_Philosophy) | 2008 |  
@@ -121,10 +122,10 @@
  |  超常：科学，瑜伽和非凡心灵能力的证据|  Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  
  |  囚徒困境|  威廉庞德斯通| [3.91](https://www.goodreads.com/book/show/29506.Prisoner_s_Dilemma) | 1993 | 
  |  思想的东西：语言作为人性之窗|  Steven Pinker | [3.90](https://www.goodreads.com/book/show/373969.The_Stuff_of_Thought) | 2007 |  
- |  协调：知识的统一|  Edward O. Wilson | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
+| Consilience: The Unity of Knowledge | Edward O. Wilson | [3.90](https://www.goodreads.com/book/show/55981.Consilience) | 1999 |  
  |  为什么我们会犯错误：我们如何看待，没有看到的东西，忘记的事情，并且很可靠我们都高于平均水平  Joseph T. Hallinan | [3.87](https://www.goodreads.com/book/show/5040579-why-we-make-mistakes) | 2009 |  
  |  你只是不明白：谈话中的女人和男人  Deborah Tannen | [3.86](https://www.goodreads.com/book/show/147222.You_Just_Don_t_Understand) | 2007 |  
- |  只是争论：西方哲学中最重要的100个论点  Michael Bruce，Steven Barbone | [3.85](https://www.goodreads.com/book/show/12838972-just-the-arguments) | 2011 |  
+| Just the Arguments: 100 of the Most Important Arguments in Western Philosophy | Michael Bruce, Steven Barbone | [3.85](https://www.goodreads.com/book/show/12838972-just-the-arguments) | 2011 |  
  |  狗看了什么：和其他冒险|  马尔科姆格拉德威尔| [3.82](https://www.goodreads.com/book/show/6516450-what-the-dog-saw-and-other-adventures) | 2009 |  
  |  花费：性，进化和消费者行为|  杰弗里米勒| [3.82](https://www.goodreads.com/book/show/6283340-spent) |  |  
  |  游戏人物游戏：交易分析基本手册|  埃里克伯尔尼.  | [3.81](https://www.goodreads.com/book/show/49176.Games_People_Play) |  |  
@@ -180,7 +181,7 @@
  |  上帝创造了整数：改变历史的数学突破|  斯蒂芬霍金| [4.06](https://www.goodreads.com/book/show/2096.God_Created_The_Integers) |  |  
  |  丘吉尔的秘密战争：第二次世界大战期间的大英帝国和印度的蹂躏  Madhusree Mukerjee | [4.05](https://www.goodreads.com/book/show/8890989-churchill-s-secret-war) | 2010 |  
  |  接缝之间的时间|  MaríaDueñas| [4.04](https://www.goodreads.com/book/show/7502166-el-tiempo-entre-costuras) |2009 |  
- |  枪支，细菌和钢铁：人类社会的命运|  Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
+| Guns, Germs, And Steel : The Fates Of Human Societies | Jared M. Diamond | [4.00](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) | 2005 |  
  |  发现印度|  贾瓦哈拉尔尼赫鲁| [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
  |  理性乐观主义者：繁荣如何演变（PS）|  马特雷德利| [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
  |  Kingpin：一名黑客如何战胜地下数十亿美元的网络犯罪  凯文Poulson | [3.96](http://www.goodreads.com/book/show/9319468-kingpin) | 2011 |  
@@ -255,7 +256,7 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  财富的起源|  Eric D. Beinhocker | [4.23](https://www.goodreads.com/book/show/22456.The_Origin_of_Wealth) | 2006 |  
-| Every Shot Counts: Using the Revolutionary Strokes Gained Approach to Improve Your Golf Performance and Strategy | Mark Broadie | [4.23](https://www.goodreads.com/book/show/17674971-every-shot-counts) | 2014 |  
+ |  每一次射击计数：使用革命性冲击获得的方法来提高你的高尔夫表现和战略  马克布罗迪| [4.23](https://www.goodreads.com/book/show/17674971-every-shot-counts) | 2014 |  
  |  经济事实和谬误|  Thomas Sowell | [4.18](https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies) | 2008 |  
  |  债务 - 更新和扩展：前5000年|  大卫格雷伯| [4.17](https://www.goodreads.com/book/show/6617037-debt) | 2011 |  
  |  二十一世纪的资本|  Thomas Piketty | [4.01](http://www.goodreads.com/book/show/18736925-capital-in-the-twenty-first-century) | 2014 |  
@@ -308,7 +309,7 @@
  |  演员和目标|  Declan Donnellan | [4.25](https://www.goodreads.com/book/show/611466.The_Actor_and_the_Target) | 2006 |  
  |  眨眼之间：电影编辑的视角|  Walter Murch | [4.24](https://www.goodreads.com/book/show/2141.In_the_Blink_of_an_Eye) | 1995 |  
  |  导演笔记：导演主席的130个领导课程|  Frank Hauser，Russell Reich | [4.21](https://www.goodreads.com/book/show/254808.Notes_on_Directing) |  |  
-| How to Stop Acting | Harold Guskin | [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
+ |  如何停止代理|  哈罗德古斯金| [4.17](https://www.goodreads.com/book/show/808735.How_to_Stop_Acting) | 2003 |  
  |  演员实用手册|  Melissa Bruder，Lee Michael Cohn，Madeleine Olnek，Nathaniel Pollack，Robert Previtio，Scott Zigler，David Mamet | [3.87](https://www.goodreads.com/book/show/166207.A_Practical_Handbook_for_the_Actor) | 1986 |  
 
 ## Shakespeare
@@ -325,12 +326,12 @@
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
  |  大师和玛格丽塔|  米哈伊尔·布尔加科夫| [4.32](https://www.goodreads.com/book/show/117833.The_Master_and_Margarita) | 1996 |  
- |  无限是|  大卫福斯特华莱士| [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1995 |  
+ |  无限是|  大卫福斯特华莱士 [4.31](https://www.goodreads.com/book/show/6759.Infinite_Jest) | 1995 |  
  |  卡拉马佐夫兄弟|  Fyodor Dostoevsky，Richard Pevear，Larissa Volokhonsky | [4.30](https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov) | 2002 |  
  |  傲慢与偏见|  简奥斯汀| [4.24](https://www.goodreads.com/book/show/1885.Pride_and_Prejudice) | 2000 |  
  |  为Owen Meany祷告|  约翰欧文| [4.22](https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany) | 1990 |  
  |  来自地球的信件|  马克吐温| [4.22](https://www.goodreads.com/book/show/37813.Letters_from_the_Earth) | 2004 |  
- |  一只飞过咕咕巢|  Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
+| One Flew Over the Cuckoo's Nest | Ken Kesey | [4.18](https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest) | 1963 |  
  |  犯罪与惩罚|  费奥多尔陀思妥耶夫斯基| [4.18](https://www.goodreads.com/book/show/7144.Crime_and_Punishment) | 2002 |  
  |  荒原狼：小说|  Hermann Hesse，Basil Creighton | [4.11](https://www.goodreads.com/book/show/16631.Steppenwolf) | 1999 |  
  |  玻璃珠游戏|  Hermann Hesse，Richard和Clara Winston | [4.11](https://www.goodreads.com/book/show/16634.The_Glass_Bead_Game) | 2002 |  
@@ -353,7 +354,7 @@
  |  法律精神|  孟德斯鸠| [3.91](https://www.goodreads.com/book/show/29854007-de-l-esprit-des-lois-nouvelle-edition) | 1995 |  
  |  爱在霍乱时代|  GabrielGarcíaMarquéz| [3.9](https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera) | 1985 | 
  |  堂吉诃德|  米格尔·德塞万提斯| [3.85](http://www.goodreads.com/book/show/3836.Don_Quixote) | 2003 |  
-| Mansfield Park | Jane Austen | [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
+ |  曼斯菲尔德公园|  简奥斯汀| [3.84](https://www.goodreads.com/book/show/45032) | 2003 |  
  |  呼啸山庄|  艾米莉勃朗特| [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
  |  父亲Goriot |  HonorédeBalzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
  |  Huckleberry Finn历险记|  马克吐温| [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  
@@ -389,7 +390,7 @@
 |------|--------|------------------|----------------|  
  |  寂寞的鸽子|  Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1999 |  
  |  帮助|  凯瑟琳Stockett | [4.45](https://www.goodreads.com/book/show/4667024-the-help) |  |  
- |  书贼|  Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) |  |  
+| The Book Thief | Markus Zusak | [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) |  |  
  |  所有我们看不到的光  Anthony Doerr | [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
  |  地球的支柱|  Ken Follett | [4.29](https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth?from_search=true) | 2002 |  
  |  凯恩和亚伯|  杰弗里阿彻| [4.27](http://www.goodreads.com/book/show/78983.Kane_and_Abel) | 2004 |  
@@ -414,7 +415,7 @@
 ### Science Fiction
  |  名称|  作者|  Goodreads评分|  发布年份|  
 |------|--------|------------------|----------------|  
- |  火星人|  安迪威尔| [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
+<i>|</i> <b>|</b> <i>The Martian |</i> <b>火星人|</b> <i>Andy Weir |</i> <b>安迪威尔|</b> [4.40](https://www.goodreads.com/book/show/18007564-the-martian) | 2012 |
  |  Hitchhiker的银河系指南|  道格拉斯亚当斯| [4.38](http://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy) | 1979|
  |  Ready Player One |  欧内斯特克莱恩| [4.31](https://www.goodreads.com/book/show/9969571-ready-player-one) | 2011 |
  |  恩德的游戏 - 佐贺|  奥森斯科特卡| [4.30](https://www.goodreads.com/search?utf8=%E2%9C%93&q=ender%27s+saga&search_type=books&search%5Bfield%5D=on) | 1994 |  

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="motion-open-source/awesome-rubymotion"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
 	<img width="1024" src="https://raw.githubusercontent.com/motion-open-source/awesome-rubymotion/raw/master/awesome-rubymotion2x.png" alt="Awesome RubyMotion">
 	<br>
@@ -101,7 +102,7 @@
 
 
 ### Apple API Wrappers
-* [Motion.h](https://github.com/kastiglione/motion.h) - 在RubyMotion中展示iOS和macOS系统库.
+* [Motion.h](https://github.com/kastiglione/motion.h) - Expose iOS and macOS system libraries in RubyMotion.
 * [MapKitWrapper](https://github.com/weibel/MapKitWrapper) - 使用MapMit处理RubyMotion不那么痛苦.
 * [Medic](https://github.com/ryanlntn/medic)   -  HealthKit的冗长和复杂的API会让你发疯吗？  快！  你需要一名医生.
 * [Motion-accessibility](https://github.com/austinseraphin/motion-accessibility)   - 使辅助功能可访问.  RubyMotion围绕UIAccessibility协议进行包装.  轻松与Apple的一系列令人印象深刻的辅助技术进行互动，包括VoiceOver.
@@ -125,7 +126,7 @@
 
 ### Database
 * [Motion-firebase](https://github.com/colinta/motion-firebase) -  Firebase SDK的RubyMotion包装器.
-* [Yapper](https://github.com/kareemk/yapper) -  YAPDatabase的ORM，它是无模式的，速度非常快（由于YapDatabase的架构），具有可链接的标准，一对多的关系，即时重建索引并且是线程安全的.
+* [Yapper](https://github.com/kareemk/yapper) -  YAPDatabase的ORM，它是无模式的，非常快（由于YapDatabase的架构），具有可链接的标准，一对多的关系，即时重建索引并且是线程安全的.
 * [Couchmotion](https://github.com/jannishuebl/couchmotion) - 使用Couchbase（CouchDB）的一个API，一个带有Rubymotion for Android和iOS的无模式数据库.
 * [Motion-sqlite3](https://github.com/mattgreen/motion-sqlite3) - 针对RubyMotion的SQLite 3 C API的最小包装器.
 
@@ -136,7 +137,7 @@
 * [Motion_print](https://github.com/OTGApps/motion_print)   -  RubyMotion友好的控制台记录器和调试工具.  使用它将相当格式化的对象输出到REPL.
 * [Awesome_print_motion](https://github.com/michaeldv/awesome_print_motion) -  awesome_print gem到RubyMotion的端口.
 * [Motion-colorize](https://github.com/clayallsopp/motion-colorize) - 为RubyMotion输出添加一些颜色.
-* [Motion-xray](https://github.com/colinta/motion-xray) - 在您的应用程序内运行的iOS Inspector，因此您可以在实际情况下从您的设备进行调试和分析.
+* [Motion-xray](https://github.com/colinta/motion-xray) - 在您的应用内运行的iOS Inspector，因此您可以在实际情况下从您的设备进行调试和分析.
 
 
 ### Dependencies Management
@@ -227,7 +228,7 @@
 
 #### Hybrid
 * [Motion Floating Action Button](https://github.com/dam13n/motion-floating-action-button) - 材料设计浮动动作按钮.
-* [Motion-awesome](https://github.com/derailed/motion-awesome) - DSL to easily create buttons and labels using the wonderful font-awesome library.
+* [Motion-awesome](https://github.com/derailed/motion-awesome) - 使用精彩的字体 - 真棒库轻松创建按钮和标签的DSL.
 * [Motion-hybrid](https://github.com/balvig/motion-hybrid) -  RubyMotion框架，可轻松制作以Webview为中心的混合iOS应用程序.
 
 
@@ -284,7 +285,7 @@
 * [Under-os-image](https://github.com/under-os/under-os-image) -  http://under-os.com/项目的新简化图像处理API.
 * [MotionPanel](https://github.com/tombroomfield/motion_panel) - 围绕Mixpanel API的原生RubyMotion包装器.
 * [MotionPaddle](https://github.com/henderea/motion-paddle) -  Paddle框架的RubyMotion gem.
-* [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - Simple integration of Algolia Offline Search SDK (http://www.algolia.com/) in your RubyMotion application.
+* [Algolia Offline Search](https://github.com/algolia/motion-algolia-search) - 在您的RubyMotion应用程序中简单集成Algolia离线搜索SDK（http://www.algolia.com/）.
 
 
 ### Scheduling
@@ -309,7 +310,7 @@
 
 应用项目模板
 
-* [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - 清理RubyMotion项目，以快速模板样式化的应用程序.
+* [MotionTemplate](https://github.com/IconoclastLabs/MotionTemplate) - 清理RubyMotion项目，以快速模板化样式化的应用程序.
 * [Promotion-template](https://github.com/jamonholmgren/promotion-template) - 利用ProMotion的铃声和口哨声开始运行.
 * [Rubymotion_generators](https://github.com/andyw8/rubymotion_generators) - 为RubyMotion提供样板代码模板.
 * [Motion-template-spritekit](https://github.com/meganemura/motion-template-spritekit) -  RubyMotion的SpriteKit项目模板（iOS / OSX / tvOS）.
@@ -349,7 +350,7 @@
 
 * [Rubymotion Tutorial](http://rubymotion-tutorial.com) - 使用Ruby制作iOS应用程序.
 * [Fabric & RubyMotion Tutorial](https://medium.com/@sammybauch/making-fabric-play-nice-with-rubymotion-48a593ac22d4#.uxe9mmczw) - 使用RubyMotion使Fabric玩得很好.
-* [Facebook iOS SDK](http://gavinmorrice.com/blog/posts/30-how-to-use-the-facebook-ios-sdk-in-your-rubymotion-project) - 如何在RubyMotion项目中使用Facebook iOS SDK.
+* [Facebook iOS SDK](http://gavinmorrice.com/blog/posts/30-how-to-use-the-facebook-ios-sdk-in-your-rubymotion-project) - How To Use the Facebook iOS SDK In Your RubyMotion project.
 * [RubyMotion Tutorial for Objective C Developers](http://hboon.com/rubymotion-tutorial-for-objective-c-developers/) - 获得经验丰富的Objective C开发人员.
 
 
@@ -369,7 +370,7 @@
 
 ### Tutorial Screencasts
 
-* [Motion in Motion](https://motioninmotion.tv) - 支付RubyMotion截屏视频，偶尔免费插播，让群众享受.
+* [Motion in Motion](https://motioninmotion.tv) - 支付RubyMotion截屏视频，偶尔免费插曲，供群众欣赏.
 * [Motion Casts](http://motioncasts.com) - 学习使用Ruby创建本机iOS应用程序.
 * [IOS Development with RubyMotion](https://www.youtube.com/playlist?list=PLid95FTT3ehjnlpwXbM0a_pcPW0eiXtky) - 来自Kingsley Ijomah的YouTube频道.
 * [RubyMotion Primer](https://pragmaticstudio.com/screencasts/rubymotion) - 希望你能用Ruby创建iOS应用程序吗？
@@ -411,4 +412,4 @@
 
 ## Other Awesome Lists
 
-其他令人惊讶的精彩列表可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）列表.
+其他惊人的令人敬畏的名单可以在 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]（https://github.com/sindresorhus/awesome）列表.

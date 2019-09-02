@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="meitar/awesome-lockpicking"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;与锁，保险箱和密钥的安全性和危害相关的精彩指南，工具和其他资源的精选列表.
@@ -24,7 +25,7 @@
 * [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html)   - 由塑料材料制成的打印锁扣，虽然很弱，但至少可以使用几次.  （[Find more digital models](https://www.yeggi.com/q/lockpick/).)
 * [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - 从挡风玻璃刮水器制造定制锁镐和张力扳手的图解指南.
 * [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - 使用废弃的清道夫刷毛作为双面车刀和镐材料的说明.
-* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - 将旧挡风玻璃刮水器转换成各种锁镐类型和车削工具类型的说明.
+* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - 将旧挡风玻璃刮水器转变为各种锁镐类型和车削工具类型的说明.
 * [Under Door Tool Kit Instructions](https://web.archive.org/web/20170719053154/http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - 使用典型五金店提供的材料构建门下（“杠杆开口”/“骡子”）工具的简短指南.
 
 ## How-to lockpicking guides
@@ -35,10 +36,10 @@
 * [CIA Lock Picking Field Operative Training Manual](https://archive.org/details/CIA_Lock_Picking_Field_Operative_Training_Manual) - 指南，涵盖术语，工具使用和挑选绝大多数销和晶圆制动栓锁的技术.
 * [Deviant Ollam's Lockpicking Video Presentations and Advisories](http://deviating.net/lockpicking/videos.html) - 从世界知名专家那里收集所有技能水平的physec讲座和锁定港口建议.
 * [Easy Pickings - Mini Lockpicking Manual](http://index-of.es/Lockpicking/Easy%20Pickings%20-%20Mini%20Lockpicking%20Manual.pdf) - 广泛分发的初学者手册，其中的图表展示了如何选择各种入门级锁.
-* [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) -  Ted the Tool的着名介绍性文字.
+* [MIT Lock Picking Guide](https://webunraveling.com/public/mit-lock-picking-guide/index.php) -  Ted the Tool着名的介绍性文字.
 * [Lock Picking: Detail Overkill](https://web.archive.org/web/20170730120626/http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - 对于那些不仅仅需要基础知识的人来说，这是一个非常全面的指南.
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - 从基本张紧到专业锁定技术的完整从头到尾的课程.
-* [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - 一本漫画书风格的Locksport底漆，带有照片和气泡.
+* [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - 具有照片和气泡的漫画书风格的Locksport底漆.
 
 ## Locksport associations and organizations
 
@@ -70,6 +71,6 @@
 * [Safe Ventures, Inc.](http://safeventures.com/) - 安全开放工具的零售商，也提供有偿培训课程.
 * [Security Snobs](https://securitysnobs.com/) - 许多高安全性，收集器和切割锁的零售商，他们还维护一些关于锁匠的信息页面.
 * [Southern Ordinance / Exit 10, Inc.](https://www.southord.com/)   - SouthOrd®是锁具和专业锁匠工具的制造商;  个人更换选择低至1.50美元.
-* [Southern Specialities](http://www.lockpicktools.com/) - 拥有众多开锁装置，拣货枪等的零售商.
+* [Southern Specialities](http://www.lockpicktools.com/) - 零售商提供众多防弹套装，镐枪等.
 * [Sparrows Lock Picks](https://www.sparrowslockpicks.com/)   - 专业和质量锁具工具制造商;  其 [King Pin](http://www.sparrowslockpicks.com/product_p/t1.htm) 钉住镊子特别有用.
 * [Spooxe](http://spooxe.com/) - 德国零售商的锁具，工具箱和锁具.

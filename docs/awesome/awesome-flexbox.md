@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="afonsopacifer/awesome-flexbox"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![awesome flexbox](https://raw.githubusercontent.com/afonsopacifer/awesome-flexbox/master/awesome-flexbox.jpg)](https://github.com/afonsopacifer/awesome-flexbox/)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
@@ -165,7 +166,7 @@
 * [Post Apocalypse Flexbox](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 * [React-flexbox](https://github.com/tcoopman/react-flexbox) - 实现css flexbox与内联样式的反应.
 * [Reflexbox](https://github.com/jxnblk/reflexbox) - 响应式React flexbox网格系统更高阶组件.
-* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - 单独用CSS解决难以或无法解决的问题的展示，现在使用Flexbox很容易解决.：metal：
+* [Solved by flexbox](https://github.com/philipwalton/solved-by-flexbox) - 单独用CSS解决难以或无法解决的问题的展示，现在使用Flexbox轻松解决.：metal：
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - 一个简洁的小CodePen演示，可以使用Flex属性.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) -  zeef上的精彩flexbox ::metal：
 * [Flexbox Zombies](http://flexboxzombies.com/p/flexbox-zombies) - 学习CSS flexbox的游戏.

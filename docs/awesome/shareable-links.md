@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="vinkla/shareable-links"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Shareable Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <img src="https://cloud.githubusercontent.com/assets/499192/18660063/c6497820-7f0e-11e6-9d3f-c728227516cb.png" align="right" alt="awesome share links" width="280">

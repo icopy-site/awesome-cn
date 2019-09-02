@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="beardicus/awesome-plotters"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Plotters [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 为计算机控制的绘图机和其他视觉艺术机器人提供的精选代码和资源列表.
@@ -22,7 +23,7 @@
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) - 转动所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc)  使用grbl固件进入基于G代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
+- [grblShield](https://github.com/synthetos/grblShield) - 转动所需的所有步进电机控制硬件 [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)   - 更加功能强大的6轴G代码运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) - 适用于Arduino的Grbl兼容步进电机控制屏蔽，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)   - 带步进控制器的Raspberry Pi附加板和运行grbl的微控制器.  与Pi的串行引脚接口.
@@ -132,7 +133,7 @@ HPGL是一种基于串行/文本的协议，大多数旧笔绘图仪使用，甚
 
 - [Summary of single line fonts](http://imajeenyus.com/computer/20150110_single_line_fonts/index.shtml) - 良好的信息和其他资源和字体的链接.
 - [Hershey Vector Font](http://paulbourke.net/dataformats/hershey)   - 来自60年代的矢量字体的`.fnt`格式.  包括字体原始数据格式的良好概述.
-- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) - C library and original font data for the Hershey fonts.
+- [hershey-fonts](https://github.com/kamalmostafa/hershey-fonts) -  Hershey字体的C库和原始字体数据.
 - [OneLineFonts.com](https://www.onelinefonts.com) - 可以购买一些单行字体的商业网站.
 
 ## Inspiration and Instruction

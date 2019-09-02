@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="wbinnssmith/awesome-promises"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <a href="https://promisesaplus.com/">
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
@@ -7,7 +8,7 @@
 
 &gt; JavaScript Promises的有用资源的精选列表
 
-灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  不要与其他令人敬畏的承诺相混淆，例如“我向你保证一百万美元”或“我保证你会保持健康，永远不必再去健身房”.
+灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  不要与其他令人敬畏的承诺相混淆，比如“我向你保证一百万美元”或“我保证你会保持健康，永远不必再去健身房”.
 
 
 
@@ -20,7 +21,7 @@
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) -  JavaScript本机承诺实现的基础知识.
 * [JavaScript with Promises](http://shop.oreilly.com/product/0636920032151.do)   - 来自O&#39;Reilly.  精炼到位.  使用原生和蓝鸟.
 * [Promise it won't hurt](https://github.com/stevekane/promise-it-wont-hurt) - 互动 [nodeschool](https://nodeschool.io/) 作坊
-* [ES6 Kata Promises](http://es6katas.org/) -  Promises Katas： [Basics](http://tddbin.com/#?kata=es6/language/promise/basics)
+* [ES6 Kata Promises](http://es6katas.org/) - 身体承诺： [Basics](http://tddbin.com/#?kata=es6/language/promise/basics)
 * [ES6 Promises in Depth](https://ponyfoo.com/articles/es6-promises-in-depth)
 * [An Incremental Tutorial on Promises](http://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/) - 面向初学者的常见问题解答风格教程.
 
@@ -101,7 +102,7 @@
 * [p-try](https://github.com/sindresorhus/p-try) - `Promise#try()` ponyfill - Starts a promise chain
 * [p-finally](https://github.com/sindresorhus/p-finally) - `Promise#finally()` ponyfill - Invoked when the promise is settled regardless of outcome
 * [p-any](https://github.com/sindresorhus/p-any) - 等待任何承诺得到履行
-* [p-some](https://github.com/sindresorhus/p-some) - 等待达到指定数量的承诺
+* [p-some](https://github.com/sindresorhus/p-some) - Wait for a specified number of promises to be fulfilled
 * [p-pipe](https://github.com/sindresorhus/p-pipe) - 将promise-returns和async函数编写到可重用的管道中
 * [p-each-series](https://github.com/sindresorhus/p-each-series) - 连续迭代承诺
 * [p-map-series](https://github.com/sindresorhus/p-map-series) - 按顺序映射承诺

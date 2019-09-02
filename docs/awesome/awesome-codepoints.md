@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="Codepoints/awesome-codepoints"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一个精选的Unicode字符列表，有趣（和
@@ -34,7 +35,7 @@
     这导致了各种有趣的行为.
 * [U+FFFD](https://codepoints.net/U+FFFD) 替换字符 - 当a
     字符无法显示（例如，解码错误的UTF-8顺序），
-    this code point steps into the breach.
+    此代码点进入违规行为.
 * [U+1D455](https://codepoints.net/U+1D455)  不见了.  这将是一个斜体
      小“h”.  它没有编码，因为它与普朗克相同
     常数ℎ（[U+210E](https://codepoints.net/U+210E)).
@@ -80,7 +81,7 @@
     表情符号， [U+1F3FB to U+1F3FF](https://codepoints.net/U+1F3FB..U+1F3FF).
     它们被称为“表情符号修饰符Fitzpatrick类型”1至6，其中1表示最佳
      而最黑暗的6.  如果其中一个字符跟随表情符号，即表情符号
-    意图以[Fitzpatrick的适当肤色]呈现
+    is meant to be rendered in the appropriate skin color of [the Fitzpatrick
      规模（https://en.wikipedia.org/wiki/Fitzpatrick_scale）.  如果没有这样的话
      添加修饰语，肤色应该不自然，例如：  g.，亮黄色.
     有趣的事实：由于Fitzpatrick修饰符是正常的代码点，表情符号

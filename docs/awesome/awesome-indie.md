@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mezod/awesome-indie"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 帮助独立开发者赚钱的资源.
 
@@ -149,7 +150,7 @@
 
 - **[David Heinemeier Hansson at Startup School 08](https://www.youtube.com/watch?v=0CDXJ6bMkMY)** [David Heinemeier Hansson](https://twitter.com/dhh)
 
-  Bootstrapping as the better alternative to VC funded startups.
+  引导作为VC资助初创公司的更好选择.
   
 - **[Tyler Tringas on Storemapper and MicroSaaS](https://www.youtube.com/watch?v=i3d1asTrWUQ)** [Tyler Tringas](https://twitter.com/tylertringas)
 
@@ -407,7 +408,7 @@
  - &#39;在哪里宣传我的项目&#39;
  - “付费广告的效果更好”
  - &#39;我有100个用户，如何成长&#39;
- - &#39;我如何处理支持&#39;
+ - 'how do i deal with support'
  - “各类数码产品”
  - &#39;法律方面&#39;
  <!-- https://termsfeed.com -->

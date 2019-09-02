@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="igorbarinov/awesome-data-engineering"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的数据工程
 ==========================
 
@@ -61,7 +62,7 @@
 	* [Druid](https://github.com/apache/incubator-druid) 面向列的分布式数据存储非常适合为交互式应用程
 	* [Riak-TS](http://basho.com/products/riak-ts/) Riak TS是唯一专门针对物联网和时间序列数据进行优化的企业级NoSQL时间序列数据库
 	* [Akumuli](https://github.com/akumuli/Akumuli)  Akumuli是一个数字时间序列数据库.  它可用于实时捕获，存储和处理时间序列数据.  “akumuli”这个词可以从世界语翻译为“积累”.
-	* [Rhombus](https://github.com/Pardot/Rhombus) Cassandra的时间序列对象存储库，用于处理构建宽行索引的所有复杂性.
+	* [Rhombus](https://github.com/Pardot/Rhombus) Cassandra的时间序列对象存储，用于处理构建宽行索引的所有复杂性.
 	* [Dalmatiner DB](https://github.com/dalmatinerdb/dalmatinerdb) 快速分布式度量数据库
 	* [Blueflood](https://github.com/rackerlabs/blueflood) 用于摄取和处理时间序列数据的分布式系统
 	* [Timely](https://github.com/NationalSecurityAgency/timely) Timely是一个时间序列数据库应用程序，提供基于Accumulo和Grafana的时间序列数据的安全访问.
@@ -101,10 +102,10 @@
 	* [smart_open](https://github.com/RaRe-Technologies/smart_open) 用于流式传输大型文件的工具（S3，HDFS，gzip，bz2）
 * [Alluxio](https://www.alluxio.org/) Alluxio是一个以内存为中心的分布式存储系统，可以跨群集框架以内存速度实现可靠的数据共享，例如Spark和MapReduce
 * [CEPH](https://ceph.com/) Ceph是一个统一的分布式存储系统，旨在实现出色的性能，可靠性和可扩展性
-* [OrangeFS](https://www.orangefs.org/) Orange File System是并行虚拟文件系统的一个分支
+* [OrangeFS](https://www.orangefs.org/) Orange File System is a branch of the Parallel Virtual File System
 * [SnackFS](https://github.com/tuplejump/snackfs-release) SnackFS是我们在Cassandra上构建的一口大小，轻量级的HDFS兼容文件系统
 * [GlusterFS](https://www.gluster.org/) Gluster文件系统
-* [XtreemFS](http://www.xtreemfs.org/) fault-tolerant distributed file system for all storage needs
+* [XtreemFS](http://www.xtreemfs.org/) 容错的分布式文件系统，满足所有存储需求
 * [SeaweedFS](https://github.com/chrislusf/seaweedfs)  Seaweed-FS是一个简单且高度可扩展的分布式文件系统.  有两个目标：存储数十亿个文件！  快速提供文件！  Seaweed-FS选择仅实现一个key~文件映射，而不是支持完整的POSIX文件系统语义.  与“NoSQL”一词类似，您可以将其称为“NoFS”.
 * [S3QL](https://github.com/s3ql/s3ql/) S3QL是一个文件系统，使用Google Storage，Amazon S3或OpenStack等存储服务在线存储其所有数据.
 * [LizardFS](https://lizardfs.com/) LizardFS软件定义存储是一种分布式，并行，可扩展，容错，Geo-Redundant和高可用性文件系统.
@@ -146,7 +147,7 @@
 * [Tez](https://tez.apache.org/) 一个应用程序框架，允许处理数据的任务的复杂的有向非循环图.
 * [Bistro](https://github.com/asavinov/bistro)  是一种轻量级引擎，用于通用数据处理，包括批处理和流分析.  它基于一种新颖的独特数据模型，它通过* functions *表示数据，并通过* columns操作*处理数据，而不是只在MapReduce或SQL等传统方法中设置操作.
 - 批量ML
-	* [H2O](https://www.h2o.ai/) Fast scalable machine learning API for smarter applications.
+	* [H2O](https://www.h2o.ai/) 适用于智能应用的快速可扩展机器学习API.
 	* [Mahout](https://mahout.apache.org/) 一种快速创建可扩展的高性能机器学习应用程序的环境.
 	* [Spark MLlib](https://spark.apache.org/docs/latest/ml-guide.html) Spark的可扩展机器学习库由通用学习算法和实用程序组成，包括分类，回归，聚类，协同过滤，降维，以及底层优化原语.
 - 批量图
@@ -182,7 +183,7 @@
 * [Airflow](https://github.com/apache/airflow) Airflow是一个程序化编写，计划和监控数据管道的系统.
 * [Azkaban](https://azkaban.github.io/)  Azkaban是在LinkedIn上创建的批处理工作流作业调度程序，用于运行Hadoop作业.  Azkaban通过作业依赖性解决订单，并提供易于使用的Web用户界面来维护和跟踪您的工作流程. 
 * [Oozie](https://oozie.apache.org/) Oozie是一个用于管理Apache Hadoop作业的工作流程调度程序系统
-* [Pinball](https://github.com/pinterest/pinball)  基于DAG的工作流管理器.  工作流程在Python中以编程方式定义.  支持在作业之间传递输出.
+* [Pinball](https://github.com/pinterest/pinball) DAG based workflow manager. Job flows are defined programmaticaly in Python. Support output passing between jobs.
 
 ## ELK Elastic Logstash Kibana
 * [docker-logstash](https://github.com/pblittle/docker-logstash) 一个高度可配置的logstash（1.4.4）docker镜像，运行Elasticsearch（1.7.0）和Kibana（3.1.2）.

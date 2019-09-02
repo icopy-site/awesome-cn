@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mfornos/awesome-microservices"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 微服务架构相关原理和技术的精选列表.
@@ -34,7 +35,7 @@
 - [GPars](https://github.com/GPars/GPars) -  JVM的并发和并行框架.
 - [Grenache](https://github.com/bitfinexcom/grenache) - 基于Bittorent-DHT的微服务框架，支持多个传输上的REQ / REP和PUB / SUB模式.
 - [Ice](https://zeroc.com/) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python, and more.
-- [Lagom](https://github.com/lagom/lagom) - Reactive microservices for the JVM.
+- [Lagom](https://github.com/lagom/lagom) -  JVM的反应性微服务.
 - [Light-4j](https://github.com/networknt/light-4j) - 高吞吐量，低延迟，小内存占用和更高效的微服务平台.
 - [Micro](https://micro.mu/) - 微服务开发运行时.
 - [Microserver](https://github.com/aol/micro-server) -  Java 8本机，零配置，基于标准，战斗强化库，以运行Java REST微服务.
@@ -110,7 +111,7 @@
 - [Goa](https://github.com/goadesign/goa) -  Go中基于设计的HTTP微服务.
 - [Gocraft](https://github.com/gocraft/web)   - 用于构建Web应用程序的工具包.  包括路由，中间件堆栈，日志记录和监控.
 - [Goji](https://goji.io/) -  Go的简约灵活的请求多路复用器.
-- [Go kit](https://github.com/go-kit/kit) - Distributed programming toolkit for microservices in the modern enterprise.
+- [Go kit](https://github.com/go-kit/kit) - 用于现代企业中微服务的分布式编程工具包.
 - [Go-micro](https://github.com/micro/go-micro) - 可插拔的RPC微服务框架.
 - [Gopencils](https://github.com/bndr/gopencils) - 使用Go轻松使用REST API.
 - [Gorilla](http://www.gorillatoolkit.org/) -  Go编程语言的Web工具包.
@@ -151,7 +152,7 @@
 - [Armeria](https://line.github.io/armeria/) - 基于Java 8，Netty，Thrift和gRPC构建的开源异步HTTP / 2 RPC / REST客户端/服务器库.
 - [Disruptor](https://github.com/LMAX-Exchange/disruptor) - 高性能的线程间消息传递库.
 - [Dropwizard](https://dropwizard.github.io/) - 用于开发操作友好，高性能，RESTful Web服务的Java框架.
-- [Dubbo](http://dubbo.io/) - 由阿里巴巴开源的高性能，基于Java的RPC框架.
+- [Dubbo](http://dubbo.io/) - A high-performance, java based RPC framework open-sourced by Alibaba.
 - [HTTP Remoting](https://github.com/palantir/http-remoting) - 用于定义和创建基于Feign或Retrofit作为客户端的RESTish / RPC服务器和客户端的库以及具有JAX-RS服务定义作为服务器的Dropwizard / Jersey.
 - [Ja-micro](https://github.com/Sixt/ja-micro) - 用于构建微服务的轻量级Java框架（与go-micro兼容）.
 - [Jersey](https://jersey.github.io/)   -  Java中的RESTful服务.  JAX-RS参考实现.
@@ -176,15 +177,15 @@
 - [Http4s](http://http4s.org/) -  HTTP的最小，惯用的Scala接口
 - [Play](https://www.playframework.com/) -  Java和Scala的高速Web框架.
 - [Scalatra](http://scalatra.org/) - 简单，易用和免费的网络微框架.
-- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - 用于在Scala中构建servlet应用程序的Micro-web框架.
-- [Squbs](http://paypal.github.io/squbs/) - A suite of components enabling standardization and operationalization of Akka and Akka HTTP applications/services in a large scale, managed, cloud environment.
+- [Skinny Micro](https://github.com/skinny-framework/skinny-micro) - Micro-web framework to build servlet applications in Scala.
+- [Squbs](http://paypal.github.io/squbs/) - 一套组件，可在大规模，受管理的云环境中实现Akka和Akka HTTP应用程序/服务的标准化和操作.
 
 ### Node.js
 
 - [Actionhero](http://www.actionherojs.com/) - 具有集成集群功能和延迟任务的多传输Node.js API服务器.
 - [Baucis](https://github.com/wprl/baucis) - 构建和维护可扩展的HATEOAS / Level 3 REST API.
 - [ClaudiaJS](https://claudiajs.com/) - 易于将Node.js项目部署到AWS Lambda和API Gateway.
-- [Cote](https://github.com/dashersw/cote) - 用于构建零配置微服务的Node.js库.
+- [Cote](https://github.com/dashersw/cote) - A Node.js library for building zero-configuration microservices.
 - [Express](http://expressjs.com/) -  Node.js的快速，无偏见，极简主义的Web框架
 - [Fastify](https://www.fastify.io/) - 为Node.js提供快速且低开销的Web框架.
 - [FeathersJS](http://feathersjs.com/) - 适用于现代应用程序的开源REST和实时API层.
@@ -327,7 +328,7 @@
 - [Fenzo](https://github.com/Netflix/Fenzo) -  Mesos框架的可扩展调度程序.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler)   - 用于企业级工作负载自动化的开源解决方案.  它用于启动可执行文件和shell脚本以及自动运行数据库过程.
 - [Rundeck](http://rundeck.org/)   - 作业调度程序和Runbook自动化.  启用对现有脚本和工具的自助访问.
-- [Schedulix](http://www.schedulix.org/en) - Open source enterprise job scheduling system lays down ground-breaking standards for the professional automation of IT processes in advanced system environments.
+- [Schedulix](http://www.schedulix.org/en) - 开源企业作业调度系统为高级系统环境中IT流程的专业自动化奠定了突破性的标准.
 
 ### Logging
 
@@ -373,7 +374,7 @@
 - [Grafana](http://grafana.org/) -  Graphite，InfluxDB和OpenTSDB的开源，功能丰富的指标仪表板和图形编辑器.
 - [Graphite](http://graphite.wikidot.com/) - 可扩展的实时图形.
 -  [IOpipe！[c]]（https://www.iopipe.com/） -  Amazon Lambda的应用程序性能监控.
-- [Jaeger](https://www.jaegertracing.io/) - 开源，端到端的分布式跟踪
+- [Jaeger](https://www.jaegertracing.io/) - An open source, end-to-end distributed tracing
 - [Microservice Graph Explorer](https://github.com/hootsuite/microservice-graph-explorer) - 使用真实的应用程序连接实时导航和浏览应用程序中的所有微服务.
 - [Parallec](https://github.com/eBay/parallec) - 快速并行异步HTTP / SSH / TCP / Ping客户端Java库.
 - [Prometheus](http://prometheus.io/) - 开源服务监控系统和时间序列数据库.
@@ -491,7 +492,7 @@
 - [Aglio](https://github.com/danielgtaylor/aglio) - 具有主题支持的API Blueprint渲染器，可输出静态HTML.
 - [API Blueprint](https://apiblueprint.org/)   - 适用于整个API生命周期的工具.  用它来与他人讨论您的API.  自动生成文档.  或者是测试套件.  甚至是一些代码.
 - [Apidoc](https://github.com/mbryzek/apidoc) -  REST服务的美丽文档.
-- [RAML](http://raml.org/) - RESTful API Modeling Language, a simple and succinct way of describing practically-RESTful APIs.
+- [RAML](http://raml.org/) -  RESTful API建模语言，一种简单而简洁的描述实际RESTful API的方法.
 - [ReDoc](https://github.com/Rebilly/ReDoc) -  OpenAPI / Swagger生成的API文档.
 - [Slate](https://github.com/tripit/slate) - 适用于API的精美静态文档.
 - [Spring REST Docs](http://projects.spring.io/spring-restdocs/) - 通过将手写文档与使用Spring MVC Test生成的自动生成的片段相结合，记录RESTful服务.
@@ -502,7 +503,7 @@
 ### World Wide Web
 
 - [W3C.REC-Webarch](http://www.w3.org/TR/webarch/) - 万维网架构，第一卷.
-- [RFC3986](https://tools.ietf.org/html/rfc3986) - 统一资源标识符（URI）：通用语法.
+- [RFC3986](https://tools.ietf.org/html/rfc3986) - Uniform Resource Identifier (URI): Generic Syntax.
 - [RFC6570](https://tools.ietf.org/html/rfc6570) -  URI模板.
 - [RFC7320](https://tools.ietf.org/html/rfc7320) -  URI设计和所有权.
 
@@ -527,7 +528,7 @@
 ### RPC
 
 - [BERT-RPC 1.0](http://bert-rpc.org/) - 尝试指定与动态语言的哲学兼容的灵活二进制序列化和RPC协议.
-- [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - 无状态，轻量级远程过程调用（RPC）协议.
+- [JSON-RPC 2.0](http://www.jsonrpc.org/specification) - A stateless, light-weight remote procedure call (RPC) protocol.
 
 ### Messaging
 
@@ -550,7 +551,7 @@
 
 ### Service Discovery
 
-- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07) - The JSON Hypertext Application Language (HAL) is a standard which establishes conventions for expressing hypermedia controls, such as links, with JSON. <sup>DRAFT</sup>
+- [HAL](https://tools.ietf.org/html/draft-kelly-json-hal-07)   -  JSON超文本应用程序语言（HAL）是一种标准，它建立了使用JSON表达超媒体控件（如链接）的约定.  <sup>草案</sup>
 - [Hydra](http://www.hydra-cg.com/) - 可互操作，超媒体驱动的Web API规范.
 - [GraphQL](http://graphql.org/)   - 用于构建客户端应用程序的查询语言，通过提供直观，灵活的语法和系统来描述其数据需求和交互.  <sup>草案</sup>
 - [WADL](http://www.w3.org/Submission/wadl/) -  Web应用程序描述语言规范.
@@ -610,7 +611,7 @@
 - [CAP Theorem](http://blog.thislongrun.com/2015/03/the-cap-theorem-series.html) - 声明分布式计算机系统不可能同时提供以下所有三个保证：一致性，可用性和分区容差.
 - [Cloud Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)   - 包含二十四种在云托管应用程序中有用的设计模式.  包括：断路器，竞争消费者，CQRS，事件采购，关守，缓存旁边等.
 - [Microservice Architecture](http://martinfowler.com/articles/microservices.html) - 将软件应用程序设计为可独立部署的服务的特定方式.
-- [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - Similarities, differences, and where we go from here.
+- [Microservices and SOA](http://www.oracle.com/technetwork/issue-archive/2015/15-mar/o25architect-2458702.html) - 相似之处，差异以及我们从这里开始的地方.
 - [Microservices – Please, don’t](http://basho.com/posts/technical/microservices-please-dont/) - 关于微服务方法的一些问题的重要建议.
 - [Microservices RefCard](https://dzone.com/refcardz/getting-started-with-microservices) - 微服务入门.
 - [Microservices Trade-Offs](http://martinfowler.com/articles/microservice-trade-offs.html) - 思考mircoservices建筑风格的成本和收益指南.
@@ -633,7 +634,7 @@
 - [Developing a RESTful Microservice in Python](http://www.skybert.net/python/developing-a-restful-micro-service-in-python/) - 一个关于如何用Python和Flask构建的微服务取代老化的Java项目的故事.
 - [Developing and Testing Microservices With Docker](http://mherman.org/blog/2017/04/18/developing-and-testing-microservices-with-docker) - 创建简单的Docker打包的Node微服务所涉及的过程示例.
 - [Game On!](https://game-on.org/) - 在老式的基于文本的冒险游戏的背景下解释微服务架构.
-- [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - 关于无服务器架构的逐步演示驱动的讨论.
+- [Microservices without the Servers](https://aws.amazon.com/blogs/compute/microservices-without-the-servers/) - Step by step demo-driven talk about serverless architecture.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
 - [Reactive Microservices](https://github.com/theiterators/reactive-microservices) - 使用Scala，Akka，Play和Scala生态系统中的其他工具展示不同的微服务通信风格的项目.

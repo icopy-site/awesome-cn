@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="cyclejs-community/awesome-cyclejs"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 一系列令人敬畏的Cycle.js工具，资源，视频和闪亮的东西.
@@ -13,7 +14,7 @@
 
 ### Tutorials
 
-* [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - 发布MVI架构.
+* [What Developers Need to Know about MVI (Model-View-Intent)](http://thenewstack.io/developers-need-know-mvi-model-view-intent/) - Post on MVI architecture.
 * [Cycle.js: a reactive framework](https://lucamezzalira.com/2016/05/23/cycle-js-a-reactive-framework/) - 带有实时数据示例的Cycle.js简介.
 * [Building realtime applications with CycleJS and RxJS](https://blog.pusher.com/building-realtime-applications-with-cyclejs-and-rxjs/) - 了解如何使用CycleJS和RxJS构建实时应用程序
 * [Working with HTTP Streams with Cycle.js](http://ivanjov.com/working-with-http-streams-with-cycle-js/) - 了解如何使用Cycle.js处理HTTP请求和响应
@@ -36,7 +37,7 @@
 
 ### Slides
 
-* [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - 作者：ErykNapierała
+* [Cycle.js an honestly reactive framework for web user interfaces](http://slides.com/erykpiast/cycle) - 对于EricNapierała
 * [Intro to Cycle.js](http://www.slideshare.net/aryelukashevski/cyclejs-introduction) -  Arye Lukashevki
 * [Reactive Programming with Cycle.js](http://www.slideshare.net/flashplatform/reactive-programming-with-cyclejs) -  Luca Mezzalira
 * [Cycle.js - building apps with streams only](http://lmatteis.github.io/cyclejs-slides/keynote/index.html) -  Luca Matteis
@@ -65,14 +66,14 @@ http://oleg.fi/graafi/
 * [bahmutov/draw-cycle ★112](https://github.com/bahmutov/draw-cycle) - 计数器应用程序的交互式可视化，显示MVI组件内的数据流 [glebbahmutov.com/draw-cycle](https://glebbahmutov.com/draw-cycle/)
 * [andreloureiro/pomocycle ★21](https://github.com/andreloureiro/pomocycle) - 一个简单的番茄钟计时器.
 * [laszlokorte/tams-tools ★24](https://github.com/laszlokorte/tams-tools) - 用cycle.js构建的一套教学计算机科学工具.
-* [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) - 使用Cycle.js构建的Reactive Live London Tube列车状态示例.
+* [lucamezzalira/jsday-cycle-js ★16](https://github.com/lucamezzalira/jsday-cycle-js) -  Reactive Live London Tube列出了使用Cycle.js构建的状态示例.
 * [cyclejs-community/built-with-cycle ★9](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) 展示使用Cycle.js构建的酷项目
 * [class-ideas/cyclejs-hangman ★10](https://github.com/class-ideas/cyclejs-hangman) - 使用Cycle.js构建的刽子手游戏
 * [wmaurer/cyclejs-fractals ★15](https://github.com/wmaurer/cyclejs-fractals) - 跳舞毕达哥拉斯树分形 - 动画2048 SVG节点.
 * [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - 使用Cycle.js，RxJS和Virtual DOM测试的星球大战角色搜索应用程序.
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) -  React Native + Cycle.js应用程序，用于在Secure Scuttlebutt网络上实现社交网络
-* [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) -  AllMVC [example](https://cyclejs.github.io/todomvc-cycle/) 在Cycle.js中实现
-* [jefersondaniel/cyclejs-notes](https://github.com/jefersondaniel/cyclejs-notes/) - 使用Cycle.js和Orbit.js的Notes应用程序https://jefersondaniel.com/cyclejs-notes
+* [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) -  TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) 在Cycle.js中实现
+* [jefersondaniel/cyclejs-notes](https://github.com/jefersondaniel/cyclejs-notes/) - 使用Cycle.js和Orbit.js https://jefersondaniel.com/cyclejs-notes的Notes应用程序
 * [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - 通过Dat下载，安装和更新Android应用程序
 * [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - 使用CycleJS的Hackernews克隆
 * [lizraeli/cycle-github-emojis](https://github.com/lizraeli/cycle-github-emojis) - 使用Cycle.JS制作的github表情符号查看器 [webapp](https://github-emoji.levizraelit.com/)
@@ -132,7 +133,7 @@ http://oleg.fi/graafi/
 
 ### Utilities
 
-* [staltz/chai-virtual-dom ★24](https://github.com/staltz/chai-virtual-dom) - Chai assertion helpers to test virtual-dom VTrees
+* [staltz/chai-virtual-dom ★24](https://github.com/staltz/chai-virtual-dom) -  Chai断言助手测试虚拟dom VTrees
 * [cgeorg/sinject ★10](https://github.com/cgeorg/sinject) - 依赖注入工具，支持Cycle的循环依赖
 * [erykpiast/cyclejs-group ★20](https://github.com/erykpiast/cyclejs-group) -  CycleJS框架的实用程序，用于在创建流组时减少样板.
 * [erykpiast/cyclejs-wc ★2](https://github.com/erykpiast/cyclejs-wc) - 基于Cycle.js创建Web组件的实用程序

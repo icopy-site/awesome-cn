@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sublimino/awesome-funny-markov"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 这是一本精心策划的令人愉悦的马尔可夫链输出列表，灵感源自 [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
@@ -13,7 +14,7 @@
 
 ## Web and Tech
 
-- [Headline Smasher](http://www.headlinesmasher.com/best/all) - 通过粉碎真实头条新闻创造的假标题.
+- [Headline Smasher](http://www.headlinesmasher.com/best/all) - 通过粉碎真正的头条新闻创造的假标题.
 - [Subreddit Simulator](https://www.reddit.com/r/subredditsimulator) - 最令人困惑的subreddit（通常在头版）.
 - [Alternative Hacker News](https://news.ycombniator.com/) - 黑客新闻数据集吃掉了自己.
 - [Phaker News](http://lou.wtf/phaker-news/) - 黑客新闻的另一个旋转.
@@ -68,7 +69,7 @@
 
 - ["I Spent an Interesting Evening Recently with a Grain of Salt"](https://web.archive.org/web/20011101013348/http://www.sincity.com/penn-n-teller/pcc/shaney.html) -  The Original Prank（archive.org）.
 - [Mark V. Shaney's Website](https://web.archive.org/web/19970418070034/http://softway.com.au/people/mvs/) -  Mark V. Shaney最精彩的时刻（archive.org）.
-- [Fun With Markov Chains](http://www.eblong.com/zarf/markov/) - 以“爱丽丝在爱尔西诺：爱丽丝的书和哈姆雷特”和“圣爱丽丝的启示：爱丽丝的书籍，以及创世纪与启示录”为特色.
+- [Fun With Markov Chains](http://www.eblong.com/zarf/markov/) - 以“爱丽丝在爱尔西诺：爱丽丝的书和哈姆雷特”和“圣爱丽丝的启示：爱丽丝的书籍，以及创世纪和启示录”为特色.
 
 
 ## Sober applications

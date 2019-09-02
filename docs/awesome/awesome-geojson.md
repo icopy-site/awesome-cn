@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="tmcw/awesome-geojson"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 GeoJSON实用程序将使您的生活更轻松.
@@ -114,7 +115,7 @@ GeoJSON实用程序将使您的生活更轻松.
 
 * [python-geojson](https://github.com/frewsxcv/python-geojson)：序列化geojson到/从python数据类型
 * [rgeo-geojson](https://github.com/rgeo/rgeo-geojson)：序列化geojson到/来自ruby RGeo数据类型
-* [rust-geojson](https://github.com/georust/rust-geojson)：将geojson序列化为/从数据类型
+* [rust-geojson](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 * [geojson-jackson](https://github.com/opendatalab-de/geojson-jackson)：将GeoJSON与Java数据类型串行化（基于 [Jackson](http://wiki.fasterxml.com/JacksonHome))
 * [mapbox-java](https://github.com/mapbox/mapbox-java)：将GeoJSON与Java数据类型串行化（基于 [Gson](https://github.com/google/gson))
 

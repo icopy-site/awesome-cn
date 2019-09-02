@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="troxler/awesome-css-frameworks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CSS Frameworks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 令人敬畏的CSS框架列表.
@@ -19,7 +20,7 @@
   [Repo](https://github.com/csstools/sanitize.css)
   | #CSS
 
-- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展，可扩展，基于Sass的OOCSS框架，用于大型和持久的UI项目.  
+- [**inuitcss**](https://github.com/inuitcss/inuitcss) - 可扩展，可扩展，基于Sass的OOCSS框架，适用于大型和持久的UI项目.  
   ![](https://img.shields.io/github/stars/inuitcss/inuitcss.svg?style=social&label=Star)
   [Repo](https://github.com/inuitcss/inuitcss)
   | #SCSS
@@ -156,7 +157,7 @@
   [Repo](https://github.com/tachyons-css/tachyons/)
   | #CSS
 
-- [**Blaze UI**](https://www.blazeui.com) - 开源模块化工具包，通过可扩展和可维护的基础，为快速构建网站提供了很好的结构.  
+- [**Blaze UI**](https://www.blazeui.com) - 开源模块化工具包，通过可扩展和可维护的基础，为快速构建网站提供了良好的结构.  
   ![](https://img.shields.io/github/stars/BlazeUI/blaze.svg?style=social&label=Star)
   [Demo](https://www.blazeui.com/components/buttons/),
   [Docs](https://www.blazeui.com/getting-started/install),
@@ -212,7 +213,7 @@
   [Repo](https://github.com/Dogfalo/materialize)
   | #SCSS
 
-- [**MUI**](https://www.muicss.com) - 符合Google Material Design指南的轻量级CSS框架.  
+- [**MUI**](https://www.muicss.com) - 符合Google Material Design准则的轻量级CSS框架.  
   ![](https://img.shields.io/github/stars/muicss/mui.svg?style=social&label=Star)
   [Docs](https://www.muicss.com/docs/v1/getting-started/introduction),
   [Repo](https://github.com/muicss/mui)
@@ -336,7 +337,7 @@
   [Repo](https://github.com/imperavi/kube)
   | #SCSS
 
-- [**Concise CSS**](http://concisecss.com)   - 放弃膨胀.  停止绊倒你的课程.  简明扼要.  
+- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)

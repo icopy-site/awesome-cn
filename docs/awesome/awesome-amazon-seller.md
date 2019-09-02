@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ScaleLeap/awesome-amazon-seller"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Amazon Seller [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 &gt;亚马逊卖家的精选工具和资源列表.
@@ -9,7 +10,7 @@
 
 ## Software and Tools
 
-- [Amzmailer](https://amzmailer.com/) - Feedback software and email autoresponder to send Amazon customers automated emails.
+- [Amzmailer](https://amzmailer.com/) - 反馈软件和电子邮件自动回复，以向亚马逊客户发送自动电子邮件.
 - [aShop](https://ashop.co)   - 为亚马逊卖家提供轻松的微型网站.  营销工具，提供品牌商店体验，带来更多业务和最大化利润.
 - [ASINspector](https://asinspector.com/) - 销售趋势数据，独特的产品创意，移动扫描仪，畅销书排名.
 - [BQool](https://www.bqool.com/) - 预定重新定价，与买入价格竞争，全面的仪表板和报告，重新定价历史记录.
@@ -45,7 +46,7 @@
 - [EcomCrew Podcast](https://www.ecomcrew.com/ecomcrew-podcast/) - 真实世界的电子商务体验，没有任何在线营销的毛病！
 - [Follow The Data](https://viral-launch.com/follow-the-data-amazon-fba-seller-podcast.html)   - 由Cameron Yoder（病毒发射）主持.  此播客的目的是帮助您成功深入了解您自己的亚马逊卖家之旅，使用数据作为整个过程的锚点.
 - [Keyword: The Amazon Insider Podcast](http://keywordpodcast.com/)   - 由凯特·瓦伦丁主持.  仅向前任和现有亚马逊员工提供权威内容.
-- [Private Label Movement](https://privatelabelmovement.com/)   - 由Kevin Rizer主持.  对于凯文的有趣和非传统的采访风格，这个播客每周都会发布两集新节目.
+- [Private Label Movement](https://privatelabelmovement.com/) - Hosted by Kevin Rizer. No-nonsense down to earth feel, and for Kevin’s intriguing and unconventional interview style, the podcast publishes two new episodes each week.
 - [The Ecommerce Momentum](https://ecommercemomentum.com/)   - 由Stephen Peterson主持.  采访世界顶级亚马逊，eBay和电子商务卖家.
 - [The My Wife Quit Her Job Podcast](https://mywifequitherjob.com/category/podcast/)   - 由Steve Chou主持.  这是一个基于访谈的节目，史蒂夫带来了在线杀死它的小企业家.  展会上的所有企业家都开始自己的业务，并开始自己的企业，以某种方式改善他们的生活方式.
 
@@ -56,7 +57,7 @@
 - [SellerEngine](https://sellerengine.com/blog/) - 定期更新的博客，包含精彩的亚马逊帐户持有者文摘系列.
 - [SellerLabs](https://www.sellerlabs.com/blog/) - 来自SellerLabs的博客，其中有令人敬畏的ICYMI：亚马逊卖家新闻系列.
 - [Sellics](https://sellics.com/blog) -  Sellics为卖家提供战略建议.
-- [Tamebay](https://tamebay.com/) -  Tamebay是为所有企业和商业人士提供情报和新闻的领先提供商，他们在网络市场上进行交易，无论他们是寻求促进销售的有经验的powerellers，还是寻求建议和最佳实践的初学者.
+- [Tamebay](https://tamebay.com/) -  Tamebay是为所有企业和商业人士提供情报和新闻的领先提供商，他们在网络市场上进行交易，无论是经验丰富的想要促进销售的粉丝，还是寻求建议和最佳实践的初学者.
 - [WebRetailer](https://www.webretailer.com/) -  WebRetailer是卖家信息的宝库，也是网络上的主要资源之一.
 
 ## Other

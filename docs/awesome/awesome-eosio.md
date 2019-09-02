@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="DanailMinchev/awesome-eosio"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome EOSIO [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://raw.githubusercontent.com/DanailMinchev/awesome-eosio/master/eos-logo.png" alt="EOSIO" align="right" width="100">](https://eos.io/)
@@ -10,7 +11,7 @@
   EOSIO软件使企业能够快速构建和部署基于区块链的高性能和高安全性应用程序.
 </p>
 
-<p>Contributions welcome. Add links through pull requests or create an issue to start a discussion.</p>
+<p>  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论. </p>
 
 
 
@@ -360,7 +361,7 @@ EOSIO叉子.
 
 ## Contribute
 
- 欢迎捐款！  阅读 [contribution guidelines](https://github.com/DanailMinchev/awesome-eosio/blob/master/contributing.md) 第一.
+Contributions welcome! Read the [contribution guidelines](https://github.com/DanailMinchev/awesome-eosio/blob/master/contributing.md) 第一.
 
 
 ## License

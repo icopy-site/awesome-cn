@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="aliesbelik/awesome-jmeter"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JMeter 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md)
 
@@ -45,7 +46,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 ## Books
 
 - [Apache JMeter: A Practical Beginner's Guide to Automated Testing and Performance Measurement for Your Websites](http://books.google.by/books/about/Apache_JMeter.html?id=nX8oKIEvUcYC) 作者：Emily H. Halili（[Packt Publishing](https://www.packtpub.com/networking-and-servers/apache-jmeter)） - 为您的网站自动化测试和性能测量的实用初学者指南.
-- [Performance Testing with JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)) - Guide to test web applications using Apache JMeter with practical, hands-on examples.
+- [Performance Testing with JMeter 2.9](http://books.google.by/books?id=fpWmv3wPT64C) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-29)） - 使用Apache JMeter测试Web应用程序的指南，以及实用的动手实例.
 - [Performance Testing with JMeter, 2nd Edition](https://books.google.by/books?id=6ditCAAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/performance-testing-jmeter-second-edition))
 - [Performance Testing with JMeter 3, 3rd Edition](https://books.google.by/books?id=BedDDwAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/web-development/performance-testing-jmeter-3-third-edition))
 - [JMeter Cookbook](https://books.google.by/books?id=gJUeBQAAQBAJ) 作者：Bayo Erinle（[Packt Publishing](https://www.packtpub.com/application-development/jmeter-cookbook)） -  70个富有洞察力和实用的配方，帮助成功使用Apache JMeter.
@@ -162,7 +163,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开源的，纯Java应用程�
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) - 基于Web的应用程序，用于整理，分析和报告JMeter测试结果.
 -  DB结果收集器
     - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - 插件，可以将结果登录到数据库中，以实现更有效的报告.
-    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) - 修补程序以配置侦听器以登录MySQL数据库.
+    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
 
 ## Results Visualisation
 

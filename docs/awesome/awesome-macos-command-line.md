@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="herrbischoff/awesome-macos-command-line"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-macos-command-line/cab824f0/assets/logo.svg" alt="Awesome macOS Command Line" width="600"></h1>
 
 &gt;特定于OS X的shell命令和工具的精选列表.
@@ -178,7 +179,7 @@ defaults write com.apple.mail DisableInlineAttachmentViewing -bool yes
 
 set sizeAfter做shell脚本“ls -lnah~ / Library / Mail /”＆mail_version＆“/ MailData | grep -E&#39;Envelope Index $&#39;| awk {&#39;print $ 5&#39;}”
 
-display dialog ("Mail index before: " & sizeBefore & return & "Mail index after: " & sizeAfter & return & return & "Enjoy the new speed!")
+显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“邮件索引之后：”＆sizeAfter＆return＆return＆“享受新的速度！”）
 
 告诉应用程序“邮件”激活
 ```
@@ -372,7 +373,7 @@ xcrun simctl删除不可用
 
 #### Add a Space
 ```bash
-defaults write com.apple.dock persistent-apps -array-add&#39;{“tile-type”=“spacer-tile”;}&#39;&amp;&amp; \
+defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}' && \
 基拉尔码头
 ```
 
@@ -488,7 +489,7 @@ defaults write com.apple.dock scroll-to-open -bool true &amp;&amp; \
 在前面，但所有其他应用程序窗口将被隐藏.
 ```bash
 ## Enable
-默认写com.apple.dock single-app -bool true &amp;&amp; \
+defaults write com.apple.dock single-app -bool true && \
 基拉尔码头
 
 ## Disable (Default)
@@ -1226,7 +1227,7 @@ ssh-add -K / path / to / private_key
 然后添加到`〜/ .ssh / config`：
 ```bash
 主机server.example.com
-    IdentityFile / path / to / private_key
+    IdentityFile /path/to/private_key
     使用钥匙是
 ```
 
@@ -1258,7 +1259,7 @@ curl -s https://api.ipify.org&amp;&amp; echo
 ```
 
 #### Show Network Interface Information
-`scutil`命令的未记录标志.
+Undocumented flag of the `scutil` command.
 ```bash
 scutil  -  nwi
 ```
@@ -1747,7 +1748,7 @@ screencapture -T 3 -t jpg -P delayedpic.jpg
 ```
 
 #### Save Screenshots to Given Location
-Sets location to `~/Desktop`.
+将位置设置为“〜/ Desktop”.
 ```bash
 默认写com.apple.screencapture位置〜/桌面&amp;&amp; \
 killall SystemUIServer
@@ -1923,7 +1924,7 @@ chsh -s $（brew --prefix）/ bin / fish
 安装最新版本并设置为当前用户的默认shell：
 ```bash
 brew安装zsh &amp;&amp; \
-sudo sh -c 'echo $(brew --prefix)/bin/zsh >> /etc/shells' && \
+sudo sh -c&#39;echo $（brew --prefix）/ bin / zsh &gt;&gt; / etc / shells&#39;&amp;&amp; \
 chsh -s $（brew --prefix）/ bin / zsh
 ```
 
@@ -1939,7 +1940,7 @@ chsh -s $（brew --prefix）/ bin / zsh
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - 基于Vera字体的字体系列.
 - [Hack](http://sourcefoundry.org/hack/) -  Hack手工修饰，光学平衡，成为您的首选代码.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) - 等宽字体，专为代码清单等设计.
-- [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
+- [Input](http://input.fontbureau.com) - 专为代码设计的灵活字体系统.
 - [Meslo](https://github.com/andreberg/Meslo-Font) -  Apple的Menlo字体的定制版本.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - 一种令人惊讶的可用替代品，采用等宽字体（商业）.
 - [Powerline Fonts](https://github.com/powerline/fonts) -  Powerline插件的修补字体回购.
@@ -1958,7 +1959,7 @@ chsh -s $（brew --prefix）/ bin / zsh
  Mac OS X Public Beta |  科迪亚克|  2000年9月13日|  N / A
  Mac OS X 10.0 |  猎豹|  2001年3月24日|  10.4.4（2001年6月22日）
  Mac OS X 10.1 |  彪马|  2001年9月25日|  10.1.5（2002年6月6日）
- Mac OS X 10.2 |  捷豹|  2002年8月24日|  10.2.8（2003年10月3日）
+Mac OS X 10.2              | Jaguar             | August 24, 2002    | 10.2.8 (October 3, 2003)
  Mac OS X 10.3 |  豹|  2003年10月24日|  10.3.9（2005年4月15日）
  Mac OS X 10.4 |  老虎|  2005年4月29日|  10.10.11（2007年11月14日）
  Mac OS X 10.5 |  豹子|  2007年10月26日|  10.5.8（2009年8月5日）

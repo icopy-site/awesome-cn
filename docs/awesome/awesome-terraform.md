@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="shuaibiyy/awesome-terraform"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Terraform [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;策划的资源列表 [HashiCorp's Terraform](https://www.terraform.io/).
@@ -90,7 +91,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - 在AWS上创建Elastic Kubernetes服务（非常受欢迎的模块）.
 * [terraform-aws-elb](https://github.com/terraform-aws-modules/terraform-aws-elb) - 在AWS（已验证模块）上创建Elastic负载均衡器.
 * [terraform-aws-jenkins](https://github.com/cloudposse/terraform-aws-jenkins) - 使用Jenkins构建Docker镜像，将其保存到ECR仓库，并将其部署到运行Docker堆栈的Elastic Beanstalk.
-* [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - Automatically Generate SSH Key Pairs (Public/Private Keys).
+* [terraform-aws-key-pair](https://github.com/cloudposse/terraform-aws-key-pair) - 自动生成SSH密钥对（公钥/私钥）.
 * [terraform-aws-modules](https://github.com/terraform-aws-modules) - 社区支持的Terraform AWS模块的收集（包括官方AWS模块）.
 * [terraform-aws-postgresql-rds](https://github.com/azavea/terraform-aws-postgresql-rds) - 在RDS上创建PostgreSQL.
 * [terraform-aws-rds](https://github.com/terraform-aws-modules/terraform-aws-rds) - 在AWS（已验证模块）上创建RDS资源.
@@ -101,7 +102,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-azurerm-aks](https://github.com/kjanshair/terraform-azurerm-aks) - 在Azure上创建AKS resoutces.
 * [terraform-azurerm-iis](https://github.com/ghostinthewires/terraform-azurerm-iis-install) - 在Azure VM实例上安装IIS服务器.
 * [terraform-azurerm-mysql](https://github.com/foreverXZC/terraform-azurerm-mysql) - 在Azure上创建MySql数据库.
-* [terraform-azurerm-redis](https://github.com/rahulkhengare/terraform-azurerm-redis) - 在Azure上创建Redis.
+* [terraform-azurerm-redis](https://github.com/rahulkhengare/terraform-azurerm-redis) - Create Redis on Azure.
 * [terraform-azurerm-sqlserver](https://github.com/metadevpro/terraform-azurerm-sqlserver-seed) - 在Azure上创建SQl服务器数据库.
 * [terraform-digitalocean-droplet](https://registry.terraform.io/modules/terraform-digitalocean-modules/droplet/digitalocean) - 用于管理DigitalOcean Droplet和相关资源的Terraform模块.
 * [terraform-ecs-jenkins](https://github.com/shuaibiyy/terraform-ecs-jenkins) - 使用Terraform在AWS ECS上规定Jenkins.
@@ -144,7 +145,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 * [terraform-provider-uptimerobot](https://github.com/louy/terraform-provider-uptimerobot) - 提供管理uptimerobot资源的提供商.
 * [terraform-provider-vaulted](https://github.com/sumup-oss/terraform-provider-vaulted) - 加密的HashiCorp Vault通过Terraform保密，可以存储在SCM中，如Git.
 * [terraform-provider-vsphere](https://github.com/terraform-providers/terraform-provider-vsphere) - 适用于VMware vSphere的插件.
-* [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) - Provider for Dominos Pizza.
+* [terraform-provider-dominos](https://github.com/ndmckinley/terraform-provider-dominos) -  Dominos Pizza的提供者.
 * [terraform-provider-azuredevops](https://github.com/mikaelkrief/terraform-provider-azuredevops) -  Azure DevOps（VSTS）的提供商.
 * [terraform-provider-snowfake](https://github.com/chanzuckerberg/terraform-provider-snowflake) -  Snowflake数据仓库的提供商
 
@@ -158,7 +159,7 @@ Your [contributions](https://github.com/shuaibiyy/awesome-terraform/blob/master/
 
 ## Tools
 * [astro](https://github.com/uber/astro/) -  Astro是一种用于将多个Terraform执行作为单个命令进行管理的工具.
-* [atlantis](https://github.com/runatlantis/atlantis) - 通过GitHub在Terraform上进行协作的统一工作流程.
+* [atlantis](https://github.com/runatlantis/atlantis) - Unified workflow for collaborating on Terraform through GitHub.
 * [blast radius](https://github.com/28mm/blast-radius) -  Terraform依赖图的交互式可视化.
 * [fogg](https://github.com/chanzuckerberg/fogg) - 用于消除管理terraform存储库的辛劳的工具.
 * [geopoiesis](https://docs.geopoiesis.io/manual/) - 用于现代声明性基础设施供应和管理的专用持续集成和部署工具.

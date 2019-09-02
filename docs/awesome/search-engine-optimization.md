@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="marcobiedermann/search-engine-optimization"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -23,7 +24,7 @@
 
 -  ** 403：**提供403  - 访问被拒绝页面
 -  ** 404：**提供404  - 页面未找到页面
-- **[Custom Search](https://developers.google.com/structured-data/slsb-overview):** with Google Sitelink search box, people can reach your content more quickly
+- **[Custom Search](https://developers.google.com/structured-data/slsb-overview)：**使用Google Sitelink搜索框，人们可以更快地联系到您的内容
 -  **找不到文件：**避免“404 FILE_NOT_FOUND”错误
   -  **布局：**使用`divs`代替`tables`进行布局.  使用`tables`在语义上不正确.
 -  **移动网站：**通过`.htaccess`将所有链接重定向到新位置
@@ -119,7 +120,7 @@
 
 ### Webmasters
 
-- **[Bing Webmasters](http://www.bing.com/toolbox/webmaster):** allows webmasters to add their websites to the Bing index crawler.
+- **[Bing Webmasters](http://www.bing.com/toolbox/webmaster)：**允许网站管理员将他们的网站添加到Bing索引抓取工具.
 - **[Google Search Console (GWT)](https://www.google.com/webmasters/)：**允许网站管理员检查索引状态并优化其网站的可见性
 - **[Google Tag Manager](https://www.google.com/analytics/tag-manager/) ：**了解Google Analytics跟踪代码管理器以及它如何帮助简化您的生活和IT请求的需求.  只需点击几下即可启动新标签.
 
@@ -128,7 +129,7 @@
 - **[Ahrefs](https://ahrefs.com/) ：**分析网站，跟踪社交媒体，建立反向链接 -  Ahrefs让你了解.  立即尝试我们的营销和SEO工具Site Explorer和Content Explorer！
 - **[BuzzSumo](https://app.buzzsumo.com/research/most-shared)：**找到任何主题或域的最共享内容.
 - **[Followerwonk](https://moz.com/followerwonk)：**分析，生物搜索等工具
-- **[Google Analytics](https://www.google.com/analytics/)：**生成有关网站流量的详细统计信息
+- **[Google Analytics](https://www.google.com/analytics/):** generate detailed statistics about a website's traffic
 - **[Open Site Explorer](https://moz.com/researchtools/ose/) ：**使用Open Site Explorer识别链接构建机会.  研究反向链接，识别首页，查看社交活动以及分析锚文本.
 - **[Matomo](https://matomo.org/)：**一个开放的分析平台
 - **[SEMrush](https://www.semrush.com/)：** SEMrush是一个功能强大的多功能竞争情报套件，适用于在线营销，从SEO和PPC到社交媒体和视频广告研究.
@@ -198,7 +199,7 @@
 - **[SEO Warrior](http://shop.oreilly.com/product/9780596157081.do)：**提高Web可见性的基本技术
 - **[SEO: Marketing Strategies to Dominate the First Page](https://www.amazon.com/SEO-Marketing-Strategies-analytics-optimization-ebook/dp/B01ACB7LQM)：** Google Analytics，网站站长，网站流量，Adwords，每次点击付费，网站推广和搜索引擎优化简介.
 - **[The Art of SEO, 3rd Edition](http://shop.oreilly.com/product/0636920032908.do)：**掌握搜索引擎优化
-- **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) ：**新来的SEO？  需要提高你的知识吗？  搜索引擎优化的初学者指南已被阅读超过300万次，并提供了获得专业质量搜索引擎优化所需的信息.
+- **[The Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) ：**新来的SEO？  需要提高你的知识吗？  搜索引擎优化的初学者指南已被阅读超过300万次，并提供了您获得专业质量搜索引擎优化所需的信息.
 - **[The SEO Battlefield](http://shop.oreilly.com/product/0636920050964.do)：**如果您想建立一个持续的SEO计划，目标是增加流量和搜索突出，这个实用的分步指南将帮助您了解SEO方法，然后向您展示如何将这些理论付诸实践.
 
 ## Courses
@@ -210,7 +211,7 @@
 - **[International SEO Fundamentals](https://www.lynda.com/Analytics-tutorials/International-SEO-Fundamentals/377449-6.html) ：**通过这些SEO技巧吸引国际访问者访问您的网站.  了解如何确定目标市场并优化您网站的技术方面和内容，以适应世界各国和各种语言.  与Lynda.com的David Booth合作
 - **[Learning Search Engine Optimization (SEO): A Video Introduction](https://www.video2brain.com/en/courses/learning-search-engine-optimization-seo-a-video-introduction)：**学习搜索引擎优化（SEO）：视频介绍Matt Bailey by video2brain
 - **[Learning Web Analytics](https://www.video2brain.com/en/courses/learning-web-analytics)：**通过video2brain与Matt Bailey一起学习网络分析
-- **[SEO for Beginners](http://seoforbeginners.com/)：**初学者搜索引擎优化：视频指南简介
+- **[SEO for Beginners](http://seoforbeginners.com/):** SEO for Beginners: A Video Guide Introduction
 - **[SEO for Ecommerce](https://www.lynda.com/Google-Analytics-tutorials/SEO-Ecommerce/386884-2.html) ：**电子商务的SEO是不同的.  获取针对优化在线商店的策略，以改善页面排名和构建流量.  与Lynda.com的Steven Harris合作
 - **[SEO for Local Visibility](https://www.lynda.com/Google-Maps-tutorials/SEO-Local-Visibility/178132-2.html) ：**使用这些本地SEO策略在搜索排名中实现最大可见性.  与Lynda.com的Brad Batesole合作
 - **[SEO for Web Designers](https://webdesign.tutsplus.com/courses/seo-for-web-designers)：**网站设计师的SEO与TutsPlus的Craig Campbell合作

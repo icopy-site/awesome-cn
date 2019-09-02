@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="owainlewis/awesome-artificial-intelligence"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 人工智能（AI）课程，书籍，视频讲座和论文的精选列表.
@@ -17,7 +18,7 @@
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) -  MIT AI课程
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - 初学者的课程，学习没有框架的深度学习和神经网络.
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)   - 学习人工智能的基础知识.  课程由Peter Norvig经营
-* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - 该课程将介绍智能计算机系统设计的基本思想和技术
+* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
 * [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - 本课程将教您人工智能的基本方法，包括：概率推理，规划和搜索，定位，跟踪和控制，所有这些都侧重于机器人技术
 * [Machine Learning](https://class.coursera.org/ml-008) - 用于监督和无监督学习的基本机器学习算法
 * [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧.
@@ -66,7 +67,7 @@
 * [Our Final Invention: Artificial Intelligence And The End Of The Human Era](http://www.audible.co.uk/pd/Non-fiction/Our-Final-Invention-Audiobook/B00KLJMDH8)   - 我们的最终发明探索了对不断追求高级AI的危险.  直到现在，人类情报还没有竞争对手.  我们可以与智力相形见绌的众生共存吗？  他们会允许我们吗？
 * [How to Create a Mind: The Secret of Human Thought Revealed](http://www.audible.com/pd/Science-Technology/How-to-Create-a-Mind-Audiobook/B009S7OKJS/ref=a_search_c4_1_1_srTtl?qid=1422483493&sr=1-1) - 谷歌工程总监雷·库兹威尔（Ray Kurzweil）探索了对大脑进行逆向工程的过程，以准确理解大脑是如何工作的，然后利用这些知识创建出色的智能机器.
 * [Minds, Brains, And Programs](http://cogprints.org/7150/1/10.1.1.83.5248.pdf)   -  1980年由philospher John Searle撰写的论文，其中包含着名的“中国室”思想实验.  可能是对拥有“心灵”或“意识”的强AI概念的最着名的攻击，以及对AI和心灵哲学交叉感兴趣的人的有趣阅读.
-* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
+* [Gödel, Escher, Bach: An Eternal Golden Braid](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) - 由道格拉斯·霍夫施塔特（Douglas Hofstadter）撰写并以刘易斯·卡罗尔（Lewis Carroll）的精神标注“对思想和机器的隐喻赋格”，这一关于数学，对称性和智慧的基本概念的奇妙旅程在1979年赢得了普利策非虚构小说的价格.整个主题是看似“无意义”元素的意义的出现，如1和0，以特殊模式排列.
 * [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - 麻省理工学院物理学教授马克斯·泰格马克（Max Tegmark）讨论了人工智能如何影响犯罪，战争，正义，就业，社会以及我们在近期和远期都能成为人类的感觉.
 
 

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="manuzhang/awesome-streaming"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
 精彩的精选列表 [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html)  框架，应用程序，读数和其他资源.  灵感来自 [other awesome projects](https://github.com/sindresorhus/awesome). 
@@ -40,7 +41,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Benthos](https://github.com/Jeffail/benthos) [Go]  -  Benthos是一种高性能且有弹性的消息流服务，能够连接各种源和接收器，并对有效负载执行任意操作，转换和过滤
 - [FS2(prev. 'Scalaz-Stream')](https://github.com/functional-streams-for-scala/fs2) [Scala]  -  Scala的组合流式I / O库.
 - [monix](https://github.com/monix/monix) [Scala]  - 用于组合异步和基于事件的程序的高性能Scala / Scala.js库.
-- [Streamline](https://github.com/hortonworks/streamline)  [Java]  -  Hortonworks的Stream Analytics Framework，旨在作为Storm等现有流媒体解决方案的包装器.  旨在允许用户拖放流组件以专注于业务逻辑.
+- [Streamline](https://github.com/hortonworks/streamline) [Java] - Stream Analytics Framework by Hortonworks, designed as a wrapper around existing streaming solutions like Storm. Aimed to allow users to drag-and-drop streaming components to focus on business logic.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]  -  Airbnb的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala]  -  Scala的轻量级Reactive Streams基础架构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]  - 一个轻量级库，用于构建管道以管理连续的数据流;  支持复杂的管道，包括分支，连接，流量控制，反馈，背压等.
@@ -60,7 +61,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [Apache Beam](https://github.com/apache/beam) [Java]  - 统一模型和一组特定于语言的SDK，用于定义和执行数据处理工作流，以及数据提取和集成流程，支持企业集成模式（EIP）和域特定语言（DSL），由Google开源.
 - [coast](https://github.com/bkirwi/coast) [Scala]  - 一种在Samza之上构建DAG并提供完全一次语义的DSL.
 - [Esper](https://github.com/espertechinc/esper) [Java]  - 用于复杂事件处理（CEP）和事件序列分析的组件.
-- [Streamparse](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
+- [Streamparse](https://github.com/Parsely/streamparse) [Python]  - 允许您通过Apache Storm针对实时数据流运行Python代码.
 - [summingbird](https://github.com/twitter/summingbird) [Scala]  - 允许您编写看起来像本机Scala或Java集合转换的MapReduce程序的库，并在许多着名的分布式MapReduce平台上执行它们，包括Storm和Scalding.
 
 ### Data Pipeline

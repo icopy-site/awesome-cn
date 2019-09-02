@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="PhantomYdn/awesome-wicket"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
@@ -41,7 +42,7 @@
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - 与Wicket的整合 [OrientDB](http://orientdb.com/).
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - 帮助您在Wicket应用程序中使用require.js.
 - [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - 利用的组件 [Shield UI](http://www.shieldui.com/) JavaScript库.
-- [wicket-source](https://github.com/42Lines/wicket-source) - 通过从浏览器HTML提供点击返回源中的原始Wicket组件，加快Wicket开发速度.
+- [wicket-source](https://github.com/42Lines/wicket-source) - 通过从浏览器HTML提供点击返回到源中的原始Wicket组件，加快Wicket开发速度.
 - [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - 使用Sprint Boot，通过最少的配置工作轻松创建Wicket项目.
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - 整合Wicket的webjars.
 - [wicked-charts](https://github.com/thombergs/wicked-charts) - 基于Java的Web应用程序的美丽和交互式JavaScript图表.
@@ -82,7 +83,7 @@
 - [Logback](https://github.com/wicketstuff/core/wiki/Logback) - 可以帮助使用wicket和 [logback](http://logback.qos.ch/) 一起.
 - [MBeanView](https://github.com/wicketstuff/core/wiki/MBeanView) -  JMX面板，用于查看和操作应用程序mbeans.
 - [Minis](https://github.com/wicketstuff/core/wiki/Minis) - 收集各种组件和行为，这些组件和行为太小，无法保证自己的项目.
-- [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) -  Wicket的ModalWindow功能的轻量级扩展，它带有标准化的MessageBox类，可以轻松定义Modal对话框类.
+- [ModalX](https://github.com/wicketstuff/core/wiki/ModalX) - A lightweight extension to Wicket's ModalWindow capabilities that comes with standardized MessageBox class and allows easy definition of Modal dialog box classes.
 - [OSGI](https://github.com/wicketstuff/core/wiki/Osgi) - 允许您在OSGi环境中使用Wicket.
 - [Open Layers 3](https://github.com/wicketstuff/core/tree/master/openlayers3-parent) - 提供一组可用于将交互式地图添加到Wicket应用程序的组件.
 - [POI](https://github.com/wicketstuff/core/wiki/POI) - 将Wicket项目集成到Apache POI.
@@ -111,7 +112,7 @@ wicket顶部的Web框架，可让您轻松顺畅地构建系统
 - [Hippo CMS](http://www.onehippo.com/en) - 通过快速响应内容性能指标，使企业能够不断完善其在线业务战略.
 - [Nocket](https://github.com/Nocket/nocket) - 基于Naked Object的wicket框架.
 - [NoWicket](http://invesdwin.de/nowicket/) -  Wicket的裸对象框架，使开发人员能够在复杂网站的实施过程中编写较少的样板代码.
-- [Orienteer](https://github.com/OrienteerDW/Orienteer) -  Wicket和.之上的Web框架 [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) -  Wicket和.之上的Web框架 [OrientDB](http://orientdb.com/) 建立自己的CRM，CMS，ERP，移动应用程序后端或只是常见的网站.
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) -  Wicket的快速应用程序开发（RAD）库.
 
 ## Solutions

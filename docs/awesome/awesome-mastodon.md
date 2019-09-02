@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="tleb/awesome-mastodon"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Mastodon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![License: CC0](https://img.shields.io/badge/License-CC0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [<img src="https://rawgit.com/tleb/awesome-mastodon/master/mastodon-logo.svg" align="right" width="150">](https://joinmastodon.org)
@@ -108,7 +109,7 @@
 
 ### Français
 
-* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) -  BFMTV
+* [@BFMTV@mastodon.social](https://mastodon.social/@BFMTV) -  BFMTV.
 * [@courrierinter@mastodon.xyz](https://mastodon.xyz/@courrierinter) - 国际快递.
 * [@artefr@mamot.fr](https://mamot.fr/@artefr) - 艺术
 * [@datagueule@framapiaf.org](https://framapiaf.org/@datagueule) -  DATA Maw.
@@ -147,7 +148,7 @@
 * [@FossoyeurDeFilms@friends.nico](https://friends.nico/@FossoyeurdeFilms) - 电影掘墓人.
 * [@HygieneMentale@oc.todon.fr](https://oc.todon.fr/@HygieneMentale) - 心理卫生.
 * [@journalduhacker@framapiaf.org](https://framapiaf.org/@journalduhacker) - 黑客杂志.
-* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) -  Korben（机器人）
+* [@korbenbot@mastodon.xyz](https://mastodon.xyz/@korbenbot) -  Korben（机器人）.
 * [@MinutePapillon@friends.nico](https://friends.nico/@MinutePapillon) -  Kriss / Minute Butterfly.
 
 ## Libraries

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="podo/awesome-framer"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/podo/awesome-framer/master/logo.png" align="right" width="75">](https://framer.com/)
@@ -22,7 +23,7 @@
 * [Why Framer.js Matters](https://medium.com/@drocarmo/why-framer-js-matters-93eb1206e606#.846k6rca6) -  Pedro Carmo为什么Framer是设计师应该开始使用的工具.
 
 ## Videos
-* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) -  Koen Bok和Jorn van Dijk就Framer进行了简短的演讲和问答，其中还包括一般的原型设计和市场上各种设计工具的讨论.
+* [Stripe Speaker Series: Designing with Framer](https://www.youtube.com/watch?v=mqk9Fw8FKLY) -  Koen Bok和Jorn van Dijk就Framer进行了简短的演讲和问答，其中也包括了一般的原型设计和市场上各种设计工具的讨论.
 * [FORM SF 2014: Panel - Design Tooling](https://www.youtube.com/watch?v=gX0n4JUl18g) - 讨论流行设计工具的创建者（包括Framer的Koen Bok）关于原型设计的价值，为设计师设计产品的经验教训以及UX工具的未来.
 
 ## Tutorials
@@ -79,7 +80,7 @@
 * [framer.placehold](https://github.com/cupofjoakim/framer.placehold) - 这是一个用于成帧器的模块，它提供了一个包含不同图像占位符服务的库.
 * [FramerNavigationComponent](https://github.com/jchavarri/FramerNavigationComponent) - 基于iOS的Framer可重复使用和可自定义的导航组件.
 * [RippleTransition.framer](https://github.com/offirg75/framer.RippleTransition) - 用于材料设计的成帧模块，如纹波过渡.
-* [framer-icon](https://github.com/peteschaffner/framer-icon) - 基于模板图像的Framer动态着色图标.
+* [framer-icon](https://github.com/peteschaffner/framer-icon) - Framer dynamically tinted icons based off of a template image.
 * [framer.makeGradient](https://github.com/cupofjoakim/framer.makeGradient)   -  Framer模块，可以轻松创建静态线性/径向渐变.  想让他们动画吗？  我欢迎拉请求.
 * [WatchKit-Framer](https://github.com/ajimix/WatchKit-Framer) -  Framer的Apple Watch Kit模块.
 * [Framer-AudioPlayer](https://github.com/benjaminnathan/Framer-AudioPlayer) -  Framer的AudioPlayer模块.
@@ -92,14 +93,14 @@
 * [Kinetics](https://github.com/joshmtucker/Kinetics) - 无需重新加载，即可在Framer Studio项目的任何图层上测试弹簧动画.
 * [framer-flip-card-module](https://github.com/aboutjax/framer-flip-card-module) -  Framer模块，可快速创建具有两个图像层的翻转卡效果.
 * [Input-Framer](https://github.com/ajimix/Input-Framer) -  Framer模块，可轻松将您的设计输入转换为实际输入.
-* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer.
+* [StickyHeaders-for-Framer](https://github.com/72/StickyHeaders-for-Framer) - 模块在Framer中创建带有粘滞印章的滚动组件.
 * [OrientationEvents](https://github.com/joshmtucker/OrientationEvents) - 用于处理设备方向事件的Framer模块.
 * [ScaleFrame](https://github.com/joshmtucker/ScaleFrame) -  Framer模块使用其新尺寸计算缩放图层的属性.
 * [framer-label](https://github.com/peteschaffner/framer-label) - 标签模块，支持Framer的多行截断.
 * [framer-equally-rotate-images](https://github.com/aboutjax/framer-equally-rotate-images) - 为此模块提供一系列图像，并将它们以圆形路径平均旋转.
 * [framer-colour-transition](https://github.com/nickmangos/framer-colour-transition) - 用于转换图层背景颜色的成帧器模块.
 * [framer-webview](https://github.com/peteschaffner/framer-webview) -  Framer的Web视图模块.
-* [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
+* [framer-uistatusbar](https://github.com/peteschaffner/framer-uistatusbar) -  Framer的iOS状态栏模块.
 * [framer.module.ajax](https://github.com/karlerikjonatan/framer.module.ajax) -  Framer的Ajax模块.
 * [framer.module.fill](https://github.com/karlerikjonatan/framer.module.fill) -  Framer的填充模块.
 * [SpeechSynth](https://github.com/joshmtucker/SpeechSynth) - 用于Web SpeechSynthesis的Framer模块.
@@ -137,7 +138,7 @@
 * [ControlPanelLayer](https://github.com/bpxl-labs/ControlPanelLayer) - 用于创建开发人员面板的Framer模块，用于在原型内控制原型的各个方面.
 * [GradientHelper](https://github.com/bpxl-labs/GradientHelper) - 模块简化了将渐变应用于Framer图层的过程，甚至可以启用动画渐变.
 * [FocusEngine](https://github.com/bpxl-labs/FocusEngine) - 用于模拟Apple TV和Roku上的网格焦点行为的模块.
-* [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - 用于在原型中创建功能强大的Mapbox地图的模块.
+* [MapboxLayer](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
 * [Framer Sheet](https://github.com/andrewliebchen/framer-sheet) - 将Google表格中的信息导入Framer.
 * [FramerAudio](https://github.com/benjamindenboer/FramerAudio) - 允许您在Framer中设计音频接口的模块.
 * [Framer Slider](https://github.com/benjamindenboer/FramerSlider)   - 模块，允许您设计滑块，然后使它们生动，而不会失去可定制性.  外观和逻辑分离.
@@ -148,7 +149,7 @@
 * [Framer Joystick](https://github.com/emilwidlund/framer-joystick) - 用于游戏手柄驱动的UI原型的模块.
 * [Framer Feedback](https://github.com/aboutjax/Framer-Feedback) - 成帧反馈模块使您可以更轻松地使用反馈消息进行原型设计.
 * [Framer-Bottom-Navigation](https://github.com/johnmpsherwin/Framer-Bottom-Navigation) -  Framer Module将Android的底部导航添加到您的项目中.
-* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) -  Framer模块，当在桌面浏览器或Framer Studio（但不在设备上）显示时，向手机/平板电脑添加旋转按钮.
+* [Framer Device Rotator](https://github.com/josephxbrick/DeviceRotator) -  Framer模块，当在桌面浏览器或Framer Studio（但不在设备上）显示时，为手机/平板电脑添加旋转按钮.
 * [Keyboard Input for Framer](https://github.com/Skinny-Malinky/Keyboard-Input-for-Framer) - 一个模块，可让您轻松管理键盘输入.
 * [Framer DesignComponents](https://github.com/sebcglbailey/framer-DesignComponents) - 用于在设计模式下将设计转换为完全可扩展的代码类的模块，无需单行代码！
 * [Framer Web Audio API Module](https://github.com/raulibanez/framer-audio) -  Framer模块，为您的Framer项目提供更好的音频支持.

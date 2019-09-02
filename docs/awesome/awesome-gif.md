@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="davisonio/awesome-gif"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome GIF [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 &gt;精选的精选列表 [GIF](https://en.wikipedia.org/wiki/GIF) 资源.
@@ -117,7 +118,7 @@
 #### Swift
 
 -  [SwiftyGif]（https://github.com/kirualex/SwiftyGif） - 高性能且易于使用的Gif引擎
-- [Gifu](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
+- [Gifu](https://github.com/kaishin/gifu) -  Swift中对iOS的动画GIF支持
 - [SwiftGif](https://github.com/swiftgif/SwiftGif) - 支持GIF的UIImage扩展
 
 ### GUI
@@ -139,7 +140,7 @@
 - [Vid2gif](https://imgur.com/vidgif) - 视频到GIF由imgur
 - [EzGif](https://ezgif.com/) - 在线GIF制造商和图像编辑器
 - [Giflr](https://giflr.com/) - 用于制作或重新混合动画GIF的网络应用程序
-- [Gif.gf](http://www.gif.gf/labs/face) - 为您的脸部提供匹配的GIF
+- [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
@@ -330,7 +331,7 @@ var webPage = require（&#39;webpage&#39;）;
 var fs = require（&#39;fs&#39;）;
 var page = webPage.create（）;
 
-是NB_FRAME = 100;
+var NB_FRAME = 100;
 var current = 0;
 
 page.open('http://www.effectgames.com/demos/canvascycle/?sound=0',

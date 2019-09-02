@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fukuball/Awesome-Laravel-Education"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## [Awesome Laravel Education](https://fukuball.github.io/Awesome-Laravel-Education/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 用于学习Laravel PHP Framework的精选资源列表，可帮助您初学者，中级或高级开发人员.
@@ -279,7 +280,7 @@
   -  Laravel：从Apprentice到Artisan
   -  Laravel测试解码
   -  Laravel 5.1 Beauty
-  - Modern PHP: New Features and Good Practices ISBN:9781491905012
+  - 现代PHP：新功能和良好实践ISBN：9781491905012
   - 学习PHP设计模式ISBN：9781449344917
   - 美丽的测试：领先的专业人士揭示他们如何改进软件ISBN：9780596159818
   -  PHP Master：Write Cutting Edge Code ISBN：9780987090874
@@ -332,12 +333,12 @@
 在此条件下提供，但须符合以下条件：
 
 上述版权声明和本许可声明均应包含在内
-本软件的副本或实质部分.
+本软件的副本或重要部分.
 
 本软件按“原样”提供，不提供任何形式的保证，明示或
 暗示，包括但不限于对适销性的保证，
  适用于特定用途和不侵权的适用性.  在任何情况下都不应该
-作者或版权所有者对任何索赔，损害或其他内容负责
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 无论是合同，侵权行为还是其他行为，由此产生的责任，
 在软件之外或与之相关的软件或使用或其他交易
 SOFTWARE.

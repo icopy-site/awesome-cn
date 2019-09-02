@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jyguyomarch/awesome-productivity"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;精选生产力资源的精选清单.
 
@@ -71,7 +72,7 @@
 ### Habit Trackers
 
 - [everydayCheck](https://everydaycheck.com) - 通过每天做事来养成新的习惯.
-- [Habitica](https://habitica.com) - 在角色扮演游戏（以前称为_HabitRPG_）中完成您现实生活中的每日目标.
+- [Habitica](https://habitica.com) - 在角色扮演游戏（以前称为_HabitRPG_）中完成现实生活中的每日目标.
 - [HabitBull](http://www.habitbull.com/) - 高级习惯跟踪器.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) - 用于创建和维护良好习惯的Android应用程序.
 - [Waka Time](https://wakatime.com/) - 开源插件，用于准确了解编码的时间.

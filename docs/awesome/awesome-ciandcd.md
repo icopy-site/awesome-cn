@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ciandcd/awesome-ciandcd"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **持续集成和持续交付**
@@ -134,10 +135,10 @@ devops
 * [scons](http://www.scons.org)   SCons是一个开源软件构建工具 - 即下一代构建工具.  将SCons视为经典Make实用程序的改进的跨平台替代品，其具有类似于autoconf / automake和ccache等编译器缓存的集成功能.  简而言之，SCons是一种更简单，更可靠，更快速的软件构建方式  
 * [cmake](https://cmake.org/)   cmake提供强大的跨平台软件开发解决方案.  了解我们如何帮助您的团队有效管理软件项目的构建，测试和打包过程  
 * [msbuild](http://msdn.microsoft.com/en-us/library/dd393574.aspx)   Microsoft Build Engine是一个用于构建应用程序的平台.  此引擎（也称为MSBuild）为项目文件提供XML模式，该模式控制构建平台如何处理和构建软件.  Visual Studio使用MSBuild，但它不依赖于Visual Studio.  通过在项目或解决方案文件上调用msbuild.exe，您可以在未安装Visual Studio的环境中编排和构建产品  
-* [ant](http://ant.apache.org)  Ant can be used to pilot any type of process which can be described in terms of targets and tasks. The main known usage of Ant is the build of Java applications.  
+* [ant](http://ant.apache.org)   Ant可以用于引导任何类型的过程，可以根据目标和任务来描述.  Ant的主要已知用法是构建Java应用程序.  
 * [maven](http://maven.apache.org)   Apache Maven是一个软件项目管理和理解工具.  基于项目对象模型（POM）的概念，Maven可以从一个中心信息管理项目的构建，报告和文档.  
 * [gradle](http://gradle.org/)    Gradle是构建自动化的演变.  Gradle可以自动构建，测试，发布，部署以及更多软件包或其他类型的项目，例如生成的静态网站，生成的文档或其他任何内容.  
-* [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)    如果构建和测试需要很长时间才能完成，则持续交付不是连续的.  ElectricAccelerator可将构建和测试速度提高20倍，从而缩短产品上市时间，提高基础架构利用率和开发人员的工作效率  
+* [ElectricacCelerator](http://electric-cloud.com/products/electricaccelerator)   Continuous Delivery isn’t continuous if builds and tests take too long to complete. ElectricAccelerator speeds up builds and tests by up to 20X, improving software time to market, infrastructure utilization and developer productivity  
 * [SBT](http://www.scala-sbt.org/index.html)  sbt是Scala和Java项目的开源构建工具.
 * [do](https://github.com/8gears/do)   世界上最简单的构建工具.  不可知和多用途构建工具和构建文件.  试图比通常的贝壳地狱更好.
 
@@ -169,7 +170,7 @@ Software performance analysis tools
 软件测试框架和工具  
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  测试自动化维基页面  
 * [softwareqatest](http://www.softwareqatest.com) FAQ页面  
-* [qaforums](http://www.qaforums.com)  SQA Forums  
+* [qaforums](http://www.qaforums.com)  SQA论坛  
 * [opensourcetesting](http://www.opensourcetesting.org)  开源软件测试工具，新闻和讨论   
 * [selenium](http://www.seleniumhq.org)  Selenium自动化浏览器
 * [Monkey Test It](https://monkeytest.it) 使用CURLable API的免费自动化网站测试程序
@@ -200,7 +201,7 @@ Software performance analysis tools
 * [nexus](http://www.sonatype.com/nexus)  使用存储库管理器（也称为组件管理器）可帮助软件开发团队在操作的速度，效率和质量方面实现简单的提升  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet是一个机器包管理器，有点像apt-get，但在构建时考虑到了Windows  
 * [herd](https://github.com/russss/Herd) 基于Twitter的谋杀案的单命令bittorrent分发系统     
-* [murder](https://github.com/lg/murder)  大型服务器使用来自twitter.com的BitTorrent和BitTornado库进行部署  
+* [murder](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
 提供工具

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sobolevn/awesome-cryptography"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <p align="center">
@@ -90,7 +91,7 @@
 - [Bcrypt](http://bcrypt.sourceforge.net/) - 跨平台文件加密实用程序.
 - [blackbox](https://github.com/StackExchange/blackbox) - 在Git / Mercurial / Subversion中安全地存储秘密.
 - [certbot](https://github.com/certbot/certbot)   - 以前的Let&#39;s Encrypt Client是EFF的工具，用于从Let&#39;s Encrypt获取证书，以及（可选）在您的服务器上自动启用HTTPS.  它还可以充当使用ACME协议的任何其他CA的客户端.
-- [Coherence](https://github.com/liesware/coherence/) - 用于现代Web应用程序的加密服务器.
+- [Coherence](https://github.com/liesware/coherence/) - Cryptographic server for modern web apps.
 - [cryptomator](https://github.com/cryptomator/cryptomator) - 云中文件的多平台透明客户端加密.
 - [gpg](https://www.gnupg.org/)   - 完全免费实施OpenPGP标准.  它允许加密和签署您的数据和通信，具有通用的密钥管理系统.  GnuPG是一个命令行工具，具有与其他应用程序轻松集成的功能.
 - [ironssh](https://github.com/IronCoreLabs/ironssh)   - 端到端使用sftp / scp加密传输的文件，并有选择地与他人共享.  自动密钥管理适用于任何SSH服务器.  加密文件与gpg兼容.
@@ -115,14 +116,14 @@
 - [libtomcrypt](https://github.com/libtom/libtomcrypt) - 相当全面的模块化和便携式加密工具包.
 - [libVES.c](https://github.com/vesvault/libVES.c) - 通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络进行安全恢复.
 - [milagro-crypto-c](https://github.com/apache/incubator-milagro-crypto-c)   - 小型，独立且快速的开源加密库.  它支持RSA，ECDH，ECIES，ECDSA，AES-GCM，SHA2，SHA3和基于配对的密码学.
-- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
+- [monocypher](http://loup-vaillant.fr/projects/monocypher/) - 小巧，便携，易于使用的加密库，受libsodium和TweetNaCl的启发.
 - [NaCl](https://nacl.cr.yp.to/) - 用于网络通信，加密，解密，签名等的高速库.
 - [OpenSSL](https://github.com/openssl/openssl) -  TLS / SSL和加密库.
 - [PolarSSL](https://tls.mbed.org/) -  PolarSSL使开发人员能够轻松地在其（嵌入式）产品中包含加密和SSL / TLS功能，以最小的编码占用空间来实现此功能.
 - [RHash](https://github.com/rhash/RHash) - 用于计算哈希值的实用工具.
 - [themis](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
-- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) -  C中的小型便携式AES128
-- [wolfSSL](https://github.com/wolfSSL/wolfssl) - 用于嵌入式设备到云的小型，快速，可移植的TLS / SSL实现.
+- [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
+- [wolfSSL](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
 - [xxHash](https://github.com/Cyan4973/xxHash) - 极快的哈希算法.
 
 ### C++
@@ -180,7 +181,7 @@
 
 ### Go
 
-- [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
+- [crypto](https://golang.org/pkg/crypto/) - 官方网站资源.
 - [cryptoballot](https://github.com/cryptoballot/cryptoballot) - 密码安全的在线投票.
 - [dedis/crypto](https://github.com/dedis/crypto) -  Go语言的高级加密库.
 - [dkeyczar](https://github.com/dgryski/dkeyczar) -  Google的Keyczar密码库到Go的端口.
@@ -217,7 +218,7 @@
 - [js-nacl](https://github.com/tonyg/js-nacl) - 用于Emscripten编译的libsodium例程的纯Javascript高级API.
 - [jsencrypt](https://github.com/travist/jsencrypt) - 用于执行OpenSSL RSA加密，解密和密钥生成的Javascript库.
 - [JShashes](https://github.com/h2non/jshashes) - 用于node.js和浏览器的快速且无依赖关系的加密散列库（支持MD5，SHA1，SHA256，SHA512，RIPEMD，HMAC）.
-- [jsrsasign](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+- [jsrsasign](https://github.com/kjur/jsrsasign) - &#39;jsrsasign&#39;（RSA-Sign JavaScript Library）是一个支持RSA / RSAPSS / ECDSA / DSA签名/验证的无源加密库.
 - [jsThemis](https://github.com/cossacklabs/themis/wiki/NodeJS-Howto) - Javascript wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [libsodium.js](https://github.com/jedisct1/libsodium.js) -  libsodium编译为纯JavaScript，方便包装.
 - [libVES.js](https://github.com/vesvault/libVES) - 通过云存储库进行端到端加密共享，在密钥丢失的情况下通过朋友的病毒网络进行安全恢复.
@@ -274,7 +275,7 @@ algorithm.
 ### PHP
 
 - [halite](https://paragonie.com/project/halite) - 使用`libsodium`进行加密的简单库.
-- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - 使用`libsodium`的Laravel包抽象.
+- [libsodium-laravel](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 - [PHP Encryption](https://github.com/defuse/php-encryption) - 用于使用PHP中的密钥或密码加密数据的库.
 - [PHP Themis](https://github.com/cossacklabs/themis/wiki/PHP-Howto) - PHP wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [TCrypto](https://github.com/timoh6/TCrypto) -  TCrypto是一个简单而灵活的PHP 5.3+内存中键值存储库.
@@ -365,7 +366,7 @@ algorithm.
 - [Cryptopals Crypto Challenges](http://cryptopals.com/) - 一系列应用的加密挑战，从非常基本的挑战开始，例如十六进制到基数64挑战，并逐渐增加抽象代数的难度.
 - [Garykessler Crypto](http://www.garykessler.net/library/crypto.html) - 密码学概述.
 - [IACR](https://www.iacr.org/) - 国际密码学研究协会是一个非营利性科学组织，其目的是进一步研究密码学和相关领域.
-- [Learn Cryptography](https://learncryptography.com/) - Dedicated to helping people understand how and why the cryptographic systems they use everyday without realizing work to secure and protect their privacy.
+- [Learn Cryptography](https://learncryptography.com/) - 致力于帮助人们了解他们日常使用的加密系统的方式和原因，而无需实现保护和保护隐私的工作.
 - [Subreddit of Cryptography](https://www.reddit.com/r/cryptography/) - 此subreddit旨在用于围绕强加密理论和实践的链接和讨论.
 - [WebCryptoAPI](https://www.w3.org/TR/WebCryptoAPI/) - 此规范描述了用于在Web应用程序中执行基本加密操作的JavaScript API，例如散列，签名生成和验证以及加密和解密.
 

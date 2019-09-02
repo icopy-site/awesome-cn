@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kilimchoi/engineering-blogs"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 |     |     |     |     |     |     |     |     |     |
@@ -32,7 +33,7 @@
 *亲和力https://build.affinity.co/
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
-* Advanced Web Machinery https://advancedweb.hu/
+*高级网络机械https://advancedweb.hu/
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
@@ -49,7 +50,7 @@
 * Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
-* Babble https://bytes.babbel.com/en/
+*聊天https://bytes.babbel.com/en/
 * Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
 *百度研究http://research.baidu.com/博客
@@ -114,7 +115,7 @@
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/category/engineering/
-* ByDash https://blog.doordash.com/tagged/engineering
+* DoorDash https://blog.doordash.com/tagged/engineering
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
@@ -124,7 +125,7 @@
 * Eharmony http://www.eharmony.com/engineering/
 *弹性https://www.elastic.co/blog/category/engineering
 *发动机场https://blog.engineyard.com/
-* Entelo https://sourcecode.entelo.com/
+*输入https://sourcecode.entelo.com/
 * Envato https://webuild.envato.com/
 *特使https://envoy.engineering/
 * Erlang Solutions https://www.erlang-solutions.com/blog.html
@@ -138,18 +139,18 @@
 * Facebook https://code.facebook.com/posts/
 * Facebook AI Research https://research.facebook.com/blog/ai/
 *法拉第http://blog.faraday.io/
-*点击https://medium.com/feedzaitech
-*五十三人http://making.fiftythree.com/
+*发现https://medium.com/feedzaitech
+* Fiftythree http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
-*公司简介https://dev.firmafon.dk/blog/
+* Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
 * Freeletics https://freeletics.engineering/
 *资金圈https://engineering.fundingcircle.com/
 *未来处理https://www.future-processing.pl/technical-blog/
-* Fynd http://gofynd.io/blog
+*去http://gofynd.io/blog
 
 #### G companies
 * Galois https://galois.com/blog/
@@ -166,14 +167,14 @@
 * GoSquared https://engineering.gosquared.com/
 * GO-JEK https://blog.gojekengineering.com/
 *抓住http://engineering.grab.com/
-*图形https://grafana.com/blog/
-* Grammarles https://tech.grammarly.com/blog/index.html
+* Grafana https://grafana.com/blog/
+* Grammarly https://tech.grammarly.com/blog/index.html
 * Graphcool https://blog.graph.cool/
-*总https://lambda.grofers.com/
+* Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
 * Groupon https://engineering.groupon.com/
 * Guardian https://www.theguardian.com/info/developer-blog
-*想要http://engineering.gusto.com/
+*喜欢http://engineering.gusto.com/
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
@@ -213,7 +214,7 @@
 #### J companies
 *简街https://blogs.janestreet.com/category/ocaml/
 * Jet Technology https://tech.jet.com/
-* Jobandtalent https://jobandtalent.engineering/
+*工作人才https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat https://tech.just-eat.com/
@@ -224,7 +225,7 @@
 *国王https://techblog.king.com/
 * Kinvolk https://kinvolk.io/blog/
 * Kogan.com https://devblog.kogan.com/
-* Kolosek https://kolosek.com/blog/
+*跟踪https://kolosek.com/blog/
 
 #### L companies
 * Latacora https://latacora.singles/
@@ -255,7 +256,7 @@
 * Mozilla自动化团队https://planet.mozilla.org/ateam/
 * Mozilla Hacks https://hacks.mozilla.org/
 * Mozilla发布工程https://planet.mozilla.org/releng/
-* Mint https://medium.com/myntra-engineering
+* Myntra https://medium.com/myntra-engineering
 * Myntra数据科学http://sartorialscience.myntrablogs.com/
 
 #### N companies
@@ -269,7 +270,7 @@
 
 #### O companies
 * OCTO技术https://blog.octo.com/en/
-* Octa https://developer.okta.com/blog/
+* Okta https://developer.okta.com/blog/
 * OLX https://tech.olx.com/
 *所有https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
@@ -300,7 +301,7 @@
 * Quora https://engineering.quora.com/
 
 #### R companies
-*改进https://www.raizlabs.com/dev/
+* Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
 * REA集团http://rea.tech/engineering/
 * Realm.io https://realm.io/news/
@@ -318,7 +319,7 @@
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
-* Schibsted Tech Poland http://www.schibsted.pl/blog/
+* Schibsted Tech Polska http://www.schibsted.pl/blog/
 * Scrapinghub https://blog.scrapinghub.com/
 * Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
@@ -351,20 +352,20 @@
 * SourceClear https://blog.sourceclear.com/
 * Speedledger http://engineering.speedledger.com/
 * Spotify https://labs.spotify.com/
-* Sqext https://blog.sqreen.io/
+* Sqreen https://blog.sqreen.io/
 * Square https://corner.squareup.com/
 * Squarespace https://engineering.squarespace.com/
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stackshare https://stackshare.io/feed
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
-*董事会https://medium.com/strava-engineering/
+*饮食https://medium.com/strava-engineering/
 * Stride https://blog.stridenyc.com/
 *条纹https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
 
 #### T companies
-* Takipi http://blog.takipi.com/
+* http://blog.takipi.com/
 *目标https://target.github.io/
 * TaskRabbit http://tech.taskrabbit.com/
 *团队合作https://engineroom.teamwork.com/
@@ -449,7 +450,7 @@
 ### Individuals/Group Contributors
 
 #### \# individuals
-* 0http：https：//0xadada.pub/
+* 0x https://0xcode.pub/
 
 #### A individuals
 * Aaron Patterson http://tenderlovemaking.com/
@@ -490,7 +491,7 @@
 * Brandon Rhodes http://rhodesmill.org/brandon/
 * Brendan Eich https://brendaneich.com/
 * Brendan Gregg http://www.brendangregg.com/blog/
-* Brujo Benavides https://medium.com/@elbrujohalcon
+* Warlock Benavides https://medium.com/@elbrujohalcon
 * Bryan Cantrill http://dtrace.org/blogs/bmc/
 
 #### C individuals
@@ -507,7 +508,7 @@
 #### D individuals
 *每日JS https://medium.com/dailyjs
 *每日技术视频http://dailytechvideo.com/
-* Dan Luu https://danluu.com/
+*和Luu https://danluu.com/
 * Daniel Doubrovkin（分贝）.http：//code.dblock.org/
 * Daniel Schmidt https://medium.com/@dschmidt1992
 * Dave Atchley http://www.datchley.name/
@@ -568,7 +569,7 @@
 * Ian Sommerville http://iansommerville.com/systems-software-and-technology/
 * Idontgetoutmuch的博客https://idontgetoutmuch.wordpress.com/
 * Ievgen Kuzminov http://stdout.in/
-* Ilija Eftimov http://ieftimov.com/
+* Elijah Eftimov http://ieftimov.com/
 * Ilya Grigorik https://www.igvita.com/
 * Ivan Ursul https://ivanursul.com/
 
@@ -584,11 +585,11 @@
 * Jay Fields http://blog.jayfields.com
 * Jeff Atwood https://blog.codinghorror.com/
 * Jeff Preshing http://preshing.com/
-*杰里米当https://jeremykun.com/
+* Jeremy Kun https://jeremykun.com/
 * Jerry Gamblin https://jerrygamblin.com/
 * Jesal Gadhia https://jes.al/
 * Jessie Frazelle https://blog.jessfraz.com/
-* Jesus Castello http://www.blackbytes.info/
+*耶稣城堡http://www.blackbytes.info/
 * Joe Armstrong https://joearms.github.io/
 * Joe Nelson https://begriffs.com/
 * Joel Spolsky https://www.joelonsoftware.com/
@@ -660,14 +661,14 @@
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
 * Nicolai Parlog（CodeFX）http://codefx.org
-*NikolaBrežnjakhttp：//www.nikola-breznjak.com/blog/
+* Nikola Breznjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/
 * Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
-* Ofer Zelig https://fullstack.info
-* Ole Begemann https://oleb.net/blog/
+*提供Zelig https://fullstack.info
+* Be Begemann https://oleb.net/blog/
 *OonaRäisänenhttp：//www.windytan.com/
 
 #### P individuals
@@ -690,7 +691,7 @@ Peter Steinberger http://petersteinberger.com/
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
-*RadimŘehůřekhttps：//radimrehurek.com/blog/
+*我做Řehůřekhttps：//radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
 * Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
@@ -721,7 +722,7 @@ Peter Steinberger http://petersteinberger.com/
 * Steve Bellovin https://www.cs.columbia.edu/~smb/blog/control/
 * Steve Yegge https://steve-yegge.blogspot.com/
 * Sudhagar http://sudhagar.com/
-* Swizec Teller https://swizec.com/blog/
+* Swizec计数器https://swizec.com/blog/
 
 #### T individuals
 * Tero Parviainen http://teropa.info/
@@ -776,7 +777,7 @@ Peter Steinberger http://petersteinberger.com/
 * jOOQ https://blog.jooq.org/
 
 #### K technologies
-* Klipse http://blog.klipse.tech/
+*剪辑http://blog.klipse.tech/
 * Kotlin https://blog.jetbrains.com/kotlin/
 
 #### L technologies
@@ -800,7 +801,7 @@ Peter Steinberger http://petersteinberger.com/
 * Swift https://developer.apple.com/swift/blog/
 
 #### V technologies
-* Verbelo http://www.vertabelo.com/blog
+* Vertabelo http://www.vertabelo.com/blog
 
 ----
 

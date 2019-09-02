@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="springload/awesome-wagtail"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的W .. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://raw.githubusercontent.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
@@ -46,6 +47,7 @@
 - [wagtail-markdown](https://github.com/torchbox/wagtail-markdown) -  Markdown字段和Wagtail块.
 - [wagtail-autocomplete](https://github.com/wagtail/wagtail-autocomplete) - 为“ForeignKey”，“ParentalKey”和“ManyToMany”字段自动填充选择器.
 - [wagtail-instance-selector](https://github.com/ixc/wagtail-instance-selector)   - 用于创建和选择相关项目的`ForeignKey`小部件.  类似于Django的`raw_id_fields`.
+- [wagtail-generic-choooser](https://github.com/wagtail/wagtail-generic-chooser) - 为Wagtail管理员提供构建选择器弹出窗口和窗口小部件的基类，匹配Wagtail内置的页面，文档，片段和图像选择器的外观和感觉.
 
 ### StreamField
 
@@ -57,6 +59,7 @@
 - [wagtail-inventory](https://github.com/cfpb/wagtail-inventory) - 通过它们包含的StreamField块搜索Wagtail页面.
 - [Wagtail Code Block](https://github.com/FlipperPA/wagtailcodeblock) - 具有实时PrismJS语法突出显示功能的Wagtail CMS的StreamField代码块.
 - [Wagtail Blocks](https://github.com/ibrahimawadhamid/wagtail_blocks) - 一系列令人敬畏的Wagtail CMS流场块和图表.
+- [Wagtail UI Plus](https://github.com/davidcondenl/wagtailuiplus) -  StreamFields和StreamBlocks的Wagtail编辑器界面的几个UI改进.
 
 ### Static site generation
 
@@ -70,14 +73,14 @@
 
 ### E-commerce
 
-- [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
+- [wagtailinvoices](https://github.com/SableWalnut/wagtailinvoices) - 用于创建发票的Wagtail模块.
 - [longclaw](https://github.com/JamesRamm/longclaw) -  Wagtail CMS的商店模板.
 - [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - 为Oscar Commerce（或Wagtail的Oscar Commerce整合？）提供Wagtail集成.
 
 ### SEO and SMO
 
 - [wagtail-metadata](https://github.com/takeflight/wagtail-metadata) - 帮助社交媒体和搜索引擎的元数据的工具.
-- [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) -  Wagtail CMS页面的OpenGraph，Twitter Card和Google+代码段标签.
+- [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
 - [wagtail-schema.org](https://github.com/takeflight/wagtail-schema.org) -  Wagtail网站的Schema.org JSON-LD标签.
 
 ### Analytics
@@ -100,7 +103,7 @@
 - [wagtailmedia](https://github.com/torchbox/wagtailmedia) -  Wagtail模块，用于管理管理员中的视频和音频文件.
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos)   - 简单的应用程序，类似于wagtailimages，但用于嵌入来自SoundCloud的YouTube和Vimeo视频和音乐.  这是一个整合 [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
-- [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - 使用FilePreviews.io中的图像预览和元数据扩展Wagtail的文档.
+- [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 - [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - 制作Wagtail搜索文档内容（PDF，Excel和Word等）.
 
 ### Translations
@@ -130,7 +133,7 @@
 - [Wagtail Themes](https://github.com/moorinteractive/wagtail-themes) -  Wagtail的特定于站点的主题加载器.
 - [Wagtail Sharing](https://github.com/cfpb/wagtail-sharing) - 更容易分享Wagtail草稿.
 - [Wagtail Gridder](https://github.com/wharton/wagtailgridder) - 与Google图像搜索结果类似的网格卡布局，扩展了卡片详细信息区域.
-- [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
+- [Wagtail Condensed Inline Panel](https://github.com/wagtail/wagtail-condensedinlinepanel) - 适用于大量内联的Wagtail InlinePanel的直接替换（可与拖放支撑折叠）.
 - [Joyous](https://github.com/linuxsoftware/ls.joyous) -  Wagtail的日历应用程序.
 - [Wagtail App Pages](https://github.com/mwesterhof/wagtail_app_pages) - 使用实际的URL配置和django视图扩展Wagtail页面.
 - [Wagtail Import Export](https://github.com/torchbox/wagtail-import-export) - 在Wagtail实例之间导入/导出页面.
@@ -139,6 +142,7 @@
 - [Wagtail Cache](https://github.com/coderedcorp/wagtail-cache) - 使用Django缓存中间件的Wagtail的简单页面缓存.
 - [Wagtail GraphQL](https://github.com/tr11/wagtail-graphql) - 应用程序自动添加GraphQL支持到Wagtail网站.
 - [Wagtail Orderable](https://github.com/elton2048/wagtail-orderable) -  Mixin支持管理面板中的拖放排序.
+- [Wagtail Live Preview](https://github.com/KalobTaulien/wagtail-livepreview) - 内容旁边的实时页面预览.
 
 ## Tools
 
@@ -240,7 +244,7 @@
 
 ### Podcasts
 
-- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - 在这一集中，Tom Dyson解释了如何创建Wagtail，它与其他选项区别开来，以及何时应该为您的项目实现它.
+- [Podcast.__init__ Episode 58 - Wagtail with Tom Dyson](https://www.podcastinit.com/episode-58-wagtail-with-tom-dyson/) - 在本集中，Tom Dyson解释了Wagtail是如何创建的，它与其他选项的区别，以及何时应该为您的项目实现它.
 
 ### Videos
 

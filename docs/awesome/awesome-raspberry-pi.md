@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="thibmaek/awesome-raspberry-pi"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Raspberry Pi
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -67,11 +68,11 @@
 - [PiNet](http://pinet.org.uk/) - 管理Raspberry Pi教室的系统.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) - 匿名离线移动文件共享和通信系统.
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - 官方支持的Raspberry Pi OS，基于Debian，可作为精简版.
-- [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
+- [RasPlex](http://www.rasplex.com/) -  Raspberry Pi的Plex客户端.
 - [Recalbox](https://www.recalbox.com) - 在Raspberry Pi上拖放轻量级复古游戏和媒体中心.
 - [RetroPie](https://retropie.org.uk/) -  Raspberry Pi上的复古游戏.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - 非Linux操作系统源自开发ARM微处理器的组.
-- [Rocket Show](https://rocketshow.net) - 在舞台上播放同步的背景音轨，视频和DMX灯光序列. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) - 免费和开源的操作系统，可将嵌入式硬件转换为Hi-Fi音乐播放器.
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) -  Drop&#39;n&#39;play采样器：在SD卡上放下.WAV样本，然后播放！
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) - 代表Raspberry Pi上的Slackware ARM.
@@ -86,7 +87,7 @@
 
 - [Alpha](https://github.com/farjump/raspberry-pi) - 使用GDB与此系统级GDB服务器远程加载，调试和测试裸机程序.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) -  macOS应用程序，可以轻松地将图像安装/备份/恢复到SD卡上.
-- [CusDeb](https://cusdeb.com/en/) - 用于创建安装了特定包的自定义映像的Web UI.
+- [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
 - [balenaEtcher](https://www.balena.io/etcher/) -  SD卡刻录机应用程序，对最终用户来说简单，可扩展到开发人员，并可在任何平台上运行.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) -  HAT包括重要的健康监测，如心电图，呼吸，脉搏血氧仪和可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) -  8MB的Wifi AP +客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/)，使用REST API同时控制wifi客户端和站点模式. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
@@ -175,7 +176,7 @@
 -  ** AndFTP **  - 替代FTP客户端应用程序. [Android](https://play.google.com/store/apps/details?id=lysesoft.andftp)
 -  **家用遥控器**  - 控制鼠标/键盘，音量，管理下载/上传文件，自定义命令，终端，将来执行任务，控制媒体. [Android](https://play.google.com/store/apps/details?id=com.inspiredandroid.linuxcontrolcenter)
 -  ** Kore Remote **  - 控制Kodi的官方遥控器. [Android](https://play.google.com/store/apps/details?id=org.xbmc.kore)
-- **RasPi Check** - To check Pi stats - frequency, temperature, volts and more system information (free memory, runtime, disk status). You can also restart or halt your Raspberry Pi and send custom commands. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
+  -  ** RasPi Check **  - 检查Pi统计数据 - 频率，温度，电压等系统信息（可用内存，运行时，磁盘状态）.  您还可以重新启动或暂停Raspberry Pi并发送自定义命令. [Android](https://play.google.com/store/apps/details?id=de.eidottermihi.raspicheck)
 -  ** Raspicast **  - 从您的Android设备上播放YouTube视频，媒体内容，播放本地媒体文件，在Raspberry Pi上播放播放列表（m3u，pls）中的流. [Android](https://play.google.com/store/apps/details?id=at.huber.raspicast)
 -  **屏幕流镜像**  - 直接将手机屏幕流式传输到Pi. [Android](https://play.google.com/store/apps/details?id=com.mobzapp.screenstream.trial)
 -  ** Termius **  -  Pi最干净的SSH客户端之一. [Android](https://play.google.com/store/apps/details?id=com.server.auditor.ssh.client), [iOS](https://itunes.apple.com/us/app/termius-ssh-shell-console-terminal/id549039908?mt=8)

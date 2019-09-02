@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="nicolesaidy/awesome-web-design"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;为数字设计师精心策划的精选资源列表.
 
@@ -72,7 +73,7 @@
 ## Guidelines
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/)：提供设计漂亮，引人入胜的iOS应用程序所需的一切.
 * [Google Material Design](https://material.google.com/)：仔细研究Google品牌的设计，组件和资源.
-* [Laws of UX](https://lawsofux.com/)：设计人员在构建用户界面时可以考虑的格言和原则的集合.
+* [Laws of UX](https://lawsofux.com/): A collection of the maxims and principles that designers can consider when building user interfaces.
 * [Ultimate Guide](https://www.moveoapps.com/ultimate-guide-to-mobile-app-design-principles)：移动应用程序设计原则的终极指南，让您的应用程序大放异彩.
 * [GoodUI](http://www.goodui.org/)：5种方法可以获得更好的用户界面.
 
@@ -88,7 +89,7 @@
 * [Zeplin](https://zeplin.io/)：设计人员和开发人员之间的优秀协作工具.
 * [Avocode](https://avocode.com/)：面向所有设计人员和开发人员的工作空间.
 * [inVision](https://www.invisionapp.com/)：世界领先的原型设计，协作和工作流平台.
-* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
+* [Justinmind](http://justinmind.com)：为Web和移动应用程序提供更快的原型，更好的沟通.
 * [Marvel App](https://marvelapp.com/)：为设计师提供免费的移动和网络原型设计.
 * [Atomic.io](https://atomic.io/)：免费的浏览器交互式设计工具.
 * [Flinto](https://www.flinto.com/)：应用程序来创建设计的交互式和动画原型.

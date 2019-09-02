@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="harpribot/awesome-information-retrieval"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -97,10 +98,10 @@
   - 问题答疑测试套件.
 - [Reuters Corpora](http://trec.nist.gov/data/reuters/reuters.html)   - 现在可以通过NIST获得语料库.  语料库包括以下内容：
   -  RCV1（路透社的语料库第1卷） - 仅包含英语新闻故事.
-    -  RCV2（Reuter的语料库第2卷） - 包括13种语言的故事（荷兰语，法语，德语，中文，日语，俄语，葡萄牙语，西班牙语，拉丁美洲西班牙语，意大利语，丹麦语，挪威语和瑞典语）.  请注意，故事并不平行.
+  - RCV2 (Reuter's Corpus Volume 2) - Consists of stories in 13 languages (Dutch, French, German, Chinese, Japanese, Russian, Portuguese, Spanish, Latin American Spanish, Italian, Danish, Norwegian, and Swedish). Note that the stories are not parallel.
   -  TRC（汤森路透文本研究收藏） - 这是一个相当新近的语料库，包括1,800,370个新闻报道，涵盖2008-01-01 00:00:03至2009-02-28 23:54:14期间.
 - [20 Newsgroup dataset](https://kdd.ics.uci.edu/databases/20newsgroups/20newsgroups.html) - 此数据集包含20000个新闻组消息.取自20个新闻组主题.
-- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) -  This data set is a comprehensive archive of English newswire text data including headlines, datelines and articles.
+- [English Gigaword Fifth Edition](https://catalog.ldc.upenn.edu/LDC2011T07) - 此数据集是英文新闻专线文本数据的综合档案，包括标题，日期和文章.
 - [Document Understanding Conference (DUC) datasets](http://www-nlpir.nist.gov/projects/duc/data.html) - 可根据要求提供过去的新闻专线/纸质数据集（DUC 2001  -  DUC 2007）.
 
 #### External Curation Links
@@ -110,7 +111,7 @@
 
 ## Talks
 #### Technical Talks
-- [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) -  Manic Verma（微软研究院）
+- [Extreme Classification: A New Paradigm for Ranking & Recommendation](https://youtu.be/1X71fTx1LKA) -  Bead Verma（微软研究院）
 - [The next web](https://www.ted.com/talks/tim_berners_lee_on_the_next_web)   -  Tim Berners-Lee（Ted Talk）[Tim Berners-Lee发明了万维网.  他领导万维网联盟（W3C），监督网络的标准和发展.
 - [Is Pivot a turning point for web exploration?](https://www.ted.com/talks/gary_flake_is_pivot_a_turning_point_for_web_exploration?utm_source=tedcomshare&utm_medium=referral&utm_campaign=tedspread) - 微软技术研究员加里·弗莱克（TED演讲）.
 - [Challenges in Building Large-Scale Information Retrieval Systems](http://videolectures.net/wsdm09_dean_cblirs/) -  Jeff Dean（WSDM会议，2009年）.

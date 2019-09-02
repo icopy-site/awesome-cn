@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="egeerardyn/awesome-LaTeX"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome LaTeX [![Awesome][awesome]](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/220px-LaTeX_logo.svg.png" align="right" width="100">](https://www.latex-project.org/)
@@ -34,7 +35,7 @@
 
 ## Editors
 
-Because editing LaTeX code with notepad is not awesome.
+因为用记事本编辑LaTeX代码并不是很棒.
 那里有很多编辑，下面是最棒的编辑.
 收集完整的LaTeX编辑器列表 [tex.stackexchange.com](https://tex.stackexchange.com/) 如 [big list of LaTeX Editors/IDEs](https://tex.stackexchange.com/q/339/9075).
 
@@ -60,7 +61,7 @@ Because editing LaTeX code with notepad is not awesome.
 
 这些编辑不是一招的小马：当然，他们编辑LaTeX，但他们可以做更多！
 
-- [Atom](https://atom.io) [![Atom][awesome]](https://github.com/mehcode/awesome-atom) ![foss][foss]
+- [Atom](https://atom.io) [！[Atom] [awesome]]（https://github.com/mehcode/awesome-atom）！[foss] [foss]
 	- [LaTeXTools](https://atom.io/packages/latextools)   - 同名的Sublime Text包的Atom端口.  ！[源码] [源码]
 
 - [Sublime Text](https://www.sublimetext.com) [！[Sublime Text] [awesome]]（https://github.com/dreikanter/sublime-bookmarks）
@@ -96,7 +97,7 @@ Because editing LaTeX code with notepad is not awesome.
 ## Bibliography tools
 
 - [JabRef](https://www.jabref.org)   - 非常强大的跨平台（Java）bibtex编辑器.  但是，GUI看起来很陈旧.  ！[Mac] [mac]！[Windows] [windows]！[Linux] [linux]！[foss] [foss]
-- [Papis](https://github.com/alejandrogallo/papis) - 极易定制，
+- [Papis](https://github.com/alejandrogallo/papis) - Extremely customizable,
    功能强大且简单的跨平台（Python）库管理器.  它有一个非常
   完整的命令行界面，多个GUI和脚本功能.
   ！[Linux] [linux]！[Mac] [mac]！[foss] [foss]
@@ -189,7 +190,7 @@ TikZ是一个很棒的包，有许多插件，允许您从LaTeX文档中创建�
 ## Symbols
 
 - [Comprehensive LaTeX symbol list](https://www.ctan.org/tex-archive/info/symbols/comprehensive/)   - 非常广泛的LaTeX符号列表.  可用 [A4](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-a4.pdf) 和 [letter](http://mirrors.ctan.org/info/symbols/comprehensive/symbols-letter.pdf) 大小.
-- [Detexify](http://detexify.kirelabs.org/classify.html) - 您绘制符号，此站点/应用程序将告诉您LaTeX命令.
+- [Detexify](http://detexify.kirelabs.org/classify.html) - You draw the symbol and this site/app will tell you the LaTeX command.
 
 ## Resources
 

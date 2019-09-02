@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="teoga/awesome-product-design"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Product Design [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <a href="https://en.wikipedia.org/wiki/Digital_product_design">
@@ -17,7 +18,7 @@
 ###### Research Plan
 - [Smashing Magazine](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) - 利益相关者喜爱的用户体验研究计划.
 - [NN Group](https://www.nngroup.com/articles/pm-research-plan/) - 用户研究项目管理：计划.
-- [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - One Page User Research Plan.
+- [Interaction Design](https://www.interaction-design.org/literature/article/a-one-page-user-research-plan) - 一页用户研究计划.
 ###### User Interview
 - [NN Group](https://www.nngroup.com/articles/interviewing-users/) - 尽管存在许多缺点，但访谈是探索性用户研究的有效方法.
 - [UXDesign.cc](https://uxdesign.cc/how-to-get-the-most-out-of-user-interviews-c5d0cd4499b5) - 如何充分利用用户访谈.
@@ -97,7 +98,7 @@
 - [UXDesign.cc](https://uxdesign.cc/)   - 用户体验，可用性，产品设计.  关注UXDesign.cc.
 - [UX Reactions](http://uxreactions.com/) - 好玩的东西.
 #### Tools
-- [UX Recipe](http://uxrecipe.github.io/) - This project is a personal manifesto against the objectification of the term "UX".
+- [UX Recipe](http://uxrecipe.github.io/) - 该项目是反对“UX”一词客观化的个人宣言.
 - [UX Checklist](http://uxchecklist.github.io/) -  UX项目清单.
 - [UX Stackexchange](https://ux.stackexchange.com/) -  UX Stack Exchange是一个问答网站.
 
@@ -156,7 +157,7 @@
 - [Brand Colors](http://brand-colors.com/) -  1100种颜色系列，包括sass，less，stylus和css.
 #### Stock Images
 - [Unsplash](https://unsplash.com/) - 免费（随心所欲） - 高分辨率照片.
-- [StockSnap](https://stocksnap.io/) - 每周增加数百张高分辨率图像.
+- [StockSnap](https://stocksnap.io/) - Hundreds of high resolution images added weekly.
 - [Pixbay](https://pixabay.com/) - 您可以在任何地方使用的免费图像和视频.
 - [Jay Mantry](http://jaymantri.com/) - 免费图片（CC0）.
 - [The Stock](http://thestocks.im/) - 现在提供最好的免版税图片以及视频，音频，图标，字体和颜色.
@@ -221,7 +222,7 @@
 - [Taskade](https://www.taskade.com/) - 协作编辑和大纲.
 
 ## Data
-- [London Datastore](https://data.london.gov.uk/) -  London Datastore是一个免费开放的数据共享门户.
+- [London Datastore](https://data.london.gov.uk/) - The London Datastore is a free and open data-sharing portal.
 - [YouGov](https://yougov.com/) - 我们相信参与的力量.
 - [Data.Gov](https://data.gov.uk/) - 查找政府部门和机构，公共机构和地方当局发布的数据.
 - [The Tate Collection](https://github.com/tategallery/collection) - 这里我们提供大约70,000件艺术品的元数据.

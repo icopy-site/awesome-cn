@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="vitalets/awesome-smart-tv"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Smart TV [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;用于构建智能电视应用程序的精彩资源的精选列表
@@ -18,7 +19,7 @@
 * [Tizen Studio](https://developer.tizen.org/development/tizen-studio/download) - 用于电视应用开发的IDE，包括Tizen TV Emulator.
 * [Smart View SDK](http://developer.samsung.com/tv/develop/extension-libraries/smart-view-sdk/download/) - 官方Android，IOS和JavaScript SDK，用于远程设备和Samsung Smart TV之间的通信.
 * [Samsung TV Developers Forum](http://developer.samsung.com/forum/?topCtgy=06) - 使用Samsung SDK开发应用程序时提出问题并分享提示.
-* [Samsung Smart TV Bug Bounty](https://samsungtvbounty.com) - If you find bug in Samsung TV, submit it here and get a reward $1000+.
+* [Samsung Smart TV Bug Bounty](https://samsungtvbounty.com) - 如果您在三星电视中发现错误，请在此处提交并获得1000美元以上的奖励.
 * [vscode-extension-tizentv](https://marketplace.visualstudio.com/items?itemName=tizensdk.tizentv) -  Visual Studio代码扩展，为Tizen应用程序开发人员提供轻量级IDE.
 * [Wits](https://github.com/Samsung/Wits) - 每次进行更改时重新加载电视应用程序的JavaScript / CSS而无需重新安装应用程序的工具.
 
@@ -39,7 +40,7 @@
 * [webOS TV Developers Site](http://webostv.developer.lge.com) -  WebOS TV应用程序开发原则，教程，API文档和打包工具.
 * [webOS TV IDE + SDK](http://webostv.developer.lge.com/sdk/download/download-sdk/) - 用于应用程序开发的IDE，包括命令行界面和模拟器.
 * [Connect SDK](http://www.svlconnectsdk.com/)   - 由LG开发的开源框架，将您的移动应用程序与多个媒体设备平台连接起来.  目前支持8个平台.  但似乎 [abandoned](https://github.com/ConnectSDK/Connect-SDK-Android/issues/364).
-* [webOS TV Developers Forum](http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV) - 向其他开发人员提问，分享信息并了解智能电视应用开发.
+* [webOS TV Developers Forum](http://developer.lge.com/community/forums/RetrieveForumList.dev?prodTypeCode=TV) - Ask questions, share information and learn about Smart TV app development with other developers.
 
 #### Third-party remote control libraries
 * [lgtv2](https://github.com/hobbyquaker/lgtv2) -  Node.js模块，用于通过WebSocket消息（JavaScript）远程控制LG webOS TV.
@@ -79,7 +80,7 @@
 * [react-tv](https://github.com/raphamorim/react-tv) - 电视的反应开发：低内存应用程序的渲染器和WebOS的Packager，Tizen，Orsay.
 * [TOAST](http://developer.samsung.com/tv/develop/extension-libraries/toast/) - 开发多平台电视应用的三星开源框架.
 * [Enyo](http://enyojs.com) - 适用于所有主要平台的开发应用程序的LG框架，从手机和平板电脑到PC和电视.
-* [Smartbox](https://github.com/immosmart/smartbox) - 适用于三星，LG，飞利浦，SmartTV Aliance，STB Mag应用开发的智能电视通用库.
+* [Smartbox](https://github.com/immosmart/smartbox) - 适用于三星，LG，飞利浦，SmartTV Aliance，STB Mag应用程序开发的智能电视通用库.
 * [Mautilus Smart TV SDK](https://github.com/mautilus/sdk)   - 用于开发电视应用程序的平台无关框架.  支持三星，LG，飞利浦，索尼，松下和VESTEL智能电视.
 * [BBC TAL](https://bbc.github.io/tal/) - 由BBC工程师开发的用于构建智能电视应用程序的开源库.
 * [PureQML TV](https://github.com/pureqml/qmlcore-tv)   - 基于Web的SmartTV / STB平台的声明式前端框架.  有Android TV的实验支持.

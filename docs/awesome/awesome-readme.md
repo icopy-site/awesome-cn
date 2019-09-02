@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="matiassingers/awesome-readme"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <img src="https://raw.githubusercontent.com/matiassingers/awesome-readme/master/icon.png" align="right" />
 
 ## Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
@@ -34,7 +35,7 @@
 - [php-censor/php-censor](https://github.com/php-censor/php-censor#readme) - 多个徽章，项目徽标，屏幕截图，分步安装和升级说明，TOC以便于导航.
 - [Rebilly/redoc](https://github.com/Redocly/redoc#readme) - 多个徽章，项目徽标，现场演示链接，关键功能的GIF动画，TL; DR使用.
 - [React on lambda](https://github.com/sultan99/react-on-lambda#readme) - 项目徽标，漫画，以呈现主要想法，徽章，带有代码片段的示例，演示项目，api文档，编辑器配置.
-- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat#readme)   -  GIF演示.  带有屏幕截图的简易安装和设置部分.  建立徽章.  用例的很好的例子.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts#readme)   - 清洁项目徽标.  顶部简要说明.  Sankey图，快速链接，徽章，操作系统特定图标，TOC，详细发布更改日志.
 - [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion#readme)   - 项目标志.  建立徽章.  多种编程语言的文档结构.  用法示例.
 - [shama/gaze](https://github.com/shama/gaze#readme)   - 项目标志.  简洁描述.  功能列表.  使用部分.  常问问题.  很棒的API文档.  发布历史记录
@@ -46,7 +47,7 @@
 - [thelounge/thelounge](https://github.com/thelounge/thelounge#readme)   - 项目标志.  有用的徽章和链接（网站，文档，演示）.  截图.  功能列表.  有关安装，开发和测试的分步说明.  链接到贡献指南.  好的移动摘要.
 - [vhesener/Closures](https://github.com/vhesener/Closures#readme)   - 项目徽标，认知漏斗，动画示例.  颜色协调.  清洁文档.
 - [release-it/release-it](https://github.com/release-it/release-it#readme)   - 使用演示GIF清楚地了解项目功能.  徽章.  可扩展的TOC.  用法说明和示例.  贡献指南.  详细发布.
-- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme)   - 使用GIF屏幕截图清除自述文件以进行快速演示.  多个徽章，简洁的ToC，在线游乐场，故事书，详细说明等.
+- [dowjones/react-dropdown-tree-select](https://github.com/dowjones/react-dropdown-tree-select#readme) - Clear readme with GIF screenshot for quick demo. Multiple badges, concise ToC, online playground, storybook, detailed description and more.
 
 
 

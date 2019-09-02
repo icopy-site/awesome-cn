@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="rabbiabram/awesome-fortran"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
  精选的Fortran框架，库和软件的精选列表.  灵感来自 [awesome-swift](https://github.com/Wolg/awesome-swift) 由@Wolg.
 
@@ -21,7 +22,7 @@
 *用于计算和其他数学运算的库.*
 
 * [BLAS](http://www.netlib.org/blas/) - 应用程序编程接口标准，用于发布库以执行基本线性代数运算，例如向量和矩阵乘法.
-* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) -  CERN计划库是在CERN中央计算机上以源代码和目标代码形式维护和提供的大量通用库和模块的集合
+* [CERNLIB](http://cernlib.web.cern.ch/cernlib/) -  CERN计划库是CERN中央计算机上以源代码和目标代码形式维护和提供的大量通用库和模块的集合
 * [EISPACK](http://www.netlib.org/eispack/) - 用FORTRAN编写的用于矩阵的特征值和特征向量的数值计算的软件库
 * [FGSL](http://www.lrz.de/services/software/mathematik/gsl/fortran/index.html) - 便携式，基于对象的Fortran接口 [GNU scientific library](http://www.lrz.de/services/software/mathematik/gsl/)
 * [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) -  IMSL Fortran数值库是高性能计算商业数学和统计库的标准

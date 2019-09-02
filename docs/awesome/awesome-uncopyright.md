@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="johnjago/awesome-uncopyright"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Uncopyright [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" alt="No copyright symbol" align="right" width="155">](http://questioncopyright.org/)
@@ -47,7 +48,7 @@
 - [FibroHaven](http://www.fibrohaven.com/uncopyright/) - 为患有慢性病的人建立一个同情，理解和治愈的社区.
 - [Go Beyond](http://go-beyond.org/) - 没有标语的博客.
 - [gr0wing.com](http://www.gr0wing.com/uncopyright/) - 个人和全球变化.
-- [Healthy Enough](http://healthyenough.net/) - Helping you become as fit and healthy as possible.
+- [Healthy Enough](http://healthyenough.net/) - 帮助您尽可能健康和健康.
 - [HoboDrifter](http://www.hobodrifter.com/uncopyright/) - 来自前世界旅行者的帖子.
 - [How To Be Kind](http://www.howtobekind.info/uncopyright/) - 善良的世界.
 - [Jay Tarlecki](http://jaytarlecki.com/uncopyright/attribution/) -  Jay Tarlecki的个人网站.
@@ -124,7 +125,7 @@
 - [Luapower](https://luapower.com/) - 以独特的理念部署和共享Lua模块.
 - [single_file_libs](https://github.com/nothings/single_file_libs) - 许多小型PD库供程序员使用.
 - [SQLite](https://sqlite.org/copyright.html) - 嵌入式SQL数据库引擎.
-- [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - 维基百科上的PD软件列表.
+- [Wikipedia: PD software](https://en.wikipedia.org/wiki/Category:Public-domain_software_with_source_code) - List of PD software at Wikipedia.
 - [youtube-dl](https://rg3.github.io/youtube-dl/about.html) - 从YouTube和其他视频网站下载视频的命令行程序.
 
 ## Talks

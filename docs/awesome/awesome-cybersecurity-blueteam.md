@@ -1,9 +1,10 @@
 <div class="github-widget" data-repo="meitar/awesome-cybersecurity-blueteam"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Cybersecurity Blue Team [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 &gt;为网络安全蓝队提供了一系列精彩的资源，工具和其他闪亮的东西.
 
-[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security) ）是识别信息技术系统中的安全缺陷，验证安全措施的有效性以及监控系统以确保实施的防御措施在未来仍然有效的个人群体.  虽然不是排他性的，但这个列表却严重偏向于 [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
+[Cybersecurity blue teams](https://en.wikipedia.org/wiki/Blue_team_(computer_security)) are groups of individuals who identify security flaws in information technology systems, verify the effectiveness of security measures, and monitor the systems to ensure that implemented defensive measures remain effective in the future. While not exclusive, this list is heavily biased towards [Free Software](https://www.gnu.org/philosophy/free-sw.html)  项目和反对专有产品或公司服务.  对于攻击性TTP，请参阅 [awesome-pentest](https://github.com/meitar/awesome-pentest).
 
  您的贡献和建议是衷心的♥欢迎.  （✿◕‿◕）.  请检查 [Contributing Guidelines](https://github.com/meitar/awesome-cybersecurity-blueteam/blob/master/CONTRIBUTING.md)  更多细节.  这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
@@ -34,7 +35,7 @@
 - [Clair](https://github.com/coreos/clair) - 静态分析工具，用于探测通过应用程序容器（例如Docker）映像引入的漏洞.
 - [Gauntlt](http://gauntlt.org/) - 在常规持续集成期间使用Pentest应用程序构建管道.
 - [Git Secrets](https://github.com/awslabs/git-secrets) - 防止您将密码和其他敏感信息提交给git存储库.
-- [Prowler](https://github.com/toniblyx/prowler) - Tool based on AWS-CLI commands for Amazon Web Services account security assessment and hardening.
+- [Prowler](https://github.com/toniblyx/prowler) - 基于AWS-CLI命令的工具，用于Amazon Web Services帐户安全评估和强化.
 - [Vault](https://www.vaultproject.io/) - 通过统一界面安全访问API密钥，密码或证书等秘密的工具.
 - [git-crypt](https://www.agwa.name/projects/git-crypt/)   -  git中的透明文件加密;  您选择保护的文件在提交时会加密，在签出时会被解密.
 - [SonarQube](https://sonarqube.org) - 连续检查工具，可在自动化测试期间提供详细报告，并对新引入的安全漏洞发出警报.
@@ -128,7 +129,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 
 ### Firewall appliances or distributions
 
-- [OPNsense](https://opnsense.org/) - FreeBSD based firewall and routing platform.
+- [OPNsense](https://opnsense.org/) - 基于FreeBSD的防火墙和路由平台.
 - [pfSense](https://www.pfsense.org/) - 防火墙和路由器FreeBSD分发.
 
 ## Operating System distributions
@@ -213,7 +214,7 @@ See [Awesome-Fuzzing](https://github.com/secfigo/Awesome-Fuzzing).
 - [HardenTools](https://github.com/securitywithoutborders/hardentools) - 禁用许多有风险的Windows功能的实用程序.
 - [NotRuler](https://github.com/sensepost/notruler) - 检测客户端规则和使用的VBScript启用表单 [Ruler](https://github.com/sensepost/ruler) 尝试破坏Microsoft Exchange服务器时的攻击工具.
 - [Sigcheck](https://docs.microsoft.com/en-us/sysinternals/downloads/sigcheck) - 针对Microsoft的审核Windows主机的根证书存储区 [Certificate Trust List (CTL)](https://docs.microsoft.com/en-us/windows/desktop/SecCrypto/certificate-trust-list-overview).
-- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - 从主机名列表中建立Windows RDP会话，并扫描可访问性工具后门，并在发现后门时发出警报.
+- [Sticky Keys Slayer](https://github.com/linuz/Sticky-Keys-Slayer) - Establishes a Windows RDP session from a list of hostnames and scans for accessibility tools backdoors, alerting if one is discovered.
 - [Windows Secure Host Baseline](https://github.com/nsacyber/Windows-Secure-Host-Baseline) - 组策略对象，合规性检查和配置工具，为安全部署和维护最新版本的Windows 10提供自动且灵活的方法.
 - [WMI Monitor](https://github.com/realparisi/WMI_Monitor) - 将新创建的WMI使用者和进程记录到Windows应用程序事件日志中.
 

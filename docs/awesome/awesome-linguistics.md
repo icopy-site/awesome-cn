@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="theimpossibleastronaut/awesome-linguistics"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -17,7 +18,7 @@
 
 ### Algorithms
 * [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由其作者Martin Porter编写和维护的“官方”主页，用于分发Porter Stemming算法.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由作者Martin Porter编写和维护的“官方”主页，用于分发Porter Stemming算法.
 
 ### Data sets
 * [EuroRomCom Data](https://github.com/kirkins/euroromcom) -  JSON格式的泛浪漫单词列表.

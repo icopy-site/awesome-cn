@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="heynickc/awesome-ddd"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;域驱动设计（DDD），命令查询责任隔离（CQRS），事件源和事件存储资源的精选列表.
@@ -38,7 +39,7 @@
 - [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/) - 软件架构师的核心实践摘要，实用.
 - [Patterns, Principles, and Practices of Domain-Driven Design (1st Edition)](https://www.amazon.com/Patterns-Principles-Practices-Domain-Driven-Design/dp/1118714709) - Methods for managing complex software construction following the practices, principles and patterns of Domain-Driven Design with code examples in C#.
 - [Secure by Design (early access)](https://www.manning.com/books/secure-by-design?a_aid=danbjson&a_bid=0b3fac80) - 演示如何使用域驱动设计来避免安全漏洞.
-- [Specification by Example](https://www.manning.com/books/specification-by-example)   - 本书从全球领先团队的经验中提炼出有效的方法，可以在短暂的迭代交付周期中指定，测试和交付软件.  本书中的案例研究范围从小型网络初创公司到大型金融机构，在许多流程中工作，包括XP，Scrum和看板.
+- [Specification by Example](https://www.manning.com/books/specification-by-example) - This book distills from the experience of leading teams worldwide effective ways to specify, test, and deliver software in short, iterative delivery cycles. Case studies in this book range from small web startups to large financial institutions, working in many processes including XP, Scrum, and Kanban.
 - [Versioning in an Event Sourced System](https://leanpub.com/esversioning)   - 您是否在使用事件源系统进行版本控制时遇到了麻烦？  刚刚第一次进入一个新的Event Sourced系统？  本书是如何在很长一段时间内处理版本控制的权威指南.
 - [Writing Great Specifications](https://www.manning.com/books/writing-great-specifications) - 编写出色的规范是一个示例丰富的教程，它教你如何编写好的Gherkin规范文档，这些文档利用了Specification by Example的优点.
 
@@ -47,7 +48,7 @@
 - [The Anatomy of Domain-Driven Design - The Infographic](https://leanpub.com/theanatomyofdomain-drivendesign) - 关于领域驱动设计解剖学的信息图.
 - [Architecting Modern Web Applications with ASP.NET Core and Microsoft Azure](https://dotnet.microsoft.com/download/thank-you/aspnet-ebook) - 提供有关使用DDD，ASP.NET Core和Azure构建单一Web应用程序的端到端指导. [eShopOnWeb sample](https://github.com/dotnet-architecture/eShopOnWeb)
 - [CQRS Journey](https://msdn.microsoft.com/en-us/library/jj554200.aspx) - 探索CQRS和事件采购.
-- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)   - 为庆祝周年纪念日，我们已经邀请软件设计界的知名作者撰写新旧论文.  由Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway以及更多人提供.
+- [Domain-Driven Design: The First 15 Years](https://dddeurope.com/15years)   - 为庆祝周年纪念日，我们已经邀请软件设计领域的知名作者撰写新旧论文.  由Martin Fowler，James Coplien，Rebecca Wirfs-Brock，Mel Conway以及更多人提供.
 - [DDD Reference](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf) -  DDD模式和定义的摘要.
 - [Domain Driven Design Quickly](https://www.infoq.com/minibooks/domain-driven-design-quickly) - 领域驱动设计快速简化，快速阅读的DDD基础知识摘要和介绍.
 - [Effective Aggregate Design](http://dddcommunity.org/library/vernon_2011/) - 在这个由三部分组成的系列中，Vaughn Vernon介绍了一些常见的设计缺陷，讨论了各种聚合建模选择的优缺点，并提供了指导聚合建模的经验法则.
@@ -131,7 +132,7 @@
 - [Adaptech](http://adaptechsolutions.net/blog/)   -  Adaptech Solutions博客.  在Greg创造这个词之前，我们的创始人Adam Dymitruk与Greg Young讨论了CQRS的优点.  Adam和业务合作伙伴Robert Reppel是事件源微服务的主要实践者之一.
 - [Lev Gorodinski](http://gorodinski.com/) -  2013年有几篇关于DDD的文章仍然相关.
 - [Dino Esposito](https://software2cents.wordpress.com/)   - 软件架构师，培训师，书籍作者.  作者 [Microsoft .NET - Architecting Applications for the Enterprise (2nd Edition)](https://www.amazon.com/Microsoft-NET-Architecting-Applications-Enterprise/dp/0735685355/).
-- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design) - Domain-Driven Design mixed with security, and agile in general. Written as fictional letters to a younger programmer.
+- [Dan Bergh Johnsson "Dear Junior"](http://dearjunior.blogspot.se/search/label/domain%20driven%20design)   - 域驱动设计与安全性相结合，并且通常具有敏捷性.  写作虚构的信件给年轻的程序员.
 - [the native web](https://www.thenativeweb.io/blog/2017-10-25-09-46-ddd-and-co-part-1-whats-wrong-with-crud/) -  DDD＆Co.系列
 - [Arkency](https://blog.arkency.com/) - 来自Ruby专家的各种DDD，CQRS，事件采购相关文章.
 - [Svaťa Šimara](http://svatasimara.cz/) -  DDD系列 - 语言，领域，建模，基础设施，PHP实现
@@ -147,7 +148,7 @@
 - [DDDInventoryItemFSharp](https://github.com/eulerfx/DDDInventoryItemFSharp) - An idiomatic F# implementation of Domain-Driven Design
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 - [EISK](https://github.com/eisk) -  .NET CLI和VS模板，具有简单的用例，可以在.net核心之上构建可扩展的应用程序，具有架构最佳实践（DDD，洋葱架构等）.
-- [EmailMaker](https://github.com/xhafan/emailmaker) - 电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) 用法
+- [EmailMaker](https://github.com/xhafan/emailmaker) - 电子邮件营销ASP.NET Core MVC和ASP.NET MVC演示应用程序演示 [CoreDdd](https://github.com/xhafan/coreddd) usage
 - [eShopOnContainersDDD](https://github.com/volak/eShopOnContainersDDD) -  eShop fullstack示例，包含目录，购物篮，结帐和订单有限的上下文
 - [Equinox Project](https://github.com/EduardoPires/EquinoxProject) - 具有DDD，CQRS和事件源的完整ASP.NET Core 2.0应用程序
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d)   - 用于棋子游戏的域驱动设计示例.  有两个文件：带有一系列设计的临时文件和最终版本.
@@ -161,7 +162,7 @@
 - [Sample .NET Core CQRS REST API](https://github.com/kgrzybek/sample-dotnet-core-cqrs-api) - 使用Clean Architecture的原始SQL和DDD的.NET Core REST API CQRS实现.
 - [Scritchy](https://github.com/ToJans/Scritchy) - 没有管道的CQRS， [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
 - [Simple CQRS in F#](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
-- [SimpleCQRS](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
+- [SimpleCQRS](https://github.com/gregoryyoung/m-r) -  Greg Young的“最简单的事情”CQRS与事件采购项目.
 - [TodoMVC-DDD-CQRS-EventSourcing](https://github.com/volak/TodoMVC-DDD-CQRS-EventSourcing) - Implementation of basic Todo app via tastejs/todomvc in C#/Typescript with eventsourcing, cqrs, and domain driven design
 
 ### Haskell
@@ -204,7 +205,7 @@
 - [MassTransit](https://github.com/MassTransit/MassTransit) -  .NET分布式应用程序框架.
 - [MessageRouter](https://github.com/QuickenLoans/MessageRouter) - 在此视频中描述： [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore](https://github.com/NEventStore/NEventStore) - 使用事件源作为存储机制时，用于抽象不同存储实现的持久性库.
-- [NServiceBus](https://github.com/Particular/NServiceBus) -  .NET的服务总线.
+- [NServiceBus](https://github.com/Particular/NServiceBus) - Service bus for .NET.
 - [Projac](https://github.com/yreynhout/Projac) -  Projac是一组投影库，允许您编写针对各种后备存储的投影.
 - [shriek-fx](https://github.com/ElderJames/shriek-fx) - 使用.NET Core 2.0开发的简单，优雅且有用的域驱动设计和CQRS框架.
 - [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - 面向基于SQL的实现的.NET Stream Store库.
@@ -223,7 +224,7 @@
 - [eventstore](https://github.com/slashdotdash/eventstore) - 使用PostgreSQL进行持久化的CQRS事件存储.
 
 ### JavaScript
-- [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
+- [cqrs.js](http://cqrs.js.org)   -  node.js中的CQRS实现.  包括 [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga](https://github.com/adrai/node-cqrs-saga).
 - [Node API Boilerplate](https://github.com/talyssonoc/node-api-boilerplate) - 用于DDD和Clean Architecture应用程序的NodeJS Web API样板.
 - [wolkenkit](https://www.wolkenkit.io/) - 用于JavaScript和Node.js的CQRS，DDD和事件源框架.
 

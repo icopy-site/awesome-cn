@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="adafruit/awesome-circuitpython"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
   <img width="400" src="https://raw.githubusercontent.com/adafruit/awesome-circuitpython/master/awesome_circuitpython.png" alt="Awesome CircuitPython"><br>
 </h1>
@@ -19,7 +20,7 @@
 
 - [Welcome to CircuitPython!](https://learn.adafruit.com/welcome-to-circuitpython/overview) -  CircuitPython和社区概述.
 - [CircuitPython Essentials](https://learn.adafruit.com/circuitpython-essentials) - 学习CircuitPython的基本功能.
-- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - 关于CircuitPython的Adafruit学习指南.
+- [learn.adafruit.com CircuitPython](https://learn.adafruit.com/category/circuitpython) - Adafruit Learning Guides on CircuitPython.
 - [learn.adafruit.com CircuitPython & MicroPython](https://learn.adafruit.com/category/micropython-slash-circuitpython) -  CircuitPython和MicroPython的指南.
 
 ## Community
@@ -84,7 +85,7 @@
 ## Newsletter
 
 - [Adafruit Daily, Python for microcontrollers](https://www.adafruitdaily.com/) - 关于MicroPython和CircuitPython的每周简报，一个无垃圾邮件列表.
-- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - Guidelines on contributing to the newsletter.
+- [Contribute to newsletter](https://github.com/adafruit/circuitpython-weekly-newsletter) - 关于为时事通讯做出贡献的指南.
 - [Archives of all newsletters](https://www.adafruitdaily.com/category/circuitpython/) -  2016年11月开始发布的每份简报清单.
 
 ## News
@@ -126,7 +127,7 @@
 ## Social
 
 - [#CircuitPython tagged on Twitter, latest](https://twitter.com/search?f=tweets&vertical=default&q=%23CircuitPython&src=tyah) -  Twitter帖子标记为CircuitPython.
-- [CircuitPython Twitter](https://twitter.com/circuitpython) -  CircuitPython新闻的Twitter帐户聚合器等.
+- [CircuitPython Twitter](https://twitter.com/circuitpython) - Twitter account aggregator for CircuitPython news and more.
 - [CircuitPython videos on YouTube, latest](https://www.youtube.com/results?sp=CAI%253D&search_query=circuitpython) -  YouTube帖子标记为CircuitPython.
 - [#CircuitPython tagged photos & videos on Instagram](https://www.instagram.com/explore/tags/circuitpython/) -  Instagram上的帖子标记为CircuitPython.
 - [CircuitPython on Google+ Makers, hackers, artists & engineers](https://plus.google.com/u/0/b/112526208786662512291/communities/112845006884148391862/stream/7235f94a-ceab-4a9a-90b2-a47438af0675) - 与CircuitPython相关的Google Plus帖子.

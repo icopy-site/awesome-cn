@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="bulutyazilim/awesome-datascience"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -193,7 +194,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - 伟大的通知
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何进入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) - 关于统计计算和可视化的思考
-- [Data Science 101](http://101.datascience.community/) - 学习成为数据科学家
+- [Data Science 101](http://101.datascience.community/) - Learning To Be A Data Scientist
 - [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](http://chriswhong.github.io/nyctaxi/)
@@ -267,8 +268,8 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Exploring the Data Jungle](https://www.manning.com/books/exploring-the-data-jungle) - 免费电子书采样器
 - [Python® for R Users: A Data Science Approach](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119126805)
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
-- [Math for Programmers](https://www.manning.com/books/math-for-programmers) Early access
-- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) Early access
+- [Math for Programmers](https://www.manning.com/books/math-for-programmers) 早期访问
+- [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) 早期访问
 
 ## Facebook Accounts
 
@@ -395,7 +396,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Scikit-Learn](http://scikit-learn.org/stable/) Python中的机器学习
  * [NumPy](http://www.numpy.org/)  NumPy是使用Python进行科学计算的基础.  它支持大型，多维数组和矩阵，并包含各种高级数学函数来操作这些数组.
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组配合使用，为数值积分和优化提供了有效的例程.
- * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) - Coursera Course
+ * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -  Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
  * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 获取数字，文本，图像，GIS或其他数据，并为其提供Wolfram处理，执行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告 - 所有这些都由基于知识的革命性Wolfram语言提供支持.
  * [Sense Data Science Development Platform](https://sense.io/) 一个新的数据科学和大数据分析云平台
@@ -403,7 +404,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Datadog](https://www.datadoghq.com/) 用于高规模数据科学的解决方案，代码和开发人员.
  * [Variance](http://variancecharts.com/) 无需编写JavaScript即可为Web构建强大的数据可视化
  * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) 风筝软件开发工具包（Apache许可证，版本2.0）或简称风筝，是一组库，工具，示例和文档，专注于使在Hadoop生态系统之上构建系统变得更加容易.
- * [Domino Data Labs](http://www.dominodatalab.com) Run, scale, share, and deploy your models — without any infrastructure or setup.
+ * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型 - 无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 用于高效，分布式，通用数据处理的平台.
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，允许您在MapReduce之外进行高级分析.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
@@ -415,7 +416,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
  * [Skale](https://github.com/skale-me/skale-engine) -  NodeJS中的高性能分布式数据处理
  * [Aerosolve](http://airbnb.io/aerosolve/) - 为人类建立的机器学习包.
- * [Intel framework](https://github.com/01org/idlf) - 英特尔®深度学习框架
+ * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://www.datawrapper.de/)   - 一个开源数据可视化平台，帮助每个人创建简单，正确和可嵌入的图表.  也在 [github.com](https://github.com/datawrapper/datawrapper)
  * [Tensor Flow](https://www.tensorflow.org/) -  TensorFlow是一个用于机器智能的开源软件库
  * [Natural Language Toolkit](http://www.nltk.org/)
@@ -477,7 +478,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
  * [ICML](http://icml.cc/2015/) - 国际机器学习会议
  * [epjdatascience](http://epjdatascience.springeropen.com/)
- * [Journal of Data Science](http://www.jds-online.com/) - 一本致力于统计方法应用的国际期刊
+ * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
  * [Journal of Big Data](http://journalofbigdata.springeropen.com/)
  * [Big Data & Society](http://journals.sagepub.com/home/bds)

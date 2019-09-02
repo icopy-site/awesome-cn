@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sitepoint-editors/awesome-symfony"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Symfony [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 很棒的清单 [Symfony](http://symfony.com) 捆绑包，实用程序和资源.
 
@@ -48,7 +49,7 @@
 * [Reddit](https://www.reddit.com/r/symfony) - 提问和回答问题，讨论.
 * [SensioLabs Connect](https://connect.sensiolabs.com/login) - 开发者社交网络，为您的社区参与和承诺赢得成就.
 * [Slack](https://symfony.com/slack-invite) -  Slack上的Symfony，团队沟通的平台.
-* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) -  Stack Overflow上的Symfony支持.
+* [Stack Overflow](http://stackoverflow.com/questions/tagged/symfony2) - Symfony support on Stack Overflow.
 * [Twitter](https://twitter.com/symfony) - 以类似Twitter的方式跟上Symfony的新闻.
 
 ## Development
@@ -146,7 +147,7 @@
 * [CacheToolBundle](https://github.com/gordalina/CacheToolBundle) - 捆绑以在Symfony2中集成cachetool库（从命令行清除acp / opcache）.
 * [CarbonBundle](https://github.com/lightsuner/CarbonBundle) - 此捆绑包提供将Request数据转换为Carbon对象的机会.
 * [CheckBundles](https://github.com/wjzijderveld/CheckBundles) - 检查已安装但未在AppKernel捆绑包中激活.
-* [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - 能够备份您的数据库并将其上传到云端.
+* [CloudBackupBundle](https://github.com/dizda/CloudBackupBundle) - Be able to backup your database(s) and upload it to the cloud.
 * [ConsoleBundle](https://github.com/CoreSphere/ConsoleBundle) - 浏览器中的命令行界面.
 * [CsaGuzzleBundle](https://github.com/csarrazi/CsaGuzzleBundle) - 在Symfony中捆绑集成Guzzle&gt; = 4.0.
 * [CsvBundle](https://github.com/EGYG33K/CsvBundle) - 将thephpleague / csv集成到Symfony中.
@@ -157,7 +158,7 @@
 * [FeatureToggleBundle](https://github.com/marekkalnik/FeatureToggleBundle) - 通过向twig添加一些简单标签并扩展其配置，在Symfony2中配置功能切换.
 * [ffmpeg-bundle](https://github.com/pulse00/ffmpeg-bundle) - 此捆绑包为PHP_FFmpeg库提供了一个简单的包装器，将库作为​​Symfony服务公开.
 * [FlorianvSwapBundle](https://github.com/florianv/FlorianvSwapBundle) - 此Bundle集成了Swap库.
-* [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - 为Symfony项目添加BBCode支持.
+* [FMBbCodeBundle](https://github.com/helios-ag/FMBbCodeBundle) - Adds BBCode support to Symfony project.
 * [FMElfinderBundle](https://github.com/helios-ag/FMElfinderBundle) - 提供Elfinder文件浏览器与流行的WYSIWYG编辑器的集成.
 * [GnugatWizardBundle](https://github.com/gnugat/GnugatWizardBundle) - 将捆绑安装步骤神奇地缩减为单个命令.
 * [godfather](https://github.com/PUGX/godfather) -  PHP中策略模式的库.
@@ -200,7 +201,7 @@
 * [ThruwayBundle](https://github.com/voryx/ThruwayBundle) - 用于在Symfony中构建实时应用程序的捆绑包.
 * [timeline-bundle](https://github.com/stephpy/timeline-bundle) -  Symfony2捆绑以制定时间表.
 * [TransmissionBundle](https://github.com/labzone/TransmissionBundle) - 捆绑传输API客户端.
-* [versioning-bundle](https://github.com/shivas/versioning-bundle) - Simple way to version (semantic versioning 2.0.0).
+* [versioning-bundle](https://github.com/shivas/versioning-bundle) - 简单的版本方式（语义版本2.0.0）.
 * [VisithorBundle](https://github.com/Visithor/VisithorBundle) - 用于PHP包的vismor的Symfony Bundle.
 * [WhiteOctoberPagerfantaBundle](https://github.com/whiteoctober/WhiteOctoberPagerfantaBundle) - 捆绑使用Pagerfanta.
 * [WidopFrameworkExtraBundle](https://github.com/widop/WidopFrameworkExtraBundle) - 为Controller类添加注释配置.
@@ -244,7 +245,7 @@
 
 ## Service Container
 
-* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - Manages configuration settings stored in the database and makes them accessible via a service in your Symfony 2 project.
+* [CraueConfigBundle](https://github.com/craue/CraueConfigBundle) - 管理存储在数据库中的配置设置，并通过Symfony 2项目中的服务访问它们.
 * [JMDSettingsBundle](https://github.com/mops1k/settings-bundle) - 数据库中商店配置的简单服务，可通过服务和项目中的树枝访问.
 * [JMSDiExtraBundle](http://jmsyst.com/bundles/JMSDiExtraBundle) - 提供高级依赖注入功能.
 * [KutnyAutowiringBundle](https://github.com/kutny/autowiring-bundle) - 为服务参数提供自动装配的捆绑包.
@@ -264,7 +265,7 @@
 * [FeedBundle](https://github.com/eko/FeedBundle) - 用于从您的实体构建RSS源的捆绑包.
 * [FPNTagBundle](https://github.com/FabienPennequin/FPNTagBundle) - 此捆绑包添加了标记功能，可以将标记与任意数量的不同实体相关联.
 * [GaufretteBrowserBundle](https://github.com/digitalkaoz/GaufretteBrowserBundle) - 此Bundle允许您浏览Gaufrette文件系统，如Doctrine Connection.
-* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - Integrates Gaufrette.
+* [KnpGaufretteBundle](https://github.com/KnpLabs/KnpGaufretteBundle) - 集成晶圆.
 * [MysqlDoctrineFunctions](https://github.com/mapado/MysqlDoctrineFunctions) -  Doctrine的MySQL函数：RAND（），ROUND（）DATE（），DATE_FORMAT（）.
 * [OneupFlysystemBundle](https://github.com/1up-lab/OneupFlysystemBundle) - 集成Flysystem.
 * [RelationBundle](https://github.com/Ph3nol/RelationBundle)   - 捆绑管理模型/实体之间的关系.  （不再维护）

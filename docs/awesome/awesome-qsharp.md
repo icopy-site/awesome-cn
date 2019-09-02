@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ebraminio/awesome-qsharp"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Q## [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > [Q#](https://docs.microsoft.com/en-us/quantum/)  是一种特定于域的编程语言，用于表达量子算法.  它最初由微软作为量子开发套件的一部分向公众发布.   - [Wikipedia](https://en.wikipedia.org/wiki/Q_Sharp)

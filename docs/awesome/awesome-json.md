@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="burningtree/awesome-json"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的JSON库和资源的精选列表.
 
@@ -26,7 +27,7 @@
 * [JSON Viewer Awesome](https://chrome.google.com/webstore/detail/json-viewer-awesome/iemadiahhbebdklepanmkjenfdebfpfe/related?hl=en) - 一个开源Chrome扩展程序，用于浏览带有语法突出显示和折叠的JSON，或者作为可视图形.
 
 **Firefox**
-* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
+* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github](https://github.com/bhollis/jsonview)） - 在浏览器中查看JSON文档.
 
 **Safari**
 * [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github](https://github.com/acrogenesis/JSONAce)） - 格式和语法使用ACE编辑器突出显示在Web浏览器内部查看的JSON.
@@ -133,7 +134,7 @@
 * [JSON-Fortran](https://github.com/jacobwilliams/json-fortran) - 用于编写，读取和操作JSON文件和数据结构的Fortran库.
 
 **Haskell**
-* [aeson-qq](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
+* [aeson-qq](https://github.com/sol/aeson-qq) -  Haskell的JSON quasiquoter.
 * [json-schema](http://hackage.haskell.org/package/json-schema) -  Haskell的JSON Schema库
 * [hjsonschema](http://hackage.haskell.org/package/hjsonschema) -  Haskell的JSON Schema Draft 4库
 
@@ -160,7 +161,7 @@
 * [PL/JSON](https://github.com/pljson/pljson) - 用PL / SQL编写的通用JSON对象.
 
 **PHP**
-* [Webmozart JSON](https://github.com/webmozart/json) - 强大的解码器/编码器，支持模式验证.
+* [Webmozart JSON](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 
 **Python**
 * [simplejson](https://github.com/simplejson/simplejson) - 简单，快速，可扩展的编码器/解码器
@@ -207,7 +208,7 @@
 * [jq play](https://jqplay.org/) -  jq的游乐场.
 * [json2yaml](https://www.json2yaml.com/) - 在线将JSON转换为YAML.
 * [JSON Selector Generator](http://jsonselector.com/) - 用于生成要访问的选择器的简单GUI.
-* [JSON.fr](https://www.json.fr/) - 完全客户端验证器和格式化程序.
+* [JSON.fr](https://www.json.fr/) - Fully client-side validator and formatter.
 * [ObjGen](http://www.objgen.com/json) - 在线直播JSON生成器.
 * [JsonStub](https://jsonstub.com/) - 在线JSON faker.
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - 用于测试和原型设计的假在线REST API.
@@ -302,7 +303,7 @@
 * [ObjectPath](http://objectpath.org/)   - 半结构化数据的敏捷查询语言.  （蟒蛇）
 * [DefiantJS](https://www.defiantjs.com/)   - 使用XPath表达式进行快速搜索，并使用XSL进行转换.  （JavaScript）
 * [JSONSelect](https://github.com/lloyd/JSONSelect)   - 类似CSS的选择器.  （JavaScript）
-* [JSONPath](https://goessner.net/articles/JsonPath/)   -  XPath实现.  （Java脚本/ PHP）
+* [JSONPath](https://goessner.net/articles/JsonPath/)   -  XPath实现.  （使用Javascript / PHP）
 * [searchjs](https://github.com/deitch/searchjs) - 基于类似json SQL的语言进行过滤的库.
 * [json-rel](https://github.com/slurmulon/json-where) -  JSON中的透明引用.
 * [JSONata](http://jsonata.org/) -  Node-RED中使用的查询和转换语言，支持函数表达式.

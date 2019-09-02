@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="wbkd/awesome-d3"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 此列表记录有趣 [D3js](http://d3js.org) 库，插件和实用程序.
@@ -179,12 +180,12 @@ Curators: [Moritz Klack](https://twitter.com/moklick) 和 [Christopher Möller](
 - [dragit](https://github.com/romsson/dragit) - 用于启用数据图形操作的工具包
 - [d3moji](https://github.com/mathisonian/d3moji) - 一流的表情符号支持
 - [d3-cloud](https://github.com/jasondavies/d3-cloud) - 词云
-- [d3-context-menu](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
+- [d3-context-menu](https://github.com/patorjk/d3-context-menu) - 助手创建上下文菜单
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - 实施引力（或力场式排斥）
 - [d3-force-reuse](https://github.com/twosixlabs/d3-force-reuse) - 通过重用力逼近来更快地实现力导向的图形布局
 - [d3-resume](https://github.com/glena/d3-resume) - 恢复可视化工具
 - [d3.sketchy](https://github.com/sebastian-meier/d3.sketchy) - 创建粗略的背景，形状和线条
-- [d3plus-text](https://github.com/d3plus/d3plus-text) - 智能SVG文本框，包括换行和自动字体缩放
+- [d3plus-text](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](https://github.com/1wheel/graph-scroll) - 简单的滚动事件
 - [jsdoc2diagram](https://github.com/amcmillan01/jsdoc2diagram) - 从jsdoc创建树形图
 - [mermaid](https://github.com/knsv/mermaid) - 以降价方式从文本生成图表和流程图

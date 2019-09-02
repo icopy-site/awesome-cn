@@ -1,14 +1,15 @@
 <div class="github-widget" data-repo="WebCreationClub/awesome-construct"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Construct [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://s1.construct.net/images/v347/uploads/product/2/defaulticon/1/icon.png" align="right" width="100">](https://www.construct.net/)
 
- &gt;你可以创造你梦想的游戏.  建立大脑搔痒难题，令人惊叹的平台游戏和身临其境的RPG  - 或打破模具并创造新的东西.
+ &gt;你可以创造你梦想的游戏.  建立大脑痒痒谜题，令人惊叹的平台游戏和身临其境的RPG游戏 - 或打破模具并创造新的东西.
 &gt;创建你想要的，你想要 [Construct](https://www.construct.net).
 >
 &gt;  - <cite>阿什利（Scirra创始人）</cite>
 
-此列表包含与真棒游戏开发引擎相关的所有最佳工具，教程和示例 [Construct 2](https://www.scirra.com/construct2) 和 [Construct](https://www.construct.net).
+此列表包含与真棒游戏开发引擎相关的所有最佳工具，教程和示例 [Construct 2](https://www.scirra.com/construct2) and [Construct](https://www.construct.net).
 
 [How to contribute?](https://github.com/armaldio/awesome-construct/blob/master/contributing.md)
 
@@ -67,11 +68,11 @@
 -  [[thenewboston]游戏开发w / Construct 2播放列表]（https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAfHxsK6bji7trLS-N0nKF-） - 新闻波士顿游戏开发的官方播放列表.
 -  [[thenewboston]平台游戏开发w / Construct 2播放列表]（https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAp287UuTE0-K7Ty-b8rGAX） - 新闻波士顿平台游戏开发的官方播放列表.
 -  [[thenewboston]物理益智游戏开发w / Construct 2播放列表]（https://www.youtube.com/playlist?list=PL6gx4Cwl9DGDexNbWi0uPBP6buduUZO3Q） - 新闻波士顿物理益智游戏开发教程的官方播放列表.
--  [[LividProductions]平台教程]（https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7） - 本系列教您如何制作平台游戏.
+-  [[LividProductions]平台教程]（https://www.youtube.com/playlist?list=PLz66pfeeD4TcPN9kO7JlqiITpgi_WWgn7） - 本系列将教你如何制作平台游戏.
 -  [[Jerementor] Construct 2 Tutorials]（https://www.youtube.com/channel/UCQkYeiHm9URZsa7nugUg1lw/playlists） - 一般教程.
 -  [[Kawaerri] Scirra Construct 2 Tutorial]（https://www.youtube.com/playlist?list=PLdn9X5UVD8H1dEcWVjYU9E5fbpPGjZnQv） - 一般教程.
 -  [[Gamer Z]  - 教程列表]（https://www.youtube.com/channel/UCXIcG5r9W_Iw6dui35g9oLQ/playlists） - 一般教程.
-- [[TodaysTuts] Construct 2 - Behaviors](https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK) - Tutorials about Behaviours.
+-  [[TodaysTuts]构造2  - 行为]（https://www.youtube.com/playlist?list=PLO3K3VFvlU6B1InGyrx7Iz7w_MDizWlXK） - 关于行为的教程.
 - 让我们制作游戏：[[PONG]]（https://www.youtube.com/watch?v=cvItNHEMB80) [[ASTEROIDS]]（https://www.youtube.com/watch?v=nYULTk2BpKY）[ [Flappy Bird]]（https://www.youtube.com/watch?v=eBccn1qMB_U） - 有关如何制作特定游戏的教程.
 - [Construct 2 Tutorials - Breakout Clone](https://www.youtube.com/playlist?list=PL59F92017DA9887DB) - 了解如何创建Brakeout游戏.
 

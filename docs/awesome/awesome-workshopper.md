@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="therebelrobot/awesome-workshopper"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 *另外，很棒的冒险*
 
@@ -39,10 +40,10 @@
 | [introtowebgl](https://github.com/alexmackey/IntroToWebGLWithThreeJS)  |  使用three.js |来介绍WebGL
 | [javascripting](https://github.com/sethvincent/javascripting)  |  通过在终端冒险来学习JavaScript
 | [jsadventure](https://github.com/mk30/jsadventure)  |  Javascript简介.  无需编程经验.  |
-| [kick-off-koa](https://github.com/koajs/kick-off-koa)  |  介绍koa
+| [kick-off-koa](https://github.com/koajs/kick-off-koa)  |  介绍koa |
 | [learn-generators](https://github.com/isRuslan/learn-generators)  |  JavaScript ES（6 \ | 2015）生成器讲师.  在实践中学习.  ：金属：|
 | [learnjs](https://github.com/mikeal/learnjs)  |  Javascript简介|
-| [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb)  |  了解CouchDB非常好！  |
+| [learnyoucouchdb](https://github.com/robertkowalski/learnyoucouchdb) | Learn you CouchDB for great good! |
 | [learnyoumongodb](https://github.com/braz/learnyoumongodb)  |  使用终端学习MongoDB |
 | [learnyounode](https://github.com/workshopper/learnyounode)  |  了解Node.js获得多赢！  Node.js简介|
 | [levelmeup](https://github.com/workshopper/levelmeup)  |  升级Scotty！  Node.js数据库简介|
@@ -53,7 +54,7 @@
 | [node-debug-school](https://github.com/joyent/node-debug-school)  |  nodeschool课程用于调试Node.js |
 | [nodebot-workshop](https://github.com/tableflip/nodebot-workshop)  |  Arduino / Johnny-five（机器人学）|
 | [nodenext](https://github.com/geek/nodenext)  |  了解下一版本的节点|
-| [npm-tutor](https://github.com/timoxley/npm-tutor)  |  npm tutor for nodeconf 2014
+| [npm-tutor](https://github.com/timoxley/npm-tutor)  |  npm tutor for nodeconf 2014 |
 | [oobootcamp](https://github.com/winsonwq/OOBootcamp.js)  |  面向对象的JavaScript Bootcamp |
 | [planetproto](https://github.com/sporto/planetproto)  |  理解JavaScript原型|
 | [promise-it-wont-hurt](https://github.com/stevekane/promise-it-wont-hurt)  |  一个Workshopper模块，教你在javascript中使用promises |
@@ -102,7 +103,7 @@
 
 如果上述版权声明和本许可声明出现在所有副本中，则允许出于任何目的使用，复制，修改和/或分发此软件，无论是否收费.
 
- 本软件按“原样”提供，作者不承担有关本软件的所有保证，包括对适销性和适用性的所有暗示保证.  在任何情况下，作者均不对由于使用，数据或利润损失而导致的任何特殊，直接，间接或间接损害或任何损害负责，无论是在合同，疏忽或其他正常行动中，是由于与本软件的使用或性能有关.
+ 本软件按“原样”提供，作者不承担有关本软件的所有保证，包括对适销性和适用性的所有暗示保证.  在任何情况下，作者均不对因使用，数据或利润损失而导致的任何特殊，直接，间接或间接损害或任何损害负责，无论是在合同，疏忽或其他正常行动中，是由于与本软件的使用或性能有关.
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/therebelrobot/awesome-workshopper/trend.png)]（https://bitdeli.com/free“Bitdeli徽章”）

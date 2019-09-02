@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="matteofigus/awesome-speaking"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ================
 
@@ -7,7 +8,7 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 ## Blog Posts
 * [8 Classic Storytelling Techniques for Engaging Presentations](https://www.sparkol.com/en/Blog/8-Classic-storytelling-techniques-for-engaging-presentations) -  ** Ffion Lindsay **
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - 来自** Christina Wodtke **
-* [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) 作者：Sam Jarman **
+* [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - 来自** Sam Jarman **
 * [Nine Secrets to Powerful Public Speaking](http://www.gq-magazine.co.uk/article/public-speaking-tips) - 由朱利安宝藏**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - 来自** Christina Wodtke **
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) -  **特洛伊亨特**

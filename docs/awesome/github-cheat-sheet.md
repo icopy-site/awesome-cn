@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="tiimgreen/github-cheat-sheet"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  Git和GitHub的一个很酷的隐藏和不那么隐藏的功能的集合.  这个备忘单的灵感来自于 [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) 在2012年Aloha Ruby Conference上发言（[slides](https://speakerdeck.com/holman/git-and-github-secrets)） 和他 [More Git and GitHub Secrets](https://vimeo.com/72955426) 在WDCNZ 2013上发言（[slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
@@ -50,7 +51,7 @@ $ git clone https://github.com/tiimgreen/github-cheat-sheet
 ### Branch
 #### Compare all Branches to Another Branch
 
-如果你去回购 [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) 页面，在“提交”按钮旁边：
+如果你去回购 [Branches](https://github.com/tiimgreen/github-cheat-sheet/branches) page, next to the Commits button:
 
 ```
 https://github.com/{user}/{repo}/branches
@@ -150,7 +151,7 @@ $ git push
 
 ```bash
 $ curl -i http://git.io -F“url = https://github.com / ...”
-HTTP/1.1 201 Created
+HTTP / 1.1 201已创建
 地点：http：//git.io/abc123
 
 $ curl -i http://git.io/abc123
@@ -280,7 +281,7 @@ GitHub使用 [Linguist](https://github.com/github/linguist)  执行语言检测�
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
 ### Emojis
-可以使用`：name_of_emoji：`将Emojis添加到Pull请求，问题，提交消息，存储库描述等.
+Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using `:name_of_emoji:`.
 
 可以在以下位置找到GitHub上支持的Emojis的完整列表 [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) 要么 [scotch-io/All-Github-Emoji-Icons](https://github.com/scotch-io/All-Github-Emoji-Icons).
 一个方便的表情符号搜索引擎可以在 [emoji.muan.co](http://emoji.muan.co/).
@@ -402,7 +403,7 @@ _（仅适用于Chrome浏览器）_
 [*Read more about task lists in markdown documents.*](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 ### Relative Links
-Relative links are recommended in your Markdown files when linking to internal content.
+链接到内部内容时，建议在Markdown文件中使用相对链接.
 
 ```markdown
 [Link to a file](https://github.com/tiimgreen/github-cheat-sheet/blob/master/docs/readme)
@@ -415,7 +416,7 @@ Relative links are recommended in your Markdown files when linking to internal c
 ### Metadata and Plugin Support for GitHub Pages
 在Jekyll页面和帖子中，存储库信息在`site.github`命名空间中可用，并且可以显示，例如，使用`{{site.github.project_title}}`.
 
-Jemoji和jekyll-mentions插件启用 [emoji](#emojis) 和 [@mentions](https://github.com/blog/821) in your Jekyll posts 和 pages to work just like you'd expect when interacting with a repository on GitHub.com.
+Jemoji和jekyll-mentions插件启用 [emoji](#emojis) and [@mentions](https://github.com/blog/821) 在您的Jekyll帖子和页面中工作就像您在GitHub.com上与存储库交互时所期望的那样.
 
 [*Read more about repository metadata and plugin support for GitHub Pages.*](https://github.com/blog/1797-repository-metadata-and-plugin-support-for-github-pages)
 
@@ -768,7 +769,7 @@ produces:
 
 归功于 [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*可以使用找到的说明对其进行别名处理 [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*This can be aliased using the instructions found [here](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -795,7 +796,7 @@ Git Grep将返回与模式匹配的行列表.
 
 Running:
 ```bash
-$ git grep别名
+$ git抓取别名
 ```
 将显示包含字符串* aliases *的所有文件.
 
@@ -937,7 +938,7 @@ $ git comit -m“消息”
 ## in 1.5 seconds automatically...
 ```
 
-The delay before git will rerun the command is so the user has time to abort.
+git之前的延迟将重新运行命令，因此用户有时间中止.
 
 #### Color
 要为Git输出添加更多颜色：

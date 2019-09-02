@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="qinwf/awesome-R"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome R
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -110,7 +111,7 @@
 *烹饪数据包.*
 
 * [haven](https://github.com/hadley/haven) - 改进了在R中导入SPSS，Stata和SAS文件的方法.
-* [tidyr](https://github.com/hadley/tidyr) - Easily tidy data with spread and gather functions.
+* [tidyr](https://github.com/hadley/tidyr) - 通过传播和收集功能轻松整理数据.
 * [rlist](https://github.com/renkun-ken/rlist) - 用于使用列表进行非表格数据操作的工具箱.
 * [jsonlite](https://github.com/jeroenooms/jsonlite) - 一种在R中解析JSON文件的强大而快速的方法
 * [ff](http://ff.r-forge.r-project.org/) - 用于存储大型数据集的数据结构.
@@ -183,10 +184,10 @@
 * [checkpoint](https://github.com/RevolutionAnalytics/checkpoint) - 从检查点服务器上的快照安装包.
 * [brew](https://cran.r-project.org/web/packages/brew/index.html)   - 预先计算数据以增强报告模板.  可与knitr结合使用.
 * [officer](https://davidgohel.github.io/officer/index.html) - 用于生成Microsoft Word，Microsoft PowerPoint和HTML报告的R包.
-* [flextable](https://davidgohel.github.io/flextable/index.html) - An R package to embed complex tables (merged cells, multi-level headers and footers, conditional formatting) in Microsoft Word, Microsoft PowerPoint and HTML reports. It cooperates with the [officer] package and integrates with [rmarkdown] reports.
+* [flextable](https://davidgohel.github.io/flextable/index.html)   - 在Microsoft Word，Microsoft PowerPoint和HTML报告中嵌入复杂表格（合并单元格，多级页眉和页脚，条件格式）的R包.  它与[官员]包合作，并与[rmarkdown]报告集成.
 * [bookdown](https://bookdown.org/) - 使用R Markdown编写图书.
 * [ezknitr](https://github.com/daattali/ezknitr) - 使用&#39;knitr&#39;时避免典型的工作目录痛苦
-* [drake](https://github.com/ropensci/drake) - 安 [rOpenSci](https://ropensci.org/) 可重复数据科学工作流程的包装太大了 [knitr](http://yihui.name/knitr/).
+* [drake](https://github.com/ropensci/drake) - 安 [rOpenSci](https://ropensci.org/) package for reproducible data science workflows too big for [knitr](http://yihui.name/knitr/).
 * [R Suite](http://rsuite.io) - 为R设计灵活且可重现的部署工作流程的软件包
 
 ## Web Technologies and Services
@@ -376,7 +377,7 @@ Data
 * [openNLP](http://cran.r-project.org/web/packages/openNLP/index.html) -  Apache OpenNLP工具界面.
 * [koRpus](http://cran.r-project.org/web/packages/koRpus/index.html) - 用于文本分析的R包.
 * [zipfR](http://cran.r-project.org/web/packages/zipfR/index.html) - 词频分布的统计模型.
-* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - Basic functions for Natural Language Processing.
+* [NLP](http://cran.r-project.org/web/packages/NLP/index.html) - 自然语言处理的基本功能.
 * [LDAvis](https://github.com/cpsievert/LDAvis) - 主题模型的交互式可视化.
 * [topicmodels](https://cran.r-project.org/web/packages/topicmodels/index.html) - 由David M. Blei为主题建模（Latent Dirichlet Allocation（LDA）和Correlated Topics Models（CTM））开发的C代码的主题建模界面.
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - 使用三种不同的情绪词典从文本中提取情绪.
@@ -428,7 +429,7 @@ Data
 * [genetics](http://cran.r-project.org/web/packages/genetics/index.html) - 处理遗传数据的类和方法.
 * [gap](http://cran.r-project.org/web/packages/gap/index.html) - 用于人口和家庭数据遗传数据分析的综合方案.
 * [ape](http://cran.r-project.org/web/packages/ape/index.html) - 系统发育和进化分析.
-* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图变得容易.
+* [pheatmap](http://cran.r-project.org/web/packages/pheatmap/index.html) - 漂亮的热图很容易.
 * [lme4](https://github.com/lme4/lme4) - 广义混合效果模型.
 * [nlme](https://cran.r-project.org/web/packages/nlme/index.html) - 混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观察的分析相关.
 * [glmmTMB](https://cran.r-project.org/web/packages/glmmTMB/index.html) - 广义混合效应模型，处理用户指定的残差协方差矩阵，与纵向试验中重复观测的分析相关.
@@ -464,7 +465,7 @@ Data
 * [maptools](https://cran.r-project.org/web/packages/maptools/index.html) - 用于读取和处理空间对象的工具
 * [gstat](https://github.com/edzer/gstat) - 空间和时空地质统计建模，预测和模拟.
 * [spacetime](https://github.com/edzer/spacetime) - 用于时空数据的R类和方法.
-* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - 为地图提供配色方案
+* [RColorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html) - Provides color schemes for maps
 * [spatstat](https://github.com/spatstat/spatstat) - 空间点模式分析，模型拟合，模拟，测试
 * [spdep](https://cran.r-project.org/web/packages/spdep/index.html) - 空间依赖性：加权方案，统计和模型
 * [tigris](https://github.com/walkerke/tigris) - 在R中下载并使用Census TIGER / Line shapefiles
@@ -491,7 +492,7 @@ Data
 *记录包*
 
 * [futile.logger](https://github.com/zatonovo/futile.logger) -  R中的日志包类似于log4j
-* [log4r](https://github.com/johnmyleswhite/log4r) -  R的log4j导数
+* [log4r](https://github.com/johnmyleswhite/log4r) - A log4j derivative for R
 * [logging](https://cran.r-project.org/web/packages/logging/index.html) - 模拟python日志包的日志包.
 
 ## Data Packages
@@ -573,7 +574,7 @@ Data
   * [@Roger Peng](https://twitter.com/rdpeng) 和 [@Hilary Parker](https://twitter.com/hspter).
 * [R World News](http://www.rworld.news/blog/) -  R World News帮助您跟上R社区内的各种事件.
   * [@Bob Rudis](https://twitter.com/hrbrmstr) 和 [@Jay Jacobs](https://twitter.com/jayjacobs).
-* [The R-Podcast](https://r-podcast.org/) - Giving practical advice on how to use R.
+* [The R-Podcast](https://r-podcast.org/) - 就如何使用R提供实用建议.
   * [@Eric Nantz](https://r-podcast.org/stories/contact.html).
 * [R Talk](http://rtalk.org) - 统计软件和语言的新闻和讨论R.
   * [@Oliver Keyes](https://twitter.com/quominus), [@Jasmine Dumas](https://twitter.com/jasdumas), [@Ted Hart](https://twitter.com/emhrt_) 和 [@Mikhail Popov](https://twitter.com/bearloga).

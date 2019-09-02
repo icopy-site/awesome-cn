@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="TheJambo/awesome-testing"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ![](https://github.com/TheJambo/awesome-testing/blob/master/AwesomeTesting.jpg?raw=true)
 ## Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 &gt;精选的测试软件，扩展和资源列表
@@ -45,7 +46,7 @@
 - [Explore It!: Reduce Risk and Increase Confidence with Exploratory Testing](https://amzn.to/2n8axLn) - 关于构建探索性测试和设计测试的非常好的书.
 - [The Domain Testing Workbook](https://amzn.to/2Az4l90) - 深入了解目前使用的最常见的测试技术，即域测试（也称为边界分析和等价类划分），其中有许多示例可以变得更好.
 - [Don't Make Me Think: A Common Sense Approach to Web Usability](https://amzn.to/2naYmhf) - 一本非常有用的可用性测试书.
-- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - 关于软件测试的最佳书籍之一，分为现在适用的一小部分课程.
+- [Lessons Learned in Software Testing](https://amzn.to/2LTjM01) - One of the best books on Software Testing, broken into bite size lessons that are as applicable now as when it was published.
 - [UI is Communication](https://amzn.to/2vbiALY) - 如何制作直观的用户界面（UI和可用性测试）.
 - [Thinking, Fast and Slow](https://amzn.to/2vcjasX) - 关于我们如何制定决策以及如何进行实验（实验==测试）.
 
@@ -89,7 +90,7 @@
 
 ## Code of Conduct
 见 [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md)  详情.  基本上它归结为：
->In the interest of fostering an open and welcoming environment, we as
+&gt;为了营造一个开放和热情的环境，我们就像
 贡献者和维护者承诺参与我们的项目和
 我们的社区为每个人提供无骚扰的体验，无论年龄，身体
 大小，残疾，种族，性别认同和表达，经验水平，

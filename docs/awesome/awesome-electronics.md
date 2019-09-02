@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kitspace/awesome-electronics"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;为电子工程师和业余爱好者准备的精彩资源列表
@@ -87,7 +88,7 @@
 - [Buyparts.io](http://buyparts.io)   - 来自datasheetarchive.com创建者的新竞争者.  针对业余爱好者，似乎更善于整合Ebay和Aliexpress等资源. 
 
 ## Project Sharing Platforms
-- [Kitspace.org](https://kitspace.org)   - 项目共享网站，可帮助您购买零件和重建项目.  开源并由您自己开发.
+- [Kitspace.org](https://kitspace.org) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - 用于从热门博客分享项目的社交网站.
 
 ## Inventory Management and Purchasing
@@ -115,7 +116,7 @@
 
 ### Discussion
 - [EEVBlog forum](https://www.eevblog.com/forum/) - 可能是讨论电子工程主题的最大和最活跃的论坛.
-- [/r/electronics](https://www.reddit.com/r/electronics/) and [/r/ECE](https://www.reddit.com/r/ECE/) 是EE主题的两个最活跃的子reddits.
+- [/r/electronics](https://www.reddit.com/r/electronics/) 和 [/r/ECE](https://www.reddit.com/r/ECE/) 是EE主题的两个最活跃的子reddits.
 
 ### Help
  - [/r/askelectronics](https://www.reddit.com/r/AskElectronics/) -  Sub-reddit致力于帮助电子主题.
@@ -126,7 +127,7 @@
 ## Podcasts
  - [The Amp Hour](https://theamphour.com/) - 与Chris Gammel和Dave Jones（EEVBlog）进行关于电子产品的袖口聊天，经常与客人聊聊
  - [Embedded FM](https://www.embedded.fm/) -  Christopher和Elecia White讨论嵌入式系统开发等等，经常与客人讨论.
- - [Sparkgap Podcast](http://thesparkgap.net) - 每一集都包含一个特定的EE主题，有时还有客人.
+ - [Sparkgap Podcast](http://thesparkgap.net) - 每一集都包含一个特定的EE主题，有时还会与访客联系.
  - [MacroFab Engineering Podcast](https://macrofab.com/blog/podcast/) - 每周播客，来自MacroFab的Parker和Stephen讨论EE主题和行业新闻
  - [The Engineering Commons Podcast](http://theengineeringcommons.com/) - 涵盖从机械到电气的一般工程主题.
 
@@ -151,7 +152,7 @@
 
 
 ## Other Lists
-- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 您可以在项目中使用的中国廉价电子产品清单
+- [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) - 来自中国的廉价电子产品清单，您可以在项目中使用
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - 更全面的所有可用软件工具列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) - 另一个GitHub列表：电子爱好者和硬件黑客的资源
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) - 令人敬畏的FPGA资源列表

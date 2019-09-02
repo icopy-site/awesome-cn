@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="sachin1092/awesome-material"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的Google列表 [material design](http://www.google.com/design/spec) 基于图书馆，资源和令人敬畏的东西.
@@ -66,7 +67,7 @@ SASS
 
 WordPress
 ==
-  - [MaterialPress](https://github.com/alexpatin/MaterialPress) -  MaterialPress是一个WordPress主题，受到Google材料设计理念的严重影响.
+  - [MaterialPress](https://github.com/alexpatin/MaterialPress) -  MaterialPress是一个WordPress主题，受到Google的Material Design理念的严重影响.
   - [materialwp](https://github.com/braginteractive/materialwp) - 材料设计WordPress主题.
   
  的WinForms
@@ -89,7 +90,7 @@ Other
   - [ScaffoldHub.io](https://scaffoldhub.io) - 使用在线建模工具生成完整的Angular Material应用程序！
   
 ## Other Awesome Lists
-其他令人惊讶的精彩列表可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+其他惊人的令人敬畏的名单可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
 
 ## Contributing
 

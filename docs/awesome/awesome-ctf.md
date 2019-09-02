@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="apsdehal/awesome-ctf"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的清单 [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security)  （CTF）框架，库，资源，软件和教程.  此列表旨在帮助初学者和经验丰富的CTF玩家在一个地方找到与CTF相关的所有内容.
@@ -72,7 +73,7 @@
 
 ## Attacks
 
-*Tools used for performing various kinds of attacks*
+*用于执行各种攻击的工具*
 
 - [Bettercap](https://github.com/bettercap/bettercap) - 执行MITM（中间人）攻击的框架.
 - [Layer 2 attacks](https://github.com/tomac/yersinia) - 攻击第2层上的各种协议
@@ -117,7 +118,7 @@
 
 *用于解决取证挑战的工具*
 
-- [Aircrack-Ng](http://www.aircrack-ng.org/) - 破解802.11 WEP和WPA-PSK密钥
+- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys
   - `apt-get install aircrack-ng`
 - [Audacity](http://sourceforge.net/projects/audacity/) - 分析声音文件（mp3，m4a，等等）
   - `apt-get install audacity`

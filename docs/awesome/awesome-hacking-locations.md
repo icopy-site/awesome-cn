@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="daviddias/awesome-hacking-locations"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 令人敬畏的黑客地点 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===============================
 
@@ -13,7 +14,7 @@
 
 &gt;问：什么让黑客攻击真棒？
 
- 在这里你可以去和你的朋友一起去黑客，电力和无线网络是一个加分，喝咖啡和小吃是一个奖励.  我们现在排除需要订阅或会员资格的地方（除非会员资格可以在访问时刻完成，并且不需要长期承诺）.
+A place where you would go and take your friends to go hacking with, power and wifi are a plus, having coffee and snacks is a bonus. We are excluding for now places that require a subscription or membership of somekind (unless that membership can be done at the of the visit moment and it doesn't require a long term commitment).
 
 ## Template
 
@@ -185,7 +186,7 @@ CoWorking办公室非常棒，但通常需要长期通勤，如果您正在寻�
 
 #### Copenhagen Coffee Lab
 
-> Roasts and sells their own coffee
+&gt;烤自己的咖啡
 
 网页：http：//copenhagencoffeelab.com/kaffebaren/
 
@@ -205,7 +206,7 @@ CoWorking办公室非常棒，但通常需要长期通勤，如果您正在寻�
 
 #### Emmerys (Store Kongensgade)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+网页：http：//www.emmerys.dk/cafebutik.html
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
@@ -213,7 +214,7 @@ Webpage: http://www.emmerys.dk/cafebutik.html
 
 #### Emmerys (Store Strandstræde)
 
-Webpage: http://www.emmerys.dk/cafebutik.html
+网页：http：//www.emmerys.dk/cafebutik.html
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
@@ -364,7 +365,7 @@ Webpage: http://www.emmerys.dk/cafebutik.html
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD)  |  周一至周四08：00-00：00，周五08：03：00，周六09：00-3：00，周日09：00-00：00
+✔ | ✔ | [Rosenthaler Str. 72A, 10437 Berlin](https://goo.gl/vWXWvD)  |  周一至周四08：00-00：00，周五08：03：00，周六09：00-03：00，周日09：00-00：00
 
 ## Dresden
 
@@ -377,7 +378,7 @@ Webpage: [ascii-dresden.de](http://ascii-dresden.de)
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
- （仅限eduroam）|  ✔| [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2)  |  周一至周四9:00至17:00;  周五9:00至15:00
+ （仅限eduroam）|  ✔| [Nöthnitzerstr. 46, 01187 Dresden](https://goo.gl/maps/74VwX2opdDG2)  |  周一至周五9：00-17：00;  周五9：00-15：00
 
 ## Hamburg
 
@@ -497,7 +498,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 #### Fuglen
 
-&gt;斯堪的纳维亚咖啡馆，有一些座位，很棒的咖啡，漂亮的音乐和时髦的氛围
+> Scandinavian cafe with some seats, great coffee, nice music, and a hipster vibe
 
 网页：http：//www.fuglen.com/japanese/
 
@@ -677,13 +678,13 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
 #### Blossom
 
-&gt;价格合理的咖啡和美食.
+> Great coffee and food in reasonable price.
 
 网页：https：//www.facebook.com/BlossomCoffeeAndFood/
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv)  |  周一至周六8：00-20：00，周日8：00-19：00
+✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
 
 #### Café Lisboa
 
@@ -693,7 +694,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
- ✔|  x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92)  |  周一至周三08：00-20：00，周五08：00-21：00，周六至周日10：00-20：00
+ ✔|  x | [33-332, Dolnych Młynów 3, 33-332 Kraków](https://goo.gl/maps/qJ1DVt4jAU92)  |  周一至周三08：00-20：00，周四至周五08：00-21：00，周六至周日10：00-20：00
 
 #### Café Tektura
 
@@ -799,7 +800,7 @@ Webpage: [mercadonegro-aveiro.blogspot.pt](http://mercadonegro-aveiro.blogspot.p
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92)  |  周一至周五7:30至21:00，周五至周六7:30至22:00，周日7:30至14:00
+✔ | ✔ | [Rua de São Rosendo - nr 17, 4700-099 Braga](https://goo.gl/maps/F76rgZNjvF92)  |  周一至周四7:30  -  21：00，周五至周六7:30  -  22:00，周日7：30-14：00
 
 ![](http://www.speedtest.net/result/5678886940.png)
 
@@ -907,7 +908,7 @@ Wifi pw：`涂鸦`
 
 ![](http://www.speedtest.net/result/6430591434.png)
 
-Wifi pw：`酵母`
+Wifi pw：酵母
 
 #### Padaria Portuguesa - Cais do Sodré
 
@@ -921,7 +922,7 @@ Wifi pw：`酵母`
 
 ![](http://beta.speedtest.net/result/6946089256.png)
 
-Wifi pw：`葡萄牙语`
+Wifi pw：`portuguese`
 
 #### Pois Café
 
@@ -1061,7 +1062,7 @@ Wifi pw：`葡萄牙语`
 
 &gt;位于波尔图市中心的咖啡馆，图书馆和书店.
 
-Webpage: https://www.cafecandelabro.com/
+网页：https：//www.cafecandelabro.com/
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
@@ -1345,7 +1346,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw) | 24/7 (Members Only)
+✔ | ✔ | [447 Hackney Road, London, E2 9DY](https://goo.gl/maps/iyzxMYzKocw)  |  24/7（仅限会员）
 
 ## Scotland
 
@@ -1646,7 +1647,7 @@ Notes:
 
 #### Yoghut
 
-> Great coffee, acai bowls and bubble tea. Never crowded or noisy either so its good if you enjoy peace and quite for hacking.
+ &gt;很棒的咖啡，acai碗和泡茶.  从来没有拥挤或嘈杂如此，如果你享受和平和非常黑客的好处.
 
 网页：https：//yoghut.com/
 
@@ -1713,7 +1714,7 @@ Notes:
 
  Wifi |  电源|  气候变化|  地址|  营业时间
 ---- | ----- | -------------- | ------- | ----------
- 打开，墙上的密码|  ✔|  ❄️/♨️| [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432)  |  周一至周五，上午7:00至下午6:00周六上午8:00至下午6:00周日休息|
+ 打开，墙上的密码|  ✔|  ❄️/♨️| [1805 E Grace St, Richmond, VA 23223](https://goo.gl/maps/eXyASDqE7432) | Open Monday - Friday, 7:00am - 6:00pm Saturday 8:00am - 6:00pm Closed Sundays |
 
 ## Washington <a id="washington"></a>
 
@@ -1725,7 +1726,7 @@ Notes:
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ------ | ------- | ----------
- 打开|  ✔|  ✔| [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2)  |  周一至周四9：00-21：00，周五至周六10：00-18：00，周日12:00至20:00
+ 打开|  ✔|  ✔| [1111 110th Ave NE, Bellevue, WA 98004](https://goo.gl/maps/MECUJ6BM2JG2)  |  周一至周四9：00-21：00，周五至周六10：00-18：00，周日12：00-20：00
 
 ## Seattle, WA <a id="seattle-wa"></a>
 

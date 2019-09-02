@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="uraimo/Awesome-Swift-Playgrounds"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Swift Playgrounds [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)  ![150 playgrounds](https://img.shields.io/badge/Playgrounds:-150-orange.svg)
 
 &gt;精选Swift游乐场的精选列表.
@@ -145,7 +146,7 @@
 ### Algorithms and Data Structures
 *在Swift *中实现的算法和数据结构
 
-* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+* [Animated Sorting Algorithms](https://github.com/p-sun/Animated-Sorting-Algorithms) -  Swift 4个游乐场，用于查看和操作排序算法.
 * [Expressions](https://github.com/mpangburn/Expressions) - 使用面向协议的二叉树优雅地建模和可视化的算术和逻辑表达式.
 * [Swift Algorithm Club](https://github.com/raywenderlich/swift-algorithm-club) -  Swift中的算法和数据结构及其解释. 
 * [Sorting Experiments](https://github.com/adrfer/Sort) - 在Swift中使用排序算法进行诱人的实验.
@@ -157,7 +158,7 @@
 * [Swiftography](https://github.com/sketchytech/Swiftography)   -  Swift Playground中的标准加密算法.  ⏳
 * [Algorithms Playground](https://github.com/ashokgelal/AlgorithmsPlayground)   -  Swift中的各种算法实现.  ⏳
 * [The Jelly Bean Problem](https://github.com/kyleweiner/Jelly-Bean-Problem)   - 来自等待但为什么的果冻豆问题.  ⏳
-* [Euclidean Strings](https://github.com/modulusMathews/ReEuclid)   - 利用ReSwift生成欧几里德弦乐的游乐场.  ⏳
+* [Euclidean Strings](https://github.com/modulusMathews/ReEuclid) - A playground leveraging ReSwift to generate Euclidean Strings. ⏳
 
 ### Languages
 * Swift *中实现的编程语言解释器
@@ -183,7 +184,7 @@
 * [UIKit playground](https://github.com/ralfebert/uikit-playground) - 运动场以UIKit视图交互式实验.
 * [UIDynamic Playground](https://github.com/andresbrun/UIDynamicsPlayground) - 使用几乎所有UIDynamic行为的多个游乐场.
 * [WWDC16 Typography](https://github.com/tototti/wwdc16_typography_playground)  - 使用WWDC16 ASCII纹理绘制徽标或任何文本.  
-* [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - 用于生成动画GIF的Swift游乐场.
+* [Animated GIF Playground](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
 * [RPClarity](https://github.com/RobotsAndPencils/RPClarity)   - 显示用于模糊一个或多个UILabel后面的字符后面的图像的技术.  ⏳
 * [Swift Clock](https://github.com/nickoneill/swiftclock)   - 一个快速操场上的动画时钟.  ⏳
 * [WatchKit Asset Playground](https://github.com/cwimberger/WatchKitAssetPlayground)   - 一个快速的游乐场，为您的WatchKit应用程序创建出色的动画.  ⏳
@@ -246,7 +247,7 @@
 * [AudioKit Playgrounds](https://audiokit.io/playgrounds/) - 使用AudioKit的130多个音频合成，处理，回放和分析游乐场.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - 一组显示机器学习算法的游乐场，全部用AIToolbox框架代码实现.
 * [Cognitive Service APIs](https://github.com/codePrincess/playgrounds) - 开始使用Microsoft Cognitive Services API.
-* [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - A playground with RxSwift examples.
+* [Rx Playground](https://github.com/sgr-ksmt/RxPlayground) - 带RxSwift示例的游乐场.
 
 ## Playground Sets
 *关于各种主题的游乐场集*

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ipfs/awesome-ipfs"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
@@ -15,7 +16,7 @@
 
  欢迎每个人提交他们新的awesome-ipfs项目.  为了在此列表中添加元素，您需要修改`/ data`中的文件，然后在发布拉取请求之前运行一个简单的`make build`作为自述文件，并自动生成网站.  检查 [CONTRIBUTING.md guidelines](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md) 学习如何做到这一点.
 
-**NOTE**: If you want to edit the README file directly (not the items/links) you need to modify the [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
+**注意**：如果要直接编辑README文件（而不是项目/链接），则需要修改 [README template](https://github.com/ipfs/awesome-ipfs/blob/master/scripts/readme-template.md)  而是再次运行`make build`.  谢谢！
 
 ## Apps
 
@@ -77,10 +78,10 @@
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - 使用window.ipfs的演示应用程序，由IPFS Companion Web扩展提供，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - 使用window.ipfs的IPv4 IPFS对等体的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Peergos](https://peergos.org) - 端到端加密，对等文件存储和共享. [Source](https://github.com/Peergos/Peergos)
-- [Philes](https://philes.co) - 一个简单的基于浏览器的IPFS记事本应用程序. [Source](https://github.com/chrismatthieu/philes)
+- [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/)   -  IPFS播放支持.  这允许将IPFS中的视频投射到Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 使用window.ipfs的~76KB演示聊天应用程序，由IPFS Companion Web扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
-- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布它们.
+- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 - [qri](https://qri.io) - 数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleID](https://simpleid.xyz/) - 用于向您的应用添加以太坊身份验证和内容固定的开发人员工具. [Source](https://github.com/simplesecure/)
@@ -101,7 +102,7 @@
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
-- 2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
+-  2017-08-10： [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 

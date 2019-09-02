@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="aleksandar-todorovic/awesome-c"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)[![List Status](https://api.travis-ci.org/aleksandar-todorovic/awesome-c.svg?branch=master)](https://travis-ci.org/aleksandar-todorovic/awesome-c)
 
  C好东西的精选列表.  此列表仅包含* [free software](https://en.wikipedia.org/wiki/Free_software) 代码和卖家谁不是物质资源的邪恶.
@@ -35,7 +36,7 @@ Contents
 
 * [Clang](http://clang.llvm.org/)   - 用于LLVM的C编译器.  支持C11. [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
 * [CompCert](http://compcert.inria.fr/)   - 完全验证的C编译器.  支持几乎所有的C89. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [GCC](https://gcc.gnu.org/) - Provides a C compiler as part of its compiler set. Supports C11 and OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [GCC](https://gcc.gnu.org/)   - 提供C编译器作为其编译器集的一部分.  支持C11和OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
 * [PCC](http://pcc.ludd.ltu.se/)   - 尊敬的C编译器.  支持C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
 * [TCC](https://bellard.org/tcc/)   -  Tiny C编译器;  一个小而快速的C编译器.  支持C99（复杂类型除外）. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Intel SPMD](http://ispc.github.io/) - 编译器用于C语言的变体，用于单个程序，多个数据编程. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
@@ -92,7 +93,7 @@ Contents
 
 * [Cxref](http://www.gedanken.org.uk/software/cxref/) - 以LaTeX，HTML，RTF或SGML生成C程序的文档. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [DocOnce](https://hplgit.github.io/doconce/doc/web/index.html) - 适度标记的标记语言，可用于生成一系列格式. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [Doxygen](http://www.doxygen.nl/) - The de-facto standard tool for generating C documentation from annotated sources. Can generate a large range of formats. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [Doxygen](http://www.doxygen.nl/)   - 用于从注释源生成C文档的事实上的标准工具.  可以生成大范围的格式. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [GTK-Doc](https://www.gtk.要么g/gtk-doc/)   - 用于从带注释的源生成C文档的工具.  支持Autotools. [`GNU GPL2.1 (code)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU FDL1.1`](https://www.gnu.要么g/licenses/old-licenses/fdl-1.1.html)
 
 ## Editors ##
@@ -139,7 +140,7 @@ Contents
 * [EFL](https://www.enlightenment.org/) - 大量有用的数据结构和功能.
 * [GLib](https://wiki.gnome.org/Projects/GLib) - 实用功能和结构库，旨在便携，高效和强大. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [GIO](https://developer.gnome.org/gio/) - 现代且易于使用的VFS API. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [GObject](https://developer.gnome.org/gobject/stable/) - Object-oriented system and object model for C. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
+* [GObject](https://developer.gnome.org/gobject/stable/) - 面向对象的系统和C的对象模型. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [libnih](https://github.com/keybuk/libnih) -  C函数和结构的轻量级库. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [libU](http://www.koanlogic.com/libu/) - 基本实用程序的小型库，包括内存分配，字符串操作和日志记录. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [PBL](http://www.mission-base.com/peter/source/) - 大型实用程序库，包括数据结构等. [`GNU LGPL2.1 要么 later (library)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU GPL2.1 要么 later (test code)`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html)
@@ -164,7 +165,7 @@ Contents
 
 ### Resources ###
 
-这些是对游戏编程有用的各种库.
+These are libraries of all sorts that are useful for game programming.
 
 * [Allegro](https://liballeg.org/) - 跨平台，视频游戏开发和多媒体库. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [Chipmunk2D](http://chipmunk-physics.net/) - 快速轻巧的2D游戏物理库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -215,7 +216,7 @@ Contents
 
 ## Hashing ##
 
-所有散列相关的库，加密与否.
+所有哈希相关的库，加密与否.
 
 * [jwHash](https://github.com/watmough/jwHash) - 快速哈希表实现. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [xxHash](http://cyan4973.github.io/xxHash/) - 极快的非加密哈希算法. [`2-clause BSD`](https://directory.fsf.org/wiki/License:BSD-2-Clause)
@@ -405,7 +406,7 @@ Contents
 * [GSL](http://www.gnu.org/software/gsl/)   -  GNU科学图书馆;  一个复杂的数值库. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
 * [igraph](https://igraph.org/) - 用于创建和操作大图的库. [`GNU GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [KISS FFT](https://sourceforge.net/projects/kissfft/) - 非常简单的快速傅里叶变换库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [LAPACKE](http://www.netlib.org/lapack/lapacke.html) - C interface to [LAPACK](http://www.netlib.org/lapack/). [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
+* [LAPACKE](http://www.netlib.org/lapack/lapacke.html) -  C接口 [LAPACK](http://www.netlib.org/lapack/). [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [PARI/GP](http://pari.math.u-bordeaux.fr/)   - 数论的计算机代数系统;  包括C的编译器. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [PETSc](https://www.mcs.anl.gov/petsc/) - 用于通过偏微分方程建模的科学应用的可扩展并行解决方案的数据结构和例程套件. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [PROB](https://people.sc.fsu.edu/~jburkardt/c_src/prob/prob.html) - 处理各种离散和连续概率密度函数的库.  [`GNU LGPL3`](https://people.sc.fsu.edu/~jburkardt/txt/gnu_lgpl.txt)
@@ -415,7 +416,7 @@ Contents
 
 * [cchan](http://repo.hu/projects/cchan/) - 用于线程间通信的通道构造的小型库. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [ck](http://concurrencykit.org/) - 并发原语，安全内存回收机制和非阻塞数据结构. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
-* [mill](http://libmill.org/) -  C中的Go-style并发性 [`X11`](https://directory.fsf.org/wiki/License:X11)
+* [mill](http://libmill.org/) -  C语言中的Go-style并发 [`X11`](https://directory.fsf.org/wiki/License:X11)
 * [libdill](http://libdill.org/) -  C中的结构化并发 [`X11`](https://directory.fsf.org/wiki/License:X11)
 * [MPICH](http://www.mpich.org/) -  MPI的另一种实现. [`MPICH licence`](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)
 * [OpenMP](https://www.openmp.org/) - 一组C pragma，旨在实现代码的轻松并行化. [`3-clause BSD`](https://opensource.org/licenses/BSD-3-Clause)
@@ -454,7 +455,7 @@ Contents
 * [mpack](https://github.com/ludocode/mpack) - 另一个实施 [MessagePack](https://msgpack.org/) 序列化协议. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [netstring-c](https://github.com/liteserver/netstring-c) -  Netstring编码器和解码器. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [protobuf-c](https://github.com/protobuf-c/protobuf-c) - 在C中实施Google协议缓冲区 [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
-* [xdr](https://en.wikipedia.org/wiki/External_Data_Representation)   - 外部数据表示;  数据序列化的标准.
+* [xdr](https://en.wikipedia.org/wiki/External_Data_Representation) - External Data Representation; a standard for data serialization.
 
 
 ## Source Code Collections ##
@@ -518,7 +519,7 @@ Contents
 
 ## Tools ##
 
-这是一个有用的程序列表，可帮助您编写和调试C代码，这些代码不是*编辑器，库或编译器.
+这是一个有用的程序列表，可以帮助您编写和调试C代码，这些代码不是*编辑器，库或编译器.
 
 * [Artistic Style](http://astyle.sourceforge.net/) - 支持C的快速小型自动源代码格式化程序. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
 * [address-sanitizer](https://github.com/google/sanitizers) - 快速存储器错误检测器. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
@@ -555,7 +556,7 @@ Contents
 * [CException](https://github.com/ThrowTheSwitch/CException) -  C实例异常. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [docopt.c](https://github.com/docopt/docopt.c) - 命令行选项解析器的C实现. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [dyncall](http://www.dyncall.org/) - 另一个外部函数接口库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [FANN](http://leenissen.dk/fann/wp/)   - 快速人工神经网络库;  神经网络的实现. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [FANN](http://leenissen.dk/fann/wp/) - Fast Artifical Neural Network library; an implementation of neural networks. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Firm](https://pp.ipd.kit.edu/firm/)   -  C库，提供适用于编译器的基于图形的中间表示，优化和汇编代码生成.  在同一许可证下附带一个示例C前端. [`GNU LGPLv2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Genann](https://github.com/codeplea/genann) -  C中的简单神经网络库 [`Zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [gjrand](https://sourcef要么ge.net/projects/gjrand/) - 随机数生成例程库. [`GNU GPL2.1`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html) 要么 [`GNU GPLv3`](http://www.gnu.要么g/licenses/gpl.html)
@@ -582,7 +583,7 @@ Contents
 * [Tinyexpr](https://github.com/codeplea/tinyexpr) - 简单的递归下降解析器，编译器和评估引擎，用于简单的数学表达式. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [uthash](http://troydhanson.github.io/uthash/) - 哈希表实现，允许现有结构轻松存储在哈希表中. [`1-clause BSD`](http://troydhanson.github.io/uthash/license.html)
 * [cpu_features](https://github.com/google/cpu_features) - 跨平台C99库，用于在运行时获取cpu功能. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [pblog](https://github.com/google/pblog) - 用于记录软件事件的小型低开销结构化日志库.[`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
+* [pblog](https://github.com/google/pblog) - Small, low overhead, structured logging library intended for logging formware events.[`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [libelf](https://github.com/WolfgangSt/libelf) -  C中的ELF目标文件访问库 [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [mcpp](http://mcpp.sourceforge.net/) - 便携式C预处理器. [`2-clause BSD`](https://opensource.org/licenses/BSD-2-Clause)
 * [libusb](https://libusb.info/) - 对USB设备的通用访问. [`LGPL2.1`](https://github.com/libusb/libusb/blob/master/COPYING)

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="petk/awesome-dojo"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dojo
 
 <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" height="18"></a>
@@ -42,7 +43,7 @@
 
 ## Bootstraps and boilerplates
 
-* [dboostrap](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
+* [dboostrap](https://github.com/atoha/dbootstrap) -  Dojo的Bootstrap主题
 * [Dojo Boilerplate](https://github.com/csnover/dojo-boilerplate) - 使用Dojo Toolkit进行开发的起始样板
 * [Dojo Twitter bootstrap](https://github.com/xsokev/Dojo-Bootstrap) - 使用Dojo实现Twitter Bootstrap框架
 * [dojo.js](https://github.com/gpedro/dojo.js) - 使用Jasmine和Gulp开始你的道场的简约样板.
@@ -59,7 +60,7 @@
 * [dojo-smore](https://github.com/kfranqueiro/dojo-smore) - 包含Dojo / Store实现的包
 * [generator-dojo](https://github.com/bryanforbes/generator-dojo) -  Dojo项目的自动生成器
 *网格
-    * [dgrid](http://dgrid.io/) - 下一代网格组件，充分利用现代浏览器和对象存储.
+    * [dgrid](http://dgrid.io/) - 充分利用现代浏览器和对象存储的下一代网格组件.
     * [gridx](http://oria.github.io/gridx/) - 基于Grid的快速渲染，良好模块化和插件架构.
     * [xgrid](https://github.com/xblox/xgrid) -  dgrid扩展.
 * [grunt-dojo](https://github.com/phated/grunt-dojo) - 在Grunt任务中构建Dojo
@@ -127,8 +128,8 @@
 
 * [AuShada](https://github.com/dreaswar/AuShadha) -  Django和Dojo申请电子医疗记录（EMR）和公共卫生管理
 * [dapi](https://github.com/dojo/dapi) -  node.js Dojo API查看器
-* [Dig Dug](https://github.com/theintern/digdug) - 用于启动WebDriver服务隧道的JavaScript库
-* [Dojo Demo](https://github.com/rmurphey/dojo-demo) -  Dojo演示
+* [Dig Dug](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
+* [Dojo Demo](https://github.com/rmurphey/dojo-demo) -Dojo演示
 * [dojorama](https://github.com/sirprize/dojorama) - 基于Dojo 1.9，Twitter Bootstrap 3和历史API的单页演示应用程序
 * [Dojox application](https://github.com/dmachi/dojox_application) - 适用于移动设备，平板电脑和台式机的Dojox应用程序框架
 * [js-doc-parse](https://github.com/dojo/js-doc-parse) - 用于解析dojo JavaScript文件和提取内联文档的库
@@ -136,7 +137,7 @@
 * [Scripted](https://github.com/scripted-editor) -  Scripted是一个快速轻量级的代码编辑器，最初专注于JavaScript编辑
 * [todomvc](https://github.com/tastejs/todomvc) - 帮助您选择MV \ *框架 -  todo应用程序示例
 * [Dojo2 Example](https://github.com/dojo/examples) -  Dojo 2示例
-* [xamiro](https://github.com/xblox/xamiro) - 具有最小依赖性的PHP和JavaScript中的IDE类似文件管理器.
+* [xamiro](https://github.com/xblox/xamiro) -  PHP和JavaScript中类似于IDE的文件管理器，具有最小的依赖性.
 * [Windows-dist](https://github.com/flysurfer28/windows-dist) - 用于物联网和原型设计的全自动化套件.
 
 

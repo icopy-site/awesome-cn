@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="quozd/awesome-dotnet"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -166,7 +167,7 @@
 
 ## Code Analysis and Metrics
 
-* [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - 最初开发的许多Roslyn诊断分析仪有助于充实静态分析API的设计和实现.
+* [.NET Compiler Platform ("Roslyn") Analyzers](https://github.com/dotnet/roslyn-analyzers) - A number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 * [NDepend](https://www.ndepend.com) - is a Visual Studio and VS Team Services extension that estimates your .NET code quality and Technical-Debt, that lets create code rules with C# LINQ syntax, visualize code structure and focus on changes and evolution. **[$]**
 * [App.Metrics](https://github.com/AppMetrics/AppMetrics)   -  App Metrics是一个开源和跨平台的.NET库，用于记录和报告应用程序中的指标并报告其健康状况.  见 [docs](https://www.app-metrics.io/) 对我来说细节.
 * [CodeMaid](http//www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
@@ -597,7 +598,7 @@
 * [AzureCrawler](https://github.com/yagopv/AzureCrawler) - 为您的Angular，Ember，Durandal或任何JavaScript应用程序拍摄HTML快照
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which uses C# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [CsvHelper](https://github.com/JoshClose/CsvHelper) - 帮助读写CSV文件的库https://github.com/JoshClose/CsvHelper
-* [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - Fluent library to create table for .Net console application.
+* [ConsoleTableExt](https://github.com/minhhungit/ConsoleTableExt) - 用于为.Net控制台应用程序创建表的流畅库.
 * [FlatMapper](https://github.com/joaomatossilva/FlatMapper) - 以LINQ兼容方式从纯文本文件导入数据和向纯文本文件导出数据的库.
 * [FluentValidation](https://github.com/JeremySkinner/FluentValidation) -  .NET的一个小型验证库，它使用流畅的接口和lambda表达式来构建验证规则.
 * [Guard](https://github.com/safakgur/guard) - 高性能，可扩展的参数验证库.

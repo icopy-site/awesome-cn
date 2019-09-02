@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="brillout/awesome-redux"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
@@ -52,10 +53,10 @@
 
  - [redux-saga](https://github.com/yelouafi/redux-saga) -  Redux应用程序的替代副作用模型.
  - [redux-promise-middleware](https://github.com/pburtchaell/redux-promise-middleware) -  Redux中间件，用于通过条件乐观更新来解决和拒绝承诺.
- - [redux-effects](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest.
+ - [redux-effects](https://github.com/redux-effects/redux-effects) - 你编写纯函数，redux-effects处理其余的函数.
  - [redux-thunk](https://github.com/gaearon/redux-thunk) -  Redux的Thunk中间件.
  - [redux-connect](https://github.com/makeomatic/redux-connect) - 提供装饰器来解析react-router中的异步道具，对于在React中处理服务器端渲染非常有用.
- - [redux-loop](https://github.com/redux-loop/redux-loop) - 榆树效果的端口和榆树建筑到Redux，允许您通过从减速器返回来自然而纯粹地对您的效果进行排序.
+ - [redux-loop](https://github.com/redux-loop/redux-loop) - 榆树效果的端口和榆树建筑到Redux，它允许您自然而纯粹地通过从减速器返回它们来对您的效果进行排序.
  - [redux-side-effects](https://github.com/salsita/redux-side-effects) -  Redux工具套件，用于在减压器内保持所有副作用，同时保持其纯度.
  - [redux-logic](https://github.com/jeffbski/redux-logic) - 用于组织业务逻辑和动作副作用的Redux中间件.
  - [redux-observable](https://github.com/redux-observable/redux-observable) - 使用“Epics”在Redux中实现动作副作用的RxJS中间件.
@@ -123,7 +124,7 @@
 
 ### Backbone
 
- - [backbone-redux](https://github.com/redbooth/backbone-redux) - 简化方法，使您的主干集合和Redux存储保持同步.
+ - [backbone-redux](https://github.com/redbooth/backbone-redux) - Easy way to keep your backbone collections and Redux store in sync.
 
 
 ### Falcor

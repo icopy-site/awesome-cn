@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="kyleterry/awesome-radio"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Radio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  精彩无线电资源的精选列表.  受到令人敬畏的启发 -  *.
@@ -49,7 +50,7 @@ CB在卡车司机和无线电爱好者中更受欢迎，但它的实用性
 让“他妈的”或“狗屎”走了.
 
  CB是公开的.  非常公开.  这似乎是一种“没有什么”的东西，但随着
-当前这一代人只使用手机，很容易忘记
+当前这一代人几乎只使用手机，很容易忘记
 使用“原始”作为CB无线电的东西基本上是[广播到
 the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
 
@@ -57,7 +58,7 @@ the world](http://en.wikipedia.org/wiki/Citizens_band_radio#Working_skip).
 conditions.
 
  频道9仅用于紧急情况.  这个频道没有一般的喋喋不休.  如果你
-被打破了，或者你的车着火了，除了打电话给911，这是一件好事
+被打破了，或者你的车着火，除了拨打911，这是一件好事
 传输信道寻求帮助.
 
 在波特兰附近，我在第6,17和28频道听到很多喋喋不休的声音
@@ -126,7 +127,7 @@ setup.
 根据您使用的硬件，它可能附带一些演示软件
  玩弄.  这对于有机会看到一些波浪而言非常棒
  开始了解什么是可能的.  否则，[GNU
-无线电]（https://gnuradio.org/redmine/）将用于您将花费时间的地方.
+无线电]（https://gnuradio.org/redmine/）将用于您花费时间的地方.
 它主要只是一个图书馆，但它也有一个支持组合的gui
  处理然后输出python的块.  一旦你更舒服，你
 也可以使用GNURadio进行任何设备调整，设置和i / o，然后使用
@@ -156,7 +157,7 @@ receivers.
 
 ### Links
 
-* American Radio Relay League - [ARRL](http://www.arrl.org/)
+*美国无线电中继联盟 -  [ARRL](http://www.arrl.org/)
 *澳大利亚无线研究所 [WIA](http://www.wia.org.au/)
 *英国无线电协会 -  [RSGB](http://rsgb.org/)
 *巴基斯坦业余无线电协会 -  [PARS](http://www.pakhams.com/)
@@ -171,7 +172,7 @@ receivers.
 * 在里面 [US](http://www.arrl.org/getting-licensed) 有三个许可证
   课程 - 技术员，一般和额外.
 * [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) 在
-  澳大利亚.
+  Australia.
 * [基础许可证]
   （http://rsgb.org/main/clubs-training/for-students/foundation/）在英国.
 *在
@@ -188,7 +189,7 @@ receivers.
 
 ### Trunking
 
-虽然不严格针对公共健康和安全，但通常是第一个
+虽然并非严格针对公共健康和安全，但通常是第一个
 在讨论集群无线电时想到的事情.
 
 集群无线电是一种多重数字双向通信形式

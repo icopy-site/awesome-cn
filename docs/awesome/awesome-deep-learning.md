@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ChristosChristofidis/awesome-deep-learning"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -71,7 +72,7 @@
 25. [Practical Deep Learning For Coders](http://course.fast.ai/) 作者：Jeremy Howard  -  Fast.ai
 26. [Introduction to Deep Learning](http://deeplearning.cs.cmu.edu/)  由教授  Bhiksha Raj（2017）
 27. [AI for Everyone](https://www.deeplearning.ai/ai-for-everyone/) 作者：Andrew Ng（2019）
-28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - A seven day bootcamp designed in MIT to introduce deep learning methods and applications (2019)
+28. [MIT Intro to Deep Learning 7 day bootcamp](https://introtodeeplearning.com) - 麻省理工学院设计的七天训练营，介绍深度学习方法和应用（2019年）
 29. [Deep Blueberry: Deep Learning](https://mithi.github.io/deep-blueberry) - 免费的五周末计划，让自学者学习CNN，LSTM，RNN，VAE，GAN，DQN，A3C等深度学习架构的基础知识（2019）
 30. [Spinning Up in Deep Reinforcement Learning](https://spinningup.openai.com/) -  OpenAI免费深度强化学习课程（2019年）
 
@@ -545,7 +546,7 @@
 
 -----
 ### Contributing
- 有什么想法，你觉得很棒，并且适合这个列表？  随意发送一个 [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
+Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/ashara12/awesome-deeplearning/pulls). 
 
 -----
 ## License

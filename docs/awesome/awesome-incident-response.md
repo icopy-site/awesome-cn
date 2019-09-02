@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="meirwah/awesome-incident-response"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Incident Response [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;针对安全事件响应的策划工具和资源列表，旨在帮助安全分析师和 [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-%28DFIR%29.html) 团队.
@@ -33,7 +34,7 @@
 * [Envdb](https://github.com/mephux/envdb)   -  Envdb将您的生产，开发，云等环境转变为数据库集群，您可以使用osquery作为基础进行搜索.  它使用（群集）节点代理包装osquery进程，该代理可以与中央位置进行通信.
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - 可扩展的基于Windows的应用程序，提供工作流程自动化，案例管理和安全响应功能.
 * [GRR Rapid Response](https://github.com/google/grr)   - 事件响应框架侧重于远程实时取证.  它由安装在目标系统上的python代理（客户端）和可以管理代理并与代理通信的python服务器基础结构组成.
-* [Kolide Fleet](https://kolide.com/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions.
+* [Kolide Fleet](https://kolide.com/fleet)   - 为安全专家量身定制的最先进的主机监控平台.  利用Facebook经过实战考验的osquery项目，Kolide可以快速回答大问题.
 * [Limacharlie](https://github.com/refractionpoint/limacharlie) - 由一系列小型项目组成的端点安全平台，它们协同工作，为您提供跨平台（Windows，OSX，Linux，Android和iOS）低级环境，用于管理和将其他模块推送到内存中以扩展其功能.
 * [Mozilla Investigator (MIG)](http://mig.mozilla.org/)   - 在远程终端上进行调查手术的平台.  它使调查人员能够并行获取大量系统的信息，从而加快对事件和日常操作安全性的调查.
 * [MozDef](https://github.com/mozilla/MozDef) - 自动化安全事件处理流程并促进事件处理程序的实时活动.
@@ -114,8 +115,8 @@
 * [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html)   - 免费内存取证软件，帮助事件响应者在现场记忆中发现邪恶.  Memoryze可以获取和/或分析存储器图像，并且在实时系统上，可以在其分析中包括页面文件.
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze-for-the-mac.html)   -  Memoryze for Mac是Memoryze，但随后是Mac.  但是，功能数量较少.
-* [Rekall](http://www.rekall-forensic.com/) - 用于从易失性存储器（RAM）样本中提取数字伪像的开源工具（和库）.
-* [Responder PRO](http://www.countertack.com/responder-pro) -  Responder PRO是行业标准的物理内存和自动恶意软件分析解决方案.
+* [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples.
+* [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution.
 * [Volatility](https://github.com/volatilityfoundation/volatility) - 高级内存取证框架.
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - 研究人员的自动化工具可以减少二进制提取阶段的所有猜测和手动任务，或者帮助研究人员完成记忆分析调查的第一步.
 * [VolDiff](https://github.com/aim4r/VolDiff) - 基于波动率的恶意软件内存占用分析.
@@ -155,7 +156,7 @@
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - 允许用户在Windows，Linux和OS X上使用YARA扫描IOC的磁盘和内存.
 * [RaQet](https://raqet.github.io/) - 非常规的远程采集和分类工具，允许对使用特制的取证操作系统重新启动的远程计算机（客户端）的磁盘进行分类.
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 出现问题时收集有关MySQL的取证数据.
-* [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
+* [Scout2](https://nccgroup.github.io/Scout2/) - 安全工具，可让Amazon Web Services管理员评估其环境的安全状况.
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 用于从云服务获取取证数据的命令行实用程序.
 * [Stenographer](https://github.com/google/stenographer)   - 数据包捕获解决方案，旨在快速将所有数据包假脱机到磁盘，然后提供对这些数据包的子集的简单，快速访问.  它可以存储尽可能多的历史记录，管理磁盘使用情况，以及在磁盘限制被触发时删除.  它非常适合在事件发生之前和事件期间捕获流量，而无需明确需要存储所有网络流量.
 * [sqhunter](https://github.com/0x4d31/sqhunter)   - 基于osquery和Salt Open（SaltStack）的威胁猎手，可以发出临时或分布式查询，而无需osquery的tls插件.  sqhunter允许您查询打开的网络套接字并根据威胁情报源进行检查.
@@ -207,13 +208,13 @@
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector)   - 在实时Windows系统上收集不同人工制品并将结果记录在csv文件中的工具.  通过对这些人工制品的分析，可以检测到早期的妥协.
 * [Fast Evidence Collector Toolkit (FECT)](https://github.com/jipegit/FECT)   -  Light事件响应工具包，用于收集可疑Windows计算机上的证据.  基本上它是由非技术精明的人与熟练工事件处理程序一起使用.
 * [Fibratus](https://github.com/rabbitstack/fibratus) - 用于探索和跟踪Windows内核的工具.
-* [IREC](https://binalyze.com/products/irec-free/)   - 一体化IR证据收集器，可捕获RAM映像，$ MFT，EventLogs，WMI脚本，注册表配置单元，系统还原点等等.  它是免费的，闪电般快速且易于使用.
+* [IREC](https://binalyze.com/products/irec-free/) - All-in-one IR Evidence Collector which captures RAM Image, $MFT, EventLogs, WMI Scripts, Registry Hives, System Restore Points and much more. It is FREE, lightning fast and easy to use.
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html)   -  Mandiant的免费工具，用于收集主机系统数据并报告妥协指标（IOC）的存在.  仅支持Windows.
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner)   - 来自Fidelis Cyber​​security的免费工具，它使用OpenIOC和YARA规则来报告端点的状态.  用户提供OpenIOC和YARA规则并执行该工具.  ThreatScanner测量系统的状态，并在运行完成时生成任何匹配规则的报告.  仅限Windows.
 * [LOKI](https://github.com/Neo23x0/Loki) - 使用yara规则和其他指标（IOC）扫描终点的免费红外扫描仪.
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) - 基于PowerShell的Windows分类和threathunting.
 * [Panorama](https://github.com/AlmCo/Panorama) - 实时Windows系统的快速事件概述.
-* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
+* [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - 使用PowerShell的Live disk取证平台.
 * [PSRecon](https://github.com/gfoss/PSRecon/)   -  PSRecon使用PowerShell（v2或更高版本）从远程Windows主机收集数据，将数据组织到文件夹中，散列所有提取的数据，散列PowerShell和各种系统属性，并将数据发送给安全团队.  数据可以推送到共享，通过电子邮件发送或保留在本地.
 * [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - 用Perl编写的开源工具，用于从Registry中提取/解析信息（键，值，数据）并将其呈现用于分析.
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - 适用于Windows的IR收集器.

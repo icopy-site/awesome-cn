@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="rust-unofficial/awesome-rust"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Rust [<img src="https://api.travis-ci.org/rust-unofficial/awesome-rust.svg?branch=master">](https://travis-ci.org/rust-unofficial/awesome-rust)
 
 Rust代码和资源的精选列表.
@@ -15,7 +16,7 @@ Rust代码和资源的精选列表.
 * [asm-cli-rust](https://github.com/cch123/asm-cli-rust) - 用锈写的interative组装shell.
 * [linkerd/linkerd2-proxy](https://github.com/linkerd/linkerd2-proxy) -  Kubernetes超轻型服务网.
 * [darrint/device-blocker](https://github.com/darrint/device-blocker) - 通过阻止家庭Wifi路由器上的互联网访问，限制儿童各种移动设备的屏幕时间.
-* [Fractalide](https://github.com/fractalide/fractalide) - 简单的Rust微服务
+* [Fractalide](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 * [habitat](https://www.habitat.sh) - 由...创建的工具 [Chef](https://www.chef.io/) 构建，部署和管理应用程序.
 * [Herd](https://github.com/imjacobclark/Herd) - 实验性HTTP负载测试应用程序
 * [jedisct1/flowgger](https://github.com/jedisct1/flowgger) - 快速，简单和轻量级的数据收集器
@@ -84,7 +85,7 @@ Rust代码和资源的精选列表.
 *虚拟男孩
   * [emu-rs/rustual-boy](https://raw.githubusercontent.com/emu-rs/rustual-boy) — [<img src="https://api.travis-ci.org/emu-rs/rustual-boy.svg?branch=master">](https://travis-ci.org/emu-rs/rustual-boy)
 * Intel 8080 CPU
-  * [mohanson/i8080](https://github.com/mohanson/i8080) -  Rust的Intel 8080 cpu仿真器 
+  * [mohanson/i8080](https://github.com/mohanson/i8080) — Intel 8080 cpu emulator by Rust 
 *仿真器开发工具
   * SNES
     * [ioncodes/snesutilities](https://github.com/ioncodes/snesutilities) -  ROM分析仪/提取器
@@ -97,7 +98,7 @@ Rust代码和资源的精选列表.
 * [rhex](https://github.com/dpc/rhex) - 六角ascii roguelike
 * [citybound](https://github.com/citybound/citybound) - 你值得拥有的城市
 * [rsaarelm/magog](https://github.com/rsaarelm/magog) -  Rust的roguelike游戏
-* [schulke-214/rsnake](https://github.com/schulke-214/rsnake) — Snake written in Rust.
+* [schulke-214/rsnake](https://github.com/schulke-214/rsnake) - 写在Rust的蛇.
 * [schulke-214/connect-four](https://github.com/schulke-214/connect-four) - 一个简单的连接四个实现.
 * [Thinkofname/rust-quake](https://github.com/Thinkofname/rust-quake) -  Rust中的Quake map渲染器
 * [Veloren](https://gitlab.com/veloren/veloren) - 一个开放世界的开源多人体素RPG.
@@ -285,7 +286,7 @@ Rust代码和资源的精选列表.
   * [bennettanderson/rjni](https://raw.githubusercontent.com/benanders/rjni) - 使用Rust的Java [<img src="https://api.travis-ci.com/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
   * [drrb/java-rust-example](https://raw.githubusercontent.com/drrb/java-rust-example) - 使用Java中的Rust [<img src="https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
   * [jni](https://crates.io/crates/jni) - 使用Java中的Rust [<img src="https://api.travis-ci.org/jni-rs/jni-rs.svg?branch=master">](https://travis-ci.org/jni-rs/jni-rs)
-  * [jni-sys](https://crates.io/crates/jni-sys) - 与jni.h对应的Rust定义 [<img src="https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master">](https://travis-ci.org/sfackler/rust-jni-sys)
+  * [jni-sys](https://crates.io/crates/jni-sys) — Rust definitions corresponding to jni.h [<img src="https://api.travis-ci.org/sfackler/rust-jni-sys.svg?branch=master">](https://travis-ci.org/sfackler/rust-jni-sys)
   * [rucaja](https://crates.io/crates/rucaja) - 使用Rust的Java [<img src="https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master">](https://travis-ci.org/kud1ing/rucaja)
   * [rawrasaur/rust-jdbc](https://raw.githubusercontent.com/rawrasaur/rust-jdbc) - 使用Rust的JDBC [<img src="https://api.travis-ci.org/rawrasaur/rust-jdbc.svg?branch=master">](https://travis-ci.org/rawrasaur/rust-jdbc)
 * Lua
@@ -301,7 +302,7 @@ Rust代码和资源的精选列表.
   * [SSheldon/rust-objc](https://github.com/SSheldon/rust-objc) -  Objective-C运行时绑定和Rust的包装器
 * Perl
   * [vickenty/mi-rust](https://github.com/vickenty/mi-rust) - 添加对M :: I的支持，用于构建Cargo模块
-  * [vickenty/perl-xs](https://raw.githubusercontent.com/vickenty/perl-xs) — Create Perl XS modules using Rust [<img src="https://api.travis-ci.org/vickenty/perl-xs.svg?branch=master">](https://travis-ci.org/vickenty/perl-xs)
+  * [vickenty/perl-xs](https://raw.githubusercontent.com/vickenty/perl-xs) - 使用Rust创建Perl XS模块 [<img src="https://api.travis-ci.org/vickenty/perl-xs.svg?branch=master">](https://travis-ci.org/vickenty/perl-xs)
 * Python
   * [getsentry/milksnake](https://github.com/getsentry/milksnake) -  python setuptools的扩展，允许您以最便携的方式在Python轮中分发动态链接库.
   * [dgrunwald/rust-cpython](https://raw.githubusercontent.com/dgrunwald/rust-cpython) -  Python绑定 [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
@@ -577,7 +578,7 @@ Rust代码和资源的精选列表.
 * [klutzy/suruga](https://github.com/klutzy/suruga) -  Rust的一个实现 [TLS 1.2](https://tools.ietf.org/html/rfc5246)
 * [Fraunhofer-AISEC/rabe](https://github.com/Fraunhofer-AISEC/rabe) - 提供多种基于属性的加密（ABE）方案的库
 * [RNCryptor/rncryptor-rs](https://github.com/RNCryptor/rncryptor-rs) -  RNCryptor AES文件格式的Pure Rust实现
-* [conradkdotcom/rooster](https://github.com/conradkdotcom/rooster) [[rooster](https://crates.io/crates/rooster)] — Simple password manager to use in your terminal
+* [conradkdotcom/rooster](https://github.com/conradkdotcom/rooster) [[rooster](https://crates.io/crates/rooster)]  - 在终端中使用的简单密码管理器
 * [sfackler/rust-native-tls](https://github.com/sfackler/rust-native-tls) - 本机TLS库的绑定
 * [kornelski/rust-security-framework](https://github.com/kornelski/rust-security-framework) - 安全框架的绑定（OSX本机 
 
@@ -719,7 +720,7 @@ Rust代码和资源的精选列表.
   * [serde-rs/json](https://raw.githubusercontent.com/serde-rs/json) [[serde\_json](https://crates.io/crates/serde_json)]  -  JSON支持 [Serde](https://raw.githubusercontent.com/serde-rs/serde) 骨架 [<img src="https://api.travis-ci.org/serde-rs/json.svg?branch=master">](https://travis-ci.org/serde-rs/json)
   * [Licenser/simdjson-rs](https://github.com/Licenser/simdjson-rs) [[simd-json](https://crates.io/crates/simd-json)]  - 基于simdjson端口的高性能JSON解析器 
   * [maciejhirsz/json-rust](https://raw.githubusercontent.com/maciejhirsz/json-rust) [[json](https://crates.io/crates/json)]  -  Rust中的JSON实现 [<img src="https://api.travis-ci.org/maciejhirsz/json-rust.svg?branch=master">](https://travis-ci.org/maciejhirsz/json-rust)
-* Jonnet
+* Jsonnet
   * [Qihoo360/rust-jsonnet](https://raw.githubusercontent.com/Qihoo360/rust-jsonnet) —  [<img src="https://api.travis-ci.org/Qihoo360/rust-jsonnet.svg?branch=master">](https://travis-ci.org/Qihoo360/rust-jsonnet)
 * MsgPack
   * [3Hren/msgpack-rust](https://raw.githubusercontent.com/3Hren/msgpack-rust) - 纯Rust低/高级MessagePack实现 [<img src="https://api.travis-ci.org/3Hren/msgpack-rust.svg?branch=master">](https://travis-ci.org/3Hren/msgpack-rust)
@@ -737,12 +738,12 @@ Rust代码和资源的精选列表.
 * TOML
   * [alexcrichton/toml-rs](https://raw.githubusercontent.com/alexcrichton/toml-rs) — [<img src="https://api.travis-ci.com/alexcrichton/toml-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/toml-rs)
 * XML
-  * [tafia/quick-xml](https://raw.githubusercontent.com/tafia/quick-xml) — High performance XML pull reader/writer [<img src="https://api.travis-ci.org/tafia/quick-xml.svg?branch=master">](https://travis-ci.org/tafia/quick-xml)
+  * [tafia/quick-xml](https://raw.githubusercontent.com/tafia/quick-xml) - 高性能XML拉读/写器 [<img src="https://api.travis-ci.org/tafia/quick-xml.svg?branch=master">](https://travis-ci.org/tafia/quick-xml)
   * [Florob/RustyXML](https://raw.githubusercontent.com/Florob/RustyXML) - 用Rust编写的XML解析器 [<img src="https://api.travis-ci.org/Florob/RustyXML.svg?branch=master">](https://travis-ci.org/Florob/RustyXML)
   * [shepmaster/sxd-document](https://raw.githubusercontent.com/shepmaster/sxd-document) -  Rust中的XML库 [<img src="https://api.travis-ci.org/shepmaster/sxd-document.svg?branch=master">](https://travis-ci.org/shepmaster/sxd-document)
   * [shepmaster/sxd-xpath](https://raw.githubusercontent.com/shepmaster/sxd-xpath) -  Rust中的XPath库 [<img src="https://api.travis-ci.org/shepmaster/sxd-xpath.svg?branch=master">](https://travis-ci.org/shepmaster/sxd-xpath)
   * [netvl/xml-rs](https://raw.githubusercontent.com/netvl/xml-rs) - 流式XML库 [<img src="https://api.travis-ci.org/netvl/xml-rs.svg?branch=master">](https://travis-ci.org/netvl/xml-rs)
-  * [media-io/yaserde](https://raw.githubusercontent.com/media-io/yaserde) — Yet Another Serializer/Deserializer specialized for XML [<img src="https://api.travis-ci.org/media-io/yaserde.svg?branch=master">](https://travis-ci.org/media-io/yaserde)
+  * [media-io/yaserde](https://raw.githubusercontent.com/media-io/yaserde) - 另一个专门用于XML的Serializer / Deserializer [<img src="https://api.travis-ci.org/media-io/yaserde.svg?branch=master">](https://travis-ci.org/media-io/yaserde)
 * YAML
   * [chyh1990/yaml-rust](https://raw.githubusercontent.com/chyh1990/yaml-rust) -  Rust缺少YAML 1.2实现. [<img src="https://api.travis-ci.org/chyh1990/yaml-rust.svg?branch=master">](https://travis-ci.org/chyh1990/yaml-rust)
   * [dtolnay/serde-yaml](https://raw.githubusercontent.com/dtolnay/serde-yaml) [[serde\_yaml](https://crates.io/crates/serde_yaml)]  -  YAML支持 [Serde](https://raw.githubusercontent.com/serde-rs/serde) 骨架 [<img src="https://api.travis-ci.org/dtolnay/serde-yaml.svg?branch=master">](https://travis-ci.org/dtolnay/serde-yaml)

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dustinspecker/awesome-eslint"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome ESLint [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="https://eslint.org/assets/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
@@ -68,10 +69,10 @@
 - [Markdown](https://github.com/eslint/eslint-plugin-markdown) -  Markdown中的Linting JavaScript.
 - [Node](https://github.com/mysticatea/eslint-plugin-node) -  Node.js的Linting规则（检查导入路径，ES语法，......）.
 - [Notice](https://github.com/nickdeis/eslint-plugin-notice) - 一个用于检查文件顶部并修复它们的eslint规则！
-- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - 优化正则表达式文字.
+- [Optimize Regex](https://github.com/BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals.
 - [SonarJS](https://github.com/SonarSource/eslint-plugin-sonarjs) - 检测错误和可疑模式的规则.
 - [SQL](https://github.com/gajus/eslint-plugin-sql) -  ESLint的SQL linting规则.
-- [TypeLint](https://github.com/yarax/typelint) - 介绍基于现有模式（Swagger，Redux）的类型和对对象属性的linting访问，防止出现“未定义”错误.
+- [TypeLint](https://github.com/yarax/typelint) - 介绍基于现有模式（Swagger，Redux）的类型和对对象属性的linting访问，防止“未定义”错误.
 - [unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - 各种令人敬畏的ESLint规则.
 - [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - 关于ESLint指令注释的最佳实践（`/ * eslint-disable * /`等等）.
 - [eslint-plugin-eslint-plugin](https://github.com/not-an-aardvark/eslint-plugin-eslint-plugin) - 用于lint ESLint插件的ESLint插件.
@@ -103,7 +104,7 @@
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) -  AVA的Linting规则.
 - [Chai](https://github.com/turbo87/eslint-plugin-chai-expect) - 柴的Linting规则.
 - [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) - 茉莉花的Linting规则.
-- [Jest](https://github.com/jest-community/eslint-plugin-jest) -  Is的Linting规则.
+- [Jest](https://github.com/jest-community/eslint-plugin-jest) - 对于Jest的Linting规则.
 - [Mocha](https://github.com/lo1tuma/eslint-plugin-mocha) -  Mocha的Linting规则.
 - [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) - 赛普拉斯的Linting规则.
 

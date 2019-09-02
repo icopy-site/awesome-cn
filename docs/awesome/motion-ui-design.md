@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="fliptheweb/motion-ui-design"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  什么是运动设计？  这是一个神奇的界面，让用户对UI变化感到满意.
 它是与动作UI设计，UI动画和过渡相关的资源，软件，库，视频和文章的精选集合.
@@ -44,11 +45,11 @@
 * [How To Use Animations and Motion in Web Design](https://blog.prototypr.io/how-to-use-animations-and-motion-in-web-design-2fd1f68e6e02) 通过@PageCloud
 * [UI Animation: Eye-Pleasing, Problem-Solving](https://uxplanet.org/ui-animation-eye-pleasing-problem-solving-a8b27013f55c) 由@Tubik Studio提供.
 * [UI Motion Design — The Compendium](https://blog.prototypr.io/ui-motion-design-the-compendium-d8b478357fa3) 由@Thalion.
-* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) 在@Issara Willenskomer.
+* [Creating Usability with Motion: The UX in Motion Manifesto](https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc) 由@Issara Willenskomer撰写.
 * [Jedi Principles of UI Animation](https://medium.com/@adaptivepath/jedi-principles-of-ui-animation-2b88423b1dac) @Adaptive Path.
 * [Micro Interaction; great experience for user engagement](https://uxplanet.org/micro-interaction-great-experience-for-user-engagement-b37446bf6306) @Sneha Munot.
 * [UI Animation. Microinteraction for Macroresult](https://uxplanet.org/ui-animation-microinteraction-for-macroresult-668cd9e71101) @Tubik Studio.
-* [The Principles of UX Choreography](https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a) @ Rebecca Ussai Henderson.
+* [The Principles of UX Choreography](https://medium.freecodecamp.org/the-principles-of-ux-choreography-69c91c2cbc2a) @Rebecca Ussai Henderson.
 
 ## Software
 通过使用技术和结果格式（视频，原型，代码等）分离可以生成UI动画的所有可能软件的列表，其中包含必看教程和插件的链接.
@@ -88,7 +89,7 @@
   * [Prototyping UI Animation](https://medium.com/the-thinkmill/prototyping-ui-animation-2fe08e3a7932).
 * [Adobe Experience Design (ex-Project Comet)](http://www.adobe.com/products/experience-design.html) - 用于创建网站和移动应用程序的设计，原型和动画的应用程序（预览版）.
 * [Google web designer](https://www.google.com/webdesigner/) - 基于HTML的设计和动画.
-* [Animatron](http://animatron.com/) - 用于创建动画，横幅和图表的Web应用程序.
+* [Animatron](http://animatron.com/) – Web app for creating animations, banners, and infographics.
 * [Pixate](http://pixate.com/) - 原型平台.
 * [SpiritJS](https://spiritjs.io/) - 网络动画工具（尚未实现）.
 *任何HTML / CSS编辑器， [libraries](#libraries) ;)
@@ -106,7 +107,7 @@
 
 ### CSS
 * [Animate.css](http://daneden.github.io/animate.css/) -  CSS动画的集合.
-* [Effeckt.css](http://h5bp.github.io/Effeckt.css/) – Collections of UI animations.
+* [Effeckt.css](http://h5bp.github.io/Effeckt.css/) -  UI动画的集合.
 * [Bounce.js](http://bouncejs.com/) - 用于从js缓动函数生成漂亮的CSS关键帧动画的工具.
 * [Animations.css](http://justinaguilar.com/animations/) - 收藏.
 * [Magic animations](http://www.minimamente.com/example/magic_animations/) - 收藏.

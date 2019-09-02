@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jaredthecoder/awesome-vehicle-security"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
@@ -29,7 +30,7 @@
 - [Developments in Car Hacking](https://www.sans.org/reading-room/whitepapers/ICS/developments-car-hacking-36607) - 通过SANS阅览室，Currie的论文分析了智能车辆技术的风险和危险.
 - [Car Hacking on the Cheap](http://www.ioactive.com/pdfs/IOActive_Car_Hacking_Poories.pdf) - 来自Chris Valasek和IOActive的白皮书，当您没有足够的资源时，可以将您的汽车入侵.
 - [Car Hacking: The definitive source](http://illmatics.com/carhacking.html) -  Charlie Miller和Chris Valasek免费为所有人发布所有工具，数据，研究笔记和论文
-- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - Craig Smith wrote a brief article on working with Metasploit’s HWBrige using ELM327 Bluetooth dongle
+- [Car Hacking on the cheap](https://community.rapid7.com/community/transpo-security/blog/2017/02/08/car-hacking-on-the-cheap) - 克雷格史密斯写了一篇关于使用ELM327蓝牙适配器与Metasploit的HWBrige合作的简短文章
 - [Researchers tackle autonomous vehicle security](https://phys.org/news/2017-05-tackle-autonomous-vehicle.html) -  Texas A＆M研究人员开发智能系统原型.
 - [How big data will impact car security in the proximate future: Concerns and solutions](http://bigdata-madesimple.com/big-data-will-impact-car-security-proximate-future-concerns-solutions/) - 大数据对汽车安全的影响.
 - [Reverse engineering of the Nitro OBD2](https://blog.quarkslab.com/reverse-engineering-of-the-nitro-obd2.html) -  CAN诊断工具的逆向工程.
@@ -98,7 +99,7 @@ CAN总线信号注入攻击（http://delivery.acm.org/10.1145/3070000/3064816/a1
 - [OpenGarages](http://opengarages.org/index.php/Main_Page) - 提供了解当今现代车辆系统所需的公共访问，文档和工具.
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) -  DEFCON 24的汽车黑客练习.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - 车辆黑客攻击方法课程.
-- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) -  OWASP的项目，以确保物联网，从汽车到医疗设备等.
+- [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [I Am The Cavalry](https://www.iamthecavalry.org/)   - 全球基层（如志愿者）倡议侧重于安全与人类生命/公共安全问题的交叉，例如汽车.  安全研究人员，OEM，第1层和其他许多人的参与.  发布时间 [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - 对汽车黑客感兴趣并将车辆连接到云端的社区.
 - [Python Security](http://www.pythoncarsecurity.com/) - 浏览和购买具有某些车辆安全功能的python集成汽车的网站.
@@ -122,7 +123,7 @@ CAN总线信号注入攻击（http://delivery.acm.org/10.1145/3070000/3064816/a1
     - [Website](http://chris.illmatics.com/about.html)
 - 查理米勒：黑客第一部苹果iPhone，现在做汽车安全.
     - [Twitter](https://twitter.com/0xcharlie)
-Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
+-  Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
     - [Website](https://samy.pl)
 -  Justin Seitz：Black Hat Python的作者（No Starch Press）.
@@ -155,7 +156,7 @@ Samy Kamkar：创建了MySpace蠕虫，Ro​​llJam，OwnStar.
 
 ## Podcasts and Episodes
 
-Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
+播客和播客剧集，直接关注车辆安全或在其上有一些剧集.
 
 ### Podcasts
 - [Security Weekly](http://securityweekly.com/) - 优秀的播客涵盖所有安全范围，一些剧集重点关注从汽车到无人机的车辆安全性.
@@ -190,12 +191,12 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
     - [arduino-canbus-monitor](https://github.com/latonita/arduino-canbus-monitor)   - 无论选择哪种防护罩，您都需要自己的嗅探器.  这是用于Arduino +任何MCP CAN Shield的标准Lawicel / SLCAN协议的实现，可与许多标准CAN总线分析软件包或SocketCAN一起使用
 - [CANtact](http://linklayer.github.io/cantact/)   - “开源汽车工具”旨在帮助您破解您的汽车.  您可以在此处购买一个或自己制作指南.
 - [Freematics OBD-II Telematics Kit](http://freematics.com/pages/products/arduino-telematics-kit-3/) - 基于Arduino的OBD-II蓝牙适配器套件包括OBD-II设备和数据记录器，它配备了GPS，加速度计和陀螺仪以及温度传感器.
-- [ELM327](https://www.elmelectronics.com/obdic.html) - 事实上的芯片组非常便宜，可用于连接CAN设备.
+- [ELM327](https://www.elmelectronics.com/obdic.html) - The de facto chipset that's very cheap and can be used to connect to CAN devices.
 - [GoodThopter12](http://goodfet.sourceforge.net/hardware/goodthopter12/) - 由着名的硬件黑客精心制作，该主板是可用于探索汽车网络的通用主板.
 - [USB2CAN](http://www.8devices.com/products/usb2can/) - 便宜的USB转CAN连接器，可在linux上注册设备，用于从CAN网络获取数据.
 - [Intrepid Tools](http://store.intrepidcs.com/) - 昂贵但极其通用的工具，专门用于反转CAN和其他车辆通信协议.
 - [Red Pitaya](http://redpitaya.com/)   - 取代昂贵的测量工具，如示波器，信号发生器和频谱分析仪.  Red Pitaya具有LabView和Matlab接口，您可以为它编写自己的工具和应用程序.  它甚至支持像Arduino盾牌这样的扩展.
-- [ChipWhisperer](http://newae.com/tools/chipwhisperer/) - 用于旁路攻击的系统，例如功率分析和时钟故障.
+- [ChipWhisperer](http://newae.com/tools/chipwhisperer/) - A system for side-channel attacks, such as power analysis and clock glitching.
 - [HackerSDR](https://greatscottgadgets.com/hackrf/)   - 软件定义无线电外设，能够发送或接收1 MHz至6 GHz的无线电信号.  旨在实现现代和下一代无线电技术的测试和开发.
 - [Carloop](https://www.carloop.io/)   - 开源开发套件，可以轻松将您的汽车连接到互联网.  与SocketCAN和can-utils兼容的最低成本汽车黑客工具.  无需OBD-II到串行电缆.
 - [CANBadger](https://gutenshit.github.io/CANBadger/)   - 用于逆向工程和测试汽车系统的工具.  CANBadger包括硬件和软件.  主界面是安装在定制PCB上的LPC1768 / LPC1769处理器，它提供两个CAN接口，SD卡，一个闪烁的LED，一些GPIO引脚，外围设备的电源和以太网端口.
@@ -214,7 +215,7 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 
 软件应用程序将帮助您破解您的汽车，调查它的信号，并进行一般性的修补.
 
-- [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
+- [Wireshark](https://www.wireshark.org/) -  WireShark可用于反转CAN通信.
 - [Kayak](http://kayak.2codeornot2code.org/) - 用于CAN总线诊断和监控的Java应用程序.
 - [UDSim](https://github.com/zombieCraig/UDSim/) -  GUI工具，可以监控CAN总线，并通过观察通信自动学习连接到它的设备.
 - [RomRaider](http://www.romraider.com/) - 用于Subaru发动机控制单元的开源调谐套件，可让您查看和记录数据并调整ECU.

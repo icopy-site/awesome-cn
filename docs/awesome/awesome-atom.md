@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="mehcode/awesome-atom"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
  令人愉快的Atom包和资源的精选列表.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
@@ -111,7 +112,7 @@ JavaScript，以及Atom中的更多内容.
  &gt;代码中的类型来自剪贴板/缓冲区.  只需复制代码并点击快捷方式即可查看输入的代码.  复制粘贴是截屏和在线课程的理想选择.
 
 #### [CSS Declaration Sorter](https://atom.io/packages/css-declaration-sorter)
- &gt;在Atom中对CSS，Less或Sass声明进行排序，永远不会感到疲倦.  您可以从各种现成订单中进行选择，以保持CSS整洁.
+ &gt;在Atom中对CSS，Less或Sass声明进行排序，永不疲倦.  您可以从各种现成订单中进行选择，以保持CSS整洁.
 
 ![CSS Declaration Sorter Demo](https://github.com/Siilwyn/css-declaration-sorter-atom/raw/master/show-off.gif)
 
@@ -133,7 +134,7 @@ JavaScript，以及Atom中的更多内容.
 &gt;很多等宽字体.
 
 #### [Git Time Machine](https://atom.io/packages/git-time-machine)
-&gt;它显示了当前文件的提交随时间变化的可视图，您可以在时间图上单击它或将鼠标悬停在图上并查看时间范围的所有提交.
+&gt;它显示了当前文件的提交随时间变化的可视图，您可以在时间图上单击它或将鼠标悬停在图上，并查看所有时间范围的提交.
 
 ![git-time-machine](https://i.github-camo.com/62085307dccead1c2f5efdf4d7a40f9cdb777b93/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6974746c656265652f6769742d74696d652d6d616368696e652f6d61737465722f7265736f75726365732f74696d656d616368696e652e676966)
 

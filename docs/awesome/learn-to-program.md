@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="karlhorky/learn-to-program"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
@@ -34,15 +35,15 @@
 
 #### [Code Avengers](https://www.codeavengers.com/)
 **基础网络和应用程序开发课程的免费增值**平台\
-*（HTML，CSS，JavaScript）*
+*(HTML, CSS, JavaScript)*
 
 #### [learn.shayhowe.com](https://learn.shayhowe.com/)
 **免费**初学者到网络开发的中间指南\
-*（HTML，CSS，JavaScript）*
+*(HTML, CSS, JavaScript)*
 
 #### [HTML Dog](https://www.htmldog.com/)
 **网站开发免费**初学者和中级指南\
-*（HTML，CSS，JavaScript）*
+*(HTML, CSS, JavaScript)*
 
 #### [Gibbon](https://gibbon.co/topics/programming)
 **用于计算机编程的混合**策划学习轨道\
@@ -95,7 +96,7 @@
 *（HTML，CSS，JavaScript，Ruby，Rails）*
 
 #### Lynda.com [Developer](https://www.lynda.com/Developer-training-tutorials/50-0.html), [Web](https://www.lynda.com/Web-training-tutorials/88-0.html), [IT](https://www.lynda.com/IT-training-tutorials/2057-0.html)
-**Freemium** platform for video courses on web development and intermediate programming\
+**免费增加**平台，用于网络开发和中级编程的视频课程
 *（HTML，CSS，JavaScript，编程基础，系统管理......）*
 
 #### [Thinkful](https://www.thinkful.com/)

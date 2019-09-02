@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="DataDaoDe/awesome-foss-apps"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;按类别组织的精选生产级免费和开源软件的精选列表.
@@ -76,7 +77,7 @@
 ### [Taiga](https://github.com/taigaio)
 
 * python3，django，coffeescript，angular
-* GNU Affero许可证
+* GNU Affero License
 
  &gt; Taiga是一个项目管理工具.  这是模块化架构的一个令人难以置信的例子.  它的界面干净，设计精良，反应灵敏，而且快速，用python3编写的现代后端代码是一个写得很好的django应用程序的一个很好的例子.  它还有一个广泛的测试套件，使用pytest进行集成和单元测试.
 

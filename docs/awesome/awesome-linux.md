@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="aleksandar-todorovic/awesome-linux"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome">Linux的</h1>
 
 <p align="center">我们都知道Linux很棒，但这里列出了与Linux生态系统相关的特别棒的东西. </p>
@@ -51,7 +52,7 @@
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
- &gt; Ubuntu是一个完整的桌面Linux操作系统，可以免费获得社区和专业支持.  Ubuntu社区建立在Ubuntu宣言中所体现的理念之上：软件应该是免费提供的，软件工具应该由当地语言的人使用，尽管有任何残疾，人们应该可以自由定制和以他们认为合适的方式改变他们的软件.  “Ubuntu”是一个古老的非洲词，意思是“对他人的人性”.  Ubuntu发行版将Ubuntu的精神带入了软件世界. 
+ &gt; Ubuntu是一个完整的桌面Linux操作系统，免费提供社区和专业支持.  Ubuntu社区建立在Ubuntu宣言中所体现的理念之上：软件应该是免费提供的，软件工具应该由当地语言的人使用，尽管有任何残疾，人们应该可以自由定制和以他们认为合适的方式改变他们的软件.  “Ubuntu”是一个古老的非洲词，意思是“对他人的人性”.  Ubuntu发行版将Ubuntu的精神带入了软件世界. 
 
 **最新版本：** Ubuntu 18.10
 
@@ -73,7 +74,7 @@
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
- &gt; Debian项目是一个由共同创造自由操作系统的个人组成的协会.  这个操作系统叫做Debian.  Debian系统目前使用Linux内核.  Linux是由Linus Torvalds创建的完全免费的软件，并得到全球数千名程序员的支持.  当然，人们想要的是应用软件：帮助他们获得他们想要做的事情的程序，从编辑文档到运营企业，再到玩游戏，再到编写更多软件.  Debian附带了超过50,000个软件包（预编译软件捆绑在一个很好的格式中，便于在您的机器上安装） - 所有这些软件都是免费的.  它有点像塔.  在基础是内核.  最重要的是所有基本工具.  接下来是您在计算机上运行的所有软件.  在塔的顶部是Debian  - 仔细组织和装配所有东西，以便它们一起工作. 
+ &gt; Debian项目是一个由共同创造自由操作系统的个人组成的协会.  这个操作系统叫做Debian.  Debian系统目前使用Linux内核.  Linux是由Linus Torvalds创建的完全免费的软件，并得到全球数千名程序员的支持.  当然，人们想要的是应用软件：帮助他们完成他们想要做的事情的程序，从编辑文档到运营业务，再到玩游戏，再到编写更多软件.  Debian附带了超过50,000个软件包（预编译软件捆绑在一个很好的格式中，便于在您的机器上安装） - 所有这些软件都是免费的.  它有点像塔.  在基础是内核.  最重要的是所有基本工具.  接下来是您在计算机上运行的所有软件.  在塔的顶部是Debian  - 仔细组织和装配所有东西，以便它们一起工作. 
 
 **最新版本：** Debian Stretch（9.6）
 
@@ -83,7 +84,7 @@
 
 #### [Mageia](http://www.mageia.org/)
 
- &gt; Mageia是Mandriva Linux的一个分支，由2010年9月由前法律Linux发行版的前员工和贡献者组成.  与作为商业实体的Mandriva不同，Mageia项目是一个社区项目和一个非营利组织，其目标是开发一个免费的基于Linux的操作系统.
+ &gt; Mageia是Mandriva Linux的一个分支，由前法律Linux发行版的前员工和贡献者于2010年9月成立.  与作为商业实体的Mandriva不同，Mageia项目是一个社区项目和一个非营利组织，其目标是开发一个免费的基于Linux的操作系统.
 
 **最新版本：** Mageia 6.1
 
@@ -103,7 +104,7 @@
 
 #### [openSUSE](http://www.opensuse.org/)
 
-> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
+ &gt; openSUSE项目是由SUSE Linux和其他公司赞助的社区计划.  该程序促进了Linux的无处不在，它提供了对openSUSE的免费，轻松访问，这是一个完整的Linux发行版.  openSUSE项目有三个主要目标：使openSUSE成为任何人获取的最简单的Linux和最广泛使用的Linux发行版;  利用开源协作，使openSUSE成为全球最有用的Linux发行版和桌面环境，供新手和经验丰富的Linux用户使用;  大大简化和开放开发和打包流程，使openSUSE成为Linux开发人员和软件供应商的首选平台. 
 
 **最新版本：** openSUSE Leap 15.0和openSUSE Tumbleweed（滚动发布系统）
 
@@ -145,7 +146,7 @@
 
 **专业：**多媒体创作
 
- &gt; Ubuntu Studio是Ubuntu的变种，针对GNU / Linux音频，视频和图形爱好者以及专业人士.  该发行版提供了一系列可用于多媒体创建的开源应用程序.
+ &gt; Ubuntu Studio是Ubuntu的变种，针对GNU / Linux音频，视频和图形爱好者以及专业人士.  该发行版提供了一系列可用于创建多媒体的开源应用程序.
 
 #### [Tails](https://tails.boum.org/index.en.html)
 
@@ -159,7 +160,7 @@
 
 #### [The Linux Command Line](https://www.goodreads.com/book/show/11724436-the-linux-command-line) [4.36] [[FREE](http://linuxcommand.org/tlcl.php)]
 
- 这是Linux命令行的一个很好的介绍.   -  [@4iar](https://github.com/4iar/)
+This is a great introduction to the Linux command line. - [@4iar](https://github.com/4iar/)
 
 &gt;您已经体验过Linux计算机闪亮的点击式表面 - 现在可以在下面潜入并利用命令行的强大功能探索其深度.
 
@@ -167,7 +168,7 @@
 
  好的书，教你Debian GNU / Linux管理的基础知识.   -  [@elninosi](https://github.com/elninosi)
 
- &gt;它涵盖了一个有能力的Linux管理员应该掌握的所有主题，从安装，系统更新，到包的创建和内核的编译，还有监视，备份和迁移.  此外，还有用于保护服务，自动安装或虚拟化的高级主题.
+ &gt;它涵盖了一个有能力的Linux管理员应该掌握的所有主题，从安装，更新系统，到创建包和内核的编译，还有监视，备份和迁移.  此外，还有用于保护服务，自动安装或虚拟化的高级主题.
 
 #### Bash Shell Scripting [[FREE](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)]
 
@@ -181,7 +182,7 @@
 
 #### [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS) [Free]
 
- 如果您使用Windows并决定切换到Linux，本课程应该可以帮助您找到他们的替代方案.  这很短，你可以在一天内完成它.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+ 如果您使用Windows并决定切换到Linux，那么本课程应该可以帮助您找到他们的替代方案.  这很短，你可以在一天内完成它.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 ### Bash Learning Resources
 
@@ -201,13 +202,13 @@
 
 #### [GNOME](https://www.gnome.org)
 
- &gt; GNOME 3是一种简单而优雅的计算机使用方式.  它旨在让您掌控并为每个人带来自由.  GNOME 3由GNOME社区开发，GNOME社区是一个多元化的国际贡献者组织，由一个独立的非营利性基金会提供支持.
+ &gt; GNOME 3是一种简单而优雅的计算机使用方式.  它旨在让您掌控并为每个人带来自由.  GNOME 3由GNOME社区开发，GNOME社区是一个多元化的国际贡献者群体，由一个独立的非营利性基金会提供支持.
 
 ![screenshot](https://www.gnome.org/wp-content/uploads/2015/03/activities-overview-3.16-940x529.png)
 
 #### [KDE](https://www.kde.org)
 
- &gt;KDE®社区是一个国际技术团队，致力于创建免费且用户友好的计算体验，提供高级图形桌面，各种通信，工作，教育和娱乐应用程序以及轻松构建新应用程序的平台.  我们非常注重为新旧问题寻找创新解决方案，营造一个充满活力的实验氛围.
+ &gt;KDE®社区是一个国际技术团队，致力于创建免费且用户友好的计算体验，提供先进的图形桌面，广泛的通信，工作，教育和娱乐应用程序以及轻松构建新应用程序的平台.  我们非常注重为新旧问题寻找创新解决方案，营造一个充满活力的实验氛围.
 
 ![screenshot](https://www.kde.org/announcements/plasma5.0/screenshots/desktop.png)
 
@@ -245,7 +246,7 @@
 * [i3](http://i3wm.org/)   - 平铺窗口管理器.  BSD许可.  主要针对高级用户和开发人员.
 * [IceWM](https://ice-wm.org/) - 窗口管理器，目标是快速，简单，而不是以用户的方式.
 * [JWM](http://www.joewing.net/projects/jwm/)   -  X11的轻量级窗口管理器.  对于较旧和/或功能较弱的系统而言，它们是不错的选择，尽管它能够在现代系统上运行.  使用C.建造
-* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - 在非桌面嵌入式平台上运行的X环境，例如手持设备，机顶盒，自助服务终端以及屏幕空间，输入机制或系统资源有限的任何其他内容.
+* [Matchbox](https://www.yoctoproject.org/software-item/matchbox/) - 在非桌面嵌入式平台上运行的X环境，例如手持设备，机顶盒，信息亭以及屏幕空间，输入机制或系统资源有限的任何其他内容.
 * [Mutter](https://download.gnome.org/sources/mutter/) -  X的窗口管理器.GNOME 3中的默认窗口管理器.
 * [Openbox](http://openbox.org/wiki/Main_Page) - 高度可配置的窗口管理器，具有广泛的标准支持.
 * [ratpoison](http://www.nongnu.org/ratpoison/)   - 一个简单的窗口管理器，没有库依赖，没有图形，没有装饰.  以GNU Screen为模型.
@@ -280,7 +281,7 @@
 * [Spice-Up](https://github.com/Philip-Scott/Spice-up) - 桌面演示应用程序.
 * [Vocal](http://vocalproject.net/) - 现代桌面的Podcast客户端.
 
-For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
+有关更多基于万神殿的应用程序，请访问 [elementary-apps](https://quassy.github.io/elementary-apps/).
 
 #### KDE-based
 
@@ -302,7 +303,7 @@ For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/e
 
  &gt; **问：**为什么选择第三方应用？  为什么不是官方客户？
 >
-&gt; **答：**因为，在99％的情况下，官方客户是专有的.
+> **A:** Because, in 99% of the cases, official clients are proprietary.
 
 * [Corebird](http://corebird.baedert.org/) -  Twitter客户端.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - 抽搐球员.
@@ -316,7 +317,7 @@ For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/e
 
 Distro-oriented:
 
-* [Y PPA Manager](https://launchpad.net/y-ppa-manager) （Ubuntu） - 管理PPA并搜索包.
+* [Y PPA Manager](https://launchpad.net/y-ppa-manager) (Ubuntu) - Manage PPAs and search for packages.
 * [pirut](http://fedoraproject.org/wiki/Tools/pirut) （Fedora） - 提供一组用于管理软件的图形工具.
 * [Synaptics](http://www.nongnu.org/synaptic/) （Debian和`.deb`用户） - `apt`的图形包管理程序.
 * [YaST](https://en.opensuse.org/YaST_Software_Management) （openSUSE） -  openSUSE上的主程序包管理工具.
@@ -330,11 +331,11 @@ Distro-independent:
 
 ### Console-based Applications and Tools
 
-You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unix要么n/awesome-zsh-plugins) 要么 [awesome-fish](https://github.com/jbucaran/awesome-fish).
+您可能也有兴趣退房 [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unix要么n/awesome-zsh-plugins) 要么 [awesome-fish](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - 小巧，快速和强大的控制台音乐播放器.
 * [fuck](https://github.com/nvbn/thefuck) - 命令行工具，用于纠正先前输入错误的命令.
-* [git](https://git-scm.com/) - 分布式版本控制系统，旨在快速，高效地处理从小型到大型项目的所有事务.
+* [git](https://git-scm.com/) - 分布式版本控制系统，旨在快速高效地处理从小型到大型项目的所有事务.
 * [glances](https://nicolargo.github.io/glances/) - 跨平台系统监控工具.
 * [htop](http://hisham.hm/htop/) - 外观漂亮，可定制的任务管理器.
 * [nano](http://www.nano-editor.org) - 简单易用的文本编辑器.
@@ -370,7 +371,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 #### [Linux.org](http://www.linux.org/)
 
- 虽然它的设计已经过时，但Linux.org（可能）是最受欢迎的论坛，它充满了按其难度分类的精彩Linux教程.   -  [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+Although its design is outdated, Linux.org is (probably) the most popular forum and it's full of awesome Linux tutorials categorized by their difficulty. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
 
 #### [Kernel.org](https://www.kernel.org/)
 
@@ -384,7 +385,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 
 #### [Linux.die](https://linux.die.net/)
 
-&gt; Linux.die是一个包含Linux文档，教程，书籍等的资源.
+&gt; Linux.die是Linux中的文档，教程，书籍等资源.
 
 ## License
 

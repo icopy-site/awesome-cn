@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="uraimo/awesome-software-patreons"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
 &gt;精选的程序员和与软件相关的Patreon帐户的精选列表.
@@ -155,9 +156,9 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Franck Nijhof](https://www.patreon.com/frenck) - 创建Home Assistant附加组件并帮助完成主项目.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) -  IndieWeb领域的项目，Koype以及对其他开源项目的贡献.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) - 创建C ++库和标准提案.
-- [Joey Hess](https://www.patreon.com/joeyh) - git-annex, keysafe, other Linux software.
+- [Joey Hess](https://www.patreon.com/joeyh) -  git-annex，keysafe，其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -  Bootstrap JavaScript开发人员和各种插件和项目.
-- [Jonathan Müller](https://www.patreon.com/foonathan) - 各种C ++库，工具，文章.
+- [Jonathan Müller](https://www.patreon.com/foonathan) - Various C++ libraries, tools, articles.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -  GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
 - [Kozec](https://www.patreon.com/kozec) -  Syncthing-GTK和SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -  FreeCAD贡献者和Debian打包者.

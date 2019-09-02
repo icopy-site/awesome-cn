@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="passy/awesome-purescript"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt; PureScript的精美库，工具和其他闪亮的东西的精选列表.
@@ -28,7 +29,7 @@ React-based:
 
 - [purescript-thermite](https://github.com/paf31/purescript-thermite) - 一个简单的ReactJS包装器，灵感来自`react-blaze`.
 - [purescript-react](https://github.com/purescript-contrib/purescript-react) - 针对PureScript的React绑定
-- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - 针对React库的一组固定的绑定，针对最基本的用例进行优化.
+- [purescript-react-basic](https://github.com/lumihq/purescript-react-basic) - 针对React库的一组固定的绑定，针对最基本的用例进行了优化.
 - [purescript-react-basic-hooks](https://github.com/spicydonuts/purescript-react-basic-hooks)   - 使用React的“钩子”API定义React组件的另一种方法.  兼容`purescript-react-basic`.
 - [purescript-pux](https://github.com/alexmingoia/purescript-pux) - 使用PureScript构建类型安全的Web应用程序.
 - [purescript-spork](https://github.com/natefaubion/purescript-spork) - 对于PureScript来说就像榆木一样.

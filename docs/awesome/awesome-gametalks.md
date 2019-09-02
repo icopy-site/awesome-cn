@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hzoo/awesome-gametalks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU)：Satoru Iwata（任天堂）
@@ -30,7 +31,7 @@
 - [2014] [Hearts and Minds](http://www.gdcvault.com/play/1020788/)：Frank Lantz（纽约大学游戏中心）
 - [2014] [Interpreting Feedback and Maintaining Your Vision](http://www.gdcvault.com/play/1020495/)：Andy Nguyen（Pocketwatch Games）
 - [2014] [Why Is Gone Home a Game?](http://www.gdcvault.com/play/1020376/)：Steve Gaynor（The Fullbright Company）
-- [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/)布伦达罗梅罗（加州大学圣克鲁兹分校）
+- [2014] [Jiro Dreams of Game Design](http://www.gdcvault.com/play/1020496/)：布伦达罗梅罗（加州大学圣克鲁兹分校）
 - [2014] [Preserving a Sense of Discovery in the Age of Spoilers](http://vimeo.com/91436410)：詹姆斯克劳福德（Twinbeard Studios）
 - [2014] [Animation Bootcamp: An Indie Approach to Procedural Animation](http://www.gdcvault.com/play/1020583/)：大卫罗森（Wolfire Games）
 -  [2014，欧洲] [Super Time Force: Solving the Time Travel Paradox](http://gdcvault.com/play/1020766/)：Kenneth Yeung（Capy Games）
@@ -38,7 +39,7 @@
 - [2014] [The Art of The Witness](http://www.gdcvault.com/play/1020552/)：Luis Antonio（Thekla Inc）
 - [2014] [Building the Content that Drives the Counter-Strike: Global Offensive Economy](http://gdcvault.com/play/1021349/)：Bronwen Grimes（阀门）
 - [2013] [Classic Game Postmortem: Myst](http://www.gdcvault.com/play/1018048/)：Robyn Miller（动物园破枪俱乐部）
--  [2013，欧洲] [#1ReasonToBe](http://gdcvault.com/play/1020902/)：Annakaisa终极，Auriea哈维，布伦达·罗梅罗，Zuraida Buter，Henrike又名赖克矿藏，西沃恩雷迪利·亚历山大（图）
+-  [2013，欧洲] [#1ReasonToBe](http://gdcvault.com/play/1020902/)：Annakaisa Kultima，Auriea Harvey，Brenda Romero，Zuraida Buter，Henrike又名Riker Lode，Siobhan Reddy，Leigh Alexander（小组）
 - [2013] [Obsessive-Compulsive Development: Retro/Grade Postmortem](http://www.gdcvault.com/play/1017963/)：Matt Gilgenbach（24 Caret Games）
 - [2013] [The Western Games That Conquered China](http://gdcvault.com/play/1017999/)：Henry Fong（Yodo1）
 - [2013] [Designing Journey](http://www.gdcvault.com/play/1017700/)：Jenova Chen（thatgamecompany）
@@ -96,7 +97,7 @@
 -  [2013，Creative Mornings] [Game Design: The Medium is the Message](https://www.youtube.com/watch?v=AxFzf6yIfcc)：Jonathan Blow（Number None，Inc.）
 -  [2013，Game Connection Europe] [Great Level Design and the Artistic Expression of Mathematics](https://www.youtube.com/watch?v=BIlr7R7UAfc)：哈米什托德
 -  [2013，Unite Nordic] [Sir, You Are Being Proceudrally Generated](https://www.youtube.com/watch?v=GYYuhuarTA0)：Tom Betts，James Carey（大机器人）
--  [2013，INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)：Jan Willem Nijman（Flambé）
+-  [2013，INDIGO] [The Art of Screenshake](https://www.youtube.com/watch?v=AJdEqssNZ-U)：Jan Willem Nijman（Vlambeer）
 -  [2013，IGDA Seattle] [Game Design Tools (I Wish I learned About Sooner)](https://www.youtube.com/watch?v=qwPe3OHR04c)：丹尼尔库克（Spry Fox）
 -  [2013，Georgia Tech] [Facilitating Stories in Journey](https://www.youtube.com/watch?v=qHhetpaZBTs)：John Nesky（thatgamecompany）
 -  [2013，PAX East] [Mastering Game Mechanics](https://www.youtube.com/watch?v=UPU_yi9Nv3M)：Brandon DeCoster，Scott Rubin（GeekNights）
@@ -104,12 +105,12 @@
 -  [2012年，纽约电影学院] [Functional Theory for Game Design](https://www.youtube.com/watch?v=RzhdkYws_60)：Keith Burgun（Dinofarm Games）
 -  [2012，Eurogamer Expo] [How to Give Yourself a Job in the Games Industry](https://www.youtube.com/watch?v=tdwzvdZFxVM)：Chet Faliszek（阀门）
 -  [2012  - 北欧游戏独立之夜] [Juice It Or Lose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)：Martin Jonasson，Petri Purho（独立）
--  [2012，Indie Connect] [Sensible Nonsense](https://www.youtube.com/watch?v=vk94HoI_tCo)：Rami Ismail，Jan Willem Nijman（Flambé）
+-  [2012，Indie Connect] [Sensible Nonsense](https://www.youtube.com/watch?v=vk94HoI_tCo)：Rami Ismail，Jan Willem Nijman（Vlambeer）
 -  [2012年，乔治梅森大学] [Lecture Series](https://www.youtube.com/watch?v=CrfdNJDVpR4)：托德霍华德（贝塞斯达）
 -  [2011年，纽约大学游戏中心] [Lecture Series: Portal 2](http://vimeo.com/23534126)：Erik Wolpaw（阀门）
 -  [2011，Google Tech Talks] [Getting Gamification Right](https://www.youtube.com/watch?v=7ZGCPap7GkY)：Sebastian Deterding（PLAIT实验室）
--  [2011，Games for Change] [G4LI Keynote](http://vimeo.com/25780504)：Gabe Newell（阀门）
--  [2011，Games for Change] [Make Games, Not War](http://vimeo.com/25681002)：Jesse Schell（谢尔游戏）
+- [2011, Games for Change] [G4LI Keynote](http://vimeo.com/25780504)：Gabe Newell（阀门）
+- [2011, Games for Change] [Make Games, Not War](http://vimeo.com/25681002)：Jesse Schell（谢尔游戏）
 -  [2011，伯克利] [Programming Aesthetics Learned From Making Independent Games](https://www.youtube.com/watch?v=JjDsP5n2kSM)：Jonathan Blow（Number None，Inc.）
 -  [2011，IndieCade] [Designing the Universe](https://www.youtube.com/watch?v=OGSeLSmOALU)：Jonathan Blow，Marc Ten Boch
 -  [2010，Rice Univerisity] [Video Games and the Human Condition](https://www.youtube.com/watch?v=SqFu5O-oPmU)：Jonathan Blow（Number None，Inc.）

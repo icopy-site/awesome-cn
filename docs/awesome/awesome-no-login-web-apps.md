@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="aviaryan/awesome-no-login-web-apps"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -25,7 +26,7 @@
 ### Audio and Video
 
 * [bfxr](http://www.bfxr.net/) - 为您的游戏制作声音效果.
-* [MP3 Cut](http://mp3cut.net/) - 在线音频切割机.
+* [MP3 Cut](http://mp3cut.net/) - 在线音频切割器.
 * [TwistedWeb Online](https://twistedwave.com/online/)   - 强大的音频编辑器.  文件未在线保存.
 * [Filelab Audio Editor](http://www.avs4you.com) - 音频编辑器，具有修剪，合并，剪切音频等基本功能.
 * [Until AM](http://mix.until.am/) - 在线音乐混音器，DJ软件.
@@ -58,7 +59,7 @@
 
 #### Latex
 
-* [Papeeria](https://papeeria.com/) - 乳胶预览，可选择下载PDF格式而无需注册.
+* [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration.
 * [Overleaf](https://www.overleaf.com/) `[帐户]` - 无限制的协作者和项目，免费帐户中的git访问权限.
 * [Sharelatex](https://www.sharelatex.com)  `[帐户]` - 具有无限私人项目的Latex编辑器.  1个免费帐户合作者.
 
@@ -110,11 +111,11 @@
 ### File Hosting/Sharing
 
 * [EFShare](http://efshare.com/) - 点对点安全文件共享.
-* [Ge.tt](http://ge.tt/) - File hosting service. Max limit 2gb.
+* [Ge.tt](http://ge.tt/)   - 文件托管服务.  最大限制2gb.
 * [RGhost](http://rgho.st/) - 文件托管服务，Max限制100mb无需登录.
 * [ImgSafe](https://imgsafe.org/) - 图像托管服务与小直接链接.
 * [Clyp](https://clyp.it/) - 无限制的音频共享，丰富的API.
-* [SendVid](https://sendvid.com/) - Video hosting service.
+* [SendVid](https://sendvid.com/) - 视频托管服务.
 * [Archive.org](https://archive.org/) `[帐户]` - 任何类型的无限文件托管，带宽和上传大小没有限制.
 * [imgh](https://imgh.us/)   - 图像托管服务.  支持所有主要格式.  文件大小限制为16mb.
 * [MultCloud](https://www.multcloud.com/home)   - 云服务，用于在多个云服务之间管理，移动，复制和迁移数据.  支持所有主要的云服务.  无需注册，2TB云存储，直接将大文件下载到云端，没有大小限制.
@@ -126,8 +127,8 @@
 
 * [Typeracer](http://play.typeracer.com/) - 在与其他人比赛时评估您的打字速度.
 * [Spark Chess](https://www.sparkchess.com/) - 学习下棋，与全球用户一起玩或根据您的技能水平玩AI.
-* [Miniclip](https://www.miniclip.com)   - 收集各种免费游戏，无需发送电子邮件即可播放.  需要Flash.
-* [CrossCode](http://www.cross-code.com/en/start)   - 在遥远的未来设置复古风格的2D游戏.  配有精彩的游戏机制，如连击，拼图，技能树，任务，物品等.
+* [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
+* [CrossCode](http://www.cross-code.com/en/start)   - 在遥远的未来设置复古风格的2D游戏.  配备出色的游戏机制，如连击，拼图，技能树，任务，物品等.
 
 
 ### Graphics, Image and Design
@@ -151,7 +152,7 @@
 ### Internet Downloaders
 
 * [savefrom.net](http://en.savefrom.net/) - 从YouTube，Dailymotion，Vimeo等下载.
-* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - Download YouTube video in any audio/video format.
+* [Youtube Converter & Downloader](https://www.onlinevideoconverter.com/video-converter) - 以任何音频/视频格式下载YouTube视频.
 * [keepvid](http://keepvid.com/) -  YouTube，SoundCloud，Facebook下载器.
 * [Bitport](https://bitport.io/welcome)  `[帐户]` -  Torrent下载器.  免费帐户限制为每天1洪流1gb.
 * [Vubey](https://vubey.yt/) - 以各种音频质量（比特率）从YouTube，SoundCloud等下载MP3.
@@ -170,7 +171,7 @@
 * [Muki](https://muki.io) - 基于WebAudio的chiptune和MIDI播放器，带有很多视频游戏音乐.
 * [MusixHub](http://www.musixhub.com) - 在线播放艺术家和专辑视频歌曲，由YouTube提供支持.
 * [plug.dj](https://plug.dj/) - 收听成千上万的DJ，由YouTube提供支持，登录成为DJ.
-* [Jango Radio](http://www.jango.com/) - 免费的网络收音机，收听数百个流派电台或用您喜欢的音乐创建自己的电台.
+* [Jango Radio](http://www.jango.com/) - 免费的网络收音机，收听数百个流派电台或使用您喜欢的音乐创建自己的电台.
 * [Anime Openings](http://openings.moe/) - 免费动漫电台，收听或下载动漫开场和结束视频.
 * [NoteFlight](https://www.noteflight.com/login) `[帐户]` - 打印音乐表，在线编写自己的音乐（评论）.
 * [ongaku](https://ongaku.js.org/) - 在线动漫音乐电台，与 [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
@@ -242,10 +243,10 @@
 
 * [Iconfinder](https://www.iconfinder.com/) - 在一个地方下载所有您喜欢的图标.
 * [Emoji Search Online](https://www.webpagefx.com/tools/emoji-cheat-sheet/) - 智能表情符号搜索引擎.
-* [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找RSS源。
+* [RSS Feed Search](http://ctrlq.org/rss/) - 从搜索词中查找RSS源.
 * [IWantMyName](https://iwantmyname.com/) - 帮助您搜索所有TLD中的域.
 * [Similar Sites](http://www.similarsites.com/) - 查找与您输入的网站类似的网站.
-* [Google Fonts](https://www.google.com/webfonts) - 谷歌收集开源字体.
+* [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
 * [ChooseMyPC](https://choosemypc.net/) - 根据给定预算下的PC要求，搜索最佳的零件组合.
 * [Flaticon](https://www.flaticon.com/) - 最大的免费图标搜索引擎.
 
@@ -260,7 +261,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Directed Graph Editor](http://bl.ocks.org/rkirsling/5001347) - 使用有向图进行游戏.
 * [Calcul](http://www.calcul.com) - 收集不同的计算器，包括矩阵，单位转换器，数学分布等.
 * [Word Safety](http://wordsafety.com/) - 检查单词是否滥用任何语言.
-* [OEIS®](http://oeis.org/) - 在线整数序列百科全书®，有助于密码学以及制定奇怪的序列.
+* [OEIS®](http://oeis.org/) - 在线整数序列百科全书®，有助于加密以及制定奇怪的序列.
 
 
 <a name="text-tools"></a>

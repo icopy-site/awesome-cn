@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="humiaozuzu/awesome-flask"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 &gt;精选的Flask资源和插件的精选列表
@@ -17,7 +18,7 @@
 
 ## Admin interface
 
-- [Flask-Admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
+- [Flask-Admin](https://github.com/flask-admin/flask-admin) -  Flask的简单且可扩展的管理界面框架
 
 ## Analytics
 
@@ -209,7 +210,7 @@
 - [sync_engine](https://github.com/nylas/sync-engine) - 具有现代API的IMAP / SMTP同步系统
 - [cleansweep](https://github.com/AamAadmiParty/cleansweep) - 志愿者和运动管理系统
 - [indico](https://github.com/indico/indico)   - 基于Web的通用事件管理解决方案.  它包括一个完整的会议组织工作流程以及会议管理和房间预订的工具.  它还提供与视频会议解决方案的集成.
-- [flaskbb](https://github.com/flaskbb/flaskbb) - 使用Flask的Python经典论坛软件.
+- [flaskbb](https://github.com/flaskbb/flaskbb) - A classic Forum Software in Python using Flask.
 -  [PythonBuddy]（https://github.com/ethanchewy/PythonBuddy） - 使用实时语法检查和执行的在线Python编辑器
 
 ## Boilerplate

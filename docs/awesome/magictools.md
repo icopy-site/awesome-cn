@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="ellisonleao/magictools"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <h1 align="center">
     <img width="900" src="https://cdn.rawgit.com/ellisonleao/magictools/7d8012bc/magicbg.jpg" alt="logo"/>
 </h1>
@@ -43,7 +44,7 @@ Graphics
 *：money_with_wings： [PlainTextures](http://www.plaintextures.com/) - 免费的高分辨率纹理，画笔和照片
 * ：自由： [Reiner's Tilesets](http://www.reinerstilesets.de/) - 一个免费的2D和3D图形博客.
 * ：自由： [Sketchfab](https://sketchfab.com/) - 发布和嵌入交互式3D模型.
-* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - a collection of static and animated graphic objects (also commonly known as sprites).
+* ：自由： [SpriteLib](http://www.widgetworx.com/spritelib/) - 静态和动画图形对象（通常也称为精灵）的集合.
 * ：自由： [StickyPNG](http://www.stickpng.com/) - 免费透明的PNG图像.
 * ：自由： [TextureKing](http://www.textureking.com/) - 免费材料库存纹理
 * ：自由： [Tree Generator](http://arnaud.ile.nc/cantree/generator.php) - 在线树生成器.
@@ -87,7 +88,7 @@ Graphics
 * ：自由： [ArrayPainter](http://arraypainter.com/) -  Array Painter是最简单，最快速的方法，可以将2D数组准备好复制粘贴到您自己的程序中.
 * ：钱袋子： [AutoTileGen](http://pixelatto.com) -  AutoTileGen是2D游戏地形的自动拼贴生成器.
 *：那么： [OGMO Editor](http://www.ogmoeditor.com/) - 通用级别编辑器.
-*：那么： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - 具有引擎不可知哲学的2D级别和UI编辑器.
+*：那么： [Overlap2D](https://github.com/UnderwaterApps/overlap2d/) - a 2D level and UI editor with an engine agnostic philosophy.
 * ：自由： [Tiled](http://www.mapeditor.org/) - 免费，易于使用和灵活的瓷砖地图编辑器.
 
 #### Animation
@@ -210,7 +211,7 @@ Code
 * [Grid](http://www.planimeter.org/grid-sdk/) -  Lua游戏引擎.
 * [Havok Vision](http://www.havok.com/vision-engine/) - 跨平台游戏引擎，提供功能强大且通用的多平台运行时技术.
 *：那么： [HaxeFlixel](http://haxeflixel.com/) - 更轻松，更自由地创建跨平台游戏.
-*：那么： [Heaps](https://heaps.io/) - Cross platform graphics for high performance games.
+*：那么： [Heaps](https://heaps.io/) - 用于高性能游戏的跨平台图形.
 * [Hive3D](http://www.eyelead.com/hive/) - 实时协作3D引擎.
 *：那么： [Horde3D](http://www.horde3d.org/) - 小型开源3D渲染引擎.
 *：那么： [iio.js](https://github.com/iioinc/iio.js) - 一个javascript库，可加速HTML5 Canvas应用程序的创建和部署
@@ -242,7 +243,7 @@ Code
 *：那么： [MelonJS](http://melonjs.org) - 开源轻量级HTML5游戏引擎.
 * ：自由： [Monkey2](http://monkeycoder.co.nz/) - 多平台编程语言和交叉编译器，旨在实现快速游戏编程.
 *：那么： [Monogame](http://www.monogame.net/) -  Microsoft XNA 4 Framework的开源实现.
-* ：自由： [NodeBox](https://www.nodebox.net/) - 一系列用于创建生成设计的Python工具.
+* ：自由： [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 *：那么： [nuklear](https://github.com/vurtun/nuklear) - 用ANSI C编写的简约立即模式GUI工具包.
 *：那么： [ODE](http://www.ode.org/) -  ODE是一个开源的高性能库，用于模拟刚体动力学.
 *：那么： [Ogre3D](http://www.ogre3d.org/) - 是一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.
@@ -428,7 +429,7 @@ Audio
 ### Project Management
 
 * ：钱袋子： [Casual](https://casual.pm/) - 可视化项目管理
-* ：钱袋子： [Codecks](https://www.codecks.io) - 受收藏卡片游戏启发的项目管理工具
+* ：钱袋子： [Codecks](https://www.codecks.io) - Project Management Tool inspired by Collectible Card Games
 *：money_with_wings： [HacknPlan](http://hacknplan.com/) - 游戏开发者的项目管理
 *：money_with_wings： [Taiga](https://taiga.io/) - 敏捷开发人员和设计人员的项目管理平台
 *：money_with_wings： [Trello](https://trello.com/) - 组织项目并确定其优先顺序
@@ -455,7 +456,7 @@ Ads
 * [AdMob by Google](https://www.google.com.br/admob/) - 谷歌的移动广告和货币化服务.
 * [AdColony](http://www.adcolony.com/) - 移动视频广告服务.
 * [Appodeal](http://www.appodeal.com/) - 针对移动应用的程序化广告中介解决方案.
-* [ChartBoost](https://www.chartboost.com/) - Monetization, analytics platform.
+* [ChartBoost](https://www.chartboost.com/) - 货币化，分析平台.
 * [RevMob](https://www.revmobmobileadnetwork.com/) - 货币化和广告解决方案.
 * [Unity Ads](https://unity3d.com/pt/services/ads) -  Unity3D官方广告SDK.
 * [Vungle](https://vungle.com/) - 视频广告服务.

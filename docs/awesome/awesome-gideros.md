@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stetso/awesome-gideros"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
@@ -17,7 +18,7 @@
 - [Getting Started Manual](http://docs.giderosmobile.com) - 首先查看此处以获得框架的概述.
 - [API Reference](http://docs.giderosmobile.com/reference/) - 无论什么时候你需要弄清楚 - 这是第一个去的地方.
 - [Forum](http://giderosmobile.com/forum/) - 加入非常有用的社区.
-- [Online Editor](http://giderosmobile.com/code/) - 在浏览器中试用Gideros而无需安装任何东西.
+- [Online Editor](http://giderosmobile.com/code/) - 在浏览器中试用Gideros，无需安装任何东西.
 - [Online Examples](http://giderosmobile.com/examples) - 在浏览器中查看Gideros的一些功能.
 - [Developer Guide](http://giderosmobile.com/guide) - 官方的指南和教程列表.
 
@@ -83,7 +84,7 @@
 ### Saving and Loading
 - [Using JSON](http://giderosmobile.com/forum/discussion/6918/saving-and-loading-data-files#Item_1) - 通过JSON手动加载和保存.
 - [DataSaver module](http://appcodingeasy.com/Gideros-Mobile/Save-and-load-data-module-for-Gideros-Mobile) - 用户友好的包装，使数据保存和加载尽可能简单.
-- [Encrypting save files](http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1) - 一些关于保护保存文件免受不必要的操作的想法（带代码）.
+- [Encrypting save files](http://giderosmobile.com/forum/discussion/5625/simple-savegame-encryption/p1) - 关于保护保存文件免受不必要操作的一些想法（包括代码）.
 
 ### Monetization
 - [Admob integration](http://giderosmobile.com/forum/discussion/5801/tuto-video-tutorial-how-to-add-admob-plugin-to-your-app) - 关于将Admob集成到游戏中的视频教程.
@@ -106,7 +107,7 @@
 *一般Lua库在gamedev中有用，但不是Gideros特有的*
 
 - [lume](https://github.com/rxi/lume) - 丰富的功能集合，可用于游戏开发.
-- [inspect](https://github.com/kikito/inspect.lua) - 以可读的方式轻松漂亮地将表格打印到控制台.
+- [inspect](https://github.com/kikito/inspect.lua) - 以可读的方式将表格轻松漂亮地打印到控制台.
 - [jumper](http://yonaba.github.io/Jumper/) -  Lua的超快速网格寻路.
 - [bump](https://github.com/kikito/bump.lua) - 使用轴对齐边界框进行碰撞检测的简单，灵活和快速库.
 - [Bresenham](https://github.com/rm-code/Bresenham) -  Bresenham的线算法，在Lua中实现.

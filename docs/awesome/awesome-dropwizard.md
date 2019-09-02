@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="stve/awesome-dropwizard"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
 
 [<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
@@ -32,7 +33,7 @@
 * [dropwizard-maxmind-bundle](https://github.com/phaneesh/dropwizard-maxmind-bundle) -  MaxMind GeoIP2支持dropwizard
 * [dropwizard-protobuf](https://github.com/dropwizard/dropwizard-protobuf) - 支持在Dropwizard中读写Google协议缓冲区对象
 * [dropwizard-activemq-bundle](https://github.com/mbknor/dropwizard-activemq-bundle) - 在Dropwizard应用程序中通过ActiveMQ发送和接收JSON
-* [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) -  Dropwizard的Consul捆绑包
+* [dropwizard-consul](https://github.com/smoketurner/dropwizard-consul) -  Dropwizard的Consul捆绑
 * [dropwizard-zipkin](https://github.com/smoketurner/dropwizard-zipkin) -  Dropwizard的Zipkin捆绑包
 * [dropwizard-graphql](https://github.com/smoketurner/dropwizard-graphql) -  Dropwizard的GraphQL包
 * [dropwizard-money](https://github.com/smoketurner/dropwizard-money) -  Dropwizard的Money捆绑包
@@ -70,7 +71,7 @@
 ### Metrics
 
 * [riemann-bundle](https://github.com/phaneesh/riemann-bundle) - 简化dropwizard指标与Riemann的集成
-* [metrics](http://metrics.dropwizard.io/3.1.0/manual/third-party/) - 度量库
+* [metrics](http://metrics.dropwizard.io/3.1.0/manual/third-party/) - 指标库
 
 ### Logging
 

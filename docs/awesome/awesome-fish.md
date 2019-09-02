@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jorgebucaran/awesome-fish"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome `fish` [![Version](https://img.shields.io/github/tag/fish-shell/fish-shell.svg?label=&color=0080FF)](https://github.com/fish-shell/fish-shell/releases/latest)
 
  友情<a href="https://github.com/fish-shell/fish-shell" title="鱼">交互式shell</a>的最精彩包，提示和资源的精选列表.

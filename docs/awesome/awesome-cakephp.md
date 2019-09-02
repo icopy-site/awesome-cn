@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="friendsofcake/awesome-cakephp"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 精选的CakePHP 3.x **插件，资源和闪亮的东西.
 
@@ -49,12 +50,12 @@
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - 允许使用的插件 [HybridAuth](https://github.com/hybridauth/hybridauth) 与CakePHP的图书馆的社会标志.
 - [ADmad/JwtAuth plugin](https://github.com/ADmad/cakephp-jwt-auth) - 使用JSON Web令牌进行身份验证的插件.
 - [Authentication plugin](https://github.com/cakephp/authentication) - 官方CakePHP身份验证中间件插件.
-- [Authorization plugin](https://github.com/cakephp/authorization) - 官方CakePHP授权堆栈.
+- [Authorization plugin](https://github.com/cakephp/authorization) - Official CakePHP authorization stack.
 - [CakeDC/NavAuth plugin](https://github.com/CakeDC/cakephp-nav-auth)   - 使用SOAP或OData服务对Navision®服务进行身份验证的插件.  它包括NTLM身份验证等.
 - [CakeDC/Users plugin](https://github.com/CakeDC/users) - 完整的用户管理（管理面板，记住我等），社交登录（FB，Twitter，LinkedIn，谷歌，Instagram），RBAC，API等.
 - [CookieAuth plugin](https://github.com/Xety/Cake3-CookieAuth) - 一个简单的Cake 3插件，可以使用Cookie自动验证用户身份.
 - [HierAuth plugin](https://github.com/btaens/cakephp-hier-auth) -  CakePHP插件，用于分层，基于角色的简单授权.
-- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
+- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - 使用OAuth2身份验证 [`league/oauth2-client`](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin](https://github.com/UseMuffin/Tokenize) - 事件驱动的行为，可轻松生成一次性安全令牌.
 - [MultiTenant plugin](https://github.com/pronique/multitenant) - 轻松构建支持SaaS的Web应用程序.
 - [TinyAuth plugin](https://github.com/dereuromark/cakephp-tinyauth) - 认证和基于角色的（单/多）授权作为非常轻量级的方法.
@@ -129,7 +130,7 @@
 *用于过滤和验证数据的插件.*
 
 - [Gourmet/Filters plugin](https://github.com/gourmet/filters) - 额外的调度过滤器（维护，机器人，IP等）.
-- [Gourmet/Validation plugin](https://github.com/gourmet/validation) - Extra validation providers (Respect, IsoCodes, etc.) and rules.
+- [Gourmet/Validation plugin](https://github.com/gourmet/validation) - 额外的验证提供程序（Respect，IsoCodes等）和规则.
 - [HtmlPurifier plugin](https://github.com/burzum/cakephp-html-purifier)   - 具有特征，行为和帮助的Purifier插件，允许您在需要的地方进行消毒和过滤.  您也可以配置多组过滤规则.
 - [HtmlPurifier plugin](https://github.com/chrisShick/CakePHP3-HtmlPurifier) -  Purifier Plugin行为，用于在数据被封送到实体之前和/或保存之前清理数据.
 
@@ -301,7 +302,7 @@
 - [Muffin/Slug plugin](https://github.com/UseMuffin/Slug)   - 用于生成slu and和通过slug查找记录的插件.  使用可插拔的架构，允许使用自己的slug生成器类.
 - [Seo plugin](https://github.com/orgasmicnightmare/cakephp-seo) - 自动创建和管理您的SEO标签.
 - [Sluggable plugin](https://github.com/Xety/Cake3-Sluggable) - 一个简单的Cake3插件，用于slug字段并通过slug查找记录.
-- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - 包含Slugged行为以从标题自动生成与URL兼容的slugs.
+- [Tools:Slugged](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 
 ## Skeleton
 * app骷髅周围的插件和存储库.*
@@ -326,7 +327,7 @@
 - [Bootstrap plugin](https://github.com/elboletaire/twbs-cake-plugin) - 支持LESS的Bootstrap 3插件.
 - [BootstrapUI plugin](https://github.com/friendsofcake/bootstrap-ui) -  Bootstrap 3集成.
 - [CakeExcel plugin](https://github.com/dakota/CakeExcel) - 用于生成XLSX文件的Excel视图.
-- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - Front-End framework FormHelper extensions.
+- [Chocolate plugin](https://github.com/commercial-hippie/chocolate) - 前端框架FormHelper扩展.
 - [CommonMark plugin](https://github.com/gourmet/common-mark) - 添加 [CommonMark](http://commonmark.org) （降价）对模型和视图的支持.
 - [CsvView plugin](https://github.com/FriendsOfCake/cakephp-csvview) - 可轻松生成CSV的视图类.
 - [Datalist plugin](https://github.com/rrd108/cakephp-datalist) - 支持HTML5 datalist元素，可以在关联模型中创建新条目.

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="bnb/awesome-hyper"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
@@ -138,7 +139,7 @@
 [space-pull](https://www.npmjs.com/package/space-pull)   - 使用git提取代码时，在终端中添加登陆火箭的动画.  | [![npm](https://img.shields.io/npm/dm/space-pull.svg?label=DL)](https://www.npmjs.com/package/space-pull)
 [hyper-bloodbath](https://www.npmjs.com/package/hyper-bloodbath)   - 对超级大国的残酷重新想象.  从你的光标滴血.  | [![npm](https://img.shields.io/npm/dm/hyper-bloodbath.svg?label=DL)](https://www.npmjs.com/package/hyper-bloodbath)
 [hyper-postprocessing](https://www.npmjs.com/package/hyper-postprocessing)   - 将片段着色器添加到Hyper终端.  | [![npm](https://img.shields.io/npm/dm/hyper-postprocessing.svg?label=DL)](https://www.npmjs.com/package/hyper-postprocessing)
-[git-falcon9](https://www.npmjs.com/package/git-falcon9)   - 使用git推送和拉动代码时启动并登陆SpaceX的Falcon火箭！  | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
+[git-falcon9](https://www.npmjs.com/package/git-falcon9) - Launch and land SpaceX's Falcon rockets when pushing and pulling code with git! | [![npm](https://img.shields.io/npm/dm/git-falcon9.svg?label=DL)](https://www.npmjs.com/package/git-falcon9)
 
 
 ## Themes
@@ -162,7 +163,7 @@
 [hyper-clean](https://www.npmjs.com/package/hyper-clean) - 一个干净的主题 [IBM Design colors](https://github.com/IBM-Design/colors). | [![npm](https://img.shields.io/npm/dm/hyper-clean.svg?label=DL)](https://www.npmjs.com/package/hyper-clean)
 [hyper-cobalt-next](https://www.npmjs.com/package/hyper-cobalt-next) - 基于主题 [Cobalt Next VS Code Theme](https://marketplace.visualstudio.com/items?itemName=dline.CobaltNext). | [![npm](https://img.shields.io/npm/dm/hyper-cobalt-next.svg?label=DL)](https://www.npmjs.com/package/hyper-cobalt-next)
 [hyper-criollo](https://www.npmjs.com/package/hyper-criollo)   - 主题为蒸汽波色.  | [![npm](https://img.shields.io/npm/dm/hyper-criollo.svg?label=DL)](https://www.npmjs.com/package/hyper-criollo)
-[hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) - Dark - Darkmatter theme for Hyper, inspired by [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)](https://www.npmjs.com/package/hyper-darkmatter)
+[hyper-darkmatter](https://www.npmjs.com/package/hyper-darkmatter) -  Dark  -  Darkmatter主题为Hyper，灵感来自于 [Sublime Darkmatter](https://github.com/patrickemuller/Sublime-Darkmatter-Theme). | [![npm](https://img.shields.io/npm/dm/hyper-darkmatter.svg?label=DL)](https://www.npmjs.com/package/hyper-darkmatter)
 [hyper-dracula](https://www.npmjs.com/package/hyper-dracula) - 基于Hyper的黑暗主题 [Dracula theme](https://draculatheme.com/hyper/). | [![npm](https://img.shields.io/npm/dm/hyper-dracula.svg?label=DL)](https://www.npmjs.com/package/hyper-dracula)
 [hyper-firewatch](https://www.npmjs.com/package/hyper-firewatch)   - 由Campo Santo的Firewatch视频游戏启发的黑暗Hyper主题.  | [![npm](https://img.shields.io/npm/dm/hyper-firewatch.svg?label=DL)](https://www.npmjs.com/package/hyper-firewatch)
 [hyper-flat-2](https://www.npmjs.com/package/hyper-flat-2)   - 基于Flat主题的Hyper的另一个平面主题.  | [![npm](https://img.shields.io/npm/dm/hyper-flat-2.svg?label=DL)](https://www.npmjs.com/package/hyper-flat-2)
@@ -202,7 +203,7 @@
 [hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars)   - 超级棒，你的超级终端应该看起来.  | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
 [hyper-teatime](https://www.npmjs.com/package/hyper-teatime)   - 浅色主题，甜美柔和的色彩.  | [![npm](https://img.shields.io/npm/dm/hyper-teatime.svg?label=DL)](https://www.npmjs.com/package/hyper-teatime)
 [hyper-theme](https://www.npmjs.com/package/hyper-theme)   - 超级终端的超颜色主题.  | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme)
-[hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)](https://www.npmjs.com/package/hyper-thirtyone)
+[hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone)   - 针对Hyper的略微修改的经典Linux终端主题.  | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)](https://www.npmjs.com/package/hyper-thirtyone)
 [hyper-white-theme](https://www.npmjs.com/package/hyper-white-theme)   -  Hyper的白色和紫色主题.  | [![npm](https://img.shields.io/npm/dm/hyper-white-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-white-theme)
 [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn)   - 一个经典的低对比度主题，最初为vim改编为Hyper.  | [![npm](https://img.shields.io/npm/dm/hyper-zenburn.svg?label=DL)](https://www.npmjs.com/package/hyper-zenburn)
 [hyper-zigorat](https://www.npmjs.com/package/hyper-zigorat)   -  Hyper的最小语法主题.  | [![npm](https://img.shields.io/npm/dm/hyper-zigorat.svg?label=DL)](https://www.npmjs.com/package/hyper-zigorat)
@@ -253,7 +254,7 @@
 [hyperterm-unlease](https://www.npmjs.com/package/hyperterm-unlease)   -  Hyper的新主题让您感觉有一种松树车空气清新剂悬挂在您的终端上.  | [![npm](https://img.shields.io/npm/dm/hyperterm-unlease.svg?label=DL)](https://www.npmjs.com/package/hyperterm-unlease)
 [hyperterm-wp-theme](https://www.npmjs.com/package/hyperterm-wp-theme)   - 改编流行的JetBrains Darcula主题，支持彩色标签.  | [![npm](https://img.shields.io/npm/dm/hyperterm-wp-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-wp-theme)
 [shades-of-purple-hyper](https://www.npmjs.com/package/shades-of-purple-hyper)   -  Professional Hyper™主题，采用精选和大胆的紫色调.  紫色可以是天才.  | [![npm](https://img.shields.io/npm/dm/shades-of-purple-hyper.svg?label=DL)](https://www.npmjs.com/package/shades-of-purple-hyper)
-[verminal](https://www.npmjs.com/package/verminal)   - 黑暗的Hyper主题，充满活力.  | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
+[verminal](https://www.npmjs.com/package/verminal) - A dark Hyper theme with beautiful vibrancy. | [![npm](https://img.shields.io/npm/dm/verminal.svg?label=DL)](https://www.npmjs.com/package/verminal)
 
 知道另一个非常棒的主题吗？ [Get it on awesome-hyper!](https://github.com/bnb/awesome-hyper/issues/new)
 

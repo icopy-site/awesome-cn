@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="RomanTsegelskyi/rbooks"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 R书 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ===
 关于不同方面和应用的精选书籍清单 [R](https://www.r-project.org/)  编程语言和尝试以更加用户友好的方式使[R Books]（）现代化.  灵感来自[GoBooks]（）.
@@ -47,9 +48,9 @@ R书 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa8
 
 <img src="http://www.burns-stat.com/wp-content/uploads/2012/11/R_inferno_cover.jpg" width="200px"/>
 
-“如果你正在使用R并且你认为自己处于地狱状态，那么这就是你的地图.”
+“如果你正在使用R并且你认为你在地狱，那么这就是你的地图.”
 
- 这是对R编程的几个方面的一个很好的介绍.  将数据加载到R中，使用循环和逻辑语句迭代数据，作者甚至触及创建包.  关于R的好又漂亮的书. 
+This is a great introduction to several aspects of R programming. Loading data into R, iterating over data with loops & logic statements, author even touches on creating packages. Nice and pretty thorough book on R. 
 
 
 #### The R Programming Wikiboo [[online]](https://en.wikibooks.org/wiki/R_Programming) 
@@ -85,7 +86,7 @@ R书 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa8
 
 <img src="http://ecx.images-amazon.com/images/I/51Jwp-z343L._SX403_BO1,204,203,200_.jpg" width="200px" />
 
- 本书从安装R开始，以及如何使用R及其库.  然后，我们讨论R对象及其类的模式，然后使用它们的基本操作突出显示不同的R数据类型.
+This book starts with the installation of R and how to go about using R and its libraries. We then discuss the mode of R objects and its classes and then highlight different R data types with their basic operations.
 
  通过具体示例解释了使用拆分 - 应用 - 组合策略对分组数据操作的主要关注.  本书还包含一些特定库的内容，如lubridate，reshape2，plyr，dplyr，stringr和sqldf.  您不仅将学习分组数据操作，还将学习如何使用reshape2包有效地处理日期，字符串和因子变量以及不同的数据集布局.
 
@@ -148,7 +149,7 @@ Finance
 
  本书是作为使用R的逐步实用指南而组织的.从时间序列分析开始，您还将学习如何预测VWAP交易的交易量.  除其他主题外，本书还涉及外汇衍生品，利率衍生品和最优套期保值.  最后几章概述了流动性风险管理，风险衡量等.
 
- 本书务实地介绍了量化金融概念及其在R中的建模，使您能够自己构建量身定制的交易系统.  在本书的最后，您将精通使用R的各种金融技术，并且能够在做出财务决策时下注.
+ 本书务实地介绍了量化金融概念及其在R中的建模，使您能够自己构建量身定制的交易系统.  在本书的最后，您将精通使用R的各种金融技术，并能够在做出财务决策时下注.
 
 机器学习
 ---
@@ -175,13 +176,13 @@ Reports
 
 <img src="http://ecx.images-amazon.com/images/I/516z-S%2BUXjL._SX331_BO1,204,203,200_.jpg" width="200px"/>
 
-Suitable for both beginners and advanced users, Dynamic Documents with R and knitr, Second Edition makes writing statistical reports easier by integrating computing directly with reporting. Reports range from homework, projects, exams, books, blogs, and web pages to virtually any documents related to statistical graphics, computing, and data analysis. The book covers basic applications for beginners while guiding power users in understanding the extensibility of the knitr package.
+ 适用于初学者和高级用户，带有R和knitr的动态文档，第二版通过直接将计算与报告集成，使编写统计报告变得更容易.  报告范围从家庭作业，项目，考试，书籍，博客和网页到几乎所有与统计图形，计算和数据分析相关的文档.  本书涵盖了初学者的基本应用，同时指导高级用户理解编织包的可扩展性.
 
 #### Report Writing for Data Science in R [[Leanpub]](https://leanpub.com/reportwriting) *Free*
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/reportwriting/large?1440030475" width="200px"/>
 
-This book teaches the fundamental concepts and tools behind reporting modern data analyses in a reproducible manner. As data analyses become increasingly complex, the need for clear and reproducible report writing is greater than ever. The material for this book was developed as part of the industry-leading Johns Hopkins Data Science Specialization.
+ 本书讲述了以可重复的方式报告现代数据分析的基本概念和工具.  随着数据分析变得越来越复杂，对清晰可重复的报告编写的需求比以往任何时候都要大.  本书的材料是作为业界领先的约翰霍普金斯数据科学专业化的一部分而开发的.
 
 Visualization
 ---

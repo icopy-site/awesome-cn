@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="maxogden/maintenance-modules"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
@@ -124,7 +125,7 @@ npm和合作者-g
  node.js的预配置管道.  一个更强大的npm脚本版本，但比gulp或grunt更少框架.  当您可能使用Makefile或bash脚本但希望您的管道跨平台时很有用.
 
 ```
-npm和垫圈--save-dev
+asl和垫圈--save-dev
 ```
 
 ### [module-init](https://github.com/ngoldman/module-init) by [ngoldman](https://www.npmjs.com/~ngoldman)
@@ -148,7 +149,7 @@ npm i gh-release -g
  JavaScript幸福风格的linter.  实施严格的代码风格.  没有决策权.  没有配置.  它只是工作！
 
 ```
-npm和xo -g
+asl和xo -g
 ```
 
 ### [np](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
@@ -162,7 +163,7 @@ npm和np -g
 ## maintenance bash scripts
 
 ```
-aka patch =&#39;pre-version &amp;&amp; npm version patch &amp;&amp; post-version&#39;
+alias patch =&#39;pre-version &amp;&amp; npm version patch &amp;&amp; post-version&#39;
 alias minor =&#39;pre-version &amp;&amp; npm version minor &amp;&amp; post-version&#39;
 alias major =&#39;pre-version &amp;&amp; npm version major &amp;&amp; post-version&#39;
 alias pre-version =&#39;git diff --exit-code &amp;&amp; npm prune &amp;&amp; npm install -q &amp;&amp; npm test&#39;

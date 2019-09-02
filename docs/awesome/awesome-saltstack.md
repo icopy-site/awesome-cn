@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="hbokh/awesome-saltstack"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hbokh/awesome-saltstack.svg?branch=develop)](https://travis-ci.org/hbokh/awesome-saltstack) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=hbokh%2Fawesome-saltstack)](https://listlist.net/user/hbokh/awesome-saltstack?subscribe)
 
 &gt;一份精彩的SaltStack资源，教程和其他腌制内容的协作策划列表.
@@ -62,7 +63,7 @@ SaltStack软件管理系统基础架构和在其上运行的应用程序堆栈�
 - [zulily/alkali](https://github.com/zulily/alkali) -  SaltStack状态和支柱数据的集合，它们提供了可以构建的Linux实例供应的基础知识.
 - [zulily/buoyant](https://github.com/zulily/buoyant) - 利用docker为以VM为中心的SaltStack开发环境提供替代方案.
 - [valentin2105/Kubernetes-Saltstack](https://k8s-salt.opsnotice.xyz/) - 从头开始​​部署Kubernetes集群的Saltstack配方.
-- [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base)   - 快速引导通用（ish）Ubuntu服务器.  一个准备好托管Docker容器的人.
+- [madflojo/masterless-salt-base](https://github.com/madflojo/masterless-salt-base) - Quickly bootstrap a generic(ish) Ubuntu server. One that is ready to host Docker containers.
 
 ## Books
 
@@ -70,10 +71,10 @@ SaltStack软件管理系统基础架构和在其上运行的应用程序堆栈�
 - [O'Reilly - Network Automation at Scale](https://www.cloudflare.com/media/pdf/network-automation-at-scale.pdf) 由Mircea Ulinic和Seth House（由Cloudflare赞助的电子书）.
 - [Leanpub - SaltStack For DevOps](https://leanpub.com/saltstackfordevops) 作者：Aymen El Amri.
 - [Leanpub - Getting Started with SaltStack](https://leanpub.com/gettingstartedwithsaltstack) 作者Ben Hosmer.
-- [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) by Colton Myers.
-- [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) 约瑟夫·霍尔
-- [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) 约瑟夫·霍尔
-- [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) 作者：Anirban Saha
+- [Packt - Learning SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/learning-saltstack-second-edition) 科尔顿迈尔斯.
+- [Packt - Mastering SaltStack, 2nd ed.](https://www.packtpub.com/networking-and-servers/mastering-saltstack-second-edition) 由约瑟夫霍尔.
+- [Packt - Extending SaltStack](https://www.packtpub.com/networking-and-servers/extending-saltstack) 由约瑟夫霍尔.
+- [Packt - Salt Cookbook](https://www.packtpub.com/networking-and-servers/salt-cookbook) 作者：Anirban Saha.
 
 ## Videos
 

@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="dreamingechoes/awesome-mental-health"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 <p align="center"><img src="https://raw.githubusercontent.com/dreamingechoes/awesome-mental-health/master/./media/logo.png"></p>
 
@@ -69,7 +70,7 @@
 * [What It's Like Being A Developer With Schizoaffective Disorder](https://dev.to/ogfris/what-its-like-being-a-developer-with-schizoaffective-disorder-1ei) - 弗里斯
 * [What Most Remote Companies Don't Tell You About Remote Work](https://blog.doist.com/mental-health-and-remote-work-1b77616f6945) - 作者：Amir Salihefendic.
 * [Why Burnout Is Dangerous And How You Can Recover From It (It's Possible)](https://blog.toggl.com/recover-from-burnout) - 由Theodora S. Abigail撰写.
-* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - By Muhammed Rajeef M K.
+* [Why Do Software Developers Suffer From Imposter Syndrome?](https://medium.com/@rajeefmk/why-does-software-developers-suffer-from-imposter-syndrome-ccf961d0c29a) - 作者：Muhammed Rajeef M K.
 
 ## Books
 
@@ -110,7 +111,7 @@
 
 ## Podcasts
 
-以“软件行业的心理健康意识”为主题的播客剧集.
+Podcast episodes with «mental health awareness in the software industry» as the main theme.
 
 * [Emotional Intelligence And Ethics In Tech](http://happyporchradio.com/season-4-episode-3-april-wensel/) - 四月文塞尔在Happy Porch播客中播出.
 * [Jerk Programmer To Compassionate Coder](http://ardentdev.com/011-jerk-programmer-compassionate-coder-april-wensel) - 四月文塞尔在Ardent Development播客中.

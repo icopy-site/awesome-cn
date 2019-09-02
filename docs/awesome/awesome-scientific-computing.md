@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="nschloe/awesome-scientific-computing"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Scientific Computing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
@@ -85,7 +86,7 @@ them.
   （C / C ++ / Fortran / Java / Python，[自定义开源
   许可证（https://www.unidata.ucar.edu/software/netcdf/copyright.html），
   [GitHub](https://github.com/Unidata/netcdf-c/))
-- [HDF5](https://support.hdfgroup.org/HDF5/) - Data model, library, and file format for storing and managing data.
+- [HDF5](https://support.hdfgroup.org/HDF5/) - 用于存储和管理数据的数据模型，库和文件格式.
   （C / Fortran，BSD）
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) - 可扩展数据模型和格式，用于在高性能计算代码和工具之间交换科学数据.
   （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
@@ -137,7 +138,7 @@ them.
   （Python，[自定义开源
   许可证（https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) -  Python的准确总和和点积.
+- [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
   （Python，MIT，GitHub）
 - [SLEPc](http://slepc.upv.es) - 特征值问题计算的可扩展库.
   （C，2条款BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))

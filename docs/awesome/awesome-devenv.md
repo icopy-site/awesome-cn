@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="jondot/awesome-devenv"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 精选的工具，资源和工作流提示的精选列表，提供了一个很棒的开发环境.
@@ -108,7 +109,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [Git Gutter](https://github.com/jisaacks/GitGutter) - 在编辑器窗口的边缘显示已更改/添加的行.
 * [jsFormat](https://github.com/jdc0589/JsFormat) -  Javascript格式.
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) -  LiveReload插件.
-* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
+* [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing) -  Markdown语法理解和良好的配色方案.
 * [Package Control](https://sublime.wbond.net/installation) -  Sublime Text包管理器.
 * [RubyTest](https://github.com/maltize/sublime-text-2-ruby-tests) - 用于运行Ruby测试的插件.
 * [Side Bar Enhancments](https://github.com/titoBouzout/SideBarEnhancements)   -  Sublime Text侧栏的增强功能.  文件和文件夹.
@@ -186,7 +187,7 @@ _注意：对于特定于操作系统的工具，请尽力使用`OSX / WIN / * N
 * [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh/) - 用于管理zsh配置的社区驱动框架.
 * [zgen](https://github.com/tarjoilija/zgen) - 更快的框架，用于管理zsh配置，向后兼容oh-my-zsh插件
 * [zsh](http://www.zsh.org/) - 专为交互式使用而设计的shell，尽管它也是一种功能强大的脚本语言.
-* [shellcheck](https://github.com/koalaman/shellcheck)   - 壳的棉绒.  将在shell脚本中找到已弃用和/或危险的用法
+* [shellcheck](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
 * [zsh quickstart kit](https://github.com/unixorn/zsh-quickstart-kit) - 使用zsh和zgen进行设置的快速入门
 
 ## Text

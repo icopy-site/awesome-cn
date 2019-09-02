@@ -1,4 +1,5 @@
 <div class="github-widget" data-repo="yrgo/awesome-eg"></div>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Educational Games [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Educational Games" width="150">](https://en.m.wikipedia.org/wiki/Educational_game)
