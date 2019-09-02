@@ -92,6 +92,7 @@
 * [Tonic](https://github.com/TonicAudio/Tonic)   - 使用C ++轻松高效地进行音频合成.  [授予许可]
 * [Vorbis](http://xiph.org/vorbis/)   -  Ogg Vorbis是一种完全开放，非专有，专利和免版税的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)   - 公共领域，仅限标题的MP3解码器，带有洁净室实施.  [CC0]
+* [Verovio](https://github.com/rism-ch/verovio)   -  Verovio是一款快速轻巧的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
 * [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) - 公共领域，一个完全用C ++编写的快速开源语音处理工具包，使用ArrayFire张量库和手电筒机器学习库实现最高效率[BSD]
 
 ## Biology
@@ -159,7 +160,7 @@
 
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)   - 用于并行内核加速的抽象库.  [LGPLv3 +]
 * [ArrayFire](https://github.com/arrayfire/arrayfire)   - 通用GPU库.  [BSD]
-* [Async++](https://github.com/Amanieu/asyncplusplus)   -  C ++ 11的轻量级并发框架，受Microsoft PPL库和N3428 C ++标准提案的启发.  [MIT]
+* [Async++](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
 * [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
@@ -298,7 +299,7 @@
 * [Google Test](https://github.com/google/googletest)   -  Google C ++测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)   - 多平台调试堆，可用于跟踪内存错误.  [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - 用C编写测试.[GPL2]
-* [MemTrack](http://www.almostinfinite.com/memtrack.html) - 使用C ++跟踪内存分配.
+* [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview)   - 具有多个平台的Web视图的Profiler.  [公共区域]
 * [MinUnit](https://github.com/siu/minunit)   - 单个头文件中自包含C的最小单元测试框架.  [MIT]
 * [Mockator](http://www.mockator.com) - 用于C ++ Seams和Mock对象的Eclipse CDT插件.
@@ -315,7 +316,7 @@
 
 * [Fontconfig](https://gitlab.freedesktop.org/fontconfig/fontconfig)   - 字体配置和自定义库.  [MIT] [website](https://www.freedesktop.org/wiki/Software/fontconfig/)
 * [FreeType](https://www.freetype.org/)   -  FreeType是一个免费提供的软件库来渲染字体.  [FTL和GPLv2]
-* [otfcc](https://github.com/caryll/otfcc) - A C library and utility used for parsing and writing OpenType font files. [Apache-2.0]
+* [otfcc](https://github.com/caryll/otfcc)   - 用于解析和编写OpenType字体文件的AC库和实用程序.  [Apache的2.0]
 
 ## Game Engine
 
@@ -351,7 +352,7 @@
 * [CEGUI](http://cegui.org.uk/) - 灵活的跨平台GUI库.
 * [FLTK](http://www.fltk.org/index.php)   - 快速，轻便，跨平台的C ++ GUI工具包.  [GPL2]
 * [GacUI](https://github.com/vczh-libraries/GacUI)   -  GPU加速C ++用户界面，具有WYSIWYG开发工具，XML支持，内置数据绑定和MVVM功能.  [MS-PL]
-* [GTK+](http://www.gtk.org/) - A multi-platform toolkit for creating graphical user interfaces. [LGPL]
+* [GTK+](http://www.gtk.org/)   - 用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)   - 流行的GUI库GTK +的官方C ++接口.  [LGPL]
 * [imgui](https://github.com/ocornut/imgui)   - 具有最小依赖性的即时模式图形用户界面.  [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup)   - 用于构建图形用户界面的多平台工具包.  [MIT]
@@ -440,7 +441,7 @@
 * [gRPC](https://github.com/grpc/grpc)   - 高性能，开源，通用的RPC框架.  [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)   - 用于C ++服务器和客户端的JSON-RPC框架.  [MIT]
-* [nanomsg](https://github.com/nanomsg/nanomsg)   - 几种“可扩展性协议”的简单高性能实现.  [MIT] [website](http://nanomsg.org/)
+* [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
 * [nng](https://github.com/nanomsg/nng)   -  nanomsg-next-generation，一个轻量级的无代理消息库.  [MIT] [website](https://nanomsg.github.io/nng/)
 * [rpclib](https://github.com/rpclib/rpclib)   - 一个现代的C ++ msgpack-RPC服务器和客户端库.  [MIT]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)   - 一个简单的RPC包装生成器，用于C / C ++函数.  [BSD]
@@ -497,7 +498,7 @@
 
 ## Machine Learning
 
-* [Caffe](https://github.com/BVLC/caffe) - A fast framework for neural networks. [BSD]
+* [Caffe](https://github.com/BVLC/caffe)   - 神经网络的快速框架.  [BSD]
 * [CCV](https://github.com/liuliu/ccv)   - 基于C /缓存/核心计算机视觉库，现代计算机视觉库.  [BSD]
 * [darknet](https://github.com/pjreddie/darknet)   - 用C和CUDA编写的开源神经网络框架.  [公共区域] [website](https://pjreddie.com/darknet/)
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
@@ -719,6 +720,7 @@
 
 ## Serialization
 
+* [Bitsery](https://github.com/fraillt/bitsery)   - 仅限头文件的C ++二进制序列化库.  [MIT] 
 * [Bond](https://github.com/Microsoft/bond)   - 用于处理模式化数据的开源跨平台框架.  [MIT]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)   - 快速数据交换格式和基于功能的RPC系统.  [MIT] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal)   - 用于序列化的C ++ 11库.  [BSD]
@@ -786,7 +788,7 @@
 * [Xerces-C++](http://xerces.apache.org/xerces-c/)   - 用C ++的可移植子集编写的验证XML解析器.  [Apache2的]
 
 ## Miscellaneous
-*有用的库或工具不适合上述类别或可能尚未归类*
+*Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
@@ -800,7 +802,7 @@
 * [QtVerbalExpressions](https://github.com/VerbalExpressions/QtVerbalExpressions)   - 这个Qt lib基于C ++ VerbalExpressions库.  [MIT]
 * [cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint)   - 适用于C ++容器的漂亮打印库.  [促进]
 * [icecream-cpp](https://github.com/renatoGarcia/icecream-cpp)   - 用于调试目的的小型打印库.  [MIT]
-* [gcc-poison](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
+* [gcc-poison](https://github.com/leafsr/gcc-poison) - 一个简单的头文件，供开发人员从应用程序中禁止不安全的C / C ++函数.
 * [Kangaru](https://github.com/gracicot/kangaru)   -  C ++ 11和C ++ 14的依赖注入容器.  [MIT]
 * [Klib](https://github.com/attractivechaos/klib)   - 通用算法和数据结构的小型轻量级实现.  [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/)   - 标准C ++的类型安全回调系统.  [LGPL]
