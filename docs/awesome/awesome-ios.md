@@ -1177,6 +1177,7 @@
 * [AlamoRecord](https://github.com/tunespeak/AlamoRecord) - An elegant yet powerful iOS networking layer inspired by ActiveRecord.
 * [MHNetwork](https://github.com/emadhegab/MHNetwork) - 面向协议的网络层旨在避免使用膨胀的单例NetworkManager
 * [ThunderRequest](https://github.com/3sidedcube/ThunderRequest) - 一个简单的URLSession包装器，具有基于通用协议的请求主体方法和响应的简单反序列化.
+* [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI)   - 使用RxSwift的强大功能，编写依赖于URLSession的干净，简洁和声明性的网络代码.  受到Retrofit的启发.
 
 ### Email
 
@@ -2074,7 +2075,7 @@
 * [PCLBlurEffectAlert](https://github.com/hryk224/PCLBlurEffectAlert) - 带有UIVisualEffectView的Swift AlertController.
 * [JDropDownAlert](https://github.com/trilliwon/JDropDownAlert) - 多方向下拉警报视图.
 * [BulletinBoard](https://github.com/alexaubry/BulletinBoard) - 在iOS上生成和显示底部卡接口
-* [CFNotify](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views.
+* [CFNotify](https://github.com/hallelujahbaby/CFNotify) - 可自定义的框架，用于创建可拖动的视图.
 * [StatusAlert](https://github.com/LowKostKustomz/StatusAlert) - 在不中断用户流量的情况下显示类似Apple系统的自我隐藏状态警报.
 * [Alerts & Pickers](https://github.com/dillidon/alerts-and-pickers) - 使用TextField，DatePicker，PickerView，TableView和CollectionView对本机UIAlertController进行高级使用.
 * [RMessage](https://github.com/donileo/RMessage) - 在ObjC中构建的清晰的应用内通知/消息横幅.
@@ -2408,7 +2409,7 @@
 * [RangeSlider](https://github.com/warchimede/RangeSlider) -  Swift制作的简单范围滑块
 * [CircleSlider](https://github.com/shushutochako/CircleSlider)   -  CircleSlider是一个圆形滑块库.  用纯粹的Swift编写.
 * [MARKRangeSlider](https://github.com/vadymmarkov/MARKRangeSlider) - 具有2个拇指（范围滑块）的自定义可重复使用滑块控件.
-* [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) -  UISlider子类，在弹出视图中显示滑块值
+* [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) - 滑块，与UISlider类似，但允许您选择最小和最大范围.
 * [MMSegmentSlider](https://github.com/MedvedevMax/MMSegmentSlider) - Customizable animated slider for iOS.
 * [StepSlider](https://github.com/spromicky/StepSlider) -  StepSlider其自定义滑块实现，如UISlider，用于预设整数值.
