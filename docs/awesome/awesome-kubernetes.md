@@ -130,7 +130,7 @@ Installers
 * [aks-engine](https://github.com/Azure/aks-engine) -  AKS Engine是在Azure上配置自我管理的Kubernetes集群的最简单方法.
 
 
-主要资源
+Main Resources
 =======================================================================
 
 * Kubernetes团队的官方资源*
@@ -188,6 +188,7 @@ Installers
 - [Kubernetes Monitoring Guide](http://www.datadoghq.com/blog/monitoring-kubernetes-era/) 通过 [JM Saponaro](http://github.com/JayJayM)
 - [Installing cAdvisor and Heapster on bare metal Kubernetes](http://www.dasblinkenlichten.com/installing-cadvisor-and-heapster-on-bare-metal-kubernetes/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
 - [How to Monitor Kubernetes: A 4-Part Series](http://sysdig.com/blog/monitoring-kubernetes-with-sysdig-cloud/)
+- [Kubernetes Web UIs in 2019](https://srcco.de/posts/kubernetes-web-uis-in-2019.html)
 
 
 - [Kubernetes Security Guide](https://sysdig.com/blog/kubernetes-security-guide/) -  RBAC，TLS，安全政策，网络政策等
@@ -493,6 +494,7 @@ Projects
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -  **不推荐使用的**存储库已存档且只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
+* [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) - 在纯HTML前端列出并查看所有Kubernetes资源（包括CRD）以及永久链接友好的URL
 * [Kubespy](https://github.com/pulumi/kubespy) - 由Pulumi提供实时观察Kubernetes资源的工具.
 * [Kubetail](https://github.com/johanhaleby/kubetail)
 * [Kubewatch](https://github.com/skippbox/kubewatch)
@@ -569,7 +571,7 @@ Projects
 * [Nuclio](https://github.com/nuclio/nuclio)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [OpenWhisk](https://github.com/openwhisk)
-* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - Allows nodes to be backed by other services and providers.
+* [Virtual Kubelet](https://github.com/virtual-kubelet/virtual-kubelet) - 允许节点由其他服务和提供商支持.
 
 ## Operators
 
