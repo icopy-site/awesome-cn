@@ -696,6 +696,7 @@
 ### Web Framework
 * WebAssembly
   * [Blazor](https://github.com/SteveSanderson/Blazor) - 通过WebAssembly在浏览器中运行.NET的UI框架.
+    * [Awesome Blazor](https://github.com/AdrienTorris/awesome-blazor) - 收集有关Blazor的精彩资源（样本，组件，文章，视频和其他内容）.
     * [Blazor Redux](https://github.com/torhovland/blazor-redux) - 将Redux状态存储与Blazor连接.
   * [Ooui](https://github.com/praeclarum/Ooui) - 小型跨平台UI库，可将本机UI开发的简单性带入Web.
 * [ReactJS.NET](https://github.com/reactjs/React.NET) - 用于JSX编译的.NET库和React组件的服务器端呈现.
