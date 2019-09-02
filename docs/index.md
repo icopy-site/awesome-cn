@@ -1,6 +1,11 @@
 <link rel="stylesheet" href="_static/css/main.css">
 
 ## 构建文档的中文镜像
+
+### 拖动下方按钮到书签栏,点击书签翻译
+
+<a class="admonition info" href="javascript:void((function(){window.location='https://icopy.site/'+window.location.href;})())"><span class="admonition-title">ICOPY.SITE</span></a>
+
 ### 输入英文文档url立即构建镜像
 <div class="s130">
     <div class="form">
@@ -31,6 +36,10 @@
 ## 提供的服务
 * *本站提供英文文档的中文镜像服务,镜像网站每周定期更新*
 * *整理汇总各类文档资源*
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 
 ## 服务限制
 
