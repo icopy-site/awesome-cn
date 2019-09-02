@@ -117,7 +117,7 @@ it.
 - [UTC is Enough for everyone, right?](https://zachholman.com/talk/utc-is-enough-for-everyone-right) - 有关日期和时间（特别是UTC）的边缘情况，您可能没有想到.
 - [Storing UTC is not a silver bullet](https://codeblog.jonskeet.uk/2019/03/27/storing-utc-is-not-a-silver-bullet/) - “以UTC格式存储日期”并不总是正确的做法.
 - [Falsehoods about Unix Time](https://alexwlchan.net/2019/05/falsehoods-programmers-believe-about-unix-time/) - 记住闰秒！
-
+- [Why is subtracting these two times (in 1927) giving a strange result?](https://stackoverflow.com/a/6841479/57311) - 臭名昭着的StackOverflow回答了复杂的历史时区，以及如何通过较新版本的软件重新解释历史日期. 
 
 ## Emails
 
@@ -231,6 +231,8 @@ code.
 -  [尽管没有姓名，但仍然发出了一封信
 地址]（https://twitter.com/loriskumo/status/735851511331356672） - 终极
 关于邮政地址的谎言：你不需要一个.
+- [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -
+Smokey Bear有他自己的邮政编码（&#39;20252`），因为他收到了很多邮件.
 -  [正则表达式和邮政
 地址]（https://smartystreets.com/articles/regular-expressions-for-street-addresses） - 
 为什么正则表达式和街道地址不混合.
