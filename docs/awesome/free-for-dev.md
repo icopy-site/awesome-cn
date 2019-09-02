@@ -41,7 +41,7 @@
     * Amazon SQS  -  100万个消息队列请求
     * Amazon CodeBuild  - 每月100分钟的构建时间
     *亚马逊代码提交 - 每月5个活跃用户
-    * Amazon Code Pipeline - 1 active pipeline per month
+    *亚马逊代码管道 - 每月1个活动管道
     *完整，详细的清单 -  https://aws.amazon.com/free/?awsf.Free%20Tier%20Types=categories%23alwaysfree
 
   * [Microsoft Azure](https://azure.microsoft.com)
@@ -95,13 +95,13 @@
   * [Diggernaut](https://www.diggernaut.com/)   - 基于云的网络抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划每月包含5K页面请求.
   * [Colaboratory](https://colab.research.google.com) - 采用Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)   - 在您的应用中提供深度学习支持的建议.  每月免费5k活跃用户.
-  * [Ipgeolocation](https://ipgeolocation.io/) -  IP地理位置API  - 针对每月限制为50k的开发人员的永久免费计划.
+  * [IP Geolocation](https://ipgeolocation.io/) -  IP Geolocation API  - 针对每月30k请求（1k /天）限制的开发人员的永久免费计划.
   * [RequestBin.com](https://requestbin.com)   - 创建可以向其发送HTTP请求的空闲端点.  发送到该端点的任何HTTP请求都将记录相关的有效负载和标头，以便您可以观察来自webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)   - 使用真实邮件服务器连接确认有效电子邮件的电子邮件验证服  免费API计划每月有300次验证.
   * [IP2Location](https://www.ip2location.com)   - 免费IP地理定位服务.  LITE数据库可免费下载.  在服务器中导入数据库并执行本地查询以确定城市，坐标和ISP信息.
   * [FraudLabs Pro](https://www.fraudlabspro.com)   - 筛选信用卡付款欺诈的订单交易.  此REST API将根据订单的输入参数检测所有可能的欺诈特征.  Free Micro计划每月有500笔交易.
   * [IPList](https://www.iplist.cc)   - 查找有关任何IP地址的详细信息，例如地理IP信息，地址，主机名和ASN详细信息.  个人和企业用户免费.
-  * [IPTrace](https://iptrace.io) - 一个令人尴尬的简单API，为您的企业提供可靠且有用的IP地理位置数据.
+  * [IPTrace](https://iptrace.io) - 一个令人尴尬的简单API，为您的企业提供可靠和有用的IP地理位置数据.
   * [Clarifai](https://www.clarifai.com)   - 用于自定义面部识别和检测的图像API.  能够训练AI模型.  免费计划每月有5000个电话.
 
 
@@ -134,7 +134,7 @@
   * [doodle.com](https://doodle.com/)   - 您实际使用的计划工具.  查找会议日期快两倍
   * [zoom.us](https://zoom.us/)   - 安全的视频和Web会议，可用的附加组件.  免费限时40分钟
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
-  * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
+  * [wistia.com](https://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [flock.com](https://flock.com)   - 团队沟通的更快捷方式.  免费无限消息，频道，用户，应用和集成
   * [Igloo](https://www.igloosoftware.com/) - 用于共享文档，博客和日历等的内部门户.最多可供10位用户免费使用.
   * [riot.im](https://about.riot.im/)   - 基于Matrix构建的分散式通信工具.  群聊，直接消息传递，加密文件传输，语音和视频聊天，以及与其他服务的轻松集成.
@@ -171,7 +171,7 @@
 
   * [codota.com](https://www.codota.com/)   -  Codota通过提供从世界上所有代码中学到的见解，帮助开发人员更快地创建更好的软件.  插件可用.
   * [libraries.io](https://libraries.io/) - 针对32个不同包管理器的搜索和依赖关系更新通知，免费提供开源
-  * [sourcegraph.com](https://about.sourcegraph.com/) — Java, Go, Python, Node.js, etc., code search/cross-references, free for Open Source
+  * [sourcegraph.com](https://about.sourcegraph.com/) -  Java，Go，Python，Node.js等，代码搜索/交叉引用，开源免费
   * [searchcode.com](https://searchcode.com/) - 全面的基于文本的代码搜索，免费开源
 
 ## CI / CD
@@ -242,10 +242,10 @@
 
   * [bugfender.com](https://bugfender.com/) - 每天免费提供100k对数线，24小时保留
   * [humio.com](https://www.humio.com/) - 最多2 GB /天，保留7天
-  * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
+  * [logentries.com](https://logentries.com/) - 最多5 GB /月，保留7天
   * [loggly.com](https://www.loggly.com/) - 对于单个用户免费，请参阅lite选项
   * [logz.io](https://logz.io/) - 免费最多1 GB /天，保留3天
-  * [papertrailapp.com](https://papertrailapp.com/) -  48小时搜索，7天存档，100 MB /月
+  * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [rollbar.com](https://rollbar.com) - 每月免费最多5000个活动，保留30天
   * [sematext.com](https://sematext.com/logsene) - 免费最多500 MB /天，保留7天
   * [sumologic.com](https://www.sumologic.com/) - 免费最多500 MB /天，保留7天
@@ -283,7 +283,7 @@
   * [loader.io](https://loader.io/) - 具有限制的免费负载测试工具
   * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) - 性能监控API，检查Ping，DNS等
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
-  * [apimetrics.io](https://apimetrics.io/) — Automated API Performance Monitoring, Testing and Analytics. Free Plan, manually make API calls and Run from their West Coast servers
+  * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
   * [healthchecks.io](https://healthchecks.io)   - 监控您的cron作业和后台任务.  最多可免费检查20次.
   * [appbeat.io](https://appbeat.io)   - 网站监控，3台免费监控.  他们提供非常可靠和实惠的监控服务.
@@ -296,7 +296,7 @@
 
   * [rollbar.com](https://rollbar.com/) - 例外和错误监控，每月5,000个错误的免费计划，无限用户，30天保留期
   * [bugsnag.com](https://www.bugsnag.com/) - 初次试用后每月最多可免费提供2,000个错误
-  * [sentry.io](https://sentry.io/)   -  Sentry实时跟踪应用程序异常，有一个小的免费计划.  如果是自我托管，可以免费，不受限制地使用
+  * [sentry.io](https://sentry.io/) — Sentry tracks app exceptions in real-time, has a small free plan. Free, unrestricted use if self-hosted
 
 ## Search
 
@@ -312,7 +312,7 @@
   * [cloudmersive.com](https://www.cloudmersive.com/email-verification-api) - 面向开发人员的电子邮件验证和验证API，每月10,000个免费API请求
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
-  * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
+  * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
@@ -333,7 +333,7 @@
   * [sendpulse.com](https://sendpulse.com) - 每月免费发送50封电子邮件，每月免费发送12,000封电子邮件
   * [pepipost.com](https://pepipost.com) - 第一个月免费发送30k封电子邮件，然后免费发送前100封电子邮件
   * [elasticemail.com](https://elasticemail.com)   - 每天100封免费电子邮件.  通过API以0.09美元的价格发送1,000封电子邮件（按需付费）.
-  * [mail-tester.com](https://www.mail-tester.com) - 测试电子邮件的dns / spf / dkim / dmarc设置是否正确，每月20次免费
+  * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [migadu.com](https://www.migadu.com/) - 电子邮件托管（Webmail，SMTP，IMAP，...） - 免费计划限制为10个外发邮件/天
   * [socketlabs.com](https://www.socketlabs.com) - 第一个月免费发送40k封电子邮件，然后每月免费发送2000封电子邮件
   * [postmarkapp.com](https://postmarkapp.com/) -  100封电子邮件/月免费，无限制的DMARC每周摘要
@@ -444,11 +444,11 @@
   * [Cloudflare](https://www.cloudflare.com/)   - 免费DNS.  无限数量的域名.
   * [biz.mail.ru](https://biz.mail.ru) - 最多5,000名用户的免费电子邮件和DNS托管服务
   * [pointhq.com](https://pointhq.com/developer) -  Heroku上的免费DNS托管.
-  * [dnspod.com](https://www.dnspod.com/) — Free DNS hosting.
+  * [dnspod.com](https://www.dnspod.com/) - 免费DNS托管.
   * [entrydns.net](https://entrydns.net/) - 具有动态DNS支持的免费DNS托管服务.
-  * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) — Free DNS hosting.
+  * [web.gratisdns.dk](https://web.gratisdns.dk/domaener/dns/) - 免费DNS托管.
   * [zoneedit.com](https://www.zoneedit.com/free-dns/) - 具有动态DNS支持的免费DNS托管.
-  * [zilore.com](https://zilore.com/ru/dns) — Free DNS hosting.
+  * [zilore.com](https://zilore.com/ru/dns) - 免费DNS托管.
 
 ## IaaS
 
@@ -462,9 +462,9 @@
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
-   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
+   * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) — free tier gives 512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
-   * [skyvia.com](https://skyvia.com/) - 云数据平台，提供免费套餐，所有计划在测试期间完全免费
+   * [skyvia.com](https://skyvia.com/) — Cloud Data Platform, offers free tier and all plans are completely free while in beta
    * [airtable.com](https://airtable.com/) - 看起来像电子表格，但它是一个关系数据库，无限基数，1,200行/基数和1,000个API请求/月
    * [FaunaDB](https://fauna.com/) - 无服务器云数据库，具有原生GraphQL，多模型访问和每日免费层高达5GB
 
@@ -490,14 +490,14 @@
    * [kanbanflow.com](https://kanbanflow.com/)   - 基于董事会的项目管理.  免费，高级版本，有更多选项
    * [zenhub.io](https://www.zenhub.io/)   -  GitHub中唯一的项目管理解决方案.  免费为公共回购，OSS和非营利组织
    * [trello.com](https://trello.com/)   - 基于董事会的项目管理.  自由
-   * [clickup.com](https://clickup.com/) — Project management. Free, premium version with cloud storage. Mobile applications and Git integrations available
+   * [clickup.com](https://clickup.com/)  - 项目管理.  带云存储的免费高级版本.  提供移动应用程序和Git集成
    * [LeanBoard](https://www.leanboard.io) - 用于GitHub问题的粘滞便笺的协作白板（用于示例映射和其他技术）
    * [huboard.com](https://huboard.com/) - 针对您的GitHub问题的即时项目管理，免费开源
    * [taiga.io](https://taiga.io/) - 面向初创公司和敏捷开发人员的项目管理平台，免费开源
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy) - 为FOSS项目免费托管YouTrack（InCloud），私人项目（10位用户免费）
    * [github.com](https://github.com/) - 除了Git存储设施外，GitHub还提供基本的问题跟踪
    * [asana.com](https://asana.com/) - 与合作者免费进行私人项目
-   * [acunote.com](https://www.acunote.com/) — Free project management and SCRUM software for up to 5 team members
+   * [acunote.com](https://www.acunote.com/) - 最多5名团队成员的免费项目管理和SCRUM软件
    * [gliffy.com](https://www.gliffy.com/)   - 在线图表：流程图，UML，线框，...还有Jira和Confluence的插件.  5个图表和2 MB免费
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
@@ -512,7 +512,7 @@
    * [jetbrains.com](https://www.jetbrains.com/youtrack/buy/#edition=incloud)   - 基于时间跟踪，敏捷板上的附件以及许多其他改进进行搜索.  10个用户5 GB免费
    * [plan.io](https://plan.io/)   - 使用Repository Hosting和mor选项进行项目管理.  10位客户和500MB存储空间可供2位用户免费使用
    * [taskade.com](https://www.taskade.com/) - 团队的实时协作任务列表和大纲
-   * [zenkit.com](https://zenkit.com)   - 项目管理和协作工具.  最多可免费使用5个成员，5 GB附件.
+   * [zenkit.com](https://zenkit.com) — Project management and collaboration tool. Free for up to 5 members, 5 GB attachments.
    * [Instabug](https://instabug.com)   - 针对移动应用的全面错误报告和应用内反馈SDK.  免费计划最多1个应用程序和1个成员.
    * [Office 365 Developer](https://developer.microsoft.com/en-us/office/dev-program) - 免费为期一年的Office 365 E3订阅开发/测试.
    * [senseitool.com](https://www.senseitool.com/) - 敏捷的回顾工具 - 免费.
@@ -584,7 +584,7 @@
    * [ide.goorm.io](https://ide.goorm.io)  goormIDE是云上的完整IDE.  多语言支持，基于Linux的容器通过功能齐全的基于Web的终端，端口转发，自定义URL，实时协作和聊天，共享链接，Git / Subversion支持.  还有更多功能（免费套餐包括1GB RAM和每个容器10GB存储，5个容器插槽）
    * [cocalc.com](https://cocalc.com/)   - （以前在cloud.sagemath.com上的SageMathCloud） - 云中的协作计算.  浏览器访问完整的Ubuntu，内置协作和大量免费软件，用于数学，科学，数据科学，预装：Python，LaTeX，Jupyter笔记本，SageMath，scikitlearn等
    * [wakatime.com](https://wakatime.com/) - 使用文本编辑器插件，免费的有限计划量化您的编码活动的自我指标
-   * [apiary.io](https://apiary.io/) - 具有即时API模拟和生成文档的协作设计API（免费提供无限API蓝图和无限用户，一个管理员帐户和托管文档）
+   * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/)   -  Mockable是一个简单的可配置服务，用于模拟RESTful API或SOAP Web服务.  此在线服务允许您快速定义REST API或SOAP端点，并让它们返回JSON或XML数据
    * [fakejson.com](https://fakejson.com/)   -  FakeJSON可帮助您使用其API快速生成虚假数据.  发出API请求，描述您想要的内容以及您希望的内容.  API以JSON格式返回所有内容.  加快进入市场的创意流程并假冒它直到你成功.
    * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)  一些REST API端点以JSON格式返回一些虚假数据.  如果您想在本地运行服务器，也可以使用源代码.
@@ -610,7 +610,7 @@
    * [keen.io](https://keen.io/)   - 用于数据收集，分析和可视化的自定义分析.  每月50,000活动免费
    * [metrica.yandex.com](https://metrica.yandex.com/) - 无限制的免费分析
    * [hotjar.com](https://www.hotjar.com/) - 每个站点：每天2,000页的视图，3个热图，3个月的数据存储，...
-   * [imprace.com](https://imprace.com/) — Landing page analysis with suggestions to improve bounce rates. Free 5 landing pages/domain
+   * [imprace.com](https://imprace.com/)   - 着陆页分析以及提高跳出率的建议.  免费5个登陆页面/域名
    * [optimizely.com](https://www.optimizely.com) -  A / B测试解决方案，免费入门计划，1个网站，1个iOS和1个Android应用程序
    * [expensify.com](https://www.expensify.com/) - 费用报告，免费个人报告批准工作流程
    * [Moesif](https://www.moesif.com)   -  REST和GraphQL的API分析.  （最多可免费拨打500,000次API调用）
@@ -649,7 +649,7 @@
   * [vagrantbox.es](https://www.vagrantbox.es/) - 另一种公共框索引
 
 ## Miscellaneous
-  * [docsapp.io](https://www.docsapp.io/) — Easiest way to publish documentation, free for Open Source
+  * [docsapp.io](https://www.docsapp.io/) - 为开源免费发布文档的最简单方法
   * [fullcontact.com](https://www.fullcontact.com/developer/pricing/)   - 通过在您的应用中添加社交个人资料，帮助您的用户了解他们的联系人.  500个免费人员API匹配/月
   * [formlets.com](https://formlets.com/) - 在线表格，每月无限制单页表格，每月100份提交，电子邮件通知
   * [superfeedr.com](https://superfeedr.com/)   - 实时PubSubHubbub兼容的提要，导出，分析.  免费，少量定制

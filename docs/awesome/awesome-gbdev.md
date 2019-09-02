@@ -154,7 +154,7 @@
 - [Game Boy Cartridges Schematics](http://www.devrs.com/gb/files/gb.html) -  MBC2和MBC3类型的原理图.
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) -  Jeff Frohwein的第一张原理图.
-- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) and explanation on how these MBC bank switch and control RAM.
+- [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) 并解释这些MBC库如何切换和控制RAM.
 - [GB Rom List](CartridgeList.csv) - 每个游戏的可导航表格，其中包含有关其墨盒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
@@ -293,7 +293,6 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 #### Timings
 
-- [Game Boy DMA transfer routines](http://exez.in/gameboy-dma) - 了解和使用DMA例程.
 - [Nitty Gritty Gameboy Cycle Timing](http://blog.kevtris.org/blogfiles/Nitty%20Gritty%20Gameboy%20VRAM%20Timing.txt)
 - [Mode3 Sprite Timing](https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
 - [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
@@ -445,7 +444,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [mGB](https://github.com/trash80/mGB) -  Game Boy墨盒程序，使Game Boy可以充当MIDI支持的完整声音模块.
 - [GBVisualizer](https://github.com/LIJI32/GBVisualizer) - 演示使用两个未记载的Game Boy Color寄存器，昵称为PCM12（FF76）和PCM34（FF77），可用于读取4个APU通道的当前PCM幅度.
 - [ArduinoGameBoy](https://github.com/drhelius/arduinogameboy) - 基于Arduino的Game Boy墨盒读写器.
-- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) -  Brainf * ck翻译.
+- [gameboy-brainfuck](https://github.com/bitnenfer/gameboy-brainfuck) - Brainf*ck interpreter.
 - [gbfk](https://github.com/elseyf/gbfk) -  Brainf * ck解释器，带输入.
 - [gb-save-states](https://github.com/mattcurrie/gb-save-states) - 在原始硬件上播放时，为Game Boy游戏添加保存状态支持的补丁.
 - [gbcpu](https://github.com/jdeblese/gbcpu) - 实现Game Boy指令集和功能的CPU和外围设备.

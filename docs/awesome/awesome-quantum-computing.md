@@ -47,7 +47,7 @@
 
 ## Development Tools
 
-- [Cirq](https://github.com/quantumlib/Cirq) - 用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
+- [Cirq](https://github.com/quantumlib/Cirq) - Python library for writing, manipulating, and optimizing NISQ circuits to run on quantum computers.
 - [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - 在线量子作曲家在真实量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -  D-Wave用于使用Python在量子计算机上进行开发的SDK.
@@ -57,6 +57,7 @@
 - [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) -  IBM的软件开发工具包，用于处理OpenQASM和IBM Q Experience.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) -  IBM制作的JavaScript的Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) - 高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
+- [Quantum++](https://https://github.com/vsoftco/qpp) - 高性能的现代C ++ 11量子计算库.
 - [Quantum Programming Studio](https://quantum-circuit.com/) - 基于Web的量子编程IDE和模拟器.
 - [Quipper](https://www.mathstat.dal.ca/~selinger/quipper/) - 用于量子计算的嵌入式，可扩展的函数式编程语言.
 - [Qurry](https://github.com/LSaldyt/Qurry) - 基于功能和概率范式的量子概率编程语言.
@@ -85,7 +86,7 @@
 
 ## Papers
 
-- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers.
+- [Opportunities and Challenges for Quantum Machine Learning](https://arxiv.org/abs/1708.09757) - 近期量子计算机中量子辅助机器学习的机遇和挑战.
 - [Quantum Machine Learning](https://www.researchgate.net/publication/264825604_Quantum_Machine_Learning_What_Quantum_Computing_Means_to_Data_Mining) - 量子机器学习和量子计算对数据挖掘意味着什么.
 
 ## Videos
