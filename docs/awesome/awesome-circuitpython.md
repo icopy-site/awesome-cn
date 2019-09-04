@@ -75,6 +75,7 @@
 - [Itaca Innovation](https://www.kickstarter.com/projects/1186620431/uchip-arduino-zero-compatible-in-a-narrow-dip-16-p) -  uChip
 - [Capable Robot Components](http://capablerobot.com/) - [Programmable USB Hub](https://www.crowdsupply.com/capable-robot-components/programmable-usb-hub), [SenseTemp](https://www.crowdsupply.com/capable-robot-components/sensetemp).
 - [Amitabh Shrivastava](https://tinkrmind.me/) - [Hearrings](https://tinkrmind.me/portfolio/hearrings/).
+  - 教授  Fartsparkle  -  [Numberwang badge](https://hackaday.com/2019/09/02/the-numberwang-badge-brought-cheer-to-cccamp-2019/)
 
 将新电路板添加到CircuitPython列表中 [circuitpython.org](https://circuitpython.org)：请在GitHub上做拉取请求 [https://github.com/adafruit/circuitpython](https://github.com/adafruit/circuitpython) .  CircuitPython开发人员可以帮助获取正确的引脚数据和其他信息以映射新电路板.
 

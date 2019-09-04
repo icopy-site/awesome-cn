@@ -37,7 +37,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * ['Hello World' sample](https://github.com/dodyg/practical-aspnetcore/tree/master/projects/blazor) - &#39;Hello World&#39;样本.
 * [Introduction to ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/) -  ASP.NET核心简介.
 * [Study Blazor](https://studyblazor.com) -  Blazor初学者教程，简单易行，从基础到高级概念，包含更多代码片段.
-* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) -  Blazor工作室.
+* [Workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) 构建一个完整的Blazor应用程序，并了解各种Blazor框架功能.
 
 ## Sample Projects
 ### CMS
@@ -125,7 +125,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - 使用Blazor编写的在线工具，用于在Google云端硬盘中加密/解密文件.
 
 ## Tutorials
-* [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) -  Blazor app建设研讨会 [.NET Foundation](https://www.dotnetfoundation.org/)，Blazzing Pizza.
+* [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor应用程序建设研讨会 [.NET Foundation](https://www.dotnetfoundation.org/)，Blazzing Pizza.
 * [ASP.NET Core and Blazor Code Venture: Configuring Azure AD Authentication](https://www.codeproject.com/Articles/5164004/ASP-NET-Core-and-Blazor-Code-Venture-Configuring-A) -  2019年8月5日 -  ASP.NET Core和Blazor Code Venture：在Coe Project上配置Azure AD身份验证.
 * [Realtime Blazor Tic-Tac-Toe Game - Bot Vs Multiplayer Using SignalR](https://www.c-sharpcorner.com/article/realtime-blazor-tic-tac-toe-game-bot-vs-multiplayer-using-signalr/) -  2019年7月17日 - 如何使用SignalR在Blazor中创建一个实时机器人与多人游戏的tic-tac-toe游戏.
 * [TSP with GeneticSharp and Blazor](http://diegogiacomelli.com.br/tsp-with-geneticsharp-and-blazor/) -  2019年7月10日 - 使用Blazor客户端应用程序和 [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ![GitHub stars](https://img.shields.io/github/stars/giacomelli/GeneticSharp?style=flat-square&cacheSeconds=604800) 解决TSP（旅行商问题）.
@@ -294,6 +294,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#videos)
 
 ## Articles
+* [Containerising Blazor Applications With Docker (Part 3)](https://chrissainty.com/containerising-blazor-applications-with-docker-publishing-to-azure-container-registry-using-azure-pipelines/) -  2019年9月3日 - 使用Docker封装Blazor应用程序（第3部分）. [Source code](https://github.com/chrissainty/BlazorServerWithDocker).
 * [Unit testing Blazor components - a prototype](http://blog.stevensanderson.com/2019/08/29/blazor-unit-testing-prototype/) -  2019年8月29日 - 一种可能的方法，用于测试Blazor组件，其速度与单元测试一样快，并且与浏览器自动化一样高，由Steve Sanderson测试.
 * [Using JSON for polymorphic types in C#](https://www.oxfordcc.co.uk/news/using-json-for-polymorphic-types-in-csharp/) - August 28, 2019 - Using Blazor, code written for the front-end has access to all the language features of C#. In particular, it may be useful to have a type hierarchy and make use of polymorphism.
 * [Blazor Components - Free Anchor Navigation Tool, by DevExpress](https://community.devexpress.com/blogs/aspnet/archive/2019/08/28/blazor-components-free-anchor-navigation-tool.aspx) - August 28, 2019 - As you may know, Blazor does not currently support navigation via anchors. In addition, Blazor does not support hyperlinks that only include anchor IDs within the href attribute (<a href=”#MyAnchor1”>some text</a>). To help address these limitations, we created a free navigation tool for both client-side and server-side Blazor projects.

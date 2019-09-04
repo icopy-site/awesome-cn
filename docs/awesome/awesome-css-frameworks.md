@@ -88,7 +88,7 @@
   [Repo](https://github.com/yegor256/tacit/)
   | #SCSS
   
-- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - 用于语义HTML标记的CSS库，没有类，属性等.  
+- [**awsm.css**](https://igoradamenko.github.io/awsm.css) - CSS library for semantic HTML markup without classes, attributes, etc.  
   ![](https://img.shields.io/github/stars/igoradamenko/awsm.css.svg?style=social&label=Star)
   [Demo](https://igoradamenko.github.io/awsm.css/),
   [Repo](https://github.com/igoradamenko/awsm.css)
@@ -188,6 +188,12 @@
   [Demo](https://turretcss.com/demo/),
   [Docs](https://turretcss.com/getting-started/),
   [Repo](https://github.com/turretcss/turretcss)
+  | #CSS
+
+- [**Cirrus**](https://spiderpig86.github.io/Cirrus/) - 响应性和全面的CSS框架，具有漂亮的控件和简单的结构.  
+  ![](https://img.shields.io/github/stars/spiderpig86/Cirrus.svg?style=social&label=Star)
+  [Docs](https://spiderpig86.github.io/Cirrus/docs/),
+  [Repo](https://github.com/Spiderpig86/Cirrus)
   | #CSS
 
 - [**HiQ**](https://jonathanharrell.github.io/hiq/) - 简单的CSS基础，具有响应式排版和输入样式.  
@@ -337,7 +343,7 @@
   [Repo](https://github.com/imperavi/kube)
   | #SCSS
 
-- [**Concise CSS**](http://concisecss.com) - Give up the bloat. Stop tripping over your classes. Be concise.  
+- [**Concise CSS**](http://concisecss.com)   - 放弃膨胀.  停止绊倒你的课程.  简明扼要.  
   ![](https://img.shields.io/github/stars/ConciseCSS/concise.css.svg?style=social&label=Star)
   [Docs](http://concisecss.com/documentation/),
   [Repo](https://github.com/ConciseCSS/concise.css)

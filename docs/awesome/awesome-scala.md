@@ -172,7 +172,7 @@
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -  Json的scala diff / patch库
 * [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 252 ⧗ 4](https://github.com/non/jawn) - 快速json解析器（据他们说，与java gson / jackson速度竞争）.
-* **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)**  -  Project旨在提供其他scala json库使用的单个AST.
+* **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
 * [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) - 用于编译时生成超快JSON编解码器的Scala宏.
 * [persist-json ★ 9 ⧗ 49](https://github.com/nestorpersist/json) - 快速的json解析器.
 * [play-json ★ 39 ⧗ 7](https://github.com/playframework/play-json) - 灵活而强大的JSON操作，验证和序列化，在运行时没有反射.
@@ -597,6 +597,7 @@
 ## Tools
 
 * [Codacy](https://www.codacy.com/) -  Scala的自动代码审查
+* [dregrex](https://github.com/marianobarrios/dregex)   - 使用确定性有限自动机的正则表达式引擎.  它支持一些Perl风格的功能，但保留了线性匹配时间.
 * [Fastring ★ 97 ⧗ 2](https://github.com/Atry/fastring) - 极快的字符串格式
 * [fast-string-interpolator ★ 24 ⧗ 0](https://github.com/Sizmek/fast-string-interpolator) - 生成超快字符串插值器的Scala宏
 * **[Gitbucket ★ 6296 ⧗ 0](https://github.com/gitbucket/gitbucket)**  - 由Scala提供支持的易于安装的GitHub克隆

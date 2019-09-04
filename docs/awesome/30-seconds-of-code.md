@@ -178,7 +178,7 @@ const ary =（fn，n）=&gt;（... args）=&gt; fn（... args.slice（0，n）�
 
 ```js
 const firstTwoMax = ary（Math.max，2）;
- [[2,6，&#39;a&#39;]，[8,4,6]，[10]].map（x =&gt; firstTwoMax（... x））;  // [6,8,10]
+ [[2,6，&#39;a&#39;]，[6,4,8]，[10]].map（x =&gt; firstTwoMax（... x））;  // [6,6,10]
 ```
 </details>
 
@@ -415,7 +415,7 @@ const spreadOver = fn =&gt; argsArr =&gt; fn（... argsArr）;
 <summary>Examples</summary>
 
 ```js
-const arrayMax = spreadOver(Math.max);
+const arrayMax = spreadOver（Math.max）;
  arrayMax（[1,2,3]）;  // 3
 ```
 </details>
@@ -868,7 +868,7 @@ const filterFalsy = arr =&gt; arr.filter（Boolean）;
 <summary>Examples</summary>
 
 ```js
-filterFalsy(['', true, {}, false, 'sample', 1, 0]); // [true, {}, 'sample', 1]
+ filterFalsy（[&#39;&#39;，true，{}，false，&#39;sample&#39;，1,0]）;  // [true，{}，&#39;sample&#39;，1]
 ```
 </details>
 
@@ -993,7 +993,7 @@ const flatten =（arr，depth = 1）=&gt;
 
 ### forEachRight
 
-从数组的最后一个元素开始，为每个数组元素执行一次提供的函数.
+Executes a provided function once for each array element, starting from the array's last element.
 
 使用`Array.prototype.slice（0）`来克隆给定的数组，使用`Array.prototype.reverse（）`来反转它，使用`Array.prototype.forEach（）`迭代反转的数组.
 
@@ -1322,8 +1322,8 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
       我=== arr.length  -  2
          ？  acc + val + end
         ：i === arr.length  -  1
-           ？  acc + val
-          : acc + val + separator,
+         ？  acc + val
+        ：acc + val + separator，
     ''
   );
 ```
@@ -1409,7 +1409,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]）;  //&#39;abc&#39;
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]，&#39;abcd&#39;）;  // &#39;A B C D&#39;
  longestItem（[1,2,3]，[1,2]，[1,2,3,4,5]）;  // [1,2,3,4,5]
- longestItem（[1,2,3]，&#39;foobar&#39;）;  //&#39;foobar&#39;
+longestItem([1, 2, 3], 'foobar'); // 'foobar'
 ```
 </details>
 
@@ -1462,7 +1462,7 @@ const maxN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; b  -  a）
 ### minN
 
 从提供的数组中返回`n`最小元素.
-If `n` is greater than or equal to the provided array's length, then return the original array (sorted in ascending order).
+如果`n`大于或等于提供的数组长度，则返回原始数组（按升序排序）.
 
 使用`Array.prototype.sort（）`结合扩展运算符（`...`）来创建数组的浅层克隆并按升序对其进行排序.
 使用`Array.prototype.slice（）`来获取指定数量的元素.
@@ -1929,7 +1929,7 @@ const names = [&#39;alpha&#39;，&#39;bravo&#39;，&#39;charlie&#39;];
 
 ### shuffle
 
-Randomizes the order of the values of an array, returning a new array.
+随机化数组值的顺序，返回一个新数组.
 
 使用 [Fisher-Yates algorithm](https://github.com/30-seconds/30-seconds-of-code#shuffle) 重新排序数组的元素.
 
@@ -2812,7 +2812,7 @@ const el = createElement（
 
 
 
-Creates a pub/sub ([publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
+创建一个pub / sub（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件集线器有`emit`，`on`和`off`方法.
 
 使用`Object.create（null）`创建一个空的`hub`对象，该对象不从`Object.prototype`继承属性.
 对于`emit`，基于`event`参数解析处理程序数组，然后通过传入数据作为参数，使用`Array.prototype.forEach（）`运行每个处理程序.
@@ -2958,7 +2958,7 @@ const elementIsVisibleInViewport =（el，partiallyVisible = false）=&gt; {
 将一组表单元素编码为“对象”.
 
 使用`FormData`构造函数将HTML`form`转换为`FormData`，`Array.from（）`转换为数组.
-使用`Array.prototype.reduce（）`从数组中收集对象.
+Collect the object from the array, using `Array.prototype.reduce()`.
 
 ```js
 const formToObject = form =&gt;
@@ -2989,7 +2989,7 @@ formToObject(document.querySelector('#form')); // { email: 'test@email.com', nam
 ```js
 const getImages =（el，includeDuplicates = false）=&gt; {
   const images = [... el.getElementsByTagName（&#39;img&#39;）].map（img =&gt; img.getAttribute（&#39;src&#39;））;
-   return includeDuplicates？  图像：[...新集（图像）];
+  return includeDuplicates ? images : [...new Set(images)];
 };
 ```
 
@@ -3216,7 +3216,7 @@ const nodeListToArray = nodeList =&gt; [... nodeList];
 const observeMutations =（element，callback，options）=&gt; {
   const observer = new MutationObserver（mutation =&gt; mutation.forEach（m =&gt; callback（m）））;
   observer.observe（
-    元件，
+    element,
     Object.assign（
       {
         childList：true，
@@ -3566,7 +3566,7 @@ const show =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#3
 ```js
 const smoothScroll = element =&gt;
   document.querySelector（元件）.scrollIntoView（{
-    行为：&#39;顺畅&#39;
+    behavior: 'smooth'
   });
 ```
 
@@ -3756,10 +3756,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
-       ？  12 +&#39;pm&#39;
-      ：num &lt;12
-         ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+     ？  12 +&#39;pm&#39;
+    ：num &lt;12
+     ？  （num％12）+&#39;am&#39;
+    ：（无论12％）PM“;
 ```
 
 <details>
@@ -4356,7 +4356,7 @@ const hz =（fn，iterations = 100）=&gt; {
 // 10,000元素数组
 const numbers =数组（10000）
   .填（）
-  .map（（_，i）=&gt; i）;
+  .map((_, i) => i);
 
 //具有相同目标的测试函数：总结数组中的元素
 const sumReduce =（）=&gt; numbers.reduce（（acc，n）=&gt; acc + n，0）;
@@ -4532,7 +4532,7 @@ const sleep = ms =&gt; new Promise（resolve =&gt; setTimeout（resolve，ms）�
 async function sleepyWork（）{
   console.log（“我要睡1秒钟.”）;
   等待睡眠（1000）;
-  console.log（&#39;我在1秒后醒来.&#39;）;
+  console.log('I woke up after 1 second.');
 }
 ```
 </details>
@@ -4594,7 +4594,7 @@ window.addEventListener(
 ```js
 const times =（n，fn，context = undefined）=&gt; {
   让我= 0;
-  while (fn.call(context, i) !== false && ++i < n) {}
+  while（fn.call（context，i）！== false &amp;&amp; ++ i &lt;n）{}
 };
 ```
 
@@ -4923,11 +4923,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
-      ? 1
-      ：n *阶乘（n  -  1）;
+    ? 1
+    ：n *阶乘（n  -  1）;
 ```
 
 <details>
@@ -4991,7 +4991,7 @@ const gcd =（... arr）=&gt; {
 ### geometricProgression
 
 初始化一个数组，其中包含指定范围内的数字，其中`start`和`end`是包含的，两个术语之间的比率是`step`.
-如果`step`等于`1`，则返回错误.
+Returns an error if `step` equals `1`.
 
 使用`Array.from（）`，`Math.log（）`和`Math.floor（）`来创建一个所需长度的数组，`Array.prototype.map（）`来填充所需的值.范围.
 省略第二个参数`start`，使用默认值`1`.
@@ -5056,7 +5056,7 @@ const inRange =（n，start，end = null）=&gt; {
  inRange（3,2,5）;  //真
  inRange（3,4）;  //真
  inRange（2,3,5）;  //假
-inRange(3, 2); // false
+ inRange（3,2）;  //假
 ```
 </details>
 
@@ -5149,7 +5149,7 @@ const isPrime = num =&gt; {
 返回两个或多个数字的最小公倍数.
 
 使用最大公约数（GCD）公式和`lcm（x，y）= x * y / gcd（x，y）`来确定最小公倍数.
-GCD公式使用递归.
+The GCD formula uses recursion.
 
 ```js
 LCM =常数（... ARR）=&gt; {
@@ -5293,7 +5293,7 @@ const midpoint =（[x1，y1]，[x2，y2]）=&gt; [（x1 + x2）/ 2，（y1 + y2�
 使用`Array.prototype.map（）`将每个元素映射到`fn`，`Math.min（）`返回的值，以获得最小值.
 
 ```js
-const minBy = (arr, fn) => Math.min(...arr.map(typeof fn === 'function' ? fn : val => val[fn]));
+const minBy =（arr，fn）=&gt; Math.min（... arr.map（typeof fn ===&#39;function&#39;？fn：val =&gt; val [fn]））;
 ```
 
 <details>
@@ -5503,7 +5503,7 @@ const sdbm = str =&gt; {
 
 ```js
 const standardDeviation =（arr，usePopulation = false）=&gt; {
-  const mean = arr.reduce（（acc，val）=&gt; acc + val，0）/ arr.length;
+  const mean = arr.reduce((acc, val) => acc + val, 0) / arr.length;
   返回Math.sqrt（
     arr.reduce（（acc，val）=&gt; acc.concat（（val  -  mean）** 2），[]）.reduce（（acc，val）=&gt; acc + val，0）/
       （arr.length  - （usePopulation？0：1））
@@ -5743,7 +5743,7 @@ const createDirIfNotExists = dir =&gt;（！fs.existsSync（dir）？fs.mkdirSyn
 检查当前进程的参数是否包含指定的标志.
 
 使用`Array.prototype.every（）`和`Array.prototype.includes（）`来检查`process.argv`是否包含所有指定的标志.
-Use a regular expression to test if the specified flags are prefixed with `-` or `--` and prefix them accordingly.
+使用正则表达式来测试指定的标志是否以`-`或`--`作为前缀，并相应地加上前缀.
 
 ```js
 const hasFlags =（... flags）=&gt;
@@ -6066,8 +6066,8 @@ const deepClone = obj =&gt; {
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-       ？  Array.from（OBJ）
-      ：克隆;
+     ？  Array.from（OBJ）
+    ：克隆;
 };
 ```
 
@@ -6151,13 +6151,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
         返回acc;
       }, {})
-      ：obj;
+    ：obj;
 ```
 
 <details>
@@ -6226,9 +6226,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if（acc！== undefined）return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if（acc！== undefined）return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>
@@ -6444,7 +6444,7 @@ Foo.prototype.c =（）=&gt; 3;
 
 ```js
 const get =（from，... selectors）=&gt;
-  [...selectors].map(s =>
+  [...选择器] .map（s =&gt;
     小号
       .replace（/ [[（[^ \ [\]] *）\] / g，&#39;.$ 1.&#39;）
       .分裂（&#39;.&#39;）
@@ -7314,7 +7314,7 @@ const isAnagram =（str1，str2）=&gt; {
 <summary>Examples</summary>
 
 ```js
-isAnagram('iceman', 'cinema'); // true
+ isAnagram（&#39;iceman&#39;，&#39;cinema&#39;）;  //真
 ```
 </details>
 
@@ -7355,7 +7355,7 @@ const isUpperCase = str =&gt; str === str.toUpperCase（）;
 
 ```js
  isUpperCase（ &#39;ABC&#39;）;  //真
-isUpperCase('A3@$'); // true
+ isUpperCase（ &#39;A3 @ $&#39;）;  //真
  isUpperCase（ &#39;AB4&#39;）;  //假
 ```
 </details>
@@ -7434,7 +7434,7 @@ const pad =（str，length，char =&#39;&#39;）=&gt;
 
 ### palindrome
 
-如果给定的字符串是回文，则返回“true”，否则返回“false”.
+Returns `true` if the given string is a palindrome, `false` otherwise.
 
 Convert the string to `String.prototype.toLowerCase()` and use `String.prototype.replace()` to remove non-alphanumeric characters from it.
 然后，使用扩展运算符（`...`）将字符串拆分为单个字符，`Array.prototype.reverse（）`，`String.prototype.join（&#39;&#39;）`并将其与原始字符进行比较，未反转string，将其转换为`String.prototype.toLowerCase（）`.
@@ -7745,7 +7745,7 @@ const truncateString =（str，num）=&gt;
 <summary>Examples</summary>
 
 ```js
- truncateString（&#39;回旋镖&#39;，7）;  //&#39;繁荣......&#39;
+truncateString('boomerang', 7); // 'boom...'
 ```
 </details>
 
@@ -7808,7 +7808,7 @@ const URLJoin =（... args）=&gt;
 
 ### words
 
-将给定的字符串转换为单词数组.
+Converts a given string into an array of words.
 
  使用带有提供模式的`String.prototype.split（）`（默认为非alpha作为regexp）转换为字符串数组.  使用`Array.prototype.filter（）`删除任何空字符串.
 省略第二个参数以使用默认的regexp.
@@ -8377,7 +8377,7 @@ const getURLParameters = url =&gt;
 Use bitwise right-shift operator and mask bits with `&` (and) operator to convert a hexadecimal color code (with or without prefixed with `#`) to a string with the RGB values. If it's 3-digit color code, first convert to 6-digit version. If an alpha value is provided alongside 6-digit hex, give `rgba()` string in return.
 
 ```js
-const hexToRGB = hex => {
+const hexToRGB = hex =&gt; {
   设alpha = false，
     h = hex.slice(hex.startsWith('#') ? 1 : 0);
   if（h.length === 3）h = [... h] .map（x =&gt; x + x）.join（&#39;&#39;）;
@@ -8780,7 +8780,7 @@ const toDecimalMark = num =&gt; num.toLocaleString（&#39;en-US&#39;）;
 
 ```js
 const toOrdinalSuffix = num =&gt; {
-  const int的= parseInt函数（NUM）;
+  const int = parseInt(num),
     digits = [int％10，int％100]，
     ordinals = [&#39;st&#39;，&#39;nd&#39;，&#39;rd&#39;，&#39;th&#39;]，
     oPattern = [1,2,3,4]，

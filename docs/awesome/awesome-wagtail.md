@@ -80,7 +80,7 @@
 ### SEO and SMO
 
 - [wagtail-metadata](https://github.com/takeflight/wagtail-metadata) - 帮助社交媒体和搜索引擎的元数据的工具.
-- [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
+- [wagtail-metadata-mixin](https://github.com/bashu/wagtail-metadata-mixin) -  Wagtail CMS页面的OpenGraph，Twitter Card和Google+代码段标签.
 - [wagtail-schema.org](https://github.com/takeflight/wagtail-schema.org) -  Wagtail网站的Schema.org JSON-LD标签.
 
 ### Analytics
@@ -149,7 +149,7 @@
 - [Wagtail Cookiecutter Foundation](https://github.com/chrisdev/wagtail-cookiecutter-foundation) - 使用Zurb Foundation 6的Wagtail CMS的Cookiecutter模板.
 - [Beginner Wagtail Cookiecutter](https://github.com/heymonkeyriot/beginner-wagtail) -  Wagtail CMS的超级简单实现.
 - [Wagtail Starter Kit](https://github.com/tkjone/starterkit-wagtail) - 一个cookieingter完成wagtail，django布局，vagrant，供应scrips，前端构建系统等等！
-- [Wagtail Boilerplate](https://github.com/Frojd/Wagtail-Boilerplate) - 一个Django / Wagtail cookiecutter，内置支持docker，部署（带有ansible），Reactjs，pytest和S3.
+- [Wagtail Pipit](https://github.com/Frojd/Wagtail-Boilerplate) -  Pipit是一个Wagtail样板文件，旨在通过React呈现的前端提供简单而现代的开发人员工作流程.
 
 ## Resources
 
@@ -201,7 +201,7 @@
 - [How Google uses Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=1937s) 作者：Kevin Chung
 - [Introducing Draft.js in Wagtail – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=2690s) 作者：Thibaud Colas. [Presentation](https://thib.me/introducing-draft-js-in-wagtail).
 - [Let It Go – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=3938s) 作者Matt Wescott.
-- [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) 作者：Lisa Adams.
+- [Developing Solutions for Girls, by Men – Wagtail Space 2018](https://www.youtube.com/watch?v=lh9nmN1mzwQ&t=5184s) by Lisa Adams.
 - [Wagtail’s first hatch – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=265s) 作者：Bertrand Bordage.
 - [The Word Problem – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=2841s) 汤姆戴森
 - [Wagtail on Divio Cloud – Wagtail Space 2018](https://www.youtube.com/watch?v=P8RUQE7Djdg&t=3856s) 作者：Daniele Procida.

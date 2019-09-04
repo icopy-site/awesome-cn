@@ -37,7 +37,7 @@
 * [Adminer](https://www.adminer.org/) - 用PHP编写的全功能数据库管理工具.
 * [OmniDB](https://omnidb.org/en/) - 开源协作环境
 用于数据库管理
-* [DataGrip](https://www.jetbrains.com/datagrip/) - IDE with advanced tool sets and good cross-platform experience (Commercial Software).
+* [DataGrip](https://www.jetbrains.com/datagrip/) - 具有高级工具集和良好的跨平台经验的IDE（商业软件）.
 * [Datazenit](https://datazenit.com/) - 基于Web的PostgreSQL GUI（商业软件）.
 * [DBeaver](https://dbeaver.io/) - 通用数据库管理器，对PostgreSQL提供出色的支持.
 * [dbglass](http://dbglass.web-pal.com) - 使用Electron构建的PostgreSQL跨平台桌面客户端.
@@ -55,7 +55,7 @@
 * [SQL Tabs](http://www.sqltabs.com/) - 用JS编写的PostgreSQL跨平台桌面客户端.
 * [SQLPro for Postgres](http://macpostgresclient.com/) - 用于macOS（商业软件）的简单，强大的PostgreSQL管理器.
 * [temBoard](https://github.com/dalibo/temboard) - 基于Web的PostgreSQL GUI和监控.
-* [TablePlus](https://tableplus.io/)   -  Native App，可让您编辑数据库和结构.  确保高端安全性（商业软件）.
+* [TablePlus](https://tableplus.com/)   -  Native App，可让您编辑数据库和结构.  确保高端安全性（商业软件）.
 * [TeamSQL](https://teamsql.io/) - 跨平台SQL客户端：简单，轻松，可扩展.
 * [Valentina Studio](https://www.valentina-db.com/en/valentina-studio-overview) - 跨平台数据库管理工具（免费/商业）
 * [PostgresCompare](https://www.postgrescompare.com) - 跨平台数据库比较和部署工具（商业软件）.
@@ -68,7 +68,7 @@
 * [pgcli](https://github.com/dbcli/pgcli) -  Postgres CLI具有自动完成和语法突出显示功能
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - 内置的PostgreSQL CLI客户端
 * [psql2csv](https://github.com/fphilipe/psql2csv) - 在psql中运行查询并将结果输出为CSV
-* [nancy](https://gitlab.com/postgres-ai-team/nancy) -  Nancy CLI是一种在云端或内部部署中管理自动数据库实验的统一方法
+* [nancy](https://gitlab.com/postgres-ai/nancy) -  Nancy CLI是一种在云端或内部部署中管理自动数据库实验的统一方法
 
 ### Server
 * [Postgres-XL](https://www.postgres-xl.org/) - 基于PostgreSQL的可扩展开源数据库集群.
@@ -80,7 +80,7 @@
 * [Check\_postgres](https://github.com/bucardo/check_postgres) -  Nagios check \ _postgres插件，用于检查PostgreSQL数据库的状态.
 * [Instrumental](https://github.com/Instrumental/instrumentald) - 实时性能监控，包括 [pre-made graphs](https://instrumentalapp.com/docs/instrumentald/postgresql#suggested-graphs) 易于安装（商业软件）
 * [libzbxpgsql](https://github.com/cavaliercoder/libzbxpgsql) -  Zabbix的综合PostgreSQL监控模块.
-* [Pome](https://github.com/rach/pome)   -  Pome代表PostgreSQL指标.  Pome是一个PostgreSQL指标仪表板，用于跟踪数据库的运行状况.
+* [Pome](https://github.com/rach/pome) - Pome stands for PostgreSQL Metrics. Pome is a PostgreSQL Metrics Dashboard to keep track of the health of your database.
 * [pg\_view](https://github.com/zalando/pg_view) - 开源命令行工具，显示全局系统统计信息，每分区信息，内存统计信息和其他信息.
 * [pgwatch2](https://github.com/cybertec-postgresql/pgwatch2) - 灵活且易于上手的PostgreSQL指标监控重点关注Grafana仪表板.
 * [pgbench](https://www.postgresql.org/docs/devel/static/pgbench.html) - 在PostgreSQL上运行基准测试.
@@ -109,6 +109,8 @@
 
 ### Optimization
 * [PgHero](https://github.com/ankane/pghero) -  PostgreSQL的见解变得简单.
+* [pgMustard](https://www.pgmustard.com/) - 现代用户界面
+对于`EXPLAIN`，它还提供了性能提示（商业软件）.
 * [pgtune](https://github.com/gregs1104/pgtune/) -  PostgreSQL配置向导.
 * [pgtune](https://github.com/le0pard/pgtune) -  PostgreSQL配置向导的在线版本.
 * [pgconfig.org](https://github.com/sebastianwebber/pgconfig) -  PostgreSQL在线配置工具（也基于pgtune）.
@@ -133,14 +135,12 @@
 * [PGInsight](http://pginsight.io/) -  CLI工具，可以轻松深入挖掘PostgreSQL数据库.
 * [pg_insights](https://github.com/lob/pg_insights) - 用于监控Postgres数据库运行状况的便捷SQL.
 * [pgloader](https://github.com/dimitri/pgloader) - 使用COPY流协议将数据加载到PostgreSQL中，并使用单独的线程读取和写入数据.
-* [pgMustard](https://www.pgmustard.com/) - A modern user interface
-对于`EXPLAIN ANALYSE`，它还提供了性能提示（商业软件）.
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - 提供连接池，复制，负载平衡和限制超连接的中间件.
 * [pgsync](https://github.com/ankane/pgsync) - 将PostgreSQL数据同步到本地计算机的工具.
 * [PGXN client](https://github.com/pgxn/pgxnclient) - 与PostgreSQL扩展网络交互的命令行工具
 * [postgresql-metrics](https://github.com/spotify/postgresql-metrics) - 为PostgreSQL数据库提取和提供指标的工具.
 * [PostgREST](https://github.com/PostgREST/postgrest) - 从任何现有的PostgreSQL数据库提供完全RESTful的API.
-* [pREST](https://github.com/prest/prest) - 从任何PostgreSQL数据库（Golang）提供RESTful API
+* [pREST](https://github.com/prest/prest) - Serve a RESTful API from any PostgreSQL database (Golang)
 * [PostGraphile](https://github.com/graphile/postgraphile) -  PostgreSQL数据库的Instant GraphQL API或GraphQL架构
 * [yoke](https://github.com/nanopack/yoke) -  PostgreSQL高可用性集群，具有自动故障转移和自动集群恢复功能.
 * [pglistend](https://github.com/kabirbaidhya/pglistend) - 构建在`node-postgres`之上的轻量级PostgresSQL`LISTEN` /`NOTIFY`守护进程.
@@ -151,8 +151,8 @@
 * [pgmigrate](https://github.com/yandex/pgmigrate) - 由Yandex开发的用于演进模式迁移的CLI工具.
 * [pgcmp](https://github.com/cbbrowne/pgcmp) - 比较数据库模式的工具，具有接受一些持久性差异的能力
 * [graphql-engine](https://github.com/hasura/graphql-engine) - 通过PostgreSQL获取即时实时GraphQL API.
-* [sqlcheck](https://github.com/jarulraj/sqlcheck)   - 自动检测常见的SQL反模式.  这种反模式通常会减慢查询速度.  因此，解决这些问题将有助于加快查询速度.
-* [postgres-checkup](https://gitlab.com/postgres-ai-team/postgres-checkup) - 新一代诊断工具，允许用户收集对Postgres数据库健康状况的深入分析.
+* [sqlcheck](https://github.com/jarulraj/sqlcheck-old)   - 自动检测常见的SQL反模式.  这种反模式通常会减慢查询速度.  因此，解决这些问题将有助于加快查询速度.
+* [postgres-checkup](https://gitlab.com/postgres-ai/postgres-checkup) - 新一代诊断工具，允许用户收集对Postgres数据库健康状况的深入分析.
 
 ### Language bindings
 * Common Lisp： [Postmodern](https://github.com/marijnh/Postmodern)
@@ -162,7 +162,7 @@
 *哈斯克尔： [postgresql-simple](http://hackage.haskell.org/package/postgresql-simple)
 * Java： [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
 * .Net / .Net核心： [Npgsql](https://github.com/npgsql/npgsql)
-*节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi)
+*节点： [node-postgres](https://github.com/brianc/node-postgres), [pg-promise](https://github.com/vitaly-t/pg-promise), [pogi](https://github.com/holdfenytolvaj/pogi), [slonik](https://github.com/gajus/slonik)
 * Perl： [DBD-Pg](https://metacpan.org/pod/distribution/DBD-Pg/Pg.pm)
 * PHP： [Pomm](http://www.pomm-project.org), [pecl/pq](https://github.com/m6w6/ext-pq)
 * Python： [psycopg2](https://pypi.org/project/psycopg2/)
@@ -227,9 +227,10 @@
 * [Citus Data Youtube channel](https://www.youtube.com/channel/UC8jpoK1BqQhDh6HDGFnM_DA/videos) - 其他相关视频
 * [EnterpriseDB Youtube channel](https://www.youtube.com/channel/UCkIPoYyNr1OHgTo0KwE9HJw) -  EnterpriseDB相关视频
 * [PGConf US Youtube channel](https://www.youtube.com/pgconfus/) - 会议视频
+* [Scaling Postgres](https://www.scalingpostgres.com/) -  Creston Jamison的Postgres视频博客系列
 
 ### Community
 * [Mailing lists](https://www.postgresql.org/list/)   -  Postgres的官方邮件列表，用于支持，推广等.  Postgres社区的主要沟通渠道之一. 
 * [Slack](https://postgres-slack.herokuapp.com/) -  Postgres的Slack频道，近5000名用户
-* [#postgresql on Freenode](https://webchat.freenode.net/?channels=postgresql) - 关于Freenode上Postgres的最受欢迎的IRC频道，近1000名用户 
+* [#postgresql on Freenode](https://github.com/dhamaniasad/awesome-postgres/blob/master/ttps://webchat.freenode.net/#postgresql) - 关于Freenode上Postgres的最受欢迎的IRC频道，近1000名用户 
 * [Reddit](https://www.reddit.com/r/PostgreSQL/) - 一个拥有近10000名用户的PostgreSQL用户的reddit社区

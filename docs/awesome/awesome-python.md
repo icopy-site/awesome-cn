@@ -36,7 +36,7 @@
 *用于处理音频及其元数据的库.*
 
 *音频
-    * [audioread](https://github.com/beetbox/audioread) - Cross-library (GStreamer + Core Audio + MAD + FFmpeg) audio decoding.
+    * [audioread](https://github.com/beetbox/audioread) - 跨库（GStreamer + Core Audio + MAD + FFmpeg）音频解码.
     * [dejavu](https://github.com/worldveil/dejavu) - 音频指纹识别和识别.
     * [mingus](http://bspaans.github.io/python-mingus/) - 具有MIDI文件和播放支持的高级音乐理论和乐谱包.
     * [pyAudioAnalysis](https://github.com/tyiannak/pyAudioAnalysis) - 音频特征提取，分类，分割和应用.
@@ -121,6 +121,7 @@
     * [pycallgraph](https://github.com/gak/pycallgraph) - 一个可视化Python应用程序的流程（调用图）的库.
 * Code Linters
     * [flake8](https://pypi.org/project/flake8/) - 围绕`pycodestyle`，`pyflakes`和McCabe的包装.
+        * [awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions)
     * [pylint](https://www.pylint.org/) - 完全可定制的源代码分析器.
     * [pylama](https://github.com/klen/pylama) -  Python和JavaScript的代码审计工具.
 *代码格式化程序
@@ -294,7 +295,7 @@
 * [delorean](https://github.com/myusuf3/delorean/) - 用于清除处理日期时间的不便事实的库.
 * [moment](https://github.com/zachwill/moment)   - 用于处理日期/时间的Python库.  灵感来自 [Moment.js](http://momentjs.com/).
 * [Pendulum](https://github.com/sdispater/pendulum) -  Python日期时间变得简单.
-* [PyTime](https://github.com/shinux/PyTime) - 一个易于使用的Python模块，旨在通过字符串操作日期/时间/日期时间.
+* [PyTime](https://github.com/shinux/PyTime) - 易于使用的Python模块，旨在通过字符串操作日期/时间/日期时间.
 * [pytz](https://launchpad.net/pytz)   - 世界时区定义，现代和历史.  带来了 [tz database](https://en.wikipedia.org/wiki/Tz_database) 进入Python.
 * [when.py](https://github.com/dirn/When.py) - 提供用户友好的功能，以帮助执行常见的日期和时间操作.
 * [maya](https://github.com/kennethreitz/maya) - 人类的日期时间.
@@ -427,7 +428,7 @@
     * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - 包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
 * 视觉工作室
     * [PTVS](https://github.com/Microsoft/PTVS) - 适用于Visual Studio的Python工具.
-* Visual Studio代码
+* Visual Studio Code
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) - 官方VSCode扩展，支持Python.
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/)   -  JetBrains的商业Python IDE.  有免费的社区版.
@@ -527,7 +528,7 @@
 * [Panda3D](https://www.panda3d.org/) - 迪士尼开发的3D游戏引擎.
 * [Pygame](http://www.pygame.org/news.html) -  Pygame是一组专为编写游戏而设计的Python模块.
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) - 用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟和任何3D.
-* [PyOpenGL](http://pyopengl.sourceforge.net/) - 用于OpenGL的Python ctypes绑定及其相关的API.
+* [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
 * [PySDL2](https://pysdl2.readthedocs.io) - 基于ctypes的SDL2库包装器.
 * [RenPy](https://www.renpy.org/) - 一个视觉新颖的引擎.
 
@@ -637,7 +638,7 @@
 
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/) - 轻巧但功能强大的进程内任务调度程序，可让您安排功能.
 * [django-schedule](https://github.com/thauber/django-schedule) -  Django的日历应用程序.
-* [doit](http://pydoit.org/) - 任务运行器和构建工具.
+* [doit](http://pydoit.org/) - A task runner and build tool.
 * [gunnery](https://github.com/gunnery/gunnery) - 具有基于Web的界面的分布式系统的多用途任务执行工具.
 * [Joblib](https://joblib.readthedocs.io/) - 一组用于在Python中提供轻量级流水线的工具.
 * [Plan](https://github.com/fengsp/plan) - 像Python一样在Python中编写crontab文件.
@@ -697,7 +698,7 @@
     * [nltk](http://www.nltk.org/) - 构建Python程序以使用人类语言数据的领先平台.
     * [pattern](https://github.com/clips/pattern) - 用于Python的Web挖掘模块.
     * [polyglot](https://github.com/aboSamoor/polyglot) - 支持数百种语言的自然语言管道.
-    * [pytext](https://github.com/facebookresearch/pytext) - A natural language modeling framework based on PyTorch.
+    * [pytext](https://github.com/facebookresearch/pytext) - 基于PyTorch的自然语言建模框架.
     * [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP) - 一个工具包，可以快速深入学习研究的NLP原型.
     * [spacy](https://spacy.io/) - 用于Python和Cython的工业级自然语言处理库.
     * [stanfordnlp](https://github.com/stanfordnlp/stanfordnlp) - 斯坦福NLP集团的官方Python库，支持50多种语言.
@@ -1027,7 +1028,7 @@
 * [django-wordpress](https://github.com/istrategylabs/django-wordpress) -  Django的WordPress模型和视图.
 * [facebook-sdk](https://github.com/mobolic/facebook-sdk) -  Facebook平台Python SDK.
 * [google-api-python-client](https://github.com/google/google-api-python-client) - 适用于Python的Google API客户端库.
-* [gspread](https://github.com/burnash/gspread) - Google Spreadsheets Python API.
+* [gspread](https://github.com/burnash/gspread) -  Google Spreadsheets Python API.
 * [twython](https://github.com/ryanmcgrath/twython) -  Twitter API的Python包装器.
 
 ## URL Manipulation

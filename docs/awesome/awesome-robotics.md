@@ -12,7 +12,7 @@
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) ** ** Udacity
 * [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) ** Udacity **：美元：
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/course-v1:ETHx+AMRx+1T2015/info) ** **给予edX
-* [Underactuated Robotics](https://courses.edx.org/courses/course-v1:MITx+6.832x_2+3T2015/info) ** **给予edX
+* [Underactuated Robotics](http://underactuated.csail.mit.edu/underactuated.html) **与CSAIL **
 * [Autonomous Mobile Robots](https://courses.edx.org/courses/ETHx/AMRx/1T2014/info) ** **给予edX
 * [Robot Mechanics and Control, Part I](https://www.edx.org/course/robot-mechanics-control-part-i-snux-snu446-345-1x) ** **给予edX
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) ** **给予edX
@@ -29,11 +29,15 @@
 * [Introduction to Mobile Robotics](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) **弗莱堡大学**
 * [Robotics](https://www.edx.org/micromasters/pennx-robotics) ** edx **：美元：
 * [Columbia Robotics](https://www.edx.org/course/robotics-columbiax-csmm-103x-2) ** ** EDX 
+* [Modern Robotics: Mechanics, Planning, and Control](https://www.coursera.org/specializations/modernrobotics?) ** ** Coursera
+* [Hello (Real) World with ROS – Robot Operating System](https://www.edx.org/course/hello-real-world-with-ros-robot-operating-system-2) ** ** EDX
+* [Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/) ** ucberkeley
+
 
 ### Books ###
 * [Probabilistic Robotics (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Probabilistic-Robotics-Intelligent-Autonomous-Agents/dp/0262201623/)  ：美元：
 * [Introduction to Autonomous Mobile Robots (Intelligent Robotics and Autonomous Agents series)](http://www.amazon.com/Introduction-Autonomous-Mobile-Intelligent-Robotics/dp/0262015358/)  ：美元：
-* [Springer Handbook of Robotics](http://www.amazon.com/Springer-Handbook-Robotics-Bruno-Siciliano/dp/354023957X)  ：美元：
+* [Springer Handbook of Robotics](https://www.amazon.com/Springer-Handbook-Robotics-Handbooks/dp/3319325507/)  ：美元：
 * [Planning Algorithms](http://planning.cs.uiuc.edu/)
 * [A gentle introduction to ROS](https://cse.sc.edu/~jokane/agitr/agitr-letter.pdf)
 * [A Mathematical Introduction to Robotic Manipulation](http://www.cds.caltech.edu/~murray/mlswiki/?title=First_edition)
@@ -43,6 +47,7 @@
 * [Introduction to Autonomous Robots](https://github.com/correll/Introduction-to-Autonomous-Robots/releases)
 * [Principles of Robot Motion: Theory, Algorithms, and Implementations ](https://www.amazon.com/Principles-Robot-Motion-Implementations-Intelligent/dp/0262033275):dollar:
 * [Introduction to Modern Robotics: Mechanics, Planning, and Control](http://hades.mech.northwestern.edu/index.php/LynchAndPark) [[pdf](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)]
+* [Programming Robots with ROS: A Practical Introduction to the Robot Operating System](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898/) ：美元：
 * [Learning ROS for Robotics Programming](https://www.amazon.com/Learning-ROS-Robotics-Programming-Second/dp/1783987588) ：美元：
 * [Mastering ROS for Robotics Programming](https://www.amazon.com/Mastering-Robotics-Programming-Lentin-Joseph/dp/1783551798) ：美元：
 * [Behavior Trees in Robotics and AI: An Introduction](https://btirai.github.io/) [[pdf](https://arxiv.org/pdf/1709.00084)]
@@ -56,7 +61,7 @@
 [**ROS**](http://www.ros.org/)
  机器人操作系统（ROS）是一种用于编写机器人软件的灵活框架.  它是一系列工具，库和约定，旨在简化在各种机器人平台上创建复杂而强大的机器人行为的任务.
 
-[**ROS2**](https://github.com/ros2/ros2/wiki)
+[**ROS2**](https://index.ros.org/doc/ros2/)
 ROS2是ROS的新版本，其基本设计变化和对旧版ROS版本的改进.
 
 [**RobWork**](http://www.robwork.dk/apidoc/nightly/rw/)
@@ -96,7 +101,7 @@ Webots是一个用于对移动机器人进行建模，编程和模拟的开发�
 一种可通过互联网访问的仿真系统，可以模拟由尖峰神经网络控制的机器人.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
-用于机器人和传感器应用的免费软件工具 
+用于机器人和传感器应用的免费软件工具
 
 [**Open AI's Roboschool**](https://github.com/openai/roboschool)
 用于机器人仿真的开源软件，与OpenAI Gym集成.
@@ -109,6 +114,9 @@ Webots是一个用于对移动机器人进行建模，编程和模拟的开发�
 
 [**g2core**](https://github.com/synthetos/g2)
 用于CNC和机器人的开源运动控制软件，设计用于在Arduino Due级微控制器上运行.
+
+[**ur5controller**](https://github.com/roboticsleeds/ur5controller)
+用于集成ROS的UR5机器人的开源OpenRAVE控制器.
 
 ### Papers ###
 * [基于优化的控制器设计和实现
@@ -171,7 +179,7 @@ DARPA机器人挑战决赛中的Atlas Robot]（https://www.cs.cmu.edu/~cga/drc/I
 * [FANUC](http://www.fanucamerica.com/) 拥有最大安装基础的工业机器人制造商
 * [Rethink Robotics](http://www.rethinkrobotics.com/) 协作机器人的创造者 [Baxter](https://www.youtube.com/watch?v=fCML42boO8c)
 * [DJI](http://www.dji.com/) 无人机行业的领导者，满足商业和工业需求.
-* [The construct sim](http://www.theconstructsim.com/)  基于云的工具，用于构建现代的，面向未来的机器人模拟. 
+* [The construct sim](http://www.theconstructsim.com/)  基于云的工具，用于构建现代的，面向未来的机器人模拟.
 * [Fetch Robotics](http://www.fetchrobotics.com/) 位于加利福尼亚州圣何塞的机器人创业公司，致力于电子商务实施和研发机器人的未来发展.
 * [Festo Robotics](https://www.festo.com/) Festo以制作移动机器人而闻名，这些机器人像海鸥一样移动，如SmartBird，水母，蝴蝶和袋鼠.
 
@@ -195,6 +203,8 @@ DARPA机器人挑战决赛中的Atlas Robot]（https://www.cs.cmu.edu/~cga/drc/I
 * [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 * [Awesome Reinforcement Learning](https://github.com/aikorea/awesome-rl/)
 * [Awesome Robotics](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome ROS2](https://github.com/fkromer/awesome-ros2)

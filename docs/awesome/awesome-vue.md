@@ -622,6 +622,7 @@
  - [Agiloo](https://www.agiloo.com) -  Scrum和看板的项目管理应用程序
  - [ScaffoldHub](https://www.scaffoldhub.io) - 使用NodeJS和MongoDB或SQL的VueJS在线Web应用程序生成器.
  - [Commandeer](https://getcommandeer.com)   - 管理层可以重新构想.  使用Vue.js和Electron构建的桌面云管理应用程序.
+ - [SA Email Builder](https://app.emailbuilder.top) - 使用VueJS和Quasar Framework响应的电子邮件模板构建器
 
 ### Apps/Websites
   - [Laravel Spark](https://spark.laravel.com/)

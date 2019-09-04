@@ -7,7 +7,7 @@
 <br/>
 <div align="center">
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
+令人愉快的策划清单 [Visual Studio Code](https://code.visualstudio.com/)  包和资源.  为了更加棒极了，请查看 [awesome](https://github.com/sindresorhus/awesome).
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 </div>
@@ -100,7 +100,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## 1C
 
-- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) -  VSC中丰富的1С：Enterprise 8（BSL）语言支持 - 在VSC中为* .bsl和* .os文件添加语法高亮，为1Сlang添加IntelliSense和语法助手
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=1c-syntax.language-1c-bsl) -  VSC中丰富的1С：Enterprise 8（BSL）语言支持 - 在VSC中为* .bsl和* .os文件添加语法高亮，为1Сlang添加IntelliSense和语法助手
 
 ## Bash
 
@@ -116,7 +116,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - 预览C / C ++扩展名 [Microsoft](https://www.microsoft.com)，读 [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) 细节
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - 借助GNU Global工具为C / C ++提供Intellisense.
-- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）提供语义完成 [YouCompleteMe](https://valloric.github.io/YouCompleteMe/).
+- [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - 使用C / C ++（和TypeScript，JavaScript，Objective-C，Golang，Rust）提供语义完成 [YouCompleteMe](http://ycm-core.github.io/YouCompleteMe/).
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用Clang命令完成和诊断C / C ++ / Objective-C.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery)  支持数百万行代码库，由libclang提供支持.  交叉引用，完成，诊断，语义突出显示等.
 
@@ -233,7 +233,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ### Laravel
 
-- [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - 用于Visual Studio Code的Laravel 5片段
+- [Laravel 5 Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel5-snippets) - Laravel 5 snippets for Visual Studio Code
 - [Laravel Blade Snippets](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade) -  Laravel刀片片段和语法高亮支持
 
 ![Laravel blade snippets and syntax highlight support animation](https://raw.githubusercontent.com/onecentlin/laravel-blade-snippets-vscode/master/images/screenshot.gif)
@@ -391,7 +391,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ## [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 
  &gt;提供GitHub工作流程支持.  例如浏览项目，问题，文件（当前行），创建和管理拉取请求.  计划支持其他提供商（例如gitlab或bitbucket）.
-&gt;看看吧 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
+&gt;看看吧 [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) 关于如何开始使用此扩展程序的设置.
 
 ## [GitHub Pull Request Monitor](https://marketplace.visualstudio.com/items?itemName=erichbehrens.pull-request-monitor)
 &gt;此扩展程序使用GitHub api监控拉取请求的状态，并告知您何时合并或有人请求更改.
@@ -484,6 +484,12 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ![Power Tools](https://raw.githubusercontent.com/egodigital/vscode-powertools/master/img/demo.gif)
 
+## [PrintCode](https://marketplace.visualstudio.com/items?itemName=nobuhito.printcode)
+
+&gt; PrintCode将正在编辑的代码转换为HTML文件，通过浏览器显示并打印出来.
+
+![PrintCode](https://raw.githubusercontent.com/nobuhito/vscode.printcode/master/printcode.gif)
+
 ## [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
 
 &gt;轻松切换项目.
@@ -496,7 +502,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-> Allows you to send HTTP request and view the response in Visual Studio Code directly.
+&gt;允许您直接发送HTTP请求并在Visual Studio Code中查看响应.
 
 ![Send HTTP request and view response animation](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
@@ -653,7 +659,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-&gt;在编辑器中突出显示Web颜色
+> Highlight web colors in your editor
 
 ![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 

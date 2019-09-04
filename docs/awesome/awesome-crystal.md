@@ -475,6 +475,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [awscr-s3](https://github.com/taylorfinnell/awscr-s3) -  AWS S3界面
  * [awscr-signer](https://github.com/taylorfinnell/awscr-signer) - 签署HTTP ::请求对象并生成预先签署的帖子表格
  * [bugsnag.cr](https://github.com/gewo/bugsnag.cr) -  Bugsnag异常通知程序和sidekiq中间件
+ * [crystal-consul](https://github.com/rogerwelin/crystal-consul) - 领事客户端API
  * [crystal-darksky](https://github.com/sb89/crystal-darksky) - 包装纸 [Dark Sky](https://darksky.net) API
  * [crystal-github](https://github.com/felipeelias/crystal-github) - 包装纸 [Github](https://github.com/) API
  * [crystal-monzo](https://github.com/barisbalic/crystal-monzo) - 客户 [Monzo API](https://monzo.com/docs/)
