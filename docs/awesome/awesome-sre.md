@@ -315,6 +315,8 @@
 * [Post-mortems to the rescue](https://increment.com/documentation/post-mortems-to-the-rescue/)
 * [Postmortem Action Items: Plan the Work and Work the Plan](https://ai.google/research/pubs/pub45906)
 * [Why Every Company Can Benefit from a Blameless Culture](https://www.blameless.com/why-companies-can-benefit-from-blameless-culture/)
+* ["It's dead, Jim": How we write an incident postmortem](https://www.hostedgraphite.com/blog/its-dead-jim-how-we-write-an-incident-postmortem)
+* [Our incident postmortem template](https://www.hostedgraphite.com/blog/incident-postmortem-template)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
@@ -396,7 +398,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
+* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.
@@ -429,3 +431,6 @@
 * [Twitter SRE](https://twitter.com/TwitterSRE) -  Twitter的SRE团队的官方推特账号.
 * [Twitter SRE Weekly](https://twitter.com/SREWeekly) -  SRE每周时事通讯的官方推特账号.
 * [USENIX Association](https://twitter.com/usenix) - 官方USENIX推特账户.
+
+## SRE Tools
+* [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - 网站可靠性和生产工程工具的精选列表

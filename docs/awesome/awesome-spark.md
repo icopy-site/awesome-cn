@@ -47,7 +47,6 @@ SparkSQL有 [serveral built-in Data Sources](https://spark.apache.org/docs/lates
 * [SparklingGraph](http://sparkling.ml) <img src="https://img.shields.io/github/last-commit/sparkling-graph/sparkling-graph.svg"> - 库扩展GraphX功能，具有在图形分析中有用的多种功能（测量，生成器，链接预测等）.
 
 ### Machine Learning Extension
-
 * [Apache SystemML](https://systemml.apache.org/) <img src="https://img.shields.io/github/last-commit/apache/systemml.svg"> -  Spark之上的声明式机器学习框架.
 * [Mahout Spark Bindings](https://mahout.apache.org/users/sparkbindings/home.html) \ [状态未知\]  - 具有类R语法的线性代数DSL和优化器.
 * [KeystoneML](http://keystone-ml.org/) - 使用RDD键入安全的机器学习管道.

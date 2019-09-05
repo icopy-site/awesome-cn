@@ -58,6 +58,8 @@
 - [React](https://reactjs.org/) - 以盖茨比为基础.
 - [Squoosh.app](https://squoosh.app/) - 在Netlify上托管，演示了现代Web应用程序的高级功能.
 - [Hopper](https://travel.hopper.com/) - 建立在Gatsby上并在Netlify上托管.
+- [VSCode Power User Course](https://vscode.pro/) -  PWA建立在Gatsby之上，并在Netlify上托管.
+- [CloudyCam](https://CloudyCam.dev/) -  PWA基于Next.js构建并托管在Zeit Now v2无服务器平台上.
 
 ## Static Site Generators
 
@@ -87,7 +89,7 @@
 - [Prose](https://prose.io) -  Prose是GitHub的内容编辑器，专为管理网站而设计.
 - [Tipe](https://tipe.io) - 下一代API-first CMS.
 - [Forestry](https://forestry.io) - 使用Hugo和Jekyll构建的静态站点的无头CMS.
-- [Coisas](https://github.com/fiatjaf/coisas) - 用于编辑GitHub Markdown（和其他）文件的客户端CMS.
+- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
 - [Cockpit](https://getcockpit.com/) - 自我托管的无头和api驱动的CMS.
 - [HeadlessCMS](https://headlesscms.org/) -  JAMstack站点的内容管理系统列表.
 - [TakeShape](https://www.takeshape.io/) - 无头GraphQL API CMS，只需单击一次即可部署到Netlify.

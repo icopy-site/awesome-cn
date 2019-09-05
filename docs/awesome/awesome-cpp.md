@@ -135,6 +135,7 @@
 ## Compression
 *压缩和存档库*
 
+* [bit7z](https://github.com/rikyoz/bit7z)   - 一个C ++静态库，为7-zip DLL提供简洁明了的界面.  [GPL第二]
 * [Brotli](https://github.com/google/brotli)   -  Brotli压缩格式.  由Google开发.  [MIT]
 * [bzip2](http://www.bzip.org/)   - 免费提供的，无专利的高质量数据压缩器.  [BSD]
 * [FiniteStateEntropy](https://github.com/Cyan4973/FiniteStateEntropy) - 新一代熵编解码器：有限状态熵和Huff0.

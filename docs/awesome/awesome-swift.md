@@ -12,7 +12,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  992 |  2019年8月27日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  994 |  2019年9月4日
 
 
 
@@ -128,7 +128,7 @@
 * [SwiftKit](https://github.com/SvenTiigi/SwiftKit) - 启动下一个开源Swift框架.
 * [SwiftPlate](https://github.com/JohnSundell/SwiftPlate) - 从命令行轻松生成跨平台框架项目.
 * [Toybox](https://github.com/giginet/Toybox) -  Xcode Playground管理变得简单.
-* [Tuist](https://github.com/tuist/tuist) - 一个开源命令行工具，用于大规模创建，维护和与您的Xcode项目交互.
+* [Tuist](https://github.com/tuist/tuist) - An open source command line tool to create, maintain and interact with your Xcode projects at scale.
 * [xcbeautify](https://github.com/thii/xcbeautify) -  xcodebuild的小美化工具.
 * [XcodeGen](https://github.com/yonaskolb/XcodeGen) - 从YAML文件和项目目录生成Xcode项目的工具.
 * [xcodeproj](https://github.com/tuist/xcodeproj) - 用于读取，更新和编写Xcode项目和工作区的库.
@@ -151,7 +151,7 @@
 [back to top](#readme) 
 
 * [Algorithm](https://github.com/CosmicMind/Algorithm) - 用于编写算法和概率模型的工具集.
-* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 算法和数据结构，并附有解释.
+* [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club) - 算法和数据结构，以及解释.
 * [SwiftLCS](https://github.com/Frugghi/SwiftLCS) ：企鹅： - 实施最长的公共子序列（LCS）算法.
 
 ### Analytics
@@ -198,7 +198,7 @@
 * [RandomUserSwift](https://github.com/dingwilson/RandomUserSwift) - 生成随机用户的框架 -  randomuser.me的非官方SDK.
 * [reddift](https://github.com/sonsongithub/reddift) -  reddit API包装器.
 * [Swifter Twitter](https://github.com/mattdonnelly/Swifter) -  Twitter框架.
-* [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram) - Instagram API wrapper.
+* [SwiftInstagram](https://github.com/AnderGoig/SwiftInstagram) -  Instagram API包装器.
 * [SwiftlySalesforce](https://github.com/mike4aday/SwiftlySalesforce) - 与Salesforce集成的本机iOS应用程序的快速开发框架.
 * [SwiftyInsta](https://github.com/TheM4hd1/SwiftyInsta) -  Private和Tokenless Instagram RESTful API.
 
@@ -256,7 +256,7 @@
 ### Bots
 * Libs构建机器人* [back to top](#readme) 
 
-* [Telegram Bot SDK](https://github.com/rapierorg/telegram-bot-swift) :penguin: - Unofficial SDK.
+* [Telegram Bot SDK](https://github.com/rapierorg/telegram-bot-swift) ：企鹅： - 非官方SDK.
 * [Telegrammer](https://github.com/givip/Telegrammer)  ：企鹅： -  Telegram Bots开发人员的开源框架.  它建立在Apple / SwiftNIO之上，有助于展示出色的性能.
 
 ### Cache
@@ -292,7 +292,7 @@
 *有趣的片段与色彩管理和实用性有关.* [back to top](#readme) 
 
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) -  Chameleon是一款轻量级但功能强大的iOS彩色框架.
-* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - 直观而有趣的iOS颜色选择器.
+* [ChromaColorPicker](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 * [Colorify](https://github.com/czater/Colorify) -  Colorify  - 简单而强大的色库.
 * [DynamicColor](https://github.com/yannickl/DynamicColor) - 轻松操控颜色的扩展.
 * [FlatUIColors](https://github.com/brynbellomy/FlatUIColors) - 平面UI调色板.
@@ -314,7 +314,7 @@
 * [LineNoise](https://github.com/andybest/linenoise-swift) ：penguin： -  readline的零依赖替换.
 * [nef](https://github.com/bow-swift/nef) - 一组命令行工具，可让您对编写为Xcode Playground的文档进行编译时验证.
 * [Progress.swift](https://github.com/jkandzi/Progress.swift) ：企鹅： - 在命令行中添加漂亮的进度条.
-* [SwiftCLI](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
+* [SwiftCLI](https://github.com/jakeheis/SwiftCLI) ：penguin： - 一个可用于开发CLI的强大框架.
 * [Swiftline](https://github.com/nsomar/Swiftline) - 一组帮助您创建命令行应用程序的工具.
 * [SwiftyTextTable](https://github.com/scottrhoyt/SwiftyTextTable) ：penguin： - 用于生成文本表的轻量级库.
 
@@ -410,7 +410,7 @@
 * [ModelAssistant](https://github.com/ssamadgh/ModelAssistant) - 优雅的图书馆，用于管理视图和模型之间的交互
 * [PersistenceKit](https://github.com/Teknasyon-Teknoloji/PersistenceKit) - 使用几行代码将Codable对象存储和检索到各种持久层！
 * [Shallows](https://github.com/dreymonde/Shallows) - 您的轻量级持久性工具箱.
-* [StorageKit](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠.
+* [StorageKit](https://github.com/StorageKit/StorageKit) - 您的数据存储故障排除程序.
 
 #### ORM
 [back to top](#readme) 
@@ -461,7 +461,7 @@
 *如果您更喜欢管理XML数据格式的条目，这里有一些有用的库* [back to top](#readme) 
 
 * [AEXML](https://github.com/tadija/AEXML) -  xml包装器.
-* [CheatyXML](https://github.com/lobodart/CheatyXML) - 一个功能强大的框架，旨在轻松管理XML.
+* [CheatyXML](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - 处理XML的最快捷方式.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - 简单的XML解析.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) -  XMLEncoder和XMLDecoder基于标准库中的Codable协议
@@ -514,7 +514,7 @@
 * [Device.swift](https://github.com/schickling/Device.swift) - 超轻量级库，用于检测已使用的设备.
 * [DeviceKit](https://github.com/devicekit/DeviceKit) -  DeviceKit是UIDevice的值类型替代品.
 * [Luminous](https://github.com/andrealufino/Luminous) - 获取有关设备的所有信息.
-* [Thingy](https://github.com/bojan/Thingy) - A modern device detection and querying library.
+* [Thingy](https://github.com/bojan/Thingy) - 现代设备检测和查询库.
 * [UIDeviceComplete](https://github.com/Nirma/UIDeviceComplete) -  UIDevice扩展，填补缺少的部分.
 
 ### Documentation
@@ -587,7 +587,7 @@
 * [OcticonsKit](https://github.com/keitaoouchi/OcticonsKit) - 在项目中使用Octicons作为UIImage / UIFont.
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) -  OpenSans.
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) -  Fontawesome，Iconic，Ionicons，Octicon端口.
-* [SwiftIcons](https://github.com/ranesr/SwiftIcons) - 字体图标库：dripicons，表情符号，字体真棒，icofont，ionicons，线性图标，地图图标，素材图标，开放标志性，状态，天气.
+* [SwiftIcons](https://github.com/ranesr/SwiftIcons) - 字体图标库：dripicons，表情符号，字体真棒，icofont，ionicons，线性图标，地图图标，素材图标，打开标志性，状态，天气.
 * [UIFontComplete](https://github.com/Nirma/UIFontComplete) - 适用于iOS和tvOS的字体管理（系统和自定义）.
 
 ### Game Engine
@@ -770,7 +770,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
 
 ### Location
 [back to top](#readme) 
@@ -795,7 +795,7 @@
 * [Watchdog](https://github.com/wojteklu/Watchdog) - 用于记录主线程上过多阻塞的实用程序.
 * [WatchdogInspector](https://github.com/tapwork/WatchdogInspector) - 一个日志工具，用于显示iOS应用程序状态栏中的当前帧速率（fps）.
 * [Willow](https://github.com/Nike-Inc/Willow) -  Willow是一个功能强大但轻量级的日志库.
-* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - 具有日志级别，时间戳和行号的全功能和可配置日志记录实用程序.
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) - Full featured & Configurable logging utility with log levels, timestamps, and line numbers.
 
 ### Maps
 [back to top](#readme) 
@@ -845,6 +845,7 @@
 * [PMHTTP](https://github.com/postmates/PMHTTP) -  HTTP框架，重点关注REST和JSON.
 * [Postal](https://github.com/snipsco/Postal) - 框架提供对常见电子邮件提供商的简单访问
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 使用封盖替代Apple的可达性.
+* [ReactiveAPI](https://github.com/sky-uk/ReactiveAPI)   - 使用RxSwift的强大功能，编写依赖于URLSession的干净，简洁和声明性的网络代码.  受到Retrofit的启发.
 * [ResponseDetective](https://github.com/netguru/ResponseDetective) - 一个非侵入式框架，用于拦截应用程序和服务器之间的任何传出请求和传入响应，以进行调试.
 * [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG) - 快速隧道代理，可帮助您绕过防火墙.
 * [Siesta](https://bustoutsolutions.github.io/siesta/)   -  REST API的优雅抽象，解决有状态的混乱.  基于回调和委托的网络的替代方案.
@@ -890,9 +891,9 @@
 * [Embassy](https://github.com/envoy/Embassy) ：penguin： - 超轻量级异步HTTP服务器库.
 * [Kitura](https://github.com/IBM-Swift/Kitura) ：penguin： - 用于Web服务的IBM Web框架和服务器.
 * [Lightning](https://github.com/skylab-inc/Lightning) ：企鹅： - 多平台单线程无阻塞Web和网络框架.
-* [Noze.io](https://github.com/NozeIO/Noze.io) ：penguin： - 像Node.js这样的I / O流.
+* [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
 * [Perfect](https://github.com/PerfectlySoft/Perfect)  ：企鹅： - 服务器端Swift.  完美的库，应用程序服务器，连接器和示例应用程序.
-* [swifter](https://github.com/httpswift/swifter) ：penguin： - 带有路由处理程序的Http服务器.
+* [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Vapor](https://github.com/vapor/vapor) ：penguin： - 优雅的Web框架，适用于iOS，OS X和Ubuntu.
 * [Zewo](https://github.com/Zewo/Zewo) ：企鹅： - 服务器端Swift.
 
@@ -1018,7 +1019,7 @@
 * [MarkdownKit](https://github.com/bmoliveira/MarkdownKit) - 简单且可定制的Markdown Parser.
 * [MarkdownView](https://github.com/keitaoouchi/MarkdownView) -  iOS Markdown视图.
 * [MarkyMark](https://github.com/M2Mobi/Marky-Mark) - 将Markdown转换为本机视图或属性字符串.
-* [Notepad](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
+* [Notepad](https://github.com/ruddfawcett/Notepad) - 具有实时语法高亮功能的完全可主题的降价编辑器.
 * [Parsey](https://github.com/rxwei/Parsey) -  Parser组合框架，支持源位置跟踪，回溯防护和丰富的错误消息.
 * [Pluralize.swift](https://github.com/joshualat/Pluralize.swift) -  Great String Pluralize Extension.
 * [PredicateFlow](https://github.com/andreadelfante/PredicateFlow) -  PredicateFlow是一个构建器，允许您编写惊人的，强类型和易于阅读的NSPredicate.
@@ -1040,7 +1041,7 @@
 ### Thread
 *线程，基于任务或异步编程，Grand Central Dispatch（GCD）包装器* [back to top](#readme) 
 
-* [Async](https://github.com/duemunk/Async) -  Grand Central Dispatch的语法糖.
+* [Async](https://github.com/duemunk/Async) - Syntactic sugar for Grand Central Dispatch.
 * [AwaitKit](https://github.com/yannickl/AwaitKit) -  ES7异步/等待控制流程.
 * [Chronos](https://github.com/comyar/Chronos-Swift) -  Grand Central Dispatch Utilities.
 * [Each](https://github.com/dalu93/Each) - 每个都是NSTimer桥库.
@@ -1080,7 +1081,7 @@
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - 浮动评级系统.
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - 带有弹出气泡的滑块小部件，显示所选的精确值.
 * [GaugeKit](https://github.com/skywinder/GaugeKit)   - 可定制的仪表.  轻松复制Apple的风格测量仪.
-* [Geometry](https://github.com/artman/Geometry) -  UIView的扩展.
+* [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
 * [GMStepper](https://github.com/gmertk/GMStepper) - 中间带滑动标签的踏步机.
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - 动画渐变进度条.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - 灵活的胡子模板.
@@ -1127,6 +1128,7 @@
 * [SelectionDialog](https://github.com/kciter/SelectionDialog) - 简单的选择对话框.
 * [ShadowView](https://github.com/PierrePerrin/ShadowView) - 在UIView上轻松实现阴影管理.
 * [Shiny](https://github.com/efremidze/Shiny) - 彩虹效果视图（灵感来自Apple Pay Cash）.
+* [ShowSomeProgress](https://github.com/stoneburner/ShowSomeProgress) -  iOS应用的动画进度和活动指标.
 * [SKPhotoBrowser](https://github.com/suzuki-0000/SKPhotoBrowser) - 受Facebook，Twitter照片浏览器启发的简单PhotoBrowser / Viewer.
 * [Spots](https://github.com/hyperoslo) -  Spots是一个视图控制器框架，可以让您的设置和未来的开发速度极快.
 * [SpreadsheetView](https://github.com/kishikawakatsumi/SpreadsheetView) - 适用于iOS应用程序的完整可配置电子表格视图用户界面.
@@ -1207,7 +1209,7 @@
 
 * [CalendarKit](https://github.com/richardtop/CalendarKit) - 完全可定制的日历日视图.
 * [CalendarView](https://github.com/mmick66/CalendarView) - 日历组件，它具有垂直和水平布局（和滚动）以及本机日历事件的显示.
-* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
+* [DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) - 用于选择日期和时间的更好的iOS UI组件.
 * [JTAppleCalendar](https://github.com/patchthecode/JTAppleCalendar) -  UI日历交易.
 * [Workaholic](https://github.com/hemangshah/Workaholic) - 类似GitHub的工作贡献时间表.
 
@@ -1215,7 +1217,7 @@
 [back to top](#readme) 
 
 * [CardParts](https://github.com/intuit/CardParts) - 基于UIKit的iOS开发人员构建的基于卡片的反应式UI框架.
-* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) - A marriage between the Shazam Discover UI and Tinder, built with UICollectionView.
+* [VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) -  Shazam Discover UI和Tinder之间的结合，使用UICollectionView构建.
 
 #### Form
 [back to top](#readme) 

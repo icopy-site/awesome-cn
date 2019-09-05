@@ -160,7 +160,7 @@
 * [Scalive ★ 187 ⧗ 20](https://github.com/xitrum-framework/scalive)   - 将Scala REPL连接到正在运行的JVM进程，无需事先进行任何设置;  该库用于检查生产模式下的系统.
 * **[Specs2 ★ 570 ⧗ 1](https://github.com/etorreborre/specs2)**  -  Scala的软件规范.
 * [Stryker4s ★ 21](https://github.com/stryker-mutator/stryker4s) - 使用突变测试测试您的测试.
-* [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) -  Scala的小型便携式测试库.
+* [µTest ★ 197 ⧗ 0](https://github.com/lihaoyi/utest) - A tiny, portable testing library for Scala.
 * [testcontainers-scala ★ 52 ⧗ 2](https://github.com/testcontainers/testcontainers-scala) - 用于在Scala中进行测试的Docker容器.
 
 ## JSON
@@ -172,7 +172,7 @@
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -  Json的scala diff / patch库
 * [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
 * [jawn ★ 252 ⧗ 4](https://github.com/non/jawn) - 快速json解析器（据他们说，与java gson / jackson速度竞争）.
-* **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)** - Project aims to provide a single AST to be used by other scala json libraries.
+* **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)**  -  Project旨在提供其他scala json库使用的单个AST.
 * [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) - 用于编译时生成超快JSON编解码器的Scala宏.
 * [persist-json ★ 9 ⧗ 49](https://github.com/nestorpersist/json) - 快速的json解析器.
 * [play-json ★ 39 ⧗ 7](https://github.com/playframework/play-json) - 灵活而强大的JSON操作，验证和序列化，在运行时没有反射.
@@ -262,7 +262,7 @@
 * **[Scalding ★ 2783 ⧗ 2](https://github.com/twitter/scalding)**  - 用于Hadoop MapReduce的级联抽象的Scala绑定.
 * [Schemer](https://github.com/indix/schemer)   -  CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) - 一个Scala API for [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
-* [Scrunch](http://crunch.apache.org/scrunch.html) - A Scala wrapper for [Apache Crunch](http://crunch.apache.org/index.html) 它提供了编写，测试和运行MapReduce管道的框架.
+* [Scrunch](http://crunch.apache.org/scrunch.html) - 一个Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了编写，测试和运行MapReduce管道的框架.
 * [Spark](http://spark.apache.org/)   - 闪电快速集群计算 - 迭代算法（内存缓存）比Hadoop快100倍，单通MapReduce作业比Hadoop快10倍.  与支持YARN的Hadoop集群兼容，可以在Mesos上运行，也可以在独立模式下运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) - 一个sbt插件，可帮助部署Apache Spark独立群集并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) - 基于Spark Streaming的实时聚合.
@@ -327,6 +327,7 @@
 * [Glokka ★ 46 ⧗ 148](https://github.com/xitrum-framework/glokka) - 用于在Akka集群中按名称注册和查找actor的库.
 * [Lagom](https://www.lightbend.com/lagom) - 用于创建基于微服务的系统的框架.
 * [Reactors](http://reactors.io/) - 分布式计算的基础框架，融合了功能性反应式编程和传统参与者.
+* [Parapet](https://github.com/parapet-io/parapet) - 用于构建分布式和事件驱动系统的纯功能库
 
 ## Extensions
 
@@ -469,6 +470,7 @@
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) - 一个Scala编译器插件，为他们应得的爱提供模式和理解
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**  - 一个Scala库，用于从Maven / Ivy存储库中获取依赖项
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) - 一个Sbt插件，可解析到常见Scala库的外部API链接.
+* [sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly)   - 部署胖JAR.  重启进程.
 * [sbt-buildinfo ★ 274 ⧗ 1](https://github.com/sbt/sbt-buildinfo) - 从构建定义生成Scala源.
 * [sbt-classfinder ★ 3 ⧗ 39](https://github.com/ruippeixotog/sbt-classfinder) - 检索有关项目中类和特征的运行时信息.
 * [sbt-dependency-check ★ 108 ⧗ 0](https://github.com/albuch/sbt-dependency-check)   - 用于OWASP DependencyCheck的SBT插件.  监控您的依赖关系并报告是否存在任何公开已知的漏洞（例如CVE）.

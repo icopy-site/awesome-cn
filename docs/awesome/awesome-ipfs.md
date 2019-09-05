@@ -36,7 +36,8 @@
 - [brig](https://brig.readthedocs.io/en/latest) - 使用git接口和FUSE文件系统进行文件同步. [Source](https://github.com/sahib/brig)
 - [Cohort](https://github.com/zignig/cohort) - 一个golang应用程序，用于预设一个threejs界面，并从IPFS中获取所有资产.
 - [Computes](https://computes.io) -  Computes.io是一个由IPFS驱动的分布式超级计算机.
-- [dapple](https://github.com/nexusdev/dapple) -  Dapple是一家Solidity开发商多功能工具，旨在管理日益复杂的互联智能合约系统.
+- [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
+- [Diffuse](https://diffuse.sh) - 播放您的IPFS节点或您使用的任何其他云/分布式存储服务中的音乐.
 - [digx](https://www.dgx.io/) -  Digix是一个基于以太坊和IPFS的资产标记化平台.
 - [Discussify](https://github.com/ipfs-shipyard/discussify-browser-extension) -  Discussify为任何人加入和参与提供实时，点对点和永久性的讨论平台.
 - [DtinyUrl](http://t.bdaily.club) - 基于IPFS的分散式URL缩短服务. [Source](https://github.com/facert/dtinyurl)
@@ -65,7 +66,6 @@
 - [ipfs.ink](https://ipfs.ink) - 发布和呈现与ipfs之间的降价文章. [Source](https://github.com/kpcyrd/ipfs.ink)
 - [ipfs.pics](https://github.com/ipfspics/ipfspics-server) - 上传和分享图片.
 - [IPFSBin](https://github.com/victorbjelkholm/ipfsbin) -  Pastebin clone build.
-- [IpfsCloud](https://ipfscloud.store) -  IPFS上的分散式匿名云存储平台. [Source](https://github.com/cluster-labs/ipfscloud-web)
 - [KDE-DolphinServiceMenu-IPFS](https://github.com/amar-laksh/KDE-DolphinServiceMenu-IPFS) -  Dolphin File Manager的服务菜单，用于将文件上载到IPFS用于交易请求的开放网络.
 - [killcord](https://killcord.io/) - 审查抵制死人的开关 [Source](https://github.com/nomasters/killcord)
 - [markup.rocks](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u) - 基于Pandoc的标记编辑器/预览器/转换器，移植到IPFS. [Source](https://github.com/davidar/markup.rocks)
@@ -78,10 +78,10 @@
 - [Peer Bandwidth Demo](https://ipfs.io/ipfs/QmVaVXbLdw4R5NqAiiQoTWtitxo5g7FS31PQmCLbH9p8Fu/) - 使用window.ipfs的演示应用程序，由IPFS Companion Web扩展提供，用于获取和绘制IPFS节点的带宽信息 [Source](https://github.com/tableflip/ipfs-peer-bw-example)
 - [Peer Map Demo](https://ipfs.io/ipfs/QmRPGCmLKH2dQmNiPRsiuYS9EhhJL1Gmkz5F75gKY1K4Bm/) - 使用window.ipfs的IPv4 IPFS对等体的映射 [Source](https://github.com/tableflip/ipfs-peer-map-example)
 - [Peergos](https://peergos.org) - 端到端加密，对等文件存储和共享. [Source](https://github.com/Peergos/Peergos)
-- [Philes](https://philes.co) - A simple browser-based IPFS notepad app. [Source](https://github.com/chrismatthieu/philes)
+- [Philes](https://philes.co) - 一个简单的基于浏览器的IPFS记事本应用程序. [Source](https://github.com/chrismatthieu/philes)
 - [Playback](https://mafintosh.github.io/playback/)   -  IPFS播放支持.  这允许将IPFS中的视频投射到Chromecast.
 - [PubSub Chat Demo](https://ipfs.io/ipfs/QmWZ3u5S7RjFXKfW6dSZhj7CozcvpqJxm48RYMmKkWcmNQ/) - 使用window.ipfs的~76KB演示聊天应用程序，由IPFS Companion Web扩展提供 [Source](https://github.com/tableflip/ipfs-pubsub-chat-example)
-- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
+- [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) -  Push to Talk允许您编辑音频文章并使用IPFS发布它们.
 - [qri](https://qri.io) - 数据集版本控制，发现和协作工具（免费，开源）. [Source](https://github.com/qri-io/qri)
 - [Request](https://request.network/) - 用于金融交易的分散网络. [Source](https://github.com/RequestNetwork/requestNetwork)
 - [SimpleID](https://simpleid.xyz/) - 用于向您的应用添加以太坊身份验证和内容固定的开发人员工具. [Source](https://github.com/simplesecure/)
@@ -96,13 +96,15 @@
 
 ## Articles
 
+- 2019-08-14: [Managing storage in a Java application with IPFS](https://kauri.io/article/3e8494f4f56f48c4bb77f1f925c6d926) 
 - 2019-07-22: [10+ Resources Every IPFS Developer Should Know About](https://medium.com/@vaibhavsaini_67863/10-resources-to-get-started-with-ipfs-5f429dc8a841) 
 - 2019-05-12: [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://dev.to/agentofuser/the-complete-beginner-s-guide-to-deploying-your-first-static-website-to-ipfs-33po) 
+- 2019-03-10: [The Case for a Decentralized Social Network](https://medium.com/npfoss/the-case-for-a-decentralized-social-network-2683b727abf5) 
 - 2019-01-30: [Ultimate Guide to Filecoin Breaking Down Filecoin Whitepaper & Economics](https://medium.com/swlh/ultimate-guide-to-filecoin-breaking-down-filecoin-whitepaper-economics-9212541a5895) 
 - 2018-08-06: [Content Identifiers in IPFS](https://pascalprecht.github.io/posts/content-identifiers-in-ipfs/) 
 - 2018-07-11: [On future-proof cryptographic hashes](https://pascalprecht.github.io/posts/future-proofed-hashes-with-multihash/) 
 - 2017-08-21: [Understanding the IPFS White Paper part 2](https://decentralized.blog/understanding-the-ipfs-white-paper-part-2.html) 
--  2017-08-10： [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
+- 2017-08-10: [Understanding the IPFS White Paper part 1](https://decentralized.blog/understanding-the-ipfs-white-paper-part-1.html) 
 - 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io](https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85) 
 - 2017-05-05: [Decentralized indexes for public genomic data](https://github.com/luizirber/2017-recomb) 
 - 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) 
@@ -138,6 +140,7 @@
 
 - [Eternum](https://www.eternum.io/) - 带有易于使用的API的付费钉扎服务.
 - [NodeFort.io](https://www.nodefort.io) - 基于Web的IPFS节点托管服务.
+- [Peergos](https://peergos.org)   - 您的私人，但社交，在线空间.  存储和编辑文档和媒体.  与朋友分享文件或文件夹. [Source](https://github.com/Peergos/Peergos)
 - [Pinata](https://pinata.cloud) - 通过Pinata的REST API和IPFS工具包构建和管理您的dapp.
 
 ## Tools
