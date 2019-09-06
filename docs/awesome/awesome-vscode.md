@@ -85,6 +85,10 @@ VSCode团队提供来自流行编辑器的键盘映射，使得向VSCode的过�
 
 &gt; VS Code的热门Intellij IDEA密钥绑定.
 
+## [Camel Humps](http://www.damirscorner.com/blog/posts/20190726-CamelHumpsNavigationInVsCode.html)
+
+&gt;与Visual Studio和Resharper或Intellij IDEA一样
+
 ## Using VS Code with particular technologies
 
 Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配方.
@@ -124,7 +128,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 细节
 
-- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - 修复使用/缩进/大括号/空行的格式
+- [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
 
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - 提供IDE扩展，加快您的开发工作流程.
 
@@ -659,7 +663,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 
-> Highlight web colors in your editor
+&gt;在编辑器中突出显示Web颜色
 
 ![Highlight web colors in your editor screenshot](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 

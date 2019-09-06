@@ -194,7 +194,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Tevfik Kosar](http://magnus-notitia.blogspot.com.tr/) - 伟大的通知
 - [New Data Scientist](http://newdatascientist.blogspot.com/) 社会科学家如何进入大数据世界
 - [Harvard Data Science](http://harvarddatascience.com/) - 关于统计计算和可视化的思考
-- [Data Science 101](http://101.datascience.community/) - Learning To Be A Data Scientist
+- [Data Science 101](http://101.datascience.community/) - 学习成为数据科学家
 - [Kaggle Past Solutions](http://www.chioka.in/kaggle-competition-solutions/)
 - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
 - [NYC Taxi Visualization Blog](http://chriswhong.github.io/nyctaxi/)
@@ -337,11 +337,11 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Matt Harrison](https://twitter.com/__mharrison__)   - 关于全栈Python的观点，作者，教练，目前正在玩数据科学家.  偶尔的父亲，丈夫，ult | goalt-imate，有机园艺.
 - [Matthew Russell](https://twitter.com/ptwobrussell) - 挖掘社交网络.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) BizQualify的数据科学家，开发人员
-- [Monica Rogati](https://twitter.com/mrogati)   -  Data @ Jawbone.  将数据转化为LinkedIn的故事和产品.  文本挖掘，应用机器学习，推荐系统.  前游戏玩家，前机器编码器;  命名器.
+- [Monica Rogati](https://twitter.com/mrogati) - Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer.
 - [Noah Iliinsky](https://twitter.com/noahi)   - 可视化和交互设计师.  实用的骑车人.  vis书的作者：http：//www.oreilly.com/pub/au/4419
 - [Paul Miller](https://twitter.com/PaulMiller)   - 云计算/大数据/开放数据分析师和顾问.  作家，演讲者和主持人.  Gigaom研究分析师.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch)   - 创建智能系统以自动执行任务并改进决策.  企业家，前首席数据科学家@LinkedIn.  机器学习，ProductRei，网络
-- [Prash Chan](https://twitter.com/MDMGeek)   - 解决方案架构师@IBM，主数据管理，数据质量和数据治理博​​客.  数据科学，Hadoop，大数据和云.
+- [Prash Chan](https://twitter.com/MDMGeek) - Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud.
 - [Quora Data Science](https://twitter.com/q_datascience) Quora的数据科学主题
 - [R-Bloggers](https://twitter.com/Rbloggers) - 来自R blogosphere的博客文章，数据科学会议和（！）为数据科学家开放的工作.
 - [Rand Hindi](https://twitter.com/randhindi)
@@ -385,6 +385,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Toolboxes - Environment
 
+ * [ML Workspace](https://github.com/ml-tooling/ml-workspace)   - 用于机器学习和数据科学的一体化基于Web的IDE.  工作空间被部署为Docker容器，并预装了各种流行的数据科学库（例如，Tensorflow，PyTorch）和开发工具（例如，Jupyter，VS Code）.
  * [neptune.ml](https://neptune.ml)   - &gt;社区友好平台，支持数据科学家创建和共享机器学习模型.  海王星促进团队合作，基础设施管理，模型比较和再现性.
  * [steppy](https://github.com/neptune-ml/steppy)   - &gt;轻量级Python库，用于快速，可重复的机器学习实验.  介绍非常简单的界面，实现清洁机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) - &gt;神经网络，变压器和模型的精选集合，使您的机器学习更快，更有效.
@@ -416,7 +417,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon)
  * [Skale](https://github.com/skale-me/skale-engine) -  NodeJS中的高性能分布式数据处理
  * [Aerosolve](http://airbnb.io/aerosolve/) - 为人类建立的机器学习包.
- * [Intel framework](https://github.com/01org/idlf) - Intel® Deep Learning Framework
+ * [Intel framework](https://github.com/01org/idlf) - 英特尔®深度学习框架
  * [Datawrapper](https://www.datawrapper.de/)   - 一个开源数据可视化平台，帮助每个人创建简单，正确和可嵌入的图表.  也在 [github.com](https://github.com/datawrapper/datawrapper)
  * [Tensor Flow](https://www.tensorflow.org/) -  TensorFlow是一个用于机器智能的开源软件库
  * [Natural Language Toolkit](http://www.nltk.org/)

@@ -321,6 +321,7 @@
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
 * [SouthBay SRE: Cloud Capacity Planning](https://www.youtube.com/watch?v=MDQ0uEUmLOo)
+* [Intent-based Capacity Planning and Autoscaling with Kubernetes](https://blog.squadcast.com/intent-based-capacity-planning-autoscaling-kubernetes/)
 
 ## Service Level Agreement
 * [SLA Aware Maintenance for Operators - Joe Smith](https://www.youtube.com/watch?v=tZ0-SISvCis)
@@ -434,3 +435,4 @@
 
 ## SRE Tools
 * [Awesome SRE Tools](https://github.com/squadcastHQ/awesome-sre-tools) - 网站可靠性和生产工程工具的精选列表
+* [List of Continuous Integration services](https://github.com/ligurio/awesome-ci)

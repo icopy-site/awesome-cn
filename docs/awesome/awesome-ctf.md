@@ -107,6 +107,7 @@
 - [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - 在进程中注入dll
 - [libformatstr](https://github.com/hellman/libformatstr) - 简化格式字符串利用.
 - [Metasploit](http://www.metasploit.com/) - 渗透测试软件
+  - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
 - [one_gadget](https://github.com/david942j/one_gadget) - 找到一个小工具`execve（&#39;/ bin / sh&#39;，NULL，NULL）`调用的工具
   - `gem install one_gadget`
 - [Pwntools](https://github.com/Gallopsled/pwntools) - 用于编写漏洞的CTF框架

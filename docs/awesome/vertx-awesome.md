@@ -56,6 +56,7 @@
 *连接数据库的客户*
 
 *关系数据库
+  * [Reactive SQL Client](https://raw.githubusercontent.com/eclipse-vertx/vertx-sql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 高性能的反应式SQL客户端.
   * [JDBC](https://raw.githubusercontent.com/vert-x3/vertx-jdbc-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - 围绕JDBC数据源的异步接口.
   * [MySQL / PostgreSQL](https://raw.githubusercontent.com/vert-x3/vertx-mysql-postgresql-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> -  MySQL / PostgreSQL的异步客户端.
   * [PostgreSQL](https://github.com/vietj/reactive-pg-client) - 反应性PostgreSQL客户端.

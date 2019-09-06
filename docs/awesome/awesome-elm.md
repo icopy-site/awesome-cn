@@ -48,6 +48,7 @@
 ### Games
 
 * [Elm Joust](https://github.com/stefankreitmayer/elm-joust) - 用榆树写的双人格斗游戏.
+* [First Person Elm](https://github.com/jeffcole/first-person-elm) - 使用WebGL和浏览器API端口进行3D第一人称导航的演示
 * [Vessel](https://github.com/slawrence/vessel) - 用榆树写的“隧道”游戏！
 * [Elm shooter](https://github.com/sporto/elm-shooter) - 侧滚动式弹射器
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - 用榆树写的可配置滑动益智游戏.
@@ -193,6 +194,7 @@
 您可以在以下网址找到数百种高品质的套餐：
 
 * [Elm packages](https://package.elm-lang.org/) - 官方登记处
+* [Elm Package Catalog](https://korban.net/elm/catalog) - 在按类别组织的目录中查找包. 
 * [Elm finder](https://www.elmfinder.org/) - 您的Elm项目的可重用库和工具的目录
 * [Elm Search](http://klaftertief.github.io/elm-search/) - 搜索运营商，功能签名等的Elm文档.
 
@@ -207,6 +209,14 @@
 * [dillonkearns/elm-graphql](https://github.com/dillonkearns/elm-graphql) - 生成代码，为GraphQL API构建有保证的正确，类型安全的API请求.
 
 
+## Testing
+
+用于测试Elm应用程序的工具和库
+
+* [Elm test](https://github.com/elm-explorations/test) - 单元和模糊测试
+* [Elm Program test](https://github.com/avh4/elm-program-test/tree/3.0.0) - 测试完整的榆树程序
+
+
 
 ## Tools
 
@@ -218,7 +228,8 @@
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) - 用于Elm编程语言的Linter.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [Dependabot](https://dependabot.com) - 自动更新elm-package.json的PR.
-* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - 榆树离线文档预览器 
+* [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) - 榆树离线文档预览器.
+* [Elmstatic](https://korban.net/elm/elmstatic) - 基于Elm的静态站点生成器.
 
 ### Code Generators
 
@@ -234,7 +245,7 @@
 * [Ellie](https://ellie-app.com/) - 榆树现场编辑
 * [Online REPL](http://elmrepl.cuberoot.in) -  ELM在线REPL
 * [run-elm](https://github.com/jfairbank/run-elm) - 从命令行运行Elm代码
-* [elm-instant](https://atom.io/packages/elm-instant)   -  atom包从编辑器中尝试你的榆树代码.  提供可视REPL和预览窗格.
+* [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
 
 ### Compile and bundle
 
@@ -267,11 +278,13 @@
 
 ### Sublime Text
 
-* [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) -  Sublime Text 2和3的语法高亮，REPL，自动完成等.
+* [Elm Syntax Highlighting](https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting) - 在Sublime文本中突出显示Elm的语法.
+* [Elm Language Server](https://github.com/elm-tooling/elm-language-server#sublime) -  Elm的语言服务器实现
 
-### VIM
+### Vim/Neovim
 
-* [Elm-vim](https://github.com/ElmCast/elm-vim) -  vim的榆树模式.
+* [theJian/elm.vim](https://github.com/theJian/elm.vim)   - 榆树语法高亮.  使用 [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) 因为ElmCast / elm-vim不支持Elm 0.19.
+* [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) -  Vim / Neovim的Elm 0.18模式.
 * [vim-elm-help](https://github.com/hoelzro/vim-elm-help) - 编辑器中的脱机Elm文档访问.
 * [emmet-vim](https://github.com/mattn/emmet-vim) - 使用elm支持扩大标记.
 

@@ -133,6 +133,7 @@
 *数据库连接池*
 
   * [hikari-cp](https://github.com/tomekw/hikari-cp)
+  * [metabase/connection-pool](https://github.com/metabase/connection-pool)
 
 ## Structural Migrations
 

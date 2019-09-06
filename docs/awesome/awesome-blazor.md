@@ -20,7 +20,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 请注意，如果要在Visual Studio中打开Blazor项目，则必须具备 [Visual Studio 15.7 Preview 1](https://www.visualstudio.com/vs/preview/) 或以后和 [.NET Core 2.1 Preview 1 SDK](https://www.microsoft.com/net/download/dotnet-core/sdk-2.1.300-preview1).
 推荐：最新 [Visual Studio 2019 Preview](https://visualstudio.microsoft.com/) 和最新 [.NET Core SDK](https://dotnet.microsoft.com/download/dotnet-core/3.0).
 
-Note: the Blazor Visual Studio extension is not longer required since the [ASP.NET Core Preview 7](https://dotnet.microsoft.com/download/dotnet-core/3.0).
+注意：自从以来不再需要Blazor Visual Studio扩展 [ASP.NET Core Preview 7](https://dotnet.microsoft.com/download/dotnet-core/3.0).
 
 这是Microsoft的文档， [Get started](https://docs.microsoft.com/en-us/aspnet/core/blazor/get-started?view=aspnetcore-3.0&tabs=visual-studio) with Blazor.
 
@@ -125,7 +125,7 @@ Note: the Blazor Visual Studio extension is not longer required since the [ASP.N
 * [EncFS over Google Drive](https://encfs-gdrive.github.io) - 使用Blazor编写的在线工具，用于在Google云端硬盘中加密/解密文件.
 
 ## Tutorials
-* [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor应用程序建设研讨会 [.NET Foundation](https://www.dotnetfoundation.org/)，Blazzing Pizza.
+* [Blazor workshop](https://github.com/dotnet-presentations/blazor-workshop/) - ![GitHub stars](https://img.shields.io/github/stars/dotnet-presentations/blazor-workshop?style=flat-square&cacheSeconds=604800) Blazor app建设研讨会 [.NET Foundation](https://www.dotnetfoundation.org/)，Blazzing Pizza.
 * [ASP.NET Core and Blazor Code Venture: Configuring Azure AD Authentication](https://www.codeproject.com/Articles/5164004/ASP-NET-Core-and-Blazor-Code-Venture-Configuring-A) -  2019年8月5日 -  ASP.NET Core和Blazor Code Venture：在Coe Project上配置Azure AD身份验证.
 * [Realtime Blazor Tic-Tac-Toe Game - Bot Vs Multiplayer Using SignalR](https://www.c-sharpcorner.com/article/realtime-blazor-tic-tac-toe-game-bot-vs-multiplayer-using-signalr/) -  2019年7月17日 - 如何使用SignalR在Blazor中创建一个实时机器人与多人游戏的tic-tac-toe游戏.
 * [TSP with GeneticSharp and Blazor](http://diegogiacomelli.com.br/tsp-with-geneticsharp-and-blazor/) -  2019年7月10日 - 使用Blazor客户端应用程序和 [GeneticSharp](https://github.com/giacomelli/GeneticSharp) ![GitHub stars](https://img.shields.io/github/stars/giacomelli/GeneticSharp?style=flat-square&cacheSeconds=604800) 解决TSP（旅行商问题）.
@@ -269,7 +269,7 @@ Note: the Blazor Visual Studio extension is not longer required since the [ASP.N
 * [Blazor CRUD app tutorial - SPA Framework for .NET developers (Part - 2)](https://www.youtube.com/watch?v=TMiFNM_1oZI) -  2019年5月22日 -  Blazor CRUD应用程序教程 - 适用于.NET开发人员的SPA框架（第2部分）.
 * [Blazor application state management basics](https://www.youtube.com/watch?v=1o-_78ONM1s) -  2019年5月14日 -  Blazor应用程序状态管理基础知识.
 * [Blazor Q/A Live with Daniel Roth from Microsoft Build 2019](https://www.youtube.com/watch?v=zp9wQt8J6hY) -  2019年5月14日 -  Blazor Q / A与来自Microsoft Build 2019的Daniel Roth合作.
-* [Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor](https://www.youtube.com/watch?v=i2eVseMWidQ) -  2019年5月14日 - 升级到Blazor Preview 4并在客户端Blazor中破解搜索引擎优化.
+* [Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor](https://www.youtube.com/watch?v=i2eVseMWidQ) - May 14, 2019 - Upgrading to Blazor Preview 4 and Hacking SEO in Client-side Blazor.
 * [.NET is now your Browser OS with Blazor](https://www.recallact.com/presentation/net-now-your-browser-os-blazor) -  2019年5月13日 - 杰里米·利克内斯在亚特兰大DotNetSouth 2019讲话.
 * [Continuation of the Tulsa .NET User Group website](https://www.twitch.tv/videos/422982467) -  2019年5月10日 - 继续使用Tulsa .NET用户组网站. [Source code](https://github.com/devsgarage/tulsa-dnug-website) ![GitHub stars](https://img.shields.io/github/stars/devsgarage/tulsa-dnug-website?style=flat-square&cacheSeconds=604800) 这里.
 * [Scott Hunter Demos Telerik UI for Blazor](https://clips.twitch.tv/SpookyProudPineapplePeanutButterJellyTime) -  2019年5月10日 -  Blazor的Scott Hunter Demos Telerik UI.
@@ -352,7 +352,7 @@ Note: the Blazor Visual Studio extension is not longer required since the [ASP.N
 * [Calling gRPC Services With Server-side Blazor](https://chrissainty.com/calling-grpc-services-with-server-side-blazor) -  2019年5月29日 - 使用服务器端Blazor调用gRPC服务.
 * [Architecting Blazor applications: an Angular approach](http://danpatrascu.com/architecting-blazor-applications-an-angular-approach/) -  2019年5月29日 - 构建Blazor应用程序：一种Angular方法.
 * [Using MediatR with Blazor](https://talkdotnet.wordpress.com/2019/05/29/using-mediatr-with-blazor/) -  2019年5月29日 - 使用MediatR和Blazor.
-* [Using reference objects in Blazor server-side](https://www.billbogaiv.com/posts/using-reference-objects-in-blazor-server-side) -  2019年5月26日 - 在Blazor服务器端使用参考对象.
+* [Using reference objects in Blazor server-side](https://www.billbogaiv.com/posts/using-reference-objects-in-blazor-server-side) - May 26, 2019 - Using reference objects in Blazor server-side.
 * [Why WebAssembly Matters?](https://byterot.blogspot.com/2019/05/why-webassembly-matters.html) -  2019年5月18日 - 为什么WebAssembly很重要？
 * [Dynamic components in Blazor](https://www.oqtane.org/Resources/Blog/PostId/522/dynamic-components-in-blazor) -  2019年5月16日 -  Blazor中的动态组件.
 * [Custom routing in Blazor](https://www.oqtane.org/Resources/Blog/PostId/521/custom-routing-in-blazor) -  2019年5月16日 -  Blazor中的自定义路由.
@@ -411,7 +411,7 @@ Note: the Blazor Visual Studio extension is not longer required since the [ASP.N
 * [ASP.NET Core updates in .NET Core 3.0 Preview 2](https://blogs.msdn.microsoft.com/webdev/2019/01/29/aspnet-core-3-preview-2/) -  2019年1月29日 -  .NET Core 3.0 Preview 2中的ASP.NET Core更新.
 * [Blazor Notes from NDC London](https://edcharbeneau.com/blazor-ndc-london) -  2019年1月29日 - 来自NDC伦敦的Blazor Notes.
 * [Creating a Reusable, JavaScript-Free Blazor Modal](https://www.telerik.com/blogs/creating-a-reusable-javascript-free-blazor-modal) -  2019年1月28日 - 创建可重用，无JavaScript的Blazor模式.
-* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) - January 21, 2019 - Google authentication in Server-Side Blazor (Razor components).
+* [Google authentication in Server-Side Blazor](http://lightswitchhelpwebsite.com/Blog/tabid/61/EntryId/4323/Google-Authentication-in-Server-Side-Blazor-Razor-Components.aspx) -  2019年1月21日 - 在Server-Side Blazor（Razor组件）中进行Google身份验证.
 * [Announcing Blazored and Blazored Toast](https://chrissainty.com/announcing-blazored-and-blazored-toast) -  2019年1月21日 - 宣布Blazored和Blazored Toast.
 * [Blazor Full-Stack Web Dev in ASP .NET Core](https://wakeupandcode.com/blazor-full-stack-web-dev-in-asp-net-core/) -  2019年1月16日--Plash .NET Core中的Blazor Full-Stack Web Dev.
 * [Introducing the Telerik UI for Blazor Early Preview](https://www.telerik.com/blogs/introducing-the-telerik-ui-for-blazor-early-preview) -  2019年1月16日 - 为Blazor Early Preview推出Telerik UI.
@@ -425,6 +425,7 @@ Note: the Blazor Visual Studio extension is not longer required since the [ASP.N
 * [Archives of 2017](https://github.com/AdrienTorris/awesome-blazor/blob/master/Archives/2017.md#articles)
   
 ## Podcasts
+* [What is WebAssembly](https://cynicaldeveloper.com/podcast/122/) -  2019年9月2日 - 什么是WebAssembly，第13集愤世嫉俗的开发者播客.
 * [Building Applications using Server-Side Blazor with Shaun Walker](https://www.dotnetrocks.com/default.aspx?ShowNum=1649) - August 22, 2019 - .NET Rocks! podcast, episode 1649: Building Applications using Server-Side Blazor with Shaun Walker.
 * [Daniel Roth on Blazor](http://azuredevopspodcast.clear-measure.com/daniel-roth-on-blazor-devops-episode-47) -  2019年7月29日 -  Azure DevOps Podcast，第47集：Blazor DevOps的Daniel Roth. 
 * [Blazor with Ed Charbeneau](http://codingafterwork.se/2019/07/17/episode-43-blazor-with-ed-charbeneau/) -  2019年7月17日 -  Coding After Work播客，第43集 -  Blazor和Ed Charbeneau.

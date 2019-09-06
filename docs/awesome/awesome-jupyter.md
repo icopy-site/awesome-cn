@@ -21,12 +21,13 @@
 - [Beaker](http://beakernotebook.com) - 从一种语言到另一种语言的无缝数据传输的开发环境.
 - [docker-stacks](https://github.com/jupyter/docker-stacks) -  Docker中可立即运行的Jupyter应用程序的分层堆栈.
 - [Hydrogen](https://github.com/nteract/hydrogen) - 使用Jupyter内核在Atom中内联代码.
-- [Jupyter Notebook](https://github.com/jupyter/notebook) - Main Jupyter notebook runtime.
+- [Jupyter Notebook](https://github.com/jupyter/notebook) - 主要的Jupyter笔记本运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -  Jupyter的多用户服务器.
 - [JupyterLab](https://github.com/jupyterlab/jupyterlab) -  JupyterLab是Jupyter的下一代用户界面.
 - [JupyterWith](https://github.com/tweag/jupyterWith) - 基于Nix的框架，用于定义声明性和可重现的Jupyter环境.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) - 用于浏览器通知单元格完成的单元魔术.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) - 包含数据集和包的Kaggle Python docker镜像.
+- [ML Workspace](https://github.com/ml-tooling/ml-workspace) -  Docker镜像，包括Jupyter（实验室）和各种数据科学/机器学习包.
 - [nteract](https://github.com/nteract/nteract) - 原生桌面笔记本前端.
 - [Stencila](https://github.com/stencila/stencila) - 原生桌面笔记本前端.
 
@@ -111,7 +112,7 @@
 
 - [ArcGIS](https://developers.arcgis.com/python/) - 用于处理地图和地理空间数据的库，由Web GIS提供支持.
 - [GenePattern Notebook](http://genepattern-notebook.org) - 将基因组分析与交互式笔记本集成.
-- [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - 探索性地理空间分析的扩展.
+- [GeoNotebook](https://github.com/OpenGeoscience/geonotebook) - Extension for exploratory geospatial analysis.
 - [lolviz](https://github.com/parrt/lolviz) - 用于列表，列表，词典列表的数据结构可视化工具.
 - [Quantopian Notebooks](https://www.quantopian.com/notebooks/survey) - 基于Jupyter的金融研究平台.
 - [vpython-jupyter](https://github.com/BruceSherwood/vpython-jupyter) - 在Jupyter笔记本中运行的VPython 3D引擎.
@@ -122,6 +123,7 @@
 - [Azure Notebooks](https://notebooks.azure.com) - 在Microsoft Azure上运行云端的Jupyter笔记本.
 - [CoCalc](https://cocalc.com) - 具有17种支持的内核类型的笔记本，课程管理，LaTeX文档创作，同步文档编辑以及与SageMath计算机代数系统的集成.
 - [DataScience.com](https://www.datascience.com) - 企业数据科学平台.
+- [Deepnote](https://www.deepnote.com) - 兼容Jupyter的数据科学笔记本，具有实时协作，版本控制和易于部署.
 - [Domino Data Lab](https://www.dominodatalab.com) - 具有集成协作工具，环境管理和计算网格的数据科学平台.
 - [Google Cloud Datalab](https://cloud.google.com/datalab/) - 与Google Cloud堆栈集成的Notebook平台.
 - [Google Colaboratory](https://research.google.com/colaboratory/unregistered.html) - 基于云的Jupyter环境，旨在机器学习教育和研究.
@@ -129,6 +131,7 @@
 - [Kyso](https://kyso.io) - 数据科学平台，作为数据博客和Web应用程序发布和共享Jupyter笔记本.
 - [PAWS](https://wikitech.wikimedia.org/wiki/PAWS) - 为与维基媒体wiki进行交互而定制的Jupyter笔记本部署.
 - [RMOTR Notebooks](https://notebooks.rmotr.com) - 基于JupyterLab的云数据科学环境.
+- [Spell.run](https://spell.run) - 用于机器学习和深度学习的端到端平台.
 
 ## Official Resources and Documentation
 

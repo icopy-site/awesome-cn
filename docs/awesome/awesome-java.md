@@ -36,7 +36,7 @@
 - [ASM](http://asm.ow2.org) - 通用的低级字节码操作和分析.
 - [Byte Buddy](http://bytebuddy.net) - 使用流畅的API进一步简化字节码生成.
 - [bytecode-viewer](https://github.com/Konloch/bytecode-viewer) -  Java 8 Jar＆Android APK逆向工程套件.
-- [Byteman](https://byteman.jboss.org)   - 通过DSL（规则）在运行时处理字节码;  主要用于测试/故障排除.
+- [Byteman](https://byteman.jboss.org) - Manipulate bytecode at runtime via DSL (rules); mainly for testing/troubleshooting.
 - [cglib](https://github.com/cglib/cglib) - 字节码生成库.
 - [Javassist](https://jboss-javassist.github.io/javassist) - 尝试简化字节码编辑.
 - [Mixin](https://github.com/SpongePowered/Mixin) - 使用真实Java代码在运行时处理字节码.
@@ -62,6 +62,7 @@
 - [Java ASCII Render](https://github.com/indvd00m/java-ascii-render) - 控制台的图形基元.
 - [JCommander](http://jcommander.org) - 具有自定义类型的命令行参数解析框架和通过实现接口的验证.
 - [jbock](https://github.com/h908714124/jbock) -  Typesafe，无反射，基于注释的命令行解析器 
+- [Jexer](https://gitlab.com/klamonte/jexer)   - 高级控制台（和Swing）文本用户界面（TUI）库，具有鼠标可拖动窗口，内置终端窗口管理器和sixel图像支持.  好像 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision).
 - [JLine](https://github.com/jline/jline3) - 包括现代贝壳的功能，如完成或历史.
 - [JOpt Simple](https://jopt-simple.github.io/jopt-simple) - Fluent parser that uses the POSIX#getopt and GNU#getopt_long syntaxes.
 - [picocli](http://picocli.info) - 使用的ANSI颜色和样式有助于基于注释的POSIX / GNU /任何语法，子命令，强选键入选项和位置参数.
@@ -369,6 +370,7 @@
 - [Retrofit](https://square.github.io/retrofit) -  Typesafe REST客户端.
 - [Ribbon](https://github.com/Netflix/ribbon) - 在云中经过实战测试的客户端IPC库.
 - [Riptide](https://github.com/zalando/riptide) -  Spring的RestTemplate的客户端响应路由.
+- [unirest-java](https://github.com/Kong/unirest-java) - 简化的轻量级HTTP客户端库.
 
 ### Hypermedia Types
 
@@ -418,7 +420,7 @@
 
 *用于处理JSON格式数据的库.*
 
-- [fastjson](https://github.com/alibaba/fastjson) - 非常快的处理器，没有额外的依赖性和完整的数据绑定.
+- [fastjson](https://github.com/alibaba/fastjson) - Very fast processor with no additional dependencies and full data binding.
 - [Jolt](https://github.com/bazaarvoice/jolt) -  JSON到JSON转换工具.
 - [JsonPath](https://github.com/jayway/JsonPath) - 使用类似XPATH的语法从JSON中提取数据.
 - [JsonSurfer](https://github.com/jsurfer/JsonSurfer) - 流JasonPath处理器，专用于处理大而复杂的JSON数据.
@@ -446,7 +448,7 @@
 - [Graylog](https://www.graylog.org) - 适用于扩展角色和权限管理的开源聚合器.
 - [Kibana](https://www.elastic.co/products/kibana)   - 分析和可视化日志文件.  某些功能需要付款.
 - [Logback](https://logback.qos.ch) - 通过Groovy提供有趣配置选项的强大日志库.
-- [Logbook](https://github.com/zalando/logbook) - 用于HTTP请求和响应记录的可扩展的开源库.
+- [Logbook](https://github.com/zalando/logbook) - 用于HTTP请求和响应记录的可扩展开源库.
 - [Logstash](https://www.elastic.co/products/logstash) - 用于管理日志文件的工具.
 - [p6spy](https://github.com/p6spy/p6spy) - 无需更改代码即可为所有JDBC事务记录日志.
 - [SLF4J](https://www.slf4j.org) - 抽象层/简单的伐木门面.
@@ -482,7 +484,7 @@
 - [Apache Qpid](https://qpid.apache.org) -  Apache Qpid使消息传递工具可以说AMQP并支持多种语言和平台.
 - [EventBus](https://github.com/greenrobot/EventBus) - 简单的发布/订阅事件总线.
 - [Hermes](http://hermes.allegro.tech) - 建立在Kafka之上的快速可靠的消息代理.
-- [JeroMQ](https://github.com/zeromq/jeromq) - Implementation of ZeroMQ.
+- [JeroMQ](https://github.com/zeromq/jeromq) -  ZeroMQ的实施.
 - [Nakadi](https://github.com/zalando/nakadi) - 在Kafka之上提供RESTful API.
 - [RabbitMQ Java client](https://github.com/rabbitmq/rabbitmq-java-client) -  RabbitMQ客户端.
 - [Smack](https://github.com/igniterealtime/Smack) - 跨平台XMPP客户端库.
@@ -765,7 +767,7 @@
 - [JGraphT](https://github.com/jgrapht/jgrapht) - 图形库，提供数学图论理论对象和算法.
 - [JGraphX](https://github.com/jgraph/jgraphx) - 用于可视化的库（主要是Swing）并与节点边图交互.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) - 用于地球物理科学计算，可视化和数字信号分析的库.
-- [Morpheus](http://www.zavtech.com/morpheus/docs) - Provides a versatile two-dimensional memory efficient tabular data structure called a DataFrame to enable efficient in-memory analytics for scientific computing on the JVM.
+- [Morpheus](http://www.zavtech.com/morpheus/docs) - 提供称为DataFrame的多功能二维内存高效表格数据结构，以便为JVM上的科学计算实现高效的内存分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts) - 生成各种3D图表，可以使用Swing和JavaFX显示或导出为PDF，SVG，PNG和JPEG.
 - [Tablesaw](https://github.com/lwhite1/tablesaw) - 包括数据框架，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)   - 用于绘制数据的轻量级库.  可以使用许多可自定义的图表类型.
@@ -800,7 +802,7 @@
 - [SecurityBuilder](https://github.com/tersesystems/securitybuilder) - 用于JCA和JSSE类的Fluent Builder API，尤其是X.509证书.
 - [Themis](https://github.com/cossacklabs/themis)   - 多平台高级加密库提供易于使用的加密，用于保护敏感数据：具有前向保密的安全消息传递，安全数据存储（AES256GCM）;  适合构建端到端加密应用程序.
 - [Tink](http://github.com/google/tink) - 为常见的加密任务提供简单且防误用的API.
-- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的键/值存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
+- [Vault](https://www.vaultproject.io)   - 保护，存储和严格控制对令牌，密码，证书，API密钥和其他机密的访问.  它处理租赁，密钥撤销，密钥滚动和审计.  通过统一的API，用户可以访问加密的Key / Value存储和网络加密即服务，或生成AWS IAM / STS凭证，SQL / NoSQL数据库，X.509证书，SSH凭据等.
 
 ### Serialization
 

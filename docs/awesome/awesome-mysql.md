@@ -93,6 +93,7 @@
 - [Liquibase](http://www.liquibase.org/) - 数据库的源代码管理
 - [Propagator](https://github.com/outbrain/propagator) - 在多种东西拓扑上集中架构和数据部署
 - [Shift](https://github.com/square/shift) - 可帮助您在MySQL数据库上运行架构迁移的应用程序
+- [Skeema](https://www.skeema.io) - 用于MySQL和MariaDB的声明式纯SQL模式管理系统，支持分片和外部在线模式更改工具
 - [Test database](https://github.com/datacharmer/test_db) - 带有集成测试套件的MySQL数据库示例，用于测试应用程序和服务器
 
 
