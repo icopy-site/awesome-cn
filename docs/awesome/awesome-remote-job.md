@@ -75,7 +75,6 @@
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
   1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
   1. [One day offices will be a thing of the past](https://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
-  1. [Remote Team Guide](https://x-team.gitbooks.io/remote-team-guide)
   1. [Remote versus Co-located Work](https://martinfowler.com/articles/remote-or-co-located.html)
   1. [Remote Work: How to work the Precision Nutrition way](http://www.precisionnutrition.com/remote-how-to-work-the-pn-way)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
@@ -108,7 +107,7 @@
   1. [Working Remotely for Extroverts](https://hoppycow.com/2014/12/13/working-remotely-for-extroverts/)
   1. [Yahoo, Best Buy, and Telecommuting: Advice From A Distributed Company](https://www.lullabot.com/articles/yahoo-best-buy-and-telecommuting-advice-from-a-distributed-company)
   1. [Your Commute Is Killing You](http://www.slate.com/articles/business/moneybox/2011/05/your_commute_is_killing_you.html)
-  
+
 ## Videos
   1. [David Copeland: The Effective Remote Developer](https://www.infoq.com/presentations/effective-remote-developer-2017)
   1. [Fluent 2013: Mike Hostetler, “Remote Working Works!”](https://www.youtube.com/watch?v=23oBUH270YU)
@@ -127,7 +126,7 @@
      作者：韦德福斯特（Zapier），2015年.
   1. [The Year Without Pants: WordPress.com and the Future of Work](http://scottberkun.com/yearwithoutpants/).
      作者：Scott Berkun，2013年.
-  
+
 ## Humor
 
   1. [Why working from home is both awesome and horrible](http://theoatmeal.com/comics/working_home)
@@ -172,7 +171,7 @@
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Remote People](https://remotepeople.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
-  1. [Slasify](https://slasify.com/en/) - 包括亚洲的远程技术，艺术/设计和营销机会，全球薪资服务. 
+  1. [Slasify](https://slasify.com/en/) - 包括亚洲的远程技术，艺术/设计和营销机会，全球薪资服务.
   1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [Vue.js Jobs](https://vuejobs.com/) 在世界各地查找Vue.js工作 - 单击“远程”选项卡.
@@ -218,7 +217,7 @@
   1. [The Surf Office](https://www.thesurfoffice.com/home/) - 在葡萄牙，加那利群岛和加利福尼亚州的接待和度假空间
   1. [Work From Curacao](http://www.workfromcuracao.com/) - 在库拉索岛占领空间
   1. [Worldpackers](https://www.worldpackers.com) - 住房/工作交流
-  
+
 ## Relocation Incentives
   1. [Live And Work In Maine](https://www.liveandworkinmaine.com/opportunity-maine/)   - 从您的州所得税中扣除每年学生贷款支出的金额.  州外居民必须在2015年之后获得学士学位或副学士学位才能获得资格.
   1. [Tulsa Remote](https://tulsaremote.com/) - 从塔尔萨获得10,000美元现金.
@@ -298,7 +297,7 @@
   1. [Collabora](https://www.collabora.com/careers.html) - 基于开源软件的咨询.
   1. [Collage](http://jobs.collage.com/)   - 我们提供最简单，最通用的工具，帮助您将照片变成记忆.  100％的远程团队.
   1. [Compose](https://www.compose.io/jobs/)   - 将数据库作为服务进行管理.  分布式团队在加利福尼亚州圣米特奥和阿拉巴马州伯明翰设有办事处.
-  1. [ConsenSys](https://consensys.net/careers/) - 区块链软件技术公司，在世界各地设有办事处，在更多地方设有独立员工. 
+  1. [ConsenSys](https://consensys.net/careers/) - 区块链软件技术公司，在世界各地设有办事处，在更多地方设有独立员工.
   1. [Continu](http://www.continu.co/careers/) - 为现代团队提供持续学习软件.
   1. [Countly](https://count.ly/full-stack-node-js-developer) - 开源，企业移动/网络分析和营销平台.
   1. [CRO Metrics](http://crometrics.com/jobs/) - Data-driven expirementation and growth programs.
@@ -487,7 +486,7 @@
 
 #### HR
   1. [Remoteteam.com](https://www.remoteteam.com) - 自动化的工资单，休假，人力资源工具和远程公司的合规性.
-  
+
 #### Communication
   1. [Bluejeans](https://bluejeans.com/) 视频会议应用程序，非常适合大型团体和直播
   1. [Codeshare.io](https://codeshare.io/) - 基于浏览器的多用户实时代码共享，可选视频聊天.
@@ -519,7 +518,7 @@
   1. [Outplanr](https://www.outplanr.com/) - 项目和任务管理工具.
   1. [Taskade](https://taskade.com/) - 团队的实时协作备注，清单和大纲.
   1. [Trello](https://trello.com/) - 精益项目委员会.
-  1. [Notion](http://notion.so/) - 所有在一个工作区中进行编写，计划，协作和组织. 
+  1. [Notion](http://notion.so/) - 所有在一个工作区中进行编写，计划，协作和组织.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) -  Coffitivity重现咖啡馆的环境声音，以提高您的创造力，并帮助您更好地工作.

@@ -6,6 +6,7 @@
 
 可以找到官方的Meteor资源页面 [here](https://www.meteor.com/tools/resources)
 
+- [Built With Meteor](#built-with-meteor)    
 
 - - -
 
@@ -29,6 +30,8 @@
 * [matb33:collection-hooks](https://github.com/matb33/meteor-collection-hooks/) - 使用insert / update / remove / find / findOne的挂钩之前/之后扩展Mongo.Collection.
 * [reywood:publish-composite](https://github.com/englue/meteor-publish-composite) - 使用反应式连接从各种集合中发布一组相关文档
 * [jagi:astronomy](https://github.com/jagi/meteor-astronomy/) -  Meteor的模型层
+* [cultofcoders:grapher](https://github.com/cult-of-coders/grapher) -  Grapher：Meteor Collection加入+ Reactive GraphQL之类的查询
+
 
 ## REST
 
@@ -48,7 +51,7 @@
 * [themeteorites:blaze-magic-events](https://github.com/themeteorites/blaze-magic-events) - 将事件处理程序绑定到Meteor的Blaze的html元素的新方法
 * [manuel:viewmodel](https://github.com/ManuelDeLeon/viewmodel) - 流星MVVM
 * [webix:webix](https://github.com/dandv/meteor-webix) -  Meteor.js  -  Webix UI集成
-* [uniforms](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `aldeed:simple-schema` and `simpl-schema`](https://github.com/vazco/uniforms/blob/master/INTRODUCTION.md#quick-start).
+* [uniforms](https://github.com/vazco/uniforms) - 一堆React组件和帮助器，可以轻松生成和验证表单. [Seamlessly integrate with `aldeed:simple-schema` and `simpl-schema`](https://github.com/vazco/uniforms/blob/master/INTRODUCTION.md#quick-start).
 
 ## Users and Authentication
 
@@ -66,24 +69,49 @@
 * [BrainTree](https://atmospherejs.com/patrickml/braintree) -  BrainTree的支付网关
 * [Instamojo](https://atmospherejs.com/instamojo/instamojo) -  Instamojo的支付网关
 
+## Administration
+
+*管理Meteor应用程序的工具*
+
+* [Meteor Candy](https://www.meteorcandy.com/) - 为您的应用添加管理面板的最快捷，最简单的方法
+* [yogiben:admin](https://github.com/yogiben/meteor-admin) - 完整的管理仪表板解决方案
+* [houston:admin](https://github.com/gterrono/houston) -  Meteor的零配置，Django Admin式管理员
+
+
+## Monitoring
+
+*用于监控Meteor应用程序的工具*
+
+* [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - 基于弹性APM的流星性能监测
+* [monti-apm-agent](https://github.com/monti-apm/monti-apm-agent) - 流星的性能监测
+* [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - 流星的性能监测
+
+
+## Performance
+
+*加速Meteor应用程序的工具*
+
+* [cultofcoders:redis-oplog](https://github.com/cult-of-coders/redis-oplog) -  Redis Oplog实现完全取代Meteor中的MongoDB Oplog
+* [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - 快速渲染的活动分支
+* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - 即使在DDP连接生效之前渲染您的应用程序
+* [epotek:method-cache](https://github.com/e-Potek/method-cache) - 使用DataLoader进行流星方法缓存
+
+
 ## Deployment
 
 *部署和维护Meteor应用程序的工具*
 
-* [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - 关于部署Meteor应用程序的博客文章
-* [BulletProof Meteor](https://bulletproofmeteor.com/)
-* [meteorhacks:kadira](https://github.com/meteorhacks/kadira) - 流星的性能监测.
 * [meteor-up](https://github.com/arunoda/meteor-up) - 流星部署.
+* [meteor-google-cloud](https://github.com/EducationLink/meteor-google-cloud) - 在Google Cloud App Engine上自动化Meteor部署灵活
+* [mup-aws-beanstalk](https://github.com/zodern/mup-aws-beanstalk) - 使用Meteor Up将Meteor应用程序部署到AWS Elastic Beanstalk
+* [meteor-azure](https://github.com/fractal-code/meteor-azure) - 在Azure App Service上自动执行Meteor部署
+* [pm2-meteor](https://github.com/andruschka/pm2-meteor) - 使用PM2部署，扩展和运行Meteor应用程序的最简单方法.
+* [meteorhacks:cluster](https://github.com/meteorhacks/cluster) -  Meteor的集群解决方案，具有负载平衡和服务发现功能
 * [davidyaha:collection2-migrations](https://github.com/davidyaha/meteor-collection2-migrations) - 在Meteor上使用collection2和简单模式进行自动数据库迁移
 * [percolate:migrations](https://github.com/percolatestudio/meteor-migrations) -  Meteor的简单迁移系统
-* [meteorhacks:fast-render](https://github.com/kadirahq/fast-render) - 即使在DDP连接生效之前渲染您的应用程序
-* [staringatlights:fast-render](https://github.com/abecks/meteor-fast-render) - 快速渲染的活动分支
-* [meteorhacks:cluster](https://github.com/meteorhacks/cluster) -  Meteor的集群解决方案，具有负载平衡和服务发现功能
-* [yogiben:admin](https://github.com/yogiben/meteor-admin) - 完整的管理仪表板解决方案
 * [demeteorizer](https://github.com/onmodulus/demeteorizer) - 将Meteor应用程序转换为“标准”Node.js应用程序
-* [houston:admin](https://github.com/gterrono/houston) -  Meteor的零配置，Django Admin式管理员
-* [pm2-meteor](https://github.com/andruschka/pm2-meteor) - 使用PM2部署，扩展和运行Meteor应用程序的最简单方法.
-* [kschingiz:meteor-elastic-apm](https://github.com/kschingiz/meteor-elastic-apm) - 基于弹性APM的流星性能监测
+* [When a Meteor finally hits production](https://medium.com/@davidyahalomi/when-a-meteor-finally-hits-production-6c37b81f795b) - 关于部署Meteor应用程序的博客文章
+
 
 ## Routers
 
@@ -100,6 +128,7 @@
 * Meteor离线支持工具*
 
 * [ground:db](https://github.com/GroundMeteor/db) -  GroundDB是一个薄层，提供Meteor离线数据库和方法.
+* [npdev:collections](https://github.com/CaptainN/npdev-collections) - 使用SSR for Meteor创建离线集合的简便方法
 
 ## Testing
 
@@ -107,6 +136,7 @@
 
 * [Meteor Testing Manual](http://www.meteortesting.com/)
 * [mike:mocha](https://github.com/mad-eye/meteor-mocha-web/) - 在Meteor框架内运行mocha测试.
+* [hubroedu:mocha](https://github.com/hubroedu/meteor-mocha/) -  Decaffed cultofcoders：摩卡叉. 
 * [xolvio:chimp](https://github.com/xolvio/chimp)   - 测试如此简单，灵长类动物可以做到！  支持摩卡，黄瓜，茉莉和柴.
 * [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter) - 流星速度测试框架的HTML记者.
 * [Gagarin](https://github.com/anticoders/gagarin) - 您的流星应用程序的另一个测试框架.
@@ -121,7 +151,6 @@
 
 *处理Meteor中的文件*
 
-* [Meteor-CollectionFS](https://github.com/CollectionFS/Meteor-CollectionFS) -  Meteor基于web的文件系统处理和下载.
 * [ostrio:files](https://github.com/VeliovGroup/Meteor-Files)   - 通过DDP，HTTP和WebRTC / DC上传文件.  到Meteor服务器FS，AWS，GridFS，DropBox或Google Drive.  快速，安全和强大.
 * [netanelgilad:excel](https://github.com/netanelgilad/meteor-excel) - 解析和生成excel文件（xlsx，xls）.
 
@@ -142,7 +171,7 @@
 
 * [meteoric:ionic](https://github.com/meteoric/meteor-ionic) -  Meteor的离子组件.
 * [driftyco:ionic](https://github.com/driftyco/ionic) -  Meteor官方Ionic支持.
-* [raix:push](https://github.com/raix/push) - 推送cordova（ios，android）浏览器（Chrome，Safari，Firefox）的通知.
+* [raix:push](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [martijnwalraven:meteor-ios](https://github.com/martijnwalraven/meteor-ios) - 通过DDP将本机iOS应用程序与Meteor平台集成.
 * [delight-im/Android-DDP](https://github.com/delight-im/Android-DDP) - 适用于Android的客户端的DDP.
 * [okland:accounts-phone](https://github.com/okland/accounts-phone) - 基于Meteor移动电话号码的登录服务.
@@ -168,6 +197,7 @@
 
 *流星中的Cron Jobs *
 
+* [msavin:sjobs](https://github.com/msavin/stevejobs/) - 流星优先作业队列/任务调度程序
 * [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron)   -  Meteor的Cron系统.  它支持在多个进程之间同步作业.
 * [vsivsi:job-collection](https://github.com/vsivsi/meteor-job-collection/) -  Meteor的持久且反应性的作业队列，支持可在任何地方运行的分布式工作人员.
 * [ostrio:cron-jobs](https://github.com/VeliovGroup/Meteor-CRON-jobs) - 具有与本机`setTimeout`和`setInterval`方法类似的API的包，但在所有正在运行的Meteor（NodeJS）实例之间同步.
@@ -223,13 +253,12 @@
 
 * Blaze的替代前端框架*
 
-* [Blaze](http://blazejs.org/guide/introduction.html)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - 使用React和Meteor
-* [Angular](https://github.com/Urigo/angular-meteor) - 使用Angular和Meteor
-* [Angular 2](https://github.com/Urigo/angular2-meteor) - 使用Angular 2和Meteor
-* [Famo.us](https://github.com/gadicc/meteor-famous-views/) -  Famo.us和Meteor
 * [Vue](https://github.com/Akryum/meteor-vue-component) - 使用Vue和Meteor（加上单文件组件和apollo支持）
-
+* [Svelte](https://github.com/meteor-svelte/meteor-svelte) - 使用Meteor和Svelte构建具有控制论功能的Web应用程序
+* [Angular 2](https://github.com/Urigo/angular2-meteor) - 使用Angular 2和Meteor
+* [Angular](https://github.com/Urigo/angular-meteor) - 使用Angular和Meteor
+* [Famo.us](https://github.com/gadicc/meteor-famous-views/) -  Famo.us和Meteor
 * [frozeman:build-client](https://github.com/frozeman/meteor-build-client) - 捆绑Meteor应用程序的客户端部分的工具.
 * [Asteroid](https://github.com/mondora/asteroid) -  Meteor后端的另一个客户端
 * [ddp.js](https://github.com/mondora/ddp.js) - 同构JavaScript DDP客户端
@@ -246,13 +275,14 @@
 
 ## Resources
 
-在哪里发现新的流星事物.
+*在哪里发现新的流星事物*
 
 ## Books
 
 * [Meteor Explained](https://gumroad.com/l/meteor-explained)
 * [Meteor Tips](http://meteortips.com/)
 * [Meteor Cookbook](https://github.com/awatson1978/meteor-cookbook)
+* [Secure Meteor](https://www.securemeteor.com/)
 
 ## Courses
 
@@ -261,7 +291,7 @@
 * [Udemy - A Beginner's Guide to the Meteor JavaScript Framework](https://www.udemy.com/meteorjs/)
 * [tuts+ - Single Page Web Apps with Meteor](http://code.tutsplus.com/courses/single-page-web-apps-with-meteor)
 * [DevFreeCasts.org](http://devfreecasts.org/meteor/)
-* [MeteorTuts](http://meteortuts.com/)
+* [MeteorTuts](http://meteor-tuts.com/)
 
 ## Tutorials
 
@@ -315,6 +345,14 @@
 ## Job Boards
 
 * [We Work Meteor](https://www.weworkmeteor.com/)
+
+## Built With Meteor
+
+*使用流星建造的商业级应用*
+
+* [Qualia](https://www.qualia.com/) - 房地产初创公司
+* [Code Signal](https://codesignal.com/) - 基于技能的评估平台
+ 
 
 ## [Contributing](https://github.com/urigo/awesome-meteor/blob/master/CONTRIBUTING.md)
 

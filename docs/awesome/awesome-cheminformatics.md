@@ -100,6 +100,8 @@
 
 * [Learncheminformatics.com](http://learncheminformatics.com/) - 印第安纳大学的“化学信息学：浏览化学数据世界”.
 * [cheminfoeducation](https://www.youtube.com/user/cheminfoeducation/videos) - 用于化学信息学教育的YouTube频道.
+* [TeachOpenCADD](https://github.com/volkamerlab/TeachOpenCADD) - 使用开源软件包和数据的计算机辅助药物设计（CADD）教学平台.
+* [ChemInformatics course of University of Arkansas at Little Rock](https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/ChemInformatics_(2017)％3A_Chem_4399％2F％2F5399） - 小佛罗里达大学阿肯色大学化学信息学课程（2017年春季）
 
 ### Blogs
 

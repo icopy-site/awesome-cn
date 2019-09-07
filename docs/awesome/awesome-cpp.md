@@ -888,7 +888,7 @@
 * [Geany](http://www.geany.org/)   - 小巧，快速，跨平台的IDE.  [GPL]
 * [IBM VisualAge](http://www-03.ibm.com/software/products/en/visgen) -  IBM的一系列计算机集成开发环境.
 * [Irony-mode](https://github.com/Sarcasm/irony-mode) - 由libclang驱动的Emacs的AC / C ++次要模式.
-* [juCi++](https://github.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
+* [juCi++](https://gitlab.com/cppit/jucipp)   - 具有libclang集成的跨平台轻量级C ++ IDE.  [MIT]
 * [KDevelop](https://www.kdevelop.org/) - 免费的开源IDE.
 * [Microsoft Visual Studio](https://www.visualstudio.com/) -  Microsoft的IDE.
 * [NetBeans](https://netbeans.org/) - 主要用Java开发的IDE，也包括其他语言，特别是PHP，C / C ++和HTML5.

@@ -52,6 +52,7 @@
 
 - [Appernetic](https://appernetic.io) - 使用Hugo和GitHub Pages对静态网站进行可视内容管理.
 - [Netlify](https://netlify.com) - 用于自动化现代Web项目的一体化平台.
+- [ZEIT Now](https://zeit.co) - 适用于现代Web应用程序的一体化无服务器平台，具有无配置工具和工作流程.
 
 ## JAMstack Sites Showcase
 
@@ -79,7 +80,7 @@
 ## CMS
 
 - [Contentful](https://contentful.com) - 数字团队的内容基础架构.
-- [NetlifyCMS](https://netlifycms.org/) - 着名的数字艺术博客.
+- [NetlifyCMS](https://netlifycms.org/) - 开源的基于Git的CMS.
 - [ButterCMS](https://buttercms.com/) - 无头CMS和内容API.
 - [Scrivito](https://scrivito.com) - 为数字代理商和中型到大型企业构建的基于云的JavaScript CMS.
 - [GraphCMS](https://graphcms.com) -  GraphQL无头CMS.
@@ -88,8 +89,8 @@
 - [DatoCMS](https://datocms.com) - 您的编辑喜欢的基于API的CMS.
 - [Prose](https://prose.io) -  Prose是GitHub的内容编辑器，专为管理网站而设计.
 - [Tipe](https://tipe.io) - 下一代API-first CMS.
-- [Forestry](https://forestry.io) - 使用Hugo和Jekyll构建的静态站点的无头CMS.
-- [Coisas](https://github.com/fiatjaf/coisas) - A client-side CMS for editing GitHub Markdown (and other) files.
+- [Forestry](https://forestry.io) - 用于使用静态站点生成器构建的站点的无头CMS.
+- [Coisas](https://github.com/fiatjaf/coisas) - 用于编辑GitHub Markdown（和其他）文件的客户端CMS.
 - [Cockpit](https://getcockpit.com/) - 自我托管的无头和api驱动的CMS.
 - [HeadlessCMS](https://headlesscms.org/) -  JAMstack站点的内容管理系统列表.
 - [TakeShape](https://www.takeshape.io/) - 无头GraphQL API CMS，只需单击一次即可部署到Netlify.
@@ -155,6 +156,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) - 无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 无服务器机器学习服务，可自动扩展自定义Google硬件（Tensor Processing Units）.
 - [Serverless](https://serverless.com/) - 用于部署和运行无服务器架构的工具包.
+- [Cloudinary](https://cloudinary.com/)   - 无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体小部件的SDK，以便于管理媒体，CDN，存储，转换等.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
@@ -164,7 +166,7 @@
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -  Mathias Biillman.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - 克里斯马克雷.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
-- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -  Traversy Media.
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - 凯尔马修斯.
 
 ## Tutorials / Articles

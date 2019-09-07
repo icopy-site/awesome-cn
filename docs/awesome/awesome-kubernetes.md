@@ -53,7 +53,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
- 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015包.  查看发布列以获取更多信息.
+ 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015捆绑包.  查看发布列以获取更多信息.
 
 -----------------------------------------------------------------------
 
@@ -130,7 +130,7 @@ Installers
 * [aks-engine](https://github.com/Azure/aks-engine) -  AKS Engine是在Azure上配置自我管理的Kubernetes集群的最简单方法.
 
 
-Main Resources
+主要资源
 =======================================================================
 
 * Kubernetes团队的官方资源*
@@ -287,7 +287,7 @@ Main Resources
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
-  - [Okteto](https://github.com/okteto/okteto)   - 直接在任何Kubernetes集群中开发.  不需要提交，构建或推送.
+  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required.
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
@@ -368,7 +368,7 @@ MOOC课程/教程
 * [Monitoring Kubernetes at Wayblazer](http://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
 * [Major League Soccer Monolith to Kubernetes Transition](http://sysdig.com/blog/monoliths-kubernetes-monitoring-transitioning-docker-major-league-soccer/)
 * [Using Kubernetes on AWS](https://github.com/hjacobs/kubernetes-on-aws-users)
-* [Kubernetes at Github](http://githubengineering.com/kubernetes-at-github/)
+* [Kubernetes at Github](https://github.blog/2017-08-16-kubernetes-at-github/)
 * [Kubernetes the hard way (installation from scratch)](http://github.com/kelseyhightower/kubernetes-the-hard-way/)
 * [Kubernetes Failure Stories](https://github.com/hjacobs/kubernetes-failure-stories)
 
@@ -471,6 +471,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Reloader](https://github.com/stakater/Reloader) - 将ConfigMaps和Secrets的更新自动加载到用于部署，StatefulSets和DaemonSets的pod中
 * [Telepresence](http://www.telepresence.io) - 针对远程Kubernetes集群进行本地开发/调试服务
+* [kubernetes-deploy](https://github.com/Shopify/kubernetes-deploy) - 一个命令行工具，可帮助您将更改发送到Kubernetes命名空间并了解结果
 
 ## Package Managers
 
@@ -699,6 +700,7 @@ Projects
 * [Kubernetes Resource Report](https://github.com/hjacobs/kube-resource-report) - 报告Kubernetes集群和pod资源请求与使用情况并生成静态HTML
 * [Kubeapps](https://github.com/kubeapps/kubeapps) - 基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
 * [Polaris](https://github.com/reactiveops/polaris) -  Kubernetes最佳实践的开源仪表板
+* [Octant](https://github.com/vmware/octant) - 基于Web的高度可扩展平台，供开发人员更好地了解Kubernetes集群的复杂性.
 
 ## Desktop applications
 
@@ -732,6 +734,7 @@ Projects
 * [stern](https://github.com/wercker/stern) - 多个容器和容器日志拖尾
 * [Vikube](https://github.com/c9s/vikube.vim) - 来自Vim的Vim的Kubernetes业务
 * [K9s](https://github.com/derailed/k9s) -  Kubernetes CLI管理你的风格集群！
+* [tubectl](https://github.com/reconquest/tubekit) -  Kubernetes CLI类固醇与模式匹配
 
 ## Application deployment orchestration
 
@@ -897,7 +900,7 @@ Books
 * [Docker and Kubernetes Under the Hood](http://item.jd.com/11757034.html) （中文） [Harry Zhang](https://twitter.com/resouer)，孙建波和浙江大学的实验室SEL
 * [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition) 作者：Jeff Nickoloff和Stephen Kuenzli
 * [Docker in Practice, Second Edition](https://www.manning.com/books/docker-in-practice-second-edition) 通过 [Ian Miell](https://twitter.com/ianmiell) & [Aidan Hobson Sayers](https://twitter.com/aidanhs)
-* [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
+* [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 作者：Jonathan Baier
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修帕尔默
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书）由Leverege Developers提供
 * [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) by Hideto Saito，Hui-Chuan Chloe Lee，Ke-Jou Carol Hsu
@@ -993,7 +996,7 @@ Videos
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb),  Software Engineer at Google & Google Kubernetes Engine
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，集团产品经理 -  Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
