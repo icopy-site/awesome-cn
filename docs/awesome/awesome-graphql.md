@@ -125,7 +125,7 @@
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -  JS类型系统的交互性.
 * [GraphiteJS](https://github.com/graphitejs/server) -  GraphQl的框架NodeJS.
 * [GraphQL Joker](https://github.com/zhangkaiyulw/graphql-joker) - 最终的GraphQL脚手架工具.
-* [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - 基于RxJS实现GraphQL并支持实时查询.
+* [reactive-graphql](https://github.com/mesosphere/reactive-graphql) - Implementation of GraphQL based on RxJS and that supports live queries.
 
 #### Relay Related
 
@@ -148,7 +148,7 @@
 * [graphql-ruby](https://github.com/rmosolgo/graphql-ruby) -  Ruby的GraphQL实现.
 * [graphql-client](https://github.com/github/graphql-client) - 用于声明，编写和执行GraphQL查询的Ruby库.
 * [graphql-batch](https://github.com/Shopify/graphql-batch) -  graphql gem的查询批处理执行程序.
-* [agoo](https://github.com/ohler55/agoo) - Ruby web server that implements Facebook's GraphQL.
+* [agoo](https://github.com/ohler55/agoo) - 实现Facebook的GraphQL的Ruby Web服务器.
 
 <a name="lib-php" />
 
@@ -200,7 +200,7 @@
 * [gaphql-java-type-generator](https://github.com/graphql-java/graphql-java-type-generator) - 自动生成用于GraphQL Java的类型
 * [schemagen-graphql](https://github.com/bpatters/schemagen-graphql)   - 模式生成和执行包，将POJO转换为GraphQL Java可查询对象集.  允许使用Annotations将任何服务公开为GraphQL服务.
 * [graphql-java-annotations](https://github.com/Enigmatis/graphql-java-annotations) - 使用GraphQL Java为模式定义提供基于注释的语法.
-* [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)   -  Schema-first graphql-java便利库，可以轻松将您自己的实现作为数据解析器.  灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) 对于JS.
+* [graphql-java-tools](https://github.com/graphql-java-kickstart/graphql-java-tools)   -  Schema-first graphql-java便利库，可以轻松将您自己的实现作为数据解析器.  灵感来自 [graphql-tools](https://github.com/apollographql/graphql-tools) for JS.
 * [graphql-java-servlet](https://github.com/graphql-java-kickstart/graphql-java-servlet) - 与框架无关的java servlet，用于通过GET，POST和分段上传公开graphql-java查询端点.
 * [spring-graphql-common](https://github.com/oembedler/spring-graphql-common) -  Spring Framework GraphQL库.
 * [graphql-spring-boot](https://github.com/oembedler/graphql-spring-boot) -  GraphQL和GraphiQL Spring Framework启动程序.
@@ -245,7 +245,7 @@
 
 * [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) -  GraphQL for .NET.
 * [graphql-net](https://github.com/ckimes89/graphql-net) -  GraphQL到IQueryable for .NET.
-* [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) - GraphQL server for .Net Core and .NET Framework.
+* [Hot Chocolate](https://github.com/ChilliCream/hotchocolate) -  .Net Core和.NET Framework的GraphQL服务器.
 
 <a name="lib-elixir" />
 
@@ -298,7 +298,7 @@
 
 ### Swift Libraries
 
-* [GraphQL](https://github.com/GraphQLSwift/GraphQL) -  GraphQL的Swift实现.
+* [GraphQL](https://github.com/GraphQLSwift/GraphQL) - The Swift implementation for GraphQL.
 
 <a name="lib-ocaml" />
 
@@ -400,6 +400,7 @@
 * [graphql-typed-client](https://github.com/helios1138/graphql-typed-client)   - 为任何GraphQL端点生成强类型客户端库的工具.  客户端允许将GraphQL查询编写为普通的JS对象（具有类型安全性和令人敬畏的代码完成体验）
 * [OpenAPI-to-GraphQL](https://github.com/ibm/openapi-to-graphql) - 采用任何OpenAPI规范（OAS）或swagger并创建GraphQL接口 - 两分钟视频和资源 [here](https://developer.ibm.com/open/projects/openapi-to-graphql/)
 * [SwitchQL](https://github.com/SwitchQL/SwitchQL) - 自动将数据库模式转换为GraphQL模式，解析器，查询和突变
+* [VulcanJS](http://vulcanjs.org) - 全栈React + GraphQL框架
 * [Apollo Client Developer Tools](https://github.com/apollographql/apollo-client-devtools) -  Chrome开发者控制台中Apollo Client的GraphQL调试工具
 
 <a name="databases" />
