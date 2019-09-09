@@ -868,7 +868,7 @@
 
 - [Beanmother](https://github.com/keepcosmos/beanmother) - 从YAML灯具设置bean.
 - [Fixture Factory](https://github.com/six2six/fixture-factory) - 从模板生成假对象.
-- [JFairy](https://github.com/Codearte/jfairy) - 假数据生成器.
+- [jFairy](https://github.com/Devskiller/jfairy) - 假数据生成器.
 - [Randomized Testing](https://github.com/randomizedtesting/randomizedtesting) -  JUnit测试运行器和用于以伪随机方式运行JUnit测试的插件.
 - [Java Faker](https://github.com/DiUS/java-faker) -  Ruby的虚假数据生成器的端口.
 

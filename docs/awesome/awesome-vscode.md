@@ -124,24 +124,17 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - 使用Clang命令完成和诊断C / C ++ / Objective-C.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery)  支持数百万行代码库，由libclang提供支持.  交叉引用，完成，诊断，语义突出显示等.
 
+#### More
+
+* [Microsoft's tutorial on using VSCode for remote C/C++ development](https://devblogs.microsoft.com/cppblog/vscode-cpp-may-2019-update/)
+
 ## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com)，读 [official documentation](https://code.visualstudio.com/docs/languages/csharp) 细节
-
 - [C# FixFormat](https://marketplace.visualstudio.com/items?itemName=Leopotam.csharpfixformat) - Fix format of usings / indents / braces / empty lines
-
 - [C# Extensions](https://marketplace.visualstudio.com/items?itemName=jchannon.csharpextensions) - 提供IDE扩展，加快您的开发工作流程.
-
-![C# Extensions](https://raw.githubusercontent.com/jchannon/csharpextensions/master/featureimages/fullpropfromctor.gif)
-
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
-
-![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
-
 - [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
-
-![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
-
 - [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
 
 ![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
@@ -206,8 +199,6 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 ### [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 
 &gt; VS代码扩展，用于在Chrome浏览器或支持Chrome调试协议的其他目标中调试JavaScript代码.
-
-![VS Code extension to debug your JavaScript code in the Chrome browser screenshot](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
 
 ## TypeScript
 
@@ -413,7 +404,7 @@ Microsoft创建了一系列使用VS Code和特定技术（主要是Web）的配�
 
 ## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
- &gt;此扩展将在编辑器中以导入包的大小显示内联.  该扩展使用带有babili-webpack-plugin的webpack来检测导入的大小. 
+ &gt;此扩展将在编辑器中以导入包的大小显示内联.  该扩展使用带有babili-webpack-plugin的webpack来检测导入的大小.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
 

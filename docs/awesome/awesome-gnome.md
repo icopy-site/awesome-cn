@@ -55,13 +55,13 @@
 ### Multimedia
 
 - [Webmusic](https://github.com/badcel/webmusic) - 基于Web的音乐播放器，可将您喜爱的音乐服务集成到桌面中.
-- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - Runtime for web-based music streaming services providing a more native user experience and integration with Linux desktop environments.
+- [Nuvola Player](https://tiliado.eu/nuvolaplayer/) - 基于Web的音乐流媒体服务的运行时，提供更加原生的用户体验并与Linux桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) - 功能强大，美观，简单的播客客户端，适用于现代免费桌面.
 - [Celluloid](https://github.com/celluloid-player/celluloid) -  mpv的简单GTK +前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) - 美妙的音乐应用.
 - [GRadio](https://github.com/haecker-felix/gradio/) - 基于网络的无线电客户端.
 - [Parlatype](http://gkarsay.github.io/parlatype/) - 专门用于转录的音频播放器.
-- [Pulseeffect](https://github.com/wwmm/pulseeffects) - 为PulseAudio应用提供限制器，压缩器，混响，均衡器和自动音量效果.
+- [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - 用于Linux的多媒体转换器
 - [Cozy](https://github.com/geigi/cozy) - 适用于Linux的有声读物播放器
 
@@ -158,7 +158,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配它们的终端颜色方案.
+- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配终端颜色方案.
 
 ### Adwaita-based
 
@@ -248,6 +248,13 @@
 ### IDE
 
 - [GNOME Builder](https://wiki.gnome.org/Apps/Builder) - 用于创建GNOME应用程序的官方IDE.
+
+### Design Tooling
+
+- [https://gitlab.gnome.org/World/design/icon-tool](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Preview) - 预览图标的简单实用程序.
+- [https://gitlab.gnome.org/World/design/palette](https://github.com/Kazhnuz/awesome-gnome/blob/master/Palette) - 用于查看GNOME调色板的工具.
+- [https://gitlab.gnome.org/World/design/contrast](https://github.com/Kazhnuz/awesome-gnome/blob/master/Contrast) - 检查两种颜色之间的对比度.
+- [https://gitlab.gnome.org/World/design/icon-library](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Library) - 找到要在GNOME应用程序上使用的正确图标.
 
 ### Libraries and Utility
 

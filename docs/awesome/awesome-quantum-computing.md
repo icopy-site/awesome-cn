@@ -16,6 +16,8 @@
 
 ## Learning
 
+- [Learn Quantum Computation using Qiskit](http://community.qiskit.org/textbook) - 一本开源教科书
+   量子算法并展示如何使用Qiskit在真实硬件上运行它们.  还包括先决条件.
 - [An Interactive Introduction to Quantum Computing](https://davidbkemp.github.io/QuantumComputingArticle/) -  David Kemp对量子门计算的互动学习.
 - [CNOT](https://cnot.io/) - 易于理解，逐步介绍量子计算概念.
 - [Documentation for Forest and pyQuil](http://pyquil.readthedocs.io/en/latest/) -  Rigetti Computing的SDK教程.
@@ -32,7 +34,7 @@
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) - 四个量子比特光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) - 量子机器学习算法的解释.
-- [Quirk](http://algassert.com/quirk) - 基于浏览器的拖放量子电路仿真器，可实时响应，模拟和动画.
+- [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
 - [The Quantum Quest](https://www.quantum-quest.nl/) - 为高中生设计的量子计算原理入门网络课程. 
 
 ## MOOCs
@@ -49,13 +51,13 @@
 ## Development Tools
 
 - [Cirq](https://github.com/quantumlib/Cirq) - 用于编写，操作和优化NISQ电路以在量子计算机上运行的Python库.
-- [IBM Quantum Composer](https://quantumexperience.ng.bluemix.net/qx/editor) - 在线量子作曲家在真实量子计算硬件上运行实验.
+- [IBM Quantum Experience](https://quantum-computing.ibm.com) - 在线量子作曲家在真实量子计算硬件上运行实验.
 - [NISQAI](https://github.com/quantumai-lib/nisqai) - 用于在近期量子计算机上执行量子人工智能的库.
 - [Ocean](https://docs.ocean.dwavesys.com/en/latest/overview/install.html) -  D-Wave用于使用Python在量子计算机上进行开发的SDK.
 - [Project Q](http://projectq.ch/) - 在Python中实现量子计算的框架.
 - [pyQuil](https://github.com/rigetticomputing/pyquil) - 使用Quil by Rigetti进行量子编程的Python库.
 - [QCL](http://tph.tuwien.ac.at/~oemer/qcl.html)   - 用于量子计算机的旧式C语言.  只有一个模拟器和调试器.
-- [Qiskit SDK](https://github.com/Qiskit/qiskit-sdk-py) -  IBM的软件开发工具包，用于处理OpenQASM和IBM Q Experience.
+- [Qiskit SDK](https://qiskit.org) -  IBM的软件开发工具包，用于在模拟器和真实硬件上编写和运行量子算法.
 - [Qiskit.js](https://github.com/QISKit/qiskit-js) -  IBM制作的JavaScript的Qiskit.
 - [Qrack](https://vm6502q.readthedocs.io) - 高性能LGPL许可的C ++量子模拟器库，文档和测试代码.
 - [Quantum++](https://github.com/vsoftco/qpp) - 高性能的现代C ++ 11量子计算库.
@@ -67,6 +69,7 @@
 
 ## Blogs
 
+- [Qiskit blog](https://medium.com/qiskit) - 所有关于Qiskit社区团队的量子计算
 - [Algorithmic Assertions](http://algassert.com/) - 关于谷歌量子计算团队成员Craig Gidney的量子计算和计算.
 - [Bits of Quantum](http://blog.qutech.nl/) - 由QuTech机构，分享他们的研究和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) - 量子算法通过可视化向数据科学家解释.
@@ -92,6 +95,7 @@
 
 ## Videos
 
+- [Coding with Qiskit video series](https://www.youtube.com/playlist?list=PLOFEBzvs-Vvp2xg9-POLJhQwtVktlYGbY) -  YouTube视频系列，展示如何编写量子算法
 - [Introduction to Quantum Programming](https://skillsmatter.com/skillscasts/11929-programming-the-world-s-first-quantum-computers-using-forest) - 量子编程的原因和方法，重点关注Rigetti的Python Forest SDK.
 - [Quantum Computing for Computer Scientists](https://www.youtube.com/watch?v=F_Riqjdh2oM)   - 微软研究谈论计算机科学家的入门量子计算.  持续时间：1小时28分钟.
 - [Quantum Computing for the Determined](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4) - 关于量子计算基础的一系列讲座 [Michael Nielsen](http://michaelnielsen.org/).
@@ -100,7 +104,7 @@
 ## Community
 
 - [D-Wave Leap Community](https://support.dwavesys.com/hc/en-us/community/topics) -  D-Wave系统的飞跃社区论坛. 
-- [IBM Q Community](https://quantumexperience.ng.bluemix.net/qx/community) -  IBM Quantum体验社区论坛.
+- [IBM Q Community](https://community.qiskit.org/) -  IBM Q社区页面，其中包含即将举办的活动和最新计划的列表.
 - [IBM Q Qiskit Community](https://qiskit.slack.com/) - 用于Qiskit和量子计算讨论的Slack Channel.
 - [Mike & Ike Subreddit](https://www.reddit.com/r/MikeAndIke/) - 讨论量子计算和量子信息这本书. 
 - [Pennylane Discussion Forum](https://discuss.pennylane.ai/) - 量子机器学习的讨论论坛，使用模拟和近期硬件.
@@ -114,4 +118,4 @@
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
+在法律允许的范围内， [Desiree Vogt-Lee](https://github.com/desireevl) 已放弃对此作品的所有版权及相关或相邻权利.

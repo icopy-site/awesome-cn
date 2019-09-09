@@ -1,5 +1,6 @@
 <div class="github-widget" data-repo="ujjwalkarn/Machine-Learning-Tutorials"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+
 ## Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
   - 此存储库包含主题明确的机器学习和深度学习教程列表，文章和其他资源.  其他很棒的列表可以在这里找到 [list](https://github.com/sindresorhus/awesome).
@@ -1069,6 +1070,18 @@
     - [adaBag R package](https://cran.r-project.org/web/packages/adabag/adabag.pdf)
     
     - [Tutorial](http://math.mit.edu/~rothvoss/18.304.3PM/Presentations/1-Eric-Boosting304FinalRpdf.pdf)
+
+-  CatBoost
+
+    - [CatBoost Documentation](https://catboost.ai/docs/)
+
+    - [Benchmarks](https://catboost.ai/#benchmark)
+
+    - [Tutorial](https://github.com/catboost/tutorials)
+
+    - [GitHub Project](https://github.com/catboost)
+
+    - [CatBoost vs. Light GBM vs. XGBoost](https://towardsdatascience.com/catboost-vs-light-gbm-vs-xgboost-5f93620723db)
 
 <a name="ensem" />
 

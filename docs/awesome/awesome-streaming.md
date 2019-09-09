@@ -45,6 +45,7 @@ Mesos，专为需要灵活性和控制的高性能数据处理作业而设计.
 - [StreamAlert](https://github.com/airbnb/streamalert) [Python]  -  Airbnb的实时数据分析和警报.
 - [Swave](https://github.com/sirthias/swave) [Scala]  -  Scala的轻量级Reactive Streams基础架构工具包.
 - [Streamz](https://github.com/python-streamz/streamz)  [Python]  - 一个轻量级库，用于构建管道以管理连续的数据流;  支持复杂的管道，包括分支，连接，流量控制，反馈，背压等.
+- [Stream Ops](https://github.com/nanosai/stream-ops-java) [Java]  - 一个完全可嵌入的数据流引擎和Java流处理API.
 
 ### Streaming Application
 
