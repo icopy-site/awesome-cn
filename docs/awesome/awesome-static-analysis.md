@@ -26,6 +26,7 @@
     <li><a href="#crystal">Crystal</a></li>
     <li><a href="#dlang">Dlang</a></li>
     <li><a href="#elixir">Elixir</a></li>
+    <li><a href="#elm">Elm</a></li>
     <li><a href="#erlang">Erlang</a></li>
     <li><a href="#f">F#</a></li>
     <li><a href="#fortran">Fortran</a></li>
@@ -116,7 +117,7 @@
 * [code-cracker](https://github.com/code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
 * [CodeRush](https://www.devexpress.com/products/coderush/) ：copyright： - 在Visual Studio 2015及更高版本中使用Roslyn引擎的代码创建，调试，导航，重构，分析和可视化工具.
 * [CSharpEssentials](https://github.com/DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
-* [Designite](http://www.designite-tools.com)  ：copyright： -  Designite是一种软件设计质量评估工具.  它支持检测实现和设计气味，计算各种代码质量指标和趋势分析.
+* [Designite](http://www.designite-tools.com) ：copyright： -  Designite支持检测各种架构，设计和实现气味，计算各种代码质量指标和趋势分析.
 * [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) -  Gendarme检查包含ECMA CIL格式（Mono和.NET）代码的程序和库.
 * [NDepend](http://www.ndepend.com/) ：copyright： - 测量，查询和可视化您的代码，避免意外问题，技术债务和复杂性.
 * [Puma Scan](https://github.com/pumasecurity/puma-scan) - 随着开发团队在Visual Studio中编写代码，Puma Scan为常见漏洞（XSS，SQLi，CSRF，LDAPi，加密，反序列化等）提供实时安全代码分析.
@@ -142,6 +143,10 @@
 
 * [credo](https://github.com/rrrene/credo) - 静态代码分析工具，侧重于代码一致性和教学.
 * [sobelow](https://github.com/nccgroup/sobelow) -  Phoenix Framework的以安全为中心的静态分析
+
+## Elm
+
+* [elm-analyse](https://stil4m.github.io/elm-analyse/) - 一种工具，允许您分析您的Elm代码，识别缺陷并应用最佳实践.
 
 ## Erlang
 
@@ -173,7 +178,7 @@
 * [goconst](https://github.com/jgautheron/goconst) - 查找可以用常量替换的重复字符串.
 * [gocyclo](https://github.com/fzipp/gocyclo) - 计算Go源代码中函数的圈复杂度.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - 检查代码是否格式正确，无法进一步简化.
-* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 检查丢失或未引用的包导入.
+* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) - “Go Meta Linter”的替代方案：GolangCI-Lint是一个直接聚合器.
 * [golint](https://github.com/golang/lint) - 在Go源代码中打印出编码风格错误.
 * [goreporter](https://github.com/wgliang/goreporter) - 同时运行许多短路并将其输出规范化为报告.
@@ -190,7 +195,7 @@
 * [nargs](https://github.com/alexkohler/nargs) - 在函数声明中查找未使用的参数.
 * [prealloc](https://github.com/alexkohler/prealloc) - 查找可能预先分配的切片声明.
 * [revive](https://github.com/mgechev/revive)   -  Go的快速，可配置，可扩展，灵活和美观的linter.  直接替换golint.
-* [safesql](https://github.com/stripe/safesql) -  Golang的静态分析工具，可防止SQL注入.
+* [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
 * [structcheck](https://github.com/opennota/check) - 查找未使用的结构字段.
 * [test](http://golang.org/pkg/testing/) - 从stdlib测试模块显示测试失败的位置.
 * [testify](https://github.com/stretchr/testify) - 显示失败的证词断言的位置.
@@ -221,6 +226,7 @@
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - 通过处理已编译Java文件的字节码来计算Chidamber和Kemerer面向对象的度量
 * [ClassGraph](https://github.com/classgraph/classgraph) - 用于查询或可视化类元数据或类相关性的类路径和模块路径扫描程序
 * [CogniCrypt](https://www.eclipse.org/cognicrypt/) - 检查Java源代码和字节代码是否存在加密API的错误使用
+* [DesigniteJava](http://www.designite-tools.com/designitejava) ：copyright： -  DesigniteJava支持检测各种架构，设计和实现气味，以及各种代码质量指标的计算.
 * [Error-prone](https://github.com/google/error-prone) - 将常见的Java错误作为编译时错误捕获
 * [fb-contrib](https://github.com/mebigfatguy/fb-contrib) -  FindBugs的插件，带有额外的bug探测器
 * [Find Security Bugs](https://find-sec-bugs.github.io/) - 用于Java Web应用程序安全审核的IDE / SonarQube插件.
@@ -240,7 +246,7 @@
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
 * [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
-* [coffeelint](https://github.com/clutchski/coffeelint) - 样式检查器，有助于保持CoffeeScript代码的清洁和一致性.
+* [coffeelint](https://github.com/clutchski/coffeelint) - A style checker that helps keep CoffeeScript code clean and consistent.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
 * [escomplex](https://github.com/jared-stilwell/escomplex) -  JavaScript系列抽象语法树的软件复杂性分析.
@@ -258,12 +264,12 @@
 * [standard](http://standardjs.com/) - 用于检查Javascript Styleguide问题的npm模块
 * [tern](https://github.com/ternjs/tern) - 用于深度跨编辑语言支持的JavaScript代码分析器
 * [xo](https://github.com/xojs/xo)   - 包含许多好东西的Opinionated但可配置的ESLint包装器.  强制执行严格且可读的代码.
-* [yardstick](https://github.com/calmh/yardstick) - Javascript code metrics
+* [yardstick](https://github.com/calmh/yardstick) -  Javascript代码指标
 
 ## Kotlin
 
 * [detekt](https://github.com/arturbosch/detekt) -  Kotlin代码的静态代码分析.
-* [ktlint](https://github.com/shyiko/ktlint) - 带有内置格式器的反自行车Kotlin短绒
+* [ktlint](https://github.com/shyiko/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 
 ## Lua
 
@@ -590,7 +596,7 @@
 
 * [android-lint-summary](https://github.com/passy/android-lint-summary) - 将多个项目的lint错误合并到一个输出中，一次检查多个子项目的lint结果.
 * [FlowDroid](https://github.com/secure-software-engineering/soot-infoflow-android) - 适用于Android应用程序的静态污点分析工具
-* [paprika](https://github.com/GeoffreyHecht/paprika) - A toolkit to detect some code smells in analyzed Android applications.
+* [paprika](https://github.com/GeoffreyHecht/paprika) - 用于检测分析的Android应用程序中的某些代码气味的工具包.
 * [qark](https://github.com/linkedin/qark) - 查找多个与安全相关的Android应用程序漏洞的工具
 
 ## Packages
@@ -618,7 +624,7 @@
 
 * [After the Deadline](https://afterthedeadline.com/) ：警告： - 拼写，风格和语法检查
 * [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码
-* [languagetool](https://github.com/languagetool-org/languagetool)   -  25种语言的风格和语法检查.  它发现了一个简单的拼写检查程序无法检测到的许多错误.
+* [languagetool](https://github.com/languagetool-org/languagetool) - Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
 * [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复常见拼写错误的快速工具，源代码中的拼写错误
 * [Misspelled Words In Context](https://github.com/jwilk/mwic) - 一种拼写检查器，可以对可能的拼写错误进行分组并在其上下文中显示它们
 * [proselint](https://github.com/amperser/proselint/) - 英语散文的点缀，专注于写作风格而不是语法.
@@ -651,9 +657,9 @@
 
 ## More collections
 
-* [go-tools](https://github.com/dominikh/go-tools) - A collection of tools and libraries for working with Go code, including linters and static analysis
+* [go-tools](https://github.com/dominikh/go-tools) - 用于处理Go代码的工具和库的集合，包括链接和静态分析
 * [linters](https://github.com/mcandre/linters) - 静态代码分析简介
-* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) -  A reviewed list of useful PHP static analysis tools
+* [php-static-analysis-tools](https://github.com/exakat/php-static-analysis-tools) - 经过审核的有用PHP静态分析工具列表
 * [Tools for Tcl](https://wiki.tcl-lang.org/page/Static+syntax+analysis#95329c336da897c3dea8ab434ca30575f4529bf6f514c1519881bd126e1d1423) - 一个包含多个Tcl检查器和静态语法分析工具的wiki页面.
 * [Wikipedia](http://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) - 静态代码分析工具列表.
 

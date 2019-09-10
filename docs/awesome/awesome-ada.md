@@ -185,7 +185,7 @@
 
 #### Text Modes
 - [gnu-emacs-ada-mode](http://www.nongnu.org/ada-mode/) - 用于编辑Ada源的Gnu Emacs主模式.
-- [vim-ada-bundle](https://www.vim.org/scripts/script.php?script_id=1609) -  Ada Bundle：完整的Ada-Mode为Vim-Ball或Tar.bz2.
+- [vim-ada-bundle](https://github.com/thindil/Ada-Bundle) - 维护Ada Bundle：为Vim / NeoVim提供完整的Ada-Mode
 - [ada-tmbundle](https://github.com/textmate/ada.tmbundle) - 对Ada的TextMate支持.
 
 ## Deployment
@@ -233,12 +233,12 @@
 - [ada-util](https://github.com/stcarrez/ada-util/) - 一个接近Java log4j框架的日志框架，支持属性，XML / JSON / CSV的序列化/反序列化框架，Ada bean框架，编码/解码框架（Base16，Base64，SHA，HMAC-SHA），一个组合流框架（原始，文件，缓冲区，管道，套接字），几个并发工具（引用计数器，计数器，池，fifos，数组），进程创建和管道，支持加载共享库（在Windows或Unix上），HTTP客户端库在上面CURL或AWS.
 - [gnatcoll-core](https://github.com/AdaCore/gnatcoll-core) - 这是GNAT Components Collection的核心模块.
 - [gnatcoll-bindings](https://github.com/AdaCore/gnatcoll-bindings) - 这是GNAT Components Collection的绑定模块.
-- [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - 这是GNAT Components Collection的DB模块.
+- [gnatcoll-db](https://github.com/AdaCore/gnatcoll-db) - This is the DB module of the GNAT Components Collection.
 - [gnatcoll-json](https://github.com/persan/gnatcoll-json) - 这是一组用于编写JSON接口的帮助程序，它包含大多数Ada运行时组件的JSON解析.
 - [ada-interface](https://github.com/Componolit/ada-interface)   - 这是一个与基于组件的系统的应用程序一起使用的接口集合.  它旨在轻松便携/平台独立，并与之兼容 [ada-runtime](https://github.com/Componolit/ada-runtime).
 
 #### Distributed
-- [poly-orb](https://github.com/AdaCore/PolyORB) -  PolyORB提供统一的解决方案，以依赖中间件标准构建分布式应用程序.
+- [poly-orb](https://github.com/AdaCore/PolyORB) - PolyORB provides a uniform solution to build distributed applications relying either on middleware standards.
 
 #### Graphical User Interface
 - [gnoga](https://sourceforge.net/projects/gnoga/) - 用于Ada的GNU Omnificent GUI.
@@ -271,7 +271,7 @@
 - [matreshka](http://forge.ada-ru.org/matreshka)   -  Matreshka是开发信息系统的Ada框架.  它由五个主要组件组成：联盟，XML处理器，Web框架，SQL访问和建模框架.
 
 #### Unit Test
-- [ahven](http://ahven.stronglytyped.org/) -  Ahven是一个简单的单元测试库和Ada编程框架.
+- [ahven](http://ahven.stronglytyped.org/) - Ahven is a simple unit test library and framework for the Ada programming.
  lanugage.  它是在JUnit和AUnit的一些想法之后松散建模的.
 - [aunit](http://libre.adacore.com/tools/aunit/) - 有一个单元测试框架.
 - [testing](https://github.com/Entomy/Testing) -  Ada单元测试和测量框架.
@@ -315,11 +315,11 @@
 - [dequesterity](https://sourceforge.net/projects/dequesterity/) -  Deque / buffer泛型，由构造块组成，可以以各种方式组合以创建更高的抽象缓冲区.
 - [pragmarc](https://github.com/jrcarter/PragmARC) -  PragmAda S / W Engineering的PragmAda可重用组件（PragmARCs）.
 - [libadacrypt](https://github.com/cforler/Ada-Crypto-Library) - 这是Ada的加密库，带有一个很好的API，是为i386和x86_64硬件架构编写的.
-- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - A cryptographic library implemented in SPARK.
+- [libsparkcrypto](https://github.com/Componolit/libsparkcrypto) - 在SPARK中实施的加密库.
 - [booch95](https://sourceforge.net/projects/booch95/) -  Ada 95 Booch组件是Grady Booch的C ++组件的一个端口.
 - [ada-id](https://github.com/anthony-arnold/AdaID) - 用于生成UUID的简单Ada库.
 - [ada-ga](https://github.com/frett27/Ada-GA) -  Ada的遗传算法实现.
-- [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - 用于Sodoku网格求解/查找的小型库.
+- [ada-sodoku](https://github.com/frett27/Ada-Sodoku) - Small Library for Sodoku grid solving / finding.
 - [sl3p](https://github.com/jklmnn/sl3p) - 简单的第3层协议.
 - [sip-hash](https://github.com/grim7reaper/SipHash) -  SipHash PRF的纯Ada实现.
 - [ada-lsp](https://github.com/reznikmm/ada-lsp) -  Ada的语言服务器协议.
@@ -413,7 +413,7 @@
 - [ada-stream-tools](https://github.com/persan/a-stream-tools.git) - 为Ada2005和2012提供流实用程序.
 - [ssprep](https://github.com/persan/ssprep.git) - 类似于jinja但使用的可扩展模板引擎 [template-parser](https://github.com/AdaCore/templates-parser) 用于命令行使用.
 - [licensing](https://github.com/mosteo/licensing) -  Ada的开源许可库.
-- [simple-logging](https://github.com/mosteo/simple_logging) - Easy to use logging facilities for output to console in Ada programs.
+- [simple-logging](https://github.com/mosteo/simple_logging) - 易于使用的记录功能，可在Ada程序中输出到控制台.
 - [rsfile](https://github.com/mosteo/rsfile) - 命令行实用程序，从文件夹层次结构中选取一个文件，其概率与其大小成比例.
 - [cstrings](https://github.com/mosteo/cstrings) - 与C字符串交互的便捷子程序.
 - [cvsweb2git](https://github.com/reznikmm/cvsweb2git) - 将Ada Conformity Assessment Authority上共享的CVS存储库导入Git存储库的工具.
@@ -464,15 +464,17 @@
 ## Applications
 
 #### Office
-- [azip](https://azip.sourceforge.io) - A free, portable Zip Archive Manager.
+- [azip](https://azip.sourceforge.io) - 免费的便携式Zip Archive Manager.
 - [texcad](https://texcad.sourceforge.io) -  TeXCAD是用于在LaTeX中绘制或修饰{picture}的程序.
 - [cbsg](http://cbsg.sf.net) - 企业废话发电机.
+- [hunter](https://github.com/thindil/hunter) -  Linux的图形（GtkAda）文件管理器.
 
 #### Mail
 - [trash-finder](http://www.rrsoftware.com/html/prodinf/tf/tf-main.html) - 垃圾搜索器是一个邮件过滤器，作为邮件服务器的插件运行，提供过滤数十个标准以及管理已知的好邮件.
 
 #### Web
 - [ironsides](http://ironsides.martincarlisle.com) -  SPARK / Ada验证的权威DNS服务器.
+- [yass](https://github.com/yet-another-static-site-generator/yass) - 又一个静态站点生成器（如Jekyll或Hugo）.
 
 #### Multimedia
 - [eagle-lander](https://github.com/Fabien-Chouteau/eagle-lander) - 阿波罗11号月球着陆器模拟器（Ada / Gtk / Cairo）.
@@ -530,7 +532,7 @@
 - [ada-net-framework-core](https://github.com/Alex-Gamper/Ada-NetFrameworkCore) - 用于Microsft NetFramework Api的Ada绑定.
 - [ada-net-framework](https://github.com/Alex-Gamper/Ada-NetFramework) - 用于Microsft NetFramework Api的Ada绑定（NetFrameworkCore上的包装）.
 - [ada-winrt](https://github.com/Alex-Gamper/Ada-WinRT) -  Microsft WinRT Fire有绑定.
-- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) - Ada bindings for the Microsoft Win32 Api.
+- [ada-win32](https://github.com/Alex-Gamper/Ada-Win32) -  Microsoft Win32 API有绑定.
 - [adasockets](https://github.com/samueltardieu/adasockets) -  IPv4套接字库（TCP，UDP和多播）.
 - [areadline](https://github.com/samueltardieu/areadline) - 读取线库的Ada接口.
 - [oto](https://github.com/darkestkhan/oto) -  Ada绑定到OpenAL，尝试在使用Ada类型时模仿原始API.

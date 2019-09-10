@@ -1322,8 +1322,8 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
       我=== arr.length  -  2
          ？  acc + val + end
         ：i === arr.length  -  1
-         ？  acc + val
-        ：acc + val + separator，
+           ？  acc + val
+          ：acc + val + separator，
     ''
   );
 ```
@@ -1409,7 +1409,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]）;  //&#39;abc&#39;
  longestItem（... [&#39;a&#39;，&#39;ab&#39;，&#39;abc&#39;]，&#39;abcd&#39;）;  // &#39;A B C D&#39;
  longestItem（[1,2,3]，[1,2]，[1,2,3,4,5]）;  // [1,2,3,4,5]
-longestItem([1, 2, 3], 'foobar'); // 'foobar'
+ longestItem（[1,2,3]，&#39;foobar&#39;）;  //&#39;foobar&#39;
 ```
 </details>
 
@@ -1807,7 +1807,9 @@ reduceWhich(
 
 ### reject
 
-采用谓词和数组，如`Array.prototype.filter（）`，但只保留`x`，如果`pred（x）=== false`.
+基于谓词函数过滤数组的值，仅返回谓词函数返回“true”的值.
+
+将`Array.prototype.filter（）`与谓词函数`pred`结合使用，只返回`pred（）`返回`true`的值.
 
 ```js
 const reject =（pred，array）=&gt; array.filter（（... args）=&gt;！pred（... args））;
@@ -1879,7 +1881,7 @@ const sample = arr =&gt; arr [Math.floor（Math.random（）* arr.length）];
 
 ```js
 const sampleSize =（[... arr]，n = 1）=&gt; {
-  let m = arr.length;
+  设m = arr.length;
   而（m）{
     const i = Math.floor（Math.random（）* m--）;
     [arr [m]，arr [i]] = [arr [i]，arr [m]];
@@ -1935,7 +1937,7 @@ const names = [&#39;alpha&#39;，&#39;bravo&#39;，&#39;charlie&#39;];
 
 ```js
 const shuffle =（[... arr]）=&gt; {
-  let m = arr.length;
+  设m = arr.length;
   而（m）{
     const i = Math.floor（Math.random（）* m--）;
     [arr [m]，arr [i]] = [arr [i]，arr [m]];
@@ -2708,7 +2710,7 @@ const bottomVisible =（）=&gt;
 
 
 
- ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，该API仍然是实验性的，但将来应该使用而不是此片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
+ ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，这仍然是实验性的，但应该在将来使用，而不是使用此代码片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
 
 将字符串复制到剪贴板. 
 仅在用户操作的结果下工作（即在“click”事件监听器内）.
@@ -2932,7 +2934,7 @@ const elementContains =（parent，child）=&gt; parent！== child &amp;&amp; pa
 它是部分可见的.
 
 ```js
-const elementIsVisibleInViewport =（el，partiallyVisible = false）=&gt; {
+const elementIsVisibleInViewport = (el, partiallyVisible = false) => {
   const {top，left，bottom，right} = el.getBoundingClientRect（）;
   const {innerHeight，innerWidth} = window;
   返回partialVisible
@@ -2958,7 +2960,7 @@ const elementIsVisibleInViewport =（el，partiallyVisible = false）=&gt; {
 将一组表单元素编码为“对象”.
 
 使用`FormData`构造函数将HTML`form`转换为`FormData`，`Array.from（）`转换为数组.
-Collect the object from the array, using `Array.prototype.reduce()`.
+使用`Array.prototype.reduce（）`从数组中收集对象.
 
 ```js
 const formToObject = form =&gt;
@@ -3216,7 +3218,7 @@ const nodeListToArray = nodeList =&gt; [... nodeList];
 const observeMutations =（element，callback，options）=&gt; {
   const observer = new MutationObserver（mutation =&gt; mutation.forEach（m =&gt; callback（m）））;
   observer.observe（
-    element,
+    元件，
     Object.assign（
       {
         childList：true，
@@ -3624,7 +3626,7 @@ triggerEvent（document.getElementById（&#39;myId&#39;），&#39;click&#39;，{
 
 ### UUIDGeneratorBrowser
 
-在浏览器中生成UUID.
+Generates a UUID in a browser.
 
 使用`crypto` API生成符合的UUID [RFC4122](https://www.ietf.org/rfc/rfc4122.txt) 版本4.
 
@@ -3756,10 +3758,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
-     ？  12 +&#39;pm&#39;
-    ：num &lt;12
-     ？  （num％12）+&#39;am&#39;
-    ：（无论12％）PM“;
+       ？  12 +&#39;pm&#39;
+      ：num &lt;12
+         ？  （num％12）+&#39;am&#39;
+        ：（无论12％）PM“;
 ```
 
 <details>
@@ -4923,11 +4925,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
-    ? 1
-    ：n *阶乘（n  -  1）;
+      ? 1
+      ：n *阶乘（n  -  1）;
 ```
 
 <details>
@@ -4991,7 +4993,7 @@ const gcd =（... arr）=&gt; {
 ### geometricProgression
 
 初始化一个数组，其中包含指定范围内的数字，其中`start`和`end`是包含的，两个术语之间的比率是`step`.
-Returns an error if `step` equals `1`.
+如果`step`等于`1`，则返回错误.
 
 使用`Array.from（）`，`Math.log（）`和`Math.floor（）`来创建一个所需长度的数组，`Array.prototype.map（）`来填充所需的值.范围.
 省略第二个参数`start`，使用默认值`1`.
@@ -5009,7 +5011,7 @@ const geometricProgression =（end，start = 1，step = 2）=&gt;
 
 ```js
  geometricProgression（256）;  // [1,2,4,8,16,32,64,128,256]
-geometricProgression(256, 3); // [3, 6, 12, 24, 48, 96, 192]
+ geometricProgression（256,3）;  // [3,6,12,24,48,96,192]
  geometricProgression（256,1,4）;  // [1,4,16,64,256]
 ```
 </details>
@@ -5354,7 +5356,7 @@ const powerset = arr =&gt; arr.reduce（（a，v）=&gt; a.concat（a.map（r =&
 ```js
 CONST第一NUM =&gt; {
   let arr = Array.from（{length：num  -  1}）.map（（x，i）=&gt; i + 2），
-    sqroot = Math.floor（Math.sqrt（num）），
+    sqroot = Math.floor(Math.sqrt(num)),
     numsTillSqroot = Array.from（{length：sqroot  -  1}）.map（（x，i）=&gt; i + 2）;
   numsTillSqroot.forEach（x =&gt;（arr = arr.filter（y =&gt; y％x！== 0 || y === x）））;
   返回
@@ -5503,7 +5505,7 @@ const sdbm = str =&gt; {
 
 ```js
 const standardDeviation =（arr，usePopulation = false）=&gt; {
-  const mean = arr.reduce((acc, val) => acc + val, 0) / arr.length;
+  const mean = arr.reduce（（acc，val）=&gt; acc + val，0）/ arr.length;
   返回Math.sqrt（
     arr.reduce（（acc，val）=&gt; acc.concat（（val  -  mean）** 2），[]）.reduce（（acc，val）=&gt; acc + val，0）/
       （arr.length  - （usePopulation？0：1））
@@ -6066,8 +6068,8 @@ const deepClone = obj =&gt; {
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-     ？  Array.from（OBJ）
-    ：克隆;
+       ？  Array.from（OBJ）
+      ：克隆;
 };
 ```
 
@@ -6083,7 +6085,7 @@ const a = {foo：&#39;bar&#39;，obj：{a：1，b：2}};
 
 ### deepFreeze
 
-Deep freezes an object.
+深度冻结一个物体.
 
 在`instanceof`对象的传递对象的所有未冻结属性上递归调用`Object.freeze（obj）`.
 
@@ -6151,13 +6153,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
         返回acc;
       }, {})
-    ：obj;
+      ：obj;
 ```
 
 <details>
@@ -6226,9 +6228,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        if（acc！== undefined）return acc;
-        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，undefined）;
+      if（acc！== undefined）return acc;
+      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，undefined）;
 ```
 
 <details>
@@ -6571,7 +6573,7 @@ const users = {
 
 比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`并进行严格比较，以确定第一个对象中是否存在所有键并具有相同的值.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和严格比较来确定第一个对象中是否存在所有键并具有相同的值.
 
 ```js
 const matches =（obj，source）=&gt;
@@ -6682,7 +6684,7 @@ const comments = [
   {id：2，parent_id：1}，
   {id：3，parent_id：1}，
   {id：4，parent_id：2}，
-  {id：5，parent_id：4}
+  { id: 5, parent_id: 4 }
 ];
  const nestedComments = nest（comments）;  // [{id：1，parent_id：null，children：[...]}]
 ```
@@ -6910,7 +6912,7 @@ const size = val =&gt;
      ？  val.length
     ：val &amp;&amp; typeof val ===&#39;object&#39;
      ？  val.size ||  val.length ||  Object.keys（VAL）.长度
-    ：typeof val ===&#39;string&#39;
+    : typeof val === 'string'
      ？  新的Blob（[val]）.尺寸
     : 0;
 ```
@@ -6981,7 +6983,7 @@ const truthCheckCollection =（collection，pre）=&gt; collection.every（obj =
 ```js
 const unflattenObject = obj =&gt;
   Object.keys（obj）.reduce（（acc，k）=&gt; {
-    if（k.indexOf（&#39;.&#39;）！== -1）{
+    if (k.indexOf('.') !== -1) {
       const keys = k.split（&#39;.&#39;）;
       Object.assign（
         ACC，
@@ -7532,7 +7534,7 @@ const reverseString = str =&gt; [... str] .reverse（）.join（&#39;&#39;）;
 
 按字母顺序对字符串中的字符进行排序.
 
-Use the spread operator (`...`), `Array.prototype.sort()` and  `String.localeCompare()` to sort the characters in `str`, recombine using `String.prototype.join('')`.
+使用扩展运算符（`...`），`Array.prototype.sort（）`和`String.localeCompare（）`来排序`str`中的字符，使用`String.prototype.join（&#39;&#39;）重新组合`.
 
 ```js
 const sortCharactersInString = str =&gt; [... str] .sort（（a，b）=&gt; a.localeCompare（b））.join（&#39;&#39;）;
@@ -7582,7 +7584,7 @@ const stringPermutations = str =&gt; {
   返回str
     .分裂（&#39;&#39;）
     .降低（
-      （acc，letter，i）=&gt;
+      (acc, letter, i) =>
         acc.concat（stringPermutations（str.slice（0，i）+ str.slice（i + 1））.map（val =&gt; letter + val）），
       []
     );
@@ -7945,7 +7947,7 @@ const isBoolean = val =&gt; typeof val ===&#39;boolean&#39;;
  isEmpty（{a：1，b：2}）;  //假
  的isEmpty（ &#39;文本&#39;）;  //假
  的isEmpty（123）;  // true  - 类型不被视为集合
- 的isEmpty（真）;  // true  - 类型不被视为集合
+isEmpty(true); // true - type is not considered a collection
 ```
 </details>
 
@@ -8715,7 +8717,7 @@ const serializeCookie =（name，val）=&gt;`$ {encodeURIComponent（name）} = 
 const timeTaken = callback =&gt; {
   console.time（ &#39;timeTaken&#39;）;
   const r = callback（）;
-  console.timeEnd（&#39;timeTaken&#39;）;
+  console.timeEnd('timeTaken');
   返回r;
 };
 ```

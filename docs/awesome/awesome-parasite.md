@@ -7,7 +7,7 @@
 
 寄生虫是由于其健康负担，多样性和复杂生态而在各种学科中研究的独特生物. 
 
-令人敬畏的寄生虫是由 [Anna Willoughby](https://arw36.github.io/) 并与...保持联系 [EcoHealth Alliance](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.ecohealthalliance.org) .  欢迎提供，请阅读 [contributing guidelines](https://github.com/ecohealthalliance/awesome-parasite/blob/master/contributing.md). 
+Awesome parasite was created by [Anna Willoughby](https://arw36.github.io/) 并与...保持联系 [EcoHealth Alliance](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.ecohealthalliance.org) .  欢迎提供，请阅读 [contributing guidelines](https://github.com/ecohealthalliance/awesome-parasite/blob/master/contributing.md). 
 
 - - -
 ## Databases
@@ -33,6 +33,7 @@
 * [Museum of Southwestern Biology, Division of Parasites](https://msb.unm.edu/divisions/parasites/index.html)   - 寄生虫两栖动物，爬行动物，鸟类和哺乳动物的标本收集.  特别关注高度地区的小型哺乳动物的寄生虫和新墨西哥州的塞维利亚长期生态研究站，以及海洋和南极洲的海鸟寄生虫.  可通过 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
 * [The International Outbreak Museum](http://www.outbreakmuseum.com) - 博物馆专注于人类食源性疾病暴发，每次爆发 [exhibit](http://www.outbreakmuseum.com/exhibits/)  是一次不同的历史爆发.  部分 [The Northwest Center for Foodborne Outbreak Management, Epidemiology, and Surveillance](https://health.oregonstate.edu/fomes). 
 * [U.S. National Parasite Collection](https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/parasitic-diseases-with-econom/u-s--national-animal-parasite-)   - 由美国农业部维护的标本收集，重点关注来自北美的农业重要的蠕虫和原生动物.  可通过 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
+* [Ohio State University Acarology Collection](https://acarology.osu.edu/database)   - 从1864年开始，来自全球各地的近70,000个蚯蚓标本.信息包括宿主物种，收集gps点，收集位置（例如耳朵）和收集方法.  也可以通过访问 [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
 
 ## Reporting Systems 
  * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive)   - 国际兽疫局的国家警报档案和某些病原体的定期报告.  它们还有一些很好的界面来显示疾病分布和时间表.

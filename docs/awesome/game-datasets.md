@@ -74,6 +74,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - 合作游戏关卡编辑器. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - 吃豆人游戏比赛. [Website](https://github.com/leomaurodesenv/game-datasets/blob/master/www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) -  Liero（类似于Worms）游戏.
+- [openmw](https://gitlab.com/OpenMW/openmw) - 开放世界RPG游戏. [Website](https://openmw.org/en/).
 - [Platformer AI](https://sites.google.com/site/platformersai/) - 超级马里奥比赛.
 - [polyworld](https://github.com/polyworld/polyworld) - 人工生命系统.
 - [qengine](https://github.com/klaussilveira/qengine) - 复古游戏引擎.
@@ -84,6 +85,8 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - 文字冒险游戏比赛. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) - 国际象棋引擎.
 - [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - 赛车模拟器.
+- [Vegan on a Desert Island](https://gitlab.com/voadi/voadi) - 岛上生存的冒险游戏.
+- [veloren](https://gitlab.com/veloren/veloren) - 沙盒游戏. [Website](https://veloren.net/).
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) - 基于roguelike比赛的多人转弯. [Documentation](https://pythonhosted.org/vindinium/).
 - [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - 末日游戏比赛. [Website](http://vizdoom.cs.put.edu.pl/).
 
@@ -186,6 +189,7 @@ API是一组功能和程序，允许创建访问操作系统，应用程序或�
 - [Academic Torrents](http://academictorrents.com/) - 共享庞大的数据集.
 - [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - 历史roguelike游戏. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - 与动漫，漫画和游戏相关的技术.
+- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - 收集开源游戏.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - 亚马逊公共数据集.
 - [data.world](https://data.world) - 数据集.
 - [datasets-games](https://github.com/cncplyr/datasets-games) - 来自各种游戏的数据集.

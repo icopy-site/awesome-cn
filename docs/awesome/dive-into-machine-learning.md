@@ -67,7 +67,7 @@
 
 整篇论文充满了价值，但我想说出两点：
 
-  -  **仅数据还不够.**这就是科学与机器学习中的艺术相遇的地方.  引用多明戈斯：“......对学习知识的需求不应该令人惊讶.机器学习不是魔术;它不能从无到有.它的作用是从更少的东西中获得更多.编程，就像所有的工程，是一个很多工作：我们必须从零开始构建一切.学习更像农业，让大自然完成大部分工作.农民将种子与养分结合起来种植农作物.学习者将知识与数据相结合，以发展计划.“
+  -  **仅数据还不够.**这就是科学与机器学习中的艺术相遇的地方.  引用多明戈斯：“......对学习知识的需求不应该令人惊讶.机器学习不是魔术;它不能从无到有.它的作用是从更少的东西中获得更多.编程，就像所有的工程，是一个很多工作：我们必须从零开始构建一切.学习更像农业，让大自然完成大部分工作.农民将种子与营养物质结合起来种植农作物.学习者将知识与数据相结合，以发展计划.“
   -  **更多数据胜过更聪明的算法.**听，程序员.  我们喜欢很酷的工具.  抵制重新发明轮子或过度设计解决方案的诱惑.  你的出发点是 [Do the Simplest Thing that Could _Possibly_ Work](http://www.artima.com/intv/simplest3.html) .  引用多明戈斯：“假设你已经构建了最好的功能集，但是你得到的分类器仍然不够准确.你现在能做什么？有两个主要选择：设计一个更好的学习算法，或者收集更多数据.[...]根据经验，一个拥有大量数据的愚蠢算法胜过一个数量适中的聪明算法.（毕竟，机器学习就是让数据完成繁重的工作.） “
 
  当您处理真正的机器学习问题时，在优化您的算法选择之前，您应该将精力集中在**领域知识**和**数据**上.  喜欢[做简单的事情]直到你__ve_增加复杂性.  你不应该急于进入神经网络，因为你觉得它们很酷.  为了改进您的模型，**获取更多数据.**然后使用您对问题的了解 [explore and process](https://www.thetalkingmachines.com/episodes/software-and-statistics-machine-learning)  数据.  在收集到足够的数据后，您应该只优化算法的选择，并且您已经很好地处理了它.
@@ -104,7 +104,7 @@ OK! Take a break, come back refreshed.
 接下来，挑选**这些IPython笔记本中的一个或两个**并一起玩.
 
 - [Face Recognition on a subset of the Labeled Faces in the Wild](http://nbviewer.jupyter.org/github/ogrisel/notebooks/blob/master/Labeled%20Faces%20in%20the%20Wild%20recognition.ipynb)
-- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“演示基本数据调整，分析和可视化技术.展示有监督机器学习技术的例子.”
+- [Machine Learning from Disaster](http://agconti.github.io/kaggle-titanic/)：使用泰坦尼克号数据，“演示基本数据调整，分析和可视化技术.显示监督机器学习技术的例子.”
 - [Election Forecasting](https://github.com/jseabold/538model)：模型的复制 [Nate Silver](https://fivethirtyeight.com/contributors/nate-silver/) 用于预测2012年美国总统选举_纽约时报_.
 - [An example Machine Learning notebook](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects/blob/master/example-data-science-notebook/Example%20Machine%20Learning%20Notebook.ipynb)：“让我们假装我们正在为一家刚刚获得资助的创业公司工作，创建一个智能手机应用程序，通过智能手机拍摄的照片自动识别花卉种类.我们的数据科学主管负责创建演示机器学习从花中进行四次测量的模型（萼片长度，萼片宽度，花瓣长度和花瓣宽度），并根据这些测量结果单独识别物种.“
 -  ClickSecurity的“数据黑客”系列（谢谢 [hummus](https://github.com/hummus)!)
@@ -122,7 +122,7 @@ OK! Take a break, come back refreshed.
 * [A Gallery of Interesting IPython notebooks (wiki page on GitHub): Statistics, Machine Learning and Data Science](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#statistics-machine-learning-and-data-science)
 * [Fabian Pedregosa's larger, automatic gallery](https://web.archive.org/web/20180227081121/http://nb.bianp.net/sort/views/)
 
- _知道另一款优秀笔记本吗？  请提交PR！_
+ _知道另一个伟大的笔记本吗？  请提交PR！_
 
 ----
 
@@ -186,10 +186,10 @@ OK! Take a break, come back refreshed.
 *以下是我发现的一些文档，特别有用，因为我继续学习：
 	* [Cookbook](http://pandas.pydata.org/pandas-docs/stable/cookbook.html)
 	* [Data Structures](http://pandas.pydata.org/pandas-docs/stable/dsintro.html)特别是 [DataFrame](http://pandas.pydata.org/pandas-docs/stable/dsintro.html#dataframe) 部分
-	* [Reshaping by pivoting DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/reshaping.html)
+	* [Reshaping by pivoting DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/reshaping.html)
 	* [Computational tools](http://p和as.pydata.org/p和as-docs/stable/computation.html) 和 [StackExchange thread: "What is covariance in plain language?"](https://stats.stackexchange.com/questions/29713/what-is-covariance-in-plain-language)
 	* [Group By (split, apply, and combine DataFrames)](http://pandas.pydata.org/pandas-docs/stable/groupby.html)
-	* [Visualizing your DataFrames](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+	* [Visualizing your DataFrames](https://pandas.pydata.org/pandas-docs/stable/user_guide/visualization.html)
 *以后需要缩放时的书签
 	* [The `odo` library](http://odo.readthedocs.io/) 用于在_many_格式之间进行转换.
 	* [`dask`](https://dask.org/) ：类似熊猫的界面，但对于大于内存的数据和“引擎盖下”的并行性.  非常有趣，但只有在你升级时才需要. 
@@ -303,7 +303,7 @@ From [the "Bayesian Machine Learning" overview on Metacademy](https://metacademy
 
 我不能说得更好：
 
-&gt; **机器学习不会弄清楚要解决的问题.**如果你不符合人类需求，那么你只需构建一个非常强大的系统来解决一个非常小或者可能不存在的问题.
+&gt; **机器学习不会弄清楚要解决的问题.**如果你不符合人类需求，那么你只需要构建一个非常强大的系统来解决一个非常小或者可能不存在的问题.
 
 报价来自 ["The UX of AI" by  Josh Lovejoy](https://design.google/library/ux-ai/)，整篇文章很棒！
 
@@ -342,7 +342,7 @@ Spoiler：你应该尽可能地与UX专家合作！
 
 无论如何，当您决定进入深度学习时，这里有一些有用的资源.
 
- * ** [“与[深度学习”一起享受David Humphrey的乐趣.]（https://github.com/humphd/have-fun-with-machine-learning）**这是一个很好的“获得成功的方式”你自己“和黑客第一.  然后你会感到很兴奋，继续...
+ * ** [“与[深度学习”一起享受David Humphrey的乐趣.]（https://github.com/humphd/have-fun-with-machine-learning）**这是一个“获得成功”的绝佳方式你自己“和黑客第一.  然后你会感到很兴奋，继续...
 *  **[Prof. Andrew Ng's](https://www.andrewng.org/about/) [courses on Deep Learning](https://www.coursera.org/specializations/deep-learning)！**有五门课程，作为一部分 [Deep Learning Specialization on Coursera](https://www.coursera.org/specializations/deep-learning) .  这些课程是他新创业的一部分， [deeplearning.ai](https://www.deeplearning.ai)
 * **[Machine Learning Crash Course from Google.](https://developers.google.com/machine-learning/crash-course/)**谷歌快速，实用的机器学习介绍，涵盖了使用TensorFlow构建深度神经网络.
 * **[_Deep Learning_](http://www.deeplearningbook.org/)，麻省理工学院出版社出版的免费书籍.**伊恩·古德费罗，Yoshua Bengio和Aaron Courville

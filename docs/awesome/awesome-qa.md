@@ -16,11 +16,12 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
 
 ## Recent Trend
 ### XLNet
-- 原纸
+- Original paper
   - [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)，Zhilin Yang，et al.，ArXiv preprint，2019.
 ### BERT
-- 原纸
+- 语言模型
   - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805)，Jacob Devlin，et al.，arXiv preprint，2018.
+  - [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://arxiv.org/abs/1907.11692), Yinhan Liu, et al., arXiv preprint, 2019.
 - 质量保证
   - [SDNet: Contextualized Attention-based Deep Network for Conversational Question Answering](https://arxiv.org/abs/1812.03593), Chenguang Zhu, et al., arXiv, Dec 2018.
   - [A BERT Baseline for the Natural Questions](https://arxiv.org/abs/1901.08634)克里斯·阿尔贝蒂，等人的arXiv预印本2019年1月.
@@ -30,6 +31,16 @@ _问答系统主题的精选列表，是信息检索和自然语言处理领域�
   - [BERT Post-Training for Review Reading Comprehension and Aspect-based Sentiment Analysis](https://arxiv.org/abs/1904.02232)，Hu Xu，et al.，ArXiv preprint，Apr 2019.
   - [Investigating the Successes and Failures of BERT for Passage Re-Ranking](https://arxiv.org/abs/1905.01758)，Harshith Padigela，et al.，ArXiv preprint，2019年5月.
   - [BERT with History Answer Embedding for Conversational Question Answering](https://arxiv.org/abs/1905.05412)，Chen Qu，et al.，arXiv preprint，2019年5月.
+### ACL 2019
+  - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index](https://arxiv.org/abs/1906.05807)，Minjoon Seo，et al.，ACL 2019，2019年6月.
+  - [Textbook Question Answering with Multi-modal Context Graph Understanding and Self-supervised Open-set Comprehension](https://arxiv.org/abs/1811.00232)，Daesik Kim，等人，ACL 2019，2018年11月.
+  - [Episodic Memory Reader: Learning what to Remember for Question Answering from Streaming Data](https://arxiv.org/abs/1903.06164)，Moonsu Han，et al.，ACL 2019，Mar 2019.
+  - [Improving Question Answering over Incomplete KBs with Knowledge-Aware Reader](https://arxiv.org/abs/1905.07098), Wenhan Xiong, et al., ACL 2019, May 2019.
+  - [Unsupervised Question Answering by Cloze Translation](https://arxiv.org/abs/1906.04980)，Patrick Lewis等，ACL 2019，2019年6月.
+  -  [关于文本推断的MEDIQA 2019共享任务概述，
+问题蕴涵和问题回答]（https://www.aclweb.org/anthology/W19-5039），Asma Ben Abacha等，ACL-W 2019，2019年8月.
+  - [SemEval-2019 Task 10: Math Question Answering](https://www.aclweb.org/anthology/S19-2153)，Mark Hopkins，et al.，ACL-W 2019，2019年6月.
+  - [Natural Questions: a Benchmark for Question Answering Research](https://ai.google/research/pubs/pub47761)，Tom Kwiatkowski，et al.，TACL 2019，Jan 2019.
   
 ## About QA
 ### Types of QA
@@ -82,17 +93,18 @@ Lanugage分析
 | 5 | [TriviaQA](http://nlp.cs.washington.edu/triviaqa/)          |  英语|  大学.  华盛顿|  2017年|  明燕|   -  |  关闭|   -  |
 | 6 | [decaNLP](https://decanlp.com/)           |  英语|  Salesforce Research |  2018年|  Salesforce Research |  MQAN |  关闭|  x |
 | 7 | [DuReader Ver1.](https://ai.baidu.com/broad/introduction)           |  中文|  百度|  2015年|  尝试者|  T-Reader（单曲）|  关闭|  x |
-| 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)           |  中文|  百度|  2017年|  文艺复兴|  AliReader |  打开|  x |
-| 9 | [KorQuAD](https://korquad.github.io/)     |  韩语|  LG CNS AI研究|  2018年|  Kakao NLP团队|  BERT LM微调（单）+ KHAIII |  关闭|  o |
-| 10 | [CoQA](https://stanfordnlp.github.io/coqa/)     |  英语|  大学.  斯坦福大学|  2018年|  MSRA + SDRG |  Google SQuAD 2.0 + MMFT（合奏）|  打开|  o |
+| 8 | [DuReader Ver2.](https://ai.baidu.com/broad/introduction)           |  中文|  百度|  2017年|  文艺复兴|  AliReader |  打开|   -  |
+| 9 | [KorQuAD](https://korquad.github.io/KorQuad%201.0/)     |  韩语|  LG CNS AI研究|  2018年|  Clova AI LaRva团队|  LaRva-Kor-Large + + CLaF（单）|  关闭|  o |
+| 10 | [KorQuAD 2.0](https://korquad.github.io/)     |  韩语|  LG CNS AI研究|  2019年|   -  |   -  |  打开|  x |
+| 11 | [CoQA](https://stanfordnlp.github.io/coqa/)     |  英语|  大学.  斯坦福大学|  2018年|  MSRA + SDRG |  Google SQuAD 2.0 + MMFT（合奏）|  打开|  o |
 
 ## Publications
-- 论文
+- Papers
   - ["Learning to Skim Text"](https://arxiv.org/pdf/1704.06877.pdf), Adams Wei Yu, Hongrae Lee, Quoc V. Le, 2017.
     ：在文本中仅显示您想要的内容
   - ["Deep Joint Entity Disambiguation with Local Neural Attention"](https://arxiv.org/pdf/1704.04920.pdf)，Octavian-Eugen Ganea和Thomas Hofmann，2017年.
   - ["BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION"](https://arxiv.org/pdf/1611.01603.pdf)，Minjoon Seo，Aniruddha Kembhavi，Ali Farhadi，Hananneh Hajishirzi，ICLR，2017.
-  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf), Matthew Francis-Landau, Greg Durrett and Dan Klei, NAACL-HLT 2016.
+  - ["Capturing Semantic Similarity for Entity Linking with Convolutional Neural Networks"](http://nlp.cs.berkeley.edu/pubs/FrancisLandau-Durrett-Klein_2016_EntityConvnets_paper.pdf)，Matthew Francis-Landau，Greg Durrett和Dan Klei，NAACL-HLT 2016.
     - https://GitHub.com/matthewfl/nlp-entity-convnet
   - ["Entity Linking with a Knowledge Base: Issues, Techniques, and Solutions"](https://ieeexplore.ieee.org/document/6823700/), Wei Shen, Jianyong Wang, Jiawei Han, IEEE Transactions on Knowledge and Data Engineering(TKDE), 2014.
   - ["Introduction to “This is Watson"](https://ieeexplore.ieee.org/document/6177724/)，IBM Journal of Research and Development，DA Ferrucci，2012.
@@ -190,7 +202,7 @@ Lanugage分析
 - 2017
   - "Multi-level Attention Networks for Visual Question Answering", Dongfei Yu, Jianlong Fu, Tao Mei, Yong Rui, CVPR, 2017.
   - “问答和问题产生的联合模型”，王彤，Xingdi（Eric）Yuan，Adam Trischler，ICML，2017.
-  - "Two-Stage Synthesis Networks for Transfer Learning in Machine Comprehension", David Golub, Po-Sen Huang, Xiaodong He, Li Deng, EMNLP, 2017.
+  - “机器理解中转移学习的两阶段综合网络”，David Golub，黄宝森，何晓东，李登，EMNLP，2017.
   - “问题 - 用语法解释的表达方式回答”，Hamid Palangi，Paul Smolensky，何晓东，李登， 
   - “基于搜索的顺序问题回答的神经结构学习”，Mohit Iyyer，Wen-tau Yih，Chang-Wei Chang，ACL，2017.
 - 2016

@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome applications, softwares, tools and shiny things for macOS.
+&gt;精选的macOS应用程序，软件，工具和闪亮的东西列表.
 
  &gt; *标有的项目！[开源软件] [OSS图标]是开源软件并链接到源代码.  标有！[免费软件] [免费软件图标]的项目是免费的（如免费啤酒）.*
 
@@ -52,7 +52,7 @@
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)   - 编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
 - [ImageAlpha](https://pngmini.com/)   - 对带有或不带透明度的PNG文件应用有损压缩，以获得更高效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
-- [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
+- [ImageOptim](https://imageoptim.com/mac)   - 使图像占用更少的磁盘空间并加载更快.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html)   - 轻松找到您网站的破损链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) - 强大的差异和合并应用程序，支持文本，图像和文件夹.
 - [Knuff](https://github.com/KnuffApp/Knuff)   -  Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
@@ -67,6 +67,7 @@
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - 管理和组织代码片段.
 - [SourceTree](https://www.sourcetreeapp.com/)   - 免费的Git＆Mercurial客户端.  ！[免费软件] [免费软件图标]
 - [Swiftify](https://objectivec2swift.com/#/xcode-extension/) -  Objective-C到Swift代码转换器和Xcode＆Finder扩展.
+- [TablePlus](https://tableplus.com/) - 适用于多个数据库的现代原生GUI.
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator)   -  macOS Touch Bar Simulator作为独立应用程序.  [！[开源软件] [OSS图标]]（https://github.com/sindresorhus/touch-bar-simulator）！[免费软件] [免费软件图标]
 - [Tower](https://www.git-tower.com/) - 最强大的Git客户端.
 - [Trailer](https://ptsochantaris.github.io/trailer/)   - 可配置的菜单栏Git通知以及随附的原生iOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/ptsochantaris/trailer）
@@ -127,7 +128,7 @@
 - [Image2icon](http://www.img2icnsapp.com)   - 从图片中创建和个性化图标.  ！[免费软件] [免费软件图标]
 - [macSVG](https://macsvg.org/)   - 为Web，移动和动画设计和编辑SVG内容.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - 用于创建精确，美观图形的应用程序.
-- [Pixelmator](http://www.pixelmator.com/mac/) - 强大的图像编辑器，可能的Photoshop替代品.
+- [Pixelmator](http://www.pixelmator.com/mac/) - Powerful image editor, possible Photoshop alternative.
 - [Sketch](http://www.sketchapp.com/) - 混合矢量/位图布局应用程序，尤其适用于UI，Web和移动设计.
 - [Sketch Toolbox](http://sketchtoolbox.com/)   -  Sketch的超级简单插件管理器.  [！[开源软件] [OSS图标]]（https://github.com/buzzfeed/Sketch-Toolbox）
 - [xScope](http://xscopeapp.com/) - 用于测量，检查和测试屏幕图形和布局的工具.
@@ -180,7 +181,7 @@
 - [CloudApp](https://www.getcloudapp.com/) - 即时捕获和共享文件和屏幕截图.
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)   - 实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和录音.  ！[免费软件] [免费软件图标]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)   - 上传图片和截图到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
-- [Monosnap](https://monosnap.com) - 注释和上传图像和截图，支持许多后端，如S3，SFTP，WebDAV，Dropbox等！[免费软件] [免费软件图标]
+- [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
 - [Transmission](https://www.transmissionbt.com/)   - 简单，轻便，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
 
 
@@ -233,7 +234,7 @@
 - [MacPass](https://macpass.github.io/)   - 密码管理器.  [！[开源软件] [OSS图标]]（https://github.com/MacPass/MacPass）！[免费软件] [免费软件图标]
 - [Media Converter](http://media-converter.sourceforge.net/)   - 简单（拖放）但高级媒体转换.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/media-converter/code/ci/master/tree/）！[免费软件] [免费软件图标]
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)   - 方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
-- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) - A set of CPU, memory, disk, and network monitoring tools for macOS. [![Open-Source Software][OSS Icon]](https://github.com/yujitach/MenuMeters)
+- [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)   - 用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
 - [Monodraw](http://monodraw.helftone.com/) - 强大的ASCII艺术编辑器.
 - [Mounty](http://enjoygineering.com/mounty/) - 一种在读写模式下在macOS 10.9+下重新安装写保护NTFS卷的小工具.
 - [Noizio](http://noiz.io/) - 环境声音均衡器，可放松或提高工作效率.
@@ -249,7 +250,7 @@
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)   - 管理窗口大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)   - 防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
 - [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) - 使Caps Lock键变得更加智能，以便当键意外被激活并且即使你不想要你开始叫喊时，你也可以选择大喊大叫的文本并再次按下键以立即修复它的情况而不是键入一切都在重新开始.
-- [Soulver](http://www.acqualia.com/soulver/) - 美丽的表现力计算器.
+- [Soulver](http://www.acqualia.com/soulver/) - Beautiful expressive calculator.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) - 管理您的SSH隧道，与macOS Keychain紧密集成，安全直观.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) - 远程控制另一台计算机.
 - [TextBar](http://www.richsomerfield.com/apps/) -  TextBar是一个小巧但功能强大的应用程序，可让您向MenuBar添加任何文本.

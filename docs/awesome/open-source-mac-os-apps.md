@@ -70,7 +70,7 @@
 ### Backup
 - [Mackup](https://github.com/lra/mackup)   - 保持应用程序设置同步（macOS / Linux）.  ！[python_icon] 
 - [UrBackup](https://github.com/uroni/urbackup_backend)   -  UrBackup是Windows，macOS和Linux的客户端/服务器网络备份.  ！[cpp_icon]！[c_icon] 
-- [shallow-backup](https://github.com/alichtman/shallow-backup)   - 轻松创建已安装应用程序，dotfiles等的轻量级文档.  ！[python_icon] 
+- [shallow-backup](https://github.com/alichtman/shallow-backup) - Easily create lightweight documentation of installed applications, dotfiles, and more.  ![python_icon] 
 
 ### Browser
 - [Beaker Browser](https://github.com/beakerbrowser/beaker)   -  Beaker是一个实验性的点对点Web浏览器.  ！[javascript_icon] 
@@ -115,14 +115,14 @@
 - [Postgres.app](https://github.com/PostgresApp/PostgresApp)   - 在Mac上开始使用PostgreSQL的最简单方法.  ！[swift_icon] 
 - [Redis.app](https://github.com/jpadilla/redisapp)   - 在Mac上开始使用Redis的最简单方法.  ！[swift_icon] 
 - [Robo 3T](https://github.com/Studio3T/robomongo)   -  Robo 3T（以前称为Robomongo）是MongoDB爱好者的免费轻量级GUI.  ！[cpp_icon] 
-- [Sequel Pro](https://github.com/sequelpro/sequelpro)   - 用于macOS的MySQL / MariaDB数据库管理.  ！[objective_c_icon] 
+- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.   ![objective_c_icon] 
 - [mongoDB.app](https://github.com/gcollazo/mongodbapp)   - 在Mac上开始使用mongoDB的最简单方法.  ！[swift_icon] 
 
 ### Development
 
 #### Git
 - [Cashew](https://github.com/jensteichert/OpenCashew)   -  Cashew macOS Github问题跟踪器.  ！[objective_c_icon]！[c_icon] 
-- [GPM](https://github.com/mtgto/GPM)   - 用于轻松操作GitHub项目的macOS应用程序.  ！[swift_icon] 
+- [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop)   - 从桌面进行简单协作.  ！[type_script_icon] 
 - [GitSync](https://github.com/eonist/GitSync)   - 适用于Mac的Minimalistic Git客户端.  ！[swift_icon] 
 - [GitUp](https://github.com/git-up/GitUp)   - 你一直想念的Git界面终于到来了.  ！[objective_c_icon] 
@@ -210,7 +210,6 @@
 - [Motrix](https://github.com/agalwood/Motrix)   - 功能齐全的下载管理器.  ！[javascript_icon] 
 - [Pillager](https://github.com/Pjirlip/Pillager)   - 用Swift和Objective-C编写的macOS Video Downloader.  ！[objective_c_icon]！[swift_icon] 
 - [YouTube Downloader for macOS](https://github.com/DenBeke/YouTube-Downloader-for-macOS)   - 简单的菜单栏应用程序，可在Mac上下载YouTube电影.  我将此作为测试项目编写，以了解有关macOS上应用程序开发的更多信息.  ！[swift_icon] 
-- [Youtube Downloader](https://github.com/onmyway133/YoutubeDownloader)   - 用于下载Youtube视频的macOS应用.  ！[swift_icon] 
 - [udemy-downloader-gui](https://github.com/FaisalUmair/udemy-downloader-gui)   - 用于下载Udemy课程的桌面应用程序.  ！[javascript_icon] 
 
 ### Editors
@@ -282,7 +281,7 @@
 ### Images
 - [APNGb](https://github.com/shgodoroja/APNGb)   -  macOS应用程序，它组装和反汇编动画的png文件.  ！[swift_icon] 
 - [Crunch](https://github.com/chrissimpkins/Crunch)   - 疯狂（慢慢但邪恶的好）PNG图像优化.  ！[python_icon] 
-- [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch.  ![swift_icon] 
+- [Freehand](https://github.com/wddwycc/Freehand)   - 用于快速草图的macOS状态栏应用程序.  ！[swift_icon] 
 - [Gimp](https://github.com/GNOME/gimp)   -  Gimp是GNU Image Manipulation Program.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)   - 编辑图标，然后导出到Xcode，Icns，Ico，Favicon，Mac Iconset或自定义大小列表.  ！[swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha)   - 用于pngquant，pngnq和posterizer的Mac GUI.  ！[objective_c_icon]！[python_icon] 
@@ -389,7 +388,7 @@
 
 ### Podcast
 - [Cumulonimbus](https://github.com/z-------------/CPod)   - 简单，漂亮的播客应用程序.  ！[javascript_icon] 
-- [Doughnut](https://github.com/CD1212/Doughnut) - 用于mac的播客播放器和库！[swift_icon] 
+- [Doughnut](https://github.com/dyerc/Doughnut) - 用于mac的播客播放器和库！[swift_icon] 
 - [PodcastMenu](https://github.com/insidegui/PodcastMenu) -  PodcastMenu是一个简单的应用程序 [Overcast](https://overcast.fm/)  在Mac的菜单栏上，这样您就可以在工作时收听自己喜欢的播客.  ！[swift_icon] 
 - [Podlive for macOS](https://github.com/phranck/podlive-macos)   -  macOS客户端收听直播流播客（仅限）.  它目前支持通过Ultraschall广播的所有直播 [Studio Link On Air](https://studio-link.de) .  ！[objective_c_icon] 
 - [mkchromecast](https://github.com/muammar/mkchromecast)   - 将macOS和Linux音频/视频转换为Google Cast和Sonos设备.  ！[python_icon] 
@@ -454,7 +453,7 @@
 - [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io)  应用程序.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)   - 非官方Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo)   -  macOS菜单栏应用程序快速发布状态.  ！[ruby_icon] 
-- [appear.in](https://github.com/vitorgalvao/appear.in) - Unofficial appear.in app.  ![javascript_icon] 
+- [appear.in](https://github.com/vitorgalvao/appear.in)   - 非正式的outlook.in应用程序.  ！[javascript_icon] 
 
 ### Streaming
 - [Galeri](https://github.com/michealparks/galeri)   - 永久艺术品流媒体应用程序.  ！[javascript_icon] 
@@ -507,9 +506,9 @@
 - [Buttercup Desktop](https://github.com/buttercup/buttercup-desktop)   - 用于mac和其他平台的安全密码管理器.  ！[javascript_icon] 
 - [Catch](https://github.com/mipstian/catch/)   -  Catch：Broadcatching变得简单.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)   - 使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
-- [CornerCal](https://github.com/ekreutz/CornerCal) - Simple, clean calendar and clock app for macOS.  ![swift_icon] 
+- [CornerCal](https://github.com/ekreutz/CornerCal)   -  macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
 - [Crypter](https://github.com/HR/Crypter)   -  Crypter是一款创新，方便，安全的跨平台加密应用程序，通过要求您只记住一位MasterPass，简化了安全密码的生成和管理.  ！[javascript_icon] 
-- [ECheck](https://github.com/josejuanqm/ECheck)   - 用于验证macOS的epub文件的小工具.  ！[swift_icon] 
+- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)   - 基于每个应用程序轻松切换Mac上的功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - 只需点击一下按钮，即可在每个应用程序的基础上选择明亮的外观和黑暗的外观！[swift_icon] 
 - [Kap](https://github.com/wulkano/kap)   - 使用Web技术构建的屏幕录像机应用程序  ！[javascript_icon] 
@@ -525,7 +524,7 @@
 - [Mos](https://github.com/Caldis/Mos) - 平滑鼠标的滚动并反转鼠标滚动方向！[swift_icon] 
 - [Noti](https://github.com/jariz/Noti/)   - 在您的mac上接收Android通知（使用PushBullet）.  ！[swift_icon] 
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop)   - 在macOS，Windows和Linux上接收本机推送通知.  ！[javascript_icon] 
-- [Padlock](https://github.com/padlock/padlock)   -  macOS的最小开源密码管理器.  ！[javascript_icon] 
+- [Padlock](https://github.com/padloc/padloc)   -  macOS的最小开源密码管理器.  ！[javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator)   - 用于计算parcents的菜单栏应用程序.  ！[swift_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat)   -  ScreenCat是一个屏幕共享+远程协作应用程序.  ！[javascript_icon]！[css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)   - 向Command-Q添加全局延迟以阻止意外的应用程序退出.  ！[objective_c_icon] 
@@ -604,7 +603,7 @@
 [css_icon]：./ icons / css-16.png&#39;CSS语言.&#39;
 [go_icon]：./ icons / golang-16.png&#39;去语言&#39;.
 [elm_icon]：./ icons / elm-16.png&#39;榆树语&#39;
-[haskell_icon]: ./icons/haskell-16.png 'Haskell language.'
+[haskell_icon]：./ icons / haskell-16.png&#39;哈斯克尔语.&#39;
 [java_icon]：./ icons / java-16.png&#39;Java语言&#39;.
 [javascript_icon]：./ icons / javascript-16.png&#39;JavaScript语言&#39;.
 [lua_icon]：./ icons / Lu-16.png&#39;Lua语言&#39;.

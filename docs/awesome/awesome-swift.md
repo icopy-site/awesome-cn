@@ -12,7 +12,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  994 |  2019年9月4日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  994 |  2019年9月9日
 
 
 
@@ -394,7 +394,7 @@
 * [SecureDefaults](https://github.com/vpeschenkov/SecureDefaults) -  UserDefaults和NSUserDefaults上的轻量级包装器，带有额外的AES-256加密层.
 * [Storez](https://github.com/SwiftKitz/Storez) - 安全，静态类型，与存储无关的键值存储.
 * [SwiftStore](https://github.com/hemantasapkota/SwiftStore) -  LevelDB支持的Key-Value存储.
-* [SwiftyUserDefaults](https://github.com/radex/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
+* [SwiftyUserDefaults](https://github.com/sunshinejr/SwiftyUserDefaults) - 更清晰，更好的NSUserDefaults语法.
 * [UserDefaultsStore](https://github.com/omaralbeik/UserDefaultsStore) - 为什么不使用UserDefaults来存储Codable对象.
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) - 通过iCloud轻松同步NSUserDefaults.
 
@@ -436,7 +436,7 @@
 * [Realm](https://github.com/realm/realm-cocoa) -  Realm是一个移动数据库：Core Data和SQLite的替代品.
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - 与Realm和JSON一起使用的简洁的Mantle方式.
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -  RealmSwift的安全且简单的包装.
-* [Unrealm](https://github.com/arturdev/Unrealm) -  Unrealm使您可以轻松地将Swift本机类，结构和枚举存储到Realm中.
+* [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
 
 #### SQL drivers
 [back to top](#readme) 
@@ -461,7 +461,7 @@
 *如果您更喜欢管理XML数据格式的条目，这里有一些有用的库* [back to top](#readme) 
 
 * [AEXML](https://github.com/tadija/AEXML) -  xml包装器.
-* [CheatyXML](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
+* [CheatyXML](https://github.com/lobodart/CheatyXML) - 一个功能强大的框架，旨在轻松管理XML.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - 处理XML的最快捷方式.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - 简单的XML解析.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) -  XMLEncoder和XMLDecoder基于标准库中的Codable协议
@@ -494,7 +494,7 @@
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
 ### Dependency Injection
-*依赖注入库* [back to top](#readme) 
+*Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse](https://github.com/square/Cleanse) -  Square的轻量级依赖注入框架.
 * [Corridor](https://github.com/symentis/Corridor) - 类似Coreader的依赖注入μFramework.
@@ -1041,7 +1041,7 @@
 ### Thread
 *线程，基于任务或异步编程，Grand Central Dispatch（GCD）包装器* [back to top](#readme) 
 
-* [Async](https://github.com/duemunk/Async) - Syntactic sugar for Grand Central Dispatch.
+* [Async](https://github.com/duemunk/Async) -  Grand Central Dispatch的语法糖.
 * [AwaitKit](https://github.com/yannickl/AwaitKit) -  ES7异步/等待控制流程.
 * [Chronos](https://github.com/comyar/Chronos-Swift) -  Grand Central Dispatch Utilities.
 * [Each](https://github.com/dalu93/Each) - 每个都是NSTimer桥库.

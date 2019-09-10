@@ -7,7 +7,7 @@
 ![tools](https://www.lexaloffle.com/gfx/p8_tracker.gif)
 ![code](https://www.lexaloffle.com/gfx/p8_cast.gif)
 
-  PICO-8资源，教程，工具等的精选列表.  灵感来自于 [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  你可能还喜欢 [awesome-lua](https://github.com/LewisJEllis/awesome-lua) 和 [awesome-love2d](https://github.com/JanWerder/awesome-love2d).
+ A curated list of PICO-8 resources, tutorials, tools 和 more. Inspired by the [awesome](https://github.com/sindresorhus/awesome)  列出的东西.  你可能还喜欢 [awesome-lua](https://github.com/LewisJEllis/awesome-lua) 和 [awesome-love2d](https://github.com/JanWerder/awesome-love2d).
 
   PICO-8是一个幻想控制台，用于制作，分享和玩小游戏和其他计算机程序.  当你打开它时，机器会用一个shell来打招呼，以便输入一个子集 [Lua](https://www.lua.org/) 命令并提供简单的内置工具来创建自己的墨盒.
 
@@ -56,6 +56,7 @@
 - [Tweetjam, BBS thread](https://www.lexaloffle.com/bbs/?tid=3726) - 代码适合推文的卡片（对学习一些有趣的技巧非常有用）.
 - [Sample code on the BBS](https://www.lexaloffle.com/bbs/?search=sample+code) - 搜索不是100％准确，但其中一些卡具有一些很好的技巧，可以在将来的代码中重复使用.
 - [Newgrounds Medals Tutorial](https://github.com/Bigaston/pico-8-newgrounds-tutorial) - 向PICO-8游戏添加Newgrounds奖牌的小教程.
+- [Binary save system](https://ultiman3rd.wordpress.com/2018/02/01/pico-8-binary-save-system/) - 支持各种数据类型的自定义游戏保存系统
 
 ## Tools
 
@@ -134,7 +135,7 @@
 
  大！  ：笑脸：
 
-请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) first.
+请阅读 [contribution guidelines](https://github.com/pico-8/awesome-PICO-8/blob/master/CONTRIBUTING.md) 第一.
 
 ## License
 
