@@ -47,7 +47,7 @@ Audio
 [SuperCollider](http://supercollider.github.io/)  CommonLisp的客户端.  有了 [tutorial](https://github.com/defaultxr/cl-collider-tutorial) 和 [live coding demos](https://www.youtube.com/watch?v=xzTH_ZqaFKI) .  公共区域.
 * [csound](https://github.com/csound/csound)   - 声音和音乐计算系统.  包括Common Lisp的CFFI和FFI接口.
 * [CLM](https://ccrma.stanford.edu/software/clm/)   -  Common Lisp Music是Music V系列中的音乐合成和信号处理软件包.  它提供了与Stk，Csound，SuperCollider，PD，CMix，cmusic和Arctic相同的功能 - 一系列创建和操作声音的功能，主要针对作曲家（无论如何都是在CLM的情况下）.
-* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和抒情的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
+* [cl-patterns](https://github.com/defaultxr/cl-patterns)   - 一个通过Lisp代码编写音乐的系统，深受SuperCollider模式系统的启发，目的是实现其中的大部分内容，但是以更强大，更富有表现力，一致，反思和lispy的方式.  通过SuperCollider输出音频，初步支持Incudine，MIDI通过ALSA.
 * [cl-openal](https://github.com/zkat/cl-openal)   -  OpenAL音频库的绑定.  公共区域.
 * [Common Music](https://github.com/ormf/cm) - 一个存储库
 古代版的Common Music（版本2.12.0），大概是最后一个
@@ -94,7 +94,7 @@ Cryptocurrencies
 
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)   - 使用Monero加密货币的Common Lisp工具箱.  [GPL3] [2].  不在Quicklisp.
 * [emotiq](https://github.com/emotiq/emotiq)   - 采用创新的自然语言方法实现智能合约的下一代区块链.  [MIT] [200].
-* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser) - parse the blockchain contained in a file and export some of its data to a text file, a SQL script or a database. It can also create a database using the RPC of a Peercoin daemon as source of data instead of a blockchain file. LGPL3. Not in Quicklisp.
+* [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)   - 解析文件中包含的区块链，并将其部分数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp.
 * [peercoin-calculator](https://github.com/glv2/peercoin-calculator)   - 该程序为您提供在10分钟，24小时，31天，90天和1年内生成POS或POW块的概率，以及可预期的奖励.  Qt中的GUI  [GPL3] [2].  不在Quicklisp.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)   - 基于区块链数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp.
 
@@ -196,7 +196,7 @@ and see more on [Quickdocs](http://quickdocs.org/search?q=data+structure).
 
 * [Xelf](http://xelf.me/)   - 可扩展的游戏库.  在Quicklisp上不可用.  [GNU LGPL2.1] [11].
 * [Trial](https://github.com/shirakumo/trial) - 试用是一个OpenGL
-   游戏引擎重点关注模块化.  它应该是
+  game engine with a heavy focus on modularity. It is supposed to
   提供一个有用的点点滴滴的大型工具包
    创造一个游戏.  [艺术许可2.0] [47].
 * [cl-mpg123](https://shirakumo.github.io/cl-mpg123) 和
@@ -223,11 +223,11 @@ Graphics
 * [CLinch](https://github.com/BradWBeer/CLinch)   - 用于OpenGL的Common Lisp 2D / 3D图形引擎.  [FreeBSD的] [39].
 * [donuts](https://github.com/tkych/donuts)   - 用于Common Lisp的图形绘制DSL.  [外籍] [14].
 * [dufy](https://github.com/privet-kitty/dufy)   - 在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
-* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
+* [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)   -  SDL的一组绑定.  [外籍] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)   -  ImageMagick绑定.  [BSD] [15].  不在Quicklisp.
 * [okra](https://www.common-lisp.net/project/okra/manual.html)   -  CFFI绑定到Ogre.  在Quicklisp上不可用.  [3条款BSD] [15].
 * [opticl](https://github.com/slyrus/opticl)   - 用于表示和处理图像的库.  [BSD_2Clause] [17].
-* [Varjo](https://github.com/cbaggers/varjo)   -  Lisp到GLSL翻译.  [BSD_2Clause] [17].
+* [Varjo](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. [BSD_2Clause][17].
 * [Vecto](http://www.xach.com/lisp/vecto/)   - 简单的矢量绘图库.  [FreeBSD的] [39].
 * [zpng](http://www.xach.com/lisp/zpng/)   - 用于创建PNG文件的库.  [FreeBSD的] [39].
 
@@ -368,7 +368,7 @@ Lambda shorthands
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
    解决项目欧拉难题.  [MIT] [200].
 * [Screamer+](https://github.com/yakovzaytsev/screamer-plus)   - 增加SCREAMER的表现力.  [MIT] [200].
-* [Temperance](https://sjl.bitbucket.io/temperance/)   - 逻辑编程.  [MIT] [200].  关注性能，以一般游戏为主题.
+* [Temperance](https://sjl.bitbucket.io/temperance/) - logic programming. [MIT][200]. A focus on performance, with General Game Playing in mind.
 
 反应式编程
 --------------------
@@ -444,7 +444,7 @@ Advanced
 --------
 
  * [Let Over Lambda] [156]  - 一本关于高级宏观技术的书.  打印副本中提供了所有八个章节.
-* [Common Lisp中的面向对象编程：CLOS程序员指南] [21]  - 一本关于CLOS的旧的但非常全面的书.
+* [Object-Oriented Programming in Common Lisp: A Programmer's Guide to CLOS][21] - An old, but very thorough book on CLOS.
 * [人工智能编程的范例：Common Lisp中的案例研究] [157]  - 一本关于编程AI的书，涵盖了一些高级的Lisp.
 
 Community
@@ -594,7 +594,7 @@ URI动作
 Javascript
 ----------
 
-*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
+*：明星： [Parenscript](https://github.com/vsedach/Parenscript)   - 从Common Lisp到Javascript的翻译.  [3条款BSD] [15].  看到 [Trident-mode](https://github.com/johnmastro/trident-mode.el)，一种Emacs模式，提供与浏览器的实时交互.[unlicence] [5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - 用于解析ECMAScript 3的包.[zlib] [33].
 * [JSCL](https://github.com/jscl-project/jscl)   - 从第一天开始设计为自托管的CL-to-JS编译器.  缺乏CLOS，格式和循环.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/)   - 从Javascript到Common Lisp的翻译.  在Quicklisp上不可用.  [外籍] [14].
@@ -965,6 +965,7 @@ REPL的常见任务（打印文档，打印外部符号，
 完成与Literate Programming类似的效果，但是
  文档是从代码生成的，反之亦然.  代码是第一个，
  代码看起来很漂亮，文档是代码.  [MIT] [200].
+* [erudite](https://github.com/mmontone/erudite)   - 智能编程系统，以交互式开发为基础.  [MIT] [200].
 
 
 文件和目录

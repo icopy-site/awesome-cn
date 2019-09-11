@@ -84,7 +84,7 @@
 ##### React Development Tools
 
 - [create-react-app](https://github.com/facebook/create-react-app) - 通过运行一个命令设置现代Web应用程序
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Isomorphic Web app boilerplate
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构Web应用程序样板
 - [react-devtools](https://github.com/facebook/react-devtools) - 检查Chrome和Firefox开发人员工具中的React组件层次结构
 - [react-hot-loader](https://github.com/gaearon/react-hot-loader) - 实时调整React组件
 - [react-loadable](https://github.com/jamiebuilds/react-loadable) - 用于加载具有承诺的组件的更高阶组件
@@ -94,7 +94,7 @@
 - [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - 隔离的React组件开发环境，带有生活方式指南
 - [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用React组件的开发工具
 - [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 为ESLint制定特定的linting规则
-- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - 针对JSX元素的a11y规则的静态AST检查器
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
 - [react-axe](https://github.com/dequelabs/react-axe) -  React应用程序的可访问性审核
 
 ##### React Frameworks
@@ -125,6 +125,7 @@
 - [reactstrap](https://github.com/reactstrap/reactstrap) - 简单的React Bootstrap 4组件
 - [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - 官方Semantic-UI-React集成
 - [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - 用于React的Font Awesome 5组件库
+- [Reakit](https://github.com/reakit/reakit) -  React的可访问，可组合和可自定义的组件
 
 ##### React Awesome Components
 
@@ -408,7 +409,6 @@
 - [Introduction to React Native: Building iOS Apps with JavaScript](http://www.appcoda.com/react-native-introduction/)
 - [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 - [Gesture detection in React Native – fixing unexpected panning](http://blog.lum.pe/gesture-detection-in-react-native-fixing-unexpected-panning/)
-- [Use The iOS Camera In Your React Native Mobile App](https://blog.nraboy.com/2015/09/use-the-ios-camera-in-your-react-native-mobile-app/)
 - [Digital Smart Mirror lab with React Native](http://atticuswhite.com/blog/react-native-smart-mirror-lab/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 1)](https://www.smashingmagazine.com/2016/04/the-beauty-of-react-native-building-your-first-ios-app-with-javascript-part-1/)
 - [The Beauty Of React Native: Building Your First iOS App With JavaScript (Part 2)](https://www.smashingmagazine.com/2016/04/how-to-build-your-first-ios-app-with-javascript/)

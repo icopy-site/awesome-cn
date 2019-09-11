@@ -316,6 +316,7 @@
 - [CloudyTabs](https://github.com/josh-/CloudyTabs)   - 简单的菜单栏macOS应用程序，用于显示iCloud选项卡和阅读列表的列表.  ！[swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)   - 用Swift编写的macOS简单菜单栏天气应用程序.  ！[swift_icon] 
 - [DisplayMenu](https://github.com/Kwpolska/DisplayMenu)   - 简单（裸骨）macOS菜单额外应用显示预设.  ！[swift_icon] 
+- [Dozer](https://github.com/Mortennn/Dozer)   - 隐藏MacOS菜单栏项目.  ！[swift_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext)   - 在Mac上导入，管理和切换Kubernetes上下文.  ！[swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters)   - 用于macOS的CPU，内存，磁盘和网络监视工具.  ！[objective_c_icon] 
 - [Menubar Brightness](https://github.com/lucasbento/menubar-brightness)   -  macOS app改变菜单栏上的屏幕亮度.  ！[javascript_icon] 

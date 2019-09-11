@@ -203,6 +203,8 @@ code.
 -  [分布式的谬误
 计算]（https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing） - 
 程序员对分布式应用程序不熟悉的假设总是如此.
+- [There’s more than one way to write an IP address](https://ma.ttias.be/theres-more-than-one-way-to-write-an-ip-address/) - 地址的某些部分是可选的，请注意小数和八进制表示法，以及 [don't forget IPv6](https://news.ycombinator.com/item?id=20390981) 无论是.
+- [`hostname-validate`](https://github.com/jakeogh/hostname-validate) - 尝试在Python中验证主机名.
 
 
 ## Phone Numbers
@@ -234,7 +236,7 @@ code.
 - [The Bear with Its Own ZIP Code](https://kottke.org/19/08/the-bear-with-its-own-zip-code) -
 Smokey Bear有他自己的邮政编码（&#39;20252`），因为他收到了很多邮件.
 -  [正则表达式和邮政
-地址]（https://smartystreets.com/articles/regular-expressions-for-street-addresses） - 
+Addresses](https://smartystreets.com/articles/regular-expressions-for-street-addresses) -
 为什么正则表达式和街道地址不混合.
 - [`libaddressinput`](https://github.com/googlei18n/libaddressinput) - 谷歌
 用于解析，格式化和验证的通用C ++和Java库
@@ -259,9 +261,9 @@ Smokey Bear有他自己的邮政编码（&#39;20252`），因为他收到了很�
 -  [关于政治问题的虚假]
 任命]（https://twitter.com/oliver_dw/status/737930439575404544） - 
 设计选举制度有其自己的技巧.
--  [关于女性的虚假]
+- [Falsehoods About Women In
 Tech]（https://gist.github.com/Su-Shee/5d1a417fa9de19c15477） - 关于女性的神话
-in STEM (Science, Technology, Engineering, Math) industries.
+在STEM（科学，技术，工程，数学）行业.
 
 
 ## Software Engineering
@@ -274,7 +276,7 @@ in STEM (Science, Technology, Engineering, Math) industries.
  硬.  构建构建软件的软件更难.
 -  [关于文件的神话
 路径]（https://yakking.branchable.com/posts/falsehoods-programmers-believe-about-file-paths/） - 
-Diversity of file-systems and OSes makes file paths a little harder than we
+文件系统和操作系统的多样性使文件路径比我们更难
 可能会想到.
 -  [关于REST的虚假信息
 API]（http://slinkp.com/falsehoods-programmers-believe-about-apis.html） - 

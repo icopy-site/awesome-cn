@@ -119,14 +119,14 @@
  * [Taywee/args](https://github.com/taywee/args)   - 一个简单的只有头文件的C ++参数解析器库.  [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html)   - 通过命令行和配置文件等常规方法获取程序选项的库.  [促进]
  * [Clara](https://github.com/catchorg/Clara)   - 一个简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [BSL-1.0]
- * [cli](https://github.com/daniele77/cli)   - 跨平台标头，仅用于交互式命令行界面的C ++ 14库（思科风格）.  [促进]
+ * [cli](https://github.com/daniele77/cli) - A cross-platform header only C++14 library for interactive command line interfaces (Cisco style). [Boost]
  * [CLI11](https://github.com/CLIUtils/CLI11)   - 仅用于简单和高级CLI解析的单头或多文件C ++ 11库.  [BSD]
  * [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)   - 轻量级C ++命令行选项解析器.  [MIT]
  * [docopt.cpp](https://github.com/docopt/docopt.cpp)   - 从docstring生成选项解析器的库.  [MIT /升压]
  * [gflags](https://gflags.github.io/gflags/)   - 用于C ++的命令行标记模块.  [BSD]
  * [linenoise](https://github.com/antirez/linenoise)   -  readline和libedit的一个小型自包含替代品.  [BSD-2-第]
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng)   - 适用于Linux，Windows和MacOS的小型便携式GNU readline替代品，能够处理UTF-8字符.  [BSD]
- * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
+ * [Ncurses](http://invisible-island.net/ncurses/)   - 终端用户界面.  [MIT]
  * [PDCurses](https://github.com/wmcbrine/PDCurses)   - 公共域curses库，包含源代码和预编译库.  [公共区域]
  * [replxx](https://github.com/AmokHuginnsson/replxx)   - 支持UTF-8的readline和libedit替换，语法高亮，提示，适用于Unix和Windows.  [BSD]
  * [TCLAP](http://tclap.sourceforge.net)   - 一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [MIT]
@@ -161,7 +161,7 @@
 
 * [alpaka](https://github.com/ComputationalRadiationPhysics/alpaka)   - 用于并行内核加速的抽象库.  [LGPLv3 +]
 * [ArrayFire](https://github.com/arrayfire/arrayfire)   - 通用GPU库.  [BSD]
-* [Async++](https://github.com/Amanieu/asyncplusplus) - A lightweight concurrency framework for C++11, inspired by the Microsoft PPL library and the N3428 C++ standard proposal. [MIT]
+* [Async++](https://github.com/Amanieu/asyncplusplus)   -  C ++ 11的轻量级并发框架，受Microsoft PPL库和N3428 C ++标准提案的启发.  [MIT]
 * [Boost.Compute](https://github.com/boostorg/compute)   - 用于OpenCL的C ++ GPU计算库.  [促进]
 * [Bolt](https://github.com/HSA-Libraries/Bolt)   - 针对GPU优化的C ++模板库.  [Apache2的]
 * [ck](https://github.com/concurrencykit/ck)   - 并发原语，安全内存回收机制和非阻塞数据结构.  [BSD]
@@ -193,7 +193,7 @@
 * [Quantum](https://github.com/bloomberg/quantum) - 一个强大的C ++协程调度程序框架 [boost::coroutines2](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/index.html).
 
 ## Configuration
-*配置文件，INI文件*
+*Configuration files, INI files*
 
 * [inih](https://github.com/benhoyt/inih)   -  C语言中的简单.INI文件解析器，适用于嵌入式系统.  [BSD -3-第]
 * [inih](https://github.com/jtilly/inih) - 单头只有C ++版本 [inih](https://github.com/benhoyt/inih) .  [BSD -3-第]
@@ -263,7 +263,7 @@
 * [MongoDB C++ Driver](https://github.com/mongodb/mongo-cxx-driver)   -  MongoDB的C ++驱动程序.  [Apache2的]
 * [MongoDB Libbson](https://github.com/mongodb/libbson)   -  BSON实用程序库.  [Apache2的]
 * [MySQL++](http://www.tangentsoft.net/mysql++/)   - 用于MySQL C API的C ++包装器.  [LGPL]
-* [nanodbc](https://github.com/nanodbc/nanodbc)   - 本机C ODBC API的小型C ++包装器.  [MIT]
+* [nanodbc](https://github.com/nanodbc/nanodbc) - A small C++ wrapper for the native C ODBC API. [MIT]
 * [ODB](https://www.codesynthesis.com/products/odb/)   - 用于C ++的开源，跨平台和跨数据库对象关系映射（ORM）系统.  [GPL第二]
 * [redis3m](https://github.com/luca3m/redis3m)   -  hiredis的包装，具有干净的C ++接口，支持标记和即用型模式.  [Apache2的]
 * [RocksDB](https://github.com/facebook/rocksdb)   - 嵌入式键值存储，可从Facebook快速存储.  [BSD]
@@ -300,7 +300,7 @@
 * [Google Test](https://github.com/google/googletest)   -  Google C ++测试框架.  [BSD]
 * [ig-debugheap](https://github.com/deplinenoise/ig-debugheap)   - 多平台调试堆，可用于跟踪内存错误.  [BSD]
 * [libtap](https://github.com/zorgnax/libtap) - 用C编写测试.[GPL2]
-* [MemTrack](http://www.almostinfinite.com/memtrack.html) - Tracking memory allocations in C++.
+* [MemTrack](http://www.almostinfinite.com/memtrack.html) - 使用C ++跟踪内存分配.
 * [microprofile](https://bitbucket.org/jonasmeyer/microprofile/overview)   - 具有多个平台的Web视图的Profiler.  [公共区域]
 * [MinUnit](https://github.com/siu/minunit)   - 单个头文件中自包含C的最小单元测试框架.  [MIT]
 * [Mockator](http://www.mockator.com) - 用于C ++ Seams和Mock对象的Eclipse CDT插件.
@@ -327,7 +327,7 @@
 * [Banshee 3D](https://github.com/BearishSun/BansheeEngine) - Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting. [LGPL3/Commercial]
 * [Cocos2d-x](http://www.cocos2d-x.org/)   - 用于构建2D游戏，交互式书籍，演示和其他图形应用程序的多平台框架.  [MIT]
 * [Corange](https://github.com/orangeduck/Corange)   - 用纯C，SDL和OpenGL编写的游戏引擎.  [BSD]
-* [delta3d](http://sourceforge.net/projects/delta3d/) - A robust simulation platform. [LGPL2]
+* [delta3d](http://sourceforge.net/projects/delta3d/)   - 强大的仿真平台.  [LGPL2]
 * [EnTT](https://github.com/skypjack/entt)   - 游戏符合现代C ++.  [MIT]
 * [GamePlay](https://github.com/gameplay3d/GamePlay)   - 用于创建2D / 3D移动和桌面游戏的跨平台原生C ++游戏框架.  [Apache2的]
 * [Godot](https://github.com/godotengine/godot)   - 功能齐全的开源MIT许可游戏引擎.  [MIT]
@@ -360,7 +360,7 @@
 * [libRocket](http://librocket.com/)   -  libRocket是一个C ++ HTML / CSS游戏界面中间件.  [MIT]
 * [libui](https://github.com/andlabs/libui)   -  C中简单易用（但不灵活）的GUI库，它使用它支持的每个平台的本机GUI技术.  [MIT]
 * [MyGUI](http://mygui.info/)   - 快速，灵活和简单的GUI.  [MIT]
-* [nana](http://nanapro.org/en-us/)   -  Nana是一个用于现代C ++风格的GUI编程的跨平台库.  [促进]
+* [nana](http://nanapro.org/en-us/) - Nana is a cross-platform library for GUI programming in modern C++ style. [Boost]
 * [NanoGui](https://github.com/wjakob/nanogui)   - 适用于OpenGL 3.x或更高版本的简约跨平台小部件库.  [BSD]
 * [nuklear](https://github.com/vurtun/nuklear)   - 单头ANSI C gui库.  [公共区域]
 * [QCustomPlot](http://qcustomplot.com/)   -  Qt绘制小部件，没有进一步的依赖性.  [GPLv3的]
@@ -379,7 +379,7 @@
 * [Cairo](http://www.cairographics.org/)   - 支持多个输出设备的2D图形库.  [LGPL2或Mozilla MPL]
 * [Diligent Engine](https://github.com/DiligentGraphics/DiligentEngine)   - 现代跨平台的低级3D图形库.  [Apache2的]
 * [DirectXTK](https://github.com/Microsoft/DirectXTK)   - 用于在C ++中编写DirectX 11.x代码的辅助类的集合.  [MIT]
-* [GLFW](https://github.com/glfw/glfw) - A simple, cross-platform OpenGL wrangling library. [zlib/libpng]
+* [GLFW](https://github.com/glfw/glfw)   - 一个简单的跨平台OpenGL争用库.  [ZLIB /的libpng]
 * [herebedragons](https://github.com/kosua20/herebedragons)   - 使用各种引擎，框架或API实现的基本3D场景.  [MIT] [website](http://simonrodriguez.fr/dragon/)
 * [Horde3D](https://github.com/horde3d/Horde3D)   - 小型3D渲染和动画引擎.  [EPL]
 * [Ion](https://github.com/google/ion)   - 一组小而有效的库，用于构建使用3D图形的跨平台客户端或服务器应用程序.  [Apache2的] [website](https://google.github.io/ion/)
@@ -401,7 +401,7 @@
 
 ## Image Processing
 
-* [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - Generic Image Library.
+* [Boost.GIL](http://www.boost.org/doc/libs/1_56_0/libs/gil/doc/index.html) - 通用图像库.
 * [CImg](http://cimg.eu/)   - 用于图像处理的小型开源C ++工具包.  [自己的LGPL或GPL]
 * [CxImage](https://www.codeproject.com/Articles/1300/CxImage)   - 图像处理和转换库，用于加载，保存，显示，转换BMP，JPEG，GIF，PNG，TIFF，MNG，ICO，PCX，TGA，WMF，WBMP，JBG，J2K图像.  [ZLIB]
 * [Dlib](https://github.com/davisking/dlib)  ：zap： - 现代C ++ 11机器学习，计算机视觉，数值优化和深度学习工具包.  [促进] [website](http://dlib.net/)
@@ -421,7 +421,7 @@
 * [OpenImageIO](https://github.com/OpenImageIO/oiio)   - 强大的图像和纹理争用库，支持大量常见的有损和RAW格式.  [改良BSD]
 * [Simd](https://github.com/ermig1979/Simd)   - 使用SIMD的C ++图像处理库：SSE，SSE2，SSE3，SSSE3，SSE4.1，SSE4.2，AVX，AVX2，AVX-512，VMX（Altivec）和VSX（Power7），NEON用于ARM.  [MIT]
 * [stb-image](https://github.com/nothings/stb/blob/master/stb_image.h)   -  STB单头图像加载库.  [公共区域]
-* [tesseract-ocr](https://github.com/tesseract-ocr)   -  OCR引擎.  [Apache2的]
+* [tesseract-ocr](https://github.com/tesseract-ocr) - An OCR engine. [Apache2]
 * [TinyEXIF](https://github.com/cdcseacave/TinyEXIF)   - 适用于JPEG的符合ISO标准的C ++ EXIF和XMP解析库.  [MIT]
 * [Video++](https://github.com/matt-42/vpp)   -  C ++ 14高性能视频和图像处理库.  [MIT]
 * [VIGRA](https://github.com/ukoethe/vigra)   - 用于图像分析的通用C ++计算机视觉库.  [麻省理工学院X11]
@@ -442,7 +442,7 @@
 * [gRPC](https://github.com/grpc/grpc)   - 高性能，开源，通用的RPC框架.  [BSD] [website](http://www.grpc.io/)
 * [Ice](https://github.com/zeroc-ice/ice) - Comprehensive RPC framework with support for C++, C#, Java, JavaScript, Python and more. [GPLv2]
 * [libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp)   - 用于C ++服务器和客户端的JSON-RPC框架.  [MIT]
-* [nanomsg](https://github.com/nanomsg/nanomsg) - A simple high-performance implementation of several "scalability protocols". [MIT] [website](http://nanomsg.org/)
+* [nanomsg](https://github.com/nanomsg/nanomsg)   - 几种“可扩展性协议”的简单高性能实现.  [MIT] [website](http://nanomsg.org/)
 * [nng](https://github.com/nanomsg/nng)   -  nanomsg-next-generation，一个轻量级的无代理消息库.  [MIT] [website](https://nanomsg.github.io/nng/)
 * [rpclib](https://github.com/rpclib/rpclib)   - 一个现代的C ++ msgpack-RPC服务器和客户端库.  [MIT]
 * [simple-rpc-cpp](https://github.com/pearu/simple-rpc-cpp)   - 一个简单的RPC包装生成器，用于C / C ++函数.  [BSD]
@@ -657,11 +657,12 @@
 * [CPFG](https://github.com/cpgf/cpgf)   - 用于反射，回调和脚本绑定的C ++ 03库.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)   - 使用clang的C ++反射.  [MIT]
 * [Magic Enum](https://github.com/Neargye/magic_enum)   - 仅限标头的C ++ 17库为枚举（字符串，字符串，迭代）提供静态反射，可以使用任何枚举类型而无需任何宏或样板代码.  [MIT]
+* [magic_get](https://github.com/apolukhin/magic_get)   -  std :: tuple like用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)   -  C ++中的头文件，非侵入式和无宏运行时反射系统.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)   - 仅限标头的C ++ 17库提供了宏的名称和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
 * [Ponder](https://github.com/billyquith/ponder)   - 用于反射的C ++ 11库.  [MIT]
 * [RTTR](https://github.com/rttrorg/rttr)   - 用于反射的C ++ 11库.  [MIT] [website](http://www.rttr.org)
-* [visit_struct](https://github.com/cbeck88/visit_struct) - A miniature library for struct-field reflection in C++. [BSL-1.0]
+* [visit_struct](https://github.com/cbeck88/visit_struct)   - 用于C ++中结构域反射的微型库.  [BSL-1.0]
 
 ## Regular Expression
 
@@ -764,12 +765,12 @@
 * [Cutelyst](https://github.com/cutelyst/cutelyst)   - 使用Catalyst（Perl）框架的简单方法构建在Qt之上的C ++ Web框架.  [LGPLv2.1 +] [website](https://cutelyst.org/)
 * [Drogon](https://github.com/an-tao/drogon)   - 基于C ++ 14/17的高性能HTTP应用程序框架.  [MIT]
 * [facil.io](https://github.com/boazsegev/facil.io)   - 支持HTTP，WebSockets，SSE等的平衡，高性能C Web框架.  [MIT] [website](http://facil.io)
-* [Kore](https://kore.io/) - 用于在C中开发的用于Web应用程序的超快速且灵活的Web服务器/框架.[ISC]
+* [Kore](https://kore.io/) - ultra fast and flexible web server / framework for web applications developed in C. [ISC]
 * [libOnion](http://www.coralbits.com/libonion/)   - 轻量级库，帮助您使用C编程语言创建Web服务器.  [LGPLv3]
 * [lwan](https://github.com/lpereira/lwan)   - 实验性，可扩展，高性能的HTTP服务器.  [GPL2]
 * [oat++](https://github.com/oatpp/oatpp)   - 轻量级，零依赖性框架，以创建高性能的Web服务.  [Apache的2.0] [website](https://oatpp.io/) 
 * [Pistache](http://pistache.io/)   -  Pistache是​​一个用纯C ++ 11编写的C ++ REST框架，没有外部依赖.  [Apache2的]
-* [QDjango](https://github.com/jlaine/qdjango/) - A web framework written in C++ and built on top of the Qt library. Where possible it tries to follow django's API, hence its name. [LGPL]
+* [QDjango](https://github.com/jlaine/qdjango/)   - 用C ++编写并构建在Qt库之上的Web框架.  在可能的情况下，它会尝试遵循django的API，因此它的名称.  [LGPL]
 * [TreeFrog Framework](https://github.com/treefrogframework/treefrog-framework)   - 基于C ++和Qt的高速和全栈Web应用程序框架，支持HTTP和WebSocket协议（带O / R映射）.  [BSD] [website](http://www.treefrogframework.org/)
 * [Wt](http://www.webtoolkit.eu/wt)   - 用于开发Web应用程序的C ++库.  [GPL /商业]
 
@@ -789,7 +790,7 @@
 * [Xerces-C++](http://xerces.apache.org/xerces-c/)   - 用C ++的可移植子集编写的验证XML解析器.  [Apache2的]
 
 ## Miscellaneous
-*Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
+*有用的库或工具不适合上述类别或可能尚未归类*
 
 * [access_profiler](https://github.com/arvidn/access_profiler)   - 用于计算c ++程序中成员变量访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz  - 疯狂的模糊测试工具，可以自动发现时间和最小示例输入的错误.  [Apache2的]
@@ -878,7 +879,7 @@
 
 * [Anjuta DevStudio](http://anjuta.org/)   -  GNOME IDE.  [GPL3]
 * [AppCode](http://www.jetbrains.com/objc/) - 基于JetBrains的IntelliJ IDEA平台构建的Objective-C，C，C ++和JavaScript开发IDE.
-* [Cevelop](https://www.cevelop.com) - Cross-platform C and C++ IDE based on Eclipse CDT with additional plug-ins.
+* [Cevelop](https://www.cevelop.com) - 基于Eclipse CDT的跨平台C和C ++ IDE以及其他插件.
 * [CLion](http://www.jetbrains.com/clion/) -  JetBrains的跨平台C和C ++ IDE.
 * [Code::Blocks](http://www.codeblocks.org/) - 免费的C，C ++和Fortran IDE.
 * [CodeLite](http://codelite.org/)   - 另一个跨平台，免费的C和C ++ IDE.  [插件除外的GPL2]
@@ -934,7 +935,7 @@
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use) - 用于clang分析的工具包括C和C ++源文件. [website](https://include-what-you-use.org/)
 * [Infer](https://github.com/facebook/infer)   - 用于Java，C和Objective-C的静态分析器.  [BSD]
 * [OCLint](http://oclint.org/)   - 静态源代码分析工具，用于提高质量并减少C，C ++和Objective-C的缺陷.   -  [source](https://github.com/oclint/oclint)
-* [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - 一个源代码分析工具，可以找到C，C ++和Objective-C程序中的错误.
+* [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [Linticator](http://linticator.com) -  Eclipse CDT集成Pc- / FlexeLint.
 * [List of tools for static code analysis](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis#C.2FC.2B.2B) - 来自维基百科的静态代码分析工具列表.
 
@@ -963,7 +964,7 @@
 * [CppCon 2014 Presentation Materials](https://github.com/CppCon/CppCon2014) -  CppCon 2014演讲材料.
 * [C++Now 2019 Presentations](https://github.com/boostcon/cppnow_presentations_2019) - 介绍材料于C ++ Now 2019年发表.
 * [C++Now 2018 Presentations](https://github.com/boostcon/cppnow_presentations_2018) - 介绍材料在C ++ Now 2018年展出.
-* [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) -  2017年C ++上的演讲材料.
+* [C++Now 2017 Presentations](https://github.com/boostcon/cppnow_presentations_2017) - Presentation materials presented at C++Now 2017.
 * [C++Now 2016 Presentations](https://github.com/boostcon/cppnow_presentations_2016) -  2016年C ++上的演讲材料.
 * [C++Now 2015 Presentations](https://github.com/boostcon/cppnow_presentations_2015) - 在C ++ Now 2015上展示的演示材料.
 * [C++Now 2014 Presentations](https://github.com/boostcon/cppnow_presentations_2014) - 在C ++ Now 2014上展示的演示材料.
@@ -971,7 +972,7 @@
 * [C++Now 2012 Presentations](https://github.com/boostcon/cppnow_presentations_2012) - 在C ++ Now 2012上展示的演示材料.
 
 ## Books
-*精彩的C或C ++相关书籍.*
+*Fantastic C or C++ related books.*
 
 * [List of Free C or C++ Books](https://github.com/fffaraz/awesome-cpp/blob/master/books.md)
 * [Free C Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#c) - 甚高频/免费编程书籍/ C.
@@ -980,7 +981,7 @@
 
 ## Coding Style
 
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - 由C ++作者评论的“官方”C ++指南集.
+* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) - "Official" set of C++ guidelines, reviewed by the author of C++.
 * [C++ Dos and Don'ts](http://www.chromium.org/developers/coding-style/cpp-dos-and-donts) -  Chromium项目&gt;面向开发人员&gt;编码风格&gt; C ++ Dos and Don&#39;ts.
 * [google-styleguide](https://github.com/google/styleguide) - 源自Google的开源项目的样式指南.
 * [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
@@ -1067,7 +1068,7 @@
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
 * [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [Awesome Modern C++](https://github.com/rigtorp/awesome-modern-cpp) - 现代C ++上的资源集合.
-* [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - 精选的C / C ++性能优化资源的精选列表.
+* [AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp) - A curated list of awesome C/C++ performance optimization resources.
 * [free-programming-books](https://github.com/vhf/free-programming-books) - 免费提供的编程书籍清单.
 * [Inqlude](http://inqlude.org/) -  Qt库存档.
 * [papers-we-love](https://github.com/papers-we-love/papers-we-love) - 计算机科学界的论文阅读和讨论.

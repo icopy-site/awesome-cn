@@ -498,7 +498,7 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 
 #### Fuglen
 
-> Scandinavian cafe with some seats, great coffee, nice music, and a hipster vibe
+&gt;斯堪的纳维亚咖啡馆，有一些座位，很棒的咖啡，漂亮的音乐和时髦的氛围
 
 网页：http：//www.fuglen.com/japanese/
 
@@ -528,6 +528,18 @@ Webpage: [lostweekend.de](http://lostweekend.de)
 ✔ | ✔ | [2 Chome-14-14 Akasaka, 港区赤坂 Tōkyō-to 107-0052](https://goo.gl/maps/jW9Ax6q33Ky)  |  每日：00：00-23：59
 
 ![](http://www.speedtest.net/result/5787230824.png)
+
+## Kyoto
+
+#### Mos Cafe
+
+ &gt;不错的咖啡馆，如果你整天呆在那里，他们不介意.  无线网络是如此，但你可以购买2美元/ 6小时的wi2溢价.
+
+Webapage：https：//www.mos.jp/shop/detail/02388/
+
+ Wifi |  电源|  地址|  营业时间
+---- | ----- | ------- | ----------
+✔ | ✔ | [〒604-8162 Kyoto, Nakagyō-ku, Shichikannoncho, 烏丸通六角下る253-1 読売京都ビル](https://goo.gl/maps/7fMyyAVBkmWomHM17)  |  每日：10：00-21：00
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------
@@ -684,7 +696,7 @@ Webpage: [www.coffeestreet.pl](http://www.coffeestreet.pl/)
 
  Wifi |  电源|  地址|  营业时间
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv) | Mon-Sat 8:00-20:00, Sun 8:00-19:00
+✔ | ✔ | [Rakowicka 20A, 31-510 Kraków](https://goo.gl/maps/YbrduK8vuKv)  |  周一至周六8：00-20：00，周日8：00-19：00
 
 #### Café Lisboa
 
@@ -1614,7 +1626,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ------ | ------- | ----------
- 支付|  ✔|  ✔| [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2)  |  周一至周日07：00-20：00
+paying | ✔ | ✔ | [11 bow st. union sq, Somerville, MA](https://goo.gl/maps/eytUQsvC6sB2)  |  周一至周日07：00-20：00
 
 #### Diesel Cafe
 
@@ -1624,7 +1636,7 @@ Naver地图：http：//naver.me/FjThMRso
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ------ | ------- | ----------
- 支付|  ✔|  ✔| [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz)  |  周一至周五06：00-23：00，周六至周日07：00-23：00
+paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz)  |  周一至周五06：00-23：00，周六至周日07：00-23：00
 
 Notes:
 * 联系 [@richlitt](https://twitter.com/richlitt) 如果需要wifi密码.
@@ -1639,7 +1651,7 @@ Notes:
 
  Wifi |  电源|  咖啡|  地址|  营业时间
 ---- | ----- | ------ | ------- | ----------
- 支付|  ✔|  ✔| [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62)  |  周一至周五07：00-19：00
+paying | ✔ | ✔ | [626 Somerville Ave, Somerville, MA 02143](https://goo.gl/maps/gKjnLGtTYE62)  |  周一至周五07：00-19：00
 
 ## South Carolina <a id="south-carolina-"></a>
 

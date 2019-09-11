@@ -257,6 +257,7 @@
 ## Companies with "remote DNA"
   1. [10up](https://10up.com/careers/) - 通过为内容创建者精心制作网站和工具，10up使网络变得更好.
   1. [15Five](https://www.15five.com/careers/) - 加入我们的使命，通过加入一些最优秀的员工，创造人们成为最大自我的空间.
+  1. [Adeva](https://adevait.com)   - 独家远程开发人员网络.  Adeva与公司合作，按需扩展工程团队.
   1. [AgentFire](https://agentfire.com/meet-our-team/) - 由Wordpress提供支持的超本地房地产网站.
   1. [Aha!](https://www.aha.io/company/careers/current-openings)   - 啊哈！  是希望他们回归的PM的路线图软件.
   1. [AirTreks](https://www.airtreks.com/about/) - 具有分布式团队的多站国际飞行计划员.
@@ -269,7 +270,7 @@
   1. [Auth0](https://auth0.com/jobs) - 为开发人员提供零摩擦认证和授权.
   1. [Authentic F & F](http://authenticff.com/) - 位于丹佛和明尼苏达州的独立设计和技术工作室
   1. [Aurity](https://www.aurity.co/) -  100％远程公司，专注于React和React Native.
-  1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
+  1. [Automattic](https://automattic.com/work-with-us/) -  WordPress.com和Gravatar的制造商
   1. [Avallain](https://www.avallain.com/)   - 教育技术和数字出版.  我们拥有工具和流程，可以实现技术增强型教育所能提供的对人类潜力的积极影响
   1. [AvantStay](https://avantstay.com/careers) - 位于洛杉矶的短期租赁公司，拥有远程开发团队.
   1. [Axelerant](https://www.axelerant.com/careers)
@@ -300,7 +301,7 @@
   1. [ConsenSys](https://consensys.net/careers/) - 区块链软件技术公司，在世界各地设有办事处，在更多地方设有独立员工.
   1. [Continu](http://www.continu.co/careers/) - 为现代团队提供持续学习软件.
   1. [Countly](https://count.ly/full-stack-node-js-developer) - 开源，企业移动/网络分析和营销平台.
-  1. [CRO Metrics](http://crometrics.com/jobs/) - Data-driven expirementation and growth programs.
+  1. [CRO Metrics](http://crometrics.com/jobs/) - 数据驱动的过期和增长计划.
   1. [Crossover](https://app.crossover.com/x/marketplace/available-jobs) - 基于项目的Java，.Net和DevOps职位.
   1. [Datadog](https://www.datadoghq.com/careers/)   - 易于使用和可扩展的监控系统，适用于现代和动态基础设施.  分布式团队在纽约，波士顿和巴黎设有办事处.  工程师遍布全球.
   1. [DataStax](http://www.datastax.com/company/careers) - 基于Apache Cassandra的咨询.
@@ -507,7 +508,7 @@
   1. [Talky](https://talky.io/) - 为团体提供真正简单的视频聊天和屏幕共享
   1. [TeamHub](https://teamhub.app/) - 直接在IDE中进行实时状态和进度报告
   1. [Whereby](https://whereby.com) - 基于浏览器，无插件的群组视频通话.
-  1. [Zoom](https://zoom.us) - 高质量的群组视频和共享屏幕，在Linux上运行，记录会话和支持电话呼叫.
+  1. [Zoom](https://zoom.us) — High-quality group video and sharing screen, run on linux, record session and support telephone calls.
 
 #### Project Management
   1. [Asana](https://asana.com/) - 项目管理适用于分布式团队.
@@ -537,7 +538,7 @@
   1. [Transferwise](https://transferwise.com/gb/business/international-payroll-via-batch-payments) - 支付远程员工的简便方法.
 
 ## Others
-  1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 数字游牧民族精彩资源的精选列表.
+  1. [awesome-digital-nomads](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Established Remote](https://github.com/yanirs/established-remote) - 已建立的远程公司列表
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - 黑客空间列表.
   1. [LiquidSpace](https://liquidspace.com/) - 每日和每小时办公室和会议室租赁.

@@ -161,6 +161,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [migrate](https://github.com/vladfaust/migrate.cr) - 具有事务的更简单的数据库迁移工具
  * [migro](https://github.com/aisrael/migro) - 数据库迁移工具，允许在YAML或原始SQL中指定迁移
 
+## Debugging
+ * [debug.cr](https://github.com/Sija/debug.cr) - `debug！（...）`宏用于`pp`式调试
+
 ## Dependency Injection
 * [syringe](https://github.com/Bonemind/syringe) - 用于水晶的简单基本依赖注入分片
 
@@ -297,7 +300,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
@@ -355,7 +358,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) - 原生BSON实施
  * [Crirc](https://github.com/Meoowww/Crirc) -  IRC协议实施（客户端，服务器，机器人）
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket)   -  JSON套接字客户端和服务器实现.  灵感来自并兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) - 支持版本1,2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) - 快速IRC解析器/生成器
  * [gopher.cr](https://github.com/anicholson/gopher.cr) -  Gopher服务器工具包
@@ -592,7 +595,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * TextMate
    * [Crystal.tmbundle](https://github.com/crystal-lang-tools/Crystal.tmbundle) -  Crystal语法高亮，编译，格式化命令，片段
  我来了
-   * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) - Vim plugin to provide utility functions for carc.in
+   * [carcin.vim](https://github.com/MakeNowJust/carcin.vim) -  Vim插件，为carc.in提供实用功能
    * [vim-crystal](https://github.com/rhysd/vim-crystal) - 对Crystal的Vim文件类型支持
    * [vim-slang](https://github.com/elorest/vim-slang) - 对Slang Templating Engine的Vim文件类型支持
  * Visual Studio代码

@@ -66,6 +66,7 @@
 
 * [blog](https://github.com/duythien/blog) - 具有多语言支持的博客项目
 * [giada-www](https://github.com/monocasual/giada-www) - 官方网站 [Giada Loop Machine](https://www.giadamusic.com/)
+* [KikCMS](https://github.com/krazzer/kikcms) - 基于Phalcon Framework构建的CMS
 * [phalconBlog](https://github.com/eristoddle/phalconBlog) - 使用Phalcon框架的博客
 * [PhalconEye](https://github.com/PhalconEye/phalconeye) -  PhalconEye CMS
 * [Skopy Blog Engine](https://github.com/yuriygr/skopy) - 一个简单的博客引擎，适合那些想要开始学习Phalcon的人
@@ -107,7 +108,7 @@
 * [Phalcon BB Debugger](https://github.com/ismail0234/Phalcon-BB-Debugger) -  Phalcon BB Debugger强大而简单的安装.
 * [Phalcon Console](https://github.com/vanchelo/phalcon-console) -  AJAX控制台在浏览器中用光执行PHP代码，能够保存最后一次代码执行
 * [Phalcon Debugbar](https://github.com/snowair/phalcon-debugbar) - 整合 [PHP Debug Bar](http://phpdebugbar.com) 与Phalcon框架
-* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - 整合 [Whoops](https://filp.github.io/whoops/) 与Phalcon
+* [Phalcon Whoops](https://github.com/whoops-php/phalcon) - 整合 [Whoops](https://filp.github.io/whoops/) with Phalcon
 * [Prophiler](https://github.com/fabfuel/prophiler) -  PHP Profiler和开发人员工具栏（为Phalcon构建）
 
 
@@ -215,7 +216,7 @@
 
 *实现Object-Document Mapper技术的库.*
 
-* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - 一个 [pagination adapter](https://docs.phalconphp.com/3.4/en/db-pagination#data-adapters) 对于扩展`Phalcon \ Mvc \ Collection`的类
+* [phalcon-collection-paginator](https://github.com/angelxmoreno/phalcon-collection-paginator) - 一个 [pagination adapter](https://docs.phalcon.io/3.4/en/db-pagination#data-adapters) 对于扩展`Phalcon \ Mvc \ Collection`的类
 
 ## Provisioning
 *为Phalcon应用程序配置系统的工具.*
@@ -339,7 +340,6 @@
 * [phalcon-docker-nginx](https://github.com/viebig/phalcon-docker-nginx) -  Phalcon 3，PHP7，Docker样本启动器应用程序
 * [phalcon-vm](https://github.com/eugene-manuilov/phalcon-vm) - 您选择的Phalcon 3.x和PHP7.0开发+ MySQL / PostgreSQL / MongoDB，Redis / Memcached，Gearman / RabbitMQ，Elasticsearch / Sphinxsearch的Vagrant配置
 * [phalcon3-compose](https://github.com/linxlad/phalcon3-compose) -  Docker Phalcon 3开发环境
-* [phalcon-vagrant-dev](https://github.com/OMSmolina/phalcon-vagrant-dev) - 为Phalcon / Zephir的所有项目贡献环境
 
 
 ## Resources
@@ -353,7 +353,7 @@
 
 * [Facebook](https://www.facebook.com/Phalcon-Framework-134230726685897) -  Facebook上的Phalcon
 * [Gab](https://gab.com/phalcon) - 加布的Phalcon
-* [Phalcon Forums](https://forum.phalconphp.com/) -  Phalcon论坛
+* [Phalcon Forums](https://forum.phalcon.io/) -  Phalcon论坛
 * [Phalcon Russian Community Chat](https://gitter.im/phalcon-rus/chat) -  Gitter.im中的俄语社区聊天
 * [Stack Overflow](https://stackoverflow.com/questions/tagged/phalcon) -  StackOverflow标记的问题
 * [Twitter](https://twitter.com/phalconphp) - 推特上的Phalcon
@@ -365,13 +365,13 @@
 
 ## Websites
 
-* [Built With](https://builtwith.phalconphp.com/) - Gallery of applications, demos and projects built with Phalcon Framework
-* [Phalcon Blog](https://blog.phalconphp.com/) -  Phalcon博客
+* [Built With](https://builtwith.phalcon.io/) - 使用Phalcon Framework构建的应用程序，演示和项目库
+* [Phalcon Blog](https://blog.phalcon.io/) -  Phalcon博客
 * [Phalconist](https://github.com/phalcon/phalconist) -  Phalconist上Phalcon Framework的资源目录
 
 
 ### Tutorials
 
-* [Phalcon Documentation](https://docs.phalconphp.com/3.4/en/introduction) -  Phalcon文档
+* [Phalcon Documentation](https://docs.phalcon.io/3.4/en/introduction) -  Phalcon文档
 * [Sitepoint](https://www.sitepoint.com/?s=phalcon) - 文章，教程等等
 * [Tutsplus](https://code.tutsplus.com/categories/phalcon/courses) -  Tutsplus代码课程

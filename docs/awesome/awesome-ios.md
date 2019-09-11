@@ -19,7 +19,7 @@
 
 [![instabug-github](https://user-images.githubusercontent.com/9888943/35385975-e6829fc0-01d2-11e8-963f-2166c4a67763.gif)](https://try.instabug.com/awesomeios/?utm_source=awesomeios&utm_medium=spon&utm_content=banner)
 &gt;我们强烈建议集成Instabug的框架，因为他们在SDK中编译了许多强大的功能，可以为每个错误/崩溃报告提供有用且丰富的数据.
- 他们消除了调试的麻烦，因为SDK会自动附加屏幕截图，屏幕录像，设备详细信息，网络日志和每个错误报告的重复步骤，从而加快开发过程.  Instabug为所有付费计划提供超棒的ios社区**独家** 15％折扣**. [**Go to 5-minute installation guide.**](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
+ 他们消除了调试的麻烦，因为SDK会自动附加屏幕截图，屏幕录制，设备详细信息，网络日志和每个错误报告的重复步骤，从而加快开发过程.  Instabug为所有付费计划提供超棒的ios社区**独家** 15％折扣**. [**Go to 5-minute installation guide.**](https://try.instabug.com/awesomeios?utm_source=awesomeios&utm_medium=spon&utm_content=learn-more)🚀
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeios?pixel)](https://instabug.com)
 
 ## How to Use
@@ -519,7 +519,7 @@
 * [SwiftTask](https://github.com/ReactKit/SwiftTask) - 承诺+进度+暂停+取消+重试Swift.
 * [When](https://github.com/vadymmarkov/When) -  Swift中Promise的轻量级实现.
 * [then🎬](https://github.com/freshOS/then) -  Swift中优雅的异步代码.
-* [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) -  Bolts是一系列低级库，旨在简化开发移动应用程序的过程.
+* [Bolts-Swift](https://github.com/BoltsFramework/Bolts-Swift) -  Bolts是一个低级库的集合，旨在使开发移动应用程序更容易.
 * [RWPromiseKit](https://github.com/deput/RWPromiseKit) -  Objective-C的轻量级Promise库
 * [FutureLib](https://github.com/couchdeveloper/FutureLib) -  FutureLib是一个纯粹的Swift 2库，它实现了受Scala启发的Futures＆Promises.
 * [SwiftNotificationCenter](https://github.com/100mango/SwiftNotificationCenter) - 面向协议的NotificationCenter，类型安全，线程安全且具有内存安全性
@@ -842,6 +842,7 @@
 * [Twitter Logging Service](https://github.com/twitter/ios-twitter-logging-service) -  Twitter Logging Service是适用于iOS客户端的强大且高性能的日志记录框架.
 * [Reqres](https://github.com/AckeeCZ/Reqres) - 具有Alamofire支持的网络请求和响应正文记录器
 * [TraceLog](https://github.com/tonystone/tracelog)   -  Dead Simple：记录它的意图！  在ios，osx和Linux上运行.
+* [OkLog](https://github.com/diegotl/OkLog-Swift) - 适用于iOS和macOS项目的网络记录器.
 
 ## Machine Learning
 
@@ -1078,7 +1079,7 @@
 * [VideoPager](https://github.com/entotsu/VideoPager) - 分页视频UI和一些控制组件可用.
 * [ios-360-videos](https://github.com/NYTimes/ios-360-videos) -  NYT360Video播放从AVPlayer流式传输的360度视频.
 * [swift-360-videos](https://github.com/gsabran/DDDKit) -  Pure swift（无SceneKit）3D库，专注于视频和360.
-* [ABMediaView](https://github.com/andrewboryk/ABMediaView) -  UIImageView子类，用于插入图像，视频，GIF和音频显示，具有全屏和最小化功能，可在右下角显示.
+* [ABMediaView](https://github.com/andrewboryk/ABMediaView) - 用于插入式图像，视频，GIF和音频显示的UIImageView子类，具有全屏和最小化功能，可在右下角显示.
 * [PryntTrimmerView](https://github.com/HHK1/PryntTrimmerView) - 一组UI元素，用于修剪，裁剪和选择视频内的帧.
 * [VGPlayer](https://github.com/VeinGuo/VGPlayer) -  Swift中的简单iOS视频播放器，支持播放本地和网络，后台播放模式.
 * [YoutubeKit](https://github.com/rinov/YoutubeKit) - 完全支持Youtube IFrame API和YoutubeDataAPI的视频播放器，可轻松创建Youtube应用.
@@ -1272,7 +1273,7 @@
 * [Unbox](https://github.com/JohnSundell/Unbox) - 易于使用的Swift JSON解码器
 * [JSONJoy-Swift](https://github.com/daltoniam/JSONJoy-Swift) - 将JSON转换为Swift对象.
 * [LazyObject](https://github.com/iwasrobbed/LazyObject) - 懒惰地将JSON反序列化为强类型的Swift对象
-* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是一个用于macOS的桌面应用程序，它允许您将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter.
+* [JSONExport](https://github.com/Ahmed-Ali/JSONExport) -  JSONExport是一个用于macOS的桌面应用程序，它使您能够将JSON对象作为模型类导出，并使用您喜欢的语言创建相关的构造函数，实用程序方法，setter和getter.
 * [Elevate](https://github.com/Nike-Inc/Elevate) -  Elevate是一个JSON解析框架，它利用Swift使解析变得简单，可靠和可组合.
 * [MJExtension](https://github.com/CoderMJLee/MJExtension)   -  JSON和模型之间的快速，方便和非侵入式转换.  您的模型类不需要扩展另一个基类.  您无需修改​​任何模型文件.
 * [AlamofireObjectMapper](https://github.com/tristanhimmelman/AlamofireObjectMapper) -  Alamofire扩展，使用ObjectMapper将JSON响应数据转换为快速对象
@@ -1464,7 +1465,7 @@
 * [Azure](https://github.com/Azure/azure-storage-ios) - 用于访问iOS设备上的Azure存储的客户端库
 * [1Password](https://github.com/AgileBits/onepassword-app-extension) - 适用于iOS应用的1Password扩展
 * [CareKit](https://github.com/carekit-apple/CareKit)   -  CareKit是一个开源软件框架，用于创建可帮助人们更好地理解和管理健康状况的应用程序.  由Apple提供
-* [Shopify](https://github.com/Shopify/mobile-buy-sdk-ios) -  Shopify的Mobile Buy SDK使您可以轻松地在移动应用中销售实体产品.
+* [Shopify](https://github.com/Shopify/mobile-buy-sdk-ios) -  Shopify的Mobile Buy SDK使您可以轻松地在移动应用程序中销售实体产品.
 * [Pinterest](https://github.com/pinterest/ios-pdk) -  Pinterest iOS SDK
 * [playkit-ios](https://github.com/kaltura/playkit-ios) -  PlayKit：适用于iOS的Kaltura Player SDK.
 * [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) - 适用于Swift的Algolia Search API客户端
@@ -2248,7 +2249,7 @@
 * [LLSlideMenu](https://github.com/lilei644/LLSlideMenu) - 这是适用于iOS应用的弹簧幻灯片菜单
 * [Swift-Slide-Menu](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - 以Swift编写的幻灯片菜单，灵感来自幻灯片菜单素材设计.
 * [MenuItemKit](https://github.com/cxa/MenuItemKit) - 带图像和块的UIMenuItem（闭包）
-* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - 用Swift编写的优雅下拉菜单显示在导航栏下方，用于在用户单击导航标题时显示相关项目列表.
+* [BTNavigationDropdownMenu](https://github.com/PhamBaTho/BTNavigationDropdownMenu) - 用Swift编写的优雅下拉菜单显示在导航栏下方，以便在用户单击导航标题时显示相关项目的列表.
 * [ALRadialMenu](https://github.com/AlexLittlejohn/ALRadialMenu)   - 带弹簧动画的径向/圆形菜单.  写得很快
 * [AZDropdownMenu](https://github.com/Azuritul/AZDropdownMenu) - 易于使用的下拉菜单，支持图像.
 * [CircleMenu](https://github.com/Ramotion/circle-menu) - 动画，多选项菜单按钮.
@@ -2877,7 +2878,7 @@ CollectionView，在几分钟内发现Instagram.
 * [Zolang](https://github.com/Zolang/Zolang) - 用于在iOS，Android和Tools之间共享逻辑的编程语言.
 * [xavtool](https://github.com/gabrielrobert/xavtool) - 用于自动增加iOS / Android应用程序版本的命令行实用程序.
 * [Cutter](https://cutter.albemala.me/) - 从单个模板开始为所有屏幕尺寸生成iOS启动图像（启动画面）的工具.
-* [nef](https://github.com/bow-swift/nef) -  Xcode Playground的一组命令行工具：允许您编写文档的编译时验证，编写为Xcode Playgrounds，生成markdown文件，与Jekyll集成以构建微型网站和Carbon导出代码片段.
+* [nef](https://github.com/bow-swift/nef) -  Xcode Playground的一组命令行工具：允许您编写文档的编译时验证，编写为Xcode Playgrounds，生成markdown文件，与Jekyll集成以构建微型网站，以及Carbon导出代码片段.
 
 ## Rapid Development
 
