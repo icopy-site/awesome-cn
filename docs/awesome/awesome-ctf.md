@@ -84,6 +84,7 @@
 
 - [FeatherDuster](https://github.com/nccgroup/featherduster) - 自动化模块化密码分析工具
 - [Hash Extender](https://github.com/iagox86/hash_extender) - 用于执行散列长度扩展攻击的实用工具
+- [padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - 用于执行填充oracle攻击的CLI工具
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - 破解PkZip加密的工具
 - [RSACTFTool](https://github.com/Ganapati/RsaCtfTool) - 用于恢复具有各种攻击的RSA私钥的工具
 - [RSATool](https://github.com/ius/rsatool) - 生成具有p和q知识的私钥
@@ -112,14 +113,14 @@
   - `gem install one_gadget`
 - [Pwntools](https://github.com/Gallopsled/pwntools) - 用于编写漏洞的CTF框架
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) -  QEMU交互式运行时分析器
-- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) -  ROP开发框架
+- [ROP Gadget](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation
 - [V0lt](https://github.com/P1kachu/v0lt) - 安全CTF工具包
 
 ## Forensics
 
 *用于解决取证挑战的工具*
 
-- [Aircrack-Ng](http://www.aircrack-ng.org/) - Crack 802.11 WEP and WPA-PSK keys
+- [Aircrack-Ng](http://www.aircrack-ng.org/) - 破解802.11 WEP和WPA-PSK密钥
   - `apt-get install aircrack-ng`
 - [Audacity](http://sourceforge.net/projects/audacity/) - 分析声音文件（mp3，m4a，等等）
   - `apt-get install audacity`
@@ -164,7 +165,7 @@
 
 ## Reversing
 
-*用于解决逆转挑战的工具*
+*Tools used for solving Reversing challenges*
 
 - [Androguard](https://github.com/androguard/androguard) - 反向设计Android应用程序
 - [Angr](https://github.com/angr/angr) - 平台无关的二进制分析框架

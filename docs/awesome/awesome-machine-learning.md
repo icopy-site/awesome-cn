@@ -260,7 +260,7 @@
 * [SVGo](https://github.com/ajstarks/svgo) - 用于SVG生成的Go语言库.
 * [glot](https://github.com/arafatk/glot) -  Glot是一个建立在gnuplot之上的Golang的绘图库.
 * [globe](https://github.com/mmcloughlin/globe) - 全球线框可视化.
-* [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - General-purpose graph library.
+* [gonum/graph](https://godoc.org/gonum.org/v1/gonum/graph) - 通用图库.
 * [go-graph](https://github.com/StepLg/go-graph)   -  Go / Golang语言的图形库.  ** [已过时] **
 * [RF](https://github.com/fxsjy/RF.go)   -  Go中的随机森林实施.  ** [已过时] **
 
@@ -307,7 +307,7 @@
 * [ClearTK](https://github.com/ClearTK/cleartk)   -  ClearTK提供了一个用Java开发统计自然语言处理（NLP）组件的框架，它构建在Apache UIMA之上.  ** [已过时] **
 * [Apache cTAKES](https://ctakes.apache.org/) - 阿帕奇临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)   -  NLP4J项目为自然语言处理提供软件和资源.  该项目始于计算机语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [已过时] **
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的一系列自然语言处理核心库（NLP），例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
+* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的自然语言处理（NLP）的许多核心库，例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
 
 <a name="java-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -564,7 +564,7 @@
   * [kernel smoothing](https://github.com/rlowrance/kernel-smoothers)   -  KNN，内核加权平均值，局部线性回归平滑器.  ** [已过时] **
   * [cutorch](https://github.com/torch/cutorch) - 火炬CUDA实施.
   * [cunn](https://github.com/torch/cunn) - 火炬CUDA神经网络实施.
-  * [imgraph](https://github.com/clementfarabet/lua---imgraph)   -  Torch的图像/图形库.  该软件包提供了在图像上构建图形，对图像进行分割，从中构建树木以及将它们转换回图像的例程.  ** [已过时] **
+  * [imgraph](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images. **[Deprecated]**
   * [videograph](https://github.com/clementfarabet/videograph)   -  Torch的视频/图表库.  该软件包提供了在视频上构建图形，对其进行分段，从中构建树木以及将它们转换回视频的例程.  ** [已过时] **
   * [saliency](https://github.com/marcoscoffier/torch-saliency)   - 围绕整体图像的代码和工具.  用于基于快速积分直方图查找兴趣点的库.  ** [已过时] **
   * [stitch](https://github.com/marcoscoffier/lua---stitch)   - 允许我们使用hugin缝合图像并对视频序列应用相同的拼接.  ** [已过时] **
@@ -613,7 +613,7 @@
 #### Computer Vision
 
 * [Contourlets](http://www.ifp.illinois.edu/~minhdo/software/contourlet_toolbox.tar) - 实现contourlet变换及其效用函数的MATLAB源代码.
-* [Shearlets](https://www3.math.tu-berlin.de/numerik/www.shearlab.org/software) - 用于剪切变换的MATLAB代码.
+* [Shearlets](https://www3.math.tu-berlin.de/numerik/www.shearlab.org/software) - MATLAB code for shearlet transform.
 * [Curvelets](http://www.curvelet.org/software.html) -  Curvelet变换是小波变换的高维概括，旨在表示不同尺度和不同角度的图像.
 * [Bandlets](http://www.cmap.polytechnique.fr/~peyre/download/) - 用于bandlet变换的MATLAB代码.
 * [mexopencv](https://kyamagu.github.io/mexopencv/) - 用于OpenCV库的MATLAB mex函数的集合和开发工具包.
@@ -698,7 +698,7 @@
 * [Multi-Perceptron-NeuralNetwork](https://github.com/Kalvar/ios-Multi-Perceptron-NeuralNetwork) - 它实现了基于反向传播神经网络（BPN）的多感知神经网络（神经网络），并设计了无限隐藏层.
 * [KRHebbian-Algorithm](https://github.com/Kalvar/ios-KRHebbian-Algorithm)   - 它是机器学习神经网络中的非主管和自学习算法（调整权重）.  ** [已过时] **
 * [KRKmeans-Algorithm](https://github.com/Kalvar/ios-KRKmeans-Algorithm)   - 它实现了K-Means聚类和分类算法.  它可以用于数据挖掘和图像压缩.  ** [已过时] **
-* [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression. **[Deprecated]**
+* [KRFuzzyCMeans-Algorithm](https://github.com/Kalvar/ios-KRFuzzyCMeans-Algorithm)   - 实现了模糊C均值（FCM）机器学习的模糊聚类/分类算法.  它可以用于数据挖掘和图像压缩.  ** [已过时] **
 
 <a name="ocaml"></a>
 ## OCaml
@@ -833,7 +833,7 @@ be
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) - &gt;神经网络，变压器和模型的精选集合，使您的机器学习更快，更有效.
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  可以找到文档 [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml)   - 用于生产和分析的自动化机器学习.  让您专注于ML的有趣部分，同时输出生产就绪代码，以及数据集和结果的详细分析.  包括对NLP，XGBoost，CatBoost，LightGBM的支持，以及即将深入学习. 
-* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型存储到NoSQL数据存储区中.
+* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型，存储到NoSQL数据存储区中.
 * [XGBoost](https://github.com/dmlc/xgboost) -  eXtreme Gradient Boosting（Tree）库的Python绑定.
 * [Apache SINGA](https://singa.apache.org) - 用于开发开源机器学习库的Apache Incubating项目.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - 在Python中使用概率编程预订/ iPython笔记本.
@@ -953,7 +953,7 @@ be
 * [ggfortify](https://github.com/sinhrks/ggfortify) -  ggplot2流行R包的统一接口.
 * [Kartograph.py](https://github.com/kartograph/kartograph.py) - 在Python中渲染漂亮的SVG地图.
 * [pygal](http://pygal.org/en/stable/) -  Python SVG Charts Creator.
-* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - 基于PyQt4 / PySide和NumPy构建的纯python图形和GUI库.
+* [PyQtGraph](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
 * [pycascading](https://github.com/twitter/pycascading) ** [已过时] **
 * [Petrel](https://github.com/AirSage/Petrel) - 用于在纯Python中编写，提交，调试和监视Storm拓扑的工具.
 * [Blaze](https://github.com/blaze/blaze) -  NumPy和Pandas与大数据的接口.
@@ -985,7 +985,7 @@ be
 #### Misc Scripts / iPython Notebooks / Codebases
 * [Map/Reduce implementations of common ML algorithms](https://github.com/Yannael/BigDataAnalytics_INFOH515)：Jupyter笔记本涵盖了如何使用Python NumPy从头开始实现不同的ML算法（普通最小二乘，梯度下降，k均值，交替最小二乘），以及如何使用Map / Reduce和Spark使这些实现可扩展. 
 * [BioPy](https://github.com/jaredthecoder/BioPy)   -  Python中的生物启发和机器学习算法.  ** [已过时] **
-* [SVM Explorer](https://github.com/plotly/dash-svm) - Interactive SVM Explorer, using Dash and scikit-learn
+* [SVM Explorer](https://github.com/plotly/dash-svm) - 交互式SVM Explorer，使用Dash和scikit-learn
 * [pattern_classification](https://github.com/rasbt/pattern_classification)
 * [thinking stats 2](https://github.com/Wavelets/ThinkStats2)
 * [hyperopt](https://github.com/hyperopt/hyperopt-sklearn)
@@ -1016,7 +1016,7 @@ be
 * [Python Programming for the Humanities](https://www.karsdorp.io/python-course/)   - 假设没有先验知识，人文学科的Python编程课程.  重点关注文本处理/ NLP.
 * [GreatCircle](https://github.com/mwgg/GreatCircle) - 用于计算大圆距离的库.
 * [Optunity examples](http://optunity.readthedocs.io/en/latest/notebooks/index.html) - 演示如何将Optunity与机器学习库协同使用的示例.
-* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - “我先通过黑客攻击来学习Python，后来认真学习.*我想用机器学习来做这件事.如果这是你的风格，请和我一起领先一步.”
+* [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn](https://github.com/hangtwenty/dive-into-machine-learning) - “我先通过黑客攻击来学习Python，后来认真学习.*我想用机器学习来做这件事.如果这是你的风格，请和我一起领先一点.”
 * [TDB](https://github.com/ericjang/tdb)   -  TensorDebugger（TDB）是深度学习的可视化调试器.  它为TensorFlow提供交互式，逐节点调试和可视化.
 * [Suiron](https://github.com/kendricktan/suiron/) -  RC汽车的机器学习.
 * [Introduction to machine learning with scikit-learn](https://github.com/justmarkham/scikit-learn-videos) - 来自Data School关于scikit-learn的视频教程的IPython笔记本.
@@ -1029,6 +1029,11 @@ be
 
 <a name="python-neural-networks"></a>
 #### Neural Networks
+
+* [nn_builder](https://github.com/p-christ/nn_builder) -  nn_builder是一个python包，可以让你在一行中构建神经网络
+* [NeuralTalk](https://github.com/karpathy/neuraltalk) -  NeuralTalk是一个Python + numpy项目，用于学习描述带句子图像的多模式回归神经网络.
+* [Neuron](https://github.com/molcik/python-neuron)   - 神经元是时间序列预测的简单类.  它利用LNU（线性神经元），QNU（二次神经元），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器 - 极端学习机）神经网络，用梯度下降或LeLevenberg学习-Marquardt算法.
+=======
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2)   -  NeuralTalk是一个Python + numpy项目，用于学习描述带句子图像的多模式回归神经网络.  ** [已过时] **
 * [Neuron](https://github.com/molcik/python-neuron)   - 神经元是时间序列预测的简单类.  它利用LNU（线性神经元），QNU（二次神经元），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器 - 极端学习机）神经网络，用梯度下降或LeLevenberg学习-Marquardt算法.  ** [已过时] **
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) - 在不使用任何库的情况下，非常简单地在python中为虚拟实现神经网络，并提供详细的注释.

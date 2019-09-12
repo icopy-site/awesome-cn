@@ -139,6 +139,7 @@
   1. [Crypto Jobs](https://crypto.jobs/?jobs=remote) - 加密爱好者的区块链工作.
   1. [Crypto Jobs List](https://cryptojobslist.com/remote) - #1 job board to find and post crypto, bitcoin and blockchain jobs.
   1. [Cryptocurrency Jobs](https://cryptocurrencyjobs.co/remote/) - 位置过滤器 - &gt; *远程*
+  1. [Daily Remote](https://dailyremote.com) 过滤并找到每个角色的远程作业！
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Europe Remotely](http://europeremotely.com/)
@@ -250,7 +251,7 @@
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人从不同角度攻击位置独立/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) -  Remote Works播客每两周发布一次，主持人Jonathan Sharp讨论围绕远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
+  1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins采访了人们，他们在思考分布式团队，远程工作以及如何支持快乐，高效，自由放养的员工.
   1. [Wide Teams](http://www.wideteams.com) - 每集与远程工作人员进行一对一的访谈，了解工作流程和实践
 
@@ -378,7 +379,6 @@
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - 学习单词，享受世界.
   1. [MVP Space](http://mvp-space.com/) - 与目标受众一起测试商业创意或向投资者展示其潜力.
   1. [Mozilla](https://careers.mozilla.org/listings/) -  Firefox的位置搜索栏下有一个“远程”选项
-  1. [Mozio](https://angel.co/mozio/jobs/)   -  Mozio正在追赶世界的交通.  该团队100％偏远 - 全球.
   1. [NearForm](https://www.nearform.com/careers/)   -  NearForm通过构建高性能，开放的软件来发展企业.  我们的全球团队使用现代流程和工具帮助客户快速创新.
   1. [Nectafy](http://nectafy.com/jobs/) - 入站营销和内容创建.
   1. [Netsparker](https://www.netsparker.com/jobs/) -  Web应用程序安全扫描程序.
@@ -472,7 +472,7 @@
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - 子网.
 1. [##remotes](https://github.com/remotesclub/remotes) -  IRC频道（[web access](http://webchat.freenode.net/?channels=##remotes))
-1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
+1. [Hacker Paradise](http://www.hackerparadise.org/) - 旅行远程工作人员.
 1. [Remote Year](http://www.remoteyear.com/) - 旅行技术人员1年.
 1. [We work remotely in Romania](https://weworkremotely.ro/) - 罗马尼亚的远程工作人员，全职或在途
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作人员

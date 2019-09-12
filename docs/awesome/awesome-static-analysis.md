@@ -667,5 +667,5 @@
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Matthias Endler](http://matthias-endler.de) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [Matthias Endler](https://endler.dev) 已放弃对此作品的所有版权及相关或相邻权利.
 标题图片 [Designed by Freepik](http://www.freepik.com).

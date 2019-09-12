@@ -217,6 +217,7 @@
 * [Trust By Design: The Fusion of Operational Maturity and Risk Modeling](https://www.youtube.com/watch?v=Vvd3uvNvMns)
 * [Top Seven Myths of Robust Systems](https://www.verica.io/top-seven-myths-of-robust-systems/)
 * [Taming chaos: Preparing for your next incident](https://www.oreilly.com/ideas/taming-chaos-preparing-for-your-next-incident)
+* [PID Loops and the Art of Keeping Systems Stable](https://www.youtube.com/watch?v=3AxSwCC7I4s)
 
 ## Monitoring & Observability & Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -399,7 +400,7 @@
 
 ## Blogs
 * [Brendan Gregg's Blog](http://www.brendangregg.com/blog/index.html) - 高度技术博客文章关于系统内部，性能和SRE.
-* [Everything Sysadmin](http://everythingsysadmin.com/) -  Tom Limoncelli撰写关于SysAdmin / DevOps / SRE的博客文章.
+* [Everything Sysadmin](http://everythingsysadmin.com/) - 汤姆利蒙切利关于SysAdmin / DevOps / SRE的博客帖子.
 * [High Scalability](http://highscalability.com/) - 技术博客文章关于系统架构.
 * [rachelbythebay](https://rachelbythebay.com/w/) -  Techincal博客文章.
 * [SRE Weekly](https://sreweekly.com/) - 每周网站可靠性通讯.

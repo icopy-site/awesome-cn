@@ -105,6 +105,7 @@
 - [Wagtail Alt Generator](https://github.com/marteinn/wagtail-alt-generator) - 用于基于计算机视觉生成图像描述和标签的模块.
 - [Wagtail FilePreviews](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 - [Wagtail-Textract](https://github.com/fourdigits/wagtail_textract) - 制作Wagtail搜索文档内容（PDF，Excel和Word等）.
+- [Wagtail-Lazyimages](https://github.com/ptrck/wagtail-lazyimages) - 一个生成微小模糊占位符图像的插件，用于延迟加载Wagtail图像medium.com风格.
 
 ### Translations
 

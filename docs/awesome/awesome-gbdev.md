@@ -58,7 +58,7 @@
 
 > #### Disambiguation
 >
-&gt;虽然本文档主要关注原始（1989）Game Boy（DMG），但* Game Boy Color *（GBC）和* Super Game Boy *（SGB）是非常相似的系统，几乎没有重要的区别，例如：
+&gt;虽然本文档主要关注原始（1989）Game Boy（DMG），但* Game Boy Color *（GBC）和* Super Game Boy *（SGB）是非常相似的系统，有一些重要的区别，例如：
 >
 &gt;  - 不同的硬件规格
 &gt;  - 特定的硬件和软件功能
