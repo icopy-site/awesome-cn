@@ -236,6 +236,7 @@
 * [jQuery Form Validator](https://github.com/victorjonsson/jQuery-Form-Validator/) - 在保持HTML标记清除JavaScript代码的同时验证用户输入.
 * [jquery-validation](https://github.com/jquery-validation/jquery-validation) - 对现有表单进行插入验证，同时使各种自定义适合您的应用程序非常简单.
 * [jQuery.validationEngine](https://github.com/posabsolute/jQuery-Validation-Engine) - 验证浏览器中的表单字段.
+* [jQuery-form-validation](https://github.com/bnabriss/jquery-form-validation) - 使用Laravel语法验证html表单.
 
 
 ### Miscellaneous Plugins

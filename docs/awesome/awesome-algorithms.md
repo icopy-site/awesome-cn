@@ -63,6 +63,7 @@
 * [The Algorithm Design Manual](http://www.algorist.com/) - 易于阅读和充满现实世界的例子.
 * [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) - 书.
 * [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-second-edition)
+* [Algorithms and Data Structures in Action](https://www.manning.com/books/algorithms-and-data-structures-in-action) - 引入可在工作中使用的算法和数据结构的不同且很好的方法.
 
 ## Cheat Sheets
 * [The Technical Interview Cheat Sheet](https://gist.github.com/TSiege/cbb0507082bb18ff7e4b)
@@ -107,6 +108,7 @@
     * [by @trekhleb](https://github.com/trekhleb/javascript-algorithms)
     * [by @ManrajGrover](https://github.com/ManrajGrover/algorithms-js)
     * [by @amejiarosario](https://github.com/amejiarosario/dsa.js)
+    * [by @zonayedpca](https://github.com/zonayedpca/AlgoDS.js)
 *目标-C
     * [by @ EvgenyKarkan](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python

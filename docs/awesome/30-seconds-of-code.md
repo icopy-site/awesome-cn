@@ -280,7 +280,7 @@ const minMax = over（Math.min，Math.max）;
 
 创建一个函数，通过转换参数调用提供的函数.
 
-使用`Array.prototype.map（）`将`transforms`与`args`结合使用扩展运算符（`...`），将转换后的参数传递给`fn`.
+使用`Array.prototype.map（）`将`transforms`和`args`结合使用扩展运算符（`...`）将变换后的参数传递给`fn`.
 
 ```js
 const overArgs =（fn，transforms）=&gt;（... args）=&gt; fn（... args.map（（https://github.com/30-seconds/30-seconds-of-code/blob/ master / val，i）=&gt;变换[i](https://github.com/30-seconds/30-seconds-of-code/blob/master/val)));
@@ -1322,8 +1322,8 @@ const join =（arr，separator =&#39;，&#39;，end = separator）=&gt;
       我=== arr.length  -  2
          ？  acc + val + end
         ：i === arr.length  -  1
-           ？  acc + val
-          ：acc + val + separator，
+         ？  acc + val
+        ：acc + val + separator，
     ''
   );
 ```
@@ -1520,7 +1520,7 @@ const nthElement =（arr，n = 0）=&gt;（n === -1？arr.slice（n）：arr.sli
 
 ```js
  nthElement（[&#39;a&#39;，&#39;b&#39;，&#39;c&#39;]，1）;  //&#39;b&#39;
- nthElement（[&#39;a&#39;，&#39;b&#39;，&#39;b&#39;]，-3）;  // &#39;一个&#39;
+ nthElement（[&#39;a&#39;，&#39;b&#39;，&#39;b&#39;]，-3）;  // &#39;一种&#39;
 ```
 </details>
 
@@ -2710,7 +2710,7 @@ const bottomVisible =（）=&gt;
 
 
 
- ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，这仍然是实验性的，但应该在将来使用，而不是使用此代码片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
+ ⚠️**注意：**使用新的异步剪贴板API可以轻松实现相同的功能，该API仍然是实验性的，但将来应该使用而不是此片段.  了解更多相关信息 [here](https://github.com/w3c/clipboard-apis/blob/master/explainer.adoc#writing-to-the-clipboard).
 
 将字符串复制到剪贴板. 
 仅在用户操作的结果下工作（即在“click”事件监听器内）.
@@ -3758,10 +3758,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;上午&#39;
     ：num === 12
-       ？  12 +&#39;pm&#39;
-      ：num &lt;12
-         ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+     ？  12 +&#39;pm&#39;
+    ：num &lt;12
+     ？  （num％12）+&#39;am&#39;
+    ：（无论12％）PM“;
 ```
 
 <details>
@@ -4925,11 +4925,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
-      ? 1
-      ：n *阶乘（n  -  1）;
+    ? 1
+    ：n *阶乘（n  -  1）;
 ```
 
 <details>
@@ -4995,7 +4995,7 @@ const gcd =（... arr）=&gt; {
 初始化一个数组，其中包含指定范围内的数字，其中`start`和`end`是包含的，两个术语之间的比率是`step`.
 如果`step`等于`1`，则返回错误.
 
-使用`Array.from（）`，`Math.log（）`和`Math.floor（）`来创建一个所需长度的数组，`Array.prototype.map（）`来填充所需的值.范围.
+使用`Array.from（）`，`Math.log（）`和`Math.floor（）`创建一个所需长度的数组，`Array.prototype.map（）`来填充所需的值范围.
 省略第二个参数`start`，使用默认值`1`.
 省略第三个参数`step`，使用默认值`2`.
 
@@ -6068,8 +6068,8 @@ const deepClone = obj =&gt; {
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-       ？  Array.from（OBJ）
-      ：克隆;
+     ？  Array.from（OBJ）
+    ：克隆;
 };
 ```
 
@@ -6153,13 +6153,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（OBJ）
      ？  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;object&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;？  deepMapKeys（val，f）:( acc [f（current）] = val）;
         返回acc;
       }, {})
-      ：obj;
+    ：obj;
 ```
 
 <details>
@@ -6228,9 +6228,9 @@ const dig =（obj，target）=&gt;
   目标在obj
      ？  OBJ [靶标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      if（acc！== undefined）return acc;
-      if（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，undefined）;
+        if（acc！== undefined）return acc;
+        if（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，undefined）;
 ```
 
 <details>
@@ -6573,7 +6573,7 @@ const users = {
 
 比较两个对象以确定第一个对象是否包含与第二个对应的属性值.
 
-使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`和严格比较来确定第一个对象中是否存在所有键并具有相同的值.
+使用`Object.keys（source）`获取第二个对象的所有键，然后使用`Array.prototype.every（）`，`Object.hasOwnProperty（）`并进行严格比较，以确定第一个对象中是否存在所有键并具有相同的值.
 
 ```js
 const matches =（obj，source）=&gt;
@@ -7439,7 +7439,7 @@ const pad =（str，length，char =&#39;&#39;）=&gt;
 Returns `true` if the given string is a palindrome, `false` otherwise.
 
 Convert the string to `String.prototype.toLowerCase()` and use `String.prototype.replace()` to remove non-alphanumeric characters from it.
-然后，使用扩展运算符（`...`）将字符串拆分为单个字符，`Array.prototype.reverse（）`，`String.prototype.join（&#39;&#39;）`并将其与原始字符进行比较，未反转string，将其转换为`String.prototype.toLowerCase（）`.
+然后，使用扩展运算符（```）将字符串拆分为单个字符，`Array.prototype.reverse（）`，`String.prototype.join（&#39;&#39;）`并将其与原始字符进行比较，未反转string，将其转换为`String.prototype.toLowerCase（）`.
 
 ```js
 const palindrome = str =&gt; {

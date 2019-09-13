@@ -279,7 +279,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 ```css
 * + * {
-  margin-top: 1.5em;
+  margin-top：1.5em;
 }
 ```
 
@@ -305,7 +305,7 @@ SVG适用于所有分辨率类型，并且在所有浏览器中均受支持 [bac
 
 .slider：悬停{
   最大高度：600px;
-  overflow-y：scroll;
+  overflow-y: scroll;
 }
 ```
 
@@ -564,6 +564,19 @@ textarea {
 ```
 
 就这么简单.
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Set `display: none` on Line Breaks Used as Spacing
+
+As [Harry Roberts pointed out](https://twitter.com/csswizardry/status/1170835532584235008)，这有助于防止CMS用户对间距使用额外的换行符：
+
+```css
+br + br {
+  display：none;
+}
+```
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 

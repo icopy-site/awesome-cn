@@ -33,7 +33,7 @@
 - [SingularityNET](https://singularitynet.io/) -  SingularityNET是以太坊区块链上的分布式AI平台，每个区块链节点都备份AI算法.
 - [Intuition Fabric](https://intuitionfabric.com) -  Intuition Fabric的目标是通过存储在行星际文件系统上并通过以太坊区块链访问的深度学习模型网络实现对AI的访问民主化.
 - [Cerebrum](https://cerebrum.world/)   -  Cerebrum是众包机器学习的分散平台.  Cerebrum使任何人都可以加密他们的数据并主持机器学习竞赛，以利用众包机器学习模型. 
-- [OpenMined](https://openmined.org/) - OpenMined is a community focused on building open-source technology for the decentralized ownership of data and intelligence. With OpenMined, AI can be trained on data that it never has access to.
+- [OpenMined](https://openmined.org/)   -  OpenMined是一个专注于为分散的数据和情报所有权构建开源技术的社区.  通过OpenMined，AI可以接受从未访问过的数据的培训.
 - [Effect.ai](https://effect.ai) -  Effect.ai是一个区块链驱动的分散式平台，用于人工智能开发和AI相关服务.
 - [Decentralized Machine Learning](https://decentralizedml.com/) -  DML旨在创建基于区块链的分散式机器学习协议和生态系统.
 - [Raven Protocol](https://www.ravenprotocol.com/) -  Raven Protocol是一种分散的分布式深度学习培训协议.
@@ -42,6 +42,10 @@
 - [Pandora Boxchain](https://pandoraboxchain.ai/) - 由认知工作证明（PoCW）支持的AI内核，计算和大数据市场.
 - [Fitchain](https://fitchain.io/) -  Fitchain是一个基于区块链的机器学习工厂，它允许数据科学家训练模型，从开始到整个生命周期跟踪它们.
 - [Cortex Labs](https://www.cortexlabs.ai/) -  Cortex Labs是一个分散的AI平台，带有一个虚拟机，允许您在链上执行AI程序.
+
+### Blockchain projects for AI algorithms
+- [Danku](https://github.com/algorithmiaio/danku) - 基于区块链的协议，用于评估和购买公共区块链（如以太坊）上的ML模型. [Blog post.](https://algorithmia.com/research/ml-models-on-blockchain)
+- [Decentralized & Collaborative AI on Blockchain](https://github.com/microsoft/0xDeCA10B) -  0xDeCA10B是一个框架，用于在智能合约中托管和培训公开可用的机器学习模型，其激励机制可以鼓励高质量的培训数据，同时保持模型可用于预测. [Blog post.](https://www.microsoft.com/en-us/research/blog/leveraging-blockchain-to-make-machine-learning-models-more-accessible/)
 
 ## Blockchains for data
 
@@ -57,7 +61,7 @@
 - [Neureal](https://neureal.net/) - 由区块链提供支持的开源，点对点AI超级计算.
 - [TrueBit](https://truebit.io/) -  TrueBit为以太坊智能合约提供了计算能力.
 - [DeepBrain Chain](https://www.deepbrainchain.org/) - 分散式人工智能计算平台，为希望开发人工智能技术的公司提供处理能力.
-- [AI Crypto](https://aicrypto.ai/) -  AI Crypto是一个基于区块链的生态系统，其中分配了GPU，模型和数据等AI资源，以降低AI开发的成本.
+- [AI Crypto](https://aicrypto.ai/) - AI Crypto is a blockchain-based ecosystem where AI resources such as GPU, models, and data are distributed in order to lower the cost of AI development.
 
 ## Blockchains for AI in finance
 
@@ -69,7 +73,7 @@
 ## Blockchains for AI in medicine
 
 - [doc.ai](https://doc.ai/about) -  doc.ai旨在通过使用AI将精准医学分散到区块链上.
-- [BurstIQ](https://www.burstiq.com/) - 医疗保健数据市场.
+- [BurstIQ](https://www.burstiq.com/)   - 具有细粒度所有权和细粒度数据同意的医疗保健数据市场.  通过在自定义区块链上使用链式存储，BurstIQ可以符合HIPAA，GDPR和其他法规.
 
 ## Blockchains for AI in supply chains
 

@@ -239,6 +239,7 @@
   1. [Project Getaway](http://www.projectgetaway.com) -  30天撤退
 
 ## Newsletters
+  1. [Daily Remote](https://dailyremote.com/newsletter) - 包含特别为您精心制作的远程作业的简报
   1. [NODESK](https://nodesk.co/) - 每两周发送一次关于数字游牧民和远程工作的简报.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remote Jobs Direct](https://remotejobsdirect.com/) - 每周通讯，涵盖各种远程工作和相关新闻.
@@ -251,7 +252,7 @@
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - 主要采访创始人从不同角度攻击位置独立/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
-  1. [Remote Works](https://remote.works) - The Remote Works podcast publishes every two weeks with host Jonathan Sharp discussing the opportunities, experiences, culture and community surrounding remote work, remote teams, telecommuting and digital nomads.
+  1. [Remote Works](https://remote.works) -  Remote Works播客每两周发布一次，主持人Jonathan Sharp讨论围绕远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
   1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) - 双周播客：Jeff Robbins采访了人们，他们在思考分布式团队，远程工作以及如何支持快乐，高效，自由放养的员工.
   1. [Wide Teams](http://www.wideteams.com) - 每集与远程工作人员进行一对一的访谈，了解工作流程和实践
 
@@ -472,7 +473,7 @@
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - 子网.
 1. [##remotes](https://github.com/remotesclub/remotes) -  IRC频道（[web access](http://webchat.freenode.net/?channels=##remotes))
-1. [Hacker Paradise](http://www.hackerparadise.org/) - 旅行远程工作人员.
+1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](http://www.remoteyear.com/) - 旅行技术人员1年.
 1. [We work remotely in Romania](https://weworkremotely.ro/) - 罗马尼亚的远程工作人员，全职或在途
 1. [Remote Indian](https://remoteindian.com/) - 来自印度的远程工作人员

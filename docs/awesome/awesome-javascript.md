@@ -67,7 +67,7 @@
 
 ### Assertion
 
-* [chai](https://github.com/chaijs/chai) -  node.js的BDD / TDD断言框架以及可与任何测试框架配对的浏览器.
+* [chai](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Enzyme](http://airbnb.io/enzyme/index.html) -  Enzyme是React的JavaScript测试实用程序，可以更容易地断言，操作和遍历React Components的输出.
 * [react testing library](https://github.com/kentcdodds/react-testing-library) - 简单而完整的React DOM测试实用程序，可鼓励良好的测试实践.
 * [Sinon.JS](https://github.com/sinonjs/sinon) - 测试JavaScript的间谍，存根和模拟.
@@ -179,7 +179,6 @@
 
 * [d3](https://github.com/d3/d3) - 用于HTML和SVG的JavaScript可视化库.
   * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - 针对简洁，有原则的数据图形和布局进行优化的库.
-* [pykcharts.js](https://github.com/pykih/PykCharts.js) - 精心设计的d3.js图表​​，没有d3.js的复杂性.
 * [three.js](https://github.com/mrdoob/three.js) -  JavaScript 3D库.
 * [Chart.js](https://github.com/chartjs/Chart.js)   - 使用简单的HTML5图表 <canvas>  标签.
 * [paper.js](https://github.com/paperjs/paper.js) - 瑞士军刀矢量图形脚本 - 使用HTML5 Canvas移植到JavaScript和浏览器的Scriptographer.
@@ -204,7 +203,6 @@
 * [svg.js](https://github.com/wout/svg.js) - 用于操作和动画SVG的轻量级库.
 * [heatmap.js](https://github.com/pa7/heatmap.js) - 基于HTML5画布的热图的JavaScript库.
 * [jquery.sparkline](https://github.com/gwatts/jquery.sparkline) -  jQuery JavaScript库的插件，可直接在浏览器中生成小型迷你图表.
-* [xCharts](https://github.com/tenxer/xCharts) - 基于D3的库，用于构建自定义图表和图形.
 * [trianglify](https://github.com/qrohlf/trianglify) - 低聚风格背景发生器与d3.js.
 * [d3-cloud](https://github.com/jasondavies/d3-cloud) - 在JavaScript中创建单词云.
 * [d4](https://github.com/heavysixer/d4) -  D3的友好可重复使用的DSL图表.
@@ -250,7 +248,7 @@
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - 轻量级且令人惊叹的WYSIWYG JavaScript编辑器.
 * [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单，美丽的所见即所得编辑器
-* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标签汤和内联样式来生成完全有效的HTML5标记.
+* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标记汤和内联样式生成完全有效的HTML5标记.
 * [popline](https://github.com/kenshin54/popline) -  Popline是一个HTML5富文本编辑器工具栏.
 
 
@@ -521,7 +519,7 @@
 
 * [mousetrap](https://github.com/ccampbell/mousetrap) - 用于处理JavaScript中键盘快捷键的简单库.
 * [keymaster](https://github.com/madrobby/keymaster) - 用于定义和分派键盘快捷键的简单微库.
-* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
+* [Keypress](https://github.com/dmauro/Keypress) - 键盘输入捕获实用程序，其中任何键都可以是修饰键.
 * [KeyboardJS](https://github.com/RobertWHurst/KeyboardJS) - 用于绑定键盘组合的JavaScript库，没有键码和键组合冲突的痛苦.
 * [jquery.hotkeys](https://github.com/jeresig/jquery.hotkeys) -  jQuery Hotkeys让您可以在代码中的任何位置观看键盘事件，几乎可以支持任何组合键.
 * [jwerty](https://github.com/keithamus/jwerty) - 精彩的键盘事件处理.
@@ -561,7 +559,7 @@
 * [sly](https://github.com/darsain/sly) - 用于单向滚动的JavaScript库，具有基于项目的导航支持.
 * [vegas](https://github.com/jaysalvat/vegas)   - 一个jQuery插件，可以为您的网页添加漂亮的全屏背景.  它甚至允许幻灯片播放.
 * [Sequence](https://github.com/IanLunn/Sequence) -  CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) - 使用HTML轻松创建精美演示文稿的框架.
+* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
 * [impress.js](https://github.com/impress/impress.js) - 这是一个基于现代浏览器中CSS3转换和转换功能的演示框架，并受到prezi.com背后的想法的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -  DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -  Strut  - 一个Impress.js和Bespoke.js演示编辑器
@@ -595,7 +593,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用此jQuery插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯JavaScript掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)   - 用于样式复选框和单选按钮的jQuery插件.  有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete)   - 超轻量，可用，美观的自动完成，零依赖.   -  http://leaverou.github.io/awesomplete
 
 ### Calendar
 
@@ -700,7 +698,7 @@
 * [Semantic UI](http://semantic-ui.com/) - 具有许多主题和元素的UI工具包.
 * [w2ui](http://w2ui.com/) - 一组用于数据驱动的Web应用程序前端开发的jQuery插件.
 * [fluidity](https://github.com/mrmrs/fluidity) - 世界上最小的完全响应的CSS框架.
-* [Ink](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping.
+* [Ink](https://github.com/sapo/Ink) -  SAPO使用的HTML5 / CSS3框架，用于快速有效的网站设计和原型设计.
 
 ## Boilerplates
 
@@ -815,7 +813,7 @@
 
 * [echo](https://github.com/toddmotto/echo) - 使用data- *属性加载延迟图像.
 * [picturefill](https://github.com/scottjehl/picturefill) - 用于&lt;picture&gt;，srcset，sizes的响应式图像polyfill.
-* [platform.js](https://github.com/bestiejs/platform.js) - 适用于几乎所有JavaScript平台的平台检测库.
+* [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
 * [json3](https://github.com/bestiejs/json3) - 与几乎所有JavaScript平台兼容的现代JSON实现.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - 关于JavaScript特性的游戏.
 * [BitSet.js](https://github.com/infusion/BitSet.js) -  JavaScript Bit-Vector实现

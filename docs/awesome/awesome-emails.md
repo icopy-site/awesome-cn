@@ -13,7 +13,9 @@
 &gt;一系列令人敬畏的框架，模板，工具，工作流程等等，以构建更好的电子邮件.
 
 
+
 ## Frameworks
+
 - [MJML](https://mjml.io)   -  MJML是一种标记语言，旨在减少编写响应式电子邮件的痛苦.  ：火：
 - [Foundation for Emails](https://github.com/zurb/foundation-emails)   - 快速创建适用于任何设备和客户端的响应式HTML电子邮件.  甚至是Outlook.
 - [Email Framework](http://emailframe.work/) - 开发的HTML电子邮件框架，可帮助您构建响应式HTML电子邮件.
@@ -23,9 +25,11 @@
 - [Maizzle](https://maizzle.com) - 使用Tailwind CSS快速构建HTML电子邮件原型，并通过高级电子邮件进行特定的后期处理.
 
 ## Cheatsheets
+
 - [Rico's cheatsheet](https://devhints.io/html-email) -  Rico的HTML电子邮件备忘单
 
 ## Templates
+
 - [Campaign](https://github.com/bevacqua/campaign) - 轻松编写响应式电子邮件模板，将其填入模型并发送出去.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - 开源电子邮件模板
 - [Mailchimp Email Blueprints](https://github.com/mailchimp/Email-Blueprints) - 电子邮件蓝图是HTML电子邮件模板的集合，可以作为电子邮件设计的坚实基础和起点.
@@ -44,6 +48,8 @@
 - [Stripo.email](https://stripo.email/templates/) - 使用Stripo提供丰富的响应式，交互式美丽电子邮件模板.
 
 ## Tools
+
+- [caniemail](https://www.caniemail.com/) - 我可以通过电子邮件发送电子邮件中的HTML和CSS支持表 
 - [Topol](https://topol.io/) - 在一分钟内创建令人惊叹的响应式HTML电子邮件.
 - [MJML App](https://mjmlio.github.io/mjml-app/) -  MJML官方桌面应用程序.
 - [Rollover](http://freshinbox.com/tools/rollover/) - 为电子邮件收件人将光标悬停在图像上时显示替代图像的翻转图像生成代码.
@@ -57,6 +63,7 @@ VML和CSS.
 - [mailspice analytics](https://mailspice.com) - 所有电子邮件服务的电子邮件分析附加组件，可深入了解您的所有电子邮件广告系列（适用于所有ESP）.
 
 ## Services
+
 - [Mailchimp](https://mailchimp.com/) -  MailChimp为全球超过1500万人提供电子邮件营销服务.
 - [Mailjet](https://mailjet.com/) - 一体化电子邮件服务提供商，允许企业发送营销，交易电子邮件和电子邮件自动化.
 - [Campaign monitor](https://www.campaignmonitor.com/) -  Campaign Monitor使您可以轻松创建，发送和优化电子邮件营销活动.
@@ -68,27 +75,32 @@ VML和CSS.
 - [eSputnik](https://esputnik.com/en) -  eSputnik是一个营销自动化系统，受到全球3万多忠实客户的信赖，每月发送超过10亿封电子邮件.
 
 ## Self-Hosted Services
+
 - [Mailtrain](https://mailtrain.org/) - 基于Nodemailer构建的自托管新闻通讯应用程序.
 - [Mautic](https://mautic.org/)   -  Mautic营销自动化.  通过快速学习，易于使用且易于迭代的营销自动化，构建更智能的营销活动 - 并更快地构建它们.
 - [Mail-in-a-box](https://mailinabox.email/) - 通过几个简单的步骤，您就可以成为自己的邮件服务提供商.
 - [iRedMail](https://iredmail.org/) - 易于安装的开源邮件服务器解决方案
 
 ## Workflows
+
 - [Lee Munroe's Grunt Email Design](https://github.com/leemunroe/grunt-email-workflow) - 使用SCSS设计和测试响应式HTML电子邮件模板的Grunt工作流程.
 - [Darylldoyle Gulp workflow](https://github.com/darylldoyle/Gulp-Email-Creator) -  Gulp Email Creator是一个大胆的工作流程，灵感来自Lee Munroe的grunt-email-design工作流程.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) -  Sitepoint的典型电子邮件开发工作流程.
 
 ## Articles
+
 - [Email Design Workflow](http://www.leemunroe.com/email-design-workflow/) -  By Lee Munroe撰写的电子邮件设计工作流程.
 - [Composing better emails](https://iridakos.com/how-to/2019/06/26/composing-better-emails.html) - 撰写有效电子邮件的提示
 
 ## Design
+
 - [CSS Support](https://www.campaignmonitor.com/css/) - 全球每个流行的移动，网络和桌面电子邮件客户端的CSS支持的完整细分.
-- [Email Template Guide](https://blocksedit.com/email-template-guide/) - Using a modular email template system
+- [Email Template Guide](https://blocksedit.com/email-template-guide/) - 使用模块化电子邮件模板系统
 - [Mail Servers Best Pratices](https://documentation.mailgun.com/best_practices.html#email-best-practices) - 本指南简要概述了我们从管理邮件服务器中学到的电子邮件最佳实践.
 - [Stylecampaign](http://stylecampaign.com/blog/2014/02/responsive-email-navigation/)   - 我查看了50个响应式零售电子邮件的导航.  这是我发现的模式的细分.
 
 ## Blogs
+
 - [Litmus Blog](https://litmus.com/blog/)
 - [Stylecampaign Blog](http://stylecampaign.com/blog/)
 - [Myemma Blog](http://myemma.com/content-hub)
@@ -100,10 +112,12 @@ VML和CSS.
 - [Build Better Blog](https://blocksedit.com/content-code/) - 电子邮件营销中的设计和内容制作
 
 ## Copy
+
 - [Email Copy](http://www.goodemailcopy.com/) - 伟大公司的电子邮件副本.
 - [greatemailcopy](http://greatemailcopy.com/) - 来自网络的一系列精心制作的电子邮件.
 
 ## Resources
+
 - [Email toolbox](http://email-toolbox.com/) - 为电子邮件营销人员和设计师精心挑选的资源.
 - [Mailchimp](http://mailchimp.com/resources/) - 来自Mailchimp的超级棒的资源
 - [Litmus Resources](https://litmus.com/resources) - 通过Litmus资源了解最新的电子邮件新闻和趋势.
@@ -113,6 +127,7 @@ VML和CSS.
 - [Arstechnica](https://arstechnica.com/information-technology/2014/02/how-to-run-your-own-e-mail-server-with-your-own-domain-part-1/) - 有关如何构建自己的电子邮件服务器的教程
 
 ## Inspirations
+
 - [Really good emails Codepen](http://codepen.io/reallygoodemails/)
 - [Really good emails](http://reallygoodemails.com/) - 宇宙中最好的电子邮件设计.
 - [Milled](http://milled.com/)
@@ -121,17 +136,19 @@ VML和CSS.
 - [Htmlemaildesigns](http://htmlemaildesigns.com/) - 精美的电子邮件，以帮助激发您的下一个电子邮件设计.
 
 ## Statistics
+
 - [Myemma Email Stats](http://myemma.com/brainiac/gate-free-stats) -  Emma，Inc.为现代电子邮件营销人员提供18个必须知道的统计数据.
 - [Mailchimp Research](http://mailchimp.com/resources/research/) -  MailChimp的研究人员不断分析数据，以帮助您充分利用您的电子邮件广告系列.
 - [Campaign Monitor 2015 Report](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) -  2015年报告：电子邮件营销的新规则
 - [Campaign Monitor 2016 Report](https://www.campaignmonitor.com/company/annual-report/2016/) -  2016年报告：Campaign Monitor 2016年回顾
 
 ## Testing
+
 - [PutsMail](https://putsmail.com/) - 免费工具，在发送之前测试您的HTML电子邮件！
 - [Litmus](https://litmus.com/) - 使用Litmus测试和跟踪您的电子邮件
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - 使用Campaign Monitor在所有不同的电子邮件客户端中测试您的设计.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 用咕噜声向Litmus发送电子邮件测试
-- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - 通过gulp向Litmus发送电子邮件测试
+- [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
 - [SPAM mailtester](http://www.mail-tester.com/) - 测试你的电子邮件的垃圾邮件
 - [MailTrap](https://mailtrap.io) - 虚假的SMTP服务器，用于测试，查看和共享电子邮件，而不会向真实客户发送垃圾邮件.
 - [MailHog](https://github.com/mailhog/MailHog) 本地虚假SMTP服务器（基于Go）
@@ -141,6 +158,7 @@ VML和CSS.
 - [Sendtest.email](https://sendtest.email/)   - 在发送之前测试您的HTML电子邮件，⚡4email或文本版本.  以隐私为重点，无需注册！
 
 ## Learning
+
 - [Responsive HTML Email Design](https://frontendmasters.com/courses/responsive-email/) -  Justine Jordan和Jason Rodriguez的响应式电子邮件课程.
 - [HTML Email Design](http://teamtreehouse.com/library/html-email-design) -  MailChimp用户体验设计师Fabio Carneiro演示了如何从头开始构建功能齐全，易于移动的电子邮件.
 - [Mastering HTML Email](http://webdesign.tutsplus.com/series/mastering-html-email--webdesign-17696) - 本系列教程将带您了解基础知识，探索开发技术，工作流程和设计方法.
@@ -150,6 +168,7 @@ VML和CSS.
 <hr>
 
 ### Contribution
+
 建议和PR欢迎！ 
 如果您想贡献，请阅读 [contribution guidelines](https://github.com/jonathandion/awesome-emails/blob/master/contributing.md).
 

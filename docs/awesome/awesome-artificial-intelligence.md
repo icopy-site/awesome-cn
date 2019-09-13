@@ -18,7 +18,7 @@
 * [MIT Artifical Intelligence Videos](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos) -  MIT AI课程
 * [Grokking Deep Learning in Motion](https://www.manning.com/livevideo/grokking-deep-learning-in-motion?a_aid=algmotion&a_bid=5d7bc0ba) - 初学者的课程，学习没有框架的深度学习和神经网络.
 * [Intro to Artificial Intelligence](https://www.udacity.com/course/cs271)   - 学习人工智能的基础知识.  课程由Peter Norvig经营
-* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - The course will introduce the basic ideas and techniques underlying the design of intelligent computer systems
+* [EdX Artificial Intelligence](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VMeIsmSsVkg) - 该课程将介绍智能计算机系统设计的基本思想和技术
 * [Artificial Intelligence For Robotics](https://www.class-central.com/mooc/319/udacity-artificial-intelligence-for-robotics) - 本课程将教您人工智能的基本方法，包括：概率推理，规划和搜索，定位，跟踪和控制，所有这些都侧重于机器人技术
 * [Machine Learning](https://class.coursera.org/ml-008) - 用于监督和无监督学习的基本机器学习算法
 * [Neural Networks For Machine Learning](https://www.coursera.org/course/neuralnets) - 人工神经网络的算法和实用技巧.
@@ -75,7 +75,7 @@
 * [The Quest For Artificial Intelligence](http://ai.stanford.edu/~nilsson/QAI/qai.pdf) - 本书追溯了这一主题的历史，从十八世纪（及早期）先驱的早期梦想到今天的AI工程师更成功的工作.
 * [Stanford CS229 - Machine Learning](https://see.stanford.edu/Course/CS229) - 本课程提供机器学习和统计模式识别的广泛介绍.
 * [Computers and Thought: A practical Introduction to Artificial Intelligence](http://www.cs.bham.ac.uk/research/projects/poplog/computers-and-thought/)   - 本书涵盖了人类活动的计算机模拟，如解决问题和理解自然语言;  计算机视觉;  AI工具和技术;  人工智能编程介绍;  符号和神经网络认知模型;  心灵和智慧的本质;  以及人工智能和认知科学的社会影响.
-* [Society of Mind](http://aurellem.org/society-of-mind/index.html)   - 马文·明斯基关于我们思想如何运作的开创性工作.  许多符号AI概念都是从这个基础中衍生出来的.
+* [Society of Mind](http://aurellem.org/society-of-mind/index.html) - Marvin Minsky's seminal work on how our mind works. Lot of Symbolic AI concepts have been derived from this basis.
 * [Brief Introduction To Educational Implications Of Artificial Intelligence](http://pages.uoregon.edu/moursund/Books/AIBook/index.htm) - 本书旨在帮助职前和在职教师了解当前人工智能使用的一些教育含义，以帮助解决问题和完成任务.
 * [Encyclopedia: Computational intelligence](http://www.scholarpedia.org/article/Encyclopedia_of_computational_intelligence) -  Scholarpedia是由同行评审的开放获取百科全书，由来自世界各地的学者专家编写和维护.
 * [Ethical Artificial Intelligence](http://arxiv.org/abs/1411.1373) - 比尔·希巴德（Bill Hibbard）的一本书，结合了几篇同行评审的论文和新材料来分析道德人工智能问题.
@@ -84,7 +84,7 @@
 
 ## Code
 
-* [AIMACode](https://github.com/aimacode) - Source code for "Artificial Intelligence: A Modern Approach" in Common Lisp, Java, Python. More to come.
+* [AIMACode](https://github.com/aimacode)   -  Common Lisp，Java，Python中“人工智能：现代方法”的源代码.  更多来.
 * [FANN](http://leenissen.dk/fann/wp/) - 快速人工神经网络库，原生于C
 * [FARGonautica](https://github.com/Alex-Linhares/FARGonautica)   -  Douglas Hosftadter的流体概念和创意类比博士的源代码.  项目.
 
@@ -121,6 +121,7 @@
 * [Awesome Decision Tree Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - 机器学习会议的决策树文件
 * [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - 机器学习会议的梯度提升论文
 * [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - 来自机器学习会议的欺诈检测文件
+* [Awesome Neural Art](https://github.com/crypdick/awesome-neural-art) - 使用深度神经网络创建艺术和操纵图像.
 
 ## Organizations
 
