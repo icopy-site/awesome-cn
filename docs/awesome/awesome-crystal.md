@@ -66,7 +66,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - 绑定和扩展库 [termbox](https://github.com/nsf/termbox) （终端UI库）
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) -  X11绑定
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) -  libxdo的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
- * [zstd-cr](https://github.com/BlackHabanero/zstd-cr) - 绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
+ * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) - 绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) -  Bloom过滤器的实现
@@ -300,7 +300,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [LinCAS-lang](https://github.com/LinCAS-lang) - 用于科学计算的编程语言
  * [mint-lang](https://github.com/mint-lang/mint) - 前端Web的一种令人耳目一新的编程语言
  * [myst-lang](https://github.com/myst-lang/) - 一种实用的动态语言，旨在尽可能轻松有效地编写和理解
- * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶写的操作系统作为概念证明
+ * [NuummiteOS](https://github.com/TheKernelCorp/NuummiteOS) - 用水晶作为概念证明编写的操作系统
  * [runic-lang](https://github.com/runic-lang) - 设计中的玩具语言
 
 ## Logging and monitoring
@@ -407,6 +407,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或者关注公告[Crystal [A
  * [amqp.cr](https://github.com/datanoise/amqp.cr) - 带有RabbitMQ扩展的AMQP 0.9.1客户端
  * [dispatch](https://github.com/bmulvihill/dispatch) - 在内存中异步作业处理
  * [mosquito](https://github.com/robacarp/mosquito/) -  Redis支持定期和临时作业处理
+ * [NATS.io](https://github.com/nats-io/nats.cr) -  NATS客户端
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) - 简单，高效的工作处理
 
 ## Routing

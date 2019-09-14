@@ -289,7 +289,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [reg](https://github.com/genuinetools/reg) -  [@genuinetools] [原工具]的Docker注册表v2命令行客户端
 - [scuba](https://github.com/JonathonReinhart/scuba) - 透明地使用Docker容器来封装软件构建环境 [@JonathonReinhart](https://github.com/JonathonReinhart)
 - [sen](https://github.com/TomasTomecek/sen) -  docker引擎的终端用户界面，by [@TomasTomecek](https://github.com/TomasTomecek)
-- [supdock](https://github.com/segersniels/supdock-ts)   - 通过交互式提示允许稍微更直观地使用Docker.  通过 [@segersniels](https://github.com/segersniels)
+- [supdock](https://github.com/segersniels/supdock)   - 通过交互式提示允许稍微更直观地使用Docker.  通过 [@segersniels](https://github.com/segersniels)
 - [tsaotun](https://github.com/qazbnm456/tsaotun) - 基于Python的Docker帮助 [@qazbnm456](https://github.com/qazbnm456)
 - [wharfee](https://github.com/j-bennet/wharfee)   -  Docker命令的自动完成和语法突出显示.  通过 [@j-bennet](https://github.com/j-bennet)
 
@@ -311,7 +311,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Seagull](https://github.com/tobegit3hub/seagull)   - 用于监控docker守护程序的友好Web UI.  通过 [@tobegit3hub](https://github.com/tobegit3hub)
 - [Swarmpit](https://github.com/swarmpit/swarmpit)   -  Swarmpit为Docker Swarm集群提供简单易用的界面.  您可以管理堆栈，服务，机密，卷，网络等.
 - [Swirl](https://github.com/cuigh/swirl) -  Swirl是Docker的一个Web管理工具，专注于swarm集群 [@cuigh](https://github.com/cuigh/)
-- [Theia](https://github.com/theia-ide/theia) - 可扩展平台，利用最先进的Web技术开发成熟的多语言云和桌面IDE类产品.
+- [Theia](https://github.com/eclipse-theia/theia) - 可扩展平台，利用最先进的Web技术开发成熟的多语言云和桌面IDE类产品.
 
 ## Docker Images
 

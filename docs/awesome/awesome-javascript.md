@@ -800,6 +800,7 @@
 ## Generators
 
 * [Gatsby.js](https://github.com/gatsbyjs/gatsby) - 基于React的静态站点生成器.
+* [Gridsome](https://github.com/gridsome/gridsome) -  Vue供电的静态站点生成器.
 
 
 ## SDK

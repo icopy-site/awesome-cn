@@ -114,8 +114,10 @@
 * Deliveroo https://deliveroo.engineering/
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
-* Docker https://blog.docker.com/category/engineering/
+* Docker https://blog.docker.com/
+* Docker Engineering https://engineering.docker.com/
 * DoorDash https://blog.doordash.com/tagged/engineering
+* Doximity https://engineering.doximity.com
 * Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
@@ -140,7 +142,7 @@
 * Facebook AI Research https://research.facebook.com/blog/ai/
 *法拉第http://blog.faraday.io/
 *发现https://medium.com/feedzaitech
-* Fiftythree http://making.fiftythree.com/
+*五十三人http://making.fiftythree.com/
 * Findmypast http://tech.findmypast.com/
 * Finn.no http://tech.finn.no/
 * Firmafon https://dev.firmafon.dk/blog/
@@ -289,6 +291,7 @@
 * Pinterest https://medium.com/@Pinterest_Engineering
 * Pivotal https://engineering.pivotal.io
 * Pluralsight https://www.pluralsight.com/guides
+*邮递员https://medium.com/better-practices
 *邮戳https://postmarkapp.com/blog
 * Postmates https://blog.postmates.com/tagged/engineering
 * Prezi https://medium.com/prezi-engineering

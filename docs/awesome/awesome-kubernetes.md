@@ -217,6 +217,7 @@ Installers
 - [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
 - [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
+- [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 
@@ -846,7 +847,7 @@ Projects
 
 * [kompose](https://github.com/kubernetes/kompose)
 * [ksonnet-lib](https://github.com/ksonnet/ksonnet-lib)
-* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) -  Jsonnet / Kubecfg的Kubernetes对象的通用库，其中包含用于无痛覆盖的数组映射的对象.
+* [kube-libsonnet](https://github.com/bitnami-labs/kube-libsonnet/blob/master/kube.libsonnet) -  Jsonnet / Kubecfg的Kubernetes对象的通用库，其对象为无痛覆盖的数组映射.
 * [kubegen](https://github.com/errordeveloper/kubegen)
 * [kubeval](https://github.com/garethr/kubeval)
 

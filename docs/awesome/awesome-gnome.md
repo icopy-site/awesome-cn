@@ -37,6 +37,7 @@
 - [Haguichi](https://www.haguichi.net/) -  Linux上Hamachi的图形前端.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) -  Transmission torrent守护程序的远程客户端.
 - [Fragments](https://github.com/FragmentsApp/Fragments/) -  GTK3 BitTorrent客户端
+- [Tangram](https://github.com/sonnyp/Tangram) - 将您的Web应用程序分组到一个应用程序中
 
 ### Editor
 
@@ -158,7 +159,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配终端颜色方案.
+- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配它们的终端颜色方案.
 
 ### Adwaita-based
 
