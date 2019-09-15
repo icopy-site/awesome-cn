@@ -168,6 +168,7 @@
 - [ReactiveProperty ★361](https://github.com/runceel/ReactiveProperty) - 在Reactive Extensions下提供MVVM和异步支持功能.
 - [RxFlow ★18](https://github.com/ugaya40/RxFlow) - 带Rx的简单流控制库（Reactive Extensions）.
 - [Sensors](https://github.com/aritchie/sensors) - 适用于Xamarin和Windows的ACR Reactive Sensors插件.
+- [CrossPlatformLiveData](https://github.com/jakdor/CrossPlatformLiveData) -  Android LiveData启发了.NET实现 - 生命周期感知rx流.
 
 
 ## Security

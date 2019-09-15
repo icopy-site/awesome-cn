@@ -38,7 +38,7 @@
 
  在尝试增强体验之前，您需要确保环境能够增强.  您可以通过执行功能检测来测试它：
 
-* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)) - Natively test if specific CSS feature is supported using JS method or CSS declaration.
+* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)） - 使用JS方法或CSS声明本地测试是否支持特定的CSS功能.
 * [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) - 检测哪些ES2015功能可用.
 * [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) - 只有当`[requiredFeatures]`求值为true时才渲染SVG元素.
 * [Modernizr](https://modernizr.com/) - 广泛的功能检测套件（支持自定义构建）.
@@ -56,7 +56,7 @@
 * [I want to use ...](http://www.iwanttouse.com/) - 找出浏览器对功能组合的支持.
 * [HTML5 Test](http://html5test.com/) - 测试和比较跨浏览器的HTML5功能支持.
 * [CSS3 Test](http://css3test.com/) -  CSS3的细粒度测试功能支持您当前的浏览器.
-* [State of Web Type](http://stateofwebtype.com/) - 支持Web上的类型和印刷功能表.
+* [State of Web Type](https://github.com/bramstein/stateofwebtype) - 支持Web上的类型和印刷功能表.
 * [Font Family Reunion](http://fontfamily.io/) - 默认本地（系统）字体的兼容性表.
 * [HTML5 Accessibility](http://html5accessibility.com/) - 比较HTML5标签的功能支持，主要浏览器的输入类型和属性. 
 * [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) -  ARIA角色和属性支持不同的屏幕阅读器和浏览器组合.
@@ -76,7 +76,8 @@
 * [Webkit Platform Status](https://webkit.org/status/) （苹果浏览器）
 * [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) -  MDN的Web技术文档在每篇文章末尾都有一个浏览器兼容性表.
 * [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) -  npm模块为MDN兼容性表提供支持.
-* [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) -  Crowd收集了移动设备中奇怪的HTML，CSS和JS怪癖的集合，这些在其他支持表中找不到.
+* [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
+* [Can I Email?](https://www.caniemail.com/)   - 支持电子邮件中HTML和CSS的表格.  灵感来自 [Can I use](http://caniuse.com/).
 
 
 ## Testing Methods

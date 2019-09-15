@@ -78,7 +78,7 @@
 ## Documentation
 
 - **[Game Boy Programming Manual](https://archive.org/download/GameBoyProgManVer1.1/GameBoyProgManVer1.1.pdf)**  - 任天堂官方Game Boy编程和硬件手册.
-- [Pan Docs](http://gbdev.gg8.se/wiki/articles/Pan_Docs) - Historical comprehensive technical reference, wikified, corrected and updated.
+- [Pan Docs](http://gbdev.gg8.se/wiki/articles/Pan_Docs) - 历史综合技术参考，wikified，更正和更新.
 - [The Cycle-Accurate Game Boy Docs](https://github.com/AntonioND/giibiiadvance/blob/master/docs/TCAGBD.pdf) -  AntonioND的精确文档，可以制作出精确周期的Game Boy模拟器.
 - [Game Boy: Complete Technical Reference](https://gekkio.fi/files/gb-docs/gbctr.pdf) 通过Gekkio.
 
@@ -156,7 +156,7 @@
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) -  Jeff Frohwein的第一张原理图.
 - [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) 并解释这些MBC库如何切换和控制RAM.
-- [GB Rom List](CartridgeList.csv) - 每个游戏的可导航表格，其中包含有关其墨盒的详细信息.
+- [GB Rom List](CartridgeList.csv) - Navigable table of every game released with details on their cartridges.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
 
@@ -238,7 +238,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 - [ZGB](https://github.com/Zal0/ZGB) - 为原始Game Boy创建游戏的小引擎（扩展gbdk，更多信息 [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 - [DevSound](https://github.com/DevEd2/DevSound) - 可插入自制软件中的声音驱动程序，支持脉冲宽度操作，琶音和多个波形.
-- [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - 音乐引擎.
+- [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
 - [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -  HTML5 / JS Web应用程序，它将位图图像转换为适用于基于图块的图形应用程序（特别是GB）的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -  Game Boy Tile Designer和Game Boy Map Builder工具的一些来源和主页.
 - [GBTiles](https://github.com/bashaus/gbtiles) - 将使用Harry Mulder的平铺设计器（GBTD）创建的.GBR文件和使用Harry Mulder的地图生成器（GBMB）创建的.GBM文件转换为不同的格式，以便与Game Boy和GBDK一起使用.
@@ -265,6 +265,8 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [vtGBte](https://github.com/paul-arutyunov/vtGBte) - 简约的ncurses拼贴编辑器.
 - [tpp1](https://github.com/TwitchPlaysPokemon/tpp1) - 自定义GB / GBC内存/硬件映射器的定义和规范，作为MBC的功能超集.
 - [libstdgb](https://github.com/delwink/libstdgb) - 有用的Game Boy操作（SDCC）的AC库.
+- [Tilemap GB](https://github.com/bbbbbr/gimp-tilemap-gb) -  GIMP图像编辑器插件，用于导入和导出GBMB和GBTD图块图和图块集（作为位图图像或.GBM / .GBR文件）.
+- [Tilemap Helper](https://github.com/bbbbbr/gimp-tilemap-helper) -  GIMP图像编辑器插件，用于优化图块地图和图块集.
 
 ## Programming
 
@@ -416,7 +418,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - 使用radare2对Game Boy ROM挑战进行逆向工程的演练.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - 关于拆解Link的Awakening DX的一系列博客文章.
 - [Reverse Engineering the GameBoy Tetris](https://github.com/h3nnn4n/Reverse-Engineering-the-GameBoy-Tetris)
-- [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit.
+- [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - 一种简单的技术，允许您在大多数GB / SGB / CGB游戏中运行自定义代码，前提是您拥有ACE漏洞.
 
 ### Game Disassemblies
 

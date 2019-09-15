@@ -25,10 +25,19 @@
 - [Visualize Earthquakes with Plotly Dash](https://www.giacomodebidda.com/visualize-earthquakes-with-plotly-dash/) - 对Dash替代品进行环境扫描，然后附上教程.
 - [ARGO Labs - Plotly Dash Tutorial (Video)](https://www.youtube.com/watch?v=yfWJXkySfe0) - 创建交互式仪表板的详细介绍.
 - [Data Visualization GUIs with Dash and Python (Video playlist)](https://www.youtube.com/watch?v=J_Cy_QjG6NE&list=PLQVvvaa0QuDfsGImWNt1eUEveHOepkjqt) - 探索Dash功能的五部分系列.
+- [Interactive Visualization of Machine Learning and Computer Vision with Dash](https://www.youtube.com/watch?v=3F5AR-uUqJc) - 官方介绍视频.
+- [Webinar: Converting React components to Dash components](https://www.youtube.com/watch?v=wifoPPRgG_I) - 关于如何使用Dash Component Boilerplate cookiecutter模板将React组件转换为Dash组件的官方教程.
 
 ## Component Libraries
 - [Tutorial on creating custom Dash components with React.js.](https://plot.ly/dash/plugins)
+- [Dash Bio Components](https://dash.plot.ly/dash-bio) - 生物信息学组件套件，使分析和可视化生物信息学数据更简单，并在Dash应用程序中与它们进行交互.
+- [Dash Canvas Components](https://dash.plot.ly/canvas) - 使用Dash进行图像标注和图像处理的模块.
+- [Awesome React Components](https://github.com/brillout/awesome-react-components) -  React.js组件的目录可能包含在Dash组件中.
+- [Awesome React](https://github.com/enaqx/awesome-react) - 用于开发React.js组件的有用资源.
 - [Dash Core Components](https://github.com/plotly/dash-core-components)
+- [Dash Cytoscape Component](https://dash.plot.ly/cytoscape) - 图形可视化组件，用于创建易于定制，高性能，交互式和基于Web的网络.
+- [Dash DataTable Component](https://dash.plot.ly/datatable) - 交互式表格，支持丰富的样式，条件格式，编辑，排序，过滤等.
+- [Dash DAQ Components](https://dash.plot.ly/dash-daq) - 一组控件，可以更轻松地将数据采集和控件集成到您的Dash应用程序中.
 - [Dash HTML Components](https://github.com/plotly/dash-html-components)
 - [mydcc](https://github.com/jimmybow/mydcc) - 扩展Dash核心组件.
 - [sd-material-ui](https://github.com/StratoDem/sd-material-ui) -  StratoDem Analytics实现Dash的material-ui组件.
@@ -55,14 +64,21 @@
 - [VoxelViz](http://lukas-snoek.com/voxelviz) - 竞争获胜（f）MRI数据集的可视化工具. [Source Code.](https://github.com/lukassnoek/VoxelViz)
 - [Traffic Accidents UK](https://traffic-accidents-uk.herokuapp.com/) - 探索2015年英国140,008起交通事故. [Source Code.](https://github.com/richard-muir/uk-car-accidents)
 
+## Idiomatic examples
+- [Dash recipes](https://github.com/plotly/dash-recipes) - 在回答来自更大Dash社区的问题时，由情节团队创建的脚本和示例集合.
+
 ## Galleries
 - [Plotly App Gallery](https://plot.ly/dash/gallery) -  Plotly的Dash应用程序集合.
 - [Dash Recipes GitHub](https://github.com/plotly/dash-recipes) - 回答来自更大Dash社区的问题时创建的脚本和示例的集合.
 
 ## Talks
+- [Dash: Data exploration web apps in pure Python](https://www.youtube.com/watch?v=eusglTlW4OA) -  Chelsea Douglas，PyData DC 2018.
 - [Overview of Dash](https://www.youtube.com/watch?v=sea2K4AuPOk) - 克里斯帕尔默，Dash的创造者（SciPy 2017）.
 - [We're Launching Dash](https://www.youtube.com/watch?v=5BAthiN0htc&t=1s) -  Dash的创始人克里斯帕尔默谈到Dash推出之前的动机（Plotcon NYC 2016）.
 - [Plotly dash and data visualisation in Python, PyData, Berlin 2017](https://www.slideshare.net/vladimirkazantsev/plotly-dash-and-data-visualisation-in-python) -  Volodymyr Kazantsev（仅限幻灯片）.
+
+## Cheat sheets
+- [plotly.py Cheat Sheet](https://images.plot.ly/plotly-documentation/images/python_cheat_sheet.pdf)
 
 ## Community
 - [Plotly hosted Question and Answer community](https://community.plot.ly)
@@ -74,6 +90,7 @@
 - [Chris Parmer](https://github.com/chriddyp)
 - [Sergey Pikhovkin](https://github.com/pikhovkin)
 - [Pascal Bugnion](https://pascalbugnion.net)
+- [Florian Kromer](https://github.com/fkromer)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg) ]（https://creativecommons.org/publicdomain/zero/1.0/） <br />  本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可协议授权</a> .

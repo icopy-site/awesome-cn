@@ -155,7 +155,7 @@
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)   -  KubeSwitch在Mac的菜单栏中列出mac上可用的kubernetes集群上下文.  ！[swift_icon] 
 - [Lantern](https://github.com/BurntCaramel/Lantern)   - 用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites)   - 用于macOS列出本地Bonjour网站的简单菜单栏（状态栏）应用程序（因为Safari 11不再具有Bonjour书签）.  ！[swift_icon] 
-- [Mockup Generator](https://github.com/andypotts/mockup-generator)   -  Mockup Generator是一个使用AngularJS / Electron构建的macOS应用程序，它位于您的菜单栏中，允许您捕获您喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
+- [Mockup Generator](https://github.com/andypotts/mockup-generator)   -  Mockup Generator是一个使用AngularJS / Electron构建的macOS应用程序，位于菜单栏中，允许您捕获您喜爱的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
 - [Now Desktop](https://github.com/zeit/now-desktop)   - 直接从托盘菜单创建部署.  ！[javascript_icon] 
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader)   - 用于将文件上载到Amazon Web Services的简单macOS应用程序.  ！[javascript_icon] 
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect)   -  macOS app允许您访问iTunesConnect.  ！[swift_icon] 
@@ -460,7 +460,7 @@
 - [Galeri](https://github.com/michealparks/galeri)   - 永久艺术品流媒体应用程序.  ！[javascript_icon] 
 
 ### System
-- [AppPolice](https://github.com/fuyu/AppPolice)   - 具有简约UI的macOS应用程序，可让您快速降低任何正在运行的进程的CPU使用率.  ！[objective_c_icon] 
+- [AppPolice](https://github.com/AppPolice/AppPolice)   - 具有简约UI的macOS应用程序，可让您快速降低任何正在运行的进程的CPU使用率.  ！[objective_c_icon] 
 - [Apple Juice](https://github.com/raphaelhanneken/apple-juice)   - 适用于macOS的高级电池电量计.  ！[swift_icon] 
 - [Clean-Me](https://github.com/Kevin-De-Koninck/Clean-Me) <i>- Small macOS app that acts as a system cleaner (logs, cache, ...).</i> <b> - 小型macOS应用程序，充当系统清理程序（日志，缓存，...）。</b> <i>![swift_icon]</i> <b>！[swift_icon]</b> 
 - [Diagnostics](https://github.com/macmade/Diagnostics)   -  Diagnostics是一个显示来自macOS上的应用程序的诊断报告的应用程序.  ！[swift_icon] 
@@ -508,7 +508,7 @@
 - [Catch](https://github.com/mipstian/catch/)   -  Catch：Broadcatching变得简单.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)   - 使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)   -  macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
-- [Crypter](https://github.com/HR/Crypter)   -  Crypter是一款创新，方便，安全的跨平台加密应用程序，通过要求您只记住一位MasterPass，简化了安全密码的生成和管理.  ！[javascript_icon] 
+- [Crypter](https://github.com/HR/Crypter)   -  Crypter是一款创新，方便，安全的跨平台加密应用程序，通过要求您只记住一位MasterPass，简化了安全密码生成和管理.  ！[javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)   - 基于每个应用程序轻松切换Mac上的功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) - 只需点击一下按钮，即可在每个应用程序的基础上选择明亮的外观和黑暗的外观！[swift_icon] 
