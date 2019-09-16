@@ -75,6 +75,7 @@
 
 - [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) - 关于3D，着色器，VR和GDNative的教程.
 - [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) - 关于创建3D游戏的教程系列.
+- [Code with Tom](https://www.youtube.com/codewithtom) - 通过制作游戏学习编码.
 - [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
 - [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) - 关于2D和3D游戏开发的教程.
 - [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) - 关于2D和3D游戏开发的教程.

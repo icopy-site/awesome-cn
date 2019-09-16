@@ -51,7 +51,7 @@
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - 尽管面向Neo4j的文档，概念适用于所有图形数据库.
-- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) （32:02） - 了解图形数据库如何成为探索与避税天堂公司相关的主要人物的关键，包括50多个国家的140位政治家.
+- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) （32:02） - 了解图形数据库如何成为探索与避税天堂公司相关的主要人物的关键，其中包括50多个国家的140位政治家.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - 讨论数据建模的基础知识以及应采取的方法.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - 与Neo4j直接相关，但可能适用于任何图形数据库.
 - [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - 图形数据建模简介，是对本书的介绍， ["Graph Data Modeling for NoSQL and SQL"](https://technicspub.com/graph-data-modeling/) 作者：Thomas Frisendal.
@@ -63,6 +63,11 @@
 - [Thank You for Your Help NoSQL, but We Got It from Here](http://blog.memsql.com/nosql/) （2018） - 鉴于扩展问题，NoSQL数据库推动了数据库的发展，但现在NewSQL已经解决了这些问题（从MemSQL的角度来看）.
 - [The Five Stages of NoSQL](https://sookocheff.com/post/opinion/the-five-stages-of-nosql/) （2016） - 经历挑选和使用NoSQL数据库的阶段反映了悲伤的五个阶段.
 - [The Biggest Challenges of Moving to NoSQL](https://dzone.com/articles/the-biggest-challenges-of-moving-to-nosql) （2017） - 速度和可扩展性以及开发人员的喜悦是从持续转向NoSQL的挑战中获得的收益.
+
+
+## Miscellaneous
+
+- [What is a NoSQL Database? Learn By Writing One In Python](https://jeffknupp.com/blog/2014/09/01/what-is-a-nosql-database-learn-by-writing-one-in-python/) - 通过使用Python构建玩具数据库，学习NoSQL与RDBMS的优秀教程.
 
 
 ## License

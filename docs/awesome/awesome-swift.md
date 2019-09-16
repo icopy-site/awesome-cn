@@ -12,7 +12,7 @@
 
  |  iOS App |  太棒了  Linux |  项目|  更新
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  994 |  2019年9月9日
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ]（https://github.com/sindresorhus/awesome）|  ：企鹅：|  996 |  2019年9月15日
 
 
 
@@ -272,7 +272,7 @@
 ### Chart
 [back to top](#readme) 
 
-* [Charts](https://github.com/danielgindi/Charts) - 适用于iOS / tvOS / OSX（MPAndroidChart端口）的漂亮图表.
+* [Charts](https://github.com/danielgindi/Charts) - Beautiful charts for iOS/tvOS/OSX (port of MPAndroidChart).
 * [PNChart-Swift](https://github.com/kevinzhow/PNChart-Swift) - 一个带动画的简单漂亮的图表库.
 * [ScrollableGraphView](https://github.com/philackm/ScrollableGraphView) -  iOS的自适应可滚动图形视图，可视化简单的离散数据集.
 * [SwiftChart](https://github.com/gpbl/SwiftChart)   - 适用于iOS的简单线条和区域图表库.  支持多个系列，部分填充系列和触摸事件.
@@ -436,7 +436,7 @@
 * [Realm](https://github.com/realm/realm-cocoa) -  Realm是一个移动数据库：Core Data和SQLite的替代品.
 * [Realm+JSON](https://github.com/matthewcheok/Realm-JSON) - 与Realm和JSON一起使用的简洁的Mantle方式.
 * [RealmWrapper](https://github.com/k-lpmg/RealmWrapper) -  RealmSwift的安全且简单的包装.
-* [Unrealm](https://github.com/arturdev/Unrealm) - Unrealm enables you to easily store Swift native Classes, Structs and Enums into Realm.
+* [Unrealm](https://github.com/arturdev/Unrealm) -  Unrealm使您可以轻松地将Swift本机类，结构和枚举存储到Realm中.
 
 #### SQL drivers
 [back to top](#readme) 
@@ -461,7 +461,7 @@
 *如果您更喜欢管理XML数据格式的条目，这里有一些有用的库* [back to top](#readme) 
 
 * [AEXML](https://github.com/tadija/AEXML) -  xml包装器.
-* [CheatyXML](https://github.com/lobodart/CheatyXML) - 一个功能强大的框架，旨在轻松管理XML.
+* [CheatyXML](https://github.com/lobodart/CheatyXML) - A powerful framework designed to manage XML easily.
 * [SwiftyXML](https://github.com/chenyunguiMilook/SwiftyXML) - 处理XML的最快捷方式.
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) - 简单的XML解析.
 * [XMLCoder](https://github.com/MaxDesiatov/XMLCoder) -  XMLEncoder和XMLDecoder基于标准库中的Codable协议
@@ -469,7 +469,7 @@
 #### YAML
 [back to top](#readme) 
 
-* [YamlSwift](https://github.com/behrang/YamlSwift) - 加载YAML和JSON文档.
+* [YamlSwift](https://github.com/behrang/YamlSwift) - Load YAML and JSON documents.
 * [Yams](https://github.com/jpsim/Yams) ：企鹅： - 甜蜜的YAML解析器.
 
 #### ZIP
@@ -494,7 +494,7 @@
 * [TrueTime.swift](https://github.com/instacart/TrueTime.swift) - 获取不受设备时钟时间变化影响的真实当前时间（NTP库）.
 
 ### Dependency Injection
-*Dependency injection libs* [back to top](#readme) 
+*依赖注入库* [back to top](#readme) 
 
 * [Cleanse](https://github.com/square/Cleanse) -  Square的轻量级依赖注入框架.
 * [Corridor](https://github.com/symentis/Corridor) - 类似Coreader的依赖注入μFramework.
@@ -542,7 +542,7 @@
 * [Bond](https://github.com/DeclarativeHub/Bond) - 绑定框架.
 * [BrightFutures](https://github.com/Thomvis/BrightFutures) - 承诺和未来的lib.
 * [Combinative](https://github.com/noppefoxwolf/Combinative) - 使用Apple的组合框架处理UI事件.
-* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)   - 期货和承诺.  使用方便.  高度可组合.
+* [EasyFutures](https://github.com/DimaMishchenko/EasyFutures)   - 期货和承诺.  易于使用.  高度可组合.
 * [EmitterKit](https://github.com/aleclarson/emitter-kit) - 事件发射器和侦听器的实现.
 * [FutureKit](https://github.com/FutureKit/FutureKit) - 未来/承诺图书馆.
 * [Katana](https://github.com/BendingSpoons/katana-swift) - 将应用程序写入React和Redux.
@@ -587,7 +587,7 @@
 * [OcticonsKit](https://github.com/keitaoouchi/OcticonsKit) - 在项目中使用Octicons作为UIImage / UIFont.
 * [OpenSansSwift](https://github.com/hemantasapkota/OpenSansSwift) -  OpenSans.
 * [SwiftIconFont](https://github.com/0x73/SwiftIconFont) -  Fontawesome，Iconic，Ionicons，Octicon端口.
-* [SwiftIcons](https://github.com/ranesr/SwiftIcons) - 字体图标库：dripicons，表情符号，字体真棒，icofont，ionicons，线性图标，地图图标，素材图标，打开标志性，状态，天气.
+* [SwiftIcons](https://github.com/ranesr/SwiftIcons) - 字体图标库：dripicons，表情符号，字体真棒，icofont，ionicons，线性图标，地图图标，素材图标，开放标志性，状态，天气.
 * [UIFontComplete](https://github.com/Nirma/UIFontComplete) - 适用于iOS和tvOS的字体管理（系统和自定义）.
 
 ### Game Engine
@@ -706,6 +706,7 @@
 * [UIImageColors](https://github.com/jathu/UIImageColors) -  UIImage的iTunes风格颜色获取器.
 * [Viewer](https://github.com/3lvis/Viewer) - 图像查看器（或Lightbox），支持本地和远程视频和图像.
 * [Vulcan](https://github.com/jinSasaki/Vulcan) - 具有优先级的多图像下载器.
+* [YPImagePicker](https://github.com/Yummypets/YPImagePicker) - 适用于iOS的Instagram式图像选择器和过滤器.
 * [ZImageCropper](https://github.com/ZaidPathan/ZImageCropper) - 裁剪任何形状的图像.
 
 ### Key Value Coding
@@ -770,7 +771,7 @@
 * [Localize-Swift](https://github.com/marmelroy/Localize-Swift) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
 * [NoOptionalInterpolation](https://github.com/T-Pham/NoOptionalInterpolation)   - 在字符串插值中删除“Optional（...）”和“nil”.  容易多元化.
 * [Swifternalization](https://github.com/tomkowz/Swifternalization) - 使用例如Localizable.strings中的正则表达式本地化应用程序.
-* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 一个为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
+* [SwiftGen-L10n](https://github.com/SwiftGen/SwiftGen#localizablestrings) - 为所有Localizable.strings键自动生成`enums`的工具（如果这些字符串包含像`％@`这样的printf格式占位符，则使用适当的关联值）.
 
 ### Location
 [back to top](#readme) 
@@ -891,7 +892,7 @@
 * [Embassy](https://github.com/envoy/Embassy) ：penguin： - 超轻量级异步HTTP服务器库.
 * [Kitura](https://github.com/IBM-Swift/Kitura) ：penguin： - 用于Web服务的IBM Web框架和服务器.
 * [Lightning](https://github.com/skylab-inc/Lightning) ：企鹅： - 多平台单线程无阻塞Web和网络框架.
-* [Noze.io](https://github.com/NozeIO/Noze.io) :penguin: - Evented I/O streams like Node.js.
+* [Noze.io](https://github.com/NozeIO/Noze.io) ：penguin： - 像Node.js这样的I / O流.
 * [Perfect](https://github.com/PerfectlySoft/Perfect)  ：企鹅： - 服务器端Swift.  完美的库，应用程序服务器，连接器和示例应用程序.
 * [swifter](https://github.com/httpswift/swifter) :penguin: - Http server with routing handler.
 * [Vapor](https://github.com/vapor/vapor) ：penguin： - 优雅的Web框架，适用于iOS，OS X和Ubuntu.
@@ -1041,7 +1042,7 @@
 ### Thread
 *线程，基于任务或异步编程，Grand Central Dispatch（GCD）包装器* [back to top](#readme) 
 
-* [Async](https://github.com/duemunk/Async) -  Grand Central Dispatch的语法糖.
+* [Async](https://github.com/duemunk/Async) - Syntactic sugar for Grand Central Dispatch.
 * [AwaitKit](https://github.com/yannickl/AwaitKit) -  ES7异步/等待控制流程.
 * [Chronos](https://github.com/comyar/Chronos-Swift) -  Grand Central Dispatch Utilities.
 * [Each](https://github.com/dalu93/Each) - 每个都是NSTimer桥库.
@@ -1081,7 +1082,7 @@
 * [FloatRatingView](https://github.com/glenyi/FloatRatingView) - 浮动评级系统.
 * [Fluid Slider](https://github.com/Ramotion/fluid-slider) - 带有弹出气泡的滑块小部件，显示所选的精确值.
 * [GaugeKit](https://github.com/skywinder/GaugeKit)   - 可定制的仪表.  轻松复制Apple的风格测量仪.
-* [Geometry](https://github.com/artman/Geometry) - extensions for UIView.
+* [Geometry](https://github.com/artman/Geometry) -  UIView的扩展.
 * [GMStepper](https://github.com/gmertk/GMStepper) - 中间带滑动标签的踏步机.
 * [GradientProgressBar](https://github.com/fxm90/GradientProgressBar) - 动画渐变进度条.
 * [GRMustache](https://github.com/groue/GRMustache.swift) - 灵活的胡子模板.
@@ -1344,7 +1345,7 @@
 * [TextFieldCounter](https://github.com/serralvo/TextFieldCounter) - 具有可爱UX的UITextField字符计数器.
 * [TextFieldEffects](https://github.com/raulriera/TextFieldEffects) -  UITextFields的几个现成的效果.
 * [UITextField-Navigation](https://github.com/T-Pham/UITextField-Navigation)   -  UITextField-Navigation为您的UITextFields键盘添加了next，previous和done按钮.  高度可定制.
-* [VKPinCodeView](https://github.com/Sunspension/VKPinCodeView) - Simple and elegant UI component for input PIN.
+* [VKPinCodeView](https://github.com/Sunspension/VKPinCodeView) - 用于输入PIN的简单而优雅的UI组件.
 
 #### Transition
 [back to top](#readme) 
@@ -1358,7 +1359,7 @@
 * [MusicPlayerTransition](https://github.com/xxxAIRINxxx/MusicPlayerTransition) -  Apple Music iOS App等自定义交互式转换.
 * [PanSlip](https://github.com/k-lpmg/PanSlip) - 使用PanGesture关闭UIViewController和UIView上的视图.
 * [PinterestSwift](https://github.com/demonnico/PinterestSwift) -  Pinterest风格转型.
-* [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - 基于Swift的库提供了一系列ViewController转换，其中包含许多简洁的切割动画.
+* [SamuraiTransition](https://github.com/hachinobu/SamuraiTransition) - Swift based library providing a collection of ViewController transitions featuring a number of neat cutting animations.
 * [SPLarkController](https://github.com/IvanVorobei/SPLarkController)   - 两个控制器之间的自定义转换  转换为顶部.
 * [SPStorkController](https://github.com/IvanVorobei/SPStorkController)   - 现在播放Apple Music的控制器.  可定制的高度.
 * [StarWars.iOS](https://github.com/Yalantis/StarWars.iOS) - 将动画过渡到崩溃的视图控制器变成小块.
@@ -1499,8 +1500,9 @@
 * [Validator](https://github.com/adamwaite/Validator) - 为您的iOS应用程序删除用户输入验证.
 
 #### Phone Numbers
-[back to top](#readme) 
+* Libs管理电话号码.* [back to top](#readme) 
 
+* [NKVPhonePicker](https://github.com/NikKovIos/NKVPhonePicker) -  UITextField子类，用于简化国家/地区代码的选择.
 * [PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit)   - 解析，格式化和验证国际电话号码的框架.  灵感来自谷歌的libphonenumber.
 
 ### Version Manager

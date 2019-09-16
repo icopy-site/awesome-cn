@@ -650,7 +650,7 @@ AWS Repos：
 * [littlstar/s3-lambda :fire::fire::fire::fire:](https://github.com/littlstar/s3-lambda) -  Lambda函数通过S3对象进行并发控制（每个，map，reduce，filter）.
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - 轻松部署，运行并获得结果.
 * [Miserlou/Zappa :fire::fire::fire::fire::fire:](https://github.com/Miserlou/Zappa) - 使用AWS Lambda + API网关的无服务器WSGI Python Web应用程序.
-* [nficano/python-lambda :fire::fire::fire:](https://github.com/nficano/python-lambda) - 用于在Lambda中开发和部署无服务器Python代码的工具包.
+* [nficano/python-lambda :fire::fire::fire::fire:](https://github.com/nficano/python-lambda) - 用于在Lambda中开发和部署无服务器Python代码的工具包.
 * [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) 无服务器应用程序框架（以前称为JAWS）.
 * [Tim-B/grunt-aws-lambda :fire::fire:](https://github.com/Tim-B/grunt-aws-lambda) -  Grunt插件.
 * [trek10inc/aws-lambda-debugger :fire::fire:](https://github.com/trek10inc/aws-lambda-debugger) - 在节点6.10上运行的Lambda函数的远程调试工具

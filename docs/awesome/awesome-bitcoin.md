@@ -16,6 +16,7 @@
 * [txwatcher](https://github.com/tsileo/txwatcher)一个小的Python实用程序，允许您通过Blockchain Websocket API监视比特币地址并执行自定义回调.
 * [hellobitcoin](https://github.com/prettymuchbryce/hellobitcoin) 一系列简单程序，可以生成比特币钱包，创建和签署交易，以及通过比特币网络发送交易.
 * [Mining visualization](http://www.yogh.io/#mine:last)
+* [HD Wallet Scanner](https://github.com/alexk111/HD-Wallet-Scanner) 查找比特币高清钱包中的所有已使用地址，绕过间隙限制.
 
 ## Blockchain API and Web services
 * [block.io](https://block.io)
@@ -27,6 +28,7 @@
 * [Smartbit](https://www.smartbit.com.au)
 * [Cashier-BTC](https://github.com/Overtorment/Cashier-BTC) - 自托管支付网关.
 * [Chainradar API](https://github.com/yasaricli/chainradar-api) Chainradar的Blockchain Explorer API
+* [One-Time Address](https://github.com/alexk111/One-Time-Address) 分享比特币地址的更好方法.
 
 ## Wallets API
 * [BitGo](https://bitgo.github.io/bitgo-docs/)

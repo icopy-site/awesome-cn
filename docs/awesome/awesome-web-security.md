@@ -205,9 +205,16 @@
 - [102 Deep Dive in the Dark Web OSINT Style Kirby Plessas](https://www.youtube.com/watch?v=fzd3zkAI_o4) - 提出者 [@kirbstr](https://twitter.com/kirbstr).
 - [The most complete guide to finding anyone’s email](https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email) - 写 [Timur Daudpota](https://www.blurbiz.io/).
 
+<a name="books"></a>
 ### Books
 
 - [XSS Cheat Sheet - 2018 Edition](https://leanpub.com/xss) - 写 [@brutelogic](https://twitter.com/brutelogic).
+
+<a name="dns-rebinding"></a>
+### DNS Rebinding
+
+- [Attacking Private Networks from the Internet with DNS Rebinding](https://medium.com/@brannondorsey/attacking-private-networks-from-the-internet-with-dns-rebinding-ea7098a2d325) - 写 [@brannondorsey](https://medium.com/@brannondorsey)
+- [Hacking home routers from the Internet](https://medium.com/@radekk/hackers-can-get-access-to-your-home-router-1ddadd12a7a7) - 写 [@radekk](https://medium.com/@radekk)
 
 ## Evasions
 
@@ -456,7 +463,7 @@
 
 - [wfuzz](https://github.com/xmendez/wfuzz) -  Web应用程序bruteforcer by [@xmendez](https://github.com/xmendez).
 - [charsetinspect](https://github.com/hack-all-the-things/charsetinspect) - 检查多字节字符集的脚本，用于查找具有特定用户定义属性的字符 [@hack-all-the-things](https://github.com/hack-all-the-things).
-- [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator) - Simple tool to convert the IP to a DWORD IP by [@OsandaMalith](https://github.com/OsandaMalith).
+- [IPObfuscator](https://github.com/OsandaMalith/IPObfuscator) - 将IP转换为DWORD IP的简单工具 [@OsandaMalith](https://github.com/OsandaMalith).
 - [domato](https://github.com/google/domato) -  DOM模糊器 [@google](https://github.com/google).
 - [FuzzDB](https://github.com/fuzzdb-project/fuzzdb) - 用于黑盒应用程序故障注入和资源发现的攻击模式和基元的字典.
 - [dirhunt](https://github.com/Nekmo/dirhunt) - 优化的Web爬虫，用于搜索和分析站点的目录结构 [@nekmo](https://github.com/Nekmo).
@@ -539,7 +546,7 @@
 ### Preventing
 
 - [DOMPurify](https://github.com/cure53/DOMPurify) - 适用于HTML，MathML和SVG的仅限DOM，超快速，超级容忍的XSS清洁剂 [Cure53](https://cure53.de/).
-- [js-xss](https://github.com/leizongmin/js-xss) - 使用白名单指定的配置清理不受信任的HTML（以防止XSS） [@leizongmin](https://github.com/leizongmin).
+- [js-xss](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
 - [Acra](https://github.com/cossacklabs/acra) - 用于SQL数据库的客户端加密引擎，具有强选择性加密，SQL注入预防和入侵检测功能 [@cossacklabs](https://www.cossacklabs.com/).
 
 <a name="tools-proxy"></a>
@@ -569,6 +576,14 @@
 ### Decompiler
 
 - [CFR](http://www.benf.org/other/cfr/) - 另一个java反编译器 [@LeeAtBenf](https://twitter.com/LeeAtBenf).
+
+<a name="tools-dns-rebinding"></a>
+### DNS Rebinding
+
+- [DNS Rebind Toolkit](https://github.com/brannondorsey/dns-rebind-toolkit) -  DNS Rebind Toolkit是一个前端JavaScript框架，用于开发针对局域网（LAN）上易受攻击的主机和服务的DNS重新绑定攻击 [@brannondorsey](https://github.com/brannondorsey)
+- [dref](https://github.com/mwrlabs/dref)   -  DNS重新绑定开发框架.  Dref为DNS重新绑定做了沉重的工作 [@mwrlabs](https://github.com/mwrlabs)
+- [Singularity of Origin](https://github.com/nccgroup/singularity) - 它包括将攻击服务器DNS名称的IP地址重新绑定到目标计算机的IP地址并提供攻击有效负载以利用目标计算机上的易受攻击软件的必要组件 [@nccgroup](https://github.com/nccgroup)
+- [Whonow DNS Server](https://github.com/brannondorsey/whonow) - 恶意DNS服务器，用于执行DNS重新绑定攻击 [@brannondorsey](https://github.com/brannondorsey)
 
 <a name="tools-others"></a>
 ### Others
