@@ -127,7 +127,7 @@
 *代码格式化程序
     * [black](https://github.com/python/black) - 毫不妥协的Python代码格式化程序.
     * [yapf](https://github.com/google/yapf) -  Google的又一个Python代码格式化程序.
-*静态类型跳棋
+*静态类型跳棋，也见 [awesome-python-typing](https://github.com/typeddjango/awesome-python-typing)
     * [mypy](http://mypy-lang.org/) - 在编译期间检查变量类型.
     * [pyre-check](https://github.com/facebook/pyre-check) - 高性能类型检查.
 *静态类型注释生成器
@@ -162,7 +162,7 @@
     * [PathPicker](https://github.com/facebook/PathPicker) - 从bash输出中选择文件.
     * [percol](https://github.com/mooz/percol) - 在UNIX上为传统管道概念添加交互式选择的风格.
     * [thefuck](https://github.com/nvbn/thefuck) - 更正以前的控制台命令.
-    * [tmuxp](https://github.com/tony/tmuxp) - 一个 [tmux](https://github.com/tmux/tmux) 会议经理.
+    * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会议经理.
     * [try](https://github.com/timofurrer/try) - 一个用来试用python包的简单的简单CLI  - 它从未如此简单.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) - 命令行HTTP客户端，用户友好的cURL替换.
@@ -781,7 +781,7 @@
 
 *用于启动和与OS进程通信的库.*
 
-* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) 适用于Humans™2.0.
+* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) for Humans™ 2.0.
 * [sarge](https://sarge.readthedocs.io/en/latest/) - 另一个子进程包装器.
 * [sh](https://github.com/amoffat/sh) -  Python的完整子进程替换.
 
@@ -1064,7 +1064,7 @@
 * [django-compressor](https://github.com/django-compressor/django-compressor) - 将链接和内联JavaScript或CSS压缩到单个缓存文件中.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -  Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -  Django的自定义存储后端集合.
-* [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
+* [fanstatic](http://www.fanstatic.org/en/latest/) - 作为Python包，包，优化和提供静态文件依赖性.
 * [fileconveyor](http://wimleers.com/fileconveyor) - 用于检测文件并将文件同步到CDN，S3和FTP的守护程序.
 * [flask-assets](https://github.com/miracle2k/flask-assets) - 帮助您将webassets集成到Flask应用程序中.
 * [webassets](https://github.com/miracle2k/webassets) - 捆绑，优化和管理静态资源的唯一缓存清除URL.

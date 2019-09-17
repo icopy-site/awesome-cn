@@ -149,7 +149,6 @@ VML和CSS.
 - [Campaign Monitor](https://www.campaignmonitor.com/testing/) - 使用Campaign Monitor在所有不同的电子邮件客户端中测试您的设计.
 - [Grunt Litmus](https://www.npmjs.com/package/grunt-litmus) - 用咕噜声向Litmus发送电子邮件测试
 - [Gulp Litmus](https://www.npmjs.com/package/gulp-litmus) - Send email tests to Litmus with gulp
-- [SPAM mailtester](http://www.mail-tester.com/) - 测试你的电子邮件的垃圾邮件
 - [MailTrap](https://mailtrap.io) - 虚假的SMTP服务器，用于测试，查看和共享电子邮件，而不会向真实客户发送垃圾邮件.
 - [MailHog](https://github.com/mailhog/MailHog) 本地虚假SMTP服务器（基于Go）
 - [MailCatcher](https://mailcatcher.me/) 本地虚假SMTP服务器（基于Ruby）

@@ -4,7 +4,7 @@
 
 一系列令人敬畏的初学者友好项目.
 
-灵感来自 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和YourFirstPR项目.
+Inspired by [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和YourFirstPR项目.
 
 如果您是开源项目的维护者，请在项目中添加“first-timers-only”（或类似）标签并在此处列出，以便人们可以找到它.
 
@@ -57,6 +57,7 @@
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：抓起来，难度/ 1：轻松，技术/围棋）_ <br>  Golang和React中的开源Slack替代方案
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner)  _（标签：exp / beginner）_ <br>  Docker CLI
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  生产级集装箱调度管理系统
+- [TiDB](https://github.com/pingcap/tidb/labels/for%20new%20contributors)  _（标签：新贡献者）_ <br>  分布式可扩展混合事务和分析处理（HTAP）数据库
 
 ## Java
 
@@ -107,7 +108,7 @@
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好的第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  使用JavaScript，HTML和CSS构建跨平台桌面应用程序
-- [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue) _(label: good first issue)_ <br> The only sane way to build great bots.
+- [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  建立伟大机器人的唯一理智方式.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  黑客文本编辑器
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS网络前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限第一次使用者）_ <br>  玩家框架
@@ -175,6 +176,8 @@
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一个开源聊天操作框架.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  灵活而强大的Python数据分析/操作库，提供类似于R data.frame对象，统计函数等的标记数据结构
+- [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  单击OpenVPN部署和管理仪表板.
+- [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  用于大规模自动化管理和配置任何基础架构或应用程序的软件.
 
 ## Ruby
 
@@ -197,6 +200,7 @@
 - [Rust-Clippy](https://github.com/rust-lang-nursery/rust-clippy/labels/good%20first%20issue)  _（标签：好的第一期）_ <br>  一堆lints来捕捉常见错误并改进Rust代码
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：好先发行）_ <br>  根据样式指南格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  Rust的可扩展并发Web框架
+- [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy)  _（标签：D：简单）_ <br>  分布式事务键值数据库
 
 ## Scala
 

@@ -178,7 +178,7 @@
 * [goconst](https://github.com/jgautheron/goconst) - 查找可以用常量替换的重复字符串.
 * [gocyclo](https://github.com/fzipp/gocyclo) - 计算Go源代码中函数的圈复杂度.
 * [gofmt -s](https://golang.org/cmd/gofmt/) - 检查代码是否格式正确，无法进一步简化.
-* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Checks missing or unreferenced package imports.
+* [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - 检查丢失或未引用的包导入.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) - “Go Meta Linter”的替代方案：GolangCI-Lint是一个直接聚合器.
 * [golint](https://github.com/golang/lint) - 在Go源代码中打印出编码风格错误.
 * [goreporter](https://github.com/wgliang/goreporter) - 同时运行许多短路并将其输出规范化为报告.
@@ -195,7 +195,7 @@
 * [nargs](https://github.com/alexkohler/nargs) - 在函数声明中查找未使用的参数.
 * [prealloc](https://github.com/alexkohler/prealloc) - 查找可能预先分配的切片声明.
 * [revive](https://github.com/mgechev/revive)   -  Go的快速，可配置，可扩展，灵活和美观的linter.  直接替换golint.
-* [safesql](https://github.com/stripe/safesql) - Static analysis tool for Golang that protects against SQL injections.
+* [safesql](https://github.com/stripe/safesql) -  Golang的静态分析工具，可防止SQL注入.
 * [structcheck](https://github.com/opennota/check) - 查找未使用的结构字段.
 * [test](http://golang.org/pkg/testing/) - 从stdlib测试模块显示测试失败的位置.
 * [testify](https://github.com/stretchr/testify) - 显示失败的证词断言的位置.
@@ -245,7 +245,7 @@
 ## JavaScript
 
 * [aether](https://github.com/codecombat/aether) - 在节点或浏览器中进行Lint，分析，规范化，转换，沙箱，运行，单步执行和可视化用户JavaScript.
-* [ClosureLinter](https://github.com/google/closure-linter)   - 确保您项目的所有JavaScript代码都遵循Google JavaScript样式指南中的指南.  它还可以自动修复许多常见错误
+* [ClosureLinter](https://github.com/google/closure-linter) - ensures that all of your project's JavaScript code follows the guidelines in the Google JavaScript Style Guide. It can also automatically fix many common errors
 * [coffeelint](https://github.com/clutchski/coffeelint) - A style checker that helps keep CoffeeScript code clean and consistent.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) -  JavaScript项目的软件复杂性分析
 * [DeepScan](https://deepscan.io) ：copyright： - 用于JavaScript的分析器，它针对运行时错误和质量问题，而不是编码约定.
@@ -461,14 +461,15 @@
 * [APPscreener](https://appscreener.us) :copyright: - Static code analysis for binary and source code - Java/Scala, PHP, Javascript, C#, PL/SQL, Python, T-SQL, C/C++, ObjectiveC/Swift, Visual Basic 6.0, Ruby, Delphi, ABAP, HTML5 and Solidity
 * [Axivion Bauhaus Suite](https://www.axivion.com/en/products-services-9#products_bauhaussuite) :copyright: - Tracks down error-prone code locations, style violations, cloned or dead code, cyclic dependencies and more for C/C++, C#/.NET, Java and Ada 83/Ada 95
 * [Checkmarx CxSAST](https://www.checkmarx.com/products/static-application-security-testing/) :copyright: - Commercial Static Code Analysis which doesn't require pre-compilation. Supports: Android (Java), Apex and VisualForce, ASP, C#, C/C++, Go, Groovy, HTML5, Java, JavaScript, Node.js, Objective C, Perl, PhoneGap, PHP, Python, Ruby, Scala, Swift, VB.NET, VB6, VBScript
-* [coala](https://coala.io/) - 用于创建代码分析的语言无关框架 - 支持 [over 60 languages](https://coala.io/languages) 默认情况下
+* [coala](https://coala.io/) - 用于创建代码分析的语言无关框架 - 支持 [over 60 languages](https://coala.io/languages) 默认
 * [Cobra](http://spinroot.com/cobra/)  ：copyright： - 美国宇航局喷气推进实验室的结构源代码分析仪.  支持C，C ++，Ada和Python.
 * [codeburner](https://github.com/groupon/codeburner) - 提供统一的界面，对发现的问题进行排序和处理
 * [CodeFactor](https://codefactor.io) :copyright: - Static Code Analysis for C#, C, C++, CoffeeScript, CSS, Groovy, GO, JAVA, JavaScript, Less, Python, Ruby, Scala, SCSS, TypeScript.
 * [CodeIt.Right](https://submain.com/products/codeit.right.aspx) :copyright: - CodeIt.Right&trade; provides a fast, automated way to ensure that your source code adheres to (your) predefined design and style guidelines as well as best coding practices. Supported languages: C#, VB.NET.
 * [CodeScene](https://empear.com/) ：copyright： -  CodeScene优先考虑技术债务，发现社交模式并识别代码中隐藏的风险.
 * [cqc](https://github.com/xcatliu/cqc) - 检查js，jsx，vue，css，less，scss，sass和styl文件的代码质量.
-* [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET. 
+* [Coverity](https://www.synopsys.com/software-integrity/security-testing/static-analysis-sast.html) :copyright: - Synopsys Coverity supports 20 languages and over 70 frameworks including Ruby on rails, Scala, PHP, Python, JavaScript, TypeScript, Java, Fortran, C, C++, C#, VB.NET.
+* [DeepSource](https://deepsource.io/)  ：copyright： - 深入的静态分析，以监控源代码的质量和安全性.  支持Python和Go，可以在错误风险，安全性，反模式，性能，文档和样式的垂直方面检测600多种类型的问题.  与GitHub本机集成.
 * [Depends](https://github.com/multilang-depends/depends) - 分析Java，C / C ++，Ruby的代码元素的综合依赖性.
 * [DevSkim](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 * [Fortify](https://software.microfocus.com/en-us/products/static-code-analysis-sast/overview) :copyright: A commercial static analysis platform that supports the scanning of C/C++, C#, VB.NET, VB6, ABAP/BSP, ActionScript, Apex, ASP.NET, Classic ASP, VB Script, Cobol, ColdFusion, HTML, Java, JS, JSP, MXML/Flex, Objective-C, PHP, PL/SQL, T-SQL, Python (2.6, 2.7), Ruby (1.9.3), Swift, Scala, VB, and XML.
@@ -559,7 +560,7 @@
 
 ## Gherkin
 
-* [gherkin-lint](https://github.com/vsiakka/gherkin-lint) - 用Javascript编写的Gherkin-Syntax的linter.
+* [gherkin-lint](https://github.com/vsiakka/gherkin-lint) - A linter for the Gherkin-Syntax written in Javascript.
 
 ## HTML
 
@@ -624,7 +625,7 @@
 
 * [After the Deadline](https://afterthedeadline.com/) ：警告： - 拼写，风格和语法检查
 * [codespell](https://github.com/codespell-project/codespell) - 检查常见拼写错误的代码
-* [languagetool](https://github.com/languagetool-org/languagetool) - Style and grammar checker for 25+ languages. It finds many errors that a simple spell checker cannot detect.
+* [languagetool](https://github.com/languagetool-org/languagetool)   -  25种语言的风格和语法检查.  它发现了一个简单的拼写检查程序无法检测到的许多错误.
 * [misspell-fixer](https://github.com/vlajos/misspell-fixer) - 用于修复常见拼写错误的快速工具，源代码中的拼写错误
 * [Misspelled Words In Context](https://github.com/jwilk/mwic) - 一种拼写检查器，可以对可能的拼写错误进行分组并在其上下文中显示它们
 * [proselint](https://github.com/amperser/proselint/) - 英语散文的点缀，专注于写作风格而不是语法.
@@ -637,8 +638,8 @@
 * [Code Inspector](https://www.code-inspector.com) ：copyright： - 支持10种以上语言的代码质量和技术债务管理平台.
 * [Codeac](https://www.codeac.io?ref=awesome-static-analysis)  ：copyright： - 自动代码审查工具与GitHub，Bitbucket和GitLab（甚至是自托管）集成.  适用于JavaScript，TypeScript，Python，Ruby，Go，PHP，Java，Docker等.  （开源免费）
 * [CodeFactor](https://codefactor.io) ：copyright： - 在GitHub或BitBucket上重新发布的自动代码分析.
-* [CodeFlow](https://www.getcodeflow.com)  ：copyright： - 自动代码分析工具，以处理技术深度.  与Bitbucket和Gitlab集成.  （免费开源项目）
-* [Gamma](https://mygamma.io) :copyright: - An intelligent software analytics platform that identifies issues from multiple lenses: Design issues, code issues, duplication and metrics. Available for Java, C, C++ and C#.
+* [CodeFlow](https://www.getcodeflow.com) :copyright: - Automated code analysis tool to deal with technical depth. Integrates with Bitbucket and Gitlab. (free for Open Source Projects)
+* [Embold](https://embold.io) :copyright: - Intelligent software analytics platform that identifies design issues, code issues, duplication and metrics. Supports Java, C, C++, C#, JavaScript, TypeScript, Python, Go, Kotlin and more.
 * [kiuwan](https://www.kiuwan.com/) ：copyright： - 云中的软件分析支持超过22种编程语言.
 * [Landscape](https://landscape.io/) ：copyright： -  Python的静态代码分析
 * [Layered Insight](https://layeredinsight.com/) ：copyright： - 容器本机应用程序保护，以提供容器化应用程序的可见性和控制.

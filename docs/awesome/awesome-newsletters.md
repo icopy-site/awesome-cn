@@ -24,9 +24,9 @@
 ### General Web Development
 
 - [Weekend Reading](https://tinyletter.com/assaf) .  关于Web开发，设计和启动生活的每周电子邮件.
-- [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
+- [Web Development Reading List](https://wdrl.info) .  本通讯分享了Web开发的最新文章.
 - [Fullweb Weekly](http://fullweb.io/) .  针对fullstack Web开发人员的每周简报.  它每周向您发送有关Web前端和后端，devops和用户体验的前5个链接.
-- [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform. [Archive](https://ponyfoo.com/weekly/history).
+- [Pony Foo Weekly](https://ponyfoo.com/weekly) .  每周简报，讨论围绕网络平台的有趣和热门话题. [Archive](https://ponyfoo.com/weekly/history).
 - [Dev Awesome](https://devawesome.io/) .  每两周在您的收件箱中获取最新的节目新闻，酷图书馆和生产力提示.
 
 ### JavaScript
@@ -73,7 +73,7 @@
 
 ### CSS
 
-- [CSS Weekly](https://css-weekly.com/) .  每周电子邮件综述由Zoran Jambor策划的CSS文章，教程，实验和工具.
+- [CSS Weekly](https://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 - [CSS-Tricks](https://css-tricks.com) .  注册位于**获取新闻通讯**标题下的页面底部！
 - [CSS Layout News](http://csslayout.news/) .  关于CSS Layout的所有内容的每周教程，新闻和信息的集合.
 - [Sass News](http://sass.news) .  获取所有Sass-y伟大的最新，最好的新闻，教程和代码示例. [Archive](http://sass.news/issues).
@@ -134,7 +134,7 @@
 ### Node.js
 
 - [Node Weekly](https://nodeweekly.com/) .  一个免费的，每周一次的Node.js新闻和文章的电子邮件汇总.
-- [npm Weekly](https://www.npmjs.com/npm-weekly)
+- [npm Weekly](https://www.npmjs.com/npm-weekly) .  我们正在研究，思考和讨论NPM
 - [Awesome Node.js Newsletter](https://nodejs.libhunt.com/newsletter) .  每周概述最受欢迎的Node.js新闻，文章和包.
 
 ### Swift
@@ -143,7 +143,7 @@
 - [iOS Dev Weekly](https://iosdevweekly.com/) .  每周最好的iOS开发链接. [Archive](https://iosdevweekly.com/issues).
 - [Swift Weekly Brief](https://swiftweekly.github.io) .  关于Swift.org的社区驱动每周简报.  由Jesse Squires策划，每周四免费发布.
 - [Awesome Swift Newsletter](https://swift.libhunt.com/newsletter) .  精选的swift库和资源的精选列表.
-- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter) .  介绍Swift by Sundell每月简报！
+- [The Swift by Sundell](https://www.swiftbysundell.com/newsletter). Introducing the Swift by Sundell monthly newsletter!
 - [iOS Goodies](https://ios-goodies.com) .  每周iOS时事通讯. [Archive](https://ios-goodies.com/archive).
 - [Indie iOS Focus Weekly](https://indieiosfocus.com) .  最好的iOS开发，营销，Swift，设计和Xcode链接. [Archive](https://indieiosfocus.com/issues).
 - [Swift Developments](https://andybargh.com/swiftdevelopments/) .  每周策划的时事通讯，包含精选的最新链接，视频，工具和教程，供有兴趣使用Swift设计和开发自己的iOS，macOS，watchOS和tvOS应用的人们使用.
@@ -162,8 +162,8 @@
 ### Ruby
 
 - [Ruby Weekly](https://rubyweekly.com/) .  每日一次的免费电子邮件汇总Ruby新闻和文章.
-- [Ruby posts by Thoughtbot](https://thoughtbot.com/blog/tags/ruby)
-- [Rails Weekly](https://rails-weekly.ongoodbits.com/) .  每周内有趣的提交内容，拉动请求和Rails的更多信息，每周五发送到您的收件箱.
+- [Ruby Articles](https://thoughtbot.com/blog/tags/ruby) .  Ruby帖子 [Thoughtbot](https://thoughtbot.com)
+- [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 - [Volt Framework](http://voltframework.com/) .  Volt是一个用于快速构建数据丰富的Web应用程序的框架.
 - [Awesome Ruby Newsletter](https://ruby.libhunt.com/newsletter) .  一系列令人敬畏的Ruby宝石，工具，框架和软件.
 
@@ -233,13 +233,12 @@
 
 ### Lua
 
-- [Lua Digest](https://luadigest.immortalin.com).
-  Lua编程语言的常规通讯.
+- [Lua Digest](https://luadigest.immortalin.com) .  Lua编程语言的常规通讯.
 
 ## OS
 
 - [MacMost](https://macmost.com/macmost-weekly-newsletter) .  每周在您的收件箱中提供最新的MacMost教程，提示和新闻.
-- [NixOS Weekly](https://weekly.nixos.org).
+- [NixOS Weekly](https://weekly.nixos.org) .  最新消息 [NixOS](https://nixos.org)
 
 ## Git
 
@@ -285,7 +284,7 @@
 - [DevOps newsletter](https://blog.serverdensity.com/devops-newsletter/) .  本周最好的DevOps链接发送到您的收件箱
   每个星期天都以DevOps简报的形式出现.
 - [Sysadmin Casts](https://sysadmincasts.com/get-notified) .  Sysadmin Casts  - 一口大小的系统管理员截屏（每周发布）.
-- [Server Admin for Programmers](https://serversforhackers.com/)
+- [Server Admin for Programmers](https://serversforhackers.com/) .  教授开发和生产所需的服务器技术.  消除服务器配置的挫败感.
 - [Cron.Weekly](https://www.cronweekly.com) .  每周日发布的每周简报，包含针对Linux系统管理员量身定制的新闻和工具. [Archige](https://www.cronweekly.com/archives/).
 - [MicroServices Weekly](http://www.microservicesweekly.com/) .  每周免费获得微服务架构和基于容器的虚拟化新闻和来自社区的文章.
 - [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter) .  精选的SysAdmin工具，软件和资源的精选列表.
@@ -326,6 +325,13 @@
 - [Data Prism](http://dataprism.co/) .  Data Prism是关于数据科学，机器学习，人工智能和分析领域的初创公司和公司的策划新闻的每周出版物.
 - [Import AI](https://twitter.us13.list-manage.com/subscribe?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c) .  人工智能的最新突破，应用和污染. [Archive](https://us13.campaign-archive.com/home/?u=67bd06787e84d73db24fb0aa5&id=6c9d98ff2c)
 - [AI Digest](https://aidigest.net/) .  每周通讯，以跟上人工智能，机器学习和数据科学的最新动态. [Archive](https://aidigest.net/digests).
+- [The ML Engineer Newsletter](https://ethical.institute/mle.html) .  接收由机器学习专业人员策划的开源框架，教程和文章的更新.  获得有关机器学习可解释性，再现性，模型评估，特征分析等方面的最佳实践，工具和技术的见解.
+
+## Blockchain / Cryptocurrencies
+
+- [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.
+- [Crypto Weekly](https://cryptoweekly.co/) .  每周向您的收件箱发送的最佳加密货币新闻和见解.
+- [Build Blockchain](https://www.buildblockchain.tech/newsletter) .  区块链技术没有公牛 - 每周一次的区块链现实剂量，对技术的偏重.
 
 ## Technology in General
 
@@ -350,8 +356,8 @@
 - [HackerNewsLetter](https://www.hackernewsletter.com/) .  关于初创公司，技术，编程等的最佳文章的每周时事通讯.  所有链接均由流行的黑客新闻网站手工策划.
 - [ChangeLog Weekly](https://changelog.com/weekly) .  每周一期的时事通讯，涵盖了所有可以触及开源雷达的内容.
 - [GitHub News](https://www.gitlogs.com/) .  通过峰值检测算法检测GitHub上的顶级趋势回购.
-- 收件箱中的灵感 [TED](https://www.ted.com/newsletter).
-- Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
+- [TED](https://www.ted.com/newsletter) .  TED对您收件箱的启发
+- [KickStarter](https://www.kickstarter.com/newsletters) .  我们喜欢的项目由KickStarter存档
 - [Startup Digest](https://www.startupdigest.com/reading-lists) .  来自世界各地的精选阅读材料，根据您​​的兴趣定制.
 - 免费的每周简报，包括与域名，开发，货币化，如何指南，提示和技巧，资源，活动等相关的最佳和手工策划链接. [This Week in Domains](http://www.thisweekindomains.com/)
 - [My Morning Routine](https://mymorningroutine.com/) .  My Morning Routine是一本独立的在线杂志，每周三为您带来一个全新的，鼓舞人心的早晨例程.
@@ -371,7 +377,7 @@
 - [Founder Weekly](http://www.founderweekly.com/) .  为企业家提供免费的每周时事通讯，包括最佳策展内容，必须阅读文章，如何指导，提示和技巧，资源，事件等.
 - [WebRTC Weekly](https://webrtcweekly.com/) .  每周简短的时事通讯，包含WebRTC上的所有最新新闻和活动.
 - [Web Audio Weekly](https://www.webaudioweekly.com/) .  每周一次的人们通讯都会对Web Audio API，Web MIDI API或网络上的声音感兴趣.
-- [Data Is Plural](https://tinyletter.com/data-is-plural) .  每周一次的有用/好奇数据集通讯.
+- [Data Is Plural](https://tinyletter.com/data-is-plural). A weekly newsletter of useful/curious datasets.
 - [Founders Grid](https://foundersgrid.com/) .  针对创业公司创始人的每周简报，汇集了创业生态系统中的最佳资源.
 - [Software Lead Weekly](http://softwareleadweekly.com/) .  每周一封的免费电子邮件，适合关心人，文化和领导力的忙碌人士.
 - [Hacking Revenue](http://hackingrevenue.com/) .  每周发送一封电子邮件，其中包含精心策划的见解，以扩展您的业务.
@@ -385,11 +391,11 @@
 - [tl;dr Marketing](https://tldrmarketing.com/) .  针对数字营销人员的每周简报，涵盖SEO，PPC和社交媒体的新闻.
 - [Security Newsletter](https://securitynewsletter.co/) .  每周发送一封电子邮件，其中包含周四或周五的最新安全新闻.
 - [Startup Watching](https://startupwatching.com/) .  为初创公司策划的知识，灵感和背景故事.  每周一和周四发送到您的收件箱.
-- [Inside Bitcoin](https://inside.com/bitcoin) .  跟踪比特币和加密货币的趋势，新闻和分析.
-- [Crypto Weekly](https://cryptoweekly.co/) .  每周向您的收件箱发送的最佳加密货币新闻和见解.
 - [Unreadit/Tech](https://unread.it/n/tech/) .  来自Reddit最佳帖子的技术爱好者的硬件和软件新闻.
 - [Unreadit/Entrepreneur](https://unread.it/n/entrepreneur/) .  关于创业，增长，投资和创业公司的前沿新闻来自最好的Reddit帖子.
 - [Tech Productivity](https://techproductivity.co/) .  Tech Productivity是一份针对技术专业人士（程序员，开发人员，设计师等）的简短每周简报.  每个问题都包含一份与生产力相关的工具，文章和其他资源的简要列表，可以帮助各种技术相关领域的工作人员提高工作效率.
+- [Dev Updates](https://mailchi.mp/f59beeac6b9b/devupdates) .  每周一期的时事通讯，重点介绍最新的移动，网络，人工智能，用户体验/用户体验，工作/购物者以及与开发人员和行业相关的任何内容.
+
 
 ## License
 

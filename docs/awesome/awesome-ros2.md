@@ -55,7 +55,7 @@
 - [ros2_controllers](https://github.com/ros-controls/ros2_controllers) -  ros_controllers的描述. ![ros2_controllers](https://img.shields.io/github/stars/ros-controls/ros2_controllers.svg)
 - [geometry2](https://github.com/ros2/geometry2) - 一组用于跟踪坐标变换的ROS包. ![geometry2](https://img.shields.io/github/stars/ros2/geometry2.svg)
 - [cartographer](https://github.com/ros2/cartographer) - 跨多个平台和传感器配置的2D和3D实时同步定位和映射（SLAM）. ![cartographer](https://img.shields.io/github/stars/ros2/cartographer.svg)
-- [vision_opencv](https://github.com/ros2/vision_opencv) - 用于连接ROS2和OpenCV的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros2/vision_opencv.svg)
+- [vision_opencv](https://github.com/ros-perception/vision_opencv/tree/ros2) - 用于连接ROS2和OpenCV的软件包. ![vision_opencv](https://img.shields.io/github/stars/ros-perception/vision_opencv.svg)
 - [teleop_twist_keyboard](https://github.com/ros2/teleop_twist_keyboard) -  ROS2的通用键盘Teleop. ![teleop_twist_keyboard](https://img.shields.io/github/stars/ros2/teleop_twist_keyboard.svg)
 - [teleop_twist_joy](https://github.com/ros2/teleop_twist_joy) - 用于扭曲机器人的简单操纵杆遥控器. ![teleop_twist_joy](https://img.shields.io/github/stars/ros2/teleop_twist_joy.svg)
 - [navigation](https://github.com/ros2/navigation) -  ROS2导航堆栈. ![navigation](https://img.shields.io/github/stars/ros2/navigation.svg)
