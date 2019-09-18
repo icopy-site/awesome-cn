@@ -34,7 +34,7 @@
 
 - [steam-trade](https://github.com/seishun/node-steam-trade) -  Node.js包装Steam实时交易.
 - [steam-tradeoffers](https://github.com/Alex7Kom/node-steam-tradeoffers) -  Node.js的Steam交易优惠
-- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - 简单而理智的Steam交易报价管理.
+- [steam-tradeoffer-manager](https://github.com/DoctorMcKay/node-steam-tradeoffer-manager) - Simple and sane Steam trade offer management.
 
 #### Game Interaction
 
@@ -93,7 +93,7 @@
 - [steam-api](https://github.com/DaMitchell/steam-api-php) -  Steam API的PHP包装器.
 - [steamid](https://github.com/DoctorMcKay/php-steamid) -  PHP的SteamID类.
 - [steam-totp](https://github.com/DoctorMcKay/php-steam-totp) - 用于处理Steam专有TOTP算法的PHP库.
-- [steam-auth](https://github.com/vikas5914/steam-auth) - 具有Composer支持的备用Steam身份验证库.
+- [steam-auth](https://github.com/vikas5914/steam-auth) - 具有Composer支持的备用Steam身份验证库。
 
 ### Go
 
@@ -128,6 +128,7 @@
 ### Java
 
 - [SteamKit-Java](https://github.com/Top-Cat/SteamKit-Java) -  SteamKit的Java端口.
+- [JavaSteam](https://github.com/Longi94/JavaSteam) -  Java库，提供与Valve的Steam服务器直接交互的接口.
 
 ### Objective-C
 

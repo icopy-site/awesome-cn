@@ -81,7 +81,7 @@
 
 ## Task Queue
 
-- [dramatiq](https://github.com/Bogdanp/dramatiq) - 一个快速可靠的Python 3分布式任务处理库
+- [Flask-Dramatiq](https://flask-dramatiq.rtfd.io/) - [dramatiq](https://github.com/Bogdanp/dramatiq) Flask应用程序的集成.
 - [huey](https://github.com/coleifer/huey) -  python的一个小任务队列
 - [Flask-RQ](https://github.com/mattupstate/flask-rq) -  Flask应用程序的RQ（Redis Queue）集成
 - [celery](https://github.com/celery/celery/) - 分布式任务队列

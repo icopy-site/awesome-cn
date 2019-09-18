@@ -107,6 +107,7 @@
 * [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#. 
 * [Feast](https://github.com/gojek/feast)   - 用于管理，发现和访问机器学习功能的功能存储.  盛宴为模型训练和模型服务提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 可重复和可扩展的机器学习和深度学习的平台.
+* [Cornac](https://github.com/PreferredAI/cornac) - 多模式推荐系统的比较框架，侧重于利用辅助数据的模型.
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
@@ -231,7 +232,7 @@
 * [gobrain](https://github.com/goml/gobrain) - 用Go编写的神经网络.
 * [go-mxnet-predictor](https://github.com/songtianyi/go-mxnet-predictor) - 对MXNet c_predict_api进行绑定，以使用预先训练的模型进行推理.
 * [go-ml-transpiler](https://github.com/znly/go-ml-transpiler) - 用于机器学习模型的开源Go转换器.
-* [golearn](https://github.com/sjwhitworth/golearn) - Machine learning for Go.
+* [golearn](https://github.com/sjwhitworth/golearn) -  Go的机器学习.
 * [goml](https://github.com/cdipaolo/goml) - 用纯Go编写的机器学习库.
 * [gorgonia](https://github.com/gorgonia/gorgonia) -  Go中的深度学习.
 * [therfoo](https://github.com/therfoo/therfoo) -  Go的嵌入式深度学习库.
@@ -242,6 +243,7 @@
 * [bayesian](https://github.com/jbrukh/bayesian)   -  Golang的朴素贝叶斯分类.  ** [已过时] **
 * [go-galib](https://github.com/thoj/go-galib)   - 用Go / Golang编写的遗传算法库.  ** [已过时] **
 * [Cloudforest](https://github.com/ryanbressler/CloudForest)   -  Go / Golang中决策树的集合.  ** [已过时] **
+* [go-dnn](https://github.com/sudachen/go-dnn) - Deep Neural Networks for Golang (powered by MXNet)
 
 <a name="go-spatial-analysis"></a>
 #### Spatial analysis and geometry
@@ -434,7 +436,7 @@
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Go，Javascript等.
 * [TensorFlow.js](https://js.tensorflow.org/) - 用于培训和部署ML模型的WebGL加速，基于浏览器的JavaScript库.
 * [JSMLT](https://github.com/jsmlt/jsmlt)   - 具有Node.js分类和聚类的机器学习工具包;  支持可视化（见 [visualml.io](https://visualml.io)).
-* [xgboost-node](https://github.com/nuanio/xgboost-node) - Run XGBoost model and make predictions in Node.js.
+* [xgboost-node](https://github.com/nuanio/xgboost-node) - 运行XGBoost模型并在Node.js中进行预测.
 * [Netron](https://github.com/lutzroeder/netron) - 用于机器学习模型的Visualizer.
 * [WebDNN](https://github.com/mil-tokyo/webdnn)   - 快速深度神经网络Javascript框架.  WebDNN使用下一代JavaScript API，用于GPU执行的WebGPU和用于CPU执行的WebAssembly.  
 
@@ -480,7 +482,7 @@
 * [GLMNet](https://github.com/simonster/GLMNet.jl) -  Julia包装，用于使用glmnet安装Lasso / ElasticNet GLM模型.
 * [Clustering](https://github.com/JuliaStats/Clustering.jl) - 用于聚类数据的基本功能：k-means，dp-means等.
 * [SVM](https://github.com/JuliaStats/SVM.jl)   - 朱莉娅的SVM.  ** [已过时] **
-* [Kernel Density](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia.
+* [Kernel Density](https://github.com/JuliaStats/KernelDensity.jl) -  julia的核密度估计.
 * [MultivariateStats](https://github.com/JuliaStats/MultivariateStats.jl) - 减少维数的方法.
 * [NMF](https://github.com/JuliaStats/NMF.jl) - 用于非负矩阵分解的Julia包.
 * [ANN](https://github.com/EricChiang/ANN.jl)   - 朱莉娅人工神经网络.  ** [已过时] **
@@ -530,7 +532,7 @@
 * [DSP](https://github.com/JuliaDSP/DSP.jl) - 数字信号处理（滤波，周期图，频谱图，窗函数）.
 * [JuliaCon Presentations](https://github.com/JuliaCon/presentations) -  JuliaCon的演讲.
 * [SignalProcessing](https://github.com/JuliaDSP/DSP.jl) -  Julia的信号处理工具.
-* [Images](https://github.com/JuliaImages/Images.jl) - 朱莉娅的图像库.
+* [Images](https://github.com/JuliaImages/Images.jl) - An image library for Julia.
 * [DataDeps](https://github.com/oxinabox/DataDeps.jl) - 可重复科学的可重复数据设置.
 
 <a name="lua"></a>
@@ -833,7 +835,7 @@ be
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) - &gt;神经网络，变压器和模型的精选集合，使您的机器学习更快，更有效.
 * [CNTK](https://github.com/Microsoft/CNTK)   -  Microsoft Cognitive Toolkit（CNTK），一个开源深度学习工具包.  可以找到文档 [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [auto_ml](https://github.com/ClimbsRocks/auto_ml)   - 用于生产和分析的自动化机器学习.  让您专注于ML的有趣部分，同时输出生产就绪代码，以及数据集和结果的详细分析.  包括对NLP，XGBoost，CatBoost，LightGBM的支持，以及即将深入学习. 
-* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型，存储到NoSQL数据存储区中.
+* [machine learning](https://github.com/jeff1evesque/machine-learning) - 由a组成的自动构建 [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface)和一套 [programmatic-interface](https://github.com/jeff1evesque/machine-learning#programmatic-interface)  API，用于支持向量机.  相应的数据集存储在SQL数据库中，然后生成用于预测的模型存储到NoSQL数据存储区中.
 * [XGBoost](https://github.com/dmlc/xgboost) -  eXtreme Gradient Boosting（Tree）库的Python绑定.
 * [Apache SINGA](https://singa.apache.org) - 用于开发开源机器学习库的Apache Incubating项目.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - 在Python中使用概率编程预订/ iPython笔记本.
@@ -870,7 +872,7 @@ be
 * [neuropredict](https://github.com/raamana/neuropredict)   - 针对新手机器学习者和非专业程序员，这个软件包提供了简单的（无需编码）和全面的机器学习（评估和预测性能的完整报告，无需您编写代码），用于神经映射和任何其他类型的功能.  这是为了吸收ML工作流程的大部分内容，不像其他软件包，如nilearn和pymvpa，它们要求您学习其API和代码以生成任何有用的内容.
 * [imbalanced-learn](https://imbalanced-learn.org/en/stable/index.html) - 使用各种技术在采样和过采样下执行的Python模块.
 * [Shogun](https://github.com/shogun-toolbox/shogun) - 幕府将军学习工具箱.
-* [Pyevolve](https://github.com/perone/Pyevolve)   - 遗传算法框架.  ** [已过时] **
+* [Pyevolve](https://github.com/perone/Pyevolve) - Genetic algorithm framework. **[Deprecated]**
 * [Caffe](https://github.com/BVLC/caffe) - 深入学习框架，清洁，可读性和速度.
 * [breze](https://github.com/breze-no-salt/breze)   - 基于Theano的深度和递归神经网络库.  ** [已过时] **
 * [pyhsmm](https://github.com/mattjj/pyhsmm) - 用于贝叶斯隐马尔可夫模型（HMM）和显式持续时间隐马尔可夫模型（HSMM）的近似无监督推理的库，侧重于贝叶斯非参数扩展，HDP-HMM和HDP-HSMM，主要具有弱极限近似.
@@ -895,7 +897,7 @@ be
 * [DIGITS](https://github.com/NVIDIA/DIGITS) - 深度学习GPU培训系统（DIGITS）是一个用于培训深度学习模型的Web应用程序.
 * [Orange](https://orange.biolab.si/) - 面向新手和专家的开源数据可视化和数据分析.
 * [MXNet](https://github.com/apache/incubator-mxnet)   - 具有动态，突变感知数据流Dep Scheduler的轻量级，便携式，灵活的分布式/移动深度学习;  适用于Python，R，Julia，Go，Javascript等.
-* [milk](https://github.com/luispedro/milk)   - 机器学习工具包侧重于监督分类.  ** [已过时] **
+* [milk](https://github.com/luispedro/milk) - Machine learning toolkit focused on supervised classification. **[Deprecated]**
 * [TFLearn](https://github.com/tflearn/tflearn) - 深度学习库，为TensorFlow提供更高级别的API.
 * [REP](https://github.com/yandex/rep)   - 基于IPython的环境，以一致且可重复的方式进行数据驱动的研究.  REP不是试图替代scikit-learn，而是扩展它并提供更好的用户体验.  ** [已过时] **
 * [rgf_python](https://github.com/RGF-team/rgf) -  Regularized Greedy Forest（Tree）Library的Python绑定.
@@ -1037,6 +1039,7 @@ be
 * [NeuralTalk](https://github.com/karpathy/neuraltalk2)   -  NeuralTalk是一个Python + numpy项目，用于学习描述带句子图像的多模式回归神经网络.  ** [已过时] **
 * [Neuron](https://github.com/molcik/python-neuron)   - 神经元是时间序列预测的简单类.  它利用LNU（线性神经元），QNU（二次神经元），RBF（径向基函数），MLP（多层感知器），MLP-ELM（多层感知器 - 极端学习机）神经网络，用梯度下降或LeLevenberg学习-Marquardt算法.  ** [已过时] **
 * [Data Driven Code](https://github.com/atmb4u/data-driven-code) - 在不使用任何库的情况下，非常简单地在python中为虚拟实现神经网络，并提供详细的注释.
+* [Machine Learning, Data Science and Deep Learning with Python](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python) -  LiveVideo课程，涵盖机器学习，Tensorflow，人工智能和神经网络.
 
 <a name="python-kaggle"></a>
 #### Kaggle Competition Source Code
@@ -1086,7 +1089,7 @@ be
 * [Treat](https://github.com/louismullie/treat) -  Text REtrieval和Annotation Toolkit，绝对是迄今为止我遇到过的最全面的Ruby工具包.
 * [Stemmer](https://github.com/aurelian/ruby-stemmer)   - 将libstemmer_c暴露给Ruby.  ** [已过时] **
 * [Raspel](https://sourceforge.net/projects/raspell/)   -  raspell是ruby的界面绑定.  ** [已过时] **
-* [UEA Stemmer](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing.
+* [UEA Stemmer](https://github.com/ealdent/uea-stemmer) -  UEALite Stemmer的Ruby端口 - 一个用于搜索和索引的保守的词干分析器.
 * [Twitter-text-rb](https://github.com/twitter/twitter-text/tree/master/rb) - 一个在推文中自动链接和提取用户名，列表和主题标签的库.
 
 <a name="ruby-general-purpose"></a>
@@ -1170,13 +1173,13 @@ be
 * [grplasso](https://cran.r-project.org/web/packages/grplasso/index.html) -  grplasso：使用Group Lasso惩罚符合用户指定的模型.
 * [grpreg](https://cran.r-project.org/web/packages/grpreg/index.html) -  grpreg：具有分组协变量的回归模型的正则化路径.
 * [h2o](https://cran.r-project.org/web/packages/h2o/index.html) - 大规模快速，并行和分布式机器学习算法的框架 -  Deeplearning，Random forest，GBM，KMeans，PCA，GLM.
-* [hda](https://cran.r-project.org/web/packages/hda/index.html) - hda: Heteroscedastic Discriminant Analysis. **[Deprecated]**
+* [hda](https://cran.r-project.org/web/packages/hda/index.html)   -  hda：异方差判别分析.  ** [已过时] **
 * [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/)
 * [ipred](https://cran.r-project.org/web/packages/ipred/index.html) -  ipred：改进的预测因子.
 * [kernlab](https://cran.r-project.org/web/packages/kernlab/index.html) -  kernlab：基于内核的机器学习实验室.
 * [klaR](https://cran.r-project.org/web/packages/klaR/index.html) -  klaR：分类和可视化.
 * [L0Learn](https://cran.r-project.org/web/packages/L0Learn/index.html) -  L0Learn：用于最佳子集选择的快速算法.
-* [lars](https://cran.r-project.org/web/packages/lars/index.html)   -  lars：最小角度回归，Lasso和Forward Stagewise.  ** [已过时] **
+* [lars](https://cran.r-project.org/web/packages/lars/index.html) - lars: Least Angle Regression, Lasso and Forward Stagewise. **[Deprecated]**
 * [lasso2](https://cran.r-project.org/web/packages/lasso2/index.html) -  lasso2：L1约束估计又名&#39;套索&#39;.
 * [LiblineaR](https://cran.r-project.org/web/packages/LiblineaR/index.html) -  LiblineaR：基于Liblinear C / C ++库的线性预测模型.
 * [LogicReg](https://cran.r-project.org/web/packages/LogicReg/index.html) -  LogicReg：逻辑回归.
@@ -1227,7 +1230,7 @@ be
 <a name="r-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [ggplot2](https://ggplot2.tidyverse.org/) - A data visualization package based on the grammar of graphics.
+* [ggplot2](https://ggplot2.tidyverse.org/) - 基于图形语法的数据可视化包.
 * [tmap](https://cran.r-project.org/web/packages/tmap/vignettes/tmap-getstarted.html) 用静态地图和可视化地理空间数据 [leaflet](https://rstudio.github.io/leaflet/) 用于交互式地图
 * [tm](https://www.rdocumentation.org/packages/tm/) 和 [quanteda](https://quanteda.io/) are the main packages for managing,  analyzing, 和 visualizing textual data.
 * [shiny](https://shiny.rstudio.com/) 是R中真正交互式显示和仪表板的基础.但是，可以实现一些交互性度量 [htmlwidgets](https://www.htmlwidgets.org/) 将javascript库带到R.这些包括， [plotly](https://plot.ly/r/), [dygraphs](http://rstudio.github.io/dygraphs), [highcharter](http://jkunst.com/highcharter/)和其他几个人.

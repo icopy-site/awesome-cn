@@ -214,6 +214,7 @@
 + [Documentation Style Guide](https://web.archive.org/web/20150320233932/http://docs.basho.com/riak/latest/community/style-guide/)
 + [Apple Style Guide](https://help.apple.com/asg/mac/2013/)
 + [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html)
++ [Google Developer Documentation Style Guide](https://developers.google.com/style/)
 
 ## Contributing
 

@@ -332,6 +332,7 @@ Installers
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
+  - [RIO](https://rio.io/) - 基于Kubernetes的MicroPaaS
   - [teresa](https://github.com/luizalabs/teresa) - 在Kubernetes之上运行的简单PAAS.
   - [WSO2](http://wso2.com)
   - [Z.A.R.V.I.S.](https://zarvis.ai) - 免费将Github项目部署到托管Kubernetes

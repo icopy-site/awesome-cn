@@ -236,7 +236,7 @@
 * [LibTomCrypt](https://github.com/libtom/libtomcrypt)   - 一个相当全面的模块化和便携式加密工具包.  [WTFPL]
 * [mbedTLS](https://github.com/ARMmbed/mbedtls)   - 开源，可移植，易于使用，可读且灵活的SSL库，以前称为PolarSSL.  [Apache2的] [website](https://tls.mbed.org/)
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/)   - 低级加密库.  [LGPL]
-* [OpenSSL](https://github.com/openssl/openssl)   - 功能强大的商业级全功能开源加密库.  [阿帕奇] [website](http://www.openssl.org/)
+* [OpenSSL](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
 * [retter](https://github.com/MaciejCzyzewski/retter) - 与加密相关的哈希函数，密码，工具，库和材料的集合.
 * [s2n](https://github.com/awslabs/s2n)   -  TLS / SSL协议的实现.  [阿帕奇]
 * [sha1collisiondetection](https://github.com/cr-marcstevens/sha1collisiondetection)   - 库和命令行工具，用于检测文件中的SHA-1冲突.  [MIT]
@@ -391,7 +391,7 @@
 * [Ogre 3D](http://www.ogre3d.org/)  ：zap： - 一个用C ++编写的面向场景，实时，灵活的3D渲染引擎（与游戏引擎相对）.  [MIT]
 * [OpenSceneGraph](http://www.openscenegraph.org/)   - 开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)   -  Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改Apache2]
-* [OpenVDB](http://www.openvdb.org/) - Library and tools for storing, editing, and rendering volumetric datasets. [MPL2]
+* [OpenVDB](http://www.openvdb.org/)   - 用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
 * [Panda3D](http://www.panda3d.org/)   - 用于Python和C ++的3D渲染和游戏开发的框架.  [BSD]
 * [Partio](https://github.com/wdas/partio)   - 用于争论粒子数据的库，支持大多数常见文件格式.  [改良BSD]
 * [Skia](https://github.com/google/skia)   - 用于绘制文本，几何图形和图像的完整2D图形库.  [BSD] [webpage](https://sites.google.com/site/skiadocs/home)
@@ -593,6 +593,7 @@
 * [evpp](https://github.com/Qihoo360/evpp)   - 使用TCP / UDP / HTTP协议的C ++高性能网络.  [BSD]
 * [H2O](https://github.com/h2o/h2o)   - 优化的HTTP服务器，支持HTTP / 1.x和HTTP / 2.  它也可以用作库.  [MIT]
 * [HTTP Parser](https://github.com/nodejs/http-parser) ：zap： -  C的http请求/响应解析器.[MIT]
+* [KCP](https://github.com/skywind3000/kcp/blob/master/README.en.md)   - 快速可靠的ARQ协议，可帮助应用程序减少网络延迟.  [MIT]
 * [libcurl](http://curl.haxx.se/libcurl/)   - 多协议文件传输库.  [MIT / X衍生牌照]
 * [libhttpserver](https://github.com/etr/libhttpserver)   - 用于创建嵌入式Rest HTTP服务器的C ++库（以及更多）.  [LGPL2.1]
 * [Libmicrohttpd](http://www.gnu.org/software/libmicrohttpd/)   -  GNU libmicrohttpd是一个小型的C库，它可以让你轻松地将HTTP服务器作为另一个应用程序的一部分运行.  [LGPL v2.1 +]

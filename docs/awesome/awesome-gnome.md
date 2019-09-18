@@ -52,6 +52,7 @@
 - [Foliate](https://github.com/johnfactotum/foliate) - 简单而现代的GTK电子书阅读器
 - [Showdown](https://github.com/craigbarnes/showdown) - 简单的降价阅读器.
 - [Pdftag](https://github.com/arrufat/pdftag) -  PDF的简单元数据编辑器
+- [PDF Slicer](https://junrrein.github.io/pdfslicer/) - 提取，合并，旋转和重新排序PDF文档页面的简单应用程序.
 
 ### Multimedia
 
@@ -65,6 +66,7 @@
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) - Provides limiter, compressor, reverberation, equalizer and auto volume effects for PulseAudio applications.
 - [Curlew](https://curlew.sourceforge.io/) - 用于Linux的多媒体转换器
 - [Cozy](https://github.com/geigi/cozy) - 适用于Linux的有声读物播放器
+- [Pitivi](http://www.pitivi.org/) - 美观强大的视频编辑器.
 
 ### Graphics
 
@@ -159,7 +161,7 @@
 
 ## Themes
 
-- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配它们的终端颜色方案.
+- [Oomox](https://github.com/themix-project/oomox) - 生成Numix和Materia主题（GTK2，GTK3），Gnome-Colors和Archdroid图标的不同颜色变化，以及匹配终端颜色方案.
 
 ### Adwaita-based
 

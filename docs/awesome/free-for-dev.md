@@ -126,7 +126,7 @@
   * [Discord](https://discordapp.com/)   - 与公共/私人客房和VoIP服务聊天.  免费为无限用户.
   * [hangouts.google.com](https://hangouts.google.com/) - 所有会话的一个地方，免费，需要一个Google帐户
   * [seafile.com](https://www.seafile.com/)   - 私人或云存储，文件共享，同步，讨论.  私人版本已满.  云版仅有1 GB
-  * [yammer.com](https://www.yammer.com/) — Private social network standalone or for MS Office 365. Free with a bit less admin tools and users management features
+  * [yammer.com](https://www.yammer.com/) - 独立的私人社交网络或MS Office 365.免费提供更少的管理工具和用户管理功能
   * [helpmonks.com](https://helpmonks.com/) - 团队共享收件箱，开源和非营利组织免费
   * [typetalk.com](https://www.typetalk.com/) - 通过网络或移动设备上的即时消息与您的团队分享和讨论想法
   * [talky.io](https://talky.io/)   - 免费群聊视频.  匿名.  点对点.  无需插件，注册或付款
@@ -276,7 +276,7 @@
   * [ghostinspector.com](https://ghostinspector.com/)   - 免费网站和Web应用程序监控.  单个用户，每月100次测试
   * [sematext.com](https://sematext.com/) -  24小时免费指标，无限数量的服务器，10个自定义指标，500,000个自定义指标数据点，无限制的仪表板，用户等
   * [stathat.com](https://www.stathat.com/) - 免费开始10个统计数据，没有过期
-  * [skylight.io](https://www.skylight.io/) — Free for first 100,000 requests (Rails only)
+  * [skylight.io](https://www.skylight.io/) - 免费获得前100,000个请求（仅限Rails）
   * [appdynamics.com](https://www.appdynamics.com/) -  24小时免费指标，应用程序性能管理代理仅限于一个Java，一个.NET，一个PHP和一个Node.js
   * [deadmanssnitch.com](https://deadmanssnitch.com/)   - 监控cron工作.  1个免费窃听（监视器），如果您推荐其他人注册，则更多
   * [librato.com](https://www.librato.com/) - 以60秒的分辨率免费提供100个指标
@@ -355,7 +355,7 @@
   * [netdepot.com](https://www.netdepot.com/cdn/) - 首个100 GB免费/月
   * [speeder.io](https://speeder.io/)   - 使用KeyCDN.  自动图像优化和免费CDN提升.  免费，不需要任何服务器更改
   * [jare.io](http://www.jare.io)   - 用于图像的CDN.  使用AWS CloudFront
-  * [unpkg.com](https://unpkg.com/) - 关于npm的所有内容的CDN
+  * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
   * [staticaly.com](https://staticaly.com/) -  Git repos的CDN（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
   * [bitmitigate.com](https://bitmitigate.com/website-suite.html) - 免费CDN，DDoS保护和SSL证书
   * [ddos-guard.net](https://ddos-guard.net/store/web) - 免费CDN，DDoS保护和SSL证书 
@@ -418,7 +418,7 @@
   * [readthedocs.org](https://readthedocs.org/) - 免费文档托管与版本控制，PDF生成等
   * [bubble.is](https://bubble.is/) - 可视化编程，无需代码即可构建Web和移动应用程序，每月可免费访问100个访问者，2个应用程
   * [contentful.com](https://www.contentful.com/)   - 内容即服务.  云中的内容管理和交付API.  每月3个用户，3个存储库和100,000个API请求免费
-  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，只有170多个可用的主要预定义块，没有字体，没有favicon和没有自定义域
+  * [tilda.cc](https://tilda.cc/) - 一个站点，50个页面，50 MB存储空间，仅有170多个可用的主要预定义块，没有字体，没有favicon，也没有自定义域
   * [surge.sh](https://surge.sh/)   - 前端开发人员的静态Web发布.  具有自定义域支持的无限网站
   * [neocities.org](https://neocities.org) - 静态，1 GB免费存储，200 GB带宽.
   * [txti.es](http://txti.es/) - 使用降价快速创建网页.
@@ -504,7 +504,7 @@
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
    * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
-   * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
+   * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
@@ -553,7 +553,7 @@
   * [clevebrush.com](https://www.cleverbrush.com/) - 免费图形设计/照片拼贴应用程序，它们也提供它作为组件的付费集成
   * [walkme.com](https://www.walkme.com/) - 企业级指导和参与平台，免费计划3步行 - 最多5步/步行
   * [marvelapp.com](https://marvelapp.com/) - 设计，原型设计和协作，3个项目免费限制
-  * [Zeplin](https://zeplin.io/) — Designer and developer collaboration platform. Show designs, assets and styleguides. Free for 1 project.
+  * [Zeplin](https://zeplin.io/)   - 设计师和开发人员协作平台.  展示设计，资产和风格.  1个项目免费.
   * [figma.com](https://www.figma.com)   - 团队的在线协作设计工具;  免费套餐包括无限的文件和观众，最多2个编辑和3个项目
   * [designer.io](https://www.designer.io/)   - 用于UI，插图等的设计工具.  有本机应用程序.  自由
   * [photopea.com](https://www.photopea.com) - 免费的高级在线设计编辑器，Adobe Photoshop UI支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
@@ -563,10 +563,10 @@
 
    * [opencagedata.com](https://opencagedata.com)   - 聚合OpenStreetMap和其他开放地理源的地理编码API.  每天2,500次免费查询
    * [graphhopper.com](https://www.graphhopper.com/) 为开发人员提供免费套餐，用于路由，路由优化，距离矩阵，地理编码，地图匹配.
-   * [datamaps.co](https://datamaps.co/) - 使用数据映射创建可视化的免费平台
+   * [datamaps.world](https://datamaps.world/) - 简单而强大的平台，为您提供工具，通过免费套餐可视化您的地理空间数据.
    * [geocod.io](https://www.geocod.io/)   - 通过API或CSV上传进行地理编码.  每天2,500次免费查询
    * [gogeo.io](https://gogeo.io/) - 具有易于使用的API和大数据支持的地图和地理空间服务
-   * [carto.com](https://carto.com/) — Create maps and geospatial APIs from your data and public data
+   * [carto.com](https://carto.com/) - 从您的数据和公共数据创建地图和地理空间API
    * [giscloud.com](https://www.giscloud.com/) - 在线可视化，分析和共享地理数据
    * [mapbox.com](https://www.mapbox.com/) - 用于显示地图数据的地图，地理空间服务和SDK
    * [osmnames](https://osmnames.org/) - 地理编码，搜索结果按相关维基百科页面的流行度排名
@@ -598,14 +598,14 @@
    * [cacher.io](https://www.cacher.io) - 代码片段管理器，带有100多种编程语言的标签和支持
    * [Coder](https://coder.com)   - 为您提供围绕Visual Studio Code构建的完整开发环境的平台.  在免费套餐中，您将获得2GB的项目和2 GB的容器空间以及5小时的快速时间，如果启用，则可以动态扩展容器.
    * [gitpod.io](https://www.gitpod.io)   -  GitHub项目的即时，可随时编码的开发环境.  免费开源.
-   * [Katacoda](https://katacoda.com) - 为软件工程师提供互动学习和培训平台，帮助开发人员学习和提高公司的采
+   * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
 
 ## Analytics, Events and Statistics
 
    * [analytics.google.com](https://analytics.google.com/) - 谷歌分析
    * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) - 免费热图工具，以了解UI / UX.
    * [heap.io](https://heap.io)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
-   * [sematext.com](https://sematext.com/cloud/) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
+   * [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc
    * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限测试
    * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序

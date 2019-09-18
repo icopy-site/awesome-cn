@@ -114,6 +114,7 @@ _Operating Systems和Linux发行版._
 - [Parrot](https://www.patreon.com/parrot) - 与安全相关的Debian发行版. 
 - [Redox OS](https://www.patreon.com/redox_os) - 用Rust编写的操作系统.
 - [Serenity OS](https://www.patreon.com/serenityos) - 用于x86的图形化Unix操作系统，具有90年代的美学效果.
+- [Slackware Linux](https://www.patreon.com/slackwarelinux) -  Linux发行版.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -  Ubuntu变种. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) - 触控友好的Ubuntu移动版.
 
@@ -169,6 +170,7 @@ _Developers为多个项目做出贡献，要求支持他们的工作._
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) -  Sony DualShock控制器和其他的Windows驱动程序. 
 - [Nils Maier](https://www.patreon.com/nmaier)   - 全部下载！  Firefox和Chrome扩展程序.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -  Debian打包器.
+- [Pablo Dobarro](https://www.patreon.com/pablodp606) -  Blender的雕刻改进.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -  Objective-See的所有者，各种macOS安全工具和文章.
 - [Philip Guo](https://www.patreon.com/pgbovine) -  Python Tutor和pgbovine.net（文章/播客/视频博客）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) - 各种Rust库.
