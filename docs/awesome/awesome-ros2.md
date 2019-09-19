@@ -33,7 +33,7 @@
 
 ### Containerization
 
-- [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - 用于构建ROS2 + OpenSplice CE容器的dockerfile. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
+- [docker-ros2-ospl-ce](https://github.com/Adlink-ROS/docker-ros2-ospl-ce) - A dockerfile to build a ROS2 + OpenSplice CE container. ![docker-ros2-ospl-ce](https://img.shields.io/github/stars/Adlink-ROS/docker-ros2-ospl-ce.svg)
 - [ros2_java_docker](https://github.com/esteve/ros2_java_docker) - 用于使用OpenJDK和Android构建ros2_java的Dockerfiles. ![ros2_java_docker](https://img.shields.io/github/stars/esteve/ros2_java_docker.svg)
 - [micro-ROS/docker](https://github.com/micro-ROS/docker) - 与Docker相关的材料，用于设置，配置和开发微型ROS硬件.
 
@@ -43,7 +43,7 @@
 - [rviz](https://github.com/ros2/rviz) -  3D Robot Visualizer. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
 - [urdfdom](https://github.com/ros2/urdfdom) -  URDF（U-Robot描述格式）库，提供核心数据结构和简单的XML解析器 ![urdfdom](https://img.shields.io/github/stars/ros2/urdfdom.svg)
 - [urdfdom_headers](https://github.com/ros2/urdfdom_headers) -  URDF解析器的标头. ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg)
-- [ros2cli](https://github.com/ros2/ros2cli) -  ROS 2命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
+- [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) -  Orocos运动学和动力学C ++库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) - 适用于Vortex Lite和OpenSplice的简单DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
 
@@ -185,7 +185,7 @@
 ## Operating systems
 
 - [NuttX](https://github.com/micro-ROS/NuttX) -  NuttX正式用于微型ROS的叉子.
-- [RIOT](https://github.com/RIOT-OS/RIOT) -  RIOT是一种实时多线程操作系统（......）实时功能，占用内存小，（......）API提供部分POSIX兼容性.
+- [RIOT](https://github.com/RIOT-OS/RIOT) -  RIOT是一种实时多线程操作系统（......）实时功能，占用内存小，（...）API提供部分POSIX兼容性.
 - [eMCOS](https://www.esol.com/embedded/emcos.html) - 适用于多核处理器的POSIX兼容实时操作系统，有望在未来支持AUTOSAR.
 
 ## Forks
@@ -239,7 +239,7 @@
 
 ### ROSCon JP 2018 (english slide presentations only)
 
-- What's next for ROS? (from slide 24 onwards) [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
+  -  ROS的下一步是什么？  （从幻灯片24开始） [Slides](https://roscon.jp/2018/presentations/ROSCon_JP_2018_presentation_2.pdf) [Video](https://vimeo.com/292064161)
 
 ### ROSCon 2018
 
@@ -249,7 +249,7 @@
 - 自动驾驶车辆上的ROS 2
 -  RViz  - 迁移到ROS 2.0的故事
 - 推出ROS 2
-- Getting involved in ROS 2 development
+- 参与ROS 2开发
 - 计划规划：插件一路走下去
 - 利用ROS2中的DDS安全性
 -  Arm DDS安全库：为ROS2增加安全保障
@@ -324,6 +324,16 @@ DDS安全.
 - [RCTF playground](https://rctf.aliasrobotics.com/) - 在线游乐场，从您的浏览器挑战机器人安全.
 - [rctf-list](https://github.com/aliasrobotics/RCTF) -  Robotics CTF（RCTF）场景列表.
 - [Robot Bug Bounty Programs (RBBP)](https://www.aliasrobotics.com/bounties.htm) - 报告漏洞或漏洞并由顶级机器人公司获得报酬.
+
+## Companies
+
+- [Acutronic Robotics](https://github.com/AcutronicRobotics)   - 不再存在了.  硬件机器人信息模型（HRIM），硬件机器人操作系统（H-ROS）的发起者和世界上第一个模块化工业机器人手臂MARA的创造者.
+- [ADLINK](https://www.adlinktech.com/en/index.aspx) - “领先的EDGE计算”.
+- [Alias Robotics](https://aliasrobotics.com/) - 机器人网络安全背景下的产品和服务.
+- [Amazon](https://github.com/aws-robotics) - 亚马逊亚马逊网络服务（AWS）的机器人团队.
+- [Bosch](https://github.com/boschresearch) - 博世研究机器人团队.
+- [Canonical](https://canonical.com/) -  Ubuntu背后的公司.
+- [Eprosima](https://www.eprosima.com/) - “中间件专家”.
 
 ## License
 

@@ -1,7 +1,7 @@
 <div class="github-widget" data-repo="craftcms/awesome"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 <div align="center">
-  <img width="400" src="https://cdn.rawgit.com/chasegiunta/awesome-craft/master/awesome-craft.svg" alt="Awesome Craft CMS">
+  <img width="400" src="https://raw.githubusercontent.com/craftcms/awesome/master/awesome-craft.svg?sanitize=true" alt="Awesome Craft CMS">
   <br><br>
 </div>
 
@@ -389,7 +389,7 @@
 - [Intel: Managed Service Providers](http://msp.intel.com)
 - [Klipsch](http://www.klipsch.com)
 - [LA Marathon](http://lamarathon.com)
-- [Layer Tennis](http://www.layertennis.com) - 一个 [Coudal Partners](http://coudal.com/) 生产赞助商 [Adobe](https://www.adobe.com/).
+- [Layer Tennis](http://www.layertennis.com) - 一种 [Coudal Partners](http://coudal.com/) 生产赞助商 [Adobe](https://www.adobe.com/).
 - [Medialoot](https://medialoot.com)
 - [Mini: Miles Ahead](http://www.bemilesahead.net/)
 - [Mixmag Media](http://mixmag.net)

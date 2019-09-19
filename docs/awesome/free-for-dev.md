@@ -38,7 +38,7 @@
     * Amazon Lambda  - 每月100万次请求
     *亚马逊SNS  - 每月发布100万
     * Amazon Cloudwatch  -  10个自定义指标和10个警报
-    * Amazon Glacier  -  10GB长期对象存储
+    * Amazon Glacier - 10GB long-term object storage
     * Amazon SQS  -  100万个消息队列请求
     * Amazon CodeBuild  - 每月100分钟的构建时间
     *亚马逊代码提交 - 每月5个活跃用户
@@ -54,7 +54,7 @@
     * Azure DevOps  -  5个活跃用户
     * Microsoft IoT Hub  - 每天8,000条消息
     *负载均衡器 -  1个免费公共负载均衡IP（VIP）
-    *通知中心 -  100万推送通知
+    * Notification Hubs - 1 million push notifications
     *带宽 - 每月5GB出口
     * Visual Studio代码
     *完整，详细的清单 -  https://azure.microsoft.com/en-us/free/
@@ -104,6 +104,7 @@
   * [IPList](https://www.iplist.cc)   - 查找有关任何IP地址的详细信息，例如地理IP信息，地址，主机名和ASN详细信息.  个人和企业用户免费.
   * [IPTrace](https://iptrace.io) - 一个令人尴尬的简单API，为您的企业提供可靠和有用的IP地理位置数据.
   * [Clarifai](https://www.clarifai.com)   - 用于自定义面部识别和检测的图像API.  能够训练AI模型.  免费计划每月有5000个电话.
+  * [Releaseflags](https://releaseflags.com)   - 功能标志应该以低成本为每个开发人员提供.  Releaseflags为单个开发人员提供免费发布标志，为初创公司提供低成本计划.
 
 
 
@@ -137,7 +138,7 @@
   * [ideascale.com](https://ideascale.com/) - 允许客户在1个社区中免费为25名成员提交想法和投票
   * [wistia.com](https://wistia.com/) - 视频托管与查看器分析，高清视频传输和营销工具，以帮助了解您的访客，25视频和Wistia品牌播放器
   * [flock.com](https://flock.com)   - 团队沟通的更快捷方式.  免费无限消息，频道，用户，应用和集成
-  * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
+  * [Igloo](https://www.igloosoftware.com/) - 用于共享文档，博客和日历等的内部门户.最多可供10位用户免费使用.
   * [riot.im](https://about.riot.im/)   - 基于Matrix构建的分散式通信工具.  群聊，直接消息传递，加密文件传输，语音和视频聊天，以及与其他服务的轻松集成.
   * [Microsoft Teams](https://products.office.com/microsoft-teams/free)   -  Microsoft Teams是一个基于聊天的数字中心，通过一次体验将对话，内容和应用集中在一个地方.  最多可容纳300名用户.
 
@@ -157,7 +158,7 @@
   * [scan.coverity.com](https://scan.coverity.com/) — Static code analysis for Java, C/C++, C# and JavaScript, free for Open Source
   * [webceo.com](https://www.webceo.com/) - 搜索引擎优化工具，但也有代码验证和不同类型的建议
   * [zoompf.com](https://zoompf.com/) - 修复网站的性能，详细分析
-  * [gtmetrix.com](https://gtmetrix.com/) - 优化网站的报告和全面建议
+  * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [browserling.com](https://www.browserling.com/) - 实时交互式跨浏览器测试，在Vista下以1024 x 768分辨率在MS IE 9上免费使用3分钟
   * [shields.io](https://shields.io) - 开源项目的质量元数据标记
   * [beanstalkapp.com](https://beanstalkapp.com/) - 编写，审查和部署代码的完整工作流程，1个用户的免费帐户和1个100 MB存储库
@@ -209,7 +210,7 @@
   * [pyup.io](https://pyup.io)   - 针对安全漏洞的Monitory Python依赖项并自动更新它们.  免费为一个私人项目，无限制的开源项目.
   * [threatconnect.com](https://threatconnect.com)   - 威胁情报：它专为正在开始了解网络威胁情报的个人研究人员，分析师和组织而设计.  最多可免费使用3个用户
   * [crypteron.com](https://www.crypteron.com/) - 云优先，开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
-  * [snyk.io](https://snyk.io) -  Snyk发现并报告了包中的几个漏洞.限制为1个私有项目（开源项目无限制）
+  * [snyk.io](https://snyk.io) — Snyk found and reported several vulnerabilities in the package.Limited to 1 private project (unlimited for open source projects)
   * [letsencrypt.org](https://letsencrypt.org/) - 所有主流浏览器都信任的证书的免费SSL证书颁发机构
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) - 开源免费SSL证书
   * [Okta](https://developer.okta.com/)   - 用户管理，身份验证和授权.  最多可免费提供1000个月活跃用户.
@@ -223,7 +224,7 @@
   * [ponycheckup.com](https://www.ponycheckup.com/) -  Django网站的自动安全检查工具
   * [foxpass.com](https://www.foxpass.com/)   - 托管LDAP和RADIUS.  轻松按用户登录服务器，VPN和无线网络.  10位用户免费
   * [opswat.com](https://www.opswat.com/) - 安全监控计算机，设备，应用程序，配置，......免费25位用户和30天的历史记录
-  * [bitninja.io](https://bitninja.io/) — Botnet protection through a blacklist, free plan only reports limited information on each attack
+  * [bitninja.io](https://bitninja.io/) - 通过黑名单保护僵尸网络，免费计划仅报告每次攻击的有限信息
   * [onelogin.com](https://www.onelogin.com/) - 身份即服务（IDaaS），单点登录身份提供商，云SSO IdP，3个公司应用和5个个人应用，无限用户
   * [logintc.com](https://www.logintc.com/) - 推送通知的双因素身份验证（2FA），10个用户免费，VPN，网站和SSH
   * [report-uri.io](https://report-uri.io/) -  CSP和HPKP违规报告
@@ -282,7 +283,7 @@
   * [librato.com](https://www.librato.com/) - 以60秒的分辨率免费提供100个指标
   * [freeboard.io](https://freeboard.io/)   - 免费公共项目.  您的物联网（IoT）项目的仪表板
   * [loader.io](https://loader.io/) - 具有限制的免费负载测试工具
-  * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) - 性能监控API，检查Ping，DNS等
+  * [speedchecker.xyz](https://probeapi.speedchecker.xyz/) — Performance Monitoring API, checks Ping, DNS, etc
   * [blackfire.io](https://blackfire.io/)   -  Blackfire是SaaS提供的应用程序性能解决方案.  免费黑客计划（仅限PHP）
   * [apimetrics.io](https://apimetrics.io/)   - 自动API性能监控，测试和分析.  免费计划，手动进行API调用并从其West Coast服务器运行
   * [opsdash.com](https://www.opsdash.com/) - 自助服务器，集群和服务监控，5台服务器和5项服务免费
@@ -314,7 +315,7 @@
   * [sparkpost.com](https://www.sparkpost.com/) - 每月免费发送15,000封电子邮件
   * [mailgun.com](https://www.mailgun.com/) - 每月免费发送10,000封电子邮件
   * [tinyletter.com](https://tinyletter.com/) - 每月5,000名订阅者免费
-  * [mailchimp.com](https://mailchimp.com/) - 每月2,000个订阅者和12,000封电子邮件
+  * [mailchimp.com](https://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) - 每天100封电子邮件和2,000个免费联系人
   * [phplist.com](https://phplist.com/) - 托管版本允许每月300封电子邮件免费
   * [MailerLite.com](https://www.mailerlite.com) - 每月1,000个订阅者，无限制电子邮件
@@ -355,7 +356,7 @@
   * [netdepot.com](https://www.netdepot.com/cdn/) - 首个100 GB免费/月
   * [speeder.io](https://speeder.io/)   - 使用KeyCDN.  自动图像优化和免费CDN提升.  免费，不需要任何服务器更改
   * [jare.io](http://www.jare.io)   - 用于图像的CDN.  使用AWS CloudFront
-  * [unpkg.com](https://unpkg.com/) — CDN for everything on npm
+  * [unpkg.com](https://unpkg.com/) - 关于npm的所有内容的CDN
   * [staticaly.com](https://staticaly.com/) -  Git repos的CDN（GitHub，GitLab，Bitbucket），与WordPress相关的资产和图像
   * [bitmitigate.com](https://bitmitigate.com/website-suite.html) - 免费CDN，DDoS保护和SSL证书
   * [ddos-guard.net](https://ddos-guard.net/store/web) - 免费CDN，DDoS保护和SSL证书 
@@ -394,7 +395,7 @@
   * [getstream.io](https://getstream.io/) - 在几个小时而不是几周内构建可扩展的新闻源和活动流，每月300万次Feed更新免费
   * [tyk.io](https://tyk.io/)   - 具有身份验证，配额，监控和分析的API管理.  免费云产品
   * [iron.io](https://www.iron.io/) - 具有免费套餐和1个月免费试用的异步任务处理（如AWS Lambda）
-  * [nstack.com](https://nstack.com/) — Async task processing (like AWS Lambda). 10 free private services and unlimited free public services
+  * [nstack.com](https://nstack.com/)   - 异步任务处理（如AWS Lambda）.  10个免费私人服务和无限制的免费公共服务
   * [pubnub.com](https://www.pubnub.com/) - 每月最多100万条消息的免费推送通知和每日100个活动设备
   * [pushtechnology.com](https://www.pushtechnology.com/)   - 浏览器，智能手机和每个人的实时消息传递.  100个并发连接.  每月免费10 GB数据
   * [zapier.com](https://zapier.com/)   - 连接您使用的应用程序，以自动执行任务.  5次，每15分钟100次，每月100次
@@ -455,6 +456,7 @@
 ## IaaS
 
   * [backblaze.com](https://www.backblaze.com/b2/)   -  Backblaze B2云存储.  免费10 GB（类似Amazon S3）对象存储，无限时间
+  * [www.terraform.io](https://www.terraform.io/)   -  Terraform Cloud.  为最多5个用户的团队提供免费的远程状态管理和团队协作.
 
 ## DBaaS
 
@@ -463,6 +465,7 @@
    * [redsmin.com](https://www.redsmin.com/) -  Redis的在线实时监控和管理服务，1 Redis实例免费
    * [graphstory.com](https://graphstory.com/) -  GraphStory提供Neo4j（图形数据库）作为服务
    * [elephantsql.com](https://www.elephantsql.com/) -  PostgreSQL即服务，20 MB免费
+   * [heroku.com](https://www.heroku.com/) -  PostgreSQL作为服务，最多10,000行和20个免费连接（作为“插件”提供，但可以附加到其他空的应用程序并从外部访问）
    * [graphenedb.com](https://www.graphenedb.com/) -  Neo4j即服务，最多1,000个节点和10,000个免费关系
    * [MongoDB Atlas](https://www.mongodb.com/cloud/atlas) - 免费套餐给出512 MB
    * [scalingo.com](https://scalingo.com/) - 主要是PaaS，但提供512 MB免费的MySQL，PostgreSQL或MongoDB层
@@ -504,7 +507,7 @@
    * [cacoo.com](https://cacoo.com/)   - 实时在线图表：流程图，UML，网络.  最多免费  15个用户/图表，25张
    * [draw.io](https://www.draw.io/)   - 存储在本地，Google云端硬盘，OneDrive或Dropbox中的在线图表.  免费提供所有功能和存储级别
    * [Azure DevOps](https://azure.microsoft.com/services/devops/)   - 无限制的免费私人代码库;  跟踪错误，工作项目，反馈等
-   * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
+   * [testlio.com](https://testlio.com/)   - 问题跟踪，测试管理和beta测试平台.  免费供私人使用
    * [vivifyscrum.com](https://www.vivifyscrum.com/)   - 敏捷项目管理的免费工具.  Scrum兼容
    * [targetprocess.com](https://www.targetprocess.com/)   - 视觉项目管理，从看板和Scrum到几乎任何操作过程.  免费无限制用户，最多1,000个数据实体{[more details](https://www.targetprocess.com/pricing/)}
    * [taskulu.com](https://taskulu.com/)   - 基于角色的项目管理.  最多可免费使用5个用户.  与GitHub / Trello / Dropbox / Google Drive集成
@@ -538,7 +541,7 @@
    * [otixo.com](https://www.otixo.com/)   - 从一个地方加密，共享，复制和移动所有云存储文件.  基本计划提供最大250 MB的无限文件传输.  文件大小，允许5个加密文件
    * [tinypng.com](https://tinypng.com/) - 压缩和调整PNG和JPEG图像的API，每月免费提供500次压缩
    * [filestack.com](https://www.filestack.com/) - 文件选择器，转换和交付，250个文件，500个转换和3 GB带宽免费
-   * [packagecloud.io](https://packagecloud.io/)   -  YUM，APT，RubyGem和PyPI的托管软件包存储库.  有限的免费计划，可根据要求提供开源计划
+   * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://www.image-charts.com/) - 使用水印生成无限制的图像图表
    * [jsonbin.io](https://jsonbin.io/) - 免费的JSON数据存储服务，适用于小型网络应用程序，网站，移动应用程序.
 
@@ -599,13 +602,14 @@
    * [Coder](https://coder.com)   - 为您提供围绕Visual Studio Code构建的完整开发环境的平台.  在免费套餐中，您将获得2GB的项目和2 GB的容器空间以及5小时的快速时间，如果启用，则可以动态扩展容器.
    * [gitpod.io](https://www.gitpod.io)   -  GitHub项目的即时，可随时编码的开发环境.  免费开源.
    * [Katacoda](https://katacoda.com) — Interactive learning and training platform for software engineers helping developers learn and companies increase adoption.
+   * [JDoodle](https://www.jdoodle.com) - 针对60多种编程语言的在线编译器和编辑器，以及针对REST API代码的免费计划，每天最多可编写200个学分.
 
 ## Analytics, Events and Statistics
 
    * [analytics.google.com](https://analytics.google.com/) - 谷歌分析
    * [www.heatlyanalytics.com](https://www.heatlyanalytics.com) - 免费热图工具，以了解UI / UX.
    * [heap.io](https://heap.io)   - 自动捕获iOS或Web应用程序中的每个用户操作.  每月最多5,000次访问免费
-   * [sematext.com](https://sematext.com/cloud/) — Free for up to 50 K actions/month, 1 day data retention, unlimited dashboards, users, etc
+   * [sematext.com](https://sematext.com/cloud/) - 每月最多50 K行动，1天数据保留，无限制仪表板，用户等免费
    * [usabilityhub.com](https://usabilityhub.com/)   - 测试真实人物的设计和模型，跟踪访客.  免费为一个用户，无限测试
    * [mixpanel.com](https://mixpanel.com/) - 在您的网站上免费获得25,000点或200,000点徽章
    * [amplitude.com](https://amplitude.com/) - 每月100万个活动，最多2个应用程序
@@ -644,10 +648,11 @@
   * [canister.io](https://canister.io/) - 为开发人员提供20个免费私有存储库，30个免费私有存储库，供团队构建和存储Docker镜像
   * [Whales](https://github.com/Gueils/whales) - 免费自动停靠应用程序的工具.
   * [PWD](https://labs.play-with-docker.com/)   - 与Docker一起玩.  学习Docker的简单，互动和有趣的游乐场
-  * [Gitlab](https://gitlab.com) - Per-repo container registry.  10GB limit.
+  * [Gitlab](https://gitlab.com)   -  Per-repo容器注册表.  10GB限制.
 
 ## Vagrant Related
 
+  * [app.vagrantup.com](https://app.vagrantup.com)   -  HashiCorp Vagrant Cloud.  流浪者盒子托管.
   * [vagrantbox.es](https://www.vagrantbox.es/) - 另一种公共框索引
 
 ## Miscellaneous

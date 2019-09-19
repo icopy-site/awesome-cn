@@ -118,6 +118,7 @@
 * [Asad's Blog](https://chembioinfo.com/) -  Syed Asad Rahman的Bolg，他是一名研究科学家 [Thornton group](http://www.ebi.ac.uk/research/thornton) 在EMBL-EBI.
 * [steeveslab-blog](http://asteeves.github.io/) - 使用的一些例子 [RDKit](http://www.rdkit.org/).
 * [Macs in Chemistry](http://www.macinchem.org/) - 为使用Apple Macintosh计算机的化学家提供资源.
+* [DrugDiscovery.NET](http://www.drugdiscovery.net/) - 博客 [Andreas Bender](http://www.andreasbender.de/)，谁是剑桥大学分子信息学的读者.
 
 ### Books
 

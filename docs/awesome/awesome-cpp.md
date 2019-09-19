@@ -229,7 +229,6 @@
 * [GnuPG](https://www.gnupg.org/)   - 完整且免费的OpenPGP标准实施.  [GPL]
 * [GnuTLS](http://www.gnutls.org/)   - 实现SSL，TLS和DTLS协议的安全通信库.  [LGPL2.1]
 * [Libgcrypt](http://www.gnu.org/software/libgcrypt/)   - 最初基于GnuPG代码的通用加密库.  [LGPLv2.1 +]
-* [libhydrogen](https://github.com/jedisct1/libhydrogen)   - 适用于受限环境的轻量级，安全且易于使用的加密库.  [ISC]
 * [LibreSSL](http://www.libressl.org/) -  2014年从OpenSSL分发的免费版SSL / TLS协议.[？]
 * [libsodium](https://github.com/jedisct1/libsodium)   -  P（ortable | ackageable）基于NaCl的加密库，自以为是，易于使用.  [ISC]
 * [libhydrogen](https://github.com/jedisct1/libhydrogen)   - 轻便，安全，易于使用的加密库，适用于受限环境.  [ISC]

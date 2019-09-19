@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 很棒的kubernetes现在很快将以不同的版本和包捆绑的形式提供，这意味着你可以
- 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015包.  查看发布列以获取更多信息.
+ 下载令人敬畏的kubernetes发布到一段时间，发布了令人敬畏的kubernetes 2015捆绑包.  查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -291,7 +291,7 @@ Installers
   - [Garden](https://garden.io) - 协调您的开发工作流程，以便更快，更轻松地开发微服务.
   - [goPaddle](http://www.gopaddle.io)
   - [Knative](https://github.com/knative/) - 构建，部署和管理现代无服务器工作负载的平台
-  - [Okteto](https://github.com/okteto/okteto) - Develop directly in any Kubernetes cluster. No commit, build or push required.
+  - [Okteto](https://github.com/okteto/okteto)   - 直接在任何Kubernetes集群中开发.  不需要提交，构建或推送.
   - [Mantl](https://github.com/mantl/mantl)
   - [Spring Cloud integration](https://github.com/fabric8io/spring-cloud-kubernetes)
   - [VAMP](http://vamp.io)
@@ -500,6 +500,7 @@ Projects
 * [Kubebox](https://github.com/astefanutti/kubebox) -  Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -  **不推荐使用的**存储库已存档且只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) - 用于多个K8群集的只读系统仪表板
+* [K8Dash](https://github.com/herbrandson/k8dash) - Realtime K8S alternative dashboard
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) - 在纯HTML前端列出并查看所有Kubernetes资源（包括CRD）以及永久链接友好的URL
 * [Kubespy](https://github.com/pulumi/kubespy) - 由Pulumi提供实时观察Kubernetes资源的工具.
 * [Kubetail](https://github.com/johanhaleby/kubetail)

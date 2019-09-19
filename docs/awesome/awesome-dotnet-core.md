@@ -195,6 +195,7 @@
 * [Blogifier.Core](https://github.com/blogifierdotnet/Blogifier.Core) -  ASP.NET应用程序提供常见的博客功能.
 * [Cofoundry](https://github.com/cofoundry-cms/cofoundry)   - 开源.NET Core CMS和模块化应用程序框架.  代码优先，不引人注目且可扩展.
 * [CoreWiki](https://github.com/csharpfritz/CoreWiki) - 我们正在实时编码流中处理的简单ASP.NET核心wiki.
+* [dasblog-core](https://github.com/poppastring/dasblog-core) - 使用ASP.NET Core重新构想的原始DasBlog
 * [Miniblog](https://github.com/madskristensen/Miniblog.Core) -  ASP.NET Core博客引擎.
 * [NetCoreCMS](https://github.com/OnnoRokomSoftware/NetCoreCMS)   - 开源ASP.NET Core 2.0 CMS.  它目前支持MySQL并计划实现MSSQL，SQLite和PostgreSQL.  此外，它是一个模块化CMS支持主题，皮肤，自定义布局，小部件，多语言（En，BN）.
 * [Piranha CMS](https://github.com/piranhacms/piranha.core) - 用于ASP.NET核心和实体框架核心的轻量级且不显眼的开源CMS.

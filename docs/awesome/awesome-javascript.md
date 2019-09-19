@@ -108,7 +108,7 @@
 ## MVC Frameworks and Libraries
 
 * [angular.js](https://github.com/angular/angular.js) - 针对网络应用的HTML增强功能.
-* [aurelia](http://aurelia.io) - 适用于移动，桌面和Web的JavaScript客户端框架.
+* [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
 * [backbone](https://github.com/jashkenas/backbone) - 为您的JS应用程序提供模型，视图，集合和事件的一些骨干.
 * [ember.js](https://github.com/emberjs/ember.js) - 用于创建雄心勃勃的Web应用程序的JavaScript框架.
 * [meteor](https://github.com/meteor/meteor) - 一个超简单，数据库无处不在的数据线上纯javascript Web框架.
@@ -248,7 +248,7 @@
 * [Trumbowyg](https://github.com/Alex-D/Trumbowyg) - 轻量级且令人惊叹的WYSIWYG JavaScript编辑器.
 * [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架.
 * [bootstrap-wysihtml5](https://github.com/jhollingworth/bootstrap-wysihtml5) - 简单，美丽的所见即所得编辑器
-* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标记汤和内联样式生成完全有效的HTML5标记.
+* [wysihtml5](https://github.com/xing/wysihtml5)   - 基于HTML5的开源富文本编辑器和渐进增强方法.  使用复杂的安全性概念，旨在通过防止不可维护的标签汤和内联样式来生成完全有效的HTML5标记.
 * [popline](https://github.com/kenshin54/popline) -  Popline是一个HTML5富文本编辑器工具栏.
 
 
@@ -327,7 +327,8 @@
 * [timeago.js](https://github.com/hustcc/timeago.js) - 简单的库（小于2kb）用于使用`*** time ago`语句格式化日期.
 * [fecha](https://github.com/taylorhakes/fecha)   - 轻量级日期格式化和解析（~2KB）.  意味着要取代moment.js的解析和格式化功能.
 * [date-fns](https://github.com/date-fns/date-fns) - 现代JavaScript日期实用程序库.
-* [map-countdown](https://github.com/dawidjaniga/map-countdown) - 基于Google地图构建的浏览器倒计时
+* [map-countdown](https://github.com/dawidjaniga/map-countdown) - 基于Google地图构建的浏览器倒计时.
+* [dayjs](https://github.com/iamkun/dayjs) -  Day.js 2KB不可变日期库替代Moment.js，具有相同的现代API.
 
 ## String
 *字符串库.*
@@ -559,7 +560,7 @@
 * [sly](https://github.com/darsain/sly) - 用于单向滚动的JavaScript库，具有基于项目的导航支持.
 * [vegas](https://github.com/jaysalvat/vegas)   - 一个jQuery插件，可以为您的网页添加漂亮的全屏背景.  它甚至允许幻灯片播放.
 * [Sequence](https://github.com/IanLunn/Sequence) -  CSS动画框架，用于创建响应式滑块，演示文稿，横幅和其他基于步骤的应用程序.
-* [reveal.js](https://github.com/hakimel/reveal.js) - A framework for easily creating beautiful presentations using HTML.
+* [reveal.js](https://github.com/hakimel/reveal.js) - 使用HTML轻松创建精美演示文稿的框架.
 * [impress.js](https://github.com/impress/impress.js) - 这是一个基于现代浏览器中CSS3转换和转换功能的演示框架，并受到prezi.com背后的想法的启发.
 * [bespoke.js](https://github.com/bespokejs/bespoke) -  DIY演示微框架
 * [Strut](https://github.com/tantaman/Strut) -  Strut  - 一个Impress.js和Bespoke.js演示编辑器
@@ -593,7 +594,7 @@
 * [jQuery-Tags-Input](https://github.com/xoxco/jQuery-Tags-Input) - 使用此jQuery插件将一个简单的文本输入神奇地转换为一个很酷的标签列表.
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - 纯JavaScript掩码输入.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio)   - 用于样式复选框和单选按钮的jQuery插件.  有皮肤支持.
-* [awesomplete](https://github.com/LeaVerou/awesomplete)   - 超轻量，可用，美观的自动完成，零依赖.   -  http://leaverou.github.io/awesomplete
+* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - http://leaverou.github.io/awesomplete
 
 ### Calendar
 
@@ -814,7 +815,7 @@
 
 * [echo](https://github.com/toddmotto/echo) - 使用data- *属性加载延迟图像.
 * [picturefill](https://github.com/scottjehl/picturefill) - 用于&lt;picture&gt;，srcset，sizes的响应式图像polyfill.
-* [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
+* [platform.js](https://github.com/bestiejs/platform.js) - 适用于几乎所有JavaScript平台的平台检测库.
 * [json3](https://github.com/bestiejs/json3) - 与几乎所有JavaScript平台兼容的现代JSON实现.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - 关于JavaScript特性的游戏.
 * [BitSet.js](https://github.com/infusion/BitSet.js) -  JavaScript Bit-Vector实现

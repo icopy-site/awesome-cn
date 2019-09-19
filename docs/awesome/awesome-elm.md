@@ -79,6 +79,7 @@
 * [Elm: A Beginners' Guide to Elm and Data](https://www.sitepoint.com/premium/courses/elm-a-beginners-guide-to-elm-and-data-2940) - 初学者到Elm和Data的课程
 * [Practical Elm for a Busy Developer](https://korban.net/elm/book) - 关于开发Elm应用程序的实际方面的非初学者书籍.
 * [Haskell to Elm](https://github.com/eeue56/haskell-to-elm) - 收集有关Elm与Haskell不同的地方的示例，针对来自Haskell背景的榆树初学者.
+* [A nice app on Elm street](https://madewithlove.be/using-elm-with-react-a-nice-app-on-elm-street) - 榆树介绍
 
 ### Outdated Tutorials and books (Elm 0.18 or earlier)
 
@@ -376,7 +377,7 @@
 
 ## Who to follow
 
- *免费关注新的更新.  使用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费关注新的更新.  采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

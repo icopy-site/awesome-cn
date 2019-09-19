@@ -34,6 +34,7 @@
 - [Data Models Will Be Beautiful Again](https://tdwi.org/articles/2016/11/22/data-models-will-be-beautiful-again.aspx) （2016） -  Essay认为，尽管存在无模式数据库，但深思熟虑的数据库建模对于使用算法获取知识和见解非常重要.
 - [Unified Data Modeling for Relational and NoSQL Databases](https://www.infoq.com/articles/unified-data-modeling-for-relational-and-nosql-databases) - 使用统一数据建模技术管理NoSQL和关系数据库的解决方案.
 - [Unifying Relational, Document, Graph, and Temporal Data Models](https://fauna.com/blog/unifying-relational-document-graph-and-temporal-data-models) - 在同一数据库中查询多个范例的模式.
+- [How to Design Schema for Your NoSQL Database?](https://www.dataversity.net/how-to-design-schema-for-your-nosql-database/#) - 尽管人们普遍认为NoSQL是无模式的，但本文概述了NoSQL数据库如何遵循“查询驱动设计”以及对模式中这种灵活性的考虑.
 
 
 ## Trade-Offs in CAP/Brewer's Theorem
@@ -51,7 +52,7 @@
 ## Graph Databases
 
 - [Graph Databases Use Cases](https://neo4j.com/use-cases/) - 尽管面向Neo4j的文档，概念适用于所有图形数据库.
-- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) （32:02） - 了解图形数据库如何成为探索与避税天堂公司相关的主要人物的关键，其中包括50多个国家的140位政治家.
+- [How the ICIJ Used Neo4j to Unravel the Panama Papers - Mar Cabra](https://youtu.be/S20XMQyvANY) （32:02） - 了解图形数据库如何成为探索与避税天堂公司相关的主要人物的关键，包括50多个国家的140位政治家.
 - [Graph Databases for Beginners: The Basics of Data Modeling](https://neo4j.com/blog/data-modeling-basics/) - 讨论数据建模的基础知识以及应采取的方法.
 - [Graph Data Modeling Guidelines](https://neo4j.com/developer/guide-data-modeling/) - 与Neo4j直接相关，但可能适用于任何图形数据库.
 - [Graph Data Modeling Visualize Structure and Meaning](http://www.graphdatamodeling.com) - 图形数据建模简介，是对本书的介绍， ["Graph Data Modeling for NoSQL and SQL"](https://technicspub.com/graph-data-modeling/) 作者：Thomas Frisendal.
