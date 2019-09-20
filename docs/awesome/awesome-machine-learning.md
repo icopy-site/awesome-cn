@@ -24,7 +24,7 @@
 ### Frameworks and Libraries
 <!-- MarkdownTOC depth=4 -->
 
-    - [Microsoft ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet)
+- [Awesome Machine Learning ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-machine-learning-awesomehttpsgithubcomsindresorhusawesome)
 
 ### Tools
 
@@ -107,7 +107,6 @@
 * [skynet](https://github.com/Tyill/skynet) - A library for learning neural network, has C-interface, net set in JSON. Written in C++ with bindings in Python, C++ and C#. 
 * [Feast](https://github.com/gojek/feast)   - 用于管理，发现和访问机器学习功能的功能存储.  盛宴为模型训练和模型服务提供了一致的特征数据视图.
 * [Polyaxon](https://github.com/polyaxon/polyaxon) - 可重复和可扩展的机器学习和深度学习的平台.
-* [Cornac](https://github.com/PreferredAI/cornac) - 多模式推荐系统的比较框架，侧重于利用辅助数据的模型.
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
@@ -309,7 +308,7 @@
 * [ClearTK](https://github.com/ClearTK/cleartk)   -  ClearTK提供了一个用Java开发统计自然语言处理（NLP）组件的框架，它构建在Apache UIMA之上.  ** [已过时] **
 * [Apache cTAKES](https://ctakes.apache.org/) - 阿帕奇临床文本分析和知识提取系统（cTAKES）是一种开源自然语言处理系统，用于从电子病历临床自由文本中提取信息.
 * [NLP4J](https://github.com/emorynlp/nlp4j)   -  NLP4J项目为自然语言处理提供软件和资源.  该项目始于计算机语言和教育研究中心，目前由埃默里大学语言和信息研究中心开发.  ** [已过时] **
-* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的自然语言处理（NLP）的许多核心库，例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
+* [CogcompNLP](https://github.com/CogComp/cogcomp-nlp) - 该项目收集了伊利诺伊大学认知计算组开发的一系列自然语言处理核心库（NLP），例如`illinois-core-utilities`，它提供了一组NLP友好的数据结构和一些与NLP相关的实用程序，支持编写NLP应用程序，运行实验等，`伊利诺伊 - 爱迪生`一个库，用于从伊利诺伊核心实用程序数据结构和许多其他包中提取特征.
 
 <a name="java-general-purpose"></a>
 #### General-Purpose Machine Learning
@@ -455,6 +454,7 @@
 #### Demos and Scripts
 * [The Bot](https://github.com/sta-ger/TheBot) - 神经网络如何学习预测由两个点创建的角度的示例 [Synaptic](https://github.com/cazala/synaptic).
 * [Half Beer](https://github.com/sta-ger/HalfBeer) - 用啤酒杯分类器 [Synaptic](https://github.com/cazala/synaptic).
+* [Rock Paper Scissors](https://rps-tfjs.netlify.com/) - 使用TensorFlow.js在浏览器中训练Rock Paper Scissors
 
 <a name="julia"></a>
 ## Julia
@@ -927,6 +927,7 @@ be
 * [numpy-ML](https://github.com/ddbourgin/numpy-ml)：用numpy编写的ML模型的参考实现
 * [creme](https://github.com/creme-ml/creme)：在线机器学习的框架.
 * [Neuraxle](https://github.com/Neuraxio/Neuraxle)：提供正确抽象的框架，以简化ML管道的研究，开发和部署.
+* [Cornac](https://github.com/PreferredAI/cornac) - 多模式推荐系统的比较框架，侧重于利用辅助数据的模型.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization

@@ -90,7 +90,7 @@
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - 基于node.js和selenium webdriver的UI自动化测试框架.
 * [intern](https://github.com/theintern/intern) - 用于JavaScript的下一代代码测试堆栈.
 * [yolpo](http://www.yolpo.com) - 浏览器中的语句JavaScript解释器.
-
+* [puppeteer](https://github.com/GoogleChrome/puppeteer) - 官方谷歌Chrome团队的无头Chrome Node.js API.
 
 ## QA Tools
 

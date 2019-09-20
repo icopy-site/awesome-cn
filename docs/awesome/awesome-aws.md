@@ -620,7 +620,7 @@ AWS Repos：
 * [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - 用于本地开发和测试无服务器应用程序的CLI工具.
 * [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - 帮助Go开发人员开发Lambda函数的库，示例和工具.
 * [aws-lambda-java-libs :fire::fire:](https://github.com/aws/aws-lambda-java-libs) - 接口定义和帮助程序类的官方镜像.
-* [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) -  Redshift装载机.
+* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) -  Redshift装载机.
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) -  Python无服务器微框架.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - 使用grunt-aws-lambda插件来帮助您开发和测试.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - 使用SQS和ECS扩展Lambda.
@@ -701,7 +701,7 @@ AWS Repos：
 
 AWS Repos：
 
-* [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) -  Lambda数据库加载器.
+* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) -  Lambda数据库加载器.
 * [amazon-redshift-utils :fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - 对现有表应用最佳列编码.
 
 社区回购：

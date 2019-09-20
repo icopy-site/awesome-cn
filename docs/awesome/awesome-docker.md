@@ -585,7 +585,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 ## Useful Resources
 
-- **[Valuable Docker Links](https://www.nkode.io/2014/08/24/valuable-docker-links.html) **关于码头工人的高质量文章！  **必看**
+- **[Valuable Docker Links](https://nanekratzke.de/2014/08/24/valuable-docker-links.html) **关于码头工人的高质量文章！  **必看**
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
 - [Docker Weekly](https://blog.docker.com/docker-weekly-archives/) 巨大的资源
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)

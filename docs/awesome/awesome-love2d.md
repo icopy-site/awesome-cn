@@ -25,7 +25,7 @@
 ## Animation
 *动画与框架管理图书馆*
 
-* [andross](https://github.com/pfirsich/andross) - a Lua library for 2D skeletal/bone animations with a Löve backend
+* [andross](https://github.com/pfirsich/andross) - 用于2D骨骼/骨骼动画的Lua库，带有Löve后端
 * [anim8](https://github.com/kikito/anim8) - 动画库
 * [chiro](https://github.com/bjornbytes/chiro) - 便利包装 [Spine](http://esotericsoftware.com)
 * [Peachy](https://github.com/josh-perry/peachy) - LÖVE中Aseprite动画的解析器/渲染器
@@ -66,7 +66,7 @@
 * [renderplanet](https://github.com/meric/renderplanet/) - 逼真的拼写行星渲染
 * [Sölar](https://github.com/JanWerder/soelar) - 一个相当简单的太阳系模拟器
 * [svglover](https://github.com/globalcitizen/svglover) - 用于在LÖVE中导入和显示简单SVG的库
-* [Tove2d](https://github.com/poke1024/tove2d) - Animated vector graphics for LÖVE
+* [Tove2d](https://github.com/poke1024/tove2d) - LÖVE的动画矢量图形
 * [deep](https://github.com/Nikaoto/deep)   - 添加Z轴;  允许您排队操作和绘制调用
 
 ## Entity
@@ -94,7 +94,7 @@
 * [rotLove](https://github.com/paulofmandown/rotLove)   - 恋爱中的Roguelike工具包.  rot.js的Love2D / lua端口
 * [ScreenManager](https://github.com/rm-code/screenmanager) - LÖVE框架的屏幕/状态管理
 * [shack](https://github.com/Ulydev/shack) -  shack是一个LÖVE库，可让您轻松添加摇动和旋转等屏幕效果
-* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - 平铺地图加载器和渲染器
+* [Simple Tiled Implementation](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
 * [Vivid](https://github.com/WetDesertRock/vivid) - 颜色数学，操作和转换库
 
 ## Input
@@ -111,6 +111,7 @@
 * [Shädows](https://github.com/matiasah/shadows) - 适用于löve的阴影和灯光引擎
 * [Light World](https://github.com/tanema/light_world.lua) - 照明模型
 * [Simple Love Lights](https://github.com/dylhunn/simple-love-lights) - 一个非常简单的光线投射灯实现
+* [Light](https://github.com/xiejiangzhi/light) - 简单的动态灯实现
 
 ## Math
 *数学特定图书馆*
@@ -121,6 +122,7 @@
 * [delaunay](https://github.com/Yonaba/delaunay) - 对于凸多边形的Delaunay三角剖分
 * [hump.vector](https://hump.readthedocs.io/en/latest/vector.html) - 强大的2D矢量类
 * [MLib](https://github.com/davisdude/mlib)   - 用Lua编写的数学和形状相交检测库.  它的目标是坚固且易于使用
+* [nvec](https://github.com/MikuAuahDark/NPad93/blob/master/nvec.lua) -  hump.vector兼容的LuaJIT FFI加速的2D矢量库
 * [shash](https://github.com/rxi/shash) -  Lua的简单轻量级空间哈希
 * [vector.lua](https://github.com/themousery/vector.lua) - 一个基于PVector类处理的简单矢量库
 
@@ -303,13 +305,13 @@
 	* [Lua for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=trixnz.vscode-lua) - 为VSCode中的Lua提供Intellisense和Linting
 
 * [Sublime Text](https://www.sublimetext.com)   -  Sublime Text是一个用于代码，标记和散文的复杂文本编辑器.  您会喜欢光滑的用户界面，非凡的功能和惊人的性能.
-	* [Package Manager](https://packagecontrol.io/) -  Sublime Text包管理器，可以非常简单地查找，安装和保持包最新.
+	* [Package Manager](https://packagecontrol.io/) - The Sublime Text package manager that makes it exceedingly simple to find, install and keep packages up-to-date.
 	* [SublimeLove](https://packagecontrol.io/packages/SublimeLove) - 支持语法突出显示，自动完成和构建系统.
 	* [SublimeLinter-luacheck](https://packagecontrol.io/packages/SublimeLinter-luacheck) - 提供Lua代码的linting和静态分析.
 
 ## Contributing
 
-请参阅 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blob/master/CONTRIBUTING.md) 详情.
 
 ## Other Awesome Lists
 

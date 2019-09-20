@@ -5,7 +5,7 @@
 精选的PHP库，资源和闪亮的东西的精选列表.
 
 ## Contributing and Collaborating
-请参阅 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md) 和 [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) 详情.
 
 
 ### Composer Repositories
@@ -40,7 +40,7 @@
 
 * [Aura Framework](http://auraphp.com/framework/) - 由独立组件构建的框架.
 * [CakePHP](https://cakephp.org/) - 快速应用程序开发框架（CP）.
-* [Laravel 5](https://laravel.com/) - 另一个PHP框架（L5）.
+* [Laravel 6](https://laravel.com/) - 另一个PHP框架（L6）.
 * [Nette](https://nette.org) - 由单个组件组成的另一个框架.
 * [Phalcon](https://phalconphp.com/en/) - 作为C扩展实现的框架.
 * [PPI Framework 2](https://github.com/ppi) - 互操作性框架.
@@ -445,7 +445,7 @@
 * [Cake ORM](https://github.com/cakephp/orm) -  Object-Relational Mapper，使用DataMapper模式（CP）实现.
 * [Doctrine Extensions](https://github.com/Atlantic18/DoctrineExtensions) - 一系列Doctrine行为扩展.
 * [Doctrine](https://www.doctrine-project.org/) - 全面的DBAL和ORM.
-* [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM（L5）.
+* [Eloquent](https://github.com/illuminate/database) - 一个简单的ORM（L6）.
 * [Pomm](https://github.com/chanmix51/Pomm) -  PostgreSQL的对象模型管理器.
 * [ProxyManager](https://github.com/Ocramius/ProxyManager) - 一组用于为数据映射器生成代理对象的实用程序.
 * [RedBean](https://redbeanphp.com/index.php) - 轻量级，无配置的ORM.
@@ -540,7 +540,7 @@
 * [Hoa String](https://github.com/hoaproject/Ustring) - 另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php)   -  Python的jieba的PHP端口.  自然语言处理的中文文本分割.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 用于检测移动设备（包括平板电脑）的轻量级PHP类.
-* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 用于处理UTF-8字符串的便携式库.
+* [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - A portable library for working with UTF-8 strings.
 * [Slugify](https://github.com/cocur/slugify) - 将字符串转换为slugs的库.
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 用于格式化SQL语句的库.
 * [Stringy](https://github.com/danielstjules/Stringy) - 具有多字节支持的字符串操作库.
@@ -562,9 +562,9 @@
 * [Assert](https://github.com/beberlei/assert)   - 具有丰富断言的验证库.  支持断言链接和惰性断言.
 * [Aura.Filter](https://github.com/auraphp/Aura.Filter) - 提供验证和清理对象和数组的工具.
 * [Cake Validation](https://github.com/cakephp/validation) - 另一个验证库（CP）.
-* [Filterus](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [Filterus](https://github.com/ircmaxell/filterus) - 一个简单的PHP过滤库.
 * [ISO-codes](https://github.com/ronanguilloux/IsoCodes) - 根据ISO，国际金融，公共管理，GS1，书籍行业，电话号码和邮政编码标准验证输入的图书馆，适用于许多国家/地区.
-* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一个 [JSON Schema](http://json-schema.org) 验证库.
+* [JSON Schema](https://github.com/justinrainbow/json-schema) - 一种 [JSON Schema](http://json-schema.org) 验证库.
 * [MetaYaml](https://github.com/romaricdrigon/MetaYaml) - 支持YAML，JSON和XML的模式验证库.
 * [Respect Validation](https://github.com/Respect/Validation) - 一个简单的验证库.
 * [Upload](https://github.com/brandonsavage/Upload) - 用于处理文件上载和验证的库.

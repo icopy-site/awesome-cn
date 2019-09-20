@@ -161,6 +161,7 @@ drm/kms.
 *  [MoltenVK](https://github.com/KhronosGroup/MoltenVK/)   - 在iOS和macOS上运行Vulkan.  [Apache的2.0]
 *  [imgui](https://github.com/ocornut/imgui)   - 立即模式图形用户界面.  [MIT]
 *  [vuh](https://github.com/Glavnokoman/vuh)   - 基于Vulkan的C ++ GPGPU计算框架.  [MIT]
+*  [liblava](https://github.com/liblava/liblava)   - 一个现代的C ++和易于使用的框架.  [MIT]
 *  [libvc](https://github.com/alexhultman/libvc) -  Vulkan Compute for C ++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) -  Vulkan的跨平台框架. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan) ，  [MIT]
@@ -279,4 +280,4 @@ drm/kms.
 这项工作是根据a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 ## Contributing
-请参阅 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 详情.
+请参见 [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) 详情.

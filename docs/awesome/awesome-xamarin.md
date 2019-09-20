@@ -53,6 +53,7 @@
 - [Realm ★690](https://github.com/realm/realm-dotnet) - 直接在手机，平板电脑或可穿戴设备内运行的移动数据库.
 - [Settings ★58](https://github.com/aritchie/settings) -  Xamarin和Windows的跨平台设置插件.
 - [SQLite.Net-PCL ★340](https://github.com/oysteinkrog/SQLite.Net-PCL) -  SQLite 3数据库支持，PCL，异步.
+- [LiteDB ★4245](https://github.com/mbdavid/LiteDB) - 单个数据文件中的.NET NoSQL文档存储.
 
 
 ## Fody
@@ -230,7 +231,7 @@
 - [AdvancedTimer ★35](https://github.com/ufuf/AdvancedTimer) - 实现Timer对象及其方法以扩展对定时器的支持.
 - [Android AppCompat ★34](https://github.com/nativecode-dev/oss-xamarin) - 现在为Xamarin.Forms应用程序提供Material Design主题，无需黑客攻击.
 - [BadgeView ★31](https://github.com/SuavePirate/BadgeView) - 一个简单的Xamarin.Forms控件来显示圆形徽章.
-- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects.
+- [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - 在Xamarin.Forms项目中显示圆形图像的简单而优雅的方式.
 - [Compass ★19](https://github.com/JarleySoft/CompassPlugin) - 提供从您的Xamarin.Forms项目访问Windows Phone，iOS和Android上指南针的简单方法.
 - [Device Orientation ★28](https://github.com/wcoder/Xamarin.Plugin.DeviceOrientation) - 简单的跨平台插件，可与移动设备的屏幕方向配合使用.
 - [Device Orientation ★1](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - 获取设备方向或在Xamarin.Forms项目中获得方向更改通知的简单方法.
@@ -252,7 +253,7 @@
 - [Xamarin.Forms.GoogleMaps ★250](https://github.com/amay077/Xamarin.Forms.GoogleMaps) - 使用Google Mapps API的Xamarin.Forms地图库.
 - [XamFormsMvxTemplate ★19](https://github.com/JTOne123/XamFormsMvxTemplate) -  MVVMCross.Forms Visual Studio 2017项目模板（iOS，Android，UWP）.
 - [Xamarin.Essentials](https://docs.microsoft.com/en-us/xamarin/essentials/) -  Xamarin.Essentials为开发人员提供了适用于其移动应用程序的跨平台API.
-- [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete)   - 自定义控制功能在键入时为您提供建议.  有几种建议模式.  建议的文本可以显示在下拉列表中，以便您可以从不同的选项中进行选择.
+- [Xamarin.Forms.EntryAutoComplete](https://github.com/krzysztofstepnikowski/Xamarin.Forms.EntryAutoComplete) - Custom control which functionality provides you with suggestions while typing. There are several modes of suggestions. The suggested text can be displayed in a drop-down list so that you can choose from different options.
 
 ## XPlat APIs
 
@@ -283,7 +284,7 @@
 - [Awesome Xamarin Bookmarks ★9](https://github.com/wcoder/awesome-xamarin-bookmarks) - 精选的Xamarin开发人员有趣（必须拥有）链接的书签.
 - [Open Source Xamarin Apps ★11](https://github.com/wcoder/open-source-xamarin-apps) - 开源Xamarin应用程序列表.
 - [Xamarin Bindings ★112](https://github.com/aloisdeniel/Xamarin.Bindings) - 现有库绑定的列表.
-- [Xamarin Components ★1,338](https://github.com/xamarin/XamarinComponents) - 在这里，您将找到Xamarin的跨平台插件列表，它可以从单个API支持Xamarin.iOS，Xamarin.Android，Xamarin.Forms和Windows平台.
+- [Xamarin Components ★1,338](https://github.com/xamarin/XamarinComponents) - 在这里您可以找到Xamarin的跨平台插件列表，它可以从单个API支持Xamarin.iOS，Xamarin.Android，Xamarin.Forms和Windows平台.
 - [Xamarin Universal Library ★3](https://github.com/xamarinuniverse/XamarinUniversalLibrary/) - 这是一个通用库，包含我们需要了解的Xamarin世界的所有内容.
 
 

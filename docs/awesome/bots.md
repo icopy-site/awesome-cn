@@ -89,6 +89,7 @@
 * [Node.js](https://github.com/telegraf/telegraf)
 * [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 * [PHP](https://github.com/irazasyed/telegram-bot-sdk)
+* [PHP](https://github.com/php-telegram-bot/core)
 * [Python](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
 * [Go](https://github.com/tucnak/telebot)
