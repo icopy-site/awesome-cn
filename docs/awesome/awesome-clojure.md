@@ -18,8 +18,8 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
-  - [Braid](https://github.com/braidchat/braid)：一个团队聊天应用程序，具有新颖的UI，可以带来更好的对话
-  - [Atea](https://github.com/pkamenarsky/atea)：MacOS的简约菜单栏时间跟踪器
+  - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用程序，可以带来更好的对话
+  - [Atea](https://github.com/pkamenarsky/atea)：用于MacOS的简约菜单栏时间跟踪器
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
@@ -29,19 +29,19 @@
 
 ## Advanced datastructures
 
-  * [Persistent AVL trees](https://github.com/clojure/data.avl)：持久排序的映射和具有日志时间排名查询的集合
-  * [Finger Tree](https://github.com/clojure/data.finger-tree)：double-list，count-double-list，count-sorted-set
-  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速，快照，可大规模扩展的数据库
+  * [Persistent AVL trees](https://github.com/clojure/data.avl)：具有日志时间等级查询的持久排序的地图和集合
+  * [Finger Tree](https://github.com/clojure/data.finger-tree)：重复列表，重复计数列表，重复排序集合
+  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree)：创建快速的，可快照的，可大规模扩展的数据库
   * [Hierarchical set](https://github.com/llasram/hier-set)
   * [Ordered](https://github.com/amalloy/ordered)：有序集和地图
-  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：其值仅在访问时计算
-  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子持久存在于磁盘上
-  * [Durable Queue](https://github.com/Factual/durable-queue)：队列持久存储在磁盘上
-  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/设置/列表（在内存中连续存储条目）,; java中的writtern，但是测试套件（读取：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
+  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure)：仅在访问时才计算其值
+  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure)：原子持续存在于磁盘上
+  * [Durable Queue](https://github.com/Factual/durable-queue)：队列在磁盘上持久存在
+  * [bifurcan](https://github.com/lacuna/bifurcan)：线性映射/集合/列表（将条目连续存储在内存中），; writtern在Java中，但是测试套件（阅读：用法示例） [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
-*其实不要在这里搜索rails / django，而是自己编写*
+*实际上，请不要在此处搜索rails / django，而是自己编写它们*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Web Non-Framework](https://github.com/webnf/webnf)
@@ -68,7 +68,7 @@
 
 ## Build Automation and Package management
 
-*用于项目构建自动化和包/依赖管理的库.*
+*用于项目构建自动化和包/依赖性管理的库.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
@@ -87,6 +87,7 @@
 *处理日期和时间的图书馆.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
+  * [clojure.java-time](https://github.com/dm3/clojure.java-time) -Java 8日期时间API
   * [timewords](https://github.com/tokenmill/timewords)
 
 ## GUI
@@ -137,7 +138,7 @@
 
 ## Structural Migrations
 
-*保持数据库和其他人保持同步*
+*保持数据库和其他同步*
 
   * [Lobos](https://github.com/budu/lobos)
   * [Ragtime](https://github.com/weavejester/ragtime)
@@ -159,7 +160,7 @@
 
 ## ORM and SQL generation
 
-*用于SQL生成的DSL.*
+*用于SQL生成的DSL *
   * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](http://sqlkorma.com/)
   * [Specql](https://github.com/tatut/specql/)
@@ -171,7 +172,7 @@
 
 ## Security
 
-*身份验证，授权和其他安全相关的库.*
+*认证，授权和其他与安全性相关的库.*
 
   * [Buddy](https://github.com/funcool/buddy)
   * [caesium](https://github.com/lvh/caesium) （libsodium绑定）
@@ -191,7 +192,7 @@
 
 ## GraphQL API
 
-*用于开发GraphQL API的库.*
+*用于开发GraphQL API的库.
 
   * [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
@@ -201,7 +202,7 @@
 
 ## HTML Manipulation
 
-*使用HTML的库.*
+*用于HTML的库.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
@@ -276,7 +277,7 @@
 
 ## Science and Data Analysis
 
-*图书馆，扩展的REPL以及其他科学和统计数据工具
+*用于科学和统计数据的库，扩展的REPL和其他工具
 分析和可视化.*
 
   * [Incanter](https://github.com/incanter/incanter)
@@ -334,7 +335,7 @@
   * [Dire](https://github.com/MichaelDrogalis/dire)
   
 ## Reflection
-*用于改进代码反射和对象内省的库
+*用于改进代码反射和对象自省的库
 
   * [hara.reflect](https://github.com/razum2um/awesome-clojure/blob/master/docs.caudate.me/hara/hara-reflect.html)
   * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
@@ -379,7 +380,7 @@
 
 ## Miscellaneous
 
- * [potemkin](https://github.com/ztellman/potemkin) - 在另一个ns中重新导出vars /像clojure map一样行动
+ * [potemkin](https://github.com/ztellman/potemkin) -在另一个ns中重新导出var /就像clojure映射
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
@@ -443,11 +444,11 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：理解列表理解，线程宏，生成测试，解构，核心匹配等概念，以及使用Clojure对Light Table，Datomic和Game开发的介绍
-  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure介绍函数式编程和TDD
-  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一个功能
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：理解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure进行的Light Table，Datomic和Game开发的介绍
+  * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
+  * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
-  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：关于core.async，tranducers，瞬态，逻辑编程和“当日功能”系列的更多高级视频.
+  * [Clojure Tutorials by Timothy Baldridge](https://www.youtube.com/channel/UC6yONKYeoE2P3bsahDtsimg/videos)：有关core.async，传感器，瞬变，逻辑编程和“每日功能”系列的更高级的视频.
 
 ## Websites
 
