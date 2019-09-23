@@ -256,6 +256,7 @@
 * [go-rquad](https://github.com/aurelien-rainone/go-rquad) -具有有效点定位和邻居发现功能的区域四叉树.
 * [goconcurrentqueue](https://github.com/enriquebris/goconcurrentqueue) -并发FIFO队列.
 * [gods](https://github.com/emirpasic/gods)  -去数据结构.  容器，集合，列表，堆栈，地图，BidiMap，树，HashSet等.
+* [gofal](https://github.com/xxjwxc/gofal) -Go的小数api.
 * [golang-set](https://github.com/deckarep/golang-set) -Go的线程安全和非线程安全高性能集.
 * [goset](https://github.com/zoumo/goset) -Go的有用的Set集合实现.
 * [goskiplist](https://github.com/ryszard/goskiplist) -在Go中跳过列表实施.
@@ -546,7 +547,7 @@
 * [emperror](https://github.com/emperror/emperror) -Go库和应用程序的错误处理工具和最佳实践.
 * [errlog](https://github.com/snwfdhmp/errlog)  -可破解的软件包，用于确定错误的负责任的源代码（以及其他一些快速调试功能）.  可插入任何现成的记录器.
 * [errors](https://github.com/emperror/errors)  -标准库错误包和github.com/pkg/errors的直接替换.  提供各种错误处理原语.
-* [errors](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
+* [errors](https://github.com/pkg/errors) -提供简单错误处理原语的软件包.
 * [errors](https://github.com/neuronlabs/errors) -使用分类原语进行简单的golang错误处理.
 * [errorx](https://github.com/joomcode/errorx) -具有堆栈跟踪，错误组成等的功能丰富的错误包.
 * [Falcon](https://github.com/SonicRoshan/falcon) -一个简单但功能强大的错误处理软件包.
@@ -559,6 +560,7 @@
 *用于处理文件和文件系统的库.
 
 * [afero](https://github.com/spf13/afero) -Go的FileSystem抽象系统.
+* [afs](https://github.com/viant/afs) -Go的抽象文件存储（mem，scp，zip，tar，云：s3，gs）.
 * [bigfile](https://github.com/bigfile/bigfile) -文件传输系统，支持使用http api，rpc调用和ftp客户端管理文件.
 * [checksum](https://github.com/codingsince1985/checksum) -计算大型文件的消息摘要，例如MD5和SHA256.
 * [flop](https://github.com/homedepot/flop) -文件操作库，旨在与功能镜像相同 [GNU cp](https://www.gnu.org/software/coreutils/manual/html_node/cp-invocation.html).
@@ -1585,7 +1587,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [smite](https://github.com/sergiotapia/smitego) -打包以包装对Smite游戏API的访问.
 * [spotify](https://github.com/rapito/go-spotify) -转到库以访问Spotify WEB API.
 * [steam](https://github.com/sostronk/go-steam) -进入图书馆与Steam游戏服务器进行交互.
-* [stripe](https://github.com/stripe/stripe-go) - Go client for the Stripe API.
+* [stripe](https://github.com/stripe/stripe-go) -使用Stripe API的客户端.
 * [textbelt](https://github.com/dietsche/textbelt) -转到textbelt.com txt消息传递API的客户端.
 * [translate](https://github.com/poorny/translate) -进入在线翻译包.
 * [Trello](https://github.com/adlio/trello) -Trello API的包装器.
@@ -2100,7 +2102,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [GoCon](http://gocon.connpass.com/) -日本东京.
 * [GoDays](https://www.godays.io/) - 柏林，德国.
 * [GoLab](http://golab.io/) -意大利佛罗伦萨.
-* [GolangUK](http://golanguk.com/) -英国伦敦.
+* [GolangUK](http://golanguk.com/) - London, UK.
 * [GopherChina](http://gopherchina.org) - 上海，中国.
 * [GopherCon](http://www.gophercon.com/) -美国丹佛.
 * [GopherCon Australia](https://gophercon.com.au/) - 悉尼，澳大利亚.
@@ -2250,7 +2252,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Go By Example](https://gobyexample.com/) -使用带注释的示例程序动手介绍Go.
 * [Go Cheat Sheet](https://github.com/a8m/go-lang-cheat-sheet) -Go的参考卡.
 * [Go database/sql tutorial](http://go-database-sql.org/) -数据库/ sql简介.
-* [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8) -在移动设备上交互式地编辑和播放Go片段.
+* [Go Playground for iOS](https://itunes.apple.com/us/app/go-playground/id1437518275?ls=1&mt=8) - Interactively edit & play Go snippets on your mobile device.
 * [Go WebAssembly Tutorial - Building a Simple Calculator](https://tutorialedge.net/golang/go-webassembly-tutorial/)
 * [Golang for Node.js Developers](https://github.com/miguelmota/golang-for-nodejs-developers) -将Golang与Node.js进行比较的示例进行学习.
 * [Golangbot](https://golangbot.com/learn-golang-series/) -开始使用Go进行编程的教程.
