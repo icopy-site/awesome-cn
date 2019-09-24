@@ -171,8 +171,8 @@
 - [HTML5](https://github.com/diegocard/awesome-html5#readme) -用于网站和Web应用程序的标记语言.
 - [SVG](https://github.com/willianjusten/awesome-svg#readme) -基于XML的矢量图像格式.
 - [Canvas](https://github.com/raphamorim/awesome-canvas#readme)
-- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme)
-- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme)
+- [KnockoutJS](https://github.com/dnbard/awesome-knockout#readme) -JavaScript库.
+- [Dojo Toolkit](https://github.com/petk/awesome-dojo#readme) -JavaScript工具箱.
 - [Inspiration](https://github.com/NoahBuscher/Inspire#readme)
 - [Ember](https://github.com/nmec/awesome-ember#readme) -应用框架.
 - [Android UI](https://github.com/wasabeef/awesome-android-ui#readme)
@@ -224,25 +224,25 @@
 
 ## Back-End Development
 
-- [Flask](https://github.com/humiaozuzu/awesome-flask#readme)
+- [Flask](https://github.com/humiaozuzu/awesome-flask#readme) -Python框架.
 - [Docker](https://github.com/veggiemonk/awesome-docker#readme)
-- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme)
-- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme)
+- [Vagrant](https://github.com/iJackUA/awesome-vagrant#readme) -自动化虚拟机环境.
+- [Pyramid](https://github.com/uralbash/awesome-pyramid#readme) -Python框架.
 - [Play1 Framework](https://github.com/PerfectCarl/awesome-play1#readme)
 - [CakePHP](https://github.com/friendsofcake/awesome-cakephp#readme) -PHP框架.
-- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme)
+- [Symfony](https://github.com/sitepoint-editors/awesome-symfony#readme) -PHP框架.
 	- [Education](https://github.com/pehapkari/awesome-symfony-education#readme)
 - [Laravel](https://github.com/chiraggude/awesome-laravel#readme) -PHP框架.
 	- [Education](https://github.com/fukuball/Awesome-Laravel-Education#readme)
 - [Rails](https://github.com/ekremkaraca/awesome-rails#readme) -Ruby的Web应用程序框架.
 	- [Gems](https://github.com/hothero/awesome-rails-gem#readme) -套餐.
-- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme)
+- [Phalcon](https://github.com/phalcon/awesome-phalcon#readme) -PHP框架.
 - [Useful `.htaccess` Snippets](https://github.com/phanan/htaccess#readme)
 - [nginx](https://github.com/fcambus/nginx-resources#readme) - 网络服务器.
-- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme)
+- [Dropwizard](https://github.com/stve/awesome-dropwizard#readme) -Java框架.
 - [Kubernetes](https://github.com/ramitsurana/awesome-kubernetes#readme) -自动化Linux容器操作的开源平台.
-- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme)
-- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme)
+- [Lumen](https://github.com/unicodeveloper/awesome-lumen#readme) -PHP微框架.
+- [Serverless Framework](https://github.com/pmuens/awesome-serverless#readme) -无服务器计算和无服务器架构.
 - [Apache Wicket](https://github.com/PhantomYdn/awesome-wicket#readme) -Java Web应用程序框架.
 - [Vert.x](https://github.com/vert-x3/vertx-awesome#readme) -用于在JVM上构建响应式应用程序的工具包.
 - [Terraform](https://github.com/shuaibiyy/awesome-terraform#readme) -用于构建，更改和版本控制基础结构的工具.
@@ -398,7 +398,7 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) -文本编辑器字体.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) -以动画图像闻名的图像格式.
 - [Music](https://github.com/ciconia/awesome-music#readme)
@@ -423,7 +423,7 @@
 - [JavaScript Learning](https://github.com/micromata/awesome-javascript-learning#readme)
 - [CSS Learning](https://github.com/micromata/awesome-css-learning#readme) -主要关于CSS –语言和模块.
 - [Product Management](https://github.com/dend/awesome-product-management#readme) -了解如何成为更好的产品经理.
-- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) - Gives you a clear route to improve your knowledge and skills.
+- [Roadmaps](https://github.com/liuchong/awesome-roadmaps#readme) -为您提供一条清晰的途径来提高您的知识和技能.
 
 
 ## Security

@@ -55,7 +55,7 @@
 - [Cytoscape.js](https://github.com/cytoscape/cytoscape.js) -图论（又名网络）建模和分析.
 - [Kadence](https://gitlab.com/deadcanaries/kadence) -Kademlia分布式哈希表.
 - [seedshot](https://github.com/twobucks/seedshot) -从浏览器共享临时P2P屏幕截图.
-- [js-git](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+- [js-git](https://github.com/creationix/js-git) -Git的JavaScript实现.
 - [skale](https://github.com/skale-me/skale-engine) -高性能分布式数据处理引擎.
 - [xlsx](https://github.com/sheetjs/js-xlsx) -纯JS Excel电子表格阅读器和编写器.
 - [isomorphic-git](https://github.com/isomorphic-git/isomorphic-git) -Git的纯JavaScript实现.
@@ -157,7 +157,7 @@
 
 ### Debugging / Profiling
 
-- [ndb](https://github.com/GoogleChromeLabs/ndb) - Improved debugging experience, enabled by Chrome DevTools.
+- [ndb](https://github.com/GoogleChromeLabs/ndb) -通过Chrome DevTools启用了改进的调试体验.
 - [ironNode](https://github.com/s-a/iron-node) -开箱即用的支持ES2015的Node.js调试器.
 - [node-inspector](https://github.com/node-inspector/node-inspector) -基于Blink开发人员工具的调试器.
 - [debug](https://github.com/visionmedia/debug) -微小的调试工具.
@@ -165,7 +165,7 @@
 - [njsTrace](https://github.com/valyouw/njstrace) -检测并跟踪代码，查看所有函数调用，参数，返回值以及每个函数所花费的时间.
 - [vstream](https://github.com/joyent/node-vstream) -可仪表化的流混入以检查流的管道.
 - [stackman](https://github.com/watson/stackman) -使用代码摘录和其他优点增强了错误堆栈跟踪.
-- [locus](https://github.com/alidavut/locus) -在运行时启动可以访问所有变量的REPL.
+- [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [0x](https://github.com/davidmarkclements/0x) -火焰图分析.
 - [ctrace](https://github.com/automation-stack/ctrace) -格式正确且经过改进的跟踪系统调用和信号.
 - [leakage](https://github.com/andywer/leakage) -编写内存泄漏测试.
@@ -332,7 +332,7 @@
 	- [valvelet](https://github.com/lpinca/valvelet) -限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) -同时兑现承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
--可观察
+- Observables
 	- [zen-observable](https://github.com/zenparsing/zen-observable) -观测成果的实施.
 	- [RxJS](https://github.com/ReactiveX/RxJS) -反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) -将一个可观察者转换为一个承诺.
@@ -442,7 +442,7 @@
 
 - [normalize-url](https://github.com/sindresorhus/normalize-url) -规范化网址.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) -人性化网址：http：//sindresorhus.com→sindresorhus.com.
-- [url-unshort](https://github.com/nodeca/url-unshort) -展开缩短的网址.
+- [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 - [speakingurl](https://github.com/pid/speakingurl) -通过音译从字符串生成子段.
 - [linkify-it](https://github.com/markdown-it/linkify-it) -具有完整unicode支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) -URL和其他字符串比正则表达式字符串匹配模式更容易.
@@ -489,7 +489,7 @@
 ### Humanize
 
 - [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) -将字节转换为人类可读的字符串：1337→1.34 kB.
-- [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [pretty-ms](https://github.com/sindresorhus/pretty-ms) -将毫秒转换为人类可读的字符串：“ 1337000000”→“ 15d 11h 23m 20s”.
 - [ms](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) -错误更少.
 - [read-art](https://github.com/Tjatse/node-readability) -从任何页面提取可读内容.
@@ -532,7 +532,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -603,7 +603,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) -简单，轻松的身份验证.
 - [Grant](https://github.com/simov/grant) -适用于Express，Koa和Hapi的OAuth中间件.
-- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) -用于社交身份验证的统一API（Facebook，Twitter，Slack，Instagram等）.
+- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
 
 
 ### Authorization
@@ -681,6 +681,7 @@
 - [DocPad](https://github.com/docpad/docpad) -具有动态功能和巨大插件生态系统的静态站点生成器.
 - [Phenomic](https://github.com/phenomic/phenomic) -基于React和Webpack生态系统的现代静态网站生成器.
 - [docsify](https://github.com/QingWei-Li/docsify) -Markdown文档网站生成器，没有静态生成的HTML文件.
+- [Charge](https://github.com/brandonweiss/charge) -使用JSX和MDX的自带零配置静态站点生成器.
 
 
 
@@ -773,12 +774,13 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/实时流，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
 
 ### Discovery
 
 - [npms](https://npms.io) -精湛的包裹搜索功能，可对包裹质量进行深入分析 [myriad of metrics](https://npms.io/about).
 - [npm addict](https://npmaddict.com) -您每天注射npm软件包.
-- [npmcompare.com](https://npmcompare.com) - Compare and discover npm packages.
+- [npmcompare.com](https://npmcompare.com) -比较并发现npm软件包.
 
 ### Articles
 
@@ -802,7 +804,7 @@
 
 - [Introduction to Node.js with Ryan Dahl](https://www.youtube.com/watch?v=jo_B4LTHi3I)
 - [Hands on with Node.js](https://learn.bevry.me/hands-on-with-node.js/preface)
-- [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
+- [Nodetuts](http://nodetuts.com) -一系列讲座，包括TCP和HTTP API服务器，异步编程等.
 - [V8 Garbage Collector](https://v8.dev/blog/trash-talk) -垃圾谈V8垃圾收集器.
 
 ### Books
