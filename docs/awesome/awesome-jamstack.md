@@ -8,23 +8,23 @@
   <br /><br /><br />
   <p>
     <strong>JAMstack</strong> ：名词\&#39;jam-stack&#39;\ <br />
-    基于客户端JavaScript，可重用API和预构建标记的现代Web开发体系结构.
+    基于客户端JavaScript，可重用API和预建标记的现代Web开发体系结构.
   </p>
   <br /><br />
   <p>
     <b>
-      这是一份精心策划的杰出<a href="https://jamstack.org">JAMstack</a>资源列表.
+      这是<a href="https://jamstack.org">精选</a>的真棒<a href="https://jamstack.org">JAMstack</a>资源列表.
     </b>
   </p>
   <br /><br />
   <p>
     <i>
-      您可能也喜欢<a href="https://github.com/myles/awesome-static-generators">Awesome Static Generators</a> .
+      您可能还喜欢<a href="https://github.com/myles/awesome-static-generators">Awesome Static Generators</a> .
     </i>
   </p>
   <p>
     <i>
-       想要贡献一些资源？  大！  请在提交之前阅读<a href="contributing.md">贡献指南</a> .
+       想要贡献一些资源吗？  大！  请在<a href="contributing.md">贡献</a>之前阅读<a href="contributing.md">贡献准则</a> .
     </i>
   </p>
   <br /><br />
@@ -37,8 +37,8 @@
 ## General
 
 - [JAMstack](https://jamstack.org/)
-- [JAMstack resources](https://jamstack.org/resources/) - 关于JAMstack的视频和文章.
-- [the New Dynamic](https://www.thenewdynamic.org/)   - 在我们的目录中选择工具以使用JAMstack.  浏览我们的展示并获得灵感.
+- [JAMstack resources](https://jamstack.org/resources/) -有关JAMstack的视频和文章.
+- [the New Dynamic](https://www.thenewdynamic.org/)  -在我们的目录中拾取工具以与JAMstack一起使用.  浏览我们的展示柜并获得启发.
 
 ## Chats
 
@@ -50,124 +50,126 @@
 
 ## Platforms
 
-- [Appernetic](https://appernetic.io) - 使用Hugo和GitHub Pages对静态网站进行可视内容管理.
-- [Netlify](https://netlify.com) - 用于自动化现代Web项目的一体化平台.
-- [ZEIT Now](https://zeit.co) - 适用于现代Web应用程序的一体化无服务器平台，具有无配置工具和工作流程.
+- [Appernetic](https://appernetic.io) -带有Hugo和GitHub Pages的静态网站的可视内容管理.
+- [Netlify](https://netlify.com) -用于自动化现代Web项目的多合一平台.
+- [ZEIT Now](https://zeit.co) -具有免配置工具和工作流程的现代Web应用程序的多合一无服务器平台.
 
 ## JAMstack Sites Showcase
 
-- [React](https://reactjs.org/) - 以盖茨比为基础.
-- [Squoosh.app](https://squoosh.app/) - 在Netlify上托管，演示了现代Web应用程序的高级功能.
-- [Hopper](https://travel.hopper.com/) - 建立在Gatsby上并在Netlify上托管.
-- [VSCode Power User Course](https://vscode.pro/) -  PWA建立在Gatsby之上，并在Netlify上托管.
-- [CloudyCam](https://CloudyCam.dev/) -  PWA基于Next.js构建并托管在Zeit Now v2无服务器平台上.
+- [React](https://reactjs.org/) -建立在盖茨比上.
+- [Squoosh.app](https://squoosh.app/) -托管在Netlify上，演示了现代Web应用程序中的高级功能.
+- [Hopper](https://travel.hopper.com/) -建立在盖茨比上，并托管在Netlify上.
+- [VSCode Power User Course](https://vscode.pro/) -基于Gatsby并托管在Netlify上的PWA.
+- [CloudyCam](https://CloudyCam.dev/) -基于Next.js并托管在Zeit Now v2无服务器平台上的PWA.
 
 ## Static Site Generators
 
-- [Gatsby](https://gatsbyjs.org) -  React的快速静态站点生成器.
-- [Next.js](https://nextjs.org/) - 用于静态和服务器呈现的应用程序的轻量级框架.
-- [Hugo](https://gohugo.io) -  Hugo是一个用Go编写的静态站点生成器.
-- [Jekyll](https://jekyllrb.com) -  Jekyll是一个简单的，支持博客的静态网站生成器，非常适合个人，项目或组织网站.
-- [Hexo](https://hexo.io) - 一个快速，简单和强大的博客框架，由Node.js提供支持.
-- [Metalsmith](https://metalsmith.io) - 一个非常简单，可插拔的静态站点生成器.
-- [Phenomic](https://phenomic.io/) - 模块化网站编译器.
-- [Gridsome](https://gridsome.org/) -  Vue支持的静态站点生成器，用于为任何无头CMS，API或Markdown文件构建CDN就绪网站.
-- [Nuxt.js](https://nuxtjs.org/) - 用于服务器端呈现，静态和传统单页面应用程序的多功能基于vue的框架.
-- [eleventy](https://www.11ty.io/) - 一个更简单的静态站点生成器，将各种模板文件转换为HTML.
+- [Gatsby](https://gatsbyjs.org) -React的快速静态站点生成器.
+- [Next.js](https://nextjs.org/) -用于静态和服务器渲染应用程序的轻量级框架.
+- [Hugo](https://gohugo.io) -Hugo是用Go语言编写的静态网站生成器.
+- [Jekyll](https://jekyllrb.com) -Jekyll是一个简单的，可识别博客的静态网站生成器，非常适合个人，项目或组织网站.
+- [Hexo](https://hexo.io) -由Node.js提供支持的快速，简单且功能强大的博客框架.
+- [Metalsmith](https://metalsmith.io) -非常简单，可插入的静态站点生成器.
+- [Phenomic](https://phenomic.io/) -模块化网站编译器.
+- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态网站生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
+- [Nuxt.js](https://nuxtjs.org/) -适用于服务器端渲染的静态和传统单页应用程序的基于vue的通用框架.
+- [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
+- [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，快速，功能强大.
 
 *有关更完整的列表，请参阅 [StaticGen](https://www.staticgen.com/).*
 
 ## CMS
 
-- [Contentful](https://contentful.com) - 数字团队的内容基础架构.
-- [NetlifyCMS](https://netlifycms.org/) - 开源的基于Git的CMS.
-- [ButterCMS](https://buttercms.com/) - 无头CMS和内容API.
-- [Scrivito](https://scrivito.com) - 为数字代理商和中型到大型企业构建的基于云的JavaScript CMS.
-- [GraphCMS](https://graphcms.com) -  GraphQL无头CMS.
-- [Prismic](https://prismic.io) - 适用于开发人员和营销人员的无头API CMS.
-- [Siteleaf](https://siteleaf.com) - 适用于您的静态站点的友好CMS.
-- [DatoCMS](https://datocms.com) - 您的编辑喜欢的基于API的CMS.
-- [Prose](https://prose.io) -  Prose是GitHub的内容编辑器，专为管理网站而设计.
-- [Tipe](https://tipe.io) - 下一代API-first CMS.
-- [Forestry](https://forestry.io) - 用于使用静态站点生成器构建的站点的无头CMS.
-- [Coisas](https://github.com/fiatjaf/coisas) - 用于编辑GitHub Markdown（和其他）文件的客户端CMS.
-- [Cockpit](https://getcockpit.com/) - 自我托管的无头和api驱动的CMS.
-- [HeadlessCMS](https://headlesscms.org/) -  JAMstack站点的内容管理系统列表.
-- [TakeShape](https://www.takeshape.io/) - 无头GraphQL API CMS，只需单击一次即可部署到Netlify.
+- [Contentful](https://contentful.com) -数字团队的内容基础架构.
+- [NetlifyCMS](https://netlifycms.org/) -开源的基于Git的CMS.
+- [ButterCMS](https://buttercms.com/) -无头CMS和Content API.
+- [Scrivito](https://scrivito.com) -为数字代理商和中型企业构建的基于云的JavaScript CMS.
+- [GraphCMS](https://graphcms.com) -GraphQL无头CMS.
+- [Prismic](https://prismic.io) -适用于开发人员和营销人员的无头API CMS.
+- [Siteleaf](https://siteleaf.com) -静态网站的友好CMS.
+- [DatoCMS](https://datocms.com) -编辑者会喜欢的基于API的CMS.
+- [Prose](https://prose.io) -Prose是GitHub的内容编辑器，旨在管理网站.
+- [Tipe](https://tipe.io) -下一代API优先的CMS.
+- [Forestry](https://forestry.io) -无头CMS，用于使用静态网站生成器构建的网站.
+- [Coisas](https://github.com/fiatjaf/coisas) -用于编辑GitHub Markdown（和其他）文件的客户端CMS.
+- [Cockpit](https://getcockpit.com/) -一个自托管的无头和api驱动的CMS.
+- [HeadlessCMS](https://headlesscms.org/) -JAMstack站点的内容管理系统列表.
+- [TakeShape](https://www.takeshape.io/) -一键式无头GraphQL API CMS部署到Netlify.
 
 ## API
 
 ### Authentication
 
-- [Auth0](https://auth0.com/) - 单点登录和基于令牌的身份验证.
-- [Netlify Identity](https://www.netlify.com/docs/identity/) - 提供全套身份验证功能，由 [GoTrue API](https://www.gotrueapi.org).
+- [Auth0](https://auth0.com/) -单点登录和基于令牌的身份验证.
+- [Netlify Identity](https://www.netlify.com/docs/identity/) -提供一整套的身份验证功能，并由 [GoTrue API](https://www.gotrueapi.org).
 
 ### Comments
 
-- [Disqus](https://disqus.com) - 全球评论系统，可改善网站讨论并连接网络上的对话.
-- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) - 评论插件可让人们使用他们的Facebook帐户评论您网站上的内容.
-- [Utterances](https://utteranc.es/)   - 基于GitHub问题构建的轻量级注释小部件.  将GitHub问题用于博客评论，维基页面等.
+- [Disqus](https://disqus.com) -全球评论系统，可改善网站上的讨论并通过网络连接对话.
+- [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -评论插件可让人们使用其Facebook帐户对您网站上的内容发表评论.
+- [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
 
 ### Forms
 
-- [Netlify Forms](https://www.netlify.com/docs/form-handling/) - 通过在部署时直接解析HTML文件，对构建时间进行内置表单处理.
+- [Netlify Forms](https://www.netlify.com/docs/form-handling/) -通过在部署时直接解析HTML文件，在构建时进行内置表单处理.
+- [StaticKit](https://statickit.com) -静态网站的现代形式，带有用于React和HTML的客户端库.
 
 ### E-commerce
 
-- [Flatmarket](https://github.com/christophercliff/flatmarket) -  Flatmarket是一个免费的开源电子商务平台，适用于静态网站.
-- [GoCommerce](https://www.gocommerceapi.org) -  JAMstack网站的无头电子商务.
-- [Snipcart](https://snipcart.com/) - 面向开发人员的强大购物车平台.
-- [Moltin](https://moltin.com/) - 面向开发人员的电子商务API.
-- [Trolley](https://trolley.link) - 为JAMstack设计的购物车.
+- [Flatmarket](https://github.com/christophercliff/flatmarket) -Flatmarket是用于静态网站的免费开放源代码电子商务平台.
+- [GoCommerce](https://www.gocommerceapi.org) -JAMstack网站的无头电子商务.
+- [Snipcart](https://snipcart.com/) -面向开发人员的强大购物车平台.
+- [Moltin](https://moltin.com/) -开发人员的电子商务API.
+- [Trolley](https://trolley.link) -专为JAMstack设计的购物车.
 
 ### Search
 
-- [Algolia](https://www.algolia.com/) - 构建搜索业务的最可靠平台.
-- [Lunr](https://lunrjs.com/) - 搜索变得简单（在前端）.
-- [CloudSh](https://cloudsh.com/) - 使用几行JavaScript进行强大的搜索.
+- [Algolia](https://www.algolia.com/) -建立企业搜索最可靠的平台.
+- [Lunr](https://lunrjs.com/) -搜索变得简单（在前端）.
+- [CloudSh](https://cloudsh.com/) -使用几行JavaScript进行强大的搜索.
 
 ### Database
 
-- [GraphQL](https://graphql.org) -  API的查询语言和用于使用现有数据完成这些查询的运行时.
-- [Graphcool](https://graph.cool) - 开源和自托管后端即服务，以开发无服务器的GraphQL后端.
-- [FaunaDB](https://fauna.com) - 关系NoSQL数据库，在云或内部部署中具有联接，索引和多区域ACID事务.
+- [GraphQL](https://graphql.org) -API的查询语言和用于使用现有数据完成这些查询的运行时.
+- [Graphcool](https://graph.cool) -开源和自托管后端即服务，用于开发无服务器的GraphQL后端.
+- [FaunaDB](https://fauna.com) -在云中或本地具有连接，索引和多区域ACID事务的关系NoSQL数据库.
 
 ### Automation
 
-- [Zapier](https://zapier.com/) - 触发将超过1000个应用程序连接在一起的操作.
-- [DataFire](https://github.com/DataFire/DataFire) -  DataFire是一个用于构建和集成API的开源框架.
+- [Zapier](https://zapier.com/) -触发将1000多个应用程序连接在一起的操作.
+- [DataFire](https://github.com/DataFire/DataFire) -DataFire是用于构建和集成API的开源框架.
 
 ## Serverless
 
-- [Netlify Functions](https://www.netlify.com/docs/functions/) -  Netlify允许您在没有AWS账户的情况下部署Lambda功能，并且可以直接在Netlify中处理功能管理.
-- [Amazon Lambda](https://aws.amazon.com/lambda/) - 允许您在不配置或管理服务器的情况下运行代码.
--  Microsoft Azure
-  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) - 无服务器计算服务，使您能够按需运行代码，而无需显式配置或管理基础架构.
-  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) - 简化构建自动化可扩展工作流，以跨云服务和本地系统集成应用程序和数据.
--  Google Cloud
-  - [App Engine](https://cloud.google.com/appengine/) - 无服务器应用程序，完全抽象出基础架构，因此您只关注代码.
-  - [Cloud Functions](https://cloud.google.com/functions/) - 无服务器环境，用于构建和连接云服务.
-  - [Cloud Datastore](https://cloud.google.com/datastore/) - 具有自动分片和复制功能的高度可扩展的NoSQL数据库.
-  - [Cloud Storage](https://cloud.google.com/storage/) - 满足高QPS需求的地理冗余对象存储.
-  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) - 针对所有消息大小和速度的地理冗余实时消息传递.
-  - [Apigee](https://apigee.com/) - 针对多云环境的企业API管理.
-  - [Endpoints](https://cloud.google.com/endpoints/) - 基于Google Cloud构建的API管理应用程序.
-  - [Cloud Dataflow](https://cloud.google.com/dataflow/) - 无服务器流和批量数据处理服务.
-  - [BigQuery](https://cloud.google.com/bigquery/) - 无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
-  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) - 无服务器机器学习服务，可自动扩展自定义Google硬件（Tensor Processing Units）.
-- [Serverless](https://serverless.com/) - 用于部署和运行无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)   - 无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体小部件的SDK，以便于管理媒体，CDN，存储，转换等.
+- [Netlify Functions](https://www.netlify.com/docs/functions/) -Netlify使您可以在没有AWS帐户的情况下部署Lambda函数，并直接在Netlify中处理功能管理.
+- [Amazon Lambda](https://aws.amazon.com/lambda/) -使您无需配置或管理服务器即可运行代码.
+-Microsoft Azure
+  - [Azure Functions](https://docs.microsoft.com/en-us/azure/azure-functions/) -无服务器计算服务，使您可以按需运行代码，而不必显式设置或管理基础结构.
+  - [Azure Logic Apps](https://docs.microsoft.com/en-us/azure/logic-apps/) -简化了构建自动可伸缩工作流的过程，该工作流跨云服务和本地系统集成了应用程序和数据.
+-Google Cloud
+  - [App Engine](https://cloud.google.com/appengine/) -无服务器应用程序，完全抽象化了基础架构，因此您只关注代码.
+  - [Cloud Functions](https://cloud.google.com/functions/) -用于建立和连接云服务的无服务器环境.
+  - [Cloud Datastore](https://cloud.google.com/datastore/) -具有自动分片和复制功能的高度可扩展的NoSQL数据库.
+  - [Cloud Storage](https://cloud.google.com/storage/) -满足高QPS需求的地理冗余对象存储.
+  - [Cloud Pub/Sub](https://cloud.google.com/pubsub/) -针对所有消息大小和速度的地理冗余实时消息.
+  - [Apigee](https://apigee.com/) -用于多云环境的企业API管理.
+  - [Endpoints](https://cloud.google.com/endpoints/) -基于Google Cloud构建的API管理应用.
+  - [Cloud Dataflow](https://cloud.google.com/dataflow/) -无服务器流和批处理数据处理服务.
+  - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
+  - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
+- [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
 ## Videos
 
-- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) - 马特比尔曼
-- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -  Mathias Biillman.
-- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) - 克里斯马克雷.
+- [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -Matt Biilmann.
+- [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
+- [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
-- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) - Traversy Media.
-- [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) - 凯尔马修斯.
+- [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
+- [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
 
 ## Tutorials / Articles
 
@@ -192,10 +194,13 @@
 - [Getting Started With Gridsome](https://scotch.io/tutorials/getting-started-with-gridsome)
 - [The Complete Beginner's Guide to Deploying Your First Static Website to IPFS](https://interplanetarygatsby.com/ipfs-deploy/)
 - [A Broad Discussion on JAMstack & E-Commerce (Podcast & Transcript)](https://snipcart.com/jamstack-ecommerce-podcast)
+- [The Beginner's Guide to Static Site Generators](https://bejamas.io/blog/static-site-generators/)
+- [9 Headless CMS Options for Your JAMstack Site](https://bejamas.io/blog/headless-cms/)
 
 ## Podcasts
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
+- [That's my JAMstack](https://thatsmyjamstack.com)
 
 ## License
 

@@ -1343,6 +1343,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [consul](https://www.consul.io/) -Consul是用于服务发现，监视和配置的工具.
 * [devd](https://github.com/cortesi/devd) -开发人员的本地网络服务器.
 * [discovery](https://github.com/Bilibili/discovery) -一个用于中层弹性负载平衡和故障转移的注册表.
+* [dudeldu](https://github.com/krotik/dudeldu) -一个简单的SHOUTcast服务器.
 * [etcd](https://github.com/coreos/etcd) -高度可用的键值存储，用于共享配置和服务发现.
 * [Fider](https://github.com/getfider/fider) -Fider是一个开放平台，用于收集和组织客户反馈.
 * [Flagr](https://github.com/checkr/flagr) -Flagr是一种开源功能标记和A / B测试服务.

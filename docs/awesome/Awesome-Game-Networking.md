@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-游戏网络是计算机网络的子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
+游戏联网是计算机联网的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
 &mdash; and many more techniques involved in multiplayer online game programming.
 
 **阅读后请随时贡献您的_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
@@ -14,7 +14,7 @@
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) -Riot Games的Viscarious通过WiFi与以太网的互联网连接比较了指标.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -Gabriel Gambetta的客户端预测，实体插值，滞后补偿文章.
 - [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
-- [Game Server Architecture](https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
+- [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.

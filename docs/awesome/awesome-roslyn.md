@@ -48,7 +48,7 @@
 - [CodeAnalysis.CSharp.PatternMatching](https://github.com/pvginkel/Microsoft.CodeAnalysis.CSharp.PatternMatching) - Intuitive pattern matching for Roslyn syntax trees. Simplifies C# syntax and semantic analysis.
 - [CodeGeneration.Roslyn](https://github.com/AArnott/CodeGeneration.Roslyn) -在具有设计时支持的构建过程中基于Roslyn的代码生成.
 - [dotnet-script](https://github.com/filipw/dotnet-script) - Runs C# scripts from the .NET CLI, defines NuGet packages inline and edit/debugs them in VS Code.
-- [FlubuCore](https://github.com/flubu-core/flubu.core) - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
+- [FlubuCore](https://github.com/dotnetcore/FlubuCore) - Cross platform build automation tool for building projects and executing deployment scripts using C# code.
 - [MirrorSharp](https://github.com/ashmind/mirrorsharp) - Online C#, VB.NET, and F# code editor. Features code completion, method signature help, quick fixes, and diagnostics.
 - [OmniSharp](http://www.omnisharp.net/)  -在您选择的编辑器中启用跨平台.NET开发.  一系列开源项目，每个都有一个目标：在您选择的编辑器中提供出色的.NET体验.
 - [roslyn-linq-rewrite](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code. This increases performance by minimizes heap allocations and dynamic dispatch.
@@ -79,7 +79,7 @@
 很棒的博客文章和在线文章，涵盖了各种主题，例如性能，Roslyn内部知识等.
 
 - [Inside the .NET Compiler Platform – Performance Considerations during Syntax Analysis (#SpeakRoslyn)](https://robinsedlaczek.com/2015/04/29/inside-the-net-compiler-platform-performance-considerations-during-syntax-analysis-speakroslyn/) -深入了解Roslyn的性能，重点是内存消耗.
-- [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/)  -关于罗斯林团队如何通过廉价的父级引用和许多其他优点实现不可变，可重用的树的鼓舞人心的介绍.  Quote：“但是在罗斯林团队中，我们通常会做不可能的事情” :-)
+- [Persistence, Facades and Roslyn's Red-Green Trees](https://blogs.msdn.microsoft.com/ericlippert/2012/06/08/persistence-facades-and-roslyns-red-green-trees/)  -关于罗斯林团队如何通过廉价的父级引用和许多其他优点实现不可变，可重用的树的鼓舞性介绍.  Quote：“但是在罗斯林团队中，我们通常会做不可能的事情” :-)
 - [ReSharper and Roslyn: Q&A](https://blog.jetbrains.com/dotnet/2014/04/10/resharper-and-roslyn-qa/)  -很好的解释了为什么ReSharper不会使用Roslyn.  包括有关静态代码分析的良好讨论以及Roslyn的一些限制.
 - [Roslyn performance (Matt Gertz)](https://blogs.msdn.microsoft.com/csharpfaq/2014/01/15/roslyn-performance-matt-gertz/) -了解罗斯林团队如何处理评估和实现绩效的主题.
 
