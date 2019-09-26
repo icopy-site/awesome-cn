@@ -355,7 +355,7 @@
 * [GacUI](https://github.com/vczh-libraries/GacUI)  -GPU加速的C ++用户界面，具有所见即所得的开发工具，XML支持，内置的数据绑定和MVVM功能.  [MS-PL]
 * [GTK+](http://www.gtk.org/)  -用于创建图形用户界面的多平台工具包.  [LGPL]
 * [gtkmm](http://www.gtkmm.org/en/)  -流行的GUI库GTK +的官方C ++接口.  [LGPL]
-* [imgui](https://github.com/ocornut/imgui) - Immediate Mode Graphical User Interface with minimal dependencies. [MIT]
+* [imgui](https://github.com/ocornut/imgui)  -具有最小依赖性的即时模式图形用户界面.  [MIT]
 * [iup](https://www.tecgraf.puc-rio.br/iup)  -用于构建图形用户界面的多平台工具包.  [MIT]
 * [libRocket](http://librocket.com/)  -libRocket是C ++ HTML / CSS游戏界面中间件.  [MIT]
 * [libui](https://github.com/andlabs/libui)  -C中的简单和可移植（但不灵活）的GUI库，使用其支持的每个平台的本机GUI技术.  [MIT]
@@ -463,14 +463,14 @@
 * [json.h](https://github.com/sheredom/json.h)  -在C和C ++中解析JSON的一种简单的单头/单源解决方案.  [授予许可]
 * [json-c](https://github.com/json-c/json-c) -在C中的JSON实现.[MIT]
 * [JsonCpp](https://github.com/open-source-parsers/jsoncpp)  -用于与JSON交互的C ++库.  [MIT]
-* [json-parser](https://github.com/udp/json-parser) -用可移植的ANSI C编写的占用空间非常小的JSON解析器.[BSD]
+* [json-parser](https://github.com/udp/json-parser) -用可移植ANSI C编写的占用空间非常小的JSON解析器.
 * [json11](https://github.com/dropbox/json11)  -适用于C ++ 11的小型JSON库.  [MIT]
 * [json-voorhees](https://github.com/tgockel/json-voorhees)  -C ++的JSON库.  支持C ++ 11.  没有依赖关系，快速且对开发人员友好.  [Apache2的]
 * [jute](https://github.com/amir-s/jute)  -非常简单的C ++ JSON解析器.  [公共区域]
 * [libjson](https://github.com/vincenthz/libjson)  -C中的JSON解析器和打印机库，易于与任何模型集成.  [LGPL]
 * [libjson](http://sourceforge.net/projects/libjson/)  -轻量级JSON库.  [？]
 * [LIBUCL](https://github.com/vstakhov/libucl) ：zap：-通用配置库解析器[BSD-2-Clause]
-* [parson](https://github.com/kgabis/parson) -帕森（Parson）是用C语言编写的轻量级json库.
+* [parson](https://github.com/kgabis/parson) - Parson is a lighweight json library written in C. [MIT]
 * [PicoJSON](https://github.com/kazuho/picojson)  -C ++中仅标头文件的JSON解析器序列化器.  [BSD]
 * [qt-json](https://github.com/gaudecker/qt-json)  -一个简单的类，用于将JSON数据解析为QVariant层次结构，反之亦然.  [GPLv3的]
 * [QJson](https://github.com/flavio/qjson)  -一个基于qt的库，它将JSON数据映射到QVariant对象.  [LGPL2]
@@ -545,7 +545,7 @@
 * [SymEngine](https://github.com/symengine/symengine)  -快速的符号操作库，用C ++重写了SymPy的核心.  [MIT]
 * [TinyExpr](https://github.com/codeplea/tinyexpr)  -AC库，用于解析和评估字符串中的数学表达式.  [ZLIB]
 * [Vc](https://github.com/VcDevel/Vc)  -C ++的SIMD矢量类.  [BSD]
-* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，投影，保形，时空等.
+* [Versor](http://versor.mat.ucsb.edu/) -一个用于几何代数的（快速）通用C ++库，包括欧几里得，射影，保形，时空等.
 * [Wykobi](http://www.wykobi.com/)  -高效，强大且易于使用的面向C ++ 2D / 3D的计算几何例程的C ++库.  [MIT]
 * [xtensor](https://github.com/QuantStack/xtensor)  -受NumPy语法启发的C ++ 14库，用于使用多维数组表达式进行数值分析.  [BSD 3句] [website](http://quantstack.net/xtensor)
 
@@ -657,7 +657,7 @@
 * [clReflect](https://bitbucket.org/dwilliamson/clreflect)  -使用clang进行C ++反射.  [MIT]
 * [CPFG](https://github.com/cpgf/cpgf)  -一个C ++ 03库，用于反射，回调和脚本绑定.  [Apache2的] [website](http://www.cpgf.org/)
 * [CPP-Reflection](https://github.com/AustinBrunkhorst/CPP-Reflection)  -使用clang进行C ++反射.  [MIT]
-* [Magic Enum](https://github.com/Neargye/magic_enum)  -仅标头的C ++ 17库为枚举（到字符串，从字符串，迭代）提供枚举的静态反射，可与任何枚举类型一起使用，而无需任何宏或样板代码.  [MIT]
+* [Magic Enum](https://github.com/Neargye/magic_enum)  -仅标头的C ++ 17库为枚举（到字符串，从字符串，迭代）提供了枚举的静态反射，可与任何枚举类型一起使用，而无需任何宏或样板代码.  [MIT]
 * [magic_get](https://github.com/apolukhin/magic_get)  -std :: tuple类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  -C ++中的仅标头，非侵入性且无宏的运行时反射系统.  [MIT]
 * [Nameof](https://github.com/Neargye/nameof)  -仅标头的C ++ 17库提供了nameof宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [MIT]
@@ -725,6 +725,7 @@
 
 * [Bitsery](https://github.com/fraillt/bitsery)  -仅标头的C ++二进制序列化库.  [MIT] 
 * [Bond](https://github.com/Microsoft/bond)  -用于处理模式化数据的开源，跨平台框架.  [MIT]
+* [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html)  -Boost序列化库.  [促进]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [MIT] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal)  -一个用于序列化的C ++ 11库.  [BSD]
 * [cppcodec](https://github.com/tplgy/cppcodec)  -仅标头的C ++ 11库，以一致，灵活的API编码/解码base64，base32和hex.  [MIT]
@@ -795,7 +796,7 @@
 
 * [access_profiler](https://github.com/arvidn/access_profiler)  -一种用于计算对c ++程序中成员变量的访问的工具.  [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/)  aka afl-fuzz-疯狂的模糊测试工具，可以在给定时间和最少示例输入的情况下自动发现错误.  [Apache2的]
-* [Better String](http://bstring.sourceforge.net)  -C字符串库的替代方法，它的功能更强大，并且没有缓冲区溢出超限问题.  还包括一个C ++包装器.  [BSD，GPL2]
+* [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
 * [Boost.Signals](http://www.boost.org/doc/libs/1_56_0/doc/html/signals.html)  -托管信号和时隙系统的实现.  [促进]
 * [CPPItertools](https://github.com/ryanhaining/cppitertools)  -受Python内置函数和itertools库启发的基于范围的for循环插件.  [BSD-2-第]
 * [DynaMix](https://github.com/iboB/dynamix)  -一个允许您在运行时组成和修改对象的库.  [MIT]
@@ -1081,7 +1082,7 @@
 * [nothings/single_file_libs](https://github.com/nothings/single_file_libs) ：zap：-单文件C / C ++库的列表.
 
 ## Contributing
-请快速浏览一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
+请快速浏览一下 [contribution guidelines](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) 有关详细信息.
 谢谢大家 [contributors](https://github.com/fffaraz/awesome-cpp/graphs/contributors) ;  你摇滚！
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*

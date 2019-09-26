@@ -204,7 +204,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
-- [Redux](https://github.com/brillout/awesome-redux#readme) -JavaScript应用的状态容器.
+- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) -模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) -模块捆绑器.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) -CSS预处理器.
@@ -341,6 +341,7 @@
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) -游戏引擎.
 - [Minecraft](https://github.com/bs-community/awesome-minecraft#readme) -沙盒视频游戏.
 - [Game Datasets](https://github.com/leomaurodesenv/game-datasets#readme) -游戏中人工智能的材料和数据集.
+- [Haxe Game Development](https://github.com/Dvergar/awesome-haxe-gamedev#readme) -用于生成跨平台本机代码的高级强类型编程语言.
 - [libGDX](https://github.com/rafaskb/awesome-libgdx#readme) -Java游戏框架.
 
 
@@ -398,7 +399,7 @@
 
 - [Creative Commons Media](https://github.com/shime/creative-commons-media#readme)
 - [Fonts](https://github.com/brabadu/awesome-fonts#readme)
-- [Codeface](https://github.com/chrissimpkins/codeface#readme) - Text editor fonts.
+- [Codeface](https://github.com/chrissimpkins/codeface#readme) -文本编辑器字体.
 - [Stock Resources](https://github.com/neutraltone/awesome-stock-resources#readme)
 - [GIF](https://github.com/davisonio/awesome-gif#readme) -以动画图像闻名的图像格式.
 - [Music](https://github.com/ciconia/awesome-music#readme)

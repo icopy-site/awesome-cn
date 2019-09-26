@@ -95,7 +95,7 @@ Cryptocurrencies
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  -Common Lisp工具箱，可与Monero加密货币一起使用.  [GPL3] [2].  不在Quicklisp中.
 * [emotiq](https://github.com/emotiq/emotiq)  -下一代区块链，采用创新的自然语言方法处理智能合约.  [MIT] [200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  -解析文件中包含的区块链并将其某些数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp中.
-* [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  -该程序使您有可能在10分钟，24小时，31天，90天和1年内生成POS或POW块，并可以获得预期的奖励.  Qt中的GUI.  [GPL3] [2].  不在Quicklisp中.
+* [peercoin-calculator](https://github.com/glv2/peercoin-calculator) - This program gives you the probability of generating a POS or POW block within 10 minutes, 24 hours, 31 days, 90 days and 1 year, as well as the reward that can be expected. GUI in Qt. [GPL3][2]. Not in Quicklisp.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)  -基于来自区块链的数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp中.
 
 Database
@@ -139,7 +139,7 @@ Wrappers
 Tools
 -----
 
-* [pgloader](https://github.com/dimitri/pgloader)  -PostgreSQL的数据加载工具.  [PostgreSQL许可证] [205].
+* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
 
 
 Data Structures
@@ -222,7 +222,7 @@ Graphics
 * [cl-sdl2](https://github.com/lispgames/cl-sdl2)  -使用C2FFI绑定SDL2.  [外籍] [14].
 * [cl-svg](https://github.com/wmannis/cl-svg)  -用于生成SVG文件的基本库.  [外籍] [14].
 * [CLinch](https://github.com/BradWBeer/CLinch)  -用于OpenGL的通用Lisp 2D / 3D图形引擎.  [FreeBSD的] [39].
-* [donuts](https://github.com/tkych/donuts)  -绘制用于Common Lisp的DSL的图形.  [外籍] [14].
+* [donuts](https://github.com/tkych/donuts)  -绘制Common Lisp的DSL图形.  [外籍] [14].
 * [dufy](https://github.com/privet-kitty/dufy)  -在各种颜色模型中进行精确的颜色处理和转换.  [MIT] [200].
 * [lispbuilder-sdl](https://github.com/lispbuilder/lispbuilder)  -一组SDL绑定.  [外籍] [14].
 * [lisp-magick-wand](https://github.com/TBRSS/lisp-magick-wand)  -ImageMagick绑定.  [BSD] [15].  不在Quicklisp中.
@@ -297,6 +297,7 @@ YAML
 * [cl21](https://github.com/cl21/cl21)  -将Common Lisp迁移到21世纪的实验项目.  [外籍] [14].
 *：星级： [alexandria](https://common-lisp.net/project/alexandria/)  -通用实用程序库.  公共区域.
 * [serapeum](https://github.com/TBRSS/serapeum/)  -另一个通用实用程序库.  [外籍] [14].
+* [https://github.com/CodyReichert/awesome-cl/blob/master/rutils](https://github.com/CodyReichert/awesome-cl/blob/master/rutils)  -Common Lisp的基本但合理的语法实用程序.  [MIT] [200].
 * [anaphora](https://common-lisp.net/project/anaphora/)  -照应宏的集合.  公共区域.
 *：星级： [optima](https://github.com/m2ym/optima)  -优化的模式匹配库.  [LLGPL] [8].
 * [str](https://github.com/vindarel/cl-str)  -一个现代，简单且一致的字符串操作库.  [MIT] [200].
@@ -360,7 +361,7 @@ Lambda速记
 * [cl-punch](https://github.com/windymelt/cl-punch/)  -类似于Scala的匿名Lambda文字.  `（mapcar ^（* 2 _）&#39;（1 2 3 4 5））`.  [MIT] [200].
 
 
-另请参阅CL21和Rutils.
+另请参阅CL21和[Rutils] [rutils].
 
 
 
@@ -372,8 +373,8 @@ Lambda速记
   Lisp具有Prolog和Prolog的几乎所有功能
   约束逻辑编程
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
-   解决欧拉计划难题.  [MIT] [200].
-* [Screamer+](https://github.com/yakovzaytsev/screamer-plus) - increasing the expressiveness of SCREAMER. [MIT][200].
+  solving Project Euler puzzles. [MIT][200].
+* [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  -提高SCREAMER的表现力.  [MIT] [200].
 * [Temperance](https://sjl.bitbucket.io/temperance/)  -逻辑编程.  [MIT] [200].  注重性能，同时考虑一般游戏.
 
 反应式编程
@@ -434,7 +435,7 @@ Reference
 * [Common Lisp Standard Draft (pdf)](https://franz.com/support/documentation/cl-ansi-standard-draft-w-sidebar.pdf) -Common Lisp规范的标准草案，格式正确且带有侧边栏的PDF.
 * [Common Lisp the Language](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) -ANSI规范之前的Common Lisp的原始标准.
 * [Minispec](https://lamberta.github.io/minispec/)  -一个更友好但不完整的CLHS版本.  还包含一些常用CL库的文档（例如Alexandria）.
-* [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) - The simplified version of CLHS.
+* [Simplified Common Lisp reference](http://jtra.cz/stuff/lisp/sclr/index.html) -CLHS的简化版本.
 * [Quickdocs](http://quickdocs.org/) -Quicklisp提供的库的参考.
 
 ## Offline ##
@@ -573,7 +574,7 @@ Web框架
 
 解析HTML
 ------------
-* 👍 [Plump][71] - A lenient HTML/XML parser, tolerant on malformed markup. [Artistic License 2.0][51]. Best used with [lquery][72] and [clss](https://github.com/Shinmera/CLSS).
+ * [Plump] [71]-宽大的HTML / XML解析器，可以容忍格式错误的标记.  [Artistic License 2.0] [51].  最好与[lquery] [72]和 [clss](https://github.com/Shinmera/CLSS).
 
 查询HTML / DOM
 -----------------
@@ -665,7 +666,7 @@ Monitoring
 * [prometheus.cl](https://github.com/deadtrickster/prometheus.cl)  -Prometheus.io客户端.  Grafana仪表板，用于SBCL和Hunchentoot指标（内存，线程，每秒请求数……）.  [MIT] [200].
 
 
-Third-party APIs
+第三方API
 ----------------
 
 * [Aws-sign4](https://github.com/rotatef/aws-sign4) -用于Amazon Web Services签名版本4的通用Lisp库.[GNU GPL3] [2].
@@ -694,7 +695,7 @@ Others
 * [css-lite](https://github.com/paddymul/css-lite)  -CSS语法.  [外籍] [14].
 * [find-port](https://github.com/eudoxia0/find-port)  -以编程方式找到开放端口.  [MIT] [200].
 * [cl-forms](https://github.com/mmontone/cl-forms)  -Common Lisp的Web表单处理库.  [MIT] [200].
-* [Postmaster](https://github.com/eudoxia0/postmaster)  -一个简单易用的SMTP / IMAP库.  [外籍] [14].
+* [Postmaster](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [cl-selenium-webdriver](https://github.com/TatriX/cl-selenium-webdriver/) -Selenium 2.0的绑定库.
 
 数值科学
@@ -758,7 +759,7 @@ Others
 作业处理
 --------------
 
-* [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
+* [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受到Ruby的Sidekiq的启发，并与其Web UI兼容.  [LLGPL] [8].
 * [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
 
 Regex
@@ -863,7 +864,7 @@ Lisp版本的“ Hello World！”的可执行文件！
 
 ## REPLs ##
 
-* [cl-repl](https://github.com/koji-kojiro/cl-repl)  -类似于ipython的REPL.  完成后，将执行shell命令，魔术命令，调试器等.[MIT] [200].  同 [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
+* [cl-repl](https://github.com/koji-kojiro/cl-repl) - an ipython-like REPL. With completion, shell commands, magic commands, debugger, etc. [MIT][200]. With [colorthemes](https://github.com/koji-kojiro/lem-pygments-colorthemes).
 
 文字处理
 ===============
@@ -1103,7 +1104,7 @@ Contributing
 -根据我们的经验和状态进行一些策划
    图书馆的文件.  我们*不*旨在列出所有现有
   CL库（请参阅Quickdocs或Cliki）或列出每个库
-  "popular" library (see Quicklisp stats).
+  “热门”库（请参阅Quicklisp统计信息）.
 -因此，我们最喜欢的库都标有（`1F44D`
    unicode字符）.  另请参阅
   介绍.
@@ -1144,3 +1145,5 @@ Contributing
 [207]: https://opensource.org/licenses/bsd-license.php
 [208]:https://www.gnu.org/licenses/old-licenses/gpl-2.0.html
 [209]: http://www.eclipse.org/legal/epl-v10.html
+
+[rutils]：https：//github.com/vseloved/rutils）
