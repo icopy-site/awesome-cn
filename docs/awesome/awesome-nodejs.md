@@ -119,7 +119,7 @@
 - [gtop](https://github.com/aksakalli/gtop) -终端的系统监控仪表板.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成主题.
 - [carbon-now-cli](https://github.com/mixn/carbon-now-cli) -代码的精美图片-从终端内部直接显示.
-- [cash-cli](https://github.com/xxczaki/cash-cli) -在170种货币之间转换.
+- [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) -命令行栖息地的任务，公告板和注释.
 - [discharge](https://github.com/brandonweiss/discharge) -轻松地将静态网站部署到Amazon S3.
 
@@ -165,12 +165,13 @@
 - [njsTrace](https://github.com/valyouw/njstrace) -检测并跟踪代码，查看所有函数调用，参数，返回值以及每个函数所花费的时间.
 - [vstream](https://github.com/joyent/node-vstream) -可仪表化的流混入以检查流的管道.
 - [stackman](https://github.com/watson/stackman) -使用代码摘录和其他优点增强了错误堆栈跟踪.
-- [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
+- [locus](https://github.com/alidavut/locus) -在运行时启动可以访问所有变量的REPL.
 - [0x](https://github.com/davidmarkclements/0x) -火焰图分析.
 - [ctrace](https://github.com/automation-stack/ctrace) -格式正确且经过改进的跟踪系统调用和信号.
 - [leakage](https://github.com/andywer/leakage) -编写内存泄漏测试.
 - [llnode](https://github.com/nodejs/llnode) -事后分析工具，可让您检查对象并从崩溃的Node.js进程中获取见解.
 - [thetool](https://github.com/sfninja/thetool) -以Chrome DevTools友好格式为您的应用捕获不同的CPU，内存和其他配置文件.
+- [swagger-stats](https://github.com/slanatech/swagger-stats) -跟踪API调用并监视API性能，运行状况和使用情况指标.
 
 
 ### Logging
@@ -193,7 +194,7 @@
 - [Ink](https://github.com/vadimdemedes/ink) -对交互式命令行应用程序做出反应.
 - [listr](https://github.com/samverschueren/listr) -终端任务列表.
 - [conf](https://github.com/sindresorhus/conf) -为您的应用或模块进行简单的配置处理.
-- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) -用于操作终端的ANSI转义码.
+- [ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
 - [log-symbols](https://github.com/sindresorhus/log-symbols) -各种日志级别的彩色符号.
 - [figures](https://github.com/sindresorhus/figures) -具有Windows CMD后备功能的Unicode符号.
 - [boxen](https://github.com/sindresorhus/boxen) -在终端中创建方框.
@@ -215,7 +216,7 @@
 - [columnify](https://github.com/timoxley/columnify)  -创建适合控制台输出的基于文本的列.  支持单元包装.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) -分栏的unicode和ansi安全文本列表.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) -控制台的性感ASCII字体.
-- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行的，可单独控制的CLI微调器.
+- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行且可单独控制的CLI微调器.
 - [omelette](https://github.com/f/omelette) -Shell自动补全助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) -跨平台设置环境变量.
 - [shelljs](https://github.com/shelljs/shelljs) -可移植的Unix shell命令.
@@ -332,7 +333,7 @@
 	- [valvelet](https://github.com/lpinca/valvelet) -限制承诺返回功能的执行率.
 	- [p-map](https://github.com/sindresorhus/p-map) -同时兑现承诺.
 	- [More…](https://github.com/sindresorhus/promise-fun)
-- Observables
+-可观察
 	- [zen-observable](https://github.com/zenparsing/zen-observable) -观测成果的实施.
 	- [RxJS](https://github.com/ReactiveX/RxJS) -反应式编程.
 	- [observable-to-promise](https://github.com/sindresorhus/awesome-observables) -将一个可观察者转换为一个承诺.
@@ -408,6 +409,7 @@
 - [matcher](https://github.com/sindresorhus/matcher) -简单的通配符匹配.
 - [unhomoglyph](https://github.com/nodeca/unhomoglyph) -规范外观相似的unicode字符.
 - [i18next](https://github.com/i18next/i18next) -国际化框架.
+- [nanoid](https://github.com/ai/nanoid) -微型，安全，URL友好的唯一字符串ID生成器.
 
 
 ### Number
@@ -423,7 +425,7 @@
 - [ndarray](https://github.com/scijs/ndarray) -多维数组.
 - [mathjs](https://github.com/josdejong/mathjs) -广泛的数学库.
 - [math-clamp](https://github.com/sindresorhus/math-clamp) -固定一个数字.
-- [algebra](https://github.com/fibo/algebra) -代数结构.
+- [algebra](https://github.com/fibo/algebra) - Algebraic structures.
 - [multimath](https://github.com/nodeca/multimath) -在WebAssembly和JS中创建快速图像数学的核心.
 
 
@@ -442,7 +444,7 @@
 
 - [normalize-url](https://github.com/sindresorhus/normalize-url) -规范化网址.
 - [humanize-url](https://github.com/sindresorhus/humanize-url) -人性化网址：http：//sindresorhus.com→sindresorhus.com.
-- [url-unshort](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
+- [url-unshort](https://github.com/nodeca/url-unshort) -展开缩短的网址.
 - [speakingurl](https://github.com/pid/speakingurl) -通过音译从字符串生成子段.
 - [linkify-it](https://github.com/markdown-it/linkify-it) -具有完整unicode支持的链接模式检测器.
 - [url-pattern](https://github.com/snd/url-pattern) -URL和其他字符串比正则表达式字符串匹配模式更容易.
@@ -492,7 +494,7 @@
 - [pretty-ms](https://github.com/sindresorhus/pretty-ms) -将毫秒转换为人类可读的字符串：“ 1337000000”→“ 15d 11h 23m 20s”.
 - [ms](https://github.com/rauchg/ms.js) -微小的毫秒转换工具.
 - [pretty-error](https://github.com/AriaMinaei/pretty-error) -错误更少.
-- [read-art](https://github.com/Tjatse/node-readability) -从任何页面提取可读内容.
+- [read-art](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 
 ### Compression
@@ -532,7 +534,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) - PostgreSQL framework for native SQL using promises.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -603,7 +605,7 @@
 
 - [Passport](https://github.com/jaredhanson/passport) -简单，轻松的身份验证.
 - [Grant](https://github.com/simov/grant) -适用于Express，Koa和Hapi的OAuth中间件.
-- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
+- [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) -用于社交身份验证的统一API（Facebook，Twitter，Slack，Instagram等）.
 
 
 ### Authorization
@@ -711,7 +713,7 @@
 - [superheroes](https://github.com/sindresorhus/superheroes) -获取超级英雄的名字.
 - [supervillains](https://github.com/sindresorhus/supervillains) -获取超级恶名.
 - [cool-ascii-faces](https://github.com/maxogden/cool-ascii-faces) -得到一些很酷的ascii面孔.
-- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) -`₍˄·͈·͈˄₎◞（=ↀωↀ=）✧（^ ･ o ･ ^）ﾉ”`.
+- [cat-ascii-faces](https://github.com/melaniecebula/cat-ascii-faces) - `₍˄·͈༝·͈˄₎◞ ̑̑ෆ⃛ (=ↀωↀ=)✧ (^･o･^)ﾉ”`.
 - [nerds](https://github.com/SkyHacks/nerds) -从诸如哈利·波特，星球大战和神奇宝贝等讨厌的话题中获取数据.
 
 
@@ -774,7 +776,7 @@
 - [The Node Way](http://thenodeway.io) -存在用于编写可维护模块，可伸缩应用程序和易于阅读的代码的Node.js最佳实践和指导原则的全部哲学.
 - [You Don't Know Node.js](https://github.com/azat-co/you-dont-know-node) -Node.js核心功能和异步JavaScript简介.
 - [Portable Node.js guide](https://github.com/ehmicky/portable-node-guide) -有关如何编写可移植/跨平台Node.js代码的实用指南.
-- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/实时流，可帮助您使用一些简单的库和核心的Node.js模块来构建和部署真正的实时Web应用程序.
+- [Build a real web app with no frameworks](https://frameworkless.js.org/course) -一组视频教程/直播，可帮助您使用少量简单的库和核心Node.js模块来构建和部署真实的实时Web应用程序.
 
 ### Discovery
 
@@ -864,6 +866,7 @@
 
 - [nodebots](http://nodebots.io) -由JavaScript驱动的机器人.
 - [node-module-boilerplate](https://github.com/sindresorhus/node-module-boilerplate) -开始创建节点模块的样板.
+- [modern-node](https://github.com/sheerun/modern-node) -使用Jest，Prettier，ESLint和Standard创建节点模块的工具包.
 - [generator-nm](https://github.com/sindresorhus/generator-nm) -搭建节点模块.
 - [Microsoft Node.js Guidelines](https://github.com/Microsoft/nodejs-guidelines) -在Microsoft平台上使用Node.js的提示，技巧和资源.
 - [Module Requests & Ideas](https://github.com/sindresorhus/module-requests) -请求您希望存在的JavaScript模块或获取有关模块的想法.

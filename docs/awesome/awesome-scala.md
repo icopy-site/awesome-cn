@@ -4,7 +4,7 @@
 很棒的Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
- 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  灵感来自 [awesome-python](https://github.com/vinta/awesome-python) .  其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+ 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  受启发 [awesome-python](https://github.com/vinta/awesome-python) .  其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
 
 还很棒 [Scaladex](https://index.scala-lang.org/)，Scala库的可搜索，标记和集中索引.
 
@@ -86,7 +86,7 @@
 * [Reactive ★ 194 ⧗ 6](https://github.com/nafg/reactive) -FRP和Web抽象，可以插入任何Web框架（当前仅具有Lift的绑定）.
 * **[scalajs-react ★ 1135 ⧗ 0](https://github.com/japgolly/scalajs-react)**-Facebook在Scala.JS上的React.
 * **[Scalatra ★ 2146 ⧗ 0](https://github.com/scalatra/scalatra)**-受Sinatra启发的Tiny Scala高性能，异步Web框架.
-* **[Skinny Framework ★ 621 ⧗ 1](https://github.com/skinny-framework/skinny-framework)**-Scalatra上的全栈Web应用程序框架，可在Scala中快速开发.
+* **[Skinny Framework ★ 621 ⧗ 1](https://github.com/skinny-framework/skinny-framework)**-Scalatra上的全栈Web应用程序框架，可在Scala中进行快速开发.
 * [suzaku](https://github.com/suzaku-io/suzaku) -用于Scala的Suzaku Web UI框架
 * **[Unfiltered ★ 673 ⧗ 6](https://github.com/unfiltered/unfiltered)**-一组模块化的非标准原语，用于为Scala中的HTTP和WebSocket请求提供服务.
 * [Xitrum](http://xitrum-framework.github.io/) -在Netty，Akka和Hazelcast之上的异步集群Scala Web框架和HTTP（S）服务器融合.
@@ -120,13 +120,13 @@
 
 ## Authentication
 
-*用于实施认证计划的图书馆.*
+*用于实施身份验证方案的库.*
 
 * [akka-http-session ★ 268 ⧗ 11](https://github.com/softwaremill/akka-http-session) -基于Akka-http的应用程序的Web和移动客户端会话，具有可选的JWT支持
 * [AWS Request Signer ★ 4 ⧗ 43](https://github.com/ticofab/aws-request-signer) -帮助程序评估对Amazon Web Services的HTTP请求的签名标头.
 * [OAuth2-mock-play ★ 16 ⧗ 23](https://github.com/zalando/OAuth2-mock-play) -实施OAuth2服务器，该服务器设计用于模拟/测试并可以通过环境变量进行配置（通过使用Typesafe配置）.
 * [Play Google Auth Module ★ 17 ⧗ 76](https://github.com/guardian/play-googleauth) -适用于Play 2应用程序的Google OpenID Connect身份验证的非常简单的实现.
-* [play-pac4j ★ 255 ⧗ 0](https://github.com/pac4j/play-pac4j) - Security library managing authentication (CAS, OAuth, OpenID, SAML, LDAP, SQL, JWT...), authorizations and logout for Play 2.x in Java and Scala.
+* [play-pac4j ★ 255 ⧗ 0](https://github.com/pac4j/play-pac4j) -安全库，用于管理Java和Scala中Play 2.x的身份验证（CAS，OAuth，OpenID，SAML，LDAP，SQL，JWT ...），授权和注销.
 * **[play-silhouette ★ 600 ⧗ 1](https://github.com/mohiva/play-silhouette)**-Play Framework应用程序的身份验证库，它支持几种身份验证方法，包括OAuth1，OAuth2，OpenID，凭据或自定义身份验证方案.
 * **[play2-auth ★ 617 ⧗ 4](https://github.com/t2v/play2-auth)**-Play2.x身份验证和授权模块.
 * [scala-oauth2-provider ★ 419 ⧗ 7](https://github.com/nulab/scala-oauth2-provider) -用Scala编写的OAuth 2.0服务器端实现.
@@ -171,7 +171,7 @@
 * [argonaut](http://argonaut.io/) -Scala中的纯功能JSON.
 * **[circe ★ 824 ⧗ 2](https://github.com/travisbrown/circe)**-基于Argonaut的JSON库，取决于Cats
 * [diffson ★ 94 ⧗ 14](https://github.com/gnieh/diffson) -Json的Scala差异/补丁库
-* [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) - Add-on module for Jackson to support Scala-specific datatypes.
+* [jackson-module-scala ★ 313 ⧗ 8](https://github.com/FasterXML/jackson-module-scala) -用于Jackson的附加模块，以支持特定于Scala的数据类型.
 * [jawn ★ 252 ⧗ 4](https://github.com/non/jawn) -快速json解析器（据他们说，与Java gson / jackson速度相当）.
 * **[json4s ★ 877 ⧗ 0](https://github.com/json4s/json4s)**-Project的目的是提供一个可供其他scala json库使用的AST.
 * [jsoniter-scala ★ 47 ⧗ 7](https://github.com/plokhotnyuk/jsoniter-scala) -Scala宏，用于在编译时生成超快速J​​SON编解码器.
@@ -221,13 +221,13 @@
 
 *用于科学计算，数据分析和数值处理的图书馆.
 
-* **[Algebird ★ 1478 ⧗ 0](https://github.com/twitter/algebird)**-Scala的抽象代数.
+* **[Algebird ★ 1478 ⧗ 0](https://github.com/twitter/algebird)** - Abstract Algebra for Scala.
 * [Axle ★ 51 ⧗ 9](https://github.com/axlelang/axle) -用于科学云计算的基于Spire的DSL.
 * **[BigDL ★ 1662 ⧗ 0](https://github.com/intel-analytics/BigDL)**-BigDL是Apache Spark的分布式深度学习库.
 * **[Breeze ★ 2028 ⧗ 0](https://github.com/scalanlp/breeze)**-Breeze是Scala的数值处理库.
 * [Chalk ★ 231 ⧗ 6](https://github.com/scalanlp/chalk) -Chalk是自然语言处理库.
 * [Clustering4Ever ★ 50](https://github.com/Clustering4Ever/Clustering4Ever) Scala和Spark API可对您可以生成的任何矢量化进行基准测试和分析聚类算法
-* [doddle-model](https://github.com/picnicml/doddle-model)   - 基于Breeze构建的内存机器学习库.  它提供了不可变对象，并通过类似scikit-learn的API公开其功能.
+* [doddle-model](https://github.com/picnicml/doddle-model)  -建立在Breeze之上的内存中机器学习库.  它提供了不可变的对象，并通过类似于scikit-learn的API公开了其功能.
 * [FACTORIE ★ 486 ⧗ 7](https://github.com/factorie/factorie) -用于可部署概率建模的工具包，在Scala中作为软件库实现.
 * [Figaro ★ 461 ⧗ 0](https://github.com/p2t2/figaro) -Figaro是一种概率编程语言，支持开发非常丰富的概率模型.
 * [Libra ★ 142](https://github.com/to-ithaca/libra)  -Libra是基于无形，尖顶和单例运算的尺寸分析库.  它包含对所有数字类型的SI单位的开箱即用支持.
@@ -243,7 +243,7 @@
 * **[PredictionIO ★ 10105 ⧗ 0](https://github.com/PredictionIO/PredictionIO) **-适用于开发人员和数据科学家的机器学习服务器.  基于Apache Spark，HBase和Spray构建
 * [Rings ★ 3 ⧗ 0](https://github.com/PoslavskySV/rings)  -高效的多项式环库.  交换代数，多项式GCD，多项式因式分解和其他科学事物，速度非常快.
 * [Saddle ★ 428 ⧗ 2](https://github.com/saddle/saddle) -熊猫到斯卡拉的极简港口
-* [Smile](http://haifengl.github.io/smile/)   - 统计机器智能和学习引擎.  Smile是一个快速而全面的机器学习系统.
+* [Smile](http://haifengl.github.io/smile/)  -统计机器智能和学习引擎.  Smile是一个快速而全面的机器学习系统.
 * **[Spark Notebook ★ 1896 ⧗ 0](https://github.com/andypetrella/spark-notebook)**-可扩展且稳定的Scala和Spark专注于笔记本，弥合了JVM和数据科学家之间的鸿沟（包括可扩展，类型安全和响应式图表）.
 * **[Spire ★ 1152 ⧗ 3](https://github.com/non/spire)**-强大的Scala新数字类型和数字抽象.
 * [Squants ★ 388 ⧗ 1](https://github.com/garyKeorkunian/squants) -用于数量，度量单位和维度分析的Scala API.
@@ -265,7 +265,7 @@
 * [Schemer](https://github.com/indix/schemer)  -CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) -用于的Scala API [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
 * [Scrunch](http://crunch.apache.org/scrunch.html) -用于的Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了用于编写，测试和运行MapReduce管道的框架.
-* [Spark](http://spark.apache.org/)  -闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
+* [Spark](http://spark.apache.org/)  闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
@@ -345,7 +345,7 @@
 * [Each ★ 146 ⧗ 0](https://github.com/ThoughtWorksInc/each) -将本机命令式语法转换为 [Scalaz](https://github.com/scalaz/scalaz)的单子表达式.
 * [Eff ★ 220 ⧗ 6](https://github.com/atnos-org/eff) -可扩展效果是monad变形器的替代方案，用于以功能方式计算效果.
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
-* [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum)  -用密封的案例对象族替换Scala枚举的宏.  这允许对编译器进行其他检查，例如在match语句中是否缺少大小写.  对Json库和Play框架具有附加支持.
+* [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松创建Cats和Scalaz免费Monad的简便方法.
 * [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -一个实现可组合副作用的库，在包装类型和自由monad上编织类型类.
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) -以FP为中心的Scala库的内聚和实用框架.
@@ -374,7 +374,7 @@
 * **[Shapeless ★ 2002 ⧗ 0](https://github.com/milessabin/shapeless)**-Scala的基于类型类和依赖类型的通用编程库.
 * [Simulacrum ★ 484 ⧗ 2](https://github.com/mpilquist/simulacrum) -Scala中对类型类的一流语法支持.
 * [Stateless Future ★ 165 ⧗ 35](https://github.com/qifun/stateless-future) -功能齐全的Scala语法的异步编程.
-* [tinylog ★ 198 ⧗ 0](https://github.com/pmwmedia/tinylog) -具有用于Scala的本机日志记录API的轻量级日志记录框架.
+* [tinylog ★ 198 ⧗ 0](https://github.com/pmwmedia/tinylog) -带有用于Scala的本机日志记录API的轻量级日志记录框架.
 * **[Twitter Util ★ 1809 ⧗ 1](https://github.com/twitter/util)**-通用Scala库，包括将来的实现和其他并发工具.
 * [wvlet-log ★ 43 ⧗ 13](https://github.com/wvlet/log) -一个用于通过颜色和源代码位置增强应用程序日志的库.
 
@@ -434,8 +434,8 @@
 * [RösHTTP ★ 79 ⧗ 9](https://github.com/hmil/RosHTTP)  -考虑到Scala.js的轻量级异步HTTP API.  支持JVM和Node.js运行时以及大多数浏览器.
 * **[scalaj-http ★ 580 ⧗ 0](https://github.com/scalaj/scalaj-http)**-HttpURLConnection的简单scala包装器（包括OAuth支持）.
 * [Scalaxb ★ 235 ⧗ 18](https://github.com/eed3si9n/scalaxb) -Scala的XML数据绑定工具，支持W3C XML架构（xsd）和Web服务描述语言（wsdl）作为输入文件.
-* [Spray](http://spray.io/) - Actor-based library for http interaction.
-* [sttp](https://github.com/softwaremill/sttp) - The Scala HTTP client you always wanted!
+* [Spray](http://spray.io/) -用于HTTP交互的基于Actor的库.
+* [sttp](https://github.com/softwaremill/sttp) -您一直想要的Scala HTTP客户端！
 * [Tubesocks ★ 12 ⧗ 174](https://github.com/softprops/tubesocks) -支持与Websocket服务器双向通信的库.
 * [requests-scala ★ 326](https://github.com/lihaoyi/requests-scala) -流行的Python Requests HTTP客户端的Scala端口：灵活，直观和易于使用.
 
@@ -472,25 +472,39 @@
 
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) -Scala编译器插件，可为模式和理解力提供应有的爱
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**-Scala库可从Maven / Ivy存储库中获取依赖项
+* [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typekecked降价文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) -一个Sbt插件，用于解析到常见Scala库的外部API链接.
-* [sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly)  -部署胖JAR.  重新启动进程.
+* **[sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly) **-部署胖JAR.  重新启动进程.
 * [sbt-buildinfo ★ 274 ⧗ 1](https://github.com/sbt/sbt-buildinfo) -从构建定义生成Scala源.
 * [sbt-classfinder ★ 3 ⧗ 39](https://github.com/ruippeixotog/sbt-classfinder) -检索有关项目中的类和特征的运行时信息.
+* [sbt-ci-release ★ 102 ⧗ 0](https://github.com/olafurpg/sbt-ci-release) -sbt插件，用于自动从Travis CI发布Sonatype版本
 * [sbt-dependency-check ★ 108 ⧗ 0](https://github.com/albuch/sbt-dependency-check)  -用于OWASP DependencyCheck的SBT插件.  监视您的依赖关系，并报告是否存在任何已知的漏洞（例如CVE）.
-* **[sbt-dependency-graph ★ 731 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)**-为您的项目创建一个依赖图.
+* **[sbt-dependency-graph ★ 731 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
 * [sbt-docker ★ 422 ⧗ 3](https://github.com/marcuslonnberg/sbt-docker) -直接从sbt创建Docker映像
 * [sbt-doctest ★ 148](https://github.com/tkawachi/sbt-doctest) -sbt插件，可从ScalaDoc中的示例生成测试.
 * [sbt-ensime ★ 197 ⧗ 11](https://github.com/ensime/ensime-sbt) -为SBT项目生成.ensime配置文件 [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
+* [sbt-ghpages ★ 87 ⧗ 118](https://github.com/sbt/sbt-ghpages) -sbt项目的git，site和ghpages支持.
 * [sbt-groll ★ 87 ⧗ 10](https://github.com/sbt/sbt-groll) -sbt插件可滚动Git历史记录.
 * [sbt-haxe ★ 9 ⧗ 274](https://github.com/qifun/sbt-haxe) -一个Sbt插件来编译Haxe源.
+* [sbt-header ★ 157 ⧗ 67](https://github.com/sbt/sbt-header) -用于创建文件头（例如版权头）的sbt插件
 * [sbt-ide-settings ★ 32 ⧗ 27](https://github.com/Jetbrains/sbt-ide-settings) -用于调整各种IDE设置的SBT插件
+* **[sbt-jmh ★ 627 ⧗ 66](https://github.com/ktoso/sbt-jmh) **-“不要相信任何人，请放好一切.”  -JMH（Java Microbenchmark Harness）的sbt插件
+* [sbt-microsites ★ 245 ⧗ 0](https://github.com/47deg/sbt-microsites) -一个sbt插件，可为您的项目创建很棒的微型网站 [https://47deg.github.io/sbt-microsites/](https://47deg.github.io/sbt-microsites/)
+* [sbt-mima-plugin ★ 247 ⧗ 0](https://github.com/lightbend/mima) -在Scala中捕获二进制不兼容的工具
 * **[sbt-native-packager ★ 811 ⧗ 3](https://github.com/sbt/sbt-native-packager)**-捆绑适用于本地包装系统的Scala软件，例如deb，rpm，homebrew，msi.
-* [sbt-pack ★ 284 ⧗ 7](https://github.com/xerial/sbt-pack) -一个用于创建可分发Scala软件包的sbt插件.
+* [sbt-pack ★ 284 ⧗ 7](https://github.com/xerial/sbt-pack) - A sbt plugin for creating distributable Scala packages.
 * [sbt-pantarhei ★ 3 ⧗ 0](https://github.com/kolov/sbt-pantarhei) -SBT插件，用于从GitHub中的拉取请求和git commit生成发行说明.
+* [sbt-pgp ★ 101 ⧗ 4](https://github.com/sbt/sbt-pgp) -sbt的PGP插件
 * **[sbt-revolver ★ 519 ⧗ 0](https://github.com/spray/sbt-revolver)**-sbt的分叉和停止过程.
+* **[sbt-release ★ 543 ⧗ 70](https://github.com/sbt/sbt-release)**-sbt的发布插件 
 * [sbt-robovm ★ 107 ⧗ 17](https://github.com/roboscala/sbt-robovm) -Scala中用于iOS开发的sbt插件
+* [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) -Scalafmt的sbt插件 [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) -一个sbt插件，可为Github上托管的Scala.js项目配置源映射
+* [sbt-scoverage ★ 470 ⧗ 68](https://github.com/scoverage/sbt-scoverage) -用于SBT的插件，集成了覆盖代码覆盖库.
+* [sbt-site ★ 159 ⧗ 122](https://github.com/scoverage/sbt-scoverage) -SBT网站生成 [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
+* [sbt-sonatype ★ 221 ⧗ 4](https://github.com/xerial/sbt-sonatype) -一个sbt插件，用于将Scala / Java项目发布到Maven中心.
 * [sbt-sublime ★ 145 ⧗ 38](https://github.com/orrsella/sbt-sublime) -使用库依赖源创建Sublime Text项目
+* [sbt-unidoc ★ 104 ⧗ 94](https://github.com/sbt/sbt-unidoc) -sbt插件可跨项目创建统一的API文档
 * [sbt-updates ★ 316 ⧗ 3](https://github.com/rtimush/sbt-updates) -显示sbt项目的依赖关系更新.
 * [sbt-versions ★ 14 ⧗ 167](https://github.com/sksamuel/sbt-versions) -用于检查项目依赖项更新版本的插件.
 * [sbt-view ★ 7 ⧗ 18](https://github.com/nestorpersist/sbt-view) -在浏览器窗口中查看ScalaDoc / JavaDoc.
@@ -543,7 +557,7 @@
 * https://www.beyondthelines.net/
 
 ### Company Blogs
-* [Functional Works / Learn](https://functional.works-hub.com/learn/) - Quality resources maintained by functional works
+* [Functional Works / Learn](https://functional.works-hub.com/learn/) -通过职能工程维护的优质资源
 * http://allaboutscala.com/
 * http://enear.github.io/
 * https://blog.knoldus.com/tag/scala/
@@ -646,4 +660,4 @@
 
 ## Contributing
 
- 永远欢迎您的贡献！  请提交拉取请求或创建问题以将新的框架，库或软件添加到列表中.  请勿提交过去6个月内未更新过的项目或不出色的项目.
+Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.

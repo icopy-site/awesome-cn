@@ -78,7 +78,8 @@
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -建立在Google Cloud Platform上的应用程式开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+- [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 
 
 ## Programming Languages
@@ -106,6 +107,7 @@
 	- [Asyncio](https://github.com/timofurrer/awesome-asyncio#readme) -Python 3中的异步I / O.
 	- [Scientific Audio](https://github.com/faroit/awesome-python-scientific-audio#readme) -音频/音乐科学研究.
 	- [CircuitPython](https://github.com/adafruit/awesome-circuitpython#readme) -用于微控制器的Python版本.
+	- [Data Science](https://github.com/krzjoa/awesome-python-data-science#readme) -数据分析和机器学习.
 - [Rust](https://github.com/rust-unofficial/awesome-rust#readme)
 - [Haskell](https://github.com/krispo/awesome-haskell#readme)
 - [PureScript](https://github.com/passy/awesome-purescript#readme)
@@ -204,7 +206,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) -应用框架.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Redux](https://github.com/brillout/awesome-redux#readme) -JavaScript应用的状态容器.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) -模块捆绑器.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) -模块捆绑器.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) -CSS预处理器.
@@ -335,7 +337,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) -游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) -游戏引擎.
-- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) -幻想游戏机.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) -幻想控制台.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) -游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) -游戏引擎.
@@ -407,7 +409,7 @@
 - [Audio Visualization](https://github.com/willianjusten/awesome-audio-visualization#readme)
 - [Broadcasting](https://github.com/ebu/awesome-broadcasting#readme)
 - [Pixel Art](https://github.com/Siilwyn/awesome-pixel-art#readme) -像素级数字艺术.
-- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
+- [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) -跨平台解决方案，用于记录，转换和流式传输音频和视频.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) -可下载的SVG / PNG /字体图标项目.
 
 
@@ -443,6 +445,7 @@
 - [Cybersecurity Blue Team](https://github.com/meitar/awesome-cybersecurity-blueteam#readme) -识别信息技术系统中的安全漏洞的个人团体.
 - [Fuzzing](https://github.com/cpuu/awesome-fuzzing#readme) -自动化的软件测试技术，涉及馈送伪随机生成的输入数据.
 - [Embedded and IoT Security](https://github.com/fkie-cad/awesome-embedded-and-iot-security#readme)
+- [GDPR](https://github.com/bakke92/awesome-gdpr#readme) -欧盟内所有个人的数据保护和隐私法规.
 
 
 
@@ -471,6 +474,7 @@
 - [Leading and Managing](https://github.com/LappleApple/awesome-leading-and-managing#readme) -领导人员并担任技术公司/环境的经理.
 - [Indie](https://github.com/mezod/awesome-indie#readme) -独立开发商业务.
 - [Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade#readme) -公司在Hacker News上使用的工具.
+- [Clean Tech](https://github.com/nglgzz/awesome-clean-tech#readme) -用技术应对气候变化.
 
 
 ## Work
@@ -622,12 +626,14 @@
 - [Software Architecture](https://github.com/simskij/awesome-software-architecture#readme) -设计和构建软件的学科.
 - [Connectivity Data and Reports](https://github.com/stevesong/awesome-connectivity-info#readme) -更好地了解谁可以访问电信和互联网基础设施以及以什么条件使用.
 - [Stacks](https://github.com/stackshareio/awesome-stacks#readme) -用于构建不同应用程序和功能的技术堆栈.
+- [Cytodata](https://github.com/cytodata/awesome-cytodata#readme) -计算生物学家基于图像的生物学表型分析.
 - [IRC](https://github.com/davisonio/awesome-irc#readme) -开源消息传递协议.
+- [Advertising](https://github.com/cenoura/awesome-ads#readme) -网站的广告和程序媒体.
 
 
 ## Related
 
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 
 
