@@ -206,7 +206,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - A minimalistic weather card, inspired by Google Material Design.
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
 - [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
-- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添色彩.
+- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添趣味.
 - [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -通过Plex，Kodi，Radarr，Sonarr和Trakt等服务显示即将来临的剧集和电影.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
@@ -267,6 +267,7 @@ _由社区创建的Home Assistant的其他组件.
 - [Bed Presence Detection](https://selfhostedhome.com/diy-bed-presence-detection-home-assistant/) -基于ESP8266的就寝检测.
 - [NFC Scanner](https://github.com/klaasnicolaas/ha_nfc_scanner) -使用ESP8266，PN532和MQTT构建NFC标签/卡片扫描器.
 - [ESP32-Cam Facebox](https://www.dopebuild.com/i-am-sorry-dave-i-am-unable-to-do-that/) -将ESP32-CAM，HA和Facebox捆绑在一起，以获得廉价的Facial Recog /家庭监控解决方案.
+- [RaspiPool](https://github.com/segalion/raspipool) -具有成本效益，易于构建，易于使用的“游泳池自动化系统”.
 
 ## Online Resources
 
@@ -294,7 +295,6 @@ _坐下来，放松，观看和学习.
 - [JuanMTech](https://www.youtube.com/juanmtech) -易于遵循操作视频，产品评论等.
 - [vCloudInfo](https://www.youtube.com/vCloudInfo) -根据他的家和GitHub存储库发布视频.
 - [digiblurDIY](https://www.youtube.com/channel/UC5ZdPKE2ckcBhljTc2R_qNA) -有关硬件项目和Tasmota自动化的教程.
-- [Sognare](https://www.youtube.com/channel/UC3sknm_GUCDESM7EmVvkgzg)  -住船！  教程，讨论和访谈.
 - [Intermit.Tech](https://www.youtube.com/channel/UCv7UOhZ2XuPwm9SN5oJsCjA) -教程和评论：相机，家庭网络，ESP8266开发板，Node-RED.
 
 ### Podcasts

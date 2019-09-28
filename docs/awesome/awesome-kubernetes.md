@@ -262,6 +262,7 @@ Installers
 * [Kubernetes tips & tricks](http://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Running Flask on Kubernetes](https://testdriven.io/running-flask-on-kubernetes)
 * [Deploying Node Apps the "Right" Way](https://kubesail.com/blog/deploying-node-apps-the-right-way) 通过 [Dan Pastusek](https://twitter.com/pastudan)
+* [Simplify your research experiments with Kubernetes](https://www.ovh.com/blog/simplify-your-research-experiments-with-kubernetes/) 通过 [Parmentier Laurent](https://www.linkedin.com/in/laurent-parmentier-33187948/)
 
 在Kubernetes中管理
 =======================================================================
@@ -547,7 +548,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -910,7 +911,7 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
@@ -982,7 +983,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，如果您能充分利用其潜力，它对于品牌或企业而言是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -996,7 +997,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

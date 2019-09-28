@@ -16,7 +16,7 @@
 ## Community
 
 - [lit-html Twitter](https://twitter.com/lit_html)
-- [Slack Channel](https://join.slack.com/t/polymer/shared_invite/enQtNTAzNzg3NjU4ODM4LTkzZGVlOGIxMmNiMjMzZDM1YzYyMzdiYTk0YjQyOWZhZTMwN2RlNjM5ZDFmZjMxZWRjMWViMDA1MjNiYWFhZWM)
+- [Slack Channel](https://www.polymer-project.org/slack-invite)
 
 ## Overview
 
@@ -129,7 +129,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

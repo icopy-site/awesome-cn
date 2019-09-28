@@ -35,7 +35,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
  * [murmur3](https://github.com/kuende/murmur3) -Cassandra使用的Murmur3哈希算法的实现
  * [oak](https://github.com/obsidian/oak) -灵活的Radix Tree实现
- * [radix](https://github.com/luislavena/radix) -基数树实施
+ * [radix](https://github.com/luislavena/radix) -基数树实现
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) -三元搜索树
 
 ## Api Builders
@@ -358,8 +358,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) -本机BSON实施
- * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) -XMPP / Jabber库
+ * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
  * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) -具有版本1、2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) -快速IRC解析器/生成器

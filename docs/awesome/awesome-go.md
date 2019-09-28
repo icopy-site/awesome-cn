@@ -27,7 +27,7 @@
 * [flac](https://github.com/mewkiz/flac) -支持FLAC流的Native Go FLAC编码器/解码器.
 * [gaad](https://github.com/Comcast/gaad) -本地Go AAC比特流解析器.
 * [go-sox](https://github.com/krig/go-sox) -libsox绑定进行.
-* [go_mediainfo](https://github.com/zhulik/go_mediainfo) -go的libmediainfo绑定.
+* [go_mediainfo](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go.
 * [gosamplerate](https://github.com/dh1tw/gosamplerate) -libsamplerate绑定进行.
 * [id3v2](https://github.com/bogem/id3v2) -用于Go的快速，稳定的ID3解析和编写库.
 * [malgo](https://github.com/gen2brain/malgo) -迷你音频库.
@@ -82,7 +82,7 @@
 *用于构建和使用机器人的库.*
 
 * [go-chat-bot](https://github.com/go-chat-bot/bot) -用Go编写的IRC，Slack和Telegram机器人.
-* [go-sarah](https://github.com/oklahomer/go-sarah) - Framework to build bot for desired chat services including LINE, Slack, Gitter and more.
+* [go-sarah](https://github.com/oklahomer/go-sarah) -为所需的聊天服务（包括LINE，Slack，Gitter等）构建机器人的框架.
 * [go-tgbot](https://github.com/olebedev/go-tgbot) -从swagger文件，基于会话的路由器和中间件生成的纯Golang Telegram Bot API包装器.
 * [Golang CryptoTrading Bot](https://github.com/saniales/golang-crypto-trading-bot) -基于控制台的交易机器人的golang实现，用于进行加密货币交换.
 * [govkbot](https://github.com/nikepan/govkbot) -简单的去 [VK](https://vk.com) bot库.
@@ -270,7 +270,7 @@
 * [mafsa](https://github.com/smartystreets/mafsa) -具有最小完美哈希的MA-FSA实现.
 * [mspm](https://github.com/BlackRabbitt/mspm) -用于信息检索的多字符串模式匹配算法.
 * [null](https://github.com/emvi/null) -可与JSON编组/解组的Nullable Go类型.
-* [parsefields](https://github.com/MonaxGT/parsefields) -用于解析类似JSON的日志以收集唯一字段和事件的工具.
+* [parsefields](https://github.com/MonaxGT/parsefields) - Tools for parse JSON-like logs for collecting unique fields and events.
 * [pipeline](https://github.com/hyfather/pipeline) -具有扇入和扇出的管道实施.
 * [ptrie](https://github.com/viant/ptrie) -前缀树的实现.
 * [ring](https://github.com/TheTannerRyan/ring) -实施高性能，线程安全的布隆过滤器.
@@ -517,7 +517,7 @@
 * [hermes](https://github.com/matcornic/hermes) -Golang软件包，可生成干净的响应式HTML电子邮件.
 * [mailgun-go](https://github.com/mailgun/mailgun-go) -使用Mailgun API发送邮件的Go库.
 * [MailHog](https://github.com/mailhog/MailHog) -通过Web和API界面进行电子邮件和SMTP测试.
-* [SendGrid](https://github.com/sendgrid/sendgrid-go) -SendGrid的Go库，用于发送电子邮件.
+* [SendGrid](https://github.com/sendgrid/sendgrid-go) - SendGrid's Go library for sending email.
 * [smtp](https://github.com/mailhog/smtp) -SMTP服务器协议状态机.
 
 ## Embeddable Scripting Languages
@@ -720,7 +720,7 @@
 * [app](https://github.com/murlokswarm/app)  -打包以使用GO，HTML和CSS创建应用程序.  支持：MacOS，Windows正在开发中.
 * [fyne](https://github.com/fyne-io/fyne)  -专为Go设计的跨平台本机GUI，使用EFL呈现.  支持：Linux，macOS，Windows.
 * [go-astilectron](https://github.com/asticode/go-astilectron) -使用GO和HTML / JS / CSS（由Electron支持）构建跨平台的GUI应用程序.
-* [go-gtk](http://mattn.github.io/go-gtk/) - Go bindings for GTK.
+* [go-gtk](http://mattn.github.io/go-gtk/) -绑定GTK.
 * [go-sciter](https://github.com/sciter-sdk/go-sciter)  -用于Sciter的绑定：用于现代桌面UI开发的可嵌入HTML / CSS / script引擎.  跨平台.
 * [gotk3](https://github.com/gotk3/gotk3) -绑定GTK3.
 * [gowd](https://github.com/dtylman/gowd)  -使用GO，HTML，CSS和NW.js进行快速，简单的桌面UI开发.  跨平台.
@@ -754,6 +754,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [bild](https://github.com/anthonynsimon/bild) -在纯Go语言中收集图像处理算法.
 * [bimg](https://github.com/h2non/bimg) -小型包装，可使用libvips快速有效地进行图像处理.
 * [cameron](https://github.com/aofei/cameron) -Go的头像生成器.
+* [canvas](https://github.com/tdewolff/canvas) -将矢量图形转换为PDF，SVG或光栅图像.
 * [darkroom](https://github.com/gojek/darkroom) -具有可变存储后端的图像代理和注重速度和弹性的图像处理引擎.
 * [geopattern](https://github.com/pravj/geopattern) -从字符串创建漂亮的生成图像图案.
 * [gg](https://github.com/fogleman/gg) -纯Go中的2D渲染.
@@ -785,7 +786,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [steganography](https://github.com/auyer/steganography) -用于LSB隐写术的Pure Go库.
 * [stegify](https://github.com/DimitarPetrov/stegify) -用于LSB隐写术的Go工具，能够隐藏图像中的任何文件.
 * [svgo](https://github.com/ajstarks/svgo) -用于SVG生成的语言库.
-* [tga](https://github.com/ftrvxmtrx/tga) - Package tga is a TARGA image format decoder/encoder.
+* [tga](https://github.com/ftrvxmtrx/tga) -软件包tga是TARGA图像格式的解码器/编码器.
 
 ## IoT (Internet of Things)
 
@@ -889,7 +890,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 
 * [bayesian](https://github.com/jbrukh/bayesian) - 贝叶斯分类为Golang天真.
 * [CloudForest](https://github.com/ryanbressler/CloudForest) -用于纯Go中机器学习的快速，灵活，多线程的决策树集合.
-* [eaopt](https://github.com/MaxHalford/eaopt) -进化优化库.
+* [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
 * [evoli](https://github.com/khezen/evoli) -遗传算法和粒子群优化库.
 * [fonet](https://github.com/Fontinalis/fonet) -用Go编写的深度神经网络库.
 * [go-cluster](https://github.com/e-XpertSolutions/go-cluster) -实施k模式和k原型聚类算法.
@@ -1342,7 +1343,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 ## Server Applications
 
 * [algernon](https://github.com/xyproto/algernon) -HTTP / 2 Web服务器，内置对Lua，Markdown，GCSS和Amber的支持.
-* [Caddy](https://github.com/mholt/caddy) -Caddy是一种易于配置和使用的备用HTTP / 2 Web服务器.
+* [Caddy](https://github.com/mholt/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 * [consul](https://www.consul.io/) -Consul是用于服务发现，监视和配置的工具.
 * [devd](https://github.com/cortesi/devd) -开发人员的本地网络服务器.
 * [discovery](https://github.com/Bilibili/discovery) -一个用于中层弹性负载平衡和故障转移的注册表.
@@ -1495,7 +1496,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [go-toml](https://github.com/pelletier/go-toml) -使用查询支持和方便的cli工具获取TOML格式的库.
     * [go-vcard](https://github.com/emersion/go-vcard) -解析并格式化vCard.
     * [go-zero-width](https://github.com/trubitsyn/go-zero-width) -零宽度字符检测和Go删除.
-    * [gofeed](https://github.com/mmcdole/gofeed) - Parse RSS and Atom feeds in Go.
+    * [gofeed](https://github.com/mmcdole/gofeed) -在Go中解析RSS和Atom提要.
     * [gographviz](https://github.com/awalterschulze/gographviz) -解析Graphviz DOT语言.
     * [gommon/bytes](https://github.com/labstack/gommon/tree/master/bytes) -将字节格式化为字符串.
     * [gonameparts](https://github.com/polera/gonameparts) -将人的名字解析成单独的名字部分.
@@ -1518,7 +1519,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [gofuckyourself](https://github.com/JoshuaDoes/gofuckyourself) -用于Go的基于消毒的发誓过滤器.
     * [gotabulate](https://github.com/bndr/gotabulate) -使用Go轻松漂亮地打印表格数据.
     * [kace](https://github.com/codemodus/kace) -涵盖常见首字母缩写的常见案例转换.
-    * [parseargs-go](https://github.com/nproc/parseargs-go) -理解引号和反斜杠的字符串参数解析器.
+    * [parseargs-go](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
     * [parth](https://github.com/codemodus/parth) -URL路径分段解析.
     * [radix](https://github.com/yourbasic/radix) -快速的字符串排序算法.
     * [Tagify](https://github.com/zoomio/tagify) -从给定的来源产生一组标签.
@@ -1555,7 +1556,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go-here](https://github.com/abdullahselek/go-here) -围绕基于此处的位置API的客户端库.
 * [go-imgur](https://github.com/koffeinsource/go-imgur) -访问客户端库 [imgur](https://imgur.com)
 * [go-jira](https://github.com/andygrunwald/go-jira) -访问客户端库 [Atlassian JIRA](https://www.atlassian.com/software/jira)
-* [go-marathon](https://github.com/gambol99/go-marathon) - Go library for interacting with Mesosphere's Marathon PAAS.
+* [go-marathon](https://github.com/gambol99/go-marathon) -用于与Mesosphere的Marathon PAAS进行交互的库.
 * [go-myanimelist](https://github.com/nstratos/go-myanimelist) -访问客户端库以访问 [MyAnimeList API](http://myanimelist.net/modules.php?go=api).
 * [go-sophos](https://github.com/esurdam/go-sophos) -转到客户端库 [Sophos UTM REST API](https://www.sophos.com/en-us/medialibrary/PDFs/documentation/UTMonAWS/Sophos-UTM-RESTful-API.pdf?la=en) 零依赖
 * [go-sptrans](https://github.com/sergioaugrod/go-sptrans) -转到SPTrans Live Eye API的客户端库.
@@ -1758,7 +1759,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *用于版本控制的库.*
 
 * [gh](https://github.com/rjeczalik/gh) -用于GitHub Webhooks的可编写脚本的服务器和net / http中间件.
-* [git2go](https://github.com/libgit2/git2go) - Go bindings for libgit2.
+* [git2go](https://github.com/libgit2/git2go) -转到libgit2的绑定.
 * [go-git](https://github.com/src-d/go-git) -在纯Go中高度可扩展的Git实现.
 * [go-vcs](https://github.com/sourcegraph/go-vcs) -在Go中操作和检查VCS存储库.
 * [hercules](https://github.com/src-d/hercules) -从Git储存库历史中获得高级见解.
@@ -2019,7 +2020,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [s3gof3r](https://github.com/rlmcpherson/s3gof3r) -优化的小型实用程序/库，可用于将大型对象高速传输到Amazon S3和从Amazon S3传输出来.
 * [Scaleway-cli](https://github.com/scaleway/scaleway-cli) -从命令行管理BareMetal服务器（与Docker一样容易）.
 * [script](https://github.com/bitfield/script) -轻松在Go中为DevOps和系统管理任务编写类似shell的脚本.
-* [sg](https://github.com/ChristopherRabotin/sg) -对一组HTTP端点（例如ab）进行基准测试，并可以根据其先前的响应在每次调用之间将响应代码和数据用于特定的服务器压力.
+* [sg](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the response code and data between each call for specific server stress based on its previous response.
 * [skm](https://github.com/TimothyYe/skm) -SKM是一个简单而强大的SSH密钥管理器，它可以帮助您轻松管理多个SSH密钥！
 * [StatusOK](https://github.com/sanathp/statusok) -监视您的网站和REST API.当服务器关闭或响应时间超出预期时，通过Slack，电子邮件获得通知.
 * [traefik](https://github.com/containous/traefik) -反向代理和负载均衡器，支持多个后端.
@@ -2033,7 +2034,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [borg](https://github.com/crufter/borg) -基于终端的bash片段搜索引擎.
 * [boxed](https://github.com/tejo/boxed) -基于Dropbox的博客引擎.
 * [Cherry](https://github.com/rafael-santiago/cherry) -Go中的微型网聊服务器.
-* [Circuit](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
+* [Circuit](https://github.com/gocircuit/circuit) -Circuit是可编程的平台即服务（PaaS）和/或基础架构即服务（IaaS），用于管理，发现，同步和编排包含云应用程序的服务和主机.
 * [Comcast](https://github.com/tylertreat/Comcast) -模拟不良的网络连接.
 * [confd](https://github.com/kelseyhightower/confd) -使用来自etcd或领事的模板和数据来管理本地应用程序配置文件.
 * [croc](https://github.com/schollz/croc) -轻松安全地将文件或文件夹从一台计算机发送到另一台计算机.
