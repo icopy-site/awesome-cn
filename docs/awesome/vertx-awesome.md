@@ -194,6 +194,7 @@
 ## Cloud Support
 
 * [S3](https://github.com/hubrick/vertx-s3-client) -适用于S3的功能齐全的Vert.x客户端.
+* [AWS SDK](https://github.com/reactiverse/aws-sdk) -将AWS Java SDK v2（异步）与Vert.x一起使用
 
 ## Docker
 

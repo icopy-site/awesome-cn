@@ -53,7 +53,7 @@
 - [Cumulus](https://github.com/gillesdemey/Cumulus) -菜单栏中的SoundCloud播放器.
 - [Kitematic](https://kitematic.com) -Docker容器管理.
 - [FatFileFinder](https://github.com/pwambach/fat-file-finder) -在计算机上查找大文件.
-- [ScreenCat](https://github.com/maxogden/screencat) -屏幕共享和远程协作.
+- [ScreenCat](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
 - [Gulp](https://github.com/sindresorhus/gulp-app) -从菜单栏中运行Gulp任务.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) -地图设计师.
 - [LevelUI](https://github.com/hij1nx/levelui) -LevelDB管理.
@@ -96,7 +96,7 @@
 - [Proton](https://github.com/steventhanna/proton) -带有实时预览的Markdown编辑器.
 - [James](https://github.com/uxebu/james) -HTTP代理以查看和拦截浏览器请求.
 - [DTCP](https://github.com/alchen/DTCP) -Twitter客户端.
-- [Inbox](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
+- [Inbox](https://github.com/fgnass/inbox-app) -非官方的Google收件箱应用.
 - [alienbox](http://a9.io/alienbox/) -菜单栏中的Reddit收件箱和通知程序.
 - [tweet-rec](https://github.com/midnightSuyama/tweet-rec) -鸣叫录音播放器.
 - [Snippet Bar](https://github.com/teesloane/snippet-bar) -复制并重新使用菜单栏中的文本片段.
@@ -161,7 +161,7 @@
 - [Manta](https://github.com/hql287/Manta) -使用精美且可自定义的模板为自由职业者开具发票.
 - [Headset](https://github.com/headsetapp/headset-electron) -发现，收集和收听YouTube中的音乐.
 - [Nuclear](https://github.com/nukeop/nuclear) -来自免费资源的音乐播放器.
-- [Inboxer](https://github.com/denysdovhan/inboxer) - Unofficial Google Inbox app.
+- [Inboxer](https://github.com/denysdovhan/inboxer) -非官方的Google收件箱应用.
 - [FreeMAN](https://github.com/matthew-matvei/freeman) -高级用户的文件管理器.
 - [Mark Text](https://github.com/marktext/marktext) -实时预览Markdown编辑器.
 - [Pomotroid](https://github.com/Splode/pomotroid) -番茄计时器.
@@ -263,7 +263,7 @@
 - [electron-dl](https://github.com/sindresorhus/electron-dl) -简化文件下载.
 - [electron-release-server](https://github.com/ArekSredzki/electron-release-server) -具有前端和自动更新程序支持的自托管发布服务器.
 - [electron-rebuild](https://github.com/electron/electron-rebuild) -根据当前安装的Electron版本重建本机Node.js模块.
-- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，无需预编译步骤.
+- [electron-compile](https://github.com/electron/electron-compile) -在您的应用中使用ES2015，CoffeeScript，Less，Stylus，而无需预编译步骤.
 - [electron-positioner](https://github.com/jenslind/electron-positioner) -将窗户放在公共位置.
 - [electron-window-state](https://github.com/mawie81/electron-window-state) -保持窗口大小和位置.
 - [electron-drag](https://github.com/kapetan/electron-drag) -改进了窗口拖动.
@@ -328,6 +328,7 @@
 - [electron-har](https://github.com/shyiko/electron-har) -用于生成HTTP存档（HAR）的命令行工具.
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) -将Electron应用程序转换为Windows Store AppX软件包.
 - [Reactotron](https://github.com/reactotron/reactotron) -检查您的React和React Native应用程序.
+- [jest-electron](https://github.com/hustcc/jest-electron) -在浏览器环境中运行和调试Jest单元测试.
 
 
 ## Components
@@ -339,7 +340,7 @@
 - [window](https://github.com/jprichardson/electron-window) -创建和管理窗口.
 - [React Desktop](https://github.com/gabrielbull/react-desktop) -用于Mac OS和使用React构建的Windows的UI工具包.
 - [electron-input-menu](https://github.com/parro-it/electron-input-menu) -输入元素的上下文菜单.
-- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -类似于Chrome的标签页.
+- [chrome-tabs](https://github.com/adamschwartz/chrome-tabs) -像Chrome一样的标签页.
 - [titlebar](https://github.com/kapetan/titlebar) -模拟macOS窗口标题栏.
 - [Brightwheel](https://github.com/loranallensmith/brightwheel) -使用Photon和Etch构建和管理UI组件.
 - [Xel](https://xel-toolkit.org) -用于构建类似本机应用程序的小部件工具包.

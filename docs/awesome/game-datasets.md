@@ -4,7 +4,7 @@
 
  在计算机科学中，人工智能（AI）是机器演示的智能.  AI的定义是将AI研究视为“智能代理”的研究：能感知其环境并采取行动以实现其目标的任何设备.  al（2016）_.   
 
- 总而言之，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
+ 通常，数据挖掘（DM）是在数据集（或数据集）中发现模式的过程，其中涉及机器学习，统计和数据库系统的方法；  DM专注于提取数据集的信息_Han（2011）_.  
 
  该存储库为想要使用数字游戏中应用的“人工智能”或“数据挖掘”的任何人提供指南！  在这里，您将找到可用于构建_application_或_dataset_的一系列数据集，工具和材料.  
 
@@ -36,6 +36,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) -科幻小说大型多人在线游戏.
 - [Giant Bomb](https://www.giantbomb.com/api/) -游戏数据和玩家评论.
 - [IGDB](https://www.igdb.com/api) -来自任何平台的游戏常规信息.
+- [Marvel Developer](https://developer.marvel.com/) -有关Marvel庞大的漫画库的信息.
 - [metacritc](https://www.metacritic.com/game) -游戏评论和评估.
 - [OpenDota](https://www.opendota.com/) -提供Dota 2数据的平台.
 - [PandaScore](https://pandascore.co/) -实时电子竞技数据.
@@ -155,7 +156,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) -来自Super Mario Maker的网络数据.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) -专业水平的球员侦察.
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) -比赛的数据流. [Paper](https://doi.org/10.1371/journal.pone.0075129).
-- [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
+- [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) -比赛结果.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) -重放的汇总.
 - [StarData](https://github.com/TorchCraft/StarData) -比赛，视频等 [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) -这场比赛的纸牌.
@@ -188,7 +189,6 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) -共享庞大的数据集.
-- [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) -历史上的无赖类游戏. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
 - [Awesome ACG](https://github.com/soruly/awesome-acg) -与动漫，漫画和游戏有关的技术.
 - [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) -开源游戏的集合.
 - [AWS Datasets](https://aws.amazon.com/datasets/) -亚马逊公共数据集.
