@@ -95,7 +95,7 @@ Cryptocurrencies
 * [cl-monero-tools](https://github.com/glv2/cl-monero-tools)  -Common Lisp工具箱，可与Monero加密货币一起使用.  [GPL3] [2].  不在Quicklisp中.
 * [emotiq](https://github.com/emotiq/emotiq)  -下一代区块链，采用创新的自然语言方法处理智能合约.  [MIT] [200].
 * [peercoin-blockchain-parser](https://github.com/glv2/peercoin-blockchain-parser)  -解析文件中包含的区块链并将其某些数据导出到文本文件，SQL脚本或数据库.  它还可以使用Peercoin守护程序的RPC作为数据源而不是区块链文件来创建数据库.  LGPL3.  不在Quicklisp中.
-* [peercoin-calculator](https://github.com/glv2/peercoin-calculator) - This program gives you the probability of generating a POS or POW block within 10 minutes, 24 hours, 31 days, 90 days and 1 year, as well as the reward that can be expected. GUI in Qt. [GPL3][2]. Not in Quicklisp.
+* [peercoin-calculator](https://github.com/glv2/peercoin-calculator)  -该程序使您有可能在10分钟，24小时，31天，90天和1年内生成POS或POW块，并可以获得预期的奖励.  Qt中的GUI.  [GPL3] [2].  不在Quicklisp中.
 * [peercoin-vote](https://github.com/glv2/peercoin-vote)  -基于来自区块链的数据（地址和余额）的投票系统.  [GPL3] [2].  不在Quicklisp中.
 
 Database
@@ -139,7 +139,7 @@ Wrappers
 Tools
 -----
 
-* [pgloader](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* [pgloader](https://github.com/dimitri/pgloader)  -PostgreSQL的数据加载工具.  [PostgreSQL许可证] [205].
 
 
 Data Structures
@@ -338,7 +338,7 @@ CLOS扩展
 功能扩展
 -------------------
 
-* [cl-hooks](https://github.com/scymtym/architecture.hooks/)  -Hooks扩展点机制（例如，从GNU Emacs中已知）.  LGPL.
+* [cl-hooks](https://github.com/scymtym/architecture.hooks/) - Hooks extension point mechanism (as known, e.g., from GNU Emacs). LGPL.
 * [method-hooks](https://gitlab.com/Gnuxie/method-hooks)  -如果CLOS方法组合每个方法只允许一个钩子，则此库允许任意数目的钩子.  Mozilla公共许可证.
 * [cl-advice](https://bitbucket.org/budden/budden-tools/src/default/cl-advice/?at=default)  -SBCL，CCL，LispWorks和Allegro的可移植层建议库.  不在Quicklisp中.
 
@@ -373,7 +373,7 @@ Lambda速记
   Lisp具有Prolog和Prolog的几乎所有功能
   约束逻辑编程
   语言. [Blog post](https://chriskohlhepp.wordpress.com/reasoning-systems/specification-driven-programming-in-common-lisp/)
-  solving Project Euler puzzles. [MIT][200].
+   解决欧拉计划难题.  [MIT] [200].
 * [Screamer+](https://github.com/yakovzaytsev/screamer-plus)  -提高SCREAMER的表现力.  [MIT] [200].
 * [Temperance](https://sjl.bitbucket.io/temperance/)  -逻辑编程.  [MIT] [200].  注重性能，同时考虑一般游戏.
 
@@ -489,6 +489,8 @@ Community
 * [cl-brewer](https://github.com/can3p/cl-brewer)  -用于（命令行）常见lisp应用程序的自制程序公式生成器.  公共区域.
 * [qldeb](https://github.com/ralt/qldeb) -Quicklisp系统到debian软件包，以及 [deb-packager](https://github.com/ralt/deb-packager) （只需通过定义s表达式创建一个debian软件包）和介绍 [blog post](http://margaine.com/2015/12/22/quicklisp-packagecloud-debian-packages.html) .  两者[MIT] [200].
 * [ql-to-deb](https://github.com/dimitri/ql-to-deb)  -从Quicklisp版本中更新cl- * debian软件包.  WTFPL.
+* [dh-quicklisp-buildapp](https://github.com/ralt/dh-quicklisp-buildapp)  -debhelper实用程序，使您几乎无需费力就可以将基于quicklisp的Common Lisp代码编译为.deb中的buildapp二进制文件.  [MIT] [200].
+
 
 机器学习
 ================
@@ -572,7 +574,7 @@ Web框架
    Webassets.  [带] [200].
 
 
-解析HTML
+Parsing html
 ------------
  * [Plump] [71]-宽大的HTML / XML解析器，可以容忍格式错误的标记.  [Artistic License 2.0] [51].  最好与[lquery] [72]和 [clss](https://github.com/Shinmera/CLSS).
 
@@ -650,7 +652,7 @@ Deployment
 * [cube](https://github.com/xh4/cube)  -从Swagger规范生成的通用LISP的Kubernetes客户端库.  未指定许可证.
 * [base-lisp-image](https://github.com/40ants/base-lisp-image) -基础
   带有SBCL或CCL和最新版本的Common Lisp项目的Docker映像
-  ASDF，Qlot和Roswell.
+  ASDF, Qlot and Roswell.
 * [s2i-lisp](https://github.com/container-lisp/s2i-lisp)  -基于CentOS或RHEL7的“源到映像”构建器映像，用于为OpenShift（以及Docker）构建Common LISP映像.  它具有可与Quicklisp安装，SLIME或SLY集成的最新SBCL，并允许通过环境变量进行自定义.  [AGPL] [89]
 * [deploy](https://shinmera.github.io/deploy)  -用于Lisp应用程序二进制部署的工具包，并具有对外部共享库的额外支持.  [Artistic License 2.0] [51].
 * [cl-aws-runtime-test](https://github.com/y2q-actionman/cl-aws-custom-runtime-test)  -使用Common Lisp（SBCL）作为AWS lambda上的自定义运行时的示例.  WTFPL.
@@ -695,7 +697,7 @@ Others
 * [css-lite](https://github.com/paddymul/css-lite)  -CSS语法.  [外籍] [14].
 * [find-port](https://github.com/eudoxia0/find-port)  -以编程方式找到开放端口.  [MIT] [200].
 * [cl-forms](https://github.com/mmontone/cl-forms)  -Common Lisp的Web表单处理库.  [MIT] [200].
-* [Postmaster](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
+* [Postmaster](https://github.com/eudoxia0/postmaster)  -一个简单易用的SMTP / IMAP库.  [外籍] [14].
 * [cl-selenium-webdriver](https://github.com/TatriX/cl-selenium-webdriver/) -Selenium 2.0的绑定库.
 
 数值科学
@@ -759,7 +761,7 @@ Others
 作业处理
 --------------
 
-* [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受到Ruby的Sidekiq的启发，并与其Web UI兼容.  [LLGPL] [8].
+* [psychiq](https://github.com/fukamachi/psychiq)  -用于Common Lisp应用程序的基于Redis的后台作业处理.  受Ruby的Sidekiq启发，并与其Web UI兼容.  [LLGPL] [8].
 * [clerk](https://github.com/tsikov/clerk)  -具有健全DSL的类似cron的调度程序.  [MIT] [200].
 
 Regex
@@ -1070,7 +1072,7 @@ Other
 * [named-readtables](https://github.com/melisgl/named-readtables)  -提供类似于包名称空间的可读表名称空间.  [3子BSD] [15].
 * [nEXT-Browser](http://github.com/nEXT-Browser/nEXT)  -注重生产力，可扩展/可编程的Web浏览器.  [3子BSD] [15].
 * [Salza2](http://www.xach.com/lisp/salza2/)  -用于创建压缩数据的库.  [FreeBSD的] [39].
-* [simple-currency](https://github.com/a0-prw/simple-currency)  -使用欧洲央行发布的每日信息的货币换算库.  [FreeBSD的] [39].
+* [simple-currency](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
 * [template](https://bitbucket.org/tarballs_are_good/template)  -类似于C ++的模板和函数库.  [3子BSD] [15].
 * [texp](http://mr.gy/software/texp/)  -生成TeX的DSL.  未指定许可证.
 * [trivial-benchmark](https://github.com/Shinmera/trivial-benchmark)  -小型基准测试库.  [Artistic License 2.0] [51].

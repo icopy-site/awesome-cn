@@ -408,7 +408,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 用于安全存储Docker映像的服务.
 
 - [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) -Amazon EC2容器注册表（ECR）是完全托管的Docker容器注册表，使开发人员可以轻松存储，管理和部署Docker容器映像.
-- [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/de-de/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
+- [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  -在裸机或云上运行Docker引擎的基本操作系统.  通过 [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/docker-registry/)  -全面管理的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持.  具有慷慨的免费层，并且对于开源也完全免费.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
@@ -550,7 +550,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [CodeShip](https://cms.codeship.com/features/pro) ：heavy_dollar_sign：-使用已建立的Docker工作流程，同时使用我们专用于速度和安全性的托管平台来自动化您的测试和部署任务.
 - [ConcourseCI](https://concourse-ci.org) ：heavy_dollar_sign：-针对开发人员和DevOps团队面向管道的CI SaaS平台.
 - [Semaphore CI](https://semaphoreci.com/) ：heavy_dollar_sign：—一种高性能的云解决方案，可轻松构建，测试和运送容器以进行生产.
-- [Shippable](https://app.shippable.com/) ：heavy_dollar_sign：-为开发人员和DevOps团队提供的SaaS平台，可显着减少构建，测试和部署代码到生产所需的时间.
+- [Shippable](https://app.shippable.com/) ：heavy_dollar_sign：-为开发人员和DevOps团队提供的SaaS平台，可大大减少构建，测试和部署代码到生产所需的时间.
 - [TravisCI](https://travis-ci.org/) ：heavy_dollar_sign：-一个免费的github项目为开发人员和Devops设计了持续集成的Saas平台.
 
 ### CaaS
