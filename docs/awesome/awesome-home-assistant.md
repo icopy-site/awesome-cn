@@ -50,7 +50,7 @@
 
 - [Hass.io](https://www.home-assistant.io/getting-started/) -使用Docker托管环境进行安装（推荐方法）.
 - [Docker](https://www.home-assistant.io/docs/installation/docker/) -在Docker上安装.
-- [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) - Installing Hassbian.
+- [Hassbian](https://www.home-assistant.io/docs/installation/hassbian/installation/) -安装Hassbian.
 - [Manually](https://www.home-assistant.io/docs/installation/virtualenv/) -使用Python虚拟环境手动安装.
 
 ## In case you need help
@@ -153,7 +153,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 _Home Assistant前端已经很漂亮了，但是您可以对其进行自定义
 适合您的需求或更好地品尝.
 
-- [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) -官方文件.
+- [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) - The official documentation.
 -  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) -DrZzs对Lovelace UI的精彩介绍.
 - [Plan Coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) -有助于查找“图片元素”卡的左值和上值.
 - [Share the Love](https://sharethelove.io) -Lovelace的自定义卡演示和配置示例.
@@ -175,6 +175,7 @@ _这与外观有关，请应用一些样式.
 - [Carbon Green](https://community.home-assistant.io/t/share-your-themes/22018/95?u=frenck) -轻巧的碳纤维主题，搭配Reua的绿色配饰.
 - [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) -JuanMTech制作的20个主题（包括指南）.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
+- [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
 
 ### Custom Lovelace UI Cards
 

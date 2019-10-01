@@ -831,6 +831,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gojq](https://github.com/elgs/gojq) - 在Golang JSON查询.
 * [gojson](https://github.com/ChimeraCoder/gojson) -根据示例JSON自动生成Go（golang）结构定义.
 * [JayDiff](https://github.com/yazgazan/jaydiff) -用Go编写的JSON diff实用程序.
+* [jettison](https://github.com/wI2L/jettison) -用于Go的高性能，无反射JSON编码器.
 * [JSON-to-Go](https://mholt.github.io/json-to-go/) -将JSON转换为Go结构.
 * [json2go](https://github.com/m-zajac/json2go)  -高级JSON到Go结构转换.  提供可以解析多个JSON文档并创建适合所有JSON的结构的包.
 * [jsonapi-errors](https://github.com/AmuzaTkts/jsonapi-errors) -根据JSON API错误参考进行绑定.

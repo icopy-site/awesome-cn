@@ -12,7 +12,7 @@
 
 &gt;社区驱动的有用Elm教程，库和软件的列表.
 
-受到启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
+受启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
 
 
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献准则</a>
@@ -90,7 +90,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的截屏视频可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) -关于榆木的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) -来自的榆树常见问题解答 [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) -来自的榆木常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) -有关在Elm中构建应用程序的教程，从身份验证到调用API.
 
 
@@ -228,6 +228,7 @@
 * [Elm Format](https://github.com/avh4/elm-format) -自动Elm代码格式化程序 [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [Elm Oracle](https://github.com/ElmCast/elm-oracle)  -查询有关榆木源文件中值的信息.  大多数编辑器插件使用.
 * [Elm Analyse](https://github.com/stil4m/elm-analyse) -用于Elm编程语言的Linter.
+* [elm-review](https://github.com/jfmengels/elm-review) -Elm编程语言的代码审阅者.
 * [type-o-rama](https://github.com/stereobooster/type-o-rama) -JS类型系统的可移植性.
 * [Dependabot](https://dependabot.com) -为您的elm-package.json自动更新PR.
 * [Elm Doc Preview](https://github.com/dmy/elm-doc-preview) -Elm离线文档预览器.
@@ -325,7 +326,7 @@
 
 ### Outdated Boilerplates
 
-* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) -用于编写Elm应用程序的简单Webpack设置.
+* [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
 * [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) -针对Elm应用程序的功能齐全的基础项目：Webpack，HMR，ES6，JS和Elm测试，语义UI，示例代码等.
 * [elmkit](https://github.com/khusnetdinov/elmkit)  -针对Web应用的轻量级基于Brunch的设置.  包括早午餐，热模块更换，榆木，Scss，榆木测试.
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) -一个简单的Makefile能够创建Elm应用程序.
@@ -379,7 +380,7 @@
 
 ## Who to follow
 
-*Follow f要么 fresh updates f要么 free. Use [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
+ *免费跟随新更新.  采用 [#elmlang](https://twitter.com/search?q=%23elmlang) 要么 [#elm](https://twitter.com/search?q=%23elm) 井号.*
 
 <a href="https://twitter.com/elmlang" target="_blank"><img src="https://pbs.twimg.com/profile_images/443551527307718656/cZHhsF-c.png" width="100" /></a> | <a href="https://twitter.com/czaplic" target="_blank"><img src="https://pbs.twimg.com/profile_images/443794371586977792/NxKUNpOQ.jpeg" width="100" /></a> | <a href="https://twitter.com/rtfeldman" target="_blank"><img src="https://pbs.twimg.com/profile_images/635812303342956545/Fo4RyEgH.jpg" width="100" /></a> | <a href="https://twitter.com/elmweekly" target="_blank"><img src="https://s3.amazonaws.com/revue/profiles/images/000/046/579/thumb/elm_weekly_logo.png" width="100" /></a>
 --- | --- | --- | ---

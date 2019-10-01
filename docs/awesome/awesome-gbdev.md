@@ -286,7 +286,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) -逐步教程，以实现“超级游戏男孩”功能（框架和调色板）.
 - [GameBoy programming tutorial: Hello World!](http://peterwynroberts.com/?p=10) -分步教程.
 - [DMGreport](https://github.com/lancekindle/DMGreport) -汇编中的游戏编程教程.
-- [OAM DMA tutorial](http://gbdev.gg8.se/wiki/articles/OAM_DMA_tutorial) -如何在装配中使用OAM DMA的示例.
+- [OAM DMA tutorial](https://exez.in/gameboy-dma) -如何在装配中使用OAM DMA的示例.
 
 #### Sources
 

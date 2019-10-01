@@ -337,6 +337,7 @@ DDS安全性.
 - [Canonical](https://canonical.com/) -Ubuntu背后的公司.
 - [Eprosima](https://www.eprosima.com/) -《中间件专家》.
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) -ROS工具箱.
+- [Rover Robotics](https://roverrobotics.com/) -坚固的工业级机器人.
 
 ## License
 
