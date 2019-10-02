@@ -6,412 +6,522 @@
   <a href="https://awesome.re" title="more awesome lists"><img src="https://awesome.re/badge.svg" alt="Awesome list badge"></a>
 </div>
 
-&gt;棋盘游戏在桌面上进行，通常采用策略，技巧和运气的组合，是与朋友和亲人分享时间的好方法.
+&gt;棋盘游戏是在桌面上玩的，经常结合策略，技巧和运气，是与朋友和亲人打发时间的好方法.
 
 
 
 ## Family
 
-### [Ticket to Ride](https://wikipedia.org/wiki/Ticket_to_Ride_(board_game))
+### [Ticket to Ride](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
-&gt; ...一个越野火车冒险，玩家可以收集各种类型的火车车牌，这些火车可以让他们拥有连接世界各国城市的铁路线路.
+&gt; ...越野火车冒险，玩家收集各种类型的火车卡，使他们能够申索连接世界各国的城市的铁路路线.
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  -  5 |  8 |  30-60米|
+ |  2-5 |  8 |  30-60m |
 
-### [Pandemic](https://wikipedia.org/wiki/Pandemic_(board_game))
+### [Pandemic](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Pandemic_(board_game)>)
 
- &gt;你能在这个致命的病毒在全球传播的合作游戏中拯救人类吗？  您将共同治疗疾病，分享知识，并在世界各地飞行，以防止疾病爆发并减缓疫情.
+ &gt;在这种致命病毒在全球传播的合作游戏中，您能否拯救人类？  在一起，您将治​​疗疾病，分享知识并在世界各地飞行，以防止疾病爆发和减缓流行速度.
 
 ![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2  -  4 |  8 |  45米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-4 |  8 |  45m |
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-&gt; ......玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在热火和咆哮的沙子中生存，以便找回埋在古老沙漠城市下的传奇飞行机器.
+&gt; ...玩家扮演勇敢的冒险家，他们必须谨慎对待风，并在炽热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
-|   2 - 5 |       10 |    45m |
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-5 |  10 |  45m |
 
-### [Elder Sign](https://wikipedia.org/wiki/Elder_Sign_(card_game))
+### [Elder Sign](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Elder_Sign_(card_game)>)
 
- &gt;在Lovecraftian恐怖的世界里，合作调查一个充满奇怪的文物和陌生人恶魔的博物馆.  收集eldritch符号，“老年人的标志”，关闭门户网站，防止生物侵入我们的世界.  在时间到来之前收集足够的东西或遭受古代人的愤怒.
+ &gt;在一个Lovecraftian恐怖世界中，合作研究一个充满奇异手工艺品和陌生魔鬼的博物馆.  收集eldritch符号，即“年长体征”，以关闭入口并防止生物入侵我们的世界.  在时间到了之前收集足够的东西，否则将遭受远古时代的愤怒.
 
 ![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
-|   1 - 8 |       13 |    90m |
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  1-8 |  13 |  90m |
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
-&gt;玩家都是作为盟友开始探索充满危险，陷阱，物品和预兆的鬼屋.
-&gt;随着玩家前往大厦的新部分，随机选择房间瓷砖并放置在游戏板上.
-&gt;最终“出没”开始，一个玩家通常“背叛”其他玩家并占据鬼魂，怪物或其他敌人的一面，而剩下的玩家合作打败他们.
+&gt;所有玩家都从盟友探索充满危险，陷阱，物品和预兆的鬼屋开始.\
+&gt;当玩家前往豪宅的新部分时，会随机选择房间瓷砖并将其放置在游戏板上.\
+&gt;最终，“困扰”开始了，一个玩家通常“背叛”其他玩家，并站在鬼魂，怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  3  -  6 |  13 |  60米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-6 |  13 |  60m |
 
-### [Dixit](https://en.wikipedia.org/wiki/Dixit_(card_game))
+### [Dixit](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Dixit_(card_game)>)
 
-&gt;使用一副用梦幻般的图像说明的牌，玩家选择与“讲故事者”建议的标题相匹配的牌，并试图猜出“故事讲述者”所选择的牌.
+&gt;使用一副带有梦幻般图像的纸牌，玩家选择与“讲故事的人”建议的标题相匹配的纸牌，并尝试猜测所选“讲故事的人”的卡.
 
 ![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  3  -  8 |  8 |  30米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-8 |  8 |  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
- &gt; _Tall，小型，大型，薄型，重型，轻型，圆形，方形，黄色，红色，蓝色和绿色._选择最符合图片的符号！  别担心，没有错误的答案，但如果大多数玩家选择了与你相同的符号，你只能得到一分！
+ &gt; _高，小，大，薄，重，轻，圆形，正方形，黄色，红色，蓝色和绿色._选择与图片最匹配的符号！  别担心，没有错误的答案，但是只有大多数玩家选择了与您相同的符号，您才能获得分数！
 
 ![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  -  6 |  8 |  10-20米|
+ |  2-6 |  8 |  10-20m |
 
 ### [Unstable Unicorns](https://boardgamegeek.com/boardgame/234190/unstable-unicorns)
- &gt;建立一个独角兽军队.  背叛你的朋友.  独角兽现在是你的朋友.
+
+ &gt;建立独角兽军队.  背叛你的朋友.  独角兽现在是您的朋友.
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  -  8 |  14 |  30-45米|
+ |  2-8 |  14 |  30-45m |
 
 ### [Dungeons & Dragons: Castle Ravenloft](https://boardgamegeek.com/boardgame/59946/dungeons-dragons-castle-ravenloft-board-game)
 
-&gt; Ravenloft的主人正在为客人准备晚餐 - 欢迎您的到来！
-&gt;邪恶潜伏在Castle Ravenloft城堡的塔楼和地牢中，只有非凡勇敢的英雄才能在内部的恐怖中幸存下来.
-&gt;这款桌面游戏专为1-5名玩家设计，具有多种场景，挑战任务和合作游戏.
+&gt; Ravenloft的主人正在邀请客人共进晚餐–邀请您！\
+&gt;恶魔潜伏在Ravenloft城堡的塔楼和地牢中，只有非凡勇敢的英雄才能幸免于难.
+&gt;专为1-5位玩家设计，这款桌游具有多种场景，具有挑战性的任务和协作性的游戏玩法.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  1  -  5 |  13 |  60米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  1-5 |  13 |  60m |
+
+### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
+
+ &gt;在废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁固定了门.  摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推论导致自由的组合.
+
+![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ------: |
+ |  1-6 |  12 |  60-120m |
 
 ## Strategy
 
-### [Tak](https://en.wikipedia.org/wiki/Tak_(game))
+### [Backgammon](https://en.wikipedia.org/wiki/Backgammon)
 
- &gt;德的目标是成为第一个连接板的任何两个相对边缘的部分，称为“石头”，创造一条道路.  为此，玩家将轮流攻击并捕获对手的棋子，同时支持他们自己的棋子. 
+ &gt;这是最古老的棋盘游戏之一.  这是一个两人游戏，每个玩家有十五个棋子（跳棋），它们根据两个骰子的掷骰在二十四个三角形（点）之间移动.  游戏的目标是首先经受住考验，即将所有15个跳棋员从棋盘上移开.
+
+![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ----: |
+ |  2 |  5 |  5-60m |
+
+### [Tak](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Tak_(game)>)
+
+ &gt; Tak的目标是成为第一个将木板的两个相对边缘与其所连接的部分（称为“石头”）连接起来的人，从而创造一条道路.  为此，玩家将在支持自己的同时轮流攻击并捕获对手的棋子.
 
 ![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2 |  5 |  30米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2 |  5 |  30m |
 
-### [7 Wonders](https://wikipedia.org/wiki/7_Wonders_(board_game))
+### [7 Wonders](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
 
- &gt;您是古代世界七大城市之一的领导者.  收集资源，开发商业路线，并确认您的军事霸权.  建立你的城市，建立一个超越未来的建筑奇迹.
+ &gt;您是古代世界七大城市之一的领导人.  收集资源，开发商业路线，并确认您的军事优势.  建立您的城市并建立一个将超越未来的建筑奇迹.
 
 ![7 Wonders game image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/7_wonders_board_game_cover.jpg/200px-7_wonders_board_game_cover.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  3  -  7 |  10 |  45米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-7 |  10 |  45m |
 
 ### [7 Wonders Duel](https://boardgamegeek.com/boardgame/173346/7-wonders-duel)
 
- &gt;伟大的7大奇迹概念特别适合两个玩家.  这种感觉非常&#39;七大奇迹&#39;，经过一些改进，许多人将进入主要游戏，如重做的军事和科学胜利以及新的商业动态.  玩游戏总是让我想要再玩一次.
+ &gt;七大奇迹的概念特别适合两名玩家.  感觉很像“七大奇迹”，并且经过了一些改进，许多改进将使它成为主要游戏，例如重新设计的军事和科学胜利以及新的商业动力.  玩游戏总是让我想再次玩.
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2 |  10 |  30米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2 |  10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
- &gt; Antike Duellum  - 在Spiel 2011上以Casus Belli的名义预演 - 是一款基于Mac Gerdts&#39;Antike修改规则的双人战略游戏.  游戏包括两个场景：一方面是Punic Wars（罗马与Carthago），另一方面是波斯战争（希腊人与波斯人）.  游戏的目标是成为第一个获得九位古代人物（国王，学者，将军，公民，航海家）的人.
+ &gt; Antike Duellum（以Casus Belli的名字在Spiel 2011上预览）是一款基于Mac Gerdts的Antike修改规则的两人策略游戏.  游戏包括两种情况：棋盘一侧的《布匿战争》（罗马与卡塔戈），另一侧的波斯战争（希腊与波斯人）.  游戏的目标是成为第一个获得九个远古人物（国王，学者，将军，公民，航海家）的人.
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2 |  13 |  75米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2 |  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
+
 <!-- nothing on wikipedia currently -->
 
- &gt; ...在漫威漫画世界中设置的甲板建造游戏.  为了设置游戏，玩家从蜘蛛侠，绿巨人，独眼巨人或金刚狼等人中选择一些英雄套牌，并将它们混合在一起以获得各种英雄套牌.  然后玩家选择一个策划小人（Magneto，Loki，Doom博士等）并将其下方的特殊恶棍的攻击卡堆叠起来.  接下来，根据该恶棍的特定方案，根据需要修改恶棍套牌.
+ &gt; ...在Marvel Comics宇宙中进行的甲板建造游戏.  要设置游戏，玩家可以从蜘蛛侠，绿巨人，独眼巨人或金刚狼之类的英雄中选择一些英雄套牌，然后将它们洗牌以获得各种英雄套牌.  然后，玩家选择主谋恶棍（Magneto，Loki，Doom博士等），并将特定恶棍的攻击卡堆叠在其下.  接下来，根据该小人的特定方案，根据需要修改小人甲板.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  1  -  5 |  10 |  45米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  1-5 |  10 |  45m |
 
 ### [Mansions of Madness, 2nd ed](https://wikipedia.org/wiki/Mansions_of_Madness)
 
- &gt;一个完全合作的，应用驱动的桌面游戏，恐怖和神秘，适用于与Eldritch Horror和Elder Sign在同一个宇宙中发生的一到五个玩家.  当您研究恐惧和神秘的四种情景时，您将在寻找答案时探索酒店的遮蔽街道以及阿卡姆被诅咒的豪宅的闹鬼走廊.  收集武器，工具和信息，解决复杂的谜题，打击怪物，精神错乱和死亡.
+ &gt;与Eldritch Horror和Elder Sign在同一个世界中发生的，完全协作，由应用程序驱动的恐怖和神秘棋盘游戏，适用于1-5个玩家.  在调查恐惧和谜团的四种情况时，在寻找答案时，探索因斯茅斯（Innsmouth）蒙面的街道和阿卡姆（Arkham）被诅咒的豪宅的鬼屋走廊.  收集武器，工具和信息，解决复杂的难题，与怪物，精神错乱和死亡作斗争.
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -------: |
- |  1  -  5 |  14 |  120-180米|
+ |  1-5 |  14 |  120-180m |
 
-### [Game of Thrones](https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game))
+### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;权力的游戏允许玩家扮演几个争夺七大王国的大房子的角色，包括House Stark，House Lannister，House Baratheon，House Greyjoy，House Tyrell，以及扩张A Clash国王，House Martell.  玩家操纵军队在七个王国的各个地区获得支持，目标是获得足够的支持来夺取铁王座.  基本的游戏机制让人想起外交，特别是在订单给予过程中，尽管权力的游戏总体上要复杂得多.
+ &gt;《权力游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族以及《 A Clash》的扩展国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -------: |
- |  3  -  6 |  12 |  180-360m |
+ |  3-6 |  12 |  180-360m |
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
- &gt;玩家从棋盘上的五枚戒指开始.  第一个删除3环的玩家成为赢家.  每次移动戒指时，它都会留下一个标记.  标记一边是白色而另一边是黑色，每次跳跃时都必须翻转.  一旦玩家形成一排5个颜色的标记，他们就可以移除一个戒指.  挑战是你所做的每一行都会让你更接近胜利 - 但也会让你变得更弱，因为你可以减少一个戒指.
+ &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您可以少玩一圈.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2 |  9 |  30-60米|
+ |  2 |  9 |  30-60m |
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
- &gt;克苏鲁战争是一部关于世界末日的快速战略游戏.  你扮演各种怪异外星人的角色，寻求统治世界.  你可以扮演伟大的克苏鲁本人，或者你可以负责其他派系，例如爬行混乱的滑行部落，或黄色标志的疯狂奴才.
+> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  2  -  8 |  12 |  90-120m |
+ |  2-8 |  12 |  90-120m |
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt; Anachrony是一个竞争性的欧洲式战略游戏，设置在后世界末日的世界，沿着四种不同的意识形态路径重建.  游戏通过称为Eras的一系列回合进行，过去的游戏可以通过游戏后期的时间旅行到达.  玩家扮演四条道路的标志性领导者的角色，不仅要争取他们的人民的至高无上的幸福，还要追求他们的生存.  在第四个时代之后，小行星的撞击震动了地球，威胁要摧毁地球上最后一个独立城市世界首都.  路径应该为即将到来的灾难做好准备，当时机成熟时，请参与疏散倒塌的首都.  最终，其中一条路径将成为改革后的世界理事会的新家园，并将人类带入新的未来.
+ &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏后期的时间旅行达到.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  1  -  4 |  15 |  30-120米|
+ |  1-4 |  15 |  30-120m |
 
 ### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
 
- &gt;在发条战争中，每个玩家在一个充满幻想的蒸汽朋克宇宙中设置的紧张战争游戏中命令一个独特的生物种族.  控制计算的Purebreeds，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  你的目标是战胜你的敌人，并通过九轮比赛积累最多的胜利点.  你通过争取控制含有宝贵自然资源的领土来赚取积分.  要赢得这些战斗，你需要通过夺取村庄并将其发展到城市中而获得的人力资源.  投资研究，发现令人惊讶的新技术，定位你的部队，研究强大的发现，利用间谍活动，征服你的敌人赢得比赛！
+ &gt;在《发条大战》中，每个玩家都会在一个幻想的朋克世界中进行的紧张战争游戏中指挥独特的生物竞赛.  掌控那些精打细算的纯种，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  您的目标是打败敌人，并通过九个回合来累积最多的胜利点.  通过争夺对包含宝贵自然资源的领土的控制权，您可以获得积分.  为了赢得这些战斗，您需要通过占领村庄并将其发展为城市而获得人力.  投资研究并发现惊人的新技术，部署部队，研究强大的发现，运用间谍活动，并征服您的敌人以赢得比赛！
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  2  -  4 |  13 |  90-120m |
+ |  2-4 |  13 |  90-120m |
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;一个腐败的城市，受到恶习和贪婪的影响，处于邪恶角色的控制之下.  权力的位置是空的，等着你接受它 - 除非别人先拿它.  在Complots中，就像在最初的游戏政变中一样，你控制两个角色并从两个硬币开始，通过欺骗，操纵和虚张声势，你想要消除阻挡你的方式的所有其他玩家，可能是让他们沿着办法.
+ &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.方式.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2  -  8 |  8 |  15米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-8 |  8 |  15m |
 
-### [Carcassonne](https://en.wikipedia.org/wiki/Carcassonne_(board_game))
+### [Carcassonne](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Carcassonne_(board_game)>)
 
- &gt;瓷砖放置游戏，玩家在其上绘制并放置一块法国南部风景的瓷砖.  建造你的城堡，将它们与道路和草地连接起来，为角色和得分分配meeples.
+ &gt;瓷砖放置游戏，玩家在其中绘制并放置一块带有法国南部风景的瓷砖.  建造您的城堡，将它们与道路和草地连接，分配角色角色和得分.
 
 ![Carcassonne game image](https://battlequarters.com/2277-home_default/carcassonne-board-game.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2  -  5 |  8 |  30-90米|
+ |  2-5 |  8 |  30-90m |
 
 ### [Exploding Kittens](https://explodingkittens.com/)
 
- &gt;爆炸小猫是俄罗斯轮盘赌的高度战略性，基于猫咪的动力版本.  这是Kickstarter历史上资金最多的游戏，为现代世界的和平与安宁铺平了道路.  它还具有燕麦片所示的卡片.
+ &gt;爆炸小猫是俄罗斯轮盘赌的一种具有高度战略意义的，以猫为动力的版本.  这是Kickstarter历史上资金最多的游戏，为现代世界的和平与安宁铺平了道路.  它还具有燕麦片所说明的卡片.
 
-<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260px">
+<img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260">
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  2  -  5 |  7 |  15米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-5 |  7 |  15m |
 
 ### [Chess](https://en.wikipedia.org/wiki/Chess)
 
- &gt;国际象棋是一个棋盘游戏，在棋盘两侧的两个对手之间进行，包含64个交替颜色的方块（白色和黑色）.  每位玩家有16件：1个国王，1个女王，2个车，2个主教，2个骑士和8个棋子.  游戏的目标是战胜对手的国王.  该游戏由全球数百万人玩. 
+ &gt;国际象棋是一种棋盘游戏，在棋盘相对两侧的两个对手之间进行，包含64个正方形的交替颜色（白色和黑色）.  每个玩家有16个棋子：1个国王，1个皇后，2个新人，2个主教，2个骑士和8个棋子.  游戏的目的是杀死对手的国王.  全世界有数百万人在玩这款游戏.
 
 ![Chess game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  2 |  5 |  5-120米|
+ |  2 |  5 |  5-120m |
 
 ### [Commonspoly](https://commonspoly.cc/)
 
- &gt; Commonspoly是一个有趣的策略和回合制RPG游戏，游戏玩家共同努力保护他们的世界不被投机者接管.  这场比赛就像在大富翁游戏中所做的那样.  因为在Commonspoly拥有私人物品是不受欢迎的，将私有货物转换为公共或社区拥有的货物将是参与者的任务.  游戏真的很有趣，因为它是一个反对善恶的坑，游戏中的投机者角色描绘了邪恶.  投机者绕过游戏并试图撤消辩护人的努力.  此外，该游戏是在同行生产许可证下发布的，可以免费下载并在家中打印播放.
+ &gt; Commonspoly是一款有趣的策略性回合制RPG游戏，游戏中的玩家共同努力捍卫自己的世界，免受投机者的接管.  游戏就像是在大富翁游戏中的正相反.  因为在公有制国家中，拥有私人物品的人不愿接受，将私人拥有的物品转换为公共或社区拥有的物品将是参与者的任务.  该游戏非常有趣，因为它与善与恶相对立，游戏中的投机者会描绘邪恶.  投机者在游戏中四处奔走，并试图消灭防御者的努力.  此外，该游戏还根据Peer Production许可发布，可以免费下载并在家打印以进行游戏.
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | -----: |
- |  4  -  8 |  7 |  30-90米|
+ |  4-8 |  7 |  30-90m |
+
+### [Cluedo](https://en.wikipedia.org/wiki/Cluedo)
+
+ &gt;线索游戏（Cluedo）是一款三到六名玩家的谋杀神秘游戏.  每个玩家都是谋杀案的嫌疑人，需要通过推论谁是真正的凶手，犯罪发生地和使用的武器来证明自己的纯真.  玩家通过策略性地在大厦的不同房间中移动并收集其他玩家的各种线索来做到这一点.
+
+![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  3-6 |  8 |  10-60m |
+
+### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
+
+> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+
+![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-5 |  14 |  60m |
 
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
 
- &gt;在丛林速度中，你必须依靠敏锐的观察力和快速反应.  它需要稳定的手 - 在疯狂的笑声中很难维持！  木制图腾位于桌子中间，等待最快速反应的玩家抢夺它并赢得比赛.  每位玩家都会获得一手牌.  为了获胜，你必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都会展示他们的一张牌.  如果两张牌相同，那些玩家必须抓住图腾.  然后更快的玩家将他们的牌给他们不幸的对手.
+ &gt;在“丛林速度”中，您必须依靠敏锐的观察力和快速反应.  它需要稳定的手-在许多狂躁的笑声中很难保持！  木制的图腾坐在桌子中间，等待反射最快的玩家抢走它并赢得比赛.  每个玩家都被发牌.  为了获胜，您必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都显示一张牌.  如果两张牌相同，则这些玩家必须抢夺图腾.  然后，速度更快的玩家将其牌交给不幸的对手.
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2  -  8 |  7 |  10米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-8 |  7 |  10m |
 
-### [Mysterium](https://wikipedia.org/wiki/Mysterium_(board_game))
+### [Mysterium](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Mysterium_(board_game)>)
 
-> As a group, divine the messages from the recently murdered ghost to solve the murder in this collaborative whodunit. Equally easy for beginners and experienced gamers to play with something new every game.
+ &gt;团结一致，从最近被谋杀的幽灵那里得到消息，以解决这个合作组织中的谋杀案.  对于初学者和经验丰富的游戏玩家来说，每场游戏都同样容易玩.
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2  -  7 |  10 |  42米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-7 |  10 |  42m |
 
 ### [Shabadabada](https://boardgamegeek.com/boardgameexpansion/119871/shabadabada-2)
 
- &gt;这是一款小而简单的派对游戏，旨在让您在壁炉旁或任何地方唱歌.  两支队伍使用预定的单词竞争.  一旦玩家唱出包含当前单词的歌曲的一部分，另一个小组必须找到包含该单词的另一首歌曲.  一支球队失败，另一支球队就赢了.
+ &gt;这是一款小型且非常简单的派对游戏，旨在让您在壁炉旁或任何地方唱歌.  两队比赛使用预定的单词.  一旦演奏者演唱了包含当前单词的歌曲的一部分，另一支队伍就必须找到另一首包含该单词的歌曲.  一队失败后，另一人将赢得该卡.
 
 ![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  4  -  16 |  8 |  45米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  4-16 |  8 |  45m |
 
 ### [Coup](https://boardgamegeek.com/boardgame/131357/coup)
 
- &gt;在不久的将来，政府将通过一个由多国首席执行官组成的新“王室”来获利.  ......要取得成功，你必须摧毁对手的影响并驱使他们流亡.  在这些动荡的时代，只有一个人能够生存.
+ &gt;在不太遥远的未来，政府将由新的“皇家阶层”的跨国CEO营利.  ...为了获得成功，您必须摧毁竞争对手的影响力并将他们驱逐到国外.  在这些动荡的时代，只有一个生存空间.
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
- |  2  -  6 |  10 |  15米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-6 |  10 |  15m |
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
- &gt; Munchkin是关于地牢冒险的大型纸牌游戏......没有任何愚蠢的角色​​扮演的东西.  你和你的朋友竞争杀死怪物并抓住魔法物品.  什么神奇的物品！  穿角质头盔和踢屁股的靴子.  挥动凝固汽油弹的工作人员...或者也许是血腥肢解的电锯.  从屠宰盆栽植物和流口水泥开始，一路走到钚龙...
+ &gt;蒙奇金（Munchkin）是一款关于地下城冒险的热门打牌游戏，没有那么愚蠢的角色​​扮演游戏.  您和您的朋友竞争杀死怪物并抢夺魔法物品.  还有什么魔术物品！  穿上角质头盔和踢屁股长靴.  挥舞着纳帕姆的法杖……或者是血腥肢解的电锯.  首先屠宰盆栽植物和流口水的软泥，然后逐步到达way龙...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  3  -  6 |  10 |  60-120米|
+ |  3-6 |  10 |  60-120m |
 
-### [Ludo](https://en.wikipedia.org/wiki/Ludo_(board_game))
+### [Ludo](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Ludo_(board_game)>)
 
- &gt;这个棋盘游戏可以在任何年龄组的最少2到最多4人之间进行.  两个骰子中的一个可用于移动令牌.  所有代币首先到达家中的玩家是胜利者.  玩家可以通过将其令牌冲到同一个方格来杀死其他玩家的令牌.  其他玩家的代币再次回到家中.  有些电路板提供了特殊的方块，其中令牌是安全的并且不能被杀死.  玩家可以决定他们是否需要一个获得额外转弯的规则来获得掷骰子6.更多令人兴奋的规则可以在维基百科链接上找到.
+ &gt;该棋盘游戏可以在任何年龄段的2至4人之间进行.  两个骰子之一可以用来移动令牌.  所有代币先到达家中的玩家是获胜者.  玩家可以通过将其令牌与同一方块冲突来杀死其他玩家的令牌.  其他玩家的代币再次返回房屋.  一些板提供了特殊的正方形，令牌是安全的并且不能被杀死.  玩家可以决定是否想要获得6分后再掷骰子的规则.更多令人兴奋的规则可以在Wikipedia链接上找到.
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  2  -  4 |  4 |  30-60米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  4 |  30-60m |
 
 ### [Carrom](https://en.wikipedia.org/wiki/Carrom)
 
- &gt;这个棋盘游戏由两到四名玩家玩.  目的是使用一个手指轻轻敲打的撞针盘击中称为carrom men的黑色或白色较轻的磁盘，并将它们放在角落处的口袋中.  游戏的目的是在另一个对手之前将一个九个卡罗姆男人和女王放入（口袋）.  卡罗姆女王类似于八球池比赛中的8球（黑球）.
+ &gt;该棋盘游戏由2至4个玩家玩.  目的是使用手指轻弹的撞针盘击打称为carrom men的黑色或白色打火机盘，并将其放入角落处的口袋中.  游戏的目的是在一个对手的九个卡罗姆人和王后之间先倒（口袋）.  卡罗姆王后类似于八球桌游戏中的8球（黑球）.
 
 ![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  2  -  4 |  3 |  30-60米|
-
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  3 |  30-60m |
 
 ### [That's A Question﹗](https://boardgamegeek.com/boardgame/226322/s-question)
 
- &gt;与您认为自己认识的人一起玩的精彩游戏.  你扮演松鼠的角色，当他们爬上一座山时，互相问问题.  玩家从他们手中的瓷砖中收集问题，互相询问“你宁愿生活在没有披萨或水果的世界吗？”  或者“你愿意写出伟大的美国小说还是永远不必再睡觉？”  对每个人来说都是一个美好的时光，游戏拥有这种美好，无辜的魅力.  即使是手册也很有趣.
+ &gt;与您认为自己认识的人一起玩的出色游戏.  您扮演松鼠在爬山时互相问问题的角色.  玩家从手中的砖块上组装问题，互相问“你想住一个没有披萨或水果的世界吗？”.  还是“您是愿意写伟大的美国小说，还是不必再睡觉？”  这对每个人来说都是个好时机，并且游戏具有这种美好而天真的魅力.  即使手册也很有趣.
 
 ![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  3  -  6 |  15 |  30米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-6 |  15 |  30m |
 
 ### [One Night Werewolf](https://beziergames.com/products/one-night-ultimate-werewolf)
 
- &gt; One Night Ultimate Werewolf是一款快节奏的游戏，每个人都可以扮演不同的角色.  在一个晚上和第二天早上，玩家将确定他们中谁是狼人......希望如此.
+ &gt;“一夜终极狼人”是一款快节奏的游戏，每个人都可以扮演不同的角色.  在仅一个晚上和第二天早晨的过程中，玩家将确定其中谁是狼人...希望.
 
 ![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW-BOX-COVER_250x250.jpg?v=1554841270)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  3  -  10 |  8 |  10-15米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  3-10 |  8 |  10-15m |
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt;曾经想玩流行的游戏秀游戏谁想成为百万富翁？  看看这个棋盘游戏版本的Who Wants To A Millionaire.  除了电视摄像机，Regis Philbin和真钱之外，这款游戏包括简单可笑的100美元问题，生命线和2000多个问题.
+ &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  2  -  5 |  12 |  45-60m |
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-5 |  12 |  45-60m |
 
 ### [Catan](https://www.catan.com/game/catan)
 
- &gt;想象自己处于发现的时代：在经历了长期的极度贫困之旅之后，你的船只终于到达了一个未知的岛屿的海岸.  它的名字应该是Catan！  但你不是唯一的发现者.  其他无所畏惧的海员也登陆了卡坦海岸：已经开始了解决岛屿的竞赛！
+ &gt;在发现时代想象自己：经过漫长的艰苦跋涉，您的船只终于到达了一个未知岛屿的海岸.  它的名字叫卡坦！  但是您不是唯一的发现者.  其他无所畏惧的海员也登陆了加坦海岸：定居该岛的竞赛已经开始！
 
 ![catan game image](https://www.catan.com/sites/all/themes/catan/images/start-packshot_mayfair_neu.png)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  3  -  4 |  10 |  45-90米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  3-4 |  10 |  45-90m |
 
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
- &gt;在超快寿司纸牌游戏Sushi Go！中，你正在一家寿司店吃饭，并试图抓住最好的寿司料理组合.  收集最多寿司卷或制作全套生鱼片的分数.  将您最喜爱的nigiri浸入芥末中，使其价值增加三倍！  一旦你吃完了所有的东西，用你所有的布丁来吃完饭！  但要小心你允许朋友吃哪种寿司;  它可能正是他们需要击败你的！
+> In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
- |  球员|  闵.  年龄|  时间|
-| ------: | -------: | ------: |
- |  2  -  5 |  8 |  15米|
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-5 |  8 |  15m |
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔法仍然存在，体现在陆地，天空和各种自然物质的精神之中.  随着欧洲的大国越来越多地扩展他们的殖民帝国，他们将不可避免地声称一个灵魂仍然拥有权力的地方 - 当他们这样做时，土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
- |  球员|  闵.  年龄|  时间|
+ |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  1  -  4 |  13 |  90-120m |
+ |  1-4 |  13 |  90-120m |
 
+### [Bears vs. Babies](https://boardgamegeek.com/boardgame/211534/bears-vs-babies)
+
+ &gt;熊与婴儿是一款纸牌游戏，您可以在其中建立英俊，令人难以置信的怪物，这些怪物会与可怕的可怕婴儿交战.  共享纸牌由熊的部分（和其他怪物的部分）和婴儿卡组成.  当您绘制零件时，您将使用它为自己构建一个怪物.  当您画婴儿时，它会放在桌子的中央.  当婴儿被挑衅时，他们会进攻，而怪物部分少于进攻婴儿数量的人将失去他们的怪物；  每个人都拥有比婴儿更多的部分，他们会击败这支婴儿部队并得分.
+
+![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-5 |  7 |  15-20m |
+
+### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
+
+ &gt;《暮光帝国》（第四版）是一场银河征服游戏，其中三到六名玩家扮演17个派系之一的角色，这些派系通过军事力量，政治策略和经济谈判争夺银河统治权.  每个派系都提供完全不同的游戏体验，从蠕虫般的克劳斯鬼魂到贸易和经济学大师哈康酋长国，一应俱全.  这十七场比赛为胜利提供了许多途径，但只有梅卡托尔·雷克斯（Mecatol Rex）的宝座可以成为新的银河系大师.
+
+![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-6 |  14 |  240m |
+
+### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
+
+&gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
+ &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+
+<img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  3-10 |  18 |  30-90m |
+
+### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
+
+ &gt;开始时，您认为您正在玩好老的《大富翁》，他们只是增加了一些额外的建筑物，以给人些许扭曲.  但是玩的时间越长，您就越能意识到他们实际上创造了一个全新的游戏.  您开始时会比平时赚更多的钱，这使您有了更长的寿命（也许有些运气）的想法.  现在，您可以在购买物业时立即建造房屋，这给游戏带来了很大的活力.  没有更多的等待，直到您拥有完整的组合，或者因为一个玩家拒绝交易而没有组合.  即使拥有几个单一属性，您也可以赢得比赛.
+
+<img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-6 |  8 |  40-75m |
+
+### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
+
+ &gt;恐怖以下是在内华达州沙漠疯狂进行的政府实验的游戏.  移动得越快，振动就越多，吸引了地下蠕虫的注意.  在困难的地形中航行，以收集有价值的蠕虫卵，并将其运送到城镇周围的地方以索要赏金.  如果您感到幸运，请收集物品和武器去打猎他们.
+
+![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  1-5 |  10 |  45-60m |
+
+### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
+
+ &gt;希特勒秘密（Secret Hitler）是一场戏剧性的政治阴谋和背叛的游戏，背景是1930年代德国.  每个球员都被随机秘密地分配为自由主义者或法西斯主义者，而其中一个球员是秘密希特勒.  法西斯主义者进行协调，以表达不信任，并建立起冷血的领袖.  自由主义者必须为时已晚找到并制止秘密希特勒.  自由派团队总是占多数.
+
+![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  5-10 |  13 |  45m |
+
+### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
+
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后与对手相比，击败更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+
+![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-4 |  12 |  45m |
 
 ## Contribute
 
- 欢迎并鼓励捐款！  首先阅读[贡献指南] [contrib-guide].
-
+ 欢迎和鼓励捐款！  请先阅读[贡献准则] [贡献指南].
 
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
-在法律允许的范围内，任何和/或所有版权均已被免除
-相关或相邻的权利.
+在法律允许的范围内，任何和/或所有版权以及任何
+相关或邻接权.
 
-[contrib-guide]：contributions.md
+[contrib-guide]：contribution.md

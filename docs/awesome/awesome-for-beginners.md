@@ -4,7 +4,7 @@
 
 很棒的初学者友好项目列表.
 
-受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章和YourFirstPR项目.
+受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
 如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
 
@@ -73,7 +73,7 @@
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner)  _（标签：初学者）_ <br>  优雅而轻巧的全栈JavaScript样板.
@@ -81,9 +81,9 @@
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于移动设备的交互式地图的JavaScript库.
 - [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  拖放是如此简单，很痛苦.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Angular指令，可让您拆分！
-- [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：初学者）_ <br>  JavaScript的最小功能历史记录库.
+- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：初次贡献者）_ <br>  通过在许多Javascript应用程序中实现Todo来帮助您选择MV \ *框架.
-- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22) _(label: starter bug)_ <br> An open source code editor for the web, written in JavaScript, HTML and CSS.
+- [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门错误）_ <br>  Web的开放源代码编辑器，用JavaScript，HTML和CSS编写.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来派的测试跑步者.
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：轻松选择）_ <br>  离线优先JavaScript客户端，利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript模式.
@@ -101,7 +101,7 @@
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Hoodie Camp是供新老参与者使用的空间.
 - [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
-- [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载和浏览器中页面之间的无缝过渡.
+- [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  通用服务器渲染的React应用程序的简约框架
@@ -128,6 +128,7 @@
 - [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用降价创建一个网页.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Check It Out是一种类似于ncurses的CLI，可让用户以交互方式导航并选择git分支进行检出.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  来自免费资源的多平台音乐播放器.
+- [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
 
 ## Julia
 
@@ -150,6 +151,7 @@
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Matomo是领先的Free / Libre开放分析平台.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  增强您的GitHub组织！
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
+- [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_ <br>  领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
 
 ## Python
 
@@ -179,6 +181,7 @@
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的灵活而强大的数据分析/操作库，提供与R data.frame对象，统计函数等类似的标记数据结构
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一键单击OpenVPN部署和管理仪表板.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  大规模自动化任何基础架构或应用程序的管理和配置的软件.
+- [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue)  _（标签：启动程序问题）_ <br>  gpodder.net的Web服务，这是一个自由Web服务，允许用户管理其播客订阅并发现新内容.
 
 ## Ruby
 
@@ -202,10 +205,12 @@
 - [Rustfmt](https://github.com/rust-lang-nursery/rustfmt/labels/good-first-issue)  _（标签：优先事项）_ <br>  根据样式准则格式化Rust代码的工具.
 - [Iron](https://github.com/iron/iron/labels/easy)  _（标签：简单）_ <br>  用于Rust的可扩展的并发Web框架
 - [TiKV](https://github.com/tikv/tikv/labels/D%3A%20Easy)  _（标签：D：简单）_ <br>  分布式交易关键值数据库
+- [nushell](https://github.com/nushell/nushell/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用Rust编写的GitHub时代的现代shell.
+- [Hyper](https://github.com/hyperium/hyper/labels/E-easy)  _（标签：E-easy）_ <br>  一个用于Rust的快速，安全和正确的低级HTTP库.
 
 ## Scala
 
-- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue) _(label: good first issue)_ <br> Wonderful reusable code from Twitter
+- [Twitter Util](https://github.com/twitter/util/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  来自Twitter的精彩可重用代码
 - [playframework](https://github.com/playframework/playframework/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  高速Web框架
 
 ## TypeScript

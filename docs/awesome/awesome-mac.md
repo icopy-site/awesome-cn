@@ -144,6 +144,7 @@
 * [Visual Studio Community for Mac](https://www.visualstudio.com/vs/visual-studio-mac/)  -面向学生，开源和个人开发人员的全功能IDE **免费**.  ！[免费软件] [免费软件图标]
 * [Xamarin Studio](https://www.visualstudio.com/vs/visual-studio-mac/) - Free cross platform C# IDE. Xamarin Studio supports iOS, Android and .Net development [![Open-Source Software][OSS Icon]](https://github.com/mono/monodevelop) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/benoitjadinon/awesome-xamarin#readme)
 * [Xcode](https://developer.apple.com/xcode/)  -用于iOS / macOS开发的基本IDE.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/id497799835）
+* [Spyder](https://www.spyder-ide.org/) -适用于Python的强大的用Python编写的科学环境.
 
 #### Developer Utilities
 
@@ -387,7 +388,7 @@
 * [Balsamiq Mockups](https://balsamiq.com/products/mockups/) -线框图工具，可帮助您更快，更智能地工作.
 * [Flinto](https://www.flinto.com/) -快速创建移动，桌面或Web应用程序的交互式原型.
 * [Framer](http://framerjs.com/) -交互式原型制作工具.
-* [Justinmind](http://www.justinmind.com) - Prototyping platform for web and mobile apps.
+* [Justinmind](http://www.justinmind.com) -用于Web和移动应用程序的原型平台.
 * [Kite](https://kiteapp.co/) -适用于Mac和iOS的强大动画和原型制作应用程序.
 * [Lighten](http://lighten.xmind.net/) -澄清思维，提高生产力，集思广益和形象化概念的最佳方法.
 * [Loremify](http://loremify.com) -伟大的Lorem ipsum生成器.！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/loremify/id1028877632）
@@ -672,6 +673,7 @@
 * [ControlPlane](http://www.controlplaneapp.com/)  -管理Mac的配置配置文件.  根据许多可用的证据来源确定您的位置或所从事的工作，然后根据您的喜好自动重新配置Mac.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
 * [DNS Heaven](https://github.com/greenboxal/dns-heaven)  -统一macOS DNS，以便使用glibc的应用程序可以使用本机堆栈解析DNS.  主要用于VPN.  [！[开源软件] [OSS图标]]（https://github.com/greenboxal/dns-heaven）！[免费软件] [免费软件图标]
 * [HTTrack](http://www.httrack.com)  -用于下载整个网站和脱机浏览的有用工具.  ！[免费软件] [免费软件图标]
+* [Lungo](https://sindresorhus.com/lungo)  -防止Mac进入睡眠状态.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/lungo/id1263070803）
 * [Mac Cache Cleaner](https://github.com/kaunteya/MacCacheCleaner) -Mac [... [开源软件] [OSS图标]]（https://github.com/kaunteya/MacCacheCleaner）的缓存清理器！[免费] [免费软件]
 * [MacAssistant](https://github.com/vanshg/MacAssistant/releases) -macOS的Google助手[！[开源软件] [OSS图标]]（https://github.com/vanshg/MacAssistant）！[免费软件] [免费软件]
 * [Manta](https://getmanta.app/)  -带有精美，可自定义模板的灵活发票桌面应用程序.  [！[开源软件] [OSS图标]]（https://github.com/hql287/Manta）！[免费软件] [免费软件图标]
@@ -790,7 +792,7 @@
 * [Paragon NTFS](https://www.paragon-software.com/home/ntfs-mac/) -在macOS Sierra中对NTFS的读/写访问.
 * [Porting Kit](http://portingkit.com/)  -在Mac内安装Windows®游戏.  ！[免费软件] [免费软件图标]
 * [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -用于管理SSH连接的应用程序.
-* [TG Pro](https://www.tunabellysoftware.com/tgpro/) -温度监控，风扇控制和硬件诊断，以帮助保持Mac凉爽健康.
+* [TG Pro](https://www.tunabellysoftware.com/tgpro/) - Temperature monitoring, fan control & hardware diagnostics to help keep your Mac cool and healthy.
 * [Tuxera NTFS](http://www.tuxera.com/products/tuxera-ntfs-for-mac/) -与Mac上NTFS格式的驱动器完全读写兼容.
 * [Overkill](https://github.com/KrauseFx/overkill-for-mac) -在连接iPhone时停止打开iTunes.
 

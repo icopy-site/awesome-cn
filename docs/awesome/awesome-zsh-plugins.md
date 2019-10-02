@@ -707,6 +707,7 @@ zapack是基本的快速最小ZSH插件加载程序.
 * [codeception](https://github.com/shengyou/codeception-zsh-plugin) -为Codeception测试框架添加命令完成.
 * [codemachine](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) -显示git信息，无论您是否通过`ssh`登录，返回上一条命令的代码.
 * [completions](https://github.com/zsh-users/zsh-completions) -ZSH额外完成的集合.
+* [conda-zsh-completion](https://github.com/esc/conda-zsh-completion) -Conda的ZSH标签完成.
 * [ctop](https://github.com/gantsign/zsh-plugins/tree/master/ctop) -的制表符补全 [ctop](https://github.com/bcicen/ctop).
 * [dbic](https://github.com/lejeunerenard/dbic-migration-env) -自动为DBIx :: Class :: Migration的脚本和Dancer设置环境变量.
 * [docker-enter-completion](https://github.com/primait/docker-enter-completion) -命令完成 [docker-enter](https://github.com/jpetazzo/nsenter).

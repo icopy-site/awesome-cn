@@ -162,7 +162,7 @@
   * [gtmetrix.com](https://gtmetrix.com/) -报告和详尽的建议，以优化网站
   * [browserling.com](https://www.browserling.com/) —实时交互式跨浏览器测试，在1024 x 768分辨率下在Vista下使用MS IE 9仅免费提供3分钟的会话
   * [shields.io](https://shields.io) —开源项目的质量元数据徽章
-  * [beanstalkapp.com](https://beanstalkapp.com/) —编写，查看和部署代码的完整工作流程），1个用户的免费帐户和1个存储库（具有100 MB的存储空间）
+  * [beanstalkapp.com](https://beanstalkapp.com/) —编写，查看和部署代码的完整工作流程），1个用户的免费帐户和1个具有100 MB存储空间的存储库
   * [testanywhere.co](https://testanywhere.co/) —连续不断地自动测试网站或Web应用程序，并在早期阶段发现错误，每月免费进行1,000次测试
   * [gerrithub.io](https://review.gerrithub.io/) — GitHub存储库的Gerrit代码审查是免费
   * [reviewable.io](https://reviewable.io/) — GitHub存储库的代码审查，免费提供给公共或个人仓库
@@ -345,7 +345,7 @@
 
 ## CDN and Protection
 
-  * [PageCDN.com](https://pagecdn.com/) - Offers free Public CDN for everyone, and free Private CDN for opensource / non profits.
+  * [PageCDN.com](https://pagecdn.com/) -为所有人提供免费的公共CDN，并为开源/非赢利提供免费的私人CDN.
   * [cloudflare.com](https://www.cloudflare.com/) —基本服务是免费的，对博客非常有用，它还提供免费的SSL证书服务和5条防火墙规则.
   * [bootstrapcdn.com](https://www.bootstrapcdn.com/) — CDN，用于引导程序，bootswatch和fontawesome.io
   * [cdnjs.com](https://cdnjs.com/) — CDN，用于JavaScript库，CSS库，SWF，图像等
@@ -487,7 +487,7 @@
    * [ngrok.com](https://ngrok.com/) —通过隧道将本地运行的服务器公开到公共URL.
    * [cloudamqp.com](https://www.cloudamqp.com/)  — RabbitMQ即服务.  小狐猴计划：每月最多100万条消息，最多20个并发连接，最多100个队列，最多10,000个排队的消息，不同可用区中的多个节点
    * [serveo.net](https://serveo.net/) —使用SSH隧道（包括SSH GUI可以通过HTTP重放请求）将任何本地端口快速公开到伺服子域上的公共Internet.
-   * [ZeroTier](https://www.zerotier.com)  — FOSS管理的虚拟以太网即服务.  免费计划的100个客户端的无限端到端加密网络.  台式机/手机/ NA的客户端；  Web界面，用于配置自定义路由规则并批准专用网络上的新客户端节点.
+   * [ZeroTier](https://www.zerotier.com) — FOSS managed virtual Ethernet as a service. Unlimited end-to-end encrypted networks of 100 clients on free plan. Clients for desktop/mobile/NA; web interface for configuration of custom routing rules and approval of new client nodes on private networks.
    * [Hamachi](https://www.vpn.net/) — LogMeIn Hamachi是一项托管VPN服务，可让您通过免费计划将类似于LAN的网络安全地扩展到分布式团队，允许最多5人的无限网络
    * [webhookrelay.com](https://webhookrelay.com)  —管理，调试，扇出并将所有Webhook代理到公共或内部（即localhost）目标.  另外，通过获取公共HTTP终结点（`https://yoursubdomain.webrelay.io &lt;----&gt; http：// localhost：8080），公开运行在专用网络中通过隧道的服务器.
 
@@ -603,7 +603,7 @@
    * [codesandbox.io](https://codesandbox.io/) — React，Vue，Angular，Preact等的在线游乐场
    * [stackblitz.com](https://stackblitz.com/) — Angular＆React在线VS Code IDE
    * [cacher.io](https://www.cacher.io) —带有标签的代码片段组织器，并支持100多种编程语言
-   * [Coder](https://coder.com)  —该平台可为您提供围绕Visual Studio Code构建的整个开发环境.  在免费套餐中，您将获得2GB的项目和2GB的容器空间，以及5个小时的Fast Time（快速时间），如果启用，则可动态扩展您的容器.
+   * [Coder](https://coder.com)  —该平台可为您提供围绕Visual Studio Code构建的整个开发环境.  在免费套餐中，您将获得2GB的项目和2GB的容器空间，以及5个小时的Fast Time（快速时间），如果启用，则可动态扩展容器.
    * [gitpod.io](https://www.gitpod.io)  —用于GitHub项目的即时，可编写代码的开发环境.  免费开源.
    * [Katacoda](https://katacoda.com) —用于软件工程师的交互式学习和培训平台，可帮助开发人员学习和公司提高采用率.
    * [JDoodle](https://www.jdoodle.com) —用于60多种编程语言的在线编译器和编辑器，并提供免费的REST API代码计划，每天最多可编译200学分.
@@ -637,6 +637,7 @@
 ## International Mobile Number Verification API and SDK
   * [cognalys.com](https://cognalys.com/)  —与使用SMS网关相比，通过创新，可靠的方法来免费增值移动电话号码验证.  每天免费10次尝试和15次验证
   * [numverify.com](https://numverify.com/)  —全局电话号码验证和查找JSON API.  每月250个API请求
+  * [veriphone.io](https://veriphone.io/)  —使用免费，快速，可靠的JSON API进行全球电话号码验证.  每月1000个请求
 
 ## Payment / Billing Integration
 

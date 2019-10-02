@@ -356,7 +356,7 @@
 * [vulture](https://github.com/jendrikseipp/vulture) -在Python代码中找到未使用的类，函数和变量
 * [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -有史以来最严格，最有主见的python linter
 * [wily](https://github.com/tonybaloney/wily) -用于归档，探索和绘制Python源代码复杂性的命令行工具
-* [xenon](https://github.com/rubik/xenon) -使用监视代码的复杂性 [`radon`](https://github.com/rubik/radon)
+* [xenon](https://github.com/rubik/xenon) -使用以下命令监视代码复杂性 [`radon`](https://github.com/rubik/radon)
 
 ## Python wrappers
 
@@ -426,7 +426,7 @@
 
 ## SQL
 
-* [sqlcheck](https://github.com/jarulraj/sqlcheck) -自动识别SQL查询中的反模式
+* [sqlcheck](https://github.com/jarulraj/sqlcheck-old) -自动识别SQL查询中的反模式
 * [sqlint](https://github.com/purcell/sqlint) -简单的SQL linter
 * [tsqllint](https://github.com/tsqllint/tsqllint) -T-SQL专用的linter
 * [TSqlRules](https://github.com/ashleyglee/TSqlRules) -SQL Server的TSQL静态代码分析规则
@@ -452,7 +452,7 @@
 
 ## VBScript
 
-* [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试基于VBScript的自动化测试.
+* [Test Design Studio](http://patterson-consulting.net/tds) ：copyright：-具有静态代码分析功能的完整IDE，用于Micro Focus统一功能测试，基于VBScript的自动化测试.
 
 ## Multiple languages
 
