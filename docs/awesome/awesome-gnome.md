@@ -8,7 +8,7 @@
 
 [GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在让用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式的一部分维护和分发的扩展.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式维护和分发的扩展名.
 
 
   - [Developpement and Design](#developpement-and-design) 
@@ -25,9 +25,9 @@
 - [Geary](https://wiki.gnome.org/Apps/Geary) -现代邮件客户端，最初由Yorba创建.
 - [FeedReader](https://jangernert.github.io/FeedReader/) -RSS提要阅读器.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) -RSS / Atom提要阅读器.
-- [Corebird](http://corebird.baedert.org/) -Twitter客户端.
+- [Cawbird](https://ibboard.co.uk/cawbird/) -Twitter客户端.
 - [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) -Reddit客户.
-- [Ring-GTK](https://ring.cx/) -Ring客户端，一种安全的通信工具.
+- [Jami](https://jami.net/) -Jami的客户端，一种安全的通讯工具.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) -观看Twitch的客户端.
 - [Haguichi](https://www.haguichi.net/) -Hamachi的图形前端.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) -传输洪流守护程序的远程客户端.
@@ -189,7 +189,7 @@
 &gt;扩展上游主题或与之兼容的主题.
 
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita)  -Adwaita的紧凑型叉子.  （GTK，壳牌）
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)  -Adwaita的精简版本，比minwaita更忠实，但不那么精巧.  （GTK，壳牌）
+- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)  -Adwaita的精简版本，比minwaita更忠实，但不那么紧凑.  （GTK，壳牌）
 - [Yaru](https://github.com/ubuntu/yaru)  -Ubuntu的官方社区风格.  （GTK，壳牌）
 
 #### Look-a-like Themes

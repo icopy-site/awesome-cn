@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="veggiemonk/awesome-docker"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker)
+## Awesome Docker [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/veggiemonk/awesome-docker](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/veggiemonk/awesome-docker) <!-- omit in toc -->
 
 &gt;精选的Docker资源和项目清单
 &gt;灵感来自 [@sindresorhus](https://github.com/sindresorhus)&#39;[awesome] [sindresorhus]并通过这些改进**[amazing contributors](https://github.com/veggiemonk/awesome-docker/graphs/contributors)**.
@@ -19,7 +19,7 @@
  此列表的创建者和维护者不会接受任何付款方式来接受任何贡献者所做的更改.  该页面绝不是官方的Docker产品.  它是项目链接的列表，由志愿者维护.  欢迎大家贡献力量.  该回购的目的是索引开源项目，而不是为了牟利而做广告.
 
 所有链接均通过以下方式进行监控和测试 [awesome_bot](https://github.com/dkhamsing/awesome_bot) 由制成 [@dkhamsing](https://github.com/dkhamsing)
-
+ 
 
 <!-- TOC -->
 
@@ -61,7 +61,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 ## Where to start (Windows)
 
 - [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](https://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) 比较Windows和Linux上Docker的功能集和实现
-- [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker映像并运行Windows容器
+- [Build And Run Your First Docker Windows Server Container](https://www.docker.com/blog/build-your-first-docker-windows-server-container/) 演练在Windows 10上安装Docker，构建Docker映像并运行Windows容器
 - [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) 通过 [@kaitoedter](https://twitter.com/kaitoedter)
 - [Docker Reference Architecture: Modernizing Traditional .NET Framework Applications](https://success.docker.com/article/modernizing-traditional-dot-net-applications) -您将学习识别适合进行容器化的“ .NET Framework”应用程序类型，这是“提升和转移”容器化方法.
 - [Docker with Microsoft SQL 2016 + ASP.NET](https://blog.alexellis.io/docker-does-sql2016-aspnet/) 演示在Docker中运行ASP.NET和SQL Server工作负载
@@ -408,7 +408,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 用于安全存储Docker映像的服务.
 
 - [Amazon EC2 Container Registry :heavy_dollar_sign:](https://aws.amazon.com/ecr/) -Amazon EC2容器注册表（ECR）是完全托管的Docker容器注册表，使开发人员可以轻松存储，管理和部署Docker容器映像.
-- [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
+- [Azure Container Registry :heavy_dollar_sign:](https://azure.microsoft.com/en-us/services/container-registry/) -将Docker私有注册表作为一流的Azure资源进行管理
 - [CargoOS](https://github.com/RedCoolBeans/cargos-buildroot)  -在裸机或云上运行Docker引擎的基本操作系统.  通过 [@RedCoolBeans](https://github.com/RedCoolBeans)
 - [Cloudsmith :heavy_dollar_sign:](https://cloudsmith.io/l/docker-registry/)  -全面管理的软件包管理SaaS，对公共和私有Docker注册管理机构（以及许多其他服务，包括Kubernetes生态系统的Helm图表）提供一流的支持.  具有慷慨的免费层，并且对于开源也完全免费.
 - [Cycle.io :heavy_dollar_sign:](https://cycle.io/) -裸金属容器托管.
@@ -587,7 +587,7 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 
 - **[Valuable Docker Links](http://nane.kratzke.pages.mylab.th-luebeck.de/about/blog/2014/08/24/valuable-docker-links/) **有关docker的高质量文章！  **必看**
 - [Cloud Native Landscape](https://github.com/cncf/landscape)
-- [Docker Weekly](https://blog.docker.com/docker-weekly-archives/) 巨大的资源
+- [Docker Weekly](https://www.docker.com/blog/docker-weekly-archives/) 巨大的资源
 - [Programming Community Curated Resources for learning Docker](https://hackr.io/tutorials/learn-docker)
 - [Docker in Action, Second Edition](https://www.manning.com/books/docker-in-action-second-edition)
 - [Docker Community on Hashnode](https://hashnode.com/n/docker)
@@ -636,7 +636,6 @@ _Source:_ [What is Docker](https://www.docker.com/why-docker)
 - [Ten Docker Image Security Best Practices Cheat Sheet](https://snyk.io/blog/10-docker-image-security-best-practices/)
 - [Top ten most popular docker images each contain at least 30 vulnerabilities](https://snyk.io/blog/top-ten-most-popular-docker-images-each-contain-at-least-30-vulnerabilities/)
 - [Tuning Docker with the newest security enhancements](https://opensource.com/business/15/3/docker-security-tuning)
-- [Understanding Docker security and best practices](https://blog.docker.com/2015/05/understanding-docker-security-and-best-practices/) （2015年5月5日撰写）
 
 ## Videos
 

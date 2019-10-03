@@ -114,7 +114,7 @@
 
  |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  1-6 |  12 |  60-120m |
+|   1 - 6 |       12 | 60-120m |
 
 ## Strategy
 
@@ -212,7 +212,7 @@
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
-> Cthulhu Wars is a fast-moving strategy game about the end of the world. You take the part of various monstrous aliens seeking to dominate the world. You can play as Great Cthulhu himself, or you can take charge of other factions, such as the slithering hordes of the Crawling Chaos, or the insane minions of the Yellow Sign.
+ &gt;克苏鲁战争（Cthulhu Wars）是一个关于世界末日的快速发展的战略游戏.  您参与了各种试图统治世界的可怕外星人.  您可以扮演大克苏鲁本人，也可以掌管其他派系，例如，爬行混乱的队伍成群结队，或者黄牌的疯狂仆从.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
@@ -228,7 +228,7 @@
 
  |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ------: |
- |  1-4 |  15 |  30-120m |
+|   1 - 4 |       15 | 30-120m |
 
 ### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
 
@@ -302,7 +302,7 @@
 
 ### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
 
-> In Sheriff of Nottingham, each player assumes the role of a merchant who is looking to make a tidy profit during the Prince's visit to Nottingham. While it is possible to make a decent profit off of legal goods, illicit goods will leave you swimming in riches. But be careful, lest the Sheriff of Nottingham catches you!
+ &gt;在诺丁汉郡治安官中，每位球员都扮演着一个商人的角色，他希望在王子访问诺丁汉期间获得可观的利润.  虽然可以从合法商品中获得可观的利润，但非法商品会使您身陷财宝.  但是要小心，以免诺丁汉郡治安官抓住您！
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
@@ -424,7 +424,7 @@
 
 ### [Sushi Go](https://gamewright.com/product/Sushi-Go)
 
-> In the super-fast sushi card game Sushi Go!, you are eating at a sushi restaurant and trying to grab the best combination of sushi dishes as they whiz by. Score points for collecting the most sushi rolls or making a full set of sashimi. Dip your favorite nigiri in wasabi to triple its value! And once you've eaten it all, finish your meal with all the pudding you've got! But be careful which sushi you allow your friends to take; it might be just what they need to beat you!
+ &gt;在超快速的寿司纸牌游戏Sushi Go！中，您正在一家寿司餐厅用餐，并试图抓住寿司的最佳组合.  收集最多寿司卷或制作全套生鱼片的得分.  将您最喜欢的握寿司浸入芥末中，使其价值增加三倍！  一旦吃饱了，就用所有的布丁吃完饭！  但是要小心，您允许您的朋友吃哪种寿司；  可能正是他们要打败您！
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
@@ -434,7 +434,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
+> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -512,6 +512,48 @@
  |  玩家|  闵.  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-4 |  12 |  45m |
+
+### [Gloomhaven](https://boardgamegeek.com/boardgame/174430/gloomhaven)
+
+ &gt; Gloomhaven是在动机不断变化的世界中一场以欧洲为灵感的战术战斗游戏.  玩家将以自己的特殊技能和前往世界这个黑暗角落的理由扮演游荡的冒险家的角色.  玩家必须出于必要而共同努力，清除险恶的地牢和被遗忘的废墟.  在此过程中，他们将通过经验和战利品来增强自己的能力，发现新的地点进行探索和掠夺，并扩大他们决策所激发的分支故事.
+
+![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ------: |
+ |  1-4 |  12 |  60-120m |
+
+### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
+
+ &gt;每个玩家都从草拟由骰子掷骰决定的电视单词开始.  老式的沙漏计时器可能会限制他们执行草图的时间，但是它当然不会限制创造力！  时间到！  所有玩家都同时将自己的草图传递给下一个玩家，后者必须猜测所绘制的内容.  然后，玩家同时将他们的猜测（希望与原始单词匹配（或匹配？））传递给下一个必须尝试绘制他们看到的单词的玩家，依此类推.
+
+![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  4-8 |  12 |  30m |
+
+### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
+
+ &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在用爪子穿过纸牌时尝试收集有用的垃圾.  开始收集珍贵的垃圾物品，例如日龄的比萨饼或半食的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请稍等，掷骰子以撒谎其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会折磨您的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
+
+![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-5 |  8 |  15m |
+
+### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
+
+ &gt;两名竞争对手的间谍主管知道25名特工的秘密身份.  他们的队友仅通过其代号认识代理.
+
+ 在代号中，两个团队竞争，看谁先与他们的所有代理商联系.  间谍大师提供了一个单词的线索，可以指出板上的多个单词.  他们的队友会尝试猜测正确颜色的单词，同时避开属于对方团队的单词.  每个人都想避免刺客.
+
+![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
+
+ |  玩家|  闵.  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-8 |  14 |  15m |
 
 ## Contribute
 

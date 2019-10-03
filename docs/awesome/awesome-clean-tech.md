@@ -75,7 +75,7 @@
 
   Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
 
-- [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|   - 
+- [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|  --
 
    开发用于生产饮用水的反渗透技术，且运营成本低，并且不会产生CO2排放.  海水淡化系统完全是太阳能，独立于外部能源，易于使用和维护.
 
@@ -88,10 +88,18 @@
 - [Hydrostor](https://www.hydrostor.ca/)  |  加拿大|  2010
 
    将电能转换为在水下存储在蓄能器中的压缩空气.  一旦进入蓄电池，就可以存储能量，直到电网需要为止.  当需要能量时，水的重量将空气推回地面，并在其中使用发电机将其转换为电能.
+  
+- [Inspire](https://www.helloinspire.com/)  |  美国费城|  2014
+
+  通过向与智能家居技术集成的房主提供一系列负担得起的清洁能源计划，简化消费者对清洁能源的采用.
 
 - [Marcel](https://www.marcel.cab/engagements-rse/)  |  法国|  2011
 
    像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿其行驶产生的碳.  自2019年以来，仅在法国提供.
+  
+- [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州 
+
+   为汽车和运输业开发无线充电.  允许将任何类型的车辆或设备连接到电网，而无需使用电缆或电线.
 
 - [Nel ASA](https://nelhydrogen.com/)  |  挪威|  1927年
 

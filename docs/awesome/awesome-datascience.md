@@ -32,7 +32,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -91,6 +91,8 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Udacity - Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
 * [Keras in Motion](https://www.manning.com/livevideo/keras-in-motion) 
 * [Microsoft Professional Program for Data Science](https://academy.microsoft.com/en-us/professional-program/tracks/data-science/)
+* [COMP3222/COMP6246 - Machine Learning Technologies](https://tdgunes.com/COMP6246-2019Fall/)
+* [CS 231 - Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/)
 
 ## Data Sets
 
@@ -337,7 +339,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Matt Harrison](https://twitter.com/__mharrison__)  -目前正在使用数据科学家的全栈Python专家，作家，讲师的观点.  偶尔做父亲，做丈夫，超终生，有机园艺.
 - [Matthew Russell](https://twitter.com/ptwobrussell) -挖掘社交网络.
 - [Mert Nuhoğlu](https://twitter.com/mertnuhoglu) BizQualify的数据科学家，开发人员
-- [Monica Rogati](https://twitter.com/mrogati)  -数据@ Jawbone.  在LinkedIn上将数据转换为故事和产品.  文本挖掘，应用机器学习，推荐系统.  前游戏者，前机器编码器；  命名器.
+- [Monica Rogati](https://twitter.com/mrogati)  -数据@ Jawbone.  在LinkedIn上将数据转换为故事和产品.  文本挖掘，应用机器学习，推荐系统.  前游戏者，前机器编码器；  命名者.
 - [Noah Iliinsky](https://twitter.com/noahi)  -可视化和交互设计师.  实用的自行车手.  视觉书籍的作者：http：//www.oreilly.com/pub/au/4419
 - [Paul Miller](https://twitter.com/PaulMiller)  -云计算/大数据/开放数据分析师和顾问.  作家，演讲者和主持人.  Gigaom研究分析师.
 - [Peter Skomoroch](https://twitter.com/peteskomoroch)  -创建智能系统以自动化任务并改善决策.  企业家，前首席数据科学家@LinkedIn.  机器学习，ProductRei，网络

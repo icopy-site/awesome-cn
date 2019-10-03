@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="ziadoz/awesome-php"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
+## Awesome PHP ![](https://github.com/ziadoz/awesome-php/workflows/Awesome%20Bot/badge.svg)
 
 精选的令人赞叹的PHP库，资源和闪亮的清单.
 
@@ -42,7 +42,7 @@
 * [CakePHP](https://cakephp.org/) -快速的应用程序开发框架（CP）.
 * [Laravel 6](https://laravel.com/) -另一个PHP框架（L6）.
 * [Nette](https://nette.org) -另一个由单个组件组成的框架.
-* [Phalcon](https://phalcon.io/en/) -实现为C扩展的框架.
+* [Phalcon](https://phalcon.io/en-us) -实现为C扩展的框架.
 * [PPI Framework 2](https://github.com/ppi) -互操作性框架.
 * [Symfony](https://symfony.com/) -由单个组件（SF）组成的框架.
 * [Yii2](https://github.com/yiisoft/yii2/) -另一个PHP框架.
@@ -322,7 +322,7 @@
 * [Functional PHP](https://github.com/lstrojny/functional-php) -功能编程库.
 * [Iter](https://github.com/nikic/iter) -一个使用生成器提供迭代原语的库.
 * [Patchwork](http://patchwork2.org/) -用于重新定义用户界面功能的库.
-* [Pipeline](https://github.com/thephpleague/pipeline) -管道模式实施.
+* [Pipeline](https://github.com/thephpleague/pipeline) -管道模式实现.
 * [RulerZ](https://github.com/K-Phoen/rulerz) -强大的规则引擎和规范模式的实现.
 
 ### Debugging and Profiling
@@ -340,7 +340,7 @@
 * [Tracy](https://github.com/nette/tracy) -一个简单的错误检测，日志记录和时间测量库.
 * [xDebug](https://github.com/xdebug/xdebug) -用于PHP的调试和配置文件工具.
 * [XHProf](https://github.com/phacility/xhprof) -最初由Facebook开发的分析工具.
-* [Z-Ray](https://www.zend.com/products/server/z-ray) -用于Zend Server的调试和配置文件工具.
+* [Z-Ray](https://www.zend.com/products/z-ray) -用于Zend Server的调试和配置文件工具.
 
 ### Build Tools
 *项目构建和自动化工具.*
@@ -796,10 +796,10 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) -由Colin O&#39;Dell撰写的涵盖了PHP 7所有功能和更改的电子书.
 * [PHP Pandas](https://daylerees.com/php-pandas/) -Dayle Rees撰写的有关学习编写PHP的书.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) -Steve Corona撰写的有关扩展PHP应用程序的电子书.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·科努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) -克里斯·康努特（Chris Cornutt）撰写的有关PHP通用安全性条款和实践的书.
 * [Signaling PHP](https://leanpub.com/signalingphp) -Cal Evans撰写的有关在CLI脚本中捕获PCNTL信号的书.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) -Chris Hartjes撰写的有关构建测试PHP应用程序的书.
-* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书涵盖了解析和验证XML文档，利用XPath表达式，使用名称空间以及如何以编程方式创建和修改XML文件的内容.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -本书涵盖了解析和验证XML文档，利用XPath表达式以及使用名称空间以及如何以编程方式创建和修改XML文件的内容.
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) -用PHP编写的真实示例展示了DDD建筑风格.
 
 ### Other Books

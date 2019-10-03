@@ -68,6 +68,7 @@
 * [Nextron](https://github.com/saltyshiomix/nextron) -使用Next.js应用生成器的Electron⚡
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) -生产就绪-打字稿，Sass，Css，EnvConfig，反向代理，捆绑分析器
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
+* [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) -由Next.JS和MongoDB制作的成熟应用程序，具有身份验证等功能（Next.js 9，MongoDB）
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.

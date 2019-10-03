@@ -501,7 +501,7 @@
 * [sbt-scalafmt ★ 37 ⧗ 6](https://github.com/scalameta/sbt-scalafmt) -Scalafmt的sbt插件 [https://scalameta.org/scalafmt/](https://scalameta.org/scalafmt/)
 * [sbt-scala-js-map ★ 12 ⧗ 2](https://github.com/ThoughtWorksInc/sbt-scala-js-map) -一个sbt插件，可为Github上托管的Scala.js项目配置源映射
 * [sbt-scoverage ★ 470 ⧗ 68](https://github.com/scoverage/sbt-scoverage) -用于SBT的插件，集成了覆盖代码覆盖库.
-* [sbt-site ★ 159 ⧗ 122](https://github.com/scoverage/sbt-scoverage) -SBT网站生成 [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
+* [sbt-site ★ 159 ⧗ 122](https://github.com/sbt/sbt-site) -SBT网站生成 [https://www.scala-sbt.org/sbt-site/](https://www.scala-sbt.org/sbt-site/)
 * [sbt-sonatype ★ 221 ⧗ 4](https://github.com/xerial/sbt-sonatype) -一个sbt插件，用于将Scala / Java项目发布到Maven中心.
 * [sbt-sublime ★ 145 ⧗ 38](https://github.com/orrsella/sbt-sublime) -使用库依赖源创建Sublime Text项目
 * [sbt-unidoc ★ 104 ⧗ 94](https://github.com/sbt/sbt-unidoc) -sbt插件可跨项目创建统一的API文档

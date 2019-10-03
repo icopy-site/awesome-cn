@@ -28,7 +28,7 @@
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Godot Engine](https://github.com/godotengine/godot/labels/junior%20job) _(label: junior job)_ <br> 2D and 3D cross-platform game engine. Also has C# and Python code.
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome)  _（标签：stat：欢迎捐款）_ <br>  使用数据流图进行计算以进行可扩展的机器学习
-- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用OpenGL和GLSL的音乐可视化程序库.  具有使用Qt5，SDL，emscripten，iTunes，Kodi的应用程序. 
+- [projectM](https://github.com/projectM-visualizer/projectm/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用OpenGL和GLSL的音乐可视化程序库.  具有使用Qt5，SDL，emscripten，iTunes，Kodi的应用程序.
 - [Roc](https://github.com/roc-project/roc/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用于通过网络进行实时音频流传输的工具包.
 
 ## Clojure
@@ -66,14 +66,14 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源，分布式，RESTful搜索引擎.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  桌面应用程序从SWING迁移到JavaFX.  关注代码质量：使用代码质量工具，例如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
 
 ## JavaScript
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner)  _（标签：初学者）_ <br>  优雅而轻巧的全栈JavaScript样板.
@@ -101,7 +101,7 @@
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Hoodie Camp是供新老参与者使用的空间.
 - [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
-- [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
+- [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载和浏览器中页面之间的无缝过渡.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  通用服务器渲染的React应用程序的简约框架
@@ -110,7 +110,7 @@
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  打造优秀机器人的唯一明智的方法.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  可入侵的文字编辑器
-- [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS Web前端资源CDN
+- [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  播放器框架
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用Web技术构建的开源屏幕录像机
@@ -120,7 +120,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -169,7 +169,7 @@
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人程序，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
-- [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
+- [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Jupyter交互式笔记本.
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  强大的开源群聊.
@@ -182,6 +182,7 @@
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一键单击OpenVPN部署和管理仪表板.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  大规模自动化任何基础架构或应用程序的管理和配置的软件.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue)  _（标签：启动程序问题）_ <br>  gpodder.net的Web服务，这是一个自由Web服务，允许用户管理其播客订阅并发现新内容.
+- [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue)  _（标签：《好事》） <br>  使用您的母语在Python中学习和编码.
 
 ## Ruby
 
