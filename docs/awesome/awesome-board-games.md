@@ -18,7 +18,7 @@
 
 ![Ticket to Ride game image](https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Ticket_to_Ride_Board_Game_Box_EN.jpg/220px-Ticket_to_Ride_Board_Game_Box_EN.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-5 |  8 |  30-60m |
 
@@ -28,7 +28,7 @@
 
 ![Pandemic game image](https://cf.geekdo-images.com/cTrAWasNHyKMcNs8Zrv5O7sKS6M=/fit-in/246x300/pic1534148.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-4 |  8 |  45m |
 
@@ -38,7 +38,7 @@
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-5 |  10 |  45m |
 
@@ -48,7 +48,7 @@
 
 ![Elder Sign game image](https://cf.geekdo-images.com/V3ZBoSTdW7AjenPmOws7jfbkFsY=/fit-in/246x300/pic1236119.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  1-8 |  13 |  90m |
 
@@ -60,7 +60,7 @@
 
 ![Betrayal at House on the Hill game image](https://cf.geekdo-images.com/itemrep/img/Les6nIiycIhjCX7kbUosXATygEc=/fit-in/246x300/pic828598.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-6 |  13 |  60m |
 
@@ -70,9 +70,9 @@
 
 ![Dixit_game_image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Dixitgame.jpg/200px-Dixitgame.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  3-8 |  8 |  30m |
+ |  3-8 |  8  30m |
 
 ### [Contrast](https://boardgamegeek.com/boardgame/218465/contrast)
 
@@ -80,7 +80,7 @@
 
 ![Contrast_game_image](https://cf.geekdo-images.com/itemrep/img/_UZrwCiUkZHABXrGsjTQ2YoSjjs=/fit-in/246x300/pic3788079.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-6 |  8 |  10-20m |
 
@@ -90,7 +90,7 @@
 
 ![Unstable Unicorns](https://cf.geekdo-images.com/itemrep/img/35yKKOnpi5NTc4fCjrt9hqRA7qM=/fit-in/246x300/pic3912914.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-8 |  14 |  30-45m |
 
@@ -98,11 +98,11 @@
 
 &gt; Ravenloft的主人正在邀请客人共进晚餐–邀请您！\
 &gt;恶魔潜伏在Ravenloft城堡的塔楼和地牢中，只有非凡勇敢的英雄才能幸免于难.
-&gt;专为1-5位玩家设计，这款桌游具有多种场景，具有挑战性的任务和协作性的游戏玩法.
+> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  1-5 |  13 |  60m |
 
@@ -112,9 +112,19 @@
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
-|   1 - 6 |       12 | 60-120m |
+ |  1-6 |  12 |  60-120m |
+
+### [Candy Land](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Candy_Land>)
+
+&gt;比赛围绕着故事情节进行，故事涉及寻找失落的糖果之王康提国王...游戏不需要阅读和最少的计数技能，使其适合年幼的孩子...再也不需要玩家做出选择，只需跟随指示.
+
+![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  3 |  15-21m |
 
 ## Strategy
 
@@ -124,7 +134,7 @@
 
 ![Backgammon](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/320px-Backgammon_lg.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ----: |
  |  2 |  5 |  5-60m |
 
@@ -134,9 +144,9 @@
 
 ![Tak game image](https://d31wxntiwn0x96.cloudfront.net/wjzajk/productimages/2921_0.jpeg?etag=%22337530d698d616468ed5f3f095ab7288%22&width=200&height=200)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2 |  5 |  30m |
+ |  2  5  30m |
 
 ### [7 Wonders](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/7_Wonders_(board_game)>)
 
@@ -144,7 +154,7 @@
 
 ![7 Wonders game image](https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/7_wonders_board_game_cover.jpg/200px-7_wonders_board_game_cover.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-7 |  10 |  45m |
 
@@ -154,9 +164,9 @@
 
 ![7_Wonders_Duel_game_image](https://cf.geekdo-images.com/small/img/1fkPb9DgZ8n_F99jAhJpKgShYPY=/fit-in/200x150/pic2576399.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2 |  10 |  30m |
+ |  2  10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -164,9 +174,9 @@
 
 ![Antike Duellum game image](https://cf.geekdo-images.com/itemrep/img/_wW6NgcIS12ZDpjZdXgzgMxqgQE=/fit-in/246x300/pic1282841.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2 |  13 |  75m |
+ |  2  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -176,7 +186,7 @@
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  1-5 |  10 |  45m |
 
@@ -186,7 +196,7 @@
 
 ![Mansions of Madness game image](https://cf.geekdo-images.com/B0F4U1vQnELePmNg4n5dtvcryGU=/fit-in/246x300/pic3118622.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -------: |
  |  1-5 |  14 |  120-180m |
 
@@ -196,9 +206,9 @@
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -------: |
- |  3-6 |  12 |  180-360m |
+ |  3-6 |  12  180-360m |
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
@@ -206,7 +216,7 @@
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2 |  9 |  30-60m |
 
@@ -216,7 +226,7 @@
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
  |  2-8 |  12 |  90-120m |
 
@@ -226,9 +236,9 @@
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
-|   1 - 4 |       15 | 30-120m |
+ |  1-4 |  15 |  30-120m |
 
 ### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
 
@@ -236,7 +246,7 @@
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
  |  2-4 |  13 |  90-120m |
 
@@ -246,7 +256,7 @@
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-8 |  8 |  15m |
 
@@ -256,7 +266,7 @@
 
 ![Carcassonne game image](https://battlequarters.com/2277-home_default/carcassonne-board-game.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-5 |  8 |  30-90m |
 
@@ -266,7 +276,7 @@
 
 <img alt="Exploding Kittens board game" src="https://explodingkittens.com/img/home/exploding-kittens-box_x1.png" width="260">
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-5 |  7 |  15m |
 
@@ -276,7 +286,7 @@
 
 ![Chess game image](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/250px-ChessStartingPosition.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2 |  5 |  5-120m |
 
@@ -286,7 +296,7 @@
 
 ![Commonspoly game image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Commonspoly.JPG/320px-Commonspoly.JPG)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  4-8 |  7 |  30-90m |
 
@@ -296,7 +306,7 @@
 
 ![Cluedo game image](https://upload.wikimedia.org/wikipedia/en/6/61/Cluedo_1956_Small_Red_Box_Edition.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  3-6 |  8 |  10-60m |
 
@@ -306,9 +316,40 @@
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-5 |  14 |  60m |
+
+### [Splendor](https://boardgamegeek.com/boardgame/148228/splendor)
+
+ &gt; Splendor将您带入一个富有的文艺复兴时期商人的行列，他们试图与他人竞争以建立全欧洲最有利可图，最负盛名的珠宝业务.  玩家将相互竞争以购买宝石矿，运输工具和店面，以增加财富并积累最高声望点.  随着名声和财富的增长，您甚至可能会引起当地贵族的注意...
+
+![Splendor game image](https://upload.wikimedia.org/wikipedia/en/2/2e/BoardGameSplendorLogoFairUse.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-4 |  10 |  30m |
+
+### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
+
+ &gt;“连接四人”是一款两人连接游戏，其中，玩家首先选择一种颜色，然后轮流从顶部将一张彩色光盘放入七列，六行垂直悬挂的网格中.  碎片直落，占据了列中的最小可用空间.  游戏的目标是成为第一个形成自己四个碟片的水平，垂直或对角线的人.  连接四是一个解决的游戏.  第一个玩家总是可以通过正确的动作获胜.
+
+![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2 |  6 |  1-10m |
+
+### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
+
+ &gt;暗影猎手是一个生存的棋盘游戏，设置在充满魔鬼的森林中，其中有三组角色-暗影，即夜间生物；  猎人，试图消灭超自然生物的人类；  和中立国，平民在这场古老的战斗中陷入困境，为了生存而相互斗争.
+ &gt;您属于这些团体之一，并且由于不知道可以信任的人，所以必须对其他人隐瞒自己的身份，至少在最初不是这样.  但是，随着时间的流逝，有人可能会通过您的行为或隐士卡来破译您的身份，或者您甚至可能会展示自己以使用自己的特殊能力.
+
+![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  4-8 |  13 |  45m |
 
 ## Party
 
@@ -318,7 +359,7 @@
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-8 |  7 |  10m |
 
@@ -328,7 +369,7 @@
 
 ![Mysterium game image](https://cf.geekdo-images.com/cmPajGP0Q5NrBkZ7Ur4B7-V677w=/fit-in/246x300/pic2601683.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-7 |  10 |  42m |
 
@@ -338,7 +379,7 @@
 
 ![Shabadabada game image](https://cf.geekdo-images.com/itemrep/img/YqqT45T_SyzsmTPiVOfgqqpGLec=/fit-in/246x300/pic1646452.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  4-16 |  8 |  45m |
 
@@ -348,7 +389,7 @@
 
 ![Coup game image](https://cf.geekdo-images.com/iwjc_79Aqz3lMb6orn7XhDplgKc=/fit-in/246x300/pic2016054.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-6 |  10 |  15m |
 
@@ -358,7 +399,7 @@
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
  |  3-6 |  10 |  60-120m |
 
@@ -368,7 +409,7 @@
 
 ![Ludo game image](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Ludo-3.jpg/300px-Ludo-3.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-4 |  4 |  30-60m |
 
@@ -378,7 +419,7 @@
 
 ![Carrom game image](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg/256px-Boys_playing_%E2%80%99Shove_H%E2%80%99Apenny%2C.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-4 |  3 |  30-60m |
 
@@ -388,7 +429,7 @@
 
 ![That's A Question game image](https://cf.geekdo-images.com/itemrep/img/HtERyYjSCmmOaczgGx_31xn_9EY=/fit-in/246x300/pic3643950.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-6 |  15 |  30m |
 
@@ -398,7 +439,7 @@
 
 ![werewolf game image](https://cdn.shopify.com/s/files/1/0740/4855/products/ONUW-BOX-COVER_250x250.jpg?v=1554841270)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  3-10 |  8 |  10-15m |
 
@@ -408,7 +449,7 @@
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-5 |  12 |  45-60m |
 
@@ -418,7 +459,7 @@
 
 ![catan game image](https://www.catan.com/sites/all/themes/catan/images/start-packshot_mayfair_neu.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  3-4 |  10 |  45-90m |
 
@@ -428,17 +469,17 @@
 
 ![Sushi Go Image](https://gamewright.com/images/two/GAMEWRIGHT-249.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-5 |  8 |  15m |
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
-> In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
  |  1-4 |  13 |  90-120m |
 
@@ -448,40 +489,40 @@
 
 ![Bears vs. Babies Image](https://explodingkittens.com/img/store/games/bvb_core_thumb_x1.png)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  2-5 |  7 |  15-20m |
 
 ### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
 
- &gt;《暮光帝国》（第四版）是一场银河征服游戏，其中三到六名玩家扮演17个派系之一的角色，这些派系通过军事力量，政治策略和经济谈判争夺银河统治权.  每个派系都提供完全不同的游戏体验，从蠕虫般的克劳斯鬼魂到贸易和经济学大师哈康酋长国，一应俱全.  这十七场比赛为胜利提供了许多途径，但只有梅卡托尔·雷克斯（Mecatol Rex）的宝座可以成为新的银河系大师.
+ &gt;暮光帝国（第四版）是一场银河征服游戏，其中三到六名玩家扮演17个派系之一的角色，这些派系通过军事力量，政治策略和经济谈判争夺银河统治权.  每个派系都提供完全不同的游戏体验，从蠕虫般的克劳斯鬼魂到贸易和经济学大师哈康酋长国，一应俱全.  这十七场比赛为胜利提供了许多途径，但只有梅卡托尔·雷克斯（Mecatol Rex）的宝座可以成为新的银河系大师.
 
 ![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-6 |  14 |  240m |
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是对的.因此，哭了几个小时后，自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  3-10 |  18 |  30-90m |
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
- &gt;开始时，您认为您正在玩好老的《大富翁》，他们只是增加了一些额外的建筑物，以给人些许扭曲.  但是玩的时间越长，您就越能意识到他们实际上创造了一个全新的游戏.  您开始时会比平时赚更多的钱，这使您有了更长的寿命（也许有些运气）的想法.  现在，您可以在购买物业时立即建造房屋，这给游戏带来了很大的活力.  没有更多的等待，直到您拥有完整的组合，或者因为一个玩家拒绝交易而没有组合.  即使拥有几个单一属性，您也可以赢得比赛.
+> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
 
 <img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
- |  2-6 |  8 |  40-75m |
+ |  2-6 |  8  40-75m |
 
 ### [Terror Below](https://boardgamegeek.com/boardgame/270138/terror-below)
 
@@ -489,9 +530,19 @@
 
 ![Terror Below Image](https://cf.geekdo-images.com/itemrep/img/-3Jw5XTh_9nBjVPO6PutnWCTVSQ=/fit-in/246x300/pic4560900.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -----: |
  |  1-5 |  10 |  45-60m |
+
+### [Terraforming Mars](https://en.wikipedia.org/wiki/Terraforming_Mars_(board_game))
+
+ &gt; Terraforming Mars是一款游戏，玩家在游戏中扮演公司的角色，通过升高温度并创造氧气，水，动植物的生命来对星球进行地形化.  玩家争夺最多的积分，这取决于他们对地形改造以及人类基础设施建设的贡献.
+
+![Terraforming Mars](https://upload.wikimedia.org/wikipedia/en/f/f0/Terraforming_Mars_board_game_box_cover.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  1-5 |  12 |  120m |
 
 ### [Secret Hitler](https://boardgamegeek.com/boardgame/188834/secret-hitler)
 
@@ -499,7 +550,7 @@
 
 ![Secret Hitler Image](https://m.media-amazon.com/images/S/aplus-seller-content-images-us-east-1/ATVPDKIKX0DER/AZM5C4RTN0ERZ/B01JKD4HYC/j0WJECPJTgSr._UX899_TTW__.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  5-10 |  13 |  45m |
 
@@ -509,7 +560,7 @@
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-4 |  12 |  45m |
 
@@ -519,7 +570,7 @@
 
 ![Gloomhaven Image](https://cf.geekdo-images.com/itemrep/img/P7MVqNuhAl8Y4fxiM6e74kMX6e0=/fit-in/246x300/pic2437871.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
  |  1-4 |  12 |  60-120m |
 
@@ -529,9 +580,9 @@
 
 ![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  4-8 |  12 |  30m |
+|   4 - 8 |       12 |  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
@@ -539,8 +590,8 @@
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
- |  玩家|  闵.  年龄|  时间|
-| ------: | -------: | -----: |
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
  |  2-5 |  8 |  15m |
 
 ### [Codenames](https://boardgamegeek.com/boardgame/178900/codenames)
@@ -551,7 +602,7 @@
 
 ![Codenames Image](https://cf.geekdo-images.com/itemrep/img/j3KnNONTvPaOqyY_pwhS9C9s5bk=/fit-in/246x300/pic2582929.jpg)
 
- |  玩家|  闵.  年龄|  时间|
+ |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-8 |  14 |  15m |
 

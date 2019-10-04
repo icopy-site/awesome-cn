@@ -272,6 +272,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python) 
 - [Math for Programmers](https://www.manning.com/books/math-for-programmers) 抢先体验
 - [R in Action, Third Edition](https://www.manning.com/books/r-in-action-third-edition) 抢先体验
+- [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp) 抢先体验
 
 ## Facebook Accounts
 
@@ -524,7 +525,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Other Awesome Lists
 
- -其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+ -其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
  - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) 精选的很棒的机器学习框架，库和软件的列表.
  - [lists](https://github.com/jnv/lists)
  - [awesome-dataviz](https://github.com/fasouto/awesome-dataviz)

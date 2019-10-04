@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;缺少的精彩列表 - 精彩的物联网和混合应用程序框架，工具，资源，视频和闪亮的东西的集合.
+&gt;缺少的出色列表-很棒的IoT和Hybrid Apps框架，工具，资源，视频和闪亮的东西的集合.
 
 
 
@@ -12,9 +12,7 @@
 - [BeagleBoard](http://beagleboard.org/bone)
 - [Hue](http://www.developers.meethue.com/)
 - [Raspberry Pi](https://www.raspberrypi.org/)
-- [C.H.I.P](https://www.kickstarter.com/projects/1598272670/chip-the-worlds-first-9-computer)
 - [Onion Omega](https://www.kickstarter.com/projects/onion/onion-omega-invention-platform-for-the-internet-of/video_share)
-- [Intel Galileo](http://www.intel.com/content/www/us/en/do-it-yourself/galileo-maker-quark-board.html)
 - [Particle](https://www.particle.io/)
 
 #### OS
@@ -23,6 +21,7 @@
 - [Contiki OS](http://www.contiki-os.org/)
 - [Raspbian](http://raspbian.org/)
 - [Project Brillo](https://developers.google.com/brillo/)
+- [BalenaOS](https://www.balena.io/os/)
 
 #### Frameworks-Tools
 - [CylonJS](http://cylonjs.com/)
@@ -30,6 +29,7 @@
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
 - [Lelylan](https://github.com/lelylan/lelylan)
+- [BalenaCloud](https://www.balena.io/)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -37,6 +37,10 @@
 - [Hackster](http://www.hackster.io/)
 - [My Controller](https://www.mycontroller.org/#/home)
 - [Kaa Project](https://www.kaaproject.org/)
+
+## IIoT (Industrial IoT)
+- [OPC Router](https://www.opc-router.com/) -具有各种插件的IIoT网关/工作流引擎（Mqtt桥，OPC UA桥，SQL桥，REST桥，SAP桥）
+
 
 ## Hybrid Desktop
 
@@ -72,33 +76,33 @@
 
 ## Contributing
 
-叉吧！
-2.创建你的分支：`git checkout -b my-new-branch`
-3.提交你的更改：`git commit -am&#39;修复东西&#39;
+1.叉！
+2.创建您的分支：`git checkout -b my-new-branch`
+3.提交您的更改：`git commit -am&#39;fix stuff&#39;`
 4.推送到分支：`git push origin my-new-branch`
 5.提交拉取请求
 
 
 ## License
 
-麻省理工学院许可证（MIT）
+MIT许可证（MIT）
 
 版权所有（c）2014 Michael Lancaster
 
-特此授予任何获得副本的人免费许可
-这个软件和相关的文档文件（“软件”），来处理
-在软件中没有限制，包括但不限于权利
+特此授予获得副本的任何人免费的许可
+软件和相关文档文件（以下简称“软件”）的交易
+在软件中不受限制，包括但不限于权利
 使用，复制，修改，合并，发布，分发，再许可和/或出售
-本软件的副本，并允许软件所在的人员
-在此条件下提供，但须符合以下条件：
+本软件的副本，并允许本软件所针对的人
+具备以下条件：
 
-上述版权声明和本许可声明均应包含在内
-本软件的副本或重要部分.
+上述版权声明和此许可声明应包含在所有
+复制本软件或本软件的实质部分.
 
-本软件按“原样”提供，不提供任何形式的保证，明示或
-暗示，包括但不限于对适销性的保证，
- 适用于特定用途和不侵权的适用性.  在任何情况下都不应该
-作者或版权所有者对任何索赔，损害或其他内容负责
-无论是合同，侵权行为还是其他行为，由此产生的责任，
-在软件之外或与之相关的软件或使用或其他交易
+本软件按“原样”提供，不提供任何形式的明示或明示保证.
+暗示（包括但不限于适销性的保证），
+ 适用于特定目的和非侵权.  在任何情况下都不会
+作者或版权持有人对任何索赔，损害或其他责任
+无论是由于合同，侵权或其他原因而引起的责任，
+与软件或软件的使用或其他交易无关或与之有关
 SOFTWARE.

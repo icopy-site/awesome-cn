@@ -4,6 +4,20 @@
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/master/media/logo.svg?sanitize=true" alt="Awesome">
 	<br>
 	<br>
+	<p>
+		<a href="https://triplebyte.com/a/aZxgKGg/d">
+			<b>找工作？</b>
+			<br>
+			 无需简历.  只要证明您可以编码即可.
+			<br>
+			<div>
+				<img src="https://user-images.githubusercontent.com/170270/66039619-9363c380-e53f-11e9-9b56-ae6e8ab336ba.png" width="260"  alt="Tripblebyte">
+			</div>
+		</a>
+		<sub></sub>
+	</p>
+	<br>
+	<br>
 	<br>
 </div>
 
@@ -78,7 +92,7 @@
 - [Firebase](https://github.com/jthegedus/awesome-firebase#readme) -建立在Google Cloud Platform上的应用程式开发平台.
 - [Robot Operating System 2.0](https://github.com/fkromer/awesome-ros2#readme) -一组软件库和工具，可帮助您构建机器人应用程序.
 - [Adafruit IO](https://github.com/adafruit/awesome-adafruitio#readme) -可视化并存储来自任何设备的数据.
-- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) - CDN, DNS, DDoS protection, and security for your site.
+- [Cloudflare](https://github.com/irazasyed/awesome-cloudflare#readme) -您的站点的CDN，DNS，DDoS保护和安全性.
 - [Actions on Google](https://github.com/ravirupareliya/awesome-actions-on-google#readme) -Google Assistant开发者平台.
 
 
@@ -338,7 +352,7 @@
 - [Unity](https://github.com/RyanNielson/awesome-unity#readme) -游戏引擎.
 - [Chess](https://github.com/hkirat/awesome-chess#readme)
 - [LÖVE](https://github.com/love2d-community/awesome-love2d#readme) -游戏引擎.
-- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) -幻想控制台.
+- [PICO-8](https://github.com/pico-8/awesome-PICO-8#readme) -幻想游戏机.
 - [Game Boy Development](https://github.com/gbdev/awesome-gbdev#readme)
 - [Construct 2](https://github.com/WebCreationClub/awesome-construct#readme) -游戏引擎.
 - [Gideros](https://github.com/stetso/awesome-gideros#readme) -游戏引擎.
@@ -500,7 +514,7 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) -面向软件开发人员的比特币服务和工具.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) -开源分布式结算网络.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) -非金融区块链应用.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) -开源分散式微博网络.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) -用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) -人工智能和机器学习的区块链项目.
@@ -591,7 +605,7 @@
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) -使用PHP构建的开源电子商务.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
@@ -634,7 +648,7 @@
 
 ## Related
 
-- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) - Search the Awesome dataset.
+- [Awesome Indexed](https://awesome-indexed.mathew-davies.co.uk) -搜索真棒数据集.
 - [Awesome Search](https://awesomelists.top) -快速搜索超赞列表.
 
 

@@ -4,9 +4,9 @@
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)
 
-精选的不需要身份验证的JSON数据集的精选列表.
+精选的不需要验证的JSON数据集的列表.
 
-&gt; *月份链接：* [Awesome Stacks by StackShare](https://github.com/jdorfman/awesome-json-datasets/blob/master/ https://github.com/stackshareio/awesome-stacks)
+&gt; *本月链接：* [Awesome Stacks by StackShare](https://github.com/jdorfman/awesome-json-datasets/blob/master/ https://github.com/stackshareio/awesome-stacks)
 
 _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/jobs/?utm_source=awesome-json-datasets&utm_campaign=awesome-json-datasets-sponsorship&utm_medium=referral)
 
@@ -15,14 +15,13 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Latest Block](https://blockchain.info/latestblock)
 * [Unconfirmed Transactions](https://blockchain.info/unconfirmed-transactions?format=json)
 
-&gt;专业提示：退房 [Cryptocurrency Market Capitalizations](https://api.coinmarketcap.com/v1/ticker/) 更多加密货币价格.
+&gt;专业提示：签出 [Cryptocurrency Market Capitalizations](https://api.coinmarketcap.com/v1/ticker/) 以获得更多的加密货币价格.
 
 ## Climate
 
-* [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *（1880-2015 vs. 1901-2000平均值）*
-* [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *（1880-2015（对比1901-2000平均值）*
+* [Global Temperature Anomaly](https://www.ncdc.noaa.gov/cag/time-series/global/globe/land_ocean/ytd/12/1880-2016.json) *（1880-2015年与1901-2000年平均值）*
+* [US Annual Average Temperature and Anomaly](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/tavg/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *（1880-2015（vs. 1901-2000 Average）*
 * [Contiguous US Annual Precipitation](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pcp/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *(1895-2015)*
-* [Drought Severity Index](https://www.ncdc.noaa.gov/cag/time-series/us/110/00/pdsi/ytd/12/1895-2016.json?base_prd=true&begbaseyear=1901&endbaseyear=2000) *（Palmer for the Contiguous US，1895-2016）*
 
 ## Crime
 
@@ -44,15 +43,15 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 ## Gaming
 * [BattleField 4 Online Players](http://api.bf4stats.com/api/onlinePlayers?output=json)
 * [Pokémon](https://pokeapi.co/docsv2/)
-  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *（用所需的神奇宝贝号替换“1”）*
-  * [Types](http://pokeapi.co/api/v2/type/1/) *（将`1`替换为另一个数字以检索不同类型）*
-  * [Abilities](http://pokeapi.co/api/v2/ability/1) *（将&#39;1`替换为另一个数字以取回不同的能力）*
+  * [Pokémon by Number](http://pokeapi.co/api/v2/pokemon/1/) *（用所需的神奇宝贝编号替换`1`）*
+  * [Types](http://pokeapi.co/api/v2/type/1/) *（用另一个数字替换“ 1”以检索不同的类型）*
+  * [Abilities](http://pokeapi.co/api/v2/ability/1) *（用另一个数字替换“ 1”以检索不同的能力）*
 * [Magic: The Gathering](http://magic.wizards.com)
   * [MTG LEA Set + Extras](https://mtgjson.com/json/LEA-x.json)
   * [MTG LEB Set + Extras](https://mtgjson.com/json/LEB-x.json)
   * [MTG ARN Set + Extras](https://mtgjson.com/json/ARN-x.json)
 
-&gt; Protip： [https://mtgjson.com](https://mtgjson.com) 列出了更多Magic：The Gathering卡数据集，以及所有集的压缩版本.
+&gt;提示： [https://mtgjson.com](https://mtgjson.com) 列出了更多的Magic：Gathering卡数据集，以及所有数据集的压缩版本.
 
 * [Steam Player Number](https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v0001/?format=json&appid=0)
 
@@ -70,7 +69,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Current US Senators](https://www.govtrack.us/api/v2/role?current=true&role_type=senator)
   * [Current US Representatives](https://www.govtrack.us/api/v2/role?current=true&role_type=representative&limit=438)
 
-&gt; Protip： [GovTrack](https://www.govtrack.us/) 提供了一个 [powerful API](https://www.govtrack.us/developers/api) 用于查看国会，点名和账单上的数据.
+&gt;提示： [GovTrack](https://www.govtrack.us/) 提供一个 [powerful API](https://www.govtrack.us/developers/api) 用于查看国会，唱名册和账单上的数据.
 
 * 司法部
   * [Blog Entries](https://www.justice.gov/api/v1/blog_entries.json?amp%3Bpagesize=2)
@@ -83,9 +82,9 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Government Roles](https://data.parliament.scot/api/governmentroles)
   * [Members](https://data.parliament.scot/api/members)
 
-&gt;专业提示：你可以做**很多** [http://parliamentdata.ca/](http://parliamentdata.ca/)
+&gt;专业提示：您可以在**做更多** [http://parliamentdata.ca/](http://parliamentdata.ca/)
 
-*欧盟游说透明度注册
+*欧盟游说透明度登记册
   * [Country](http://api.lobbyfacts.eu/api/1/country)
   * [Entity](http://api.lobbyfacts.eu/api/1/entity)
   * [Representative](http://api.lobbyfacts.eu/api/1/representative)
@@ -119,7 +118,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Romanian](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=ro)
   * [Turkish](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=tr)
 
- &gt;专业提示：您可以在URL中更改`begin_date`和`end_date`以获取特定时间间隔内的事件.  更多的选择 [here](http://www.vizgr.org/historical-events/).
+ &gt;专业提示：您可以在URL中更改`begin_date`和`end_date`来获取特定时间间隔内的事件.  更多选择 [here](http://www.vizgr.org/historical-events/).
 
 ## HTTP
 * [IP](http://httpbin.org/ip)
@@ -133,13 +132,13 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [delay](http://httpbin.org/delay/3)
 * [cache](http://httpbin.org/cache/60) *（`60` ===`60秒`）*
 
-&gt;专业提示：你可以做**很多** [http://httpbin.org](http://httpbin.org/).
+&gt;专业提示：您可以在**做更多** [http://httpbin.org](http://httpbin.org/).
 
 ## NASA
 * [ISS Current Location](http://api.open-notify.org/iss-now.json)
 * [How Many People Are In Space Right Now](http://api.open-notify.org/astros.json)
 * [Earth Meteorite Landings](https://data.nasa.gov/resource/y77d-th95.json)
-* [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *（由NEOWISE发现）*
+* [Near-Earth Asteroids and Comets](https://data.nasa.gov/resource/2vr3-k9wn.json) *（被NEOWISE发现）*
 
 ## Natural Disasters
 * [Earthquakes](https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_hour.geojson)
@@ -163,11 +162,11 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Special Purpose](https://api.opensource.org/licenses/special-purpose)
 * [Retired](https://api.opensource.org/licenses/retired)
 
-&gt;成为OSI会员 [here](https://opensource.org/civicrm/contribute/transact?reset=1&id=1)
+&gt;成为OSI成员 [here](https://opensource.org/civicrm/contribute/transact?reset=1&id=1)
 
 ## Population
 
-*今日总人口
+*今天的总人口
   * [Earth](http://api.population.io/1.0/population/World/today-and-tomorrow/?format=json)
   * [Brazil](http://api.population.io/1.0/population/Brazil/today-and-tomorrow/?format=json)
   * [France](http://api.population.io/1.0/population/France/today-and-tomorrow/?format=json)
@@ -183,7 +182,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 
 &gt;专业提示： [List of all Countries](http://api.population.io/1.0/countries) 追踪
 
-*美国人口统计表（0-100岁）
+*美国人口表（0-100岁）
     * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
     * [1960](http://api.population.io/1.0/population/1960/United%20States/?format=json)
     * [1970](http://api.population.io/1.0/population/1970/United%20States/?format=json)
@@ -202,7 +201,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [China](http://api.worldbank.org/countries/CHN/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 * [India](http://api.worldbank.org/countries/IND/indicators/NY.GDP.MKTP.CD?per_page=5000&format=json)
 
-&gt;专业提示：链接到国家/地区列表 [Here](http://api.worldbank.org/countries?per_page=304&format=json)
+&gt;专业提示：链接到国家列表 [Here](http://api.worldbank.org/countries?per_page=304&format=json)
 
 ## Reddit
 * [/r/all](https://www.reddit.com/r/all.json)
@@ -218,7 +217,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [/r/gaming](https://www.reddit.com/r/gaming.json)
 * [/r/linux](https://www.reddit.com/r/linux.json)
 
-&gt;专业提示：您可以将`.json`附加到任何subreddit网址.
+&gt;专业提示：您可以将.json附加到任何subreddit网址.
 
 ## Travel
 * [Global Airfields](https://ckannet-storage.commondatastorage.googleapis.com/2014-12-13T15:15:31.729Z/airfields.json)
@@ -237,7 +236,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [PDX](http://services.faa.gov/airport/status/PDX?format=application/json)
   * [SJC](http://services.faa.gov/airport/status/SJC?format=application/json)
 
-&gt;抬头：仅适用于美国机场，不适用于国际机场.
+&gt;注意：仅适用于美国机场，不适用于国际机场.
 
 ## TV Shows
 
@@ -256,7 +255,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 * [Rick and Morty (Adult Swim)](http://api.tvmaze.com/singlesearch/shows?q=rick-&-morty&embed=episodes)
 * [Westworld (HBO)](http://api.tvmaze.com/singlesearch/shows?q=westworld&embed=episodes)
 
- &gt;专业提示：替换未列出的节目的字段值，例如`shows？q = show-name`.  更多的选择 [here](http://www.tvmaze.com/api)
+ &gt;专业提示：替换未列出的节目的字段值，例如“ shows？q = show-name”.  更多选择 [here](http://www.tvmaze.com/api)
 
 *里克和莫蒂
   * [Get all characters](https://rickandmortyapi.com/api/character/)
@@ -265,7 +264,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Get an episode](https://rickandmortyapi.com/api/episode/12)
   * [Get multiple episodes](https://rickandmortyapi.com/api/episode/10,28)
 
-&gt;专业提示：更多选项 [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
+&gt;专业提示：更多选项，请访问 [https://rickandmortyapi.com/](https://rickandmortyapi.com/)
 
 ## Movies
 * [Showtime](http://showtimes.everyday.in.th/api/v2/)
@@ -273,13 +272,13 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Movie Theaters in Thailand](http://showtimes.everyday.in.th/api/v2/theater/)
 
 ## More Awesome Lists
-* [Awesome](https://github.com/sindresorhus/awesome) *（OG名单）*
+* [Awesome](https://github.com/sindresorhus/awesome) *（OG列表）*
 * [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *（寻求帮助的开源项目）*
 * [JSON](https://github.com/burningtree/awesome-json) *（图书馆和资源）*
-* [WPO](https://github.com/davidsonfellipe/awesome-wpo) *（网络性能优化）*
+* [WPO](https://github.com/davidsonfellipe/awesome-wpo) *（Web性能优化）*
 * [Shell](https://github.com/alebcay/awesome-shell) *（CLI框架，工具包和指南）*
-* [Public APIs](https://github.com/toddmotto/public-apis) *（用于Web开发的JSON API，其中一些需要身份验证）*
-* [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *（超出JSON的数据集）*
+* [Public APIs](https://github.com/toddmotto/public-apis) *（用于Web开发人员的JSON API，其中一些需要身份验证）*
+* [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *（不仅限于JSON的数据集）*
 * [Style Guides](https://github.com/kciter/awesome-style-guide) *（编程语言，平台，框架）*
 
 ## Contributing
@@ -288,4 +287,4 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [MaxCDN](https://www.maxcdn.com) 已放弃对此作品的所有版权及相关或相邻权利.
+在法律允许的范围内， [MaxCDN](https://www.maxcdn.com) 放弃了此作品的所有版权以及相关或邻近的权利.

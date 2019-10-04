@@ -227,7 +227,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crystal-mime](https://github.com/spalger/crystal-mime) -水晶的Mimetypes
  * [device_detector](https://github.com/creadone/device_detector) -通过用户代理字符串检测设备的分片
  * [Exception Page](https://github.com/crystal-loot/exception_page) -Crystal Web库和框架的特殊例外页面
- * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 履行
+ * [graphql-crystal](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) 实作
  * [kave](https://github.com/jwoertink/kave) -Kemal API版本扩展
  * [kemal-auth-token](https://github.com/akwiatkowski/kemal-auth-token) -Kemal中间件使用JWT通过HTTP标头令牌进行身份验证
  * [kemal-monetdb](https://github.com/puppetpies/kemal-monetdb) -用于Kemal的MonetDB数据连接
@@ -522,7 +522,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## Web Servers
  * [fast-http-server](https://github.com/sdogruyol/fast-http-server) -超快速，零配置命令行HTTP Server
  * [prax.cr](https://github.com/ysbaddaden/prax.cr) -用于开发的机架代理服务器
- * [salt](https://github.com/icyleaf/salt) -HTTP服务器的人性化界面
  * [serve](https://github.com/SuperPaintman/serve) -命令行静态HTTP服务器
 
 ## Community

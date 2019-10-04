@@ -77,6 +77,7 @@
 * [Next Plugin Graphql](https://github.com/lfades/next-plugin-graphql) -使用graphql-tag的.graphql和.gql文件的Next.js插件
 * [Next With Apollo](https://github.com/lfades/next-with-apollo) -用于Next.js的Apollo Graphql集成
 * [Next SEO](https://github.com/garmeeh/next-seo) -SEO使Next.js变得容易
+* [Next UserAgent](https://github.com/tokuda109/next-useragent) -Next.js的UserAgent解析器
 * [Nextein](https://github.com/elmasse/nextein) -基于Next.js的静态网站生成器.
 * [next-mdx-blog](https://github.com/hipstersmoothie/next-mdx-blog) -轻松将博客添加到任何基于next.js的项目
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.

@@ -94,7 +94,8 @@
 - [Coisas](https://github.com/fiatjaf/coisas) -用于编辑GitHub Markdown（和其他）文件的客户端CMS.
 - [Cockpit](https://getcockpit.com/) -一个自托管的无头和api驱动的CMS.
 - [HeadlessCMS](https://headlesscms.org/) -JAMstack站点的内容管理系统列表.
-- [TakeShape](https://www.takeshape.io/) -一键式无头GraphQL API CMS部署到Netlify.
+- [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
+- [Ghost](https://ghost.org/) -用于在线出版物的无头CMS
 
 ## API
 
@@ -166,6 +167,7 @@
 
 - [The New Front-end Stack. JavaScript, APIs and Markup](https://vimeo.com/163522126) -Matt Biilmann.
 - [Rise of the JAMstack](https://www.youtube.com/watch?v=uWTMEDEPw8c) -Mathias Biillman.
+- [JAMstack: Silly name, serious stuff](https://www.youtube.com/watch?v=XOYtS91QWQI) -菲尔·霍克斯沃思（Phil Hawksworth）.
 - [Git-based or API-driven CMS](https://www.youtube.com/watch?v=KX4G49ZrvY0) -克里斯·麦克雷（Chris Macrae）.
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
@@ -201,6 +203,9 @@
 
 - [JAMstack Radio](https://www.netlify.com/tags/podcast/)
 - [That's my JAMstack](https://thatsmyjamstack.com)
+
+## Books
+- [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License
 
