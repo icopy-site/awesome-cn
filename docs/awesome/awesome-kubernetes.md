@@ -34,7 +34,7 @@ Awesome-Kubernetes
 _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 
-## History:
+## History
 
 **众所周知，Kubernetes是Google系统BORG的后代**
 
@@ -45,7 +45,7 @@ _Source:_ [What is Kubernetes](http://kubernetes.io/)
 
 _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 
-## Date of Birth:
+## Date of Birth
 
  Kubernetes每年7月21日庆祝生日.  Kubernetes 1.0在2015年7月21日首次公开发布后 [Dockercon in June 2014](https://www.youtube.com/watch?v=YrxnVKZeqK8).
 
@@ -217,11 +217,11 @@ Installers
 - [GitOps: High-Velocity CI/CD for Kubernetes](http://dzone.com/articles/gitops-high-velocity-cicd-for-kubernetes)
 - [Achieving CI/CD with Kubernetes](http://ramitsurana.github.io/myblog/achieving-ci-cd-with-kubernetes) 通过 [Ramit Surana](https://twitter.com/ramitsurana)
 - [Jenkins declarative pipelines with Kubernetes](http://radu-matei.com/blog/kubernetes-jenkins-azure/)
-- [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 运用 [Jenkins X](https://jenkins-x.io/)
-- [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 运用 [Jenkins X](https://jenkins-x.io/)
-- [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
-- [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
-- [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 运用 [Semaphore](https://semaphoreci.com)
+- [Adding CI/CD to your Spring Boot app with Jenkins X and Kubernetes](https://developer.okta.com/blog/2018/07/11/ci-cd-spring-boot-jenkins-x-kubernetes) 通过 [Matt Raible](https://twitter.com/mraible) 使用 [Jenkins X](https://jenkins-x.io/)
+- [Continuous Delivery with Amazon EKS and Jenkins X](https://aws.amazon.com/blogs/opensource/continuous-delivery-eks-jenkins-x/) 通过 [Henryk Konsek](https://twitter.com/hekonsek) 使用 [Jenkins X](https://jenkins-x.io/)
+- [Continuous Integration and Delivery to AWS Kubernetes](https://semaphoreci.com/blog/continuous-integration-delivery-aws-eks-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
+- [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
+- [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 
@@ -502,7 +502,7 @@ Projects
 * [Kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台
 * [Kubedash](https://github.com/kubernetes/kubedash) -**不推荐使用**信息库已归档且为只读
 * [Kubernetes Operational View](https://github.com/hjacobs/kube-ops-view) -多个K8s集群的只读系统仪表板
-* [K8Dash](https://github.com/herbrandson/k8dash) - Realtime K8S alternative dashboard
+* [K8Dash](https://github.com/herbrandson/k8dash) -实时K8S替代仪表板
 * [Kubernetes Web View](https://codeberg.org/hjacobs/kube-web-view) -在纯HTML前端中列出并查看具有永久链接友好URL的所有Kubernetes资源（包括CRD）
 * [Kubespy](https://github.com/pulumi/kubespy) -由Pulumi提供支持的实时观察Kubernetes资源的工具.
 * [Kubetail](https://github.com/johanhaleby/kubetail)
@@ -519,7 +519,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI对其进行在线监视.
 
 ## Testing
 
@@ -682,6 +682,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
 
 ## RPC
 
@@ -735,7 +736,7 @@ Projects
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [kubens](https://github.com/ahmetb/kubectx) -在kubectl上的命名空间之间切换
-* [kubensx](https://github.com/shyiko/kubensx) -Kubernetes的更简单的集群/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
+* [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
@@ -978,12 +979,12 @@ Videos
 
 ### CI/CD Videos
 
-- [Automating CI/CD on Kubernetes 同 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 运用 [Jenkins X](https://jenkins-x.io/) 同 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
+- [Automating CI/CD on Kubernetes 与 Jenkins X](https://www.youtube.com/watch?v=BF3MhFjvBTU) 通过 [James Strachan](https://twitter.com/jstrachan) 使用 [Jenkins X](https://jenkins-x.io/) 与 [these slides](https://docs.google.com/presentation/d/1hwt2lFh3cCeFdP4xoT_stMPs0nh2xVZUtze6o79WfXc/edit#slide=id.p)
 
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，如果您能充分利用其潜力，它对于品牌或企业而言是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -997,7 +998,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

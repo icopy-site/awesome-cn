@@ -37,16 +37,13 @@
 
 ---
 
-	- [Data manipulation & Computed](#)
-	- [Ember-inspector roadmaps & overview](#)
-	- [Internalization & Localization](#)
-	- [SSR / Server Side Rendering](#)
+- [Awesome Ember.js ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-emberjs-awesomehttpsgithubcomsindresorhusawesome)
 
 
 ## Packages
 ### AST
 
-- [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) -该库是进行AST转换并尽可能使用户免受AST细微影响的实用工具，因为它仍然是私有API.
+- [ember-ast-helpers](https://github.com/cibernox/ember-ast-helpers) -该库是进行AST转换的工具，它尽可能地保护用户不受AST细微差别的影响，因为它仍然是私有API.
 - [ember-template-recast](https://github.com/ember-template-lint/ember-template-recast) -无损模板变压器.
 - [jscodeshift](https://github.com/facebook/jscodeshift) -JavaScript codemod工具箱.
 - [dyfactor](https://github.com/dyfactor/dyfactor) -基于运行时信息运行codemod的平台.
@@ -98,7 +95,7 @@
 - [ember-cli-deploy-webhooks](https://github.com/simplabs/ember-cli-deploy-webhooks) -Ember CLI Deploy插件，用于在部署期间调用webhooks.
 - [ember-cli-release](https://github.com/shipshapecode/ember-cli-release) -用于版本管理的Ember CLI插件.
 - [ember-cli-sri](https://github.com/jonathanKingston/ember-cli-sri) -此插件用于为余烬应用程序生成子资源完整性（SRI）哈希.
-- [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) - Lint your app's addon dependencies, making sure you only have one version of each.
+- [ember-cli-dependency-lint](https://github.com/salsify/ember-cli-dependency-lint) -整理应用程序的插件依赖项，确保每个应用程序只有一个版本.
 
 ### Benchmarking
 
@@ -108,7 +105,7 @@
 
 ### Blogging
 
-- [empress-blog](https://github.com/empress/empress-blog) -基于Ember.js构建的博客系统的功能齐全，对SEO友好的静态站点实现.
+- [empress-blog](https://github.com/empress/empress-blog) - Fully-functional, SEO friendly static site implementation of a blog system built on Ember.js.
 - [ember-cli-blog](https://github.com/broerse/ember-cli-blog) -Tom Dale的博客示例已针对Ember CLI更新.
 - [ember-tumblr](https://github.com/elwayman02/ember-tumblr) -Ember.js插件，用于集成Tumblr博客.
 
@@ -316,7 +313,7 @@
 ### Forms
 
 - [ember-cli-crudities](https://ember-cli-crudities.readthedocs.io) -从json配置工作的表单和可编辑列表生成器，可以静态或动态加载.
-- [ember-form-for](https://github.com/martndemus/ember-form-for) -此Ember.js插件将为您提供构建良好表单的简便方法.
+- [ember-form-for](https://github.com/martndemus/ember-form-for) - This Ember.js addon will give you an easy way to build good forms.
 
 ### Functional programming
 
@@ -468,7 +465,7 @@
 ### Query Params
 
 - [ember-query-params-service](https://github.com/NullVoxPopuli/ember-query-params-service) -您是否有仅*解析查询参数的控制器？
-- [ember-parachute](https://github.com/offirgolan/ember-parachute) - Improved Query Params for Ember.js.
+- [ember-parachute](https://github.com/offirgolan/ember-parachute) -改进了Ember.js的查询参数.
 - [ember-href-to](https://github.com/intercom/ember-href-to) -{{link-to}}的轻量级替代品.
 
 ### Real-time
@@ -1097,6 +1094,7 @@
 - [Glimmer Playground](https://try.glimmerjs.com/) -一个Glimmer.js游乐场.
 - [mber](https://github.com/izelnakri/mber)  -灰烬CLI替换.  目前为Alpha.
 - [remote-inspector](https://github.com/joostdevries/ember-cli-remote-inspector) -可让您使用websocket检查通过网络在不同设备/浏览器上运行的应用.
+- [Ember Unused Components](https://github.com/vastec/ember-unused-components) -此脚本在Ember项目中搜索未使用的组件
 
 ### Tutorials
 

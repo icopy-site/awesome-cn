@@ -120,12 +120,13 @@
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) -Raspberry Pi零橡皮鸭几乎可以被带有USB端口的任何事物识别为USB HID，因此，您可以像使用键盘一样运行自定义脚本. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [docsis-cable-load-monitor](https://github.com/sp4rkie/docsis-cable-load-monitor) -监视DOCSIS电缆网络上下游负载的工具.
 - [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) -WPA哈希抓取蓝牙外围设备/ Android应用程序.
+- [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) -婴儿监视器，包括自定义案例，服务器和客户端源代码. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) -使用 [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) 应用程序来控制车库门.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) -使用7英寸Raspberry Pi显示器模仿哈利波特的《每日先知》的显示器.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) -由Raspberry Pi驱动的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Jasper](https://jasperproject.github.io/) -灵活的开源个人助理.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) -在不到十分钟的时间内启动ARM设备并运行Kubernetes.
-- [Lightberry](https://lightberry.eu) -专用于树莓派和电视的LED照明解决方案.
+- [Lightberry](https://lightberry.eu) –用于树莓派和电视的led照明解决方案.（只限LED电视使用）.（LED照明解决方案）（仅用于覆盆子PI和电视的）.（LED）.；照明：RGB .；树莓派； LED；电视机.．．．. .．．．． ｌ.（）lighting Ｌ.（Ｌ.）.（Ｌ.）.（lighting.）.（Ｌ．）lighting的．. .．..（.）..． lighting.（lighting的.（lighting）TV（的.lighting）．．.（．..）（视讯）（）（1）
 - [Looper/synth/drum thing](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) -Sequencer / Drumpad，类似于Native Instruments的Pi的Maschine.
 - [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) -智能灯，更好的睡眠. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Magic Mirror](http://magicmirror.builders) -原始的开源模块化智能镜像平台. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -135,13 +136,13 @@
 - [NALIVATOR-9000](https://github.com/fote/nalivator9000) -机器人调酒师，可通过Telegram-bot界面和Golang语音合成功能制作鸡尾酒.
 - [Nerves Project](https://github.com/nerves-project) -在Elixir中制作和部署防弹嵌入式软件.
 - [NTP driven Nixie Clock](http://www.mjoldfield.com/atelier/2012/08/ntp-nixie.html) -由Raspberry Pi驱动的Nixie Tube Clock.
-- [Occu-Pi](https://github.com/bww/occu-pi) -用于Occu-pi的控制器软件，这是一款非常出色的浴室门传感器.
+- [Occu-Pi](https://github.com/bww/occu-pi) -Occu-pi的控制器软件，这是一款非常出色的浴室门传感器.
 - [Pi Image Capturer](https://github.com/rajeshkumarkhadka/Pi-Image-Capturer) -捕获与Google IOT Cloud Platform生态系统集成的图像.
 - [pi_payments](https://github.com/anshulahuja98/pi_payments) -基于RFID的支付模块.
 - [Pi-hole](https://pi-hole.net/) -互联网广告的黑洞.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) -Rclone远程存储服务等提供的远程无头多功能PiCamera操作.
 - [Pi4j Project](http://pi4j.com) -Raspberry Pi的Java I / O库.
-- [PiClock](https://github.com/n0bel/PiClock) -花式时钟围绕显示器和Raspberry Pi构建.
+- [PiClock](https://github.com/n0bel/PiClock) -围绕显示器和Raspberry Pi构建的花式时钟.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) -在Pi Zero上运行的电子墨水名称标签显示. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [PiFanTuner](https://github.com/winkidney/PIFanTuner) -CPU-fan-tuner守护程序，仅在必要时启用您的风扇. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) -使用Raspberry PI + EAN扫描器临时制作Amazon Dash订单.
@@ -196,7 +197,7 @@
 ### Tutorials
 
 - [Auto Mount USB](https://medium.com/@anshul.ahu/guide-to-setup-auto-mount-usb-on-raspberry-pi-4f343761627f) -在Raspberry Pi上设置自动挂载USB的指南.
-- [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) -在macOS和Raspberry Pi之间设置网络共享.
+- [Bridging Wifi to the Raspberry Pi over Ethernet](https://thibmaek.com/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) -在macOS和Raspberry Pi之间建立网络连接.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) -Time Machine备份服务器.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) -Node.js项目，可通过libspotify控制Spotify和Slack.
 - [DC++ Hub](https://medium.com/@anshul.ahu/guide-to-setup-an-adc-dc-hub-on-raspberry-pi-4dbf86ca8547) -在Raspberry Pi上设置ADC（DC ++）集线器的指南.

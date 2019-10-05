@@ -61,7 +61,7 @@
 - [Datasette Facets](https://simonwillison.net/2018/May/20/datasette-facets/) -任意CSV文件或SQLite DB的多面浏览和JSON API.
 - [q](https://harelba.github.io/q/) -直接在CSV文件上运行SQL
 - [RBQL](https://rbql.org) -彩虹查询语言，一种类似SQL的语言，带有JavaScript或Python后端.
-
+- [PSKit Query](https://github.com/dfinke/PSKit#sql-query) — Powershell模块使您可以对对象运行简单查询，包括使用csv导入的对象
 
 ### Convert to or from CSV
 

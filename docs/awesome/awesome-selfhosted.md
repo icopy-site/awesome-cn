@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://img.shields.io/travis/Kickball/awesome-selfhosted/monthly-check?label=link%20checks)](https://github.com/Kickball/awesome-selfhosted/issues/1767)
 
-自我托管是在本地托管和管理应用程序的一种做法，而不是从 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 供应商.
+自我托管是在本地托管和管理应用程序的一种做法，而不是从 [SaaSS](https://www.gnu.org/philosophy/who-does-that-server-really-serve.html) 提供者.
 
 这是一个清单 [Free](https://en.wikipedia.org/wiki/Free_software) 软件 [network services](https://en.wikipedia.org/wiki/Network_service) 和 [web applications](https://en.wikipedia.org/wiki/Web_application)  可以在本地托管.  非免费软件列在 [Non-Free](https://github.com/Kickball/awesome-selfhosted/blob/master/non-free.md) 页.
 
@@ -35,7 +35,7 @@ _Web Analytics_
 - [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code](https://github.com/padams/Open-Web-Analytics)）`GPL-2.0`` PHP`
 - [Rakam](https://rakam.io/)  -自定义分析平台，可让您创建自己的分析服务.  与任何数据源（Web，移动，IoT等）集成，使用SQL分析数据并创建仪表板.  （[Source Code](https://github.com/rakam-io/rakam)）Apache-2.0 Java
 - [Serposcope](https://serposcope.serphacker.com/)  -Serposcope是一个免费的开源排名跟踪器，可以监视Google中的网站排名并改善您的SEO性能.  （[Source Code](https://github.com/serphacker/serposcope)）MIT Java
-- [Snowplow](http://snowplowanalytics.com/)  -将来自您的网站，移动应用程序，桌面应用程序和服务器端系统的每个事件都存储在自己的数据仓库中，并可以实时进行操作.  （[Source Code](https://github.com/snowplow/)）`Apache-2.0``规模`
+- [Snowplow](http://snowplowanalytics.com/)  -将来自您的网站，移动应用程序，桌面应用程序和服务器端系统的每个事件都存储在您自己的数据仓库中，并可以实时进行操作.  （[Source Code](https://github.com/snowplow/)）`Apache-2.0``规模`
 - [Suet](https://suet.co/)  `⚠`-Mailgun交易电子邮件的详细分析和报告.  （[Source Code](https://github.com/kehers/suet)）`GPL-3.0``Nodejs`
 
 _商业智能_
@@ -429,9 +429,9 @@ _[Extensible Messaging and Presence Protocol](https://en.wikipedia.org/wiki/XMPP
 - [CouchCMS](http://www.couchcms.com/)  -适用于设计人员的简单开源CMS.  （[Source Code](https://github.com/CouchCMS/CouchCMS)）`CPAL-1.0``PHP`
 - [Directus](http://getdirectus.com/)  -Directus是功能强大且直观的无头CMS，用于管理具有自定义体系结构的SQL数据库.  这种分离的内容管理框架基于健壮且可扩展的API构建，非常适合网站，应用程序或多客户端项目.  （[Source Code](https://github.com/directus/directus)）`GPL-3.0`` PHP`
 - [Drupal](https://www.drupal.org/)  -先进的开源内容管理平台.  （[Source Code](http://cgit.drupalcode.org/drupal)）`GPL-2.0`` PHP`
-- [eLabFTW](http://www.elabftw.net)  -用于研究实验室的在线实验室笔记本.  存储实验，使用数据库查找试剂或实验方案，使用可信的时间戳记为实验加上合法的时间戳，导出为pdf或zip存档，与合作者共享….  （[Demo](https://demo.elabftw.net), [Source Code](https://github.com/elabftw/elabftw)）`AGPL-3.0``PHP`
+- [eLabFTW](http://www.elabftw.net)  -用于研究实验室的在线实验室笔记本.  存储实验，使用数据库查找试剂或方案，使用可信赖的时间戳合法地为实验加上时间戳，导出为pdf或zip存档，与合作者共享….  （[Demo](https://demo.elabftw.net), [Source Code](https://github.com/elabftw/elabftw)）`AGPL-3.0``PHP`
 - [Expressa](https://github.com/thomas4019/expressa)  -内容管理系统，用于使用JSON模式为数据库驱动的网站提供动力.  提供权限管理和自动REST API.  MIT`Nodejs`
-- [GetSimple CMS](http://get-simple.info/)  -最简单的内容管理系统.  永远.  （[Source Code](https://github.com/GetSimpleCMS/GetSimpleCMS)）`GPL-3.0`` PHP`
+- [GetSimple CMS](http://get-simple.info/)  -最简单的内容管理系统.  曾经  （[Source Code](https://github.com/GetSimpleCMS/GetSimpleCMS)）`GPL-3.0`` PHP`
 - [ImpressPages CMS](https://www.impresspages.org/)  -简单的代码符合简单的管理员.  （[Demo](https://www.impresspages.org/demo), [Source Code](https://github.com/impresspages/ImpressPages)）`GPL-3.0 / MIT`` PHP`
 - [Joomla!](https://www.joomla.org/)  -先进的内容管理系统（CMS）.  （[Source Code](https://github.com/joomla/joomla-cms)）`GPL-2.0`` PHP`
 - [KeystoneJS](http://keystonejs.com/)  -CMS和Web应用程序平台.  （[Demo](http://demo.keystonejs.com/), [Source Code](https://github.com/keystonejs/keystone)）MIT Nodejs
@@ -533,7 +533,7 @@ _企业级图书馆管理软件.
 
 _机构资料库和数字图书馆软件.
 
-- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序提供对数字资源的持久访问.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause``Java`
+- [DSpace](http://dspace.org/)  -交钥匙存储库应用程序，提供对数字资源的持久访问.  （[Source Code](https://github.com/DSpace/DSpace)）`BSD-3-Clause``Java`
 - [EPrints](https://www.eprints.org/)  -具有主要针对学术机构的灵活的元数据和工作流模型的数字文档管理系统.  （[Demo](http://demoprints.eprints.org/), [Source Code](https://github.com/eprints/eprints)）`GPL-3.0`` Perl`
 - [Fedora Commons Repository](https://fedorarepository.org/)  -用于管理和分发数字内容的健壮且模块化的存储系统，特别适合于数字图书馆和档案馆（用于访问和保存）.  （[Source Code](https://github.com/fcrepo4/fcrepo4)）Apache-2.0 Java
 - [Islandora](https://islandora.ca/)  -Drupal模块，用于浏览和管理基于Fedora的数字存储库.  （[Source Code](https://github.com/Islandora/islandora)）`GPL-3.0`` PHP`
@@ -799,7 +799,7 @@ _游戏，游戏服务器和控制面板.
 - [TileServer PHP](https://github.com/klokantech/tileserver-php)  -提供来自任何PHP托管的地图图块.  `BSD-2-Clause``PHP`
 - [Traccar](https://www.traccar.org/)  -跟踪GPS位置的Java应用程序.  支持跟踪设备和协议的负载，并具有Android和iOS应用程序.  具有网络界面，可查看您的行程.  （[Demo](http://demo.traccar.org/), [Source Code](https://github.com/traccar)）Apache-2.0 Java
 - [μlogger](https://github.com/bfabiszewski/ulogger-server)  -实时收集用户的地理位置，并在网站上显示其GPS轨迹.  （[Demo](http://ulogger.fabiszewski.net/)）`GPL-3.0`` PHP`
-- [uMap](https://umap.openstreetmap.fr/en/)  -一分钟内使用OpenStreetMap图层创建地图并将其嵌入到您的网站中.  （[Source Code](https://github.com/umap-project/umap)）`WTFPL``Python`
+- [uMap](https://umap.openstreetmap.fr/en/)  -一分钟内创建带有OpenStreetMap图层的地图，并将其嵌入到您的网站中.  （[Source Code](https://github.com/umap-project/umap)）`WTFPL``Python`
 
 ## Media Streaming
 
@@ -961,7 +961,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [minimalist-web-notepad](https://github.com/pereorga/minimalist-web-notepad)  -简约的notepad.cc克隆.  `Apache-2.0``PHP`
 - [MiniNote](https://github.com/n1try/mininote)  -具有持久性的简单Markdown笔记应用程序.  MIT`Nodejs`
 - [OpenNote](https://github.com/FoxUSA/OpenNote)  -OpenNote被构建为Microsoft OneNote（T）和EverNote的基于Web的开放式替代方案.  （[Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)）`MIT`` HTML5`
-- [Paperwork](http://paperwork.rocks)  -Evernote，Microsoft OneNote和Google Keep的OpenSource笔记和存档替代品.  （[Source Code](https://github.com/twostairs/paperwork)）`MIT`` PHP`
+- [Paperwork](https://paperwork.cloud)  -Evernote，Microsoft OneNote和Google Keep的OpenSource笔记和存档替代品.  （[Source Code](https://github.com/paperwork/paperwork)）`MIT`` PHP`
 - [savepad](https://github.com/shelltr/textpad)  -基于notepad.cc的简约记事本.  麻省理工学院PHP
 - [ShareLaTex](https://www.sharelatex.com/)  -基于Web的协作LaTeX编辑器.  （[Source Code](https://github.com/sharelatex/sharelatex)）`AGPL-3.0``Ruby`
 - [Standard Notes](https://standardnotes.org)  -简单和私人笔记应用程序.  在完成更多工作的同时保护您的隐私.  这是标准注释.  （[Demo](https://app.standardnotes.org/), [Source Code](https://github.com/standardnotes)）`GPL-3.0`` Ruby`
@@ -988,7 +988,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 **[`^        back to top        ^`](#)**
 
 - [Bitwarden](https://bitwarden.com/)  -带有webapp，浏览器扩展程序和移动应用程序的密码管理器.  （[Source Code](https://github.com/bitwarden/core)) `AGPL-3.0` `C#`
-- [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code](https://github.com/keeweb/keeweb)）`MIT`` HTML5`
+- [keeweb](https://keeweb.info/)  -该Web应用程序是与KeePass数据库兼容的浏览器和桌面密码管理器.  （[Source Code](https://github.com/keeweb/keeweb)）`MIT`` HTML5`
 - [Passbolt](https://www.passbolt.com/)  -密码管理器，专用于使用MySQL数据库后端在任何Web服务器上以协作方式管理密码.  （[Source Code](https://github.com/passbolt/passbolt_api)）`AGPL-3.0``PHP`
 - [PassIt](https://passit.io/)  -简单的密码管理，具有按组和用户共享的功能，但没有管理界面.  （[Demo](https://app.passit.io/), [Source Code](https://gitlab.com/passit)）`AGPL-3.0``Python`
 - [Psono](https://psono.com/)  -一个有前途的密码管理器，完全适用于团队.  （[Demo](https://www.psono.pw), [Source Code](https://gitlab.com/psono)）Apache-2.0 Python
@@ -1016,7 +1016,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 - [pastebin](https://github.com/prologic/pastebin)  -具有便捷的api和CLI的简单pastebin服务.  （[Demo](https://paste.mills.io)）`MIT`` Go`
 - [Pastebin](https://github.com/ewhal/Pastebin)  -具有宁静API的现代自托管pastebin服务.  麻省理工学院
 - [pb](https://github.com/ptpb/pb)  -使用烧瓶建立的轻便的pastebin（和URL缩短器）.  GPL-3.0 Python
-- [pbnh](https://github.com/bhanderson/pbnh)  -Pastebin受项目pb和hastebin启发，具有API和基于SQL的后端.  麻省理工学院Python
+- [pbnh](https://github.com/bhanderson/pbnh) - Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend. `MIT` `Python`
 - [PrivateBin](https://privatebin.info/)  -PrivateBin是一个极简主义的开源在线粘贴/讨论板，服务器对托管数据了解为零.  （[Demo](https://privatebin.net/), [Source Code](https://github.com/PrivateBin/PrivateBin)）`Zlib``PHP`
 - [SharpPaste](https://github.com/phonicmouse/SharpPaste) - Cross-platform C# pastebin with client-side AES-256 encryption that just works. ([Demo](https://sharppaste.nl/)) `MIT` `C#/NancyFX`
 - [Snibox](https://snibox.github.io/)  -代码片段管理器，具有吸引人的面向标签的界面.  （[Demo](https://snibox-demo.herokuapp.com/), [Source Code](https://github.com/snibox/snibox)）`MIT`` Ruby`
@@ -1314,8 +1314,8 @@ _See [awesome-sysadmin/Continuous Integration & Continuous Deployment](https://g
 - [Polr](https://project.polr.me/)  -现代，简约，模块化和轻量级的URL缩短器.  （[Source Code](https://github.com/Cydrobolt/polr)）`GPL-2.0`` PHP`
 - [reduc.io](https://github.com/ziyasal/reducio)  -使用Akka-Http和Redis用Scala编写的URL缩短服务.  MIT斯卡拉
 - [schort](https://github.com/sqozz/schort)  -没有登录，没有JavaScript，只有短链接.  （[Demo](https://s.wx0.de)）`CC0-1.0``Python`
-- [shorturl](https://github.com/prologic/shorturl)  -简单的URL缩短器，具有非常小的URL.  （[Demo](https://url.mills.io)）`MIT`` Go`
-- [shuri](https://github.com/pips-/shuri)  -简短的URI-轻量级的URL缩短器.  麻省理工学院PHP
+- [shorturl](https://github.com/prologic/shorturl)  -简单的URL缩短器，URL很小.  （[Demo](https://url.mills.io)）`MIT`` Go`
+- [shuri](https://github.com/pips-/shuri)  -简短的URI-轻型URL缩短器.  麻省理工学院PHP
 - [Simple-URL-Shortener](https://github.com/azlux/Simple-URL-Shortener)  -公共或私人（带帐户）的KISS URL缩短器.  极简和轻巧.  没有依赖关系.  （[Demo](https://u.azlux.fr)）`MIT`` PHP`
 - [url-shortener](https://github.com/cagataycali/url-shortener)  `⚠`-Shitty网址缩短器，表情符号和AI支持.  MIT`Nodejs`
 - [URL-Shortener](https://github.com/sapioit/URL-shortener)  -使长链接简短，仅使用小写字母，因此您可以更快地编写和拼写它们.  （[Demo](http://scurtez.cf)）`GPL-3.0`` PHP`
@@ -1381,7 +1381,7 @@ See https://github.com/n1trux/awesome-sysadmin#web
 - [Piratebox](https://piratebox.cc/start)  -使用免费软件和廉价现成硬件构建的DIY匿名离线文件共享和通信系统.  （[Source Code](https://github.com/PirateBox-Dev) ）.  GPL-3.0 Python /其他
 - [Puffin](https://github.com/puffinrocks/puffin)  -基于容器的轻量级Webapp目录，带有移动应用程序商店的用户界面.  AGPL-3.0 Python / Docker
 - [Sandstorm](https://sandstorm.io/)  -用于轻松，安全地运行自托管应用程序的个人服务器.  （[Demo](https://demo.sandstorm.io/), [Source Code](https://github.com/sandstorm-io/sandstorm)）`Apache-2.0``C ++ / Other`
-- [sovereign](https://github.com/sovereign/sovereign)  -用于构建和维护自己的私有云的Ansible剧本集：电子邮件，日历，联系人，文件同步，IRC保镖，VPN等.  `GPL-3.0``YAML /其他`
+- [sovereign](https://github.com/sovereign/sovereign)  -Ansible剧本集，用于建立和维护自己的私有云：电子邮件，日历，联系人，文件同步，IRC保镖，VPN等.  `GPL-3.0``YAML /其他`
 - [Syncloud](https://syncloud.org/)  -您自己的在线文件存储，社交网络或电子邮件服务器.  （[Source Code](https://github.com/syncloud/platform)）`GPL-3.0``Python / Other`
 - [UBOS](http://ubos.net/)  -在独立盒（个人服务器和IoT设备）上运行的Linux发行版.  应用程序的单命令安装和管理-Jenkins，Mediawiki，Owncloud，WordPress等，以及其他功能.  `GPL-3.0``Perl / Other`
 - [WikiSuite](http://WikiSuite.org)  -有史以来开发最全面，集成度最高的免费/自由/开源软件套件.  （[Source Code](http://wikisuite.org/Source-Code)）`多个`ClearOS`
@@ -1464,11 +1464,11 @@ See https://github.com/n1trux/awesome-sysadmin#web
 
 ## Contributing
 
-可以找到贡献准则 [here](https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
+可以在以下位置找到贡献准则 [https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md](https://github.com/Kickball/awesome-selfhosted/blob/master/.github/CONTRIBUTING.md).
 
 ## Authors
 
-可以找到作者列表 [here](https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md).
+可以在以下位置找到作者列表 [https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md](https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md).
 
 ## License
 

@@ -10,7 +10,7 @@
 
 如果您想提供帮助，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
-如果您不是程序员，但想贡献自己的力量，请查看 [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) 名单.
+如果您不是程序员，但想贡献自己的力量，请查看 [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) 清单.
 
 
 
@@ -65,7 +65,7 @@
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers)  _（标签：d.FirstTimers）_ <br>  TEAMMATES是一个免费的在线工具，用于管理学生的同伴评估和其他反馈路径.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源，分布式，RESTful搜索引擎.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  桌面应用程序从SWING迁移到JavaFX.  关注代码质量：使用代码质量工具，例如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
-- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
+- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
 
@@ -79,7 +79,7 @@
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner)  _（标签：初学者）_ <br>  优雅而轻巧的全栈JavaScript样板.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于移动设备的交互式地图的JavaScript库.
-- [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  拖放是如此简单，很痛苦.
+- [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Angular指令，可让您拆分！
 - [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：初次贡献者）_ <br>  通过在许多Javascript应用程序中实现Todo来帮助您选择MV \ *框架.
@@ -110,7 +110,7 @@
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  打造优秀机器人的唯一明智的方法.
 - [Atom](https://github.com/atom/atom/labels/beginner)  _（标签：初学者）_ <br>  可入侵的文字编辑器
-- [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
+- [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER)  _（标签：BEGINNER）_ <br>  最好的FOSS Web前端资源CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  播放器框架
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly)  _（标签：初学者友好）_ <br>  JavaScript变异测试框架
 - [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用Web技术构建的开源屏幕录像机
@@ -120,7 +120,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -150,7 +150,7 @@
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Matomo是领先的Free / Libre开放分析平台.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  增强您的GitHub组织！
-- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
+- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_ <br>  领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
 
 ## Python
@@ -169,7 +169,7 @@
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人程序，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
-- [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit) _(label: Low-hanging fruit)_ <br> Pythonic remote execution and deployment.
+- [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Jupyter交互式笔记本.
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  强大的开源群聊.

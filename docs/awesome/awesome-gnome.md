@@ -6,9 +6,9 @@
 
 &gt; GNOME桌面环境的_awesome_应用，扩展，模块，主题和工具的精选列表.
 
-[GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在让用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
+[GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在使用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式维护和分发的扩展名.
+&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式的一部分维护和分发的扩展.
 
 
   - [Developpement and Design](#developpement-and-design) 
@@ -78,7 +78,7 @@
 ### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) -开源游戏平台.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) -游戏启动器和libretro的仿真前端.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
 
 ### System and Customization
 
@@ -130,7 +130,7 @@
 
 ### Complete overhaul
 
-- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) - Make your desktop more similar to W7/KDE.
+- [Dash-to-Panel](https://extensions.gnome.org/extension/1160/dash-to-panel/) -使您的桌面更类似于W7 / KDE.
 
 ### Desktop
 
@@ -180,7 +180,7 @@
 
 ### Themes
 
- &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试.  这意味着某些应用程序可能在此处遇到某些主题问题.  您可以使用命令行，dconf或Tweaks更改GTK主题，但这也意味着如果有任何问题，您可以保留这些内容：)
+ &gt; **注意：** GNOME并不正式支持主题，并且自定义gtk样式表无法在所有应用程序中进行测试.  这意味着某些应用程序可能对此处的某些主题有疑问.  您可以使用命令行，dconf或Tweaks来更改GTK主题，但这也意味着如果有任何问题，这些片段将保留给您:)
 
 - [Oomox](https://github.com/themix-project/oomox) -生成Numix和Materia主题的不同颜色.
 
@@ -189,7 +189,7 @@
 &gt;扩展上游主题或与之兼容的主题.
 
 - [Minwaita](https://github.com/godlyranchdressing/Minwaita)  -Adwaita的紧凑型叉子.  （GTK，壳牌）
-- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)  -Adwaita的精简版本，比minwaita更忠实，但不那么紧凑.  （GTK，壳牌）
+- [Adwaita Tweaks](https://github.com/Jazqa/adwaita-tweaks)  -Adwaita的精简版本，比minwaita更忠实，但不那么精巧.  （GTK，壳牌）
 - [Yaru](https://github.com/ubuntu/yaru)  -Ubuntu的官方社区风格.  （GTK，壳牌）
 
 #### Look-a-like Themes

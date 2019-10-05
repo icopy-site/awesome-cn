@@ -32,7 +32,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -389,7 +389,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Toolboxes - Environment
 
  * [ML Workspace](https://github.com/ml-tooling/ml-workspace)  -用于机器学习和数据科学的基于Web的多合一IDE.  工作区被部署为Docker容器，并预加载了各种流行的数据科学库（例如Tensorflow，PyTorch）和开发工具（例如Jupyter，VS Code）.
- * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进了团队合作，基础架构管理，模型比较和可重复性.
+ * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进团队合作，基础架构管理，模型比较和可重复性.
  * [steppy](https://github.com/neptune-ml/steppy)  -&gt;轻量级的Python库，用于快速且可重复的机器学习实验.  引入了非常简单的界面，可以进行干净的机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -&gt;精心挑选的神经网络，变换器和模型集合，可让您的机器学习更快，更有效地工作.
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) 使用熟悉的语言（例如Python和SQL）以交互方式轻松地探索，可视化，分析和转换数据.
@@ -407,7 +407,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
  * [Variance](http://variancecharts.com/) 无需编写JavaScript，即可为Web构建强大的数据可视化
- * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发套件（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
+ * [Kite Development Kit](http://kitesdk.org/docs/current/index.html) Kite软件开发工具包（Apache许可证，版本2.0）或Kite是一组库，工具，示例和文档，旨在简化在Hadoop生态系统之上构建系统的工作.
  * [Domino Data Labs](http://www.dominodatalab.com) 运行，扩展，共享和部署模型-无需任何基础架构或设置.
  * [Apache Flink](http://flink.apache.org/) 一个高效，分布式，通用数据处理的平台.
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，可让您进行MapReduce之外的高级分析.
@@ -522,6 +522,12 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 * [Data science your way](https://github.com/jadianes/data-science-your-way)
 * [PySpark Cheatsheet](https://github.com/kevinschaich/pyspark-cheatsheet)
 * [Machine Learning, Data Science and Deep Learning with Python ](https://www.manning.com/livevideo/machine-learning-data-science-and-deep-learning-with-python)
+
+
+### Free Courses
+
+* [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
+* [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 
 ## Other Awesome Lists
 

@@ -94,7 +94,7 @@
 - [Coisas](https://github.com/fiatjaf/coisas) -用于编辑GitHub Markdown（和其他）文件的客户端CMS.
 - [Cockpit](https://getcockpit.com/) -一个自托管的无头和api驱动的CMS.
 - [HeadlessCMS](https://headlesscms.org/) -JAMstack站点的内容管理系统列表.
-- [TakeShape](https://www.takeshape.io/) - Headless GraphQL API CMS with 1-click deploy to Netlify.
+- [TakeShape](https://www.takeshape.io/) -一键式无头GraphQL API CMS部署到Netlify.
 - [Ghost](https://ghost.org/) -用于在线出版物的无头CMS
 
 ## API
@@ -108,7 +108,7 @@
 
 - [Disqus](https://disqus.com) -全球评论系统，可改善网站上的讨论并通过网络连接对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -评论插件可让人们使用其Facebook帐户对您网站上的内容发表评论.
-- [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
+- [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
 
 ### Forms
 
@@ -205,6 +205,7 @@
 - [That's my JAMstack](https://thatsmyjamstack.com)
 
 ## Books
+- [Modern Web Development on the JAMstack](https://www.netlify.com/pdf/oreilly-modern-web-development-on-the-jamstack.pdf) -Mathias Biilmann和Phil Hawksworth（由O&#39;Reilly出版）.
 - [Hugo in Action](https://www.manning.com/books/hugo-in-action)
 
 ## License

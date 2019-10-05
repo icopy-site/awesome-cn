@@ -48,6 +48,7 @@
  * [Using Tailwind CSS with Next.js](https://statickit.com/guides/next-js-tailwind)
 
 ## Boilerplates
+* [Next & Now 2.0 Typescript template](https://github.com/alepacheco/landing-template) -无服务器，Typescript，Jest，Github CI，SCSS，更漂亮的样板
 * [NextJS in Firebase with Bootstrap](https://github.com/ananddayalan/nextjs-in-firebase-with-bootstrap) -使用Cloud Functions在Firebase中使用Bootstrap托管NextJS应用.
 * [Next Simple Starter](https://github.com/ooade/NextSimpleStarter) -带有Next.js和Redux的简单PWA样板.
 * [NextJS Starter](https://github.com/iaincollins/nextjs-starter) -带有电子邮件和oAuth身份验证的Next.js入门项目.
@@ -83,6 +84,8 @@
 * [Serverless Framework plugin for Next.js](https://github.com/danielcondemarin/serverless-nextjs-plugin) -轻松部署无服务器应用程序.
 * [Terraform For Next.js](https://github.com/ematipico/terraform-nextjs-plugin) -使用Terraform部署应用程序
 * [next-session](https://github.com/hoangvvo/next-session) -Next.js的会话中间件
+* [Next PurgeCSS](https://github.com/lucleray/next-purgecss) -轻松整合 [Purgecss](https://www.purgecss.com/)，这可以帮助您从包中删除未使用的CSS. 
+
 
 ## Apps
 * [NextJS GOT](https://github.com/auth0-blog/nextjs-got) -展示权力游戏角色的简单Next.js应用程序.
@@ -121,7 +124,7 @@
 
 ## Videos
 
-* [使用NextJS _ [西班牙语] _创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
+* [使用NextJS _ [西班牙语] _]创建您的第一个ReactJS应用程序（https://www.youtube.com/watch?v=-7Ft5LxPeWs）
 * [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 * [Guillermo Rauch - Next.js by Example](https://www.youtube.com/watch?v=DLGJfa3Xv-0)
 * [Guillermo Rauch - Next.js: Universal React Made Easy and Simple](https://www.youtube.com/watch?v=evaMpdSiZKk)
