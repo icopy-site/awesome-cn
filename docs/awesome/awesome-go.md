@@ -66,7 +66,7 @@
 * [osin](https://github.com/openshift/osin) -  Golang了OAuth2服务器库.
 * [paseto](https://github.com/o1egl/paseto) -与平台无关的安全令牌（PASETO）的Golang实现.
 * [permissions2](https://github.com/xyproto/permissions2)  -用于跟踪用户，登录状态和权限的库.  使用安全的cookie和bcrypt.
-* [rbac](https://github.com/zpatrick/rbac) - Minimalistic RBAC package for Go applications.
+* [rbac](https://github.com/zpatrick/rbac) -用于Go应用程序的简约RBAC软件包.
 * [scope](https://github.com/SonicRoshan/scope) -在Go中轻松管理OAuth2范围.
 * [scs](https://github.com/alexedwards/scs) -HTTP服务器的会话管理器.
 * [securecookie](https://github.com/chmike/securecookie) -高效的安全Cookie编码/解码.
@@ -167,9 +167,9 @@
 * [tabby](https://github.com/cheynewallace/tabby) -超级简单的Golang表的小型库.
 * [tabular](https://github.com/InVisionApp/tabular) -从命令行实用程序中打印ASCII表，而无需将大量数据传递给API.
 * [termbox-go](https://github.com/nsf/termbox-go) -Termbox是一个用于创建跨平台基于文本的界面的库.
-* [termdash](https://github.com/mum4k/termdash) -基于** termbox-go **并受灵感启发的终端仪表板 [termui](https://github.com/gizak/termui).
+* [termdash](https://github.com/mum4k/termdash) - Go terminal dashboard based on **termbox-go** and inspired by [termui](https://github.com/gizak/termui).
 * [termtables](https://github.com/apcera/termtables) -转到Ruby库的端口 [terminal-tables](https://github.com/tj/terminal-table) 用于简单的ASCII表生成以及提供markdown和HTML输出.
-* [termui](https://github.com/gizak/termui) -基于** termbox-go **并受灵感启发的终端仪表板 [blessed-contrib](https://github.com/yaronn/blessed-contrib).
+* [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib](https://github.com/yaronn/blessed-contrib).
 * [uilive](https://github.com/gosuri/uilive) -用于实时更新终端输出的库.
 * [uiprogress](https://github.com/gosuri/uiprogress) -灵活的库，可在终端应用程序中呈现进度条.
 * [uitable](https://github.com/gosuri/uitable) -利用表格数据提高终端应用程序可读性的库.
@@ -377,7 +377,7 @@
 * [scaneo](https://github.com/variadico/scaneo) -生成Go代码以将数据库行转换为任意结构.
 * [sqrl](https://github.com/elgris/sqrl) -SQL查询生成器，Squirrel的分支，具有改进的性能.
 * [Squalus](https://gitlab.com/qosenergy/squalus) -Go SQL包上的薄层，使执行查询变得更加容易.
-* [Squirrel](https://github.com/Masterminds/squirrel) - Go library that helps you build SQL queries.
+* [Squirrel](https://github.com/Masterminds/squirrel) -Go库可帮助您构建SQL查询.
 * [xo](https://github.com/knq/xo) -根据现有的架构定义或支持PostgreSQL，MySQL，SQLite，Oracle和Microsoft SQL Server的自定义查询为数据库生成惯用的Go代码.
 
 ## Database Drivers
@@ -939,12 +939,12 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Centrifugo](https://github.com/centrifugal/centrifugo) -Go中的实时消息传递（Websockets或SockJS）服务器.
 * [Commander](https://github.com/jeroenrinzema/commander) -由事件驱动的高级消费者/生产者，支持各种“方言”，例如Apache Kafka.
 * [dbus](https://github.com/godbus/dbus) -用于D-Bus的Native Go绑定.
-* [drone-line](https://github.com/appleboy/drone-line) -正在发送 [Line](https://at.line.me/en) 使用二进制，泊坞窗或Drone CI的通知.
+* [drone-line](https://github.com/appleboy/drone-line) - Sending [Line](https://at.line.me/en) 使用二进制，泊坞窗或Drone CI的通知.
 * [emitter](https://github.com/olebedev/emitter) -使用Go方式发出事件，并使用通配符，谓词，取消可能性和许多其他良好的胜利.
 * [event](https://github.com/agoalofalife/event) -模式观察器的实现.
 * [EventBus](https://github.com/asaskevich/EventBus) -具有异步兼容性的轻量级事件总线.
 * [gaurun-client](https://github.com/osamingo/gaurun-client) -用Go编写的Gaurun Client.
-* [Glue](https://github.com/desertbit/glue) - Robust Go and Javascript Socket Library (Alternative to Socket.io).
+* [Glue](https://github.com/desertbit/glue) -健壮的Go和Javascript套接字库（替代Socket.io）.
 * [go-notify](https://github.com/TheCreeper/go-notify) -freedesktop通知规范的本地实现.
 * [go-nsq](https://github.com/nsqio/go-nsq) -NSQ的官方Go软件包.
 * [go-socket.io](https://github.com/googollee/go-socket.io) -用于golang（实时应用程序框架）的socket.io库.
@@ -968,7 +968,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [pubsub](https://github.com/tuxychandru/pubsub) -简单的pubsub包.
 * [rabbus](https://github.com/rafaeljesus/rabbus) -在amqp交换和队列上的小包装.
 * [rabtap](https://github.com/jandelgado/rabtap) -RabbitMQ瑞士军刀CLI应用程序.
-* [RapidMQ](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
+* [RapidMQ](https://github.com/sybrexsys/RapidMQ) -RapidMQ是用于管理本地消息队列的轻量级且可靠的库.
 * [redisqueue](https://github.com/robinjoseph08/redisqueue) -redisqueue提供使用Redis流的队列的生产者和使用者.
 * [rmqconn](https://github.com/sbabiv/rmqconn)  -RabbitMQ重新连接.  包装在amqp.Connection和amqp.Dial上.  在断开连接之前允许进行重新连接，然后强制关闭Close（）方法的调用.
 * [sarama](https://github.com/Shopify/sarama) -转到Apache Kafka的库.
@@ -1022,7 +1022,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *将这些库放在这里是因为其他类别似乎都不适合.
 
 * [anagent](https://github.com/mudler/anagent) -带有依赖项注入的简约，可插入Golang evloop / timer处理程序.
-* [antch](https://github.com/antchfx/antch) -快速，强大且可扩展的Web爬网和抓取框架.
+* [antch](https://github.com/antchfx/antch) - A fast, powerful and extensible web crawling & scraping framework.
 * [archiver](https://github.com/mholt/archiver) -用于制作和提取.zip和.tar.gz档案的库和命令.
 * [autoflags](https://github.com/artyom/autoflags) -Go软件包可从结构字段自动定义命令行标志.
 * [avgRating](https://github.com/kirillDanshin/avgRating) -根据Wilson得分方程计算平均得分和等级.
@@ -1095,8 +1095,8 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [paicehusk](https://github.com/rookii/paicehusk) -Paice / Husk阻止算法的Golang实现.
 * [petrovich](https://github.com/striker2000/petrovich) -彼得罗维奇（Petrovich）是图书馆，在给定的语法情况下使用俄语名称.
 * [porter](https://github.com/a2800276/porter) -这是Martin Porter的Porter词干算法的C实现的相当简单的移植.
-* [porter2](https://github.com/zhenjl/porter2) - Really fast Porter 2 stemmer.
-* [prose](https://github.com/jdkato/prose) - Library for text processing that supports tokenization, part-of-speech tagging, named-entity extraction, and more.
+* [porter2](https://github.com/zhenjl/porter2) -真快，波特2票.
+* [prose](https://github.com/jdkato/prose)  -用于文本处理的库，支持标记化，词性标记，命名实体提取等.  仅限英语.
 * [RAKE.go](https://github.com/Obaied/RAKE.go) -快速自动关键字提取算法（RAKE）的端口.
 * [segment](https://github.com/blevesearch/segment) -执行如下所述的用于执行Unicode文本分段的库 [Unicode Standard Annex #29](http://www.unicode.org/reports/tr29/)
 * [sentences](https://github.com/neurosnap/sentences) -句子标记器：将文本转换为句子列表.
@@ -1558,7 +1558,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [gcm](https://github.com/Aorioli/gcm) -前往Google Cloud Messaging的库.
 * [geo-golang](https://github.com/codingsince1985/geo-golang) -去图书馆访问 [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](https://developer.mapquest.com/documentation/open/nominatim-search), [OpenCage](http://geocoder.opencagedata.com/api.html), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/)和 [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) 地理编码/反向地理编码API.
 * [github](https://github.com/google/go-github) -用于访问GitHub REST API v3的Go库.
-* [githubql](https://github.com/shurcooL/githubql) -用于访问GitHub GraphQL API v4的Go库.
+* [githubql](https://github.com/shurcooL/githubql) - Go library for accessing the GitHub GraphQL API v4.
 * [go-chronos](https://github.com/axelspringer/go-chronos) -Go库，用于与 [Chronos](https://mesos.github.io/chronos/) 工作计划
 * [go-hacknews](https://github.com/PaulRosset/go-hacknews) -HackerNews API的Tiny Go客户端.
 * [go-here](https://github.com/abdullahselek/go-here) -围绕基于此处的位置API的客户端库.
@@ -1617,14 +1617,14 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 
 *使您的生活更轻松的通用工具和工具.*
 
-* [abutil](https://github.com/bahlo/abutil) -收集常用的Golang助手.
+* [abutil](https://github.com/bahlo/abutil) - Collection of often-used Golang helpers.
 * [apm](https://github.com/topfreegames/apm) - Process manager for Golang applications with an HTTP API.
 * [backscanner](https://github.com/icza/backscanner) -类似于bufio.Scanner的扫描仪，但是它以相反的顺序读取和返回行，从给定位置开始并向后移动.
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) -快速，快速的CLI工具，用于从样板模板创建项目.
 * [chyle](https://github.com/antham/chyle) -使用git存储库的Changelog生成器具有多种配置可能性.
 * [circuit](https://github.com/cep21/circuit) -断路器模式的高效且功能完整的Hystrix like Go实现.
-* [circuitbreaker](https://github.com/rubyist/circuitbreaker) -Go中的断路器.
+* [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.
 * [clockwork](https://github.com/jonboulle/clockwork) -用于golang的简单假时钟.
 * [command](https://github.com/txgruppi/command) -具有线程安全串行和并行调度程序的Go的命令模式.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) -使用后端等S3进行存储的通用多工作站剪贴板.
@@ -1718,7 +1718,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [robustly](https://github.com/VividCortex/robustly) -弹性运行功能，捕获并重新启动紧急情况.
 * [scan](https://github.com/blockloop/scan) -直接扫描golang`sql.Rows`到结构，切片或基本类型.
 * [serve](https://github.com/syntaqx/serve) -您需要的任何位置的静态http服务器.
-* [shutdown](https://github.com/ztrue/shutdown) -用于OS.Signal处理的应用程序关闭挂钩.
+* [shutdown](https://github.com/ztrue/shutdown) - App shutdown hooks for `os.Signal` handling.
 * [silk](https://github.com/chrispassas/silk) -读取丝网流文件.
 * [sliceconv](https://github.com/Henry-Sarabia/sliceconv) -基本类型之间的切片转换.
 * [slicer](https://github.com/leaanthony/slicer) -使切片操作更加轻松.
@@ -1954,7 +1954,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 ## Go Generate Tools
 
 * [generic](https://github.com/usk81/generic) -Go的灵活数据类型.
-* [genny](https://github.com/cheekybits/genny) - Elegant generics for Go.
+* [genny](https://github.com/cheekybits/genny) -优雅的仿制药.
 * [gocontracts](https://github.com/Parquery/gocontracts) -通过使代码与文档同步来实现按合同设计.
 * [gonerics](http://github.com/bouk/gonerics) -Go中的惯用泛型.
 * [gotests](https://github.com/cweill/gotests) -从您的源代码生成Go测试.
@@ -2106,7 +2106,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [go_serialization_benchmarks](https://github.com/alecthomas/go_serialization_benchmarks) -Go序列化方法的基准.
 * [gocostmodel](https://github.com/PuerkitoBio/gocostmodel) -Go语言常用基本操作的基准.
 * [golang-sql-benchmark](https://github.com/tyler-smith/golang-sql-benchmark) -收集流行的Go数据库/ SQL实用程序的基准.
-* [gospeed](https://github.com/feyeleanor/GoSpeed) - Go micro-benchmarks for calculating the speed of language constructs.
+* [gospeed](https://github.com/feyeleanor/GoSpeed) -使用微基准来计算语言构造的速度.
 * [kvbench](https://github.com/jimrobinson/kvbench) -键/值数据库基准.
 * [skynet](https://github.com/atemerev/skynet) -天网1M线程微基准测试.
 * [speedtest-resize](https://github.com/fawick/speedtest-resize) -比较Go语言的各种图像调整大小算法.
@@ -2264,7 +2264,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) -Golang电子书介绍如何使用Golang构建网络应用.
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) -熟悉Gin并了解它如何帮助您减少样板代码并建立请求处理管道.
 * [Caching Slow Database Queries](https://medium.com/@rocketlaunchr.cloud/caching-slow-database-queries-1085d308a0c9) -如何缓存缓慢的数据库查询.
-* [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) -如何取消MySQL查询.
+* [Canceling MySQL](https://medium.com/@rocketlaunchr.cloud/canceling-mysql-in-go-827ed8f83b30) - How to cancel MySQL queries.
 * [Ethereum Development with Go](https://github.com/miguelmota/ethereum-development-with-go-book) -有关使用Go进行以太坊开发的电子书.
 * [Games With Go](http://gameswithgo.org/) -视频系列教学编程和游戏开发.
 * [Go By Example](https://gobyexample.com/) -使用带注释的示例程序动手介绍Go.

@@ -34,6 +34,7 @@
 - [Owlboy](http://www.owlboygame.com/)  -在云端探索一个详细的蒸汽朋克世界.  凭借其一系列引人入胜的动画和表情，世界和角色栩栩如生.
 - [Stardew Valley](https://stardewvalley.net/) -从上到下的角度管理农场，并以16位元与迷人而开朗的世界互动.
 - [Starbound](https://playstarbound.com/) -穿越充满活力，色彩丰富且广阔的星系，包括富有创意的动态动画.
+- [Void Golf](https://cactusmancer.itch.io/void-golf) -在极简的自顶向下视图中，利用重力场，违反物理原理的墙壁和虫洞，将巨大的太空岩石射入黑洞.
 
 ### Videos
 - [Sean Browning - Pixel Art Animation Reel 2018](https://vimeo.com/250991452) -肖恩·布朗宁（Sean Browning）的像素动画集合，从简单的场景到诸如史蒂文的宇宙和RWBY之类的热门节目的娱乐，不一而足.
@@ -64,3 +65,4 @@
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software)  -付费试用，可在Windows上使用.  专为创建游戏像素艺术而设计的高级功能.
 - [GIMP](https://www.gimp.org/)  -开源且免费，可在Linux，macOS和Windows上运行.  并非专门用于创建像素图，但能够做到的更多.
 - [Piskel](http://www.piskelapp.com/)  -开源且免费，可在Linux，macOS和Windows的浏览器中使用.  易于尝试在浏览器中在线保存精灵.
+- [rx](https://cloudhead.io/rx/)  -开源且免费，可在Linux，macOS和Windows上运行.  极简主义和键盘驱动，带有动画支持.

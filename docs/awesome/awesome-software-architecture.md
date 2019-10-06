@@ -86,4 +86,4 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-在法律允许的范围内， [Simskij](https://github.com/simskij) 放弃了此作品的所有版权以及相关或邻近的权利.
+在法律允许的范围内， [simskij](https://github.com/simskij) 放弃了此作品的所有版权以及相关或邻近的权利.

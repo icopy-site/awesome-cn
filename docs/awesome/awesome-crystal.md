@@ -304,8 +304,8 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [runic-lang](https://github.com/runic-lang) -设计玩具语言
 
 ## Logging and monitoring
- * [crafana](https://github.com/spoved/crafana.cr) - A [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
- * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) 客户库
+ * [crafana](https://github.com/spoved/crafana.cr) - 一种 [Grafana](https://grafana.com/) 库可帮助自动生成仪表板
+ * [crometheus](https://gitlab.com/ezrast/crometheus) - 一种 [Prometheus](https://prometheus.io/) 客户库
  * [crystal-logreader](https://github.com/arcage/crystal-logreader) -尾随日志文件
  * [fluent-logger-crystal](https://github.com/TobiasGSmollett/fluent-logger-crystal) -用于的结构化记录器 [Fluentd](https://www.fluentd.org/)
  * [instana](https://github.com/instana/crystal-sensor) -指标和分布式跟踪收集器 [Instana](https://www.instana.com/)
@@ -370,6 +370,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [OAuth2](https://crystal-lang.org/api/OAuth2.html) -OAuth2客户端（Crystal stdlib）
  * [OpenSSL](https://crystal-lang.org/api/OpenSSL.html) -绑定到libssl（Crystal stdlib）
  * [Socks](https://github.com/wontruefree/socks) -袜子代理
+ * [telnet.cr](https://github.com/spider-gazelle/telnet.cr) -Telnet协议
  * [transfer_more](https://git.sceptique.eu/Sceptique/transfer_more) -复制transfer.sh以上传文件
 
 ## Networking
@@ -407,7 +408,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Queues and Messaging
  * [amqp.cr](https://github.com/datanoise/amqp.cr) -具有RabbitMQ扩展的AMQP 0.9.1客户端
- * [dispatch](https://github.com/bmulvihill/dispatch) -内存中异步作业处理
+ * [dispatch](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
  * [mosquito](https://github.com/robacarp/mosquito/) -Redis支持的定期和临时作业处理
  * [NATS.io](https://github.com/nats-io/nats.cr) -NATS客户
  * [sidekiq.cr](https://github.com/mperham/sidekiq.cr) -简单，高效的作业处理

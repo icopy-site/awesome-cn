@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="mailtoharshit/awesome-salesforce"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
- 
+
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/Spring19Logo.gif" align="right" width="220" height="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -89,7 +89,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ### Packages and Libraries supporting salesforce
 
-* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) ApexMocks是Force.com Apex语言的模拟框架，它的灵感来自著名的Java模拟框架Mockito  
+* [Apex mocks](https://github.com/financialforcedev/fflib-apex-mocks) ApexMocks是Force.com Apex语言的模拟框架，它的灵感来自著名的Java模拟框架Mockito
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-mocks">
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
@@ -134,7 +134,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Apex UML Digram Maker](https://github.com/afawcett/apex-umlcanvas) -使用Tooling API从Apex代码创建UML图<br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) -功能齐全的Apex文档生成器，类似于JavaDoc.
 
-* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid)  -TableGrid是免费的开放源代码Force.com库，它为用户和开发人员提供了高度可定制的，看起来像原生的，可排序的，可过滤的，可编辑的Grid Visualforce组件.  该组件可以用作apex：pageBlockTables和Standard Related Lists的高级，高度可配置的（由开发人员和用户使用） </br>
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid)  -TableGrid是一个免费的开放源代码Force.com库，它为用户和开发人员提供了高度可自定义的，本机外观的，可排序的，可过滤的，可编辑的Grid Visualforce组件.  该组件可以用作apex：pageBlockTables和Standard Related Lists的高级，高度可配置的（由开发人员和用户使用） </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
 * [Force.com ESAPI](https://github.com/forcedotcom/force-dot-com-esapi)  -Force.com平台上用于Apex语言的企业安全性API.  该库包含三个模块-验证，输出编码和访问控制（CRUD，FLS和共享）.
@@ -152,9 +152,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/utilities.png" align="right" width="220">
 
-* [Weave](http://mailtoharshit.github.io/Weave/) -Sublime Text插件生成样板Salesforce代码模板  
+* [Weave](http://mailtoharshit.github.io/Weave/) -Sublime Text插件生成样板Salesforce代码模板
 
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) -自动将GitHub存储库部署到Salesforce ORG 
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) -自动将GitHub存储库部署到Salesforce ORG
   和“部署到Salesforce按钮”到您的README.md文件
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon是Force.com应用程序，可让您构建和运行Selenium测试，以在Salesforce组织中使用Visualforce / Javascript验证自定义UI页面.
@@ -194,7 +194,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Open Source Projects Repositories from Salesforce
 
 * [Salesforce Git Repo](https://github.com/forcedotcom) -在这里获取所有最新的Salesforce开源项目，您将找到Salesforce面向全球开放的出色项目，框架，库
-* [Salesforce Labs](https://github.com/salesforcelabs)  -从Salesforce团队签出开源和实验项目.  尽早使用可以胜任功能并贡献您想法的功能 
+* [Salesforce Labs](https://github.com/salesforcelabs)  -从Salesforce团队签出开源和实验项目.  尽早使用可以胜任功能并贡献您想法的功能
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
@@ -224,7 +224,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/UX.jpg" align="right" width="120">
 
-* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - 图书馆 
+* [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - 图书馆
 * [React Components for Saleforce Lightning Design System](http://mashmatrix.github.io/react-lightning-design-system/) -使用React构建的Salesforce Lightning设计系统组件
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) -一个模板项目，用于在Salesforce上使用自动构建脚本（Gulp.js）创建基于ReactJS的单页应用程序
 * [ForceSpinner](https://github.com/mailtoharshit/ForceSpinner) -加载程序/微调器集合，以利用强大的用户体验进行Salesforce项目
@@ -259,7 +259,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 ## Salesforce Mobile Packs with Javascript Libraries [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365281769/ypqq9g8at1y1yqoo8h6g.png" align="right" width="300">](https://developer.salesforce.com/mobile/services/mobile-packs)
 
-Google聚合物包装： [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://raw.githubusercontent.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" width="180">](https://raw.githubusercontent.com/ForceDotComLabs/mobile-ui-elements)
+Google Polymer Pack： [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://raw.githubusercontent.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" width="180">](https://raw.githubusercontent.com/ForceDotComLabs/mobile-ui-elements)
  使用一组新的HTML标记构建您的移动应用程序，这些标记可简化Salesforce驱动的用户界面的开发.  它基于Google的Polymer框架，并使用Web组件提供基本的构建基块，以使用Salesforce Mobile SDK创建支持离线功能的应用程序
 
 AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo](https://raw.githubusercontent.com/developerforce/MobilePack-AngularJS) |  [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
@@ -305,7 +305,7 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 
 
 ### Technical Blogs
-* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) -由Salesforce开发人员关系团队管理，您将在Salesforce世界中找到最酷的更新，大部分是该讲台上的体验，功能和开发人员评估博客博客.  
+* [Salesforce Developer Releations Blog](https://developer.salesforce.com/blogs/) -由Salesforce开发人员关系团队管理，您将在Salesforce世界中找到最酷的更新，大部分是该讲台上的体验，功能和开发人员评估博客博客.
 * [Salesforce Engineering Blog](https://developer.salesforce.com/blogs/engineering/) -涵盖了工程团队的最新更新，您将找到有关核心工程和产品发布的帖子的更新，以及一些很棒的人可以关注
 * [Andrew Fawcett](http://andyinthecloud.com/) -Financialforce.com的CTO，作者，以对Salesforce Community的杰出贡献而闻名. [Read More](http://andyinthecloud.com/about/)
 * [Andrez Perez - (ElToro.IT)](https://eltoroit.herokuapp.com)  -有关闪电组件，Apex，Visualforce，Force.com和Salesforce的文章.  他是Salesforce.com的高级技术讲师，并拥有11倍的Salesforce认证.
@@ -314,15 +314,15 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 * [Jeff Doughlas](http://blog.jeffdouglas.com/) -Appirio的高级技术顾问，topcoder的开发人员福音设计师，专门研究基于云，API和移动应用程序. [Read More](http://blog.jeffdouglas.com/about/)
 * [Keir Bowden](http://bobbuzzard.blogspot.com/)-也称为Keir Bowden，Keir是英国Salesforce白金合作伙伴BrightGen的首席技术官.[Read More](https://www.blogger.com/profile/07815472992351343395)
 * [Enrico Murru -(Nerd @ Work)](http://blog.enree.co/) -也称为Enreeco或ForceLogic.超极客技术爱好者佣工软件开发人员和Salesforce爱好者. [Read More](http://enree.co/)
-* [Peter Knolle](http://peterknolle.com/)  -Peter Knolle喜欢使用各种不同的技术.  经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)  
+* [Peter Knolle](http://peterknolle.com/)  -Peter Knolle喜欢使用各种不同的技术.  经过认证的Salesforce.com专业人士和Force.com MVP. [Read More](http://peterknolle.com/about/)
 * [Abhinav Gupta -(TechGerm)](http://www.tgerm.com/)-Force.com MVP和架构师-对S1和Javascript充满热情，Professsion架构师，现在是他的公司老板，专注于salesforce咨询 [Read More](https://plus.google.com/+AbhinavGuptaIn/posts)
 * [Jitendra Zaa](http://www.jitendrazaa.com/blog/)-自2008年以来，在平台上工作的7个Salesforce证书，MVP和技术架构师 [Read More](http://jitendrazaa.com/)
-* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) -Mohit是Codescience.com的CodeScience.  他以在 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有9x Salesforce认证. 
+* [Mohith Shrivastava -(CloudyWorld)](http://cloudyworlds.blogspot.com/) -Mohit是Codescience.com的CodeScience.  他以在 [stackexchange](http://salesforce.stackexchange.com/users/645/mohith-shrivastava) 拥有9x Salesforce认证.
 * [The Wizard News](https://thewizardnews.com/) -向导新闻是Brian Kwong（又名Salesforce向导）创建的博客，视频和播客的集中位置.
 
 ### Podcasts
 * [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) -每周一次的技术和软件开发播客，着重于安全平台.
-
+* [SalesforceWay Podcast](https://salesforceway.com/podcast) -每周安全开发人员定位的播客.
 
 ## Contribute
 
@@ -331,7 +331,7 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 ## BugReport-PullRequest
 1.按照主题类别下的顶层“类别”页面，以_字母顺序_添加链接，并在降价文件中添加注释（如果有）.
  2.对于断开的链接或过时的信息，请提交错误报告（BR），或进行必要的更改并提交PR.  两者都欢迎.  请为每个链接或添加的更改分别提交PR.
- 3.对于那些无法使用git的用户，创建一个github帐户，然后在用户界面上分叉此repo.  然后编辑页面 [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) ，然后点击保存并提交PR.  Github这样做 [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
+ 3.对于那些无法使用git的用户，创建一个github帐户，然后在用户界面上分叉此repo.  然后按以下方式编辑页面 [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) ，然后点击保存并提交PR.  Github这样做 [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 
 ## License

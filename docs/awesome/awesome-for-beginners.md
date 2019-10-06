@@ -68,6 +68,7 @@
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
 - [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
+- [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  SirixDB是用Java编写的版本化NoSQL文档存储（XML和JSON）.
 
 ## JavaScript
 
@@ -79,9 +80,9 @@
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner)  _（标签：初学者）_ <br>  优雅而轻巧的全栈JavaScript样板.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
 - [Leaflet](https://github.com/Leaflet/Leaflet/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于移动设备的交互式地图的JavaScript库.
-- [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only) _(label: first-timers-only)_ <br> Drag and drop so simple it hurts.
+- [Dragula](https://github.com/bevacqua/dragula/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  拖放是如此简单，很痛苦.
 - [UI.Layout directive (Angular UI)](https://github.com/angular-ui/ui-layout/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Angular指令，可让您拆分！
-- [history](https://github.com/rackt/history/labels/good-for-beginner) _(label: good-for-beginner)_ <br>  A minimal, functional history library for JavaScript.
+- [history](https://github.com/rackt/history/labels/good-for-beginner)  _（标签：初学者）_ <br>  JavaScript的最小功能历史记录库.
 - [TodoMVC](https://github.com/tastejs/todomvc/labels/first%20time%20contributor)  _（标签：初次贡献者）_ <br>  通过在许多Javascript应用程序中实现Todo来帮助您选择MV \ *框架.
 - [Adobe Brackets](https://github.com/adobe/brackets/issues?q=is%3Aopen+is%3Aissue+label%3A%22starter+bug%22)  _（标签：入门错误）_ <br>  Web的开放源代码编辑器，用JavaScript，HTML和CSS编写.
 - [AVA](https://github.com/sindresorhus/ava/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  未来派的测试跑步者.
@@ -150,13 +151,13 @@
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner)  _（标签：适合初学者）_ <br>  用PHP编写的部署工具，支持开箱即用的流行框架.
 - [Matomo](https://github.com/matomo-org/matomo/labels/help%20wanted)  _（标签：需要帮助）_ <br>  Matomo是领先的Free / Libre开放分析平台.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  增强您的GitHub组织！
-- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
+- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_ <br>  领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
 
 ## Python
 
-- [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug)  _（标签：良好的第一个Bug）_ <br>  弹射器之家，用作性能工具.
-- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue)  _（第一期好）_ <br>  为互联网时代建立更好的民主
+- [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
+- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow)  _（标签：难度/低）_ <br>  Python国际化库.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick)  _（标签：轻松选择）_ <br>  具有同步和共享功能的轻量级JSON存储服务.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy)  _（标签：简单）_ <br>  使用压缩和经过身份验证的加密对备份程序进行重复数据删除.
