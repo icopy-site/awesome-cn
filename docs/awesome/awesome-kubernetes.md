@@ -106,6 +106,7 @@ Installers
 * [Conjure-up](https://github.com/conjure-up/conjure-up) -Ubuntu-云不可知
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) -在您的MAC（边缘通道）上本地运行Kubernetes和Docker
 * [Docker for Windows](https://store.docker.com/editions/community/docker-ce-desktop-windows) -在Windows PC（Edge Channel）上本地运行Kubernetes和Docker
+* [eksctl](https://eksctl.io/) -Amazon EKS的官方CLI
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
@@ -683,6 +684,7 @@ Projects
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
 * [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
+* [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -构建，保护和观察您的现代服务网格.
 
 ## RPC
 
@@ -736,7 +738,7 @@ Projects
 * [kubectx](https://github.com/ahmetb/kubectx) -在kubectl上的集群之间切换
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [kubens](https://github.com/ahmetb/kubectx) -在kubectl上的命名空间之间切换
-* [kubensx](https://github.com/shyiko/kubensx) - Simpler Cluster/User/Namespace switching for Kubernetes (featuring interactive mode and wildcard/fuzzy matching).
+* [kubensx](https://github.com/shyiko/kubensx) -Kubernetes的更简单的集群/用户/命名空间切换（具有交互模式和通配符/模糊匹配）.
 * [kubeplay](https://github.com/errordeveloper/kubeplay)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) -解决kubectl
 * [StackStorm](https://github.com/StackStorm/st2)
@@ -809,7 +811,7 @@ Projects
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Contour](https://github.com/heptio/contour) -Lyft的Envoy代理的Kubernetes入口控制器
+* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
 * [Gimbal](https://github.com/heptio/gimbal) -能够将流量路由到多个Kubernetes和OpenStack集群的平台
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
@@ -930,6 +932,7 @@ Certifications
 *一些可证明自己是Kubernetes专家的可信认证的列表*
 
 * [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+* [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 
 幻灯片演示
 =======================================================================
@@ -1005,7 +1008,7 @@ Videos
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb),  Software Engineer at Google & Google Kubernetes Engine
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，小组产品经理-Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
@@ -1015,7 +1018,7 @@ Videos
 * [Chris Aniszczyk](https://www.twitter.com/cra)，云原生计算基金会首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师
 * [Ihor Dvoretskyi](https://twitter.com/idvoretskyi)，云原生计算基金会的开发倡导者
-* [Jessie Frazzelle](https://github.com/jessfraz)，Microsoft的云开发倡导者
+* [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
 * [Joe Beda](https://twitter.com/jbeda)，Heptio创始人兼首席技术官
 * [Joseph Jacks](https://twitter.com/asynchio)，昆腾公司驻地企业家
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)，Google的开发人员助理

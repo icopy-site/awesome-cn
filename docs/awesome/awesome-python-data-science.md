@@ -105,7 +105,7 @@
 * [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库.
 
 ## Visualization
-* [Matplotlib](https://github.com/matplotlib/matplotlib) - Plotting with Python.
+* [Matplotlib](https://github.com/matplotlib/matplotlib) -使用Python进行绘图.
 * [seaborn](https://github.com/mwaskom/seaborn) -使用matplotlib进行统计数据可视化.
 * [Bokeh](https://github.com/bokeh/bokeh) -用于Python的交互式Web绘图.
 * [HoloViews](https://github.com/ioam/holoviews) -停止绘制数据-注释数据并使其可视化.
@@ -188,6 +188,7 @@
 * [pyMorfologik](https://github.com/dmirecki/pyMorfologik) - <a href="https://github.com/morfologik/morfologik-stemming">形态学的</a> Python绑定.
 * [Phonemizer](https://github.com/bootphon/phonemizer) -多种语言的简单文本到音素转换器.
 * [flair](https://github.com/zalandoresearch/flair) -最新的NLP的非常简单的框架.
+* [spaCy](https://spacy.io/) -工业强度的自然语言处理.
 
 ## Computer Audition
 * [librosa](https://github.com/librosa/librosa) -用于音频和音乐分析的Python库.

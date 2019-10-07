@@ -12,7 +12,7 @@
 
 ## Packages
 
-### Demostrations
+### Demonstrations
 
 - [adlink_ddsbot](https://github.com/Adlink-ROS/adlink_ddsbot) -基于ROS 2.0 / 1.0的机器人群结构（opensplice DDS）. ![adlink_ddsbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_ddsbot.svg)
 - [adlink_neuronbot](https://github.com/Adlink-ROS/adlink_neuronbot) -ROS2 / DDS机器人pkg用于人类追踪和蜂群. ![adlink_neuronbot](https://img.shields.io/github/stars/Adlink-ROS/adlink_neuronbot.svg)
@@ -43,9 +43,14 @@
 - [rviz](https://github.com/ros2/rviz) -3D机器人可视化器. ![rviz](https://img.shields.io/github/stars/ros2/rviz.svg)
 - [urdfdom](https://github.com/ros2/urdfdom) -URDF（U机器人描述格式）库，提供核心数据结构和简单的XML解析器 ![urdfdom](https://img.shields.io/github/stars/ros2/urdfdom.svg)
 - [urdfdom_headers](https://github.com/ros2/urdfdom_headers) -URDF解析器的标头. ![urdfdom_headers](https://img.shields.io/github/stars/ros2/urdfdom_headers.svg)
-- [ros2cli](https://github.com/ros2/ros2cli) - ROS 2 command line tools. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
+- [ros2cli](https://github.com/ros2/ros2cli) -ROS 2命令行工具. ![ros2cli](https://img.shields.io/github/stars/ros2/ros2cli.svg)
 - [orocos_kinematics_dynamics](https://github.com/ros2/orocos_kinematics_dynamics) -Orocos运动学和动力学C ++库. ![orocos_kinematics_dynamics](https://img.shields.io/github/stars/ros2/orocos_kinematics_dynamics.svg)
 - [pydds](https://github.com/atolab/pydds) -用于Vortex Lite和OpenSplice的简单DDS Python API. ![pydds](https://img.shields.io/github/stars/atolab/pydds.svg)
+
+### Penetration testing
+
+- [aztarna](https://github.com/aliasrobotics/aztarna) -机器人的足迹工具.
+- [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) -ROS2主题和服务模糊器.
 
 ### Application layer
 
@@ -71,7 +76,7 @@
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) -用于AprilTag检测的ROS2节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) -将浏览器桥接到ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件来混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
-- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) -PyTorch中用于计算机视觉任务的ROS2节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) -ROS 2和micro ROS的系统模式.
@@ -86,7 +91,7 @@
 ### "System" bindings
 
 - [rclandroid](https://github.com/esteve/ros2_android/tree/master/rclandroid) -ROS2的Android API. ![rclandroid](https://img.shields.io/github/stars/esteve/ros2_android.svg)
-- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) - Node.js version of ROS2.0 client. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
+- [rclnodejs](https://github.com/RobotWebTools/rclnodejs) -ROS2.0客户端的Node.js版本. ![rclnodejs](https://img.shields.io/github/stars/RobotWebTools/rclnodejs.svg)
 - [riot-ros2](https://github.com/astralien3000/riot-ros2) -该项目使ROS2可以使用RIOT操作系统在微控制器上运行. ![riot-ros2](https://img.shields.io/github/stars/astralien3000/riot-ros2.svg)
 
 ### Driver layer
@@ -112,7 +117,7 @@
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) -在ROS2上使用Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) -用于MiniRys机器人的ROS2软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) -ROS2 / ROS软件包，用于与ROS通信PX4. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
-- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) -MultiWii和Cleanflight飞行控制器的ROS2节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
+- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) -ydlidar的ROS2包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) -ZED SDK的ROS 2包装测试版.
 - [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) -Toyota / Lexus 2015-2017 Denso Radar ROS2驱动程序.

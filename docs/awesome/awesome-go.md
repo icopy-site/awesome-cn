@@ -712,7 +712,7 @@
 * [stl](https://github.com/ssgreg/stl) -基于软件交易内存（STM）并发控制机制的软件交易锁.
 * [threadpool](https://github.com/shettyh/threadpool) -  Golang线程池的实现.
 * [tunny](https://github.com/Jeffail/tunny) - 够程池golang.
-* [worker-pool](https://github.com/vardius/worker-pool) -goworker是Go简单的异步工作程序池.
+* [worker-pool](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
 * [workerpool](https://github.com/gammazero/workerpool) -Goroutine池限制了任务执行的并发性，而不是排队的任务数.
 
 ## GUI
@@ -896,7 +896,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 
 * [bayesian](https://github.com/jbrukh/bayesian) - 贝叶斯分类为Golang天真.
 * [CloudForest](https://github.com/ryanbressler/CloudForest) -用于纯Go中机器学习的快速，灵活，多线程的决策树集合.
-* [eaopt](https://github.com/MaxHalford/eaopt) - An evolutionary optimization library.
+* [eaopt](https://github.com/MaxHalford/eaopt) -进化优化库.
 * [evoli](https://github.com/khezen/evoli) -遗传算法和粒子群优化库.
 * [fonet](https://github.com/Fontinalis/fonet) -用Go编写的深度神经网络库.
 * [go-cluster](https://github.com/e-XpertSolutions/go-cluster) -实施k模式和k原型聚类算法.
@@ -996,9 +996,10 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *用于依赖注入的库.*
 
 * [alice](https://github.com/magic003/alice) -Golang的附加依赖项注入容器.
+* [container](https://github.com/golobby/container) -功能强大的IoC容器，界面流畅且易于使用.
 * [dig](https://github.com/uber-go/dig) -Go的基于反射的依赖项注入工具包.
 * [fx](https://github.com/uber-go/fx) -用于Go的基于依赖项注入的应用程序框架（建立在dig之上）.
-* [gocontainer](https://github.com/vardius/gocontainer) -简单的依赖注入容器.
+* [gocontainer](https://github.com/vardius/gocontainer) - Simple Dependency Injection Container.
 * [inject](https://github.com/defval/inject) -具有简单接口的基于反射的依赖项注入容器.
 * [linker](https://github.com/logrange/linker) -基于反射的依赖项注入和具有组件生命周期支持的控制库反转.
 * [wire](https://github.com/Fs02/wire) - 严格的运行依赖注入Golang.
@@ -1022,7 +1023,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 *将这些库放在这里是因为其他类别似乎都不适合.
 
 * [anagent](https://github.com/mudler/anagent) -带有依赖项注入的简约，可插入Golang evloop / timer处理程序.
-* [antch](https://github.com/antchfx/antch) - A fast, powerful and extensible web crawling & scraping framework.
+* [antch](https://github.com/antchfx/antch) -快速，强大且可扩展的Web爬网和抓取框架.
 * [archiver](https://github.com/mholt/archiver) -用于制作和提取.zip和.tar.gz档案的库和命令.
 * [autoflags](https://github.com/artyom/autoflags) -Go软件包可从结构字段自动定义命令行标志.
 * [avgRating](https://github.com/kirillDanshin/avgRating) -根据Wilson得分方程计算平均得分和等级.
@@ -1187,7 +1188,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [glfw](https://github.com/go-gl/glfw) -为GLFW 3进行绑定.
 * [goxjs/gl](https://github.com/goxjs/gl) -跨平台的OpenGL绑定（OS X，Linux，Windows，浏览器，iOS，Android）.
 * [goxjs/glfw](https://github.com/goxjs/glfw) -使用跨平台的glfw库来创建OpenGL上下文并接收事件.
-* [mathgl](https://github.com/go-gl/mathgl) -受GLM启发，专门用于3D数学的Pure Go数学软件包.
+* [mathgl](https://github.com/go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
 
 ## ORM
 
@@ -1318,7 +1319,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [goSecretBoxPassword](https://github.com/dwin/goSecretBoxPassword) -可能是偏执狂的软件包，用于安全地哈希和加密密码.
 * [Interpol](https://bitbucket.org/vahidi/interpol) -基于规则的数据生成器，用于模糊测试和渗透测试.
 * [jwc](https://github.com/khezen/jwc) -JSON Web密码库.
-* [lego](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
+* [lego](https://github.com/xenolf/lego) -Pure Go ACME客户端库和CLI工具（与Let&#39;s Encrypt一起使用）.
 * [memguard](https://github.com/awnumar/memguard) -用于处理内存中敏感值的纯Go库.
 * [nacl](https://github.com/kevinburke/nacl) -实施NaCL API集.
 * [passlib](https://github.com/hlandau/passlib) -永不过时的密码哈希库.
@@ -1351,7 +1352,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 ## Server Applications
 
 * [algernon](https://github.com/xyproto/algernon) -HTTP / 2 Web服务器，内置对Lua，Markdown，GCSS和Amber的支持.
-* [Caddy](https://github.com/mholt/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
+* [Caddy](https://github.com/mholt/caddy) -Caddy是一种易于配置和使用的备用HTTP / 2 Web服务器.
 * [consul](https://www.consul.io/) -Consul是用于服务发现，监视和配置的工具.
 * [devd](https://github.com/cortesi/devd) -开发人员的本地网络服务器.
 * [discovery](https://github.com/Bilibili/discovery) -一个用于中层弹性负载平衡和故障转移的注册表.
@@ -1459,7 +1460,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [hoverfly](https://github.com/SpectoLabs/hoverfly) -HTTP（S）代理，用于使用可扩展的中间件和易于使用的CLI记录和模拟REST / SOAP API.
     * [httpmock](https://github.com/jarcoal/httpmock) -轻松模拟来自外部资源的HTTP响应.
     * [minimock](https://github.com/gojuno/minimock) -Go接口的模拟生成器.
-    * [mockhttp](https://github.com/tv42/mockhttp) -Go http.ResponseWriter的模拟对象.
+    * [mockhttp](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
 
 *起毛和增量调试/减少/缩小.
     * [go-fuzz](https://github.com/dvyukov/go-fuzz) -随机测试系统.
@@ -1622,9 +1623,9 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [backscanner](https://github.com/icza/backscanner) -类似于bufio.Scanner的扫描仪，但是它以相反的顺序读取和返回行，从给定位置开始并向后移动.
 * [blank](https://github.com/Henry-Sarabia/blank) -验证或删除字符串中的空格和空格.
 * [boilr](https://github.com/tmrts/boilr) -快速，快速的CLI工具，用于从样板模板创建项目.
-* [chyle](https://github.com/antham/chyle) -使用git存储库的Changelog生成器具有多种配置可能性.
+* [chyle](https://github.com/antham/chyle) - Changelog generator using a git repository with multiple configuration possibilities.
 * [circuit](https://github.com/cep21/circuit) -断路器模式的高效且功能完整的Hystrix like Go实现.
-* [circuitbreaker](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.
+* [circuitbreaker](https://github.com/rubyist/circuitbreaker) -Go中的断路器.
 * [clockwork](https://github.com/jonboulle/clockwork) -用于golang的简单假时钟.
 * [command](https://github.com/txgruppi/command) -具有线程安全串行和并行调度程序的Go的命令模式.
 * [copy-pasta](https://github.com/jutkko/copy-pasta) -使用后端等S3进行存储的通用多工作站剪贴板.

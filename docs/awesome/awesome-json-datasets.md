@@ -106,6 +106,13 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [Food and Drinks](http://open.datapunt.amsterdam.nl/EtenDrinken.json)
   * [Museums and Galleries](http://open.datapunt.amsterdam.nl/MuseaGalleries.json)
 
+*西班牙
+  * [Province of Madrid Municipalities](https://datos.comunidad.madrid/catalogo/dataset/032474a0-bf11-4465-bb92-392052962866/resource/301aed82-339b-4005-ab20-06db41ee7017/download/municipio_comunidad_madrid.json)
+  * [Province of Barcelona Municipalities](https://do.diba.cat/api/dataset/municipis/format/json2)
+  * [Province of Madrid Educational Centers (non-university)](https://datos.comunidad.madrid/catalogo/dataset/ae433b7e-98f7-4547-8aa5-6ada557a429f/resource/21424b1c-6465-4db9-a5e3-6ddf180c634b/download/centros_educativos.json)
+
+&gt;专家提示： [https://datos.gob.es/](https://datos.gob.es/catalogo?res_format_label=JSON)  您可以过滤各种西班牙公开数据.  从大学到地方和地区政府机构.
+
 ## Historical Events
 *语言
   * [English](http://www.vizgr.org/historical-events/search.php?format=json&begin_date=-3000000&end_date=20151231&lang=en)
@@ -180,7 +187,7 @@ _赞助商链接：_ [Front End Developer Jobs](https://www.bootstrapcdn.com/job
   * [India](http://api.population.io/1.0/population/India/today-and-tomorrow/?format=json)
   * [United States](http://api.population.io/1.0/population/United%20States/today-and-tomorrow/?format=json)
 
-&gt;专业提示： [List of all Countries](http://api.population.io/1.0/countries) 追踪
+&gt;专业提示： [List of all Countries](http://api.population.io/1.0/countries) 已追踪
 
 *美国人口表（0-100岁）
     * [1950](http://api.population.io/1.0/population/1950/United%20States/?format=json)
