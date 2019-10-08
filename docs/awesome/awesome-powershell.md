@@ -20,7 +20,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PSGist](https://github.com/dotps1/PSGist) -与GitHub Gists一起使用的PowerShell模块.
 * [PSAppVeyor](https://github.com/dotps1/PSAppVeyor) -与AppVeyor REST Api进行交互的PowerShell模块.
 * [PSSlack](https://github.com/RamblingCookieMonster/PSSlack) -用于简单Slack集成的PowerShell模块.
-* [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) -用于在Powershell中与Atlassian的Confluence交互的模块（通过使用API​​）.
+* [ConfluencePS](https://atlassianps.org/module/ConfluencePS/) -用于在Powershell中与Atlassian的Confluence进行交互的模块（通过使用API​​）.
 * [JiraPS](https://atlassianps.org/module/JiraPS/) -在Powershell中与Atlassian的Jira进行交互的模块（通过使用API​​）.
 * [PSTelegramAPI](https://github.com/mkellerman/PSTelegramAPI) -用于电报API的PowerShell模块
 
@@ -74,7 +74,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [thefuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令（通过输入“ fuck”）.
 * [pslinq](https://github.com/manojlds/pslinq) -用于Powershell的LINQ（LINQ2Objects）.
 * [posh-with](https://github.com/JanJoris/posh-with) -使用单个工具进行连续工作流的命令前缀.
-* [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实现.  交互式过滤工具.
+* [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7)* [peco](https://github.com/peco/peco)  实施.  交互式过滤工具.
 * [PSDirTag](https://github.com/wtjones/PSDirTag)  -DirTag是相对路径，在Powershell提示中显示为变量，并在导航时更新.  浏览文件夹结构时，保存击键.
 * [PSUtil](https://github.com/PowershellFrameworkCollective/PSUtil)  -旨在使用户的控制台生活更加方便.  它包括快捷键，别名，键绑定和便捷功能，旨在提高效率和减少打字.
 
@@ -141,6 +141,7 @@ PowerShell是跨平台（Windows，Linux和macOS）自动化和配置工具，�
 * [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) -后开发代理.
 * [PSReflect](https://github.com/mattifestation/PSReflect)  -在PowerShell中轻松定义内存中的枚举，结构和Win32函数.  对攻击有用， [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 * [BloodHound](https://github.com/BloodHoundAD/BloodHound) -轻松识别高度复杂的攻击路径，否则将无法快速识别.
+* [Nishang](https://github.com/samratashok/nishang) -为红队，渗透测试和进攻安全启用脚本.
 
 ## Testing
 

@@ -80,7 +80,7 @@
 * [Boostnote](https://boostnote.io/)  -为程序员制作的笔记应用程序.  [！[开源软件] [OSS图标]]（https://github.com/BoostIO/Boostnote）
 * [Evernote](https://evernote.com/)  -臭名昭著的笔记应用程序，可在许多平台上使用.  ！[免费软件] [免费软件图标]
 * [FSNotes](https://fsnot.es/)  -File System Notes是现代的Notes管理器，原生于macOS和iOS.  [！[开源软件] [OSS图标]]（https://github.com/glushchenko/fsnotes）[！[App Store] [app-store图标]]（https://apps.apple.com/ gb / app / fsnotes / id1277179284？mt = 12）
-* [Inkdrop](https://www.inkdrop.info/) -面向Markdown爱好者的笔记本应用程序，基于Electron构建.
+* [Inkdrop](https://www.inkdrop.info/) -面向Markdown爱好者的笔记本应用程序，建立在Electron之上.
 * [Joplin](https://joplin.cozic.net/)  -具有降价支持的跨平台开源记事本和具有同步功能的待办事项列表管理器.  [！[开源软件] [OSS图标]]（https://github.com/laurent22/joplin）！[免费软件] [免费软件图标]
 * [MarginNote](https://marginnote.com/) -深入的PDF和EPUB阅读，学习，管理和笔记应用程序.
 * [Notable](https://github.com/notable/notable) -不减价的基于markdown的笔记应用程序.
@@ -288,7 +288,7 @@
 * [GitFinder](https://gitfinder.com/)  -具有Finder集成的Mac版快速轻量级Git客户端.  ！[免费软件] [免费软件图标]
 * [GitHub Desktop](https://desktop.github.com/)  -官方GitHub GUI.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）
 * [GitKraken](https://www.gitkraken.com/) -适用于Windows，Mac和Linux的最受欢迎的Git GUI.
-* [GitX-dev](https://rowanj.github.io/gitx/) -前叉 [Pieter's](https://github.com/pieter/gitx)  OS X的不错的git GUI.包括分支/标签边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
+* [GitX-dev](https://rowanj.github.io/gitx/) -的叉子 [Pieter's](https://github.com/pieter/gitx)  OS X的不错的git GUI.包括分支/标签边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 * [Hub](https://hub.github.com/)  -Git的命令行包装，使您在GitHub上更好.  [！[开源软件] [OSS图标]]（https://github.com/github/hub）！[免费软件] [免费软件图标]
 * [OhMyStar](https://ohmystarapp.com/)  管理，探索和共享您的Github星的美丽而有效的方式.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
 * [SmartGit](http://www.syntevo.com/smartgit/) -Git客户支持.
@@ -303,13 +303,13 @@
 * [Docker](https://www.docker.com/) - Powerful, performs operating-system-level virtualization. [![Open-Source Software][OSS Icon]](https://github.com/github/hub) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/veggiemonk/awesome-docker#readme)
 * [Parallels](http://www.parallels.com/)  -功能强大，易于使用的VM.  每个新的Mac OS没有免费升级.
 * [Vagrant](https://www.vagrantup.com) - Tool for building and distributing development environments. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant) ![Freeware][Freeware Icon] [![Awesome List][awesome-list Icon]](https://github.com/iJackUA/awesome-vagrant#readme)
-* [Veertu](https://veertu.com)  -Mac上最轻的VM.  在Mac上运行VM的响应式，沙盒式和本地方式.  ！[免费软件] [免费软件图标]
+* [Veertu](https://veertu.com)  -Mac上最轻的VM.  在Mac上运行VM的响应式，沙盒式和本机方式.  ！[免费软件] [免费软件图标]
 * [Virtual Box](http://www.virtualbox.org)  -强大的x86和AMD64 / Intel64虚拟化产品.  ！[免费软件] [免费软件图标]
 * [VMWare Fusion](http://www.vmware.com/) -由VMware开发的功能强大的商业VM.
 
 #### Databases
 
-* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) -跨平台的数据库工具，可在Microsoft家庭内部部署和云数据平台（例如MSSQL Server）上使用！[免费软件] [免费软件图标]
+* [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/) -跨平台的数据库工具，可在Microsoft系列内部部署和MSSQL Server等云数据平台上使用！[免费软件] [免费软件图标]
 * [Base 2](http://menial.co.uk/base/) -用于创建，设计，编辑和浏览SQLite 3数据库文件的应用程序.
 * [Bdash](https://github.com/bdash-app/bdash) -现代SQL客户端应用程序，支持MySQL，PostgreSQL（Redshift）和BigQuery.[！[开源软件] [OSS图标]]（https://github.com/bdash-app/bdash）！[免费软件] [免费软件图标]
 * [Chrome MySQL Admin](https://www.eisbahn.jp/chrome_mysql_admin)  -强大的Chrome应用程序可管理您的MySQL.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/yoichiro/chrome_mysql_admin）
@@ -363,6 +363,7 @@
 * [Krita](https://krita.org/en/) - Open-source digital painting software for concept artists, digital painters, and illustrators. [![Open-Source Software][OSS Icon]](https://github.com/KDE/krita) ![Freeware][Freeware Icon]
 * [macSVG](https://macsvg.org/)  -设计HTML5 SVG艺术和动画.  [！[开源软件] [OSS图标]]（https://github.com/dsward2/macSVG）！[免费软件] [免费软件图标]
 * [MagicaVoxel](https://ephtracy.github.io/) -免费的轻量级8位体素编辑器和交互式路径跟踪渲染器.
+* [MakeHuman](http://www.makehumancommunity.org) - Powerful and free 3D human modeler. ![Freeware][Freeware Icon]
 * [Monodraw](http://monodraw.helftone.com)  -专为Mac设计的强大ASCII艺术编辑器.  [！[App Store] [app-store Icon]]（https://itunes.apple.com/app/monodraw/id920404675）
 * [MyPaint](http://mypaint.org/) -简单的绘图程序，可与Wacom样式的图形输入板配合使用.[！[开源软件] [OSS图标]]（https://github.com/mypaint）！[免费] [免费软件]
 * [Nik Collection](https://nikcollection.dxo.com/) -DxO的Nik Collection.
@@ -401,7 +402,7 @@
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle) -Mac，iPhone和iPad的图表和图形设计.
 * [Origami Studio](http://origami.design/) -由Facebook的设计师构建和使用的现代界面设计工具.
 * [pencil](http://pencil.evolus.vn/)  -用于制作图表和GUI原型的免费开源工具.  [！[开源软件] [OSS图标]]（https://github.com/evolus/pencil）！[免费软件] [免费软件图标]
-* [ProtoPie](https://www.protopie.io/) - Create the most advanced prototypes as easy as Pie.
+* [ProtoPie](https://www.protopie.io/) -创建与Pie一样简单的最先进的原型.
 * [Scapple](http://www.literatureandlatte.com/scapple.php) -实用的思维导图软件，具有免费的类似白板的布局.
 * [SimpleMind](https://simplemind.eu/) -跨平台思维导图工具的全球领导者.
 * [WriteMapper](https://writemapper.com/) -立即从构思到最终草案.
@@ -566,7 +567,7 @@
 
 *我建议对Mac客户端使用在线存储*
 
-* [Arq](https://www.arqbackup.com/) - Cloud storage backup client that supports AWS, GCP, DropBox, and more.
+* [Arq](https://www.arqbackup.com/) -支持AWS，GCP，DropBox等的云存储备份客户端.
 * [Carbonite](https://www.carbonite.com/learn/how-to-backup-mac/) -Carbonite可以保护Mac免受所有最常见的数据丢失形式的侵害.
 * [Dropbox](https://www.dropbox.com/)  -文件托管服务，提供云存储和具有协作编辑功能的文件同步.  ！[免费软件] [免费软件图标]
 * [Mega](https://mega.nz)  -免费的云服务，提供50GB的免费存储空间.  ！[免费软件] [免费软件图标]
@@ -662,7 +663,7 @@
 #### File Organization Tools
 
 * [BetterZip 3](https://macitbetter.com/)  -存档工具支持ZIP，TAR，TGZ，TBZ，TXZ（新），7-ZIP，RAR.  ！[免费软件] [免费软件图标]
-* [eZip](http://ezip.awehunt.com)  -一个易于使用，功能丰富的macOS存档器.  支持流行的格式，例如RAR，ZIP，7Z，BZ2，GZ等.与Mojave暗模式和QuickLook搭配使用非常出色.  ！[免费软件] [免费软件图标]
+* [eZip](http://ezip.awehunt.com)  -一个易于使用，功能丰富的macOS存档器.  支持流行的格式，例如RAR，ZIP，7Z，BZ2，GZ等.适用于Mojave暗模式和QuickLook.  ！[免费软件] [免费软件图标]
 * [Hazel](https://www.noodlesoft.com)  -Mac的自动文件组织.  负责任和精美的设计.
 * [Keka](https://www.keka.io)  -macOS的文件存档器.  压缩：7Z，ZIP，TAR，GZIP，BZIP2，XZ LZIP，DMG，ISO.  提取：7Z，ZIP，RAR，TAR，GZIP，BZIP2，XZ，LZIP，DMG，ISO，LZMA，EXE，CAB，WIM，PAX，JAR，APK，APPX，CPGZ，CPIO.  [！[开源软件] [OSS图标]]（https://github.com/aonez/Keka）！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https： //itunes.apple.com/app/keka/id470158793）
 * [muCommander](http://www.mucommander.com)  -具有双窗格界面的轻量级文件管理器.  [！[开源软件] [OSS图标]]（https://github.com/mucommander/mucommander）！[免费软件] [免费软件图标]
@@ -761,7 +762,7 @@
 
 #### Quality of Life Improvements
 
-* [CheatSheet](https://www.mediaatelier.com/CheatSheet/)  -按住⌘键可获取当前应用程序所有活动快捷键的列表.  就这么简单.  ！[免费软件] [免费软件图标]
+* [CheatSheet](https://www.mediaatelier.com/CheatSheet/) -  Hold the ⌘-Key to get a list of all active shortcuts of the current application. It's as simple as that. ![Freeware][Freeware Icon]
 * [f.lux](https://justgetflux.com/)  -使计算机显示器的颜色适应一天中的时间.  ！[免费软件] [免费软件图标]
 * [KeyCastr](https://github.com/keycastr/keycastr)  -开源按键可视化工具.  [！[开源软件] [OSS图标]]（https://github.com/keycastr/keycastr）！[免费软件] [免费软件图标]
 * [NightOwl](https://nightowl.kramser.xyz/)  -通过一天中的时间或菜单栏或键盘快捷键自动在macOS Mojave的浅色和深色主题之间切换.  ！[免费软件] [免费软件图标]

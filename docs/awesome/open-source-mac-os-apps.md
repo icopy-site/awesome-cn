@@ -83,7 +83,7 @@
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac)  -适用于macOS和iOS的安全考试浏览器.  ！[c_icon] 
 
 ### Chat
-- [Android Messenger Mac](https://github.com/jake-101/android-messenger-mac)  -围绕Google独立的Android Messenger的Mac应用程序包装.  ！[javascript_icon] 
+- [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac)  -围绕Google独立的Android Messenger的Mac应用程序包装.  ！[javascript_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat)  -WhatsApp Web的本机Mac应用程序包装.  ！[objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat)  -在macOS和Linux上更好的微信.  ！[javascript_icon] 
 - [Franz](https://github.com/meetfranz/franz)  -Franz是用于WhatsApp，Slack，Messenger等服务的消息传递应用程序.  ！[javascript_icon] 
@@ -122,6 +122,7 @@
 #### Git
 - [Cashew](https://github.com/jensteichert/OpenCashew)  -腰果macOS Github问题跟踪器.  ！[objective_c_icon]！[c_icon] 
 - [GPM](https://github.com/mtgto/GPM) - macOS application for easily operating GitHub Projects.  ![swift_icon] 
+- [Git Interactive Rebase Tool](https://github.com/MitMaro/git-interactive-rebase-tool)  -基于全功能终端的序列编辑器，用于交互式变基.  ！[rust_icon] 
 - [GitHub Desktop](https://github.com/desktop/desktop)  -从您的桌面进行简单的协作.  ！[type_script_icon] 
 - [GitSync](https://github.com/eonist/GitSync)  -适用于Mac的Minimalistic Git客户端.  ！[swift_icon] 
 - [GitUp](https://github.com/git-up/GitUp)  -终生难忘的Git界面终于到来了.  ！[objective_c_icon] 
@@ -138,7 +139,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象导出为模型类及其相关的构造函数，实用程序方法，setter和getter.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -165,7 +166,7 @@
 #### iOS / macOS
 - [AVXCAssets Generator](https://github.com/angelvasa/AVXCAssets-Generator)  -只需单击一下即可找到资产图像的路径，并为您创建appiconset和imagesset.  ！[swift_icon] 
 - [Alloy](https://github.com/alexlee002/alloy)  -简单的工具包，使您的iOS / macOS应用开发更加容易.  ！[objective_c_icon] 
-- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)  -iOS开发人员的工具，可通过您的Dropbox帐户直接将开发，临时和内部（企业）应用程序构建和部署到设备.  ！[objective_c_icon] 
+- [AppBox](https://github.com/vineetchoudhary/AppBox-iOSAppsWirelessInstallation)  -iOS开发人员从您的Dropbox帐户直接将开发，临时和内部（企业）应用程序构建和部署到设备的工具.  ！[objective_c_icon] 
 - [AppIcons](https://github.com/kuyawa/AppIcons)  -用于生成macOS和iOS应用所需的各种尺寸图标的工具.  ！[swift_icon] 
 - [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes)  -提供有关平均iOS / macOS应用商店评论时间的指示.  ！[swift_icon] 
 - [AppleTrace](https://github.com/everettjf/AppleTrace)  -适用于iOS / macOS的跟踪工具.  ！[objective_c_icon] 
@@ -179,7 +180,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标.[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -196,7 +197,7 @@
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  -iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  -适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  -适用于macOS的非官方WWDC应用程序.  ！[swift_icon] 
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式下载自2013年以来的每个WWDC会话视频的字幕.  ！[swift_icon] 
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式自2013年以来为每个WWDC会话视频下载字幕.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)  -iOS Calabash Launcher是一个macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)  -iOS Images Extractor是一个Mac应用程序，用于从iOS应用程序标准化，解码和提取图像.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)  -iSimulator是一个GUI实用程序，用于控制模拟器并管理模拟器上安装的应用.  ！[objective_c_icon] 
@@ -279,7 +280,7 @@
 ### Images
 - [APNGb](https://github.com/shgodoroja/APNGb)  -组装和拆卸动画png文件的macOS应用.  ！[swift_icon] 
 - [Crunch](https://github.com/chrissimpkins/Crunch)  -疯狂（速度缓慢，但效果不错）PNG图像优化.  ！[python_icon] 
-- [Freehand](https://github.com/wddwycc/Freehand)  -macOS状态栏应用程序，可快速绘制草图.  ！[swift_icon] 
+- [Freehand](https://github.com/wddwycc/Freehand) - macOS Status Bar App for quick sketch.  ![swift_icon] 
 - [Gimp](https://github.com/GNOME/gimp)  -Gimp是GNU图像处理程序.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)  -编辑图标，然后导出到Xcode，ICn，Ico，Favicon，Mac Iconset或自定义尺寸列表.  ！[swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha)  -Mac OS的pngquant，pngnq和posterizer.  ！[objective_c_icon]！[python_icon] 
@@ -449,7 +450,7 @@
 - [Leviathan](https://github.com/Swiftodon/Leviathan)  -Leviathan是Mastodon社交网络的iOS和macOS客户端应用程序.  ！[swift_icon] 
 - [Messenger](https://github.com/rsms/fb-mac-messenger)  -MacOS应用程序将Facebook的Messenger封装在桌面上.  ！[objective_c_icon] 
 - [Product Hunt](https://github.com/producthunt/producthunt-osx)  -适用于macO的官方产品搜索应用）-共享和发现您喜欢的新产品和应用.  ！[swift_icon] 
-- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io)  应用程序.  ！[javascript_icon] 
+- [Quail](https://github.com/1000ch/quail) - Unofficial [esa](https://esa.io)  应用程式.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)  -非官方的Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo)  -macOS菜单栏应用程序可快速发布状态.  ！[ruby_icon] 
 - [appear.in](https://github.com/vitorgalvao/appear.in)  -非官方的出现在应用程序中.  ！[javascript_icon] 
@@ -507,7 +508,7 @@
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)  -使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
 - [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需您记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
-- [ECheck](https://github.com/josejuanqm/ECheck) - Small tool to validate epub files for macOS.  ![swift_icon] 
+- [ECheck](https://github.com/josejuanqm/ECheck)  -验证macOS的epub文件的小工具.  ！[swift_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)  -在Mac上轻松按每个应用切换功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择！[swift_icon] 
 - [Kap](https://github.com/wulkano/kap)  -使用网络技术构建的屏幕录像机应用程序.  ！[javascript_icon] 

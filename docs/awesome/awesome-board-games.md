@@ -54,7 +54,7 @@
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
-&gt;所有玩家都从盟友探索充满危险，陷阱，物品和预兆的鬼屋开始.\
+&gt;所有玩家开始时都是盟友探索充满危险，陷阱，物品和预兆的鬼屋.\
 &gt;当玩家前往豪宅的新部分时，会随机选择房间瓷砖并将其放置在游戏板上.\
 &gt;最终，“困扰”开始了，一个玩家通常“背叛”其他玩家，并站在鬼魂，怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
@@ -202,7 +202,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族以及《 A Clash》的扩展国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -242,7 +242,7 @@
 
 ### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
 
- &gt;在《发条大战》中，每个玩家都会在一个幻想的朋克世界中进行的紧张战争游戏中指挥独特的生物竞赛.  掌控那些精打细算的纯种，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  您的目标是打败敌人，并通过九个回合来累积最多的胜利点.  通过争夺对包含宝贵自然资源的领土的控制权，您可以获得积分.  为了赢得这些战斗，您需要通过占领村庄并将其发展为城市而获得人力.  投资研究并发现惊人的新技术，部署部队，研究强大的发现，运用间谍活动，并征服您的敌人以赢得比赛！
+ &gt;在《发条大战》中，每个玩家都会在一个幻想的朋克世界中进行的紧张战争游戏中指挥独特的生物竞赛.  掌控计画的纯种犬，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  您的目标是打败敌人，并通过九个回合来累积最多的胜利点.  通过争夺对包含宝贵自然资源的领土的控制权，您可以获得积分.  为了赢得这些战斗，您需要通过占领村庄并将其发展为城市而获得人力.  投资研究并发现惊人的新技术，部署部队，研究强大的发现，运用间谍活动，并征服您的敌人以赢得比赛！
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
@@ -252,7 +252,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.方式.
+ &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消除方式.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -342,8 +342,8 @@
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
- &gt;暗影猎手是一个生存的棋盘游戏，设置在充满魔鬼的森林中，其中有三组角色-暗影，即夜间生物；  猎人，试图消灭超自然生物的人类；  和中立国，平民在这场古老的战斗中陷入困境，为了生存而相互斗争.
- &gt;您属于这些团体之一，并且由于不知道可以信任的人，所以必须对其他人隐瞒自己的身份，至少在最初不是这样.  但是，随着时间的流逝，有人可能会通过您的行为或隐士卡来破译您的身份，或者您甚至可能会展示自己以使用自己的特殊能力.
+ &gt;暗影猎手是一款生存的棋盘游戏，设置在充满魔鬼的森林中，其中有三类角色-暗影，即夜间生物；  猎人，试图消灭超自然生物的人类；  和中立国，平民在这场古老的战斗中陷入困境，为了生存而相互斗争.
+ &gt;您属于这些团体之一，并且由于不知道可以信任的人，所以必须对其他人隐瞒自己的身份，至少在最初不是这样.  但是，随着时间的流逝，有人可能会通过您的行为或隐士卡来破译您的身份，或者您甚至可能会露出自己来使用自己的特殊能力.
 
 ![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
 
@@ -351,11 +351,21 @@
 | ------: | -------: | -----: |
  |  4-8 |  13 |  45m |
 
+### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
+
+&gt;波斯战争是一款由纸牌驱动的战争游戏，描述了从494年到466年的希腊波斯冲突.印度尼西亚黄蜂，Miltiades和Themistrocles以及Spatans，Leonadas和Pausanias.（http://en.wikipedia.org/wiki/Athens).(Xantshippus）.（Miltides and Thehemsolecles）斯帕坦人（S巴达斯人）.列奥尼达什人（Leenidas）和帕桑（PousaniaS）人）.（《圣公会报》）.（2）（4）.d.（1）.（2，5）.（4.）.d1..1..d3.（1.）.（1.）....1（2）.（2.）雅典.（无..）...（2.）（1）（1，2）..．（1）（2，4）..．（2）（1，2）..．（3）（6）（6）.（.（3）（1.）（1）是雅典人（是一词之一））是（Antonians）是Xanthip Pus（尼普提亚普斯（miltiadiss或Miltheade））
+
+![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2-4 |  12 |  60-90m |
+
 ## Party
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
 
- &gt;在“丛林速度”中，您必须依靠敏锐的观察力和快速反应.  它需要稳定的手-在许多狂躁的笑声中很难保持！  木制的图腾坐在桌子中间，等待反射最快的玩家抢走它并赢得比赛.  每个玩家都被发牌.  为了获胜，您必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都显示一张牌.  如果两张牌相同，则这些玩家必须抢夺图腾.  然后，速度更快的玩家将其牌交给不幸的对手.
+ &gt;在“丛林速度”中，您必须依靠敏锐的观察力和快速反应.  它需要稳定的手-在许多狂躁的笑声中很难保持！  木制的图腾坐在桌子中间，等待反射最快的玩家抢走并赢得比赛.  每个玩家都被发牌.  为了获胜，您必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都显示一张牌.  如果两张牌相同，则这些玩家必须抢夺图腾.  然后，速度更快的玩家将其牌交给不幸的对手.
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
@@ -495,7 +505,7 @@
 
 ### [Twilight Imperium 4th Edition](https://boardgamegeek.com/boardgame/233078/twilight-imperium-fourth-edition)
 
- &gt;暮光帝国（第四版）是一场银河征服游戏，其中三到六名玩家扮演17个派系之一的角色，这些派系通过军事力量，政治策略和经济谈判争夺银河统治权.  每个派系都提供完全不同的游戏体验，从蠕虫般的克劳斯鬼魂到贸易和经济学大师哈康酋长国，一应俱全.  这十七场比赛为胜利提供了许多途径，但只有梅卡托尔·雷克斯（Mecatol Rex）的宝座可以成为新的银河系大师.
+ &gt;暮光帝国（第四版）是一场银河征服游戏，其中三到六名玩家扮演17个派系之一的角色，这些派系通过军事力量，政治操纵和经济谈判争夺银河统治权.  每个派系都提供完全不同的游戏体验，从蠕虫般的克劳斯鬼魂到贸易和经济学大师哈康酋长国，一应俱全.  这十七场比赛为胜利提供了许多途径，但只有梅卡托尔·雷克斯（Mecatol Rex）的宝座可以成为新的银河系大师.
 
 ![Twilight Imperium 4th Edition Image](https://cf.geekdo-images.com/itemrep/img/UxsyZBpFiBNPOppOQ7ILJde_YhY=/fit-in/246x300/pic3727516.jpg)
 
@@ -506,7 +516,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是对的.因此，哭了几个小时后，自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争以有趣的打孔完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -556,7 +566,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后与对手相比，击败更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 

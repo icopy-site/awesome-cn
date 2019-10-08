@@ -6,7 +6,7 @@
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)  利用纠缠和叠加等量子力学现象来操纵量子位以在量子计算机上执行计算.  当前可用的工具是在公共可用的量子计算机上创建和运行程序的工具，以及用于了解它们的资源. 
 
- 这是精选的有关量子计算机学习和开发的最新资源清单.  目标是建立一个由社区驱动的最新优质资源的分类集合. 
+ 这是精选的有关量子计算机学习和开发的最新资源清单.  目标是建立一个由社区驱动的最新高品质资源分类集合. 
 
  随时欢迎分享，建议和贡献！  请先查看贡献准则和质量标准.  感谢所有贡献者，您真棒，没有您，这将是不可能的！
 
@@ -32,7 +32,7 @@
 - [Quantum in the Cloud](http://cnotmz.appspot.com/#) -四个量子位光子量子模拟器和计算机.
 - [Quantum Katas](https://github.com/Microsoft/QuantumKatas/) - Programming exercises for learning quantum computing and Q#.
 - [Quantum Machine Learning for Data Scientists](https://arxiv.org/pdf/1804.10068.pdf) -解释量子机器学习算法.
-- [Quirk](http://algassert.com/quirk) - Browser-based drag-and-drop quantum circuit simulator that reacts, simulates, and animates in real-time.
+- [Quirk](http://algassert.com/quirk) -基于浏览器的拖放式量子电路模拟器，可实时进行反应，模拟和动画处理.
 - [The Quantum Quest](https://www.quantum-quest.nl/) -为高中生设计的有关量子计算原理的入门网络课程. 
 
 ## MOOCs
@@ -41,9 +41,10 @@
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) -量子密码学入门课程以及如何运行量子程序.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) -了解量子通信如何提供自然法则所保证的安全性.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) -量子信息和计算基础课程.
-- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) -了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) -了解量子技术可以为机器学习带来的好处.
 - [Quantum Mechanics and Quantum Computation](https://www.edx.org/course/quantum-mechanics-quantum-computation-uc-berkeleyx-cs-191x) -量子力学基本原理的概念介绍.
+- [The Introduction To Quantum Computing](https://www.coursera.org/learn/quantum-computing-algorithms) -对计算的微妙介绍，其背后的数学及其量子对应物，然后深入讨论了一些量子算法.
+- [The Quantum Internet and Quantum Computers: How Will They Change the World?](https://www.edx.org/course/quantum-internet-quantum-computers-how-delftx-qtm1x) -了解量子计算机和量子互联网发展背后的原理和承诺，以及它们将如何影响我们的未来.
 - [Understanding Quantum Computers](https://www.futurelearn.com/courses/intro-to-quantum-computing) -介绍使用最少数学的量子计算的关键概念.
 
 ## Development Tools
@@ -68,7 +69,7 @@
 ## Blogs
 
 - [Qiskit blog](https://medium.com/qiskit) -有关Qiskit社区团队的量子计算的一切
-- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google Quantum Computing Team的成员.
+- [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.

@@ -12,10 +12,12 @@
 ## About
 精选Android精选清单 [libraries](#libraries) 和 [resources](#resources) .  对于一般的Java库，请看 [awesome-java](https://github.com/akullpp/awesome-java).
 
-## Supported with ❤️ by [Instabug](https://goo.gl/ykpN6D)
-[![android](https://user-images.githubusercontent.com/9888943/35685005-23aa115a-0771-11e8-9ca7-82f41daeeafd.gif)](https://goo.gl/9UVi6P)
- &gt; Instabug SDK使Android开发人员可以直接从应用程序内部接收来自用户和测试人员的详细错误报告.  它在每个错误报告中都附有屏幕截图，屏幕录像，网络请求以及重现步骤.  这样可以最大程度地减少调试时间，并帮助开发人员跟踪奇怪的错误. [Learn more.](https://goo.gl/wGJngN)🚀
- [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
+### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
+[![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
+ &gt; Instabug可帮助Android开发人员和产品团队轻松地收集来自Beta测试人员和用户的错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕截图，设备详细信息，网络日志，再现步骤以及解决问题和确定产品积压需求所需的大量其他关键见解. 
+&gt;移动团队通过与Github，Jira，Slack，Zendesk等第三方工具无缝集成来加速其工作流程. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
+[![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
+
 
 ## How to Use
 对于需要在应用程序上使用某些功能的人，Awesome-Android是一个了不起的清单，因此最好的使用方法是：
@@ -55,7 +57,7 @@
 
 - [Dagger 2](https://github.com/google/dagger) -适用于Android和Java的快速依赖关系注入器.
 - [Butter Knife](http://jakewharton.github.io/butterknife/) -查看适用于Android的“注入”库.
-- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
+- [ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) -Android库，提供了使用多个参数启动活动的更简单方法.
 - [AndroidAnnotations](https://github.com/androidannotations/androidannotations) -在编译时具有依赖项注入的Java批注.
 - [Toothpick](https://github.com/stephanenicolas/toothpick) -基于范围树的Java依赖注入（DI）库.
 
@@ -266,7 +268,7 @@
 
 ### Tracking
 
-- [MobileAppTracking](https://www.tune.com/) -跨多个广告网络跟踪您的营销活动.
+- [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
 - [Mixpanel](https://mixpanel.com/) -分析平台，用于分析用户.
 - [Countly](https://count.ly) -基于Node.js，MongoDB和Linux的开源移动和Web分析，推送通知和崩溃报告平台.
 - [CleverTap](https://clevertap.com) -具有100万个免费事件的分析平台和用户互动平台
@@ -319,14 +321,14 @@
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) -Android聊天和消息传递SDK，用于向您的android应用程序添加实时聊天和应用内消息传递.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)  -Qiscus SDK是轻量级且功能强大的android聊天库.  使用Qiscus SDK，您可以轻松地将Qiscus引擎与您的应用程序集成在一起，以创建很酷的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)  -Kommunicate在android中提供了开源的实时聊天SDK.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用内消息传递，以获取客户支持.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo) - Add voice, video and text chat to your app (and website) in minutes using CometChat. CometChat's SDK includes a complete ready UI so that you don't have to spend any time building one! That's not all, CometChat has out-of-the-box support for real-time translation, whiteboards, screen sharing, friends sync, role based access control, credits deduction and more.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)  -使用CometChat在几分钟内将语音，视频和文本聊天添加到您的应用程序（和网站）.  CometChat的SDK包含完整的现成UI，因此您无需花费任何时间来构建一个！  不仅如此，CometChat还提供了对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，积分扣除等即时可用的支持.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/)  -使用CometChat Pro在几分钟内在Kotlin中建立一个一对一的Android聊天应用程序.  本教程讨论了诸如登录，获取联系人列表，用户状态指示器，发送/接收消息等功能.
 - [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) -在CometChat Pro和Firebase Cloud Messaging（FCM）的帮助下，在Kotlin的Android聊天应用程序中添加推送通知.
 
 #### Custom Dialog
 
 - [MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) -自定义对话框，用于录制音频，将其存储并在手机中播放.
-- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) -提供了一个hijri（伊斯兰日历）日期选择器，该日期选择器是根据Google的“材料设计原则”供选择器设计的.
+- [HijriDatePicker](https://github.com/alhazmy13/HijriDatePicker) -提供了一个hijri（伊斯兰日历）日期选择器，该日期选择器是根据Google的“材料设计负责人”使用的.
 - [Noty](https://github.com/emre1512/Noty) -一个用于创建动画警报/对话框/警告的简单库.
 
 ### Version Checking
@@ -390,7 +392,7 @@
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) -它是Android Design in Action系列的技术对应.
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) -Googler Chet Hasae等人撰写的一系列文章，回答了最常见的问题：“开发Android应用程序时要记住哪些重要规则？”.
 - [Android Hive Tutorials](https://www.androidhive.info) -非常适合初学者的教程.
-- [Android Weekly](https://androidweekly.net) -包含有关android的每周信息的新闻通讯.
+- [Android Weekly](https://androidweekly.net) -简报，其中包含有关android的每周信息.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) -图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) -将应用程序屏幕截图包装在真实设备的图片中.
@@ -408,7 +410,7 @@
 ### Code examples
 - [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -Android Architecture Blueprints项目演示了有助于解决或避免常见android问题的策略.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) -有关MVVM（模型视图ViewModel）模式的示例.
-- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) -有关VIPER（查看交互者演示者实体路由器）模式的示例.
+- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
 
 ### Podcasts
 - [Fragmented](https://fragmentedpodcast.com/)  是Android开发者播客，Donn Felker和Kaushik Gopal讨论了如何构建出色的软件并成为更好的Android开发者.

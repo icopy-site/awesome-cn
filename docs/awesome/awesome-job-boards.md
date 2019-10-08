@@ -2,18 +2,20 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-精选的利基职位委员会的精选列表.
+精选的利基工作委员会精选清单.
 
 
 
 ## Big Data
 
 * [DataJobs.com](https://datajobs.com/)
+* [ai-jobs.net](https://ai-jobs.net/) -人工智能和大数据工作
 
 ## Blockchain
 
-* [Blocktribe](https://blocktribe.com/) - 为“区块链，DLT，以太坊，Hyperledger，R3，加密货币和相关分布式技术”工作的人员提供的工作委员会.
+* [Blocktribe](https://blocktribe.com/) -从事“区块链，DLT，以太坊，Hyperledger，R3，加密货币和相关分布式技术”工作人员的工作板.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
+ * [Crypto Job]（https://crypto-job.com/）-Crypto Job是人才与机遇相遇的地方.  我们的目标是将热情的区块链和加密货币开发商与重视其才能和专业知识的公司联系起来.
 
 ## Customer Support
 
@@ -22,7 +24,7 @@
 ## Design
 
 * [AIGA](https://designjobs.aiga.org/)
-* [Authentic Jobs](https://www.authenticjobs.com/) - “设计师，黑客和创意专业人士的主要工作板.”
+* [Authentic Jobs](https://www.authenticjobs.com/) -“设计师，黑客和创意专家的主要工作委员会.”
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](https://www.coroflot.com/design-jobs)
 * [IXDA](http://ixda.org/jobs/)
@@ -41,11 +43,12 @@
 
 ## InfoSec
 
-* [NinjaJobs](https://ninjajobs.org/) - 由InfoSec专业人员开发的社区运营工作平台
+* [NinjaJobs](https://ninjajobs.org/) -由InfoSec专业人员开发的社区运行的工作平台
+* [infosec-jobs.com](https://infosec-jobs.com/) -一个新鲜而精益的InfoSec工作委员会
 
 ## Machine Learning
 
-* [ML Jobs List](https://mljobslist.com/jobs/) - 机器学习工作列表是机器学习社区，用于查找和发布工作！ 
+* [ML Jobs List](https://mljobslist.com/jobs/) -机器学习工作清单是机器学习社区，用于查找和发布工作！ 
 
 ## Programming
 
@@ -59,23 +62,25 @@
 
 ### Full-Stack
 
-* [Full-Stack Developer Jobs](https://fullstackjob.com/) - 全栈开发人员的工作板
+* [Full-Stack Developer Jobs](https://fullstackjob.com/) -全栈开发人员工作板
 
 ### Functional
 
-* [Functional Jobs](https://functionaljobs.com/) - 功能程序员的工作板
+* [Functional Jobs](https://functionaljobs.com/) -功能程序员的工作板
 
 ### Go
 
 * [Golangprojects](https://www.golangprojects.com/)
 * [we love golang](https://www.welovegolang.com/)
 * [Golang Forum Jobs](https://forum.golangbridge.org/c/jobs)
+* [Golang Cafe](https://golang.cafe)
 
 ### JavaScript
 
 * [Angular Jobs](https://angularjobs.com/)
 * [Angular Work](https://angular.work/)
 * [Ember Job Board](https://jobs.emberjs.com/)
+* [JavaScript Developer Board](https://javascriptjob.xyz/)
 * [Vue.js Jobs](https://vuejobs.com/)
 * [We Love Angular](https://www.weloveangular.com/)
 * [We Work Meteor](https://www.weworkmeteor.com/)
@@ -89,7 +94,7 @@
 * [Drupal Jobs](https://jobs.drupal.org/)
 * [jobs.wordpress.net](https://jobs.wordpress.net/)
 * [LaraJobs](https://larajobs.com/)
-* [WPhired](https://www.wphired.com/) -  WordPress工作
+* [WPhired](https://www.wphired.com/) -WordPress工作
 
 ### Python
 
@@ -111,6 +116,7 @@
 ## Remote
 
 * [We Work Remotely](https://weworkremotely.com/)
+* [DailyRemote](https://dailyremote.com/)
 
 ### Aggregator
 
@@ -126,19 +132,25 @@
 
 ### Australia
 
-* [austechjobs.com.au](https://austechjobs.com.au/) - 高级澳大利亚技术职位委员会
+* [Breakout Careers](https://breakout.careers/) -澳大利亚最好的技术和创业工作委员会
+* [austechjobs.com.au](https://austechjobs.com.au/) -高级澳大利亚技术工作委员会
 
 ### Canada
 
-* [Work in Tech](https://www.workintech.ca/) - 多伦多 - 滑铁卢地区走廊工作
+* [Work in Tech](https://www.workintech.ca/) -多伦多滑铁卢地区走廊工作
 
 ### Europe
 
-* [careerin.tech](https://careerin.tech) - 柏林科技与IT世界的工作委员会和公司名单
+* [careerin.tech](https://careerin.tech) -柏林科技和IT世界的工作委员会和公司列表
+* [SwissDev Jobs](https://swissdevjobs.ch/) -想要在瑞士工作的欧盟软件开发人员的工作
+
+### United Kingdom
+
+* [IT Jobs Watch](https://www.itjobswatch.co.uk/) -包括免费技术技能趋势，薪水/合同工费率基准测试和实时职位空缺统计.
 
 ### United States
 
-* [DallasJobs](https://www.dallasjobs.io/) - 达拉斯/沃斯堡最好的科技工作
+* [DallasJobs](https://www.dallasjobs.io/) -达拉斯/沃思堡的最佳技术职位
 
 ### Free & Open Source
 

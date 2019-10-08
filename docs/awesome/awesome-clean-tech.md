@@ -48,7 +48,7 @@
 
 - [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
-   从水，二氧化碳和电力中生产单细胞蛋白质Solein.  它不需要耕地或灌溉，也不受气候条件的限制.  Solein的原始概念源于NASA太空计划，并在芬兰技术研究中心和拉彭兰塔理工大学（LUT）的研究项目中得到进一步发展.
+  Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
 
 - [Too Good To Go](https://toogoodtogo.com/en)  |  法国|  2016年
 
@@ -76,13 +76,17 @@
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
-  Collaborated with NASA to develop a shower system that uses 90% less water. The shower has a purification system that makes it possible to reuse the same batch of water. The company now wants to make this technology - initially developed for space - available to consumers.
+   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
 
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|  --
 
    开发用于生产饮用水的反渗透技术，且运营成本低，并且不会产生CO2排放.  海水淡化系统完全是太阳能，独立于外部能源，易于使用和维护.
 
 ### Energy
+
+- [Bulb](https://bulb.co.uk/)  |  英国|  2013年
+
+   英国最大的绿色供应商.  他们为会员提供来自太阳能，风能和水力发电的100％可再生电力.  另外，该气体是100％碳中性的.  10％是从可再生资源（如食物或农场废物）中产生的绿色气体.
 
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 

@@ -20,7 +20,7 @@
 * [DBatVir](https://github.com/ecohealthalliance/awesome-parasite/blob/master/www.mgc.ac.cn/DBatVir) -从Genbank整理的蝙蝠病毒数据库，其中包含宿主特征和位置摘要.
 * [DRodVir](http://www.mgc.ac.cn/DRodVir/) -从Genbank挑选的具有宿主特征的啮齿动物病毒数据库.
 * [NCEAS Interaction Web data](https://www.nceas.ucsb.edu/interactionweb/resources.html#host_parasite)  -整理了几个加拿大犯罪学地点的鱼类寄主和寄生虫数据集，包括患病率和强度信息.  食物网和植物关系中物种相互作用的较大数据库的一部分.
-* [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/)  -从伦敦自然历史博物馆维护的科学文献中提取的寄生虫数据库.  HA Baylis博士于1922年开始进行编辑，直到LNHM的工作人员一直进行到2003年为止. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) 提供对此数据库的广泛分析，您可以通过R包访问数据 [helminthR](https://github.com/ropensci/helminthR). 
+* [NHM Host-parasite database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/)  -从伦敦自然历史博物馆维护的科学文献中提取的寄生虫数据库.  HA Baylis博士于1922年开始进行编辑，直到LNHM的工作人员一直进行到2003年的编辑工作. [Wells et al. 2018](http://nicholasjclark.weebly.com/uploads/4/4/9/4/44946407/wells_etal_2018_globchangbiol.pdf) 提供对此数据库的广泛分析，您可以通过R包访问数据 [helminthR](https://github.com/ropensci/helminthR). 
  * [Olival et al. 2017, Nature](https://zenodo.org/record/807517#.Wv7kuFMvzOQ) -具有的哺乳动物病毒数据库 [analysis](https://www.nature.com/articles/nature22975?sf90794030). 
 * [PEARL](http://pearl.berkeley.edu/) -对大型无脊椎动物的保护评估.
 * [PHI-base](http://www.phi-base.org/index.jsp)  -包含影响病原性的真菌，卵菌和细菌病原体特定基因信息的数据库.  着重于农业和医学上重要的病原体. 
@@ -40,12 +40,12 @@
 * [U.S. National Parasite Collection](https://www.nal.usda.gov/exhibits/speccoll/exhibits/show/parasitic-diseases-with-econom/u-s--national-animal-parasite-)  -由美国农业部（USDA）维护的标本采集，重点是北美重要的蠕虫和原生动物.  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
 
 ## Citizen Science Projects 
- * [Garden Wildlife Health](https://www.gardenwildlifehealth.org)  -这是英国伦敦动物学学会（ZSL），英国鸟类学会信托（BTO），蛙蛙和皇家鸟类保护学会（RSPB）之间的一项英国合作项目，该项目从1980年代开始一直运作（以前称为花园鸟类健康倡议和青蛙死亡率项目）.  市民可以提交有关野鸟，两栖动物，爬行动物和刺猬的疾病和死亡报告以及动物野生动植物样本. 
+ * [Garden Wildlife Health](https://www.gardenwildlifehealth.org)  -这是英国伦敦动物学学会（ZSL），英国鸟类学信托基金会（BTO），蛙蛙和皇家鸟类保护协会（RSPB）之间的一项英国合作项目，该项目从1980年代开始一直运作（以前称为花园鸟类健康倡议和青蛙死亡率项目）.  市民可以提交有关野鸟，两栖动物，爬行动物和刺猬的疾病和死亡报告以及动物野生动植物样本. 
  * [Project Monarch Health](https://www.monarchparasites.org/)  -自2006年以来运行的一项公民科学项目，旨在测试美国和加拿大的成年帝王蝶是否具有原生动物寄生虫“ Ophryocystis elektroscirrha_”.  参与者用胶带将从成人腹部收集的孢子样本提交实验室进行评估. 
 
 ## Reporting Systems 
 * [Healthmap](https://www.healthmap.org/en/) -一个网络平台，可为人类和动物提供传染病爆发警报.
-* [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/)  -对新出现和重新出现的疾病暴发的预警.  信息来源包括媒体报道，官方报道，在线摘要，当地观察员等.
+* [Program for Monitoring Emerging Diseases (ProMed)](http://www.promedmail.org/)  -对新出现和重新出现的疾病暴发的预警.  信息来源包括媒体报道，官方报道，在线摘要，当地观察员等. [EIDR-Connect](https://eidr-connect.eha.io/events/auto) 将ProMed报告解析为疾病暴发事件，由疾病专家策划. 
 * [WHISPers](https://whispers.usgs.gov/)  -由USGS国家野生动物健康中心管理的野生动物健康信息共享合作伙伴事件报告系统.  据报道，涉及五个或更多人的北美野生动植物死亡率（死亡）和发病率（疾病）事件. 
 * [World Animal Health Information System (WAHIS)](http://www.oie.int/wahis_2/public/wahid.php/Diseaseinformation/reportarchive)  -世界动物卫生组织国家警报档案和某些病原体的定期报告.  他们也有一些不错的界面来显示疾病分布和时间表.
  

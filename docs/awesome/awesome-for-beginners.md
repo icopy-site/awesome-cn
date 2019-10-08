@@ -2,11 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-很棒的初学者友好项目列表.
+很棒的对初学者友好的项目列表.
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
+如果您是开放源代码项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
 
 如果您想提供帮助，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
@@ -89,7 +89,7 @@
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：轻松选择）_ <br>  离线优先JavaScript客户端，利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript模式.
 - [Webpack](https://github.com/webpack/webpack/labels/D0%3A%20My%20First%20Commit%20%28Contrib.%20Difficulty%29)  _（标签：D0：我的第一次提交（造成困难））_ <br>  javascript和朋友的捆绑器.
-- [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter)  _（标签：贡献启动器）_ <br>  Tessel 2的命令行界面.
+- [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors)  _（标签：适用于新贡献者）_ <br>  一个用于创建雄心勃勃的Web应用程序的JavaScript框架.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors)  _（标签：适用于新贡献者）_ <br>  Ember.js的数据持久性库.
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome)  _（标签：欢迎初学者）_ <br>  开源代码库和课程表.  学会编码和帮助非营利组织.
@@ -98,7 +98,7 @@
 - [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JS / HTML / CSS终端
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug)  _（标签：5-good-beginner-bug）_ <br>  JavaScript中的PDF阅读器
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs)  _（标签：抢购对象）_ <br>  一个轻量级的JavaScript日期库，用于解析，验证，操作和格式化日期.
-- [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy)  _（标签：help-wand-easy）_ <br>  无服务器框架
+- [serverless](https://github.com/serverless/serverless/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  无服务器框架
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Hoodie Camp是供新老参与者使用的空间.
 - [React](https://github.com/facebook/react/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于构建用户界面的声明性，高效且灵活的JavaScript库.
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
@@ -121,7 +121,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -130,6 +130,8 @@
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Check It Out是一种类似于ncurses的CLI，可让用户以交互方式导航并选择git分支进行检出.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  来自免费资源的多平台音乐播放器.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
+- [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue)  _（标签：第一期好）_ <br>  适用于Node.js和浏览器的Javascript测试框架.
+- [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于编写下一代JavaScript的编译器.
 
 ## Julia
 
@@ -156,7 +158,7 @@
 
 ## Python
 
-- [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
+- [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug)  _（标签：良好的第一个Bug）_ <br>  弹射器之家，用作性能工具.
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow)  _（标签：难度/低）_ <br>  Python国际化库.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick)  _（标签：轻松选择）_ <br>  具有同步和共享功能的轻量级JSON存储服务.
@@ -164,7 +166,7 @@
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的快速高级Web爬网和抓取框架.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution)  _（标签：良好的第一贡献）_ <br>  面向渗透测试人员和软件开发人员的交互式TLS拦截HTTP代理功能
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  一个免费且开放的现代，快速电子邮件客户端，具有用户友好的加密和隐私功能
-- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee)  _（标签：难度/新手）_ <br>  统一的命令行界面，用于整理和修复所有代码，无论您使用哪种编程语言.
+- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新手）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
