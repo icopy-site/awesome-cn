@@ -52,8 +52,8 @@
 
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  开源应用容器引擎
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  在GoLang中用爱构建的快速灵活的静态网站生成器
-- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/E-easy)  _（标签：E-easy）_ <br>  可扩展，可生存，高度一致的SQL数据库
-- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Kubernetes软件包管理器
+- [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  可扩展，可生存，高度一致的SQL数据库
+- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：抢劫，难度/ 1：容易，技术/使用）_ <br>  Golang和React中的开源Slack替代方案
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  Docker CLI
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  生产级集装箱调度管理系统
@@ -89,7 +89,7 @@
 - [Kinto.js](https://github.com/Kinto/kinto.js/labels/easy-pick)  _（标签：轻松选择）_ <br>  离线优先JavaScript客户端，利用 [Kinto API](http://kinto.readthedocs.org/) 用于远程数据同步.
 - [ESLint](https://github.com/eslint/eslint/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个完全可插入的工具，用于识别和报告JavaScript模式.
 - [Webpack](https://github.com/webpack/webpack/labels/D0%3A%20My%20First%20Commit%20%28Contrib.%20Difficulty%29)  _（标签：D0：我的第一次提交（造成困难））_ <br>  javascript和朋友的捆绑器.
-- [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter) _(label: contribution-starter)_ <br> Command line interface to Tessel 2.
+- [Tessel 2 CLI](https://github.com/tessel/t2-cli/labels/contribution-starter)  _（标签：贡献启动器）_ <br>  Tessel 2的命令行界面.
 - [Ember.js](https://github.com/emberjs/ember.js/labels/Good%20for%20New%20Contributors)  _（标签：适用于新贡献者）_ <br>  一个用于创建雄心勃勃的Web应用程序的JavaScript框架.
 - [Ember.js Data](https://github.com/emberjs/data/labels/Good%20for%20New%20Contributors)  _（标签：适用于新贡献者）_ <br>  Ember.js的数据持久性库.
 - [FreeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/labels/first%20timers%20welcome)  _（标签：欢迎初学者）_ <br>  开源代码库和课程表.  学会编码和帮助非营利组织.
@@ -132,6 +132,7 @@
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
 - [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue)  _（标签：第一期好）_ <br>  适用于Node.js和浏览器的Javascript测试框架.
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于编写下一代JavaScript的编译器.
+- [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  轻松创建自己的react-content-loader的工具.
 
 ## Julia
 
@@ -166,7 +167,7 @@
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的快速高级Web爬网和抓取框架.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution)  _（标签：良好的第一贡献）_ <br>  面向渗透测试人员和软件开发人员的交互式TLS拦截HTTP代理功能
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  一个免费且开放的现代，快速电子邮件客户端，具有用户友好的加密和隐私功能
-- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee)  _（标签：难度/新手）_ <br>  统一的命令行界面，用于整理和修复所有代码，无论您使用哪种编程语言.
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新手）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
@@ -186,6 +187,7 @@
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  大规模自动化任何基础架构或应用程序的管理和配置的软件.
 - [mygpo](https://github.com/gpodder/mygpo/labels/starter-issue)  _（标签：启动程序问题）_ <br>  gpodder.net的Web服务，这是一个自由Web服务，允许用户管理其播客订阅并发现新内容.
 - [tree-sitter-legesher-python](https://github.com/legesher/tree-sitter-legesher-python/labels/Good%20First%20Issue)  _（标签：《好事》） <br>  使用您的母语在Python中学习和编码.
+- [mypy](https://github.com/python/mypy/labels/good-first-issue)  _（标签：优先事项）_ <br>  python的可选静态类型.
 
 ## Ruby
 
@@ -220,7 +222,7 @@
 ## TypeScript
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript的超集，可编译为干净的JavaScript输出.
-- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求.
+- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ <br>A new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一笔捐款）_ <br>  TSLint的ESLint规则.
 
 ## Contribute

@@ -13,7 +13,7 @@
 
 - [Ethernet vs. WiFi](https://na.leagueoflegends.com/en/page/ethernet-vs-wifi-ping-packets-playing-better) -Riot Games的Viscarious通过WiFi与以太网的互联网连接比较了指标.
 - [Fast-Paced Multiplayer](http://www.gabrielgambetta.com/client-server-game-architecture.html) -Gabriel Gambetta的客户端预测，实体插值，滞后补偿文章.
-- [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
+- [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) –关于Glenn Fiedler的可靠UDP协议和游戏网络的开发文章，.[https://www.glennfies.com上的文章]（英文）（http://en.wikiworld.com/2s/ssb-cn-bs.html）（http://www.lenf.com/django_next/）.（http://www.glenfedler.com）.（http://www.glenon.com./.）（https // developing / gdlen-id-ip-UDP-）（）.（http://www.glennfiedler.co.uk.org/)/grown-fiedler.com.可靠的UDP协议.（http://supporter.microsoft乌拉圭回合）-开发游戏的网络..；-有关开发网络文章..----.--.-.！！..-！-.！！..？！..！......！-.-.....！！...！.......！-.-.-地./（-！）.！..！-上-.-地---.（..）
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
 - [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
@@ -48,8 +48,7 @@
 -游戏开发者大会
   - [2000 / Half-Life and Team Fortress Networking](https://www.gdcvault.com/play/1016642/Half-Life-and-Team-Fortress) -来自Valve的Yahn Bernier详细介绍了游戏网络.
   - [2010 / Building the Server Software for ELIMINATE](http://www.gdcvault.com/play/1012368/Building-the-Server-Software-for) -ngmoco的Stephen Detwiler和James Marr的演讲：）.
-  - [2010 / The Server Technology of EVE Online](http://www.gdcvault.com/play/1014031/The-Server-Technology-of-EVE) -CCP Games的克里斯蒂安·琼森（Kristjan Jonsson），《一个世界》中的30万玩家.
-  - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) -Crytek的Peter Hall撰写的程序员遗体.
+  - [2011 / Crysis 2 Multiplayer](http://www.gdcvault.com/play/1014886/Crysis-2-Multiplayer-A-Programmer) -Crytek的Peter Hall撰写的程序员的尸体.
   - [2011 / I Shot You First](http://www.gdcvault.com/play/1014345/I-Shot-You-First-Networking) -Halo中的游戏网络：Bungie的David Aldridge涉足.
   - [2012 / Writing Server and Network Code for Your Online Game](http://www.gdcvault.com/play/1015609/Writing-Server-and-Network-Code) -来自En Masse Ent的Patrick Wyatt的演讲.
   - [2013 / Network Serialization and Routing in World of Warcraft](http://www.gdcvault.com/play/1017733/Network-Serialization-and-Routing-in) -暴雪的Joe Rumsey讲话.
@@ -81,7 +80,7 @@
   - [Blueprint Multiplayer](https://www.youtube.com/playlist?list=PLZlv_N0_O1gYqSlbGQVKsRg6fpxWndZqZ) -Epic Games的Wes Bunn提供的Blueprint多人游戏开发教程系列.
   - [Create Multiplayer Games](https://www.udemy.com/unrealengine-cpp/) -（付费）Tom Looman撰写的C ++多人游戏开发教程系列.
   - [Online Game Development](https://www.udemy.com/unrealmultiplayer/) -（付费）Sam Pattuzzi提供的C ++在线游戏开发教程系列.
-  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -由Maik Hilfer提供的具有蒸汽支持的蓝图多人游戏教程.
+  - [Steam Multiplayer](https://www.youtube.com/watch?v=TPakLkxc6f0) -Maik Hilfer提供的具有后盾的蓝图多人游戏教程.
 -团结
   - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) -使用MateriaGame的DarkRift2制作一个简单的网络弹力球.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) -AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
@@ -95,7 +94,7 @@
   - [RakNet](https://github.com/facebookarchive/RakNet) -功能齐全且成熟可靠的UDP网络引擎.
   - [yojimbo](https://github.com/networkprotocol/yojimbo) -带有专用服务器的客户端/服务器游戏的可靠UDP网络库.
 - C#
-  - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) -具有身份验证，个人资料，大厅，Unity聊天功能的后端框架.
+  - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) -具有Unity身份验证，个人资料，大厅，聊天功能的后端框架.
   - [DarkRift Networking](https://www.darkriftnetworking.com/) -专注于Unity的多线程多人网络解决方案.
   - [Forge Networking](https://github.com/BeardedManStudios/ForgeNetworkingRemastered) -专注于Unity的实时多人网络解决方案.
   - [Lidgren.Network](https://github.com/lidgren/lidgren-network-gen3) -可靠的UDP网络库（.NET）.
@@ -109,7 +108,7 @@
 ## Projects
 
 -虚幻引擎
-  - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) -为CharacterMovementComponent添加冲刺功能的项目.
+  - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) -向CharacterMovementComponent添加冲刺功能的项目.
   - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) -第三人称合作多人部落射击游戏教程项目.
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) -第三人称多人僵尸生存游戏教程项目.
 -团结

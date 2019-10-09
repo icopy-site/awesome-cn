@@ -33,7 +33,7 @@
 - [Karma](https://new.karma.life/)  |  瑞典|  2016年
 
    帮助餐馆，咖啡厅和杂货店以折扣价出售剩余食物.  结果，用户获得的食物更少了，企业获得了额外的收入来源，同时减少了食物浪费.
-  
+
 - [Land Life Company](https://landlifecompany.com/)  |  阿姆斯特丹  2013年
 
   他们的任务是在全球20亿公顷的退化土地上重新造林.
@@ -48,7 +48,7 @@
 
 - [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
-  Produces Solein - a single-cell protein - from water, CO2 and electricity. It doesn’t require arable land or irrigation and isn’t limited by climate conditions. The original concept of Solein was born from a NASA space programme, and was further developed in the research projects of the Technical Research Centre of Finland Ltd and the Lappeenranta University of Technology (LUT).
+   从水，二氧化碳和电力中生产单细胞蛋白质Solein.  它不需要耕地或灌溉，也不受气候条件的限制.  Solein的原始概念源于NASA太空计划，并在芬兰技术研究中心和拉彭兰塔理工大学（LUT）的研究项目中得到进一步发展.
 
 - [Too Good To Go](https://toogoodtogo.com/en)  |  法国|  2016年
 
@@ -68,6 +68,10 @@
 
    提供有意识地在欧洲制造的内衣，必需品和运动服.  用于生产的材料仅是天然，可再生，可循环利用，可生物降解和/或低冲击力的纺织品.
 
+- [SkyCool Systems](http://skycoolsystems.com)  |  美国加利福尼亚|  2016年
+
+  制造基于蒸汽压缩的冷却系统的附件，这些附件可减少电力消耗，同时使自身二氧化碳中和.
+
 ### Water
 
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
@@ -77,6 +81,10 @@
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
    与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
+
+- [Refill App](https://refill.org.uk/)  |  英国|  --
+
+   这是一个应用程序，可让您在英国各地找到免费的注水站.  目前，全国有超过20,000个免费电台.  该应用程序还跟踪保存的瓶子，节省的碳并在您每次向保护地球的露营地重新填充瓶子时捐款13p.
 
 - [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|  --
 
@@ -95,7 +103,7 @@
 - [Hydrostor](https://www.hydrostor.ca/)  |  加拿大|  2010年
 
    将电能转换为在水下存储在蓄能器中的压缩空气.  一旦进入蓄电池，就可以存储能量，直到电网需要为止.  当需要能量时，水的重量将空气推回地面，并在其中使用发电机将其转换为电能.
-  
+
 - [Inspire](https://www.helloinspire.com/)  |  美国费城|  2014年
 
   通过向与智能家居技术集成的房主提供一系列负担得起的清洁能源计划，简化消费者对清洁能源的采用.
@@ -103,8 +111,8 @@
 - [Marcel](https://www.marcel.cab/engagements-rse/)  |  法国|  2011年
 
    像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
-  
-- [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州 
+
+- [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州
 
    为汽车和运输业开发无线充电.  允许将任何类型的车辆或设备连接到电网，而无需使用电缆或电线.
 
@@ -116,9 +124,29 @@
 
    非营利性研究与开发实验室，致力于通过解决机器学习问题来减少温室气体排放.  截至2019年，他们正在研究一种预测系统，以减少使用太阳能的电网上的燃气轮机备用.
 
-- [Solar City](https://www.tesla.com/solarpanels)  |  美国加利福尼亚|  2006年
+- [Redflow](https://redflow.com/)  |  澳大利亚布里斯班|  2001
+
+  制造可承受苛刻条件下的日常辛勤工作并随时间推移将容量减少到最低程度的锌溴液流电池，这是住宅和工业安装的解决方案.
+
+- [Rocky Mountain Institute](https://rmi.org/)  |  美国科罗拉多州|  1982年
+
+   具有影响力的研究所的使命是“ ...改变全球能源使用，创造一个清洁，繁荣和安全的低碳未来”.  由“软能量路径”的物理学家和作者Amory Lovins共同创立.
+
+- [Siemens](https://new.siemens.com/in/en.html)  |  德国|  1847年
+
+   跨国制造公司.  在他们的许多项目中，他们生产风力涡轮机并提供陆上和海上风力服务.  截至2018年，它是全球第三大风力涡轮机制造商.
+
+- [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
 
   当前的产品包括一个太阳能电池板屋顶，它可以收集尽可能多的电能而不会看起来像太阳能电池板；以及Powerwall，一种家用能源存储解决方案.
+
+- [Sonnen](https://sonnenusa.com)  |  德国|  2010年
+
+   为家庭生产储能解决方案.  此外，它们目前提供了在德国运营的最大网络，可共享可再生能源的电力.
+
+- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
+
+  风力涡轮机制造商遍布全球18个国家/地区.
 
 - [Tesla](https://www.tesla.com/solarpanels)  |  美国加利福尼亚|  2003年
 
@@ -128,6 +156,7 @@
 
    风力涡轮机的制造商，销售商，安装商和服务商.  截至2019年，维斯塔斯已在五大洲的80多个国家安装了超过66,000台风力涡轮机，容量达到100 GW.
 
+
 ### Social Impact
 
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
@@ -136,26 +165,29 @@
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放。
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
    互联网搜索引擎，将其剩余收入捐赠给专注于植树造林的非营利组织.  根据他们的网站，截至2019年7月，他们已负责种植6000万棵树.
 
+- [Tomorrow](https://tmrow.com/)  |  丹麦/法国|  2018
+
+  通过连接到已经使用的应用程序和服务来计算您日常选择对气候的影响的应用程序：您的个人和自动碳追踪器.
+
 - [Unmade](https://unmade.com/)  |  英格兰|  2013年
 
    通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
 
-- [Tomorrow](https://tmrow.com/)  |  丹麦/法国|  2018
-
-  通过连接到已经使用的应用程序和服务来计算您日常选择对气候的影响的应用程序：您的个人和自动碳追踪器.
 
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) -芬兰清洁技术公司的枢纽.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) -在面对气候变化时给人们带来希望的一种潜意识.
-- [Norrsken Foundation](https://www.norrskenfoundation.org/) -瑞典基金会，该基金会支持并投资对社会产生积极影响的组织.
+- [Climate Choice](https://climatechoice.co/) -一个非营利性项目，其中包含有关减少气候变化的可行指南以及有关气候变化的教育信息.
 - [Mattermore.io](https://www.mattermore.io/)  -简讯重点介绍使用AI和数据科学来扭转气候变化的公司；  有助于发现每周提供的新计划/工作机会.
+- [Norrsken Foundation](https://www.norrskenfoundation.org/) -瑞典基金会，该基金会支持并投资对社会产生积极影响的组织.
+
 
 ## Research
 
@@ -163,6 +195,7 @@
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) -联合国评估与气候变化有关的科学的机构.
 - [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) -提供以解决方案为导向的政策途径，以管理全球公域，以促进可持续发展和人类福祉.
 - [NASA climate](http://climate.nasa.gov/) -地球的重要迹象，事实和解决方案.
+- [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019)  -其中包含来自多个联合国国家的特定国家/地区气候报告.  它具有2003年以来的数据.
 
 ## License
 

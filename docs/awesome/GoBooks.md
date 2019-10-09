@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-去书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+去读书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
 
@@ -14,25 +14,27 @@
 
 <img src="http://openmymind.net/assets/go/title.png" width="120px"/>
 
- Little Go Book是对Google Go编程语言的免费介绍.  它针对的是那些对指针和静态类型的想法可能不太满意的开发人员.  它比其他小书更长，但希望仍能抓住那种小小的感觉.
+ Little Go Book是Google Go编程语言的免费介绍.  它针对的是可能不太熟悉指针和静态类型的开发人员.  它比其他《小书》更长，但希望仍能捕捉到这种小感觉.
 
 ### [An Introduction to Programming in Go](http://www.golang-book.com/) *Free*
 
-<img src="http://www.golang-book.com/public/img/intro/cover.0.png" width="120px"/>
+<img src="http://www.golang-book.com/public/img/intro/cover.4194045234.png" width="120px"/>
 
- 本书简要介绍了使用Go语言进行的计算机编程.  Go是一种通用编程语言，由Google设计，具有现代特性，清晰的语法和强大的文档齐全的通用库，使其成为学习第一种编程语言的理想语言.
+ 本书是对使用Go语言进行计算机编程的简短简要介绍.  Go由Google设计，是一种通用的编程语言，具有现代功能，简洁的语法和功能强大的文档齐全的通用库，使其成为学习第一门编程语言的理想语言.
 
-This book is free to [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
+这本书是免费 [read online](http://www.golang-book.com/) 要么 [pdf f要么m](http://www.golang-book.com/public/pdf/gobook.pdf).
 
 ### [Go Bootcamp](http://www.golangbootcamp.com/) *Free*
 
 <img src="https://softcover.s3.amazonaws.com/38/GoBootcamp/images/cover-web.png" width="120px"/>
 
-本伴侣书包含最初专门为此活动撰写的材料，以及Google＆the Go团队根据知识共享署名3.0许可证和BSD许可下许可的代码提供的内容.
+这本随书包含最初专门为此活动编写的材料，以及Google＆Go团队在知识共享署名3.0许可下的内容以及在BSD许可下许可的代码.
 
 ### [Learning Go](http://www.miek.nl/go) *Free*
 
- 一本开始学习Golang的在线书籍.  它有许多练习（和答案）.
+<img src="https://www.miek.nl/go/fig/bumper-inverse.png" width="120px"/>
+
+ 一本开始学习Golang的在线书籍.  它具有许多练习（和答案）.
 
 The [markdown source is available on Github](https://github.com/miekg/learninggo).
 
@@ -40,69 +42,69 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://raw.githubusercontent.com/pazams/go-for-javascript-developers/master/src/images/thumb.png" width="120px"/>
 
- 这本书帮助Javascripters成为Gophers.  概述这些语言之间的差异使得更容易来回切换，并且可以帮助缓解这样做时的潜在问题.
+ 这本书帮助Javascripters成为Gophers.  概述了这些语言之间的差异，可以更轻松地来回切换，并有助于缓解这样做时的潜在问题.
 
 ### [Go in Action](https://www.manning.com/books/go-in-action)
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
- Go in Action引入了Go语言，引导您从好奇的开发者到Go guru.  本书首先介绍了Go的独特功能和概念.  （我们假设您已经掌握了另一种编程语言的速度，所以不要期望花费大量时间排练您已经知道的东西.）然后，您将获得编写包括Web在内的实际应用程序的实践经验站点和网络服务器，以及以令您的朋友嫉妒的速度操纵和转换数据的技术.  在最后的章节中，您将深入了解该语言并查看Go大师用于使其应用程序执行的技巧和秘密.  例如，您将学习使用Go强大的反射库，并使用与C代码集成的真实示例.
+ Go in Action引入了Go语言，指导您从好奇的开发人员到Go guru.  该书首先介绍了Go的独特功能和概念.  （我们假设您已经在使用另一种编程语言，因此不要期望花费大量时间来排练已经知道的东西.）然后，您将获得动手实践的经验，编写包括Web在内的真实应用程序站点和网络服务器，以及以使您的朋友嫉妒的速度处理和转换数据的技术.  在最后的章节中，您将深入了解该语言，并了解Go大师用来使他们的应用程序运行的技巧和秘密.  例如，您将学习使用Go强大的反射库，并处理与C代码集成的实际示例.
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
-<img src="https://www.packtpub.com/sites/default/files/B05569.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05569.png" width="120px"/>
 
- 本书向您展示如何构建功能强大的系统，并将您带入现实世界.  规模，性能和高可用性是我们项目的核心，本书中的经验教训将为您提供构建世界级解决方案所需的一切.
+ 本书向您展示了如何构建功能强大的系统，并使您进入现实世界.  规模，性能和高可用性是我们项目的核心，本书中总结的经验教训将为您提供构建世界一流解决方案所需的一切.
 
 ### [Programming in Go: Creating Applications for the 21st Century](http://www.informit.com/store/programming-in-go-creating-applications-for-the-21st-9780321774637)
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321774637&type=f" width="120px"/>
 
-  Go中的编程汇集了评估Go所需的所有知识，Go中的思考，以及使用Go编写高性能软件.  Summerfield提供了多个成语比较，展示了Go如何改进旧语言，特别关注Go的关键创新.  在此过程中，他解释了从绝对基础知识到Go的无锁定基于通道的并发性以及灵活且不同寻常的鸭子类型安全方法到面向对象的所有内容.
+  Go中的编程将评估Go，在Go中进行思考以及使用Go编写高性能软件所需的全部知识汇总在一起.  萨默菲尔德（Summerfield）进行了多个成语比较，确切地显示了Go如何改进旧语言，并特别关注Go的关键创新.  在此过程中，他解释了从绝对基础到Go的无锁基于通道的并发以及它灵活而又不寻常的“鸭式”类型安全的面向对象方法的所有内容.
 
 
 ### [The Go Programming Language](http://gopl.io/)
 
 <a href='http://gopl.io/'><img src="http://gopl.io/cover.png" width="120px"/></a>
 
-* Go编程语言*是任何权威资源
-想要学习Go的程序员.
-Alan AA Donovan和Brian W. Kernighan向您展示如何写清楚
-和惯用去解决现实世界的问题.
-本书不假设Go的先验知识或经验
-any specific language, so you'll find it accessible whether you're
-最适合使用JavaScript，Ruby，Python，Java或C ++.
+* Go编程语言*是任何语言的权威资源
+想学习Go的程序员.
+艾伦·AA·多诺万（Alan AA Donovan）和布莱恩·W·克尼根（Brian W.
+和惯用语去解决现实世界中的问题.
+该书不假定Go的先验知识或经验
+任何特定的语言，因此无论您是否
+最适合JavaScript，Ruby，Python，Java或C ++.
 
-这本书有数百个有趣和实用的例子
-惯用Go代码涵盖整个语言，它最重要的库，
-和广泛的应用.
-源代码可从该书的配套网站免费下载
+本书提供了数百个有趣且实用的示例
+惯用的Go代码，涵盖了整个语言，最重要的库，
+和广泛的应用
+可从本书的配套网站免费下载源代码
 [gopl.io](http://gopl.io/),
-并且可以使用`go get`命令方便地获取，构建和安装.
+并可以使用go get命令方便地获取，构建和安装.
 
 ### [Introducing Go: Build Reliable, Scalable Programs](http://shop.oreilly.com/product/0636920046516.do)
 
 <a href="http://shop.oreilly.com/product/0636920046516.do"><img src="http://akamaicovers.oreilly.com/images/0636920046516/lrg.jpg" width="120px"/></a>
 
- 非常适合熟悉编程基础知识的初学者，这本实用指南简单介绍了Go，这是Google的通用编程语言.  作者Caleb Doxsey涵盖了语言的核心功能，每章都有逐步说明和练习，以帮助您练习所学内容.
+ 本动手指南非常适合熟悉编程基础知识的初学者，它简单介绍了Google的通用编程语言Go.  作者Caleb Doxsey在每一章中都提供了分步说明和练习，以介绍该语言的核心功能，以帮助您练习所学知识.
 
 ### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821)
 
 <a href="https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821"><img src="https://images.manning.com/720/960/resize/book/3/ddd56a6-ba2b-4ca4-bda2-540761b91c55/Go-Youngman_hi-res_REV.png" width="120px"/></a>
 
- *使用Go *编程向您介绍强大的Go语言，而不会混淆行话或高级理论.  通过32个快速课程，您将快速掌握创新的Go编程语言的基础知识！
+ 《使用Go进行编程》 *向您介绍了强大的Go语言，而不会混淆术语或高级理论.  通过完成32个速成课程，您将快速学习创新的Go编程语言的基础！
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
 <a href="https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ"><img src="https://images-na.ssl-images-amazon.com/images/I/41tDoH9l0GL.jpg" width="120px"/></a>
 
- Go，通常被称为golang，是一种最初在Google于2007年开发的编程语言.本书可帮助您开始使用Go编程.  它描述了该语言的所有元素，并用代码示例说明了它们的用法.
+ Go通常称为golang，是一种Google于2007年最初开发的编程语言.这本书可帮助您入门Go编程.  它描述了语言的所有元素，并通过代码示例说明了它们的用法.
 
 ### [Go Recipes](http://www.apress.com/us/book/9781484211892)
 
 <a href="http://www.apress.com/us/book/9781484211892"><img src="https://images.springer.com/sgw/books/medium/9781484211892.jpg" width="120px"/></a>
 
- 使用问题解决方法解决您的Go问题.  每个配方都是Go中实际编程问题的独立答案.  Go Recipes包含处理Go基础知识的配方，允许您构建简单，可靠和高效的软件.  其他主题包括使用现代NoSQL数据库（如MongoDB和RethinkDB）处理数据.  本书提供了深入的指导，用于在Go中为您的移动客户端应用程序和Web客户端应用程序构建高度可扩展的后端API.
+ 使用问题解决方法解决您的Go问题.  每个食谱都是Go中实际编程问题的完整答案.  Go食谱包含处理Go基础知识的食谱，可让您构建简单，可靠和高效的软件.  其他主题包括使用现代NoSQL数据库（例如MongoDB和RethinkDB）处理数据.  本书为在Go中为您的移动客户端应用程序和Web客户端应用程序构建高度可扩展的后端API提供了深入的指导.
 
 ### [Learning Go programming](https://www.packtpub.com/application-development/learning-go-programming)
 
@@ -113,141 +115,158 @@ any specific language, so you'll find it accessible whether you're
 
 <a href="https://leanpub.com/api-foundations"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/api-foundations/hero?1504290765" width="120px"/></a>
 
- 通过本书，您将学习使用Go，利用它的多线程特性和类型化语法.  在Go中启动API实现是迈向坚如磐石的API的第一步.
+ 通过本书，您将学习使用Go，并利用Go的多线程特性和类型化语法.  在Go中启动API实施是迈向坚实的API的第一步.
 
 **高级书籍**
 ---
 
 ### [Test-driven development with Go ](https://leanpub.com/golang-tdd) *Free*
 
- golang中测试驱动开发的简短指南.  免费 [read online](https://leanpub.com/golang-tdd/read).
+A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
- 深入研究网络架构和Go中的关键主题，例如数据序列化，应用程序级协议，字符集和编码.  本书涵盖了网络架构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
+ 深入研究网络体系结构和Go中的关键主题，例如数据序列化，应用程序级别协议，字符集和编码.  本书涵盖了网络体系结构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
 
-除了基础知识之外，Network Programming with Go涵盖了关键网络和安全问题，如HTTP和HTTPS，模板，远程过程调用（RPC），Web套接字（包括HTML5 Web套接字等）.
+除了基础知识之外，Go语言的网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783983483/lrg.jpg" width="120px"/>
 
- 本书将向您介绍并发的历史，Go如何利用它，Go如何与其他语言不同，以及Go的并发核心的特性和结构.  在本书的每一步中，本书将提供真实，可用的示例，并详细描述所使用的方法.  最后，您可以放心地在Go中设计安全，数据一致，高性能的并发应用程序.
+ 本书将带您了解并发的历史，Go的使用方式，Go与其他语言的不同之处以及Go并发核心的功能和结构.  本书的每一步，都将提供真实，可用的示例，并详细说明所用方法.  最终，您将在Go中设计一个安全，数据一致，高性能的并发应用程序感到自在.
 
 ### [Go in Practice](http://www.manning.com/butcher/)
 
 <img src="http://www.manning.com/butcher/butcher_cover150.jpg" width="120px"/>
 
- Go in Practice将指导您完成包管理，微服务通信等关键领域的数十种实际技术.  遵循烹饪书式问题/解决方案/讨论格式，这本实用手册建立在Go语言的基本概念之上，并介绍了您可以在日常应用中使用的具体策略.  您将学习使用云中的Go，测试和调试，路由，网络应用程序等构建Web服务的技术.
+ “练习中”将指导您在包管理，微服务通信等关键领域中使用多种实际技术.  该实用手册遵循食谱风格的“问题/解决方案/讨论”格式，以Go语言的基本概念为基础，并介绍了可在日常应用程序中使用的特定策略.  您将学习用于构建Web服务，在云中使用Go，测试和调试，路由，网络应用程序等的技术.
 
 ### [A Go Developer's Notebook](https://leanpub.com/GoNotebook/)
 
 <img src="https://s3.amazonaws.com/titlepages.leanpub.com/GoNotebook/large?1425551366"  width="120px"/>
 
-开发人员在golang中的经验.
+开发人员对golang的体会.
 
 ### [The Go Programming Language Phrasebook](http://www.informit.com/store/go-programming-language-phrasebook-9780321817143)
 
 <img src="http://www.informit.com/ShowCover.aspx?isbn=9780321817143&type=f"  width="120px"/>
 
- 经过测试，易于调整的代码示例阐明了Go开发的每一步，帮助您编写高度可扩展的并发软件.  您将掌握Go特定的习惯用法，用于处理字符串，集合，数组，错误处理，goroutines，切片，地图，通道，数字，日期，时间，文件，网络，Web应用程序，运行时等.
+ 经过测试的，易于适应的代码示例阐明了Go开发的每个步骤，可帮助您编写高度可扩展的并发软件.  您将掌握Go特定的习惯用法，以使用字符串，集合，数组，错误处理，goroutine，切片，地图，通道，数字，日期，时间，文件，网络，Web应用程序，运行时等.
 
 ### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
  
-<img src="https://www.packtpub.com/sites/default/files/B05557.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05557.png" width="120px"/>
 
-使用TDD学习惯用，高效，干净，可扩展的Go设计和并发模式.
-
-### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
-
-<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
-
-在Go中构建并发，易于维护的响应式应用程序.
+通过使用TDD学习惯用，高效，干净和可扩展的Go设计和并发模式.
 
 ### [Black Hat Go](https://www.nostarch.com/blackhatgo)
 
 [<img src="https://www.nostarch.com/sites/default/files/styles/uc_product_full/public/bhg_cover-front.png" width="120px"/>](https://www.nostarch.com/blackhatgo)
 
- 在Black Hat Go中，您将学习如何在Go中编写功能强大且有效的渗透测试工具，这是一种因其速度和可扩展性而备受推崇的语言.  首先介绍Go基础知识，如数据类型，控制结构和错误处理;  然后，深入了解Go的进攻能力.
+ 在Black Hat Go中，您将学习如何在Go中编写强大而有效的渗透测试工具，而Go是一种因其速度和可扩展性而受人尊敬的语言.  首先介绍Go基础知识，例如数据类型，控制结构和错误处理.  然后，深入研究Go的进攻能力.
 
 ### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
 
- 本书的主要目标是帮助开发人员避免常见错误，同时通过“实践方法”学习新的编程语言.  本书提供了关于“如何安全地执行”的详细信息，显示了在开发过程中可能出现的安全问题.
+ 本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言.  本书提供了有关“如何安全地进行操作”的详细信息，显示了在开发过程中可能会出现什么样的安全问题.
 
 ### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
 
- 众所周知，并发很难做到正确，但幸运的是，Go开源编程语言使得并发处理易于处理.  如果您是熟悉Go的开发人员，那么这本实用的书籍将演示最佳实践和模式，以帮助您将并发性纳入您的系统.
+ 众所周知，并发很难实现，但是幸运的是，Go开源编程语言使处理并发变得既容易又容易.  如果您是熟悉Go的开发人员，那么这本实用手册将演示最佳实践和模式，以帮助您将并发整合到系统中.
 
+### [Hands-On Dependency Injection in Go](https://amzn.to/2Q6dLQC)
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/51%2B8EdihuKL._SX404_BO1,204,203,200_.jpg" width="120px"/>
+
+Go中的动手依赖注入为您带来了一段旅程，教会您如何使用Go中可用的各种方法重构现有代码以采用依赖注入（DI）.
+
+ 本书介绍的六种方法中，有些是常规的，例如构造函数或方法注入，而另一些是非常规的，例如即时注入或配置注入.  每种方法都将详细说明，重点在于它们的优点和缺点，然后逐步说明如何应用该方法.  通过大量示例，您将学习如何利用DI将代码转换为简单灵活的代码.
+
+Go中的动手依赖注入采用务实的方法，并着重于代码，用户体验以及如何通过增量更改获得长期利益.
 
 **Web开发**
 ----
 ### [Building Web Apps with Go](https://www.gitbook.com/book/codegangsta/building-web-apps-with-go/details) *Free*
 
- 开始使用Go构建Web应用程序的良好资源.  免费 [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
+ 一个很好的资源，开始使用Go构建Web应用程序.  免费给 [read online](http://codegangsta.gitbooks.io/building-web-apps-with-go/content/).
 
 ### [Build Web Application with Golang](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details) *Free*
 
- 另一本在Golang中学习Web开发的好书.  免费 [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
+ 另一本很棒的书，用于学习Golang中的Web开发.  免费给 [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
 ### [Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
 
- 本书将向您介绍使用惯用REST实践设计，构建和部署Web服务的最重要方面，重点是速度，安全性和灵活性.  首先，您将使用HTTP包在Go中构建第一个API.  您将看到设计和构建应用程序，包括模型 - 视图 - 控制器等流行的设计结构.  您还将了解将代码部署到暂存和开发的方法.  最后，您将了解Go中的安全功能如何用于防止SQL注入和敏感数据泄露.
+ 本书将引导您完成使用惯用的REST实践设计，构建和部署Web服务的最重要方面，重点是速度，安全性和灵活性.  您将开始使用HTTP包在Go中构建第一个API.  您将研究设计和构建应用程序，包括流行的设计结构，例如Model-View-Controller.  您还将了解将代码部署到登台和开发的方法.  最后，您将看到Go中的安全功能如何用于防止SQL注入和敏感数据泄露.
 
 ### [Level Up Your Web Apps With Go](https://learnable.com/books/level-up-your-web-apps-with-go)
 
 <img src="http://akamaicovers.oreilly.com/images/9780992461294/lrg.jpg" width="120px"/>
 
- 本书为您提供在Web应用程序中使用Go所需的一切.  您将学习基本概念 - 语言结构，标准库和Go工具 - 然后处理更多高级功能，如并发概念，测试方法和包结构.
+ 本书为您提供了在Web应用程序中使用Go所需的全部功能.  您将学习基本概念-语言结构，标准库和Go工具-然后处理并发概念，测试方法和包结构等更高级的功能.
 
- 在每一步，您都会获得有关Go中更好编码的建议.  您将看到如何构建项目，如何有效地使用并发，以及测试的最佳实践 - 以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
+ 在每个步骤中，您都会获得有关在Go中进行更好的编码的建议.  您将看到如何构建项目，如何有效地使用并发以及进行测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
 <img src="http://www.manning.com/chang/chang_cover150.jpg" width="120px"/>
 
- Go Web Programming教您如何使用现代设计原则在Go中构建Web应用程序.  您将通过大量示例介绍核心概念，如处理请求和发送响应，模板引擎和数据持久性.  您还将深入研究更高级的主题，例如并发性，Web应用程序测试和部署到准系统服务器和PaaS提供程序.
+ Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序.  您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性.  您还将深入探讨更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
 
 ### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
 <img src="https://raw.githubusercontent.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
- 本书的目的是教授如何在Go中为那些了解Go的人开发Web应用程序，并掌握有关Web应用程序的基本信息.  我们（您）将在不使用第三方框架且使用尽可能少的外部库的情况下构建Web应用程序.  优点是，在没有框架的情况下进行编码时，您将学到很多东西.
+ 编写这本书的目的是为那些对Go有所了解并掌握有关Web应用程序的基本信息的人讲授如何在Go中开发Web应用程序.  我们（您）将在不使用第三方框架且使用尽可能少的外部库的情况下构建webapp.  这样做的好处是，在没有框架的情况下进行编码会学到很多东西.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 
 <a href="https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797"><img src="https://images-na.ssl-images-amazon.com/images/I/51oy5Nd9BoL._SX384_BO1,204,203,200_.jpg" width="120px"/></a>
 
- 如今，公司和开发商需要以极快的速度应对不断变化的市场.  不是建立在高度可用，快速发展的软件上的组织正在走向恐龙的道路.  Cloud Native Go汇集了开发人员构建大规模云应用程序所需的知识，以满足当今客户和市场的永不满足的需求.
+ 如今，公司和开发人员需要以惊人的速度应对不断变化的市场.  不是建立在高可用性，快速发展的软件上的组织正在走向恐龙.  Cloud Native Go汇集了开发人员构建大规模云应用程序所需的知识，这些应用程序可以满足当今客户和市场的无限需求.
 
 ### [Web Development with Go: Learn to Create Real World Web Applications using Go](https://gumroad.com/l/web-development-with-go)
 
-<a href="https://gum.co/web-development-with-go"><img src="http://www.calhoun.io/static/Cover300ppi.png" width="120px"/></a>
+<a href="https://static-2.gumroad.com/res/gumroad/9387844778319/asset_previews/7446424985b5f9cb53689105d297021d/retina/Cover300ppi.png" width="120px"/></a>
 
- Go开发Web是为了向初学者和专家教授如何创建和部署真实的Web应用程序.  您不会构建样板TODO列表，而是从头开始创建和部署类似于Pixieset的生产就绪照片库应用程序.  本书假设没有以前的Web开发经验，并涵盖了成功构建自己的Web应用程序所需了解的所有内容.
+ 使用Go进行Web开发的目的是教初学者和专家如何创建和部署真正的Web应用程序.  您不会建立样板的TODO列表，而是从头开始创建和部署类似于Pixieset的可用于生产的照相馆应用程序.  本书假定没有以前的Web开发经验，并且介绍了成功构建自己的Web应用程序所需的所有知识.
 
 ### [Go: Building Web Applications](https://amzn.com/B01LD8K5C0)
 
 <a href="https://amzn.com/B01LD8K5C0"><img src="https://images-na.ssl-images-amazon.com/images/I/51vKBWRztbL.jpg" width="120px"/></a>
 
-本课程是一个非常宝贵的资源，可帮助您了解Go的强大功能，以构建简单，可靠，安全且高效的Web应用程序.
+本课程是宝贵的资源，可帮助您了解Go的强大功能，以构建简单，可靠，安全和有效的Web应用程序.
 
 ### [Building Microservices with Go](https://www.packtpub.com/application-development/building-microservices-go)
 
-<img src="https://www.packtpub.com/sites/default/files/B05528.png" width="120px"/>
+<img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/b/0/b05528.png" width="120px"/>
 
- 无论您是计划新应用程序还是现有的整体应用程序，本书都将通过实际示例说明并说明各种规模的团队如何开始解决微服务问题.  它将帮助您了解Docker和Docker-Compose以及如何使用它来隔离微服务依赖关系和构建环境.  最后，我们向您展示了监控，测试和保护您的微服务的各种技术.
+ 无论您是计划新的应用程序还是在现有的整体中工作，本书都将通过实际示例解释和说明各种规模的团队如何开始解决微服务问题.  它将帮助您了解Docker和Docker-Compose，以及如何将其用于隔离微服务依赖项和构建环境.  最后，我们向您展示了各种监视，测试和保护微服务的技术.
 
 ### [12 Factor Applications with Docker and Go](https://leanpub.com/12fa-docker-golang)
 
 <a href="https://leanpub.com/12fa-docker-golang"><img src="https://s3.amazonaws.com/titlepages.leanpub.com/12fa-docker-golang/hero?1503844662" width="120px"/></a>
 
- 这本书充满了关于如何使用Docker和Go创建最终12 Factor应用程序的示例.  它涉及到各个步骤 [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) 准则以及如何使用Go和Docker实现它们.
+ 一本书中包含有关如何使用Docker和Go创建最终12因子应用程序的示例.  它遍历了 [The Twelve-Factor App](https://github.com/dariubs/GoBooks/blob/master/12factor.net) 指南以及如何使用Go和Docker实施它们.
+
+### [Build SaaS apps in Go](https://buildsaasappingo.com)
+
+<a href="https://buildsaasappingo.com"><img src="https://buildsaasappingo.com/public/basaig.jpg" width="120"/></a>
+
+我们将共同构建一个强大的，API优先的，可重用的代码库，适用于 
+ 构建SaaS或香草Web应用程序.  到这本书的结尾，您将拥有 
+一个坚实的框架，可以用作将来项目的起点.
+
+### [Let's Go!](https://lets-go.alexedwards.net/)
+
+<img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
+
+ Let&#39;s Go逐步教您如何使用Go创建快速，安全和可维护的Web应用程序.  它指导您完成从头开始的实际应用程序构建，涵盖诸如如何构建代码，管理依赖关系，对用户进行身份验证和授权，保护服务器以及测试应用程序之类的主题.
 
 Resources
 ====
@@ -258,11 +277,12 @@ Resources
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
+### [Coursera Specialization : Programming with Go](https://www.coursera.org/specializations/google-golang/)
 
 Contributing
 ====
-欢迎您的贡献，请关注 [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
+Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md)!
 
 License
 ====
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可协议授权</a> .
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />这项工作是根据<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可授权的</a> .

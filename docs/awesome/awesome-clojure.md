@@ -20,6 +20,7 @@
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid)：具有新颖UI的团队聊天应用程序，可以带来更好的对话
   - [Atea](https://github.com/pkamenarsky/atea)：用于MacOS的简约菜单栏时间跟踪器
+  - [Accelerated Text](https://github.com/tokenmill/accelerated-text)：自然语言生成环境（后端：Clojure，前端：JS）
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)

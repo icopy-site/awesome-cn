@@ -934,6 +934,8 @@ be
 * [Cornac](https://github.com/PreferredAI/cornac) -多模式推荐系统的比较框架，重点放在利用辅助数据的模型上.
 * [JAX](https://github.com/google/jax) - JAX is Autograd and XLA, brought together for high-performance machine learning research.
 * [fast.ai](https://github.com/fastai/fastaihttps://github.com/fastai/fastai) -一个库简化了使用现代最佳实践训练快速而准确的神经网络的过程，并且已经“开箱即用”地支持视觉，文本，表格和协作（协作过滤）模型.
+* [Catalyst](https://github.com/catalyst-team/catalyst)  -用于PyTorch DL和RL研究的高级工具.  它的开发侧重于可重复性，快速实验和代码/想法重用.  能够研究/开发新事物，而不是编写另一个常规火车循环.
+
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
 

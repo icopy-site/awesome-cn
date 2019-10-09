@@ -88,6 +88,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 ## CLI Utils
  * [cride](https://github.com/j8r/cride) -轻量级的CLI文本编辑器/ IDE
  * [progress_bar.cr](https://github.com/TPei/progress_bar.cr) -一个简单且可自定义的进度条
+ * [tablo](https://github.com/hutou/tablo) -灵活的终端表生成器
  * [tallboy](https://github.com/epoch/tallboy) -生成支持跨多个列的单元格的ASCII字符表
  * [terminal_table.cr](https://github.com/benoist/terminal_table.cr) -简单的ASCII表生成器
  * [terminimal](https://github.com/aca-labs/terminimal) -用于构建人类终端应用程序的小型CLI工具包
@@ -355,6 +356,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [retriable.cr](https://github.com/Sija/retriable.cr) -简单的DSL重试失败的代码块
  * [tren](https://github.com/sdogruyol/tren) -给您的SQL一些爱
  * [ulid](https://github.com/SuperPaintman/ulid) -通用唯一词典分类标识符（ULID）
+ * [zaru_crystal](https://github.com/szTheory/zaru_crystal) -文件名清理
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) -本机BSON实施
@@ -455,7 +457,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) 水晶用
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) -编译使用普通晶体表达式的时间模板语言（Crystal stdlib）
  * [Kilt](https://github.com/jeromegn/kilt) -模板引擎的抽象层
- * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁，模板化的语言
+ * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁的模板语言
  * [teeplate](https://github.com/mosop/teeplate) -用于渲染多个模板文件的库
  * [temel](https://github.com/f/temel) -Crystal的可扩展HTML :: Builder替代品，支持自定义标签定义
 
@@ -466,7 +468,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）

@@ -172,7 +172,7 @@
 - [Jinq](https://github.com/my2iu/Jinq) -通过Java 8 Lambda的符号执行（在JPA或jOOQ之上）进行类型安全的数据库查询.
 - [jOOQ](https://www.jooq.org) -根据SQL模式生成类型安全代码.
 - [Liquibase](http://www.liquibase.org) -独立于数据库的库，用于跟踪，管理和应用数据库架构更改.
-- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，提供并发集合，这些并发集合备份在磁盘或堆外内存中.
+- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，提供并发集合，这些并发集合备份在磁盘上或堆外内存中.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -无需安装或外部依赖项的MariaDB启动器.
 - [OrientDB](https://orientdb.com/orientdb) -在Hazelcast顶部编写的可嵌入式分布式数据库.
 - [Presto](https://github.com/prestodb/presto) -用于大数据的分布式SQL查询引擎.
@@ -422,7 +422,7 @@
 - [JSON-io](https://github.com/jdereg/json-io)  -将Java转换为JSON.  将JSON转换为Java.  漂亮的打印JSON.  Java JSON序列化器.
 - [jsoniter](http://jsoniter.com) -具有迭代器和惰性分析API的快速灵活的库.
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare)  -基于Jackson的流API的JSON解析和序列化库.  优于GSON和Jackson的资料库.
-- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型，如List和Map.
+- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型（如List和Map）.
 - [Yasson](https://github.com/eclipse/yasson) -类和JSON文档之间的绑定层类似于JAXB.
 
 ### JSON Processing
@@ -469,7 +469,7 @@
 *提供用于从数据中学习的特定统计算法的工具.*
 
 - [Apache Flink](https://flink.apache.org) -快速，可靠的大规模数据处理引擎.
-- [Apache Mahout](https://mahout.apache.org) -专注于协作过滤，聚类和分类的可扩展算法.
+- [Apache Mahout](https://mahout.apache.org) - Scalable algorithms focused on collaborative filtering, clustering and classification.
 - [Apache Spark](https://spark.apache.org) -数据分析集群计算框架.
 - [DatumBox](http://www.datumbox.com) -提供几种用于自然语言处理的算法和预先训练的模型.
 - [DeepDive](http://deepdive.stanford.edu) -从非结构化数据创建结构化信息，并将其集成到现有数据库中.
@@ -655,7 +655,7 @@
 - [jHiccup](https://github.com/giltene/jHiccup) -记录和记录平台JVM停顿.
 - [JITWatch](https://github.com/AdoptOpenJDK/jitwatch) -分析HotSpot JVM对JIT编译器的优化.
 - [JMH](http://openjdk.java.net/projects/code-tools/jmh)  -Java工具，用于构建，运行和分析以Java和其他针对JVM的其他语言编写的nano / micro / milli / macro基准测试.  （仅GPL-2.0和Classpath-exception-2.0）
--[JProfiler！[c]]（https://www.ej-technologies.com/products/jprofiler/overview.html）-具有JEE支持的JDBC，JPA和NoSQL数据库分析.
+-[JProfiler！[c]]（https://www.ej-technologies.com/products/jprofiler/overview.html）-带有JEE支持的JDBC，JPA和NoSQL数据库分析.
 - [LatencyUtils](https://github.com/LatencyUtils/LatencyUtils) -延迟测量和报告实用程序.
 -[XRebel！[c]]（https://zeroturnaround.com/software/xrebel）-带有浏览器内窗口小部件的Web应用程序实时配置.
 -[YourKit Java Profiler！[c]]（https://www.yourkit.com/features）-适用于在JVM上运行的任何应用程序的Profiler.
@@ -697,7 +697,7 @@
 - [IO](http://commons.apache.org/proper/commons-io) -收集I / O实用程序.
 - [Javaflow](http://commons.apache.org/sandbox/commons-javaflow) -继续实施以捕获应用程序的状态.
 - [JCI](http://commons.apache.org/proper/commons-jci) -Java编译器接口.
-- [JCS](http://commons.apache.org/proper/commons-jcs) - Java Caching System.
+- [JCS](http://commons.apache.org/proper/commons-jcs) -Java缓存系统.
 - [Jelly](http://commons.apache.org/proper/commons-jelly) -基于XML的脚本和处理引擎.
 - [Jexl](http://commons.apache.org/proper/commons-jexl) -扩展JSTL的表达语言的表达语言.
 - [JNet](http://commons.apache.org/sandbox/commons-jnet) -JNet允许通过java.net API动态使用注册的URL流处理程序.
@@ -775,7 +775,7 @@
 - [JGraphT](https://github.com/jgrapht/jgrapht) -提供数学图形理论对象和算法的图形库.
 - [JGraphX](https://github.com/jgraph/jgraphx) -用于可视化（主要是Swing）并与节点边缘图进行交互的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) -用于地球物理科学计算，可视化和数字信号分析的库.
-- [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现对JVM上的科学计算进行高效的内存中分析.
+- [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现针对JVM上的科学计算的高效内存中分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts)  -生成可以与Swing和JavaFX一起显示或导出为PDF，SVG，PNG和JPEG的各种各样的3D图表.  （仅限GPL-3.0）
 - [Tablesaw](https://github.com/lwhite1/tablesaw) -包括数据框，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  -用于绘制数据的轻量级库.  有许多可定制的图表类型.
@@ -899,6 +899,7 @@
 - [AssertJ](https://joel-costigliola.github.io/assertj) -流利的断言可提高可读性.
 - [JSONAssert](http://jsonassert.skyscreamer.org) -简化了JSON字符串的测试.
 - [Truth](https://github.com/google/truth) -Google的主张和主张框架.
+- [XMLUnit](https://github.com/xmlunit/xmlunit) -简化了XML输出的测试.
 
 #### Miscellaneous
 

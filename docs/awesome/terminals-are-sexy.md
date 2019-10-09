@@ -26,7 +26,7 @@
 * [bash](https://www.gnu.org/software/bash/) -GNU工程的外壳（Bourne Again SHell）.
 * [fish](https://fishshell.com/) -智能和用户友好的命令行外壳.
 * [PowerShell](https://github.com/PowerShell/PowerShell) -为处理结构化数据而优化的自动化和配置工具/框架.
-* [xonsh](https://xon.sh/) - Python-ish, BASHwards-looking shell language and command prompt.
+* [xonsh](https://xon.sh/) -类似于Python的BASHwards外观的Shell语言和命令提示符.
 * [zsh](https://www.zsh.org/) -具有脚本语言的强大Shell.
 
 ### ZSH
@@ -90,7 +90,7 @@
 
 *性感的第三方终端仿真应用程序.
 
-* [Alacritty](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+* [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) -macOS的老式终端.
 * [Cmder](https://github.com/cmderdev/cmder) -适用于Windows的可爱的控制台模拟器程序包.
 * [ConEmu](https://github.com/Maximus5/ConEmu) -具有选项卡，拆分，地震样式等的可定制Windows终端.
@@ -114,6 +114,7 @@
 * [Tilix](https://gnunn1.github.io/tilix-web/) -遵循Gnome人机界面指南的高级GTK3平铺终端模拟器.
 * [TotalTerminal](https://totalterminal.binaryage.com/) -可通过热键使用系统范围的终端.
 * [Upterm](https://github.com/railsware/upterm) -21世纪的终端仿真器.
+* [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) -主要用于Xfce桌面环境的现代终端模拟器.
 * [xterm](https://invisible-island.net/xterm/) -X Window系统的终端仿真器.
 * [ZOC](https://www.emtec.com/zoc/index.html) -适用于macOS和Windows的SSH / Telnet客户端和终端仿真器.
 
@@ -159,7 +160,7 @@
 * [oneget](https://github.com/OneGet/oneget) -PackageManagement（aka OneGet）是Windows的软件包管理器.
 * [ruckzuck](https://ruckzuck.tools/) -Windows的软件包管理器，是一种安装和更新软件的快速方法.
 * [scoop](https://scoop.sh/) -Windows的软件包管理器.
-* [wpkg](https://windowspackager.org/documentation/wpkg) -Windows的自动化软件部署，升级和删除程序.
+* [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
 
 
 ## Text Editors
@@ -213,6 +214,7 @@
 * [jq.node](https://github.com/FGRibreau/jq.node) -Shell中的命令行JSON /字符串处理器，JavaScript和Lodash.
 * [jrnl](https://github.com/maebert/jrnl) -简单的命令行日志应用程序，将您的日志存储在纯文本文件中.
 * [k](https://github.com/supercrabtree/k) -具有git功能的zsh的目录列表.
+* [kubebox](https://github.com/astefanutti/kubebox) -Kubernetes的终端控制台.
 * [lexis](https://github.com/k4m4/lexis)  -字数统计变得容易.  检索字符串或标准输入中的单词数.
 * [lf](https://github.com/gokcehan/lf) -终端文件管理器.
 * [lolcat](https://github.com/busyloop/lolcat) -彩虹和独角兽！
@@ -221,7 +223,7 @@
 * [neofetch](https://github.com/dylanaraps/neofetch)  -在终端中获取Linux桌面屏幕截图的系统/主题信息.  替代屏幕抓取.
 * [nnn](https://github.com/jarun/nnn) -小巧，快速，功能丰富的文件管理器.
 * [ranger](https://ranger.github.io/) -具有vi键绑定的控制台文件管理器.
-* [rebound](https://github.com/shobrook/rebound) -命令行调试器，当您遇到编译器错误时可立即获取堆栈溢出结果.
+* [rebound](https://github.com/shobrook/rebound) - Command-line debugger that instantly fetches Stack Overflow results when you get a compiler error.
 * [reddit terminal viewer](https://github.com/michael-lazar/rtv) -从您的终端浏览Reddit.
 * [ripgrep](https://github.com/BurntSushi/ripgrep) -代码搜索工具，例如ack和the_silver_searcher，但速度更快.
 * [screenfetch](https://github.com/KittyKatt/screenFetch) -在终端中获取Linux桌面屏幕截图的系统/主题信息.
@@ -240,6 +242,7 @@
 * [wal](https://github.com/dylanaraps/wal) -即时生成和更改colorchemes.
 * [whereami](https://github.com/rafaelrinaldi/whereami) -从CLI获取您的地理位置信息.
 * [wttr.in](https://github.com/chubin/wttr.in) -检查天气的正确方法.
+* [yadm](https://yadm.io) -对点文件进行基于git的无缝管理.
 * [youtube-dl](https://rg3.github.io/youtube-dl/) -从YouTube下载视频
 * [z](https://github.com/rupa/z) -根据与给定正则表达式匹配的历史记录跳转到文件夹的工具
 * [z.lua](https://github.com/skywind3000/z.lua) -新的cd命令，可帮助您通过学习习惯来更快地导航.

@@ -122,12 +122,13 @@
 - [cash-cli](https://github.com/xxczaki/cash-cli) - Convert between 170 currencies.
 - [taskbook](https://github.com/klauscfhq/taskbook) -命令行栖息地的任务，公告板和注释.
 - [discharge](https://github.com/brandonweiss/discharge) -轻松地将静态网站部署到Amazon S3.
+- [npkill](https://github.com/voidcosmos/npkill) -轻松查找并删除旧的沉重的node_modules文件夹.
 
 
 ### Functional programming
 
 - [lodash](https://github.com/lodash/lodash)  -实用程序库，可提供一致性，自定义，性能和其他功能.  更好更快的Underscore.js.
-- [immutable](https://github.com/facebook/immutable-js) -不可变的数据收集.
+- [immutable](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [Ramda](https://github.com/ramda/ramda)  -实用程序库，侧重于通过自动计算和相反的参数顺序实现的灵活功能组合.  避免变异数据.
 - [Folktale](https://github.com/origamitower/folktale) -使用JavaScript进行通用功能编程的库套件，可让您编写优雅的模块化应用程序，减少错误，并增加重复使用率.
 - [Mout](https://github.com/mout/mout) -与其他现有解决方案之间最大区别的实用程序库是，您可以选择仅加载所需的模块/功能，而无需额外的开销.
@@ -216,7 +217,7 @@
 - [columnify](https://github.com/timoxley/columnify)  -创建适合控制台输出的基于文本的列.  支持单元包装.
 - [cli-columns](https://github.com/shannonmoeller/cli-columns) -分栏的unicode和ansi安全文本列表.
 - [cfonts](https://github.com/dominikwilkowski/cfonts) -控制台的性感ASCII字体.
-- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行且可单独控制的CLI微调器.
+- [multispinner](https://github.com/codekirei/node-multispinner) -多个同时进行的，可单独控制的CLI微调器.
 - [omelette](https://github.com/f/omelette) -Shell自动补全助手.
 - [cross-env](https://github.com/kentcdodds/cross-env) -跨平台设置环境变量.
 - [shelljs](https://github.com/shelljs/shelljs) -可移植的Unix shell命令.
@@ -534,7 +535,7 @@
 	- [Mongoose](https://github.com/Automattic/mongoose) -优雅的MongoDB对象建模.
 	- [Waterline](https://github.com/balderdashy/waterline) -与数据存储区无关的工具，可大大简化与一个或多个数据库的交互.
 	- [OpenRecord](https://github.com/PhilWaldmann/openrecord)  -PostgreSQL，MySQL，SQLite3和RESTful数据存储的ORM.  类似于ActiveRecord.
-	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL PostgreSQL框架.
+	- [pg-promise](https://github.com/vitaly-t/pg-promise) -使用Promise的本机SQL的PostgreSQL框架.
 	- [slonik](https://github.com/gajus/slonik) -具有严格类型，详细日志记录和断言的PostgreSQL客户端.
 	- [Objection.js](https://github.com/Vincit/objection.js) -基于SQL查询生成器Knex构建的轻量级ORM.
 	- [TypeORM](https://github.com/typeorm/typeorm) -适用于PostgreSQL，MariaDB，MySQL，SQLite等的ORM.
@@ -673,7 +674,7 @@
 
 - [Acorn](https://github.com/ternjs/acorn) -小型，快速的JavaScript解析器.
 - [babel-parser](https://github.com/babel/babel/tree/master/packages/babel-parser) -Babel中使用的JavaScript解析器.
-- [cherow](https://github.com/cherow/cherow) - JavaScript parser with focus on performance and stability.
+- [cherow](https://github.com/cherow/cherow) -注重性能和稳定性的JavaScript解析器.
 
 
 ### Static site generators

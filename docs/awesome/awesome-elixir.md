@@ -71,7 +71,7 @@
 * [mason](https://github.com/spacepilots/mason)  -强制映射为结构.  这很有用，例如，当您连接REST API并想从响应中创建结构时.
 * [matrex](https://github.com/versilov/matrex) -使用CBLAS的C实现的Elixir / Erlang的快速矩阵库.
 * [merkle_tree](https://github.com/yosriady/merkle_tree) -Elixir中的Merkle哈希树实现.
-* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) -Elixir库扩展了“ Enum.min_by / 2”，“ Enum.max_by / 2”和“ Enum.min_max_by / 2”，以返回结果列表，而不只是一个结果列表.
+* [minmaxlist](https://github.com/seantanly/elixir-minmaxlist) -Elixir库扩展了`Enum.min_by / 2`，`Enum.max_by / 2`和`Enum.min_max_by / 2`以返回结果列表，而不只是一个结果列表.
 * [mmath](https://github.com/dalmatinerdb/mmath) -在二进制文件中对数字“数组”执行数学运算的库.
 * [monad](https://github.com/rmies/monad) -Haskell以Elixir时尚的语法启发了Monad.
 * [monadex](https://github.com/rob-brown/MonadEx) -使用Monad升级Elixir管道.
@@ -292,7 +292,7 @@
 * [discovery](https://github.com/undeadlabs/discovery) -使用Consul自动发现服务的OTP应用程序.
 * [erlcloud](https://github.com/erlcloud/erlcloud)  -用于Erlang的云计算库（Amazon EC2，S3，SQS，SimpleDB，Mechanical Turk，ELB）.  （[Docs](https://hexdocs.pm/erlcloud/)).
 * [ex_aws](https://github.com/CargoSense/ex_aws) -AWS客户端，支持Dynamo，Kinesis，Lambda，SQS和S3.
-* [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) -清洁CS API客户端.
+* [ex_riak_cs](https://github.com/ayrat555/ex_riak_cs) -根CS API客户端.
 * [fleet_api](https://github.com/jordan0day/fleet-api)  -Fleet（CoreOS）API的简单包装.  可以与etcd令牌或直接节点URL一起使用.
 * [Gandi](https://github.com/Ahamtech/elixir-Gandi) -用于Leaseweb基础架构的Gandi包装器.
 * [IElixir](https://github.com/pprzetacznik/IElixir) -Jupyter的Elixir编程语言内核.
@@ -326,7 +326,7 @@
 * [firex](https://github.com/msoedov/firex) -Firex是一个库，用于从elixir模块自动生成命令行界面（CLI）.
 * [getopt](https://github.com/jcomellas/getopt) -Erlang的命令行选项解析器.
 * [loki](https://github.com/khusnetdinov/loki) -用于创建交互式命令行应用程序的库.
-* [meld](https://github.com/Lac/meld) - Create global binaries from mix tasks.
+* [meld](https://github.com/Lac/meld) -从混合任务创建全局二进制文件.
 * [optimus](https://github.com/savonarola/optimus) -受Elixir启发的命令行选项解析器 [clap.rs](https://clap.rs/).
 * [phoenix-cli](https://phoenix-cli.github.io/) -Phoenix框架的命令行界面，例如Rails命令.
 * [progress_bar](https://github.com/henrik/progress_bar) -命令行进度条和微调器.
@@ -479,7 +479,7 @@
 * [pop3mail](https://hex.pm/packages/pop3mail) -Pop3客户端可通过命令行或Elixir API从收件箱下载电子邮件（包括附件）.
 * [ravenx](https://github.com/acutario/ravenx) -Elixir应用程序的通知分发库.
 * [smoothie](https://github.com/jfrolich/smoothie) -电子邮件模板的冰沙内联样式，并从HTML生成纯文本版本.
-* [swoosh](https://github.com/swoosh/swoosh) -通过SMTP，Sendgrid，Mandrill，Mailgun，Postmark和Phoenix的适配器与邮箱预览的适配器，在Elixir中轻松编写，传递和测试您的电子邮件.
+* [swoosh](https://github.com/swoosh/swoosh) -通过带有SMTP的SMTP，Sendgrid，Mandrill，Mailgun，Postmark和Phoenix适配器，在Elixir中轻松撰写，传递和测试您的电子邮件.
 
 ## Embedded Systems
 *嵌入式系统开发.*
@@ -676,6 +676,7 @@
 ## Games
 *用于游戏的库和实现.*
 
+* [Binbo](https://github.com/DOBRO/binbo) -用Erlang编写的国际象棋表示法 [Bitboards](https://www.chessprogramming.org/Bitboards)，准备在游戏服务器上使用.
 * [entice](https://github.com/entice/entice) -分布式实体组件系统框架，提供了自己的示例MMORPG服务器.
 * [mines](https://github.com/kevlar1818/mines) -终端中的扫雷克隆.
 * [vim_snake](https://github.com/theanht1/vim_snake) -具有Phoenix框架的Vim风格键绑定的经典多人蛇游戏.
@@ -798,7 +799,7 @@
 * [prometheus-phoenix](https://github.com/deadtrickster/prometheus-phoenix) -凤凰乐器prometheus.ex.
 * [prometheus-plugs](https://github.com/deadtrickster/prometheus-plugs) -插入用于prometheus.ex的仪器/出口商.
 * [prometheus.ex](https://github.com/deadtrickster/prometheus.ex) -灵丹妙药 [Prometheus.io](https://prometheus.io) 监视系统和时间序列数据库客户端.
-* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量标准的当前状态，包括CPU，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
+* [prometheus_process_collector](https://github.com/deadtrickster/prometheus_process_collector) -Prometheus收集器，可导出过程度量标准的当前状态，包括cpu，内存，文件描述符使用情况和本机线程计数以及过程启动和启动时间.
 * [spandex](https://github.com/spandex-project/spandex) -最初为Datadog APM开发的平台不可知跟踪库.
 * [telemetry](https://github.com/beam-telemetry/telemetry) -用于指标和工具的动态调度库.
 
@@ -828,7 +829,7 @@
 *基于Elixir构建的语言.*
 
 * [Elchemy](https://github.com/wende/elchemy) -允许将Elm编程语言代码转换为Elixir的编译器.
-* [lighthouse_scheme](https://github.com/jwhiteman/lighthouse-scheme) -在Elixir中内置的类似Lisp的小型语言和交互式REPL.
+* [lighthouse_scheme](https://github.com/jwhiteman/lighthouse-scheme) -一种小型的类似Lisp的语言和交互式REPL，内置于Elixir中.
 * [Monkey](https://github.com/fabrik42/writing_an_interpreter_in_elixir) -对于类似js的Monkey编程语言的解释器和REPL的Elixir实现.
 
 ## Lexical analysis
@@ -901,8 +902,8 @@
 *不属于上述类别的有用的库或工具.*
 
 * [address_us](https://github.com/smashedtoatoms/address_us) -用于将美国地址解析成其各个部分的库.
-* [Apex](https://github.com/bjro/apex) -超凡脱俗的药剂.
 * [AlloyCI](https://github.com/AlloyCI/alloy_ci) -AlloyCI是用Elixir编写的持续集成，部署和交付协调器，它利用GitLab CI Runner及其执行程序的功能来准备和运行管道.
+* [Apex](https://github.com/bjro/apex) -超凡脱俗的药剂.
 * [AtomVM](https://github.com/bettio/AtomVM) -AtomVM允许在嵌入式设备（例如ESP32和STM32微控制器）上运行Elixir / Erlang代码.
 * [bupe](https://github.com/milmazz/bupe) -EPUB生成器和解析器.
 * [charm](https://github.com/tomgco/elixir-charm) -使用ANSI终端字符写入颜色和光标位置.
@@ -1044,7 +1045,7 @@
 * [eternal](https://github.com/whitfin/eternal) -让您的ETS桌子永远，安全，轻松地活着.
 * [ets_map](https://github.com/antipax/ets_map) -Elixir软件包，提供由ETS表支持的类似Map的界面（Map / Access / Enumerable / Collectable）.
 * [eventstore](https://github.com/slashdotdash/eventstore) -使用Postgres进行持久化的CQRS EventStore，以Elixir编写.
-* [ex_bitcask](https://github.com/JonGretar/ExBitcask) -Basho的Bitcask密钥/值存储的Elixir包装器.
+* [ex_bitcask](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [ex_sider](https://github.com/ephe-meral/ex_sider) -用于Redis数据结构的Elixir Map / List / Set接口（使用Redix，但这是可配置的）.
 * [exleveldb](https://github.com/skovsgaard/exleveldb) -围绕Basho的LevelDB eleveldb模块的Elixir包装器.
 * [exnumerator](https://github.com/KamilLelonek/exnumerator) -以简单的方式将Elixir可枚举的类型定义与任何数据库一起使用.
@@ -1452,7 +1453,7 @@
 * [kane](https://github.com/peburrows/kane) - 一种 [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) 客户.
 * [keenex](https://github.com/bryanjos/keenex) -Keen.io API客户端.
 * [link_shrinkex](https://github.com/jonahoffline/link_shrinkex) -Elixir库，用于使用Google的URL Shortener API创建短URL.
-* [m2x](https://github.com/attm2x/m2x-elixir)  -AT＆T M2X的Elixir客户端，这是一种基于云的完全托管时间序列数据存储服务，用于网络连接的机器对机器（M2M）设备和物联网（IoT）.  （[Erlang Version](https://github.com/attm2x/m2x-erlang)).
+* [m2x](https://github.com/attm2x/m2x-elixir)  -AT＆T M2X的Elixir客户端，这是一种基于云的完全托管的时间序列数据存储服务，用于网络连接的机器对机器（M2M）设备和物联网（IoT）.  （[Erlang Version](https://github.com/attm2x/m2x-erlang)).
 * [mailchimp](https://github.com/duartejc/mailchimp) -MailChimp API版本3的基本Elixir包装器.
 * [mailgun](https://github.com/chrismccord/mailgun) -Elixir Mailgun客户端.
 * [mandrill](https://github.com/slogsdon/mandrill-elixir) -Elixir的山d包装.
@@ -1613,14 +1614,14 @@
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) -语言的温和介绍，Simon St. Laurent和J. David Eisenberg的大量代码示例和练习（2013）.
 * [Learn Functional Programming with Elixir](https://pragprog.com/book/cdc-elixir/learn-functional-programming-with-elixir)  -不要以命令式的心态登上Elixir火车！  为了充分利用功能语言，您需要从功能上进行思考（2017）.
 * [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/book/cmelixir/metaprogramming-elixir) -克里斯·麦考德（Chris McCord）（2015）全面解释了如何利用Elixir的元编程功能来改善Elixir编码.
-* [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)  -本书展示了Rails开发人员如何从他们现有的知识中受益以学习Phoenix.  Elvio Vicosa（2017年）.
+* [Phoenix for Rails Developers](http://www.phoenixforrailsdevelopers.com)  -本书展示了Rails开发人员如何从他们现有的知识中受益以学习Phoenix.  艾尔维奥·维科萨（Elvio Vicosa）（2017）.
 * [Phoenix in Action](https://manning.com/books/phoenix-in-action)  -利用您现有的Web开发技能，教您Phoenix的独特优势以及足够的Elixir来完成工作.  杰弗里·莱瑟尔（Geoffrey Lessel）（2017）.
 * [Phoenix Inside Out](https://shankardevy.com/phoenix-book/)  -本系列的目标是使您成为有信心的Phoenix开发人员.  有3种不同的版本，可以满足进入Phoenix的开发人员的各种需求.
 * [Programming Elixir](https://pragprog.com/book/elixir/programming-elixir) -本书由Dave Thomas（2014）提供了使用Elixir进行功能和并发编程的介绍.
 * [Programming Phoenix](https://pragprog.com/book/phoenix/programming-phoenix) -由Chris McCord，JoséValim和Bruce Tate撰写的使用Phoenix框架构建Web应用程序的权威指南（2015）.
 * [The Beam Book](https://happi.github.io/theBeamBook/) -对Erlang运行时系统ERTS和虚拟机BEAM的描述.
 * [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook) -Benjamin Tan Wei Hao（2014）通过中小型项目学习Elixir和OTP的书.
-* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) -J. David Eisenberg（2013）编写的在Elixir中进行编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
+* [Études for Elixir](http://chimera.labs.oreilly.com/books/1234000001642) -J. David Eisenberg（2013）编写的在Elixir中编程的练习集（[Github Repo](https://github.com/oreillymedia/etudes-for-elixir)).
 
 ## Cheat Sheets
 *与Elixir有关的备忘单.
@@ -1671,7 +1672,7 @@
 ## Other Awesome Lists
 *其他惊人的清单可以在 [jnv/lists](https://github.com/jnv/lists#lists-of-lists) 要么 [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness#awesome-awesomeness).*
 
-* [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) -精妙的Elixir和命令查询责任隔离（CQRS）和事件源资源的精选列表.
+* [Awesome Elixir and CQRS](https://github.com/slashdotdash/awesome-elixir-cqrs) -精妙的Elixir和命令查询职责隔离（CQRS）和事件源资源的精选列表.
 * [Awesome Elixir by LibHunt](https://elixir.libhunt.com) -精选的Elixir和Erlang软件包和资源的精选列表.
 * [Awesome Erlang](https://github.com/drobakowski/awesome-erlang) -精选的Erlang库，资源和闪亮的东西的精选列表.
 * [Curated Elixir Resources](https://hackr.io/tutorials/learn-elixir) -精选的顶级Elixir资源.
@@ -1681,7 +1682,7 @@
 *与万能药相关的阅读材料.
 
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix/) -教授Elixir语言和Phoenix框架的在线课程.
-* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) -安迪·亨特（Andy Hunt）和戴夫·托马斯（Dave Thomas）制作的万能药备忘单.
+* [Elixir Cheat-Sheet](http://media.pragprog.com/titles/elixir/ElixirCheat.pdf) -安迪·亨特（Andy Hunt）和戴夫·托马斯（Dave Thomas）的万能药备忘单.
 * [Elixir Functional Programming](https://github.com/kblake/functional-programming) -介绍使用Elixir语言进行功能编程的材料.
 * [Elixir School](https://elixirschool.com/) -有关Elixir编程语言的课程.
 * [Elixir Tab](https://github.com/efexen/elixir-tab) -Chrome扩展程序，可帮助您学习Elixir核心库.

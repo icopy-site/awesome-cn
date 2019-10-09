@@ -12,7 +12,7 @@
 
 &gt;社区驱动的有用Elm教程，库和软件的列表.
 
-受启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
+受到启发 [awesome](#more-awesome)  列出的东西.  随时<a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">改进</a>此列表.
 
 
 - <a href="https://github.com/sporto/awesome-elm/blob/master/CONTRIBUTION.md" target="_blank">贡献准则</a>
@@ -42,7 +42,7 @@
 * [Elmstagram](https://github.com/bkbooth/Elmstagram) -Instagram的基本UI克隆/文章- [Part 1](https://benkbooth.com/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) -使用Elm和HTML5拖放API构建的看板（类似于trello）
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) -纯SPA（带有路由），探索榆树的各个方面.
-* [Elm Hacker News PWA](https://github.com/skrypte/elm-hn-pwa) -使用官方的Hacker-News API使用Elm 0.18版构建的渐进式Web应用程序
+* [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) -使用官方的Hacker-News API使用Elm 0.18版构建的渐进式Web应用程序
 * [Elm Narrative Engine](https://github.com/jschomay/elm-narrative-engine)  -在榆树中建立互动小说风格故事的框架.  详细的例子 [elmnarrativeengine.com](http://elmnarrativeengine.com)  展示了如何构建“选择自己的冒险”游戏；  非常适合初学者.  **榆木v.0.19 **
 
 ### Games
@@ -289,7 +289,7 @@
 
 * [theJian/elm.vim](https://github.com/theJian/elm.vim)  -Elm语法突出显示.  用于 [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) 因为ElmCast / elm-vim不支持Elm 0.19.
 * [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) -Vim / Neovim的Elm 0.18模式.
-* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) -您可以在编辑器中访问Elm离线文档.
+* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) -您可以在编辑器中使用离线Elm文档.
 * [emmet-vim](https://github.com/mattn/emmet-vim) -带有Elm支持的标记扩展.
 
 ### Visual Studio Code

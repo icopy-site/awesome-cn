@@ -12,6 +12,17 @@
 
 ## Family
 
+### [Ghost Blitz](https://github.com/edm00se/awesome-board-games/blob/master/<https://boardgamegeek.com/boardgame/83195/ghost-blitz>)
+
+ &gt;房屋鬼魂Balduin在城堡酒窖里发现了一台旧相机.  当他出没时，他立即拍摄了他爱使一切消失的照片-当然包括他自己.  不幸的是，附魔的相机以错误的颜色拍摄了许多照片.  有时，绿色的瓶子是白色的，而其他时候是蓝色的.  看着照片，Balduin真的不记得他接下来要消失的一切了.  您能帮助他解决问题并快速命名正确的物品，甚至让它自己消失吗？  如果您快速抓住正确的物品，您就有很大的机会赢取...
+
+![Ghost Blitz game image](https://cf.geekdo-images.com/itemrep/img/D-2aizsXhm-kpy0ffA4R--Xd07Y=/fit-in/246x300/pic2034769.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-8 |  8 |  20m |
+
+
 ### [Ticket to Ride](https://github.com/edm00se/awesome-board-games/blob/master/<https://wikipedia.org/wiki/Ticket_to_Ride_(board_game)>)
 
 &gt; ...越野火车冒险，玩家收集各种类型的火车卡，使他们能够申索连接世界各国的城市的铁路路线.
@@ -98,7 +109,7 @@
 
 &gt; Ravenloft的主人正在邀请客人共进晚餐–邀请您！\
 &gt;恶魔潜伏在Ravenloft城堡的塔楼和地牢中，只有非凡勇敢的英雄才能幸免于难.
-> Designed for 1-5 players, this boardgame features multiple scenarios, challenging quests, and cooperative gameplay.
+&gt;专为1-5位玩家设计，这款桌游具有多种场景，具有挑战性的任务和协作性的游戏玩法.
 
 ![Dungeons & Dragons: Castle Ravenloft](https://cf.geekdo-images.com/itemrep/img/XTw-eglE4VMj6fgZytjEAIqa98g=/fit-in/246x300/pic660244.jpg)
 
@@ -198,7 +209,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -------: |
- |  1-5 |  14 |  120-180m |
+|   1 - 5 |       14 | 120-180m |
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
@@ -328,7 +339,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2-4 |  10 |  30m |
+|   2 - 4 |       10 |  30m |
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 

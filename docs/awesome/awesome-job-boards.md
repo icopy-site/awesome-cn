@@ -15,7 +15,7 @@
 
 * [Blocktribe](https://blocktribe.com/) -从事“区块链，DLT，以太坊，Hyperledger，R3，加密货币和相关分布式技术”工作人员的工作板.
 * [Crypto Jobs List](https://cryptojobslist.com/) - Crypto Jobs List is your #1 board to find and post crypto, bitcoin and blockchain jobs.
- * [Crypto Job]（https://crypto-job.com/）-Crypto Job是人才与机遇相遇的地方.  我们的目标是将热情的区块链和加密货币开发商与重视其才能和专业知识的公司联系起来.
+* [Crypto Job](https://crypto-job.com/)  -加密工作是人才与机会相遇的地方.  我们的目标是将热情的区块链和加密货币开发商与重视其才能和专业知识的公司联系起来.
 
 ## Customer Support
 
@@ -130,6 +130,9 @@
 
 ## Tech
 
+* [Free & Open Source Jobs](https://www.fossjobs.net/)
+* [Relocate.me](https://relocate.me/) -经过验证的搬迁包
+
 ### Australia
 
 * [Breakout Careers](https://breakout.careers/) -澳大利亚最好的技术和创业工作委员会
@@ -151,7 +154,3 @@
 ### United States
 
 * [DallasJobs](https://www.dallasjobs.io/) -达拉斯/沃思堡的最佳技术职位
-
-### Free & Open Source
-
-* [Free & Open Source Jobs](https://www.fossjobs.net/)
