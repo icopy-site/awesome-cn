@@ -65,7 +65,7 @@
 
 ### [Betrayal at House on the Hill](https://en.wikipedia.org/wiki/Betrayal_at_House_on_the_Hill)
 
-&gt;所有玩家开始时都是盟友探索充满危险，陷阱，物品和预兆的鬼屋.\
+&gt;所有玩家都从盟友探索充满危险，陷阱，物品和预兆的鬼屋开始.\
 &gt;当玩家前往豪宅的新部分时，会随机选择房间瓷砖并将其放置在游戏板上.\
 &gt;最终，“困扰”开始了，一个玩家通常“背叛”其他玩家，并站在鬼魂，怪物或其他敌人的一边，而其余玩家则合作击败他们.
 
@@ -209,7 +209,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | -------: |
-|   1 - 5 |       14 | 120-180m |
+ |  1-5 |  14 |  120-180m |
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
@@ -223,7 +223,7 @@
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
- &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您可以少玩一圈.
+ &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您的圈数更少.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
@@ -239,11 +239,11 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
- |  2-8 |  12 |  90-120m |
+|   2 - 8 |       12 | 90-120m |
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏后期的时间旅行达到.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
+ &gt;时代性是一种竞争性的欧式战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏中的时间旅行来实现.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -253,13 +253,13 @@
 
 ### [Clockwork Wars](http://www.eggrules.com/games/games-00-c/clockwork-wars/)
 
- &gt;在《发条大战》中，每个玩家都会在一个幻想的朋克世界中进行的紧张战争游戏中指挥独特的生物竞赛.  掌控计画的纯种犬，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  您的目标是打败敌人，并通过九个回合来累积最多的胜利点.  通过争夺对包含宝贵自然资源的领土的控制权，您可以获得积分.  为了赢得这些战斗，您需要通过占领村庄并将其发展为城市而获得人力.  投资研究并发现惊人的新技术，部署部队，研究强大的发现，运用间谍活动，并征服您的敌人以赢得比赛！
+ &gt;在《发条大战》中，每个玩家都会在一个幻想的朋克世界中进行的紧张战争游戏中指挥独特的生物竞赛.  掌控那些精打细算的纯种，勤劳的Troglodytes，强大的Rhinochs或骄傲的Mongrels.  您的目标是打败敌人，并通过九个回合来累积最多的胜利点.  通过争夺对包含宝贵自然资源的领土的控制权，您可以获得积分.  为了赢得这些战斗，您需要通过占领村庄并将其发展为城市而获得人力.  投资研究并发现惊人的新技术，部署部队，研究强大的发现，运用间谍活动，并征服您的敌人以赢得比赛！
 
 ![Clockwork Wars game image](https://cf.geekdo-images.com/itemrep/img/7LucYPx8-t-0vMs6Rfhp_vzr2Y4=/fit-in/246x300/pic2355823.jpg)
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
- |  2-4 |  13 |  90-120m |
+|   2 - 4 |       13 | 90-120m |
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
@@ -339,7 +339,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
-|   2 - 4 |       10 |  30m |
+ |  2-4 |  10 |  30m |
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
@@ -353,8 +353,8 @@
 
 ### [Shadow Hunters](https://en.wikipedia.org/wiki/Shadow_Hunters)
 
- &gt;暗影猎手是一款生存的棋盘游戏，设置在充满魔鬼的森林中，其中有三类角色-暗影，即夜间生物；  猎人，试图消灭超自然生物的人类；  和中立国，平民在这场古老的战斗中陷入困境，为了生存而相互斗争.
- &gt;您属于这些团体之一，并且由于不知道可以信任的人，所以必须对其他人隐瞒自己的身份，至少在最初不是这样.  但是，随着时间的流逝，有人可能会通过您的行为或隐士卡来破译您的身份，或者您甚至可能会露出自己来使用自己的特殊能力.
+ &gt;暗影猎手是一个生存的棋盘游戏，设置在充满魔鬼的森林中，其中有三组角色-暗影，即夜间生物；  猎人，试图消灭超自然生物的人类；  和中立国，平民在这场古老的战斗中陷入困境，为了生存而相互斗争.
+ &gt;您属于这些团体之一，并且由于不知道可以信任的人，所以必须对其他人隐瞒自己的身份，至少在最初不是这样.  但是，随着时间的流逝，有人可能会通过您的行为或隐士卡来破译您的身份，或者您甚至可能会展示自己以使用自己的特殊能力.
 
 ![Shadow Hunters Image](https://cf.geekdo-images.com/itemrep/img/RTm1Doeg8mGYz9VP_YEp__9h37Q=/fit-in/246x300/pic1215982.jpg)
 
@@ -364,7 +364,7 @@
 
 ### [Persian Wars](https://boardgamegeek.com/boardgame/236008/persian-wars)
 
-&gt;波斯战争是一款由纸牌驱动的战争游戏，描述了从494年到466年的希腊波斯冲突.印度尼西亚黄蜂，Miltiades和Themistrocles以及Spatans，Leonadas和Pausanias.（http://en.wikipedia.org/wiki/Athens).(Xantshippus）.（Miltides and Thehemsolecles）斯帕坦人（S巴达斯人）.列奥尼达什人（Leenidas）和帕桑（PousaniaS）人）.（《圣公会报》）.（2）（4）.d.（1）.（2，5）.（4.）.d1..1..d3.（1.）.（1.）....1（2）.（2.）雅典.（无..）...（2.）（1）（1，2）..．（1）（2，4）..．（2）（1，2）..．（3）（6）（6）.（.（3）（1.）（1）是雅典人（是一词之一））是（Antonians）是Xanthip Pus（尼普提亚普斯（miltiadiss或Miltheade））
+&gt;波斯战争是一款由纸牌驱动的战争游戏，描述了从494年到466年的希腊波斯冲突.雅典人Xanthippus，Miltiades和Themistocles和Spartans，Leonidas和Pausanias.
 
 ![Persian Wars Image](https://cf.geekdo-images.com/itemrep/img/dP4fwGwf-wFQ36ROJU0v2lOQF3E=/fit-in/246x300/pic4079777.png)
 
@@ -376,7 +376,7 @@
 
 ### [Jungle Speed](https://boardgamegeek.com/boardgame/8098/jungle-speed)
 
- &gt;在“丛林速度”中，您必须依靠敏锐的观察力和快速反应.  它需要稳定的手-在许多狂躁的笑声中很难保持！  木制的图腾坐在桌子中间，等待反射最快的玩家抢走并赢得比赛.  每个玩家都被发牌.  为了获胜，您必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都显示一张牌.  如果两张牌相同，则这些玩家必须抢夺图腾.  然后，速度更快的玩家将其牌交给不幸的对手.
+ &gt;在“丛林速度”中，您必须依靠敏锐的观察力和快速反应.  它需要稳定的手-在许多狂躁的笑声中很难保持！  木制的图腾坐在桌子中间，等待反射最快的玩家抢走它并赢得比赛.  每个玩家都被发牌.  为了获胜，您必须是第一个摆脱所有牌的玩家.  每回合，所有玩家都显示一张牌.  如果两张牌相同，则这些玩家必须抢夺图腾.  然后，速度更快的玩家将其牌交给不幸的对手.
 
 ![Jungle Speed game image](https://cf.geekdo-images.com/itemrep/img/qEV2X3KVOEE_cNowLyIwkJaB-w8=/fit-in/246x300/pic736534.jpg)
 
@@ -466,7 +466,7 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
+ &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
@@ -526,8 +526,8 @@
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
-&gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争以有趣的打孔完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -537,7 +537,7 @@
 
 ### [Monopoly](https://boardgamegeek.com/boardgame/41186/monopoly-city)
 
-> At first you think you are playing good old Monopoly where they just add some extra buildings to give a little twist. But the longer you play, the more you realise they actually made a whole new game. You start with more money than usual, which gives you the idea you will last longer (with a bit of luck maybe). The fact that now you can build right away when you bought a property, gives so much dynamic to the game. No more waiting until you have the whole set, or not having the set because one player refuses to trade. Even with a couple of single properties you can win the game.
+ &gt;开始时，您认为您正在玩好老的《大富翁》，他们只是增加了一些额外的建筑物，以给人些许扭曲.  但是玩的时间越长，您就越能意识到他们实际上创造了一个全新的游戏.  您开始时会比平时赚更多的钱，这使您有了更长的寿命（也许有些运气）的想法.  现在，您可以在购买物业时立即建造房屋，这给游戏带来了很大的活力.  没有更多的等待，直到您拥有完整的组合，或者因为一个玩家拒绝交易而没有组合.  即使拥有几个单一属性，您也可以赢得比赛.
 
 <img alt="Monopoly" src="https://cf.geekdo-images.com/itemrep/img/CEVG3XKEt3JT0Zw4TeuNL36i4gM=/fit-in/246x300/pic486673.jpg">
 
@@ -603,7 +603,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
-|   4 - 8 |       12 |  30m |
+ |  4-8 |  12  30m |
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
@@ -626,6 +626,18 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-8 |  14 |  15m |
+
+### [SuperFight](https://www.superfightgame.com/)
+
+&gt;荒谬的论战
+
+ Superfight是一款游戏，您可以与您的朋友争论荒谬的战斗.  游戏非常简单.  玩家使用这些卡牌来创造可笑的战士，并争论哪个角色会在战斗中获胜.  然后，周围的所有人都对获胜者进行投票.  可以想象，战斗是史诗般的和搞笑的.  各个年龄段的人都很有趣，并且适用于各种玩家.
+
+![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-8 |  8 |  15m |
 
 ## Contribute
 

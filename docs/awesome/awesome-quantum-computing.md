@@ -6,7 +6,7 @@
 
 [Quantum computing](https://en.wikipedia.org/wiki/Quantum_computing)  利用纠缠和叠加等量子力学现象来操纵量子位以在量子计算机上执行计算.  当前可用的工具是在公共可用的量子计算机上创建和运行程序的工具，以及用于了解它们的资源. 
 
- 这是精选的有关量子计算机学习和开发的最新资源清单.  目标是建立一个由社区驱动的最新高品质资源分类集合. 
+ 这是精选的有关量子计算机学习和开发的最新资源清单.  目标是建立一个由社区驱动的最新优质资源的分类集合. 
 
  随时欢迎分享，建议和贡献！  请先查看贡献准则和质量标准.  感谢所有贡献者，您真棒，没有您，这将是不可能的！
 
@@ -39,6 +39,7 @@
 
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) -麻省理工学院量子信息科学课程的系列讲义.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) -量子密码学入门课程以及如何运行量子程序.
+- [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) -了解D-Wave Quantum Annealer架构以及一些实际任务.
 - [Quantum Cryptography](https://www.edx.org/course/quantum-cryptography-caltechx-delftx-qucryptox-0) -了解量子通信如何提供自然法则所保证的安全性.
 - [Quantum Information Science I, Part I](https://www.edx.org/course/quantum-information-science-i) -量子信息和计算基础课程.
 - [Quantum Machine Learning](https://www.edx.org/course/quantum-machine-learning) -了解量子技术可以为机器学习带来的好处.

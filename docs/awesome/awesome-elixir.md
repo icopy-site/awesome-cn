@@ -112,6 +112,7 @@
 * [Exon](https://github.com/tchoutri/Exon)  -用Elixir开发的“邮件管理器”，提供了简单的API来管理和记录您的内容.  （[Docs](https://hexdocs.pm/exon/readme.html)).
 * [ExShop](https://github.com/authentic-pixels/ex-shop) -使用Phoenix框架创建的数字商品商店和博客.
 * [Hydra](https://github.com/doomspork/hydra) -多头野兽：API网关，请求缓存和数据转换.
+* [Igthorn](https://github.com/Frathon/Igthorn) -带有管理面板的Cryptocurrecy交易平台/交易机器人.
 * [majremind](https://bitbucket.org/Anwen/majremind) -更新服务器的自维护数据库，告诉您需要更新的服务器.
 * [medex](https://github.com/xerions/medex) -体格检查-注册健康检查回调的应用程序，并通过HTTP表示其状态.
 * [medusa_server](https://github.com/IcaliaLabs/medusa_server)  -用Elixir编写的用于堆叠图像的简单牛仔Web服务器.  （[Docs](https://hexdocs.pm/medusa/0.2.0/api-reference.html)).
@@ -296,7 +297,7 @@
 * [fleet_api](https://github.com/jordan0day/fleet-api)  -Fleet（CoreOS）API的简单包装.  可以与etcd令牌或直接节点URL一起使用.
 * [Gandi](https://github.com/Ahamtech/elixir-Gandi) -用于Leaseweb基础架构的Gandi包装器.
 * [IElixir](https://github.com/pprzetacznik/IElixir) -Jupyter的Elixir编程语言内核.
-* [Kazan](https://github.com/obmarg/kazan) -从k8s开放API规范生成的Elixir的Kubernetes客户端.
+* [Kazan](https://github.com/obmarg/kazan) - Kubernetes client for Elixir, generated from the k8s open API specifications.
 * [Kubex](https://github.com/ingerslevio/kubex) -用纯Elixir编写的Kubernetes Elixir客户端和集成.
 * [Leaseweb](https://github.com/Ahamtech/elixir-leaseweb) -用于Leaseweb基础架构的Elixir包装器.
 * [libcluster](https://github.com/bitwalker/libcluster) -用于Elixir应用程序的自动簇形成/修复.[Docs](https://hexdocs.pm/libcluster/readme.html)).
@@ -519,7 +520,7 @@
 * [dice](https://github.com/stocks29/dice) -在Elixir中掷骰子.
 * [elixir_koans](https://github.com/elixirkoans/elixir-koans) - [Elixir koans](http://elixirkoans.io/) 是一种使用Elixir编程语言入门的有趣，简单的方法.
 * [ex_chain](https://github.com/eljojo/ex_chain) -使用Elixir构建的可产生有趣推文的简单马尔可夫链.
-* [ex_iss](https://github.com/cryptobird/ex_iss) -该软件包用于与Open Notify API交互以获取诸如ISS的当前位置，人员以及何时经过某个位置的信息.
+* [ex_iss](https://github.com/cryptobird/ex_iss) -该软件包用于与Open Notify API交互以获取诸如ISS的当前位置，人员以及何时经过某个位置等信息.
 * [feedx](https://github.com/erneestoc/feedx)  -向当前应用程序添加社交Feed功能.  举例说明带有3个应用程序的OTP伞式应用程序.  瘦凤凰控制器.
 * [harakiri](https://github.com/rubencaro/harakiri) -帮助应用程序杀死自己.
 * [hello_phoenix](https://github.com/bigardone/phoenix-react-redux-template) -具有Phoenix，React和Redux的SPA的应用程序模板.
@@ -734,7 +735,7 @@
 * [etag_plug](https://github.com/sascha-wolf/etag_plug) - A simple to use shallow ETag plug.
 * [explode](https://github.com/pkinney/explode) -一个简单的实用程序，用于在基于Plug和Phoenix的应用程序中响应标准的HTTP / JSON错误负载.
 * [exvcr](https://github.com/parroty/exvcr) -受VCR启发的Elixir的HTTP请求/响应记录库.
-* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex)  -用于解析，构造和通配符匹配URL的Elixir库.  也可用于 [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript](https://github.com/gamache/fuzzyurl.js).
+* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex)  -用于解析，构造和通配符匹配URL的Elixir库.  也可用于 [Ruby](https://github.com/gamache/fuzzyurl.rb) 和 [JavaScript](https://github.com/gamache/fuzzyurl.js).
 * [gun](https://github.com/ninenines/gun) -用于Erlang / OTP的HTTP / 1.1，HTTP / 2和Websocket客户端.
 * [hackney](https://github.com/benoitc/hackney) -用Erlang编写的简单HTTP客户端.
 * [http](https://github.com/slogsdon/http) -Elixir的HTTP服务器.

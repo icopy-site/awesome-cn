@@ -12,7 +12,7 @@
 
 ## Android
 
-- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) -体验一下这款带Android模拟器的伟大Stevie Wonder.
+- [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) -拥有这款适用于Android的模拟器，可以像伟大的Stevie Wonder一样感受一下.
 - [Mindf@*k Keyboard](https://github.com/terriblehackskeyboard/keyboard) -糟糕的软键盘，每次按下时都会随机分配按键.
 - [holdr](https://github.com/starakaj/holdr) -解决了知道何时握住手机的问题.
 
@@ -46,6 +46,7 @@
 
 ## JavaScript
 
+- [jsFuck](https://github.com/aemkei/jsfuck)
 - [ComcastifyJS](https://github.com/theonion/comcastifyjs) -有时图像加载得太快了.
 - [Elevator.js](https://github.com/tholman/elevator.js) -最后，其行为类似于真实的电梯.
 - [Echochamber.js](https://github.com/tessalt/echo-chamber-js) -不带评论的评论-提供仅存储在本地存储中的单面用户评论.
@@ -53,9 +54,9 @@
 - [FuckitJS](https://github.com/mattdiamond/fuckitjs) -JavaScript错误Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) -通过Stack Overflow自动完成JS.
 - [Object.toSting()](https://github.com/teropa/to-sting) -将Sting的映像记录到开发控制台.
-- [Sarcasm](https://github.com/komlev/sarcasm) -Sarcasm是易于制造的，含电池的，无电击的，易于上手的，轻巧的，可靠的，方便的，非常简单的，用户友好的，超音速的，超快充电的，基于类固醇的JavaScript库.
+- [Sarcasm](https://github.com/komlev/sarcasm) -Sarcasm是易于使用的，含电池的，无电击的，易于上手的，轻巧的，可靠的，方便的，非常简单的，用户友好的，超音速的，带电荷的，基于类固醇的JavaScript库.
 - [Batonnet.js](https://github.com/BinaryBrain/Batonnet.js) -通用，跨文化和用户友好的数字显示方式.
-- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -H9RBS.js（v0.0001）是一个灵活的，无依赖项，轻量级，与设备无关的，模块化的，内置的，组件框架的MVC库鞋带，可帮助您启动基于CSS的响应式应用程序体系结构骨干厨卫tweetybirds.
+- [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) -H9RBS.js（v0.0001）是一个灵活的，无依赖项，轻量级，与设备无关的，模块化的，内置的，组件框架的MVC库鞋带，可帮助您启动基于CSS的响应式应用程序架构骨干厨卫tweetybirds.
 - [vapor.js](https://github.com/madrobby/vapor.js) -世界上最小和最快的JavaScript库.
 - [fattest-cat](https://github.com/lexiross/fattest-cat) -查找目前可在SF SPCA收养的最胖猫的脚本.
 - [fartscroll.js](https://github.com/theonion/fartscroll.js)  -大家放屁.  现在您的网页也可以.
@@ -63,7 +64,7 @@
 - [cannot-even](https://github.com/blakek/cannot-even) -拒绝偶数的模块.
 - [undefined-is-a-function](https://github.com/donavon/undefined-is-a-function)  -“未定义的不是函数”？  - 就是现在！
 - [is-thirteen](https://github.com/jezen/is-thirteen) -检查数字是否等于13.
-- [Pettier](https://github.com/coleturner/pettier) -更漂亮的配置，可将选项随机化并在空格和制表符之间任意切换 
+- [Pettier](https://github.com/coleturner/pettier) -更漂亮的配置，可随机选择选项并在空格和制表符之间任意切换 
 - [not-paid.js](https://github.com/kleampa/not-paid) -为身体标签添加不透明度，并每天增加不透明度，直到其位置完全消失. 
 - [Popup Trombone](https://matthewrayfield.com/goodies/popup-trombone/) -通过调整弹出窗口的大小来播放长号. 
 
@@ -115,7 +116,7 @@
 - [Cloud to butt](https://github.com/panicsteve/cloud-to-butt) -Chrome扩展程序，用“我的屁股”代替“云”的出现.
 - [Outcognito Mode](https://github.com/hrldcpr/outcognito-mode) -外向型的隐身模式.
 - [NonAd Block](https://chrome.google.com/webstore/detail/nonad-block/mjdphmpknkepficogfmnfhabmlngggip?hl=en-US) -阻止所有非广告内容.
-- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)  -Youtube陷波模式是一种镀铬扩展程序，可将iPhone X顶部看到的难看的黑色切口添加到每个Youtube视频中.  为什么？  因为它更美丽.
+- [Youtube Notch Mode](https://chrome.google.com/webstore/detail/youtube-notch-mode/fiklbelmepfnpojheaklfnhfhbfkmibb)  -Youtube陷波模式是一个镀铬扩展程序，可将每个iPhone X视频顶部出现的难看的黑色切边添加到iPhone X的顶部.  为什么？  因为它更美丽.
 - [Github XP](https://github.com/martenbjork/github-xp)  -微软+ GitHub =❤️.  通过让您的GitHub体验Windows XP，使它正式化.
 - [Netflix Hangouts](https://netflixhangouts.com) -使Netflix看起来像在电话会议中一样，在工作中观看Netflix.
 
@@ -127,7 +128,7 @@
 - [lolcat](https://github.com/busyloop/lolcat) -彩虹和独角兽！
 - [evil.sh](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
 - [lolcommits](https://github.com/mroth/lolcommits) -基于Git的自拍软件开发人员.
-- [sl](https://github.com/mtoyoda/sl) -当您键入“ sl”时，SL（蒸汽机车）会在您的终端上运行.
+- [sl](https://github.com/mtoyoda/sl) -当您键入“ sl”时，SL（蒸汽机车）会在您的终端上运行，就像您键入“ ls”一样.
 - [genact](https://github.com/svenstaro/genact) -您的shell的废话活动生成器.
 - [fat](https://github.com/drummyfish/fat) -展开文件.
 - [No More Secrets](https://github.com/bartobri/no-more-secrets) -命令行工具，可重现1992年电影Sneakers中的著名数据解密效果.
@@ -155,5 +156,5 @@
 - [πfs](https://github.com/philipl/pifs)  -π包含存在的每个可能的数字序列.  我确定您的数据在某处*.
 - [parrot.live](https://github.com/hugomd/parrot.live) -将动画鹦鹉带到各地的终端.
 - [Slack Typing](https://github.com/will/slacktyping) -一个非常好的程序，它可以使我在别人打字时都在打字.
-- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) – eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee化了好吗
+- [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) – eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee一ee一和
 - [awesome-awesome-awesome](https://github.com/jonatasbaldin/awesome-awesome-awesome) -真棒列表存储库的真棒列表 

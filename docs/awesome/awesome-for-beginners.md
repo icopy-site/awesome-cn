@@ -6,7 +6,7 @@
 
 受启发 [First Timers Only](https://kentcdodds.com/blog/first-timers-only) 博客文章.
 
-如果您是开放源代码项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
+如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
 
 如果您想提供帮助，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
@@ -53,7 +53,7 @@
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  开源应用容器引擎
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  在GoLang中用爱构建的快速灵活的静态网站生成器
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  可扩展，可生存，高度一致的SQL数据库
-- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue) _(label: good first issue)_ <br> The Kubernetes Package Manager
+- [Helm](https://github.com/kubernetes/helm/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Kubernetes软件包管理器
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FGo%22+)  _（标签：抢劫，难度/ 1：容易，技术/使用）_ <br>  Golang和React中的开源Slack替代方案
 - [Docker/CLI](https://github.com/docker/cli/labels/exp%2Fbeginner)  _（标签：exp /初学者）_ <br>  Docker CLI
 - [Kubernetes](https://github.com/kubernetes/kubernetes/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  生产级集装箱调度管理系统
@@ -106,7 +106,7 @@
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  快速，可靠和安全的依赖关系管理.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  通用服务器渲染的React应用程序的简约框架
-- [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
+- [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  语义UI的官方React集成.
 - [electron](https://github.com/electron/electron/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用JavaScript，HTML和CSS构建跨平台的桌面应用程序
 - [Botpress](https://github.com/botpress/botpress/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  打造优秀机器人的唯一明智的方法.
@@ -133,6 +133,7 @@
 - [Mocha](https://github.com/mochajs/mocha/labels/good-first-issue)  _（标签：第一期好）_ <br>  适用于Node.js和浏览器的Javascript测试框架.
 - [Babel](https://github.com/babel/babel/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于编写下一代JavaScript的编译器.
 - [React-content-loader](https://github.com/danilowoz/create-content-loader/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  轻松创建自己的react-content-loader的工具.
+- [netlify-cms](https://github.com/netlify/netlify-cms/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  git工作流程的开源内容管理.
 
 ## Julia
 
@@ -156,11 +157,13 @@
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only)  _（标签：仅限初学者）_ <br>  增强您的GitHub组织！
 - [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner)  _（标签：初学者）_ <br>  用于PHP项目的开源自托管持续集成服务器.
 - [Drupal](https://www.drupal.org/getting-involved-guide)  _（标签：N / A，链接到外部网站）_ <br>  领先的开源CMS提供雄心勃勃的数字体验，可通过多种渠道吸引您的受众.
+- [Symfony](https://github.com/symfony/symfony/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Symfony是用于Web应用程序的PHP框架，以及一组可重用的PHP组件.
+- [Laravel Newsletters](https://github.com/spatie/laravel-newsletter/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个软件包，提供了一种将MailChimp与Laravel 5集成的简便方法.
 
 ## Python
 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug)  _（标签：良好的第一个Bug）_ <br>  弹射器之家，用作性能工具.
-- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue) _(Good First Issue)_ <br> Building a Better Democracy for the Internet Age
+- [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue)  _（第一期好）_ <br>  为互联网时代建立更好的民主
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow)  _（标签：难度/低）_ <br>  Python国际化库.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick)  _（标签：轻松选择）_ <br>  具有同步和共享功能的轻量级JSON存储服务.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy)  _（标签：简单）_ <br>  使用压缩和经过身份验证的加密对备份程序进行重复数据删除.
@@ -171,7 +174,7 @@
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer)  _（标签：难度/新手）_ <br>  基于命令行界面的Linux个人助理.
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
-- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人程序，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
 - [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Jupyter交互式笔记本.
@@ -179,7 +182,7 @@
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特殊）_ <br>  用于后端Web开发的Python实现.
-- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter！
+- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter) _(label: level:starter)_ <br> The strictest and most opinionated python linter ever!
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个开源的chat-ops bot框架.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的灵活而强大的数据分析/操作库，提供与R data.frame对象，统计函数等类似的标记数据结构
@@ -203,6 +206,7 @@
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源事件管理器.  针对免费和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源客户支持平台，可以替代Intercom，Zendesk，Drift，Crisp等.
 
 ## Rust
 

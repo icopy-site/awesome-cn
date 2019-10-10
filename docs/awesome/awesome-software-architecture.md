@@ -25,7 +25,9 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 
 - [No silver bullet, by Brooks](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf) -以小幅增长的方式开发软件：orange_book:.
 - [Clean Architecture, by Robert C Martin](https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164) -构建可持续和可维护软件的关键原则和概念：orange_book ：.
-- [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) -关于积累技术债务的成本和影响.
+- [Technical Debt, by Fowler](https://martinfowler.com/bliki/TechnicalDebt.html) -累积技术债务的成本和影响.
+- [The Magic Tricks of Testing, by Sandi Metz](https://www.youtube.com/watch?v=URSWYvyc42M) -简约的理想，是一种实用且务实的软件测试方法.
+
 ## Documentation
 
 - [Architectural Decision Records](https://adr.github.io/) -版本和文档架构决策与您使用代码的方式相同.
@@ -78,7 +80,7 @@ and [contribution guidelines](https://github.com/simskij/awesome-software-archit
 ### DevOps
 
 - [Wikipedia: DevOps](https://en.wikipedia.org/wiki/DevOps) -结合软件开发和运营实践，以缩短上市时间，同时保持高质量.
-- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book ：.
+- [The Phoenix Project, by Gene Kim et al](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592) -有关IT，Devops和帮助您赢得业务的商业小说：orange_book：
 - [Keep CALMS and carry on](https://dwpdigital.blog.gov.uk/2019/03/25/keep-calms-and-carry-on-how-we-do-devops/) -BPDTS如何使用CALMS模型作为其devops适应的参考. 
 - [Chaos Engineering at Netfix](https://www.youtube.com/watch?v=6ilMZqKdMMU) -混沌工程学是软件工程学中的一门新学科，使人们对大规模分布式系统的行为充满信心. 
 

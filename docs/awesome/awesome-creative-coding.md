@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要面向初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **交互设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为代码的艺术品.
+ 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -19,10 +19,10 @@
 
 ## Books
 
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) -使用处理的实用指南.
+- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
 - [Generative Design](http://www.generative-gestaltung.de/) -可视化，编程和创建处理.
 - [The Nature of Code](http://natureofcode.com/) -通过处理模拟自然系统.
-- [Programming Design Systems](https://programmingdesignsystems.com/) -实用的图形设计新基础介绍.
+- [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) -有关使用OpenGL进行图形渲染的一系列教程.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) -处理，Arduino和openFrameworks设计指南.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) -适用于程序员，视觉艺术家或设计师的openFrameworks初学者指南.
@@ -87,7 +87,7 @@
 - [C4](http://www.c4ios.com) [iOS]-适用于iOS的开源广告素材编码框架.
 - [Unity](https://unity3d.com/) [Mac，Win]-游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]-开源，实时协作WebGL引擎.
-- [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]-用于构建带符号距离函数的GLSL库.
+- [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
 - [HYPE](http://www.hypeframework.org/) [跨平台]-HYPE_processing是一组类的集合，这些类在执行最繁琐的工作的同时，使用最少的代码编写量.
 - [nannou](http://nannou.cc/)
 [跨平台]-Rust语言的开源创意编码框架
@@ -95,6 +95,7 @@
 [跨平台]-针对Clojure和ClojureScript语言的计算设计工具的开源集合
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]-开源，实时图形，Swift框架，由Metal提供支持.
 - [OPENRNDR](https://openrndr.org/) [跨平台]-用Kotlin编写的用于创意编码的开源库.
+- [Phaser](https://phaser.io/) [跨平台]-用于构建游戏的HTML5框架，同时使用Canvas和WebGL渲染器.
 
 ### Visual Programming Languages
 
@@ -128,7 +129,7 @@
 - [Paper.js](http://paperjs.org/) -矢量图形脚本的瑞士军刀.
 - [Pixi.js](http://www.pixijs.com/) -HTML 5 2D渲染引擎，将webGL与画布后备一起使用.
 - [p5.js](https://p5js.org/) -以“处理”的原始目标开始的JavaScript库.
-- [Pts.js](https://ptsjs.org/) - JavaScript library for visualization and creative-coding.
+- [Pts.js](https://ptsjs.org/) -用于可视化和广告素材编码的JavaScript库.
 - [Fabric.js](http://fabricjs.com/) -Javascript画布库，SVG到画布解析器.
 - [Maker.js](https://maker.js.org) -SVG，CNC和激光切割机的参数线图.
 - [OpenJSCAD](https://openjscad.org) -JavaScript中的编程3D建模.
@@ -224,11 +225,11 @@
 - [Intro to WebGL Slides](http://davidscottlyons.com/threejs/presentations/frontporch14/) [Video](https://www.youtube.com/watch?v=6eLl8yQnxHQ) -使用three.js简介WebGL.
 - [Inigo Quilez Live](http://www.iquilezles.org/live/index.htm) -收录ÍñigoQuílez提供的实时编码视频.
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
-- [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) from his Creative developer workshop at Gobelins.
+- [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
 - [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -369,7 +370,7 @@
 ### Other
 
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) -Iain和Seb讨论了创意编码的来龙去脉.
-- [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
+- [realtimevfx.com](https://realtimevfx.com/) -实时VFX社区.
 - [Data Stories](http://datastori.es/) -关于数据可视化的播客.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) -大量与着色器和数学相关的资源.
 
@@ -485,7 +486,7 @@
 - [syntopia](http://blog.hvidtfeldts.net/) -关于生成艺术和系统的博客，作者：Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) -Evan Wallace的WebGL实验和文章.
 - [songho.ca](http://www.songho.ca/) -Song Ho Ahn的家，提供了大量有关OpenGL和数学的教程.
-- [simonschreibt.de](https://simonschreibt.de/) -游戏技巧，Simon撰写的设计技巧.
+- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
 - [sighack.com](https://sighack.com/) -Manohar Vanga撰写的有关生成艺术算法和技术的博客.
 
 
@@ -498,7 +499,7 @@
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) -精选的计算机视觉资源精选清单.
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) -精选的推荐研究论文清单和有关数据可视化的其他阅读材料.
 - [Awesome livecoding](https://github.com/lvm/awesome-livecoding/) -实时编码语言和工具的精选列表.
-- [Awesome graphics](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
+- [Awesome graphics](https://github.com/ericjang/awesome-graphics) -精选的计算机图形学教程和资源列表.
 - [Graphics resources](https://github.com/mattdesl/graphics-resources) -精选的图形编程资源列表.
 - [Magic tools](https://github.com/ellisonleao/magictools) -精心策划的游戏开发资源清单，以实现奇迹.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) -链接光线在GPU上前进的集合.

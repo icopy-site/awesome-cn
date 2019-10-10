@@ -108,7 +108,7 @@
 ## MVC Frameworks and Libraries
 
 * [angular.js](https://github.com/angular/angular.js) -HTML增强了Web应用程序.
-* [aurelia](http://aurelia.io) - A JavaScript client framework for mobile, desktop and web.
+* [aurelia](http://aurelia.io) -适用于移动设备，台式机和网络的JavaScript客户端框架.
 * [backbone](https://github.com/jashkenas/backbone) -为您的JS应用提供一些具有模型，视图，集合和事件的主干.
 * [ember.js](https://github.com/emberjs/ember.js) -用于创建雄心勃勃的Web应用程序的JavaScript框架.
 * [meteor](https://github.com/meteor/meteor) -超简单，无处不在的数据库，在线数据，纯JavaScript网络框架.
@@ -182,7 +182,7 @@
 * [three.js](https://github.com/mrdoob/three.js) -JavaScript 3D库.
 * [Chart.js](https://github.com/chartjs/Chart.js)  -使用的简单HTML5图表 <canvas>  标签.
 * [paper.js](https://github.com/paperjs/paper.js) -矢量图形脚本的瑞士军刀–使用HTML5 Canvas将Scriptographer移植到JavaScript和浏览器.
-* [fabric.js](https://github.com/kangax/fabric.js) -JavaScript Canvas库，SVG到画布（和canvas到SVG）解析器.
+* [fabric.js](https://github.com/kangax/fabric.js) - JavaScript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser.
 * [peity](https://github.com/benpickles/peity)  -渐进式 <svg>  条形图，折线图和饼图.
 * [raphael](https://github.com/DmitryBaranovskiy/raphael) -JavaScript矢量库.
 * [echarts](https://github.com/ecomfe/echarts) -企业图表.
@@ -298,7 +298,7 @@
 ## Reactive Programming
 *反应性编程库可扩展JavaScript的功能.*
 
-* [RxJs](https://github.com/Reactive-Extensions/RxJS) -JavaScript的反应式扩展.
+* [RxJS](https://github.com/ReactiveX/rxjs) -JavaScript的反应式编程库.
 * [Bacon](https://github.com/baconjs/bacon.js) -JavaScript的FRP（功能性反应式编程）库.
 * [Kefir](https://github.com/pozadi/kefir) -受Bacon.js和RxJS启发的JavaScript FRP库，着重于高性能和低内存消耗.
 * [Highland](http://highlandjs.org/) -重新思考JavaScript实用程序带，Highland仅使用标准JavaScript和类似Node的流就可以轻松地管理同步和异步代码.
@@ -311,7 +311,7 @@
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
-* [buckets](https://github.com/mauriciosantos/Buckets-JS) -用JavaScript编写的完整，经过全面测试和记录的数据结构库.
+* [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) -支持任何类型键的简单哈希图实现.
 
 
@@ -448,7 +448,7 @@
 * [oauth-signature-js](https://github.com/bettiolo/oauth-signature-js) -用于节点和浏览器的JavaScript OAuth 1.0a签名生成器.
 * [amygdala](https://github.com/lincolnloop/amygdala) -适用于JavaScript的Web应用程序的RESTful HTTP客户端.
 * [jquery.rest](https://github.com/jpillora/jquery.rest) -易于使用RESTful API的jQuery插件.
-* [Rails Ranger](https://github.com/victor-am/rails-ranger) -一个针对Ruby on Rails API的自以为是的REST客户端.
+* [Rails Ranger](https://github.com/victor-am/rails-ranger) -Ruby on Rails API的自以为是的REST客户端.
 
 ## Streaming
 
@@ -494,7 +494,7 @@
 * [NProgress](http://ricostacruz.com/nprogress/) -适用于Ajax&#39;y应用程序的超长进度条.
 * [Spin.js](https://github.com/fgnass/spin.js) -旋转活动指示器.
 * [progress.js](https://github.com/usablica/progress.js) -为页面上的每个对象创建和管理进度栏.
-* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且响应迅速的进度栏.
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) -带有动画SVG路径的漂亮且反应灵敏的进度条.
 * [pace](https://github.com/HubSpot/pace) -自动将进度条添加到您的网站.
 * [topbar](https://github.com/buunguyen/topbar) -微小而美观的站点范围进度指示器.
 * [nanobar](https://github.com/jacoborus/nanobar)  -非常轻量级的进度条.  没有jQuery.
@@ -600,7 +600,7 @@
 ### Calendar
 
 * [pickadate.js](https://github.com/amsul/pickadate.js) -移动友好，响应迅速且轻巧的jQuery日期和时间输入选择器.
-* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序日期选择器，@ eternicode进行了改进.
+* [bootstrap-datepicker](https://github.com/eternicode/bootstrap-datepicker) -由Stefan Petre（来自eyecon.ro）派生的@twitter引导程序日期选择器，通过@eternicode进行了改进.
 * [Pikaday](https://github.com/dbushell/Pikaday) -令人耳目一新的JavaScript Datepicker —轻巧，没有依赖关系，模块化CSS.
 * [fullcalendar](https://github.com/fullcalendar/fullcalendar) -完整的拖放事件日历（jQuery插件）.
 * [rome](https://github.com/bevacqua/rome)  -可自定义的日期（和时间）选择器.  无依赖关系的可选用户界面.
@@ -662,7 +662,7 @@
 
 * [scrollMonitor](https://github.com/stutrek/scrollMonitor) -一种简单快速的API，可在您滚动时监视元素.
 * [headroom](https://github.com/WickyNilliams/headroom.js)  -给页面留出一些空间.  隐藏标题，直到需要它为止.
-* [onepage-scroll](https://github.com/peachananr/onepage-scroll) -使用“一页滚动”插件创建一个类似苹果的一页滚动器网站（iPhone 5S网站）.
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) -使用“一页滚动”插件创建类似苹果的一页滚动器网站（iPhone 5S网站）.
 * [iscroll](https://github.com/cubiq/iscroll) -iScroll是一种高性能，占用空间小，无依赖项的多平台JavaScript滚动器.
 * [skrollr](https://github.com/Prinzhorn/skrollr)  -适用于移动设备（Android + iOS）和台式机的独立视差滚动库.  没有jQuery.
 * [parallax](https://github.com/wagerfield/parallax) -对智能设备的方向做出反应的视差引擎.
@@ -707,7 +707,7 @@
  * [html5-boilerplate](https://github.com/h5bp/html5-boilerplate) -专业的前端模板，用于构建快速，健壮和适应性强的Web应用程序或网站.
  * [mobile-boilerplate](https://github.com/h5bp/mobile-boilerplate) -前端模板，可帮助您构建快速，现代的移动Web应用程序.
  * [webplate](https://github.com/chrishumboldt/webplate) -强大的前端框架，可让您专注于构建网站或应用程序，同时保持真正的易用性.
- * [Cerberus](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
+ * [Cerberus](https://github.com/TedGoas/Cerberus)  -响应HTML电子邮件的一些简单但可靠的模式.  即使在Outlook中.
  * [full-page-intro-and-navigation](https://github.com/CodyHouse/full-page-intro-and-navigation) -简介页面，具有全角背景图片，大胆的动画菜单以及导航后的类似iOS的模糊效果.
  * [Fluid-Squares](https://github.com/crozynski/Fluid-Squares) -正方形单位的流体网格.
  * [Mobile-First-RWD](https://github.com/bradfrost/Mobile-First-RWD) -移动优先响应式网页设计的示例.

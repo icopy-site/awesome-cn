@@ -33,7 +33,7 @@
 * [Harold W. Manter Laboratory of Parasitology Collection](http://hwml.unl.edu/resources/database-68)  -标本采集的重点是“着重于北冰洋和新热带地区的哺乳动物的蠕虫寄生虫，着重研究了啮齿类动物，有袋动物，Xenarthra和翼手虫的系统发育和多样性.”  的存档站点 [American Society of Parasitologists](https://www.amsocparasit.org/) .  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
 * [Meguro Parasite Museum](https://www.kiseichu.org/e-top)  -日本东京的博物馆着重于人类寄生虫，标本超过60,000种.  尽管博物馆的创始人山古提博士（S. Yamaguti）曾以10册的形式描述了许多标本，但数据并未数字化 [Systema Helminthum](https://www.worldcat.org/title/systema-helminthum/oclc/427905372/editions?editionsView=true&referer=br) .  收藏品主要来自日本，印度尼西亚和夏威夷. 
 * [Muséum National d'Histoire Naturelle (MNHN - Paris)](https://www.mnhn.fr/en/collections/collection-groups/marine-invertebrates/parasitic-worms-helminths)  -蠕虫的收集，有30,000多种蠕虫，特别是热带地区.  通过访问 [GBIF](https://www.gbif.org/dataset/e0ebf2a1-3656-468a-b0b6-1aa93ff43fef#description). 
-* [Museum of Southwestern Biology, Division of Parasites](https://msb.unm.edu/divisions/parasites/index.html)  -收集寄生虫两栖动物，爬行动物，鸟类和哺乳动物的标本.  特别关注高海拔地区和新墨西哥州塞维利亚长期生态研究站中的小型哺乳动物的寄生虫，以及北冰洋和南极洲的海鸟寄生虫.  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
+* [Museum of Southwestern Biology, Division of Parasites](https://msb.unm.edu/divisions/parasites/index.html)  -收集寄生虫两栖动物，爬行动物，鸟类和哺乳动物的标本.  特别关注高海拔地区和新墨西哥州塞维利亚长期生态研究站内小型哺乳动物的寄生虫，以及北冰洋和南极洲的海鸟寄生虫.  通过访问 [Arctos](http://arctos.database.museum/SpecimenSearch.cfm). 
 * [Ohio State University Acarology Collection](https://acarology.osu.edu/database)  -从1864年开始，来自全球的近7万份带螨螨标本.信息包括寄主物种，采集gps点，采集位置（例如耳朵）和采集方法.  也可以通过访问 [GBIF](https://www.gbif.org/dataset/96b54e8c-f762-11e1-a439-00145eb45e9a).
 * [South Australian Museum’s Australian Helminthological Collection](http://www.samuseum.sa.gov.au/collections/biological-sciences/parasites/the-australian-helminthological-collection-database)  -可下载的excel文件，其中包含近50,000个主要来自澳大利亚脊椎动物的蠕虫标本.  大多数标本是来自哺乳动物，鸟类或细支气管虫的蠕虫，棘头虫或线虫.  一些标本包含在 [LNHM database](http://www.nhm.ac.uk/research-curation/scientific-resources/taxonomy-systematics/host-parasites/) 并可以通过 [helminthR](https://github.com/ropensci/helminthR). 
 * [The International Outbreak Museum](http://www.outbreakmuseum.com) -博物馆重点关注人类食源性暴发，每次 [exhibit](http://www.outbreakmuseum.com/exhibits/)  是一次不同的历史性爆发.  部分 [The Northwest Center for Foodborne Outbreak Management, Epidemiology, and Surveillance](https://health.oregonstate.edu/fomes). 
@@ -57,6 +57,7 @@
 
 ## Scientific Journals 
 * [American Journal of Tropical Medicine and Hygiene](http://www.ajtmh.org/)  -AJTMH发表广泛的论文，涵盖热带医学的主题.  经过12个月的禁运后，他们的档案可以打开.
+* [Annals of Parasitology](https://annals-parasitology.eu/go.live.php/PL-H54/archive.html)  -波兰寄生虫病学会的开放式科学期刊，原名为《WiadomościParazytologiczne_》，每季度出版一期.  开放档案始于2002年. 
 * [EFSA Journal](https://efsa.onlinelibrary.wiley.com/journal/18314732) -欧洲食品安全局的开放获取期刊，每年报告食源性疾病的暴发，人畜共患病的人和抗生素耐药性的出现. 
 * [Emerging Infectious Diseases](https://wwwnc.cdc.gov/eid/) -CDC开放存取日志.
 * [Journal of Wildlife Diseases](http://www.jwildlifedis.org/loi/jwdi) -JWD提供了许多有关新的寄生虫扩展或发现的开放获取文章.
