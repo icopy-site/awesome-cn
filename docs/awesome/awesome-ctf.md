@@ -46,7 +46,7 @@
 - [PicoCTF](https://github.com/picoCTF/picoCTF)  -用于运行picoCTF的平台.  托管任何CTF的绝佳框架.
 - [PyChallFactory](https://github.com/pdautry/py_chall_factory) -创建/管理/打包危害CTF挑战的小型框架.
 - [RootTheBox](https://github.com/moloch--/RootTheBox) -黑客游戏（CTF记分牌和游戏管理器）.
-- [Scorebot](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon).
+- [Scorebot](https://github.com/legitbs/scorebot) -Legitbs（Defcon）的CTF平台.
 - [SecGen](https://github.com/cliffe/SecGen)  -安全方案生成器.  创建随机易受攻击的虚拟机.
 
 ## Steganography
@@ -94,6 +94,7 @@
 *用于各种暴力破解（密码等）的工具*
 
 - [Hashcat](https://hashcat.net/hashcat/) -密码破解者
+- [Hydra](https://tools.kali.org/password-attacks/hydra) -并行登录破解程序，支持多种协议进行攻击
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) -开膛手约翰的社区增强版本.
 - [John The Ripper](http://www.openwall.com/john/) -密码破解程序.
 - [Nozzlr](https://github.com/intrd/nozzlr) -Nozzlr是一个蛮力的框架，完全模块化且脚本友好.
@@ -200,7 +201,7 @@
 
 * JavaScript反混淆器*
 
-- [Detox](http://relentless-coding.org/projects/jsdetox/install) -Javascript恶意软件分析工具.
+- [Detox](http://relentless-coding.org/projects/jsdetox/install) - A Javascript malware analysis tool.
 - [Revelo](http://www.kahusecurity.com/posts/revelo_javascript_deobfuscator.html) -分析混淆的Javascript代码.
 
 * SWF分析仪*
@@ -224,6 +225,8 @@
 - [Exif](http://manpages.ubuntu.com/manpages/trusty/man1/exif.1.html) -在JPEG文件中显示EXIF信息.
 - [Exiftool](https://linux.die.net/man/1/exiftool) -在文件中读取和写入元信息.
 - [Exiv2](http://www.exiv2.org/manpage.html) -图像元数据处理工具.
+- [Image Steganography](https://sourceforge.net/projects/image-steg/)  -使用可选的加密功能将文本和文件嵌入图像中.  易于使用的用户界面.
+- [Image Steganography Online](https://incoherency.co.uk/image-steganography) -这是一种客户端Javascript工具，用于将图像隐藏在其他图像的较低“位”内
 - [ImageMagick](http://www.imagemagick.org/script/index.php) -用于处理图像的工具.
 - [Outguess](https://www.freebsd.org/cgi/man.cgi?query=outguess+&apropos=0&sektion=0&manpath=FreeBSD+Ports+5.1-RELEASE&format=html) -通用隐写工具.
 - [Pngtools](https://packages.debian.org/sid/pngtools) -用于与PNG相关的各种分析.
@@ -333,7 +336,7 @@
 *有关CTF的各种通用网站*
 
 - [CTF Time](https://ctftime.org/) -有关世界各地的CTF的一般信息.
-- [Reddit Security CTF](http://www.reddit.com/r/securityctf) - Reddit CTF category.
+- [Reddit Security CTF](http://www.reddit.com/r/securityctf) -Reddit CTF类别.
 
 ## Wikis
 
@@ -348,10 +351,13 @@
 
 * CTF文章集*
 
+- [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) - Write-ups for CTF challenges by 0e85dc6eaf
 - [Captf](http://captf.com/) -psifertex倾销了CTF挑战和材料.
 - [CTF write-ups (community)](https://github.com/ctfs/) -社区维护的CTF挑战+撰写的存档.
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) -从CTF时间报废所有文章，并组织首先阅读的文章.
+- [Mzfr](https://github.com/mzfr/ctf-writeups/) -mzfr的CTF比赛报道
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) -所有使用pwntools的CTF编写的集合.
+- [SababaSec](https://github.com/SababaSec/ctf-writeups) -SababaSec团队收集的CTF文章
 - [Shell Storm](http://shell-storm.org/repo/CTF/) -乔纳森·萨尔万（Jonathan Salwan）维护的CTF挑战档案.
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) -SmokeLeetEveryday团队维护的CTF书面材料回购.
 

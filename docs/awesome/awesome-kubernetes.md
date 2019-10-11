@@ -279,7 +279,7 @@ Installers
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
-  - [Gravity](https://gravitational.com/gravity) -前Telekube
+  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
   - [Kubesphere](https://kubesphere.io/en)
@@ -330,7 +330,7 @@ Installers
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
-  - [KubeSail](https://kubesail.com) -一种简单，免费的尝试Kubernetes的方法
+  - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
   - [KubeSphere](https://kubesphere.io/en)
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
@@ -520,7 +520,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI对其进行在线监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -549,7 +549,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -569,7 +569,7 @@ Projects
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
-* [Werf](https://github.com/flant/werf) -Werf简化了构建脚本的开发，减少了提交构建时间并自动进行了部署.
+* [Werf](https://werf.io)  -具有高级功能的GitOps工具可构建映像并将其部署到Kubernetes.  与任何现有的CI系统集成.
 
 ## Serverless Implementations
 
@@ -675,6 +675,7 @@ Projects
 * [OpenVSwitch](http://openvswitch.org/)
 * [Romana](http://romana.io/)
 * [Weave Net](http://www.weave.works/docs/net/latest/kubernetes/kube-addon/)
+* [Submariner: Cross-Cluster Network Connectivity for Kubernetes](https://submariner.io) -Submariner支持在Prem或云中的不同Kubernetes集群中的Pod之间进行直接联网.
 
 ## Service mesh
 
@@ -780,7 +781,6 @@ Projects
 * [Pulumi](https://www.pulumi.com/kubernetes/) -为针对本地集群和主要云供应商的托管服务的k8s部署提供一个SDK.
 * [Puppet](http://forge.puppet.com/garethr/kubernetes/readme)
 * [Saltstack](http://docs.saltstack.com/en/latest/ref/modules/all/salt.modules.k8s.html)
-* [thesus](https://github.com/heptiolabs/theseus) -用于比较Kubernetes对象集的命令行实用程序和可导入程序包
 * [Cue](https://cue.googlesource.com/cue/+/HEAD/doc/tutorial/kubernetes/README.md)  -一种数据约束语言，旨在简化涉及定义​​和使用数据的任务.  Cue是JSON的超集
 * [ytt](https://github.com/k14s/ytt) -适用于YAML结构的YAML模板工具，使您可以专注于数据，而不是如何正确地对其进行转义.
 
@@ -811,7 +811,7 @@ Projects
 * [Avi Networks - Software Load Balancer | Intelligent WAF | Elastic Service Mesh](https://avinetworks.com/)
 * [AWS ALB Ingress Controller](https://github.com/kubernetes-sigs/aws-alb-ingress-controller)
 * [Cloudflare Warp Ingress](https://github.com/cloudflare/cloudflare-ingress-controller)
-* [Contour](https://github.com/heptio/contour) - Kubernetes ingress controller for Lyft's Envoy proxy
+* [Contour](https://github.com/heptio/contour) -Lyft的Envoy代理的Kubernetes入口控制器
 * [F5 Big IP Controller](https://github.com/F5Networks/k8s-bigip-ctlr)
 * [Gimbal](https://github.com/heptio/gimbal) -能够将流量路由到多个Kubernetes和OpenStack集群的平台
 * [Gloo - Envoy-based API gateway and ingress controller](https://github.com/solo-io/gloo)
@@ -987,7 +987,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业的潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -1018,7 +1018,7 @@ Videos
 * [Chris Aniszczyk](https://www.twitter.com/cra)，云原生计算基金会首席运营官
 * [Eric Tune](https://twitter.com/eric_tune)，Google高级工程师
 * [Ihor Dvoretskyi](https://twitter.com/idvoretskyi)，云原生计算基金会的开发倡导者
-* [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
+* [Jessie Frazzelle](https://github.com/jessfraz)，Microsoft的云开发倡导者
 * [Joe Beda](https://twitter.com/jbeda)，Heptio创始人兼首席技术官
 * [Joseph Jacks](https://twitter.com/asynchio)，昆腾公司驻地企业家
 * [Kelsey Hightower](https://twitter.com/kelseyhightower)，Google的开发人员助理

@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-关于React生态系统的一系列令人敬畏的事情.
+关于React生态系统的很棒的东西的集合.
 
 
 ---
@@ -83,93 +83,94 @@
 
 ##### React Development Tools
 
-- [create-react-app](https://github.com/facebook/create-react-app) - 通过运行一个命令设置现代Web应用程序
-- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) - 同构Web应用程序样板
-- [react-devtools](https://github.com/facebook/react-devtools) - 检查Chrome和Firefox开发人员工具中的React组件层次结构
-- [react-hot-loader](https://github.com/gaearon/react-hot-loader) - 实时调整React组件
-- [react-loadable](https://github.com/jamiebuilds/react-loadable) - 用于加载具有承诺的组件的更高阶组件
-- [loadable-components](https://github.com/smooth-code/loadable-components) - 简化了反应代码拆分
-- [reactotron](https://github.com/skellock/reactotron) - 用于检查React和React Native项目的桌面应用程序
-- [storybook](https://github.com/storybookjs/storybook) -  UI组件开发和测试
-- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) - 隔离的React组件开发环境，带有生活方式指南
-- [react-cosmos](https://github.com/react-cosmos/react-cosmos) - 用于创建可重用React组件的开发工具
-- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - 为ESLint制定特定的linting规则
-- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Static AST checker for a11y rules on JSX elements
-- [react-axe](https://github.com/dequelabs/react-axe) -  React应用程序的可访问性审核
+- [create-react-app](https://github.com/facebook/create-react-app) -通过运行一个命令来设置现代Web应用程序
+- [react-starter-kit](https://github.com/kriasoft/react-starter-kit) -同构Web应用程序样板
+- [react-devtools](https://github.com/facebook/react-devtools) -在Chrome和Firefox开发人员工具中检查React组件的层次结构
+- [react-hot-loader](https://github.com/gaearon/react-hot-loader) -实时调整React组件
+- [react-loadable](https://github.com/jamiebuilds/react-loadable) -用于加载具有承诺的组件的高阶组件
+- [loadable-components](https://github.com/smooth-code/loadable-components) -React代码拆分变得容易
+- [reactotron](https://github.com/skellock/reactotron) -用于检查您的React和React Native项目的桌面应用程序
+- [storybook](https://github.com/storybookjs/storybook) -UI组件开发和测试
+- [react-styleguidist](https://github.com/styleguidist/react-styleguidist) -隔离的React组件开发环境以及生活指南
+- [react-cosmos](https://github.com/react-cosmos/react-cosmos) -用于创建可重复使用的React组件的开发工具
+- [eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) -对ESLint的特定掉毛规则做出反应
+- [eslint-plugin-jsx-a11y](https://github.com/evcohen/eslint-plugin-jsx-a11y) -JSX元素上的a11y规则的静态AST检查器
+- [react-axe](https://github.com/dequelabs/react-axe) -React应用程序的可访问性审核
 
 ##### React Frameworks
 
-- [next.js](https://github.com/zeit/next.js) - 反应框架
-- [gatsby.js](https://github.com/gatsbyjs/gatsby) - 基于React的免费和开源框架
+- [next.js](https://github.com/zeit/next.js) -React框架
+- [gatsby.js](https://github.com/gatsbyjs/gatsby) -基于React的免费开源框架
 
 ##### React Styling
 
-- [styled-components](https://github.com/styled-components/styled-components) - 组件年龄的可视原语
-- [emotion](https://github.com/emotion-js/emotion) - 用于使用JavaScript编写CSS样式的库
-- [radium](https://github.com/FormidableLabs/radium) -  React组件样式的工具链
-- [jss](https://github.com/cssinjs/jss) -  CSS的创作工具
+- [styled-components](https://github.com/styled-components/styled-components) -组件年龄的视觉原语
+- [emotion](https://github.com/emotion-js/emotion) -用于使用JavaScript编写CSS样式的库
+- [radium](https://github.com/FormidableLabs/radium) -用于React组件样式的工具链
+- [jss](https://github.com/cssinjs/jss) -CSS创作工具
 
 ##### React Routing
 
-- [react-router](https://github.com/ReactTraining/react-router) -  React的声明性路由
-- [navi](https://github.com/frontarm/navi) -  React的声明性异步路由
-- [curi](https://github.com/pshrmn/curi) - 用于单页应用程序的JavaScript路由器
+- [react-router](https://github.com/ReactTraining/react-router) -React的声明式路由
+- [navi](https://github.com/frontarm/navi) -用于React的声明式异步路由
+- [curi](https://github.com/pshrmn/curi) -单页应用程序的JavaScript路由器
 
 ##### React Component Libraries
 
-- [material-ui](https://github.com/mui-org/material-ui) - 反应组件，以便更快，更轻松地进行Web开发
-- [ant-design](https://github.com/ant-design/ant-design) - 具有自然和确定性值的设计系统
-- [blueprint](https://github.com/palantir/blueprint) - 基于React的Web工具包
-- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) - 用于构建Microsoft Web体验的React组件
-- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - 使用React构建的Bootstrap组件
-- [reactstrap](https://github.com/reactstrap/reactstrap) - 简单的React Bootstrap 4组件
-- [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) - 官方Semantic-UI-React集成
-- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) - 用于React的Font Awesome 5组件库
-- [Reakit](https://github.com/reakit/reakit) -  React的可访问，可组合和可自定义的组件
-- [rsuite](https://github.com/rsuite/rsuite) - 一套React组件
+- [material-ui](https://github.com/mui-org/material-ui) -React组件可以更快，更轻松地进行Web开发
+- [ant-design](https://github.com/ant-design/ant-design) -具有自然与确定性价值观的设计系统
+- [blueprint](https://github.com/palantir/blueprint) -用于Web的基于React的UI工具包
+- [office-ui-fabric-react](https://github.com/OfficeDev/office-ui-fabric-react) -用于构建Microsoft Web体验的React组件
+- [react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) -用React构建的Bootstrap组件
+- [reactstrap](https://github.com/reactstrap/reactstrap) -简单的React Bootstrap 4组件
+- [semantic-ui-react](https://github.com/Semantic-Org/Semantic-UI-React) -官方的语义UI集成
+- [react-fontawesome](https://github.com/FortAwesome/react-fontawesome) -用于React的Font Awesome 5组件库
+- [Reakit](https://github.com/reakit/reakit) -React的可访问，可组合和可定制组件
+- [rsuite](https://github.com/rsuite/rsuite) -一套React组件
+- [atlaskit](https://bitbucket.org/atlassian/atlaskit-mk-2/src/master/) -根据Atlassian设计指南构建的Atlassian官方UI库.
 
 ##### React Awesome Components
 
 - [Awesome React Components list](https://github.com/brillout/awesome-react-components)
-- [react-select](https://github.com/JedWatson/react-select) - 选择反应组件
-- [react-dnd](https://github.com/react-dnd/react-dnd) - 拖放React
-- [react-grid-layout](https://github.com/strml/react-grid-layout) - 具有响应断点的可拖动且可调整大小的网格布局
-- [react-table](https://github.com/tannerlinsley/react-table/) -  React的轻量级，快速且可扩展的数据网格
-- [react-data-grid](https://github.com/adazzle/react-data-grid) - 使用React构建的类似Excel的网格组件
-- [react-draggable](https://github.com/mzabriskie/react-draggable) -  React draggable组件
-- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -  React的可调整大小和可拖动的组件
-- [react-resizable](https://github.com/strml/react-resizable) - 一个简单的React组件，可以使用句柄调整大小
-- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -  React的可调整大小的组件
-- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) -  React的可排序且可调整大小的窗格组件
-- [react-dates](https://github.com/airbnb/react-dates) - 一个易于国际化，适合移动设备的网络日期选择器库
-- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) - 日历组件
-- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -  ReactJS Datepicker
-- [react-list](https://github.com/orgsync/react-list) - 多功能无限涡旋React组件
-- [react-intl](https://github.com/yahoo/react-intl) - 国际化React应用程序
-- [react-i18next](https://github.com/i18next/react-i18next) -  React国际化做得对
-- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) - 完全可访问的React模式
-- [react-hotkeys](https://github.com/greena13/react-hotkeys) -  React的声明性热键和焦点区域管理
-- [react-keydown](https://github.com/glortho/react-keydown) - 用于React组件的轻量级keydown包装器
-- [react-joyride](https://github.com/gilbarbara/react-joyride) - 为您的应用创建导游
-- [react-virtualized](https://github.com/bvaughn/react-virtualized) - 用于有效渲染大型列表和表格数据的React组件
-- [react-window](https://github.com/bvaughn/react-window) - 用于有效渲染大型列表和表格数据的React组件
-- [react-text-mask](https://github.com/text-mask/text-mask) -  React的输入掩码
-- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) - 创建自动适应您的应用程序的骨架屏幕
-- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) - 使用CSS为React动画的加载指示符集合
-- [rheostat](https://github.com/airbnb/rheostat) - 使用React构建的可访问滑块组件
-- [qrcode.react](https://github.com/zpao/qrcode.react) - 用于React的QR组件
+- [react-select](https://github.com/JedWatson/react-select) -React的选择组件
+- [react-dnd](https://github.com/react-dnd/react-dnd) -拖放进行React
+- [react-grid-layout](https://github.com/strml/react-grid-layout) -具有可响应断点的可拖动和可调整大小的网格布局
+- [react-table](https://github.com/tannerlinsley/react-table/) -用于React的轻量级，快速和可扩展的数据网格
+- [react-data-grid](https://github.com/adazzle/react-data-grid) -使用React构建的类似于Excel的网格组件
+- [react-draggable](https://github.com/mzabriskie/react-draggable) -反应可拖动组件
+- [react-resizable-and-movable](https://github.com/bokuweb/react-resizable-and-movable) -React的可调整大小和可拖动组件
+- [react-resizable](https://github.com/strml/react-resizable) -一个简单的React组件，可以通过手柄调整其大小
+- [react-resizable-box](https://github.com/bokuweb/react-resizable-box) -React的可调整大小的组件
+- [react-sortable-pane](https://github.com/bokuweb/react-sortable-pane) -React的可排序和可调整大小的窗格组件
+- [react-dates](https://github.com/airbnb/react-dates) -适用于网络的易于国际化，移动友好的日期选择器库
+- [react-big-calendar](https://github.com/intljusticemission/react-big-calendar) -日历组件
+- [react-datepicker](https://github.com/Hacker0x01/react-datepicker/) -ReactJS Datepicker
+- [react-list](https://github.com/orgsync/react-list) -通用的无限滚动React组件
+- [react-intl](https://github.com/yahoo/react-intl) -国际化React应用
+- [react-i18next](https://github.com/i18next/react-i18next) -React的国际化做对了
+- [react-aria-modal](https://github.com/davidtheclark/react-aria-modal) -完全可访问的React模式
+- [react-hotkeys](https://github.com/greena13/react-hotkeys) -用于React的声明式热键和重点区域管理
+- [react-keydown](https://github.com/glortho/react-keydown) -用于React组件的轻型keydown包装器
+- [react-joyride](https://github.com/gilbarbara/react-joyride) - Create guided tours for your apps
+- [react-virtualized](https://github.com/bvaughn/react-virtualized) -React组件，可有效呈现大型列表和表格数据
+- [react-window](https://github.com/bvaughn/react-window) -React组件，可有效呈现大型列表和表格数据
+- [react-text-mask](https://github.com/text-mask/text-mask) -React的输入掩码
+- [react-loading-skeleton](https://github.com/dvtng/react-loading-skeleton) -创建自动适应您的应用程序的框架屏幕
+- [react-spinkit](https://github.com/KyleAMathews/react-spinkit) -用CSS动画化的React加载指示器集合
+- [rheostat](https://github.com/airbnb/rheostat) -使用React构建的可访问滑块组件
+- [qrcode.react](https://github.com/zpao/qrcode.react) -与React一起使用的QR组件
 
 ##### React for Command Line
 
-- [ink](https://github.com/vadimdemedes/ink) - 对交互式命令行应用程序进行反应
-- [react-blessed](https://github.com/Yomguithereal/react-blessed) - 祝福终端接口库的React渲染器
+- [ink](https://github.com/vadimdemedes/ink) -对交互式命令行应用程序做出反应
+- [react-blessed](https://github.com/Yomguithereal/react-blessed) -祝福终端接口库的React渲染器
 
 ##### React Testing
 
-- [jest](https://github.com/facebook/jest) - 令人愉快的JavaScript测试框架
-- [enzyme](https://github.com/airbnb/enzyme) -  React的JavaScript测试实用程序
-- [react-testing-library](https://github.com/testing-library/react-testing-library) - 简单而完整的React DOM测试实用程序
-- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -  React挂钩测试实用程序，鼓励良好的测试实践
+- [jest](https://github.com/facebook/jest) -令人愉快的JavaScript测试框架
+- [enzyme](https://github.com/airbnb/enzyme) -用于React的JavaScript测试实用程序
+- [react-testing-library](https://github.com/testing-library/react-testing-library) -简单而完整的React DOM测试实用程序
+- [react-hooks-testing-library](https://github.com/mpeyper/react-hooks-testing-library) -React hooks测试实用程序，鼓励良好的测试实践
 
 ##### React Libraries
 
@@ -178,7 +179,6 @@
 - [react-toolbox - A set of React components implementing Google's Material Design specification](https://github.com/react-toolbox/react-toolbox)
 - [tcomb-react - Library allowing you to check all the props of your React components](https://github.com/gcanti/tcomb-react)
 - [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
-- [react-is-responsive - A utility to create responsive components in React](https://github.com/sonaye/react-is-responsive)
 - [react-cursor - Functional state management abstraction for use with Facebook React](https://github.com/dustingetz/react-cursor)
 - [Omniscient.js - Abstracting React components for fast top down render of immutable data](https://github.com/omniscientjs/omniscient)
 - [Touchstonejs - React.js powered UI framework for developing beautiful hybrid mobile apps.](https://github.com/touchstonejs/touchstonejs)
@@ -194,26 +194,23 @@
 - [AtlasKit - Atlassian's React UI library](https://atlaskit.atlassian.com/)
 - [ReactiveSearch - UI components library for Elasticsearch](https://github.com/appbaseio/reactivesearch)
 - [Slate - A completely customizable framework for building rich text editors.](https://github.com/ianstormtaylor/slate)
-- [react-animated-transitions - Easy animated transitions in React](https://github.com/sonaye/react-animated-transitions)
 - [react-json-schema - Construct React elements from JSON by mapping JSON definitions to React components that you expose.](https://github.com/TechniqueSoftware/react-json-schema)
 - [compose-state - Compose multiple setState or getDerivedStateFromProps updaters in React](https://github.com/tvler/compose-state)
-- [react-with-analytics - Google Analytics for React apps with ease](https://github.com/sonaye/react-with-analytics)
-- [react-cache-me-outside - OTA data updates for React apps. How bow dat!](https://github.com/sonaye/react-cache-me-outside)
 - [PrimeReact - The Most Complete UI Framework for React!](https://github.com/primefaces/primereact)
 - [react-lodash - Lodash as React components](https://github.com/typicode/react-lodash)
 - [react-helmet - A document head manager for React](https://github.com/nfl/react-helmet)
 - [Stator - Simple, plain JavaScript state management with built-in support for React](https://github.com/cs01/stator)
 - [ClearX - Fast & Effortless State management for React with zero learning curve. ClearX gives great flexibiility in separation of concerns for your React applicationss](https://github.com/Autodesk/clearx)
-- [react-snap](https://github.com/stereobooster/react-snap) - 针对SPA的零配置框架无关的静态预渲染
-- [Draft.js](https://github.com/facebook/draft-js) - 用于构建文本编辑器的React框架
-- [refract](https://github.com/fanduel-oss/refract) - 利用反应式编程的强大功能为组件增压
+- [react-snap](https://github.com/stereobooster/react-snap) -SPA的零配置框架不可知静态静态呈现
+- [Draft.js](https://github.com/facebook/draft-js) -一个用于构建文本编辑器的React框架
+- [refract](https://github.com/fanduel-oss/refract) -利用反应式编程的力量为您的组件增压
 - [react-desktop - OS X and Windows UI components built with React](https://github.com/gabrielbull/react-desktop)
 - [Reapop - A React & Redux notifications system](https://github.com/LouisBarranqueiro/reapop)
-- [react-extras](https://github.com/sindresorhus/react-extras) - 使用React的有用组件和实用程序
-- [react-instantsearch](https://github.com/algolia/react-instantsearch) -  Algolia快速搜索React和React Native应用程序
-- [uppy](https://github.com/transloadit/uppy) - 用于Web浏览器的下一个开源文件上传器
-- [react-motion](https://github.com/chenglou/react-motion) - 一个解决动画问题的弹簧
-- [react-esi](https://github.com/dunglas/react-esi) -  React Edge Side包含
+- [react-extras](https://github.com/sindresorhus/react-extras) -使用React的有用组件和实用程序
+- [react-instantsearch](https://github.com/algolia/react-instantsearch) -通过Algolia快速搜索React和React Native应用程序
+- [uppy](https://github.com/transloadit/uppy) -下一个适用于网络浏览器的开源文件上传器
+- [react-motion](https://github.com/chenglou/react-motion) -可以解决动画问题的弹簧
+- [react-esi](https://github.com/dunglas/react-esi) -React Edge侧面包括
 
 ##### React Integration
 
@@ -339,7 +336,6 @@
 - [valuable - An immutable data store for React](https://github.com/josephsavona/valuable)
 - [react-resolver - Isomorphic library to recursively lazy-load data for React components](https://github.com/ericclemmons/react-resolver)
 - [freezer-js - Lightweight and reactive immutable data structure for React](https://github.com/arqex/freezer)
-- [Qaf - Components as stores. Simple state management for React based on context](https://github.com/sonaye/qaf)
 - [baobab - JavaScript persistent and optionally immutable data tree with cursors](https://github.com/Yomguithereal/baobab)
 - [baobab-react - React integration for Baobab](https://github.com/Yomguithereal/baobab-react)
 - [datascript - Immutable database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
@@ -354,7 +350,7 @@
 - [WatermelonDB - 🍉 Next-gen database for powerful React and React Native apps that scales to 10,000s of records and remains fast](https://github.com/Nozbe/WatermelonDB)
 - [Effector — Fast and powerful reactive state manager. Lets you write simple, fast and type safe code and manage reactive state with ease.](https://github.com/zerobias/effector)
 - [reactn - React, but with built-in global state management](https://github.com/CharlesStover/reactn)
-- [immer](https://github.com/immerjs/immer) - 通过改变当前状态来创建下一个不可变状态
+- [immer](https://github.com/immerjs/immer) -通过更改当前状态来创建下一个不可变状态
 
 ##### Maps
 
@@ -379,7 +375,7 @@
 - [Victory - A collection of composable React components for building interactive data visualizations](https://github.com/FormidableLabs/victory)
 - [Recharts - A charting library built on D3 with an awesome declarative API](https://github.com/recharts/recharts)
 - [React-ApexCharts - React component for ApexCharts (An Interactive SVG Chart Library)](https://github.com/apexcharts/react-apexcharts)
-- [reaviz](https://github.com/jask-oss/reaviz) - 基于D3.js的React数据可视化库
+- [reaviz](https://github.com/jask-oss/reaviz) -基于D3.js的React数据可视化库
 - [react-vis - A React visualization library designed with the following principles in mind: React-friendly, high-level and customizable, expressive, and industry-strong.](https://github.com/uber/react-vis)
 - [nivo - It provides a rich set of data visualization components, built on top of the D3 and React libraries.](https://github.com/plouc/nivo)
 - [vx - A collection of reusable low-level visualization components. It combines the power of D3 to generate your visualization with the benefits of React for updating the DOM.](https://github.com/hshoff/vx)
@@ -420,7 +416,7 @@
 
 #### React Native Development Tools
 
-- [react-native-code-push](https://github.com/microsoft/react-native-code-push) -  CodePush的React Native模块
+- [react-native-code-push](https://github.com/microsoft/react-native-code-push) -CodePush的React Native模块
 
 #### React Native Sample Apps
 
@@ -439,8 +435,8 @@
 
 #### React Native Awesome Components
 
-- [Expo](https://expo.io/) - 用于制作跨平台移动应用程序的Expo平台
-- [react-navigation](https://reactnavigation.org/) -  React Native应用程序的路由和导航
+- [Expo](https://expo.io/) -用于制作跨平台移动应用程序的Expo平台
+- [react-navigation](https://reactnavigation.org/) -您的React Native应用的路由和导航
 - [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native](https://github.com/doefler/react-native-social-share)
 - [react-native-fbsdk - A wrapper around the iOS Facebook SDK](https://github.com/facebook/react-native-fbsdk)
 - [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
@@ -454,10 +450,10 @@
 
 ### React AR/VR
 
-&gt; React用于增强和虚拟现实的用法
+&gt;将React用于增强现实和虚拟现实
 
-- [React 360](https://facebook.github.io/react-360/) - 使用React创建令人兴奋的360和VR体验
-- [Viro React](https://viromedia.com/viroreact/) - 使用React Native快速构建AR / VR应用程序的平台
+- [React 360](https://facebook.github.io/react-360/) -使用React创建令人兴奋的360和VR体验
+- [Viro React](https://viromedia.com/viroreact/) -使用React Native快速构建AR / VR应用程序的平台
 
 ---
 
@@ -469,7 +465,7 @@
 
 ### Flux
 
-&gt;用于构建用户界面的应用程序架构
+&gt;建立用户界面的应用架构
 
 #### Flux General Resources
 
@@ -523,7 +519,7 @@
 
 ### Redux
 
-&gt; JavaScript应用程序的可预测状态容器
+&gt; JavaScript应用的可预测状态容器
 
 #### Redux General Resources
 
@@ -553,7 +549,7 @@
 - [R16N - A redux/react I18n solution](https://github.com/razodeh/r16n/)
 - [redux-actiontyper - Helper to create less verbose action types for Redux](https://github.com/alnorris/redux-actiontyper)
 - [redux-state-validator - A simple redux middleware to validate redux state values and object types using JSON Schema](https://github.com/suyesh/redux-state-validator)
-- [redux-persist](https://github.com/rt2zz/redux-persist) - 坚持并补充redux商店
+- [redux-persist](https://github.com/rt2zz/redux-persist) -持久化Redux商店并为其补水
 
 #### Redux Tutorials
 
@@ -579,7 +575,7 @@
 
 ### MobX
 
-&gt; JavaScript应用程序的简单，可扩展状态管理
+&gt; JavaScript应用程序的简单，可扩展的状态管理
 
 #### MobX General Resources
 
@@ -649,7 +645,7 @@
 
 #### Database Integration
 
-- [Hasura](https://hasura.io/) -  Postgres上的即时实时GraphQL
+- [Hasura](https://hasura.io/) -Postgres上的即时实时GraphQL
 - [Prisma - a performant open-source GraphQL ORM-like \* layer doing the heavy lifting in your GraphQL server.](https://www.prisma.io/)
 - [graphql-bookshelf - Some help defining GraphQL schema around BookshelfJS models](https://github.com/brysgo/graphql-bookshelf)
 - [GraphpostgresQL - GraphQL for **PostgreSQL**](https://github.com/solidsnack/GraphpostgresQL)
@@ -661,7 +657,7 @@
 
 ### Relay
 
-&gt;数据驱动的反应应用程序
+&gt;数据驱动的React应用程序
 
 #### Relay General Resources
 
@@ -686,7 +682,7 @@
 
 ### Apollo
 
-&gt;基于GraphQL的数据堆栈
+&gt;基于GraphQL的数据栈
 
 #### Apollo General Resources
 
@@ -782,7 +778,6 @@
 - [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 - [React/Redux CRUD with persistent state in Local Storage](https://github.com/cristianszwarc/react_crud_localStorage/)
 - [React Slack clone - comprehensive Slack clone built with React and Chatkit](https://github.com/pusher/react-slack-clone/)
-- [react-color-wander - Generative art with React](https://github.com/sonaye/react-color-wander)
 - [overreacted.io - Personal blog by Dan Abramov](https://github.com/gaearon/overreacted.io)
 
 ---
@@ -802,8 +797,8 @@
 - [React Code Splitting Sample - React + React Router + Flux](https://github.com/tiarebalbi/flux-main-sample)
 - [Responsive React 'The Movie Database' (TMDb) App](https://github.com/SKempin/reactjs-tmdb-app)
 - [CoreUI - Free Admin Panel built with React and Bootstrap 4](https://github.com/coreui/coreui-free-react-admin-template)
-- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) - 使用React和Redux构建的简单电子商务购物车应用程序
-- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) - 使用React和GraphQL，使用通用JavaScript重写黑客新闻克隆
+- [react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart) -使用React和Redux构建的简单电子商务购物车应用程序
+- [hackernews-react-graphql](https://github.com/clintonwoo/hackernews-react-graphql) -使用React和GraphQL用通用JavaScript重写了Hacker News克隆
 
 ---
 
@@ -818,6 +813,6 @@
 
 ### Contribution
 
- 这个列表最初是作为关于React的有趣事物的个人收集.  当它开始React处于测试阶段时，有一个特殊的脚本将JSX转换为JS，甚至Flux还没有发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公共推送实验的地方.  请在这里只有完全免费的资源.  不过，欢迎您的贡献和建议.  （✿◠‿◠）
+ 该列表最初是关于React有趣的事情的个人收藏.  在React刚开始测试时，它是一个特殊的脚本，可以将JSX转换为JS，甚至Flux尚未发布.  React现在是主流，发生了很多事情.  请不要尝试将此列表用作广告板或公开宣传实验的地方.  请只在这里提供完全免费的资源.  诚挚地欢迎您的贡献和建议♡.  （✿◠‿◠）
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

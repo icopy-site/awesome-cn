@@ -311,7 +311,7 @@
 
 * [immutable-js](https://github.com/facebook/immutable-js) -不可变的数据集合，包括序列，范围，重复，图，OrderedMap，集合和稀疏向量.
 * [mori](https://github.com/swannodette/mori) -一个库，用于使用ClojureScript的持久数据结构并从原始JavaScript的舒适性中支持API.
-* [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
+* [buckets](https://github.com/mauriciosantos/Buckets-JS) -用JavaScript编写的完整，经过全面测试和记录的数据结构库.
 * [hashmap](https://github.com/flesler/hashmap) -支持任何类型键的简单哈希图实现.
 
 
@@ -373,6 +373,7 @@
 * [DB.js](https://github.com/aaronpowell/db.js/) -基于Promise的IndexDB包装器库.
 * [lawnchair.js](https://github.com/brianleroux/lawnchair/) -简单的客户端JSON存储.
 * [sql.js](https://github.com/kripken/sql.js) -通过Emscripten将SQLite编译为JavaScript.
+* [crumbsjs](https://github.com/nirtz89/crumbsjs) -轻巧的香草ES6 Cookie和本地存储JavaScript库.
 
 
 ## Color
@@ -399,7 +400,7 @@
 * [q](https://github.com/kriskowal/q) -用于在JavaScript中创建和组合异步承诺的工具.
 * [step](https://github.com/creationix/step/) -异步控制流库，使逐步学习逻辑变得容易.
 * [contra](https://github.com/bevacqua/contra/) -具有功能趣味的异步流控制.
-* [Bluebird](https://github.com/petkaantonov/bluebird/) -功能齐全的承诺库，侧重于创新功能和性能.
+* [Bluebird](https://github.com/petkaantonov/bluebird/) - fully featured promise library with focus on innovative features and performance.
 * [when](https://github.com/cujojs/when) -可靠，快速的Promises / A +和when（）实现，以及其他异步工具.
 * [ObjectEventTarget](https://github.com/gartz/ObjectEventTarget) -提供一个为事件侦听器添加支持的原型（浏览器上提供的DOMElements具有与EventTarget相同的行为）.
 

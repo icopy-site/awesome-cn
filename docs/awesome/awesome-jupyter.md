@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Jupyter [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-精选的超赞清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开源Web应用程序，它使您可以创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
+精选的超赞清单 [Jupyter](http://jupyter.org)  项目，图书馆和资源.  Jupyter是一个开放源代码Web应用程序，允许您创建和共享包含实时代码，方程式，可视化效果和叙述文本的文档.
 
 <h1 align="center" style="border-bottom: 0px;">
 	<br>
@@ -23,7 +23,7 @@
 - [Hydrogen](https://github.com/nteract/hydrogen) -使用Jupyter内核在Atom中内联运行代码.
 - [Jupyter Notebook](https://github.com/jupyter/notebook) -主要的Jupyter笔记本运行时.
 - [JupyterHub](https://github.com/jupyterhub/jupyterhub) -Jupyter的多用户服务器.
-- [JupyterLab](https://github.com/jupyterlab/jupyterlab) -JupyterLab是Jupyter的下一代用户界面.
+- [JupyterLab](https://github.com/jupyterlab/jupyterlab) - JupyterLab is the next generation user interface for Jupyter.
 - [JupyterWith](https://github.com/tweag/jupyterWith) -基于Nix的框架，用于定义声明性和可复制的Jupyter环境.
 - [ShopRunner/jupyter-notify](https://github.com/ShopRunner/jupyter-notify) -单元魔术，用于浏览器通知单元完成.
 - [kaggle/docker-python](https://github.com/kaggle/docker-python) -Kaggle Python docker映像，其中包含数据集和软件包.
@@ -89,6 +89,7 @@
 ## JupyterLab Extensions
 
 - [celltags](https://github.com/jupyterlab/jupyterlab-celltags) -使用单元标签扩展组织和执行笔记本的功能.
+- [code_formatter](https://github.com/ryantam626/jupyterlab_code_formatter) -通用代码格式化程序.
 - [drawio](https://github.com/QuantStack/jupyterlab-drawio) -显示drawio / mxgraph图的扩展.
 - [git](https://github.com/jupyterlab/jupyterlab-git) -扩展git集成.
 - [go-to-definition](https://github.com/krassowski/jupyterlab-go-to-definition) -用于在JupyterLab中导航到变量或函数的定义的扩展.
@@ -96,8 +97,18 @@
 - [jupyterlab_email](https://github.com/timkpaine/jupyterlab_email) -通过JupyterLab发送电子邮件给笔记本及其内容.
 - [jupyterlab-kyso](https://github.com/kyso-io/jupyterlab-extension) -扩展了将笔记本发布到 [Kyso](https://kyso.io) Jupyterlab开发的平台.
 - [latex](https://github.com/jupyterlab/jupyterlab-latex) -扩展功能，可实时编辑LaTeX文档.
+- [nb_black](https://github.com/dnanhkhoa/nb_black) -扩展以保持Python代码使用自动格式化 [black](https://github.com/psf/black).
+- [python-bytecode](https://github.com/jtpio/jupyterlab-python-bytecode) -在JupyterLab中探索CPython字节码.
+- [quickopen](https://github.com/parente/jupyterlab-quickopen) -通过输入文件名的一部分在JupyterLab中快速打开文件.
+- [sidecar](https://github.com/jupyter-widgets/jupyterlab-sidecar) -JupyterLab的sidecar输出小部件.
+- [sql](https://github.com/pbugnion/jupyterlab-sql) -JupyterLab的SQL GUI.
+- [system-monitor](https://github.com/jtpio/jupyterlab-system-monitor) -扩展显示系统指标.
+- [templates](https://github.com/timkpaine/jupyterlab_templates) -支持Jupyter Notebook模板.
+- [theme-darcula](https://github.com/telamonian/theme-darcula) -Jupyterlab的Darcula主题.
 - [toc](https://github.com/jupyterlab/jupyterlab-toc) -提供笔记本目录的扩展程序.
+- [topbar](https://github.com/jtpio/jupyterlab-topbar) -JupyterLab的顶部栏扩展.
 - [variableinspector](https://github.com/lckr/jupyterlab-variableInspector) -显示变量及其值的变量检查器扩展.
+- [vim](https://github.com/jwkvam/jupyterlab-vim) -Vim笔记本单元绑定.
 - [voyager](https://github.com/altair-viz/jupyterlab_voyager) -用于查看CSV和JSON数据的扩展 [Voyager](http://vega.github.io/voyager/).
 
 ## Testing
@@ -120,7 +131,7 @@
 
 - [Anaconda Enterprise](https://www.anaconda.com/enterprise/) -模型，笔记本和仪表板的多用户协作和一键式部署.
 - [Azure Notebooks](https://notebooks.azure.com) -在Microsoft Azure上的云中运行的Jupyter笔记本.
-- [CoCalc](https://cocalc.com) - Notebooks with 17 supported kernel types, course management, LaTeX document authoring, simultaneous document editing and integration with the SageMath computer algebra system.
+- [CoCalc](https://cocalc.com) -具有17种受支持的内核类型，课程管理，LaTeX文档创作，同步文档编辑以及与SageMath计算机代数系统集成的笔记本.
 - [DataScience.com](https://www.datascience.com) -企业数据科学平台.
 - [Deepnote](https://www.deepnote.com) -兼容Jupyter的数据科学笔记本，具有实时协作，版本控制和易于部署的功能.
 - [Domino Data Lab](https://www.dominodatalab.com) -具有集成协作工具，环境管理和计算网格的数据科学平台.

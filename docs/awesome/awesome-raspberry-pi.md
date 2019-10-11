@@ -25,7 +25,7 @@
 - [Raspberry Pi Zero](https://www.raspberrypi.org/products/raspberry-pi-zero/) （2015年11月）
 - [Raspberry Pi 3, Model B](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/) （2016年3月）
 - [Raspberry Pi Zero W](https://www.raspberrypi.org/products/raspberry-pi-zero-w/) （2017年2月）
-- [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) （2018年3月）
+- [Raspberry Pi 3, Model B+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) (March, 2018)
 - [Raspberry Pi 3, Model A+](https://www.raspberrypi.org/products/raspberry-pi-3-model-a-plus/) （2018年11月）
 - [Raspberry Pi 4, Model B](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/) （2019年6月）
 
@@ -73,7 +73,7 @@
 - [Recalbox](https://www.recalbox.com) -在Raspberry Pi上拖放轻型复古游戏和媒体中心.
 - [RetroPie](https://retropie.org.uk/) -在Raspberry Pi上进行复古游戏.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) -非Linux操作系统起源于开发ARM微处理器的小组.
-- [Rocket Show](https://rocketshow.net) - Play synced backing tracks, videos and DMX light-sequences live on stage. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [Rocket Show](https://rocketshow.net) -在舞台上实时播放同步的背景音乐，视频和DMX序列. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [RuneAudio](http://www.runeaudio.com/) -免费和开源的OS，可将嵌入式硬件转变为Hi-Fi音乐播放器.
 - [SamplerBox](http://www.samplerbox.org/makeitsoftware) -Drop&#39;n&#39;play采样器：将.WAV采样拖放到SD卡上，然后播放！
 - [SARPi](http://sarpi.fatdog.nl/index.php?p=sarpi) -代表Raspberry Pi上的Slackware ARM.
@@ -88,18 +88,19 @@
 
 - [Alpha](https://github.com/farjump/raspberry-pi) -通过此系统级GDB服务器，使用GDB远程加载，调试和测试裸机程序.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) -macOS应用程序，可轻松将映像安装/备份/还原到SD卡上.
-- [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
+- [CusDeb](https://cusdeb.com/en/) -用于创建安装了特定程序包的自定义图像的Web UI.
 - [balenaEtcher](https://www.balena.io/etcher/) -SD卡刻录机应用程序，对于最终用户来说很简单，对于开发人员来说可以扩展，并且可以在任何平台上运行.
 - [HealthyPi](https://github.com/Protocentral/protocentral-healthypi-v3) -HAT包括重要的健康监测，例如心电图，呼吸，脉搏血氧饱和度以及可选的血压和体温感应. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [iotwifi](https://github.com/cjimti/iotwifi) -8 MB的Wifi AP +客户端管理 [Docker Container](https://hub.docker.com/r/cjimti/iotwifi/)，带有用于同时控制wifi客户端和站点模式的REST API. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) -设置Pi Zero，以扫描WiFi网络上的设备，并使用它来确定谁是“家”.
 - [OpenVPN-Setup](https://github.com/StarshipEngineer/OpenVPN-Setup) -用于将Raspberry Pi设置为OpenVPN服务器的Shell脚本.
-- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门所需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [Orangetool](https://github.com/Moduland/Orangetool) -Python中单板计算机的控制功能.
+- [P4wnP1](https://github.com/mame82/P4wnP1) -P4wnP1是一个高度可定制的USB攻击平台，基于低成本的Raspberry Pi Zero或Raspberry Pi Zero W（HID后门必需）. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [pi-gen](https://github.com/RPi-Distro/pi-gen)  -用于创建raspberrypi.org Raspbian图像的工具.  这可用于创建安装了特定软件包等的自定义映像.
 - [PiBakery](http://www.pibakery.org/) -基于块的Raspberry Pi易于使用的设置工具.
 - [Pieman](https://github.com/tolstoyevsky/pieman) -用于基于Raspbian，Devuan，Ubuntu和Alpine Linux创建自定义映像的脚本.
 - [PiShrink](https://github.com/Drewsif/PiShrink/) -Bash脚本，该脚本会自动缩小pi映像，然后将其大小调整为启动时SD卡的最大大小.
-- [PoisonTap](https://github.com/samyk/poisontap) -使用Raspberry Pi Zero和Node.js通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并使用Raspberry Pi Zero和Node.js虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Processing](https://pi.processing.org/get-started/) -在Raspberry Pi上运行的处理开发环境.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) -一个简单的响应式Web界面，可控制Raspberry Pi上的wifi，hostapd和相关服务.
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  -简单的工具，可以在Raspbian上启动QEMU，并在系统和内核上进行了必要的修改.  自动网络访问.  方便在PC中创建图像.
@@ -123,7 +124,7 @@
 - [FistBump BLE Edition](https://github.com/eliddell1/Project-Blue-Fist/blob/master/README.md) -WPA哈希抓取蓝牙外围设备/ Android应用程序.
 - [FruitNanny](https://ivadim.github.io/2017-08-21-fruitnanny/) -婴儿监视器，包括自定义案例，服务器和客户端源代码. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Garage Door Opener](https://github.com/benjefferies/gogo-garage-opener) -使用 [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) 应用程序来控制车库门.
-- [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) -使用7英寸Raspberry Pi显示器模仿哈利波特的《每日先知》的显示器.
+- [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) -由Raspberry Pi驱动的助听器原型. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [Jasper](https://jasperproject.github.io/) -灵活的开源个人助理.
 - [Kubernetes on ARM](https://github.com/luxas/kubernetes-on-arm) -在不到十分钟的时间内启动ARM设备并运行Kubernetes.
@@ -165,6 +166,7 @@
 - [Sonus](https://github.com/evancohen/sonus) -可自定义的脱机热门单词检测功能，用于Pi（以及其他所有功能）的Node.js语音控制.
 - [speed-camera](https://github.com/pageauc/speed-camera) -对象运动跟踪使用python，openCV，USB Cam或picamera模块记录速度数据.
 - [Stratux](https://github.com/cyoung/stratux) -开源ADS-B接收器，可通过wifi将天气，交通，GPS和AHRS数据馈送到电子飞行包软件.
+- [StreamPi](https://stream-pi.com/) -Elgato Stream Deck的强大替代品，可以启动应用程序，脚本，网站并控制OBS等应用程序.
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) -使用倾斜和平移激光器在记录集合中查找记录.
 - [Voice Kit](https://aiyprojects.withgoogle.com/voice) -Google的AIY语音工具包，用于使用Google助手构建独立的语音识别系统，或为基于Raspberry Pi的项目添加语音识别和自然语言处理.
 - [Waves](https://github.com/euniceylee/waves) -通过麦克风，波形和热敏打印机将口语的瞬态转换为具体的物理内容.

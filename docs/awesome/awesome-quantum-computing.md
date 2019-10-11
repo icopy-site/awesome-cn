@@ -69,13 +69,15 @@
 
 ## Blogs
 
-- [Qiskit blog](https://medium.com/qiskit) -有关Qiskit社区团队的量子计算的一切
 - [Algorithmic Assertions](http://algassert.com/) -关于量子计算和一般的计算，作者：克雷格·吉德尼（Craig Gidney）-Google量子计算团队的成员.
 - [Bits of Quantum](http://blog.qutech.nl/) -由QuTech机构分享研究成果和日常生活.
 - [Dawid Kopczyk](http://dkopczyk.quantee.co.uk/category/quantum_computing/) -通过可视化向数据科学家解释量子算法.
 - [Decodoku](https://medium.com/@decodoku) -James Wootton撰写的有趣的量子计算文章.
+- [Qiskit blog](https://medium.com/qiskit) -有关Qiskit社区团队的量子计算的一切.
 - [Quantum Frontiers](https://quantumfrontiers.com/) -由量子信息与物质研究所所长，在幕后分享研究见解.
 - [Quantum Weekly](https://quantumweekly.com/) -所有事物量子的每周关联-计算，密码学和纠缠.
+- [Q# Blog](https://devblogs.microsoft.com/qsharp/) -Microsoft Quantum开发更新. 
+- [Shtetl-Optimized](https://www.scottaaronson.com/blog/) -斯科特·亚伦森（Scott Aaronson）关于量子计算的思想.
 
 ## Books
 

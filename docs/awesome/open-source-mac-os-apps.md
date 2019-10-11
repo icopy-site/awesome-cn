@@ -26,7 +26,7 @@
 -！[cpp_icon]-C ++语言.
 - ![c_sharp_icon] - C# language.
 -！[clojure_icon]-Clojure语言.
-- ![coffee_script_icon] - CoffeeScript language.
+-！[coffee_script_icon]-CoffeeScript语言.
 -！[css_icon]-CSS语言.
 -！[go_icon]-语言.
 -！[elm_icon]-榆木语言.
@@ -51,6 +51,8 @@
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic)  -背景音乐，一种macOS音频实用程序：自动暂停您的音乐，设置单个应用的音量并录制系统音频.  ！[cpp_icon] 
 - [BlackHole](https://github.com/ExistentialAudio/BlackHole)  -BlackHole是现代的macOS虚拟音频驱动程序，允许应用程序以零附加延迟将音频传递到其他应用程序.  ！[c_icon] 
 - [CAM](https://github.com/hanayik/CAM) -使用ffmpeg录制macOS摄像机！[javascript_icon] 
+- [Clementine](https://github.com/clementine-player/Clementine)  -Clementine是Windows，Linux和macOS的现代音乐播放器和图书馆组织者.  ！[cpp_icon] 
+- [Cog](https://bitbucket.org/losnoco/cog/src)  -Cog是macOS的开源音频播放器.  基本布局是一个单窗格播放列表界面，带有两个可伸缩抽屉，一个用于浏览用户的音乐文件夹，另一个用于查看音频文件属性，例如比特率！[objective_c_icon] 
 - [LocalRadio](https://github.com/dsward2/LocalRadio)  -LocalRadio是用于在Mac和移动设备上收听“软件定义的广播”的软件.  ！[objective_c_icon] 
 - [Lyricism](https://github.com/lyc2345/Lyricism)  -macOS应用程序，向您显示歌词，当前iTunes或Spotify正在播放什么.  ！[objective_c_icon]！[swift_icon] 
 - [LyricsX](https://github.com/ddddxxx/LyricsX)  -iTunes，Spotify和Vox的歌词.  ！[swift_icon] 
@@ -86,6 +88,7 @@
 
 ### Chat
 - [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac)  -围绕Google独立的Android Messenger的Mac应用程序包装.  ！[javascript_icon] 
+- [Beagle IM](https://github.com/tigase/beagle-im)  强大的XMPP客户端，支持文件传输，VoIP和端到端加密.  ！[swift_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat)  -WhatsApp Web的本机Mac应用程序包装.  ！[objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat)  -在macOS和Linux上更好的微信.  ！[javascript_icon] 
 - [Franz](https://github.com/meetfranz/franz)  -Franz是用于WhatsApp，Slack，Messenger等服务的消息传递应用程序.  ！[javascript_icon] 
@@ -177,7 +180,7 @@
 - [Asset Catalog Tinkerer](https://github.com/insidegui/AssetCatalogTinkerer)  -该应用程序可让您打开.car文件并浏览/提取其图像.  ！[objective_c_icon]！[swift_icon] 
 - [Assets](https://github.com/athiercelin/Assets)  -资产是一款macOS应用，可管理您的开发项目（Xcode，Web等）的资产.  ！[swift_icon] 
 - [Attabench](https://github.com/attaswift/Attabench)  -Attabench是适用于macOS的微基准测试应用程序，旨在测量和可视化Swift代码的性能.  ！[swift_icon] 
-- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub) - Small application to monitor your GitHub project web page in a native macOS app :octocat:!  ![objective_c_icon] 
+- [Board For GitHub](https://github.com/JustinFincher/BoardForGitHub)  -小型应用程序，用于在本机macOS应用程序中监视您的GitHub项目网页：octocat :!  ！[objective_c_icon] 
 - [Brisk](https://github.com/br1sk/brisk)  -用于提交雷达的macOS应用.  ！[swift_icon] 
 - [Cleaner for Xcode](https://github.com/waylybaye/XcodeCleaner)  -使用react-native-macOS构建的Xcode.app清洁程序.  ！[objective_c_icon] 
 - [CocoaRestClient](https://github.com/mmattozzi/cocoa-rest-client)  -用于测试HTTP / REST端点的本地Apple macOS应用.  ！[objective_c_icon] 
@@ -225,7 +228,7 @@
 
 #### Markdown
 - [Gingko](https://github.com/gingko/client)  -适用于macOS，Windows和Linux的树型markdown编辑器.  ！[elm_icon] 
-- [MacDown](https://github.com/MacDownApp/macdown)  -适用于macOS的Markdown编辑器.  ！[objective_c_icon] 
+- [MacDown](https://github.com/MacDownApp/macdown) - Markdown editor for macOS.  ![objective_c_icon] 
 - [Mark Text](https://github.com/marktext/marktext/)  -适用于macOS Windows和Linux的实时预览降价编辑器.  ！[javascript_icon] 
 - [Pine](https://github.com/lukakerr/Pine)  -现代的MacOS降价编辑器.  ！[swift_icon] 
 
@@ -283,13 +286,13 @@
 - [ZeroBraneStudio](https://github.com/pkulchenko/ZeroBraneStudio)  -ZeroBrane Studio是一个轻量级的跨平台Lua IDE，具有代码完成，语法突出显示，远程调试器，代码分析器，实时编码以及对各种Lua引擎的调试支持.  ！[lua_icon] 
 
 ### Images
-- [APNGb](https://github.com/shgodoroja/APNGb)  -组装和拆卸动画png文件的macOS应用.  ！[swift_icon] 
+- [APNGb](https://github.com/shgodoroja/APNGb) - macOS app which assembles and disassembles animated png files.  ![swift_icon] 
 - [Crunch](https://github.com/chrissimpkins/Crunch)  -疯狂（速度缓慢，但效果不错）PNG图像优化.  ！[python_icon] 
 - [Freehand](https://github.com/wddwycc/Freehand)  -macOS状态栏应用程序，可快速绘制草图.  ！[swift_icon] 
 - [Gimp](https://github.com/GNOME/gimp)  -Gimp是GNU图像处理程序.  ！[c_icon] 
 - [Iconology](https://github.com/liamrosenfeld/Iconology)  -编辑图标，然后导出到Xcode，ICn，Ico，Favicon，Mac Iconset或自定义尺寸列表.  ！[swift_icon] 
 - [ImageAlpha](https://github.com/kornelski/ImageAlpha)  -Mac OS的pngquant，pngnq和posterizer.  ！[objective_c_icon]！[python_icon] 
-- [Imagine](https://github.com/meowtec/Imagine)  -Imagine是一款桌面应用程序，用于压缩PNG和JPEG，具有现代友好的用户界面.  ！[type_script_icon] 
+- [Imagine](https://github.com/meowtec/Imagine) - Imagine is a desktop app for compression of PNG and JPEG, with a modern and friendly UI.  ![type_script_icon] 
 - [InVesalius](https://github.com/invesalius/invesalius3/) -3D医学影像重建软件！[python_icon] 
 - [Katana](https://github.com/bluegill/katana)  -Katana是macOS的简单截图工具，位于菜单栏中.  ！[javascript_icon]！[css_icon] 
 - [PhotoMiner](https://github.com/gergelysanta/photominer)  -macOS应用程序，用于查找磁盘上丢失的遗忘照片.  ！[swift_icon] 
@@ -308,11 +311,9 @@
 ### Mail
 - [Correo](https://github.com/amitmerchant1990/correo)  -Windows和macOS的菜单栏/任务栏Gmail应用程序.  ！[javascript_icon] 
 - [ElectronMail](https://github.com/vladimiry/ElectronMail)  -适用于ProtonMail和Tutanota端到端加密电子邮件提供商的非官方桌面应用程序.  ！[type_script_icon] 
-- [Inboxer](https://github.com/denysdovhan/inboxer)  -非官方的Google Inbox桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Nylas Mail](https://github.com/nylas/nylas-mail)  -可扩展的邮件客户端.  ！[javascript_icon] 
 - [Rambox](https://github.com/ramboxapp/community-edition)  -跨平台的消息传递和电子邮件应用程序，将常见的Web应用程序整合为一个.  ！[javascript_icon]！[css_icon] 
 - [dejalu](https://github.com/dinhviethoa/dejalu)  -快速简单的电子邮件客户端.  ！[cpp_icon]！[objective_c_icon] 
-- [gInbox](https://github.com/chenasraf/gInbox)  -Gmail收件箱包装.  ！[swift_icon] 
 
 ### Medical
 - [InVesalius](https://github.com/invesalius/invesalius3/) -3D医学影像重建软件！[python_icon] 
@@ -323,7 +324,7 @@
 - [BitBar](https://github.com/matryer/bitbar)  -将任何脚本或程序的输出放在macOS菜单栏中.  ！[objective_c_icon] 
 - [CloudyTabs](https://github.com/josh-/CloudyTabs)  -简单的菜单栏macOS应用程序，用于显示iCloud标签和阅读列表的列表.  ！[swift_icon] 
 - [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe)  -使用Swift编写的适用于macOS的简单菜单栏天气应用程序.  ！[swift_icon] 
-- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu)  -额外的简单（无用）macOS菜单栏可应用显示预设.  ！[swift_icon] 
+- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - Simple (bare-bones) macOS menubar extra to apply display presets.  ![swift_icon] 
 - [Dozer](https://github.com/Mortennn/Dozer)  -隐藏MacOS菜单栏项目.  ！[swift_icon] 
 - [KubeContext](https://github.com/turkenh/KubeContext)  -在Mac上导入，管理和在Kubernetes上下文之间切换.  ！[swift_icon] 
 - [MenuMeters](https://github.com/yujitach/MenuMeters)  -用于macOS的CPU，内存，磁盘和网络监视工具.  ！[objective_c_icon] 
@@ -343,13 +344,13 @@
 -[Lilypond UI]（）-使用LilyPond创作优美的乐谱！[javascript_icon] 
 - [SoundCleod](https://github.com/salomvary/soundcleod)  -适用于macOS和Windows的SoundCloud.  ！[javascript_icon] 
 - [Spotify-Cli-Mac](https://github.com/ersel/spotify-cli-mac)  -无需离开终端即可控制Spotify.  ：notes：！[javascript_icon] 
-- [YouTube-Music](https://github.com/steve228uk/YouTube-Music)  -适用于music.youtube.com的macOS包装器.  ！[swift_icon] 
+- [YouTube-Music](https://github.com/steve228uk/YouTube-Music) - macOS wrapper for music.youtube.com.  ![swift_icon] 
 - [iTunes Graphs](https://github.com/Zac-Garby/iTunes-Graphs)  -macOS应用程序，可将您的iTunes库可视化为图形.  ！[swift_icon] 
 - [lyricsify](https://github.com/mamal72/lyricsify-mac)  -Swift中适用于macOS的简单Spotify歌词查看器菜单栏应用程序.  ！[swift_icon] 
 
 ### News
 - [Diurna](https://github.com/ngquerol/Diurna)  -基本/经典黑客新闻应用程序，用作可可和Swift学习平台.  ！[swift_icon] 
-- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire) - Feed reader for macOS.  ![swift_icon] 
+- [NetNewsWire](https://github.com/brentsimmons/NetNewsWire)  -适用于macOS的Feed阅读器.  ！[swift_icon] 
 - [Vienna](https://github.com/ViennaRSS/vienna-rss)  -Vienna是macOS的RSS / Atom新闻阅读器.  ！[objective_c_icon] 
 - [hacker-menu](https://github.com/jingweno/hacker-menu)  -黑客新闻已传递到桌面.  ！[javascript_icon] 
 
@@ -362,8 +363,8 @@
 - [Notes](https://github.com/SauvageP/Notes) -Notes是一个macOS应用程序，用于创建注释，并使用文本以及其他格式：图像，视频，联系人等.！[swift_icon] 
 - [Simplenote](https://github.com/Automattic/simplenote-macos)  -记笔记的最简单方法.  ！[objective_c_icon] 
 - [Standard Notes](https://github.com/standardnotes/web)  -安全的地方，方便您记录笔记，思想和生活.  ！[javascript_icon]！[css_icon] 
-- [Tusk](https://github.com/klaussinani/tusk) - Unofficial, third-party, community driven Evernote app with a handful of useful features. ![javascript_icon] ![css_icon] 
-- [joplin](https://github.com/laurent22/joplin) - Note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS.  ![javascript_icon] 
+- [Tusk](https://github.com/klaussinani/tusk)  -非官方的，第三方，社区驱动的Evernote应用程序，具有一些有用的功能.  ！[javascript_icon]！[css_icon] 
+- [joplin](https://github.com/laurent22/joplin)  -具有Windows，macOS，Linux，Android和iOS同步功能的笔记和待办事项应用程序.  ！[javascript_icon] 
 - [notable](https://github.com/jmcfarlane/notable)  -简单的笔记应用程序.  ！[javascript_icon] 
 - [tmpNote](https://github.com/buddax2/tmpNote)  -非常简单的macOS应用程序可做临时笔记.  ！[swift_icon] 
 
@@ -449,7 +450,7 @@
 - [stronghold](https://github.com/alichtman/stronghold)  -从终端轻松配置macOS安全设置.  ！[python_icon] 
 
 ### Sharing Files
-- [Deluge](https://git.deluge-torrent.org/deluge)  -轻量级的跨平台BitTorrent客户端.  ！[python_icon] 
+- [Deluge](https://git.deluge-torrent.org/deluge) - Lightweight cross-platform BitTorrent client.  ![python_icon] 
 - [Rhea](https://github.com/timonus/Rhea)  -macOS状态栏应用程序，用于快速共享文件和URL.  ！[objective_c_icon] 
 - [Transmission](https://github.com/transmission/transmission)  -官方传输BitTorrent客户端存储库.  ！[objective_c_icon]！[c_icon] 
 - [Tribler](https://github.com/Tribler/tribler)  -具有P2P内容发现功能的隐私增强型BitTorrent客户端.  ！[python_icon] 
@@ -463,7 +464,7 @@
 - [Messenger](https://github.com/rsms/fb-mac-messenger)  -MacOS应用程序将Facebook的Messenger封装在桌面上.  ！[objective_c_icon] 
 - [Product Hunt](https://github.com/producthunt/producthunt-osx)  -分享并发现您喜欢的新产品和应用.  ！[swift_icon] 
 - [Quail](https://github.com/1000ch/quail) -非官方 [esa](https://esa.io)  应用程式.  ！[javascript_icon] 
-- [Ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App. ![javascript_icon] ![css_icon] 
+- [Ramme](https://github.com/terkelg/ramme)  -非官方的Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Simpo](https://github.com/KeliCheng/Simpo)  -macOS菜单栏应用程序可快速发布状态.  ！[ruby_icon] 
 - [appear.in](https://github.com/vitorgalvao/appear.in)  -非官方的出现在应用程序中.  ！[javascript_icon] 
 
@@ -484,7 +485,7 @@
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)  -防止Mac进入睡眠状态.  ！[objective_c_icon] 
 - [Latest](https://github.com/mangerlahn/Latest)  -适用于macOS的小型实用程序应用程序，可确保您了解所用应用程序的所有最新更新.  ！[swift_icon] 
 - [Loading](https://github.com/BonzaiThePenguin/Loading)  -适用于macOS的简单网络活动监视器.  ！[objective_c_icon] 
-- [Overkill](https://github.com/KrauseFx/overkill-for-mac)  -在连接iPhone时停止打开iTunes.  ！[swift_icon] 
+- [Overkill](https://github.com/KrauseFx/overkill-for-mac) - Stop iTunes from opening when you connect your iPhone.  ![swift_icon] 
 - [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator)  -macOS应用程序，用于创建标准或自定义的配置文件.  ！[objective_c_icon] 
 - [Sloth](https://github.com/sveinbjornt/Sloth)  -Sloth是macOS应用程序，它显示系统上所有正在运行的应用程序正在使用的所有打开文件和套接字的列表.  ！[objective_c_icon] 
 - [Turbo Boost Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)  -Turbo Boost Switcher是Mac计算机的一个小应用程序，它可以启用和/或禁用Turbo Boost功能.  ！[objective_c_icon] 
@@ -527,7 +528,7 @@
 - [Gray](https://github.com/zenangst/Gray) -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择！[swift_icon] 
 - [Kap](https://github.com/wulkano/kap)  -使用网络技术构建的屏幕录像机应用程序.  ！[javascript_icon] 
 - [KeePassXC](https://github.com/keepassxreboot/keepassxc) -Windows应用程序“ Keepass Password Safe”的跨平台社区驱动端口！[cpp_icon] 
-- [KeeWeb](https://github.com/keeweb/keeweb) - Cross-platform password manager compatible with KeePass.  ![javascript_icon] 
+- [KeeWeb](https://github.com/keeweb/keeweb)  -与KeePass兼容的跨平台密码管理器.  ！[javascript_icon] 
 - [Kyapchar](https://github.com/vishaltelangre/Kyapchar)  -适用于macOS的简单屏幕和麦克风音频记录器.  ！[swift_icon] 
 - [Life-Calendar](https://github.com/wvdk/Life-Calendar)  -生活日历.  ！[swift_icon] 
 - [Lunar](https://github.com/alin23/lunar)  -外部显示器的智能自适应亮度.  ！[swift_icon] 
@@ -541,6 +542,7 @@
 - [PB for Desktop](https://github.com/sidneys/pb-for-desktop)  -在macOS，Windows和Linux上接收本机推送通知.  ！[javascript_icon] 
 - [Padlock](https://github.com/padloc/padloc)  -适用于macOS的最小型开源密码管理器.  ！[javascript_icon] 
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator)  -用于计算百分比的菜单栏应用程序.  ！[swift_icon] 
+- [PowerShell](https://github.com/powershell/powershell)  -PowerShell是跨平台的自动化和配置工具/框架，可与您现有的工具很好地配合使用.  ！[c_sharp_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat)  -ScreenCat是一个屏幕共享+远程协作应用程序.  ！[javascript_icon]！[css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -向Command-Q添加全局延迟以阻止意外退出应用程序.  ！[objective_c_icon] 
 - [Telephone](https://github.com/64characters/Telephone)  -适用于macOS的SIP网络电话.  ！[objective_c_icon]！[swift_icon] 
