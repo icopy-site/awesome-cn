@@ -160,7 +160,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) -基于Web的应用程序，用于整理，分析和报告JMeter测试结果.
 -数据库结果收集器
     - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) -插件可将结果记录到数据库中，以实现更有效的报告.
-    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) - Patch to configure listener to log into MySQL database.
+    - [JMeter MySQLCollector Plugin](http://wiki.apache.org/jmeter/MysqlCollectorPlugin) -修补程序，以配置侦听器以登录到MySQL数据库.
 
 ## Results Visualisation
 
@@ -223,7 +223,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter) -有关JMeter和性能测试的BlazeMeter博客.
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -UBIK INGENIERIE博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) -有关测试自动化的技术博客.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) -有关Apache JMeter和Web应用程序性能测试的博客.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -RedLine13博客中的JMeter文章.
 - [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) -从Flood IO加载测试思想，故事和想法.
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) -另一个使用JMeter进行性能和自动化测试的博客.
@@ -246,6 +246,8 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [@ApacheJMeter](https://twitter.com/apachejmeter) -Apache JMeter负载测试工具的官方Twitter帐户.
 - [@jmeter_plugins](https://twitter.com/jmeter_plugins) -JMeter负载测试工具的自定义插件项目的Twitter帐户.
 - [@BlazeMeter](https://twitter.com/BlazeMeter) -基于JMeter的DevOps性能工程平台Blazemeter的官方Twitter帐户.
+- [@masterjmeter](https://twitter.com/masterjmeter) -的官方帐户 [Master Apache JMeter from Load Testing to DevOps](#books) 书.
+- [@ubikloadpack](https://twitter.com/ubikloadpack) -的Twitter帐户 [Ubik Load Pack](#plugins)，用于视频流和复杂协议负载测试的自定义JMeter插件.
 
 ### Q&A
 
@@ -258,8 +260,8 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 ## Contributing
 
 欢迎捐款！ <br />
-请看看 [contribution guidelines](https://github.com/aliesbelik/jmeter-resources/blob/master/contributing.md) 第一.
+请看看 [contribution guidelines](https://github.com/aliesbelik/awesome-jmeter/blob/master/contributing.md) 第一.
 
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />这项工作是根据<a rel="license" href="http://creativecommons.org/licenses/by/4.0/">知识共享署名4.0国际许可授权的</a> .
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /><br />本作品是根据<a rel="license" href="https://raw.githubusercontent.com/aliesbelik/awesome-jmeter/master/LICENSE.md">CC-BY-4.0</a>许可的.

@@ -1,6 +1,6 @@
 <div class="github-widget" data-repo="dariubs/GoBooks"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-去读书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+很棒的书 [![Build Status](https://travis-ci.org/dariubs/GoBooks.svg?branch=master)](https://travis-ci.org/dariubs/GoBooks) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ====
 
 
@@ -48,7 +48,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 <img src="https://images.manning.com/120/160/resize/book/c/4037d5d-e5e5-49bf-a3c1-480be2907eaa/Kennedy-GO-HI.png" width="120px">
 
- Go in Action引入了Go语言，指导您从好奇的开发人员到Go guru.  该书首先介绍了Go的独特功能和概念.  （我们假设您已经在使用另一种编程语言，因此不要期望花费大量时间来排练已经知道的东西.）然后，您将获得动手实践的经验，编写包括Web在内的真实应用程序站点和网络服务器，以及以使您的朋友嫉妒的速度处理和转换数据的技术.  在最后的章节中，您将深入了解该语言，并了解Go大师用来使他们的应用程序运行的技巧和秘密.  例如，您将学习使用Go强大的反射库，并处理与C代码集成的实际示例.
+ Go in Action引入了Go语言，指导您从好奇的开发人员到Go guru.  该书首先介绍了Go的独特功能和概念.  （我们假设您已经在使用另一种编程语言，所以不要指望花很多时间来排练已经知道的东西.）然后，您将获得动手实践的经验，编写包括Web在内的真实应用程序站点和网络服务器，以及以使您的朋友嫉妒的速度处理和转换数据的技术.  在最后的章节中，您将深入了解该语言，并了解Go大师用来使他们的应用程序运行的技巧和秘密.  例如，您将学习使用Go强大的反射库，并处理与C代码集成的实际示例.
 
 ### [Go Programming Blueprints - 2nd Ed.](https://www.packtpub.com/application-development/go-programming-blueprints-second-edition)
 
@@ -69,7 +69,7 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 * Go编程语言*是任何语言的权威资源
 想学习Go的程序员.
-艾伦·AA·多诺万（Alan AA Donovan）和布莱恩·W·克尼根（Brian W.
+艾伦·AA·多诺万（Alan AA Donovan）和布莱恩·W·克尼根（Brian W.Kernighan）向您展示如何书写清晰
 和惯用语去解决现实世界中的问题.
 该书不假定Go的先验知识或经验
 任何特定的语言，因此无论您是否
@@ -124,13 +124,17 @@ The [markdown source is available on Github](https://github.com/miekg/learninggo
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
+### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
+
+ 本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言.  本书提供了有关“如何安全地进行操作”的详细信息，显示了在开发过程中可能会出现什么样的安全问题.
+
 ### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
 <img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
  深入研究网络体系结构和Go中的关键主题，例如数据序列化，应用程序级别协议，字符集和编码.  本书涵盖了网络体系结构，并概述了Go语言作为入门知识，涵盖了最新的Go版本.
 
-除了基础知识之外，Go语言的网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
+除了基础知识之外，Go的网络编程还涵盖了关键的网络和安全性问题，例如HTTP和HTTPS，模板，远程过程调用（RPC），包括HTML5 Web套接字的Web套接字等.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
@@ -168,10 +172,6 @@ A short guide to Test-driven development in golang. free to [read online](https:
 
  在Black Hat Go中，您将学习如何在Go中编写强大而有效的渗透测试工具，而Go是一种因其速度和可扩展性而受人尊敬的语言.  首先介绍Go基础知识，例如数据类型，控制结构和错误处理.  然后，深入研究Go的进攻能力.
 
-### [Go programming language secure coding practices guide](https://checkmarx.gitbooks.io/go-scp/) *Free*
-
- 本书的主要目标是帮助开发人员避免常见错误，同时通过“动手方法”学习新的编程语言.  本书提供了有关“如何安全地进行操作”的详细信息，显示了在开发过程中可能会出现什么样的安全问题.
-
 ### [Concurrency in Go](http://shop.oreilly.com/product/0636920046189.do)
 
 [<img src="https://covers.oreillystatic.com/images/0636920046189/cat.gif" width="120px"/>](http://shop.oreilly.com/product/0636920046189.do)
@@ -198,6 +198,12 @@ Go中的动手依赖注入采用务实的方法，并着重于代码，用户体
 
  另一本很棒的书，用于学习Golang中的Web开发.  免费给 [read online](http://astaxie.gitbooks.io/build-web-application-with-golang/content/en/index.html)
 
+### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+
+<img src="https://raw.githubusercontent.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
+
+ 编写这本书的目的是为那些对Go有所了解并掌握有关Web应用程序的基本信息的人教如何在Go中开发Web应用程序.  我们（您）将在不使用第三方框架且使用尽可能少的外部库的情况下构建webapp.  这样做的好处是，在没有框架的情况下进行编码会学到很多东西.
+
 ### [Mastering Go Web Services ](http://shop.oreilly.com/product/9781783981304.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783981304/lrg.jpg" width="120px"/>
@@ -210,19 +216,13 @@ Go中的动手依赖注入采用务实的方法，并着重于代码，用户体
 
  本书为您提供了在Web应用程序中使用Go所需的全部功能.  您将学习基本概念-语言结构，标准库和Go工具-然后处理并发概念，测试方法和包结构等更高级的功能.
 
- 在每个步骤中，您都会获得有关在Go中进行更好的编码的建议.  您将看到如何构建项目，如何有效地使用并发以及进行测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
+ 在每个步骤中，您都会获得有关在Go中进行更好的编码的建议.  您将看到如何构建项目，如何有效地使用并发性以及测试的最佳实践，以及从使用Go开发Web应用程序的实际经验中收集的许多其他提示和技巧.
 
 ### [Go Web Programming](http://www.manning.com/chang/)
 
 <img src="http://www.manning.com/chang/chang_cover150.jpg" width="120px"/>
 
  Go Web编程教您如何使用现代设计原理在Go中构建Web应用程序.  您将通过大量示例来介绍一些核心概念，例如处理请求和发送响应，模板引擎和数据持久性.  您还将深入探讨更高级的主题，例如并发，Web应用程序测试以及将其部署到准系统服务器和PaaS提供程序.
-
-### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
-
-<img src="https://raw.githubusercontent.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
-
- 编写这本书的目的是为那些对Go有所了解并掌握有关Web应用程序的基本信息的人讲授如何在Go中开发Web应用程序.  我们（您）将在不使用第三方框架且使用尽可能少的外部库的情况下构建webapp.  这样做的好处是，在没有框架的情况下进行编码会学到很多东西.
 
 ### [Cloud Native Go: Building Web Applications and Microservices for the Cloud with Go and React](https://www.amazon.com/Cloud-Native-Applications-Microservices-Developers/dp/0672337797)
 
@@ -266,7 +266,7 @@ Go中的动手依赖注入采用务实的方法，并着重于代码，用户体
 
 <img src="https://lets-go.alexedwards.net/sample/assets/img/cover.png" width="120px"/>
 
- Let&#39;s Go逐步教您如何使用Go创建快速，安全和可维护的Web应用程序.  它指导您完成从头开始的实际应用程序构建，涵盖诸如如何构建代码，管理依赖关系，对用户进行身份验证和授权，保护服务器以及测试应用程序之类的主题.
+ Let&#39;s Go逐步教您如何使用Go创建快速，安全和可维护的Web应用程序.  它会指导您完成从头开始的实际应用程序构建，涵盖诸如如何构建代码，管理依赖关系，对用户进行身份验证和授权，保护服务器以及测试应用程序之类的主题.
 
 Resources
 ====
@@ -277,7 +277,8 @@ Resources
 ### [Go Fundamentals Video Training](http://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 ### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books)
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
-### [Coursera Specialization : Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Coursera Specialization: Programming with Go](https://www.coursera.org/specializations/google-golang/)
+### [Course: Mastering Go Programming](https://www.udemy.com/course/mastering-go-programming)
 
 Contributing
 ====

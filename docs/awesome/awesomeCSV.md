@@ -8,7 +8,7 @@
 
  XML兴衰.  JSON只是泛滥成灾.  YAML是一个中毒的圣杯.  ** CSV的优势将胜过所有人.**
 
-当最后的蟑螂呼吸到最后一口气时，她的垂死之举将是在后代的CSV文件中记录死亡日期.
+当最后的蟑螂呼吸到最后一口气时，她的垂死之举将是在CSV文件中刮擦其死亡日期以供后代使用.
 
 
 
@@ -48,6 +48,7 @@
 - [Csvlint.go](https://github.com/Clever/csvlint) -用于根据RFC 4180验证CSV文件的命令行工具.
 - [csvstudio](http://www.csvstudio.com/) -修复大型CSV文件中语法错误的智能应用程序.
 - [scrubcsv](https://github.com/faradayio/scrubcsv) -从CSV文件中删除不良记录并进行规范化（需要防锈）
+- [reconcile-csv](https://github.com/OpenRefine/reconcile-csv/blob/master/README.md) -查找一组相关CSV之间的关系
 
 ## Generate Table Schema
 
@@ -110,6 +111,8 @@
 - [W3C: Model for Tabular Data and Metadata on the Web](https://www.w3.org/TR/tabular-data-model/)
 - [CSV Schema Language](http://digital-preservation.github.io/csv-schema/csv-schema-1.2.html) -用于定义和验证CSV数据的语言.
 - [csv,specs](https://github.com/csvspecs)  -逗号分隔值（CSV）格式规范（和测试），包括  CSV v1.0，CSV v1.1，CSV严格，CSV &lt;3个数字，CSV &lt;3 JSON，CSV &lt;3 YAML.
+- [Tabular Data Resource](http://frictionlessdata.io/specs/tabular-data-resource/) - 一种 [Data Resource](http://frictionlessdata.io/specs/data-resource/) 专门用于描述表格数据，例如CSV文件或电子表格
+- [CSVY](https://csvy.org/) -向CSV文件添加YAML标头以描述其格式的标准
 
 ## META: Other similar lists
 

@@ -43,7 +43,7 @@
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) [CREDIT]-Digital Ocean为每位报名参加该计划的学生提供$ 50的托管信用额 [Github Student Developer Pack](https://education.github.com/pack).
-  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”来使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
+  * [RoseHosting](https://www.rosehosting.com) [折扣]-RoseHosting为其所有会员提供20％的经常性折扣 [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) 和 [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html)  每月付款时.  学生可以通过使用优惠券代码“ STUDENT20”使用折扣.  仅对新客户有效.  不能与其他优惠同时使用.
   * [SiteGround](https://www.siteground.com/students-plan.htm) [折扣]-每月$ 1.99美元，而不是每月$ 3.95美元 [StartUp plan](https://www.siteground.com/students-plan.htm).
   * [Education Host](https://education.github.com/pack/redeem/educationhost) [免费]-可免费使用Designer软件包为学生提供1年的虚拟主机托管服务，并提供升级优惠.可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
@@ -53,6 +53,7 @@
   * [Canva](https://www.canva.com/) [免费]-通过以下方式免费订阅Canva Pro级别的12个月 [Github Student Developer Pack](https://education.github.com/pack).
   * [Icons8](https://icons8.com/github-students)[免费]-Icons8提供设计资源：图标，UI插图，照片和软件以对您的项目进行分类.通过图标，照片，插图和音乐的3个月全访问订阅，可通过 
 [Github Student Developer Pack](https://education.github.com/pack).
+  * [Figma](https://www.figma.com/education/) [免费]-通过学生身份验证后免费获得专业团队功能.
 
 ## SaaS
 
@@ -150,7 +151,7 @@
 ## Infrastructure Monitoring
  * [Datadog](http://studentpack.datadoghq.com/)  [免费]-Datadog Pro帐户的2年许可证，适用于监视10台服务器.  的一部分 [Github Student Developer Pack](https://education.github.com/pack)
  * [HoneyBadger](https://education.github.com/pack/redeem/honeybadger)[免费]-异常，正常运行时间和cron监控.免费的1年小帐户可通过 [Github Student Developer Pack](https://education.github.com/pack).
-  * [LogDNA](https://www.logdna.com/github-students)[免费]-日志管理平台，可从任何来源以任意数量提供任意数量的服务器和应用程序日志的聚合，监视和分析.高达50 GB /月的日志存储空间，可通过以下方式保留14天： [Github Student Developer Pack](https://education.github.com/pack).
+  * [LogDNA](https://www.logdna.com/github-students)[免费]-日志管理平台，可从任何来源以任意数量提供任意数量的服务器和应用程序日志的聚合，监视和分析.最高每月50 GB的日志存储空间，可通过以下方式保留14天： [Github Student Developer Pack](https://education.github.com/pack).
 
 ## Software Packs
 

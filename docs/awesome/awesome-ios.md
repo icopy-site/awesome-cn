@@ -380,7 +380,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 
 * [Realm](https://github.com/realm/realm-cocoa) -CoreData和SQLite的替代产品：简单，现代和快速.
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) -YapDatabase是适用于iOS和Mac的可扩展数据库.
-* [Couchbase Mobile](https://www.couchbase.com/products/mobile/) - Couchbase document store for mobile with cloud sync.
+* [Couchbase Mobile](https://www.couchbase.com/products/mobile/) -具有云同步功能的手机版Couchbase文档存储.
 * [FMDB](https://github.com/ccgus/fmdb) -围绕SQLite的Cocoa / Objective-C包装器.
 * [FCModel](https://github.com/marcoarment/FCModel) -对于喜欢直接访问SQL的人来说，Core Data的替代方案.
 * [Zephyr](https://github.com/ArtSabintsev/Zephyr) -通过iCloud轻松同步NSUserDefaults.
@@ -1394,7 +1394,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [Interstellar](https://github.com/JensRavens/Interstellar) -我们其余人将在Swift中使用简单轻巧的功能性反应式编码.
 * [ReduxSwift](https://github.com/lsunsi/ReduxSwift) -Swift应用程序的可预测状态容器.
 * [Aftermath](https://github.com/hyperoslo/Aftermath) -Swift中无状态消息驱动的微框架.
-* [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) - Reactive Keyboard in iOS.
+* [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) -iOS中的反应式键盘.
 * [JASONETTE-iOS](https://github.com/Jasonette/JASONETTE-iOS)  -通过HTTP的本机应用程序.  仅使用JSON创建自己的本机iOS应用.
 * [ReactiveSwift](https://github.com/ReactiveCocoa/ReactiveSwift) -ReactiveCocoa组随时间推移的价值流
 * [Listenable](https://github.com/msaps/Listenable) -提供可观察平台的Swift对象.
@@ -1465,7 +1465,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [Azure](https://github.com/Azure/azure-storage-ios) -用于在iOS设备上访问Azure存储的客户端库
 * [1Password](https://github.com/AgileBits/onepassword-app-extension) -1个适用于iOS应用的密码扩展
 * [CareKit](https://github.com/carekit-apple/CareKit)  -CareKit是一个开放源代码软件框架，用于创建可帮助人们更好地了解和管理其健康状况的应用程序.  苹果公司
-* [Shopify](https://github.com/Shopify/mobile-buy-sdk-ios) - Shopify’s Mobile Buy SDK makes it simple to sell physical products inside your mobile app.
+* [Shopify](https://github.com/Shopify/mobile-buy-sdk-ios) -Shopify的Mobile Buy SDK使在移动应用程序内销售实体产品变得简单.
 * [Pinterest](https://github.com/pinterest/ios-pdk) -Pinterest iOS SDK
 * [playkit-ios](https://github.com/kaltura/playkit-ios) -PlayKit：适用于iOS的Kaltura Player SDK.
 * [algoliasearch-client-swift](https://github.com/algolia/algoliasearch-client-swift) -适用于Swift的Algolia Search API客户端
@@ -1552,12 +1552,12 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 
 ### Keychain
 * [UICKeyChainStore](https://github.com/kishikawakatsumi/UICKeyChainStore) -UICKeyChainStore是iOS上钥匙串的简单包装.
-* [Valet](https://github.com/square/Valet) -在不了解钥匙串工作原理的情况下，将数据安全地存储在iOS或macOS钥匙串中.
+* [Valet](https://github.com/square/Valet) -将数据安全地存储在iOS或macOS钥匙串中，而无需了解钥匙串的工作原理.
 * [Locksmith](https://github.com/matthewpalmer/Locksmith) -一个强大的，面向协议的库，用于在Swift中使用钥匙串.
 * [KeychainAccess](https://github.com/kishikawakatsumi/KeychainAccess) -适用于iOS和macOS的钥匙串的简单Swift包装器
 * [Keychains](https://github.com/hyperoslo/Keychains) -因为您应该在乎...的安全性...
 * [Lockbox](https://github.com/granoff/Lockbox) -用于在密钥链中安全存储数据的Objective-C实用程序类.
-* [SAMKeychain](https://github.com/soffes/SAMKeychain) -适用于Mac和iOS的钥匙串的简单Objective-C包装器.
+* [SAMKeychain](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 * [SwiftKeychainWrapper](https://github.com/jrendel/SwiftKeychainWrapper) -iOS钥匙串的简单包装，可让您以类似于“用户默认设置”的方式使用它.
 
 ## Server
@@ -1885,7 +1885,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [WSProgressHUD](https://github.com/devSC/WSProgressHUD) -这是iPhone和iPad的美丽外观
 * [DBMetaballLoading](https://github.com/dabing1022/DBMetaballLoading) -用Swift编写的元球加载.
 * [FillableLoaders](https://github.com/polqf/FillableLoaders) -使用Swift编写的自定义CGPath绘制的完全可定制的基于进度的加载器
-* [VHUD](https://github.com/xxxAIRINxxx/VHUD) 简单的HUD.
+* [VHUD](https://github.com/xxxAIRINxxx/VHUD) Simple HUD.
 * [SwiftSpinner](https://github.com/icanzilb/SwiftSpinner) -使用模糊效果，半透明，平坦和大胆的设计，以Swift编写的漂亮的活动指示器和模式警报
 * [SnapTimer](https://github.com/andresinaka/SnapTimer) -Snapchat故事计时器的实现.
 * [LLSpinner](https://github.com/alephao/LLSpinner) -创建全屏活动指示器的简便方法.
@@ -1931,7 +1931,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) -Swift中的可链接动画
 * [JDAnimationKit](https://github.com/JellyDevelopment/JDAnimationKit) -使用Swift轻松制作动画并减少代码
 * [Advance](https://github.com/timdonnelly/Advance) -适用于iOS的强大动画框架.
-* [UIView-Shake](https://github.com/andreamazz/UIView-Shake) -添加摇动动画的UIView类别
+* [UIView-Shake](https://github.com/andreamazz/UIView-Shake) - UIView category that adds shake animation
 * [Walker](https://github.com/RamonGilabert/Walker) -适用于您的应用的新动画引擎.
 * [Morgan](https://github.com/RamonGilabert/Morgan) -为您的应用设置了动画.
 * [MagicMove](https://github.com/patrickreynolds/MagicMove) -主题演讲风格的Magic Move过渡动画
@@ -2037,7 +2037,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [GSMessages](https://github.com/wxxsw/GSMessages) -适用于iOS 7+的简单样式消息/通知.
 * [OEANotification](https://github.com/OEA/OEANotification) -在iOS屏幕顶部使用Swift 2.1编写的应用内可自定义通知视图.
 * [RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) -非常简单的UIAlertView替代方案.
-* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) - Animated alert library like Swarm app.
+* [TKSwarmAlert](https://github.com/entotsu/TKSwarmAlert) -动画警报库，例如Swarm应用程序.
 * [SimpleAlert](https://github.com/KyoheiG3/SimpleAlert) -可自定义的Swift的简单Alert和ActionSheet
 * [Hokusai](https://github.com/ytakzk/Hokusai) - A Swift library to provide a bouncy action sheet
 * [SwiftNotice](https://github.com/johnlui/SwiftNotice) -SwiftNotice是一个GUI库，用于显示以纯Swift编写的各种弹出窗口（HUD），适合任何滚动视图.
@@ -2412,7 +2412,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 * [MARKRangeSlider](https://github.com/vadymmarkov/MARKRangeSlider) -具有2个拇指的自定义可重复使用的滑块控件（范围滑块）.
 * [ASValueTrackingSlider](https://github.com/alskipp/ASValueTrackingSlider) - A UISlider subclass that displays the slider value in a popup view
 * [TTRangeSlider](https://github.com/TomThorpe/TTRangeSlider) -滑块，其样式类似于UISlider，但允许您选择最小和最大范围.
-* [MMSegmentSlider](https://github.com/MedvedevMax/MMSegmentSlider) -适用于iOS的可自定义动画滑块.
+* [MMSegmentSlider](https://github.com/MedvedevMax/MMSegmentSlider) - Customizable animated slider for iOS.
 * [StepSlider](https://github.com/spromicky/StepSlider) -StepSlider其滑块的自定义实现，例如用于预设整数值的UISlider.
 * [JDSlider](https://github.com/JellyDevelopment/JDSlider) -用Swift编写的iOS滑块.
 * [SnappingSlider](https://github.com/rehatkathuria/SnappingSlider) -纯粹基于Swift构建的漂亮的iOS滑块控件
@@ -2573,7 +2573,7 @@ Awesome-iOS对于需要在应用程序上使用某些功能的人来说是一个
 
 * [HGPlaceholders](https://github.com/HamzaGhazouani/HGPlaceholders) -不错的库，可为项目中的任何UITableView / UICollectionView显示和创建占位符和空状态
 * [ListPlaceholder](https://github.com/malkouz/ListPlaceholder) -ListPlaceholder是一个快速的库，可让您轻松地将Facebook样式的动画加载占位符添加到表视图或集合视图中
-* [WLEmptyState](https://github.com/wizeline/WLEmptyState) - A component that lets you customize the view when the dataset of UITableView is empty.
+* [WLEmptyState](https://github.com/wizeline/WLEmptyState) -一个组件，可让您在UITableView的数据集为空时自定义视图.
 
 #### Collection View Layout
 
@@ -2942,7 +2942,6 @@ CollectionView，让Instagram在数分钟内发现.
 * [Free App Store Optimization Tool](https://www.mobileaction.co) 使您可以根据关键字和竞争对手跟踪App Store的可见性.
 * [App Release Checklist](https://github.com/oisin/app-release-checklist/blob/master/checklist.md) -检查清单，以便在发布该令人惊叹的应用程序之前花费大量的时间来完成它，但是您不想急于解决，如果您犯了一个男生错误，最终会使您看起来比以前更笨.
 * [Harpy](https://github.com/ArtSabintsev/Harpy) -当有新版本的iOS应用可用时通知用户，并通过“应用商店”链接进行提示.
-* [iRate](https://github.com/nicklockwood/iRate)  -一个方便的类，提示您的iPhone或Mac App Store应用程序的用户在使用一段时间后对其进行评分.  与Appirater类似，但界面更简单，更简洁，并自动支持iOS快速应用程序切换.
 * [appirater](https://github.com/arashpayan/appirater) -一种实用程序，可提醒您iPhone应用程序的用户查看该应用程序.
 * [Siren](https://github.com/ArtSabintsev/Siren) -当有新版本的应用程序可用时通知用户，并提示他们进行升级.
 * [Appstore Review Guidelines](https://github.com/aashishtamsya/Appstore-Review-Guidelines) -开发者在将其应用程序提交到appstore进行审核之前必须牢记的要点清单.
@@ -2964,7 +2963,7 @@ CollectionView，让Instagram在数分钟内发现.
 * [Swiftify](https://objectivec2swift.com/) - Objective-C to Swift online code converter and Xcode extension.
 * [DocumenterXcode](https://github.com/serhii-londar/DocumenterXcode) -尝试给VVDocumenter-Xcode赋予新的生命，作为源代码编辑器扩展.
 * [Snowonder](https://github.com/Karetski/Snowonder) -Xcode的神奇导入声明格式化程序.
-* [XVim2](https://github.com/XVimProject/XVim2) -Xcode 9的Vim键绑定.
+* [XVim2](https://github.com/XVimProject/XVim2) - Vim key-bindings for Xcode 9.
 * [Comment Spell Checker](https://github.com/velyan/Comment-Spell-Checker) -Xcode扩展，用于拼写检查和自动更正代码注释.
 
 ### Themes

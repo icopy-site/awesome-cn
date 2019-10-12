@@ -138,6 +138,8 @@
 - [Malzilla](http://malzilla.sourceforge.net/) -恶意软件搜寻工具.
 - [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) -网络取证分析工具.
 - [PDF Streams Inflater](http://malzilla.sourceforge.net/downloads.html) -查找并提取压缩为PDF文件的zlib文件.
+- [Pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html) -验证PNG的完整性，并以人类可读的形式转储所有块级信息.
+  -`apt-get install pngcheck`
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) -从exe提取各种文件类型.
 - [Shellbags](https://github.com/williballenthin/shellbags) -研究NT \ _USER.dat文件.
 - [USBRip](https://github.com/snovvcrash/usbrip) -简单的CLI取证工具，用于在GNU / Linux上跟踪USB设备工件（USB事件的历史记录）.
@@ -258,7 +260,7 @@
 
 ## Resources
 
-*哪里可以找到有关CTF的信息*
+*在哪里可以找到有关CTF的信息*
 
 ## Operating Systems
 
@@ -294,7 +296,7 @@
 - [CTF Resources](http://ctfs.github.io/resources/) -由社区维护的入门指南.
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) 该死的脆弱的PHP / MySQL Web应用程序.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) -Endgame为CTF初学者提供的简短指南
-- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) -有关剥削的视频教程.
+- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) -面向CTF初学者的小课程（俄语）.
 
 ## Wargames
@@ -351,7 +353,7 @@
 
 * CTF文章集*
 
-- [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) - Write-ups for CTF challenges by 0e85dc6eaf
+- [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) -0e85dc6eaf撰写的CTF挑战文章
 - [Captf](http://captf.com/) -psifertex倾销了CTF挑战和材料.
 - [CTF write-ups (community)](https://github.com/ctfs/) -社区维护的CTF挑战+撰写的存档.
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) -从CTF时间报废所有文章，并组织首先阅读的文章.
