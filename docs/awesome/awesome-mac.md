@@ -51,7 +51,7 @@
 
 #### Office
 
-* [LibreOffice](https://www.libreoffice.org)  -LibreOffice是免费的开源软件办公软件.  每天都有庞大的专用用户社区对软件进行测试和使用.  [！[开源软件] [OSS图标]]（https://www.libreoffice.org/about-us/source-code/）！[免费软件] [免费软件图标]
+* [LibreOffice](https://www.libreoffice.org)  -LibreOffice是免费的开源软件办公软件.  每天都有庞大的专用用户社区测试和使用软件.  [！[开源软件] [OSS图标]]（https://www.libreoffice.org/about-us/source-code/）！[免费软件] [免费软件图标]
 * [OpenOffice](http://www.openoffice.org/download/index.html)  -与其他主要办公套件兼容，Apache OpenOffice可免费下载，使用和分发.  [！[开源软件] [OSS图标]]（http://openoffice.apache.org/source.html）！[免费软件] [免费软件图标]
 * [WPS](https://www.wps.com/mac)  -是一个跨平台的办公软件套件.  ！[免费软件] [免费软件图标]
 * [Pages](https://apps.apple.com/app/pages/id409201541?mt=12)  分开的文档.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://apps.apple.com/app/pages/id409201541?mt=12）
@@ -69,7 +69,7 @@
 * [MarkText](https://github.com/marktext/marktext)  -下一代markdown编辑器，可在MacOS Windows和Linux平台上运行.  [！[开源软件] [OSS图标]]（https://github.com/marktext/marktext）！[免费软件] [免费软件图标]
 * [Marp](https://marp.app)  -具有跨平台支持的Markdown演示编写器.  [！[开源软件] [OSS图标]]（https://github.com/yhatt/marp）！[免费软件] [免费软件图标]
 * [Marxico](https://marxi.co/)  -Evernote的精致Markdown编辑器.  可靠的存储和同步.
-* [MWeb](http://www.mweb.im/) -专业Markdown写作，笔记和静态博客生成器应用程序.
+* [MWeb](http://www.mweb.im/) -专业Markdown写作和静态博客生成器应用程序.
 * [TextNut](http://www.textnutwriter.com/) - Rich-format editor featuring Markdown export and Markdown syntax hints. ![Freeware][Freeware Icon]
 * [Typora](http://www.typora.io/)  -真正的最小Markdown编辑器，具有无缝的实时预览.  ！[免费软件] [免费软件图标]
 * [Ulysses](https://www.ulyssesapp.com/features/) -适用于Mac，iPad和iPhone的终极写作应用程序.
@@ -90,6 +90,10 @@
 * [OneNote](https://www.onenote.com/)  -由Microsoft做笔记的应用程序.  ！[免费软件] [免费软件图标]
 * [QOwnNotes](http://www.qownnotes.org/)  -带有markdown支持和待办事项列表管理器的开源记事本.  [！[开源软件] [OSS图标]]（https://github.com/pbek/QOwnNotes）！[免费软件] [免费软件图标]
 * [Quiver](http://happenapps.com/#quiver) -程序员笔记本，可让您轻松地在一个笔记中混合文本，代码，Markdown和LaTeX，使用出色的代码编辑器编辑代码，并实时预览Markdown和LaTeX.
+
+#### Journaling
+
+* [Day One](https://dayoneapp.com/)  -使用文本，照片，视频，音频，位置数据等的出色日记应用程序.  [！[App Store] [app-store Icon]]（https://apps.apple.com/us/app/day-one/id1055511498?mt=12）
 
 #### Ebooks
 
@@ -234,7 +238,7 @@
 * [htop](https://github.com/hishamhm/htop)  -htop是用于Unix系统的交互式文本模式进程查看器.  它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
 * [httpie](https://httpie.org) -现代命令行HTTP客户端–具有直观UI，JSON支持，语法突出显示，类似于wget的下载，扩展等的用户友好型curl替代方案.[！[开源软件] [OSS图标]]（https://github.com .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
 * [hyper](https://hyper.is)  -基于网络技术的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
-* [iTerm2](http://www.iterm2.com) -iTerm2是OS X的出色终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
+* [iTerm2](http://www.iterm2.com) -iTerm2是OS X的出色终端仿真器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)  -通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
 * [job](https://github.com/liujianping/job)  -工作，将您的短期命令作为一项长期工作.  [！[开源软件] [OSS图标]]（https://github.com/liujianping/job）！[免费软件] [免费软件图标]
 * [kitty](https://github.com/kovidgoyal/kitty)  -跨平台，快速，功能齐全的基于GPU的终端仿真器.  [！[开源软件] [OSS图标]]（https://github.com/kovidgoyal/kitty）！[免费软件] [免费软件图标]
@@ -520,7 +524,7 @@
 * [Cog](http://cogx.org/)  -免费的开源音频播放器.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://bitbucket.org/mamburu/cog/）
 * [Elmedia Player](https://mac.eltima.com/media-player.html) -该媒体播放器是一款超级通用的应用程序，适用于您可能会想到的任何文件格式：FLV，MP4，AVI，MOV，DAT，MKV，MP3，FLAC，M4V以及所有其他格式均受支持.
 * [Gifski](https://github.com/sindresorhus/gifski-app)  -将视频转换为高质量的GIF.  ！[开源软件] [OSS图标]！[免费软件] [免费软件图标] [！[App Store] [app-store Icon]]（https://itunes.apple.com/no/app/gifski/id1351639930 ？mt = 12）
-* [HandBrake](https://handbrake.fr/)  -用于将视频从几乎任何格式转换为广泛支持的现代编解码器的工具.  [！[开源软件] [OSS图标]]（https://github.com/HandBrake/HandBrake）
+* [HandBrake](https://handbrake.fr/) - Tool for converting video from nearly any format to a selection of modern, widely supported codecs. [![Open-Source Software][OSS Icon]](https://github.com/HandBrake/HandBrake)
 * [Hydrogen](http://hydrogen-music.org/)  -针对GNU / Linux的专业但简单直观的基于模式的鼓编程.  [！[开源软件] [OSS图标]]（https://github.com/hydrogen-music/hydrogen）
 * [iFFmpeg](http://www.iffmpeg.com/)  -适用于macOS的综合媒体工具.  使所有人都可以访问高质量的视频编码.
 * [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS. Based on mpv, the powerful media player project. [![Open-Source Software][OSS Icon]](https://github.com/lhc70000/iina) ![Freeware][Freeware Icon]
@@ -597,7 +601,7 @@
 *（或者您可以只使用Mac OS内置词典）*
 
 * [Grammarly](https://app.grammarly.com/) -精通英语
-* [iTranslate](http://www.itranslate.com/)  -使用内置浏览器或iTranslate Safari扩展程序将整个网站即时翻译成40多种语言.  ！[免费软件] [免费软件图标]
+* [iTranslate](http://www.itranslate.com/)  -使用内置的浏览器或iTranslate Safari扩展程序将整个网站即时翻译成40多种语言.  ！[免费软件] [免费软件图标]
 * [Ludwig](https://ludwig.guru) -语言搜索引擎，可帮助您更好地编写英语.
 
 ## Encryption
@@ -617,7 +621,7 @@
 * [OverSight](https://objective-see.com/products/oversight.html) -监视麦克风和网络摄像头，何时激活内部麦克风或进程访问网络摄像头时向您发出警报.
 * [RansomWhere?](https://objective-see.com/products/ransomwhere.html) -通用勒索软件检测.
 * [stronghold](https://github.com/alichtman/stronghold)  -从终端轻松配置MacOS安全设置.  [！[开源软件] [OSS图标]]（https://github.com/alichtman/stronghold）！[免费软件] [免费软件图标]
-* [TaskExplorer](https://objective-see.com/products/taskexplorer.html) - Explore all processes running on your Mac with TaskExplorer.
+* [TaskExplorer](https://objective-see.com/products/taskexplorer.html) -使用TaskExplorer探索Mac上运行的所有进程.
 * [What's Your Sign?](https://objective-see.com/products/whatsyoursign.html) -将菜单项添加到Finder.app，以显示任何文件的加密签名信息.
 
 ## Proxy and VPN Tools
@@ -734,7 +738,7 @@
 * [Moom](http://manytricks.com/moom/) -允许您使用鼠标或键盘轻松地将窗口或窗口缩放或缩放到另一个显示器.
 * [ShiftIt](https://github.com/fikovnik/ShiftIt)  -在OSX中管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 * [SizeUp](http://www.irradiatedsoftware.com/sizeup/) -强大的以键盘为中心的窗口管理.
-* [Slate](https://github.com/jigish/slate)  -类似于Divvy和SizeUp的窗口管理应用程序（更好和免费的除外！）.  （**需要配置文件**）[！[开源软件] [OSS图标]！[免费软件] [免费软件]]（https://github.com/jigish/slate）
+* [Slate](https://github.com/jigish/slate)  -类似于Divvy和SizeUp的窗口管理应用程序（更好和免费的除外！）.  （**需要配置文件**）[！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/jigish/slate）
 * [Spectacle](https://www.spectacleapp.com)  -使用简单且可自定义的键盘快捷键移动和调整窗口大小.  [！[开源软件] [OSS图标]]（https://github.com/eczarny/spectacle）！[免费软件] [免费软件图标]
 * [Total Spaces](http://totalspaces.binaryage.com/)  -提供类似于ubuntu的窗口管理.  为工作区创建热键，使您可以轻松移动.
 

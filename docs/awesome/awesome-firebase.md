@@ -36,10 +36,10 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 ## Featured (new releases)
 
 -  [Firebase Extensions](https://firebase.google.com/products/extensions) -Firebase Extensions为您的应用程序提供了扩展功能，而无需自己研究，编写或调试代码.
--  [Firebase Summit '19](https://youtu.be/wO70Pnv0yeo) -所有Firebase讲座@ Firebase Summit 2019.
 -  [Firebase App Distribution](https://firebase.google.com/products/app-distribution/) -将您的应用的预发布版本分发给您值得信赖的测试人员.
+-  [Firebase Summit 2019](https://www.youtube.com/watch?v=YKZ6rP4kwV8&list=PLl-K7zZEsYLk2OolaVXVyYrFErctrZXSX) -所有Firebase讲座@ Firebase Summit 2019.
+-  [React Fire](https://github.com/FirebaseExtended/reactfire) -带有钩子，上下文提供程序和组件的官方Firebase React库，可轻松与Firebase进行交互.
 -  [Firestore Query Browser](https://firestore-query-browser.firebaseapp.com) -通过应用程序和用户切换来查询，（批处理）编辑和导出文档的WebApp.
--  [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) -探索和管理您的Firebase项目.
 
 ## Official Firebase Docs & Quickstarts
 
@@ -50,7 +50,8 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## Web
 
--  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK的基础上提供了简单，可自定义的UI绑定，以消除样板代码并推广最佳实践.
+-  [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) -用于Firebase服务的React Hooks.
+-  [Firebase UI](https://github.com/firebase/firebaseui-web) -FirebaseUI是用于Web的开源JavaScript库，它在Firebase SDK之上提供了简单的，可自定义的UI绑定，以消除样板代码并推广最佳实践.
 -  [Firebase UI for React](https://github.com/firebase/firebaseui-web-react) -用于FirebaseUI Web的React Wrapper.
 -  [GeoFire for JavaScript](https://github.com/firebase/geofire-js) -使用Firebase进行实时位置查询.
 -  [FirePad](https://github.com/FirebaseExtended/firepad) -由Firebase提供支持的协作文本编辑器.
@@ -69,7 +70,6 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Hosting Version History](https://firebase.google.com/docs/hosting/deploying#set_limit_for_retained_versions) -自动删除旧版本的网站部署.
 -  [Firestorter](https://github.com/IjzerenHein/firestorter) -使用MobX（也适用于react-native），以零的努力在React中使用Firestore.
 -  [Nextbase](https://github.com/martyan/nextbase) -适用于想要快速启动项目的开发人员的Next.js，Redux和Firebase样板.
--  [React Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks) -用于Firebase服务的React Hooks.
 
 ## Mobile
 
@@ -101,7 +101,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 -  [Firebase Admin Documentation](https://firebase.google.com/docs/admin/setup) -官方Firebase Admin SDK服务器设置.
 -  [Functions Samples](https://github.com/firebase/functions-samples) -收集示例应用程序，这些示例应用程序使用Cloud Functions for Firebase展示了流行的用例.
 -  [Express Server on Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-express) -在Cloud Functions上托管Express服务器.
--  [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) -在Cloud Functions上使用GraphQL中间件托管Express服务器.
+-  [GraphQL Server on Cloud Functions](https://codeburst.io/graphql-server-on-cloud-functions-for-firebase-ae97441399c0) - Host an Express server with GraphQL middleware on Cloud Functions.
 -  [Compiled Code with Cloud Functions](https://github.com/jthegedus/firebase-gcp-examples/tree/master/functions-w-parcel) -使用Babel，TypeScript编译器或ParcelJS将Flow，TypeScript或ReasonML编译为正确的Node运行时.
 -  [BigQuery & Google Analytics](https://medium.com/firebase-developers/how-do-i-create-a-closed-funnel-in-google-analytics-for-firebase-using-bigquery-6eb2645917e1) -如何使用BigQuery在Google Analytics for Firebase中创建封闭的渠道.
 -  [Official Cloud Function #Firecasts](https://www.youtube.com/watch?v=2mjfI0FYP7Y&list=PLl-K7zZEsYLm9A9rcHb1IkyQUu6QwbjdM) -有关理解云功能如何工作的YouTube视频系列.
@@ -111,6 +111,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ## CLI & Editor
 
+-  [VSCode Firebase Explorer](https://github.com/jsayol/vscode-firebase-explorer) -探索和管理您的Firebase项目.
 -  [Firebase Tools](https://github.com/firebase/firebase-tools) -Firebase命令行工具.
 -  [Firebase CI](https://github.com/prescottprue/firebase-ci) -简化的Firebase交互以实现持续集成.
 -  [VSFire](https://github.com/toba/vsfire) -VSCode扩展，用于使用Firestore安全规则和索引突出显示语法并完成代码.
@@ -142,7 +143,7 @@ Translations: [🇬🇧 en](https://github.com/jthegedus/awesome-firebase/blob/m
 
 ### Official
 
-📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)  [Firebase Blog](https://firebase.googleblog.com/)  [@firebase](https://twitter.com/firebase)  [@bestoffirebase](https://twitter.com/bestoffirebase)
+📹 [Firebase YouTube](https://www.youtube.com/user/Firebase)  [Firebase Blog](https://firebase.googleblog.com/)  [@firebase](https://twitter.com/firebase)  [@bestoffirebase](https://twitter.com/bestoffirebase)  [Firebase Facebook](https://www.facebook.com/Firebase)
 
 ### Community
 

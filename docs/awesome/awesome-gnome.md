@@ -6,9 +6,9 @@
 
 &gt; GNOME桌面环境的_awesome_应用，扩展，模块，主题和工具的精选列表.
 
-[GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在使用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
+[GNOME](https://www.gnome.org/)  是Linux和Unixes的桌面环境，旨在让用户掌控一切.  它将GTK用于其应用程序，并将Clutter和JavaScript用于其官方桌面外壳.
 
-&gt;标有！[GNOME Core] [GNOME Core]的项目是GNOME Project正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是作为Classic模式的一部分维护和分发的扩展.
+&gt;带有！[GNOME Core] [GNOME Core]标记的项目是GNOME项目正式维护和分发的应用程序，是核心应用程序和工具集的一部分，或者是扩展和作为经典模式的一部分维护和分发的扩展.
 
 
   - [Developpement and Design](#developpement-and-design) 
@@ -26,13 +26,12 @@
 - [FeedReader](https://jangernert.github.io/FeedReader/) -RSS提要阅读器.
 - [Feeds](https://gitlab.gnome.org/World/gfeeds) -RSS / Atom提要阅读器.
 - [Cawbird](https://ibboard.co.uk/cawbird/) -Twitter客户端.
-- [Something for Reddit](https://github.com/samdroid-apps/something-for-reddit) -Reddit客户.
 - [Jami](https://jami.net/) -Jami的客户端，一种安全的通讯工具.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) -观看Twitch的客户端.
 - [Haguichi](https://www.haguichi.net/) -Hamachi的图形前端.
 - [Transmission Remote GNOME](https://github.com/TingPing/transmission-remote-gnome) -传输洪流守护程序的远程客户端.
-- [Fragments](https://github.com/FragmentsApp/Fragments/) -BitTorrent客户端.
-- [Tangram](https://github.com/sonnyp/Tangram) -将您的Web应用程序分组为一个应用程序.
+- [Fragments](https://gitlab.gnome.org/World/Fragments) -BitTorrent客户端.
+- [Tangram](https://github.com/sonnyp/Tangram) - Group your webapps into a single application.
 
 ### Office
 
@@ -41,7 +40,7 @@
 - [Easy eBook Viewer](https://github.com/joeriexelmans/ebook-viewer) -电子书查看器.
 - [Bookworm](https://github.com/babluboy/bookworm) -简单，专注的eBook阅读器，在GNOME中看起来不错.
 - [Foliate](https://github.com/johnfactotum/foliate) -简单现代的电子书阅读器.
-- [Showdown](https://github.com/craigbarnes/showdown) -简单的降价查看器.
+- [Showdown](https://gitlab.com/craigbarnes/showdown) -简单的降价查看器.
 - [Pdftag](https://github.com/arrufat/pdftag) -简单的PDF元数据编辑器.
 - [PDF Slicer](https://junrrein.github.io/pdfslicer/) -提取，合并，旋转和重新排列PDF文档页面的简单应用程序.
 - [UberWriter](https://github.com/UberWriter/uberwriter) -无干扰的Markdown编辑器.
@@ -56,12 +55,11 @@
 
 ### Multimedia
 
-- [Webmusic](https://github.com/badcel/webmusic) -基于网络的音乐播放器，可将您喜欢的音乐服务集成到桌面中.
 - [Nuvola Player](https://tiliado.eu/nuvolaplayer/) -基于Web的音乐流服务的运行时，可提供更原生的用户体验并与Linux桌面环境集成.
 - [Vocal](https://github.com/needle-and-thread/vocal) -适用于现代免费桌面的强大，美观，简单的播客客户端.
 - [Celluloid](https://github.com/celluloid-player/celluloid) -mpv的简单前端.
 - [Lollypop](https://gitlab.gnome.org/World/lollypop) -美丽的音乐应用程序.
-- [GRadio](https://github.com/haecker-felix/gradio/) -基于网络的广播客户端.
+- [GRadio](https://github.com/haecker-felix/gradio/) -基于Web的无线电的客户端（当前处于维护模式，将由Shortwave代替）.
 - [Parlatype](http://gkarsay.github.io/parlatype/) -专门用于转录的音频播放器.
 - [Pulseeffect](https://github.com/wwmm/pulseeffects) -为PulseAudio应用程序提供限制器，压缩器，混响，均衡器和自动音量效果.
 - [Curlew](https://curlew.sourceforge.io/) -多媒体转换器.
@@ -78,15 +76,14 @@
 ### Gaming
 
 - [Lutris](https://github.com/lutris/lutris) -开源游戏平台.
-- [GNOME Games](https://wiki.gnome.org/Apps/Games) - Game launcher and an emulation frontend to libretro.
+- [GNOME Games](https://wiki.gnome.org/Apps/Games) -游戏启动器和libretro的仿真前端.
 
 ### System and Customization
 
 - [GNOME Tweaks](https://wiki.gnome.org/Apps/Tweaks) -用于高级GNOME3设置的图形界面.
 - [Tilix](https://github.com/gnunn1/terminix/) -平铺终端模拟器.
-- [GNOME AppFolders Manager](http://www.muflone.com/gnome-appfolders-manager/english/index.html) -用于管理GNOME应用程序叠加层中的应用程序文件夹的工具.
 - [Menulibre](https://smdavis.us/projects/menulibre/) -如果您使用传统的应用程序菜单（例如Arc或Application Menu），则管理您的应用程序类别.
-- [HydraPaper](https://github.com/GabMus/HydraPaper) -为每台显示器设置不同的背景.
+- [HydraPaper](https://gitlab.com/gabmus/HydraPaper) -为每台显示器设置不同的背景.
 - [Dynamic Wallpaper Editor](https://github.com/maoschanz/dynamic-wallpaper-editor) -用于编辑GNOME的XML壁纸的实用程序
 - [Unifydmin](https://gitlab.com/gabmus/unifydmin) -异构Linux服务器的统一管理面板.
 
@@ -108,23 +105,18 @@
 
 #### Design Tooling
 
-- [https://gitlab.gnome.org/World/design/icon-tool](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Preview) -预览图标的简单实用程序.
-- [https://gitlab.gnome.org/World/design/palette](https://github.com/Kazhnuz/awesome-gnome/blob/master/Palette) -用于查看GNOME调色板的工具.
-- [https://gitlab.gnome.org/World/design/contrast](https://github.com/Kazhnuz/awesome-gnome/blob/master/Contrast) -检查两种颜色之间的对比度.
-- [https://gitlab.gnome.org/World/design/icon-library](https://github.com/Kazhnuz/awesome-gnome/blob/master/Icon Library) -找到要在GNOME应用程序上使用的正确图标.
+- [Icon Preview](https://gitlab.gnome.org/World/design/icon-preview) -预览图标的简单实用程序.
+- [Palette](https://gitlab.gnome.org/World/design/palette) -用于查看GNOME调色板的工具.
+- [Contrast](https://gitlab.gnome.org/World/design/contrast) -检查两种颜色之间的对比度.
+- [Icon Library](https://gitlab.gnome.org/World/design/icon-library) -找到要在GNOME应用程序上使用的正确图标.
 
 ### Others
 
-- [Luminance](http://craigcabrey.com/luminance/) -飞利浦Hue客户.
 - [razerCommander](https://github.com/GabMus/razerCommander) -控制中心，用于管理Razer外围设备.
 
 ## Third-party Apps Plugins
 
 - [Firefox GNOME Theme](https://github.com/rafaelmardojai/firefox-gnome-theme) -使用Adwaita将Firefox集成到基于GNOME的桌面中.
-
-## GTK Modules and Systems
-
-- [Plotinus](https://github.com/p-e-w/plotinus) -GTK3应用程序的命令面板.
 
 ## Extensions
 

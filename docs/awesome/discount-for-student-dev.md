@@ -60,6 +60,7 @@
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) [折扣]-学生节省60％的Creative Cloud折扣.
   * [Ip Geolocation](https://ipgeolocation.io/) [折扣]-5万个请求免费，所有付费计划为学生提供50％的折扣.
   * [Taskade - Team Productivity](https://www.taskade.com/)  [折扣]-学生获得Taskade Pro订阅可获得50％的永久折扣.  在结帐时使用优惠券代码“ students50”，并开始在Taskade上与团队任务，笔记和聊天进行协作.
+  * [Notion.so](https://www.notion.so/students) [免费]免费的写作，规划，协作和组织构想专业计划.
 
 ## PaaS
 
@@ -69,7 +70,7 @@
 
 ## Email
 
-  * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-学生计划每月通过15K封免费电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
+  * [Send Grid](https://sendgrid.com/partner/github-education) [CREDIT]-当您通过以下方式为学生提供服务时，学生计划每月免费提供15,000封电子邮件（通常每天限制为200封免费电子邮件） [Github Student Developer Pack](https://education.github.com/pack).
   * [Mailgun](https://education.github.com/pack/redeem/mailgun) [免费]-强大的API，可让您轻松发送，接收和跟踪电子邮件.每月最多20,000个电子邮件和100个免费电子邮件验证（长达12个月），可通过 [Github Student Developer Pack](https://education.github.com/pack).
 
 ## CI / CD
@@ -86,7 +87,7 @@
 
   * [Bitnami](https://bitnami.com)  [免费]-单击即可安装云应用程序.  可通过以下方式获得一年的Business 3计划（通常为49美元/月），为期一年 [Github Student Developer Pack](https://education.github.com/pack).
   * [Yellow Circle](http://www.yellowcircle.net) [免费]-通过创建和配置虚拟路由器，虚拟机，虚拟防火墙，负载均衡器和存储设备，为所有级别的学生和教师提供免费的在线沙箱，以学习和实践IT，网络和编程技能.
-  * [Orchestrate](https://orchestrate.io/)  [免费]-Orchestrate是一个完整的数据库产品组合，其中包括通过API进行的搜索，时间序列事件，地理位置和图形查询.  您可以将数据托管在公共云中，例如在CenturyLink数据中心中，或使用Orchestrate Enterprise的专用集群. [Github Student Developer Pack](https://education.github.com/pack) 成员将获得一个免费的开发者帐户（通常为每月49美元）.
+  * [Orchestrate](https://orchestrate.io/)  [免费]-Orchestrate是一个完整的数据库产品组合，包括通过API进行的搜索，时间序列事件，地理位置和图形查询.  您可以将数据托管在公共云中，例如在CenturyLink数据中心中，或使用Orchestrate Enterprise的专用集群. [Github Student Developer Pack](https://education.github.com/pack) 成员将获得一个免费的开发者帐户（通常为每月49美元）.
   * [Vertabelo](http://www.vertabelo.com/)  [免费]-功能齐全的数据库设计在线工具.  免费用于教育目的.
  
 

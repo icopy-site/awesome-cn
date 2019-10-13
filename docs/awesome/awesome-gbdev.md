@@ -4,7 +4,7 @@
 
 #### [Join us on Discord](https://discord.gg/gpBxq85) [![Discord Badge](https://img.shields.io/badge/dynamic/json.svg?label=chat&colorB=green&suffix=%20online&query=count&uri=https%3A%2F%2Fgbhh.avivace.com%2Fapi%2Fdiscord)](https://discord.gg/gpBxq85)
 
- 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
+ 精选的Game Boy（彩色）开发资源，工具，文档，相关项目和开源ROM的精选列表.  受到启发 [awesome](https://github.com/sindresorhus/awesome) 列出的东西.
 
 您可以找到此列表的（网络冷却器）网络版本 [here](https://gbdev.github.io/list.html).
 
@@ -65,7 +65,7 @@
 &gt;-特定寄存器
 &gt;-特定的错误和可利用的行为
 >
-&gt;如果您打算为SGB或GBC开发软件，或者想了解其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
+&gt;如果您打算为SGB或GBC开发软件，或者想知道其在其他系统上的运行方式，则可以利用并适应这些差异，请检查 [Game Boy Color](#game-boy-color) 类别，并查找对GBC / CGB和SGB的特定引用.
 
 ## Community
 
@@ -122,6 +122,7 @@
 - [ESP8266 GB Printer](https://github.com/applefreak/esp8266-gameboy-printer) -一种模拟GB打印机并允许您使用WiFi检索图像的设备.
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) -包含有关硬件，定制板以与控制台和其他相关项目交互的信息负载的页面.
 - [Game Boy hardware database](https://gbhwdb.gekkio.fi/) -各种类型的Game Boy游戏机的数据和照片.
+- [DMG-CPU-Inside](https://github.com/furrtek/DMG-CPU-Inside) -从裸照中提取的DMG-CPU-B芯片的原理图和带注释的叠加层.
 
 ### Peripherals
 
@@ -241,14 +242,14 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
 - [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -HTML5 / JS Web应用程序，它将位图图像转换为适合在基于图块的图形应用程序（特别是GB）中使用的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -Game Boy Tile Designer和Game Boy Map Builder工具的一些来源和主页.
-- [GBTiles](https://github.com/bashaus/gbtiles) -将使用Harry Mulder的Tile Designer（GBTD）创建的.GBR文件和使用Harry Mulder的Map Builder（GBMB）创建的.GBM文件转换为与Game Boy和GBDK一起使用的不同格式.
+- [GBTiles](https://github.com/bashaus/gbtiles) -将由Harry Mulder的Tile Designer（GBTD）创建的.GBR文件和由Harry Mulder的Map Builder（GBMB）创建的.GBM文件转换为与Game Boy和GBDK一起使用的不同格式.
 - [GBT PLAYER](https://github.com/AntonioND/gbt-player) -音乐播放器库和转换器套件可与RGBDS一起使用.
 - [ROM Header Utility](http://catskull.net/GB-Logo-Generator/) -用于检查和修改ROM​​标头数据（包括徽标）的在线工具.
 - [gbcamextract](https://github.com/jkbenaim/gbcamextract) -从“游戏男孩相机”保存中提取照片.
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) -用于Game Boy Color开发的图形转换器，提供实时调色板调整.
 - [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy开发套件的一小部分资源和工具.
 - [GB-convert](https://github.com/exezin/gb-convert) -Game Boy磁贴转换和地图编辑器工具（转换为装配体）.
 - [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
 - [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
@@ -341,7 +342,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 完整和开源的游戏.
 
-- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方的自制软件都可以在线玩（移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的所有非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
+- [Homebrew Hub](https://gbhh.avivace.com) -曾经为Game Boy制作的每一种非官方自制软件都可以在线玩（也可以通过移动/触摸）：社区领导尝试收集，存档和保存由该社区制作的Game Boy（Color）的每款非官方游戏，自制软件，演示，补丁，hackrom通过多年的热情工作.
 - [Infinity](https://github.com/infinity-gbc/infinity)  -由Affinix Software开发的RPG，主要在1999年至2001年之间开发.该游戏从未找到发行商，并最终被取消了.  最近发布了完整的源代码，开发工具和工作流程.
 
 ### ASM
@@ -363,7 +364,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [exeman](https://github.com/exezin/exeman/)
 - [Aevilia](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides](https://github.com/Kartones/gameboy) -一个简单的类似Game Boy Powerpoint的幻灯片查看器.
-- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全基于GBC支持的PokémonRed重制.
+- [Pokered-gbc](https://github.com/dannye/pokered-gbc) -完全通过GBC支持对PokémonRed进行了重新制作.
 - [ToyToy](https://github.com/tslanina/Retro-GameBoyColor-ToyToy)
 - [StefaN](https://github.com/tslanina/Retro-GameBoyColor-StefaN) -Fourway Breakout克隆.
 - [Galaxia](https://github.com/tslanina/Retro-GameBoyColor-Galaxia)

@@ -33,7 +33,7 @@
 - [Shovel Knight: Treasure Trove](http://yachtclubgames.com/shovel-knight/) -具有8位复古美感的经典动作冒险，具有现代NES游戏的外观.
 - [Hyper Light Drifter](http://www.heart-machine.com/)  -在科幻世界中自上而下的动作会散发出光和温暖.  使用色彩缤纷的调色板和千变万化的霓虹灯，营造出冷酷的氛围.
 - [Owlboy](http://www.owlboygame.com/)  -在云端探索一个详细的蒸汽朋克世界.  凭借其一系列引人入胜的动画和表情，世界和角色栩栩如生.
-- [Stardew Valley](https://stardewvalley.net/) -从上到下的角度管理农场，并以16位元与迷人而开朗的世界互动.
+- [Stardew Valley](https://stardewvalley.net/) -从上到下的角度管理农场，并以16位方式与迷人而快乐的世界互动.
 - [Starbound](https://playstarbound.com/) -穿越充满活力，色彩丰富且广阔的星系，包括富有创意的动态动画.
 - [Void Golf](https://cactusmancer.itch.io/void-golf) -使用重力场，违背物理原理的墙壁和虫洞以极简的自顶向下视图将巨大的太空岩石射入黑洞.
 
@@ -61,7 +61,7 @@
 - [Pixel Joint](http://pixeljoint.com/)
 
 ## Editors
-- [Aseprite](http://aseprite.org/)  -开源软件（可免费试用）可在Linux，macOS和Windows上使用.  令人敬畏的用户界面，带有许多漂亮的工具，可简化像素艺术创作.
+- [Aseprite](http://aseprite.org/)  -付费且源可用，可在Linux，macOS和Windows上使用.  令人敬畏的用户界面，带有许多漂亮的工具，可简化像素艺术创作.
 - [Pixen](https://pixenapp.com/)  -付费，适用于macOS和iOS.  出色的OS集成，可使用压敏绘图在平板电脑上创建像素图.
 - [Pro Motion](http://www.cosmigo.com/pixel_animation_software)  -付费试用，可在Windows上使用.  专为创建游戏像素艺术而设计的高级功能.
 - [GIMP](https://www.gimp.org/)  -开源且免费，可在Linux，macOS和Windows上运行.  并非专门用于创建像素图，但能够做到的更多.

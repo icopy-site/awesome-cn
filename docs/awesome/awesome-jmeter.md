@@ -12,7 +12,6 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
 
-- [Books](#books)    
 
 
 ## Getting Started
@@ -51,15 +50,6 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [JMeter by Example](https://books.google.com/books?id=iWeJDAEACAAJ) 由Sai Matam和Jagdeep Jain（[Leanpub](https://leanpub.com/jmeterbyexample)）-一个简单，实用的分步教程来衡量网站的性能.
 - [Master Apache JMeter: From load testing to DevOps](https://leanpub.com/master-jmeter-from-load-test-to-devops) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*
-
-## Trainings & Courses
-
-- [JMeter: Performance and Load Testing @ LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing)
-- [JMeter Training Courses @ NobleProg](https://www.nobleprog.co.uk/jmeter-training)
-- [JMeter Training Course @ BlazeMeter](https://info.blazemeter.com/jmeter-training-course)
-- [JMeter Training Academy @ Blazemeter](https://www.blazemeter.com/jmeter-tutorial/)
-- [JMeter Courses collection @ Udemy](https://www.udemy.com/courses/search/?q=jmeter)
-- [JMeter Training Course @ ABSoft Trainings](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/)
 
 ## Best Practices
 
@@ -117,7 +107,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 
 - [JMeter Distributed Testing Step-by-step](http://jmeter.apache.org/usermanual/jmeter_distributed_testing_step_by_step.pdf)
 - [JMeter Remote Testing](http://jmeter.apache.org/usermanual/remote-test.html)
--Dockerized
+- Dockerized
     - [Dockerized JMeter](https://gist.github.com/hhcordero/abd1dcaf6654cfe51d0b) -使用Docker和JMeter进行分布式负载测试工作流.
     - [JMeter Docker Images](https://hub.docker.com/search/?isAutomated=0&isOfficial=0&page=1&pullCount=0&q=jmeter&starCount=0)
     - [Distributed JMeter testing using Docker](http://srivaths.blogspot.com/2014/08/distrubuted-jmeter-testing-using-docker.html)
@@ -216,6 +206,18 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [How to create a plugin in JMeter](http://stackoverflow.com/questions/20422640/how-to-create-a-plugin-in-jmeter)
 - [Custom JMeter Samplers and Config Elements](http://codyaray.com/2014/07/custom-jmeter-samplers-and-config-elements)
 
+## Trainings & Courses
+
+- [JMeter: Performance and Load Testing](https://www.linkedin.com/learning/jmeter-performance-and-load-testing) @ LinkedIn学习
+- [JMeter Training Courses](https://www.nobleprog.co.uk/jmeter-training) @ NobleProg
+- [JMeter Training Course](https://info.blazemeter.com/jmeter-training-course) @ BlazeMeter
+- [JMeter Training Academy](https://www.blazemeter.com/jmeter-tutorial/) @ BlazeMeter
+- [JMeter Courses collection](https://www.udemy.com/courses/search/?q=jmeter) @乌迪米
+- [JMeter Training Course](http://www.absofttrainings.com/jmeter-training-course-and-tutorials/) @ ABSoft培训
+- [Web Applications (and Mobile Apps) Performance Testing with JMeter](http://pragmatictestlabs.com/web-applications-mobile-apps-performance-testing-jmeter/) @实用测试实验室
+- [Training courses on Load Testing with Apache JMeter](https://www.ubik-ingenierie.com/blog/jmeter-trainings-by-contributors-and-committers/) @乌比克工业
+- [Apache JMeter Testing Courses](https://qainsights.com/services/) @ QAInsights
+
 ## Community
 
 ### Blogs
@@ -223,7 +225,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [BlazeMeter Blog](https://www.blazemeter.com/jmeter) -有关JMeter和性能测试的BlazeMeter博客.
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -UBIK INGENIERIE博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) -有关测试自动化的技术博客.
-- [JMeter Tips](http://jmeter-tips.blogspot.com/) - Blog about Apache JMeter and performance testing of web applications.
+- [JMeter Tips](http://jmeter-tips.blogspot.com/) -有关Apache JMeter和Web应用程序性能测试的博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -RedLine13博客中的JMeter文章.
 - [Smooth Scaling (Flood.io) Blog](https://smoothscaling.com/tagged/tutorial) -从Flood IO加载测试思想，故事和想法.
 - [JMeter Blog @ Shantonu Sarker](http://shantonusarker.blogspot.com.by/p/jmeter.html) -另一个使用JMeter进行性能和自动化测试的博客.

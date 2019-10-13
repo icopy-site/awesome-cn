@@ -32,7 +32,6 @@
 * [Until AM](http://mix.until.am/) -在线音乐混音器，DJ软件.
 * [YOU.DJ](https://you.dj/) -在线音乐调音台，DJ软件从SoundCloud采购音乐.
 * [VideoToolbox](http://videotoolbox.com)  `[Account]`-具有所有常用编辑功能的视频编辑器.  大小限制为600mb.
-* [Stupeflix](https://studio.stupeflix.com/en/) `[Account]`-用图像，音频和视频片段制作电影.
 
 
 ### Business and Finance
@@ -48,7 +47,7 @@
 
 * [Tlk.io](https://tlk.io/) -使用您想要的任何URL（例如，“ tlk.io/some-room”）创建一个会议室，并分组聊天.
 * [Discord](https://discordapp.com/)  -在线语音和文本会议.  在开始时要求用户名创建一个临时头像.
-* [Gruveo](https://www.gruveo.com/)  -在线视频会议.  就像Tlk.io一样，易于记住的自定义URL.
+* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
 * [Appear.in](https://appear.in/)  -在线视频会议.  创建任何房间，例如“ appear.in/some-room”，然后开始聊天.
 * [Videolink2](https://videolink2.me/start)  -在线视频会议.  链接已生成，共享链接以邀请其他参与者.
 * [GetARoom.io](https://getaroom.io/)  -在线视频会议.  具有移动浏览器支持，只需单击“开始新呼叫”并共享链接.
@@ -59,7 +58,7 @@
 
 #### Latex
 
-* [Papeeria](https://papeeria.com/) - Latex preview with an option for downloading as a PDF available without registration.
+* [Papeeria](https://papeeria.com/) -乳胶预览，提供无需注册即可下载为PDF的选项.
 * [Overleaf](https://www.overleaf.com/) `[Account]`-无限的合作者和项目，免费帐户中的git访问.
 * [Sharelatex](https://www.sharelatex.com)  `[Account]`-具有无限私人项目的Latex编辑器.  免费帐户中有1位合作者.
 
@@ -74,7 +73,6 @@
 
 #### <a name="doc-eds-others"></a> Others
 
-* [rst.ninjs](http://rst.ninjs.org/) -所见即所得RST预览，带有用于在线保存文档以供以后编辑的选项.
 * [EtherCalc](https://ethercalc.net/) -在线电子表格编辑器，导出到Excel.
 * [PdfEscape](https://www.pdfescape.com/) -在浏览器本身中编辑或创建PDF.
 * [Browserpad](http://browserpad.org/)  -浏览器中的无服务器纯文本编辑器.  允许您打开和保存纯文本文件.
@@ -117,7 +115,6 @@
 * [Clyp](https://clyp.it/) -音频共享无限制，丰富的API.
 * [SendVid](https://sendvid.com/) -视频托管服务.
 * [Archive.org](https://archive.org/) `[Account]`-无限类型的文件托管，对带宽和上传大小没有限制.
-* [imgh](https://imgh.us/)  -图片托管服务.  支持所有主要格式.  文件大小限制为16mb.
 * [MultCloud](https://www.multcloud.com/home)  -云服务，用于在多个云服务之间管理，移动，复制和迁移数据.  支持所有主要的云服务.  无需注册，2TB云存储，可将大文件直接下载到云中，没有大小限制.
 * [Firefox Send](https://send.firefox.com)  -Mozilla的免费文件共享程序.  不带帐户最大1gb，带帐户最大2.5gb.
 
@@ -127,7 +124,7 @@
 
 * [Typeracer](http://play.typeracer.com/) -在与他人比赛时评估您的打字速度.
 * [Spark Chess](https://www.sparkchess.com/) -根据您的技能水平，学习下棋，与全球用户一起玩或与AI一起玩.
-* [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
+* [Miniclip](https://www.miniclip.com)  -收集各种免费游戏，无需提供电子邮件即可玩.  需要闪光灯.
 * [CrossCode](http://www.cross-code.com/en/start)  -在遥远的未来中推出具有复古风格的2D游戏.  带有出色的游戏机制，例如连击，拼图，技能树，任务，物品等.
 
 
@@ -144,7 +141,6 @@
 * [ezGIF](https://ezgif.com/) -GIF图像编辑器（裁剪，缩放，优化等）.
 * [Adobe Color CC](https://color.adobe.com/) -配色方案设计师.
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载编辑后的图像.
-* [BG patterns](http://bgpatterns.com/) -图案创建器工具，可让您从各种形状中进行选择，然后自定义大小，旋转度，位置，颜色，纹理等.
 * [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标作为SVG或字体托管，并生成选定图标的SVG + PNG +图标字体.
 * [Flaming Text](http://flamingtext.com/) -在线徽标或名称生成器/创建者，可以根据自己的意愿修改徽标，并采用多种格式，包括PNG和JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com)  -生成100多个徽标，选择您喜欢的徽标并下载.  包括社交媒体网站的封面和个人资料图片.
@@ -159,8 +155,6 @@
 * [Vubey](https://vubey.yt/) -从YouTube，SoundCloud等下载各种音频质量（比特率）的MP3.
 * [Seedr](https://www.seedr.cc/)  `[Account]`-基于云的种子下载器.  仅限免费帐户中大小总计为2gb的多个torrent.  无限带宽.  贡献新用户增加500mb.
 * [ZbigZ](https://zbigz.com/)  -Torrent下载程序，可让您选择要从种子文件中下载的文件.  免费版本的文件大小限制为2gb，下载上限为50kbps.
-* [Instagram Story Downloader](https://wizseotools.com/instagram-story-downloader/) -Instagram Story Downloader可让您仅输入用户名即可下载公共帐户的故事.
-* [Instagram Media Downloader](https://wizseotools.com/insta-save/)  -允许您下载Instagram图片和视频.  支持多个图像/视频帖子（Sidecar）.
 
 
 ### Music, Radio and Podcasts
@@ -182,7 +176,6 @@
 ### Notepads and Notebooks
 
 * [aNotepad](https://anotepad.com/) -使用cookie无需用户帐户即可保存笔记.
-* [h5Note](http://h5note.com/) -离线时也可以使用HTML5运作.
 * [shrib](https://shrib.com/) -将注释保存到自定义网址，并在以后进行编辑.
 * [Notepad](http://notepad.js.org/) -具有离线功能的记事本PWA.
 * [ProtectedText](https://www.protectedtext.com/) -加密的笔记，无广告，会话或Cookie.
@@ -193,7 +186,6 @@
 
 * [Encipher.it](https://encipher.it/) -AES-256文本加密和解密.
 * [Encrypted Pastebin - Defuse.ca](https://defuse.ca/pastebin.htm) -在公共粘贴上设置密码.
-* [Hardbin](https://hardbin.com/) -托管在IPFS上的安全加密pastebin.
 * [jotti](https://virusscan.jotti.org) -扫描任何可疑文件或电子邮件附件中是否有病毒.
 * [scr.im](http://scr.im/) -自由共享电子邮件地址，而不必担心垃圾邮件.
 * [10 Minute Mail](https://10minutemail.com/10MinuteMail/index.html) -10分钟的全功能临时电子邮件地址（可扩展）.
@@ -209,8 +201,8 @@
 * [Repl.it](https://repl.it/) -所有流行编程语言的在线终端.
 * [Codechef IDE](https://www.codechef.com/ide) -支持主要语言的简单单文件代码编译器.
 * [Cloud9](https://c9.io/) `[Account]`-非常强大的在线开发环境，就像您的本地PC一样.
-* [JS Bin](https://jsbin.com) -协作式Web开发和调试工具.
 * [Codepen.io](https://codepen.io/) -前端Web开发的游乐场.
+* [JS Bin](https://jsbin.com) -协作式Web开发和调试工具.
 * [Codenvy](https://codenvy.com) `[Account]`-开发人员的云工作区，支持大多数流行的堆栈，包括Android，Hadoop，Selenium，NodeJS等.
 * [SQLFiddle](http://sqlfiddle.com/) -用于轻松在线测试和共享数据库问题及其解决方案的工具.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/)  -Javascript Brainfuck解释器+可视化器.  帮助您了解代码的工作方式.
@@ -247,7 +239,7 @@
 * [RSS Feed Search](http://ctrlq.org/rss/) -从搜索词中查找RSS提要.
 * [IWantMyName](https://iwantmyname.com/) -帮助您搜索所有TLD中的域.
 * [Similar Sites](http://www.similarsites.com/) -查找与您输入的网站相似的网站.
-* [Google Fonts](https://www.google.com/webfonts) - Collection of open-source fonts by google.
+* [Google Fonts](https://www.google.com/webfonts) -由Google收集开源字体.
 * [ChooseMyPC](https://choosemypc.net/) -在给定的预算下，考虑对PC的要求，搜索零件的最佳组合.
 * [Flaticon](https://www.flaticon.com/) -最大的免费图标搜索引擎.
 
@@ -281,12 +273,12 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 <a name="utilities"></a>
 ### Utilities (uncategorized)
 
-* [Dataflow kit](https://dataflowkit.org/dfk) -从网页中提取结构化数据.
+* [Dataflow kit](https://dataflowkit.com/dfk) -从网页中提取结构化数据.
 * [E.gg Timer](http://e.ggtimer.com/) -简单的倒数计时器应用程序.
 * [QR Code Generator](http://zxing.appspot.com/generator/) -支持不同类型的QR码，例如联系信息，WiFi，日历等.
 * [RANDOM.ORG](https://www.random.org/) -基于随机性的概念，随机数生成器，掷骰子，密码生成器，随机位图以及更多内容.
 * [Web-Capture](https://web-capture.net/) -Webapp，只需提交链接即可将网页转换为流行格式（PDF，JPEG，ZIP）.
-* [PrintWhatYouLike](http://www.printwhatyoulike.com/) -打印任何网页或将其另存为HTML或PDF.
+* [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) -根据图片确定字体名称.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) -查看任何图像的隐藏数据（元数据）.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) -查找任何网站的虚拟主机.
@@ -308,7 +300,6 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [Superbetize](http://superbetize.com/) -分类您的购物清单.
 * [isup.me](http://isup.me/) -检查网站是否仅对您或其他人不可用.
 * [Dictation.io](https://dictation.io/) -支持多种语言的在线语音听写软件.
-* [unfurlr](http://unfurlr.com/) -检查隐藏在缩短链接后面的网址.
 * [followupthen](https://www.followupthen.com/) -设置电子邮件提醒的最简单方法.
 * [lmgtfy](http://lmgtfy.com/) -当您的朋友太懒惰而无法独自使用Google时.
 * [IFTTT](https://ifttt.com/)  `[Account]`-在您喜欢的在线服务之间建立联系.  例如，如果需要将自己的instagram作为本地照片在Twitter上发布，则IFTTT可以派上用场.

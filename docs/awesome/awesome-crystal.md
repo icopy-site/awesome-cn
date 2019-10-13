@@ -106,7 +106,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Converters
  * [base62.cr](https://github.com/Sija/base62.cr) -Base62编码器/解码器，非常适合网址缩短
- * [money](https://github.com/crystal-money/money) -轻松处理货币和货币转换（几乎完整的端口） [RubyMoney](https://github.com/RubyMoney/money))
+ * [money](https://github.com/crystal-money/money) - Handling money and currency conversion with ease (almost complete port of [RubyMoney](https://github.com/RubyMoney/money))
  * [moola](https://github.com/dorkrawk/moola) -用于处理金钱和兑换的图书馆（灵感来自 [RubyMoney](https://github.com/RubyMoney/money))
  * [ms](https://github.com/SuperPaintman/ms) -可以轻松将各种时间格式转换为毫秒和将人类可读格式转换为毫秒的库
  * [sass.cr](https://github.com/straight-shoota/sass.cr) -将SASS / SCSS编译为CSS（[libsass](https://github.com/sass/libsass/) 捆绑）
@@ -127,7 +127,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
  * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
- * [INI](https://crystal-lang.org/api/INI.html) -此解析器文件（Crystal stdlib）
+ * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
  * [maxminddb.cr](https://github.com/delef/maxminddb.cr) -MaxMindDB阅读器
@@ -163,7 +163,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [migro](https://github.com/aisrael/migro) -数据库迁移工具，允许在YAML或原始SQL中指定迁移
 
 ## Debugging
- * [debug.cr](https://github.com/Sija/debug.cr) -`pp！-style调试的`debug！（…）`宏
+ * [debug.cr](https://github.com/Sija/debug.cr) - `debug!(…)` macro for `pp`-style debugging
 
 ## Dependency Injection
 * [syringe](https://github.com/Bonemind/syringe) -用于晶体的简单且基本的依赖注入碎片
@@ -255,7 +255,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [qt5.cr](https://github.com/Papierkorb/qt5.cr) -基于Bindgen的Crystal的Qt5绑定
 
 ## HTML Builders
- * [form_builder.cr](https://github.com/westonganger/form_builder.cr) - Dead simple HTML form builder for Crystal with built-in support for many popular UI libraries such as Bootstrap
+ * [form_builder.cr](https://github.com/westonganger/form_builder.cr) -适用于Crystal的简单HTML表单生成器，具有对许多流行的UI库（例如Bootstrap）的内置支持
  * [html_builder](https://github.com/crystal-lang/html_builder) -用于创建HTML的DSL
 
 ## HTML/XML Parsing
@@ -360,9 +360,10 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Network Protocols
  * [bson.cr](https://github.com/jeromegn/bson.cr) -本机BSON实施
+ * [connect-proxy](https://github.com/spider-gazelle/connect-proxy) -HTTP隧道/ HTTP代理的连接方法样式
  * [cr-xmpp](https://github.com/naqvis/cr-xmpp) -XMPP / Jabber库
  * [Crirc](https://github.com/Meoowww/Crirc) -IRC协议实施（客户端，服务器，机器人）
- * [crystal-json-socket](https://github.com/foi/crystal-json-socket) - JSON-socket client & server implementation. Inspired by 和 compatible with [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
+ * [crystal-json-socket](https://github.com/foi/crystal-json-socket)  -JSON套接字客户端和服务器实现.  受到启发并与之兼容 [node-json-socket](https://github.com/sebastianseilund/node-json-socket/) 和 [ruby-json-socket](https://github.com/foi/ruby-json-socket)
  * [crystal-snmp](https://github.com/spider-gazelle/crystal-snmp) -具有版本1、2c和3的SNMP实现
  * [fast_irc.cr](https://github.com/RX14/fast_irc.cr) -快速IRC解析器/生成器
  * [gopher.cr](https://github.com/anicholson/gopher.cr) -Gopher服务器工具包
@@ -457,7 +458,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crustache](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) 水晶用
  * [ECR (Embedded Crystal)](https://crystal-lang.org/api/ECR.html) -编译使用普通晶体表达式的时间模板语言（Crystal stdlib）
  * [Kilt](https://github.com/jeromegn/kilt) -模板引擎的抽象层
- * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁的模板语言
+ * [Slang](https://github.com/jeromegn/slang) -受Ruby Slim启发的轻巧，简洁，模板化的语言
  * [teeplate](https://github.com/mosop/teeplate) -用于渲染多个模板文件的库
  * [temel](https://github.com/f/temel) -Crystal的可扩展HTML :: Builder替代品，支持自定义标签定义
 
@@ -468,7 +469,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [crytic](https://github.com/hanneskaeufler/crytic) -变异测试框架
  * [LuckyFlow](https://github.com/luckyframework/lucky_flow) -与Capybara类似的自动浏览器测试
  * [mass-spec](https://github.com/c910335/mass-spec) -Web API测试库
- * [microtest](https://github.com/Ragmaanir/microtest) -专注于权力主张的小型自以为是的测试库
+ * [microtest](https://github.com/Ragmaanir/microtest) -专注于功率断言的小型自以为是的测试库
  * [minitest.cr](https://github.com/ysbaddaden/minitest.cr) -单元测试和断言库
  * [mocks.cr](https://github.com/waterlink/mocks.cr) -水晶模拟库
  * [Spec](https://crystal-lang.org/api/Spec.html) -规格框架（Crystal stdlib）

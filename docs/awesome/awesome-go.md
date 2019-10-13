@@ -60,7 +60,7 @@
 * [jwt](https://github.com/robbert229/jwt) -JSON Web令牌（JWT）的清洁易用实现.
 * [jwt](https://github.com/pascaldekloe/jwt) -轻量级JSON Web令牌（JWT）库.
 * [jwt-auth](https://github.com/adam-hanna/jwt-auth) -用于Golang http服务器的JWT中间件，具有许多配置选项.
-* [jwt-go](https://github.com/dgrijalva/jwt-go) - Golang implementation of JSON Web Tokens (JWT).
+* [jwt-go](https://github.com/dgrijalva/jwt-go) -  Golang实现JSON网络令牌（JWT）的.
 * [loginsrv](https://github.com/tarent/loginsrv) -具有可插入后端的JWT登录微服务，例如OAuth2（Github），htpasswd，osiam.
 * [oauth2](https://github.com/golang/oauth2)  -goauth2的后继者.  JWT，Google API，Compute Engine和App Engine支持随附的通用OAuth 2.0程序包.
 * [osin](https://github.com/openshift/osin) -  Golang了OAuth2服务器库.
@@ -227,7 +227,7 @@
 *用于预处理CSS文件的库.*
 
 * [gcss](https://github.com/yosssi/gcss) -Pure Go CSS预处理器.
-* [go-libsass](https://github.com/wellington/go-libsass) -包装到100％Sass兼容的libsass项目.
+* [go-libsass](https://github.com/wellington/go-libsass) - Go wrapper to the 100% Sass compatible libsass project.
 
 ## Data Structures
 
@@ -531,6 +531,7 @@
 * [agora](https://github.com/PuerkitoBio/agora) -Go中的动态类型的，可嵌入的编程语言.
 * [anko](https://github.com/mattn/anko) -用Go语言编写的可编写脚本的解释器.
 * [binder](https://github.com/alexeyco/binder) -根据以下内容转到Lua绑定库 [gopher-lua](https://github.com/yuin/gopher-lua).
+* [cel-go](https://github.com/google/cel-go) -具有渐进式输入功能的快速，便携式，非图灵完整表达评估.
 * [expr](https://github.com/antonmedv/expr) - an engine that can evaluate expressions.
 * [gentee](https://github.com/gentee/gentee) -嵌入式脚本编程语言.
 * [gisp](https://github.com/jcla1/gisp) -Go中的简单LISP.
@@ -712,7 +713,7 @@
 * [stl](https://github.com/ssgreg/stl) - Software transactional locks based on Software Transactional Memory (STM) concurrency control mechanism.
 * [threadpool](https://github.com/shettyh/threadpool) -  Golang线程池的实现.
 * [tunny](https://github.com/Jeffail/tunny) - 够程池golang.
-* [worker-pool](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
+* [worker-pool](https://github.com/vardius/worker-pool) -goworker是Go简单的异步工作程序池.
 * [workerpool](https://github.com/gammazero/workerpool) -Goroutine池限制了任务执行的并发性，而不是排队的任务数.
 
 ## GUI
@@ -1188,7 +1189,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [glfw](https://github.com/go-gl/glfw) -为GLFW 3进行绑定.
 * [goxjs/gl](https://github.com/goxjs/gl) -跨平台的OpenGL绑定（OS X，Linux，Windows，浏览器，iOS，Android）.
 * [goxjs/glfw](https://github.com/goxjs/glfw) -使用跨平台的glfw库来创建OpenGL上下文并接收事件.
-* [mathgl](https://github.com/go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
+* [mathgl](https://github.com/go-gl/mathgl) -受GLM启发，专门用于3D数学的Pure Go数学软件包.
 
 ## ORM
 
@@ -1460,7 +1461,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
     * [hoverfly](https://github.com/SpectoLabs/hoverfly) -HTTP（S）代理，用于使用可扩展的中间件和易于使用的CLI记录和模拟REST / SOAP API.
     * [httpmock](https://github.com/jarcoal/httpmock) -轻松模拟来自外部资源的HTTP响应.
     * [minimock](https://github.com/gojuno/minimock) -Go接口的模拟生成器.
-    * [mockhttp](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
+    * [mockhttp](https://github.com/tv42/mockhttp) -Go http.ResponseWriter的模拟对象.
 
 *起毛和增量调试/减少/缩小.
     * [go-fuzz](https://github.com/dvyukov/go-fuzz) -随机测试系统.
@@ -1813,7 +1814,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [Gondola](https://github.com/rainycape/gondola) -用于更快地编写网站的Web框架.
 * [gongular](https://github.com/mustafaakin/gongular) -具有输入映射/验证和（DI）依赖注入的Fast Go Web框架.
 * [hiboot](https://github.com/hidevopsio/hiboot) -hiboot是具有自动配置和依赖项注入支持的高性能Web应用程序框架.
-* [Macaron](https://github.com/go-macaron/macaron) -Macaron是Go中高效且模块化的Web设计框架.
+* [Macaron](https://github.com/go-macaron/macaron) - Macaron is a high productive and modular design web framework in Go.
 * [mango](https://github.com/paulbellamy/mango) -Mango是受Rack和PEP333启发的Go的模块化Web应用程序框架.
 * [Microservice](https://github.com/claygod/microservice) -用Golang编写的用于创建微服务的框架.
 * [neo](https://github.com/ivpusic/neo) -Neo是使用极简单的API的最小且快速的Go Web框架.
@@ -1854,7 +1855,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 * [interpose](https://github.com/carbocation/interpose) -用于golang的极简net / http中间件.
 * [muxchain](https://github.com/stephens2424/muxchain) -用于net / http的轻量级中间件.
 * [negroni](https://github.com/urfave/negroni) -Golang的惯用HTTP中间件.
-* [render](https://github.com/unrolled/render) -Go包，可轻松呈现JSON，XML和HTML模板响应.
+* [render](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, and HTML template responses.
 * [renderer](https://github.com/thedevsaddam/renderer) -用于Go的简单，轻量和更快的响应（JSON，JSONP，XML，YAML，HTML，文件）渲染包.
 * [rye](https://github.com/InVisionApp/rye) -支持JWT，CORS，Statsd和Go 1.7上下文的Tiny Go中间件库（带有罐装中间件）.
 * [stats](https://github.com/thoas/stats) -可以存储有关您的Web应用程序的各种信息的中间件.
@@ -2258,7 +2259,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) 以获得完整列表.
 ### Tutorials
 
 * [50 Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/) -新Golang开发人员的陷阱，陷阱和常见错误.
-* [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) -建立Golang电子商务网站（包含演示）.
+* [A Guide to Golang E-Commerce](https://snipcart.com/blog/golang-ecommerce-ponzu-cms-demo?utm_term=golang-ecommerce-ponzu-cms-demo) - Building a Golang site for e-commerce (demo included).
 * [A Tour of Go](http://tour.golang.org/) -围棋互动之旅.
 * [Build web application with Golang](https://github.com/astaxie/build-web-application-with-golang) -Golang电子书介绍如何使用Golang构建网络应用.
 * [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) -熟悉Gin并了解它如何帮助您减少样板代码并建立请求处理管道.

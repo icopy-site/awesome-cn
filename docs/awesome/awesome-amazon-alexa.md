@@ -168,6 +168,7 @@
 - [Love My Echo](http://lovemyecho.us12.list-manage1.com/subscribe?u=a2fd80e8af2452554af237cf4&id=353528c5b3) -向Alexa询问的事情，操作方法，技巧，窍门等.
 - [VoiceBot](https://www.voicebot.ai/subscribe/) -有关Amazon Alexa，Google Home，Google Deep Mind，Apple Siri，Microsoft Cortana，IBM Watson等的最新新闻.
 - [Voice Dev Rocks](https://voicedev.rocks/) -由亚马逊Alexa，Google助手和Microsoft Cortana Slack社区为您提供的每周精选出版物，其中包含有趣且相关的链接.
+- [Talking to Computers](https://talkingtocomputers.substack.com/welcome) -有关在Alexa，Google Assistant以及其他地方为开发人员，设计师和技术人员提供语音构建的每月新闻.
 
 ## Podcasts
 
