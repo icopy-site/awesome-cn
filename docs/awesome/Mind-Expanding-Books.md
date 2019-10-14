@@ -16,7 +16,7 @@
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  鞋狗：耐克创作者的回忆录|  菲尔·奈特| [4.46](https://www.goodreads.com/book/show/27220736-shoe-dog) | 2016 | 
- |  复合效应|  达伦·哈迪（Darren Hardy） [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
+ |  复合效应|  Darren Hardy | [4.40](https://www.goodreads.com/book/show/9420697-the-compound-effect) | 2010 |  
  |  高产出管理|  安迪·格罗夫| [4.38](https://www.goodreads.com/book/show/324750.High_Output_Management) | 1995 |  
  |  胜过魔鬼：自由与成功的秘诀  拿破仑山| [4.38](https://www.goodreads.com/book/show/10713286-outwitting-the-devil) | 2011 |
  |  如何从自己所在的地方到想要成为的地方：成功的25条原则|  杰克·坎菲尔德，珍妮特·斯威哲| [4.26](https://www.goodreads.com/book/show/96593.The_Success_Principles) | 2007 |  
@@ -174,6 +174,7 @@
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  智人：人类简史  Yuval Noah Harari | [4.42](https://www.goodreads.com/book/show/23692271-sapiens) | 2014 |  
+ |  互联网的发生方式：从Netscape到iPhone |  布莱恩·麦卡洛| [4.36](https://www.goodreads.com/en/book/show/38212134-how-the-internet-happened) | 2018 |
  |  发现者|  Daniel J. Boorstin | [4.34](https://www.goodreads.com/book/show/714380.The_Discoverers) | 2012 |  
  |  一分钟到午夜：处于核战争边缘的肯尼迪，赫鲁晓夫和卡斯特罗|  迈克尔·多布斯| [4.20](https://www.goodreads.com/book/show/2606779-one-minute-to-midnight) | 2008 |  
  |  密码破解者：从古代到互联网的秘密通信的全面历史  大卫·卡恩| [4.18](https://www.goodreads.com/book/show/29608.The_Codebreakers) | 1996 |  
@@ -187,7 +188,7 @@
  |  发现印度|  Jawaharlal Nehru | [3.98](http://www.goodreads.com/book/show/154126.The_Discovery_of_India) |  |  
  |  理性的乐观主义者：繁荣如何演变（PS）|世界银行  马特·里德利| [3.98](https://www.goodreads.com/book/show/7776209-the-rational-optimist) | 2010 |  
  |  Kingpin：一个黑客如何应对地下十亿美元的网络犯罪  凯文·波尔森| [3.96](http://www.goodreads.com/book/show/9319468-kingpin) | 2011 |  
- |  鬼地图：伦敦最可怕的流行病的故事-以及它如何改变科学，城市和现代世界|  史蒂文·约翰逊| [3.91](https://www.goodreads.com/book/show/36086.The_Ghost_Map) |  |  
+ |  幽灵地图：伦敦最可怕的流行病的故事-以及它如何改变科学，城市和现代世界|  史蒂文·约翰逊| [3.91](https://www.goodreads.com/book/show/36086.The_Ghost_Map) |  |  
  |  大英帝国的兴衰|  劳伦斯·詹姆斯| [3.89](https://www.goodreads.com/book/show/143980.The_Rise_and_Fall_of_the_British_Empire) | 1997 |  
  |  主开关：信息帝国的兴衰  吴添| [3.89](https://www.goodreads.com/book/show/8201080-the-master-switch) | 2010 |  
  |  间谍|  Robert Wallace，H.Keith Melton，Henry R. Schlesinger | [3.81](http://www.goodreads.com/book/show/971936.Spycraft) |  |  
@@ -385,7 +386,7 @@
  |  哈利·波特与理性方法|  Eliezer Yudkowsky | [4.38](https://www.goodreads.com/book/show/10016013-harry-potter-and-the-methods-of-rationality) | 2015 |  
  |  Discworld |  特里·普拉切特| [4.32](https://www.goodreads.com/series/40650-discworld) | 2001 |  
  |  黑暗塔|  斯蒂芬·金| [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
- |  他的黑暗材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
+ |  他的深色材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
  |  最后的愿望-佐贺|  安德烈（Andrzej Sapkowski） [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
  |  纳尼亚传奇|  克莱夫·斯台普斯·刘易斯 [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
  |  城市与城市|  中国米维尔| [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
@@ -411,7 +412,7 @@
 ### Mystery
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  福尔摩斯探案  亚瑟·柯南·道尔| [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
+ |  福尔摩斯|  亚瑟·柯南·道尔| [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
  |  罗杰·阿克罗伊德谋杀案|  阿加莎·克里斯蒂| [4.20](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) | 2006 |  
  |  八|  凯瑟琳·内维尔| [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  |  
  |  记忆人|  大卫·巴尔达奇（David Baldacci）| [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |  

@@ -536,7 +536,7 @@ const arrayToCSV =（arr，delimiter =&#39;，&#39;）=&gt;
 
 ### bifurcate
 
- 将值分为两组.  如果`filter`中的一个元素是真实的，则集合中的对应元素属于第一组；  否则，它属于第二组.
+ 将值分为两组.  如果`filter`中的元素是真实的，则集合中的对应元素属于第一组；  否则，它属于第二组.
 
 使用array.prototype.reduce（）和Array.prototype.push（）将元素添加到基于filter的组中.
 
@@ -558,7 +558,7 @@ const bifurcate =（arr，filter）=&gt;
 
  根据谓词函数将值分为两组，该函数指定输入集合中元素所属的组.  如果谓词函数返回真实值，则collection元素属于第一组；  否则，它属于第二组.
 
-根据每个元素的fn返回的值，使用Array.prototype.reduce（）和Array.prototype.push（）将元素添加到组中.
+根据每个元素的fn返回值，使用Array.prototype.reduce（）和Array.prototype.push（）将元素添加到组中.
 
 ```js
 const bifurcateBy =（arr，fn）=&gt;
@@ -1123,7 +1123,7 @@ const initialize2DArray =（w，h，val = null）=&gt;
 
 初始化一个数组，该数组包含指定范围内的数字，其中“ start”和“ end”包含其共同点“ step”.
 
-使用Array.from（）创建所需长度的数组，（结束-开始+ 1）/步长，并使用map函数在给定范围内填充所需的值.
+使用Array.from（）创建一个所需长度的数组，（结束-开始+ 1）/步长，并使用map函数在给定范围内填充所需的值.
 您可以省略“开始”以使用默认值“ 0”.
 您可以省略`step`以使用默认值&#39;1&#39;.
 
@@ -1147,7 +1147,7 @@ const initializeArrayWithRange =（结束，开始= 0，步骤= 1）=&gt;
 
 初始化一个数组，该数组包含指定范围内的数字（反向），其中“ start”和“ end”包含其共同点“ step”.
 
-使用Array.from（Math.ceil（（end + 1-start）/ step））创建一个所需长度的数组（元素数量等于（（end-start）/ step）或`（ end + 1-start）/ step（包括结束符），使用Array.prototype.map（）填充范围内的所需值.
+使用Array.from（Math.ceil（（end + 1-start）/ step））创建一个所需长度的数组（元素数量等于`（end-start）/ step`或`（ end + 1-start）/ step（包括结束符），使用Array.prototype.map（）填充范围内的所需值.
 您可以省略“开始”以使用默认值“ 0”.
 您可以省略`step`以使用默认值&#39;1&#39;.
 
@@ -1242,7 +1242,7 @@ const交集=（a，b）=&gt; {
 通过对b中的所有元素应用fn创建一个Set，然后在a上使用Array.prototype.filter（）仅保留元素，当fn产生b时包含值适用于他们.
 
 ```js
-const交集By =（a，b，fn）=&gt; {
+常量交叉点=（（a，b，fn）=&gt; {
   const s = new Set（b.map（fn））;
   返回a.filter（x =&gt; s.has（fn（x）））;
 };
@@ -1322,8 +1322,8 @@ const join =（arr，分隔符=&#39;，&#39;，end =分隔符）=&gt;
       我===长度-2
          ？  acc + val +结束
         ：i ===长度-1
-         ？  acc + val
-        ：acc + val +分隔符，
+           ？  acc + val
+          ：acc + val +分隔符，
     ''
   );
 ```
@@ -1417,7 +1417,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
 
 使用函数将数组的值映射到对象，其中键-值对由字符串化的值（作为键）和映射的值组成.
 
- 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移到另一个上下文（由于闭包和操作顺序）.
+ 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移至另一个上下文（由于闭包和操作顺序）.
 
 ```js
 const mapObject =（arr，fn）=&gt;
@@ -1439,7 +1439,7 @@ const squareIt = arr =&gt; mapObject（arr，a =&gt; a * a）;
 ### maxN
 
 从提供的数组中返回最大n个元素.
-如果`n`大于或等于提供的数组长度，则返回原始数组（降序排列）.
+如果`n&#39;大于或等于提供的数组的长度，则返回原始数组（降序排列）.
 
 将Array.prototype.sort（）与散布运算符（...）结合使用可创建该数组的浅表副本，并按降序对其进行排序.
 使用Array.prototype.slice（）获取指定数量的元素.
@@ -1462,7 +1462,7 @@ const maxN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; b-a）.sli
 ### minN
 
 从提供的数组中返回n个最小元素.
-如果`n`大于或等于提供的数组长度，则返回原始数组（以升序排列）.
+如果`n`大于或等于提供的数组的长度，则返回原始数组（以升序排列）.
 
 使用`Array.prototype.sort（）`结合传播运算符（`...`）来创建数组的浅表克隆，并按升序对其进行排序.
 使用Array.prototype.slice（）获取指定数量的元素.
@@ -1612,7 +1612,7 @@ const permutations = arr =&gt; {
 突变原始数组以滤除指定的值.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 
 ```js
 const pull =（arr，... args）=&gt; {
@@ -1637,7 +1637,7 @@ const pull =（arr，... args）=&gt; {
 突变原始数组以滤除指定索引处的值.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 使用Array.prototype.push（）来跟踪提取的值
 
 ```js
@@ -1666,7 +1666,7 @@ const pullAtIndex =（arr，pullArr）=&gt; {
  突变原始数组以滤除指定的值.  返回移除的元素.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 使用Array.prototype.push（）来跟踪提取的值
 
 ```js
@@ -1696,7 +1696,7 @@ const pullAtValue =（arr，pullArr）=&gt; {
 检查函数中是否提供了最后一个参数.
 使用Array.prototype.map（）将迭代器函数fn应用于所有数组元素.
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 
 ```js
 const pullBy =（arr，... args）=&gt; {
@@ -2132,7 +2132,7 @@ const symmetricDifference =（a，b）=&gt; {
 
 将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的对称差.
 
-通过对每个数组的元素应用fn创建一个Set，然后对每个元素使用Array.prototype.filter（），以仅保留彼此不包含的值.
+通过对每个数组的元素应用fn来创建Set，然后对每个元素使用Array.prototype.filter（），以仅保留彼此不包含的值.
 
 ```js
 const symmetricDifferenceBy =（a，b，fn）=&gt; {
@@ -2245,7 +2245,7 @@ const takeRight =（arr，n = 1）=&gt; arr.slice（arr.length-n，arr.length）
 
 ```js
 const takeRightWhile =（arr，func）=&gt;
-  arr.reduceRight（（acc，el）=&gt;（func（el）？acc：[el，... acc]），[]）;
+  arr.reduceRight（（acc，el）=&gt;（func（the）？acc：[el，... acc]），[]）;
 ```
 
 <details>
@@ -2610,7 +2610,7 @@ zip(['a'], [1, 2], [true, false]); // [['a', 1, true], [undefined, 2, false]]
 
 给定一个有效的属性标识符数组和一个值数组，返回一个将属性与值相关联的对象.
 
-由于对象可以具有未定义的值，但不能具有未定义的属性指针，因此使用属性数组可以通过Array.prototype.reduce（）来确定结果对象的结构.
+由于对象可以具有未定义的值，但不能具有未定义的属性指针，因此属性数组用于通过Array.prototype.reduce（）来确定结果对象的结构.
 
 ```js
 const zipObject =（属性，值）=&gt;
@@ -2761,7 +2761,7 @@ const copyToClipboard = str =&gt; {
 
 ```js
 常量计数器=（选择器，开始，结束，步骤= 1，持续时间= 2000）=&gt; {
-  让电流=开始
+  让电流=开始，
      _step =（结束-开始）* step &lt;0？  -step：步骤，
     计时器= setInterval（（）=&gt; {
       当前+ = _step;
@@ -2819,7 +2819,7 @@ const el = createElement（
 使用Object.create（null）创建一个空的hub对象，该对象不继承Object.prototype的属性.
 对于`emit`，请基于`event`参数解析处理程序数组，然后通过将数据作为参数传入来使用`Array.prototype.forEach（）`运行每个处理程序.
 对于on，为事件创建一个数组（如果尚不存在），然后使用Array.prototype.push（）添加处理程序.
-到阵列.
+到数组.
 对于“ off”，使用“ Array.prototype.findIndex（）”在事件数组中查找处理程序的索引，然后使用“ Array.prototype.splice（）”将其删除.
 
 ```js
@@ -3527,7 +3527,7 @@ serializeForm(document.querySelector('#form')); // email=test%40email.com&name=T
 使用`element.style`将指定元素的CSS规则的值设置为`val`.
 
 ```js
-const setStyle =（the RuleName，val）=&gt;（el.style [ruleName] = val）;
+const setStyle =（the，ruleName，val）=&gt;（el.style [ruleName] = val）;
 ```
 
 <details>
@@ -3543,7 +3543,7 @@ const setStyle =（the RuleName，val）=&gt;（el.style [ruleName] = val）;
 
 显示所有指定的元素.
 
-使用传播运算符（`...）和Array.prototype.forEach（）清除指定的每个元素的display属性.
+使用传播运算符（...）和Array.prototype.forEach（）清除指定的每个元素的display属性.
 
 ```js
 const show =（... el）=&gt; [... el] .forEach（e =&gt;（e.style.display =&#39;&#39;）））;
@@ -3758,10 +3758,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;am&#39;
     ：num === 12
-     ？  12 +&#39;pm&#39;
-    ：num &lt;12
-     ？  （num％12）+&#39;am&#39;
-    ：（无论12％）PM“;
+       ？  12 +&#39;pm&#39;
+      ：num &lt;12
+         ？  （num％12）+&#39;am&#39;
+        ：（无论12％）PM“;
 ```
 
 <details>
@@ -3860,7 +3860,7 @@ const isWeekday =（t = new Date（））=&gt; {
 结果为特定日期的布尔表示形式.
 
 首先传递特定的日期对象.
-使用`Date.getDay（）`根据使用模运算返回0-6的日期来检查周末，然后返回一个布尔值.
+使用`Date.getDay（）`根据使用模运算返回0-6的日期检查周末，然后返回一个布尔值.
 
 ```js
 const isWeekend =（t = new Date（））=&gt; {
@@ -4379,7 +4379,7 @@ const sumForLoop =（）=&gt; {
 返回已记忆（缓存）的函数.
 
 通过实例化一个新的Map对象来创建一个空的缓存.
- 通过首先检查该特定输入值的函数输出是否已被缓存，返回存储一个参数的函数，该函数将被提供给已记忆的函数；否则，将其存储并返回.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
+ 通过首先检查该特定输入值的函数输出是否已缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；如果没有，则存储并返回它.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
 通过将其设置为返回函数的属性来允许访问“缓存”.
 
 ```js
@@ -4925,11 +4925,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-      })()
+      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+    })()
     ：n &lt;= 1
-    ? 1
-    ：n *阶乘（n-1）;
+      ? 1
+      ：n *阶乘（n-1）;
 ```
 
 <details>
@@ -5001,7 +5001,7 @@ const gcd =（... arr）=&gt; {
 
 ```js
 const geometricProgression =（结束，开始= 1，步骤= 2）=&gt;
-  Array.from（{长度：Math.floor（Math.log（结束/开始）/ Math.log（步骤））+1}）
+  Array.from（{长度：Math.floor（Math.log（end / start）/ Math.log（step））+ 1}）.map（
     （v，i）=&gt;开始*步骤** i
   );
 ```
@@ -5322,7 +5322,7 @@ const minBy =（arr，fn）=&gt; Math.min（... arr.map（typeof fn ===&#39;func
 <summary>Examples</summary>
 
 ```js
- minBy（[{{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 2
+ minBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 2
  minBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 2
 ```
 </details>
@@ -5493,7 +5493,7 @@ const round =（n，小数= 0）=&gt; Number（`$ {Math.round（`$ {n} e $ {deci
 
 将输入字符串哈希为整数.
 
-使用String.prototype.split（&#39;&#39;）和Array.prototype.reduce（）通过位移来创建输入字符串的哈希.
+使用String.prototype.split（&#39;&#39;）和Array.prototype.reduce（）使用位移来创建输入字符串的哈希.
 
 ```js
 const sdbm = str =&gt; {
@@ -5811,7 +5811,7 @@ const hashNode = val =&gt;
 <summary>Examples</summary>
 
 ```js
- hashNode（JSON.stringify（{a：&#39;a&#39;，b：[1,2,3,4]，foo：{c：&#39;bar&#39;}}）））.then（console.log）;  //&#39;04aa106279f5977f59f9067fa9712afc4aedc6f5862a8defc34552d8c7206393&#39;
+ hashNode（JSON.stringify（{a：&#39;a&#39;，b：[1,2,3,4]，foo：{c：&#39;bar&#39;}}））.then（console.log）;  //&#39;04aa106279f5977f59f9067fa9712afc4aedc6f5862a8defc34552d8c7206393&#39;
 ```
 </details>
 
@@ -5821,7 +5821,7 @@ const hashNode = val =&gt;
 检查给定的参数是否为双工（可读和可写）流.
 
 检查该值是否与“ null”不同，使用“ typeof”检查一个值是否为“ object”类型，并且“ pipe”属性为“ function”类型.
-另外，还要检查typeof，_read，_write，_readState，_writableState的属性分别是function和object.
+另外检查一下typeof，_read，_write，_readState，_writableState的属性分别是function和object.
 
 ```js
 const isDuplexStream = val =&gt;
@@ -5831,7 +5831,7 @@ const isDuplexStream = val =&gt;
   typeof val._read ===&#39;函数&#39;&amp;&amp;
   typeof val._可读状态===&#39;对象&#39;&amp;&amp;
   typeof val._write ===&#39;函数&#39;&amp;&amp;
-  val._writableState类型===&#39;object&#39;;
+  val._writableState的typeof ===&#39;object&#39;;
 ```
 
 <details>
@@ -5922,7 +5922,7 @@ const isWritableStream = val =&gt;
   typeof val ===&#39;object&#39;&amp;&amp;
   typeof val.pipe ===&#39;function&#39;&amp;&amp;
   typeof val._write ===&#39;函数&#39;&amp;&amp;
-  val._writableState类型===&#39;object&#39;;
+  val._writableState的typeof ===&#39;object&#39;;
 ```
 
 <details>
@@ -5994,7 +5994,7 @@ test.txt的内容：
 
 将波浪号路径转换为绝对路径.
 
-使用带有正则表达式的String.prototype.replace（）和OS.homedir（）将主目录路径的〜替换为〜.
+使用带有正则表达式的String.prototype.replace（）和OS.homedir（）来替换主目录路径中的〜.
 
 ```js
 const untildify = str =&gt; str.replace（/ ^〜（$ | \ / | \\）/，`$ {require（&#39;os&#39;）.homedir（）} $ 1`）;
@@ -6041,7 +6041,7 @@ const UUIDGeneratorNode =（）=&gt;
 
 将对象的方法绑定到对象本身，从而覆盖现有方法.
 
-使用Array.prototype.forEach（）返回一个函数，该函数使用Function.prototype.apply（）将给定的上下文（obj）应用于指定的每个函数.
+使用Array.prototype.forEach（）返回一个函数，该函数使用Function.prototype.apply（）将给定的上下文（obj）应用于每个指定的函数fn.
 
 ```js
 const bindAll =（obj，... fns）=&gt;
@@ -6085,13 +6085,13 @@ const deepClone = obj =&gt; {
   如果（obj === null）返回null;
   让clone = Object.assign（{}，obj）;
   Object.keys（clone）.forEach（
-    键=&gt;（clone [key] = typeof obj [key] ===&#39;object&#39;？deepClone（obj [key]）：obj [key]）
+    键=&gt;（clone [键] =类型obj [键] ===&#39;对象&#39;？deepClone（obj [键]）：obj [键]）
   );
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-     ？  Array.from（obj）
-    ：克隆;
+       ？  Array.from（obj）
+      ：克隆;
 };
 ```
 
@@ -6122,7 +6122,7 @@ const deepFreeze = obj =&gt;
 <summary>Examples</summary>
 
 ```js
-“严格使用”；
+“使用严格”；
 
 const o = deepFreeze（[1，[2，3]]）;
 
@@ -6175,13 +6175,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（obj）
      什么啊  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;对象&#39;
-     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;吗？  deepMapKeys（val，f）：（acc [f（current）] = val）;
         返回acc；
       }, {})
-    ：obj;
+      ：obj;
 ```
 
 <details>
@@ -6250,9 +6250,9 @@ const dig =（obj，target）=&gt;
   obj中的目标
      ？  obj [目标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-        如果（acc！==未定义）返回acc;
-        如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
-      }，未定义）；
+      如果（acc！==未定义）返回acc;
+      如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
+    }，未定义）；
 ```
 
 <details>
@@ -6317,7 +6317,7 @@ const findKey =（obj，fn）=&gt; Object.keys（obj）.find（key =&gt; fn（ob
 findKey(
   {
     巴尼（Barney）：{年龄：36，活跃程度：是}，
-    弗雷德：{年龄：40，活跃：虚假}，
+    弗雷德：{年龄：40，活跃：错误}，
     小卵石：{年龄：1，活跃程度：是}
   },
   o =&gt; o [&#39;active&#39;]
@@ -6348,7 +6348,7 @@ const findLastKey =（obj，fn）=&gt;
 findLastKey(
   {
     巴尼（Barney）：{年龄：36，活跃程度：是}，
-    弗雷德：{年龄：40，活跃：虚假}，
+    弗雷德：{年龄：40，活跃：错误}，
     小卵石：{年龄：1，活跃程度：是}
   },
   o =&gt; o [&#39;active&#39;]
@@ -6480,7 +6480,7 @@ const get =（from，... selectors）=&gt;
 <summary>Examples</summary>
 
 ```js
-const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1、2，{a：&#39;test&#39;}]
+const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1,2，{a：&#39;test&#39;}]};
  get（obj，&#39;selector.to.val&#39;，&#39;target [0]&#39;，&#39;target [2] .a&#39;）;  // [&#39;val to select&#39;，1，&#39;test&#39;]
 ```
 </details>
@@ -7179,7 +7179,7 @@ const CSVToJSON =（数据，分隔符=&#39;，&#39;）=&gt; {
 
 将字符串的首字母大写.
 
-使用数组解构和“ String.toLowerCase（）”将首字母大写，“ ... rest”获取首字母后的字符数组，然后使用“ Array.prototype.join（&#39;&#39;）`再次使其成为字符串.
+使用数组解构和“ String.toLowerCase（）”将首字母大写，“ ... rest”获取首个字母后的字符数组，然后使用“ Array.prototype.join（&#39;&#39;）`再次使其成为字符串.
 省略参数upperRest以保持字符串的其余部分不变，或将其设置为true转换为大写.
 
 ```js
@@ -7318,7 +7318,7 @@ const isAbsoluteURL = str =&gt; /^[az][a-z0-9+.-]*:/.test(str）;
 
 检查一个字符串是否是另一个字符串的字谜（不区分大小写，忽略空格，标点符号和特殊字符）.
 
-使用带有适当正则表达式的String.toLowerCase（），String.prototype.replace（）去除不必要的字符，String.prototype.split（），Array.prototype.sort（）和在两个字符串上使用“ Array.prototype.join（&#39;&#39;）对其进行规范化，然后检查其规范化形式是否相等.
+使用带有适当正则表达式的String.toLowerCase（），String.prototype.replace（）来删除不必要的字符，String.prototype.split（&#39;&#39;），Array.prototype.sort（）和在两个字符串上使用“ Array.prototype.join（&#39;&#39;）对其进行规范化，然后检查其规范化形式是否相等.
 
 ```js
 const isAnagram =（str1，str2）=&gt; {
@@ -7480,7 +7480,7 @@ const palindrome = str =&gt; {
 
 ### pluralize
 
- 根据输入数字返回单词的单数或复数形式.  如果第一个参数是“对象”，它将通过返回一个函数来使用闭包，该函数可以自动复数单词，如果提供的字典包含单词，这些单词不会简单地以“ s”结尾.
+ 根据输入数字返回单词的单数或复数形式.  如果第一个参数是`object`，它将通过返回一个函数来使用闭包，该函数可以自动复数单词，如果提供的字典包含单词，这些单词不能简单地以`s`结尾.
 
  如果num是-1或1，则返回单词的单数形式.  如果num是其他任何数字，则返回复数形式.  忽略第三个参数以使用单数词+`s`的默认值，或在必要时提供自定义的复数词.  如果第一个参数是“对象”，则通过返回一个函数来利用闭包，该函数可以使用提供的字典来解析单词的正确复数形式.
 
@@ -7806,7 +7806,7 @@ unescapeHTML('&lt;a href=&quot;#&quot;&gt;Me &amp; you&lt;/a&gt;'); // '<a href=
 
 将所有给定的URL段连接在一起，然后标准化结果URL.
 
-使用String.prototype.join（&#39;/&#39;）`组合URL段，然后使用各种正则表达式对一系列的String.prototype.replace（）进行调用，以标准化结果URL（删除双斜杠，为协议添加适当的斜杠） ，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并规范化第一个参数定界符）.
+使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后用各种正则表达式调用一系列`String.prototype.replace（）`以标准化结果URL（删除双斜杠，为协议添加适当的斜杠，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并规范化第一个参数定界符）.
 
 ```js
 const URLJoin =（... args）=&gt;
@@ -7931,7 +7931,7 @@ const isArrayLike = obj =&gt; obj！= null &amp;&amp; typeof obj [Symbol.iterato
 
 检查给定参数是否为本地布尔元素.
 
-使用`typeof`来检查一个值是否被归类为布尔基元.
+使用`typeof`来检查一个值是否被归类为布尔型原语.
 
 ```js
 const isBoolean = val =&gt; typeof val ===&#39;boolean&#39;;
@@ -8036,7 +8036,7 @@ const isNull = val =&gt; val === null;
 
 检查给定的参数是否为数字.
 
-使用`typeof`来检查一个值是否被归类为数字原语. 
+使用`typeof`检查一个值是否被归类为数字原语. 
 为了防范“ NaN”，请检查“ val === val”（因为“ NaN”的“ typeof”等于“ number”，并且是唯一不等于其自身的值）.
 
 ```js
@@ -8105,7 +8105,7 @@ const isObjectLike = val =&gt; val！== null &amp;&amp; typeof val ===&#39;objec
 
 检查提供的值是否是由Object构造函数创建的对象.
 
-检查提供的值是否真实，使用`typeof`检查它是否是一个对象，并使用&#39;Object.constructor`确保构造函数等于`Object`.
+检查提供的值是否正确，使用`typeof`检查它是否是一个对象，并使用&#39;Object.constructor&#39;确保构造函数等于`Object`.
 
 ```js
 const isPlainObject = val =&gt; !! val &amp;&amp; typeof val ===&#39;object&#39;&amp;&amp; val.constructor === Object;
@@ -8290,7 +8290,7 @@ const castArray = val =&gt;（Array.isArray（val）？val：[val]）;
 使用`new RegExp（）`，`RegExp.source`和`RegExp.flags`克隆给定的正则表达式.
 
 ```js
-const cloneRegExp = regExp =&gt;新的RegExp（regExp.source，regExp.flags）;
+const cloneRegReg = regExp =&gt;新的RegExp（regExp.source，regExp.flags）;
 ```
 
 <details>
@@ -8545,7 +8545,7 @@ const isBrowser =（）=&gt;！[typeof window，typeof document] .includes（&#3
 
 ```js
  isBrowser（）;  // true（浏览器）
- isBrowser（）;  // false（节点）
+ isBrowser（）;  //假（节点）
 ```
 </details>
 

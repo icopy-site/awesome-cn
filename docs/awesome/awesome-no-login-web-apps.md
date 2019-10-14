@@ -47,7 +47,7 @@
 
 * [Tlk.io](https://tlk.io/) -使用您想要的任何URL（例如，“ tlk.io/some-room”）创建一个会议室，并分组聊天.
 * [Discord](https://discordapp.com/)  -在线语音和文本会议.  在开始时要求用户名创建一个临时头像.
-* [Gruveo](https://www.gruveo.com/) - Video conference online. Just like Tlk.io, easy to remember custom URLs.
+* [Gruveo](https://www.gruveo.com/)  -在线视频会议.  就像Tlk.io一样，易于记住的自定义URL.
 * [Appear.in](https://appear.in/)  -在线视频会议.  创建任何房间，例如“ appear.in/some-room”，然后开始聊天.
 * [Videolink2](https://videolink2.me/start)  -在线视频会议.  链接已生成，共享链接以邀请其他参与者.
 * [GetARoom.io](https://getaroom.io/)  -在线视频会议.  具有移动浏览器支持，只需单击“开始新呼叫”并共享链接.
@@ -75,7 +75,7 @@
 
 * [EtherCalc](https://ethercalc.net/) -在线电子表格编辑器，导出到Excel.
 * [PdfEscape](https://www.pdfescape.com/) -在浏览器本身中编辑或创建PDF.
-* [Browserpad](http://browserpad.org/)  -浏览器中的无服务器纯文本编辑器.  允许您打开和保存纯文本文件.
+* [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 * [WriteURL](http://www.writeurl.com/) -协作式实时在线文本编辑器.
 
 
@@ -126,6 +126,9 @@
 * [Spark Chess](https://www.sparkchess.com/) -根据您的技能水平，学习下棋，与全球用户一起玩或与AI一起玩.
 * [Miniclip](https://www.miniclip.com)  -收集各种免费游戏，无需提供电子邮件即可玩.  需要闪光灯.
 * [CrossCode](http://www.cross-code.com/en/start)  -在遥远的未来中推出具有复古风格的2D游戏.  带有出色的游戏机制，例如连击，拼图，技能树，任务，物品等.
+* [agar.io](https://agar.io/) -目标是通过食用琼脂和小于玩家细胞的细胞来获得尽可能多的质量，同时避免较大的细胞吞食玩家的细胞.
+* [paper-io](http://paper-io.com)  -游戏的目的是控制竞技场的100％.  您扮演的是一个很小的，不断移动的正方形，其起始区域很小，与正方形的颜色相对应.
+* [diep.io](https://diep.io/)  -Diepio是一款您可以玩坦克射击游戏的游戏.  射击形状以升级您的坦克，然后射击玩家很多点.
 
 
 ### Graphics, Image and Design
@@ -203,7 +206,7 @@
 * [Cloud9](https://c9.io/) `[Account]`-非常强大的在线开发环境，就像您的本地PC一样.
 * [Codepen.io](https://codepen.io/) -前端Web开发的游乐场.
 * [JS Bin](https://jsbin.com) -协作式Web开发和调试工具.
-* [Codenvy](https://codenvy.com) `[Account]`-开发人员的云工作区，支持大多数流行的堆栈，包括Android，Hadoop，Selenium，NodeJS等.
+* [Codenvy](https://codenvy.com) `[Account]` - Cloud workspace for developers, supports most popular stacks including Android, Hadoop, Selenium, NodeJS and lots more.
 * [SQLFiddle](http://sqlfiddle.com/) -用于轻松在线测试和共享数据库问题及其解决方案的工具.
 * [Brainfuck Visualizer](http://fatiherikli.github.io/brainfuck-visualizer/)  -Javascript Brainfuck解释器+可视化器.  帮助您了解代码的工作方式.
 * [PythonTutor](http://pythontutor.com/visualize.html#mode=edit) -在Web浏览器中可视化Python，Java，JavaScript，TypeScript，Ruby，C和C ++代码执行.
@@ -227,7 +230,7 @@
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  -用于处理CSS中的供应商前缀的后处理器.  只需粘贴常规CSS并立即获得供应商前缀处理的CSS.
 * [CSS Matic](https://www.cssmatic.com/) -CSS工具，可快速生成渐变，边界半径，噪声纹理和框阴影并获取相应的CSS或SASS.
 * [Carbon](https://carbon.now.sh) -创建并共享源代码的精美图片.
-* [jsonstore.io](https://www.jsonstore.io/)  -jsonstore.io为小型项目提供免费，安全的，基于JSON的API端点.  它支持常见的HTTP操作类型，例如POST，GET，PUT，DELETE等.
+* [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
 * [ObjGen](http://www.objgen.com/) -当您使用基于文本的语法仅键入关键字，类型和属性时，此应用程序可帮助您实时生成代码（JSON，HTML等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) -以易于阅读的形式查看json.
 
@@ -278,7 +281,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [QR Code Generator](http://zxing.appspot.com/generator/) -支持不同类型的QR码，例如联系信息，WiFi，日历等.
 * [RANDOM.ORG](https://www.random.org/) -基于随机性的概念，随机数生成器，掷骰子，密码生成器，随机位图以及更多内容.
 * [Web-Capture](https://web-capture.net/) -Webapp，只需提交链接即可将网页转换为流行格式（PDF，JPEG，ZIP）.
-* [PrintWhatYouLike](http://www.printwhatyoulike.com/) - Print any webpage or save it as HTML or PDF.
+* [PrintWhatYouLike](http://www.printwhatyoulike.com/) -打印任何网页或将其另存为HTML或PDF.
 * [WhatTheFont](http://www.myfonts.com/WhatTheFont/) -根据图片确定字体名称.
 * [Image Metadata Viewer](http://exif.regex.info/exif.cgi) -查看任何图像的隐藏数据（元数据）.
 * [WhoIsHostingThis](http://www.whoishostingthis.com/) -查找任何网站的虚拟主机.

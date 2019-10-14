@@ -134,7 +134,7 @@
     * [Zok Zok Heroes](https://shonumi.github.io/articles/art8.html)  -Zok Zok Heroes的Full Changer，一种动作激活的配件.
     * [Infrared Madness](https://shonumi.github.io/articles/art11.html) -关于Game Boy Color的红外通讯.
     * [Game Boy 4-Player Adapter](https://shonumi.github.io/articles/art9.html) -DMG-07.
-    * [Barcode Boy](https://shonumi.github.io/articles/art7.html) -第一个Game Boy卡扫描器.
+    * [Barcode Boy](https://shonumi.github.io/articles/art7.html) - The first Game Boy card-scanner.
     * [Barcode Taisen Bardigun](https://shonumi.github.io/articles/art6.html) -90年代后期DMG-GBC条形码阅读器.
 - [DMG-07 Technical Documentation](https://raw.githubusercontent.com/shonumi/gbe-plus/master/src/docs/technical/DMG_07.txt)
 - [Game Boy Camera RE](https://github.com/AntonioND/gbcam-rev-engineer) -有关GB相机的文档以及用于通过Arduino进行反向工程的工具.
@@ -157,7 +157,7 @@
 - [Cartridges PCB photos](https://imgur.com/a/D5bpC)
 - [MBC1+RAM+Battery cartridge Schematic](http://www.devrs.com/gb/files/mbc1.gif) -Jeff Frohwein的第一幅原理图.
 - [MBC1 and MBC2 cartridges circuits](http://fms.komkon.org/GameBoy/Tech/Carts.html) 以及这些MBC bank如何切换和控制RAM的说明.
-- [GB Rom List](CartridgeList.csv) - Navigable table of every game released with details on their cartridges.
+- [GB Rom List](CartridgeList.csv) -发行的每个游戏的导航表，其中包含其墨盒的详细信息.
 - [Game Boy cartridge PCB photos](http://gekkio.fi/blog/2016-03-19-game-boy-cartridge-pcb-photos.html)
 
 
@@ -178,6 +178,7 @@
 - [DMG-01](http://blog.ryanlevick.com/DMG-01/public/book/)  -Rust中的教育性Gameboy模拟器和一本解释其发展的随书.  *[Oh Boy! Creating a Game Boy Emulator in Rust](https://media.ccc.de/v/rustfest-rome-3-gameboy-emulator)*是Rust Fest 18对此的演讲.
 - [Building a Game Boy emulator in JavaScript](http://imrannazar.com/gameboy-Emulation-in-JavaScript) -分步教程.
 - [Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
+- [0dmg](https://jeremybanks.github.io/0dmg/2018/05/23/getting-started.html) -通过构建部分Game Boy模拟器学习Rust.
 - [RealBoy Emulator](https://realboyemulator.wordpress.com/posts/) -有关RealBoy Emulator设计和实现的一系列文章.
 - [Codeslinger](http://www.codeslinger.co.uk/pages/projects/gameboy.html) -另一系列的文章记录了模拟器的构建.
 - [Why did I spend 1.5 months creating a Gameboy emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/) -博客文章.
@@ -239,7 +240,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 
 - [ZGB](https://github.com/Zal0/ZGB) -一个为原始Game Boy创建游戏的小引擎（扩展了gbdk，更多信息 [here](http://zalods.blogspot.com/2017/01/zgb-little-engine-for-game-boy.html)).
 - [DevSound](https://github.com/DevEd2/DevSound) -声音驱动程序可嵌入到自制软件中，支持脉冲宽度控制，琶音和多种波形.
-- [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) - Music Engine.
+- [Carillon Player](http://gbdev.gg8.se/files/musictools/Aleksi%20Eeben/Carillon%20Editor.zip) -音乐引擎.
 - [Game Boy Tile Data Generator](https://github.com/chrisantonellis/gbtdg) -HTML5 / JS Web应用程序，它将位图图像转换为适合在基于图块的图形应用程序（特别是GB）中使用的十六进制数据.
 - [Harry Mulder's GB Development](http://www.devrs.com/gb/hmgd/intro.html) -Game Boy Tile Designer和Game Boy Map Builder工具的一些来源和主页.
 - [GBTiles](https://github.com/bashaus/gbtiles) -将由Harry Mulder的Tile Designer（GBTD）创建的.GBR文件和由Harry Mulder的Map Builder（GBMB）创建的.GBM文件转换为与Game Boy和GBDK一起使用的不同格式.
@@ -249,7 +250,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [GBExtended](http://www.tensi.eu/thomas/programming/gameboy/gbextended.html) -扩展gbdk的C库.
 - [bmp2cgb](https://github.com/gitendo/bmp2cgb) -用于Game Boy Color开发的图形转换器，提供实时调色板调整.
 - [png2gb](https://github.com/LuckyLights/png2gb) -CLI工具可将图像文件转换为游戏男孩.c数组.
-- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy开发套件的一小部分资源和工具.
+- [gbdk-lib-extension](https://github.com/ProGM/gbdk-lib-extension) -迈克尔·霍普（Michael Hope）提供的有关Game Boy Development Kit的一小部分资源和工具.
 - [GB-convert](https://github.com/exezin/gb-convert) -Game Boy磁贴转换和地图编辑器工具（转换为装配体）.
 - [cart-dumper](https://github.com/Palmr/cart-dumper) -游戏男孩墨盒翻斗ROM.
 - [Game Boy LCD sniffing](https://github.com/svendahlstrand/game-boy-lcd-sniffing) -使用逻辑分析仪嗅探游戏男孩的LCD.
@@ -294,7 +295,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 代码片段，效果，概念证明以及通常不完整的游戏.
 
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) -许多可用的演示和资源.
-- [EmmaEwert's experiments](https://github.com/EmmaEwert/gameboy) - A collection of prototype programs, mostly just toying around. Among others, a daylight effect, transparency and a weather effect.
+- [EmmaEwert's experiments](https://github.com/EmmaEwert/gameboy)  -原型程序的集合，大部分只是在玩玩.  其中包括日光效果，透明度和天气效果.
 
 #### Timings
 
@@ -331,7 +332,7 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 - [GBDK Tutorial](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/) -入门GBDK的游戏演示相当少.
 - [GBDK Sprite](http://gbdev.gg8.se/wiki/articles/GBDK_Sprite_Tutorial) -提出了用于显示和设置多个精灵的工作流.
-- [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) -通过向精灵，背景和窗口图层添加颜色，扩展了您对Game Boy基本拼写的知识.
+- [GBDK Color](http://gbdev.gg8.se/wiki/articles/GBDK_Color_Tutorial) - Extends your knowledge of basic spriting on the Game Boy by adding colors to sprites, backgrounds and the window layer.
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) -详细介绍了将手柄与GBDK配合使用的方法.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) -一些完整的游戏和资源.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) -配置GBDK，使用图块，碰撞精灵，GBTD，GBMB，内存管理和ROM Banking.
@@ -465,9 +466,11 @@ The [To C Or Not To C](https://gist.github.com/ISSOtm/4f4d335c3fd258ad0dfc7d4d61
 - [lsdpatch](https://github.com/jkotlinski/lsdpatch) -用于修改LSDj ROM映像上的样本，字体和调色板的工具.
 - [Game Boy video effects](https://github.com/ChaosCabbage/crazy-gameboy-video-experiments) -使用STAT中断进行有趣的视频操作的一些小实验.
 - [gbos](https://github.com/ekimekim/gbos) -Game Boy的基本操作系统.
+- [Work Master OS](https://translate.google.com/translate?hl=&sl=ru&tl=en&u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20081226145726%2Fhttp%3A%2F%2Fworkmaster.ru%2Findex.php%3Fp%3D8&sandbox=1) -俄罗斯多任务操作系统.
 - [Game Boy Link Cable Breakout Board](https://github.com/Palmr/gb-link-cable)
 - [GBCartFlasher firmware](https://github.com/Tauwasser/GBCartFlasher)
 - [VerilogBoy](https://github.com/zephray/VerilogBoy/) -Game Boy兼容控制台Verilog RTL实现.
+- [GBCamcorder](https://github.com/furrtek/GBCamcorder) -使用GameBoy相机卡盒的Lo-Fi便携式录像机.
 
 ### Directories
 

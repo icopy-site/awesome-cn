@@ -11,11 +11,11 @@
 
 **References**  
 
- Han，J.，Pei，J.，Kamber，M.（2011年）.  _数据挖掘：概念和技术_.  爱思唯尔.  
+ Han，J.，Pei，J.，Kamber，M.（2011年）.  _数据挖掘：概念和技术_.  爱思唯尔  
 
  Russell，SJ，Norvig，P.（2016年）.  _人工智能：一种现代方法.  马来西亚;  培生教育有限公司.  
 
- Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  斯普林格.  
+ Yannakakis，GN，Togelius，J.（2018年）.  _人工智能和游戏_.  施普林格.  
 
 
 **Contributing**  
@@ -162,6 +162,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) -这场比赛的纸牌.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) -游戏日志和统计信息.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) -来自各代的口袋妖怪数据.
+- [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) -收集345个类别的5000万张图纸.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) -时间，成本和建筑物的奖金.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) -收集记录. [Website](http://mmnet.iis.sinica.edu.tw/dl/wowah/).
 - [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) -战场细节.
@@ -175,7 +176,7 @@ API是_“一组允许创建访问操作系统，应用程序或其他服务的�
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) -Steam提供的电子游戏价格.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) -有关视频游戏的问题.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) -Steam API和Steam Spy的组合.
-- [Steam Review Datasets](https://github.com/mulhod/steam_reviews) -Steam用户评论.
+- [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) -Steam用户互动.
 - [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) -来自的游戏数据 [Vandal.com](https://vandal.elespanol.com/).
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) -发布了视频游戏.

@@ -187,7 +187,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成各种状态下的现有应用程序大小一致的图标，摇动（摇动）等.[objective_c_icon] 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -252,7 +252,7 @@
 ### Finder
 - [Clipy](https://github.com/Clipy/Clipy)  -Clipy是适用于macOS的剪贴板扩展应用程序.  ！[swift_icon] 
 - [FiScript](https://github.com/Mortennn/FiScript)  -从Finder的MacOS上下文菜单中执行自定义脚本（按CTRL键并单击）.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
 - [OpenInCode](https://github.com/sozercan/OpenInCode)  -Finder工具栏应用程序可在Visual Studio Code中打开当前文件夹.  ！[objective_c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
 - [Quick Look plugins](https://github.com/sindresorhus/quick-look-plugins)  -对开发人员有用的Quick Look插件列表.  ！[objective_c_icon]！[c_icon] 
@@ -301,7 +301,7 @@
 
 ### Keyboard
 - [AnnePro-mac](https://github.com/msvisser/AnnePro-mac)  -用于通过蓝牙控制AnnePro键盘的macOS应用程序.  ！[swift_icon] 
-- [Fluor](https://github.com/Pyroh/Fluor)  -适用于macOS的便捷工具，可让您基于活动的应用程序切换Fn键的模式.  ！[swift_icon] 
+- [Fluor](https://github.com/Pyroh/Fluor)  -用于macOS的便捷工具，可让您基于活动的应用程序切换Fn键的模式.  ！[swift_icon] 
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) -Karabiner-Elements配置管理器，营救到肿的karabiner.json！[clojure_icon] 
 - [Karabiner](https://github.com/tekezo/Karabiner)  -Karabiner（KeyRemap4MacBook）是强大的键盘自定义实用程序.  ！[cpp_icon]！[objective_c_icon] 
 - [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)  -Karabiner-Elements是功能强大的实用程序，可在macOS Sierra（10.12）或更高版本上自定义键盘.  ！[cpp_icon]！[objective_c_icon] 
@@ -446,6 +446,7 @@
 - [The GitHub Matrix Screensaver](https://github.com/winterbe/github-matrix-screensaver)  -适用于macOS的GitHub Matrix屏幕保护程序.  ！[javascript_icon] 
 
 ### Security
+- [Cryptomator](https://github.com/cryptomator/cryptomator)  -云中文件的多平台透明客户端加密.  ！[java_icon] 
 - [LuLu](https://github.com/objective-see/LuLu)  -LuLu是macOS防火墙应用程序，旨在阻止未经授权的（传出）网络流量.  ！[objective_c_icon] 
 - [stronghold](https://github.com/alichtman/stronghold)  -从终端轻松配置macOS安全设置.  ！[python_icon] 
 
@@ -461,7 +462,7 @@
 - [Caprine](https://github.com/sindresorhus/caprine#features)  -优雅的Facebook Messenger桌面应用程序.  ！[javascript_icon]！[css_icon] 
 - [Goofy](https://github.com/danielbuechele/goofy)  -非官方的Facebook Messenger客户端.  ！[javascript_icon] 
 - [Leviathan](https://github.com/Swiftodon/Leviathan)  -Leviathan是Mastodon社交网络的iOS和macOS客户端应用程序.  ！[swift_icon] 
-- [Messenger](https://github.com/rsms/fb-mac-messenger)  -MacOS应用程序将Facebook的Messenger封装在桌面上.  ！[objective_c_icon] 
+- [Messenger](https://github.com/rsms/fb-mac-messenger)  -MacOS应用程序将Facebook的Messenger打包为桌面.  ！[objective_c_icon] 
 - [Product Hunt](https://github.com/producthunt/producthunt-osx)  -分享并发现您喜欢的新产品和应用.  ！[swift_icon] 
 - [Quail](https://github.com/1000ch/quail) -非官方 [esa](https://esa.io)  应用程式.  ！[javascript_icon] 
 - [Ramme](https://github.com/terkelg/ramme)  -非官方的Instagram桌面应用程序.  ！[javascript_icon]！[css_icon] 
@@ -496,7 +497,7 @@
 - [Alacritty](https://github.com/jwilm/alacritty)  -跨平台，GPU加速的终端仿真器.  ！[rust_icon] 
 - [Bifrost](https://github.com/ishuah/bifrost)  -用于串行端口通信（macOS / Linux）的微型终端仿真器.  ！[go_icon] 
 - [Console](https://github.com/macmade/Console)  -macOS控制台应用程序.  ！[swift_icon] 
-- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder中打开Terminal，iTerm，Hyper.  ！[swift_icon] 
+- [Finder Go](https://github.com/onmyway133/FinderGo)  -macOS应用程序和Finder Sync Extension，可从Finder打开终端，iTerm，Hyper.  ！[swift_icon] 
 - [Hyper](https://github.com/zeit/hyper)  -基于网络技术的终端.  ！[javascript_icon]！[css_icon] 
 - [Kitty](https://github.com/kovidgoyal/kitty)  -跨平台，快速，功能齐全的基于GPU的终端仿真器.  ！[python_icon]！[c_icon] 
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)  -mac适用于macOS的Finder工具栏应用程序可在Terminal，iTerm或Hyper中打开当前目录.  ！[swift_icon] 
@@ -522,7 +523,7 @@
 - [Catch](https://github.com/mipstian/catch/)  -赶上：轻松捉迷藏.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)  -使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
-- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
+- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需您记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck)  -验证macOS的epub文件的小工具.  ！[swift_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)  -在Mac上轻松按每个应用切换功能键.  ！[objective_c_icon] 
 - [Gray](https://github.com/zenangst/Gray) -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择！[swift_icon] 
@@ -570,6 +571,7 @@
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)  -在Mac上免费观看喜爱的开发者会议上最新，最精彩的视频的最佳方法.  ！[swift_icon] 
 - [Datamosh](https://github.com/maelswarm/Datamosh)  -在macOS上对视频进行数据删除.  ！[swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)  -用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
+- [GNU Gatekeeper](https://github.com/willamowius/gnugk)  -用于H.323终端的视频会议服务器.  ！[cpp_icon] 
 - [Gifted](https://github.com/vdel26/gifted)  -快速轻松地将任何短视频转换为GIF动画.  ！[objective_c_icon] 
 - [HandBrake](https://github.com/HandBrake/HandBrake)  -HandBrake是可用于Linux，Mac和Windows的视频转码器.  ！[c_icon] 
 - [MenuTube](https://github.com/edanchenkov/MenuTube)  -将YouTube赶到您的macOS菜单栏中！  ！[javascript_icon] 
@@ -589,7 +591,7 @@
 - [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktop-wallpaper-switcher)  -Win / Linux / macOS工具，用于管理和循环桌面墙纸.  ！[cpp_icon] 
 - [Muzei](https://github.com/naman14/Muzei-macOS)  -适用于macOS的Muzei壁纸应用程序.  ！[swift_icon] 
 - [Satellite Eyes](https://github.com/tomtaylor/satellite-eyes)  -macOS应用程序可将您的桌面墙纸自动设置为卫星视图的开销.  ！[objective_c_icon] 
-- [Sunscreen](https://github.com/davidcelis/Sunscreen)  -防晒霜是一款有趣，轻巧的应用程序，可根据日出和日落改变您的桌面墙纸.  ！[swift_icon] 
+- [Sunscreen](https://github.com/davidcelis/Sunscreen)  -防晒霜是一个有趣，轻巧的应用程序，可根据日出和日落改变桌面墙纸.  ！[swift_icon] 
 - [WallpaperMenu](https://github.com/diogosantos/WallpaperMenu)  -macOS菜单栏应用程序，用于浏览网络上的精美图片并将其设置为桌面图像.  ！[ruby_icon] 
 - [earth-wallpapers](https://github.com/viatsko/earth-wallpapers)  -简单的macOS菜单栏应用程序，可从subreddit获取最新照片.  ！[javascript_icon] 
 - [pyDailyChanger](https://github.com/IngoHeimbach/pyDailyChanger)  -pyDailyChanger是一个每天更改墙纸的程序.  ！[python_icon] 

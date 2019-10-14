@@ -68,7 +68,7 @@
 - [Keyboard PCB Guide](https://github.com/ruiqimao/keyboard-pcb-guide) -全面的书面教程，可带您创建键盘PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) （也 [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)）-简短的PDF，可用于大多数常用操作的菜单和键盘快捷键.
 - [Footprint Collection](https://github.com/monostable/kicad_footprints) -可在线收集所有KiCAD脚印以及一些脚本来管理它们.
-- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) -用于手动拾取和放置的html BOM生成工具.
+- [InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - A html BOM generation tool for manual pick and place.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
@@ -136,7 +136,7 @@
 
 ## Videos
 - [EEVblog](https://www.youtube.com/user/EEVblog) -戴夫·琼斯（Dave Jones）进行拆解，教程等工作的最早，最成功的YouTube频道之一.
-- [ElectroBOOM](https://www.youtube.com/user/msadaghd) - YouTube channel that debunks and explains EE topics with a lot of comedy thrown in.
+- [ElectroBOOM](https://www.youtube.com/user/msadaghd) -YouTube频道，对EE主题进行揭穿并解释了很多喜剧内容.
 - [Micah Scott](https://www.youtube.com/user/micahjd) -逆向工程的视频日志，并以创新的方式重新利用消费电子硬件.
 - [Afrotechmods](https://www.youtube.com/user/afrotechmods) -有关电子项目的教程，通常也适合初学者.
 - [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog) -非常深入地拆卸，维修和审查实验室设备和原型产品.
@@ -152,11 +152,14 @@
 - [Boldport Club](https://www.boldport.club)  -对电子项目感到好奇.  作为Boldport俱乐部的成员，您每月将收到一个电子项目.
 - [AdaBox](https://www.adafruit.com/adabox/)  -精选的Adafruit产品，独特的收藏品和独家折扣.  全部按季度交付.
 
+## 3D Part Models
+- [GrabCad](https://grabcad.com/library/electronic-components-1) -社区支持的带有大量电子组件模型的3D模型数据库
+- [3D ContentCentral](https://www.3dcontentcentral.com) -专门用于零件3D模型的网站（需要登录）
 
 ## Other Lists
 - [PwnKitteh/InsanelyCheapElectronics](https://github.com/PwnKitteh/InsanelyCheapElectronics) -您可以在项目中使用的来自中国的廉价电子产品清单
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) -所有可用软件工具的更全面的列表.
 - [intajay/open-electronics](https://github.com/intajay/open-electronics) -另一个GitHub列表：电子爱好者和硬件黑客的资源
 - [Vitorian/awesome-fpga](https://github.com/Vitorian/awesome-fpga) -很棒的FPGA资源列表
-- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) -GitHub的机器人电子资源，项目和产品清单
+- [cajt/list_of_robot_electronics](https://github.com/cajt/list_of_robot_electronics) -GitHub的机器人电子资源，项目和产品列表
 - [embedded-boston/awesome-embedded-systems](https://github.com/embedded-boston/awesome-embedded-systems) -很棒的嵌入式编程资源列表

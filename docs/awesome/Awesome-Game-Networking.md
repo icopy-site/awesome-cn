@@ -69,6 +69,7 @@
   - [EU 2016 / Building a PvP focused MMO](https://www.youtube.com/watch?v=x_4Y2-B-THo) -Sandbox Interactive的David Salz提供的Albion MMO架构.
   - [EU 2017 / Photon vs UNet](https://www.youtube.com/watch?v=Y1my5bKhKJY) -Exit Games的Christof Wegmann对多人游戏架构的比较.
   - [LA 2018 / Deep-Dive Into Networking for Unity's FPS Sample](https://www.youtube.com/watch?v=k6JTaFE7SYI) -Unity的Peter Andreasen的Netcode演讲.
+  - [EU 2019 / Intro to DOTS and Netcode](https://www.youtube.com/watch?v=P_-FoJuaYOI) -使用蒂姆·约翰森（Tim Johansson）的DOTS深入研究Unity的网络化未来.
 -其他
   - [HandmadeCon 2015 / Pat Wyatt](https://www.youtube.com/watch?v=1faaOrtHJ-A) -由Pat Wyatt谈起激战，暗黑破坏神，星际争霸的网络.
   - [Overwatch / Let's Talk Netcode](https://www.youtube.com/watch?v=vTH2ZPgYujQ) -暴雪的Tim Ford和Philip Orwig在《守望先锋》的网络代码上.
@@ -106,13 +107,13 @@
   - [SmartFoxServer](http://smartfoxserver.com/) -具有高级内置功能的大型多人游戏服务器.
 -JavaScript
   - [Colyseus](https://github.com/colyseus/colyseus) -权威的多人游戏服务器后端框架.
-  - [SocketCluster](https://github.com/SocketCluster/socketcluster) - Scalable multi-process HTTP & real-time server framework.
+  - [SocketCluster](https://github.com/SocketCluster/socketcluster) -可扩展的多进程HTTP和实时服务器框架.
 
 ## Projects
 
 -虚幻引擎
   - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) -为CharacterMovementComponent添加冲刺功能的项目.
-  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) -第三人称合作多人部落射击游戏教程项目.
+  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project.
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) -第三人称多人僵尸生存游戏教程项目.
 -团结
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) -使用Forge Networking for Unity的服务器权威性移动项目.
