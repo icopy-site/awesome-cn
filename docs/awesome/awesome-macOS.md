@@ -4,7 +4,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome applications, softwares, tools and shiny things for macOS.
+&gt;精选的macOS应用程序，软件，工具和出色产品清单.
 
  &gt; *标有！[开源软件] [OSS图标]的项目是开源软件，并链接到源代码.  标有！[免费软件] [免费软件图标]的项目是免费的（与免费啤酒一样）.*
 
@@ -22,7 +22,7 @@
 
 ### Backup
 - [Arq](https://www.arqbackup.com/) -加密备份到Amazon，Dropbox，Google，OneDrive等
-- [Carbon Copy Cloner](http://bombich.com) - Create incremental and fully bootable backups of your Mac to external storage.
+- [Carbon Copy Cloner](http://bombich.com) -创建Mac的增量备份和完全可引导的备份到外部存储.
 
 ### Chat Clients
 
@@ -49,19 +49,21 @@
 - [GitHub Desktop](https://desktop.github.com/)  -使用GitHub的GUI.  ！[免费软件] [免费软件图标]
 - [GitUp](http://gitup.co/)  -一个简单但功能强大的Git macOS应用程序.  [！[开源软件] [OSS图标]]（https://github.com/git-up/GitUp）！[免费软件] [免费软件图标]
 - [GitX-dev](https://rowanj.github.io/gitx/)  -GitX的前叉（变体），通过针对生产力的更改进行维护和增强.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
+- [Hopper Dissassembler](https://www.hopperapp.com)  -适用于MacOS和Linux的反汇编程序.  具有演示选项，可提高30分钟的工作效率.
 - [Hosts](https://github.com/specialunderwear/Hosts.prefpane)  -编辑主机文件.  [！[开源软件] [OSS图标]]（https://github.com/specialunderwear/Hosts.prefpane）！[免费软件] [免费软件图标]
 - [Iconology](https://github.com/liamrosenfeld/Iconology)  -编辑图标，然后导出到Xcode，ICn，Ico，Favicon，Mac Iconset或自定义尺寸列表.  [！[开源软件] [OSS图标]]（https://github.com/liamrosenfeld/Iconology）！[免费软件] [免费软件图标]
 - [ImageAlpha](https://pngmini.com/)  -对有或没有透明度的PNG文件应用有损压缩，以获得更有效的文件.  [！[开源软件] [OSS图标]]（https://github.com/pornel/ImageAlpha）！[免费软件] [免费软件图标]
-- [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon]](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
+- [ImageOptim](https://imageoptim.com/mac)  -使图像占用更少的磁盘空间并更快地加载.  [！[开源软件] [OSS图标]]（https://github.com/ImageOptim/ImageOptim）！[免费软件] [免费软件图标]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html)  -轻松找到您网站的损坏链接.  ！[免费软件] [免费软件图标]
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) -强大的差异和合并应用程序，支持文本，图像和文件夹.
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
 - [Paw](https://luckymarmot.com/paw) -最终的REST客户端.
-- [Pods Updater](https://github.com/kizitonwose/PodsUpdater)  -一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
+- [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
 - [Postico](https://eggerapps.at/postico/) -现代PostgreSQL客户端.
 - [Postgres.app](http://postgresapp.com/)  -PostgreSQL入门的最简单方法.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
+- [Pusher](https://github.com/noodlewerk/NWPusher)  -做沙盒推送通知的免费工具.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
 - [PSequel](http://www.psequel.com/)  -PostgreSQL GUI工具.  ！[免费软件] [免费软件图标]
-- [QorumLogs](https://github.com/goktugyil/QorumLogs)  -用于Xcode和Google文档的Swift日志记录实用程序.  [！[开源软件] [OSS图标]]（https://github.com/goktugyil/QorumLogs）！[免费软件] [免费软件图标]
+- [QorumLogs](https://github.com/goktugyil/QorumLogs) - Swift Logging Utility for Xcode & Google Docs. [![Open-Source Software][OSS Icon]](https://github.com/goktugyil/QorumLogs) ![Freeware][Freeware Icon]
 - [Quiver](http://happenapps.com/#quiver) -给程序员的一个令人愉悦的笔记本，它允许混合使用富文本，代码，降价，LaTeX和图形.
 - [Sequel Pro](http://www.sequelpro.com/)  -MySQL数据库管理器.  [！[开源软件] [OSS图标]]（https://github.com/sequelpro/sequelpro）！[免费软件] [免费软件图标]
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) -管理和组织代码段.
@@ -204,7 +206,7 @@
 - [BetterZip](https://macitbetter.com/) -一个功能强大且功能齐全的存档管理器.
 - [BitBar](https://github.com/matryer/bitbar)  -将任何脚本的输出显示到菜单栏.  [！[开源软件] [OSS图标]]（https://github.com/matryer/bitbar）！[免费软件] [免费软件图标]
 - [Burn](http://burn-osx.sourceforge.net/Pages/English/home.html)  -轻松刻录数据/音频/视频CD和DVD，包括复制.  [！[开源软件] [OSS图标]]（https://sourceforge.net/p/burn-osx/code-git/ci/master/tree/）！[免费软件] [免费软件图标]
-- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/)  -了解您的捷径.  ！[免费软件] [免费软件图标]
+- [CheatSheet](https://www.cheatsheetapp.com/CheatSheet/) - Know your short cuts. ![Freeware][Freeware Icon]
 - [ClipboardCleaner](https://github.com/Zuehlke/Clipboard_Cleaner)  -自动从剪贴板中删除文本格式.  [！[开源软件] [OSS图标]]（https://github.com/Zuehlke/Clipboard_Cleaner）！[免费软件] [免费软件图标]
 - [CommandQ](https://clickontyler.com/commandq/) -切勿再次意外退出应用程序.
 - [ControlPlane](http://www.controlplaneapp.com/)  -根据您所在的位置或所做的工作来自动运行任务.  [！[开源软件] [OSS图标]]（https://github.com/dustinrue/ControlPlane）！[免费软件] [免费软件图标]
@@ -236,7 +238,7 @@
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)  -方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)  -用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
 - [Monodraw](http://monodraw.helftone.com/) -强大的ASCII艺术编辑器.
-- [Mounty](http://enjoygineering.com/mounty/) -一个微型工具，可在读写模式下在macOS 10.9+下重新装载受写保护的NTFS卷.
+- [Mounty](http://enjoygineering.com/mounty/) -一个微型工具，可在读写模式下在macOS 10.9+下重新装入受写保护的NTFS卷.
 - [Noizio](http://noiz.io/) -环境声音均衡器，可放松或提高生产率.
 - [Notational Velocity](http://notational.net/)  -在最小的GUI中存储，检索和同步笔记.  [！[开源软件] [OSS图标]]（https://github.com/scrod/nv/）！[免费软件] [免费软件图标]
 - [Noti](https://noti.center/)  -在Mac上（通过PushBullet）接收Android通知.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti/）！[免费软件] [免费软件图标]
@@ -344,6 +346,17 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 
 * https://gist.github.com/saetia/1623487
 
+### macOS 10.12 Sierra Setup
+
+* https://gist.github.com/kevinelliott/7a152c556a83b322e0a8cd2df128235c/
+
+### macOS 10.13 High Sierra Setup
+
+* https://gist.github.com/jimmynotjim/7617722
+
+### macOS 10.14 Mojave Setup
+
+* https://gist.github.com/kevinelliott/ab14cfb080cc85e0f8a415b147a0d895
 
 ## Security
 
@@ -354,7 +367,7 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 * [MIDAS](https://github.com/etsy/MIDAS)  -入侵检测分析系统.  [！[开源软件] [OSS图标]]（https://github.com/etsy/MIDAS）
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [！[开源软件] [OSS图标]]（https://github.com/drduh/OS-X-Security-and-Privacy-Guide）
 * [OSXCollector](https://github.com/Yelp/osxcollector)  -法医证据收集和分析工具包.  [！[开源软件] [OSS图标]]（https://github.com/Yelp/osxcollector）！[免费软件] [免费软件图标]
-* [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon]](https://github.com/google/santa) ![Freeware][Freeware Icon]
+* [santa](https://github.com/google/santa)  -二进制白名单/黑名单系统.  [！[开源软件] [OSS图标]]（https://github.com/google/santa）！[免费软件] [免费软件图标]
 * [Shimo](https://www.shimovpn.com) -Mac专用的功能齐全的VPN客户端.
 * [SimpleumSafe](https://simpleum.com/) -使用macOS或iOS加密，整理和同步文件.
 * [tinc](https://www.tinc-vpn.org)  -安全的网状VPN软件.  [！[开源软件] [OSS图标]]（https://www.tinc-vpn.org/git/browse?p=tinc）！[免费软件] [免费软件图标]
@@ -387,6 +400,7 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 * [macOS Yosemite](http://forums.macrumors.com/forums/os-x-yosemite-10-10.171/)
 * [macOS El Capitan](http://forums.macrumors.com/forums/os-x-el-capitan-10-11.184/)
 * [macOS Mojave](https://forums.macrumors.com/forums/macos-mojave-10-14.205/)
+* [macOS Catalina](https://forums.macrumors.com/forums/macos-catalina-10-15.208/)
 
 
 ### Reddit
@@ -412,6 +426,6 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 
 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[chitchat]：https：//github.com/stonesam92/ChitChat
+[chitchat]: https://github.com/stonesam92/ChitChat
 [OSS图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [免费软件图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

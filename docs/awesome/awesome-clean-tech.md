@@ -15,7 +15,7 @@
 公司的格式如下：
 
 ```
-- [Company Name](https://github.com/nglgzz/awesome-clean-tech/blob/master/URL)  |  设在|  成立年份
+- [Company Name](https://github.com/nglgzz/awesome-clean-tech/blob/master/URL)  |  立足于  成立年份
 
 简短的介绍.
 ```
@@ -46,7 +46,7 @@
 
    生产商业规模的水培种植系统，该系统比传统的水培系统便宜，易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
 
-- [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
+- [Solar Foods](https://solarfoods.fi/) | Finland | 2017
 
    从水，二氧化碳和电力中生产单细胞蛋白质Solein.  它不需要耕地或灌溉，也不受气候条件的限制.  Solein的原始概念源于NASA太空计划，并在芬兰技术研究中心和拉彭兰塔理工大学（LUT）的研究项目中得到进一步发展.
 
@@ -74,19 +74,26 @@
 
 ### Water
 
+- [The great bubble barrier](https://thegreatbubblebarrier.com)  |  荷兰|  2016年
+   开发了一种系统，该系统可以在河底放置带孔的管子.  通过管道泵送空气会产生气泡屏障或气幕.  气泡将水中的塑料推向表面，使其易于去除.
+
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
 
-  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废物.2018年，他们将解决方案部署到了Great Pacific Garbage Patch.
+  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署在了大太平洋垃圾场中.
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
-   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
+   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
 
-- [Refill App](https://refill.org.uk/)  |  英国|  --
+- [Refill App](https://refill.org.uk/)  |  英国|  2015年
 
-   这是一个应用程序，可让您在英国各地找到免费的注水站.  目前，全国有超过20,000个免费电台.  该应用程序还跟踪保存的瓶子，节省的碳并在您每次向保护地球的露营地重新填充瓶子时捐款13p.
+   这是一个应用程序，可让您在英国各地找到免费的注水站.  目前，全国有超过20,000个免费电台.  该应用程序还跟踪保存的瓶子，节省的碳并在您每次向保护地球的露营地重新填充瓶子时捐赠13便士.
 
-- [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|  --
+- [Seabin Project](https://seabinproject.com/)  |  澳大利亚|  2016年
+
+   他们的任务是通过一个漂浮的垃圾桶减少海洋中的塑料，该垃圾桶将污染物收集在水面.  截至2019年10月，他们已经部署了719个海上垃圾桶，每天捕获近3吨垃圾.
+
+- [Solar Water Solutions](https://solarwatersolutions.fi/en/)  |  芬兰|  2015年
 
    开发用于生产饮用水的反渗透技术，且运营成本低，并且不会产生CO2排放.  海水淡化系统完全是太阳能，独立于外部能源，易于使用和维护.
 
@@ -94,15 +101,19 @@
 
 - [Bulb](https://bulb.co.uk/)  |  英国|  2013年
 
-   英国最大的绿色供应商.  他们为会员提供来自太阳能，风能和水力发电的100％可再生电力.  另外，该气体是100％碳中性的.  10％是从可再生资源（如食物或农场废物）中产生的绿色气体.
+   英国最大的绿色供应商.  他们为会员提供来自太阳能，风能和水力发电的100％可再生电力.  另外，该气体是100％碳中性的.  10％是从可再生资源（如食品或农业废料）中产生的绿色气体.
 
 - [ElectricityMap.org](https://www.electricitymap.org/)  |  丹麦/法国|  2017年
 
   一家软件公司，可根据开源贡献访问90多个国家/地区的电力来源及其相关碳排放的实时和历史数据.
 
+- [Gogoro](https://www.gogoro.com/) | Taiwan | 2011
+
+  开发和销售电动踏板车和电池交换基础设施.
+
 - [Hydrostor](https://www.hydrostor.ca/)  |  加拿大|  2010年
 
-   将电能转换为在水下存储在蓄能器中的压缩空气.  一旦进入蓄电池，就可以存储能量，直到电网需要为止.  当需要能量时，水的重量将空气推回地面，并在其中使用发电机将其转换为电能.
+  Converts electrical energy to compressed air stored in accumulators under water. Once in the accumulators, the energy can be stored until required by the grid. When the energy is required, the weight of the water pushes the air back to the surface, where it is converted to electricity using a generator.
 
 - [Inspire](https://www.helloinspire.com/)  |  美国费城|  2014年
 
@@ -112,7 +123,7 @@
 
    像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
 
-- [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州
+- [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州|  2009年
 
    为汽车和运输业开发无线充电.  允许将任何类型的车辆或设备连接到电网，而无需使用电缆或电线.
 
@@ -136,7 +147,7 @@
 
    跨国制造公司.  在他们的许多项目中，他们生产风力涡轮机并提供陆上和海上风力服务.  截至2018年，它是全球第三大风力涡轮机制造商.
 
-- [Solar City](https://www.tesla.com/solarpanels) | California, USA | 2006
+- [Solar City](https://www.tesla.com/solarpanels)  |  美国加利福尼亚|  2006年
 
   当前的产品包括一个太阳能电池板屋顶，它可以收集尽可能多的电能而不会看起来像太阳能电池板；以及Powerwall，一种家用能源存储解决方案.
 
@@ -144,7 +155,7 @@
 
    为家庭生产储能解决方案.  此外，它们目前提供了在德国运营的最大网络，可共享可再生能源的电力.
 
-- [Suzlon Energy Ltd.](https://www.suzlon.com/) | India | 1995
+- [Suzlon Energy Ltd.](https://www.suzlon.com/)  |  印度|  1995年
 
   风力涡轮机制造商遍布全球18个国家/地区.
 
@@ -152,10 +163,13 @@
 
   专门从事电动汽车制造及其子公司SolarCity的太阳能电池板制造.
 
+- [Ushva Clean Technology](http://www.ushva.com/)  |  印度孟买|  2015年
+
+   他们相信在不降低便利性的前提下优化能耗，然后抵消剩余的能源需求.  他们的愿景是提供不受地域和输电限制的可再生能源来源的负担得起的电力.
+
 - [Vestas](https://www.vestas.com/)  |  丹麦|  1945年
 
    风力涡轮机的制造商，销售商，安装商和服务商.  截至2019年，维斯塔斯已在五大洲的80多个国家安装了超过66,000台风力涡轮机，容量达到100 GW.
-
 
 ### Social Impact
 
@@ -165,7 +179,7 @@
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放。
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
@@ -179,7 +193,6 @@
 
    通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
 
-
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) -芬兰清洁技术公司的枢纽.
@@ -187,7 +200,6 @@
 - [Climate Choice](https://climatechoice.co/) -一个非营利性项目，其中包含有关减少气候变化的可行指南以及有关气候变化的教育信息.
 - [Mattermore.io](https://www.mattermore.io/)  -简讯重点介绍使用AI和数据科学来扭转气候变化的公司；  有助于发现每周提供的新计划/工作机会.
 - [Norrsken Foundation](https://www.norrskenfoundation.org/) -瑞典基金会，该基金会支持并投资对社会产生积极影响的组织.
-
 
 ## Research
 

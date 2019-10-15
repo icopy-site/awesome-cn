@@ -117,9 +117,13 @@
 * [Toposes, Triples and Theories](http://www.tac.mta.ca/tac/reprints/articles/12/tr12.pdf) -迈克尔·巴尔，查尔斯·威尔斯
 * [Abelian Categories](http://www.tac.mta.ca/tac/reprints/articles/3/tr3abs.html) -彼得·弗雷德（Peter Freyd）
 * [Categories and Groupoids](http://www.tac.mta.ca/tac/reprints/articles/7/tr7abs.html) -PJ希金斯
-* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) - G. M. Kelley
+* [Basic Concepts of Enriched Category Theory](http://www.tac.mta.ca/tac/reprints/articles/10/tr10abs.html) -通用凯利
 * [Abstract and Concrete Categories: The Joy of Cats](http://www.tac.mta.ca/tac/reprints/articles/17/tr17abs.html) -Jiri Adamek，Horst Herrlich，George Strecker
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) -Brendan Fong和David I.Spivak（麻省理工学院）
+
+### Type Theory
+* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+* [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) -马丁·洛夫（Martin-Lof）
 
 ### Homotopy Type Theory
 
@@ -420,7 +424,7 @@
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) -道格拉斯·阿诺德（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) -L.Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) -JM McDonough（肯塔基大学）
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿森·纳里曼扬（Alsen Narimanyan），阿尔弗雷德·施密特（Alfred Schmidt）
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -Alfred Schmidt，Arsen Narimanyan
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -道格拉斯·威廉·哈德
 
 

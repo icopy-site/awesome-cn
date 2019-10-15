@@ -56,9 +56,9 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### IDE
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/ideicon.png" align="right" width="120">
 
-以前流行的Mavansmate编辑器（http://mavensmate.com/）现在已停止开发.
+以前流行的Mavensmate编辑器（http://mavensmate.com/）现在已停止开发.
 
-* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) -基于Eclipse平台，由Salesforce.com支持和打包
+* [Force.com IDE](https://developer.salesforce.com/page/Force.com_IDE) -基于Eclipse平台，由Salesforce.com支持和打包（现已淘汰）
 * [ASIDE.IO](https://www.aside.io) -在线编辑器，快速，可快速连接到任何Salesforce组织.
 * [WelkinSuite for Windows](https://welkinsuite.com/) -用于force.com应用程序的桌面编辑器，免费使用，需付费以获得支持.
 * [C9.IO](https://get.c9.io/salesforce/) -在线编辑器，可快速连接到任何Salesforce组织.
@@ -70,14 +70,15 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Eclipse Plugin](http://media.developerforce.com/force-ide/eclipse42) -基于Eclipse平台，由Salesforce.com支持和打包
 * [Atom Plugin](https://github.com/joeferraro/MavensMate-Atom)-MavensMate插件，用于在GitHub的Atom文本编辑器中构建Salesforce.com/Force.com/Salesforce1应用程序
 * Visual Studio代码
+  * [Salesforce Extensions for VS Code](https://github.com/forcedotcom/salesforcedx-vscode) 是正式的Salesforce VS Code扩展.
   * [ForceCode](https://github.com/celador/ForceCode) 是用于Salesforce开发的Visual Studio Code扩展
-  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
+  * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) 提供自动完成的Apex和Visualforce，Go-To和Peek定义以及实时语法检查
 * [ApexMate](https://github.com/superfell/ApexMate)-用于TextMate的Apex插件.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)-Force.com的VIM插件.
 * [Force.com CLI](https://force-cli.heroku.com/)-Force.com的命令行界面.
 * [HaoIDE](https://github.com/xjsender/haoide) -Force.com的Sublime插件
 * [JedIDE](https://plugins.jetbrains.com/plugin/9238) -IntelliJ IDEA的Force.com集成
-* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate)  VS代码的Mavensmate扩展.  现在，主要的Mavansmate项目不再处于活动状态，因此该插件的使用可能受到限制.
+* [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate)  VS代码的Mavensmate扩展.  现在，主Mavensmate项目不再处于活动状态，因此该插件的使用可能受到限制.
 
 ### Salesforce Custom Search Engines
 
@@ -123,11 +124,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 
   <b>该库的主要功能</b>
-    + Framework for HTTP callouts.
+    + HTTP标注框架.
     + JSON序列化和反序列化基类.
     + OAuth客户端-扩展了基本AbstractClient以提供OAuth身份验证所需的标注.
 
-* [Polyforce](https://github.com/mailtoharshit/polyforce) -PolyForce是一个最初的项目，其动机是创建可从Salesforce导出数据的聚合物应用程序/组件，该想法可创建一组可相互共享的强大的聚合物组件，另一方面可为开发人员学习并获得灵感以构建更多组件<br/>
+* [Polyforce](https://github.com/mailtoharshit/polyforce) -PolyForce是一个最初的项目，其目的是创建可从Salesforce导出数据的聚合物应用程序/组件，该想法可创建一组可相互共享的强大聚合物组件，另一方面，可为开发人员学习并获得灵感以构建更多组件<br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
 * [Salesforce to Github ](https://github.com/SalesforceFoundation/sfdo-github) -Apex for Force.com中的Github API客户端<br/>
@@ -154,7 +155,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 * [Weave](http://mailtoharshit.github.io/Weave/) -Sublime Text插件生成样板Salesforce代码模板
 
-* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) -自动将GitHub存储库部署到Salesforce ORG
+* [GitHub Salesforce Deploy Tool](https://githubsfdeploy.herokuapp.com/) - Automagically deploy a GitHub repository to a Salesforce ORG
   和“部署到Salesforce按钮”到您的README.md文件
 
 * [Cinnamon](https://github.com/forcedotcom/cinnamon)-Cinnamon是Force.com应用程序，可让您构建和运行Selenium测试，以在Salesforce组织中使用Visualforce / Javascript验证自定义UI页面.
@@ -198,12 +199,12 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
-* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements)  -Mobile UI Elements是一个免费的开放源代码Force.com（不受支持）库，用于简化移动应用程序的开发.  该库基于Google的Polymer框架，为创建可在智能手机和平板电脑上良好运行的HTML5应用提供了基本的构建基块
-* [ForceServer](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
+* [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements)  -Mobile UI Elements是一个免费的开源Force.com库（不受支持），可简化移动应用程序的开发.  该库基于Google的Polymer框架，为创建可在智能手机和平板电脑上良好运行的HTML5应用提供了基本的构建基块
+* [ForceServer](https://github.com/ccoenraets/force-server) -它支持代理和Web服务器，ForceServer是一种简单的开发服务器，旨在在构建使用Salesforce OAuth和REST服务的应用程序时提供简单且集成的开发人员体验.
 
 ## Javascript Libraries for Salesforce
 
-* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) -它通过异步JavaScript函数调用封装了对Salesforce提供的各种API的访问.与其他Salesforce API库不同，它旨在为服务器端和客户端应用程序提供集成接口，因此您不必重写类似的逻辑它具有有用的命令行界面（CLI），该界面提供了交互式控制台（REPL），因此您可以轻松学习使用方法.
+* [JSForce - JSforce (f.k.a. Node-Salesforce)](https://jsforce.github.io/) -它以异步JavaScript函数调用的形式封装了对Salesforce提供的各种API的访问.与其他Salesforce API库不同，它旨在为服务器端和客户端应用程序提供集成接口，因此您不必重写类似的逻辑它具有有用的命令行界面（CLI），它提供了交互式控制台（REPL），因此您可以轻松学习使用方法.
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
@@ -252,7 +253,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 ### Mobile SDK
 * [Salesfoce MobileSDK for iOS](https://github.com/forcedotcom/SalesforceMobileSDK-iOS) -如果您想使用SDK本身的源代码，那么您来对地方了！  您可以浏览示例应用程序源代码并调试各层，以了解幕后一切的工作方式.
 
-* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows) -通常在Visual Studio中构建项目；  一切都应该建立良好.  如果您希望创建一个新项目而不使用核心库的NuGet版本，只需使用模板创建一个新项目，删除NuGet引用，然后将引用添加到Salesforce.SDK.Core，Salesforce.SDK.Store（对于Windows）项目）或Salesforce.SDK.Phone用于电话项目.
+* [Salesfoce MobileSDK for Windows](https://github.com/forcedotcom/SalesforceMobileSDK-Windows)-Build the project normally in Visual Studio; everything should build fine. If you wish to create a new project and not use the NuGet versions of the core libraries, simply create a new project with the template, remove the NuGet reference and add references to Salesforce.SDK.Core, Salesforce.SDK.Store (for windows projects) or Salesforce.SDK.Phone for phone projects.
 
 * [Salesfoce MobileSDK for Andriod](https://github.com/forcedotcom/SalesforceMobileSDK-Android)-适用于Android的Salesforce Mobile SDK的源存储库.
 
@@ -321,8 +322,9 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 * [The Wizard News](https://thewizardnews.com/) -向导新闻是Brian Kwong（又名Salesforce向导）创建的博客，视频和播客的集中位置.
 
 ### Podcasts
-* [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) -每周一次的技术和软件开发播客，着重于安全平台.
+* [Good day, Sir! Podcast](https://www.gooddaysirpodcast.com/) -每周一度的技术和软件开发播客，着眼于安全平台.
 * [SalesforceWay Podcast](https://salesforceway.com/podcast) -每周安全开发人员定位的播客.
+* [Salesforce Posse](https://salesforceposse.com) -创建Salesforce Posse播客是为了向全世界介绍Salesforce开发和架构最佳实践以及Salesforce生态系统的新闻.
 
 ## Contribute
 
@@ -330,7 +332,7 @@ AngularJS包： [Get Started](https://developer.salesforce.com/mobile/getting-st
 
 ## BugReport-PullRequest
 1.按照主题类别下的顶层“类别”页面，以_字母顺序_添加链接，并在降价文件中添加注释（如果有）.
- 2.对于断开的链接或过时的信息，请提交错误报告（BR），或进行必要的更改并提交PR.  两者都欢迎.  请为每个链接或添加的更改分别提交PR.
+ 2.对于断开的链接或过时的信息，请提交错误报告（BR），或进行必要的更改并提交PR.  都欢迎.  请为每个链接或添加的更改分别提交PR.
  3.对于那些无法使用git的用户，创建一个github帐户，然后在用户界面上分叉此repo.  然后按以下方式编辑页面 [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository/) ，然后点击保存并提交PR.  Github这样做 [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository/).
 
 

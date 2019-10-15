@@ -19,7 +19,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 ！[Android OS] [android-os]表示**可在_Android _ **上运行. <br />
 ！[iOS徽标] [ios-logo]表示**在_iOS _ **上运行. <br />
 ！[Mac OS X] [macosx]表示**在_macOS _ **上运行. <br />
-！[Linux] [linux]表示**在_Linux _ **上运行. <br />
+![Linux][linux] means that **runs on _Linux_**.<br />
 ！[Windows] [windows]表示**在_Windows _ **上运行. <br />
 
 <!--lint disable no-paragraph-content-indent-->
@@ -103,7 +103,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) -使用PHP将HTML转换为Markdown.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) -Markdown转PDF转换器.
 - [Markdown to PDF](https://www.markdowntopdf.com/)  -简单实用的网站，可将Markdown转换为PDF.  ！[地球] [地球]
-- [Pandoc](http://pandoc.org/)  -通用文档转换器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Pandoc](https://pandoc.org/)  -通用文档转换器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Torsimany](https://github.com/PolBaladas/torsimany)  -将格式无关的JSON转换为时尚的，易于阅读的Markdown.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [turndown](https://github.com/domchristie/turndown) -用JavaScript编写的HTML到Markdown转换器.
 - [yamp](https://github.com/angrykoala/yamp)  -易于使用的cli工具箱，用于与markdown相关的任务.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
@@ -112,7 +112,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 &gt;编辑并保存Markdown文档.
 
-- [Abricotine](http://abricotine.brrd.fr/)  -使用Electron内置的实时预览功能的轻量级Markdown编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Abricotine](https://abricotine.brrd.fr/)  -使用Electron内置的实时预览功能的轻量级Markdown编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Caret](https://caret.io/)  -Mac和PC的Markdown编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [iA Writer](https://ia.net/writer)  -iA Writer旨在在Mac OS，iOS和Android上提供最佳书写体验.  ：gem：_真的很简单的编辑器！_！[Android OS] [android-os]！[iOS徽标] [ios-logo]！[Mac OS X] [macosx]
 - [Markdownify](https://markdownify.js.org)  -最小的Markdown Editor桌面应用程序.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
@@ -122,6 +122,13 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [StackEdit](https://stackedit.io/)  -浏览器内降价编辑器.  ！[地球] [地球]
 - [TOAST UI Editor](https://ui.toast.com/tui-editor/) -可扩展的GFM Markdown所见即所得编辑器！[Globe] [globe]
 - [Typora](https://typora.io/)  -最小的Markdown编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Notable](https://notable.md/)  -基于Markdown的笔记应用程序，不会产生麻烦.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Boostnote](https://boostnote.io/)  -针对开发人员的降价编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Trilium Notes](https://github.com/zadam/trilium)  -分层笔记记录应用程序，专注于建立大型个人知识库.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Joplin](https://joplinapp.org/)  -具有同步功能的开源笔记记录和待办事项应用程序.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]！[iOS徽标] [ios-logo]！[Android OS] [android-os]
+- [Visual Studio Code](https://code.visualstudio.com/)  -具有内置markdown预览和许多markdown扩展的开源代码编辑器.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Quiver](http://happenapps.com/)  -专为程序员设计的笔记本.  ！[Mac OS X] [macosx]！[iOS徽标] [ios-logo]
+- [Bear](https://bear.app/)  -一个美丽，灵活的写作应用程序，用于制作笔记和散文.  ！[Mac OS X] [macosx]！[iOS徽标] [ios-logo]
 
 ### Linters
 
@@ -131,6 +138,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [Markdownlint](https://github.com/igorshubovych/markdownlint-cli) -Markdown / CommonMark文件的Node.js样式检查器和lint工具.
 - [remark-lint](https://github.com/remarkjs/remark-lint) -降价代码样式的linter.
 - [textlint](https://textlint.github.io/) -用于文本和降价的可插入式起绒工具.
+- [markdownlint](https://github.com/DavidAnson/vscode-markdownlint) -Markdown棉绒和Visual Studio Code的样式检查.
 
 ### Miscellaneous
 
@@ -142,10 +150,12 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [HackMD](https://hackmd.io)  -HackMD可让您在所有平台上创建实时协作式Markdown注释.  ！[地球] [地球]
 - [Laverna](https://laverna.cc/)  -Laverna是具有Markdown编辑器和加密支持的JavaScript笔记应用程序.  ：gem：_Markdown加密笔记！_！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markable.in](https://markable.in/)  -卓越的Markdown编辑器.  ！[地球] [地球]
+- [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown高亮显示._！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
+- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
 - [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
-- [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
+- [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
 - [remark](https://remark.js.org/) -由插件支持的Markdown处理器
-- [Socrates](http://socrates.io/)  -无服务的实时Markdown编辑器和查看器，类似于etherpad.  ！[地球] [地球]
+- [Socrates](https://socrates.io/)  -无服务的实时Markdown编辑器和查看器，类似于etherpad.  ！[地球] [地球]
 - [Markdown Magic](https://github.com/DavidWells/markdown-magic) -自动设置降价文件的格式并同步外部docs / src代码
 
 ### Presentations
@@ -161,7 +171,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 &gt;利用Markdown的各种服务.
 
-- [Daux.io](http://daux.io) -Daux.io是一个文档生成器，它使用简单的文件夹结构和Markdown文件来动态创建自定义文档.
+- [Daux.io](https://daux.io) -Daux.io是一个文档生成器，它使用简单的文件夹结构和Markdown文件来动态创建自定义文档.
 - [Dimer](https://dimerapp.com/)  -Dimer从Markdown生成了一个干净漂亮的文档网站.  ！[地球] [地球]
 - [GitBook](https://www.gitbook.com/?t=1)  -GitBook是现代的发布工具链.  使编写和协作变得容易.
 - [GitPrint](https://gitprint.com/)  -轻松打印GitHub Markdown.  ！[地球] [地球]
@@ -175,7 +185,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 - [CommonMark](https://commonmark.org/) -Markdown的定义严格，高度兼容的规范.
 - [GitHub Flavored Markdown Specifications](https://github.github.com/gfm/) -基于CommonMark的GitHub Markdown的正式规范.
 - [Original Specifications](https://daringfireball.net/projects/markdown/) ：gem：_以Markdown开头的地方！_
-- [Pandoc’s Markdown](http://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](http://pandoc.org/)  有自己的强大的降价实现.  它由几个附加扩展组成.
+- [Pandoc’s Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown) - [Pandoc](https://pandoc.org/)  有自己的强大的降价实现.  它由几个附加扩展组成.
 - [ScholarlyMarkdown](http://scholarlymarkdown.com/) -ScholarlyMarkdown是学术和学术交流的语法/标准/最佳实践，其优先级是网络，语义XML其次，LaTeX / Word紧随其后.
 - [Stack Overflow Markdown Documentation (archived)](https://web.archive.org/web/20160724152503/https://stackoverflow.com/documentation/markdown/topics) -井井有条的Markdown文档.
 - [Stack Overflow Markdown Questions](https://stackoverflow.com/questions/tagged/markdown) -关于Stack Overflow的Markdown投票最高的问题.

@@ -105,11 +105,11 @@
 
 *用于解决漏洞挑战的工具*
 
-- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) -在进程中注入dll.
+- [DLLInjector](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes.
 - [libformatstr](https://github.com/hellman/libformatstr) -简化格式字符串的利用.
 - [Metasploit](http://www.metasploit.com/) -渗透测试软件.
   - [Cheatsheet](https://www.comparitech.com/net-admin/metasploit-cheat-sheet/)
-- [one_gadget](https://github.com/david942j/one_gadget) -一种查找小工具execve（&#39;/ bin / sh&#39;，NULL，NULL）`调用的工具.
+- [one_gadget](https://github.com/david942j/one_gadget) -查找一个小工具execve（&#39;/ bin / sh&#39;，NULL，NULL）`调用的工具.
   -`gem install one_gadget`
 - [Pwntools](https://github.com/Gallopsled/pwntools) -用于编写漏洞利用的CTF框架.
 - [Qira](https://github.com/BinaryAnalysisPlatform/qira) -QEMU交互式运行时分析器.
@@ -146,7 +146,7 @@
 - [Volatility](https://github.com/volatilityfoundation/volatility) -调查内存转储.
 
 *注册表查看器*
-- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) -Windows的简单工具，使您可以从外部驱动器读取脱机注册表文件并以.reg文件格式查看所需的注册表项.
+- [OfflineRegistryView](https://www.nirsoft.net/utils/offline_registry_view.html) -Windows的简单工具，使您可以从外部驱动器中读取脱机注册表文件，并以.reg文件格式查看所需的注册表项.
 - [Registry Viewer®](https://accessdata.com/product-download/registry-viewer-2-0-0) -用于查看Windows注册表.
 
 ## Networking
@@ -260,7 +260,7 @@
 
 ## Resources
 
-*在哪里可以找到有关CTF的信息*
+*哪里可以找到有关CTF的信息*
 
 ## Operating Systems
 
@@ -296,7 +296,7 @@
 - [CTF Resources](http://ctfs.github.io/resources/) -由社区维护的入门指南.
 - [Damn Vulnerable Web Application](http://www.dvwa.co.uk/) 该死的脆弱的PHP / MySQL Web应用程序.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) -Endgame为CTF初学者提供的简短指南
-- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) - Video tutorials on Exploitation.
+- [LiveOverFlow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) -有关剥削的视频教程.
 - [MIPT CTF](https://github.com/xairy/mipt-ctf) -面向CTF初学者的小课程（俄语）.
 
 ## Wargames
@@ -315,6 +315,7 @@
 - [IO](http://io.netgarage.org/) -战争游戏二进制挑战.
 - [Microcorruption](https://microcorruption.com) -嵌入式安全CTF.
 - [Over The Wire](http://overthewire.org/wargames/) -由OvertheWire社区维护的Wargame.
+- [PentesterLab](https://pentesterlab.com/) -各种虚拟机和在线挑战（付费）.
 - [PWN Challenge](http://pwn.eonew.cn/) -二进制剥削战争游戏.
 - [Pwnable.kr](http://pwnable.kr/) -Pwn游戏.
 - [Pwnable.tw](https://pwnable.tw/) -二进制战争游戏.
@@ -323,6 +324,8 @@
 - [Ringzer0Team](https://ringzer0team.com/) -Ringzer0 Team Online CTF.
 - [Root-Me](https://www.root-me.org/) -黑客和信息安全学习平台.
 - [ROP Wargames](https://github.com/xelenonz/game) -ROP战争游戏.
+- [SANS HHC](https://holidayhackchallenge.com/past-challenges/) -节日主题的挑战
+  每年发布并由SANS维护.
 - [SmashTheStack](http://smashthestack.org/) -由SmashTheStack社区维护的各种战争游戏.
 - [Viblo CTF](https://ctf.viblo.asia)  -在许多不同类别中的各种惊人的CTF挑战.  同时具有练习模式和竞赛模式.
 - [VulnHub](https://www.vulnhub.com/) -基于VM，适用于数字安全，计算机应用和网络管理.
@@ -357,6 +360,7 @@
 - [Captf](http://captf.com/) -psifertex倾销了CTF挑战和材料.
 - [CTF write-ups (community)](https://github.com/ctfs/) -社区维护的CTF挑战+撰写的存档.
 - [CTFTime Scrapper](https://github.com/abdilahrf/CTFWriteupScrapper) -从CTF时间报废所有文章，并组织首先阅读的文章.
+- [HackThisSite](https://github.com/HackThisSite/CTF-Writeups) -由HackThisSite团队维护的CTF书面材料回购.
 - [Mzfr](https://github.com/mzfr/ctf-writeups/) -mzfr的CTF比赛报道
 - [pwntools writeups](https://github.com/Gallopsled/pwntools-write-ups) -所有使用pwntools的CTF编写的集合.
 - [SababaSec](https://github.com/SababaSec/ctf-writeups) -SababaSec团队收集的CTF文章
