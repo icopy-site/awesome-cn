@@ -90,7 +90,7 @@
 ### Set Theory
 
 * [Sets, Relations, Functions](http://www.cosc.brocku.ca/~duentsch/papers/methprimer1.html) -IvoDüntsch，GüntherGediga
-* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) -威廉·艾·韦斯
+* [An Introduction to Set Theory](http://www.math.toronto.edu/weiss/set_theory.pdf) -威廉·阿·韦斯
 * [Set Theory and Foundations of Mathematics](http://www.settheory.net/) -西尔文·鲍里尔
 * [Set Theory on the Stanford Encyclopedia of Philosophy](http://plato.stanford.edu/entries/set-theory/)
 
@@ -100,7 +100,7 @@
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) -PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) -Stefan Bilaniuk（特伦特大学）
 * [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（Jon Barwise），约翰·埃特肯迪（John Etchemendy）
-* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -Helmut Schwichtenberg
+* [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -赫尔穆特·史威登伯格
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺
 * [Predictive Arithmetic](https://web.math.princeton.edu/~nelson/books/pa.pdf) -爱德华·尼尔森
@@ -122,8 +122,9 @@
 * [Seven Sketches in Compositionality: An Invitation to Applied Category Theory](http://math.mit.edu/~dspivak/teaching/sp18/7Sketches.pdf) -Brendan Fong和David I.Spivak（麻省理工学院）
 
 ### Type Theory
-* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) - Jean-Yves Girard
+* [Proofs and Types](http://www.paultaylor.eu/stable/prot.pdf) -让·伊夫·吉拉德
 * [Intuitionistic Type Theory](https://archive-pml.github.io/martin-lof/pdfs/Bibliopolis-Book-retypeset-1984.pdf) -马丁·洛夫（Martin-Lof）
+* [Type Theory and Functional Programming](https://www.cs.kent.ac.uk/people/staff/sjt/TTFP/) -西蒙·汤普森
 
 ### Homotopy Type Theory
 
@@ -266,7 +267,7 @@
 
 * [Elementary Applied Topology](https://www.math.upenn.edu/~ghrist/notes.html) - 罗伯特Ghriss（宾夕法尼亚大学）
 * [Introduction to Topology](http://www.math.colostate.edu/~renzo/teaching/Topology10/Notes.pdf)
-* [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) -亚历克斯·库隆尼亚
+* [Introduction to Topology](http://www.math.bme.hu/~kalex/Teaching/Spring10/Topology/TopNotes_Spring10.pdf) -亚历克斯·库隆亚
 * [Introductory Topology](http://www.math.clemson.edu/~jimlb/Teaching/2009-10/Math986/Topology.pdf) -吉姆·布朗
 * [General Topology](http://webusers.imj-prg.fr/~pierre.schapira/lectnotes/Topo.pdf) -皮埃尔·沙皮拉（Pierre Schapira）（巴黎第六大学）
 * [Elementary Topology Problem Textbook](http://www.pdmi.ras.ru/~olegviro/topoman/eng-book-nopfs.pdf)
@@ -318,7 +319,7 @@
 
 ### Complex Analysis
 
-* [Introduction to Complex Analysis](http://www.unc.edu/math/Faculty/met/complex.pdf) -泰勒（Michael Taylor）
+* [Introduction to Complex Analysis](http://www.unc.edu/math/Faculty/met/complex.pdf) -迈克尔·泰勒
 * [An Introduction to Complex Analysis and Geometry](http://www.math.uiuc.edu/~jpda/jpd-complex-geometry-book-5-refs-bip.pdf) -John P.D&#39;Angelo（伊利诺伊大学）
 * [A First Course in Complex Analysis](http://math.sfsu.edu/beck/papers/complex.pdf) - 马蒂亚斯·贝克，杰拉尔德·迈凯，丹尼斯版Pixton，卢卡斯Sabalka
 * [A Guide to Complex Variables](http://www.math.wustl.edu/~sk/books/guide.pdf) -史蒂文·克兰兹（Steven G.Krantz）
@@ -337,7 +338,7 @@
 * [Functional Analysis Lecture Notes](http://www.math.hkbu.edu.hk/~zeng/Teaching/math3680/FAnotes.pdf) -结核病病房（东安格利亚大学）
 * [Functional Analysis](http://www.maths.lancs.ac.uk/~belton/www/notes/fa_notes.pdf) -亚历山大·CR·贝尔顿
 * [Topics in Real and Functional Analysis](https://www.mat.univie.ac.at/~gerald/ftp/book-fa/fa.pdf) -杰拉尔德·特施（Gerald Teschl）
-* [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) -克里斯蒂安·雷姆林
+* [Functional Analysis](http://www2.math.ou.edu/~cremling/teaching/lecturenotes/fa-new/LN-I.pdf) -克里斯汀·雷姆林
 * [Theory of Functions of a Real Variable](http://www.math.harvard.edu/~shlomo/docs/Real_Variables.pdf) -Shlomo Sternberg
 * [Functional Analysis](http://spot.colorado.edu/~baggett/functional.html) -劳伦斯·巴格特
 
@@ -381,7 +382,7 @@
 * [Probability: Theory and Examples](https://www.math.duke.edu/~rtd/PTE/PTE4_1.pdf) -瑞克·杜雷特
 * [Probability and Statistics Cookbook](https://github.com/mavam/stat-cookbook/releases/download/0.2.3/stat-cookbook.pdf) -Matthias Vallentin（加州大学伯克利分校）
 * [The Only Probability Cheatsheet You'll Ever Need](http://www.wzchen.com/probability-cheatsheet/) -陈伟霆
-* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) -吉安·卡洛·罗塔（Kianth Baclawski）
+* [An Introduction to Probability and Random Processes](http://www.ellerman.org/Davids-Stuff/Maths/Rota-Baclawski-Prob-Theory-79.pdf) - Gian-Carlo Rota, Kenneth Baclawski
 
 ### Statistics
 
@@ -439,7 +440,7 @@
 ## Mathematics for Computer Science
 
 * [Mathematics for Computer Science](https://people.csail.mit.edu/meyer/mcs.pdf) -埃里克·雷曼（Eric Lehman），汤姆森·莱顿（F.Thomson Leighton），艾伯特·R·迈耶（Albert R.Meyer）
-* [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) -威尔夫
+* [Algorithms and Complexity](http://www.math.upenn.edu/%7Ewilf/AlgComp3.html) -H.威尔夫
 * [Lecture Notes on Optimization](http://people.eecs.berkeley.edu/~varaiya/papers_ps.dir/NOO.pdf) -Pravin Varaiya
 * [Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/mackay/itila/book.html) -戴维·杰西·麦凯
 

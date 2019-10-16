@@ -183,7 +183,7 @@ Installers
 - [Production grade Kubernetes on AWS: 3 lessons learned scaling a cluster (Part 4)](https://medium.com/tailor-tech/production-grade-kubernetes-on-aws-3-lessons-learned-scaling-a-cluster-a421dfe786dd) 通过 [Guy Maliar](https://github.com/gmaliar)
 - [Continuous Deployment with Google Container Engine and Kubernetes](http://semaphoreci.com/community/tutorials/continuous-deployment-with-google-container-engine-and-kubernetes)
 - [Creating a Kubernetes Cluster on DigitalOcean with Python and Fabric](https://testdriven.io/creating-a-kubernetes-cluster-on-digitalocean)
-- [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) 通过 [Matt Bruzek](https://twitter.com/mattatcanonical)
+- [Deploy a Kubernetes development cluster with Juju!](http://insights.ubuntu.com/2015/07/23/deploy-a-kubernetes-development-cluster-with-juju-2/) 通过 [Matt Bruzek](https://github.com/mbruzek)
 - [Containers at Scale with Kubernetes on OpenStack](http://keithtenzer.com/2015/04/15/containers-at-scale-with-kubernetes-on-openstack/) 通过 [Keith Tenzer](https://twitter.com/keithtenzer)
 
 - [Logging in Kubernetes with Fluentd and Elasticsearch](http://www.dasblinkenlichten.com/logging-in-kubernetes-with-fluentd-and-elasticsearch/) 通过 [Jon Langemak](https://twitter.com/blinken_lichten)
@@ -279,7 +279,7 @@ Installers
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
-  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
+  - [Gravity](https://gravitational.com/gravity) -前Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
   - [Kubesphere](https://kubesphere.io/en)
@@ -549,7 +549,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -610,7 +610,7 @@ Projects
 * [PostgreSQL](https://github.com/CrunchyData/postgres-operator)
 * [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) -使用StatefulSets和PostgreSQL管理PostgreSQL集群 [Patroni](https://github.com/zalando/patroni).
 * [Prometheus](https://github.com/coreos/prometheus-operator)
-* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将舵转换为可自我配置并响应集群变化的智能模块.
+* [Addon-operator](https://github.com/flant/addon-operator) -向舵图添加钩子和值，以增强舵的功能，并将图转换为可自我配置并响应集群更改的智能模块.
 * [Shell-operator](https://github.com/flant/shell-operator) -在Kubernetes集群中运行事件驱动脚本的工具.
 
 ## Custom Schedulers
@@ -796,6 +796,7 @@ Projects
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
+* [kubeaudit](https://github.com/Shopify/kubeaudit) -帮助您根据常见的安全控制审核Kubernetes集群
 * [Kubesec.io](http://kubesec.io/)
 * [Pomerium](http://www.pomerium.io/) -受BeyondCorp启发的零信任身份识别访问代理.
 * [Rakkess](https://github.com/corneliusweig/rakkess) -Kubectl插件，显示所有可用资源的访问矩阵.
@@ -914,13 +915,13 @@ Books
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) 乔纳森·拜尔（Jonathan Baier）
 * [Golden Guide to Kubernetes Application Development](https://matthewpalmer.net/kubernetes-app-developer) 马修·帕尔默（Matthew Palmer）
 * [Kubernetes Book](https://github.com/Leverege/kubernetes-book) （开源书籍）由Leverege Developers开发
-* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠传（Choi Lee），许克J（Ke-Jou Carol Hsu）
+* [Kubernetes Cookbook - Second Edition](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook-second-edition) 斋藤秀人（Hideto Saito），许惠全（Choi Lee），许克J（Ke-Jou Carol Hsu）
 * [Kubernetes Design Patterns and Extensions](https://www.amazon.com/dp/B07HSZHRHZ) 通过 [Onur Yilmaz](https://github.com/onuryilmaz)
 * [Kubernetes Handbook](https://github.com/feiskyer/kubernetes-handbook) （中文的开源书籍）作者： [Pengfei Ni](https://github.com/feiskyer)
 * [Kubernetes Handbook](https://github.com/rootsongjc/kubernetes-handbook) （中文的开源书籍）作者： [Jimmy Song](https://github.com/rootsongjc)
 * [Kubernetes in Action](http://www.manning.com/books/kubernetes-in-action) 通过 [Marko Lukša](https://twitter.com/markoluksa)
 * [Kubernetes: Scheduling the Future at Cloud Scale](http://www.oreilly.com/webops-perf/free/kubernetes.csp) 通过 [Dave K. Rensin](http://www.linkedin.com/in/drensin)
-* [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920043874.do) 通过 [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Kubernetes: Up and Running](http://shop.oreilly.com/product/0636920223788.do) 通过 [Kelsey Hightower](https://twitter.com/kelseyhightower)
 * [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) 通过 [Gigi Sayfan](https://github.com/the-gigi)
 * [OpenShift in Action](http://www.manning.com/books/openshift-in-action) 通过 [Jamie Duncan](https://twitter.com/rh_jduncan) & [John Osborne](https://www.linkedin.com/in/johnfosborneiii/)
 * [Playing with Java Microservices on Kubernetes and OpenShift](https://leanpub.com/playing-with-java-microservices-on-k8s-and-ocp) 通过 [Nebrass Lamouchi](https://fr.linkedin.com/in/nebrass)
@@ -987,7 +988,7 @@ Videos
 有趣的Twitter帐户
 =======================================================================
 
-* Twitter速度快，易于沟通，并且是充分利用品牌或企业潜力的非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
+* Twitter速度快，易于沟通，如果您能充分利用其潜力，它对于品牌或企业而言是非常有价值的社交渠道，通过关注这些新闻聚合器，滚动新闻频道和公司，您可以了解内部信息早在主流新闻媒体上抢走一个故事.*
 
 
 * [Apcera](https://twitter.com/Apcera)
@@ -996,19 +997,19 @@ Videos
 * [Engine Yard](https://twitter.com/engineyard)
 * [Google Cloud Platform](https://twitter.com/googlecloud)
 * [Kismatic](https://twitter.com/kismatic)
-* [Kube Con](https://twitter.com/kubeconio)
+* [Kube Con](https://twitter.com/kubecon_)
 * [KubeFacts](https://twitter.com/kubefacts)
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb),  Software Engineer at Google & Google Kubernetes Engine
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，小组产品经理-Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心

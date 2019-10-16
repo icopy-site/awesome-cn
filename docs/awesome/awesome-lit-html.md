@@ -129,7 +129,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs
@@ -144,6 +144,7 @@
 - [A new, lean way of creating web apps](https://medium.com/@kennethrohde/a-new-lean-way-of-creating-web-apps-88a49c5b87ec)
 - [LitElement with Rollup, Babel & Karma](https://43081j.com/2018/09/polymer-lit-with-rollup)
 - [Let's Build Web Components! Part 5: LitElement](https://dev.to/bennypowers/lets-build-web-components-part-5-litelement-906)
+- [Render HTML with Vanilla JavaScript and lit-html](https://dev.to/azure/too-hard-too-soft-just-right-rendering-html-with-lit-html-1km8)
 
 ## Projects
 
@@ -164,7 +165,7 @@
 
 ## Other awesome resources
 
-**如果您需要更多很棒的资源，请检查 [awesome](https://github.com/sindresorhus/awesome) 名单！**
+**如果您需要更多很棒的资源，请检查 [awesome](https://github.com/sindresorhus/awesome) 清单！**
 
 ---
 

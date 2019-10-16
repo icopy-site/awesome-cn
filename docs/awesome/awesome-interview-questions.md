@@ -26,6 +26,7 @@
 * [Collection of Android and Java related questions and topics, including general developer questions, Java core, Data structures, Build Tools, Programming Paradigms, Core Android, Databases and etc](https://github.com/derekargueta/Android-Interview-Questions)
 * [Collection of Android and Java questions divided by experience](https://medium.com/@neteinstein/not-another-android-interviews-article-the-questions-3dedafa30bec)
 * [Android Interview Questions & How to Interview Candidates](https://pangara.com/blog/android-interview-questions)
+* [RocketSkill App Android Interview Questions](https://github.com/mindash/android-structured-interview)
 
 ### AngularJS
 
@@ -181,6 +182,7 @@
 * [IOS Interview Questions and Answers](http://www.thecrazyprogrammer.com/2015/11/ios-interview-questions-and-answers.html)
 * [iOS Interview Questions For Beginners](http://ichuiphonedev.blogspot.com/2014/05/iphone-latest-interview-questions-and.html)
 * [Babylon iOS Interview Questions](https://github.com/Babylonpartners/ios-playbook/blob/master/Interview/questions.md)
+* [RocketSkill App iOS Interview Questions](https://github.com/mindash/iOS-structured-interview)
 
 ### Java
 
@@ -310,6 +312,7 @@
 * [5 Essential React.js Interview Questions](https://www.codementor.io/reactjs/tutorial/5-essential-reactjs-interview-questions)
 * [React Interview Questions](https://tylermcginnis.com/react-interview-questions/)
 * [Toptal's 13 Essential React.js Interview Questions](https://www.toptal.com/react/interview-questions)
+* [19 Essential ReactJs Interview Questions](https://www.educba.com/reactjs-interview-questions/)
 
 ### Ruby
 
@@ -364,6 +367,7 @@
 ### TypeScript
 
 * [Typescript Interview Questions](https://www.onlineinterviewquestions.com/typescript-interview-questions)
+* [Top 10 TypeScript Interview Questions and Answers for Beginner Web Developers 2019](https://www.positronx.io/typescript-interview-questions-answers-2109/)
 
 ## Database technologies
 
@@ -466,6 +470,7 @@
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
 * [Top Algorithms Questions by Topics](https://github.com/yangshun/tech-interview-handbook/blob/master/algorithms/README.md)
+* [Daily Coding Interview Practice](https://www.techseries.dev/daily)
 
 ## Blockchain
 * [Top 55 Blockchain Interview Questions You Must Prepare In 2018](https://www.edureka.co/blog/interview-questions/blockchain-interview-questions/)
@@ -488,7 +493,7 @@
 
 * [A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 * [Front End Developer Interview Questions](http://www.aperfectmix.com/free_web_design/front-end-interview-questions.html)
-* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md)
+* [Answers to Front End Developer Interview Questions](https://github.com/yangshun/front-end-interview-handbook/blob/master/README.md)
 * [Some simple questions to interview potential backend candidates](https://github.com/starandtina/backend-interview-questions)
 * [An Annotated List of Frontend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-frontend-candidates/)
 * [An Annotated List of Backend Developer Technical Interview Questions](https://www.recruityourninja.com/technical-interview-questions-backend-candidates/)

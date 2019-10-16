@@ -142,6 +142,7 @@
   -`apt-get install pngcheck`
 - [ResourcesExtract](http://www.nirsoft.net/utils/resources_extract.html) -从exe提取各种文件类型.
 - [Shellbags](https://github.com/williballenthin/shellbags) -研究NT \ _USER.dat文件.
+- [Snow](https://sbmlabs.com/notes/snow_whitespace_steganography_tool) -空白隐写术工具.
 - [USBRip](https://github.com/snovvcrash/usbrip) -简单的CLI取证工具，用于在GNU / Linux上跟踪USB设备工件（USB事件的历史记录）.
 - [Volatility](https://github.com/volatilityfoundation/volatility) -调查内存转储.
 

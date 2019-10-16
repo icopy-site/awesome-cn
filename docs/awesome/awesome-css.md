@@ -36,7 +36,7 @@
 
 ## CSS Working Group
 
- CSS工作组创建并定义CSS规范.  这些规格已分配 [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels) as they move through the design process. If you would like to learn more, visit [CSS Working Group Page](https://www.w3.org/Style/CSS/).
+ CSS工作组创建并定义CSS规范.  这些规格已分配 [maturity levels](https://www.w3.org/2005/10/Process-20051014/tr#maturity-levels)  随着他们在设计过程中的前进.  如果您想了解更多，请访问 [CSS Working Group Page](https://www.w3.org/Style/CSS/).
 
 ### Editor's Draft :black_nib:
 
@@ -77,6 +77,7 @@
 * [Bootstrap](https://getbootstrap.com/) -最受欢迎的HTML，CSS和JS框架.
 * [Bulma](http://bulma.io/)  -基于Flexbox的现代CSS框架.  还具有Sass导入以进行修改.
 * [Butter Cake](http://getbuttercake.com/) -现代轻量级前端CSS框架，可更快，更轻松地进行Web开发.
+* [Chota](https://jenil.github.io/chota/) -具有有用的实用程序和网格系统的响应式，可自定义的微框架（3kb）.
 * [Cirrus](https://spiderpig86.github.io/Cirrus/) -完全响应的，全面的CSS框架，具有精美的控件和简单的结构.
 * [eFrolic](http://efrolicss.com/) -不使用JavaScript的CSS框架是交互式的且具有动画效果.
 * [Foundation](http://foundation.zurb.com/) -先进的响应式前端框架.
@@ -109,7 +110,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## CSS Structure
 
 - [RSCSS](https://github.com/rstacruz/rscss) -CSS样式表结构的合理标准.
-- [ITCSS](https://twitter.com/itcss_io) -适用于大型UI项目的健全，可扩展的托管CSS体系结构.
+- [ITCSS](https://twitter.com/itcss_io) - A sane, scalable, managed CSS architecture for large UI projects.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -237,7 +238,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [cssfx](https://cssfx.dev/) -精美简单的点击复制CSS效果
 * [Live editor for CSS and LESS](https://github.com/webextensions/live-css-editor) -适用于Chrome，Firefox和Edge的Magic CSS扩展.
 * [You Might Not Need JS](http://youmightnotneedjs.com/) -通用JS UI组件的CSS替代品.
-* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找错误标记的CSS小书签，无论您在何处编写错误的HTML，它都在喜剧无衬线中显示难看的粉红色错误消息 
+* [RevengeCSS](https://github.com/Heydon/REVENGE.CSS) -使用选择器查找不良标记的CSS小书签，无论您在何处编写不良HTML，它都会在喜剧无衬线中显示难看的粉红色错误消息 
 
 
 <sub>[⇧ back to top](#contents)</sub>
@@ -279,7 +280,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Harry Roberts](https://twitter.com/csswizardry)-顾问前端架构师：@ google，@ Etsy，@ kickstarter，@ BBC，@ Deloitte，@ FT等.
 * [Phil Walton](https://twitter.com/philwalton) -Google的工程师•开源倡导者•开发人员•设计人员•作家.
 * [Lea Verou](https://twitter.com/LeaVerou) -研究助理@ MIT_CSAIL，@ CSSWG IE，@ OReillyMedia作者，例如@ W3C员工.
-* [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，人工智能，人机交互，UI设计和天体物理学感兴趣༶数字游牧.
+* [Manoela Ilic](https://twitter.com/crnacura) -... aka Mary Lou @codrops ༶ CSS和HTML是我的蜡笔༶对认知科学，AI，HCI，UI设计和天体物理学感兴趣༶数字游牧.
 * [Una Kravets](https://twitter.com/Una)  -前端@IBMDesign.  鼓吹，社区建设者和手工匠.  STEMinist :)开源所有事物.
 * [Chris Coyier](https://twitter.com/chriscoyier)  -设计器@CodePen.  作家@Real_CSS_Tricks.
 * [Nicole Sullivan](https://twitter.com/stubbornella) - 极客.
@@ -287,7 +288,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 * [Patrick Hamann](https://twitter.com/patrickhamann) -山区，手工啤酒和发现新食物的恋人.
 * [Dave McFarland](https://twitter.com/davemcfarland) -Web开发人员，CSS的作者：The Missing Manual，JavaScript和jQuery.
 * [L. David Baron](https://twitter.com/davidbaron) -Mozilla开发人员，CSS和W3C标准外交官.
-* [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓多国语言的人，爱鸭子的人.  罗.  推文严格是我的.
+* [Daniel Glazman](https://twitter.com/glazou)  -W3C CSS工作组联合主席，企业家，软件工程师，极客，两个孩子的父亲，通晓多国语言的人，爱鸭子的人.  没事  推文严格是我的.
 * [The Chris Eppstein](https://twitter.com/chriseppstein)  -爱.  讨厌恨.  有一个踢屁股的家庭.  编写代码.  领导样式表技术@LinkedIn.
 * [앗킨스 탭](https://twitter.com/tabatkins) -从字面上看，詹恩·希弗（Jenn Schiffer）的妈妈.
 * [Natalie Weizenbaum](https://twitter.com/nex3)  -转码器小姐.  @SassCSS的首席设计师/开发人员，在@dart_lang上为@google工作.
@@ -311,8 +312,8 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 
 ### 2016
 
-1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) ：page_facing_up： [transcript](https://2016.cssconf.com/) ：watch：`37：24`-Pete Hunt @ CSS conf 2016.
-1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) ：page_facing_up： [transcript](https://2016.cssconf.com/) ：watch：`29：27`-Jen Kramer @ CSS conf 2016.
+1. [Component-Based Style Reuse](https://www.youtube.com/watch?v=_70Yp8KPXH8) ：page_face_up： [transcript](https://2016.cssconf.com/) ：watch：`37：24`-Pete Hunt @ CSS conf 2016.
+1. [CSS4 Grid: True Layout Finally Arrives](https://www.youtube.com/watch?v=jl164y-Vb5E) ：page_face_up： [transcript](https://2016.cssconf.com/) ：watch：`29：27`-Jen Kramer @ CSS conf 2016.
 1. [Houdini: Demystifying the Future of CSS](https://www.youtube.com/watch?v=sE3ttkP15f8) ：watch：`36：58` @ Google I / O 2016.
 
 ### 2015

@@ -2,9 +2,11 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Awesome Software Patreons [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=A%20List%20of%20software%20and%20coders%20patreons&url=https://github.com/uraimo/Awesome-Software-Patreons&via=uraimo)
 
-&gt;精选的优秀程序员和与软件相关的Patreon帐户的清单.
+&gt;精选列表，可以为您提供出色的程序员和软件项目！
 
- 帮助个人程序员或开放源代码项目资助开发自己喜欢的软件并订阅其Patreon帐户.  回馈开源社区的切实方法.
+通过Github帮助个人程序员或开放源代码项目资助您喜欢的软件的开发，并通过他们的Patreon帐户或使用其他形式的赞助来赞助他们. 
+
+回馈开源社区的切实方法！
 
 
   - [Libraries](#libraries) 
@@ -38,7 +40,7 @@ _使用开源许可证发布的项目.
 - [Improved Initiative](https://www.patreon.com/improvedinitiative) -D＆D桌面角色扮演游戏战斗追踪器.
 - [Invidious](https://liberapay.com/omarroth/), [#2](https://www.patreon.com/omarroth) -YouTube的替代网络前端.
 - [iTerm2](https://www.patreon.com/gnachman) -macOS终端更换.
-- [Kismet](https://www.patreon.com/kismetwireless) -Kismet无线工具.
+- [Kismet](https://www.patreon.com/kismetwireless), [#2](https://github.com/users/kismetwireless/sponsorship/) -Kismet无线工具.
 - [Laigter](https://www.patreon.com/azagaya) -自动的法线/镜面/遮挡/视差图生成器，用于2D游戏精灵.
 - [Latte Dock](https://liberapay.com/latte-dock) -等离子台式机的替换底座.
 - [LibrePCB](https://www.patreon.com/librepcb) -开发印刷电路板的软件. 
@@ -58,7 +60,8 @@ _使用开源许可证发布的项目.
 - [Oni](https://www.patreon.com/onivim) -模态代码编辑器.
 - [Open Broadcaster Software](https://www.patreon.com/obsproject), [#2](https://opencollective.com/obsproject) -录像和实时流媒体软件
 - [Open Source BIM Collective](https://www.patreon.com/opensourcebim) -用于建立信息模型的工具.
-- [openage](https://liberapay.com/SFTtech/) -实时策略游戏引擎
+- [openage](https://liberapay.com/SFTtech/) -实时策略游戏引擎.
+- [OpenFAAS](https://github.com/users/alexellis/sponsorship) -无服务器平台.
 - [OpenFL](https://www.patreon.com/openfl) -跨平台的应用程序框架. 
 - [OpenShot](https://www.patreon.com/openshot) - 视频编辑.
 - [Paperwork](https://www.patreon.com/openpaper) -个人文件管理员.
@@ -85,6 +88,7 @@ _使用开源许可证发布的项目.
 - [VideoLAN](http://www.videolan.org/contribute.html#paypal) -VLC视频播放器的制造商.
 - [Vim-Go](https://www.patreon.com/fatih) -用于VIM的插件.
 - [Webpack](https://opencollective.com/webpack) -JavaScript模块捆绑器.
+- [Wiki.js](https://github.com/users/NGPixel/sponsorship), [#2](https://opencollective.com/wikijs), [#3](https://patreon.com/requarks) -使用Node.js构建的Wiki平台.
 - [Xfce](https://salt.bountysource.com/teams/xfce) -用于类似UNIX的操作系统的桌面环境.
 - [Zig](https://www.patreon.com/andrewrk) -优先考虑鲁棒性，最优性和清晰度的系统编程语言
 
@@ -99,7 +103,7 @@ _库和框架.
 - [LibGDX](https://www.patreon.com/libgdx) -游戏开发框架.
 - [Moleculer](https://www.patreon.com/moleculer) -用于Node.js的渐进式微服务框架.
 - [Musl libc](https://www.patreon.com/musl) -Musl libc项目.
-- [Phalcon](https://opencollective.com/phalcon) -作为PHP的C扩展提供的Web框架.
+- [Phalcon](https://opencollective.com/phalcon) - Web framework delivered as a C extension for PHP.
 - [Vue.js](https://www.patreon.com/evanyou) -Vue.js. 
 - [Yii framework](https://www.patreon.com/samdark) -PHP框架.
 - [Zappa](https://www.patreon.com/zappa) -无服务器的Python框架. 
@@ -107,7 +111,7 @@ _库和框架.
 ### Operating Systems
 _操作系统和Linux发行版.
 
-- [Elementary OS](https://www.patreon.com/elementary) - Ubuntu variant.
+- [Elementary OS](https://www.patreon.com/elementary) -Ubuntu版本.
 - [FreeDOS](https://www.patreon.com/freedos) -与MS-DOS兼容的操作系统.
 - [GhostBSD](https://www.patreon.com/GhostBSD) -面向桌面的BSD操作系统.
 - [LineageOS](https://www.paypal.me/LineageOS) -CyanogenMod的前叉. 
@@ -116,7 +120,7 @@ _操作系统和Linux发行版.
 - [Redox OS](https://www.patreon.com/redox_os) -用Rust编写的OS.
 - [Serenity OS](https://www.patreon.com/serenityos) -用于x86的图形化类Unix操作系统，具有90年代的美感.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) -Linux发行版.
-- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) - Ubuntu variant. 
+- [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -Ubuntu版本. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) -触摸友好的移动版Ubuntu.
 
 
@@ -144,35 +148,48 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Andrius Štikonas](https://liberapay.com/stikonas) -KDE贡献者，主要是KDE分区管理器
 - [Attogram Project](https://www.patreon.com/attogram) -共享媒体标记器，开放翻译引擎以及更多项目
 - [byuu](https://www.patreon.com/byuu) -模拟器和游戏保存.
+- [Daniel Gultsch](https://github.com/users/iNPUTmice/sponsorship) -会话Jabber客户.
 - [Daniël Klabbers](https://www.patreon.com/luceos) -Flarum和其他PHP项目的贡献者.
 - [Dave Täht](https://www.patreon.com/dtaht) -致力于改善互联网.
-- [Dominik Honnef](https://www.patreon.com/dominikh) -致力于Go编程语言的工具.
+- [David Hewitt](https://github.com/users/davidmhewitt/sponsorship) -ElementaryOS贡献者，Torrential，已剪裁.
+- [Dominik Honnef](https://www.patreon.com/dominikh), [#2](https://github.com/users/dominikh/sponsorship) -致力于Go编程语言的工具.
 - [Dragan Djuric](https://www.patreon.com/draganrocks) -Uncomplicate的创建者，这是一个用于AI，ML和GPU高性能计算的Clojure库系列.
 - [Drew DeVault](https://www.patreon.com/sircmpwn), [#2](https://drewdevault.com/donate/), [#3](https://liberapay.com/SirCmpwn) -sway，wlroots，sr.ht，scdoc，aerc等.
 - [Duduf](https://www.patreon.com/duduf) -动画和电影制作工具. 
 - [Eevee](https://www.patreon.com/eevee) -游戏，应用程序和文章.
 - [Egoist](https://www.patreon.com/egoist/overview) -各种JavaScript库和工具.
 - [Eric S. Raymond](https://www.patreon.com/esr) -Nethack，GPSd，《大教堂和集市》的作者.
+- [Ethan Lee](https://github.com/users/flibitijibibo/sponsorship) - Contributions to FNA, SDL2 C# and other projects.
 - [Fabio Zadrozny](https://www.patreon.com/fabioz) -研究PyDev和相关项目.
 - [Ferros](https://www.patreon.com/feross) -WebTorrent，StandardJS和其他JavaScript项目.
 - [Franck Nijhof](https://www.patreon.com/frenck) -创建Home Assistant附加组件，并为主要项目提供帮助.
+- [Gabriel Gonzalez](https://github.com/users/Gabriel439/sponsorship) -Dhall语言，Nix和Haskell教育项目以及Haskell库和工具. 
+- [Gilbert Pellegrom](https://github.com/users/gilbitron/sponsorship) -Raneto，Vue.js库等.
 - [Jacky Alcine](https://www.patreon.com/jackyalcine) -Koype在IndieWeb领域的项目，以及对其他开源项目的贡献.
+- [James 'Purpleidea'](https://github.com/users/purpleidea/sponsorship) -mgmt配置，文章等.
 - [JeanHeyd Meneide](https://www.patreon.com/thephd) -创建C ++库和标准提案.
 - [Joey Hess](https://www.patreon.com/joeyh) -git-annex，keysafe和其他Linux软件.
 - [Johann-S](https://www.patreon.com/jservoire) -引导JavaScript开发人员以及各种插件和项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) -各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
+- [Khoa Pham](https://github.com/users/onmyway133/sponsorship) -大量有关iOS / Cocoa的库，应用程序和文章，
 - [Kozec](https://www.patreon.com/kozec) -Syncthing-GTK和SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -FreeCAD贡献者和Debian打包者.
 - [Marc Jeanmougin](https://www.patreon.com/marcjeanmougin) -Inkscape贡献者.
+- [Matt Lewis](https://github.com/users/mattlewis92/sponsorship) -角日历和其他角分量.
+- [Matthieu Napoli](https://github.com/users/mnapoli/sponsorship) -Bref，PHP-DI和其他PHP库.
+- [Max Bridgland](https://github.com/users/M4cs/sponsorship) -各种渗透测试框架和工具.
 - [Max Howell](https://www.patreon.com/mxcl) -Homebrew的创建者，PromiseKit的维护者，以及许多其他Apple平台项目.
 - [Michal Čihař](https://liberapay.com/nijel/) -Weblate和phpMyAdmin的贡献者.
 - [Nate Graham](https://liberapay.com/ngraham) -KDE贡献者.
 - [Nefarius Software Solutions](https://www.patreon.com/nefarius) -Sony DualShock控制器和其他驱动程序的Windows驱动程序. 
+- [Nicolas Hafner](https://github.com/users/Shinmera/sponsorship) -各种常见的Lisp库.
 - [Nils Maier](https://www.patreon.com/nmaier)  -全部下载！  Firefox和Chrome扩展程序.
+- [Oleh Krehel](https://github.com/users/abo-abo/sponsorship) -GNU Emacs插件，Ivy / Swiper / Counsel，Hydra，Avy，Lispy等的维护者.
 - [Ondřej Surý](https://www.patreon.com/oerdnj) -Debian打包器.
 - [Pablo Dobarro](https://www.patreon.com/pablodp606) -雕刻机的改进.
 - [Patrick Wardle](https://www.patreon.com/objective_see) -Objective-See的所有者，各种macOS安全工具和文章.
+- [Pedro Piñera](https://github.com/users/pepibumur/sponsorship) -Tuist和XcodeProj库，文章.
 - [Philip Guo](https://www.patreon.com/pgbovine) -Python Tutor和pgbovine.net（文章/播客/ vlogs）.
 - [Pierre Krieger](https://www.patreon.com/tomaka) -各种Rust库.
 - [Raph Levien](https://www.patreon.com/raphlinus) -Xi编辑器和其他Rust项目.
@@ -192,6 +209,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Tavmjong Bah](https://www.patreon.com/tavmjong) -在Inkscape矢量图形编辑器上工作.
 - [Thomas M. Edwards](https://www.patreon.com/thomasmedwards) -游戏相关项目. 
 - [Timothée Giet](https://www.patreon.com/animtim) -GCompris贡献者.
+- [Tobias Koppers](https://github.com/users/sokra/sponsorship) -Webpack的创始人兼维护者.
 - [Toby Zerner](https://www.patreon.com/tobyzerner) -Flarum贡献者.
 - [Yorik van Havre](https://www.patreon.com/yorikvanhavre), [#2](https://liberapay.com/yorik) -FreeCAD贡献者.
 - [Øyvind Kolås](https://www.patreon.com/pippin), [#2](https://liberapay.com/pippin/) -图形编辑器GIMP中使用的babl和GEGL库的首席开发人员.
@@ -238,7 +256,7 @@ _文章，视频，播客等..._
 
 
 ## Open Source Art
-_开发人员创建艺术项目并为与艺术相关的开源工具和库做出贡献.
+_开发人员创建美术项目并为与美术相关的开源工具和库做出贡献.
 
 - [Morevna Project](https://www.patreon.com/morevna) -CC发行的各种开源动画工具和动画短片资源. 
 - [ZeMarmot](https://www.patreon.com/zemarmot), [#2](https://www.tipeee.com/zemarmot), [#3](https://liberapay.com/ZeMarmot/)  -将在CC下发行2D动画电影项目.  GIMP来自JehanPagès的贡献，Aryeom Han的艺术和指导.

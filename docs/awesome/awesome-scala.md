@@ -4,7 +4,7 @@
 很棒的Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 =============
 
- 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  受启发 [awesome-python](https://github.com/vinta/awesome-python) .  其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 名单.
+ 由社区驱动的有用的Scala库，框架和软件列表.  这不是所有库的目录，只是您探索的起点.  受启发 [awesome-python](https://github.com/vinta/awesome-python) .  其他惊人的清单也可以在 [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) 清单.
 
 还很棒 [Scaladex](https://index.scala-lang.org/)，Scala库的可搜索，标记和集中索引.
 
@@ -265,7 +265,7 @@
 * [Schemer](https://github.com/indix/schemer)  -CSV，TSV，JSON，AVRO和Parquet架构的架构注册表.  支持模式推断和GraphQL API.
 * [Scio](https://github.com/spotify/scio) -用于的Scala API [Apache Beam](https://beam.apache.org/) 和 [Google Cloud Dataflow](https://cloud.google.com/dataflow/) - 没有
 * [Scrunch](http://crunch.apache.org/scrunch.html) -用于的Scala包装器 [Apache Crunch](http://crunch.apache.org/index.html) 它提供了用于编写，测试和运行MapReduce管道的框架.
-* [Spark](http://spark.apache.org/)  闪电般的快速集群计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
+* [Spark](http://spark.apache.org/)  -闪电般的快速群集计算-迭代算法（内存缓存）的速度比Hadoop快100倍，单遍MapReduce作业的速度比Hadoop快10倍.  与支持YARN的Hadoop群集兼容，它可以在Mesos上运行，也可以独立运行.
 * [spark-deployer ★ 69 ⧗ 29](https://github.com/KKBOX/spark-deployer) -一个sbt插件，可帮助部署Apache Spark独立集群并在AWS EC2等云系统上提交作业.
 * [Sparkta ★ 320 ⧗ 1](https://github.com/Stratio/sparkta) -基于Spark流的实时聚合.
 * [Sparkplug ★ 4 ⧗ 1](https://github.com/indix/sparkplug) -Spark包使用基于SQL的规则来“塞住”数据中的漏洞
@@ -293,7 +293,7 @@
 * [Iteratee ★ 158](https://github.com/travisbrown/iteratee) -猫的迭代器
 * **[Monix ★ 1432 ⧗ 164](https://github.com/monix/monix) **-对Scala标准库的扩展，用于多线程基元和功能性反应式编程.  与Scala.js兼容.
 * [Reactive Collections ★ 2 ⧗ 165](https://github.com/storm-enroute/reactors) -一个库，它将事件流和信号与专门的集合（称为反应容器）结合在一起，并使用隔离和通道表示并发.
-* **[RxScala ★ 824 ⧗ 0](https:65]529//github.com/ReactiveX/RxScala)**-适用于Scala的Reactive Extensions –使用可观察的序列组成异步和基于事件的程序的库
+* **[RxScala ★ 824 ⧗ 0](https://github.com/ReactiveX/RxScala)**-适用于Scala的Reactive Extensions –使用可观察的序列组成异步和基于事件的程序的库
 * [REScala](http://www.rescala-lang.com/)  -REScala是一个用于在JVM和Web上进行功能性反应式编程的库.  它提供了丰富的API，用于事件流转换和信号合成，并具有可管理的一致最新状态和最小的语法开销.
 * [Reactor-Scala-Extensions](https://github.com/reactor/reactor-scala-extensions) -的Scala扩展 [Project Reactor](http://projectreactor.io)
 * [scala.frp ★ 22 ⧗ 101](https://github.com/dylemma/scala.frp) -Scala的功能性反应式编程（事件流）.
@@ -648,7 +648,7 @@
 
 * DevOps相关工具和库.
 
-* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) -Scala的Kubernetes客户
+* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) -Scala中的Kubernetes客户
 
 ## Resources
 

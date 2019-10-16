@@ -45,7 +45,7 @@
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-&gt; ...玩家扮演勇敢的冒险家，他们必须谨慎对待风，并在炽热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
+&gt; ...玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在狂热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
@@ -177,7 +177,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  10 |  30m |
+ |  2  10  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -187,7 +187,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  13 |  75m |
+ |  2  13  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -213,7 +213,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族，以及《 A Clash》扩展版国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -243,7 +243,7 @@
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt;时代性是一种竞争性的欧式战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏中的时间旅行来实现.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
+ &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏中的时间旅行来实现.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -259,11 +259,11 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
-|   2 - 4 |       13 | 90-120m |
+ |  2-4 |  13 |  90-120m |
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消除方式.
+ &gt;腐败的城市受到邪恶和贪婪的控制，处于邪恶角色的控制之下.  权力的位置空缺，等待您接管-除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是通过让他们沿着游戏中彼此消灭来进行.方式.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -339,7 +339,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2-4 |  10 |  30m |
+ |  2-4 |  10  30m |
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
@@ -466,7 +466,7 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
+ &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看《谁想成为百万富翁》的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
@@ -496,7 +496,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍保留着烈酒的地方宣称拥有主权；而一旦这样做，土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -522,12 +522,12 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  3-6 |  14 |  240m |
+|   3 - 6 |       14 | 240m |
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
-> From the creators of Cyanide & Happiness comes a card game where players compete to finish an awful comic strip.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+&gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -593,7 +593,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
- |  1-4 |  12 |  60-120m |
+|   1 - 4 |       12 | 60-120m |
 
 ### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
@@ -639,6 +639,16 @@
 | ------: | -------: | ---: |
  |  2-8 |  8 |  15m |
 
+### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
+
+ &gt;情书是一种冒险，演绎和运气的游戏.  每个玩家都试图先将自己的情书传递给暴风雨公主安妮特，然后再送给其他人.  在拥有16张卡和8个角色的卡组中，每个玩家都从一张卡开始.  随着游戏的进行，每个玩家都必须在当前角色和待留在甲板上的角色之间进行选择.  你的信会先送给公主吗？
+
+![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  2-4 |  10 |  20m |
+
 ## Contribute
 
  欢迎和鼓励捐款！  请先阅读[贡献准则] [贡献指南].
@@ -648,6 +658,6 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内，任何和/或所有版权以及任何
-相关或邻接权.
+related or neighboring rights to this work.
 
 [contrib-guide]：contribution.md

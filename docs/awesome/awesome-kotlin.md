@@ -73,6 +73,7 @@
 
 ### <a name="links-books-and-courses"></a>Books and Courses <sup>[Back ⇈](#links-books-and-courses-subcategory)</sup>
 * [Kotlin in Action - Dmitry Jemerov, Svetlana Isakova](https://manning.com/books/kotlin-in-action) 
+* [Functional Programming in Kotlin - Marco Vermeulen, Rúnar Bjarnason, and Paul Chiusano](https://www.manning.com/books/functional-programming-in-kotlin)
 * [Kotlin for Android Developers - Antonio Leiva](https://leanpub.com/kotlin-for-android-developers) 
 * [Programming Kotlin - Stephen Samuel, Stefan Bocutiu](https://www.packtpub.com/application-development/programming-kotlin) 
 * [Fundamental Kotlin, First Edition](http://www.fundamental-kotlin.com/) -从一开始就快速了解Kotlin
@@ -111,7 +112,7 @@
 * [vert-x3/vertx-lang-kotlin](https://github.com/vert-x3/vertx-lang-kotlin/) -该模块提供了Kotlin语言绑定，包括DSL和vert.x 3的扩展功能
 * [jooby-project/jooby](https://github.com/jooby-project/jooby/) -Java和Kotlin的模块化微型Web框架
 * [gimlet2/kottpd](https://github.com/gimlet2/kottpd) -受Spark-java启发的纯Kotlin中的REST框架
-* [kwebio/core](https://github.com/kwebio/core) - [kweb.io](http://kweb.io/) 在纯服务器端Kotlin中构建丰富的实时更新Web应用程序.
+* [kwebio/kweb-core](https://github.com/kwebio/kweb-core) -在纯服务器端Kotlin中构建丰富的实时更新Web应用程序.
 * [brianmadden/krawler](https://github.com/brianmadden/krawler) -用Kotlin编写的Web爬网框架
 * [mvysny/vaadin-on-kotlin](https://github.com/mvysny/vaadin-on-kotlin) -编写全栈数据库支持的面向组件的Web应用程序的简单方法
 * [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) -适用于Spark Web框架的惯用Kotlin中的DSL.
@@ -153,6 +154,7 @@
 * [krzema12/PlotAssert](https://github.com/krzema12/PlotAssert) -测试功能的形状！
 * [EranBoudjnah/TestIt](https://github.com/EranBoudjnah/TestIt) -从kotlin文件生成单元测试样板.
 * [EranBoudjnah/RandomGenKt](https://github.com/EranBoudjnah/RandomGenKt) -用生成的数据初始化任何类的实例.
+* [KennethWussmann/mock-fuel](https://github.com/KennethWussmann/mock-fuel) -JUnit 5扩展，可以轻松模拟使用HTTP客户端Fuel发出的外部HTTP请求.
 * [jcornaz/kwik](https://github.com/jcornaz/kwik)  -Kotlin的基于属性的测试库.  使用测试引擎不可知和编译时安全的库，使用随机输入执行测试.
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
@@ -180,7 +182,7 @@
 * [brianegan/bansa](https://github.com/brianegan/bansa) -受Elm和Redux启发的Kotlin和Java状态容器.
 * [pardom/redux-kotlin](https://github.com/pardom/redux-kotlin) -用于Kotlin的Redux直接端口.
 * [beyondeye/Reduks](https://github.com/beyondeye/Reduks) -用于Kotlin + Android的Reduxjs的“包含电池”端口
-* [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) -用于模拟成功或失败操作的Result单子-受Elm，Rust和Haskell的启发.
+* [michaelbull/kotlin-result](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 * [pakoito/Komprehensions](https://github.com/pakoito/Komprehensions) -对Kotlin和第3方图书馆进行理解.
 * [h0tk3y/kotlin-monads](https://github.com/h0tk3y/kotlin-monads) -Kotlin的Monads
 * [poetix/klenses](https://github.com/poetix/klenses) -Kotlin专用镜头.
@@ -244,7 +246,8 @@
 * [jkcclemens/khttp](https://github.com/jkcclemens/khttp) -Kotlin HTTP请求库.
 * [egorzhdan/networkinkt](https://github.com/egorzhdan/networkinkt) -基于多协程的HTTP客户端.
 * [rybalkinsd/kohttp](https://github.com/rybalkinsd/kohttp) -基于Kotlin DSL的HTTP客户端.
-* [curiousnikhil/Asynkio](https://github.com/CuriousNikhil/AsynKio) -使用异步/等待样式轻松进行异步调用.
+* [curiousnikhil/Asynkio](https://github.com/CuriousNikhil/AsynKio) - Make asynchronous calls painlessly with async/await style.
+* [speekha/httpmocker](https://github.com/speekha/httpmocker) -Kotlin库可以使用OkHttp轻松处理离线模式.
 
 ### <a name="libraries-frameworks-editors"></a>Editors <sup>[Back ⇈](#libraries-frameworks-editors-subcategory)</sup>
 * [JetBrains/intellij-community](https://github.com/JetBrains/intellij-community) -IntelliJ IDEA社区版
@@ -270,6 +273,7 @@
 * [icela/FriceEngine](https://github.com/icela/FriceEngine) -让游戏开发再次轻松！
 * [vassilibykov/AdventKT](https://github.com/vassilibykov/AdventKT) -基于Kotlin的DSL，用于文本冒险，以经典Colossal Cave的部分副本为例.
 * [Hexworks/zircon](https://github.com/Hexworks/zircon) -使用Kotlin编写的可扩展的文本GUI库，该库针对多个平台，专门为游戏开发人员设计.
+* [korlibs/KorGE](https://github.com/korlibs/korge)  -Kotlin的现代多平台游戏引擎.  使用Kotlin可以立即为JVM，JavaScript，Android和iOS编写游戏.
 
 ### <a name="libraries-frameworks-misc"></a>Misc <sup>[Back ⇈](#libraries-frameworks-misc-subcategory)</sup>
 * [Kotlin/kotlinx.reflect.lite](https://github.com/Kotlin/kotlinx.reflect.lite) -轻量级库，可以自省有关Kotlin符号的基本知识.
@@ -277,6 +281,7 @@
 * [MehdiK/Humanizer.jvm](https://github.com/MehdiK/Humanizer.jvm) -Humanizer.jvm满足您所有的jvm需求，用于处理和显示字符串，枚举，日期，时间，时间跨度，数字和数量.
 * [mplatvoet/kovenant](https://github.com/mplatvoet/kovenant) -Kotlin和Android的承诺
 * [kohesive/klutter](https://github.com/kohesive/klutter) -Kotlin的随机小型库的混合，最小的库驻留在这里，直到足够大以容纳自己的存储库为止.
+* [DragonKnightOfBreeze/breeze-framework](https://github.com/DragonKnightOfBreeze/breeze-framework) -基于Kotlin的集成代码框架，为标准库和某些框架提供了许多有用的扩展.
 * [kohesive/solr-undertow](https://github.com/kohesive/solr-undertow) -Solr Standalone Tiny和高性能服务器.
 * [leprosus/kotlin-hashids](https://github.com/leprosus/kotlin-hashids) -从数字生成短而唯一的非顺序散列的库.
 * [mplatvoet/progress](https://github.com/mplatvoet/progress) -Kotlin的进展.
@@ -287,7 +292,7 @@
 * [ingokegel/jclasslib](https://github.com/ingokegel/jclasslib) -jclasslib字节码查看器是一种工具，可可视化已编译Java类文件的所有方面以及所包含的字节码.
 * [holgerbrandl/krangl](https://github.com/holgerbrandl/krangl) -krangl是{K} otlin库，用于处理数据{rangl}
 * [debop/koda-time](https://github.com/debop/koda-time)  -Kotlin中的Joda时间扩展.  （从Java 8使用java.time代替）
-* [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging) - Lightweight logging framework for Kotlin. Used as a wrapper for slf4j with Kotlin extensions.
+* [MicroUtils/kotlin-logging](https://github.com/MicroUtils/kotlin-logging)  -Kotlin的轻量级日志记录框架.  用作带有Kotlin扩展名的slf4j的包装.
 * [cesarferreira/kotlin-pluralizer](https://github.com/cesarferreira/kotlin-pluralizer) -Kotlin扩展，可对字符串进行复数和单数化.
 * [JoelW-S/groothy](https://github.com/JoelW-S/groothy) -Kotlin执行Groovy Truth.
 * [Jire/Strukt](https://github.com/Jire/Strukt) -今天，JVM上的值类型！
@@ -315,9 +320,11 @@
 * [holgerbrandl/kravis](https://github.com/holgerbrandl/kravis) -用于科学数据可视化的Kotlin语法
 * [MiloszKrajewski/stateful4k](https://github.com/MiloszKrajewski/stateful4k) -Kotlin的状态机构造套件
 * [charleskorn/kaml](https://github.com/charleskorn/kaml) -YAML对kotlinx.serialization的支持
+* [jershell/kbson](https://github.com/jershell/kbson) -Bson对kotlinx.serialization的支持
 * [pemistahl/lingua](https://github.com/pemistahl/lingua) -适用于长文本和短文本的语言检测库
 * [sandjelkovic/kxjtime](https://github.com/sandjelkovic/kxjtime) -java.time API的轻量级Kotlin扩展
 * [pmwmedia/tinylog](https://github.com/pmwmedia/tinylog) -带有用于Kotlin的本地日志记录API的轻量级日志记录框架.
+* [Lewik/klog](https://github.com/Lewik/klog) -Kotlin的简约和多平台日志记录
 * [aafanasev/sekret](https://github.com/aafanasev/sekret) -Kotlin编译器插件，可从Data类的toString（）中排除秘密属性
 
 ### <a name="libraries-frameworks-raspberry-pi"></a>Raspberry Pi <sup>[Back ⇈](#libraries-frameworks-raspberry-pi-subcategory)</sup>
@@ -342,7 +349,7 @@
 * [sksamuel/hoplite](https://github.com/sksamuel/hoplite) -用于以无模板方式将配置文件加载到类型安全的Kotlin数据类中的库
 
 ### <a name="libraries-frameworks-graphics"></a>Graphics <sup>[Back ⇈](#libraries-frameworks-graphics-subcategory)</sup>
-* [data2viz/data2viz](https://github.com/data2viz/data2viz) - multiplatform dataviz library, d3js port
+* [data2viz/data2viz](https://github.com/data2viz/data2viz) -多平台dataviz库，d3js端口
 * [kotlin-graphics/glm](https://github.com/kotlin-graphics/glm) -g-truck glm port，opengl数学库
 * [kotlin-graphics/kotlin-unsigned](https://github.com/kotlin-graphics/kotlin-unsigned) -无符号运算符和带框的类型（Ubyte，Uint，Ulong和Ushort），用于无符号支持.
 * [kotlin-graphics/gli](https://github.com/kotlin-graphics/gli) -g-卡车gli端口，图片库
@@ -367,7 +374,7 @@
 * [kyonifer/koma](https://github.com/kyonifer/koma) -Kotlin的科学计算库.
 * [MarcinMoskala/KotlinDiscreteMathToolkit](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) -Kotlin扩展集，提供了离散数学功能作为Kotlin扩展功能.
 * [sekwiatkowski/Komputation](https://github.com/sekwiatkowski/Komputation) -用Kotlin编写的神经网络框架.
-* [sanity/pairAdjacentViolators](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
+* [sanity/pairAdjacentViolators](https://github.com/sanity/pairAdjacentViolators) -等邻回归的对相邻违反者算法的Kotlin实现.
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
 * [ajalt/clikt](https://github.com/ajalt/clikt) -Clikt-Kotlin的直观命令行界面解析.
@@ -503,14 +510,14 @@
 * [iglaweb/Ferris-Wheel](https://github.com/iglaweb/Ferris-Wheel) -简单的android库以呈现动画摩天轮
 * [ehsunshine/colored-time-selector](https://github.com/ehsunshine/colored-time-selector)  -智能彩色时间选择器.  用户可以使用方便的彩色范围选择器选择空闲时间.
 * [yundom/kache](https://github.com/yundom/kache) -用Kotlin编写的轻量级缓存库.
-* [adrielcafe/KBus](https://github.com/adrielcafe/KBus) -使用Kotlin和RxJava 2制作的Android版Dead简单EventBus
+* [adrielcafe/KBus](https://github.com/adrielcafe/KBus) - Dead simple EventBus for Android made with Kotlin and RxJava 2
 * [Jintin/MixAdapter](https://github.com/Jintin/MixAdapter) -在Android中为RecyclerView编写多个适配器.
 * [yundom/RxVan](https://github.com/yundom/RxVan) -用Kotlin和RxJava编写的轻量级事件总线.
 * [duanhong169/DrawableToolbox](https://github.com/duanhong169/DrawableToolbox) -缺少适用于Android的可绘制工具箱.
 * [adrielcafe/AndroidCoroutineScopes](https://github.com/adrielcafe/AndroidCoroutineScopes) -该库实现了Android应用中最常用的CoroutineScopes.
 * [WindSekirun/RxSocialLogin](https://github.com/WindSekirun/RxSocialLogin) -该Android库是一个为RxJava2，Kotlin和Firebase身份验证支持的15个平台提供社交登录的库. 
 * [bakhtiyork/gradients](https://github.com/bakhtiyork/gradients) -精选的出色渐变收藏
-* [hpost/RxBrainwaves](https://github.com/hpost/rx-brainwaves) -NeuroSky MindWave耳机的RxJava包装器
+* [hpost/rx-brainwaves](https://github.com/hpost/rx-brainwaves) -NeuroSky MindWave耳机的RxJava包装器
 * [adrielcafe/KrumbsView](https://github.com/adrielcafe/KrumbsView) -Android的终极面包屑视图！
 * [inshiro/Skate](https://github.com/inshiro/skate) -一个简单易用的Android片段堆栈控制器
 * [cortinico/slidetoact](https://github.com/cortinico/slidetoact) -用Kotlin编写的适用于Android的简单“幻灯片解锁”材质小部件
@@ -523,7 +530,7 @@
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) -使用MVP架构的kotlin上的android开发框架.
 * [lightningkite/kotlin-core](https://github.com/lightningkite/kotlin-core)  -制作Android应用的完整框架.  基于Anko和Kotson.
 * [codenameone/CodenameOne](https://github.com/codenameone/CodenameOne) -开源跨平台移动开发框架，该框架可使用Kotlin和Java在iOS（iPhone / iPad），Android，Windows等平台的本机开发中运行一次即可编写
-* [hpost/kommon-mvi](https://github.com/hpost/kommon-mvi) -以Kotlin编写的Model View Intent启发的最小框架.
+* [hpost/rx-mvi](https://github.com/hpost/rx-mvi) -以Kotlin编写的Model View Intent启发的最小框架.
 
 ### <a name="android-projects"></a>Projects <sup>[Back ⇈](#android-projects-subcategory)</sup>
 * [antoniolg/Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) -完全使用Kotlin语言编写的Android展示音乐应用.
@@ -685,14 +692,14 @@
 * [Jalandhar Kotlin User Group](https://nvite.com/JalandharKotlin/13lv7v) -印度
 * [Japan Kotlin User Group](https://kotlin.connpass.com/) - 日本
 * [Karachi Kotlin User Group](https://www.facebook.com/kotlinkarachi/) -巴基斯坦
-* [Kathmandu Kotlin User Group](https://www.facebook.com/groups/100333660782830/) -尼泊尔
+* [Kathmandu Kotlin User Group](https://www.facebook.com/groups/100333660782830/) - Nepal
 * [Kolkata Kotlin User Group](https://www.meetup.com/Kotlin-Kolkata-UG/) -印度
 * [Korean Kotlin User Group](http://kotlin.kr/) - 韩国
 * [Kozhikode Kotlin User Group](https://www.facebook.com/kotlinusergroup/) -印度
 * [Mumbai Kotlin User Group](https://www.facebook.com/kotlinmumbai/) -印度
 * [Mumbai Kotlin for Android](https://www.meetup.com/Kotline-for-Android/) -印度
 * [Myanmar Kotlin User Group](https://www.facebook.com/groups/kotlinmyanmarusergroup/about/) -缅甸
-* [Nepal Kotlin User Group](https://www.facebook.com/groups/dnkotlin/) -尼泊尔
+* [Nepal Kotlin User Group](https://www.facebook.com/groups/dnkotlin/) - Nepal
 * [New Delhi Kotlin User Group](https://www.facebook.com/kotlinNewDelhi/) -印度
 * [Pakistan KotlinUser Group](https://www.facebook.com/groups/565405337181251/) -巴基斯坦
 * [Philippines Kotlin](https://www.facebook.com/groups/642901202586581/) -菲律宾
@@ -1040,7 +1047,7 @@
 * [Kotlin 1.0. Задай вопрос команде.](http://kotlin.link/articles/-.html) -罗马·贝洛夫
 * [DevZen Podcast: Kotlin и Vulkan 1.0 — Episode 0080.](http://kotlin.link/articles/-.html) -DevZen播客
 * [Немного о Kotlin.](http://kotlin.link/articles/-.html) -@雾气
-* [Радио-Т 484](http://kotlin.link/articles/-.html) - Umputun, Bobuk, Gray, Ksenks
+* [Радио-Т 484](http://kotlin.link/articles/-.html) -Umputun，Bobuk，Gray，Ksenks
 * [Weekend resources for new Kotlin programmers](http://kotlin.link/articles/-.html) -乔伊·德维拉
 * [The Kobalt diaries: testing](http://kotlin.link/articles/-.html) -塞德里克·比斯特（CédricBeust）
 * [Using Mockito for unit testing with Kotlin (1/x)](http://kotlin.link/articles/-.html) -制作人
@@ -1127,14 +1134,14 @@
 * [Kotlin in Real Projects](http://kotlin.link/articles/-.html) -安东饼干
 * [10 Kotlin Tricks in 10(ish) Minutes](http://kotlin.link/articles/-.html) -杰克·沃顿
 * [Kotlin Night London](http://kotlin.link/articles/-.html) -JetBrains
-* [Redux for Android using Kotlin](http://kotlin.link/articles/-.html) - Nevin Chen
+* [Redux for Android using Kotlin](http://kotlin.link/articles/-.html) -陈文
 * [Code Swarm for Kotlin](http://kotlin.link/articles/-.html) -兰登·威尔金斯
 * [Developing a Geospatial Webservice with Kotlin and Spring Boot](http://kotlin.link/articles/-.html) -塞巴斯蒂安·德勒兹（SébastienDeleuze）
 
 ### <a name="videos-october-2016"></a>October 2016 <sup>[Back ⇈](#videos-october-2016-subcategory)</sup>
 * [Better Android Development with Kotlin and Gradle](http://kotlin.link/articles/-.html) -你史密斯
 * [Christina Lee: Kotlin in Production](http://kotlin.link/articles/-.html) -Android对话框
-* [Spring Tips: the Kotlin Programming Language](http://kotlin.link/articles/-.html) -乔什·朗（Josh Long）
+* [Spring Tips: the Kotlin Programming Language](http://kotlin.link/articles/-.html) - Josh Long
 * [Spring Boot and Kotlin, a match made in Heaven](http://kotlin.link/articles/-.html) -尼古拉斯·弗兰克尔（Nicolas Frankel）
 
 ### <a name="videos-september-2016"></a>September 2016 <sup>[Back ⇈](#videos-september-2016-subcategory)</sup>

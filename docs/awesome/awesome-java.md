@@ -172,7 +172,7 @@
 - [Jinq](https://github.com/my2iu/Jinq) -通过Java 8 Lambda的符号执行（在JPA或jOOQ之上）进行类型安全的数据库查询.
 - [jOOQ](https://www.jooq.org) -根据SQL模式生成类型安全代码.
 - [Liquibase](http://www.liquibase.org) -独立于数据库的库，用于跟踪，管理和应用数据库架构更改.
-- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，提供并发集合，这些并发集合备份在磁盘上或堆外内存中.
+- [MapDB](http://www.mapdb.org) -嵌入式数据库引擎，可提供并发收集到磁盘或堆外内存的备份.
 - [MariaDB4j](https://github.com/vorburger/MariaDB4j) -无需安装或外部依赖项的MariaDB启动器.
 - [OrientDB](https://orientdb.com/orientdb) -在Hazelcast顶部编写的可嵌入式分布式数据库.
 - [Presto](https://github.com/prestodb/presto) -用于大数据的分布式SQL查询引擎.
@@ -247,7 +247,7 @@
 - [Atomix](https://atomix.io) -容错的分布式协调框架.
 - [Axon Framework](http://www.axonframework.org) -用于创建CQRS应用程序的框架.
 - [Dropwizard Circuit Breaker](https://github.com/mtakaki/dropwizard-circuitbreaker)  -Dropwizard的断路器设计模式.  （仅限GPL-2.0）
-- [Failsafe](https://github.com/jhalterman/failsafe) -通过重试和断路器进行简单的故障处理.
+- [Failsafe](https://github.com/jhalterman/failsafe) -通过重试和断路器轻松处理故障.
 -[Hazelcast！[c]]（https://hazelcast.org）-高度可扩展的内存数据网格，带有免费的开源版本.
 - [JGroups](http://www.jgroups.org) -用于可靠消息传递和集群创建的工具包.
 - [Orbit](http://www.orbit.cloud)  -虚拟演员；  为传统参与者增加了另一个层次的抽象.
@@ -304,7 +304,7 @@
 
 *促进函数式编程的库.*
 
-- [cyclops-react](https://github.com/aol/cyclops-react) -Monad和流实用程序，理解，模式匹配，所有JDK集合的功能扩展，未来的流，蹦床等.
+- [cyclops-react](https://github.com/aol/cyclops-react) -Monad和流实用程序，理解力，模式匹配，所有JDK集合的功能扩展，将来的流，蹦床等.
 - [derive4j](https://github.com/derive4j/derive4j)  -Java 8注释处理器和框架，用于导出代数数据类型的构造函数，模式匹配和态射.  （仅限GPL-3.0）
 - [Fugue](https://bitbucket.org/atlassian/fugue) -番石榴的功能扩展.
 - [Functional Java](http://www.functionaljava.org) -实现许多基本和高级编程抽象，以协助面向合成的开发.
@@ -402,11 +402,11 @@
 
 *有助于简化Java自省和反射API的库.*
 
-- [Classgraph](https://github.com/classgraph/classgraph) -ClassGraph（以前称为FastClasspathScanner）是适用于Java，Scala，Kotlin和其他JVM语言的超快速，超轻量，并行化的类路径扫描器和模块扫描器.
-- [Reflections](https://github.com/ronmamo/reflections) -Reflections扫描您的类路径，为元数据建立索引，使您可以在运行时对其进行查询，并可以保存和收集项目中许多模块的信息.
-- [ReflectASM](https://github.com/EsotericSoftware/reflectasm) -ReflectASM是一个非常小的Java库，它通过使用代码生成提供高性能的反射.
+- [ClassGraph](https://github.com/classgraph/classgraph) -ClassGraph（以前的FastClasspathScanner）是适用于Java，Scala，Kotlin和其他JVM语言的超快速，超轻量，并行化的类路径扫描器和模块扫描器.
 - [jOOR](https://github.com/jOOQ/jOOR)  -jOOR代表面向对象的反射.  它是java.lang.reflect包的简单包装.
 - [Mirror](http://projetos.vidageek.net/mirror/mirror/) -创建Mirror是为了解决一个简单的问题，通常称为ReflectionUtil，该问题几乎在所有依赖反射来执行高级任务的项目中都存在.
+- [ReflectASM](https://github.com/EsotericSoftware/reflectasm) -ReflectASM是一个非常小的Java库，它通过使用代码生成提供高性能的反射.
+- [Reflections](https://github.com/ronmamo/reflections) -Reflections扫描您的类路径，为元数据建立索引，使您可以在运行时对其进行查询，并可以保存和收集项目中许多模块的信息.
 
 ### JSON
 
@@ -422,7 +422,7 @@
 - [JSON-io](https://github.com/jdereg/json-io)  -将Java转换为JSON.  将JSON转换为Java.  漂亮的打印JSON.  Java JSON序列化器.
 - [jsoniter](http://jsoniter.com) -具有迭代器和惰性分析API的快速灵活的库.
 - [LoganSquare](https://github.com/bluelinelabs/LoganSquare)  -基于Jackson的流API的JSON解析和序列化库.  优于GSON和Jackson的资料库.
-- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型（如List和Map）.
+- [Moshi](https://github.com/square/moshi) -现代化的JSON库，不那么固执己见，并使用内置类型，如List和Map.
 - [Yasson](https://github.com/eclipse/yasson) -类和JSON文档之间的绑定层类似于JAXB.
 
 ### JSON Processing
@@ -506,7 +506,7 @@
 - [Codename One](https://www.codenameone.com)  -用于编写本机移动应用程序的跨平台解决方案.  （仅限GPL-2.0，带Classpath-exception-2.0）
 - [CQEngine](https://github.com/npgall/cqengine) -对Java集合的超快速，类似SQL的查询.
 - [Design Patterns](https://github.com/iluwatar/java-design-patterns) -实施和解释最常见的设计模式.
-- [Failsafe](https://github.com/jhalterman/failsafe) -通过重试和断路器进行简单的故障处理.
+- [Failsafe](https://github.com/jhalterman/failsafe) -通过重试和断路器轻松处理故障.
 - [FF4J](https://github.com/ff4j/ff4j) -Java的功能标志.
 - [FizzBuzz Enterprise Edition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)  -认真的商人出于认真的商业目的而实施的FizzBu​​zz，这是胡说八道.  （无明确许可）
 - [J2ObjC](https://github.com/google/j2objc) -Java-to-Objective-C转换器，用于将Android库移植到iOS.
@@ -658,7 +658,7 @@
 -[JProfiler！[c]]（https://www.ej-technologies.com/products/jprofiler/overview.html）-带有JEE支持的JDBC，JPA和NoSQL数据库分析.
 - [LatencyUtils](https://github.com/LatencyUtils/LatencyUtils) -延迟测量和报告实用程序.
 -[XRebel！[c]]（https://zeroturnaround.com/software/xrebel）-带有浏览器内窗口小部件的Web应用程序实时配置.
--[YourKit Java Profiler！[c]]（https://www.yourkit.com/features）-适用于在JVM上运行的任何应用程序的Profiler.
+-[YourKit Java Profiler！[c]]（https://www.yourkit.com/features）-适用于JVM上运行的任何应用程序的Profiler.
 
 ### Platform
 
@@ -756,7 +756,7 @@
 - [Jersey](https://jersey.github.io) -JAX-RS参考实现.
 - [Microserver](https://github.com/aol/micro-server)  —用于Spring和Spring Boot的便捷，可扩展的微服务插件系统.  随着30多个插件的不断发展，它支持微独石和纯微服务样式.
 - [Rapidoid](https://www.rapidoid.org) -一个简单，安全且非常快速的框架，由嵌入式HTTP服务器，GUI组件和依赖项注入组成.
-- [rest.li](https://github.com/linkedin/rest.li) -使用端到端开发人员工作流的类型安全绑定和异步，无阻塞IO构建健壮的，可伸缩的RESTful架构的框架，该端到端的开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
+- [rest.li](https://github.com/linkedin/rest.li) -使用端到端开发人员工作流的类型安全绑定和异步，无阻塞IO构建健壮的，可扩展的RESTful架构的框架，该端到端的开发人员工作流可促进简洁的做法，统一的界面设计和一致的数据建模.
 - [RESTEasy](https://resteasy.jboss.org) -JAX-RS规范的完整认证和可移植实施.
 - [RestExpress](https://github.com/RestExpress/RestExpress) -JBoss Netty HTTP堆栈上的精简包装器，可提供扩展和性能.
 - [Restlet Framework](https://github.com/restlet/restlet-framework-java) -具有强大的路由和过滤功能以及统一的客户端和服务器API的开拓性框架.
@@ -775,7 +775,7 @@
 - [JGraphT](https://github.com/jgrapht/jgrapht) -提供数学图形理论对象和算法的图形库.
 - [JGraphX](https://github.com/jgraph/jgraphx) -用于可视化（主要是Swing）并与节点边缘图进行交互的库.
 - [Mines Java Toolkit](https://github.com/MinesJTK/jtk) -用于地球物理科学计算，可视化和数字信号分析的库.
-- [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现针对JVM上的科学计算的高效内存中分析.
+- [Morpheus](http://www.zavtech.com/morpheus/docs) -提供称为DataFrame的通用二维内存高效表格式数据结构，以实现对JVM上的科学计算进行高效的内存中分析.
 - [Orson-Charts](https://github.com/jfree/orson-charts)  -生成可以与Swing和JavaFX一起显示或导出为PDF，SVG，PNG和JPEG的各种各样的3D图表.  （仅限GPL-3.0）
 - [Tablesaw](https://github.com/lwhite1/tablesaw) -包括数据框，嵌入式列存储以及数百种转换，汇总或过滤数据的方法.
 - [XChart](https://github.com/knowm/XChart)  -用于绘制数据的轻量级库.  有许多可定制的图表类型.
@@ -839,7 +839,7 @@
 - [Handlebars.java](https://jknack.github.io/handlebars.java) -无逻辑和语义的Moustache模板.
 - [Jade4J](https://github.com/neuland/jade4j) -实施Pug（以前称为Jade）.
 - [Jtwig](http://jtwig.org) -模块化，可配置且经过全面测试的模板引擎.
-- [Pebble](https://pebbletemplates.io)  -受Twig的启发，并以其继承功能和易于阅读的语法而与众不同.  它带有内置的自动转义功能以确保安全性，并且包括对国际化的集成支持.
+- [Pebble](https://pebbletemplates.io)  -受Twig启发，并以其继承功能和易于阅读的语法而与众不同.  它带有内置的自动转义功能，以实现安全性，并且包括对国际化的集成支持.
 - [Rocker](https://github.com/fizzed/rocker) -优化，内存高效且快速的模板引擎，可生成静态类型的普通对象.
 - [Thymeleaf](http://www.thymeleaf.org) -旨在替代JSP并适用于XML文件.
 
@@ -1038,7 +1038,7 @@
 - [Arun Gupta](https://twitter.com/arungupta) -Java冠军，JavaOne Rockstar，JUG负责人，Devoxx4Kids-er，Couchbase开发人员宣传副总裁.
 - [Brian Goetz](https://twitter.com/BrianGoetz) -Oracle的Java语言架构师.
 - [Bruno Borges](https://twitter.com/brunoborges) -Oracle产品经理/ Java Jock.
-- [Chris Richardson](https://twitter.com/crichardson) -软件架构师，顾问和连续企业家，Java Champion，JavaOne Rock Star和* POJO in Action-作者.
+- [Chris Richardson](https://twitter.com/crichardson) -软件架构师，顾问和串行企业家，Java Champion，JavaOne Rock Star和* POJO in Action-作者.
 - [Ed Burns](https://twitter.com/edburns) -Oracle技术人员的咨询成员.
 - [Eugen Paraschiv](https://twitter.com/baeldung) -春季安全课程的作者.
 - [Heinz Kabutz](https://twitter.com/heinzkabutz) -Java冠军，演讲者，《 Java专家通讯》的作者，并发性能专家.

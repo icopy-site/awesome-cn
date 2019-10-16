@@ -12,7 +12,7 @@
 *使用<kbd>Ctrl</kbd> + <kbd>F</kbd>或<kbd>Command</kbd> + <kbd>F</kbd>搜索代码段.
 *欢迎捐款，请阅读 [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
 *片段是用ES6编写的，请使用 [Babel transpiler](https://babeljs.io/) 确保向后兼容.
-*您可以按照找到的说明将这些代码片段导入VSCode中 [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
+* You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 *您可以使用以下命令中的CLI应用程序从终端搜索，查看和复制这些片段 [this repo](https://github.com/sQVe/30s).
 *如果您想在社交媒体上遵循30秒的代码，可以在以下位置找到我们 [Facebook](https://www.facebook.com/30secondsofcode), [Instagram](https://www.instagram.com/30secondsofcode) 和 [Twitter](https://twitter.com/30secondsofcode).
 
@@ -416,7 +416,7 @@ const spreadOver = fn =&gt; argsArr =&gt; fn（... argsArr）;
 
 ```js
 const arrayMax = spreadOver（Math.max）;
- arrayMax（[1,2,3]）;  // 3
+arrayMax([1, 2, 3]); // 3
 ```
 </details>
 
@@ -513,7 +513,7 @@ const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
 将二维数组转换为逗号分隔值（CSV）字符串.
 
 使用Array.prototype.map（）和Array.prototype.join（delimiter）将单个一维数组（行）组合成字符串.
-使用Array.prototype.join（&#39;\ n&#39;）将所有行合并为CSV字符串，并用换行符分隔每一行.
+Use `Array.prototype.join('\n')` to combine all rows into a CSV string, separating each row with a newline.
 省略第二个参数`delimiter`，以使用默认定界符`，`.
 
 ```js
@@ -666,7 +666,7 @@ const countOccurrences =（arr，val）=&gt; arr.reduce（（a，v）=&gt;（v =
 Deep展平数组.
 
 使用递归.
-将`Array.prototype.concat（）`与一个空数组（`[]`）和散布运算符（`...`）一起使用，以使数组变平.
+将“ Array.prototype.concat（）”与一个空数组（[[]`）和散布运算符（`...`）一起使用来展平一个数组.
 以递归方式展平数组中的每个元素.
 
 ```js
@@ -741,7 +741,7 @@ const DifferenceWith =（arr，val，comp）=&gt; arr.filter（a =&gt; val.findI
 <summary>Examples</summary>
 
 ```js
-differenceWith([1, 1.2, 1.5, 3, 0], [1.9, 3, 0], (a, b) => Math.round(a) === Math.round(b)); // [1, 1.2]
+ DifferenceWith（[1，1.2，1.5，3，0]，[1.9，3，0]，（a，b）=&gt; Math.round（a）=== Math.round（b））;  // [1，1.2]
 ```
 </details>
 
@@ -993,7 +993,7 @@ const flatten =（arr，depth = 1）=&gt;
 
 ### forEachRight
 
-Executes a provided function once for each array element, starting from the array's last element.
+从数组的最后一个元素开始，对每个数组元素执行一次提供的功能.
 
 使用Array.prototype.slice（0）克隆给定的数组，使用Array.prototype.reverse（）反转它，并使用Array.prototype.forEach（）遍历反转的数组.
 
@@ -1061,7 +1061,7 @@ const head = arr =&gt; arr [0];
 ### indexOfAll
 
 返回数组中所有“ val”的索引.
-If `val` never occurs, returns `[]`.
+如果`val`从未发生，则返回`[]`.
 
 使用Array.prototype.reduce（）遍历元素并存储索引以匹配元素.
 返回索引数组.
@@ -1147,7 +1147,7 @@ const initializeArrayWithRange =（结束，开始= 0，步骤= 1）=&gt;
 
 初始化一个数组，该数组包含指定范围内的数字（反向），其中“ start”和“ end”包含其共同点“ step”.
 
-使用Array.from（Math.ceil（（end + 1-start）/ step））创建一个所需长度的数组（元素数量等于`（end-start）/ step`或`（ end + 1-start）/ step（包括结束符），使用Array.prototype.map（）填充范围内的所需值.
+使用Array.from（Math.ceil（（end + 1-start）/ step））创建一个所需长度的数组（元素数量等于（（end-start）/ step）或`（ end + 1-start）/ step（包括结束符），使用Array.prototype.map（）填充范围内的所需值.
 您可以省略“开始”以使用默认值“ 0”.
 您可以省略`step`以使用默认值&#39;1&#39;.
 
@@ -1242,7 +1242,7 @@ const交集=（a，b）=&gt; {
 通过对b中的所有元素应用fn创建一个Set，然后在a上使用Array.prototype.filter（）仅保留元素，当fn产生b时包含值适用于他们.
 
 ```js
-常量交叉点=（（a，b，fn）=&gt; {
+const交集By =（a，b，fn）=&gt; {
   const s = new Set（b.map（fn））;
   返回a.filter（x =&gt; s.has（fn（x）））;
 };
@@ -1417,7 +1417,7 @@ const longestItem =（... vals）=&gt; vals.reduce（（a，x）=&gt;（x.length
 
 使用函数将数组的值映射到对象，其中键-值对由字符串化的值（作为键）和映射的值组成.
 
- 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移至另一个上下文（由于闭包和操作顺序）.
+ 使用匿名内部函数作用域声明未定义的内存空间，并使用闭包存储返回值.  使用新的“数组”将数组及其功能映射到其数据集，并使用逗号运算符返回第二步，而无需从一个上下文移到另一个上下文（由于闭包和操作顺序）.
 
 ```js
 const mapObject =（arr，fn）=&gt;
@@ -1552,7 +1552,7 @@ const offset =（arr，offset）=&gt; [... arr.slice（offset），... arr.slice
 将元素分为两个数组，具体取决于每个元素提供的函数的真实性.
 
 使用Array.prototype.reduce（）创建一个由两个数组组成的数组.
-使用Array.prototype.push（）将第一个数组中的fn返回true的元素添加到第二个数组中false的元素.
+使用Array.prototype.push（）将第一个数组中的fn返回true的元素添加到第二个数组中false返回false的元素.
 
 ```js
 const partition =（arr，fn）=&gt;
@@ -1612,7 +1612,7 @@ const permutations = arr =&gt; {
 突变原始数组以滤除指定的值.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 
 ```js
 const pull =（arr，... args）=&gt; {
@@ -1637,13 +1637,13 @@ const pull =（arr，... args）=&gt; {
 突变原始数组以滤除指定索引处的值.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 使用Array.prototype.push（）来跟踪提取的值
 
 ```js
 const pullAtIndex =（arr，pullArr）=&gt; {
   让我们删除= [];
-  let pulled = arr
+  让拉= arr
     .map（（v，i）=&gt;（pullArr.includes（i）？已移除.push（v）：v））
     .filter（（v，i）=&gt;！pullArr.includes（i））;
   arr.length = 0;
@@ -1666,7 +1666,7 @@ const pullAtIndex =（arr，pullArr）=&gt; {
  突变原始数组以滤除指定的值.  返回移除的元素.
 
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 使用Array.prototype.push（）来跟踪提取的值
 
 ```js
@@ -1693,10 +1693,10 @@ const pullAtValue =（arr，pullArr）=&gt; {
 
 根据给定的迭代器函数，对原始数组进行突变以滤除指定的值.
 
-检查函数中是否提供了最后一个参数.
+Check if the last argument provided in a function.
 使用Array.prototype.map（）将迭代器函数fn应用于所有数组元素.
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
-使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来改变传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
+使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
 
 ```js
 const pullBy =（arr，... args）=&gt; {
@@ -1725,7 +1725,7 @@ var myArray = [{x：1}，{x：2}，{x：3}，{x：1}];
 根据条件过滤对象数组，同时也过滤掉未指定的键.
 
 使用Array.prototype.filter（）基于谓词fn过滤数组，以便它返回条件返回真实值的对象.
-在过滤后的数组上，使用Array.prototype.map（）返回新对象，并使用Array.prototype.reduce（）过滤掉未作为key参数提供的键.
+在过滤后的数组上，使用Array.prototype.map（）返回新对象，并使用Array.prototype.reduce（）过滤掉未作为keys参数提供的键.
 
 ```js
 const reduceFilter =（数据，键，fn）=&gt;
@@ -1958,7 +1958,7 @@ const foo = [1,2,3];
 
 ### similarity
 
-Returns an array of elements that appear in both arrays.
+返回同时出现在两个数组中的元素的数组.
 
 使用Array.prototype.filter（）删除不属于value的值，这些值是由Array.prototype.includes（）确定的.
 
@@ -2132,7 +2132,7 @@ const symmetricDifference =（a，b）=&gt; {
 
 将提供的函数应用于两个数组的每个数组元素后，返回两个数组之间的对称差.
 
-通过对每个数组的元素应用fn来创建Set，然后对每个元素使用Array.prototype.filter（），以仅保留彼此不包含的值.
+通过对每个数组的元素应用fn创建一个Set，然后对每个元素使用Array.prototype.filter（），以仅保留彼此不包含的值.
 
 ```js
 const symmetricDifferenceBy =（a，b，fn）=&gt; {
@@ -2245,7 +2245,7 @@ const takeRight =（arr，n = 1）=&gt; arr.slice（arr.length-n，arr.length）
 
 ```js
 const takeRightWhile =（arr，func）=&gt;
-  arr.reduceRight（（acc，el）=&gt;（func（the）？acc：[el，... acc]），[]）;
+  arr.reduceRight((acc, el) => (func(el) ? acc : [el, ...acc]), []);
 ```
 
 <details>
@@ -2261,7 +2261,7 @@ const takeRightWhile =（arr，func）=&gt;
 
  删除数组中的元素，直到传递的函数返回“ true”为止.  返回移除的元素.
 
-通过在Array.prototype.entries（）上使用for循环来遍历数组，直到函数返回的值为true为止.
+通过在Array.prototype.entries（）上使用for ... of循环来遍历数组，直到函数返回的值为true.
 使用Array.prototype.slice（）返回删除的元素.
 
 ```js
@@ -2284,7 +2284,7 @@ const takeWhile =（arr，func）=&gt; {
 
 将给定的类数组简化为值哈希（键控数据存储）.
 
-给定一个Iterable或类似Array的结构，在提供的对象上调用Array.prototype.reduce.call（）以遍历它，并返回一个由参考值作为键的对象.
+Given an Iterable or Array-like structure, call `Array.prototype.reduce.call()` on the provided object to step over it and return an Object, keyed by the reference value.
 
 ```js
 const toHash =（object，key）=&gt;
@@ -2468,7 +2468,7 @@ uniqueElementsByRight(
 
 返回两个数组之间的唯一对称差异，不包含两个数组中的重复值.
 
-在每个数组上使用Array.prototype.filter（）和Array.prototype.includes（）删除另一个数组中包含的值，然后从结果中创建一个Set，删除重复的值.
+在每个数组上使用Array.prototype.filter（）和Array.prototype.includes（）删除另一个数组中包含的值，然后从结果中创建Set，删除重复值.
 
 ```js
 const uniqueSymmetricDifference =（a，b）=&gt; [
@@ -2601,14 +2601,14 @@ const zip =（... arrays）=&gt; {
 
 ```js
  zip（[&#39;a&#39;，&#39;b&#39;]，[1，2]，[true，false]）;  // [[&#39;a&#39;，1，true]，[&#39;b&#39;，2，false]]
-zip(['a'], [1, 2], [true, false]); // [['a', 1, true], [undefined, 2, false]]
+ zip（[&#39;a&#39;]，[1、2]，[true，false]）；  // [[&#39;a&#39;，1，true]，[undefined，2，false]]
 ```
 </details>
 
 
 ### zipObject
 
-给定一个有效的属性标识符数组和一个值数组，返回一个将属性与值相关联的对象.
+给定一个有效的属性标识符数组和一个值数组，返回一个将属性与值关联的对象.
 
 由于对象可以具有未定义的值，但不能具有未定义的属性指针，因此属性数组用于通过Array.prototype.reduce（）来确定结果对象的结构.
 
@@ -2673,7 +2673,7 @@ zipWith(
 
 ```js
 const arrayToHtmlList =（arr，listID）=&gt;
-  (el => (
+  （=&gt;（
     (el = document.querySelector('#' + listID)),
      （el.innerHTML + = arr.map（item =&gt;` <li>  $ {item} </li>  `）.join（&#39;&#39;））
   ))();
@@ -2715,7 +2715,7 @@ const bottomVisible =（）=&gt;
 将字符串复制到剪贴板. 
 仅由于用户操作（即在“ click”事件侦听器内部）而起作用.
 
- 创建一个新的 <textarea>  `元素，用提供的数据填充它并将其添加到HTML文档中.
+ 创建一个新的` <textarea>  `元素，用提供的数据填充它并将其添加到HTML文档中.
 使用“ Selection.getRangeAt（）”存储所选范围（如果有）.
 使用`document.execCommand（&#39;copy&#39;）`复制到剪贴板.
  移除` <textarea>  HTML文档中的`元素.
@@ -2761,7 +2761,7 @@ const copyToClipboard = str =&gt; {
 
 ```js
 常量计数器=（选择器，开始，结束，步骤= 1，持续时间= 2000）=&gt; {
-  让电流=开始，
+  让电流=开始
      _step =（结束-开始）* step &lt;0？  -step：步骤，
     计时器= setInterval（（）=&gt; {
       当前+ = _step;
@@ -2814,7 +2814,7 @@ const el = createElement（
 
 
 
-创建一个发布/订阅（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件中心，使用`emit`，`on`和`off`方法.
+创建一个发布/订阅（[publish–subscribe](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern)）事件中心，使用“发射”，“开”和“关”方法.
 
 使用Object.create（null）创建一个空的hub对象，该对象不继承Object.prototype的属性.
 对于`emit`，请基于`event`参数解析处理程序数组，然后通过将数据作为参数传入来使用`Array.prototype.forEach（）`运行每个处理程序.
@@ -2919,7 +2919,7 @@ const elementContains =（parent，child）=&gt; parent！== child &amp;&amp; pa
 <summary>Examples</summary>
 
 ```js
- elementContains（document.querySelector（&#39;head&#39;），document.querySelector（&#39;title&#39;））;  //正确
+elementContains(document.querySelector('head'), document.querySelector('title')); // true
  elementContains（document.querySelector（&#39;body&#39;），document.querySelector（&#39;body&#39;））;  //错误
 ```
 </details>
@@ -3335,7 +3335,7 @@ onUserInputChange（type =&gt; {
 返回浏览器支持的CSS属性的前缀版本（如有必要）.
 
 在供应商前缀字符串数组上使用Array.prototype.findIndex（）来测试document.body是否在CSSStyleDeclaration对象中定义了其中之一，否则返回null.
-使用`String.prototype.charAt（）`和`String.prototype.toUpperCase（）`将属性大写，该属性将追加到供应商前缀字符串中.
+使用`String.prototype.charAt（）`和`String.prototype.toUpperCase（）`大写该属性，该属性将附加到供应商前缀字符串中.
 
 ```js
 const prefix = prop =&gt; {
@@ -3474,7 +3474,7 @@ const longRunningFunction =（）=&gt; {
 
 ### scrollToTop
 
-Smooth-scrolls to the top of the page.
+平滑滚动到页面顶部.
 
 使用`document.documentElement.scrollTop`或`document.body.scrollTop`获取与顶部的距离.
  滚动到顶部的距离的一小部分.  使用“ window.requestAnimationFrame（）”来动画化滚动.
@@ -3527,7 +3527,7 @@ serializeForm(document.querySelector('#form')); // email=test%40email.com&name=T
 使用`element.style`将指定元素的CSS规则的值设置为`val`.
 
 ```js
-const setStyle =（the，ruleName，val）=&gt;（el.style [ruleName] = val）;
+const setStyle =（the RuleName，val）=&gt;（el.style [ruleName] = val）;
 ```
 
 <details>
@@ -3685,7 +3685,7 @@ const dayOfYear =日期=&gt;
 const formatDuration = ms =&gt; {
   如果（ms &lt;0）ms = -ms;
   const time = {
-    day: Math.floor(ms / 86400000),
+    天：Math.floor（ms / 86400000），
     小时：Math.floor（ms / 3600000）％24，
     分钟：Math.floor（ms / 60000）％60，
     秒：Math.floor（ms / 1000）％60，
@@ -3860,7 +3860,7 @@ const isWeekday =（t = new Date（））=&gt; {
 结果为特定日期的布尔表示形式.
 
 首先传递特定的日期对象.
-使用`Date.getDay（）`根据使用模运算返回0-6的日期检查周末，然后返回一个布尔值.
+使用`Date.getDay（）`根据使用模运算返回0-6的日期来检查周末，然后返回一个布尔值.
 
 ```js
 const isWeekend =（t = new Date（））=&gt; {
@@ -4102,7 +4102,7 @@ chainAsync([
 
 ### checkProp
 
-给定一个“谓词”函数和一个“ prop”字符串，此咖喱函数将通过调用属性并将其传递给谓词来获取一个“对象”进行检查.
+给定一个“谓词”函数和一个“ prop”字符串，然后此咖喱函数将通过调用属性并将其传递给谓词来接受一个“对象”进行检查.
 
 召唤obj上的prop，将其传递给提供的predicate函数并返回一个带掩码的布尔值.
 
@@ -4213,7 +4213,7 @@ const average = converge（（（a，b）=&gt; a / b，[
 咖喱函数.
 
 使用递归.
-如果提供的参数（args）足够，请调用传递的函数fn.
+If the number of provided arguments (`args`) is sufficient, call the passed function `fn`.
 否则，返回一个期望剩余参数的咖喱函数“ fn”.
 如果要咖喱接受可变数量参数的函数（可变函数，例如`Math.min（）`），则可以选择将数量参数传递给第二个参数“ arity”.
 
@@ -4358,7 +4358,7 @@ const hz =（fn，迭代= 100）=&gt; {
 // 10,000个元素数组
 const number = Array（10000）
   .填（）
-  .map((_, i) => i);
+  .map（（_，i）=&gt; i）;
 
 //测试具有相同目标的函数：对数组中的元素求和
 const sumReduce =（）=&gt;数字.reduce（（acc，n）=&gt; acc + n，0）;
@@ -4379,7 +4379,7 @@ const sumForLoop =（）=&gt; {
 返回已记忆（缓存）的函数.
 
 通过实例化一个新的Map对象来创建一个空的缓存.
- 通过首先检查该特定输入值的函数输出是否已缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；如果没有，则存储并返回它.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
+ 通过首先检查该特定输入值的函数输出是否已被缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；否则，将其存储并返回.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
 通过将其设置为返回函数的属性来允许访问“缓存”.
 
 ```js
@@ -4700,7 +4700,7 @@ const doubleEvenNumbers = when（x =&gt; x％2 === 0，x =&gt; x * 2）;
 省略第三个参数“ε”，以使用默认值“ 0.001”.
 
 ```js
-const aboutEqual =（v1，v2，epsilon = 0.001）=&gt; Math.abs（v1-v2）&lt;epsilon;
+const approximatelyEqual = (v1, v2, epsilon = 0.001) => Math.abs(v1 - v2) < epsilon;
 ```
 
 <details>
@@ -5077,7 +5077,7 @@ const isDivisible =（股息，除数）=&gt;股息％除数=== 0;
 <summary>Examples</summary>
 
 ```js
-isDivisible(6, 3); // true
+ isDivisible（6，3）;  //正确
 ```
 </details>
 
@@ -5196,7 +5196,7 @@ LCM =常数（... ARR）=&gt; {
 
 结合使用String.prototype.split（&#39;&#39;），Array.prototype.reverse（）和Array.prototype.map（）和parseInt（）来获得数字数组.
 使用Array.prototype.splice（0,1）获得最后一位.
-Use `Array.prototype.reduce()` to implement the Luhn Algorithm.
+使用Array.prototype.reduce（）实现Luhn算法.
 如果sum被10整除，则返回true，否则返回false.
 
 ```js
@@ -5315,14 +5315,14 @@ const midpoint =（[[x1，y1]，[x2，y2]）=&gt; [（x1 + x2）/ 2，（y1 + y2
 使用Array.prototype.map（）将每个元素映射到fn返回的值，Math.min（）返回最小值.
 
 ```js
-const minBy =（arr，fn）=&gt; Math.min（... arr.map（typeof fn ===&#39;function&#39;？fn：val =&gt; val [fn]））;;
+const minBy =（arr，fn）=&gt; Math.min（... arr.map（typefn ===&#39;function&#39;？fn：val =&gt; val [fn]））;;
 ```
 
 <details>
 <summary>Examples</summary>
 
 ```js
- minBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 2
+ minBy（[{{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）;  // 2
  minBy（[{n：4}，{n：2}，{n：8}，{n：6}]，&#39;n&#39;）;  // 2
 ```
 </details>
@@ -5493,7 +5493,7 @@ const round =（n，小数= 0）=&gt; Number（`$ {Math.round（`$ {n} e $ {deci
 
 将输入字符串哈希为整数.
 
-使用String.prototype.split（&#39;&#39;）和Array.prototype.reduce（）使用位移来创建输入字符串的哈希.
+使用String.prototype.split（&#39;&#39;）和Array.prototype.reduce（）通过位移来创建输入字符串的哈希.
 
 ```js
 const sdbm = str =&gt; {
@@ -5521,7 +5521,7 @@ const sdbm = str =&gt; {
 
 使用Array.prototype.reduce（）计算平均值，方差和值方差之和，值方差，然后
 确定标准偏差.
-您可以省略第二个参数以获取样本标准偏差，或者将其设置为“ true”以获取总体标准偏差.
+You can omit the second argument to get the sample standard deviation or set it to `true` to get the population standard deviation.
 
 ```js
 const standardDeviation =（arr，usePopulation = false）=&gt; {
@@ -5811,7 +5811,7 @@ const hashNode = val =&gt;
 <summary>Examples</summary>
 
 ```js
- hashNode（JSON.stringify（{a：&#39;a&#39;，b：[1,2,3,4]，foo：{c：&#39;bar&#39;}}））.then（console.log）;  //&#39;04aa106279f5977f59f9067fa9712afc4aedc6f5862a8defc34552d8c7206393&#39;
+ hashNode（JSON.stringify（{a：&#39;a&#39;，b：[1,2,3,4]，foo：{c：&#39;bar&#39;}}）））.then（console.log）;  //&#39;04aa106279f5977f59f9067fa9712afc4aedc6f5862a8defc34552d8c7206393&#39;
 ```
 </details>
 
@@ -6041,7 +6041,7 @@ const UUIDGeneratorNode =（）=&gt;
 
 将对象的方法绑定到对象本身，从而覆盖现有方法.
 
-使用Array.prototype.forEach（）返回一个函数，该函数使用Function.prototype.apply（）将给定的上下文（obj）应用于每个指定的函数fn.
+使用Array.prototype.forEach（）返回一个函数，该函数使用Function.prototype.apply（）将给定的上下文（obj）应用于指定的每个函数.
 
 ```js
 const bindAll =（obj，... fns）=&gt;
@@ -6085,7 +6085,7 @@ const deepClone = obj =&gt; {
   如果（obj === null）返回null;
   让clone = Object.assign（{}，obj）;
   Object.keys（clone）.forEach（
-    键=&gt;（clone [键] =类型obj [键] ===&#39;对象&#39;？deepClone（obj [键]）：obj [键]）
+    键=&gt;（clone [key] = typeof obj [key] ===&#39;object&#39;？deepClone（obj [key]）：obj [key]）
   );
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
@@ -6122,7 +6122,7 @@ const deepFreeze = obj =&gt;
 <summary>Examples</summary>
 
 ```js
-“使用严格”；
+“严格使用”；
 
 const o = deepFreeze（[1，[2，3]]）;
 
@@ -6317,7 +6317,7 @@ const findKey =（obj，fn）=&gt; Object.keys（obj）.find（key =&gt; fn（ob
 findKey(
   {
     巴尼（Barney）：{年龄：36，活跃程度：是}，
-    弗雷德：{年龄：40，活跃：错误}，
+    弗雷德：{年龄：40，活跃：虚假}，
     小卵石：{年龄：1，活跃程度：是}
   },
   o =&gt; o [&#39;active&#39;]
@@ -6348,7 +6348,7 @@ const findLastKey =（obj，fn）=&gt;
 findLastKey(
   {
     巴尼（Barney）：{年龄：36，活跃程度：是}，
-    弗雷德：{年龄：40，活跃：错误}，
+    弗雷德：{年龄：40，活跃：虚假}，
     小卵石：{年龄：1，活跃程度：是}
   },
   o =&gt; o [&#39;active&#39;]
@@ -6482,6 +6482,42 @@ const get =（from，... selectors）=&gt;
 ```js
 const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1,2，{a：&#39;test&#39;}]};
  get（obj，&#39;selector.to.val&#39;，&#39;target [0]&#39;，&#39;target [2] .a&#39;）;  // [&#39;val to select&#39;，1，&#39;test&#39;]
+```
+</details>
+
+
+### hasKey
+
+如果目标值存在于JSON对象中，则返回“ true”，否则返回“ false”.
+
+检查键是否包含“.”，使用“ String.prototype.split（&#39;.&#39;）[0]”获取第一部分并将其存储为“ _key”.
+使用typeof来检查obj [key]的内容是否为object，如果是，则使用该对象和key的其余部分调用hasKey.
+否则，结合使用Object.keys（obj）和Array.prototype.includes（）来检查给定的key是否存在.
+
+```js
+const hasKey =（obj，key）=&gt; {
+  如果（key.includes（&#39;.&#39;））{
+    让_key = key.split（&#39;.&#39;）[0];
+    如果（typeof obj [_key] ===&#39;object&#39;）
+      返回hasKey（obj [_key]，key.slice（key.indexOf（&#39;.&#39;）+ 1））;
+  }
+  返回Object.keys（obj）.includes（key）;
+};
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+年obj = {
+  a：1，b：{c：4}，“ d.e”：5
+};
+ hasKey（obj，&#39;a&#39;）;  //正确
+ hasKey（obj，&#39;b&#39;）;  //正确
+ hasKey（obj，&#39;b.c&#39;）;  //正确
+ hasKey（obj，&#39;d.e&#39;）;  //正确
+ hasKey（obj，&#39;d&#39;）;  //错误
+ hasKey（obj，&#39;f&#39;）;  //错误
 ```
 </details>
 
@@ -6804,7 +6840,7 @@ const omitBy =（obj，fn）=&gt;
 如果没有传递“ orders”数组，则默认情况下按“ asc”排序.
 
 ```js
-const orderBy = (arr, props, orders) =>
+const orderBy =（arr，props，order）=&gt;
   [... arr] .sort（（a，b）=&gt;
     props.reduce（（acc，prop，i）=&gt; {
       如果（acc === 0）{
@@ -6821,7 +6857,7 @@ const orderBy = (arr, props, orders) =>
 
 ```js
 const users = [{{name：&#39;fred&#39;，age：48}，{name：&#39;barney&#39;，age：36}，{name：&#39;fred&#39;，age：40}]；
- orderBy（用户，[&#39;名称&#39;，&#39;年龄&#39;]，[&#39;asc&#39;，&#39;desc&#39;]））;  // [{{name：&#39;barney&#39;，age：36}，{name：&#39;fred&#39;，age：48}，{name：&#39;fred&#39;，age：40}]
+orderBy(users, ['name', 'age'], ['asc', 'desc']); // [{name: 'barney', age: 36}, {name: 'fred', age: 48}, {name: 'fred', age: 40}]
  orderBy（users，[&#39;name&#39;，&#39;age&#39;]）;  // [{{name：&#39;barney&#39;，age：36}，{name：&#39;fred&#39;，age：40}，{name：&#39;fred&#39;，age：48}]
 ```
 </details>
@@ -6874,7 +6910,7 @@ const pickBy =（obj，fn）=&gt;
 
 用提供的值替换多个对象键的名称.
 
-将Object.keys（）与Array.prototype.reduce（）和散布运算符（...）结合使用，以获取对象的键并根据keysMap对其重命名.
+结合使用Object.keys（）和Array.prototype.reduce（）和散布运算符（...）来获取对象的键，并根据keysMap对其重命名.
 
 ```js
 const namedKeys =（keysMap，obj）=&gt;
@@ -7191,7 +7227,7 @@ const decapitalize =（[[first，... rest]，upperRest = false）=&gt;
 <summary>Examples</summary>
 
 ```js
-decapitalize('FooBar'); // 'fooBar'
+ 取消资本化（&#39;FooBar&#39;）;  //&#39;fooBar&#39;
  decapitalize（&#39;FooBar&#39;，true）;  //&#39;fOOBAR&#39;
 ```
 </details>
@@ -7648,7 +7684,7 @@ const stripHTMLTags = str =&gt; str.replace（/ &lt;[^&gt;] *&gt; / g，&#39;&#3
 
 ```js
 const toCamelCase = str =&gt; {
-  令s =
+  令=
     str &amp;&amp;
     海峡
       .match（/ [AZ] {2，}（？= [AZ] [az] + [0-9] * | \ b）| [AZ] [az] + [0-9] * | [AZ] | [0-9] + / g）
@@ -7747,7 +7783,7 @@ const toTitleCase = str =&gt;
  toTitleCase（&#39;some_database_field_name&#39;）;  //&#39;某些数据库字段名称&#39;
  toTitleCase（&#39;某些标签需要加上标题大小写&#39;）;  //&#39;需要加上标题大小写的某些标签&#39;
  toTitleCase（&#39;some-package-name&#39;）;  //&#39;Some Package Name&#39;
- toTitleCase（&#39;带有spaces_underscores和连字符的some-mixed_string&#39;）;  //&#39;一些带有下划线和连字符的混合字符串&#39;
+ toTitleCase（&#39;some-mixed_string带spaces_underscores和连字符&#39;）;  //&#39;一些带有下划线和连字符的混合字符串&#39;
 ```
 </details>
 
@@ -7806,7 +7842,7 @@ unescapeHTML('&lt;a href=&quot;#&quot;&gt;Me &amp; you&lt;/a&gt;'); // '<a href=
 
 将所有给定的URL段连接在一起，然后标准化结果URL.
 
-使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后用各种正则表达式调用一系列`String.prototype.replace（）`以标准化结果URL（删除双斜杠，为协议添加适当的斜杠，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并规范化第一个参数定界符）.
+使用`String.prototype.join（&#39;/&#39;）`组合URL段，然后使用各种正则表达式对一系列`String.prototype.replace（）`进行调用以标准化结果URL（删除双斜杠，为协议添加适当的斜杠） ，在参数前删除斜线，将参数与“&#39;＆&#39;`组合在一起并规范化第一个参数定界符）.
 
 ```js
 const URLJoin =（... args）=&gt;
@@ -7889,7 +7925,7 @@ const是=（type，val）=&gt;！[，null] .includes（val）&amp;&amp; val.cons
 <summary>Examples</summary>
 
 ```js
- is（Array，[1]）;  //正确
+is(Array, [1]); // true
  is（ArrayBuffer，new ArrayBuffer（））;  //正确
  is（Map，new Map（））;  //正确
  is（RegExp，/./g）;  //正确
@@ -7913,7 +7949,7 @@ const是=（type，val）=&gt;！[，null] .includes（val）&amp;&amp; val.cons
 检查所提供的参数是否不是null，并且其Symbol.iterator属性是否为函数.
 
 ```js
-const isArrayLike = obj =&gt; obj！= null &amp;&amp; typeof obj [Symbol.iterator] ===&#39;function&#39;;
+const isArrayLike = obj => obj != null && typeof obj[Symbol.iterator] === 'function';
 ```
 
 <details>
@@ -8036,8 +8072,8 @@ const isNull = val =&gt; val === null;
 
 检查给定的参数是否为数字.
 
-使用`typeof`检查一个值是否被归类为数字原语. 
-为了防范“ NaN”，请检查“ val === val”（因为“ NaN”的“ typeof”等于“ number”，并且是唯一不等于其自身的值）.
+使用`typeof`来检查一个值是否被归类为数字原语. 
+为了防止出现“ NaN”，请检查“ val === val”是否存在（因为“ NaN”的“ typeof”等于“ number”，并且是唯一不等于其自身的值）.
 
 ```js
 const isNumber = val =&gt; typeof val ===&#39;number&#39;&amp;&amp; val === val;
@@ -8105,7 +8141,7 @@ const isObjectLike = val =&gt; val！== null &amp;&amp; typeof val ===&#39;objec
 
 检查提供的值是否是由Object构造函数创建的对象.
 
-检查提供的值是否正确，使用`typeof`检查它是否是一个对象，并使用&#39;Object.constructor&#39;确保构造函数等于`Object`.
+检查提供的值是否真实，使用`typeof`检查它是否是一个对象，并使用&#39;Object.constructor`确保构造函数等于`Object`.
 
 ```js
 const isPlainObject = val =&gt; !! val &amp;&amp; typeof val ===&#39;object&#39;&amp;&amp; val.constructor === Object;
@@ -8240,7 +8276,7 @@ const isUndefined = val =&gt; val === undefined;
 const isValidJSON = str =&gt; {
   尝试{
     JSON.parse（str）;
-    返回true；
+    return true;
   }抓住（e）{
     返回false；
   }
@@ -8346,7 +8382,7 @@ const customCoalesce = coalesceFactory（_ =&gt;！[null，undefined，``，NaN]
 
 将3位颜色代码扩展为6位颜色代码.
 
-使用Array.prototype.map（），String.prototype.split（）和Array.prototype.join（）连接映射的数组，以将3位RGB表示的十六进制颜色代码转换为6数字形式.
+使用Array.prototype.map（），String.prototype.split（）和Array.prototype.join（）连接映射的数组，以将3位RGB表示的十六进制颜色代码转换为6位数形式.
 `Array.prototype.slice()` is used to remove `#` from string start since it's added once.
 
 ```js
@@ -8379,7 +8415,7 @@ extendHex('05a'); // '#0055aa'
 ```js
 const getURLParameters = url =&gt;
   （url.match（/（[[^？=＆] +）（=（[^＆] *））/ g）|| []）.reduce（
-    (a, v) => ((a[v.slice(0, v.indexOf('='))] = v.slice(v.indexOf('=') + 1)), a),
+    （a，v）=&gt;（（（a [v.slice（0，v.indexOf（&#39;=&#39;））]] = v.slice（v.indexOf（&#39;=&#39;）+ 1）），
     {}
   );
 ```
@@ -8545,7 +8581,7 @@ const isBrowser =（）=&gt;！[typeof window，typeof document] .includes（&#3
 
 ```js
  isBrowser（）;  // true（浏览器）
- isBrowser（）;  //假（节点）
+ isBrowser（）;  // false（节点）
 ```
 </details>
 
@@ -8694,7 +8730,7 @@ randomHexColorCode(); // "#e34155"
 
 将RGB分量的值转换为颜色代码.
 
-使用按位左移运算符（`&lt;&lt;`）和`toString（16）`，然后使用String.padStart（6，&#39;0&#39;）将给定的RGB参数转换为十六进制字符串，以获取6位十六进制值.
+使用按位左移运算符（`&lt;&lt;`）和`toString（16）`，然后`String.padStart（6，&#39;0&#39;）`，将给定的RGB参数转换为十六进制字符串，以获取6位十六进制值.
 
 ```js
 const RGBToHex =（r，g，b）=&gt;（（r &lt;&lt; 16）+（g &lt;&lt; 8）+ b）.toString（16）.padStart（6，&#39;0&#39;）;
@@ -8853,7 +8889,7 @@ const validateNumber = n =&gt;！isNaN（parseFloat（n））&amp;&amp; isFinite
 
 ```js
 const yesNo =（val，def = false）=&gt;
-   / ^（y |是）$ / i.test（val）吗？  true：/ ^（n | no）$ / i.test（val）吗？  false：def;
+  /^(y|yes)$/i.test(val) ? true : /^(n|no)$/i.test(val) ? false : def;
 ```
 
 <details>

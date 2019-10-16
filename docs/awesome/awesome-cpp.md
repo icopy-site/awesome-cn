@@ -94,13 +94,13 @@
 * [Vorbis](http://xiph.org/vorbis/)  -Ogg Vorbis是一种完全开放的，非专有的，免专利和免专利费的通用压缩音频格式.  [BSD]
 * [minimp3](https://github.com/lieff/minimp3)  -具有净室实现的公共域，仅标头的MP3解码器.  [CC0]
 * [Verovio](https://github.com/rism-ch/verovio)  -Verovio是一个快速，轻便的音乐符号雕刻库.  [LGPL] [website](https://www.verovio.org)
-* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，并使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
+* [Wav2Letter++](https://github.com/facebookresearch/wav2letter/) -公共领域，一种完全用C ++编写的快速开源语音处理工具包，它使用ArrayFire张量库和手电筒机器学习库来实现最高效率[BSD]
 
 ## Biology
 *生物信息学，基因组学，生物技术*
 
 * [BioC++](http://biocpp.sourceforge.net/)  -用于生物信息学的C ++计算库.  [BSD]
-* [Chaste](http://www.cs.ox.ac.uk/chaste/)  -一个开放的C ++库，用于为生理学和生物学开发的数学模型的计算仿真.  [BSD]
+* [Chaste](http://www.cs.ox.ac.uk/chaste/)  -开源C ++库，用于为生理学和生物学开发的数学模型的计算仿真.  [BSD]
 * [libsequence](http://molpopgen.github.io/libsequence/)  -一个用于表示和分析种群遗传数据的C ++库.  [GPL]
 * [SeqAn](http://www.seqan.de/)  -以生物数据为重点的序列分析算法和数据结构.  [BSD / 3条款]
 * [Vcflib](https://github.com/ekg/vcflib)  -一个C ++库，用于解析和处理VCF文件.  [麻省理工学院]
@@ -127,9 +127,10 @@
  * [gflags](https://gflags.github.io/gflags/)  -C ++的命令行标志模块.  [BSD]
  * [linenoise](https://github.com/antirez/linenoise)  -替代readline和libedit的小型独立设备.  [BSD-2-Clause]
  * [linenoise-ng](https://github.com/arangodb/linenoise-ng)  -用于Linux，Windows和MacOS的小型便携式GNU readline替代品，能够处理UTF-8字符.  [BSD]
+ * [Lyra](https://github.com/bfgroup/Lyra)  -简单易用，可组合的C ++ 11及更高版本的命令行解析器.  [促进]
  * [Ncurses](http://invisible-island.net/ncurses/)  -终端用户界面.  [麻省理工学院]
  * [PDCurses](https://github.com/wmcbrine/PDCurses)  -公共领域的curses库，提供源代码和预编译的库.  [公共区域]
- * [replxx](https://github.com/AmokHuginnsson/replxx)  -支持UTF-8，语法高亮显示，提示的readline和libedit替换，可在Unix和Windows上使用.  [BSD]
+ * [replxx](https://github.com/AmokHuginnsson/replxx)  -支持UTF-8，语法突出显示，提示的readline和libedit替换，可在Unix和Windows上使用.  [BSD]
  * [TCLAP](http://tclap.sourceforge.net)  -一个成熟，稳定且功能丰富的库，用于在ANSI C ++中定义和访问命令行参数.  [麻省理工学院]
  * [termbox](https://github.com/nsf/termbox)  -用于编写基于文本的用户界面的AC库.  [麻省理工学院]
 
@@ -283,7 +284,7 @@
 * [backward-cpp](https://github.com/bombela/backward-cpp)  -用于C ++的漂亮堆栈跟踪漂亮打印机.  [麻省理工学院]
 * [benchmark](https://github.com/google/benchmark)  -Google提供了小型的微基准支持库.  [Apache2]
 * [Boost.Test](http://www.boost.org/doc/libs/master/libs/test/doc/html/index.html)  -增强测试库.  [促进]
-* [check](https://github.com/libcheck/check) - Check is a unit testing framework for C. [LGPL-2.1] [website](https://libcheck.github.io/check/)
+* [check](https://github.com/libcheck/check) -Check是C的单元测试框架.[LGPL-2.1] [website](https://libcheck.github.io/check/)
 * [doctest](https://github.com/onqtam/doctest)  -最轻便的功能丰富的C ++单头测试框架.  [麻省理工学院]
 * [Catch](https://github.com/philsquared/Catch)  -用于单元测试，TDD和BDD的现代，C ++原生，仅标头的框架.  [促进]
 * [Catch2](https://github.com/catchorg/Catch2)  -用于单元测试，TDD和BDD的现代，C ++原生，仅标头的测试框架.  [BSL-1.0]
@@ -386,9 +387,9 @@
 * [Irrlicht](http://irrlicht.sourceforge.net/)  -用C ++编写的高性能实时3D引擎.  [zlib]
 * [libigl](https://github.com/libigl/libigl)  -简单的C ++几何处理库.  [MPL2]
 * [LLGL](https://github.com/LukasBanana/LLGL)  -低级图形库（LLGL）是现代图形API的薄抽象层.  [BSD-3-Clause]
-* [magnum](https://github.com/mosra/magnum) - Lightweight and modular C++11/C++14 graphics middleware for games and data visualization. [MIT] [website](http://magnum.graphics)
+* [magnum](https://github.com/mosra/magnum)  -用于游戏和数据可视化的轻量级模块化C ++ 11 / C ++ 14图形中间件.  [麻省理工学院] [website](http://magnum.graphics)
 * [NanoVG](https://github.com/memononen/nanovg)  -OpenGL上的抗锯齿2D矢量绘图库，用于UI和可视化.  [Zlib]
-* [Ogre 3D](http://www.ogre3d.org/)  ：zap：-用C ++编写的面向场景的实时灵活3D渲染引擎（与游戏引擎相对）.  [麻省理工学院]
+* [Ogre 3D](http://www.ogre3d.org/)  ：zap：-用C ++编写的面向场景的实时，灵活的3D渲染引擎（与游戏引擎相对）.  [麻省理工学院]
 * [OpenSceneGraph](http://www.openscenegraph.org/)  -开源高性能3D图形工具包.  [OSGPL]
 * [OpenSubdiv](https://github.com/PixarAnimationStudios/OpenSubdiv)  -Pixar的库，用于评估和渲染CPU和GPU上的细分曲面.  [修改的Apache2]
 * [OpenVDB](http://www.openvdb.org/)  -用于存储，编辑和渲染体积数据集的库和工具.  [MPL2]
@@ -607,12 +608,12 @@
 * [mTCP](https://github.com/mtcp-stack/mtcp)  -用于多核系统的高度可扩展的用户级TCP堆栈.  [修改后的BSD]
 * [Muduo](https://github.com/chenshuo/muduo)  -Linux中用于多线程服务器的C ++非阻塞网络库.  [BSD]
 * [nghttp2](https://github.com/nghttp2/nghttp2)  -HTTP / 2 C库.  [麻省理工学院] [website](https://nghttp2.org/)
-* [Onion](https://github.com/davidmoreno/onion)  -C语言中的HTTP服务器库设计为轻量级且易于使用.  [Apache2 / GPL2]
+* [Onion](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
 * [PF_RING™](https://github.com/ntop/PF_RING)  -高速数据包处理框架.  [LGPL-2.1] [website](https://www.ntop.org/products/packet-capture/pf_ring/)
 * [PicoHTTPParser](https://github.com/h2o/picohttpparser)  -小型，原始，快速的HTTP请求/响应解析器.  [麻省理工学院]
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
 * [Proxygen](https://github.com/facebook/proxygen)  -Facebook的C ++ HTTP库集合，包括易于使用的HTTP服务器.  [BSD]
-* [RakNet](https://github.com/OculusVR/RakNet)  -面向游戏程序员的跨平台，开源C ++网络引擎.  [BSD]
+* [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
 * [restclient-cpp](https://github.com/mrtazz/restclient-cpp)  -适用于C ++的简单REST客户端.  它包装libcurl用于HTTP请求.  [麻省理工学院]
 * [Seasocks](https://github.com/mattgodbolt/seasocks)  -具有WebSockets支持的简单，小型，C ++可嵌入式Web服务器.  [BSD]
 * [Silicon](http://siliconframework.org)  -面向中间件的高性能C ++ 14 http Web框架.  [麻省理工学院]
@@ -648,7 +649,7 @@
 * [ofxBox2d](https://github.com/vanderlin/ofxBox2d)  -Box2D的openFrameworks包装器.  [类似BSD]
 * [PhysX](https://github.com/NVIDIAGameWorks/PhysX-3.4)  -由Nvidia作为Nvidia GameWorks软件套件的一部分开发的开源实时物理引擎中间件SDK.  [BSD-3-Clause] 
 * [Project Chrono](https://github.com/projectchrono/chrono)  -开源的多物理场仿真引擎.  [BSD-3-Clause] [website](https://projectchrono.org/)
-* [Simbody](https://github.com/simbody/simbody)  -高性能C ++多体动力学/物理库，用于仿真铰接式生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
+* [Simbody](https://github.com/simbody/simbody)  -高性能的C ++多体动力学/物理库，用于模拟铰接的生物力学和机械系统，例如车辆，机器人和人体骨骼.  [Apache2]
 * [Quantum++](https://github.com/vsoftco/qpp)  -现代的C ++ 11量子计算库.  [麻省理工学院]
 
 ## Reflection
@@ -661,8 +662,8 @@
 * [magic_get](https://github.com/apolukhin/magic_get)  -std :: tuple类似用户定义类型的方法，没有任何宏或样板代码.  [促进]
 * [meta](https://github.com/skypjack/meta)  -C ++中的仅标头，非侵入性且无宏的运行时反射系统.  [麻省理工学院]
 * [Nameof](https://github.com/Neargye/nameof)  -仅标头的C ++ 17库提供了nameof宏和函数，以获取变量，类型，函数，宏和枚举的简单名称.  [麻省理工学院]
-* [Ponder](https://github.com/billyquith/ponder)  -用于反射的C ++ 11库.  [麻省理工学院]
-* [RTTR](https://github.com/rttrorg/rttr)  -用于反射的C ++ 11库.  [麻省理工学院] [website](http://www.rttr.org)
+* [Ponder](https://github.com/billyquith/ponder) - A C++11 library for reflection. [MIT]
+* [RTTR](https://github.com/rttrorg/rttr) - A C++11 library for reflection. [MIT] [website](http://www.rttr.org)
 * [visit_struct](https://github.com/cbeck88/visit_struct)  -在C ++中用于结构域反射的微型库.  [BSL-1.0]
 
 ## Regular Expression
@@ -728,7 +729,7 @@
 * [Boost.Serialization](https://www.boost.org/doc/libs/master/libs/serialization/doc/index.html)  -Boost序列化库.  [促进]
 * [Cap'n Proto](https://github.com/capnproto/capnproto)  -快速的数据交换格式和基于功能的RPC系统.  [麻省理工学院] [website](https://capnproto.org/)
 * [cereal](https://github.com/USCiLab/cereal)  -一个用于序列化的C ++ 11库.  [BSD]
-* [cppcodec](https://github.com/tplgy/cppcodec) - Header-only C++11 library to encode/decode base64, base32 and hex with consistent, flexible API. [MIT]
+* [cppcodec](https://github.com/tplgy/cppcodec)  -仅标头的C ++ 11库，以一致，灵活的API编码/解码base64，base32和hex.  [麻省理工学院]
 * [FlatBuffers](https://github.com/google/flatbuffers)  -内存有效的序列化库.  [Apache2]
 * [MessagePack](https://github.com/msgpack/msgpack-c)  -适用于C和C ++的高效二进制序列化格式“如JSON”.  [Apache2] [website](http://msgpack.org/)
 * [nanopb](https://github.com/nanopb/nanopb) -ANSI C中小的代码大小的协议缓冲区实现.[Zlib]
@@ -921,7 +922,7 @@
 * [Spack](https://spack.io/)  -灵活的软件包管理器，支持多个版本，配置，平台和编译器.  [Apache-2.0 / MIT]
 * [tundra](https://github.com/deplinenoise/tundra) -高性能代码构建系统，即使对于非常大的软件项目，也可提供最佳的增量构建时间.
 * [tup](http://gittup.org/tup/) -基于文件的构建系统，可在后台监视更改的文件.
-* [Premake](http://premake.github.io) -使用Lua脚本配置的工具，可在Windows，Mac OS X和Linux上为Visual Studio，GNU Make，Xcode，Code :: Blocks等生成项目文件.
+* [Premake](http://premake.github.io) -使用Lua脚本配置的工具，可以在Windows，Mac OS X和Linux上为Visual Studio，GNU Make，Xcode，Code :: Blocks等生成项目文件.
 * [Vcpkg](https://github.com/microsoft/vcpkg)  -适用于Windows，Linux和MacOS的C ++库管理器.  [麻省理工学院]
 * [waf](https://github.com/waf-project/waf)  -基于Python的框架，用于配置，编译和安装应用程序.  [BSD] [website](https://waf.io/)
 * [XMake](https://xmake.io/)  -基于Lua的AC / C ++跨平台构建实用程序.  [Apache]
@@ -1008,7 +1009,7 @@
 *很棒的C或C ++相关视频.*
 
 * [List of C or C++ YouTube Videos](https://github.com/fffaraz/awesome-cpp/blob/master/videos.md)
-* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-面向初学者和新程序员的详细C编程语言教程的集合.
+* [Hi Def [HD]中很棒的C编程教程]（https://www.youtube.com/playlist?list=PLCB9F975ECF01953C）-适用于初学者和新程序员的详细C编程语言教程的集合.
 * [C++](https://www.youtube.com/playlist?list=PL2F919ADECA5E39A6) -由VoidRealms提供.
 * [C++ Qt Programming](https://www.youtube.com/playlist?list=PL2D1942A4688E9D63) -由VoidRealms提供.
 * [C++ Programming Tutorials Playlist](https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83) -TheNewBoston官方Buckys C ++编程教程播放列表.

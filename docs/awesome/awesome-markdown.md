@@ -19,7 +19,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 ！[Android OS] [android-os]表示**可在_Android _ **上运行. <br />
 ！[iOS徽标] [ios-logo]表示**在_iOS _ **上运行. <br />
 ！[Mac OS X] [macosx]表示**在_macOS _ **上运行. <br />
-![Linux][linux] means that **runs on _Linux_**.<br />
+！[Linux] [linux]表示**在_Linux _ **上运行. <br />
 ！[Windows] [windows]表示**在_Windows _ **上运行. <br />
 
 <!--lint disable no-paragraph-content-indent-->
@@ -79,7 +79,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 ### PHP
 
 - [parsedown](https://github.com/erusev/parsedown) -PHP中更好的Markdown解析器.
-- [php-markdown](https://github.com/michelf/php-markdown) -Markdown和Markdown Extra的解析器，由John Gruber原始Markdown.pl派生而来.
+- [php-markdown](https://github.com/michelf/php-markdown) -Markdown和Markdown Extra的解析器，由John Gruber原始Markdown.pl衍生而来.
 
 ### Python
 
@@ -98,7 +98,7 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 &gt;将Markdown转换为其他格式，反之亦然.
 
-- [csvtomd](https://github.com/mplewis/csvtomd)  -将您的CSV文件转换为Markdown表.  ！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [csvtomd](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. ![Mac OS X][macosx] ![Linux][linux] ![Windows][windows]
 - [Dimer Markdown](https://github.com/dimerapp/markdown) -将Markdown转换为HTML或JSON！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [HTML To Markdown for PHP](https://github.com/thephpleague/html-to-markdown) -使用PHP将HTML转换为Markdown.
 - [markdown-pdf](https://github.com/alanshaw/markdown-pdf) -Markdown转PDF转换器.
@@ -142,15 +142,15 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 
 ### Miscellaneous
 
-&gt;可以让您编辑，转换，导出等的Markdown文档的工具.
+&gt;可让您编辑，转换，导出等的Markdown文档的工具.
 
 - [Classeur](http://classeur.io/)  -Classeur是一个用于编写简单笔记以及技术文档和博客的新平台.  ！[地球] [地球]
-- [Dillinger](https://dillinger.io/)  -Dillinger是基于云的，可移动的，离线存储的，由AngularJS支持的HTML5 Markdown编辑器.  ！[地球] [地球]
+- [Dillinger](https://dillinger.io/)  -Dillinger是基于云的，可移动的，脱机存储的，由AngularJS支持的HTML5 Markdown编辑器.  ！[地球] [地球]
 - [GitDown](https://github.com/gajus/gitdown)  – GitHub的Markdown预处理器.  ：octocat：
 - [HackMD](https://hackmd.io)  -HackMD可让您在所有平台上创建实时协作式Markdown注释.  ！[地球] [地球]
 - [Laverna](https://laverna.cc/)  -Laverna是具有Markdown编辑器和加密支持的JavaScript笔记应用程序.  ：gem：_Markdown加密笔记！_！[Globe] [globe]！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markable.in](https://markable.in/)  -卓越的Markdown编辑器.  ！[地球] [地球]
-- [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown高亮显示._！[Apple] [apple]！[Linux] [linux]！[Windows 8] [windows8]
+- [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
 - [markcat](https://github.com/BubuAnabelas/markcat)  -Markdown文件终端查看器.  ：gem：_`cat`，Markdown突出显示._！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [Markdown Tables Generator](https://www.tablesgenerator.com/markdown_tables)  -具有CSV导入支持的Visual Markdown表构建器.  ！[地球] [地球]
@@ -163,9 +163,9 @@ _请阅读 [contribution guidelines](https://github.com/BubuAnabelas/awesome-mar
 &gt;使用Markdown创建和编辑幻灯片演示文稿.
 
 - [gitpitch](https://github.com/gitpitch/gitpitch/)  -GitHub，GitLab，Bitbucket，GitBucket，Gitea和Gogs上所有人的Markdown演示.  ！[地球] [地球]
-- [Marp](https://yhatt.github.io/marp/)  -Markdown演示作者.  ：gem：_Like PowerPoint但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
+- [Marp](https://yhatt.github.io/marp/)  -Markdown演示作者.  ：gem：_类似于PowerPoint，但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]！[Windows] [windows]
 - [mdp](https://github.com/visit1985/mdp)  -基于命令行的Markdown演示工具.  ：gem：_类似于PowerPoint和Vim，但带有Markdown！_！[Mac OS X] [macosx]！[Linux] [linux]
-- [remark](https://remarkjs.com)  -一个简单的，由浏览器内部，由Markdown驱动的幻灯片放映工具，面向熟悉HTML和CSS的人们.  ！[地球] [地球]
+- [remark](https://remarkjs.com)  -由Markdown驱动的，浏览器内的简单幻灯片演示工具，面向熟悉HTML和CSS方式的人们.  ！[地球] [地球]
 
 ## Services
 

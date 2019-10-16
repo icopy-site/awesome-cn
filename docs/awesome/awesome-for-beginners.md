@@ -121,7 +121,7 @@
 - [Reddit Enhancement Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite/labels/help%20wanted)  _（标签：需要帮助）_ <br>  浏览器扩展，可增强Reddit浏览体验.
 - [Brave Browser](https://github.com/brave/brave-browser/labels/good%20first%20bug)  _（标签：良好的第一个错误）_ <br>  适用于macOS，Windows和Linux的桌面浏览器.
 - [Fastify](https://github.com/fastify/fastify/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用于Node.js的快速，低开销的Web框架.
-- [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue) _(label: good first issue)_ <br> JavaScript runtime built on Chrome's V8 JavaScript engine
+- [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
 - [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
@@ -129,7 +129,7 @@
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
 - [Vue.js](https://github.com/vuejs/vue/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  渐进式JavaScript框架.
-- [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  用降价创建一个网页.
+- [md-page](https://github.com/oscarmorrison/md-page/labels/good%20first%20issue) _(label: good first issue)_ <br> Create a webpage with just markdown.
 - [Check It Out](https://github.com/jwu910/check-it-out/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Check It Out是一种类似于ncurses的CLI，可让用户以交互方式导航并选择git分支进行检出.
 - [nuclear](https://github.com/nukeop/nuclear/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  来自免费资源的多平台音乐播放器.
 - [material-ui](https://github.com/mui-org/material-ui/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  React组件可以更快，更轻松地进行Web开发.  建立自己的设计系统，或从材料设计开始.
@@ -187,7 +187,7 @@
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特殊）_ <br>  用于后端Web开发的Python实现.
-- [wemake-python-stylegide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter！
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用最佳实践创建aiohttp模板的命令行实用程序.
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个开源的chat-ops bot框架.
@@ -214,6 +214,7 @@
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
 - [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源客户支持平台，可以替代Intercom，Zendesk，Drift，Crisp等.
+- [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Ruby on Rails（Rails）是一个用Ruby编写的开源Web应用程序框架.
 
 ## Rust
 
@@ -235,6 +236,7 @@
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript的超集，可编译为干净的JavaScript输出.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一种新型工具，结合了代码编辑器的简单性和开发人员对其核心edit-build-debug周期的需求.
 - [tslint-eslint-rules](https://github.com/buzinas/tslint-eslint-rules/labels/nice%20first%20contribution)  _（标签：不错的第一笔捐款）_ <br>  TSLint的ESLint规则.
+- [reatom](https://github.com/artalar/reatom/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Reatom是声明式和反应式状态管理器，设计用于简单和复杂的应用程序.
 
 ## Contribute
 
