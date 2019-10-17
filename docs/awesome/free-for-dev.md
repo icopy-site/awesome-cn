@@ -158,7 +158,7 @@
 
   * [tachikoma.io](https://tachikoma.io/) — Ruby，Node.js，Perl项目的依赖关系更新，免费提供给开源
   * [landscape.io](https://landscape.io/) — Python项目的代码质量，开源免费
-  * [codeclimate.com](https://codeclimate.com/)  —自动化代码审查，免费提供给开源和不受组织限制的私人私有存储库（最多4个合作伙伴）.  对学生和机构也免费.
+  * [codeclimate.com](https://codeclimate.com/)  —自动化代码审查，免费提供给开放源代码和无限制的组织拥有的私有存储库（最多4个合作伙伴）.  对学生和机构也免费.
   * [houndci.com](https://houndci.com/) —对GitHub提交的有关代码质量的评论，免费提供给开源
   * [coveralls.io](https://coveralls.io/) —显示测试覆盖率报告，免费提供给开源
   * [scrutinizer-ci.com](https://scrutinizer-ci.com/) —连续检查平台，免费提供给开源
@@ -222,7 +222,7 @@
 
   * [pyup.io](https://pyup.io)  —监视Python依赖关系以发现安全漏洞并自动更新它们.  一个私有项目免费，开放源代码无限个项目.
   * [threatconnect.com](https://threatconnect.com)  —威胁情报：它是为开始学习网络威胁情报的个人研究人员，分析人员和组织而设计的.  最多释放3位用户
-  * [crypteron.com](https://www.crypteron.com/) —面向开发人员的云优先，对开发人员友好的安全平台可防止.NET和Java应用程序中的数据泄露
+  * [crypteron.com](https://www.crypteron.com/) -面向开发人员的云优先，安全友好的安全平台可防止.NET和Java应用程序中的数据泄露
   * [snyk.io](https://snyk.io) — Snyk在程序包中发现并报告了多个漏洞.仅限于1个私人项目（对于开源项目不限）
   * [letsencrypt.org](https://letsencrypt.org/) —具有所有主要浏览器都信任的证书的免费SSL证书颁发机构
   * [globalsign.com](https://www.globalsign.com/en/ssl/ssl-open-source/) —开源的免费SSL证书
@@ -305,7 +305,7 @@
   * [assertible.com](https://assertible.com)  —自动化的API测试和监视.  为团队和个人提供免费计划.
   * [opsgenie.com](https://www.opsgenie.com/)  —强大的警报和通话管理功能，用于操作始终在线的服务.  最多释放5个用户.
   * [paessler.com](https://www.paessler.com/)  —强大的基础架构和网络监控解决方案，包括警报，强大的可视化功能和基本报告.  释放多达100个传感器.
-  * [pagertree.com](https://pagertree.com/)  -简单的警报和通话管理界面.  释放最多5位用户.
+  * [pagertree.com](https://pagertree.com/)  -简单的警报和通话管理界面.  最多释放5个用户.
 
 ## Crash and Exception Handling
 
@@ -433,7 +433,7 @@
   * [pantheon.io](https://pantheon.io/)  — Drupal和WordPress托管，自动化的DevOps和可扩展的基础架构.  开发人员和代理商免费
   * [acquia.com](https://www.acquia.com/)  —托管Drupal网站.  开发人员的免费套餐.  还提供免费的开发工具（例如Acquia Dev Desktop）
   * [readthedocs.org](https://readthedocs.org/) —免费文档托管，包括版本控制，PDF生成等
-  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用程序，每月免费100位访客，2个应用程序
+  * [bubble.is](https://bubble.is/) —可视化编程，无需代码即可构建Web和移动应用程序，每月免费100位访问者，2个应用程序
   * [contentful.com](https://www.contentful.com/)  —内容即服务.  云中的内容管理和交付API.  每月免费提供3个用户，3个存储库和100,000个API请求
   * [tilda.cc](https://tilda.cc/) —一个站点，50个页面，50 MB的存储空间，只有170个以上可用的主要预定义块，没有字体，没有网站图标，也没有自定义域
   * [surge.sh](https://surge.sh/)  —面向前端开发人员的静态Web发布.  具有自定义域支持的无限站点
@@ -576,6 +576,7 @@
   * [designer.io](https://www.designer.io/)  —用于UI，插图等的设计工具.  有一个本机应用程序.  自由
   * [photopea.com](https://www.photopea.com) —具有Adobe Photoshop UI的免费，高级在线设计编辑器，支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
   * [pexels.com](https://www.pexels.com/)  -免费的商业照片.  有免费的API，可让您按关键字搜索照片.
+  * [whimsical.com](https://whimsical.com/)  -协作流程图，线框，便签和思维导图.  最多创建4个免费板.
 
 ## Data Visualization on Maps
 
@@ -614,7 +615,7 @@
    * [codesandbox.io](https://codesandbox.io/) — React，Vue，Angular，Preact等的在线游乐场
    * [stackblitz.com](https://stackblitz.com/) — Angular＆React在线VS Code IDE
    * [cacher.io](https://www.cacher.io) —带有标签的代码片段组织器，并支持100多种编程语言
-   * [Coder](https://coder.com)  —该平台可为您提供围绕Visual Studio Code构建的整个开发环境.  在免费套餐中，您将获得2GB的项目和2GB的容器空间，以及5个小时的Fast Time（快速时间），如果启用，则可动态扩展您的容器.
+   * [Coder](https://coder.com)  —该平台可为您提供围绕Visual Studio Code构建的整个开发环境.  在免费套餐中，您将获得2GB的项目和2GB的容器空间，以及5个小时的Fast Time（快速时间），如果启用，则可动态扩展容器.
    * [gitpod.io](https://www.gitpod.io)  —用于GitHub项目的即时，可编写代码的开发环境.  免费开源.
    * [Katacoda](https://katacoda.com) —用于软件工程师的交互式学习和培训平台，可帮助开发人员学习和公司提高采用率.
    * [JDoodle](https://www.jdoodle.com) —用于60多种编程语言的在线编译器和编辑器，并提供免费的REST API代码计划，每天最多可编译200学分.

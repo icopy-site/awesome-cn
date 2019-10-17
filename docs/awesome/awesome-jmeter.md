@@ -108,7 +108,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
         - [Performance Testing in the Cloud with JMeter & AWS](http://www.artofsoftwaredevelopment.com/performance/performance-testing-in-the-cloud-with-jmeter-aws)
         - [JMeter distributed testing with Amazon EC2](https://vedovini.net/2009/08/jmeter-distributed-testing-with-amazon-ec2/)
     -DigitalOcean
-        - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) -使用Digital Ocean，JMeter和Docker构建自己的JMeter Cloud.
+        - [Lightweight JMeter Cloud](https://docs.google.com/presentation/d/1Yi5C27C3Q0AnT-uw9SRnMeEqXSKLQ8h9O9Jqo1gQiyI/) - Building your own JMeter Cloud using Digital Ocean, JMeter and Docker.
 
 ## Cloud Services / SaaS
 
@@ -215,6 +215,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [Pro Apache JMeter: Web Application Performance Testing](https://books.google.com/books?id=YJ4xDwAAQBAJ) 由Sai Matam和Jagdeep Jain（[Apress](https://www.apress.com/gp/book/9781484229606))
 - [Master Apache JMeter: From load testing to DevOps](https://books.google.com/books?id=D_amDwAAQBAJ) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/master-jmeter-from-load-test-to-devops), [Packt Publishing](https://www.packtpub.com/programming/master-apache-jmeter-from-load-testing-to-devops))
 - [Maîtriser JMeter: Du Test de charge à Devops](http://samples.leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops-sample.pdf) 由Antonio Gomes Rodrigues，Bruno Demion（米兰）和Philippe Mouawad（[Leanpub](https://leanpub.com/maitriser-jmeter-du-test-de-charge-a-devops)）*（法语）*
+- [Advanced JMeter Testing](https://leanpub.com/advanced_jmeter_testing) 由Penny Curich（[Leanpub](https://leanpub.com/advanced_jmeter_testing)）-为Apache JMeter 5.0编写自定义组件的指南.
 
 ## Trainings & Courses
 
@@ -259,7 +260,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [@jmeter_plugins](https://twitter.com/jmeter_plugins) -JMeter负载测试工具的自定义插件项目的Twitter帐户.
 - [@BlazeMeter](https://twitter.com/BlazeMeter) -基于JMeter的DevOps性能工程平台Blazemeter的官方Twitter帐户.
 - [@masterjmeter](https://twitter.com/masterjmeter) -的官方帐户 [Master Apache JMeter from Load Testing to DevOps](#books) 书.
-- [@ubikloadpack](https://twitter.com/ubikloadpack) - Twitter account of [Ubik Load Pack](#plugins)，用于视频流和复杂协议负载测试的自定义JMeter插件.
+- [@ubikloadpack](https://twitter.com/ubikloadpack) -的Twitter帐户 [Ubik Load Pack](#plugins)，用于视频流和复杂协议负载测试的自定义JMeter插件.
 
 ### Q&A
 

@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-游戏网络是计算机网络的子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
+游戏联网是计算机联网的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
 -多人在线游戏编程中涉及的更多技术.
 
 **阅读后请随时贡献您的_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
@@ -16,7 +16,7 @@
 - [Gaffer on Games](https://web.archive.org/web/https://gafferongames.com/) -Glenn Fiedler的可靠UDP协议和游戏网络开发文章.
 - [Game Server Architecture](https://web.archive.org/web/https://gameserverarchitecture.com/) -Matthew Walker的多人游戏服务器架构博客.
 - [High Performance Browser Networking](https://hpbn.co/) -Ilya Grigorik撰写的关于现代Web协议的出色的免费在线书籍.
-- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) -Armin Ronacher对《战地风云3》多人射击机制的分析.
+- [How a Shooter Shoots](https://kotaku.com/5869564/networking-how-a-shooter-shoots) - Armin Ronacher's analysis on Battlefield 3's shooting mechanism in multiplayer.
 - [Impact Of Latency In Wireless Networks For Real-time Multiplayer Games On Mobile Devices](https://ntnuopen.ntnu.no/ntnu-xmlui/bitstream/handle/11250/2352307/11752_FULLTEXT.pdf) -学术论文.
 - [IT Hare on Network Programming](http://ithare.com/category/network-programming/) -IT Hare团队的详细网络编程文章.
 - [NAT Punch-through for Multiplayer Games](https://keithjohnston.wordpress.com/2014/02/17/nat-punch-through-for-multiplayer-games/) -Keith Johnston简要介绍了NAT和P2P连接.
@@ -32,7 +32,7 @@
 - [The Case of the Quake Cheats](http://www.catb.org/esr/writings/quake-cheats.html) -通过ID Software从Quake 1中了解了有关客户端-服务器模型的安全性课程.
 - [The DOOM III Network Architecture](http://mrelusive.com/publications/papers/The-DOOM-III-Network-Architecture.pdf) -改进了Quake III Arena中使用的以前的网络体系结构.
 - [The Poor Man's Netcode](http://etodd.io/2018/02/20/poor-mans-netcode/) -Evan Todd的项目代码和有关网络挑战的详细博客文章.
-- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) -Mark Frohnmayer和Tim Gift撰写的Tribes II的网络模型论文.
+- [The TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf) -Mark Frohnmayer和Tim Gift撰写的Tribes I＆II的网络模型论文.
 - [Tick Based Lag Compensation in Unity](https://twotenpvp.github.io/lag-compensation-in-unity.html) -AlbinCorén进行更精确拍摄的案例.
 - [Unity Physics and Client-Side Prediction](http://www.codersblock.org/blog/client-side-prediction-in-unity-2018) -演示项目和Joe Best-Rotheray撰写的详细的方法博客文章.
 - [Unity UNET HLAPI and Steam P2P Networking](https://blog.spacewavesoftware.com/gamedev/2017-10-28-unity-unet-hlapi-and-steam-p2p-networking/) -Justin Rempel的示例项目和详细的博客文章.
@@ -93,6 +93,7 @@
   - [ENet](http://enet.bespin.org/) -简单而强大的可靠UDP网络库.
   - [GameNetworkingSockets](https://github.com/ValveSoftware/GameNetworkingSockets) -游戏的Valve内部（蒸汽）网络传输层.
   - [RakNet](https://github.com/facebookarchive/RakNet) -功能齐全且成熟可靠的UDP网络引擎.
+  - [TNL2](https://github.com/nardo/tnl2) -（非活动）扭矩网络库2 [TRIBES Engine Networking Model](https://www.gamedevs.org/uploads/tribes-networking-model.pdf).
   - [yojimbo](https://github.com/networkprotocol/yojimbo) -带有专用服务器的客户端/服务器游戏的可靠UDP网络库.
 - C#
   - [Barebones Master Server](https://github.com/alvyxaz/barebones-masterserver) -具有身份验证，个人资料，大厅，Unity聊天功能的后端框架.
@@ -113,8 +114,9 @@
 
 -虚幻引擎
   - [CharacterMovementReplication](https://github.com/error454/CharacterMovementReplication-UE4) -为CharacterMovementComponent添加冲刺功能的项目.
-  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) - 3rd-person co-op multiplayer horde shooter game tutorial project.
+  - [CoopHordeShooter](https://github.com/tomlooman/CoopHordeShooter) -第三人称合作多人部落射击游戏教程项目.
   - [EpicSurvivalGame](https://github.com/tomlooman/EpicSurvivalGameSeries) -第三人称多人僵尸生存游戏教程项目.
+  - [GASDocumentation](https://github.com/tranek/GASDocumentation) -具有详细游戏功能系统文档的第三人称多人射击游戏.
 -团结
   - [AuthoritativeMovementExample](https://github.com/Relic/AuthoritativeMovementExample) -使用Forge Networking for Unity的服务器权威性移动项目.
   - [Angry Bots Multiplayer](https://assetstore.unity.com/packages/templates/photon-angry-bots-multiplayer-showcase-1917) -基于光子PUN的多人自上而下的射击项目.

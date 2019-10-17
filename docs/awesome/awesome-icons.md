@@ -17,12 +17,15 @@
 - [Eva icons](https://github.com/akveo/eva-icons#readme)  -一包超过480个制作精美的开源图标.  （[Website](https://akveo.github.io/eva-icons))
 - [Evil icons](https://github.com/evil-icons/evil-icons#readme)  -简单干净的SVG图标包，其中包含支持Rails，Sprockets，Node.js，Gulp，Grunt和CDN的代码.  （[Website](http://evil-icons.io))
 - [Feather](https://github.com/feathericons/feather#readme)  -简单漂亮的开源图标.  （[Website](https://feathericons.com))
+ -Flaticon-最大的免费矢量图标数据库.  （[Website](https://flaticon.com))
 - [Font Awesome](https://github.com/FortAwesome/Font-Awesome#readme)  -标志性的SVG，字体和CSS工具包.  （[Website](https://fontawesome.com))
 - [Ion icons](https://github.com/ionic-team/ionicons#readme)  -适用于所有地方的Ionic Framework和Web应用程序的高级图标字体.  （[Website](https://ionicons.com))
 - [Material design icons](https://github.com/google/material-design-icons#readme)  -Google提供的Material Design图标.  （[Website](https://material.io/tools/icons))
 - [Octicons](https://github.com/primer/octicons#readme)  -GitHub用&lt;3手工制作的可缩放图标集.  （[Website](https://octicons.github.com))
 - [Open Iconic](https://github.com/iconic/open-iconic#readme)  -Open Iconic是Iconic的开源同级产品.  （[Website](https://useiconic.com/open))
+ -Shape.so-可自定义的动画图标和插图，可导出为代码.  （[Website](https://shape.so))
 - [Super Tiny Icons](https://github.com/edent/SuperTinyIcons#readme) -您喜欢的网站和应用程序徽标的微型SVG版本，每个版本1KB以下.
+- [The Noun Project](https://thenounproject.com/) -各种图标，由全球社区创建的超过200万种精选图标.
 - [Unicons](https://github.com/iconscout/unicons)  -下一个项目的1000+像素完美矢量图标和图标字体.  （[Website](https://iconscout.com/unicons))
 - [VSCode Icons](https://github.com/microsoft/vscode-icons#readme) -Visual Studio Code中使用的图标的明暗版本.
 - [Weather icons](https://github.com/erikflowers/weather-icons#readme) -天气主题图标和CSS.
@@ -63,6 +66,7 @@
 
 - [Heroicons](https://www.heroicons.com) -您的营销网站的独特图标集.
 - [Iconic](https://useiconic.com) -专为现代网络设计的权威图标集.
+- [Nucelo Icons](https://nucleoapp.com/premium-icons) -优质的SVG图标库，适用于iOS，Android和Web项目.
 
 
 ## License

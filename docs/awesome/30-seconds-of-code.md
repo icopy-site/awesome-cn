@@ -11,7 +11,7 @@
 
 *使用<kbd>Ctrl</kbd> + <kbd>F</kbd>或<kbd>Command</kbd> + <kbd>F</kbd>搜索代码段.
 *欢迎捐款，请阅读 [contribution guide](https://github.com/30-seconds/30-seconds-of-code/blob/master/CONTRIBUTING.md).
-*片段是用ES6编写的，请使用 [Babel transpiler](https://babeljs.io/) 确保向后兼容.
+* Snippets are written in ES6, use the [Babel transpiler](https://babeljs.io/) 确保向后兼容.
 * You can import these snippets into VSCode, by following the instructions found [here](https://github.com/30-seconds/30-seconds-of-code/tree/master/vscode_snippets).
 *您可以使用以下命令中的CLI应用程序从终端搜索，查看和复制这些片段 [this repo](https://github.com/sQVe/30s).
 *如果您想在社交媒体上遵循30秒的代码，可以在以下位置找到我们 [Facebook](https://www.facebook.com/30secondsofcode), [Instagram](https://www.instagram.com/30secondsofcode) 和 [Twitter](https://twitter.com/30secondsofcode).
@@ -416,7 +416,7 @@ const spreadOver = fn =&gt; argsArr =&gt; fn（... argsArr）;
 
 ```js
 const arrayMax = spreadOver（Math.max）;
-arrayMax([1, 2, 3]); // 3
+ arrayMax（[1,2,3]）;  // 3
 ```
 </details>
 
@@ -450,7 +450,7 @@ const unary = fn =&gt; val =&gt; fn（val）;
 如果提供的谓词函数对集合中的所有元素都返回“ true”，则返回“ true”，否则返回“ false”.
 
 使用Array.prototype.every（）来测试集合中的所有元素是否都基于fn返回true.
-省略第二个参数`fn`，以使用`Boolean&#39;作为默认值.
+Omit the second argument, `fn`, to use `Boolean` as a default.
 
 ```js
 const all =（arr，fn = Boolean）=&gt; arr.every（fn）;
@@ -492,7 +492,7 @@ const allEqual = arr =&gt; arr.every（val =&gt; val === arr [0]）;
 如果提供的谓词函数对集合中的至少一个元素返回“ true”，则返回“ true”，否则返回“ false”.
 
 使用Array.prototype.some（）来测试集合中是否有任何元素基于fn返回true.
-省略第二个参数`fn`，以使用`Boolean&#39;作为默认值.
+Omit the second argument, `fn`, to use `Boolean` as a default.
 
 ```js
 const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
@@ -513,7 +513,7 @@ const any =（arr，fn = Boolean）=&gt; arr.some（fn）;
 将二维数组转换为逗号分隔值（CSV）字符串.
 
 使用Array.prototype.map（）和Array.prototype.join（delimiter）将单个一维数组（行）组合成字符串.
-Use `Array.prototype.join('\n')` to combine all rows into a CSV string, separating each row with a newline.
+使用`Array.prototype.join（&#39;\ n&#39;）`将所有行合并为CSV字符串，并用换行符分隔每一行.
 省略第二个参数`delimiter`，以使用默认定界符`，`.
 
 ```js
@@ -1300,7 +1300,7 @@ isSorted常量= ARR =&gt; {
 
 ```js
  isSorted（[0，1，2，2]）;  // 1
-isSorted([4, 3, 2]); // -1
+ isSorted（[4，3，2]）;  // -1
  isSorted（[4，3，5]）;  // 0
 ```
 </details>
@@ -1322,8 +1322,8 @@ const join =（arr，分隔符=&#39;，&#39;，end =分隔符）=&gt;
       我===长度-2
          ？  acc + val +结束
         ：i ===长度-1
-           ？  acc + val
-          ：acc + val +分隔符，
+         ？  acc + val
+        ：acc + val +分隔符，
     ''
   );
 ```
@@ -1345,7 +1345,7 @@ const join =（arr，分隔符=&#39;，&#39;，end =分隔符）=&gt;
 使用Array.prototype.join（delimiter）组合列中的所有名称以创建第一行.
 使用Array.prototype.map（）和Array.prototype.reduce（）为每个对象创建一行，用空字符串替换不存在的值，仅映射“列”中的值.
 使用Array.prototype.join（&#39;\ n&#39;）将所有行合并为一个字符串.
-省略第三个参数“定界符”，以使用默认定界符“，”.
+Omit the third argument, `delimiter`, to use a default delimiter of `,`.
 
 ```js
 const JSONtoCSV =（arr，columns，delimiter =&#39;，&#39;）=&gt;
@@ -1487,7 +1487,7 @@ const minN =（arr，n = 1）=&gt; [... arr] .sort（（a，b）=&gt; a-b）.sli
 如果提供的谓词函数对集合中的所有元素都返回“ false”，则返回“ true”，否则返回“ false”.
 
 使用Array.prototype.some（）来测试集合中是否有任何元素基于fn返回true.
-省略第二个参数`fn`，以使用`Boolean&#39;作为默认值.
+Omit the second argument, `fn`, to use `Boolean` as a default.
 
 ```js
 const none =（arr，fn = Boolean）=&gt;！arr.some（fn）;
@@ -1693,7 +1693,7 @@ const pullAtValue =（arr，pullArr）=&gt; {
 
 根据给定的迭代器函数，对原始数组进行突变以滤除指定的值.
 
-Check if the last argument provided in a function.
+检查函数中是否提供了最后一个参数.
 使用Array.prototype.map（）将迭代器函数fn应用于所有数组元素.
 使用Array.prototype.filter（）和Array.prototype.includes（）提取不需要的值.
 使用“ Array.prototype.length = 0”通过将其传递的长度重置为零来更改传递的数组，并使用“ Array.prototype.push（）”仅使用提取的值重新填充它.
@@ -1837,7 +1837,7 @@ const remove =（arr，func）=&gt;
   Array.isArray（arr）
      ？  arr.filter（func）.reduce（（acc，val）=&gt; {
         arr.splice（arr.indexOf（val），1）;
-        返回acc.concat（val）;
+        return acc.concat(val);
       }, [])
     : [];
 ```
@@ -2245,7 +2245,7 @@ const takeRight =（arr，n = 1）=&gt; arr.slice（arr.length-n，arr.length）
 
 ```js
 const takeRightWhile =（arr，func）=&gt;
-  arr.reduceRight((acc, el) => (func(el) ? acc : [el, ...acc]), []);
+  arr.reduceRight（（acc，el）=&gt;（func（el）？acc：[el，... acc]），[]）;
 ```
 
 <details>
@@ -2284,7 +2284,7 @@ const takeWhile =（arr，func）=&gt; {
 
 将给定的类数组简化为值哈希（键控数据存储）.
 
-Given an Iterable or Array-like structure, call `Array.prototype.reduce.call()` on the provided object to step over it and return an Object, keyed by the reference value.
+给定一个Iterable或类似Array的结构，请在提供的对象上调用Array.prototype.reduce.call（）以遍历它，并返回一个由参考值作为键的对象.
 
 ```js
 const toHash =（object，key）=&gt;
@@ -2303,7 +2303,7 @@ const toHash =（object，key）=&gt;
  toHash（[{a：&#39;label&#39;}]，&#39;a&#39;）;  // {标签：{a：&#39;label&#39;}}
 //更深入的示例：
 let users = [{{id：1，first：&#39;Jon&#39;}，{id：2，first：&#39;Joe&#39;}，{id：3，first：&#39;Moe&#39;}];
-让经理= [{经理：1，雇员：[2，3]}];
+let managers = [{ manager: 1, employees: [2, 3] }];
 //我们在这里使用function是因为我们想要一个可绑定的引用，但是引用哈希的闭包也将起作用.
 managers.forEach(
   经理=&gt;
@@ -2919,7 +2919,7 @@ const elementContains =（parent，child）=&gt; parent！== child &amp;&amp; pa
 <summary>Examples</summary>
 
 ```js
-elementContains(document.querySelector('head'), document.querySelector('title')); // true
+ elementContains（document.querySelector（&#39;head&#39;），document.querySelector（&#39;title&#39;））;  //正确
  elementContains（document.querySelector（&#39;body&#39;），document.querySelector（&#39;body&#39;））;  //错误
 ```
 </details>
@@ -2934,7 +2934,7 @@ elementContains(document.querySelector('head'), document.querySelector('title'))
 它是部分可见的.
 
 ```js
-const elementIsVisibleInViewport = (el, partiallyVisible = false) => {
+const elementIsVisibleInViewport =（el，partialVisible = false）=&gt; {
   const {top，left，bottom，right} = el.getBoundingClientRect（）;
   const {innerHeight，innerWidth} =窗口；
   部分返回
@@ -2991,7 +2991,7 @@ formToObject(document.querySelector('#form')); // { email: 'test@email.com', nam
 ```js
 const getImages =（el，includeDuplicates = false）=&gt; {
   const images = [... el.getElementsByTagName（&#39;img&#39;）].map（img =&gt; img.getAttribute（&#39;src&#39;））;
-  return includeDuplicates ? images : [...new Set(images)];
+   返回includeDuplicates吗？  图片：[...新集（图片）];
 };
 ```
 
@@ -3427,14 +3427,14 @@ redirect('https://google.com');
 使用以下命令在单独的线程中运行函数 [Web Worker](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)，允许长时间运行的功能不会阻塞UI.
 
 使用Blob对象URL创建一个新的Worker，其内容应为所提供函数的字符串化版本.
-立即发布回调该函数的返回值.
+Immediately post the return value of calling the function back.
 返回承诺，侦听onmessage和onerror事件，并解决从工作人员回传的数据，或者引发错误.
 
 ```js
 const runAsync = fn =&gt; {
   const worker = new Worker（
     URL.createObjectURL（new Blob（[`Message（（$ {fn}）（））;`]），{
-      type: 'application/javascript; charset=utf-8'
+       类型：“ application / javascript;  charset = utf-8&#39;
     })
   );
   返回新的Promise（（res，rej）=&gt; {
@@ -3758,10 +3758,10 @@ const getMeridiemSuffixOfInteger = num =&gt;
    是否=== 0 ||  ===是否24
      ？  12 +&#39;am&#39;
     ：num === 12
-       ？  12 +&#39;pm&#39;
-      ：num &lt;12
-         ？  （num％12）+&#39;am&#39;
-        ：（无论12％）PM“;
+     ？  12 +&#39;pm&#39;
+    ：num &lt;12
+     ？  （num％12）+&#39;am&#39;
+    ：（无论12％）PM“;
 ```
 
 <details>
@@ -4050,7 +4050,7 @@ const bindKey =（上下文，fn，... boundArgs）=&gt;（... args）=&gt;
 
 ```js
 const freddy = {
-  用户：“ fred”，
+  user: 'fred',
   问候：功能（问候，标点符号）{
     返回问候语+&#39;&#39;+ this.user +标点符号；
   }
@@ -4119,7 +4119,7 @@ const lengthIs4 = checkProp（l =&gt; l === 4，&#39;length&#39;）;
  lengthIs4（[1,2,3,4]）;  //正确
  lengthIs4（new Set（[1,2,3,4]））;  // false（设置使用Size，而不是length）
 
-const session = { user: {} };
+const session = {用户：{}};
 const validUserSession = checkProps（u =&gt; u.active &amp;&amp;！u.disabled，&#39;user&#39;）;
 
  validUserSession（session）;  //错误
@@ -4178,7 +4178,7 @@ const composeRight =（... fns）=&gt; fns.reduce（（f，g）=&gt;（... args�
 ```js
 const add =（x，y）=&gt; x + y;
 const square = x =&gt; x * x;
-const addAndSquare = composeRight（add，square）;
+const addAndSquare = composeRight(add, square);
  addAndSquare（1，2）;  // 9
 ```
 </details>
@@ -4380,7 +4380,7 @@ const sumForLoop =（）=&gt; {
 
 通过实例化一个新的Map对象来创建一个空的缓存.
  通过首先检查该特定输入值的函数输出是否已被缓存，返回存储一个参数的函数，该参数将被提供给已记忆的函数；否则，将其存储并返回.  必须使用关键字function，以便在必要时允许记忆的功能对其this上下文进行更改.
-通过将其设置为返回函数的属性来允许访问“缓存”.
+Allow access to the `cache` by setting it as a property on the returned function.
 
 ```js
 const memoize = fn =&gt; {
@@ -4541,9 +4541,9 @@ const sleep = ms =&gt; new Promise（resolve =&gt; setTimeout（resolve，ms）�
 
 
 
-Creates a throttled function that only invokes the provided function at most once per every `wait` milliseconds
+创建一个限制的函数，每“ wait”毫秒最多只能调用一次提供的函数
 
-Use `setTimeout()` and `clearTimeout()` to throttle the given method, `fn`.
+使用setTimeout（）和clearTimeout（）限制给定的方法fn.
 使用Function.prototype.apply（）将this上下文应用于函数并提供必要的参数.
 使用`Date.now（）`来跟踪上一次调用受限制的函数的时间.
 省略第二个参数“ wait”，将超时设置为默认值0 ms.
@@ -4756,7 +4756,7 @@ const averageBy =（arr，fn）=&gt;
 
 ### binomialCoefficient
 
-计算两个整数“ n”和“ k”的二项式系数.
+Evaluates the binomial coefficient of two integers `n` and `k`.
 
 使用Number.isNaN（）检查两个值是否为NaN.
 检查“ k”是否小于“ 0”，大于或等于“ n”，等于“ 1”或“ n-1”，并返回适当的结果.
@@ -4848,7 +4848,7 @@ const digitize = n =&gt; [... $ {n}`] .map（i =&gt; parseInt（i））;
 
 ### distance
 
-返回两点之间的距离.
+Returns the distance between two points.
 
 使用Math.hypot（）计算两点之间的欧几里得距离.
 
@@ -4917,7 +4917,7 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 计算数字的阶乘.
 
 使用递归.
-如果n小于或等于1，则返回1.
+If `n` is less than or equal to `1`, return `1`.
 否则，返回“ n”和阶乘“ n-1”的乘积.
 如果n为负数，则抛出异常.
 
@@ -4925,11 +4925,11 @@ const elo =（[... ratings]，kFactor = 32，selfRating）=&gt; {
 const factorial = n =&gt;
   n &lt;0
     ? (() => {
-      抛出新的TypeError（&#39;不允许使用负数！&#39;）;
-    })()
+        抛出新的TypeError（&#39;不允许使用负数！&#39;）;
+      })()
     ：n &lt;= 1
-      ? 1
-      ：n *阶乘（n-1）;
+    ? 1
+    ：n *阶乘（n-1）;
 ```
 
 <details>
@@ -5521,7 +5521,7 @@ const sdbm = str =&gt; {
 
 使用Array.prototype.reduce（）计算平均值，方差和值方差之和，值方差，然后
 确定标准偏差.
-You can omit the second argument to get the sample standard deviation or set it to `true` to get the population standard deviation.
+您可以省略第二个参数以获取样本标准偏差，或者将其设置为“ true”以获取总体标准偏差.
 
 ```js
 const standardDeviation =（arr，usePopulation = false）=&gt; {
@@ -5588,7 +5588,7 @@ sumBy（[{n：4}，{n：2}，{n：8}，{n：6}]，o =&gt; on）; // 20
 
 返回从“开始”到“结束”（包括两端）的所有数字的幂的和.
 
-使用Array.prototype.fill（）创建目标范围内所有数字的数组，使用Array.prototype.map（）和指数运算符（**）将其提高为幂，然后使用Array.prototype.reduce（）将它们添加在一起.
+Use `Array.prototype.fill()` to create an array of all the numbers in the target range, `Array.prototype.map()` and the exponent operator (`**`) to raise them to `power` and `Array.prototype.reduce()` to add them together.
 忽略第二个参数power，以使用默认的power 2.
 忽略第三个参数“ start”以使用默认的起始值“ 1”.
 
@@ -5644,7 +5644,7 @@ const vectorDistance =（... coords）=&gt; {
   让pointLength = Math.trunc（coords.length / 2）;
   让总和=坐标
     .slice（0，pointLength）
-    .reduce（（acc，val，i）=&gt; acc + Math.pow（val-coords [pointLength + i]，2），0）;
+    .reduce((acc, val, i) => acc + Math.pow(val - coords[pointLength + i], 2), 0);
   返回Math.sqrt（sum）;
 };
 ```
@@ -5951,7 +5951,7 @@ const JSONToFile =（obj，文件名）=&gt;
 <summary>Examples</summary>
 
 ```js
- JSONToFile（{test：&#39;passed&#39;}，&#39;testJsonFile&#39;）;  //将对象写入“ testJsonFile.json”
+JSONToFile({ test: 'is passed' }, 'testJsonFile'); // writes the object to 'testJsonFile.json'
 ```
 </details>
 
@@ -6090,8 +6090,8 @@ const deepClone = obj =&gt; {
   return Array.isArray(obj) && obj.length
      ？  （clone.length = obj.length）&amp;&amp; Array.from（clone）
     ：Array.isArray（obj）
-       ？  Array.from（obj）
-      ：克隆;
+     ？  Array.from（obj）
+    ：克隆;
 };
 ```
 
@@ -6175,13 +6175,13 @@ const deepMapKeys =（obj，f）=&gt;
   Array.isArray（obj）
      什么啊  obj.map（val =&gt; deepMapKeys（val，f））
     ：typeof obj ===&#39;对象&#39;
-       ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
+     ？  Object.keys（obj）.reduce（（acc，current）=&gt; {
         const val = obj [current];
         acc [f（current）] =
            val！== null &amp;&amp; typeof val ===&#39;object&#39;吗？  deepMapKeys（val，f）：（acc [f（current）] = val）;
         返回acc；
       }, {})
-      ：obj;
+    ：obj;
 ```
 
 <details>
@@ -6250,9 +6250,9 @@ const dig =（obj，target）=&gt;
   obj中的目标
      ？  obj [目标]
     ：Object.values（obj）.reduce（（acc，val）=&gt; {
-      如果（acc！==未定义）返回acc;
-      如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
-    }，未定义）；
+        如果（acc！==未定义）返回acc;
+        如果（typeof val ===&#39;object&#39;）返回dig（val，target）;
+      }，未定义）；
 ```
 
 <details>
@@ -6491,15 +6491,14 @@ const obj = {选择器：{到：{val：&#39;要选择的val&#39;}}，目标：[1
 如果目标值存在于JSON对象中，则返回“ true”，否则返回“ false”.
 
 检查键是否包含“.”，使用“ String.prototype.split（&#39;.&#39;）[0]”获取第一部分并将其存储为“ _key”.
-使用typeof来检查obj [key]的内容是否为object，如果是，则使用该对象和key的其余部分调用hasKey.
+Use `typeof` to check if the contents of `obj[key]` are an `object` and, if so, call `hasKey` with that object and the remainder of the `key`.
 否则，结合使用Object.keys（obj）和Array.prototype.includes（）来检查给定的key是否存在.
 
 ```js
 const hasKey =（obj，key）=&gt; {
   如果（key.includes（&#39;.&#39;））{
     让_key = key.split（&#39;.&#39;）[0];
-    如果（typeof obj [_key] ===&#39;object&#39;）
-      返回hasKey（obj [_key]，key.slice（key.indexOf（&#39;.&#39;）+ 1））;
+    如果（typeof obj [_key] ===&#39;object&#39;）返回hasKey（obj [_key]，key.slice（key.indexOf（&#39;.&#39;）+ 1））;
   }
   返回Object.keys（obj）.includes（key）;
 };
@@ -6510,7 +6509,9 @@ const hasKey =（obj，key）=&gt; {
 
 ```js
 年obj = {
-  a：1，b：{c：4}，“ d.e”：5
+  a：1
+  b：{c：4}，
+  &#39;d.e&#39;：5
 };
  hasKey（obj，&#39;a&#39;）;  //正确
  hasKey（obj，&#39;b&#39;）;  //正确
@@ -6969,7 +6970,7 @@ const size = val =&gt;
      ？  长度
     ：val &amp;&amp; typeof val ===&#39;对象&#39;
      ？  val.size ||  val.length ||  Object.keys（val）.length
-    : typeof val === 'string'
+    ：typeof val ===&#39;字符串&#39;
      ？  新Blob（[val]）.size
     : 0;
 ```
@@ -7301,7 +7302,7 @@ const fromCamelCase =（str，分隔符=&#39;_&#39;）=&gt;
 <summary>Examples</summary>
 
 ```js
- fromCamelCase（&#39;someDatabaseFieldName&#39;，&#39;&#39;）;  //&#39;一些数据库字段名称&#39;
+fromCamelCase('someDatabaseFieldName', ' '); // 'some database field name'
  fromCamelCase（&#39;someLabelThatNeedsToBeCamelized&#39;，&#39;-&#39;）;  //&#39;需要被骆驼化的某些标签&#39;
  fromCamelCase（&#39;someJavascriptProperty&#39;，&#39;_&#39;）;  //&#39;some_javascript_property&#39;
 ```
@@ -7422,7 +7423,7 @@ const isUpperCase = str =&gt; str === str.toUpperCase（）;
 
 ### mapString
 
-Creates a new string with the results of calling a provided function on every character in the calling string.
+创建一个新字符串，并在调用字符串中的每个字符上调用提供的函数.
 
 使用String.prototype.split（&#39;&#39;）和Array.prototype.map（）为str中的每个字符调用提供的函数fn.
 使用Array.prototype.join（&#39;&#39;）将字符数组重新组合为字符串.
@@ -7641,7 +7642,7 @@ const stringPermutations = str =&gt; {
   返回str
     .分裂（&#39;&#39;）
     .降低（
-      (acc, letter, i) =>
+      （acc，letter，i）=&gt;
         acc.concat（stringPermutations（str.slice（0，i）+ str.slice（i + 1））.map（val =&gt; letter + val）），
       []
     );
@@ -7925,7 +7926,7 @@ const是=（type，val）=&gt;！[，null] .includes（val）&amp;&amp; val.cons
 <summary>Examples</summary>
 
 ```js
-is(Array, [1]); // true
+ is（Array，[1]）;  //正确
  is（ArrayBuffer，new ArrayBuffer（））;  //正确
  is（Map，new Map（））;  //正确
  is（RegExp，/./g）;  //正确
@@ -7949,7 +7950,7 @@ is(Array, [1]); // true
 检查所提供的参数是否不是null，并且其Symbol.iterator属性是否为函数.
 
 ```js
-const isArrayLike = obj => obj != null && typeof obj[Symbol.iterator] === 'function';
+const isArrayLike = obj =&gt; obj！= null &amp;&amp; typeof obj [Symbol.iterator] ===&#39;function&#39;;
 ```
 
 <details>
@@ -8107,7 +8108,7 @@ const isObject = obj =&gt; obj === Object（obj）;
 ```js
  isObject（[1,2,3,4]）;  //正确
  isObject（[]）;  //正确
- isObject（[&#39;Hello！&#39;]）;  //正确
+isObject(['Hello!']); // true
  isObject（{a：1}）;  //正确
  isObject（{}）;  //正确
  isObject（true）;  //错误
@@ -8380,7 +8381,7 @@ const customCoalesce = coalesceFactory（_ =&gt;！[null，undefined，``，NaN]
 
 ### extendHex
 
-将3位颜色代码扩展为6位颜色代码.
+Extends a 3-digit color code to a 6-digit color code.
 
 使用Array.prototype.map（），String.prototype.split（）和Array.prototype.join（）连接映射的数组，以将3位RGB表示的十六进制颜色代码转换为6位数形式.
 `Array.prototype.slice()` is used to remove `#` from string start since it's added once.
@@ -8446,7 +8447,7 @@ const hexToRGB = hex =&gt; {
     &#39;rgb&#39;+
     （alpha？&#39;a&#39;：&#39;&#39;）+
     '(' +
-    （h &gt;&gt;&gt;（alpha？24:16））+
+    (h >>> (alpha ? 24 : 16)) +
     ', ' +
     （（h＆（alpha？0x00ff0000：0x00ff00））&gt;&gt;&gt;（alphaα16：8））+
     ', ' +
@@ -8646,6 +8647,35 @@ const last = nthArg（-1）;
 </details>
 
 
+### objectToQueryString
+
+返回从给定对象的键值对生成的查询字符串.
+
+在Object.entries（queryParameters）上使用Array.prototype.reduce（）创建查询字符串.
+根据`index`确定&#39;symbol&#39;为`？`或`＆`，仅当它是字符串时，将val链接到queryString.
+如果queryParameters为假，则返回queryString或空字符串.
+
+```js
+const objectToQueryString = queryParameters =&gt; {
+  返回queryParameters
+     ？  Object.entries（queryParameters）.reduce（（queryString，[key，val]，index）=&gt; {
+       const符号=索引=== 0？  &#39;？&#39;  ：&#39;＆&#39;;
+       queryString + =（typeof val ===&#39;字符串&#39;）  `$ {symbol} $ {key} = $ {val}`：&#39;&#39;;
+      返回queryString;
+    }, '')
+    : '';
+};
+```
+
+<details>
+<summary>Examples</summary>
+
+```js
+ objectToQueryString（{page：&#39;1&#39;，size：&#39;2kg&#39;，key：undefined}）;  //&#39;？page = 1＆size = 2kg&#39;
+```
+</details>
+
+
 ### parseCookie
 
 解析HTTP Cookie标头字符串，并返回所有cookie名称-值对的对象.
@@ -8655,7 +8685,7 @@ const last = nthArg（-1）;
 使用Array.prototype.reduce（）和decodeURIComponent（）创建具有所有键值对的对象.
 
 ```js
-const parseCookie = str =&gt;
+const parseCookie = str =>
   海峡
     .分裂（&#39;;&#39;）
     .map（v =&gt; v.split（&#39;=&#39;））
@@ -8774,7 +8804,7 @@ const serializeCookie =（name，val）=&gt;`$ {encodeURIComponent（name）} = 
 const timeTaken =回调=&gt; {
   console.time（&#39;timeTaken&#39;）;
   const r = callback（）;
-  console.timeEnd('timeTaken');
+  console.timeEnd（&#39;timeTaken&#39;）;
   返回r;
 };
 ```
@@ -8888,8 +8918,8 @@ const validateNumber = n =&gt;！isNaN（parseFloat（n））&amp;&amp; isFinite
 省略第二个参数“ def”，将默认答案设置为“ no”.
 
 ```js
-const yesNo =（val，def = false）=&gt;
-  /^(y|yes)$/i.test(val) ? true : /^(n|no)$/i.test(val) ? false : def;
+const yesNo = (val, def = false) =>
+   / ^（y |是）$ / i.test（val）吗？  true：/ ^（n | no）$ / i.test（val）吗？  false：def;
 ```
 
 <details>

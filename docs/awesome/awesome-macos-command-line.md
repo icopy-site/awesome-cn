@@ -84,7 +84,7 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
 #### Activate And Deactivate the ARD Agent and Helper
 ```bash
 ## Activate And Restart the ARD Agent and Helper
-sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -restart -agent -console
+须藤/系统/库/ CoreServices /远程管理/ARDAgent.app/内容/资源/ kickstart-激活-重新启动-代理-控制台
 
 ## Deactivate and Stop the Remote Management Service
 须藤/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart-停用-停止
@@ -139,7 +139,7 @@ launchctl卸载-w /System/Library/LaunchAgents/com.apple.rcd.plist
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 ```
 
- 从El Capitan开始，您可以禁用SIP或诉诸某种黑客手段，这将使任何用户都无法访问iTunes，从而有效地阻止了iTunes自身或助手的启动.  请注意，出于所有目的和目的，这将破坏iTunes的安装，并可能与以后的OS更新冲突.
+ 从El Capitan开始，您可以禁用SIP或诉诸某种黑客手段，这将使任何用户都无法访问iTunes，从而有效地阻止了iTunes自身或助手的启动.  请注意，出于所有目的和目的，这将破坏iTunes的安装，并可能与后续的OS更新冲突.
 ```bash
 sudo chmod 0000 /应用程序/iTunes.app
 ```
@@ -174,10 +174,10 @@ sudo chmod 0000 /应用程序/iTunes.app
     如果“ 10.14” &lt;= os_version，则将mail_version设置为“ V6”
 结束考虑
 
-设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”＆mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
-设置sizeAfter以执行shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+设置sizeAfter做shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 
 显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“之后的邮件索引：”＆sizeAfter＆return＆return＆“享受新速度！”）
 
@@ -189,9 +189,9 @@ sudo chmod 0000 /应用程序/iTunes.app
 #### Change Default Fonts
 ```bash
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily Georgia
-defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
+默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2FixedFontFamily Menlo
-默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
+默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
 ```
 
 #### Enable Develop Menu and Web Inspector
@@ -373,7 +373,7 @@ xcrun simctl删除不可用
 
 #### Add a Space
 ```bash
-defaults write com.apple.dock persistent-apps -array-add '{"tile-type"="spacer-tile";}' && \
+默认写com.apple.dock持久应用程序-array-add&#39;{“ tile-type” =“ spacer-tile”;}&#39;&amp;&amp; \
 杀人码头
 ```
 
@@ -1224,10 +1224,10 @@ traceroute github.com
 ```bash
 ssh-add -K / path / to / private_key
 ```
-然后添加到`〜/ .ssh / config`中：
+Then add to `~/.ssh/config`:
 ```bash
 主机server.example.com
-    IdentityFile /path/to/private_key
+    IdentityFile / path / to / private_key
     UseKeychain是
 ```
 
@@ -1259,7 +1259,7 @@ curl -s https://api.ipify.org &amp;&amp;回声
 ```
 
 #### Show Network Interface Information
-Undocumented flag of the `scutil` command.
+`scutil`命令的未记录标志.
 ```bash
 scutil-nwi
 ```
@@ -1435,7 +1435,7 @@ sudo spctl --master-禁用
 #### Screensaver Password
 ```bash
 ## Status
-默认读取com.apple.screensaver askForPassword
+defaults read com.apple.screensaver askForPassword
 
 ## Enable
 默认写com.apple.screensaver askForPassword -int 1
@@ -1607,7 +1607,7 @@ sudo sysdiagnose -f〜/桌面/
 #### Create Bootable Installer
 ```bash
 ## Mojave
-sudo / Applications / Install \ macOS \ Mojave.app/Contents/Resources/createinstallmedia --volume / Volumes / USB --nointeraction --downloadassets
+sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
 ## High Sierra
 sudo / Applications / Install \ macOS \ High \ Sierra.app/Contents/Resources/createinstallmedia --volume / Volumes / USB --applicationpath / Applications / Install \ macOS \ High \ Sierra.app
@@ -1782,6 +1782,12 @@ sudo nvram boot-args =“”
 
 ### Software Update
 
+#### Ignore Specific Software Update
+ 标识符可以通过`softwareupdate --list`找到.  在下面的示例中，在Mojave上，将忽略对Catalina的所有更新提示，因为后者删除了32位支持.
+```bash
+sudo / usr / sbin / softwareupdate-忽略“ macOS Catalina”
+```
+
 #### Install All Available Software Updates
 ```bash
 sudo软件更新-ia
@@ -1790,12 +1796,12 @@ sudo软件更新-ia
 #### Set Software Update Check Interval
 设置为每天检查，而不是每周检查.
 ```bash
-默认写com.apple.SoftwareUpdate ScheduleFrequency -int 1
+defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
 ```
 
 #### Show Available Software Updates
 ```bash
-sudo软件更新-l
+sudo softwareupdate-列表
 ```
 
 #### Set Software Update Server
@@ -1956,10 +1962,10 @@ chsh -s $（brew --prefix）/ bin / zsh
  Rhapsody开发人员发布|  Grail1Z4 / Titan1U |  1997年8月31日|  DR2（1998年5月14日）
  Mac OS X服务器1.0 |  赫拉|  1999年3月16日|  1.2v3（2000年10月27日）
  Mac OS X开发人员预览|  不适用  1999年3月16日|  DP4（2000年4月5日）
- Mac OS X公开Beta版|  科迪亚克|  2000年9月13日|  N / A
+ Mac OS X公开Beta版|  科迪亚克|  2000年9月13日|  不适用
  Mac OS X 10.0 |  猎豹  2001年3月24日|  10.0.4（2001年6月22日）
  Mac OS X 10.1 |  彪马|  2001年9月25日|  10.1.5（2002年6月6日）
-Mac OS X 10.2              | Jaguar             | August 24, 2002    | 10.2.8 (October 3, 2003)
+ Mac OS X 10.2 |  美洲虎|  2002年8月24日|  10.2.8（2003年10月3日）
  Mac OS X 10.3 |  豹|  2003年10月24日|  10.3.9（2005年4月15日）
  Mac OS X 10.4 |  老虎|  2005年4月29日|  10.4.11（2007年11月14日）
  Mac OS X 10.5 |  豹纹|  2007年10月26日|  10.5.8（2009年8月5日）
@@ -1971,8 +1977,8 @@ Mac OS X 10.2              | Jaguar             | August 24, 2002    | 10.2.8 (O
  OS X 10.11 |  埃尔卡皮坦|  2015年9月30日|  10.11.6（15G31）（2016年7月18日）
  macOS 10.12 |  塞拉利昂|  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
  macOS 10.13 |  高塞拉利昂|  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
- macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14（18A391）（2018年9月24日）
- macOS 10.15 |  卡塔琳娜|  tba |  TBA
+macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (18A391) (September 24, 2018)
+ macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.0（19A602）（2019年10月15日）
 
 
 ## License

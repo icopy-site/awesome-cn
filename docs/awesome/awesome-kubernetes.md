@@ -101,7 +101,7 @@ Installers
 =======================================================================
 
 
-* [Bootkube](https://github.com/kubernetes-incubator/bootkube) -CoreOS-不可知的云
+* [Bootkube](https://github.com/kubernetes-incubator/bootkube) -CoreOS-不可知云
 * [Breeze](https://github.com/wise2c-devops/breeze) -CentOS-不可知云
 * [Conjure-up](https://github.com/conjure-up/conjure-up) -Ubuntu-云不可知
 * [Docker for MAC](https://store.docker.com/editions/community/docker-ce-desktop-mac) -在您的MAC（边缘通道）上本地运行Kubernetes和Docker
@@ -110,27 +110,27 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) -Ubuntu-云不可知
 * [k3s](https://github.com/rancher/k3s)  -轻量级的Kubernetes.  易于安装，一半内存，所有二进制文件不到40mb
 * [kind](https://kind.sigs.k8s.io) -  A tool for running local Kubernetes clusters using Docker container “nodes”
-* [Kops](https://github.com/kubernetes/kops) -不可知操作系统-AWS
-* [Kube-ansible](https://github.com/kairen/kube-ansible) -不可知的骨头-不可知的云
+* [Kops](https://github.com/kubernetes/kops) -与操作系统无关-AWS
+* [Kube-ansible](https://github.com/kairen/kube-ansible) -与操作系统无关-与云无关
 * [Kube-aws](https://github.com/coreos/kube-aws) -CoreOS-AWS
 * [Kube-deploy](https://github.com/kubernetes/kube-deploy)
-* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) -不可知的骨头-不可知的云
+* [Kubeadm](http://kubernetes.io/docs/admin/kubeadm/) -与操作系统无关-与云无关
 * [KubeNow](https://github.com/kubenow/KubeNow) -Ubuntu-云不可知
-* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) -`systemd` OS-不可知的云
-* [Kubespray](https://github.com/kubernetes-incubator/kubespray) -不可知的骨头-不可知的云
-* [Kubicorn](https://github.com/kubicorn/kubicorn) -不可知的骨头-不可知的云
+* [Kubernetes-Saltstack](https://github.com/valentin2105/Kubernetes-Saltstack) -`systemd` OS-不可知云
+* [Kubespray](https://github.com/kubernetes-incubator/kubespray) -与操作系统无关-与云无关
+* [Kubicorn](https://github.com/kubicorn/kubicorn) -与操作系统无关-与云无关
 * [Kublr](https://docs.kublr.com/quickstart/) -不可知操作系统-本地-不可知云
 * [Linode](https://developers.linode.com/kubernetes/) -CoreOS-Linode
 * [matchbox](https://github.com/coreos/matchbox) -CoreOS-网络启动和配置Container Linux集群（例如etcd3，Kubernetes等）.
 * [MetalK8s](https://github.com/scality/metalk8s) -CentOS-本地-云不可知- [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) -单个k8软件包，可在42种Linux上安装
 * [Minikube](https://github.com/kubernetes/minikube) -在本地运行Kubernetes
-* [RKE](https://github.com/rancher/rke) -不可知的骨头-不可知的云
+* [RKE](https://github.com/rancher/rke) -与操作系统无关-与云无关
 * [sealos](https://github.com/fanux/sealos) -简单的省HA安装程序
-* [Simplekube](https://github.com/valentin2105/Simplekube) -`systemd` OS-不可知的云
-* [Supergiant](http://supergiant.io/) -CoreOS-不可知的云
+* [Simplekube](https://github.com/valentin2105/Simplekube) -`systemd` OS-不可知云
+* [Supergiant](http://supergiant.io/) -CoreOS-不可知云
 * [Terraform](https://github.com/kz8s/tack) -CoreOS-AWS
-* [Typhoon](https://typhoon.psdn.io/) -Linux容器-不可知云
+* [Typhoon](https://typhoon.psdn.io/) -容器Linux-不可知云
 * [aks-engine](https://github.com/Azure/aks-engine) -AKS Engine是在Azure上配置自管理Kubernetes群集的最简单方法.
 
 
@@ -279,7 +279,7 @@ Installers
 
   - [Cisco Container Platform](https://www.cisco.com/c/en/us/products/cloud-systems-management/container-platform/index.html)
   - [Gardener](https://github.com/gardener/gardener) -阿里巴巴，AWS，Azure，GCP和OpenStack集群管理器
-  - [Gravity](https://gravitational.com/gravity) -前Telekube
+  - [Gravity](https://gravitational.com/gravity) - Formerly Telekube
   - [Kqueen](https://github.com/Mirantis/kqueen)
   - [Kubermatic](http://www.loodse.com/)
   - [Kubesphere](https://kubesphere.io/en)
@@ -853,6 +853,7 @@ Projects
 * [k3OS](https://github.com/rancher/k3os)
 * [LinuxKit](https://github.com/linuxkit/kubernetes)
 * [Talos](https://github.com/talos-systems/talos)
+* [RancherOS](https://rancher.com/rancher-os) -从容器构建的轻量级安全Linux发行版，可以很好地运行容器.
 
 ## YAML/JSON Config
 
@@ -1009,7 +1010,7 @@ Videos
 神奇的人
 =======================================================================
 
-* [Ahmet Alp Balkan](https://twitter.com/ahmetb),  Software Engineer at Google & Google Kubernetes Engine
+* [Ahmet Alp Balkan](https://twitter.com/ahmetb)，Google和Google Kubernetes Engine的软件工程师
 * [Aparna Sinha](https://twitter.com/apbhatnagar)，小组产品经理-Google的Kubernetes
 * [Arun Gupta](https://twitter.com/arungupta)，Amazon Web Services的首席开源技术专家
 * [Brandon Philips](https://twitter.com/BrandonPhilips)，CTO在核心
@@ -1061,7 +1062,6 @@ Videos
 * [Community Q&A – The Office Hours](https://github.com/kubernetes/community/blob/master/events/office-hours.md)
 * [Community](https://github.com/kubernetes/community)
 * [Freenode](http://webchat.freenode.net/?channels=google-containers)
-* [Google +](https://plus.google.com/u/0/b/116512812300813784482/116512812300813784482)
 * [Mailing List (developer/contributor discussion)](https://groups.google.com/forum/#!forum/kubernetes-dev)
 * [Mailing List (user discussion and Q&A)](https://groups.google.com/forum/#!forum/kubernetes-users)
 * [Reddit](https://www.reddit.com/r/kubernetes/)

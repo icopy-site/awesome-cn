@@ -71,7 +71,7 @@
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源，分布式，RESTful搜索引擎.
 - [JabRef](https://github.com/JabRef/jabref/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  桌面应用程序从SWING迁移到JavaFX.  关注代码质量：使用代码质量工具，例如 [CodeCov](https://codecov.io/) 和 [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback 和 to ensure high quality of new contributions.
 - [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  允许用户将图片从其Android手机/平板电脑上传到Wikimedia Commons.
-- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应该遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
+- [XWiki](https://jira.xwiki.org/issues/?jql=labels%20%3D%20Onboarding) _（标签：入职）_ <br> [XWiki](http://xwiki.org)  是一个用Java编写的免费Wiki软件平台，其设计重点是可扩展性.  初学者应遵循 [onboarding wiki](http://dev.xwiki.org/xwiki/bin/view/Onboarding/).
 - [zerocode](https://github.com/authorjapps/zerocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  API自动化，无需编码，简单的JSON响应断言，测试REST，SOAP，Kafka和Java / DB API，CI / Jenkins Friendly.
 - [SirixDB](https://github.com/sirixdb/sirix/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  SirixDB是用Java编写的版本化NoSQL文档存储（XML和JSON）.
 
@@ -79,7 +79,7 @@
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Mission Control是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
@@ -107,7 +107,7 @@
 - [React Native](https://github.com/facebook/react-native/labels/Good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建本机应用程序的框架.
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution)  _（标签：良好贡献）_ <br>  使用服务器渲染的React框架可实现快速的页面加载和浏览器中页面之间的无缝过渡.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  快速，可靠和安全的依赖关系管理.
-- [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
+- [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy)  _（标签：难度：容易）_ <br>  2D JavaScript渲染器
 - [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  通用服务器渲染的React应用程序的简约框架
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task)  _（标签：好第一项任务）_ <br>  用于在Node.js中开发数据库驱动的网站，应用程序和API的开源框架.  基于Express和MongoDB构建.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  语义UI的官方React集成.
@@ -150,6 +150,10 @@
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Kotlin的多平台断言库
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用Kotlin编写的微服务工具包
 
+## LaTex
+
+- [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  语言独立伪代码（pdf）的集合，用于面试准备和竞争性编程.
+
 ## Perl
 
 - [Ravada](https://github.com/UPC/ravada/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  远程虚拟桌面管理器.
@@ -171,7 +175,7 @@
 - [CiviWiki](https://github.com/CiviWiki/OpenCiviWiki/labels/good%20first%20issue)  _（第一期好）_ <br>  为互联网时代建立更好的民主
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow)  _（标签：难度/低）_ <br>  Python国际化库.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick)  _（标签：轻松选择）_ <br>  具有同步和共享功能的轻量级JSON存储服务.
-- [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
+- [BorgBackup](https://github.com/borgbackup/borg/labels/easy)  _（标签：简单）_ <br>  使用压缩和经过身份验证的加密对备份程序进行重复数据删除.
 - [scrapy](https://github.com/scrapy/scrapy/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的快速高级Web爬网和抓取框架.
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution)  _（标签：良好的第一贡献）_ <br>  面向渗透测试人员和软件开发人员的交互式TLS拦截HTTP代理功能
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit)  _（标签：低挂水果）_ <br>  一个免费且开放的现代，快速电子邮件客户端，具有用户友好的加密和隐私功能
@@ -180,7 +184,7 @@
 - [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  一个将Python代码转换为Java字节码的编译器.
 - [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Python虚拟机的Javascript实现.
 - [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  ：speech_balloon：一个社区驱动的python机器人，旨在尽可能简单地为人类的日常任务提供服务http://m.me/JARVISon.Messenger
-- [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy)  _（标签：状态：简单）_ <br>  pytest框架使编写小型测试变得容易，但可以扩展以支持复杂的功能测试.
+- [Pytest](https://github.com/pytest-dev/pytest/labels/status%3A%20easy) _(label: status: easy)_ <br> The pytest framework makes it easy to write small tests, yet scales to support complex functional testing.
 - [Fabric](https://github.com/fabric/fabric/labels/Low-hanging%20fruit)  _（标签：低挂水果）_ <br>  Pythonic远程执行和部署.
 - [Jupyter notebook](https://github.com/jupyter/notebook/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Jupyter交互式笔记本.
 - [Concept to Clinic](https://github.com/concept-to-clinic/concept-to-clinic/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  旨在开发一种端到端的肺癌检测应用程序，将机器学习的预测能力与针对错误进行测试的功能软件以及专注于临床用途的干净用户界面相连接.
@@ -190,7 +194,7 @@
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter！
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用最佳实践创建aiohttp模板的命令行实用程序.
-- [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个开源的chat-ops bot框架.
+- [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue) _(label: good first issue)_ <br> An open source chat-ops bot framework.
 - [pandas](https://github.com/pandas-dev/pandas/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  适用于Python的灵活而强大的数据分析/操作库，提供与R data.frame对象，统计函数等类似的标记数据结构
 - [VPN@Home](https://github.com/ezaquarii/vpn-at-home/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一键单击OpenVPN部署和管理仪表板.
 - [SaltStack](https://github.com/saltstack/salt/labels/Low-Hanging%20Fruit)  _（标签：低挂水果）_ <br>  大规模自动化任何基础架构或应用程序的管理和配置的软件.

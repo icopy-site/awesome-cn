@@ -216,6 +216,7 @@
 * [An Introduction to Galois Theory](http://www.maths.gla.ac.uk/~ajb/dvi-ps/Galois.pdf) -安德鲁贝克（格拉斯哥大学）
 * [Fields and Galois Theory](http://www.jmilne.org/math/CourseNotes/FT.pdf) -米尔恩（JS Milne）
 * [Galois theory](http://homepages.warwick.ac.uk/~masda/MA3D5/Galois.pdf) -里斯·里德
+* [Galois Theory](https://math.illinoisstate.edu/schebol/teaching/407-14-files/Stewart-galois_theory.pdf) -伊恩·斯图尔特（Ian Stewart）
 
 ### Lie Algebras
 
@@ -425,7 +426,7 @@
 * [A Concise Introduction to Numerical Analysis](http://www.ima.umn.edu/~arnold/597.00-01/nabook.pdf) -道格拉斯·阿诺德（明尼苏达大学）
 * [Numerical Analysis](http://people.cs.uchicago.edu/~ridg/newna/nalrs.pdf) -L.Ridgway Scott
 * [Lectures In Basic Computational Numerical Analysis](http://www.engr.uky.edu/~acfd/egr537-lctrs.pdf) -JM McDonough（肯塔基大学）
-* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -Alfred Schmidt，Arsen Narimanyan
+* [Advanced Numerical Methods and Their Applications to Industrial Problems: Adaptive Finite Element Methods](http://www.math.uni-bremen.de/~schmidt/SS04/YSU_Notes.pdf) -阿森·纳里曼扬（Alsen Narimanyan），阿尔弗雷德·施密特（Alfred Schmidt）
 * [Numerical Analysis for Engineers](https://ece.uwaterloo.ca/~dwharder/NumericalAnalysis/) -道格拉斯·威廉·哈德
 
 
