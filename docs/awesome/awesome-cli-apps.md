@@ -31,7 +31,7 @@
 ### Music
 
 - [cmus](https://github.com/cmus/cmus) -小型，快速且功能强大的控制台音乐播放器.
-- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
+- [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
 - [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
@@ -133,7 +133,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
+- [flog](http://github.com/mingrammer/flog) -用于日志格式（例如apache-common，apache错误和RFC3164 syslog）的伪造的日志生成器.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -188,7 +188,7 @@
 
 ### Note Taking and Lists
 
-- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您将想法安全快捷地保存在安全的地方.
+- [idea](https://github.com/IonicaBizau/idea) -轻巧的工具，可让您轻松，快速地将想法保存在安全的地方.
 - [geeknote](https://github.com/VitaliyRodnenko/geeknote) -Evernote客户.
 - [Taskwarrior](http://taskwarrior.org) -从命令行管理TODO列表.
 - [Terminal velocity](https://vhp.github.io/terminal_velocity/) -终端的快速笔记应用程序.
@@ -269,7 +269,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) -获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) -将来自unplash.com的随机/查询图像用作桌面墙纸.
-- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将其在系统范围内应用于所有您喜欢的程序.
+- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将它们在系统范围内应用于所有您喜欢的程序.
 
 ### Shell Utilities
 
@@ -295,7 +295,7 @@
 - [cmdchallenge](https://cmdchallenge.com/) -通过用户提交的解决方案提出小型外壳挑战.
 - [explainshell](http://www.explainshell.com/) -输入命令行摘要以查看每个参数的帮助文本.
 - [howdoi](https://github.com/gleitz/howdoi) -通过命令行即时编码答案.
-- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行（howdoi的Nodejs实现）上做某事的最简单方法.
+- [how2](https://github.com/santinic/how2) -查找在UNIX bash命令行上进行操作的最简单方法（howdoi的Nodejs实现）.
 - [The Fuck](https://github.com/nvbn/thefuck) -宏伟的应用程序，可纠正您以前的控制台命令.
 - [tldr](https://github.com/tldr-pages/tldr) -简化且由社区驱动的手册页.
 - [Wat](https://github.com/dthree/wat) -即时，集中，社区构建的文档.
@@ -303,7 +303,7 @@
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) -用于破解JSON和Javascript的命令行实用程序带.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli](https://github.com/raine/ramda-cli) -使用功能管道处理数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) -用于查询和更新YAML文件的简单CLI.
 - [q](http://harelba.github.io/q/) -命令行工具，允许在CSV / TSV（和任何其他表格文本文件）上执行类似SQL的查询.
@@ -329,7 +329,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -360,6 +360,7 @@
 
 - [alder](https://github.com/aweary/alder) -带有颜色的UNIX树命令的最小实现！
 - [exa](https://github.com/ogham/exa) -用Rust编写的`ls`的改进版本.
+- [tre](https://github.com/dduan/tre) -具有git意识，编辑器别名等的树命令.
 
 ### Directory Navigation
 
@@ -398,7 +399,7 @@
 - [git-secret](https://github.com/sobolevn/git-secret) -将您的私人数据存储在git存储库中.
 - [gitlab-cli](https://github.com/vishwanatharondekar/gitlab-cli) -gitlab cli，用于从命令行创建合并请求.
 - [git-extras](https://github.com/tj/git-extras) -一些小git附加功能，例如git-ignore，git-setup，git-changelog，git-release，git-effort等.
-- [gita](https://github.com/nosarthur/gita) - Manage multiple git repos side by side for sanity.
+- [gita](https://github.com/nosarthur/gita) -并发管理多个git repos.
 
 ## Images
 
@@ -431,6 +432,7 @@
 ## Graphics
 - [cli-mandelbrot](https://github.com/danyshaanan/cli-mandelbrot) -遍历Mandelbrot分形的cli.
 - [sparkly-cli](https://github.com/sindresorhus/sparkly-cli) -生成迷你图▂▃▅▂▇..
+- [pastel](https://github.com/sharkdp/pastel) -生成，分析，转换和处理颜色.
 
 ## Just for Fun
 
@@ -439,7 +441,7 @@
 - [fortune](https://github.com/shlomif/fortune-mod) -显示随机财富.
 - [ponysay](https://github.com/erkin/ponysay) -小马改写考克斯.
 - [yosay](https://github.com/yeoman/yosay) -像考赛，但对于约曼.
-- [lolcat](https://github.com/busyloop/lolcat) -以彩虹色输出文本.
+- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) -生成文字模因.
 
 ## Other

@@ -20,6 +20,7 @@
 
 * [10 Android interview question answers for Freshers](http://www.careerride.com/android-interview-questions.aspx)
 * [20 Essential Android Interview Questions from Toptal](http://www.toptal.com/android/interview-questions)
+* [25 Essential Android Interview Questions from Adeva](https://adevait.com/android/interview-questions)
 * [50 android interview questions & answers](http://career.guru99.com/50-android-interview-questions-answers/).
 * [A couple of Android questions posted by Quora users](https://www.quora.com/What-are-good-job-interview-questions-for-an-Android-developer)
 * [A great list of Android interview questions covering all the aspects of this career](http://www.tutorialspoint.com/android/android_interview_questions.htm)
@@ -167,6 +168,7 @@
 
 * [14 Essential iOS Interview Questions from Toptal](http://www.toptal.com/ios/interview-questions)
 * [20 iOS Developer Interview Questions and Answers for getting you ready for your interview](https://www.codementor.io/ios/tutorial/ios-interview-tips-questions-answers-objective-c)
+* [25 Essential iOS Interview Questions from Adeva](https://adevait.com/ios/interview-questions)
 * [A small guide to help those looking to hire a developer or designer for iOS work While tailored for iOS, many questions could be used for Android developers or designers as well A great self-test if you're looking to keep current or practice for your own interview](https://github.com/CameronBanga/iOS-Developer-and-Designer-Interview-Questions)
 * [All you need to know about iOS technical interview including some tips for preparing, questions and some coding exercises](http://www.raywenderlich.com/53962/ios-interview-questions)
 * [Interview Questions for iOS and Mac Developers from the CEO of Black Pixel](https://blackpixel.com/writing/2013/04/interview-questions-for-ios-and-mac-developers-1.html)
@@ -189,6 +191,7 @@
 * [115 Java Interview Questions and Answers – The ULTIMATE List](http://www.javacodegeeks.com/2014/04/java-interview-questions-and-answers.html)
 * [37 Java Interview Questions to Practice With from Codementor](https://www.codementor.io/java/tutorial/java-interview-sample-questions-answers)
 * [21 Essential Java Interview Questions](http://www.toptal.com/java/interview-questions)
+* [29 Essential Java Interview Questions from Adeva](https://adevait.com/java/interview-questions)
 * [A collection of Java interview questions and answers to them The questions were gathered all around the Internet The answers are partly written by the commiters, partly copy-pasted from all possible sources](https://github.com/svozniuk/java-interviews)
 * [Data Structures and Algorithms in Java which can be useful in interview process](https://github.com/donbeave/interview)
 * [Java Interview Questions: How to crack the TOP 15 questions](https://blog.udemy.com/java-interview-questions/)
@@ -204,6 +207,7 @@
 * [Practice common algorithms using JavaScript](https://github.com/ignacio-chiazzo/Algorithms-Leetcode-Javascript)
 * [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
 * [21 Essential JavaScript Interview Questions from best mentors all over the world](https://www.codementor.io/javascript/tutorial/21-essential-javascript-tech-interview-practice-questions-answers)
+* [20 Essential JavaScript Interview Questions from Adeva](https://adevait.com/javascript-developers/interview-questions)
 * [37 Essential JavaScript Interview Questions from Toptal](http://www.toptal.com/javascript/interview-questions)
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
@@ -225,6 +229,9 @@
 ### jQuery
 
 * [70 jQuery Interview Questions to Ace Your Next Interview](https://pangara.com/blog/70-jquery-interview-questions)
+* [Top 50 jquery interview questions](https://career.guru99.com/top-50-jquery-interview-questions/)
+* [17 Essential jQuery Interview Questions From Toptal](https://www.toptal.com/jquery/interview-questions)
+
 
 ### Front-end build tools
 
@@ -249,6 +256,7 @@
 
 ### NodeJS
 
+* [25 Essential Node.js Interview Questions from Adeva](https://adevait.com/nodejs/interview-questions) 
 * [8 Essential Nodejs Interview Questions from Toptal](http://www.toptal.com/nodejs/interview-questions)
 * [Node.js Interview Questions & Answers from LazyQuestion.com](http://www.lazyquestion.com/interview-questions-and-answer/nodejs)
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
@@ -267,6 +275,7 @@
 * [100 PHP interview questions and answers from CareerRide.com](http://www.careerride.com/PHP-Interview-Questions.aspx)
 * [21 Essential PHP Interview Questions from Toptal](http://www.toptal.com/php/interview-questions)
 * [20 Common PHP Job Interview Questions and Answers](http://www.woodstitch.com/resources/php-interview-questions.php)
+* [25 Essential PHP Interview Questions from Adeva](https://adevait.com/php/interview-questions)
 * [PHP interview questions and answers for freshers](http://phpinterviewquestions.co.in/)
 * [Top 100 PHP Interview Questions & Answers from CareerGuru](http://career.guru99.com/top-100-php-interview-questions-answers/)
 * [25 PHP Interview Questions](https://www.codementor.io/php/tutorial/php-interview-questions-sample-answers)
@@ -276,6 +285,7 @@
 
 ### Python
 
+* [26 Essential Python Interview Questions from Adeva](https://adevait.com/python/interview-questions)
 * [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 * [11 Essential Python Interview Questions from Toptal](http://www.toptal.com/python/interview-questions)
 * [A listing of questions that could potentially be asked for a python job listing](https://github.com/sigmavirus24/python-interview-questions)
@@ -519,6 +529,7 @@
 * [How to prepare for an information security job interview?](http://searchsecurity.techtarget.com/tip/How-to-prepare-for-an-information-security-job-interview)
 * [Information Security Interview Questions from Daniel Miessler](https://danielmiessler.com/study/infosec_interview_questions/)
 * [Top 50 Information Security Interview Questions for freshers and experts](http://resources.infosecinstitute.com/top-50-information-security-interview-questions/)
+* [Security Interview Questions (and Answers) from Matthew Adeline](https://mkadeline.github.io/security/Security-Interview-Questions-Answers)
 
 ## Data Science
 * [Data Science Interview Questions for Top Tech Companies](https://www.dezyre.com/article/-data-science-interview-questions-for-top-tech-companies/189)

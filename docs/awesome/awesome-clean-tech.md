@@ -30,6 +30,10 @@
 
    与传统的汉堡相比，他们以植物为原料的汉堡所需的土地减少了96％，水减少了87％，温室气体排放减少了89％.  他们的任务是生产植物性肉类，以减少肉类工业对环境的影响.
 
+- [HappyCow](https://www.happycow.net/) | California, USA | 1999
+
+  通过在世界各地找到优质的素食或纯素食，完全减少或避免吃肉.
+
 - [Karma](https://new.karma.life/)  |  瑞典|  2016年
 
    帮助餐馆，咖啡厅和杂货店以折扣价出售剩余食物.  结果，用户获得的食物更少了，企业获得了额外的收入来源，同时减少了食物浪费.
@@ -46,7 +50,7 @@
 
    生产商业规模的水培种植系统，该系统比传统的水培系统便宜，易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
 
-- [Solar Foods](https://solarfoods.fi/) | Finland | 2017
+- [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
    从水，二氧化碳和电力中生产单细胞蛋白质Solein.  它不需要耕地或灌溉，也不受气候条件的限制.  Solein的原始概念源于NASA太空计划，并在芬兰技术研究中心和拉彭兰塔理工大学（LUT）的研究项目中得到进一步发展.
 
@@ -79,11 +83,11 @@
 
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
 
-  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署在了大太平洋垃圾场中.
+  开发了一种被动收集海洋垃圾的技术，目标是到2040年清洁海洋中90％的塑料废料.2018年，他们将解决方案部署到了Great Pacific Garbage Patch.
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
-   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
+   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
 
 - [Refill App](https://refill.org.uk/)  |  英国|  2015年
 
@@ -113,7 +117,7 @@
 
 - [Hydrostor](https://www.hydrostor.ca/)  |  加拿大|  2010年
 
-  Converts electrical energy to compressed air stored in accumulators under water. Once in the accumulators, the energy can be stored until required by the grid. When the energy is required, the weight of the water pushes the air back to the surface, where it is converted to electricity using a generator.
+   将电能转换为在水下存储在蓄能器中的压缩空气.  一旦进入蓄电池，就可以存储能量，直到电网需要为止.  当需要能量时，水的重量将空气推回地面，并在其中使用发电机将其转换为电能.
 
 - [Inspire](https://www.helloinspire.com/)  |  美国费城|  2014年
 
@@ -121,7 +125,7 @@
 
 - [Marcel](https://www.marcel.cab/engagements-rse/)  |  法国|  2011年
 
-   像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
+   像Uber这样的在线出租车应用程序，使人们有可能使用电动汽车和GoodPlanet基金会的合作伙伴来完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
 
 - [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州|  2009年
 
@@ -175,11 +179,11 @@
 
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
 
-  金融科技公司通过提供使用二氧化碳排放量作为支出限额的信用卡来促进消费的减少.
+  Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视您的个人足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
@@ -191,7 +195,7 @@
 
 - [Unmade](https://unmade.com/)  |  英格兰|  2013年
 
-   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
+   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
 
 ## More Resources
 

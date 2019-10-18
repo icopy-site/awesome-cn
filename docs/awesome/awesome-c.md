@@ -4,7 +4,7 @@
 
  精选的C好的东西列表.  此列表仅包含* [free software](https://en.wikipedia.org/wiki/Free_software) 代码，以及对物质资源没有恶意的卖方.
 
- **寻找维护人员：**该列表当前处于非活动状态.  我正在寻找可以使其再次变得出色的维护者.  看到 [#26](https://github.com/aleksandar-todorovic/awesome-c/issues/26) 以获得更多信息，但是过程很简单：在此列表中添加或修复几件事，您将成为850+星列表的贡献者.
+ **寻找维护人员：**该列表当前处于非活动状态.  我正在寻找可以使其再次变得出色的维护者.  看到 [#26](https://github.com/aleksandar-todorovic/awesome-c/issues/26) 以获得更多信息，但过程很简单：在此列表中添加或修复几件事，您将成为850+星列表的贡献者.
 
 此列表先前由 [@kozross](https://github.com/kozross) .  他决定将清单切换为 [new platform](https://notabug.org/koz.ross/awesome-c)，因此我决定将其分叉，以便我们可以将其保留在GitHub上.
 
@@ -17,12 +17,12 @@ Contents
 
 这些是使C中项目的构建和测试自动化的工具.
 
-* [aimake](http://nethack4.org/projects/aimake/) -旨在避免复杂配置的构建工具. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Autoconf](https://www.gnu.org/software/autoconf/autoconf.html)  -可扩展的M4宏程序包，可产生外壳程序脚本以自动配置软件源代码程序包.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Automake](https://www.gnu.org/software/automake/automake.html)  -自动生成符合GNU编码标准的`Makefile.in`文件的工具.  需要使用Autoconf.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [aimake](http://nethack4.org/projects/aimake/) -旨在避免复杂配置的构建工具. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [Autoconf](https://www.gnu.org/software/autoconf/autoconf.html)  -可扩展的M4宏程序包，可产生外壳程序脚本以自动配置软件源代码程序包.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [Automake](https://www.gnu.org/software/automake/automake.html)  -自动生成符合GNU编码标准的`Makefile.in`文件的工具.  需要使用Autoconf.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [CMake](https://cmake.org/) -用于跨平台构建，测试和打包的工具. [`3-clause BSD`](https://gitlab.kitware.com/cmake/cmake/raw/master/Copyright.txt)
 * [Jam](https://www.perforce.com/documentation/jam-documentation)  -构建系统，设计起来比制造容易.  隐含地理解C构建规则. [`Jam License`](https://en.wikipedia.org/wiki/Perforce_Jam#License)
-* [Libtool](https://www.gnu.org/software/libtool/)  -通用库支持脚本.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [Libtool](https://www.gnu.org/software/libtool/)  -通用库支持脚本.  自动工具的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [Meson](https://mesonbuild.com/)  -极其快速，用户友好的构建系统.  基于忍者. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [Premake](https://github.com/premake/premake-core) -为Visual Studio，Xcode或GNU Make等工具集构建脚本生成器. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [Ninja](https://github.com/ninja-build/ninja) -小型，简单的构建系统，注重速度. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
@@ -36,7 +36,7 @@ Contents
 
 * [Clang](http://clang.llvm.org/)  -LLVM的C编译器.  支持C11. [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
 * [CompCert](http://compcert.inria.fr/)  -完全验证的C编译器.  支持几乎所有的C89. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [GCC](https://gcc.gnu.org/)  -提供C编译器作为其编译器集的一部分.  支持C11和OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [GCC](https://gcc.gnu.org/)  -提供C编译器作为其编译器集的一部分.  支持C11和OpenMP. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [PCC](http://pcc.ludd.ltu.se/)  -杰出的C编译器.  支持C99. [`Various free licenses`](http://pcc.ludd.ltu.se/licenses/)
 * [TCC](https://bellard.org/tcc/)  -Tiny C编译器；  一个小型，快速的C编译器.  支持C99（复杂类型除外）. [`GNU LGPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Intel SPMD](http://ispc.github.io/) -C语言变体的编译器，用于单个程序，多个数据编程. [`Various licenses`](https://github.com/ispc/ispc/blob/master/LICENSE.txt)
@@ -74,13 +74,13 @@ Contents
 
 这列出了带有C API的数据库和数据存储.
 
-* [BerkeleyDB](https://www.oracle.com/database/berkeley-db/) -用于键值数据的高性能嵌入式数据库的库. [`GNU AGPLv3`](https://www.gnu.org/licenses/agpl.html)
+* [BerkeleyDB](https://www.oracle.com/database/berkeley-db/) -用于键值数据的高性能嵌入式数据库的库. [`GNU AGPLv3`](https://www.gnu.org/licenses/agpl-3.0.html)
 * [Hiredis](https://github.com/redis/hiredis) -Redis的简约客户端库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [LMDB](https://github.com/LMDB/lmdb) -超快速，超紧凑的键值嵌入式数据存储. [`OpenLDAP License`](https://directory.fsf.org/wiki/License:OLDAP-2.7)
 * [MariaDB](https://mariadb.com/) -健壮，可扩展且可靠的SQL Server，旨在替代MySQL. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [mongo-c-driver](http://mongoc.org/) -的高性能客户端库 [MongoDB](https://www.mongodb.com/). [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [PostgreSQL](https://www.postgresql.org/) -强大的对象关系数据库系统. [`PostgreSQL licence`](https://opensource.org/licenses/postgresql)
-* [recutils](https://www.gnu.org/software/recutils/) -一组工具和一个C库，用于访问可编辑的纯文本数据库文件，称为recfiles. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [recutils](https://www.gnu.org/software/recutils/) -一组工具和一个C库，用于访问可编辑的纯文本数据库文件，称为recfiles. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [Redis](https://redis.io/) -高级键值存储. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [sophia](http://sophia.systems/) -现代化的可嵌入键值数据库. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [SQLite](https://www.sqlite.org/about.html) -具有C接口的自包含，无服务器，零配置的事务型SQL数据库引擎. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
@@ -101,7 +101,7 @@ Contents
  这些是特别高级的IDE类型的编辑器.  如果需要程序员的文本编辑器，请在其他地方查找.  此外，无论您做出何种选择，无论如何都支持C.
 
 * [Anjuta DevStudio](http://anjuta.org/) -GNOME IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [Code::Blocks](http://www.codeblocks.org/) -支持C的可扩展，可配置的IDE. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [Code::Blocks](http://www.codeblocks.org/) -支持C的可扩展，可配置的IDE. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [CodeLite](https://codelite.org/) -跨平台IDE. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Eclipse](http://www.eclipse.org/ide/) -用Java编写的IDE. [`EPL`](https://directory.fsf.org/wiki/License:EPL-1.0)
 * [Geany](https://www.geany.org/) -非常小而快速的IDE. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -162,7 +162,7 @@ Contents
 * [Orx](http://orx-project.org/) -便携式，轻便，基于插件，数据驱动，面向2D的游戏引擎. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [Quake](https://github.com/id-Software/Quake) -雷神之锤引擎. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Quake2](https://github.com/id-Software/Quake-2) -Quake2引擎. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [Spearmint](https://clover.moe/spearmint/) -专为FPS游戏设计的引擎. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [Spearmint](https://clover.moe/spearmint/) -专为FPS游戏设计的引擎. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Resources ###
 
@@ -174,7 +174,7 @@ These are libraries of all sorts that are useful for game programming.
 * [FreeGLUT](http://freeglut.sourceforge.net/)  -替代OpenGL Utility Toolkit.  允许使用OpenGL上下文创建和管理窗口. [`X11`](https://directory.fsf.org/wiki/License:X11)
 * [GLFW](https://www.glfw.org/) -用于使用OpenGL上下文创建窗口的多平台库. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [libao](https://xiph.org/ao/) -具有多种输出的跨平台音频库. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [RetroArch](https://www.libretro.com/) -的参考前端 [libretro](https://www.libretro.com/). [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [RetroArch](https://www.libretro.com/) -的参考前端 [libretro](https://www.libretro.com/). [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [SDL and SDL2](https://www.libsdl.org/)  -跨平台开发库，旨在通过OpenGL提供对音频，键盘，鼠标，操纵杆和图形硬件的低级访问.  SDL2是最新版本. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 * [raylib](https://www.raylib.com/) -简单易用的库，用于学习视频游戏编程. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
@@ -193,7 +193,7 @@ These are libraries of all sorts that are useful for game programming.
 * [libimagequant](https://pngquant.org/lib/) -小型便携式库，可将RGBA图像高质量转换为8位索引彩色图像. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [libjpeg-turbo](https://libjpeg-turbo.org/) -更快的用于读取和写入JPEG文件的库. [`Various Licenses`](https://libjpeg-turbo.org/About/License)
 * [libpng](http://www.libpng.org) -官方的PNG参考库. [`libpng license`](http://www.libpng.org/pub/png/src/libpng-LICENSE.txt)
-* [libxmi](https://www.gnu.org/software/libxmi/) -用于2D矢量图形栅格化的函数库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [libxmi](https://www.gnu.org/software/libxmi/) -用于2D矢量图形栅格化的函数库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [mozjpeg](https://github.com/mozilla/mozjpeg) -改进的JPEG编码器. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 
 ### Graphic APIs ###
@@ -333,8 +333,8 @@ These are libraries of all sorts that are useful for game programming.
 
 * [jemalloc](http://jemalloc.net/) -通用malloc（3）实现，强调实现避免碎片化和可伸缩的并发支持，通常在生产系统中使用. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [dlmalloc](http://g.oswego.edu/pub/misc/malloc.c) -Doug Lea的malloc（3）实现，可用于学术和研究目的. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
-* [Hoard](http://hoard.org/) -适用于Linux，Windows，Mac和Solaris的快速，可扩展和内存高效的Malloc. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
-* [nedmalloc](http://www.nedprod.com/programs/portable/nedmalloc/) -用C语言编写的EXTREMELY FAST便携式线程缓存malloc（3）实现. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
+* [Hoard](http://hoard.org/) -适用于Linux，Windows，Mac和Solaris的快速，可扩展和内存高效的Malloc. [`GNU GPL2`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [nedmalloc](http://www.nedprod.com/programs/portable/nedmalloc/) -用C语言编写的EXTREMELY FAST便携式线程缓存malloc（3）实现. [`GNU GPL2`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [rpmalloc](https://github.com/rampantpixels/rpmalloc) -跨平台，无锁的内存分配器. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 
 
@@ -352,8 +352,8 @@ These are libraries of all sorts that are useful for game programming.
 
 * [asnlc](http://lionet.info/asn1c/compiler.html) -将ASN.1规范编译为C源代码. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [czmq](http://czmq.zeromq.org/) -ZeroMQ的高级绑定. [`MPL2.0`](https://www.gnu.org/licenses/license-list.html#MPL-2.0)
-* [GNU adns](https://www.gnu.org/software/adns/) -先进的，易于使用的，具有联盟能力的DNS客户端库和实用程序. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [GNU SASL](https://www.gnu.org/software/gsasl/) -实现简单身份验证和安全层以及一些通用的SASL机制. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [GNU adns](https://www.gnu.org/software/adns/) -先进的，易于使用的，具有联盟能力的DNS客户端库和实用程序. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GNU SASL](https://www.gnu.org/software/gsasl/) -实现简单身份验证和安全层以及一些通用的SASL机制. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [GnuTLS](https://www.gnutls.org/) -安全的通信库，实现SSL，TLS和DTLS. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [gumbo-parser](https://github.com/google/gumbo-parser) -C99中的HTML5解析库. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [http-parser](https://github.com/nodejs/http-parser) -HTTP请求/响应解析器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -363,11 +363,11 @@ These are libraries of all sorts that are useful for game programming.
 * [libev](http://software.schmorp.de/pkg/libev.html) -另一个事件循环. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [libuv](http://libuv.org/) -跨平台异步I / O. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libevent](http://libevent.org/) -网络服务器的事件循环替换. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [libgss](https://www.gnu.org/software/gss/) -通用安全服务. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [libhttpd](https://hughes.com.au/products/libhttpd/) -将基本Web服务器功能添加到应用程序或嵌入式设备的库. [`GNU GPL2`](http://www.gnu.org/licenses/gpl.html)
-* [libidn](https://www.gnu.org/software/libidn/) -实施Stringprep，Punycode和IDNA规范. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [libgss](https://www.gnu.org/software/gss/) -通用安全服务. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [libhttpd](https://hughes.com.au/products/libhttpd/) -将基本Web服务器功能添加到应用程序或嵌入式设备的库. [`GNU GPL2`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [libidn](https://www.gnu.org/software/libidn/) -实施Stringprep，Punycode和IDNA规范. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [libmicrohttpd](https://www.gnu.org/software/libmicrohttpd/) -小型C库，可轻松将HTTP服务器作为另一个应用程序的一部分运行. [`GNU LGPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
-* [libsagui](https://risoflora.github.io/libsagui/) -Sagui是一个跨平台的C库，可帮助开发Web服务器或框架. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
+* [libsagui](https://risoflora.github.io/libsagui/) -Sagui是一个跨平台的C库，可帮助开发Web服务器或框架. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [libvldmail](https://github.com/dertuxmalwieder/libvldmail) -您友好的电子邮件地址验证库. [`WTFPLv2`](http://www.wtfpl.net/txt/copying/)
 * [lwan](https://lwan.ws/) -实验性，可扩展的高性能HTTP服务器. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [mongoose](https://cesanta.com/) -用于C的嵌入式Web服务器. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
@@ -377,7 +377,7 @@ These are libraries of all sorts that are useful for game programming.
 * [pig](https://github.com/rafael-santiago/pig) -Linux数据包制作工具. [`GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [s2n](https://github.com/awslabs/s2n) -TLS / SSL协议的C99实现，旨在简单，快速且以安全性为优先. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [socket99](https://github.com/silentbicycle/socket99) -BSD套接字API的C99包装器. [`ISC`](https://directory.fsf.org/wiki/License:ISC)
-* [Tox](https://tox.chat/) -旨在成为Skype杀手的通信平台. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [Tox](https://tox.chat/) -旨在成为Skype杀手的通信平台. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [twitc](https://github.com/sinemetu1/twitc) -用于与Twitter OAuth API进行交互的Mini C库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [librg](https://github.com/librg/librg) -用于构建简单，优雅的跨平台mmo客户端-服务器解决方案的库. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 
@@ -396,15 +396,15 @@ These are libraries of all sorts that are useful for game programming.
 * [BLAS](http://www.netlib.org/blas/)  -基本的线性代数子程序；  一组提供矢量和矩阵运算的例程. [`BLAS license`](http://www.netlib.org/blas/#_licensing)
 * [CDFLIB](https://people.sc.fsu.edu/~jburkardt/c_src/cdflib/cdflib.html)  -带有例程的库，用于评估各种标准概率分布的累积密度函数.  给定其他参数，也可以计算CDF的一个参数.  （未提供许可证）
 * [cmathl](https://scientificc.github.io/cmathl/)  -具有多种数学功能和CMake构建支持的Pure-C Math库.  似乎很符合C89 / C90的可移植性. [`MIT`](https://github.com/ScientificC/cmathl/blob/master/LICENSE)
-* [Cuba](http://www.feynarts.de/cuba/) -多维数值积分库. [`GNU LGPLv3`](http://www.gnu.org/licenses/lgpl.html)
+* [Cuba](http://www.feynarts.de/cuba/) -多维数值积分库. [`GNU LGPLv3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [FFTW](http://www.fftw.org/)  -西方最快的傅立叶变换；  高度优化的快速傅立叶变换例程. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [FLINT](http://flintlib.org/)  -数字理论快速图书馆；  支持数字，多项式，幂级数和矩阵等算法的库. [`GNU GPL2.1 or later`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
-* [GLPK](https://www.gnu.org/software/glpk/)  -GNU线性编程套件；  设计用于解决大规模线性规划，混合整数规划和其他相关问题的软件包. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [GMP](https://gmplib.org/)  -GNU多精度算法库；  一个用于任意精度算术的库. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 和 [`GNU LGPLv3`](http://www.gnu.org/licenses/lgpl.html)
-* [GNU MPC](http://www.multiprecision.org/mpc/) -复数算法库. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl.html)
-* [GNU MPFR](https://www.mpfr.要么g/index.html) -用于任意精度浮点运算的库. [`GNU LGPL3 要么 later`](http://www.gnu.要么g/licenses/lgpl.html) 要么 [`GNU LGPL2.1 要么 later (until version 2.4.x)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html)
-* [GNU MPRIA](https://www.gnu.org/software/mpria/) -便携式数学库，用于多精度有理区间算术. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [GSL](http://www.gnu.org/software/gsl/)  -GNU科学图书馆；  复杂的数值库. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [GLPK](https://www.gnu.org/software/glpk/)  -GNU线性编程套件；  设计用于解决大规模线性规划，混合整数规划和其他相关问题的软件包. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GMP](https://gmplib.org/)  -GNU多精度算法库；  一个用于任意精度算术的库. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html) 和 [`GNU LGPLv3`](http://www.gnu.org/licenses/lgpl-3.0.html)
+* [GNU MPC](http://www.multiprecision.org/mpc/) -复数算法库. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl-3.0.html)
+* [GNU MPFR](https://www.mpfr.要么g/index.html) -用于任意精度浮点运算的库. [`GNU LGPL3 要么 later`](http://www.gnu.要么g/licenses/lgpl-3.0.html) 要么 [`GNU LGPL2.1 要么 later (until version 2.4.x)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html)
+* [GNU MPRIA](https://www.gnu.org/software/mpria/) -便携式数学库，用于多精度有理区间算术. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GSL](http://www.gnu.org/software/gsl/)  -GNU科学图书馆；  复杂的数值库. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [igraph](https://igraph.org/) -用于创建和处理大型图形的库. [`GNU GPL2`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [KISS FFT](https://sourceforge.net/projects/kissfft/) -非常简单的快速傅立叶变换库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [LAPACKE](http://www.netlib.org/lapack/lapacke.html) -C接口 [LAPACK](http://www.netlib.org/lapack/). [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
@@ -422,16 +422,16 @@ These are libraries of all sorts that are useful for game programming.
 * [MPICH](http://www.mpich.org/) -MPI的另一种实现. [`MPICH licence`](http://git.mpich.org/mpich.git/blob_plain/6aab201f58d71fc97f2c044d250389ba86ac1e3c:/COPYRIGHT)
 * [OpenMP](https://www.openmp.org/) -C语言编译工具集，旨在简化代码的并行化. [`3-clause BSD`](https://opensource.org/licenses/BSD-3-Clause)
 * [OpenMPI](https://github.com/open-mpi/ompi) -消息传递接口的实现. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [pth](https://www.gnu.org/software/pth/) -可移植的实现，用于对多个执行线程进行基于非抢占式优先级的调度. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [pth](https://www.gnu.org/software/pth/) -可移植的实现，用于对多个执行线程进行基于非抢占式优先级的调度. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [pthreads](https://en.wikipedia.org/wiki/POSIX_Threads) -POSIX线程库.
-* [SLEPc](https://bitbucket.org/slepc/slepc) -用于在并行计算机上解决大型稀疏特征值问题的软件库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
+* [SLEPc](https://bitbucket.org/slepc/slepc) -用于在并行计算机上解决大型稀疏特征值问题的软件库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [TinyCThread](https://tinycthread.github.io/) -可移植的C11线程API的小型实现. [`zlib`](https://directory.fsf.org/wiki/License:Zlib)
 
 ## Parsers ##
 
 * [hammer](https://github.com/abiggerhammer/hammer) -二进制格式的解析器组合器. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [iniparser](https://github.com/ndevilla/iniparser) -.ini文件的解析器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [libconfini](https://github.com/madmurphy/libconfini) -另一个解析器. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [libconfini](https://github.com/madmurphy/libconfini) -另一个解析器. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [libYAML](https://pyyaml.org/wiki/LibYAML) -YAML 1.1解析器和发射器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [mpc](https://github.com/orangeduck/mpc) -解析器组合器库. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [libucl](https://github.com/vstakhov/libucl) -通用配置库解析器. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
@@ -442,7 +442,7 @@ These are libraries of all sorts that are useful for game programming.
  &gt;“有些人遇到问题时会想，&#39;我知道，我会使用正则表达式.&#39;现在他们有两个问题.”  -杰米·扎温斯基.
 
 * [PCRE](http://www.pcre.org/) -与Perl 5相同的正则表达式的实现. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [regexp4](https://github.com/nasciiboy/recursiveregexpraptor-4) -具有自己的sintax的正则表达式的简单而完整的实现. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [regexp4](https://github.com/nasciiboy/recursiveregexpraptor-4) -具有自己的sintax的正则表达式的简单而完整的实现. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [SLRE](https://github.com/cesanta/slre)  -超轻型正则表达式库；  Perl regex语法子集的非常小的实现. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [sregex](https://github.com/openresty/sregex) -非回溯基于NFA / DFA的Perl兼容正则表达式引擎库. [`3-clause BSD`](https://opensource.org/licenses/BSD-3-Clause)
 * [TRE](https://github.com/laurikari/tre/) -符合POSIX的功能齐全的正则表达式库. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
@@ -481,8 +481,8 @@ These are libraries of all sorts that are useful for game programming.
 
 * [bstrlib](http://bstring.sourceforge.net/) -更好的字符串库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause) 和 [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [ICU](http://site.icu-project.org/)  -Unicode的国际组件；  一个支持Unicode的库. [`ICU license`](http://source.icu-project.org/repos/icu/icu/tags/latest/LICENSE)
-* [libunistring](https://www.gnu.org/software/libunistring/) -用于在C语言中处理Unicode字符串的库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
-* [libgiconv](https://www.gnu.要么g/software/libiconv/) -文本转换库. [`GNU LGPL2.1 (library)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU GPL3 (*iconv* program)`](http://www.gnu.要么g/licenses/gpl.html)
+* [libunistring](https://www.gnu.org/software/libunistring/) -用于在C语言中处理Unicode字符串的库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
+* [libgiconv](https://www.gnu.要么g/software/libiconv/) -文本转换库. [`GNU LGPL2.1 (library)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU GPL3 (*iconv* program)`](http://www.gnu.要么g/licenses/gpl-3.0.html)
 * [SDS](https://github.com/antirez/sds)  -简单的动态字符串；  一种用于以更简单的方式处理C字符串的库，但该库与普通C字符串函数兼容.  可通过 [clib](https://github.com/clibs/clib). [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [shoco](http://ed-von-schleck.github.io/shoco/) -小文本字符串的压缩器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [smaz](https://github.com/antirez/smaz) -高效的字符串压缩库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
@@ -509,20 +509,20 @@ These are libraries of all sorts that are useful for game programming.
 
 ### Emacs ###
 
-* [CEDET](http://cedet.sourceforge.net/)  -Emacs开发环境工具集合；  旨在为Emacs提供类似IDE的功能.  内置 [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Flycheck](https://github.com/flycheck/flycheck)  -现代语法检查.  对于C，它可以使用GCC或Clang作为后端. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Yasnippet](https://github.com/joaotavora/yasnippet) -模板系统，带有用于通用代码段的C模板. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [CEDET](http://cedet.sourceforge.net/)  -Emacs开发环境工具集合；  旨在为Emacs提供类似IDE的功能.  内置 [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [Flycheck](https://github.com/flycheck/flycheck)  -现代语法检查.  对于C，它可以使用GCC或Clang作为后端. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [Yasnippet](https://github.com/joaotavora/yasnippet) -模板系统，带有用于通用代码段的C模板. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ### Vim ###
 
 * [Syntastic](https://github.com/vim-syntastic/syntastic) -语法检查和整理. [`Do What The Fuck You Want To license`](https://github.com/vim-syntastic/syntastic/blob/master/LICENCE)
-* [YouCompleteMe](http://valloric.github.io/YouCompleteMe/) -Vim的代码完成引擎. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [YouCompleteMe](http://valloric.github.io/YouCompleteMe/) -Vim的代码完成引擎. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 
 ## Tools ##
 
 这是有用的程序列表，可帮助您编写和调试不是***编辑器，库或编译器的C代码.
 
-* [Artistic Style](http://astyle.sourceforge.net/) -支持C的快速小型自动源代码格式化程序. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
+* [Artistic Style](http://astyle.sourceforge.net/) -支持C的快速小型自动源代码格式化程序. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [address-sanitizer](https://github.com/google/sanitizers) -快速内存错误检测器. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [biicode](https://biicode.github.io/biicode/) -C的现代依赖项管理器. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [c](https://github.com/ryanmjacobs/c)  -在命令行中一次编译并执行C个“脚本”.  也有shebang的支持. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -530,17 +530,17 @@ These are libraries of all sorts that are useful for game programming.
 * [CBMC](http://www.cprover.org/cbmc/)  -C绑定模型检查器；  用于验证数组边界，指针安全性和用户指定的断言的工具. [`Original BSD`](https://directory.fsf.org/wiki/License:BSD-4-Clause)
 * [cdecl](https://cdecl.org/) -在线服务，可将C声明翻译成英文，反之亦然. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [cinclude2dot](https://www.flourish.org/cinclude2dot/) -图形包含使用Graphviz的C项目中的依赖项. [`Any GNU GPL version (due to underspecification in the file)`](https://directory.fsf.org/wiki/Cinclude2dot#tab=Details)
-* [Complexity](https://www.gnu.org/software/complexity/) -用于测量C源代码复杂度的工具. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [CScout](https://www.spinellis.gr/cscout/) -用于C程序集合的源代码分析器和重构浏览器. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
-* [DDD](https://www.gnu.org/software/ddd/ddd.html) -一系列命令行调试器的图形前端. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [GDB](http://www.gnu.org/software/gdb/)  -GNU项目调试器；  C的调试器. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [Complexity](https://www.gnu.org/software/complexity/) -用于测量C源代码复杂度的工具. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [CScout](https://www.spinellis.gr/cscout/) -用于C程序集合的源代码分析器和重构浏览器. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [DDD](https://www.gnu.org/software/ddd/ddd.html) -一系列命令行调试器的图形前端. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GDB](http://www.gnu.org/software/gdb/)  -GNU项目调试器；  C的调试器. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [Glade](https://glade.gnome.org/) -RAD工具，可快速开发GTK + GUI. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [GMSL](https://gmsl.sourceforge.io/)  -GNU Make标准库；  GNU Make的其他功能的集合. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [GNU Global](https://www.gnu.org/software/global/) -与C一起使用的源代码标记工具. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
-* [gprof](http://www.gnu.org/software/binutils/)  -性能分析工具.  GNU binutils的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [Highlight](http://www.andre-simon.de/index.php) -将源代码转换为带有突出显示格式的文本. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
+* [GNU Global](https://www.gnu.org/software/global/) -与C一起使用的源代码标记工具. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [gprof](http://www.gnu.org/software/binutils/)  -性能分析工具.  GNU binutils的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [Highlight](http://www.andre-simon.de/index.php) -将源代码转换为带有突出显示格式的文本. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [include-what-you-use](https://github.com/include-what-you-use/include-what-you-use)  -帮助找到不必要的内含物并提出修复建议.  基于LLVM / Clang（且仅适用于LLVM / Clang）. [`NCSA`](https://directory.fsf.org/wiki/License:NCSA)
-* [indent](https://www.gnu.org/software/indent/)  -自动格式化C源代码，使其更易于阅读.  也可以从一种样式的源转换为另一种样式. [`GNU GPLv3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [indent](https://www.gnu.org/software/indent/)  -自动格式化C源代码，使其更易于阅读.  也可以从一种样式的源转换为另一种样式. [`GNU GPLv3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [rr](https://rr-project.org/) -记录非确定性执行以进行确定性调试的调试器. [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
 * [tup](http://gittup.org/tup/index.html) -非常快速的基于文件的跨平台构建系统. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [unifdef](http://dotat.at/prog/unifdef/) - Removes #ifdef 和 #if directives with their delimited text without touching any other part of the file. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause) 和 [`FreeBSD`](https://directory.fsf.org/wiki?title=License:FreeBSD)
@@ -551,8 +551,8 @@ These are libraries of all sorts that are useful for game programming.
 这是“包罗万象”的类别，用于在其他任何地方都不适合的内容.
 
 * [ApeTagLibs](https://github.com/jeremyevans/ape_tag_libs/tree/master/c) -用于处理APEv2标签的C库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
-* [bfd](http://sourceware.org/binutils/docs/bfd/)  -用于处理二进制目标文件的库.  GNU binutils的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [cf4ocl](https://fakenmc.github.io/cf4ocl/)  -OpenCL的C框架；  用于开发和基准测试的跨平台面向对象框架  [OpenCL](https://www.khronos.要么g/opencl/) 项目. [`GNU LGPL3 (library)`](http://www.gnu.要么g/licenses/lgpl.html) 要么 [`GNU GPL3 (project code)`](http://www.gnu.要么g/licenses/gpl.html)
+* [bfd](http://sourceware.org/binutils/docs/bfd/)  -用于处理二进制目标文件的库.  GNU binutils的一部分. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [cf4ocl](https://fakenmc.github.io/cf4ocl/)  -OpenCL的C框架；  用于开发和基准测试的跨平台面向对象框架  [OpenCL](https://www.khronos.要么g/opencl/) 项目. [`GNU LGPL3 (library)`](http://www.gnu.要么g/licenses/lgpl-3.0.html) 要么 [`GNU GPL3 (project code)`](http://www.gnu.要么g/licenses/gpl-3.0.html)
 * [CommonMark](https://github.com/commonmark/commonmark-spec) -CommonMark规范的C实现. [`Various Licenses`](https://github.com/commonmark/commonmark-spec/blob/master/LICENSE)
 * [CException](https://github.com/ThrowTheSwitch/CException) -C的异常实现. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [docopt.c](https://github.com/docopt/docopt.c) -命令行选项解析器的C实现. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
@@ -560,24 +560,24 @@ These are libraries of all sorts that are useful for game programming.
 * [FANN](http://leenissen.dk/fann/wp/) - Fast Artifical Neural Network library; an implementation of neural networks. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [Firm](https://pp.ipd.kit.edu/firm/)  -C库，提供适合在编译器中使用的基于图形的中间表示，优化和汇编代码生成.  带有相同许可证下的示例C前端. [`GNU LGPLv2.1`](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html)
 * [Genann](https://github.com/codeplea/genann) -C语言中的简单神经网络库. [`Zlib`](https://directory.fsf.org/wiki/License:Zlib)
-* [gjrand](https://sourcef要么ge.net/projects/gjrand/) -随机数生成例程库. [`GNU GPL2.1`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html) 要么 [`GNU GPLv3`](http://www.gnu.要么g/licenses/gpl.html)
-* [GNU FreeIPMI](https://www.gnu.org/software/freeipmi/index.html) -带内和带外IPMI实施. [`GNU GPL3`](http://www.gnu.org/licenses/gpl.html)
-* [GNU gperf](https://www.gnu.org/software/gperf/)  -完美的哈希函数生成器，给出了字符串列表.  输出C代码. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [GNU Libffcall](https://www.gnu.org/software/libffcall/) -收集用于构建外部功能接口的库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [gjrand](https://sourcef要么ge.net/projects/gjrand/) -随机数生成例程库. [`GNU GPL2.1`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html) 要么 [`GNU GPLv3`](http://www.gnu.要么g/licenses/gpl-3.0.html)
+* [GNU FreeIPMI](https://www.gnu.org/software/freeipmi/index.html) -带内和带外IPMI实施. [`GNU GPL3`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GNU gperf](https://www.gnu.org/software/gperf/)  -完美的哈希函数生成器，给出了字符串列表.  输出C代码. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [GNU Libffcall](https://www.gnu.org/software/libffcall/) -收集用于构建外部功能接口的库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [gperftools](https://github.com/gperftools/gperftools) -收集用于测量和改进性能的实用程序. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [huffandpuff](https://github.com/adamierymenko/huffandpuff) -最小的霍夫曼编码器和解码器. [`Public Domain`](https://creativecommons.org/share-your-work/public-domain/)
 * [kdtree](https://github.com/jtsiomb/kdtree) -用于KD树的简单库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
-* [Kitsune](http://kitsune-dsu.com/) -用于动态软件更新的高效通用框架. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl.html)
-* [libavl](http://adtinfo.org/libavl.html/index.html) -包含一系列自平衡二叉树的库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
+* [Kitsune](http://kitsune-dsu.com/) -用于动态软件更新的高效通用框架. [`GNU LGPL3 or later`](http://www.gnu.org/licenses/lgpl-3.0.html)
+* [libavl](http://adtinfo.org/libavl.html/index.html) -包含一系列自平衡二叉树的库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
 * [libbson](https://github.com/mongodb/libbson) -BSON实用程序库. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
 * [libCello](http://libcello.org/) -向C语言引入高级编程的库. [`3-clause BSD`](https://directory.fsf.org/wiki/License:BSD-3-Clause)
 * [libffi](https://github.com/libffi/libffi) -便携式外部功能接口库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [libgit2](https://libgit2.org/) -Git的纯C实现. [`GNU GPL2 only, with a linking exception`](https://github.com/libgit2/libgit2/blob/master/COPYING)
 * [libimobiledevice](https://github.com/libimobiledevice/libimobiledevice) -与iThings通信的跨平台协议库. [`GNU LGPLv2.1 要么 later (library)`](http://www.gnu.要么g/licenses/old-licenses/lgpl-2.1.html) 要么 [`GNU GPL2.1 要么 later (tools)`](http://www.gnu.要么g/licenses/old-licenses/gpl-2.0.html)
-* [libnfc](https://github.com/nfc-tools/libnfc) -独立于平台的近场通信库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl.html)
+* [libnfc](https://github.com/nfc-tools/libnfc) -独立于平台的近场通信库. [`GNU LGPL3`](http://www.gnu.org/licenses/lgpl-3.0.html)
 * [libPhenom](https://github.com/facebookarchive/libphenom)  -已弃用，此处用于存档.  用于构建高可扩展性和高性能系统的事件框架. [`Apache 2.0`](https://directory.fsf.org/wiki/License:Apache-2.0)
-* [ncurses](https://www.gnu.org/software/ncurses/) -彩色终端用户界面库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl.html)
-* [nope.c](https://github.com/riolet/WAFer) -基于C语言的超轻量软件平台，用于可伸缩的服务器端和网络应用程序（对于C程序员，请考虑一下node.js）. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
+* [ncurses](https://www.gnu.org/software/ncurses/) -彩色终端用户界面库. [`GNU GPL3 or later`](http://www.gnu.org/licenses/gpl-3.0.html)
+* [nope.c](https://github.com/riolet/WAFer) -基于C语言的超轻量软件平台，用于可扩展的服务器端和网络应用程序（对于C程序员，请考虑一下node.js）. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 * [pbc](https://github.com/cloudwu/pbc) -协议缓冲区库. [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [rabbitmq-c](https://github.com/alanxz/rabbitmq-c) -的客户端库 [RabbitMQ](https://www.rabbitmq.com/). [`Expat`](https://directory.fsf.org/wiki/License:Expat)
 * [Ragel](http://www.colm.net/open-source/ragel/) -用于编译为C的状态机的DSL. [`GNU GPL2.1`](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)

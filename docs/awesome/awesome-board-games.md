@@ -177,7 +177,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  10  30m |
+ |  2  10 |  30m |
 
 ### [Antike Duellum](https://boardgamegeek.com/boardgame/104955/antike-duellum)
 
@@ -213,7 +213,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族，以及《 A Clash》扩展版国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -223,7 +223,7 @@
 
 ### [YINSH](https://en.wikipedia.org/wiki/YINSH)
 
- &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您的圈数更少.
+ &gt;玩家从棋盘上的五个环开始.  第一个删除3个环的玩家将成为赢家.  每次移动戒指时，都会留下一个标记.  标记的一侧是白色，另一侧是黑色，每次跳动时，都必须将其翻转.  一旦玩家排成一行5个颜色标记，他们就可以删除戒指.  面临的挑战是，您所做的每一排比赛都使您离胜利越来越近，但同时也使您变得更虚弱，因为您可以少玩一圈.
 
 ![YINSH game image](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/YINSH_in_Play.jpg/250px-YINSH_in_Play.jpg)
 
@@ -243,7 +243,7 @@
 
 ### [Anachrony](http://anachronyboardgame.com/)
 
- &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏中的时间旅行来实现.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
+ &gt;时代性是一种竞争性的欧洲风格战略游戏，其背景是世界末日，它沿着四种不同的意识形态路径重建.  游戏通过一系列称为“时代”的回合来进行，过去的回合可以通过游戏后期的时间旅行达到.  玩家扮演着四个路径的标志性领导者的角色，不仅为人民的至高无上和幸福而努力，而且为他们的生存而努力.  在第四个时代之后，一颗小行星撞击地球，威胁要摧毁地球的最后一个独立城市世界首都.  路径应为即将来临的大灾难做好准备，并在时机成熟时参与撤离崩溃的首都.  最后，其中一条道路将是改革后的世界理事会的新家园，并将人类带入一个新的未来.
 
 ![Anachrony game image](https://cf.geekdo-images.com/itemrep/img/SnpcIpaKXsWaMWsxf4-bZHDbSG0=/fit-in/246x300/pic3499707.jpg)
 
@@ -263,7 +263,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;腐败的城市受到邪恶和贪婪的控制，处于邪恶角色的控制之下.  权力的位置空缺，等待您接管-除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是通过让他们沿着游戏中彼此消灭来进行.方式.
+ &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.方式.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -323,7 +323,7 @@
 
 ### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
 
- &gt;在诺丁汉郡治安官中，每位球员都扮演着一个商人的角色，他希望在王子访问诺丁汉期间获得可观的利润.  虽然可以从合法商品中获得可观的利润，但非法商品会使您身陷财宝.  但是要小心，以免诺丁汉郡治安官抓住您！
+ &gt;在诺丁汉郡治安官中，每个球员都扮演着一个商人的角色，该商人希望在王子访问诺丁汉期间赚取可观的利润.  虽然可以从合法商品中获得可观的利润，但非法商品会使您身陷财宝.  但是要小心，以免诺丁汉郡治安官抓住您！
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
@@ -339,7 +339,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2-4 |  10  30m |
+ |  2-4 |  10 |  30m |
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
@@ -466,7 +466,7 @@
 
 ### [Who Wants to Be a Millionare](http://www.boardgamecapital.com/who-wants-to-be-a-millionaire-rules.htm)
 
- &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看《谁想成为百万富翁》的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
+ &gt;曾经想玩流行的Game Show游戏谁想成为百万富翁？  看看谁想成为百万富翁的棋盘游戏版本.  除了电视摄像机，Regis Philbin和真钱游戏外，这是同一款游戏，其中包括简单可笑的\ $ 100问题，生命线和超过2,000个问题.
 
 ![Who Wants to be a millionare game image](https://upload.wikimedia.org/wikipedia/en/7/75/Millionaire.png)
 
@@ -496,7 +496,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍保留着烈酒的地方宣称拥有主权；而一旦这样做，土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -527,7 +527,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -577,7 +577,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后与对手相比，击败更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -631,7 +631,7 @@
 
 &gt;荒谬的论战
 
- Superfight是一款游戏，您可以与您的朋友争论荒谬的战斗.  游戏非常简单.  玩家使用这些卡牌来创造可笑的战士，并争论哪个角色会在战斗中获胜.  然后，周围的所有人都对获胜者进行投票.  可以想象，战斗是史诗般的和搞笑的.  各个年龄段的人都很有趣，并且适用于各种玩家.
+ Superfight是一款游戏，您可以在荒谬的战斗中与朋友争论.  游戏非常简单.  玩家使用这些牌来创建荒谬的战士，并争论哪个角色会在战斗中获胜.  然后，周围的所有人都对获胜者进行投票.  可以想象，战斗是史诗般的和搞笑的.  各个年龄段的人都很有趣，并且适用于各种玩家.
 
 ![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
 
@@ -648,6 +648,16 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  2-4 |  10 |  20m |
+
+### [TZAAR](https://en.wikipedia.org/wiki/TZAAR)
+
+ &gt; TZAAR是GIPF系列抽象策略游戏中的第二款游戏.  每个玩家都有不同类型的棋子（6扎，9扎和15图）.  玩家轮流尝试捕获对手的棋子或堆叠棋子.  堆叠棋子可以使棋子更坚固，但可以减少玩家在棋盘上的棋子数量.  如果玩家无法抓住对手的棋子，或者在战线上没有每种棋子的至少一种类型，他们就会输掉比赛. 
+
+![TZAAR image](https://upload.wikimedia.org/wikipedia/en/b/b2/TZAAR_box_cover.png)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | -----: |
+ |  2 |  13 |  30-60m |
 
 ## Contribute
 

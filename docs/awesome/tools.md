@@ -2,7 +2,7 @@
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 ## Web Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-&gt;用于Web开发的托管工具的绝佳列表.
+&gt;大量的网页开发托管工具.
 
 ### Response
 
@@ -109,6 +109,7 @@
 ### Font
 
 * [Google Fonts](https://www.google.com/fonts)
+* [Adobe Fonts](https://fonts.adobe.com/)
 * [dafont](http://www.dafont.com/)
 * [youziku](http://www.youziku.com/)
 * [qiuziti](http://www.qiuziti.com/)

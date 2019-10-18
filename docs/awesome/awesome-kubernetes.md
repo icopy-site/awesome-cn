@@ -52,7 +52,7 @@ _Source:_ [Kubernetes Past](http://research.google.com/pubs/archive/44843.pdf)
 ## Roadmap
 
 awesome-kubernetes现在将以不同的发行版和软件包捆绑形式提供，这意味着您可以
- 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑包发行版发行.  请查看发布列以获取更多信息.
+ 在一段时间内下载真棒kubernetes发行版，真棒kubernetes 2015捆绑软件发行版发行.  请查看发布列以获取更多信息.
 
 ## Featured On
 
@@ -330,7 +330,7 @@ Installers
   - [Eldarion Cloud](http://eldarion.cloud)
   - [Hasura](http://www.hasura.io)
   - [Kel](http://www.kelproject.com)
-  - [KubeSail](https://kubesail.com) - An easy, free way to try Kubernetes
+  - [KubeSail](https://kubesail.com) -一种简单，免费的尝试Kubernetes的方法
   - [KubeSphere](https://kubesphere.io/en)
   - [OpenShift Online/Dedicated/Container Platform](https://www.openshift.com/)
   - [OpenShift Origin (OKD)](http://www.okd.io)
@@ -469,7 +469,7 @@ Projects
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -监视入口端点并在配置的正常运行时间检查器上自动注册活动警报
 * [kmachine](https://github.com/skippbox/kmachine)
 * [KEDA](https://github.com/kedacore/keda) -基于Kubernetes的事件驱动自动缩放
-* [kube-fledged](https://github.com/senthilrch/kube-fledged) -一个K8S插件，用于直接在集群工作程序节点上创建和管理容器映像的缓存
+* [kube-fledged](https://github.com/senthilrch/kube-fledged) -K8S插件，用于直接在集群工作程序节点上创建和管理容器映像的缓存
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
@@ -549,7 +549,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -564,7 +564,7 @@ Projects
 * [KubeCI](https://www.kubeci.io/)
 * [Razee](https://github.com/razee-io/Razee)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
-* [Shipper](https://github.com/bookingcom/shipper) -使用Helm的Kubernetes本机多集群金丝雀或蓝绿色产品.
+* [Shipper](https://github.com/bookingcom/shipper) -使用Helm的Kubernetes原生多集群金丝雀或蓝绿色产品.
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
@@ -600,7 +600,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -662,6 +662,7 @@ Projects
 * [Contiv](http://contiv.github.io/)
 * [External DNS](https://github.com/kubernetes-incubator/external-dns) -通过Kube资源动态控制DNS记录
 * [Goldpinger](https://github.com/bloomberg/goldpinger) 显示，监视和提醒集群间连接
+* [illuminatio](https://github.com/inovex/illuminatio) 是用于自动测试kubernetes网络策略的工具
 * [Infoblox](https://github.com/infobloxopen/cni-infoblox)
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [kubernetes-network-policy-recipes](https://github.com/ahmetb/kubernetes-network-policy-recipes)
@@ -792,7 +793,7 @@ Projects
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
 * [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes Security Bench for Go是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes安全台式机是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
@@ -865,7 +866,7 @@ Projects
 
 ## Static Analysis
 
-* [kube-score](https://github.com/zegl/kube-score) -Kubernetes对象分析并提出了改进可靠性和安全性的建议
+* [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
 * [popeye](https://github.com/derailed/popeye) -Kubernetes集群资源清理工具
 
 ## Tuning

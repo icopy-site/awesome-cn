@@ -37,6 +37,7 @@
 
 ## MOOCs
 
+- [Brilliant.org Quantum Computing](https://brilliant.org/courses/quantum-computing/)  -通过问题进行解释.  与Microsoft和Alphabet X一起策划.
 - [MIT Quantum Information Sciences](https://ocw.mit.edu/courses/media-arts-and-sciences/mas-865j-quantum-information-science-spring-2006/lecture-notes/) -麻省理工学院量子信息科学课程的系列讲义.
 - [QC101 Quantum Computing & Quantum Physics for Beginners](https://www.udemy.com/qc101-introduction-to-quantum-computing-quantum-physics-for-beginners/) -量子密码学入门课程以及如何运行量子程序.
 - [Quantum Computing: Theory to Simulation and Programming](https://www.udemy.com/course/quantum-computing/) -了解D-Wave Quantum Annealer架构以及一些实际任务.

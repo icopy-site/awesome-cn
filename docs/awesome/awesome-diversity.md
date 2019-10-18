@@ -5,7 +5,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Mencionado en Comunidad Tecnológica](https://github.com/comunidad-tecnologica/comunidad-tecnologica/blob/master/img/comunidad-tecnologica.svg)](https://github.com/comunidad-tecnologica/comunidad-tecnologica)
 
- ：sparkles：精选的有关技术多样性的惊人文章，网站和资源列表.  ：闪耀：
+ ：sparkles：精选的有关技术多样性的惊人文章，网站和资源列表.  ：火花：
 
  该列表包含有关多样性的各种资源，更具体地说是技术多样性，包括帖子，演讲，可操作的资源，会议，社交媒体倡导者等等.  该列表的目的是为愿意在日常活动中做得更好以使科技行业更具包容性的科技公司和社区以及希望进一步阅读有关主题的个人提供快速访问多样性信息的渠道.可能会让他们对技术领域的多样性和公平性感兴趣.
 
@@ -22,7 +22,7 @@
 - [Algorithmic Justice League](https://www.ajlunited.org/) -旨在对抗算法偏差的集体.
 - [AnyKey](https://www.anykey.org) -旨在帮助边缘化游戏社区成员在电子竞技中创造公平和包容性空间的组织.
 - [Black Girls Code](http://www.blackgirlscode.com/) -致力于向世界展示黑人女孩可以编码的组织.
-- [Black Girl Gamers](http://blackgirlgamers.com)  -支持黑人女孩游戏玩家的安全空间.  也可在以下位置找到：
+- [Black Girl Gamers](http://blackgirlgamers.com)  -支持黑人女孩游戏玩家的安全空间.  也可以在以下位置找到：
   - [Twitch](https://www.twitch.tv/blackgirlgamers)
   - [Steam](https://steamcommunity.com/groups/BlackGirlsWhoPlayGames)
 - [Blacks In Technology](https://www.blacksintechnology.net/) -通过建立世界一流的技术卓越和创新蓝图，企业化专注于“跨越鸿沟”.
@@ -30,7 +30,7 @@
 - [Code 2040](http://www.code2040.org/) -通过各种计划和研究金，Code2040是一项伟大的计划，为黑人和拉丁裔人才创造了技术机会.
 - [Codebar](https://codebar.io/) -Codebar是一项非营利性计划，通过举办定期的编程研讨会来促进多元化的技术社区的发展.
 - [Code Liberation](http://codeliberation.org/) -代码解放促进了女性，非二元，女性和识别女性的人们创建数字游戏和创造技术，从而使STEAM领域多样化.
-- [Consensual Software](http://consensualsoftware.com/) - An open source project advocating for better use consent in software design.
+- [Consensual Software](http://consensualsoftware.com/) -一个开源项目，提倡在软件设计中更好地使用许可.
 - [Dear Tech People](http://www.deartechpeople.com) -种族和性别多样性排名，排名前100位的高科技公司.
 - [Dev Color](https://www.devcolor.org/) -一个非营利性组织，旨在促进Black软件工程师的职业发展.
 - [Diversify Tech](https://www.diversifytech.co/) -为技术含量不足的人提供的资源集合.
@@ -49,7 +49,7 @@
 - [Hidden Genius Project](http://www.hiddengeniusproject.org/) -该计划将年轻的黑人男性与成为高级企业家和技术人员所需的一切联系在一起.
 - [Kapor Center](http://www.kaporcenter.org/) -Kapor家族组织致力于消除有代表性的有色人种对科学，技术，工程和数学（STEM）教育和科技职业的障碍.
 - [Lesbians Who Tech](https://lesbianswhotech.org/) -科技界的女同志社区是科技界（或热爱她们的人）中或附近的同性恋女性社区.
-- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目值得欢迎，包容和赞赏其贡献者的多样性.
+- [OS4W](https://www.os4w.org) -OS4W的目标是成为一种资源，使包括有色人种和变性妇女在内的所有妇女参与到开源项目中，这些项目受欢迎，包容并赞赏其贡献者的多样性.
 - [Open Sourcing Mental Illness](https://osmihelp.org/) -开源精神疾病是一家非营利性公司，致力于在技术和开源社区中提高意识，进行教育并提供资源来支持心理健康.
 - [ParadigmIQ](https://www.paradigmiq.com/) -范式提供了一系列的研讨会，培训和评估，以帮助实现多样性，包容性，归属感，保留性等等.
 - [People Of Creativity](http://www.peopleofcreativity.xyz/) -致力于建立共享机会，经验和思想的社区的组织，最终改善了整个创意产业中少数民族的代表权.
@@ -68,14 +68,14 @@
 - [Tech Ladies](https://www.hiretechladies.com/) -科技女士将女性与最佳工作和技术机会联系在一起.
 - [Teens Exploring Technology](http://exploringtech.org/) -鼓励内城青少年黑人和拉丁裔男性成为城市社区变革的催化剂.
 - [TLA Women In Tech](http://tlawomenintech.org/) -致力于提高性别平衡和技术平等的工作组.
-- [Trans*H4CK](http://www.transhack.org/) -Trans \ * H4CK通过改善获得社会服务的机会，促进性别安全和社区可持续性，同时为跨性别*技术创新者和企业家提供可见性，为跨性别者，性别不合格者，性别和非二元人群提供支持.
+- [Trans*H4CK](http://www.transhack.org/) -Trans \ * H4CK通过改善人们获得社会服务的机会，促进性别安全和社区可持续发展，同时为跨性别*技术创新者和企业家提供可见性，为跨性别，性别不合格，性别和非二元人群提供支持.
 - [Women Love Tech](https://womenlovetech.com/)  -推出“女性热爱技术”，旨在分享对技术的热情和热爱.  从那时起，Women Love Tech已发展成为一种生活方式技术数字杂志，面向那些热爱一切可以改善其日常生活方式的技术的女性.
 - [Women Make](https://womenmake.com/) -一个妇女在前列的社区.
 - [Women Techmakers](https://www.womentechmakers.com/) -Google的计划，旨在为女性提供技术方面的知名度，社区和资源.
 - [Women Who Code](https://www.womenwhocode.com/) -《妇女守则》是一个全球社区，通过资源，工作委员会，会议奖学金和其他会员福利，赋予妇女权力，使其在技术领域脱颖而出.
 - [Women Who Go](https://www.womenwhogo.org/) -致力于建立一个更加多元化和包容性的Golang社区的网络.
 - [Women Who Tech](https://www.womenwhotech.com/) -非营利组织，将才华横溢且享誉盛名的女性召集在一起，在技术领域开创新局面，以改变世界并激发变革.
-- [Wonder Women Tech](https://wonderwomentech.com/) -产生全年计划以及在STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中强调，教育和庆祝妇女与多样性的国家和国际会议的组织.
+- [Wonder Women Tech](https://wonderwomentech.com/) -举办全年计划以及国家，国际会议的组织，这些会议着重强调，教育和庆祝STEAM（科学，技术，工程，艺术，数学），创新和企业家精神中的妇女与多样性.
 - [YesWeTech](http://yeswetech.org/) -女权主义社区致力于为对技术感兴趣的女性建立平等而自豪的文化.
 
 ## Events
@@ -85,7 +85,7 @@
 - [ACT-W National Conference](http://www.act-w.org/) -由ChickTech主办的ACT-W National致力于为您提供关于职业发展，领导才能，技术和多样性的启发性和可行的教育.
 - [AlterConf](https://alterconf.com/) -AlterConf是一个旅行会议系列，为处于边缘地位的人们以及在技术和游戏行业中为他们提供支持的人们提供安全的机会.
 - [Elixir With Love](https://www.elixir-with-love.com/) -Elixir With Love是一个积极的会议，其使命是向开发人员介绍这种令人兴奋的新语言，并建立一个多样化的Elixir社区.
-- [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体.  在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，并通过提供旅游活动和使人们更难以离开家人的会议（通过提供旅游活动）以及诸如婴儿床和婴儿推车.
+- [Lambda World](http://www.lambda.world/)  -Lambda World是一个功能性编程会议，其思想是授权技术不足的少数群体.  在这种思维方式下，我们将采取一些行动，例如创建用于支付门票和住宿的补助金，举办包容性研讨会，以及通过提供旅游活动使个人更难以离开家庭，从而使会议更容易进行，婴儿床和婴儿推车.
 - [DDD Europe](https://dddeurope.com)  -欧洲域驱动设计专注于软件设计和建模.  他们为多样性和改善活动做出了惊人的承诺.
 
 ## Ally Resources
@@ -126,9 +126,10 @@
 
 - [100 Women In Tech And Founders To Follow On Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) -作者：Allyson Kapin.
 - [30+ Diversity And Inclusion Activists And Organisations I Look Up To](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) -Karolina Szczur.
-- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) -法鲁克·阿特斯
+- [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) -法鲁克·阿特斯（Faruk Ates）.
 - [A Counterintuitive Way To Increase Diversity In Tech](https://medium.com/@rachelnabors/a-counterintuitive-way-to-increase-diversity-in-tech-31aea2ce6a50) -Rachel Nabors.
-- [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) -斯蒂芬·特尔班（Stephen Turban），劳拉·弗里曼（Laura Freeman）和本·瓦伯（Ben Waber）
+- [A Study Used Sensors To Show That Men And Women Are Treated Differently At Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) -斯蒂芬·特尔班（Stephen Turban），劳拉·弗里曼（Laura Freeman）和本·瓦伯（Ben Waber）.
+- [Accessibility 101: Introduction To Disability And Accessibility](https://www.youtube.com/watch?v=qM7wFZo5yfI) -詹妮·莱弗莱里（Jenny Lay-Flurrie）. 
 - [Advice For Women In Tech Who Are Tired Of Talking About Women In Tech](https://blog.valerieaurora.org/2018/03/11/advice-for-women-in-tech-who-are-tired-of-talking-about-women-in-tech/) -瓦莱丽·奥罗拉（Valerie Aurora）.
 - [Becoming A 10x Developer](https://kateheddleston.com/blog/becoming-a-10x-developer) -凯特·赫德斯顿（Kate Heddleston）.
 - [Bias, Diversity, Backlash, Manifestos, And Rebuttals](https://code.likeagirl.io/bias-diversity-backlash-manifestos-and-rebuttals-834f7425180e) -Lorena A Barba.
@@ -158,7 +159,7 @@ Will Evans和Sinduja Rangarajan.
 - [On Toxic Jobs, Low Self-Esteem, & Interviewing](https://code.likeagirl.io/toxic-jobs-low-self-esteem-interviewing-6c4650a3c28a) -Rachel Thomas.
 - [Racial Bias At Tech Companies Is Real](http://www.complex.com/life/2016/03/tech-diversity-problem) -苏珊娜·魏斯（Suzannah Weiss）.
 - [Recruiting For Privilege](https://techburst.io/recruiting-for-privilege-5f019741fac3) -通过Tobbe Gyllebring.
-- [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) -盲人软件工程师Tuukka Ojala撰写.
+- [Software Development 450 Words Per Minute](https://www.vincit.fi/en/blog/software-development-450-words-per-minute/) -盲人软件工程师Tuukka Ojala.
 - [Stop Saying That Diversity Means Lowering The Bar](https://work.qz.com/1175679/software-engineer-tracy-chous-mission-to-diversify-silicon-valley/) -莉亚·费斯勒（Leah Fessler）.
 - [Strategies For Hiring Diverse Candidates](https://code.likeagirl.io/strategies-for-hiring-diverse-candidates-4d86ad693762/) -乔伊·埃伯茨（Joy Ebertz）.
 - [Striving To Be Seen: Black Girl Gamers On Twitch](https://www.engadget.com/2018/08/15/black-girl-gamers-twitch-partner-communities/) -杰西卡·康迪特（Jessica Conditt）.
@@ -189,7 +190,7 @@ Will Evans和Sinduja Rangarajan.
 - [Why I Care About Diversity In Tech](https://medium.com/little-thoughts/why-i-care-about-diversity-in-tech-31bde2de8532) -Tracy Chou.
 - [Why I Don't Use My Real Photo When Messaging With Customers On My Website](https://www.kapwing.com/blog/why-i-dont-use-my-real-photo/) -朱莉娅·恩托芬（Julia Enthoven）.
 - [Why Men Don't Believe The Data On Gender Bias In Science](https://www.wired.com/story/why-men-dont-believe-the-data-on-gender-bias-in-science/) -艾莉森·库尔（Allison Coil）.
-- [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) -佐伊·亨利（ZoëHenry）.
+- [Why More Tech Companies Should Hire People With Disabilities](https://www.inc.com/zoe-henry/aapd-disability-equality-index-2017.html) - By Zoë Henry.
 - [Why Tech Needs The Rooney Rule](https://techcrunch.com/2015/07/28/why-tech-needs-the-rooney-rule/) -萨米·艾哈迈德（Sammy Ahmed）.
 - [Why We Shouldn't Underestimate The Power Of Diversity](http://ideas.ted.com/why-we-shouldnt-underestimate-the-power-of-diversity/) -Joi Ito和Jeff Howe.
 - [Why Your Efforts To Fix Your Pipeline Aren’t Fixing Your Pipeline](https://chelseatroy.com/2018/04/12/why-your-efforts-to-fix-your-pipeline-arent-fixing-your-pipeline/) -切尔西·特洛伊.

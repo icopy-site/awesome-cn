@@ -7,6 +7,7 @@
 
 <p align="center">
     <a href="https://raw.githubusercontent.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+ <a href='https://ko-fi.com/S6S315DNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
@@ -94,7 +95,7 @@ Graphics
 #### Animation
 
 * ：钱袋子： [Fusion Character Animator](http://loopengo.free.fr/) -Clickteam Fusion 2.5的小工具，可为开发人员简化2D角色精灵的动画.
-* ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，可提供高效的工作流程，以创建出色的动画并将其集成到游戏中.
+* ：钱袋子： [Spine](http://esotericsoftware.com/) -Spine致力于2D动画，可提供高效的工作流程，以创建出色的动画并将其集成到您的游戏中.
 * ：钱袋子： [Spriter](http://www.brashmonkey.com/spriter.htm) -用于精灵动画的现代工具.
 *：然后： [DragonBones](http://dragonbones.com) -Flash的开源2D骨架动画解决方案
 * ：钱袋子： [Mixamo](https://www.mixamo.com/#/) -3D人形模型的自动自动装配和动画制作工具，    
@@ -161,7 +162,7 @@ Code
 
 * ：自由： [Agen](http://2dengine.com) -用于使用Lua，兼容的iOS，Mac和Windows设备制作2D游戏的跨平台框架.
 *：然后： [Allegro](http://liballeg.org/) -Allegro 4和5是跨平台的，开放源代码的游戏编程库，主要用于C和C ++开发人员.
-*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`用Rust编写的用于2D和3D的数据驱动游戏引擎.
+*：然后： [Amethyst](https://www.amethyst.rs/) -使用`gfx-rs`用Rust为2D和3D编写的数据驱动游戏引擎.
 *：然后： [amulet](http://www.amulet.xyz/)  -一个基于Lua的免费视听工具包，适用于小型游戏和实验.  它可以在Windows，Mac，Linux，HTML5和iOS上运行.
 *：然后： [AndEngine](http://www.andengine.org) -2D Android游戏引擎
 *：然后： [Azul3D](http://azul3d.org/) -用Go语言编写的3D引擎.
@@ -367,7 +368,7 @@ Audio
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
-* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们共享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
+* [Slidedb](http://www.slidedb.com/) -在Slide DB上，我们为开发人员提供了一个社区，他们可以与他们分享想法并展示他们正在做的工作，而不仅仅是基本的应用程序商店和备受争议的“热门排行榜”.
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

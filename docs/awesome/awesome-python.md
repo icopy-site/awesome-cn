@@ -18,6 +18,7 @@
 * [django-jet](https://github.com/geex-arts/django-jet) -具有改进功能的Django管理界面的现代响应模板.
 * [django-suit](https://djangosuit.com/) -可选的Django Admin界面（仅用于非商业用途免费）.
 * [django-xadmin](https://github.com/sshwsfc/xadmin) -替换Django admin附带许多好处.
+* [jet-bridge](https://github.com/jet-admin/jet-bridge) -具有良好UI的任何应用程序的管理面板框架（例如Jet Django）
 * [flask-admin](https://github.com/flask-admin/flask-admin) -Flask的简单和可扩展的管理界面框架.
 * [flower](https://github.com/mher/flower) -Celery的实时监控器和Web管理员.
 * [wooey](https://github.com/wooey/wooey) -一个Django应用，可为Python脚本创建自动的Web UI.
@@ -154,7 +155,7 @@
 
 ## Command-line Tools
 
-*有用的基于CLI的工具可提高工作效率.*
+*有用的基于CLI的工具可提高生产力*
 
 *生产力工具
     * [cookiecutter](https://github.com/audreyr/cookiecutter) -从cookiecutter（项目模板）创建项目的命令行实用程序.
@@ -164,7 +165,7 @@
     * [percol](https://github.com/mooz/percol) -在UNIX上的传统管道概念中增加了交互选择的味道.
     * [thefuck](https://github.com/nvbn/thefuck) -更正先前的控制台命令.
     * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
-    * [try](https://github.com/timofurrer/try) -一个简单的CLI来试用python软件包-从未如此简单.
+    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) -命令行HTTP客户端，方便用户的cURL替换.
     * [kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳.
@@ -266,7 +267,7 @@
 
 *用于连接和操作数据库的库.
 
-* MySQL- [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
+* MySQL - [awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/)
     * [mysqlclient](https://github.com/PyMySQL/mysqlclient-python) -具有Python 3支持的MySQL连接器（[mysql-python](https://sourceforge.net/projects/mysql-python/) 叉子）.
     * [PyMySQL](https://github.com/PyMySQL/PyMySQL) -与mysql-python兼容的纯Python MySQL驱动程序.
 * PostgreSQL- [awesome-postgres](https://github.com/dhamaniasad/awesome-postgres)
@@ -307,7 +308,7 @@
 
 *类似于pdb的调试器
     * [ipdb](https://github.com/gotcha/ipdb) -启用IPython [pdb](https://docs.python.org/3/library/pdb.html).
-    * [pdb++](https://github.com/antocuni/pdb) -pdb的另一种替代产品.
+    * [pdb++](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb.
     * [pudb](https://github.com/inducer/pudb) -基于控制台的全屏Python调试器.
     * [wdb](https://github.com/Kozea/wdb) -通过WebSocket的不可能的Web调试器.
 *追踪
@@ -367,7 +368,7 @@
     * [dask](https://github.com/dask/dask) -用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) -一个模块，可帮助您构建批处理作业的复杂管道.
     * [mrjob](https://github.com/Yelp/mrjob) -在Hadoop或Amazon Web Services上运行MapReduce作业.
-    * [Ray](https://github.com/ray-project/ray/) -一个用于并行和分布式Python的系统，该系统统一了机器学习生态系统.
+    * [Ray](https://github.com/ray-project/ray/) -用于统一和分布式Python的系统，统一了机器学习生态系统.
 *流处理
     * [faust](https://github.com/robinhood/faust) -流处理库，可移植来自 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) -通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
@@ -414,7 +415,7 @@
 * [python-currencies](https://github.com/Alir3z4/python-currencies) -显示货币格式及其肮脏的货币.
 * [forex-python](https://github.com/MicroPyramid/forex-python) -外汇汇率，比特币价格指数和货币换算.
 * [saleor](http://getsaleor.com/) -Django的电子商务店面.
-* [shoop](https://www.shuup.com/en/) - An open source E-Commerce platform based on Django.
+* [shoop](https://www.shuup.com/en/) -基于Django的开源电子商务平台.
 
 ## Editor Plugins and IDEs
 
@@ -426,10 +427,10 @@
 *我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) -用于Python的Jedi自动完成库的Vim绑定.
     * [python-mode](https://github.com/python-mode/python-mode) -用于将Vim转换为Python IDE的多合一插件.
-    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) -包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
+    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
 * 视觉工作室
     * [PTVS](https://github.com/Microsoft/PTVS) -适用于Visual Studio的Python工具.
-* Visual Studio Code
+* Visual Studio代码
     * [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) -官方VSCode扩展，具有对Python的丰富支持.
 * IDE
     * [PyCharm](https://www.jetbrains.com/pycharm/)  -JetBrains的商业Python IDE.  有免费的社区版.
@@ -453,7 +454,7 @@
 
 *用于Python版本和虚拟环境管理的库.*
 
-* [pyenv](https://github.com/pyenv/pyenv) -简单的Python版本管理.
+* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
 * [pipenv](https://github.com/pypa/pipenv) -人类Python开发工作流程.
 * [poetry](https://github.com/sdispater/poetry) -Python依赖关系管理和打包变得容易.
 * [virtualenv](https://github.com/pypa/virtualenv) -创建隔离的Python环境的工具.
@@ -517,7 +518,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持.
+* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 
 ## Game Development
@@ -525,17 +526,17 @@
 *很棒的游戏开发库.*
 
 * [Cocos2d](http://cocos2d.org/) -cocos2d是用于构建2D游戏，演示和其他图形/交互应用程序的框架.
-* [Harfang3D](http://www.harfang3d.com) -用于3D，VR和游戏开发的Python框架.
+* [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
 * [Panda3D](https://www.panda3d.org/) -迪士尼开发的3D游戏引擎.
 * [Pygame](http://www.pygame.org/news.html) -Pygame是一组旨在编写游戏的Python模块.
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) -用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟和任何3D.
-* [PyOpenGL](http://pyopengl.sourceforge.net/) - Python ctypes bindings for OpenGL and it's related APIs.
+* [PyOpenGL](http://pyopengl.sourceforge.net/) -OpenGL及其相关API的Python ctypes绑定.
 * [PySDL2](https://pysdl2.readthedocs.io) -SDL2库的基于ctypes的包装器.
 * [RenPy](https://www.renpy.org/) -Visual Novel引擎.
 
 ## Geolocation
 
-*用于对地址进行地理编码以及使用纬度和经度的库.
+*Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [django-countries](https://github.com/SmileyChris/django-countries) -一个Django应用，可为模型和表单提供国家/地区字段.
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) -世界一流的地理网络框架.
@@ -567,7 +568,7 @@
 * [grequests](https://github.com/kennethreitz/grequests) -请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
 * [requests](http://docs.python-requests.org/en/latest/) -人类HTTP请求.
-* [treq](https://github.com/twisted/treq) -Python要求，例如在Twisted的HTTP客户端之上构建的API.
+* [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 
 ## Hardware
@@ -639,7 +640,7 @@
 
 * [APScheduler](http://apscheduler.readthedocs.io/en/latest/) -轻巧但功能强大的进程内任务计划程序，可让您计划功能.
 * [django-schedule](https://github.com/thauber/django-schedule) -适用于Django的日历应用程序.
-* [doit](http://pydoit.org/) - A task runner and build tool.
+* [doit](http://pydoit.org/) -任务运行器和构建工具.
 * [gunnery](https://github.com/gunnery/gunnery) -具有基于Web界面的分布式系统的多功能任务执行工具.
 * [Joblib](https://joblib.readthedocs.io/) -一组用于在Python中提供轻量级流水线的工具.
 * [Plan](https://github.com/fengsp/plan) -像用魅惑一样用Python编写crontab文件.
@@ -685,7 +686,7 @@
 
 * [blinker](https://github.com/jek/blinker) -快速的Python处理中信号/事件分配系统.
 * [boltons](https://github.com/mahmoud/boltons) -一组纯Python实用程序.
-* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将受信任的数据传递到不受信任的环境.
+* [itsdangerous](https://github.com/pallets/itsdangerous) -各种帮助程序，将可信数据传递到不可信环境.
 * [pluginbase](https://github.com/mitsuhiko/pluginbase) -一个简单但灵活的Python插件系统.
 * [tryton](http://www.tryton.org/) -通用业务框架.
 
@@ -776,13 +777,13 @@
 *允许或拒绝用户访问数据或功能的图书馆.*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) -为Django 1.2+实现每个对象的权限
-* [django-rules](https://github.com/dfunckt/django-rules) -一个小巧但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
+* [django-rules](https://github.com/dfunckt/django-rules) -一个微型但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
 
 ## Processes
 
 *用于启动和与OS进程通信的库.
 
-* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) for Humans™ 2.0.
+* [delegator.py](https://github.com/kennethreitz/delegator.py) - [Subprocesses](https://docs.python.org/3.6/library/subprocess.html) 适用于Humans™2.0.
 * [sarge](https://sarge.readthedocs.io/en/latest/) -子流程的另一个包装.
 * [sh](https://github.com/amoffat/sh) -全面成熟的Python子流程替代品.
 
@@ -905,7 +906,7 @@
 *办公室
     * [openpyxl](https://openpyxl.readthedocs.io/en/stable/) -用于读取和写入Excel 2010 xlsx / xlsm / xltx / xltm文件的库.
     * [pyexcel](https://github.com/pyexcel/pyexcel) -提供一个用于读取，操作和写入csv，ods，xls，xlsx和xlsm文件的API.
-    * [python-docx](https://github.com/python-openxml/python-docx) - Reads, queries and modifies Microsoft Word 2007/2008 docx files.
+    * [python-docx](https://github.com/python-openxml/python-docx) -读取，查询和修改Microsoft Word 2007/2008 docx文件.
     * [python-pptx](https://github.com/scanny/python-pptx) -用于创建和更新PowerPoint（.pptx）文件的Python库.
     * [unoconv](https://github.com/unoconv/unoconv) -在LibreOffice / OpenOffice支持的任何文档格式之间转换.
     * [XlsxWriter](https://github.com/jmcnamara/XlsxWriter) -用于创建Excel .xlsx文件的Python模块.
@@ -921,7 +922,7 @@
 * YAML
     * [PyYAML](http://pyyaml.org/) -适用于Python的YAML实现.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用程序.
+    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用工具
 *存档
     * [unp](https://github.com/mitsuhiko/unp) -可以轻松解压缩档案的命令行工具.
 
@@ -1012,7 +1013,7 @@
     * [hashids](https://github.com/davidaurelio/hashids-python) - 实施 [hashids](http://hashids.org) 在Python中.
     * [shortuuid](https://github.com/skorokithakis/shortuuid) -生成器库，用于生成简洁，明确和URL安全的UUID.
 *解析器
-    * [ply](https://github.com/dabeaz/ply) -为Python实现lex和yacc解析工具.
+    * [ply](https://github.com/dabeaz/ply) - Implementation of lex and yacc parsing tools for Python.
     * [pygments](http://pygments.org/) -通用语法荧光笔.
     * [pyparsing](https://github.com/pyparsing/pyparsing) -用于生成解析器的通用框架.
     * [python-nameparser](https://github.com/derek73/python-nameparser) -将人名解析为其各个组成部分.
@@ -1022,7 +1023,7 @@
 
 ## Third-party APIs
 
-*Libraries for accessing third party services APIs. Also see [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
+ *用于访问第三方服务API的库.  另见 [List of Python API Wrappers and Libraries](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/) -一个适用于所有云的Python库.
 * [boto3](https://github.com/boto/boto3) -Amazon Web Services的Python接口.
@@ -1050,7 +1051,7 @@
 
 ## WSGI Servers
 
-*WSGI-compatible web servers.*
+*与WSGI兼容的Web服务器.
 
 * [bjoern](https://github.com/jonashaag/bjoern) -异步，非常快，用C编写.
 * [gunicorn](https://github.com/benoitc/gunicorn) -预分支，部分用C编写.
@@ -1173,7 +1174,6 @@
 * [Django Packages](https://djangopackages.org/)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * [Python Cheatsheet](https://www.pythoncheatsheet.org/)
-* [Python Hackers](http://www.oss.io/open-source/)
 * [Python ZEEF](https://python.zeef.com/alan.richmond)
 * [Python 开发社区](https://www.ctolib.com/python/)
 * [Real Python](https://realpython.com)

@@ -21,7 +21,7 @@
 ## Major Cloud Providers
 
   * [Google Cloud Platform](https://cloud.google.com)
-    * App Engine - 28 frontend instance hours per day, 9 backend instance hours per day
+    * App Engine-每天28个前端实例小时，每天9个后端实例小时
     * Cloud Firestore-1GB存储，每天50,000次读取，20,000次写入，每天20,000次删除
     * Compute Engine-1个不可抢占的f1-micro，30GB硬盘，5GB快照存储（仅限某些地区）
     *云存储-5GB，1GB网络出口
@@ -107,7 +107,7 @@
   * [Diggernaut](https://www.diggernaut.com/)  —基于云的Web抓取和数据提取平台，用于将任何网站转换为数据集或与API一起使用.  免费计划包括每月5K页面的请求.
   * [Colaboratory](https://colab.research.google.com) —带有Nvidia Tesla K80 GPU的免费基于Web的Python笔记本环境.
   * [tamber](https://tamber.com)  —在应用程序中添加基于深度学习的建议.  免费的5k每月活跃用户.
-  * [IP Geolocation](https://ipgeolocation.io/) — IP地理位置API-每月30k请求（每天（k / day）限制）的开发人员永久免费的计划.
+  * [IP Geolocation](https://ipgeolocation.io/) — IP Geolocation API - Forever free plan for developers with 30k requests per month (1k/day) limit.
   * [RequestBin.com](https://requestbin.com)  —创建一个免费的端点，可以向其发送HTTP请求.  发送到该端点的所有HTTP请求都将与相关的有效负载和标头一起记录，因此您可以观察来自Webhooks和其他服务的请求.
   * [MailboxValidator](https://www.mailboxvalidator.com)  —使用真实邮件服务器连接的电子邮件验证服务，以确认有效的电子邮件.  免费API计划每月有300个验证.
   * [IP2Location](https://www.ip2location.com)  — Freemium IP地理位置服务.  LITE数据库可免费下载.  将数据库导入服务器，然后执行本地查询以确定城市，坐标和ISP信息.
@@ -207,11 +207,12 @@
   * [gitlab.com](https://about.gitlab.com/product/continuous-integration/)  —使用GitLab的CI服务直接从Git存储库创建管道.  2,000min / mo
   * [buddy.works](https://buddy.works/) —具有5个免费项目和1个并发运行的CI / CD（每月执行120次）
   * [bitrise.io](https://www.bitrise.io/)  —用于移动应用程序（本机或混合）的CI / CD.  每月有200次免费构建，构建时间为10分钟，有两名团队成员.  OSS项目的构建时间为45分钟，并发+1，团队规模无限制.
+  * [IBM Continuous Delivery](https://www.ibm.com/cloud/continuous-delivery) -每月免费提供500个交付管道作业
 
 ## Automated Browser Testing
 
   * [gridlastic.com](https://www.gridlastic.com/) —通过免费计划最多可同时进行4个硒节点的Selenium Grid测试/ 10个网格启动/每月4,000个测试分钟
-  * [saucelabs.com](https://saucelabs.com/) — Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://saucelabs.com/open-source)
+  * [saucelabs.com](https://saucelabs.com/) —跨浏览器测试，Selenium测试和移动测试， [free for Open Source](https://saucelabs.com/open-source)
   * [browserstack.com](https://www.browserstack.com/) —手动和自动浏览器测试，对于开源免费
   * [everystep-automation.com](https://www.everystep-automation.com/) —记录和重放在Web浏览器中执行的所有步骤并创建脚本，...免费，选项更少
   * [Applitools.com](https://applitools.com/)  —针对Web，本地移动和桌面应用程序的智能视觉验证.  与几乎所有自动化解决方案（例如Selenium和Karma）和远程运行程序（Sauce Labs，Browser Stack）集成.  免费开源.  每周检查点数量有限的单个用户的免费套餐.
@@ -270,7 +271,7 @@
   * [lingohub.com](https://lingohub.com/) —最多释放3个用户，对于开源始终免费
   * [webtranslateit.com](https://webtranslateit.com/) —最多释放500个字符串
   * [transifex.com](https://www.transifex.com/) —开源免费
-  * [oneskyapp.com](https://www.oneskyapp.com/) —有限的免费版本，最多可容纳5个用户，免费提供给开源
+  * [oneskyapp.com](https://www.oneskyapp.com/) — Limited free edition for up to 5 users, free for Open Source
   * [crowdin.com](https://crowdin.com/) —开源的无限项目，无限字符串和合作者
   * [Loco](https://localise.biz/) —最多免费翻译2000笔，翻译数量不限，每种项目10种语言，每种项目1000种可翻译资产
 
@@ -285,6 +286,7 @@
   * [nodequery.com](https://nodequery.com/) —免费的基本服务器监视器，最多可容纳10台服务器
   * [circonus.com](https://www.circonus.com/) —免费获得20个指标
   * [uptimerobot.com](https://uptimerobot.com/) —网站监控，免费提供50个监控器
+  * [sitemonki.com](https://sitemonki.com/) -网站，域名，Cron和SSL监控，每个类别中免费提供5个监控器
   * [statuscake.com](https://www.statuscake.com/) -网站监控，无限制的无限制测试
   * [bmc.com](https://www.bmc.com/truesightpulse/) — Free 1 second resolution for up to 10 servers
   * [ghostinspector.com](https://ghostinspector.com/)  —免费的网站和Web应用程序监视.  单用户，每月100次测试运行
@@ -312,6 +314,7 @@
   * [rollbar.com](https://rollbar.com/) —异常和错误监控，每月有5,000个错误的免费计划，无限用户，保留30天
   * [bugsnag.com](https://www.bugsnag.com/) -初次试用后每月最多可免费提供2,000个错误
   * [sentry.io](https://sentry.io/)  -Sentry实时跟踪应用程序异常，有一个小的免费计划.  如果是自托管的，则可以免费，不受限制地使用
+  * [honeybadger.io](https://www.honeybadger.io)  -非常棒的异常，正常运行时间和cron监视，您希望您的网站有更多错误.  Honeybadger对于单独的开发人员和开源项目是免费的（每月12,000个错误）.
 
 ## Search
 
@@ -461,7 +464,7 @@
   * [duckdns.org](https://www.duckdns.org/)  —免费DDNS，免费层最多包含5个域.  带有各种设置的配置指南.
   * [1984.is](https://www.1984.is/product/freedns/) —带有API的免费DNS服务，包括许多其他免费DNS功能.
   * [Cloudflare](https://www.cloudflare.com/)  -免费DNS.  域数量不限.
-  * [biz.mail.ru](https://biz.mail.ru) —最多可容纳5,000个用户的免费电子邮件和DNS托管
+  * [biz.mail.ru](https://biz.mail.ru) — Free email and DNS hosting for up to 5,000 users
   * [pointhq.com](https://pointhq.com/developer) —在Heroku上免费托管DNS.
   * [dnspod.com](https://www.dnspod.com/) —免费的DNS托管.
   * [entrydns.net](https://entrydns.net/) —具有动态DNS支持的免费DNS托管服务.
@@ -508,7 +511,7 @@
    * [bitrix24.com](https://www.bitrix24.com/) —免费的内部网和项目管理工具
    * [pivotaltracker.com](https://www.pivotaltracker.com/) — Pivotal Tracker，对于公共项目免费
    * [kanbantool.com](https://kanbantool.com/)  -基于看板委员会的项目管理.  免费的付费计划，更多选择
-   * [kanbanflow.com](https://kanbanflow.com/) — Board based project management. Free, premium version with more options
+   * [kanbanflow.com](https://kanbanflow.com/)  -基于董事会的项目管理.  免费的高级版本有更多选择
    * [zenhub.io](https://www.zenhub.io/)  — GitHub内唯一的项目管理解决方案.  公共回购，OSS和非营利组织免费
    * [trello.com](https://trello.com/)  -基于董事会的项目管理.  自由
    * [clickup.com](https://clickup.com/)  - 项目管理.  具有云存储功能的免费高级版本.  提供移动应用程序和Git集成
@@ -548,7 +551,7 @@
    * [plot.ly](https://plot.ly/)  —图形化并共享您的数据.  免费套餐包括无限的公共文件和10个私人文件
    * [transloadit.com](https://transloadit.com/)  —处理文件上传以及视频，音频，图像，文档的编码.  免费提供开源和其他功能.  商业应用程序可免费获得1 GB的测试驱动器
    * [podio.com](https://podio.com/) —您可以与多达五个人的团队一起使用Podio，并尝试基本计划的功能，但用户管理除外
-   * [shrinkray.io](https://shrinkray.io/) — Free image optimization of GitHub repos
+   * [shrinkray.io](https://shrinkray.io/) — GitHub存储库的免费图像优化
    * [kraken.io](https://kraken.io/) —用于网站性能即服务的图像优化，免费计划最大1 MB文件大小
    * [placeholder.com](https://placeholder.com/) —快速简单的图像占位符服务
    * [placekitten.com](https://placekitten.com/) —快速简单的服务，用于获取小猫图片以用作占位符
@@ -572,7 +575,7 @@
   * [walkme.com](https://www.walkme.com/) —企业级指导和参与平台，免费计划3次步行，每次步行最多5步
   * [marvelapp.com](https://marvelapp.com/) —设计，原型制作和协作，可免费用于3个项目
   * [Zeplin](https://zeplin.io/)  —设计师和开发人员协作平台.  显示设计，资产和样式指南.  1个项目免费.
-  * [figma.com](https://www.figma.com)  —用于团队的在线协作设计工具；  免费套餐包括无限的文件和查看器，最多2个编辑器和3个项目
+  * [figma.com](https://www.figma.com) — Online, collaborative design tool for teams; free tier includes unlimited files and viewers with a max of 2 editors and 3 projects
   * [designer.io](https://www.designer.io/)  —用于UI，插图等的设计工具.  有一个本机应用程序.  自由
   * [photopea.com](https://www.photopea.com) —具有Adobe Photoshop UI的免费，高级在线设计编辑器，支持PSD，XCF和Sketch格式（Adobe Photoshop，Gimp和Sketch App）.
   * [pexels.com](https://www.pexels.com/)  -免费的商业照片.  有免费的API，可让您按关键字搜索照片.
@@ -688,6 +691,7 @@
   * [Formcarry.com](https://formcarry.com) -HTTP POST表单端点，免费计划每月允许100次提交.
   * [Typeform.com](https://www.typeform.com/)  —在网站上包括设计精美的表格.  免费计划每个表格仅允许10个字段，每月只允许100个回复.
   * [SurveyMonkey.com](https://www.surveymonkey.com)  —创建在线调查.  在线分析结果.  免费计划每次调查仅允许10个问题和100个答复.
+  * [Filly](https://fill.ly)  -通过重复使用以前在应用程序上完成的手动操作来增强您的Web开发工作流程.  填写表格以改善团队协作. 
 
 ## Other Free Resources
   * [github.com — FOSS for Dev](https://github.com/tvvocold/FOSS-for-Dev) —开发人员免费和开源软件的中心

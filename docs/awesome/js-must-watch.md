@@ -1,11 +1,12 @@
 <div class="github-widget" data-repo="bolshchikov/js-must-watch"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;这是专门针对JavaScript的必备视频列表 
+&gt;这是专门介绍JavaScript的必看视频的列表 
 
 ## 2019
 1. [Rich Harris: **Rethinking reactivity**](https://www.youtube.com/watch?v=AdNJ3fydeao) [36:44]
 1. [Mathias Bynens & Sathya Gunasekaran: **What's new in JavaScript?**](https://www.youtube.com/watch?v=c0oy0vQKEZE) [36:32]
+1. [Una Kravets: **CSS Houdini & The Future of Styling**](https://www.youtube.com/watch?v=GhRE3rML9t4) [25:42]
 
 ## 2018
 1. [Jake Archibald: **In The Loop**](https://www.youtube.com/watch?v=cCOL7MC4Pl0) [35:11]
@@ -79,7 +80,7 @@
 
 ## 2012
 1. [Ryan Sandor Richards: **Garbage Collection & Heap Management**](http://vimeo.com/45140516) [32:57]
-1. Addy Osmani：**扩展您的JavaScript应用程序**
+1. Addy Osmani：扩展您的JavaScript应用程序**
 	* [Part 1](https://youtu.be/2g8AceFb0is) [22:37]
 	* [Part 2](https://youtu.be/AlJdI6yNo4U) [15:41]
 	* [Part 3](https://youtu.be/LZK-ObWu_5I) [33:31]
