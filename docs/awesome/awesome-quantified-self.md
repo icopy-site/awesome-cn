@@ -18,6 +18,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Quantified Self](http://quantifiedself.com/) - 官方网站.
 - [Flowing Data](http://flowingdata.com/category/self-surveillance/) -自我监测和量化新闻.
 - [Wearables Database](http://vandrico.com/wearables/) -每个身体部位都提供可穿戴设备的出色列表.
+- [Wearables Table](https://quantifyme.io/) -不错的人群来源的可穿戴设备表.
 - [Wolfram Connected Devices Project](http://devices.wolfram.com/) -物联网和量化自助设备列表.
 - [Quantified Self Instutite](http://www.qsinstitute.org/) -量化的自我研究和创新项目.
 

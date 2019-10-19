@@ -9,6 +9,9 @@
 
 &gt;精选的心智扩展书籍清单.
 
+ 我们正在一个网站上进行书籍扩展.  它正在建设中，可以在https://books.vishnuks.com上访问.  如果你
+有兴趣改善网站的人可以随时提出公开问题之一.
+
 
 ## Books
 
@@ -36,7 +39,7 @@
  |  好主意从何而来？  史蒂文·约翰逊| [4.03](https://www.goodreads.com/book/show/8034188-where-good-ideas-come-from) | 2010 |  
  |  传递幸福：获取利润，激情和目标的途径  谢东| [4.01](http://www.goodreads.com/book/show/6828896-delivering-happiness) | 2010 |  
  |  创新者的困境|  克莱顿山  克里斯滕森| [4.00](https://www.goodreads.com/book/show/2615.The_Innovator_s_Dilemma) | 1997 |  
- |  影响者：领导变革的新科学|  约瑟夫·格兰尼（Joseph Grenny），凯里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
+ |  影响者：领导变革的新科学|  约瑟夫·格兰尼（Joseph Grenny），克里·帕特森（Kerry Patterson）| [3.98](https://www.goodreads.com/book/show/914211.Influencer) | 2007 |  
  |  重新审视电子神话：为什么大多数小型企业不起作用以及如何处理|  迈克尔·格伯| [3.98](https://www.goodreads.com/book/show/81948.The_E_Myth_Revisited) | 1995 |  
  |  完成事情：无压力生产力的艺术  大卫艾伦| [3.98](https://www.goodreads.com/book/show/1633.Getting_Things_Done) | 2001 |  
  |  失去童贞：我如何生存，玩乐并发家致富  理查德·布兰森| [3.97](https://www.goodreads.com/book/show/211099.Losing_My_Virginity) | 1998 |  
@@ -58,7 +61,7 @@
  |  传染性：为什么事情继续流行  乔纳·伯杰| [3.88](https://www.goodreads.com/book/show/15801967-contagious) | 2013 |  
  |  谁说大象不能跳舞？：通过戏剧性的变革领导伟大的企业  小路易斯·格斯特纳| [3.88](https://www.goodreads.com/book/show/603985.Who_Says_Elephants_Can_t_Dance_) | 2003 |  
  |  Linchpin：您不可或缺吗？  塞思·戈丁（Seth Godin）| [3.87](https://www.goodreads.com/book/show/7155145-linchpin) | 2010 |  
-| The $100 Startup: Reinvent the Way You Make a Living, Do What You Love, and Create a New Future | Chris Guillebeau | [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
+ |  100美元的创业公司：重塑您的谋生方式，做自己喜欢的事以及创造新的未来|  克里斯·吉列波| [3.85](https://www.goodreads.com/book/show/12605157-the-100-startup) | 2012 |  
  |  太大不能倒|  安德鲁·罗斯·索金| [3.85](https://www.goodreads.com/book/show/6687247-too-big-to-fail) | 2011 |  
  |  选择的悖论：为什么少花钱多？  巴里·史瓦兹（Barry Shwartz）| [3.84](https://www.goodreads.com/book/show/10639.The_Paradox_of_Choice) | 2005 |  
  |  开始的艺术：历经时间考验，艰苦奋斗的指南，适用于任何人  川崎圭| [3.82](https://www.goodreads.com/book/show/37875.The_Art_of_the_Start) | 2004 |  
@@ -91,11 +94,12 @@
  |  不完美的礼物|  布雷恩·布朗| [4.18](https://www.goodreads.com/book/show/7015403-the-gifts-of-imperfection) |  |  
  |  形而上学的主题：寻求思想和模式的本质  道格拉斯·霍夫施塔特| [4.16](https://www.goodreads.com/book/show/181239.Metamagical_Themas) | 1996 |  
  |  关于一切的真相：哲学的不敬历史：插图  马修·斯图尔特| [4.15](https://www.goodreads.com/book/show/18528861-the-truth-about-everything) | 1997 |  
+ |  幻象：勉强的弥赛亚历险记  理查德·巴赫（Richard Bach）| [4.15](https://www.goodreads.com/book/show/29946.Illusions) | 1977 |  
  |  如何赢得朋友和影响人  戴尔·卡耐基| [4.14](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) | 1998 |  
  |  创意可视化：利用您的想象力创造生活中想要的东西  Shakti Gawain | [4.13](https://www.goodreads.com/book/show/582533.Creative_Visualization) | 2002 |  
  |  Bulfinch的神话|  托马斯·布尔芬奇| [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
  |  自我是敌人  瑞安假日| [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
- |  唤醒内心的巨人：如何立即控制您的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+ |  唤醒内在的巨人：如何立即控制自己的心理，情感，身体和财务命运！  |  安东尼·罗宾斯| [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
  |  现在的力量：精神启蒙指南|  埃克哈特·托勒| [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
  |  可以预见的非理性  丹·阿里利| [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
  |  流：最佳体验心理学  Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
@@ -240,7 +244,7 @@
 |------|--------|------------------|----------------|  
  |  这本书的名字是什么？：吸血鬼之谜和其他逻辑难题  Raymond M. Smullyan | [4.24](https://www.goodreads.com/book/show/493576.What_Is_the_Name_of_This_Book_) | 2011 |  
  |  数字的思想：即使您对代数一无所知，如何在数学和科学上也表现出色  芭芭拉·奥克利| [4.22](http://www.goodreads.com/book/show/18693655-a-mind-for-numbers) | 2014 |  
- |  如何解决：数学方法的新方面  乔治波利亚| [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
+| How to Solve It: A New Aspect of Mathematical Method | George Polya | [4.16](https://www.goodreads.com/book/show/192221.How_to_Solve_It) | 2015 |  
  |  理性迷宫：悖论，困惑和知识薄弱  威廉·庞德斯通| [4.05](https://www.goodreads.com/book/show/55436.Labyrinths_of_Reason) | 1989 |  
  |  心灵迷宫：计算机与非预期  Clifford A. Pickover | [4.05](https://www.goodreads.com/book/show/1986400.Mazes_for_the_Mind) | 1992 |
 
@@ -365,12 +369,12 @@
  |  呼啸山庄|  艾米莉·勃朗特| [3.82](https://www.goodreads.com/book/show/6185.Wuthering_Heights) | 2002 |  
  |  父亲高里奥|  Honoréde Balzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
  |  哈克贝利·费恩历险记|  马克吐温| [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  
-| The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 2001 |  
+ |  麦田守望者》 |  JD塞林格| [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 2001 |  
  |  EugénieGrandet |  Honoréde Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
  |  禅与摩托车维修的艺术：对价值的探究  罗伯特·皮尔西格| [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
  |  候选人  伏尔泰| [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
  |  阿特拉斯耸了耸肩|  艾恩·兰德| [3.68](https://www.goodreads.com/book/show/9365.Atlas_Shrugged) | 1957 |
-| Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
+ |  博瓦里夫人|  古斯塔夫·弗劳伯特| [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
  |  自白|  让·雅克·卢梭| [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
  |  波斯字母|  孟德斯鸠| [3.54](http://www.goodreads.com/book/show/509686.Persian_Letters) |  |  
  |  导演|  大卫·伊格纳修斯| [3.43](http://www.goodreads.com/book/show/23316525-the-director) | 2015 |   
@@ -378,7 +382,7 @@
 ### Fantasy
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  国王杀手纪事|  帕特里克·罗斯富斯| [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
+| The Kingkiller Chronicle | Patrick Rothfuss | [4.55](https://www.goodreads.com/series/45262-the-kingkiller-chronicle) | 2007 |  
  |  指环王|  JRR Tolkien | [4.47](https://www.goodreads.com/series/66175-the-lord-of-the-rings) | 1954 |  
  |  冰与火之歌  乔治·RR·马丁| [4.45](https://www.goodreads.com/series/43790-a-song-of-ice-and-fire) | 2005 |  
  |  哈利·波特|  JK罗琳| [4.44](https://www.goodreads.com/series/45175-harry-potter) | 1997 |  
@@ -388,14 +392,14 @@
  |  黑暗塔|  斯蒂芬·金| [4.27](https://www.goodreads.com/series/40750-the-dark-tower) |  |  
  |  他的深色材料|  菲利普·普尔曼| [4.25](https://www.goodreads.com/book/show/18116.His_Dark_Materials) |  |  
  |  最后的愿望-佐贺|  安德烈（Andrzej Sapkowski） [4.2](https://www.goodreads.com/book/show/1128434.The_Last_Wish) | 1993 |
- |  纳尼亚传奇|  克莱夫·斯台普斯·刘易斯 [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
+| The Chronicles of Narnia | Clive Staples Lewis | [4.24](https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia) | 2002 |  
  |  城市与城市|  中国米维尔| [3.91](https://www.goodreads.com/book/show/4703581-the-city-the-city) | 2009 |  
  |  破碎的帝国|  马克·劳伦斯| [3.87](https://www.goodreads.com/series/64473-the-broken-empire) | 2011 |  
 
 ### Historical Fiction
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
-| Lonesome Dove | Larry McMurtry | [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1999 |  
+ |  寂寞鸽子|  拉里·麦克默特| [4.47](https://www.goodreads.com/book/show/256008.Lonesome_Dove) | 1999 |  
  |  帮助|  凯瑟琳·斯托克特| [4.45](https://www.goodreads.com/book/show/4667024-the-help) |  |  
  |  偷书贼|  马库斯·祖萨克（Markus Zusak）| [4.36](https://www.goodreads.com/book/show/19063.The_Book_Thief) |  |  
  |  我们看不到的所有光  安东尼·杜尔| [4.31](https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see) | 2014 |  
@@ -412,7 +416,7 @@
 ### Mystery
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  福尔摩斯|  亚瑟·柯南·道尔| [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
+ |  福尔摩斯探案  亚瑟·柯南·道尔| [4.30](https://www.goodreads.com/series/49996-sherlock-holmes) | 1998 |  
  |  罗杰·阿克罗伊德谋杀案|  阿加莎·克里斯蒂| [4.20](http://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd) | 2006 |  
  |  八|  凯瑟琳·内维尔| [4.17](https://www.goodreads.com/book/show/113310.The_Eight) |  |  
  |  记忆人|  大卫·巴尔达奇（David Baldacci）| [4.05](https://www.goodreads.com/book/show/23153154-memory-man) | 2015 |  
@@ -442,13 +446,13 @@
 |------|--------|------------------|----------------|  
  |  叶子之家|  Mark Z. Danielewski | [4.13](http://www.goodreads.com/book/show/24800.House_of_Leaves) | 2000 |  
  |  德古拉|  布拉姆·斯托克| [3.98](http://www.goodreads.com/book/show/17245.Dracula) | 1986 |  
- |  科学怪人|  玛丽·雪莱（Mary Shelley），莫里斯·欣德尔（Maurice Hindle）| [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
+ |  科学怪人|  玛丽·雪莱，莫里斯·欣德尔 [3.75](http://www.goodreads.com/book/show/18490.Frankenstein) | 2003 |  
 
 ### Miscellaneous
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
  |  女王的甘比特|  沃尔特·特维斯| [4.11](https://www.goodreads.com/book/show/62022.The_Queen_s_Gambit) |  |  
- |  骨头人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
+ |  骨人|  Keri Hulme | [4.06](https://www.goodreads.com/book/show/460635.The_Bone_People) | 1986 |  
  |  猫眼|  玛格丽特·阿特伍德| [3.92](https://www.goodreads.com/book/show/51019.Cat_s_Eye) | 1998 |  
  |  Xeelee序列|  斯蒂芬·巴克斯特| [3.69](http://www.goodreads.com/series/49784-xeelee-sequence) | 1992 |  
  |  幽灵舰队|  PW歌手和奥古斯特·科尔| [3.62](https://www.goodreads.com/book/show/22749719-ghost-fleet?from_search=true) | 2015 |  
@@ -459,14 +463,14 @@
 |------|--------|------------------|----------------|  
  |  如何不死：发现经科学证明可以预防和逆转疾病的食物  医学博士Michael Greger | [4.54](https://www.goodreads.com/book/show/25663961-how-not-to-die) | 2015 |
  |  克服重力：一种系统的方法来锻炼体操和体重（第二版）|  史蒂文·洛| [4.3](https://www.goodreads.com/book/show/33293328-overcoming-gravity) | 2016 | 
- |  有罪的条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
+ |  定罪条件|  保罗·韦德| [4.13](http://www.goodreads.com/book/show/7305111-convict-conditioning) | 2012 |  
  |  饮食与跑步：我不太可能参加的超级马拉松大赛|  斯科特·尤雷克（Steve Friedman）| [3.95](https://www.goodreads.com/book/show/13202092-eat-and-run) | 2012 |  
  |  8周最佳健康|  安德鲁·威尔| [3.86](https://www.goodreads.com/book/show/37124.8_Weeks_to_Optimum_Health) |  |  
 
 ## Design
  |  姓名|  作者|  Goodreads评分|  出版年份|  
 |------|--------|------------------|----------------|  
- |  模式语言：城镇，建筑物，建筑|  克里斯托弗·亚历山大（Christopher Alexander），石川萨拉（Sara Ishikawa），默里·西尔弗斯坦（Murray Silverstein），马克斯·雅各布森（Max Jacobson），英格丽·菲克斯达·金（Ingrid Fiksdahl-King）和Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
+ |  模式语言：城镇，建筑物，建筑|  克里斯托弗·亚历山大（Christopher Alexander），石川萨拉（Sara Ishikawa），默里·西尔弗斯坦（Murray Silverstein），马克斯·雅各布森（Max Jacobson），英格丽·菲克斯达尔·金（Ingrid Fiksdahl-King）和Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
  |  建筑物的学习方法：建筑物建成后会发生什么？  斯图尔特·布兰德| [4.32](https://www.goodreads.com/book/show/38310.How_Buildings_Learn) | 1995 |
  |  再谈：不要让我思考：Web可用性的常识方法  史蒂夫·克鲁格| [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
  |  日常用品的设计|  唐纳德·诺曼| [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  

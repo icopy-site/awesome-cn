@@ -3,12 +3,12 @@
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
 ## Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-&gt;精选的代码katas列表
+&gt;精选代码清单
 
 
 
 ## Introduction
- kata或代码kata被定义为编程练习，有助于通过练习和重复来磨练你的技能.  戴夫托马斯 [@pragdave](https://twitter.com/pragdave) ，开始这个编程运动.  这个项目旨在为您提供我在互联网和Github社区中发现的一些kata练习列表.  这些练习从一般到更复杂的算法和现实生活情况不等，您可以尝试使用首选的编程语言.  请记住，代码katas不是测验或谜题.  您不仅应该尝试“解决”它，而应该按照您正在使用的编程语言的最佳实践找到一个非常好的解决方案.
+ kata或代码kata被定义为编程中的一种练习，可通过练习和重复来帮助磨练您的技能.  戴夫·托马斯（Dave Thomas） [@pragdave](https://twitter.com/pragdave) ，开始了这项运动以进行编程.  该项目旨在为您提供一些我在Internet和Github社区中发现的kata练习的列表.  这些练习从一般算法到更复杂的算法以及现实生活中的变化，您都可以尝试使用首选的编程语言.  请记住，代码选项卡不是测验或难题.  您不仅应尝试“解决”它，还应遵循所用编程语言的最佳做法找到一个很好的解决方案.
 
 ## [CodeKata](http://codekata.com/)
   - [Kata01: Supermarket Pricing](http://codekata.com/kata/kata01-supermarket-pricing/)
@@ -89,6 +89,8 @@
   - [Pdt256 katas (php, go, python, java, haskell, typescript)](https://github.com/pdt256/kata)
   - [Opening Hours Kata](https://github.com/christian-fei/opening-hours-kata)
   - [The Quantum Katas](https://github.com/Microsoft/QuantumKatas)
+  - [Katalyst](https://katalyst.codurance.com/)
+  - [The Beverages Prices Refactoring Kata](https://github.com/trikitrok/beverages_pricing_refactoring_kata)
   
 ## Contribution
   

@@ -93,7 +93,6 @@
 *网状-https://www.netted.net/contact-us/
 *下一大产品-http://nextbigproduct.net/product-submission/
 *下一件大事-http://nextbigwhat.com/
-* Nibletz-http://www.nibletz.com/submit-startup
 *在应用程序上-http://ontheapp.com/about/
 *下载-http://www.paggu.com/submit-your-startup/
 * pFind-http://www.pfind.com/submit

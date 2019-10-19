@@ -427,6 +427,7 @@
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) -一群热衷于可靠，高性能的软件系统的人.
 * [Front Range Site Reliability Engineering](https://www.meetup.com/site-reliability/) -在Boulder / Denver / Golden / DTC / FoCo地区的SRE聚会.
 * [Site Reliability Engineering Munich, Germany](https://www.meetup.com/Site-Reliability-Engineering-Munich/) -在慕尼黑啤酒节城市的更大区域举行SRE聚会.
+* [ADDO - All Day DevOps](https://www.alldaydevops.com/) -24小时的会议，完全在线且免费.
 
 ## Twitter
 * [Google SRE Twitter Account](https://twitter.com/googlesre) -Google的SRE Twitter帐户.
