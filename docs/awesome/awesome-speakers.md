@@ -260,7 +260,7 @@ https://twitter.com/sharifsbeat
 
 <img src="https://twitter.com/okonetchnikov/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
-** Andrey Okonetchnikov ** \
+**安德烈·奥康纳奇尼科夫** \
 主题：JS中的CSS，Linting，工具\
 https://twitter.com/okonetchnikov
 
@@ -1767,7 +1767,7 @@ https://twitter.com/linclark
 
 ### Portland
 
-<img src="https://pbs.twimg.com/profile_images/951729445009637376/0V25QMDk_400x400.jpg" height="70px" width="70px" align="left" alt="" />
+<img src="https://twitter.com/shanselman/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 
 **斯科特·汉瑟曼** \
 主题：.NET，Azure \
@@ -1814,6 +1814,12 @@ https://twitter.com/kentcdodds
 **亚当·门格斯** \
 主题：人工智能，设计，计算机科学\
 https://twitter.com/adammenges
+
+<img src="https://twitter.com/slightlylate/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**亚历克斯·罗素** \
+主题：性能，移动Web，渐进式Web应用，Web标准\
+https://twitter.com/slightlylate
 
 <img src="https://twitter.com/AnjanaVakil/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
 

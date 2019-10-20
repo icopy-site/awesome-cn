@@ -61,7 +61,8 @@
 ## Articles
 
 * [Let's Build a Basic Interpreter (Ruslan's Blog)](https://ruslanspivak.com/lsbasi-part1) -系列文章，解释了编译器和解释器的基础知识以及如何构建它们.
-* [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) -Yevgeniy Brikman的帖子，介绍了不常用的不同编程范例.
+* [Six programming paradigms that will change how you think about coding](http://www.ybrikman.com/writing/2014/04/09/six-programming-paradigms-that-will) -Yevgeniy Brikman的帖子描述了不常用的不同编程范例.
+* [The Fun (and Madness) of Esoteric Programming Languages](https://tomassetti.me/discovering-arcane-world-esoteric-programming-languages) -简单易懂地介绍了深奥的语言，并附有示例.
 
 ## Community
 

@@ -143,8 +143,8 @@
 * [Realtime Board](https://realtimeboard.com/) `[Account]`-具有大面积，屏幕共享，视频和语音通信的协作黑板.
 * [ezGIF](https://ezgif.com/) -GIF图像编辑器（裁剪，缩放，优化等）.
 * [Adobe Color CC](https://color.adobe.com/) -配色方案设计师.
-* [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载编辑后的图像.
-* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标作为SVG或字体托管，并生成选定图标的SVG + PNG +图标字体.
+* [Burner Bonanza](https://burner.bonanza.com/) `[Account]`-删除图像背景并立即在Facebook或Twitter上共享的工具，登录后以PNG或JPEG格式下载已编辑的图像.
+* [IcoMoon](https://icomoon.io/app/) -一个平台，可帮助您查找矢量图标包，将图标托管为SVG或字体，并生成选定图标的SVG + PNG +图标字体.
 * [Flaming Text](http://flamingtext.com/) -在线徽标或名称生成器/创建者，可以根据自己的意愿修改徽标，并采用多种格式，包括PNG和JPEG.
 * [LeanLogoMaker](https://leanlogomaker.com)  -生成100多个徽标，选择您喜欢的徽标并下载.  包括社交媒体网站的封面和个人资料图片.
 * [doka.photo](https://doka.photo/)  -易于使用的照片编辑器.  您可以裁剪，旋转，翻转，添加滤镜，调整大小和注释.
@@ -230,7 +230,7 @@
 * [CSS Autoprefixer](https://autoprefixer.github.io/)  -用于处理CSS中的供应商前缀的后处理器.  只需粘贴常规CSS并立即获得供应商前缀处理的CSS.
 * [CSS Matic](https://www.cssmatic.com/) -CSS工具，可快速生成渐变，边界半径，噪声纹理和框阴影并获取相应的CSS或SASS.
 * [Carbon](https://carbon.now.sh) -创建并共享源代码的精美图片.
-* [jsonstore.io](https://www.jsonstore.io/) - jsonstore.io offers free, secured JSON based API endpoints for small projects. It supports common types of HTTP operations like POST, GET, PUT, DELETE etc.
+* [jsonstore.io](https://www.jsonstore.io/)  -jsonstore.io为小型项目提供免费，安全的，基于JSON的API端点.  它支持常见的HTTP操作类型，例如POST，GET，PUT，DELETE等.
 * [ObjGen](http://www.objgen.com/) -当您使用基于文本的语法仅键入关键字，类型和属性时，此应用程序可帮助您实时生成代码（JSON，HTML等）.
 * [JsonFormatter](https://jsonformatter.curiousconcept.com) -以易于阅读的形式查看json.
 
@@ -307,6 +307,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 * [lmgtfy](http://lmgtfy.com/) -当您的朋友太懒惰而无法独自使用Google时.
 * [IFTTT](https://ifttt.com/)  `[Account]`-在您喜欢的在线服务之间建立联系.  例如，如果需要将自己的instagram作为本地照片在Twitter上发布，则IFTTT可以派上用场.
 * [AlarmDJ](https://alarmdj.com) -在线闹钟，使用MP3文件和YouTube视频作为闹钟.
+* [Morsify](https://morsify.net) -在线摩尔斯电码翻译器.
 
 -----
 

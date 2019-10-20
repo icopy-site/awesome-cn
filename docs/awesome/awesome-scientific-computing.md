@@ -24,7 +24,7 @@ them.
   （C和汇编，BSD， [GitHub](https://github.com/xianyi/OpenBLAS))
 - [BLIS](https://github.com/flame/blis) -类似于BLAS的高性能密集线性代数库.
   （C，BSD，GitHub）
-- [LAPACK](https://www.netlib.org/lapack/) -求解线性方程组，线性系统的最小二乘法，特征值问题和奇异值问题的例程.
+- [LAPACK](https://www.netlib.org/lapack/) -求解线性方程组，线性系统的最小二乘解，特征值问题和奇异值问题的例程.
   （Fortran，BSD， [GitHub](https://github.com/Reference-LAPACK/lapack))
 - [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page) -线性代数的C ++模板库.
   （C ++，MPL 2， [BitBucket](https://bitbucket.org/eigen/eigen))
@@ -91,7 +91,7 @@ them.
 - [XDMF](http://www.xdmf.org/index.php/Main_Page) -可扩展的数据模型和格式，可在高性能计算代码和工具之间交换科学数据.
   （C ++， [GitLab](https://gitlab.kitware.com/xdmf/xdmf))
 - [TetGen](https://www.wias-berlin.de/software/index.jsp?id=TetGen) -优质的四面体网格生成器和3D Delaunay三角剖分器.
-  （C ++，AGPLv3）
+  (C++, AGPLv3)
 - [Triangle](https://www.cs.cmu.edu/~quake/triangle.html) -二维质量网格生成器和Delaunay三角剖分器.
   （C，*非免费软件*）
 - [optimesh](https://github.com/nschloe/optimesh) -三角网格平滑.
@@ -139,7 +139,7 @@ them.
   （Python，[自定义开源
   许可]（https://www.nist.gov/director/copyright-fair-use-and-licensing-statements-srd-data-and-software），
   [GitHub](https://github.com/usnistgov/fipy))
-- [accupy](https://github.com/nschloe/accupy) - Accurate sums and dot products for Python.
+- [accupy](https://github.com/nschloe/accupy) -适用于Python的精确求和和点积.
   （Python，麻省理工学院，GitHub）
 - [SLEPc](http://slepc.upv.es) -特征值问题计算的可扩展库.
   （C，2句BSD， [BitBucket](https://bitbucket.org/slepc/slepc/src/master/))
@@ -149,6 +149,8 @@ them.
   （Python，2句BSD， [GitHub](https://github.com/pymor/pymor/))
 - [cvxpy](https://www.cvxpy.org/) -凸优化问题的建模语言.
   （Python，Apache 2.0， [GitHub](https://github.com/cvxgrp/cvxpy))
+- [PyWavelets](https://pywavelets.readthedocs.io/en/latest/) -Python中的小波变换.
+  （Python，麻省理工学院， [GitHub](https://github.com/PyWavelets/pywt))
 
 
 ## Community

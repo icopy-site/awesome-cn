@@ -567,7 +567,7 @@
 
 * [grequests](https://github.com/kennethreitz/grequests) -请求+ gevent用于异步HTTP请求.
 * [httplib2](https://github.com/httplib2/httplib2) -全面的HTTP客户端库.
-* [requests](http://docs.python-requests.org/en/latest/) -人类HTTP请求.
+* [requests](https://requests.kennethreitz.org/en/master/) -人类HTTP请求.
 * [treq](https://github.com/twisted/treq) -像Twisted的HTTP客户端一样构建的API之类的Python请求.
 * [urllib3](https://github.com/shazow/urllib3) -具有线程安全连接池的HTTP库，支持文件发布，健全.
 

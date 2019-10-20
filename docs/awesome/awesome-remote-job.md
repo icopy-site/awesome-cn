@@ -116,7 +116,7 @@
 
 ## Books
   1. [Async Remote](http://blog.arkency.com/async-remote/).
-     Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
+     由Robert Pankowecki和Andrzej Krzywda（Arkency），2014年.
   1. [Distributed Teams](https://oduinn.com/book/).
      John O&#39;Duinn着，2018年.
   1. [Remote: Office Not Required](http://37signals.com/remote/).
@@ -191,7 +191,7 @@
   1. [Google Jobs](https://www.google.com/search?q=remote&ibp=htl;jobs#fpstate=tldetail&htidocid=IO0hI7dpKTSlzSKoAAAAAA%3D%3D&htin=1&htivrt=jobs)   –来自多个董事会和雇主地点的汇总，对位置，职位类型等敏感.  了解如何使用它 [here](https://support.google.com/websearch/answer/7498276?p=job_search_box&sa=X&ved=0ahUKEwid_qyLmJfXAhVD4YMKHYGBAK8Qra4CCGQoAQ&visit_id=1-636449234996681631-3229288694&rd=1).
   1. [JS Remotely](https://jsremotely.com/) -一块板上的所有远程JavaScript作业
   1. [Remote 4 Me](https://remote4me.com/) -用于技术和非技术领域远程工作的聚合器.
-  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以供偏远职位使用.
+  1. [Remote OK](https://remoteok.io/) -取消许多作业板的提要以换取远程职位.
   1. [RemotePHP.io](https://remotephp.io) -来自网络的远程PHP作业.
   1. [Remote Python](https://www.remotepython.com/) -专门用于远程Python作业的作业板和聚合器.
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) -搜寻多个工作板以进行远程工作发布.
@@ -251,10 +251,11 @@
   1. [Remote Jobs Club](https://remotejobsclub.com) -每周通讯，其中包括精选的远程工作清单
 
 ## Podcasts
+  1. [Building Remote Teams](https://www.buildingremoteteams.com/) -针对已经在远程工作的人员，并专注于远程工作的细微挑战.
   1. [Free People Move Podcast](https://teleport.org/podcast/) -多数采访创始人从不同角度攻击位置独立性/远程工作空间
   1. [Lessons from Distributed Companies](https://www.lullabot.com/podcasts/drupalizeme-podcast/lessons-from-distributed-companies)
   1. [Remote Works](https://remote.works) -远程工作播客每两周发布一次，主持人乔纳森·夏普（Jonathan Sharp）讨论远程工作，远程团队，远程办公和数字游牧民的机会，经验，文化和社区.
-  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，富有成效的自由放养工人.
+  1. [The Yonder Podcast](https://www.yonder.io/post?category=Podcast) -双周播客：杰夫·罗宾斯（Jeff Robbins）采访了一些人，他们在思考分散的团队，远程工作以及如何支持快乐，高效，自由放养的工人.
   1. [Wide Teams](http://www.wideteams.com) -每集与远程工作者进行一对一的面试，介绍工作流程和做法
 
 ## Companies with "remote DNA"

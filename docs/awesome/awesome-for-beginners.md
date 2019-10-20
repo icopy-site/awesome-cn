@@ -8,7 +8,7 @@
 
 如果您是开源项目的维护者，请在您的项目中添加标签“仅限初学者”（或类似名称）并在此处列出，以便人们可以找到它.
 
-如果您想提供帮助，请浏览此列表，请查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
+如果您想做出贡献，请浏览此列表，查看 [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=)，然后按照 [@first_tmrs_only](https://twitter.com/first_tmrs_only) 在Twitter上创建新的“仅限初学者”问题时会收到通知.
 
 如果您不是程序员，但想贡献自己的力量，请查看 [Awesome for non-programmers](https://github.com/szabgab/awesome-for-non-programmers) 清单.
 
@@ -79,7 +79,7 @@
 
 - [name-suggestion-index](https://github.com/osmlab/name-suggestion-index/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  OpenStreetMap的规范通用品牌名称
 - [iD](https://github.com/openstreetmap/iD/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  JavaScript中易于使用的OpenStreetMap编辑器.
-- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Mission Control是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
+- [missioncontrol](https://github.com/davfoundation/missioncontrol/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  任务控制是一个免费开放的市场，它将自动驾驶汽车（例如，无人机）与需要诸如包裹递送之类的服务的用户联系起来.
 - [missions](https://github.com/davfoundation/missions/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  Missions是一个移动Web应用程序，可将希望运送包裹的DAV用户与可在开放和免费市场中寻找工作的自动无人机连接起来.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  流行的语音识别库用于与从网站到智能镜像再到无人机的各种通信.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only)  _（标签：仅限首次）_ <br>  PouchDB是一个袖珍数据库.
@@ -124,7 +124,7 @@
 - [Node.js core](https://github.com/nodejs/node/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  基于Chrome的V8 JavaScript引擎构建的JavaScript运行时
 - [Jest](https://github.com/facebook/jest/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  完整且易于设置的JavaScript测试解决方案.
 - [Mattermost](https://github.com/mattermost/mattermost-server/issues?utf8=%E2%9C%93&q=is%3Aopen+label%3A%22Up+For+Grabs%22+label%3A%22Difficulty%2F1%3AEasy%22+label%3A%22Tech%2FJavaScript%22+)  _（标签：抢钱，难度：1 /简单，技术/ JavaScript）_ <br>  Golang和React中的开源Slack替代方案
-- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，它使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
+- [p5.js](https://github.com/processing/p5.js/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  p5.j​​s是一个客户端JS平台，使艺术家，设计师，学生和任何人都可以学习编码并在网络上创造性地表达自己.
 - [squirrelly](https://github.com/nebrelbug/squirrelly/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Squirrelly是一个轻量级的模板引擎，支持辅助程序，过滤器，局部函数等.
 - [NativeScript](https://github.com/NativeScript/NativeScript/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  NativeScript是一个开放源代码框架，用于使用JavaScript构建真正的本机移动应用程序.  使用Angular和Vue.js，FlexBox和CSS等网络技能，并在iOS和Android上获得本机UI和性能.
 - [Gatsby.js](https://github.com/gatsbyjs/gatsby/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用React构建快速，现代化的应用程序和网站.
@@ -150,7 +150,7 @@
 - [Atrium](https://github.com/robstoll/atrium/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Kotlin的多平台断言库
 - [Hexagon](https://github.com/hexagonkt/hexagon/labels/help%20wanted)  _（标签：需要帮助）_ <br>  用Kotlin编写的微服务工具包
 
-## LaTex
+## LaTeX
 
 - [Algorithmic Pseudocode](https://github.com/just-a-visitor/algorithmic-pseudocode/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  语言独立伪代码（pdf）的集合，用于面试准备和竞争性编程.
 
@@ -191,7 +191,7 @@
 - [Zulip](https://github.com/zulip/zulip/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  强大的开源群聊.
 - [cookiecutter](https://github.com/audreyr/cookiecutter/labels/low-hanging-fruit)  _（标签：低挂水果）_ <br>  一个命令行实用程序，可从cookiecutter（项目模板）创建项目.  例如Python封装项目，jQuery插件项目.
 - [django cookiecutter](https://github.com/pydanny/cookiecutter-django/labels/hacktoberfest)  _（标签：django hacktober特殊）_ <br>  用于后端Web开发的Python实现.
-- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter！
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/labels/level%3Astarter)  _（标签：等级：入门）_ <br>  有史以来最严格，最自以为是的python linter
 - [Ansible](https://github.com/ansible/ansible/labels/easyfix)  _（标签：easyfix）_ <br>  一个简单的IT自动化平台
 - [Create aio app](https://github.com/aio-libs/create-aio-app/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  使用最佳实践创建aiohttp模板的命令行实用程序.
 - [opsdroid](https://github.com/opsdroid/opsdroid/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  一个开源的chat-ops bot框架.
@@ -218,7 +218,7 @@
 - [osem](https://github.com/openSUSE/osem/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源事件管理器.  针对免费和开源软件会议量身定制的事件管理工具 </br>  看到 ["How to contribute to osem"](https://github.com/openSUSE/osem/blob/master/CONTRIBUTING.md)
 - [open-build-service](https://github.com/openSUSE/open-build-service/labels/good%20first%20issue%20%3A1st_place_medal%3A)  _（标签：第一期好）_ <br>  一种通用系统，用于以自动，一致且可复制的方式从源构建和分发软件包. </br>  看到 ["How to contribute to open build service"](https://github.com/openSUSE/open-build-service/blob/master/CONTRIBUTING.md)
 - [bolt](https://github.com/puppetlabs/bolt/labels/Beginner%20Friendly)  _（标签：初学者友好）_ <br>  Bolt是Ruby命令行工具，用于使用SSH和WinRM在远程系统上执行命令，脚本和任务.
-- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue) _(label: good first issue)_ <br>Opensource customer support platform which can be an alternative to Intercom, Zendesk, Drift, Crisp etc.
+- [chatwoot](https://github.com/chatwoot/chatwoot/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  开源客户支持平台，可以替代Intercom，Zendesk，Drift，Crisp等.
 - [mapknitter](https://github.com/publiclab/mapknitter/labels/first-timers-only)  _（标签：仅限初学者）_ <br>  上传您自己的航拍图像，将其定位（橡胶板）在Web界面上现有的地图数据上，并通过Web或合成共享并导出以打印.
 - [Ruby on Rails](https://github.com/rails/rails/labels/good%20first%20issue)  _（标签：第一期好）_ <br>  Ruby on Rails（Rails）是一个用Ruby编写的开源Web应用程序框架.
 
@@ -246,7 +246,7 @@
 
 ## Contribute
 
- 欢迎捐款！  见 [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
+Contributions are welcome! See the [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
 
 ## License
 

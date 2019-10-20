@@ -20,10 +20,11 @@
 - [Roland Pen Plotters](https://www.youtube.com/watch?v=6_pwzqPk6Gg)  -老式平板HPGL笔式绘图仪.  在eBay上搜索“ roland dxy”.
 - [Polargraph](http://www.polargraph.co.uk) -原始的Polargraph硬件和软件项目.
 - [Makelangelo](http://www.makelangelo.com) -开源Polargraph Artbot.
+- [BrachioGraph](https://brachiograph.readthedocs.io/en/latest/) -一种便宜，简单的绘图仪，由棍棒，伺服器和运行Python的Raspberry Pi制成.
 
 ### Motor Controllers
 
-- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc) into a G-code-based motion controller using the grbl firmware. ([adafruit](https://www.adafruit.com/product/1750))
+- [grblShield](https://github.com/synthetos/grblShield) -所有需要的步进电机控制硬件 [Arduino](https://www.arduino.cc)  使用grbl固件导入基于G代码的运动控制器.  （[adafruit](https://www.adafruit.com/product/1750))
 - [TinyG](https://github.com/synthetos/TinyG)  -功能更强大的基于6轴G代码的运动控制硬件.  （[adafruit](https://www.adafruit.com/product/1749))
 - [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) -与Arduino兼容的Grbl步进电机控制罩，类似于 [grblShield](https://github.com/synthetos/grblShield).
 - [Raspberry Pi CNC Hat](https://wiki.protoneer.co.nz/Raspberry_Pi_CNC)  -带步进控制器的Raspberry Pi附加板和运行grbl的微控制器.  与Pi的串行引脚接口.
@@ -98,7 +99,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 
 - [Inkscape](https://inkscape.org) -流行的跨平台开源矢量图形编辑器.
 - [p5.js](https://p5js.org) -“ JavaScript库，使艺术家，设计师，教育者和初学者都可以访问编码”.
-- [Paper.js](http://paperjs.org) -《矢量图形脚本的瑞士军刀》.
+- [Paper.js](http://paperjs.org) - "The Swiss Army Knife of Vector Graphics Scripting".
 - [ln](https://github.com/fogleman/ln) -用Go语言编写的基于矢量的3D渲染器.
 - [autotrace](https://github.com/autotrace/autotrace) -将位图图像转换为矢量图形.
 - [stipplegen](https://github.com/evil-mad/stipplegen)  -从位图图像创建有趣的点画.  （[blog post](https://www.evilmadscientist.com/2012/stipplegen2))
@@ -149,10 +150,9 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [Vera Molnár](https://www.surfacemag.com/articles/vera-molnar-in-thinking-machines-at-moma) -并策划艺术家.
 - [Hektor](http://juerglehni.com/works/hektor) -2002年的原始基于电缆的牵引机器人.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -分为两部分的介绍，以创建用于绘图的生成图形.
-- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) -一些投影技术，用于创建适合绘图的线形图形.
+- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) -使用Python和penplot深入研究表面投影和隐藏线去除.
 - [Fractal Generation with L-Systems](https://bitaesthetics.com/posts/fractal-generation-with-l-systems.html) -用于创建基于线的分形图形的技术.
 - [Pen Plotter Art & Algorithms](https://mattdesl.svbtle.com/pen-plotter-1) -绘图仪简介，AxiDraw，penplot库的演练.
-- [Surface Projection](https://bitaesthetics.com/posts/surface-projection.html) -使用Python和penplot深入研究表面投影和隐藏线去除.
 - [Introduction to TSP art](https://wiki.evilmadscientist.com/TSP_art) -用于旅行推销员问题（单路径）艺术的资源.
 - [Hidden wireframe removal](https://trmm.net/Hidden_Wireframe) -讨论和指向线框的STL文件删除代码的链接.
 
@@ -178,6 +178,7 @@ HPGL是大多数旧笔式绘图仪，甚至许多新的乙烯基切纸机都使�
 - [BustBright](https://mkt.com/bustbright)
 - [Martin O'Leary](https://shop.mewo2.com)
 - [Geoffrey Bradway](https://www.normedvector.space)
+- [Yuin Chien](http://store.yuinchien.com/)
 
 ## Other Awesomes
 

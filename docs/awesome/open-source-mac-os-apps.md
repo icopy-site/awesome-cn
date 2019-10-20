@@ -78,7 +78,7 @@
 
 ### Browser
 - [Beaker Browser](https://github.com/beakerbrowser/beaker)  -烧杯是一种实验性的点对点Web浏览器.  ！[javascript_icon] 
-- [Brave Browser](https://github.com/brave/browser-laptop)  -运行Windows，macOS和Linux的台式机和笔记本电脑的出色浏览器.  ！[javascript_icon] 
+- [Brave Browser](https://github.com/brave/brave-browser)  -运行Windows，macOS和Linux的台式机和笔记本电脑的出色浏览器.  ！[javascript_icon] 
 - [Finicky](https://github.com/johnste/finicky)  -始终打开正确的浏览器.  ！[swift_icon] 
 - [Helium](https://github.com/JadenGeller/Helium)  -适用于macOS的浮动浏览器窗口.  ！[objective_c_icon]！[swift_icon] 
 - [Kaktus Browser](https://github.com/kaktus/kaktus)  -具有简约设计的实验性网络浏览器.  运行Windows，macOS和Linux.  ！[javascript_icon] 
@@ -145,7 +145,7 @@
 
 #### JSON Parsing
 - [JSON Mapper](https://github.com/AppCraft-LLC/json-mapper)  -简单的macOS应用程序，可从JSON生成Swift Object Mapper类.  ！[swift_icon] 
-- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象导出为模型类及其相关的构造函数，实用程序方法，setter和getter.  ！[swift_icon] 
+- [JSONExport](https://github.com/Ahmed-Ali/JSONExport)  -适用于macOS的桌面应用程序，使您能够使用自己喜欢的语言将JSON对象作为其关联的构造函数，实用程序方法，setter和getter导出为模型类.  ！[swift_icon] 
 - [j2s](https://github.com/zadr/j2s)  -macOS应用程序，用于将JSON对象转换为Swift结构（当前针对Swift 4和Codable）.  ！[swift_icon] 
 
 #### Other Development
@@ -162,7 +162,7 @@
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)  -KubeSwitch在Mac的菜单栏中列出了Mac上可用的kubernetes集群上下文.  ！[swift_icon] 
 - [Lantern](https://github.com/BurntCaramel/Lantern)  -用于网站审核和抓取的专用Mac应用.  ！[swift_icon] 
 - [LocalSites](https://github.com/plan44/localSites) - Simple Menu Bar (Status Bar) App for macOS listing local Bonjour websites (as Safari 11 no longer has Bonjour Bookmarks).  ![swift_icon] 
-- [Mockup Generator](https://github.com/andypotts/mockup-generator)  -Mockup Generator是使用AngularJS / Electron构建的macOS应用，位于菜单栏中，可让您捕获自己喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
+- [Mockup Generator](https://github.com/andypotts/mockup-generator)  -Mockup Generator是使用AngularJS / Electron构建的macOS应用，位于菜单栏中，可让您捕获喜欢的网站的屏幕截图并将其包装在设备模型中.  ！[javascript_icon] 
 - [Now Desktop](https://github.com/zeit/now-desktop)  -直接从任务栏菜单创建部署.  ！[javascript_icon] 
 - [aws-s3-uploader](https://github.com/RafalWilinski/s3-uploader)  -用于将文件上传到Amazon Web Services的简单macOS应用程序.  ！[javascript_icon] 
 - [iTunesConnect](https://github.com/ronakdev/itunesconnect)  -macOS应用程序，可让您访问iTunesConnect.  ！[swift_icon] 
@@ -187,7 +187,7 @@
 - [FilterShop](https://github.com/KrisYu/FilterShop)  -macOS应用程序，用于浏览CoreImage滤镜.  ！[swift_icon] 
 - [IconGenerator](https://github.com/onmyway133/IconGenerator)  -macOS应用程序以生成应用程序图标.  ！[javascript_icon] 
 - [Iconizer](https://github.com/raphaelhanneken/iconizer)  -动态创建Xcode图像目录（xcassets）.  ！[swift_icon] 
-- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标.[objective_c_icon] 
+- [Icons.app](https://github.com/SAP/macos-icon-generator) -适用于macOS的应用程序，旨在生成处于各种状态，抖动（摇动）等状态的现有应用程序的大小一致的图标. 
 - [InjectionIII](https://github.com/johnno1962/InjectionIII)  -过期的Swift注入重写.  ！[objective_c_icon]！[swift_icon] 
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  ！[objective_c_icon] 
 - [LayerX](https://github.com/yuhua-chen/LayerX)  -直观的应用程序，可在屏幕上显示透明图像.  ！[swift_icon] 
@@ -204,7 +204,7 @@
 - [SmartPush](https://github.com/shaojiankui/SmartPush)  -iOS推送通知调试应用程序.  ！[objective_c_icon] 
 - [TransporterPad](https://github.com/iseebi/TransporterPad)  -适用于macOS的iOS / Android应用部署工具.  ！[swift_icon] 
 - [WWDC](https://github.com/insidegui/WWDC)  -适用于macOS的非官方WWDC应用程序.  ！[swift_icon] 
-- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式下载自2013年以来的每个WWDC会话视频的字幕.  ！[swift_icon] 
+- [WWDC.srt](https://github.com/ssamadgh/WWDCsrt)  -强大的应用程序，用于以（srt）格式自2013年以来为每个WWDC会话视频下载字幕.  ！[swift_icon] 
 - [calabash-launcher](https://github.com/xing/calabash-launcher)  -iOS Calabash Launcher是一个macOS应用程序，可帮助您在Mac上运行和管理Calabash测试.  ！[swift_icon] 
 - [iOS Images Extractor](https://github.com/devcxm/iOS-Images-Extractor)  -iOS Images Extractor是一个Mac应用程序，用于从iOS应用程序标准化，解码和提取图像.  ！[objective_c_icon] 
 - [iSimulator](https://github.com/wigl/iSimulator)  -iSimulator是一个GUI实用程序，用于控制模拟器并管理模拟器上安装的应用.  ！[objective_c_icon] 
@@ -528,7 +528,7 @@
 - [Catch](https://github.com/mipstian/catch/)  -赶上：轻松捉迷藏.  ！[swift_icon] 
 - [Clear Clipboard Text Format](https://github.com/LumingYin/ClipboardClear)  -使用“清除剪贴板文本格式”轻松清除剪贴板文本的格式.  ！[objective_c_icon] 
 - [CornerCal](https://github.com/ekreutz/CornerCal)  -适用于macOS的简单，干净的日历和时钟应用程序.  ！[swift_icon] 
-- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需您记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
+- [Crypter](https://github.com/HR/Crypter)  -Crypter是一款创新，方便且安全的跨平台加密应用程序，只需记住一位MasterPass，即可简化安全密码的生成和管理.  ！[javascript_icon] 
 - [ECheck](https://github.com/josejuanqm/ECheck)  -验证macOS的epub文件的小工具.  ！[swift_icon] 
 - [Flying Carpet](https://github.com/spieglt/flyingcarpet)  -通过专用wifi进行跨平台文件传输，例如AirDrop，但适用于Mac / Windows / Linux.  ！[go_icon] 
 - [Funky](https://github.com/thecatalinstan/Funky)  -在Mac上轻松按每个应用切换功能键.  ！[objective_c_icon] 

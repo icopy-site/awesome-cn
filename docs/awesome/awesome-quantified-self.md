@@ -11,6 +11,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
  欢迎捐款.  通过拉取请求添加链接或创建问题以开始讨论.
 
+这一直是悲伤地看到一个服务关闭，或硬件更新停下，这里是有这个艰难的决定，我们收集名单 [Archived](https://github.com/woop/awesome-quantified-self/blob/master/ARCHIVED.md)
+
 
 
 ## Websites and Resources
@@ -52,13 +54,12 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Runkeeper](http://runkeeper.com/) -户外健身活动追踪器（iOS和Android）.
 - [Endomondo](https://www.endomondo.com/) -运动和健康统计跟踪器（iOS和Android）.
 - [Runtastic](https://www.runtastic.com/) -跑步，骑自行车和健身GPS追踪器（iOS和Android）.
-- [EveryMove Fit](http://everymovefit.com/) -社交适应度和目标跟踪平台（iOS和Android）.
 - [Strava](https://www.strava.com/) -运动活动跟踪和社交网络.
 - [Gym Hero](https://gymhero.me/) -跟踪锻炼，力量训练和其他健身锻炼（iOS，Web）
 
 ### Places & Travel
 - [RoadGoat](https://www.roadgoat.com/) -旅行跟踪，与此处列出的许多平台的自动集成（Web）.
-- [Swarm](https://www.swarmapp.com/) - Point of interest auto-checkins via GPS (iOS & Android).
+- [Swarm](https://www.swarmapp.com/) -兴趣点通过GPS（iOS和Android）自动签到.
 - [Arc](https://itunes.apple.com/us/app/arc-app-location-activity/id1063151918) -跟踪您通过GPS（iOS）访问的运动和地点.
 
 ### Aggregators & Dashboards
@@ -66,8 +67,8 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 - [Apple Health](http://www.apple.com/ios/health/)  -适用于Apple设备的多功能跟踪平台.  跟踪活动，睡眠，营养，正念和其他指标.
 - [Google Fit](https://www.google.com/fit) -开放的生态系统，用于存储，访问和管理健身数据（Android）.
 - [Gyroscope](https://gyrosco.pe/) -量化的自我健康信息中心（网络，iOS和Android）.
-- [Exist](https://exist.io/) -在一个地方（网络，iOS和Android）跟踪所有内容.
-- [Zenobase](https://zenobase.com/) -存储，汇总和可视化来自多个第三方资源（网络）的数据.
+- [Exist](https://exist.io/) - Track everything in one place (web, iOS & Android).
+- [Zenobase](https://zenobase.com/) - Store, aggregate and visualize your data from multiple 3rd party sources (web).
 - [Validic](https://validic.com/) -基于云的平台，可连接来自数字医疗应用程序，设备和可穿戴设备的患者记录数据.
 - [FitnessSyncer](https://www.fitnesssyncer.com/) -将健康和健身数据整合到一个集中式平台中.
 - [IoTool](https://iotool.io/) -用于自动化和数据收集的智能手机物联网平台.
@@ -118,7 +119,7 @@ The [Quantified Self](https://en.wikipedia.org/wiki/Quantified_Self) 是一项�
 
 ### Heart
 - [Cardiio](http://www.cardiio.com/) -非接触式心率监测器（iOS）.
-- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) - Fast and accurate mobile heart rate monitor (iOS, Android, Windows).
+- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html) -快速准确的移动心率监测器（iOS，Android，Windows）.
 - [HRV4Training](https://www.hrv4training.com/) -使用智能手机摄像头跟踪心率变异性，压力和其他上下文数据点，并接收个性化建议以优化您的健康状况和训练（iOS，Android）.
 
 ### Media Consumption
