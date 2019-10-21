@@ -45,7 +45,7 @@
 
 ### [Forbidden Desert](https://wikipedia.org/wiki/Forbidden_Desert)
 
-&gt; ...玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在狂热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
+&gt; ...玩家扮演勇敢的冒险家的角色，他们必须谨慎对待风，并在炽热的沙尘中幸存下来，以恢复埋在古老沙漠城市下的传奇飞行器.
 
 ![Forbidden Desert game image](https://cf.geekdo-images.com/9cYnsP-GJPPrse1qZc3pTAqZTU4=/fit-in/246x300/pic1528722.jpg)
 
@@ -119,7 +119,7 @@
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
- &gt;在废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁固定了门.  摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推论导致自由的组合.
+ &gt;在一个废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁固定了门.  摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推论导致自由的组合.
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
@@ -187,7 +187,7 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  13  75m |
+ |  2  13 |  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
@@ -213,7 +213,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族，以及《 A Clash》扩展版国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -323,7 +323,7 @@
 
 ### [Sheriff of Nottingham](https://boardgamegeek.com/boardgame/157969/sheriff-nottingham)
 
- &gt;在诺丁汉郡治安官中，每个球员都扮演着一个商人的角色，该商人希望在王子访问诺丁汉期间赚取可观的利润.  虽然可以从合法商品中获得可观的利润，但非法商品会使您身陷财宝.  但是要小心，以免诺丁汉郡治安官抓住您！
+ &gt;在诺丁汉郡治安官中，每位球员都扮演着一个商人的角色，他希望在王子访问诺丁汉期间获得可观的利润.  虽然可以从合法商品中获得可观的利润，但非法商品会使您身陷财宝.  但是要小心，以免诺丁汉郡治安官抓住您！
 
 ![Sheriff of Nottingham game image](https://cf.geekdo-images.com/itemrep/img/ue8OIdjUCpDrnM9Y0ZXKuDdk8Y8=/fit-in/246x300/pic2075830.jpg)
 
@@ -343,7 +343,7 @@
 
 ### [Connect Four](https://en.wikipedia.org/wiki/Connect_Four)
 
- &gt;“连接四人”是一款两人连接游戏，其中，玩家首先选择一种颜色，然后轮流从顶部将一张彩色光盘放入七列，六行垂直悬挂的网格中.  碎片直落，占据了列中的最小可用空间.  游戏的目标是成为第一个形成自己四个碟片的水平，垂直或对角线的人.  连接四是一个解决的游戏.  第一个玩家总是可以通过正确的动作获胜.
+> Connect Four is a two-player connection game in which the players first choose a color and then take turns dropping one colored disc from the top into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs. Connect Four is a solved game. The first player can always win by playing the right moves.
 
 ![Connect four image](https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Connect_4_Board_and_Box.jpg/220px-Connect_4_Board_and_Box.jpg)
 
@@ -416,7 +416,7 @@
 
 ### [Munchkin](http://www.worldofmunchkin.com/game/)
 
- &gt;蒙奇金（Munchkin）是一款关于地下城冒险的热门打牌游戏，没有那么愚蠢的角色​​扮演游戏.  您和您的朋友竞争杀死怪物并抢夺魔法物品.  还有什么魔术物品！  穿上角质头盔和踢屁股长靴.  挥舞着纳帕姆的法杖……或者是血腥肢解的电锯.  首先屠宰盆栽植物和流口水的软泥，然后逐步到达way龙...
+> Munchkin is the mega-hit card game about dungeon adventure ... with none of that stupid roleplaying stuff. You and your friends compete to kill monsters and grab magic items. And what magic items! Don the Horny Helmet and the Boots of Butt-Kicking. Wield the Staff of Napalm ... or maybe the Chainsaw of Bloody Dismemberment. Start by slaughtering the Potted Plant and the Drooling Slime, and work your way up to the Plutonium Dragon ...
 
 ![Munchkin game image](https://upload.wikimedia.org/wikipedia/en/e/ee/Munchkin_game_cover.jpg)
 
@@ -527,7 +527,7 @@
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们制作简笔漫画很容易，而且我们丑陋而愚蠢.从各个方面来说都是正确的.所以，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们带来了娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -577,7 +577,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后与对手相比，击败更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -593,11 +593,11 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ------: |
-|   1 - 4 |       12 | 60-120m |
+ |  1-4 |  12 |  60-120m |
 
 ### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
- &gt;每个玩家都从草拟由骰子掷骰决定的电视单词开始.  老式的沙漏计时器可能会限制他们执行草图的时间，但是它当然不会限制创造力！  时间到！  所有玩家都同时将自己的草图传递给下一个玩家，后者必须猜测所绘制的内容.  然后，玩家同时将他们的猜测（希望与原始单词匹配（或匹配？））传递给下一个必须尝试绘制他们看到的单词的玩家，依此类推.
+ &gt;每个玩家都从草拟由骰子掷骰决定的电视单词开始.  老式的沙漏计时器可能会限制他们执行草图的时间，但是它当然不会限制创造力！  时间到！  所有玩家都同时将自己的草图传递给下一个玩家，后者必须猜测所绘制的内容.  然后，玩家同时将他们的猜测（希望与原始单词匹配（或匹配？））传递给下一个必须尝试画出他们看到的单词的玩家，依此类推.
 
 ![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
 
@@ -607,7 +607,7 @@
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
- &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在用爪子穿过纸牌时尝试收集有用的垃圾.  开始收集珍贵的垃圾物品，例如日龄的比萨饼或半食的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请稍等，掷骰子以撒谎其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会折磨您的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
+ &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在用爪子穿过纸牌时尝试收集有用的垃圾.  开始收集珍贵的垃圾物品，例如日龄的比萨饼或半食的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请稍等，掷骰子以掩饰其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会折磨您的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
@@ -631,7 +631,7 @@
 
 &gt;荒谬的论战
 
- Superfight是一款游戏，您可以在荒谬的战斗中与朋友争论.  游戏非常简单.  玩家使用这些牌来创建荒谬的战士，并争论哪个角色会在战斗中获胜.  然后，周围的所有人都对获胜者进行投票.  可以想象，战斗是史诗般的和搞笑的.  各个年龄段的人都很有趣，并且适用于各种玩家.
+ Superfight是一款游戏，您可以与您的朋友争论荒谬的战斗.  游戏非常简单.  玩家使用这些卡牌来创造可笑的战士，并争论哪个角色会在战斗中获胜.  然后，周围的所有人都对获胜者进行投票.  可以想象，战斗是史诗般的和搞笑的.  各个年龄段的人都很有趣，并且适用于各种玩家.
 
 ![SuperFight Image](https://cf.geekdo-images.com/itemrep/img/lzYOqbq7xfZbofwrWPrIlxl1APA=/fit-in/246x300/pic2429251.png)
 
@@ -659,6 +659,17 @@
 | ------: | -------: | -----: |
  |  2 |  13 |  30-60m |
 
+### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
+
+ &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通行证”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时剩下的持卡人都将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
+
+
+![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  3-6 |  12  30m |
+
 ## Contribute
 
  欢迎和鼓励捐款！  请先阅读[贡献准则] [贡献指南].
@@ -668,6 +679,6 @@
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
 
 在法律允许的范围内，任何和/或所有版权以及任何
-related or neighboring rights to this work.
+相关或邻接权.
 
 [contrib-guide]：contribution.md

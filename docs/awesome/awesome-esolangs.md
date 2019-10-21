@@ -30,6 +30,7 @@
 * [Fetlang](https://github.com/Property404/fetlang) -旨在使源代码看起来像写得不好的恋物癖情色.
 * [INTERCAL](http://www.catb.org/~esr/intercal/) -拟与其他语言完全不同的模仿语言.
 * [JSFuck](https://github.com/aemkei/jsfuck) -基于JavaScript原子部分的神秘编程风格.
+* [Lazy K](https://tromp.github.io/cl/lazy-k.html) -最小，图灵完整的纯函数式语言，没有其他功能.
 * [LolCode](http://lolcode.org) -具有基于lolcat meme表达式的关键字的语言.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) -以地狱的第8级命名，旨在尽可能地难以编程.
 * [Omgrofl](https://esolangs.org/wiki/Omgrofl) -类似于互联网语的语法.
@@ -42,6 +43,7 @@
 * [Suzy](https://github.com/gvx/suzy) -受Befunge启发的3D语言.
 * [Thue](https://github.com/jcolag/Thue) -* Matrioshka *语言，基于半确定语法的不确定性字符串重写.
 * [Unary](https://esolangs.org/wiki/Unary) -基于Brainfuck的语言，其中所有命令均为0.
+* [Unlambda](http://www.madore.org/~david/programs/unlambda) -模糊的功能编程.
 * [Velato](http://velato.net) -使用MIDI文件作为源的语言，程序由音高和音高顺序定义.
 * [Vigil](https://github.com/munificent/vigil) -只有Vigil真正警惕不允许未通过编程规范的代码.
 * [Whenever](http://www.dangermouse.net/esoteric/whenever.html) -随时随地执行操作的语言.

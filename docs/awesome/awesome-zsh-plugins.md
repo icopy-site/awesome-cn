@@ -237,7 +237,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [abbr-path](https://github.com/felixgravila/zsh-abbr-path) -从某些“我的鱼”主题中添加了“ theme_title_use_abbreviated_pa​​th”参数的功能.
 * [abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) -提供类似于`vim`的缩写扩展功能.
 * [accurev](https://github.com/dalefukami/accurev-zsh) -ZSH插件 [accurev](https://www.microfocus.com/en-us/products/accurev/overview).
-* [actiona](https://github.com/matthieusb/act) -使通话更轻松 [actiona](https://github.com/Jmgr/actiona)  命令行中的脚本.  包括标签补全.
+* [actiona](https://github.com/matthieusb/act) -通话更轻松 [actiona](https://github.com/Jmgr/actiona)  命令行中的脚本.  包括标签补全.
 * [alehouse](https://github.com/sticklerm3/alehouse) -包含以下别名 [brew](https://brew.sh) 命令，灵感来自 [betterbrew](https://github.com/timothyrowan/betterbrew-zsh-plugin).
 * [alias-tips](https://github.com/djui/alias-tips) -oh-my-zsh插件，可帮助您记住一次定义的别名.
 * [allergen](https://github.com/stanislas/allergen) -与Antigen一起使用的自定义ZSH插件的集合.
@@ -249,7 +249,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [anyframe](https://github.com/mollifier/anyframe) -ZSH的peco / percol / fzf包装器插件.
 * [apache2](https://github.com/voronkovich/apache2.plugin.zsh) -添加用于管理Apache2的别名和功能.
 * [apple-touchbar](https://github.com/zsh-users/zsh-apple-touchbar) -在中添加了MacBook Pro触摸屏支持 [iTerm 2](https://iterm2.com).
-* [appup](https://github.com/Cloudstek/zsh-plugin-appup)  -当在当前目录（例如您的应用程序）中检测到docker-compose.yml或Vagrantfile时，添加start，stop，up和down命令.  只需运行“ up”并获取编码！
+* [appup](https://github.com/Cloudstek/zsh-plugin-appup)  -当在当前目录（例如您的应用程序）中检测到docker-compose.yml或Vagrantfile时，添加“开始”，“停止”，“向上”和“向下”命令.  只需运行“ up”并获取编码！
 * [artisan](https://github.com/jessarcher/zsh-artisan) -ZSH的Laravel`artisan`插件，可帮助您从项目树中的任何位置运行`artisan`，并带有制表符完成功能！
 * [asciidoctor](https://github.com/sparsick/asciidoctor-zsh) -AsciiDoctor的插件.
 * [asdf](https://github.com/kiurchv/asdf.plugin.zsh) -的整合和完成 [asdf](https://github.com/asdf-vm/asdf)，可扩展的版本管理器，支持Ruby，Node.js，Elixir，Erlang等.
@@ -826,7 +826,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [avit-d2k](https://github.com/fdaciuk/avit-da2k) -基于oh-my-zsh [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) 主题，变化不大.
 * [avit-mod](https://github.com/zlsun/avit-mod) -oh-my-zsh的修改版 [avit](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme) 主题.
 * [bandit](https://github.com/Holger-Will/zsh_bandit) -另一个电力线变体.
-* [bar(anki-code)](https://github.com/anki-code/zsh-bar-theme) -丰富多彩的主题，包括git装饰和活动的conda版本.
+* [bar (anki-code)](https://github.com/anki-code/zsh-bar-theme) -丰富多彩的主题，包括git装饰和活动的conda版本.
 * [bar (xp-bar)](https://github.com/xp-bar/zsh-bar-theme) -包括用户名，主机，密码，git状态装饰和3个小时的饮水提醒.
 * [bashi](https://github.com/eli-oat/bashi) -针对AhmetSülek的优化 [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) 和Pasquale D&#39;Silva [Saturn Terminal Theme](https://github.com/psql/saturn-colors).
 * [bastard](https://github.com/jsundqvist/bastard.zsh-theme) -的修改版本 [`gitster`](https://github.com/zimfw/zimfw/blob/master/modules/prompt/themes/gitster.zsh-theme) 的主题 [ZIM](https://github.com/zimfw/zimfw#installation).
@@ -955,6 +955,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [heart](https://github.com/gko/heart-theme) -以心脏为主题的浅色背景提示.
 * [hedgehog](https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157) -简单，简洁，干净，并支持git和返回码.
 * [helb](https://github.com/helb/helb.zshtheme) - Loosely based on Gentoo's old bash theme. Includes `git` information, return value of last command, and uses different username color and prompt char for users (`$`) and root (`#`).
+* [hexagon](https://github.com/diogoazevedos/hexagon) -基于的简约zsh主题 [geometry](https://github.com/geometry-zsh/geometry).
 * [hfulldate](https://github.com/fusion809/zsh-theme) -显示时间，日期，操作系统（如果是Linux，则包括发行版），目录以及是否以root身份运行.
 * [hhktony](https://github.com/hhktony/hhktony.zsh-theme) -受robbyrussell主题+ ssh连接状态提示的启发.
 * [hina](https://github.com/ucpr/hina) -用`golang`编写，包括`git`状态修饰和kubernetes上下文.
@@ -993,7 +994,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [keloran](https://github.com/Keloran/keloran.zsh-theme) -主题，包括其他主题的一些功能.
 * [kenton](https://github.com/notnek/zsh-theme) -针对深色背景进行了优化，包括`git`状态信息.
 * [kevin](https://github.com/KevinParnell/Kevin-zsh) -丰富多彩的主题，包括iTerm 2配色方案.
-* [kimwz](https://github.com/kimwz/kimwz-oh-my-zsh-theme) -最小的主题.
+* [kimwz](https://github.com/kimwz/kimwz-oh-my-zsh-theme) -最小主题.
 * [kinda-fishy](https://github.com/folixg/kinda-fishy-theme) -基于Fishy主题，但显示完整路径而不是缩写目录，并且仅在`ssh`会话和docker容器中显示user @ machine.
 * [kketcham](https://github.com/prototype27/kketcham) -在git信息上具有漂亮颜色的主题.
 * [klendathu](https://github.com/kegonomics/klendathu) -使用电力线iconolas.
@@ -1058,6 +1059,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [neon](https://github.com/sahariko/neon) -带有`git`装饰的漂亮且最小的ZSH主题.
 * [nerdish](https://gitlab.com/nyarla/zsh-theme-nerdish) -带有书呆子字体的ZSH的快速主题.
 * [nescalante](https://github.com/nescalante/zsh-theme) -针对深色终端背景进行了优化，包括git装饰.
+* [neurosimple](https://github.com/davidsierradz/neurosimple-oh-my-zsh-theme) -包括git装饰和vi模式指示器.
 * [newt](https://github.com/softmoth/zsh-prompt-newt) -胖与快的主题–由内而外的美丽，正确完成样式化的细分.
 * [nextbike](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an macOS bike icon.
 * [nidoranarion](https://github.com/NicolaiRuckel/nidoranarion) -五颜六色，显示`git`状态装饰.

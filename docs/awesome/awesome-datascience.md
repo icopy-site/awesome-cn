@@ -1,7 +1,6 @@
 <div class="github-widget" data-repo="bulutyazilim/awesome-datascience"></div>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-6890694312814945" data-ad-slot="5473692530" data-ad-format="auto"  data-full-width-responsive="true"></ins><script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
-## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+## Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to new links](https://app.releasly.co/assets/badges/badge-awesome-blue.svg)](https://app.releasly.co/sites/academic/awesome-datascience?utm_source=github_badge)
 
 *一个开放源代码的数据科学存储库，用于学习和解决现实世界中的问题.*
 
@@ -32,7 +31,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -154,7 +153,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Bloggers
 
 - [Wes McKinney](http://wesmckinney.com/archives.html) -韦斯·麦金尼档案馆.
-- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网站.
+- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网络.
 - [Greg Reda](http://www.gregreda.com/) -Greg Reda个人博客
 - [Kevin Davenport](http://kldavenport.com/) -凯文·达文波特个人博客
 - [Julia Evans](http://jvns.ca/) -递归中心校友
@@ -172,7 +171,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）.  机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）  机器学习，数据挖掘及更多
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
@@ -389,7 +388,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Toolboxes - Environment
 
  * [ML Workspace](https://github.com/ml-tooling/ml-workspace)  -用于机器学习和数据科学的基于Web的多合一IDE.  工作区被部署为Docker容器，并预加载了各种流行的数据科学库（例如Tensorflow，PyTorch）和开发工具（例如Jupyter，VS Code）.
- * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进团队合作，基础架构管理，模型比较和可重复性.
+ * [neptune.ml](https://neptune.ml)  -&gt;社区友好型平台，支持数据科学家创建和共享机器学习模型.  Neptune促进了团队合作，基础架构管理，模型比较和可重复性.
  * [steppy](https://github.com/neptune-ml/steppy)  -&gt;轻量级的Python库，用于快速且可重复的机器学习实验.  引入了非常简单的界面，可以进行干净的机器学习管道设计.
 * [steppy-toolkit](https://github.com/neptune-ml/steppy-toolkit) -&gt;精心挑选的神经网络，变换器和模型集合，可让您的机器学习更快，更有效地工作.
  * [Datalab from Google](https://cloud.google.com/datalab/docs/) 使用熟悉的语言（例如Python和SQL）以交互方式轻松地探索，可视化，分析和转换数据.
@@ -402,7 +401,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
@@ -413,7 +412,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，可让您进行MapReduce之外的高级分析.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave是一种高级解释语言，主要用于数值计算.（免费Matlab）
- * [Apache Spark](https://spark.apache.org/) 快如闪电的集群计算
+ * [Apache Spark](https://spark.apache.org/) 迅捷的集群计算
  * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
  * [Caffe](http://caffe.berkeleyvision.org/) 深度学习框架
  * [Torch](http://torch.ch/) LuaJit的科学计算框架
@@ -480,7 +479,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Journals, Publications and Magazines
 
- * [ICML](http://icml.cc/2015/) -国际机器学习大会
+ * [ICML](http://icml.cc/2015/) -机器学习国际会议
  * [epjdatascience](http://epjdatascience.springeropen.com/)
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)

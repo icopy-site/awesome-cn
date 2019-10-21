@@ -592,7 +592,7 @@ AWS存储库：
 
 * [amazon-kinesis-aggregators :fire:](https://github.com/awslabs/amazon-kinesis-aggregators) -提供创建实时聚合的简单方法.
 * [amazon-kinesis-client-net](https://github.com/awslabs/amazon-kinesis-client-net) -.NET的客户端库.
-* [amazon-kinesis-client-nodejs :fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) -Node.js的客户端库.
+* [amazon-kinesis-client-nodejs :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-nodejs) -Node.js的客户端库.
 * [amazon-kinesis-client-python :fire::fire:](https://github.com/awslabs/amazon-kinesis-client-python) -Python客户端库.
 * [amazon-kinesis-client-ruby :fire:](https://github.com/awslabs/amazon-kinesis-client-ruby) -Ruby的客户端库.
 * [amazon-kinesis-client :fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Amazon Kinesis的客户端库.

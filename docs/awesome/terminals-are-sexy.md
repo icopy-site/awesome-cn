@@ -9,7 +9,6 @@
 看看我 [blog](https://nikolaskama.me/) 跟我来 [Twitter](https://twitter.com/nikolaskama).
 
 [![Build Status](https://travis-ci.org/k4m4/terminals-are-sexy.svg?branch=master)](https://travis-ci.org/k4m4/terminals-are-sexy)
-[![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
 [![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
 
 
@@ -43,7 +42,7 @@
 * [pumice](https://github.com/ryutamaki/pumice) -zsh的轻量级插件管理器.
 * [pure](https://github.com/sindresorhus/pure) -漂亮，最小和快速的ZSH提示.
 * [slimzsh](https://github.com/changs/slimzsh) -ZSH的小型可用配置.
-* [zeesh](https://github.com/zeekay/zeesh) -跨平台的Zsh框架.
+* [zeesh](https://github.com/zeekay/zeesh) - Cross-platform Zsh framework.
 * [zgen](https://github.com/tarjoilija/zgen) -ZSH的轻巧简单的插件管理器.
 * [zilsh](https://github.com/zilsh/zilsh) -Zsh配置系统，旨在吸引更多高级用户，并遵循vim病原体的简单方法.
 * [zim](https://github.com/Eriner/zim) -具有惊人速度和模块化扩展的Zsh配置框架.
@@ -112,7 +111,6 @@
 * [Termite](https://github.com/thestinger/termite/) -以键盘为中心的终端，旨在在平铺窗口管理器中使用.
 * [Tilda](https://github.com/lanoxx/tilda) -用于Linux和Unix的基于Gtk的下拉终端.
 * [Tilix](https://gnunn1.github.io/tilix-web/) -遵循Gnome人机界面指南的高级GTK3平铺终端模拟器.
-* [TotalTerminal](https://totalterminal.binaryage.com/) -可通过热键使用系统范围的终端.
 * [Upterm](https://github.com/railsware/upterm) -21世纪的终端仿真器.
 * [Xfce Terminal](https://docs.xfce.org/apps/terminal/start) -主要用于Xfce桌面环境的现代终端模拟器.
 * [xterm](https://invisible-island.net/xterm/) -X Window系统的终端仿真器.
@@ -160,7 +158,7 @@
 * [oneget](https://github.com/OneGet/oneget) -PackageManagement（aka OneGet）是Windows的软件包管理器.
 * [ruckzuck](https://ruckzuck.tools/) -Windows的软件包管理器，是一种安装和更新软件的快速方法.
 * [scoop](https://scoop.sh/) -Windows的软件包管理器.
-* [wpkg](https://windowspackager.org/documentation/wpkg) - Automated software deployment, upgrade and removal program for Windows.
+* [wpkg](https://windowspackager.org/documentation/wpkg) -Windows的自动化软件部署，升级和删除程序.
 
 
 ## Text Editors

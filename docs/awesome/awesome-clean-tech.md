@@ -30,7 +30,7 @@
 
    与传统的汉堡相比，他们以植物为原料的汉堡所需的土地减少了96％，水减少了87％，温室气体排放减少了89％.  他们的任务是生产植物性肉类，以减少肉类工业对环境的影响.
 
-- [HappyCow](https://www.happycow.net/) | California, USA | 1999
+- [HappyCow](https://www.happycow.net/)  |  美国加利福尼亚|  1999年
 
   通过在世界各地找到优质的素食或纯素食，完全减少或避免吃肉.
 
@@ -48,7 +48,7 @@
 
 - [Phytoponics](https://phytoponics.com/)  |  英国|  2016年
 
-   生产商业规模的水培种植系统，该系统比传统的水培系统便宜，易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
+  Produces a commercial scale hydroponic growing system, which is cheaper and easier to install and maintain than traditional hydroponic systems. The goal is to bring the benefits of hydroponics (less water and land, more consistent yields), with a lower investment up front.
 
 - [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
@@ -87,7 +87,7 @@
 
 - [Orbital Systems](https://orbital-systems.com/)  |  瑞典|  2012年
 
-   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水量减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
+   与美国国家航空航天局（NASA）合作开发了一种淋浴系统，该系统使用的水减少了90％.  淋浴器具有净化系统，可以重复使用同一批水.  该公司现在希望使这项最初为太空开发的技术可供消费者使用.
 
 - [Refill App](https://refill.org.uk/)  |  英国|  2015年
 
@@ -125,7 +125,7 @@
 
 - [Marcel](https://www.marcel.cab/engagements-rse/)  |  法国|  2011年
 
-   像Uber这样的在线出租车应用程序，使人们有可能使用电动汽车和GoodPlanet基金会的合作伙伴来完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
+   像Uber这样的在线出租车应用程序，使人们有可能与GoodPlanet基金会一起使用电动汽车和合作伙伴，以完全补偿乘车过程中产生的碳.  自2019年以来，仅在法国提供.
 
 - [Momentum Dynamics](https://www.momentumdynamics.com/)  |  美国宾夕法尼亚州|  2009年
 
@@ -179,15 +179,19 @@
 
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
 
-  Fintech company promoting the reduction in consumption, by providing a credit card which uses CO2 emissions as spending limit.
+  金融科技公司通过提供使用二氧化碳排放量作为支出限额的信用卡来促进消费的减少.
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视您的个人足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
    互联网搜索引擎，将其剩余收入捐赠给专注于植树造林的非营利组织.  根据他们的网站，截至2019年7月，他们已负责种植6000万棵树.
+
+- [Ewally](https://ewally.com.mx/)  |  墨西哥|  2017年
+
+  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
 
 - [Tomorrow](https://tmrow.com/)  |  丹麦/法国|  2018
 
@@ -195,11 +199,13 @@
 
 - [Unmade](https://unmade.com/)  |  英格兰|  2013年
 
-   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
+   通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
+
 
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) -芬兰清洁技术公司的枢纽.
+- [Clean Tech Sweden](https://swedishcleantech.com/) -瑞典清洁技术公司的枢纽.
 - [r/ClimateActionPlan](https://www.reddit.com/r/ClimateActionPlan/) -在面对气候变化时给人们带来希望的一种潜意识.
 - [Climate Choice](https://climatechoice.co/) -一个非营利性项目，其中包含有关减少气候变化的可行指南以及有关气候变化的教育信息.
 - [Mattermore.io](https://www.mattermore.io/)  -简讯重点介绍使用AI和数据科学来扭转气候变化的公司；  有助于发现每周提供的新计划/工作机会.

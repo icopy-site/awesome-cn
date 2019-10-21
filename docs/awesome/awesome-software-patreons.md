@@ -119,7 +119,7 @@ _操作系统和Linux发行版.
 - [Linux Lite](https://www.patreon.com/linuxlite) -Linux发行版.
 - [Parrot](https://www.patreon.com/parrot) -与安全相关的Debian发行版. 
 - [Redox OS](https://www.patreon.com/redox_os) -用Rust编写的OS.
-- [Serenity OS](https://www.patreon.com/serenityos) -用于x86的图形化类Unix操作系统，具有90年代的美感.
+- [Serenity OS](https://github.com/sponsors/awesomekling) [#2](https://www.patreon.com/serenityos) -用于x86的图形化类Unix操作系统，具有90年代的美感.
 - [Slackware Linux](https://www.patreon.com/slackwarelinux) -Linux发行版.
 - [Ubuntu Mate](https://www.patreon.com/ubuntu_mate) -Ubuntu版本. 
 - [Ubuntu Touch](https://www.patreon.com/ubports), [#2](https://liberapay.com/UBports) -触摸友好的移动版Ubuntu.
@@ -177,7 +177,7 @@ _为要求支持其工作的多个项目做出贡献的开发人员.
 - [Jorge Bucaran](https://github.com/sponsors/jorgebucaran) -Hyperapp和mny其他Javascript项目.
 - [Jonathan Müller](https://www.patreon.com/foonathan) -各种C ++库，工具，文章.
 - [Kevin Cozens](https://www.patreon.com/KevinCozens) -GIMP，OpenSimulator，KiCad和TinyScheme等项目的贡献者.
-- [Kévin Dunglas](https://github.com/sponsors/dunglas) -API平台，Vulcain，Mercure和Symphony贡献.
+- [Kévin Dunglas](https://github.com/sponsors/dunglas) -API平台，Vulcain，Mercure和Symfony贡献.
 - [Khoa Pham](https://github.com/users/onmyway133/sponsorship) -有关iOS / Cocoa的大量库，应用程序和文章，
 - [Kozec](https://www.patreon.com/kozec) -Syncthing-GTK和SC-Controller.
 - [Kurt Kremitzki](https://www.patreon.com/kkremitzki), [#2](https://liberapay.com/kkremitzki) -FreeCAD贡献者和Debian打包者.

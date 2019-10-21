@@ -68,7 +68,6 @@
 
 - [Ammy](http://www.ammyui.com/)  -用于XAML平台的现代UI语言.  免费用于非商业开发.
 - [Appercode.UIFramework ★13](https://github.com/Appercode/Appercode.UIFramework) -允许使用单个XAML布局构建跨平台移动应用程序的用户界面.
-- [Fusion ★13](https://github.com/Appercode/Appercode.UIFramework) - Cross-platform C#-based mobile app development framework, built on top of Xamarin.iOS and Xamarin.Android.
 - [Invention](https://gitlab.com/hodgskin-callan/Invention) - Develop native apps for iOS, Android and Windows with 100% code sharing using Visual Studio and C#.NET.
 - [SimplyMobile ★103](https://github.com/sami1971/SimplyMobile) -抽象的移动功能集合.
 - [Xamu-Infrastructure ★104](https://github.com/xamarinhq/xamu-infrastructure)  -扩展，MVVM类，行为和其他杂项.  Xamarin大学的有用代码位.
@@ -91,7 +90,7 @@
 ## IOC/DI
 
 - [Autofac ★2,169](https://github.com/autofac/Autofac) -令人上瘾的.NET IoC容器.
-- [DryIoc](https://bitbucket.org/dadhi/dryioc) - Fast, small, full-featured IoC Container for .NET.
+- [DryIoc](https://bitbucket.org/dadhi/dryioc) -用于.NET的快速，小型，功能齐全的IoC容器.
 - [Funq ★2](https://github.com/thiagoromam/FunqPortable) -高性能DI框架，通过使用lambda和泛型函数作为工厂来消除所有运行时反射.
 - [LightInject ★320](https://github.com/seesharper/LightInject) -用于.NET的轻便，简单，惊人的快速IoC容器.
 - [Ninject ★2,034](https://github.com/ninject/Ninject) -.net依赖注入程序的忍者.
@@ -264,7 +263,7 @@
 - [Estimote ★37](https://github.com/aritchie/estimotes-xplat) -信标的估计库的跨平台实现.
 - [Fingerprint ★165](https://github.com/smstuebe/xamarin-fingerprint) -Xamarin和MvvMCross插件，用于访问指纹传感器.
 - [HybridKit ★21](https://github.com/chkn/HybridKit) - Simple C# – JavaScript bridge for building hybrid iOS and Android apps.
-- [Lamp ★1](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) -通过Xamarin和Xamarin.Forms项目控制手机背面的灯/ LED的简单方法.
+- [Lamp ★1](https://github.com/kphillpotts/Xamarin.Plugins/tree/master/Lamp) - Simple way of controlling the lamp/LED on the back of your phone from Xamarin and Xamarin.Forms projects.
 - [ManageSleep ★15](https://github.com/molinch/Xam.Plugins.ManageSleep)  -在所有平台上管理自动睡眠/自动锁定.  在处理长时间运行的进程时，这很有用.
 - [Messaging ★88](https://github.com/cjlotz/Xamarin.Plugins) -使用Messaging插件，可以使用不同移动平台上的默认消息传递应用程序拨打电话，发送短信或发送电子邮件.
 - [Notifications ★79](https://github.com/aritchie/notifications) -Xamarin和Windows的通知插件.

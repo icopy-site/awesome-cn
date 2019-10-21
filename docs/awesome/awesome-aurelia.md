@@ -94,7 +94,7 @@
 * [Chrome Extension](https://chrome.google.com/webstore/detail/aurelia-inspector/ofemgdknaajmpeoblfdjkenbpcfbdefg) *此工具称为“ Aurelia检查器”
 * [vscode-extension](https://github.com/aurelia/vscode-extension) * VS Code编辑器的Aurelia扩展，提供HTML语法突出显示，语句完成和CLI集成.
 * [vscode-aurelia-snippets](https://github.com/behzad888/vscode-aurelia-snippets) * VSCode的HTML，JavaScript和TypeScript代码片段
-* [aurelia-update](https://github.com/SpoonX/aurelia-update) * Update all aurelia dependencies easily.
+* [aurelia-update](https://github.com/SpoonX/aurelia-update) *轻松更新所有aurelia依赖项.
 * [aurelia-template-lint](https://github.com/MeirionHughes/aurelia-template-lint) * Aurelia风味模板HTML的完整性检查
 * [atom-aurelia-snippets](https://atom.io/packages/atom-aurelia-snippets) *原子的JavaScript和TypeScript代码段
 * [aurelia-installer](https://github.com/kristianmandrup/aurelia-installer) * CLI，用于管理Aurelia组件和供应商库
@@ -176,7 +176,7 @@
 * [aurelia-ui-virtualization](https://github.com/aurelia/ui-virtualization) {official} *提供虚拟化中继器和其他虚拟化服务的插件
 * [aurelia-bs-grid](https://github.com/charlespockert/aurelia-bs-grid) * Aurelia和Bootstrap支持的数据网格控制
 * [aurelia-polymer](https://github.com/roguePanda/aurelia-polymer) * Aurelia插件支持Polymer
-* [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) *在Aurelia应用程序中使用的高度可配置的自定义元素，用于将Google Maps插入您的应用程序
+* [aurelia-google-maps](https://github.com/Vheissu/aurelia-google-maps) *高度可配置的自定义元素，可在您的Aurelia应用程序中使用，以将Google Maps插入您的应用程序
 * [webpack-plugin](https://github.com/aurelia/webpack-plugin) {official} * Webpack插件，可捆绑Aurelia应用程序
 * [aurelia-cycle](https://github.com/niieani/aurelia-cycle) *一个Aurelia插件，可在Aurelia内部使用Cycle.js
 * [aurelia-kendoui-bridge](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) * Aurelia和KendoUI集成
@@ -196,7 +196,7 @@
 * [aurelia-environment](https://github.com/MarcScheib/aurelia-environment) * aurelia-environment提供简单的.env解析和加载
 * [aurelia-firebase](https://github.com/pulsarblow/aurelia-firebase) * [A Firebase plugin for Aurelia](https://aureliaonfire.azurewebsites.net)
 * [aurelia-flux](https://github.com/tfrydrychewicz/aurelia-flux) * Aurelia的助焊剂调度程序插件
-* [aurelia-grid](https://github.com/corneliutusnea/aurelia-grid) *使用基于TypeScript的charlespockert的Aurelia BS Grid编写的新Aurelia Grid
+* [aurelia-grid](https://github.com/corneliutusnea/aurelia-grid) *一个新的Aurelia网格，使用基于TypeScript的charlespockert的Aurelia BS网格编写
 * [aurelia-google-analytics](https://github.com/miguelzakharia/aurelia-google-analytics) *一个Aurelia.io插件，可将Google Analytics（分析）页面跟踪添加到您的项目中.
 * [aurelia-knockout](https://github.com/code-chris/aurelia-knockout) * Aurelia的淘汰赛插件
 * [aurelia-leaflet](https://github.com/ceoaliongroo/aurelia-leaflet) *用于Aurelia的传单插件
@@ -220,10 +220,12 @@
 * [aurelia-split-pane](https://github.com/michaelbull/aurelia-split-pane) *可调整大小的拆分窗格的自定义元素- [Demo](https://michaelbull.github.io/aurelia-split-pane/)
 * [aurelia-bootstrap-plugins](https://github.com/ghiscoding/Aurelia-Bootstrap-Plugins) *与第三方Bootstrap插件桥接的一组插件- [Demo](https://ghiscoding.github.io/Aurelia-Bootstrap-Plugins/)
 * [aurelia-slickgrid](https://github.com/ghiscoding/aurelia-slickgrid) * Aurelia现在提供了用于性能和自定义的最佳javascript数据网格Slickgrid- [Demo](https://ghiscoding.github.io/aurelia-slickgrid/)
-* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) *权限管理插件，允许集成Aurelia和CASL
+* [casl-aurelia](https://github.com/stalniy/casl/tree/master/packages/casl-aurelia) * Permissions management plugin which allows to integrate Aurelia and CASL
 * [aurelia-json-schema-form](https://github.com/jbockle/aurelia-json-schema-form) *完全可定制的插件，可基于JSON模式动态生成表单并验证表单
 * [aurelia-highlightjs](https://aurelia-highlightjs.r-w-x.net/#/demo) *用于的Aurelia自定义元素 [highlight.js](https://highlightjs.org/)
-* [aurelia-fontawesome](https://github.com/jmzagorski/aurelia-fontawesome) *用于的Aurelia组件 [Font Awesome](https://fontawesome.com/) 5.
+* [aurelia-fontawesome](https://github.com/jmzagorski/aurelia-fontawesome) * Aurelia组件 [Font Awesome](https://fontawesome.com/) 5.
+* [aurelia-kis-oidc](https://github.com/kisssdev/aurelia-kis-oidc) *封装了的Aurelia插件 [oidc-client-js library](https://github.com/IdentityModel/oidc-client-js).
+* [aurelia-telemetry](https://github.com/manuel-guilbault/aurelia-telemetry)
 * [**{{** add_your_repo **}}**](https://github.com/behzad888/awesome/edit/master/README.md)
 
 #### Aurelia Implementation

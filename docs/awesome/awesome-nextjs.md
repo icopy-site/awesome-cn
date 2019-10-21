@@ -31,7 +31,7 @@
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
- * [使用Next.js和Redux _ [Russian] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
+ * [使用Next.js和Redux _ [俄语] _构建通用JavaScript应用]（https://habrahabr.ru/post/323​​588/）
  * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
  * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
  * [Next.js 5: Universal Webpack, CSS Imports, Plugins and Zones](https://zeit.co/blog/next5)
@@ -70,6 +70,7 @@
 * [next-boilerplate](https://github.com/pankod/next-boilerplate) -生产就绪-打字稿，Sass，Css，EnvConfig，反向代理，捆绑分析器
 * [Oh My Fullstack](https://github.com/oh-my-c0de/oh-my-fullstack) -全栈Web应用程序框架（Next.js，Redux，RxJS，Immutable，Express）
 * [nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) -由Next.JS和MongoDB制作的成熟应用程序，具有身份验证等功能（Next.js 9，MongoDB）
+* [react-next-boilerplate](https://github.com/react-next-boilerplate/react-next-boilerplate) -：rocket：使用nextJS，最佳开发实践和开发人员社区中流行的库来减少项目配置的基础.
 
 ## Extensions
 * [Next Routes](https://github.com/fridays/next-routes) -Next.js的通用命名路由.

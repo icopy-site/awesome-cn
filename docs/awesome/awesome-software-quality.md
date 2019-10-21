@@ -5,7 +5,7 @@
 [![Build Status](https://travis-ci.org/ligurio/awesome-software-quality.svg?branch=master)](https://travis-ci.org/ligurio/awesome-software-quality)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![sqaunderhood](https://i.imgur.com/HlL3cB2.jpg)](https://t.me/sqaunderhood)<h3>Telegram: <a href="https://t.me/sqaunderhood">t.me/sqaunderhood</a></h3>
+**加入聊天 [t.me/sqaunderhood](https://t.me/sqaunderhood) 和 [subscribe](https://github.com/ligurio/awesome-software-quality/subscription) 接收更新通知.**
 
 ### Introduction
 
@@ -14,9 +14,6 @@
  可以通过许多轴来组织这样的列表，例如目标受众的专业水平（从专家到整个公众）或学科定位（计算机科学，数学，数学逻辑等）.  在这里，我选择了按主题类型对材料进行分类.
     
 如果您想添加一些内容，只需将您希望显示的文本发送到estetus@gmail.com，最好已将其设置为markdown格式.
-
-**[Subscribe](https://github.com/ligurio/awesome-software-quality/subscription) 接收通知.**
-
 
 ## Index
 
@@ -375,7 +372,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 ## Awesome Lists
 
 - [Resources for Teaching with Formal Methods](https://avigad.github.io/formal_methods_in_education/)
--通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和 [cpuu](https://github.com/cpuu/awesome-fuzzing)
+-通过模糊测试 [secfigo](https://github.com/secfigo/Awesome-Fuzzing) 和通过 [cpuu](https://github.com/cpuu/awesome-fuzzing)
 - [Mutation testing](https://github.com/theofidry/mutation-testing)
 - [Chaos Engineering](https://github.com/dastergon/awesome-chaos-engineering)
 - [Static analysis](https://github.com/mre/awesome-static-analysis)

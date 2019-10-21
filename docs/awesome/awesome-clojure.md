@@ -77,6 +77,7 @@
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
   * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
   * [clojurephant](https://github.com/clojurephant/clojurephant) （Gradle插件）
+  * [shadow-cljs](https://github.com/thheller/shadow-cljs) （文字）
 
 ## Version Control Management
 
@@ -235,6 +236,7 @@
   * [defun](https://github.com/killme2008/defun)
   * [cats.match](https://github.com/zalando/cats.match)
   * [Akar](https://github.com/missingfaktor/akar)
+  * [Meander](https://github.com/noprompt/meander)
 
 ## Async processing
 
@@ -447,7 +449,7 @@
 
 ### YouTube
 
-  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure的Light Table，Datomic和Game开发的介绍
+  * [Misophistful's channel](https://www.youtube.com/user/Misophistful/videos)：了解概念，例如列表理解，线程宏，生成测试，解构，core.match和使用Clojure进行的Light Table，Datomic和Game开发的介绍
   * [Fred Overflow's channel](https://www.youtube.com/channel/UC9m7D4XKPJqTPCLSBym3BCg/search?query=Clojure)：使用Clojure进行函数式编程和TDD的介绍
   * [Clojure Pills screencast](https://www.youtube.com/channel/UCH0CkLvbv6yEyrUnw9qujpQ/videos)：一次介绍Clojure的一项功能
   * [Data persistance with Postgres, Clojure and JDBC](https://www.youtube.com/channel/UCrwwOZ4h2FQhAdTMfjyQfQA/playlists)
