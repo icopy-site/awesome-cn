@@ -67,20 +67,20 @@
 
 ### Text tutorials
 
-- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html)
-- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -逐步介绍Godot.
-- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform上托管服务器的教程.
+- [**Official Getting Started Guide**](https://docs.godotengine.org/en/latest/getting_started/step_by_step/index.html) （Godot 2.1、3.0、3.1）
+- [Getting Started with Godot by devga.me](https://devga.me/tutorials/godot2d/) -分步介绍（Godot 3.1）.
+- [Godot Multiplayer Tutorials](https://gitlab.com/menip/godot-multiplayer-tutorials)  -用于创建客户端-服务器多人游戏的教程.  包括用于在Google Compute Platform（Godot 3.1）上托管服务器的教程.
 
 ### Video tutorials
 
-- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) -有关3D，着色器，VR和GDNative的教程.
-- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -有关创建3D游戏的教程系列.
-- [Code with Tom](https://www.youtube.com/codewithtom) -通过制作游戏学习编码.
-- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_)
-- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) -有关2D和3D游戏开发的教程.
-- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) -有关2D和3D游戏开发的教程.
-- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0)
-- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) -有关3D效果和复制知名游戏概念的教程.
+- [Bastiaan Olij's channel](https://www.youtube.com/channel/UCrbLJYzJjDf2p-vJC011lYw) -有关3D，着色器，VR和GDNative（Godot 3.x）的教程.
+- [BornCG's *Creating a Simple 3D Game*](https://www.youtube.com/watch?v=VeCrE-ge8xM&list=PLda3VoSoc_TSBBOBYwcmlamF1UrjVtccZ) -有关创建3D游戏的教程系列（Godot 3.1）.
+- [Code with Tom](https://www.youtube.com/codewithtom) -通过制作游戏学习编码（Godot 3.1）.
+- [From GM:S to Godot](https://www.youtube.com/watch?v=HLjguIl4_OU&list=PLQsiR7DILTcxma-doUnpoALIX001NvcP_) （Godot 3.0）
+- [GDquest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ) -有关2D和3D游戏开发的教程（Godot 2.1、3.x）.
+- [KidsCanCode channel](https://www.youtube.com/channel/UCNaPQ5uLX5iIEHUCLmfAgKg) -有关2D和3D游戏开发的教程（Godot 2.1）.
+- [Making programs with Godot](https://www.youtube.com/watch?v=nk0YQGb08IA&list=PLQsiR7DILTczMLsN8qmMym7pYfJXynzK0) （Godot 3.1）
+- [Miziziziz's channel](https://www.youtube.com/user/Miziziziz) -有关3D效果和知名游戏（Godot 3.0）中的复制概念的教程.
 
 ## Themes
 
@@ -112,31 +112,31 @@
 
 *使您可以做新工作或增强Godot功能的脚本.*
 
-- [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式进行自动2D平铺.
+- [Auto Tile Layer](https://github.com/leezh/autotile) -允许使用RPG Maker的Autotile格式（Godot 2.1）自动进行2D平铺.
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) -Camera2D的屏幕抖动效果.
-- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器.
-- [Easing Script](https://github.com/impmja/godot-easing) -罗伯特·彭纳（Robert Penner）的宽松货币方程.
-- [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架.
-- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -插件以在GDScript中使用FMOD音频引擎.
+- [CRT Shader](https://github.com/henriquelalves/SimpleGodotCRTShader) -模拟CRT显示的Godot着色器（Godot 2.1、3.1）.
+- [Easing Script](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing.
+- [Escoria](https://github.com/godotengine/escoria) -指向和点击冒险游戏框架（Godot 2.1、3.1）.
+- [FMOD GDNative](https://github.com/utopia-rise/fmod-gdnative) -在GDScript（Godot 3.1）中使用FMOD音频引擎的插件
 - [FontAwesome](https://github.com/GodotExplorer/FontAwesome) -Godot的Font Awesome插件.
-- [gdstats](https://github.com/droxmusic/gdstats/) -伪随机数生成器库，用于常见的统计分布.
+- [gdstats](https://github.com/droxmusic/gdstats/) -用于常见统计分布的伪随机数生成器库（Godot 3.0）.
 - [gdutils](https://github.com/GodotExplorer/gdutils) -用GDScript编写的Godot实用程序.
-- [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd在Godot中进行快速3D碰撞检查.
-- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架的Channels API的GDScript和Godot引擎实现.
-- [Godot NExt](https://github.com/willnationsdev/godot-next) -Godot的一组基本节点扩展.
-- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -Godot的通知中心.
-- [GodotTIE](https://github.com/henriquelalves/GodotTIE) -文本接口引擎，用于控制文本输出（例如在RPG对话框中）.
-- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) -可以处理大量草，树叶和其他植被的插件.
-- [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器.
-- [GUT](https://github.com/bitwes/Gut) -用于在GDScript中编写单元测试的实用程序.
+- [godotccd](https://github.com/TheSHEEEP/godotccd) -使用libccd（Godot 3.1）在Godot中进行快速3D碰撞检查.
+- [GodotPhoenixChannels](https://github.com/alfredbaudisch/GodotPhoenixChannels) -Phoenix框架（Godot 3.1）的Channels API的GDScript和Godot引擎实现.
+- [Godot NExt](https://github.com/willnationsdev/godot-next) -一组基本节点扩展（Godot 3.1）.
+- [GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) -通知中心（Godot 1.1、2.1、3.1）.
+- [GodotTIE](https://github.com/henriquelalves/GodotTIE) -文本接口引擎，用于控制文本输出（例如在RPG对话框中）（Godot 2.x，3.x）.
+- [Grass Plugin](https://github.com/marcosbitetti/grass_plugin_4_godot) -处理大量草，树叶和其他植被的插件（Godot 2.1）.
+- [gterm](https://github.com/TeddyDD/gterm) -GUI控件，其绘制类似于\ * nix终端模拟器（Godot 2.1）.
+- [GUT](https://github.com/bitwes/Gut) -用于在GDScript（Godot 3.x）中编写单元测试的实用程序.
 - [Polygon Merge](https://github.com/ScyDev/Godot-Scripts) -合并多边形.
 - [Simplex 2D/3D](https://github.com/OvermindDL1/Godot-Helpers) -单工确定性噪声函数.
-- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -Godot的滚动背景节点.
-- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏.
-- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) -简单的游戏手柄支持GNU / Linux和Windows.
-- [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/).
+- [Scrolling Background](https://github.com/dploeger/godot-scrollingbackground) -滚动背景节点（Godot 2.1）.
+- [SMRT-Godot](https://github.com/brunosxs/SMRT-Godot) -对话框系统和编辑器可自定义，非常适合故事驱动的游戏（Godot 3.0）.
+- [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) -对GNU / Linux和Windows（Godot 2.1）的简单游戏手柄支持.
+- [Tiled importer](https://github.com/vnen/godot-tiled-importer) -从导入地图 [Tiled](https://www.mapeditor.org/) （Godot 1.x，2.x，3.0）.
 - [Tileset Builder](https://gist.github.com/Calinou/27e979ab0a35500c3381) -建立贴图集.
-- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速建立样式的tileset.
+- [TileSet Builder](https://github.com/HeavenMercy/TileSet-Builder-Godot-Plugin) -快速构建具有样式（Godot 2.x）的tileset.
 
 ## GDScript editor support
 
@@ -174,4 +174,4 @@
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper) -帮助Debian和Ubuntu用户安装和使用Godot的脚本.
 - [joystick-mapping](https://github.com/Hinsbart/joystick-mapping) -用于为所有支持的平台生成游戏手柄映射的工具.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) -使用一个主文件更新文件副本的脚本.
-- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
+- [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) -Perl脚本，用于将网格Spritesheet图像拆分为编号的单个框架文件.

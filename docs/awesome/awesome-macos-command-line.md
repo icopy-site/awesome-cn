@@ -84,7 +84,7 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
 #### Activate And Deactivate the ARD Agent and Helper
 ```bash
 ## Activate And Restart the ARD Agent and Helper
-须藤/系统/库/ CoreServices /远程管理/ARDAgent.app/内容/资源/ kickstart-激活-重新启动-代理-控制台
+sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -restart -agent -console
 
 ## Deactivate and Stop the Remote Management Service
 须藤/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart-停用-停止
@@ -93,10 +93,10 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
 #### Enable and Disable Remote Desktop Sharing
 ```bash
 ## Allow Access for All Users and Give All Users Full Access
-须藤/System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
+sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
 
 ## Disable ARD Agent and Remove Access Privileges for All Users
-sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart-停用-配置-访问-关闭
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
 ```
 
 #### Remove Apple Remote Desktop Settings
@@ -104,7 +104,7 @@ sudo /系统/库/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/k
  须藤rm -rf / var / db / RemoteManagement;  \
  sudo默认删除/Library/Preferences/com.apple.RemoteDesktop.plist;  \
  默认为delete〜/ Library / Preferences / com.apple.RemoteDesktop.plist;  \
- sudo rm -r / Library / Application \ Support / Apple / Remote \ Desktop /;  \
+sudo rm -r /Library/Application\ Support/Apple/Remote\ Desktop/ ; \
  rm -r〜/ Library / Application \ Support / Remote \ Desktop /;  \
 rm -r〜/ Library / Containers / com.apple.RemoteDesktop
 ```
@@ -139,7 +139,7 @@ launchctl卸载-w /System/Library/LaunchAgents/com.apple.rcd.plist
 launchctl load -w /System/Library/LaunchAgents/com.apple.rcd.plist
 ```
 
- 从El Capitan开始，您可以禁用SIP或诉诸某种黑客手段，这将使任何用户都无法访问iTunes，从而有效地阻止了iTunes自身或助手的启动.  请注意，出于所有目的和目的，这将破坏iTunes的安装，并可能与后续的OS更新冲突.
+ 从El Capitan开始，您可以禁用SIP或诉诸某种黑客手段，这将使任何用户都无法访问iTunes，从而有效地阻止了iTunes自身或助手的启动.  请注意，出于所有目的和目的，这将破坏iTunes的安装，并可能与以后的OS更新冲突.
 ```bash
 sudo chmod 0000 /应用程序/iTunes.app
 ```
@@ -157,7 +157,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 ```applescript
 (*
 通过清除信封索引来加速Mail.app
-来自以下代码的代码：http：//web.archive.org/web/20071008123746/http：//www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
+来自以下网址的代码：http：//web.archive.org/web/20071008123746/http：//www.hawkwings.net/2007/03/03/scripts-to-automate-the-mailapp-envelope-speed-trick/
 最初由“ pmbuko”修改，由Romulo修改
 由Brett Terpstra更新于2012
 由MathiasTörnblom2015更新，以支持El Capitan中的V3，并且仍保持向后兼容性
@@ -177,7 +177,7 @@ sudo chmod 0000 /应用程序/iTunes.app
 设置sizeBefore做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
 做shell脚本“ / usr / bin / sqlite3〜/ Library / Mail /”和mail_version和“ / MailData / Envelope \\ Index vacuum”
 
-设置sizeAfter做shell脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;print $ 5&#39;}”
+设置sizeAfter做外壳程序脚本“ ls -lnah〜/ Library / Mail /”和mail_version＆“ / MailData | grep -E&#39;信封索引$&#39;| awk {&#39;打印$ 5&#39;}”
 
 显示对话框（“之前的邮件索引：”＆sizeBefore＆return＆“之后的邮件索引：”＆sizeAfter＆return＆return＆“享受新速度！”）
 
@@ -188,10 +188,10 @@ sudo chmod 0000 /应用程序/iTunes.app
 
 #### Change Default Fonts
 ```bash
-默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily Georgia
+默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2StandardFontFamily乔治亚
 默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFontSize 16
 默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2FixedFontFamily Menlo
-默认写入com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
+默认写com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2DefaultFixedFontSize 14
 ```
 
 #### Enable Develop Menu and Web Inspector
@@ -800,7 +800,7 @@ Killall搜寻器
 #### Scrollbar Visibility
 可能的值：“ WhenScrolling”，“ Automatic”和“ Always”.
 ```bash
-默认写-g AppleShowScrollBars -string“始终”
+defaults write -g AppleShowScrollBars -string "Always"
 ```
 
 #### Status Bar
@@ -838,13 +838,13 @@ Killall搜寻器
 ### Metadata Files
 
 #### Disable Creation of Metadata Files on Network Volumes
-避免创建.DS_Store和AppleDouble文件.
+Avoids creation of `.DS_Store` and AppleDouble files.
 ```bash
 默认写com.apple.desktopservices DSntWriteNetworkStores -bool true
 ```
 
 #### Disable Creation of Metadata Files on USB Volumes
-避免创建.DS_Store和AppleDouble文件.
+Avoids creation of `.DS_Store` and AppleDouble files.
 ```bash
 默认写入com.apple.desktopservices DSntWriteUSBStores -bool true
 ```
@@ -905,6 +905,10 @@ cp -v /Applications/Xcode-beta.app/Contents/SharedFrameworks/DVTKit.framework/Ve
 cp -v /应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
 ```
 
+从Catalina开始，Utilities应用程序（包括Terminal.app）现在位于“ / System”文件夹中.
+```bash
+cp -v /系统/应用程序/实用程序/Terminal.app/内容/资源/字体/ SFMono- *〜/库/字体
+```
 
 ## Functions
 
@@ -1224,7 +1228,7 @@ traceroute github.com
 ```bash
 ssh-add -K / path / to / private_key
 ```
-Then add to `~/.ssh/config`:
+然后添加到`〜/ .ssh / config`中：
 ```bash
 主机server.example.com
     IdentityFile / path / to / private_key
@@ -1545,7 +1549,7 @@ sw_vers
 ```
 
 #### Uptime
-自上次重新启动以来已经过了多长时间.
+自上次重新启动以来已过
 ```bash
 uptime
 ```
@@ -1607,7 +1611,7 @@ sudo sysdiagnose -f〜/桌面/
 #### Create Bootable Installer
 ```bash
 ## Mojave
-sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
+sudo / Applications / Install \ macOS \ Mojave.app/Contents/Resources/createinstallmedia --volume / Volumes / USB --nointeraction --downloadassets
 
 ## High Sierra
 sudo / Applications / Install \ macOS \ High \ Sierra.app/Contents/Resources/createinstallmedia --volume / Volumes / USB --applicationpath / Applications / Install \ macOS \ High \ Sierra.app
@@ -1796,7 +1800,7 @@ sudo软件更新-ia
 #### Set Software Update Check Interval
 设置为每天检查，而不是每周检查.
 ```bash
-defaults write com.apple.SoftwareUpdate ScheduleFrequency -int 1
+默认写com.apple.SoftwareUpdate ScheduleFrequency -int 1
 ```
 
 #### Show Available Software Updates
@@ -1977,7 +1981,7 @@ chsh -s $（brew --prefix）/ bin / zsh
  OS X 10.11 |  埃尔卡皮坦|  2015年9月30日|  10.11.6（15G31）（2016年7月18日）
  macOS 10.12 |  塞拉利昂|  2016年9月20日|  10.12.6（16G29）（2017年7月19日）
  macOS 10.13 |  高塞拉利昂|  2017年9月25日|  10.13.6（17G65）（2018年7月9日）
-macOS 10.14                | Mojave             | September 24, 2018 | 10.14 (18A391) (September 24, 2018)
+ macOS 10.14 |  莫哈韦沙漠|  2018年9月24日|  10.14（18A391）（2018年9月24日）
  macOS 10.15 |  卡塔琳娜|  2019年10月7日|  10.15.0（19A602）（2019年10月15日）
 
 

@@ -354,7 +354,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Silvia K. Spiva](https://twitter.com/silviakspiva) - #DataScience at Cisco
 - [Harsh B. Gupta](https://twitter.com/harshbg) -BBVA指南针的数据科学家 
 - [Spencer Nelson](https://twitter.com/spenczar_n) -数据书呆子
-- [Talha Oz](https://twitter.com/tozCSS)  -拥有ABM，SNA，DM，ML，NLP，HI，Python，Java.  顶级百分位数kaggler /数据科学家
+- [Talha Oz](https://twitter.com/tozCSS)  -享受ABM，SNA，DM，ML，NLP，HI，Python，Java.  顶级百分位数kaggler /数据科学家
 - [Tasos Skarlatidis](https://twitter.com/anskarl)  -复杂的事件处理，大数据，人工智能和机器学习.  对编程和开源充满热情.
 - [Terry Timko](https://twitter.com/Terry_Timko)  -InfoGov；  大数据;  数据即服务；  数据科学；  开放，社交和业务数据融合
 - [Tony Baer](https://twitter.com/TonyBaer) -Ovum的IT分析师负责大数据和数据管理以及一些系统工程.
@@ -401,7 +401,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [SciPy](https://www.scipy.org/) SciPy与NumPy数组一起使用，并提供了用于数值积分和优化的有效例程.
  * [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) -Coursera课程
  * [Data Science Toolbox](http://datasciencetoolbox.org/) - 博客
- * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均由基于革命性知识的Wolfram语言提供支持.
+ * [Wolfram Data Science Platform](http://www.wolfram.com/data-science-platform/) 采集数值，文本，图像，GIS或其他数据，并给予Wolfram处理，进行全方位的数据科学分析和可视化，并自动生成丰富的交互式报告，所有这些均基于革命性的基于知识的Wolfram语言.
  * [Sense Data Science Development Platform](https://sense.io/) 用于数据科学和大数据分析的新型云平台
  在数据分析和高级分析项目上进行协作，扩展和部署，从根本上更快.  使用功能最强大的工具-R，Python，JavaScript，Redshift，Hive，Impala，Hadoop等-已增压并集成在云中.
  * [Datadog](https://www.datadoghq.com/) 大规模数据科学的解决方案，代码和开发人员.
@@ -549,3 +549,4 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Awesome Fraud Detection Papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers)
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
  - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
+ - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 

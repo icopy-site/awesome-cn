@@ -22,6 +22,10 @@
 
 ### Vegetation, Agriculture & Food
 
+- [AquaAgro](https://aquaagro.smartcube.pk/)  |  巴基斯坦卡拉奇|  2018年
+
+ 提供用于精确农业的解决方案，使农民能够监控自己的作物并做出更好的决策.  他们的设备和平台可以为灌溉计划，肥料需求，病虫害预测和植物病害检测做出预测. 
+
 - [Droneseed](https://www.droneseed.co/)  |  美国西雅图|  2015年
 
    他们使用无人机群种植本地树木和植被，并进行喷雾保护.  通过收集现场数据为客户提供有价值的见解.  与政府，非营利组织和私人土地所有者合作，作为服务提供者.
@@ -48,7 +52,7 @@
 
 - [Phytoponics](https://phytoponics.com/)  |  英国|  2016年
 
-  Produces a commercial scale hydroponic growing system, which is cheaper and easier to install and maintain than traditional hydroponic systems. The goal is to bring the benefits of hydroponics (less water and land, more consistent yields), with a lower investment up front.
+   生产商业规模的水培种植系统，该系统比传统的水培系统更便宜，更易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
 
 - [Solar Foods](https://solarfoods.fi/)  |  芬兰|  2017年
 
@@ -79,6 +83,7 @@
 ### Water
 
 - [The great bubble barrier](https://thegreatbubblebarrier.com)  |  荷兰|  2016年
+
    开发了一种系统，该系统可以在河底放置带孔的管子.  通过管道泵送空气会产生气泡屏障或气幕.  气泡将水中的塑料推向表面，使其易于去除.
 
 - [The Ocean Cleanup](https://theoceancleanup.com/)  |  荷兰|  2013年
@@ -177,6 +182,10 @@
 
 ### Social Impact
 
+- [Billions in Change](https://billionsinchange.com/)  |  美国|  2015年
+
+   变革中的数十亿美元开发和提供的发明可以帮助世界上不幸的一半地区获得基本需求，例如干净的水，可靠的电力和充足的食物.  这些基本要素为教育，健康和生计奠定了基础，使人们能够改善自己和家人的生活.
+
 - [Doconomy](https://doconomy.com/)  |  瑞典|  2018年
 
   金融科技公司通过提供使用二氧化碳排放量作为支出限额的信用卡来促进消费的减少.
@@ -201,7 +210,6 @@
 
    通过按需提供大规模的服装生产，减少时尚行业的浪费.  Unmade是出于对时装行业内的设计和制造流程进行重新构想的愿望而诞生的，因此品牌仅生产实际销售的产品，从而将浪费降至最低.
 
-
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) -芬兰清洁技术公司的枢纽.
@@ -215,7 +223,7 @@
 
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) -研究气候变化的影响和解决方案.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) -联合国评估与气候变化有关的科学的机构.
-- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) -提供以解决方案为导向的政策途径，以管理全球公域，以促进可持续发展和人类福祉.
+- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
 - [NASA climate](http://climate.nasa.gov/) -地球的重要迹象，事实和解决方案.
 - [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019)  -其中包含来自多个联合国国家的特定国家/地区气候报告.  它具有2003年以来的数据.
 

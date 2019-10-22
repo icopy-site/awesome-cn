@@ -50,7 +50,7 @@
 
 ### Data binding
 
-- [Anvil](https://github.com/zserge/anvil)  -受React启发而创建的反应式UI组件的小型库.  提供数据绑定和事件侦听器绑定，非常适合MVVM.
+- [Anvil](https://github.com/anvil-ui/anvil)  -受React启发而创建的反应式UI组件的小型库.  提供数据绑定和事件侦听器绑定，非常适合MVVM.
 - [Data Binding Library](https://developer.android.com/topic/libraries/data-binding/) -官方的Android数据绑定库，用于编写声明性布局，并最小化绑定应用程序逻辑和布局所需的粘合代码.
 
 ### Dependency Injection
@@ -107,7 +107,7 @@
 - [TapTargetView](https://github.com/KeepSafe/TapTargetView) -从“材料设计”指南中发现特征的抽头目标的实现.
 - [ShowCaseView](https://github.com/mreram/ShowCaseView) -ShowcaseView库旨在以引人注目的且平坦的叠加层向用户突出显示应用的特定部分.
 - [MaterialIntroScreen](https://github.com/TangoAgency/material-intro-screen) -通过易于扩展的API实现材料介绍屏幕.
-- [FloatingView](https://github.com/UFreedom/FloatingView) -FloatingView可以使目标视图漂浮在锚定视图上方，且动画效果非常好.
+- [FloatingView](https://github.com/UFreedom/FloatingView) - FloatingView can make the target view floating above the anchor view with cool animation.
 - [Timecon](https://github.com/alxrm/animated-clock-icon) -易于使用的动画时钟图标
 - [Audiogram](https://github.com/alxrm/audiowave-progressbar) -轻巧的音波进度条
 - [Bubbles for Android](https://github.com/txusballesteros/bubbles-for-android) -Facebook像聊天气泡库
@@ -150,7 +150,7 @@
 #### Images
 
 - [Crescento](https://github.com/developer-shivam/crescento) -通过在图像视图下方添加曲线来探索材料设计中的新样式.
-- [android-crop](https://github.com/jdamcd/android-crop) -用于裁剪图像的图书馆项目.
+- [android-crop](https://github.com/jdamcd/android-crop) - Library project for cropping images.
 - [CircularImageView](https://github.com/Pkmmte/CircularImageView) -圆形图像的自定义视图，同时保持最佳的绘制性能.
 - [Android-Image-Filter](https://github.com/ragnraok/android-image-filter) -用于轻松应用图像滤镜的图书馆项目.
 - [Compressor](https://github.com/zetbaitsu/Compressor) -Compressor是一个轻巧而强大的android图像压缩库.
@@ -160,7 +160,7 @@
 
 - [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel)  -FloatingLabel允许您创建打击类的EditText.  *没有Gradle或Maven支持.
 - [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) -支持浮动标签，单行省略号，最大/最小字符，辅助文本和带有自定义颜色的错误文本.
-- [EmojiCompat](https://github.com/googlesamples/android-EmojiCompat) -将表情符号添加到您的应用
+- [EmojiCompat](https://github.com/googlearchive/android-EmojiCompat) -将表情符号添加到您的应用
 - [MaterialSearchBar](https://github.com/mancj/MaterialSearchBar) -Android的Material Design搜索栏
 - [InputMask](https://github.com/RedMadRobot/input-mask-android) -基于模式的用户输入格式化程序，解析器和验证器.
 - [SweetPassword](https://github.com/jesusmartinoza/Sweet-Password) -密码EditText，允许自定义切换按钮
@@ -176,7 +176,12 @@
 - [Glide](https://github.com/bumptech/glide) -Google推荐的Android图像加载和缓存库，着重于平滑滚动.
 - [Fresco](https://github.com/facebook/fresco) -用于管理图像及其使用的内存的Android库.
 - [Glide Bitmap Pool](https://github.com/amitshekhariitbhu/GlideBitmapPool) -Glide位图池是用于重用位图内存的内存管理库.
+- [Coil](https://github.com/coil-kt/coil) -由Kotlin Coroutines支持的Android图像加载.
+
+#### Media Picker
+
 - [MediaPicker](https://github.com/alhazmy13/MediaPicker) -Android库，可让您为Android选择多个图像，视频或语音
+- [Android Image Picker](https://github.com/esafirm/android-image-picker)  -一个使从图库中选择图像和视频的库很容易.  它还支持GIF和简单的相机动作
 
 #### Video
 
@@ -230,7 +235,7 @@
 - [Logback Android](https://github.com/tony19/logback-android) -Android的Logback端口，可为Android应用程序提供高度可配置的日志记录框架.
 
 ### Notifications
-- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
+- [android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) -从远程JSON文件中提取通知，并将其显示在您的应用中.
 - [Android HeartBeat Fixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) -设置心跳间隔和用户从GCM接收PushNotifications的方法.
 
 ### Database
@@ -268,7 +273,7 @@
 
 ### Tracking
 
-- [MobileAppTracking](https://www.tune.com/) - Tracking your marketing campaigns across multiple ad networks.
+- [MobileAppTracking](https://www.tune.com/) -跨多个广告网络跟踪您的营销活动.
 - [Mixpanel](https://mixpanel.com/) -分析平台，用于分析用户.
 - [Countly](https://count.ly) -基于Node.js，MongoDB和Linux的开源移动和Web分析，推送通知和崩溃报告平台.
 - [CleverTap](https://clevertap.com) -具有100万个免费事件的分析平台和用户互动平台
@@ -321,8 +326,9 @@
 - [Applozic Android Chat SDK](https://github.com/AppLozic/Applozic-Android-SDK) -Android聊天和消息传递SDK，用于向您的android应用程序添加实时聊天和应用内消息传递.
 - [Qiscus SDK](https://github.com/qiscus/qiscus-sdk-android)  -Qiscus SDK是轻量级且功能强大的android聊天库.  使用Qiscus SDK，您可以轻松地将Qiscus引擎与您的应用程序集成在一起，以创建很酷的聊天应用程序.
 - [Kommunicate Live Chat SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK)  -Kommunicate在android中提供了开源的实时聊天SDK.  Kommunicate允许您在移动（Android，iOS）应用程序和网站中添加实时实时聊天和应用内消息传递，以获取客户支持.
-- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)  -使用CometChat在几分钟内将语音，视频和文本聊天添加到您的应用程序（和网站）.  CometChat的SDK包含完整的现成UI，因此您无需花费任何时间来构建一个！  不仅如此，CometChat还提供了对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，积分扣除等即时可用的支持.
+- [CometChat Voice, Video and Text Chat SDK with UI](https://github.com/cometchat-go/android-chat-sdk-demo)  -使用CometChat在几分钟内将语音，视频和文本聊天添加到您的应用程序（和网站）.  CometChat的SDK包含完整的现成UI，因此您无需花费任何时间来构建一个！  不仅如此，CometChat还提供了对实时翻译，白板，屏幕共享，朋友同步，基于角色的访问控制，积分减免等方面的现成支持.
 - [Build a one-on-one Android chat app using Kotlin](https://www.cometchat.com/tutorials/build-one-on-one-chat-in-your-android-app-using-kotlin/)  -使用CometChat Pro在几分钟内在Kotlin中建立一个一对一的Android聊天应用程序.  本教程讨论了诸如登录，获取联系人列表，用户状态指示器，发送/接收消息等功能.
+- [Stream Chat](https://getstream.io/tutorials/android-chat/) -全面的SDK和用于实时聊天的组件，由提供支持 [Stream](https://getstream.io/chat/).
 - [Add Push Notifications to Your Android Chat App Using Kotlin](https://www.cometchat.com/tutorials/android-chat-push-notifications/) -在CometChat Pro和Firebase Cloud Messaging（FCM）的帮助下，在Kotlin的Android聊天应用程序中添加推送通知.
 
 #### Custom Dialog
@@ -392,7 +398,7 @@
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) -它是Android Design in Action系列的技术对应.
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) -Googler Chet Hasae等人撰写的一系列文章，回答了最常见的问题：“开发Android应用程序时要记住哪些重要规则？”.
 - [Android Hive Tutorials](https://www.androidhive.info) -非常适合初学者的教程.
-- [Android Weekly](https://androidweekly.net) -简报，其中包含有关android的每周信息.
+- [Android Weekly](https://androidweekly.net) -包含有关android的每周信息的通讯.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) -图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) -将应用程序屏幕截图包装在真实设备的图片中.
@@ -408,17 +414,19 @@
 - [AndroidVille](https://ayusch.com/)  -成为更好的Android工程师.  一个致力于Android开发的网站，涵盖RxJava，Android Zygote等高级主题.
 
 ### Code examples
-- [Android Architecture Blueprints](https://github.com/googlesamples/android-architecture) -Android Architecture Blueprints项目演示了有助于解决或避免常见android问题的策略.
+- [Android Architecture Blueprints](https://github.com/android/architecture-samples) -Android Architecture Blueprints项目演示了有助于解决或避免常见android问题的策略.
 - [Kotlin MVVM example](https://github.com/emedinaa/kotlin-mvvm) -有关MVVM（模型视图ViewModel）模式的示例.
-- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) - Example about VIPER (View Interactor Presenter Entity Router) Pattern.
+- [Kotlin VIPER example](https://github.com/OmiSoftNet/AndroidViperTemplate) -有关VIPER（查看交互者演示者实体路由器）模式的示例.
+- [Complete-Google-Map-API-Tutorial](https://github.com/mohammadima3oud/Complete-Google-Map-API-Tutorial) -通过完整的示例，学习如何从基础到高级使用适用于Android的Google Map API.
 
 ### Podcasts
-- [Fragmented](https://fragmentedpodcast.com/)  是Android开发者播客，Donn Felker和Kaushik Gopal讨论了如何构建出色的软件并成为更好的Android开发者.
+- [Fragmented](https://fragmentedpodcast.com/) 是Android开发者播客，Donn Felker和Kaushik Gopal讨论了如何构建出色的软件并成为更好的Android开发者.
 - [Android Developers Backstage](http://androidbackstage.blogspot.com/)  是Android开发人员的播客.  该节目由Android工程团队的开发人员主持，涵盖了Android程序员感兴趣的主题，并与Google Android团队的工程师进行了深入的讨论和访谈.
 - [Android Dialogs](https://www.youtube.com/channel/UCMEmNnHT69aZuaOrE-dF6ug/feed) 是一个基于视频的播客，他们与Android社区的人们进行了一口大小的对话.
 - [The Context](https://github.com/artem-zinnatullin/TheContext-Podcast) 与Hannes Dorfmann，Artem Zinnatullin和出色的嘉宾一起关于Android开发的播客！
-- [Talking Kotlin](http://talkingkotlin.com/) -关于Kotlin的播客等等.
-
+- [Talking Kotlin](https://talkingkotlin.com/) -关于Kotlin的播客等等.
+- [Android Authority](https://www.androidauthority.com/podcast/) 是由Android Authority团队的Adam Doud，Joe Hindy和Jonathan Feist主持的每周一次的Android播客.
+- [Android Central](https://www.androidcentral.com/podcast) -由Android Central小组主持的每周一次的Android播客.
 
 ### More lists of libraries
 - [The Android Arsenal](https://android-arsenal.com/) -大量的Android库
@@ -458,7 +466,7 @@
 
 ### Kotlin
 - [Anko](https://github.com/Kotlin/anko) -由JetBrains用Kotlin编写的Android DSL.
-- [Kotterknife](https://github.com/JakeWharton/kotterknife) -基于ButtKnife用Kotlin编写的Android视图注入
+- [Kotterknife](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
 - [Android Kotlin Samples](https://github.com/irontec/android-kotlin-samples) -一些用Kotlin编写的基本Android代码示例.
 - [Kotlin coding puzzles](https://github.com/igorwojda/kotlin-coding-puzzle) -一组编程挑战，这有助于提高白板编码和解决问题的能力.
 - [KAndroid](https://github.com/pawegio/KAndroid) -轻量级库提供有用的扩展，以消除Android SDK中的样板代码.

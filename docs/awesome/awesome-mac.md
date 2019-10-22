@@ -239,7 +239,7 @@
 * [Glances](https://github.com/nicolargo/glances)  -Glances是基于跨平台curses的系统监视工具.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/nicolargo/glances）
 * [Go2Shell](https://itunes.apple.com/app/go2shell/id445770608?mt=12)  -Go2Shell在Finder中打开一个指向当前目录的终端窗口.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/app/go2shell/id445770608?mt=12）
 * [htop](https://github.com/hishamhm/htop)  -htop是用于Unix系统的交互式文本模式进程查看器.  它旨在成为一个更好的“顶级”.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/hishamhm/htop）
-* [httpie](https://httpie.org) -现代命令行HTTP客户端–具有直观UI，JSON支持，语法突出显示，类似wget的下载，扩展等的用户友好的curl替代方案.[！[开源软件] [OSS图标]]（https://github.com .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
+* [httpie](https://httpie.org) -现代命令行HTTP客户端–具有直观UI，JSON支持，语法突出显示，类似于wget的下载，扩展等的用户友好型curl替代方案.[！[开源软件] [OSS图标]]（https://github.com .com / jakubroztocil / httpie）！[免费软件] [免费软件图标]
 * [hyper](https://hyper.is)  -基于网络技术的终端.  [！[开源软件] [OSS图标]]（https://github.com/zeit/hyper）！[免费软件] [免费软件图标]
 * [iTerm2](http://www.iterm2.com) -iTerm2是OS X的出色终端模拟器.[！[开源软件] [OSS图标]]（https://github.com/gnachman/iTerm2）！[免费软件] [免费软件图标]
 * [itunes-remote](https://github.com/mischah/itunes-remote)  -通过终端控制iTunes的软件.  [！[开源软件] [OSS图标]]（https://github.com/mischah/itunes-remote）！[免费软件] [免费软件图标]
@@ -673,7 +673,7 @@
 #### File Organization Tools
 
 * [BetterZip 3](https://macitbetter.com/)  -存档工具支持ZIP，TAR，TGZ，TBZ，TXZ（新），7-ZIP，RAR.  ！[免费软件] [免费软件图标]
-* [eZip](http://ezip.awehunt.com)  -一个易于使用，功能丰富的macOS存档器.  支持流行的格式，例如RAR，ZIP，7Z，BZ2，GZ等.与Mojave暗模式和QuickLook搭配使用非常出色.  ！[免费软件] [免费软件图标]
+* [eZip](http://ezip.awehunt.com)  -一个易于使用，功能丰富的macOS存档器.  支持流行的格式，例如RAR，ZIP，7Z，BZ2，GZ等.适用于Mojave暗模式和QuickLook.  ！[免费软件] [免费软件图标]
 * [Hazel](https://www.noodlesoft.com)  -Mac的自动文件组织.  负责任和精美的设计.
 * [Keka](https://www.keka.io)  -macOS的文件存档器.  压缩：7Z，ZIP，TAR，GZIP，BZIP2，XZ LZIP，DMG，ISO.  提取：7Z，ZIP，RAR，TAR，GZIP，BZIP2，XZ，LZIP，DMG，ISO，LZMA，EXE，CAB，WIM，PAX，JAR，APK，APPX，CPGZ，CPIO.  [！[开源软件] [OSS图标]]（https://github.com/aonez/Keka）！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https： //itunes.apple.com/app/keka/id470158793）
 * [muCommander](http://www.mucommander.com)  -具有双窗格界面的轻量级文件管理器.  [！[开源软件] [OSS图标]]（https://github.com/mucommander/mucommander）！[免费软件] [免费软件图标]
@@ -794,7 +794,6 @@
 * [gfxCardStatus](https://gfx.io/)  -适用于OS X的醒目的菜单栏应用程序，允许MacBook Pro用户使用耗电较大的图形查看哪些应用程序正在影响其电池寿命.  ！[免费软件] [免费软件图标]
 * [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择.  ！[免费软件] [免费软件图标] [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）
 * [HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)  -HTML 5视频播放器.  防止Mac被“刻录”.
-* [InsomniaX](https://www.macupdate.com/app/mac/22211/insomniax) -禁用盖子和/或空闲睡眠（例如，可以在盖子关闭的情况下播放音乐）.
 * [iStat Menus](https://bjango.com/mac/istatmenus/) -菜单栏上的高级Mac系统监视器.
 * [iStats](https://github.com/Chris911/iStats)  -命令行工具，可让您轻松获取OSX上的CPU温度，风扇速度和电池信息.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/Chris911/iStats）
 * [Juice](https://github.com/brianmichel/Juice)  -使您的电池信息更有趣.  [！[开源软件] [OSS图标]]（https://github.com/brianmichel/Juice）！[免费软件] [免费软件图标]

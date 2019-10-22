@@ -896,7 +896,7 @@
 ### Codemods
 - [ember-es6-class-codemod](https://github.com/scalvert/ember-es6-class-codemod) -一个codemod-cli项目，用于将Ember.js对象转换为es6本机类.
 - [ember-native-class-codemod](https://github.com/ember-codemods/ember-native-class-codemod) -使用装饰器将您的余烬应用程序代码转换为原生JavaScript类语法的codemod！
-- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod有助于从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
+- [ember-cli-mirage-faker-codemod](https://github.com/caseywatts/ember-cli-mirage-faker-codemod) -此codemod可帮助从通过ember-cli-mirage导入仿造者过渡到直接从仿造者导入它.
 - [ember-mocha-codemods](https://github.com/Turbo87/ember-mocha-codemods) -ember-mocha的Codemod脚本.
 - [ember-module-migrator](https://github.com/rwjblue/ember-module-migrator) -自动迁移新的Ember.js应用程序布局.
 - [ember-qunit-codemod](https://github.com/rwjblue/ember-qunit-codemod) -此codemod旨在自动将项目从ember-qunit @ 2的较旧moduleFor *语法转换为较新的语法.
@@ -933,7 +933,7 @@
 
 ### Discovery
 
-- [emberobserver](https://emberobserver.com/) -观察员
+- [emberobserver](https://emberobserver.com/) -灰烬观察者.
 - [emberjs.GitHub.io/rfcs/](https://emberjs.github.io/rfcs/) -Ember.js RFC.
 
 ### Examples
@@ -988,6 +988,8 @@
 
 
 ### Gists
+- [Forwarding Named Blocks in Glimmer](https://gist.github.com/tomdale/bedb77662b19529f59154ec55e2f4a21)
+- [Multi Named Blocks](https://gist.github.com/pzuraq/0c16d7baef7237b62dfd7529d1969344)
 - [Accessing the Global App Object in an Ember CLI App](https://gist.github.com/lifeart/fcdc59e2aa6a3c78457fecd57e578aa9)
 - [A principled model for forms](https://gist.github.com/chriskrycho/48fa641eeb55217d4063592b411b1192)
 - [ember-cli-advanced-proxy](https://github.com/bryanaka/ember-cli-advanced-proxy/blob/594e13cf2de386d8ea65dac88f643241f7a28363/index.js)
@@ -1059,7 +1061,7 @@
 - [NaNoWriMo: How can Ember help you write a novel](https://slides.com/emma_be/nanowrimo-ember#/) -@EmmaDelecolle.
 - [Slides from Ember JS Berlin talk, Design Patterns in Ember](https://github.com/chadian/ember-js-berlin-design-patterns) -@chadian.
 - [Rainy Day Ember Data](https://speakerdeck.com/tonywok/rainy-day-ember-data) -托尼·施耐德（@tonywok）.
-- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) -Ben Limmer.
+- [Building Realtime Apps with Ember.js and WebSockets](https://www.slideshare.net/BenLimmer/building-realtime-apps-with-emberjs-and-websockets) -本·利默（Ben Limmer）.
 - [Deploying a Location-Aware Ember Application](https://www.slideshare.net/BenLimmer/deploying-a-locationaware-ember-application) -Ben Limmer.
 - [Developing Desktop Apps with Electron & Ember.js - FITC WebU2017](https://www.slideshare.net/anulman/developing-desktop-apps-with-electron-emberjs-fitc-webu2017) -艾丹·努尔曼（Aidan Nulman）.
 - [Developing Desktop Apps with Electron & Ember.js](https://www.slideshare.net/fitc_slideshare/developing-desktop-apps-with-electron-emberjs)
@@ -1067,11 +1069,11 @@
 - [Ember At Scale](https://www.slideshare.net/chadhietala/ember-at-scale) -Chad Hietala，LinkedIn.
 - [EmberConf 2015 – Ambitious UX for Ambitious Apps](https://www.slideshare.net/sugarpirate/emberconf-2015-ambitious-ux-for-ambitious-apps) -劳伦·伊丽莎白·谭（Lauren Elizabeth Tan）.
 - [EmberConf 2016 – Idiomatic Ember: Finding the Sweet Spot of Performance & Productivity](https://www.slideshare.net/sugarpirate/emberconf-2016-idiomatic-ember-finding-the-sweet-spot-of-performance-productivity) -劳伦·伊丽莎白·谭（Lauren Elizabeth Tan）.
-- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) -Ben Limmer.
+- [Fun with Ember 2.x Features](https://www.slideshare.net/BenLimmer/fun-with-ember-2x-features) -本·利默（Ben Limmer）.
 - [How do I Even Web App](https://www.slideshare.net/lydiaguarino/how-do-i-even-web-app) -Lydia Guarino使用Ember CLI进行Web编程的介绍.
 - [Rapid prototyping and easy testing with ember cli mirage](https://www.slideshare.net/KrzysztofBiaek1/rapid-prototyping-and-easy-testing-with-ember-cli-mirage) -Krzysztof Bialek.
 - [Start Me Up - Building an MVP with EmberJS, Firebase and Material Design](https://www.slideshare.net/PickNBook/start-me-up-building-an-mvp-with-emberjs-firebase-and-material-design) -布兰登·奥哈拉（Brendan O&#39;Hara）.
-- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) -Ben Limmer.
+- [Upgrading Ember.js Apps](https://www.slideshare.net/BenLimmer/upgrading-emberjs-apps) -本·利默（Ben Limmer）.
 
 ### Styleguides
 

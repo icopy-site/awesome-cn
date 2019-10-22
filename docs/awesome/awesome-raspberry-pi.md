@@ -68,7 +68,7 @@
 - [PiDeck](http://pideck.com/) -小型DVS系统，可让您使用时间码乙烯基控制数字音乐文件.
 - [PiNet](http://pinet.org.uk/) -管理Raspberry Pi教室的系统.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) -匿名离线移动文件共享和通信系统.
-- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) -官方受支持的基于Debian的Raspberry Pi OS，可作为精简版提供.
+- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) -官方支持的基于Debian的Raspberry Pi OS，可作为精简版提供.
 - [RasPlex](http://www.rasplex.com/) -Raspberry Pi的Plex客户端.
 - [Recalbox](https://www.recalbox.com) -在Raspberry Pi上拖放轻型复古游戏和媒体中心.
 - [RetroPie](https://retropie.org.uk/) -在Raspberry Pi上进行复古游戏.
@@ -102,6 +102,7 @@
 - [PiShrink](https://github.com/Drewsif/PiShrink/) -Bash脚本，该脚本会自动缩小pi映像，然后将其大小调整为启动时SD卡的最大大小.
 - [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并使用Raspberry Pi Zero和Node.js虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Processing](https://pi.processing.org/get-started/) -在Raspberry Pi上运行的处理开发环境.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) -Pwnagotchi是一种基于AI的Wi-Fi破解工具，可从其周围的WiFi环境中学习，以最大程度地捕获其捕获的可破解WPA密钥材料.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) -一个简单的响应式Web界面，可控制Raspberry Pi上的wifi，hostapd和相关服务.
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  -简单的工具，可以在Raspbian上启动QEMU，并在系统和内核上进行了必要的修改.  自动网络访问.  方便在PC中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) -简单的应用程序/存储库，可将Raspberry Pi的wlan0接口桥接到通过以太网（eth0）插入其中的设备.
@@ -223,7 +224,7 @@
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) -在RaspberryPi或其他ARM板上构建Swift所需的一切，已更新为Swift 4.1.3.
 - [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) -快速教程，分享帮助您设置使用Xcode编译Raspberry Pi代码的方法.
 - [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) -帮助在Raspbian Strech（精简版）上设置Swift环境的快速指南.
-- [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) -用于Linux / ARM板上硬件项目的Swift库，支持GPIOs / SPI / I2C / PWM / UART / 1Wire.
+- [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) -用于Linux / ARM板上硬件项目的Swift库，支持GPIO / SPI / I2C / PWM / UART / 1Wire.
 - [Swish](https://github.com/thomaspaulmann/Swish) -在Xcode内的远程计算机上构建Swift项目.
 
 ## Community

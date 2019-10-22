@@ -48,7 +48,6 @@ _使用开源许可证发布的项目.
 - [Machine Labs](https://www.patreon.com/machinelabs) -机器学习平台.
 - [Mastodon](https://www.patreon.com/mastodon), [#2](https://liberapay.com/Mastodon/) -联合社交网络服务器.  
 - [Matrix](https://www.patreon.com/matrixdotorg), [#2](https://liberapay.com/matrixdotorg) -用于安全，分散通信的开放网络.
-- [Milton Paint](https://www.patreon.com/serge_rgb) -绘图应用程序. 
 - [MissKey](https://www.patreon.com/syuilo) -联合微博平台.
 - [MuseScore](https://www.patreon.com/musescore) -音乐符号软件.
 - [NativeScript-Vue](https://www.patreon.com/rigor789) -带有NativeScript和Vue的本地移动应用程序.
