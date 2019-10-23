@@ -176,6 +176,7 @@ _这与外观有关，请应用一些样式.
 - [20 Great Themes](https://www.juanmtech.com/themes-in-home-assistant/) -JuanMTech制作的20个主题（包括指南）.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
 - [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
+- [Synthwave](https://github.com/bbbenji/synthwave-hass) -受现代Synthwave乐队的封面作品影响的主题.
 
 ### Custom Lovelace UI Cards
 
@@ -208,7 +209,7 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
 - [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
 - [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添趣味.
-- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -通过Plex，Kodi，Radarr，Sonarr和Trakt等服务显示即将来临的剧集和电影.
+- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -显示以下服务中即将发布的剧集和电影：Plex，Kodi，Radarr，Sonarr和Trakt.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
 - [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) -在实体行上显示多个实体状态或属性.
@@ -238,7 +239,7 @@ _由社区创建的Home Assistant的其他组件.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
 - [HACS](https://hacs.netlify.com/) -这是您的自定义集成（组件）和插件（lovelace元素）需求的管理器.
 - [breaking_changes](https://github.com/custom-components/breaking_changes) -根据加载的组件显示当前发布版本中潜在的Breaking_changes的组件.
-- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可将您的变色灯与全天正常自然发生的天空色温缓慢同步.
+- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可以使您的变色灯与全天正常自然发生的天空色温缓慢同步.
 - [HASS Aarlo](https://github.com/twrecked/hass-aarlo)  -异步Arlo集成.  类似于Arlo网站；  监视所有基站，摄像机和门铃的事件和状态.
 
 ## DIY

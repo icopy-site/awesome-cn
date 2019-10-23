@@ -9,7 +9,7 @@
 
 独立制作确实有很多生活方式上的好处:)
 
- 所有这些资源都可以帮助您激发灵感，并使您走上正确的道路，但最终重要的是**制作和尝试的东西**.  因此请负责任地吞噬此内容：)
+ 所有这些资源都可以帮助您激发灵感，并使您走上正确的道路，但最终重要的是**制作和尝试的东西**.  因此，请负责任地吞噬此内容：)
 
 贡献不胜欢迎.
 
@@ -112,7 +112,7 @@
   
 - **[Bootstrapped Web](http://bootstrappedweb.com)**
 
-   “分享我们边做边学的经验教训，并从他人正在做的事情中学习，以帮助我们所有人在网上引导业务时取得成功.”  自2013年以来 [Brian Casel](https://twitter.com/CasJam) 和 [Jordan Gal](https://twitter.com/JordanGal).
+   “分享我们边做边学的经验教训，并从别人正在做的事情中学到东西，以帮助我们所有人在网上引导业务时取得成功.”  自2013年以来 [Brian Casel](https://twitter.com/CasJam) 和 [Jordan Gal](https://twitter.com/JordanGal).
   
 - **[Entreprogrammers](http://entreprogrammers.com/)**
 
@@ -162,7 +162,7 @@
   
 - **[Marketing for Minorities](http://businessofsoftware.org/2011/03/hello-ladies-patrick-mckenzie-at-business-of-software-2010-marketing-to-minorities/)**由 [Patrick McKenzie](https://twitter.com/patio11?lang=ca)
 
-   最受尊敬的独立开发人员之一进行的7分钟闪电演讲.  帕特里克（Patrick）试图提出的观点是，单身开发人员可以瞄准规模较小且利基市场，而这种市场可能竞争较弱并且从单身业务的角度来看非常有利可图.
+   最受尊敬的独立开发人员之一进行的7分钟闪电演讲.  帕特里克（Patrick）试图提出的观点是，单身开发人员可以瞄准规模较小，利基市场，而这种市场可能竞争较弱并且从单身业务的角度来看非常有利可图.
   
 - **[Talking about CoderPad and business at Dropbox](https://www.youtube.com/watch?v=J8UwcyYT3z0)**由 [Vincent Woo](https://twitter.com/fulligin?lang=ca)
 
@@ -277,7 +277,7 @@
 
   萨斯独奏创始人的透明增长和财务报告.
 
-- **[37signals](http://37signals.com/bootstrapped)**
+- **[Basecamp](https://basecamp.com/bootstrapped)**
 
   人们在37个信号点上收集了一些自举的公司.
 
@@ -315,7 +315,7 @@
 
 - **[Business of Software](http://businessofsoftware.org/)** [$]
 
-   “软件业务不是有充分的理由立足于硅谷.它是关于建立长期的，可持续的软件业务.……一次深思熟虑的会议，人们来这里聆听和学习，而不是自我促进和大喊大叫”.  波士顿 [Team behind BoS](http://thebln.com/team/).
+   “软件业务不是有充分的理由立足于硅谷.这是关于建立长期的，可持续的软件业务.……一次深思熟虑的会议，人们来这里聆听和学习，而不是自我促进和大喊大叫.”  波士顿 [Team behind BoS](http://thebln.com/team/).
   
 - **[Business of Software Europe](http://businessofsoftware.eu/)** [$]
 
@@ -378,7 +378,7 @@
 
 ### Courses
 
-再说一次，我不太喜欢列出针对独立开发人员的独立开发人员生产的[$]产品，特别是因为我自己还没有尝试过，但是由于有很多参考文献，我认为它们可能是值得的，有些人可能会发现价值了解他们.
+同样，我不太喜欢列出针对独立开发人员的独立开发人员生产的[$]产品，尤其是因为我自己还没有尝试过这些产品，但是由于有很多参考文献，我认为它们可能是值得的，有些人可能会发现价值了解他们.
 
 - **[Marketing for Developers](https://devmarketing.xyz/)** [$]
 

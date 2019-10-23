@@ -34,13 +34,14 @@
 - [Instant-Music-Downloader](https://github.com/yask123/Instant-Music-Downloader) -即时音乐下载器.
 - [itunes-remote](https://github.com/mischah/itunes-remote) -通过CLI控制iTunes.
 - [pianobar](https://6xq.net/pianobar/) -Pandora客户.
-- [somafm-cli](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [somafm-cli](https://github.com/rockymadden/somafm-cli) -在终端中收听SomaFM.
 - [nehm](https://github.com/bogem/nehm) -从SoundCloud下载曲目.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD) -音乐播放器守护进程.
 - [ncmpcpp](https://github.com/arybczak/ncmpcpp) -mpd客户端.
 - [moc](http://moc.daper.net/) -Linux / UNIX的控制台音频播放器.
 - [musikcube](https://github.com/clangen/musikcube) -跨平台，基于终端的音乐播放器，音频引擎，元数据索引器和服务器.
 - [beets](https://github.com/beetbox/beets) -音乐库管理器和标记器.
+- [playx](https://github.com/NISH1001/playx) -各种来源的歌曲/播放列表流.
 
 ### Social Media
 
@@ -56,7 +57,7 @@
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) -从YouTube.com和许多其他视频网站下载视频.
 - [streamlink](https://github.com/streamlink/streamlink) -从各种网站提取流到您选择的视频播放器.
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) -YouTube播放器.
-- [mpv](https://mpv.io) -出色的视频播放器.
+- [mpv](https://mpv.io) - Superior video player.
 
 ### Movies
 
@@ -119,7 +120,7 @@
 
 - [mycli](https://github.com/dbcli/mycli) -具有自动完成功能和语法突出显示功能的MySQL客户端.
 - [pgcli](https://github.com/dbcli/pgcli) -具有自动完成功能和语法突出显示功能的Postgres客户端.
-- [sqlline](https://github.com/julianhyde/sqlline) -通过JDBC发行SQL的Shell.
+- [sqlline](https://github.com/julianhyde/sqlline) -  Shell for issuing SQL via JDBC.
 
 ### Devops
 
@@ -133,7 +134,7 @@
 - [dockly](https://github.com/lirantal/dockly) -交互式管理Docker容器.
 - [ops](https://github.com/nanovms/ops) -Unikernel编译和编排工具.
 - [lazydocker](https://github.com/jesseduffield/lazydocker) -简单的docker / docker-compose接口.
-- [flog](http://github.com/mingrammer/flog) -用于日志格式（例如apache-common，apache错误和RFC3164 syslog）的伪造的日志生成器.
+- [flog](http://github.com/mingrammer/flog) -伪造的日志生成器，用于诸如apache-common，apache错误和RFC3164 syslog之类的日志格式.
 - [isitfit](http://github.com/autofitcloud/isitfit) -管理AWS EC2调整大小.
 
 ### Release
@@ -269,7 +270,7 @@
 - [wallpaper-cli](https://github.com/sindresorhus/wallpaper-cli) -获取或设置桌面墙纸.
 - [themer](https://github.com/mjswensen/themer) -为您的编辑器，终端，墙纸，Slack等生成个性化主题.
 - [JackPaper](https://github.com/jackel27/jackpaper) -将来自unplash.com的随机/查询图像用作桌面墙纸.
-- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将它们在系统范围内应用于所有您喜欢的程序.
+- [pywal](https://github.com/dylanaraps/pywal) -生成并更改颜色方案，然后将其在系统范围内应用于所有您喜欢的程序.
 
 ### Shell Utilities
 
@@ -303,7 +304,7 @@
 
 ## Data Manipulation
 
-- [underscore-cli](https://github.com/ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
+- [underscore-cli](https://github.com/ddopson/underscore-cli) -用于破解JSON和Javascript的命令行实用程序带.
 - [ramda-cli](https://github.com/raine/ramda-cli) -使用功能管道处理数据的CLI工具.
 - [yaml-cli](https://github.com/pandastrike/yaml-cli) -用于查询和更新YAML文件的简单CLI.
 - [q](http://harelba.github.io/q/) -命令行工具，允许在CSV / TSV（和任何其他表格文本文件）上执行类似SQL的查询.
@@ -329,7 +330,7 @@
 - [ranger](https://github.com/ranger/ranger) -具有VI键绑定的控制台文件管理器.
 - [midnight-commander](https://github.com/MidnightCommander/mc) -功能丰富的可视文件管理器.
 - [organize-cli](https://github.com/ManrajGrover/organize-cli) -整理文件，想象一下立即清理下载内容.
-- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt中借鉴了一些有用的想法.
+- [Vifm](https://vifm.info/) -Vifm是一个基于ncurses的文件管理器，具有诸如键绑定/模式/选项/命令/配置之类的vi，它也从mutt那里借鉴了一些有用的想法.
 - [nnn](https://github.com/jarun/nnn) -具有出色的桌面集成功能的文件浏览器和磁盘使用分析器.
 - [lf](https://github.com/gokcehan/lf) -快速，可广泛定制的文件管理器.
 - [fff](https://github.com/dylanaraps/fff) -快速，简单的文件管理器.
@@ -441,7 +442,7 @@
 - [fortune](https://github.com/shlomif/fortune-mod) -显示随机财富.
 - [ponysay](https://github.com/erkin/ponysay) -小马改写考克斯.
 - [yosay](https://github.com/yeoman/yosay) -像考赛，但对于约曼.
-- [lolcat](https://github.com/busyloop/lolcat) - Outputs text in rainbow colors.
+- [lolcat](https://github.com/busyloop/lolcat) -以彩虹色输出文本.
 - [text-meme](https://github.com/beatfreaker/text-meme-cli) -生成文字模因.
 
 ## Other
@@ -483,7 +484,7 @@
 
 - [awesome-command-line-apps](https://github.com/herrbischoff/awesome-command-line-apps#readme) – cli应用程序的替代列表.
 - [awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line#readme) -特定于macOS的Shell命令和工具.
-- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) -扩展git cli的插件.
+- [awesome-git-addons](https://github.com/stevemao/awesome-git-addons#readme) - Addons that extend git cli.
 - [awesome-shell](https://github.com/alebcay/awesome-shell#readme) –命令行实用程序和框架.
 - [terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy#readme) –终端框架，插件和资源.
 - [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins#readme) – ZSH框架，插件，教程和主题.

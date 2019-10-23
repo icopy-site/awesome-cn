@@ -28,6 +28,7 @@
 * **[doobie ★ 812 ⧗ 0](https://github.com/tpolecat/doobie)**-用于Scala的纯功能JDBC层.
 * **[Elastic4s ★ 1049 ⧗ 0](https://github.com/sksamuel/elastic4s)**-用于Elasticsearch的Scala DSL /反应式客户端
 * [Finagle ★ 42 ⧗ 71](https://github.com/finagle/finagle-postgres) -Finagle的PostgreSQL协议支持
+* [laserdisc ★ 37](https://github.com/laserdisc-io/laserdisc) -无未来，fs2本机纯FP Redis客户端
 * [longevity ★ 78 ⧗ 21](https://github.com/longevityframework/longevity) -具有域驱动设计方向的Scala和NoSQL持久性框架
 * [lucene4s ★ 3 ⧗ 56](https://github.com/outr/lucene4s) -Lucene周围的轻巧便利包装，可简化复杂的任务并添加Scala糖.
 * [MapperDao ★ 12 ⧗ 36](https://github.com/kostaskougios/mapperdao) -适用于oracle，mysql，mssql和postgresql的ORM库
@@ -134,7 +135,7 @@
 
 ## Authorization
 
-*用于实施授权策略的库.*
+*Libraries for implementing authorization strategies.*
 
 * [deadbolt-2 ★ 467 ⧗ 3](https://github.com/schaloner/deadbolt-2)  -Play 2.x模块，支持基于角色和专有授权；  提供了用于Scala的惯用API和Java API.
 
@@ -244,7 +245,7 @@
 * [Rings ★ 3 ⧗ 0](https://github.com/PoslavskySV/rings)  -高效的多项式环库.  交换代数，多项式GCD，多项式因式分解和其他科学事物，速度非常快.
 * [Saddle ★ 428 ⧗ 2](https://github.com/saddle/saddle) -熊猫到斯卡拉的极简港口
 * [Smile](http://haifengl.github.io/smile/)  -统计机器智能和学习引擎.  Smile是一个快速而全面的机器学习系统.
-* **[Spark Notebook ★ 1896 ⧗ 0](https://github.com/andypetrella/spark-notebook)**-可扩展且稳定的Scala和Spark专注于笔记本，弥合了JVM和数据科学家之间的鸿沟（包括可扩展，类型安全和响应式图表）.
+* **[Spark Notebook ★ 1896 ⧗ 0](https://github.com/andypetrella/spark-notebook)**-可扩展且稳定的Scala和Spark专注于笔记本，弥合了JVM和数据科学家之间的鸿沟（包括可扩展，类型安全和反应性图表）.
 * **[Spire ★ 1152 ⧗ 3](https://github.com/non/spire)**-强大的Scala新数字类型和数字抽象.
 * [Squants ★ 388 ⧗ 1](https://github.com/garyKeorkunian/squants) -用于数量，度量单位和维度分析的Scala API.
 * [SwiftLearner ★ 20 ⧗ 5](https://github.com/valdanylchuk/swiftlearner) -简单编写的算法可帮助学习机器学习或编写自己的实现.
@@ -347,7 +348,7 @@
 * [enableIf.scala ★ 40 ⧗ 25](https://github.com/ThoughtWorksInc/enableIf.scala) - A library that switches Scala code at compile-time, like `#if` in C/C++.
 * [Enumeratum ★ 374 ⧗ 0](https://github.com/lloydmeta/enumeratum) - A macro to replace Scala enumerations with a sealed family of case objects. This allows additional checks for the compiler, e.g. for missing cases in a match statement. Has additinal support for Json libraries and the Play framework.
 * [Freasy-Monad ★ 90 ⧗ 14](https://github.com/Thangiee/Freasy-Monad) -使用具有一流Intellij支持的Scala宏轻松创建Cats和Scalaz免费Monad的简便方法.
-* [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -一个实现可组合副作用的库，在包装类型和自由monad上编织类型类.
+* [Freedsl ★ 25 ⧗ 5](https://github.com/ISCPIF/freedsl) -实现可组合副作用的库，在包装类型和自由monad上编织类型类.
 * [Freestyle ★ 430 ⧗ 0](https://github.com/frees-io/freestyle) -以FP为中心的Scala库的内聚和实用框架.
 * [Hamsters ★ 216 ⧗ 0](https://github.com/scala-hamsters/hamsters)  -迷你Scala实用程序库.  与功能编程初学者兼容.  具有验证功能，monad转换器，HLists和Union类型.
 * [idid ★ 4 ⧗ 43](https://github.com/lucastorri/idid) -为不同ID类型定义通用接口的库.
@@ -472,14 +473,14 @@
 
 * [better-monadic-for ★ 371 ⧗ 8](https://github.com/oleg-py/better-monadic-for) -Scala编译器插件，可为模式和理解力提供应有的爱
 * **[coursier ★ 847 ⧗ 0](https://github.com/alexarchambault/coursier)**-Scala库可从Maven / Ivy存储库中获取依赖项
-* [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typekecked降价文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
+* [mdoc ★ 94 ⧗ 0](https://github.com/scalameta/mdoc) -Scala的Typechecked Markdown文档 [https://scalameta.org/mdoc/](https://scalameta.org/mdoc/)
 * [sbt-api-mappings ★ 38 ⧗ 67](https://github.com/ThoughtWorksInc/sbt-api-mappings) -一个Sbt插件，用于解析到常见Scala库的外部API链接.
 * **[sbt-assembly ★ 1522](https://github.com/sbt/sbt-assembly) **-部署胖JAR.  重新启动进程.
 * [sbt-buildinfo ★ 274 ⧗ 1](https://github.com/sbt/sbt-buildinfo) -从构建定义生成Scala源.
 * [sbt-classfinder ★ 3 ⧗ 39](https://github.com/ruippeixotog/sbt-classfinder) -检索有关项目中的类和特征的运行时信息.
 * [sbt-ci-release ★ 102 ⧗ 0](https://github.com/olafurpg/sbt-ci-release) -sbt插件，用于自动从Travis CI发布Sonatype版本
 * [sbt-dependency-check ★ 108 ⧗ 0](https://github.com/albuch/sbt-dependency-check)  -用于OWASP DependencyCheck的SBT插件.  监视您的依赖关系，并报告是否存在任何已知的漏洞（例如CVE）.
-* **[sbt-dependency-graph ★ 731 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)** - Create a dependency graph for your project.
+* **[sbt-dependency-graph ★ 731 ⧗ 1](https://github.com/jrudolph/sbt-dependency-graph)**-为您的项目创建一个依赖图.
 * [sbt-docker ★ 422 ⧗ 3](https://github.com/marcuslonnberg/sbt-docker) -直接从sbt创建Docker映像
 * [sbt-doctest ★ 148](https://github.com/tkawachi/sbt-doctest) -sbt插件，可从ScalaDoc中的示例生成测试.
 * [sbt-ensime ★ 197 ⧗ 11](https://github.com/ensime/ensime-sbt) -为SBT项目生成.ensime配置文件 [http://ensime.org/build_tools/sbt](http://ensime.org/build_tools/sbt)
@@ -628,7 +629,7 @@
 * [Scala @LibHunt](https://scala.libhunt.com) -转到Scala工具箱.
 * [scala-trace-debug ★ 111  ⧗ 14](https://github.com/JohnReedLOL/scala-trace-debug) -多线程打印调试工具
 * [Scalariform ★ 116 ⧗ 47](https://github.com/daniel-trinh/scalariform) -Scala源代码格式化程序
-* [Scalastyle ★ 463 ⧗ 1](https://github.com/scalastyle/scalastyle) -Scala样式检查器.
+* [Scalastyle ★ 463 ⧗ 1](https://github.com/scalastyle/scalastyle) - Scala style checker.
 * [Scalatex ★ 236 ⧗ 12](https://github.com/lihaoyi/Scalatex) -可编程的Typesafe文档生成
 * [Scapegoat ★ 230 ⧗ 6](https://github.com/sksamuel/scapegoat) -用于静态代码分析的Scala编译器插件
 * [Scaps](http://scala-search.org/) ([repo](https://github.com/scala-search/scaps)）-Scala库的搜索引擎
@@ -641,14 +642,14 @@
 
 * **[Geotrellis ★ 553 ⧗ 0](https://github.com/locationtech/geotrellis)**-用于GIS处理的可扩展栅格工具包
 * [osm4scala ★ 8 ⧗ 40](https://github.com/angelcervera/osm4scala) -OpenStreetMap PBF2文件解析器
-* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，可在平面和球面上进行超快速最近和相交查询
+* [rtree2d ★ 27 ⧗ 1](https://github.com/Sizmek/rtree2d) -RTree2D是带有STR（排序-递归-递归）打包的2D不变R树，可用于在平面和球形表面上进行超快速最近和相交查询
 * [sfcurve ★ 20 ⧗ 1](https://github.com/locationtech/sfcurve) -Scala中的空间填充曲线，用于地理空间索引和查询
 
 ## Devops
 
 * DevOps相关工具和库.
 
-* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) -Scala中的Kubernetes客户
+* [Skuber ★ 85 ⧗ 0](https://github.com/doriordan/skuber) -Scala的Kubernetes客户
 
 ## Resources
 

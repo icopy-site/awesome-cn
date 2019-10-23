@@ -31,7 +31,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png)  |  如何选择统计或机器学习技术
 [<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png)  |  选择合适的估算器
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png)  |  数据科学行业：谁在做什么
-[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友~~欧拉图
+[<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png)  |  数据科学〜朋友〜欧拉图
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png)  |  不同的数据科学技能和角色 [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) 由Springboard
 [<img src="https://data-literacy.geckoboard.com/assets/img/data-fallacies-to-avoid-preview.jpg" width="150" alt="Data Fallacies To Avoid" />](https://data-literacy.geckoboard.com/poster/)  |  一种简单友好的方式来教您的非数据科学家/非统计学家同事 [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/) .  从壁虎板 [Data Literacy Lessons](https://data-literacy.geckoboard.com/).
 
@@ -153,7 +153,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 ## Bloggers
 
 - [Wes McKinney](http://wesmckinney.com/archives.html) -韦斯·麦金尼档案馆.
-- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网络.
+- [Matthew Russell](https://miningthesocialweb.com/) -挖掘社交网站.
 - [Greg Reda](http://www.gregreda.com/) -Greg Reda个人博客
 - [Kevin Davenport](http://kldavenport.com/) -凯文·达文波特个人博客
 - [Julia Evans](http://jvns.ca/) -递归中心校友
@@ -171,7 +171,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 - [Data Science London](http://datasciencelondon.org/) 伦敦数据科学公司是一个非营利性组织，致力于数据科学的免费，开放，传播.
 我们是欧洲最大的数据科学社区.
 我们社区中有3190多名数据科学家和数据极客.
-- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）  机器学习，数据挖掘及更多
+- [Datawrangling](http://datawrangling.com/)  彼得·斯科莫罗奇（Peter Skomoroch）.  机器学习，数据挖掘及更多
 - [John Myles White](http://www.johnmyleswhite.com/) 个人博客
 - [Quora Data Science](https://www.quora.com/Data-Science) -来自专家的数据科学问答
 - [Siah](https://openresearch.wordpress.com/) 伯克利大学博士生
@@ -412,7 +412,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  * [Apache Hama](http://hama.apache.org/) Apache Hama是一个Apache顶级开源项目，可让您进行MapReduce之外的高级分析.
  * [Weka](http://www.cs.waikato.ac.nz/ml/weka/) Weka是用于数据挖掘任务的机器学习算法的集合.
  * [Octave](https://www.gnu.org/software/octave/) GNU Octave是一种高级解释语言，主要用于数值计算.（免费Matlab）
- * [Apache Spark](https://spark.apache.org/) 迅捷的集群计算
+ * [Apache Spark](https://spark.apache.org/) 快如闪电的集群计算
  * [Hydrosphere Mist](https://github.com/Hydrospheredata/mist) -用于将Apache Spark分析作业和机器学习模型公开为实时，批处理或反应式Web服务的服务.
  * [Caffe](http://caffe.berkeleyvision.org/) 深度学习框架
  * [Torch](http://torch.ch/) LuaJit的科学计算框架
@@ -479,7 +479,7 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
 
 ## Journals, Publications and Magazines
 
- * [ICML](http://icml.cc/2015/) -机器学习国际会议
+ * [ICML](http://icml.cc/2015/) -国际机器学习大会
  * [epjdatascience](http://epjdatascience.springeropen.com/)
  * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
  * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
@@ -550,3 +550,4 @@ Secondly, Our favorite programming language is *Python* nowadays for #DataScienc
  - [Awesome Gradient Boosting Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers)
  - [Awesome Computer Vision Models](https://github.com/nerox8664/awesome-computer-vision-models)
  - [Glossary of common statistics and ML terms](https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/) 
+ - [100 NLP Papers](https://github.com/mhagiwara/100-nlp-papers)

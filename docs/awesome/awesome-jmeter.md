@@ -9,7 +9,7 @@
 
 The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应用程序，旨在加载测试功能行为并衡量性能.
 
-这个名单是从 [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
+This list grew up from [this answer on Stack Exchange](https://sqa.stackexchange.com/a/2552/1842) 和与JMeter相关的个人链接集，从中获得了进一步的启发 [awesome](https://github.com/sindresorhus/awesome) 项目并通过这些改进 [amazing contributors](https://github.com/aliesbelik/awesome-jmeter/graphs/contributors).
 
 
 
@@ -251,7 +251,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [Ubik Load Pack Blog](http://www.ubik-ingenierie.com/blog/category/jmeter/) -UBIK INGENIERIE博客.
 - [TestAutomationGuru Blog](http://www.testautomationguru.com/category/jmeter/) -有关测试自动化的技术博客.
 - [RedLine13 Blog](https://www.redline13.com/blog/tag/jmeter/) -RedLine13博客中的JMeter文章.
-- [Flood.io Blog](https://flood.io/blog/) - Load testing thoughts, stories and ideas from Flood IO.
+- [Flood.io Blog](https://flood.io/blog/) -从Flood IO加载测试思想，故事和想法.
 - [JMeter Blog](https://shantonusarker.blogspot.com/p/jmeter.html) @ Shantonu Sarker-另一个使用JMeter进行性能和自动化测试的博客.
 - [OctoPerf Blog](https://octoperf.com/categories/jmeter/) -关于JMeter和负载测试的OctoPerf博客.
 - [Abstracta JMeter Archives](https://abstracta.us/blog/tag/jmeter/) -关于JMeter的Abstracta博客.
@@ -294,6 +294,7 @@ The [Apache JMeter](http://jmeter.apache.org/) 是开放源代码的纯Java应�
 - [Awesome Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics) -有助于了解页面速度和用户体验的指标.
 - [Awesome Web Performance Optimization](https://github.com/davidsonfellipe/awesome-wpo) -Web性能优化的精选列表.
 - [Awesome Scalability](https://github.com/binhnguyennus/awesome-scalability) -可扩展，可靠和高性能的大型系统的模式.
+- [Awesome Site Reliability Engineering](https://github.com/dastergon/awesome-sre) -网站可靠性和生产工程资源的精选列表.
 - [Awesome inspectIT](https://github.com/inspectit-labs/awesome-inspectit) -开源Java应用性能管理工具.
 
 ## Contributing

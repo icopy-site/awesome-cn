@@ -50,6 +50,10 @@
 
    用于分享食物的移动应用程序，旨在减少食物浪费.  它通过将那些有多余食物的人与那些需要或希望消费这种食物的人联系起来.  食物必须是可食用的；  它可以是生的或熟的，密封的或开放的.
 
+- [Peckas Tomater](http://www.peckas.com)  |  瑞典|  2015年
+
+   结合了番茄和养鱼场的养殖系统，鱼池中的废水可滋养番茄，而番茄床又可以净化流回鱼池的水.  他们的鱼生长时不使用抗生素，而且伴侣不需要肥料.
+
 - [Phytoponics](https://phytoponics.com/)  |  英国|  2016年
 
    生产商业规模的水培种植系统，该系统比传统的水培系统更便宜，更易于安装和维护.  目标是以较低的投资额带来水培优势（更少的水和土地，更稳定的产量）.
@@ -178,7 +182,7 @@
 
 - [Vestas](https://www.vestas.com/)  |  丹麦|  1945年
 
-   风力涡轮机的制造商，销售商，安装商和服务商.  截至2019年，维斯塔斯已在五大洲的80多个国家安装了超过66,000台风力涡轮机，容量达到100 GW.
+  Manufacturer, seller, installer, and servicer of wind turbines. As of 2019 Vestas has installed over 66,000 wind turbines for a capacity of 100 GW in over 80 countries on five continents.
 
 ### Social Impact
 
@@ -192,7 +196,7 @@
 
 - [Ducky](https://www.ducky.eco/en/)  |  挪威|  2014年
 
-  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视自己的足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
+  根据气候和环境研究数据提供一系列产品，您可以在他们的气候计算器中监视您的个人足迹，了解气候心理学，并通过友好的团队竞争来减少碳排放.
 
 - [Ecosia](https://ecosia.org/)  |  德国|  2009年
 
@@ -200,11 +204,15 @@
 
 - [Ewally](https://ewally.com.mx/)  |  墨西哥|  2017年
 
-  System and App that provide a complete and eco-friendly trash collection service promoting the recycling culture. The wall between ocean and trash.
+   提供完善，环保的垃圾收集服务，促进回收文化的系统和应用程序.  海洋和垃圾之间的墙.
 
 - [Tomorrow](https://tmrow.com/)  |  丹麦/法国|  2018
 
   通过连接到已经使用的应用程序和服务来计算您日常选择对气候的影响的应用程序：您的个人和自动碳追踪器.
+
+- [Triodos Bank](https://www.triodos.com)  |  荷兰|  1980
+
+    面向消费者和企业的欧洲银行，仅向进行积极的环境和社会变革的组织提供贷款.  他们在可再生能源系统上进行了大量投资，并在其网站上发布了所资助的每个组织的详细信息.
 
 - [Unmade](https://unmade.com/)  |  英格兰|  2013年
 
@@ -223,8 +231,8 @@
 
 - [Environmental Protection Agency](https://www.epa.gov/climate-research) -研究气候变化的影响和解决方案.
 - [Intergovernmental Panel on Climate Change](https://www.ipcc.ch/library/) -联合国评估与气候变化有关的科学的机构.
-- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) - Providing solution-oriented policy pathways for governing the global commons to enhance sustainable development and human well-being.
-- [NASA climate](http://climate.nasa.gov/) -地球的重要迹象，事实和解决方案.
+- [Mercator Research Institute on Global Commons and Climate Change](https://www.mcc-berlin.net/en.html) -提供以解决方案为导向的政策途径，以管理全球公域，以促进可持续发展和人类福祉.
+- [NASA climate](http://climate.nasa.gov/) - Vital signs of the planet, facts, and solutions.
 - [U.N Climate Change National Inventory Submissions](https://unfccc.int/process-and-meetings/transparency-and-reporting/reporting-and-review-under-the-convention/greenhouse-gas-inventories-annex-i-parties/national-inventory-submissions-2019)  -其中包含来自多个联合国国家的特定国家/地区气候报告.  它具有2003年以来的数据.
 
 ## License

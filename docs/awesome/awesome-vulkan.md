@@ -33,7 +33,8 @@
     *  [Open-source Driver](https://01.org/linuxgraphics/blogs/jekstrand/2016/open-source-vulkan-drivers-intel-hardware/)
     *  [Driver for Windows](https://software.intel.com/en-us/blogs/2016/03/14/new-intel-vulkan-beta-1540204404-graphics-driver-for-windows-78110-1540)
 *  [Qualcomm](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
-*  [ARM](http://malideveloper.arm.com/resources/sdks/mali-vulkan-sdk/)
+*手臂
+    *  [Mali GPU Best Practices](https://developer.arm.com/solutions/graphics/developer-guides/mali-gpu-best-practices)
 
 ## SDK
 *  [For Windows & Linux](https://vulkan.lunarg.com/signin)
@@ -63,12 +64,13 @@
     * [OpenGL like Vulkan](https://developer.nvidia.com/opengl-vulkan)
     * [Transitioning from OpenGL to Vulkan](https://developer.nvidia.com/transitioning-opengl-vulkan)
     * [Siggraph 15 talk - Vulkan on NVIDIA GPUs](http://on-demand.gputechconf.com/siggraph/2015/presentation/SIG1501-Piers-Daniell.pdf)
-* ARM
+*  [Arm](https://developer.arm.com/solutions/graphics/apis/vulkan)
+    * [Vulkan Best Practice for Mobile Developers Tutorials](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
+    * [Vulkan's Key Features on Arm Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     * [Porting a Graphics Engine to the Vulkan API](https://community.arm.com/groups/arm-mali-graphics/blog/2016/02/16/porting-a-graphics-engine-to-the-vulkan-api)
-    * [Multi-Threading in Vulkan](https://community.arm.com/groups/arm-mali-graphics/blog/2016/04/19/massively-multi-thread-for-vulkan)
-    * [Vulkan's Key Features on ARM Architecture](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Vulkan%20API%20key%20features%20on%20ARM%20architecture.pdf)
     * [Get Your Engine Ready for Vulkan on Mobile](https://developer.arm.com/-/media/Files/pdf/graphics-and-multimedia/Get%20Your%20Engine%20Ready%20for%20Vulkan%20on%20Mobile.pdf)
-    * [Mali Vulkan Tutorials](https://arm-software.github.io/vulkan-sdk/tutorials.html) 和 [Slides](https://developer.arm.com/graphics/vulkan/vulkan-tutorials) 来自的Vulkan教程 [Mali Vulkan SDK](https://developer.arm.com/products/software/mali-sdks/vulkan)
+    * [Multi-Threading in Vulkan](https://community.arm.com/groups/arm-mali-graphics/blog/2016/04/19/massively-multi-thread-for-vulkan)
+    * [Mali Vulkan SDK Tutorials](https://developer.arm.com/products/software/mali-sdks/vulkan) 和 [Slides](https://developer.arm.com/graphics/vulkan/vulkan-tutorials)
 *英特尔
     * [API without Secrets: Introduction to Vulkan](https://github.com/GameTechDev/IntroductionToVulkan) [[LICENSE](https://github.com/GameTechDev/IntroductionToVulkan/blob/master/license.txt)]
         * [Part 1: The Beginning](https://software.intel.com/en-us/api-without-secrets-introduction-to-vulkan-part-1)
@@ -117,13 +119,13 @@
 *萨莎·威廉姆斯（Sascha Willems） [samples](https://github.com/SaschaWillems/Vulkan) 和 [Deferred rendering of Sponza](https://github.com/SaschaWillems/VulkanSponza) 和 his talk of [Khronos_meetup_munich](https://www.saschawillems.de/vulkan/khronosmeetup/#/).
 *（不完整）Sascha Willems [samples port](https://github.com/jvm-graphics-labs/Vulkan) 去科特林
 *萨莎·威廉姆斯（Sascha Willems） [Vulkan-glTF-PBR](https://github.com/SaschaWillems/Vulkan-glTF-PBR)  -使用glTF 2.0模型的Vulkan基于物理的渲染.  [麻省理工学院]
-*  [Khronos Samples](https://github.com/KhronosGroup/Vulkan-Samples)
+*  [Vulkan Best Practice for Mobile Developers Samples](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers)
 * 谷歌
     *  [Android port of LunarG samples](https://github.com/googlesamples/vulkan-basic-samples).
     *  [android tutorials](https://github.com/googlesamples/android-vulkan-tutorials).
 *  [nvpro-samples](https://github.com/nvpro-samples) -NVIDIA DesignWorks示例. [[LICENSE](https://github.com/nvpro-samples/gl_vk_threaded_cadscene/blob/master/LICENSE)]
     *  [gl_vk_chopper](https://github.com/nvpro-samples/gl_vk_chopper) -简单的vulkan渲染示例.
-    *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) -OpenGL和Vulkan在使用精湛技术绘制CAD场景时的比较，以及 [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) 关于它.
+    *  [gl_vk_threaded_cadscene](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) -OpenGL和Vulkan比较，使用多种技术绘制CAD场景，并且 [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) 关于它.
     *  [gl_vk_bk3dthreaded](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) -使用“工作线程”的Vulkan样本渲染3D.
     *  [gl_vk_supersampled](https://github.com/nvpro-samples/gl_vk_supersampled) -Vulkan样本显示了高质量的超级采样渲染.
 *  [NVIDIA GameWorks Samples](https://github.com/NVIDIAGameWorks/GraphicsSamples) -GameWorks跨平台图形API示例. [[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
@@ -137,15 +139,15 @@ drm/kms.
 *  [Laugh Engine](https://github.com/jian-ru/laugh_engine) -实时PBR渲染器的Vulkan实现.
 *  [tinyrenderers](https://github.com/chaoticbob/tinyrenderers) -Vulkan和D3D12渲染器的单头实现.
 *  [TLVulkanRenderer](https://github.com/trungtle/TLVulkanRenderer)  -有关实时透明性的硕士论文的基于Vulkan的简单渲染器.  [CC BY-SA 4.0]
-*  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) -Sascha Willems的叉子使用Vulkan-Hpp的Vulkan优秀示例.
+*  [Vulkan-Hpp Samples](https://github.com/jherico/Vulkan) -Sascha Willems的叉子使用Vulkan-Hpp制作了出色的Vulkan示例.
 *  [SDF Font Demo](https://github.com/kocsis1david/font-demo)  -通过估计符号距离在Vulkan中进行文本渲染.  [麻省理工学院]
 *  [vulkantoy](https://github.com/jpystynen/vulkantoy)  -使用Vulkan的Shadertoy图像着色器测试应用程序.  [麻省理工学院]
 *  [GL_vs_VK](https://github.com/RippeR37/GL_vs_VK)  -在性能方面比较OpenGL和Vulkan API.  [麻省理工学院]
 *  [Vulkan Basic Graphics Samples](https://github.com/vcoda/basic-graphics-samples) -收集使用Magma库编写的简单图形样本.
 *  [Simple RTX Vulkan raytracing tutorials](https://github.com/iOrange/rtxON) ，  [MIT]
 *  [RadX](https://github.com/world8th/RadX) - Dedicated example of radix sorting on GPU (on NVIDIA RTX in particular).
-*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) -使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的《光线追踪在一个周末》一书.
-*  [Gears VK](https://github.com/jeffboody/gearsvk)  -Gears VK是著名的“齿轮”演示程序到Vulkan / Android / Linux的重大修改端口.  [麻省理工学院]
+*  [Ray Tracing In One Weekend (Vulkan RTX)](https://github.com/GPSnoopy/RayTracingInVulkan) -使用Vulkan和NVIDIA的RTX扩展实现Peter Shirley的《在一个周末进行光线追踪》一书.
+*  [Gears VK](https://github.com/jeffboody/gearsvk)  -Gears VK是著名的“齿轮”演示版到Vulkan / Android / Linux的重大修改版本.  [麻省理工学院]
 
 ## Libraries
 *  [Acid](https://github.com/Equilibrium-Games/Acid)  -高速C ++ 17 Vulkan游戏引擎.  [麻省理工学院]
@@ -195,7 +197,7 @@ drm/kms.
 *  [ncnn](https://github.com/Tencent/ncnn)  -带有基于Vulkan的GPU推理的高性能神经网络推理框架.  [BSD 3句]
 *  [iMSTK](https://gitlab.kitware.com/iMSTK/iMSTK)  -用于使用Vulkan和VTK后端构建手术模拟的C ++工具包.  [Apache许可2.0]
 *  [Quartz](https://github.com/Nadrin/Quartz)  -基于物理的Vulkan RTX路径跟踪器，具有类似于ES7的声明性场景描述语言.  [LGPL-3.0]	
-*  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin包装器：代码的表达性和安全性满足图形功能[Apache许可2.0]
+*  [VK²](https://github.com/kotlin-graphics/vkk)，Vulkan的Kotlin Wrapper：代码的表达性和安全性满足图形功能[Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/vulkan/vulkan.lua) -Vulkan的Lua绑定.
@@ -219,10 +221,10 @@ drm/kms.
 *  [VulkanTools](https://github.com/LunarG/VulkanTools)  -LunarG的工具，包括图层，“ vktrace”和“ vkreplay”.  [Apache许可2.0]
 *  [CodeXL](https://github.com/GPUOpen-Tools/CodeXL)  -CodeXL开源.  [麻省理工学院]
 *  [Qualcomm GPU Tools](https://developer.qualcomm.com/software/adreno-gpu-sdk/tools).
-*  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
+*  [Arm Mobile Studio](https://www.arm.com/products/development-tools/graphics/arm-mobile-studio) -包括可轻松跟踪图形性能问题的Arm图形分析器和Arm Streamline性能分析器，以提供整个系统的性能视图，从而快速确定CPU和GPU上的瓶颈.
 *  [Open Capture and Analytics Tool (OCAT)](https://github.com/GPUOpen-Tools/OCAT)  -为D3D11，D3D12和Vulkan提供FPS覆盖和性能测量.  [麻省理工学院]
 *  [gapid](https://github.com/google/gapid)  -图形API调试器，可以跟踪和重播Android OpenGL ES和Vulkan应用程序.  [Apache许可2.0]
-*  [ARM - PerfDoc](https://github.com/ARM-software/perfdoc)  -针对Mali Application Developer最佳做法文档的验证层.  [麻省理工学院]
+*  [Arm - PerfDoc](https://github.com/ARM-software/perfdoc)  -针对Mali Application Developer最佳做法文档的验证层.  [麻省理工学院]
 
 ## Books
 * [Introduction to Computer Graphics and the Vulkan API](https://www.amazon.com/Introduction-Computer-Graphics-Vulkan-API/dp/1548616176) 作者：Kenwright **-使用Vulkan API从彻底的实践角度向读者介绍计算机图形学的令人兴奋的主题.

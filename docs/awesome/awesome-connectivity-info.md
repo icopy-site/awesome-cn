@@ -28,7 +28,7 @@
 - [Huawei Global Connectivity Index](http://www.huawei.com/minisite/gci/en/) -（2017）根据供应，需求，经验和潜力衡量的50个国家的“数字化转型”状态快照.
 - [Cisco Visual Networking Index](https://www.cisco.com/c/en/us/solutions/service-provider/visual-networking-index-vni/index.html) -《 2017-2022年预测与趋势》白皮书.
 - [ITU Broadband Atlas](https://www.itu.int/ITU-D/treg/atlas/broadbandatlas.asp) -（2010）交互式信息图表工具，展示了全球宽带部署的状况以及宽带的监管格局.
-- [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) -（2016）按国家/地区划分的互联网用户，来自国际电联，联合国人口司，印度互联网和移动协会（IAMAI）和世界银行数据.
+- [InternetLiveStats](http://www.internetlivestats.com/internet-users-by-country/) -（2016）按国家/地区划分的互联网用户，由国际电联，联合国人口司，印度互联网和移动协会（IAMAI）以及世界银行的数据推算得出.
 - [Internet World Stats](https://www.internetworldstats.com/) -根据尼尔森和国际电联的统计数据汇编的互联网用户.
 - [ITU ICT Development Index](http://www.itu.int/net4/ITU-D/idi/) -（2017）基于三大支柱的综合指数：ICT接入，ICT使用和ICT技能.
 - [World Economic Forum - Networked Readiness Index](http://reports.weforum.org/global-information-technology-report-2016/networked-readiness-index/) - (2016).
@@ -65,7 +65,7 @@
 - [ITU Facts and Figures](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2017.pdf) - 2017.
 - [Ericsson Mobility Report](https://www.ericsson.com/en/mobility-report) - [November 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-november-2018.pdf) [June 2018](https://www.ericsson.com/assets/local/mobility-report/documents/2018/ericsson-mobility-report-june-2018.pdf).
 - [Deloitte - Global mobile consumer trends](https://www2.deloitte.com/global/en/pages/technology-media-and-telecommunications/articles/gx-global-mobile-consumer-trends.html) (2017)
-- [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
+- [A4AI Affordability Report](http://a4ai.org/affordability-report/report/) - ([2019](https://a4ai.org/affordability-report/report/2019/)) ([2018](http://1e8q3q16vyc81g8l3h3md6q5f5e-wpengine.netdna-ssl.com/wp-content/uploads/2018/10/A4AI-2018-Affordability-Report.pdf)) ([2017](http://a4ai.org/affordability-report/report/2017)).
 - [Opera State of the Mobile Web](https://blogs.opera.com/news/wp-content/uploads/sites/2/2016/11/SMWAfrica-Opera-report-2016-01-WEB-1.pdf) -（2016）基于Opera Mobile浏览器使用情况的报告.
 - [Akamai State of the Internet / Connectivity Report](https://www.akamai.com/uk/en/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf) -（2017年第一季度）大型CDN公司的连通性报告.
 - [World Economic Forum - Global Information Technology Report](http://reports.weforum.org/global-information-technology-report-2016/) -（2016）检查信息和通信技术（ICT）在推动创新中的作用，并包括网络就绪指数.

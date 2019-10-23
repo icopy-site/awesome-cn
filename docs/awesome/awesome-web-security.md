@@ -317,7 +317,7 @@
 ### XXE
 
 - [Evil XML with two encodings](https://mohemiv.com/all/evil-xml/) -由 [Arseniy Sharoglazov](https://mohemiv.com/).
-- [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](http://seclists.org/fulldisclosure/2018/Jul/3) -由 [Rose Jackcode](https://github.com/qazbnm456/awesome-web-security/blob/master/1024rosecode at gamil dot com).
+- [XXE in WeChat Pay Sdk ( WeChat leave a backdoor on merchant websites)](http://seclists.org/fulldisclosure/2018/Jul/3) -由 [Rose Jackcode](https://github.com/qazbnm456/awesome-web-security/blob/master/1024rosecode at gmail dot com).
 
 <a name="tricks-ssrf"></a>
 ### SSRF
@@ -444,7 +444,7 @@
 #### Sub Domain Enumeration
 
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) -Sublist3r是用于渗透测试人员的多线程子域枚举工具， [@aboul3la](https://github.com/aboul3la).
-- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -EyeWitness旨在获取网站的屏幕截图，提供一些服务器标头信息并在可能的情况下通过以下方式识别默认凭据： [@ChrisTruncer](https://github.com/ChrisTruncer).
+- [EyeWitness](https://github.com/ChrisTruncer/EyeWitness) -EyeWitness旨在获取网站的屏幕截图，提供一些服务器标头信息，并在可能的情况下通过以下方式识别默认凭据： [@ChrisTruncer](https://github.com/ChrisTruncer).
 - [subDomainsBrute](https://github.com/lijiejie/subDomainsBrute) -面向渗透测试者的简单快速子域暴力破解工具， [@lijiejie](https://github.com/lijiejie).
 - [AQUATONE](https://github.com/michenriksen/aquatone) -的网域天桥工具 [@michenriksen](https://github.com/michenriksen).
 - [domain_analyzer](https://github.com/eldraco/domain_analyzer) -通过查找所有可能的信息来分析任何域的安全性 [@eldraco](https://github.com/eldraco).
