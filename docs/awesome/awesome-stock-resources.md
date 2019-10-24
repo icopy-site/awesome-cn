@@ -72,7 +72,7 @@
 * [Designer Pics](http://www.designerspics.com) - [:copyright:](http://www.designerspics.com/faq-and-terms/) 免费的个人和商业照片 [Jeshu John](https://twitter.com/jeshujohn).
 * [Foodies Feed](https://www.foodiesfeed.com/) -基于食物的免费图片. [:copyright:](https://www.foodiesfeed.com/faq/).
 * [Freerange](https://freerangestock.com/) - [:copyright:](https://freerangestock.com/licensing.php)  用于商业和非商业用途的优质库存照片.  免费.
-* [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) 每天免费添加一张免费照片.
+* [Good Stock Photos](https://goodstock.photos/) - [:copyright:](https://goodstock.photos/about/) One free to use photo added everyday.
 * [ISO Republic](https://isorepublic.com/) - [:copyright:](https://isorepublic.com/terms/) ISO Republic为广告素材提供独家的免费库存照片.
 * [Kaboom Pics](https://kaboompics.com/) - [:copyright:](https://kaboompics.com/page/license-and-faq) 商业或个人项目获得令人惊叹的免费图片的好地方.
 * [morgueFile](https://morguefile.com/) - [:copyright:](https://morguefile.com/terms) 广告素材的免费照片存档，用于广告素材.
@@ -140,7 +140,7 @@
 * [Freepik](https://www.freepik.com/) - [:copyright:](https://www.freepik.com/terms_of_use) 查找免费矢量，PSD，图标和照片.
 * [FreeVectors.net](http://www.freeVectors.net) - [:copyright:](http://www.freevectors.net/terms) 一个有趣的矢量爱好者小社区，他们共享免费的矢量图形.
 * [Logo Dust](http://logodust.com/) - [:copyright:](https://creativecommons.org/licenses/by/4.0/) 为您的项目提供免费的CC Attribution 4.0徽标设计.
-* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) Free and big CC Attribution-ShareAlike 4.0 vector pack with hand-drawn doodles for presentations, social media, blog posts and so on. 
+* [Mega Doodles Pack](https://github.com/MariaLetta/mega-doodles-pack) - [:copyright:](https://creativecommons.org/licenses/by-sa/4.0/) 免费的大型CC Attribution-ShareAlike 4.0矢量包，带有用于演示，社交媒体，博客文章等的手绘涂鸦. 
 * [Sketch Repo](https://sketchrepo.com/) - [:copyright:](https://sketchrepo.com/about/) Sketch Repo是寻找下一个设计项目的Sketch App资源的好地方.
 * [Vecteezy](https://www.vecteezy.com/) - [:copyright:](https://www.vecteezy.com/terms) 从Illustrator社区发现并下载免费矢量艺术.
 
@@ -156,6 +156,7 @@
 完全免费.
 * [Videezy](https://www.videezy.com) - [:copyright:](https://www.videezy.com/terms) 免费股票视频，4k素材和免费高清视频剪辑.
 * [Vidsplay](http://www.vidsplay.com/) - [:copyright:](http://www.vidsplay.com/terms.html) 免费高清影片素材（需要署名）.
+* [VYOO](http://www.veed.io/vyoo) - [:copyright:](http://www.veed.io/vyoo/terms) 精美的免费垂直视频.
 
 ## Patterns
 
@@ -241,7 +242,7 @@ SVG图标资源的集合，可以在您的界面和网站设计中使用.
 * [Colorful Gradients](https://colorfulgradients.tumblr.com/)  -由计算机自动创建的渐变.  每天48次.
 * [CoolHue 2.0](https://webkul.github.io/coolhue/) -最酷的精选渐变色板和色板.
 * [Colour Lovers](http://www.colourlovers.com) -一个创意社区，来自世界各地的人们可以创建和共享颜色，调色板和图案.
-* [Coolors](https://coolors.co/) -超酷的配色方案生成器，适用于出色的设计师.
+* [Coolors](https://coolors.co/) -超酷的配色方案生成器，适用于酷炫的设计师.
 * [Flat UI Colors](https://flatuicolors.com/) -平面颜色选择器，可为您提供平面设计的完美色彩.
 * [LOLColors](https://www.webdesignrankings.com/resources/lolcolors/) -一个不错的精选调色板灵感资源.
 * [Material Design Colors](https://www.materialui.co/colors) -适用于Android，Web和iOS的材质ui调色板.

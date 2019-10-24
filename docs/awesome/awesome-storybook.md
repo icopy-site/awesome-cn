@@ -46,14 +46,15 @@
 
 ## Blog posts
 
-- [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111)
-- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf)
-- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
+- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o) -一组有用的技巧，可帮助您管理Storybook项目.
+- [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111) -世界一流的设计系统基础架构.
+- [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf) -漂亮的文档，立即.
+- [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a) -将故事变成生动的文档.
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) -有关迄今为止最大版本的功能展示.
 - [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) -故事书中提供的可访问性测试工具的全面概述.
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) -了解如何使用Vue和Storybook构建组件库以创建模块化和可重用的组件.
 - [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/) -方便的指南，使我们可以在Preact项目中轻松添加故事书.
-- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) -了解如何使用React和Storybook设置组件库，以创建可在项目之间共享的模块化和可重用组件.
+- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) -了解如何使用React和Storybook设置组件库以创建可在项目之间共享的模块化和可重用组件.
 - [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od) -故事书的简短介绍以及如何在React应用程序上进行设置.
 - [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06) -顶级UI组件浏览器的比较.
 - [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/2017/11/20/storybook-tests-react/) -适用于Storybook的各种测试解决方案的完整演练：轻松的跨浏览器视觉检查，交互测试和用于快照测试的StoryShots.

@@ -121,7 +121,7 @@ Installers
 * [Kubicorn](https://github.com/kubicorn/kubicorn) -与操作系统无关-与云无关
 * [Kublr](https://docs.kublr.com/quickstart/) -不可知操作系统-本地-不可知云
 * [Linode](https://developers.linode.com/kubernetes/) -CoreOS-Linode
-* [matchbox](https://github.com/coreos/matchbox) -CoreOS-网络启动和配置Container Linux集群（例如etcd3，Kubernetes等）.
+* [matchbox](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 * [MetalK8s](https://github.com/scality/metalk8s) -CentOS-本地-云不可知- [Apache-2.0](https://github.com/scality/metalk8s/blob/development/1.1/LICENSE)
 * [MicroK8s](https://github.com/ubuntu/microk8s) -单个k8软件包，可在42种Linux上安装
 * [Minikube](https://github.com/kubernetes/minikube) -在本地运行Kubernetes
@@ -224,6 +224,7 @@ Installers
 - [CI/CD for Microservices on DigitalOcean Kubernetes](https://semaphoreci.com/blog/cicd-microservices-digitalocean-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 - [How to Release Faster with Continuous Delivery for Google Kubernetes](https://semaphoreci.com/blog/continuous-delivery-google-kubernetes) 使用 [Semaphore](https://semaphoreci.com)
 * [CircleCI](http://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
+- [Kubernetes Deployments: The Ultimate Guide](https://semaphoreci.com/blog/kubernetes-deployment) 通过 [Jérôme Petazzoni](https://twitter.com/jpetazzo)
 
 
 - [Automate deep learning training with Kubernetes GPU-cluster](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
@@ -469,7 +470,7 @@ Projects
 * [Ingress Monitor Controller](https://github.com/stakater/IngressMonitorController) -监视入口端点并在配置的正常运行时间检查器上自动注册活动警报
 * [kmachine](https://github.com/skippbox/kmachine)
 * [KEDA](https://github.com/kedacore/keda) -基于Kubernetes的事件驱动自动缩放
-* [kube-fledged](https://github.com/senthilrch/kube-fledged) -K8S插件，用于直接在集群工作程序节点上创建和管理容器映像的缓存
+* [kube-fledged](https://github.com/senthilrch/kube-fledged) -一个K8S插件，用于直接在集群工作程序节点上创建和管理容器映像的缓存
 * [kube-openvpn](https://github.com/pieterlange/kube-openvpn)
 * [Kubeform](http://capgemini.github.io/kubeform/)
 * [Kubefuse](http://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
@@ -520,7 +521,7 @@ Projects
 * [Weave Scope](http://www.weave.works/products/weave-scope/)
 * [kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) -侦听Kubernetes API服务器并生成有关对象状态的指标的简单服务.
 * [loki](https://github.com/grafana/loki) -Loki是受Prometheus启发的水平可扩展，高度可用的多租户日志聚合系统.
-* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用简单的查询语言进行处理，并通过Web UI在线进行监视.
+* [Loghouse](https://github.com/flant/loghouse) -有效地存储大量日志（在ClickHouse数据库中），使用一种简单的查询语言进行处理，并通过Web UI在线进行监视.
 
 ## Testing
 
@@ -549,7 +550,7 @@ Projects
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
    * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
    * [Jenkins Operator - Kubernetes native Jenkins operator](https://github.com/jenkinsci/kubernetes-operator)
-* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps推广和预览环境的Kubernetes自动化CI / CD
+* [Jenkins X](http://jenkins-x.io/) -使用最佳的OSS工具（如Jenkins，Helm，Skaffold，Kaniko，Knative Build，Knative Pipeline和Prow），针对带有请求的GitOps促销和预览环境的Kubernetes自动化CI / CD
 * [Apollo](https://github.com/logzio/apollo) -开源应用程序，为团队提供了自助服务UI，用于创建其服务并将其部署到Kubernetes.
 * [Argo CD](https://github.com/argoproj/argo-cd) -Kubernetes的声明式连续部署.
 * [autoapply](https://github.com/autoapply/autoapply) -自动将Git存储库中的更改应用于Kubernetes集群
@@ -564,7 +565,7 @@ Projects
 * [KubeCI](https://www.kubeci.io/)
 * [Razee](https://github.com/razee-io/Razee)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)
-* [Shipper](https://github.com/bookingcom/shipper) -使用Helm的Kubernetes原生多集群金丝雀或蓝绿色产品.
+* [Shipper](https://github.com/bookingcom/shipper) -使用Helm的Kubernetes本机多集群金丝雀或蓝绿色产品.
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
 * [Vili](https://github.com/airware/vili)
 * [Weave Flux – GitOps reconcoliation operator](https://github.com/weaveworks/flux)
@@ -600,7 +601,7 @@ Projects
 * [kooper](https://github.com/spotahome/kooper) -用于创建Kubernetes运算符和控制器的简单Go库
 * [Kubernetes Operators](https://github.com/sapcc/kubernetes-operators)
 * [KubeVirt](https://github.com/kubevirt)
-* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，可以执行安全的自动节点重新启动
+* [Kured](https://github.com/weaveworks/kured) -Kured（Kubernetes重新启动守护程序）是一个Kubernetes守护程序集，它执行安全的节点自动重新启动
 * [Memcached](https://github.com/kbst/memcached)
 * [MongoDB](https://github.com/kbst/mongodb)
 * [MySQL](https://github.com/oracle/mysql-operator)
@@ -685,7 +686,7 @@ Projects
 * [Istio](http://istio.io/)
 * [Linkerd](http://linkerd.io/getting-started/k8s/)
 * [Weave Mesh](https://github.com/weaveworks/mesh)
-* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是直接，易于配置且非侵入式的服务网格，可对任何Kubernetes集群内部的流量进行可视化和管理.
+* [Maesh: Simpler Service Mesh](https://github.com/containous/maesh) -Maesh是一个简单，易于配置且非侵入式的服务网格，可查看和管理任何Kubernetes集群内部的流量.
 * [Kuma: The Universal Service Mesh](https://github.com/kong/kuma) -构建，保护和观察您的现代服务网格.
 
 ## RPC
@@ -714,6 +715,7 @@ Projects
 * [Kubeapps](https://github.com/kubeapps/kubeapps) -基于Web的UI，用于在Kubernetes集群中部署和管理应用程序
 * [Polaris](https://github.com/reactiveops/polaris) -Kubernetes最佳实践的开源仪表板
 * [Octant](https://github.com/vmware/octant) -基于Web的高度可扩展平台，供开发人员更好地了解Kubernetes集群的复杂性.
+* [Kontena Lens](https://github.com/kontena/lens) -Kubernetes的终极仪表板.
 
 ## Desktop applications
 
@@ -791,9 +793,9 @@ Projects
 * [Authenticator](https://github.com/heptio/authenticator) -使用AWS IAM凭证对Kubernetes集群进行身份验证的工具
 * [Calico Network Policy (from Tigera)](https://docs.projectcalico.org/master/introduction/) -广泛采用的开源实现，统一了Kubernetes网络策略和Istio应用程序策略.
 * [Dex](https://github.com/coreos/dex) -Kubernetes的OpenID和OAuth
-* [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持作为身份提供者的Github，Gitlab，Google，Azure和LDAP（AD）.
+* [Guard](https://github.com/appscode/guard) -Authenticaton Webhook服务器，支持Github，Gitlab，Google，Azure和LDAP（AD）作为身份提供者.
 * [kiam](https://github.com/uswitch/kiam) -允许群集用户将AWS IAM角色与Pod相关联.
-* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes安全台式机是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
+* [kube-bench](https://github.com/aquasecurity/kube-bench) -Kubernetes Security Bench for Go是一个Go应用程序，可根据安全最佳实践检查是否已部署Kubernetes.
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) -寻找Kubernetes集群中的安全漏洞.
 * [kube-psp-advisor](https://github.com/sysdiglabs/kube-psp-advisor) -帮助建立自适应且细粒度的Pod安全策略.
 * [kube2iam](https://github.com/jtblin/kube2iam) -为在Kubernetes上运行的Pod提供不同的AWS IAM角色
@@ -866,7 +868,7 @@ Projects
 
 ## Static Analysis
 
-* [kube-score](https://github.com/zegl/kube-score) - Kubernetes object analysis with recommendations for improved reliability and security
+* [kube-score](https://github.com/zegl/kube-score) -Kubernetes对象分析并提出了改进可靠性和安全性的建议
 * [popeye](https://github.com/derailed/popeye) -Kubernetes集群资源清理工具
 
 ## Tuning
@@ -1004,7 +1006,7 @@ Videos
 * [Kubernetes](https://twitter.com/kubernetesio)
 * [KubeWeekly](https://twitter.com/kubeweekly)
 * [Learnk8s](https://twitter.com/learnk8s)
-* [Skippbox](https://twitter.com/skippbox) -被 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
+* [Skippbox](https://twitter.com/skippbox) -被收购 [Bitnami](https://bitnami.com/news/press-releases/bitnami-acquires-skippbox)
 * [Sysdig](https://twitter.com/sysdig)
 
 

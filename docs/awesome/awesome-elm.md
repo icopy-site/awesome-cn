@@ -39,7 +39,7 @@
 * [Pokelmon](https://github.com/brenopanzolini/pokelmon) -使用PokéAPI的Elm项目.
 * [JWT auth with Django + Elm](https://github.com/apirobot/django-elm-auth-with-jwt) -使用Django（后端）和Elm（前端）进行JSON Web令牌（JWT）身份验证.
 * [Bitcoin BR Chrome Extension](https://github.com/jouderianjr/bitcoin-br-chrome-extension) -内置于Elm中的Chrome扩展程序，可显示所有巴西交易所的比特币价值.
-* [Elmstagram](https://github.com/bkbooth/Elmstagram) -Instagram的基本UI克隆/文章- [Part 1](https://benkbooth.com/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benkbooth.com/post/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
+* [Elmstagram](https://github.com/bkbooth/Elmstagram) -Instagram的基本UI克隆/文章- [Part 1](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-1/) [Part 2](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-2/) [Part 3](https://benbooth.dev/building-a-basic-ui-clone-of-instagram-using-elm-part-3/)
 * [Kanban Board in Elm](https://github.com/huytd/kanelm) -使用Elm和HTML5拖放API构建的看板（类似于trello）
 * [Elm Playground](https://ccamel.github.io/playground-elm/index.html) -纯SPA（带有路由），探索榆树的各个方面.
 * [Elm Hacker News PWA](https://github.com/elmariofredo/elm-hn-pwa) -使用官方的Hacker-News API使用Elm 0.18版构建的渐进式Web应用程序
@@ -90,7 +90,7 @@
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) -简短的截屏视频可以教您Erik Person的Elm编程语言.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) -构建您的第一个Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) -关于榆木的五部分教程.
-* [Elm FAQ](http://faq.elm-community.org/) -来自的榆木常见问题解答 [Elm Community](http://elm-community.org/).
+* [Elm FAQ](http://faq.elm-community.org/) -来自的榆树常见问题解答 [Elm Community](http://elm-community.org/).
 * [Elm Tutorial by Auth0](https://auth0.com/blog/creating-your-first-elm-app-part-1/) -有关在Elm中构建应用程序的教程，从身份验证到调用API.
 
 
@@ -289,7 +289,7 @@
 
 * [theJian/elm.vim](https://github.com/theJian/elm.vim)  -Elm语法突出显示.  用于 [ale or Neoformat for Neovim](https://github.com/avh4/elm-format/issues/610) 因为ElmCast / elm-vim不支持Elm 0.19.
 * [ElmCast/elm-vim](https://github.com/ElmCast/elm-vim) -Vim / Neovim的Elm 0.18模式.
-* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) -您可以在编辑器中使用离线Elm文档.
+* [vim-elm-help](https://github.com/hoelzro/vim-elm-help) -您可以在编辑器中访问Elm离线文档.
 * [emmet-vim](https://github.com/mattn/emmet-vim) -带有Elm支持的标记扩展.
 
 ### Visual Studio Code
@@ -327,7 +327,7 @@
 ### Outdated Boilerplates
 
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
-* [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) -针对Elm应用程序的功能齐全的基础项目：Webpack，HMR，ES6，JS和Elm测试，语义UI，示例代码等.
+* [elm-app-boilerplate](https://github.com/gkubisa/elm-app-boilerplate) -Elm应用程序的功能齐全的基础项目：Webpack，HMR，ES6，JS和Elm测试，语义UI，示例代码等.
 * [elmkit](https://github.com/khusnetdinov/elmkit)  -针对Web应用的轻量级基于Brunch的设置.  包括早午餐，热模块更换，榆木，Scss，榆木测试.
 * [elm-boilerplate](https://github.com/guillaumearm/elm-boilerplate) -一个简单的Makefile能够创建Elm应用程序.
 * [elm-init](https://github.com/JustusAdam/elm-init) -用于新Elm项目的交互式设置.

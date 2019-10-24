@@ -69,7 +69,10 @@
 
 ## Components
 
+### Component Libraries
+
 - [Amber Components](https://github.com/bitrockteam/amber-components) -琥珀色设计系统的Web组件实现.
+- [Blackstone UI](https://github.com/kjantzer/bui) -用于创建使用lit-html和LitElement构建的界面的Web组件.
 - [Bronconents](https://github.com/marius2502/bronconents) -使用Lit-Element构建的现代Web组件.
 - [Carbon Custom Elements](https://github.com/carbon-design-system/carbon-custom-elements) -使用Web组件构建的Carbon设计系统的实验变体.
 - [Chartjs Web Components](https://github.com/fsx950223/chartjs-web-components) -chartjs的Web组件.
@@ -77,16 +80,24 @@
 - [Ink Components](https://github.com/ink-components/ink-components) -用于交互式科学写作的Web组件.
 - [LRNWebComponents](https://github.com/elmsln/lrnwebcomponents) -ELMS：LN为任何项目生产了Web组件.
 - [Material Web Components](https://github.com/material-components/material-components-web-components) -将材料设计实现为Web组件.
-- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) - Collection of web components for the Microsoft Graph.
-- [RapiDoc - OpenAPI Viewer](https://mrin9.github.io/RapiDoc) -用于查看OpenAPI 3.0和Swagger 2.0规范的Web组件
+- [Microsoft Graph Toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) -Microsoft Graph的Web组件集合.
 - [UI5 Web Components](https://github.com/SAP/ui5-webcomponents) -在本地API之上的企业风味糖！
 - [Weightless](https://github.com/andreasbm/weightless) -占地面积小的高质量Web组件.
 - [Wired Elements](https://github.com/wiredjs/wired-elements) -出现手绘元素的集合.
 
+### Individual Components
+
+- [`<app-datepicker>`](https://github.com/motss/app-datepicker) -使用LitElement和Material Design 2构建的Datepicker元素.
+- [`<dile-modal>`](https://github.com/Polydile/dile-modal) -基于LitElement的Web组件，用于实现模式框.
+- [`<lit-datatable>`](https://github.com/DoubleTrade/lit-datatable) -由LitElement支持的数据表的Material Design实现.
+- [`<lottie-player>`](https://github.com/LottieFiles/lottie-player) -Web组件，可轻松嵌入和播放Lottie动画.
+- [`<model-viewer>`](https://github.com/GoogleWebComponents/model-viewer) -用于渲染交互式3D模型的Web组件.
+- [`<rapi-doc>`](https://github.com/mrin9/RapiDoc) -用于查看OpenAPI 3.0和Swagger 2.0规范的Web组件.
+
 ## Starter Templates
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
 
@@ -129,7 +140,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

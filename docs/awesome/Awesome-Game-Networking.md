@@ -3,7 +3,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-游戏网络是计算机网络的子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
+游戏联网是计算机联网的一个子集，通常涵盖数据复制，状态同步，快照插值，客户端预测，滞后补偿，防作弊，负载平衡，带宽优化\
 -多人在线游戏编程中涉及的更多技术.
 
 **阅读后请随时贡献您的_awesome_资源 [contribution guidelines](https://github.com/MFatihMAR/Awesome-Game-Networking/blob/master/CONTRIBUTING.md)， 谢谢！**
@@ -86,7 +86,7 @@
 -团结
   - [Bouncy Ball Networking](https://materiagame.com/complete-darkrift2-tutorials-for-unity3d-network-games) -使用MateriaGame的DarkRift2制作一个简单的网络弹力球.
   - [Making a Multiplayer FPS](https://www.youtube.com/playlist?list=PLPV2KyIb3jR5PhGqsO7G4PsbEC_Al-kPZ) -AsbjørnThirslund提供的基于UNET的多人FPS游戏开发教程.
-  - [Multiplayer Networking](https://unity3d.com/learn/tutorials/s/multiplayer-networking) -Unity提供的基于UNET的官方多人游戏网络教程.
+  - [Multiplayer and Networking](https://docs.unity3d.com/Manual/UNet.html) -Unity提供的基于UNET的官方多人游戏网络教程.
 
 ## Libraries
 

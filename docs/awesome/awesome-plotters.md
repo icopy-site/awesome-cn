@@ -14,6 +14,7 @@
 - [Line-us](https://www.line-us.com) -可爱的小启动机器人绘图臂.
 - [Makeblock XY Plotter](http://learn.makeblock.com/en/xy-plotter-robot-kit) -可破解的XY绘图仪套件（已停产？）.
 - [Drawing Robot](https://www.thingiverse.com/thing:2349232) -带3d打印的AxiDraw克隆 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行grbl固件.
+- [4xiDraw](https://www.instructables.com/id/4xiDraw/) -另一个3d可打印的AxiDraw克隆，带有 [Arduino CNC Shield](https://blog.protoneer.co.nz/arduino-cnc-shield) 控制器运行grbl固件.
 - [WaterColorBot](https://watercolorbot.com) -XY艺术机器人和软件以水彩颜料作图.
 - [EggBot](https://egg-bot.com) -用于蛋形和球形物体的笔式绘图仪.
 - [HP Pen Plotters](https://www.hpmuseum.net/exhibit.php?class=4&cat=24)  -HPGL标准创建者提供的老式台式和落地式笔式绘图仪.  7475A型非常常见，通常可以在eBay上找到.
