@@ -295,7 +295,7 @@
 * [GitFinder](https://gitfinder.com/)  -具有Finder集成的Mac版快速轻量级Git客户端.  ！[免费软件] [免费软件图标]
 * [GitHub Desktop](https://desktop.github.com/)  -官方GitHub GUI.  [！[免费软件] [免费软件图标]！[开源软件] [OSS图标]]（https://github.com/desktop/desktop）
 * [GitKraken](https://www.gitkraken.com/) -适用于Windows，Mac和Linux的最受欢迎的Git GUI.
-* [GitX-dev](https://rowanj.github.io/gitx/) -的叉子 [Pieter's](https://github.com/pieter/gitx)  OS X的不错的git GUI.包括分支/标签边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
+* [GitX-dev](https://rowanj.github.io/gitx/) -前叉 [Pieter's](https://github.com/pieter/gitx)  OS X的不错的git GUI.包括分支/标签边栏和各种修复程序.  [！[开源软件] [OSS图标]]（https://github.com/rowanj/gitx）！[免费软件] [免费软件图标]
 * [Hub](https://hub.github.com/)  -Git的命令行包装，使您在GitHub上更好.  [！[开源软件] [OSS图标]]（https://github.com/github/hub）！[免费软件] [免费软件图标]
 * [OhMyStar](https://ohmystarapp.com/)  管理，探索和共享您的Github星的美丽而有效的方式.  ！[免费软件] [免费软件图标] [！[应用商店] [应用商店图标]]（https://itunes.apple.com/us/app/ohmystar2/id1218642292）
 * [SmartGit](http://www.syntevo.com/smartgit/) -Git客户支持.
@@ -481,7 +481,7 @@
 * [Riot](https://about.riot.im/)  -创建，共享交流.  安全地聊天和打电话.  [！[开源软件] [OSS图标]！[免费软件] [免费软件图标]]（https://github.com/vector-im）
 * [Signal Desktop](https://signal.org/download/)  -快速，简单，安全.  随身携带的隐私.  [！[开源软件] [OSS图标]]（https://github.com/signalapp/Signal-Desktop）
 * [Skype](https://www.skype.com/)  -提供视频聊天和语音呼叫服务的跨平台应用程序.  用户可以交换图像，文本，视频和任何其他数字文档.
-* [Slack](https://slack.com/)  -团队合作和沟通的绝佳工具.  ！[免费软件] [免费软件图标]
+* [Slack](https://slack.com/downloads/mac)  -团队合作和沟通的绝佳工具.  ！[免费软件] [免费软件图标]
 * [Teambition](https://www.teambition.com)  -团队协作工具，包括许多功能，例如任务计划，计划，文件共享，即时讨论以及与其他团队成员协作时所需的一切.  ！[免费软件] [免费软件图标]
 * [Telegram](https://desktop.telegram.org) -注重速度和安全性的消息传递应用程序.
 * [Textual](https://www.codeux.com/textual)  -Internet中继聊天（IRC）客户端.  [！[开源软件] [OSS图标]]（https://github.com/Codeux-Software/Textual）

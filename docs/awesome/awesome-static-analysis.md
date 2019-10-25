@@ -73,7 +73,7 @@
 
 ## Ada
 
-* [Codepeer](http://www.adacore.com/codepeer) -检测运行时和逻辑错误
+* [Codepeer](http://www.adacore.com/codepeer) - detects run-time and logic errors
 * [Polyspace for Ada](https://www.mathworks.com/products/polyspace-ada.html) ：copyright：-提供代码验证，以证明源代码中不存在溢出，零除，越界数组访问以及某些其他运行时错误.
 * [SPARK](http://www.spark-2014.org/about) ：copyright：-Ada的静态分析和形式验证工具集
 * [Understand](https://scitools.com/ada-programming-essential/) ：copyright：-IDE为Ada和VHDL提供代码分析，标准测试，指标，图形，依赖性分析等.
@@ -150,7 +150,7 @@
 
 ## Elixir
 
-* [credo](https://github.com/rrrene/credo) -静态代码分析工具，专注于代码一致性和教学.
+* [credo](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching.
 * [sobelow](https://github.com/nccgroup/sobelow) -Phoenix框架的安全性静态分析
 
 ## Elm
@@ -171,6 +171,7 @@
 
 ## Go
 
+* [aligncheck](https://gitlab.com/opennota/check) -查找效率低下的打包结构.
 * [deadcode](https://github.com/tsenart/deadcode) -查找未使用的代码.
 * [dingo-hunter](https://github.com/nickng/dingo-hunter) -用于在Go中查找死锁的静态分析器.
 * [dupl](https://github.com/mibk/dupl) -报告可能重复的代码.
@@ -190,7 +191,7 @@
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) -检查丢失或未引用的程序包导入.
 * [GolangCI-Lint](https://github.com/golangci/golangci-lint) -替代“ Go Meta Linter”：GolangCI-Lint是一个Linters聚合器.
 * [golint](https://github.com/golang/lint) -在Go源代码中打印出编码样式错误.
-* [goreporter](https://github.com/wgliang/goreporter) -同时运行许多linter，并将其输出标准化为报告.
+* [goreporter](https://github.com/360EntSecGroup-Skylar/goreporter) -同时运行许多linter，并将其输出标准化为报告.
 * [goroutine-inspect](https://github.com/linuxerwang/goroutine-inspect) -分析Golang goroutine转储的交互式工具.
 * [gosec (gas)](https://github.com/GoASTScanner/gas) -通过扫描Go AST检查源代码是否存在安全问题.
 * [gotype](https://golang.org/x/tools/cmd/gotype) -类似于Go编译器的语法和语义分析.
@@ -198,21 +199,20 @@
 * [interfacer](https://github.com/mvdan/interfacer) -建议使用较窄的接口.
 * [lll](https://github.com/walle/lll) -报告长行.
 * [maligned](https://github.com/mdempsky/maligned) -检测对字段进行排序后会占用较少内存的结构.
-* [megacheck](https://github.com/dominikh/go-tools/tree/master/cmd/megacheck) -运行staticcheck，gosimple和未使用的共享工作.
 * [misspell](https://github.com/client9/misspell) -查找通常拼写错误的英语单词.
 * [nakedret](https://github.com/alexkohler/nakedret) -寻找赤裸裸的回报.
 * [nargs](https://github.com/alexkohler/nargs) -在函数声明中查找未使用的参数.
 * [prealloc](https://github.com/alexkohler/prealloc) -查找可能预先分配的切片声明.
 * [revive](https://github.com/mgechev/revive)  -Go的快速，可配置，可扩展，灵活和美观的Liner.  即插即用更换细丝.
 * [safesql](https://github.com/stripe/safesql) -用于Golang的静态分析工具，可防止SQL注入.
-* [structcheck](https://github.com/opennota/check) -查找未使用的结构字段.
+* [Staticcheck](https://staticcheck.io/)  -Go的一套静态分析工具.  它专注于错误查找，代码简单性，性能和编辑器集成. 
+* [structcheck](https://gitlab.com/opennota/check) -查找未使用的结构字段.
 * [test](http://golang.org/pkg/testing/) -从stdlib测试模块显示测试失败的位置.
-* [testify](https://github.com/stretchr/testify) -显示失败的证词断言的位置.
 * [unconvert](https://github.com/mdempsky/unconvert) -检测冗余类型转换.
 * [unimport](https://github.com/alexkohler/unimport) -查找不必要的导入别名
 * [unparam](https://github.com/mvdan/unparam) -查找未使用的功能参数.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) -查找未使用的变量.
-* [varcheck](https://github.com/opennota/check) -查找未使用的全局变量和常量.
+* [varcheck](https://gitlab.com/opennota/check) -查找未使用的全局变量和常量.
 
 ## Groovy
 
@@ -262,7 +262,7 @@
 * [eslint](https://github.com/eslint/eslint) -完全可插拔的工具，用于识别和报告JavaScript模式
 * [Esprima](https://github.com/jquery/esprima) -ECMAScript解析基础架构，可进行多用途分析
 * [flow](https://flow.org/) -JavaScript的静态类型检查器.
-* [jshint](https://github.com/jshint/jshint) :warning: - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
+* [jshint](https://github.com/jshint/jshint) ：警告：-检测JavaScript代码中的错误和潜在问题，并强制执行您团队的编码约定
 * [JSLint](https://github.com/douglascrockford/JSLint) ：警告：-JavaScript代码质量工具
 * [JSPrime](https://github.com/dpnishant/jsprime) -静态安全分析工具
 * [NodeJSScan](https://github.com/ajinabraham/NodeJsScan) -NodeJsScan是用于Node.js应用程序的静态安全代码扫描程序.
@@ -308,7 +308,7 @@
 * [phan](https://github.com/etsy/phan) -etsy的现代静电分析仪
 * [PHP Assumptions](https://github.com/rskuipers/php-assumptions) -检查弱假设
 * [PHP Coding Standards Fixer](http://cs.sensiolabs.org/) -根据PSR-1，PSR-2和Symfony标准等标准修复代码.
-* [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) -用于PHP的静态代码分析器.
+* [Php Inspections (EA Extended)](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
 * [PHP Refactoring Browser](https://github.com/QafooLabs/php-refactoring-browser) -重构助手
 * [PHP Semantic Versioning Checker](https://github.com/tomzx/php-semver-checker) -根据语义版本建议下一个版本
 * [PHP-Parser](https://github.com/nikic/PHP-Parser) -用PHP编写的PHP解析器
@@ -345,7 +345,7 @@
 * [bellybutton](https://github.com/hchasestevens/bellybutton) -支持自定义项目特定规则的整理引擎
 * [Black](https://github.com/ambv/black) -毫不妥协的Python代码格式化程序
 * [cohesion](https://github.com/mschwager/cohesion) -用于测量Python类内聚力的工具
-* [Dlint](https://github.com/duo-labs/dlint) - a tool for ensuring Python code is secure
+* [Dlint](https://github.com/duo-labs/dlint) -确保Python代码安全的工具
 * [jedi](https://github.com/davidhalter/jedi) -适用于Python的自动完成/静态分析库
 * [linty fresh](https://github.com/lyft/linty_fresh) -解析皮棉错误并将其作为请求请求的注释报告给Github
 * [mccabe](https://github.com/PyCQA/mccabe) -检查McCabe的复杂性
@@ -419,7 +419,7 @@
 
 * [linter](https://github.com/HairyFotr/linter) -Linter是一个Scala静态分析编译器插件，它为各种可能的错误，效率低下和样式问题添加了编译时检查.
 * [Scalastyle](http://www.scalastyle.org) -Scalastyle检查您的Scala代码并指出其潜在问题.
-* [scapegoat](https://github.com/sksamuel/scapegoat) -用于静态代码分析的Scala编译器插件
+* [scapegoat](https://github.com/sksamuel/scapegoat) - Scala compiler plugin for static code analysis
 * [WartRemover](https://github.com/puffnfresh/wartremover) -灵活的Scala代码整理工具.
 * [Xanitizer](https://xanitizer.com/) -Xanitizer在Java / Scala Web应用程序中发现安全漏洞.
 
@@ -562,12 +562,12 @@
 * [CSS Stats](https://github.com/cssstats/cssstats) -样式表上可能有趣的统计信息
 * [CSScomb](https://github.com/csscomb/csscomb.js)  -CSS的编码样式格式化程序.  支持自己的配置，使样式表美观且一致
 * [CSSLint](https://github.com/CSSLint/csslint) -是否进行基本语法检查并发现有问题的模式或效率低下的迹象
-* [GraphMyCSS.com](https://graphmycss.com) - CSS Specificity Graph Generator
+* [GraphMyCSS.com](https://graphmycss.com) -CSS特异性图生成器
 * [Parker](https://github.com/katiefenn/parker) -样式表分析工具
 * [Project Wallace CSS Analyzer](https://github.com/projectwallace/css-analyzer) - Analytics for CSS, part of [Project Wallace](https://www.projectwallace.com)
 * [sass-lint](https://github.com/sasstools/sass-lint) -适用于sass和scss语法的仅节点Sass linter.
 * [scsslint](https://github.com/brigade/scss-lint) -SCSS文件的Linter
-* [Specificity Graph](https://github.com/pocketjoso/specificity-graph) - CSS Specificity Graph Generator
+* [Specificity Graph](https://github.com/pocketjoso/specificity-graph) -CSS特异性图生成器
 * [Stylelint](http://stylelint.io/) -用于SCSS / CSS文件的Linter
 
 ## Gherkin

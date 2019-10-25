@@ -38,7 +38,7 @@
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) -Bootloader /通用OS安装程序，支持VNC和HDMI-CEC.
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) -Raspberry Pi上的CentOS. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
 - [chilipie-kiosk](https://github.com/futurice/chilipie-kiosk) -可直接引导至全屏Chrome的图像，非常适合仪表板和显示器. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
-- [DietPi](https://github.com/Fourdee/DietPi) -最小的图像设计适合2GB SD卡，并带有大量可配置的设置和脚本.
+- [DietPi](https://github.com/Fourdee/DietPi) -设计为可容纳2GB SD卡的最小图像，具有大量可配置的设置和脚本.
 - [DroneBridge](https://github.com/seeul8er/DroneBridge) -WifiBroadcast扩展程序，可以替代DJI Lightbridge和其他类似系统. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
 - [EZ-WifiBroadcast](https://github.com/bortek/EZ-WifiBroadcast/wiki) -负担得起的无线数字高清视频传输变得容易. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [FabScanPi](https://mariolukas.github.io/FabScanPi-Server/) -FabScanPi是使用Raspberry Pi摄像头模块的开源3D激光扫描仪. ![Supports Raspberry Pi 2+](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-2+.png)
@@ -68,7 +68,7 @@
 - [PiDeck](http://pideck.com/) -小型DVS系统，可让您使用时间码乙烯基控制数字音乐文件.
 - [PiNet](http://pinet.org.uk/) -管理Raspberry Pi教室的系统.
 - [PirateBox](https://piratebox.cc/doku.php?id=raspberry_pi:diy) -匿名离线移动文件共享和通信系统.
-- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) -官方支持的基于Debian的Raspberry Pi OS，可作为精简版提供.
+- [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) -官方受支持的基于Debian的Raspberry Pi OS，可作为精简版提供.
 - [RasPlex](http://www.rasplex.com/) -Raspberry Pi的Plex客户端.
 - [Recalbox](https://www.recalbox.com) -在Raspberry Pi上拖放轻型复古游戏和媒体中心.
 - [RetroPie](https://retropie.org.uk/) -在Raspberry Pi上进行复古游戏.
@@ -102,7 +102,7 @@
 - [PiShrink](https://github.com/Drewsif/PiShrink/) -Bash脚本，该脚本会自动缩小pi映像，然后将其大小调整为启动时SD卡的最大大小.
 - [PoisonTap](https://github.com/samyk/poisontap) -通过USB利用锁定/受密码保护的计算机，丢弃基于WebSocket的持久后门，公开内部路由器，并使用Raspberry Pi Zero和Node.js虹吸cookie. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Processing](https://pi.processing.org/get-started/) -在Raspberry Pi上运行的处理开发环境.
-- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) -Pwnagotchi是一种基于AI的Wi-Fi破解工具，可从其周围的WiFi环境中学习，以最大程度地捕获其捕获的可破解WPA密钥材料.
+- [Pwnagotchi](https://github.com/evilsocket/pwnagotchi) -Pwnagotchi是一种基于AI的Wi-Fi破解工具，可从其周围的WiFi环境中学习，以最大程度地捕获捕获的WPA关键材料.
 - [RaspAP-webgui](https://github.com/billz/raspap-webgui) -一个简单的响应式Web界面，可控制Raspberry Pi上的wifi，hostapd和相关服务.
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/)  -简单的工具，可以在Raspbian上启动QEMU，并在系统和内核上进行了必要的修改.  自动网络访问.  方便在PC中创建图像.
 - [Resin Bridge](https://github.com/resin-io-playground/resin-bridge) -简单的应用程序/存储库，可将Raspberry Pi的wlan0接口桥接到通过以太网（eth0）插入其中的设备.
@@ -145,9 +145,11 @@
 - [Pi-hole](https://pi-hole.net/) -互联网广告的黑洞.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) -Rclone远程存储服务等提供的远程无头多功能PiCamera操作.
 - [Pi4j Project](http://pi4j.com) -Raspberry Pi的Java I / O库.
+- [PiAware](https://uk.flightaware.com/adsb/piaware/install) -使用Raspberry Pi进行实时飞行跟踪.
 - [PiClock](https://github.com/n0bel/PiClock) -花式时钟围绕显示器和Raspberry Pi构建.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) -在Pi Zero上运行的电子墨水名称标签显示. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [PiFanTuner](https://github.com/winkidney/PIFanTuner) -CPU-fan-tuner守护程序，仅在必要时启用您的风扇. ![Supports Raspberry Pi 3](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-3.png)
+- [PiFmRds](https://github.com/ChristopheJacquet/PiFmRds) -使用Raspberry Pi的FM-RDS发射机.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) -使用Raspberry PI + EAN扫描器临时制作Amazon Dash订单.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) -在Resin上托管的Node.js Slackbot（午餐机器人）.
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) -封闭在配电盘中，嗅探网络数据.
@@ -173,7 +175,7 @@
 - [Waves](https://github.com/euniceylee/waves) -通过麦克风，波形和热敏打印机将口语的瞬态转换为具体的物理内容.
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) -使用Hifiberry DAC进行交互式soundart安装.
 - [Wordpress using Docker](https://github.com/rothgar/rpi-wordpress) -在具有动态DNS的容器中运行Wordpress网站.
-- [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) -基于声音的声音识别的家庭自动化，在ocarina上演奏.
+- [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) -基于声音的音符识别的家庭自动化，在ocarina上演奏.
 
 ## Resources
 
@@ -214,7 +216,7 @@
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) -如何以35美元的价格构建Raspberry Pi Retro游戏机.
 - [Raspberry Pi login with SSH keys](https://thibmaek.com/post/raspberry-pi-login-with-ssh-keys) -在Raspberry Pi上以无密码的方式登录ssh会话.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) -HTPC指南中的Media Server和NAS教程.
-- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) -通过USB电缆引导和访问Raspberry Pi Zero的指南，而无需以太网/ WiFi连接，键盘或屏幕. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
+- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) -通过USB电缆引导和访问Raspberry Pi Zero的指南，无需以太网/ WiFi连接，键盘或屏幕. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) -设置Plex媒体服务器以流式传输所有媒体内容的初学者指南.
 - [Turn the Raspberry Pi Zero into a mini dongle computer](https://n-o-d-e.net/pi_zero_dongle.html) -设置pi0，使其能够通过USB进行ssh和vnc. ![Supports Raspberry Pi Zero](https://raw.githubusercontent.com/thibmaek/awesome-raspberry-pi/master//media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) -有关在多个网络上使用Raspberry Pi的教程.
@@ -224,7 +226,7 @@
 - [BuildSwiftOnARM](https://github.com/uraimo/buildSwiftOnARM) -在RaspberryPi或其他ARM板上构建Swift所需的一切，已更新为Swift 4.1.3.
 - [Compile Swift for Raspberry Pi by Xcode](https://swiftreviewer.com/2018/12/25/compile-swift-for-raspberry-pi-by-xcode/) -快速教程，分享帮助您设置使用Xcode编译Raspberry Pi代码的方法.
 - [Setup Swift environment on Raspbian](https://swiftreviewer.com/2018/12/21/swift-programming-on-raspberry-pi-part-2-3/) -帮助在Raspbian Strech（精简版）上设置Swift环境的快速指南.
-- [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) -用于Linux / ARM板上硬件项目的Swift库，支持GPIO / SPI / I2C / PWM / UART / 1Wire.
+- [SwiftyGPIO](https://github.com/uraimo/SwiftyGPIO) -用于Linux / ARM板上硬件项目的Swift库，支持GPIOs / SPI / I2C / PWM / UART / 1Wire.
 - [Swish](https://github.com/thomaspaulmann/Swish) -在Xcode内的远程计算机上构建Swift项目.
 
 ## Community

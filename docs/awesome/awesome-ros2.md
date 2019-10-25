@@ -49,7 +49,7 @@
 
 ### Penetration testing
 
-- [aztarna](https://github.com/aliasrobotics/aztarna) -机器人的足迹工具.
+- [aztarna](https://github.com/aliasrobotics/aztarna) - A footprinting tool for robots.
 - [ros2_fuzzer](https://github.com/aliasrobotics/ros2_fuzzer) -ROS2主题和服务模糊器.
 
 ### Application layer
@@ -76,7 +76,7 @@
 - [apriltag_ros](https://github.com/christianrauch/apriltag_ros) -用于AprilTag检测的ROS2节点. ![apriltag_ros](https://img.shields.io/github/stars/christianrauch/apriltag_ros.svg)
 - [ros2-web-bridge](https://github.com/RobotWebTools/ros2-web-bridge) -将浏览器桥接到ROS 2.0. ![ros2-web-bridge](https://img.shields.io/github/stars/RobotWebTools/ros2-web-bridge.svg)
 - [ros2_message_filters](https://github.com/intel/ros2_message_filters) -ros2_message_filters根据过滤器需要满足的条件来混合各种消息，并从ROS message_filters的ROS2移植获得. ![ros2_message_filters](https://img.shields.io/github/stars/intel/ros2_message_filters.svg)
-- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) - ROS2 nodes for computer vision tasks in Tensorflow. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
+- [ros2-tensorflow](https://github.com/alsora/ros2-tensorflow) -Tensorflow中用于计算机视觉任务的ROS2节点. ![ros2-tensorflow](https://img.shields.io/github/stars/alsora/ros2-tensorflow.svg)
 - [ros2_pytorch](https://github.com/klintan/ros2_pytorch) -PyTorch中用于计算机视觉任务的ROS2节点 ![ros2_pytorch](https://img.shields.io/github/stars/klintan/ros2_pytorch.svg).
 - [pid](https://github.com/UTNuclearRoboticsPublic/pid) -ROS2的PID控制器. ![pid](https://img.shields.io/github/stars/UTNuclearRoboticsPublic/pid.svg)
 - [system-modes](https://github.com/micro-ROS/system_modes) -ROS 2和micro ROS的系统模式.
@@ -117,7 +117,7 @@
 - [lino2_upper](https://github.com/linorobot2/lino2_upper) -在ROS2上使用Linorobot. ![lino2_upper](https://img.shields.io/github/stars/linorobot2/lino2_upper.svg)
 - [RysROS2](https://github.com/GroupOfRobots/RysROS2) -用于MiniRys机器人的ROS2软件堆栈. ![RysROS2](https://img.shields.io/github/stars/GroupOfRobots/RysROS2.svg)
 - [px4_to_ros](https://github.com/eProsima/px4_to_ros) -ROS2 / ROS软件包，用于与ROS通信PX4. ![px4_to_ros](https://img.shields.io/github/stars/eProsima/px4_to_ros.svg)
-- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) - ROS2 Node for MultiWii and Cleanflight flight controllers. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
+- [multiwii_ros2](https://github.com/christianrauch/multiwii_ros2) -MultiWii和Cleanflight飞行控制器的ROS2节点. ![multiwii_ros2](https://img.shields.io/github/stars/christianrauch/multiwii_ros2.svg)
 - [ydlidar_ros2](https://github.com/Adlink-ROS/ydlidar_ros2) -ydlidar的ROS2包装器. ![ydlidar_ros2](https://img.shields.io/github/stars/Adlink-ROS/ydlidar_ros2.svg)
 - [zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) -ZED SDK的ROS 2包装测试版.
 - [ros2_denso_radar](https://github.com/klintan/ros2_denso_radar) -Toyota / Lexus 2015-2017 Denso Radar ROS2驱动程序.
@@ -343,6 +343,18 @@ DDS安全性.
 - [Eprosima](https://www.eprosima.com/) -《中间件专家》.
 - [MathWorks](https://de.mathworks.com/help/ros/index.html) -ROS工具箱.
 - [Rover Robotics](https://roverrobotics.com/) -坚固的工业级机器人.
+
+## Working Groups
+
+-导航工作组
+  - [Discourse threads tagged "wg-navigation"](https://discourse.ros.org/tags/wg-navigation)
+-安全工作组
+  - [Safety Working Group Landing Page](http://www.ros2.org/safety_working_group/)
+  - [Safety Design Pattern Catalogue](http://www.ros2.org/safety_working_group/safety_patterns_catalogue.html)
+-安全工作组
+  - [Discourse threads tagged "wg-security"](https://discourse.ros.org/tags/wg-security)
+- Technical Steering Committee
+  - [Discourse threads tagged "tsc"](https://discourse.ros.org/tags/tsc)
 
 ## License
 

@@ -57,6 +57,7 @@
 - [Composer-Cleanup-Plugin](https://github.com/barryvdh/composer-cleanup-plugin) -从供应商目录中删除测试和文档文件夹.
 - [Composer-Cleaner](https://github.com/dg/composer-cleaner) -该工具可从供应商目录中删除不必要的文件和目录.
 - [Composer-Ignore-Plugin](https://github.com/lichunqiang/composer-ignore-plugin)  -使您能够从供应商文件夹中删除文件和文件夹（以进行更清洁，更小规模的生产部署）.  它是`.gitattributes`的替代.
+- [Drupal Vendor Hardening Composer Plugin](https://github.com/drupal/core-vendor-hardening) -从项目的供应商目录中删除无关的目录，并将.htaccess和web.config文件添加到项目的供应商目录的根目录中.
 - [Composer-Shared-Package-Plugin](https://github.com/Letudiant/composer-shared-package-plugin) -允许您通过创建符号链接在项目之间共享选定的包.
 - [Composer-Symlinker](https://github.com/dg/composer-symlinker) -使您能够从不同目录加载软件包（而不是从/ vendor加载软件包）.
 - [Prestissimo](https://github.com/hirak/prestissimo) -使用`phpext_curl`的并行下载器.
@@ -73,7 +74,7 @@
 - [PHPCodeSniffer-Composer-Installer](https://github.com/DealerDirect/phpcodesniffer-composer-installer) -该插件可让您安装 [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) 编码标准（规则）.
 - [Composer-Warmup](https://github.com/jderusse/composer-warmup) -该插件将命令“ warmup-opcode”添加到Composer，这会触发将在项目中发现的所有PHP文件编译到Opcache中.
 - [Foxy](https://github.com/fxpio/foxy) -在安装或更新composer软件包时，执行npm / yarn软件包安装操作的Composer插件.
-- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) -下载并安装NodeJS和npm作为作曲家软件包. 
+- [NodeJS-Installer](https://github.com/thecodingmachine/nodejs-installer) -下载并安装NodeJS和npm作为作曲家软件包.
 - [Imposter-Plugin](https://github.com/typisttech/imposter-plugin)  -将所有Composer供应商软件包包装在您自己的名称空间中.  适用于WordPress插件.
 - [Composer Preload](https://github.com/Ayesh/Composer-Preload) -该插件会生成一个“ vendor / preload.php”文件来预热Opcache.
 - [PHP Inc](https://github.com/krakphp/php-inc) -自动包含用于autoload和autoload-dev的文件，以便于在composer加载的应用程序中使用函数和分组定义.
@@ -81,6 +82,7 @@
 - [Production-Dependencies-Guard](https://github.com/kalessil/production-dependencies-guard) -防止将开发包添加到需求中并进入生产环境.
 - [Composer Exclusive Install](https://github.com/erickskrauch/composer-exclusive-install) -一次阻止多个安装或更新操作.
 - [Composer-Downloads-Plugin](https://github.com/civicrm/composer-downloads-plugin) -轻量级的机制，仅通过“ url”和“ path”下载外部资源（ZI​​P / TAR文件）.
+- [Private-Composer-Installer](https://github.com/ffraenz/private-composer-installer) -安装帮助程序，将敏感密钥从程序包URL外包到环境变量中.
 
 ## Tools
 
@@ -106,7 +108,7 @@
 - [PhantomJS-Installer](https://github.com/jakoch/phantomjs-installer)-一个Composer软件包，可将PhantomJS二进制文件（Linux，Windows，Mac）安装到项目的/ bin中.
 - [Composer-Vendor-Cleanup](https://github.com/0xch/composer-vendor-cleanup)-从供应商目录中删除列入白名单的不必要文件（例​​如测试/文档等）的脚本
 
-## GUI 
+## GUI
 
 - [Composercat](https://www.getcomposercat.com/) -Composercat是Composer软件包管理器的综合GUI，专为专业人士和开始使用Composer的人员而设计.
 
@@ -150,7 +152,7 @@
 
 ## Slides
 
--Nils Adermann的幻灯片 
+-Nils Adermann的幻灯片
   -来源：http：//www.naderman.de/slippy/slides/
   - [PHP Reinvented - How Composer helped shape the new way of writing PHP](http://www.naderman.de/slippy/src/?file=2014-04-13-PHP-Reinvented.html)
   - [Composer Update](http://www.naderman.de/slippy/src/?file=2015-02-03-Composer-Update.html)
@@ -182,7 +184,7 @@
 
 [Packagist](https://packagist.org) 是PHP软件包存储库.
 
-### Setup a Packagist Mirror 
+### Setup a Packagist Mirror
 
 - [Packagist Mirror](https://github.com/Webysther/packagist-mirror)  -此脚本有助于设置打包镜像.  它是的维护和稳定版本 [Packagist Crawler](https://github.com/hirak/packagist-crawler).
 - [Docker Image](https://github.com/Webysther/packagist-mirror-docker) -此Docker映像有助于创建自定义的packagist镜像.

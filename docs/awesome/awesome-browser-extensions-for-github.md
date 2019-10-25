@@ -490,6 +490,15 @@ Chrome扩展程序可优化GitHub以处理大型请求.
  
 </details>
 
+
+帮助您跟踪传入和传出的PR，并在GitHub上收到拉取请求时通知您.
+
+<details><summary>Screenshots</summary>
+
+ ![PR Monitor demo](https://github.com/fwouts/prmonitor/raw/master/screencasts/latest.gif)
+ 
+</details>
+
 ## Repository
 
 

@@ -126,7 +126,7 @@
 * [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) -Michael Genesereth，Eric Kao（斯坦福大学）
 * [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) -PD Magnus（奥尔巴尼大学）
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) -Stefan Bilaniuk（特伦特大学）
-* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（Jon Barwise），约翰·埃特肯迪（John Etchemendy）
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) -乔恩·巴里斯（John J.
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) -Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) -斯蒂芬·辛普森（宾夕法尼亚州立大学）
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) -米格尔·帕洛米诺
@@ -392,6 +392,7 @@ see [podcasts](https://github.com/ligurio/awesome-software-quality/blob/master/p
 - [Awesome Selenium](https://github.com/christian-bromann/awesome-selenium)
 - [Awesome Tsung](https://github.com/aliesbelik/awesome-tsung)
 - [Awesome JMeter](https://github.com/aliesbelik/awesome-jmeter)
+- [UI Automation Tools](https://github.com/pywinauto/pywinauto/wiki/UI-Automation-tools-ratings)
 
 ### License
 

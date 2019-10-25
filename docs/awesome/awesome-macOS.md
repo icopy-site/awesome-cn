@@ -16,6 +16,7 @@
 ### Audio
 
 - [Audio Hijack](http://www.rogueamoeba.com/audiohijack/) -从任何应用程序（如iTunes，Skype或Safari）或从硬件设备（如麦克风和混音器）录制音频.
+- [Audio Profile Manager](https://apps.apple.com/us/app/audio-profile-manager/id1484150558?ls=1&mt=12)  -允许您为连接的设备的每种特定组合固定输入/输出设备.  可能会抑制选择HDMI显示.
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic)  -记录系统音频，控制单个应用程序的音频级别，并在其他音频开始播放时自动暂停音乐播放器，然后将其取消暂停.  [！[开源软件] [OSS图标]]（https://github.com/kyleneideck/BackgroundMusic）！[免费软件] [免费软件图标]
 - [VOX Player](https://coppertino.com/vox/mac) -播放多种有损和无损音频格式.
 - [XLD](http://tmkk.undo.jp/xld/index_e.html)  -翻录/解码/转换/播放各种“无损”音频文件.  [！[开源软件] [OSS图标]]（https://code.google.com/archive/p/xld/source）！[免费软件] [免费软件图标]
@@ -58,7 +59,7 @@
 - [Kaleidoscope](http://www.kaleidoscopeapp.com/) -强大的差异和合并应用程序，支持文本，图像和文件夹.
 - [Knuff](https://github.com/KnuffApp/Knuff)  -Apple推送通知服务（APN）的调试应用程序.  [！[开源软件] [OSS图标]]（https://github.com/KnuffApp/Knuff）！[免费软件] [免费软件图标]
 - [Paw](https://luckymarmot.com/paw) -最终的REST客户端.
-- [Pods Updater](https://github.com/kizitonwose/PodsUpdater) - A macOS app which helps you manage dependency releases in your Podfile. [![Open-Source Software][OSS Icon]](https://github.com/kizitonwose/PodsUpdater) ![Freeware][Freeware Icon]
+- [Pods Updater](https://github.com/kizitonwose/PodsUpdater)  -一个macOS应用程序，可帮助您管理Podfile中的依赖项版本.  [！[开源软件] [OSS图标]]（https://github.com/kizitonwose/PodsUpdater）！[免费软件] [免费软件图标]
 - [Postico](https://eggerapps.at/postico/) -现代PostgreSQL客户端.
 - [Postgres.app](http://postgresapp.com/)  -PostgreSQL入门的最简单方法.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
 - [Pusher](https://github.com/noodlewerk/NWPusher)  -做沙盒推送通知的免费工具.  [！[开源软件] [OSS图标]]（https://github.com/PostgresApp/PostgresApp）！[免费软件] [免费软件图标]
@@ -158,6 +159,7 @@
 - [HazeOver](https://hazeover.com/) -降低注意力，专注于当前任务.
 - [HyperDock](https://bahoom.com/hyperdock/) -选择单个应用程序窗口.
 - [Instant Translate](https://insttranslate.com/mac) -通过菜单栏在100多种语言之间翻译语音和文本.
+- [ItsyCal](https://www.mowglii.com/itsycal/)  -一个小的菜单栏日历，显示您的Mac Calendar应用程序事件.  [！[开源软件] [OSS图标]]（https://github.com/sfsam/Itsycal）！[免费软件] [免费软件图标]
 - [Karabiner](https://pqrs.org/osx/karabiner/)  -强大的键盘定制器.  [！[开源软件] [OSS图标]]（https://github.com/tekezo/Karabiner）！[免费软件] [免费软件图标]
 - [Keyboard Maestro](http://www.keyboardmaestro.com) -根据来自键盘，菜单，位置，添加的设备等的触发器自动执行常规操作.
 - [Keytty](http://keytty.com)  -使您可以通过几个按键来控制鼠标.  鼠标键替代.
@@ -181,7 +183,7 @@
 ### Sharing Files
 
 - [CloudApp](https://www.getcloudapp.com/) -立即捕获并共享文件和屏幕截图.
-- [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906)  -实时文件共享应用程序，支持即时共享代码/ Markdown，注释屏幕截图，屏幕录制和语音录制.  ！[免费软件] [免费软件图标]
+- [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur)  -将图像和屏幕截图上传到Imgur.  [！[开源软件] [OSS图标]]（https://github.com/mileswd/mac2imgur）！[免费软件] [免费软件图标]
 - [Monosnap](https://monosnap.com) -注释并上传图像和屏幕截图，支持许多后端，例如S3，SFTP，WebDAV，Dropbox等.[免费软件] [免费软件图标]
 - [Transmission](https://www.transmissionbt.com/)  -简单，轻巧，多平台的torrent客户端.  [！[开源软件] [OSS图标]]（https://github.com/transmission/transmission）！[免费软件] [免费软件图标]
@@ -219,7 +221,7 @@
 - [Finicky](https://johnste.github.io/finicky/)  -允许您设置规则的应用程序，该规则决定为每个链接打开哪个浏览器.  [！[开源软件] [OSS图标]]（https://github.com/johnste/finicky）！[免费软件] [免费软件图标]
 - [Flotato](https://flotato.com/) -使用任何网站作为精美的Mac应用程序.
 - [Fluid](http://fluidapp.com/) -将Web应用程序转换为Mac应用程序.
-- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监控MacBook Pro上集成的和离散的GPU并在它们之间切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
+- [gfxCardStatus](https://gfx.io/)  -菜单栏应用程序，用于监视MacBook Pro上的集成GPU和离散GPU并在其中切换.  [！[开源软件] [OSS图标]]（https://github.com/codykrieger/gfxCardStatus）！[免费软件] [免费软件图标]
 - [Gray](https://github.com/zenangst/Gray)  -只需按一下按钮，即可在每个应用程序的亮色和暗色之间进行选择.  [！[开源软件] [OSS图标]]（https://github.com/zenangst/Gray）！[免费软件] [免费软件图标]
 - [Helium](http://heliumfloats.com/)  -浮动的浏览器窗口，可让您在工作时观看媒体.  [！[开源软件] [OSS图标]]（https://github.com/JadenGeller/Helium）！[免费软件] [免费软件图标]
 - [Irvue](http://irvue.tumblr.com)  -Mac上成千上万的Unsplash精美照片和壁纸.  [！[开源软件] [OSS图标]]（https://github.com/leonspok/Irvue-Screensaver）！[免费软件] [免费软件图标]
@@ -238,7 +240,7 @@
 - [Menubar Colors](https://github.com/nvzqz/Menubar-Colors)  -方便地访问系统颜色面板.  [！[开源软件] [OSS图标]]（https://github.com/nvzqz/Menubar-Colors）！[免费软件] [免费软件图标]
 - [MenuMeters](http://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/)  -用于macOS的一组CPU，内存，磁盘和网络监视工具.  [！[开源软件] [OSS图标]]（https://github.com/yujitach/MenuMeters）
 - [Monodraw](http://monodraw.helftone.com/) -强大的ASCII艺术编辑器.
-- [Mounty](http://enjoygineering.com/mounty/) -一个微型工具，可在读写模式下在macOS 10.9+下重新装入受写保护的NTFS卷.
+- [Mounty](http://enjoygineering.com/mounty/) -一个微型工具，可在读写模式下在macOS 10.9+下重新装载受写保护的NTFS卷.
 - [Noizio](http://noiz.io/) -环境声音均衡器，可放松或提高生产率.
 - [Notational Velocity](http://notational.net/)  -在最小的GUI中存储，检索和同步笔记.  [！[开源软件] [OSS图标]]（https://github.com/scrod/nv/）！[免费软件] [免费软件图标]
 - [Noti](https://noti.center/)  -在Mac上（通过PushBullet）接收Android通知.  [！[开源软件] [OSS图标]]（https://github.com/jariz/Noti/）！[免费软件] [免费软件图标]
@@ -251,7 +253,7 @@
 - [Site Sucker](http://ricks-apps.com/osx/sitesucker/) -从Internet自动下载网站.
 - [ShiftIt](https://github.com/fikovnik/ShiftIt)  -管理窗口的大小和位置.  [！[开源软件] [OSS图标]]（https://github.com/fikovnik/ShiftIt）！[免费软件] [免费软件图标]
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -防止意外的Cmd-Q.  [！[开源软件] [OSS图标]]（https://github.com/dteoh/SlowQuitApps）！[免费软件] [免费软件图标]
-- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，这样，当意外激活该键时，即使您不想启动，您也可以大声喊叫，您只需选择大吼大叫的文本，然后再次按下该键即可立即修复其大小写，而不用键入一切都重新开始.
+- [SmartCapsLock](https://kishanbagaria.com/smartcapslock/) -使Caps Lock键更智能，因此当意外激活键时，即使您不愿意也开始大喊，您只需选择大喊大叫的文本，然后再次按该键即可立即修复其大小写，而不用键入一切都重新开始.
 - [Soulver](http://www.acqualia.com/soulver/) -美丽的表现力计算器.
 - [SSH Tunnel](https://codinn.com/products/ssh-tunnel/) -管理您的SSH隧道，与macOS钥匙串紧密集成，安全且直观.
 - [TeamViewer](https://www.teamviewer.com/en-us/index.aspx) -远程控制另一台计算机.
@@ -426,6 +428,6 @@ Ansible剧本，用于从全新的macOS安装中配置开发和桌面环境.
 
 这项工作是根据 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
-[chitchat]: https://github.com/stonesam92/ChitChat
-[OSS图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
+[chitchat]：https：//github.com/stonesam92/ChitChat
+[OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [免费软件图标]：https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg

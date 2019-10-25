@@ -71,7 +71,7 @@
 - [Hexo](https://hexo.io) -由Node.js提供支持的快速，简单且功能强大的博客框架.
 - [Metalsmith](https://metalsmith.io) -非常简单，可插入的静态站点生成器.
 - [Phenomic](https://phenomic.io/) -模块化网站编译器.
-- [Gridsome](https://gridsome.org/) -由Vue提供支持的静态网站生成器，用于为任何Headless CMS，API或Markdown文件构建可用于CDN的网站.
+- [Gridsome](https://gridsome.org/) -Vue提供支持的静态站点生成器，用于为任何Headless CMS，API或Markdown文件构建CDN就绪的网站.
 - [Nuxt.js](https://nuxtjs.org/) -适用于服务器端渲染的静态和传统单页应用程序的基于vue的通用框架.
 - [eleventy](https://www.11ty.io/) -更简单的静态网站生成器，可将各种模板文件转换为HTML.
 - [Nift](https://nift.cc) -用C ++开发的跨平台开源网站生成器，快速，功能强大.
@@ -96,6 +96,7 @@
 - [HeadlessCMS](https://headlesscms.org/) -JAMstack站点的内容管理系统列表.
 - [TakeShape](https://www.takeshape.io/) -一键式无头GraphQL API CMS部署到Netlify.
 - [Ghost](https://ghost.org/) -用于在线出版物的无头CMS
+- [Strapi](https://strapi.io) -开源Headless CMS前端开发人员喜欢.
 
 ## API
 
@@ -108,7 +109,7 @@
 
 - [Disqus](https://disqus.com) -全球评论系统，可改善网站上的讨论并通过网络连接对话.
 - [Facebook Comments](https://developers.facebook.com/docs/plugins/comments) -评论插件可让人们使用其Facebook帐户对您网站上的内容发表评论.
-- [Utterances](https://utteranc.es/) - A lightweight comments widget built on GitHub issues. Use GitHub issues for blog comments, wiki pages and more.
+- [Utterances](https://utteranc.es/)  -一个基于GitHub问题的轻量级注释小部件.  将GitHub问题用于博客评论，Wiki页面等.
 
 ### Forms
 
@@ -122,12 +123,13 @@
 - [Snipcart](https://snipcart.com/) -面向开发人员的强大购物车平台.
 - [Moltin](https://moltin.com/) -开发人员的电子商务API.
 - [Trolley](https://trolley.link) -专为JAMstack设计的购物车.
+- [Shopify](https://www.shopify.co.uk/plus/solutions/headless-commerce) -Shopify无头电子商务解决方案.
 
 ### Search
 
 - [Algolia](https://www.algolia.com/) -建立企业搜索最可靠的平台.
 - [Lunr](https://lunrjs.com/) -搜索变得简单（在前端）.
-- [CloudSh](https://cloudsh.com/) -使用几行JavaScript进行强大的搜索.
+- [CloudSh](https://cloudsh.com/) - Powerful search with a few lines of JavaScript.
 
 ### Database
 
@@ -159,7 +161,7 @@
   - [BigQuery](https://cloud.google.com/bigquery/) -无服务器数据仓库服务，可帮助您为企业部署高级云数据仓库解决方案.
   - [Cloud ML Engine](https://cloud.google.com/ml-engine/) -无服务器的机器学习服务，可在自定义Google硬件（张量处理单元）上自动扩展.
 - [Serverless](https://serverless.com/) -用于部署和操作无服务器架构的工具包.
-- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，以简化管理媒体，CDN，存储，转换等的工作.
+- [Cloudinary](https://cloudinary.com/)  -无服务器媒体（图像/视频）管理平台.  为JAMstack提供每种流行语言和媒体窗口小部件的SDK，从而轻松管理媒体，CDN，存储，转换等.
 
 *有关更完整的列表，请参阅 [Awesome Serverless](https://github.com/pmuens/awesome-serverless).*
 
@@ -172,6 +174,7 @@
 - [JAMstack Tutorial - Full site using Netlify & Hugo](https://www.youtube.com/watch?v=NSts93C9UeE) - freeCodeCamp.org.
 - [Gatsby JS Crash Course](https://www.youtube.com/watch?v=6YhqQ2ZW1sc) -遍历媒体.
 - [How We Got Here and The Future of the Web](https://www.gatsbyjs.com/gatsby-days-keynote-kyle/) -凯尔·马修斯（Kyle Mathews）.
+- [Talks from all the JAMstack Conferences](https://www.youtube.com/channel/UC8bRyfU7ycLXnEBfvdorpUg/videos) -JAMstack Conf.
 
 ## Tutorials / Articles
 

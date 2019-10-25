@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要面向初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为编码的艺术品.
+ 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -19,10 +19,10 @@
 
 ## Books
 
-- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) - Practical guide using Processing.
+- [Generative Art: A Practical Guide](http://zenbullets.com/book.php) -使用处理的实用指南.
 - [Generative Design](http://www.generative-gestaltung.de/) -可视化，编程和创建处理.
 - [The Nature of Code](http://natureofcode.com/) -通过处理模拟自然系统.
-- [Programming Design Systems](https://programmingdesignsystems.com/) - Practical introduction to the new foundations of graphic design.
+- [Programming Design Systems](https://programmingdesignsystems.com/) -实用的图形设计新基础介绍.
 - [Learning Modern 3D Graphics Programming](https://paroj.github.io/gltut/) -有关使用OpenGL进行图形渲染的一系列教程.
 - [Programming Interactivity](http://shop.oreilly.com/product/9780596154158.do) -处理，Arduino和openFrameworks设计指南.
 - [openFrameworks Essentials](https://www.packtpub.com/application-development/openframeworks-essentials) -适用于程序员，视觉艺术家或设计师的openFrameworks初学者指南.
@@ -73,7 +73,7 @@
 - [Interactive Data Visualization with Processing](https://www.lynda.com/Processing-tutorials/Interactive-Data-Visualization-Processing/97578-2.html) -了解如何使用Processing阅读，映射和说明数据.
 - [Programming Data Visualizations: A Coding Toolkit for Processing](https://www.skillshare.com/classes/Programming-Data-Visualizations-A-Coding-Toolkit-for-Processing/1782124914) -加入Processing领域的信息设计师Nicholas Felton.
 - [Introduction to Data Visualization](https://www.skillshare.com/classes/Introduction-to-Data-Visualization-From-Data-to-Design/1435958330) -加入Nicholas Felton，获取有关数据可视化的智能，全面且启发性的介绍.
-- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) -与约书亚·戴维斯（Joshua Davis）一起学习生成艺术和艺术处理.
+- [Programming Graphics I](https://www.skillshare.com/classes/Programming-Graphics-I-Introduction-to-Generative-Art/782118657), [2](https://www.skillshare.com/classes/Programming-Graphics-II-Generative-Art-Animation/388564917), [3](https://www.skillshare.com/classes/Programming-Graphics-III-Painting-with-Sound/738981508?) - Learn generative art and Processing with art with Joshua Davis.
 - [Creative Coding with Canvas & WebGL](https://frontendmasters.com/courses/canvas-webgl/)  -Matt DesLauriers的工作坊.  教您有关生成艺术，交互式动画，3D图形和着色器的知识.
 
 
@@ -87,7 +87,7 @@
 - [C4](http://www.c4ios.com) [iOS]-适用于iOS的开源广告素材编码框架.
 - [Unity](https://unity3d.com/) [Mac，Win]-游戏引擎，但对创意编码和安装很有用.
 - [PlayCanvas](https://playcanvas.com/) [跨平台]-开源，实时协作WebGL引擎.
-- [hg_sdf](http://mercury.sexy/hg_sdf/) [Cross-platform] - GLSL library for building signed distance functions.
+- [hg_sdf](http://mercury.sexy/hg_sdf/) [跨平台]-用于构建带符号距离函数的GLSL库.
 - [HYPE](http://www.hypeframework.org/) [跨平台]-HYPE_processing是一组类的集合，这些类在执行最繁琐的工作的同时，使用最少的代码编写量.
 - [nannou](http://nannou.cc/)
 [跨平台]-Rust语言的开源创意编码框架
@@ -120,6 +120,7 @@
 - [TidalCycles](https://tidalcycles.org/) -用于模式实时编码的领域特定语言.
 - [Sonic Pi](http://sonic-pi.net/) -每个人的现场编码音乐合成器.
 - [Csound](https://csound.com/) -声音和音乐计算系统.
+- [Orca](https://100r.co/pages/orca.html) -实时编码环境，可快速创建过程定序器.
 
 ### Web Programming • Libraries
 
@@ -153,6 +154,8 @@
 - [Resolume](https://resolume.com/) [Mac，Win]-实时混合数字视频和效果.
 - [CoGe VJ](http://imimot.com/cogevj/) [Mac]-VJ软件，用于通过模块化用户界面进行实时高清视频混合和合成.
 - [VirtualMapper](https://github.com/baku89/VirtualMapper) -用于投影映射的实时预览工具.
+- [Millumin](https://www.millumin.com/v3/index.php) [Mac]-用于创建和执行交互式视听节目的软件.
+- [Smode](https://smode.fr/) [Win]-实时2D / 3D创建，合成和视频映射引擎.
 
 ### Online
 
@@ -227,7 +230,7 @@
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
-- [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
+- [How We Do This Shit](http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
 - [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
@@ -288,7 +291,7 @@
 
 #### Canvas
 
-- [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) -关于canvas API的深刻介绍.
+- [HTML Canvas Deep Dive](http://joshondesign.com/p/books/canvasdeepdive/toc.html) - Profound introduction to the canvas API.
 - [31 days of Canvas tutorials](http://creativejs.com/2011/08/31-days-of-canvas-tutorials/) -Seb Lee-Delisle的画布教程合集.
 
 #### Hardware
@@ -373,6 +376,7 @@
 - [realtimevfx.com](https://realtimevfx.com/) -实时VFX社区.
 - [Data Stories](http://datastori.es/) -关于数据可视化的播客.
 - [3D Programming Weekly Articles](https://www.3dkingdoms.com/weekly/weekly.php) -大量与着色器和数学相关的资源.
+- [Pass The Pen](https://spectrum.chat/codepen/pass-the-pen/) -前端开发人员社区，他们在CodePen上构建协作式创意编码项目.
 
 
 ## Math
@@ -397,7 +401,7 @@
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) -有关动画数学的幻灯片（[repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) -对数学和准物理的美观直观介绍.
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) -介绍2D和3D Perlin噪声.
-- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) -矩阵的高级介绍.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) -所有数学符号和符号的列表.
 - [The magnificent 2d matrix](http://ncase.me/matrix/) -交互式工具，可以更好地理解变换矩阵.
 - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) -用于运动的JavaScript数学片段.
@@ -486,7 +490,7 @@
 - [syntopia](http://blog.hvidtfeldts.net/) -关于生成艺术和系统的博客，作者：Mikael Hvidtfeldt Christensen.
 - [madebyevan.com](http://madebyevan.com/) -Evan Wallace的WebGL实验和文章.
 - [songho.ca](http://www.songho.ca/) -Song Ho Ahn的家，提供了大量有关OpenGL和数学的教程.
-- [simonschreibt.de](https://simonschreibt.de/) - Game art tricks, design tricks by Simon schreibt.
+- [simonschreibt.de](https://simonschreibt.de/) -游戏技巧，Simon撰写的设计技巧.
 - [sighack.com](https://sighack.com/) -Manohar Vanga撰写的有关生成艺术算法和技术的博客.
 
 

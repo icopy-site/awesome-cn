@@ -119,7 +119,7 @@
 
 ### [Exit The Game the Abandoned Cabin](https://boardgamegeek.com/boardgame/203420/exit-game-abandoned-cabin)
 
- &gt;在一个废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁固定了门.  摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推论导致自由的组合.
+ &gt;在废弃的小屋中寻找庇护所并过夜后，您和您的朋友意识到有人用密码锁固定了门.  摆脱困境的唯一方法是团队合作，破解密码并解决各种难题，以推论导致自由的组合.
 
 ![Exit Abandoned Cabin game image](https://cf.geekdo-images.com/itemrep/img/YuNiISiSOUDAtk634f7dUq7MXu8=/fit-in/246x300/pic3332426.jpg)
 
@@ -129,7 +129,7 @@
 
 ### [Candy Land](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/Candy_Land>)
 
-&gt;比赛围绕着故事情节进行，故事涉及寻找失落的糖果之王康提国王...游戏不需要阅读和最少的计数技能，使其适合年幼的孩子...再也不需要玩家做出选择，只需跟随指示.
+&gt;这场比赛围绕着故事情节展开，故事情节涉及寻找失落的糖果之王康提国王-游戏不需要阅读和最少的计数技能，使其适合年幼的孩子-玩家无需做出选择，只需跟随指示.
 
 ![Candy Land image](https://upload.wikimedia.org/wikipedia/en/d/de/Classic_Candy_Land_by_Winning_Moves.jpg)
 
@@ -187,13 +187,13 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
- |  2  13 |  75m |
+ |  2  13  75m |
 
 ### [Legendary: A Marvel Deck Building Game](https://boardgamegeek.com/boardgame/129437/legendary-marvel-deck-building-game)
 
 <!-- nothing on wikipedia currently -->
 
- &gt; ...在Marvel Comics宇宙中进行的甲板建造游戏.  要设置游戏，玩家可以从蜘蛛侠，绿巨人，独眼巨人或金刚狼之类的英雄中选择一些英雄套牌，然后将它们洗牌以获得各种英雄套牌.  然后，玩家选择主谋恶棍（Magneto，Loki，Doom博士等），并将特定恶棍的攻击卡堆叠在其下.  接下来，根据该小人的特定方案，根据需要修改小人甲板.
+ &gt; ...在Marvel Comics宇宙中进行的甲板建造游戏.  要设置游戏，玩家可以从蜘蛛侠，绿巨人，独眼巨人或金刚狼之类的游戏中选择一些英雄套牌，然后将它们洗牌以获得各种英雄套牌.  然后，玩家选择主谋恶棍（Magneto，Loki，Doom博士等），并将特定恶棍的攻击卡堆叠在其下.  接下来，根据该小人的特定方案，根据需要修改小人甲板.
 
 ![Legendary A Marvel Deck Building Game image](https://cf.geekdo-images.com/oP3_ojBKQ6EXfUupdha3t9JF728=/fit-in/246x300/pic1430769.jpg)
 
@@ -213,7 +213,7 @@
 
 ### [Game of Thrones](https://github.com/edm00se/awesome-board-games/blob/master/<https://en.wikipedia.org/wiki/A_Game_of_Thrones_(board_game)>)
 
- &gt;《权力的游戏》允许玩家扮演几家争夺七大王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，Baratheon家族，Greyjoy家族，Tyrell家族，以及《 A Clash》扩展版国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
+ &gt;《权力的游戏》允许玩家扮演几家争夺七国王国控制权的大房子，包括斯塔克家族，兰尼斯特家族，马拉松家族，格雷乔伊家族，泰瑞尔家族，以及扩展《冲突》之后的角色国王，马爹利宫.  玩家操纵军队以在包括七个王国在内的各个地区获得支持，目的是获得足够的支持以夺取铁王座.  基本的游戏机制让人联想到外交，尤其是在下订单过程中，尽管《权力的游戏》整体上要复杂得多.
 
 ![Game of thrones boardgame image](https://awoiaf.westeros.org/thumb.php?f=Game-board-agot.png&width=250)
 
@@ -233,7 +233,7 @@
 
 ### [Cthulhu Wars](https://petersengames.com/cthulhu-wars/)
 
- &gt;克苏鲁战争（Cthulhu Wars）是一个关于世界末日的快速发展的战略游戏.  您参与了各种试图统治世界的可怕外星人.  您可以扮演大克苏鲁本人，也可以掌管其他派系，例如，爬行混乱的队伍成群结队，或者黄牌的疯狂仆从.
+ &gt;克苏鲁战争（Cthulhu Wars）是一个关于世界末日的快速发展的战略游戏.  您参与了各种试图统治世界的可怕外星人.  您可以扮演伟大的克苏鲁人，也可以掌控其他派系，例如，爬行混乱的小队或黄色标志的疯狂小兵.
 
 ![Cthulhu Wars game image](https://cf.geekdo-images.com/itemrep/img/Q5jn_9sxJzHb9KTKKGq44t_k-3U=/fit-in/246x300/pic3527761.jpg)
 
@@ -263,7 +263,7 @@
 
 ### [Complots](https://boardgamegeek.com/boardgame/188188/complots)
 
- &gt;腐败的城市受邪恶和贪婪的控制，受到邪恶人物的控制.  权力的位置空缺，等待您接管－除非别人先接管.  在Complots中，就像在原始游戏《 Coup》中一样，您控制两个角色并从两个硬币开始，并且通过欺骗，操纵和虚张声势，希望消除所有妨碍您前进的其他玩家，可能是让他们沿着游戏中的彼此消灭.方式.
+> A corrupt city, subject to vice and avarice, is under the control of vile characters. The seat of power is vacant and waiting for you to take it — unless someone else takes it first. In Complots, as in the original game Coup, you control two characters and start with two coins, and through trickery, manipulation and bluffing, you want to eliminate all other players who stand in your way, possibly by having them eliminate one another along the way.
 
 ![Complots game image](https://cf.geekdo-images.com/itemrep/img/Y9SNNhUIUkSTq-2UOvZxbx0oxg8=/fit-in/246x300/pic1896477.jpg)
 
@@ -496,7 +496,7 @@
 
 ### [Spirit Island](https://boardgamegeek.com/boardgame/162886/spirit-island)
 
- &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍然保留着烈酒的地方宣称拥有主权，而当他们这样做时，这片土地本身将与居住在那里的岛民一起反击.
+ &gt;在世界上最遥远的地方，魔力仍然存在，土地，天空和所有自然事物的精神都体现了这种魔力.  随着欧洲大国不断扩大其殖民帝国，他们将不可避免地向一个仍保留着烈酒的地方宣称拥有主权；而一旦这样做，土地本身将与居住在那里的岛民一起反击.
 
 ![Spirit Island Image](https://cf.geekdo-images.com/itemrep/img/0f6KLNq-ynIWcx3VuZ1QsGAfSRo=/fit-in/246x300/pic3615739.png)
 
@@ -522,12 +522,12 @@
 
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
-|   3 - 6 |       14 | 240m |
+ |  3-6 |  14 |  240m |
 
 ### [Joking Hazard](https://boardgamegeek.com/boardgame/193621/joking-hazard)
 
 &gt;氰化物与幸福的创造者推出了一种纸牌游戏，玩家可以竞争完成可怕的漫画.
- &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，Random Comic Generator凭借其计算机生成的喜剧已为数以百万计的人们娱乐.在与Random Comic Generator玩了几周之后，我们开始怀疑它的数百个随机面板是否适合自己玩纸牌游戏，您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
+ &gt;创作者说：“互联网上曾有人告诉我们，制作简笔漫画很容易，而且我们丑陋而愚蠢.在所有方面他们都是对的.因此，哭了几个小时，我们创造了自2014年问世以来，《随机漫画生成器》通过计算机生成的喜剧就已经为数百万人娱乐.您与您的朋友竞争，以有趣的妙句完成漫画，因此我们打印了所有RCG面板并开始与他们一起玩.”  抽7张牌.  牌组先出第一张牌，选择一名裁判出第二张，然后每个人都选择第三张牌来制作三幅漫画.  法官挑选一名获胜者.  游戏包括250张独特的面板卡片组-共有1540万本漫画！
 
 <img alt="Joking Hazard box" src="https://www.jokinghazardgame.com/img/products/base-deck.jpg" width="260">
 
@@ -577,7 +577,7 @@
 
 ### [Smash Up](https://boardgamegeek.com/boardgame/122522/smash)
 
- &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系都涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有强大的力量-每个派系的组合都带来不同的游戏体验.
+ &gt;“洗牌游戏”游戏Smash Up从一个简单的前提开始：将两个派系的20张牌叠在一起，将它们洗牌成40张牌叠，然后竞争击败比对手更多的基地！  每个派系涉及不同的游戏机制-海盗移动卡牌，僵尸将其从弃牌堆中带回，恐龙具有巨大的力量-每个派系的组合都带来不同的游戏体验.
 
 ![Smash Up Image](https://cf.geekdo-images.com/itemrep/img/B477eHwGjDYBLMYSIlLGGeJcoMo=/fit-in/246x300/pic1269874.jpg)
 
@@ -597,7 +597,7 @@
 
 ### [Telestrations](https://boardgamegeek.com/boardgame/46213/telestrations)
 
- &gt;每个玩家都从草拟由骰子掷骰决定的电视单词开始.  老式的沙漏计时器可能会限制他们执行草图的时间，但是它当然不会限制创造力！  时间到！  所有玩家都同时将自己的草图传递给下一个玩家，后者必须猜测所绘制的内容.  然后，玩家同时将他们的猜测（希望与原始单词匹配（或匹配？））传递给下一个必须尝试画出他们看到的单词的玩家，依此类推.
+ &gt;每个玩家都从草拟由骰子掷骰决定的电视单词开始.  老式的沙漏计时器可能会限制他们执行草图的时间，但是它当然不会限制创造力！  时间到！  所有玩家都同时将自己的草图传递给下一个玩家，后者必须猜测所绘制的内容.  然后，玩家同时将他们的猜测（希望与原始单词匹配（或匹配？））传递给下一个必须尝试绘制他们看到的单词的玩家，依此类推.
 
 ![Telestrations Image](https://cf.geekdo-images.com/itemrep/img/G28zSLO9mMXGHjn5ZSY4vk0sd3Y=/fit-in/246x300/pic2523100.jpg)
 
@@ -607,7 +607,7 @@
 
 ### [Trash Pandas](https://gamewright.com/product/Trash-Pandas)
 
- &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在用爪子穿过纸牌时尝试收集有用的垃圾.  开始收集珍贵的垃圾物品，例如日龄的比萨饼或半食的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请稍等，掷骰子以掩饰其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会折磨您的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
+ &gt;垃圾熊猫是一款纸牌游戏，您可以像浣熊一样玩耍，在爪子穿过纸牌时尝试收集有用的垃圾.  开始收集一些珍贵的垃圾物品，例如日间破旧的比萨饼或吃了一半的糖果，并获得积分，成为街上最好的垃圾熊猫.  但是，请等一下，掷骰子以掩饰其他被掩盖的恶魔，以防止他们在顶端占据您的位置，但请确保您不要与任何会令您烦恼的Doggos混为一谈.  垃圾是宝藏，是最垃圾的藏匿地！
 
 ![Trash Pandas Image](https://cf.geekdo-images.com/itemrep/img/_y-H3J7gUewKSFyTS4_lzkbblgo=/fit-in/246x300/pic3989423.jpg)
 
@@ -641,7 +641,7 @@
 
 ### [Love Letter](https://en.wikipedia.org/wiki/Love_Letter_(card_game))
 
- &gt;情书是一种冒险，演绎和运气的游戏.  每个玩家都试图先将自己的情书传递给暴风雨公主安妮特，然后再送给其他人.  在拥有16张卡和8个角色的卡组中，每个玩家都从一张卡开始.  随着游戏的进行，每个玩家都必须在当前角色和待留在甲板上的角色之间进行选择.  你的信会先送给公主吗？
+ &gt;情书是一种冒险，演绎和运气的游戏.  每个玩家都试图先将自己的情书传递给暴风雨公主安妮特，然后再送给其他人.  在拥有16张卡和8个角色的卡组中，每个玩家都从一张卡开始.  随着游戏的进行，每个玩家都必须在自己当前的角色和剩余的甲板角色之间进行选择.  你的信会先送给公主吗？
 
 ![Love Letter Image](https://cf.geekdo-images.com/itemrep/img/x7Xa_F99E1UJXXKp2_NQi-sgwEM=/fit-in/246x300/pic1401448.jpg)
 
@@ -661,7 +661,7 @@
 
 ### [Pinch 'n' Pass](https://boardgamegeek.com/boardgame/270030/pinch-n-pass)
 
- &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通行证”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时剩下的持卡人都将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
+ &gt;在这个思维敏捷，节奏快的类别游戏中与您的对手和蜂鸣器作战.  在压力下，您可以说出几个著名的演员，披萨馅料，红色的东西或狗的种类？  “捏”和“通过”类别卡的不同之处在于，您尝试通过喊出类别中的某些内容来吸引其他玩家的捏卡，并且尝试通过说出类别中的内容来摆脱通行卡的热土豆风格.  蜂鸣器响起时剩下的持卡人都将获得收益（对于捏卡）或遭受罚款（对于通行卡）.  终点线的第一个玩家是赢家，但不要因为被过多的通行卡而被淘汰！  每个玩家还可以召集另一位玩家进行正面交锋.  您只能执行一次，因此要计数！
 
 
 ![Pinch 'n' Pass Image](https://images-na.ssl-images-amazon.com/images/I/51b2hKGHwnL._AC_.jpg)
@@ -669,6 +669,16 @@
  |  玩家|  最小  年龄|  时间|
 | ------: | -------: | ---: |
  |  3-6 |  12  30m |
+
+### [Cranium](https://boardgamegeek.com/boardgame/891/cranium)
+
+ &gt; Cranium称自己为“全脑”游戏.  这是一款社交游戏，它借鉴了近期其他流行的社交游戏.  玩家必须成功完成四个部分中的每一个活动才能获胜.  1）创意猫-玩家必须通过绘制，用粘土雕刻或在闭上眼睛的情况下向队友暗示一个单词.  2）数据头-各种琐事问题.  3）词蠕虫-玩家解扰词，拼写具有挑战性的词，猜测定义，识别遗漏字母的单词或拼写单词积压词.  4）明星表演者-玩家必须吹口哨，模仿名人或演绎线索.  Cranium具有与Pictionary，Charades，Trivial Pursuit：Genus Edition，名人，Huggermugger，Claymania等类似的元素.
+
+![Cranium Image](https://cf.geekdo-images.com/itemrep/img/LI4w44KvZfDdRJacsftOUtvSKC0=/fit-in/246x300/pic4994220.jpg)
+
+ |  玩家|  最小  年龄|  时间|
+| ------: | -------: | ---: |
+ |  4-16 |  13 |  60m |
 
 ## Contribute
 
