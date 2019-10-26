@@ -59,32 +59,33 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 
 ### DSL
 
-- [Apache Beam](https://github.com/apache/beam) [Java，Python，SQL，Scala，Go]-用于定义和执行数据处理工作流以及数据摄取和集成流程的统一模型和特定于语言的SDK集，支持企业集成模式（EIP）和领域特定语言（DSL） ），由Google开源.
+- [Apache Beam](https://github.com/apache/beam) [Java，Python，SQL，Scala，Go]-用于定义和执行数据处理工作流以及数据提取和集成流程的统一模型和特定于语言的SDK集，支持企业集成模式（EIP）和领域特定语言（DSL） ），由Google开源.
 - [coast](https://github.com/bkirwi/coast) [Scala]-DSL，它在Samza之上构建DAG，并提供一次精确的语义.
 - [Esper](https://github.com/espertechinc/esper) [Java]-用于复杂事件处理（CEP）和事件序列分析的组件.
 - [Streamparse](https://github.com/Parsely/streamparse) [Python]-使您可以通过Apache Storm针对实时数据流运行Python代码.
-- [summingbird](https://github.com/twitter/summingbird) [Scala]-该库可让您编写看起来像本机Scala或Java集合转换的MapReduce程序，并在许多著名的分布式MapReduce平台（包括Storm和Scalding）上执行它们.
+- [summingbird](https://github.com/twitter/summingbird) [Scala]-一种库，可让您编写类似于本地Scala或Java集合转换的MapReduce程序，并在许多著名的分布式MapReduce平台（包括Storm和Scalding）上执行它们.
 
 ### Data Pipeline
 
-- [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]-分布式，分区，复制的提交日志服务，它提供消息传递系统的功能，但具有独特的设计.
+- [Apache Kafka](https://github.com/apache/kafka) [Scala / Java]-分布式，分区，复制的提交日志服务，该服务提供消息传递系统的功能，但具有独特的设计.
 - [Apache Pulsar](https://github.com/apache/incubator-pulsar) [Java]-具有非常灵活的消息传递模型和直观的客户端API的分布式pub-sub消息传递平台.
 - [brooklin](https://github.com/linkedin/Brooklin/) [Java]-一种分布式系统，旨在通过Linkedin（替代数据总线）实现大规模可靠性和高吞吐量的各种异构源系统和目标系统之间的数据流.
 - [camus](https://github.com/linkedin/camus) [Java]-Linkedin的Kafka-&gt; HDFS管道.
 - [databus](https://github.com/linkedin/databus) [Java]-Linkedin的与源无关的分布式更改数据捕获系统.
 - [flume](https://github.com/apache/flume) [Java]-分布式，可靠且可用的服务，用于有效地收集，聚集和移动大量日志数据.
+- [LogDevice](https://logdevice.io/) [C ++]-Facebook的高性能分布式系统，用于使用日志结构流式传输和存储顺序数据.
 - [metaq](https://github.com/killme2008/Metamorphosis) [Java]-淘宝的高可用性，高性能分布式消息传递系统
 - [NATS streaming](https://github.com/nats-io/nats-streaming-server) [开始]-快速的磁盘支持消息传递解决方案
 - [nsq](https://github.com/nsqio/nsq) [运行]-实时分布式消息传递平台，旨在大规模运行，每天处理数十亿条消息.
 - [suro](https://github.com/Netflix/suro) [Java]-数据管道服务，用于收集，聚集和调度大量应用程序事件，包括日志数据.
-- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]-连续的大数据摄取基础结构，可从大量端点进行读写，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
+- [StreamSets Data Collector](https://github.com/streamsets/datacollector) [Java]-连续的大数据提取基础结构，可从大量端点进行读写，包括S3，JDBC，Hadoop，Kafka，Cassandra等.
 
 ### Online Machine Learning 
 
 - [Apache Samoa](https://github.com/apache/incubator-samoa) [Java]-分布式流机器学习（ML）框架，其中包含针对分布式流ML算法的编程抽象.
 - [DataSketches](https://github.com/DataSketches/sketches-core) [Java]-Yahoo!的草图库.
 - [streamDM](https://github.com/huawei-noah/streamDM) [Scala]-使用华为的Spark Streaming挖掘大数据流.
-- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python]-提供一个网络服务器，以快速设置和评估针对上下文多臂强盗（cMAB）问题的可能解决方案.
+- [StreamingBandit](https://github.com/Nth-iteration-labs/streamingbandit) [Python]-提供一个网络服务器，以快速设置和评估针对上下文多臂匪徒（cMAB）问题的可能解决方案.
 - [StormCV](https://github.com/sensorstorm/StormCV) [Java]-通过添加特定于计算机视觉（CV）的操作和数据模型，将Apache Storm用于视频处理.
 - [trident-ml](https://github.com/pmerienne/trident-ml) [Java]-基于Trident的实时在线机器学习库.
 - [yurita](https://github.com/paypal/yurita) [Scala]-基于Paypal的Spark结构化流构建的异常检测框架.
@@ -121,7 +122,6 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C ++]-在Apache之上以C ++构建的分布式流处理框架.
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python / Java / Scala]-用于分布式处理和实时分析的平台.  提供了用于高级分析（如地理空间，时间序列等）的工具箱.
 - [jubatus](http://jubat.us/en/) [C ++]-分布式处理框架和流机器学习库.
-- [LogDevice](https://logdevice.io/) [C ++]-Facebook的高性能分布式系统，用于使用日志结构流式传输和存储顺序数据.
 - [mantis](http://www.slideshare.net/g9yuayon/qcon-talk-on-netflix-mantis-a-stream-processing-system), [tech-blog](https://medium.com/netflix-techblog/stream-processing-with-mantis-78af913f51a6) -Netflix的事件流处理系统.
 - [millwheel](http://research.google.com/pubs/pub41378.html) -用于构建低延迟数据处理应用程序的框架，该框架已在Google上广泛使用.
 
@@ -129,7 +129,7 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 ### Readings
 
 1. [In-Stream Big Data Processing](https://highlyscalable.wordpress.com/2013/08/20/in-stream-big-data-processing/)
-2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 由泰勒·阿基道（Tyler Akidau）设计. 
+2. [The world beyond batch: Streaming 101](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) 泰勒·阿基道（Tyler Akidau） 
 3. [Real Time Analytics: Algorithms and Systems (VLDB 2015)](http://www.vldb.org/pvldb/vol8/p2040-Kejariwal.pdf)
 
 ## License

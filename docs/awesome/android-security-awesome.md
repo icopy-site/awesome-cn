@@ -11,13 +11,13 @@ android安全相关资源的集合.
 
 1. [AndroTotal](http://andrototal.org/)
 5. [Appknox](https://www.appknox.com/) -不免费
-7. [NVISO ApkScan](https://apkscan.nviso.be/)
 8. [AVC UnDroid](http://undroid.av-comparatives.info/)
 10. [Virustotal](https://www.virustotal.com/) -最大128MB
 11. [Fraunhofer App-ray](http://app-ray.co/) -不免费
 12. [AppCritique](https://appcritique.boozallen.com) -上传您的Android APK，并获得全面的免费安全评估.
 13. [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/)  -用于移动应用程序安全性测试的Android和iOS移动应用程序的企业工具.  实验室自动功能可对云中的真实设备进行动态和静态分析，以在几分钟内返回结果.  不免费
-14. [AMAaaS](https://amaaas.com)  -Android恶意软件分析即服务.  裸机服务具有针对Android应用程序的静态和动态分析的功能.  的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).Free
+14. [AMAaaS](https://amaaas.com)  -免费的Android恶意软件分析服务.  裸机服务具有针对Android应用程序的静态和动态分析的功能.  的产品 [MalwarePot](https://malwarepot.com/index.php/AMAaaS).
+15. ~~[NVISO ApkScan](https://apkscan.nviso.be/) -2019年10月31日日落〜
 4. ~~[Mobile Malware Sandbox](http://www.mobilemalware.com.br/analysis/index_en.php)~~
 6. ~~[IBM Security AppScan Mobile Analyzer](https://appscan.bluemix.net/mobileAnalyzer) -不免费~~
 15. ~~[Visual Threat](https://www.visualthreat.com/) -不再是Android应用分析器~~
@@ -80,7 +80,7 @@ android安全相关资源的集合.
 10. [Drozer](https://github.com/mwrlabs/drozer)
 11. [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) -等效于执行基于存根的代码注入，但不对二进制文件进行任何修改
 12. [Inspeckage](https://github.com/ac-pm/Inspeckage)  -Android Package Inspector-具有api挂钩的动态分析，启动未导出的活动等.  （放置模块）
-13. [Android Hooker](https://github.com/AndroidHooker/hooker) - Dynamic Java code instrumentation (requires the Substrate Framework)
+13. [Android Hooker](https://github.com/AndroidHooker/hooker) -动态Java代码检测（需要Substrate框架）
 14. [ProbeDroid](https://github.com/ZSShen/ProbeDroid) -动态Java代码检测
 15. [Android Tamer](https://androidtamer.com/) -适用于Android安全专业人员的虚拟/实时平台
 16. [DECAF](https://github.com/sycurelab/DECAF) -基于QEMU的动态可执行代码分析框架（DroidScope现在是DECAF的扩展）
@@ -97,6 +97,7 @@ android安全相关资源的集合.
 28. [Vezir Project](https://github.com/oguzhantopgul/Vezir-Project) -用于移动应用程序渗透测试和移动恶意软件分析的虚拟机
 29. [MARA](https://github.com/xtiankisutsa/MARA_Framework) -移动应用反向工程与分析框架
 30. [Taintdroid](http://appanalysis.org) -需要AOSP编译
+31. [ARTist](https://artist.cispa.saarland)  -适用于Android应用程序和Android的Java中间件的灵活的开源工具和混合分析框架.  它基于Android运行时（ART）编译器，并在设备上编译期间修改代码.
 3. ~~[Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) -（Linux发行版）以前它曾经是 [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)~~
 31. ~~[Android Reverse Engineering](https://redmine.honeynet.org/projects/are/wiki) – ARE（Android逆向工程）不再处于主动开发状态~~
 31. ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
@@ -134,6 +135,7 @@ android安全相关资源的集合.
 31. [Jadx](https://github.com/skylot/jadx)
 32. [Dwarf](https://github.com/iGio90/Dwarf) -逆向工程的GUI
 33. [Andromeda](https://github.com/secrary/Andromeda) -另一个基本的命令行逆向工程工具
+34. [apk-mitm](https://github.com/shroudedcode/apk-mitm) -一个CLI应用程序，可准备Android APK文件进行HTTPS检查
 34. ~~[Smali viewer](http://blog.avlyun.com/wp-content/uploads/2014/04/SmaliViewer.zip)~~
 35. ~~[ZjDroid](https://github.com/BaiduSecurityLabs/ZjDroid)~~, ~~[fork/mirror](https://github.com/yangbean9/ZjDroid)~~
 36. ~~[Dare](http://siis.cse.psu.edu/dare/index.html) – .dex到.class转换器~~
@@ -163,7 +165,6 @@ android安全相关资源的集合.
 ### Misc Tools
 
 1. [smalihook](http://androidcracking.blogspot.com/2011/03/original-smalihook-java-source.html)
-2. [APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)
 3. [AXMLPrinter2](http://code.google.com/p/android4me/downloads/detail?name=AXMLPrinter2.jar) -将二进制XML文件转换为人类可读的XML文件
 4. [adb autocomplete](https://github.com/mbrubeck/android-completion)
 5. [Dalvik opcodes](http://pallergabor.uw.hu/androidblog/dalvik_opcodes.html)
@@ -174,8 +175,9 @@ android安全相关资源的集合.
 10. [mitmproxy](https://github.com/mitmproxy/mitmproxy)
 11. [dockerfile/androguard](https://github.com/dweinstein/dockerfile-androguard)
 12. [Android Vulnerability Test Suite](https://github.com/AndroidVTS/android-vts) -android-vts扫描设备中的漏洞集
-13. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本地macOS，iOS和android应用程序的系统API调用的自动化框架.  它基于Frida.
+13. [AppMon](https://github.com/dpnishant/appmon) -AppMon是用于监视和篡改本机macOS，iOS和android应用程序的系统API调用的自动化框架.  它基于Frida.
 14. [Internal Blue](https://github.com/seemoo-lab/internalblue) -基于Broadcom蓝牙控制器逆向工程的蓝牙实验框架
+15. ~~[APK-Downloader](http://codekiem.com/2012/02/24/apk-downloader/)~~-现在好像死了
 
 ## <a name="academic"></a>Academic/Research/Publications/Books
 

@@ -36,7 +36,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [multiset.cr](https://github.com/tcrouch/multiset.cr) -实现多集
  * [murmur3](https://github.com/kuende/murmur3) -Cassandra使用的Murmur3哈希算法的实现
  * [oak](https://github.com/obsidian/oak) -灵活的Radix Tree实现
- * [radix](https://github.com/luislavena/radix) -基数树实现
+ * [radix](https://github.com/luislavena/radix) -基数树实施
  * [ternary_search_tree](https://github.com/johnjansen/ternary_search_tree) -三元搜索树
 
 ## Api Builders
@@ -67,7 +67,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) -的绑定和扩展库 [termbox](https://github.com/nsf/termbox) （终端UI库）
  * [x11-cr](https://github.com/TamasSzekeres/x11-cr) -X11绑定
  * [x_do.cr](https://github.com/woodruffw/x_do.cr) -libxdo的绑定（[`xdotool`](https://github.com/jordansissel/xdotool))
- * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
 
 ## Caching
  * [bloom_filter](https://github.com/crystal-community/bloom_filter) -布隆过滤器的实现
@@ -99,6 +98,16 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [ameba](https://github.com/crystal-ameba/ameba) -静态代码分析工具
  * [trashman](https://github.com/Groogy/trashman) -适用于Crystal应用程序的简单内存分析器
 
+## Compression
+ * [brotli.cr](https://github.com/naqvis/brotli.cr) -绑定到Google brotli压缩库
+ * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
+ * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
+ * [snappy](https://github.com/naqvis/snappy) -用于Crystal的Snappy压缩格式读取器/写入器
+ * [xz](https://github.com/naqvis/xz.cr) -绑定到xz（lzma）压缩库
+ * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
+ * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
+ * [zstd.cr](https://github.com/didactic-drunk/zstd.cr) -的绑定 [Zstandard](https://github.com/facebook/zstd) 压缩库
+
 ## Configuration
  * [cr-dotenv](https://github.com/gdotdesign/cr-dotenv) -加载.env文件
  * [envyable](https://github.com/philnash/envyable.cr) -一个简单的YAML到ENV配置加载程序
@@ -123,11 +132,9 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [BinData](https://github.com/spider-gazelle/bindata) -二进制数据解析器帮助程序，带有 [ASN.1](https://en.wikipedia.org/wiki/Abstract_Syntax_Notation_One) 解析器
  * [config.cr](https://github.com/chris-huxtable/config.cr) -易于使用的配置格式解析器
  * [crinder](https://github.com/c910335/crinder) -基于类的json渲染器
- * [Crystar](https://github.com/naqvis/crystar) -Tar存档格式的读者和作家
  * [CSV](https://crystal-lang.org/api/CSV.html) -解析并生成逗号分隔的值（Crystal stdlib）
  * [front_matter.cr](https://github.com/chris-huxtable/front_matter.cr) -将文件开头的内容与其内容分开
  * [geoip2.cr](https://github.com/delef/geoip2.cr) -GeoIP2阅读器
- * [Gzip](https://crystal-lang.org/api/Gzip.html) -gzip格式的读者（Crystal stdlib）
  * [INI](https://crystal-lang.org/api/INI.html) -此文件解析器（Crystal stdlib）
  * [JSON](https://crystal-lang.org/api/JSON.html) -解析和生成JSON文档（Crystal stdlib）
  * [JSON tools](https://github.com/impatienttraveller/json-tools) -JSON补丁和指针RFC的实现
@@ -135,8 +142,6 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [toml.cr](https://github.com/crystal-community/toml.cr) -TOML解析器
  * [XML](https://crystal-lang.org/api/XML.html) -解析和生成XML文档（Crystal stdlib）
  * [YAML](https://crystal-lang.org/api/YAML.html) -解析和生成YAML文档（Crystal stdlib）
- * [Zip](https://crystal-lang.org/api/Zip.html) -zip格式的读者（Crystal stdlib）
- * [Zlib](https://crystal-lang.org/api/Zlib.html) -zlib格式的读者（Crystal stdlib）
  * [zq](https://github.com/colstrom/zq) -命令行ZPL处理器
 
 ## Data Generators
@@ -195,7 +200,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [blackjack-cr](https://github.com/gdonald/blackjack-cr) -控制台二十一点
  * [breakout.cr](https://github.com/petoem/breakout.cr) -使用crsfml编写的突破游戏
  * [chuck-norris-holy-quotes](https://github.com/codenoid/chuck-norris-holy-quotes) -Chuck Norris的圣言
- * [clamp](https://github.com/johnjansen/clamp) -夹紧任何可比
+ * [clamp](https://github.com/johnjansen/clamp) - Clamp any Comparable
  * [crsfml-examples](https://github.com/oprypin/crsfml-examples) -用CrSFML制作的简单游戏
  * [crystal-benchmarks-game](https://github.com/kostya/crystal-benchmarks-game) -计算机语言基准游戏
  * [crystal-by-example](https://github.com/askn/crystal-by-example) -以水晶为例
@@ -208,7 +213,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) -从零开始示例应用程序的Crystal MySQL
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -Serdar Dogruyol博客的Crystal和Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) -使用Kemal和WebSocket构建实时应用程序
- * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) -此存储库显示了如何在几秒钟内发布支持kemal框架的开源应用程序，将其作为heroku应用程序发布
+ * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) -该存储库显示了如何在几秒钟内发布以kemal框架为动力的开源应用程序
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) -用Crystal，Kemal和MySQL编写的博客
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) -使用Kemal和React构建实时Web应用程序
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) -使用Kemal和Vue.js构建实时Web应用程序
@@ -517,7 +522,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
 
 ## Web Frameworks
  * [amber](https://github.com/amberframework/amber) -开源高效，凝聚力的Web应用程序框架
- * [athena](https://github.com/blacksmoke16/athena) - Modular, annotation based, API oriented framework with built in param conversion
+ * [athena](https://github.com/blacksmoke16/athena) -具有内置参数转换功能的模块化，基于注释的，面向API的框架
  * [kemal](https://github.com/kemalcr/kemal)  -快速，超级简单的Web框架.  受Sinatra启发
  * [lattice-core](https://github.com/jasonl99/lattice-core) -一个WebSocket优先的面向对象框架（基于Kemal）
  * [lucky](https://github.com/luckyframework/lucky) -尽早发现错误，忘记大多数性能问题，并花更多时间在代码上，而不是调试和编写测试

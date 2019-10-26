@@ -14,7 +14,7 @@
 
 ### Understand How Your Android App is Doing with Real-Time Contextual Insights From Your Users
 [![instabug-github](https://user-images.githubusercontent.com/10850625/65512691-fd45f280-ded9-11e9-8921-3528b98c30a7.png)](https://instabug.com/android/sdk?utm_source=awesomeandroid&utm_medium=spon&utm_content=banner)
- &gt; Instabug可帮助Android开发人员和产品团队轻松地收集来自Beta测试人员和用户的错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕截图，设备详细信息，网络日志，再现步骤以及解决问题和确定产品积压需求所需的大量其他关键见解. 
+ &gt; Instabug可帮助Android开发人员和产品团队轻松地收集来自Beta测试人员和用户的错误和反馈，以加快迭代速度并交付高质量的应用程序.  Instabug会自动附加屏幕快照，设备详细信息，网络日志，再现步骤以及解决问题和确定产品待办事项优先级所需的大量其他关键见解. 
 &gt;移动团队通过与Github，Jira，Slack，Zendesk等第三方工具无缝集成来加速其工作流程. [Instabug is offering Awesome Android community an exclusive 15% discount on all paid plans. Get Started!](https://instabug.com/android/sdk/?utm_source=awesomeandroid&utm_medium=spon&utm_content=get-started)
 [![](https://instabug-ga.appspot.com/UA-41982088-6/github/awesomeandroid?pixel)](https://instabug.com)
 
@@ -296,9 +296,7 @@
 - [Drekkar](https://github.com/coshx/drekkar) -用于WebView和JS的Android事件总线.
 - [Androl4b](https://github.com/sh4hin/Androl4b) -用于评估android应用程序的虚拟机.
 - [DroidMVP](https://github.com/andrzejchm/DroidMVP) -Android库可帮助您将MVP以及Passive View和Presentation Model模式结合到您的应用中.
-- [Gota](https://github.com/alhazmy13/Gota) -简化Android权限.
 - [EasyDeviceInfo](https://github.com/nisrulz/easydeviceinfo) -以超级简单的方式获取设备信息.
-- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) -简单的运行时权限管理器.
 - [Shutter-Android](https://github.com/levibostian/Shutter-Android) -从设备相机捕获照片/视频，或从图库应用获取照片/视频，无需运行时权限.
 - [Validator](https://github.com/anderscheow/Validator) -一个实用程序类，用于验证TextInputLayout中的文本.
 - [Keyboard Visibility Event](https://github.com/viniciusmo/keyboard-visibility-event-android/) -用于处理软键盘可见性更改事件的DSL.
@@ -355,6 +353,9 @@
 - [Permission Dispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher) -简单的基于注释的API来处理运行时权限.
 - [RxPermissions](https://github.com/tbruyelle/RxPermissions) -由RxJava驱动的Android运行时权限.
 - [NoPermission](https://github.com/NoNews/NoPermission)  -用于权限请求的简单Android库.  仅由一类组成.
+- [Ask-Permission](https://github.com/Kishanjvaghela/Ask-Permission) -简单的运行时权限管理器.
+- [Gota](https://github.com/alhazmy13/Gota) -简化Android权限.
+- [EasyPermissions](https://github.com/googlesamples/easypermissions) -EasyPermissions是一个包装器库，用于简化针对Android M或更高版本的基本系统权限逻辑.
 
 ### Payments
 
@@ -398,7 +399,7 @@
 - [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) -它是Android Design in Action系列的技术对应.
 - [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) -Googler Chet Hasae等人撰写的一系列文章，回答了最常见的问题：“开发Android应用程序时要记住哪些重要规则？”.
 - [Android Hive Tutorials](https://www.androidhive.info) -非常适合初学者的教程.
-- [Android Weekly](https://androidweekly.net) -包含有关android的每周信息的通讯.
+- [Android Weekly](https://androidweekly.net) -简报，其中包含有关android的每周信息.
 - [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) -图标和其他资产的生成器.
 - [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator) -将应用程序屏幕截图包装在真实设备的图片中.

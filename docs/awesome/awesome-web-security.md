@@ -6,7 +6,7 @@
 
 &gt;网络安全材料和资源的精选列表.
 
- 不用说，大多数网站都遭受各种错误，最终可能导致漏洞.  为什么这种情况经常发生？  可能涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习前沿的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)“首先.
+ 不用说，大多数网站都遭受各种错误，最终可能导致漏洞.  为什么这种情况经常发生？  可能涉及许多因素，包括配置错误，工程师的安全技能不足等.为解决此问题，这里有一份精选的Web安全材料和资源列表，用于学习尖端的渗透技术，我强烈建议您阅读本文“[So you want to be a web security researcher?](https://portswigger.net/blog/so-you-want-to-be-a-web-security-researcher)“首先.
 
 *请阅读 [contribution guidelines](https://github.com/qazbnm456/awesome-web-security/blob/master/CONTRIBUTING.md) 在捐款之前.*
 
@@ -40,6 +40,7 @@
 - [Infosec Newbie](https://www.sneakymonkey.net/2017/04/23/infosec-newbie/) -由 [Mark Robinson](https://www.sneakymonkey.net/).
 - [The Magic of Learning](https://bitvijays.github.io/) -由 [@bitvijays](https://bitvijays.github.io/aboutme.html).
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) -由 [Trail of Bits](https://www.trailofbits.com/).
+- [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings/) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="xss"></a>
 ### XSS - Cross-Site Scripting
@@ -50,12 +51,14 @@
 - [XSS.png](https://github.com/LucaBongiorni/XSS.png) -由@jackmasa撰写.
 - [C.XSS Guide](https://excess-xss.com/) -由 [@JakobKallin](https://github.com/JakobKallin) 和 [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 - [THE BIG BAD WOLF - XSS AND MAINTAINING ACCESS](http://www.paulosyibelo.com/2018/06/the-big-bad-wolf-xss-and-maintaining.html) -由 [Paulos Yibelo](http://www.paulosyibelo.com/).
+- [PayloadsAllTheThings XSS Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="csv-injection"></a>
 ### CSV Injection
 
 - [CSV Injection -> Meterpreter on Pornhub](https://news.webamooz.com/wp-content/uploads/bot/offsecmag/147.pdf) -由 [Andy](https://blog.zsec.uk/).
 - [The Absurdly Underestimated Dangers of CSV Injection](http://georgemauer.net/2017/10/07/csv-injection.html) -由 [George Mauer](http://georgemauer.net/).
+- [PayloadsAllTheThings CSV Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSV%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="sql-injection"></a>
 ### SQL Injection
@@ -63,11 +66,13 @@
 - [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) -由 [@netsparker](https://twitter.com/netsparker).
 - [SQL Injection Wiki](https://sqlwiki.netspi.com/) -由 [NETSPI](https://www.netspi.com/).
 - [SQL Injection Pocket Reference](https://websec.ca/kb/sql_injection) -由 [@LightOS](https://twitter.com/LightOS).
+- [PayloadsAllTheThings SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="command-injection"></a>
 ### Command Injection
 
 - [Potential command injection in resolv.rb](https://github.com/ruby/ruby/pull/1777) -由 [@drigg3r](https://github.com/drigg3r).
+- [PayloadsAllTheThings Command Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="orm-injection"></a>
 ### ORM Injection
@@ -88,11 +93,13 @@
 
 - [XXE](https://phonexicum.github.io/infosec/xxe.html) -由 [@phonexicum](https://twitter.com/phonexicum).
 - [XXE OOB extracting via HTTP+FTP using single opened port](https://skavans.ru/en/2017/12/02/xxe-oob-extracting-via-httpftp-using-single-opened-port/) -由 [skavans](https://skavans.ru/).
+- [PayloadsAllTheThings XXE Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="csrf"></a>
 ### CSRF - Cross-Site Request Forgery
 
 - [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) -由 [@jrozner](https://medium.com/@jrozner).
+- [PayloadsAllTheThings CSRF Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="clickjacking"></a>
 ### Clickjacking
@@ -104,11 +111,13 @@
 ### SSRF - Server-Side Request Forgery
 
 - [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) -由 [Wallarm](https://wallarm.com/).
+- [PayloadsAllTheThings Server-Side Request Forgery](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="web-cache-poisoning"></a>
 ### Web Cache Poisoning
 
 - [Practical Web Cache Poisoning](https://portswigger.net/blog/practical-web-cache-poisoning) -由 [@albinowax](https://twitter.com/albinowax).
+- [PayloadsAllTheThings Web Cache Deception](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Web%20Cache%20Deception) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="relative-path-overwrite"></a>
 ### Relative Path Overwrite
@@ -120,6 +129,7 @@
 ### Open Redirect
 
 - [Open Redirect Vulnerability](https://s0cket7.com/open-redirect-vulnerability/) -由 [s0cket7](https://s0cket7.com/).
+- [PayloadsAllTheThings Open Redirect](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Open%20Redirect) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="saml"></a>
 ### Security Assertion Markup Language (SAML)
@@ -127,16 +137,21 @@
 - [How to Hunt Bugs in SAML; a Methodology - Part I](https://epi052.gitlab.io/notes-to-self/blog/2019-03-07-how-to-test-saml-a-methodology/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
 - [How to Hunt Bugs in SAML; a Methodology - Part II](https://epi052.gitlab.io/notes-to-self/blog/2019-03-13-how-to-test-saml-a-methodology-part-two/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
 - [How to Hunt Bugs in SAML; a Methodology - Part III](https://epi052.gitlab.io/notes-to-self/blog/2019-03-16-how-to-test-saml-a-methodology-part-three/) -由 [epi](https://epi052.gitlab.io/notes-to-self/).
+- [PayloadsAllTheThings SAML Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SAML%20Injection) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="upload"></a>
 ### Upload
 
 - [File Upload Restrictions Bypass](https://www.exploit-db.com/docs/english/45074-file-upload-restrictions-bypass.pdf) -由 [Haboob Team](https://www.exploit-db.com/author/?a=9381).
+- [PayloadsAllTheThings Upload Insecure Files](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Upload%20Insecure%20Files) -由 [@swisskyrepo](https://github.com/swisskyrepo)
 
 <a name="rails"></a>
 ### Rails
 
 - [Rails Security - First part](https://hackmd.io/s/SkuTVw5O-) -由 [@qazbnm456](https://github.com/qazbnm456).
+- [Zen Rails Security Checklist](https://github.com/brunofacca/zen-rails-security-checklist) -由 [@brunofacca](https://github.com/brunofacca).
+- [Rails SQL Injection](https://rails-sqli.org) -由 [@presidentbeef](https://github.com/presidentbeef).
+- [Official Rails Security Guide](http://guides.rubyonrails.org/security.html) -由 [Rails team](https://rubyonrails.org/).
 
 <a name="angularjs"></a>
 ### AngularJS
@@ -431,7 +446,7 @@
 - [xray](https://github.com/evilsocket/xray) -XRay是用于通过以下方式从公共网络进行侦查，映射和OSINT收集的工具： [@evilsocket](https://github.com/evilsocket).
 - [gitrob](https://github.com/michenriksen/Gitrob) -由GitHub组织提供的侦察工具 [@michenriksen](https://github.com/michenriksen).
 - [GSIL](https://github.com/FeeiCN/GSIL) - Github Sensitive Information Leakage（Github敏感信息泄露）by [@FeeiCN](https://github.com/FeeiCN).
-- [raven](https://github.com/0x09AL/raven) -raven是Linkedin信息收集工具，渗透测试人员可以使用该工具收集有关使用Linkedin的组织员工的信息， [@0x09AL](https://github.com/0x09AL).
+- [raven](https://github.com/0x09AL/raven) -raven是Linkedin信息收集工具，测试者可以使用该工具收集有关使用Linkedin的组织员工的信息， [@0x09AL](https://github.com/0x09AL).
 - [ReconDog](https://github.com/s0md3v/ReconDog) -侦察瑞士军刀 [@s0md3v](https://github.com/s0md3v).
 - [Databases - start.me](https://start.me/p/QRENnO/databases) -您可以通过以下各种数据库来进行OSINT研究 [@technisette](https://twitter.com/technisette).
 - [peoplefindThor](https://peoplefindthor.dk/) -通过以下方式在Facebook上找到人的简单方法 [postkassen](https://github.com/qazbnm456/awesome-web-security/blob/master/mailto:postkassen@oejvind.dk?subject=peoplefindthor.dk comments).

@@ -72,7 +72,7 @@
 * [BitBake](http://www.yoctoproject.org/docs/1.6/bitbake-user-manual/bitbake-user-manual.html) -嵌入式Linux的类似make的构建工具.
 * [buildout](http://www.buildout.org/en/latest/) -用于从多个部分创建，组装和部署应用程序的构建系统.
 * [PlatformIO](https://github.com/platformio/platformio-core) -用于使用不同开发平台构建代码的控制台工具.
-* [pybuilder](https://github.com/pybuilder/pybuilder) -用纯Python编写的连续构建工具.
+* [pybuilder](https://github.com/pybuilder/pybuilder) - A continuous build tool written in pure Python.
 * [SCons](http://www.scons.org/) -一种软件构造工具.
 
 ## Built-in Classes Enhancement
@@ -155,7 +155,7 @@
 
 ## Command-line Tools
 
-*有用的基于CLI的工具可提高生产力*
+*有用的基于CLI的工具可提高工作效率.*
 
 *生产力工具
     * [cookiecutter](https://github.com/audreyr/cookiecutter) -从cookiecutter（项目模板）创建项目的命令行实用程序.
@@ -165,7 +165,7 @@
     * [percol](https://github.com/mooz/percol) -在UNIX上的传统管道概念中增加了交互选择的味道.
     * [thefuck](https://github.com/nvbn/thefuck) -更正先前的控制台命令.
     * [tmuxp](https://github.com/tony/tmuxp) - 一种 [tmux](https://github.com/tmux/tmux) 会话管理器.
-    * [try](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - it's never been easier.
+    * [try](https://github.com/timofurrer/try) -一个简单的CLI来试用python软件包-从未如此简单.
 * CLI增强功能
     * [httpie](https://github.com/jakubroztocil/httpie) -命令行HTTP客户端，方便用户的cURL替换.
     * [kube-shell](https://github.com/cloudnativelabs/kube-shell) -用于Kubernetes CLI的集成外壳.
@@ -308,7 +308,7 @@
 
 *类似于pdb的调试器
     * [ipdb](https://github.com/gotcha/ipdb) -启用IPython [pdb](https://docs.python.org/3/library/pdb.html).
-    * [pdb++](https://github.com/antocuni/pdb) - Another drop-in replacement for pdb.
+    * [pdb++](https://github.com/antocuni/pdb) -pdb的另一种替代产品.
     * [pudb](https://github.com/inducer/pudb) -基于控制台的全屏Python调试器.
     * [wdb](https://github.com/Kozea/wdb) -通过WebSocket的不可能的Web调试器.
 *追踪
@@ -368,7 +368,7 @@
     * [dask](https://github.com/dask/dask) -用于分析计算的灵活并行计算库.
     * [luigi](https://github.com/spotify/luigi) -一个模块，可帮助您构建批处理作业的复杂管道.
     * [mrjob](https://github.com/Yelp/mrjob) -在Hadoop或Amazon Web Services上运行MapReduce作业.
-    * [Ray](https://github.com/ray-project/ray/) -用于统一和分布式Python的系统，统一了机器学习生态系统.
+    * [Ray](https://github.com/ray-project/ray/) -一个用于并行和分布式Python的系统，该系统统一了机器学习生态系统.
 *流处理
     * [faust](https://github.com/robinhood/faust) -流处理库，可移植来自 [Kafka Streams](https://kafka.apache.org/documentation/streams/) 到Python.
     * [streamparse](https://github.com/Parsely/streamparse) -通过实时数据流运行Python代码 [Apache Storm](http://storm.apache.org/).
@@ -427,7 +427,7 @@
 *我来了
     * [jedi-vim](https://github.com/davidhalter/jedi-vim) -用于Python的Jedi自动完成库的Vim绑定.
     * [python-mode](https://github.com/python-mode/python-mode) -用于将Vim转换为Python IDE的多合一插件.
-    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) - Includes [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
+    * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe) -包括 [Jedi](https://github.com/davidhalter/jedi)基于Python的完成引擎.
 * 视觉工作室
     * [PTVS](https://github.com/Microsoft/PTVS) -适用于Visual Studio的Python工具.
 * Visual Studio代码
@@ -454,7 +454,7 @@
 
 *用于Python版本和虚拟环境管理的库.*
 
-* [pyenv](https://github.com/pyenv/pyenv) - Simple Python version management.
+* [pyenv](https://github.com/pyenv/pyenv) -简单的Python版本管理.
 * [pipenv](https://github.com/pypa/pipenv) -人类Python开发工作流程.
 * [poetry](https://github.com/sdispater/poetry) -Python依赖关系管理和打包变得容易.
 * [virtualenv](https://github.com/pypa/virtualenv) -创建隔离的Python环境的工具.
@@ -507,7 +507,7 @@
 
 * [curses](https://docs.python.org/3/library/curses.html) -内置包装 [ncurses](http://www.gnu.org/software/ncurses/) 用于创建终端GUI应用程序.
 * [Eel](https://github.com/ChrisKnott/Eel) -用于制作简单的类似电子的脱机HTML / JS GUI应用程序的库.
-* [enaml](https://github.com/nucleic/enaml) -使用诸如QML的声明语法创建漂亮的用户界面.
+* [enaml](https://github.com/nucleic/enaml) -使用声明性语法（如QML）创建漂亮的用户界面.
 * [Flexx](https://github.com/zoofIO/flexx) -Flexx是用于创建GUI的纯Python工具包，它使用Web技术进行呈现.
 * [Gooey](https://github.com/chriskiehl/Gooey) -使用命令行将命令行程序转换为完整的GUI应用程序.
 * [kivy](https://kivy.org/) -用于创建在Windows，Linux，Mac OS X，Android和iOS上运行的NUI应用程序的库.
@@ -518,7 +518,7 @@
 * [pywebview](https://github.com/r0x0r/pywebview/) -围绕Webview组件的轻型跨平台本机包装.
 * [Tkinter](https://wiki.python.org/moin/TkInter) -Tkinter是Python的事实上的标准GUI软件包.
 * [Toga](https://github.com/pybee/toga) -Python本机，OS本机GUI工具包.
-* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持
+* [urwid](http://urwid.org/) -用于创建终端GUI应用程序的库，该库对窗口小部件，事件，丰富的颜色等具有强大的支持.
 * [wxPython](https://wxpython.org/) -wxWidgets C ++类库与Python的混合.
 
 ## Game Development
@@ -526,7 +526,7 @@
 *很棒的游戏开发库.*
 
 * [Cocos2d](http://cocos2d.org/) -cocos2d是用于构建2D游戏，演示和其他图形/交互应用程序的框架.
-* [Harfang3D](http://www.harfang3d.com) - Python framework for 3D, VR and game development.
+* [Harfang3D](http://www.harfang3d.com) -用于3D，VR和游戏开发的Python框架.
 * [Panda3D](https://www.panda3d.org/) -迪士尼开发的3D游戏引擎.
 * [Pygame](http://www.pygame.org/news.html) -Pygame是一组旨在编写游戏的Python模块.
 * [PyOgre](http://www.ogre3d.org/tikiwiki/PyOgre) -用于Ogre 3D渲染引擎的Python绑定，可用于游戏，模拟和任何3D.
@@ -536,7 +536,7 @@
 
 ## Geolocation
 
-*Libraries for geocoding addresses and working with latitudes and longitudes.*
+*用于对地址进行地理编码以及使用纬度和经度的库.
 
 * [django-countries](https://github.com/SmileyChris/django-countries) -一个Django应用，可为模型和表单提供国家/地区字段.
 * [GeoDjango](https://docs.djangoproject.com/en/dev/ref/contrib/gis/) -世界一流的地理网络框架.
@@ -578,7 +578,7 @@
 * [ino](http://inotool.org/) -用于处理的命令行工具包 [Arduino](https://www.arduino.cc/).
 * [keyboard](https://github.com/boppreh/keyboard) -在Windows和Linux上挂钩并模拟全局键盘事件.
 * [mouse](https://github.com/boppreh/mouse) -在Windows和Linux上挂钩并模拟全局鼠标事件.
-* [Pingo](http://www.pingo.io/) -Pingo为编程设备提供了统一的API，例如Raspberry Pi，pcDuino，Intel Galileo等.
+* [Pingo](http://www.pingo.io/) -Pingo提供了统一的API来对Raspberry Pi，pcDuino，Intel Galileo等设备进行编程.
 * [PyUserInput](https://github.com/SavinaRoja/PyUserInput) -用于鼠标和键盘的跨平台控制的模块.
 * [scapy](https://github.com/secdev/scapy) -出色的数据包处理库.
 * [wifi](https://github.com/rockymeza/wifi) -用于在Linux上使用WiFi的Python库和命令行工具.
@@ -607,7 +607,7 @@
 * [CPython](https://github.com/python/cpython) -**默认的，使用C语言编写的Python编程语言的最广泛使用的实现.**
 * [Cython](http://cython.org/) -针对Python优化静态编译器.
 * [CLPython](https://github.com/metawilm/cl-python) -以Common Lisp编写的Python编程语言的实现.
-* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，因为它是更强大的CPython2.7替代（alpha）.
+* [Grumpy](https://github.com/google/grumpy) -比解释器更多的编译器，是更强大的CPython2.7替代（alpha）.
 * [IronPython](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C#.
 * [Jython](https://hg.python.org/jython) -为JVM用Java编写的Python编程语言的实现.
 * [MicroPython](https://github.com/micropython/micropython) -精简高效的Python编程语言实现.
@@ -733,7 +733,7 @@
 *用于建立用户活动的库.*
 
 * [django-activity-stream](https://github.com/justquick/django-activity-stream) -根据您网站上的操作生成常规活动流.
-* [Stream Framework](https://github.com/tschellenbach/Stream-Framework) -使用Cassandra和Redis构建新闻源和通知系统.
+* [Stream Framework](https://github.com/tschellenbach/Stream-Framework) -使用Cassandra和Redis构建新闻提要和通知系统.
 
 ## ORM
 
@@ -777,7 +777,7 @@
 *允许或拒绝用户访问数据或功能的图书馆.*
 
 * [django-guardian](https://github.com/django-guardian/django-guardian) -为Django 1.2+实现每个对象的权限
-* [django-rules](https://github.com/dfunckt/django-rules) -一个微型但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
+* [django-rules](https://github.com/dfunckt/django-rules) -一个小巧但功能强大的应用程序，无需数据库即可提供对Django的对象级权限.
 
 ## Processes
 
@@ -828,7 +828,7 @@
     * [apistar](https://github.com/encode/apistar) -为Python 3设计的智能Web API框架.
     * [falcon](http://falconframework.org/) -用于构建云API和Web应用程序后端的高性能框架.
     * [hug](https://github.com/timothycrosley/hug) -一个用于彻底公开API的Python 3框架.
-    * [restless](https://github.com/toastdriven/restless) -与框架无关的REST框架，该框架基于从Deliciouspie汲取的教训.
+    * [restless](https://github.com/toastdriven/restless) -与框架无关的REST框架，该框架基于从Deliciouspie汲取的经验教训.
     * [ripozo](https://github.com/vertical-knowledge/ripozo) -快速创建REST / HATEOAS / Hypermedia API.
     * [sandman](https://github.com/jeffknupp/sandman) -用于现有数据库驱动系统的自动化REST API.
 
@@ -922,7 +922,7 @@
 * YAML
     * [PyYAML](http://pyyaml.org/) -适用于Python的YAML实现.
 * CSV
-    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用工具
+    * [csvkit](https://github.com/wireservice/csvkit) -用于转换为CSV并与CSV协同工作的实用程序.
 *存档
     * [unp](https://github.com/mitsuhiko/unp) -可以轻松解压缩档案的命令行工具.
 
@@ -981,7 +981,7 @@
 *对象工厂
     * [factory_boy](https://github.com/FactoryBoy/factory_boy) -Python的测试装置替代品.
     * [mixer](https://github.com/klen/mixer)  -更换其他灯具.  支持的Django，Flask，SQLAlchemy，Peewee等
-    * [model_mommy](https://github.com/vandersonmota/model_mommy) -创建用于在Django中测试的随机装置.
+    * [model_mommy](https://github.com/vandersonmota/model_mommy) - Creating random fixtures for testing in Django.
 *代码覆盖率
     * [coverage](https://pypi.org/project/coverage/) -代码覆盖率测量.
 *假数据
@@ -1066,7 +1066,7 @@
 * [django-compressor](https://github.com/django-compressor/django-compressor) -将链接的和内联的JavaScript或CSS压缩到单个缓存的文件中.
 * [django-pipeline](https://github.com/jazzband/django-pipeline) -Django的资产包装库.
 * [django-storages](https://github.com/jschneier/django-storages) -Django的自定义存储后端集合.
-* [fanstatic](http://www.fanstatic.org/en/latest/) -打包，优化并作为Python包提供静态文件依赖项.
+* [fanstatic](http://www.fanstatic.org/en/latest/) - Packages, optimizes, and serves static file dependencies as Python packages.
 * [fileconveyor](http://wimleers.com/fileconveyor) -守护程序，用于检测文件并将其同步到CDN，S3和FTP.
 * [flask-assets](https://github.com/miracle2k/flask-assets) -帮助您将Webassets集成到Flask应用中.
 * [webassets](https://github.com/miracle2k/webassets) -捆绑，优化和管理静态资源的唯一缓存无效化URL.
@@ -1099,7 +1099,7 @@
 
 * [Django](https://www.djangoproject.com/) -Python中最流行的Web框架.
     * [awesome-django](https://github.com/shahraizali/awesome-django)
-* [Flask](http://flask.pocoo.org/) -Python的微框架.
+* [Flask](http://flask.pocoo.org/) - A microframework for Python.
     * [awesome-flask](https://github.com/humiaozuzu/awesome-flask)
 * [Masonite](https://github.com/MasoniteFramework/masonite) -以开发人员为中心的现代Python Web框架.
 * [Pyramid](https://pylonsproject.org/) -一个小型，快速，扎实的开源Python Web框架.
@@ -1129,12 +1129,12 @@
 * [CircleCI](https://circleci.com/) -可以运行非常快速的并行测试的CI服务.
 * [Travis CI](https://travis-ci.org) -流行的CI服务，可用于您的开源和 [private](https://travis-ci.com)  项目.  （仅限GitHub）
 * [Vexor CI](https://vexor.io) -具有按分钟计费模式的私人应用程序的持续集成工具.
-* [Wercker](http://www.wercker.com/) -基于Docker的平台，用于构建和部署应用程序和微服务.
+* [Wercker](http://www.wercker.com/) - A Docker-based platform for building and deploying applications and microservices.
 
 ## Code Quality
 
 * [Codacy](https://www.codacy.com/) -自动代码审查，可以更快地发布更好的代码.
-* [Codecov](https://codecov.io/) -代码覆盖率仪表板.
+* [Codecov](https://codecov.io/) - Code coverage dashboard.
 * [CodeFactor](https://www.codefactor.io/) -Git的自动代码审查.
 * [Landscape](https://landscape.io/) -托管的连续Python代码指标.
 * [PEP 8 Speaks](https://pep8speaks.com/) -GitHub集成以检查代码样式.

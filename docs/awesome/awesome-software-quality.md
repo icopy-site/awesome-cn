@@ -103,6 +103,7 @@
 * [TestNG Tutorial](http://www.tutorialspoint.com/testng/index.htm)
 * [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 * [PropEr Testing](http://propertesting.com/) -弗雷德·赫伯特
+* [Testing mypy stubs, plugins, and types](https://sobolevn.me/2019/08/testing-mypy-types) -Nikita Sobolev
 
 #### Formal methods
 
