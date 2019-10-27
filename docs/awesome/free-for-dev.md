@@ -392,6 +392,7 @@
   * [Sender](https://www.sender.net) 每月多达15000封电子邮件-多达2500个订阅者
   * [Buttondown](https://buttondown.email/)  —通讯服务.  多达1,000个免费订阅者
   * [Substack](https://substack.com)  —无限的免费新闻通讯服务.  收费后开始付款.
+  * [10minutemail](https://github.com/ripienaar/free-for-dev/blob/master/10minutemail.com) -免费的临时电子邮件进行测试.
 
 ## CDN and Protection
 

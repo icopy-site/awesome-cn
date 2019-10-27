@@ -8,9 +8,14 @@
 &gt; *这个很棒的仓库是从ichait [Awesome osx.](https://github.com/iCHAIT/awesome-osx "Awesome osx")*
 &gt; *特别感谢 [egeerardyn](https://github.com/egeerardyn).*
 
+ &gt; *请考虑支持我的工作，因为要花费大量精力来生成此列表！  非常感谢.
+
+<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
+
  &gt; *标有！[开源软件] [OSS图标]的项目是开源软件.  标有！[免费软件] [免费软件图标]的项目是免费的.*
 
 
+    - [IRC channels](#irc-channels) 
 
 
 ## Applications
@@ -58,7 +63,7 @@
 ### Customization
 
 - [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker)  -允许自定义和扩展Windows任务栏功能，并具有各种生产力增强功能.  ！[免费软件] [免费软件图标]
-- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000年一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！
+- [Classic Start](https://github.com/passionate-coder/Classic-Start) -使用开始菜单和资源管理器，就像2000一样.[！[开源软件] [OSS图标]]（https://github.com/passionate-coder/Classic-Start）！[免费] [免费软件]
 - [Clover](http://en.ejie.me/)  -将多选项卡功能添加到Windows资源管理器.  ！[免费软件] [免费软件图标]
 - [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)  -通过系统托盘进行每个应用程序的音量控制.  [！[开源软件] [OSS图标]]（https://github.com/TranslucentTB/TranslucentTB）！[免费软件] [免费软件图标]
 - [QTTabBar](http://qttabbar.wikidot.com/)  -通过标签和额外的文件夹视图扩展资源管理器.  ！[免费软件] [免费软件图标]
@@ -80,7 +85,7 @@
 ### Developer Tools
 
 - [Addict](https://github.com/dthree/addict) -用于Active Directory的嵌入式REST API.
-- [Cacher](https://www.cacher.io/) -具有Gist同步功能，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队支持的代码段管理器.
+- [Cacher](https://www.cacher.io/) -具有Gist同步，VSCode / Atom / Sublime软件包和功能齐全的Web客户端的基于云的，团队启用的代码段管理器.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) -用于创建，设计和编辑与SQLite兼容的数据库文件的高质量，可视，开放源代码工具[！[开源软件] [OSS图标]]（http://sqlitebrowser.org/）
 - [ExtendsClass](https://extendsclass.com/) -开发人员的在线工具（REST / SOAP客户端，SQLite浏览器，Regex测试器，XPath测试器）！[免费软件] [免费软件图标]
 - [Fiddler](http://www.telerik.com/fiddler) -Web调试代理.
@@ -109,9 +114,9 @@
 - [Robo 3T](https://robomongo.org/) -适用于MongoDB爱好者的轻量级GUI.
 - [SourceTree](https://www.sourcetreeapp.com/) -免费的Git和Mercurial客户.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) -MySQL数据库管理器.
-- [SSLyog](https://www.webyog.com/) -强大的MySQL管理工具
+- [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
 - [TailBlazer](https://github.com/RolandPheasant/TailBlazer) -用于浏览日志的小型快速工具[！[开源软件] [OSS图标]]（https://github.com/RolandPheasant/TailBlazer）！[免费软件] [免费软件图标]
-- [TortoiseGit](https://tortoisegit.org/)  -具有完整Shell集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
+- [TortoiseGit](https://tortoisegit.org/)  -具有完整外壳集成的Git客户端.  [！[开源软件] [OSS图标]]（https://github.com/tortoisegit/tortoisegit/）！[免费软件] [免费软件图标]
 - [TortoiseSVN](https://tortoisesvn.net/)  -具有完全Shell集成的Subversion客户端.  [！[开源软件] [OSS图标]]（https://sourceforge.net/projects/tortoisesvn/）！[免费软件] [免费软件图标]
 - [Vagrant](https://www.vagrantup.com/)  -用于构建和管理虚拟机的工具.  [！[开源软件] [OSS图标]]（https://github.com/mitchellh/vagrant）
 - [Velocity](http://velocity.silverlakesoftware.com/)  -离线API文档工具.  （喜欢 [Dash](https://kapeli.com/dash) 对于macOS）
@@ -249,7 +254,7 @@
 
 ### Terminal
 
-- [Alacritty](https://github.com/jwilm/alacritty) -一种跨平台，GPU加速的终端仿真器[！[开源软件] [OSS图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
+- [Alacritty](https://github.com/jwilm/alacritty) -跨平台，GPU加速的终端仿真器[！[开源软件] [OSS图标]]（https://github.com/jwilm/alacritty）！[免费软件] [免费软件图标]
 - [Babun](http://babun.github.io)  -基于Cygwin的替代Windows Shell.  [！[开源软件] [OSS图标]]（https://github.com/babun/babun）！[免费软件] [免费软件图标]
 - [Cmder](https://cmder.net)  -带有clink外壳的控制台仿真器程序包.  [！[开源软件] [OSS图标]]（https://github.com/cmderdev/cmder）！[免费软件] [免费软件图标]
 - [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) -为Windows控制台设置自定义配色方案，并支持iTerm配色方案.
@@ -290,7 +295,7 @@
 - [LightBulb](https://github.com/Tyrrrz/LightBulb) -通过根据当前时间调整伽玛来减轻眼睛疲劳
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) -从资源管理器创建符号链接.
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3)  -提供了一个快速的UI，用于在Windows10上的AC插件上切换电源模式和自动切换.  [！[开源软件] [OSS图标]]（https://github.com/petrroll/PowerSwitcher）
-- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) - Discover which program has a particular file or directory open. Process Explorer shows you information about which handles and DLLs processes have opened or loaded.
+- [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer)  -发现哪个程序打开了特定的文件或目录.  Process Explorer向您显示有关已打开或加载哪些句柄和DLL的信息.
 - [qBittorrent](https://qbittorrent.org/) -免费和可靠的P2P Bittorrent客户端.
 - [rimraf](https://www.npmjs.com/package/rimraf)  -节点的深度删除模块.  帮助删除路径很长的文件和文件夹
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
@@ -398,9 +403,11 @@
 
 ## Backers
 
-谢谢所有支持者！  [Become a backer](https://opencollective.com/awesome-windows#backer)
+感谢所有支持者！ 
 
-<a href="https://opencollective.com/awesome-windows#backers" target="_blank"><img src="https://opencollective.com/awesome-windows/backers.svg?width=890"></a>
+ &gt; *请考虑支持我的工作，因为要花费大量精力来生成此列表！  非常感谢.
+
+<a href="https://www.buymeacoffee.com/rahulkapoor90" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee please!" style="height: 51px !important;width: 217px !important;" ></a>
 
 
 ## License

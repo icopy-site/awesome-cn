@@ -102,7 +102,7 @@
 * [Featuretools](https://github.com/Featuretools/featuretools) -自动化功能工程.
 
 ### Feature Selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库.
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库。
 
 ## Visualization
 * [Matplotlib](https://github.com/matplotlib/matplotlib) -使用Python进行绘图.
@@ -115,13 +115,14 @@
 * [chartify](https://github.com/spotify/chartify/) -Python库，可让数据科学家轻松创建图表.
 * [physt](https://github.com/janpipek/physt) -改进的直方图.
 * [animatplot](https://github.com/t-makaro/animatplot) -用于在matplotlib上构建动画的python软件包.
+* [plotly](https://plot.ly/python/) -一个Python库，可以制作交互式和具有出版质量的图形.
 
 ## Model Explanation
 * [Alibi](https://github.com/SeldonIO/alibi) -用于监视和解释机器学习模型的算法.
 * [anchor](https://github.com/marcotcr/anchor) -“高精度模型不可知的解释”代码.
 * [aequitas](https://github.com/dssg/aequitas) -偏差和公平审计工具包.
 * [ELI5](https://github.com/TeamHG-Memex/eli5) -用于调试/检查机器学习分类器并解释其预测的库.
-* [L2X](https://github.com/Jianbo-Lab/L2X) -复制论文中的实验的代码*“学习解释：模型解释的信息论视角”.
+* [L2X](https://github.com/Jianbo-Lab/L2X) -在论文“学习解释：模型解释的信息理论视角”中复制实验代码.
 * [PDPbox](https://github.com/SauceCat/PDPbox) -部分依赖图工具箱.
 * [PyCEbox](https://github.com/AustinRochford/PyCEbox) -Python个人条件期望图工具箱.
 * [Skater](https://github.com/datascienceinc/Skater) -用于模型解释的Python库.
@@ -147,7 +148,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 
@@ -167,6 +168,7 @@
 <a name="opt"></a>
 ## Optimization
 * [Spearmint](https://github.com/HIPS/Spearmint) -贝叶斯优化.
+* [scikit-opt](https://github.com/guofei9987/scikit-opt) -启发式算法（遗传算法，粒子群优化，模拟退火，蚁群算法，免疫算法，人工鱼群算法）用于优化.
 * [SMAC3](https://github.com/automl/SMAC3) -基于顺序模型的算法配置.
 * [Optunity](https://github.com/claesenm/optunity) -是一个包含用于超参数调整的各种优化器的库.
 * [hyperopt](https://github.com/hyperopt/hyperopt) -Python中的分布式异步超参数优化.
@@ -218,7 +220,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
+* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 

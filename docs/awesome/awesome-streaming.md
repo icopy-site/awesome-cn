@@ -22,7 +22,8 @@
 - [Gearpump](https://github.com/gearpump/gearpump) [Scala]-基于Akka构建的轻量级实时分布式流引擎.
 - [Hazelcast Jet](https://github.com/hazelcast/hazelcast-jet) [Java]-基于Hazelcast构建的通用分布式数据处理引擎.
 - [hailstorm](https://github.com/hailstorm-hs/hailstorm) [Haskell]-基于Storm的具有精确一次语义的分布式流处理.
-- [heron](https://github.com/apache/incubator-heron)  -Twitter的实时分析平台，与Storm完全API兼容.  暴风雨已在Twitter上被苍鹭取代.
+- [heron](https://github.com/apache/incubator-heron)  [Java]-Twitter的实时分析平台，与Storm完全API兼容.  暴风雨已在Twitter上被苍鹭取代.
+- [mantis](https://github.com/Netflix/mantis) [Java]-Netflix建立实时流处理应用程序生态系统的平台
 - [mupd8(muppet)](https://github.com/walmartlabs/mupd8) [Scala / Java]-用于处理快速/流数据的mapReduce样式的框架.
 - [Onyx](https://github.com/onyx-platform/onyx) [Clojure]-分布式，无主控，高性能，容错数据处理.
 - [s4](https://github.com/apache/incubator-s4) [Java]-通用的，分布式的，可伸缩的，容错的，可插拔的平台，允许程序员轻松开发用于处理连续无限制数据流的应用程序.
@@ -122,7 +123,6 @@ Mesos专为需要灵活性和控制力的高性能数据处理作业而设计.
 - [concord](https://www.slideshare.net/concord-io/may-2016-data-by-the-bay-concord-simple-flexible-stream-processing-on-apache-mesos) [C ++]-在Apache之上以C ++构建的分布式流处理框架.
 - [IBM Streams](https://www.ibm.com/analytics/us/en/technology/stream-computing/)  [Python / Java / Scala]-用于分布式处理和实时分析的平台.  提供了用于高级分析（如地理空间，时间序列等）的工具箱.
 - [jubatus](http://jubat.us/en/) [C ++]-分布式处理框架和流机器学习库.
-- [mantis](http://www.slideshare.net/g9yuayon/qcon-talk-on-netflix-mantis-a-stream-processing-system), [tech-blog](https://medium.com/netflix-techblog/stream-processing-with-mantis-78af913f51a6) -Netflix的事件流处理系统.
 - [millwheel](http://research.google.com/pubs/pub41378.html) -用于构建低延迟数据处理应用程序的框架，该框架已在Google上广泛使用.
 
 

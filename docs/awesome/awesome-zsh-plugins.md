@@ -128,7 +128,7 @@ zapack is a basic fast minimal ZSH plugin loader.
 
 ### [zoppo](https://github.com/zoppo/zoppo)
 
- ** Zoppo **是ZSH的残缺配置框架.  就像一句意大利谚语所说：“ chi va con lo zoppo，impara是zoppicare”，我们意识到自己正带着a子走路，现在自己会变得残废.
+ ** Zoppo **是ZSH的残缺配置框架.  就像一句意大利谚语所说：“ chi va con lo zoppo，impara是zoppicare”，我们意识到自己正with着脚走路，现在自己会变得残废.
 
 ### [zpacker](https://github.com/happyslowly/zpacker)
 
@@ -177,7 +177,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 *安装Zsh插件
 *更新Zsh插件
 *按名称搜索所有可用的Zsh插件
-*清理未使用的插件
+* Clean unused plugins up
 *在单个命令中运行上述操作*
 *管理已安装插件的__Source插件__
 
@@ -393,7 +393,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [git-aliases.zsh](https://github.com/peterhurford/git-aliases.zsh) -为常用的git命令的组合创建很多有用的别名.
 * [git-complete-urls](https://github.com/rapgenic/zsh-git-complete-urls) -增强`git`补全功能，以将远程控制补全中的内容（例如来自`git clone`中的内容）包括在剪贴板中.
 * [git-extra-commands](https://github.com/unixorn/git-extra-commands) -额外的git辅助脚本打包为插件.
-* [git-ignore](https://github.com/laggardkernel/git-ignore) - Generates `.gitignore` files from gitignore.io **offline**. `fzf`, completion, preview integrated.
+* [git-ignore](https://github.com/laggardkernel/git-ignore)  -从gitignore.io“离线”生成`.gitignore`文件.  `fzf`，完成，预览已集成.
 * [git-it-on](https://github.com/peterhurford/git-it-on.zsh) -增加了在GitHub当前分支中打开文件夹的功能.
 * [git-plugin](https://github.com/rcruzper/zsh-git-plugin) -为`git`添加了一些功能.
 * [git-prompt-useremail](https://github.com/mroth/git-prompt-useremail) -为`git` user.email添加提示提醒.
@@ -502,7 +502,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [nice-exit-code](https://github.com/bric3/nice-exit-code) -将退出状态代码映射到人类可读的字符串.
 * [nix-shell](https://github.com/chisui/zsh-nix-shell) -可让您将ZSH用作默认`nix-shell` shell的插件.
 * [node-path](https://github.com/andyrichardson/zsh-node-path) -自动将当前目录的“ npm bin”添加到路径.
-* [node](https://github.com/srijanshetty/node.plugin.zsh) -Srijan Shetty的ZSH的nodejs插件，具有对`nvm`补全内容进行缓存并自动加载`nvm`的功能（如果存在）.
+* [node](https://github.com/srijanshetty/node.plugin.zsh) -Srijan Shetty的ZSH的nodejs插件，具有对`nvm`补全进行缓存和对`nvm`的自动加载（如果存在）的功能.
 * [nodenv](https://github.com/jsahlen/nodenv.plugin.zsh) -自动将nodenv及其补全加载到外壳中.
 * [nohup](https://github.com/micrenda/zsh-nohup) -按Ctrl-H将nohup添加到当前命令.
 * [nonotes](https://github.com/stevemcilwain/nonotes)  -用于笔测试的插件.  无需更多注释，也无需复制和粘贴命令.
@@ -669,7 +669,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [workon](https://github.com/bryanculver/workon.plugin.zsh) -在项目之间跳转的简单实用程序.
 * [yadm](https://github.com/juanrgon/yadm-zsh) -如果本地yadm配置发生更改，则显示警告.
 * [yapipenv](https://github.com/AnonGuy/yapipenv.zsh) -如果`pipenv`检测到存在一个目录，则自动激活目录的pip环境.
-* [yeoman](https://github.com/edouard-lopez/yeoman-zsh-plugin) -爱德华·洛佩兹（Edouard Lopez）用于oh-my-zsh的Yeoman插件，与yeoman版本≥1.0兼容（包括选项和命令自动完成）.
+* [yeoman](https://github.com/edouard-lopez/yeoman-zsh-plugin) -爱德华·洛佩兹（Edouard Lopez）的oh-my-zsh的Yeoman插件，与yeoman≥1.0版本兼容（包括选项和命令自动完成）.
 * [you-should-use](https://github.com/MichaelAquilina/zsh-you-should-use) -ZSH插件，提醒您使用定义的别名.
 * [youtube-dl](https://github.com/joow/youtube-dl) -适用于的简单插件 [youtube-dl](https://youtube-dl.org/).
 * [z-a-bin-gem-node](https://github.com/zplugin/z-a-bin-gem-node) -Zplugin扩展，a）在不更改`$ PATH`的情况下公开二进制文件，b）安装Ruby gems和Node模块，并轻松公开其二进制文件，c）在相关插件或代码段更新时更新gems和模块.
@@ -1187,7 +1187,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [sixlive](https://github.com/sixlive/sixlive-zsh-theme)  -此主题具有唯一的目录列表.  在`git`项目中时，目录显示的范围为当前存储库根目录.
 * [sk9](https://github.com/skeiter9/sk9-zsh) -Skeiter9的ZSH主题.
 * [skeletor-syntax](https://github.com/ramonmcros/skeletor-syntax) -受到He-Man和Universal Masters启发的Atom，Prism和ZSH主题集合.
-* [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) -针对黑暗终端进行了优化，显示`git`状态装饰.
+* [skill](https://github.com/frontendmonster/oh-my-zsh-skill-theme) -针对暗终端进行了优化，显示`git`状态装饰.
 * [sleeplessmind](https://github.com/godbout/sleeplessmind-zsh-theme) -ZSH主题的灵感来自 [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) 和 [odin](https://github.com/tylerreckart/odin).
 * [slimline](https://github.com/mgee/slimline)  -最小，快速且优雅的ZSH提示.  在正确的时间显示正确的信息.
 * [sm](https://github.com/blyndusk/sm-theme)  **收藏夹**终端的** Simplist **和** Minimalist **主题.  包括`git`状态装饰.
@@ -1257,6 +1257,7 @@ Zsh会话的状态，并从磁盘中删除插件和片段.
 * [zsh2000](https://github.com/inspectahstack/zsh2000) -电力线外观ZSH主题，包括“ rvm”提示符，“ git”状态和分支，当前时间，用户，主机名，密码，退出状态，是否以root和后台作业状态运行.
 * [zsh313](https://github.com/amirali313/zsh313-theme) -带有`git`状态装饰的最小主题.
 * [zshcomrade](https://github.com/landongn/zshcomrade) -ZSH主题，同志！
+* [zshred](https://github.com/redxtech/zshred) -显示当前目录，`git`装饰，上一个命令的退出状态和时间.
 * [zwsh](https://github.com/naens/zwsh) -ZSH的Zpm3 / Wordstar模式/主题.
 * [zys](https://github.com/ZYSzys/zys-zsh-theme) -类似于agnoster-zsh-theme，旨​​在通过电力线美学在上下文中公开信息.
 

@@ -87,7 +87,6 @@
 - [seb-mac](https://github.com/SafeExamBrowser/seb-mac)  -适用于macOS和iOS的安全考试浏览器.  ！[c_icon] 
 
 ### Chat
-- [Android Messenger Mac](https://github.com/larson-carter/android-messenger-mac)  -围绕Google独立的Android Messenger的Mac应用程序包装.  ！[javascript_icon] 
 - [Beagle IM](https://github.com/tigase/beagle-im)  强大的XMPP客户端，支持文件传输，VoIP和端到端加密.  ！[swift_icon] 
 - [ChitChat](https://github.com/stonesam92/ChitChat)  -WhatsApp Web的本机Mac应用程序包装.  ！[objective_c_icon] 
 - [Electronic WeChat](https://github.com/geeeeeeeeek/electronic-wechat)  -在macOS和Linux上更好的微信.  ！[javascript_icon] 
@@ -156,7 +155,7 @@
 #### Web Development
 - [CoreOS VM](https://github.com/TheNewNormal/coreos-osx)  -CoreOS VM是macOS状态栏应用程序，可轻松控制Mac上的CoreOS VM.  ！[objective_c_icon] 
 - [Corectl App for macOS](https://github.com/TheNewNormal/corectl.app)  -Corectl应用程序是一个macOS状态栏应用程序，其功能类似于corectl命令行工具corectld的包装程序，以控制服务器运行时进程.  ！[swift_icon] 
-- [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop)  -HTTP工具包是一个跨平台的工具，用于拦截，调试和模拟HTTP.  ！[typescript_icon] 
+- [HTTP Toolkit](https://github.com/httptoolkit/httptoolkit-desktop)  -HTTP工具包是一个跨平台的工具，用于拦截，调试和模拟HTTP.  ！[type_script_icon] 
 - [Insomnia](https://github.com/getinsomnia/insomnia)  -Insomnia是建立在Electron之上的跨平台REST客户端.  ！[javascript_icon] 
 - [KubeMonitor](https://github.com/DanSanche/KubeMonitor)  -KubeMonitor是一个macOS应用，可在菜单栏中显示有关活动的Kubernetes集群的信息.  ！[swift_icon] 
 - [KubeSwitch](https://github.com/nsriram/KubeSwitch)  -KubeSwitch在Mac的菜单栏中列出了Mac上可用的kubernetes集群上下文.  ！[swift_icon] 
@@ -237,7 +236,7 @@
 
 #### Text
 - [CotEditor](https://github.com/coteditor/CotEditor)  -适用于macOS的轻型纯文本编辑器.  ！[swift_icon] 
-- [MacVim](https://github.com/macvim-dev/macvim) - Text editor for macOS.  ![c_icon] 
+- [MacVim](https://github.com/macvim-dev/macvim)  -适用于macOS的文本编辑器.  ！[c_icon] 
 - [Noto](https://github.com/brunophilipe/noto)  -具有可自定义主题的macOS纯文本编辑器.  ！[swift_icon] 
 - [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit)  -适用于macOS的通用纯文本编辑器.  因其实时协作功能而广为人知.  ！[objective_c_icon] 
 - [TextMate](https://github.com/textmate/textmate)  -TextMate是用于macOS的图形文本编辑器.  ！[objective_c_icon] 
@@ -426,8 +425,8 @@
 - [Quickwords](https://github.com/quickwords/quickwords)  -在几秒钟内写下所有内容.  创建可替代文本，执行繁琐任务等的代码片段.  ！[javascript_icon]！[css_icon] 
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol)  -macOS应用程序可在一段预定的时间内阻止您自己访问分散注意力的网站等.  无法通过应用程序或通过重新启动撤消它–您必须等待计时器用完.  ！[objective_c_icon] 
 - [Speed Reader](https://github.com/LumingYin/SpeedReader)  -通过SpeedReader消除发声的力量，更快地阅读.  ！[swift_icon] 
-- [StickyNotes](https://github.com/LumingYin/StickyNotes)  -在AppKit中实现的Windows 10风格便笺应用程序.  ！[swift_icon] 
-- [Super Productivity](https://github.com/johannesjo/super-productivity)  -通过Jira集成为程序员和设计师免费提供列表和时间跟踪器.  ！[typescript_icon]！[javascript_icon] 
+- [StickyNotes](https://github.com/LumingYin/StickyNotes) - A Windows 10-esque Sticky Notes app implemented in AppKit. ![swift_icon] 
+- [Super Productivity](https://github.com/johannesjo/super-productivity)  -通过Jira集成为程序员和设计师免费提供列表和时间跟踪器.  ！[type_script_icon]！[javascript_icon] 
 - [Thyme](https://github.com/joaomoreno/thyme) -OS X的任务计时器.！[objective_c_icon] 
 - [Timer](https://github.com/michaelvillar/timer-app)  -适用于Mac的简单计时器应用程序.  ！[swift_icon] 
 - [Toggl Desktop](https://github.com/toggl/toggldesktop/tree/app-store-release-v7.3.319)  -适用于Windows，Mac和Linux的Toggl Desktop应用程序.  ！[cpp_icon] 
@@ -554,7 +553,7 @@
 - [PowerShell](https://github.com/powershell/powershell)  -PowerShell是跨平台的自动化和配置工具/框架，可与您现有的工具很好地配合使用.  ！[c_sharp_icon] 
 - [ScreenCat](https://github.com/maxogden/screencat)  -ScreenCat是一个屏幕共享+远程协作应用程序.  ！[javascript_icon]！[css_icon] 
 - [SlowQuitApps](https://github.com/dteoh/SlowQuitApps)  -向Command-Q添加全局延迟以阻止意外退出应用程序.  ！[objective_c_icon] 
-- [Super Productivity](https://github.com/johannesjo/super-productivity)  -通过Jira集成为程序员和设计师免费提供列表和时间跟踪器.  ！[typescript_icon]！[javascript_icon] 
+- [Super Productivity](https://github.com/johannesjo/super-productivity)  -通过Jira集成为程序员和设计师免费提供列表和时间跟踪器.  ！[type_script_icon]！[javascript_icon] 
 - [Telephone](https://github.com/64characters/Telephone)  -适用于macOS的SIP网络电话.  ！[objective_c_icon]！[swift_icon] 
 - [The Blockstack Browser](https://github.com/blockstack/blockstack-browser)  -Blockstack是用于分散式应用程序的互联网，用户拥有自己的数据.  Blockstack浏览器使您可以浏览Blockstack Internet.  ！[javascript_icon] 
 - [The Unarchiver](https://bitbucket.org/kosovan/theunarchiver/src )  -Unarchiver是用于解压缩存档文件的Objective-C应用程序.  ！[objective_c_icon] 
@@ -579,7 +578,7 @@
 - [Acid.Cam.v2.OSX](https://github.com/lostjared/Acid.Cam.v2.OSX)  -适用于macOS的Acid Cam v2扭曲了视频以创造艺术.  ！[cpp_icon] 
 - [AppleEvents](https://github.com/insidegui/AppleEvents)  -适用于macOS的非官方Apple Events应用.  ！[objective_c_icon] 
 - [Conferences.digital](https://github.com/zagahr/Conferences.digital)  -在Mac上免费观看喜爱的开发者会议上最新，最精彩的视频的最佳方法.  ！[swift_icon] 
-- [Datamosh](https://github.com/maelswarm/Datamosh)  -在macOS上对视频进行数据删除.  ！[swift_icon] 
+- [Datamosh](https://github.com/maelswarm/Datamosh) - Datamosh your videos on macOS.  ![swift_icon] 
 - [Face Data](https://github.com/xiaohk/FaceData)  -用于从视频中自动注释地标的macOS应用程序.  ！[swift_icon] 
 - [GNU Gatekeeper](https://github.com/willamowius/gnugk)  -用于H.323终端的视频会议服务器.  ！[cpp_icon] 
 - [Gifted](https://github.com/vdel26/gifted)  -快速轻松地将任何短视频转换为GIF动画.  ！[objective_c_icon] 

@@ -204,7 +204,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [Logging](https://github.com/BlazorExtensions/Logging) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Logging?style=flat-square&cacheSeconds=604800) Blazor的Microsoft Extension Logging实现.
 * [Blazored.LocalStorage](https://github.com/Blazored/LocalStorage) - ![GitHub stars](https://img.shields.io/github/stars/Blazored/LocalStorage?style=flat-square&cacheSeconds=604800) 一个提供对Blazor应用程序中本地存储的访问的库.
 * [BlazorStorage](https://github.com/cloudcrate/BlazorStorage) - ![GitHub stars](https://img.shields.io/github/stars/cloudcrate/BlazorStorage?style=flat-square&cacheSeconds=604800) Blazor的本地和会话存储支持.
-* [BlazorDB](https://github.com/chanan/BlazorDB) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorDB?style=flat-square&cacheSeconds=604800) In-memory, persisted to local storage, database for Blazor.
+* [BlazorDB](https://github.com/chanan/BlazorDB) - ![GitHub stars](https://img.shields.io/github/stars/chanan/BlazorDB?style=flat-square&cacheSeconds=604800) 内存中，持久存储到Blazor的本地存储数据库.
 * [BlazorSignalR](https://github.com/csnewman/BlazorSignalR) - ![GitHub stars](https://img.shields.io/github/stars/csnewman/BlazorSignalR?style=flat-square&cacheSeconds=604800) SignalR Core .NET client library for Blazor. It uses the C# client.
 * [Blazor.Auth0](https://github.com/Pegazux/Blazor.Auth0) - ![GitHub stars](https://img.shields.io/github/stars/Pegazux/Blazor.Auth0?style=flat-square&cacheSeconds=604800) 使用的库 [Auth0](https://auth0.com/) 在Blazor应用程序中.
 * [Notifications](https://github.com/BlazorExtensions/Notifications) - ![GitHub stars](https://img.shields.io/github/stars/BlazorExtensions/Notifications?style=flat-square&cacheSeconds=604800) Microsoft Blazor的HTML5 Notifications API实现.
@@ -246,6 +246,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 
 ## Videos
 * [SPA Revolution with WebAssembly and ASP.NET Blazor](https://www.youtube.com/watch?v=kTBW94GcRJY&feature=youtu.be) - October 23, 2019 - Recording of the session by Rainer Stropek at the Tech Days Stockholm 2019, "SPA Revolution with WebAssembly and ASP.NET Blazor" ([Event](https://www.tdswe.se/activity/spa-revolution-with-webassembly-and-asp-net-blazor/) ）.  WebAssembly（WASM）正在挑战JavaScript在浏览器中的垄断地位.  当前，许多高级语言正在评估WASM是否是他们征服Web客户端的一种方式.  .NET正在引领这一运动.
+* [Blazor and Customizing the OData entity model](https://channel9.msdn.com/Shows/On-NET/Blazor-and-Customizing-the-OData-entity-model) -2019年10月22日-在第9频道发布Blazor和自定义OData实体模型.
 * [OceanNumericInput Component](https://www.youtube.com/watch?v=HHPcjEeSiSc) -2019年10月19日-有关OceanNumericInput组件用法的概述以及Blazor业务应用程序中为何需要它的原因. [OceanNumericInput Component source code](https://github.com/OceanLibrary/Ocean/blob/master/Source/Ocean.Blazor/OceanNumericInput.cs). [NuGet package](https://www.nuget.org/packages?q=OCEANWARE).
 * [Episode 582: Jeremy Likness on Blazor](https://www.youtube.com/watch?v=A_zhrjSHSpE) - October 17, 2019 - Technology and Friends, Episode 582: Jeremy Likness on Blazor. Blazor is a framework for building full-stack web apps in the browser using C#. Jeremy Likness describes how it works and how to use it.
 * [Blazor StateHasChanged: Responsive and Adaptive web rendering](https://www.twitch.tv/videos/493138351) -2019年10月11日-自适应和自适应Web渲染.
@@ -333,7 +334,7 @@ Blazor lets you build interactive web UIs using C# instead of JavaScript. Blazor
 * [The Future of Client-Side Blazor: PWAs, Desktop/Mobile, Native (and even Flutter?)](https://visualstudiomagazine.com/articles/2019/09/26/blazor-future.aspx) -2019年9月26日-客户端Blazor的未来：Visual Studio Magazine撰写的PWA，台式机/移动设备，本机（甚至Flutter？）
 * [Migrate Protogen To Blazor](https://remibou.github.io/Migrate-protogen-to-Blazor/) -2019年9月26日-将Protogen迁移到Blazor.
 * [Telerik UI for Blazor 2.1.0](https://www.telerik.com/blogs/telerik-ui-for-blazor-2.1.0-asp.net-core-3.0-compatibility-scatter-scatter-line-and-bubble-charts!) -2019年9月25日-适用于Blazor 2.1.0的Telerik UI – ASP.NET Core 3.0兼容性，散点图，散点图和气泡图！
-* [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0?view=aspnetcore-3.0) -2019年9月23日-ASP.NET Core 3.0的新增功能.
+* [What's new in ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0?view=aspnetcore-3.0) - September 23, 2019 - What's new in ASP.NET Core 3.0.
 * [Telerik and Kendo UI R3 Release 2019 is Here!](https://www.telerik.com/blogs/telerik-and-kendo-ui-r3-release-2019-is-here!) -2019年9月18日-Telerik和Kendo UI R3 Release 2019来了！
 * [An Introduction to OwningComponentBase](https://chrissainty.com/an-introduction-to-owningcomponentbase/) -2019年9月17日-这篇文章探讨了OwningComponentBase类，该类已添加到.NET Core 3 Preview 9中的Blazor中.此类具有一个目的，即创建服务提供者范围.
 * [ASP.NET Core and Blazor updates in .NET Core 3.0 Release Candidate 1](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-release-candidate-1/) -2019年9月16日-.NET Core 3.0版本候选1中的ASP.NET Core和Blazor更新.
