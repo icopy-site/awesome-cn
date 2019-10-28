@@ -5,7 +5,7 @@
 
 &gt;精心挑选的很棒的清单 [creative coding](https://en.wikipedia.org/wiki/Creative_coding) 主要面向初学者/中级的资源.
 
- 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表达为编码的艺术品.
+ 创意编码是与编程系统不同的学科.  我们的目标是创建具有表现力的东西，而不是功能性的东西.  **互动设计**，**信息可视化**和**生成艺术**都是不同类型的创意编码-这已成为家喻户晓的术语，用于描述**明确表示为编码的艺术品.
 
 *请阅读 [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) 在捐款之前.*
 
@@ -96,6 +96,7 @@
 - [PixelKit](http://pixelkit.net/) [iOS，Mac]-开源，实时图形，Swift框架，由Metal提供支持.
 - [OPENRNDR](https://openrndr.org/) [跨平台]-用Kotlin编写的用于创意编码的开源库.
 - [Phaser](https://phaser.io/) [跨平台]-用于构建游戏的HTML5框架，同时使用Canvas和WebGL渲染器.
+- [Canvas-sketch](https://github.com/mattdesl/canvas-sketch) [跨平台]-用于在JavaScript和浏览器中生成生成图稿的HTML5框架.
 
 ### Visual Programming Languages
 
@@ -219,7 +220,7 @@
 - [Fun with WebGL 2.0](https://www.youtube.com/watch?v=LtFujAtKM5I&list=PLMinhigDWz6emRKVkVIEAaePW7vtIkaIF) -有关WebGL 2.0的YouTube播放列表.
 - [Modern OpenGL 3.0+ Tutorials](https://www.youtube.com/playlist?list=PLRtjMdoYXLf6zUMDJVRZYV-6g6n62vet8) -有关现代OpenGL的YouTube播放列表.
 - [Vertexshaderart](https://www.youtube.com/channel/UC6IqL5vkMJpqBG_bFDjsaxw) -有关顶点着色器的YouTube播放列表.
-- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) -YouTube播放列表深入到three.js.
+- [Diving in Three.js](https://www.youtube.com/playlist?list=PL08jItIqOb2qyMOhtEUoLh100KpccQiRf) - YouTube playlist diving into three.js.
 - [Shadertoy Tutorials](https://www.youtube.com/watch?v=u5HAYVHsasc&list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5) -YouTube播放列表，教您如何制作着色器，从使用着色器的零知识开始.
 - [WebGL Lightning](https://www.youtube.com/playlist?list=PLxaZqnd-OQM7Y0lfe7h2cjlQAm5O9_6UL) -Greg Tatum的WebGL闪电介绍.
 
@@ -230,9 +231,9 @@
 - [There is also canvas](https://slideslive.com/38898318/there-is-also-canvas) -Bruno Imbrizi在WebExpo 2016上通过画布进行创意编码.交互式幻灯片 [here](https://brunoimbrizi.github.io/webexpo-2016/dist/).
 - [Draw. Move. Fail. Repeat.](http://setimeout.com/workshops/gobelins-2016/) -滑过 [@williamapan](https://twitter.com/williamapan) 来自他在Gobelins的创意开发者工作室.
 - [OpenGL 3D Game Tutorials](https://www.youtube.com/playlist?list=PLRIWtICgwaX0u7Rf9zkZhLoLuZVfUksDP) -有关创建3D游戏OpenG的初学者教程系列.
-- [How We Do This Shit](http://how-we-do-this-shit.com/) - Talk on how tech-based artists do this financially.
+- [How We Do This Shit](http://how-we-do-this-shit.com/) -谈谈基于技术的艺术家如何在财务上做到这一点.
 - [Making WebGL Dance](http://acko.net/files/fullfrontal/fullfrontal/webglmath/online.html) -如何学会停止烦恼和热爱线性代数.
-- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -谈论史蒂芬·维滕斯（Steven Wittens）的WebGL，GPU和数学.
+- [The Pixel Factory](http://acko.net/files/gltalks/pixelfactory/online.html) -史蒂文·维滕斯（Steven Wittens）谈论WebGL，GPU和数学.
 - [Poetic Computation](https://www.youtube.com/watch?v=bmztlO9_Wvo&t=387s) -Zach Lieberman的鼓舞人心的演讲.
 - [Generative Machines](https://www.youtube.com/watch?v=8Uo6zFwSO78) -Matt DesLauriers的FITC谈谈他对艺术创作的热情.
 
@@ -244,7 +245,7 @@
 - [Introduction to shaders](https://aerotwist.com/tutorials/an-introduction-to-shaders-part-1/) -使用threejs的着色器简介的第1部分.
 - [Three.js 101](https://medium.com/@necsoft/three-js-101-hello-world-part-1-443207b1ebe1) -从创意编码器的角度介绍three.js.
 - [Experimenting with Three.js shaders and the ShaderMaterial](http://blog.2pha.com/experimenting-threejs-shaders-and-shadermaterial) -自定义网格着色器材料介绍.
-- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) -在lwjgl-basics上下文中的着色器教程.
+- [lwjgl: Shaders](https://github.com/mattdesl/lwjgl-basics/wiki/Shaders) - Shader tutorial in the context of lwjgl-basics.
 - [Shaders: A primer](https://notes.underscorediscovery.com/shaders-a-primer/) -着色器入门.
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) -上一部分的第二部分.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) -片段着色器的简要介绍.
@@ -401,7 +402,7 @@
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) -有关动画数学的幻灯片（[repo](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) -对数学和准物理的美观直观介绍.
 - [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) -介绍2D和3D Perlin噪声.
-- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) -矩阵的高级介绍.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) -所有数学符号和符号的列表.
 - [The magnificent 2d matrix](http://ncase.me/matrix/) -交互式工具，可以更好地理解变换矩阵.
 - [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) -用于运动的JavaScript数学片段.
@@ -498,7 +499,7 @@
 
 - [Awesome opengl](https://github.com/eug/awesome-opengl) -精选的很棒的OpenGL库，调试器和资源列表.
 - [Awesome webgl](https://github.com/sjfricke/awesome-webgl) -精选的很棒的WebGL库，资源列表等等.
-- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) -精选的HTML5画布精选示例，相关文章和帖子的清单.
+- [Awesome canvas](https://github.com/raphamorim/awesome-canvas) -精选HTML5画布的精选清单，并提供示例，相关文章和帖子.
 - [Awesome audio visualization](https://github.com/willianjusten/awesome-audio-visualization) -关于音频可视化的精选列表.
 - [Awesome computer vision](https://github.com/jbhuang0604/awesome-computer-vision) -精选的计算机视觉资源精选清单.
 - [Awesome visualization research](https://github.com/mathisonian/awesome-visualization-research) -精选的推荐研究论文清单和有关数据可视化的其他阅读材料.

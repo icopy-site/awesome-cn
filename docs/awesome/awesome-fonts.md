@@ -38,7 +38,7 @@
 #### Fonts
 * [Amstelvar](https://github.com/TypeNetwork/Amstelvar) -参数可变字体
 * [AtF Spark](https://aftertheflood.co/projects/sparks/) -旨在产生迷你图的字体
-* [Barlow](https://github.com/jpt/barlow) -grotesk可变字体超家族
+* [Barlow](https://github.com/jpt/barlow) - A grotesk variable font superfamily
 * [Inter](https://github.com/rsms/inter) -专为用户界面设计的字体
 * [Libre Franklin](https://github.com/impallari/Libre-Franklin) -基于莫里斯·富勒·本顿（Morris Fuller Benton）1912年的经典作品的诠释和扩展.
 * [Manrope](https://github.com/sharanda/manrope) -现代几何无衬线
@@ -123,7 +123,7 @@
 * [Hack](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) -专门为代码设计的灵活字体系统
-* [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) - Geometric monospaced typeface
+* [Lab Mono](https://github.com/hatsumatsu/Lab-Mono) -几何等宽字体
 * [Meslo-Font](https://github.com/andreberg/Meslo-Font) -Apple的Menlo字体的定制版本
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) -为Powerline，Font Awesome，Octicons，Devicons和Vim Devicons收集了20多种修补字体
@@ -139,6 +139,7 @@
 * [Monoid](https://github.com/larsenwork/monoid)
 * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/) -Haskell，Agda，APL等带有特殊连字的专有字体
 * [Dank Mono](https://dank.sh/) —具有令人愉快的连字和斜体变体的高级编程字体
+* [Victor Mono](https://rubjo.github.io/victor-mono/) -具有半连接草书斜体，符号连字和拉丁，西里尔和希腊字符的免费编程字体
 
 ## JavaScript libs
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)

@@ -58,6 +58,7 @@
   - [2015 / Stop, Copy/Paste Networking & Innovate](https://www.gdcvault.com/play/1022787/Stop-Copy-Paste-Networking) -索尼的克莱尔·布莱克肖（Claire Blackshaw）的高级设计方法.
   - [2016 / Fighting Latency on Call of Duty Black Ops III](https://www.gdcvault.com/play/1023220/Fighting-Latency-on-Call-of) -来自Activision的Benjamin Goyette的详细技术.
   - [2017 / Overwatch Gameplay Architecture and Netcode](https://www.gdcvault.com/play/1024001/-Overwatch-Gameplay-Architecture-and) -仿真，确定性，响应能力和精度.
+  - [2017 / Replicating Chaos: Vehicle Replication in Watch Dogs 2](https://www.youtube.com/watch?v=_8A2gzRrWLk) -在P2P模拟中复制车辆运动.
   - [2018 / 8 Frames in 16ms](https://www.youtube.com/watch?v=7jb0FOcImdg) -迈克尔·史泰龙（Mortal Kombat）和《不公正2》中的回滚网络.
   - [2018 / It IS Rocket Science!](https://www.gdcvault.com/play/1024972/It-IS-Rocket-Science-The) -Jared Cone详细介绍了Rocket League的物理和网络.
   - [2019 / Quantum Deep Dive](https://vimeo.com/335798361/2f90c04a30) -Exit Games的Eric的Unity光子量子确定性网络引擎.

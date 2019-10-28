@@ -6,7 +6,7 @@
 	<br>
 	<p>
 		<a href="https://triplebyte.com/a/aZxgKGg/d">
-			<b>找工作？</b>
+			<b>找工作吗？</b>
 			<br>
 			 无需简历.  只要证明您可以编码即可.
 			<br>
@@ -60,7 +60,7 @@
 - [Xamarin](https://github.com/XamSome/awesome-xamarin#readme) -移动应用程序开发IDE，测试和分发.
 - [Linux](https://github.com/aleksandar-todorovic/awesome-linux#readme)
 	- [Containers](https://github.com/Friz-zy/awesome-linux-containers#readme)
-	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，可让您编写更有效，更强大的Linux系统跟踪和监视.
+	- [eBPF](https://github.com/zoidbergwill/awesome-ebpf#readme) -虚拟机，使您可以编写更有效，更强大的Linux系统跟踪和监视.
 - [macOS](https://github.com/iCHAIT/awesome-macOS#readme) -适用于Apple Mac电脑的操作系统.
 	- [Command-Line](https://github.com/herrbischoff/awesome-macos-command-line#readme)
 	- [Screensavers](https://github.com/agarrharr/awesome-macos-screensavers#readme)
@@ -75,7 +75,7 @@
 - [Fuse](https://github.com/fuse-compound/awesome-fuse#readme) -移动开发工具.
 - [Heroku](https://github.com/ianstormtaylor/awesome-heroku#readme) -云平台即服务.
 - [Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi#readme) -信用卡大小的计算机，旨在教孩子们编程，但功能更多.
-- [Qt](https://github.com/JesseTG/awesome-qt#readme) -跨平台的GUI应用程序框架.
+- [Qt](https://github.com/JesseTG/awesome-qt#readme) - Cross-platform GUI app framework.
 - [WebExtensions](https://github.com/fregante/Awesome-WebExtensions#readme) -跨浏览器扩展系统.
 - [RubyMotion](https://github.com/motion-open-source/awesome-rubymotion#readme) -使用Ruby编写适用于iOS，Android，macOS，tvOS和watchOS的跨平台本机应用程序.
 - [Smart TV](https://github.com/vitalets/awesome-smart-tv#readme) -为不同的电视平台创建应用.
@@ -137,7 +137,7 @@
 - [Julia](https://github.com/svaksha/Julia.jl#readme)
 - [Lua](https://github.com/LewisJEllis/awesome-lua#readme)
 - [C](https://github.com/aleksandar-todorovic/awesome-c#readme)
-- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -倾向于系统编程和嵌入式，资源受限的软件的通用语言.
+- [C/C++](https://github.com/fffaraz/awesome-cpp#readme) -通用语言，倾向于系统编程和嵌入式，资源受限的软件.
 - [R](https://github.com/qinwf/awesome-R#readme)
 - [D](https://github.com/zhaopuming/awesome-d#readme)
 - [Common Lisp](https://github.com/CodyReichert/awesome-cl#readme)
@@ -164,6 +164,7 @@
 - [Idris](https://github.com/joaomilho/awesome-idris#readme) -具有Haskell和ML影响的依赖类型的通用纯函数式编程语言.
 - [Ada/SPARK](https://github.com/ohenley/awesome-ada#readme) -专为大型，寿命长的应用而设计的现代编程语言，这些应用对可靠性和效率至关重要.
 - [Q#](https://github.com/ebraminio/awesome-qsharp#readme) -用于表示量子算法的领域特定的编程语言.
+- [Imba](https://github.com/koolamusic/awesome-imba#readme) -受Ruby和Python启发的编程语言，可编译为高性能JavaScript.
 
 
 ## Front-End Development
@@ -514,7 +515,7 @@
 
 - [Bitcoin](https://github.com/igorbarinov/awesome-bitcoin#readme) -面向软件开发人员的比特币服务和工具.
 - [Ripple](https://github.com/vhpoet/awesome-ripple#readme) -开源分布式结算网络.
-- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) - Non-financial blockchain applications.
+- [Non-Financial Blockchain](https://github.com/machinomy/awesome-non-financial-blockchain#readme) -非金融区块链应用.
 - [Mastodon](https://github.com/tleb/awesome-mastodon#readme) -开源分散式微博网络.
 - [Ethereum](https://github.com/Tom2718/Awesome-Ethereum#readme) -用于智能合约开发的分布式计算平台.
 - [Blockchain AI](https://github.com/steven2358/awesome-blockchain-ai#readme) -人工智能和机器学习的区块链项目.
@@ -605,7 +606,7 @@
 - [Healthcare](https://github.com/kakoni/awesome-healthcare#readme) -适用于设施，提供商，开发商，政策专家和研究人员的开源医疗软件.
 - [Magento 2](https://github.com/DavidLambauer/awesome-magento2#readme) -使用PHP构建的开源电子商务.
 - [TikZ](https://github.com/xiaohanyu/awesome-tikz#readme) -用于TeX / LaTeX / ConTeXt的图形绘图包.
-- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) - Study of the nervous system and brain.
+- [Neuroscience](https://github.com/analyticalmonk/awesome-neuroscience#readme) -研究神经系统和大脑.
 - [Ad-Free](https://github.com/johnjago/awesome-ad-free#readme) -无广告替代品.
 - [Esolangs](https://github.com/angrykoala/awesome-esolangs#readme) -为实验或玩笑而不是实际使用而设计的编程语言.
 - [Prometheus](https://github.com/roaldnefs/awesome-prometheus#readme) -开源监控系统.
@@ -615,7 +616,7 @@
 - [Crypto Currency Tools & Algorithms](https://github.com/Zheaoli/awesome-coins#readme) -数字货币，其中加密用于调节单位的生成和验证转移.
 - [Diversity](https://github.com/folkswhocode/awesome-diversity#readme) -建立一个更具包容性和多元化的技术社区.
 - [Open Source Supporters](https://github.com/zachflower/awesome-open-source-supporters#readme) -免费提供开源项目的工具和服务的公司.
-- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) -创建更好，更一致的设计和体验.
+- [Design Principles](https://github.com/robinstickel/awesome-design-principles#readme) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing](https://github.com/mojoaxel/awesome-regression-testing#readme) -确保更改不会破坏功能或样式.
 - [Theravada](https://github.com/johnjago/awesome-theravada#readme) -上座部佛教传统的教Teaching.
 - [inspectIT](https://github.com/inspectit-labs/awesome-inspectit#readme) -开源Java应用性能管理工具.

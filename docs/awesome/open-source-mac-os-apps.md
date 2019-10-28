@@ -305,7 +305,7 @@
 - [Fluor](https://github.com/Pyroh/Fluor)  -适用于macOS的便捷工具，可让您基于活动的应用程序切换Fn键的模式.  ！[swift_icon] 
 - [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) -Karabiner-Elements配置管理器，营救到肿的karabiner.json！[clojure_icon] 
 - [Karabiner](https://github.com/tekezo/Karabiner)  -Karabiner（KeyRemap4MacBook）是强大的键盘自定义实用程序.  ！[cpp_icon]！[objective_c_icon] 
-- [Karabiner-Elements](https://github.com/tekezo/Karabiner-Elements)  -Karabiner-Elements是功能强大的实用程序，可在macOS Sierra（10.12）或更高版本上自定义键盘.  ！[cpp_icon]！[objective_c_icon] 
+- [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements)  -Karabiner-Elements是功能强大的实用程序，可在macOS Sierra（10.12）或更高版本上自定义键盘.  ！[cpp_icon]！[objective_c_icon] 
 - [Kawa](https://github.com/utatti/kawa)  -更好的macOS输入源切换器.  ！[swift_icon] 
 - [Thor](https://github.com/gbammc/Thor)  -尽快切换正确的应用程序.  ！[swift_icon] 
 - [Unshaky](https://github.com/aahung/Unshaky) -一种软件尝试解决Apple蝶形键盘上的“双键按下”问题！[swift_icon] 

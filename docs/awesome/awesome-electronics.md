@@ -24,7 +24,7 @@
 
 ### Theory and Courses
 - [All About Circuits](https://www.allaboutcircuits.com/textbook/) -用于学习理论的在线教科书，带有清晰的图示和说明.
-- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) -具有很多主题的在线学习平台，包括电气工程，电路，半导体，信号，机器人甚至逆向工程电子设备的完整课程.
+- [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) -具有许多主题的在线学习平台，包括电气工程，电路，半导体，信号，机器人甚至逆向工程电子设备的完整课程.
 
 
 ## Simulators
@@ -41,7 +41,7 @@
 - [Tracespace Viewer](http://viewer.tracespace.io) -Gerber查看器，可让您检查各个图层以及板预览.
 - [Gerblook](http://gerblook.org/) -由Gerbv支持的在线Gerber查看器.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) -3D Gerber查看器.
-- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，没有过多的处理.
+- [CircuitPeople](https://circuitpeople.com) -Gerbers的2D图层查看器没有多余的装饰，无需过多处理.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) -适用于Linux和BSD的出色Gerber查看器.
@@ -74,6 +74,9 @@
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
 - [Adafruit Eagle Library](https://github.com/adafruit/Adafruit-Eagle-Library)
 - [SparkFun Electronics Eagle Libraries](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+
+## PCB Syntax Highlighting
+- [Language PCB](https://github.com/Alhadis/language-pcb) -各种PCB格式的语法突出显示.
 
 ## PCB Batching Services
 - [PCB Shopper](https://pcbshopper.com/) -比较服务，可用于许多不同的PCB批处理和组装服务.

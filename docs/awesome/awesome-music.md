@@ -62,7 +62,7 @@
 
 ## Music Notation
 
-* [Abjad](http://projectabjad.org/) -基于Lilypond的形式化分数控制的Python API.
+* [Abjad](http://abjad.mbrsi.org/) -基于Lilypond的形式化分数控制的Python API.
 * [Denemo](http://www.denemo.org/) -基于Lilypond的免费音乐符号编辑器.
 * [Jan Angermüller's music fonts page](http://elbsound.studio/music_fonts.php) -不同音乐字体的列表和视觉比较.
 * [Frescobaldi](https://github.com/wbsoft/frescobaldi) -免费的Lilypond乐谱编辑器.
