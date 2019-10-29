@@ -61,7 +61,7 @@
 - [fluent-localize-mixin](https://www.npmjs.com/package/fluent-localize-mixin) -LitElement扩展，可轻松实现开箱即用.
 - [haunted-lit-element](https://www.npmjs.com/package/haunted-lit-element) -之间缺少连接 [Haunted](https://www.npmjs.com/package/haunted) 和LitElement.
 - [lit-robot](https://www.npmjs.com/package/lit-robot) -与LitElement集成 [Robot](https://thisrobot.life/).
-- [nextbone](https://www.npmjs.com/package/nextbone) -通过ES类和装饰器重新构想了与LitElement一起使用的主干网.
+- [nextbone](https://www.npmjs.com/package/nextbone) - Backbone re-imagined with ES classes and decorators for using with LitElement.
 
 ### Other
 
@@ -97,7 +97,7 @@
 ## Starter Templates
 
 - [PWA Starter Kit](https://github.com/Polymer/pwa-starter-kit) -由Polymer团队提供的入门模板.
-- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) - Starter app based on Open Web Components Recommendations.
+- [open-wc-starter-app](https://github.com/open-wc/open-wc-starter-app) -基于Open Web Components建议的Starter应用.
 - [generator-lit-element-next](https://github.com/motss/generator-lit-element-next) -生成器，用于使用TypeScript中的最新LitElement开发下一个自定义元素.
 - [@rxdi/starter-client-lit-html](https://github.com/rxdi/starter-client-side-lit-html) -使用`@ rxdi`，lit-html，GraphQL，依赖项注入构建客户端应用程序.
 
@@ -125,6 +125,11 @@
 - [Nutmeg](https://github.com/abraham/nutmeg-cli) -CLI工具，用于构建，测试和发布香草Web组件，只需要一点点香料.
 - [open-wc](https://github.com/open-wc) -一组建议，可帮助您生成，测试，检查，演示和发布Web组件.
 
+## Static Site Generators
+
+- [Greenwood](https://github.com/ProjectEvergreen/greenwood) -现代化的高性能静态站点生成器，支持基于Web组件的开发.
+- [Hydrogen](https://github.com/ShailenNaidoo/hydrogen) -使用TypeScript构建的静态站点生成器，该模板使用受lit-html启发的模板.
+
 ## Examples
 
 - [lit-demos](https://github.com/open-wc/lit-demos) -使用lit-html库和LitElement基类的示例.
@@ -140,7 +145,7 @@
 ## Podcasts
 
 - [The Web Platform Podcast 159: lit-html - HTML Templates via JavaScript Template Literals](https://thewebplatformpodcast.com/159-lithtml-html-templates-via-javascript-template-literals) -
-点亮html的创作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
+点亮html的作者贾斯汀·法格纳尼（Justin Fagnani）的一集.
 - [ShopTalk Show 348: Getting lit-html with Justin Fagnani](https://shoptalkshow.com/episodes/348/) -贾斯汀·法格纳尼（Justin Fagnani）作为来宾的另一集.
 
 ## Blogs

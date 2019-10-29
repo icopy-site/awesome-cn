@@ -153,7 +153,7 @@ _任何人都可以创建一个附件，以下是由社区创建的._
 _Home Assistant前端已经很漂亮了，但是您可以对其进行自定义
 适合您的需求或更好地品尝.
 
-- [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) - The official documentation.
+- [Lovelace UI Documentation](https://www.home-assistant.io/lovelace) -官方文件.
 -  [Getting started with Lovelace UI](https://www.youtube.com/watch?v=ObfRzMIEJPgx) -DrZzs对Lovelace UI的精彩介绍.
 - [Plan Coordinates](https://github.com/ciotlosm/custom-lovelace/tree/master/plan-coordinates) -有助于查找“图片元素”卡的左值和上值.
 - [Share the Love](https://sharethelove.io) -Lovelace的自定义卡演示和配置示例.
@@ -177,6 +177,7 @@ _这与外观有关，请应用一些样式.
 - [Many Themes, One Repo](https://github.com/maartenpaauw/home-assistant-community-themes/) -方便的ZIP文件中的13个主题.
 - [Slate](https://github.com/seangreen2/slate_theme) -接近香草的深色主题来自seangreen2.
 - [Synthwave](https://github.com/bbbenji/synthwave-hass) -受现代Synthwave乐队的封面作品影响的主题.
+- [Google Home Theme](https://github.com/liri/lovelace-themes) -符合Google Home Hub设计的两个主题（浅色和深色）.
 
 ### Custom Lovelace UI Cards
 
@@ -205,11 +206,11 @@ _Lovelace允许人们在其上构建自定义卡片，您可以
 - [Dual Gauge Card](https://github.com/Rocka84/dual-gauge-card) -将两个压力表合二为一.
 - [Atomic Calendar Card](https://github.com/atomic7777/atomic_calendar) -具有高级设置的日历卡.
 - [Xiaomi Vacuum Card](https://github.com/benct/lovelace-xiaomi-vacuum-card) -小米吸尘器（及其他）的详细卡片.
-- [Simple Weather Card](https://github.com/kalkih/simple-weather-card) - A minimalistic weather card, inspired by Google Material Design.
+- [Simple Weather Card](https://github.com/kalkih/simple-weather-card) -简约的气象卡，灵感来自Google Material Design.
 - [Lovelace Floorplan](https://github.com/pkozul/lovelace-floorplan) -通过平面图与您的实体进行交互.
 - [Home Card](https://github.com/postlund/home-card) -快速浏览您的房屋状况.
-- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添趣味.
-- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -显示以下服务中即将发布的剧集和电影：Plex，Kodi，Radarr，Sonarr和Trakt.
+- [Banner Card](https://github.com/nervetattoo/banner-card) -蓬松的可链接横幅，带有交互式的外观，可为您的家庭仪表板增添色彩.
+- [Upcoming Media Card](https://github.com/custom-cards/upcoming-media-card) -通过Plex，Kodi，Radarr，Sonarr和Trakt等服务显示即将来临的剧集和电影.
 - [Spotify Card](https://github.com/custom-cards/spotify-card) -在Spotify上列出并从当前可用的设备和用户中选择播放列表.
 - [Battery Entity](https://github.com/cbulock/lovelace-battery-entity) -显示电池实体的电池电量.
 - [Multiple Entity Row](https://github.com/benct/lovelace-multiple-entity-row) -在实体行上显示多个实体状态或属性.
@@ -229,17 +230,17 @@ _由社区创建的Home Assistant的其他组件.
 - [Hue Sensors](https://github.com/robmarkcole/Hue-sensors-HASS) -允许使用Philips Hue传感器.
 - [Google Geocode](https://github.com/michaelmcarthur/GoogleGeocode-HASS) -将设备跟踪器的位置转换为人类可读的地址.
 - [Lutron Caseta Pro](https://github.com/upsert/lutron-caseta-pro) -集成了路创Caseta Smart Bridge PRO / RA2 Select.
-- [SmartIR](https://github.com/smartHomeHub/SmartIR) -使用Broadlink IR集成设备.
+- [SmartIR](https://github.com/smartHomeHub/SmartIR) - Integrates devices using Broadlink IR.
 - [Xiaomi Hygrothermo](https://github.com/dolezsa/Xiaomi_Hygrothermo) -小米Mijia BT Hygrothermo温湿度传感器的传感器平台.
 - [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) -集成大众汽车通行证（需要有效的通行证订阅）.
 - [Untappd](https://github.com/custom-components/sensor.untapped) -与您的Untappd帐户关联.
-- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) -将事件发布到Elasticsearch.
+- [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
 - [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) -使用库存固件控制Sonoff / eWeLink智能设备.
 - [Alexa Media Player](https://github.com/keatontaylor/alexa_media_player) -允许控制Amazon Alexa设备.
 - [iCloud3](https://github.com/gcobb321/icloud3) -具有许多功能的iCloud设备跟踪器组件的改进版本.
 - [HACS](https://hacs.netlify.com/) -这是您的自定义集成（组件）和插件（lovelace元素）需求的管理器.
 - [breaking_changes](https://github.com/custom-components/breaking_changes) -根据加载的组件显示当前发布版本中潜在的Breaking_changes的组件.
-- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可以使您的变色灯与全天正常自然发生的天空色温缓慢同步.
+- [Circadian Lighting](https://github.com/claytonjn/hass-circadian_lighting) -昼夜节律照明可将您的变色灯与全天正常自然发生的天空色温缓慢同步.
 - [HASS Aarlo](https://github.com/twrecked/hass-aarlo)  -异步Arlo集成.  类似于Arlo网站；  监视所有基站，摄像机和门铃的事件和状态.
 
 ## DIY

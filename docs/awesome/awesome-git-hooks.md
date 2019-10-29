@@ -30,10 +30,11 @@
 
 注意：每个脚本旁边的图标表示该脚本使用的语言.
 
- |  图标|  语言|  图标|  语言|
-| -------------------------------------------------------- | -------- | ---------------------------------------------------- | -------- |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">      |  bash | <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">  |  `perl` |
-| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">  |  `python` |  |  |
+ |  图标|  语言|
+| -------------------------------------------------------- | -------- |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/bash-icon.png" alt="Bash Icon">      |  bash |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/python-icon.png" alt="Python Icon">  |  `python` |
+| <img width="14" src="https://raw.githubusercontent.com/compscilauren/awesome-git-hooks/master/perl-icon.png" alt="Perl Icon">      |  `perl` |
 
 ### commit-msg
 

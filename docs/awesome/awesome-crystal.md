@@ -213,7 +213,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [jihantoro-cr-mysql](https://github.com/codenoid/jihantoro-cr-mysql) -从零开始示例应用程序的Crystal MySQL
  * [jihantoro.sd](https://github.com/codenoid/jihantoro.sd) -Serdar Dogruyol博客的Crystal和Kemal版本
  * [kemal-chat](https://github.com/sdogruyol/kemal-chat) -使用Kemal和WebSocket构建实时应用程序
- * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) -该存储库显示了如何在几秒钟内发布以kemal框架为动力的开源应用程序
+ * [kemal-heroku-example](https://github.com/cagataycali/kemal-heroku-example) -此存储库显示了如何在几秒钟内发布支持kemal框架的开源应用程序，将其作为heroku应用程序发布
  * [kemal-mysql-blog](https://github.com/codenoid/kemal-mysql-blog) -用Crystal，Kemal和MySQL编写的博客
  * [kemal-react-chat](https://github.com/f/kemal-react-chat) -使用Kemal和React构建实时Web应用程序
  * [kemal-vue-chat](https://github.com/ChangJoo-Park/kemal-vue-chat) -使用Kemal和Vue.js构建实时Web应用程序
@@ -289,6 +289,7 @@ Search [Crystal Shards](https://crystalshards.xyz) 或关注公告[Crystal [ANN]
  * [keyer_cr](https://github.com/danielpclark/keyer_cr) -将HTTP GET / POST参数解析添加为类似哈希的对象
  * [ngrok.cr](https://github.com/watzon/ngrok.cr) -Ngrok包装纸
  * [params](https://github.com/vladfaust/params.cr) -强类型的HTTP参数解析模块
+ * [proxy-fetcher.cr](https://github.com/nbulaj/proxy-fetcher.cr) -代理列表获取和验证库
  * [resp-crystal](https://github.com/soveran/resp-crystal) -轻量级RESP客户端
  * [sse.cr](https://github.com/y2k2mt/sse.cr) - [Server-Sent Events](https://www.w3.org/TR/2009/WD-eventsource-20090421) 客户
 

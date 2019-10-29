@@ -73,7 +73,7 @@
 ### Others
 * [CNTK](https://github.com/Microsoft/CNTK) -Microsoft认知工具包（CNTK），一种开源的深度学习工具包.
 * [Neon](https://github.com/NervanaSystems/neon) -英特尔®Nervana™参考深度学习框架致力于在所有硬件上实现最佳性能.
-* [Tangent](https://github.com/google/tangent) -纯Python中的源到源可调试衍生物.
+* [Tangent](https://github.com/google/tangent) - Source-to-Source Debuggable Derivatives in Pure Python.
 * [autograd](https://github.com/HIPS/autograd) -有效地计算numpy代码的导数.
 * [Myia](https://github.com/mila-udem/myia) -深度学习框架（pre-alpha）.
 * [nnabla](https://github.com/sony/nnabla) -索尼的神经网络图书馆.
@@ -88,6 +88,7 @@
 * [Arctic](https://github.com/manahl/arctic) -高性能的时间序列和滴答数据存储.
 * [swifter](https://github.com/jmcarpenter2/swifter) -一种以最快的可用方式有效地将任何功能应用于熊猫数据框或系列的软件包.
 * [pandas_flavor](https://github.com/Zsailer/pandas_flavor) -一个包装，可以轻松编写自己的熊猫风味.
+* [pandas-log](https://github.com/eyaltrabelsi/pandas-log) -一个软件包，可以提供有关基本熊猫操作的反馈，并发现商务逻辑和性能问题.
 
 ### Pipelines
 * [pdpipe](https://github.com/shaypal5/pdpipe) -熊猫DataFrames的Sasy管道.
@@ -102,7 +103,7 @@
 * [Featuretools](https://github.com/Featuretools/featuretools) -自动化功能工程.
 
 ### Feature Selection
-* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库。
+* [scikit-feature](https://github.com/jundongl/scikit-feature) -python中的功能选择存储库.
 
 ## Visualization
 * [Matplotlib](https://github.com/matplotlib/matplotlib) -使用Python进行绘图.
@@ -148,7 +149,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
+* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 
@@ -167,7 +168,7 @@
 
 <a name="opt"></a>
 ## Optimization
-* [Spearmint](https://github.com/HIPS/Spearmint) -贝叶斯优化.
+* [Spearmint](https://github.com/HIPS/Spearmint) - Bayesian optimization.
 * [scikit-opt](https://github.com/guofei9987/scikit-opt) -启发式算法（遗传算法，粒子群优化，模拟退火，蚁群算法，免疫算法，人工鱼群算法）用于优化.
 * [SMAC3](https://github.com/automl/SMAC3) -基于顺序模型的算法配置.
 * [Optunity](https://github.com/claesenm/optunity) -是一个包含用于超参数调整的各种优化器的库.
@@ -220,7 +221,7 @@
 ## Distributed Computing
 * [Veles](https://github.com/Samsung/veles) -分布式机器学习平台.
 * [Jubatus](https://github.com/jubatus/jubatus) -分布式在线机器学习的框架和库.
-* [DMTK](https://github.com/Microsoft/DMTK) - Microsoft Distributed Machine Learning Toolkit.
+* [DMTK](https://github.com/Microsoft/DMTK) -Microsoft分布式机器学习工具包.
 * [PaddlePaddle](https://github.com/PaddlePaddle/Paddle) -PArallel分布式深度学习.
 * [Distributed](https://github.com/dask/distributed) -Python中的分布式计算.
 

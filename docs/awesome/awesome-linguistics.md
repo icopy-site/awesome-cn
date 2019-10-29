@@ -3,28 +3,28 @@
 ### Awesome Linguistics
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-与语言学远程相关的任何内容的精选列表，按字母顺序排序.
+与语言学密切相关的所有内容的精选列表，按字母顺序排序.
 
 
 ### Programming
-*用于开发应用程序的库，框架和应用程序.*
+*对开发应用程序有用的库，框架和应用程序.
 
 ### Platforms and toolkits
-* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) -  Haxe的早期语言分析和自然语言处理库.
-* [Natural](https://github.com/NaturalNode/natural) -  Node.js的通用自然语言工具.
-* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - 用于构建Python程序以使用人类语言数据的最完整平台.
-* [Snowball](http://snowball.tartarus.org/) -  Snowball是一种可以很容易地表示词干算法的语言.
-* [UralicNLP](https://github.com/mikahama/uralicNLP)   - 一个开源Python库，用于处理形态丰富且大部分是濒临灭绝的Uralic语言.  它可以为许多Uralic语言进行形态分析，生成，词形还原，消歧和词汇查找.
+* [Haxe-linguistics](https://github.com/sexybiggetje/haxe-linguistics) -Haxe的早期语言分析和自然语言处理库.
+* [Natural](https://github.com/NaturalNode/natural) -Node.js的通用自然语言工具.
+* [Natural Language ToolKit (NLTK)](http://www.nltk.org/) -用于构建Python程序以使用人类语言数据的最完整平台.
+* [Snowball](http://snowball.tartarus.org/) -Snowball是一种语言，可以轻松表示词干算法.
+* [UralicNLP](https://github.com/mikahama/uralicNLP)  -一个开放源代码的Python库，用于处理形态丰富且绝大部分濒临灭绝的Uralic语言.  它可以对许多乌拉尔语进行形态分析，生成，词形化，歧义消除和词汇查找.
 
 ### Algorithms
-* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) - 来自雪球的各种词干算法.
-* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - 由作者Martin Porter编写和维护的“官方”主页，用于分发Porter Stemming算法.
+* [Stemming algorithms for various European languages](http://snowball.tartarus.org/texts/stemmersoverview.html) -来自雪球的各种阻止算法.
+* [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) -由Porter Stemming Algorithm的作者Martin Porter编写和维护的“官方”主页.
 
 ### Data sets
-* [EuroRomCom Data](https://github.com/kirkins/euroromcom) -  JSON格式的泛浪漫单词列表.
+* [EuroRomCom Data](https://github.com/kirkins/euroromcom) -JSON格式的Pan-Romance单词列表.
 
 ### Resources
-*有趣的外部资源列表.*
+*有趣的外部资源清单.*
 
 ### On Wikipedia
 * [Bag of words model](http://en.wikipedia.org/wiki/Bag-of-words_model)
@@ -39,16 +39,17 @@
 * [Vector space model](http://en.wikipedia.org/wiki/Vector_space_model)
 
 ### On Youtube
-* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) - 马里兰大学计算语言学课程讲座.
+* [Computational Linguistics Lecture Playlist (Youtube)](https://www.youtube.com/playlist?list=PLegWUnz91WfuPebLI97-WueAP90JO-15i) -马里兰大学计算机语言学讲座.
+* [The Virtual Linguistics Campus](https://www.youtube.com/channel/UCaMpov1PPVXGcKYgwHjXB3g) -CC许可的教育视频与Marburg University的同名电子学习平台互连.
 
 ### Books
-*一些更有趣和完整的书籍.*
+*一些更有趣和更完整的书.
 
 #### Free
-* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) - 介绍性的书
+* [Essentials of Linguistics](https://essentialsoflinguistics.pressbooks.com/) -一本入门书
 * [Introduction to Linguistics](https://linguistics.ucla.edu/people/Kracht/courses/ling20-fall07/ling-intro.pdf)
-* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) - 使用haskell编程语言的未维护资源
-* [Natural Language Processing with Python](http://www.nltk.org/book/) - 来自NLTK包的书 
+* [Natural Language Processing for the Working Programmer](https://github.com/nlpwp) -使用haskell编程语言的未维护资源
+* [Natural Language Processing with Python](http://www.nltk.org/book/) -NLTK包装中的书 
 * [Text Mining with R](https://www.tidytextmining.com)
 
 #### Non free
@@ -60,3 +61,6 @@
 
 ### Lists
 * [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
+
+### Communities
+* [Linguistics Stack Exchange](https://linguistics.stackexchange.com/)
